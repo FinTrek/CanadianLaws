@@ -249,7 +249,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 **8.3** 
 
 - **(1)** Le distributeur autorisé :
-	- **a)** désigne une seule personne qualifiée responsable — il peut lui-même exercer cette fonction s’il est une personne physique — qui doit travailler à l’installation visée par la licence et qui est à la fois chargée de superviser les opérations relatives aux stupéfiants visées par la licence et d’assurer la conformité de ces opérations avec le présent règlement et le [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md) au nom du distributeur autorisé;
+	- **a)** désigne une seule personne qualifiée responsable — il peut lui-même exercer cette fonction s’il est une personne physique — qui doit travailler à l’installation visée par la licence et qui est à la fois chargée de superviser les opérations relatives aux stupéfiants visées par la licence et d’assurer la conformité de ces opérations avec le présent règlement et le [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md) au nom du distributeur;
 	- **b)** peut désigner une personne qualifiée responsable suppléante qui doit travailler à l’installation visée par la licence et qui est autorisée à remplacer la personne qualifiée responsable lorsque celle-ci est absente.
 
 - **(2)** La personne qualifiée responsable et, le cas échéant, la personne qualifiée responsable suppléante doivent se conformer aux exigences suivantes :
@@ -261,7 +261,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 		- **(i)** d’une infraction désignée en matière de drogue,
 		- **(ii)** d’une infraction désignée en matière criminelle,
 		- **(iii)** d’une infraction commise à l’étranger qui, commise au Canada, aurait constitué une infraction visée au sous-alinéa (i) ou (ii).
-> DORS/2004-237, art. 4; DORS/2010-221, art. 2; DORS/2012-230, art. 16; DORS/2013-119, art. 205.
+> DORS/2004-237, art. 4; DORS/2010-221, art. 2; DORS/2012-230, art. 16; DORS/2013-119, art. 205; DORS/2014-260, art. 26(F).
 
 
 
@@ -272,7 +272,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 	- **a)** si la licence est demandée :
 		- **(i)** pour une personne physique, le nom de celle-ci,
 		- **(ii)** pour une personne morale, sa dénomination sociale et tout autre nom enregistré dans une province sous lequel elle entend s’identifier ou poursuivre les opérations prévues dans la licence,
-		- **(iii)** pour le titulaire d’un poste, le nom du demandeur et le titre du poste;
+		- **(iii)** pour le titulaire d’un poste mentionné à l’alinéa 8.2c), le nom du demandeur et le titre du poste;
 	- **b)** l’adresse, le numéro de téléphone et, le cas échéant, le numéro de télécopieur et l’adresse électronique de l’installation visée par la licence de même que, si elle diffère de l’adresse de l’installation, son adresse postale;
 	- **c)** les nom, date de naissance et sexe du responsable de l’installation;
 	- **d)** s’agissant de la personne qualifiée responsable proposée et, le cas échéant, de la personne qualifiée responsable suppléante proposée :
@@ -283,7 +283,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 		- **(v)** les nom et titre de leur supérieur immédiat à l’installation,
 		- **(vi)** dans le cas d’un pharmacien ou d’un praticien, le nom de la province où a été délivré le permis d’exercice, la licence ou le certificat professionnel valide qu’il détient, ainsi que le numéro de ce permis, de cette licence ou de ce certificat;
 	- **e)** les nom et sexe des personnes physiques autorisées à commander des stupéfiants pour son compte;
-	- **f)** les opérations visées à l’article 8 pour lesquelles la licence est demandée et qui seraient effectuées à l’installation à laquelle s’appliquerait la licence;
+	- **f)** les opérations visées à l’article 8 pour lesquelles la licence est demandée et qui seraient effectuées à l’installation visée par la licence;
 	- **g)** dans le cas où la demande vise un produit ou un composé qui contient un stupéfiant mais n’est pas un nécessaire d’essai et qui serait fabriqué ou assemblé par lui ou pour son compte :
 		- **(i)** la marque nominative de chaque produit ou composé, le cas échéant,
 		- **(ii)** le stupéfiant que contient chaque produit ou composé,
@@ -313,10 +313,10 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 	- **c)** dans le cas où l’une des personnes visées à l’alinéa a) a, au cours des dix dernières années, eu sa résidence habituelle dans un pays autre que le Canada, un document émanant d’un service de police de ce pays attestant qu’elle a ou n’a pas, au cours des dix dernières années, été reconnue coupable dans ce pays en tant qu’adulte d’une infraction qui, commise au Canada, aurait été une infraction désignée en matière de drogue ou une infraction désignée en matière criminelle;
 	- **d)** une déclaration, signée et datée par le responsable de l’installation visée par la demande, attestant que la personne qualifiée responsable proposée et, le cas échéant, la personne qualifiée responsable suppléante proposée ont les connaissances et l’expérience exigées par l’alinéa 8.3(2)a);
 	- **e)** dans le cas où la personne qualifiée responsable proposée ou, le cas échéant, la personne qualifiée responsable suppléante proposée n’est pas un pharmacien, un praticien de la médecine, un dentiste ou un vétérinaire agréé par l’autorité provinciale attributive de licences en matière d’activités professionnelles, une copie du diplôme visé au sous-alinéa 8.3(2)b)(ii) et une copie du relevé de notes relatif à ce diplôme;
-	- **f)** dans le cas où le nom du demandeur figure sur l’étiquette d’un produit ou d’un composé contenant un stupéfiant, une copie de l’étiquette intérieure, au sens de l’article A.01.010 du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md), de chaque produit ou composé auquel s’appliquerait la licence;
+	- **f)** dans le cas où le nom du demandeur figure sur l’étiquette d’un produit ou d’un composé contenant un stupéfiant, une copie de l’étiquette intérieure, au sens de l’article A.01.010 du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md), de chaque produit ou composé visé par la licence;
 	- **g)** dans le cas où le demandeur est une personne morale, à la fois :
 		- **(i)** une copie de son certificat de constitution ou de tout autre acte constitutif,
-		- **(ii)** une copie de tout document déposé auprès de la province où se trouve l’installation à laquelle s’appliquerait la licence, qui indique sa dénomination sociale ou tout autre nom enregistré dans la province sous lequel le demandeur entend poursuivre les opérations prévues dans la licence ou s’identifier.
+		- **(ii)** une copie de tout document déposé auprès de la province où se trouve l’installation visée par la licence, qui indique sa dénomination sociale ou tout autre nom enregistré dans la province sous lequel le demandeur entend poursuivre les opérations prévues dans la licence ou s’identifier.
 
 - **(4)** La méthode prévue aux termes de l’alinéa (1)j) doit permettre :
 	- **a)** d’une part, la consignation des transactions de stupéfiants conformément à l’article 15;
@@ -326,7 +326,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 	- **a)** à ce qu’une recherche soit effectuée pour vérifier si elles ont eu, au cours des dix dernières années, un casier judiciaire, en tant qu’adulte, relativement aux infractions visées à ces alinéas;
 	- **b)** à fournir les renseignements nécessaires à la vérification du casier judiciaire et à se soumettre à toute opération d’identification nécessaire pour obtenir la vérification;
 	- **c)** à payer le prix exigé pour la vérification aux termes du [Règlement sur le prix à payer pour la vérification de casiers judiciaires à des fins civiles (Gendarmerie royale du Canada)](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/93/485.md).
-> DORS/85-588, art. 3(A); DORS/2004-237, art. 4; DORS/2010-221, art. 3; DORS/2012-230, art. 17.
+> DORS/85-588, art. 3(A); DORS/2004-237, art. 4; DORS/2010-221, art. 3; DORS/2012-230, art. 17; DORS/2014-260, art. 17 et 27(F).
 
 
 
@@ -339,14 +339,14 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 
 **9.2** Sous réserve de l’article 9.4, le ministre délivre au demandeur, après examen des renseignements et des documents exigés aux articles 9 et 9.1, une licence de distributeur autorisé qui contient les renseignements suivants :
 - **a)** le numéro de la licence;
-- **b)** le nom du titulaire, qu’il s’agisse de son propre nom ou du titre du poste dont il est titulaire, ou, s’il s’agit d’une personne morale, sa dénomination sociale;
+- **b)** le nom du distributeur ou le titre de son poste, ou, s’il s’agit d’une personne morale, sa dénomination sociale;
 - **c)** la liste des opérations autorisées;
 - **d)** l’adresse de l’installation où le distributeur peut se livrer aux opérations autorisées;
 - **e)** le nom du stupéfiant à l’égard duquel les opérations sont autorisées;
 - **f)** le niveau de sécurité applicable à l’installation, établi conformément à la Directive en matière de sécurité;
 - **g)** la date de prise d’effet de la licence;
 - **h)** la date d’expiration de la licence, laquelle ne peut suivre de plus de trois ans la date de prise d’effet de celle-ci;
-- **i)** le cas échéant, les conditions que le titulaire doit remplir :
+- **i)** le cas échéant, les conditions que le distributeur doit remplir :
 	- **(i)** pour que soit respectée une obligation internationale,
 	- **(ii)** pour assurer le niveau de sécurité visé à l’alinéa f),
 	- **(iii)** pour réduire tout risque d’atteinte à la sécurité ou à la santé publiques, notamment en raison du risque de détournement du stupéfiant vers un marché ou un usage illicite;
@@ -357,7 +357,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 	- **(iii)** le nom du stupéfiant que contient chaque produit ou composé,
 	- **(iv)** la concentration du stupéfiant dans chaque unité du produit ou du composé,
 	- **(v)** la quantité ou les formats d’emballage de chaque produit ou composé.
-> DORS/2004-237, art. 4; DORS/2010-221, art. 4 et 18(F).
+> DORS/2004-237, art. 4; DORS/2010-221, art. 4 et 18(F); DORS/2014-260, art. 18.
 
 
 
@@ -407,13 +407,13 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 		- **(iii)** l’original de la licence à renouveler.
 
 - **(2)** La demande de renouvellement doit satisfaire aux exigences suivantes :
-	- **a)** être signée par le responsable de l’installation à laquelle s’appliquerait la licence;
+	- **a)** être signée par le responsable de l’installation visée par la licence;
 	- **b)** être accompagnée d’une attestation signée par celui-ci portant :
 		- **(i)** d’une part, qu’à sa connaissance tous les renseignements et documents fournis à l’appui de la demande sont exacts et complets,
 		- **(ii)** d’autre part, qu’il est habilité à lier le demandeur.
 
 - **(3)** Sous réserve de l’article 9.4, après examen des renseignements et des documents exigés aux paragraphes (1) et (2) et à l’article 9.1, le ministre renouvelle la licence de distributeur autorisé qui contient les renseignements prévus aux alinéas 9.2a) à k).
-> DORS/2004-237, art. 4.
+> DORS/2004-237, art. 4; DORS/2014-260, art. 27(F).
 
 
 
@@ -425,16 +425,16 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 	- **b)** l’original de la licence en cause.
 
 - **(2)** La demande de modification de la licence doit satisfaire aux exigences suivantes :
-	- **a)** être signée par le responsable de l’installation à laquelle s’appliquerait la licence;
+	- **a)** être signée par le responsable de l’installation visée par la licence;
 	- **b)** être accompagnée d’une attestation signée par celui-ci portant :
 		- **(i)** d’une part, qu’à sa connaissance, tous les renseignements et documents fournis à l’appui de la demande sont exacts et complets,
 		- **(ii)** d’autre part, qu’il est habilité à lier le demandeur.
 
-- **(3)** Sous réserve de l’article 9.4, après examen de la demande et des documents à l’appui, le ministre modifie la licence en conséquence et peut l’assortir de conditions supplémentaires que le titulaire doit remplir à l’une ou l’autre des fins suivantes :
+- **(3)** Sous réserve de l’article 9.4, après examen de la demande et des documents à l’appui, le ministre modifie la licence de distributeur autorisé en conséquence et peut l’assortir de conditions supplémentaires que le distributeur doit remplir à l’une des fins suivantes :
 	- **a)** pour que soit respectée une obligation internationale;
 	- **b)** pour assurer le niveau de sécurité visé à l’alinéa 9.2f) ou tout autre niveau qui s’impose par suite de la modification;
 	- **c)** pour réduire tout risque d’atteinte à la sécurité ou à la santé publiques, notamment en raison du risque de détournement du stupéfiant vers un marché ou un usage illicite.
-> DORS/2004-237, art. 4; DORS/2010-221, art. 6(F) et 18(F).
+> DORS/2004-237, art. 4; DORS/2010-221, art. 6(F) et 18(F); DORS/2014-260, art. 19 et 27(F).
 
 
 
@@ -447,7 +447,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 		- **(ii)** à la désignation d’autres personnes physiques qui remplacent les suivantes ou, le cas échéant, s’ajoutent à elles :
 			- **(A)** le responsable de l’installation à laquelle s’applique la licence,
 			- **(B)** la personne qualifiée responsable à l’installation à laquelle s’applique la licence et, le cas échéant, la personne qualifiée responsable suppléante,
-			- **(C)** les personnes physiques autorisées à commander un stupéfiant au nom du distributeur autorisé;
+			- **(C)** les personnes physiques autorisées à commander un stupéfiant au nom du distributeur;
 	- **b)** aviser le ministre, dans les dix jours, qu’une personne visée à l’une des divisions a)(ii)(A) ou (C) a cessé d’exercer les fonctions mentionnées dans l’un des documents suivants :
 		- **(i)** la demande de licence présentée aux termes de l’article 9,
 		- **(ii)** la demande de renouvellement de la licence présentée aux termes de l’article 9.5,
@@ -465,13 +465,13 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 		- **(i)** les renseignements visés à l’alinéa 9(1)d),
 		- **(ii)** les documents visés aux alinéas 9(3)a), d) et e) et, sous réserve du paragraphe 9(5), les documents visés aux alinéas 9(3)b) et c);
 	- **c)** dans le cas du remplacement ou de l’adjonction d’une personne physique autorisée à commander un stupéfiant en son nom, le nom et le sexe de celle-ci.
-> DORS/2004-237, art. 4.
+> DORS/2004-237, art. 4; DORS/2014-260, art. 26(F).
 
 
 
 
-**9.8** Le ministre révoque la licence de distributeur autorisé si le titulaire en fait la demande ou l’informe de la perte ou du vol de celle-ci.
-> DORS/2004-237, art. 4.
+**9.8** Le ministre révoque la licence de distributeur autorisé si le distributeur en fait la demande ou l’informe de la perte ou du vol de celle-ci.
+> DORS/2004-237, art. 4; DORS/2014-260, art. 28(F).
 
 
 
@@ -480,18 +480,18 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 
 - **(1)** Sous réserve du paragraphe (2), le ministre révoque la licence de distributeur autorisé conformément à l’article 9.92 dans les cas suivants :
 	- **a)** la licence a été délivrée d’après des renseignements faux ou trompeurs fournis dans la demande ou des documents faux ou falsifiés à l’appui de celle-ci;
-	- **b)** le titulaire a contrevenu à la Loi ou à ses règlements ou aux conditions de sa licence ou d’un permis d’importation ou d’exportation délivré en vertu du présent règlement;
-	- **c)** le titulaire n’est plus admissible aux termes de l’article 8.2;
+	- **b)** le distributeur a contrevenu à la Loi ou à ses règlements ou aux conditions de sa licence ou d’un permis d’importation ou d’exportation délivré en vertu du présent règlement;
+	- **c)** le distributeur n’est plus admissible aux termes de l’article 8.2;
 	- **d)** il a été découvert que le responsable de l’installation à laquelle s’applique la licence, la personne qualifiée responsable à cette installation ou, le cas échéant, la personne qualifiée responsable suppléante a, au cours des dix dernières années, été reconnu coupable en tant qu’adulte, selon le cas :
 		- **(i)** d’une infraction désignée en matière de drogue,
 		- **(ii)** d’une infraction désignée en matière criminelle,
 		- **(iii)** d’une infraction commise à l’étranger qui, commise au Canada, aurait constitué une infraction visée au sous-alinéa (i) ou (ii);
-	- **e)** les renseignements reçus d’une autorité compétente ou des Nations Unies laissent raisonnablement croire que le titulaire a participé au détournement d’un stupéfiant vers un marché ou un usage illicite.
+	- **e)** les renseignements reçus d’une autorité compétente ou des Nations Unies laissent raisonnablement croire que le distributeur a participé au détournement d’un stupéfiant vers un marché ou un usage illicite.
 
 - **(2)** Sauf s’il est nécessaire de le faire en vue de protéger la sécurité ou la santé publiques, y compris en vue de prévenir le détournement d’un stupéfiant vers un marché ou un usage illicite, le ministre ne peut, dans les cas visés aux alinéas (1)a) ou b), révoquer la licence de distributeur autorisé si :
-	- **a)** d’une part, le distributeur autorisé n’a pas d’antécédents quant à la contravention de la Loi et des règlements pris ou maintenus en vigueur sous le régime de celle-ci;
+	- **a)** d’une part, le distributeur n’a pas d’antécédents quant à la contravention de la Loi et des règlements pris ou maintenus en vigueur sous le régime de celle-ci;
 	- **b)** d’autre part, il a pris les mesures correctives nécessaires pour assurer le respect de la Loi, du présent règlement et du [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md), ou a signé un engagement à cet effet.
-> DORS/2004-237, art. 4; DORS/2010-221, art. 7 et 18(F); DORS/2013-119, art. 207.
+> DORS/2004-237, art. 4; DORS/2010-221, art. 7 et 18(F); DORS/2013-119, art. 207; DORS/2014-260, art. 26(F) et 28(F).
 
 
 
@@ -504,14 +504,14 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 
 **9.92** 
 
-- **(1)** Lorsqu’il envisage de refuser de délivrer, de modifier ou de renouveler la licence de distributeur autorisé, aux termes du présent règlement, ou qu’il envisage de la révoquer, le ministre donne au demandeur ou au titulaire :
+- **(1)** Lorsqu’il envisage de refuser de délivrer, de modifier ou de renouveler la licence de distributeur autorisé, aux termes du présent règlement, ou qu’il envisage de la révoquer, le ministre donne au demandeur ou au distributeur :
 	- **a)** un avis à cet effet et un exposé écrit des motifs du refus ou de la révocation envisagés;
 	- **b)** la possibilité de se faire entendre à l’égard du refus ou de la révocation envisagés.
 
-- **(2)** La décision du ministre de suspendre la licence de distributeur autorisé aux termes du présent règlement prend effet aussitôt qu’il en avise l’intéressé et lui fournit un exposé écrit des motifs de la suspension.
+- **(2)** La décision du ministre de suspendre la licence de distributeur autorisé aux termes du présent règlement prend effet aussitôt qu’il en avise le distributeur et lui fournit un exposé écrit des motifs de la suspension.
 
 - **(3)** La personne qui reçoit un avis de suspension aux termes du paragraphe (2) peut, dans les dix jours qui en suivent la réception, présenter au ministre les motifs pour lesquels la suspension de sa licence de distributeur autorisé n’est pas fondée.
-> DORS/2004-237, art. 4.
+> DORS/2004-237, art. 4; DORS/2014-260, art. 20.
 
 
 
@@ -544,8 +544,10 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 
 - **(2)** Sauf s’il est nécessaire de le faire en vue de protéger la sécurité ou la santé publiques, y compris en vue de prévenir le détournement d’un stupéfiant vers un marché ou un usage illicite, le ministre ne peut, dans les cas visés aux alinéas 9.9(1)a) ou b) ou 13.1(1)b), révoquer le permis si son titulaire remplit les conditions prévues aux alinéas 9.9(2)a) et b).
 
-- **(3)** Si le titulaire ne se conforme pas à la décision du ministre de suspendre son permis aux termes de l’article 13.2 ou ne corrige pas la situation ayant donné lieu à la suspension, le ministre peut révoquer le permis.
-> DORS/2010-221, art. 8.
+- **(3)** Le ministre peut révoquer un permis aux conditions suivantes :
+	- **a)** le titulaire ne se conforme pas à la décision du ministre de suspendre son permis aux termes de l’article 13.2;
+	- **b)** le titulaire ne corrige pas la situation ayant donné lieu à la suspension dans le délai prévu au paragraphe 13.2(3).
+> DORS/2010-221, art. 8; DORS/2014-260, art. 21.
 
 
 
@@ -664,7 +666,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 
 - **(2.1)** Pour l’application du paragraphe (2), il est entendu que le distributeur autorisé ne peut vendre ou fournir un stupéfiant à une sage-femme, à un infirmier praticien ou à un podiatre que si, aux termes des articles 3 et 4 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md), ce praticien peut prescrire ce stupéfiant, l’avoir en sa possession ou se livrer à toute autre opération relativement à celui-ci.
 
-- **(2.2)** Il est interdit au distributeur autorisé de vendre ou de fournir de la marihuana séchée à une personne visée aux alinéas (2)b) à d), sauf s’il la produit au titre d’un contrat avec Sa Majesté du chef du Canada.
+- **(2.2)** Il est interdit au distributeur autorisé de vendre ou de fournir de la marihuana séchée à toute personne visée aux alinéas (2)b) à d), sauf s’il la produit au titre d’un contrat avec Sa Majesté du chef du Canada.
 
 - **(3)** Sous réserve de l’article 25, le distributeur autorisé peut vendre ou fournir de la méthadone à :
 	- **a)** un autre distributeur autorisé;
@@ -677,7 +679,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 - **(4)** [Abrogé, DORS/2013-172, art. 5]
 
 - **(5)** Le distributeur autorisé peut vendre ou fournir du chanvre indien au producteur autorisé.
-> DORS/78-154, art. 3; DORS/85-588, art. 5; DORS/85-930, art. 3; DORS/86-173, art. 2; DORS/99-124, art. 2; DORS/2004-237, art. 11; DORS/2010-221, art. 11; DORS/2012-230, art. 18; DORS/2013-119, art. 209; DORS/2013-172, art. 5.
+> DORS/78-154, art. 3; DORS/85-588, art. 5; DORS/85-930, art. 3; DORS/86-173, art. 2; DORS/99-124, art. 2; DORS/2004-237, art. 11; DORS/2010-221, art. 11; DORS/2012-230, art. 18; DORS/2013-119, art. 209; DORS/2013-172, art. 5; DORS/2014-260, art. 22.
 
 
 
@@ -713,7 +715,7 @@ qui précise le nom et la quantité du stupéfiant demandé.
 	- **a)** la commande est signée et datée par la personne indiquée, selon le cas :
 		- **(i)** dans le cas où le stupéfiant doit être vendu ou fourni à une personne visée à l’un des alinéas 24(2)a), b), c) ou e) ou 24(3)a), b) ou d) ou au paragraphe 24(5), par cette personne,
 		- **(ii)** dans les cas où le stupéfiant doit être fourni à un employé d’un hôpital ou à un praticien exerçant dans un hôpital, par le pharmacien responsable de l’officine de l’hôpital ou par un praticien autorisé par la personne à qui est confiée la charge de l’hôpital à signer la commande;
-	- **b)** le distributeur autorisé vérifie la signature visée à l’alinéa a) lorsqu’il ne la reconnaît pas.
+	- **b)** le distributeur vérifie la signature visée à l’alinéa a) lorsqu’il ne la reconnaît pas.
 
 - **(3)** Le distributeur autorisé qui reçoit une commande visée à l’alinéa (1)b) ou c) peut fournir un stupéfiant à un employé d’un hôpital ou à un praticien exerçant dans un hôpital, si la commande a été faite par le pharmacien responsable de l’officine de l’hôpital ou par un praticien autorisé par la personne à qui est confiée la charge de l’hôpital à faire la commande.
 
@@ -738,7 +740,7 @@ qui précise le nom et la quantité du stupéfiant demandé.
 	- **b)** identifier le pharmacien ou praticien faisant la commande au moyen du code unique propre au pharmacien ou praticien,
 	- **c)** traiter séparément et identifier les stupéfiants en séparant les commandes pour ces stupéfiants,
 	- **d)** déceler les commandes inhabituelles, qui de ce fait, nécessitent l’intervention du distributeur autorisé et
-	- **e)** exiger l’intervention manuelle du distributeur autorisé si un ou plus d’un procédé de contrôle fait défaut.
+	- **e)** exiger l’intervention manuelle du distributeur si un ou plus d’un procédé de contrôle fait défaut.
 
 - **(8)** Le distributeur autorisé qui reçoit d’un pharmacien ou d’un praticien une commande visée à l’alinéa (1)b), doit, dans les cinq jours ouvrables suivant l’exécution de la commande, obtenir et conserver un reçu portant :
 	- **a)** la signature du pharmacien ou du praticien qui a reçu le stupéfiant,
@@ -748,7 +750,7 @@ qui précise le nom et la quantité du stupéfiant demandé.
 - **(9)** Si, dans le délai prévu au paragraphe (8), le distributeur autorisé n’obtient pas le reçu requis du pharmacien ou du praticien à qui il a vendu ou fourni le stupéfiant, il doit refuser d’honorer, jusqu’à ce qu’il obtienne ce reçu :
 	- **a)** aucune autre commande visée à l’alinéa (1)b), que ce pharmacien ou ce praciticien envoie par ordinateur à partir d’un périphérique d’entrée à distance, ni
 	- **b)** aucune autre commande verbale visée à l’alinéa (1)c), que fait ce pharmacien ou ce praticien.
-> DORS/78-154, art. 4; DORS/85-588, art. 7; DORS/85-930, art. 5; DORS/99-124, art. 3; DORS/2004-237, art. 12; DORS/2010-221, art. 12; DORS/2012-230, art. 19; DORS/2013-119, art. 210; DORS/2013-172, art. 6.
+> DORS/78-154, art. 4; DORS/85-588, art. 7; DORS/85-930, art. 5; DORS/99-124, art. 3; DORS/2004-237, art. 12; DORS/2010-221, art. 12; DORS/2012-230, art. 19; DORS/2013-119, art. 210; DORS/2013-172, art. 6; DORS/2014-260, art. 23(A) et 26(F).
 
 
 
@@ -938,7 +940,7 @@ qui précise le nom et la quantité du stupéfiant demandé.
 - **(2)** Le pharmacien, immédiatement après avoir retourné, vendu ou fourni un stupéfiant en application du paragraphe (1) ou reçu un stupéfiant en application de l’alinéa (1)b) ou du paragraphe 65(4), consigne les détails de la transaction dans un cahier, un registre ou tout autre dossier approprié.
 
 - **(3)** Un pharmacien doit, immédiatement après avoir retiré, transporté ou transféré un stupéfiant de son établissement d’affaires à tout autre établissement d’affaires exploité par lui-même, avertir le ministre en précisant les détails.
-> DORS/81-361, art. 5; DORS/85-588, art. 18; DORS/2004-237, art. 19; DORS/2013-119, art. 213(A).
+> DORS/81-361, art. 5; DORS/85-588, art. 18; DORS/2004-237, art. 19; DORS/2013-119, art. 213(A); DORS/2014-260, art. 24(A).
 
 
 
@@ -1264,7 +1266,7 @@ qui précise le nom et la quantité du stupéfiant demandé.
 - **a)** retournée au producteur autorisé qui la lui a vendue ou fournie, si la commande est signée et datée par celui-ci;
 - **b)** vendue ou fournie, pour qu’elle soit détruite, au producteur autorisé qui a le droit de détruire de la marihuana séchée autre que celle qu’il produit, vend ou fournit, si la commande est signée et datée par celui-ci;
 - **c)** vendue ou fournie, pour qu’elle soit détruite, au distributeur autorisé qui a le droit de détruire de la marihuana séchée, si la commande est signée et datée par celui-ci.
-> DORS/2013-119, art. 226.
+> DORS/2013-119, art. 226; DORS/2014-260, art. 25(A).
 
 
 
