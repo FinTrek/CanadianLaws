@@ -34025,20 +34025,20 @@ vendus comme édulcorants. (*saccharin sweetener*)
 
 **G.02.001.2** 
 
-- **(1)** Le distributeur autorisé :
-	- **a)** désigne une seule personne qualifiée responsable — il peut lui-même exercer cette fonction s’il est une personne physique — qui doit travailler à l’installation visée par la licence et qui est à la fois chargée de superviser les opérations relatives aux drogues contrôlées visées par la licence et d’assurer la conformité de ces opérations avec le présent règlement au nom du distributeur autorisé;
+- **(1)** Le distributeur autorisé :
+	- **a)** désigne une seule personne qualifiée responsable — il peut lui-même exercer cette fonction s’il est une personne physique — qui doit travailler à l’installation visée par la licence et qui est à la fois chargée de superviser les opérations relatives aux drogues contrôlées visées par la licence et d’assurer la conformité de ces opérations avec le présent règlement au nom du distributeur;
 	- **b)** peut désigner une personne qualifiée responsable suppléante qui doit travailler à l’installation visée par la licence et qui est autorisée à remplacer la personne qualifiée responsable lorsque celle-ci est absente.
 
-- **(2)** La personne qualifiée responsable et, le cas échéant, la personne qualifiée responsable suppléante doivent se conformer aux exigences suivantes :
+- **(2)** La personne qualifiée responsable et, le cas échéant, la personne qualifiée responsable suppléante doivent se conformer aux exigences suivantes :
 	- **a)** bien connaître les dispositions de la Loi et de ses règlements qui s’appliquent à la licence du distributeur autorisé qui les a désignées et posséder des connaissances et une expérience de la chimie et de la pharmacologie pour pouvoir bien s’acquitter de leurs fonctions;
 	- **b)** être, selon le cas :
 		- **(i)** un pharmacien, un praticien de la médecine, un dentiste ou un vétérinaire agréé par l’autorité provinciale attributive de licences en matière d’activités professionnelles,
 		- **(ii)** titulaire d’un diplôme dans une discipline scientifique connexe — notamment la pharmacie, la médecine, la dentisterie, la médecine vétérinaire, la pharmacologie, la chimie organique ou le génie chimique — décerné par une université canadienne ou, s’il s’agit d’une université étrangère, reconnu par une université ou une association professionnelle canadiennes;
-	- **c)** ne pas avoir, au cours des dix dernières années, été reconnues coupables en tant qu’adulte :
+	- **c)** ne pas avoir, au cours des dix dernières années, été reconnues coupables en tant qu’adulte :
 		- **(i)** d’une infraction désignée en matière de drogue,
 		- **(ii)** d’une infraction désignée en matière criminelle,
 		- **(iii)** d’une infraction commise à l’étranger qui, commise au Canada, aurait constitué une infraction visée au sous-alinéa (i) ou (ii).
-> DORS/2004-238, art. 3; DORS/2010-222, art. 1(A) et 34; DORS/2012-230, art. 7.
+> DORS/2004-238, art. 3; DORS/2010-222, art. 1(A) et 34; DORS/2012-230, art. 7; DORS/2014-260, art. 14(F).
 
 
 
@@ -34055,11 +34055,11 @@ vendus comme édulcorants. (*saccharin sweetener*)
 
 **G.02.003** 
 
-- **(1)** Quiconque souhaite obtenir une licence de distributeur autorisé présente au ministre une demande dans laquelle il inscrit les renseignements suivants :
-	- **a)** si la licence est demandée :
+- **(1)** Quiconque souhaite obtenir une licence de distributeur autorisé présente au ministre une demande dans laquelle il inscrit les renseignements suivants :
+	- **a)** si la licence est demandée :
 		- **(i)** pour une personne physique, le nom de celle-ci,
 		- **(ii)** pour une personne morale, sa dénomination sociale et tout autre nom enregistré dans une province sous lequel elle entend s’identifier ou poursuivre les opérations prévues dans la licence,
-		- **(iii)** pour le titulaire d’un poste, le nom du demandeur et le titre du poste;
+		- **(iii)** pour le titulaire d’un poste mentionné à l’alinéa G.02.001.1c), le nom du demandeur et le titre du poste;
 	- **b)** l’adresse, le numéro de téléphone et, le cas échéant, le numéro de télécopieur et l’adresse électronique de l’installation visée par la licence de même que, si elle diffère de l’adresse de l’installation, son adresse postale;
 	- **c)** les nom, date de naissance et sexe du responsable de l’installation;
 	- **d)** s’agissant de la personne qualifiée responsable proposée et, le cas échéant, de la personne qualifiée responsable suppléante proposée :
@@ -34070,14 +34070,14 @@ vendus comme édulcorants. (*saccharin sweetener*)
 		- **(v)** les nom et titre de leur supérieur immédiat à l’installation,
 		- **(vi)** dans le cas d’un pharmacien ou d’un praticien, le nom de la province où a été délivré le permis d’exercice, la licence ou le certificat professionnel valide qu’il détient, ainsi que le numéro de ce permis, de cette licence ou de ce certificat;
 	- **e)** les nom et sexe des personnes physiques autorisées à commander des drogues contrôlées pour son compte;
-	- **f)** dans le cas où la demande vise un produit ou un composé qui contient une drogue contrôlée mais n’est pas un nécessaire d’essai et qui serait fabriqué ou assemblé par lui ou pour son compte :
+	- **f)** dans le cas où la demande vise un produit ou un composé qui contient une drogue contrôlée mais n’est pas un nécessaire d’essai et qui serait fabriqué ou assemblé par lui ou pour son compte :
 		- **(i)** la marque nominative de chaque produit ou composé, le cas échéant,
 		- **(ii)** la drogue contrôlée que contient chaque produit ou composé,
 		- **(iii)** la concentration de la drogue contrôlée dans chaque unité du produit ou du composé,
 		- **(iv)** la quantité ou les formats d’emballage de chaque produit ou composé,
 		- **(v)** dans le cas où le produit ou composé est fabriqué ou assemblé, sur commande spéciale, par un autre distributeur autorisé ou pour son compte, les nom, adresse et numéro de licence de cet autre distributeur;
-	- **g)** les opérations visées à l’article G.02.001 pour lesquelles la licence est demandée et qui seraient effectuées à l’installation à laquelle s’appliquerait la licence;
-	- **h)** dans le cas où il demande la licence pour produire une drogue contrôlée, à l’exclusion des produits ou composés contenant une drogue contrôlée :
+	- **g)** les opérations visées à l’article G.02.001 pour lesquelles la licence est demandée et qui seraient effectuées à l’installation visée par la licence;
+	- **h)** dans le cas où il demande la licence pour produire une drogue contrôlée, à l’exclusion des produits ou composés contenant une drogue contrôlée :
 		- **(i)** le nom de la drogue contrôlée à produire,
 		- **(ii)** la quantité qu’il entend produire en vertu de la licence et la période prévue pour sa production,
 		- **(iii)** s’il s’agit d’une drogue contrôlée produite sur commande spéciale pour le compte d’un autre distributeur autorisé, les nom, adresse et numéro de licence de ce dernier;
@@ -34085,13 +34085,13 @@ vendus comme édulcorants. (*saccharin sweetener*)
 	- **j)** la description détaillée de la méthode prévue pour la consignation des transactions des drogues contrôlées;
 	- **k)** dans le cas d’une opération visée à l’article G.02.001 qui n’est pas une opération à laquelle s’appliquent les alinéas f) et h), la drogue contrôlée à l’égard de laquelle cette opération sera effectuée et le but de l’opération.
 
-- **(2)** La demande de licence de distributeur autorisé doit satisfaire aux exigences suivantes :
+- **(2)** La demande de licence de distributeur autorisé doit satisfaire aux exigences suivantes :
 	- **a)** être signée par le responsable de l’installation visée par la demande;
-	- **b)** être accompagnée d’une attestation signée par celui-ci portant :
+	- **b)** être accompagnée d’une attestation signée par celui-ci portant :
 		- **(i)** d’une part, qu’à sa connaissance tous les renseignements et documents fournis à l’appui de la demande sont exacts et complets,
 		- **(ii)** d’autre part, qu’il est habilité à lier le demandeur.
 
-- **(3)** La demande de licence de distributeur autorisé doit être accompagnée de ce qui suit :
+- **(3)** La demande de licence de distributeur autorisé doit être accompagnée de ce qui suit :
 	- **a)** une déclaration signée du responsable de l’installation visée par la demande, une autre de la personne qualifiée responsable proposée et une autre, le cas échéant, de la personne qualifiée responsable suppléante proposée, chaque déclaration attestant que le signataire n’a pas, au cours des dix dernières années, été reconnu coupable en tant qu’adulte :
 		- **(i)** d’une infraction désignée en matière de drogue,
 		- **(ii)** d’une infraction désignée en matière criminelle,
@@ -34100,20 +34100,20 @@ vendus comme édulcorants. (*saccharin sweetener*)
 	- **c)** dans le cas où l’une des personnes visées à l’alinéa a) a eu, au cours des dix dernières années, sa résidence habituelle dans un pays autre que le Canada, un document émanant d’un service de police de ce pays attestant qu’elle a ou n’a pas, au cours des dix dernières années, été reconnue coupable dans ce pays en tant qu’adulte d’une infraction qui, si elle avait été commise au Canada, aurait été une infraction désignée en matière de drogue ou une infraction désignée en matière criminelle;
 	- **d)** une déclaration, signée et datée par le responsable de l’installation visée par la demande, attestant que la personne qualifiée responsable proposée et, le cas échéant, la personne qualifiée responsable suppléante proposée, ont les connaissances et l’expérience exigées par l’alinéa G.02.001.2(2)a);
 	- **e)** dans le cas où la personne qualifiée responsable proposée ou, le cas échéant, la personne qualifiée responsable suppléante proposée n’est pas un pharmacien, un praticien de la médecine, un dentiste ou un vétérinaire agréé par l’autorité provinciale attributive de licences en matière d’activités professionnelles, une copie du diplôme visé au sous-alinéa G.02.001.2(2)b)(ii) et une copie du relevé de notes relatif à ce diplôme;
-	- **f)** dans le cas où le nom du demandeur figure sur l’étiquette d’un produit ou d’un composé contenant une drogue contrôlée, une copie de l’étiquette intérieure, au sens de l’article A.01.010, de chaque produit ou composé auquel s’appliquerait la licence;
-	- **g)** dans le cas où le demandeur est une personne morale, à la fois :
+	- **f)** dans le cas où le nom du demandeur figure sur l’étiquette d’un produit ou d’un composé contenant une drogue contrôlée, une copie de l’étiquette intérieure, au sens de l’article A.01.010, de chaque produit ou composé visé par la licence;
+	- **g)** dans le cas où le demandeur est une personne morale, à la fois :
 		- **(i)** une copie de son certificat de constitution ou de tout autre acte constitutif,
-		- **(ii)** une copie de tout document déposé auprès de la province où se trouve l’installation à laquelle s’appliquerait la licence, qui indique sa dénomination sociale ou tout autre nom enregistré dans la province sous lequel le demandeur entend s’identifier ou poursuivre les opérations prévues dans la licence.
+		- **(ii)** une copie de tout document déposé auprès de la province où se trouve l’installation visée par la licence, qui indique sa dénomination sociale ou tout autre nom enregistré dans la province sous lequel le demandeur entend s’identifier ou poursuivre les opérations prévues dans la licence.
 
-- **(4)** La méthode prévue aux termes de l’alinéa (1)j) doit permettre :
+- **(4)** La méthode prévue aux termes de l’alinéa (1)j) doit permettre :
 	- **a)** d’une part, la consignation des transactions de drogues contrôlées conformément à l’article G.02.014;
 	- **b)** d’autre part, la vérification par le ministre des opérations du distributeur autorisé relativement aux drogues contrôlées.
 
-- **(5)** Les documents visés aux alinéas (3)b) et c) n’ont pas à être fournis si les personnes mentionnées à ces alinéas consentent par écrit :
+- **(5)** Les documents visés aux alinéas (3)b) et c) n’ont pas à être fournis si les personnes mentionnées à ces alinéas consentent par écrit :
 	- **a)** à ce qu’une recherche soit effectuée pour vérifier si elles ont eu, au cours des dix dernières années, un casier judiciaire, en tant qu’adulte, relativement aux infractions visées à ces alinéas;
 	- **b)** à fournir les renseignements nécessaires à la vérification du casier judiciaire et à se soumettre à toute opération d’identification nécessaire pour obtenir la vérification;
 	- **c)** à payer le prix exigé pour la vérification aux termes du [Règlement sur le prix à payer pour la vérification de casiers judiciaires à des fins civiles (Gendarmerie royale du Canada)](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/93/485.md).
-> DORS/2004-238, art. 4; DORS/2010-222, art. 2; DORS/2012-230, art. 8.
+> DORS/2004-238, art. 4; DORS/2010-222, art. 2; DORS/2012-230, art. 8; DORS/2014-260, art. 1 et 16(F).
 
 
 
@@ -34124,27 +34124,27 @@ vendus comme édulcorants. (*saccharin sweetener*)
 
 
 
-**G.02.003.2** Sous réserve de l’article G.02.003.3, le ministre délivre au demandeur, après examen des renseignements et des documents exigés aux articles G.02.003 et G.02.003.1, une licence de distributeur autorisé qui contient les renseignements suivants :
+**G.02.003.2** Sous réserve de l’article G.02.003.3, le ministre délivre au demandeur, après examen des renseignements et des documents exigés aux articles G.02.003 et G.02.003.1, une licence de distributeur autorisé qui contient les renseignements suivants :
 - **a)** le numéro de la licence;
-- **b)** le nom du titulaire, qu’il s’agisse de son propre nom ou du titre du poste dont il est titulaire, ou, s’il s’agit d’une personne morale, sa dénomination sociale;
+- **b)** le nom du distributeur ou le titre de son poste, ou, s’il s’agit d’une personne morale, sa dénomination sociale;
 - **c)** la liste des opérations autorisées;
 - **d)** l’adresse de l’installation où le distributeur peut se livrer aux opérations autorisées;
 - **e)** le nom de la drogue contrôlée à l’égard de laquelle les opérations sont autorisées;
 - **f)** le niveau de sécurité applicable à l’installation, établi conformément à la Directive en matière de sécurité;
 - **g)** la date de prise d’effet de la licence;
 - **h)** la date d’expiration de la licence, laquelle ne peut suivre de plus de trois ans la date de prise d’effet de celle-ci;
-- **i)** le cas échéant, les conditions que le titulaire doit remplir :
+- **i)** le cas échéant, les conditions que le distributeur doit remplir :
 	- **(i)** pour que soit respectée une obligation internationale,
 	- **(ii)** pour assurer le niveau de sécurité visé à l’alinéa f),
 	- **(iii)** pour réduire tout risque d’atteinte à la sécurité ou à la santé publiques, notamment en raison du risque de détournement de la drogue contrôlée vers un marché ou un usage illicite;
 - **j)** dans le cas du producteur d’une drogue contrôlée, la quantité de celle-ci qui peut être produite en vertu de la licence et la période de production autorisée;
-- **k)** dans le cas du fabricant ou de l’assembleur d’un produit ou d’un composé qui contient une drogue contrôlée mais n’est pas un nécessaire d’essai, une liste figurant en annexe qui indique, pour chaque type de produit ou de composé qui peut être fabriqué ou assemblé en vertu de la licence :
+- **k)** dans le cas du fabricant ou de l’assembleur d’un produit ou d’un composé qui contient une drogue contrôlée mais n’est pas un nécessaire d’essai, une liste figurant en annexe qui indique, pour chaque type de produit ou de composé qui peut être fabriqué ou assemblé en vertu de la licence :
 	- **(i)** le numéro de licence,
 	- **(ii)** la marque nominative de chaque produit ou composé, le cas échéant,
 	- **(iii)** le nom de la drogue contrôlée que contient chaque produit ou composé,
 	- **(iv)** la concentration de la drogue contrôlée dans chaque unité du produit ou du composé,
 	- **(v)** la quantité ou les formats d’emballage de chaque produit ou composé.
-> DORS/2004-238, art. 4; DORS/2010-222, art. 3 et 35(F).
+> DORS/2004-238, art. 4; DORS/2010-222, art. 3 et 35(F); DORS/2014-260, art. 2.
 
 
 
@@ -34179,99 +34179,99 @@ vendus comme édulcorants. (*saccharin sweetener*)
 
 **G.02.003.4** 
 
-- **(1)** Le distributeur autorisé qui souhaite obtenir le renouvellement de sa licence présente au ministre une demande :
+- **(1)** Le distributeur autorisé qui souhaite obtenir le renouvellement de sa licence présente au ministre une demande :
 	- **a)** dans laquelle il inscrit les renseignements visés aux alinéas G.02.003(1)a) à k);
-	- **b)** à laquelle il joint les documents suivants :
+	- **b)** à laquelle il joint les documents suivants :
 		- **(i)** les documents visés aux alinéas G.02.003(3)a) et d) et, sous réserve du paragraphe G.02.003(5), le document visé à l’alinéa G.02.003(3)b),
 		- **(ii)** le cas échéant, le document visé à l’alinéa G.02.003(3)e), s’il n’a pas déjà été fourni relativement à la licence à renouveler,
 		- **(iii)** l’original de la licence à renouveler.
 
-- **(2)** La demande de renouvellement doit satisfaire aux exigences suivantes :
-	- **a)** être signée par le responsable de l’installation à laquelle s’appliquerait la licence;
-	- **b)** être accompagnée d’une attestation signée par celui-ci portant :
+- **(2)** La demande de renouvellement doit satisfaire aux exigences suivantes :
+	- **a)** être signée par le responsable de l’installation visée par la licence;
+	- **b)** être accompagnée d’une attestation signée par celui-ci portant :
 		- **(i)** d’une part, qu’à sa connaissance tous les renseignements et documents fournis à l’appui de la demande sont exacts et complets,
 		- **(ii)** d’autre part, qu’il est habilité à lier le demandeur.
 
 - **(3)** Sous réserve de l’article G.02.003.3, après examen des renseignements et des documents exigés aux paragraphes (1) et (2) et à l’article G.02.003.1, le ministre renouvelle la licence de distributeur autorisé qui contient les renseignements prévus aux alinéas G.02.003.2a) à k).
-> DORS/2004-238, art. 4.
+> DORS/2004-238, art. 4; DORS/2014-260, art. 16(F).
 
 
 
 
 **G.02.003.5** 
 
-- **(1)** Le distributeur autorisé qui souhaite faire modifier sa licence présente les documents suivants au ministre :
+- **(1)** Le distributeur autorisé qui souhaite faire modifier sa licence présente les documents suivants au ministre :
 	- **a)** une demande écrite expliquant la modification souhaitée, à laquelle sont joints ceux des documents visés à l’article G.02.003 qui sont pertinents à l’égard de la demande de modification;
 	- **b)** l’original de la licence en cause.
 
-- **(2)** La demande de modification de la licence doit satisfaire aux exigences suivantes :
-	- **a)** être signée par le responsable de l’installation à laquelle s’appliquerait la licence;
-	- **b)** être accompagnée d’une attestation signée par celui-ci portant :
+- **(2)** La demande de modification de la licence doit satisfaire aux exigences suivantes :
+	- **a)** être signée par le responsable de l’installation visée par la licence;
+	- **b)** être accompagnée d’une attestation signée par celui-ci portant :
 		- **(i)** d’une part, qu’à sa connaissance tous les renseignements et documents fournis à l’appui de la demande sont exacts et complets,
 		- **(ii)** d’autre part, qu’il est habilité à lier le demandeur.
 
-- **(3)** Sous réserve de l’article G.02.003.3, après examen de la demande et des documents à l’appui, le ministre modifie la licence en conséquence et peut l’assortir de conditions supplémentaires que le titulaire doit remplir à l’une ou l’autre des fins suivantes :
+- **(3)** Sous réserve de l’article G.02.003.3, après examen de la demande et des documents à l’appui, le ministre modifie la licence de distributeur autorisé en conséquence et peut l’assortir de conditions supplémentaires que le distributeur doit remplir à l’une ou l’autre des fins suivantes :
 	- **a)** pour que soit respectée une obligation internationale;
 	- **b)** pour assurer le niveau de sécurité applicable visé à l’alinéa G.02.003.2f) ou tout autre niveau qui s’impose par suite de la modification;
 	- **c)** pour réduire tout risque d’atteinte à la sécurité ou à la santé publiques, notamment en raison du risque de détournement de la drogue contrôlée vers un marché ou un usage illicite.
-> DORS/2004-238, art. 4; DORS/2010-222, art. 5(F) et 35(F).
+> DORS/2004-238, art. 4; DORS/2010-222, art. 5(F) et 35(F); DORS/2014-260, art. 3 et 16(F).
 
 
 
 
 **G.02.003.6** 
 
-- **(1)** Le distributeur autorisé doit satisfaire aux exigences suivantes :
-	- **a)** obtenir l’approbation du ministre avant de procéder :
+- **(1)** Le distributeur autorisé doit satisfaire aux exigences suivantes :
+	- **a)** obtenir l’approbation du ministre avant de procéder :
 		- **(i)** à une modification touchant la sécurité à l’installation mentionnée dans sa licence,
-		- **(ii)** à la désignation d’autres personnes physiques qui remplacent les suivantes ou, le cas échéant, s’ajoutent à elles :
+		- **(ii)** à la désignation d’autres personnes physiques qui remplacent les suivantes ou, le cas échéant, s’ajoutent à elles :
 			- **(A)** le responsable de l’installation à laquelle s’applique la licence,
 			- **(B)** la personne qualifiée responsable à l’installation à laquelle s’applique la licence et le cas échéant, la personne qualifiée responsable suppléante,
-			- **(C)** les personnes physiques autorisées à commander une drogue contrôlée au nom du distributeur autorisé;
-	- **b)** aviser le ministre, dans les dix jours, qu’une personne visée à l’une des divisions a)(ii)(A) ou (C) a cessé d’exercer les fonctions mentionnées dans l’un des documents suivants :
+			- **(C)** les personnes physiques autorisées à commander une drogue contrôlée au nom du distributeur;
+	- **b)** aviser le ministre, dans les dix jours, qu’une personne visée à l’une des divisions a)(ii)(A) ou (C) a cessé d’exercer les fonctions mentionnées dans l’un des documents suivants :
 		- **(i)** la demande de licence présentée aux termes de l’article G.02.003,
 		- **(ii)** la demande de renouvellement de la licence présentée aux termes de l’article G.02.003.4,
 		- **(iii)** la demande d’approbation présentée pour l’application de l’alinéa a);
-	- **c)** aviser le ministre, au plus tard le jour ouvrable suivant, qu’une personne visée à la division a)(ii)(B) a cessé d’exercer les fonctions mentionnées dans l’un des documents suivants :
+	- **c)** aviser le ministre, au plus tard le jour ouvrable suivant, qu’une personne visée à la division a)(ii)(B) a cessé d’exercer les fonctions mentionnées dans l’un des documents suivants :
 		- **(i)** la demande de licence présentée aux termes de l’article G.02.003,
 		- **(ii)** la demande de renouvellement de la licence présentée aux termes de l’article G.02.003.4,
 		- **(iii)** la demande d’approbation présentée pour l’application de l’alinéa a).
 
-- **(2)** En plus de la demande d’approbation visée au sous-alinéa (1)a)(ii), le distributeur autorisé doit, relativement à toute nomination, fournir ce qui suit au ministre :
-	- **a)** dans le cas du remplacement du responsable de l’installation à laquelle s’applique la licence :
+- **(2)** En plus de la demande d’approbation visée au sous-alinéa (1)a)(ii), le distributeur autorisé doit, relativement à toute nomination, fournir ce qui suit au ministre :
+	- **a)** dans le cas du remplacement du responsable de l’installation à laquelle s’applique la licence :
 		- **(i)** les renseignements visés à l’alinéa G.02.003(1)c),
 		- **(ii)** les déclarations visées à l’alinéa G.02.003(3)a) et, sous réserve du paragraphe G.02.003(5), les documents visés aux alinéas G.02.003(3)b) et c);
-	- **b)** dans le cas du remplacement de la personne qualifiée responsable à l’installation à laquelle s’applique la licence, ou dans celui du remplacement ou de l’adjonction d’une personne qualifiée responsable suppléante à cette installation :
+	- **b)** dans le cas du remplacement de la personne qualifiée responsable à l’installation à laquelle s’applique la licence, ou dans celui du remplacement ou de l’adjonction d’une personne qualifiée responsable suppléante à cette installation :
 		- **(i)** les renseignements visés à l’alinéa G.02.003(1)d),
 		- **(ii)** les documents visés aux alinéas G.02.003(3)a), d) et e) et, sous réserve du paragraphe G.02.003(5), les documents visés aux alinéas G.02.003(3)b) et c);
 	- **c)** dans le cas du remplacement ou de l’adjonction d’une personne physique autorisée à commander une drogue contrôlée en son nom, le nom et le sexe de celle-ci.
-> DORS/2004-238, art. 4.
+> DORS/2004-238, art. 4; DORS/2014-260, art. 14(F).
 
 
 
 
-**G.02.003.7** Le ministre révoque la licence de distributeur autorisé si le titulaire en fait la demande ou l’informe de la perte ou du vol de celle-ci.
-> DORS/2004-238, art. 4.
+**G.02.003.7** Le ministre révoque la licence de distributeur autorisé si le distributeur en fait la demande ou l’informe de la perte ou du vol de celle-ci.
+> DORS/2004-238, art. 4; DORS/2014-260, art. 15(F).
 
 
 
 
 **G.02.003.8** 
 
-- **(1)** Sous réserve du paragraphe (2), le ministre révoque la licence de distributeur autorisé conformément à l’article G.02.003.91 dans les cas suivants :
+- **(1)** Sous réserve du paragraphe (2), le ministre révoque la licence de distributeur autorisé conformément à l’article G.02.003.91 dans les cas suivants :
 	- **a)** la licence a été délivrée d’après des renseignements faux ou trompeurs fournis dans la demande ou des documents faux ou falsifiés à l’appui de celle-ci;
-	- **b)** le titulaire a contrevenu à la Loi ou à ses règlements ou aux conditions de sa licence ou d’un permis d’importation ou d’exportation délivré en vertu de la présente partie;
-	- **c)** le titulaire n’est plus admissible aux termes de l’article G.02.001.1;
-	- **d)** il a été découvert que le responsable de l’installation à laquelle s’applique la licence, la personne qualifiée responsable à cette installation ou, le cas échéant, la personne qualifiée responsable suppléante a, au cours des dix dernières années, été reconnu coupable en tant qu’adulte, selon le cas :
+	- **b)** le distributeur a contrevenu à la Loi ou à ses règlements ou aux conditions de sa licence ou d’un permis d’importation ou d’exportation délivré en vertu de la présente partie;
+	- **c)** le distributeur n’est plus admissible aux termes de l’article G.02.001.1;
+	- **d)** il a été découvert que le responsable de l’installation à laquelle s’applique la licence, la personne qualifiée responsable à cette installation ou, le cas échéant, la personne qualifiée responsable suppléante a, au cours des dix dernières années, été reconnu coupable en tant qu’adulte, selon le cas :
 		- **(i)** d’une infraction désignée en matière de drogue,
 		- **(ii)** d’une infraction désignée en matière criminelle,
 		- **(iii)** d’une infraction commise à l’étranger qui, commise au Canada, aurait constitué une infraction visée au sous-alinéa (i) ou (ii);
-	- **e)** les renseignements reçus d’une autorité compétente ou des Nations Unies laissent raisonnablement croire que le titulaire a participé au détournement d’une drogue contrôlée vers un marché ou un usage illicite.
+	- **e)** les renseignements reçus d’une autorité compétente ou des Nations Unies laissent raisonnablement croire que le distributeur a participé au détournement d’une drogue contrôlée vers un marché ou un usage illicite.
 
 - **(2)** Sauf s’il est nécessaire de le faire en vue de protéger la sécurité ou la santé publiques, y compris en vue de prévenir le détournement d’une drogue contrôlée vers un marché ou un usage illicite, le ministre ne peut, dans les cas visés aux alinéas (1)a) ou b), révoquer la licence de distributeur autorisé si :
-	- **a)** d’une part, le distributeur autorisé n’a pas d’antécédents quant à la contravention de la Loi et des règlements pris ou maintenus en vigueur sous le régime de celle-ci;
+	- **a)** d’une part, le distributeur n’a pas d’antécédents quant à la contravention de la Loi et des règlements pris ou maintenus en vigueur sous le régime de celle-ci;
 	- **b)** d’autre part, il a pris les mesures correctives nécessaires pour assurer le respect de la Loi et du présent règlement, ou a signé un engagement à cet effet.
-> DORS/2004-238, art. 4; DORS/2010-222, art. 6 et 35(F).
+> DORS/2004-238, art. 4; DORS/2010-222, art. 6 et 35(F); DORS/2014-260, art. 14(F) et 15(F).
 
 
 
@@ -34284,14 +34284,14 @@ vendus comme édulcorants. (*saccharin sweetener*)
 
 **G.02.003.91** 
 
-- **(1)** Lorsqu’il envisage de refuser de délivrer, de modifier ou de renouveler une licence de distributeur autorisé, aux termes de la présente partie, ou qu’il envisage de la révoquer, le ministre donne au demandeur ou au titulaire :
+- **(1)** Lorsqu’il envisage de refuser de délivrer, de modifier ou de renouveler une licence de distributeur autorisé, aux termes de la présente partie, ou qu’il envisage de la révoquer, le ministre donne au demandeur ou au distributeur :
 	- **a)** un avis à cet effet et un exposé écrit des motifs du refus ou de la révocation envisagés;
 	- **b)** la possibilité de se faire entendre à l’égard du refus ou de la révocation envisagés.
 
-- **(2)** La décision du ministre de suspendre la licence de distributeur autorisé aux termes de la présente partie prend effet aussitôt qu’il en avise l’intéressé et lui fournit un exposé écrit des motifs de la suspension.
+- **(2)** La décision du ministre de suspendre la licence de distributeur autorisé aux termes de la présente partie prend effet aussitôt qu’il en avise le distributeur et lui fournit un exposé écrit des motifs de la suspension.
 
 - **(3)** La personne qui reçoit un avis de suspension aux termes du paragraphe (2) peut, dans les dix jours qui en suivent la réception, présenter au ministre les motifs pour lesquels la suspension de sa licence de distributeur autorisé n’est pas fondée.
-> DORS/2004-238, art. 4.
+> DORS/2004-238, art. 4; DORS/2014-260, art. 4.
 
 
 
@@ -34332,8 +34332,10 @@ vendus comme édulcorants. (*saccharin sweetener*)
 
 - **(2)** Sauf s’il est nécessaire de le faire en vue de protéger la sécurité ou la santé publiques, y compris en vue de prévenir le détournement d’une drogue contrôlée vers un marché ou un usage illicite, le ministre ne peut, dans les cas visés aux alinéas G.02.003.8(1)a) ou b) ou G.02.011.1(1)b), révoquer le permis si son titulaire remplit les conditions prévues aux alinéas G.02.003.8(2)a) et b).
 
-- **(3)** Si le titulaire ne se conforme pas à la décision du ministre de suspendre son permis aux termes de l’article G.02.011.2 ou ne corrige pas la situation ayant donné lieu à la suspension, le ministre peut révoquer le permis.
-> DORS/2010-222, art. 7.
+- **(3)** Le ministre peut révoquer le permis dans les cas suivants :
+	- **a)** le titulaire ne se conforme pas à la décision du ministre de suspendre son permis aux termes de l’article G.02.011.2;
+	- **b)** le titulaire ne corrige pas la situation ayant donné lieu à la suspension dans le délai prévu au paragraphe G.02.011.2(3).
+> DORS/2010-222, art. 7; DORS/2014-260, art. 5.
 
 
 
@@ -34484,7 +34486,7 @@ vendus comme édulcorants. (*saccharin sweetener*)
 
 - **(1)** Sous réserve du présent article et si l’article G.02.024 le permet, le distributeur autorisé peut, conformément aux modalités de sa licence, vendre ou fournir une drogue contrôlée à une personne, si les conditions suivantes sont réunies :
 	- **a)** [Abrogé, DORS/2010-222, art. 12]
-	- **b)** le distributeur autorisé a reçu, au lieu indiqué dans la licence, une commande sous l’une des formes suivantes, précisant le nom de la drogue et la quantité devant être fournie :
+	- **b)** le distributeur a reçu, au lieu indiqué dans la licence, une commande sous l’une des formes suivantes, précisant le nom de la drogue et la quantité devant être fournie :
 		- **(i)** une commande écrite,
 		- **(ii)** une commande envoyée par ordinateur à partir d’un périphérique d’entrée à distance,
 		- **(iii)** une commande verbale, dans le cas d’une drogue contrôlée mentionnée aux parties II ou III de l’annexe de la présente partie.
@@ -34516,26 +34518,26 @@ vendus comme édulcorants. (*saccharin sweetener*)
 	- **d)** déceler les commandes inhabituelles, qui de ce fait, nécessitent l’intervention manuelle du distributeur autorisé; et
 	- **e)** exiger l’intervention manuelle du distributeur autorisé si un ou plus d’un procédé de contrôle fait défaut.
 
-- **(7)** Le distributeur autorisé qui reçoit d’un pharmacien ou d’un praticien une commande envoyée par ordinateur à partir d’un périphérique d’entrée à distance, telle que visée au sous-alinéa (1)b)(ii), ou une commande verbale visée au sous-alinéa (1)b)(iii) doit, dans les cinq jours ouvrables suivant l’exécution de la commande obtenir et  conserver un reçu portant :
+- **(7)** Le distributeur autorisé qui reçoit d’un pharmacien ou d’un praticien une commande envoyée par ordinateur à partir d’un périphérique d’entrée à distance, telle que visée au sous-alinéa (1)b)(ii), ou une commande verbale visée au sous-alinéa (1)b)(iii) doit, dans les cinq jours ouvrables suivant l’exécution de la commande obtenir et  conserver un reçu portant :
 	- **a)** la signature du pharmacien ou praticien qui a reçu la drogue contrôlée;
 	- **b)** la date de la réception; et
 	- **c)** le nom ainsi que la quantité de la drogue contrôlée.
 
-- **(8)** Si, dans le délai prévu au paragraphe (7), le distributeur autorisé n’obtient pas le reçu requis du pharmacien ou du praticien à qui il a vendu ou fourni la drogue contrôlée, il doit refuser, jusqu’à ce qu’il obtienne le reçu, d’honorer l’une ou l’autre des commandes suivantes faite par le pharmacien ou le praticien :
+- **(8)** Si, dans le délai prévu au paragraphe (7), le distributeur autorisé n’obtient pas le reçu requis du pharmacien ou du praticien à qui il a vendu ou fourni la drogue contrôlée, il doit refuser, jusqu’à ce qu’il obtienne le reçu, d’honorer l’une ou l’autre des commandes suivantes faite par le pharmacien ou le praticien :
 	- **a)** la commande visée au sous-alinéa (1)b)(ii) envoyée par ordinateur au moyen d’un périphérique d’entrée à distance;
-	- **b)** la commande verbale visée au sous-alinéa (1)b)(iii). 
-> DORS/78-220, art. 4; DORS/78-427, art. 4; DORS/85-550, art. 3; DORS/88-482, art. 3(F); DORS/90-261, art. 2(F); DORS/97-228, art. 11; DORS/2004-238, art. 11; DORS/2010-222, art. 12; DORS/2012-230, art. 10.
+	- **b)** la commande verbale visée au sous-alinéa (1)b)(iii).
+> DORS/78-220, art. 4; DORS/78-427, art. 4; DORS/85-550, art. 3; DORS/88-482, art. 3(F); DORS/90-261, art. 2(F); DORS/97-228, art. 11; DORS/2004-238, art. 11; DORS/2010-222, art. 12; DORS/2012-230, art. 10; DORS/2014-260, art. 6(A) et 14(F).
 
 
 
 
-**G.02.026** Il est interdit au distributeur autorisé de vendre ou de fournir une drogue contrôlée plus d’une fois à la suite d’une commande à moins :
-- **a)** que, dans la commande de la drogue, il soit indiqué que la quantité de la drogue doit être vendue ou fournie :
+**G.02.026** Il est interdit au distributeur autorisé de vendre ou de fournir une drogue contrôlée plus d’une fois à la suite d’une commande à moins :
+- **a)** que, dans la commande de la drogue, il soit indiqué que la quantité de la drogue doit être vendue ou fournie :
 	- **(i)** en portions spécifiées,
 	- **(ii)** en livraisons distinctes, ne dépassant pas quatre livraisons, et
 	- **(iii)** à des intervalles spécifiés; ou
-- **b)** que le distributeur autorisé ne dispose pas temporairement de toute la quantité de la drogue demandée au moment où il reçoit la commande, auquel cas il peut vendre ou fournir la quantité de la drogue qu’il a en main et livrer le reliquat par la suite, conformément à la commande.
-> DORS/2004-238, art. 12; DORS/2010-222, art. 13(F).
+- **b)** que le distributeur ne dispose pas temporairement de toute la quantité de la drogue demandée au moment où il reçoit la commande, auquel cas il peut vendre ou fournir la quantité de la drogue qu’il a en main et livrer le reliquat par la suite, conformément à la commande.
+> DORS/2004-238, art. 12; DORS/2010-222, art. 13(F); DORS/2014-260, art. 7.
 
 
 
@@ -34677,7 +34679,7 @@ vendus comme édulcorants. (*saccharin sweetener*)
 - **b)** par un autre pharmacien, lui vendre ou lui fournir la quantité de drogue demandée pour une urgence;
 - **c)** par un directeur régional du ministère, vendre ou fournir à ce dernier ou conformément à sa commande la quantité de drogue demandée dont le directeur a besoin dans l’exercice de ses fonctions;
 - **d)** par une personne qui bénéficie d’une exemption aux termes de l’article 56 de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) relativement à cette drogue, lui vendre ou lui fournir la quantité de drogue demandée.
-> DORS/81-359, art. 2; DORS/85-550, art. 9; DORS/99-125, art. 3; DORS/2004-238, art. 21.
+> DORS/81-359, art. 2; DORS/85-550, art. 9; DORS/99-125, art. 3; DORS/2004-238, art. 21; DORS/2014-260, art. 8(A).
 
 
 
@@ -35302,7 +35304,7 @@ et que le ministre a autorisée, en vertu de l’article J.01.018, à utiliser e
 **J.01.003.2** 
 
 - **(1)** Le distributeur autorisé :
-	- **a)** désigne une seule personne qualifiée responsable — il peut lui-même exercer cette fonction s’il est une personne physique — qui doit travailler à l’installation visée par la licence et qui est chargée de superviser les opérations relatives aux drogues d’usage restreint visées par la licence et d’assurer la conformité de ces opérations avec le présent règlement au nom du distributeur autorisé;
+	- **a)** désigne une seule personne qualifiée responsable — il peut lui-même exercer cette fonction s’il est une personne physique — qui doit travailler à l’installation visée par la licence et qui est chargée de superviser les opérations relatives aux drogues d’usage restreint visées par la licence et d’assurer la conformité de ces opérations avec le présent règlement au nom du distributeur;
 	- **b)** peut désigner une personne qualifiée responsable suppléante qui doit travailler à l’installation visée par la licence et qui est autorisée à remplacer la personne qualifiée responsable lorsque celle-ci est absente.
 
 - **(2)** La personne qualifiée responsable et, le cas échéant, la personne qualifiée responsable suppléante doivent se conformer aux exigences suivantes :
@@ -35312,7 +35314,7 @@ et que le ministre a autorisée, en vertu de l’article J.01.018, à utiliser e
 		- **(i)** d’une infraction désignée en matière de drogue,
 		- **(ii)** d’une infraction désignée en matière criminelle,
 		- **(iii)** d’une infraction commise à l’étranger qui, commise au Canada, aurait constitué une infraction visée au sous-alinéa (i) ou (ii).
-> DORS/2004-238, art. 32; DORS/2010-222, art. 24(A) et 34.
+> DORS/2004-238, art. 32; DORS/2010-222, art. 24(A) et 34; DORS/2014-260, art. 14(F).
 
 
 
@@ -35341,7 +35343,7 @@ et que le ministre a autorisée, en vertu de l’article J.01.018, à utiliser e
 	- **a)** si la licence est demandée :
 		- **(i)** pour une personne physique, le nom de celle-ci,
 		- **(ii)** pour une personne morale, sa dénomination sociale et tout autre nom enregistré dans une province sous lequel elle entend s’identifier ou poursuivre les opérations prévues dans la licence,
-		- **(iii)** pour le titulaire d’un poste, le nom du demandeur et le titre du poste;
+		- **(iii)** pour le titulaire d’un poste mentionné à l’alinéa J.01.003.1c), le nom du demandeur et le titre du poste;
 	- **b)** l’adresse, le numéro de téléphone et, le cas échéant, le numéro de télécopieur et l’adresse électronique de l’installation visée par la licence de même que, si elle diffère de l’adresse de l’installation, son adresse postale;
 	- **c)** les nom, date de naissance et sexe du responsable de l’installation;
 	- **d)** s’agissant de la personne qualifiée responsable proposée et, le cas échéant, de la personne qualifiée responsable suppléante proposée :
@@ -35352,7 +35354,7 @@ et que le ministre a autorisée, en vertu de l’article J.01.018, à utiliser e
 		- **(v)** les nom et titre de leur supérieur immédiat à l’installation,
 		- **(vi)** dans le cas d’un pharmacien ou d’un praticien, le nom de la province où a été délivré le permis d’exercice, la licence ou le certificat professionnel valide qu’il détient, ainsi que le numéro de ce permis, de cette licence ou de ce certificat;
 	- **e)** les nom et sexe des personnes physiques autorisées à commander des drogues d’usage restreint pour son compte;
-	- **f)** les opérations visées à l’article J.01.003 pour lesquelles la licence est demandée et qui seraient effectuées à l’installation à laquelle s’appliquerait la licence;
+	- **f)** les opérations visées à l’article J.01.003 pour lesquelles la licence est demandée et qui seraient effectuées à l’installation visée par la licence;
 	- **g)** dans le cas où la demande vise un produit ou un composé qui contient une drogue d’usage restreint mais n’est pas un nécessaire d’essai et qui serait fabriqué ou assemblé par lui ou pour son compte :
 		- **(i)** le nom, le numéro ou la marque d’identification de chaque produit ou composé, le cas échéant,
 		- **(ii)** la drogue d’usage restreint que contient chaque produit ou composé,
@@ -35382,20 +35384,20 @@ et que le ministre a autorisée, en vertu de l’article J.01.018, à utiliser e
 	- **c)** dans le cas où l’une des personnes visées à l’alinéa a) a eu, au cours des dix dernières années, sa résidence habituelle dans un pays autre que le Canada, un document émanant d’un service de police de ce pays attestant qu’elle a ou n’a pas, au cours des dix dernières années, été reconnue coupable dans ce pays en tant qu’adulte d’une infraction qui, commise au Canada, aurait été une infraction désignée en matière de drogue ou une infraction désignée en matière criminelle;
 	- **d)** une déclaration, signée et datée par le responsable de l’installation visée par la demande, attestant que la personne qualifiée responsable proposée et, le cas échéant, la personne qualifiée responsable suppléante proposée, ont les connaissances et l’expérience exigées par l’alinéa J.01.003.2(2)a);
 	- **e)** dans le cas où la personne qualifiée responsable proposée ou, le cas échéant, la personne qualifiée responsable suppléante proposée n’est pas un pharmacien ou un praticien agréé par l’autorité provinciale attributive de licences en matière d’activités professionnelles, une copie du diplôme visé à l’alinéa J.01.003.2(2)b) et une copie du relevé de notes relatif à ce diplôme;
-	- **f)** dans le cas où le nom du demandeur figure sur l’étiquette d’un produit ou d’un composé contenant une drogue d’usage restreint, une copie de l’étiquette intérieure, au sens de l’article A.01.010, de chaque produit ou composé auquel s’appliquerait la licence;
-	- **g)** dans le cas où le demandeur est une personne morale, à la fois :
+	- **f)** dans le cas où le nom du demandeur figure sur l’étiquette d’un produit ou d’un composé contenant une drogue d’usage restreint, une copie de l’étiquette intérieure, au sens de l’article A.01.010, de chaque produit ou composé visé par la licence;
+	- **g)** dans le cas où le demandeur est une personne morale, à la fois :
 		- **(i)** une copie de son certificat de constitution ou de tout autre acte constitutif,
-		- **(ii)** une copie de tout document déposé auprès de la province où se trouve l’installation à laquelle s’appliquerait la licence, qui indique sa dénomination sociale ou tout autre nom enregistré dans la province sous lequel le demandeur entend s’identifier ou poursuivre les opérations prévues dans la licence.
+		- **(ii)** une copie de tout document déposé auprès de la province où se trouve l’installation visée par la licence, qui indique sa dénomination sociale ou tout autre nom enregistré dans la province sous lequel le demandeur entend s’identifier ou poursuivre les opérations prévues dans la licence.
 
-- **(4)** La méthode prévue aux termes de l’alinéa (1)j) doit permettre :
+- **(4)** La méthode prévue aux termes de l’alinéa (1)j) doit permettre :
 	- **a)** d’une part, la consignation des transactions de drogues d’usage restreint conformément à l’article J.01.021;
 	- **b)** d’autre part, la vérification par le ministre des opérations du distributeur autorisé relativement aux drogues d’usage restreint.
 
-- **(5)** Les documents visés aux alinéas (3)b) et c) n’ont pas à être fournis si les personnes mentionnées à ces alinéas consentent par écrit :
+- **(5)** Les documents visés aux alinéas (3)b) et c) n’ont pas à être fournis si les personnes mentionnées à ces alinéas consentent par écrit :
 	- **a)** à ce qu’une recherche soit effectuée pour vérifier si elles ont eu, au cours des dix dernières années, un casier judiciaire, en tant qu’adulte, relativement aux infractions visées à ces alinéas;
 	- **b)** à fournir les renseignements nécessaires à la vérification du casier judiciaire et à se soumettre à toute opération d’identification visant à en obtenir la vérification;
 	- **c)** à payer le prix exigé pour la vérification aux termes du [Règlement sur le prix à payer pour la vérification de casiers judiciaires à des fins civiles (Gendarmerie royale du Canada)](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/93/485.md).
-> DORS/2004-238, art. 33; DORS/2010-222, art. 25.
+> DORS/2004-238, art. 33; DORS/2010-222, art. 25; DORS/2014-260, art. 9 et 16(F).
 
 
 
@@ -35408,14 +35410,14 @@ et que le ministre a autorisée, en vertu de l’article J.01.018, à utiliser e
 
 **J.01.007.2** Sous réserve de l’article J.01.007.3, le ministre délivre au demandeur, après examen des renseignements et des documents exigés aux articles J.01.007 et J.01.007.1, une licence de distributeur autorisé qui contient les renseignements suivants :
 - **a)** le numéro de la licence;
-- **b)** le nom du titulaire, qu’il s’agisse de son propre nom ou du titre du poste dont il est titulaire, ou, s’il s’agit d’une personne morale, sa dénomination sociale;
+- **b)** le nom du distributeur ou le titre de son poste, ou, s’il s’agit d’une personne morale, sa dénomination sociale;
 - **c)** la liste des opérations autorisées;
 - **d)** l’adresse de l’installation où le distributeur peut se livrer aux opérations autorisées;
 - **e)** le nom de la drogue d’usage restreint à l’égard de laquelle les opérations sont autorisées;
 - **f)** le niveau de sécurité applicable à l’installation, établi conformément à la Directive en matière de sécurité;
 - **g)** la date de prise d’effet de la licence;
 - **h)** la date d’expiration de la licence, laquelle ne peut suivre de plus de trois ans la date de prise d’effet de celle-ci;
-- **i)** le cas échéant, les conditions que le titulaire doit remplir :
+- **i)** le cas échéant, les conditions que le distributeur doit remplir :
 	- **(i)** pour que soit respectée une obligation internationale,
 	- **(ii)** pour assurer le niveau de sécurité visé à l’alinéa f),
 	- **(iii)** pour réduire tout risque d’atteinte à la sécurité ou à la santé publiques, notamment en raison du risque de détournement de la drogue d’usage restreint vers un marché ou un usage illicite;
@@ -35426,7 +35428,7 @@ et que le ministre a autorisée, en vertu de l’article J.01.018, à utiliser e
 	- **(iii)** le nom de la drogue d’usage restreint que contient chaque produit ou composé,
 	- **(iv)** la concentration de la drogue d’usage restreint dans chaque unité du produit ou du composé,
 	- **(v)** la quantité ou les formats d’emballage de chaque produit ou composé.
-> DORS/2004-238, art. 33; DORS/2010-222, art. 26 et 35(F).
+> DORS/2004-238, art. 33; DORS/2010-222, art. 26 et 35(F); DORS/2014-260, art. 10.
 
 
 
@@ -35469,13 +35471,13 @@ et que le ministre a autorisée, en vertu de l’article J.01.018, à utiliser e
 		- **(iii)** l’original de la licence à renouveler.
 
 - **(2)** La demande de renouvellement doit satisfaire aux exigences suivantes :
-	- **a)** être signée par le responsable de l’installation à laquelle s’appliquerait la licence;
+	- **a)** être signée par le responsable de l’installation visée par la licence;
 	- **b)** être accompagnée d’une attestation signée par celui-ci portant :
 		- **(i)** d’une part, qu’à sa connaissance tous les renseignements et documents fournis à l’appui de la demande sont exacts et complets,
 		- **(ii)** d’autre part, qu’il est habilité à lier le demandeur.
 
 - **(3)** Sous réserve de l’article J.01.007.3, après examen des renseignements et des documents exigés aux paragraphes (1) et (2) et à l’article J.01.007.1, le ministre renouvelle la licence de distributeur autorisé qui contient les renseignements prévus aux alinéas J.01.007.2a) à k).
-> DORS/2004-238, art. 33.
+> DORS/2004-238, art. 33; DORS/2014-260, art. 16(F).
 
 
 
@@ -35487,16 +35489,16 @@ et que le ministre a autorisée, en vertu de l’article J.01.018, à utiliser e
 	- **b)** l’original de la licence en cause.
 
 - **(2)** La demande de modification de la licence doit satisfaire aux exigences suivantes :
-	- **a)** être signée par le responsable de l’installation à laquelle s’appliquerait la licence;
+	- **a)** être signée par le responsable de l’installation visée par la licence;
 	- **b)** être accompagnée d’une attestation signée par celui-ci portant :
 		- **(i)** d’une part, qu’à sa connaissance tous les renseignements et documents fournis à l’appui de la demande sont exacts et complets,
 		- **(ii)** d’autre part, qu’il est habilité à lier le demandeur.
 
-- **(3)** Sous réserve de l’article J.01.007.3, après examen de la demande et des documents à l’appui, le ministre modifie la licence en conséquence et peut l’assortir de conditions supplémentaires que le titulaire doit remplir à l’une ou l’autre des fins suivantes :
+- **(3)** Sous réserve de l’article J.01.007.3, après examen de la demande et des documents à l’appui, le ministre modifie la licence de distributeur autorisé en conséquence et peut l’assortir de conditions supplémentaires que le distributeur doit remplir à l’une ou l’autre des fins suivantes :
 	- **a)** pour que soit respectée une obligation internationale;
 	- **b)** pour assurer le niveau de sécurité applicable visé à l’alinéa J.01.007.2f) ou tout autre niveau qui s’impose par suite de la modification;
 	- **c)** pour réduire tout risque d’atteinte à la sécurité ou à la santé publiques, notamment en raison du risque de détournement de la drogue d’usage restreint vers un marché ou un usage illicite.
-> DORS/2004-238, art. 33; DORS/2010-222, art. 28(F) et 35(F).
+> DORS/2004-238, art. 33; DORS/2010-222, art. 28(F) et 35(F); DORS/2014-260, art. 11 et 16(F).
 
 
 
@@ -35506,10 +35508,10 @@ et que le ministre a autorisée, en vertu de l’article J.01.018, à utiliser e
 - **(1)** Le distributeur autorisé doit satisfaire aux exigences suivantes :
 	- **a)** obtenir l’approbation du ministre avant de procéder :
 		- **(i)** à une modification touchant la sécurité à l’installation mentionnée dans sa licence,
-		- **(ii)** à la désignation d’autres personnes physiques qui remplacent les suivantes ou, le cas échéant, s’ajoutent à elles :
+		- **(ii)** à la désignation d’autres personnes physiques qui remplacent les suivantes ou, le cas échéant, s’ajoutent à elles :
 			- **(A)** le responsable de l’installation à laquelle s’applique la licence,
 			- **(B)** la personne qualifiée responsable à l’installation à laquelle s’applique la licence et, le cas échéant, la personne qualifiée responsable suppléante,
-			- **(C)** les personnes physiques autorisées à commander une drogue d’usage restreint au nom du distributeur autorisé;
+			- **(C)** les personnes physiques autorisées à commander une drogue d’usage restreint au nom du distributeur;
 	- **b)** aviser le ministre, dans les dix jours, qu’une personne visée à l’une des divisions a)(ii)(A) ou (C) a cessé d’exercer les fonctions mentionnées dans l’un des documents suivants :
 		- **(i)** la demande de licence présentée aux termes de l’article J.01.007,
 		- **(ii)** la demande de renouvellement de la licence présentée aux termes de l’article J.01.007.4,
@@ -35520,20 +35522,20 @@ et que le ministre a autorisée, en vertu de l’article J.01.018, à utiliser e
 		- **(iii)** la demande d’approbation présentée aux termes de l’alinéa a).
 
 - **(2)** En plus de la demande d’approbation visée au sous-alinéa (1)a)(ii), le distributeur autorisé doit, relativement à toute nomination, fournir ce qui suit au ministre :
-	- **a)** dans le cas du remplacement du responsable de l’installation à laquelle s’applique la licence :
+	- **a)** dans le cas du remplacement du responsable de l’installation à laquelle s’applique la licence :
 		- **(i)** les renseignements visés à l’alinéa J.01.007(1)c),
 		- **(ii)** les déclarations visées à l’alinéa J.01.007(3)a) et, sous réserve du paragraphe J.01.007(5), les documents visés aux alinéas J.01.007(3)b) et c);
 	- **b)** dans le cas du remplacement de la personne qualifiée responsable à l’installation à laquelle s’applique la licence, ou dans celui du remplacement ou de l’adjonction d’une personne qualifiée responsable suppléante à cette installation :
 		- **(i)** les renseignements visés à l’alinéa J.01.007(1)d),
 		- **(ii)** les documents visés aux alinéas J.01.007(3)a), d) et e) et, sous réserve du paragraphe J.01.007(5), les documents visés aux alinéas J.01.007(3)b) et c);
 	- **c)** dans le cas du remplacement ou de l’adjonction d’une personne physique autorisée à commander une drogue d’usage restreint en son nom, le nom et le sexe de celle-ci.
-> DORS/2004-238, art. 33.
+> DORS/2004-238, art. 33; DORS/2014-260, art. 14(F).
 
 
 
 
-**J.01.007.7** Le ministre révoque la licence de distributeur autorisé si le titulaire en fait la demande ou l’informe de la perte ou du vol de celle-ci.
-> DORS/2004-238, art. 33.
+**J.01.007.7** Le ministre révoque la licence de distributeur autorisé si le distributeur en fait la demande ou l’informe de la perte ou du vol de celle-ci.
+> DORS/2004-238, art. 33; DORS/2014-260, art. 15(F).
 
 
 
@@ -35542,18 +35544,18 @@ et que le ministre a autorisée, en vertu de l’article J.01.018, à utiliser e
 
 - **(1)** Sous réserve du paragraphe (2), le ministre révoque la licence de distributeur autorisé conformément à l’article J.01.007.91 dans les cas suivants :
 	- **a)** la licence a été délivrée d’après des renseignements faux ou trompeurs fournis dans la demande ou des documents faux ou falsifiés à l’appui de celle-ci;
-	- **b)** le titulaire a contrevenu à la Loi ou à ses règlements ou aux conditions de sa licence ou d’un permis d’importation ou d’exportation délivré en vertu de la présente partie;
-	- **c)** le titulaire n’est plus admissible aux termes de l’article J.01.003.1;
+	- **b)** le distributeur a contrevenu à la Loi ou à ses règlements ou aux conditions de sa licence ou d’un permis d’importation ou d’exportation délivré en vertu de la présente partie;
+	- **c)** le distributeur n’est plus admissible aux termes de l’article J.01.003.1;
 	- **d)** il a été découvert que le responsable de l’installation à laquelle s’applique la licence, la personne qualifiée responsable à cette installation ou, le cas échéant, la personne qualifiée responsable suppléante a, au cours des dix dernières années, été reconnu coupable en tant qu’adulte, selon le cas :
 		- **(i)** d’une infraction désignée en matière de drogue,
 		- **(ii)** d’une infraction désignée en matière criminelle,
 		- **(iii)** d’une infraction commise à l’étranger qui, commise au Canada, aurait constitué une infraction visée au sous-alinéa (i) ou (ii);
-	- **e)** les renseignements reçus d’une autorité compétente ou des Nations Unies laissent raisonnablement croire que le titulaire a participé au détournement d’une drogue d’usage restreint vers un marché ou un usage illicite.
+	- **e)** les renseignements reçus d’une autorité compétente ou des Nations Unies laissent raisonnablement croire que le distributeur a participé au détournement d’une drogue d’usage restreint vers un marché ou un usage illicite.
 
 - **(2)** Sauf s’il est nécessaire de le faire en vue de protéger la sécurité ou la santé publique, y compris en vue de prévenir le détournement d’une drogue d’usage restreint vers un marché ou un usage illicite, le ministre ne peut, dans les cas visés aux alinéas (1)a) ou b), révoquer la licence de distributeur autorisé si :
-	- **a)** d’une part, le distributeur autorisé n’a pas d’antécédents quant à la contravention de la Loi et des règlements pris ou maintenus en vigueur sous le régime de celle-ci;
+	- **a)** d’une part, le distributeur n’a pas d’antécédents quant à la contravention de la Loi et des règlements pris ou maintenus en vigueur sous le régime de celle-ci;
 	- **b)** d’autre part, il a pris les mesures correctives nécessaires pour assurer le respect de la Loi et du présent règlement, ou a signé un engagement à cet effet.
-> DORS/2004-238, art. 33; DORS/2010-222, art. 29 et 35(F).
+> DORS/2004-238, art. 33; DORS/2010-222, art. 29 et 35(F); DORS/2014-260, art. 14(F) et 15(F).
 
 
 
@@ -35566,14 +35568,14 @@ et que le ministre a autorisée, en vertu de l’article J.01.018, à utiliser e
 
 **J.01.007.91** 
 
-- **(1)** Lorsqu’il envisage de refuser de délivrer, de modifier ou de renouveler une licence de distributeur autorisé, aux termes de la présente partie, ou qu’il envisage de la révoquer, le ministre donne au demandeur ou au titulaire :
+- **(1)** Lorsqu’il envisage de refuser de délivrer, de modifier ou de renouveler une licence de distributeur autorisé, aux termes de la présente partie, ou qu’il envisage de la révoquer, le ministre donne au demandeur ou au distributeur :
 	- **a)** un avis à cet effet et un exposé écrit des motifs du refus ou de la révocation envisagés;
 	- **b)** la possibilité de se faire entendre à l’égard du refus ou de la révocation envisagés.
 
-- **(2)** La décision du ministre de suspendre la licence de distributeur autorisé aux termes de la présente partie prend effet aussitôt qu’il en avise l’intéressé et lui fournit un exposé écrit des motifs de la suspension.
+- **(2)** La décision du ministre de suspendre la licence de distributeur autorisé aux termes de la présente partie prend effet aussitôt qu’il en avise le distributeur et lui fournit un exposé écrit des motifs de la suspension.
 
 - **(3)** La personne qui reçoit un avis de suspension aux termes du paragraphe (2) peut, dans les dix jours qui en suivent la réception, présenter au ministre les motifs pour lesquels la suspension de sa licence de distributeur autorisé n’est pas fondée.
-> DORS/2004-238, art. 33.
+> DORS/2004-238, art. 33; DORS/2014-260, art. 12.
 
 
 
@@ -35610,8 +35612,10 @@ et que le ministre a autorisée, en vertu de l’article J.01.018, à utiliser e
 
 - **(2)** Sauf s’il est nécessaire de le faire en vue de protéger la sécurité ou la santé publiques, y compris en vue de prévenir le détournement d’une drogue d’usage restreint vers un marché ou un usage illicite, le ministre ne peut, dans les cas visés aux alinéas J.01.007.8(1)a) ou b) ou J.01.012.1(1)b), révoquer le permis si son titulaire remplit les conditions prévues aux alinéas J.01.007.8(2)a) et b).
 
-- **(3)** Dans le cas où le titulaire ne se conforme pas à la décision du ministre de suspendre son permis aux termes de l’article J.01.012.2 ou ne corrige pas la situation ayant donné lieu à la suspension, le ministre peut révoquer le permis.
-> DORS/2010-222, art. 30.
+- **(3)** Le ministre peut révoquer le permis dans les cas suivants :
+	- **a)** le titulaire ne se conforme pas à la décision du ministre de suspendre son permis aux termes de l’article J.01.012.2;
+	- **b)** le titulaire ne corrige pas la situation ayant donné lieu à la suspension dans le délai prévu au paragraphe J.01.012.2(3).
+> DORS/2010-222, art. 30; DORS/2014-260, art. 13.
 
 
 
