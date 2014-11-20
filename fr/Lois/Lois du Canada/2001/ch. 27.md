@@ -1192,9 +1192,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application**
 
 - **(2)** Les dispositions suivantes s’appliquent au paragraphe (1) :
-	- **a)** l’interdiction de territoire court pour les deux ans suivant la décision la constatant en dernier ressort, si le résident permanent ou l’étranger n’est pas au pays, ou suivant l’exécution de la mesure de renvoi;
+	- **a)** l’interdiction de territoire court pour les cinq ans suivant la décision la constatant en dernier ressort, si le résident permanent ou l’étranger n’est pas au pays, ou suivant l’exécution de la mesure de renvoi;
 	- **b)** l’alinéa (1)b) ne s’applique que si le ministre est convaincu que les faits en cause justifient l’interdiction.
-> 2001, ch. 27, art. 40; 2012, ch. 17, art. 17.
+
+**Interdiction de territoire**
+
+- **(3)** L’étranger interdit de territoire au titre du présent article ne peut, pendant la période visée à l’alinéa (2)a), présenter de demande pour obtenir le statut de résident permanent.
+> 2001, ch. 27, art. 40; 2012, ch. 17, art. 17; 2013, ch. 16, art. 16.
 
 
 
@@ -1224,9 +1228,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Inadmissibilité familiale**
 
-**42** Emportent, sauf pour le résident permanent ou une personne protégée, interdiction de territoire pour inadmissibilité familiale les faits suivants :
-- **a)** l’interdiction de territoire frappant tout membre de sa famille qui l’accompagne ou qui, dans les cas réglementaires, ne l’accompagne pas;
-- **b)** accompagner, pour un membre de sa famille, un interdit de territoire.
+**42** 
+
+- **(1)** Emportent, sauf pour le résident permanent ou une personne protégée, interdiction de territoire pour inadmissibilité familiale les faits suivants :
+	- **a)** l’interdiction de territoire frappant tout membre de sa famille qui l’accompagne ou qui, dans les cas réglementaires, ne l’accompagne pas;
+	- **b)** accompagner, pour un membre de sa famille, un interdit de territoire.
+
+**Exception**
+
+- **(2)** Dans le cas où l’étranger visé au paragraphe (1) est résident temporaire ou dans le cas où il a présenté une demande pour obtenir le statut de résident temporaire ou une demande de séjour au Canada à titre de résident temporaire :
+	- **a)** les faits visés à l’alinéa (1)a) emportent interdiction de territoire seulement si le membre de sa famille est interdit de territoire en raison d’un cas visé aux articles 34, 35 ou 37;
+	- **b)** les faits visés à l’alinéa (1)b) emportent interdiction de territoire seulement si le membre de sa famille qu’il accompagne est interdit de territoire en raison d’un cas visé aux articles 34, 35 ou 37.
+> 2001, ch. 27, art. 42; 2013, ch. 16, art. 17.
+
 
 
 
@@ -1311,12 +1325,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** la confirmation en dernier ressort du constat, hors du Canada, de manquement à l’obligation de résidence;
 	- **c)** la prise d’effet de la mesure de renvoi;
 	- **c.1)** la décision prise, en dernier ressort, au titre du paragraphe 108(2) entraînant, sur constat des faits mentionnés à l’un des alinéas 108(1)a) à d), la perte de l’asile;
-	- **d)** l’annulation en dernier ressort de la décision ayant accueilli la demande d’asile ou celle d’accorder la demande de protection.
+	- **d)** l’annulation en dernier ressort de la décision ayant accueilli la demande d’asile ou celle d’accorder la demande de protection;
+	- **e)** l’acceptation par un agent de la demande de renonciation au statut de résident permanent.
+
+**Effet de la renonciation**
+
+- **(1.1)** Devient résident temporaire pour une période de six mois, la personne qui perd le statut de résident permanent au titre de l’alinéa (1)e), sauf si elle présente sa demande de renonciation à un point d’entrée ou si elle n’est pas présente au Canada au moment de l’acceptation de la demande.
 
 **Effet de la perte de la citoyenneté**
 
 - **(2)** Devient résident permanent quiconque perd la citoyenneté au titre de l’alinéa 10(1)a) de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md), sauf s’il est visé au paragraphe 10(2) de cette loi.
-> 2001, ch. 27, art. 46; 2012, ch. 17, art. 19.
+> 2001, ch. 27, art. 46; 2012, ch. 17, art. 19; 2013, ch. 16, art. 20.
 
 
 
