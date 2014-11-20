@@ -1201,9 +1201,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Application**
 
 - **(2)** The following provisions govern subsection (1):
-	- **(a)** the permanent resident or the foreign national continues to be inadmissible for misrepresentation for a period of two years following, in the case of a determination outside Canada, a final determination of inadmissibility under subsection (1) or, in the case of a determination in Canada, the date the removal order is enforced; and
+	- **(a)** the permanent resident or the foreign national continues to be inadmissible for misrepresentation for a period of five years following, in the case of a determination outside Canada, a final determination of inadmissibility under subsection (1) or, in the case of a determination in Canada, the date the removal order is enforced; and
 	- **(b)** paragraph (1)(b) does not apply unless the Minister is satisfied that the facts of the case justify the inadmissibility.
-> 2001, c. 27, s. 40; 2012, c. 17, s. 17.
+
+**Inadmissible**
+
+- **(3)** A foreign national who is inadmissible under this section may not apply for permanent resident status during the period referred to in paragraph (2)(a).
+> 2001, c. 27, s. 40; 2012, c. 17, s. 17; 2013, c. 16, s. 16.
 
 
 
@@ -1235,9 +1239,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Inadmissible family member**
 
-**42** A foreign national, other than a protected person, is inadmissible on grounds of an inadmissible family member if
-- **(a)** their accompanying family member or, in prescribed circumstances, their non-accompanying family member is inadmissible; or
-- **(b)** they are an accompanying family member of an inadmissible person.
+**42** 
+
+- **(1)** A foreign national, other than a protected person, is inadmissible on grounds of an inadmissible family member if
+	- **(a)** their accompanying family member or, in prescribed circumstances, their non-accompanying family member is inadmissible; or
+	- **(b)** they are an accompanying family member of an inadmissible person.
+
+**Exception**
+
+- **(2)** In the case of a foreign national referred to in subsection (1) who is a temporary resident or who has made an application for temporary resident status or an application to remain in Canada as a temporary resident,
+	- **(a)** the matters referred to in paragraph (1)(a) constitute inadmissibility only if the family member is inadmissible under section 34, 35 or 37; and
+	- **(b)** the matters referred to in paragraph (1)(b) constitute inadmissibility only if the foreign national is an accompanying family member of a person who is inadmissible under section 34, 35 or 37.
+> 2001, c. 27, s. 42; 2013, c. 16, s. 17.
+
 
 
 
@@ -1321,13 +1335,18 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** when they become a Canadian citizen;
 	- **(b)** on a final determination of a decision made outside of Canada that they have failed to comply with the residency obligation under section 28;
 	- **(c)** when a removal order made against them comes into force;
-	- **(c.1)** on a final determination under subsection 108(2) that their refugee protection has ceased for any of the reasons described in paragraphs 108(1)(a) to (d); or
-	- **(d)** on a final determination under section 109 to vacate a decision to allow their claim for refugee protection or a final determination to vacate a decision to allow their application for protection.
+	- **(c.1)** on a final determination under subsection 108(2) that their refugee protection has ceased for any of the reasons described in paragraphs 108(1)(a) to (d);
+	- **(d)** on a final determination under section 109 to vacate a decision to allow their claim for refugee protection or a final determination to vacate a decision to allow their application for protection; or
+	- **(e)** on approval by an officer of their application to renounce their permanent resident status.
+
+**Effect of renunciation**
+
+- **(1.1)** A person who loses their permanent resident status under paragraph (1)(e) becomes a temporary resident for a period of six months unless they make their application to renounce their permanent resident status at a port of entry or are not physically present in Canada on the day on which their application is approved.
 
 **Permanent resident**
 
 - **(2)** A person who ceases to be a citizen under paragraph 10(1)(a) of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md), other than in the circumstances set out in subsection 10(2) of that Act, becomes a permanent resident.
-> 2001, c. 27, s. 46; 2012, c. 17, s. 19.
+> 2001, c. 27, s. 46; 2012, c. 17, s. 19; 2013, c. 16, s. 20.
 
 
 
