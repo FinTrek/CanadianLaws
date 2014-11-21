@@ -1484,8 +1484,148 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 <td>Shawanaga</td>
 <td></td>
 </tr>
+<tr>
+<td>86</td>
+<td>Nak’azdli</td>
+<td></td>
+</tr>
+<tr>
+<td>87</td>
+<td>Metlakatla</td>
+<td></td>
+</tr>
+<tr>
+<td>88</td>
+<td>Malahat First Nation</td>
+<td></td>
+</tr>
+<tr>
+<td>89</td>
+<td>?Akisq’nuk First Nation</td>
+<td></td>
+</tr>
+<tr>
+<td>90</td>
+<td>Tahltan</td>
+<td></td>
+</tr>
+<tr>
+<td>91</td>
+<td>Homalco</td>
+<td></td>
+</tr>
+<tr>
+<td>92</td>
+<td>K’ómoks First Nation</td>
+<td></td>
+</tr>
+<tr>
+<td>93</td>
+<td>Lower Nicola</td>
+<td></td>
+</tr>
+<tr>
+<td>94</td>
+<td>Katzie</td>
+<td></td>
+</tr>
+<tr>
+<td>95</td>
+<td>Cheam</td>
+<td></td>
+</tr>
+<tr>
+<td>96</td>
+<td>Scowlitz</td>
+<td></td>
+</tr>
+<tr>
+<td>97</td>
+<td>Soowahlie</td>
+<td></td>
+</tr>
+<tr>
+<td>98</td>
+<td>Chawathil</td>
+<td></td>
+</tr>
+<tr>
+<td>99</td>
+<td>Yellow Quill</td>
+<td></td>
+</tr>
+<tr>
+<td>100</td>
+<td>Mistawasis</td>
+<td></td>
+</tr>
+<tr>
+<td>101</td>
+<td>English River First Nation</td>
+<td></td>
+</tr>
+<tr>
+<td>102</td>
+<td>Fort Alexander</td>
+<td></td>
+</tr>
+<tr>
+<td>103</td>
+<td>Fisher River</td>
+<td></td>
+</tr>
+<tr>
+<td>104</td>
+<td>Norway House Cree Nation</td>
+<td></td>
+</tr>
+<tr>
+<td>105</td>
+<td>Nisichawayasihk Cree Nation</td>
+<td></td>
+</tr>
+<tr>
+<td>106</td>
+<td>Magnetawan</td>
+<td></td>
+</tr>
+<tr>
+<td>107</td>
+<td>Chippewas of the Thames First Nation</td>
+<td></td>
+</tr>
+<tr>
+<td>108</td>
+<td>Wasauksing First Nation</td>
+<td></td>
+</tr>
+<tr>
+<td>109</td>
+<td>M’Chigeeng First Nation</td>
+<td></td>
+</tr>
+<tr>
+<td>110</td>
+<td>Long Lake No. 58 First Nation</td>
+<td></td>
+</tr>
+<tr>
+<td>111</td>
+<td>Temagami First Nation</td>
+<td></td>
+</tr>
+<tr>
+<td>112</td>
+<td>Première Nation des Abénakis de Wôlinak</td>
+<td></td>
+</tr>
+<tr>
+<td>113</td>
+<td>Madawaska Maliseet First Nation</td>
+<td></td>
+</tr>
 </table>
 
-> 1999, c. 24, Sch.; SOR/2003-178; SOR/2006-216; 2008, c. 32, s. 27; SOR/2008-51, 267; 2012, c. 19, ss. 637 to 651; SOR/2012-217, 291; SOR/2014-89.
+> 1999, c. 24, Sch.; SOR/2003-178; SOR/2006-216; 2008, c. 32, s. 27; SOR/2008-51, 267; 2012, c. 19, ss. 637 to 651; SOR/2012-217, 291; SOR/2014-89, 268.
 
 
