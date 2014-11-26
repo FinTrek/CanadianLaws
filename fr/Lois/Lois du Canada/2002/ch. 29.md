@@ -2632,11 +2632,17 @@ Caribou de Peary (*Rangifer tarandus pearyi*)<br />- <i>Caribou, Peary</i>
 
 Caribou des bois (*Rangifer tarandus caribou*) population de la Gaspésie — Atlantique<br />- <i>Caribou, Woodland Atlantic — Gaspésie population</i>
 
+Chauve-souris nordique (*Myotis septentrionalis*)<br />- <i>Myotis, Northern</i>
+
 Épaulard (*Orcinus orca*) population résidente du sud du Pacifique Nord-Est<br />- <i>Whale, Killer Northeast Pacific southern resident population</i>
 
 Marmotte de l’île Vancouver (*Marmota vancouverensis*)<br />- <i>Marmot, Vancouver Island</i>
 
 Musaraigne de Bendire (*Sorex bendirii*)<br />- <i>Shrew, Pacific Water</i>
+
+Petite chauve-souris brune (*Myotis lucifugus*)<br />- <i>Myotis, Little Brown</i>
+
+Pipistrelle de l’Est (*Perimyotis subflavus*)<br />- <i>Bat, Tri-coloured</i>
 
 Rat kangourou d’Ord (*Dipodomys ordii*)<br />- <i>Kangaroo Rat, Ord’s</i>
 
@@ -3760,7 +3766,7 @@ Pseudocyphellie des forêts surannées (*Pseudocyphellaria rainierensis*)<br />-
 Sclérophore givré (*Sclerophora peronella*) population de la Nouvelle-Écosse<br />- <i>Glass-whiskers, Frosted Nova Scotia population</i>
 
 
-> 2002, ch. 29, ann. 1; DORS/2005-14, art. 1 à 53; DORS/2005-224, art. 1 à 32; DORS/2006-60, art. 1 et 2; DORS/2006-189, art. 1 à 22, 23(F) et 24 à 26; DORS/2007-284, DORS/2009-86; DORS/2010-32, 33; DORS/2011-8, 128, 233; DORS/2012-133; DORS/2013-34.
+> 2002, ch. 29, ann. 1; DORS/2005-14, art. 1 à 53; DORS/2005-224, art. 1 à 32; DORS/2006-60, art. 1 et 2; DORS/2006-189, art. 1 à 22, 23(F) et 24 à 26; DORS/2007-284, DORS/2009-86; DORS/2010-32, 33; DORS/2011-8, 128, 233; DORS/2012-133; DORS/2013-34; DORS/2014-274.
 
 
 
