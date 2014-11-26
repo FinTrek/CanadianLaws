@@ -2619,6 +2619,8 @@ Badger *jacksoni* subspecies, American (*Taxidea taxus jacksoni*)<br />- <i>Blai
 
 Badger *jeffersonii* subspecies, American (*Taxidea taxus jeffersonii*)<br />- <i>Blaireau d’Amérique de la sous-espèce jeffersonii</i>
 
+Bat, Tri-coloured (*Perimyotis subflavus*)<br />- <i>Pipistrelle de l’Est</i>
+
 Caribou, Peary (*Rangifer tarandus pearyi*)<br />- <i>Caribou de Peary</i>
 
 Caribou, Woodland (*Rangifer tarandus caribou*) Atlantic — Gaspésie population<br />- <i>Caribou des bois population de la Gaspésie — Atlantique</i>
@@ -2630,6 +2632,10 @@ Marmot, Vancouver Island (*Marmota vancouverensis*)<br />- <i>Marmotte de l’î
 Mole, Townsend’s (*Scapanus townsendii*)<br />- <i>Taupe de Townsend</i>
 
 Mouse *dychei* subspecies, Western Harvest (*Reithrodontomys megalotis dychei*)<br />- <i>Souris des moissons de la sous-espèce *dychei*</i>
+
+Myotis, Little Brown (*Myotis lucifugus*)<br />- <i>Petite chauve-souris brune</i>
+
+Myotis, Northern (*Myotis septentrionalis*)<br />- <i>Chauve-souris nordique</i>
 
 Shrew, Pacific Water (*Sorex bendirii*)<br />- <i>Musaraigne de Bendire</i>
 
@@ -3759,7 +3765,7 @@ Lichen, Cryptic Paw (*Nephroma occultum*)<br />- <i>Néphrome cryptique</i>
 Lichen, Oldgrowth Specklebelly (*Pseudocyphellaria rainierensis*)<br />- <i>Pseudocyphellie des forêts surannées</i>
 
 
-> 2002, c. 29, Sch. 1; SOR/2005-14, ss. 1 to 53; SOR/2005-224, ss. 1 to 32; SOR/2006-60, ss. 1, 2; SOR/2006-189, ss. 1 to 22, 23(F), 24 to 26; SOR/2007-284; SOR/2009-86; SOR/2010-32, 33; SOR/2011-8, 128, 233; SOR/2012-133; SOR/2013-34.
+> 2002, c. 29, Sch. 1; SOR/2005-14, ss. 1 to 53; SOR/2005-224, ss. 1 to 32; SOR/2006-60, ss. 1, 2; SOR/2006-189, ss. 1 to 22, 23(F), 24 to 26; SOR/2007-284; SOR/2009-86; SOR/2010-32, 33; SOR/2011-8, 128, 233; SOR/2012-133; SOR/2013-34; SOR/2014-274.
 
 
 
