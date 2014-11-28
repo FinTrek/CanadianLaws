@@ -401,10 +401,10 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 
 **Exception — Gendarmerie royale du Canada**
 
-- **(5)** Le membre ou l’ancien membre de la Gendarmerie royale du Canada ne peut présenter une plainte à l’égard d’une question qui fait l’objet d’une enquête ou d’une procédure visées aux parties IV ou V de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md) ou d’une enquête ou d’une procédure relatives au renvoi par mesure administrative au titre du [Règlement de la Gendarmerie royale du Canada (1988)](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/88/361.md) que si les conditions suivantes sont réunies :
-	- **a)** il a épuisé les recours prévus par cette loi ou ce règlement;
+- **(5)** Le membre ou l’ancien membre de la Gendarmerie royale du Canada ne peut présenter une plainte à l’égard d’une mesure prise en vertu de l’article 20.2 ou d’une question qui fait l’objet d’une enquête ou d’une procédure visées à la partie IV de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md) que si les conditions suivantes sont réunies :
+	- **a)** il a épuisé les recours prévus par cette loi;
 	- **b)** il dépose la plainte dans les soixante jours suivant la date où il a épuisé ces recours.
-> 2006, ch. 9, art. 201.
+> 2006, ch. 9, art. 201; 2013, ch. 18, art. 61.
 
 
 
@@ -971,8 +971,8 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 
 **[Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md)**
 
-- **(2)** Malgré les paragraphes 42(4) et (6), 45.16(7) et 45.26(6) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md), le Tribunal peut rendre une ordonnance au titre du paragraphe (1) à l’égard d’un membre de la Gendarmerie royale du Canada.
-> 2006, ch. 9, art. 201.
+- **(2)** Malgré les paragraphes 32(1) et 45.16(9) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md), le Tribunal peut rendre une ordonnance au titre du paragraphe (1) à l’égard d’un membre de la Gendarmerie royale du Canada.
+> 2006, ch. 9, art. 201; 2013, ch. 18, art. 62.
 
 
 
@@ -1006,16 +1006,16 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 
 **Restriction : Gendarmerie royale du Canada**
 
-- **(5)** S’agissant d’un membre de la Gendarmerie royale du Canada, le Tribunal ne peut ordonner que la prise de sanctions disciplinaires qui constituent des mesures disciplinaires visées au paragraphe 41(1) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md) ou des peines visées au paragraphe 45.12(3) de celle-ci, ou une combinaison de celles-ci.
+- **(5)** S’agissant d’un membre de la Gendarmerie royale du Canada, le Tribunal ne peut ordonner que la prise des mesures disciplinaires établies conformément à l’alinéa 39.1a) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md) ou des mesures disciplinaires visées aux alinéas 45(4)a) ou b) de celle-ci, ou une combinaison de celles-ci.
 
 **[Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md)**
 
-- **(6)** Malgré les paragraphes 42(4) et (6), 45.16(7) et 45.26(6) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md), le Tribunal peut rendre une ordonnance au titre du paragraphe (1) à l’égard d’un membre de la Gendarmerie royale du Canada.
+- **(6)** Malgré les paragraphes 32(1) et 45.16(9) de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md), le Tribunal peut rendre une ordonnance au titre du paragraphe (1) à l’égard d’un membre de la Gendarmerie royale du Canada.
 
 **[Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md)**
 
-- **(7)** Malgré le paragraphe 12(2) et la partie IV de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md), l’ordonnance rendue au titre du paragraphe (1) à l’égard d’un membre de la Gendarmerie royale du Canada peut être exécutée par le gouverneur en conseil ou le commissaire de la Gendarmerie royale du Canada.
-> 2006, ch. 9, art. 201.
+- **(7)** Malgré la partie IV de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md), l’ordonnance rendue au titre du paragraphe (1) à l’égard d’un membre de la Gendarmerie royale du Canada peut être exécutée par le gouverneur en conseil ou le commissaire de la Gendarmerie royale du Canada.
+> 2006, ch. 9, art. 201; 2013, ch. 18, art. 63.
 
 
 
@@ -1068,7 +1068,11 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 
 **[Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md)**
 
-- **(2)** Pour l’application du paragraphe (1), la personne ou l’organisme saisi d’une question concernant une enquête ou une procédure visées aux parties IV ou V de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md) est réputé ne pas agir à titre d’organisme chargé de l’application de la loi.
+- **(2)** Pour l’application du paragraphe (1) :
+	- **a)** le commissaire de la Gendarmerie royale du Canada ou son délégué n’agit pas à titre d’organisme chargé de l’application de la loi lorsqu’il exerce les pouvoirs prévus à l’article 20.2 de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md);
+	- **b)** la personne ou l’organisme saisi d’une question concernant une enquête ou une procédure visées à la partie IV de cette loi n’agit pas à titre d’organisme chargé de l’application de la loi.
+> 2005, ch. 46, art. 23; 2013, ch. 18, art. 64.
+
 
 
 
@@ -1087,7 +1091,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 
 **Décision judiciaire ou quasi judiciaire**
 
-- **(2)** Dans le cas où il estime que l’objet d’une divulgation ou d’une éventuelle enquête porte sur une décision rendue au titre d’une loi fédérale dans l’exercice d’une fonction judiciaire ou quasi judiciaire, notamment une décision rendue par le commissaire de la Gendarmerie royale du Canada en vertu des parties IV ou V de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md), le commissaire est tenu de refuser de donner suite à la divulgation ou de commencer l’enquête.
+- **(2)** Dans le cas où il estime que l’objet d’une divulgation ou d’une éventuelle enquête porte sur une décision rendue au titre d’une loi fédérale dans l’exercice d’une fonction judiciaire ou quasi judiciaire, notamment une décision rendue par le commissaire de la Gendarmerie royale du Canada sous le régime de la partie IV de la [Loi sur la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-10.md), le commissaire est tenu de refuser de donner suite à la divulgation ou de commencer l’enquête.
 
 **Compétence du commissaire aux conflits d’intérêts et à l’éthique**
 
@@ -1096,7 +1100,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Avis**
 
 - **(3)** En cas de refus de donner suite à une divulgation ou de commencer une enquête, le commissaire en donne un avis motivé au divulgateur ou à la personne qui lui a communiqué les renseignements visés à l’article 33.
-> 2005, ch. 46, art. 24; 2006, ch. 9, art. 203 et 226.
+> 2005, ch. 46, art. 24; 2006, ch. 9, art. 203 et 226; 2013, ch. 18, art. 65.
 
 
 
