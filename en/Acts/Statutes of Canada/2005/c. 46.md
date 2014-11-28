@@ -401,10 +401,10 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 **Exception — RCMP**
 
-- **(5)** A member or former member of the Royal Canadian Mounted Police may not make a complaint under subsection (1) in relation to any matter that is the subject of an investigation or proceeding under Part IV or V of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md) or an investigation or proceeding relating to administrative discharge under the [Royal Canadian Mounted Police Regulations, 1988](/en/Regulations/Statutory%20Orders%20and%20Regulations/88/361.md) unless
-	- **(a)** he or she has exhausted every procedure available under that Act or those regulations for dealing with the matter; and
+- **(5)** A member or former member of the Royal Canadian Mounted Police may not make a complaint under subsection (1) in relation to any action under section 20.2, or any matter that is the subject of an investigation or proceeding under Part IV of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md), unless
+	- **(a)** he or she has exhausted every procedure available under that Act for dealing with the action or matter; and
 	- **(b)** the complaint is filed within 60 days after those procedures have been exhausted.
-> 2006, c. 9, s. 201.
+> 2006, c. 9, s. 201; 2013, c. 18, s. 61.
 
 
 
@@ -973,8 +973,8 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 **[Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md)**
 
-- **(2)** The Tribunal may make an order under subsection (1) in relation to a member of the Royal Canadian Mounted Police despite subsections 42(4) and (6), 45.16(7) and 45.26(6) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md).
-> 2006, c. 9, s. 201.
+- **(2)** The Tribunal may make an order under subsection (1) in relation to a member of the Royal Canadian Mounted Police despite subsections 32(1) and 45.16(9) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md).
+> 2006, c. 9, s. 201; 2013, c. 18, s. 62.
 
 
 
@@ -1008,16 +1008,16 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 **Restriction — RCMP**
 
-- **(5)** The disciplinary action that the Tribunal may order with respect to a member of the Royal Canadian Mounted Police is limited to a disciplinary action referred to in subsection 41(1), or a sanction referred to in subsection 45.12(3), of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md), or any combination of them.
+- **(5)** The disciplinary action that the Tribunal may order with respect to a member of the Royal Canadian Mounted Police is limited to a conduct measure established under paragraph 39.1(a), or a conduct measure referred to in paragraph 45(4)(a) or (b), of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md), or any combination of them.
 
 **[Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md)**
 
-- **(6)** The Tribunal may make an order under subsection (1) in relation to a member of the Royal Canadian Mounted Police despite subsections 42(4) and (6), 45.16(7) and 45.26(6) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md).
+- **(6)** The Tribunal may make an order under subsection (1) in relation to a member of the Royal Canadian Mounted Police despite subsections 32(1) and 45.16(9) of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md).
 
 **[Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md)**
 
-- **(7)** An order made under subsection (1) in relation to a member of the Royal Canadian Mounted Police may be implemented by the Governor in Council or Commissioner of the Royal Canadian Mounted Police despite subsection 12(2) and Part IV of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md).
-> 2006, c. 9, s. 201.
+- **(7)** An order made under subsection (1) in relation to a member of the Royal Canadian Mounted Police may be implemented by the Governor in Council or Commissioner of the Royal Canadian Mounted Police despite Part IV of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md).
+> 2006, c. 9, s. 201; 2013, c. 18, s. 63.
 
 
 
@@ -1070,7 +1070,11 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 **[Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md)**
 
-- **(2)** For the purpose of subsection (1), a person or body dealing with a matter in the course of an investigation or proceeding under Part IV or V of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md) is deemed not to be dealing with the matter as a law enforcement authority.
+- **(2)** For the purpose of subsection (1),
+	- **(a)** the Commissioner of the Royal Canadian Mounted Police, or his or her delegate, is not acting as a law enforcement authority when taking any action under section 20.2 of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md); and
+	- **(b)** a person or body dealing with a matter in the course of an investigation or proceeding under Part IV of that Act is not dealing with the matter as a law enforcement authority.
+> 2005, c. 46, s. 23; 2013, c. 18, s. 64.
+
 
 
 
@@ -1089,7 +1093,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 **Adjudicative decisions**
 
-- **(2)** The Commissioner must refuse to deal with a disclosure or to commence an investigation if he or she is of the opinion that the subject-matter of the disclosure or the investigation relates solely to a decision that was made in the exercise of an adjudicative function under an Act of Parliament, including a decision of the Commissioner of the Royal Canadian Mounted Police under Part IV or V of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md).
+- **(2)** The Commissioner must refuse to deal with a disclosure or to commence an investigation if he or she is of the opinion that the subject matter of the disclosure or the investigation relates solely to a decision that was made in the exercise of an adjudicative function under an Act of Parliament, including a decision of the Commissioner of the Royal Canadian Mounted Police under Part IV of the [Royal Canadian Mounted Police Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-10.md).
 
 **Jurisdiction of the Conflict of Interest and Ethics Commissioner**
 
@@ -1098,7 +1102,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Notice of refusal**
 
 - **(3)** If the Commissioner refuses to deal with a disclosure or to commence an investigation, he or she must inform the person who made the disclosure, or who provided the information referred to in section 33, as the case may be, and give reasons why he or she did so.
-> 2005, c. 46, s. 24; 2006, c. 9, ss. 203, 226.
+> 2005, c. 46, s. 24; 2006, c. 9, ss. 203, 226; 2013, c. 18, s. 65.
 
 
 
