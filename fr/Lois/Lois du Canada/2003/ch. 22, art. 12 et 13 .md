@@ -421,8 +421,9 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 	- **f)** régir la communication de renseignements obtenus au cours d’enquêtes menées dans le cadre de la présente loi;
 	- **g)** définir ***processus de nomination fondé sur les qualités du titulaire*** pour l’application du paragraphe 34(1);
 	- **h)** fixer les modalités et les délais relatifs aux allégations, et les modalités relatives à la conduite des enquêtes, visées par la partie 7;
-	- **i)** prévoir, pour l’application de l’article 64, les modalités relatives aux mises en disponibilité et la façon de choisir les fonctionnaires qui seront mis en disponibilité.
-> 2003, ch. 22, art. 12 « 22 »; 2006, ch. 9, art. 100.
+	- **i)** prévoir, pour l’application de l’article 64, les modalités relatives aux mises en disponibilité et la façon de choisir les fonctionnaires qui seront mis en disponibilité;
+	- **j)** prévoir les circonstances pour l’application de l’article 50.2.
+> 2003, ch. 22, art. 12 « 22 »; 2006, ch. 9, art. 100; 2013, ch. 18, art. 59.
 
 
 
@@ -875,6 +876,21 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 
 **50.1** Malgré le paragraphe 50(2), l’employé occasionnel peut être nommé au bureau du directeur général des élections en vue d’une élection tenue en vertu de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md), ou d’un référendum tenu en vertu de la [Loi référendaire](/fr/Lois/Lois%20du%20Canada/1992/ch.%2030.md), pour une période ne dépassant pas 165 jours ouvrables par année civile.
 > 2007, ch. 21, art. 40.
+
+
+
+
+
+**Exception**
+
+**50.2** 
+
+- **(1)** Malgré le paragraphe 50(2), dans les circonstances prévues par les règlements pris en vertu de l’alinéa 22(2)j), une personne peut être nommée à titre d’employé occasionnel de la Gendarmerie royale du Canada pour une période dépassant quatre-vingt-dix jours ouvrables par année civile.
+
+**Révision**
+
+- **(2)** La Commission peut effectuer annuellement une révision de l’exercice de l’autorité de nommer des employés occasionnels de la Gendarmerie royale du Canada pour une période dépassant quatre-vingt-dix jours ouvrables au cours de l’année civile précédente.
+> 2013, ch. 18, art. 60.
 
 
 
