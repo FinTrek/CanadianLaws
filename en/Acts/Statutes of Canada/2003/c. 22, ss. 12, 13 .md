@@ -416,9 +416,10 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(e)** respecting the appointment of persons within the executive group or to the executive group from within or outside the public service, and excluding any such persons or any class of such persons from the operation of any or all of the provisions of this Act;
 	- **(f)** respecting the disclosure of information obtained in the course of an investigation under this Act;
 	- **(g)** defining ***incumbent-based process*** for the purposes of subsection 34(1);
-	- **(h)** prescribing the manner in which and the period within which allegations are to be made, and the manner in which investigations are to be conducted under Part 7; and
-	- **(i)** respecting the manner of laying off employees and the manner of selecting employees to be laid off, for the purposes of section 64.
-> 2003, c. 22, s. 12 “22”; 2006, c. 9, s. 100.
+	- **(h)** prescribing the manner in which and the period within which allegations are to be made, and the manner in which investigations are to be conducted under Part 7;
+	- **(i)** respecting the manner of laying off employees and the manner of selecting employees to be laid off, for the purposes of section 64; and
+	- **(j)** prescribing circumstances for the purposes of section 50.2.
+> 2003, c. 22, s. 12 “22”; 2006, c. 9, s. 100; 2013, c. 18, s. 59.
 
 
 
@@ -873,6 +874,21 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **50.1** Despite subsection 50(2), the maximum period of employment of casual workers appointed in the Office of the Chief Electoral Officer for the purposes of an election under the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md) or a referendum held under the [Referendum Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2030.md) is 165 working days in one calendar year.
 > 2007, c. 21, s. 40.
+
+
+
+
+
+**Exception**
+
+**50.2** 
+
+- **(1)** Despite subsection 50(2), a person may be appointed as a casual worker to the Royal Canadian Mounted Police for a period of more than 90 working days in one calendar year in the circumstances prescribed by regulations made under paragraph 22(2)(j).
+
+**Review**
+
+- **(2)** The Commission may, on an annual basis, conduct a review of the exercise of the authority to appoint casual workers to the Royal Canadian Mounted Police for more than 90 working days during the preceding calendar year.
+> 2013, c. 18, s. 60.
 
 
 
