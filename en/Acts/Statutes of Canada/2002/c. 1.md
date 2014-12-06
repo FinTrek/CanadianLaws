@@ -4082,8 +4082,7 @@ The provisions of this Act applicable to sentences imposed under section 42 appl
 - **(f)** section 155 (incest);
 - **(g)** section 159 (anal intercourse);
 - **(h)** section 170 (parent or guardian procuring sexual activity by child);
-- **(i)** subsection 212(2) (living off the avails of prostitution by a child);
-- **(j)** subsection 212(4) (obtaining sexual services of a child);
+- **(i) and (j)** [Repealed, 2014, c. 25, s. 43]
 - **(k)** section 231 or 235 (first degree murder or second degree murder within the meaning of section 231);
 - **(l)** section 232, 234 or 236 (manslaughter);
 - **(m)** section 239 (attempt to commit murder);
@@ -4094,11 +4093,22 @@ The provisions of this Act applicable to sentences imposed under section 42 appl
 - **(r)** section 272 (sexual assault with a weapon, threats to a third party or causing bodily harm);
 - **(s)** section 273 (aggravated sexual assault);
 - **(t)** section 279 (kidnapping);
+- **(t.1)** section 279.011 (trafficking — person under 18 years);
+- **(t.2)** subsection 279.02(2) (material benefit — trafficking of person under 18 years);
+- **(t.3)** subsection 279.03(2) (withholding or destroying documents — trafficking of person under 18 years);
+- **(t.4)** subsection 286.1(2) (obtaining sexual services for consideration from person under 18 years);
+- **(t.5)** subsection 286.2(2) (material benefit from sexual services provided by person under 18 years);
+- **(t.6)** subsection 286.3(2) (procuring — person under 18 years);
 - **(u)** section 344 (robbery);
 - **(v)** section 433 (arson — disregard for human life);
 - **(w)** section 434.1 (arson — own property);
 - **(x)** section 436 (arson by negligence); and
 - **(y)** paragraph 465(1)(a) (conspiracy to commit murder).
+
+
+**1.1** An offence under one of the following provisions of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), as they read from time to time before the day on which this section comes into force:
+- **(a)** subsection 212(2) (living on the avails of prostitution of person under 18 years); and
+- **(b)** subsection 212(4) (prostitution of person under 18 years).
 
 
 **2** An offence under any of the following provisions of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), as they read immediately before July 1, 1990:
@@ -4120,5 +4130,7 @@ The provisions of this Act applicable to sentences imposed under section 42 appl
 - **(b)** section 6 (importing and exporting); and
 - **(c)** section 7 (production of substance).
 
+
+> 2002, c. 1, Sch.; 2014, c. 25, s. 43.
 
 
