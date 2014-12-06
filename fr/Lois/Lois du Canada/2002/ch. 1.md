@@ -4024,8 +4024,7 @@ Cette exclusion ne vaut que pour la durée de présentation au tribunal ou à la
 - **f)** article 155 (inceste);
 - **g)** article 159 (relations sexuelles anales);
 - **h)** article 170 (père, mère ou tuteur qui sert d’entremetteur);
-- **i)** paragraphe 212(2) (vivre des produits de la prostitution d’un enfant);
-- **j)** paragraphe 212(4) (obtenir les services sexuels d’un enfant);
+- **i) et j)** [Abrogés, 2014, ch. 25, art. 43]
 - **k)** articles 231 ou 235 (meurtre au premier ou au deuxième degré);
 - **l)** articles 232, 234 ou 236 (homicide involontaire coupable);
 - **m)** article 239 (tentative de meurtre);
@@ -4036,11 +4035,22 @@ Cette exclusion ne vaut que pour la durée de présentation au tribunal ou à la
 - **r)** article 272 (agression sexuelle armée, menaces à une tierce personne ou infliction de lésions corporelles);
 - **s)** article 273 (agression sexuelle grave);
 - **t)** article 279 (enlèvement, séquestration);
+- **t.1)** article 279.011 (traite de personnes âgées de moins de dix-huit ans);
+- **t.2)** paragraphe 279.02(2) (avantage matériel — traite de personnes âgées de moins de dix-huit ans);
+- **t.3)** paragraphe 279.03(2) (rétention ou destruction de documents — traite de personnes âgées de moins de dix-huit ans);
+- **t.4)** paragraphe 286.1(2) (obtention de services sexuels moyennant rétribution — personne âgée de moins de dix-huit ans);
+- **t.5)** paragraphe 286.2(2) (avantage matériel provenant de la prestation de services sexuels d’une personne âgée de moins de dix-huit ans);
+- **t.6)** paragraphe 286.3(2) (proxénétisme — personne âgée de moins de dix-huit ans);
 - **u)** article 344 (vol qualifié);
 - **v)** article 433 (incendie criminel : danger pour la vie humaine);
 - **w)** article 434.1 (incendie criminel : biens propres);
 - **x)** article 436 (incendie criminel par négligence);
 - **y)** alinéa 465(1)a) (complot en vue de commettre un meurtre).
+
+
+**1.1** Une infraction prévue à l’une des dispositions ci-après du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), dans toute version antérieure à la date d’entrée en vigueur du présent article :
+- **a)** paragraphe 212(2) (vivre des produits de la prostitution d’une personne âgée de moins de dix-huit ans);
+- **b)** paragraphe 212(4) (prostitution d’une personne âgée de moins de dix-huit ans).
 
 
 **2** Une infraction prévue par l’une des dispositions suivantes du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), dans leur version antérieure au 1<sup>er</sup> juillet 1990 :
@@ -4062,5 +4072,7 @@ Cette exclusion ne vaut que pour la durée de présentation au tribunal ou à la
 - **b)** article 6 (importation et exportation);
 - **c)** article 7 (production).
 
+
+> 2002, ch. 1, ann.; 2014, ch. 25, art. 43.
 
 
