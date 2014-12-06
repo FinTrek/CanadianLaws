@@ -2754,9 +2754,9 @@ make an interim review of the case during the three days following the day on wh
 
 - **(9)** In this section and sections 130 and 132,
 
-***serious drug offence*** means an offence set out in Schedule II;
+***serious drug offence*** means an offence set out in Schedule II; (*infraction grave en matière de drogue*)
 
-***sexual offence involving a child*** means
+***sexual offence involving a child*** means
 - **(a)** an offence under any of the following provisions of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) that was prosecuted by way of indictment, namely,
 	- **(i)** section 151 (sexual interference),
 	- **(ii)** section 152 (invitation to sexual touching),
@@ -2767,34 +2767,41 @@ make an interim review of the case during the three days following the day on wh
 	- **(vi)** section 171 (householder permitting sexual activity by child),
 	- **(vii)** section 172 (corrupting children),
 	- **(vii.1)** section 172.1 (luring a child),
-	- **(viii)** subsection 212(2) (living off the avails of prostitution by a child), and
-	- **(ix)** subsection 212(4) (obtaining sexual services of a child),
+	- **(viii)** section 279.011 (trafficking — person under 18 years),
+	- **(ix)** subsection 279.02(2) (material benefit — trafficking of person under 18 years),
+	- **(x)** subsection 279.03(2) (withholding or destroying documents — trafficking of person under 18 years),
+	- **(xi)** subsection 286.1(2) (obtaining sexual services for consideration from person under 18 years),
+	- **(xii)** subsection 286.2(2) (material benefit from sexual services provided by person under 18 years), and
+	- **(xiii)** subsection 286.3(2) (procuring — person under 18 years);
 - **(b)** an offence under any of the following provisions of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) involving a person under the age of eighteen years that was prosecuted by way of indictment, namely,
 	- **(i)** section 155 (incest),
 	- **(ii)** section 159 (anal intercourse),
 	- **(iii)** subsections 160(1) and (2) (bestiality and compelling bestiality),
 	- **(iv)** section 271 (sexual assault),
 	- **(v)** section 272 (sexual assault with a weapon, threats to a third party or causing bodily harm), and
-	- **(vi)** section 273 (aggravated sexual assault),
+	- **(vi)** section 273 (aggravated sexual assault);
+- **(b.1)** an offence under any of the following provisions of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), as they read from time to time before the day on which this paragraph comes into force, that was prosecuted by way of indictment:
+	- **(i)** subsection 212(2) (living on the avails of prostitution of person under 18 years), and
+	- **(ii)** subsection 212(4) (prostitution of person under 18 years);
 - **(c)** an offence under any of the following provisions of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), chapter C-34 of the Revised Statutes of Canada, 1970, as they read immediately before January 1, 1988, that was prosecuted by way of indictment, namely,
 	- **(i)** section 146 (sexual intercourse with a female under 14),
 	- **(ii)** section 151 (seduction of a female between 16 and 18), and
-	- **(iii)** section 167 (householder permitting defilement),
+	- **(iii)** section 167 (householder permitting defilement);
 - **(d)** an offence involving a person under the age of eighteen years under any of the following provisions of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), chapter C-34 of the Revised Statutes of Canada, 1970, as they read immediately before January 1, 1988, that was prosecuted by way of indictment, namely,
 	- **(i)** section 153 (sexual intercourse with step-daughter),
 	- **(ii)** section 155 (buggery or bestiality),
 	- **(iii)** section 157 (gross indecency), and
-	- **(iv)** section 166 (parent or guardian procuring defilement), or
+	- **(iv)** section 166 (parent or guardian procuring defilement); or
 - **(e)** an offence involving a person under the age of eighteen years under any of the following provisions of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), chapter C-34 of the Revised Statutes of Canada, 1970, as they read immediately before January 4, 1983, that was prosecuted by way of indictment, namely,
 	- **(i)** section 144 (rape),
 	- **(ii)** section 145 (attempt to commit rape),
 	- **(iii)** section 149 (indecent assault on female), and
-	- **(iv)** section 156 (indecent assault on male).
+	- **(iv)** section 156 (indecent assault on male). (*infraction d’ordre sexuel à l’égard d’un enfant*)
 
 **Determination of likelihood of offence**
 
 - **(10)** In determining whether an offender is likely to commit an offence causing death or serious harm to another person, a sexual offence involving a child or a serious drug offence, it is not necessary to determine whether the offender is likely to commit any particular offence.
-> 1992, c. 20, s. 129; 1995, c. 42, s. 44; 1998, c. 35, s. 117; 2012, c. 1, s. 84
+> 1992, c. 20, s. 129; 1995, c. 42, s. 44; 1998, c. 35, s. 117; 2012, c. 1, s. 84; 2014, c. 25, s. 41
 
 
 
@@ -4795,9 +4802,7 @@ is guilty of an offence punishable on summary conviction and liable to a fine no
 - **(l)** section 171 (householder permitting sexual activity by or in presence of child);
 - **(m)** section 172 (corrupting children);
 - **(m.1)** section 172.1 (luring a child);
-- **(n)** subsection 212(2) (living off the avails of prostitution by a child);
-- **(n.1)** subsection 212(2.1) (aggravated offence in relation to living on the avails of prostitution of a person under the age of 18 years);
-- **(o)** subsection 212(4) (obtaining sexual services of a child);
+- **(n) to (o)** [Repealed, 2014, c. 25. s. 42]
 - **(o.1)** section 220 (causing death by criminal negligence);
 - **(o.2)** section 221 (causing bodily harm by criminal negligence);
 - **(p)** section 236 (manslaughter);
@@ -4830,7 +4835,13 @@ is guilty of an offence punishable on summary conviction and liable to a fine no
 - **(z.1)** section 273 (aggravated sexual assault);
 - **(z.11)** section 273.3 (removal of child from Canada);
 - **(z.2)** section 279 (kidnapping and forcible confinement);
+- **(z.201)** section 279.011 (trafficking  —  person under 18 years);
+- **(z.202)** subsection 279.02(2) (material benefit  —  trafficking of person under 18 years);
+- **(z.203)** subsection 279.03(2) (withholding or destroying documents  —  trafficking of person under 18 years);
 - **(z.21)** section 279.1 (hostage taking);
+- **(z.22)** subsection 286.1(2) (obtaining sexual services for consideration from person under 18 years);
+- **(z.23)** subsection 286.2(2) (material benefit from sexual services provided by person under 18 years);
+- **(z.24)** subsection 286.3(2) (procuring  — person under 18 years);
 - **(z.3)** sections 343 and 344 (robbery);
 - **(z.301)** section 346 (extortion);
 - **(z.31)** subsection 430(2) (mischief that causes actual danger to life);
@@ -4878,6 +4889,12 @@ is guilty of an offence punishable on summary conviction and liable to a fine no
 **5.1** If prosecuted by way of indictment, the offence of pointing a firearm, as provided for by subsection 86(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), as it read immediately before December 1, 1998.
 
 
+**5.2** An offence under any of the following provisions of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), as they read from time to time before the day on which this section comes into force, that was prosecuted by way of indictment:
+- **(a)** subsection 212(2) (living on the avails of prostitution of person under 18 years);
+- **(b)** subsection 212(2.1) (aggravated offence in relation to living on the avails of prostitution of person under 18 years); and
+- **(c)** subsection 212(4) (prostitution of person under 18 years).
+
+
 **6** An offence under any of the following provisions of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md):
 - **(a)** section 4 (genocide, etc., committed in Canada);
 - **(b)** section 5 (breach of responsibility committed in Canada by military commanders or other superiors);
@@ -4885,7 +4902,7 @@ is guilty of an offence punishable on summary conviction and liable to a fine no
 - **(d)** section 7 (breach of responsibility committed outside Canada by military commanders or other superiors).
 
 
-> 1992, c. 20, Sch. I; 1995, c. 39, s. 165, c. 42, ss. 64 to 67; 2000, c. 24, s. 41; 2001, c. 41, ss. 91 to 93; 2008, c. 6, s. 57; 2011, c. 11, s. 8; 2012, c. 1, ss. 103, 104
+> 1992, c. 20, Sch. I; 1995, c. 39, s. 165, c. 42, ss. 64 to 67; 2000, c. 24, s. 41; 2001, c. 41, ss. 91 to 93; 2008, c. 6, s. 57; 2011, c. 11, s. 8; 2012, c. 1, ss. 103, 104; 2014, c. 25, s. 42
 
 
 
