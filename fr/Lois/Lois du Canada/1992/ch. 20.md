@@ -2547,7 +2547,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Renvoi dans les meilleurs délais**
 
-- **(5)** En cas de renvoi au président à compter du sixième mois précédant la date prévue pour la libération d’office, la Commission procède de la façon suivante :
+- **(5)** En cas de renvoi au président à compter du sixième mois précédant la date prévue pour la libération d’office, la Commission procède de la façon suivante :
 	- **a)** si le renvoi a lieu plus de quatre semaines avant cette date, elle effectue, avant celle-ci, l’examen visé au paragraphe 130(1);
 	- **b)** s’il survient dans les quatre semaines précédant cette date mais plus de trois jours avant celle-ci, elle procède, si possible, à l’examen visé au paragraphe 130(1); à défaut, elle effectue un examen provisoire avant cette date;
 	- **c)** s’il survient à cette date ou pendant les trois jours qui la précèdent, ou s’il intervient, en vertu de l’alinéa (3)b), après cette date, elle effectue un examen provisoire dans les trois jours suivant le jour où il a lieu.
@@ -2569,7 +2569,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 - **(9)** Les définitions qui suivent s’appliquent au présent article et aux articles 130 et 132.
 
 ***infraction d’ordre sexuel à l’égard d’un enfant***
-- **a)** Infraction prévue par l’une des dispositions suivantes du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) et poursuivie par mise en accusation :
+- **a)** Infraction prévue par l’une des dispositions suivantes du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) et poursuivie par mise en accusation :
 	- **(i)** article 151 (contacts sexuels),
 	- **(ii)** article 152 (incitation à des contacts sexuels),
 	- **(iii)** article 153 (personnes en situation d’autorité),
@@ -2579,36 +2579,43 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 	- **(vi)** article 171 (maître de maison qui permet à des enfants des actes sexuels interdits),
 	- **(vii)** article 172 (corruption d’enfants),
 	- **(vii.1)** article 172.1 (leurre),
-	- **(viii)** paragraphe 212(2) (vivre des produits de la prostitution d’un enfant),
-	- **(ix)** paragraphe 212(4) (obtenir les services sexuels d’un enfant);
-- **b)** infraction prévue par l’une des dispositions suivantes du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), commise à l’égard d’une personne âgée de moins de dix-huit ans et poursuivie par mise en accusation :
+	- **(viii)** article 279.011 (traite de personnes âgées de moins de dix-huit ans),
+	- **(ix)** paragraphe 279.02(2) (avantage matériel — traite de personnes âgées de moins de dix-huit ans),
+	- **(x)** paragraphe 279.03(2) (rétention ou destruction de documents — traite de personnes âgées de moins de dix-huit ans),
+	- **(xi)** paragraphe 286.1(2) (obtention de services sexuels moyennant rétribution — personne âgée de moins de dix-huit ans),
+	- **(xii)** paragraphe 286.2(2) (avantage matériel provenant de la prestation de services sexuels d’une personne âgée de moins de dix-huit ans),
+	- **(xiii)** paragraphe 286.3(2) (proxénétisme — personne âgée de moins de dix-huit ans);
+- **b)** infraction prévue par l’une des dispositions suivantes du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), commise à l’égard d’une personne âgée de moins de dix-huit ans et poursuivie par mise en accusation :
 	- **(i)** article 155 (inceste),
 	- **(ii)** article 159 (relations sexuelles anales),
 	- **(iii)** paragraphes 160(1) et (2) (bestialité ou usage de la force),
 	- **(iv)** article 271 (agression sexuelle),
 	- **(v)** article 272 (agression sexuelle armée, menaces contre une tierce personne ou infliction de lésions corporelles),
 	- **(vi)** article 273 (agression sexuelle grave);
-- **c)** infraction prévue par l’une des dispositions suivantes du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), chapitre C-34 des Statuts revisés du Canada de 1970, dans leur version antérieure au 1<sup>er</sup> janvier 1988, et poursuivie par mise en accusation :
+- **b.1)** infraction prévue à l’une des dispositions ci-après du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), dans toute version antérieure à la date d’entrée en vigueur du présent alinéa, et poursuivie par mise en accusation :
+	- **(i)** paragraphe 212(2) (vivre des produits de la prostitution d’une personne âgée de moins de dix-huit ans),
+	- **(ii)** paragraphe 212(4) (prostitution d’une personne âgée de moins de dix-huit ans);
+- **c)** infraction prévue par l’une des dispositions suivantes du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), chapitre C-34 des Statuts revisés du Canada de 1970, dans leur version antérieure au 1<sup>er</sup> janvier 1988, et poursuivie par mise en accusation :
 	- **(i)** article 146 (rapports sexuels avec une personne du sexe féminin de moins de 14 ans),
 	- **(ii)** article 151 (séduction d’une personne du sexe féminin de 16 à 18 ans),
 	- **(iii)** article 167 (maître de maison qui permet le déflorement);
-- **d)** infraction prévue par l’une des dispositions suivantes du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), chapitre C-34 des Statuts revisés du Canada de 1970, dans leur version antérieure au 1<sup>er</sup> janvier 1988, commise à l’égard d’une personne âgée de moins de dix-huit ans et poursuivie par mise en accusation :
+- **d)** infraction prévue par l’une des dispositions suivantes du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), chapitre C-34 des Statuts revisés du Canada de 1970, dans leur version antérieure au 1<sup>er</sup> janvier 1988, commise à l’égard d’une personne âgée de moins de dix-huit ans et poursuivie par mise en accusation :
 	- **(i)** article 153 (rapports sexuels avec sa belle-fille),
 	- **(ii)** article 155 (sodomie ou bestialité),
 	- **(iii)** article 157 (grossière indécence),
 	- **(iv)** article 166 (père, mère ou tuteur qui cause le déflorement);
-- **e)** infraction prévue par l’une des dispositions suivantes du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), chapitre C-34 des Statuts revisés du Canada de 1970, dans leur version antérieure au 4 janvier 1983, commise à l’égard d’une personne âgée de moins de dix-huit ans et poursuivie par mise en accusation :
+- **e)** infraction prévue par l’une des dispositions suivantes du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), chapitre C-34 des Statuts revisés du Canada de 1970, dans leur version antérieure au 4 janvier 1983, commise à l’égard d’une personne âgée de moins de dix-huit ans et poursuivie par mise en accusation :
 	- **(i)** article 144 (viol),
 	- **(ii)** article 145 (tentative de viol),
 	- **(iii)** article 149 (attentat à la pudeur d’une personne du sexe féminin),
-	- **(iv)** article 156 (attentat à la pudeur d’une personne du sexe masculin).
+	- **(iv)** article 156 (attentat à la pudeur d’une personne du sexe masculin). (*sexual offence involving a child*)
 
-***infraction grave en matière de drogue*** Toute infraction mentionnée à l’annexe II.
+***infraction grave en matière de drogue*** Toute infraction mentionnée à l’annexe II. (*serious drug offence*)
 
 **Détermination**
 
 - **(10)** Il n’est pas nécessaire, pour déterminer s’il existe des motifs raisonnables de croire que le délinquant commettra une infraction causant la mort ou un dommage grave à une autre personne, une infraction d’ordre sexuel à l’égard d’un enfant ou une infraction grave en matière de drogue, de préciser l’infraction.
-> 1992, ch. 20, art. 129; 1995, ch. 42, art. 44; 1998, ch. 35, art. 117; 2012, ch. 1, art. 84
+> 1992, ch. 20, art. 129; 1995, ch. 42, art. 44; 1998, ch. 35, art. 117; 2012, ch. 1, art. 84; 2014, ch. 25, art. 41
 
 
 
@@ -4555,9 +4562,7 @@ Il est alors autorisé à faire prêter serment.
 - **l)** article 171 (maître de maison qui permet, à des enfants ou en leur présence, des actes sexuels interdits);
 - **m)** article 172 (corruption d’enfants);
 - **m.1)** article 172.1 (leurre);
-- **n)** paragraphe 212(2) (vivre des produits de la prostitution d’un enfant);
-- **n.1)** paragraphe 212(2.1) (infraction grave — vivre des produits de la prostitution d’une personne âgée de moins de dix-huit ans);
-- **o)** paragraphe 212(4) (obtenir les services sexuels d’un enfant);
+- **n) à o)** [Abrogés, 2014, ch. 25, art. 42]
 - **o.1)** article 220 (le fait de causer la mort par négligence criminelle);
 - **o.2)** article 221 (causer des lésions corporelles par négligence criminelle);
 - **p)** article 236 (homicide involontaire coupable);
@@ -4590,7 +4595,13 @@ Il est alors autorisé à faire prêter serment.
 - **z.1)** article 273 (agression sexuelle grave);
 - **z.11)** article 273.3 (passage d’enfants à l’étranger);
 - **z.2)** article 279 (enlèvement, séquestration);
+- **z.201)** article 279.011 (traite de personnes âgées de moins de dix-huit ans);
+- **z.202)** paragraphe 279.02(2) (avantage matériel—traite de personnes âgées de moins de dix-huit ans);
+- **z.203)** paragraphe 279.03(2) (rétention ou destruction de documents—traite de personnes âgées de moins de dix-huit ans);
 - **z.21)** article 279.1 (prise d’otages);
+- **z.22) ** paragraphe 286.1(2) (obtention de services sexuels moyennant rétribution  —  personne âgée de moins de dix-huit ans);
+- **z.23) ** paragraphe 286.2(2) (avantage matériel provenant de la prestation de services sexuels d’une personne âgée de moins de dix-huit ans);
+- **z.24) ** paragraphe 286.3(2) (proxénétisme  — personne âgée de moins de dix-huit ans);
 - **z.3)** articles 343 et 344 (vol qualifié);
 - **z.301)** article 346 (extorsion);
 - **z.31)** paragraphe 430(2) (méfait qui cause un danger réel pour la vie des gens);
@@ -4638,6 +4649,12 @@ Il est alors autorisé à faire prêter serment.
 **5.1** L’infraction prévue au paragraphe 86(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), dans sa version antérieure au 1<sup>er</sup> décembre 1998, et poursuivie par mise en accusation.
 
 
+**5.2** Une infraction prévue à l’une des dispositions ci-après du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), dans toute version antérieure à la date d’entrée en vigueur du présent article, et poursuivie par mise en accusation :
+- **a) ** paragraphe 212(2) (vivre des produits de la prostitution d’une personne âgée de moins de dix-huit ans);
+- **b) ** paragraphe 212(2.1) (infraction grave — vivre des produits de la prostitution d’une personne âgée de moins de dix-huit ans);
+- **c) ** paragraphe 212(4) (prostitution d’une personne âgée de moins de dix-huit ans).
+
+
 **6** Une infraction visée par l’une des dispositions suivantes de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md) :
 - **a)** article 4 (génocide, crime contre l’humanité, etc., commis au Canada);
 - **b)** article 5 (manquement à la responsabilité au Canada : chef militaire ou autre supérieur);
@@ -4645,7 +4662,7 @@ Il est alors autorisé à faire prêter serment.
 - **d)** article 7 (manquement à la responsabilité à l’étranger : chef militaire ou autre supérieur).
 
 
-> 1992, ch. 20, ann. I; 1995, ch. 39, art. 165, ch. 42, art. 64 à 67; 2000, ch. 24, art. 41; 2001, ch. 41, art. 91 à 93; 2008, ch. 6, art. 57; 2011, ch. 11, art. 8; 2012, ch. 1, art. 103 et 104
+> 1992, ch. 20, ann. I; 1995, ch. 39, art. 165, ch. 42, art. 64 à 67; 2000, ch. 24, art. 41; 2001, ch. 41, art. 91 à 93; 2008, ch. 6, art. 57; 2011, ch. 11, art. 8; 2012, ch. 1, art. 103 et 104; 2014, ch. 25, art. 42
 
 
 
