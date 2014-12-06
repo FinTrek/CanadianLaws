@@ -555,8 +555,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Obligation**
 
-**36.1** Si l’infraction criminelle visée aux articles 15 ou 36.3 est une infraction visée aux alinéas a), c), c.1), d) ou e) de la définition de ***infraction désignée*** au paragraphe 490.011(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), la personne est tenue de se conformer à la [Loi sur l’enregistrement de renseignements sur les délinquants sexuels](/fr/Lois/Lois%20du%20Canada/2004/ch.%2010.md).
-> 2010, ch. 17, art. 62.
+**36.1** Si l’infraction criminelle visée aux articles 15 ou 36.3 est une infraction visée aux alinéas a), c), c.1), d), d.1) ou e) de la définition de ***infraction désignée*** au paragraphe 490.011(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), la personne est tenue de se conformer à la [Loi sur l’enregistrement de renseignements sur les délinquants sexuels](/fr/Lois/Lois%20du%20Canada/2004/ch.%2010.md).
+> 2010, ch. 17, art. 62; 2014, ch. 25, art. 44.
 
 
 
@@ -577,7 +577,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Durée de l’obligation — plus d’une infraction**
 
-- **(3)** Elle s’applique à perpétuité si l’intéressé fait l’objet d’une déclaration de culpabilité ou d’un verdict de non-responsabilité criminelle pour cause de troubles mentaux à l’égard de plus d’une infraction dont l’infraction criminelle correspondante est une infraction visée aux alinéas a), c), c.1), d) ou e) de la définition de ***infraction désignée*** au paragraphe 490.011(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+- **(3)** Elle s’applique à perpétuité si l’intéressé fait l’objet d’une déclaration de culpabilité ou d’un verdict de non-responsabilité criminelle pour cause de troubles mentaux à l’égard de plus d’une infraction dont l’infraction criminelle correspondante est une infraction visée aux alinéas a), c), c.1), d), d.1) ou e) de la définition de ***infraction désignée*** au paragraphe 490.011(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
 
 **Durée de l’obligation — pluralité d’obligations**
 
@@ -590,10 +590,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Durée de l’obligation — infractions antérieures**
 
 - **(6)** Elle s’applique à perpétuité si les conditions ci-après sont réunies :
-	- **a)** l’intéressé a déjà, avant ou après l’entrée en vigueur du présent alinéa, fait l’objet d’une déclaration de culpabilité ou d’un verdict de non-responsabilité criminelle pour cause de troubles mentaux à l’égard d’une infraction visée aux alinéas a), c), c.1), d) ou e) de la définition de ***infraction désignée*** au paragraphe 490.011(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou aux alinéas a) ou c) de la définition de ***infraction désignée*** à l’article 227 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md);
+	- **a)** l’intéressé a déjà, avant ou après l’entrée en vigueur du présent alinéa, fait l’objet d’une déclaration de culpabilité ou d’un verdict de non-responsabilité criminelle pour cause de troubles mentaux à l’égard d’une infraction visée aux alinéas a), c), c.1), d), d.1) ou e) de la définition de ***infraction désignée*** au paragraphe 490.011(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou aux alinéas a) ou c) de la définition de ***infraction désignée*** à l’article 227 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md);
 	- **b)** aucun avis ne lui a été signifié en application des articles 490.021 ou 490.02903 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de l’article 227.08 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) à l’égard de cette infraction;
 	- **c)** aucune ordonnance n’a été rendue à l’égard de cette infraction en application du paragraphe 490.012(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou du paragraphe 227.01(1) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md).
-> 2010, ch. 17, art. 62.
+> 2010, ch. 17, art. 62; 2014, ch. 25, art. 45.
 
 
 
