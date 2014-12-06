@@ -563,8 +563,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Obligation**
 
-**36.1** If the criminal offence identified under section 15 or 36.3 is one referred to in paragraph (a), (c), (c.1), (d) or (e) of the definition ***designated offence*** in subsection 490.011(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the person is required to comply with the [Sex Offender Information Registration Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2010.md).
-> 2010, c. 17, s. 62.
+**36.1** If the criminal offence identified under section 15 or 36.3 is one referred to in paragraph (a), (c), (c.1), (d), (d.1) or (e) of the definition ***designated offence*** in subsection 490.011(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the person is required to comply with the [Sex Offender Information Registration Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2010.md).
+> 2010, c. 17, s. 62; 2014, c. 25, s. 44.
 
 
 
@@ -585,7 +585,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Duration — if more than one offence**
 
-- **(3)** The obligation applies for life if the person was convicted of or found not criminally responsible on account of mental disorder for more than one offence in respect of which the equivalent criminal offence is an offence referred to in paragraph (a), (c), (c.1), (d) or (e) of the definition ***designated offence*** in subsection 490.011(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+- **(3)** The obligation applies for life if the person was convicted of, or found not criminally responsible on account of mental disorder for, more than one offence in respect of which the equivalent criminal offence is an offence referred to in paragraph (a), (c), (c.1), (d), (d.1) or (e) of the definition ***designated offence*** in subsection 490.011(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
 
 **Duration — if previous obligation**
 
@@ -598,10 +598,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Duration — if previous offence**
 
 - **(6)** The obligation applies for life if
-	- **(a)** the person was, before or after the coming into force of this paragraph, previously convicted of or found not criminally responsible on account of mental disorder for an offence referred to in paragraph (a), (c), (c.1), (d) or (e) of the definition ***designated offence*** in subsection 490.011(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or in paragraph (a) or (c) of the definition ***designated offence*** in section 227 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md);
+	- **(a)** the person was, before or after the coming into force of this paragraph, previously convicted of, or found not criminally responsible on account of mental disorder for, an offence referred to in paragraph (a), (c), (c.1), (d), (d.1) or (e) of the definition ***designated offence*** in subsection 490.011(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or in paragraph (a) or (c) of the definition ***designated offence*** in section 227 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md);
 	- **(b)** the person was not served with a notice under section 490.021 or 490.02903 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 227.08 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) in connection with that offence; and
 	- **(c)** no order was made under subsection 490.012(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or subsection 227.01(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) in connection with that offence.
-> 2010, c. 17, s. 62.
+> 2010, c. 17, s. 62; 2014, c. 25, s. 45.
 
 
 
