@@ -392,7 +392,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Effective day of appointment**
 
-- **(2.2)** A director’s appointment takes effect on the day on which notice of the appointment is received by the port authority.
+- **(2.2)** A director’s appointment made by a municipality or province takes effect on the day on which notice of the appointment is received by the port authority.
 
 **Extension of term**
 
@@ -417,7 +417,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Quorum**
 
 - **(6)** Subject to the letters patent, a majority of the directors in office constitutes a quorum at any meeting of directors and a quorum of directors may exercise all the powers of the directors.
-> 1998, c. 10, s. 14; 2008, c. 21, s. 10.
+> 1998, c. 10, s. 14; 2008, c. 21, s. 10; 2014, c. 29, s. 27.
 
 
 
