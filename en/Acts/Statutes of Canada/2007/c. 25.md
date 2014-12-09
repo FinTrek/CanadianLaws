@@ -71,17 +71,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(4)** Nothing in subsection (1) or (2) prevents
 	- **(a)** the adoption, use or registration, as a trade-mark or otherwise, of a mark described in subsection (1) or (2) if the person has obtained the written consent of an organizing committee during any period prescribed by regulation or of the COC or the CPC during any other period, and acts in accordance with that consent;
 	- **(b)** the use of a trade-mark by an owner or licensee of the trade-mark if an owner or licensee of the trade-mark used it before March 2, 2007 and the use subsequent to that date is in association with
-		- **(i)** the same wares or services as those for which the trade-mark was used before that date,
-		- **(ii)** the wares or services in respect of which it is registered under the Trade-marks Act, or
-		- **(iii)** any other wares or services of the same general class as that for which it is registered or was, before that date, used;
+		- **(i)** the same goods or services as those for which the trade-mark was used before that date,
+		- **(ii)** the goods or services in respect of which it is registered under the Trade-marks Act, or
+		- **(iii)** any other goods or services of the same general class as that for which it is registered or was, before that date, used;
 	- **(c)** the use of a trade-mark by an owner or licensee of the trade-mark if an owner or licensee of the trade-mark used it before the day of publication in Part I of the Canada Gazette of an order that, by adding a mark to Schedule 1 or 2, prohibits the use of the trade-mark and the use subsequent to that day is in association with
-		- **(i)** the same wares or services as those for which the trade-mark was used before that date,
-		- **(ii)** the wares or services in respect of which it is registered under the Trade-marks Act, or
-		- **(iii)** any other wares or services of the same general class as that for which it is registered or was, before that date, used;
+		- **(i)** the same goods or services as those for which the trade-mark was used before that date,
+		- **(ii)** the goods or services in respect of which it is registered under the Trade-marks Act, or
+		- **(iii)** any other goods or services of the same general class as that for which it is registered or was, before that date, used;
 	- **(d)** the use by Her Majesty, a university or a public authority, or a person authorized by Her Majesty, the university or the public authority, of a badge, crest, emblem or other mark in respect of which Her Majesty, the university or the public authority, as the case may be, has requested that the Registrar give public notice under paragraph 9(1)(n) of the Trade-marks Act, if the notice is given before March 2, 2007;
 	- **(e)** the use by Her Majesty, a university or a public authority, or a person authorized by Her Majesty, the university or the public authority, of a badge, crest, emblem or other mark in respect of which Her Majesty, the university or the public authority, as the case may be, has requested that the Registrar give public notice under paragraph 9(1)(n) of the Trade-marks Act, if the notice is given before the day of publication in Part I of the Canada Gazette of an order that, by adding a mark to Schedule 1 or 2, prohibits the use of the badge, crest, emblem or other mark;
 	- **(f)** the use of a protected geographical indication identifying a wine or spirit, if the wine or spirit originates in the territory indicated by the indication;
-	- **(g)** the use by a person of their address, the geographical name of their place of business, an accurate indication of the origin of their wares or services, or an accurate description of their wares or services to the extent that the description is necessary to explain those wares or services to the public;
+	- **(g)** the use by a person of their address, the geographical name of their place of business, an accurate indication of the origin of their goods or services, or an accurate description of their goods or services to the extent that the description is necessary to explain those goods or services to the public;
 	- **(h)** the use by an individual of their name; or
 	- **(i)** the use by an individual who has been selected by the COC or the CPC to compete, or has competed, in an Olympic Games or Paralympic Games, or another person with that individual’s consent, of the mark “Olympian”, “Olympic”, “*Olympien*” or “*Olympique*”, or “Paralympian”, “Paralympic”, “*Paralympien*” or “*Paralympique*”, as the case may be, in reference to the individual’s participation in, or selection for, those Games.
 
@@ -92,6 +92,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Clarification**
 
 - **(6)** For greater certainty, the inclusion of an Olympic or Paralympic mark or a translation of it in any language in an artistic work, within the meaning of the [Copyright Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-42.md), by the author of that work, is not in itself a use in connection with a business if the work is not reproduced on a commercial scale.
+> 2007, c. 25, s. 3; 2014, c. 32, s. 62.
+
 
 
 
@@ -100,8 +102,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **4** 
 
-- **(1)** No person shall, during any period prescribed by regulation, in association with a trade-mark or other mark, promote or otherwise direct public attention to their business, wares or services in a manner that misleads or is likely to mislead the public into believing that
-	- **(a)** the person’s business, wares or services are approved, authorized or endorsed by an organizing committee, the COC or the CPC; or
+- **(1)** No person shall, during any period prescribed by regulation, in association with a trade-mark or other mark, promote or otherwise direct public attention to their business, goods or services in a manner that misleads or is likely to mislead the public into believing that
+	- **(a)** the person’s business, goods or services are approved, authorized or endorsed by an organizing committee, the COC or the CPC; or
 	- **(b)** a business association exists between the person’s business and the Olympic Games, the Paralympic Games, an organizing committee, the COC or the CPC.
 
 **Use of expressions set out in Schedule 3**
@@ -113,6 +115,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Proximity to mark**
 
 - **(3)** The placement of an advertisement in proximity to published material — including material published electronically — that contains an Olympic or Paralympic mark or a translation of it in any language is not in itself an act contrary to subsection (1).
+> 2007, c. 25, s. 4; 2014, c. 32, s. 62.
+
 
 
 
@@ -122,8 +126,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **5** 
 
 - **(1)** If a court finds, on application, that an act has been done contrary to section 3 or 4, it may make any order that it considers appropriate in the circumstances, including an order providing for relief by way of injunction and the recovery of damages or profits, for punitive damages, for the publication of a corrective advertisement and for the destruction, exportation or other disposition
-	- **(a)** of any offending wares, packages, labels and advertising material; and
-	- **(b)** of any dies used to apply to those wares, packages, labels or advertising material a mark whose adoption or use is prohibited under section 3.
+	- **(a)** of any offending goods, packaging, labels and advertising material; and
+	- **(b)** of any equipment used to apply to those goods, packaging, labels or advertising material a mark whose adoption or use is prohibited under section 3.
 
 **Application to court**
 
@@ -138,6 +142,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **No unreasonable refusal**
 
 - **(3)** The authorization may not be unreasonably refused.
+> 2007, c. 25, s. 5; 2014, c. 32, s. 61.
+
 
 
 
@@ -156,16 +162,16 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**Detention and disposition of imported wares**
+**Detention and disposition of imported goods**
 
 **8** 
 
 - **(1)** A court may, on application,
-	- **(a)** if it considers that any wares to which an Olympic or Paralympic mark has been applied are about to be imported into Canada or have been imported into Canada but have not yet been released, within the meaning of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), and that their distribution in Canada would be a use of the mark as a trade-mark that is contrary to section 3, make an order
-		- **(i)** directing the Minister of Public Safety and Emergency Preparedness to take reasonable measures, on the basis of information reasonably required by that Minister and provided by the applicant, to detain the wares,
-		- **(ii)** directing that Minister to notify the applicant and the owner or importer of the wares, without delay after detaining them, of the detention and the reasons for it, and
+	- **(a)** if it considers that any goods to which an Olympic or Paralympic mark has been applied are about to be imported into Canada or have been imported into Canada but have not yet been released, within the meaning of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), and that their distribution in Canada would be a use of the mark as a trade-mark that is contrary to section 3, make an order
+		- **(i)** directing the Minister of Public Safety and Emergency Preparedness to take reasonable measures, on the basis of information reasonably required by that Minister and provided by the applicant, to detain the goods,
+		- **(ii)** directing that Minister to notify the applicant and the owner or importer of the goods, without delay after detaining them, of the detention and the reasons for it, and
 		- **(iii)** providing for any other matters that the court considers appropriate; and
-	- **(b)** if it finds that the distribution in Canada of wares detained in accordance with an order made under paragraph (a) would be a use of the mark as a trade-mark that is contrary to section 3, make any order that it considers appropriate in the circumstances, including an order that the wares be destroyed or exported or that they be delivered up to the applicant as the applicant’s property absolutely.
+	- **(b)** if it finds that the distribution in Canada of goods detained in accordance with an order made under paragraph (a) would be a use of the mark as a trade-mark that is contrary to section 3, make any order that it considers appropriate in the circumstances, including an order that the goods be destroyed or exported or that they be delivered up to the applicant as the applicant’s property absolutely.
 
 **Application to court**
 
@@ -188,8 +194,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Security**
 
 - **(5)** Before making an order under paragraph (1)(a), the court may require the applicant to furnish security, in an amount fixed by the court,
-	- **(a)** to cover duties, within the meaning of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), and storage and handling charges, and any other amount that may become chargeable against the wares; and
-	- **(b)** to answer any damages that may by reason of the order be sustained by the owner, importer or consignee of the wares.
+	- **(a)** to cover duties, within the meaning of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), and storage and handling charges, and any other amount that may become chargeable against the goods; and
+	- **(b)** to answer any damages that may by reason of the order be sustained by the owner, importer or consignee of the goods.
 
 **Application for directions**
 
@@ -197,18 +203,22 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Permission to inspect**
 
-- **(7)** The Minister of Public Safety and Emergency Preparedness may give the applicant or importer of the wares detained in accordance with an order made under paragraph (1)(a) an opportunity to inspect them for the purpose of substantiating, in the case of the applicant, or refuting, in the case of the importer, the applicant’s claim.
+- **(7)** The Minister of Public Safety and Emergency Preparedness may give the applicant or importer of the goods detained in accordance with an order made under paragraph (1)(a) an opportunity to inspect them for the purpose of substantiating, in the case of the applicant, or refuting, in the case of the importer, the applicant’s claim.
 
-**Release of wares**
+**Release of goods**
 
-- **(8)** Unless an order made under paragraph (1)(a) provides otherwise, the Minister of Public Safety and Emergency Preparedness shall, subject to the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) and to any other Act of Parliament that prohibits, controls or regulates the importation or exportation of goods, release, within the meaning of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), the wares detained in accordance with the order without further notice to the applicant if, two weeks after the applicant has been notified under subparagraph (1)(a)(ii), that Minister has not been notified that an action has been commenced for an order under paragraph (1)(b).
+- **(8)** Unless an order made under paragraph (1)(a) provides otherwise, the Minister of Public Safety and Emergency Preparedness shall, subject to the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) and to any other Act of Parliament that prohibits, controls or regulates the importation or exportation of goods, release, within the meaning of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), the goods detained in accordance with the order without further notice to the applicant if, two weeks after the applicant has been notified under subparagraph (1)(a)(ii), that Minister has not been notified that an action has been commenced for an order under paragraph (1)(b).
+> 2007, c. 25, s. 8; 2014, c. 32, s. 62.
 
 
 
 
-**Exportation of wares**
 
-**9** A court shall not make an order under subsection 5(1) or paragraph 8(1)(b) for the exportation of wares bearing an Olympic or Paralympic mark unless it includes, as a condition of the order, a requirement that the mark be removed from the wares before they are exported.
+**Exportation of goods**
+
+**9** A court shall not make an order under subsection 5(1) or paragraph 8(1)(b) for the exportation of goods bearing an Olympic or Paralympic mark unless it includes, as a condition of the order, a requirement that the mark be removed from the goods before they are exported.
+> 2007, c. 25, s. 9; 2014, c. 32, s. 62.
+
 
 
 
