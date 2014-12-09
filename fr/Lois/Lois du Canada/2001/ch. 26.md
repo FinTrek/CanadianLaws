@@ -37,35 +37,35 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***affrètement coque nue*** Contrat d’affrètement d’un bâtiment en vertu duquel l’affréteur a la pleine possession et l’entier contrôle du bâtiment, y compris le droit d’en engager le capitaine et l’équipage.
+***affrètement coque nue*** Contrat d’affrètement d’un bâtiment en vertu duquel l’affréteur a la pleine possession et l’entier contrôle du bâtiment, y compris le droit d’en engager le capitaine et l’équipage. (*bare-boat charter*)
 
 ***arbitre***[Abrogée, 2001, ch. 29, art. 72)
 
-***bâtiment*** Navire, bateau ou embarcation conçu, utilisé ou utilisable — exclusivement ou non — pour la navigation sur l’eau, au-dessous ou légèrement au-dessus de celle-ci, indépendamment de son mode de propulsion ou de l’absence de propulsion ou du fait qu’il est encore en construction. Sont exclus de la présente définition les objets flottants des catégories prévues par règlement.
+***bâtiment*** Navire, bateau ou embarcation conçu, utilisé ou utilisable — exclusivement ou non — pour la navigation sur l’eau, au-dessous ou légèrement au-dessus de celle-ci, indépendamment de son mode de propulsion ou de l’absence de propulsion ou du fait qu’il est encore en construction. Sont exclus de la présente définition les objets flottants des catégories prévues par règlement. (*vessel*)
 
-***bâtiment assujetti à la Convention sur la sécurité*** Bâtiment assujetti à la Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer mentionnée à l’annexe 1.
+***bâtiment assujetti à la Convention sur la sécurité*** Bâtiment assujetti à la Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer mentionnée à l’annexe 1. (*Safety Convention vessel*)
 
-***bâtiment canadien*** Bâtiment soit immatriculé ou enregistré sous le régime de la partie 2 (immatriculation, enregistrement et inscription), soit dispensé, en vertu des règlements, de l’exigence relative à l’immatriculation prévue au paragraphe 46(1).
+***bâtiment canadien*** Bâtiment soit immatriculé ou enregistré sous le régime de la partie 2 (immatriculation, enregistrement et inscription), soit dispensé, en vertu des règlements, de l’exigence relative à l’immatriculation prévue au paragraphe 46(1). (*Canadian vessel*)
 
-***bâtiment d’État*** Bâtiment qui appartient à Sa Majesté du chef du Canada ou d’une province et est affecté à son service ou dont Sa Majesté de ce chef a la possession exclusive.
+***bâtiment d’État*** Bâtiment qui appartient à Sa Majesté du chef du Canada ou d’une province et est affecté à son service ou dont Sa Majesté de ce chef a la possession exclusive. (*government vessel*)
 
-***bâtiment étranger*** Bâtiment qui n’est ni un bâtiment canadien ni une embarcation de plaisance.
+***bâtiment étranger*** Bâtiment qui n’est ni un bâtiment canadien ni une embarcation de plaisance. (*foreign vessel*)
 
-***capitaine*** La personne ayant la direction et le commandement d’un bâtiment. Est exclu de la présente définition le pilote breveté, au sens de l’article 1.1 de la [Loi sur le pilotage](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-14.md), exerçant ses attributions au titre de cette loi.
+***capitaine*** La personne ayant la direction et le commandement d’un bâtiment. Est exclu de la présente définition le pilote breveté, au sens de l’article 1.1 de la [Loi sur le pilotage](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-14.md), exerçant ses attributions au titre de cette loi. (*master*)
 
-French version only***conseiller*** Membre du Tribunal.
+***conseiller*** Membre du Tribunal. (***French version only***)
 
-***document maritime canadien*** Tout document, notamment un permis, une licence, un brevet ou un certificat, délivré par le ministre des Transports sous le régime des parties 1 (dispositions générales), 3 (personnel), 4 (sécurité), 9 (prévention de la pollution — ministère des Transports) ou 11 (contrôle d’application — ministère des Transports) et établissant que son titulaire — personne ou bâtiment — satisfait aux exigences prévues par ces parties.
+***document maritime canadien*** Tout document, notamment un permis, une licence, un brevet ou un certificat, délivré par le ministre des Transports sous le régime des parties 1 (dispositions générales), 3 (personnel), 4 (sécurité), 9 (prévention de la pollution — ministère des Transports) ou 11 (contrôle d’application — ministère des Transports) et établissant que son titulaire — personne ou bâtiment — satisfait aux exigences prévues par ces parties. (*Canadian maritime document*)
 
-***embarcation de plaisance*** Tout bâtiment utilisé pour le plaisir et qui ne transporte pas de passagers ainsi que les bâtiments des catégories prévues par règlement.
+***embarcation de plaisance*** Tout bâtiment utilisé pour le plaisir et qui ne transporte pas de passagers ainsi que les bâtiments des catégories prévues par règlement. (*pleasure craft*)
 
-***gages*** Sont assimilés aux gages les émoluments.
+***gages*** Sont assimilés aux gages les émoluments. (*wages*)
 
-***installation de manutention d’hydrocarbures*** Installation, notamment un terminal pétrolier, où s’effectuent des opérations de chargement ou de déchargement sur un bâtiment de pétrole sous toutes ses formes, notamment le pétrole brut, le fioul, les boues, les résidus d’hydrocarbures et les produits raffinés.
+***installation de manutention d’hydrocarbures*** Installation, notamment un terminal pétrolier, où s’effectuent ou s’effectueront des opérations de chargement ou de déchargement de pétrole sous toutes ses formes — notamment le pétrole brut, le fioul, les boues, les résidus d’hydrocarbures et les produits raffinés — sur un bâtiment ou à partir de celui-ci. (*oil handling facility*)
 
-***jauge brute*** Le volume d’un bâtiment déterminé par un jaugeur ou calculé conformément aux règlements visés à l’alinéa 77h).
+***jauge brute*** Le volume d’un bâtiment déterminé par un jaugeur ou calculé conformément aux règlements visés à l’alinéa 77h). (*gross tonnage*)
 
-***passager*** Personne transportée sur un bâtiment par le propriétaire ou l’exploitant. Sont exclues de la présente définition :
+***passager*** Personne transportée sur un bâtiment par le propriétaire ou l’exploitant. Sont exclues de la présente définition :
 - **a)** la personne transportée sur un bâtiment assujetti à la Convention sur la sécurité et qui est :
 	- **(i)** soit le capitaine ou un membre de l’équipage, ou une personne employée ou occupée à bord, en quelque qualité que ce soit, pour les besoins du bâtiment,
 	- **(ii)** soit âgée de moins d’un an;
@@ -73,21 +73,21 @@ French version only***conseiller*** Membre du Tribunal.
 	- **(i)** soit le capitaine ou un membre de l’équipage, ou une personne employée ou occupée à bord, en quelque qualité que ce soit, pour les besoins du bâtiment,
 	- **(ii)** soit un invité transporté gratuitement ou sans but lucratif sur un bâtiment utilisé exclusivement pour le plaisir;
 - **c)** la personne transportée sur un bâtiment soit en exécution de l’obligation qui incombe au capitaine de transporter des naufragés, des personnes en détresse ou d’autres personnes, soit par suite de circonstances que ni le capitaine ni le propriétaire ne pouvaient empêcher;
-- **d)** la personne faisant partie d’une catégorie réglementaire.
+- **d)** la personne faisant partie d’une catégorie réglementaire. (*passenger*)
 
 ***personne qualifiée***
 - **a)** Soit un citoyen canadien ou un résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md);
-- **b)** soit une personne morale constituée en société en vertu des lois du Canada ou d’une province.
+- **b)** soit une personne morale constituée en société en vertu des lois du Canada ou d’une province. (*qualified person*)
 
-***Registre*** Le Registre canadien d’immatriculation des bâtiments établi en application de l’article 43.
+***Registre*** Le Registre canadien d’immatriculation des bâtiments établi en application de l’article 43. (*Register*)
 
 ***représentant autorisé*** :
 - **a)** À l’égard d’un bâtiment canadien, la personne visée au paragraphe 14(1);
 - **b)** à l’égard d’une flotte immatriculée sous le régime de la partie 2, la personne visée au paragraphe 75.03(5);
-- **c)** à l’égard d’un bâtiment étranger, le capitaine.
+- **c)** à l’égard d’un bâtiment étranger, le capitaine. (*authorized representative*)
 
-***Tribunal*** Le Tribunal d’appel des transports du Canada constitué par le paragraphe 2(1) de la [Loi sur le Tribunal d’appel des transports du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2029.md).
-> 2001, ch. 26, art. 2 et 323, ch. 29, art. 72; 2011, ch. 15, art. 37.
+***Tribunal*** Le Tribunal d’appel des transports du Canada constitué par le paragraphe 2(1) de la [Loi sur le Tribunal d’appel des transports du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2029.md). (*Tribunal*)
+> 2001, ch. 26, art. 2 et 323, ch. 29, art. 72; 2011, ch. 15, art. 37; 2014, ch. 29, art. 58.
 
 
 
@@ -234,6 +234,7 @@ French version only***conseiller*** Membre du Tribunal.
 	- **a)** inspection de la coque;
 	- **b)** inspection des machines;
 	- **c)** inspection de l’équipement;
+	- **c.1)** inspection relative à la prévention de la pollution au titre de la partie 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans);
 	- **d)** inspection relative à la protection du milieu marin au titre de la partie 9 (prévention de la pollution — ministère des Transports);
 	- **e)** inspection de la cargaison.
 
@@ -248,6 +249,8 @@ French version only***conseiller*** Membre du Tribunal.
 **Immunité**
 
 - **(5)** Les inspecteurs sont dégagés de toute responsabilité personnelle en ce qui concerne les faits — actes ou omissions — accomplis de bonne foi en application de la présente loi.
+> 2001, ch. 26, art. 11; 2014, ch. 29, art. 59.
+
 
 
 
@@ -3450,6 +3453,35 @@ French version only***conseiller*** Membre du Tribunal.
 
 
 
+**Mise à jour ou révision des plans**
+
+**168.1** Malgré toute autre disposition de la présente partie ou les règlements, le ministre peut ordonner à l’exploitant d’une installation de manutention d’hydrocarbures de mettre à jour ou de réviser le plan de prévention de la pollution par les hydrocarbures ou le plan d’urgence contre la pollution par les hydrocarbures et de lui présenter le plan à jour ou révisé dans le délai qu’il précise.
+> 2014, ch. 29, art. 63.
+
+
+
+
+
+**Fourniture de renseignements**
+
+**168.2** L’inspecteur de la sécurité maritime peut ordonner à quiconque de lui fournir les renseignements qu’il peut valablement exiger dans le cadre de l’application de la présente partie.
+> 2014, ch. 29, art. 63.
+
+
+
+
+
+**Mesures du ministre**
+
+**168.3** Le ministre peut, s’il a des motifs raisonnables de croire que l’installation de manutention d’hydrocarbures a rejeté, rejette ou risque de rejeter des hydrocarbures, que le plan de prévention de la pollution par les hydrocarbures ou le plan d’urgence contre la pollution par les hydrocarbures de l’installation ne satisfait pas aux exigences prévues par règlement ou que l’exploitant de l’installation n’a pas à sa disposition, pour usage immédiat en cas de rejet d’hydrocarbures pendant le chargement ou le déchargement d’un bâtiment, la procédure, l’équipement et les ressources prévus par règlement :
+- **a)** surveiller l’application de toute mesure prise par toute personne en vue de prévenir, contrer, réparer ou réduire au minimum les dommages dus à la pollution;
+- **b)** dans le cas où il l’estime nécessaire, ordonner à l’exploitant de prendre les mesures qu’il estime nécessaires pour prévenir, contrer, réparer ou réduire au minimum les dommages dus à la pollution, notamment de cesser le chargement ou le déchargement d’hydrocarbures sur un bâtiment ou à partir de celui-ci.
+> 2014, ch. 29, art. 63.
+
+
+
+
+
 ### Organismes d’intervention
 
 
@@ -3531,6 +3563,15 @@ French version only***conseiller*** Membre du Tribunal.
 
 
 
+**Fourniture de documents**
+
+**171.1** L’inspecteur de la sécurité maritime peut ordonner à l’organisme d’intervention de lui fournir tout document que celui-ci est tenu d’avoir aux termes de la présente partie.
+> 2014, ch. 29, art. 64.
+
+
+
+
+
 ### Conseils consultatifs
 
 
@@ -3579,25 +3620,10 @@ French version only***conseiller*** Membre du Tribunal.
 
 
 
-### Agents chargés de la prévention de la pollution et agents d’intervention environnementale
+### Agents d’intervention environnementale
 
 
-
-**Désignation des agents chargés de la prévention de la pollution**
-
-**174** 
-
-- **(1)** Le ministre peut désigner toute personne — individuellement ou au titre de son appartenance à une catégorie déterminée — à titre d’agent chargé de la prévention de la pollution relativement aux installations de manutention d’hydrocarbures et aux organismes d’intervention; il peut restreindre, de la façon qu’il estime indiquée, les pouvoirs qu’un tel agent est autorisé à exercer sous le régime de la présente partie.
-
-**Certificat de désignation**
-
-- **(2)** Le ministre remet à chaque agent chargé de la prévention de la pollution un certificat attestant sa qualité; l’agent dont les pouvoirs sont restreints au titre du paragraphe (1) reçoit un certificat où sont énumérés ceux qu’il est autorisé à exercer.
-
-**Immunité**
-
-- **(3)** Les agents chargés de la prévention de la pollution sont dégagés de toute responsabilité personnelle en ce qui concerne les faits — actes ou omissions — accomplis de bonne foi aux termes de la présente partie.
-> 2001, ch. 26, art. 174; 2005, ch. 29, art. 23.
-
+**174** [Abrogé, 2014, ch. 29, art. 65]
 
 
 
@@ -3620,16 +3646,7 @@ French version only***conseiller*** Membre du Tribunal.
 
 
 
-
-**Pouvoirs de l’agent chargé de la prévention de la pollution**
-
-**175** L’agent chargé de la prévention de la pollution peut :
-- **a)** ordonner à l’exploitant d’une installation de manutention d’hydrocarbures de lui présenter tout document que celui-ci est tenu d’avoir sur les lieux aux termes de la présente partie;
-- **b)** ordonner à l’organisme d’intervention de lui présenter tout document que celui-ci est tenu d’avoir aux termes de la présente partie;
-- **c)** inspecter toute installation de manutention d’hydrocarbures en vue de déterminer si l’équipement et les ressources de celle-ci respectent les exigences de la présente partie;
-- **d)** inspecter les installations de tout organisme d’intervention en vue de déterminer si l’équipement et les ressources respectent les exigences de la présente partie.
-> 2001, ch. 26, art. 175; 2005, ch. 29, art. 23.
-
+**175** [Abrogé, 2014, ch. 29, art. 66]
 
 
 
@@ -3684,11 +3701,11 @@ French version only***conseiller*** Membre du Tribunal.
 
 
 
-**Pouvoirs des agents**
+**Pouvoirs de l’agent d’intervention environnementale**
 
 **176** 
 
-- **(1)** Dans le cadre de l’exercice des attributions qui leur sont respectivement confiées sous le régime de la présente partie, l’agent chargé de la prévention de la pollution et l’agent d’intervention environnementale peuvent :
+- **(1)** Dans le cadre de l’exercice des attributions qui lui sont confiées sous le régime de la présente partie, l’agent d’intervention environnementale peut :
 	- **a)** procéder, à toute heure convenable, à la visite de tous lieux — y compris un bâtiment;
 	- **b)** ordonner à quiconque de lui prêter toute l’assistance possible, de mettre des machines en marche ou de les arrêter ou de faire fonctionner ou de cesser de faire fonctionner l’équipement;
 	- **c)** ordonner à quiconque de lui fournir les renseignements qu’il peut valablement exiger dans le cadre de l’application de la présente partie;
@@ -3705,7 +3722,7 @@ French version only***conseiller*** Membre du Tribunal.
 
 **Mandat — local d’habitation**
 
-- **(3)** Sur demande *ex parte*, le juge de paix, au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), peut signer un mandat autorisant, sous réserve des conditions éventuellement fixées, l’agent à procéder à la visite d’un local d’habitation s’il est convaincu, sur la foi d’une dénonciation sous serment, que sont réunis les éléments suivants :
+- **(3)** Sur demande *ex parte*, le juge de paix peut signer un mandat autorisant, sous réserve des conditions éventuellement fixées, l’agent à procéder à la visite d’un local d’habitation s’il est convaincu, sur la foi d’une dénonciation sous serment, que sont réunis les éléments suivants :
 	- **a)** la visite est nécessaire pour l’exercice des attributions conférées à l’agent sous le régime de la présente partie;
 	- **b)** un refus a été opposé à la visite ou il y a des motifs raisonnables de croire que tel sera le cas.
 
@@ -3716,7 +3733,7 @@ French version only***conseiller*** Membre du Tribunal.
 **Restitution des documents et autres objets**
 
 - **(5)** Les documents ou autres objets obtenus ou emportés en vertu de l’alinéa (1) h) sont restitués dès qu’ils ne sont plus nécessaires pour l’inspection ou pour les procédures qui en découlent.
-> 2001, ch. 26, art. 176; 2005, ch. 29, art. 24.
+> 2001, ch. 26, art. 176; 2005, ch. 29, art. 24; 2014, ch. 29, art. 67.
 
 
 
@@ -3833,7 +3850,7 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 
 **Immunité**
 
-- **(2)** Les personnes désignées par écrit par le ministre à titre d’intervenants agréés et les organismes d’intervention n’encourent aucune responsabilité personnelle, ni civile ni pénale, pour tout acte ou omission accompli dans le cadre d’une intervention, sauf s’il est établi que l’acte ou l’omission a été accompli dans le but de causer des pertes ou des dommages ou de façon négligente en sachant qu’il en résulterait probablement des pertes ou des dommages.
+- **(2)** Les organismes d’intervention ou leurs mandataires et les personnes désignées par écrit par le ministre à titre d’intervenants agréés n’encourent aucune responsabilité personnelle, ni civile ni pénale, pour tout acte ou omission accompli dans le cadre d’une intervention, sauf s’il est établi que l’acte ou l’omission a été accompli dans le but de causer des pertes ou des dommages ou de façon négligente en sachant qu’il en résulterait probablement des pertes ou des dommages.
 
 **Exception**
 
@@ -3841,7 +3858,9 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 
 **Définition de intervention**
 
-- **(4)** Au présent article, ***intervention*** s’entend de toutes les activités entreprises à la suite d’un rejet ou d’une menace grave et imminente de rejet d’un bâtiment, notamment les activités relatives ou afférentes à la surveillance et à l’évaluation des secteurs de pollution, à la mobilisation et à l’enlèvement d’équipement et de ressources d’intervention, aux barrières de confinement, au confinement, à la récupération, à la dispersion ou à la destruction du polluant, aux mesures d’atténuation et de remise en état du littoral, au transport et à l’élimination du polluant récupéré ou des déchets et à la planification et à la supervision des activités liées à l’intervention.
+- **(4)** Au présent article, ***intervention*** s’entend de toutes les activités entreprises à la suite d’un rejet ou d’une menace grave et imminente de rejet d’un bâtiment ou d’une installation de manutention d’hydrocarbures, notamment les activités relatives ou afférentes à la surveillance et à l’évaluation des secteurs de pollution, à la mobilisation et à l’enlèvement d’équipement et de ressources d’intervention, aux barrières de confinement, au confinement, à la récupération, à la dispersion ou à la destruction du polluant, aux mesures d’atténuation et de remise en état du littoral, au transport et à l’élimination du polluant récupéré ou des déchets et à la planification et à la supervision des activités liées à l’intervention.
+> 2001, ch. 26, art. 181; 2014, ch. 29, art. 68.
+
 
 
 
@@ -3876,6 +3895,8 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 	- **c)** à l’alinéa 168(1)e) (obligation d’avoir à sa disposition la procédure, l’équipement et les ressources);
 	- **d)** à l’alinéa 168(3)a) (prise de mesures raisonnables pour mettre à exécution le plan de prévention);
 	- **e)** à l’alinéa 168(3)b) (prise de mesures raisonnables pour mettre à exécution le plan d’urgence);
+	- **e.1)** à un ordre donné en vertu de l’article 168.1 (mise à jour ou révision des plans);
+	- **e.2)** à un ordre donné en vertu de l’alinéa 168.3b) (prise de mesures);
 	- **f)** à l’alinéa 171b) (obligation d’avoir l’équipement et les ressources prévus par les règlements à l’endroit précisé);
 	- **g)** à l’alinéa 171e) (mise à exécution du plan d’intervention);
 	- **h)** à un ordre donné en vertu de l’un des alinéas 175.1(2)a), c) et d) (ordre en cas de rejet ou de risque de rejet de polluants);
@@ -3886,8 +3907,8 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 
 **Peines**
 
-- **(2)** L’auteur d’une infraction visée au paragraphe (1) encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 1 000 000 $ et un emprisonnement maximal de dix-huit mois, ou l’une de ces peines.
-> 2001, ch. 26, art. 183; 2005, ch. 29, art. 28.
+- **(2)** L’auteur d’une infraction visée au paragraphe (1) encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 1 000 000 $ et un emprisonnement maximal de dix-huit mois, ou l’une de ces peines.
+> 2001, ch. 26, art. 183; 2005, ch. 29, art. 28; 2014, ch. 29, art. 70.
 
 
 
@@ -3897,26 +3918,30 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 
 **184** 
 
-- **(1)** Commet une infraction la personne ou le bâtiment qui contrevient à :
-	- **a)** l’alinéa 167(1)b) (obligation d’avoir à bord une déclaration);
-	- **b)** l’alinéa 168(1)b) (obligation d’avoir sur les lieux une déclaration);
-	- **c)** l’alinéa 168(1)c) (obligation d’avoir sur les lieux un plan de prévention);
-	- **d)** l’alinéa 168(1)d) (obligation d’avoir sur les lieux un plan d’urgence);
+- **(1)** Commet une infraction la personne ou le bâtiment qui contrevient :
+	- **a)** à l’alinéa 167(1)b) (obligation d’avoir à bord une déclaration);
+	- **b)** à l’alinéa 168(1)b) (obligation d’avoir sur les lieux une déclaration);
+	- **c)** à l’alinéa 168(1)c) (obligation d’avoir sur les lieux un plan de prévention);
+	- **d)** à l’alinéa 168(1)d) (obligation d’avoir sur les lieux un plan d’urgence);
+	- **d.1)** à un ordre donné en vertu de l’article 168.2 (fourniture de renseignements);
 	- **e)** à l’alinéa 171a) (établissement d’un plan d’intervention);
 	- **f)** à l’alinéa 171c) (obligation de fournir ou d’assurer la formation réglementaire);
 	- **g)** à l’alinéa 171d) (obligation d’entreprendre les activités réglementaires ou d’y participer);
-	- **h)** l’alinéa 171f) (obligation de fournir des renseignements);
-	- **i)** à un ordre donné en vertu de l’alinéa 175(1)a) (ordre de fournir des renseignements);
-	- **j)** à un ordre donné en vertu de l’alinéa 175(1)b) (ordre de traverser les eaux par la route spécifiée);
-	- **k)** à un ordre donné en vertu de l’alinéa 175(1)c) (ordre de fournir des renseignements sur le plan d’urgence);
-	- **l)** un ordre donné en vertu des alinéas 175(1)d) ou e) (ordre de présenter des documents);
-	- **m)** un ordre donné en vertu de l’alinéa 176(1)b) (ordre de prêter assistance);
-	- **n)** un ordre donné en vertu des alinéas 176(1)c) ou d) (ordre de fournir des renseignements ou de remettre des documents);
-	- **o)** toute disposition d’un règlement d’application de la présente partie.
+	- **h)** à l’alinéa 171f) (obligation de fournir des renseignements);
+	- **h.1)** à un ordre donné en vertu de l’article 171.1 (fourniture de documents);
+	- **i)** à un ordre donné en vertu de l’alinéa 175.1(1)a) (ordre de fournir des renseignements);
+	- **j)** à un ordre donné en vertu de l’alinéa 175.1(1)b) (ordre de traverser les eaux par la route spécifiée);
+	- **k)** à un ordre donné en vertu de l’alinéa 175.1(1)c) (ordre de fournir des renseignements sur le plan d’urgence);
+	- **l)** à un ordre donné en vertu des alinéas 175.1(1)d) ou e) (ordre de présenter des documents);
+	- **m)** à un ordre donné en vertu de l’alinéa 176(1)b) (ordre de prêter assistance);
+	- **n)** à un ordre donné en vertu des alinéas 176(1)c) ou d) (ordre de fournir des renseignements ou de remettre des documents);
+	- **o)** à toute disposition d’un règlement d’application de la présente partie.
 
 **Peines**
 
 - **(2)** L’auteur d’une infraction visée au paragraphe (1) encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 100 000 $ et un emprisonnement maximal d’un an, ou l’une de ces peines.
+> 2001, ch. 26, art. 184; 2014, ch. 29, art. 71.
+
 
 
 
@@ -4395,12 +4420,12 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 
 **210** Les définitions qui suivent s’appliquent à la présente partie.
 
-***disposition visée*** Toute disposition de la présente loi ou des règlements dont le ministre est chargé de l’application, à l’exception :
-- **a)** du paragraphe 40(1) à l’égard de toute disposition d’un règlement pris en vertu de l’alinéa 35(1)e) relativement à l’une des parties 7 (épaves), 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans) et 10 (embarcations de plaisance);
-- **b)** des dispositions des parties 5 (services de navigation), 7 (épaves), 8 (pollution : prévention et intervention — ministère des Transports et ministère des Pêches et des Océans) et 10 (embarcations de plaisance) et de celles des règlements pris en vertu de ces parties, sauf les dispositions des règlements pris sous le régime de l’alinéa 136(1)f) dans la mesure où elles s’appliquent aux bâtiments canadiens ou aux bâtiments étrangers.
+***disposition visée*** Toute disposition de la présente loi ou des règlements dont le ministre est chargé de l’application, à l’exception :
+- **a)** du paragraphe 40(1), à l’égard de toute disposition d’un règlement pris en vertu de l’alinéa 35(1)e) relativement à l’une des parties 7 (épaves) et 10 (embarcations de plaisance);
+- **b)** des dispositions des parties 5 (services de navigation), 7 (épaves) et 10 (embarcations de plaisance) et de celles des règlements pris en vertu de ces parties, sauf les dispositions des règlements pris sous le régime de l’alinéa 136(1)f) dans la mesure où elles s’appliquent aux bâtiments canadiens ou aux bâtiments étrangers. (*relevant provision*)
 
-***ministre*** Le ministre des Transports.
-> 2001, ch. 26, art. 210; 2005, ch. 29, art. 32.
+***ministre*** Le ministre des Transports. (*Minister*)
+> 2001, ch. 26, art. 210; 2005, ch. 29, art. 32; 2014, ch. 29, art. 72.
 
 
 
@@ -4418,7 +4443,17 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 
 **Local d’habitation**
 
-- **(2)** Un local d’habitation ne peut être visité en vertu du paragraphe (1) sans le consentement de l’occupant que pour contrôler la conformité du bâtiment avec une disposition visée.
+- **(2)** Un local d’habitation ne peut être visité en vertu du paragraphe (1) qu’avec le consentement de l’occupant, que pour contrôler la conformité d’un bâtiment avec une disposition visée ou qu’en conformité avec un mandat délivré en vertu du paragraphe (2.1).
+
+**Mandat — local d’habitation**
+
+- **(2.1)** Sur demande *ex parte*, le juge de paix peut délivrer un mandat autorisant, sous réserve des conditions éventuellement fixées, l’inspecteur de la sécurité maritime à procéder à la visite d’un local d’habitation s’il est convaincu, sur la foi d’une dénonciation sous serment, que sont réunis les éléments suivants :
+	- **a)** la visite est nécessaire dans le cadre de l’application des dispositions visées de la partie 8;
+	- **b)** un refus a été opposé à la visite ou il y a des motifs raisonnables de croire que tel sera le cas.
+
+**Usage de la force**
+
+- **(2.2)** L’inspecteur de la sécurité maritime ne peut recourir à la force dans l’exécution du mandat que si celui-ci en autorise expressément l’usage et que si lui-même est accompagné d’un agent de la paix.
 
 **Arraisonnement**
 
@@ -4427,11 +4462,12 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 **Inspections**
 
 - **(4)** Dans le cadre de son inspection, l’inspecteur ou, sous réserve des restrictions mentionnées dans le certificat d’autorisation prévu au paragraphe 12(2), la personne, la société ou l’autre organisation peut :
-	- **a)** ordonner à quiconque de lui donner les renseignements qu’il peut valablement exiger, de lui prêter toute l’assistance possible, de mettre les machines du bâtiment en marche ou de faire fonctionner l’équipement de celui-ci ou d’arrêter les machines ou de cesser de faire fonctionner l’équipement;
+	- **a)** ordonner à quiconque de lui donner les renseignements qu’il peut valablement exiger, de lui prêter toute l’assistance possible, de mettre des machines en marche ou de faire fonctionner de l’équipement ou d’arrêter les machines ou de cesser de faire fonctionner l’équipement;
 	- **b)** ordonner au capitaine qu’il interdise ou limite l’accès à certaines parties du bâtiment pendant la période précisée;
 	- **c)** ordonner au capitaine de ne pas déplacer le bâtiment jusqu’à ce que l’inspection soit terminée;
 	- **d)** ordonner au capitaine de rassembler l’équipage ou de mettre en oeuvre les procédures en matière d’urgence et de sécurité requises par les règlements;
-	- **e)** ordonner à quiconque se trouvant sur les lieux de son intervention de lui remettre pour qu’il les vérifie ou en fasse des copies ou des extraits tout document qu’il est tenu d’avoir en sa possession aux termes d’une disposition visée;
+	- **d.1)** ordonner à toute personne qui se propose d’exploiter une installation de manutention d’hydrocarbures ou à l’exploitant d’une telle installation de mettre en oeuvre les procédures en matière d’urgence et de sécurité prévues par règlement ou énoncées dans le plan de prévention de la pollution par les hydrocarbures ou le plan d’urgence contre la pollution par les hydrocarbures visés à la partie 8;
+	- **e)** ordonner à quiconque se trouvant sur les lieux de son intervention de lui remettre pour qu’il les vérifie ou en fasse des copies ou des extraits tout document qu’il est tenu d’avoir en sa possession ou tout document que l’exploitant d’une installation de manutention d’hydrocarbures doit avoir sur les lieux aux termes d’une disposition visée;
 	- **f)** prendre des photographies, effectuer des enregistrements vidéo et faire des croquis;
 	- **g)** procéder, à des fins d’analyse, à des prélèvements de matériaux ou substances ou de tout agent biologique, chimique ou physique;
 	- **h)** utiliser ou faire utiliser tout ordinateur ou système informatique se trouvant sur place pour prendre connaissance des données qu’il contient ou auxquelles il donne accès;
@@ -4446,6 +4482,8 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 **Restitution des documents et autres objets**
 
 - **(6)** Les documents et autres objets emportés en application de l’alinéa (4)j) sont restitués dans les meilleurs délais après qu’ils ne sont plus nécessaires aux fins prévues à cet alinéa.
+> 2001, ch. 26, art. 211; 2014, ch. 29, art. 73.
+
 
 
 
@@ -4770,7 +4808,9 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 
 **Définition de violation**
 
-**228** Aux articles 229 à 244, ***violation*** s’entend de toute contravention à une disposition visée qualifiée de violation en vertu des règlements pris en vertu de la présente partie.
+**228** Aux articles 229 à 244, ***violation*** s’entend de toute contravention à une disposition visée qualifiée de violation en vertu des règlements pris en vertu de la présente partie, ou à un ordre ou à une directive donné en vertu d’une telle disposition.
+> 2001, ch. 26, art. 228; 2014, ch. 29, art. 74.
+
 
 
 
@@ -5119,13 +5159,13 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 - **c)** régir la détention des bâtiments, y compris l’examen des ordonnances de détention;
 - **d)** indiquer dans quelles circonstances un bâtiment est réputé abandonné;
 - **e)** régir la vente des bâtiments en vertu de l’article 226, y compris les mesures à prendre préalablement à celle-ci et la présentation, l’établissement et l’ordre de priorité des réclamations à l’égard des bâtiments;
-- **f)** désigner comme violation punissable au titre des articles 229 à 242 la contravention — si elle constitue une infraction à la présente loi — à une disposition visée;
+- **f)** désigner comme violation punissable au titre des articles 229 à 242 la contravention — si elle constitue une infraction à la présente loi — à une disposition visée ou à un ordre ou à une directive donné en vertu d’une telle disposition;
 - **g)** désigner les violations pour lesquelles il est compté des violations distinctes pour chacun des jours au cours desquels elles se continuent;
 - **h)** désigner les violations qui peuvent faire l’objet d’un procès-verbal et fixer le montant — notamment par barème — de la sanction applicable à chacune de ces violations, qui ne peut dépasser 25 000 $ ni le montant de l’amende maximale dont la violation aurait été passible si elle avait été poursuivie par procédure sommaire;
-- **i)** [Abrogé, 2001, ch. 29, art. 72]
+- **i)** régir les procédures en matière d’urgence et de sécurité pour l’application de l’alinéa 211(4)d.1);
 - **j)** régir, notamment par l’établissement de présomptions et de règles de preuve, la signification ou notification des documents autorisés ou exigés par la présente partie;
 - **k)** prendre toute mesure d’ordre réglementaire prévue par la présente partie.
-> 2001, ch. 26, art. 244, ch. 29, art. 72.
+> 2001, ch. 26, art. 244, ch. 29, art. 72; 2014, ch. 29, art. 75.
 
 
 
@@ -5268,12 +5308,12 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 
 **252** 
 
-- **(1)** Dans les poursuites contre un bâtiment pour une infraction à la présente loi, il suffit pour établir l’infraction de prouver que l’acte ou l’omission qui la constitue est le fait du capitaine ou d’une autre personne à bord — à l’exception de l’agent chargé de la prévention de la pollution, de l’agent d’intervention environnementale et de toute personne effectuant une inspection en application de la présente loi —, que cette personne soit identifiée ou non.
+- **(1)** Dans les poursuites contre un bâtiment pour une infraction à la présente loi, il suffit pour établir l’infraction de prouver que l’acte ou l’omission qui la constitue est le fait du capitaine ou d’une autre personne à bord — à l’exception de l’agent d’intervention environnementale et de toute personne effectuant une inspection en application de la présente loi —, que cette personne soit identifiée ou non.
 
 **Preuve des ordres**
 
 - **(2)** Dans le cas de poursuites pour omission de se conformer à un ordre donné en vertu de la présente loi, est présumé avoir été donné au bâtiment l’ordre donné au capitaine, à un membre de l’équipage ou à toute personne qui a ou semble avoir la responsabilité du bâtiment.
-> 2001, ch. 26, art. 252; 2005, ch. 29, art. 33.
+> 2001, ch. 26, art. 252; 2005, ch. 29, art. 33; 2014, ch. 29, art. 76.
 
 
 
@@ -5509,7 +5549,9 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 
 **Responsabilité civile**
 
-**268.1** Malgré l’article 10 de la [Loi sur la responsabilité civile de l’État et le contentieux administratif](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-50.md), les paragraphes 11(5) et 12(5), l’article 45 et les paragraphes 154(3), 174(3) et 195(3) ne dégagent pas l’État de la responsabilité civile — délictuelle ou extracontractuelle — qu’il serait autrement tenu d’assumer.
+**268.1** Malgré l’article 10 de la [Loi sur la responsabilité civile de l’État et le contentieux administratif](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-50.md), les paragraphes 11(5) et 12(5), l’article 45 et les paragraphes 154(3) et 195(3) ne dégagent pas l’État de la responsabilité civile — délictuelle ou extracontractuelle — qu’il serait autrement tenu d’assumer.
+> 2001, ch. 26, art. 268.1; 2014, ch. 29, art. 77.
+
 
 
 
