@@ -2032,7 +2032,7 @@ où :
 
 
 
-**332** [Modification]
+**332** [Abrogé avant d’entrer en vigueur, 2014, ch. 20, art. 367]
 
 
 
@@ -2156,7 +2156,7 @@ où :
 
 
 
-**363** [Modifications]
+**363** [Abrogé avant d’entrer en vigueur, 2014, ch. 20, art. 367]
 
 
 
@@ -2199,9 +2199,19 @@ où :
 
 **Décret**
 
-***368** La présente section, à l’exception de l’article 367, entre en vigueur à la date fixée par décret.
+**368** 
 
-<a name='fn_IndB1EC_hq_14277'><sup>*</sup></a>: [Note : Section 25, à l’exception de l’article 367, non en vigueur.]<br />
+- <sup><a href='#nbp_IndE222_hq_14510'>[*]</a></sup>**(1)** La présente section, à l’exception des articles 358.1, 358.2 et 367, entre en vigueur à la date fixée par décret.
+
+<a name='nbp_IndE222_hq_14510'><sup>*</sup></a>: [Note : Section 25, à l’exception des articles 358.1, 358.2 et 367, non en vigueur.]<br />
+
+**Décret**
+
+- <sup><a href='#nbp_IndE222_hq_14511'>[*]</a></sup>**(2)** Les articles 358.1 et 358.2 entrent en vigueur à la date ou aux dates fixées par décret.
+
+<a name='nbp_IndE222_hq_14511'><sup>*</sup></a>: [Note : Articles 358.1 et 358.2 non en vigueur.]<br />
+> 2014, ch. 20, art. 367 et 368.
+
 
 
 
