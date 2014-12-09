@@ -820,21 +820,25 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente section.
 
-***Convention sur la responsabilité civile*** La Convention internationale de 1992 sur la responsabilité civile pour les dommages dus à la pollution par les hydrocarbures, conclue à Londres le 27 novembre 1992, dont l’article V a été modifié par la résolution adoptée par le Comité juridique de l’Organisation maritime internationale le 18 octobre 2000.
+***Convention sur la responsabilité civile*** La Convention internationale de 1992 sur la responsabilité civile pour les dommages dus à la pollution par les hydrocarbures, conclue à Londres le 27 novembre 1992, dont l’article V a été modifié par la résolution adoptée par le Comité juridique de l’Organisation maritime internationale le 18 octobre 2000. (*Civil Liability Convention*)
 
-***Convention sur le Fonds international*** La Convention internationale de 1992 portant création d’un Fonds international d’indemnisation pour les dommages dus à la pollution par les hydrocarbures, conclue à Londres le 27 novembre 1992, dont l’article 4 a été modifié par la résolution adoptée par le Comité juridique de l’Organisation maritime internationale le 18 octobre 2000.
+***Convention sur le Fonds international*** La Convention internationale de 1992 portant création d’un Fonds international d’indemnisation pour les dommages dus à la pollution par les hydrocarbures, conclue à Londres le 27 novembre 1992, dont l’article 4 a été modifié par la résolution adoptée par le Comité juridique de l’Organisation maritime internationale le 18 octobre 2000. (*Fund Convention*)
 
-***Convention sur les hydrocarbures de soute*** La Convention internationale de 2001 sur la responsabilité civile pour les dommages dus à la pollution par les hydrocarbures de soute, conclue à Londres le 23 mars 2001.
+***Convention sur les hydrocarbures de soute*** La Convention internationale de 2001 sur la responsabilité civile pour les dommages dus à la pollution par les hydrocarbures de soute, conclue à Londres le 23 mars 2001. (*Bunkers Convention*)
 
-***en vrac*** Dans une cale ou une citerne faisant partie de la structure du navire, sans contenant intermédiaire.
+***Convention sur les substances nocives et potentiellement dangereuses*** La Convention internationale de 2010 sur la responsabilité et l’indemnisation pour les dommages liés au transport par mer de substances nocives et potentiellement dangereuses, conclue à Londres le 30 avril 2010. (*Hazardous and Noxious Substances Convention*)
 
-***Fonds complémentaire*** Le Fonds complémentaire international d’indemnisation de 2003 pour les dommages dus à la pollution par les hydrocarbures constitué par l’article 2 du Protocole portant création d’un Fonds complémentaire.
+***en vrac*** Dans une cale ou une citerne faisant partie de la structure du navire, sans contenant intermédiaire. (*in bulk*)
 
-***Fonds international*** Le Fonds international d’indemnisation de 1992 pour les dommages dus à la pollution par les hydrocarbures constitué par l’article 2 de la Convention sur le Fonds international.
+***Fonds complémentaire*** Le Fonds complémentaire international d’indemnisation de 2003 pour les dommages dus à la pollution par les hydrocarbures constitué par l’article 2 du Protocole portant création d’un Fonds complémentaire. (*Supplementary Fund*)
 
-***Protocole portant création d’un Fonds complémentaire*** Le Protocole de 2003 à la Convention internationale de 1992 portant création d’un Fonds international d’indemnisation pour les dommages dus à la pollution par les hydrocarbures, conclu à Londres le 16 mai 2003.
+***Fonds international*** Le Fonds international d’indemnisation de 1992 pour les dommages dus à la pollution par les hydrocarbures constitué par l’article 2 de la Convention sur le Fonds international. (*International Fund*)
 
-***rejet*** S’agissant d’un hydrocarbure ou d’un hydrocarbure de soute, rejet d’un hydrocarbure ou d’un hydrocarbure de soute qui, directement ou indirectement, atteint l’eau, notamment par déversement, fuite, déchargement ou chargement par pompage, rejet liquide, émanation, vidange, rejet solide et immersion.
+***Fonds SNPD*** Le Fonds international pour les substances nocives et potentiellement dangereuses constitué par l’article 13 de la Convention sur les substances nocives et potentiellement dangereuses. (*HNS Fund*)
+
+***Protocole portant création d’un Fonds complémentaire*** Le Protocole de 2003 à la Convention internationale de 1992 portant création d’un Fonds international d’indemnisation pour les dommages dus à la pollution par les hydrocarbures, conclu à Londres le 16 mai 2003. (*Supplementary Fund Protocol*)
+
+***rejet*** S’agissant d’un hydrocarbure ou d’un hydrocarbure de soute, rejet d’un hydrocarbure ou d’un hydrocarbure de soute qui, directement ou indirectement, atteint l’eau, notamment par déversement, fuite, déchargement ou chargement par pompage, rejet liquide, émanation, vidange, rejet solide et immersion. (*discharge*)
 
 **Termes**
 
@@ -842,12 +846,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** article premier de la Convention sur la responsabilité civile;
 	- **b)** article premier de la Convention sur le Fonds international;
 	- **c)** article premier du Protocole portant création d’un Fonds complémentaire;
-	- **d)** article 1 de la Convention sur les hydrocarbures de soute.
+	- **d)** article 1 de la Convention sur les hydrocarbures de soute;
+	- **e)** article premier de la Convention sur les substances nocives et potentiellement dangereuses.
 
 **Incompatibilité**
 
-- **(3)** Le présent article et les articles 48 à 74 et 79 à 90 l’emportent sur les dispositions incompatibles de la Convention sur la responsabilité civile, de la Convention sur le Fonds international, du Protocole portant création d’un Fonds complémentaire et de la Convention sur les hydrocarbures de soute.
-> 2001, ch. 6, art. 47; 2009, ch. 21, art. 11.
+- **(3)** Le présent article et les articles 48 à 74.4 et 79 à 90 l’emportent sur les dispositions incompatibles de la Convention sur la responsabilité civile, de la Convention sur le Fonds international, du Protocole portant création d’un Fonds complémentaire, de la Convention sur les hydrocarbures de soute et de la Convention sur les substances nocives et potentiellement dangereuses.
+> 2001, ch. 6, art. 47; 2009, ch. 21, art. 11; 2014, ch. 29, art. 29.
 
 
 
@@ -951,12 +956,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Preuve de publication**
 
-- **(2)** Dans les trente jours suivant la constitution du fonds de limitation, il dépose à la Cour d’amirauté les avis publiés.
+- **(2)** Dans les trente jours suivant la constitution du fonds de limitation, elle dépose à la Cour d’amirauté les avis publiés.
 
 **Ordonnance en cas de défaut**
 
 - **(3)** Si la personne manque à son obligation de donner les avis ou si ceux-ci sont insuffisants, la Cour d’amirauté peut rendre toute ordonnance qu’elle juge indiquée afin d’y remédier.
-> 2001, ch. 6, art. 54; DORS/2003-353; 2009, ch. 21, art. 11.
+> 2001, ch. 6, art. 54; DORS/2003-353; 2009, ch. 21, art. 11; 2014, ch. 29, art. 30(F).
 
 
 
@@ -1227,6 +1232,73 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(5)** Il peut révoquer le certificat qu’il a délivré s’il est d’avis que le garant ne peut plus faire face à ses obligations aux termes du contrat d’assurance ou autre garantie visés au paragraphe 73(1) ou que le contrat d’assurance ou l’autre garantie ne couvrent plus la responsabilité du propriétaire du navire prévue à la Convention sur les hydrocarbures de soute.
 > 2001, ch. 6, art. 74; 2009, ch. 21, art. 11.
+
+
+
+
+
+**État partie à la convention**
+
+**74.2** Pour l’application de la Convention sur les substances nocives et potentiellement dangereuses, le Canada est un État partie à cette convention.
+> 2014, ch. 29, art. 32.
+
+
+
+
+
+**Sens de personnes associées**
+
+**74.3** Pour l’application de la Convention sur les substances nocives et potentiellement dangereuses, lorsque deux entités font partie d’un même groupe au sens de l’article 2 de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md), elles sont réputées être des personnes associées, au sens du paragraphe 6 de l’article 16 de cette convention.
+> 2014, ch. 29, art. 34.
+
+
+
+
+
+**Définition de réceptionnaire**
+
+**74.4** 
+
+- **(1)** Pour l’application du paragraphe (2), ***réceptionnaire*** s’entend au sens du paragraphe 4a) de l’article premier de la Convention sur les substances nocives et potentiellement dangereuses.
+
+**Obligation**
+
+- **(2)** Les réceptionnaires déposent, en conformité avec les règlements, auprès du ministre, des déclarations de renseignements concernant les quantités de cargaison donnant lieu à contribution qu’ils ont reçues, sauf les hydrocarbures visés au paragraphe 5a)i) de l’article premier de la Convention sur les substances nocives et potentiellement dangereuses.
+
+**Règlements**
+
+- **(3)** Pour l’application du paragraphe (2), le gouverneur en conseil peut prendre des règlements concernant les déclarations de renseignements.
+
+**Communication des renseignements : Secrétaire général de l’Organisation maritime internationale**
+
+- **(4)** Le ministre fournit au Secrétaire général de l’Organisation maritime internationale, en conformité avec l’article 45 de la Convention sur les substances nocives et potentiellement dangereuses, les renseignements qui y sont visés.
+
+**Communication des renseignements : administrateur du Fonds SNPD**
+
+- **(5)** Le ministre fournit à l’administrateur du Fonds SNPD, en conformité avec l’article 21 de la Convention sur les substances nocives et potentiellement dangereuses, les renseignements qui y sont visés, sauf les renseignements sur les hydrocarbures visés au paragraphe 5a)i) de l’article premier de cette convention.
+
+**Pouvoirs du ministre**
+
+- **(6)** Le ministre peut, pour l’application des paragraphes (2), (4) ou (5) :
+	- **a)** à toute heure convenable, procéder à la visite de tout lieu où il a des motifs raisonnables de croire que se trouvent des registres, livres comptables, comptes, pièces justificatives ou autres documents relatifs aux renseignements visés aux articles 21 ou 45 de la Convention sur les substances nocives et potentiellement dangereuses;
+	- **b)** examiner tout ce qui s’y trouve et copier, ou emporter pour les copier ou les examiner ultérieurement, les registres, livres comptables, comptes, pièces justificatives ou autres documents dont il a des motifs raisonnables de croire qu’ils contiennent de tels renseignements;
+	- **c)** obliger le propriétaire, l’occupant ou le responsable du lieu visité à lui prêter toute l’assistance possible dans le cadre de l’examen, à répondre à toutes les questions pertinentes relatives à l’examen et, à cette fin, à l’accompagner dans le lieu.
+
+**Entrave ou fausse déclaration**
+
+- **(7)** Il est interdit d’entraver l’action du ministre dans l’exercice des pouvoirs que lui confère le paragraphe (6), ou de lui faire sciemment, oralement ou par écrit, une déclaration fausse ou trompeuse.
+
+**Mandat : local d’habitation**
+
+- **(8)** Dans le cas d’un local d’habitation, le ministre ne peut procéder à la visite sans l’autorisation de l’occupant que s’il est muni du mandat décerné en vertu du paragraphe (9).
+
+**Mandat : autorisation**
+
+- **(9)** Sur demande *ex parte*, tout juge de paix, au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), peut décerner un mandat autorisant le ministre, sous réserve des conditions qui y sont éventuellement fixées, à procéder à la visite d’un local d’habitation s’il est convaincu, sur la foi d’une dénonciation sous serment, que sont réunis les éléments suivants :
+	- **a)** le local d’habitation est un lieu visé à l’alinéa (6)a);
+	- **b)** la visite est nécessaire pour l’application des paragraphes (2), (4) ou (5);
+	- **c)** un refus a été opposé à la visite ou il y a des motifs raisonnables de croire que tel sera le cas.
+> 2014, ch. 29, art. 36.
 
 
 
@@ -1569,8 +1641,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Autres définitions**
 
-- **(2)** À la présente partie, ***Convention sur la responsabilité civile***, ***Convention sur le Fonds international***, ***Convention sur les hydrocarbures de soute***, ***Fonds complémentaire***, ***Fonds international*** et ***Protocole portant création d’un Fonds complémentaire*** s’entendent au sens du paragraphe 47(1).
-> 2001, ch. 6, art. 91; 2009, ch. 21, art. 11.
+- **(2)** Dans la présente partie, ***Convention sur la responsabilité civile***, ***Convention sur le Fonds international***, ***Convention sur les hydrocarbures de soute***, ***Convention sur les substances nocives et potentiellement dangereuses***, ***Fonds complémentaire***, ***Fonds international***, ***Fonds SNPD*** et ***Protocole portant création d’un Fonds complémentaire*** s’entendent au sens du paragraphe 47(1).
+> 2001, ch. 6, art. 91; 2009, ch. 21, art. 11; 2014, ch. 29, art. 40.
 
 
 
@@ -2128,11 +2200,39 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **117** 
 
-- **(1)** L’administrateur effectue au profit du Fonds international et du Fonds complémentaire des versements qui proviennent de la Caisse d’indemnisation, en conformité avec les articles 10 et 12 de la Convention sur le Fonds international et des articles 10 et 12 du Protocole portant création d’un Fonds complémentaire.
+- **(1)** L’administrateur effectue au profit du Fonds international et du Fonds complémentaire des versements qui proviennent de la Caisse d’indemnisation, en conformité avec les articles 10, 12 et 13 de la Convention sur le Fonds international et des articles 10 à 13 du Protocole portant création d’un Fonds complémentaire.
+
+**Définition de personne**
+
+- **(1.1)** Pour l’application du paragraphe (1.2), ***personne*** s’entend au sens de l’article premier de la Convention sur la responsabilité civile.
+
+**Déclarations de renseignements — hydrocarbures donnant lieu à contribution**
+
+- **(1.2)** Les personnes qui sont tenues de faire des contributions au titre de l’article 10 de la Convention sur le Fonds international et de l’article 10 du Protocole portant création d’un Fonds complémentaire déposent, en conformité avec les règlements, auprès du ministre ou de l’administrateur des déclarations de renseignements permettant à l’administrateur de s’acquitter de ses obligations prévues aux paragraphes 117(1) et (2).
+
+**Définition de réceptionnaire**
+
+- **(1.3)** Pour l’application du paragraphe (1.4), ***réceptionnaire*** s’entend au sens du paragraphe 4a) de l’article premier de la Convention sur les substances nocives et potentiellement dangereuses.
+
+**Déclarations de renseignements — substances nocives et potentiellement dangereuses**
+
+- **(1.4)** Les réceptionnaires déposent, en conformité avec les règlements, auprès du ministre ou de l’administrateur des déclarations de renseignements concernant les quantités d’hydrocarbures visés au paragraphe 5a)i) de l’article premier de la Convention sur les substances nocives et potentiellement dangereuses qu’ils ont reçues.
+
+**Règlements**
+
+- **(1.5)** Pour l’application des paragraphes (1.2) et (1.4), le gouverneur en conseil peut prendre des règlements concernant les déclarations de renseignements.
 
 **Communication des renseignements**
 
 - **(2)** L’administrateur fournit au ministre et à l’administrateur du Fonds international ou à l’administrateur du Fonds complémentaire, selon le cas, en conformité avec l’article 15 de la Convention sur le Fonds international ou l’article 13 du Protocole portant création d’un Fonds complémentaire, selon le cas, les renseignements qui y sont prévus.
+
+**Communication des renseignements : ministre**
+
+- **(2.1)** L’administrateur fournit au ministre les renseignements visés au paragraphe 74.4(4) ayant trait aux hydrocarbures visés au paragraphe 5a)i) de l’article premier de la Convention sur les substances nocives et potentiellement dangereuses qui permettent à celui-ci de s’acquitter de son obligation prévue au paragraphe 74.4(4).
+
+**Communication des renseignements : ministre et administrateur du Fonds SNPD**
+
+- **(2.2)** L’administrateur fournit au ministre et à l’administrateur du Fonds SNPD, en conformité avec l’article 21 de la Convention sur les substances nocives et potentiellement dangereuses, les renseignements qui y sont visés et qui ont trait aux hydrocarbures visés au paragraphe 5a)i) de l’article premier de cette convention.
 
 **Obligation de l’administrateur**
 
@@ -2140,8 +2240,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Pouvoirs de l’administrateur**
 
-- **(4)** L’administrateur peut, pour l’application du paragraphe (2) :
-	- **a)** à toute heure convenable, procéder à la visite de tout lieu où il a des motifs raisonnables de croire que se trouvent des registres, livres comptables, comptes, pièces justificatives ou autres documents relatifs aux renseignements prévus à l’article 15 de la Convention sur le Fonds international ou à l’article 13 du Protocole portant création d’un Fonds complémentaire;
+- **(4)** L’administrateur peut, pour l’application des paragraphes (1.2), (1.4), (2), (2.1) ou (2.2) :
+	- **a)** à toute heure convenable, procéder à la visite de tout lieu où il a des motifs raisonnables de croire que se trouvent des registres, livres comptables, comptes, pièces justificatives ou autres documents relatifs aux renseignements prévus à l’article 15 de la Convention sur le Fonds international, à l’article 13 du Protocole portant création d’un Fonds complémentaire ou à l’article 21 ou 45 de la Convention sur les substances nocives et potentiellement dangereuses;
 	- **b)** examiner tout ce qui s’y trouve et copier, ou emporter pour les copier ou les examiner ultérieurement, les registres, livres comptables, comptes, pièces justificatives ou autres documents dont il a des motifs raisonnables de croire qu’ils contiennent de tels renseignements;
 	- **c)** obliger le propriétaire, l’occupant ou le responsable du lieu visité à lui prêter toute l’assistance possible dans le cadre de l’examen, à répondre à toutes les questions pertinentes relatives à l’examen et, à cette fin, à l’accompagner dans le lieu.
 
@@ -2157,9 +2257,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(7)** Sur demande *ex parte*, tout juge de paix, au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), peut décerner un mandat autorisant l’administrateur, sous réserve des conditions qui y sont éventuellement fixées, à procéder à la visite d’un local d’habitation s’il est convaincu, sur la foi d’une dénonciation sous serment, que sont réunis les éléments suivants :
 	- **a)** le local d’habitation est un lieu visé à l’alinéa (4)a);
-	- **b)** la visite est nécessaire pour l’application du paragraphe (2);
+	- **b)** la visite est nécessaire pour l’application des paragraphes (1.2), (1.4), (2), (2.1) ou (2.2);
 	- **c)** un refus a été opposé à la visite ou il y a des motifs raisonnables de croire que tel sera le cas.
-> 2001, ch. 6, art. 117; 2009, ch. 21, art. 11.
+> 2001, ch. 6, art. 117; 2009, ch. 21, art. 11; 2014, ch. 29, art. 50.
 
 
 
@@ -2355,9 +2455,9 @@ Ils se conforment à la demande dans la mesure où l’examinateur l’estime n�
 **125** Le gouverneur en conseil peut par règlement :
 - **a)** prévoir la façon de verser la contribution prévue à l’article 112;
 - **b)** prévoir le dépôt, auprès du ministre, de déclarations de renseignements par toute personne visée aux alinéas 112(4)a) ou b) de qui la contribution peut être exigée;
-- **c)** prévoir le dépôt, auprès du ministre ou de l’administrateur, de renseignements permettant à l’administrateur de s’acquitter de ses obligations prévues à l’article 117;
+- **c)** [Abrogé, 2014, ch. 29, art. 51]
 - **d)** d’une façon générale, prendre toute autre mesure d’application de la présente partie.
-> 2001, ch. 6, art. 125; 2009, ch. 21, art. 11.
+> 2001, ch. 6, art. 125; 2009, ch. 21, art. 11; 2014, ch. 29, art. 51.
 
 
 
@@ -2508,12 +2608,16 @@ Il fixe les modalités de présentation de la demande de déplacement et donne �
 
 **Infractions**
 
-- **(4)** Commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 100 000 $ la personne qui contrevient au paragraphe 117(5), à l’article 118 ou au paragraphe 119(9).
+- **(4)** Commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 100 000 $ la personne qui contrevient au paragraphe 74.4(7) ou 117(5), à l’article 118 ou au paragraphe 119(9).
+
+**Omission de fournir des renseignements**
+
+- **(4.1)** La personne qui omet de déposer la déclaration de renseignements visée aux paragraphes 74.4(2) ou 117(1.2) ou (1.4) commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 1 000 $ pour chaque jour que dure cette omission.
 
 **Définition de personne**
 
-- **(5)** Pour l’application du présent article, ***personne*** s’entend au sens de l’article premier de la Convention sur la responsabilité civile au sens du paragraphe 47(1).
-> 2009, ch. 21, art. 11.
+- **(5)** Pour l’application du paragraphe (4.1), ***personne*** s’entend au sens de l’article premier de la Convention sur la responsabilité civile au sens du paragraphe 47(1); toutefois, dans le contexte de la Convention sur les substances nocives et potentiellement dangereuses, ***personne*** s’entend au sens de l’article premier de la Convention sur les substances nocives et potentiellement dangereuses au sens du paragraphe 47(1).
+> 2009, ch. 21, art. 11; 2014, ch. 29, art. 54.
 
 
 
