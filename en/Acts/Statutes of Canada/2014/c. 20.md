@@ -2032,7 +2032,7 @@ In all other respects, the employee is governed by the terms and conditions of e
 
 
 
-**332** [Amendment]
+**332** [Repealed before coming into force, 2014, c. 20, s. 367]
 
 
 
@@ -2156,7 +2156,7 @@ In all other respects, the employee is governed by the terms and conditions of e
 
 
 
-**363** [Amendments]
+**363** [Repealed before coming into force, 2014, c. 20, s. 367]
 
 
 
@@ -2199,9 +2199,19 @@ In all other respects, the employee is governed by the terms and conditions of e
 
 **Order in council**
 
-***368** This Division, other than section 367, comes into force on a day to be fixed by order of the Governor in Council.
+**368** 
 
-<a name='fn_IndEB8D_hq_14295'><sup>*</sup></a>: [Note: Division 25, other than section 367, not in force.]<br />
+- <sup><a href='#fn_IndEB8D_hq_14295'>[*]</a></sup>**(1)** This Division, other than sections 358.1, 358.2 and 367, comes into force on a day to be fixed by order of the Governor in Council.
+
+<a name='fn_IndEB8D_hq_14295'><sup>*</sup></a>: [Note: Division 25, other than sections 358.1, 358.2 and 367, not in force.]<br />
+
+**Order in council**
+
+- <sup><a href='#fn_Ind9B8C_hq_15035'>[*]</a></sup>**(2)** Sections 358.1 and 358.2 come into force on a day or days to be fixed by order of the Governor in Council.
+
+<a name='fn_Ind9B8C_hq_15035'><sup>*</sup></a>: [Note: Sections 358.1 and 358.2 not in force.]<br />
+> 2014, c. 20, ss. 367, 368.
+
 
 
 
