@@ -823,40 +823,45 @@ but does not include an air cushion vehicle or a floating platform constructed f
 
 - **(1)** The following definitions apply in this Division.
 
-***Bunkers Convention*** means the International Convention on Civil Liability for Bunker Oil Pollution Damage, 2001, concluded at London on March 23, 2001.
+***Bunkers Convention*** means the International Convention on Civil Liability for Bunker Oil Pollution Damage, 2001, concluded at London on March 23, 2001. (*Convention sur les hydrocarbures de soute*)
 
-***Civil Liability Convention*** means the International Convention on Civil Liability for Oil Pollution Damage, 1992, concluded at London on November 27, 1992, Article V of which was amended by the Resolution adopted by the Legal Committee of the International Maritime Organization on October 18, 2000.
+***Civil Liability Convention*** means the International Convention on Civil Liability for Oil Pollution Damage, 1992, concluded at London on November 27, 1992, Article V of which was amended by the Resolution adopted by the Legal Committee of the International Maritime Organization on October 18, 2000. (*Convention sur la responsabilité civile*)
 
-***discharge***, in relation to oil and bunker oil, means a discharge of oil or bunker oil that directly or indirectly results in the oil or bunker oil entering the water, and includes spilling, leaking, pumping, pouring, emitting, emptying, throwing and dumping.
+***discharge***, in relation to oil and bunker oil, means a discharge of oil or bunker oil that directly or indirectly results in the oil or bunker oil entering the water, and includes spilling, leaking, pumping, pouring, emitting, emptying, throwing and dumping. (*rejet*)
 
-***Fund Convention*** means the International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage, 1992, concluded at London on November 27, 1992, Article 4 of which was amended by the Resolution adopted by the Legal Committee of the International Maritime Organization on October 18, 2000.
+***Fund Convention*** means the International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage, 1992, concluded at London on November 27, 1992, Article 4 of which was amended by the Resolution adopted by the Legal Committee of the International Maritime Organization on October 18, 2000. (*Convention sur le Fonds international*)
 
-***in bulk*** means in a hold or tank that is part of a ship’s structure, without any intermediate form of containment.
+***Hazardous and Noxious Substances Convention*** means the International Convention on Liability and Compensation for Damage in Connection with the Carriage of Hazardous and Noxious Substances by Sea, 2010, concluded at London on April 30, 2010. (*Convention sur les substances nocives et potentiellement dangereuses*)
 
-***International Fund*** means the International Oil Pollution Compensation Fund, 1992 established by Article 2 of the Fund Convention.
+***HNS Fund*** means the International Hazardous and Noxious Substances Fund established by Article 13 of the Hazardous and Noxious Substances Convention. (*Fonds SNPD*)
 
-Version anglaise seulement***owner***
+***in bulk*** means in a hold or tank that is part of a ship’s structure, without any intermediate form of containment. (*en vrac*)
+
+***International Fund*** means the International Oil Pollution Compensation Fund, 1992 established by Article 2 of the Fund Convention. (*Fonds international*)
+
+***owner***
 - **(a)** in relation to the Civil Liability Convention, has the same meaning as in Article I of that Convention;
 - **(b)** in relation to the Fund Convention, has the same meaning as in Article I of the Civil Liability Convention and as shipowner within the meaning of the Fund Convention;
 - **(c)** in relation to the Supplementary Fund Protocol, has the same meaning as in Article I of the Civil Liability Convention; and
-- **(d)** in relation to the Bunkers Convention, has the same meaning as the definition ***Shipowner*** in Article 1 of that Convention.
+- **(d)** in relation to the Bunkers Convention, has the same meaning as the definition ***Shipowner*** in Article 1 of that Convention. (***Version anglaise seulement***)
 
-***Supplementary Fund*** means the International Oil Pollution Compensation Supplementary Fund, 2003 established by Article 2 of the Supplementary Fund Protocol.
+***Supplementary Fund*** means the International Oil Pollution Compensation Supplementary Fund, 2003 established by Article 2 of the Supplementary Fund Protocol. (*Fonds complémentaire*)
 
-***Supplementary Fund Protocol*** means the Protocol of 2003 to the International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage, 1992, concluded at London on May 16, 2003.
+***Supplementary Fund Protocol*** means the Protocol of 2003 to the International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage, 1992, concluded at London on May 16, 2003. (*Protocole portant création d’un Fonds complémentaire*)
 
 **Words and expressions defined**
 
 - **(2)** For the purposes of this Division and unless otherwise provided, words and expressions used in this Division have the same meaning as in the following applicable conventions:
 	- **(a)** Article I of the Civil Liability Convention;
 	- **(b)** Article 1 of the Fund Convention;
-	- **(c)** Article 1 of the Supplementary Fund Protocol; and
-	- **(d)** Article 1 of the Bunkers Convention.
+	- **(c)** Article 1 of the Supplementary Fund Protocol;
+	- **(d)** Article 1 of the Bunkers Convention; and
+	- **(e)** Article 1 of the Hazardous and Noxious Substances Convention.
 
 **Inconsistency**
 
-- **(3)** In the event of an inconsistency between this section and sections 48 to 74 and 79 to 90 and the Civil Liability Convention, the Fund Convention, the Supplementary Fund Protocol or the Bunkers Convention, those sections prevail to the extent of the inconsistency.
-> 2001, c. 6, s. 47; 2009, c. 21, s. 11.
+- **(3)** In the event of an inconsistency between this section and sections 48 to 74.4 and 79 to 90 and the Civil Liability Convention, the Fund Convention, the Supplementary Fund Protocol, the Bunkers Convention or the Hazardous and Noxious Substances Convention, those sections prevail to the extent of the inconsistency.
+> 2001, c. 6, s. 47; 2009, c. 21, s. 11; 2014, c. 29, s. 29.
 
 
 
@@ -967,7 +972,7 @@ Version anglaise seulement***owner***
 **Court order in case of non-compliance**
 
 - **(3)** The Admiralty Court may issue any order that it deems appropriate to remedy the failure of the person to give any of the required public notices or the inadequacy of a notice.
-> 2001, c. 6, s. 54; SOR/2003-353; 2009, c. 21, s. 11.
+> 2001, c. 6, s. 54; SOR/2003-353; 2009, c. 21, s. 11; 2014, c. 29, s. 30(F).
 
 
 
@@ -1244,6 +1249,73 @@ Version anglaise seulement***owner***
 
 - **(5)** If the Minister believes that the guarantor is no longer able to meet the guarantor’s obligations under the contract of insurance or other security referred to in subsection 73(1), or that the contract of insurance or other security no longer covers the owner’s liability under the Bunkers Convention, the Minister may revoke the certificate issued by him or her.
 > 2001, c. 6, s. 74; 2009, c. 21, s. 11.
+
+
+
+
+
+**State Party**
+
+**74.2** For the purposes of the application of the Hazardous and Noxious Substances Convention, Canada is a State Party.
+> 2014, c. 29, s. 32.
+
+
+
+
+
+**Meaning of associated persons**
+
+**74.3** For the purposes of the application of the Hazardous and Noxious Substances Convention, if two bodies are affiliated with each other within the meaning of section 2 of the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md), they are deemed to be ***associated persons*** within the meaning of ***associated person*** in paragraph 6 of Article 16 of that Convention.
+> 2014, c. 29, s. 34.
+
+
+
+
+
+**Meaning of receiver**
+
+**74.4** 
+
+- **(1)** For the purposes of subsection (2), ***receiver*** has the meaning assigned by paragraph 4(a) of Article 1 of the Hazardous and Noxious Substances Convention.
+
+**Obligation**
+
+- **(2)** Receivers shall file information returns with the Minister, in accordance with the regulations, respecting quantities of contributing cargo received, except oils described in paragraph 5(a)(i) of Article 1 of the Hazardous and Noxious Substances Convention.
+
+**Regulations**
+
+- **(3)** The Governor in Council may make regulations respecting information returns for the purposes of subsection (2).
+
+**Communication to Secretary-General of IMO**
+
+- **(4)** The Minister shall communicate to the Secretary-General of the International Maritime Organization, in accordance with Article 45 of the Hazardous and Noxious Substances Convention, the information referred to in that Article.
+
+**Communication to Director of HNS Fund**
+
+- **(5)** The Minister shall communicate to the Director of the HNS Fund, in accordance with Article 21 of the Hazardous and Noxious Substances Convention, the information referred to in that Article except information that relates to oils described in paragraph 5(a)(i) of Article 1 of that Convention.
+
+**Minister’s powers**
+
+- **(6)** The Minister may, for the purposes of subsection (2), (4) or (5),
+	- **(a)** at any reasonable time, enter a place in which he or she has reasonable grounds to believe there are any records, books of account, accounts, vouchers or other documents relating to information referred to in Article 21 or 45 of the Hazardous and Noxious Substances Convention;
+	- **(b)** examine anything at the place and copy or take away for further examination or copying any record, book of account, account, voucher or other document that he or she believes, on reasonable grounds, contains any such information; and
+	- **(c)** require the owner, occupier or person in charge of the place to give the Minister all reasonable assistance in connection with the examination and to answer all proper questions relating to the examination and, for that purpose, require the owner, occupier or person in charge to attend at the place with the Minister.
+
+**No obstruction or false statements**
+
+- **(7)** No person shall obstruct or hinder the Minister in the exercise of any powers under subsection (6) or knowingly make a false or misleading statement, either orally or in writing, to the Minister while he or she is exercising those powers.
+
+**Warrant required to enter dwelling place**
+
+- **(8)** A dwelling place may not be entered under subsection (6) unless it is entered with the occupant’s consent or under the authority of a warrant issued under subsection (9).
+
+**Authority to issue warrant**
+
+- **(9)** On *ex parte* application, a justice, as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), may issue a warrant authorizing the Minister to enter a dwelling place, subject to any conditions that may be specified in the warrant, if the justice is satisfied by information on oath that
+	- **(a)** the dwelling place is a place referred to in paragraph (6)(a);
+	- **(b)** entry to the dwelling place is necessary for the purposes of subsection (2), (4) or (5); and
+	- **(c)** entry to the dwelling place has been refused or there are reasonable grounds to believe that it will be refused.
+> 2014, c. 29, s. 36.
 
 
 
@@ -1594,8 +1666,8 @@ Version anglaise seulement***owner***
 
 **Other definitions**
 
-- **(2)** In this Part, ***Bunkers Convention***, ***Civil Liability Convention***, ***Fund Convention***, ***International Fund***, ***Supplementary Fund*** and ***Supplementary Fund Protocol*** have the same meaning as in subsection 47(1).
-> 2001, c. 6, s. 91; 2009, c. 21, s. 11.
+- **(2)** In this Part, ***Bunkers Convention***, ***Civil Liability Convention***, ***Fund Convention***, ***Hazardous and Noxious Substances Convention***, ***HNS Fund***, ***International Fund***, ***Supplementary Fund*** and ***Supplementary Fund Protocol*** have the same meaning as in subsection 47(1).
+> 2001, c. 6, s. 91; 2009, c. 21, s. 11; 2014, c. 29, s. 40.
 
 
 
@@ -2156,7 +2228,27 @@ by
 
 **117** 
 
-- **(1)** The Administrator shall direct payments to be made out of the Ship-source Oil Pollution Fund to the International Fund in accordance with Articles 10 and 12 of the Fund Convention and to the Supplementary Fund in accordance with Articles 10 and 12 of the Supplementary Fund Protocol.
+- **(1)** The Administrator shall direct payments to be made out of the Ship-source Oil Pollution Fund to the International Fund in accordance with Articles 10, 12 and 13 of the Fund Convention and to the Supplementary Fund in accordance with Articles 10 to 13 of the Supplementary Fund Protocol.
+
+**Meaning of person**
+
+- **(1.1)** For the purposes of subsection (1.2), ***person*** has the same meaning as in Article I of the Civil Liability Convention.
+
+**Information returns — contributing oil**
+
+- **(1.2)** A person who is required to make contributions under Article 10 of the Fund Convention or Article 10 of the Supplementary Fund Protocol shall file with the Minister or the Administrator, in accordance with the regulations, information returns necessary to enable the Administrator to discharge his or her obligations under subsections 117(1) and (2).
+
+**Meaning of receiver**
+
+- **(1.3)** For the purposes of subsection (1.4), the term ***receiver*** has the meaning assigned by paragraph 4(a) of Article 1 of the Hazardous and Noxious Substances Convention.
+
+**Information returns — hazardous and noxious substances**
+
+- **(1.4)** Receivers shall file with the Minister or the Administrator, in accordance with the regulations, information returns in respect of quantities of oils, as described in paragraph 5(a)(i) of Article 1 of the Hazardous and Noxious Substances Convention, received.
+
+**Regulations**
+
+- **(1.5)** The Governor in Council may make regulations respecting information returns for the purposes of subsections (1.2) and (1.4).
 
 **Communication of information**
 
@@ -2164,14 +2256,22 @@ by
 	- **(a)** the Director of the International Fund, the information referred to in Article 15 of the Fund Convention, in accordance with that Article; or
 	- **(b)** the Director of the Supplementary Fund, the information referred to in Article 13 of the Supplementary Fund Protocol, in accordance with that Article.
 
+**Communication to Minister**
+
+- **(2.1)** The Administrator shall communicate to the Minister the information referred to in subsection 74.4(4) that relates to oils described in paragraph 5(a)(i) of Article 1 of the Hazardous and Noxious Substances Convention and that is necessary to enable the Minister to discharge his or her obligation under that subsection.
+
+**Communication to Minister and Director of HNS Fund**
+
+- **(2.2)** The Administrator shall communicate to the Minister and the Director of the HNS Fund, in accordance with Article 21 of the Hazardous and Noxious Substances Convention, the information referred to in that Article that relates to oils described in paragraph 5(a)(i) of Article 1 of that Convention.
+
 **Administrator’s liability**
 
 - **(3)** The Administrator is liable for any financial loss to the International Fund or the Supplementary Fund, as the case may be, as a result of a failure to communicate the information.
 
 **Administrator’s powers**
 
-- **(4)** The Administrator may, for the purpose of subsection (2),
-	- **(a)** at any reasonable time, enter any place where he or she believes on reasonable grounds that there are any records, books of account, accounts, vouchers or other documents relating to information referred to in Article 15 of the Fund Convention or Article 13 of the Supplementary Fund Protocol, as the case may be;
+- **(4)** The Administrator may, for the purposes of subsection (1.2), (1.4), (2), (2.1) or (2.2),
+	- **(a)** at any reasonable time, enter a place in which he or she has reasonable grounds to believe there are any records, books of account, accounts, vouchers or other documents relating to information referred to in Article 15 of the Fund Convention, Article 13 of the Supplementary Fund Protocol or Article 21 or 45 of the Hazardous and Noxious Substances Convention, as the case may be;
 	- **(b)** examine anything at the place and copy or take away for further examination or copying any record, book of account, account, voucher or other document that he or she believes, on reasonable grounds, contains any such information; and
 	- **(c)** require the owner, occupier or person in charge of the place to give the Administrator all reasonable assistance in connection with the examination and to answer all proper questions relating to the examination and, for that purpose, require the owner, occupier or person in charge to attend at the place with the Administrator.
 
@@ -2187,9 +2287,9 @@ by
 
 - **(7)** On *ex parte* application, a justice, within the meaning of section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), may issue a warrant authorizing the Administrator to enter a dwelling place, subject to any conditions that may be specified in the warrant, if the justice is satisfied by information on oath that
 	- **(a)** the dwelling place is a place referred to in paragraph (4)(a);
-	- **(b)** entry to the dwelling place is necessary for the purposes of subsection (2); and
+	- **(b)** entry to the dwelling place is necessary for the purposes of subsection (1.2), (1.4), (2), (2.1) or (2.2); and
 	- **(c)** entry to the dwelling place has been refused or there are reasonable grounds to believe that it will be refused.
-> 2001, c. 6, s. 117; 2009, c. 21, s. 11.
+> 2001, c. 6, s. 117; 2009, c. 21, s. 11; 2014, c. 29, s. 50.
 
 
 
@@ -2383,10 +2483,10 @@ by
 
 **125** The Governor in Council may make regulations
 - **(a)** prescribing the manner in which the levy payable under section 112 is to be paid;
-- **(b)** respecting the filing with the Minister of information returns by the persons referred to in paragraph 112(4)(a) or (b) from whom the levy may be recovered;
-- **(c)** providing for the filing with the Minister or the Administrator of information returns necessary to enable the Administrator to discharge his or her obligations under section 117; and
+- **(b)** respecting the filing with the Minister of information returns by the persons referred to in paragraph 112(4)(a) or (b) from whom the levy may be recovered; and
+- **(c)** [Repealed, 2014, c. 29, s. 51]
 - **(d)** generally for carrying out the purposes and provisions of this Part.
-> 2001, c. 6, s. 125; 2009, c. 21, s. 11.
+> 2001, c. 6, s. 125; 2009, c. 21, s. 11; 2014, c. 29, s. 51.
 
 
 
@@ -2538,12 +2638,16 @@ by
 
 **Contraventions**
 
-- **(4)** Every person who contravenes subsection 117(5), section 118 or subsection 119(9) is guilty of an offence and liable on summary conviction to a fine not exceeding $100,000.
+- **(4)** Every person who contravenes subsection 74.4(7) or 117(5), section 118 or subsection 119(9) is guilty of an offence and liable on summary conviction to a fine not exceeding $100,000.
+
+**Failure to file information return**
+
+- **(4.1)** Any person who fails to file an information return required under subsection 74.4(2) or 117(1.2) or (1.4) is guilty of an offence and liable on summary conviction to a fine not exceeding $1,000 for each day of default.
 
 **Definition of person**
 
-- **(5)** For the purposes of this section, ***person*** has the same meaning as in Article I of the Civil Liability Convention within the meaning of subsection 47(1).
-> 2009, c. 21, s. 11.
+- **(5)** For the purposes of subsection (4.1), ***person*** has the same meaning as in Article I of the Civil Liability Convention, as defined in subsection 47(1), except that, in the context of the Hazardous and Noxious Substances Convention, as defined in that subsection, ***person*** has the same meaning as in Article 1 of that Convention.
+> 2009, c. 21, s. 11; 2014, c. 29, s. 54.
 
 
 
