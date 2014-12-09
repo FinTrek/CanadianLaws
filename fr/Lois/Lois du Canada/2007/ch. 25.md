@@ -71,17 +71,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(4)** Les paragraphes (1) et (2) n’ont pas pour effet d’empêcher ce qui suit :
 	- **a)** l’adoption, l’emploi ou l’enregistrement — comme marque de commerce ou non — d’une marque visée aux paragraphes (1) ou (2) en conformité avec le consentement écrit d’un comité d’organisation obtenu pendant une période réglementaire, ou avec celui du COC ou du CPC obtenu pendant toute autre période;
 	- **b)** l’emploi d’une marque de commerce, par son propriétaire ou par le titulaire d’une licence d’emploi la visant, dans le cas où, d’une part, elle a été employée avant le 2 mars 2007 par quiconque était alors son propriétaire ou titulaire d’une licence d’emploi la visant et, d’autre part, son emploi subséquent vise, selon le cas :
-		- **(i)** les mêmes marchandises ou services que ceux pour lesquels elle a été employée avant cette date,
-		- **(ii)** les marchandises ou services à l’égard desquels elle est enregistrée en application de la [Loi sur les marques de commerce](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-13.md),
-		- **(iii)** des marchandises ou services d’une même catégorie générale que ceux pour lesquels elle a été employée avant cette date ou que ceux à l’égard desquels elle est enregistrée;
+		- **(i)** les mêmes produits ou services que ceux pour lesquels elle a été employée avant cette date,
+		- **(ii)** les produits ou services à l’égard desquels elle est enregistrée en application de la [Loi sur les marques de commerce](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-13.md),
+		- **(iii)** des produits ou services d’une même catégorie générale que ceux pour lesquels elle a été employée avant cette date ou que ceux à l’égard desquels elle est enregistrée;
 	- **c)** l’emploi d’une marque de commerce, par son propriétaire ou par le titulaire d’une licence d’emploi la visant, dans le cas où, d’une part, elle a été employée, par quiconque était alors son propriétaire ou titulaire d’une licence d’emploi la visant, avant la date de la publication dans la partie I de la Gazette du Canada du décret qui, par l’adjonction d’une marque aux annexes 1 ou 2, en interdit l’emploi et, d’autre part, son emploi subséquent vise, selon le cas :
-		- **(i)** les mêmes marchandises ou services que ceux pour lesquels elle a été employée avant cette date,
-		- **(ii)** les marchandises ou services à l’égard desquels elle est enregistrée en application de la [Loi sur les marques de commerce](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-13.md),
-		- **(iii)** des marchandises ou services d’une même catégorie générale que ceux pour lesquels elle a été employée avant cette date ou que ceux à l’égard desquels elle est enregistrée;
+		- **(i)** les mêmes produits ou services que ceux pour lesquels elle a été employée avant cette date,
+		- **(ii)** les produits ou services à l’égard desquels elle est enregistrée en application de la [Loi sur les marques de commerce](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-13.md),
+		- **(iii)** des produits ou services d’une même catégorie générale que ceux pour lesquels elle a été employée avant cette date ou que ceux à l’égard desquels elle est enregistrée;
 	- **d)** l’emploi, par Sa Majesté, une université ou une autorité publique, ou par la personne autorisée par l’une ou l’autre de celles-ci, d’un insigne, d’un écusson, d’un emblème ou de toute autre marque à l’égard de laquelle Sa Majesté, l’université ou l’autorité publique, selon le cas, a demandé au registraire de donner un avis public en application de l’alinéa 9(1)n) de la [Loi sur les marques de commerce](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-13.md), si cet avis a été donné avant le 2 mars 2007;
 	- **e)** l’emploi par Sa Majesté, une université ou une autorité publique, ou par la personne autorisée par l’une ou l’autre de celles-ci, d’un insigne, d’un écusson, d’un emblème ou de toute autre marque à l’égard de laquelle Sa Majesté, l’université ou l’autorité publique, selon le cas, a demandé au registraire de donner un avis public en application de l’alinéa 9(1)n) de la [Loi sur les marques de commerce](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-13.md), si cet avis a été donné avant la date de la publication dans la partie I de la Gazette du Canada du décret qui, par adjonction d’une marque aux annexes 1 ou 2, en interdit l’emploi;
 	- **f)** l’emploi d’une indication géographique protégée désignant un vin ou un spiritueux dont le lieu d’origine se trouve sur le territoire visé par l’indication;
-	- **g)** l’emploi par une personne de son adresse, du nom du lieu géographique où est située son entreprise, de toute indication exacte de l’origine de ses marchandises ou services ou, dans la mesure où cela est nécessaire pour les expliquer au public, de toute description exacte de ses marchandises ou services;
+	- **g)** l’emploi par une personne de son adresse, du nom du lieu géographique où est située son entreprise, de toute indication exacte de l’origine de ses produits ou services ou, dans la mesure où cela est nécessaire pour les expliquer au public, de toute description exacte de ses produits ou services;
 	- **h)** l’emploi par une personne physique de son nom;
 	- **i)** l’emploi par une personne ayant participé à titre d’athlète à des Jeux olympiques ou à des Jeux paralympiques ou ayant été sélectionnée par le COC ou le CPC pour le faire, ou par une personne ayant obtenu son consentement, des marques « *Olympian* », « *Olympic* », « Olympien » et « Olympique », ou « *Paralympian* », « *Paralympic* », « Paralympien » et « Paralympique », selon le cas, lorsque cet emploi sert seulement à faire état de cette participation ou sélection.
 
@@ -92,6 +92,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Précision**
 
 - **(6)** Il est entendu que ne constitue pas en soi un emploi à l’égard d’une entreprise l’inclusion d’une marque olympique ou paralympique ou sa traduction — en quelque langue que ce soit — dans une oeuvre artistique, au sens de la [Loi sur le droit d’auteur](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-42.md), par son auteur, si cette oeuvre n’est pas reproduite à l’échelle commerciale.
+> 2007, ch. 25, art. 3; 2014, ch. 32, art. 62.
+
 
 
 
@@ -100,7 +102,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **4** 
 
-- **(1)** Nul ne peut, au cours d’une période réglementaire, attirer l’attention du public sur son entreprise, ses marchandises ou ses services, notamment les promouvoir, — tout en les associant à une marque de commerce ou autre — d’une manière qui trompe ou risque fort de tromper le public en lui laissant croire, selon le cas :
+- **(1)** Nul ne peut, au cours d’une période réglementaire, attirer l’attention du public sur son entreprise, ses produits ou ses services, notamment les promouvoir, — tout en les associant à une marque de commerce ou autre — d’une manière qui trompe ou risque fort de tromper le public en lui laissant croire, selon le cas :
 	- **a)** que ceux-ci sont approuvés, autorisés ou sanctionnés par un comité d’organisation, le COC ou le CPC;
 	- **b)** qu’il y a une association commerciale entre son entreprise et les Jeux olympiques, les Jeux paralympiques, un comité d’organisation, le COC ou le CPC.
 
@@ -113,6 +115,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Proximité**
 
 - **(3)** Le fait de placer une publicité à proximité d’une publication, notamment sur support électronique, contenant une marque olympique ou paralympique ou sa traduction — en quelque langue que ce soit — ne constitue pas en soi une contravention au paragraphe (1).
+> 2007, ch. 25, art. 4; 2014, ch. 32, art. 62.
+
 
 
 
@@ -122,8 +126,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **5** 
 
 - **(1)** Sur demande, le tribunal peut, s’il conclut qu’il y a eu contravention aux articles 3 ou 4, rendre toute ordonnance qu’il juge indiquée dans les circonstances, notamment une ordonnance prévoyant réparation par voie d’injonction ou par l’allocation de dommages-intérêts ou le recouvrement de profits, l’allocation de dommages punitifs, la publication de publicités correctives ou encore la disposition par destruction, par exportation ou autrement :
-	- **a)** des marchandises, colis, étiquettes et matériel publicitaire en cause;
-	- **b)** de toute matrice employée pour apposer à ces marchandises, colis, étiquettes ou matériel publicitaire une marque dont l’adoption ou l’emploi est interdit par l’article 3.
+	- **a)** des produits, emballages, étiquettes et matériel publicitaire en cause;
+	- **b)** de tout équipement employé pour apposer à ces produits, emballages, étiquettes ou matériel publicitaire une marque dont l’adoption ou l’emploi est interdit par l’article 3.
 
 **Présentation de la demande**
 
@@ -138,6 +142,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Motifs**
 
 - **(3)** L’autorisation ne peut être refusée pour des motifs déraisonnables.
+> 2007, ch. 25, art. 5; 2014, ch. 32, art. 61.
+
 
 
 
@@ -156,16 +162,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Rétention et disposition de marchandises importées**
+**Rétention et disposition de produits importés**
 
 **8** 
 
 - **(1)** Sur demande, le tribunal peut :
-	- **a)** s’il estime que des marchandises auxquelles a été apposée une marque olympique ou paralympique sont sur le point d’être importées au Canada ou y ont été importées sans être dédouanées, au sens de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), et que leur distribution au Canada constituerait un emploi de la marque comme marque de commerce en contravention à l’article 3, rendre une ordonnance qui, à la fois :
-		- **(i)** enjoint au ministre de la Sécurité publique et de la Protection civile de prendre, sur la foi de renseignements que celui-ci a valablement exigés du demandeur, toute mesure raisonnable pour retenir les marchandises,
-		- **(ii)** lui enjoint d’aviser sans délai le demandeur et le propriétaire ou l’importateur des marchandises de la rétention de celles-ci, motifs à l’appui,
+	- **a)** s’il estime que des produits auxquels a été apposée une marque olympique ou paralympique sont sur le point d’être importés au Canada ou y ont été importés sans être dédouanés, au sens de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), et que leur distribution au Canada constituerait un emploi de la marque comme marque de commerce en contravention à l’article 3, rendre une ordonnance qui, à la fois :
+		- **(i)** enjoint au ministre de la Sécurité publique et de la Protection civile de prendre, sur la foi de renseignements que celui-ci a valablement exigés du demandeur, toute mesure raisonnable pour retenir les produits,
+		- **(ii)** lui enjoint d’aviser sans délai le demandeur et le propriétaire ou l’importateur des produits de la rétention de ceux-ci, motifs à l’appui,
 		- **(iii)** prévoit toute autre mesure qu’il juge indiquée;
-	- **b)** s’il conclut que la distribution au Canada de marchandises retenues en application de l’alinéa a) constituerait un emploi de la marque comme marque de commerce en contravention à l’article 3, rendre toute ordonnance qu’il juge indiquée dans les circonstances, notamment ordonner leur remise au demandeur en toute propriété, leur destruction ou leur exportation.
+	- **b)** s’il conclut que la distribution au Canada de produits retenus en application de l’alinéa a) constituerait un emploi de la marque comme marque de commerce en contravention à l’article 3, rendre toute ordonnance qu’il juge indiquée dans les circonstances, notamment ordonner leur remise au demandeur en toute propriété, leur destruction ou leur exportation.
 
 **Présentation d’une demande**
 
@@ -181,13 +187,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** L’autorisation ne peut être refusée pour des motifs déraisonnables.
 
-**Demande visant la rétention de marchandises**
+**Demande visant la rétention de produits**
 
 - **(4)** La demande visant à obtenir une ordonnance au titre de l’alinéa (1)a) peut être présentée soit sur avis, soit *ex parte*. Le ministre de la Sécurité publique et de la Protection civile est avisé d’une telle demande dans tous les cas.
 
 **Garantie**
 
-- **(5)** Avant de rendre une ordonnance au titre de l’alinéa (1)a), le tribunal peut obliger le demandeur à fournir une garantie, d’un montant déterminé par lui, en vue de couvrir les droits, au sens de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), les frais de transport et d’entreposage et les autres charges éventuellement applicables, ainsi que les dommages que peut subir, du fait d’une telle ordonnance, le propriétaire, l’importateur ou le consignataire des marchandises.
+- **(5)** Avant de rendre une ordonnance au titre de l’alinéa (1)a), le tribunal peut obliger le demandeur à fournir une garantie, d’un montant déterminé par lui, en vue de couvrir les droits, au sens de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), les frais de transport et d’entreposage et les autres charges éventuellement applicables, ainsi que les dommages que peut subir, du fait d’une telle ordonnance, le propriétaire, l’importateur ou le consignataire des produits.
 
 **Demande d’instructions**
 
@@ -195,18 +201,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Permission d’inspecter**
 
-- **(7)** Le ministre de la Sécurité publique et de la Protection civile peut, afin de permettre au demandeur de justifier ses prétentions ou à l’importateur de les réfuter, leur donner la possibilité d’inspecter les marchandises retenues en vertu d’une ordonnance rendue au titre de l’alinéa (1)a).
+- **(7)** Le ministre de la Sécurité publique et de la Protection civile peut, afin de permettre au demandeur de justifier ses prétentions ou à l’importateur de les réfuter, leur donner la possibilité d’inspecter les produits retenus en vertu d’une ordonnance rendue au titre de l’alinéa (1)a).
 
 **Dédouanement**
 
-- **(8)** Sauf disposition contraire d’une ordonnance rendue au titre de l’alinéa (1)a) et sous réserve de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) ou de toute autre loi fédérale prohibant, contrôlant ou réglementant les importations ou les exportations, le ministre de la Sécurité publique et de la Protection civile dédouane, au sens de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), les marchandises retenues en vertu d’une telle ordonnance sans autre avis au demandeur si, dans les deux semaines suivant l’avis prévu au sous-alinéa (1)a)(ii), il n’a pas été avisé qu’une action a été intentée en vue d’obtenir une ordonnance au titre de l’alinéa (1)b).
+- **(8)** Sauf disposition contraire d’une ordonnance rendue au titre de l’alinéa (1)a) et sous réserve de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) ou de toute autre loi fédérale prohibant, contrôlant ou réglementant les importations ou les exportations, le ministre de la Sécurité publique et de la Protection civile dédouane, au sens de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), les produits retenus en vertu d’une telle ordonnance sans autre avis au demandeur si, dans les deux semaines suivant l’avis prévu au sous-alinéa (1)a)(ii), il n’a pas été avisé qu’une action a été intentée en vue d’obtenir une ordonnance au titre de l’alinéa (1)b).
+> 2007, ch. 25, art. 8; 2014, ch. 32, art. 62.
 
 
 
 
-**Exportation de marchandises**
 
-**9** Le tribunal ne peut s’autoriser du paragraphe 5(1) ou de l’alinéa 8(1)b) pour rendre une ordonnance prévoyant l’exportation de marchandises portant une marque olympique ou paralympique que s’il l’assortit d’une condition exigeant que la marque soit enlevée avant l’exportation.
+**Exportation de produits**
+
+**9** Le tribunal ne peut s’autoriser du paragraphe 5(1) ou de l’alinéa 8(1)b) pour rendre une ordonnance prévoyant l’exportation de produits portant une marque olympique ou paralympique que s’il l’assortit d’une condition exigeant que la marque soit enlevée avant l’exportation.
+> 2007, ch. 25, art. 9; 2014, ch. 32, art. 62.
+
 
 
 
