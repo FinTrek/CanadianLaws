@@ -39,28 +39,28 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***adjudicator***[Repealed, 2001, c. 29, s. 72]
 
-***authorized representative*** means
+***authorized representative*** means
 - **(a)** in respect of a Canadian vessel, the person referred to in subsection 14(1);
 - **(b)** in respect of a fleet registered under Part 2, the person referred to in subsection 75.03(5); and
-- **(c)** in respect of a foreign vessel, the master.
+- **(c)** in respect of a foreign vessel, the master. (*représentant autorisé*)
 
-***bare-boat charter*** means a vessel charter agreement under which the charterer has complete possession and control of the vessel, including the right to appoint its master and crew.
+***bare-boat charter*** means a vessel charter agreement under which the charterer has complete possession and control of the vessel, including the right to appoint its master and crew. (*affrètement coque nue*)
 
-***Canadian maritime document*** means a licence, permit, certificate or other document that is issued by the Minister of Transport under Part 1 (General), 3 (Personnel), 4 (Safety), 9 (Pollution Prevention — Department of Transport) or 11 (Enforcement — Department of Transport) to verify that the person to whom or vessel to which it is issued has met requirements under that Part.
+***Canadian maritime document*** means a licence, permit, certificate or other document that is issued by the Minister of Transport under Part 1 (General), 3 (Personnel), 4 (Safety), 9 (Pollution Prevention — Department of Transport) or 11 (Enforcement — Department of Transport) to verify that the person to whom or vessel to which it is issued has met requirements under that Part. (*document maritime canadien*)
 
-***Canadian vessel*** means a vessel that is registered or listed under Part 2 (Registration, Listing and Recording) or that is exempted under the regulations from the registration requirement in subsection 46(1).
+***Canadian vessel*** means a vessel that is registered or listed under Part 2 (Registration, Listing and Recording) or that is exempted under the regulations from the registration requirement in subsection 46(1). (*bâtiment canadien*)
 
-***foreign vessel*** means a vessel that is not a Canadian vessel or a pleasure craft.
+***foreign vessel*** means a vessel that is not a Canadian vessel or a pleasure craft. (*bâtiment étranger*)
 
-***government vessel*** means a vessel that is owned by and is in the service of Her Majesty in right of Canada or a province or that is in the exclusive possession of Her Majesty in that right.
+***government vessel*** means a vessel that is owned by and is in the service of Her Majesty in right of Canada or a province or that is in the exclusive possession of Her Majesty in that right. (*bâtiment d’État*)
 
-***gross tonnage***means the volume of a vessel as determined by a tonnage measurer or calculated in accordance with the regulations made under paragraph 77(h).
+***gross tonnage*** means the volume of a vessel as determined by a tonnage measurer or calculated in accordance with the regulations made under paragraph 77(h). (*jauge brute*)
 
-***master*** means the person in command and charge of a vessel. It does not include a licensed pilot, within the meaning of section 1.1 of the [Pilotage Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-14.md), while the pilot is performing pilotage duties under that Act.
+***master*** means the person in command and charge of a vessel. It does not include a licensed pilot, within the meaning of section 1.1 of the [Pilotage Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-14.md), while the pilot is performing pilotage duties under that Act. (*capitaine*)
 
-***oil handling facility*** means a facility, including an oil terminal, that is used in the loading or unloading of petroleum in any form, including crude oil, fuel oil, sludge, oil refuse and refined products, to or from vessels.
+***oil handling facility*** means a facility, including an oil terminal, that is used or that will be used in the loading or unloading of petroleum in any form, including crude oil, fuel oil, sludge, oil refuse and refined products, to or from vessels. (*installation de manutention d’hydrocarbures*)
 
-***passenger*** means a person carried on a vessel by the owner or operator, other than
+***passenger*** means a person carried on a vessel by the owner or operator, other than
 - **(a)** a person carried on a Safety Convention vessel who is
 	- **(i)** the master, a member of the crew or a person employed or engaged in any capacity on board the vessel on the business of that vessel, or
 	- **(ii)** under one year of age;
@@ -68,26 +68,26 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(i)** the master, a member of the crew or a person employed or engaged in any capacity on board the vessel on the business of that vessel, or
 	- **(ii)** a guest on board the vessel, if the vessel is used exclusively for pleasure and the guest is carried on it without remuneration or any object of profit;
 - **(c)** a person carried on a vessel in pursuance of the obligation on the master to carry shipwrecked, distressed or other persons or by reason of any circumstances that neither the master nor the owner could have prevented; or
-- **(d)** a person of a prescribed class.
+- **(d)** a person of a prescribed class. (*passager*)
 
-***pleasure craft*** means a vessel that is used for pleasure and does not carry passengers, and includes a vessel of a prescribed class.
+***pleasure craft*** means a vessel that is used for pleasure and does not carry passengers, and includes a vessel of a prescribed class. (*embarcation de plaisance*)
 
-Version anglaise seulement***prescribed*** means prescribed by regulations made by the Governor in Council.
+***prescribed*** means prescribed by regulations made by the Governor in Council. (***Version anglaise seulement***)
 
-***qualified person*** means
+***qualified person*** means
 - **(a)** a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md); or
-- **(b)** a corporation incorporated under the laws of Canada or a province.
+- **(b)** a corporation incorporated under the laws of Canada or a province. (*personne qualifiée*)
 
-***Register*** means the Canadian Register of Vessels established under section 43.
+***Register*** means the Canadian Register of Vessels established under section 43. (*Registre*)
 
-***Safety Convention vessel*** means a vessel in respect of which the International Convention for the Safety of Life at Sea, listed in Schedule 1, applies.
+***Safety Convention vessel*** means a vessel in respect of which the International Convention for the Safety of Life at Sea, listed in Schedule 1, applies. (*bâtiment assujetti à la Convention sur la sécurité*)
 
-***Tribunal*** means the Transportation Appeal Tribunal of Canada established by subsection 2(1) of the [Transportation Appeal Tribunal of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2029.md).
+***Tribunal*** means the Transportation Appeal Tribunal of Canada established by subsection 2(1) of the [Transportation Appeal Tribunal of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2029.md). (*Tribunal*)
 
-***vessel*** means a boat, ship or craft designed, used or capable of being used solely or partly for navigation in, on, through or immediately above water, without regard to method or lack of propulsion, and includes such a vessel that is under construction. It does not include a floating object of a prescribed class.
+***vessel*** means a boat, ship or craft designed, used or capable of being used solely or partly for navigation in, on, through or immediately above water, without regard to method or lack of propulsion, and includes such a vessel that is under construction. It does not include a floating object of a prescribed class. (*bâtiment*)
 
-***wages*** includes emoluments.
-> 2001, c. 26, ss. 2, 323, c. 29, s. 72; 2011, c. 15, s. 37.
+***wages*** includes emoluments. (*gages*)
+> 2001, c. 26, ss. 2, 323, c. 29, s. 72; 2011, c. 15, s. 37; 2014, c. 29, s. 58.
 
 
 
@@ -234,6 +234,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 	- **(a)** inspections of hulls;
 	- **(b)** inspections of machinery;
 	- **(c)** inspections of equipment;
+	- **(c.1)** inspections respecting pollution prevention for the purpose of Part 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans);
 	- **(d)** inspections respecting the protection of the marine environment for the purpose of Part 9 (Pollution Prevention — Department of Transport); and
 	- **(e)** inspections of cargo.
 
@@ -248,6 +249,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 **Immunity**
 
 - **(5)** Marine safety inspectors are not personally liable for anything they do or omit to do in good faith under this Act.
+> 2001, c. 26, s. 11; 2014, c. 29, s. 59.
+
 
 
 
@@ -3468,6 +3471,35 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 
 
+**Update or revise plans**
+
+**168.1** Despite any other provision of this Part or the regulations, the Minister may direct the operator of an oil handling facility to update or revise an oil pollution prevention plan or an oil pollution emergency plan and to submit the up-to-date or revised plan to the Minister within the time specified by the Minister.
+> 2014, c. 29, s. 63.
+
+
+
+
+
+**Provide information**
+
+**168.2** A marine safety inspector may direct any person to provide the inspector with any information that the inspector reasonably requires in the administration of this Part.
+> 2014, c. 29, s. 63.
+
+
+
+
+
+**Minister may take measures**
+
+**168.3** If the Minister believes on reasonable grounds that an oil handling facility has discharged, is discharging or is likely to discharge oil, that the oil pollution prevention plan or the oil pollution emergency plan for an oil handling facility does not meet the requirements set out in the regulations or that the operator of an oil handling facility does not have the procedures, equipment and resources required by the regulations available for immediate use in the event of a discharge of oil during the loading or unloading of a vessel, the Minister may
+- **(a)** monitor the measures taken by any person to repair, remedy, minimize or prevent pollution damage from the oil handling facility; or
+- **(b)** if he or she considers it necessary, direct the operator of the oil handling facility to take the measures that the Minister considers necessary to repair, remedy, minimize or prevent pollution damage from the oil handling facility, including to stop loading or unloading oil to or from vessels.
+> 2014, c. 29, s. 63.
+
+
+
+
+
 ### Response Organizations
 
 
@@ -3549,6 +3581,15 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 
 
+**Provide documents**
+
+**171.1** A marine safety inspector may direct a response organization to provide the inspector with any document that the organization is required to have under this Part.
+> 2014, c. 29, s. 64.
+
+
+
+
+
 ### Advisory Councils
 
 
@@ -3597,25 +3638,10 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 
 
-### Pollution Prevention Officers and Pollution Response Officers
+### Pollution Response Officers
 
 
-
-**Designation of pollution prevention officers**
-
-**174** 
-
-- **(1)** The Minister may designate any persons or classes of persons as pollution prevention officers in respect of oil handling facilities and response organizations and may limit in any manner that he or she considers appropriate the powers that the officers may exercise under this Part.
-
-**Certificate of designation**
-
-- **(2)** The Minister must furnish every pollution prevention officer with a certificate of designation and, if the officer’s powers are limited under subsection (1), the certificate must specify the powers that the officer may exercise.
-
-**Immunity**
-
-- **(3)** Pollution prevention officers are not personally liable for anything they do or omit to do in good faith under this Part.
-> 2001, c. 26, s. 174; 2005, c. 29, s. 23.
-
+**174** [Repealed, 2014, c. 29, s. 65]
 
 
 
@@ -3638,16 +3664,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 
 
-
-**Powers of pollution prevention officers**
-
-**175** A pollution prevention officer may
-- **(a)** direct the operator of an oil handling facility to provide him or her with any document that the operator is required to have on site under this Part;
-- **(b)** direct a response organization to provide him or her with any document that the organization is required to have under this Part;
-- **(c)** inspect an oil handling facility to determine whether its equipment and resources meet the requirements of this Part; and
-- **(d)** inspect a response organization’s facilities to determine whether the organization’s equipment and resources meet the requirements of this Part.
-> 2001, c. 26, s. 175; 2005, c. 29, s. 23.
-
+**175** [Repealed, 2014, c. 29, s. 66]
 
 
 
@@ -3702,11 +3719,11 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 
 
-**Assistance to pollution prevention officer**
+**Powers of pollution response officer**
 
 **176** 
 
-- **(1)** For the purpose of exercising his or her powers under this Part, a pollution prevention officer or a pollution response officer may
+- **(1)** For the purpose of exercising his or her powers under this Part, a pollution response officer may
 	- **(a)** board any vessel or enter any premises or other place at any reasonable time;
 	- **(b)** direct any person to provide reasonable assistance or put into operation or cease operating any machinery or equipment;
 	- **(c)** direct any person to provide any information that the officer may reasonably require in the administration of this Part;
@@ -3723,7 +3740,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **Authority to issue warrant**
 
-- **(3)** On *ex parte* application, a justice, within the meaning of section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), may issue a warrant authorizing a pollution prevention officer or a pollution response officer to enter living quarters, subject to any conditions that may be specified in the warrant, if the justice is satisfied by information on oath that entry to the living quarters
+- **(3)** On *ex parte* application, a justice of the peace may issue a warrant authorizing a pollution response officer to enter living quarters, subject to any conditions that may be specified in the warrant, if the justice is satisfied by information on oath that entry to the living quarters
 	- **(a)** is necessary for any purpose related to the carrying out of the officer’s powers under this Part; and
 	- **(b)** has been refused or there are reasonable grounds for believing that it will be refused.
 
@@ -3734,7 +3751,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Return of documents and things**
 
 - **(5)** Documents or other things taken under paragraph (1)(h) must be returned as soon as feasible after they are no longer required for the inspection or for any proceedings that may result from it.
-> 2001, c. 26, s. 176; 2005, c. 29, s. 24.
+> 2001, c. 26, s. 176; 2005, c. 29, s. 24; 2014, c. 29, s. 67.
 
 
 
@@ -3852,7 +3869,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **Civil or criminal liability**
 
-- **(2)** Response organizations and persons who have been designated in writing by the Minister as approved responders are not personally liable, either civilly or criminally, in respect of any act or omission occurring or arising during the course of a response operation unless it is shown that the act or omission was committed with the intent to cause loss or damage, or recklessly and with the knowledge that loss or damage would probably result.
+- **(2)** Response organizations, their agents or mandataries, and persons who have been designated in writing by the Minister as approved responders, are not personally liable, either civilly or criminally, in respect of any act or omission occurring or arising during the course of a response operation unless it is shown that the act or omission was committed with the intent to cause loss or damage, or recklessly and with the knowledge that loss or damage would probably result.
 
 **Exception**
 
@@ -3860,7 +3877,9 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **Definition of response operation**
 
-- **(4)** In this section, ***response operation*** means the activities undertaken following a discharge, or a grave and imminent threat of a discharge, from a vessel, including activities related to or connected with surveillance of and assessing areas of pollution, mobilizing and demobilizing response equipment and resources, protective booming, containment, recovery, dispersal or destruction of the pollutant, shoreline mitigation and restoration, transporting and disposing of recovered pollutant or waste materials and planning and supervising activities related to the response operation.
+- **(4)** In this section, ***response operation*** means the activities undertaken following a discharge, or a grave and imminent threat of a discharge, from a vessel or an oil handling facility, including activities related to or connected with surveillance of and assessing areas of pollution, mobilizing and demobilizing response equipment and resources, protective booming, containment, recovery, dispersal or destruction of the pollutant, shoreline mitigation and restoration, transporting and disposing of recovered pollutant or waste materials and planning and supervising activities related to the response operation.
+> 2001, c. 26, s. 181; 2014, c. 29, s. 68.
+
 
 
 
@@ -3895,6 +3914,8 @@ It includes oil and any substance or class of substances that is prescribed for 
 	- **(c)** paragraph 168(1)(e) (have procedures, equipment and resources available for immediate use);
 	- **(d)** paragraph 168(3)(a) (implement oil pollution prevention plan);
 	- **(e)** paragraph 168(3)(b) (implement oil pollution emergency plan);
+	- **(e.1)** a direction given under section 168.1 (to update or revise plans);
+	- **(e.2)** a direction given under paragraph 168.3(b) (to take measures);
 	- **(f)** paragraph 171(b) (have equipment and resources at the site);
 	- **(g)** paragraph 171(e) (implement response plan);
 	- **(h)** a direction given under paragraph 175.1(2)(a), (c) or (d) (direction resulting from a discharge or possible discharge of a pollutant);
@@ -3906,7 +3927,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Punishment**
 
 - **(2)** Every person who, or vessel that, commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $1,000,000 or to imprisonment for a term of not more than eighteen months, or to both.
-> 2001, c. 26, s. 183; 2005, c. 29, s. 28.
+> 2001, c. 26, s. 183; 2005, c. 29, s. 28; 2014, c. 29, s. 70.
 
 
 
@@ -3921,14 +3942,16 @@ It includes oil and any substance or class of substances that is prescribed for 
 	- **(b)** paragraph 168(1)(b) (have a declaration on site);
 	- **(c)** paragraph 168(1)(c) (have oil pollution prevention plan on site);
 	- **(d)** paragraph 168(1)(d) (have oil pollution emergency plan on site);
+	- **(d.1)** a direction given under section 168.2 (to provide information);
 	- **(e)** paragraph 171(a) (have a response plan);
 	- **(f)** paragraph 171(c) (provide or arrange for training);
 	- **(g)** paragraph 171(d) (undertake and participate in activities to evaluate response plan);
 	- **(h)** paragraph 171(f) (provide information);
-	- **(i)** a direction given under paragraph 175(1)(a) (to provide information officer considers appropriate);
-	- **(j)** a direction given under paragraph 175(1)(b) (to proceed by a route and not in excess of a speed);
-	- **(k)** a direction given under paragraph 175(1)(c) (to provide information relating to pollution plan);
-	- **(l)** a direction given under paragraph 175(1)(d) or (e) (to provide documents);
+	- **(h.1)** a direction given under section 171.1 (to provide documents);
+	- **(i)** a direction given under paragraph 175.1(1)(a) (to provide information officer considers appropriate);
+	- **(j)** a direction given under paragraph 175.1(1)(b) (to proceed by a route and not in excess of a speed);
+	- **(k)** a direction given under paragraph 175.1(1)(c) (to provide information relating to pollution plan);
+	- **(l)** a direction given under paragraph 175.1(1)(d) or (e) (to provide documents);
 	- **(m)** a direction given under paragraph 176(1)(b) (to provide reasonable assistance);
 	- **(n)** a direction given under paragraph 176(1)(c) or (d) (to provide information or to produce documents for inspection); and
 	- **(o)** a provision of the regulations made under this Part.
@@ -3936,6 +3959,8 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Punishment**
 
 - **(2)** Every person who, or vessel that, commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both.
+> 2001, c. 26, s. 184; 2014, c. 29, s. 71.
+
 
 
 
@@ -4418,12 +4443,12 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **210** The definitions in this section apply in this Part.
 
-***Minister*** means the Minister of Transport.
+***Minister*** means the Minister of Transport. (*ministre*)
 
-***relevant provision*** means a provision of this Act or the regulations that the Minister is responsible for administering, other than
-- **(a)** subsection 40(1) with respect to a provision of regulations made under paragraph 35(1)(e) in relation to any of Parts 7 (Wreck), 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans) and 10 (Pleasure Craft); and
-- **(b)** a provision of any of Parts 5 (Navigation Services), 7 (Wreck), 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans) and 10 (Pleasure Craft) or a provision of any regulation made under any of those Parts, except a provision of the regulations made under paragraph 136(1)(f) in so far as it applies in respect of Canadian vessels or foreign vessels.
-> 2001, c. 26, s. 210; 2005, c. 29, s. 32.
+***relevant provision*** means a provision of this Act or the regulations that the Minister is responsible for administering, other than
+- **(a)** subsection 40(1) with respect to a provision of regulations made under paragraph 35(1)(e) in relation to Part 7 (Wreck) or 10 (Pleasure Craft); and
+- **(b)** a provision of any of Parts 5 (Navigation Services), 7 (Wreck) and 10 (Pleasure Craft) or a provision of any regulation made under any of those Parts, except a provision of the regulations made under paragraph 136(1)(f) in so far as it applies in respect of Canadian vessels or foreign vessels. (*disposition visée*)
+> 2001, c. 26, s. 210; 2005, c. 29, s. 32; 2014, c. 29, s. 72.
 
 
 
@@ -4441,7 +4466,17 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **Living quarters**
 
-- **(2)** Living quarters may not be entered under subsection (1) unless they are entered with the consent of the occupant or for the purpose of ensuring that the vessel complies with a relevant provision.
+- **(2)** Living quarters may not be entered under subsection (1) unless they are entered with the consent of the occupant, under the authority of a warrant issued under subsection (2.1) or for the purpose of ensuring that a vessel complies with a relevant provision.
+
+**Authority to issue warrant**
+
+- **(2.1)** On *ex parte* application, a justice of the peace may issue a warrant authorizing a marine safety inspector to enter living quarters, subject to any conditions specified in the warrant, if the justice is satisfied by information on oath that entry to the living quarters
+	- **(a)** is necessary for any purpose related to the administration of a relevant provision of Part 8; and
+	- **(b)** has been refused or there are reasonable grounds for believing that it will be refused.
+
+**Use of force**
+
+- **(2.2)** A marine safety inspector executing a warrant must not use force unless they are accompanied by a peace officer and the use of force is specifically authorized in the warrant.
 
 **Stopping a vessel**
 
@@ -4450,11 +4485,12 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Inspections**
 
 - **(4)** In carrying out an inspection, a marine safety inspector or, subject to any limitations set out under subsection 12(2) in their certificate of authorization, a person, classification society or other organization authorized to carry out inspections may
-	- **(a)** direct any person to answer reasonable questions, provide reasonable assistance or put into operation or cease operating any machinery or equipment on a vessel being inspected;
+	- **(a)** direct any person to answer reasonable questions, provide reasonable assistance or put into operation or cease operating any machinery or equipment being inspected;
 	- **(b)** direct the master of a vessel to prohibit or limit access to any part of the vessel for as long as specified;
 	- **(c)** direct the master of a vessel not to move the vessel until the inspection is completed;
 	- **(d)** direct the master of a vessel to muster the crew or to carry out any emergency or safety procedure required by the regulations;
-	- **(e)** direct any person who is at the place where the inspection is being carried out to produce for inspection, or for the purpose of making copies or taking extracts, any document that they are required to have under a relevant provision;
+	- **(d.1)** direct the operator of an oil handling facility, or a person who proposes to operate an oil handling facility, to carry out any emergency or safety procedure that is required by the regulations or that is described in an oil pollution prevention plan or an oil pollution emergency plan referred to in Part 8;
+	- **(e)** direct any person who is at the place where the inspection is being carried out to produce for inspection, or for the purpose of making copies or taking extracts, any document that they are required to have, or that the operator of an oil handling facility is required to have on site, under a relevant provision;
 	- **(f)** take photographs and make video recordings and sketches;
 	- **(g)** take or remove for analysis samples of any material or substance or any biological, chemical or physical agents or substances;
 	- **(h)** use or cause to be used any computer system or data processing system at the place where the inspection is being carried out to examine any data contained in, or available to, the system;
@@ -4469,6 +4505,8 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Return of documents and things**
 
 - **(6)** Documents or other things taken under paragraph (4)(j) must be returned as soon as feasible after they are no longer required for the purpose for which they were taken.
+> 2001, c. 26, s. 211; 2014, c. 29, s. 73.
+
 
 
 
@@ -4798,7 +4836,9 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **Definition of violation**
 
-**228** In sections 229 to 244, ***violation*** means a contravention of a relevant provision that is designated as a violation by the regulations made under this Part.
+**228** In sections 229 to 244, ***violation*** means a contravention of a relevant provision, or a contravention of a direction given under a relevant provision, that is designated as a violation by the regulations made under this Part.
+> 2001, c. 26, s. 228; 2014, c. 29, s. 74.
+
 
 
 
@@ -5153,13 +5193,13 @@ It includes oil and any substance or class of substances that is prescribed for 
 - **(c)** respecting the detention of vessels, including the review of detention orders;
 - **(d)** specifying the circumstances in which a vessel is deemed abandoned;
 - **(e)** respecting the sale of a vessel under section 226, including measures that must be taken before the vessel is sold and the manner of establishing, and the priority of payment of, claims against the vessel;
-- **(f)** designating as a violation that may be proceeded with in accordance with sections 229 to 242 the contravention of a relevant provision that is an offence under this Act;
+- **(f)** designating as a violation that may be proceeded with in accordance with sections 229 to 242 the contravention of a relevant provision, or the contravention of a direction given under a relevant provision, that is an offence under this Act;
 - **(g)** designating violations that, if continued on more than one day, constitute a separate violation for each day on which they are continued;
 - **(h)** designating violations that may be proceeded with by issuing notices of violation and fixing a penalty or a range of penalties in respect of each such violation, up to a maximum of $25,000 but in any event not greater than the maximum fine if the violation were proceeded with by way of summary conviction;
-- **(i)** [Repealed, 2001, c. 29, s. 72]
+- **(i)** respecting emergency and safety procedures for the purpose of paragraph 211(4)(d.1);
 - **(j)** respecting the service of documents required or authorized to be served under this Part, including the manner of serving them, the proof of their service and the circumstances under which they are deemed to have been served; and
 - **(k)** prescribing anything that by this Part is to be prescribed.
-> 2001, c. 26, s. 244, c. 29, s. 72.
+> 2001, c. 26, s. 244, c. 29, s. 72; 2014, c. 29, s. 75.
 
 
 
@@ -5302,12 +5342,12 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **252** 
 
-- **(1)** In a prosecution of a vessel for an offence under this Act, it is sufficient proof that the vessel has committed the offence to establish that the act or omission that constitutes the offence was committed by the master or any person on board, other than a person carrying out an inspection under this Act, a pollution prevention officer or a pollution response officer, whether or not the person on board has been identified.
+- **(1)** In a prosecution of a vessel for an offence under this Act, it is sufficient proof that the vessel has committed the offence to establish that the act or omission that constitutes the offence was committed by the master or any person on board, other than a person carrying out an inspection under this Act or a pollution response officer, whether or not the person on board has been identified.
 
 **Directions**
 
 - **(2)** For the purpose of prosecuting a vessel for contravening a direction given under this Act, a direction given to the master, a crew member or any person on board who is, or appears to be, in charge of the vessel, is deemed to have been given to the vessel.
-> 2001, c. 26, s. 252; 2005, c. 29, s. 33.
+> 2001, c. 26, s. 252; 2005, c. 29, s. 33; 2014, c. 29, s. 76.
 
 
 
@@ -5545,7 +5585,9 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **Crown not relieved**
 
-**268.1** Subsections 11(5) and 12(5), section 45 and subsections 154(3), 174(3) and 195(3) do not, by reason of section 10 of the [Crown Liability and Proceedings Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-50.md), relieve the Crown of liability in respect of a tort or extracontractual civil liability to which the Crown would otherwise be subject.
+**268.1** Subsections 11(5) and 12(5), section 45 and subsections 154(3) and 195(3) do not, by reason of section 10 of the [Crown Liability and Proceedings Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-50.md), relieve the Crown of liability in respect of a tort or extracontractual civil liability to which the Crown would otherwise be subject.
+> 2001, c. 26, s. 268.1; 2014, c. 29, s. 77.
+
 
 
 
