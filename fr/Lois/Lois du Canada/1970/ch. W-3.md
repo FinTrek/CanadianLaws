@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/1970/c.%20W-3.md)
 
-# Loi sur les risques de guerre en matière d’assurance maritime et aérienne
+# Loi sur les risques de guerre en matière d’assurance maritime
 
 **L.C. 1970, ch. W-3**
 
@@ -11,8 +11,8 @@
 
 **Titre abrégé**
 
-**1** La présente loi peut être citée sous le titre : Loi sur les risques de guerre en matière d’assurance maritime et aérienne.
-> S.R., ch. 328, art. 1.
+**1** Loi sur les risques de guerre en matière d’assurance maritime.
+> S.R. 1970, ch. W-3, art. 1; 2014, ch. 29, art. 4.
 
 
 
@@ -22,31 +22,29 @@
 
 **2** Dans la présente loi
 
-***aéronef*** signifie un aéronef qui est
-- **a)** immatriculé au Canada selon les règlements établis aux termes de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md), ou
-- **b)** immatriculé dans tout pays désigné par le gouverneur en conseil, autre que le Canada;
+***aéronef***[Abrogée, 2014, ch. 29, art. 5]
 
-***Canadien*** désigne
+***Canadien*** désigne
 - **a)** une personne qui est un citoyen canadien,
 - **b)** une compagnie ou corporation créée ou constituée en vertu des lois du Canada ou de l’une de ses provinces ou autorisée par permis, sous le régime de ces lois, à faire des opérations au Canada ou dans l’une de ses provinces, ou
-- **c)** le gouvernement du Canada ou le gouvernement d’une province ou municipalité du Canada, ou un département, une division ou un organisme de l’un quelconque d’entre eux;
+- **c)** le gouvernement du Canada ou le gouvernement d’une province ou municipalité du Canada, ou un département, une division ou un organisme de l’un quelconque d’entre eux; (*Canadian*)
 
-***cargaison*** signifie toutes marchandises ou valeurs, toute monnaie ou tous articles ou choses définis comme cargaison par le gouverneur en conseil;
+***cargaison*** signifie toutes marchandises ou valeurs, toute monnaie ou tous articles ou choses définis comme cargaison par le gouverneur en conseil; (*cargo*)
 
-***compte*** signifie le Compte d’assurance maritime et aérienne contre les risques de guerre, établi en vertu de l’article 5;
+***compte*** Le Compte d’assurance maritime contre les risques de guerre établi en vertu de l’article 5. (*Account*)
 
-***Ministre*** désigne le ministre des Transports;
+***Ministre*** désigne le ministre des Transports; (*Minister*)
 
-***navire*** signifie un vaisseau, un bateau ou autre genre d’embarcation
+***navire*** signifie un vaisseau, un bateau ou autre genre d’embarcation
 - **a)** immatriculé au Canada sous le régime du Code maritime, ou, avant le 1<sup>er</sup> août 1936, aux termes des Merchant Shipping Acts,
 - **b)** immatriculé au Royaume-Uni, et appartenant à un Canadien, affrété par un Canadien ou autrement sous son contrôle,
 - **c)** immatriculé dans tout pays désigné par le gouverneur en conseil, qu’il appartienne ou non à un Canadien, qu’il soit affrété ou non par un Canadien, ou autrement sous son contrôle ou non, ou
 - **d)** appartenant à un Canadien, affrété par un Canadien ou autrement sous son contrôle et employé, au Canada ou en provenance du Canada, au transport, par eau, de marchandises ou de personnes ou à l’entreprise ou à l’industrie de la pêche,
 
-et comprend ses machines, appareils, meubles, marchandises et approvisionnements, mais non sa cargaison;
+et comprend ses machines, appareils, meubles, marchandises et approvisionnements, mais non sa cargaison; (*vessel*)
 
-***risques de guerre*** signifie les risques de perte ou de dommages découlant d’hostilités, de rébellion, de révolution, de guerre civile, de piraterie ou de mesures prises pour repousser une attaque imaginée ou de conflits civils en conséquence de l’un quelconque des événements susmentionnés.
-> S.R., ch. 328, art. 2; DORS/69-267.
+***risques de guerre*** signifie les risques de perte ou de dommages découlant d’hostilités, de rébellion, de révolution, de guerre civile, de piraterie ou de mesures prises pour repousser une attaque imaginée ou de conflits civils en conséquence de l’un quelconque des événements susmentionnés. (*war risks*)
+> S.R. 1970, ch. W-3, art. 2; 2014, ch. 29, art. 5.
 
 
 
@@ -54,11 +52,8 @@ et comprend ses machines, appareils, meubles, marchandises et approvisionnements
 
 **Contrats d’assurance et de réassurance**
 
-**3** Afin d’obtenir que des vaisseaux et aéronefs ne soient pas immobilisés et que le commerce ne soit pas interrompu en raison du manque de facilités d’assurance, le Ministre peut conclure avec toute personne ou association de personnes un contrat, rédigé selon la forme et portant les conditions prescrites par les règlements ou autrement approuvées par le gouverneur en conseil, en vertu duquel il assure ou réassure, contre l’un quelconque ou l’ensemble des risques de guerre,
-- **a)** des aéronefs,
-- **b)** des navires, ou
-- **c)** des cargaisons.
-> S.R., ch. 328, art. 3.
+**3** Le ministre peut, pour empêcher l’immobilisation de vaisseaux et l’interruption du commerce découlant de l’absence d’assurance, conclure avec toute personne ou association de personnes un contrat, rédigé selon la forme et portant les conditions prévues par les règlements ou autrement approuvées par le gouverneur en conseil, en vertu duquel il assure ou réassure des navires ou des cargaisons contre des risques de guerre.
+> S.R. 1970, ch. W-3, art. 3; 2014, ch. 29, art. 6.
 
 
 
@@ -69,18 +64,18 @@ et comprend ses machines, appareils, meubles, marchandises et approvisionnements
 **4** Le gouverneur en conseil peut établir des règlements pour la réalisation des objets et l’application des dispositions de la présente loi et, sans restreindre la généralité de ce qui précède, il peut établir des règlements
 - **a)** concernant la nature des assurances et réassurances à effectuer sous le régime de la présente loi, ainsi que la forme et les conditions des contrats et autres matières s’y rattachant;
 - **b)** prévoyant la définition de la cargaison, y compris la description, par catégorie ou articles particuliers et à des fins générales ou spécifiques, des marchandises, valeurs, monnaie, articles ou choses qui constituent une cargaison, l’endroit et l’époque où ils deviennent cargaison ou cessent de l’être, et toute autre matière relative à la façon de déterminer la cargaison; et
-- **c)** concernant la désignation des pays d’immatriculation aux fins de l’alinéa b) de la définition de ***aéronef*** à l’article 2 et de l’alinéa c) de la définition de ***navire*** à l’article 2.
-> S.R., ch. 328, art. 4.
+- **c)** concernant la désignation des pays d’immatriculation pour l’application de l’alinéa c) de la définition de ***navire*** à l’article 2.
+> S.R. 1970, ch. W-3, art. 4; 2014, ch. 29, art. 7.
 
 
 
 
 
-**Compte d’assurance maritime et aérienne contre les risques de guerre**
+**Compte d’assurance maritime contre les risques de guerre**
 
 **5** 
 
-- **(1)** Est établi, au Fonds du revenu consolidé, un compte appelé Compte d’assurance maritime et aérienne contre les risques de guerre, ci-après appelé le « compte », auquel doivent être crédités :
+- **(1)** Est ouvert parmi les comptes du Canada un compte intitulé « Compte d’assurance maritime contre les risques de guerre », auquel sont crédités :
 	- **a)** des montants égaux aux primes et autres sommes reçues à l’égard ou en raison de contrats d’assurance ou de réassurance conclus d’après la présente loi;
 	- **b)** toutes les sommes assignées au compte sur les crédits votés par le Parlement; et
 	- **c)** les montants que le Ministre ordonne de créditer au compte, sous l’autorité de l’article 6.
@@ -92,7 +87,7 @@ et comprend ses machines, appareils, meubles, marchandises et approvisionnements
 **Imputations**
 
 - **(3)** Toutes les sommes payées à même le Fonds du revenu consolidé en vertu du paragraphe (2), ainsi que toutes les sommes dont le Ministre ordonne l’imputation sur le compte aux termes de l’article 6, doivent être imputées sur le compte.
-> S.R., ch. 328, art. 5.
+> S.R. 1970, ch. W-3, art. 5; 2014, ch. 29, art. 8.
 
 
 
