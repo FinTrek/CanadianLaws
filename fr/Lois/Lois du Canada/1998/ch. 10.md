@@ -398,7 +398,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Prise d’effet**
 
-- **(2.2)** La nomination d’un administrateur prend effet à la date où l’avis de nomination est reçu par l’administration portuaire.
+- **(2.2)** La nomination d’un administrateur par toute municipalité ou province prend effet à la date où l’avis de nomination est reçu par l’administration portuaire.
 
 **Prolongation du mandat**
 
@@ -423,7 +423,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Quorum**
 
 - **(6)** Sous réserve des lettres patentes, la majorité des administrateurs en fonction constitue le quorum; lorsque celui-ci est atteint, les administrateurs peuvent exercer leurs fonctions.
-> 1998, ch. 10, art. 14; 2008, ch. 21, art. 10.
+> 1998, ch. 10, art. 14; 2008, ch. 21, art. 10; 2014, ch. 29, art. 27.
 
 
 
