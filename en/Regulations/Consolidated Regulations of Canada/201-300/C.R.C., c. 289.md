@@ -46,7 +46,7 @@ Enabling authorities:
 
 ***edible*** means fit for use as human food; (*version anglaise seulement*)
 
-***Executive Director*** means the Executive Director designated by the President of the Agency; (*directeur exécutif*)
+***Executive Director***[Repealed, SOR/2014-297, s. 1]
 
 ***first dealer*** means any person who acquires for sale under their own label maple products packed by another person; (*premier commerçant*)
 
@@ -54,7 +54,7 @@ Enabling authorities:
 
 ***food additive*** has the same meaning as in section B.01.001 of Part B of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md); (*additif alimentaire*)
 
-***grade*** means a grade established by section 4 for maple syrup; (*catégorie*)
+***grade***[Repealed, SOR/2014-297, s. 1]
 
 ***grade name***[Revoked, SOR/91-371, s. 1]
 
@@ -66,7 +66,7 @@ Enabling authorities:
 
 ***maple sap*** means the sap obtained exclusively from trees of the botanical genus *Acer*; (*sève d’érable*)
 
-***maple syrup*** means the syrup obtained by the concentration of maple sap or by the dilution or solution of a maple product, other than maple sap, in potable water; (*sirop d’érable*)
+***maple syrup*** means the syrup obtained exclusively by the concentration of maple sap or by the dilution or solution of a maple product, other than maple sap, in potable water; (*sirop d’érable*)
 
 ***maple syrup shipper***[Revoked, SOR/91-371, s. 1]
 
@@ -97,7 +97,7 @@ Enabling authorities:
 ***sugar bush establishment*** means an establishment in which the preparation of maple products directly from maple sap, including colour classification, takes place. (*établissement d’une érablière*) 
 
 ***sugar bush operator***[Revoked, SOR/91-371, s. 1]
-> SOR/81-577, s. 1; SOR/85-264, s. 1; SOR/89-267, s. 1; SOR/91-371, s. 1; SOR/91-523, s. 1; SOR/97-292, s. 10; SOR/97-302, s. 1; SOR/2000-184, s. 13; SOR/2003-6, s. 33; SOR/2004-80, s. 2; SOR/2011-205, s. 16.
+> SOR/81-577, s. 1; SOR/85-264, s. 1; SOR/89-267, s. 1; SOR/91-371, s. 1; SOR/91-523, s. 1; SOR/97-292, s. 10; SOR/97-302, s. 1; SOR/2000-184, s. 13; SOR/2003-6, s. 33; SOR/2004-80, s. 2; SOR/2011-205, s. 16; SOR/2014-297, s. 1.
 
 
 
@@ -157,14 +157,40 @@ Enabling authorities:
 
 
 **PART I** 
-## Grades and Grading
+## Maple Syrup Grade Names
 
 
-**4** 
 
-- **(1)** There shall be three grades of maple syrup with the grade names “Canada No. 1”, “Canada No. 2” and “Canada No. 3”.
+### Canadian Maple Syrup
 
-- **(2)** The requirements set out in Schedule I are hereby prescribed as the requirements for the grades of maple syrup established by subsection (1).
+
+**4** The grade names “Canada Grade A” and “Canada Processing Grade” are prescribed for Canadian maple syrup and may be used only if the maple syrup meets the requirements set out in Schedule I.
+> SOR/2014-297, s. 2.
+
+
+
+
+
+### Imported Maple Syrup
+
+
+**4.1** The grade names “Grade A” and “Processing Grade” are prescribed for imported maple syrup and may be used only if the imported maple syrup meets the applicable requirements for the equivalent maple syrup “Canada Grade A” and “Canada Processing Grade”, respectively.
+> SOR/2014-297, s. 2.
+
+
+
+
+
+### Exception
+
+
+**4.2** 
+
+- **(1)** The grade names set out in section 4 for Canadian maple syrup may be used for any imported maple syrup that has been prepared in a registered establishment other than a sugar bush establishment.
+
+- **(2)** For greater certainty, this provision does not limit the application of section 19.
+> SOR/2014-297, s. 2.
+
 
 
 
@@ -173,25 +199,21 @@ Enabling authorities:
 - **(1)** Maple syrup may be graded only if
 	- **(a)** it is produced exclusively by the concentration of maple sap or by the dilution or solution of a maple product, other than maple sap, in potable water;
 	- **(b)** it is clean, wholesome and fit for human consumption;
-	- **(c)** it is free from any defect or deterioration affecting its edibility, appearance or shipping quality;
+	- **(c)** [Repealed, SOR/2014-297, s. 3]
 	- **(d)** [Revoked, SOR/89-267, s. 2]
-	- **(e)** it has a minimum soluble solids content of 66 per cent as determined by a refractometer or hydrometer at 20°C; and
-	- **(f)** its colour class has been determined in accordance with Schedule III.
+	- **(e)** it has a minimum soluble solids content of 66 per cent and has a maximum soluble solids content of 68.9 per cent as determined by a refractometer or hydrometer at 20°C; and
+	- **(f)** in the case of maple syrup that is graded as “Canada Grade A”, its colour class has been determined in accordance with Schedule III.
 
 - **(2)** Maple syrup shall be graded in
 	- **(a)** a registered establishment; or
 	- **(b)** any place, where it is graded by or on behalf of the operator of a registered maple syrup shipper establishment.
-> SOR/81-577, s. 2; SOR/86-418, s. 1; SOR/89-267, s. 2; SOR/91-371, s. 2.
+> SOR/81-577, s. 2; SOR/86-418, s. 1; SOR/89-267, s. 2; SOR/91-371, s. 2; SOR/2014-297, s. 3.
 
 
 
 
-**5.1** 
-
-- **(1)** Subject to subsection (2), no person other than a grader shall grade maple syrup.
-
-- **(2)** Maple syrup may be graded by the operator or an employee of a registered establishment if the grading is carried out under the supervision of a grader.
-> SOR/91-371, s. 3.
+**5.1** Maple syrup may be graded by a grader or the operator. It may also be graded by a person designated by the operator or an employee of a registered establishment under the supervision of a grader or the operator.
+> SOR/91-371, s. 3; SOR/2014-297, s. 4.
 
 
 
@@ -380,14 +402,14 @@ shall be new.
 
 - **(5)** For the purposes of this section, the net quantity of maple syrup in a container shall be determined by the method described in Schedule V.
 
-- **(6)** Every container of maple syrup or maple sugar marked with a grade name shall
+- **(6)** Every container of maple syrup marked with a grade name or every container of maple sugar shall
 	- **(a)** be filled to at least 90 per cent of its capacity; and
 	- **(b)** contain at least the net quantity of maple syrup or maple sugar that is marked on its label.
 
 - **(7)** Every container of maple syrup shall be capable of being securely closed by means of a screw-cap, friction lid or hermetically sealed lid, bung or similar device.
 
 - **(8) and (9)** [Revoked, SOR/81-577, s. 4]
-> SOR/81-577, s. 4; SOR/92-497, s. 1.
+> SOR/81-577, s. 4; SOR/92-497, s. 1; SOR/2014-297, s. 5.
 
 
 
@@ -404,23 +426,24 @@ shall be new.
 **12** 
 
 - **(1)** Every container of maple syrup that is graded under these Regulations shall bear a label marked
-	- **(a)** with the words “maple syrup” and “sirop d’érable”;
-	- **(b)** with the grade name on the same panel as the name of the product and in letters of a size set out in Schedule IV;
-	- **(c)** with the name of the colour class in English and French adjacent to the grade name and in letters of a size set out in Schedule IV;
-	- **(d)** with a true and correct declaration of net quantity expressed in litres or, where less than one litre, in millilitres;
+	- **(a)** with the words “maple syrup”;
+	- **(b)** with the grade name on the same panel as the name of the product and in letters of a size set out in Schedule IV;
+	- **(c)** in the case of maple syrup that is “Canada Grade A”, with the name of the colour class in English and French;
+	- **(d)** with the net quantity expressed in litres or, if less than one litre, in millilitres;
 	- **(e)** with
 		- **(i)** the name and address of the sugar bush establishment, the packing establishment or the maple syrup shipper establishment, or
-		- **(ii)** the name and address of the first dealer and the registration number of the packing establishment.
+		- **(ii)** the name and address of the first dealer and the registration number of the packing establishment; and
+	- **(f)** with the lot number or the production code.
 
 - **(2)** Where the area of the principal display surface of a label is that set out in Column I of an item of Schedule IV, letters with the minimum height set out in Column II of the item shall be used.
 
 - **(3)** Every container of a maple product, other than maple syrup, that is shipped in interprovincial or international trade shall bear a label marked
 	- **(a)** with the name of the contents;
-	- **(b)** with a true and correct declaration of net quantity expressed in kilograms or, where less than one kilogram, in grams; and
+	- **(b)** with the net quantity expressed in kilograms or, if less than one kilogram, in grams; and
 	- **(c)** with
 		- **(i)** the name and address of the sugar bush establishment or the packing establishment, or
 		- **(ii)** the name and address of the first dealer and the registration number of the packing establishment.
-> SOR/91-371, s. 5.
+> SOR/91-371, s. 5; SOR/2014-297, s. 6.
 
 
 
@@ -558,33 +581,31 @@ shall be new.
 
 **19** 
 
-- **(1)** No person shall import into Canada
-	- **(a)** any maple syrup packed in containers that have a capacity of 5 L or less unless
-		- **(i)** it is marked with one of the grade designations No. 1, No. 2 or No. 3 on the same panel of the label as the name of the product and in letters of a size set out in Schedule IV,
-		- **(ii)** it complies with standards that are equivalent to the grade requirements set out in Schedule I for the grade whose number corresponds to the number of its grade designation,
-		- **(iii)** it is marked with the name of its colour class in English and French adjacent to the grade name and in letters of a size set out in Schedule IV,
-		- **(iv)** the percentage of light transmission of the maple syrup is as required by Schedule III for the colour class with which it is marked,
-		- **(v)** it is packed in the manner set out in section 10, and
-		- **(vi)** it bears a label marked
-			- **(A)** with the name of the contents,
-			- **(B)** with a true and correct declaration of net quantity expressed in litres or, where less than a litre, in millilitres,
-			- **(C)** with the name and address of the packer or importer, and
-			- **(D)** with a declaration of the country of origin; or
-	- **(b)** any maple product other than maple syrup packed in containers that have a capacity of 5 kg or less unless
-		- **(i)** it complies with the standards that are equivalent to those set out in Schedule II,
-		- **(ii)** it is packed in the manner set out in section 10, and
-		- **(iii)** it bears a label marked
-			- **(A)** with the name of the contents,
-			- **(B)** with a true and correct declaration of net quantity expressed in kilograms or, where less than a kilogram, in grams,
-			- **(C)** with the name and address of the packer or importer, and
-			- **(D)** with a declaration of the country of origin.
+- **(1)** Only maple syrup meeting the following requirements may be imported into Canada:
+	- **(a)** its container is marked with one of the grade names “Grade A” or “Processing Grade” on the same panel of the label as the name of the product and in letters of a size set out in Schedule IV;
+	- **(b)** in the case of “Grade A” maple syrup, its container is marked, in English and French, with the name of the colour class that would have been applicable if it had been graded as “Canada Grade A”;
+	- **(c)** in the case of “Grade A” maple syrup, the percentage of light transmission of the maple syrup is as required by Schedule III for the colour class with which it is marked;
+	- **(d)** it is packed in the manner set out in section 10; and
+	- **(e)** its container bears a label marked with
+		- **(i)** the words “maple syrup”,
+		- **(ii)** the net quantity expressed in litres or, if less than a litre, in millilitres,
+		- **(iii)** the name and address of the packer or importer,
+		- **(iv)** the name of the country of origin, and
+		- **(v)** the lot number or the production code.
 
-- **(2)** No person shall import into Canada any maple syrup packed in containers that have a capacity exceeding 5 L or any maple product other than maple syrup packed in containers that have a capacity exceeding 5 kg unless
-	- **(a)** the product complies
-		- **(i)** in the case of maple syrup, with subparagraphs (1)(a)(i) to (vi), and
-		- **(ii)** in the case of a maple product other than maple syrup, with subparagraphs (1)(b)(i) to (iii); or
-	- **(b)** authorization in writing is obtained from the Executive Director for each shipment before it enters Canada and, on entry into Canada, the shipment is subjected to any inspection or analysis that under these Regulations is necessary to determine whether the product complies with these Regulations.
-> SOR/81-577, s. 6; SOR/97-292, s. 11; SOR/2000-184, s. 14.
+- **(2)** Only a maple product, other than maple syrup, meeting the following requirements may be imported into Canada:
+	- **(a)** it complies with one of the standards set out in Schedule II;
+	- **(b)** it is packed in the manner set out in section 10; and
+	- **(c)** its container bears a label marked with
+		- **(i)** the name of the maple product,
+		- **(ii)** the net quantity expressed in kilograms or, if less than a kilogram, in grams,
+		- **(iii)** the name and address of the packer or importer, and
+		- **(iv)** the name of the country of origin.
+
+- **(3)** Maple syrup or a maple product other than maple syrup that is packed in a container that has a capacity exceeding 5 L or 5 kg, respectively, need not meet the requirements of subsections (1) or (2) to be imported into Canada if
+	- **(a)** before entry into Canada, written authorization is obtained from the President of the Agency in respect of the shipment; and
+	- **(b)** on entry into Canada, the shipment is subjected to any inspection or analysis that under these Regulations is necessary to determine whether the product otherwise complies with these Regulations.
+> SOR/81-577, s. 6; SOR/97-292, s. 11; SOR/2000-184, s. 14; SOR/2014-297, s. 7.
 
 
 
@@ -685,24 +706,23 @@ shall be new.
 
 
 ### **SCHEDULE I** 
-**(Sections 4, 15 and 19)**
-## Grade Requirements for Maple Syrup
-**1** Maple syrup may be graded as “Canada No. 1” if, in addition to meeting the requirements set out in section 5 of these Regulations,
+**(Section 4 and subsection 15(1))**
+## Grade Name Requirements for Maple Syrup
+**1** Maple syrup may be graded as “Canada Grade A” if, in addition to meeting the requirements set out in section 5 of these Regulations,
 - **(a)** it is free from fermentation;
-- **(b)** it is uniform in colour and free from any cloudiness or turbidity;
-- **(c)** its colour class is Extra Light, Light or Medium; and
+- **(b)** it is uniform in colour and free from sediment and free from any cloudiness or turbidity;
+- **(c)** its colour class is
+	- **(i)** Golden, Delicate Taste,
+	- **(ii)** Amber, Rich Taste,
+	- **(iii)** Dark, Robust Taste, or
+	- **(iv)** Very Dark, Strong Taste; and
 - **(d)** it has a maple flavour characteristic of its colour class and is free from any objectionable odour or taste.
 
 
-**2** Maple syrup may be graded as “Canada No. 2” if, in addition to meeting the requirements set out in section 5 of these Regulations,
-- **(a)** it is free from fermentation;
-- **(b)** it is uniform in colour and free from any cloudiness or turbidity;
-- **(c)** its colour class is Amber; and
-- **(d)** it has a maple flavour characteristic of its colour class and is free from any objectionable odour or taste.
+**2** Maple syrup, other than that graded as “Canada Grade A”, may be graded as “Canada Processing Grade” if it meets the requirements set out in section 5 of these Regulations.
 
 
-**3** Maple syrup may be graded as “Canada No. 3” if, in addition to meeting the requirements set out in section 5 of these Regulations, it has a characteristic maple flavour and is free from any objectionable odour or taste other than a trace of a caramel, buddy or sappy taste.
-
+> SOR/2014-297, s. 8.
 
 
 
@@ -728,84 +748,62 @@ shall be new.
 
 
 ### **SCHEDULE III** 
-**(Sections 2, 5 and 19)**
-## Determining Colour Classes of Maple Syrup
-**1** The determination of the light transmission of maple syrup shall be made optically by means of
-- **(a)** a spectrophotometer using matched square optical cells having a 10 mm light path at a wavelength of 560 nm, the colour values being expressed in per cent of light transmission as compared to A.R. Glycerol fixed at 100 per cent transmission; or
-- **(b)** an approved visual glass comparator, the optical specifications of which correspond as closely as possible to the method described in paragraph (a).
+**(Section 2 and paragraphs 5(1)(f) and 19(1)(c))**
+## Colour Classes of “Canada Grade A” Maple Syrup
+**1** The determination of the light transmission of “Canada Grade A” maple syrup shall be made optically by means of
+- **(a)** a spectrophotometer using matched square optical cells having a 10 mm light path at a wavelength of 560 nm, the colour values being expressed in per cent of light transmission as compared to A.R. Glycerol fixed at 100 per cent transmission; or
+- **(b)** a visual glass comparator, the optical specifications of which correspond as closely as possible to the method described in paragraph (a).
 
 
-**2** Maple syrup shall be regarded as in a colour class set out in Column I of an item of the table if its percentage of light transmission is that set out in Column II of the item.
+**2** “Canada Grade A” maple syrup shall be regarded as in a colour class set out in Column I of the table if its percentage of light transmission is that set out in Column II.
 #### TABLE
 <table>
 <tr>
-<th></th>
+<th>Item</th>
 <th>Column I</th>
 <th>Column II</th>
 </tr>
 <tr>
-<th>Item</th>
 <th>Colour Class</th>
 <th>Percentage of Light Transmission</th>
-<th></th>
 </tr>
 <tr>
 <td>1</td>
-<td>Extra Light (Extra clair)</td>
+<td>Golden, Delicate Taste (*Doré, goût délicat*)</td>
 <td>not less than</td>
 <td>75.0</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Light (Clair)</td>
-<td>less than
-
-but not less than
-
-</td>
-<td>75.0
-
-60.5
-
-</td>
+<td>Amber, Rich Taste (*Ambré, goût riche*)</td>
+<td>less than</td>
+<td>75.0</td>
+</tr>
+<tr>
+<td>but not less than</td>
+<td>50.0</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Medium (Médium)</td>
-<td>less than
-
-but not less than
-
-</td>
-<td>60.5
-
-44.0
-
-</td>
+<td>Dark, Robust Taste (*Foncé, goût robuste*)</td>
+<td>less than</td>
+<td>50.0</td>
+</tr>
+<tr>
+<td>but not less than</td>
+<td>25.0</td>
 </tr>
 <tr>
 <td>4</td>
-<td>Amber (Ambré)</td>
-<td>less than
-
-but not less than
-
-</td>
-<td>44.0
-
-27.0
-
-</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Dark (Foncé)</td>
+<td>Very Dark, Strong Taste (*Très foncé, goût prononcé*)</td>
 <td>less than</td>
-<td>27.0</td>
+<td>25.0</td>
 </tr>
 </table>
 
 
+
+> SOR/2014-297, s. 9.
 
 
 
