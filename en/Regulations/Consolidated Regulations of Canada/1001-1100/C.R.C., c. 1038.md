@@ -3803,8 +3803,8 @@ YELLOW
 </table>
 
 
-- **(3)** This section expires on January 31, 2016.
-> SOR/79-677, s. 3; SOR/79-907, s. 1; SOR/93-561, s. 4; SOR/97-421, s. 16; SOR/2007-180, s. 6; SOR/2009-318, s. 8; SOR/2009-330, s. 1; SOR/2011-238, s. 1..
+- **(3)** [Repealed, SOR/2014-307, s. 1]
+> SOR/79-677, s. 3; SOR/79-907, s. 1; SOR/93-561, s. 4; SOR/97-421, s. 16; SOR/2007-180, s. 6; SOR/2009-318, s. 8; SOR/2009-330, s. 1; SOR/2011-238, s. 1; SOR/2014-307, s. 1..
 
 
 
@@ -4106,11 +4106,8 @@ YELLOW
 
 - **(65)** A daytime running lamp shall conform to the requirements of S5.1.3 and S5.3 of TSD 108.
 
-### Expiry Date
-
-
-- **(66)** This section expires on January 1, 2015.
-> SOR/79-306, s. 3; SOR/80-636, s. 2; SOR/84-812, s. 3; SOR/86-979, s. 1; SOR/87-497, s. 2; SOR/87-660, s. 4; SOR/88-268, s. 5; SOR/91-692, s. 2; SOR/94-374, s. 5; SOR/94-692, s. 2(F); SOR/95-147, s. 8; SOR/95-164, s. 5; SOR/96-366, s. 5; SOR/97-421, ss. 16, 18(E), 22(F); SOR/99-112, s. 1; SOR/99-426, s. 1; SOR/2000-182, s. 5; SOR/2001-60, s. 1; SOR/2001-116, s. 1; SOR/2001-353, s. 2; SOR/2003-272, s. 10; SOR/2005-42, ss. 1, 2; SOR/2006-94, s. 4(E); SOR/2008-104, s. 12; SOR/2009-330, s. 2..
+- **(66)** [Repealed, SOR/2014-307, s. 2]
+> SOR/79-306, s. 3; SOR/80-636, s. 2; SOR/84-812, s. 3; SOR/86-979, s. 1; SOR/87-497, s. 2; SOR/87-660, s. 4; SOR/88-268, s. 5; SOR/91-692, s. 2; SOR/94-374, s. 5; SOR/94-692, s. 2(F); SOR/95-147, s. 8; SOR/95-164, s. 5; SOR/96-366, s. 5; SOR/97-421, ss. 16, 18(E), 22(F); SOR/99-112, s. 1; SOR/99-426, s. 1; SOR/2000-182, s. 5; SOR/2001-60, s. 1; SOR/2001-116, s. 1; SOR/2001-353, s. 2; SOR/2003-272, s. 10; SOR/2005-42, ss. 1, 2; SOR/2006-94, s. 4(E); SOR/2008-104, s. 12; SOR/2009-330, s. 2; SOR/2014-307, s. 2..
 
 
 
@@ -4212,10 +4209,7 @@ YELLOW
 
 - **(8)** In the case of vehicles equipped with light-truck tires, the load range identification symbol shall appear either on the compliance label required by section 6 of these Regulations or on the vehicle placard or tire inflation pressure label, after the tire size designation.
 
-#### Expiry Date
-
-
-- **(9)** This section expires on March 31, 2018.
+- **(9)** [Repealed, SOR/2014-307, s. 3]
 > Image: Figure showing a unilingual English example of a vehicle placard displaying the information required by paragraph 110(2)(b).
 
 > Image: Figure showing a unilingual French example of a vehicle placard displaying the information required by paragraph 110(2)(b).
@@ -4228,7 +4222,7 @@ YELLOW
 
 > Image: Figure showing a bilingual example of a tire inflation pressure label displaying the information required by paragraph 110(2)(a).
 
-> SOR/79-339, s. 3; SOR/79-940, s. 7; SOR/87-448, s. 1; SOR/2003-272, s. 12; SOR/2008-258, s. 8; SOR/2014-82, s. 1..
+> SOR/79-339, s. 3; SOR/79-940, s. 7; SOR/87-448, s. 1; SOR/2003-272, s. 12; SOR/2008-258, s. 8; SOR/2014-82, s. 1; SOR/2014-307, s. 3..
 
 
 
@@ -4446,7 +4440,7 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 - **(2)** The term ***self-mobility*** in TSD 114 means movement of a vehicle under its own power.
 
-- **(3)** This section expires on March 31, 2018.
+- **(3)** [Repealed, SOR/2014-307, s. 4]
 
 #### Immobilization System
 
@@ -4534,7 +4528,7 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 	- **(b)** for the purposes of paragraph 8.2.7, the word ***rapidly*** means less than 5 minutes and the expression ***time consuming*** means at least 5 minutes;
 	- **(c)** despite any statement to the contrary in paragraphs 8.2.10 and 8.2.11, the immobilization system shall not have any impact on the vehicle’s brake system; and
 	- **(d)** all references to paragraph 8.4 do not apply.
-> SOR/79-940, s. 7; SOR/95-164, s. 6; SOR/97-264, s. 3; SOR/97-421, s. 6; SOR/2005-45, s. 4; SOR/2007-246, s. 3; SOR/2008-104, s. 13; SOR/2009-32, s. 2; SOR/2009-330, s. 3; SOR/2011-69, s. 1; SOR/2014-82, s. 2..
+> SOR/79-940, s. 7; SOR/95-164, s. 6; SOR/97-264, s. 3; SOR/97-421, s. 6; SOR/2005-45, s. 4; SOR/2007-246, s. 3; SOR/2008-104, s. 13; SOR/2009-32, s. 2; SOR/2009-330, s. 3; SOR/2011-69, s. 1; SOR/2014-82, s. 2; SOR/2014-307, s. 4..
 
 
 
@@ -4971,8 +4965,8 @@ All spaces provided for in the vehicle identification number must be occupied by
 </table>
 
 
-- **(3)** This section expires on January 31, 2016.
-> SOR/79-940, s. 7; SOR/93-561, s. 6; SOR/97-421, s. 21(F); SOR/2007-180, s. 7; SOR/2009-318, ss. 9, 10; SOR/2011-238, s. 2..
+- **(3)** [Repealed, SOR/2014-307, s. 5]
+> SOR/79-940, s. 7; SOR/93-561, s. 6; SOR/97-421, s. 21(F); SOR/2007-180, s. 7; SOR/2009-318, ss. 9, 10; SOR/2011-238, s. 2; SOR/2014-307, s. 5..
 
 
 
@@ -4985,8 +4979,8 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(2)** However, vehicles manufactured before October 1, 2010, need not comply with the requirements of S6 of TSD 118.
 
-- **(3)** This section expires on January 31, 2016.
-> SOR/79-940, s. 7; SOR/86-682, s. 2; SOR/95-164, s. 7; SOR/97-421, s. 8; SOR/98-524, s. 4(F); SOR/2003-272, s. 16; SOR/2006-94, s. 4(E); SOR/2007-180, s. 8; SOR/2011-238, s. 2..
+- **(3)** [Repealed, SOR/2014-307, s. 6]
+> SOR/79-940, s. 7; SOR/86-682, s. 2; SOR/95-164, s. 7; SOR/97-421, s. 8; SOR/98-524, s. 4(F); SOR/2003-272, s. 16; SOR/2006-94, s. 4(E); SOR/2007-180, s. 8; SOR/2011-238, s. 2; SOR/2014-307, s. 6..
 
 
 
@@ -5023,11 +5017,8 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(5)** In the case of vehicles equipped with light-truck tires, the load range identification symbol shall appear either on the compliance label required by section 6 of these Regulations or on the tire information label.
 
-#### Expiry Date
-
-
-- **(6)** This section expires on March 31, 2018.
-> SOR/79-340, s. 3; SOR/79-696, ss. 1, 2; SOR/87-451, s. 1; SOR/94-670, s. 2(F); SOR/95-147, s. 10; SOR/2002-55, ss. 15, 21; SOR/2003-272, s. 17; SOR/2005-342, s. 3; SOR/2006-94, s. 4(E); SOR/2008-258, s. 9; SOR/2013-198, s. 15; SOR/2014-82, s. 3..
+- **(6)** [Repealed, SOR/2014-307, s. 7]
+> SOR/79-340, s. 3; SOR/79-696, ss. 1, 2; SOR/87-451, s. 1; SOR/94-670, s. 2(F); SOR/95-147, s. 10; SOR/2002-55, ss. 15, 21; SOR/2003-272, s. 17; SOR/2005-342, s. 3; SOR/2006-94, s. 4(E); SOR/2008-258, s. 9; SOR/2013-198, s. 15; SOR/2014-82, s. 3; SOR/2014-307, s. 7..
 
 
 
@@ -5055,8 +5046,8 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(6)** The parking brake static retardation force test that is referred to in S5.6.1 of TSD 121 shall be conducted in both a forward and a rearward direction.
 
-- **(7)** Subsections (3), (5) and (6) expire on January 1, 2017.
-> SOR/78-351, s. 2; SOR/79-547, s. 1; SOR/79-940, s. 7; SOR/80-638, s. 2; SOR/92-250, s. 4; SOR/94-374, s. 5(F), SOR/94-670, s. 2(F); SOR/95-147, s. 15(F); SOR/96-89, ss. 3, 4(F); SOR/97-200, s. 6; SOR/97-421, ss. 9(E), 22(F); SOR/98-524, s. 4(F); SOR/99-357, s. 4; SOR/2002-55, s. 21; SOR/2005-42, s. 13; SOR/2008-104, s. 14; SOR/2009-79, s. 2; SOR/2009-318, s. 19(F); SOR/2013-220, s. 1..
+- **(7)** [Repealed, SOR/2014-307, s. 8]
+> SOR/78-351, s. 2; SOR/79-547, s. 1; SOR/79-940, s. 7; SOR/80-638, s. 2; SOR/92-250, s. 4; SOR/94-374, s. 5(F), SOR/94-670, s. 2(F); SOR/95-147, s. 15(F); SOR/96-89, ss. 3, 4(F); SOR/97-200, s. 6; SOR/97-421, ss. 9(E), 22(F); SOR/98-524, s. 4(F); SOR/99-357, s. 4; SOR/2002-55, s. 21; SOR/2005-42, s. 13; SOR/2008-104, s. 14; SOR/2009-79, s. 2; SOR/2009-318, s. 19(F); SOR/2013-220, s. 1; SOR/2014-307, s. 8..
 
 
 
@@ -5177,8 +5168,8 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(15)** A turn signal lamp display fitted on a motorcycle shall be green or yellow.
 
-- **(16)** This section expires on January 31, 2016.
-> SOR/79-306, s. 5; SOR/79-940, s. 7; SOR/82-656, s. 3; SOR/88-268, s. 10; SOR/93-31, s. 5; SOR/94-374, s. 5(F); SOR/95-536, s. 7; SOR/96-366, s. 8; SOR/97-421, ss. 10, 11(F), 12(F), 22(F); SOR/98-524, s. 4(F); SOR/2003-272, s. 19; SOR/2007-180, s. 10; SOR/2009-318, s. 11; SOR/2011-238, s. 3..
+- **(16)** [Repealed, SOR/2014-307, s. 9]
+> SOR/79-306, s. 5; SOR/79-940, s. 7; SOR/82-656, s. 3; SOR/88-268, s. 10; SOR/93-31, s. 5; SOR/94-374, s. 5(F); SOR/95-536, s. 7; SOR/96-366, s. 8; SOR/97-421, ss. 10, 11(F), 12(F), 22(F); SOR/98-524, s. 4(F); SOR/2003-272, s. 19; SOR/2007-180, s. 10; SOR/2009-318, s. 11; SOR/2011-238, s. 3; SOR/2014-307, s. 9..
 
 
 
@@ -5189,8 +5180,8 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(1)** Every passenger car, multi-purpose passenger vehicle, truck, bus and three-wheeled vehicle shall conform to the requirements of Technical Standards Document No. 124, Accelerator Control Systems, as amended from time to time.
 
-- **(2)** This section expires on January 31, 2016.
-> SOR/79-940, s. 7; SOR/2007-180, s. 10; SOR/2011-238, s. 3..
+- **(2)** [Repealed, SOR/2014-307, s. 10]
+> SOR/79-940, s. 7; SOR/2007-180, s. 10; SOR/2011-238, s. 3; SOR/2014-307, s. 10..
 
 
 
@@ -5201,8 +5192,8 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(1)** Every passenger car, multi-purpose passenger vehicle, truck and bus with a GVWR of 4 536 kg or less shall conform to the requirements of Technical Standards Document No. 126, Electronic Stability Control Systems (TSD 126), as amended from time to time.
 
-- **(2)** This section expires on January 31, 2017.
-> SOR/2013-55, s. 1..
+- **(2)** [Repealed, SOR/2014-307, s. 11]
+> SOR/2013-55, s. 1; SOR/2014-307, s. 11..
 
 
 
@@ -5215,8 +5206,8 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(2)** The word “*ARRÊT*” may appear instead of, or together with, the word “STOP” in the manner specified with respect to the word “STOP” in S5.2.2 of TSD 131.
 
-- **(3)** This section expires on January 31, 2016.
-> SOR/96-366, s. 9; SOR/2001-116, s. 2; SOR/2005-42, ss. 5, 6; SOR/2009-79, s. 3; SOR/2011-238, s. 3..
+- **(3)** [Repealed, SOR/2014-307, s. 12]
+> SOR/96-366, s. 9; SOR/2001-116, s. 2; SOR/2005-42, ss. 5, 6; SOR/2009-79, s. 3; SOR/2011-238, s. 3; SOR/2014-307, s. 12..
 
 
 
@@ -5341,12 +5332,8 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 ### Head Restraints
 
-**202** 
-
-- **(1)** Subject to subsection (2), every multi-purpose passenger vehicle, bus or truck with a GVWR of 4 536 kg or less, every passenger car and every three-wheeled vehicle shall conform to the requirements of Technical Standards Document No. 202, Head Restraints (TSD 202), as amended from time to time.
-
-- **(2)** This section expires on March 31, 2018.
-> SOR/95-60, s. 2; SOR/2003-272, s. 21; SOR/2006-94, s. 4(E); SOR/2007-180, s. 11; SOR/2008-72, s. 4(F); SOR/2009-122, s. 1; SOR/2014-82, s. 5..
+**202** Every multi-purpose passenger vehicle, bus or truck with a GVWR of 4 536 kg or less, every passenger car and every three-wheeled vehicle shall conform to the requirements of Technical Standards Document No. 202, Head Restraints (TSD 202), as amended from time to time.
+> SOR/95-60, s. 2; SOR/2003-272, s. 21; SOR/2006-94, s. 4(E); SOR/2007-180, s. 11; SOR/2008-72, s. 4(F); SOR/2009-122, s. 1; SOR/2014-82, s. 5; SOR/2014-307, s. 13..
 
 
 
@@ -5365,8 +5352,8 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(4)** Subsections (2) and (3) do not apply to a vehicle that conforms to the requirements of S5 and S14 of Technical Standards Document No. 208, Occupant Crash Protection (TSD 208), as amended from time to time.
 
-- **(5)** Subsection (4) expires on October 31, 2017.
-> SOR/79-719, s. 2; SOR/83-138, s. 3; SOR/90-387, s. 3; SOR/94-291, s. 4; SOR/94-692, s. 2; SOR/97-201, s. 5; SOR/97-421, s. 17; SOR/2006-94, s. 4(E); SOR/2009-121, s. 2; SOR/2013-9, s. 3..
+- **(5)** [Repealed, SOR/2014-307, s. 14]
+> SOR/79-719, s. 2; SOR/83-138, s. 3; SOR/90-387, s. 3; SOR/94-291, s. 4; SOR/94-692, s. 2; SOR/97-201, s. 5; SOR/97-421, s. 17; SOR/2006-94, s. 4(E); SOR/2009-121, s. 2; SOR/2013-9, s. 3; SOR/2014-307, s. 14..
 
 
 
@@ -5381,8 +5368,8 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(3)** Subsection (1) does not apply to a vehicle that conforms to the requirements of S5 and S14 of Technical Standards Document No. 208, Occupant Crash Protection (TSD 208), as amended from time to time.
 
-- **(4)** This section expires on October 31, 2017.
-> SOR/80-440, s. 2; SOR/83-138, s. 4; SOR/90-387, s. 1; SOR/94-692, s. 2(F); SOR/97-201, s. 5; SOR/97-421, s. 22(F); SOR/2006-94, s. 4(E); SOR/2008-72, s. 5; SOR/2009-121, s. 2; SOR/2013-9, s. 4..
+- **(4)** [Repealed, SOR/2014-307, s. 15]
+> SOR/80-440, s. 2; SOR/83-138, s. 4; SOR/90-387, s. 1; SOR/94-692, s. 2(F); SOR/97-201, s. 5; SOR/97-421, s. 22(F); SOR/2006-94, s. 4(E); SOR/2008-72, s. 5; SOR/2009-121, s. 2; SOR/2013-9, s. 4; SOR/2014-307, s. 15..
 
 
 
@@ -5438,8 +5425,8 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(2)** For the purposes of paragraph 6.3.2 of ECE Regulation No. 11, the locking device shall be the device referred to in paragraph 6.3.2.1(a) or (b) of that Regulation.
 
-- **(3)** This section expires on January 1, 2017.
-> SOR/97-14, s. 2; SOR/2001-116, s. 3; SOR/2002-55, s. 21; SOR/2003-272, s. 23; SOR/2005-42, ss. 7, 8; SOR/2006-94, s. 4(E); SOR/2008-73, s. 3; SOR/2009-34, s. 1; SOR/2013-220, s. 2..
+- **(3)** [Repealed, SOR/2014-307, s. 16]
+> SOR/97-14, s. 2; SOR/2001-116, s. 3; SOR/2002-55, s. 21; SOR/2003-272, s. 23; SOR/2005-42, ss. 7, 8; SOR/2006-94, s. 4(E); SOR/2008-73, s. 3; SOR/2009-34, s. 1; SOR/2013-220, s. 2; SOR/2014-307, s. 16..
 
 
 
@@ -5454,8 +5441,8 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(3)** In the case of a truck or multi-purpose passenger vehicle with a GVWR greater than 4 563 kg or a motor home, a seat that is labelled in accordance with S4.4 of TSD 207 is not considered to be a designated seating position.
 
-- **(4)** This section expires on September 1, 2017.
-> SOR/2011-264, s. 5..
+- **(4)** [Repealed, SOR/2014-307, s. 17]
+> SOR/2011-264, s. 5; SOR/2014-307, s. 17..
 
 
 
@@ -5598,7 +5585,7 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(23)** Despite S15.3.4 of TSD 208, the compression deflection of the sternum relative to the spine of the upper thorax of each anthropomorphic test device shall not exceed 45 mm, when the vehicle is tested in accordance with S16.1(a)(2) or S18 of TSD 208.
 
-- **(24)** Subsections (13) to (23) expire on October 31, 2017.
+- **(24)** [Repealed, SOR/2014-307, s. 18]
 
 #### Air Bag Warning Labels
 
@@ -5613,7 +5600,7 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 
 - **(26)** Until September 1, 2015, trucks, buses, enclosed motorcycles, multi-purpose passenger vehicles, passenger cars and three-wheeled vehicles may conform to the requirements of this section as it read on the day before the day on which this subsection came into force.
-> SOR/78-80, s. 2; SOR/80-782, s. 2; SOR/87-578, s. 2; SOR/90-387, s. 3; SOR/93-5, s. 4; SOR/97-201, s. 5; SOR/97-447, s. 5; SOR/98-125, s. 6; SOR/98-524, s. 4(F); SOR/2002-55, s. 17; SOR/2003-272, s. 24; SOR/2006-94, s. 4(E); SOR/2007-180, s. 12; SOR/2008-72, s. 6; SOR/2008-104, s. 16(F); SOR/2013-9, ss. 5, 6..
+> SOR/78-80, s. 2; SOR/80-782, s. 2; SOR/87-578, s. 2; SOR/90-387, s. 3; SOR/93-5, s. 4; SOR/97-201, s. 5; SOR/97-447, s. 5; SOR/98-125, s. 6; SOR/98-524, s. 4(F); SOR/2002-55, s. 17; SOR/2003-272, s. 24; SOR/2006-94, s. 4(E); SOR/2007-180, s. 12; SOR/2008-72, s. 6; SOR/2008-104, s. 16(F); SOR/2013-9, ss. 5, 6; SOR/2014-307, s. 18..
 
 
 
@@ -6376,8 +6363,8 @@ Note: Drawing not to scale
 
 - **(2)** Every truck, bus and multi-purpose passenger vehicle with a GVWR of 4 536 kg or less, other than a walk-in van, a forward control configuration vehicle or an open-body type vehicle with a fold-down or removable windshield, shall conform to the requirements of TSD 212, as amended from time to time.
 
-- **(3)** This section expires on October 31, 2017.
-> SOR/80-282, s. 3; SOR/82-274, s. 1; SOR/90-387, s. 2(F); SOR/93-5, s. 6; SOR/94-692, s. 2(F); SOR/95-536, s. 7(F); SOR/97-201, s. 5; SOR/97-421, ss. 17, 22(F); SOR/2003-57, s. 2; SOR/2008-72, s. 10(F); SOR/2009-121, s. 3; SOR/2013-9, s. 7..
+- **(3)** [Repealed, SOR/2014-307, s. 19]
+> SOR/80-282, s. 3; SOR/82-274, s. 1; SOR/90-387, s. 2(F); SOR/93-5, s. 6; SOR/94-692, s. 2(F); SOR/95-536, s. 7(F); SOR/97-201, s. 5; SOR/97-421, ss. 17, 22(F); SOR/2003-57, s. 2; SOR/2008-72, s. 10(F); SOR/2009-121, s. 3; SOR/2013-9, s. 7; SOR/2014-307, s. 19..
 
 
 
@@ -6489,10 +6476,10 @@ Note: Drawing not to scale
 	- **(a)** explain the primary consequences of not following the warnings referred to in paragraph 19(b) or the instructions referred to in subsection (21); and
 	- **(b)** in the case of a vehicle seat that is removable from the vehicle by means of a latch mechanism and that is equipped with a built-in restraint system or built-in booster seat, state that the vehicle seat, whether occupied or not, must be securely latched to the vehicle.
 
-- **(23)** Subsections(2), (3) and (6) to (8) expire on September 1, 2017.
+- **(23)** [Repealed, SOR/2014-307, s. 20]
 
 - **(24)** Until September 1, 2013, a built-in restraint system or built-in booster seat may conform to the requirements of this section as it read on the day before the day on which this subsection came into force.
-> SOR/94-669, s. 6; SOR/2007-180, ss. 16, 21; SOR/2008-72, s. 11; SOR/2008-104, s. 18; SOR/2013-117, s. 11..
+> SOR/94-669, s. 6; SOR/2007-180, ss. 16, 21; SOR/2008-72, s. 11; SOR/2008-104, s. 18; SOR/2013-117, s. 11; SOR/2014-307, s. 20..
 
 
 
@@ -6566,8 +6553,8 @@ Note: Drawing not to scale
 
 - **(3)** Until August 31, 2016, the vehicles referred to in subsections (1) and (2) may conform to the requirements of this section as it read on the day before the day on which this version of the section came into force.
 
-- **(4)** This section expires on March 31, 2018.
-> SOR/94-291, s. 5; SOR/2000-402, s. 1; SOR/2006-94, s. 4(E); SOR/2009-291, s. 4; SOR/2014-82, s. 6..
+- **(4)** [Repealed, SOR/2014-307, s. 21]
+> SOR/94-291, s. 5; SOR/2000-402, s. 1; SOR/2006-94, s. 4(E); SOR/2009-291, s. 4; SOR/2014-82, s. 6; SOR/2014-307, s. 21..
 
 
 
@@ -6796,8 +6783,8 @@ whichever is the higher.
 
 - **(2)** Every truck, bus and multi-purpose passenger vehicle with a GVWR of 4 536 kg or less, other than a walk-in van, a forward control configuration vehicle or an open-body type vehicle with a fold-down or removable windshield, shall conform to the requirements of TSD 219, as amended from time to time.
 
-- **(3)** This section expires on October 31, 2017.
-> SOR/81-665, s. 2; SOR/97-201, s. 4; SOR/97-421, ss. 17, 22(F); SOR/2008-72, s. 12(F); SOR/2009-121, s. 4; SOR/2013-9, s. 8..
+- **(3)** [Repealed, SOR/2014-307, s. 22]
+> SOR/81-665, s. 2; SOR/97-201, s. 4; SOR/97-421, ss. 17, 22(F); SOR/2008-72, s. 12(F); SOR/2009-121, s. 4; SOR/2013-9, s. 8; SOR/2014-307, s. 22..
 
 
 
@@ -6810,8 +6797,8 @@ whichever is the higher.
 
 - **(2)** Every passenger car, multi-purpose passenger vehicle, truck or bus with a GVWR of 4 536 kg or less that is built in two or more stages not using a chassis-cab and every passenger car, multi-purpose passenger vehicle, truck or bus with a GVWR greater than 2 722 kg but not greater than 4 536 kg that has an altered roof shall conform to the requirements of TSD 220 or TSD 216, which is referred to in section 216 of this schedule.
 
-- **(3)** This section expires on March 31, 2018.
-> SOR/79-940, s. 9; SOR/2009-291, s. 5; SOR/2014-82, s. 7..
+- **(3)** [Repealed, SOR/2014-307, s. 23]
+> SOR/79-940, s. 9; SOR/2009-291, s. 5; SOR/2014-82, s. 7; SOR/2014-307, s. 23..
 
 
 
@@ -7099,8 +7086,8 @@ shall not exceed 1,000, where “a” is the axial acceleration expressed as a m
 
 - **(2)** A school bus with a GVWR of more than 4 536 kg that is equipped with a fuel system that uses a fuel with a boiling point of 0°C or higher as a source of energy for its propulsion shall conform to the requirements of TSD 301.
 
-- **(3)** This section expires on January 31, 2016.
-> SOR/80-158, s. 1; SOR/97-421, s. 17; SOR/2001-152, s. 2; SOR/2004-89, s. 1; SOR/2006-94, s. 4(E); SOR/2008-258, s. 10; SOR/2009-79, s. 5; SOR/2011-238, s. 5..
+- **(3)** [Repealed, SOR/2014-307, s. 24]
+> SOR/80-158, s. 1; SOR/97-421, s. 17; SOR/2001-152, s. 2; SOR/2004-89, s. 1; SOR/2006-94, s. 4(E); SOR/2008-258, s. 10; SOR/2009-79, s. 5; SOR/2011-238, s. 5; SOR/2014-307, s. 24..
 
 
 
@@ -7120,7 +7107,7 @@ shall not exceed 1,000, where “a” is the axial acceleration expressed as a m
 
 - **(1.2)** Instead of being tested in accordance with subparagraph (1)(a)(iii), a vehicle referred to in subsection (1) may be tested in accordance with paragraph S6.3(b) of TSD 301, except the fuel spillage requirements, under the applicable conditions set out in sections 3.2 to 3.4 of Test Method 301.1 – LPG Fuel System Integrity (February 28, 2004) and paragraph S7.2(b) of TSD 301.
 
-- **(1.3)** Subsections (1.1) and (1.2) expire on February 28, 2009.
+- **(1.3)** [Repealed, SOR/2014-307, s. 25]
 
 - **(2)** When a vehicle is tested in accordance with subsection (1), (1.1) or (1.2),
 	- **(a)** fuel spillage from the fuel system after each impact from the moment of the impact until one-half hour after motion of the vehicle ceases shall not exceed 142 g;
@@ -7138,7 +7125,7 @@ shall not exceed 1,000, where “a” is the axial acceleration expressed as a m
 - **(4)** A manufacturer of a vehicle that is equipped with a fuel system that uses LPG as a source of energy for its propulsion shall provide to the Minister, on request, information respecting the version of the standard referred to in subsection (3) with which the vehicle complies.
 
 - **(5)** [Repealed, SOR/2004-89, s. 2]
-> SOR/82-754, s. 3; SOR/97-421, s. 17; SOR/2001-152, s. 2; SOR/2002-55, s. 18; SOR/2003-272, s. 29; SOR/2004-89, s. 2; SOR/2008-104, s. 20..
+> SOR/82-754, s. 3; SOR/97-421, s. 17; SOR/2001-152, s. 2; SOR/2002-55, s. 18; SOR/2003-272, s. 29; SOR/2004-89, s. 2; SOR/2008-104, s. 20; SOR/2014-307, s. 25..
 
 
 
@@ -7158,7 +7145,7 @@ shall not exceed 1,000, where “a” is the axial acceleration expressed as a m
 
 - **(1.2)** Instead of being tested in accordance with subparagraph (1)(a)(iii), a vehicle referred to in subsection (1) may be tested in accordance with paragraph S6.3(b) of TSD 301, except for the fuel spillage requirements, under the applicable conditions set out in sections 3.2 to 3.4 of Test Method 301.2 — CNG Fuel System Integrity (February 28, 2004) and paragraph S7.2(b) of TSD 301.
 
-- **(1.3)** Subsections (1.1) and (1.2) expire on March 31, 2018.
+- **(1.3)** [Repealed, SOR/2014-307, s. 26]
 
 - **(2)** When a vehicle is tested in accordance with subsection (1), (1.1) or (1.2),
 	- **(a)** the fuel container shall remain attached to the vehicle at a minimum of one attachment point; and
@@ -7185,7 +7172,7 @@ where
 - **(5)** A manufacturer of a vehicle that is equipped with a fuel system that uses CNG as a source of energy for its propulsion shall provide to the Minister, on request, information respecting the version of the standards referred to in subsections (3) and (4) with which the vehicle complies.
 
 - **(6)** [Repealed, SOR/2004-89, s. 3]
-> SOR/82-754, s. 3; SOR/95-77, s. 1; SOR/2001-152, s. 2; SOR/2002-55, s. 19; SOR/2003-272, s. 30; SOR/2004-89, s. 3; SOR/2005-342, s. 5; SOR/2008-104, s. 21; SOR/2013-220, s. 4..
+> SOR/82-754, s. 3; SOR/95-77, s. 1; SOR/2001-152, s. 2; SOR/2002-55, s. 19; SOR/2003-272, s. 30; SOR/2004-89, s. 3; SOR/2005-342, s. 5; SOR/2008-104, s. 21; SOR/2013-220, s. 4; SOR/2014-307, s. 26..
 
 
 
@@ -7225,8 +7212,8 @@ where
 
 - **(1)** The interior materials of every passenger car, multi-purpose passenger vehicle, truck, bus and three-wheeled vehicle shall conform to the requirements of Technical Standards Document No. 302, Flammability of Interior Materials, as amended from time to time.
 
-- **(2)** This section expires on January 31, 2016.
-> SOR/78-525, s. 2; SOR/79-262, s. 1(F); SOR/2007-180, s. 18; SOR/2011-238, s. 6..
+- **(2)** [Repealed, SOR/2014-307, s. 27]
+> SOR/78-525, s. 2; SOR/79-262, s. 1(F); SOR/2007-180, s. 18; SOR/2011-238, s. 6; SOR/2014-307, s. 27..
 
 
 
@@ -7247,8 +7234,8 @@ where
 
 - **(5)** A vehicle tested in accordance with subsection (4) shall conform to the requirements of S5.1, S5.2 and S5.3 of TSD 305.
 
-- **(6)** This section expires on January 31, 2016.
-> SOR/2001-486, s. 2; SOR/2003-272, s. 32; SOR/2004-89, s. 4; SOR/2004-250, s. 5; SOR/2005-42, ss. 9, 10; SOR/2006-94, s. 4(E); SOR/2009-318, s. 13; SOR/2011-238, s. 6..
+- **(6)** [Repealed, SOR/2014-307, s. 28]
+> SOR/2001-486, s. 2; SOR/2003-272, s. 32; SOR/2004-89, s. 4; SOR/2004-250, s. 5; SOR/2005-42, ss. 9, 10; SOR/2006-94, s. 4(E); SOR/2009-318, s. 13; SOR/2011-238, s. 6; SOR/2014-307, s. 28..
 
 
 
@@ -7263,8 +7250,8 @@ where
 
 - **(3)** This section does not apply to vehicles equipped with a back door. For the purposes of this subsection, ***back door*** has the same meaning as in TSD 401.
 
-- **(4)** This section expires on January 31, 2016.
-> SOR/2007-180, s. 19; SOR/2008-73, s. 4; SOR/2009-318, s. 14; SOR/2011-238, s. 6..
+- **(4)** [Repealed, SOR/2014-307, s. 29]
+> SOR/2007-180, s. 19; SOR/2008-73, s. 4; SOR/2009-318, s. 14; SOR/2011-238, s. 6; SOR/2014-307, s. 29..
 
 
 
@@ -7285,8 +7272,8 @@ where
 
 - **(5)** The SMV emblem shall be affixed so that the view of the emblem is not obscured or obstructed by any part of the vehicle or any attachment designed for the vehicle.
 
-- **(6)** This section expires on January 31, 2016.
-> SOR/2000-304, s. 6; SOR/2005-42, ss. 11, 12; SOR/2008-229, s. 3; SOR/2011-238, s. 6..
+- **(6)** [Repealed, SOR/2014-307, s. 30]
+> SOR/2000-304, s. 6; SOR/2005-42, ss. 11, 12; SOR/2008-229, s. 3; SOR/2011-238, s. 6; SOR/2014-307, s. 30..
 
 
 
