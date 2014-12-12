@@ -19,7 +19,7 @@ Autorités habilitantes :
 
 
 
-## Interprétation
+## Définitions
 
 
 **2** Dans le présent règlement,
@@ -30,7 +30,7 @@ Autorités habilitantes :
 
 ***aliment*** S’entend au sens de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md). (*food*)
 
-***catégorie*** désigne une catégorie établie selon l’article 4 pour le sirop d’érable; (*grade*)
+***catégorie***[Abrogée, DORS/2014-297, art. 1]
 
 ***certificat d’enregistrement***[Abrogée, DORS/91-371, art. 1]
 
@@ -42,7 +42,7 @@ Autorités habilitantes :
 
 ***directeur*** La personne nommée à ce titre par le président de l’Agence. (*Director*)
 
-***directeur exécutif*** La personne nommée à ce titre par le président de l’Agence. (*Executive Director*)
+***directeur exécutif***[Abrogée, DORS/2014-297, art. 1]
 
 ***directeur général régional***[Abrogée, DORS/2000-184, art. 13]
 
@@ -88,12 +88,12 @@ Autorités habilitantes :
 
 ***sève d’érable*** désigne la sève provenant exclusivement des arbres du genre *Acer*; (*maple sap*)
 
-***sirop d’érable*** désigne le sirop obtenu par concentration de la sève d’érable ou par dilution ou dissolution, dans l’eau potable, d’un produit de l’érable autre que la sève d’érable; (*maple syrup*)
+***sirop d’érable*** S’entend de tout sirop obtenu exclusivement par concentration de la sève d’érable ou par dilution ou dissolution, dans l’eau potable, d’un produit de l’érable autre que la sève d’érable. (*maple syrup*)
 
 ***succédané*** désigne tout produit qui est analogue en apparence à un produit de l’érable et qui est conditionné pour les mêmes fins qu’un produit de l’érable, mais qui ne provient pas exclusivement de la sève d’érable; (*substitute*)
 
 ***transmission de lumière*** désigne la capacité du sirop d’érable de transmettre la lumière telle que déterminée à l’annexe III. (*light transmission*) 
-> DORS/81-577, art. 1; DORS/85-264, art. 1; DORS/89-267, art. 1; DORS/91-371, art. 1; DORS/91-523, art. 1; DORS/97-292, art. 10; DORS/97-302, art. 1; DORS/2000-184, art. 13; DORS/2003-6, art. 33; DORS/2004-80, art. 2; DORS/2011-205, art. 16.
+> DORS/81-577, art. 1; DORS/85-264, art. 1; DORS/89-267, art. 1; DORS/91-371, art. 1; DORS/91-523, art. 1; DORS/97-292, art. 10; DORS/97-302, art. 1; DORS/2000-184, art. 13; DORS/2003-6, art. 33; DORS/2004-80, art. 2; DORS/2011-205, art. 16; DORS/2014-297, art. 1.
 
 
 
@@ -153,14 +153,40 @@ Autorités habilitantes :
 
 
 **PARTIE I** 
-## Catégories et classement
+## Noms de catégorie de sirop d’érable
 
 
-**4** 
 
-- **(1)** Trois catégories de sirop d’érable sont établies sous les noms de catégorie suivants : «Canada N<sup>o</sup> 1», «Canada N<sup>o</sup> 2» et «Canada N<sup>o</sup> 3».
+### Sirop d’érable canadien
 
-- **(2)** Les catégories visées au paragraphe (1) sont assujetties aux exigences de l’annexe I.
+
+**4** Les noms de catégorie de sirop d’érable canadien établis par le présent règlement sont « Canada catégorie A » et « Canada catégorie de transformation » et ne peuvent être utilisés que si le sirop d’érable remplit les exigences prévues à l’annexe I.
+> DORS/2014-297, art. 2.
+
+
+
+
+
+### Sirop d’érable importé
+
+
+**4.1** Les noms de catégorie de sirop d’érable importé établis par le présent règlement sont « Catégorie A » et « Catégorie de transformation » et ne peuvent être utilisés que si le sirop d’érable importé remplit les exigences applicables au sirop d’érable « Canada catégorie A » et « Canada catégorie de transformation », respectivement.
+> DORS/2014-297, art. 2.
+
+
+
+
+
+### Exception
+
+
+**4.2** 
+
+- **(1)** Un nom de catégorie de sirop d’érable canadien prévu à l’article 4 peut néanmoins être utilisé dans le cas du sirop d’érable importé s’il est conditionné dans un établissement agréé autre qu’un établissement d’une érablière.
+
+- **(2)** La présente disposition n’a pas pour effet de limiter l’application de l’article 19.
+> DORS/2014-297, art. 2.
+
 
 
 
@@ -169,25 +195,21 @@ Autorités habilitantes :
 - **(1)** Le sirop d’érable ne peut être classé qu’à condition
 	- **a)** de provenir exclusivement de la concentration de la sève d’érable ou de la dilution ou de la dissolution, dans l’eau potable, d’un produit de l’érable autre que la sève d’érable;
 	- **b)** d’être propre, sain et comestible;
-	- **c)** d’être exempt de tout défaut ou de toute altération susceptible de compromettre sa comestibilité, son apparence ou son aptitude à voyager;
+	- **c)** [Abrogé, DORS/2014-297, art. 3]
 	- **d)** [Abrogé, DORS/89-267, art. 2]
-	- **e)** de posséder une teneur minimale en extraits secs solubles de 66 pour cent déterminée au réfractomètre ou au densimètre à 20 °C;
-	- **f)** que sa classe de couleur soit déterminée selon l’annexe III.
+	- **e)** de posséder des teneurs minimale et maximale en extraits secs solubles de 66 % et de 68,9 %, respectivement, déterminées au réfractomètre ou au densimètre à 20 °C;
+	- **f)** dans le cas du sirop d’érable « Canada catégorie A », de déterminer sa classe de couleur selon l’annexe III.
 
 - **(2)** Le sirop d’érable est classé, selon le cas :
 	- **a)** dans l’établissement agréé;
 	- **b)** dans tout autre lieu si la classification est effectuée par l’exploitant de l’établissement d’un expéditeur de sirop d’érable agréé, ou pour son compte.
-> DORS/81-577, art. 2; DORS/86-418, art. 1; DORS/89-267, art. 2; DORS/91-371, art. 2.
+> DORS/81-577, art. 2; DORS/86-418, art. 1; DORS/89-267, art. 2; DORS/91-371, art. 2; DORS/2014-297, art. 3.
 
 
 
 
-**5.1** 
-
-- **(1)** Sous réserve du paragraphe (2), seul le classificateur peut classer du sirop d’érable.
-
-- **(2)** Le sirop d’érable peut être classé par l’exploitant ou un employé de l’établissement agréé si la classification se fait sous la surveillance du classificateur.
-> DORS/91-371, art. 3.
+**5.1** Le sirop d’érable peut être classé par le classificateur ou l’exploitant. Il peut également être classé par une personne désignée par l’exploitant ou par un employé d’un établissement agréé sous la surveillance du classificateur ou de l’exploitant.
+> DORS/91-371, art. 3; DORS/2014-297, art. 4.
 
 
 
@@ -376,14 +398,14 @@ doit être neuf.
 
 - **(5)** Aux fins du présent article, la quantité nette de sirop d’érable doit être déterminée selon la méthode décrite à l’annexe V.
 
-- **(6)** Tout contenant de sirop d’érable ou de sucre d’érable portant un nom de catégorie doit répondre aux conditions suivantes :
+- **(6)** Tout contenant de sirop d’érable portant la mention d’un nom de catégorie et tout contenant de sucre d’érable remplissent les exigences suivantes :
 	- **a)** être rempli jusqu’à un minimum de 90 pour cent de sa capacité;
 	- **b)** contenir au moins la quantité nette de sirop d’érable ou de sucre d’érable indiquée sur l’étiquette.
 
 - **(7)** Tout contenant de sirop d’érable doit pouvoir être solidement fermé au moyen d’un couvercle vissé, d’un couvercle à friction, d’un couvercle scellé hermétiquement, d’un bouchon ou de tout autre dispositif de ce genre.
 
 - **(8) et (9)** [Abrogés, DORS/81-577, art. 4]
-> DORS/81-577, art. 4; DORS/92-497, art. 1.
+> DORS/81-577, art. 4; DORS/92-497, art. 1; DORS/2014-297, art. 5.
 
 
 
@@ -399,24 +421,25 @@ doit être neuf.
 
 **12** 
 
-- **(1)** Tout contenant de sirop d’érable classé selon le présent règlement porte une étiquette où figurent
-	- **a)** les mots «sirop d’érable» et «maple syrup»;
-	- **b)** le nom de la catégorie, sur la même surface que le nom du produit et en caractère figurant à l’annexe IV;
-	- **c)** le nom de la classe de couleur en français et en anglais, à côté du nom de la catégorie et dans les caractères indiqués à l’annexe IV;
-	- **d)** une déclaration exacte de la quantité nette en litres ou, si inférieure à un litre, en millilitres;
-	- **e)** une indication :
-		- **(i)** soit des nom et adresse de l’établissement de l’érablière, de l’établissement d’emballage ou de l’établissement de l’expéditeur du sirop d’érable,
-		- **(ii)** soit des nom et adresse du premier commerçant et du numéro d’agrément de l’établissement d’emballage.
+- **(1)** Tout contenant de sirop d’érable classé selon le présent règlement porte une étiquette où figurent :
+	- **a)** la mention « sirop d’érable »;
+	- **b)** le nom de catégorie, sur la même surface que le nom du produit et en caractères figurant à l’annexe IV;
+	- **c)** dans le cas de sirop d’érable « Canada catégorie A », la classe de couleur en français et en anglais;
+	- **d)** la quantité nette en litres ou, si elle est inférieure à un litre, en millilitres;
+	- **e)** l’une ou l’autre des indications suivantes :
+		- **(i)** les nom et adresse de l’établissement de l’érablière, de l’établissement d’emballage ou de l’établissement de l’expéditeur du sirop d’érable,
+		- **(ii)** les nom et adresse du premier commerçant et le numéro d’agrément de l’établissement d’emballage;
+	- **f)** le numéro de lot ou le code de production.
 
 - **(2)** Lorsque l’aire de la principale surface exposée d’une étiquette correspond à la colonne I de l’annexe IV, la hauteur minimale des caractères à utiliser est celle visée à la colonne II.
 
 - **(3)** Tout contenant de produit de l’érable, autre que le sirop d’érable, expédié sur les marchés interprovincial et international porte une étiquette où figurent
 	- **a)** le nom du produit;
-	- **b)** une déclaration exacte de la quantité nette en kilogrammes ou, si elle est inférieure à un kilogramme, en grammes; et
+	- **b)** la quantité nette en kilogrammes ou, si elle est inférieure à un kilogramme, en grammes;
 	- **c)** une indication :
 		- **(i)** soit des nom et adresse de l’établissement de l’érablière ou de l’établissement d’emballage,
 		- **(ii)** soit des nom et adresse du premier commerçant et du numéro d’agrément de l’établissement d’emballage.
-> DORS/91-371, art. 5.
+> DORS/91-371, art. 5; DORS/2014-297, art. 6.
 
 
 
@@ -554,33 +577,31 @@ doit être neuf.
 
 **19** 
 
-- **(1)** Il est interdit d’importer au Canada
-	- **a)** du sirop d’érable emballé dans un contenant dont la capacité est d’au plus 5 L, sauf aux conditions suivantes :
-		- **(i)** le contenant porte l’un des noms de catégorie n<sup>o</sup> 1, n<sup>o</sup> 2 ou n<sup>o</sup> 3 sur la même surface de l’étiquette que le nom du produit et dans les caractères indiqués à l’annexe IV,
-		- **(ii)** le sirop d’érable est conforme à des normes correspondant aux exigences de la catégorie figurant à l’annexe I, dont le numéro correspond à celui du nom de sa catégorie,
-		- **(iii)** le contenant porte le nom de la classe de couleur en anglais et en français à côté du nom de la catégorie et dans les caractères indiqués à l’annexe IV,
-		- **(iv)** le pourcentage de transmission de lumière du sirop d’érable est celui requis à l’annexe III pour la classe de couleur apparaissant sur l’étiquette,
-		- **(v)** le sirop d’érable est emballé conformément à l’article 10, et
-		- **(vi)** le contenant porte une étiquette comportant
-			- **(A)** le nom du produit,
-			- **(B)** une déclaration exacte de la quantité nette exprimée en litres ou, lorsque inférieure à un litre, en millilitres,
-			- **(C)** le nom et l’adresse de l’emballeur ou de l’importateur, et
-			- **(D)** le nom du pays d’origine; ou
-	- **b)** un produit de l’érable autre que du sirop d’érable, emballé dans un contenant dont la capacité est d’au plus 5 kg, sauf aux conditions suivantes :
-		- **(i)** il est conforme à des normes correspondant à celles visées à l’annexe II,
-		- **(ii)** il est emballé conformément à l’article 10, et
-		- **(iii)** il porte une étiquette comportant
-			- **(A)** le nom du produit,
-			- **(B)** une déclaration exacte de la quantité nette exprimée en kilogrammes ou, lorsque inférieure à 1 kilogramme, en grammes,
-			- **(C)** le nom et l’adresse de l’emballeur ou de l’importateur, et
-			- **(D)** le nom du pays d’origine.
+- **(1)** Seul le sirop d’érable qui remplit les exigences suivantes peut être importé au Canada :
+	- **a)** son contenant porte la mention « Catégorie A » ou « Catégorie de transformation » sur la même surface de l’étiquette que le nom du produit et dans les caractères indiqués à l’annexe IV;
+	- **b)** dans le cas de sirop d’érable « Catégorie A », son contenant porte, en français et en anglais, la mention de la classe de couleur qui s’appliquerait s’il avait été classé « Canada catégorie A »;
+	- **c)** dans le cas de sirop d’érable « Catégorie A », le pourcentage de transmission de lumière est celui requis à l’annexe III pour la classe couleur apparaissant sur l’étiquette;
+	- **d)** il est emballé conformément à l’article 10;
+	- **e)** son contenant porte une étiquette comportant :
+		- **(i)** la mention « sirop d’érable »,
+		- **(ii)** la quantité nette en litres ou, si elle est inférieure à un litre, en millilitres,
+		- **(iii)** les nom et adresse de l’emballeur ou de l’importateur,
+		- **(iv)** le nom du pays d’origine,
+		- **(v)** le numéro de lot ou le code de production.
 
-- **(2)** Il est interdit d’importer au Canada du sirop d’érable emballé dans un contenant dont la capacité est de plus de 5 L ou un produit de l’érable autre que du sirop d’érable, emballé dans un contenant dont la capacité est de plus de 5 kg, sauf aux conditions suivantes :
-	- **a)** le produit est conforme
-		- **(i)** dans le cas du sirop d’érable, aux sous-alinéas (1)a)(i) à (vi), et
-		- **(ii)** dans le cas d’un produit de l’érable autre que du sirop d’érable, aux sous-alinéas (1)b)(i) à (iii); ou
-	- **b)** une autorisation écrite est obtenue du directeur exécutif pour chaque expédition avant son entrée au Canada et, à son entrée, l’expédition fait l’objet de toute inspection ou analyse nécessaire pour déterminer la conformité du produit au présent règlement.
-> DORS/81-577, art. 6; DORS/97-292, art. 11; DORS/2000-184, art. 14.
+- **(2)** Seul un produit de l’érable, autre que du sirop d’érable, qui remplit les exigences suivantes peut être importé au Canada  :
+	- **a)** il est conforme à l’une des normes figurant à l’annexe II;
+	- **b)** il est emballé conformément à l’article 10;
+	- **c)** son contenant porte une étiquette comportant :
+		- **(i)** le nom du produit de l’érable,
+		- **(ii)** la quantité nette en kilogrammes ou, si elle est inférieure à 1 kilogramme, en grammes,
+		- **(iii)** les nom et adresse de l’emballeur ou de l’importateur,
+		- **(iv)** le nom du pays d’origine.
+
+- **(3)** Le sirop d’érable ou le produit de l’érable autre que du sirop d’érable emballé, respectivement, dans un contenant dont la capacité est de plus de 5 L ou de plus de 5 kg n’a pas à remplir les exigences prévues aux paragraphes (1) ou (2) pour être importé, si :
+	- **a)** avant son entrée au Canada, l’envoi a fait l’objet d’une autorisation écrite du président de l’Agence;
+	- **b)** à son entrée au Canada, l’envoi fait l’objet de toute inspection ou analyse nécessaire pour déterminer sa conformité aux autres exigences du présent règlement.
+> DORS/81-577, art. 6; DORS/97-292, art. 11; DORS/2000-184, art. 14; DORS/2014-297, art. 7.
 
 
 
@@ -681,24 +702,23 @@ doit être neuf.
 
 
 ### **ANNEXE I** 
-**(articles 4, 15 et 19)**
-## Exigences des catégories de sirop d’érable
-**1** Le sirop d’érable peut être classé «Canada N<sup>o</sup> 1» si, en plus de répondre aux exigences visées à l’article 5 du présent règlement,
+**(article 4 et paragraphe 15(1))**
+## Exigences relatives aux noms de catégorie de sirop d’érable
+**1** Le sirop d’érable peut être classé « Canada catégorie A » si, à la fois, en plus de remplir les exigences visées à l’article 5 du présent règlement :
 - **a)** il ne fermente pas;
-- **b)** il est limpide et de couleur uniforme;
-- **c)** sa classe de couleur est Extra clair, Clair ou Médium; et
-- **d)** il possède une saveur d’érable caractéristique de sa classe de couleur et est exempt d’odeur ou de goût désagréable.
+- **b)** il est limpide, de couleur uniforme et exempt de sédiments et de turbidité;
+- **c)** il est de l’une ou l’autre des classes de couleur ci-après :
+	- **(i)** doré, goût délicat,
+	- **(ii)** ambré, goût riche,
+	- **(iii)** foncé, goût robuste,
+	- **(iv)** très foncé, goût prononcé;
+- **d)** il possède une saveur d’érable caractéristique de sa classe de couleur et est exempt d’odeur ou de goût désagréables.
 
 
-**2** Le sirop d’érable peut être classé «Canada N<sup>o</sup> 2» si, en plus de répondre aux exigences visées à l’article 5 du présent règlement,
-- **a)** il ne fermente pas;
-- **b)** il est limpide et de couleur uniforme;
-- **c)** sa classe de couleur est Ambré; et
-- **d)** il possède une saveur d’érable caractéristique de sa classe de couleur et est exempt d’odeur ou de goût désagréable.
+**2** Le sirop d’érable, autre que celui classé « Canada catégorie A », peut être classé « Canada catégorie de transformation » s’il remplit les exigences visées à l’article 5 du présent règlement.
 
 
-**3** Le sirop d’érable peut être classé «Canada N<sup>o</sup> 3» si, en plus de répondre aux exigences visées à l’article 5 du présent règlement, il possède une saveur d’érable caractéristique et est exempt d’odeur ou de goût désagréable avec tout au plus une trace de goût de caramel, de bourgeon ou de sève.
-
+> DORS/2014-297, art. 8.
 
 
 
@@ -724,83 +744,62 @@ doit être neuf.
 
 
 ### **ANNEXE III** 
-**(articles 2, 5 et 19)**
-## Les classes de couleur pour le sirop d’érable
-**1** La transmission de lumière du sirop d’érable se détermine au moyen de la méthode optique
-- **a)** soit au spectrophotomètre en utilisant des cellules optiques carrées où le sentier de lumière est de 10 mm et la longueur d’onde de 560 nm, la couleur étant exprimée en pourcentage de transmission de lumière en comparaison au A.R. Glycérol qui représente 100 pour cent de transmission; ou
-- **b)** soit avec un comparateur visuel en verre approuvé dont les spécifications optiques correspondent autant que possible à la méthode visée à l’alinéa a).
+**(article 2, alinéas 5(1)f) et 19(1)c))**
+## Classes de couleur pour le sirop d’érable « Canada catégorie A »
+**1** La transmission de lumière du sirop d’érable « Canada catégorie A » est déterminée à partir de l’un ou l’autre des moyens suivants :
+- **a)** au spectrophotomètre en utilisant des cellules optiques carrées où le sentier de lumière est de 10 mm et la longueur d’onde de 560 nm, la couleur étant exprimée en pourcentage de transmission de lumière en comparaison au A.R. Glycérol qui représente 100 % de transmission;
+- **b)** avec un comparateur visuel en verre dont les spécifications optiques correspondent autant que possible à la méthode visée à l’alinéa a).
 
 
-**2** Le sirop d’érable est considéré comme étant d’une classe de couleur visée à la colonne I du tableau si son pourcentage de transmission de lumière est celui visé à la colonne II.
+**2** Le sirop d’érable « Canada catégorie A » est considéré comme étant d’une classe de couleur visée à la colonne I du tableau si son pourcentage de transmission de lumière est celui visé à la colonne II.
 #### TABLEAU
 <table>
 <tr>
-<th></th>
+<th>Article</th>
 <th>Colonne I</th>
 <th>Colonne II</th>
 </tr>
 <tr>
-<th>Article</th>
 <th>Classe de couleur</th>
-<th>Pourcentage de transmission de lumière</th>
+<th>Pourcentage de transmission de lumière</th>
 </tr>
 <tr>
 <td>1</td>
-<td>Extra clair (Extra Light)</td>
+<td>Doré, goût délicat (*Golden, Delicate Taste*)</td>
 <td>au moins</td>
 <td>75,0</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Clair (Light)</td>
-<td>inférieur à
-
-mais d’au moins
-
-</td>
-<td>75,0
-
-60,5
-
-</td>
+<td>Ambré, goût riche (*Amber, Rich Taste*)</td>
+<td>inférieur à</td>
+<td>75,0</td>
+</tr>
+<tr>
+<td>mais d’au moins</td>
+<td>50,0</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Médium (Medium)</td>
-<td>inférieur à
-
-mais d’au moins
-
-</td>
-<td>60,5
-
-44,0
-
-</td>
+<td>Foncé, goût robuste (*Dark, Robust Taste*)</td>
+<td>inférieur à</td>
+<td>50,0</td>
+</tr>
+<tr>
+<td>mais d’au moins</td>
+<td>25,0</td>
 </tr>
 <tr>
 <td>4</td>
-<td>Ambré (Amber)</td>
-<td>inférieur à
-
-mais d’au moins
-
-</td>
-<td>44,0
-
-27,0
-
-</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Foncé (Dark)</td>
+<td>Très foncé, goût prononcé (*Very Dark, Strong Taste*)</td>
 <td>inférieur à</td>
-<td>27,0</td>
+<td>25,0</td>
 </tr>
 </table>
 
 
+
+> DORS/2014-297, art. 9.
 
 
 
