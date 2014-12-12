@@ -3805,8 +3805,8 @@ JAUNE
 </table>
 
 
-- **(3)** Le présent article cesse d’avoir effet le 31 janvier 2016.
-> DORS/79-677, art. 3; DORS/79-907, art. 1; DORS/93-561, art. 4; DORS/97-421, art. 16; DORS/2007-180, art. 6; DORS/2009-318, art. 8; DORS/2009-330, art. 1; DORS/2011-238, art. 1..
+- **(3)** [Abrogé, DORS/2014-307, art. 1]
+> DORS/79-677, art. 3; DORS/79-907, art. 1; DORS/93-561, art. 4; DORS/97-421, art. 16; DORS/2007-180, art. 6; DORS/2009-318, art. 8; DORS/2009-330, art. 1; DORS/2011-238, art. 1; DORS/2014-307, art. 1..
 
 
 
@@ -4108,11 +4108,8 @@ JAUNE
 
 - **(65)** Les feux de jour doivent être conformes aux dispositions S5.1.3 et S5.3 du DNT 108.
 
-### Cessation d’effet
-
-
-- **(66)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2015.
-> DORS/79-306, art. 3; DORS/80-636, art. 2; DORS/84-812, art. 3; DORS/86-979, art. 1; DORS/87-497, art. 2; DORS/87-660, art. 4; DORS/88-268, art. 5; DORS/91-692, art. 2; DORS/94-374, art. 5; DORS/94-692, art. 2(F); DORS/95-147, art. 8; DORS/95-164, art. 5; DORS/96-366, art. 5; DORS/97-421, art. 16, 18(A) et 22(F); DORS/99-112, art. 1; DORS/99-426, art. 1; DORS/2000-182, art. 5; DORS/2001-60, art. 1; DORS/2001-116, art. 1; DORS/2001-353, art. 2; DORS/2003-272, art. 10; DORS/2005-42, art. 1 et 2; DORS/2006-94, art. 4(A); DORS/2008-104, art. 12; DORS/2009-330, art. 2..
+- **(66)** [Abrogé, DORS/2014-307, art. 2]
+> DORS/79-306, art. 3; DORS/80-636, art. 2; DORS/84-812, art. 3; DORS/86-979, art. 1; DORS/87-497, art. 2; DORS/87-660, art. 4; DORS/88-268, art. 5; DORS/91-692, art. 2; DORS/94-374, art. 5; DORS/94-692, art. 2(F); DORS/95-147, art. 8; DORS/95-164, art. 5; DORS/96-366, art. 5; DORS/97-421, art. 16, 18(A) et 22(F); DORS/99-112, art. 1; DORS/99-426, art. 1; DORS/2000-182, art. 5; DORS/2001-60, art. 1; DORS/2001-116, art. 1; DORS/2001-353, art. 2; DORS/2003-272, art. 10; DORS/2005-42, art. 1 et 2; DORS/2006-94, art. 4(A); DORS/2008-104, art. 12; DORS/2009-330, art. 2; DORS/2014-307, art. 2..
 
 
 
@@ -4214,10 +4211,7 @@ JAUNE
 
 - **(8)** Dans le cas des véhicules munis de pneus pour camion léger, le symbole d’identification de la limite de charge doit figurer soit sur l’étiquette de conformité exigée par l’article 6 du présent règlement, soit sur la plaque du véhicule ou l’étiquette de pression de gonflage des pneus, à la suite de la désignation des dimensions du pneu.
 
-#### Cessation d’effet
-
-
-- **(9)** Le présent article cesse d’avoir effet le 31 mars 2018.
+- **(9)** [Abrogé, DORS/2014-307, art. 3]
 > Image: Figure montrant un exemple unilingue français de la plaque du véhicule qui comporte les renseignements exigés par l’alinéa 110(2)b).
 
 > Image: Figure montrant un exemple unilingue anglais de plaque de véhicule qui comporte les renseignements exigés par l’alinéa 110(2)b).
@@ -4230,7 +4224,7 @@ JAUNE
 
 > Image: Figure montrant un exemple bilingue d’étiquette de pression de gonflage des pneus qui comporte les renseignements exigés par l’alinéa 110(2)a).
 
-> DORS/79-339, art. 3; DORS/79-940, art. 7; DORS/87-448, art. 1; DORS/2003-272, art. 12; DORS/2008-258, art. 8; DORS/2014-82, art. 1..
+> DORS/79-339, art. 3; DORS/79-940, art. 7; DORS/87-448, art. 1; DORS/2003-272, art. 12; DORS/2008-258, art. 8; DORS/2014-82, art. 1; DORS/2014-307, art. 3..
 
 
 
@@ -4448,7 +4442,7 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 
 - **(2)** Dans le DNT 114, la mention ***mis en mouvement*** s’entend du déplacement du véhicule par ses propres moyens.
 
-- **(3)** Le présent article cesse d’avoir effet le 31 mars 2018.
+- **(3)** [Abrogé, DORS/2014-307, art. 4]
 
 #### Système d’immobilisation
 
@@ -4536,7 +4530,7 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 	- **b)** pour l’application du paragraphe 8.2.7, le mot ***rapidement*** s’entend d’une période de moins de cinq minutes et le mot ***longue***, d’une période d’au moins cinq minutes;
 	- **c)** malgré toute disposition contraire des paragraphes 8.2.10 et 8.2.11, le système d’immobilisation ne doit avoir aucune incidence sur le système de freinage du véhicule;
 	- **d)** les renvois au paragraphe 8.4 ne s’appliquent pas.
-> DORS/79-940, art. 7; DORS/95-164, art. 6; DORS/97-264, art. 3; DORS/97-421, art. 6; DORS/2005-45, art. 4; DORS/2007-246, art. 3; DORS/2008-104, art. 13; DORS/2009-32, art. 2; DORS/2009-330, art. 3; DORS/2011-69, art. 1; DORS/2014-82, art. 2..
+> DORS/79-940, art. 7; DORS/95-164, art. 6; DORS/97-264, art. 3; DORS/97-421, art. 6; DORS/2005-45, art. 4; DORS/2007-246, art. 3; DORS/2008-104, art. 13; DORS/2009-32, art. 2; DORS/2009-330, art. 3; DORS/2011-69, art. 1; DORS/2014-82, art. 2; DORS/2014-307, art. 4..
 
 
 
@@ -4571,7 +4565,7 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 	- **f)** être lisible sans qu’il soit nécessaire d’enlever une partie du véhicule;
 	- **g)** être protégé contre la corrosion.
 
-- **(2.2)** Au choix du fabricant, le numéro d’identification du véhicule peut aussi figurer sous forme d’un code à barres, laquelle doit satisfaire aux exigences de l’article 5.6 de la ligne directrice AIAG B-10, *Trading Partner Labels Implementation Guideline* (février 2000), à l’exception des spécifications relatives aux dimensions et à la densité du code, qui doivent satisfaire aux exigences de l’article 4.1 de la norme AIAG B-2, *Vehicle Identification Number Label Standard* (juin 1988).
+- **(2.2)** Au choix du fabricant, le numéro d’identification du véhicule peut aussi figurer sous forme d’un code à barres, laquelle doit satisfaire aux exigences de l’article 5.6 de la ligne directrice AIAG B-10, *Trading Partner Labels Implementation Guideline* (février 2000), à l’exception des spécifications relatives aux dimensions et à la densité du code, qui doivent satisfaire aux exigences de l’article 4.1 de la norme AIAG B-2, Vehicle Identification Number Label Standard (juin 1988).
 
 - **(2.3)** Le numéro d’identification du véhicule sous forme d’un code à barres doit figurer :
 	- **a)** soit sur l’étiquette de conformité ou l’étiquette informative du véhicule;
@@ -4973,8 +4967,8 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 </table>
 
 
-- **(3)** Le présent article cesse d’avoir effet le 31 janvier 2016.
-> DORS/79-940, art. 7; DORS/93-561, art. 6; DORS/97-421, art. 21(F); DORS/2007-180, art. 7; DORS/2009-318, art. 9 et 10; DORS/2011-238, art. 2..
+- **(3)** [Abrogé, DORS/2014-307, art. 5]
+> DORS/79-940, art. 7; DORS/93-561, art. 6; DORS/97-421, art. 21(F); DORS/2007-180, art. 7; DORS/2009-318, art. 9 et 10; DORS/2011-238, art. 2; DORS/2014-307, art. 5..
 
 
 
@@ -4987,8 +4981,8 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(2)** Cependant, les véhicules construits avant le 1<sup>er</sup> octobre 2010 n’ont pas à être conformes aux exigences de la disposition S6 du DNT 118.
 
-- **(3)** Le présent article cesse d’avoir effet le 31 janvier 2016.
-> DORS/79-940, art. 7; DORS/86-682, art. 2; DORS/95-164, art. 7; DORS/97-421, art. 8; DORS/98-524, art. 4(F); DORS/2003-272, art. 16; DORS/2006-94, art. 4(A); DORS/2007-180, art. 8; DORS/2011-238, art. 2..
+- **(3)** [Abrogé, DORS/2014-307, art. 6]
+> DORS/79-940, art. 7; DORS/86-682, art. 2; DORS/95-164, art. 7; DORS/97-421, art. 8; DORS/98-524, art. 4(F); DORS/2003-272, art. 16; DORS/2006-94, art. 4(A); DORS/2007-180, art. 8; DORS/2011-238, art. 2; DORS/2014-307, art. 6..
 
 
 
@@ -5025,11 +5019,8 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(5)** Dans le cas des véhicules munis de pneus pour camion léger, le symbole d’identification de la limite de charge doit figurer soit sur l’étiquette de conformité exigée par l’article 6 du présent règlement, soit sur l’étiquette informative relative aux pneus.
 
-#### Cessation d’effet
-
-
-- **(6)** Le présent article cesse d’avoir effet le 31 mars 2018.
-> DORS/79-340, art. 3; DORS/79-696, art. 1 et 2; DORS/87-451, art. 1; DORS/94-670, art. 2(F); DORS/95-147, art. 10; DORS/2002-55, art. 15 et 21; DORS/2003-272, art. 17; DORS/2005-342, art. 3; DORS/2006-94, art. 4(A); DORS/2008-258, art. 9; DORS/2013-198, art. 15; DORS/2014-82, art. 3..
+- **(6)** [Abrogé, DORS/2014-307, art. 7]
+> DORS/79-340, art. 3; DORS/79-696, art. 1 et 2; DORS/87-451, art. 1; DORS/94-670, art. 2(F); DORS/95-147, art. 10; DORS/2002-55, art. 15 et 21; DORS/2003-272, art. 17; DORS/2005-342, art. 3; DORS/2006-94, art. 4(A); DORS/2008-258, art. 9; DORS/2013-198, art. 15; DORS/2014-82, art. 3; DORS/2014-307, art. 7..
 
 
 
@@ -5057,8 +5048,8 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(6)** L’essai qui concerne la force de freinage statique sur les freins de stationnement et qui est visé à la disposition S5.6.1 du DNT 121 doit être effectué dans les deux directions, vers l’avant et vers l’arrière.
 
-- **(7)** Les paragraphes (3), (5) et (6) cessent d’avoir effet le 1<sup>er</sup> janvier 2017.
-> DORS/78-351, art. 2; DORS/79-547, art. 1; DORS/79-940, art. 7; DORS/80-638, art. 2; DORS/92-250, art. 4; DORS/94-374, art. 5(F); DORS/94-670, art. 2(F); DORS/95-147, art. 15(F); DORS/96-89, art. 3 et 4(F); DORS/97-200, art. 6; DORS/97-421, art. 9(A) et 22(F); DORS/98-524, art. 4(F); DORS/99-357, art. 4; DORS/2002-55, art. 21; DORS/2005-42, art. 13; DORS/2008-104, art. 14; DORS/2009-79, art. 2; DORS/2009-318, art. 19(F); DORS/2013-220, art. 1..
+- **(7)** [Abrogé, DORS/2014-307, art. 8]
+> DORS/78-351, art. 2; DORS/79-547, art. 1; DORS/79-940, art. 7; DORS/80-638, art. 2; DORS/92-250, art. 4; DORS/94-374, art. 5(F); DORS/94-670, art. 2(F); DORS/95-147, art. 15(F); DORS/96-89, art. 3 et 4(F); DORS/97-200, art. 6; DORS/97-421, art. 9(A) et 22(F); DORS/98-524, art. 4(F); DORS/99-357, art. 4; DORS/2002-55, art. 21; DORS/2005-42, art. 13; DORS/2008-104, art. 14; DORS/2009-79, art. 2; DORS/2009-318, art. 19(F); DORS/2013-220, art. 1; DORS/2014-307, art. 8..
 
 
 
@@ -5179,8 +5170,8 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(15)** L’affichage des feux de changement de direction installé sur une motocyclette doit être vert ou jaune.
 
-- **(16)** Le présent article cesse d’avoir effet le 31 janvier 2016.
-> DORS/79-306, art. 5; DORS/79-940, art. 7; DORS/82-656, art. 3; DORS/88-268, art. 10; DORS/93-31, art. 5; DORS/94-374, art. 5(F); DORS/95-536, art. 7; DORS/96-366, art. 8; DORS/97-421, art. 10, 11(F), 12(F) et 22(F); DORS/98-524, art. 4(F); DORS/2003-272, art. 19; DORS/2007-180, art. 10; DORS/2009-318, art. 11; DORS/2011-238, art. 3..
+- **(16)** [Abrogé, DORS/2014-307, art. 9]
+> DORS/79-306, art. 5; DORS/79-940, art. 7; DORS/82-656, art. 3; DORS/88-268, art. 10; DORS/93-31, art. 5; DORS/94-374, art. 5(F); DORS/95-536, art. 7; DORS/96-366, art. 8; DORS/97-421, art. 10, 11(F), 12(F) et 22(F); DORS/98-524, art. 4(F); DORS/2003-272, art. 19; DORS/2007-180, art. 10; DORS/2009-318, art. 11; DORS/2011-238, art. 3; DORS/2014-307, art. 9..
 
 
 
@@ -5191,8 +5182,8 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(1)** Les voitures de tourisme, les véhicules de tourisme à usages multiples, les camions, les autobus et les véhicules à trois roues doivent être conformes aux exigences du Document de normes techniques no 124 — Systèmes de commande d’accélération, avec ses modifications successives.
 
-- **(2)** Le présent article cesse d’avoir effet le 31 janvier 2016.
-> DORS/79-940, art. 7; DORS/2007-180, art. 10; DORS/2011-238, art. 3..
+- **(2)** [Abrogé, DORS/2014-307, art. 10]
+> DORS/79-940, art. 7; DORS/2007-180, art. 10; DORS/2011-238, art. 3; DORS/2014-307, art. 10..
 
 
 
@@ -5203,8 +5194,8 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(1)** Les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus d’un PNBV de 4 536 kg ou moins doivent être conformes aux exigences du Document de normes techniques n° 126 — Systèmes de contrôle électronique de la stabilité (DNT 126), avec ses modifications successives.
 
-- **(2)** Le présent article cesse d’avoir effet le 31 janvier 2017.
-> DORS/2013-55, art. 1..
+- **(2)** [Abrogé, DORS/2014-307, art. 11]
+> DORS/2013-55, art. 1; DORS/2014-307, art. 11..
 
 
 
@@ -5217,8 +5208,8 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(2)** Le mot « ARRÊT » peut figurer à la place du mot « *STOP* » ou avec celui-ci, de la manière précisée pour le mot « *STOP* » à la disposition S5.2.2 du DNT 131.
 
-- **(3)** Le présent article cesse d’avoir effet le 31 janvier 2016.
-> DORS/96-366, art. 9; DORS/2001-116, art. 2; DORS/2005-42, art. 5 et 6; DORS/2009-79, art. 3; DORS/2011-238, art. 3..
+- **(3)** [Abrogé, DORS/2014-307, art. 12]
+> DORS/96-366, art. 9; DORS/2001-116, art. 2; DORS/2005-42, art. 5 et 6; DORS/2009-79, art. 3; DORS/2011-238, art. 3; DORS/2014-307, art. 12..
 
 
 
@@ -5343,12 +5334,8 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 ### Appuie-tête
 
-**202** 
-
-- **(1)** Sous réserve du paragraphe (2), les véhicules de tourisme à usages multiples, autobus ou camions ayant un PNBV d’au plus 4 536 kg, les voitures de tourisme et les véhicules à trois roues doivent être conformes aux exigences du Document de normes techniques no 202 — Appuie-tête (DNT 202), avec ses modifications successives.
-
-- **(2)** Le présent article cesse d’avoir effet le 31 mars 2018.
-> DORS/95-60, art. 2; DORS/2003-272, art. 21; DORS/2006-94, art. 4(A); DORS/2007-180, art. 11; DORS/2008-72, art. 4(F); DORS/2009-122, art. 1; DORS/2014-82, art. 5..
+**202** Les véhicules de tourisme à usages multiples, autobus ou camions ayant un PNBV d’au plus 4 536 kg, les voitures de tourisme et les véhicules à trois roues doivent être conformes aux exigences du Document de normes techniques no 202 — Appuie-tête (DNT 202), avec ses modifications successives.
+> DORS/95-60, art. 2; DORS/2003-272, art. 21; DORS/2006-94, art. 4(A); DORS/2007-180, art. 11; DORS/2008-72, art. 4(F); DORS/2009-122, art. 1; DORS/2014-82, art. 5; DORS/2014-307, art. 13..
 
 
 
@@ -5367,8 +5354,8 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(4)** Les paragraphes (2) et (3) ne s’appliquent pas aux véhicules conformes aux exigences des dispositions S5 et S14 du Document de normes techniques no 208 — Protection des occupants en cas de collision (DNT 208), avec ses modifications successives.
 
-- **(5)** Le paragraphe (4) cesse d’avoir effet le 31 octobre 2017.
-> DORS/79-719, art. 2; DORS/83-138, art. 3; DORS/90-387, art. 3; DORS/94-291, art. 4; DORS/94-692, art. 2; DORS/97-201, art. 5; DORS/97-421, art. 17; DORS/2006-94, art. 4(A); DORS/2009-121, art. 2; DORS/2013-9, art. 3..
+- **(5)** [Abrogé, DORS/2014-307, art. 14]
+> DORS/79-719, art. 2; DORS/83-138, art. 3; DORS/90-387, art. 3; DORS/94-291, art. 4; DORS/94-692, art. 2; DORS/97-201, art. 5; DORS/97-421, art. 17; DORS/2006-94, art. 4(A); DORS/2009-121, art. 2; DORS/2013-9, art. 3; DORS/2014-307, art. 14..
 
 
 
@@ -5383,8 +5370,8 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(3)** Le paragraphe (1) ne s’applique pas aux véhicules conformes aux exigences des dispositions S5 et S14 du Document de normes techniques no 208 — Protection des occupants en cas de collision (DNT 208), avec ses modifications successives.
 
-- **(4)** Le présent article cesse d’avoir effet le 31 octobre 2017.
-> DORS/80-440, art. 2; DORS/83-138, art. 4; DORS/90-387, art. 1; DORS/94-692, art. 2(F); DORS/97-201, art. 5; DORS/97-421, art. 22(F); DORS/2006-94, art. 4(A); DORS/2008-72, art. 5; DORS/2009-121, art. 2; DORS/2013-9, art. 4..
+- **(4)** [Abrogé, DORS/2014-307, art. 15]
+> DORS/80-440, art. 2; DORS/83-138, art. 4; DORS/90-387, art. 1; DORS/94-692, art. 2(F); DORS/97-201, art. 5; DORS/97-421, art. 22(F); DORS/2006-94, art. 4(A); DORS/2008-72, art. 5; DORS/2009-121, art. 2; DORS/2013-9, art. 4; DORS/2014-307, art. 15..
 
 
 
@@ -5440,8 +5427,8 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(2)** Pour l’application du paragraphe 6.3.2 du règlement n<sup>o</sup> 11 de la CEE, le dispositif de verrouillage est celui visé aux alinéas 6.3.2.1a) ou b) de ce règlement.
 
-- **(3)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2017.
-> DORS/97-14, art. 2; DORS/2001-116, art. 3; DORS/2002-55, art. 21; DORS/2003-272, art. 23; DORS/2005-42, art. 7 et 8; DORS/2006-94, art. 4(A); DORS/2008-73, art. 3; DORS/2009-34, art. 1; DORS/2013-220, art. 2..
+- **(3)** [Abrogé, DORS/2014-307, art. 16]
+> DORS/97-14, art. 2; DORS/2001-116, art. 3; DORS/2002-55, art. 21; DORS/2003-272, art. 23; DORS/2005-42, art. 7 et 8; DORS/2006-94, art. 4(A); DORS/2008-73, art. 3; DORS/2009-34, art. 1; DORS/2013-220, art. 2; DORS/2014-307, art. 16..
 
 
 
@@ -5456,8 +5443,8 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(3)** Dans le cas des camions et véhicules de tourisme à usages multiples ayant un PNBV supérieur à 4 563 kg et des autocaravanes, n’est pas considéré comme étant une place assise désignée le siège étiqueté conformément à la disposition S4.4 du DNT 207.
 
-- **(4)** Le présent article cesse d’avoir effet le 1<sup>er</sup> septembre 2017.
-> DORS/2011-264, art. 5..
+- **(4)** [Abrogé, DORS/2014-307, art. 17]
+> DORS/2011-264, art. 5; DORS/2014-307, art. 17..
 
 
 
@@ -5600,7 +5587,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(23)** Malgré la disposition S15.3.4 du DNT 208, le déplacement par compression du sternum de chaque dispositif anthropomorphe d’essai, par rapport à la colonne vertébrale dans la partie supérieure du thorax du dispositif, ne doit pas dépasser 45 mm, dans le cas d’un véhicule mis à l’essai conformément aux dispositions S16.1a)(2) ou S18 du DNT 208.
 
-- **(24)** Les paragraphes (13) à (23) cessent d’avoir effet le 31 octobre 2017.
+- **(24)** [Abrogé, DORS/2014-307, art. 18]
 
 #### Étiquette d’avertissement — sac gonflable
 
@@ -5615,7 +5602,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 
 - **(26)** Jusqu’au 1<sup>er</sup> septembre 2015, les autobus, les camions, les motocyclettes à habitacle fermé, les véhicules de tourisme à usages multiples, les voitures de tourisme et les véhicules à trois roues peuvent être conformes aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
-> DORS/78-80, art. 2; DORS/80-782, art. 2; DORS/87-578, art. 2; DORS/90-387, art. 3; DORS/93-5, art. 4; DORS/97-201, art. 5; DORS/97-447, art. 5; DORS/98-125, art. 6; DORS/98-524, art. 4(F); DORS/2002-55, art. 17; DORS/2003-272, art. 24; DORS/2006-94, art. 4(A); DORS/2007-180, art. 12; DORS/2008-72, art. 6; DORS/2008-104, art. 16(F); DORS/2013-9, art. 5 et 6..
+> DORS/78-80, art. 2; DORS/80-782, art. 2; DORS/87-578, art. 2; DORS/90-387, art. 3; DORS/93-5, art. 4; DORS/97-201, art. 5; DORS/97-447, art. 5; DORS/98-125, art. 6; DORS/98-524, art. 4(F); DORS/2002-55, art. 17; DORS/2003-272, art. 24; DORS/2006-94, art. 4(A); DORS/2007-180, art. 12; DORS/2008-72, art. 6; DORS/2008-104, art. 16(F); DORS/2013-9, art. 5 et 6; DORS/2014-307, art. 18..
 
 
 
@@ -6377,8 +6364,8 @@ Remarque : Le dessin n’est pas à l’échelle.
 
 - **(2)** Les véhicules de tourisme à usages multiples, autobus et camions d’un PNBV d’au plus 4 536 kg, à l’exception des fourgons à accès en position debout, des véhicules de type à cabine avancée et des véhicules de type ouvert pourvus d’un pare-brise rabattable ou amovible, doivent être conformes aux exigences du DNT 212, avec ses modifications successives.
 
-- **(3)** Le présent article cesse d’avoir effet le 31 octobre 2017.
-> DORS/80-282, art. 3; DORS/82-274, art. 1; DORS/90-387, art. 2(F); DORS/93-5, art. 6; DORS/94-692, art. 2(F); DORS/95-536, art. 7(F); DORS/97-201, art. 5; DORS/97-421, art. 17 et 22(F); DORS/2003-57, art. 2; DORS/2008-72, art. 10(F); DORS/2009-121, art. 3; DORS/2013-9, art. 7..
+- **(3)** [Abrogé, DORS/2014-307, art. 19]
+> DORS/80-282, art. 3; DORS/82-274, art. 1; DORS/90-387, art. 2(F); DORS/93-5, art. 6; DORS/94-692, art. 2(F); DORS/95-536, art. 7(F); DORS/97-201, art. 5; DORS/97-421, art. 17 et 22(F); DORS/2003-57, art. 2; DORS/2008-72, art. 10(F); DORS/2009-121, art. 3; DORS/2013-9, art. 7; DORS/2014-307, art. 19..
 
 
 
@@ -6490,10 +6477,10 @@ Remarque : Le dessin n’est pas à l’échelle.
 	- **a)** expliquer les principales conséquences du fait de ne pas tenir compte des avertissements visés à l’alinéa (19)b) ou des instructions visées au paragraphe (21);
 	- **b)** dans le cas d’un siège de véhicule qui peut être retiré de celui-ci grâce à un mécanisme de blocage et qui est muni d’un ensemble intégré de retenue ou d’un siège d’appoint intégré, préciser que le siège du véhicule, qu’il soit occupé ou non, doit être solidement assujetti au véhicule.
 
-- **(23)** Les paragraphes (2), (3) et (6) à (8) cessent d’avoir effet le 1<sup>er</sup> septembre 2017.
+- **(23)** [Abrogé, DORS/2014-307, art. 20]
 
 - **(24)** Jusqu’au 1<sup>er</sup> septembre 2013, les ensembles intégrés de retenue et les sièges d’appoint intégrés peuvent être conformes aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
-> DORS/94-669, art. 6; DORS/2007-180, art. 16 et 21; DORS/2008-72, art. 11; DORS/2008-104, art. 18; DORS/2013-117, art. 11..
+> DORS/94-669, art. 6; DORS/2007-180, art. 16 et 21; DORS/2008-72, art. 11; DORS/2008-104, art. 18; DORS/2013-117, art. 11; DORS/2014-307, art. 20..
 
 
 
@@ -6567,8 +6554,8 @@ Remarque : Le dessin n’est pas à l’échelle.
 
 - **(3)** Jusqu’au 31 août 2016, les véhicules visés aux paragraphes (1) et (2) peuvent être conformes aux exigences du présent article dans sa version antérieure à la date à laquelle la présente version de l’article entre en vigueur.
 
-- **(4)** Le présent article cesse d’avoir effet le 31 mars 2018.
-> DORS/94-291, art. 5; DORS/2000-402, art. 1; DORS/2006-94, art. 4(A); DORS/2009-291, art. 4; DORS/2014-82, art. 6..
+- **(4)** [Abrogé, DORS/2014-307, art. 21]
+> DORS/94-291, art. 5; DORS/2000-402, art. 1; DORS/2006-94, art. 4(A); DORS/2009-291, art. 4; DORS/2014-82, art. 6; DORS/2014-307, art. 21..
 
 
 
@@ -6797,8 +6784,8 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 
 - **(2)** Les véhicules de tourisme à usages multiples, autobus et camions d’un PNBV d’au plus 4 536 kg, à l’exception des fourgons à accès en position debout, des véhicules de type à cabine avancée et des véhicules de type ouvert pourvus d’un pare-brise rabattable ou amovible, doivent être conformes aux exigences du DNT 219, avec ses modifications successives.
 
-- **(3)** Le présent article cesse d’avoir effet le 31 octobre 2017.
-> DORS/81-665, art. 2; DORS/97-201, art. 4; DORS/97-421, art. 17 et 22(F); DORS/2008-72, art. 12(F); DORS/2009-121, art. 4; DORS/2013-9, art. 8..
+- **(3)** [Abrogé, DORS/2014-307, art. 22]
+> DORS/81-665, art. 2; DORS/97-201, art. 4; DORS/97-421, art. 17 et 22(F); DORS/2008-72, art. 12(F); DORS/2009-121, art. 4; DORS/2013-9, art. 8; DORS/2014-307, art. 22..
 
 
 
@@ -6811,8 +6798,8 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 
 - **(2)** Les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV d’au plus 4 536 kg, qui sont fabriqués en deux étapes ou plus et qui ne sont pas fabriqués à partir d’un châssis-cabine, et les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV de plus de 2 722 kg et d’au plus 4 536 kg et qui sont munis d’un toit modifié doivent être conformes aux exigences du DNT 220 ou du DNT 216, lequel est mentionné à l’article 216 de la présente annexe.
 
-- **(3)** Le présent article cesse d’avoir effet le 31 mars 2018.
-> DORS/79-940, art. 9; DORS/2009-291, art. 5; DORS/2014-82, art. 7..
+- **(3)** [Abrogé, DORS/2014-307, art. 23]
+> DORS/79-940, art. 9; DORS/2009-291, art. 5; DORS/2014-82, art. 7; DORS/2014-307, art. 23..
 
 
 
@@ -7100,8 +7087,8 @@ ne doit pas dépasser 1 000, « a » étant l’accélération axiale exprim�
 
 - **(2)** Les autobus scolaires d’un PNBV de plus de 4 536 kg qui sont munis d’un circuit d’alimentation en carburant utilisant comme source d’énergie pour sa propulsion un carburant dont le point d’ébullition est de 0° C ou plus doivent être conformes aux exigences du DNT 301.
 
-- **(3)** Le présent article cesse d’avoir effet le 31 janvier 2016.
-> DORS/80-158, art. 1; DORS/97-421, art. 17; DORS/2001-152, art. 2; DORS/2004-89, art. 1; DORS/2006-94, art. 4(A); DORS/2008-258, art. 10; DORS/2009-79, art. 5; DORS/2011-238, art. 5..
+- **(3)** [Abrogé, DORS/2014-307, art. 24]
+> DORS/80-158, art. 1; DORS/97-421, art. 17; DORS/2001-152, art. 2; DORS/2004-89, art. 1; DORS/2006-94, art. 4(A); DORS/2008-258, art. 10; DORS/2009-79, art. 5; DORS/2011-238, art. 5; DORS/2014-307, art. 24..
 
 
 
@@ -7121,7 +7108,7 @@ ne doit pas dépasser 1 000, « a » étant l’accélération axiale exprim�
 
 - **(1.2)** Au lieu d’être soumis à un essai conformément au sous-alinéa (1)a)(iii), le véhicule visé au paragraphe (1) peut être soumis à un essai conformément à la disposition S6.3(b) du DNT 301, sauf les exigences relatives à l’écoulement de carburant, dans les conditions applicables mentionnées aux dispositions 3.2 à 3.4 de la Méthode d’essai 301.1 — Étanchéité du circuit d’alimentation en carburant de type GPL (28 février 2004) et à la disposition S7.2(b) du DNT 301.
 
-- **(1.3)** Les paragraphes (1.1) et (1.2) cessent d’avoir effet le 28 février 2009.
+- **(1.3)** [Abrogé, DORS/2014-307, art. 25]
 
 - **(2)** Lorsque le véhicule est soumis à un essai conformément aux paragraphes (1), (1.1) ou (1.2), les conditions suivantes doivent être respectées :
 	- **a)** l’écoulement de carburant du circuit d’alimentation en carburant après chaque impact depuis le moment de celui-ci jusqu’à une demi-heure après l’immobilisation complète du véhicule ne doit pas excéder 142 g;
@@ -7139,7 +7126,7 @@ ne doit pas dépasser 1 000, « a » étant l’accélération axiale exprim�
 - **(4)** Le fabricant d’un véhicule muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GPL pour sa propulsion doit remettre au ministre, sur demande, les renseignements concernant la version des normes visées au paragraphe (3) auxquelles le véhicule est conforme.
 
 - **(5)** [Abrogé, DORS/2004-89, art. 2]
-> DORS/82-754, art. 3; DORS/97-421, art. 17; DORS/2001-152, art. 2; DORS/2002-55, art. 18; DORS/2003-272, art. 29; DORS/2004-89, art. 2; DORS/2008-104, art. 20..
+> DORS/82-754, art. 3; DORS/97-421, art. 17; DORS/2001-152, art. 2; DORS/2002-55, art. 18; DORS/2003-272, art. 29; DORS/2004-89, art. 2; DORS/2008-104, art. 20; DORS/2014-307, art. 25..
 
 
 
@@ -7159,7 +7146,7 @@ ne doit pas dépasser 1 000, « a » étant l’accélération axiale exprim�
 
 - **(1.2)** Au lieu d’être soumis à un essai conformément au sous-alinéa (1)a)(iii), le véhicule visé au paragraphe (1) peut être soumis à un essai conformément à la disposition S6.3(b) du DNT 301, sauf les exigences relatives à l’écoulement de carburant, dans les conditions applicables mentionnées aux dispositions 3.2 à 3.4 de la Méthode d’essai 301.2 — Étanchéité du circuit d’alimentation en gaz naturel comprimé (28 février 2004) et à la disposition S7.2(b) du DNT 301.
 
-- **(1.3)** Les paragraphes (1.1) et (1.2) cessent d’avoir effet le 31 mars 2018.
+- **(1.3)** [Abrogé, DORS/2014-307, art. 26]
 
 - **(2)** Lorsque le véhicule est soumis à un essai conformément aux paragraphes (1), (1.1) ou (1.2), les conditions suivantes doivent être respectées :
 	- **a)** le réservoir de carburant demeure fixé au véhicule à au moins un point de fixation;
@@ -7186,7 +7173,7 @@ où :
 - **(5)** Le fabricant d’un véhicule muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GNC pour sa propulsion doit remettre au ministre, sur demande, les renseignements concernant la version des normes visées aux paragraphes (3) et (4) auxquelles le véhicule est conforme.
 
 - **(6)** [Abrogé, DORS/2004-89, art. 3]
-> DORS/82-754, art. 3; DORS/95-77, art. 1; DORS/2001-152, art. 2; DORS/2002-55, art. 19; DORS/2003-272, art. 30; DORS/2004-89, art. 3; DORS/2005-342, art. 5; DORS/2008-104, art. 21; DORS/2013-220, art. 4..
+> DORS/82-754, art. 3; DORS/95-77, art. 1; DORS/2001-152, art. 2; DORS/2002-55, art. 19; DORS/2003-272, art. 30; DORS/2004-89, art. 3; DORS/2005-342, art. 5; DORS/2008-104, art. 21; DORS/2013-220, art. 4; DORS/2014-307, art. 26..
 
 
 
@@ -7226,8 +7213,8 @@ où :
 
 - **(1)** Les matériaux intérieurs des voitures de tourisme, des véhicules de tourisme à usages multiples, des camions, des autobus et des véhicules à trois roues doivent être conformes aux exigences du Document de normes techniques no 302 — Inflammabilité des matériaux intérieurs, avec ses modifications successives.
 
-- **(2)** Le présent article cesse d’avoir effet le 31 janvier 2016.
-> DORS/78-525, art. 2; DORS/79-262, art. 1(F); DORS/2007-180, art. 18; DORS/2011-238, art. 6..
+- **(2)** [Abrogé, DORS/2014-307, art. 27]
+> DORS/78-525, art. 2; DORS/79-262, art. 1(F); DORS/2007-180, art. 18; DORS/2011-238, art. 6; DORS/2014-307, art. 27..
 
 
 
@@ -7248,8 +7235,8 @@ où :
 
 - **(5)** Les véhicules qui sont soumis à un essai conformément au paragraphe (4) doivent être conformes aux exigences des dispositions S5.1, S5.2 et S5.3 du DNT 305.
 
-- **(6)** Le présent article cesse d’avoir effet le 31 janvier 2016.
-> DORS/2001-486, art. 2; DORS/2003-272, art. 32; DORS/2004-89, art. 4; DORS/2004-250, art. 5; DORS/2005-42, art. 9 et 10; DORS/2006-94, art. 4(A); DORS/2009-318, art. 13; DORS/2011-238, art. 6..
+- **(6)** [Abrogé, DORS/2014-307, art. 28]
+> DORS/2001-486, art. 2; DORS/2003-272, art. 32; DORS/2004-89, art. 4; DORS/2004-250, art. 5; DORS/2005-42, art. 9 et 10; DORS/2006-94, art. 4(A); DORS/2009-318, art. 13; DORS/2011-238, art. 6; DORS/2014-307, art. 28..
 
 
 
@@ -7264,8 +7251,8 @@ où :
 
 - **(3)** Le présent article ne s’applique pas aux véhicules munis d’une porte arrière. Pour l’application du présent paragraphe, ***porte arrière*** s’entend au sens du DNT 401.
 
-- **(4)** Le présent article cesse d’avoir effet le 31 janvier 2016.
-> DORS/2007-180, art. 19; DORS/2008-73, art. 4; DORS/2009-318, art. 14; DORS/2011-238, art. 6..
+- **(4)** [Abrogé, DORS/2014-307, art. 29]
+> DORS/2007-180, art. 19; DORS/2008-73, art. 4; DORS/2009-318, art. 14; DORS/2011-238, art. 6; DORS/2014-307, art. 29..
 
 
 
@@ -7286,8 +7273,8 @@ où :
 
 - **(5)** Le panneau doit être apposé de sorte qu’il ne soit ni masqué ni obstrué par une partie du véhicule ou une pièce conçue pour y être attachée.
 
-- **(6)** Le présent article cesse d’avoir effet le 31 janvier 2016.
-> DORS/2000-304, art. 6; DORS/2005-42, art. 11 et 12; DORS/2008-229, art. 3; DORS/2011-238, art. 6..
+- **(6)** [Abrogé, DORS/2014-307, art. 30]
+> DORS/2000-304, art. 6; DORS/2005-42, art. 11 et 12; DORS/2008-229, art. 3; DORS/2011-238, art. 6; DORS/2014-307, art. 30..
 
 
 
