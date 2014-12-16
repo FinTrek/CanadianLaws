@@ -596,6 +596,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Conditions — personne autre que l’entreprise canadienne**
+
+**24.1** L’offre et la fourniture des services de télécommunication par toute autre personne qu’une entreprise canadienne sont assujetties aux conditions fixées par le Conseil, notamment en matière :
+- **a)** de conditions à prévoir dans les contrats conclus avec les usagers des services de télécommunication;
+- **b)** de protection de la vie privée de ces usagers;
+- **c)** d’accès aux services d’urgence;
+- **d)** d’accès par toute personne handicapée aux services de télécommunication.
+> 2014, ch. 39, art. 193.
+
+
+
+
+
 **Autorisation nécessaire pour les tarifs**
 
 **25** 
@@ -704,6 +717,15 @@ où :
 
 - **(5)** En cas d’incompatibilité entre la somme, établie par le Conseil, que peut exiger une entreprise canadienne d’une autre entreprise canadienne pour des services d’itinérance et toute somme déterminée au titre de l’un ou l’autre des paragraphes (1) à (3), la somme établie par le Conseil l’emporte.
 > 2014, ch. 20, art. 240.
+
+
+
+
+
+**Factures papier**
+
+**27.2** Il est interdit à toute personne qui fournit des services de télécommunication d’imposer des frais à un abonné pour l’obtention de factures papier.
+> 2014, ch. 39, art. 194.
 
 
 
@@ -867,7 +889,7 @@ où :
 
 **39** 
 
-- **(1)** Pour l’application du présent article, la personne qui fournit des renseignements au Conseil peut désigner comme confidentiels :
+- **(1)** Pour l’application du présent article, la personne qui fournit des renseignements au Conseil peut désigner comme confidentiels :
 	- **a)** les secrets industriels;
 	- **b)** les renseignements financiers, commerciaux, scientifiques ou techniques qui sont de nature confidentielle et qui sont traités comme tels de façon constante par la personne qui les fournit;
 	- **c)** les renseignements dont la communication risquerait vraisemblablement soit de causer à une autre personne ou elle-même des pertes ou profits financiers appréciables ou de nuire à sa compétitivité, soit d’entraver des négociations menées par cette autre personne ou elle-même en vue de contrats ou à d’autres fins.
@@ -876,17 +898,28 @@ où :
 
 - **(2)** Sous réserve des paragraphes (4), (5), (5.1) et (6), les personnes mentionnées au paragraphe (3) ne peuvent, si celle qui a fourni les renseignements n’a pas renoncé à leur caractère confidentiel, sciemment les communiquer ou laisser communiquer de manière visant — ou propre — à les rendre utilisables par une personne susceptible d’en bénéficier ou de s’en servir au détriment d’une autre personne dont l’entreprise ou les activités sont concernées par les renseignements.
 
-**Idem**
+**Interdiction de communication — personnes visées**
 
-- **(3)** Le paragraphe (2) vise les employés et membres du Conseil et, en ce qui a trait aux renseignements transmis au titre du paragraphe 37(3), le ministre, le statisticien en chef du Canada et les agents et autres employés de l’administration publique fédérale qui entrent en possession, au cours de leur emploi ou de leur mandat, de renseignements désignés comme confidentiels. Il continue de s’appliquer à toutes ces personnes après leur cessation de fonctions.
+- **(3)** Le paragraphe (2) vise les personnes ci-après qui entrent en possession, au cours de leur emploi ou de leur mandat, de renseignements désignés comme confidentiels et continue de s’appliquer à toutes ces personnes après la cessation de leurs fonctions :
+	- **a)** les employés et membres du Conseil;
+	- **b)** s’agissant des renseignements communiqués au titre des alinéas (4)b) ou (5)b), le commissaire de la concurrence nommé en vertu de la [Loi sur la concurrence](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-34.md) de même que les personnes chargées de l’application de cette loi et visées à l’article 25 de la même loi;
+	- **c)** s’agissant des renseignements transmis au titre du paragraphe 37(3), le ministre, le statisticien en chef du Canada et les agents et autres employés de l’administration publique fédérale.
 
 **Communication de renseignements**
 
-- **(4)** Le Conseil peut effectuer ou exiger la communication de renseignements désignés comme confidentiels fournis dans le cadre d’une affaire dont il est saisi s’il est d’avis, après avoir pris connaissance des observations des intéressés, qu’elle est dans l’intérêt public.
+- **(4)** Dans le cas de renseignements désignés comme confidentiels fournis dans le cadre d’une affaire dont il est saisi, le Conseil peut :
+	- **a)** en effectuer ou en exiger la communication s’il est d’avis, après avoir pris connaissance des observations des intéressés, qu’elle est dans l’intérêt public;
+	- **b)** en effectuer ou en exiger la communication au commissaire de la concurrence si ce dernier en fait la demande, s’il est d’avis qu’ils concernent des questions de concurrence soulevées dans le cadre de l’affaire.
 
-**Idem**
+**Communication d’autres renseignements**
 
-- **(5)** Dans le cas de renseignements désignés comme confidentiels fournis dans un autre cadre, le Conseil peut en effectuer ou en exiger la communication s’il considère, après avoir pris connaissance des observations des intéressés, que d’une part, celle-ci est dans l’intérêt public et, d’autre part, que les renseignements en cause sont utiles pour trancher l’affaire qu’il instruit.
+- **(5)** Dans le cas de renseignements désignés comme confidentiels fournis dans un autre cadre, le Conseil peut :
+	- **a)** en effectuer ou en exiger la communication s’il considère, après avoir pris connaissance des observations des intéressés, d’une part, que cette communication est dans l’intérêt public et, d’autre part, que les renseignements en cause sont utiles pour trancher l’affaire qu’il instruit;
+	- **b)** en effectuer ou en exiger la communication au commissaire de la concurrence si ce dernier en fait la demande, s’il considère qu’ils concernent des questions de concurrence soulevées dans le cadre de l’affaire qu’il instruit.
+
+**Utilisation des renseignements communiqués au commissaire de la concurrence**
+
+- **(5.01)** Le commissaire de la concurrence de même que les personnes chargées de l’application et du contrôle de l’application de la [Loi sur la concurrence](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-34.md) et visées à l’article 25 de cette loi ne peuvent utiliser les renseignements qui leur sont communiqués au titre des alinéas (4)b) ou (5)b) à d’autres fins que la participation du commissaire à l’affaire en cause.
 
 **Communication autorisée**
 
@@ -895,7 +928,7 @@ où :
 **Inadmissibilité en preuve**
 
 - **(6)** Les renseignements désignés comme confidentiels, à l’exception de ceux dont la communication a été effectuée ou exigée aux termes du présent article, ne sont pas admissibles en preuve lors de poursuites judiciaires sauf en cas de poursuite soit pour défaut de communiquer des renseignements en application de la présente loi ou d’une loi spéciale, soit pour faux, parjure ou fausse déclaration lors de leur communication.
-> 1993, ch. 38, art. 39; 2003, ch. 22, art. 224(A); 2010, ch. 23, art. 88.
+> 1993, ch. 38, art. 39; 2003, ch. 22, art. 224(A); 2010, ch. 23, art. 88; 2014, ch. 39, art. 195.
 
 
 
@@ -1646,7 +1679,7 @@ où :
 	- **e)** procéder à l’essai d’appareils de télécommunication pour s’assurer de leur conformité aux spécifications techniques ou aux normes de marquage fixées sous le régime de la présente partie;
 	- **f)** exiger que les demandeurs et les titulaires de licences lui communiquent tout renseignement qu’il estime indiqué concernant l’utilisation — présente et future — de l’appareil de télécommunication;
 	- **g)** exiger que ces titulaires l’informent de toute modification importante des renseignements ainsi communiqués;
-	- **h)** nommer les inspecteurs pour l’application de la présente partie;
+	- **h)** [Abrogé, 2014, ch. 39, art. 197]
 	- **i)** prendre toute autre mesure nécessaire pour l’application efficace de la présente partie.
 
 **Délégation**
@@ -1661,7 +1694,7 @@ où :
 		- **(i)** soit que celui-ci a enfreint la présente partie, ses règlements d’application ou les conditions du certificat,
 		- **(ii)** soit que le certificat a été obtenu sous de fausses représentations;
 	- **c)** il donne un avis écrit de suspension ou d’annulation au titulaire, mais sans nécessairement lui accorder la possibilité de lui présenter ses observations, lorsque celui-ci n’a pas satisfait à une demande de paiement des droits ou intérêts dus.
-> 1998, ch. 8, art. 8.
+> 1998, ch. 8, art. 8; 2014, ch. 39, art. 197.
 
 
 
@@ -1696,27 +1729,7 @@ où :
 
 
 
-
-**Pouvoirs des inspecteurs**
-
-**69.5** 
-
-- **(1)** Sous réserve du paragraphe (2), l’inspecteur nommé au titre de l’alinéa 69.3(1)h) peut, à toute heure convenable, pour l’application de la présente partie :
-	- **a)** pénétrer dans tout lieu d’affaires s’il a des motifs raisonnables de croire qu’il s’y fait la distribution, la location, la mise en vente, la vente ou l’importation d’appareils de télécommunication visés à l’article 69.2;
-	- **b)** examiner tout appareil de télécommunication trouvé sur les lieux;
-	- **c)** procéder à l’examen et à la reproduction totale ou partielle des documents ou pièces — notamment livres, rapports, résultats d’essai ou d’analyse, dossiers, bordereaux d’expédition et connaissements — trouvés sur les lieux et dont il a des motifs raisonnables de croire qu’ils contiennent des renseignements utiles à l’application de la présente partie.
-
-**Assistance à l’inspecteur**
-
-- **(2)** Le propriétaire ou responsable du lieu visé est tenu de prêter à l’inspecteur toute l’assistance possible dans l’exercice de ses fonctions et de lui donner les renseignements qu’il peut valablement exiger.
-
-**Entrave et fausses déclarations**
-
-- **(3)** Il est interdit :
-	- **a)** d’entraver volontairement l’action de l’inspecteur dans l’exercice de ses fonctions;
-	- **b)** de lui faire sciemment, oralement ou par écrit, une déclaration fausse ou trompeuse.
-> 1998, ch. 8, art. 8.
-
+**69.5** [Abrogé, 2014, ch. 39, art. 199]
 
 
 
@@ -1763,39 +1776,53 @@ où :
 
 **71** 
 
-- **(1)** Le Conseil peut désigner à titre d’inspecteur les personnes qu’il estime qualifiées pour vérifier l’observation des dispositions de la présente loi ou d’une loi spéciale qu’il est chargé de faire appliquer et l’exécution des décisions qu’il a rendues sous le régime de la présente loi.
+- **(1)** Le Conseil peut désigner à titre d’inspecteur les personnes qu’il estime qualifiées pour vérifier le respect ou prévenir le non-respect des dispositions de la présente loi ou d’une loi spéciale qu’il est chargé de faire appliquer et de l’exécution des décisions qu’il a rendues sous le régime de la présente loi.
 
-**Idem**
+**Désignation**
 
-- **(2)** Le ministre peut désigner à ce même titre les personnes qu’il estime qualifiées pour vérifier l’observation des dispositions de la présente loi qu’il est chargé de faire appliquer.
+- **(2)** Le ministre peut désigner à ce même titre les personnes qu’il estime qualifiées pour vérifier le respect ou prévenir le non-respect des dispositions de la présente loi qu’il est chargé de faire appliquer.
 
 **Certificat**
 
 - **(3)** L’inspecteur reçoit un certificat attestant sa qualité qu’il présente, sur demande, à toute personne apparemment responsable du lieu visité.
 
-**Pouvoirs**
+**Pouvoirs de l’inspecteur**
 
-- **(4)** L’inspecteur peut, dans le cadre de sa mission :
-	- **a)** procéder, à toute heure convenable, à la visite de tout lieu appartenant à une entreprise canadienne ou placé sous son contrôle où se trouvent, à son avis fondé sur des motifs raisonnables, des objets, des documents ou des renseignements concernant l’application de la présente loi ou d’une loi spéciale, examiner ceux-ci et les emporter pour examen et reproduction;
+- **(4)** L’inspecteur peut, dans le cadre de sa mission :
+	- **a)** à toute fin liée à la vérification du respect ou à la prévention du non-respect de la présente loi ou d’une loi spéciale, entrer à toute heure convenable dans tout lieu s’il a des motifs raisonnables de croire que s’y trouvent des objets, des documents ou des renseignements, examiner ceux-ci et les emporter pour examen ou reproduction;
 	- **b)** faire usage, directement ou indirectement, de tout système informatique se trouvant dans le lieu pour vérifier les données qu’il contient ou auxquelles il donne accès;
-	- **c)** à partir de ces données, reproduire ou faire reproduire le document sous forme d’imprimé ou toute autre forme intelligible qu’il peut emporter pour examen ou reproduction;
-	- **d)** utiliser, dans le cadre de sa visite, le matériel de reproduction et les moyens de communication du lieu.
+	- **c)** à partir de ces données, reproduire ou faire reproduire tout document sous forme d’imprimé ou toute autre forme intelligible qu’il peut emporter pour examen ou reproduction;
+	- **d)** utiliser le matériel de reproduction et les moyens de communication du lieu.
 
-**Local d’habitation**
+**Maison d’habitation**
 
-- **(5)** L’inspecteur ne peut toutefois procéder à la visite d’un local d’habitation sans l’autorisation de l’occupant que s’il est muni d’un mandat.
+- **(5)** Il ne peut toutefois entrer dans une maison d’habitation sans le consentement de l’occupant que s’il est muni d’un mandat.
 
 **Délivrance du mandat**
 
-- **(6)** Sur demande *ex parte*, le juge de paix, au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), peut signer un mandat autorisant, sous réserve des conditions fixées, l’inspecteur qui y est nommé à procéder à la visite d’un local d’habitation si lui-même est convaincu, d’après une dénonciation sous serment, que sont réunis les éléments suivants :
-	- **a)** les circonstances prévues à l’alinéa (4)a) existent;
-	- **b)** la visite est nécessaire à l’application de la présente loi ou d’une loi spéciale;
-	- **c)** soit un refus a été opposé à la visite ou il y a des motifs raisonnables de croire que tel sera le cas, soit il n’est pas possible d’obtenir le consentement de l’occupant.
+- **(6)** Sur demande *ex parte*, le juge de paix peut décerner un mandat autorisant, sous réserve des conditions fixées, l’inspecteur qui y est nommé à entrer dans une maison d’habitation si lui-même est convaincu, sur la foi d’une dénonciation sous serment, que sont réunies les conditions suivantes :
+	- **a)** il s’agit d’un lieu visé à l’alinéa (4)a);
+	- **b)** l’entrée est nécessaire à toute fin liée à la vérification du respect ou à la prévention du non-respect de la présente loi ou d’une loi spéciale;
+	- **c)** soit un refus d’y entrer a été opposé, soit il y a des motifs raisonnables de croire que tel sera le cas ou qu’il sera impossible d’obtenir le consentement de l’occupant.
 
 **Usage de la force**
 
 - **(7)** L’inspecteur ne peut recourir à la force dans l’exécution du mandat que si celui-ci en autorise expressément l’usage et que si lui-même est accompagné d’un agent de la paix.
-> 1993, ch. 38, art. 71; 1999, ch. 31, art. 207(F).
+
+**Assistance à l’inspecteur**
+
+- **(8)** Le propriétaire ou responsable du lieu visé est tenu de prêter à l’inspecteur toute l’assistance possible dans l’exercice de ses fonctions et de lui donner les renseignements qu’il peut valablement exiger.
+
+**Obligation d’information**
+
+- **(9)** S’il croit qu’une personne détient des renseignements qu’il juge nécessaires pour la vérification du respect ou à la prévention du non-respect de la présente loi ou d’une loi spéciale, l’inspecteur peut, par avis, l’obliger à les lui communiquer, selon les modalités, notamment de temps et de forme, que précise l’avis.
+
+**Entrave et fausses déclarations**
+
+- **(10)** Il est interdit :
+	- **a)** d’entraver volontairement l’action de l’inspecteur dans l’exercice de ses fonctions;
+	- **b)** de lui faire sciemment, oralement ou par écrit, une déclaration fausse ou trompeuse.
+> 1993, ch. 38, art. 71; 1999, ch. 31, art. 207(F); 2014, ch. 39, art. 200.
 
 
 
@@ -1824,7 +1851,215 @@ où :
 
 
 
-### Régime de sanctions administratives
+### Sanctions administratives pécuniaires — régime général
+
+
+
+**Violation**
+
+**72.001** Toute contravention à une disposition de la présente loi — autre que les articles 17 et 69.2 — ou des règlements ou à une décision prise par le Conseil sous le régime de la présente loi — autre qu’une mesure prise en vertu de l’article 41 — constitue une violation exposant son auteur à une pénalité dont le montant maximal est :
+- **a)** dans le cas d’une personne physique, de vingt-cinq mille dollars et de cinquante mille dollars en cas de récidive;
+- **b)** dans les autres cas, de dix millions de dollars et de quinze millions de dollars en cas de récidive.
+> 2014, ch. 39, art. 201.
+
+
+
+
+
+**Détermination du montant de la pénalité**
+
+**72.002** 
+
+- **(1)** Pour la détermination du montant de la pénalité, il est tenu compte des critères suivants :
+	- **a)** la nature et la portée de la violation;
+	- **b)** les antécédents de l’auteur de la violation en ce qui a trait au respect de la présente loi, des règlements ou des décisions prises par le Conseil sous le régime de la présente loi;
+	- **c)** tout avantage qu’il a retiré de la commission de la violation;
+	- **d)** sa capacité de payer le montant de la pénalité;
+	- **e)** tout autre critère prévu par règlement;
+	- **f)** tout autre élément pertinent.
+
+**But de la pénalité**
+
+- **(2)** L’imposition de la pénalité vise non pas à punir, mais à favoriser le respect de la présente loi, des règlements ou des décisions prises par le Conseil sous le régime de la présente loi.
+> 2014, ch. 39, art. 201.
+
+
+
+
+
+**Procédures**
+
+**72.003** Malgré le paragraphe 72.005(1), le Conseil peut imposer une pénalité dans la décision qu’il prend dans le cadre d’une affaire dont il est saisi en vertu de la présente loi et dans laquelle il conclut qu’il y a eu contravention à une disposition, à un règlement ou à une décision visés à l’article 72.001.
+> 2014, ch. 39, art. 201.
+
+
+
+
+
+**Pouvoir du Conseil : violation**
+
+**72.004** Le Conseil peut :
+- **a)** désigner, individuellement ou au titre de leur appartenance à telle catégorie, les agents autorisés à dresser des procès-verbaux pour une violation ou les personnes autorisées à accepter un engagement;
+- **b)** établir pour chaque violation un sommaire la caractérisant dans les procès-verbaux.
+> 2014, ch. 39, art. 201.
+
+
+
+
+
+**Procès-verbal**
+
+**72.005** 
+
+- **(1)** L’agent verbalisateur peut, s’il a des motifs raisonnables de croire qu’une violation a été commise, dresser un procès-verbal qu’il fait signifier à l’auteur présumé de la violation.
+
+**Contenu du procès-verbal**
+
+- **(2)** Le procès-verbal mentionne, outre le nom de l’auteur présumé et les faits reprochés :
+	- **a)** le montant de la pénalité à payer;
+	- **b)** la faculté qu’a l’auteur présumé soit de payer la pénalité, soit de présenter des observations relativement à la violation ou à la pénalité, et ce, dans les trente jours suivant la signification du procès-verbal — ou dans le délai plus long que peut préciser le Conseil —, ainsi que les autres modalités d’exercice de cette faculté;
+	- **c)** le fait que le non-exercice de cette faculté dans le délai imparti vaut aveu de responsabilité et peut entraîner l’imposition de la pénalité.
+> 2014, ch. 39, art. 201.
+
+
+
+
+
+**Engagement**
+
+**72.006** 
+
+- **(1)** Toute personne peut, à tout moment, contracter un engagement.
+
+**Contenu**
+
+- **(2)** L’engagement :
+	- **a)** doit être accepté par la personne autorisée à accepter un engagement;
+	- **b)** énonce les actes ou omissions qui constituent une violation et sur lesquels il porte;
+	- **c)** mentionne les dispositions ou les décisions en cause;
+	- **d)** peut comporter les conditions que la personne autorisée à accepter un engagement estime indiquées;
+	- **e)** peut prévoir l’obligation de payer une somme précise.
+
+**Engagement avant la signification d’un procès-verbal**
+
+- **(3)** Si une personne contracte un engagement, aucun procès-verbal ne peut lui être signifié à l’égard des actes ou omissions qui y sont mentionnés.
+
+**Engagement après la signification d’un procès-verbal**
+
+- **(4)** Si une personne contracte un engagement après la signification d’un procès-verbal, la procédure en violation prend fin à son égard en ce qui concerne les actes ou omissions mentionnés dans l’engagement.
+
+**Non-respect**
+
+- **(5)** Le non-respect d’un engagement constitue une violation.
+> 2014, ch. 39, art. 201.
+
+
+
+
+
+**Paiement**
+
+**72.007** 
+
+- **(1)** Le paiement de la pénalité prévue au procès-verbal vaut aveu de responsabilité à l’égard de la violation et met fin à la procédure.
+
+**Présentation d’observations**
+
+- **(2)** Si des observations sont présentées, dans le délai et selon les autres modalités précisés dans le procès-verbal, le Conseil décide, selon la prépondérance des probabilités, de la responsabilité de l’intéressé, et ce, après avoir examiné toutes autres observations qu’il estime appropriées. Le cas échéant, il peut imposer la pénalité prévue au procès-verbal ou une pénalité réduite, ou encore n’en imposer aucune.
+
+**Omission de payer ou de présenter des observations**
+
+- **(3)** Le non-exercice de la faculté mentionnée au procès-verbal, dans le délai et selon les autres modalités qui y sont précisées, vaut aveu de responsabilité à l’égard de la violation et le Conseil peut imposer la pénalité mentionnée au procès-verbal.
+
+**Copie de la décision et droits de l’intéressé**
+
+- **(4)** Le Conseil fait signifier à l’intéressé copie de la décision prise au titre des paragraphes (2) ou (3) et l’avise par la même occasion de son droit de présenter une demande de révision en vertu de l’article 62 ou de présenter une demande d’autorisation d’interjeter appel au titre de l’article 64.
+> 2014, ch. 39, art. 201.
+
+
+
+
+
+**Administrateurs, dirigeants et mandataires des personnes morales**
+
+**72.008** En cas de commission par une personne morale d’une violation, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont responsables de la violation, que la personne morale fasse ou non l’objet de procédures en violation.
+> 2014, ch. 39, art. 201.
+
+
+
+
+
+**Créance de Sa Majesté**
+
+**72.009** 
+
+- **(1)** Constituent une créance de Sa Majesté du chef du Canada, dont le recouvrement peut être poursuivi à ce titre devant la Cour fédérale :
+	- **a)** le montant de la pénalité imposée par le Conseil dans la décision qu’il prend dans le cadre d’une affaire dont il est saisi en vertu de la présente loi et dans laquelle il conclut qu’il y a eu contravention à une disposition, à un règlement ou à une décision visés à l’article 72.001;
+	- **b)** la somme à payer aux termes d’un engagement contracté en vertu du paragraphe 72.006(1), à compter de la date à laquelle l’engagement a été contracté ou, le cas échéant, de la date qui y est précisée;
+	- **c)** le montant de la pénalité mentionné dans le procès-verbal, à compter de la date de paiement qui y est précisée, sauf en cas de présentation d’observations selon les modalités qui y sont prévues;
+	- **d)** s’il y a présentation d’observations, le montant de la pénalité imposée par le Conseil ou lors d’un appel, selon le cas, à compter de la date précisée par le Conseil dans sa décision ou le tribunal ou, dans le cas où aucune date n’est précisée, à compter de la date de la décision;
+	- **e)** les frais raisonnables faits en vue du recouvrement d’une somme ou d’un montant visé à l’un ou l’autre des alinéas a) à d).
+
+**Prescription**
+
+- **(2)** Le recouvrement de la créance se prescrit par cinq ans à compter de la date à laquelle elle est devenue exigible.
+
+**Receveur général**
+
+- **(3)** Toute pénalité perçue au titre d’une violation est versée au receveur général.
+
+**Certificat de non-paiement**
+
+- **(4)** Le Conseil peut établir un certificat de non-paiement pour la partie impayée de toute créance visée au paragraphe (1).
+
+**Enregistrement à la Cour fédérale**
+
+- **(5)** L’enregistrement à la Cour fédérale confère au certificat la valeur d’un jugement de cette juridiction pour la somme visée et les frais afférents.
+> 2014, ch. 39, art. 201.
+
+
+
+
+
+**Prescription**
+
+**72.0091** 
+
+- **(1)** Les procédures en violation se prescrivent par trois ans à compter de la date où le Conseil a eu connaissance des éléments constitutifs de la violation.
+
+**Attestation du secrétaire du Conseil**
+
+- **(2)** Tout document apparemment délivré par le secrétaire du Conseil et attestant la date où les éléments sont parvenus à la connaissance du Conseil fait foi de cette date, en l’absence de preuve contraire, sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ni la qualité officielle du signataire.
+> 2014, ch. 39, art. 201.
+
+
+
+
+
+**Publication**
+
+**72.0092** Le Conseil peut rendre publics :
+- **a)** le nom de la personne qui a contracté un engagement, la nature de celui-ci, notamment les actes ou omissions et les dispositions ou décisions en cause, les conditions qu’il comporte et, le cas échéant, le montant de la pénalité;
+- **b)** le nom de l’auteur de la violation, la nature de la violation, notamment les actes ou omissions et les dispositions ou décisions en cause, et le montant de la pénalité.
+> 2014, ch. 39, art. 201.
+
+
+
+
+
+**Règlements**
+
+**72.0093** Le gouverneur en conseil peut, par règlement :
+- **a)** exclure de l’application de l’article 72.001 toute disposition de la présente loi ou des règlements ou toute décision;
+- **b)** pour l’application de l’alinéa 72.002(1)e), établir d’autres critères applicables à la détermination du montant de la pénalité;
+- **c)** régir les engagements visés au paragraphe 72.006(1).
+> 2014, ch. 39, art. 201.
+
+
+
+
+
+### Sanctions administratives pécuniaires — télécommunications non sollicitées
 
 
 
@@ -1838,12 +2073,7 @@ où :
 
 
 
-
-**Responsabilité indirecte : employeurs et mandants**
-
-**72.02** L’employeur ou le mandant est responsable de la violation commise par son employé ou son mandataire dans le cadre de son emploi ou du mandat, selon le cas, que l’auteur de la violation soit ou non connu ou poursuivi au titre de la présente loi.
-> 2005, ch. 50, art. 2.
-
+**72.02** [Abrogé, 2014, ch. 39, art. 203]
 
 
 
@@ -1873,42 +2103,11 @@ où :
 
 
 
-
-**Obligation d’information**
-
-**72.05** S’il croit qu’une personne détient des renseignements qu’il juge nécessaires pour l’application de l’article 41, l’agent verbalisateur peut l’obliger à les lui communiquer dans des rapports périodiques ou selon les modalités de forme ou autres qu’il fixe.
-> 2005, ch. 50, art. 2.
+**72.05** [Abrogé, 2014, ch. 39, art. 204]
 
 
 
-
-
-**Inspections**
-
-**72.06** 
-
-- **(1)** L’agent verbalisateur peut :
-	- **a)** procéder, à toute heure convenable, à la visite de tout lieu où se trouvent, à son avis fondé sur des motifs raisonnables, des objets, des documents ou des renseignements concernant l’application de l’article 41, examiner ceux-ci et les emporter pour examen et reproduction;
-	- **b)** faire usage, directement ou indirectement, de tout système informatique se trouvant dans le lieu pour vérifier les données qu’il contient ou auxquelles il donne accès;
-	- **c)** à partir de ces données, reproduire ou faire reproduire le document sous forme d’imprimé ou toute autre forme intelligible qu’il peut emporter pour examen ou reproduction;
-	- **d)** utiliser, dans le cadre de sa visite, le matériel de reproduction et les moyens de communication du lieu.
-
-**Local d’habitation**
-
-- **(2)** Il ne peut toutefois procéder à la visite d’un local d’habitation sans le consentement de l’occupant que s’il est muni d’un mandat.
-
-**Délivrance du mandat**
-
-- **(3)** Sur demande *ex parte*, le juge de paix, au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), peut signer un mandat autorisant, sous réserve des conditions fixées, l’agent verbalisateur qui y est nommé à procéder à la visite d’un local d’habitation si lui-même est convaincu, sur la foi d’une dénonciation sous serment, que sont réunis les éléments suivants :
-	- **a)** les circonstances prévues à l’alinéa (1)a) existent;
-	- **b)** la visite est nécessaire à l’application de l’article 41;
-	- **c)** soit un refus a été opposé à la visite ou il y a des motifs raisonnables de croire que tel sera le cas, soit il n’est pas possible d’obtenir le consentement de l’occupant.
-
-**Usage de la force**
-
-- **(4)** L’agent verbalisateur ne peut recourir à la force dans l’exécution du mandat que si celui-ci en autorise expressément l’usage et que s’il est accompagné d’un agent de la paix.
-> 2005, ch. 50, art. 2.
-
+**72.06** [Abrogé, 2014, ch. 39, art. 204]
 
 
 
@@ -1947,8 +2146,8 @@ où :
 
 **Avis de décision et des droits de l’intéressé**
 
-- **(4)** Le Conseil fait signifier à l’intéressé une copie de la décision prise au titre des paragraphes (2) ou (3) et l’avise par la même occasion de son droit de faire une demande de révision en vertu de l’article 62 ou d’interjeter appel en vertu de l’article 64.
-> 2005, ch. 50, art. 2.
+- **(4)** Le Conseil fait signifier à l’intéressé une copie de la décision prise au titre des paragraphes (2) ou (3) et l’avise par la même occasion de son droit de faire une demande de révision en vertu de l’article 62 ou de présenter une demande d’autorisation d’interjeter appel au titre de l’article 64.
+> 2005, ch. 50, art. 2; 2014, ch. 39, art. 205.
 
 
 
@@ -1980,27 +2179,11 @@ où :
 
 
 
-
-**Moyens de défense**
-
-**72.1** 
-
-- **(1)** L’auteur de la violation peut invoquer en défense dans le cadre de toute procédure en violation qu’il a pris les précautions voulues.
-
-**Principes de la common law**
-
-- **(2)** Les règles et principes de la common law qui font d’une circonstance une justification ou une excuse dans le cadre d’une poursuite pour infraction à l’égard d’une contravention ou d’un manquement à une mesure prise par le Conseil au titre de l’article 41 s’appliquent à l’égard de toute violation sauf dans la mesure où ils sont incompatibles avec la présente loi.
-> 2005, ch. 50, art. 2.
+**72.1** [Abrogé, 2014, ch. 39, art. 206]
 
 
 
-
-
-**Admissibilité en preuve**
-
-**72.11** Dans toute procédure en violation, le procès-verbal apparemment signifié en vertu du paragraphe 72.07(1) ou la copie de la décision apparemment signifiée en vertu du paragraphe 72.08(4) sont admissibles en preuve sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ni la qualité officielle du signataire.
-> 2005, ch. 50, art. 2.
-
+**72.11** [Abrogé, 2014, ch. 39, art. 206]
 
 
 
@@ -2029,10 +2212,56 @@ où :
 
 
 
-**Exclusion**
+### Dispositions communes aux régimes de sanctions administratives pécuniaires
 
-**72.14** S’agissant d’une contravention ou d’un manquement à une mesure prise par le Conseil au titre de l’article 41 et qualifiable à la fois de violation et d’infraction, la procédure en violation et la procédure pénale s’excluent l’une l’autre.
-> 2005, ch. 50, art. 2.
+
+
+**Admissibilité en preuve**
+
+**72.14** Dans les procédures en violation, le procès-verbal ou la copie de la décision apparemment signifié en application des paragraphes 72.005(1), 72.007(4), 72.07(1) ou 72.08(4), selon le cas, est admissible en preuve sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ni la qualité officielle du signataire.
+> 2005, ch. 50, art. 2; 2014, ch. 39, art. 207.
+
+
+
+
+
+**Moyens de défense**
+
+**72.15** 
+
+- **(1)** L’auteur présumé de la violation peut invoquer en défense dans le cadre de toute procédure en violation qu’il a pris les précautions voulues.
+
+**Principes de la common law**
+
+- **(2)** Les règles et principes de la common law qui font d’une circonstance une justification ou une excuse dans le cadre d’une poursuite pour infraction à la présente loi s’appliquent à l’égard de toute violation sauf dans la mesure où ils sont incompatibles avec la présente loi.
+> 2005, ch. 50, art. 2; 2014, ch. 39, art. 207.
+
+
+
+
+
+**Responsabilité indirecte : employeurs et mandants**
+
+**72.16** L’employeur ou le mandant est responsable de la violation commise par son employé ou son mandataire dans le cadre de son emploi ou de son mandat, selon le cas, que l’auteur de la violation fasse ou non l’objet de procédure en violation.
+> 2014, ch. 39, art. 207.
+
+
+
+
+
+**Cumul interdit**
+
+**72.17** S’agissant d’un acte ou d’une omission qualifiable à la fois de violation et d’infraction, la procédure en violation et la procédure pénale s’excluent l’une l’autre.
+> 2014, ch. 39, art. 207.
+
+
+
+
+
+**Précision**
+
+**72.18** Il est entendu que les violations ne sont pas des infractions; en conséquence, nul ne peut être poursuivi à ce titre sur le fondement de l’article 126 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+> 2014, ch. 39, art. 207.
 
 
 
@@ -2040,8 +2269,8 @@ où :
 
 **Non-application de l’article 12**
 
-**72.15** L’article 12 ne s’applique pas aux décisions du Conseil prises au titre des paragraphes 72.08(2) ou (3).
-> 2005, ch. 50, art. 2.
+**72.19** L’article 12 ne s’applique pas aux décisions du Conseil prises au titre des paragraphes 72.007(2) ou (3) ou 72.08(2) ou (3) ni à la partie de la décision prise en vertu de l’article 72.003 qui concerne la conclusion qu’il y a eu contravention et l’imposition d’une pénalité.
+> 2014, ch. 39, art. 207.
 
 
 
@@ -2065,7 +2294,7 @@ où :
 	- **a)** contrevient à l’article 25, aux paragraphes 27(1) ou (2) ou à l’article 69.2;
 	- **b)** n’observe pas les conditions fixées au titre des articles 9 ou 24 ou des paragraphes 34(1) ou (2);
 	- **c)** ne se conforme pas aux mesures prises par le Conseil au titre de l’article 41;
-	- **d)** sciemment, fait au Conseil, au ministre, à la personne désignée au titre de l’article 70 ou à l’inspecteur visé à l’alinéa 69.3(1)h) ou à l’article 71 une présentation erronée de faits importants ou omet de lui mentionner l’un de ceux-ci.
+	- **d)** sciemment, fait au Conseil, au ministre, à la personne désignée en vertu de l’article 70, à l’inspecteur visé à l’article 71 ou à l’agent ou à la personne désigné en vertu des articles 72.004 ou 72.04 une présentation erronée de faits importants ou omet de lui mentionner l’un de ceux-ci.
 
 **Idem**
 
@@ -2075,7 +2304,7 @@ où :
 
 **Consentement préalable du ministre**
 
-- **(4)** La poursuite tant des infractions à la partie I, à l’article 17, à la partie IV.1 ou aux règlements d’application du paragraphe 22(2) et de l’article 69.4 que des manquements constitués par la présentation erronée — ou la non-présentation — au ministre de faits importants est subordonnée au consentement de celui-ci.
+- **(4)** La poursuite tant des infractions à la partie I, à l’article 17 ou aux règlements d’application du paragraphe 22(2) que des manquements constitués par la présentation erronée — ou la non-présentation — au ministre de faits importants est subordonnée au consentement de celui-ci.
 
 **Consentement préalable du Conseil**
 
@@ -2092,7 +2321,7 @@ où :
 **Cour fédérale**
 
 - **(8)** La Cour fédérale est, pour l’application du paragraphe (7), un tribunal compétent.
-> 1993, ch. 38, art. 73; 1998, ch. 8, art. 9; 2002, ch. 17, art. 30.
+> 1993, ch. 38, art. 73; 1998, ch. 8, art. 9; 2002, ch. 17, art. 30; 2014, ch. 39, art. 208.
 
 
 
