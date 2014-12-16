@@ -235,11 +235,8 @@ where
 
 - **(5)** Notwithstanding subsections (1) and (2), no amount shall be deducted or withheld in the year by an employer from a payment of remuneration to an employee in respect of commissions earned by the employee in the immediately preceding year where those commissions were previously reported by the employer as remuneration of the employee in respect of that year on an information return.
 
-#### Canadian Forces and Police — exception
-
-
-- **(6)** Despite subsection (1), no amount shall be deducted or withheld in the year by an employer from an amount determined in accordance with subparagraph 110(1)(f)(v) of the Act.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-331, s. 2; SOR/78-449, s. 1; SOR/78-625, s. 1; SOR/79-359, s. 1; SOR/79-694, s. 1; SOR/80-187, s. 1; SOR/80-683, s. 2; SOR/80-941, s. 2; SOR/81-471, s. 3; SOR/83-349, s. 2; SOR/83-692, ss. 2 to 4; SOR/84-913, s. 1; SOR/84-966, s. 1; SOR/85-453, ss. 1, 2; SOR/86-629, s. 2; SOR/87-471, s. 2; SOR/88-310, s. 1; SOR/89-508, s. 2; SOR/90-161, s. 1; SOR/91-150, s. 1; SOR/91-279, s. 1; SOR/91-536, s. 1; SOR/92-138, s. 1; SOR/92-667, s. 1; SOR/94-238, s. 2; SOR/94-569, s. 1; SOR/98-259, s. 2; SOR/99-17, s. 2; SOR/2001-221, s. 2; SOR/2005-185, s. 2.
+- **(6)** Despite subsection (1), no amount shall be deducted or withheld in the year by an employer from an amount determined in accordance with subparagraph 110(1)(f)(iii), (iv) or (v) of the Act.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-331, s. 2; SOR/78-449, s. 1; SOR/78-625, s. 1; SOR/79-359, s. 1; SOR/79-694, s. 1; SOR/80-187, s. 1; SOR/80-683, s. 2; SOR/80-941, s. 2; SOR/81-471, s. 3; SOR/83-349, s. 2; SOR/83-692, ss. 2 to 4; SOR/84-913, s. 1; SOR/84-966, s. 1; SOR/85-453, ss. 1, 2; SOR/86-629, s. 2; SOR/87-471, s. 2; SOR/88-310, s. 1; SOR/89-508, s. 2; SOR/90-161, s. 1; SOR/91-150, s. 1; SOR/91-279, s. 1; SOR/91-536, s. 1; SOR/92-138, s. 1; SOR/92-667, s. 1; SOR/94-238, s. 2; SOR/94-569, s. 1; SOR/98-259, s. 2; SOR/99-17, s. 2; SOR/2001-221, s. 2; SOR/2005-185, s. 2; 2014, c. 39, s. 78.
 
 
 
@@ -1602,14 +1599,18 @@ shall be filed on or before March 31, 1984.
 
 - **(1.1)** For the purposes of subsections (1) and (2), “annuity payment” does not include any portion of a payment under a contract the amount of which cannot be reasonably determined immediately before the commencement of payments under the contract except where the payment of such portion cannot be so determined because the continuation of the annuity payments under the contract depends in whole or in part on the survival of an individual.
 
-- **(2)** For the purposes of this section,
-	- **(a)** where the continuance of the annuity payments under any contract depends in whole or in part on the survival of an individual, the total of the payments expected to be made under the contract
-		- **(i)** shall, in the case of a contract that provides for equal payments and does not provide for a guaranteed period of payment, be equal to the product obtained by multiplying the aggregate of the annuity payments expected to be received throughout a year under the contract by the complete expectations of life using the table of mortality known as the 1971 Individual Annuity Mortality Table as published in Volume XXIII of the Transactions of the Society of Actuaries, or
-		- **(ii)** shall, in any other case, be calculated in accordance with subparagraph (i) with such modifications as the circumstances may require;
-	- **(b)** subject to subsections (3) and (4), ***adjusted purchase price*** of a taxpayer’s interest in an annuity contract at a particular time means the amount that would be determined at that time in respect of that interest under the definition ***adjusted cost basis*** in subsection 148(9) of the Act if the formula in that definition were read without reference to variable K;
-	- **(c)** where the continuance of the annual payments under any contract depends on the survival of a person, the age of that person on any date as of which a calculation is being made shall be determined by subtracting the calendar year of his birth from the calendar year in which such date occurs; and
-	- **(d)** where the continuance of the annual payments under any contract depends on the survival of a person, and where, in the event of the death of that person before the annual payments aggregate a stated sum, the contract provides that the unpaid balance of the stated sum shall be paid, either in a lump sum or instalments, then, for the purpose of determining the expected term of the contract, the contract shall be deemed to provide for the continuance of the payments thereunder for a minimum term certain equal to the nearest integral number of years required to complete the payment of the stated sum.
-	- **(e)** [Repealed, SOR/83-865, s. 1]
+- **(2)** For the purposes of this section, if the continuance of the annuity payments under a contract depends in whole or in part on the survival of an individual,
+	- **(a)** the total of the payments expected to be made under the contract is
+		- **(i)** in the case of a contract that provides for equal payments and does not provide for a guaranteed period of payment, to be equal to the product obtained by multiplying the total of the annuity payments expected to be received throughout a year under the contract by the complete expectations of life determined
+			- **(A)** using the table of mortality known as the 1971 Individual Annuity Mortality Table as published in Volume XXIII of the Transactions of the Society of Actuaries, if the annuity rates in respect of the contract were fixed and determined before 2017, and
+				- **(I)** annuity payments under the contract commenced before 2017, or
+				- **(II)** on December 31, 2016, the contract would be a prescribed annuity contract if paragraph 304(1)(c) were read without reference to its subparagraph (i) and the contract cannot be terminated other than on the death of an individual on whose life payments under the contract are contingent, and
+			- **(B)** in any other case, using the table of mortality known as the Annuity 2000 Basic Table as published in the Transactions of Society of Actuaries, 1995–96 Reports, and
+		- **(ii)** in any other case, to be calculated in accordance with subparagraph (i) with such modifications as the circumstances may require;
+	- **(b)** the age of the individual on any particular date as of which a calculation is being made is
+		- **(i)** if the life insured was determined by the insurer that issued the contract to be a substandard life at the time the contract was issued and the Annuity 2000 Basic Table as published in the Transactions of Society of Actuaries, 1995–96 Reports applies to determine the total of the payments expected to be made under the contract, the age that is equal to the total of the age used for the purpose of determining the annuity rate under the policy at the date of issue of the contract and the number determined by subtracting the calendar year in which the contract was issued from the calendar year in which the particular date occurs, and
+		- **(ii)** in any other case, determined by subtracting the calendar year of the individual’s birth from the calendar year in which the particular date occurs; and
+	- **(c)** if, in the event of the death of the individual before the annual payments total a stated sum, the contract provides that the unpaid balance of the stated sum is to be paid in a lump sum or instalments, then for the purpose of determining the expected term of the contract, the contract is deemed to provide for the continuance of the payments under the contract for a minimum term certain equal to the nearest whole number of years required to complete the payment of the stated sum.
 
 - **(3)** Where
 	- **(a)** an annuity contract is a life annuity contract entered into before November 17, 1978 under which the annuity payments commence on the death of an individual,
@@ -1634,7 +1635,7 @@ the adjusted purchase price of a taxpayer’s interest in the annuity contract s
 		- **(i)** the amount that would be determined in respect of that interest under paragraph (3)(c), (d) or (e), as the case may be, if the date referred to therein was the tax anniversary date of the contract and not the date the annuity payments commence, and
 		- **(ii)** the adjusted purchase price that would be determined in respect of that interest if the expression “before that time” in the descriptions of A, B, C, D and H in the definition ***adjusted cost basis*** in subsection 148(9) of the Act were read as “before that time and after the tax anniversary date”; and
 	- **(b)** the amount determined under paragraph (2)(b) in respect of that interest.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/82-499, s. 1; SOR/82-874, s. 1(E); SOR/83-865, s. 1; SOR/2001-216, s. 10(F); SOR/2011-188, s. 6.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/82-499, s. 1; SOR/82-874, s. 1(E); SOR/83-865, s. 1; SOR/2001-216, s. 10(F); SOR/2011-188, s. 6; 2014, c. 39, s. 79.
 
 
 
@@ -1709,7 +1710,11 @@ is of
 			- **(D)** a corporation referred to in subparagraph (b)(ii) of the definition ***retirement savings plan*** in subsection 146(1) of the Act, and
 			- **(E)** a corporation (other than a mutual fund corporation or a mortgage investment corporation) the principal business of which is the making of loans,
 		- **(iii)** each holder of which
-			- **(A)** is an individual, other than a trust that is neither a trust described in paragraph 104(4)(a) of the Act (in this paragraph referred to as a “specified trust”) nor a testamentary trust,
+			- **(A)** is
+				- **(I)** an individual other than a trust,
+				- **(II)** a trust described in paragraph 104(4)(a) of the Act (in this paragraph referred to as a “specified trust”),
+				- **(III)** a trust that is a qualified disability trust (as defined in subsection 122(3) of the Act) for the taxation year in which the annuity is issued, or
+				- **(IV)** if the annuity is issued before 2016, a trust that is a testamentary trust at the time the annuity is issued,
 			- **(B)** is an annuitant under the contract, and
 			- **(C)** throughout the taxation year, dealt at arm’s length with the issuer,
 		- **(iv)** the terms and conditions of which require that, from the time the contract meets the requirements of this paragraph,
@@ -1717,26 +1722,28 @@ is of
 			- **(B)** the annuity payments thereunder continue for a fixed term or
 				- **(I)** if the holder is an individual (other than a trust), for the life of the first holder or until the day of the later of the death of the first holder and the death of any of the spouse, common-law partner, former spouse, former common-law partner, brothers and sisters (in this subparagraph referred to as “the survivor”) of the first holder, or
 				- **(II)** if the holder is a trust
-					- **1.** in the case of a specified trust, for the life of an individual referred to in paragraph 104(4)(a) of the Act who is entitled to receive all of the income of the trust that arose before the individual’s death, or, in the case of a joint spousal or common-law partner trust, until the day of the later of the death of the individual and the death of the beneficiary under the trust who is the individual’s spouse or common-law partner,
-					- **2.** in the case of a testamentary trust (other than a specified trust) where the annuity is issued before October 24, 2012, for the life of an individual who is entitled to receive income from the trust, and
-					- **3.** in the case of any other testamentary trust other than a specified trust, for the life of an individual who was entitled when the contract was first held to receive all of the income of the trust that arose before the individual’s death,
+					- **1** in the case of a specified trust, for the life of an individual referred to in paragraph 104(4)(a) of the Act who is entitled to receive all of the income of the trust that arose before the individual’s death, or, in the case of a joint spousal or common-law partner trust, until the day of the later of the death of the individual and the death of the beneficiary under the trust who is the individual’s spouse or common-law partner,
+					- **2** in the case of a qualified disability trust, for the life of an individual who is an electing beneficiary (as defined in subsection 122(3) of the Act) of the trust for the taxation year in which the annuity is issued,
+					- **3** in the case of a trust (other than a qualified disability trust or specified trust) where the annuity is issued before October 24, 2012, for the life of an individual who is entitled to receive income from the trust, and
+					- **4** in the case of a trust (other than a qualified disability trust or specified trust) where the annuity is issued after October 23, 2012, for the life of an individual who was entitled when the contract was first held to receive all of the trust’s income that is from an amount received by the trust on or before the individual’s death as a payment under the annuity,
 			- **(C)** if the annuity payments are to be made over a term that is guaranteed or fixed, the guaranteed or fixed term not exceed 91 years minus the age, when the contract was first held, in whole years of the following individual:
 				- **(I)** if the holder is not a trust, the individual who is
-					- **1.** in the case of a joint and last survivor annuity, the younger of the first holder and the survivor,
-					- **2.** in the case of a contract that is held jointly, the younger of the first holders, and
-					- **3.** in any other case, the first holder,
+					- **1** in the case of a joint and last survivor annuity, the younger of the first holder and the survivor,
+					- **2** in the case of a contract that is held jointly, the younger of the first holders, and
+					- **3** in any other case, the first holder,
 				- **(II)** if the holder is a specified trust, the individual who is
-					- **1.** in the case of a joint and last survivor annuity held by a joint spousal or common-law partner trust, the younger of the individuals referred to in paragraph 104(4)(a) of the Act who are in combination entitled to receive all of the income of the trust that arose before the later of their deaths, and
-					- **2.** in the case of an annuity that is not a joint and last survivor annuity, the individual referred to in paragraph 104(4)(a) of the Act who is entitled to receive all of the income of the trust that arose before the individual’s death,
-				- **(III)** if the holder is a testamentary trust other than a specified trust, the individual who was the youngest beneficiary under the trust when the contract was first held,
+					- **1** in the case of a joint and last survivor annuity held by a joint spousal or common-law partner trust, the younger of the individuals referred to in paragraph 104(4)(a) of the Act who are in combination entitled to receive all of the income of the trust that arose before the later of their deaths, and
+					- **2** in the case of an annuity that is not a joint and last survivor annuity, the individual referred to in paragraph 104(4)(a) of the Act who is entitled to receive all of the income of the trust that arose before the individual’s death,
+				- **(III)** if the holder is a qualified disability trust, an individual who is an electing beneficiary of the trust for the taxation year in which the annuity is issued, and
+				- **(IV)** if the holder is a trust (other than a qualified disability trust or specified trust) and the annuity is issued before 2016, the individual who was the youngest beneficiary under the trust when the contract was first held,
 			- **(D)** no loans exist under the contract,
 			- **(E)** the holder’s rights under the contract not be disposed of otherwise than
 				- **(I)** if the holder is an individual, on the holder’s death,
 				- **(II)** if the holder is a specified trust (other than a joint spousal or common-law partner trust), on the death of the individual referred to in paragraph 104(4)(a) of the Act who is entitled to receive all of the income of the trust that arose before the individual’s death,
 				- **(III)** if the holder is a specified trust that is a joint spousal or common-law partner trust, on the later of the deaths of the individuals referred to in paragraph 104(4)(a) of the Act who are in combination entitled to receive all of the income of the trust that arose before the later of their deaths, and
-				- **(IV)** if the holder is a testamentary trust, other than a specified trust, and the contract was first held after October 2011, on the earlier of
-					- **1.** the time at which the trust ceases to be a testamentary trust, and
-					- **2.** the death of the individual referred to in subclause (B)(II) or (C)(III), as the case may be, in respect of the trust, and
+				- **(IV)** if the holder is a trust, other than a specified trust, and the contract is first held after October 2011, on the earlier of
+					- **1** the time at which the trust ceases to be a testamentary trust, and
+					- **2** the death of the individual referred to in subclause (B)(II) or (C)(III) or (IV), as the case may be, in respect of the trust, and
 			- **(F)** no payments be made out of the contract other than as permitted by this section,
 		- **(v)** none of the terms and conditions of which provide for any recourse against the issuer for failure to make any payment under the contract, and
 		- **(vi)** where annuity payments under the contract have commenced
@@ -1757,7 +1764,7 @@ is of
 - **(4)** In this section, ***annuitant*** under an annuity contract, at any time, means a person who, at that time, is entitled to receive annuity payments under the contract.
 
 - **(5)** For the purpose of this section, ***spouse*** and ***former spouse*** of a particular individual include another individual who is a party to a void or voidable marriage with the particular individual.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/82-499, s. 3; SOR/83-865, s. 5; SOR/86-488, s. 1; SOR/88-165, s. 2; SOR/88-319, s. 1; SOR/94-415, s. 1; SOR/94-686, s. 2(F); SOR/2001-188, s. 3; SOR/2001-216, s. 10(F); SOR/2007-116, s. 1; 2009, c. 2, s. 90; SOR/2009-222, s. 1; SOR/2011-188, s. 8; 2012, c. 31, s. 60; 2013, c. 34, s. 378.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/82-499, s. 3; SOR/83-865, s. 5; SOR/86-488, s. 1; SOR/88-165, s. 2; SOR/88-319, s. 1; SOR/94-415, s. 1; SOR/94-686, s. 2(F); SOR/2001-188, s. 3; SOR/2001-216, s. 10(F); SOR/2007-116, s. 1; 2009, c. 2, s. 90; SOR/2009-222, s. 1; SOR/2011-188, s. 8; 2012, c. 31, s. 60; 2013, c. 34, s. 378; 2014, c. 39, s. 80.
 
 
 
@@ -1776,39 +1783,100 @@ is of
 
 - **(1)** For the purposes of this Part and subsection 12.2(11) of the Act, ***exempt policy*** at any time means a life insurance policy (other than an annuity contract, LIA policy or a deposit administration fund policy) in respect of which the following conditions are met at that time:
 	- **(a)** if that time is a policy anniversary of the policy, the accumulating fund of the policy at that time (determined without regard to any policy loan) does not exceed the total of the accumulating funds at that time of the exemption test policies issued at or before that time in respect of the policy;
-	- **(b)** assuming that the terms and conditions of the policy do not change from those in effect on the last policy anniversary of the policy at or before that time and, where necessary, making reasonable assumptions about all other factors (including, in the case of a participating life insurance policy within the meaning assigned by subsection 138(12) of the Act, the assumption that the amounts of dividends paid will be as shown in the dividend scale), it is reasonable to expect that the condition in paragraph (a) will be met on each policy anniversary of the policy on which the policy could remain in force after that time and before the date determined under subparagraph (3)(d)(ii) with respect to the exemption test policies issued in respect of the policy;
+	- **(b)** assuming that the terms and conditions of the policy do not change from those in effect on the last policy anniversary of the policy at or before that time and, where necessary, making reasonable assumptions about all other factors (including, in the case of a participating life insurance policy within the meaning assigned by subsection 138(12) of the Act, the assumption that the amounts of dividends paid will be as shown in the dividend scale),
+		- **(i)** if the policy is issued before 2017, it is reasonable to expect that the condition in paragraph (a) will be met on each policy anniversary of the policy on which the policy could remain in force after that time and before the endowment date of the exemption test policies issued in respect of the policy, and
+		- **(ii)** if the policy is issued after 2016, it is reasonable to expect — without reference to any automatic adjustments under the policy that may be made after that time to ensure that the policy is an exempt policy and, where applicable, making projections using the most recent values that are used to calculate the accumulating fund in respect of the policy or in respect of each exemption test policy issued in respect of a coverage under the policy, as the case may be — that the condition in paragraph (a) will be met on the policy’s next policy anniversary;
 	- **(c)** the condition in paragraph (a) was met on all policy anniversaries of the policy before that time; and
 	- **(d)** the condition in paragraph (b) was met at all times on and after the first policy anniversary of the policy and before that time.
 
 - **(2)** For the purposes of subsection (1), a life insurance policy that is an exempt policy on its first policy anniversary shall be deemed to have been an exempt policy from the time of its issue until that anniversary.
 
-- **(3)** For the purposes of this section and section 307, a separate exemption test policy shall be deemed to have been issued to a policyholder in respect of a life insurance policy
-	- **(a)** on the date of issue of the life insurance policy, and
-	- **(b)** on each policy anniversary of the life insurance policy where the amount of the benefit on death thereunder exceeds 108 per cent of the amount of the benefit on death thereunder on the later of the date of its issue and the date of its preceding anniversary, if any,
-and, for the purpose of determining whether the accumulating fund of the life insurance policy on any particular policy anniversary meets the condition in paragraph (1)(a), each such exemption test policy shall be deemed
-	- **(c)** to have a benefit on death that is uniform throughout the term of the exemption test policy and equal to
-		- **(i)** where the exemption test policy is the first such policy issued in respect of the life insurance policy, the amount on that policy anniversary of the benefit on death of the life insurance policy less the total of all amounts each of which is the amount on that policy anniversary of the benefit on death of another exemption test policy issued on or before that policy anniversary in respect of the life insurance policy, and
-		- **(ii)** in any other case, the amount by which the benefit on death of the life insurance policy on the date the exemption test policy was issued exceeds 108 per cent of the amount of the benefit on death of the life insurance policy on the later of the date of issue of the life insurance policy and the date of its preceding policy anniversary, if any;
-	- **(d)** to pay the amount of its benefit on death on the earlier of
-		- **(i)** the date of death of the person whose life is insured under the life insurance policy, and
-		- **(ii)** the later of
-			- **(A)** ten years after the date of issue of the life insurance policy, and
-			- **(B)** the date that the person whose life is insured would, if he survived, attain the age of 85 years; and
-	- **(e)** to be a life insurance policy in Canada issued by a life insurer that carried on its life insurance business in Canada.
+- **(3)** For the purposes of this section and section 307,
+	- **(a)** in the case of a life insurance policy issued before 2017 or at a particular time determined under subsection 148(11) of the Act, a separate exemption test policy is deemed, subject to subsection (7), to be issued in respect of the life insurance policy
+		- **(i)** on the date of issue of the life insurance policy, and
+		- **(ii)** on each policy anniversary (that ends before the particular time, if any, determined under subsection 148(11) of the Act in respect of the policy) of the life insurance policy on which
+			- **(A)** the amount of the benefit on death under the life insurance policyexceeds
+			- **(B)** 108% of the amount of the benefit on death under the life insurance policy on the later of the life insurance policy’s date of issue and the date of the life insurance policy’s preceding policy anniversary, if any; and
+	- **(b)** in the case of a life insurance policy issued after 2016 (including, for greater certainty, at a particular time determined under subsection 148(11) of the Act in respect of the policy), a separate exemption test policy is deemed, subject to subsection (7), to be issued in respect of each coverage under the life insurance policy
+		- **(i)** unless the particular time when the policy is issued is determined under subsection 148(11) of the Act and the coverage was issued before the particular time, on the date of
+			- **(A)** issue of the life insurance policy, if the coverage is issued before the first policy anniversary of the life insurance policy,
+			- **(B)** issue of the coverage, if the coverage is issued on a policy anniversary of the life insurance policy, or
+			- **(C)** the life insurance policy’s preceding policy anniversary, if the coverage is issued on any date that is after the policy’s first policy anniversary and that is not a policy anniversary,
+		- **(ii)** on each policy anniversary of the life insurance policy (except that, if a particular time when the policy is issued has been determined under subsection 148(11) of the Act, only on a policy anniversary that ends at or after the particular time) on which
+			- **(A)** the amount of the benefit on death under the coverage on that policy anniversaryexceeds
+			- **(B)** 108% of the amount of the benefit on death under the coverage, on the later of the coverage’s date of issue and the date of the life insurance policy’s preceding policy anniversary (or, if there is no preceding policy anniversary, the coverage’s date of issue), and
+		- **(iii)** on each policy anniversary of the life insurance policy (except that, if a particular time when the policy is issued has been determined under subsection 148(11) of the Act, only on a policy anniversary that ends at or after the particular time) — except to the extent that another exemption test policy has been issued on that date under this subparagraph in respect of a coverage under the life insurance policy — on which
+			- **(A)** the amount by which the fund value benefit under the life insurance policy on that policy anniversary exceeds the fund value benefit under the life insurance policy on the life insurance policy’s preceding policy anniversary (or, if there is no preceding policy anniversary, the date of issue of the policy)exceeds
+			- **(B)** the amount by which
+				- **(I)** 8% of the amount of the benefit on death under the life insurance policy on the life insurance policy’s preceding policy anniversary (or, if there is no preceding policy anniversary, the date of issue of the policy)exceeds
+				- **(II)** the total of all amounts each of which is, in respect of a coverage under the policy, the lesser of
+					- **1.** the amount by which the amount of the benefit on death under the coverage on that policy anniversary exceeds the amount of the benefit on death under the coverage on the later of the coverage’s date of issue and the date of the life insurance policy’s preceding policy anniversary (or, if there is no preceding policy anniversary, the coverage’s date of issue), and
+					- **2.** 8% of the amount of the benefit on death under the coverage on the later of the coverage’s date of issue and the date of the life insurance policy’s preceding policy anniversary (or, if there is no preceding policy anniversary, the coverage’s date of issue).
 
-- **(4)** Notwithstanding subsections (1) to (3),
-	- **(a)** where at any particular time the amount of the benefit on death of a life insurance policy is reduced, an amount equal to such reduction (such amount is in this paragraph referred to as “the reduction”) shall be applied at that time to reduce the amount of the benefit on death of exemption test policies issued before that time in respect of the life insurance policy (other than the exemption test policy issued in respect thereof pursuant to paragraph (3)(a)), in the order in which the dates of their issuance are proximate to the particular time, by an amount equal to the lesser of
-		- **(i)** the portion, if any, of the reduction not applied to reduce the benefit on death of one or more other such exemption test policies, and
-		- **(ii)** the amount, immediately before that time, of the benefit on death of the relevant exemption test policy;
-	- **(b)** where on the tenth or on any subsequent policy anniversary of a life insurance policy, the accumulating fund thereof (computed without regard to any policy loan then outstanding in respect of the policy) exceeds 250 per cent of the accumulating fund thereof on its third preceding policy anniversary (computed without regard to any policy loan then outstanding in respect of the policy), each exemption test policy deemed by subsection (3) to have been issued before that time in respect of the life insurance policy shall be deemed to have been issued on the later of the date of that third preceding policy anniversary and the date on which it was deemed by subsection (3) to have been issued; and
-	- **(c)** where at one or more times after December 1, 1982
-		- **(i)** a prescribed premium has been paid by a taxpayer in respect of an interest in a life insurance policy (other than an annuity contract or a deposit administration fund policy) last acquired on or before that date, or
-		- **(ii)** an interest in a life insurance policy (other than an annuity contract or a deposit administration fund policy) issued on or before that date has been acquired by a taxpayer from the person who held the interest continuously since that date,
-the policy shall be deemed to have been an exempt policy from the date of its issue until the earliest of those times that occurred after December 1, 1982; and
-	- **(d)** a life insurance policy that ceases to be an exempt policy (other than by reason of its conversion into an annuity contract) on a policy anniversary shall be deemed to be an exempt policy on that anniversary
-		- **(i)** if, had that anniversary occurred 60 days after the date on which it did in fact occur, the policy would have been an exempt policy on that later date, or
-		- **(ii)** if the person whose life is insured under the policy dies on that anniversary or within 60 days thereafter.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-865, s. 5; SOR/94-415, s. 2; SOR/94-686, ss. 55(F), 56(F); 2013, c. 40, s. 97.
+- **(4)** Subject to subsection (10), for the purpose of determining whether the condition in paragraph (1)(a) is met on a policy anniversary of a life insurance policy, each exemption test policy issued in respect of the life insurance policy, or in respect of a coverage under the life insurance policy, is deemed
+	- **(a)** to have a benefit on death that is uniform throughout the term of the exemption test policy and that, subject to subsection (5), is equal to
+		- **(i)** if the date on which the exemption test policy is issued is determined by subparagraph (3)(a)(i), the amount by which the amount on that policy anniversary of the benefit on death under the life insurance policy exceeds the total of all amounts each of which is the amount, if any, on that policy anniversary of the benefit on death under another exemption test policy issued on or before that policy anniversary in respect of the life insurance policy,
+		- **(ii)** if the date on which the exemption test policy is issued is determined by subparagraph (3)(a)(ii), the amount of the excess referred to in that subparagraph on that date in respect of the life insurance policy,
+		- **(iii)** if the date on which the exemption test policy is issued is determined by subparagraph (3)(b)(i), the amount determined by the formula
+```
+A + B – C
+```
+where
+- **A** is the amount on that policy anniversary of the benefit on death under the coverage,
+- **B** is
+		- **(A)** if the benefit on death under the life insurance policy includes a fund value benefit on that policy anniversary, the portion of the fund value benefit on that policy anniversary that is equal to the lesser of
+		- **(I)** the maximum amount of the fund value benefit that could be payable on that policy anniversary if no other coverage were offered under the life insurance policy and the life insurance policy were an exempt policy, and
+		- **(II)** the amount by which the fund value benefit on that policy anniversary exceeds the total of all amounts each of which is the portion of the fund value benefit allocated to other coverages under the life insurance policy, and
+		- **(B)** in any other case, nil, and
+- **C** is the total of all amounts each of which is the amount, if any, on that policy anniversary of the benefit on death under another exemption test policy issued on or before that policy anniversary in respect of the coverage,
+		- **(iv)** if the date on which the exemption test policy is issued is determined by subparagraph (3)(b)(ii), the amount of the excess referred to in that subparagraph on that date in respect of the coverage, and
+		- **(v)** if the date on which the exemption test policy is issued is determined by subparagraph (3)(b)(iii), the lesser of
+			- **(A)** the amount by which the amount determined under clause (3)(b)(iii)(A) exceeds the amount determined under clause (3)(b)(iii)(B) on that date in respect of the coverage, and
+			- **(B)** the amount determined in respect of the coverage under subclause (A)(I) of the description of B in subparagraph (iii) on that date; and
+	- **(b)** to pay the amount of its benefit on death on the earlier of
+		- **(i)** if the life insurance policy
+			- **(A)** is issued before 2017, the date of death of the individual whose life is insured under the life insurance policy, or
+			- **(B)** is issued after 2016,
+				- **(I)** if two or more lives are jointly insured under the coverage, the date at which the benefit would be payable as a result of the death of any of the lives, and
+				- **(II)** in any other case, the date of death of the individual whose life is insured under the coverage, and
+		- **(ii)** the exemption test policy’s endowment date.
+
+- **(5)** Subject to subsection (10), for the purpose of determining the amount of a benefit on death under an exemption test policy,
+	- **(a)** if the exemption test policy is issued in respect of a life insurance policy issued before 2017 and at any time the amount of a benefit on death under the life insurance policy is reduced, a particular amount that is equal to the reduction is to be applied at that time to reduce the amount of the benefit on death under each exemption test policy issued before that time in respect of the life insurance policy (other than the exemption test policy the date of issue of which is determined under subparagraph (3)(a)(i)) in the order in which the dates of their issuance are proximate to that time, by an amount equal to the lesser of
+		- **(i)** the portion, if any, of the particular amount not applied to reduce the benefit on death under one or more other such exemption test policies, and
+		- **(ii)** the amount, immediately before that time, of the benefit on death under the relevant exemption test policy; and
+	- **(b)** if the exemption test policy is issued in respect of a coverage under a life insurance policy issued after 2016 and at any time there is a particular reduction in the amount of a benefit on death under the coverage, or the portion, if any, of the fund value benefit referred to in clause (A) of the description of B in subparagraph (4)(a)(iii) in respect of the coverage, the amount of the benefit on death under each exemption test policy issued before that time in respect of the coverage (other than the exemption test policy the date of issue of which is determined under subparagraph (3)(b)(i)) is reduced at that time by an amount equal to the least of
+		- **(i)** the particular reduction,
+		- **(ii)** the amount, immediately before that time, of the benefit on death under the relevant exemption test policy, and
+		- **(iii)** the portion, if any, of the particular reduction not applied to reduce the benefit on death under one or more other such exemption test policies issued on or after the date of issue of the relevant exemption test policy.
+
+- **(6)** Subsection (7) applies at any time in respect of a life insurance policy if
+	- **(a)** that time is on its tenth or a later policy anniversary;
+	- **(b)** the accumulating fund (computed without regard to any amount payable in respect of a policy loan) in respect of the policy at that time exceeds 250% of the accumulating fund (computed without regard to any amount payable in respect of a policy loan) in respect of the policy on its third preceding policy anniversary; and
+	- **(c)** where that time is after 2016,
+		- **(i)** the accumulating fund (computed without regard to any amount payable in respect of a policy loan) in respect of the policy at that time exceeds the total of all amounts each of which is
+			- **(A)** if the policy is issued before 2017, 3/20 of the accumulating fund, at that time, in respect of an exemption test policy issued in respect of the policy, and
+			- **(B)** if the policy is issued after 2016, 3/8 of the accumulating fund, at that time, in respect of an exemption test policy issued in respect of a coverage under the policy, and
+		- **(ii)** subsection (7) did not apply on any of the policy’s six preceding policy anniversaries.
+
+- **(7)** If this subsection applies at any time in respect of a life insurance policy, each exemption test policy issued before that time in respect of the life insurance policy is at and after that time deemed to be issued (except for purposes of this subsection, paragraph (4)(a) and subsection (5))
+	- **(a)** on the later of
+		- **(i)** the date of the third preceding policy anniversary described in paragraph (6)(b) in respect of the policy, and
+		- **(ii)** the date on which it was deemed by subsection (3) to be issued (determined immediately before that time); and
+	- **(b)** not at any other time.
+
+- **(8)** A life insurance policy that would, in the absence of this subsection, cease (other than by reason of its conversion into an annuity contract) on a policy anniversary of the policy to be an exempt policy is deemed to be an exempt policy on that policy anniversary if
+	- **(a)** had that policy anniversary occurred on the particular day that is 60 days after that policy anniversary, the policy would have been an exempt policy on the particular day; or
+	- **(b)** the person whose life is insured under the policy dies on that policy anniversary or within 60 days after that policy anniversary.
+
+- **(9)** A life insurance policy (other than an annuity contract or deposit administration fund policy) issued before December 2, 1982 is deemed to be an exempt policy at all times from the date of its issue until the first time after December 1, 1982 at which
+	- **(a)** a prescribed premium is paid by a taxpayer in respect of an interest, last acquired before December 2, 1982, in the policy; or
+	- **(b)** an interest in the policy is acquired by a taxpayer from the person who held the interest continuously since December 1, 1982.
+
+- **(10)** If a particular time when a life insurance policy is issued has been determined under subsection 148(11) of the Act, in applying subsections (4) and (5) at or after the particular time to an exemption test policy issued before the particular time in respect of the policy,
+	- **(a)** subparagraphs (4)(a)(iii) and (iv), and not subparagraph (4)(a)(i) or (ii), apply to the exemption test policy; and
+	- **(b)** for greater certainty, paragraph (5)(b), and not paragraph (5)(a), applies to the exemption test policy.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-865, s. 5; SOR/94-415, s. 2; SOR/94-686, ss. 55(F), 56(F); 2013, c. 40, s. 97; 2014, c. 39, s. 81.
 
 
 
@@ -1819,51 +1887,60 @@ the policy shall be deemed to have been an exempt policy from the date of its is
 
 **307** 
 
-- **(1)** For the purposes of this Part and sections 12.2 and 148 of the Act, ***accumulating fund***, at any particular time, means,
+- **(1)** For the purposes of this Part and sections 12.2 and 148 of the Act, ***accumulating fund***, at any particular time, means
 	- **(a)** in respect of a taxpayer’s interest in an annuity contract (other than a contract issued by a life insurer), the amount that is the greater of
-		- **(i)** the amount, if any, by which the cash surrender value of his interest at that time exceeds the amount payable, if any, in respect of a loan outstanding at that time made under the contract in respect of the interest, and
+		- **(i)** the amount, if any, by which the cash surrender value of the taxpayer’s interest at that time exceeds the amount payable, if any, in respect of a loan outstanding at that time made under the contract in respect of the interest, and
 		- **(ii)** the amount, if any, by which
-			- **(A)** the present value at that time of future payments to be made out of the contract in respect of his interestexceeds the aggregate of
-			- **(B)** the present value at that time of future premiums to be paid under the contract in respect of his interest, and
-			- **(C)** the amount payable, if any, in respect of a loan outstanding at that time, made under the contract in respect of his interest;
+			- **(A)** the present value at that time of future payments to be made out of the contract in respect of the taxpayer’s interestexceeds
+			- **(B)** the total of
+				- **(I)** the present value at that time of future premiums to be paid under the contract in respect of the taxpayer’s interest, and
+				- **(II)** the amount payable, if any, in respect of a loan outstanding at that time, made under the contract in respect of the taxpayer’s interest;
 	- **(b)** in respect of a taxpayer’s interest in a life insurance policy (other than an exemption test policy or an annuity contract to which paragraph (1)(a) applies), the product obtained when,
 		- **(i)** where the policy is not a deposit administration fund policy and the particular time is immediately after the death of any person on whose life the life insurance policy is issued or effected, the aggregate of the maximum amounts that could be determined by the life insurer immediately before the death in respect of the policy under paragraph 1401(1)(c) and subparagraph 1401(1)(d)(i) if the mortality rates used were adjusted to reflect the assumption that the death would occur at the time and in the manner that it did occur, and
 		- **(ii)** in any other case, the maximum amount that could be determined at that particular time by the life insurer under paragraph 1401(1)(a), computed as though there were only one deposit administration fund policy, or under paragraph 1401(1)(c), as the case may be, in respect of the policy
 is multiplied by
-		- **(iii)** the taxpayer’s proportionate interest in the policy,
-assuming for the purposes of this paragraph that the life insurer carried on its life insurance business in Canada, its taxation year ended at the particular time and the policy was a life insurance policy in Canada; and
+		- **(iii)** the taxpayer’s proportionate interest in the policy; and
 	- **(c)** in respect of an exemption test policy,
-		- **(i)** where the policy was issued at least 20 years before the particular time, the amount that would be determined at that particular time by the life insurer under clause 1401(1)(c)(ii)(A) in respect of the policy if the insurer’s taxation year ended at that particular time, and
-		- **(ii)** in any other case, the product obtained when the amount that would be determined under subparagraph (i) in respect of the policy on its twentieth policy anniversary is multiplied by the quotient obtained when the number of years since the policy was issued is divided by 20.
+		- **(i)** if the particular time is during the exemption test policy’s pay period, the amount determined by the formula
+```
+A × B/C
+```
+where
+- **A** is the amount that would be determined under subparagraph (ii) in respect of the exemption test policy
+		- **(A)** if the exemption test policy’s pay period is determined by subparagraph (b)(i) or (ii) of the definition ***pay period*** in section 310, on the first policy anniversary that is on or after the day on which the individual whose life is insured would, if the individual survived, attain the age of 105 years, as defined under the terms of the policy, and
+		- **(B)** in any other case, on the exemption test policy’s policy anniversary represented by the adjectival form of the number of years in its pay period,
+- **B** is the number of years since the exemption test policy was issued, and
+- **C** is the number of years in the exemption test policy’s pay period,
+		- **(ii)** if the particular time is after the exemption test policy’s pay period and before its endowment date, the amount that is the present value at the particular time of the future benefit on death under the exemption test policy, and
+		- **(iii)** if the particular time is on or after the exemption test policy’s endowment date and the relevant life insurance policy is issued after 2016, the amount that is the benefit on death under the exemption test policy at the particular time.
 
-- **(2)** For the purposes of subsection (1), when computing the accumulating fund of an interest described in
-	- **(a)** paragraph (1)(a), the amounts determined under clauses (1)(a)(ii)(A) and (B) shall be computed using,
+- **(2)** For the purposes of subsection (1), when computing the accumulating fund in respect of
+	- **(a)** an interest described in paragraph (1)(a), the amounts determined under clauses (1)(a)(ii)(A) and (B) are to be computed using,
 		- **(i)** where an interest rate for a period used by the issuer when the contract was issued in determining the terms of the contract was less than any rate so used for a subsequent period, the single rate that would, if it applied for each period, have produced the same terms, and
 		- **(ii)** in any other case, the rates used by the issuer when the contract was issued in determining the terms of the contract;
-	- **(b)** paragraph (1)(b), where an interest rate used for a period by a life insurer in computing the relevant amounts in paragraph 1403(1)(a) or (b) is determined under paragraph 1403(1)(c), (d) or (e), as the case may be, and that rate is less than an interest rate so determined for a subsequent period, the single rate that could, if it applied for each period, have been used in determining the premiums for the policy shall be used; and
-	- **(c)** paragraph (1)(c),
+	- **(b)** an interest described in paragraph (1)(b) in respect of a life insurance policy issued before 2017 or an annuity contract, if an interest rate used for a period by a life insurer in computing the relevant amounts in paragraph 1403(1)(a) or (b) is determined under paragraph 1403(1)(c), (d) or (e), as the case may be, and that rate is less than an interest rate so determined for a subsequent period, the single rate that could, if it applied for each period, have been used in determining the premiums for the policy is to be used;
+	- **(c)** an exemption test policy issued in respect of a life insurance policy issued before 2017,
 		- **(i)** the rates of interest and mortality used and the age of the person whose life is insured shall be the same as those used in computing the amounts described in paragraph 1403(1)(a) or (b) in respect of the life insurance policy in respect of which the exemption test policy was issued except that
 			- **(A)** where the life insurance policy is one to which paragraph 1403(1)(e) applies and the amount determined under subparagraph 1401(1)(c)(i) in respect of that policy is greater than the amount determined under subparagraph 1401(1)(c)(ii) in respect thereof, the rates of interest and mortality used may be those used in computing the cash surrender values of that policy, and
 			- **(B)** where an interest rate for a period otherwise determined under this subparagraph in respect of that interest is less than an interest rate so determined for a subsequent period, the single rate that could, if it applied for each period, have been used in determining the premiums for the life insurance policy shall be used, and
 		- **(ii)** notwithstanding subparagraph (i),
 			- **(A)** where the rates referred to in subparagraph (i) do not exist, the minimum guaranteed rates of interest used under the life insurance policy to determine cash surrender values and the rates of mortality under the Commissioners 1958 Standard Ordinary Mortality Table, as published in Volume X of the Transactions of the Society of Actuaries, relevant to the person whose life is insured under the life insurance policy shall be used, or
-			- **(B)** where, in respect of the life insurance policy in respect of which the exemption test policy was issued, the period over which the amount determined under clause 1401(1)(c)(ii)(A) does not extend to the date determined under subparagraph 306(3)(d)(ii), the weighted arithmetic mean of the interest rates used to determine such amount shall be used for the period that is after that period and before that date.
+			- **(B)** where, in respect of the life insurance policy, the particular period over which the amount determined under clause (B) of the description of A in subparagraph 1401(1)(c)(ii) does not extend to the exemption test policy’s endowment date, the weighted arithmetic mean of the interest rates used to determine the amount is to be used for the period that is after the particular period and before that date,
+		- **(iii)** notwithstanding subparagraphs (i) and (ii), no rate of interest used for the purpose of determining the accumulating fund in respect of an exemption test policy issued in respect of the life insurance policy is to be less than
+			- **(A)** if the life insurance policy is issued after April 1985, 4% per annum, and
+			- **(B)** if the life insurance policy is issued before May 1985, 3% per annum, and
+		- **(iv)** each amount of a benefit on death is to be determined net of any portion in respect of the benefit on death of the exemption test policy related to a segregated fund; and
+	- **(d)** an exemption test policy issued in respect of a coverage under a life insurance policy issued after 2016,
+		- **(i)** the rates of interest and mortality used and the age of the individual whose life is insured under the coverage are to be the same as those used in computing amounts under paragraph 1401(1)(c) in respect of the policy, and
+		- **(ii)** each amount of a benefit on death is to be determined net of any portion in respect of the benefit on death of the exemption test policy related to a segregated fund.
 
-- **(3)** Notwithstanding paragraph (2)(c),
-	- **(a)** in the case of a life insurance policy issued after April 30, 1985, no rate of interest used for the purpose of determining the accumulating fund in respect of an exemption test policy issued in respect thereof shall be less than 4 per cent per annum; and
-	- **(b)** in the case of a life insurance policy issued before May 1, 1985, no rate of interest used for the purpose of determining the accumulating fund in respect of an exemption test policy issued in respect thereof shall be less than 3 per cent per annum.
-
-- **(4)** For the purposes of paragraph (1)(c),
-	- **(a)** where on the date of issue of an exemption test policy the person whose life is insured has attained the age of 75 years, the references in paragraph (1)(c) to “20” and “twentieth” shall be read as references to “10” and “tenth” respectively; and
-	- **(b)** where on the date of issue of an exemption test policy the person whose life is insured has attained the age of 66 years but not the age of 75 years, the references in paragraph (1)(c) to “20” and “twentieth” shall be read as references to
-		- **(i)** the number obtained when the number of years by which the age of the person whose life is insured exceeds 65 years is subtracted from 20, and
-		- **(ii)** the adjectival form of the number obtained by performing the computation described in subparagraph (i), respectively.
+- **(3) and (4)** [Repealed, 2014, c. 39, s. 82]
 
 - **(5)** In this section, any amount determined by reference to section 1401 shall be determined
-	- **(a)** without regard to section 1402;
-	- **(b)** as if each reference to “policy loan” in section 1401 were read as a reference to “policy loan, as defined in subsection 148(9) of the Act,”; and
-	- **(c)** as if clauses 1401(1)(c)(i)(B) and 1401(1)(c)(ii)(C) were read without reference to the expression “or the interest thereon that has accrued to the insurer at the end of the year”.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-865, s. 5; SOR/84-948, s. 2; SOR/91-290, s. 1; SOR/94-686, ss. 3(F), 55(F); SOR/2011-188, s. 10.
+	- **(a)** without regard to section 1402; and
+	- **(b)** as if each reference to “policy loan” in section 1401 were read as a reference to “policy loan, as defined in subsection 148(9) of the Act,”.
+	- **(c)** [Repealed, 2014, c. 39, s. 82]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-865, s. 5; SOR/84-948, s. 2; SOR/91-290, s. 1; SOR/94-686, ss. 3(F), 55(F); SOR/2011-188, s. 10; 2014, c. 39, s. 82.
 
 
 
@@ -1874,19 +1951,40 @@ assuming for the purposes of this paragraph that the life insurer carried on its
 
 **308** 
 
-- **(1)** For the purposes of subparagraph 20(1)(e.2)(ii) and paragraph (a) of the description of L in the definition ***adjusted cost basis*** in subsection 148(9) of the Act, the net cost of pure insurance for a year in respect of a taxpayer’s interest in a life insurance policy is the product obtained when the probability, computed on the basis of the rates of mortality under the 1969-75 mortality tables of the Canadian Institute of Actuaries published in Volume XVI of the Proceedings of the Canadian Institute of Actuaries or on the basis described in subsection (1.1), that a person who has the same relevant characteristics as the person whose life is insured will die in the year is multiplied by the amount by which
-	- **(a)** the benefit on death in respect of the taxpayer’s interest at the end of the year
-exceeds
-	- **(b)** the accumulating fund (determined without regard to any policy loan outstanding) in respect of the taxpayer’s interest in the policy at the end of the year or the cash surrender value of such interest at the end of the year, depending on the method regularly followed by the life insurer in computing net cost of pure insurance.
+- **(1)** For the purposes of subparagraph 20(1)(e.2)(ii) and paragraph (a) of the description of L in the definition ***adjusted cost basis*** in subsection 148(9) of the Act, the net cost of pure insurance for a year in respect of a taxpayer’s interest in a life insurance policy is
+	- **(a)** if, determined at the end of the year, the policy was issued before 2017, the amount determined by the formula
+```
+A × (B – C)
+```
+where
+- **A** is the probability, computed on the basis of the rates of mortality under the 1969–75 mortality tables of the Canadian Institute of Actuaries published in Volume XVI of the Proceedings of the Canadian Institute of Actuaries, or on the basis described in subsection (1.1), that an individual who has the same relevant characteristics as the individual whose life is insured will die in the year,
+- **B** is the benefit on death in respect of the interest at the end of the year, and
+- **C** is the accumulating fund (determined without regard to any amount payable in respect of the policy loan) in respect of the interest at the end of the year or the interest’s cash surrender value at the end of the year, depending on the method regularly followed by the life insurer in computing amounts under this subsection; and
+	- **(b)** if, determined at the end of the year, the policy was issued after 2016, the total of all amounts each of which is an amount determined in respect of a coverage in respect of the interest by the formula
+```
+A × (B – C)
+```
+where
+- **A** is the probability, computed on the basis of the rates of mortality determined in accordance with paragraph 1401(4)(b), or on the basis described in subsection (1.2), that an individual whose life is insured under the coverage will die in the year,
+- **B** is the benefit on death under the coverage in respect of the interest at the end of the year, and
+- **C** is the amount determined by the formula
+```
+D + E
+```
+where
+- **D** is the portion, in respect of the coverage in respect of the interest, of the amount that would be the present value, determined for the purposes of section 307, on the last policy anniversary that is on or before the last day of the year, of the fund value of the coverage if the fund value of the coverage were equal to the fund value of the coverage at the end of the year, and
+- **E** is the portion, in respect of the coverage in respect of the interest, of the amount that would be determined, on that policy anniversary, for paragraph (a) of the description of C in the definition ***net premium reserve*** in subsection 1401(3) in respect of the coverage, if the benefit on death under the coverage, and the fund value of the coverage, on that policy anniversary were equal to the benefit on death under the coverage and the fund value of the coverage, respectively, at the end of the year.
 
-- **(1.1)** Where premiums for a particular class of life insurance policy offered by a life insurer do not depend directly on smoking or sex classification, the probability referred to in subsection (1) may be determined using rates of mortality otherwise determined provided that for each age for such class of life insurance policy, the expected value of the aggregate net cost of pure insurance, calculated using such rates of mortality, is equal to the expected value of the aggregate net cost of pure insurance, calculated using the rates of mortality under the 1969-75 mortality tables of the Canadian Institute of Actuaries published in Volume XVI of the Proceedings of the Canadian Institute of Actuaries.
+- **(1.1)** If premiums for a life insurance policy do not depend directly on smoking or sex classification, the probability referred to in paragraph (1)(a) may be determined using rates of mortality otherwise determined, provided that for each age for the policy, the expected value of the aggregate net cost of pure insurance, calculated using those rates of mortality, is equal to the expected value of the aggregate net cost of pure insurance, calculated using the rates of mortality under the 1969–75 mortality tables of the Canadian Institute of Actuaries published in Volume XVI of the Proceedings of the Canadian Institute of Actuaries.
+
+- **(1.2)** If premiums or costs of insurance charges for a coverage under a life insurance policy do not depend directly on smoking or sex classification, the probability referred to in paragraph (1)(b) may be determined using rates of mortality otherwise determined, provided that for each age for the coverage, the expected value of the aggregate net cost of pure insurance, calculated using those rates of mortality, is equal to the expected value of the aggregate net cost of pure insurance, calculated using the rates of mortality that would be calculated under paragraph (1)(b) in respect of the coverage using the mortality tables described in paragraph 1401(4)(b).
 
 - **(2)** Subject to subsection (4), for the purposes of this section and of the description of G in the definition ***adjusted cost basis*** in subsection 148(9) of the Act, a ***mortality gain*** immediately before the end of any calendar year after 1982 in respect of a taxpayer’s interest in a life annuity contract means such reasonable amount in respect of the taxpayer’s interest in the life annuity contract at that time that the life insurer determines to be the increase to the accumulating fund in respect of the interest that occurred during that year as a consequence of the survival to the end of the year of one or more of the annuitants under the life annuity contract.
 
 - **(3)** Subject to subsection (4), for the purposes of this section and of paragraph (c) of the description of L in the definition ***adjusted cost basis*** in subsection 148(9) of the Act, a ***mortality loss*** immediately before a particular time after 1982 in respect of an interest in a life annuity contract disposed of immediately after that particular time as a consequence of the death of an annuitant under the life annuity contract means such reasonable amount that the life insurer determines to be the decrease, as a consequence of the death, in the accumulating fund in respect of the interest assuming that, in determining such decrease, the accumulating fund immediately after the death is determined in the manner described in subparagraph 307(1)(b)(i).
 
 - **(4)** In determining an amount for a year in respect of an interest in a life annuity contract under subsection (2) or (3), the expected value of the mortality gains in respect of the interest for the year shall be equal to the expected value of the mortality losses in respect of the interest for the year and the mortality rates for the year used in computing those expected values shall be those that would be relevant to the interest and that are specified under such of paragraphs 1403(1)(c), (d) and (e) as are applicable.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-865, s. 5; SOR/91-290, s. 2; SOR/94-415, s. 3; SOR/94-686, s. 55(F); SOR/2011-188, s. 11.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-865, s. 5; SOR/91-290, s. 2; SOR/94-415, s. 3; SOR/94-686, s. 55(F); SOR/2011-188, s. 11; 2014, c. 39, s. 83.
 
 
 
@@ -1981,20 +2079,52 @@ where
 
 **310** The following definitions apply for the purposes of this section and sections 300, 301 and 304 to 309.
 
-***amount payable*** has the same meaning as in subsection 138(12) of the Act.
+***adjusted purchase price***, of a taxpayer’s interest in an annuity contract at any time, means, subject to subsections 300(3) and (4), the amount that would be determined at that time in respect of the interest under the definition ***adjusted cost basis*** in subsection 148(9) of the Act if the formula in that definition were read without reference to K. (*prix d’achat rajusté*)
 
-***benefit on death*** does not include policy dividends, or any interest on a policy dividend, held on deposit by an insurer or any additional amount payable as a result of accidental death.
+***amount payable*** has the same meaning as in subsection 138(12) of the Act. (*montant payable*)
 
-***cash surrender value*** has the same meaning as in subsection 148(9) of the Act.
+***benefit on death*** has the same meaning as in subsection 1401(3). (*prestation de décès*)
 
-***policy anniversary*** includes, in the case of a life insurance policy that is in existence throughout a calendar year and that would not otherwise have a policy anniversary for the calendar year, the end of the calendar year.
+***cash surrender value*** has the same meaning as in subsection 148(9) of the Act. (*valeur de rachat*)
 
-***policy loan*** has the same meaning as in subsection 148(9) of the Act.
+***coverage***, under a life insurance policy,
+- **(a)** for the purposes of section 306, means all life insurance (other than a fund value benefit) under the policy in respect of a specific life, or two or more specific lives jointly insured; and
+- **(b)** for the purposes of sections 307 and 308, has the same meaning as in subsection 1401(3). (*protection*)
 
-***proceeds of the disposition*** has the same meaning as in subsection 148(9) of the Act.
+***endowment date***, of an exemption test policy, means
+- **(a)** where the exemption test policy is issued in respect of a life insurance policy issued before 2017, the later of
+	- **(i)** 10 years after the date of issue of the life insurance policy, and
+	- **(ii)** the first policy anniversary that is on or after the day on which the individual whose life is insured under the life insurance policy would, if the individual survived, attain the age of 85 years, as defined under the terms of the policy; and
+- **(b)** where the exemption test policy is issued in respect of a coverage under a life insurance policy issued after 2016,
+	- **(i)** if two or more lives are jointly insured under the coverage, the date that would be determined under subparagraph (ii) using the equivalent single age, determined on the coverage’s date of issue and in accordance with accepted actuarial principles and practices, that reasonably approximates the mortality rates of those lives, and
+	- **(ii)** in any other case, the later of
+		- **(A)** the earlier of
+			- **(I)** 15 years after the date of issue of the exemption test policy, and
+			- **(II)** the first policy anniversary that is on or after the day on which the individual whose life is insured under the coverage would, if the individual survived, attain the age of 105 years, as defined under the terms of the policy, and
+		- **(B)** the first policy anniversary that is on or after the day on which the individual whose life is insured under the coverage would, if the individual survived, attain the age of 90 years, as defined under the terms of the policy. (*date d’échéance*)
 
-***tax anniversary date***, in relation to an annuity contract, means the second anniversary date of the contract to occur after October 22, 1968.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-865, s. 5; SOR/94-686, s. 55(F); SOR/2011-188, s. 14.
+***fund value benefit*** has the same meaning as in subsection 1401(3). (*bénéfice au titre de la valeur du fonds*)
+
+***fund value of a coverage*** has the same meaning as in subsection 1401(3). (*valeur du fonds d’une protection*)
+
+***pay period***, of an exemption test policy, means
+- **(a)** where the exemption test policy is issued in respect of a life insurance policy issued before 2017,
+	- **(i)** if on the date of issue of the exemption test policy, the individual whose life is insured has attained the age of 66 years, as defined under the terms of the policy, but not the age of 75 years, as defined under the terms of the policy, the period that starts on that date and that ends after the number of years obtained when the number of years by which the age of the individual exceeds 65 years, as defined under the terms of the policy, is subtracted from 20,
+	- **(ii)** if on the date of issue of the exemption test policy, the individual whose life is insured has attained the age of 75 years, as defined under the terms of the policy, the 10-year period that starts on that date, and
+	- **(iii)** in any other case, the 20-year period that starts on the date of issue of the exemption test policy; and
+- **(b)** where the exemption test policy is issued in respect of a coverage under a life insurance policy issued after 2016,
+	- **(i)** subject to subparagraph (ii), if the individual whose life is insured under the coverage would, if the individual survived, attain the age of 105 years, as defined under the terms of the policy, within the eight-year period that starts on the date of issue of the exemption test policy, the period that starts on that date and that ends on the first policy anniversary that is on or after the day on which the individual would, if the individual survived, attain the age of 105 years, as defined under the terms of the policy,
+	- **(ii)** if two or more lives are jointly insured under the coverage and an individual of an age equal to the equivalent single age on the date of the issue of the coverage would, if the individual survived, attain the age of 105 years, as defined under the terms of the policy, within the eight-year period that starts on the date of issue of the exemption test policy, the period that starts on that date and that ends on the first policy anniversary that is on or after the day on which the individual would, if the individual survived, attain the age of 105 years, as defined under the terms of the policy, and
+	- **(iii)** in any other case, the eight-year period that starts on the date of issue of the exemption test policy. (*période de paiement*)
+
+***policy anniversary*** includes, in the case of a life insurance policy that is in existence throughout a calendar year and that would not otherwise have a policy anniversary for the calendar year, the end of the calendar year. (*anniversaire de la police*)
+
+***policy loan*** has the same meaning as in subsection 148(9) of the Act. (*avance sur police*)
+
+***proceeds of the disposition*** has the same meaning as in subsection 148(9) of the Act. (*produit de la disposition*)
+
+***tax anniversary date***, in relation to an annuity contract, means the second anniversary date of the contract to occur after October 22, 1968. (*jour anniversaire d’imposition*)
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-865, s. 5; SOR/94-686, s. 55(F); SOR/2011-188, s. 14; 2014, c. 39, s. 84.
 
 
 
@@ -4836,6 +4966,8 @@ and a certificate that has been so revoked shall be void from the time of its is
 - **(a)** in a system that converts biomass into bio-oil or biogas; or
 - **(b)** as an eligible waste fuel. (*résidus végétaux*)
 
+***producer gas*** means fuel the composition of which, excluding its water content, is all or substantially all non-condensable gases that is generated primarily from eligible waste fuel using a thermo-chemical conversion process and that is not generated using any fuels other than eligible waste fuel or fossil fuel.
+
 ***pulp and paper by-product*** means tall oil soaps and crude tall oil that are produced as by-products of the processing of wood into pulp or paper and the by-product of a pulp or paper plant’s effluent treatment or its de-inking processes. (*sous-produit d’usine de pâtes ou papiers*)
 
 ***pulp and paper waste*** means 
@@ -4867,12 +4999,12 @@ and a certificate that has been so revoked shall be void from the time of its is
 - **(16)** For the purpose of subsection (14), a district energy system is deemed to satisfy the requirements of paragraph (c) of Class 43.1, or paragraph (a) of Class 43.2, in Schedule II, as the case may be, if the electrical cogeneration equipment that produces the thermal energy used by the system is deemed by subsection (14) to meet the requirements of paragraph (c) of Class 43.1, or paragraph (a) of Class 43.2, in Schedule II, as the case may be.
 
 - **(17)** A property that would otherwise be eligible for inclusion in Class 43.1 or Class 43.2 in Schedule II by a taxpayer is deemed not to be eligible for inclusion in either of those classes if
-	- **(a)** the property is included in Class 43.1 because of its subparagraph (c)(i) or is described in any of subparagraphs (d)(viii), (ix), (xi) and (xiii) of Class 43.1 and paragraph (a) of Class 43.2; and
+	- **(a)** the property is included in Class 43.1 because of its subparagraph (c)(i) or is described in any of subparagraphs (d)(viii), (ix), (xi), (xiii), (xiv) and (xvi) of Class 43.1 and paragraph (a) of Class 43.2; and
 	- **(b)** at the time the property becomes available for use by the taxpayer, the taxpayer has not satisfied the requirements of all environmental laws, by-laws and regulations
 		- **(i)** of Canada, a province or a municipality in Canada, or
 		- **(ii)** of a municipal or public body performing a function of government in Canada
 applicable in respect of the property.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 3; SOR/78-502, s. 2; SOR/78-948, ss. 2, 3; SOR/79-426, s. 3; SOR/79-670, s. 3; SOR/80-418, s. 1; SOR/80-618, s. 2(F); SOR/80-926, s. 1; SOR/80-935, s. 1; SOR/80-942, s. 2; SOR/81-974, s. 1; SOR/81-1026, s. 1; SOR/82-265, s. 4; SOR/83-855, s. 1; SOR/84-265, s. 1; SOR/85-174, s. 2; SOR/86-254, s. 2; SOR/86-1092, s. 6(F); SOR/89-27, s. 3; SOR/90-22, s. 5; SOR/91-79, s. 1; SOR/94-169, s. 2; SOR/94-686, ss. 11(F), 62, 81(F); SOR/95-244, s. 2; SOR/96-200, s. 1; SOR/96-451, s. 1; SOR/97-377, s. 4; SOR/98-97, s. 2; SOR/99-179, s. 3; SOR/2000-327, s. 2; SOR/2001-295, s. 2(E); SOR/2005-371, s. 4; SOR/2005-414, s. 3; SOR/2005-415, s. 1; SOR/2006-117, s. 4; SOR/2006-249, s. 1; SOR/2007-19, s. 2; SOR/2009-115, s. 4; SOR/2009-126, s. 4; 2010, c. 25, s. 76; SOR/2010-93, s. 14; 2011, c. 24, s. 79; SOR/2011-9, s. 4; SOR/2011-195, s. 6(F); 2012, c. 31, s. 61; 2013, c. 40, s. 103.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 3; SOR/78-502, s. 2; SOR/78-948, ss. 2, 3; SOR/79-426, s. 3; SOR/79-670, s. 3; SOR/80-418, s. 1; SOR/80-618, s. 2(F); SOR/80-926, s. 1; SOR/80-935, s. 1; SOR/80-942, s. 2; SOR/81-974, s. 1; SOR/81-1026, s. 1; SOR/82-265, s. 4; SOR/83-855, s. 1; SOR/84-265, s. 1; SOR/85-174, s. 2; SOR/86-254, s. 2; SOR/86-1092, s. 6(F); SOR/89-27, s. 3; SOR/90-22, s. 5; SOR/91-79, s. 1; SOR/94-169, s. 2; SOR/94-686, ss. 11(F), 62, 81(F); SOR/95-244, s. 2; SOR/96-200, s. 1; SOR/96-451, s. 1; SOR/97-377, s. 4; SOR/98-97, s. 2; SOR/99-179, s. 3; SOR/2000-327, s. 2; SOR/2001-295, s. 2(E); SOR/2005-371, s. 4; SOR/2005-414, s. 3; SOR/2005-415, s. 1; SOR/2006-117, s. 4; SOR/2006-249, s. 1; SOR/2007-19, s. 2; SOR/2009-115, s. 4; SOR/2009-126, s. 4; 2010, c. 25, s. 76; SOR/2010-93, s. 14; 2011, c. 24, s. 79; SOR/2011-9, s. 4; SOR/2011-195, s. 6(F); 2012, c. 31, s. 61; 2013, c. 40, s. 103; 2014, c. 39, s. 85.
 
 
 
@@ -6137,45 +6269,181 @@ where
 
 **1401** 
 
-- **(1)** For the purposes of section 307 of the Regulations and subsection 211.1(3) of the Act, the amounts determined under this subsection are,
-	- **(a)** in respect of deposit administration fund policies, the aggregate of the insurer’s liabilities under those policies calculated in the manner required for the purposes of the insurer’s annual report to the relevant authority for the year or, where the insurer was throughout the year subject to the supervision of the relevant authority but was not required to file an annual report with the relevant authority for the year, in its financial statements for the year;
-	- **(b)** in respect of a group term life insurance policy that provides coverage for a period not exceeding 12 months, the unearned portion of the premium paid by the policyholder for the policy at the end of the year determined by apportioning the premium paid by the policyholder equally over the period to which that premium pertains;
+- **(1)** For the purposes of applying section 307 and subsection 211.1(3) of the Act at any time, the amounts determined under this subsection are,
+	- **(a)** in respect of a deposit administration fund policy, the total of the insurer’s liabilities under the policy calculated in the manner that
+		- **(i)** if the insurer is required to file an annual report with its relevant authority for a period that includes that time, is required to be used in preparing that report, and
+		- **(ii)** in any other case, is required to be used in preparing its annual financial statements for the period that includes that time;
+	- **(b)** in respect of a group term life insurance policy that provides insurance for a period not exceeding 12 months, the unearned portion of the premium paid by the policyholder for the policy at that time determined by apportioning the premium paid by the policyholder equally over the period to which that premium pertains;
 	- **(c)** in respect of a life insurance policy, other than a policy referred to in paragraph (a) or (b), the greater of
-		- **(i)** the amount, if any, by which
-			- **(A)** the cash surrender value of the policy at the end of the yearexceeds
-			- **(B)** the aggregate of all amounts each of which is an amount payable in respect of a policy loan outstanding at the end of the year in respect of the policy or the interest thereon that has accrued to the insurer at the end of the year, and
-		- **(ii)** the amount, if any, by which
-			- **(A)** the present value at the end of the year of the future benefits provided by the policyexceeds the aggregate of
-			- **(B)** the present value at the end of the year of any future modified net premiums in respect of the policy, and
-			- **(C)** the aggregate of all amounts each of which is an amount payable in respect of a policy loan outstanding at the end of the year in respect of the policy or the interest thereon that has accrued to the insurer at the end of the year;
-	- **(c.1)** in respect of a group life insurance policy, the amount (other than an amount in respect of which a deduction may be claimed by the insurer pursuant to subsection 140(1) of the Act because of subparagraph 138(3)(a)(v) of the Act in computing its income for the year) in respect of a dividend, refund of premiums or refund of premium deposits provided for under the terms of the policy that will be used by the insurer to reduce or eliminate a future adverse claims experience under the policy or that will be paid or unconditionally credited to the policyholder by the insurer or applied in discharge, in whole or in part, of a liability of the policyholder to pay premiums to the insurer, which is the least of
+		- **(i)** the amount determined by the formula
+```
+A – B
+```
+where
+- **A** is
+		- **(A)** if the policy is issued after 2016 and is not an annuity contract, the cash surrender value of the policy at that time determined without reference to surrender charges, and
+		- **(B)** in any other case, the cash surrender value of the policy at that time, and
+- **B** is the total of all amounts each of which is an amount payable at that time in respect of a policy loan in respect of the policy, and
+		- **(ii)** the amount determined by the formula
+```
+A – (B + C)
+```
+where
+- **A** is
+		- **(A)** if the policy is issued after 2016 and is not an annuity contract, the net premium reserve in respect of the policy at that time, and
+		- **(B)** in any other case, the present value at that time of the future benefits provided by the policy,
+- **B** is
+		- **(A)** if the policy is issued after 2016 and is not an annuity contract, nil, and
+		- **(B)** in any other case, the present value at that time of any future modified net premiums in respect of the policy, and
+- **C** is the total of all amounts each of which is an amount payable at that time in respect of a policy loan in respect of the policy;
+	- **(c.1)** in respect of a group life insurance policy, the amount (other than an amount in respect of which a deduction may be claimed by the insurer under subsection 140(1) of the Act because of subparagraph 138(3)(a)(v) of the Act in computing the insurer’s income for its taxation year that includes that time) in respect of a dividend, refund of premiums or refund of premium deposits provided for under the terms of the policy that will be used by the insurer to reduce or eliminate a future adverse claims experience under the policy or that will be paid or unconditionally credited to the policyholder by the insurer or applied in discharge, in whole or in part, of a liability of the policyholder to pay premiums to the insurer, which is the least of
 		- **(i)** a reasonable amount in respect of such a dividend, refund of premiums or refund of premium deposits,
-		- **(ii)** 25 per cent of the amount of the premium payable under the terms of the policy for the 12-month period ending
-			- **(A)** if the policy is terminated in the year, on the day the policy is terminated, and
-			- **(B)** in any other case, at the end of the year, and
-		- **(iii)** the amount of the reserve or liability in respect of such a dividend, refund of premiums or refund of premium deposits reported by the insurer in its annual report for the year to the relevant authority or, where the insurer was throughout the year subject to the supervision of the relevant authority for the year but was not required to file an annual report with the relevant authority for the year, in its financial statements for the year; and
+		- **(ii)** 25% of the amount of the premium payable under the terms of the policy for the 12-month period ending at that time, and
+		- **(iii)** the amount of the reserve or liability in respect of such a dividend, refund of premiums or refund of premium deposits that
+			- **(A)** if the insurer is required to file an annual report with its relevant authority for a period that includes that time, is used in preparing that report, and
+			- **(B)** in any other case, is used in preparing its annual financial statements for the period that includes that time; and
 	- **(d)** in respect of a policy, other than a policy referred to in paragraph (a), in respect of a benefit, risk or guarantee that is
 		- **(i)** an accidental death benefit,
 		- **(ii)** a disability benefit,
 		- **(iii)** an additional risk as a result of insuring a substandard life,
-		- **(iv)** an additional risk in respect of the conversion of a term policy or the conversion of the benefits under a group policy into another policy after the end of the year,
+		- **(iv)** an additional risk in respect of the conversion of a term policy or the conversion of the benefits under a group policy into another policy after that time,
 		- **(v)** an additional risk under a settlement option,
 		- **(vi)** an additional risk under a guaranteed insurability benefit,
 		- **(vii)** a guarantee in respect of a segregated fund policy, or
 		- **(viii)** any other benefit that is ancillary to the policy, subject to the prior approval of the Minister on the advice of the Superintendent of Insurance for Canada,
 but is not
-		- **(ix)** a benefit, risk or guarantee in respect of which an amount has been claimed under any other paragraph of this subsection, other than paragraphs (d.1) and (d.2), by the insurer as a deduction in computing its income for the year,
+		- **(ix)** a benefit, risk or guarantee in respect of which an amount has been claimed under any other paragraph of this subsection by the insurer as a deduction in computing its income for its taxation year that includes that time,
 equal to the lesser of
 		- **(x)** a reasonable amount in respect of the benefit, risk or guarantee, and
-		- **(xi)** the reserve in respect of the benefit, risk or guarantee, reported by the insurer in its annual report to the relevant authority for the year or, where the insurer was throughout the year subject to the supervision of the relevant authority but was not required to file an annual report with the relevant authority for the year, in its financial statements for the year.
+		- **(xi)** the reserve in respect of the benefit, risk or guarantee that
+			- **(A)** if the insurer is required to file an annual report with its relevant authority for a period that includes that time, is used in preparing that report, and
+			- **(B)** in any other case, is used in preparing its annual financial statements for the period that includes that time.
 	- **(d.1) to (e)** [Repealed, 2009, c. 2, s. 99]
 
 - **(1.1)** [Repealed, 2009, c. 2, s. 99]
 
 - **(2)** For the purposes of subsection (1), (except in respect of subparagraph (d)(vii) thereof), any amount claimed by an insurer for the year shall not include an amount in respect of a liability of a segregated fund (within the meaning assigned ***segregated fund*** by section 138.1 of the Act).
 
-- **(3) and (4)** [Repealed, 2009, c. 2, s. 99]
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-425, s. 1; SOR/80-618, s. 3; SOR/84-948, s. 8; SOR/86-1136, s. 2; SOR/90-661, s. 3; SOR/92-681, s. 3(F); SOR/94-415, s. 5; SOR/94-686, s. 13(F); SOR/99-269, s. 4; SOR/2002-123, s. 1; 2009, c. 2, s. 99.
+- **(3)** The following definitions apply in this section.
+
+***benefit on death*** includes the amount of an endowment benefit but does not include
+- **(a)** any additional amount payable as a result of accidental death; and
+- **(b)** where interest, if any, on an amount held on deposit by an insurer is included in computing the income of a policyholder for a taxation year, the amount held on deposit and interest on the deposit.
+
+***coverage***, under a life insurance policy, means each life insurance (other than a fund value benefit) under the policy in respect of a specific life, or two or more specific lives jointly insured, and in respect of which a particular schedule of premium or cost of insurance rates applies. For greater certainty, each such insurance is a separate coverage.
+
+***fund value benefit***, under a life insurance policy at any time, means a benefit under the policy the amount of which is the amount by which the fund value of the policy at that time exceeds the total of all amounts each of which is a fund value of a coverage under the policy at that time.
+
+***fund value of a coverage***, under a life insurance policy at any time, means the total of all amounts each of which is the amount at that time of an investment account in respect of the policy that reduces the net amount at risk as determined for the purpose of calculating the cost of insurance charges for the coverage during the period over which those charges are incurred or would be incurred if they were to apply until the termination of the coverage.
+
+***fund value of a policy***, at any time, means the total of all amounts each of which is the amount at that time of an investment account in respect of the policy and, for greater certainty,
+- **(a)** includes, where interest, if any, on an amount held on deposit by an insurer is not included in computing the income of a policyholder for a taxation year, the amount held on deposit and interest on the deposit; and
+- **(b)** excludes, where interest, if any, on an amount held on deposit by an insurer is included in computing the income of a policyholder for a taxation year, the amount held on deposit and interest on the deposit.
+
+***future benefits to be provided***, in respect of a coverage under a life insurance policy at any time, means
+- **(a)** if there is a fund value of the coverage at that time, each benefit on death that would be payable under the coverage at a particular time after that time determined as if the amount of the benefit were equal to the amount by which the benefit on death at that time exceeds the fund value of the coverage at that time; and
+- **(b)** in any other case, each benefit on death payable under the coverage at a particular time after that time.
+
+***future net premiums or cost of insurance charges***, in respect of a coverage at any time, means
+- **(a)** for the purposes of paragraph (a) of the description of C in the definition ***net premium reserve*** in this subsection, each amount determined by the formula
+```
+A × B/C
+```
+where
+- **A** is future premiums or cost of insurance charges in respect of the coverage at that time,
+- **B** is the present value at the date of issue of the coverage of future benefits to be provided in respect of the coverage on that date, and
+- **C** is the present value at the date of issue of the coverage of future premiums or cost of insurance charges in respect of the coverage on that date; and
+- **(b)** for the purposes of paragraph (b) of the description of C in the definition ***net premium reserve*** in this subsection,
+	- **(i)** each amount determined by the formula
+```
+A × (B + C)/(D + E)
+```
+where
+- **A** is future premiums or cost of insurance charges in respect of the coverage at that time,
+- **B** is the present value at the date of issue of the coverage of future benefits to be provided in respect of the coverage on the particular day that is one year after that date and, if the coverage has a fund value on that date, determined as if the fund value of the coverage were nil on that date,
+- **C** is the present value at the date of issue of the coverage of future benefits to be provided in respect of the coverage on the particular day that is two years after that date and, if the coverage has a fund value on that date, determined as if the fund value of the coverage were nil on that date,
+- **D** is the present value at the date of issue of the coverage of future premiums or cost of insurance charges in respect of the coverage on the particular day that is one year after that date and, if the coverage has a fund value on that date, determined as if the fund value of the coverage were nil on that date, and
+- **E** is the present value at the date of issue of the coverage of future premiums or cost of insurance charges in respect of the coverage on the particular day that is two years after that date and, if the coverage has a fund value on that date, determined as if the fund value of the coverage were nil on that date, and
+	- **(ii)** notwithstanding subparagraph (i), in respect of the second year of the coverage, the amount determined by the formula
+```
+(A + B)/2
+```
+where
+- **A** is the amount determined under subparagraph (i), and
+- **B** is the amount of a one-year term insurance premium or cost of insurance charge that would be payable in respect of the coverage if the benefit on death were equal to the amount by which the benefit on death at the end of the first year of the coverage exceeds the fund value of the coverage, if any, at the end of the first year of the coverage.
+
+***future premiums or cost of insurance charges***, in respect of a coverage at any time, means
+- **(a)** if there is a fund value of the coverage at that time, each cost of insurance charge in respect of the coverage that would be incurred at a particular time after that time determined as if the net amount at risk under the coverage after that time were equal to the amount by which the benefit on death under the coverage at that time exceeds the fund value of the coverage at that time; and
+- **(b)** in any other case, each premium in respect of the coverage that is fixed and determined on the date of issue of the coverage that will become payable, or each cost of insurance charge in respect of the coverage that will be incurred, as the case may be, at a particular time after that time.
+
+***interpolation time***, of a coverage, means the time that is the earlier of
+- **(a)** the time that is eight years after the date of issue of the coverage; and
+- **(b)** the first time at which no premiums are payable or cost of insurance charges are incurred, as the case may be, in respect of the coverage.
+
+***net premium reserve***, in respect of a life insurance policy at any time, means the amount determined by the formula
+```
+A + B + C
+```
+where
+- **A** is the total of all amounts, if any, each of which is the present value at that time of the fund value of a coverage under the policy at that time;
+- **B** is the amount, if any, of the fund value benefit under the policy at that time; and
+- **C** is
+- **(a)** in applying paragraph (1)(c) for the purposes of section 307, the total of all amounts each of which is, in respect of a coverage under the policy,
+	- **(i)** if that time is at or after the interpolation time of the coverage, the amount determined by the formula
+```
+D – E
+```
+where
+- **D** is the present value at that time of future benefits to be provided in respect of the coverage at that time, and
+- **E** is the present value at that time of future net premiums or cost of insurance charges in respect of the coverage at that time, and
+	- **(ii)** if that time is before the interpolation time of the coverage, the amount determined by the formula
+```
+F/G × (H – I)
+```
+where
+- **F** is the number of years that the coverage has been in effect as of that time,
+- **G** is the number of years that the coverage would have been in effect if that time were the interpolation time,
+- **H** is the present value at the interpolation time of future benefits to be provided in respect of the coverage at the interpolation time and, if the coverage has a fund value at that time, determined as if the amount of the benefit on death under the coverage at the interpolation time were equal to the amount by which the benefit on death at that time exceeds the fund value of the coverage at that time, and
+- **I** is the present value at the interpolation time of future net premiums or cost of insurance charges in respect of the coverage at the interpolation time and, if the coverage has a fund value at that time, determined as if the net amount at risk under the coverage after the interpolation time were equal to the amount by which the benefit on death at that time exceeds the fund value of the coverage at that time, and
+- **(b)** in applying paragraph (1)(c) for the purposes of subsection 211.1(3) of the Act, the total of all amounts each of which is, in respect of a coverage under the policy, the amount determined by the formula
+```
+J – K
+```
+where
+- **J** is the present value at that time of future benefits to be provided in respect of the coverage at that time, and
+- **K** is the present value at that time of future net premiums or cost of insurance charges in respect of the coverage at that time.
+
+***policy anniversary*** has the same meaning as in section 310.
+
+- **(4)** In applying paragraph (1)(c) for the purposes of section 307 in respect of a life insurance policy (other than an annuity contract) issued after 2016, the following rules apply:
+	- **(a)** in computing present values
+		- **(i)** an annual interest rate of 3.5% is to be used, and
+		- **(ii)** mortality rates are to be used;
+	- **(b)** in determining the mortality rates that apply to a life insured under a coverage under the policy,
+		- **(i)** if a single life is insured under the coverage,
+			- **(A)** the age that is to be used is the age of the life insured at the time at which the coverage was issued, or that which is attained on the birthday of the life insured nearest to the time at which the coverage was issued, depending on the method used by the insurer that issued the policy in determining the premium or cost of insurance rates in respect of the life insured,
+			- **(B)** if the life insured was determined by the insurer that issued the policy to be a standard life at the time the coverage was issued, the Proposed CIA Mortality Tables, 1986–1992 included in the May 17, 1995 Canadian Institute of Actuaries Memorandum, extended to include select mortality rates from age 81 to age 90 developed using the methodology used by the Canadian Institute of Actuaries to derive select mortality rates from age 71 to age 80, applicable for an individual who has the same relevant characteristics as the life insured, are to be used, and
+			- **(C)** if the life insured was determined by the insurer that issued the policy to be a substandard life at the time the coverage was issued, the mortality rates that apply are to be equal to, depending on the method used by the insurer for the purpose of determining the premium or cost of insurance rates in respect of the coverage,
+				- **(I)** the lesser of one and the product of the rating attributed to the life by the insurer and the mortality rates that would be determined under clause (B) if the life were not a substandard life, or
+				- **(II)** the mortality rates that would have been determined under clause (B) had the life insured been a standard life and the age of the life insured been the age used by the life insurer for the purpose of determining the premium or cost of insurance rates in respect of the coverage, and
+		- **(ii)** if two or more lives are jointly insured under the coverage, the mortality rates to be used are those determined by applying the methodology used by the insurer that issued the policy to estimate the mortality rates of the lives jointly insured for the purpose of determining the premium or cost of insurance rates in respect of the coverage to the Proposed CIA Mortality Tables, 1986–1992 included in the May 17, 1995 Canadian Institute of Actuaries Memorandum, extended to include select mortality rates from age 81 to age 90 developed using the methodology used by the Canadian Institute of Actuaries to derive select mortality rates from age 71 to age 80; and
+	- **(c)** in determining the net premium reserve in respect of the policy, the present value of future net premiums or cost of insurance charges is to be calculated as if a premium or cost of insurance charge payable or incurred on a policy anniversary were payable or incurred, as the case may be, one day after the policy anniversary.
+
+- **(5)** In applying paragraph (1)(c) for the purposes of subsection 211.1(3) of the Act in respect of a life insurance policy (other than an annuity contract)
+	- **(a)** if the policy is issued after 2016,
+		- **(i)** the rates of interest, mortality and lapses described in subsection 1403(1) are to be used in computing present values, determined as if
+			- **(A)** subsections 1403(2) to (8) did not apply, and
+			- **(B)** the reference to “premiums for the policy” in paragraph 1403(1)(e) were read as a reference to “premiums or cost of insurance charges in respect of a coverage under the policy”,
+		- **(ii)** subparagraph (1)(c)(i) is to be read without reference to “determined without reference to surrender charges”, and
+		- **(iii)** in determining the net premium reserve in respect of the policy, the present value of future net premiums or cost of insurance charges is to be calculated as if a premium or cost of insurance charge payable or incurred on a policy anniversary were payable or incurred, as the case may be, one day after the policy anniversary; and
+	- **(b)** if the policy is issued before 2017 and at a particular time after 2016 life insurance — in respect of a life, or two or more lives jointly insured, and in respect of which a particular schedule of premium or cost of insurance rates applies — is converted (other than only because of a change in premium or cost of insurance rates) into another type of life insurance under the policy or is added to the policy, then that insurance is deemed to be a separate life insurance policy issued at the particular time unless
+		- **(i)** the insurance is part of a rider deemed by subsection 211(2) of the Act to be a separate life insurance policy issued at the particular time, or
+		- **(ii)** in the case of insurance added to the policy,
+			- **(A)** the insurance is medically underwritten
+				- **(I)** to obtain a reduction in the premium or cost of insurance rates under the policy, or
+				- **(II)** before 2017, or
+			- **(B)** the insurance is paid for with policy dividends or is reinstated.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-425, s. 1; SOR/80-618, s. 3; SOR/84-948, s. 8; SOR/86-1136, s. 2; SOR/90-661, s. 3; SOR/92-681, s. 3(F); SOR/94-415, s. 5; SOR/94-686, s. 13(F); SOR/99-269, s. 4; SOR/2002-123, s. 1; 2009, c. 2, s. 99; 2014, c. 39, s. 86.
 
 
 
@@ -6205,7 +6473,7 @@ equal to the lesser of
 
 **1403** 
 
-- **(1)** For the purposes of paragraph 1401(1)(c) and subject to subsections (2) and (3), a modified net premium and an amount claimed by an insurer for a taxation year shall be computed
+- **(1)** Subject to subsections (2) and (3), for the purposes of applying paragraph 1401(1)(c) in respect of a life insurance policy issued before 2017 or an annuity contract, a modified net premium and an amount determined by paragraph 1401(1)(c) are to be computed
 	- **(a)** in the case of a lapse-supported policy effected after 1990, based on rates of interest, mortality and policy lapse only, and
 	- **(b)** in any other case, based on rates of interest and mortality only,
 using
@@ -6263,7 +6531,7 @@ where
 	- **(b)** the revised rates are deemed to have been used by the issuer of the transferred policies in determining the cash surrender value or premiums under the policies.
 
 - **(10)** If, under subsection (9), an insurer has revised the rates of interest, mortality or policy lapse used by the issuer of transferred policies, the Minister may, for the purposes of subsection (1) and paragraph (9)(b), make further revisions to the revised rates to the extent that the insurer’s revisions to those rates are not reasonable in the circumstances.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-425, s. 1; SOR/80-419, s. 2; SOR/80-618, s. 4(E); SOR/90-661, s. 4; SOR/94-415, s. 6; SOR/94-686, ss. 14(F), 56(F); 2013, c. 34, s. 386.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-425, s. 1; SOR/80-419, s. 2; SOR/80-618, s. 4(E); SOR/90-661, s. 4; SOR/94-415, s. 6; SOR/94-686, ss. 14(F), 56(F); 2013, c. 34, s. 386; 2014, c. 39, s. 87.
 
 
 
@@ -11404,9 +11672,9 @@ is of
 - **(a)** in the case of an active business carried on by it in a country,
 	- **(i)** the income or profit from the active business for the year computed in accordance with the income tax law of the country in which the affiliate is resident, in any case where the affiliate is required by that law to compute that income or profit,
 	- **(ii)** the income or profit from the active business for the year computed in accordance with the income tax law of the country in which the business is carried on, in any case not described in subparagraph (i) where the affiliate is required by that law to compute that income or profit, and
-	- **(iii)** in any other case, the amount that would be the income from the active business for the year under Part I of the Act if the business were carried on in Canada, the affiliate were resident in Canada and the Act were read without reference to subsections 80(3) to (12), (15) and (17) and 80.01(5) to (11) and sections 80.02 to 80.04,
+	- **(iii)** in any other case, the amount that would be the income from the active business for the year under Part I of the Act if the business were carried on in Canada, the affiliate were resident in Canada and the Act were read without reference to subsections 18(4), 80(3) to (12), (15) and (17) and 80.01(5) to (11) and sections 80.02 to 80.04,
 adjusted in each case in accordance with subsections (2), (2.1), (2.2) and (2.9) and, for the purpose of this Part, to the extent that the earnings of an affiliate from an active business carried on by it cannot be attributed to a permanent establishment in any particular country, they shall be attributed to the permanent establishment in the country in which the affiliate is resident and, if the affiliate is resident in more than one country, to the permanent establishment in the country that may reasonably be regarded as the affiliate’s principal place of residence, and
-- **(b)** in any other case, the total of all amounts each of which is an amount of income that would be required under paragraph 95(2)(a) of the Act to be included in computing the affiliate’s income or loss from an active business for the year if that income were computed taking into account the rules in subsection (2.03); (*gains*)
+- **(b)** in any other case, the total of all amounts each of which is an amount of income that would be required under paragraph 95(2)(a) or subsection 95(2.44) of the Act to be included in computing the affiliate’s income or loss from an active business for the year if that income were computed taking into account the rules in subsection (2.03); (*gains*)
 
 ***exempt deficit*** of a foreign affiliate of a corporation in respect of the corporation at any time means the amount, if any, by which
 - **(a)** the total of all amounts each of which is an amount determined at that time under any of subparagraphs (i) to (vi) of the description of B in the definition ***exempt surplus*** in this subsection
@@ -11419,7 +11687,6 @@ exceeds
 	- **(i)** the amount of the taxable capital gains for the year referred to in the description of B in the definition ***foreign accrual property income*** in subsection 95(1) of the Act,
 	- **(ii)** the amount of the taxable capital gains for the year referred to in subparagraphs (c)(i), (e)(i) and (f)(iv) of the definition ***net earnings***, and
 	- **(iii)** the portion of any income or profits tax paid to the government of a country for the year by the particular affiliate that can reasonably be regarded as tax in respect of the amount by which the capital gains of the particular affiliate for the year exceed the total of the amounts referred to in subparagraphs (i) and (ii),
-and for the purpose of this paragraph, where the particular affiliate has disposed of capital property that was shares of the capital stock of another foreign affiliate of the particular corporation to any corporation that was, immediately after the disposition, a foreign affiliate of the particular corporation, the capital gains of the particular affiliate for the year shall not include the portion of those gains that is the total of all amounts each of which is an amount equal to the excess of the fair market value at the end of the particular affiliate’s 1975 taxation year of one of those shares disposed of over the adjusted cost base of that share,
 - **(a.1)** the amount determined by the formula
 ```
 A – B
@@ -11438,13 +11705,14 @@ where
 	- **(i)** the particular affiliate’s net earnings for the year from an active business carried on by it in Canada or a designated treaty country, or
 	- **(ii)** the particular affiliate’s earnings for the year from an active business to the extent that they derive from
 		- **(A)** income that is required to be included in computing the particular affiliate’s income or loss from an active business for the year under subparagraph 95(2)(a)(i) of the Act and that would
-			- **(I)** if earned by the other foreign affiliate referred to in subclause 95(2)(a)(i)(A)(I) of the Act, be included in computing the exempt earnings or exempt loss of the other foreign affiliate for a taxation year, or
-			- **(II)** if earned by the life insurance corporation referred to in subclause 95(2)(a)(i)(A)(II) of the Act and based on the assumptions contained in subclause 95(2)(a)(i)(B)(II) of the Act, be included in computing the exempt earnings or exempt loss of the life insurance corporation for a taxation year,
+			- **(I)** if earned by the other foreign affiliate referred to in subclause 95(2)(a)(i)(A)(I) or (IV) of the Act, be included in computing the exempt earnings or exempt loss of the other foreign affiliate for a taxation year,
+			- **(II)** if earned by the life insurance corporation referred to in subclause 95(2)(a)(i)(A)(II) of the Act and based on the assumptions contained in subclause 95(2)(a)(i)(B)(II) of the Act, be included in computing the exempt earnings or exempt loss of the life insurance corporation for a taxation year, or
+			- **(III)** if earned from the active business activities carried on by the particular affiliate, or the partnership referred to in subclause 95(2)(a)(i)(A)(III) of the Act, be included in computing the exempt earnings or exempt loss of the particular affiliate for a taxation year,
 		- **(B)** income that is required to be included in computing the particular affiliate’s income or loss from an active business for the year under clause 95(2)(a)(ii)(A) of the Act where the income is derived from amounts that are paid or payable by the life insurance corporation referred to in that clause and are for expenditures that would, if that life insurance corporation were a foreign affiliate of the particular corporation, be deductible in computing its exempt earnings or exempt loss for a taxation year,
 		- **(C)** income that is required to be included in computing the particular affiliate’s income or loss from an active business for the year under clause 95(2)(a)(ii)(B) of the Act to the extent that the amounts paid or payable referred to in that clause are for expenditures that are deductible in computing the exempt earnings or exempt loss, for a taxation year, of the other foreign affiliate referred to in that clause,
 		- **(D)** income that is required to be included in computing the particular affiliate’s income or loss from an active business for the year under clause 95(2)(a)(ii)(C) of the Act to the extent that the amounts paid or payable referred to in that clause are for expenditures that are deductible in computing its exempt earnings or exempt loss for a taxation year,
 		- **(E)** income that is required to be included in computing the particular affiliate’s income or loss from an active business for the year under clause 95(2)(a)(ii)(D) of the Act if
-			- **(I)** the country referred to in subclause 95(2)(a)(ii)(D)(IV) of the Act is a designated treaty country, and
+			- **(I)** the second and third affiliates referred to in subclause 95(2)(a)(ii)(D)(IV) of the Act are each resident in a designated treaty country throughout their relevant taxation years (within the meaning assigned by that subclause), and
 			- **(II)** that income would be required to be so included if
 				- **1.** paragraph (a) of the definition ***excluded property*** in subsection 95(1) of the Act were read as follows:
 
@@ -11458,8 +11726,9 @@ where
 
 		- **(F)** income that is required to be included in computing the particular affiliate’s income or loss from an active business for the year under subparagraph 95(2)(a)(iii) of the Act to the extent that the trade accounts receivable referred to in that subparagraph arose in the course of an active business carried on by the other foreign affiliate referred to in that subparagraph the income or loss from which is included in computing its exempt earnings or exempt loss for a taxation year,
 		- **(G)** income that is required to be included in computing the particular affiliate’s income or loss from an active business for the year under subparagraph 95(2)(a)(iv) of the Act to the extent that the loans or lending assets referred to in that subparagraph arose in the course of an active business carried on by the other foreign affiliate referred to in that subparagraph the income or loss from which is included in computing its exempt earnings or exempt loss for a taxation year,
-		- **(H)** income that is required to be included in computing the particular affiliate’s income or loss from an active business for the year under subparagraph 95(2)(a)(v) of the Act, where all or substantially all of its income, from the property described in that subparagraph, is, or would be if there were income from the property, income from an active business (which, for this purpose, includes income that would be deemed to be income from an active business by paragraph 95(2)(a) of the Act if that paragraph were read without reference to its subparagraph (v) and, for greater certainty, excludes income arising as a result of the disposition of the property) that is included in computing its exempt earnings or exempt loss for a taxation year, or
+		- **(H)** income that is required to be included in computing the particular affiliate’s income or loss from an active business for the year under subparagraph 95(2)(a)(v) of the Act, where all or substantially all of its income, from the property described in that subparagraph, is, or would be if there were income from the property, income from an active business (which, for this purpose, includes income that would be deemed to be income from an active business by paragraph 95(2)(a) of the Act if that paragraph were read without reference to its subparagraph (v) and, for greater certainty, excludes income arising as a result of the disposition of the property) that is included in computing its exempt earnings or exempt loss for a taxation year,
 		- **(I)** income that is required to be included in computing the particular affiliate’s income or loss from an active business for the year under subparagraph 95(2)(a)(vi) of the Act, where the agreement for the purchase, sale or exchange of currency referred to in that subparagraph can reasonably be considered to have been made by the particular affiliate to reduce its risk with respect to an amount of income or loss that is included in computing its exempt earnings or exempt loss for a taxation year, or
+		- **(J)** an amount that is required to be included in computing the particular affiliate’s income from an active business for the year under subsection 95(2.44) of the Act if the amount is in respect of income that would, in the absence of paragraph 95(2)(a.3) of the Act, be income from an active business carried on by the particular affiliate in a designated treaty country, or
 - **(e)** where the year is the 1976 or any subsequent taxation year of the particular affiliate, each amount that is included in the particular affiliate’s exempt earnings for the year because of subsection (10),
 
 minus the portion of any income or profits tax paid to the government of a country for the year by the particular affiliate that can reasonably be regarded as tax in respect of the earnings referred to in paragraph (c) or in subparagraph (d)(ii); (*gains exonérés*)
@@ -11500,7 +11769,7 @@ where
 - **(iii)** the portion of any dividend received in the period and before the particular time by the subject affiliate from another foreign affiliate of the corporation (including, for greater certainty, any dividend deemed by subsection 5905(7) to have been received by the subject affiliate) that was prescribed by paragraph 5900(1)(a) to have been paid out of the payer affiliate’s exempt surplus in respect of the corporation,
 - **(iv)** the portion of any income or profits tax refunded by or the amount of a tax credit paid by the government of a country to the subject affiliate that can reasonably be regarded as having been refunded or paid in respect of any amount referred to in subparagraph (iii) and that was not deducted in determining any amount referred to in subparagraph (iii) of the description of B,
 - **(v)** the portion of any taxable dividend received in the period and before the particular time by the subject affiliate that would, if the dividend were received by the corporation, be deductible by it under section 112 of the Act,
-- **(vi)** an amount added to the exempt surplus of the subject affiliate or deducted from its exempt deficit in the period and before the particular time under any provision of subsection (1.1) or (1.2),
+- **(vi)** an amount added to the exempt surplus of the subject affiliate or deducted from its exempt deficit in the period and before the particular time under subsection (1.092), (1.1) or (1.2),
 - **(vi.1)** each amount that is required, under section 5905, to be included under this subparagraph in the period and before the particular time, or
 - **(vii)** an amount added, in the period and before the particular time, to the exempt surplus of the subject affiliate under paragraph (7.1)(d) (as that paragraph applied to dividends paid on or before August 19, 2011), and
 - **B** is the total of those of the following amounts that apply in respect of the period:
@@ -11509,7 +11778,7 @@ where
 - **(iii)** the portion of any income or profits tax paid to the government of a country by the subject affiliate that can reasonably be regarded as having been paid in respect of any amount referred to in subparagraph (iii), (iv) or (v) of the description of A,
 - **(iv)** the portion of any whole dividend paid by the subject affiliate in the period and before the particular time deemed by paragraph 5901(1)(a) to have been paid out of the subject affiliate’s exempt surplus in respect of the corporation,
 - **(v)** each amount that is required under section 5902 or 5905 to be included under this subparagraph, or subparagraph (1)(d)(xii) as it applies to taxation years that end before February 22, 1994, in the period and before the particular time, or
-- **(vi)** an amount, in the period and before the particular time, deducted from the exempt surplus of the subject affiliate or added to its exempt deficit under any provision of subsection (1.1) or (1.2); (*surplus exonéré*)
+- **(vi)** an amount, in the period and before the particular time, deducted from the exempt surplus of the subject affiliate or added to its exempt deficit under subsection (1.092), (1.1) or (1.2); (*surplus exonéré*)
 
 ***hybrid deficit***, of a foreign affiliate of a corporation in respect of the corporation at any time, means the amount, if any, by which
 - **(a)** the total of all amounts each of which is an amount determined at that time under any of subparagraphs (i) to (vii) of the description of B in the definition ***hybrid surplus***
@@ -11535,7 +11804,7 @@ where
 - **(II)** an amount payable, or an amount of indebtedness, described in clause (c.1)(ii)(B) of that definition ***excluded property*** arising in respect of the acquisition of an excluded property of the affiliate that is referred to in clause (A) or (B) any capital gain or capital loss from the disposition of which would, if that excluded property were disposed of, be included under this subparagraph or subparagraph (ii) of the description of B, as the case may be,
 - **(iii)** the portion of any income or profits tax refunded by the government of a country to the subject affiliate that can reasonably be regarded as having been refunded in respect of an amount referred to in subparagraph (ii) or (iii) of the description of B,
 - **(iv)** the portion of any dividend received in the period and before the particular time by the subject affiliate from another foreign affiliate of the corporation (including, for greater certainty, any dividend deemed under subsection 5905(7) to have been received by the subject affiliate) that was prescribed under paragraph 5900(1)(a.1) to have been paid out of the payer affiliate’s hybrid surplus in respect of the corporation, or
-- **(v)** an amount added to the hybrid surplus of the subject affiliate or deducted from its hybrid deficit in the period and before the particular time under subsection (1.1) or (1.2), and
+- **(v)** an amount added to the hybrid surplus of the subject affiliate or deducted from its hybrid deficit in the period and before the particular time under subsection (1.092), (1.1) or (1.2), and
 - **B** is the total of those of the following amounts that apply in respect of the period:
 - **(i)** the opening hybrid deficit, if any, of the subject affiliate in respect of the corporation as determined under section 5905, at the time established in paragraph (c),
 - **(ii)** the amount of a capital loss (except to the extent that the allowable portion of the capital loss is included under paragraph (a) of the description of E in the definition ***foreign accrual property income*** in subsection 95(1) of the Act in respect of the subject affiliate), for a taxation year, of the subject affiliate, or of a partnership of which the subject affiliate is a member (to the extent that the capital loss is reasonably attributable to the subject affiliate), in respect of a disposition, at any time in the period, of
@@ -11548,7 +11817,7 @@ where
 - **(iv)** the portion of any income or profits tax paid to the government of a country by the subject affiliate that can reasonably be regarded as having been paid in respect of an amount referred to in subparagraph (ii) or (iv) of the description of A,
 - **(v)** the portion of any whole dividend paid by the subject affiliate in the period and before the particular time deemed under paragraph 5901(1)(a.1) or, if subsection 5901(1.1) applied to the whole dividend, paragraph 5901(1)(b) to have been paid out of the subject affiliate’s hybrid surplus in respect of the corporation,
 - **(vi)** each amount that is required under section 5902 to be included under this subparagraph in the period and before the particular time, or
-- **(vii)** an amount, in the period and before the particular time, deducted from the hybrid surplus of the subject affiliate or added to its hybrid deficit under subsection (1.1) or (1.2); (*surplus hybride*)
+- **(vii)** an amount deducted from the hybrid surplus of the subject affiliate or added to its hybrid deficit in the period and before the particular time under subsection (1.092), (1.1) or (1.2); (*surplus hybride*)
 
 ***hybrid underlying tax***, of a foreign affiliate (in this definition referred to as the “subject affiliate”) of a corporation in respect of the corporation, at any particular time, means the amount determined by the following formula in respect of the period that begins with the later of the following times and that ends with the particular time:
 - **(a)** the first day of the taxation year of the subject affiliate in which it last became a foreign affiliate of the corporation, and
@@ -11561,12 +11830,12 @@ where
 - **(i)** the opening hybrid underlying tax, if any, of the subject affiliate in respect of the corporation as determined under section 5905, at the time established in paragraph (b),
 - **(ii)** the portion of any income or profits tax paid to the government of a country by the subject affiliate that can reasonably be regarded as having been paid in respect of any amount referred to in subparagraph (ii) or (iv) of the description of A in the definition ***hybrid surplus***,
 - **(iii)** each amount that was prescribed by paragraph 5900(1)(c.1) to have been the foreign tax applicable to the portion of any dividend received in the period and before the particular time by the subject affiliate from another foreign affiliate of the corporation (including, for greater certainty, any dividend deemed under subsection 5905(7) to have been received by the subject affiliate) that was prescribed by paragraph 5900(1)(a.1) to have been paid out of the payer affiliate’s hybrid surplus in respect of the corporation, or
-- **(iv)** the amount by which the subject affiliate’s hybrid underlying tax is required to be increased under subsection (1.1) or (1.2),
+- **(iv)** the amount by which the subject affiliate’s hybrid underlying tax is required to be increased in the period and before the particular time under subsection (1.092), (1.1) or (1.2),
 - **B** is the total of those of the following amounts that apply in respect of the period:
 - **(i)** the portion of any income or profits tax refunded by the government of a country to the subject affiliate that can reasonably be regarded as having been refunded in respect of an amount referred to in subparagraph (ii) or (iii) of the description of B in the definition ***hybrid surplus***,
 - **(ii)** the hybrid underlying tax applicable to any whole dividend paid by the subject affiliate in the period and before the particular time deemed under paragraph 5901(1)(a.1) or, if subsection 5901(1.1) applied to the whole dividend, paragraph 5901(1)(b) to have been paid out of the subject affiliate’s hybrid surplus in respect of the corporation before that time,
 - **(iii)** each amount that is required under section 5902 to be included under this subparagraph in the period and before the particular time, or
-- **(iv)** the amount by which the subject affiliate’s hybrid underlying tax is required to be decreased in the period and before the particular time under subsection (1.1) or (1.2); (*montant intrinsèque d’impôt hybride*)
+- **(iv)** the amount by which the subject affiliate’s hybrid underlying tax is required to be decreased in the period and before the particular time under subsection (1.092), (1.1) or (1.2); (*montant intrinsèque d’impôt hybride*)
 
 ***hybrid underlying tax applicable***, in respect of a corporation to a whole dividend paid at any time on the shares of any class of the capital stock of a foreign affiliate of the corporation by the affiliate, means the proportion of the hybrid underlying tax of the affiliate at that time in respect of the corporation that
 - **(a)** the portion of the whole dividend deemed to have been paid out of the affiliate’s hybrid surplus in respect of the corporation
@@ -11682,7 +11951,7 @@ where
 - **(i)** the opening taxable surplus, if any, of the subject affiliate in respect of the corporation as determined under section 5905, at the time established in paragraph (b),
 - **(ii)** the taxable earnings of the subject affiliate for any of its taxation years ending in the period,
 - **(iii)** the portion of any dividend received in the period and before the particular time by the subject affiliate from another foreign affiliate of the corporation (including, for greater certainty, any dividend deemed by subsection 5905(7) to have been received by the subject affiliate) that was prescribed by paragraph 5900(1)(b) to have been paid out of the payer affiliate’s taxable surplus in respect of the corporation,
-- **(iv)** an amount added to the taxable surplus of the subject affiliate or deducted from its taxable deficit in the period and before the particular time under any provision of subsection (1.1) or (1.2),
+- **(iv)** an amount added to the taxable surplus of the subject affiliate or deducted from its taxable deficit in the period and before the particular time under subsection (1.092), (1.1) or (1.2),
 - **(iv.1)** each amount that is required under section 5905 to be included under this subparagraph in the period and before the particular time, or
 - **(v)** an amount added, in the period and before the particular time, to the subject affiliate’s taxable surplus under paragraph (7.1)(e) (as that paragraph applied to dividends paid on or before August 19, 2011), and
 - **B** is the total of those of the following amounts that apply in respect of the period:
@@ -11691,7 +11960,7 @@ where
 - **(iii)** the portion of any income or profits tax paid to the government of a country by the subject affiliate that can reasonably be regarded as having been paid in respect of that portion of a dividend referred to in subparagraph (iii) of the description of A,
 - **(iv)** the portion of any whole dividend paid by the subject affiliate in the period and before the particular time deemed under paragraph 5901(1)(b) or, if subsection 5901(1.1) applied to the whole dividend, paragraph 5901(1)(a.1) to have been paid out of the subject affiliate’s taxable surplus in respect of the corporation,
 - **(v)** each amount that is required under section 5902 or 5905 to be included under this subparagraph, or subparagraph (1)(k)(xi) as it applies to taxation years that end before February 22, 1994, in the period and before the particular time, or
-- **(vi)** an amount, in the period and before the particular time, deducted from the taxable surplus of the subject affiliate or added to its taxable deficit under any provision of subsection (1.1) or (1.2); (*surplus imposable*)
+- **(vi)** an amount, in the period and before the particular time, deducted from the taxable surplus of the subject affiliate or added to its taxable deficit under subsection (1.092), (1.1) or (1.2); (*surplus imposable*)
 
 ***underlying foreign tax***, of a foreign affiliate (in this definition referred to as the “subject affiliate”) of a corporation in respect of the corporation, at any particular time, means the amount determined by the following formula in respect of the period that begins with the later of the following times and that ends with the particular time:
 - **(a)** the first day of the taxation year of the subject affiliate in which it last became a foreign affiliate of the corporation, and
@@ -11706,12 +11975,12 @@ where
 - **(ii)** the portion of any income or profits tax paid to the government of a country by the subject affiliate that can reasonably be regarded as having been paid in respect of the taxable earnings, including for greater certainty any amounts included because of paragraph (2.02)(a) in computing the taxable earnings, of the affiliate for a taxation year ending in the period,
 - **(iii)** the portion of any income or profits tax referred to in subparagraph (iii) of the description of B in the definition ***taxable surplus*** in this subsection paid by the subject affiliate in respect of a dividend received from any other foreign affiliate of the corporation,
 - **(iv)** each amount that was prescribed by paragraph 5900(1)(d) to have been the foreign tax applicable to the portion of any dividend received in the period and before the particular time by the subject affiliate from another foreign affiliate of the corporation (including, for greater certainty, any dividend deemed by subsection 5905(7) to have been received by the subject affiliate) that was prescribed by paragraph 5900(1)(b) to have been paid out of the payer affiliate’s taxable surplus in respect of the corporation, or
-- **(v)** the amount by which the subject affiliate’s underlying foreign tax is required to be increased by any provision of subsection (1.1) or (1.2),
+- **(v)** the amount by which the subject affiliate’s underlying foreign tax is required to be increased in the period and before the particular time under subsection (1.092), (1.1) or (1.2),
 - **B** is the total of those of the following amounts that apply in respect of the period:
 - **(i)** the portion of any income or profits tax refunded by the government of a country to the subject affiliate that can reasonably be regarded as having been refunded in respect of the taxable loss of the subject affiliate for a taxation year ending in the period,
 - **(ii)** the underlying foreign tax applicable to any whole dividend paid by the subject affiliate in the period and before the particular time deemed under paragraph 5901(1)(b) or, if subsection 5901(1.1) applied to the whole dividend, paragraph 5901(1)(a.1) to have been paid out of the subject affiliate’s taxable surplus in respect of the corporation before that time,
 - **(iii)** each amount that is required under section 5902 or 5905 to be included under this subparagraph, or subparagraph (1)(l)(x) as it applies to taxation years that end before February 22, 1994, in the period and before the particular time, or
-- **(iv)** the amount by which the subject affiliate’s underlying foreign tax is required to be decreased in the period and before the particular time by any provision of subsection (1.1) or (1.2); (*montant intrinsèque d’impôt étranger*)
+- **(iv)** the amount by which the subject affiliate’s underlying foreign tax is required to be decreased in the period and before the particular time under subsection (1.092), (1.1) or (1.2); (*montant intrinsèque d’impôt étranger*)
 
 ***underlying foreign tax applicable*** in respect of a corporation to a whole dividend paid at any time on the shares of any class of the capital stock of a foreign affiliate of the corporation by the affiliate is the total of
 - **(a)** the proportion of the underlying foreign tax of the affiliate at that time in respect of the corporation that
@@ -11731,7 +12000,7 @@ is of
 
 - **(1.02)** For the purposes of paragraph (d) of the definition ***exempt earnings*** and paragraph (c) of the definition ***exempt loss*** in subsection (1), if a foreign affiliate of a corporation becomes a foreign affiliate of the corporation in a taxation year of the affiliate, otherwise than as a result of a transaction between persons that do not deal with each other at arm’s length, and the affiliate is resident in a designated treaty country at the end of the year, the affiliate is deemed to be so resident throughout the year.
 
-- **(1.03)** For the purposes of the description of A in the definition ***underlying foreign tax*** in subsection (1), income or profits tax paid in respect of the taxable earnings of a particular foreign affiliate of a particular corporation or in respect of a dividend received by the particular affiliate from another foreign affiliate of the particular corporation, and amounts by which the underlying foreign tax of the particular affiliate or any other foreign affiliate of the particular corporation is required under subsection (1.1) or (1.2) to be increased, is not to include any income or profits tax paid, or amounts by which the underlying foreign tax would otherwise be so required to be increased, as the case may be, in respect of the foreign accrual property income of the particular affiliate for a taxation year of the particular affiliate if, at any time in the year, a specified owner in respect of the particular corporation is considered,
+- **(1.03)** For the purposes of the description of A in the definition ***underlying foreign tax*** in subsection (1), income or profits tax paid in respect of the taxable earnings of a particular foreign affiliate of a particular corporation or in respect of a dividend received by the particular affiliate from another foreign affiliate of the particular corporation, and amounts by which the underlying foreign tax of the particular affiliate or any other foreign affiliate of the particular corporation is required under any of subsections (1.092), (1.1) and (1.2) to be increased, is not to include any income or profits tax paid, or amounts by which the underlying foreign tax would otherwise be so required to be increased, as the case may be, in respect of the foreign accrual property income of the particular affiliate for a taxation year of the particular affiliate if, at any time in the year, a specified owner in respect of the particular corporation is considered,
 	- **(a)** under the income tax laws (referred to in subsection (1.07) as the “relevant foreign tax law”) of any country other than Canada under the laws of which any income of another corporation — that is, at any time in the year, a pertinent person or partnership in respect of the particular affiliate — is subject to income taxation, to own less than all of the shares of the capital stock of the other corporation that are considered to be owned by the specified owner for the purposes of the Act; or
 	- **(b)** under the income tax laws (referred to in subsection (1.08) as the “relevant foreign tax law”) of any country other than Canada under the laws of which any income of a particular partnership — that is, at any time in the year, a pertinent person or partnership in respect of the particular affiliate — is subject to income taxation, to have a lesser direct or indirect share of the income of the particular partnership than the specified owner is considered to have for the purposes of the Act.
 
@@ -11771,7 +12040,50 @@ is of
 
 - **(1.09)** For the purposes of subsection (1.03), if a specified owner owns, for the purposes of the Act, shares of the capital stock of a corporation and the dividends, or similar amounts, in respect of those shares are treated under the income tax laws of any country other than Canada under the laws of which any income of the corporation is subject to income taxation as interest or another form of deductible payment, the specified owner is deemed to be considered, under those tax laws, to own less than all of the shares of the capital stock of the corporation that are considered to be owned by the specified owner for the purposes of the Act.
 
-- **(1.1)** For the purposes of this Part, where, pursuant to the income tax law of a country other than Canada, a group of two or more foreign affiliates (in this subsection referred to as the “consolidated group”) of a corporation resident in Canada that are resident in that country determine their liabilities for income or profits tax payable to the government of that country for a taxation year on a consolidated or combined basis and one of the affiliates (in this subsection referred to as the “primary affiliate”) is responsible for paying, or claiming a refund of, such tax on behalf of itself and the other members of the consolidated group (hereinafter referred to as the “secondary affiliates”), the following rules apply:
+- **(1.091)** Subsection (1.092) applies in respect of income or profits tax paid by, or refunded to, a foreign affiliate (in this subsection and subsection (1.092) referred to as the “shareholder affiliate”) of a taxpayer for a taxation year of the shareholder affiliate in respect of its income or profits, or loss, as the case may be, and the income or profits, or loss, as the case may be, of another foreign affiliate (in this subsection and subsection (1.092) referred to as the “transparent affiliate”) of the taxpayer if
+	- **(a)** the shareholder affiliate has an equity percentage in the transparent affiliate;
+	- **(b)** the income or profits tax is paid to, or refunded by, a government of a country other than Canada; and
+	- **(c)** under the income tax laws of the country referred to in paragraph (b), the shareholder affiliate, and not the transparent affiliate, is liable for that tax payable to, or entitled to that refund from, a government of that country for that year (otherwise than solely because the shareholder affiliate is part of a group of corporations that determines its liabilities for income or profits tax payable to the government of that country on a consolidated or combined basis).
+
+- **(1.092)** If this subsection applies in respect of income or profits tax paid by, or refunded to, a shareholder affiliate for a taxation year
+	- **(a)** in respect of the shareholder affiliate,
+		- **(i)** any such income or profits tax paid by the shareholder affiliate for the year is deemed not to have been paid and any such refund to the shareholder affiliate of income or profits tax otherwise payable by it for the year is deemed not to have been made,
+		- **(ii)** any such income or profits tax that would have been payable by the shareholder affiliate for the year if the shareholder affiliate had no other taxation year and had not been liable for income or profits tax in respect of income or profits of the transparent affiliate is deemed to have been paid for the year,
+		- **(iii)** to the extent that
+			- **(A)** any such income or profits tax that would otherwise have been payable by the shareholder affiliate for the year on behalf of the shareholder affiliate and the transparent affiliate is reduced because of any loss of the shareholder affiliate for the year or any previous taxation year, the amount of such reduction is deemed to have been received by the shareholder affiliate as a refund for the year of the loss of income or profits tax in respect of the loss, and
+			- **(B)** the shareholder affiliate receives, in respect of a loss of the shareholder affiliate for the year or a subsequent taxation year, a refund of income or profits tax otherwise payable for the year by the shareholder affiliate on behalf of the shareholder affiliate and the transparent affiliate, the amount of such refund is deemed to have been received by the shareholder affiliate as a refund for the year of the loss of income or profits tax in respect of the loss,
+		- **(iv)** any such income or profits tax that would have been payable by the transparent affiliate for the year if the transparent affiliate had no other taxation year, had no income or profits other than those that are included in computing the income or profits of the shareholder affiliate under the income tax laws referred to in paragraph (1.091)(c) and had been liable, and no other person had been liable, for income or profits tax in respect of income or profits of the transparent affiliate is, at the end of the year,
+			- **(A)** to the extent that such income or profits tax would otherwise have reduced the net earnings included in the exempt earnings of the transparent affiliate, to be deducted from the exempt surplus or added to the exempt deficit, as the case may be, of the shareholder affiliate,
+			- **(B)** to the extent that such income or profits tax would otherwise have reduced the hybrid surplus or increased the hybrid deficit of the transparent affiliate,
+				- **(I)** to be deducted from the hybrid surplus or added to the hybrid deficit, as the case may be, of the shareholder affiliate, and
+				- **(II)** to be added to the hybrid underlying tax of the shareholder affiliate, and
+			- **(C)** to the extent that such income or profits tax would otherwise have reduced the net earnings included in the taxable earnings of the transparent affiliate,
+				- **(I)** to be deducted from the taxable surplus or added to the taxable deficit, as the case may be, of the shareholder affiliate, and
+				- **(II)** to be added to the underlying foreign tax of the shareholder affiliate, and
+		- **(v)** to the extent that the income or profits tax that would otherwise have been payable by the shareholder affiliate for the year on behalf of the shareholder affiliate and the transparent affiliate is reduced because of a loss of the transparent affiliate for the year or a previous taxation year, or to the extent that the shareholder affiliate receives, in respect of a loss of the transparent affiliate for the year or a subsequent taxation year, a refund of income or profits tax otherwise payable for the year by the shareholder affiliate on behalf of the shareholder affiliate and the transparent affiliate, the amount of such reduction or refund, as the case may be, is, at the end of the year of the loss,
+			- **(A)** to the extent that such loss reduces the exempt surplus or increases the exempt deficit of the transparent affiliate, to be added to the exempt surplus or deducted from the exempt deficit, as the case may be, of the shareholder affiliate,
+			- **(B)** to the extent that such loss reduces the hybrid surplus or increases the hybrid deficit of the transparent affiliate,
+				- **(I)** to be added to the hybrid surplus or deducted from the hybrid deficit, as the case may be, of the shareholder affiliate, and
+				- **(II)** to be deducted from the hybrid underlying tax of the shareholder affiliate, and
+			- **(C)** to the extent that such loss reduces the taxable surplus or increases the taxable deficit of the transparent affiliate,
+				- **(I)** to be added to the taxable surplus or deducted from the taxable deficit, as the case may be, of the shareholder affiliate, and
+				- **(II)** to be deducted from the underlying foreign tax of the shareholder affiliate;
+	- **(b)** where, because of the shareholder affiliate being responsible for paying, or claiming a refund of, income or profits tax for the year on behalf of the shareholder affiliate and the transparent affiliate,
+		- **(i)** an amount is paid to the shareholder affiliate by the transparent affiliate in respect of the income or profits tax that would have been payable by the transparent affiliate for the year had it been liable, and no other person had been liable, for income or profits tax in respect of income or profits of the transparent affiliate,
+			- **(A)** in respect of the transparent affiliate, the amount so paid is deemed to be a payment of such income or profits tax for the year, and
+			- **(B)** in respect of the shareholder affiliate,
+				- **(I)** such portion of the amount so paid as may reasonably be regarded as relating to an amount included in the exempt surplus or deducted from the exempt deficit of the transparent affiliate is, at the end of the year, to be added to the exempt surplus or deducted from the exempt deficit, as the case may be, of the shareholder affiliate,
+				- **(II)** such portion of the amount so paid as may reasonably be regarded as relating to an amount included in the hybrid surplus or deducted from the hybrid deficit of the transparent affiliate is, at the end of the year, to be added to the hybrid surplus or deducted from the hybrid deficit, as the case may be, of the shareholder affiliate and deducted from the hybrid underlying tax of the shareholder affiliate, and
+				- **(III)** such portion of the amount so paid as may reasonably be regarded as relating to an amount included in the taxable surplus or deducted from the taxable deficit of the transparent affiliate is, at the end of the year, to be added to the taxable surplus or deducted from the taxable deficit, as the case may be, of the shareholder affiliate and be deducted from the underlying foreign tax of the shareholder affiliate, or
+		- **(ii)** an amount is paid by the shareholder affiliate to the transparent affiliate in respect of a reduction or refund, because of a loss or a tax credit of the transparent affiliate for a taxation year, of the income or profits tax that would otherwise have been payable by the shareholder affiliate for the year on behalf of the shareholder affiliate and the transparent affiliate,
+			- **(A)** in respect of the shareholder affiliate,
+				- **(I)** the portion of the amount so paid that can reasonably be regarded as relating to an amount deducted from the exempt surplus or included in the exempt deficit of the transparent affiliate is, at the end of the year to which the loss or the tax credit relates, to be deducted from the exempt surplus or added to the exempt deficit, as the case may be, of the shareholder affiliate,
+				- **(II)** the portion of the amount so paid that can reasonably be regarded as relating to an amount deducted from the hybrid surplus or included in the hybrid deficit of the transparent affiliate is, at the end of the year of the loss, to be deducted from the hybrid surplus or added to the hybrid deficit, as the case may be, of the shareholder affiliate and added to the hybrid underlying tax of the shareholder affiliate, and
+				- **(III)** the portion of the amount so paid that can reasonably be regarded as relating to an amount deducted from the taxable surplus or included in the taxable deficit of the transparent affiliate is, at the end of the year to which the loss or the tax credit relates, to be deducted from the taxable surplus or added to the taxable deficit, as the case may be, of the shareholder affiliate and be added to the underlying foreign tax of the shareholder affiliate, and
+			- **(B)** in respect of the transparent affiliate, the amount is deemed to be a refund to the transparent affiliate, for the year to which the loss or the tax credit relates, of income or profits tax in respect of the loss or the tax credit; and
+	- **(c)** for the purposes of paragraph (b), any amount paid by a particular transparent affiliate in respect of the shareholder affiliate to another transparent affiliate in respect of the shareholder affiliate in respect of any income or profits tax that would have been payable by the particular transparent affiliate for the year had it been liable, and no other person had been liable, for income or profits tax in respect of income or profits of the transparent affiliate is deemed to have been paid in respect of such tax by the particular transparent affiliate to the shareholder affiliate and to have been paid in respect of such tax by the shareholder affiliate to the other transparent affiliate.
+
+- **(1.1)** For the purposes of this Part, if, under, the income tax laws of a country other than Canada, a group (in this subsection referred to as the “consolidated group”) of two or more foreign affiliates of a corporation resident in Canada determine their liabilities for income or profits tax payable to the government of that country for a taxation year on a consolidated or combined basis and one of the affiliates (in this subsection referred to as the “primary affiliate”) is responsible for paying, or claiming a refund of, such tax on behalf of itself and the other affiliates (in this subsection referred to as the “secondary affiliates”) that are members of the consolidated group, the following rules apply:
 	- **(a)** in respect of the primary affiliate,
 		- **(i)** any such income or profits tax paid by the primary affiliate for the year shall be deemed not to have been paid and any refund to the primary affiliate of income or profits tax otherwise payable by it for the year shall be deemed not to have been made,
 		- **(ii)** any such income or profits tax that would have been payable by the primary affiliate for the year if the primary affiliate had no other taxation year and had not been a member of the consolidated group shall be deemed to have been paid for the year,
@@ -11811,6 +12123,30 @@ is of
 			- **(B)** in respect of the secondary affiliate, the amount is deemed to be a refund to the secondary affiliate, for the year to which the loss or the tax credit relates, of income or profits tax in respect of the loss or the tax credit,
 and, for the purposes of this paragraph, any amount paid by a particular secondary affiliate to another secondary affiliate in respect of any income or profits tax that would have been payable by the particular secondary affiliate for the year had it not been a member of the consolidated group shall be deemed to have been paid in respect of such tax by the particular secondary affiliate to the primary affiliate and to have been paid in respect of such tax by the primary affiliate to the other secondary affiliate.
 
+- **(1.11)** For the purposes of subsection (1.1), a non-resident corporation is deemed to be, at any time, a foreign affiliate of a particular corporation resident in Canada if at that time the non-resident corporation is a foreign affiliate of another corporation that is resident in Canada and is related (otherwise than because of a right referred to in paragraph 251(5)(b) of the Act) to the particular corporation.
+
+- **(1.12)** Subsection (1.13) applies in respect of a particular foreign affiliate of a corporation resident in Canada that is a secondary affiliate (within the meaning assigned by subsection (1.1)) and in respect of a foreign affiliate of the corporation that is the primary affiliate (within the meaning assigned by subsection (1.1)) in respect of the particular affiliate if
+	- **(a)** the particular affiliate has an equity percentage in another foreign affiliate (in this subsection and subsection (1.13) referred to as the “transparent affiliate”);
+	- **(b)** under the income tax laws of the country referred to in subsection (1.1), if the particular affiliate were not a member of a consolidated group, the particular affiliate, and not the transparent affiliate, would be liable for any tax payable to, or entitled to any refund from, a government of that country for that year in respect of the income or profits, or loss, as the case may be, for the year of the transparent affiliate; and
+	- **(c)** the primary affiliate pays income or profits tax, or receives a refund, in respect of the income or profits, or loss, as the case may be, for the year of the transparent affiliate.
+
+- **(1.13)** If this subsection applies, then in respect of the particular foreign affiliate and the primary affiliate referred to in subsection (1.12)
+	- **(a)** for the purposes of applying subparagraphs (1.1)(a)(iv) and (1.1)(b)(i), where any income or profits tax that would otherwise be payable by the particular affiliate for the year, if the particular affiliate had no other taxation year and were not a member of the consolidated group referred to in subsection (1.1), is increased because of income or profits of the transparent affiliate referred to in paragraph (1.12)(a),
+		- **(i)** to the extent that the income or profits increases the net earnings included in the exempt earnings of the transparent affiliate,
+			- **(A)** the amount of any such increase is deemed to have been included in the exempt surplus, or deducted from the exempt deficit, as the case may be, of the particular affiliate, and
+			- **(B)** any such income or profits tax that would have been payable by the particular affiliate in respect of the income or profits is deemed to be income or profits tax that would otherwise have reduced the net earnings that are included in the exempt earnings of the particular affiliate,
+		- **(ii)** to the extent that the income or profits increases the hybrid surplus or reduces the hybrid deficit of the transparent affiliate,
+			- **(A)** the amount of the increase or reduction is deemed to have been included in the hybrid surplus, or deducted from the hybrid deficit, as the case may be, of the particular affiliate, and
+			- **(B)** any such income or profits tax that would have been payable by the particular affiliate in respect of the income or profits is deemed to be income or profits tax that would otherwise have reduced the hybrid surplus or increased the hybrid deficit, as the case may be, of the particular affiliate, and
+		- **(iii)** to the extent that the income or profits increases the net earnings included in the taxable earnings of the transparent affiliate,
+			- **(A)** the amount of any such increase is deemed to have been included in the taxable surplus, or deducted from the taxable deficit, as the case may be, of the particular affiliate, and
+			- **(B)** any such income or profits tax that would have been payable by the particular affiliate in respect of the income or profits is deemed to be income or profits tax that would otherwise have reduced the net earnings that are included in the taxable earnings of the particular affiliate; and
+	- **(b)** for the purpose of applying subparagraphs (1.1)(a)(v) and (1.1)(b)(ii), to the extent that the income or profits tax that would otherwise have been payable by the primary affiliate for the year on behalf of the consolidated group is reduced because of a loss, for the year or a previous taxation year, of the transparent affiliate referred to in paragraph (1.12)(a), or to the extent that the primary affiliate receives, in respect of a loss of the transparent affiliate for the year or a subsequent taxation year, a refund of income or profits tax otherwise payable for the year by the primary affiliate on behalf of the consolidated group,
+		- **(i)** such loss is deemed to be a loss of the particular affiliate,
+		- **(ii)** to the extent that such loss reduces the exempt surplus or increases the exempt deficit of the transparent affiliate, such loss is deemed to reduce the exempt surplus or increase the exempt deficit, as the case may be, of the particular affiliate,
+		- **(iii)** to the extent that such loss reduces the hybrid surplus or increases the hybrid deficit of the transparent affiliate, such loss is deemed to reduce the hybrid surplus or increase the hybrid deficit, as the case may be, of the particular affiliate, and
+		- **(iv)** to the extent that such loss reduces the taxable surplus or increases the taxable deficit of the transparent affiliate, such loss is deemed to reduce the taxable surplus or increase the taxable deficit, as the case may be, of the particular affiliate.
+
 - **(1.2)** For the purposes of this Part, where, pursuant to the income tax law of a country other than Canada, a corporation resident in that country that is a foreign affiliate of a corporation resident in Canada (in this subsection referred to as the “taxpaying affiliate”) deducts, in computing its income or profits tax payable for a taxation year to a government of that country, a loss of another corporation resident in that country that is a foreign affiliate of the corporation resident in Canada (in this subsection referred to as the “loss affiliate”), the following rules apply:
 	- **(a)** any such income or profits tax paid by the taxpaying affiliate for the year shall be deemed not to have been paid;
 	- **(b)** any such income or profits tax that would have been payable by the taxpaying affiliate for the year if the taxpaying affiliate had not been allowed to deduct such loss shall be deemed to have been paid for the year;
@@ -11829,17 +12165,28 @@ and, for the purposes of this paragraph, any amount paid by a particular seconda
 			- **(B)** such portion of the amount as may reasonably be regarded as relating to an amount deducted from the taxable surplus or included in the taxable deficit, as the case may be, of the loss affiliate shall at the end of the year be deducted from the taxable surplus or added to the taxable deficit, as the case may be, of the taxpaying affiliate and be added to the underlying foreign tax of the taxpaying affiliate, and
 		- **(ii)** in respect of the loss affiliate, the amount shall be deemed to be a refund to the loss affiliate of income or profits tax in respect of the loss for the taxation year of the loss.
 
+- **(1.21)** Subsection (1.22) applies if
+	- **(a)** a foreign affiliate of the taxpayer (in this subsection and subsection (1.22) referred to as the “shareholder affiliate”) has an equity percentage in another foreign affiliate (in this subsection and subsection (1.22) referred to as the “transparent affiliate”); and
+	- **(b)** under the income tax laws of the country in which the shareholder affiliate is resident, the shareholder affiliate, and not the transparent affiliate, is liable for any tax payable to, or entitled to any refund from, a government of that country for that year in respect of the income or profits, or loss, as the case may be, for the year of the transparent affiliate.
+
+- **(1.22)** If this subsection applies, for the purpose of applying subsection (1.2), any loss of the transparent affiliate, to the extent that the loss is deducted in computing the income, profits or loss of the shareholder affiliate under an income tax law referred to in paragraph (1.21)(b),
+	- **(a)** is deemed to be a loss of the shareholder affiliate; and
+	- **(b)** is deemed to
+		- **(i)** reduce the exempt surplus, or increase the exempt deficit, as the case may be, of the shareholder affiliate to the extent that it reduces the exempt surplus or increases the exempt deficit of the transparent affiliate,
+		- **(ii)** reduce the hybrid surplus or increase the hybrid deficit, as the case may be, of the shareholder affiliate to the extent that it reduces the hybrid surplus or increases the hybrid deficit of the transparent affiliate, and
+		- **(iii)** reduce the taxable surplus or increase the taxable deficit, as the case may be, of the shareholder affiliate to the extent that it reduces the taxable surplus or increases the taxable deficit of the transparent affiliate.
+
 - **(1.3)** For the purpose of paragraph (b) of the definition ***foreign accrual tax*** in subsection 95(1) of the Act and subject to subsection (1.4),
-	- **(a)** where, pursuant to the income tax law of the country in which a particular foreign affiliate is resident, the particular affiliate and one or more other corporations, each of which is resident in that country, determine their liabilities for income or profits tax payable to the government of that country for a taxation year on a consolidated or combined basis, any amount paid by the particular affiliate to any of the other corporations to the extent that it may reasonably be regarded as being in respect of income or profits tax that would otherwise have been payable by the particular affiliate in respect of a particular amount included in computing the taxpayer’s income by virtue of subsection 91(1) of the Act for a taxation year in respect of the particular affiliate, had the tax liability of the particular affiliate and the other corporations not been determined on a consolidated or combined basis, is hereby prescribed to be foreign accrual tax applicable to the particular amount; and
-	- **(b)** where, pursuant to the income tax law of the country in which a particular foreign affiliate of a taxpayer is resident, the particular affiliate, in computing its income or profits subject to tax in that country for a taxation year, deducts an amount in respect of a loss of another corporation resident in that country, any amount paid by the particular affiliate to the other corporation to the extent that it may reasonably be regarded as being in respect of income or profits tax that would otherwise have been payable by the particular affiliate in respect of a particular amount included in computing the taxpayer’s income by virtue of subsection 91(1) of the Act for a taxation year in respect of the particular affiliate, had the tax liability of the particular affiliate been determined without deducting the loss of the other corporation, is hereby prescribed to be foreign accrual tax applicable to the particular amount.
+	- **(a)** if under the income tax laws of the country in which the particular affiliate or a shareholder affiliate of the particular affiliate, as the case may be, referred to in that paragraph is resident, the particular affiliate, or shareholder affiliate, and one or more other corporations, each of which is resident in that country, determine their liabilities for income or profits tax payable to the government of that country for a taxation year on a consolidated or combined basis, then any amount paid by the particular affiliate, or shareholder affiliate, to any of those other corporations to the extent that the amount paid may reasonably be regarded as being in respect of income or profits tax that would otherwise have been payable by the particular affiliate, or shareholder affiliate, in respect of a particular amount that is included under subsection 91(1) of the Act in computing the taxpayer’s income for a taxation year of the taxpayer in respect of the particular affiliate, if the tax liability of the particular affiliate, or shareholder affiliate, and those other corporations had not been determined on a consolidated or combined basis, is prescribed to be foreign accrual tax applicable to the particular amount; and
+	- **(b)** if, under the income tax laws of the country in which the particular affiliate or a shareholder affiliate of the particular affiliate, as the case may be, referred to in that paragraph is resident, the particular affiliate, or shareholder affiliate, deducts, in computing its income or profits subject to tax in that country for a taxation year, an amount in respect of a loss of another corporation (referred to in this paragraph and paragraph (1.6)(a) as the “loss transferor”) resident in that country (referred to in this paragraph and paragraph (1.6)(a) as the “transferred loss”), then any amount paid by the particular affiliate, or shareholder affiliate, to the loss transferor to the extent that the amount paid may reasonably be regarded as being in respect of income or profits tax that would otherwise have been payable by the particular affiliate, or shareholder affiliate, in respect of a particular amount that is included under subsection 91(1) of the Act in computing the taxpayer’s income for a taxation year of the taxpayer in respect of the particular affiliate, if the tax liability of the particular affiliate, or shareholder affiliate, had been determined without deducting the transferred loss, is prescribed to be foreign accrual tax applicable to the particular amount.
 
 - **(1.4)** If the amount prescribed under paragraph (1.3)(a) or (b), or any portion of the amount, can reasonably be considered to be in respect of a particular loss (other than a capital loss) or a capital loss of another corporation for a taxation year of the other corporation, then the amount so prescribed is to be reduced to the extent that it can reasonably be considered to be in respect of the portion of the particular loss or capital loss, as the case may be, that would, if sections 5903 and 5903.1 were read without reference to their subsection (4), not be a foreign accrual property loss (within the meaning assigned by subsection 5903(3)), or a foreign accrual capital loss (within the meaning assigned by subsection 5903.1(3)), as the case may be, of a controlled foreign affiliate of a person or partnership that is, at the end of that taxation year, a relevant person or partnership (within the meaning assigned by subsection 5903(6)) in respect of the taxpayer.
 
-- **(1.5)** If subsection (1.4) applied to reduce an amount that would, in the absence of subsection (1.4), be prescribed by paragraph (1.3)(a) to be foreign accrual tax applicable to an amount (referred to in this subsection as the “FAPI amount”) included in the taxpayer’s income under subsection 91(1) of the Act for a taxation year (referred to in subsection (1.6) as the “FAPI year”) of the taxpayer, an amount equal to that reduction is, for the purpose of paragraph (b) of the definition ***foreign accrual tax*** in subsection 95(1) of the Act, prescribed to be foreign accrual tax applicable to the FAPI amount in the taxpayer’s taxation year that includes the last day of the designated taxation year, if any, of the particular affiliate referred to in paragraph (1.3)(a).
+- **(1.5)** If subsection (1.4) applied to reduce an amount that would, in the absence of subsection (1.4), be prescribed by subsection (1.3) to be foreign accrual tax applicable to an amount (referred to in this subsection as the “FAPI amount”) included under subsection 91(1) of the Act in computing the taxpayer’s income for a taxation year (referred to in subsection (1.6) as the “FAPI year”) of the taxpayer in respect of the particular affiliate referred to in paragraph (1.3)(a) or (b), then an amount equal to that reduction is, for the purposes of paragraph (b) of the definition ***foreign accrual tax*** in subsection 95(1) of the Act, prescribed to be foreign accrual tax applicable to the FAPI amount in the taxpayer’s taxation year that includes the last day of the designated taxation year, if any, of the particular affiliate or the shareholder affiliate referred to in paragraph (1.3)(a) or (b), as the case may be.
 
-- **(1.6)** For the purposes of subsection (1.5), the designated taxation year of the particular affiliate is a particular taxation year of the particular affiliate if
-	- **(a)** in the particular year, or in the particular affiliate’s taxation year (referred to in this paragraph as the “PATY”) ending in the FAPI year and one or more taxation years of the particular affiliate each of which follows the PATY and the latest of which is the particular year, all losses of the particular affiliate and the other corporations referred to in paragraph (1.3)(a) for their taxation years ending in the FAPI year would, on the assumption that the particular affiliate and each of those other corporations had no foreign accrual property income for any taxation year, reasonably be considered to have been fully deducted (under the tax law referred to in paragraph (1.3)(a)) against income (as determined under that tax law) of the particular affiliate or those other corporations;
-	- **(b)** the taxpayer demonstrates that no other losses of the particular affiliate or those other corporations for any taxation year were, or could reasonably have been, deducted under that tax law against that income; and
+- **(1.6)** For the purposes of subsection (1.5), the designated taxation year of the particular affiliate or the shareholder affiliate, as the case may be, is a particular taxation year of the particular affiliate, or the shareholder affiliate, if
+	- **(a)** in the particular year, or in the taxation year of the particular affiliate or shareholder affiliate (referred to in this paragraph as the “PATY”) ending in the FAPI year and one or more taxation years of the particular affiliate (or shareholder affiliate) each of which follows the PATY and the latest of which is the particular year, all losses of the particular affiliate (or shareholder affiliate) and the other corporations referred to in paragraph (1.3)(a)  — or of the particular affiliate, the loss transferor and each corporation that would have been permitted to deduct the transferred loss against its income under the income tax laws referred to in paragraph (1.3)(b) if the transferred loss had not been deducted by the particular affiliate and if the corporation had taxable income for its taxation years ending in the FAPI year in excess of the transferred loss — for their taxation years ending in the FAPI year would, on the assumption that the particular affiliate (or shareholder affiliate) and each of those other corporations had no foreign accrual property income for any taxation year, reasonably be considered to have been fully deducted (under the tax laws referred to in paragraph (1.3)(a) or (b)) against income (as determined under those tax laws) of the particular affiliate (or shareholder affiliate) or those other corporations;
+	- **(b)** the taxpayer demonstrates that no other losses of the particular affiliate (or shareholder affiliate) or those other corporations for any taxation year were, or could reasonably have been, deducted under those tax laws against that income; and
 	- **(c)** the last day of the particular year occurs in one of the five taxation years of the taxpayer that immediately follow the FAPI year.
 
 - **(1.7)** If the amount prescribed under paragraph (1.3)(a) or (b), or any portion of the amount, can reasonably be considered to be in respect of a capital loss of another corporation for a taxation year of the other corporation, then the amount so prescribed, as reduced by subsection (1.4), if applicable, shall be reduced to the extent that it can reasonably be considered to be in respect of the portion of that capital loss that would not be deductible by the particular affiliate in computing its foreign accrual property income for the year if the capital loss had been incurred by the particular affiliate.
@@ -12089,7 +12436,7 @@ exceeds
 	- **(a)** the amount (determined on the assumption that the notional actual disposition occurred at the time of the deemed disposition) that can reasonably be considered to be the amount of income or profits tax that the affiliate would, because of the notional actual disposition, have had refunded to it by the government of a particular country (other than Canada), in addition to any other income or profits tax otherwise refundable by that government, in relation to the loss or capital loss, as the case may be, of the affiliate from the notional actual disposition
 exceeds
 	- **(b)** the amount that can reasonably be considered to be the portion of the notional income or profits tax refundable to the affiliate by the government of the particular country in relation to the loss or capital loss, as the case may be, of the affiliate from the notional actual disposition (determined on the assumptions that the notional actual disposition occurred immediately after the time that is immediately after the time of the deemed disposition and that the notional income or profits tax refundable to the affiliate by the government of the particular country in relation to the notional actual disposition is equal to the amount determined by paragraph (a)) that, because of a comprehensive agreement or convention for the elimination of double taxation on income between the government of the particular country and the government of any other country, would not have been refundable by the government of the particular country.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-211, s. 1; SOR/78-913, s. 2; SOR/80-141, s. 5; SOR/85-176, s. 4; SOR/88-165, s. 29(F); SOR/89-135, s. 3; SOR/94-686, ss. 31(F), 58(F); 69(F), 70(F), 78(F), 79(F); SOR/96-228, s. 2; SOR/97-505, s. 8; 2009, c. 2, s. 112; 2013, c. 34, ss. 46, 85, 401.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-211, s. 1; SOR/78-913, s. 2; SOR/80-141, s. 5; SOR/85-176, s. 4; SOR/88-165, s. 29(F); SOR/89-135, s. 3; SOR/94-686, ss. 31(F), 58(F); 69(F), 70(F), 78(F), 79(F); SOR/96-228, s. 2; SOR/97-505, s. 8; 2009, c. 2, s. 112; 2013, c. 34, ss. 46, 85, 401; 2014, c. 39, s. 88.
 
 
 
@@ -19203,12 +19550,12 @@ where
 	- **(iii)** flexibility, and
 	- **(iv)** balance. (*activité physique*)
 
-***qualifying child*** has the meaning assigned by subsection 118.03(1) of the Act. (*enfant admissible*)
+***qualifying child*** has the meaning assigned by subsection 122.8(1) of the Act. (*enfant admissible*)
 
 ### Prescribed Program of Physical Activity
 
 
-- **(2)** For the purpose of the definition ***eligible fitness expense*** in subsection 118.03(1) of the Act, a prescribed program of physical activity is
+- **(2)** For the purpose of the definition ***eligible fitness expense*** in subsection 122.8(1) of the Act, a prescribed program of physical activity is
 	- **(a)** a weekly program, that is not part of a school’s curriculum, of a duration of eight or more consecutive weeks in which all or substantially all of the activities include a significant amount of physical activity;
 	- **(b)** a program, that is not part of a school’s curriculum, of a duration of five or more consecutive days of which more than 50% of the daily activities include a significant amount of physical activity;
 	- **(c)** a program, that is not part of a school’s curriculum, of a duration of eight or more consecutive weeks, offered to children by a club, association or similar organization (in this section referred to as an “organization”) in circumstances where a participant in the program may select amongst a variety of activities if
@@ -19219,20 +19566,20 @@ where
 ### Mixed-use Facility
 
 
-- **(3)** For the purpose of the definition ***eligible fitness expense*** in subsection 118.03(1) of the Act, a prescribed program of physical activity is that portion of a program, which program does not meet the requirements of paragraph (2)(c) and is not part of a school’s curriculum, of a duration of eight or more consecutive weeks, offered to children by an organization in circumstances where a participant in the program may select amongst a variety of activities
+- **(3)** For the purpose of the definition ***eligible fitness expense*** in subsection 122.8(1) of the Act, a prescribed program of physical activity is that portion of a program, which program does not meet the requirements of paragraph (2)(c) and is not part of a school’s curriculum, of a duration of eight or more consecutive weeks, offered to children by an organization in circumstances where a participant in the program may select amongst a variety of activities
 	- **(a)** that is the percentage of those activities offered to children by the organization that are activities that include a significant amount of physical activity; or
 	- **(b)** that is the percentage of the time scheduled for activities in the program that is scheduled for activities that include a significant amount of physical activity.
 
 ### Membership
 
 
-- **(4)** For the purpose of the definition ***eligible fitness expense*** in subsection 118.03(1) of the Act, a prescribed program of physical activity is that portion of a membership in an organization, which membership does not meet the requirements of paragraph (2)(d) and is not part of a school’s curriculum, of a duration of eight or more consecutive weeks that is the percentage of all the activities offered to children by the organization that are activities that include a significant amount of physical activity.
+- **(4)** For the purpose of the definition ***eligible fitness expense*** in subsection 122.8(1) of the Act, a prescribed program of physical activity is that portion of a membership in an organization, which membership does not meet the requirements of paragraph (2)(d) and is not part of a school’s curriculum, of a duration of eight or more consecutive weeks that is the percentage of all the activities offered to children by the organization that are activities that include a significant amount of physical activity.
 
 ### Horseback Riding
 
 
 - **(5)** For the purpose of the definition ***physical activity*** in subsection (1), horseback riding is deemed to be an activity that contributes to cardio-respiratory endurance and to one or more of muscular strength, muscular endurance, flexibility and balance.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2007, c. 35, s. 88.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2007, c. 35, s. 88; 2014, c. 39, s. 89.
 
 
 
@@ -22317,7 +22664,7 @@ other than buildings or other structures, heat rejection equipment (such as cond
 
 **(i)** part of a system (other than an enhanced combined cycle system) that
 
-**(A)** is used by the taxpayer, or by a lessee of the taxpayer, to generate electrical energy, or both electrical and heat energy, using only fuel that is fossil fuel, eligible waste fuel, spent pulping liquor, or any combination of those fuels, and
+**(A)** is used by the taxpayer, or by a lessee of the taxpayer, to generate electrical energy, or both electrical and heat energy, using only fuel that is eligible waste fuel, fossil fuel, producer gas, spent pulping liquor or any combination of those fuels, and
 
 
 
@@ -22337,7 +22684,7 @@ other than buildings or other structures, heat rejection equipment (such as cond
 
 
 
-**(C)** does not have economically viable access to a steam host, or 
+**(C)** does not have economically viable access to a steam host, or
 
 
 
@@ -22467,7 +22814,7 @@ other than distribution equipment, auxiliary electrical generating equipment, pr
 
 
 
-**(ix)** equipment used by the taxpayer, or by a lessee of the taxpayer, for the sole purpose of generating heat energy, primarily from the consumption of eligible waste fuel and not using any fuel other than eligible waste fuel or fossil fuel, including such equipment that consists of fuel handling equipment used to upgrade the combustible portion of the fuel and control, feedwater and condensate systems, and other ancillary equipment, but not including equipment used for the purpose of producing heat energy to operate electrical generating equipment, buildings or other structures, heat rejection equipment (such as condensers and cooling water systems), fuel storage facilities, other fuel handling equipment and property otherwise included in Class 10 or 17,
+**(ix)** equipment used by the taxpayer, or by a lessee of the taxpayer, for the sole purpose of generating heat energy, primarily from the consumption of eligible waste fuel, producer gas or a combination of those fuels and not using any fuel other than eligible waste fuel, fossil fuel or producer gas, including such equipment that consists of fuel handling equipment used to upgrade the combustible portion of the fuel and control, feedwater and condensate systems, and other ancillary equipment, but not including equipment used for the purpose of producing heat energy to operate electrical generating equipment, buildings or other structures, heat rejection equipment (such as condensers and cooling water systems), fuel storage facilities, other fuel handling equipment and property otherwise included in Class 10 or 17,
 
 
 
@@ -22519,7 +22866,7 @@ other than distribution equipment, auxiliary electrical generating equipment, pr
 
 
 
-**(xiv)** property that is used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of generating electricity using wave or tidal energy (otherwise than by using physical barriers or dam-like structures), including support structures, control, conditioning and battery storage equipment, submerged cables and transmission equipment, but not including buildings, distribution equipment, auxiliary electricity generating equipment, property otherwise included in Class 10 and property that would be included in Class 17 if that class were read without reference to its subparagraph (a.1)(i), or
+**(xiv)** property that is used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of generating electricity using kinetic energy of flowing water or wave or tidal energy (otherwise than by diverting or impeding the natural flow of the water or by using physical barriers or dam-like structures), including support structures, control, conditioning and battery storage equipment, submerged cables and transmission equipment, but not including buildings, distribution equipment, auxiliary electricity generating equipment, property otherwise included in Class 10 and property that would be included in Class 17 if that class were read without reference to its subparagraph (a.1)(i),
 
 
 
@@ -22533,9 +22880,13 @@ other than distribution equipment, auxiliary electrical generating equipment, pr
 
 
 
-**(C)** is not a building, and
+**(C)** is not a building, or
 
 
+
+
+
+**(xvi)** equipment used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of generating producer gas (other than producer gas that is to be converted into liquid biofuels or chemicals), including related piping (including fans and compressors), air separation equipment, storage equipment, equipment used for drying or shredding eligible waste fuel, ash-handling equipment, equipment used to upgrade the producer gas into biomethane and equipment used to remove non-combustibles and contaminants from the producer gas, but not including buildings or other structures, heat rejection equipment (such as condensers and cooling water systems), equipment used to convert producer gas into liquid biofuels or chemicals and property otherwise included in Class 10 or 17, and
 
 
 
@@ -22580,7 +22931,7 @@ other than distribution equipment, auxiliary electrical generating equipment, pr
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/97-377, s. 13; SOR/2000-327, s. 7; SOR/2001-295, s. 10; SOR/2005-371, s. 12; SOR/2005-415, s. 2; err.(F), Vol. 140, No. 12; SOR/2006-117, s. 12; SOR/2006-249, s. 2; SOR/2009-115, ss. 7, 12; 2010, c. 25, s. 90; SOR/2010-93, s. 34(F); 2011, c. 24, s. 101; 2012, c. 31, s. 70; 2013, c. 40, s. 119..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/97-377, s. 13; SOR/2000-327, s. 7; SOR/2001-295, s. 10; SOR/2005-371, s. 12; SOR/2005-415, s. 2; err.(F), Vol. 140, No. 12; SOR/2006-117, s. 12; SOR/2006-249, s. 2; SOR/2009-115, ss. 7, 12; 2010, c. 25, s. 90; SOR/2010-93, s. 34(F); 2011, c. 24, s. 101; 2012, c. 31, s. 70; 2013, c. 40, s. 119; 2014, c. 39, s. 90..
 
 
 
