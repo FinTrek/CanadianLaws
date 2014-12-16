@@ -3686,23 +3686,44 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 
 
-### Loi sur l’énergie nucléaire
-
-
-**2147** [Modification]
+### Laboratoires Nucléaires Canadiens Ltée
 
 
 
+**Société mandataire**
 
-### Entrée en vigueur
+**2147** La société Laboratoires Nucléaires Canadiens Ltée, constituée le 30 mai 2014 sous le régime de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md), est un mandataire de Sa Majesté du chef du Canada.
+> 2010, ch. 12, art. 2147; 2014, ch. 39, art. 378.
 
 
 
-**Décret**
 
-***2148** Les dispositions de la présente partie entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind377F_hq_9626'><sup>*</sup></a>: [Note : Articles 2137 à 2147 en vigueur le 25 mars 2011, *voir* TR/2011-25.]<br />
+**Cession réputée**
+
+**2148** 
+
+- **(1)** La disposition, notamment par vente, des titres de Laboratoires Nucléaires Canadiens Ltée par EACL, au titre de l’alinéa 2141(1)j), est réputée être une cession de l’administration d’un service pour l’application du paragraphe 40.1(1) de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) et elle entraîne les conséquences ci-après le jour de la disposition :
+	- **a)** les employés de Laboratoires Nucléaires Canadiens Ltée sont réputés être des contributeurs pour l’application du paragraphe 40.1(1) de cette loi;
+	- **b)** la société Laboratoires Nucléaires Canadiens Ltée est réputée être le cessionnaire visé à ce paragraphe 40.1(1) et devenir l’employeur des employés.
+
+**Période de transition**
+
+- **(2)** Pour l’application de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), Laboratoires Nucléaires Canadiens Ltée fait partie de la fonction publique, comme si le Conseil du Trésor l’avait ordonné en vertu de l’alinéa 40.1(2)a) de cette loi, pour une période de trois ans à compter de la date de la disposition visée au paragraphe (1).
+
+**Paiements mensuels**
+
+- **(3)** Pour continuer de faire partie de la fonction publique, Laboratoires Nucléaires Canadiens Ltée est tenue de verser mensuellement, au compte de pension de retraite ou à la Caisse de retraite de la fonction publique, les montants déterminés conformément à l’article 9 du [Règlement sur la pension de la fonction publique](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1301-1400/C.R.C.,%20ch.%201358.md).
+
+**Contributions non obligatoires**
+
+- **(4)** La personne qui, après le jour de la disposition visée au paragraphe (1), devient ou redevient un employé de Laboratoires Nucléaires Canadiens Ltée n’est pas, au cours de la période visée au paragraphe (2), tenue de verser les contributions prévues à l’article 5 de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md).
+
+**Précision**
+
+- **(5)** Il est entendu que des règlements peuvent être pris en application de l’alinéa 42.1(1)u) de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) à l’égard des employés réputés être des contributeurs en application de l’alinéa (1)a).
+> 2010, ch. 12, art. 2148; 2014, ch. 39, art. 379.
+
 
 
 
