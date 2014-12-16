@@ -11,7 +11,7 @@ Sanctionnée sur le 13 juillet 1995
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -37,39 +37,43 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***administrateur*** Membre du conseil.
+***administrateur*** Membre du conseil. (*director*)
 
-***Banque*** La Banque de développement du Canada maintenue par le paragraphe 3(1).
+***Banque*** La Banque de développement du Canada maintenue par le paragraphe 3(1). (*Bank*)
 
-***bureau*** Le bureau du conseil.
+***bureau***[Abrogée, 2014, ch. 39, art. 211]
 
-***connaissement*** S’entend au sens du paragraphe 425(1) de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md).
+***coentreprise*** Association de personnes dont les rapports ne constituent pas, sous le régime des lois canadiennes, une personne morale, une société de personnes ou une fiducie. (*joint venture*)
 
-***conseil*** Le conseil d’administration de la Banque.
+***connaissement*** S’entend au sens du paragraphe 425(1) de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md). (*bill of lading*)
 
-***effets, denrées ou marchandises*** S’entend au sens du paragraphe 425(1) de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md).
+***conseil*** Le conseil d’administration de la Banque. (*Board*)
 
-***entreprise*** La réalisation par une ou plusieurs personnes d’une activité économique organisée.
+***effets, denrées ou marchandises*** S’entend au sens du paragraphe 425(1) de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md). (*goods, wares and merchandise*)
 
-***filiale*** S’entend au sens du paragraphe 83(6) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+***entreprise*** La réalisation par une ou plusieurs personnes d’une activité économique organisée. (*enterprise*)
 
-***ministre compétent*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi.
+***filiale*** S’entend au sens du paragraphe 83(6) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md). (*subsidiary*)
 
-***personne*** Sont assimilées à une personne la fiducie, la société de personnes et l’association de personnes physiques ou de personnes morales.
+***ministre compétent*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi. (*Designated Minister*)
 
-***président*** Le président de la Banque.
+***personne*** Sont assimilées à une personne la fiducie, la société de personnes, la coentreprise et l’association de personnes physiques ou de personnes morales. (*person*)
 
-***président du conseil*** Le président du conseil.
+***président*** Le président de la Banque. (*President*)
 
-***récépissé d’entrepôt*** S’entend au sens du paragraphe 425(1) de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md).
+***président du conseil*** Le président du conseil. (*Chairperson*)
 
-***règlement administratif*** Règlement administratif de la Banque.
+***récépissé d’entrepôt*** S’entend au sens du paragraphe 425(1) de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md). (*warehouse receipt*)
 
-***résolution*** Résolution du conseil.
+***règlement administratif*** Règlement administratif de la Banque. (*by-law*)
 
-***titre de créance*** Obligation, débenture, billet, certificat de placement ou autre preuve d’endettement ou la garantie d’une personne morale, assortis ou non d’une sûreté.
+***résolution*** Résolution du conseil. (*resolution*)
 
-***valeurs mobilières*** Les actions d’une catégorie ou d’une série d’actions ou les titres de créance d’une personne morale, y compris les certificats d’actions ou de titres de créance.
+***titre de créance*** Obligation, débenture, billet, certificat de placement ou autre preuve d’endettement ou la garantie d’une personne morale, assortis ou non d’une sûreté. (*debt obligation*)
+
+***valeurs mobilières*** Les actions d’une catégorie ou d’une série d’actions ou les titres de créance d’une personne morale, y compris les certificats d’actions ou de titres de créance. (*securities*)
+> 1995, ch. 28, art. 2; 2014, ch. 39, art. 211.
+
 
 
 
@@ -145,6 +149,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Le gouverneur en conseil nomme à titre amovible le président du conseil pour le mandat qu’il estime indiqué.
 
+**Absence ou empêchement**
+
+- **(1.1)** En cas d’absence ou d’empêchement du président du conseil ou de vacance de son poste, le conseil peut autoriser un autre administrateur de la Banque à exercer les fonctions de président du conseil; toutefois, une personne ainsi autorisée ne peut exercer les fonctions de président du conseil pendant une période de plus de cent quatre-vingts jours sans l’approbation du gouverneur en conseil.
+
 **Nomination du président**
 
 - **(2)** Par dérogation au paragraphe 105(5) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), le gouverneur en conseil nomme à titre inamovible le président pour le mandat qu’il estime indiqué, sous réserve de révocation motivée.
@@ -169,7 +177,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c)** est un résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) et a résidé au Canada pendant plus d’un an après la date à laquelle elle a acquis pour la première fois le droit de demander la citoyenneté canadienne;
 	- **d)** est sénateur, député à la Chambre des communes ou membre de la législature d’une province;
 	- **e)** est employée dans l’administration publique d’une province.
-> 1995, ch. 28, art. 6; 2001, ch. 27, art. 208; 2006, ch. 9, art. 229.
+> 1995, ch. 28, art. 6; 2001, ch. 27, art. 208; 2006, ch. 9, art. 229; 2014, ch. 39, art. 212.
 
 
 
@@ -185,13 +193,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Le conseil peut, par résolution, adopter des règlements administratifs régissant les affaires tant commerciales qu’internes de la Banque.
 
-**Bureau**
+**Comités du conseil**
 
-- **(3)** Le conseil peut constituer un bureau et les comités ou groupes consultatifs qu’il estime utiles, et préciser leur composition et leurs fonctions ainsi que la durée du mandat de leurs membres.
+- **(3)** Le conseil peut constituer les comités du conseil qu’il estime utiles et préciser leur composition, leurs fonctions ainsi que la durée du mandat de leurs membres.
 
-**Fonctions et pouvoirs du bureau**
+**Délégation de pouvoirs et attribution de fonctions**
 
-- **(4)** Le conseil peut déléguer des pouvoirs et conférer des fonctions au bureau dans les domaines que la présente loi, les règlements administratifs ou les résolutions ne réservent pas expressément au conseil.
+- **(4)** Le conseil peut déléguer des pouvoirs et conférer des fonctions à ces comités dans les domaines que la présente loi, les règlements administratifs ou les résolutions ne réservent pas expressément au conseil.
+> 1995, ch. 28, art. 7; 2014, ch. 39, art. 213.
+
 
 
 
@@ -211,11 +221,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **9** 
 
-- **(1)** Le président est le premier dirigeant de la Banque. Il dirige et gère, au nom du conseil, les activités de celle-ci. À ce titre, il peut agir dans les domaines que la présente loi, les règlements administratifs ou les résolutions ne réservent pas expressément au conseil ou au bureau.
+- **(1)** Le président est le premier dirigeant de la Banque. Il dirige et gère, au nom du conseil, les activités de celle-ci. À ce titre, il peut agir dans les domaines que la présente loi, les règlements administratifs ou les résolutions ne réservent pas expressément au conseil ou à un comité du conseil.
 
 **Absence ou empêchement**
 
-- **(2)** En cas d’absence ou d’empêchement du président ou de vacance de son poste, le conseil peut autoriser un dirigeant ou un employé de la Banque à exercer les fonctions de président; toutefois, une personne ainsi autorisée ne peut exercer les fonctions de président pendant une période de plus de quatre-vingt-dix jours sans l’approbation du gouverneur en conseil.
+- **(2)** En cas d’absence ou d’empêchement du président ou de vacance de son poste, le conseil peut autoriser un dirigeant ou un employé de la Banque à exercer les fonctions de président; toutefois, une personne ainsi autorisée ne peut exercer les fonctions de président pendant une période de plus de cent quatre-vingts jours sans l’approbation du gouverneur en conseil.
+> 1995, ch. 28, art. 9; 2014, ch. 39, art. 214.
+
 
 
 
@@ -229,10 +241,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Délégation de pouvoirs**
+**Délégation de pouvoirs et attribution de fonctions**
 
-**11** Le conseil peut déléguer des pouvoirs et conférer des fonctions à tout dirigeant, employé ou mandataire de la Banque dans les domaines que la présente loi, les règlements administratifs ou les résolutions ne réservent pas expressément au conseil ou au bureau.
-> 1995, ch. 28, art. 11; 2011, ch. 21, art. 4(A).
+**11** Le conseil peut déléguer des pouvoirs et conférer des fonctions à tout dirigeant, employé ou mandataire de la Banque dans les domaines que la présente loi, les règlements administratifs ou les résolutions ne réservent pas expressément au conseil ou à un comité du conseil.
+> 1995, ch. 28, art. 11; 2011, ch. 21, art. 4(A); 2014, ch. 39, art. 215.
 
 
 
@@ -240,8 +252,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Serment professionnel**
 
-**12** Préalablement à leur entrée en fonctions, les administrateurs, dirigeants et employés de la Banque, ainsi que les mandataires, conseillers et experts dont elle retient les services, prêtent serment ou font une affirmation solennelle selon le formulaire visé à l’annexe, devant un commissaire aux serments ou une autre personne habilitée à recevoir les serments dans le ressort en cause.
-> 1995, ch. 28, art. 12; 2011, ch. 21, art. 4(A).
+**12** Préalablement à leur entrée en fonctions, les administrateurs, dirigeants et employés de la Banque ou de ses filiales, ainsi que les mandataires, conseillers et experts dont elles retiennent les services prêtent serment ou font une affirmation solennelle dans la forme prévue à l’annexe, devant un commissaire aux serments ou une autre personne habilitée à recevoir les serments dans le ressort en cause.
+> 1995, ch. 28, art. 12; 2011, ch. 21, art. 4(A); 2014, ch. 39, art. 215.
 
 
 
@@ -255,7 +267,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **13** 
 
-- **(1)** La Banque verse au président du conseil et aux autres administrateurs — à l’exception du président et des administrateurs qui font partie de l’administration publique fédérale — la rémunération fixée par le gouverneur en conseil pour le temps qu’ils consacrent aux réunions du conseil, du bureau ou d’un autre comité du conseil et pour l’exécution des fonctions que leur confère la présente loi.
+- **(1)** La Banque verse au président du conseil et aux autres administrateurs — à l’exception du président et des administrateurs qui font partie de l’administration publique fédérale — la rémunération fixée par le gouverneur en conseil pour le temps qu’ils consacrent aux réunions du conseil ou d’un comité du conseil et pour l’exécution des fonctions que leur confère la présente loi.
 
 **Rémunération du président**
 
@@ -272,7 +284,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Caisse de retraite**
 
 - **(5)** Le conseil peut prendre des règlements administratifs concernant la création, la gestion et l’administration d’une caisse de retraite pour les dirigeants et les employés de la Banque et les personnes à leur charge, les contributions à verser par la banque à cette caisse, le versement de prestations prélevées sur cette caisse, le service de pensions et le placement des fonds de cette caisse.
-> 1995, ch. 28, art. 13; 2003, ch. 22, art. 224(A); 2011, ch. 21, art. 5(A).
+> 1995, ch. 28, art. 13; 2003, ch. 22, art. 224(A); 2011, ch. 21, art. 5(A); 2014, ch. 39, art. 216(F).
 
 
 
@@ -286,31 +298,72 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Prêts, garanties et investissements**
+**Prêts, investissements, etc.**
 
 **14** 
 
-- **(1)** La Banque peut consentir des prêts à une personne, y faire des investissements ou donner des garanties à son égard.
+- **(1)** La Banque peut :
+	- **a)** consentir des prêts à une personne ou y faire des investissements;
+	- **b)** donner des garanties à son égard;
+	- **c)** octroyer du crédit ou fournir des liquidités à celle-ci, ou à son égard, dans le cadre d’une catégorie de transactions réglementaire.
 
-**Manière de les faire**
+**Manière de les fournir**
 
-- **(2)** Les prêts ou investissements peuvent se faire, ou les garanties se donner, directement, dans le cadre d’arrangements avec d’autres institutions financières ou à titre de membre d’un consortium financier.
+- **(2)** Les services visés au paragraphe (1) peuvent être fournis par la Banque :
+	- **a)** soit directement;
+	- **b)** soit dans le cadre d’arrangements avec d’autres personnes;
+	- **c)** soit à titre de membre d’un consortium financier.
 
 **Critères**
 
-- **(3)** Les prêts et investissements ne peuvent se faire, ou les garanties se donner, que si, de l’avis du conseil, d’un comité ou d’un cadre autorisé par le conseil, les conditions suivantes sont réunies :
+- **(3)** Les prêts et investissements ne peuvent se faire, ou les garanties se donner, que si, de l’avis du conseil ou d’un comité ou cadre autorisé par le conseil, les conditions suivantes sont réunies :
 	- **a)** la personne en cause exploite ou est sur le point d’exploiter une entreprise au Canada;
 	- **b)** le montant et la nature de l’investissement fait ou devant être fait dans cette entreprise par des personnes autres que la Banque permettent à celle-ci de considérer comme durable la participation de ces personnes à cette entreprise;
 	- **c)** l’entreprise présente des perspectives raisonnables de réussite.
 
-**Complément aux autres institutions**
+**Entreprises à l’extérieur du Canada — prêts et garanties**
 
-- **(4)** Les prêts, investissements et garanties doivent servir à compléter les services offerts par les institutions financières commerciales.
+- **(4)** Malgré l’alinéa (3)a), des prêts peuvent être consentis à une personne qui exploite ou est sur le point d’exploiter une entreprise à l’extérieur du Canada, et des garanties peuvent être données à son égard, si :
+	- **a)** d’une part, cette personne est une personne morale, une fiducie, une société de personnes ou une coentreprise dans laquelle au moins le tiers des intérêts avec droit de vote sont détenus par des Canadiens ou une association de personnes physiques ou de personnes morales dont au moins la moitié des membres sont des Canadiens;
+	- **b)** d’autre part, au moins un de ces Canadiens exploite ou est sur le point d’exploiter une entreprise au Canada.
 
-**Acquisition de biens**
+**Entreprises à l’extérieur du Canada — investissements**
 
-- **(5)** Dans le cadre des prêts ou investissements qu’elle fait à une personne, ou des garanties qu’elle lui donne, aux termes du présent article, la Banque peut acquérir, par achat ou autrement, des biens meubles, immeubles, personnels ou réels — y compris des comptes clients —, les détenir ou les louer à cette personne et, par la suite, sous réserve de tout droit de rachat, les aliéner, notamment par vente, ou en faire ce qu’elle entend.
-> 1995, ch. 28, art. 14; 2001, ch. 34, art. 9(F); 2011, ch. 21, art. 6.
+- **(5)** Malgré l’alinéa (3)a), des investissements peuvent être faits dans une personne qui exploite ou est sur le point d’exploiter une entreprise à l’extérieur du Canada si :
+	- **a)** d’une part, cette personne remplit les exigences prévues aux alinéas (4)a) et b);
+	- **b)** d’autre part, ces investissements font partie d’une catégorie réglementaire.
+
+**Fonds à l’extérieur du Canada — investissements**
+
+- **(6)** Malgré l’alinéa (3)a), des investissements peuvent être faits dans une personne à l’extérieur du Canada si, de l’avis du conseil ou d’un comité ou cadre autorisé par le conseil :
+	- **a)** d’une part, cette personne est un fonds ou tout autre moyen d’investissement dont au moins la moitié des gestionnaires des placements résident au Canada;
+	- **b)** d’autre part, la stratégie de placement de ce fonds ou autre moyen reflète un engagement continu d’investir au Canada.
+
+**Exception**
+
+- **(7)** L’alinéa (3)b) ne s’applique pas :
+	- **a)** à la personne qui est une fiducie, une organisation au sens du paragraphe 2(1) de la [Loi canadienne sur les organisations à but non lucratif](/fr/Lois/Lois%20du%20Canada/2009/ch.%2023.md) ou une personne morale constituée sous le régime d’une loi provinciale équivalente à cette loi;
+	- **b)** lorsque le prêt ou l’investissement est fait ou la garantie est donnée dans le cadre d’un arrangement visé à l’alinéa (2)b).
+
+**Complément aux autres services**
+
+- **(8)** Les services visés au paragraphe (1) doivent servir à compléter les services offerts par les institutions financières commerciales.
+
+**Acquisition et disposition de biens**
+
+- **(9)** Dans le cadre des services fournis à une personne au titre du présent article, la Banque peut acquérir, par achat ou autrement, des biens meubles, immeubles, personnels ou réels — y compris des comptes clients —, les détenir ou les louer à cette personne et, par la suite, sous réserve de tout droit de rachat, en disposer, notamment par vente, ou en faire ce qu’elle entend.
+
+**Définitions**
+
+- **(10)** Les définitions qui suivent s’appliquent au présent article.
+
+***Canadien*** S’entend au sens des alinéas a), b) ou d) de la définition de ce terme à l’article 3 de la [Loi sur Investissement Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2028%20(1er%20suppl.).md). (*Canadian*)
+
+***intérêt avec droit de vote***
+- **a)** Action avec droit de vote d’une personne morale avec capital social;
+- **b)** titre de participation dans les actifs d’une personne morale sans capital social qui accorde à son détenteur des droits semblables à ceux du détenteur d’une action avec droit de vote;
+- **c)** titre de participation dans les actifs d’une société de personnes, d’une fiducie ou d’une coentreprise qui permet à son détenteur de recevoir une partie des bénéfices et, en cas de dissolution, une partie des actifs. (*voting interest*)
+> 1995, ch. 28, art. 14; 2001, ch. 34, art. 9(F); 2011, ch. 21, art. 6; 2014, ch. 39, art. 217.
 
 
 
@@ -360,12 +413,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Ententes**
+**Accords**
 
-**17** La Banque peut offrir ou conclure des ententes pour offrir les services suivants :
-- **a)** planification stratégique;
-- **b)** conseils et formation en gestion, y compris des colloques, conférences et réunions;
-- **c)** information.
+**17** 
+
+- **(1)** La Banque peut fournir ou conclure des accords pour que soient fournis les services suivants :
+	- **a)** conseils;
+	- **b)** formation en gestion et mentorat;
+	- **c)** réseautage, recommandation et approvisionnement;
+	- **d)** information et recherche;
+	- **e)** autres services de gestion prévus par règlement.
+
+**Complément aux fournisseurs de services**
+
+- **(2)** Les services doivent servir à compléter ceux offerts par les fournisseurs de services du secteur privé.
+> 1995, ch. 28, art. 17; 2014, ch. 39, art. 218.
+
 
 
 
@@ -414,14 +477,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-### Autres services et programmes
+### Accords et programmes
 
 
 
-**Ententes**
+**Accords**
 
-**20** La Banque peut conclure des accords avec les ministères ou organismes fédéraux ou provinciaux, tout autre organisme ou toute personne et agir comme mandataire de ceux-ci pour la prestation de services ou de programmes, en leur nom ou conjointement avec eux, et, sous réserve du paragraphe 14(3), fournir une aide financière en leur nom.
-> 1995, ch. 28, art. 20; 2011, ch. 21, art. 9(A).
+**20** La Banque peut conclure des accords avec les ministères ou organismes fédéraux ou provinciaux, tout autre organisme ou toute personne, agir comme mandataire de ceux-ci pour la prestation de services ou de programmes qui leur sont destinés ou qui sont fournis par eux, en leur nom ou conjointement avec eux, et, sous réserve du paragraphe 14(3), fournir une aide financière en leur nom aux termes de l’accord.
+> 1995, ch. 28, art. 20; 2011, ch. 21, art. 9(A); 2014, ch. 39, art. 219.
 
 
 
@@ -546,7 +609,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **28** 
 
-- **(1)** La Banque peut, avec l’agrément du gouverneur en conseil donné sur la recommandation du ministre des Finances, émettre en faveur de personnes autres que Sa Majesté des instruments hybrides de capital que le gouverneur en conseil considère, en tout ou en partie, comme des capitaux propres pour l’application de l’alinéa 30(2)d).
+- **(1)** La Banque peut, avec l’approbation du gouverneur en conseil donné sur la recommandation du ministre des Finances, émettre en faveur de personnes autres que Sa Majesté des instruments hybrides de capital que le gouverneur en conseil désigne par règlement comme étant, en tout ou en partie, des capitaux propres pour l’application de l’alinéa 30(2)d).
 
 **Absence de responsabilité pour Sa Majesté**
 
@@ -555,6 +618,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Précision**
 
 - **(3)** Il est entendu que les instruments visés au paragraphe (1) ne constituent pas des actions au sens de la partie X de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+> 1995, ch. 28, art. 28; 2014, ch. 39, art. 220(F).
+
 
 
 
@@ -584,7 +649,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** les sommes payées pour ses actions, y compris le surplus d’apport;
 	- **b)** le montant des bénéfices non répartis de la Banque, qu’ils soient positifs ou négatifs;
 	- **c)** les crédits affectés au capital de la Banque par le Parlement;
-	- **d)** le produit des instruments d’emprunts, instruments hybrides de capital ou autres arrangements, que le gouverneur en conseil considère comme des capitaux propres.
+	- **d)** le produit des instruments d’emprunts, instruments hybrides de capital ou autres arrangements, que le gouverneur en conseil désigne par règlement comme étant des capitaux propres.
+> 1995, ch. 28, art. 30; 2014, ch. 39, art. 221(F).
+
 
 
 
@@ -682,7 +749,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **37** 
 
-- **(1)** Sous réserve du paragraphe (2), les renseignements recueillis par la Banque sur ses clients sont confidentiels et aucun administrateur, dirigeant, mandataire, conseiller, expert ou employé de la Banque ne peut sciemment les communiquer ou les laisser communiquer ou y donner accès ou permettre à quiconque d’y donner accès.
+- **(1)** Sous réserve du paragraphe (2), les renseignements recueillis par la Banque ou par ses filiales sur leurs clients sont confidentiels et aucun administrateur, dirigeant, mandataire, conseiller, expert ou employé de la Banque ou de l’une de ses filiales ne peut sciemment les communiquer, en permettre la communication, y donner accès ou permettre à quiconque d’y donner accès.
 
 **Communication autorisée**
 
@@ -691,7 +758,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** ils sont destinés aux poursuites intentées en vertu de la présente loi ou de toute autre loi fédérale;
 	- **c)** ils sont destinés au ministre du Revenu national uniquement pour l’administration ou l’application de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) ou de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md);
 	- **d)** ils sont communiqués avec le consentement écrit de la personne à laquelle ils se rapportent.
-> 1995, ch. 28, art. 37; 2011, ch. 21, art. 11(A).
+> 1995, ch. 28, art. 37; 2011, ch. 21, art. 11(A); 2014, ch. 39, art. 222.
 
 
 
@@ -713,9 +780,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**instrument hybride de capital**
+**Règlements**
 
-**40** Le gouverneur en conseil peut, par règlement, définir instrument hybride de capital.
+**40** Le gouverneur en conseil peut, par règlement :
+- **a)** définir instrument hybride de capital;
+- **b)** prendre toute mesure réglementaire prévue par la présente loi.
+> 1995, ch. 28, art. 40; 2014, ch. 39, art. 223.
+
 
 
 
