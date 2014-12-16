@@ -1093,8 +1093,16 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 **Prorogation en vue d’une fusion**
 
-- **(3)** La société coopérative de crédit locale peut, si les règles de droit en vigueur sur le territoire de sa constitution l’y autorisent, demander au ministre des lettres patentes de prorogation en tant que coopérative de crédit fédérale sous le régime de la présente loi si elle a l’intention d’être prorogée afin de fusionner avec une autre coopérative de crédit fédérale conformément à la présente loi.
-> 1991, ch. 46, art. 33; 1994, ch. 24, art. 34(F); 2001, ch. 9, art. 49; 2010, ch. 12, art. 1908.
+- **(3)** La société coopérative de crédit locale peut, si les règles de droit en vigueur sur le territoire de sa constitution l’y autorisent, demander au ministre des lettres patentes de prorogation en tant que coopérative de crédit fédérale sous le régime de la présente loi si elle a l’intention d’être prorogée afin de fusionner immédiatement avec une autre coopérative de crédit fédérale conformément à la présente loi.
+
+**Prorogation en vue d’une fusion**
+
+- **(4)** Si des sociétés coopératives de crédit locales ont l’intention d’être prorogées afin de fusionner immédiatement conformément à la présente loi, chacune d’entre elles peut, si les règles de droit en vigueur sur le territoire de sa constitution l’y autorisent, demander au ministre des lettres patentes de prorogation en tant que coopérative de crédit fédérale sous le régime de la présente loi.
+
+**Requête relative à la fusion**
+
+- **(5)** La demande visée aux paragraphes (3) ou (4) est faite au même moment que la requête, relative à la fusion, visée aux paragraphes 223(1.2) ou (1.3).
+> 1991, ch. 46, art. 33; 1994, ch. 24, art. 34(F); 2001, ch. 9, art. 49; 2010, ch. 12, art. 1908; 2014, ch. 39, art. 270.
 
 
 
@@ -1106,6 +1114,10 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 - **(1)** La demande de prorogation est, dans tous les cas, assujettie aux articles 23 à 27, avec les adaptations nécessaires.
 
+**Avis conjoints — prorogation et fusion**
+
+- **(1.1)** S’agissant d’une demande de prorogation faite en vertu des paragraphes 33(3) ou (4), les requérants visés aux paragraphes 223(1.2) ou (1.3) peuvent, aux termes du paragraphe 25(2) et de l’alinéa 228(2)a), publier conjointement les avis qui y sont visés sous la forme d’un seul avis.
+
 **Autorisation par résolution extraordinaire**
 
 - **(2)** La demande de prorogation faite en vertu de l’article 33 doit être auparavant dûment autorisée par résolution extraordinaire.
@@ -1113,7 +1125,11 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 **Copie de la résolution**
 
 - **(3)** Une copie de la résolution extraordinaire doit être jointe à la demande.
-> 1991, ch. 46, art. 34; 2010, ch. 12, art. 1909.
+
+**Prorogation et fusion — résolutions extraordinaires**
+
+- **(4)** S’agissant d’une demande de prorogation faite en vertu des paragraphes 33(3) ou (4), le vote sur la résolution extraordinaire visant à l’autoriser doit avoir lieu au même moment que le vote sur les résolutions extraordinaires visées au paragraphe 226(4).
+> 1991, ch. 46, art. 34; 2010, ch. 12, art. 1909; 2014, ch. 39, art. 271.
 
 
 
@@ -1142,12 +1158,15 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 **Prorogation en vue d’une fusion**
 
-- **(2)** Le ministre peut, sous réserve des autres dispositions de la présente partie, délivrer des lettres patentes prorogeant comme coopérative de crédit fédérale la société coopérative de crédit locale qui en fait la demande aux termes du paragraphe 33(3) s’il estime que la coopérative de crédit fédérale qui sera issue de la fusion se conformera aux exigences en matière de constitution prévues par la présente loi et qu’elle s’est conformée aux règlements relatifs aux exigences de notification et de divulgation.
+- **(2)** Le ministre peut, sous réserve des autres dispositions de la présente partie, délivrer des lettres patentes prorogeant comme coopérative de crédit fédérale la société coopérative de crédit locale qui en fait la demande aux termes des paragraphes 33(3) ou (4) si :
+	- **a)** il estime que la société coopérative de crédit locale s’est conformée aux règlements relatifs aux exigences de notification et de divulgation;
+	- **b)** il estime que la coopérative de crédit fédérale qui sera issue de la fusion se conformera aux exigences en matière de constitution prévues par la présente loi;
+	- **c)** immédiatement après avoir délivré les lettres patentes de prorogation, il délivre des lettres patentes de fusion en vertu du paragraphe 229(1).
 
 **Règlements**
 
 - **(3)** Le gouverneur en conseil peut prendre des règlements relatifs aux exigences de notification et de divulgation visées aux paragraphes (1) et (2).
-> 2010, ch. 12, art. 1911.
+> 2010, ch. 12, art. 1911; 2014, ch. 39, art. 272.
 
 
 
@@ -1173,6 +1192,12 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 **Avis**
 
 - **(2)** Le surintendant fait publier dans la Gazette du Canada un avis de délivrance de lettres patentes de prorogation.
+
+**Avis — prorogation et fusion**
+
+- **(3)** S’agissant de la prorogation demandée en vertu des paragraphes 33(3) ou (4), le surintendant peut faire publier, sous la forme d’un seul avis, l’avis visé au paragraphe (2) et celui visé au paragraphe 229(3) relativement à la fusion. Il peut également inclure dans l’avis tout avis qu’il doit donner en application du paragraphe (2) à l’égard d’autres demandeurs de la fusion.
+> 1991, ch. 46, art. 37; 2014, ch. 39, art. 273.
+
 
 
 
@@ -6126,11 +6151,19 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 - **(1.1)** Sur requête conjointe de plusieurs coopératives de crédit fédérales, le ministre peut délivrer des lettres patentes les fusionnant et les prorogeant en une seule coopérative de crédit fédérale.
 
+**Coopératives de crédit fédérales et locales**
+
+- **(1.2)** Sur requête conjointe d’au moins une coopérative de crédit fédérale et d’au moins une société coopérative de crédit locale ayant demandé, en vertu du paragraphe 33(3), d’être prorogée comme coopérative de crédit fédérale, le ministre peut délivrer des lettres patentes les fusionnant et les prorogeant en une seule coopérative de crédit fédérale.
+
+**Sociétés coopératives de crédit locales**
+
+- **(1.3)** Sur requête conjointe de plusieurs sociétés coopératives de crédit locales ayant demandé, en vertu du paragraphe 33(4), leur prorogation comme coopératives de crédit fédérales, le ministre peut délivrer des lettres patentes les fusionnant et les prorogeant en une seule coopérative de crédit fédérale.
+
 **Réserve**
 
-- **(2)** Par dérogation au paragraphe (1), dans le cas où l’un des requérants est une banque figurant à l’annexe I dans sa version antérieure à l’entrée en vigueur de l’article 184 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md), autre qu’une banque visée par le paragraphe 378(2), le ministre ne peut délivrer les lettres patentes que si la banque issue de la fusion remplit l’une ou l’autre des conditions suivantes :
+- **(2)** Par dérogation au paragraphe (1), dans le cas où l’un des requérants est une banque figurant à l’annexe I dans sa version antérieure à l’entrée en vigueur de l’article 184 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md), autre qu’une banque visée par le paragraphe 378(2), le ministre ne peut délivrer les lettres patentes que si la banque issue de la fusion remplit l’une ou l’autre des conditions suivantes :
 	- **a)** elle est à participation multiple;
-	- **b)** elle est contrôlée par une société de portefeuille bancaire à participation multiple qui, au moment de la présentation de la requête, contrôlait :
+	- **b)** elle est contrôlée par une société de portefeuille bancaire à participation multiple qui, au moment de la présentation de la requête, contrôlait :
 		- **(i)** soit ce requérant,
 		- **(ii)** soit un autre requérant qui est une banque figurant à l’annexe I dans sa version antérieure à l’entrée en vigueur de l’article 184 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md), autre qu’une banque visée par le paragraphe 378(2).
 
@@ -6140,7 +6173,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 	- **a)** soit à participation multiple;
 	- **b)** soit contrôlée, au sens des alinéas 3(1)a) et d), par une banque ou une société de portefeuille bancaire à participation multiple qui contrôlait l’un des requérants au moment de la présentation de la requête;
 	- **c)** soit contrôlée, au sens de l’alinéa 3(1)d), par une société de portefeuille d’assurances à participation multiple, par une institution financière canadienne admissible — autre qu’une banque — , au sens du paragraphe 370(1), ou par une institution étrangère admissible, au sens du même paragraphe, qui contrôlait l’un des requérants au moment de la présentation de la requête.
-> 1991, ch. 46, art. 223; 2001, ch. 9, art. 84; 2007, ch. 6, art. 132; 2010, ch. 12, art. 1997; 2012, ch. 5, art. 8.
+> 1991, ch. 46, art. 223; 2001, ch. 9, art. 84; 2007, ch. 6, art. 132; 2010, ch. 12, art. 1997; 2012, ch. 5, art. 8; 2014, ch. 39, art. 274.
 
 
 
@@ -6187,7 +6220,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **226** 
 
-- **(1)** Le conseil d’administration de chacune des banques ou personnes morales requérantes doit respectivement soumettre la convention de fusion à l’approbation de l’assemblée des actionnaires — ou, dans le cas d’une coopérative de crédit fédérale, de l’assemblée des membres et de l’assemblée des actionnaires, le cas échéant.
+- **(1)** Le conseil d’administration de chacune des banques ou personnes morales requérantes doit respectivement soumettre la convention de fusion à l’approbation de l’assemblée des actionnaires — ou, dans le cas d’une coopérative de crédit fédérale ou d’une société coopérative de crédit locale, de l’assemblée des membres et de l’assemblée des actionnaires, le cas échéant.
 
 **Droit de vote**
 
@@ -6204,7 +6237,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 **Annulation**
 
 - **(5)** Le conseil d’administration de l’une des banques ou personnes morales requérantes peut annuler la convention de fusion, si elle comporte une disposition à cet effet, avant la délivrance des lettres patentes de fusion, malgré son approbation par les actionnaires — ou par les membres et par les actionnaires, le cas échéant — de toutes les banques ou personnes morales requérantes ou de certaines d’entre elles.
-> 1991, ch. 46, art. 226; 2005, ch. 54, art. 48; 2010, ch. 12, art. 2000.
+> 1991, ch. 46, art. 226; 2005, ch. 54, art. 48; 2010, ch. 12, art. 2000; 2014, ch. 39, art. 275.
 
 
 
@@ -6288,6 +6321,10 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 - **(1)** Le ministre peut, sur demande présentée conformément à l’article 228, délivrer des lettres patentes fusionnant et prorogeant les requérants en une seule et même banque.
 
+**Exception**
+
+- **(1.1)** S’agissant de la requête de fusion faite au titre des paragraphes 223(1.2) ou (1.3), le ministre ne peut délivrer les lettres patentes de fusion à moins d’avoir, en vertu du paragraphe 35.1(2), délivré des lettres patentes de prorogation comme coopérative de crédit fédérale à chacun des requérants qui était une société coopérative de crédit locale.
+
 **Lettres patentes**
 
 - **(2)** L’article 28 s’applique, compte tenu des adaptations de circonstance, à la délivrance de lettres patentes de fusion visée au présent article.
@@ -6295,6 +6332,8 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 **Publication d’un avis**
 
 - **(3)** Le surintendant fait publier dans la Gazette du Canada un avis de délivrance des lettres patentes.
+> 1991, ch. 46, art. 229; 2014, ch. 39, art. 276.
+
 
 
 
@@ -6342,7 +6381,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **231** 
 
-- **(1)** Malgré toute disposition contraire de la présente loi ou des règlements, le ministre peut, par arrêté pris sur recommandation du surintendant, autoriser la banque ayant reçu les lettres patentes à :
+- **(1)** Malgré toute disposition contraire de la présente loi ou des règlements, le ministre peut, par arrêté pris sur recommandation du surintendant, autoriser la banque ayant reçu les lettres patentes à :
 	- **a)** exercer une activité commerciale précisée dans l’arrêté interdite par ailleurs par la présente loi mais qu’exerçaient à la date du dépôt de la demande de lettres patentes une ou plusieurs des personnes morales fusionnantes;
 	- **b)** maintenir en circulation les titres de créance que la présente loi n’autorise pas la banque à émettre, dans la mesure où ils étaient déjà en circulation à la date du dépôt de la demande de lettres patentes;
 	- **c)** [Abrogé, 1994, ch. 47, art. 16]
@@ -6352,8 +6391,10 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Durée des exceptions**
 
-- **(2)** L’autorisation accordée en vertu de l’un des alinéas (1)a) à f) doit préciser la période de validité, laquelle ne peut excéder :
-	- **a)** dans les cas visés à l’alinéa (1)a), trente jours à partir de la date de délivrance des lettres patentes ou, lorsque les activités découlent d’ententes existant à la date de délivrance des lettres patentes, la date d’expiration des ententes;
+- **(2)** L’autorisation accordée en vertu de l’un des alinéas (1)a) à f) doit préciser la période de validité, laquelle ne peut excéder :
+	- **a)** dans les cas visés à l’alinéa (1)a), trente jours à partir de la date de délivrance des lettres patentes ou :
+		- **(i)** lorsque l’activité découle d’ententes existant à la date de délivrance des lettres patentes, la date d’expiration de ces ententes,
+		- **(ii)** lorsque la banque est une coopérative de crédit fédérale et qu’un engagement de cesser d’exercer cette activité a été pris en vertu du paragraphe 973.02(1), la date de cessation de cette activité précisée dans l’engagement;
 	- **b)** dans les cas visés à l’alinéa (1)b), dix ans;
 	- **c)** deux ans dans les autres cas.
 
@@ -6363,10 +6404,10 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Réserve**
 
-- **(4)** Le ministre ne peut accorder d’autorisation qui serait encore valable plus de dix ans :
+- **(4)** Le ministre ne peut accorder d’autorisation qui serait encore valable plus de dix ans :
 	- **a)** après la date d’obtention par la banque de l’agrément de fonctionnement dans les cas visés à l’alinéa (1)b), à moins qu’il n’estime, sur la foi d’une déposition sous serment d’un dirigeant de celle-ci, qu’il sera juridiquement impossible à la banque de racheter les titres de créance encore en circulation à l’expiration de ce délai et qui font l’objet de l’autorisation;
 	- **b)** après la date de délivrance des lettres patentes dans les cas visés aux alinéas (1)d) et e).
-> 1991, ch. 46, art. 231; 1994, ch. 47, art. 16; 1997, ch. 15, art. 28; 2007, ch. 6, art. 15.
+> 1991, ch. 46, art. 231; 1994, ch. 47, art. 16; 1997, ch. 15, art. 28; 2007, ch. 6, art. 15; 2014, ch. 39, art. 277.
 
 
 
@@ -14999,10 +15040,10 @@ au moyen d’instruments financiers qui ne peuvent être vendus ni négociés pa
 
 
 
-**Participant**
+**Compensation et règlement des paiements**
 
-**542** Sous réserve de l’article 22.1 de la [Loi sur la compensation et le règlement des paiements](/fr/Lois/Lois%20du%20Canada/1996/ch.%206,%20ann..md), la banque étrangère autorisée peut être un établissement participant d’un système de compensation et de règlement désigné visé à l’article 3 de cette loi.
-> 1991, ch. 46, art. 542; 1996, ch. 6, art. 17; 1999, ch. 28, art. 35.
+**542** Sous réserve de l’article 22.1 de la [Loi sur la compensation et le règlement des paiements](/fr/Lois/Lois%20du%20Canada/1996/ch.%206,%20ann..md), la banque étrangère autorisée peut être un établissement participant d’un système de compensation et de règlement assujetti, au titre du paragraphe 4(1) de cette loi, à la partie I de celle-ci.
+> 1991, ch. 46, art. 542; 1996, ch. 6, art. 17; 1999, ch. 28, art. 35; 2014, ch. 39, art. 375.
 
 
 
