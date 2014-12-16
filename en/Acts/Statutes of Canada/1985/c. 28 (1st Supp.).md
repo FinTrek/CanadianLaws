@@ -172,7 +172,7 @@
 - **(1)** This Act, other than Part IV.1, does not apply in respect of
 	- **(a)** the acquisition of voting shares or other voting interests by any person in the ordinary course of that person’s business as a trader or dealer in securities;
 	- **(b)** the acquisition of voting interests by any person in the ordinary course of a business carried on by that person that consists of providing, in Canada, venture capital on terms and conditions not inconsistent with such terms and conditions as may be fixed by the Minister;
-	- **(c)** the acquisition of control of a Canadian business in connection with the realization of security granted for a loan or other financial assistance and not for any purpose related to the provisions of this Act;
+	- **(c)** the acquisition of control of a Canadian business in connection with the realization of security granted for a loan or other financial assistance and not for any purpose related to the provisions of this Act, if the acquisition is subject to approval under the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md), the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md), the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md) or the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md);
 	- **(d)** the acquisition of control of a Canadian business for the purpose of facilitating its financing and not for any purpose related to the provisions of this Act on the condition that the acquirer divest himself of control within two years after it is acquired or within such longer period as is approved by the Minister;
 	- **(e)** the acquisition of control of a Canadian business by reason of an amalgamation, a merger, a consolidation or a corporate reorganization following which the ultimate direct or indirect control in fact of the Canadian business, through the ownership of voting interests, remains unchanged;
 	- **(f)** the acquisition of control of a Canadian business carried on by an agent of Her Majesty in right of Canada or a province or by a Crown corporation within the meaning of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md);
@@ -184,6 +184,10 @@
 		- **(ii)** a foreign entity that has been approved by order of the Superintendent of Financial Institutions under Part XIII of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md) to insure in Canada risks, on the condition that the gross investment revenue of the company from the Canadian business is included in computing the income of the company under subsection 138(9) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) and the voting interests of the entity carrying on the Canadian business, or the assets used in carrying on the Canadian business, are vested in trust under that Part, or
 		- **(iii)** a corporation incorporated in Canada, all the issued voting shares of which, other than the qualifying voting shares of directors, are owned by an insurance company described in subparagraph (i), a foreign entity described in subparagraph (ii) or by a corporation controlled directly or indirectly through the ownership of voting shares by such an insurance company or foreign entity, on the condition that, in the case of a foreign entity described in subparagraph (ii), the voting interests of the entity carrying on the Canadian business, or the assets used in carrying on the Canadian business, are vested in trust under Part XIII of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md); and
 	- **(k)** the acquisition of control of a Canadian business the revenue of which is generated from farming carried out on the real property acquired in the same transaction.
+
+**Exempt transactions — Part IV**
+
+- **(1.1)** Part IV does not apply in respect of the acquisition of control of a Canadian business in connection with the realization of security granted for a loan or other financial assistance and not for any purpose related to the provisions of this Act, if the acquisition is not subject to approval under the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md), the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md), the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md) or the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md).
 
 **Exempt transactions — Part IV.1**
 
@@ -200,7 +204,7 @@
 **If condition not complied with**
 
 - **(3)** If any condition referred to in paragraph (1)(d) or (j) or (2)(e) is not complied with, the exemption under that paragraph does not apply and the transaction referred to in that paragraph is subject to this Act as if it had never been exempt.
-> R.S., 1985, c. 28 (1st Supp.), s. 10; 1991, c. 46, s. 600, c. 47, s. 735; 2001, c. 9, s. 589; 2007, c. 6, s. 439; 2009, c. 2, s. 447.
+> R.S., 1985, c. 28 (1st Supp.), s. 10; 1991, c. 46, s. 600, c. 47, s. 735; 2001, c. 9, s. 589; 2007, c. 6, s. 439; 2009, c. 2, s. 447; 2014, c. 39, s. 186.
 
 
 
@@ -1132,9 +1136,14 @@ where there is no acquisition of control of any corporation;
 	- **(d)** information the communication or disclosure of which has been authorized in writing by the Canadian or the non-Canadian to which the information relates;
 	- **(e)** information contained in
 		- **(i)** any receipt sent pursuant to subsection 13(1) relating to an investment that is not reviewable pursuant to subsection 13(3),
-		- **(ii)** any notice sent under subsection 21(1) or (9), 22(2) or (4) or 23(1) or (3), or
+		- **(ii)** any notice sent under subsection 21(1) or (9), 22(2) or (4), 23(1) or (3) or 25.2(1), paragraph 25.2(4)(a), subsection 25.3(2), paragraph 25.3(6)(b) or subsection 25.3(7), or
 		- **(iii)** any demand sent by the Minister under section 39, other than a demand sent for the purposes of the administration or enforcement of Part IV.1;
 	- **(e.1)** information contained in reasons given by the Minister for sending a notice under subsection 23(1);
+	- **(e.2)** the fact that an order was made under subsection 25.4(1) and whether the order
+		- **(i)** directed the non-Canadian not to implement the investment that is the subject of the order,
+		- **(ii)** authorized the investment, or
+		- **(iii)** required the non-Canadian to divest themselves of control of the Canadian business, or of their investment in the entity, that is the subject of the order;
+	- **(e.3)** any other information contained in an order made under subsection 25.4(1);
 	- **(f)** information to which a person is otherwise legally entitled;
 	- **(g)** information contained in reasons given by the Minister for any decision taken under subsection 21(1), 22(2) or 23(3); or
 	- **(h)** information relating to the acceptance of security under subsection 19(2).
@@ -1143,6 +1152,10 @@ where there is no acquisition of control of any corporation;
 
 - **(4.1)** The Minister shall inform the Canadian or non-Canadian before communicating or disclosing any financial, commercial, scientific or technical information under paragraph (4)(e.1), (g) or (h), and the Minister shall not communicate or disclose the information if they satisfy the Minister, without delay, that the communication or disclosure would prejudice them.
 
+**Information referred to in paragraph (4)(e.3)**
+
+- **(4.11)** The Minister shall inform the Canadian or non-Canadian before communicating or disclosing any information under paragraph (4)(e.3), and the Minister shall not communicate or disclose the information if they satisfy the Minister, without delay, that the communication or disclosure would prejudice them.
+
 **Communication or disclosure — application**
 
 - **(4.2)** Despite subsection (1), the Minister may communicate or disclose the fact that an application has been filed under this Act, other than Part IV.1, and at what point the investment to which the application relates is in the review process. The Minister shall inform the non-Canadian and, with their consent, the Canadian business before communicating or disclosing such information and the Minister shall not communicate or disclose the information if either of them satisfy the Minister, without delay, that the communication or disclosure would prejudice them.
@@ -1150,7 +1163,7 @@ where there is no acquisition of control of any corporation;
 **Non-disclosure**
 
 - **(5)** No minister of the Crown and no officer or employee of Her Majesty in right of Canada or a province may be required, in connection with any legal proceedings or otherwise, to give evidence relating to or otherwise to communicate or disclose any information referred to in paragraph (4)(b) where, in the opinion of the Minister or a person designated by the Minister, the communication or disclosure of that information is not necessary for any purpose relating to the administration or enforcement of this Act and would prejudicially affect the non-Canadian that gave the written undertaking referred to in that paragraph in the conduct of the business affairs of that non-Canadian.
-> R.S., 1985, c. 28 (1st Supp.), s. 36; 1995, c. 1, s. 50; 2009, c. 2, s. 457; 2012, c. 19, s. 480.
+> R.S., 1985, c. 28 (1st Supp.), s. 36; 1995, c. 1, s. 50; 2009, c. 2, s. 457; 2012, c. 19, s. 480; 2014, c. 39, s. 187.
 
 
 
