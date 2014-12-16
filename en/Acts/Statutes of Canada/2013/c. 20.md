@@ -1055,9 +1055,9 @@ It excludes interests or rights that were received from a person as a gift or le
 
 - **(1)** The following definitions apply in this section.
 
-***appellate court***, in respect of an appeal from a court, means the court exercising appellate jurisdiction with respect to that appeal.
+***appellate court***, in respect of an appeal from a court, means the court exercising appellate jurisdiction with respect to that appeal. (*cour d’appel*)
 
-***competent authority***, in respect of a court in a province, a court established under the laws of a province or an appellate court in a province, means the body, person or group of persons ordinarily competent under the laws of that province to make rules regulating the practice and procedure in that court.
+***competent authority***, in respect of a court in a province, a court established under the laws of a province or an appellate court in a province, means the body, person or group of persons ordinarily competent under the laws of that province to make rules regulating the practice and procedure in that court. (*autorité compétente*)
 
 **Rules**
 
