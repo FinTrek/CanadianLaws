@@ -1045,12 +1045,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **c)** les éléments visés à l’alinéa b) sur lesquels les personnes ou organismes désignés devront ou pourront prendre des décisions ou faire des recommandations;
 - **d)** les conditions qui peuvent ou doivent être, quant aux résidents permanents et aux étrangers, imposées, modifiées ou levées, individuellement ou par catégorie, notamment quant à l’exercice d’une activité professionnelle et d’études;
 - **d.1)** les conditions qui peuvent ou doivent être, quant à toute personne ou entité, notamment des employeurs et des établissements d’enseignement, imposées, modifiées ou levées, individuellement ou par catégorie, relativement aux résidents permanents et aux étrangers;
-- **d.2)** les pouvoirs d’inspection, notamment celui d’exiger la fourniture de tout document pour inspection, à des fins de vérification du respect des conditions imposées en vertu des alinéas d) et d.1);
+- **d.2)** les pouvoirs d’inspection, dont celui d’exiger la fourniture par toute personne ou entité, notamment des employeurs et des établissements d’enseignement, de tout document pour inspection, à des fins de vérification du respect des conditions imposées en vertu des alinéas d) et d.1);
 - **d.3)** les conséquences du non-respect des conditions visées aux alinéas d) et d.1);
 - **d.4)** le régime de sanctions administratives pécuniaires applicable aux cas de non-respect par un employeur de toute condition visée à l’alinéa d.1) et le montant des pénalités imposées au titre de ce régime;
+- **d.5)** l’exigence pour un employeur de fournir, à la personne visée par règlement, les renseignements réglementaires relatifs à l’autorisation pour un étranger d’exercer un emploi au Canada pour cet employeur, ainsi que sur le système électronique au moyen duquel ces renseignements doivent être fournis, les cas où ils peuvent être fournis par tout autre moyen et le moyen en question;
 - **e)** l’obligation de résidence, et les règles de calcul des jours et périodes applicables;
 - **f)** les cas de délivrance, de renouvellement et de révocation de l’attestation de statut et du titre de voyage.
-> 2001, ch. 27, art. 32; 2012, ch. 19, art. 705; 2013, ch. 16, art. 37; 2014, ch. 20, art. 302.
+> 2001, ch. 27, art. 32; 2012, ch. 19, art. 705; 2013, ch. 16, art. 37; 2014, ch. 20, art. 302, ch. 39, art. 309.
 
 
 
@@ -2412,6 +2413,25 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Frais : régime de conformité**
+
+**89.2** 
+
+- **(1)** Les règlements peuvent :
+	- **a)** prévoir les frais à payer à l’égard du régime de conformité applicable aux employeurs relativement à l’emploi par ceux-ci d’étrangers dont l’autorisation d’exercer un emploi au Canada ne requiert pas une évaluation fournie par le ministère de l’Emploi et du Développement social;
+	- **b)** prévoir les cas de dispense de paiement des frais visés à l’alinéa a);
+	- **c)** exiger de l’employeur qu’il paie les frais visés à l’alinéa a) au moyen d’un système électronique;
+	- **d)** régir ce système, les cas où les paiements peuvent être faits par tout autre moyen et le moyen en question.
+
+**[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
+
+- **(2)** La [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux frais visés à l’alinéa (1)a).
+> 2014, ch. 39, art. 312.
+
+
+
+
+
 #### Numéros d’assurance sociale
 
 
@@ -3750,15 +3770,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **150.1** 
 
 - **(1)** Les règlements régissent :
-	- **a)** la collecte, la conservation, l’utilisation, le retrait et la communication de renseignements pour l’application de la présente loi ou de la législation frontalière au sens de l’article 2 de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md);
+	- **a)** la collecte, la conservation, l’utilisation, le retrait et la communication de renseignements, notamment le numéro d’assurance sociale, pour l’application de la présente loi ou de la législation frontalière au sens de l’article 2 de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md);
 	- **b)** en matière de sécurité nationale, de défense du Canada ou de conduite des affaires internationales — y compris la mise en oeuvre d’accords ou d’ententes conclus au titre de l’article 5 ou 5.1 de la [Loi sur le ministère de la Citoyenneté et de l’Immigration](/fr/Lois/Lois%20du%20Canada/1994/ch.%2031.md) ou de l’article 13 de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md) —, la communication de renseignements;
 	- **c)** la communication de renseignements relatifs à la conduite, sur le plan professionnel ou de l’éthique, d’une personne visée à l’un des alinéas 91(2)a) à c) relativement à une demande ou à une instance prévue par la présente loi — à l’exception d’une instance devant une cour supérieure — à l’organisme qui régit la conduite de cette personne ou à l’organisme ou à la personne qui enquête sur cette conduite, et ce en vue d’assurer que la personne visée à l’un ou l’autre de ces alinéas représente ou conseille des personnes, ou offre de le faire, en conformité avec les règles de sa profession et les règles d’éthique relativement à une telle demande ou instance;
-	- **d)** la conservation, l’utilisation, le retrait et la communication par la Gendarmerie royale du Canada de renseignements biométriques et des renseignements personnels qui y sont associés qui lui sont communiqués sous le régime de la présente loi pour le contrôle d’application des lois fédérales ou provinciales.
+	- **d)** la conservation, l’utilisation, le retrait et la communication par la Gendarmerie royale du Canada de renseignements biométriques et des renseignements personnels qui y sont associés qui lui sont communiqués sous le régime de la présente loi pour le contrôle d’application des lois fédérales ou provinciales;
+	- **e)** la communication de renseignements aux fins de coopération entre l’administration publique fédérale et celle d’une province.
 
 **Conditions**
 
 - **(2)** Ces règlements prévoient notamment les conditions relatives à la collecte, la conservation, l’utilisation, le retrait et la communication de renseignements.
-> 2004, ch. 15, art. 72; 2005, ch. 38, art. 119; 2011, ch. 8, art. 4; 2012, ch. 17, art. 47.
+> 2004, ch. 15, art. 72; 2005, ch. 38, art. 119; 2011, ch. 8, art. 4; 2012, ch. 17, art. 47; 2014, ch. 39, art. 313.
 
 
 
