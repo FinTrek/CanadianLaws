@@ -1324,7 +1324,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Definition of amalgamated corporation**
 
-**249** In this Division, ***amalgamated corporation*** means the corporation resulting from the amalgamation after which each of the corporations referred to in paragraphs 252(1)(a) to (d) has been amalgamated with at least one other corporation referred to in subsection 252(1).
+**249** In this Division, ***amalgamated corporation*** means any corporation resulting from an amalgamation referred to in subsection 252(1).
+> 2013, c. 40, s. 249; 2014, c. 39, s. 261.
+
 
 
 
@@ -1336,6 +1338,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Continuance under [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md)**
 
 **250** Despite section 103 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), the directors of the Blue Water Bridge Authority may, under subsection 268(4) of the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md), apply for a certificate of continuance.
+
+
+
+
+**Continuance**
+
+**250.1** Despite subsection 268(8.1) of the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md), sections 6 to 13, 17, 18 and 21.1 of the [Blue Water Bridge Authority Act](/en/Acts/Statutes%20of%20Canada/1964-65/c.%206.md) continue to apply to the Blue Water Bridge Authority after its continuance under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md).
+> 2014, c. 39, s. 262.
+
 
 
 
@@ -1368,21 +1379,27 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Amalgamated corporation an agent**
 
-**253** The amalgamated corporation is an agent of Her Majesty in right of Canada.
+**253** An amalgamated corporation is an agent of Her Majesty in right of Canada.
+> 2013, c. 40, s. 253; 2014, c. 39, ss. 263, 264.
+
 
 
 
 
 **Contracts**
 
-**254** The amalgamated corporation may enter into contracts with Her Majesty as though it were not an agent of Her Majesty.
+**254** An amalgamated corporation may enter into contracts with Her Majesty as though it were not an agent of Her Majesty.
+> 2013, c. 40, s. 254; 2014, c. 39, ss. 263, 264.
+
 
 
 
 
 **Borrowing authorized**
 
-**255** The amalgamated corporation may borrow money otherwise than from the Crown, including by means of the issuance, sale and pledge of bonds, debentures, notes or other evidence of indebtedness, as long as the total principal amount of those borrowings that is outstanding does not exceed $130,000,000 at any time.
+**255** An amalgamated corporation may borrow money otherwise than from the Crown, including by means of the issuance, sale and pledge of bonds, debentures, notes or other evidence of indebtedness, as long as the total principal amount of those borrowings that is outstanding does not exceed $130,000,000 at any time.
+> 2013, c. 40, s. 255; 2014, c. 39, ss. 263, 264.
+
 
 
 
@@ -1391,18 +1408,22 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **256** 
 
-- **(1)** The amalgamated corporation may fix and charge tolls, fees or other charges for the use of a bridge or tunnel that it owns or operates.
+- **(1)** An amalgamated corporation may fix and charge tolls, fees or other charges for the use of a bridge or tunnel that it owns or operates.
 
 **Authorization by amalgamated corporation**
 
-- **(2)** The amalgamated corporation may authorize another person to fix or charge tolls, fees or other charges for the use of such a bridge or tunnel.
+- **(2)** An amalgamated corporation may authorize another person to fix or charge tolls, fees or other charges for the use of such a bridge or tunnel.
+> 2013, c. 40, s. 256; 2014, c. 39, ss. 263, 264.
+
 
 
 
 
 **Auditor**
 
-**257** The Auditor General of Canada is the auditor of the amalgamated corporation.
+**257** The Auditor General of Canada is the auditor of an amalgamated corporation.
+> 2013, c. 40, s. 257; 2014, c. 39, ss. 263, 264.
+
 
 
 
@@ -1410,13 +1431,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **No compensation**
 
 **258** Despite the provisions of any contract, agreement or order, no person who is appointed to hold office as a part-time member of the board of directors of The Federal Bridge Corporation Limited, of a corporation that results from an amalgamation referred to in subsection 252(2) or of Blue Water Bridge Authority has any right to claim or receive any compensation, damages, indemnity or other form of relief from Her Majesty in right of Canada or from any employee or agent of Her Majesty for ceasing to hold that office or for the abolition of that office following any amalgamation referred to in subsection 252(1).
+> 2013, c. 40, s. 258; 2014, c. 39, ss. 263, 264.
+
 
 
 
 
 **[Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md)**
 
-**259** For the purposes of Part I of Schedule III to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), the reference in that Part to The Federal Bridge Corporation Limited is deemed to be a reference to the name of any corporation that results from an amalgamation referred to in subsection 252(1), if that name is “The Federal Bridge Corporation Limited”.
+**259** For the purposes of Part I of Sched­ule III to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), the reference in that Part to The Federal Bridge Corporation Limited is deemed to be a reference to the name of any corporation that results from an amalgamation referred to in subsection 252(1), if that name is “The Federal Bridge Corporation Limited”.
+> 2013, c. 40, s. 259; 2014, c. 39, ss. 263, 264.
+
 
 
 
@@ -1424,6 +1449,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **[Payments in Lieu of Taxes Act](/en/Acts/Revised%20Statutes%20of%20Canada/M/M-13.md)**
 
 **260** For the purposes of Schedule III to the [Payments in Lieu of Taxes Act](/en/Acts/Revised%20Statutes%20of%20Canada/M/M-13.md), the reference in that Schedule to The Federal Bridge Corporation Limited is deemed to be a reference to the name of any corporation that results from an amalgamation referred to in subsection 252(1), if that name is “The Federal Bridge Corporation Limited”.
+> 2013, c. 40, s. 260; 2014, c. 39, ss. 263, 264.
+
 
 
 
@@ -1486,9 +1513,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Order in council**
 
-<sup><a href='#fn_IndE64_hq_13121'>[*]</a></sup>**269** Sections 253 to 263 and 266 to 268 come into force on a day or days to be fixed by order of the Governor in Council.
+<sup><a href='#fn_Ind1A84_hq_15136'>[*]</a></sup>**269** Sections 261 to 263 and 266 to 268 come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_IndE64_hq_13121'><sup>*</sup></a>: [Note: Sections 253 to 263 and 266 to 268 not in force.]<br />
+<a name='fn_Ind1A84_hq_15136'><sup>*</sup></a>: [Note: Sections 261 to 263 and 266 to 268 not in force.]<br />
+> 2013, c. 40, s. 269; 2014, c. 39, s. 265.
+
 
 
 
@@ -1863,7 +1892,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**333** [Amendments]
+**333** 
+
+- **(1)** [Repealed before coming into force, 2014, c. 39, s. 382]
+
+- **(2)** [Amendment]
 
 
 
