@@ -170,18 +170,22 @@
 - **(1)** La présente loi, sauf la partie IV.1, ne s’applique pas aux opérations suivantes :
 	- **a)** l’acquisition d’intérêts — actions ou autres — avec droit de vote par une personne dans le cadre de son activité commerciale normale à titre de courtier en valeurs mobilières;
 	- **b)** l’acquisition d’intérêts avec droit de vote par une personne dans le cadre de son activité commerciale normale à titre de fournisseur au Canada de capital de risque d’une manière conforme aux modalités que peut fixer le ministre;
-	- **c)** l’acquisition du contrôle d’une entreprise canadienne dans le cadre de la réalisation d’une garantie accordée à l’égard d’un prêt ou d’un autre mode d’assistance financière si l’acquisition n’est pas faite dans un but lié à la présente loi;
+	- **c)** l’acquisition du contrôle d’une entreprise canadienne dans le cadre de la réalisation d’une garantie accordée à l’égard d’un prêt ou d’un autre mode d’assistance financière, si l’acquisition n’est pas faite dans un but lié à la présente loi et si elle est assujettie à une approbation en vertu de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md), de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md) ou de la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md);
 	- **d)** l’acquisition du contrôle d’une entreprise canadienne en vue de faciliter son financement si l’acquisition n’est pas faite dans un but lié à la présente loi à condition que l’acquéreur se départisse du contrôle dans les deux ans qui suivent son acquisition ou à l’intérieur du délai plus long que peut approuver le ministre;
 	- **e)** l’acquisition du contrôle d’une entreprise canadienne dans le cadre d’une consolidation, d’une fusion, d’un regroupement ou d’une réorganisation si le contrôle ultime en fait, direct ou indirect — exercé par la propriété d’intérêts avec droit de vote — de l’entreprise canadienne demeure inchangé;
 	- **f)** l’acquisition du contrôle d’une entreprise canadienne exploitée par un mandataire de Sa Majesté du chef du Canada ou d’une province ou par une société d’État au sens de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
 	- **g)** l’acquisition du contrôle d’une entreprise canadienne exploitée par une personne morale dont le revenu imposable est exonéré par l’alinéa 149(1)d) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) du paiement de l’impôt prévu à la partie I de cette loi;
 	- **h)** celles visées par la partie XII.01 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md);
 	- **i)** l’acquisition involontaire du contrôle d’une entreprise canadienne dans le cadre d’une succession ou à la suite de l’application d’une règle de droit;
-	- **j)** l’acquisition du contrôle d’une entreprise canadienne :
+	- **j)** l’acquisition du contrôle d’une entreprise canadienne :
 		- **(i)** soit par une compagnie d’assurance constituée au Canada qui est une société ou une société provinciale régie par la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md) à condition que le revenu brut d’investissement qu’elle retire de l’entreprise canadienne soit ajouté au calcul de son revenu pour l’application du paragraphe 138(9) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md),
 		- **(ii)** soit par l’unité qui est une entité étrangère à laquelle le surintendant des institutions financières a délivré un agrément l’autorisant à garantir au Canada des risques aux termes de la partie XIII de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md), à condition que le revenu brut d’investissement qu’elle retire de l’entreprise canadienne soit ajouté au calcul de son revenu pour l’application du paragraphe 138(9) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) et que les intérêts avec droit de vote de l’unité qui exploite l’entreprise canadienne ou les actifs utilisés dans son exploitation soient placés en fiducie au titre de cette partie,
 		- **(iii)** soit par une personne morale constituée au Canada dont toutes les actions avec droit de vote émises, à l’exception de celles qui sont nécessaires pour conférer à une personne la qualité d’administrateur, sont la propriété d’une compagnie d’assurance visée au sous-alinéa (i) ou d’une entité étrangère visée au sous-alinéa (ii), ou d’une personne morale que l’une ou l’autre contrôle directement ou indirectement en ayant la propriété des actions avec droit de vote, à condition, dans le cas d’une entité étrangère visée au sous-alinéa (ii), que les intérêts avec droit de vote de l’unité qui exploite l’entreprise canadienne ou les actifs utilisés dans son exploitation soient placés en fiducie au titre de la partie XIII de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md);
 	- **k)** l’acquisition du contrôle d’une entreprise canadienne dont le revenu provient de l’exploitation agricole de terres acquises dans le cadre de la même opération.
+
+**Opérations exemptées — partie IV**
+
+- **(1.1)** La partie IV ne s’applique pas à l’acquisition du contrôle d’une entreprise canadienne dans le cadre de la réalisation d’une garantie accordée à l’égard d’un prêt ou d’un autre mode d’assistance financière, si l’acquisition n’est pas faite dans un but lié à la présente loi et si elle n’est pas assujettie à une approbation en vertu de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md), de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md) ou de la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md).
 
 **Opérations exemptées — partie IV.1**
 
@@ -198,7 +202,7 @@
 **Défaut d’observation des conditions**
 
 - **(3)** Si les conditions mentionnées aux alinéas (1)d) ou j) ou (2)e) ne sont pas remplies, l’exemption ne s’applique pas et l’opération demeure assujettie à la présente loi.
-> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 10; 1991, ch. 46, art. 600, ch. 47, art. 735; 2001, ch. 9, art. 589; 2007, ch. 6, art. 439; 2009, ch. 2, art. 447.
+> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 10; 1991, ch. 46, art. 600, ch. 47, art. 735; 2001, ch. 9, art. 589; 2007, ch. 6, art. 439; 2009, ch. 2, art. 447; 2014, ch. 39, art. 186.
 
 
 
@@ -1089,16 +1093,21 @@
 
 **Exception**
 
-- **(4)** Le présent article n’empêche nullement la communication de renseignements dans les cas suivants :
+- **(4)** Le présent article n’empêche nullement la communication de renseignements dans les cas suivants :
 	- **a)** renseignements dans le cadre de procédures judiciaires instituées dans le cadre de l’application de la présente loi;
 	- **b)** renseignements contenus dans un engagement écrit pris envers Sa Majesté du chef du Canada à l’égard d’un investissement au sujet duquel le ministre est d’avis ou est réputé être d’avis qu’il sera vraisemblablement à l’avantage net du Canada;
 	- **c)** renseignements publics;
 	- **d)** renseignements dont la communication a été autorisée par écrit par le Canadien ou le non-Canadien qu’ils visent;
-	- **e)** renseignements contenus dans l’un des documents suivants :
+	- **e)** renseignements contenus dans l’un des documents suivants :
 		- **(i)** accusé de réception envoyé en conformité avec le paragraphe 13(1) à l’égard d’un investissement qui n’est pas sujet à examen en vertu du paragraphe 13(3),
-		- **(ii)** avis mentionné aux paragraphes 21(1) ou (9), 22(2) ou (4) ou 23(1) ou (3),
+		- **(ii)** avis mentionné aux paragraphes 21(1) ou (9), 22(2) ou (4), 23(1) ou (3) ou 25.2(1), à l’alinéa 25.2(4)a), au paragraphe 25.3(2), à l’alinéa 25.3(6)b) ou au paragraphe 25.3(7),
 		- **(iii)** mise en demeure délivrée aux termes de l’article 39, autre que celle délivrée dans le cadre de l’application de la partie IV.1;
 	- **e.1)** renseignements contenus dans les motifs fournis à l’appui de l’avis mentionné au paragraphe 23(1);
+	- **e.2)** le fait qu’un décret a été pris en vertu du paragraphe 25.4(1) et que, selon le cas :
+		- **(i)** il ordonne à l’investisseur non canadien de ne pas effectuer l’investissement qui fait l’objet du décret,
+		- **(ii)** il autorise l’investisseur non canadien à effectuer l’investissement,
+		- **(iii)** il exige que l’investisseur non canadien se départisse du contrôle de l’entreprise canadienne — ou de son investissement dans l’unité — qui fait l’objet du décret;
+	- **e.3)** tout autre renseignement contenu dans un décret pris en vertu du paragraphe 25.4(1);
 	- **f)** renseignements auxquels une personne a autrement droit;
 	- **g)** renseignements contenus dans les motifs fournis, en application de l’article 23.1, à l’appui de toute décision prise au titre des paragraphes 21(1), 22(2) ou 23(3);
 	- **h)** renseignements relatifs à l’acceptation d’une garantie au titre du paragraphe 19(2).
@@ -1107,6 +1116,10 @@
 
 - **(4.1)** Le ministre avise le Canadien ou le non-Canadien avant de communiquer des renseignements financiers, commerciaux, scientifiques ou techniques au titre des alinéas (4)e.1), g) ou h). Il ne peut les communiquer si le Canadien ou le non-Canadien le convainc, sans délai, que la communication lui serait préjudiciable.
 
+**Renseignements visés à l’alinéa (4)e.3)**
+
+- **(4.11)** Le ministre avise le Canadien ou le non-Canadien avant de communiquer des renseignements au titre de l’alinéa (4)e.3). Il ne peut les communiquer si le Canadien ou le non-Canadien le convainc, sans délai, que la communication lui serait préjudiciable.
+
 **Communication permise — demande d’examen**
 
 - **(4.2)** Malgré le paragraphe (1), le ministre peut communiquer le fait qu’il a reçu une demande d’examen au titre de la présente loi, sauf la partie IV.1, et où il en est rendu dans l’examen de l’investissement visé par la demande. Il avise le non-Canadien et, avec le consentement de celui-ci, l’entreprise canadienne avant de communiquer ces renseignements et il ne peut les communiquer si l’un ou l’autre le convainc, sans délai, que la communication lui serait préjudiciable.
@@ -1114,7 +1127,7 @@
 **Privilège**
 
 - **(5)** Nul ministre ou fonctionnaire ou employé de Sa Majesté du chef du Canada ou d’une province n’est tenu, notamment dans le cadre de procédures judiciaires, de témoigner à l’égard de renseignements visés à l’alinéa (4)b) ou de les communiquer d’une autre façon si, de l’avis du ministre ou de son délégué, la communication de ces renseignements n’est pas nécessaire pour l’application de la présente loi et risquerait de nuire aux activités commerciales du non-Canadien qui a pris l’engagement écrit mentionné dans cet alinéa.
-> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 36; 1995, ch. 1, art. 50; 2009, ch. 2, art. 457; 2012, ch. 19, art. 480.
+> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 36; 1995, ch. 1, art. 50; 2009, ch. 2, art. 457; 2012, ch. 19, art. 480; 2014, ch. 39, art. 187.
 
 
 
