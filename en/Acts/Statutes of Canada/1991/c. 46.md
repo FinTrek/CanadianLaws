@@ -1127,10 +1127,18 @@ Schedules I and II shall be amended accordingly.
 
 - **(2)** A body corporate incorporated otherwise than by or under an Act of Parliament may, if so authorized by the laws of the jurisdiction where it is incorporated, apply to the Minister for letters patent continuing the body corporate as a bank under this Act.
 
-**Continuance for the purpose of amalgamation**
+**Continuance for purpose of amalgamation**
 
-- **(3)** A local cooperative credit society may, if so authorized by the laws of the jurisdiction in which it is incorporated, apply to the Minister for letters patent continuing it as a federal credit union if it proposes to be continued under this Act for the purpose of amalgamating with another federal credit union in compliance with this Act.
-> 1991, c. 46, s. 33; 1994, c. 24, s. 34(F); 2001, c. 9, s. 49; 2010, c. 12, s. 1908.
+- **(3)** A local cooperative credit society may, if so authorized by the laws of the jurisdiction in which it is incorporated, apply to the Minister for letters patent continuing it as a federal credit union if it proposes to be continued under this Act for the purpose of immediately amalgamating with another federal credit union in accordance with this Act.
+
+**Continuance for purpose of amalgamation**
+
+- **(4)** Two or more local cooperative credit societies may, if so authorized by the laws of the jurisdiction in which they are incorporated, apply to the Minister for letters patent continuing each of them as a federal credit union if they propose to be continued under this Act for the purpose of immediately amalgamating with each other in accordance with this Act.
+
+**Application for amalgamation required**
+
+- **(5)** An application referred to in subsection (3) or (4) must be made at the same time as an application referred to in subsection 223(1.2) or (1.3) in respect of the amalgamation.
+> 1991, c. 46, s. 33; 1994, c. 24, s. 34(F); 2001, c. 9, s. 49; 2010, c. 12, s. 1908; 2014, c. 39, s. 270.
 
 
 
@@ -1142,6 +1150,10 @@ Schedules I and II shall be amended accordingly.
 
 - **(1)** If a body corporate applies for letters patent under section 33, sections 23 to 27 apply in respect of the application, with any modifications that the circumstances require.
 
+**Joint notice of continuance and amalgamation**
+
+- **(1.1)** In the case of an application made under subsection 33(3) or (4), the applicants referred to in subsection 223(1.2) or (1.3) may, in accordance with subsection 25(2) and paragraph 228(2)(a), jointly publish the notices referred to in those provisions in the form of a single notice.
+
 **Special resolution approval**
 
 - **(2)** If a body corporate applies for letters patent under section 33, the application must be duly authorized by a special resolution.
@@ -1149,7 +1161,11 @@ Schedules I and II shall be amended accordingly.
 **Copy of special resolution**
 
 - **(3)** A copy of the special resolution referred to in subsection (2) shall be filed with the application.
-> 1991, c. 46, s. 34; 2010, c. 12, s. 1909.
+
+**Continuance and amalgamation — special resolutions**
+
+- **(4)** In the case of an application made under subsection 33(3) or (4), the vote on the special resolution must be held at the same time as the vote on the special resolutions referred to in subsection 226(4).
+> 1991, c. 46, s. 34; 2010, c. 12, s. 1909; 2014, c. 39, s. 271.
 
 
 
@@ -1178,14 +1194,15 @@ Schedules I and II shall be amended accordingly.
 
 **Power to issue letters patent**
 
-- **(2)** On the application of a local cooperative credit society under subsection 33(3), the Minister may, subject to this Part, issue letters patent continuing the local cooperative credit society as a federal credit union only if the Minister is of the opinion that
-	- **(a)** the local cooperative credit society has complied with the regulations respecting notice and disclosure requirements; and
-	- **(b)** the federal credit union that results from the amalgamation will satisfy the requirements for incorporation as a federal credit union.
+- **(2)** On the application of a local cooperative credit society under subsection 33(3) or (4), the Minister may, subject to this Part, issue letters patent continuing the local cooperative credit society as a federal credit union only if
+	- **(a)** the Minister is of the opinion that the local cooperative credit society has complied with the regulations respecting notice and disclosure requirements;
+	- **(b)** the Minister is of the opinion that the federal credit union that results from the amalgamation will satisfy the requirements for incorporation as a federal credit union; and
+	- **(c)** the Minister will, immediately after issuing letters patent for the continuance, issue letters patent for the amalgamation under subsection 229(1).
 
 **Regulations**
 
 - **(3)** The Governor in Council may make regulations respecting notice and disclosure requirements for the purpose of subsections (1) and (2).
-> 2010, c. 12, s. 1911.
+> 2010, c. 12, s. 1911; 2014, c. 39, s. 272.
 
 
 
@@ -1211,6 +1228,12 @@ Schedules I and II shall be amended accordingly.
 **Notice of issuance of letters patent**
 
 - **(2)** The Superintendent shall cause to be published in the Canada Gazette a notice of the issuance of letters patent continuing a body corporate as a bank under this Act.
+
+**Notice of continuance and amalgamation**
+
+- **(3)** In the case of a continuance that results from an application made under subsection 33(3) or (4), the Superintendent may publish, in the form of a single notice, the notice referred to subsection (2), the notice required under subsection 229(3) in respect of the amalgamation and any notice required under subsection (2) in respect of other applicants for the amalgamation.
+> 1991, c. 46, s. 37; 2014, c. 39, s. 273.
+
 
 
 
@@ -6216,6 +6239,14 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 
 - **(1.1)** On the joint application of two or more federal credit unions, the Minister may issue letters patent amalgamating and continuing the applicants as one federal credit union.
 
+**Federal credit union and local cooperative credit society**
+
+- **(1.2)** On the joint application of one or more federal credit unions and one or more local cooperative credit societies that have applied under subsection 33(3) to be continued as federal credit unions, the Minister may issue letters patent amalgamating and continuing the applicants as one federal credit union.
+
+**Local cooperative credit societies**
+
+- **(1.3)** On the joint application of two or more local cooperative credit societies that have applied under subsection 33(4) to be continued as federal credit unions, the Minister may issue letters patent amalgamating and continuing the applicants as one federal credit union.
+
 **Restriction**
 
 - **(2)** Despite subsection (1), if one of the applicants is a bank named in Schedule I as that Schedule read immediately before the day section 184 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md) comes into force, other than a bank in respect of which the Minister has specified that subsection 378(1) no longer applies, the Minister shall not issue letters patent referred to in subsection (1) unless
@@ -6230,7 +6261,7 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 	- **(a)** widely held;
 	- **(b)** controlled, within the meaning of paragraphs 3(1)(a) and (d), by a widely held bank, or by a widely held bank holding company, that controlled one of the applicants at the time the application was made; or
 	- **(c)** controlled, within the meaning of paragraph 3(1)(d), by a widely held insurance holding company, or by an eligible Canadian financial institution, as defined in subsection 370(1), other than a bank, or by an eligible foreign institution, as defined in subsection 370(1), that controlled one of the applicants at the time the application was made.
-> 1991, c. 46, s. 223; 2001, c. 9, s. 84; 2007, c. 6, s. 132; 2010, c. 12, s. 1997; 2012, c. 5, s. 8.
+> 1991, c. 46, s. 223; 2001, c. 9, s. 84; 2007, c. 6, s. 132; 2010, c. 12, s. 1997; 2012, c. 5, s. 8; 2014, c. 39, s. 274.
 
 
 
@@ -6277,7 +6308,7 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 
 **226** 
 
-- **(1)** The directors of each applicant must submit an amalgamation agreement for approval to a meeting of the shareholders of the applicant — or, if the applicant is a federal credit union, to a meeting of its members and to a meeting of its shareholders, if any.
+- **(1)** The directors of each applicant must submit an amalgamation agreement for approval to a meeting of the shareholders of the applicant — or, if the applicant is a federal credit union or a local cooperative credit society, to a meeting of its members and to a meeting of its shareholders, if any.
 
 **Right to vote**
 
@@ -6289,12 +6320,12 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 
 **Special resolution**
 
-- **(4)** Subject to subsection (3), an amalgamation agreement is approved when the shareholders of each applicant bank or body corporate have approved the amalgamation by special resolution or, if an applicant bank is a federal credit union, the members and shareholders, if any, have approved the amalgamation by separate special resolutions.
+- **(4)** Subject to subsection (3), an amalgamation agreement is approved when the shareholders of each applicant bank or body corporate have approved the amalgamation by special resolution or, if an applicant is a federal credit union or a local cooperative credit society, the members and shareholders, if any, have approved the amalgamation by separate special resolutions.
 
 **Termination**
 
 - **(5)** An amalgamation agreement may provide that, at any time before the issue of letters patent of amalgamation, the agreement may be terminated by the directors of an applicant even if the agreement has been approved by the shareholders — or the members and shareholders, if any — of all or any of the applicant banks or bodies corporate.
-> 1991, c. 46, s. 226; 2005, c. 54, s. 48; 2010, c. 12, s. 2000.
+> 1991, c. 46, s. 226; 2005, c. 54, s. 48; 2010, c. 12, s. 2000; 2014, c. 39, s. 275.
 
 
 
@@ -6378,6 +6409,10 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 
 - **(1)** Where an application has been made to the Minister in accordance with section 228, the Minister may issue letters patent of amalgamation continuing the applicants as one bank.
 
+**Exception**
+
+- **(1.1)** In the case of an application made under subsection 223(1.2) or (1.3), the Minister shall not issue letters patent of amalgamation unless the Minister has issued, under subsection 35.1(2), letters patent continuing as a federal credit union each applicant that was a local cooperative credit society.
+
 **Letters patent**
 
 - **(2)** Where letters patent are issued pursuant to this section, section 28 applies with such modifications as the circumstances require in respect of the issue of the letters patent.
@@ -6385,6 +6420,8 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 **Publication of notice**
 
 - **(3)** The Superintendent shall cause to be published in the Canada Gazette notice of the issuance of letters patent pursuant to subsection (1).
+> 1991, c. 46, s. 229; 2014, c. 39, s. 276.
+
 
 
 
@@ -6443,7 +6480,9 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 **Duration of exceptions**
 
 - **(2)** The permission granted under any of paragraphs (1)(a) to (f) shall be expressed to be granted for a period specified in the order not exceeding
-	- **(a)** with respect to any matter described in paragraph (1)(a), thirty days after the date of issue of the letters patent or, where the activity is conducted pursuant to an agreement existing on the date of issue of the letters patent, the expiration of the agreement;
+	- **(a)** with respect to any matter described in paragraph (1)(a), 30 days after the date of issue of the letters patent or
+		- **(i)** if the activity is conducted under an agreement existing on the date of issue of the letters patent, the expiry of the agreement, or
+		- **(ii)** if the bank is a federal credit union and an undertaking to cease engaging in the activity has been given under subsection 973.02(1), the cessation date set out in the undertaking in respect of the activity;
 	- **(b)** with respect to any matter described in paragraph (1)(b), ten years; and
 	- **(c)** with respect to any matter described in any of paragraphs (1)(d) to (f), two years.
 
@@ -6456,7 +6495,7 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 - **(4)** The Minister shall not grant to a bank any permission
 	- **(a)** with respect to matters described in paragraph (1)(b), that purports to be effective more than ten years after the date of the approval for the bank to commence and carry on business, unless the Minister is satisfied on the basis of evidence on oath provided by an officer of the bank that the bank will not be able at law to redeem at the end of the ten years the outstanding debt obligations to which the permission relates; and
 	- **(b)** with respect to matters described in paragraphs (1)(d) and (e), that purports to be effective more than ten years after the date of issue of the letters patent.
-> 1991, c. 46, s. 231; 1994, c. 47, s. 16; 1997, c. 15, s. 28; 2007, c. 6, s. 15.
+> 1991, c. 46, s. 231; 1994, c. 47, s. 16; 1997, c. 15, s. 28; 2007, c. 6, s. 15; 2014, c. 39, s. 277.
 
 
 
@@ -15230,8 +15269,8 @@ by means of financial instruments that cannot be subsequently sold or traded; or
 
 **Payment clearing and settlement**
 
-**542** Subject to section 22.1 of the [Payment Clearing and Settlement Act](/en/Acts/Statutes%20of%20Canada/1996/c.%206,%20Sch..md), an authorized foreign bank may be a participant in a designated clearing and settlement system within the meaning of section 3 of that Act.
-> 1991, c. 46, s. 542; 1996, c. 6, s. 17; 1999, c. 28, s. 35.
+**542** Subject to section 22.1 of the [Payment Clearing and Settlement Act](/en/Acts/Statutes%20of%20Canada/1996/c.%206,%20Sch..md), an authorized foreign bank may be a participant in a clearing and settlement system designated under subsection 4(1) of that Act.
+> 1991, c. 46, s. 542; 1996, c. 6, s. 17; 1999, c. 28, s. 35; 2014, c. 39, s. 375.
 
 
 
