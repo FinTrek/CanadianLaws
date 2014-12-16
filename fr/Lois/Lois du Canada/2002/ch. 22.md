@@ -3356,9 +3356,29 @@ où :
 
 
 
-**Produits du tabac façonnés de nouveau ou détruits**
+**Remboursement du droit — produits du tabac détruits**
 
-**181** Le ministre peut rembourser à un titulaire de licence de tabac le droit payé sur un produit du tabac qui est façonné de nouveau ou détruit par le titulaire de licence conformément à l’article 41 si celui-ci en fait la demande dans les deux ans suivant la nouvelle façon ou la destruction du produit.
+**181** 
+
+- **(1)** Le ministre peut rembourser à un titulaire de licence de tabac le droit payé sur un produit du tabac qui est façonné de nouveau ou détruit par le titulaire de licence conformément à l’article 41 si celui-ci en fait la demande dans les deux ans suivant la nouvelle façon ou la destruction du produit.
+
+**Remboursement de la taxe sur les stocks — cigarettes produites au Canada détruites**
+
+- **(2)** Le ministre peut rembourser à un titulaire de licence de tabac la taxe imposée et exigible en vertu de la partie 3.1 sur les cigarettes imposées, au sens de l’article 58.1, si, à la fois :
+	- **a)** le titulaire de licence fournit au ministre une preuve, agréée par celui-ci, des faits que les cigarettes ont été fabriquées au Canada, qu’elles ont été façonnées de nouveau ou détruites par le titulaire de licence conformément à l’article 41 et que, selon le cas :
+		- **(i)** les cigarettes étaient des cigarettes imposées du titulaire de licence et qu’il a payé la taxe,
+		- **(ii)** les cigarettes étaient des cigarettes imposées d’une personne donnée autre que le titulaire de licence, cette personne donnée a payé la taxe et le titulaire de licence a versé à cette personne donnée une somme équivalente à la taxe au titre de cette taxe;
+	- **b)** le titulaire de licence demande le remboursement dans les deux ans après que les cigarettes imposées ont été façonnées de nouveau ou détruites.
+
+**Remboursement de la taxe sur les stocks — cigarettes importées détruites**
+
+- **(3)** Le ministre peut rembourser à une personne donnée la taxe imposée et exigible en vertu de la partie 3.1 sur les cigarettes imposées, au sens de l’article 58.1, si, à la fois :
+	- **a)** la personne donnée fournit au ministre une preuve, agréée par celui-ci, des faits que les cigarettes ont été importées par elle, qu’elle a détruit les cigarettes conformément à la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) ou au [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) et que, selon le cas :
+		- **(i)** les cigarettes étaient des cigarettes imposées de la personne donnée et qu’elle a payé la taxe,
+		- **(ii)** les cigarettes étaient des cigarettes imposées d’une personne autre que la personne donnée, l’autre personne a payé la taxe et la personne donnée a versé à l’autre personne une somme équivalente à la taxe au titre de cette taxe;
+	- **b)** la personne donnée demande le remboursement dans les deux ans suivant la destruction des cigarettes imposées.
+> 2002, ch. 22, art. 181; 2014, ch. 39, art. 100.
+
 
 
 
