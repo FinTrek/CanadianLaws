@@ -74,11 +74,16 @@ For greater certainty, it includes a system or arrangement for the clearing or s
 
 ***participant*** means a member of a clearing house or a party to an arrangement that establishes a clearing and settlement system;
 
-***systemic risk*** means the risk that the inability of a participant to meet its obligations in a clearing and settlement system as they become due or a disruption to a clearing and settlement system could, through the transmittal of financial problems through the system, cause
+***payments system risk*** means the risk that a disruption to or a failure of a clearing and settlement system could cause a significant adverse effect on economic activity in Canada by
+- **(a)** impairing the ability of individuals, businesses or government entities to make payments, or
+- **(b)** producing a general loss of confidence in the overall Canadian payments system, which includes payment instruments, infrastructure, organizations, market arrangements and legal frameworks that allow for the transfer of monetary value.
+
+***systemic risk*** means the risk that the inability of a participant to meet its obligations in a clearing and settlement system as they become due, or a disruption to or a failure of a clearing and settlement system, could, by transmitting financial problems through the system, cause
 - **(a)** other participants in the clearing and settlement system to be unable to meet their obligations as they become due,
-- **(b)** financial institutions in other parts of the Canadian financial system to be unable to meet their obligations as they become due, or
-- **(c)** the clearing and settlement system’s clearing house or the clearing house of another clearing and settlement system within the Canadian financial system to be unable to meet its obligations as they become due.
-> 1996, c. 6, s. 162 (Sch., s. 2); 2007, c. 29, s. 110; 2012, c. 5, s. 213, c. 31, s. 168.
+- **(b)** financial institutions in other parts of the Canadian financial system to be unable to meet their obligations as they become due,
+- **(c)** the clearing and settlement system’s clearing house or the clearing house of another clearing and settlement system within the Canadian financial system to be unable to meet its obligations as they become due, or
+- **(d)** an adverse effect on the stability or integrity of the Canadian financial system.
+> 1996, c. 6, s. 162 (Sch., s. 2); 2007, c. 29, s. 110; 2012, c. 5, s. 213, c. 31, s. 168; 2014, c. 39, s. 360.
 
 
 
@@ -93,45 +98,43 @@ For greater certainty, it includes a system or arrangement for the clearing or s
 
 
 
-**Interpretation**
+**Application**
 
-**3** In this Part, “designated clearing and settlement system” means a clearing and settlement system designated under subsection 4(1).
+**3** This Part applies in respect of clearing and settlement systems designated under subsection 4(1).
+> 1996, c. 6, s. 162 (Sch., s. 3); 2014, c. 39, s. 361.
 
 
 
 
-**Designation by Governor of Bank**
+
+**Designation by Governor**
 
 **4** 
 
-- **(1)** Where the Governor of the Bank is of the opinion that a clearing and settlement system may be operated in such a manner as to pose a systemic risk, the Governor may, if the Minister is of the opinion that it is in the public interest to do so, designate the clearing and settlement system as a clearing and settlement system that is subject to this Part.
+- **(1)** If the Governor of the Bank is of the opinion that a clearing and settlement system could be operated in a manner that poses a systemic risk or payments system risk and the Minister is of the opinion that it is in the public interest to do so, the Governor may designate the clearing and settlement system as a clearing and settlement system that is subject to this Part.
 
 **Revocation**
 
-- **(2)** The Governor of the Bank may revoke a designation if he or she is of the opinion that the designated clearing and settlement system may be operated in a manner that no longer poses a systemic risk and the Minister is of the opinion that revoking the designation is in the public interest.
+- **(2)** If the Governor of the Bank is of the opinion that the designated clearing and settlement system could no longer be operated in a manner that poses a systemic risk or payments system risk and the Minister is of the opinion that it is in the public interest to do so, the Governor may revoke the designation.
 
 **Notice**
 
 - **(3)** If a designation is made or revoked, the Governor of the Bank shall, in writing, so inform in advance the clearing and settlement system’s clearing house and shall cause a copy of the designation or revocation, as the case may be, to be published in the Canada Gazette.
-> 1996, c. 6, s. 162 (Sch., s. 4); 2007, c. 6, s. 441.
+> 1996, c. 6, s. 162 (Sch., s. 4); 2007, c. 6, s. 441; 2014, c. 39, s. 362.
 
 
 
 
 
-### Agreements
+### Information
 
 
 
-**Financial arrangements, etc.**
+**Information to be provided to Bank**
 
-**5** The Bank may enter into an agreement with a clearing house or a participant, or both, in respect of
-- **(a)** netting arrangements;
-- **(b)** risk-sharing and risk-control mechanisms;
-- **(c)** certainty of settlement and finality of payment;
-- **(d)** the nature of financial arrangements among participants;
-- **(e)** the operational systems and financial soundness of the clearing house; and
-- **(f)** such other matters pertaining to systemic risk as may be agreed on by the parties to the agreement.
+**5** A clearing house shall, in respect of the designated clearing and settlement system, provide the Bank with any information that the Bank may request in writing, at any time and in any form and manner that is specified by the Bank.
+> 1996, c. 6, s. 162 (Sch., s. 5); 2014, c. 39, s. 363.
+
 
 
 
@@ -140,43 +143,38 @@ For greater certainty, it includes a system or arrangement for the clearing or s
 
 
 
-**Governor may issue**
+**Directive to clearing house**
 
 **6** 
 
-- **(1)** Where the Governor of the Bank is of the opinion that
-	- **(a)** a clearing house for a designated clearing and settlement system is engaging in or is about to engage in any act, omission or course of conduct,
-	- **(b)** a participant is engaging in or is about to engage in any act, omission or course of conduct with respect to its participation in the designated clearing and settlement system, or
-	- **(c)** the designated clearing and settlement system is operating or is about to operate in a way
-that results or is likely to result in systemic risk being inadequately controlled, the Governor may issue a directive in writing to the clearing house requiring it, within such time as the Governor considers necessary and may specify in the directive, to
-	- **(d)** cease or refrain from engaging in the act, omission or course of conduct or have the participants cease or refrain from engaging in the act, omission or course of conduct, and
-	- **(e)** perform such acts or have the participants perform such acts as in the opinion of the Governor are necessary to remedy the situation.
+- **(1)** The Governor of the Bank may issue a directive in writing to a clearing house of a designated clearing and settlement system that requires the clearing house, within any period that may be specified in the directive, to take — and to have the participants take — any corrective measures that the Governor considers necessary, if the Governor is of the opinion that systemic risk or payments system risk is being or is likely to be inadequately controlled because of
+	- **(a)** the operation of the clearing and settlement system; or
+	- **(b)** any actual or anticipated acts or omissions of the clearing house or of a participant.
 
 **Directive to participants**
 
-- **(2)** Where the Governor of the Bank has formed an opinion under subsection (1) that systemic risk is being inadequately controlled and
-	- **(a)** the clearing house fails to comply with a directive that has been issued to it under that subsection,
-	- **(b)** the designated clearing and settlement system does not have a clearing house located in Canada, or
+- **(2)** The Governor of the Bank may issue a directive in writing to a participant that requires the participant, within any period that may be specified in the directive, to take any corrective measures that the Governor considers necessary if the Governor has formed an opinion referred to in subsection (1) that systemic risk or payments system risk is being inadequately controlled and
+	- **(a)** the clearing house fails to comply with a directive that has been issued to it under subsection (1);
+	- **(b)** the designated clearing and settlement system does not have a clearing house located in Canada; or
 	- **(c)** in the opinion of the Governor,
-		- **(i)** the systemic risk is being inadequately controlled due to an act, omission or course of conduct by a participant with respect to its participation in the designated clearing and settlement system, and
-		- **(ii)** the act, omission or course of conduct is not subject to the by-laws, agreements, rules, procedures, guides or other documentation governing the designated clearing and settlement system,
-the Governor may issue a directive in writing to the participants requiring them, within such time as the Governor considers necessary and may specify in the directive, to
-	- **(d)** cease or refrain from engaging in certain acts, omissions or courses of conduct with respect to their participation in the designated clearing and settlement system, and
-	- **(e)** perform such acts with respect to their participation as the Governor considers necessary to remedy the situation.
+		- **(i)** the risk is being inadequately controlled because of an act or omission by a participant, and
+		- **(ii)** the act or omission is not subject to the by-laws, agreements, rules, procedures, guides or other documentation governing the designated clearing and settlement system.
 
-**Directive limited**
+**Clarification**
 
-- **(3)** For greater certainty, a directive under this section may not be made in respect of
+- **(3)** For greater certainty, a directive issued under this section must not be made in respect of
 	- **(a)** the capital adequacy of a participant;
-	- **(b)** the management of its investments;
-	- **(c)** its corporate governance;
-	- **(d)** its relations with customers who are not themselves participants in the designated clearing and settlement system;
-	- **(e)** its ownership structure; or
-	- **(f)** any other matter that is not directly related to its participation in the designated clearing and settlement system.
+	- **(b)** the management of a participant’s investments;
+	- **(c)** a participant’s corporate governance;
+	- **(d)** a participant’s relations with customers who are not themselves participants in the designated clearing and settlement system;
+	- **(e)** a participant’s ownership structure; or
+	- **(f)** any other matter that is not directly related to a participant’s participation in the designated clearing and settlement system.
 
 **Directive may apply to statutory system**
 
-- **(4)** Subject to the approval of the Minister, a directive, if it so provides, applies to a designated clearing and settlement system that is established by or under a statute.
+- **(4)** Subject to the approval of the Minister, a directive, if it so provides, applies to a designated clearing and settlement system that is established under a statute.
+> 1996, c. 6, s. 162 (Sch., s. 6); 2014, c. 39, s. 364.
+
 
 
 
@@ -233,7 +231,7 @@ the Governor may issue a directive in writing to the participants requiring them
 
 
 
-### Notices and Information
+### Notice of Changes
 
 
 
@@ -252,9 +250,9 @@ the Governor may issue a directive in writing to the participants requiring them
 	- **(a)** the composition of a board of directors of the clearing house due to resignation or otherwise; or
 	- **(b)** the appointed auditor of the clearing house.
 
-**Information to be provided to Bank**
+- **(3)** [Repealed, 2014, c. 39, s. 366]
+> 1996, c. 6, s. 162 (Sch., s. 9); 2014, c. 39, s. 366.
 
-- **(3)** Every clearing house shall, in respect of its designated clearing and settlement system, provide the Bank with such information, at such times and in such form as the Bank may in writing require.
 
 
 
@@ -275,20 +273,7 @@ the Governor may issue a directive in writing to the participants requiring them
 
 
 
-
-### Cost of Regulation
-
-
-
-**Bank may impose fees**
-
-**11** 
-
-- **(1)** The Bank may annually impose a fee on a clearing house in respect of the cost to the Bank for that year of the administration of this Act in respect of the designated clearing and settlement system of the clearing house.
-
-**Recovery of fees**
-
-- **(2)** A fee imposed under subsection (1) constitutes a debt due to the Bank and may be recovered as such in any court of competent jurisdiction.
+**11** [Repealed, 2014, c. 39, s. 367]
 
 
 
@@ -302,12 +287,29 @@ the Governor may issue a directive in writing to the participants requiring them
 
 
 
-**To act as custodian, etc.**
+**Other powers**
 
-**12** The Bank may do all or any of the following things in relation to a clearing and settlement system and its clearing house:
-- **(a)** be a participant and participate in the loss-sharing mechanism;
-- **(b)** act as a custodian of financial assets or act as a settlement agent, or both; and
-- **(c)** notwithstanding section 23 of the [Bank of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-2.md), accept and pay interest on deposits from the clearing house, a participant or the central counter-party.
+**12** The Bank may do all or any of the following:
+- **(a)** be a participant in a clearing and settlement system and participate in its loss-sharing mechanism;
+- **(b)** act as a custodian of financial assets or act as a settlement agent, or both, for a clearing house;
+- **(c)** despite section 23 of the [Bank of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-2.md), accept and pay interest on deposits from a clearing house, participant or central counter-party.
+> 1996, c. 6, s. 162 (Sch., s. 12); 2014, c. 39, s. 368.
+
+
+
+
+
+**Bank may impose fees**
+
+**12.1** 
+
+- **(1)** The Bank may annually impose a fee on a clearing house for the reasonable costs to the Bank of the administration of this Act for that year in respect of the clearing house’s designated clearing and settlement system.
+
+**Recovery of fees**
+
+- **(2)** A fee imposed under subsection (1) constitutes a debt due to the Bank and may be recovered as such in any court of competent jurisdiction.
+> 2014, c. 39, s. 368.
+
 
 
 
@@ -409,6 +411,34 @@ the Governor may issue a directive in writing to the participants requiring them
 
 
 
+### Agreements
+
+
+
+**Clearing house or participant**
+
+**13.2** The Bank may enter into an agreement with a clearing house or a participant, or both, in respect of
+- **(a)** netting arrangements;
+- **(b)** risk-sharing and risk-control mecha­nisms;
+- **(c)** certainty of settlement and finality of payment;
+- **(d)** the nature of financial arrangements among participants;
+- **(e)** the operational systems and financial soundness of the clearing house; and
+- **(f)** any other matters pertaining to systemic risk or payments system risk.
+> 2014, c. 39, s. 369.
+
+
+
+
+
+**Cooperation**
+
+**13.3** The Bank may enter into an agreement or arrangement with any government authority or regulatory body for the purpose of consulting, sharing information and coordinating their actions with respect to clearing and settlement systems.
+> 2014, c. 39, s. 369.
+
+
+
+
+
 ### Information Requirements
 
 
@@ -423,14 +453,16 @@ the Governor may issue a directive in writing to the participants requiring them
 
 - **(2)** Every person to whom a request is directed under subsection (1) shall comply with the request.
 
-**Systemic risk information**
+**Risk information**
 
-- **(3)** Every clearing house shall, in respect of its clearing and settlement system, provide the Bank with such information and documents as the Bank may from time to time require to enable the Bank to determine whether the clearing and settlement system poses a systemic risk and, without limiting the generality of the foregoing, the clearing house shall, in respect of the clearing and settlement system, provide the Bank with
+- **(3)** Every clearing house shall provide the Bank with any information and documents that the Bank may require to enable the Bank to determine whether the clearing and settlement system poses a systemic risk or payments system risk, including
 	- **(a)** the names of its participants;
 	- **(b)** copies of its constating documents, by-laws, resolutions, agreements, rules, procedures and other documents governing its establishment and operation;
 	- **(c)** the names of its directors, committee members and auditors;
-	- **(d)** copies of its reports, statements or other documents that are required to be filed with any government agency or regulatory body; and
+	- **(d)** copies of its reports, statements or other documents that are required to be filed with any government authority or regulatory body; and
 	- **(e)** copies of its financial statements.
+> 1996, c. 6, s. 162 (Sch., s. 14); 2014, c. 39, s. 370.
+
 
 
 
@@ -441,8 +473,17 @@ the Governor may issue a directive in writing to the participants requiring them
 
 **Compliance orders**
 
-**15** If a clearing house or a participant fails to comply with a provision of this Act, with a directive issued to it by the Governor of the Bank in connection with any matter under this Act or with an agreement that it has entered into under section 5, or if a person to whom a request referred to in subsection 14(1) is directed fails to comply with the request, the Bank or the Governor may apply to a superior court for an order directing the clearing house, participant or person, as the case may be, to comply with the provision, directive, agreement or request and, on the application, the court may so order and make any further order it thinks fit.
-> 1996, c. 6, s. 162 (Sch., s. 15); 2012, c. 5, s. 214.
+**15** 
+
+- **(1)** The Bank or the Governor of the Bank may apply to a superior court for an order
+	- **(a)** directing a clearing house or participant to comply with this Act, a directive issued under this Act or an agreement that it has entered into under section 13.2, if the clearing house or participant has failed to comply with this Act, the directive or the agreement, as the case may be;
+	- **(b)** directing a person to comply with a request made under subsection 14(1), if the person has failed to comply with the request; or
+	- **(c)** directing a person to comply with a prohibition or to respect a condition imposed under this Act, if the person has failed to comply with the prohibition or to respect the condition.
+
+**Powers of the court**
+
+- **(2)** The court may make any order referred to in subsection (1) and may also make any further order that it considers appropriate.
+> 1996, c. 6, s. 162 (Sch., s. 15); 2012, c. 5, s. 214; 2014, c. 39, s. 371.
 
 
 
@@ -472,25 +513,28 @@ the Governor may issue a directive in writing to the participants requiring them
 
 
 
-**Information, etc., confidential**
+**Information confidential**
 
 **18** 
 
-- **(1)** Information and documents obtained under this Act are confidential and shall be treated accordingly.
+- **(1)** Information obtained under this Act is confidential and shall be treated accordingly.
 
 **Disclosure permitted**
 
-- **(2)** Nothing in subsection (1) prevents the Bank from disclosing any information or documents
-	- **(a)** to any government agency or regulatory body, charged with the regulation of
+- **(2)** Nothing in subsection (1) prevents the Bank from disclosing any information, if the Bank is satisfied that the information will be treated as confidential by the authority, body or person to which it is disclosed,
+	- **(a)** to any government authority or regulatory body charged with the regulation of
 		- **(i)** financial institutions, as defined in section 2 of the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md), for purposes related to that regulation, or
-		- **(ii)** entities that provide clearing or settlement services in connection with securities transactions or eligible financial contracts, for purposes related to that regulation, and
-	- **(b)** to the Deputy Minister of Finance or any officer of the Department of Finance authorized in writing by the Deputy Minister of Finance or to the Chairperson of the Canada Deposit Insurance Corporation or any officer of that Corporation authorized in writing by the Chairperson,
-if the Bank is satisfied that the information or documents will be treated as confidential by the agency, body or person to whom they are disclosed.
+		- **(ii)** entities that provide clearing or settlement services in connection with securities transactions or eligible financial contracts, for purposes related to that regulation; and
+	- **(b)** to the Deputy Minister of Finance or any officer of the Department of Finance authorized in writing by the Deputy Minister of Finance or to the Chairperson of the Canada Deposit Insurance Corporation or any officer of that Corporation authorized in writing by the Chairperson.
 
 **Disclosure permitted**
 
-- **(3)** Nothing in subsection (1) prevents the Bank from disclosing any information or documents pertaining to a clearing and settlement system that the Bank has designated under subsection 4(1) to any government agency or regulatory body charged with the regulation of systems or arrangements for the clearing or settlement of payment obligations or payment messages, for purposes related to that regulation, if the Bank is satisfied that the information or documents will be treated as confidential by the agency or body to whom they are disclosed.
-> 1996, c. 6, s. 162 (Sch., s. 18); 2012, c. 5, s. 215.
+- **(3)** Nothing in subsection (1) prevents the Bank from disclosing any information regarding a clearing and settlement system that the Bank has designated under subsection 4(1) to any government authority or regulatory body charged with the regulation of systems or arrangements for the clearing or settlement of payment obligations or payment messages, for purposes related to that regulation, if the Bank is satisfied that the information will be treated as confidential by the authority or body to which it is disclosed.
+
+**Disclosure outside Canada**
+
+- **(4)** Before the Bank discloses information to a government authority or regulatory body outside Canada, the Bank shall enter into an arrangement or agreement with the authority or body regarding the terms of the disclosure.
+> 1996, c. 6, s. 162 (Sch., s. 18); 2012, c. 5, s. 215; 2014, c. 39, s. 372.
 
 
 
@@ -557,15 +601,15 @@ in the same manner and to the same extent as if the Canadian participants were t
 
 
 
-**Participation of authorized foreign banks**
+**Foreign participation**
 
 **22.1** 
 
-- **(1)** An authorized foreign bank that is or wishes to be a participant in a designated clearing and settlement system shall, from time to time, provide the Governor of the Bank with any information regarding the application of foreign laws to the authorized foreign bank that the Governor considers necessary.
+- **(1)** An authorized foreign bank or foreign institution that is or wishes to be a participant in a designated clearing and settlement system shall provide the Governor of the Bank with any information regarding the application of foreign laws to the authorized foreign bank or foreign institution that the Governor considers necessary.
 
 **Prohibition or conditions**
 
-- **(2)** If the Governor is of the opinion, on the basis of the information provided under subsection (1) or of any other information that the Governor considers relevant, that the authorized foreign bank’s participation in the designated clearing and settlement system poses, or is likely to pose, a systemic risk or an unacceptable risk to the Bank in guaranteeing settlement of the authorized foreign bank’s obligations, the Governor may prohibit it from being a participant or may require it to comply with the conditions with respect to its participation that the Governor considers necessary.
+- **(2)** The Governor may prohibit the authorized foreign bank or foreign institution from being a participant in the designated clearing and settlement system or may require it to comply with any conditions with respect to its participation that the Governor considers necessary if the Governor is of the opinion, on the basis of the information provided under subsection (1) or of any other information that the Governor considers relevant, that its participation poses, or is likely to pose, a systemic risk or a payments system risk or poses, or is likely to pose, an unacceptable risk to the Bank in guaranteeing settlement of the authorized foreign bank’s or foreign institution’s obligations.
 
 **Powers of Governor of Bank**
 
@@ -577,8 +621,10 @@ in the same manner and to the same extent as if the Canadian participants were t
 
 ***authorized foreign bank*** means an authorized foreign bank within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md).
 
-***designated clearing and settlement system*** has the meaning assigned to that expression by section 3.
-> 1999, c. 28, s. 135.
+***designated clearing and settlement system***[Repealed, 2014, c. 39, s. 373]
+
+***foreign institution*** means a foreign institution within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md).
+> 1999, c. 28, s. 135; 2014, c. 39, s. 373.
 
 
 
