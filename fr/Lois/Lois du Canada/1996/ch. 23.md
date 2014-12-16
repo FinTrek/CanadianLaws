@@ -3180,6 +3180,24 @@ où :
 
 - **(8.96)** Le remboursement prévu au paragraphe (8.94) ne peut excéder 1 000 $.
 
+**Mesure temporaire : remboursement aux petites entreprises de la cotisation patronale pour 2015**
+
+- **(8.97)** Lorsqu’une cotisation patronale pour 2015 est de 15 000 $ ou moins, le ministre rembourse à l’employeur la partie de sa cotisation patronale pour 2015, calculée selon la formule ci-après, qui excède 2 $ :
+```
+RA × 0,28 % × 1,4
+```
+où :
+- **RA** représente l’intégralité de la rémunération assurable versée pour 2015 par l’employeur pour laquelle la cotisation était déductible.
+
+**Mesure temporaire : remboursement aux petites entreprises de la cotisation patronale pour 2016**
+
+- **(8.98)** Lorsqu’une cotisation patronale pour 2016 est de 15 000 $ ou moins, le ministre rembourse à l’employeur la partie de sa cotisation patronale pour 2016, calculée selon la formule ci-après, qui excède 2 $ :
+```
+RA × 0,28 % × 1,4
+```
+où :
+- **RA** représente l’intégralité de la rémunération assurable versée pour 2016 par l’employeur pour laquelle la cotisation était déductible.
+
 **Employeurs associés**
 
 - **(9)** Les employeurs qui sont, à un moment quelconque de l’année pour laquelle un remboursement est demandé, des employeurs associés au sens prévu par règlement sont réputés être un seul employeur pour l’application des paragraphes (6) à (8.4). Le remboursement est réparti entre eux conformément aux règlements.
@@ -3202,8 +3220,8 @@ où :
 
 **Aucun intérêt**
 
-- **(13.1)** Malgré le paragraphe (13), aucun intérêt n’est exigible sur les remboursements versés en vertu des paragraphes (8.7), (8.91) ou (8.94).
-> 1996, ch. 23, art. 96; 1997, ch. 26, art. 90; 1998, ch. 21, art. 104; 2011, ch. 24, art. 160; 2012, ch. 19, art. 615, ch. 31, art. 307; 2013, ch. 40, art. 135.
+- **(13.1)** Malgré le paragraphe (13), aucun intérêt n’est exigible sur les remboursements versés en vertu des paragraphes (8.7), (8.91), (8.94), (8.97) ou (8.98).
+> 1996, ch. 23, art. 96; 1997, ch. 26, art. 90; 1998, ch. 21, art. 104; 2011, ch. 24, art. 160; 2012, ch. 19, art. 615, ch. 31, art. 307; 2013, ch. 40, art. 135; 2014, ch. 39, art. 225.
 
 
 
@@ -3575,6 +3593,15 @@ cette personne est réputée, aux fins de versement des cotisations, être l’e
 
 - **(3)** Le gouverneur en conseil peut, par règlement, préciser les cas où la Commission peut accorder un délai plus long pour présenter la demande visée au paragraphe (1).
 > 1996, ch. 23, art. 112; 1998, ch. 19, art. 270; 1999, ch. 31, art. 81(F); 2002, ch. 8, art. 135; 2012, ch. 19, art. 247.
+
+
+
+
+
+**Décisions ne pouvant être révisées**
+
+**112.1** Les décisions de la Commission rendues en vertu du [Règlement sur l’assurance-emploi](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/332.md) qui concernent la défalcation de pénalités à payer, de sommes dues ou d’intérêts courus sur ces pénalités ou sommes ne peuvent faire l’objet de la révision prévue à l’article 112.
+> 2014, ch. 39, art. 226.
 
 
 
