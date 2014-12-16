@@ -11,7 +11,7 @@ Sanctionnée sur le 20 octobre 2000
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -584,7 +584,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Infraction**
 
-- **(2)** Quiconque contrevient à toute disposition des règlements — sauf une disposition désignée par les règlements pris en vertu de l’alinéa 16(1)y) —, à toute condition d’une licence, d’un permis ou d’une autre autorisation octroyés en vertu des règlements ou des paragraphes 41.1(3) et (4) ou à tout ordre donné par le directeur, les gardes de parc ou les agents de l’autorité en vertu de ces mêmes paragraphes, commet une infraction et est passible :
+- **(2)** Quiconque contrevient à toute disposition des règlements — sauf une disposition désignée par les règlements pris en vertu de l’alinéa 16(1)y) —, à toute condition d’une licence, d’un permis ou d’une autre autorisation octroyés en vertu des règlements ou des paragraphes 41.1(3) ou (4) ou 41.4(2) ou (3) ou à tout ordre donné par le directeur, les gardes de parc ou les agents de l’autorité en vertu de ces mêmes paragraphes commet une infraction et est passible :
 	- **a)** sur déclaration de culpabilité par mise en accusation :
 		- **(i)** s’il s’agit d’une personne physique :
 			- **(A)** pour une première infraction, d’une amende maximale de 100 000 $,
@@ -605,7 +605,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 		- **(iii)** s’il s’agit d’une personne morale que le tribunal déclare personne morale à revenus modestes en vertu de l’article 27.1 :
 			- **(A)** pour une première infraction, d’une amende maximale de 50 000 $,
 			- **(B)** en cas de récidive, d’une amende maximale de 100 000 $.
-> 2000, ch. 32, art. 24; 2009, ch. 14, art. 33, ch. 17, art. 3 et 12.
+> 2000, ch. 32, art. 24; 2009, ch. 14, art. 33, ch. 17, art. 3 et 12; 2014, ch. 35, art. 2.
 
 
 
@@ -1192,8 +1192,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Application de la présente loi**
 
-**39** Sous réserve des articles 40 à 41.3, la présente loi s’applique aux réserves comme s’il s’agissait de parcs.
-> 2000, ch. 32, art. 39; 2009, ch. 17, art. 6; 2013, ch. 28, art. 2.
+**39** Sous réserve des articles 40 à 41.4, la présente loi s’applique aux réserves comme s’il s’agissait de parcs.
+> 2000, ch. 32, art. 39; 2009, ch. 17, art. 6; 2013, ch. 28, art. 2; 2014, ch. 35, art. 3.
 
 
 
@@ -1245,7 +1245,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Permis d’utilisation des eaux**
 
-- **(4)** Le ministre peut délivrer, modifier, renouveler, suspendre ou annuler tout permis — ou en autoriser la cession — pour l’utilisation des eaux situées dans l’aire d’agrandissement pour les besoins prévus au paragraphe (2). À cette fin, les paragraphes 31(3) et 72.03(1), (6) et (7), les articles 72.04, 72.1, 72.11, 72.13 et 72.15, les paragraphes 85(1) et (2) et les articles 85.1 à 85.3, 86.1 à 87, 89 et 93.2 de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md) et ses règlements — et, jusqu’à ce qu’il soit modifié ou abrogé par un règlement pris sous cette loi, le Règlement sur les eaux des Territoires du Nord-Ouest — s’appliquent avec les adaptations nécessaires, la mention, dans ces dispositions, du ministre fédéral ou de l’Office valant mention du ministre responsable de l’Agence Parcs Canada et celle de l’inspecteur valant mention du directeur, des gardes de parc ou des agents de l’autorité désignés pour l’application du présent paragraphe.
+- **(4)** Le ministre peut délivrer, modifier, renouveler, suspendre ou annuler tout permis pour l’utilisation des eaux situées dans l’aire d’agrandissement pour les besoins prévus au paragraphe (2) — ou peut en autoriser la cession. À cette fin, les paragraphes 31(3) et 72.03(1), (5) et (6), les articles 72.04, 72.1, 72.11, 72.12 et 72.14, les paragraphes 85(1) et (2) et les articles 85.1 à 85.3, 86.1 à 87, 89 et 93.2 de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md) et ses règlements s’appliquent avec les adaptations nécessaires, la mention, dans ces dispositions, du ministre fédéral ou d’un office valant mention du ministre responsable de l’Agence Parcs Canada et celle de l’inspecteur valant mention du directeur, des gardes de parc ou des agents de l’autorité désignés pour l’application du présent paragraphe.
 
 **Permis de pourvoirie**
 
@@ -1277,7 +1277,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application au parc**
 
 - **(10)** Lorsque tout ou partie des terres domaniales situées dans l’aire d’agrandissement deviennent un parc ou sont intégrées à un parc, le présent article continue de s’appliquer à ces terres, avec les adaptations nécessaires.
-> 2009, ch. 17, art. 7; 2014, ch. 2, art. 50.
+> 2009, ch. 17, art. 7; 2014, ch. 2, art. 50, ch. 35, art. 4.
 
 
 
@@ -1302,6 +1302,51 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **41.3** La présente loi n’a pas pour effet d’empêcher que soit menée dans la réserve à vocation de parc national de l’Île-de-Sable du Canada une activité autorisée par l’Office Canada — Nouvelle-Écosse des hydrocarbures extracôtiers en vertu de la [Loi de mise en oeuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers](/fr/Lois/Lois%20du%20Canada/1988/ch.%2028.md); aucune autorisation additionnelle en vertu de la présente loi n’est requise pour une telle activité.
 > 2013, ch. 28, art. 3.
+
+
+
+
+
+**Pouvoirs du ministre — réserve à vocation de parc national Nááts’ihch’oh du Canada**
+
+**41.4** 
+
+- **(1)** Le ministre peut louer les terres domaniales situées dans la réserve à vocation de parc national Nááts’ihch’oh du Canada — ou délivrer des permis d’occupation ou des servitudes à leur égard — pour les besoins suivants :
+	- **a)** une route d’accès à la mine, y compris les emplacements d’entreposage ou autres installations se rapportant à la route, dans le corridor existant reliant Tungsten à Howard’s Pass et toute modification de celui-ci;
+	- **b)** une route d’accès à la mine menant de la route visée à l’alinéa a) aux concessions minières de la région de Lened Creek qui existent à la date d’entrée en vigueur du présent article.
+
+**Permis d’utilisation des terres**
+
+- **(2)** Le ministre peut délivrer, modifier, renouveler, suspendre ou annuler tout permis ou toute autorisation d’utiliser des terres domaniales situées dans la réserve à vocation de parc national Nááts’ihch’oh du Canada pour les besoins prévus au paragraphe (1) — ou peut en autoriser la cession. À cette fin, le paragraphe 31(3) et les articles 59, 62, 71 et 85 à 87 de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md) et ses règlements, sauf ceux relatifs aux délais et aux enquêtes publiques, s’appliquent avec les adaptations nécessaires, la mention, dans ces dispositions, du ministre fédéral ou d’un office valant mention du ministre responsable de l’Agence Parcs Canada et celle de l’inspecteur valant mention du directeur, des gardes de parc ou des agents de l’autorité désignés pour l’application du présent paragraphe.
+
+**Permis d’utilisation des eaux**
+
+- **(3)** Le ministre peut délivrer, modifier, renouveler, suspendre ou annuler tout permis pour l’utilisation des eaux situées dans la réserve à vocation de parc national Nááts’ihch’oh du Canada pour les besoins prévus au paragraphe (1) — ou peut en autoriser la cession. À cette fin, les paragraphes 31(3) et 72.03(1), (5) et (6), les articles 72.04, 72.1, 72.11, 72.12 et 72.14, les paragraphes 85(1) et (2) et les articles 85.1 à 85.3, 86.1 à 87, 89 et 93.2 de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md) et ses règlements s’appliquent avec les adaptations nécessaires, la mention, dans ces dispositions, du ministre fédéral ou d’un office valant mention du ministre responsable de l’Agence Parcs Canada et celle de l’inspecteur valant mention du directeur, des gardes de parc ou des agents de l’autorité désignés pour l’application du présent paragraphe.
+
+**Permis et autorisations existants**
+
+- **(4)** Tout permis ou toute autorisation d’utilisation des terres ou d’utilisation des eaux délivré sous le régime de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md), ainsi que tout permis pour l’utilisation des eaux délivré sous le régime de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md), en cours de validité à l’égard des terres domaniales situées dans la réserve à vocation de parc national Nááts’ihch’oh du Canada à l’entrée en vigueur du présent article reste valide dans les limites des modalités qui y sont prévues.
+
+**Permis et autorisations réputés délivrés**
+
+- **(5)** Pour l’application de la présente loi, les permis ou autorisations d’utilisation des terres visés au paragraphe (4) sont réputés avoir été délivrés en vertu du paragraphe (2) et les permis d’utilisation des eaux visés au paragraphe (4) sont réputés avoir été délivrés en vertu du paragraphe (3).
+
+**Prorogation : baux, servitudes et permis d’occupation**
+
+- **(6)** Les baux, servitudes et permis d’occupation actuels concernant des terres domaniales situées dans la réserve à vocation de parc national Nááts’ihch’oh du Canada demeurent en vigueur pour l’application de la présente loi, conformément à leurs modalités; celles-ci l’emportent sur les dispositions incompatibles de la présente loi.
+
+**Renouvellement : baux et permis d’occupation**
+
+- **(7)** Ces baux et permis d’occupation peuvent être renouvelés si leurs modalités le permettent. Dans le cas contraire, ils peuvent être renouvelés conformément à la présente loi.
+
+**Création d’un parc**
+
+- **(8)** Pour l’application des paragraphes 5(1) et 6(2), les baux, servitudes, permis d’occupation ou permis ou autorisations d’utilisation des terres ou des eaux concernant des terres domaniales situées dans la réserve à vocation de parc national Nááts’ihch’oh du Canada sont réputés ne pas être des charges et ne pas avoir d’incidence sur le titre mais, dans le cas où ces terres deviennent un parc, restent valides dans les limites des modalités qui y sont prévues.
+
+**Application au parc**
+
+- **(9)** Lorsque tout ou partie des terres domaniales situées dans la réserve à vocation de parc national Nááts’ihch’oh du Canada deviennent un parc, le présent article continue de s’appliquer à ces terres, avec les adaptations nécessaires.
+> 2014, ch. 35, art. 5.
 
 
 
@@ -6690,6 +6735,523 @@ Excepté également les parties de ladite parcelle transférées au parc nationa
 
 
 
+### Réserve à vocation de parc national Nááts’ihch’oh du Canada
+
+
+Dans les Territoires du Nord-Ouest;
+
+
+
+Toutes les parties I et II décrites comme suit :
+
+
+
+**Partie I** 
+
+
+Commençant au point d’intersection de la limite entre le territoire du Yukon et les Territoires du Nord-Ouest avec la limite sud de la région visée par le règlement du Sahtu (décrite dans l’Entente sur la revendication territoriale globale des Dénés et Métis du Sahtu, volume 1, annexe A) à environ 62°06′39″ de latitude nord et à environ 129°10′00″ de longitude ouest;
+
+
+
+De là, vers le nord-est le long de la limite sud de la région visée par le règlement du Sahtu jusqu’à un point sur la limite sud de la région visée par le règlement du Sahtu à 62°09′40″ de latitude nord et à environ 129°00′36″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 62°11′49″ de latitude nord et à 129°05′10″ de longitude ouest;
+
+
+
+De là, vers le nord-est en ligne droite jusqu’à un point à 62°15′47″ de latitude nord et à 129°04′05″ de longitude ouest;
+
+
+
+De là, vers le nord-est en ligne droite jusqu’à un point à 62°18′00″ de latitude nord et à 128°56′38″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point à 62°17′28″ de latitude nord et à 128°54′04″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point sur la limite sud de la région visée par le règlement du Sahtu à 128°48′29″ de longitude ouest et à environ 62°13′30″ de latitude nord;
+
+
+
+De là, vers le nord-est le long de la limite sud de la région visée par le règlement du Sahtu jusqu’à un point sur la limite sud de la région visée par le règlement du Sahtu à 128°36′58″ de longitude ouest et à environ 62°17′06″ de latitude nord;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 62°20′10″ de latitude nord et à 128°42′25″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 62°23′38″ de latitude nord et à 128°56′10″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point à 62°20′20″ de latitude nord et à 129°02′28″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 62°22′52″ de latitude nord et à 129°04′55″ de longitude ouest;
+
+
+
+De là, vers l’ouest en ligne droite jusqu’à un point à 62°23′02″ de latitude nord et à 129°12′50″ de longitude ouest;
+
+
+
+De là, vers le sud en ligne droite jusqu’à l’intersection de 62°22′13″ de latitude nord avec la limite entre le territoire du Yukon et les Territoires du Nord-Ouest à environ 129°13′08″ de longitude ouest;
+
+
+
+De là, généralement vers le sud le long de la limite entre le territoire du Yukon et les Territoires du Nord-Ouest jusqu’au point de commencement.
+
+
+
+La parcelle décrite à la Partie I ayant une superficie d’environ 515 kilomètres carrés.
+
+
+
+Toutes les coordonnées inscrites à la Partie I se rapportent au Système de référence géodésique de l’Amérique du Nord, 1983, Système canadien de référence spatiale (NAD83 SCRS). Par « ligne droite », on entend une ligne joignant deux points sans interruption sur une surface plane selon la projection de Mercator transverse universelle (UTM) du NAD83.
+
+
+
+**Partie II** 
+
+
+Commençant au point d’intersection de la limite entre le territoire du Yukon et les Territoires du Nord-Ouest avec 62°45′32″ de latitude nord, à environ 129°38′15″ de longitude ouest;
+
+
+
+De là, vers l’est en ligne droite jusqu’à un point à 62°45′18″ de latitude nord et à 129°32′13″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point à 62°43′44″ de latitude nord et à 129°30′18″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point à 62°43′01″ de latitude nord et à 129°28′52″ de longitude ouest;
+
+
+
+De là, vers l’est en ligne droite jusqu’à un point à 62°42′50″ de latitude nord et à 129°26′46″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point à 62°40′34″ de latitude nord et à 129°21′25″ de longitude ouest;
+
+
+
+De là, vers l’est en ligne droite jusqu’à un point à 62°40′23″ de latitude nord et à 129°18′11″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point à 62°38′06″ de latitude nord et à 129°16′01″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point à 62°35′20″ de latitude nord et à 129°12′00″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point à 62°34′48″ de latitude nord et à 129°04′30″ de longitude ouest;
+
+
+
+De là, vers l’est en ligne droite jusqu’à un point à 62°34′52″ de latitude nord et à 128°58′55″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point à 62°33′25″ de latitude nord et à 128°55′05″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point à 62°31′59″ de latitude nord et à 128°52′59″ de longitude ouest;
+
+
+
+De là, vers l’est en ligne droite jusqu’à un point à 62°31′48″ de latitude nord et à 128°51′00″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point à 62°27′32″ de latitude nord et à 128°44′42″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point à 62°27′04″ de latitude nord et à 128°38′56″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point à 62°25′34″ de latitude nord et à 128°30′32″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point sur la limite sud de la région visée par le règlement du Sahtu à 128°21′47″ de longitude ouest et à environ 62°21′49″ de latitude nord;
+
+
+
+De là, vers le nord-est le long de la limite sud de la région visée par le règlement du Sahtu jusqu’à un point à 127°23′09″ de longitude ouest et à environ 62°37′00″ de latitude nord;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 62°38′56″ de latitude nord et à 127°28′34″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 62°39′18″ de latitude nord et à 127°30′18″ de longitude ouest;
+
+
+
+De là, vers le nord en ligne droite jusqu’à un point à 62°40′48″ de latitude nord et à 127°30′22″ de longitude ouest;
+
+
+
+De là, vers le nord-est en ligne droite jusqu’à un point à 62°42′25″ de latitude nord et à 127°28′01″ de longitude ouest;
+
+
+
+De là, vers le nord-est en ligne droite jusqu’à un point à 62°43′12″ de latitude nord et à 127°27′29″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 62°43′52″ de latitude nord et à 127°28′55″ de longitude ouest;
+
+
+
+De là, vers l’ouest en ligne droite jusqu’à un point à 62°44′02″ de latitude nord et à 127°31′05″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point à 62°43′23″ de latitude nord et à 127°35′31″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 62°44′46″ de latitude nord et à 127°36′25″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 62°45′43″ de latitude nord et à 127°37′37″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 62°46′23″ de latitude nord et à 127°39′00″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 62°49′26″ de latitude nord et à 127°39′54″ de longitude ouest;
+
+
+
+De là, vers le nord en ligne droite jusqu’à un point à 62°51′12″ de latitude nord et à 127°39′28″ de longitude ouest;
+
+
+
+De là, vers l’ouest en ligne droite jusqu’à un point à 62°50′56″ de latitude nord et à 127°46′29″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 62°53′07″ de latitude nord et à 127°52′51″ de longitude ouest;
+
+
+
+De là, vers le nord-est en ligne droite jusqu’à un point à 62°54′55″ de latitude nord et à 127°52′03″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 62°56′05″ de latitude nord et à 127°55′31″ de longitude ouest;
+
+
+
+De là, vers le nord-est en ligne droite jusqu’à un point à 62°57′44″ de latitude nord et à 127°53′49″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 62°59′02″ de latitude nord et à 127°56′54″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 63°00′07″ de latitude nord et à 127°57′38″ de longitude ouest;
+
+
+
+De là, vers l’ouest en ligne droite jusqu’à un point à 62°59′56″ de latitude nord et à 128°02′42″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 63°01′44″ de latitude nord et à 128°09′07″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 63°02′02″ de latitude nord et à 128°11′10″ de longitude ouest;
+
+
+
+De là, vers l’ouest en ligne droite jusqu’à un point à 63°02′02″ de latitude nord et à 128°14′31″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point à 63°01′16″ de latitude nord et à 128°16′08″ de longitude ouest;
+
+
+
+De là, vers l’ouest en ligne droite jusqu’à un point à 63°01′12″ de latitude nord et à 128°18′47″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 63°01′52″ de latitude nord et à 128°21′29″ de longitude ouest;
+
+
+
+De là, vers l’ouest en ligne droite jusqu’à un point à 63°01′05″ de latitude nord et à 128°33′36″ de longitude ouest;
+
+
+
+De là, vers le sud en ligne droite jusqu’à un point à 62°59′53″ de latitude nord et à 128°33′29″ de longitude ouest;
+
+
+
+De là, vers le sud en ligne droite jusqu’à un point à 62°57′25″ de latitude nord et à 128°32′35″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point à 62°54′22″ de latitude nord et à 128°29′28″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point à 62°52′16″ de latitude nord et à 128°28′08″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point à 62°51′29″ de latitude nord et à 128°29′31″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point à 62°50′24″ de latitude nord et à 128°27′22″ de longitude ouest;
+
+
+
+De là, vers le sud en ligne droite jusqu’à un point à 62°44′42″ de latitude nord et à 128°25′44″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point à 62°43′01″ de latitude nord et à 128°33′18″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 62°43′37″ de latitude nord et à 128°43′34″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point à 62°41′10″ de latitude nord et à 128°45′29″ de longitude ouest;
+
+
+
+De là, vers l’ouest en ligne droite jusqu’à un point à 62°40′34″ de latitude nord et à 128°51′40″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 62°44′46″ de latitude nord et à 128°55′55″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 62°46′26″ de latitude nord et à 128°59′17″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 62°48′32″ de latitude nord et à 129°04′59″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 62°51′25″ de latitude nord et à 129°06′04″ de longitude ouest;
+
+
+
+De là, vers le nord-est en ligne droite jusqu’à un point à 62°55′52″ de latitude nord et à 129°04′23″ de longitude ouest;
+
+
+
+De là, vers le nord-est en ligne droite jusqu’à un point à 62°56′15″ de latitude nord et à 129°02′54″ de longitude ouest;
+
+
+
+De là, vers le nord-est en ligne droite jusqu’à un point à 62°58′43″ de latitude nord et à 129°01′19″ de longitude ouest;
+
+
+
+De là, vers le nord en ligne droite jusqu’à un point à 62°59′10″ de latitude nord et à 129°01′20″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 62°59′15″ de latitude nord et à 129°01′26″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point à 62°59′14″ de latitude nord et à 129°01′43″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 62°59′15″ de latitude nord et à 129°02′05″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point à 62°59′12″ de latitude nord et à 129°02′16″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 62°59′22″ de latitude nord et à 129°02′19″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 62°59′25″ de latitude nord et à 129°02′29″ de longitude ouest;
+
+
+
+De là, vers le nord en ligne droite jusqu’à un point à 62°59′34″ de latitude nord et à 129°02′30″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à l’intersection de la laisse de hautes eaux ordinaires du lac O’Grady avec 129°02′44″ de longitude ouest, à environ 62°59′38″ de latitude nord;
+
+
+
+De là, généralement vers l’ouest le long de ladite laisse de hautes eaux ordinaires jusqu’à l’intersection avec 129°03′11″ de longitude ouest, à environ 62°59′37″ de latitude nord;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à l’intersection de la laisse de hautes eaux ordinaires d’une île sans nom du lac O’Grady avec 129°03′29″ de longitude ouest, à environ 62°59′40″ de latitude nord;
+
+
+
+De là, généralement vers le nord-ouest le long de la laisse de hautes eaux ordinaires de ladite île jusqu’à l’intersection avec 129°03′42″ de longitude ouest, à environ 62°59′49″ de latitude nord;
+
+
+
+De là, vers l’ouest en ligne droite jusqu’à un point à 62°59′49″ de latitude nord et à 129°04′01″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point à 62°59′44″ de latitude nord et à 129°04′10″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point à 62°59′32″ de latitude nord et à 129°04′20″ de longitude ouest;
+
+
+
+De là, vers le sud-est en ligne droite jusqu’à un point à 62°59′25″ de latitude nord et à 129°04′13″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point à 62°59′21″ de latitude nord et à 129°04′30″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point à 62°58′59″ de latitude nord et à 129°05′08″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 62°59′01″ de latitude nord et à 129°05′21″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point à 62°58′49″ de latitude nord et à 129°05′45″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 62°58′53″ de latitude nord et à 129°06′20″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point à 62°58′51″ de latitude nord et à 129°06′31″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point à 62°58′47″ de latitude nord et à 129°06′39″ de longitude ouest;
+
+
+
+De là, vers l’ouest en ligne droite jusqu’à un point à 62°58′47″ de latitude nord et à 129°06′54″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 62°58′55″ de latitude nord et à 129°07′04″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à l’intersection avec la laisse de hautes eaux ordinaires du lac O’Grady avec 62°58′54″ de latitude nord, à environ 129°07′10″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point à 62°57′55″ de latitude nord et à 129°09′18″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point à 62°57′49″ de latitude nord et à 129°10′33″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point à 62°57′25″ de latitude nord et à 129°12′04″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point à 62°57′14″ de latitude nord et à 129°13′59″ de longitude ouest;
+
+
+
+De là, vers l’ouest en ligne droite jusqu’à un point à 62°57′11″ de latitude nord et à 129°16′05″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point à 62°56′50″ de latitude nord et à 129°16′46″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 62°56′56″ de latitude nord et à 129°17′52″ de longitude ouest;
+
+
+
+De là, vers le sud-ouest en ligne droite jusqu’à un point à 62°55′44″ de latitude nord et à 129°22′12″ de longitude ouest;
+
+
+
+De là, vers l’ouest en ligne droite jusqu’à un point à 62°55′37″ de latitude nord et à 129°26′13″de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 62°56′02″ de latitude nord et à 129°29′56″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 62°56′35″ de latitude nord et à 129°32′53″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 62°57′07″ de latitude nord et à 129°34′16″ de longitude ouest;
+
+
+
+De là, vers le nord-ouest en ligne droite jusqu’à un point à 62°58′08″ de latitude nord et à 129°35′56″ de longitude ouest;
+
+
+
+De là, vers l’ouest en ligne droite jusqu’à l’intersection de la limite entre le territoire du Yukon et les Territoires du Nord-Ouest avec 62°58′18″ de latitude nord à environ 129°39′52″ de longitude ouest;
+
+
+
+De là, généralement vers le sud en suivant la limite entre le territoire du Yukon et les Territoires du Nord-Ouest jusqu’au point de commencement.
+
+
+
+La parcelle décrite à la Partie II ayant une superficie d’environ 4 380 kilomètres carrés.
+
+
+
+Toutes les coordonnées inscrites à la Partie II se rapportent au Système de référence géodésique de l’Amérique du Nord, 1983, Système canadien de référence spatiale (NAD83 SCRS). Par « ligne droite », on entend une ligne joignant deux points sans interruption sur une surface plane selon la projection de Mercator transverse universelle (UTM) du NAD83.
+
+
+
 ### Réserve à vocation de parc national Nahanni du Canada
 
 
@@ -9294,7 +9856,7 @@ L’ensemble de l’île de Sable, située près des coordonnées géographiques
 La parcelle de terre ayant une superficie d’environ trente kilomètres carrés.
 
 
-> 2000, ch. 32, ann. 2; 2002, ch. 7, art. 107(A); 2004, ch. 20, art. 2; 2005, ch. 27, art. 17; 2008, ch. 2, art. 14; 2009, ch. 17, art. 8 et 9; DORS/2010-182; 2013, ch. 28, art. 4; 2014, ch. 2, art. 51.
+> 2000, ch. 32, ann. 2; 2002, ch. 7, art. 107(A); 2004, ch. 20, art. 2; 2005, ch. 27, art. 17; 2008, ch. 2, art. 14; 2009, ch. 17, art. 8 et 9; DORS/2010-182; 2013, ch. 28, art. 4; 2014, ch. 2, art. 51, ch. 35, art. 6.
 
 
 
