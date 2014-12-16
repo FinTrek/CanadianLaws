@@ -1324,7 +1324,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Définition de société issue de la fusion**
 
-**249** Dans la présente section, ***société issue de la fusion*** s’entend de la société qui est issue de la fusion après laquelle chacune des sociétés mentionnées aux alinéas 252(1)a) à d) a été fusionnée avec au moins une autre société mentionnée au paragraphe 252(1).
+**249** Dans la présente section, ***société issue de la fusion*** s’entend d’une société qui est issue de toute fusion prévue au paragraphe 252(1).
+> 2013, ch. 40, art. 249; 2014, ch. 39, art. 261.
+
 
 
 
@@ -1336,6 +1338,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Prorogation en vertu de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md)**
 
 **250** Malgré l’article 103 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), les administrateurs de l’Administration du pont Blue Water peuvent, en vertu du paragraphe 268(4) de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md), demander un certificat de prorogation.
+
+
+
+
+**Prorogation**
+
+**250.1** Malgré le paragraphe 268(8.1) de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md), les articles 6 à 13, 17, 18 et 21.1 de la [Loi sur l’Administration du pont Blue Water](/fr/Lois/Lois%20du%20Canada/1964-65/ch.%206.md) continuent de s’appliquer à l’Administration du pont Blue Water après sa prorogation au titre de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md).
+> 2014, ch. 39, art. 262.
+
 
 
 
@@ -1369,6 +1380,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Qualité de mandataire de Sa Majesté**
 
 **253** La société issue de la fusion est mandataire de Sa Majesté du chef du Canada.
+> 2013, ch. 40, art. 253; 2014, ch. 39, art. 263 et 264.
+
 
 
 
@@ -1376,6 +1389,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Contrats**
 
 **254** La société issue de la fusion peut conclure des contrats avec Sa Majesté comme si elle n’en était pas le mandataire.
+> 2013, ch. 40, art. 254; 2014, ch. 39, art. 263 et 264.
+
 
 
 
@@ -1383,6 +1398,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Emprunt**
 
 **255** La société issue de la fusion peut emprunter à d’autres personnes que Sa Majesté des fonds, notamment par émission, vente et mise en gage d’obligations, de débentures, de billets ou d’autres titres de créance, à la condition que le montant total en principal de tels emprunts non remboursés ne dépasse à aucun moment cent trente millions de dollars.
+> 2013, ch. 40, art. 255; 2014, ch. 39, art. 263 et 264.
+
 
 
 
@@ -1393,9 +1410,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** La société issue de la fusion peut fixer des droits pour l’usage d’un pont ou tunnel dont elle est propriétaire ou qu’elle exploite et en exiger le paiement.
 
-**Autorisation : droits**
+**Autorisation : droits**
 
 - **(2)** Elle peut autoriser toute autre personne à fixer des droits pour l’usage du pont ou tunnel ou à en exiger le paiement.
+> 2013, ch. 40, art. 256; 2014, ch. 39, art. 263 et 264.
+
 
 
 
@@ -1403,6 +1422,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Vérificateur**
 
 **257** Le vérificateur général du Canada est le vérificateur de la société issue de la fusion.
+> 2013, ch. 40, art. 257; 2014, ch. 39, art. 263 et 264.
+
 
 
 
@@ -1410,6 +1431,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Absence de droit à réclamation**
 
 **258** Malgré les dispositions de tout contrat, accord ou décret, les personnes nommées membres à temps partiel du conseil d’administration de La Société des ponts fédéraux Limitée, d’une société qui est issue de toute fusion prévue au paragraphe 252(2) ou de l’Administration du pont Blue Water n’ont aucun droit de réclamer ou de recevoir une compensation, des dommages-intérêts, une indemnité ou toute autre forme de dédommagement de Sa Majesté du chef du Canada ou de ses employés ou mandataires parce que leur mandat a pris fin ou en raison de l’abolition de leur poste par suite de toute fusion prévue au paragraphe 252(1).
+> 2013, ch. 40, art. 258; 2014, ch. 39, art. 263 et 264.
+
 
 
 
@@ -1417,6 +1440,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md)**
 
 **259** Pour l’application de la partie I de l’annexe III de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), la mention « La Société des ponts fédéraux Limitée » y figurant vaut mention de la dénomination d’une société qui est issue de toute fusion prévue au paragraphe 252(1), si cette dénomination est « La Société des ponts fédéraux Limitée ».
+> 2013, ch. 40, art. 259; 2014, ch. 39, art. 263 et 264.
+
 
 
 
@@ -1424,6 +1449,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur les paiements versés en remplacement d’impôts](/fr/Lois/Lois%20révisées%20du%20Canada/M/M-13.md)**
 
 **260** Pour l’application de l’annexe III de la [Loi sur les paiements versés en remplacement d’impôts](/fr/Lois/Lois%20révisées%20du%20Canada/M/M-13.md), la mention « La Société des ponts fédéraux Limitée » y figurant vaut mention de la dénomination d’une société issue de toute fusion prévue au paragraphe 252(1), si cette dénomination est « La Société des ponts fédéraux Limitée ».
+> 2013, ch. 40, art. 260; 2014, ch. 39, art. 263 et 264.
+
 
 
 
@@ -1486,9 +1513,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Décret**
 
-<sup><a href='#fn_Ind2661_hq_13117'>[*]</a></sup>**269** Les articles 253 à 263 et 266 à 268 entrent en vigueur à la date ou aux dates fixées par décret.
+<sup><a href='#nbp_IndEB27_hq_14591'>[*]</a></sup>**269** Les articles 261 à 263 et 266 à 268 entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind2661_hq_13117'><sup>*</sup></a>: [Note : Articles 253 à 263 et 266 à 268 non en vigueur.]<br />
+<a name='nbp_IndEB27_hq_14591'><sup>*</sup></a>: [Note : Articles 261 à 263 et 266 à 268 non en vigueur.]<br />
+> 2013, ch. 40, art. 269; 2014, ch. 39, art. 265.
+
 
 
 
@@ -1863,7 +1892,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**333** [Modifications]
+**333** 
+
+- **(1)** [Abrogé avant d'entrer en vigueur, 2014, ch. 39, art. 382]
+
+- **(2)** [Modification]
 
 
 
