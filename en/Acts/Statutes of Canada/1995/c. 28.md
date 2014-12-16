@@ -37,41 +37,45 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** In this Act,
 
-***Bank*** means the Business Development Bank of Canada continued by subsection 3(1);
+***Bank*** means the Business Development Bank of Canada continued by subsection 3(1); (*Banque*)
 
-***bill of lading*** has the same meaning as in subsection 425(1) of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md);
+***bill of lading*** has the same meaning as in subsection 425(1) of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md); (*connaissement*)
 
-***Board*** means the Board of Directors of the Bank;
+***Board*** means the Board of Directors of the Bank; (*conseil*)
 
-***by-law*** means a by-law of the Bank;
+***by-law*** means a by-law of the Bank; (*règlement administratif*)
 
-***Chairperson*** means the Chairperson of the Board;
+***Chairperson*** means the Chairperson of the Board; (*président du conseil*)
 
-Version anglaise seulement***Crown*** means Her Majesty in right of Canada;
+***Crown*** means Her Majesty in right of Canada; (***Version anglaise seulement***)
 
-***debt obligation*** means a bond, debenture, note, investment certificate or other evidence of indebtedness or a guarantee of a corporation, whether secured or unsecured;
+***debt obligation*** means a bond, debenture, note, investment certificate or other evidence of indebtedness or a guarantee of a corporation, whether secured or unsecured; (*titre de créance*)
 
-***Designated Minister*** means such member of the Queen’s Privy Council for Canada as may be designated by the Governor in Council as the Minister for the purposes of this Act;
+***Designated Minister*** means such member of the Queen’s Privy Council for Canada as may be designated by the Governor in Council as the Minister for the purposes of this Act; (*ministre compétent*)
 
-***director*** means a member of the Board;
+***director*** means a member of the Board; (*administrateur*)
 
-***enterprise*** means an organized economic activity carried on by one or more persons;
+***enterprise*** means an organized economic activity carried on by one or more persons; (*entreprise*)
 
-***Executive Committee*** means the Executive Committee of the Board;
+***Executive Committee***[Repealed, 2014, c. 39, s. 211]
 
-***goods, wares and merchandise*** has the same meaning as in subsection 425(1) of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md);
+***goods, wares and merchandise*** has the same meaning as in subsection 425(1) of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md); (*effets, denrées ou marchandises*)
 
-***person*** includes a trust, a partnership and an association of natural persons or corporations;
+***joint venture*** means an association of persons, when the relationship among those associated persons does not, under the laws of Canada, constitute a corporation, partnership or trust; (*coentreprise*)
 
-***President*** means the President of the Bank;
+***person*** includes a trust, a partnership, a joint venture and an association of natural persons or corporations; (*personne*)
 
-***resolution*** means a resolution of the Board;
+***President*** means the President of the Bank; (*président*)
 
-***securities*** means the shares of any class or series of shares or the debt obligations of a corporation and includes certificates evidencing those shares or debt obligations;
+***resolution*** means a resolution of the Board; (*résolution*)
 
-***subsidiary*** has the same meaning as in subsection 83(6) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md);
+***securities*** means the shares of any class or series of shares or the debt obligations of a corporation and includes certificates evidencing those shares or debt obligations; (*valeurs mobilières*)
 
-***warehouse receipt*** has the same meaning as in subsection 425(1) of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md).
+***subsidiary*** has the same meaning as in subsection 83(6) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md); (*filiale*)
+
+***warehouse receipt*** has the same meaning as in subsection 425(1) of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md). (*récépissé d’entrepôt*)
+> 1995, c. 28, s. 2; 2014, c. 39, s. 211.
+
 
 
 
@@ -147,6 +151,10 @@ Version anglaise seulement***Crown*** means Her Majesty in right of Canada;
 
 - **(1)** The Chairperson is to be appointed by the Governor in Council to hold office during pleasure for a term that the Governor in Council considers appropriate.
 
+**Absence or incapacity**
+
+- **(1.1)** If the Chairperson is absent or unable to act or the office of Chairperson is vacant, the Board may authorize one of the other directors to act as Chairperson, but that person is not authorized to act as Chairperson for a period of more than 180 days without the approval of the Governor in Council.
+
 **Appointment of President**
 
 - **(2)** Notwithstanding subsection 105(5) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), the President is to be appointed by the Governor in Council to hold office during good behaviour for a term that the Governor in Council considers appropriate and may be removed for cause.
@@ -171,7 +179,7 @@ Version anglaise seulement***Crown*** means Her Majesty in right of Canada;
 	- **(c)** a permanent resident, within the meaning of subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md), who has been ordinarily resident in Canada for more than one year after first becoming eligible to apply for Canadian citizenship;
 	- **(d)** a member of the Senate or House of Commons or a member of the legislature of a province; or
 	- **(e)** employed in the public service of a province.
-> 1995, c. 28, s. 6; 2001, c. 27, s. 208; 2006, c. 9, s. 229.
+> 1995, c. 28, s. 6; 2001, c. 27, s. 208; 2006, c. 9, s. 229; 2014, c. 39, s. 212.
 
 
 
@@ -187,13 +195,15 @@ Version anglaise seulement***Crown*** means Her Majesty in right of Canada;
 
 - **(2)** The Board may, by resolution, make by-laws to regulate the business and affairs of the Bank.
 
-**Committees**
+**Committees of Board**
 
-- **(3)** The Board may establish an Executive Committee, or any other committee or advisory group that the Board considers advisable, and determine its composition and duties and the tenure of its members.
+- **(3)** The Board may establish any committee of the Board that it considers advisable and may determine the committee’s composition and duties and the tenure of its members.
 
-**Executive Committee**
+**Delegation of powers and specification of duties**
 
-- **(4)** The Board may delegate power to, and specify duties and authority of, the Executive Committee to act in all matters that are not by this Act or any by-law or resolution specifically reserved to be done by the Board.
+- **(4)** The Board may delegate power to, and specify the duties and authority of, any committee of the Board to act in all matters that are not by this Act or any by-law or resolution specifically reserved to be done by the Board.
+> 1995, c. 28, s. 7; 2014, c. 39, s. 213.
+
 
 
 
@@ -213,11 +223,13 @@ Version anglaise seulement***Crown*** means Her Majesty in right of Canada;
 
 **9** 
 
-- **(1)** The President is the chief executive officer of the Bank and has, on behalf of the Board, the direction and management of the business and affairs of the Bank with authority to act in all matters that are not by this Act or any by-law or resolution specifically reserved to be done by the Board or the Executive Committee.
+- **(1)** The President is the chief executive officer of the Bank and has, on behalf of the Board, responsibility for the direction and management of the business and affairs of the Bank with authority to act in all matters that are not by this Act or any by-law or resolution specifically reserved to be done by the Board or a committee of the Board.
 
 **Absence or incapacity**
 
-- **(2)** If the President is absent or unable to act, or if the office of President is vacant, the Board may authorize an officer or employee of the Bank to act as President, but that person may not act as President for a period of more than ninety days without the approval of the Governor in Council.
+- **(2)** If the President is absent or unable to act or the office of President is vacant, the Board may authorize an officer or employee of the Bank to act as President, but that person is not authorized to act as President for a period of more than 180 days without the approval of the Governor in Council.
+> 1995, c. 28, s. 9; 2014, c. 39, s. 214.
+
 
 
 
@@ -233,8 +245,8 @@ Version anglaise seulement***Crown*** means Her Majesty in right of Canada;
 
 **Delegation of powers and specification of duties**
 
-**11** The Board may delegate power to, and specify the duties and authority of, any officer, employee or agent or mandatary of the Bank to act in all matters that are not by this Act or any by-law or resolution specifically reserved to be done by the Board or the Executive Committee.
-> 1995, c. 28, s. 11; 2011, c. 21, s. 4(E).
+**11** The Board may delegate power to, and specify the duties and authority of, any officer, employee or agent or mandatary of the Bank to act in all matters that are not by this Act or any by-law or resolution specifically reserved to be done by the Board or a committee of the Board.
+> 1995, c. 28, s. 11; 2011, c. 21, s. 4(E); 2014, c. 39, s. 215.
 
 
 
@@ -242,8 +254,8 @@ Version anglaise seulement***Crown*** means Her Majesty in right of Canada;
 
 **Confidentiality**
 
-**12** All directors, officers and employees of the Bank, and all agents or mandataries, advisers and consultants whose services are engaged by the Bank, must, before commencing their duties, take an oath or make a solemn affirmation of office and confidentiality in the form set out in the schedule before a commissioner of oaths or other person having authority to administer the oath or solemn affirmation in the place where it is taken or made.
-> 1995, c. 28, s. 12; 2011, c. 21, s. 4(E).
+**12** All directors, officers and employees of the Bank or of any subsidiary, and all agents or mandataries, advisers and consultants whose services are engaged by the Bank or any subsidiary, must, before commencing their duties, take an oath or make a solemn affirmation of office and confidentiality in the form set out in the schedule before a commissioner of oaths or other person having authority to administer the oath or solemn affirmation in the place where it is taken or made.
+> 1995, c. 28, s. 12; 2011, c. 21, s. 4(E); 2014, c. 39, s. 215.
 
 
 
@@ -279,7 +291,7 @@ Version anglaise seulement***Crown*** means Her Majesty in right of Canada;
 	- **(c)** the provision of benefits under the fund;
 	- **(d)** the payment of pensions; and
 	- **(e)** the investment of the money of the fund.
-> 1995, c. 28, s. 13; 2003, c. 22, s. 224(E); 2011, c. 21, s. 5(E).
+> 1995, c. 28, s. 13; 2003, c. 22, s. 224(E); 2011, c. 21, s. 5(E); 2014, c. 39, s. 216(F).
 
 
 
@@ -293,15 +305,21 @@ Version anglaise seulement***Crown*** means Her Majesty in right of Canada;
 
 
 
-**Loans, investments and guarantees**
+**Loans, investments, etc.**
 
 **14** 
 
-- **(1)** The Bank may make loans to, or investments in, any person, or give guarantees in relation to any person.
+- **(1)** The Bank may
+	- **(a)** make loans to, or investments in, any person;
+	- **(b)** give guarantees in relation to any person; or
+	- **(c)** extend credit or provide liquidity to, or in relation to, any person through a category of transactions that is prescribed by the regulations.
 
-**How loans, etc., may be made**
+**How services may be provided**
 
-- **(2)** The loans, investments and guarantees may be made or given directly, through arrangements with other financial institutions or by the Bank as a member of a financing syndicate.
+- **(2)** The services referred to in subsection (1) may be
+	- **(a)** provided directly;
+	- **(b)** provided through arrangements with other persons; or
+	- **(c)** provided by the Bank as a member of a financing syndicate.
 
 **Criteria for making loans, etc.**
 
@@ -310,16 +328,51 @@ Version anglaise seulement***Crown*** means Her Majesty in right of Canada;
 	- **(b)** the amount invested, or to be invested, in the enterprise by persons other than the Bank and the character of the investment are such that the Bank may reasonably expect that those persons will have a continuing commitment to the enterprise; and
 	- **(c)** the enterprise may reasonably be expected to prove successful.
 
-**Complementary to commercial financial institutions**
+**Enterprises outside Canada  — loans and guarantees**
 
-- **(4)** The loans, investments and guarantees are to fill out or complete services available from commercial financial institutions.
+- **(4)** Despite paragraph (3)(a), loans may be made to, or guarantees given in relation to, a person that is engaged or about to be engaged in an enterprise outside Canada if
+	- **(a)** the person is a corporation, trust, partnership or joint venture in which at least one third of the voting interests are held by Canadians or is an association of natural persons or corporations of which at least half the members are Canadians; and
+	- **(b)** at least one of the Canadians referred to in paragraph (a) is also engaged or about to be engaged in an enterprise in Canada.
+
+**Enterprises outside Canada — investments**
+
+- **(5)** Despite paragraph (3)(a), investments may be made in a person that is engaged or about to be engaged in an enterprise outside Canada if
+	- **(a)** the person meets the requirements set out in paragraphs (4)(a) and (b); and
+	- **(b)** the investment is of a category prescribed by the regulations.
+
+**Funds outside Canada — investments**
+
+- **(6)** Despite paragraph (3)(a), investments may be made in a person outside Canada if, in the opinion of the Board or any committee or officer designated by the Board,
+	- **(a)** the person is an investment fund or other investment vehicle of which at least one half of the investment managers reside in Canada; and
+	- **(b)** that fund or vehicle has an investment strategy that reflects an ongoing commitment to invest in Canada.
+
+**Limitation**
+
+- **(7)** Paragraph (3)(b) does not apply
+	- **(a)** to a person that is a trust, a corporation as defined in subsection 2(1) of the [Canada Not-for-profit Corporations Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2023.md) or a corporation incorporated under a provincial statute equivalent to that Act; or
+	- **(b)** in the case where a loan, investment or guarantee is made or given through an arrangement referred to in paragraph (2)(b).
+
+**Complementary to other services**
+
+- **(8)** The services referred to in subsection (1) are to fill out or complete services available from commercial financial institutions.
 
 **Acquiring and dealing with property**
 
-- **(5)** In any circumstances in which the Bank may make a loan or investment to a person, or give a guarantee in relation to a person, under this section, the Bank may
+- **(9)** In any circumstances in which the Bank may provide a service to a person under this section, the Bank may
 	- **(a)** purchase or otherwise acquire real or personal property or immovables or movables including accounts receivable; and
-	- **(b)** subject to any right of redemption that may exist, hold, lease to the person or subsequently sell, dispose of or otherwise deal with the property.
-> 1995, c. 28, s. 14; 2001, c. 34, s. 9(F); 2011, c. 21, s. 6.
+	- **(b)** subject to any right of redemption that may exist, hold, lease to the person or subsequently sell, dispose of or otherwise deal with the property or immovables or movables.
+
+**Definitions**
+
+- **(10)** The following definitions apply in this section.
+
+***Canadian*** has the same meaning as in paragraph (a), (b) or (d) of the definition Canadian in section 3 of the [Investment Canada Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2028%20(1st%20Supp.).md). (*Canadien*)
+
+***voting interest***
+- **(a)** with respect to a corporation with share capital, means a voting share;
+- **(b)** with respect to a corporation without share capital, means an ownership interest in the assets of the corporation that entitles the owner to rights similar to those enjoyed by the owner of a voting share; and
+- **(c)** with respect to a partnership, trust or joint venture, means an ownership interest in the assets of the partnership, trust or joint venture that entitles the owner to receive a share of the profits and to share in the assets on dissolution. (*intérêt avec droit de vote*)
+> 1995, c. 28, s. 14; 2001, c. 34, s. 9(F); 2011, c. 21, s. 6; 2014, c. 39, s. 217.
 
 
 
@@ -373,10 +426,20 @@ Version anglaise seulement***Crown*** means Her Majesty in right of Canada;
 
 **Agreements**
 
-**17** The Bank may provide, or enter into agreements for the provision of,
-- **(a)** business planning services;
-- **(b)** management counselling and training, including seminars, conferences and meetings; and
-- **(c)** information.
+**17** 
+
+- **(1)** The Bank may provide, or enter into agreements for the provision of, any of the following services:
+	- **(a)** consulting;
+	- **(b)** management training and mentoring;
+	- **(c)** networking, referral and sourcing;
+	- **(d)** information and research;
+	- **(e)** any other management services prescribed by the regulations.
+
+**Complementary to service providers**
+
+- **(2)** The services are to fill out or complete services available from private sector service providers.
+> 1995, c. 28, s. 17; 2014, c. 39, s. 218.
+
 
 
 
@@ -425,14 +488,14 @@ Version anglaise seulement***Crown*** means Her Majesty in right of Canada;
 
 
 
-### Other Services and Programs
+### Agreements and Programs
 
 
 
 **Agreements**
 
-**20** The Bank may enter into agreements with, and act as agent or mandatary for, any department or agency of the government of Canada or a province, or any other body or person, for the provision of services or programs to, on behalf of or jointly with that body or person and, subject to subsection 14(3), may deliver financial assistance on their behalf under the agreement.
-> 1995, c. 28, s. 20; 2011, c. 21, s. 9(E).
+**20** The Bank may enter into agreements with, and act as agent or mandatary for, any department or agency of the government of Canada or a province, or any other body or person, for the provision of services or programs to, by, on behalf of or jointly with that body or person and, subject to subsection 14(3), may deliver financial assistance on their behalf under the agreement.
+> 1995, c. 28, s. 20; 2011, c. 21, s. 9(E); 2014, c. 39, s. 219.
 
 
 
@@ -566,6 +629,8 @@ Version anglaise seulement***Crown*** means Her Majesty in right of Canada;
 **Instruments not shares**
 
 - **(3)** For greater certainty, an instrument issued under subsection (1) is not a share within the meaning of Part X of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
+> 1995, c. 28, s. 28; 2014, c. 39, s. 220(F).
+
 
 
 
@@ -597,6 +662,8 @@ must not at any time exceed twelve times the equity of the Bank.
 	- **(b)** the retained earnings of the Bank, which may be positive or negative;
 	- **(c)** amounts paid to the Bank as capital by Parliamentary appropriation; and
 	- **(d)** such proceeds of debt instruments, hybrid capital instruments or other arrangements as may be prescribed as equity by the Governor in Council.
+> 1995, c. 28, s. 30; 2014, c. 39, s. 221(F).
+
 
 
 
@@ -694,7 +761,7 @@ must not at any time exceed twelve times the equity of the Bank.
 
 **37** 
 
-- **(1)** Subject to subsection (2), all information obtained by the Bank in relation to its customers is privileged and a director, officer, employee or agent or mandatary of, or adviser or consultant to, the Bank must not knowingly communicate, disclose or make available the information, or permit it to be communicated, disclosed or made available.
+- **(1)** Subject to subsection (2), all information obtained by the Bank or by a subsidiary in relation to its customers is privileged and a director, officer, employee or agent or mandatary of, or adviser or consultant to, the Bank or a subsidiary must not knowingly communicate, disclose or make available the information, or permit it to be communicated, disclosed or made available.
 
 **Authorized disclosure**
 
@@ -703,7 +770,7 @@ must not at any time exceed twelve times the equity of the Bank.
 	- **(b)** for the purpose of prosecuting an offence under this Act or any other Act of Parliament;
 	- **(c)** to the Minister of National Revenue solely for the purpose of administering or enforcing the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) or the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md); or
 	- **(d)** with the written consent of the person to whom the information relates.
-> 1995, c. 28, s. 37; 2011, c. 21, s. 11(E).
+> 1995, c. 28, s. 37; 2011, c. 21, s. 11(E); 2014, c. 39, s. 222.
 
 
 
@@ -725,9 +792,13 @@ must not at any time exceed twelve times the equity of the Bank.
 
 
 
-**hybrid capital instrument**
+**Regulations**
 
-**40** The Governor in Council may, by regulation, define hybrid capital instrument.
+**40** The Governor in Council may make regulations
+- **(a)** defining hybrid capital instrument; and
+- **(b)** prescribing anything that by this Act is to be prescribed.
+> 1995, c. 28, s. 40; 2014, c. 39, s. 223.
+
 
 
 
