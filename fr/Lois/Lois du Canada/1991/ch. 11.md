@@ -11,7 +11,7 @@ Sanctionnée sur le 1 février 1991
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -380,15 +380,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Le Conseil peut connaître de toute question pour laquelle il estime :
 	- **a)** soit qu’il y a eu ou aura manquement — par omission ou commission — aux termes d’une licence, à la présente partie ou aux ordonnances, décisions ou règlements pris par lui en application de celle-ci;
+	- **a.1)** soit qu’il y a ou a eu manquement à l’article 34.1;
 	- **b)** soit qu’il peut avoir à rendre une décision ou ordonnance ou à donner une permission, sanction ou approbation dans le cadre de la présente partie ou de ses textes d’application.
 
 **Ordres et interdiction**
 
-- **(2)** Le Conseil peut, par ordonnance, soit imposer l’exécution, dans le délai et selon les modalités qu’il détermine, des obligations découlant de la présente partie ou des ordonnances, décisions ou règlements pris par lui ou des licences attribuées par lui en application de celle-ci, soit interdire ou faire cesser quoi que ce soit qui y contrevient.
+- **(2)** Le Conseil peut, par ordonnance, soit imposer l’exécution, sans délai ou dans le délai et selon les modalités qu’il détermine, des obligations découlant de la présente partie ou des ordonnances, décisions ou règlements pris par lui ou des licences attribuées par lui en application de celle-ci, soit interdire ou faire cesser quoi que ce soit qui y contrevient ou contrevient à l’article 34.1.
 
 **Réexamen par le Conseil**
 
 - **(3)** Toute personne touchée par l’ordonnance d’un comité chargé, en application de l’article 20, d’entendre et de décider d’une question visée au paragraphe (1) peut, dans les trente jours suivant l’ordonnance, demander au Conseil de réexaminer la décision ou les conclusions du comité, lesquelles peuvent être annulées ou modifiées par le Conseil, après ou sans nouvelle audition.
+> 1991, ch. 11, art. 12; 2014, ch. 39, art. 191.
+
 
 
 
@@ -753,6 +756,40 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Prescription**
 
 **34** La poursuite d’une infraction visée au paragraphe 32(2) ou à l’article 33 se prescrit par deux ans à compter de la perpétration.
+
+
+
+
+**PARTIE II.1** 
+## Infraction — factures papier
+
+
+
+**Interdiction**
+
+**34.1** Il est interdit à toute personne qui exploite une entreprise de radiodiffusion d’imposer des frais à un abonné pour l’obtention de factures papier.
+> 2014, ch. 39, art. 192.
+
+
+
+
+
+**Infraction**
+
+**34.2** Quiconque contrevient à l’article 34.1 commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire :
+- **a)** dans le cas d’une personne physique, une amende maximale de vingt-cinq mille dollars pour la première infraction et de cinquante mille dollars en cas de récidive;
+- **b)** dans le cas d’une personne morale, une amende maximale de deux cent cinquante mille dollars pour la première infraction et de cinq cent mille dollars en cas de récidive.
+> 2014, ch. 39, art. 192.
+
+
+
+
+
+**Prescription**
+
+**34.3** La poursuite d’une infraction visée à l’article 34.2 se prescrit par deux ans à compter de la perpétration.
+> 2014, ch. 39, art. 192.
+
 
 
 
