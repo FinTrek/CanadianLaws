@@ -762,7 +762,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**142** [Amendments]
+**142** 
+
+- **(1)** [Amendment]
+
+- **(2)** [Repealed, 2014, c. 39, s. 189]
 
 
 
