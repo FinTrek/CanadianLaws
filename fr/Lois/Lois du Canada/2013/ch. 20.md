@@ -1052,9 +1052,9 @@ Sont exclus de la présente définition les droits ou intérêts qui sont reçus
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***autorité compétente*** Dans le cas du tribunal d’une province, d’un tribunal établi en application des lois provinciales ou de la cour d’appel d’une province, l’organisme, la personne ou le groupe de personnes habituellement compétent, sous le régime juridique de la province, pour établir les règles de pratique et de procédure de ce tribunal.
+***autorité compétente*** Dans le cas du tribunal d’une province, d’un tribunal établi en application des lois provinciales ou de la cour d’appel d’une province, l’organisme, la personne ou le groupe de personnes habituellement compétent, sous le régime juridique de la province, pour établir les règles de pratique et de procédure de ce tribunal. (*competent authority*)
 
-***cour d’appel*** Tribunal qui connaît des appels formés contre les décisions d’un autre tribunal.
+***cour d’appel*** Tribunal qui connaît des appels formés contre les décisions d’un autre tribunal. (*appellate court*)
 
 **Règles**
 
