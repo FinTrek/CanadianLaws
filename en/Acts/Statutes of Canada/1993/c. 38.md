@@ -608,6 +608,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+**Conditions of service — person other than Canadian carrier**
+
+**24.1** The offering and provision of any telecommunications service by any person other than a Canadian carrier are subject to any conditions imposed by the Commission, including those relating to
+- **(a)** service terms and conditions in contracts with users of telecommunications services;
+- **(b)** protection of the privacy of those users;
+- **(c)** access to emergency services; and
+- **(d)** access to telecommunications services by persons with disabilities.
+> 2014, c. 39, s. 193.
+
+
+
+
+
 **Telecommunications rates to be approved**
 
 **25** 
@@ -720,6 +733,15 @@ where
 
 - **(5)** The amount established by the Commission that a Canadian carrier can charge to a second Canadian carrier for roaming services prevails over an amount determined under any of subsections (1) to (3) to the extent of any inconsistency.
 > 2014, c. 20, s. 240.
+
+
+
+
+
+**Paper bill**
+
+**27.2** Any person who provides telecommunications services shall not charge a subscriber for providing the subscriber with a paper bill.
+> 2014, c. 39, s. 194.
 
 
 
@@ -903,20 +925,30 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 
 - **(2)** Subject to subsections (4), (5), (5.1) and (6), where a person designates information as confidential and the designation is not withdrawn by that person, no person described in subsection (3) shall knowingly disclose the information, or knowingly allow it to be disclosed, to any other person in any manner that is calculated or likely to make it available for the use of any person who may benefit from the information or use the information to the detriment of any person to whose business or affairs the information relates.
 
-**Persons who must not disclose information**
+**Persons who shall not disclose information**
 
-- **(3)** Subsection (2) applies to
-	- **(a)** any member of, or person employed by, the Commission, and
-	- **(b)** in respect of information provided under subsection 37(3), the Minister, the Chief Statistician of Canada and any person employed in the federal public administration
-who comes into possession of designated information while holding that office or being so employed, whether or not the person has ceased to hold that office or be so employed.
+- **(3)** Subsection (2) applies to any person referred to in any of the following paragraphs who comes into possession of designated information while holding the office or employment described in that paragraph, whether or not the person has ceased to hold that office or be so employed:
+	- **(a)** a member of, or person employed by, the Commission;
+	- **(b)** in respect of information disclosed under paragraph 4(b) or 5(b), the Commissioner of Competition appointed under the [Competition Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-34.md) or a person whose duties involve the carrying out of that Act and who is referred to in section 25 of that Act;
+	- **(c)** in respect of information provided under subsection 37(3), the Minister, the Chief Statistician of Canada, an agent of or a person employed in the federal public administration.
 
 **Disclosure of information submitted in proceedings**
 
-- **(4)** Where designated information is submitted in the course of proceedings before the Commission, the Commission may disclose or require its disclosure where it determines, after considering any representations from interested persons, that the disclosure is in the public interest.
+- **(4)** If designated information is submitted in the course of proceedings before the Commission, the Commission may
+	- **(a)** disclose or require its disclosure if it determines, after considering any representations from interested persons, that the disclosure is in the public interest; and
+	- **(b)** disclose or require its disclosure to the Commissioner of Competition on the Commissioner’s request if it determines that the information is relevant to competition issues being considered in the proceedings.
 
 **Disclosure of other information**
 
-- **(5)** Where designated information is submitted to the Commission otherwise than in the course of proceedings before it, the Commission may disclose or require its disclosure if, after considering any representations from interested persons, it considers the information to be relevant to the determination of a matter before it and determines that the disclosure is in the public interest.
+- **(5)** If designated information is submitted to the Commission otherwise than in the course of proceedings before it, the Commission may
+	- **(a)** disclose or require its disclosure if, after considering any representations from interested persons, it considers that the information is relevant to the determination of a matter before it and determines that the disclosure is in the public interest; and
+	- **(b)** disclose or require its disclosure to the Commissioner of Competition on the Commissioner’s request if it considers that the information is relevant to competition issues being raised in the matter before it.
+
+**Use of information disclosed to Commissioner of Competition**
+
+- **(5.01)** Neither the Commissioner of Competition nor any person whose duties involve the administration and enforcement of the [Competition Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-34.md) and who is referred to in section 25 of that Act shall use information that is disclosed
+	- **(a)** under paragraph (4)(b) other than to facilitate the Commissioner’s participation in proceedings referred to in subsection (4); or
+	- **(b)** under paragraph (5)(b) other than to facilitate the Commissioner’s participation in a matter referred to in subsection (5).
 
 **Disclosure**
 
@@ -925,7 +957,7 @@ who comes into possession of designated information while holding that office or
 **Information inadmissible**
 
 - **(6)** Designated information that is not disclosed or required to be disclosed under this section is not admissible in evidence in any judicial proceedings except proceedings for failure to submit information required to be submitted under this Act or any special Act or for forgery, perjury or false declaration in relation to the submission of the information.
-> 1993, c. 38, s. 39; 2003, c. 22, s. 224(E); 2010, c. 23, s. 88.
+> 1993, c. 38, s. 39; 2003, c. 22, s. 224(E); 2010, c. 23, s. 88; 2014, c. 39, s. 195.
 
 
 
@@ -1692,7 +1724,7 @@ who comes into possession of designated information while holding that office or
 	- **(e)** test telecommunications apparatus for compliance with technical specifications and markings required under this Part;
 	- **(f)** require holders of, and applicants for, certificates to disclose to the Minister any information that the Minister considers appropriate respecting the present and proposed use of the telecommunications apparatus in question;
 	- **(g)** require holders of certificates to inform the Minister of any material changes in information disclosed under paragraph (f);
-	- **(h)** appoint inspectors for the purposes of this Part; and
+	- **(h)** [Repealed, 2014, c. 39, s. 197]
 	- **(i)** do any other thing necessary for the effective administration of this Part.
 
 **Delegation of powers**
@@ -1707,7 +1739,7 @@ who comes into possession of designated information while holding that office or
 		- **(i)** the holder has contravened this Part, the regulations or the conditions of the certificate, or
 		- **(ii)** the certificate was obtained through misrepresentation; or
 	- **(c)** on giving written notice of suspension or revocation to the holder, without having to give the holder an opportunity to make representations to the Minister with respect to the notice, if the holder has failed to comply with a request to pay fees or interest due.
-> 1998, c. 8, s. 8.
+> 1998, c. 8, s. 8; 2014, c. 39, s. 197.
 
 
 
@@ -1742,27 +1774,7 @@ who comes into possession of designated information while holding that office or
 
 
 
-
-**Powers of inspectors**
-
-**69.5** 
-
-- **(1)** Subject to subsection (2), an inspector appointed under paragraph 69.3(1)(h) may, at any reasonable time, for the purpose of enforcing this Part,
-	- **(a)** enter any place of business that the inspector believes on reasonable grounds is being used to distribute, lease, offer for sale, sell or import any telecommunications apparatus referred to in section 69.2;
-	- **(b)** examine any telecommunications apparatus found in a place referred to in paragraph (a); and
-	- **(c)** examine any logs, books, reports, test data, records, shipping bills, bills of lading or other documents or papers found in a place referred to in paragraph (a) that the inspector believes on reasonable grounds contain information relevant to the enforcement of this Part, and make copies of, or take extracts from, them.
-
-**Assistance to inspectors**
-
-- **(2)** The owner or person in charge of a place entered by an inspector shall give the inspector all reasonable assistance to enable the inspector to carry out the inspector’s duties under this Part, and shall give the inspector any information that the inspector reasonably requests.
-
-**Obstruction, false information**
-
-- **(3)** When an inspector is carrying out duties under this Part, no person shall
-	- **(a)** resist or wilfully obstruct the inspector; or
-	- **(b)** knowingly make a false or misleading statement, either orally or in writing, to the inspector.
-> 1998, c. 8, s. 8.
-
+**69.5** [Repealed, 2014, c. 39, s. 199]
 
 
 
@@ -1811,11 +1823,11 @@ who comes into possession of designated information while holding that office or
 
 **71** 
 
-- **(1)** The Commission may designate any qualified person as an inspector for the purpose of verifying compliance with the provisions of this Act or any special Act for which the Commission is responsible and with the decisions of the Commission under this Act.
+- **(1)** The Commission may designate any qualified person as an inspector for the purpose of verifying compliance or preventing non-compliance with the provisions of this Act or any special Act for which the Commission is responsible and with the decisions of the Commission under this Act.
 
-**Idem**
+**Designation of inspectors**
 
-- **(2)** The Minister may designate any qualified person as an inspector for the purpose of verifying compliance with the provisions of this Act for which the Minister is responsible.
+- **(2)** The Minister may designate any qualified person as an inspector for the purpose of verifying compliance or preventing non-compliance with the provisions of this Act for which the Minister is responsible.
 
 **Certificate**
 
@@ -1823,28 +1835,41 @@ who comes into possession of designated information while holding that office or
 
 **Powers of inspectors**
 
-- **(4)** An inspector may, for the purposes for which the inspector was designated an inspector,
-	- **(a)** subject to subsection (5), enter and inspect, at any reasonable time, any place owned by or under the control of any Canadian carrier in which the inspector believes on reasonable grounds there is any document, information or thing relevant to the enforcement of this Act or any special Act, and examine the document, information or thing or remove it for examination or reproduction;
-	- **(b)** make use of or cause to be made use of any data processing system at the place to examine any data contained in or available to the system;
-	- **(c)** reproduce any record or cause it to be reproduced from the data in the form of a print-out or other intelligible output and take the print-out or other output for examination or copying; and
-	- **(d)** make use of any copying equipment or means of communication located at the place.
+- **(4)** An inspector may, subject to subsection (5), for the purposes for which the inspector was designated an inspector,
+	- **(a)** enter, at any reasonable time, any place in which they believe on reasonable grounds there is any document, information or thing relevant to the purpose of verifying compliance or preventing non-compliance with this Act or any special Act, and examine the document, information or thing or remove it for examination or reproduction;
+	- **(b)** make use of, or cause to be made use of, any computer system at the place to examine any data contained in or available to the system;
+	- **(c)** reproduce any document, or cause it to be reproduced, from the data in the form of a print-out or other intelligible output and take the print-out or other output for examination or copying; and
+	- **(d)** use any copying equipment or means of communication in the place.
 
-**Warrant required to enter dwelling-place**
+**Warrant required to enter dwelling-house**
 
-- **(5)** An inspector may not enter a dwelling-place except with the consent of the occupant or under the authority of a warrant issued under subsection (6).
+- **(5)** An inspector may not enter a dwelling-house without the consent of the occupant or under the authority of a warrant.
 
 **Authority to issue warrant**
 
-- **(6)** Where on *ex parte* application a justice, as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), is satisfied by information on oath
-	- **(a)** that a dwelling-place is a place described in paragraph (4)(a),
-	- **(b)** that entry to the dwelling-place is necessary for the enforcement of this Act or any special Act, and
-	- **(c)** that entry has been refused, there are reasonable grounds for believing that entry will be refused, or consent to entry cannot be obtained from the occupant,
-the justice may issue a warrant authorizing an inspector named in the warrant to enter the dwelling-place, subject to any conditions specified in the warrant.
+- **(6)** On an *ex parte* application, a justice of the peace may issue a warrant authorizing an inspector who is named in the warrant to enter a dwelling-house, subject to any conditions spec­ified in the warrant, if the justice is satisfied by information on oath that
+	- **(a)** the dwelling-house is a place described in paragraph (4)(a);
+	- **(b)** entry to the dwelling-house is necessary for the purpose of verifying compliance or preventing non-compliance with this Act or any special Act; and
+	- **(c)** entry has been refused or there are reasonable grounds to believe that entry will be refused by, or that consent to entry cannot be obtained from, the occupant.
 
 **Use of force**
 
 - **(7)** An inspector executing a warrant issued under subsection (6) shall not use force unless the inspector is accompanied by a peace officer and the use of force has been specifically authorized in the warrant.
-> 1993, c. 38, s. 71; 1999, c. 31, s. 207(F).
+
+**Assistance to inspectors**
+
+- **(8)** The owner or person in charge of a place entered by an inspector shall provide all assistance that is reasonably required to enable the inspector to perform their functions under this Part, and shall provide any information that is reasonably expected for that purpose.
+
+**Information requirement**
+
+- **(9)** An inspector who believes that a person is in possession of information that the inspector considers necessary for the purpose of verifying compliance or preventing non-compliance with this Act or any special Act may, by notice, require that person to submit the information to the inspector in the form and manner and within the reasonable time that is stipulated in the notice.
+
+**Obstruction, false information**
+
+- **(10)** No person shall
+	- **(a)** resist or wilfully obstruct the inspector in carrying out his or her duties; or
+	- **(b)** knowingly make a false or misleading statement, either orally or in writing, to the inspector.
+> 1993, c. 38, s. 71; 1999, c. 31, s. 207(F); 2014, c. 39, s. 200.
 
 
 
@@ -1873,7 +1898,215 @@ the justice may issue a warrant authorizing an inspector named in the warrant to
 
 
 
-### Administrative Monetary Penalties
+### General Administrative Monetary Penalties Scheme
+
+
+
+**Commission of violation**
+
+**72.001** Every contravention of a provision of this Act, other than section 17 or 69.2, and every contravention of a regulation or decision made by the Commission under this Act, other than a prohibition or a requirement of the Commission made under section 41, constitutes a violation and the person who commits the violation is liable
+- **(a)** in the case of an individual, to an administrative monetary penalty not exceeding $25,000 and, for a subsequent contravention, a penalty not exceeding $50,000; or
+- **(b)** in any other case, to an administrative monetary penalty not exceeding $10,000,000 and, for a subsequent contravention, a penalty not exceeding $15,000,000.
+> 2014, c. 39, s. 201.
+
+
+
+
+
+**Criteria for penalty**
+
+**72.002** 
+
+- **(1)** The amount of the penalty is to be determined by taking into account the following factors:
+	- **(a)** the nature and scope of the violation;
+	- **(b)** the history of compliance with this Act, the regulations or the decisions made by the Commission under this Act, by the person who committed the violation;
+	- **(c)** any benefit that the person obtained from the commission of the violation;
+	- **(d)** the person’s ability to pay the penalty;
+	- **(e)** any factors established by any regulations; and
+	- **(f)** any other relevant factor.
+
+**Purpose of penalty**
+
+- **(2)** The purpose of the penalty is to promote compliance with this Act, the regulations or the decisions made by the Commission under this Act, and not to punish.
+> 2014, c. 39, s. 201.
+
+
+
+
+
+**Procedures**
+
+**72.003** Despite subsection 72.005(1), the Commission may impose a penalty in a decision in the course of a proceeding before it under this Act in which it finds that there has been a contravention of a provision, a regulation or a decision referred to in section 72.001.
+> 2014, c. 39, s. 201.
+
+
+
+
+
+**Power of Commission — violation**
+
+**72.004** The Commission may
+- **(a)** designate a person, or class of persons, that is authorized to issue notices of violation or accept an undertaking; and
+- **(b)** establish, in respect of each violation, a short-form description to be used in notices of violation.
+> 2014, c. 39, s. 201.
+
+
+
+
+
+**Issuance and service**
+
+**72.005** 
+
+- **(1)** A person who is designated to issue notices of violation and who believes, on reasonable grounds, that a person has committed a violation may issue, and shall cause to be served on the person, a notice of violation.
+
+**Contents of notice**
+
+- **(2)** The notice of violation must name the person believed to have committed the violation, identify the violation and include
+	- **(a)** the penalty that the person is liable to pay;
+	- **(b)** a statement as to the right of the person, within 30 days after the day on which the notice is served, or within any longer period that the Commission specifies, to pay the penalty or to make representations with respect to the violation and the penalty, and the manner for doing so; and
+	- **(c)** a statement indicating that if the person does not pay the penalty or make representations in accordance with the notice, the person will be deemed to have committed the violation and the penalty may be imposed.
+> 2014, c. 39, s. 201.
+
+
+
+
+
+**Entry into undertaking**
+
+**72.006** 
+
+- **(1)** A person may enter into an undertaking at any time.
+
+**Contents**
+
+- **(2)** An undertaking
+	- **(a)** must be accepted by a person who is authorized to accept an undertaking;
+	- **(b)** must identify every act or omission that constitutes a contravention and that is covered by the undertaking;
+	- **(c)** must identify every provision or decision at issue;
+	- **(d)** may contain any conditions that the person who is authorized to accept an undertaking considers appropriate; and
+	- **(e)** may include a requirement to pay a specified amount.
+
+**Undertaking before notice of violation**
+
+- **(3)** If a person enters into an undertaking, no notice of violation may be served on them in connection with any act or omission referred to in the undertaking.
+
+**Undertaking after notice of violation**
+
+- **(4)** If a person enters into an undertaking after a notice of violation is served on them, the proceeding that is commenced by the notice of violation is ended in respect of that person in connection with any act or omission referred to in the undertaking.
+
+**Failure to respect undertaking**
+
+- **(5)** Failure to respect an undertaking constitutes a violation.
+> 2014, c. 39, s. 201.
+
+
+
+
+
+**Payment**
+
+**72.007** 
+
+- **(1)** If a person who is served with a notice of violation pays the penalty proposed in the notice, the person is deemed to have committed the violation and the proceedings in respect of it are ended.
+
+**Representations to Commission**
+
+- **(2)** If a person who is served with a notice of violation makes representations in accordance with the notice, the Commission shall decide, on a balance of probabilities, after considering any other representations that it considers appropriate, whether the person committed the violation and, if it so decides, it may impose the penalty set out in the notice, a lesser penalty or no penalty.
+
+**Failure to pay or make representations**
+
+- **(3)** If a person who is served with a notice of violation neither pays the penalty nor makes representations in accordance with the notice, the person is deemed to have committed the violation and the Commission may impose the penalty.
+
+**Copy of decision and notice of rights**
+
+- **(4)** The Commission shall cause a copy of any decision made under subsection (2) or (3) to be issued and served on the person together with a notice of the person’s right to apply for a review under section 62 or for leave to appeal under section 64.
+> 2014, c. 39, s. 201.
+
+
+
+
+
+**Officer, director or agent or mandatary of corporations**
+
+**72.008** An officer, director or agent or mandatary of a corporation that commits a violation is liable for the violation if they directed, authorized, assented to, acquiesced in or participated in the commission of the violation, whether or not the corporation is proceeded against.
+> 2014, c. 39, s. 201.
+
+
+
+
+
+**Debt due to Her Majesty**
+
+**72.009** 
+
+- **(1)** The following amounts are debts due to Her Majesty in right of Canada that may be recovered in the Federal Court:
+	- **(a)** the amount of the penalty imposed by the Commission in a decision in the course of a proceeding before it under this Act in which it finds that there has been a contravention of a provision, a regulation or a decision referred to in section 72.001;
+	- **(b)** the amount payable under an undertaking entered into under subsection 72.006(1) beginning on the day specified in the undertaking or, if no day is specified, beginning on the day on which the undertaking is entered into;
+	- **(c)** the amount of the penalty set out in a notice of violation, beginning on the day on which it is required to be paid in accordance with the notice, unless representations are made in accordance with the notice;
+	- **(d)** if representations are made, either the amount of the penalty that is imposed by the Commission or on appeal, as the case may be, beginning on the day specified by the Commission or the court or, if no day is specified, beginning on the day on which the decision is made; and
+	- **(e)** the amount of any reasonable expenses incurred in attempting to recover an amount referred to in any of paragraphs (a) to (d).
+
+**Time limit or prescription**
+
+- **(2)** A proceeding to recover such a debt may not be commenced later than five years after the day on which the debt becomes payable.
+
+**Receiver General**
+
+- **(3)** A penalty paid or recovered in relation to a violation is payable to the Receiver General.
+
+**Certificate of default**
+
+- **(4)** The Commission may issue a certificate for the unpaid amount of any debt referred to in subsection (1).
+
+**Registration in Federal Court**
+
+- **(5)** Registration in the Federal Court of a certificate made under subsection (4) has the same effect as a judgment of that Court for a debt of the amount specified in the certificate and all related registration costs.
+> 2014, c. 39, s. 201.
+
+
+
+
+
+**Time limit or prescription**
+
+**72.0091** 
+
+- **(1)** A proceeding in respect of a violation may not be commenced later than three years after the day on which the subject-matter of the proceedings becomes known to the Commission.
+
+**Certificate of secretary to Commission**
+
+- **(2)** A document appearing to have been issued by the secretary to the Commission, certifying the day on which the subject-matter of any proceedings became known to the Commission, is admissible in evidence without proof of the signature or official character of the person appearing to have signed the document and is, in the absence of evidence to the contrary, proof of the matter asserted in it.
+> 2014, c. 39, s. 201.
+
+
+
+
+
+**Publication**
+
+**72.0092** The Commission may make public
+- **(a)** the name of a person who enters into an undertaking, the nature of the undertaking including the acts or omissions, the provisions or the decisions at issue, the conditions included in the undertaking and, if applicable, the amount of the penalty; and
+- **(b)** the name of a person who committed the violation, the nature of the violation including the acts or omissions and provisions or decisions at issue and the amount of the penalty.
+> 2014, c. 39, s. 201.
+
+
+
+
+
+**Regulations**
+
+**72.0093** The Governor in Council may make regulations
+- **(a)** exempting from the application of section 72.001 any provision of this Act or the regulations or any decision;
+- **(b)** for the purpose of paragraph 72.002(1)(e), establishing other factors to be considered in determining the amount of the penalty; and
+- **(c)** respecting undertakings entered into under subsection 72.006(1).
+> 2014, c. 39, s. 201.
+
+
+
+
+
+### Administrative Monetary Penalties Scheme for Unsolicited Telecommunications
 
 
 
@@ -1887,12 +2120,7 @@ the justice may issue a warrant authorizing an inspector named in the warrant to
 
 
 
-
-**Vicarious liability — acts of employees, agents and mandataries**
-
-**72.02** A person is liable for a violation that is committed by an employee, or an agent or mandatary, of the person acting in the course of the employee’s employment or the scope of the agent’s or mandatary’s authority, whether or not the employee, agent or mandatary who actually committed the violation is identified or proceeded against in accordance with this Act.
-> 2005, c. 50, s. 2.
-
+**72.02** [Repealed, 2014, c. 39, s. 203]
 
 
 
@@ -1922,42 +2150,11 @@ the justice may issue a warrant authorizing an inspector named in the warrant to
 
 
 
-
-**Information requirement**
-
-**72.05** A person authorized to issue notices of violation who believes that a person is in possession of information that the authorized person considers necessary for the administration of section 41 may require that person to submit the information to the authorized person in periodic reports or in any other form and manner that the authorized person specifies.
-> 2005, c. 50, s. 2.
+**72.05** [Repealed, 2014, c. 39, s. 204]
 
 
 
-
-
-**Inspections**
-
-**72.06** 
-
-- **(1)** A person authorized to issue notices of violation may
-	- **(a)** subject to subsection (2), enter and inspect, at any reasonable time, any place in which he or she believes on reasonable grounds there is any document, information or thing relevant to the enforcement of section 41, and examine the document, information or thing or remove it for examination or reproduction;
-	- **(b)** make use of or cause to be made use of any data processing system at the place to examine any data contained in or available to the system;
-	- **(c)** reproduce any record or cause it to be reproduced from the data in the form of a print-out or other intelligible output and take the print-out or other output for examination or copying; and
-	- **(d)** make use of any copying equipment or means of communication located at the place.
-
-**Warrant required to enter dwelling-place**
-
-- **(2)** A person authorized to issue notices of violation may not enter a dwelling-place except with the consent of the occupant or under the authority of a warrant issued under subsection (3).
-
-**Authority to issue warrant**
-
-- **(3)** On *ex parte* application, a justice, as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), may issue a warrant authorizing a person authorized to issue notices of violation and who is named in the warrant to enter and inspect a dwelling-place, subject to any conditions specified in the warrant, if the justice is satisfied by information on oath
-	- **(a)** that the dwelling-place is a place described in paragraph (1)(a);
-	- **(b)** that entry to the dwelling-place is necessary for the enforcement of section 41; and
-	- **(c)** that entry has been refused, there are reasonable grounds for believing that entry will be refused, or consent to entry cannot be obtained from the occupant.
-
-**Use of force**
-
-- **(4)** A person executing a warrant issued under subsection (3) shall not use force unless he or she is accompanied by a peace officer and the use of force has been specifically authorized in the warrant.
-> 2005, c. 50, s. 2.
-
+**72.06** [Repealed, 2014, c. 39, s. 204]
 
 
 
@@ -1996,8 +2193,8 @@ the justice may issue a warrant authorizing an inspector named in the warrant to
 
 **Copy of decision and notice of rights**
 
-- **(4)** The Commission must cause a copy of any decision made under subsection (2) or (3) to be issued and served on the person together with a notice of the person’s right to apply for a review under section 62 and to appeal under section 64.
-> 2005, c. 50, s. 2.
+- **(4)** The Commission must cause a copy of any decision made under subsection (2) or (3) to be issued and served on the person together with a notice of the person’s right to apply for a review under section 62 or for leave to appeal under section 64.
+> 2005, c. 50, s. 2; 2014, c. 39, s. 205.
 
 
 
@@ -2029,27 +2226,11 @@ the justice may issue a warrant authorizing an inspector named in the warrant to
 
 
 
-
-**Defences**
-
-**72.1** 
-
-- **(1)** It is a defence for a person in a proceeding in relation to a violation to establish that the person exercised due diligence to prevent the violation.
-
-**Common law principles**
-
-- **(2)** Every rule and principle of the common law that renders any circumstance a justification or excuse in relation to a charge for an offence in relation to a contravention of a prohibition or requirement of the Commission under section 41 applies in respect of a violation to the extent that the rule or principle is not inconsistent with this Act.
-> 2005, c. 50, s. 2.
+**72.1** [Repealed, 2014, c. 39, s. 206]
 
 
 
-
-
-**Evidence**
-
-**72.11** In a proceeding in respect of a violation, a notice purporting to be served under subsection 72.07(1) or a copy of a decision purported to be served under subsection 72.08(4) is admissible in evidence without proof of the signature or official character of the person appearing to have signed it.
-> 2005, c. 50, s. 2.
-
+**72.11** [Repealed, 2014, c. 39, s. 206]
 
 
 
@@ -2078,10 +2259,56 @@ the justice may issue a warrant authorizing an inspector named in the warrant to
 
 
 
+### Provisions Applicable to Both Administrative Monetary Penalties Schemes
+
+
+
+**Evidence**
+
+**72.14** In a proceeding in respect of a violation, a notice purporting to be served under subsection 72.005(1) or 72.07(1) or a copy of a decision purporting to be served under subsection 72.007(4) or 72.08(4) is admissible in evidence without proof of the signature or official character of the person appearing to have signed it.
+> 2005, c. 50, s. 2; 2014, c. 39, s. 207.
+
+
+
+
+
+**Defence**
+
+**72.15** 
+
+- **(1)** It is a defence for a person in a proceeding in relation to a violation to establish that the person exercised due diligence to prevent the violation.
+
+**Common law principles**
+
+- **(2)** Every rule and principle of the common law that makes any circumstance a justification or excuse in relation to a charge for an offence under this Act applies in respect of a violation to the extent that it is not inconsistent with this Act.
+> 2005, c. 50, s. 2; 2014, c. 39, s. 207.
+
+
+
+
+
+**Vicarious liability — acts of employees, agents and mandataries**
+
+**72.16** A person is liable for a violation that is committed by an employee of the person acting in the course of the employee’s employment, or by an agent or mandatary of the person acting within the scope of the agent’s or mandatary’s authority, whether or not the employee or agent or mandatary who actually committed the violation is identified or proceeded against.
+> 2014, c. 39, s. 207.
+
+
+
+
+
 **How act or omission may be proceeded with**
 
-**72.14** If a contravention of a prohibition or a requirement of the Commission under section 41 can be proceeded with either as a violation or as an offence, proceeding in one manner precludes proceeding in the other.
-> 2005, c. 50, s. 2.
+**72.17** If an act or omission can be proceeded with either as a violation or as an offence, proceeding in one manner precludes proceeding in the other.
+> 2014, c. 39, s. 207.
+
+
+
+
+
+**For greater certainty**
+
+**72.18** For greater certainty, a violation is not an offence and, accordingly, section 126 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) does not apply.
+> 2014, c. 39, s. 207.
 
 
 
@@ -2089,8 +2316,8 @@ the justice may issue a warrant authorizing an inspector named in the warrant to
 
 **Section 12 does not apply**
 
-**72.15** Section 12 does not apply in respect of any decision of the Commission under subsection 72.08(2) or (3).
-> 2005, c. 50, s. 2.
+**72.19** Section 12 does not apply in respect of any decision of the Commission made under subsection 72.007(2) or (3) or 72.08(2) or (3) or the portion of the decision made under section 72.003 relating to the finding of a contravention and the imposition of a penalty.
+> 2014, c. 39, s. 207.
 
 
 
@@ -2114,7 +2341,7 @@ the justice may issue a warrant authorizing an inspector named in the warrant to
 	- **(a)** contravenes section 25, subsection 27(1) or (2) or section 69.2,
 	- **(b)** contravenes any condition referred to in section 9 or 24 or subsection 34(1) or (2),
 	- **(c)** contravenes any prohibition or requirement of the Commission under section 41, or
-	- **(d)** knowingly makes a material misrepresentation of fact or omits to state a material fact to the Minister, the Commission, a person appointed under section 70 or an inspector appointed under paragraph 69.3(1)(h) or section 71
+	- **(d)** knowingly makes a material misrepresentation of fact or omits to state a material fact to the Minister, the Commission, a person appointed under section 70 or an inspector appointed under section 71, or a person designated under section 72.004 or 72.04
 is guilty of an offence punishable on summary conviction and liable, in the case of an individual, to a fine not exceeding ten thousand dollars for a first offence or twenty-five thousand dollars for a subsequent offence, and in the case of a corporation, to a fine not exceeding one hundred thousand dollars for a first offence or two hundred and fifty thousand dollars for a subsequent offence.
 
 **Idem**
@@ -2126,7 +2353,7 @@ is guilty of an offence punishable on summary conviction and liable, in the case
 
 **Consent of Minister required**
 
-- **(4)** A prosecution may not be commenced under this section in respect of a contravention of any provision of Part I, of section 17, of Part IV.1 or of any regulations made under subsection 22(2) or section 69.4, or in respect of a material misrepresentation of fact or an omission to state a material fact to the Minister, without the consent of the Minister.
+- **(4)** A prosecution may not be commenced under this section in respect of a contravention of any provision of Part I, of section 17 or of any regulations made under subsection 22(2), or in respect of a material misrepresentation of fact or an omission to state a material fact to the Minister, without the consent of the Minister.
 
 **Consent of Commission required**
 
@@ -2143,7 +2370,7 @@ is guilty of an offence punishable on summary conviction and liable, in the case
 **Federal Court**
 
 - **(8)** For the purposes of subsection (7), the Federal Court is a court of competent jurisdiction.
-> 1993, c. 38, s. 73; 1998, c. 8, s. 9; 2002, c. 17, s. 30.
+> 1993, c. 38, s. 73; 1998, c. 8, s. 9; 2002, c. 17, s. 30; 2014, c. 39, s. 208.
 
 
 
