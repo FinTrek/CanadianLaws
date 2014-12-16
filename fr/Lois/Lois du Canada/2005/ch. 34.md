@@ -860,15 +860,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **45** 
 
-- **(1)** Le Tribunal est composé d’au plus soixante-quatorze membres à temps plein nommés par le gouverneur en conseil.
+- **(1)** Le Tribunal est composé de membres à temps plein et à temps partiel nommés par le gouverneur en conseil.
 
 **Président et vice-présidents**
 
 - **(2)** Le gouverneur en conseil désigne parmi les membres à temps plein le président, ainsi que trois vice-présidents qui sont respectivement responsables de la division d’appel, de la section de la sécurité du revenu et de la section de l’assurance-emploi.
 
-**Membres à temps partiel**
-
-- **(3)** Le Tribunal est également composé de membres à temps partiel nommés par le gouverneur en conseil si ce dernier l’estime nécessaire compte tenu de la charge de travail du Tribunal, pourvu que le cumul du temps qu’ils consacrent à l’exercice de leurs attributions n’excède pas celui qu’y consacreraient onze membres à temps plein.
+- **(3)** [Abrogé, 2014, ch. 39, art. 252]
 
 **Durée du mandat**
 
@@ -877,7 +875,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Occupation du poste**
 
 - **(5)** Les membres occupent leur poste à titre inamovible, sous réserve de révocation motivée prononcée par le gouverneur en conseil.
-> 2005, ch. 34, art. 45 et 83; 2012, ch. 19, art. 224.
+> 2005, ch. 34, art. 45 et 83; 2012, ch. 19, art. 224; 2014, ch. 39, art. 252.
 
 
 
