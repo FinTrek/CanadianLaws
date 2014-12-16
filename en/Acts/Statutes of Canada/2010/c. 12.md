@@ -3686,23 +3686,44 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 
 
-### Nuclear Energy Act
-
-
-**2147** [Amendment]
+### Canadian Nuclear Laboratories Ltd.
 
 
 
+**Agent of Her Majesty**
 
-### Coming into Force
+**2147** Canadian Nuclear Laboratories Ltd., a corporation incorporated under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md) on May 30, 2014, is an agent of Her Majesty in right of Canada.
+> 2010, c. 12, s. 2147; 2014, c. 39, s. 378.
 
 
 
-**Order in council**
 
-***2148** The provisions of this Part come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind220F_hq_9620'><sup>*</sup></a>: [Note: Sections 2137 to 2147 in force March 25, 2011, *see* SI/2011-25.]<br />
+**Deeming on sale or disposition**
+
+**2148** 
+
+- **(1)** A sale or other disposition by AECL of the securities of Canadian Nuclear Laboratories Ltd. under paragraph 2141(1)(j) is deemed to be a transfer or divestiture of the administration of a service to which subsection 40.1(1) of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) applies. On the day on which the sale or disposition occurs,
+	- **(a)** every employee of Canadian Nuclear Laboratories Ltd. is deemed to be a contributor to whom that subsection 40.1(1) applies; and
+	- **(b)** Canadian Nuclear Laboratories Ltd. is deemed to be the person, referred to in that subsection 40.1(1), to whom the service is transferred or divested who becomes the employer of the employees.
+
+**Transitional period**
+
+- **(2)** Canadian Nuclear Laboratories Ltd. forms part of the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md), as if the Treasury Board had so directed under paragraph 40.1(2)(a) of that Act, for a period of three years beginning on the day on which the sale or other disposition referred to in subsection (1) takes place.
+
+**Monthly payments**
+
+- **(3)** As a condition of remaining part of the public service, Canadian Nuclear Laboratories Ltd. must make monthly payments into the Superannuation Account or the Public Service Pension Fund of the amounts determined in accordance with section 9 of the [Public Service Superannuation Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1301-1400/C.R.C.,%20c.%201358.md).
+
+**Not required to contribute**
+
+- **(4)** An individual who becomes, or again becomes, an employee of Canadian Nuclear Laboratories Ltd. after the day on which the sale or other disposition referred to in subsection (1) takes place is not required to contribute under section 5 of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) during the period referred to in subsection (2).
+
+**For greater certainty**
+
+- **(5)** For greater certainty, regulations may be made under paragraph 42.1(1)(u) of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) with respect to the employees who are deemed to be contributors under paragraph (1)(a).
+> 2010, c. 12, s. 2148; 2014, c. 39, s. 379.
+
 
 
 
