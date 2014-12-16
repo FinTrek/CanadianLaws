@@ -1091,6 +1091,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2.1)** Toute administration portuaire peut acquérir ou louer à titre de locataire un immeuble ou un bien réel, autre qu’un immeuble fédéral ou un bien réel fédéral, ou acquérir un permis à leur égard, si elle y est autorisée au préalable par lettres patentes supplémentaires.
 
+**Acquisition d’immeubles fédéraux ou de biens réels fédéraux**
+
+- **(2.11)** Toute administration portuaire peut acquérir un immeuble fédéral ou un bien réel fédéral, à la condition que soient délivrées au préalable des lettres patentes supplémentaires. Il est entendu que l’immeuble fédéral ou le bien réel fédéral devient, au moment de l’acquisition, un immeuble ou un bien réel autre qu’un immeuble fédéral ou un bien réel fédéral.
+
+**Location ou octroi de permis — autres immeubles ou biens réels**
+
+- **(2.12)** Toute administration portuaire peut, pour l’exploitation du port, louer un immeuble ou un bien réel, autre qu’un immeuble fédéral ou un bien réel fédéral, qu’elle détient ou octroyer des permis à leur égard, sous réserve des limites précisées dans les lettres patentes de l’administration. La durée maximale des baux et permis ne peut excéder celle qu’elles précisent.
+
 **Utilisation temporaire**
 
 - **(2.2)** L’administration portuaire peut au titre de l’alinéa 28(2)b) louer tout immeuble ou bien réel, autre qu’un immeuble fédéral ou bien réel fédéral, qu’elle détient ou accorder des permis à leur égard pour une utilisation temporaire.
@@ -1098,7 +1106,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application du droit provincial**
 
 - **(3)** Les concessions peuvent être faites par un acte qui, en vertu des lois de la province de situation de l’immeuble fédéral ou du bien réel fédéral, peut servir à faire des concessions entre sujets de droit privé.
-> 1998, ch. 10, art. 46; 2001, ch. 4, art. 141; 2008, ch. 21, art. 25.
+> 1998, ch. 10, art. 46; 2001, ch. 4, art. 141; 2008, ch. 21, art. 25; 2014, ch. 39, art. 228.
 
 
 
@@ -1124,7 +1132,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Les plans d’utilisation des sols peuvent :
 	- **a)** interdire l’utilisation de la totalité ou d’une partie des immeubles et des biens réels à certaines fins ou la limiter à certaines fins déterminées;
 	- **b)** interdire la construction de bâtiments ou d’ouvrages ou d’un certain type de bâtiments ou d’ouvrages;
-	- **c)** sous réserve des règlements d’application de l’article 62, réglementer les caractéristiques des bâtiments ou ouvrages qui peuvent être construits.
+	- **c)** sous réserve des règlements d’application de l’article 62 ou du paragraphe 64.1(1), réglementer les caractéristiques des bâtiments ou ouvrages qui peuvent être construits.
 
 **Bâtiments existants**
 
@@ -1157,7 +1165,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
 - **(9)** Les plans d’utilisation des sols ne sont pas des règlements au sens de la Loi sur les textes réglementaires.
-> 1998, ch. 10, art. 48; 2001, ch. 4, art. 142.
+> 1998, ch. 10, art. 48; 2001, ch. 4, art. 142; 2014, ch. 39, art. 229.
 
 
 
@@ -1432,16 +1440,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Maintien de l’ordre et de la sécurité des personnes et des biens**
+**Maintien de l’ordre et de la sécurité**
 
 **61** 
 
-- **(1)** Sous réserve des règlements d’application de l’article 62, les administrations portuaires sont tenues de prendre les mesures nécessaires en vue du maintien de l’ordre et de la sécurité des personnes et des biens dans le port.
+- **(1)** Sous réserve des règlements d’application de l’article 62 ou du paragraphe 64.1(1), les administrations portuaires sont tenues de prendre les mesures nécessaires en vue du maintien de l’ordre et de la sécurité des personnes et des biens dans le port.
 
 **Sûreté du transport maritime**
 
 - **(2)** Sous réserve des règlements pris en vertu de la [Loi sur la sûreté du transport maritime](/fr/Lois/Lois%20du%20Canada/1994/ch.%2040.md), les administrations portuaires sont tenues de prendre les mesures nécessaires en vue du maintien de la sûreté du transport maritime.
-> 1998, ch. 10, art. 61; 2008, ch. 21, art. 33.
+> 1998, ch. 10, art. 61; 2008, ch. 21, art. 33; 2014, ch. 39, art. 230.
 
 
 
@@ -1511,6 +1519,180 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Preuve du périmètre portuaire**
 
 **64** L’administration portuaire peut mettre en place des bornes ou jalons pour délimiter les eaux navigables qui relèvent de sa compétence et chaque borne ou jalon ainsi placé constitue en justice une preuve du périmètre portuaire.
+
+
+
+
+### Entreprises situées dans un port
+
+
+
+#### Règlements
+
+
+
+**Règlements**
+
+**64.1** 
+
+- **(1)** Le gouverneur en conseil peut prendre des règlements concernant les entreprises — individuellement ou au titre de leur appartenance à une catégorie — situées ou dont il est prévu qu’elles seront situées dans un port, notamment à l’égard du développement du port, de son utilisation et de la protection de son environnement en lien avec ces entreprises.
+
+**Contenu des règlements**
+
+- **(2)** Les règlements peuvent notamment :
+	- **a)** désigner les entreprises ou catégories d’entreprises auxquelles ils s’appliquent;
+	- **b)** conférer à toute personne ou tout organisme tout pouvoir, notamment législatif, administratif ou judiciaire, que le gouverneur en conseil juge nécessaire pour que soient régies efficacement les entreprises;
+	- **c)** conférer à toute personne ou tout organisme les pouvoirs ci-après, dont l’exercice se fait dans des circonstances et de manière similaires à ce que permet le droit de la province où est située l’entreprise :
+		- **(i)** ordonner à toute personne ou tout organisme de cesser tous travaux, de se conformer aux règlements ou de prendre toute mesure pour remédier aux conséquences découlant de toute contravention aux règlements,
+		- **(ii)** effectuer tous travaux que la personne ou l’organisme considère nécessaires et prendre toute mesure de recouvrement du coût de ces travaux;
+	- **d)** fixer les frais qui doivent être payés relativement aux entreprises, ou en prévoir le mode de calcul;
+	- **e)** fixer le taux d’intérêt applicable aux sommes qui sont exigibles au titre des règlements, ou en prévoir le mode de calcul;
+	- **f)** disposer que la contravention aux règlements constitue une infraction punissable sur déclaration de culpabilité par procédure sommaire lorsqu’un geste — acte ou omission — similaire constitue une infraction aux lois de la province où est située l’entreprise et imposer une peine — amende, emprisonnement ou les deux — à concurrence de ce que prévoient ces lois pour ce geste;
+	- **g)** disposer que la contravention aux règlements fait l’objet d’une sanction administrative pécuniaire lorsqu’un geste — acte ou omission — similaire fait l’objet d’une telle sanction selon les lois de la province où est située l’entreprise et fixer le montant de la sanction à concurrence de ce que prévoient ces lois pour ce geste;
+	- **h)** limiter la responsabilité de toute personne ou tout organisme qui exerce des attributions conférées par les règlements et établir les moyens de défense et immunités dont ceux-ci peuvent se prévaloir;
+	- **i)** conférer à toute personne, pour vérifier le respect des règlements, le pouvoir d’entrer dans tout lieu et de l’inspecter, ainsi que de saisir et de retenir tout bien qui s’y trouve, dans des circonstances et de manière similaires à ce que permet le droit de la province où est située l’entreprise;
+	- **j)** exiger toute garantie, notamment l’établissement de fiducies ou de fonds, pour assurer l’exécution de toute obligation imposée aux termes des règlements;
+	- **k)** prévoir les règles s’appliquant à la protection et à la communication des renseignements obtenus en application des règlements;
+	- **l)** prévoir la conservation et la disposition, notamment par destruction, de documents — quel que soit le support utilisé — créés ou soumis en application des règlements;
+	- **m)** prévoir les règles de procédure applicables à toute audience concernant une entreprise, notamment les règles relatives à la délivrance d’assignations à comparaître, à déposer sous serment ou à produire des documents, ou conférer à toute personne ou à tout organisme le pouvoir de prévoir de telles règles;
+	- **n)** prévoir l’arbitrage de tout différend découlant de l’application des règlements.
+
+**Obligation de Sa Majesté**
+
+- **(3)** Les règlements pris en vertu du paragraphe (1) peuvent être rendus obligatoires pour Sa Majesté du chef du Canada ou d’une province.
+> 2014, ch. 39, art. 231.
+
+
+
+
+
+**Incorporation par renvoi**
+
+**64.2** 
+
+- **(1)** Les règlements pris en vertu du paragraphe 64.1(1) peuvent incorporer par renvoi, soit dans sa version à une date donnée, soit avec ses modifications successives, tout document établi par une personne ou un organisme autre que le ministre, notamment tout texte législatif d’une province et tout instrument législatif pris en vertu de celui-ci, et y apporter les adaptations que le gouverneur en conseil estime nécessaires.
+
+**Pouvoir existant non restreint**
+
+- **(2)** Il est entendu que le pouvoir exprès d’incorporer par renvoi prévu au paragraphe (1) ne restreint pas le pouvoir qui existe par ailleurs d’incorporer par renvoi tout document dans les règlements pris en vertu de la présente loi.
+> 2014, ch. 39, art. 231.
+
+
+
+
+
+**Prépondérance des autres règlements fédéraux**
+
+**64.3** Les règlements pris en vertu du paragraphe 63(2) ou de toute autre loi fédérale l’emportent sur tout règlement incompatible pris en vertu du paragraphe 64.1(1), sauf disposition contraire des règlements pris en vertu de ce paragraphe 64.1(1).
+> 2014, ch. 39, art. 231.
+
+
+
+
+
+**Prépondérance du règlement**
+
+**64.4** Les règlements pris en vertu du paragraphe 64.1(1) l’emportent sur tout règlement administratif, pratique et procédure, autre instrument semblable ou plan d’utilisation des sols incompatible pris par une administration portuaire, sauf disposition contraire des règlements pris en vertu de ce paragraphe.
+> 2014, ch. 39, art. 231.
+
+
+
+
+
+**Non-application**
+
+**64.5** Les articles 108 à 129.19 ne s’appliquent pas à l’exécution ou au contrôle d’application des règlements pris en vertu du paragraphe 64.1(1) ou à leur contravention.
+> 2014, ch. 39, art. 231.
+
+
+
+
+
+#### Accords
+
+
+
+**Accords — exécution et contrôle d’application**
+
+**64.6** 
+
+- **(1)** Le ministre peut conclure des accords avec toute personne ou tout organisme, notamment le gouvernement d’une province, pour l’exécution et le contrôle d’application des règlements pris en vertu du paragraphe 64.1(1).
+
+**Résolution de différends**
+
+- **(2)** L’accord peut prévoir l’arbitrage, en conformité avec le droit de la province, de tout différend découlant de son interprétation ou de son application. Le cas échéant, la [Loi sur l’arbitrage commercial](/fr/Lois/Lois%20du%20Canada/1985/ch.%2017%20(2e%20suppl.).md) ne s’applique pas au différend.
+> 2014, ch. 39, art. 231.
+
+
+
+
+
+#### Autres lois
+
+
+
+**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+**64.7** Les textes pris par un fonctionnaire ou organisme provincial sous le régime d’un texte législatif de la province incorporé par renvoi dans un règlement pris en vertu du paragraphe 64.1(1) ne sont pas assujettis à la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+> 2014, ch. 39, art. 231.
+
+
+
+
+
+**[Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md)**
+
+**64.8** 
+
+- **(1)** Ni le fonctionnaire provincial ni l’organisme provincial qui exerce des attributions conférées par un règlement pris en vertu du paragraphe 64.1(1) ne constitue un office fédéral au sens de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md).
+
+**Appel ou contrôle judiciaire devant les tribunaux provinciaux**
+
+- **(2)** Sauf disposition contraire d’un règlement pris en vertu du paragraphe 64.1(1), l’exercice de toute attribution conférée par un texte législatif de la province qui est incorporé par renvoi dans ce règlement est susceptible d’appel ou de contrôle judiciaire devant les tribunaux de la province, de la manière et dans les circonstances prévues par le droit de la province.
+> 2014, ch. 39, art. 231.
+
+
+
+
+
+**Paiements perçus**
+
+**64.9** Les paiements perçus en application d’un règlement pris en vertu du paragraphe 64.1(1) par tout fonctionnaire ou organisme provincial ne constituent pas des fonds publics au sens de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+> 2014, ch. 39, art. 231.
+
+
+
+
+
+**[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
+
+**64.91** Il est entendu que la [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux frais fixés en vertu de tout texte législatif d’une province incorporé par renvoi dans un règlement pris en vertu du paragraphe 64.1(1).
+> 2014, ch. 39, art. 231.
+
+
+
+
+
+#### Limites de responsabilité, moyens de défense et immunités
+
+
+
+**Actes et omissions**
+
+**64.92** À l’égard des actes ou omissions survenant dans l’exercice des attributions conférées par un règlement pris en vertu du paragraphe 64.1(1) :
+- **a)** Sa Majesté du chef du Canada bénéficie des mêmes limites de responsabilité, moyens de défense et immunités que ceux dont Sa Majesté du chef de la province où est située une entreprise visée par le règlement bénéficierait si elle exerçait ces attributions en vertu du droit de cette province;
+- **b)** l’administration portuaire ainsi que toute personne ou tout organisme exerçant ces attributions bénéficient, sauf disposition contraire du règlement, des mêmes limites de responsabilité, moyens de défense et immunités que ceux dont ils bénéficieraient s’ils exerçaient celles-ci en vertu du droit de la province où est située l’entreprise visée par le règlement.
+> 2014, ch. 39, art. 231.
+
+
+
+
+
+**Intérêts ou droits sur les ports**
+
+**64.93** Les règlements pris en vertu du paragraphe 64.1(1) ne peuvent servir de fondement à aucun recours civil ni à aucune ordonnance, amende ou sanction pécuniaire à l’égard d’une entreprise qui est située dans un port contre Sa Majesté du chef du Canada ou une administration portuaire en sa qualité de titulaire d’un intérêt ou d’un droit dans ce port.
+> 2014, ch. 39, art. 231.
+
 
 
 
