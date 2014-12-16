@@ -366,7 +366,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **17** 
 
-- **(1)** Sous réserve de l’article 746.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), du paragraphe 226.1(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et du paragraphe 15(2) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md), le directeur du pénitencier peut autoriser un délinquant à sortir si celui-ci est escorté d’une personne — agent ou autre — habilitée à cet effet par lui lorsque, à son avis :
+- **(1)** Sous réserve de l’article 746.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), du paragraphe 140.3(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et du paragraphe 15(2) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md), le directeur du pénitencier peut autoriser un délinquant, sauf un délinquant visé au paragraphe 17.1(1), à sortir si celui-ci est escorté d’une personne — agent ou autre — habilitée à cet effet par lui lorsque, à son avis :
 	- **a)** une récidive du délinquant pendant la sortie ne présentera pas un risque inacceptable pour la société;
 	- **b)** il l’estime souhaitable pour des raisons médicales, administratives, de compassion ou en vue d’un service à la collectivité, ou du perfectionnement personnel lié à la réadaptation du délinquant, ou pour lui permettre d’établir ou d’entretenir des rapports familiaux notamment en ce qui touche ses responsabilités parentales;
 	- **c)** la conduite du détenu pendant la détention ne justifie pas un refus;
@@ -392,7 +392,43 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 **Délégation au responsable d’un hôpital**
 
 - **(6)** Le directeur peut, aux conditions et pour la durée qu’il estime indiquées, déléguer au responsable d’un hôpital sous administration provinciale où la liberté des personnes est normalement soumise à des restrictions l’un ou l’autre des pouvoirs que lui confère le présent article à l’égard des détenus admis dans l’hôpital aux termes d’un accord conclu conformément au paragraphe 16(1).
-> 1992, ch. 20, art. 17; 1995, ch. 22, art. 13, ch. 42, art. 7(F); 1998, ch. 35, art. 108; 2000, ch. 24, art. 34; 2013, ch. 24, art. 127
+> 1992, ch. 20, art. 17; 1995, ch. 22, art. 13, ch. 42, art. 7(F); 1998, ch. 35, art. 108; 2000, ch. 24, art. 34; 2013, ch. 24, art. 127; 2014, ch. 36, art. 1
+
+
+
+
+
+**Permission de sortir avec escorte — exception**
+
+**17.1** 
+
+- **(1)** La Commission des libérations conditionnelles du Canada peut autoriser un délinquant qui purge une peine minimale d’emprisonnement à perpétuité et est admissible à la semi-liberté à sortir si celui-ci est escorté d’une personne — agent ou autre — habilitée à cet effet par le directeur du pénitencier lorsqu’elle est d’avis :
+	- **a)** qu’une récidive du délinquant pendant la sortie ne présentera pas un risque inacceptable pour la société;
+	- **b)** que cela est souhaitable pour des raisons administratives, de compassion ou en vue d’un service à la collectivité ou du perfectionnement personnel lié à la réadaptation du délinquant, ou encore pour lui permettre d’établir ou d’entretenir des rapports familiaux, notamment en ce qui touche ses responsabilités parentales;
+	- **c)** que la conduite du détenu pendant la détention ne justifie pas un refus;
+	- **d)** qu’un projet structuré de sortie a été établi.
+La permission est accordée pour une période maximale de quinze jours.
+
+**Permissions subséquentes**
+
+- **(2)** Si la Commission des libérations conditionnelles du Canada autorise une sortie en vertu du paragraphe (1) en vue d’un service à la collectivité ou du perfectionnement personnel lié à la réadaptation du délinquant, ou pour lui permettre d’établir ou d’entretenir des rapports familiaux, notamment en ce qui touche ses responsabilités parentales, et que la permission n’est pas annulée pour violation d’une des conditions de la permission, le directeur du pénitencier peut accorder toute permission de sortir avec escorte subséquente s’il estime que les exigences prévues aux alinéas (1)a) à d) sont remplies.
+
+**Commission des libérations conditionnelles du Canada**
+
+- **(3)** Si une permission accordée par le directeur du pénitencier est annulée du fait que le délinquant n’a pas respecté l’une des conditions de la permission, seule la Commission des libérations conditionnelles du Canada peut accorder une permission subséquente.
+
+**Conditions**
+
+- **(4)** La Commission des libérations conditionnelles du Canada ou le directeur du pénitencier, selon le cas, peut imposer, relativement à une permission accordée par l’un ou l’autre, toute condition qui, à son avis, est raisonnable et nécessaire en ce qui touche la protection de la société.
+
+**Annulation et motifs**
+
+- **(5)** Le directeur du pénitencier peut, avant son début ou au cours de celle-ci, annuler la sortie accordée au titre du présent article, auquel cas il donne par écrit au délinquant les motifs de cette annulation.
+
+**Autorisation ou refus et motifs**
+
+- **(6)** La Commission des libérations conditionnelles du Canada ou le directeur du pénitencier, selon le cas, donne par écrit au délinquant les motifs de l’autorisation ou du refus d’une sortie.
+> 2014, ch. 36, art. 1.1
 
 
 
@@ -1608,10 +1644,10 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 
 **Règlements**
 
-**96** Le gouverneur en conseil peut prendre des règlements :
+**96** Le gouverneur en conseil peut prendre des règlements :
 - **a)** fixant les fonctions des agents;
 - **b)** en vue d’autoriser les agents ou toute catégorie d’agents à exercer des pouvoirs et fonctions attribués par la présente partie au commissaire ou au directeur du pénitencier;
-- **c)** précisant, pour l’application de l’article 22 :
+- **c)** précisant, pour l’application de l’article 22 :
 	- **(i)** les circonstances où une indemnité peut être versée,
 	- **(ii)** la nature d’une invalidité,
 	- **(iii)** la méthode de détermination d’une invalidité et de son taux,
@@ -1623,7 +1659,7 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 - **f)** concernant les allocations, les vêtements ou objets de première nécessité à remettre aux détenus quittant, même temporairement, le pénitencier;
 - **g)** concernant l’isolement préventif;
 - **h)** précisant la teneur de l’avis visé à l’article 42 et son délai de transmission au détenu;
-- **i)** concernant l’exécution, la suspension et l’annulation des sanctions disciplinaires prévues à l’article 44 et précisant :
+- **i)** concernant l’exécution, la suspension et l’annulation des sanctions disciplinaires prévues à l’article 44 et précisant :
 	- **(i)** le maximum de chaque peine, lequel doit être, pour les infractions disciplinaires mineures, inférieur à celui prévu pour les infractions disciplinaires graves,
 	- **(ii)** les facteurs et les grands principes à prendre en compte pour la détermination des peines,
 	- **(iii)** la portée de chaque peine;
@@ -1654,12 +1690,12 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 - **z.5)** fixant la procédure à suivre en cas d’usage de force par un agent;
 - **z.6)** concernant l’assignation d’une cote de sécurité au détenu et le classement de celui-ci dans une sous-catégorie au titre de l’article 30 ainsi que les critères de détermination de la cote et de la sous-catégorie;
 - **z.7)** autorisant, dans les circonstances précisées, le directeur ou l’agent que celui-ci désigne à intercepter, surveiller ou empêcher les communications entre un détenu et toute autre personne;
-- **z.8)** concernant les permissions de sortir avec escorte et les placements à l’extérieur — notamment les circonstances dans lesquelles le directeur peut accorder une permission de sortir au titre de l’article 17;
+- **z.8)** concernant les permissions de sortir avec escorte et les placements à l’extérieur — notamment les circonstances dans lesquelles le directeur ou la Commission, selon le cas, peuvent accorder une permission de sortir au titre de l’article 17;
 - **z.9)** concernant les modalités d’une demande faite au commissaire conformément à l’article 26 et concernant la manière de traiter cette demande;
 - **z.10)** imposant des obligations ou des interdictions au Service pour l’application de toute disposition de la présente partie;
 - **z.11)** portant toute mesure d’ordre réglementaire prévue par la présente partie;
 - **z.12)** portant toute autre mesure d’application de la présente partie.
-> 1992, ch. 20, art. 96; 1995, ch. 42, art. 25 et 72(F); 2012, ch. 1, art. 69
+> 1992, ch. 20, art. 96; 1995, ch. 42, art. 25 et 72(F); 2012, ch. 1, art. 69; 2014, ch. 36, art. 2(F)
 
 
 
