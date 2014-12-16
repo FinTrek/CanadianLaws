@@ -165,44 +165,44 @@ le solde obtenu après cette déduction ou cette retenue, selon le cas, est rép
 - **(1)** Sauf dispositions contraires de la présente partie, le montant à déduire ou à retenir par un employeur
 	- **a)** de tout paiement de rémunération (dans le présent paragraphe, appelé le « paiement ») versé à un employé dans son année d’imposition lorsqu’il se présente au travail à un établissement de l’employeur situé dans une province, au Canada au-delà des limites d’une province ou à l’extérieur du Canada, et
 	- **b)** pour toute période de paie pendant laquelle l’employeur verse le paiement
-est déterminé pour chaque paiement conformément aux règles suivantes :
-	- **c)** un montant représentant la rémunération conceptuelle pour l’année à l’égard des sommes suivantes :
+est déterminé pour chaque paiement conformément aux règles suivantes :
+	- **c)** un montant représentant la rémunération conceptuelle pour l’année à l’égard des sommes suivantes :
 		- **(i)** un paiement versé à l’employé,
 		- **(ii)** les pourboires éventuels, visés à l’alinéa a.1) de la définition de ***rémunération*** au paragraphe 100(1),
-est réputé être égal au produit suivant :
+est réputé être égal au produit suivant :
 ```
 A × B
 ```
-où :
-- **A** représente le montant qui est réputé, pour l’application du présent alinéa, être le point moyen du palier de rémunération applicable pour la période de paie, selon l’annexe I, où se situe le total des sommes suivantes :
+où :
+- **A** représente le montant qui est réputé, pour l’application du présent alinéa, être le point moyen du palier de rémunération applicable pour la période de paie, selon l’annexe I, où se situe le total des sommes suivantes :
 	- **(A)** le paiement visé au sous-alinéa (i), effectué pendant la période de paie,
 	- **(B)** les pourboires visés au sous-alinéa (ii), déclarés par l’employé pour la période de paie,
 - **B** le nombre maximum de périodes de paie pour l’année;
 	- **d)** si l’employé ne réside pas au Canada à la date du paiement, aucun crédit d’impôt personnel n’est admis pour l’application du présent paragraphe et, si l’employé réside au Canada à la date du paiement, ses crédits d’impôt personnels pour l’année correspondent, s’ils sont compris dans un palier de montants prévu à l’article 2 de l’annexe I, au point milieu de ce palier;
-	- **e)** un montant (appelé « impôt conceptuel pour l’année » au présent paragraphe) est calculé pour cet employé comme suit :
+	- **e)** un montant (appelé « impôt conceptuel pour l’année » au présent paragraphe) est calculé pour cet employé comme suit :
 		- **(i)** l’impôt payable pour l’année est calculé comme s’il était établi selon le paragraphe 117(2) de la Loi et rajusté annuellement conformément à l’article 117.1 de la Loi, sur le montant qui est déterminé selon l’alinéa c) comme s’il représentait son montant imposable pour l’année,
-et il en est déduit le total des montants suivants :
+et il en est déduit le total des montants suivants :
 		- **(ii)** le produit obtenu lorsque le montant déterminé selon l’alinéa d) est multip1ié par le taux de base pour l’année,
-		- **(iii)** le produit obtenu lorsque sont multipliés :
+		- **(iii)** le produit obtenu lorsque sont multipliés :
 			- **(A)** le produit de la multiplication du montant déterminé selon l’alinéa c) par le taux de cotisation de l’employé pour l’année payable aux termes de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), jusqu’à concurrence du montant maximum des cotisations payables par l’employé pour l’année aux termes de cette loi,
 			- **(B)** le taux de base pour l’année,
-		- **(iv)** le produit obtenu lorsque sont multipliés :
+		- **(iv)** le produit obtenu lorsque sont multipliés :
 			- **(A)** la différence entre le montant déterminé selon l’alinéa c) et le montant déterminé pour l’année en vertu de l’article 20 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), multipliée par le taux de cotisation de l’employé pour l’année prévu par le [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou un régime provincial de pensions au sens du paragraphe 3(1) de cette loi, jusqu’à concurrence du montant maximum des cotisations payables par l’employé pour l’année selon le régime,
 			- **(B)** le taux de base pour l’année;
 	- **f)** le montant calculé selon l’alinéa e) est augmenté, s’il y a lieu, de l’impôt tel qu’il est prévu au paragraphe 120(1) de la Loi;
-	- **g)** lorsque la rémunération conceptuelle pour l’année est un revenu gagné dans la province de Québec, le montant calculé selon l’alinéa e) est réduit d’un montant correspondant au total des montants suivants :
+	- **g)** lorsque la rémunération conceptuelle pour l’année est un revenu gagné dans la province de Québec, le montant calculé selon l’alinéa e) est réduit d’un montant correspondant au total des montants suivants :
 		- **(i)** le montant qui est réputé payé en vertu du paragraphe 120(2) de la Loi comme s’il n’y avait aucune autre source de revenu ou de perte pour l’année,
 		- **(ii)** le montant de la majoration appliquée au montant visé au sous-alinéa (i) en vertu de l’article 27 de la Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces et sur les contributions fédérales en matière d’enseignement secondaire et de santé;
 	- **h)** [Abrogé, DORS/92-667, art. 1]
-	- **i)** le montant à déduire ou à retenir est calculé comme suit :
+	- **i)** le montant à déduire ou à retenir est calculé comme suit :
 		- **(i)** le montant d’impôt conceptuel pour l’année est divisé par le nombre maximum de périodes de paie pour l’année relativement à la période de paie en cause,
 		- **(ii)** le montant déterminé selon le sous-alinéa (i) est arrondi au plus proche multiple de cinq cents ou, si le montant est équidistant de deux multiples, au multiple le plus élevé.
 
 - **(2)** Lorsqu’un employé a exercé un choix en vertu du paragraphe 107(2) et qu’il ne l’a pas révoqué, le montant à déduire ou à retenir par l’employeur de tout paiement de rémunération (dans le présent paragraphe, appelé le « paiement ») qui est
 	- **a)** un paiement à l’égard de commissions ou un paiement mixte à l’égard de commissions et d’un traitement ou de commissions et d’un salaire, ou
 	- **b)** un paiement à l’égard de traitement ou salaire lorsque l’employé est rémunéré selon un paiement mixte à l’égard de commissions et de traitement ou salaire,
-versé à cet employé dans son année d’imposition lorsqu’il se présente au travail à un établissement de l’employeur dans une province, au Canada au-delà des limites d’une province ou à l’extérieur du Canada, est déterminé pour chaque paiement conformément aux règles suivantes :
-	- **c)** le montant du revenu imposable annuel estimé de cet employé est déterminé selon la formule suivante :
+versé à cet employé dans son année d’imposition lorsqu’il se présente au travail à un établissement de l’employeur dans une province, au Canada au-delà des limites d’une province ou à l’extérieur du Canada, est déterminé pour chaque paiement conformément aux règles suivantes :
+	- **c)** le montant du revenu imposable annuel estimé de cet employé est déterminé selon la formule suivante :
 ```
 A - B
 ```
@@ -210,18 +210,18 @@ où
 - **A** représente le montant de la rémunération totale de cet employé pour l’année comme il l’a inscrit sur la formule visée au paragraphe 107(2),
 - **B** le montant des dépenses de l’employé pour l’année comme il l’a inscrit sur cette formule;
 	- **d)** l’employé qui ne réside pas au Canada à la date du paiement n’a droit à aucun crédit d’impôt personnel aux termes du présent paragraphe et les crédits d’impôt personnels pour l’année de l’employé qui réside au Canada à la date du paiement correspondent au montant total de la demande pour l’année, tel qu’il l’a inscrit sur la déclaration visée au paragraphe 107(1);
-	- **e)** un montant (appelé « impôt conceptuel pour l’année » au présent paragraphe) est calculé pour l’employé selon la formule suivante :
+	- **e)** un montant (appelé « impôt conceptuel pour l’année » au présent paragraphe) est calculé pour l’employé selon la formule suivante :
 ```
 C - [(D + E + F) × G] + H - I
 ```
-où :
+où :
 - **C** représente le montant de l’impôt payable pour l’année, calculé comme s’il était établi selon le paragraphe 117(2) de la Loi et rajusté annuellement conformément à l’article 117.1 de la Loi, sur le montant déterminé selon l’alinéa c), comme si ce montant représentait son montant imposable pour l’année,
 - **D** le montant déterminé selon l’alinéa d),
 - **E** le produit de la multiplication du montant correspondant à l’élément A de la formule figurant à l’alinéa c) par le taux de cotisation de l’employé pour l’année payable aux termes de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), jusqu’à concurrence du montant maximum des cotisations payables par l’employé pour l’année aux termes de cette loi,
 - **F** la différence entre le montant correspondant à l’élément A de la formule figurant à l’alinéa c) et le montant pour l’année déterminé selon l’article 20 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), multipliée par le taux de cotisation de l’employé pour l’année payable aux termes de cette loi ou d’un régime provincial de pensions au sens de l’article 3 de la même loi, jusqu’à concurrence du montant maximum des cotisations payables par l’employé pour l’année aux termes de ce régime,
 - **G** le taux de base pour l’année,
 - **H** l’impôt prévu au paragraphe 120(1) de la Loi, s’il y a lieu,
-- **I** si la rémunération totale pour l’année est un revenu gagné dans la province de Québec, le montant égal au total des montants suivants :
+- **I** si la rémunération totale pour l’année est un revenu gagné dans la province de Québec, le montant égal au total des montants suivants :
 	- **(i)** la somme qui serait réputée payée aux termes du paragraphe 120(2) de la Loi à l’égard de l’employé si son impôt conceptuel pour l’année était calculé sans égard aux éléments H, I et J de la présente formule et si cet impôt représentait son impôt à payer pour l’année aux termes de la partie I de la Loi, comme s’il n’y avait aucune autre source de revenu ni autre perte pour l’année,
 	- **(ii)** le montant de la majoration appliquée au montant visé au sous-alinéa (i) aux termes de l’article 27 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md);
 	- **f)** le taux conceptuel d’impôt de l’employé pour une année est obtenu par la division du montant déterminé à l’alinéa e) par le montant correspondant à l’élément A de la formule figurant à l’alinéa c) qui s’applique à l’employé et est exprimé en une fraction décimale arrêtée à la deuxième décimale, les résultats ayant au moins cinq en troisième décimale étant arrondis à la deuxième décimale supérieure;
@@ -234,11 +234,8 @@ où :
 
 - **(5)** Nonobstant les paragraphes (1) et (2), l’employeur ne peut déduire ni retenir dans l’année aucun montant sur un paiement de rémunération qu’il verse à un employé au titre de commissions gagnées par lui au cours de l’année précédente, s’il a déjà inscrit ces commissions dans une déclaration de renseignements à titre de rémunération de l’employé pour cette année.
 
-#### Membre des Forces canadiennes ou agent de police — exception
-
-
-- **(6)** Malgré le paragraphe (1), l’employeur ne peut déduire ni retenir dans l’année un montant sur la somme déterminée aux termes du sous-alinéa 110(1)f)(v) de la Loi.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-331, art. 2; DORS/78-449, art. 1; DORS/78-625, art. 1; DORS/79-359, art. 1; DORS/79-694, art. 1; DORS/80-187, art. 1; DORS/80-683, art. 2; DORS/80-941, art. 2; DORS/81-471, art. 3; DORS/83-349, art. 2; DORS/83-692, art. 2 à 4; DORS/84-913, art. 1; DORS/84-966, art. 1; DORS/85-453, art. 1 et 2; DORS/86-629, art. 2; DORS/87-471, art. 2; DORS/88-310, art. 1; DORS/89-508, art. 2; DORS/90-161, art. 1; DORS/91-150, art. 1; DORS/91-279, art. 1; DORS/91-536, art. 1; DORS/92-138, art. 1; DORS/92-667, art. 1; DORS/94-238, art. 2; DORS/94-569, art. 1; DORS/98-259, art. 2; DORS/99-17, art. 2; DORS/2001-221, art. 2; DORS/2005-185, art. 2.
+- **(6)** Malgré le paragraphe (1), aucun montant n’est à déduire ou à retenir par un employeur au cours de l’année d’une somme déterminée selon les sous-alinéas 110(1)f)(iii), (iv) ou (v) de la Loi.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-331, art. 2; DORS/78-449, art. 1; DORS/78-625, art. 1; DORS/79-359, art. 1; DORS/79-694, art. 1; DORS/80-187, art. 1; DORS/80-683, art. 2; DORS/80-941, art. 2; DORS/81-471, art. 3; DORS/83-349, art. 2; DORS/83-692, art. 2 à 4; DORS/84-913, art. 1; DORS/84-966, art. 1; DORS/85-453, art. 1 et 2; DORS/86-629, art. 2; DORS/87-471, art. 2; DORS/88-310, art. 1; DORS/89-508, art. 2; DORS/90-161, art. 1; DORS/91-150, art. 1; DORS/91-279, art. 1; DORS/91-536, art. 1; DORS/92-138, art. 1; DORS/92-667, art. 1; DORS/94-238, art. 2; DORS/94-569, art. 1; DORS/98-259, art. 2; DORS/99-17, art. 2; DORS/2001-221, art. 2; DORS/2005-185, art. 2; 2014, ch. 39, art. 78.
 
 
 
@@ -1598,14 +1595,18 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 
 - **(1.1)** Aux fins des paragraphes (1) et (2), « versement de rente » exclut toute partie d’un versement en vertu d’un contrat, dont le montant ne peut raisonnablement être établi immédiatement avant la date où commencent les versements en vertu du contrat, sauf lorsque le versement d’une telle partie ne peut être ainsi établi parce que la continuation des versements en vertu du contrat dépend, en totalité ou en partie, de la survie d’un particulier.
 
-- **(2)** Les règles ci-après s’appliquent au présent article :
-	- **a)** lorsque la continuation des versements de rente en vertu d’un contrat dépend, en totalité ou en partie, de la survie d’un particulier, le total des versements qui sont censés être faits en vertu du contrat
-		- **(i)** est, dans le cas d’un contrat qui prévoit des versements égaux mais non une période garantie de versements, égal au produit obtenu lorsque le total des versements de rente censés être reçus dans une année en vertu de ce contrat, multiplié par les possibilités complètes de vie prévues dans la table intitulée 1971 Individual Annuity Mortality Table et publiée dans le volume XXIII des Transactions of the Society of Actuaries, ou
-		- **(ii)** est, dans tous les autres cas, calculé conformément au sous-alinéa (i), compte tenu des adaptations de circonstance;
-	- **b)** sous réserve des paragraphes (3) et (4), le prix d’achat rajusté de l’intérêt que détient un contribuable dans un contrat de rente à un moment donné correspond à la somme qui serait déterminée à ce moment relativement à l’intérêt selon la définition de ***coût de base rajusté*** au paragraphe 148(9) de la Loi s’il n’était pas tenu compte de l’élément K de la formule figurant à cette définition;
-	- **c)** dans le cas où la continuation des versements annuels en vertu d’un contrat dépend de la survie d’une personne, l’âge de cette personne, lorsqu’il s’agit d’en arrêter le calcul à une date quelconque, est établi en soustrayant l’année civile de sa naissance de l’année civile dans laquelle survient la date en question; et
-	- **d)** dans le cas où la continuation des versements annuels en vertu d’un contrat dépend de la survie d’une personne, et où, advenant le décès de cette personne avant que les versements annuels s’élèvent à une somme stipulée, le contrat porte que tout solde impayé de ladite somme doit être versé, soit en une somme globale ou par versements, alors, aux fins d’établir la durée prévue du contrat, celui-ci est censé pourvoir à la continuation des paiements pour une durée déterminée minimale égale au nombre entier le plus rapproché du nombre d’années requises pour parfaire le paiement de la somme stipulée.
-	- **e)** [Abrogé, DORS/83-865, art. 1]
+- **(2)** Les règles ci-après s’appliquent au présent article si la continuation des versements de rente en vertu d’un contrat dépend, en totalité ou en partie, de la survie d’un particulier :
+	- **a)** le total des versements qui doivent vraisemblablement être faits en vertu du contrat :
+		- **(i)** soit correspond, dans le cas d’un contrat qui prévoit des versements égaux mais non une période garantie de versements, au produit de la multiplication du total des versements de rente qui doivent vraisemblablement être reçus au cours d’une année en vertu du contrat par l’espérance complète de vie déterminée selon :
+			- **(A)** la table de mortalité intitulée 1971 Individual Annuity Mortality Table et publiée dans le volume XXIII des Transactions of the Society of Actuaries dans le cas où les taux de rente applicables au contrat sont fixés et déterminés avant 2017 et l’un des faits ci-après s’avère :
+				- **(I)** les versements de rente aux termes du contrat ont commencé avant 2017,
+				- **(II)** le 31 décembre 2016, le contrat serait un contrat de rente qui est visé par règlement si l’alinéa 304(1)c) s’appliquait compte non tenu de son sous-alinéa (i) et qui ne peut être résilié qu’au décès d’un particulier sur la tête duquel les versements prévus par le contrat reposent,
+			- **(B)** dans les autres cas, la table de mortalité intitulée Annuity 2000 Basic Mortality Table, dans sa version publiée dans les Transactions of Society of Actuaries, 1995-96 Reports, appelée « table de mortalité de 2000 » dans la présente partie,
+		- **(ii)** est calculé, dans les autres cas, selon le sous-alinéa (i), compte tenu des modifications nécessaires;
+	- **b)** soit l’âge du particulier à une date donnée correspond :
+		- **(i)** si l’assureur ayant établi le contrat a déterminé que la vie assurée présentait un risque aggravé au moment de l’établissement du contrat et que la table de mortalité de 2000 s’applique pour déterminer le total des versements qui doivent vraisemblablement être faits en vertu du contrat, à l’âge qui équivaut au total de l’âge qui sert à déterminer le taux de rente relatif à la police à la date d’établissement du contrat et du nombre obtenu par la soustraction de l’année civile au cours de laquelle le contrat a été établi de l’année civile qui comprend la date donnée,
+		- **(ii)** dans les autres cas, à l’âge obtenu par la soustraction de l’année civile de la naissance du particulier de l’année civile qui comprend la date donnée;
+	- **c)** si le contrat prévoit que, advenant le décès du particulier avant que les versements annuels s’élèvent à une somme stipulée, le solde impayé de cette somme doit être versé en une somme globale ou par versements, aux fins d’établissement de sa durée prévue, le contrat est réputé prévoir la continuation des versements pour une durée minimale garantie égale au nombre entier le plus rapproché du nombre d’années requises pour parfaire le paiement de la somme stipulée.
 
 - **(3)** Lorsque
 	- **a)** un contrat de rente est un contrat de rente viagère conclu avant le 17 novembre 1978, en vertu duquel les versements de rente commencent au décès d’un particulier,
@@ -1630,7 +1631,7 @@ le prix d’achat rajusté de la participation que détient le contribuable dans
 		- **(i)** la somme qui serait déterminée à l’égard de cet intérêt en vertu des alinéas (3)c), d) ou e), si la date mentionnée à chacun de ces alinéas correspondait au jour anniversaire d’imposition du contrat et non à la date où commencent les versements de rente,
 		- **(ii)** le prix d’achat rajusté qui serait déterminé à l’égard de cet intérêt si le passage « avant ce moment », aux éléments A, B, C, D et H de la formule figurant à la définition de ***coût de base rajusté*** au paragraphe 148(9) de la Loi était remplacé par « avant ce moment et après le jour anniversaire d’imposition »;
 	- **b)** le montant déterminé selon l’alinéa (2)b) à l’égard de cet intérêt.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/82-499, art. 1; DORS/82-874, art. 1(A); DORS/83-865, art. 1; DORS/2001-216, art. 10(F); DORS/2011-188, art. 6.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/82-499, art. 1; DORS/82-874, art. 1(A); DORS/83-865, art. 1; DORS/2001-216, art. 10(F); DORS/2011-188, art. 6; 2014, ch. 39, art. 79.
 
 
 
@@ -1696,7 +1697,7 @@ sur
 - **(1)** Pour l’application de la présente partie et des paragraphes 12.2(1) et 20(20) et de l’alinéa 148(2)b) de la Loi, les contrats de rente ci-après sont visés pour une année d’imposition :
 	- **a)** le contrat de rente qui est un arrangement visé à l’un des alinéas 148(1)a) à b.3) et d) de la Loi ou qui est émis aux termes d’un tel arrangement;
 	- **b)** le contrat de rente visé aux alinéas 148(1)c) ou e) de la Loi;
-	- **c)** le contrat de rente :
+	- **c)** le contrat de rente :
 		- **(i)** en vertu duquel des versements de rente ont commencé à être faits au cours de cette année d’imposition ou d’une année d’imposition antérieure,
 		- **(ii)** émis par l’une des personnes suivantes (appelée « émetteur » au présent article) :
 			- **(A)** une compagnie d’assurance-vie,
@@ -1704,56 +1705,62 @@ sur
 			- **(C)** une société visée à l’un des alinéas a) à c) de la définition de ***institution financière déterminée*** au paragraphe 248(1) de la Loi,
 			- **(D)** une société visée au sous-alinéa b)(ii) de la définition de ***régime d’épargne-retraite*** au paragraphe 146(1) de la Loi,
 			- **(E)** une société, sauf une société de placement à capital variable ou une société de placement hypothécaire, dont l’activité principale consiste à consentir des prêts,
-		- **(iii)** dont chaque détenteur :
-			- **(A)** est un particulier, à l’exception d’une fiducie qui n’est ni une fiducie visée à l’alinéa 104(4)a) de la Loi (appelée « la fiducie déterminée » dans le présent alinéa), ni une fiducie testamentaire,
+		- **(iii)** dont chaque détenteur :
+			- **(A)** est, selon le cas :
+				- **(I)** un particulier à l’exception d’une fiducie,
+				- **(II)** une fiducie visée à l’alinéa 104(4)a) de la Loi (appelée « la fiducie déterminée » dans le présent alinéa),
+				- **(III)** une fiducie qui est une fiducie admissible pour personne handicapée, au sens du paragraphe 122(3) de la Loi, pour l’année d’imposition dans laquelle la rente est émise,
+				- **(IV)** dans le cas où la rente est émise avant 2016, une fiducie qui est une fiducie testamentaire au moment où la rente est émise,
 			- **(B)** est rentier en vertu du contrat, et
 			- **(C)** n’avait, tout au long de l’année d’imposition, aucun lien de dépendance avec l’émetteur,
-		- **(iv)** dont les modalités exigent ce qui suit, dès que le contrat de rente satisfait aux exigences du présent alinéa :
+		- **(iv)** dont les modalités exigent ce qui suit, dès que le contrat de rente satisfait aux exigences du présent alinéa :
 			- **(A)** les versements prévus par le contrat sont des versements de rente égaux, effectués à des intervalles réguliers et au moins une fois par année, sous réserve du droit du détenteur de varier la fréquence et le montant de ces versements au cours d’une année d’imposition sans changer la valeur actuelle, au début de l’année, du total des versements à faire au cours de cette année en vertu du contrat,
-			- **(B)** les versements de rente sont payables soit pour une durée déterminée, soit :
+			- **(B)** les versements de rente sont payables soit pour une durée déterminée, soit :
 				- **(I)** s’il s’agit d’un particulier, à l’exception d’une fiducie, pour la durée de vie du premier détenteur ou jusqu’à la date de son décès ou, si elle est postérieure, la date du décès de son époux ou conjoint de fait, de son ex-époux ou ancien conjoint de fait, de son frère ou de sa sœur (appelé « survivant » au présent sous-alinéa),
 				- **(II)** dans le cas où le détenteur est une fiducie :
-					- **1.** s’agissant d’une fiducie déterminée, pour la durée de vie d’un particulier visé à l’alinéa 104(4)a) de la Loi qui a droit, sa vie durant, à la totalité du revenu de la fiducie ou, s’agissant d’une fiducie mixte au profit de l’époux ou du conjoint de fait, jusqu’à la date de décès du particulier ou, si elle est postérieure, la date du décès du bénéficiaire de la fiducie qui est l’époux ou le conjoint de fait du particulier,
-					- **2.** s’agissant d’une fiducie testamentaire (sauf une fiducie déterminée) dans le cadre de laquelle la rente est émise avant le 24 octobre 2012, pour la durée de vie d’un particulier qui a droit à un revenu provenant de la fiducie,
-					- **3.** s’agissant d’une fiducie testamentaire autre qu’une fiducie déterminée, pour la durée de vie d’un particulier qui avait droit, sa vie durant, dès le moment où le contrat était détenu pour la première fois, à la totalité du revenu de la fiducie,
+					- **1** s’agissant d’une fiducie déterminée, pour la durée de vie d’un particulier visé à l’alinéa 104(4)a) de la Loi qui a droit, sa vie durant, à la totalité du revenu de la fiducie ou, s’agissant d’une fiducie mixte au profit de l’époux ou du conjoint de fait, jusqu’à la date de décès du particulier ou, si elle est postérieure, la date du décès du bénéficiaire de la fiducie qui est l’époux ou le conjoint de fait du particulier,
+					- **2** s’agissant d’une fiducie admissible pour personne handicapée, pour la durée de vie d’un particulier qui est un bénéficiaire optant, au sens du paragraphe 122(3) de la Loi, de la fiducie pour l’année d’imposition dans laquelle la rente est émise,
+					- **3** s’agissant d’une fiducie (autre qu’une fiducie admissible pour personne handicapée ou une fiducie déterminée) dans le cadre de laquelle la rente est émise avant le 24 octobre 2012, pour la durée de vie d’un particulier qui a droit à un revenu provenant de la fiducie,
+					- **4** s’agissant d’une fiducie (autre qu’une fiducie admissible pour personne handicapée ou une fiducie déterminée) dans le cadre de laquelle la rente est émise après le 23 octobre 2012, pour la durée de vie d’un particulier qui avait droit, dès le moment où le contrat était détenu pour la première fois, à la totalité du revenu de la fiducie représentant une somme reçue par la fiducie au décès du particulier ou avant son décès à titre de versement de rente,
 			- **(C)** si la période d’étalement des versements de rente est d’une durée garantie ou déterminée, celle-ci ne peut dépasser 91 moins l’âge en années accomplies, au moment où le contrat a été détenu pour la première fois, de l’un des particuliers suivants :
 				- **(I)** si le détenteur n’est pas une fiducie, le particulier qui est :
-					- **1.** dans le cas d’une rente réversible, le moins âgé du premier détenteur et du survivant,
-					- **2.** dans le cas d’un contrat détenu conjointement, le moins âgé des premiers détenteurs,
-					- **3.** dans les autres cas, le premier détenteur,
+					- **1** dans le cas d’une rente réversible, le moins âgé du premier détenteur et du survivant,
+					- **2** dans le cas d’un contrat détenu conjointement, le moins âgé des premiers détenteurs,
+					- **3** dans les autres cas, le premier détenteur,
 				- **(II)** si le détenteur est une fiducie déterminée, le particulier qui est :
-					- **1.** dans le cas d’une rente réversible détenue par une fiducie mixte au profit de l’époux ou du conjoint de fait, le moins âgé des particuliers visés à l’alinéa 104(4)a) de la Loi qui ensemble ont droit, leur vie durant, à la totalité du revenu de la fiducie,
-					- **2.** dans le cas d’une rente qui n’est pas une rente réversible, le particulier visé à l’alinéa 104(4)a) de la Loi qui a droit, sa vie durant, à la totalité du revenu de la fiducie,
-				- **(III)** si le détenteur est une fiducie testamentaire autre qu’une fiducie déterminée, le particulier qui était le moins âgé des bénéficiaires de la fiducie au moment où le contrat a été détenu pour la première fois,
+					- **1** dans le cas d’une rente réversible détenue par une fiducie mixte au profit de l’époux ou du conjoint de fait, le moins âgé des particuliers visés à l’alinéa 104(4)a) de la Loi qui ensemble ont droit, leur vie durant, à la totalité du revenu de la fiducie,
+					- **2** dans le cas d’une rente qui n’est pas une rente réversible, le particulier visé à l’alinéa 104(4)a) de la Loi qui a droit, sa vie durant, à la totalité du revenu de la fiducie,
+				- **(III)** si le détenteur est une fiducie admissible pour personne handicapée, un particulier qui est un bénéficiaire optant pour l’année d’imposition dans laquelle la rente est émise,
+				- **(IV)** si le détenteur est une fiducie (autre qu’une fiducie admissible pour personne handicapée ou une fiducie déterminée) dans le cadre de laquelle la rente est émise avant 2016, le particulier qui était le moins âgé des bénéficiaires de la fiducie au moment où le contrat a été détenu pour la première fois,
 			- **(D)** aucun prêt ne peut exister dans le cadre du contrat,
 			- **(E)** il ne peut être disposé des droits du détenteur aux termes du contrat autrement que par suite de l’un des événements suivants :
 				- **(I)** si le détenteur est un particulier, son décès,
 				- **(II)** si le détenteur est une fiducie déterminée autre qu’une fiducie mixte au profit de l’époux ou du conjoint de fait, le décès du particulier visé à l’alinéa 104(4)a) de la Loi qui a droit, sa vie durant, à la totalité du revenu de la fiducie,
 				- **(III)** si le détenteur est une fiducie déterminée qui est une fiducie mixte au profit de l’époux ou du conjoint de fait, le décès du dernier des particuliers visés à l’alinéa 104(4)a) de la Loi qui ensemble ont droit, leur vie durant, à la totalité du revenu de la fiducie,
-				- **(IV)** si le détenteur est une fiducie testamentaire autre qu’une fiducie déterminée et que le contrat a été détenu la première fois après octobre 2011, le premier en date des moments suivants :
-					- **1.** le moment où la fiducie cesse d’être une fiducie testamentaire,
-					- **2.** le décès du particulier visé aux subdivisions (B)(II) ou (C)(III), selon le cas, relativement à la fiducie,
+				- **(IV)** si le détenteur est une fiducie autre qu’une fiducie déterminée et que le contrat est détenu la première fois après octobre 2011, le premier en date des moments suivants :
+					- **1** le moment où la fiducie cesse d’être une fiducie testamentaire,
+					- **2** le décès du particulier visé aux subdivisions (B)(II) ou (C)(III) ou (IV), selon le cas, relativement à la fiducie,
 			- **(F)** aucun autre versement que ceux autorisés par le présent article ne peut être fait dans le cadre du contrat,
 		- **(v)** dont aucune des modalités ne prévoit un recours contre l’émetteur en cas de défaut de faire un versement en vertu du contrat, et
-		- **(vi)** dont un détenteur :
+		- **(vi)** dont un détenteur :
 			- **(A)** si les versements de rente en vertu du contrat ont commencé à être faits avant 1987, a avisé l’émetteur par écrit avant la fin de l’année d’imposition que le contrat doit être considéré comme un contrat de rente prescrit,
 			- **(B)** si les versements de rente en vertu du contrat ont commencé à être faits après 1986, n’a pas avisé l’émetteur par écrit avant la fin de l’année d’imposition au cours de laquelle ces versements ont commencé que le contrat ne doit pas être considéré comme un contrat de rente prescrit, ou
 			- **(C)** si les versements de rente en vertu du contrat ont commencé à être faits après 1986, a avisé l’émetteur par écrit avant la fin de l’année d’imposition au cours de laquelle ces versements ont commencé que le contrat ne doit pas être considéré comme un contrat de rente prescrit, lequel avis a été annulé par un détenteur du contrat de rente au moyen d’un avis écrit adressé à l’émetteur avant la fin de l’année d’imposition.
 
-- **(2)** Nonobstant le paragraphe (1), les facteurs suivants n’empêchent pas un contrat de rente d’être un contrat de rente prescrit :
+- **(2)** Nonobstant le paragraphe (1), les facteurs suivants n’empêchent pas un contrat de rente d’être un contrat de rente prescrit :
 	- **a)** dans le cas d’un contrat détenu conjointement ou prévoyant une rente réversible, le fait que les modalités du contrat prévoient une diminution du montant des versements de rente qui seront faits en vertu du contrat après le décès de l’un des rentiers;
 	- **b)** le fait que les modalités du contrat prévoient que, si le détenteur meurt à l’âge de 91 ans ou avant, le contrat prendra fin et il sera versé en vertu du contrat un montant ne dépassant pas l’excédent du montant total des primes payées, sur le total des versements de rente effectués en vertu du contrat;
 	- **c)** dans le cas où la période d’étalement des versements est d’une durée garantie ou déterminée, le fait que les modalités prévoient, en cas de décès du détenteur au cours de la période d’étalement, la possibilité de convertir en un versement unique les versements qui auraient été faits au cours de cette période s’il n’était pas décédé; ou
 	- **d)** le fait que les modalités du contrat, telles que libellées le 1<sup>er</sup> décembre 1982 et après cette date, prévoient que le détenteur participe aux gains de placement de l’émetteur et que le montant de cette participation doit être payé dans les 60 jours de la fin de l’année pour laquelle la participation est déterminée.
 
-- **(3)** Pour l’application du présent article, le rentier en vertu d’un contrat de rente est réputé en être le détenteur si, selon le cas :
+- **(3)** Pour l’application du présent article, le rentier en vertu d’un contrat de rente est réputé en être le détenteur si, selon le cas :
 	- **a)** une autre personne détient le contrat en fiducie pour lui;
 	- **b)** il a acquis le contrat dans le cadre d’une police d’assurance-vie collective temporaire par laquelle une assurance-vie est souscrite sur la vie d’une autre personne au titre, dans l’occupation ou en vertu de la charge, de l’emploi, d’une ancienne charge ou d’un ancien emploi de cette autre personne.
 
 - **(4)** Pour l’application du présent article, est rentier en vertu d’un contrat de rente à un moment donné la personne qui est en droit de recevoir des versements en vertu du contrat à ce moment.
 
 - **(5)** Pour l’application du présent article, est assimilé à l’époux ou à l’ex-époux d’un particulier donné le particulier qui est partie, avec lui, à un mariage nul ou annulable.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/82-499, art. 3; DORS/83-865, art. 5; DORS/86-488, art. 1; DORS/88-165, art. 2; DORS/88-319, art. 1; DORS/94-415, art. 1; DORS/94-686, art. 2(F); DORS/2001-188, art. 3; DORS/2001-216, art. 10(F); DORS/2007-116, art. 1; 2009, ch. 2, art. 90; DORS/2009-222, art. 1; DORS/2011-188, art. 8; 2012, ch. 31, art. 60; 2013, ch. 34, art. 378.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/82-499, art. 3; DORS/83-865, art. 5; DORS/86-488, art. 1; DORS/88-165, art. 2; DORS/88-319, art. 1; DORS/94-415, art. 1; DORS/94-686, art. 2(F); DORS/2001-188, art. 3; DORS/2001-216, art. 10(F); DORS/2007-116, art. 1; 2009, ch. 2, art. 90; DORS/2009-222, art. 1; DORS/2011-188, art. 8; 2012, ch. 31, art. 60; 2013, ch. 34, art. 378; 2014, ch. 39, art. 80.
 
 
 
@@ -1772,39 +1779,100 @@ sur
 
 - **(1)** Pour l’application de la présente partie ainsi que du paragraphe 12.2(11) de la Loi, ***police exonérée*** s’entend, à une date donnée, d’une police d’assurance-vie, à l’exception d’un contrat de rente, d’une police de fonds d’administration de dépôt et d’une police RAL, à l’égard de laquelle les conditions ci-après sont réunies à cette date :
 	- **a)** si la date en question correspond à l’anniversaire de la police, le fonds accumulé de la police à cette date, déterminé compte non tenu des avances sur police, ne dépasse pas le total des fonds accumulés, à cette date, des polices types aux fins d’exonération établies à l’égard de la police au plus tard à cette date;
-	- **b)** si l’on suppose que les modalités de la police ne diffèrent pas de celles qui étaient en vigueur au dernier anniversaire de la police correspondant ou antérieur à la date donnée et si l’on pose, au besoin, des hypothèses raisonnables quant à tous les autres facteurs, y compris, dans le cas d’une police d’assurance-vie avec participation au sens du paragraphe 138(12) de la Loi, l’hypothèse voulant que les participations versées soient conformes à l’échelle des participations, il est raisonnable de s’attendre à ce que, pour ce qui est des polices types aux fins d’exonération établies à l’égard de la police, la condition énoncée à l’alinéa a) soit remplie à chaque anniversaire de la police — postérieur à la date donnée et antérieur à la date déterminée selon le sous-alinéa (3)d)(ii) — où la police pourrait demeurer en vigueur;
+	- **b)** dans l’hypothèse où les modalités de la police ne diffèrent pas de celles qui étaient en vigueur au dernier anniversaire de la police correspondant ou antérieur à la date donnée et, au besoin, sur la base d’hypothèses raisonnables quant à tous les autres facteurs, y compris, dans le cas d’une police d’assurance-vie avec participation au sens du paragraphe 138(12) de la Loi, l’hypothèse voulant que les participations versées soient conformes à l’échelle des participations :
+		- **(i)** si la police est établie avant 2017, il est raisonnable de s’attendre à ce que la condition énoncée à l’alinéa a) soit remplie à chaque anniversaire de la police — postérieur à la date donnée et antérieur à la date d’échéance des polices types aux fins d’exonération établies à l’égard de la police — où la police pourrait demeurer en vigueur,
+		- **(ii)** si la police est établie après 2016, il est raisonnable de s’attendre — abstraction faite des rajustements automatiques prévus par la police qui pourraient être effectués après la date donnée afin que la police soit une police exonérée et, le cas échéant, en établissant des projections sur la base des valeurs les plus récentes qui servent à calculer le fonds accumulé soit de la police soit de chaque police type aux fins d’exonération établie au titre d’une protection de la police — à ce que la condition énoncée à l’alinéa a) soit remplie au prochain anniversaire de la police;
 	- **c)** la condition énoncée à l’alinéa a) a été remplie à chaque anniversaire de la police antérieur à la date donnée;
 	- **d)** la condition énoncée à l’alinéa b) a été remplie depuis le premier anniversaire de la police jusqu’à la veille de la date donnée.
 
 - **(2)** Pour l’application du paragraphe (1), la police d’assurance-vie qui est une police exonérée à son premier anniversaire est réputée avoir été une telle police depuis la date de son établissement jusqu’à cet anniversaire.
 
-- **(3)** Aux fins du présent article et de l’article 307, une police type aux fins d’exonération distincte est réputée avoir été émise à un titulaire de police relativement à une police d’assurance-vie
-	- **a)** à la date d’émission de la police d’assurance-vie, et
-	- **b)** à chaque anniversaire de la police d’assurance-vie où le montant de la prestation de décès dépasse 108 pour cent du montant de la prestation de décès qui était prévu à la date d’émission de la police ou à la date de l’anniversaire précédent de la police, la dernière de ces deux dates étant à retenir,
-et, afin de déterminer si le fonds accumulé de la police d’assurance-vie à son anniversaire remplit la condition énoncée à l’alinéa (1)a), chacune de ces polices types aux fins d’exonération est réputée :
-	- **c)** prévoir une prestation de décès qui demeure fixe jusqu’à l’échéance de la police et est égale :
-		- **(i)** dans le cas où la police est la première police du genre établie à l’égard de la police d’assurance-vie, au montant, à cet anniversaire, de la prestation de décès de la police d’assurance-vie, moins le total des montants représentant chacun le montant, à cet anniversaire, de la prestation de décès d’une autre police type aux fins d’exonération établie à l’égard de la police d’assurance-vie au plus tard à cet anniversaire,
-		- **(ii)** dans les autres cas, à l’excédent de la prestation de décès de la police d’assurance-vie à la date d’émission de la police type aux fins d’exonération, sur 108 pour cent du montant de la prestation de décès de la police d’assurance-vie à la date d’émission de la police d’assurance-vie ou à la date de son anniversaire précédent, la dernière de ces deux dates étant à retenir;
-	- **d)** prévoir le versement du montant de la prestation de décès à la première des dates suivantes :
-		- **(i)** la date du décès de la personne dont la vie est assurée en vertu de la police d’assurance-vie, ou
-		- **(ii)** la dernière des dates suivantes :
-			- **(A)** 10 ans après la date d’émission de la police d’assurance-vie, ou
-			- **(B)** la date à laquelle la personne dont la vie est assurée atteindra, si elle survit, l’âge de 85 ans; et
-	- **e)** être une police d’assurance-vie au Canada émise par un assureur sur la vie qui exploite un commerce d’assurance-vie au Canada.
+- **(3)** Les règles ci-après s’appliquent au présent article et à l’article 307 :
+	- **a)** dans le cas d’une police d’assurance-vie établie avant 2017 ou à un moment donné déterminé selon le paragraphe 148(11) de la Loi, une police type aux fins d’exonération distincte est réputée, sous réserve du paragraphe (7), être établie à l’égard de la police d’assurance-vie aux dates suivantes :
+		- **(i)** la date d’établissement de la police d’assurance-vie,
+		- **(ii)** chaque anniversaire de la police d’assurance-vie (lequel, le cas échéant, se termine avant le moment donné déterminé selon le paragraphe 148(11) de la Loi relativement à la police) où le montant visé à la division (A) excède la somme visée à la division (B) :
+			- **(A)** le montant de la prestation de décès prévue par la police d’assurance-vie,
+			- **(B)** 108 % du montant de la prestation de décès prévue par la police d’assurance-vie à la date d’établissement de cette police ou, si elle est postérieure, à la date de son anniversaire de police précédent;
+	- **b)** dans le cas d’une police d’assurance-vie établie après 2016 (y compris à un moment donné déterminé selon le paragraphe 148(11) de la Loi relativement à la police), une police type aux fins d’exonération distincte est réputée, sous réserve du paragraphe (7), être établie à l’égard de chaque protection offerte dans le cadre de la police d’assurance-vie aux dates suivantes :
+		- **(i)** sauf si le moment donné où la police est établie est déterminé selon le paragraphe 148(11) de la Loi et que la protection est établie avant ce moment, la date ci-après qui s’applique :
+			- **(A)** la date d’établissement de la police d’assurance-vie si la protection est établie avant le premier anniversaire de la police d’assurance-vie,
+			- **(B)** la date d’établissement de la protection si celle-ci correspond à un anniversaire de la police d’assurance-vie,
+			- **(C)** l’anniversaire de la police d’assurance-vie précédent si la protection est établie à une date qui est postérieure au premier anniversaire de la police et qui n’est pas un anniversaire de la police,
+		- **(ii)** chaque anniversaire de la police d’assurance-vie — cet anniversaire devant, dans le cas où un moment donné où la police est établie est déterminé selon le paragraphe 148(11) de la Loi, se terminer au plus tôt au moment donné — où la somme visée à la division (A) excède celle visée à la division (B) :
+			- **(A)** le montant de la prestation de décès relative à la protection à cet anniversaire,
+			- **(B)** 108 % du montant de la prestation de décès qui est prévue par la protection à la date d’établissement de la protection ou, si elle est postérieure, à l’anniversaire de la police précédent (ou, en l’absence d’un tel anniversaire, à la date d’établissement de la protection),
+		- **(iii)** la date de chaque anniversaire de la police d’assurance-vie — cet anniversaire devant, dans le cas où un moment donné où la police est établie est déterminé selon le paragraphe 148(11) de la Loi, se terminer au plus tôt au moment donné —, sauf si une autre police type aux fins d’exonération a été établie à cette date en application du présent alinéa relativement à une protection de la police d’assurance-vie, où la somme visée à la division (A) excède celle visée à la division (B) :
+			- **(A)** l’excédent du bénéfice au titre de la valeur du fonds de la police d’assurance-vie à cet anniversaire sur le bénéfice au titre de la valeur du fonds de la police d’assurance-vie à son anniversaire de la police précédent (ou, en l’absence d’un tel anniversaire, à la date d’établissement de la police),
+			- **(B)** l’excédent du montant visé à la subdivision (I) sur la subdivision (II),
+				- **(I)** 8 % de la partie de la prestation de décès prévue par la police d’assurance-vie à son anniversaire de la police précédent (ou, en l’absence d’un tel anniversaire, à la date d’établissement de la police),
+				- **(II)** le total des sommes dont chacune est, relativement à une protection prévue par la police, le moindre des montants suivants :
+					- **1.** l’excédent du montant de la prestation de décès qui est prévue par la protection à cet anniversaire de la police sur le montant de la prestation de décès qui est prévue par la protection à la date d’établissement de la protection ou, si elle est postérieure, à son anniversaire de la police précédent (ou, en l’absence d’un tel anniversaire, à la date d’établissement de la protection),
+					- **2.** 8 % de la partie de la prestation de décès prévue par la protection à la date d’établissement de la protection ou, si elle est postérieure, à l’anniversaire de la police précédent (ou, en l’absence d’un tel anniversaire, à la date d’établissement de la protection).
 
-- **(4)** Nonobstant les paragraphes (1) à (3),
-	- **a)** lorsque la prestation de décès d’une police d’assurance-vie est, à une date donnée, réduite d’un montant particulier, (appelé « la réduction » dans le présent alinéa), les prestations de décès des polices types aux fins d’exonération émises avant cette date à l’égard de la police d’assurance-vie (autres que celles émises en vertu de l’alinéa (3)a)) doivent être réduites, suivant l’ordre de la date d’émission de ces polices, de la plus rapprochée à la plus éloignée de la date donnée, d’un montant égal au moindre des montants suivants :
-		- **(i)** la fraction, s’il y a lieu, de la réduction, qui n’a pas encore servi à réduire la prestation de décès d’une ou de plusieurs autres polices types aux fins d’exonération, ou
-		- **(ii)** le montant, immédiatement avant la date donnée, de la prestation de décès de la police type aux fins d’exonération qui est visée;
-	- **b)** lorsque, au dixième anniversaire ou à tout anniversaire subséquent d’une police d’assurance-vie, le fonds accumulé (calculé sans égard aux avances sur la police non remboursées), dépasse 250 pour cent du fonds accumulé de la police à la date de son troisième anniversaire précédent (calculé sans égard aux avances sur la police non remboursées) chaque police type aux fins d’exonération qui est réputée, en vertu du paragraphe (3), avoir été émise avant cette date relativement à la police d’assurance-vie, est réputée avoir été émise à la date du troisième anniversaire précédent de la police d’assurance-vie ou à la date à laquelle la police type aux fins d’exonération est, en vertu du paragraphe (3), réputée avoir été émise, la dernière de ces deux dates étant à retenir; et
-	- **c)** lorsque, à une ou plusieurs occasions après le 1<sup>er</sup> décembre 1982,
-		- **(i)** une prime prescrite a été payée par un contribuable relativement à une participation dans une police d’assurance-vie (autre qu’un contrat de rente ou une police de fonds d’administration de dépôt) acquise pour la dernière fois au plus tard à cette date, ou
-		- **(ii)** une participation dans une police d’assurance-vie (autre qu’un contrat de rente ou une police de fonds d’administration de dépôt) émise au plus tard à cette date a été acquise par le contribuable de la personne qui détenait la participation continuellement depuis cette date,
-la police est réputée avoir été une police exonérée depuis la date de son émission jusqu’à la première de ces occasions; et
-	- **d)** une police d’assurance-vie qui, à son anniversaire, cesse d’être une police exonérée pour une raison autre que sa conversion en un contrat de rente, est réputée être une police exonérée à cet anniversaire dans les cas où
-		- **(i)** elle aurait, si cet anniversaire s’était produit 60 jours plus tard, continué d’être une police exonérée, ou
-		- **(ii)** la personne dont la vie est assurée en vertu de la police décède le jour de l’anniversaire de la police ou dans les 60 jours qui le suivent.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/83-865, art. 5; DORS/94-415, art. 2; DORS/94-686, art. 55(F) et 56(F); 2013, ch. 40, art. 97.
+- **(4)** Sous réserve du paragraphe 10, lorsqu’il s’agit de déterminer si la condition énoncée à l’alinéa (1)a) est remplie à un anniversaire de la police d’assurance-vie, chaque police type aux fins d’exonération établie à l’égard de la police d’assurance-vie, ou à l’égard d’une protection offerte dans le cadre de celle-ci, est réputée, à la fois :
+	- **a)** prévoir une prestation de décès qui demeure fixe pendant la durée de la police type aux fins d’exonération et qui, sous réserve du paragraphe (5), correspond à celle des sommes ci-après qui est applicable :
+		- **(i)** si la date d’établissement de la police type aux fins d’exonération est déterminée selon le sous-alinéa (3)a)(i), l’excédent du montant, à cet anniversaire, de la prestation de décès prévue par la police d’assurance-vie sur le total des sommes représentant chacune le montant, à cet anniversaire, de la prestation de décès prévue par une autre police type aux fins d’exonération établie à l’égard de la police d’assurance-vie au plus tard à cet anniversaire,
+		- **(ii)** si la date d’établissement de la police type aux fins d’exonération est déterminée selon le sous-alinéa (3)a)(ii), l’excédent visé à ce sous-alinéa à cette date relativement à la police d’assurance-vie,
+		- **(iii)** si la date d’établissement de la police type aux fins d’exonération est déterminée selon le sous-alinéa (3)b)(i), la somme obtenue par la formule suivante :
+```
+A + B – C
+```
+où :
+- **A** représente le montant, à cet anniversaire, de la prestation de décès prévue par la protection,
+- **B** :
+		- **(A)** si la prestation de décès prévue par la police d’assurance-vie comprend un bénéfice au titre de la valeur du fonds à cet anniversaire, la partie de ce bénéfice à cet anniversaire qui correspond à la moins élevée des sommes suivantes :
+		- **(I)** le montant maximal de ce bénéfice qui pourrait être à payer à cet anniversaire si aucune autre protection n’était offerte dans le cadre de la police d’assurance-vie et si celle-ci était une police exonérée,
+		- **(II)** l’excédent de ce bénéfice à cet anniversaire sur le total des sommes représentant chacune la partie de ce bénéfice qui est attribuée à d’autres protections offertes dans le cadre de la police d’assurance-vie,
+		- **(B)** dans les autres cas, zéro,
+- **C** le total des sommes représentant chacune le montant, à cet anniversaire, de la prestation de décès prévue par une autre police type aux fins d’exonération établie à l’égard de la protection au plus tard à cet anniversaire,
+		- **(iv)** si la date d’établissement de la police type aux fins d’exonération est déterminée selon le sous-alinéa (3)b)(ii), l’excédent visé à ce sous-alinéa à cette date relativement à la protection;
+		- **(v)** si la date d’établissement de la police type aux fins d’exonération est déterminée selon le sous-alinéa (3)b)(iii), la moins élevée des sommes suivantes :
+			- **(A)** l’excédent de la somme déterminée selon la division (3)b)(iii)(A) sur la somme déterminée selon la division (3)b)(iii)(B) relativement à la protection à cette date,
+			- **(B)** la somme déterminée selon la subdivision (A)(I) de l’élément B au sous-alinéa (iii) relativement à la protection à cette date;
+	- **b)** prévoir le versement de la prestation de décès à celle des dates ci-après qui est antérieure à l’autre :
+		- **(i)** si la police d’assurance-vie :
+			- **(A)** est établie avant 2017, la date du décès du particulier dont la vie est assurée en vertu de la police d’assurance-vie,
+			- **(B)** est établie après 2016 :
+				- **(I)** si la protection est établie sur plusieurs têtes conjointement, la date à laquelle la prestation serait à payer par suite du décès de l’une des têtes,
+				- **(II)** dans les autres cas, la date du décès du particulier dont la vie est assurée en vertu de la protection,
+		- **(ii)** la date d’échéance de la police type aux fins d’exonération.
+
+- **(5)** Sous réserve du paragraphe 10, pour le calcul du montant d’une prestation de décès prévue par une police type aux fins d’exonération établie à l’égard :
+	- **a)** d’une police d’assurance-vie établie avant 2017, dont à un moment donné le montant d’une prestation de décès prévue par la police d’assurance-vie est réduit, une somme donnée égale au montant de la réduction doit être appliquée, à ce moment, de façon que le montant de la prestation de décès prévue par chaque police type aux fins d’exonération établie avant ce moment à l’égard de la police d’assurance-vie (à l’exception de la police type aux fins d’exonération dont la date d’établissement est établie selon le sous-alinéa (3)a)(i)) soit réduit — suivant l’ordre de la date d’établissement de ces polices, de la plus rapprochée à la plus éloignée de ce moment — d’une somme égale à la moins élevée des sommes suivantes :
+		- **(i)** la partie de la somme donnée qui n’a pas été appliquée en réduction de la prestation de décès prévue par une ou plusieurs de ces autres polices types aux fins d’exonération,
+		- **(ii)** le montant, immédiatement avant ce moment, de la prestation de décès prévue par la police type aux fins d’exonération en cause;
+	- **b)** d’une protection offerte dans le cadre d’une police d’assurance-vie établie après 2016, dont à un moment donné le montant d’une prestation de décès prévue par la protection, ou la partie d’un bénéfice au titre de la valeur du fonds visé à la division (A) de l’élément B de la formule figurant au sous-alinéa (4)a)(iii) relativement à la protection, a fait l’objet d’une réduction donnée, le montant de la prestation de décès prévue par chaque police type aux fins d’exonération établie avant ce moment à l’égard de la protection (à l’exception de la police type aux fins d’exonération dont la date d’établissement est établie selon le sous-alinéa (3)b)(i)) est réduit, à ce moment, d’une somme égale à la moins élevée des sommes suivantes :
+		- **(i)** le montant de la réduction donnée,
+		- **(ii)** le montant, immédiatement avant ce moment, de la prestation de décès prévue par la police type aux fins d’exonération en cause,
+		- **(iii)** la partie du montant de la réduction donnée qui n’a pas été appliquée en réduction de la prestation de décès prévue par une ou plusieurs de ces autres polices types aux fins d’exonération établies à la date d’établissement de la police type aux fins d’exonération en cause ou après cette date.
+
+- **(6)** Le paragraphe (7) s’applique à un moment donné relativement à une police d’assurance-vie si les conditions ci-après sont réunies :
+	- **a)** ce moment correspond au dixième anniversaire de la police ou à tout anniversaire de la police subséquent;
+	- **b)** le fonds accumulé de la police (calculé compte non tenu des avances sur police non remboursées) excède 250 % de son fonds accumulé à la date du troisième anniversaire de la police précédent (calculé compte non tenu des avances sur police non remboursées);
+	- **c)** si ce moment est postérieur à 2016 :
+		- **(i)** le fonds accumulé de la police (calculé compte non tenu des avances sur police non remboursées) excède le total des sommes dont chacune représente une des sommes suivantes :
+			- **(A)** si la police est établie avant 2017, les 3/20 du fonds accumulé, à ce moment, relativement à une police type aux fins d’exonération établie à l’égard de la protection aux termes de la police,
+			- **(B)** si la police est établie après 2016, les 3/8 du fonds accumulé, à ce moment, relativement à une police type aux fins d’exonération établie à l’égard de la protection offerte dans le cadre de la police,
+		- **(ii)** le paragraphe (7) ne s’est appliqué à aucun des six anniversaires de la police précédents.
+
+- **(7)** En cas d’application du présent paragraphe à un moment donné relativement à une police d’assurance-vie, chaque police type aux fins d’exonération établie avant ce moment à l’égard de la police d’assurance-vie est réputée, à ce moment et par la suite, être établie (autrement que pour l’application du présent paragraphe, de l’alinéa (4)a) et du paragraphe (5)) :
+	- **a)** à celle des dates ci-après qui est postérieure à l’autre :
+		- **(i)** la date du troisième anniversaire de la police précédent visé à l’alinéa (6)b) relativement à la police,
+		- **(ii)** la date où la police type est réputée, en vertu du paragraphe (3), être établie (déterminée immédiatement avant le moment donné);
+	- **b)** et non à un autre moment.
+
+- **(8)** La police d’assurance-vie qui, en l’absence du présent paragraphe, cesserait à son anniversaire de police d’être une police exonérée pour une raison autre que sa conversion en un contrat de rente est réputée être une police exonérée à cet anniversaire si un des énoncés ci-après se vérifie :
+	- **a)** si cet anniversaire s’était produit 60 jours plus tard, la police aurait été une police exonérée à la date ultérieure;
+	- **b)** la personne dont la vie est assurée en vertu de la police décède le jour de cet anniversaire ou dans les 60 jours suivant cet anniversaire.
+
+- **(9)** La police d’assurance-vie, à l’exception d’un contrat de rente et d’une police de fonds d’administration de dépôt, établie avant le 2 décembre 1982 est réputée être une police exonérée après la date de son établissement jusqu’au premier moment, postérieur au 1<sup>er</sup> décembre 1982, où l’un des faits ci-après se vérifie :
+	- **a)** une prime visée par règlement est versée par un contribuable relativement à un intérêt dans la police acquis la dernière fois avant le 2 décembre 1982;
+	- **b)** un intérêt dans la police est acquis par un contribuable auprès de la personne qui détenait l’intérêt sans interruption depuis le 1<sup>er</sup> décembre 1982.
+
+- **(10)** Si un moment donné où une police d’assurance-vie est établie a été déterminé selon le paragraphe 148(11) de la Loi, pour l’application des paragraphes (4) et (5) au moment donné ou par la suite à une police type aux fins d’exonération établie avant le moment donné relativement à la police, à la fois :
+	- **a)** les sous-alinéas (4)a)(iii) et (iv), et non les sous-alinéas (4)a)(i) ou (ii), s’appliquent à la police type aux fins d’exonération;
+	- **b)** il est entendu que l’alinéa (5)b), et non l’alinéa 5a), s’applique à la police type aux fins d’exonération.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/83-865, art. 5; DORS/94-415, art. 2; DORS/94-686, art. 55(F) et 56(F); 2013, ch. 40, art. 97; 2014, ch. 39, art. 81.
 
 
 
@@ -1815,51 +1883,60 @@ la police est réputée avoir été une police exonérée depuis la date de son 
 
 **307** 
 
-- **(1)** Pour l’application de la présente partie et des articles 12.2 et 148 de la Loi, le fonds accumulé, à une date donnée, correspond à celle des sommes suivantes qui est applicable :
-	- **a)** relativement à la participation d’un contribuable dans un contrat de rente (autre qu’un contrat émis par un assureur sur la vie), le montant le plus élevé
-		- **(i)** de l’excédent de la valeur de rachat de sa participation à cette date, sur le solde impayé à cette date d’un prêt consenti en vertu du contrat relativement à la participation, ou
-		- **(ii)** de l’excédent
-			- **(A)** de la valeur actuelle, à cette date, des versements futurs devant être effectués en vertu du contrat relativement à sa participation,sur le total
-			- **(B)** de la valeur actuelle, à cette date, des primes futures devant être versées en vertu du contrat relativement à sa participation, et
-			- **(C)** du solde impayé à cette date d’un prêt consenti en vertu du contrat relativement à sa participation;
+- **(1)** Pour l’application de la présente partie ainsi que des articles 12.2 et 148 de la Loi, ***fonds accumulé***, à une date donnée, s’entend de celle des sommes ci-après qui est applicable :
+	- **a)** en ce qui a trait à l’intérêt d’un contribuable dans un contrat de rente, sauf un contrat établi par un assureur sur la vie, la plus élevée des sommes suivantes :
+		- **(i)** l’excédent de la valeur de rachat de l’intérêt du contribuable à cette date sur le montant payable sur un prêt impayé à cette date, consenti en vertu du contrat relativement à l’intérêt,
+		- **(ii)** l’excédent de la somme visée à la division (A) sur le total visé à la division (B) :
+			- **(A)** la valeur actualisée, à cette date, des versements futurs devant être effectués en vertu du contrat relativement à l’intérêt du contribuable,
+			- **(B)** le total des sommes suivantes :
+				- **(I)** la valeur actualisée, à cette date, des primes futures devant être versées en vertu du contrat relativement à l’intérêt du contribuable,
+				- **(II)** le montant payable sur un prêt impayé à cette date, consenti en vertu du contrat relativement à l’intérêt du contribuable;
 	- **b)** relativement à la participation d’un contribuable dans une police d’assurance-vie (autre qu’une police type aux fins d’exonération ou un contrat de rente auquel l’alinéa (1)a) s’applique), le produit obtenu lorsque,
 		- **(i)** dans les cas où la police n’est pas une police de fonds d’administration de dépôt et où la date donnée suit immédiatement le décès d’une personne dont la vie était assurée par la police d’assurance-vie, le total des montants les plus élevés qui pourraient être déterminés à l’égard de la police par l’assureur sur la vie immédiatement avant le décès, conformément à l’alinéa 1401(1)c) et au sous-alinéa 1401(1)d)(i), si les taux de mortalité utilisés étaient rajustés selon l’hypothèse que le décès se produira à la date et de la manière qu’il s’est effectivement produit, et
 		- **(ii)** dans les autres cas, le montant le plus élevé qui pourrait être déterminé à la date donnée à l’égard de la police par l’assureur sur la vie, conformément à l’alinéa 1401(1)a), calculé comme s’il n’y avait qu’une seule police de fonds d’administration de dépôt, ou conformément à l’alinéa 1401(1)c), selon le cas,
-est multiplié par
-		- **(iii)** la participation proportionnelle du contribuable dans la police,
-si l’on suppose, aux fins du présent alinéa, que l’assureur sur la vie exploitait son entreprise d’assurance sur la vie au Canada, que son année d’imposition s’est terminée à la date donnée et que la police était une police d’assurance-vie au Canada; et
-	- **c)** relativement à une police type aux fins d’exonération,
-		- **(i)** dans les cas où la police a été émise au moins 20 ans avant la date donnée, le montant qui serait déterminé à la date donnée à l’égard de la police par l’assureur sur la vie, conformément à la disposition 1401(1)c)(ii)(A), si l’année d’imposition de l’assureur se terminait à la date donnée, et
-		- **(ii)** dans les autres cas, le produit obtenu lorsque le montant qui serait déterminé en vertu du sous-alinéa (i) relativement à la police, au vingtième anniversaire de la police, était multiplié par le quotient obtenu par la division du nombre d’années écoulées depuis l’émission de la police par 20.
+est multiplié par :
+		- **(iii)** l’intérêt proportionnel du contribuable dans la police;
+	- **c)** en ce qui a trait à une police type aux fins d’exonération :
+		- **(i)** si la date donnée fait partie de la période de paiement de la police, la somme obtenue par la formule suivante :
+```
+A × B/C
+```
+où :
+- **A** représente la somme qui serait déterminée selon le sous-alinéa (ii) relativement à la police à celle des dates ci-après qui est applicable :
+		- **(A)** si la période de paiement de la police est déterminée selon les sous-alinéas b)(i) ou (ii) de la définition de ***période de paiement***, à l’article 310, au premier en date des anniversaires de la police qui survient dans la période qui commence à la date à laquelle le particulier dont la vie est assurée atteindrait l’âge de 105 ans, au sens prévu par la police, s’il survivait,
+		- **(B)** dans les autres cas, l’anniversaire de la police, exprimé par l’adjectif ordinal du nombre d’années de sa période de paiement,
+- **B** le nombre d’années écoulées depuis l’établissement de la police,
+- **C** le nombre d’années de la période de paiement de la police,
+		- **(ii)** si la date donnée est postérieure à la période de paiement de la police et antérieure à la date d’échéance de celle-ci, la somme qui correspond à la valeur actualisée, à la date donnée, de la prestation de décès future prévue par la police,
+		- **(iii)** si la date donnée correspond ou est postérieure à la date d’échéance de la police et que la police d’assurance-vie en cause est établie après 2016, la somme qui correspond à la prestation de décès prévue par la police type aux fins d’exonération à la date donnée.
 
-- **(2)** Aux fins du paragraphe (1), dans le calcul du fonds accumulé d’une participation qui est visé
-	- **a)** à l’alinéa (1)a), les montants déterminés en vertu des dispositions (1)a)(ii)(A) et (B) doivent,
-		- **(i)** dans les cas où le taux d’intérêt relatif à une période qu’a utilisé l’émetteur au moment de l’émission du contrat pour en déterminer les modalités, est inférieur à tout autre taux utilisé à cette fin pour une période subséquente, être calculés selon le taux simple qui, s’il avait été appliqué à chaque période, aurait donné les mêmes modalités, et
-		- **(ii)** dans les autres cas, être calculés selon les taux qu’a utilisés l’émetteur au moment de l’émission du contrat pour en déterminer les modalités;
-	- **b)** à l’alinéa (1)b), si le taux d’intérêt relatif à une période qu’a utilisé un assureur sur la vie pour le calcul des montants pertinents visés aux alinéas 1403(1)a) ou b) a été établi conformément aux alinéas 1403(1)c), d) ou e), selon le cas, et que ce taux est inférieur au taux ainsi établi pour une période subséquente, le taux simple qui aurait pu, s’il avait été appliqué à chaque période, servir à l’établissement des primes pour la police doit être utilisé; et
-	- **c)** à l’alinéa (1)c),
+- **(2)** Aux fins du paragraphe (1), dans le calcul du fonds accumulé :
+	- **a)** relativement à une participation visée à l’alinéa (1)a), les sommes déterminées selon les divisions (1)a)(ii)(A) et (B) doivent, à la fois :
+		- **(i)** dans les cas où le taux d’intérêt relatif à une période qu’a utilisé l’émetteur au moment de l’émission du contrat pour en déterminer les modalités est inférieur à tout autre taux utilisé à cette fin pour une période subséquente, être calculées selon le taux simple qui, s’il avait été appliqué à chaque période, aurait donné les mêmes modalités,
+		- **(ii)** dans les autres cas, être calculées selon les taux qu’a utilisés l’émetteur au moment de l’émission du contrat pour en déterminer les modalités;
+	- **b)** à l’alinéa (1)b), relativement à une police d’assurance-vie établie avant 2017 ou à un contrat de rente, si le taux d’intérêt relatif à une période qu’a utilisé un assureur sur la vie pour le calcul des sommes visées aux alinéas 1403(1)a) ou b) est établi conformément aux alinéas 1403(1)c), d) ou e) et que ce taux est inférieur au taux ainsi établi pour une période subséquente, le taux simple qui aurait pu servir à l’établissement des primes pour la police s’il avait été appliqué à chaque période doit être utilisé;
+	- **c)** une police type aux fins d’exonération à l’égard d’une police d’assurance-vie établie avant 2017 :
 		- **(i)** les taux d’intérêt et de mortalité et l’âge de la personne dont la vie est assurée doivent être les mêmes que ceux qui ont été utilisés dans le calcul des montants visés aux alinéas 1403(1)a) ou b) relativement à la police d’assurance-vie à l’égard de laquelle la police type aux fins d’exonération a été émise, sauf que
 			- **(A)** si la police d’assurance-vie est visée par l’alinéa 1403(1)e) et que le montant déterminé en vertu du sous-alinéa 1401(1)c)(i) relativement à cette police est supérieur au montant déterminé en vertu du sous-alinéa 1401(1)c)(ii) relativement à celle-ci, les taux d’intérêt et de mortalité peuvent être les mêmes que ceux qui ont été utilisés dans le calcul de la valeur de rachat de la police, et
 			- **(B)** si le taux d’intérêt relatif à une période qui a par ailleurs été déterminé en vertu du présent sous-alinéa pour cette participation est inférieur au taux d’intérêt ainsi déterminé pour une période subséquente, il faut utiliser le taux simple qui aurait pu, s’il avait été appliqué à chaque période, servir à l’établissement des primes pour la police d’assurance-vie doit être utilisé, et
 		- **(ii)** nonobstant le sous-alinéa (i),
 			- **(A)** si les taux mentionnés au sous-alinéa (i) n’existent pas, les taux devant être utilisés sont les taux minimums garantis d’intérêt servant, aux termes de la police d’assurance-vie, au calcul de la valeur de rachat, ainsi que les taux de mortalité établis dans la table intitulée Commissioners 1958 Standard Ordinary Mortality Table, publiée dans le volume X des Transactions of the Society of Actuaries, qui s’appliquent à la personne dont la vie est assurée en vertu de la police d’assurance-vie, ou
-			- **(B)** si, relativement à la police d’assurance-vie à l’égard de laquelle la police type aux fins d’exonération a été émise, la période à l’égard de laquelle le montant visé à la disposition 1401(1)c)(ii)(A) a été déterminé ne s’étend pas jusqu’à la date déterminée selon le sous-alinéa 306(3)d)(ii), la moyenne arithmétique pondérée des taux d’intérêt utilisés dans le calcul de ce montant pour la période qui suit cette période et précède cette date doit être appliquée.
+			- **(B)** si, relativement à la police d’assurance-vie, la période donnée sur laquelle la somme visée à la division (B) de l’élément A de la formule figurant au sous-alinéa 1401(1)c)(ii) a été déterminée ne s’étend pas jusqu’à la date d’échéance de la police type aux fins d’exonération, la moyenne arithmétique pondérée des taux d’intérêt utilisés dans le calcul de cette somme doit être utilisée pour la période qui est postérieure à la période donnée et antérieure à cette date,
+		- **(iii)** malgré les sous-alinéas (i) et (ii), le taux d’intérêt utilisé pour le calcul du fonds accumulé relativement à une police type aux fins d’exonération établie à l’égard de la police d’assurance-vie ne peut être inférieur à celui des taux ci-après qui est applicable :
+			- **(A)** si la police d’assurance-vie est établie après avril 1985, 4 % par année,
+			- **(B)** si la police d’assurance-vie est établie avant mai 1985, 3 % par année,
+		- **(iv)** chaque montant d’une prestation de décès doit être déterminé compte non tenu d’une partie de la prestation de décès prévue par la police type aux fins d’exonération relativement à un fonds réservé;
+	- **d)** relativement à une police type aux fins d’exonération établie à l’égard d’une protection offerte dans le cadre d’une police d’assurance-vie établie après 2016, les règles ci-après s’appliquent :
+		- **(i)** les taux d’intérêt et de mortalité utilisés, ainsi que l’âge du particulier dont la vie est assurée en vertu de la protection, doivent être les mêmes que ceux qui servent au calcul des sommes visées à l’alinéa 1401(1)c) relativement à la police,
+		- **(ii)** chaque montant d’une prestation de décès doit être déterminé compte non tenu d’une partie de la prestation de décès prévue par la police type aux fins d’exonération relativement à un fonds réservé.
 
-- **(3)** Nonobstant l’alinéa (2)c),
-	- **a)** dans le cas d’une police d’assurance-vie émise après le 30 avril 1985, le taux d’intérêt utilisé dans le calcul du fonds accumulé de toute police type aux fins d’exonération émise à l’égard de la police ne doit pas être inférieur à 4 pour cent par année; et
-	- **b)** dans le cas d’une police d’assurance-vie émise avant le 1<sup>er</sup> mai 1985, le taux d’intérêt utilisé dans le calcul du fonds accumulé de toute police type aux fins d’exonération émise à l’égard de la police ne doit pas être inférieur à 3 pour cent par année.
-
-- **(4)** Aux fins de l’alinéa (1)c),
-	- **a)** si, à la date de l’émission de la police type aux fins d’exonération, la personne dont la vie est assurée a atteint l’âge de 75 ans, cet alinéa doit être interprété comme si les termes « 20 » et « vingtième » étaient remplacés respectivement par « 10 » et « dixième »; et
-	- **b)** si, à la date de l’émission de la police type aux fins d’exonération, la personne dont la vie est assurée a atteint l’âge de 66 ans mais n’a pas encore 75 ans, cet alinéa doit être interprété comme si les termes « 20 » et « vingtième » étaient remplacés respectivement par
-		- **(i)** le nombre obtenu lorsque l’excédent de l’âge de ladite personne sur 65 est soustrait de 20, et
-		- **(ii)** l’adjectif ordinal du nombre obtenu du calcul visé au sous-alinéa (i).
+- **(3) et (4)** [Abrogés, 2014, ch. 39, art. 82]
 
 - **(5)** Pour l’application du présent article, toute somme déterminée par rapport à l’article 1401 est calculée :
 	- **a)** compte non tenu de l’article 1402;
-	- **b)** comme si la mention « avance sur police » à l’article 1401 était remplacée par « avance sur police, au sens du paragraphe 148(9) de la Loi, »;
-	- **c)** compte non tenu du passage « ou à l’égard des intérêts sur cette avance qui se sont accumulés au profit de l’assureur à la fin de l’année » aux divisions 1401(1)c)(i)(B) et (ii)(C).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/83-865, art. 5; DORS/84-948, art. 2; DORS/91-290, art. 1; DORS/94-686, art. 3(F) et 55(F); DORS/2011-188, art. 10.
+	- **b)** comme si la mention « avance sur police » à l’article 1401 était remplacée par « avance sur police, au sens du paragraphe 148(9) de la Loi, ».
+	- **c)** [Abrogé, 2014, ch. 39, art. 82]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/83-865, art. 5; DORS/84-948, art. 2; DORS/91-290, art. 1; DORS/94-686, art. 3(F) et 55(F); DORS/2011-188, art. 10; 2014, ch. 39, art. 82.
 
 
 
@@ -1870,19 +1947,40 @@ si l’on suppose, aux fins du présent alinéa, que l’assureur sur la vie exp
 
 **308** 
 
-- **(1)** Pour l’application du sous-alinéa 20(1)e.2)(ii) et de l’alinéa a) de l’élément L de la définition de ***coût de base rajusté*** au paragraphe 148(9) de la Loi, le coût net de l’assurance pure pour une année, relativement à l’intérêt d’un contribuable dans une police d’assurance-vie, correspond au produit de la multiplication de la probabilité, déterminée d’après les taux de mortalité établis dans les tables de mortalité de 1969-1975 publiées dans le volume XVI des Délibérations de l’Institut canadien des actuaires ou d’après le paragraphe (1.1), qu’une personne présentant les mêmes caractéristiques que celle dont la vie est assurée décède au cours de l’année, par l’excédent :
-	- **a)** de la prestation de décès relative à la participation du contribuable à la fin de l’année
-sur
-	- **b)** le fonds accumulé (déterminé sans égard aux avances sur police non remboursées) relatif à la participation du contribuable dans la police à la fin de l’année, ou la valeur de rachat de cette participation à la fin de l’année, suivant la méthode normalement utilisée par l’assureur sur la vie pour le calcul du coût net de l’assurance pure.
+- **(1)** Pour l’application du sous-alinéa 20(1)e.2)(ii) et de l’alinéa a) de l’élément L de la formule figurant à la définition de ***coût de base rajusté*** au paragraphe 148(9) de la Loi, le coût net de l’assurance pure pour une année, relativement à l’intérêt d’un contribuable dans une police d’assurance-vie, correspond à celle des sommes ci-après qui est applicable :
+	- **a)** si la police est établie avant 2017, le moment de son établissement devant être déterminé à la fin de l’année en cause, la somme obtenue par la formule suivante :
+```
+A × (B – C)
+```
+où :
+- **A** représente la probabilité, déterminée d’après les taux de mortalité établis dans les tables de mortalité de 1969-1975 de l’Institut canadien des actuaires publiées dans le volume XVI des Délibérations de l’Institut canadien des actuaires ou d’après le paragraphe (1.1), qu’un particulier présentant les mêmes caractéristiques pertinentes que celui dont la vie est assurée décède au cours de l’année,
+- **B** la prestation de décès, relativement à l’intérêt, à la fin de l’année,
+- **C** le fonds accumulé (déterminé compte non tenu des avances sur police non remboursées) de la police, relativement à l’intérêt, ou la valeur de rachat de celui-ci, à la fin de l’année, selon la méthode normalement utilisée par l’assureur sur la vie pour le calcul du coût net de l’assurance pure;
+	- **b)** si la police est établie après 2016, le moment de son établissement devant être déterminé à la fin de l’année en cause, le total des sommes représentant chacune une somme déterminée, relativement à une protection offerte relativement à l’intérêt, par la formule suivante :
+```
+A × (B – C)
+```
+où :
+- **A** représente la probabilité, déterminée d’après les taux de mortalité déterminés selon l’alinéa 1401(4)b) ou d’après le paragraphe (1.2), qu’un particulier dont la vie est assurée en vertu de la protection décède au cours de l’année,
+- **B** la prestation de décès qui est prévue par la protection à l’égard de l’intérêt à la fin de l’année,
+- **C** le montant obtenu par la formule suivante :
+```
+D + E
+```
+où :
+- **D** représente la partie, à l’égard d’une protection à l’égard de l’intérêt, de la somme qui serait la valeur actualisée, déterminée pour l’application de l’article 307 au dernier anniversaire de la police qui survient au plus tard le dernier jour de l’année, de la valeur du fonds de la protection si cette valeur était égale à celle du fonds de la protection à la fin de l’année,
+- **E** représente la partie, à l’égard de la protection selon l’intérêt, de la somme qui serait déterminée à cet anniversaire à l’égard de l’alinéa a) de l’élément C de la formule figurant à la définition de ***provision pour primes nettes***, au paragraphe 1401(3), relativement à la protection, si chacune de la prestation de décès prévue par la protection et de la valeur du fonds de la protection, à cet anniversaire, était égale à la prestation de décès prévue par la protection et à la valeur du fonds de la protection respectivement à la fin de l’année.
 
-- **(1.1)** Dans le cas où les primes pour une catégorie donnée de police d’assurance-vie offerte par un assureur sur la vie ne sont pas établies directement en fonction du sexe de l’assuré ou du fait qu’il soit fumeur ou non, la probabilité visée au paragraphe (1) peut être déterminée d’après les taux de mortalité établis par ailleurs, à condition que, pour chaque âge relatif à cette catégorie de police d’assurance-vie, la valeur prévue du total du coût net de l’assurance pure, calculée d’après de tels taux de mortalité, soit égale à la valeur prévue du total du coût net de l’assurance pure, calculée d’après les taux de mortalité figurant dans les tables de mortalité de 1969-1975 publiées dans le volume XVI des Délibérations de l’Institut canadien des actuaires.
+- **(1.1)** Si les primes relatives à une police d’assurance-vie ne sont pas établies directement en fonction du sexe de l’assuré ou du fait qu’il soit fumeur ou non, la probabilité visée à l’alinéa (1)a) peut être déterminée d’après les taux de mortalité établis par ailleurs, à condition que, pour chaque âge relatif à la police, la valeur prévue du total du coût net de l’assurance pure, calculée d’après de tels taux de mortalité, soit égale à la valeur prévue du total du coût net de l’assurance pure, calculée d’après les taux de mortalité figurant dans les tables de mortalité de 1969-1975 de l’Institut canadien des actuaires publiées dans le volume XVI des Délibérations de l’Institut canadien des actuaires.
+
+- **(1.2)** Si les primes ou les frais d’assurance relatifs à une protection offerte dans le cadre d’une police d’assurance-vie ne sont pas établis directement en fonction du sexe de l’assuré ou du fait qu’il soit fumeur ou non, la probabilité visée à l’alinéa (1)b) peut être déterminée d’après les taux de mortalité établis par ailleurs, à condition que, pour chaque âge relatif à la protection, la valeur prévue du total du coût net de l’assurance pure, calculée d’après de tels taux de mortalité, soit égale à la valeur prévue du total du coût net de l’assurance pure, calculée d’après les taux de mortalité qui seraient déterminés selon l’alinéa (1)b) relativement à la protection au moyen des tables de mortalité visées à l’alinéa 1401(4)b).
 
 - **(2)** Sous réserve du paragraphe (4), pour l’application du présent article et de l’élément G de la formule figurant à la définition de ***coût de base rajusté*** au paragraphe 148(9) de la Loi, est un gain de mortalité, immédiatement avant la fin d’une année civile postérieure à 1982, relativement à l’intérêt d’un contribuable dans un contrat de rente viagère toute somme raisonnable relative à cet intérêt à ce moment qui, d’après l’assureur sur la vie, représente l’augmentation dont le fonds accumulé relatif à l’intérêt a fait l’objet au cours de l’année en raison de la survie, jusqu’à la fin de l’année, d’un ou de plusieurs des rentiers en vertu du contrat.
 
 - **(3)** Sous réserve du paragraphe (4), pour l’application du présent article et de l’alinéa c) de l’élément L de la formule figurant à la définition de ***coût de base rajusté*** au paragraphe 148(9) de la Loi, est une perte de mortalité, immédiatement avant un moment donné postérieure à 1982, relativement à un intérêt dans un contrat de rente viagère dont il est disposé immédiatement après le moment donné par suite du décès d’un rentier en vertu du contrat toute somme raisonnable qui, d’après l’assureur sur la vie, représente la diminution dont le fonds accumulé relatif à l’intérêt a fait l’objet par suite du décès, à supposer que, pour le calcul du montant de cette diminution, le fonds accumulé immédiatement après le décès est déterminé conformément au sous-alinéa 307(1)b)(i).
 
 - **(4)** Dans le calcul d’un montant visé aux paragraphes (2) ou (3) pour une année relativement à un intérêt dans un contrat de rente viagère, la valeur prévue des gains de mortalité relatifs à l’intérêt pour l’année doit être égale à la valeur prévue des pertes de mortalité relatives à l’intérêt pour l’année, et les taux de mortalité utilisés pour l’année dans le calcul de ces valeurs prévues doivent être ceux qui seraient appropriés à l’intérêt et qui sont spécifiés aux alinéas 1403(1)c), d) ou e), selon le cas.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/83-865, art. 5; DORS/91-290, art. 2; DORS/94-415, art. 3; DORS/94-686, art. 55(F); DORS/2011-188, art. 11.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/83-865, art. 5; DORS/91-290, art. 2; DORS/94-415, art. 3; DORS/94-686, art. 55(F); DORS/2011-188, art. 11; 2014, ch. 39, art. 83.
 
 
 
@@ -1977,20 +2075,52 @@ où :
 
 **310** Les définitions qui suivent s’appliquent au présent article et aux articles 300, 301 et 304 à 309.
 
-***anniversaire de la police*** S’entend notamment, dans le cas d’une police d’assurance-vie ayant existé tout au long d’une année civile et n’ayant pas eu d’autre anniversaire pendant l’année, de la fin de l’année civile.
+***anniversaire de la police*** S’entend notamment, dans le cas d’une police d’assurance-vie ayant existé tout au long d’une année civile et n’ayant pas eu d’autre anniversaire pendant l’année, de la fin de l’année civile. (*policy anniversary*)
 
-***avance sur police*** S’entend au sens du paragraphe 148(9) de la Loi.
+***avance sur police*** S’entend au sens du paragraphe 148(9) de la Loi. (*policy loan*)
 
-***jour anniversaire d’imposition*** En ce qui concerne un contrat de rente, la date du deuxième anniversaire du contrat postérieur au 22 octobre 1968.
+***bénéfice au titre de la valeur du fonds*** S’entend au sens du paragraphe 1401(3). (*fund value benefit*)
 
-***montant payable*** S’entend au sens du paragraphe 138(12) de la Loi.
+***date d’échéance*** Est la date d’échéance d’une police type aux fins d’exonération celle des dates ci-après qui est applicable :
+- **a)** s’agissant d’une police établie à l’égard d’une police d’assurance-vie établie avant 2017, celle des dates ci-après qui est postérieure à l’autre :
+	- **(i)** le dixième anniversaire de la date d’établissement de la police d’assurance-vie,
+	- **(ii)** le premier en date des anniversaires de la police qui survient au plus tôt dans la période qui commence à la date à laquelle le particulier dont la vie est assurée en vertu de la police d’assurance-vie atteindrait l’âge de 85 ans, au sens prévu par la police, s’il survivait;
+- **b)** s’agissant d’une police établie à l’égard d’une protection offerte dans le cadre d’une police d’assurance-vie établie après 2016 :
+	- **(i)** dans le cas où la protection est établie sur plusieurs têtes conjointement, la date qui serait déterminée selon le sous-alinéa (ii) au moyen de l’âge unique équivalent, déterminé à la date d’établissement de la protection et conformément aux principes et pratiques actuariels reconnus, qui constitue une approximation raisonnable des taux de mortalité de ces têtes,
+	- **(ii)** dans les autres cas, celle des dates ci-après qui est postérieure à l’autre :
+		- **(A)** la date du premier en date des anniversaires ci-après :
+			- **(I)** le quinzième anniversaire qui survient à la date d’établissement de la police type aux fins d’exonération,
+			- **(II)** la date du premier en date des anniversaires de la police qui survient dans la période qui commence à la date à laquelle le particulier dont la vie est assurée en vertu de la protection atteindrait l’âge de 105 ans, au sens prévu par la police, s’il survivait,
+		- **(B)** la date du premier en date des anniversaires de la police qui survient dans la période qui commence à la date à laquelle le particulier dont la vie est assurée en vertu de la protection atteindrait l’âge de 90 ans, au sens prévu par la police, s’il survivait. (*endowment date*)
 
-***prestation de décès*** En sont exclues les participations de police, y compris l’intérêt afférent, laissées en dépôt auprès d’un assureur ainsi que les sommes additionnelles payables par suite d’un décès accidentel.
+***jour anniversaire d’imposition*** En ce qui concerne un contrat de rente, la date du deuxième anniversaire du contrat postérieur au 22 octobre 1968. (*tax anniversary date*)
 
-***produit de la disposition*** S’entend au sens du paragraphe 148(9) de la Loi.
+***montant payable*** S’entend au sens du paragraphe 138(12) de la Loi. (*amount payable*)
 
-***valeur de rachat*** S’entend au sens du paragraphe 148(9) de la Loi.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/83-865, art. 5; DORS/94-686, art. 55(F); DORS/2011-188, art. 14.
+***période de paiement*** Est la période de paiement d’une police type aux fins d’exonération :
+- **a)** s’agissant d’une police établie à l’égard d’une police d’assurance-vie établie avant 2017 :
+	- **(i)** si, à la date d’établissement de la police type aux fins d’exonération, le particulier dont la vie est assurée a atteint l’âge de 66 ans, au sens prévu par la police, mais non l’âge de 75 ans, au sens prévu par la police, la période commençant à cette date et se terminant à l’anniversaire de cette date qui correspond au nombre obtenu lorsque l’excédent de l’âge du particulier sur 65, au sens prévu par la police, est soustrait de 20,
+	- **(ii)** si, à la date d’établissement de la police type aux fins d’exonération, le particulier dont la vie est assurée a atteint l’âge de 75 ans, au sens prévu par la police, la période de dix ans commençant à cette date,
+	- **(iii)** dans les autres cas, la période de vingt ans commençant à la date d’établissement de la police type aux fins d’exonération;
+- **b)** s’agissant d’une police établie à l’égard d’une protection offerte dans le cadre d’une police d’assurance-vie établie après 2016 :
+	- **(i)** sous réserve du sous-alinéa (ii), dans le cas où le particulier dont la vie est assurée en vertu de la protection atteindrait, s’il survivait, l’âge de 105 ans, au sens prévu par la police, au cours de la période de huit ans commençant à la date d’établissement de la police type aux fins d’exonération, la période commençant à cette date et se terminant au premier en date des anniversaires de la police qui survient dans la période qui commence à la date à laquelle le particulier atteindrait l’âge de 105 ans, au sens prévu par la police, s’il survivait,
+	- **(ii)** dans le cas où la protection est établie sur plusieurs têtes conjointement et qu’un particulier dont l’âge correspond à l’âge unique équivalent à la date d’établissement de la protection atteindrait, s’il survivait, l’âge de 105 ans, au sens prévu par la police, au cours de la période de huit ans commençant à la date d’établissement de la police type aux fins d’exonération, la période commençant à cette date et se terminant au premier en date des anniversaires de la police qui survient dans la période qui commence à la date à laquelle le particulier atteindrait l’âge de 105 ans, au sens prévu par la police, s’il survivait,
+	- **(iii)** dans les autres cas, la période de huit ans commençant à la date d’établissement de la police type aux fins d’exonération. (*pay period*)
+
+***prestation de décès*** S’entend au sens du paragraphe 1401(3). (*benefit on death*)
+
+***prix d’achat rajusté*** Sous réserve des paragraphes 300(3) et (4), est le prix d’achat rajusté de l’intérêt d’un contribuable dans un contrat de rente à un moment donné la somme qui serait déterminée à ce moment relativement à l’intérêt selon la définition de ***coût de base rajusté***, au paragraphe 148(9) de la Loi, si la formule figurant à cette définition s’appliquait compte non tenu de son élément K. (*adjusted purchase price*)
+
+***produit de la disposition*** S’entend au sens du paragraphe 148(9) de la Loi. (*proceeds of the disposition*)
+
+***protection*** Est une protection d’une police d’assurance-vie, selon le cas :
+- **a)** pour l’application de l’article 306, chaque assurance-vie, à l’exception d’un bénéfice au titre de la valeur du fonds, souscrite dans le cadre de la police sur une seule tête ou sur plusieurs têtes conjointement;
+- **b)** pour l’application des articles 307 et 308, chaque assurance-vie qui est une protection au sens du paragraphe 1401(3). (*coverage*)
+
+***valeur de rachat*** S’entend au sens du paragraphe 148(9) de la Loi. (*cash surrender value*)
+
+***valeur du fonds d’une protection*** S’entend au sens du paragraphe 1401(3). (*fund value of a coverage*)
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/83-865, art. 5; DORS/94-686, art. 55(F); DORS/2011-188, art. 14; 2014, ch. 39, art. 84.
 
 
 
@@ -4810,6 +4940,8 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 
 ***gaz de digesteur*** Mélange de gaz qui proviennent de la décomposition de déchets organiques dans un digesteur et qui sont extraits d’une installation admissible de traitement des eaux usées servant au traitement de ces déchets. (*digester gas*)
 
+***gaz de gazéification*** Combustible dont la composition, à l’exclusion de sa teneur en eau, consiste en totalité ou en presque totalité en gaz non condensables, qui est produit à partir principalement de combustibles résiduaires admissibles au moyen d’un procédé de conversion thermochimique et qui est produit seulement à partir de combustibles résiduaires admissibles ou de combustibles fossiles.
+
 ***gaz de haut fourneau*** Gaz produit dans le haut fourneau d’une aciérie par la réaction chimique de carbone (sous forme de coke, de charbon ou de gaz naturel), de l’oxygène contenu dans l’air et de minerai de fer. (*blast furnace gas*)
 
 ***gaz d’enfouissement*** Mélange de gaz qui proviennent de la décomposition de déchets organiques et qui sont extraits d’un site d’enfouissement admissible. (*landfill gas*)
@@ -4851,11 +4983,11 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 - **(16)** Pour l’application du paragraphe (14), un réseau énergétique de quartier est réputé remplir les exigences énoncées à l’alinéa c) de la catégorie 43.1 de l’annexe II ou à l’alinéa a) de la catégorie 43.2 de cette annexe si le matériel de cogénération électrique qui produit l’énergie thermique utilisée par le réseau est réputé, selon le paragraphe (14), remplir les exigences énoncées à l’alinéa c) de la catégorie 43.1 de l’annexe II ou à l’alinéa a) de la catégorie 43.2 de cette annexe.
 
 - **(17)** Tout bien qui pourrait par ailleurs être inclus dans les catégories 43.1 ou 43.2 de l’annexe II par un contribuable est réputé ne pas pouvoir être inclus dans ces catégories si, à la fois :
-	- **a)** il est inclus dans la catégorie 43.1 par l’effet de son sous-alinéa c)(i) ou il est visé à l’un des sous-alinéas d)(viii), (ix), (xi) et (xiii) de cette catégorie ou à l’alinéa a) de la catégorie 43.2;
+	- **a)** il est inclus dans la catégorie 43.1 par l’effet de son sous-alinéa c)(i) ou il est visé à l’un des sous-alinéas d)(viii), (ix), (xi), (xiii), (xiv) et (xvi) de cette catégorie ainsi qu’à l’alinéa a) de la catégorie 43.2;
 	- **b)** au moment où il devient prêt à être mis en service par le contribuable, celui-ci ne satisfait pas aux exigences des lois et règlements en matière d’environnement, applicables relativement au bien, de l’une des entités suivantes :
 		- **(i)** le Canada ou l’une de ses provinces ou municipalités,
 		- **(ii)** un organisme municipal ou public remplissant une fonction gouvernementale au Canada.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 3; DORS/78-502, art. 2; DORS/78-948, art. 2 et 3; DORS/79-426, art. 3; DORS/79-670, art. 3; DORS/80-418, art. 1; DORS/80-618, art. 2(F); DORS/80-926, art. 1; DORS/80-935, art. 1; DORS/80-942, art. 2; DORS/81-974, art. 1; DORS/81-1026, art. 1; DORS/82-265, art. 4; DORS/83-855, art. 1; DORS/84-265, art. 1; DORS/85-174, art. 2; DORS/86-254, art. 2; DORS/86-1092, art. 6(F); DORS/89-27, art. 3; DORS/90-22, art. 5; DORS/91-79, art. 1; DORS/94-169, art. 2; DORS/94-686, art. 11(F), 62 et 81(F); DORS/95-244, art. 2; DORS/96-200, art. 1; DORS/96-451, art. 1; DORS/97-377, art. 4; DORS/98-97, art. 2; DORS/99-179, art. 3; DORS/2000-327, art. 2; DORS/2001-295, art. 2(A); DORS/2005-371, art. 4; DORS/2005-414, art. 3; DORS/2005-415, art. 1; DORS/2006-117, art. 4; DORS/2006-249, art. 1; DORS/2007-19, art. 2; DORS/2009-115, art. 4; DORS/2009-126, art. 4; 2010, ch. 25, art. 76; DORS/2010-93, art. 14; 2011, ch. 24, art. 79; DORS/2011-9, art. 4; DORS/2011-195, art. 6(F); 2012, ch. 31, art. 61; 2013, ch. 40, art. 103.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 3; DORS/78-502, art. 2; DORS/78-948, art. 2 et 3; DORS/79-426, art. 3; DORS/79-670, art. 3; DORS/80-418, art. 1; DORS/80-618, art. 2(F); DORS/80-926, art. 1; DORS/80-935, art. 1; DORS/80-942, art. 2; DORS/81-974, art. 1; DORS/81-1026, art. 1; DORS/82-265, art. 4; DORS/83-855, art. 1; DORS/84-265, art. 1; DORS/85-174, art. 2; DORS/86-254, art. 2; DORS/86-1092, art. 6(F); DORS/89-27, art. 3; DORS/90-22, art. 5; DORS/91-79, art. 1; DORS/94-169, art. 2; DORS/94-686, art. 11(F), 62 et 81(F); DORS/95-244, art. 2; DORS/96-200, art. 1; DORS/96-451, art. 1; DORS/97-377, art. 4; DORS/98-97, art. 2; DORS/99-179, art. 3; DORS/2000-327, art. 2; DORS/2001-295, art. 2(A); DORS/2005-371, art. 4; DORS/2005-414, art. 3; DORS/2005-415, art. 1; DORS/2006-117, art. 4; DORS/2006-249, art. 1; DORS/2007-19, art. 2; DORS/2009-115, art. 4; DORS/2009-126, art. 4; 2010, ch. 25, art. 76; DORS/2010-93, art. 14; 2011, ch. 24, art. 79; DORS/2011-9, art. 4; DORS/2011-195, art. 6(F); 2012, ch. 31, art. 61; 2013, ch. 40, art. 103; 2014, ch. 39, art. 85.
 
 
 
@@ -6117,45 +6249,217 @@ où :
 
 **1401** 
 
-- **(1)** Pour l’application de l’article 307 du présent règlement et du paragraphe 211.1(3) de la Loi, les sommes déterminées selon le présent paragraphe sont les suivantes :
-	- **a)** à l’égard de polices de fonds d’administration de dépôt, le total des obligations de l’assureur dans le cadre de ces polices, calculé soit de la façon exigée aux fins de son rapport annuel à l’autorité compétente pour l’année, soit dans ses états financiers pour l’année s’il a été tout au long de celle-ci sous la surveillance de l’autorité compétente sans être obligé de produire de rapport annuel auprès d’elle pour l’année;
-	- **b)** à l’égard d’une police collective d’assurance temporaire sur la vie dont la durée maximale est de douze mois, la fraction non acquise de la prime payée par le titulaire de police au titre de la police à la fin de l’année, déterminée par la répartition égale de cette prime sur la période qu’elle vise;
-	- **c)** à l’égard d’une police d’assurance-vie, à l’exclusion des polices visées aux alinéas a) et b), la plus élevée des sommes suivantes :
-		- **(i)** la fraction, si fraction il y a,
-			- **(A)** de la valeur de rachat de la police à la fin de l’annéequi est en sus
-			- **(B)** du total des montants dont chacun représente un montant payable à l’égard d’une avance sur police impayée à la fin de l’année relativement à la police ou à l’égard des intérêts sur cette avance qui se sont accumulés au profit de l’assureur à la fin de l’année,
-		- **(ii)** la fraction, si fraction il y a,
-			- **(A)** de la valeur actuelle à la fin de l’année, des bénéfices qui seront versés en vertu de la police,qui est en sus du total
-			- **(B)** de la valeur actualisée à la fin de l’année des primes nettes modifiées futures relatives à la police,
-			- **(C)** du total des montants dont chacun représente un montant payable à l’égard d’une avance sur police impayée à la fin de l’année relativement à la police ou à l’égard des intérêts sur cette avance qui se sont accumulés au profit de l’assureur à la fin de l’année;
-	- **c.1)** à l’égard d’une police d’assurance collective sur la vie, la somme (sauf celle que l’assureur peut déduire conformément au paragraphe 140(1) de la Loi, par l’effet du sous-alinéa 138(3)a)(v) de la Loi, dans le calcul de son revenu pour l’année) au titre d’une participation ou d’un remboursement de primes ou de dépôts de primes prévu par la police, dont l’assureur se servira pour réduire ou éliminer une provision pour accroissement éventuel de sinistres dans le cadre de la police ou qui est à payer au titulaire, à porter à son crédit inconditionnellement ou à affecter à l’extinction totale ou partielle de son obligation de payer des primes à l’assureur, qui correspond à la moins élevée des sommes suivantes :
+- **(1)** Les sommes ci-après sont déterminées pour l’application de l’article 307 et du paragraphe 211.1(3) de la Loi à un moment donné :
+	- **a)
+** relativement à une police de fonds d’administration de dépôt, le total des passifs de l’assureur dans le cadre de la police, calculé :
+		- **(i)** dans le cas où l’assureur est tenu de présenter un rapport annuel à l’autorité compétente pour une période qui comprend ce moment, selon la méthode devant être utilisée pour l’établissement de ce rapport,
+		- **(ii)** dans les autres cas, selon la méthode devant être utilisée pour l’établissement de ses états financiers annuels visant la période qui comprend ce moment;
+	- **b)
+** relativement à une police d’assurance-vie collective temporaire d’une durée maximale de douze mois, la partie non acquise de la prime versée par le titulaire de police au titre de la police à ce moment, déterminée par la répartition égale de cette prime sur la période qu’elle vise;
+	- **c)
+** relativement à une police d’assurance-vie, à l’exclusion des polices visées aux alinéas a) ou b), la plus élevée des sommes suivantes :
+		- **(i)** la somme obtenue par la formule suivante :
+```
+A – B
+```
+où :
+- **A** représente :
+		- **(A)** si la police est établie après 2016 et qu’elle n’est pas un contrat de rente, sa valeur de rachat à ce moment, déterminée compte non tenu des frais de rachat,
+		- **(B)** dans les autres cas, la valeur de rachat de la police à ce moment,
+- **B** le total des sommes représentant chacune un montant payable à ce moment au titre d’une avance sur police relativement à la police,
+		- **(ii)** la somme obtenue par la formule suivante :
+```
+A – (B + C)
+```
+où :
+- **A** représente :
+		- **(A)** si la police est établie après 2016 et qu’elle n’est pas un contrat de rente, la provision pour primes nettes relative à la police à ce moment,
+		- **(B)** dans les autres cas, la valeur actualisée à ce moment des prestations futures prévues par la police,
+- **B** :
+		- **(A)** si la police est établie après 2016 et qu’elle n’est pas un contrat de rente, zéro,
+		- **(B)** dans les autres cas, la valeur actualisée à ce moment des primes nettes modifiées futures relatives à la police,
+- **C** le total des sommes représentant chacune un montant payable à ce moment au titre d’une avance sur police impayée à ce moment relativement à la police;
+	- **c.1)
+** relativement à une police d’assurance-vie collective, la somme (sauf celle que l’assureur peut déduire en vertu du paragraphe 140(1) de la Loi, par l’effet du sous-alinéa 138(3)a)(v) de la Loi, dans le calcul de son revenu pour son année d’imposition qui comprend ce moment) relative à une participation ou un remboursement de primes ou de dépôts de primes prévu par la police, dont l’assureur se servira pour réduire ou éliminer une provision pour accroissement éventuel de sinistres dans le cadre de la police ou pour payer au titulaire ou porter à son crédit inconditionnellement ou affecter à l’extinction totale ou partielle de son obligation de verser des primes à l’assureur, qui correspond à la moins élevée des sommes suivantes :
 		- **(i)** un montant raisonnable pour un tel dividende ou un tel remboursement de primes ou de dépôts de primes,
-		- **(ii)** le montant correspondant à 25 pour cent de la prime payable aux termes de la police pour la période de 12 mois se terminant :
-			- **(A)** à la date où la police prend fin, si celle-ci prend fin au cours de l’année,
-			- **(B)** à la fin de l’année, dans les autres cas,
-		- **(iii)** le montant de la réserve ou de l’obligation relative à un tel dividende ou un tel remboursement de primes ou de dépôts de primes, que l’assureur a déclarée soit dans son rapport annuel à l’autorité compétente pour l’année, soit dans ses états financiers pour l’année s’il a été tout au long de celle-ci sous la surveillance de l’autorité compétente sans être obligé de produire de rapport annuel auprès d’elle pour l’année;
-	- **d)** à l’égard d’une police, sauf celle visée à l’alinéa a), la somme au titre d’un bénéfice, d’un risque ou d’une garantie constituant :
+		- **(ii)** 25 % de la prime à payer aux termes de la police pour la période de 12 mois se terminant à ce moment,
+		- **(iii)** le montant de la provision ou de l’obligation relative à une telle participation ou un tel remboursement de primes ou de dépôts de primes qui :
+			- **(A)** dans le cas où l’assureur est tenu de présenter un rapport annuel à son autorité compétente pour une période qui comprend ce moment, sert à l’établissement de ce rapport,
+			- **(B)** dans les autres cas, sert à l’établissement de ses états financiers annuels visant la période qui comprend ce moment;
+	- **d)
+** à l’égard d’une police, sauf celle visée à l’alinéa a), la somme au titre d’un bénéfice, d’un risque ou d’une garantie constituant :
 		- **(i)** une prestation pour mort accidentelle,
 		- **(ii)** une prestation d’invalidité,
 		- **(iii)** un risque additionnel à la suite de l’assurance sur la vie de risque tarés,
-		- **(iv)** un risque additionnel à l’égard de la transformation d’une police temporaire ou de la transformation de bénéfices en vertu d’une police collective en une autre police après la fin de l’année,
+		- **(iv)** un risque additionnel à l’égard de la transformation d’une police temporaire ou de la transformation des bénéfices prévus par une police collective en une autre police après ce moment,
 		- **(v)** un risque additionnel en vertu d’une option en capital,
 		- **(vi)** un risque additionnel en vertu d’une prestation de risque garanti,
 		- **(vii)** une garantie à l’égard d’une police à fonds réservé, ou
 		- **(viii)** tout autre bénéfice connexe à la police, sous réserve de l’approbation préliminaire du ministre, sur avis du surintendant des assurances du Canada,
 mais ne constituant pas
-		- **(ix)** un bénéfice, un risque ou une garantie au titre duquel l’assureur a déduit un montant aux termes d’un autre alinéa du présent paragraphe, sauf les alinéas d.1) et d.2), dans le calcul de son revenu pour l’année,
+		- **(ix)** un bénéfice, un risque ou une garantie au titre duquel l’assureur a déduit une somme en application d’un autre alinéa du présent paragraphe dans le calcul de son revenu pour son année d’imposition qui comprend ce moment,
 égale à la moins élevée des sommes suivantes :
 		- **(x)** un montant raisonnable à l’égard d’un bénéfice, d’un risque ou d’une garantie, et
-		- **(xi)** la réserve pour un bénéfice, un risque ou une garantie, que l’assureur a déclarée soit dans son rapport annuel à l’autorité compétente pour l’année, soit dans ses états financiers pour l’année s’il a été tout au long de celle-ci sous la surveillance de l’autorité compétente sans être obligé de produire de rapport annuel auprès d’elle pour l’année.
-	- **d.1) à e)** [Abrogés, 2009, ch. 2, art. 99]
+		- **(xi)** la provision relative au bénéfice, au risque ou à la garantie qui :
+			- **(A)** dans le cas où l’assureur est tenu de présenter un rapport annuel à l’autorité compétente pour une période qui comprend ce moment, sert à l’établissement de ce rapport,
+			- **(B)** dans les autres cas, sert à l’établissement de ses états financiers annuels visant la période qui comprend ce moment.
+	- **d.1) à e)
+** [Abrogés, 2009, ch. 2, art. 99]
 
 - **(1.1)** [Abrogé, 2009, ch. 2, art. 99]
 
 - **(2)** Aux fins du paragraphe (1), (à l’exclusion du sous-alinéa d)(vii), toute somme réclamée par l’assureur pour l’année ne doit pas comprendre une somme à l’égard d’une obligation d’un fonds réservé (au sens que donne l’article 138.1 de la Loi à ***fonds réservé***).
 
-- **(3) et (4)** [Abrogés, 2009, ch. 2, art. 99]
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-425, art. 1; DORS/80-618, art. 3; DORS/84-948, art. 8; DORS/86-1136, art. 2; DORS/90-661, art. 3; DORS/92-681, art. 3(F); DORS/94-415, art. 5; DORS/94-686, art. 13(F); DORS/99-269, art. 4; DORS/2002-123, art. 1; 2009, ch. 2, art. 99.
+- **(3)** Les définitions qui suivent s’appliquent au présent article.
+
+***anniversaire de la police*** S’entend au sens de l’article 310.
+
+
+***bénéfice au titre de la valeur du fonds*** Est le bénéfice au titre de la valeur du fonds d’une police d’assurance-vie à un moment donné l’excédent à ce moment de la valeur du fonds d’une police d’assurance-vie sur le total des sommes représentant chacune la valeur du fonds d’une protection offerte dans le cadre de la police.
+
+
+***frais d’assurance ou primes futurs*** Sont des frais d’assurance ou primes futurs, relativement à une protection, à un moment donné :
+
+- **a)
+** s’il existe une valeur du fonds de la protection à ce moment, chaque montant de frais d’assurance relatifs à la protection qui serait engagé à un moment postérieur au moment donné si le montant net à risque prévu par la protection après le moment donné correspondait à l’excédent à ce moment de cette prestation de décès sur la valeur du fonds de la protection;
+- **b)
+** dans les autres cas, chaque prime qui est fixe et déterminée à la date d’établissement de la protection qui deviendra à payer, ou chaque montant de frais d’assurance relatif à la protection qui sera engagé, à un moment postérieur au moment donné.
+
+***frais d’assurance ou primes nets futurs*** Sont des frais d’assurance ou primes nets futurs relativement à une protection, à un moment donné, toutes sommes ci-après qui sont applicables à une protection à un moment donné :
+
+- **a)
+** pour l’application de l’alinéa a) de l’élément C de la formule figurant à la définition de ***provision pour primes nettes*** au présent paragraphe, chaque somme obtenue par la formule suivante :
+```
+A × B/C
+```
+où :
+- **A** représente des frais d’assurance ou primes futurs relatifs à la protection à ce moment,
+- **B** la valeur actualisée, à la date d’établissement de la protection, des prestations futures à verser relativement à la protection à cette date,
+- **C** la valeur actualisée, à la date d’établissement de la protection, des frais d’assurance ou primes futurs relatifs à la protection à cette date;
+- **b)
+** pour l’application de l’alinéa b) de l’élément C de la formule figurant à la définition de ***provision pour primes nettes*** au présent paragraphe :
+	- **(i)** chaque somme obtenue par la formule suivante :
+```
+A × (B + C)/(D + E)
+```
+où :
+- **A** représente des frais d’assurance ou primes futurs relatifs à la protection à ce moment,
+- **B** la valeur actualisée, à la date d’établissement de la protection, des prestations futures à verser relativement à la protection au premier anniversaire de cette date et, s’il existe une valeur du fonds de la protection à cette date, déterminées comme si le montant de la valeur du fonds à cette date était zéro,
+- **C** la valeur actualisée, à la date d’établissement de la protection, des prestations futures à verser relativement à la protection au deuxième anniversaire de cette date et, s’il existe une valeur du fonds de la protection à cette date, déterminées comme si le montant de la valeur du fonds à cette date était zéro,
+- **D** la valeur actualisée, à la date d’établissement de la protection, des frais d’assurance ou primes futurs relatifs à la protection au premier anniversaire de cette date et, s’il existe une valeur du fonds de la protection à cette date, déterminées comme si le montant de la valeur du fonds de la protection à cette date était zéro,
+- **E** la valeur actualisée, à la date d’établissement de la protection, des frais d’assurance ou primes futurs relatifs à la protection le jour qui suit cette date de deux ans et, s’il existe une valeur du fonds de la protection à cette date, déterminés comme si le montant net à risque prévu par la protection à cette date était zéro,
+	- **(ii)** malgré le sous-alinéa (i), en ce qui a trait à la deuxième année de la protection, la somme obtenue par la formule suivante :
+```
+(A + B)/2
+```
+où :
+- **A** représente la somme déterminée selon le sous-alinéa (i),
+- **B** le montant d’une prime ou de frais d’assurance pour une assurance temporaire d’un an qui serait à payer relativement à la protection si la prestation de décès correspondait à l’excédent de cette prestation à la fin de la première année de la protection sur la valeur du fonds de la protection à la fin de cette année.
+
+***moment d’interpolation*** Est le moment d’interpolation d’une protection celui des moments ci-après qui est antérieur à l’autre :
+
+- **a)
+** le moment qui correspond au huitième anniversaire de la date d’établissement de la protection;
+- **b)
+** le premier moment où aucune prime n’est à payer ni aucun montant de frais d’assurance n’est engagé relativement à la protection.
+
+***prestation de décès*** S’entend notamment d’une prestation cristallisée à la date d’échéance. Les sommes ci-après ne sont pas des prestations de décès :
+
+- **a)
+** toute somme additionnelle à payer en cas de décès par accident;
+- **b)
+** si un montant d’intérêt relatif à une somme gardée en dépôt par un assureur est inclus dans le calcul du revenu d’un titulaire de police pour une année d’imposition, ce montant et la somme.
+
+***prestations futures à verser*** Sont des prestations futures à verser relativement à une protection offerte dans le cadre d’une police d’assurance-vie à un moment donné :
+
+- **a)
+** s’il existe une valeur du fonds de la protection à ce moment, chaque prestation de décès qui serait à payer selon la protection à un moment postérieur au moment donné si le montant de cette prestation correspondait à l’excédent à ce moment de la prestation de décès sur la valeur du fonds de la protection;
+- **b)
+** dans les autres cas, chaque prestation de décès à payer dans le cadre de la protection à un moment particulier après ce moment.
+
+***protection*** Est une protection d’une police d’assurance-vie chaque assurance-vie, sauf un bénéfice au titre de la valeur du fonds, qui est souscrite dans le cadre de la police sur une seule tête ou sur plusieurs têtes conjointement et à laquelle un barème particulier de taux de prime ou frais d’assurance s’applique. Il est entendu que chacune des assurances ainsi souscrites constitue une protection distincte.
+
+
+***provision pour primes nettes*** Est une provision pour primes nettes d’une police d’assurance-vie à un moment donné la somme obtenue par la formule suivante :
+
+```
+A + B + C
+```
+où :
+- **A** représente le total des sommes dont chacune représente la valeur actualisée à ce moment de la valeur du fonds d’une protection offerte dans le cadre de la police à ce moment;
+- **B** le montant du bénéfice au titre de la valeur du fonds prévu par la police à ce moment;
+- **C** :
+- **a)
+** pour l’application de l’alinéa (1)c) dans le cadre de l’article 307, le total des sommes représentant chacune, relativement à une protection offerte dans le cadre de la police :
+- **(i)** si ce moment correspond au moment d’interpolation relatif à la protection ou y est postérieur, la somme obtenue par la formule suivante :
+```
+D – E
+```
+où :
+- **D** représente la valeur actualisée à ce moment des prestations futures à verser relativement à la protection à ce moment,
+- **E** la valeur actualisée à ce moment des frais d’assurance ou primes nets futurs relatifs à la protection à ce moment,
+- **(ii)** si ce moment est antérieur au moment d’interpolation relatif à la protection, la somme obtenue par la formule suivante :
+```
+F/G × (H – I)
+```
+où :
+- **F** représente le nombre d’années écoulées, à ce moment, depuis l’établissement de la protection,
+- **G** le nombre d’années qui se seraient écoulées depuis l’établissement de la protection si ce moment correspondait au moment d’interpolation,
+- **H** la valeur actualisée, au moment d’interpolation, des prestations futures à verser relativement à la protection au moment d’interpolation et, s’il existe une valeur du fonds de la protection à ce moment, déterminées comme si le montant de la prestation de décès prévue par la protection au moment d’interpolation correspondait à l’excédent à ce moment de la prestation de décès sur la valeur du fonds de la protection,
+- **I** la valeur actualisée, au moment d’interpolation, des frais d’assurance ou primes nettes futurs relatifs à la protection au moment d’interpolation et, s’il existe une valeur du fonds de la protection à ce moment, déterminés comme si le montant net à risque prévu par la protection après le moment d’interpolation correspondait à l’excédent à ce moment de la prestation de décès sur la valeur du fonds de la protection;
+- **b)
+** pour l’application de l’alinéa (1)c) dans le cadre du paragraphe 211.1(3) de la Loi, le total des sommes dont chacune représente, relativement à une protection offerte dans le cadre de la police, la somme obtenue par la formule suivante :
+```
+J – K
+```
+où :
+- **J** représente la valeur actualisée, à ce moment, des prestations futures à verser relativement à la protection à ce moment,
+- **K** la valeur actualisée, à ce moment, des frais d’assurance ou primes nettes futurs relatifs à la protection à ce moment.
+
+***valeur du fonds d’une police*** Est la valeur du fonds d’une police d’assurance-vie à un moment donné le total des sommes représentant chacune le solde, à ce moment, d’un compte d’investissement relatif à la police. Il est entendu que toute somme gardée en dépôt par un assureur ainsi que tout montant d’intérêt sur le dépôt :
+
+- **a)
+** sont compris dans ce total si le montant d’intérêt n’est pas inclus dans le calcul du revenu d’un titulaire de police pour une année d’imposition;
+- **b)
+** sont exclus de ce total si le montant d’intérêt est inclus dans le calcul du revenu d’un titulaire de police pour une année d’imposition.
+
+***valeur du fonds d’une protection*** Est la valeur du fonds d’une protection d’une police d’assurance-vie à un moment donné le total des sommes représentant chacune le solde, à ce moment, d’un compte d’investissement relatif à la police qui réduit le montant net à risque qui entre dans le calcul des frais d’assurance de la protection pendant la période sur laquelle ces frais sont engagés ou le seraient s’ils devaient s’appliquer jusqu’à la résiliation de la protection.
+
+
+- **(4)** Pour l’application de l’alinéa (1)c) dans le cadre de l’article 307 relativement à une police d’assurance-vie (sauf un contrat de rente) établie après 2016, les règles ci-après s’appliquent :
+	- **a)
+** les taux ci-après servent au calcul de la valeur actualisée :
+		- **(i)** un taux d’intérêt annuel de 3,5 %,
+		- **(ii)** les taux de mortalité;
+	- **b)
+** pour déterminer les taux de mortalité qui s’appliquent à une vie assurée en vertu d’une protection offerte dans le cadre de la police :
+		- **(i)** si la protection est établie sur une seule tête :
+			- **(A)** l’âge à utiliser est celui de la vie assurée à la date d’établissement de la protection ou celui qui est atteint à l’anniversaire de la vie assurée et qui est le plus près de la date d’établissement de la protection, selon la méthode utilisée par l’assureur ayant établi la police pour déterminer les taux de prime ou de frais d’assurance relatifs à la vie assurée,
+			- **(B)** si l’assureur ayant établi la police a établi que la vie assurée présentait un risque normal à la date d’établissement de la protection, les tables de mortalité à utiliser sont celles intitulées Proposed CIA Mortality Tables, 1986-1992 et publiées dans la note intitulée May 17, 1995 Canadian Institute of Actuaries Memorandum de l’Institut canadien des actuaires, dont la portée a été extrapolée des taux de mortalité applicables pour le groupe d’âge des 81 à 90 ans selon la méthodologie utilisée par l’Institut canadien des actuaires pour établir des taux de mortalité précis pour le groupe d’âge des 71 à 80 ans et qui s’appliquent à un particulier qui présente les mêmes caractéristiques pertinentes que la vie assurée,
+			- **(C)** si l’assureur ayant établi la police a établi que la vie assurée présentait un risque aggravé à la date d’établissement de la protection, les taux de mortalité à appliquer correspondent à la valeur ci-après qui s’applique selon la méthode qui est utilisée par l’assureur afin de déterminer les primes ou frais d’assurance relatifs à la protection :
+				- **(I)** 1 ou, s’il est moins élevé, le résultat de la multiplication du taux attribué à la vie par l’assureur par les taux de mortalité qui seraient déterminés selon la division (B) si la vie assurée ne présentait pas de risque aggravé,
+				- **(II)** les taux de mortalité qui seraient déterminés selon la division (B) si la vie assurée présentait un risque normal et que l’âge de l’assuré avait été l’âge utilisé par l’assureur afin de déterminer les primes ou frais d’assurance relatifs à la protection,
+		- **(ii)** si la protection est établie sur plusieurs têtes conjointement, les taux de mortalité à utiliser sont ceux qui sont obtenus lorsque la méthodologie que l’assureur ayant établi la police utilise pour estimer les taux de mortalité des vies assurées conjointement en vue de déterminer les taux de prime ou de frais d’assurance relatifs à la protection est appliquée aux tables de mortalité intitulées Proposed CIA Mortality Tables, 1986-1992 et publiées dans la note intitulée May 17, 1995 Canadian Institute of Actuaries Memorandum dont la portée a été extrapolée des taux de mortalité particuliers applicables pour le groupe d’âge des 81 à 90 ans qui sont établis au moyen de la méthodologie utilisée par l’Institut canadien des actuaires pour déterminer les taux de mortalités applicables pour le groupe d’âge des 71 à 80 ans;
+	- **c)
+** pour déterminer la provision pour primes nettes relative à la police, la valeur actualisée des frais d’assurance ou primes nettes futurs est calculée comme si des primes ou frais d’assurance à payer à l’un des anniversaires de la police étaient payables le lendemain de cet anniversaire.
+
+- **(5)** Pour l’application de l’alinéa (1)c) dans le cadre du paragraphe 211.1(3) de la Loi relativement à une police d’assurance-vie (sauf un contrat de rente), les règles ci-après s’appliquent :
+	- **a)
+** si la police est établie après 2016 :
+		- **(i)** les taux d’intérêt, de mortalité et de déchéance visés au paragraphe 1403(1) entrent dans le calcul des valeurs actualisées et sont déterminés comme si, à la fois :
+			- **(A)** les paragraphes 1403(2) à (8) ne s’appliquaient pas,
+			- **(B)** le passage « primes de la police » à l’alinéa 1403(1)e) était remplacé par « primes ou frais d’assurance relatifs à une protection »,
+		- **(ii)** le sous-alinéa (1)c)(i) s’applique compte non tenu du passage « déterminée compte non tenu des frais de rachat »,
+		- **(iii)** pour déterminer la provision pour primes nettes relative à la police, la valeur actualisée des frais d’assurance ou primes nettes futurs est calculée comme si des primes ou frais d’assurance à payer à un anniversaire de la police étaient à payer le lendemain de cet anniversaire;
+	- **b)
+** si la police est établie avant 2017 et que, à un moment donné après 2016, une assurance-vie à laquelle un barème particulier de taux de prime ou de frais d’assurance s’applique et qui est souscrite en vertu de la police sur une seule tête ou sur plusieurs têtes conjointement est convertie en un autre type d’assurance-vie aux termes de la police ou est ajoutée à la police, cette assurance est réputée être, sauf si la conversion n’est due qu’à un changement des taux de primes ou des frais d’assurance, une police d’assurance-vie distincte, sauf si un des faits ci-après s’avère :
+		- **(i)** l’assurance fait partie d’un avenant qui est réputé, en vertu du paragraphe 211(2) de la Loi, être une police d’assurance-vie distincte,
+		- **(ii)** si l’assurance est ajoutée à la police :
+			- **(A)** l’assurance est médicalement souscrite, selon le cas :
+				- **(I)** dans le but d’obtenir une réduction des primes ou frais d’assurance aux termes de la police,
+				- **(II)** avant 2017,
+			- **(B)** l’assurance est payée au moyen des participations de police ou est rétablie.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-425, art. 1; DORS/80-618, art. 3; DORS/84-948, art. 8; DORS/86-1136, art. 2; DORS/90-661, art. 3; DORS/92-681, art. 3(F); DORS/94-415, art. 5; DORS/94-686, art. 13(F); DORS/99-269, art. 4; DORS/2002-123, art. 1; 2009, ch. 2, art. 99; 2014, ch. 39, art. 86.
 
 
 
@@ -6185,10 +6489,10 @@ mais ne constituant pas
 
 **1403** 
 
-- **(1)** Pour l’application de l’alinéa 1401(1)c) et sous réserve des paragraphes (2) et (3), les primes nettes modifiées et les sommes qu’un assureur réclame pour une année d’imposition se calculent :
+- **(1)** Sous réserve des paragraphes (2) et (3) et pour l’application de l’alinéa 1401(1)c) relativement à une police d’assurance-vie établie avant 2017 ou à un contrat de rente, les primes nettes modifiées et les sommes déterminées selon l’alinéa 1401(1)c) se calculent :
 	- **a)** dans le cas d’une police fondée sur les déchéances établie après 1990, en fonction des taux d’intérêt, de mortalité et de déchéance seulement,
 	- **b)** dans les autres cas, en fonction des taux d’intérêt et de mortalité seulement,
-de la façon suivante :
+de la façon suivante :
 	- **c)** s’il s’agit de primes nettes modifiées et de bénéfices (autres qu’un bénéfice décrit à l’alinéa d)) d’une police d’assurance-vie avec participation (autre qu’un contrat de rentes) en vertu de laquelle le titulaire de police a le droit de recevoir un montant précis à l’égard de la valeur de rachat de la police, d’après les taux utilisés par l’assureur au moment de l’émission de la police pour calculer les valeurs de rachat de la police;
 	- **d)** s’il s’agit de tout bénéfice fourni
 		- **(i)** en compensation d’un montant en espèces à l’expiration ou à l’échéance de la police, ou
@@ -6243,7 +6547,7 @@ où :
 	- **b)** les taux révisés sont réputés avoir été utilisés par l’émetteur des polices transférées pour déterminer la valeur de rachat ou les primes relatives aux polices.
 
 - **(10)** Si un assureur a révisé, en application du paragraphe (9), les taux d’intérêt, de mortalité ou de déchéance utilisés par l’émetteur de polices transférées, le ministre peut, pour l’application du paragraphe (1) et de l’alinéa (9)b), apporter d’autres révisions aux taux révisés dans la mesure où les révisions que l’assureur a apportées à ces taux ne sont pas raisonnables dans les circonstances.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-425, art. 1; DORS/80-419, art. 2; DORS/80-618, art. 4(A); DORS/90-661, art. 4; DORS/94-415, art. 6; DORS/94-686, art. 14(F) et 56(F); 2013, ch. 34, art. 386.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-425, art. 1; DORS/80-419, art. 2; DORS/80-618, art. 4(A); DORS/90-661, art. 4; DORS/94-415, art. 6; DORS/94-686, art. 14(F) et 56(F); 2013, ch. 34, art. 386; 2014, ch. 39, art. 87.
 
 
 
@@ -11368,16 +11672,15 @@ par rapport
 - **a)** dans le cas de son entreprise exploitée activement dans un pays :
 	- **(i)** le revenu ou le bénéfice tiré de l’entreprise pour l’année, redressé conformément aux paragraphes (2), (2.1), (2.2) et (2.9) et calculé selon la législation concernant l’impôt sur le revenu du pays de résidence de la société affiliée, dans le cas où celle-ci est tenue par cette législation de calculer ce revenu ou ce bénéfice,
 	- **(ii)** le revenu ou le bénéfice tiré de l’entreprise pour l’année, redressé conformément aux paragraphes (2), (2.1), (2.2) et (2.9) et calculé selon la législation concernant l’impôt sur le revenu du pays où l’entreprise est exploitée, dans le cas, non prévu au sous-alinéa (i), où la société affiliée est tenue par cette législation de calculer ce revenu ou ce bénéfice,
-	- **(iii)** dans les autres cas, le montant qui représenterait le revenu tiré de l’entreprise pour l’année en vertu de la partie I de la Loi, redressé conformément aux paragraphes (2), (2.1), (2.2) et (2.9), si la société affiliée résidait au Canada et y exploitait l’entreprise et s’il n’était pas tenu compte des paragraphes 80(3) à (12), (15) et (17) et 80.01(5) à (11) et des articles 80.02 à 80.04 de la Loi;
+	- **(iii)** dans les autres cas, le montant qui représenterait le revenu tiré de l’entreprise pour l’année en vertu de la partie I de la Loi si la société affiliée résidait au Canada, l’entreprise était exploitée au Canada et s’il n’était pas tenu compte des paragraphes 18(4), 80(3) à (12), (15) et (17) et 80.01(5) à (11) ni des articles 80.02 à 80.04 de la Loi;
 pour l’application de la présente partie, dans la mesure où ils ne peuvent être attribués à un établissement stable situé dans un pays en particulier, les gains d’une société affiliée tirés de son entreprise exploitée activement sont attribués à l’établissement stable situé dans son pays de résidence et, si elle réside dans plus d’un pays, à l’établissement stable situé dans le pays qu’il est raisonnable de considérer comme son principal lieu de résidence;
-- **b)** dans les autres cas, le total des sommes dont chacune représente un montant de revenu qui serait à inclure, en application de l’alinéa 95(2)a) de la Loi, dans le calcul du revenu ou de la perte de la société affiliée provenant d’une entreprise exploitée activement pour l’année si ce revenu était calculé compte tenu des règles énoncées au paragraphe (2.03). (*earnings*)
+- **b)** dans les autres cas, le total des sommes dont chacune représente un montant de revenu qui serait à inclure, en application de l’alinéa 95(2)a) ou du paragraphe 95(2.44) de la Loi, dans le calcul du revenu ou de la perte de la société affiliée provenant d’une entreprise exploitée activement pour l’année si ce revenu était calculé compte tenu des règles énoncées au paragraphe (2.03). (*earnings*)
 
 ***gains exonérés*** En ce qui concerne une société étrangère affiliée d’une société donnée pour une année d’imposition de la société affiliée, la somme qui correspond, sous réserve du paragraphe (2.02), au total des sommes dont chacune représente l’une des sommes ci-après, moins la partie de l’impôt sur le revenu ou sur les bénéfices payé par la société affiliée pour l’année au gouvernement d’un pays qu’il est raisonnable de considérer comme un impôt sur les gains visés à l’alinéa c) ou au sous-alinéa d)(ii) :
 - **a)** l’excédent des gains en capital de la société affiliée pour l’année (sauf ceux qui entrent dans le calcul du montant, à un moment de l’année, de son surplus hybride ou déficit hybride relativement à la société donnée) sur le total des sommes suivantes :
 	- **(i)** le montant des gains en capital imposables pour l’année visé à l’élément B de la formule figurant à la définition de ***revenu étranger accumulé, tiré de biens*** au paragraphe 95(1) de la Loi,
 	- **(ii)** le montant des gains en capital imposables pour l’année visé aux sous-alinéas c)(i), e)(i) et f)(iv) de la définition de ***gains nets***,
 	- **(iii)** la fraction de l’impôt sur le revenu ou sur les bénéfices payé pour l’année au gouvernement d’un pays par la société affiliée qu’il est raisonnable de considérer comme un impôt sur l’excédent des gains en capital de la société affiliée pour l’année sur le total des montants visés aux sous-alinéas (i) et (ii);
-pour l’application du présent alinéa, lorsque la société affiliée a disposé d’immobilisations qui étaient des actions du capital-actions d’une autre société étrangère affiliée de la société donnée en faveur d’une autre société qui était, immédiatement après la disposition, une société étrangère affiliée de la société donnée, est exclue des gains en capital de la société affiliée pour l’année la partie de ces gains qui correspond au total des sommes représentant chacune l’excédent de la juste valeur marchande, à la fin de l’année d’imposition 1975 de la société affiliée, de l’une des actions dont il a été disposé sur son prix de base rajusté;
 - **a.1)** la somme obtenue par la formule suivante :
 ```
 A – B
@@ -11396,13 +11699,14 @@ où :
 	- **(i)** soit les gains nets de la société affiliée pour l’année provenant de son entreprise exploitée activement au Canada ou dans un pays désigné,
 	- **(ii)** soit les gains de la société affiliée (appelée « société affiliée donnée » au présent sous-alinéa) pour l’année provenant d’une entreprise exploitée activement, dans la mesure où ils découlent de l’une des sommes suivantes :
 		- **(A)** le revenu qui est à inclure, en application du sous-alinéa 95(2)a)(i) de la Loi, dans le calcul du revenu ou de la perte de la société affiliée donnée pour l’année provenant d’une entreprise exploitée activement et qui :
-			- **(I)** s’il était gagné par l’autre société étrangère affiliée visée à la subdivision 95(2)a)(i)(A)(I) de la Loi, serait inclus dans le calcul des gains exonérés ou de la perte exonérée de cette société affiliée pour une année d’imposition,
+			- **(I)** s’il était gagné par l’autre société étrangère affiliée visée aux subdivisions 95(2)a)(i)(A)(I) ou (IV) de la Loi, serait inclus dans le calcul des gains exonérés ou de la perte exonérée de cette société affiliée pour une année d’imposition,
 			- **(II)** s’il était gagné par la compagnie d’assurance-vie visée à la subdivision 95(2)a)(i)(A)(II) de la Loi et fondé sur les suppositions énoncées à la subdivision 95(2)a)(i)(B)(II) de la Loi, serait inclus dans le calcul des gains exonérés ou de la perte exonérée de cette compagnie pour une année d’imposition,
+			- **(III)** s’il provenait des activités d’entreprise exploitée activement exercées par la société affiliée donnée ou par la société de personnes visée à la subdivision 95(2)a)(i)(A)(III) de la Loi, serait inclus dans le calcul des gains exonérés ou de la perte exonérée de la société affiliée donnée pour une année d’imposition,
 		- **(B)** le revenu qui est à inclure, en application de la division 95(2)a)(ii)(A) de la Loi, dans le calcul du revenu ou de la perte de la société affiliée donnée pour l’année provenant d’une entreprise exploitée activement, s’il provient de sommes payées ou payables par la compagnie d’assurance-vie visée à cette division qui se rapportent à des dépenses qui seraient déductibles dans le calcul de ses gains exonérés ou de sa perte exonérée pour une année d’imposition si elle était une société étrangère affiliée de la société,
 		- **(C)** le revenu qui est à inclure, en application de la division 95(2)a)(ii)(B) de la Loi, dans le calcul du revenu ou de la perte de la société affiliée donnée pour l’année provenant d’une entreprise exploitée activement, dans la mesure où les sommes payées ou payables visées à cette division se rapportent à des dépenses qui sont déductibles dans le calcul des gains exonérés ou de la perte exonérée pour une année d’imposition de l’autre société étrangère affiliée visée à cette division,
 		- **(D)** le revenu qui est à inclure, en application de la division 95(2)a)(ii)(C) de la Loi, dans le calcul du revenu ou de la perte de la société affiliée donnée pour l’année provenant d’une entreprise exploitée activement, dans la mesure où les sommes payées ou payables visées à cette division se rapportent à des dépenses qui sont déductibles dans le calcul de ses gains exonérés ou de sa perte exonérée pour une année d’imposition,
 		- **(E)** le revenu qui est à inclure, en application de la division 95(2)a)(ii)(D) de la Loi, dans le calcul du revenu ou de la perte de la société affiliée donnée pour l’année provenant d’une entreprise exploitée activement dans le cas où, à la fois :
-			- **(I)** le pays visé à la subdivision 95(2)a)(ii)(D)(IV) de la Loi est un pays désigné,
+			- **(I)** les deuxième et troisième sociétés affiliées visées à la subdivision 95(2)a)(ii)(D)(II) de la Loi résident chacune dans un pays désigné tout au long de leur année pertinente, au sens de cette subdivision,
 			- **(II)** le revenu en cause serait à inclure dans ce calcul si :
 				- **1.** l’alinéa a) de la définition de ***bien exclu*** au paragraphe 95(1) de la Loi avait le libellé suivant :
 
@@ -11417,7 +11721,8 @@ où :
 		- **(F)** le revenu qui est à inclure, en application du sous-alinéa 95(2)a)(iii) de la Loi, dans le calcul du revenu ou de la perte de la société affiliée donnée pour l’année provenant d’une entreprise exploitée activement, dans la mesure où les comptes clients visés à ce sous-alinéa ont pris naissance dans le cours des activités d’une entreprise exploitée activement par l’autre société étrangère affiliée visée à ce sous-alinéa dont le revenu ou la perte est inclus dans le calcul de ses gains exonérés ou de sa perte exonérée pour une année d’imposition,
 		- **(G)** le revenu qui est à inclure, en application du sous-alinéa 95(2)a)(iv) de la Loi, dans le calcul du revenu ou de la perte de la société affiliée donnée pour l’année provenant d’une entreprise exploitée activement, dans la mesure où les prêts ou les titres de crédit visés à ce sous-alinéa ont pris naissance dans le cours des activités d’une entreprise exploitée activement par l’autre société étrangère affiliée visée à ce sous-alinéa dont le revenu ou la perte est inclus dans le calcul de ses gains exonérés ou de sa perte exonérée pour une année d’imposition,
 		- **(H)** le revenu qui est à inclure, en application du sous-alinéa 95(2)a)(v) de la Loi, dans le calcul du revenu ou de la perte de la société affiliée donnée pour l’année provenant d’une entreprise exploitée activement, dans le cas où la totalité ou la presque totalité de son revenu tiré de biens visés à ce sous-alinéa est ou serait, si les biens produisaient un revenu, un revenu provenant d’une entreprise exploitée activement (lequel comprend, à cette fin, un revenu qui serait réputé, par l’alinéa 95(2)a) de la Loi, être un revenu provenant d’une entreprise exploitée activement s’il n’était pas tenu compte du sous-alinéa 95(2)a)(v) de la Loi, étant entendu que le revenu provenant de la disposition des biens n’est pas un revenu provenant d’une entreprise exploitée activement) qui est inclus dans le calcul de ses gains exonérés ou de sa perte exonérée pour une année d’imposition,
-		- **(I)** le revenu qui est à inclure, en application du sous-alinéa 95(2)a)(vi) de la Loi, dans le calcul du revenu ou de la perte de la société affiliée donnée pour l’année provenant d’une entreprise exploitée activement, dans le cas où il est raisonnable de considérer que la convention d’achat, de vente ou d’échange de monnaie visée à ce sous-alinéa a été conclue par la société affiliée donnée afin de réduire le risque, pour elle, lié à un montant de revenu ou de perte qui est inclus dans le calcul de ses gains exonérés ou de sa perte exonérée pour une année d’imposition;
+		- **(I)** le revenu qui est à inclure, en application du sous-alinéa 95(2)a)(vi) de la Loi, dans le calcul du revenu ou de la perte de la société affiliée donnée pour l’année provenant d’une entreprise exploitée activement, dans le cas où il est raisonnable de considérer que la convention d’achat, de vente ou d’échange de monnaie visée à ce sous-alinéa a été conclue par la société affiliée donnée afin de réduire le risque, pour elle, lié à un montant de revenu ou de perte qui est inclus dans le calcul de ses gains exonérés ou de sa perte exonérée pour une année d’imposition,
+		- **(J)** toute somme qui est à inclure dans le calcul du revenu de la société affiliée donnée provenant d’une entreprise exploitée activement pour l’année en vertu du paragraphe 95(2.44) de la Loi et qui se rapporte à un revenu qui, en l’absence de l’alinéa 95(2)a.3) de la Loi, serait un revenu provenant d’une entreprise exploitée activement par la société affiliée donnée dans un pays désigné;
 - **e)** s’il s’agit de 1976 ou d’une année d’imposition ultérieure de la société affiliée, un montant inclus dans ses gains exonérés pour l’année par l’effet du paragraphe (10). (*exempt earnings*)
 
 ***gains imposables*** Quant à une société étrangère affiliée d’une société pour une année d’imposition de la société affiliée :
@@ -11465,12 +11770,12 @@ où
 - **(ii)** la partie de l’impôt sur le revenu ou sur les bénéfices que la société affiliée déterminée a payé au gouvernement d’un pays, qu’il est raisonnable de considérer comme ayant été payée sur ses gains imposables (étant entendu que ces gains comprennent toute somme qui est incluse dans le calcul de ces gains par l’effet de l’alinéa (2.02)a)) pour une année d’imposition se terminant dans la période,
 - **(iii)** la fraction de l’impôt sur le revenu ou sur les bénéfices visé au sous-alinéa (iii) de l’élément B de la formule figurant à la définition de ***surplus imposable*** au présent paragraphe que la société affiliée déterminée a payée sur un dividende reçu d’une autre société étrangère affiliée de la société,
 - **(iv)** chaque montant qui est considéré, selon l’alinéa 5900(1)d), comme étant l’impôt étranger applicable à la fraction d’un dividende que la société affiliée déterminée a reçu au cours de la période et avant le moment donné d’une autre société étrangère affiliée de la société (y compris tout dividende qu’elle est réputée avoir reçu par le paragraphe 5905(7)) qui est considéré, selon l’alinéa 5900(1)b), comme ayant été prélevé sur le surplus imposable de l’autre société affiliée à l’égard de la société,
-- **(v)** le montant à ajouter, en application des paragraphes (1.1) ou (1.2), au montant intrinsèque d’impôt étranger de la société affiliée déterminée;
+- **(v)** le montant à ajouter, en application des paragraphes (1.092), (1.1) ou (1.2) au cours de la période et avant le moment donné, au montant intrinsèque d’impôt étranger de la société affiliée déterminée;
 - **B** le total de ceux des montants suivants qui sont applicables pour la période :
 - **(i)** la fraction de l’impôt sur le revenu ou sur les bénéfices que le gouvernement d’un pays a remboursé à la société affiliée déterminée qu’il est raisonnable de considérer comme ayant été remboursée au titre de la perte imposable de la société affiliée déterminée pour une année d’imposition se terminant dans la période,
 - **(ii)** le montant intrinsèque d’impôt étranger applicable à un dividende global versé par la société affiliée déterminée au cours de la période et avant le moment donné qui est réputé, en vertu de l’alinéa 5901(1)b) ou, si le paragraphe 5901(1.1) s’est appliqué au dividende, en vertu de l’alinéa 5901(1)a.1), avoir été versé, avant ce moment, sur le surplus imposable de la société affiliée déterminée relativement à la société,
 - **(iii)** chaque somme qui, selon les articles 5902 ou 5905, est à inclure en application du présent sous-alinéa ou du sous-alinéa (1)l)(x), dans sa version applicable aux années d’imposition se terminant avant le 22 février 1994, au cours de la période et avant le moment donné,
-- **(iv)** le montant à soustraire, en application des paragraphes (1.1) ou (1.2), du montant intrinsèque d’impôt étranger de la société affiliée déterminée au cours de la période et avant le moment donné. (*underlying foreign tax*)
+- **(iv)** le montant à soustraire, en application des paragraphes (1.092), (1.1) ou (1.2), du montant intrinsèque d’impôt étranger de la société affiliée déterminée au cours de la période et avant le moment donné. (*underlying foreign tax*)
 
 ***montant intrinsèque d’impôt étranger applicable*** Quant à une société et s’agissant du montant intrinsèque d’impôt étranger applicable à un dividende global versé à un moment donné sur les actions d’une catégorie du capital-actions d’une société étrangère affiliée de la société par la société affiliée, le total des montants suivants :
 - **a)** le produit de la multiplication du montant intrinsèque d’impôt étranger de la société affiliée à ce moment à l’égard de la société par le rapport entre :
@@ -11491,12 +11796,12 @@ où :
 - **(i)** le montant intrinsèque d’impôt hybride initial de la société affiliée déterminée relativement à la société, déterminé selon l’article 5905, au moment visé à l’alinéa b),
 - **(ii)** la partie de tout impôt sur le revenu ou sur les bénéfices payé par la société affiliée déterminée au gouvernement d’un pays, qu’il est raisonnable de considérer comme ayant été payée au titre d’une somme visée aux sous-alinéas (ii) ou (iv) de l’élément A de la formule figurant à la définition de ***surplus hybride***,
 - **(iii)** chaque somme qui, selon l’alinéa 5900(1)c.1), représente l’impôt étranger applicable à la partie d’un dividende que la société affiliée déterminée a reçu, au cours de la période et avant le moment donné, d’une autre société étrangère affiliée de la société (y compris tout dividende qu’elle est réputée avoir reçu en vertu du paragraphe 5905(7)) qui, selon l’alinéa 5900(1)a.1), est considérée comme ayant été versée sur le surplus hybride de l’autre société affiliée relativement à la société,
-- **(iv)** la somme à ajouter, en application des paragraphes (1.1) ou (1.2), au montant intrinsèque d’impôt hybride de la société affiliée déterminée;
+- **(iv)** la somme à ajouter, en application des paragraphes (1.092), (1.1) ou (1.2) au cours de la période et avant le moment donné, au montant intrinsèque d’impôt hybride de la société affiliée déterminée;
 - **B** le total de celles des sommes ci-après qui s’appliquent relativement à la période :
 - **(i)** la partie de tout impôt sur le revenu ou sur les bénéfices remboursé à la société affiliée déterminée par le gouvernement d’un pays, qu’il est raisonnable de considérer comme ayant été remboursée au titre d’une somme visée aux sous-alinéas (ii) ou (iii) de l’élément B de la formule figurant à la définition de ***surplus hybride***,
 - **(ii)** le montant intrinsèque d’impôt hybride applicable à tout dividende global versé par la société affiliée déterminée au cours de la période et avant le moment donné qui est réputé, en vertu de l’alinéa 5901(1)a.1) ou, si le paragraphe 5901(1.1) s’est appliqué au dividende, en vertu de l’alinéa 5901(1)b), avoir été versé sur son surplus hybride relativement à la société avant ce moment,
 - **(iii)** chaque somme qui, selon l’article 5902, est à inclure en application du présent sous-alinéa au cours de la période et avant le moment donné,
-- **(iv)** la somme à retrancher, en application les paragraphes (1.1) ou (1.2) au cours de la période et avant le moment donné, du montant intrinsèque d’impôt hybride de la société affiliée déterminée. (*hybrid underlying tax*)
+- **(iv)** la somme à retrancher, en application les paragraphes (1.092), (1.1) ou (1.2) au cours de la période et avant le moment donné, du montant intrinsèque d’impôt hybride de la société affiliée déterminée. (*hybrid underlying tax*)
 
 ***montant intrinsèque d’impôt hybride applicable*** Le montant intrinsèque d’impôt hybride applicable, relativement à une société, à un dividende global versé à un moment donné sur les actions d’une catégorie du capital-actions d’une société étrangère affiliée de la société par la société affiliée correspond à la proportion du montant intrinsèque d’impôt hybride de la société affiliée à ce moment relativement à la société que représente le rapport entre :
 - **a)** d’une part, la partie du dividende global qui est réputée avoir été versée sur le surplus hybride de la société affiliée relativement à la société;
@@ -11584,7 +11889,7 @@ où
 - **(iii)** la fraction d’un dividende que la société affiliée déterminée a reçu, au cours de la période et avant le moment donné, d’une autre société étrangère affiliée de la société — y compris tout dividende qu’elle est réputée avoir reçu par le paragraphe 5905(7) — qui est réputée, selon l’alinéa 5900(1)a), avoir été prélevée sur le surplus exonéré de l’autre société affiliée à l’égard de la société,
 - **(iv)** la fraction de l’impôt sur le revenu ou sur les bénéfices remboursé à la société affiliée déterminée par le gouvernement d’un pays, ou le montant d’un crédit d’impôt payé à celle-ci par ce gouvernement, qu’il est raisonnable de considérer comme ayant été remboursé ou payé au titre d’un montant visé au sous-alinéa (iii) du présent élément et qui n’a pas été déduit dans le calcul d’un montant visé au sous-alinéa (iii) de l’élément B,
 - **(v)** la fraction d’un dividende imposable que la société affiliée déterminée a reçu au cours de la période et avant le moment donné qui serait déductible par la société en application de l’article 112 de la Loi si le dividende était reçu par la société,
-- **(vi)** un montant ajouté au surplus exonéré de la société affiliée déterminée ou déduit de son déficit exonéré en application des paragraphes (1.1) ou (1.2) au cours de la période et avant le moment donné,
+- **(vi)** un montant ajouté au surplus exonéré de la société affiliée déterminée, ou déduit de son déficit exonéré, en application des paragraphes (1.092), (1.1) ou (1.2) au cours de la période et avant le moment donné,
 - **(vi.1)** chaque somme qui, selon l’article 5905, est à inclure en application du présent sous-alinéa au cours de la période et avant le moment donné,
 - **(vii)** un montant ajouté, au cours de la période et avant le moment donné, au surplus exonéré de la société affiliée déterminée en application de l’alinéa (7.1)d), dans sa version applicable aux dividendes versés avant le 20 août 2011;
 - **B** le total de ceux des montants suivants qui sont applicables pour la période :
@@ -11593,7 +11898,7 @@ où
 - **(iii)** la fraction de l’impôt sur le revenu ou sur les bénéfices que la société affiliée déterminée a payé au gouvernement d’un pays qu’il est raisonnable de considérer comme ayant été payée sur un montant visé aux sous-alinéas (iii), (iv) ou (v) de l’élément A,
 - **(iv)** la fraction d’un dividende global versé par la société affiliée déterminée au cours de la période et avant le moment donné qui est réputée par l’alinéa 5901(1)a) avoir été prélevée sur le surplus exonéré de la société affiliée déterminée à l’égard de la société,
 - **(v)** chaque somme qui, selon les articles 5902 ou 5905, est à inclure en application du présent sous-alinéa ou du sous-alinéa (1)d)(xii), dans sa version applicable aux années d’imposition se terminant avant le 22 février 1994, au cours de la période et avant le moment donné,
-- **(vi)** un montant déduit du surplus exonéré de la société affiliée déterminée, ou ajouté à son déficit exonéré, en application des paragraphes (1.1) ou (1.2) au cours de la période et avant le moment donné. (*exempt surplus*)
+- **(vi)** un montant déduit du surplus exonéré de la société affiliée déterminée, ou ajouté à son déficit exonéré, en application des paragraphes (1.092), (1.1) ou (1.2) au cours de la période et avant le moment donné. (*exempt surplus*)
 
 ***surplus hybride*** En ce qui concerne une société étrangère affiliée (appelée « société affiliée déterminée » dans la présente définition) d’une société, relativement à celle-ci, à un moment donné, la somme obtenue par la formule ci-après pour la période qui commence au dernier en date des moments ci-après et se termine au moment donné :
 - **a)** le premier jour de l’année d’imposition de la société affiliée déterminée dans laquelle elle est devenue la dernière fois une société étrangère affiliée de la société,
@@ -11613,7 +11918,7 @@ où :
 - **(II)** soit à une somme payable, ou à un montant de dette, visé à la division c.1)(ii)(B) de cette définition de ***bien exclu*** qui est lié à l’acquisition d’un bien exclu de la société affiliée visé aux divisions (A) ou (B) et dont la disposition a donné lieu à un gain en capital ou à une perte en capital qui, s’il était disposé de ce bien exclu, serait inclus dans le montant visé au présent sous-alinéa ou au sous-alinéa (ii) de l’élément B, selon le cas,
 - **(iii)** la partie de tout impôt sur le revenu ou sur les bénéfices remboursé à la société affiliée déterminée par le gouvernement d’un pays, qu’il est raisonnable de considérer comme ayant été remboursée au titre d’une somme visée aux sous-alinéas (ii) ou (iii) de l’élément B,
 - **(iv)** la partie de tout dividende que la société affiliée déterminée a reçu, au cours de la période et avant le moment donné, d’une autre société étrangère affiliée de la société (y compris tout dividende qu’elle est réputée avoir reçu en vertu du paragraphe 5905(7)) qui, selon l’alinéa 5900(1)a.1), est considérée comme ayant été versée sur le surplus hybride de l’autre société affiliée relativement à la société,
-- **(v)** une somme ajoutée au surplus hybride de la société affiliée déterminée, ou déduite de son déficit hybride, en application des paragraphes (1.1) ou (1.2), au cours de la période et avant le moment donné;
+- **(v)** une somme ajoutée au surplus hybride de la société affiliée déterminée, ou déduite de son déficit hybride, en application des paragraphes (1.092), (1.1) ou (1.2) au cours de la période et avant le moment donné;
 - **B** le total de celles des sommes ci-après qui s’appliquent relativement à la période :
 - **(i)** le déficit hybride initial de la société affiliée déterminée relativement à la société, déterminé selon l’article 5905, au moment visé à l’alinéa c),
 - **(ii)** le montant d’une perte en capital (sauf dans la mesure où la partie déductible de la perte est visée à l’alinéa a) de l’élément E de la formule figurant à la définition de ***revenu étranger accumulé, tiré de biens*** au paragraphe 95(1) de la Loi relativement à la société affiliée déterminée) pour une année d’imposition de la société affiliée déterminée ou d’une société de personnes dont celle-ci est un associé (dans la mesure où il est raisonnable d’attribuer la perte à la société affiliée déterminée), relativement à la disposition, effectuée au cours de la période :
@@ -11626,7 +11931,7 @@ où :
 - **(iv)** la partie de tout impôt sur le revenu ou sur les bénéfices payé par la société affiliée déterminée au gouvernement d’un pays, qu’il est raisonnable de considérer comme ayant été payée au titre d’une somme visée aux sous-alinéas (ii) ou (iv) de l’élément A,
 - **(v)** la partie de tout dividende global versé par la société affiliée déterminée au cours de la période et avant le moment donné qui est réputée, en vertu de l’alinéa 5901(1)a.1) ou, si le paragraphe 5901(1.1) s’est appliqué au dividende, en vertu de l’alinéa 5901(1)b), avoir été versée sur le surplus hybride de la société affiliée déterminée relativement à la société,
 - **(vi)** chaque somme qui, selon l’article 5902, est à inclure en application du présent sous-alinéa au cours de la période et avant le moment donné,
-- **(vii)** une somme déduite du surplus hybride de la société affiliée déterminée, ou ajoutée à son déficit hybride, en application des paragraphes (1.1) ou (1.2), au cours de la période et avant le moment donné. (*hybrid surplus*)
+- **(vii)** une somme déduite du surplus hybride de la société affiliée déterminée, ou ajoutée à son déficit hybride, en application des paragraphes (1.092), (1.1) ou (1.2) au cours de la période et avant le moment donné. (*hybrid surplus*)
 
 ***surplus imposable*** En ce qui concerne une société étrangère affiliée (appelée « société affiliée déterminée » dans la présente définition) d’une société, relativement à celle-ci, à un moment donné, la somme obtenue par la formule ci-après pour la période qui commence au dernier en date des moments ci-après et se termine au moment donné :
 - **a)** le premier jour de l’année d’imposition de la société affiliée déterminée au cours de laquelle elle est devenue la dernière fois une société étrangère affiliée de la société,
@@ -11640,7 +11945,7 @@ où
 - **(i)** le cas échéant, le surplus imposable initial de la société affiliée déterminée relativement à la société, déterminé selon l’article 5905, au moment établi à l’alinéa b),
 - **(ii)** les gains imposables de la société affiliée déterminée pour une de ses années d’imposition qui se termine dans la période,
 - **(iii)** la fraction d’un dividende que la société affiliée déterminée a reçu, au cours de la période et avant le moment donné, d’une autre société étrangère affiliée de la société — y compris tout dividende qu’elle est réputée avoir reçu par le paragraphe 5905(7) — qui est réputée, selon l’alinéa 5900(1)b), avoir été prélevée sur le surplus imposable de l’autre société affiliée à l’égard de la société,
-- **(iv)** un montant ajouté au surplus imposable de la société affiliée déterminée ou déduit de son déficit imposable en application des paragraphes (1.1) ou (1.2) au cours de la période et avant le moment donné,
+- **(iv)** un montant ajouté au surplus imposable de la société affiliée déterminée, ou déduit de son déficit imposable, en application des paragraphes (1.092), (1.1) ou (1.2) au cours de la période et avant le moment donné,
 - **(iv.1)** chaque somme qui, selon l’article 5905, est à inclure en application du présent sous-alinéa au cours de la période et avant le moment donné,
 - **(v)** un montant ajouté, au cours de la période et avant le moment donné, au surplus imposable de la société affiliée déterminée en application de l’alinéa (7.1)e), dans sa version applicable aux dividendes versés avant le 20 août 2011;
 - **B** le total de ceux des montants suivants qui sont applicables pour la période :
@@ -11649,7 +11954,7 @@ où
 - **(iii)** la fraction de l’impôt sur le revenu ou sur les bénéfices que la société affiliée déterminée a payé au gouvernement d’un pays qu’il est raisonnable de considérer comme ayant été payée sur la fraction de dividende visée au sous-alinéa (iii) de l’élément A,
 - **(iv)** la partie d’un dividende global versé par la société affiliée déterminée au cours de la période et avant le moment donné qui est réputée, en vertu de l’alinéa 5901(1)b) ou, si le paragraphe 5901(1.1) s’est appliqué au dividende, en vertu de l’alinéa 5901(1)a.1), avoir été versée sur le surplus imposable de la société affiliée déterminée relativement à la société,
 - **(v)** chaque somme qui, selon les articles 5902 ou 5905, est à inclure en application du présent sous-alinéa ou du sous-alinéa (1)k)(xi), dans sa version applicable aux années d’imposition se terminant avant le 22 février 1994, au cours de la période et avant le moment donné,
-- **(vi)** un montant déduit du surplus imposable de la société affiliée déterminée, ou ajouté à son déficit imposable, en application des paragraphes (1.1) ou (1.2) au cours de la période et avant le moment donné. (*taxable surplus*)
+- **(vi)** un montant déduit du surplus imposable de la société affiliée déterminée, ou ajouté à son déficit imposable, en application des paragraphes (1.092), (1.1) ou (1.2) au cours de la période et avant le moment donné. (*taxable surplus*)
 
 ***surplus net*** Quant à une société étrangère affiliée d’une société résidant au Canada à l’égard de la société à un moment donné :
 - **a)** si la société affiliée n’a ni déficit exonéré, ni déficit hybride, ni déficit imposable, le total de ses surplus exonéré, surplus hybride et surplus imposable relativement à la société à ce moment;
@@ -11664,7 +11969,7 @@ où
 
 - **(1.02)** Pour l’application de l’alinéa d) de la définition de ***gains exonérés*** et de l’alinéa c) de la définition de ***perte exonérée*** au paragraphe (1), la société étrangère affiliée d’une société qui devient la société étrangère affiliée de celle-ci au cours de son année d’imposition, autrement que par suite d’une opération entre personnes ayant entre elles un lien de dépendance, et qui réside à la fin de l’année dans un pays désigné est réputée résider dans ce pays tout au long de l’année.
 
-- **(1.03)** Pour l’application de l’élément A de la formule figurant à la définition de ***montant intrinsèque d’impôt étranger*** au paragraphe (1), l’impôt sur le revenu ou sur les bénéfices payé relativement aux gains imposables d’une société étrangère affiliée donnée d’une société donnée ou relativement à un dividende reçu par la société affiliée donnée d’une autre société étrangère affiliée de la société donnée, et les sommes à ajouter, en application des paragraphes (1.1) ou (1.2), au montant intrinsèque d’impôt étranger de la société affiliée donnée ou de toute autre société étrangère affiliée de la société donnée, ne comprennent ni un impôt sur le revenu ou sur les bénéfices payé ni une somme devant par ailleurs être ainsi ajoutée à ce montant intrinsèque d’impôt étranger, selon le cas, relativement au revenu étranger accumulé, tiré de biens de la société affiliée donnée pour une année d’imposition de celle-ci si, au cours de l’année, un propriétaire déterminé relativement à la société donnée est considéré, selon le cas :
+- **(1.03)** Pour l’application de l’élément A de la formule figurant à la définition de ***montant intrinsèque d’impôt étranger*** au paragraphe (1), l’impôt sur le revenu ou sur les bénéfices payé relativement aux gains imposables d’une société étrangère affiliée donnée d’une société donnée ou relativement à un dividende reçu par la société affiliée donnée d’une autre société étrangère affiliée de la société donnée, et les sommes à ajouter, en application des paragraphes (1.092), (1.1) ou (1.2), au montant intrinsèque d’impôt étranger de la société affiliée donnée ou de toute autre société étrangère affiliée de la société donnée, ne comprennent ni un impôt sur le revenu ou sur les bénéfices payé ni une somme devant par ailleurs être ainsi ajoutée à ce montant intrinsèque d’impôt étranger, selon le cas, relativement au revenu étranger accumulé, tiré de biens de la société affiliée donnée pour une année d’imposition de celle-ci si, au cours de l’année, un propriétaire déterminé relativement à la société donnée est considéré, selon le cas :
 	- **a)** selon la législation fiscale (appelée « législation étrangère applicable » au paragraphe (1.07)) d’un pays étranger sous le régime des lois duquel le revenu d’une autre société — qui est, au cours de l’année, une personne ou société de personnes intéressée par rapport à la société affiliée donnée — est assujetti à l’impôt sur le revenu, être propriétaire de moins que la totalité des actions du capital-actions de l’autre société qui sont considérées lui appartenir pour l’application de la Loi;
 	- **b)** selon la législation fiscale (appelée « législation étrangère applicable » au paragraphe (1.08)) d’un pays étranger sous le régime des lois duquel le revenu d’une société de personnes donnée — qui est, au cours de l’année, une personne ou société de personnes intéressée par rapport à la société affiliée donnée — est assujetti à l’impôt sur le revenu, avoir une part directe ou indirecte du revenu de la société de personnes donnée qui est inférieure à celle qu’il est considéré avoir pour l’application de la Loi.
 
@@ -11704,7 +12009,50 @@ où
 
 - **(1.09)** Pour l’application du paragraphe (1.03), si un propriétaire déterminé est propriétaire, pour l’application de la Loi, d’actions du capital-actions d’une société et que les dividendes, ou des sommes semblables, relatifs à ces actions sont traités selon la législation fiscale d’un pays étranger sous le régime des lois duquel tout revenu de la société est assujetti à l’impôt sur le revenu à titre d’intérêts ou d’une autre forme de paiement déductible, le propriétaire déterminé est réputé être considéré, selon cette législation, être propriétaire de moins que la totalité des actions du capital-actions de la société qui sont considérées lui appartenir pour l’application de la Loi.
 
-- **(1.1)** Aux fins de la présente partie, lorsque, en vertu de la loi de l’impôt sur le revenu d’un pays autre que le Canada, un groupe de deux ou de plusieurs sociétés étrangères affiliées (dans le présent paragraphe appelé le « groupe consolidé ») d’une société résidant au Canada qui résident dans ce pays déterminent, pour une année d’imposition, leur assujettissement à l’impôt sur le revenu ou les bénéfices payables au gouvernement de ce pays sur une base consolidée ou combinée et que l’une des sociétés affiliées (dans le présent paragraphe appelée la « société affiliée primaire ») est responsable du paiement ou des demandes de remboursement de cet impôt en son nom et au nom des autres membres du groupe consolidé (ci-après appelés les « sociétés affiliées secondaires »), les règles suivantes s’appliquent :
+- **(1.091)** Le paragraphe (1.092) s’applique relativement à l’impôt sur le revenu ou les bénéfices payé par une société étrangère affiliée (appelée « société affiliée actionnaire » au présent paragraphe et au paragraphe (1.092)) d’un contribuable, ou remboursé à une telle société, pour une année d’imposition de la société affiliée actionnaire au titre de son revenu ou de ses bénéfices, ou de sa perte, selon le cas, et du revenu ou des bénéfices, ou de la perte, selon le cas, d’une autre société étrangère affiliée (appelée « société affiliée transparente » au présent paragraphe et au paragraphe (1.092)) du contribuable si, à la fois :
+	- **a)** la société affiliée actionnaire a un pourcentage d’intérêt dans la société affiliée transparente;
+	- **b)** l’impôt sur le revenu ou les bénéfices est payé à un gouvernement d’un pays étranger ou est remboursé par ce gouvernement;
+	- **c)** sous le régime des lois de l’impôt sur le revenu du pays visé à l’alinéa b), la société affiliée actionnaire, et non la société affiliée transparente, est redevable de cet impôt payable à un gouvernement de ce pays, ou a droit à ce remboursement par ce gouvernement, pour cette année (autrement que pour la seule raison que la société affiliée actionnaire fait partie d’un groupe de sociétés qui détermine son assujettissement à l’impôt sur le revenu ou les bénéfices payable à ce gouvernement, sur une base consolidée ou cumulée).
+
+- **(1.092)** En cas d’application du présent paragraphe relativement à un impôt sur le revenu ou les bénéfices qui est payé par une société affiliée actionnaire, ou remboursé à celle-ci, pour une année d’imposition, les règles ci-après s’appliquent :
+	- **a)** relativement à la société affiliée actionnaire, à la fois :
+		- **(i)** un tel impôt sur le revenu ou les bénéfices payé par la société affiliée actionnaire pour l’année est réputé ne pas avoir été payé, et un tel remboursement fait à la société affiliée actionnaire de l’impôt sur le revenu ou les bénéfices payable autrement par elle pour l’année est réputé ne pas avoir été fait,
+		- **(ii)** un tel impôt sur le revenu ou les bénéfices qui aurait été payable par la société affiliée actionnaire pour l’année si elle n’avait pas d’autre année d’imposition et n’avait pas été redevable de l’impôt sur le revenu ou les bénéfices au titre du revenu ou des bénéfices de la société affiliée transparente est réputé avoir été payé pour l’année,
+		- **(iii)** dans la mesure où :
+			- **(A)** d’une part, un tel impôt sur le revenu ou les bénéfices qui aurait autrement été payable par la société affiliée actionnaire pour l’année au nom de la société affiliée actionnaire et de la société affiliée transparente est réduit par suite d’une perte de la société affiliée actionnaire pour l’année ou pour une année d’imposition antérieure, le montant de cette réduction est réputé avoir été reçu par la société affiliée actionnaire à titre de remboursement pour l’année de la perte, de l’impôt sur le revenu ou les bénéfices relativement à la perte,
+			- **(B)** d’autre part, la société affiliée actionnaire reçoit, relativement à une perte de la société affiliée actionnaire pour l’année ou pour une année d’imposition ultérieure, un remboursement de l’impôt sur le revenu ou les bénéfices autrement payable pour l’année par la société affiliée actionnaire au nom de la société affiliée actionnaire et de la société affiliée transparente, le montant de ce remboursement est réputé avoir été reçu par la société affiliée actionnaire à titre de remboursement, pour l’année de la perte, de l’impôt sur le revenu ou les bénéfices relativement à la perte,
+		- **(iv)** tout impôt sur le revenu ou les bénéfices qui aurait été payable par la société affiliée transparente pour l’année si elle n’avait pas d’autre année d’imposition, si elle n’avait pas d’autres revenu ou bénéfices que ceux qui sont inclus dans le calcul du revenu et des bénéfices de la société affiliée actionnaire sous le régime des lois de l’impôt sur le revenu visé à l’alinéa (1.091)c) et si elle, et aucune autre personne, avait été redevable de l’impôt sur le revenu ou les bénéfices relativement au revenu ou aux bénéfices de la société affiliée transparente, est, à la fin de l’année, à la fois :
+			- **(A)** dans la mesure où cet impôt sur le revenu ou les bénéfices aurait autrement réduit les gains nets qui sont inclus dans les gains exonérés de la société affiliée transparente, déduit du surplus exonéré ou ajouté au déficit exonéré, selon le cas, de la société affiliée actionnaire,
+			- **(B)** dans la mesure où cet impôt sur le revenu ou les bénéfices aurait autrement réduit le surplus hybride ou augmenté le déficit hybride, selon le cas, de la société affiliée transparente,
+				- **(I)** d’une part, déduit du surplus hybride ou ajouté au déficit hybride, selon le cas, de la société affiliée actionnaire,
+				- **(II)** d’autre part, ajouté au montant intrinsèque d’impôt hybride de la société affiliée actionnaire,
+			- **(C)** dans la mesure où cet impôt sur le revenu ou les bénéfices aurait autrement été retranché des gains nets qui sont inclus dans les gains imposables de la société affiliée transparente :
+				- **(I)** d’une part, déduit du surplus imposable ou ajouté au déficit imposable, selon le cas, de la société affiliée actionnaire,
+				- **(II)** d’autre part, ajouté au montant intrinsèque d’impôt étranger de la société affiliée actionnaire,
+		- **(v)** dans la mesure où l’impôt sur le revenu ou les bénéfices qui aurait autrement été payable par la société affiliée actionnaire pour l’année au nom de la société affiliée actionnaire et de la société affiliée transparente est réduit par suite d’une perte de la société affiliée transparente pour l’année ou pour une année d’imposition antérieure, ou dans la mesure où la société affiliée actionnaire reçoit, relativement à la perte de la société affiliée transparente pour l’année ou pour une année d’imposition ultérieure, un remboursement de l’impôt sur le revenu ou les bénéfices qui serait autrement payable pour l’année par la société affiliée actionnaire au nom de la société affiliée actionnaire et de la société affiliée transparente, le montant de cette réduction ou de ce remboursement, selon le cas, est, à la fin de l’année de la perte :
+			- **(A)** dans la mesure où cette perte réduit le surplus exonéré ou augmente le déficit exonéré, de la société affiliée transparente, ajouté au surplus exonéré ou déduit du déficit exonéré, selon le cas, de la société affiliée actionnaire,
+			- **(B)** dans la mesure où cette perte réduit le surplus hybride ou augmente le déficit hybride, de la société affiliée transparente,
+				- **(I)** d’une part, ajouté au surplus hybride ou déduit du déficit hybride, selon le cas, de la société affiliée actionnaire,
+				- **(II)** d’autre part, déduit du montant intrinsèque d’impôt hybride de la société affiliée actionnaire,
+			- **(C)** dans la mesure où cette perte réduit le surplus imposable ou augmente le déficit imposable, selon le cas, de la société affiliée transparente;
+				- **(I)** d’une part, ajouté au surplus imposable ou déduit du déficit imposable, selon le cas, de la société affiliée actionnaire,
+				- **(II)** d’autre part, déduit du montant intrinsèque d’impôt étranger de la société affiliée actionnaire,
+	- **b)** lorsque, en raison de la responsabilité de la société affiliée actionnaire de payer l’impôt sur le revenu ou les bénéfices pour l’année ou d’en demander le remboursement au nom de la société affiliée actionnaire et de la société affiliée transparente,
+		- **(i)** d’une part, si un montant est payé à la société affiliée actionnaire par la société affiliée transparente relativement à l’impôt sur le revenu ou les bénéfices qui aurait été payable par la société affiliée transparente pour l’année si elle, et aucune autre personne, avait été redevable de l’impôt sur le revenu ou les bénéfices relativement au revenu ou aux bénéfices de la société affiliée transparente, à la fois :
+			- **(A)** relativement à la société affiliée transparente, le montant ainsi payé est réputé avoir été versé à titre d’impôt sur le revenu ou les bénéfices de la société affiliée transparente,
+			- **(B)** les règles ci-après s’appliquent relativement à la société affiliée actionnaire :
+				- **(I)** la fraction du montant ainsi payé qui peut raisonnablement être considérée comme se rapportant à un montant qui est inclus dans le surplus exonéré ou déduit du déficit exonéré de la société affiliée transparente est, à la fin de l’année, ajoutée au surplus exonéré ou déduite du déficit exonéré, selon le cas, de la société affiliée actionnaire,
+				- **(II)** la fraction du montant ainsi payé qu’il est raisonnable de considérer comme se rapportant à un montant inclus dans le surplus hybride ou déduit du déficit hybride de la société affiliée transparente est, à la fin de l’année, ajoutée au surplus hybride ou déduite du déficit hybride, selon le cas, de la société affiliée actionnaire et déduite de son montant intrinsèque d’impôt hybride,
+				- **(III)** la fraction du montant ainsi payé qui peut raisonnablement être considérée comme se rapportant à un montant qui est inclus dans le surplus imposable ou déduit du déficit imposable de la société affiliée transparente est, à la fin de l’année, ajoutée au surplus imposable ou déduite du déficit imposable, selon le cas, de la société affiliée actionnaire et déduite de son montant intrinsèque d’impôt étranger,
+		- **(ii)** d’autre part, si un montant est payé par la société affiliée actionnaire à la société affiliée transparente relativement à une réduction ou à un remboursement, par suite d’une perte ou d’un crédit d’impôt de la société affiliée transparente pour une année d’imposition, au titre de l’impôt sur le revenu ou les bénéfices qui aurait autrement été payable par la société affiliée actionnaire pour l’année au nom de la société affiliée actionnaire et de la société affiliée transparente, à la fois :
+			- **(A)** les règles ci-après s’appliquent relativement à la société affiliée actionnaire :
+				- **(I)** la fraction du montant ainsi payé qui peut raisonnablement être considérée comme se rapportant à un montant qui est déduit du surplus exonéré ou inclus dans le déficit exonéré de la société affiliée transparente est, à la fin de l’année à laquelle se rapporte la perte ou le crédit d’impôt, déduite du surplus exonéré ou ajoutée au déficit exonéré, selon le cas, de la société affiliée actionnaire,
+				- **(II)** la fraction du montant ainsi payé qui peut raisonnablement être considérée comme se rapportant à un montant qui est déduit du surplus hybride ou inclus dans le déficit hybride de la société affiliée transparente est, à la fin de l’année de la perte, déduite du surplus hybride ou ajoutée au déficit hybride selon le cas, de la société affiliée actionnaire et ajoutée à son montant intrinsèque d’impôt hybride,
+				- **(III)** la fraction du montant ainsi payé qui peut raisonnablement être considérée comme se rapportant à un montant déduit du surplus imposable ou ajouté au déficit imposable de la société affiliée transparente est, à la fin de l’année à laquelle se rapporte la perte ou le crédit d’impôt, déduite du surplus imposable ou ajoutée au déficit imposable de la société affiliée actionnaire et ajoutée à son montant intrinsèque d’impôt étranger,
+			- **(B)** relativement à la société affiliée transparente, le montant est réputé être un remboursement à celle-ci, pour l’année à laquelle se rapporte la perte ou le crédit d’impôt, de l’impôt sur le revenu ou les bénéfices relativement à la perte ou au crédit d’impôt,
+	- **c)** pour l’application de l’alinéa b), tout montant payé par une société affiliée transparente donnée relativement à la société affiliée actionnaire à une autre société affiliée transparente relativement à la société affiliée actionnaire relativement à tout impôt sur le revenu ou les bénéfices qui aurait été payable par la société affiliée transparente donnée pour l’année si elle, et aucune autre personne, avait été redevable de l’impôt sur le revenu ou les bénéfices relativement au revenu ou aux bénéfices de la société affiliée transparente, est réputé avoir été payé relativement à cet impôt par la société affiliée transparente donnée à la société affiliée actionnaire et avoir été payé relativement à cet impôt par la société affiliée actionnaire à l’autre société affiliée transparente.
+
+- **(1.1)** Les règles ci-après s’appliquent à la présente partie si des sociétés étrangères affiliées d’une société résidant au Canada membres d’un groupe (appelé « groupe consolidé » au présent paragraphe) déterminent, sur une base consolidée ou combinée, sous le régime des lois de l’impôt sur le revenu d’un pays étranger, l’impôt sur le revenu ou sur les bénéfices dont elles sont redevables envers le gouvernement de ce pays pour une année d’imposition et que l’une des sociétés affiliées (appelée « société affiliée primaire » au présent paragraphe) est responsable du paiement ou des demandes de remboursement de cet impôt en son nom et au nom des autres sociétés affiliées (appelées « sociétés affiliées secondaires » au présent paragraphe) membres du groupe consolidé :
 	- **a)** à l’égard de la société affiliée primaire,
 		- **(i)** cet impôt sur le revenu ou les bénéfices payé par la société affiliée primaire pour l’année est réputé ne pas avoir été payé, et ce remboursement fait à la société affiliée primaire de l’impôt sur le revenu ou les bénéfices payable autrement par elle pour l’année est réputé ne pas avoir été fait,
 		- **(ii)** cet impôt sur le revenu ou les bénéfices qui aurait été payable par la société affiliée primaire pour l’année si la société affiliée primaire n’avait pas d’autre année d’imposition et n’avait pas été membre du groupe consolidé est réputé avoir été payé pour l’année,
@@ -11744,6 +12092,30 @@ où
 			- **(B)** en ce qui concerne la société affiliée secondaire, la somme est réputée être un remboursement à celle-ci, pour l’année à laquelle se rapporte la perte ou le crédit d’impôt, de l’impôt sur le revenu ou sur les bénéfices à l’égard de la perte ou du crédit d’impôt,
 et, aux fins du présent alinéa, tout montant payé par une société affiliée secondaire donnée à une autre société affiliée secondaire à l’égard de tout impôt sur le revenu ou les bénéfices qui aurait été payable par la société affiliée secondaire donnée pour l’année si elle n’avait pas fait partie du groupe consolidé est réputé avoir été payé à l’égard de cet impôt par la société affiliée secondaire donnée à la société affiliée primaire et avoir été payé à l’égard de cet impôt par la société affiliée primaire à l’autre société affiliée secondaire.
 
+- **(1.11)** Pour l’application du paragraphe (1.1), une société non-résidente est réputée être, à un moment donné, une société étrangère affiliée d’une société donnée résidant au Canada si, à ce moment, elle est une société étrangère affiliée d’une autre société qui réside au Canada et qui est liée (autrement qu’à cause d’un droit visé à l’alinéa 251(5)b) de la Loi) à la société donnée.
+
+- **(1.12)** Le paragraphe (1.13) s’applique relativement à une société étrangère affiliée donnée d’une société résidant au Canada qui est une société affiliée secondaire, au sens du paragraphe (1.1), et relativement à une société étrangère affiliée de la société qui est la société affiliée primaire, au sens du paragraphe (1.1), relativement à la société affiliée donnée si, à la fois :
+	- **a)** la société affiliée donnée a un pourcentage d’intérêt dans une autre société étrangère affiliée (appelée « société affiliée transparente » au présent paragraphe et au paragraphe (1.13));
+	- **b)** sous le régime des lois de l’impôt sur le revenu du pays visé au paragraphe (1.1), si la société affiliée donnée n’était pas membre d’un groupe consolidé, la société affiliée donnée, et non la société affiliée transparente, serait redevable de l’impôt payable à un gouvernement de ce pays, ou aurait droit à un remboursement de ce gouvernement, pour cette année au titre du revenu ou des bénéfices, ou de la perte, selon le cas, pour l’année de la société affiliée transparente;
+	- **c)** la société affiliée primaire paie l’impôt sur le revenu ou les bénéfices, ou reçoit un remboursement, au titre du revenu ou des bénéfices, ou de la perte, selon le cas, pour l’année de la société affiliée transparente.
+
+- **(1.13)** En cas d’application du présent paragraphe, les règles ci-après s’appliquent relativement à la société étrangère affiliée donnée et la société affiliée primaire visée au paragraphe (1.12) :
+	- **a)** pour l’application des sous-alinéas (1.1)a)(iv) et (1.1)b)(i), dans le cas où l’impôt sur le revenu ou les bénéfices qui serait autrement payable par la société affiliée donnée pour l’année, si la société affiliée donnée n’avait pas d’autre année d’imposition et n’était pas membre du groupe consolidé visé au paragraphe (1.1), est augmenté à cause du revenu ou des bénéfices de la société affiliée transparente visée à l’alinéa (1.12)a), à la fois :
+		- **(i)** dans la mesure où le revenu ou les bénéfices augmente les gains nets qui sont inclus dans les gains exonérés de la société affiliée transparente,
+			- **(A)** d’une part, le montant de cette augmentation est réputé avoir été ajouté au surplus exonéré ou déduit du déficit exonéré, selon le cas, de la société affiliée donnée,
+			- **(B)** d’autre part, un impôt sur le revenu ou les bénéfices qui aurait autrement été payable par la société affiliée donnée au titre du revenu ou des bénéfices est réputé être l’impôt sur le revenu ou les bénéfices qui aurait autrement réduit les gains nets qui sont inclus dans les gains exonérés de la société affiliée donnée,
+		- **(ii)** dans la mesure où le revenu ou les bénéfices augmentent le surplus hybride ou réduisent le déficit hybride de la société affiliée transparente,
+			- **(A)** d’une part, le montant de cette augmentation ou de la réduction est réputé avoir été inclus dans le calcul du surplus hybride ou déduit du déficit hybride, selon le cas, de la société affiliée donnée,
+			- **(B)** d’autre part, un impôt sur le revenu ou les bénéfices qui aurait autrement été payable par la société affiliée donnée au titre du revenu ou des bénéfices est réputé être l’impôt sur le revenu ou les bénéfices qui aurait autrement réduit le surplus hybride ou augmenté le déficit hybride, selon le cas, de la société affiliée donnée,
+		- **(iii)** dans la mesure où le revenu ou les bénéfices augmentent les gains nets qui sont inclus dans les gains imposables de la société affiliée transparente,
+			- **(A)** d’une part, le montant de cette augmentation est réputé avoir été inclus dans le surplus imposable ou déduit du déficit imposable, selon le cas, de la société affiliée donnée,
+			- **(B)** d’autre part, un impôt sur le revenu ou les bénéfices qui aurait été payable par la société affiliée donnée au titre du revenu ou des bénéfices est réputé être l’impôt sur le revenu ou les bénéfices qui aurait autrement réduit les gains nets qui sont inclus dans les gains imposables de la société affiliée donnée;
+	- **b)** pour l’application des sous-alinéas (1.1)a)(v) et (1.1)b)(ii), dans la mesure où l’impôt sur le revenu ou les bénéfices qui aurait autrement été payable par la société affiliée primaire pour l’année au nom du groupe consolidé est réduit en raison d’une perte, pour l’année ou pour une année d’imposition antérieure, de la société affiliée transparente visée à l’alinéa (1.12)a) ou, dans la mesure où la société affiliée primaire reçoit, au titre d’une perte de la société affiliée transparente pour l’année ou une année d’imposition ultérieure, un remboursement au titre de l’impôt sur le revenu ou les bénéfices qui serait autrement payable pour l’année par la société affiliée primaire au nom du groupe consolidé :
+		- **(i)** cette perte est réputée être une perte de la société affiliée donnée,
+		- **(ii)** dans la mesure où cette perte réduit le surplus exonéré ou augmente le déficit exonéré de la société affiliée transparente, cette perte est réputée réduire le surplus exonéré ou augmenter le déficit exonéré, selon le cas, de la société affiliée donnée,
+		- **(iii)** dans la mesure où cette perte réduit le surplus hybride ou augmente le déficit hybride de la société affiliée transparente, cette perte est réputée réduire le surplus hybride ou augmenter le déficit hybride, selon le cas, de la société affiliée donnée,
+		- **(iv)** dans la mesure où cette perte réduit le surplus imposable ou augmente le déficit imposable de la société affiliée transparente, cette perte est réputée réduire le surplus imposable ou augmenter le déficit imposable, selon le cas, de la société affiliée donnée.
+
 - **(1.2)** Aux fins de la présente partie, lorsque, en vertu de la loi de l’impôt sur le revenu d’un pays autre que le Canada, une société résidant dans ce pays qui est une société étrangère affiliée d’une société résidant au Canada (dans le présent paragraphe appelée « société affiliée contribuable ») déduit, dans le calcul de son impôt sur le revenu ou les bénéfices à payer pour une année d’imposition à un gouvernement de ce pays, une perte d’une autre société résidant dans ce pays qui est une société étrangère affiliée de la société résidant au Canada (dans le présent paragraphe appelée « société affiliée de la perte »), les règles suivantes s’appliquent :
 	- **a)** cet impôt sur le revenu ou les bénéfices payé par la société affiliée contribuable pour l’année est réputé ne pas avoir été payé;
 	- **b)** cet impôt sur le revenu ou les bénéfices qui aurait été payable par la société affiliée contribuable pour l’année si la société affiliée contribuable n’avait pas été autorisée à déduire cette perte est réputé avoir été payé pour l’année;
@@ -11762,17 +12134,28 @@ et, aux fins du présent alinéa, tout montant payé par une société affiliée
 			- **(B)** la fraction du montant qui peut raisonnablement être considérée comme se rapportant à un montant déduit du surplus imposable ou inclus dans le déficit imposable, selon le cas, de la société affiliée de la perte est, à la fin de l’année, déduite du surplus imposable ou ajoutée au déficit imposable, selon le cas, de la société affiliée contribuable et ajoutée au montant intrinsèque d’impôt étranger de la société affiliée contribuable, et
 		- **(ii)** à l’égard de la société affiliée de la perte, le montant est réputé être un remboursement d’impôt sur le revenu ou les bénéfices à la société affiliée de la perte à l’égard de la perte pour l’année d’imposition de la perte.
 
+- **(1.21)** Le paragraphe (1.22) s’applique si, à la fois :
+	- **a)** une société étrangère affiliée (appelée « société affiliée actionnaire » au présent paragraphe et au paragraphe (1.22)) d’un contribuable a un pourcentage d’intérêt dans une autre société étrangère affiliée (appelée « société affiliée transparente » au présent paragraphe et au paragraphe (1.22));
+	- **b)** sous le régime des lois de l’impôt sur le revenu du pays dans lequel la société affiliée actionnaire est résidente, la société affiliée actionnaire, et non la société affiliée transparente, est redevable de l’impôt payable à un gouvernement de ce pays, ou a droit à un remboursement de ce gouvernement, pour l’année au titre du revenu ou des bénéfices, ou de la perte, selon le cas, pour l’année de la société affiliée transparente.
+
+- **(1.22)** En cas d’application du présent paragraphe, pour l’application du paragraphe (1.2), une perte de la société affiliée transparente, dans la mesure où la perte est déduite dans le calcul du revenu, des bénéfices ou de la perte de la société affiliée actionnaire sous le régime d’une loi de l’impôt sur le revenu visé à l’alinéa (1.21)b) :
+	- **a)** d’une part, est réputée être une perte de la société affiliée actionnaire;
+	- **b)** d’autre part, est réputée, à la fois :
+		- **(i)** réduire le surplus exonéré ou augmenter le déficit exonéré, selon le cas, de la société étrangère affiliée dans la mesure où la perte réduit le surplus exonéré ou augmente le déficit exonéré de la société affiliée transparente,
+		- **(ii)** réduire le surplus hybride ou augmente le déficit hybride, selon le cas, de la société affiliée actionnaire dans la mesure où la perte réduit le surplus hybride ou augmente le déficit hybride de la société affiliée transparente,
+		- **(iii)** réduire le surplus imposable ou augmente le déficit imposable, selon le cas, de la société affiliée actionnaire dans la mesure où la perte réduit le surplus imposable ou augmente le déficit imposable de la société affiliée transparente.
+
 - **(1.3)** Sous réserve du paragraphe (1.4), pour l’application de l’alinéa b) de la définition de ***impôt étranger accumulé*** au paragraphe 95(1) de la Loi :
-	- **a)** lorsque, en vertu de la loi de l’impôt sur le revenu du pays dans lequel une société étrangère affiliée donnée est résidante, cette dernière et une ou plusieurs autres sociétés qui résident chacune dans ce pays déterminent leur assujettissement à l’impôt sur le revenu ou les bénéfices payable au gouvernement de ce pays pour une année d’imposition sur une base consolidée ou combinée, tout montant payé par la société affiliée donnée à l’une ou l’autre des autres sociétés, dans la mesure où il peut raisonnablement être considéré comme ayant été versé à l’égard de l’impôt sur le revenu ou les bénéfices qui aurait autrement été payable par la société affiliée donnée à l’égard d’un montant donné inclus dans le calcul du revenu du contribuable en vertu du paragraphe 91(1) de la Loi pour une année d’imposition à l’égard de la société affiliée donnée, si l’assujettissement à l’impôt de la société affiliée donnée et des autres sociétés n’avait pas été établi sur une base consolidée ou combinée, est, par les présentes, prescrit comme étant un impôt étranger accumulé applicable au montant donné; et
-	- **b)** lorsque, en vertu de la loi de l’impôt sur le revenu du pays dans lequel une société étrangère affiliée donnée d’un contribuable est résidante, cette société donnée déduit, dans le calcul de son revenu ou de ses bénéfices assujettis à l’impôt dans ce pays pour une année d’imposition, un montant à l’égard d’une perte d’une autre société résidant dans ce pays, tout montant payé par la société affiliée donnée à l’autre société, dans la mesure où il peut raisonnablement être considéré comme ayant été versé à l’égard de l’impôt sur le revenu ou les bénéfices qui aurait autrement été payable par la société affiliée donnée à l’égard d’un montant donné inclus dans le calcul du revenu du contribuable en vertu du paragraphe 91(1) de la Loi pour une année d’imposition à l’égard de la société affiliée donnée, si l’assujettissement à l’impôt de la société affiliée donnée avait été établi sans déduire la perte de l’autre société, est, par les présentes, prescrit comme étant un impôt étranger accumulé applicable au montant donné.
+	- **a)** dans le cas où, en vertu des lois de l’impôt sur le revenu du pays de résidence de la société affiliée donnée ou d’une société affiliée actionnaire de celle-ci, selon le cas, visées à cet alinéa, l’une ou l’autre de celles-ci et une ou plusieurs autres sociétés, dont chacune réside dans ce pays, déterminent, sur une base consolidée ou combinée, l’impôt sur le revenu ou les bénéfices dont elles sont redevables envers le gouvernement de ce pays pour une année d’imposition, toute somme payée à ces autres sociétés par la société affiliée donnée ou la société affiliée actionnaire — dans la mesure où il est raisonnable de considérer qu’elle se rapporte à l’impôt sur le revenu ou les bénéfices qui aurait été payable par ailleurs par la société affiliée donnée ou la société affiliée actionnaire au titre d’un montant donné qui est inclus, en vertu du paragraphe 91(1) de la Loi, dans le calcul du revenu du contribuable pour son année d’imposition à l’égard de la société affiliée donnée, si l’impôt dont la société affiliée donnée ou la société affiliée actionnaire et ces autres sociétés sont redevables n’avait pas été déterminé sur une base consolidée ou combinée — est un montant visé qui constitue un impôt étranger accumulé applicable au montant donné;
+	- **b)** dans le cas où, en vertu des lois de l’impôt sur le revenu du pays de résidence de la société affiliée donnée ou d’une société affiliée actionnaire de celle-ci, visées à cet alinéa, l’une ou l’autre de celles-ci, selon le cas, déduit, dans le calcul de son revenu ou de ses bénéfices assujettis à l’impôt dans ce pays pour une année d’imposition, une somme au titre d’une perte d’une autre société (appelée « cédant de la perte » au présent alinéa et à l’alinéa (1.6)a)) résidant dans ce pays (appelée « perte cédée » au présent alinéa et à l’alinéa (1.6)a)) toute somme payée à cette autre société par la société affiliée donnée ou la société affiliée actionnaire, selon le cas, — dans la mesure où il est raisonnable de considérer qu’elle se rapporte à l’impôt sur le revenu ou sur les bénéfices qui aurait été payable par ailleurs par la société affiliée donnée ou la société affiliée actionnaire, selon le cas, au titre d’un montant donné qui est inclus, en vertu du paragraphe 91(1) de la Loi, dans le calcul du revenu du contribuable pour son année d’imposition à l’égard de la société affiliée donnée, si l’impôt dont la société affiliée donnée ou la société affiliée actionnaire, selon le cas, est redevable avait été déterminé sans que la perte cédée ne soit déduite — est un montant visé qui constitue un impôt étranger accumulé applicable au montant donné.
 
 - **(1.4)** S’il est raisonnable de considérer que la somme qui constitue un impôt étranger accumulé aux termes des alinéas (1.3)a) ou b), ou une partie de cette somme, se rapporte à une perte donnée (sauf une perte en capital) ou à une perte en capital d’une autre société pour une année d’imposition de celle-ci, cette somme est réduite dans la mesure où il est raisonnable de considérer qu’elle se rapporte à la partie de la perte donnée ou de la perte en capital, selon le cas, qui ne serait pas une perte étrangère accumulée, relative à des biens, au sens du paragraphe 5903(3), ni une perte en capital étrangère accumulée, au sens du paragraphe 5903.1(3), selon le cas, d’une société étrangère affiliée contrôlée d’une personne ou d’une société de personnes qui est, à la fin de cette année d’imposition, une personne ou société de personnes intéressée, au sens du paragraphe 5903(6), par rapport au contribuable si les articles 5903 et 5903.1 s’appliquaient compte non tenu de leur paragraphe (4).
 
-- **(1.5)** Si le paragraphe (1.4) a eu pour effet de réduire une somme qui, en l’absence de ce paragraphe, constituerait aux termes de l’alinéa (1.3)a) un impôt étranger accumulé applicable à un montant (appelé « montant REATB » au présent paragraphe) inclus dans le revenu du contribuable en application du paragraphe 91(1) de la Loi pour une année d’imposition (appelée « année REATB » au paragraphe (1.6)) de celui-ci, une somme égale à cette réduction constitue, pour l’application de l’alinéa b) de la définition de ***impôt étranger accumulé*** au paragraphe 95(1) de la Loi, un impôt étranger accumulé applicable au montant REATB au cours de l’année d’imposition du contribuable qui comprend le dernier jour de l’année d’imposition désignée de la société affiliée donnée mentionnée à l’alinéa (1.3)a).
+- **(1.5)** Si le paragraphe (1.4) a eu pour effet de réduire une somme qui, en l’absence de ce paragraphe, constituerait aux termes du paragraphe (1.3) un impôt étranger accumulé applicable à un montant (appelé « montant REATB » au présent paragraphe) inclus, en vertu du paragraphe 91(1) de la Loi, dans le calcul du revenu du contribuable pour une année d’imposition (appelée « année REATB » au paragraphe (1.6)) de celui-ci relativement à la société affiliée donnée visée aux alinéas (1.3)a) ou b), une somme égale à cette réduction constitue, pour l’application de l’alinéa b) de la définition de ***impôt étranger accumulé*** au paragraphe 95(1) de la Loi, un impôt étranger accumulé applicable au montant REATB au cours de l’année d’imposition du contribuable qui comprend le dernier jour de l’année d’imposition désignée de la société affiliée donnée ou de la société affiliée actionnaire, selon le cas, visée aux alinéas (1.3)a) ou b).
 
-- **(1.6)** Pour l’application du paragraphe (1.5), l’année d’imposition désignée de la société affiliée donnée est une année d’imposition donnée de celle-ci dans le cas où, à la fois :
-	- **a)** au cours de l’année donnée, ou au cours de l’année d’imposition de la société affiliée donnée (appelée « année considérée » au présent alinéa) se terminant dans l’année REATB et d’une ou de plusieurs de ses années d’imposition dont chacune suit l’année considérée et dont la dernière correspond à l’année donnée, il serait raisonnable de considérer que toutes les pertes de la société affiliée et des autres sociétés mentionnées à l’alinéa (1.3)a) pour leurs années d’imposition se terminant dans l’année REATB, à supposer que ni la société affiliée donnée ni aucune de ces autres sociétés n’avaient de revenu étranger accumulé, tiré de biens pour une année d’imposition quelconque, avaient été entièrement déduites (selon la loi de l’impôt sur le revenu mentionnée à l’alinéa (1.3)a)) du revenu (déterminé selon cette loi) de la société affiliée donnée ou de ces autres sociétés;
-	- **b)** le contribuable démontre qu’aucune autre perte de la société affiliée donnée ou de ces autres sociétés pour une année d’imposition quelconque n’a été déduite du revenu selon cette loi ni n’aurait pu raisonnablement l’être;
+- **(1.6)** Pour l’application du paragraphe (1.5), l’année d’imposition désignée de la société affiliée donnée ou de la société affiliée actionnaire est une année d’imposition donnée de l’une ou l’autre de celles-ci, selon le cas, si, à la fois :
+	- **a)** au cours de l’année donnée, ou au cours de l’année d’imposition de la société affiliée donnée ou de la société affiliée actionnaire (appelée « année considérée » au présent alinéa) se terminant dans l’année REATB et d’une ou de plusieurs de leurs années d’imposition dont chacune suit l’année considérée et dont la dernière correspond à l’année donnée, il serait raisonnable de considérer que toutes les pertes de la société affiliée donnée ou de la société affiliée actionnaire et des autres sociétés mentionnées à l’alinéa (1.3)a) — ou de la société affiliée donnée, du cédant de la perte et de chaque société qui aurait été autorisée à déduire la perte cédée de son revenu en vertu des lois de l’impôt sur le revenu visées à l’alinéa (1.3)b) si la perte cédée n’avait pas été déduite par la société affiliée donnée et que la société avait un revenu imposable, pour ses années d’imposition se terminant dans l’année REATB, qui dépasse le montant de la perte cédée — pour leurs années d’imposition se terminant dans l’année REATB — à supposer que tant la société affiliée donnée, (ou la société affiliée actionnaire, selon le cas) que ces autres sociétés n’avaient pas de revenu étranger accumulé, tiré de biens pour une année d’imposition quelconque — avaient été entièrement déduites (selon les lois visées aux alinéas (1.3)a) ou b)) du revenu (déterminé selon ces lois) de la société affiliée donnée ou de la société affiliée actionnaire ou de ces autres sociétés;
+	- **b)** le contribuable démontre qu’aucune autre perte de la société affiliée donnée ou de la société affiliée actionnaire, selon le cas, ou de ces autres sociétés pour une année d’imposition quelconque n’a été déduite du revenu selon cette législation ni n’aurait pu raisonnablement l’être;
 	- **c)** le dernier jour de l’année donnée fait partie de l’une des cinq années d’imposition du contribuable suivant l’année REATB.
 
 - **(1.7)** S’il est raisonnable de considérer que la somme qui constitue un impôt étranger accumulé aux termes des alinéas (1.3)a) ou b), ou une partie de cette somme, se rapporte à une perte en capital d’une autre société pour une année d’imposition de celle-ci, cette somme, telle qu’elle a été réduite par le paragraphe (1.4), le cas échéant, est réduite dans la mesure où il est raisonnable de considérer qu’elle se rapporte à la partie de cette perte qui ne serait pas déductible par la société affiliée donnée dans le calcul de son revenu étranger accumulé, tiré de biens pour l’année si la perte avait été subie par la société affiliée donnée.
@@ -12019,7 +12402,7 @@ où :
 - **(15)** Pour l’application de l’élément E de la formule figurant à l’alinéa a) de l’élément X de la formule figurant au paragraphe (13) et de l’élément S de la formule figurant à l’alinéa a) de l’élément Y de la formule figurant à ce paragraphe, la somme qui aurait été retranchée du montant intrinsèque d’impôt étranger ou du montant intrinsèque d’impôt hybride, selon le cas, de la société affiliée relativement à l’autre contribuable à la fin de l’année si la disposition (appelée « disposition hypothétique » au présent paragraphe) que la société affiliée est réputée avoir effectuée en vertu de l’alinéa 128.1(1)b) de la Loi avait été une disposition réelle effectuée par elle correspond au total des sommes dont chacune représente l’excédent de la somme visée à l’alinéa a) sur celle visée à l’alinéa b) :
 	- **a)** la somme (déterminée selon l’hypothèse que la disposition hypothétique a été effectuée au moment de la disposition réputée) qu’il est raisonnable de considérer comme étant le montant de l’impôt sur le revenu ou sur les bénéfices que le gouvernement d’un pays étranger donné aurait remboursé à la société affiliée en raison de la disposition hypothétique, en plus de tout autre impôt sur le revenu ou sur les bénéfices remboursable par ailleurs par ce gouvernement, au titre de la perte ou de la perte en capital, selon le cas, de la société affiliée résultant de cette disposition;
 	- **b)** la somme qu’il est raisonnable de considérer comme étant la partie de l’impôt hypothétique sur le revenu ou sur les bénéfices remboursable à la société affiliée par le gouvernement du pays donné au titre de sa perte ou perte en capital, selon le cas, résultant de la disposition hypothétique (déterminée selon les hypothèses que la disposition hypothétique a été effectuée immédiatement après le moment immédiatement après le moment de la disposition réputée et que l’impôt hypothétique sur le revenu ou sur les bénéfices remboursable à la société affiliée par le gouvernement du pays donné relativement à la disposition hypothétique est égal à la somme déterminée selon l’alinéa a)) qui, en raison d’un accord ou d’une convention général visant à éliminer la double imposition du revenu conclu entre le gouvernement du pays donné et le gouvernement d’un autre pays, n’aurait pas été remboursable par le gouvernement du pays donné.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-211, art. 1; DORS/78-913, art. 2; DORS/80-141, art. 5; DORS/85-176, art. 4; DORS/88-165, art. 29(F); DORS/89-135, art 3; DORS/94-686, art. 31(F), 58(F), 69(F), 70(F), 78(F) et 79(F); DORS/96-228, art. 2; DORS/97-505, art. 8; 2009, ch. 2, art. 112; 2013, ch. 34, art. 46, 85 et 401.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-211, art. 1; DORS/78-913, art. 2; DORS/80-141, art. 5; DORS/85-176, art. 4; DORS/88-165, art. 29(F); DORS/89-135, art 3; DORS/94-686, art. 31(F), 58(F), 69(F), 70(F), 78(F) et 79(F); DORS/96-228, art. 2; DORS/97-505, art. 8; 2009, ch. 2, art. 112; 2013, ch. 34, art. 46, 85 et 401; 2014, ch. 39, art. 88.
 
 
 
@@ -19067,12 +19450,12 @@ où :
 	- **(iii)** la souplesse,
 	- **(iv)** l’équilibre. (*physical activity*)
 
-***enfant admissible*** S’entend au sens du paragraphe 118.03(1) de la Loi. (*qualifying child*)
+***enfant admissible*** S’entend au sens du paragraphe 122.8(1) de la Loi. (*qualifying child*)
 
 ### Programme d’activité physique
 
 
-- **(2)** Pour l’application de la définition de ***dépense admissible pour activités physiques*** au paragraphe 118.03(1) de la Loi, sont des programmes d’activités physiques :
+- **(2)** Pour l’application de la définition de ***dépense admissible pour activités physiques*** au paragraphe 122.8(1) de la Loi, sont des programmes d’activités physiques :
 	- **a)** tout programme hebdomadaire, ne faisant pas partie du programme d’études d’une école, d’une durée d’au moins huit semaines consécutives dans le cadre duquel la totalité ou la presque totalité des activités comprennent une part importante d’activités physiques;
 	- **b)** tout programme, ne faisant pas partie du programme d’études d’une école, d’une durée d’au moins cinq jours consécutifs et dont plus de 50 % des activités quotidiennes comprennent une part importante d’activités physiques;
 	- **c)** tout programme, ne faisant pas partie du programme d’études d’une école, d’une durée d’au moins huit semaines consécutives qui est offert aux enfants par un club, une association ou une organisation semblable (appelés « organisation » au présent article) dans des circonstances où le participant au programme peut choisir parmi diverses activités si, selon le cas :
@@ -19083,20 +19466,20 @@ où :
 ### Installation polyvalente
 
 
-- **(3)** Pour l’application de la définition de ***dépense admissible pour activités physiques*** au paragraphe 118.03(1) de la Loi, est un programme d’activités physiques la partie d’un programme — qui ne remplit pas les exigences de l’alinéa (2)c) et ne fait pas partie du programme d’études d’une école — d’une durée d’au moins huit semaines consécutives, offerte aux enfants par une organisation dans des circonstances où le participant au programme peut choisir parmi diverses activités qui représente, selon le cas :
+- **(3)** Pour l’application de la définition de ***dépense admissible pour activités physiques*** au paragraphe 122.8(1) de la Loi, est un programme d’activités physiques la partie d’un programme — qui ne remplit pas les exigences de l’alinéa (2)c) et ne fait pas partie du programme d’études d’une école — d’une durée d’au moins huit semaines consécutives, offerte aux enfants par une organisation dans des circonstances où le participant au programme peut choisir parmi diverses activités qui représentent, selon le cas :
 	- **a)** le pourcentage des activités offertes aux enfants par l’organisation qui sont des activités comprenant une part importante d’activités physiques;
 	- **b)** le pourcentage du temps prévu pour les activités du programme qui est réservé à des activités comprenant une part importante d’activités physiques.
 
 ### Adhésion
 
 
-- **(4)** Pour l’application de la définition de ***dépense admissible pour activités physiques*** au paragraphe 118.03(1) de la Loi, est un programme d’activités physiques la partie d’une adhésion à une organisation — qui ne remplit pas les exigences de l’alinéa (2)d) et ne fait pas partie du programme d’études d’une école — d’une durée d’au moins huit semaines consécutives qui représente le pourcentage des activités offertes aux enfants par l’organisation qui sont des activités comprenant une part importante d’activités physiques.
+- **(4)** Pour l’application de la définition de ***dépense admissible pour activités physiques*** au paragraphe 122.8(1) de la Loi, est un programme d’activités physiques la partie d’une adhésion à une organisation — qui ne remplit pas les exigences de l’alinéa (2)d) et ne fait pas partie du programme d’études d’une école — d’une durée d’au moins huit semaines consécutives qui représente le pourcentage des activités offertes aux enfants par l’organisation qui sont des activités comprenant une part importante d’activités physiques.
 
 ### Équitation
 
 
 - **(5)** Pour l’application de la définition de ***activité physique*** au paragraphe (1), l’équitation est réputée être une activité qui contribue à l’endurance cardio-respiratoire et à la réalisation d’un ou de plusieurs des objectifs suivants : la force musculaire, l’endurance musculaire, la souplesse et l’équilibre.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2007, ch. 35, art. 88.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2007, ch. 35, art. 88; 2014, ch. 39, art. 89.
 
 
 
@@ -22169,7 +22552,7 @@ Les biens, sauf le matériel remis à neuf ou remanufacturé, qui seraient autre
 
 **(i)** font partie d’un système, sauf un système à cycles combinés amélioré, qui, à la fois :
 
-**(A)** est utilisé par le contribuable, ou par son preneur, pour produire de l’énergie électrique, ou de l’énergie électrique et de l’énergie thermique, uniquement au moyen d’un combustible fossile, d’un combustible résiduaire admissible ou d’une liqueur résiduaire, ou au moyen d’une combinaison de plusieurs de ces combustibles,
+**(A)** est utilisé par le contribuable, ou par son preneur, pour produire de l’énergie électrique, ou de l’énergie électrique et de l’énergie thermique, uniquement au moyen d’un combustible fossile, d’un combustible résiduaire admissible, d’un gaz de gazéification ou d’une liqueur résiduaire, ou au moyen d’une combinaison de plusieurs de ces combustibles,
 
 
 
@@ -22315,7 +22698,7 @@ ainsi que les biens, sauf le matériel remis en état ou remis à neuf, qui sera
 
 
 
-**(ix)** du matériel que le contribuable, ou son preneur, utilise dans le seul but de produire de l’énergie thermique principalement par la consommation d’un combustible résiduaire admissible, et qui utilise seulement un combustible résiduaire admissible ou un combustible fossile, y compris le matériel de ce type qui consiste en matériel de manutention du combustible qui sert à valoriser la part combustible du combustible, en systèmes de commande, d’eau d’alimentation et de condensat et en matériel auxiliaire, mais à l’exclusion du matériel qui sert à produire de l’énergie thermique pour faire fonctionner du matériel générateur d’électricité, des bâtiments et autres constructions, du matériel de rejet de la chaleur (comme les condensateurs et les systèmes d’eau de refroidissement), des installations d’entreposage du combustible, de tout autre matériel de manutention du combustible et des biens compris par ailleurs dans les catégories 10 ou 17,
+**(ix)** du matériel que le contribuable, ou son preneur, utilise dans le seul but de produire de l’énergie thermique principalement par la consommation d’un combustible résiduaire admissible, de gaz de gazéification ou d’une combinaison de ces combustibles, et qui utilise seulement un combustible résiduaire admissible, un combustible fossile ou du gaz de gazéification, y compris le matériel de manutention du combustible qui sert à valoriser la part combustible du combustible, en systèmes de commande, d’eau d’alimentation et de condensat et en matériel auxiliaire, mais à l’exclusion du matériel qui sert à produire de l’énergie thermique pour faire fonctionner du matériel générateur d’électricité, des bâtiments et autres constructions, du matériel de rejet de la chaleur (comme les condensateurs et les systèmes d’eau de refroidissement), des installations d’entreposage du combustible, de tout autre matériel de manutention du combustible, du matériel générateur d’électricité et des biens compris par ailleurs dans les catégories 10 ou 17,
 
 
 
@@ -22367,7 +22750,7 @@ ainsi que les biens, sauf le matériel remis en état ou remis à neuf, qui sera
 
 
 
-**(xiv)** des biens qui sont utilisés par le contribuable, ou par son preneur, principalement pour produire de l’électricité à partir de l’énergie des vagues ou de l’énergie marémotrice (autrement qu’au moyen de barrières physiques ou d’ouvrages comparables à des barrages), y compris les supports, le matériel de commande, de conditionnement et de stockage dans des batteries, les câbles sous-marins et le matériel de transmission, mais à l’exclusion des bâtiments, du matériel de distribution, du matériel auxiliaire de production d’électricité, des biens compris par ailleurs dans la catégorie 10 et des biens qui seraient compris dans la catégorie 17 s’il n’était pas tenu compte de son sous-alinéa a.1)(i),
+**(xiv)** des biens qui sont utilisés par le contribuable, ou par son preneur, principalement pour produire de l’électricité à partir de l’énergie cinétique de l’eau en mouvement, de l’énergie des vagues ou de l’énergie marémotrice (autrement qu’en détournant ou en entravant l’écoulement naturel de l’eau ou autrement qu’au moyen de barrières physiques ou d’ouvrages comparables à des barrages), y compris les supports, le matériel de commande, de conditionnement et de stockage dans des batteries, les câbles sous-marins et le matériel de transmission, mais à l’exclusion des bâtiments, du matériel de distribution, du matériel auxiliaire de production d’électricité, des biens compris par ailleurs dans la catégorie 10 et des biens qui seraient compris dans la catégorie 17 s’il n’était pas tenu compte de son sous-alinéa a.1)(i),
 
 
 
@@ -22384,6 +22767,10 @@ ainsi que les biens, sauf le matériel remis en état ou remis à neuf, qui sera
 **(C)** n’est pas un bâtiment,
 
 
+
+
+
+**(xvi)** du matériel que le contribuable, ou son preneur, utilise principalement pour produire du gaz de gazéification (sauf celui qui est converti en biocarburants liquides ou en produits chimiques), y compris les canalisations connexes (incluant les ventilateurs et les compresseurs), le matériel de séparation d’air, le matériel de stockage, le matériel servant à sécher ou à broyer les combustibles résiduaires admissibles, le matériel de manutention des cendres, le matériel servant à valoriser le gaz de gazéification en biométhane ainsi que le matériel servant à éliminer les produits non combustibles et les contaminants du gaz de gazéification, mais à l’exclusion des bâtiments ou d’autres constructions, du matériel de rejet de la chaleur (comme les condensateurs et les systèmes d’eau de refroidissement), et du matériel servant à convertir le gaz de gazéification en biocarburants liquides ou produits chimiques et des biens compris par ailleurs dans les catégories 10 ou 17,
 
 
 
@@ -22428,7 +22815,7 @@ ainsi que les biens, sauf le matériel remis en état ou remis à neuf, qui sera
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/97-377, art. 13; DORS/2000-327, art. 7; DORS/2001-295, art. 10; DORS/2005-371, art. 12; DORS/2005-415, art. 2; err.(F), Vol. 140, N<sup>o</sup> 12; DORS/2006-117, art. 12; DORS/2006-249, art. 2; DORS/2009-115, art. 7 et 12; 2010, ch. 25, art. 90; DORS/2010-93, art. 34(F); 2011, ch. 24, art. 101; 2012, ch. 31, art. 70; 2013, ch. 40, art. 119..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/97-377, art. 13; DORS/2000-327, art. 7; DORS/2001-295, art. 10; DORS/2005-371, art. 12; DORS/2005-415, art. 2; err.(F), Vol. 140, N<sup>o</sup> 12; DORS/2006-117, art. 12; DORS/2006-249, art. 2; DORS/2009-115, art. 7 et 12; 2010, ch. 25, art. 90; DORS/2010-93, art. 34(F); 2011, ch. 24, art. 101; 2012, ch. 31, art. 70; 2013, ch. 40, art. 119; 2014, ch. 39, art. 90..
 
 
 
