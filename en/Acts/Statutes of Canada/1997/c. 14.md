@@ -236,7 +236,17 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Appointments to roster**
 
-**14** The Governor in Council may, in accordance with a consensus reached under Article G-25 or N-09 of the Agreement, appoint any person to be a member of the roster established under that Article.
+**14** 
+
+- **(1)** The Governor in Council may, in accordance with a consensus reached under Article G-25 of the Agreement, appoint any person to be a member of the roster established under that Article.
+
+**Appointment of panelist**
+
+- **(2)** The Minister may
+	- **(a)** appoint a panelist in accordance with paragraph 2 of Article N-09 of the Agreement; and
+	- **(b)** propose candidates to serve as the chair of a panel, or select the chair, in accordance with Article N-09.
+> 1997, c. 14, s. 14; 2014, c. 39, s. 227.
+
 
 
 
