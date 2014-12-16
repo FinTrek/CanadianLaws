@@ -1051,12 +1051,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(c)** anything referred to in paragraph (b) for which a decision or recommendation may or must be made by a designated person, institution or organization;
 - **(d)** the conditions that must or may be imposed, varied or cancelled, individually or by class, on permanent residents and foreign nationals, including conditions respecting work or study;
 - **(d.1)** the conditions that must or may be imposed, individually or by class, on individuals and entities — including employers and educational institutions — in respect of permanent residents and foreign nationals, or that must or may be varied or cancelled;
-- **(d.2)** the power to inspect, including the power to require documents to be provided for inspection, for the purpose of verifying compliance with the conditions imposed under paragraphs (d) and (d.1);
+- **(d.2)** the power to inspect — including the power to require documents to be provided by individuals and entities, including employers and educational institutions, for inspection — for the purpose of verifying compliance with the conditions imposed under paragraphs (d) and (d.1);
 - **(d.3)** the consequences of a failure to comply with the conditions referred to in paragraphs (d) and (d.1);
 - **(d.4)** a system of administrative monetary penalties applicable to the contravention by an employer of any conditions referred to in paragraph (d.1) and the amounts of those penalties;
+- **(d.5)** the requirement for an employer to provide a prescribed person with prescribed information in relation to a foreign national’s authorization to work in Canada for the employer, the electronic system by which that information must be provided, the circumstances in which that information may be provided by other means and those other means;
 - **(e)** the residency obligation under section 28, including rules for calculating applicable days and periods; and
 - **(f)** the circumstances in which a document indicating status or a travel document may or must be issued, renewed or revoked.
-> 2001, c. 27, s. 32; 2012, c. 19, s. 705; 2013, c. 16, s. 37; 2014, c. 20, s. 302.
+> 2001, c. 27, s. 32; 2012, c. 19, s. 705; 2013, c. 16, s. 37; 2014, c. 20, s. 302, c. 39, s. 309.
 
 
 
@@ -2430,6 +2431,25 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+**Fees — compliance regime**
+
+**89.2** 
+
+- **(1)** The regulations may
+	- **(a)** govern fees to be paid in respect of the compliance regime that applies to employers in relation to their employment of foreign nationals whose authorizations to work in Canada do not require an assessment provided by the Department of Employment and Social Development;
+	- **(b)** govern cases in which the fees referred to in paragraph (a) are waived;
+	- **(c)** require employers to pay the fees referred to in paragraph (a) by means of an electronic system; and
+	- **(d)** include provisions respecting that system, respecting the circumstances in which those fees may be paid by other means and respecting those other means.
+
+**[User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
+
+- **(2)** The [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply to fees referred to in paragraph (1)(a).
+> 2014, c. 39, s. 312.
+
+
+
+
+
 #### Social Insurance Numbers
 
 
@@ -3782,15 +3802,16 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **150.1** 
 
 - **(1)** The regulations may provide for any matter relating to
-	- **(a)** the collection, retention, use, disclosure and disposal of information for the purposes of this Act or for the purposes of program legislation as defined in section 2 of the [Canada Border Services Agency Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2038.md);
+	- **(a)** the collection, retention, use, disclosure and disposal of information, including a Social Insurance Number, for the purposes of this Act or for the purposes of program legislation as defined in section 2 of the [Canada Border Services Agency Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2038.md);
 	- **(b)** the disclosure of information for the purposes of national security, the defence of Canada or the conduct of international affairs, including the implementation of an agreement or arrangement entered into under section 5 or 5.1 of the [Department of Citizenship and Immigration Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2031.md) or section 13 of the [Canada Border Services Agency Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2038.md);
-	- **(c)** the disclosure of information relating to the professional or ethical conduct of a person referred to in any of paragraphs 91(2)(a) to (c) in connection with a proceeding — other than a proceeding before a superior court — or application under this Act to a body that is responsible for governing or investigating that conduct or to a person who is responsible for investigating that conduct, for the purposes of ensuring that persons referred to in those paragraphs offer and provide professional and ethical representation and advice to persons in connection with such proceedings and applications; and
-	- **(d)** the retention, use, disclosure and disposal by the Royal Canadian Mounted Police of biometric information and any related personal information that is provided to it under this Act for the enforcement of any law of Canada or a province.
+	- **(c)** the disclosure of information relating to the professional or ethical conduct of a person referred to in any of paragraphs 91(2)(a) to (c) in connection with a proceeding — other than a proceeding before a superior court — or application under this Act to a body that is responsible for governing or investigating that conduct or to a person who is responsible for investigating that conduct, for the purposes of ensuring that persons referred to in those paragraphs offer and provide professional and ethical representation and advice to persons in connection with such proceedings and applications;
+	- **(d)** the retention, use, disclosure and disposal by the Royal Canadian Mounted Police of biometric information and any related personal information that is provided to it under this Act for the enforcement of any law of Canada or a province; and
+	- **(e)** the disclosure of information for the purposes of cooperation between the Government of Canada and the government of a province.
 
 **Conditions**
 
 - **(2)** Regulations made under subsection (1) may include conditions under which the collection, retention, use, disposal and disclosure may be made.
-> 2004, c. 15, s. 72; 2005, c. 38, s. 119; 2011, c. 8, s. 4; 2012, c. 17, s. 47.
+> 2004, c. 15, s. 72; 2005, c. 38, s. 119; 2011, c. 8, s. 4; 2012, c. 17, s. 47; 2014, c. 39, s. 313.
 
 
 
