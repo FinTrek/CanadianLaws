@@ -906,7 +906,15 @@ Sont toutefois exclues les terres situées vers la mer, à partir de la ligne de
 
 **Conseil**
 
-**65** Malgré le paragraphe 11(1), les membres du Conseil — au sens de l’article 2 de l’ancienne loi — en fonctions à l’entrée en vigueur de l’article 1 poursuivent leur mandat en conformité avec le paragraphe 9(3) de l’ancienne loi à titre de députés de l’assemblée législative, sauf dissolution de celle-ci décidée par le commissaire.
+**65** 
+
+- **(1)** Malgré le paragraphe 11(1), les membres du Conseil — au sens de l’article 2 de l’ancienne loi — en fonctions à l’entrée en vigueur de l’article 1 poursuivent leur mandat en conformité avec le paragraphe 9(3) de l’ancienne loi à titre de députés de l’assemblée législative, sauf dissolution de celle-ci décidée par le commissaire.
+
+**Prolongation du mandat de l’assemblée législative**
+
+- **(2)** Par dérogation au paragraphe (1), la période durant laquelle les membres visés à ce paragraphe poursuivent leur mandat peut être prolongée jusqu’à concurrence de cinq ans à compter de la date fixée pour le retour des brefs relatifs à la dernière élection générale tenue en vertu de l’ancienne loi, dans l’éventualité où la période électorale de la prochaine élection générale se tenant après l’entrée en vigueur de l’article 1 chevaucherait la période électorale des élections générales devant avoir lieu à la date fixée conformément au paragraphe 56.1(2) ou à l’article 56.2 de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md). Toutefois, le commissaire peut dissoudre l’assemblée législative avant la fin de la période de prolongation.
+> 2014, ch. 2, art. 2 « 65 », ch. 39, art. 224.
+
 
 
 
