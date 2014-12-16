@@ -3242,6 +3242,24 @@ where
 
 - **(8.96)** A refund under subsection (8.94) shall not exceed $1,000.
 
+**Temporary measure  — small business refund 2015**
+
+- **(8.97)** If an employer’s premium is $15,000 or less for 2015, the Minister shall refund to the employer a portion of the premium for 2015 determined by the following formula if that amount is more than $2:
+```
+E × 0.28% × 1.4
+```
+where
+- **E ** is the total of all insurable earnings paid in 2015 by the employer for which premiums were deductible.
+
+**Temporary measure  — small business refund 2016**
+
+- **(8.98)** If an employer’s premium is $15,000 or less for 2016, the Minister shall refund to the employer a portion of the premium for 2016 determined by the following formula if that amount is more than $2:
+```
+E × 0.28% × 1.4
+```
+where
+- **E ** is the total of all insurable earnings paid in 2016 by the employer for which premiums were deductible.
+
 **Associated employers**
 
 - **(9)** If at any time during a year for which a refund is sought two or more employers are associated, as defined by the regulations, they shall be considered a single employer for the purposes of subsections (6) to (8.4) and any refund shall be allocated to them in the prescribed manner.
@@ -3267,8 +3285,8 @@ in excess of the amount that should have been refunded or applied, the excess am
 
 **No interest payable**
 
-- **(13.1)** Despite subsection (13), no interest shall be paid on refunds payable under subsection (8.7), (8.91) or (8.94).
-> 1996, c. 23, s. 96; 1997, c. 26, s. 90; 1998, c. 21, s. 104; 2011, c. 24, s. 160; 2012, c. 19, s. 615, c. 31, s. 307; 2013, c. 40, s. 135.
+- **(13.1)** Despite subsection (13), no interest shall be paid on refunds payable under subsection (8.7), (8.91), (8.94), (8.97) or (8.98).
+> 1996, c. 23, s. 96; 1997, c. 26, s. 90; 1998, c. 21, s. 104; 2011, c. 24, s. 160; 2012, c. 19, s. 615, c. 31, s. 307; 2013, c. 40, s. 135; 2014, c. 39, s. 225.
 
 
 
@@ -3675,6 +3693,15 @@ the other person is, for the purposes of paying premiums, deemed to be the emplo
 
 - **(3)** The Governor in Council may make regulations setting out the circumstances in which the Commission may allow a longer period to make a request under subsection (1).
 > 1996, c. 23, s. 112; 1998, c. 19, s. 270; 1999, c. 31, s. 81(F); 2002, c. 8, s. 135; 2012, c. 19, s. 247.
+
+
+
+
+
+**Decision not reviewable**
+
+**112.1** A decision of the Commission made under the [Employment Insurance Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/332.md) respecting the writing off of any penalty owing, amount payable or interest accrued on any penalty owing or amount payable is not subject to review under section 112.
+> 2014, c. 39, s. 226.
 
 
 
