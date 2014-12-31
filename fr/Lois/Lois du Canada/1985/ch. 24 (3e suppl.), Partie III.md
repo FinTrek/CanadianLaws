@@ -72,7 +72,13 @@
 **Définition de dispositions du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md)**
 
 - **(3)** Dans la présente loi, on entend par ***dispositions du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md)*** les dispositions de la partie II de cette loi ou les règlements d’application de celle-ci, à l’exclusion de l’article 125.2 de cette loi ou des règlements pris en vertu de l’article 157 de cette loi pour l’application de l’article 125.2 de cette loi.
-> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 10; 1992, ch. 1, art. 145(F); 1996, ch. 8, art. 32; 2012, ch. 31, art. 269 et 282.
+
+**Définition de dispositions de la loi de mise en oeuvre **
+
+- **(4)** Dans la présente loi, on entend par ***dispositions de la loi de mise en oeuvre*** :
+	- **a)** les dispositions de la partie III.1 de la [Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador](/fr/Lois/Lois%20du%20Canada/1987/ch.%203.md) ou les règlements d’application de celle-ci, à l’exclusion de l’article 205.023 ou des règlements pris en vertu de l’article 205.124 pour l’application de l’article 205.023;
+	- **b)** les dispositions de la partie III.1 de la Loi de mise en oeuvre de l’Accord Canada  — Nouvelle-Écosse sur les hydrocarbures extracôtiers ou les règlements d’application de celle-ci, à l’exclusion de l’article 210.023 ou des règlements pris en vertu de l’article 210.126 pour l’application de l’article 210.023.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 10; 1992, ch. 1, art. 145(F); 1996, ch. 8, art. 32; 2012, ch. 31, art. 269 et 282; 2014, ch. 13, art. 105.
 
 
 
@@ -90,9 +96,9 @@
 	- **a)** soit la dénomination chimique ou la concentration d’un ingrédient d’un produit contrôlé;
 	- **b)** soit le titre d’une étude toxicologique qui identifie un ingrédient d’un produit contrôlé.
 
-**Demande de dérogation — employeur**
+**Demande de dérogation  — employeur**
 
-- **(2)** L’employeur qui est tenu, directement ou indirectement, en application du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md), de divulguer les renseignements énumérés ci-après peut, s’il estime que ces renseignements sont confidentiels, présenter à l'agent de contrôle en chef, conformément au présent article, une demande de dérogation à l’obligation de divulguer :
+- **(2)** L’employeur qui est tenu, directement ou indirectement, en application des dispositions du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) ou de la loi de mise en oeuvre, selon le cas, de divulguer les renseignements énumérés ci-après peut, s’il estime que ces renseignements sont confidentiels, présenter à l’agent de contrôle en chef, conformément au présent article, une demande de dérogation à l’obligation de divulguer :
 	- **a)** soit la dénomination chimique ou la concentration d’un ingrédient d’un produit contrôlé;
 	- **b)** soit le titre d’une étude toxicologique qui identifie un ingrédient d’un produit contrôlé;
 	- **c)** soit l’appellation chimique, courante, commerciale ou générique, ou la marque d’un produit contrôlé;
@@ -113,7 +119,7 @@
 **Limitation**
 
 - **(5)** Le fournisseur ou l’employeur auteur d’une demande de dérogation conformément au présent article qui est définitivement jugée non fondée en tout ou en partie n’a pas le droit de présenter une autre demande de dérogation à l’égard des renseignements pour lesquels le tout ou la partie de la demande a été jugée non fondée.
-> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 11; 1992, ch. 1, art. 144(F); 2001, ch. 34, art. 49(F); 2007, ch. 7, art. 1; 2012, ch. 31, art. 284(F).
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 11; 1992, ch. 1, art. 144(F); 2001, ch. 34, art. 49(F); 2007, ch. 7, art. 1; 2012, ch. 31, art. 284(F); 2014, ch. 13, art. 106.
 
 
 
@@ -146,7 +152,7 @@
 
 - **(1)** L’agent de contrôle étudie la demande de dérogation et la fiche signalétique ou l’étiquette en cause conformément aux modalités réglementaires et :
 	- **a)** décide si, sur la base des critères réglementaires établis en application de l’alinéa 48(1)a), la demande est fondée en tout ou en partie;
-	- **b)** décide si la fiche signalétique ou l’étiquette visée par la demande est conforme, sauf dans la mesure où elle ne divulgue pas les renseignements visés par la demande, aux exigences de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md) ou du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md), selon le cas.
+	- **b)** décide si la fiche signalétique ou l’étiquette visée par la demande est conforme, sauf dans la mesure où elle ne divulgue pas les renseignements visés par la demande, aux exigences des dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md), du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) ou de la loi de mise en oeuvre, selon le cas.
 
 **Renseignements justificatifs**
 
@@ -156,7 +162,7 @@
 	- **c)** en toute autre circonstance prévue par règlement.
 
 - **(2)** [Abrogé, 2012, ch. 31, art. 270]
-> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 13; 1996, ch. 8, art. 34; 2007, ch. 7, art. 2; 2012, ch. 31, art. 270.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 13; 1996, ch. 8, art. 34; 2007, ch. 7, art. 2; 2012, ch. 31, art. 270; 2014, ch. 13, art. 107.
 
 
 
@@ -194,7 +200,7 @@
 
 **16** 
 
-- **(1)** Si l’agent de contrôle juge, en vertu de l’alinéa 13(1)a), que tout ou partie d’une demande de dérogation n’est pas fondée, il ordonne au demandeur de se conformer aux dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md) ou du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) en ce qui concerne le tout ou la partie de la demande qui a été jugée non fondée, selon les modalités de forme et de temps précisées par l’ordre.
+- **(1)** Si l’agent de contrôle juge, en vertu de l’alinéa 13(1)a), que tout ou partie d’une demande de dérogation n’est pas fondée, il ordonne au demandeur de se conformer aux dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md), du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) ou de la loi de mise en oeuvre en ce qui concerne le tout ou la partie de la demande qui a été jugée non fondée, selon les modalités de forme et de temps précisées par l’ordre.
 
 **Absence de rétrospectivité**
 
@@ -206,7 +212,9 @@
 
 **Observation présumée**
 
-- **(4)** Le demandeur qui se conforme à l’ordre donné en vertu du paragraphe (1), selon ses modalités, est réputé, pour l’application des dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md) ou de celles du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md), selon le cas, s’être conformé à ces dispositions.
+- **(4)** Le demandeur qui se conforme à l’ordre donné en vertu du paragraphe (1), selon ses modalités, est réputé, pour l’application des dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md), du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) ou de la loi de mise en oeuvre, selon le cas, s’être conformé à ces dispositions.
+> L.R. (1985), ch. 24 (3e suppl.), art. 16; 2014, ch. 13, art. 108.
+
 
 
 
@@ -215,7 +223,7 @@
 
 **16.1** 
 
-- **(1)** S’il juge, en vertu de l’alinéa 13(1)b), que la fiche signalétique ou l’étiquette visée par la demande de dérogation n’est pas conforme aux dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md) ou à celles du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md), selon le cas, l’agent de contrôle peut faire parvenir au demandeur un engagement énonçant les mesures à prendre pour assurer l’observation de ces dispositions — sauf dans la mesure où celles-ci obligeraient le demandeur à divulguer les renseignements visés par la demande — selon les modalités de forme et de temps précisées par l’engagement.
+- **(1)** S’il juge, en vertu de l’alinéa 13(1)b), que la fiche signalétique ou l’étiquette visée par la demande de dérogation n’est pas conforme aux dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md), du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) ou de la loi de mise en oeuvre, selon le cas, l’agent de contrôle peut faire parvenir au demandeur un engagement énonçant les mesures à prendre pour assurer l’observation de ces dispositions — sauf dans la mesure où celles-ci obligeraient le demandeur à divulguer les renseignements visés par la demande — selon les modalités de forme et de temps précisées par l’engagement.
 
 **Accord du demandeur**
 
@@ -227,8 +235,8 @@
 
 **Effet de l’avis**
 
-- **(4)** Le demandeur à qui est envoyé l’avis est réputé, pour l’application des dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md) ou de celles du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md), selon le cas, s’être conformé à ces dispositions.
-> 2007, ch. 7, art. 3.
+- **(4)** Le demandeur à qui est envoyé l’avis est réputé, pour l’application des dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md), du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) ou de la loi de mise en oeuvre, selon le cas, s’être conformé à ces dispositions.
+> 2007, ch. 7, art. 3; 2014, ch. 13, art. 109.
 
 
 
@@ -238,7 +246,7 @@
 
 **17** 
 
-- **(1)** S’il ne reçoit pas l’engagement signé ou n’est pas convaincu que le demandeur l’a respecté, l’agent de contrôle lui ordonne de se conformer aux dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md) ou à celles du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md), selon le cas, sauf dans la mesure où elles obligeraient le demandeur à divulguer les renseignements visés par la demande, selon les modalités de forme et de temps précisées par l’ordre.
+- **(1)** S’il ne reçoit pas l’engagement signé ou n’est pas convaincu que le demandeur l’a respecté, l’agent de contrôle lui ordonne de se conformer aux dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md), du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) ou de la loi de mise en oeuvre, selon le cas, sauf dans la mesure où elles obligeraient le demandeur à divulguer les renseignements visés par la demande, selon les modalités de forme et de temps précisées par l’ordre.
 
 **Absence de rétrospectivité**
 
@@ -250,8 +258,8 @@
 
 **Observation présumée**
 
-- **(4)** Le demandeur qui se conforme à l’ordre donné en vertu du paragraphe (1), selon ses modalités, est réputé, pour l’application des dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md) ou de celles du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md), selon le cas, s’être conformé à ces dispositions.
-> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 17; 2007, ch. 7, art. 4.
+- **(4)** Le demandeur qui se conforme à l’ordre donné en vertu du paragraphe (1), selon ses modalités, est réputé, pour l’application des dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md), du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) ou de la loi de mise en oeuvre, selon le cas, s’être conformé à ces dispositions.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 17; 2007, ch. 7, art. 4; 2014, ch. 13, art. 110.
 
 
 
@@ -550,17 +558,24 @@
 
 **43** 
 
-- **(1)** Une commission d’appel chargée de traiter des appels qui découlent de l’application des dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md) est composée de trois membres :
-	- **a)** un membre, chargé de présider la commission, est nommé par l'agent d’appel en chef sur recommandation du lieutenant-gouverneur en conseil de la province où la commission doit être convoquée;
+- **(1)** Une commission d’appel chargée de traiter des appels qui découlent de l’application des dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md) est composée de trois membres :
+	- **a)** un membre, chargé de présider la commission, est nommé par l’agent d’appel en chef sur recommandation du lieutenant-gouverneur en conseil de la province où la commission doit être convoquée;
 	- **b)** un membre est nommé par le président de la commission d’appel parmi les personnes inscrites sur la liste visée au sous-alinéa (3)a)(i), préparée pour cette province;
 	- **c)** un membre est nommé par le président de la commission d’appel parmi les personnes inscrites sur la liste visée au sous-alinéa (3)a)(ii), préparée pour cette province.
 
 **Idem**
 
-- **(2)** Une commission d’appel chargée de traiter des appels qui découlent de l’application des dispositions du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) est composée de trois membres :
-	- **a)** un membre, chargé de présider la commission, est nommé par l'agent d’appel en chef sur recommandation du ministre du Travail;
+- **(2)** Une commission d’appel chargée de traiter des appels qui découlent de l’application des dispositions du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) est composée de trois membres :
+	- **a)** un membre, chargé de présider la commission, est nommé par l’agent d’appel en chef sur recommandation du ministre du Travail;
 	- **b)** un membre est nommé par le président de la commission d’appel parmi les personnes inscrites sur la liste visée au sous-alinéa (3)b)(i), préparée pour cette province;
 	- **c)** un membre est nommé par le président de la commission d’appel parmi les personnes inscrites sur la liste visée au sous-alinéa (3)b)(ii), préparée pour cette province.
+
+**Composition**
+
+- **(2.1)** Une commission d’appel chargée de traiter des appels qui découlent de l’application des dispositions de la loi de mise en oeuvre est composée de trois membres :
+	- **a)** un membre, chargé de présider la commission, est nommé par l’agent d’appel en chef sur recommandation du lieutenant-gouverneur en conseil de la province où la commission doit être convoquée;
+	- **b)** un membre est nommé par le président de la commission d’appel parmi les personnes inscrites sur la liste visée aux sous-alinéas (3)a)(i) ou b)(i), préparée pour cette province;
+	- **c)** un membre est nommé par le président de la commission d’appel parmi les personnes inscrites sur la liste visée aux sous-alinéas (3)a)(ii) ou b)(ii), préparée pour cette province.
 
 **Liste de candidats**
 
@@ -583,7 +598,7 @@
 **Exception**
 
 - **(5)** L’agent de contrôle ne peut être membre d’une commission d’appel.
-> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 43; 2012, ch. 31, art. 276, 282 et 283(F).
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 43; 2012, ch. 31, art. 276, 282 et 283(F); 2014, ch. 13, art. 111.
 
 
 
@@ -631,6 +646,7 @@
 	- **a)** [Abrogé, 2012, ch. 31, art. 278]
 	- **b)** [Abrogé, 1996, ch. 8, art. 24]
 	- **c)** un fonctionnaire du ministère de l’Emploi et du Développement social, tout agent d’appel au sens du paragraphe 122(1) du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) ou toute personne à qui le ministre du Travail a délégué des attributions en vertu du paragraphe 140(1) de cette loi ou d’un accord conclu en vertu du paragraphe 140(2) de cette loi, pour l’exécution et le contrôle d’application de la partie II de cette loi;
+	- **c.1)** un agent de santé et de sécurité, au sens du paragraphe 205.001(1) de la Loi de mise en oeuvre de l’Accord atlantique Canada  — Terre-Neuve-et-Labrador, pour l’exécution et le contrôle d’application de la partie III.1 de cette loi ou un agent de santé et de sécurité, au sens du paragraphe 210.001(1) de la Loi de mise en oeuvre de l’Accord Canada  — Nouvelle-Écosse sur les hydrocarbures extracôtiers, pour l’exécution et le contrôle d’application de la partie III.1 de cette loi;
 	- **d)** un fonctionnaire du ministère des Transports pour rendre les renseignements accessibles, en cas d'urgence médicale, par l'intermédiaire du Centre canadien d'urgence transport de ce ministère (CANUTEC);
 	- **e)** un fonctionnaire du gouvernement d’une province pour l’exécution et le contrôle d’application de toute loi de la province en matière de santé et de sécurité professionnelles dans les cas où le droit de la province comporte des dispositions semblables en matière de protection de la confidentialité des renseignements obtenus par cette communication, cet examen ou cet accès.
 
@@ -645,7 +661,7 @@
 **Définition de fonctionnaire**
 
 - **(5)** Dans le présent article, ***fonctionnaire*** s’entend d’une personne qui est ou était à l’emploi de Sa Majesté ou qui occupe ou occupait un poste responsable pour le compte de celle-ci.
-> L.R. (1985), ch. 24 (3<sup>e </sup>e suppl.), art. 46; 1992, ch. 1, art. 145(F); 1996, ch. 8, art. 24, ch. 11, art. 60; 2000, ch. 20, art. 26; 2005, ch. 34, art. 79; 2012, ch. 31, art. 278; 2013, ch. 40, art. 201 et 237.
+> L.R. (1985), ch. 24 (3<sup>e </sup>e suppl.), art. 46; 1992, ch. 1, art. 145(F); 1996, ch. 8, art. 24, ch. 11, art. 60; 2000, ch. 20, art. 26; 2005, ch. 34, art. 79; 2012, ch. 31, art. 278; 2013, ch. 40, art. 201 et 237; 2014, ch. 13, art. 112.
 
 
 
