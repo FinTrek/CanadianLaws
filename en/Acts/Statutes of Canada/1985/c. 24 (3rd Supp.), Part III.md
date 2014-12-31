@@ -70,7 +70,13 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 **Definition of provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md)**
 
 - **(3)** In this Act, ***provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md)*** means the provisions of Part II of that Act or the regulations made under that Part but does not include the provisions of section 125.2 of that Act or any regulation made pursuant to section 157 of that Act for the purposes of section 125.2 of that Act.
-> R.S., 1985, c. 24 (3rd Supp.), s. 10; 1992, c. 1, s. 145(F); 1996, c. 8, s. 32; 2012, c. 31, ss. 269, 282.
+
+**Definition of provisions of the Accord Act**
+
+- **(4)** In this Act, ***provisions of the Accord Act*** means
+	- **(a)** the provisions of Part III.1 of the [Canada–Newfoundland and Labrador Atlantic Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1987/c.%203.md) or the regulations made under that Part, other than the provisions of section 205.023 of that Act or of any regulation made under section 205.124 of that Act for the purposes of section 205.023 of that Act; or
+	- **(b)** the provisions of Part III.1 of the [Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1988/c.%2028.md) or the regulations made under that Part, other than the provisions of section 210.023 of that Act or of any regulation made under section 210.126 of that Act for the purposes of section 210.023 of that Act.
+> R.S., 1985, c. 24 (3rd Supp.), s. 10; 1992, c. 1, s. 145(F); 1996, c. 8, s. 32; 2012, c. 31, ss. 269, 282; 2014, c. 13, s. 105.
 
 
 
@@ -91,7 +97,7 @@ may, if the supplier considers such information to be confidential business info
 
 **Claim for exemption by employer**
 
-- **(2)** Any employer who is required, either directly or indirectly, pursuant to the provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md), to disclose
+- **(2)** Any employer who is required, either directly or indirectly, under the provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) or the provisions of the Accord Act, as the case may be, to disclose
 	- **(a)** the chemical identity or concentration of any ingredient of a controlled product,
 	- **(b)** the name of any toxicological study that identifies any ingredient of a controlled product,
 	- **(c)** the chemical name, common name, generic name, trade-name or brand name of a controlled product, or
@@ -113,7 +119,7 @@ may, if the employer considers such information to be confidential business info
 **Restriction**
 
 - **(5)** Where a supplier or an employer files a claim for exemption in accordance with this section and the final disposition of the proceedings in relation to the claim is that the claim or a portion of the claim is not valid, the supplier or employer, as the case may be, is not entitled to file any other claim for exemption in relation to the information in respect of which the claim or portion of the claim was determined to be invalid.
-> R.S., 1985, c. 24 (3rd Supp.), s. 11; 1992, c. 1, s. 144(F); 2001, c. 34, s. 49(F); 2007, c. 7, s. 1; 2012, c. 31, s. 284(F).
+> R.S., 1985, c. 24 (3rd Supp.), s. 11; 1992, c. 1, s. 144(F); 2001, c. 34, s. 49(F); 2007, c. 7, s. 1; 2012, c. 31, s. 284(F); 2014, c. 13, s. 106.
 
 
 
@@ -146,7 +152,7 @@ may, if the employer considers such information to be confidential business info
 
 - **(1)** A screening officer shall review a claim for exemption and the material safety data sheet or label to which it relates in accordance with the prescribed procedures and shall
 	- **(a)** decide whether, having regard to the criteria prescribed pursuant to paragraph 48(1)(a), the claim or any portion of the claim is valid; and
-	- **(b)** decide whether the material safety data sheet or label to which the claim relates, except to the extent that it does not disclose the information in respect of which the claim is made, complies with the provisions of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md) or the provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md), as the case may be.
+	- **(b)** decide whether the material safety data sheet or label to which the claim relates, except to the extent that it does not disclose the information in respect of which the claim is made, complies with the provisions of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md), the provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) or the provisions of the Accord Act, as the case may be.
 
 **Substantiating information**
 
@@ -156,7 +162,7 @@ may, if the employer considers such information to be confidential business info
 	- **(c)** any other prescribed circumstances.
 
 - **(2)** [Repealed, 2012, c. 31, s. 270]
-> R.S., 1985, c. 24 (3rd Supp.), s. 13; 1996, c. 8, s. 34; 2007, c. 7, s. 2; 2012, c. 31, s. 270.
+> R.S., 1985, c. 24 (3rd Supp.), s. 13; 1996, c. 8, s. 34; 2007, c. 7, s. 2; 2012, c. 31, s. 270; 2014, c. 13, s. 107.
 
 
 
@@ -194,7 +200,7 @@ may, if the employer considers such information to be confidential business info
 
 **16** 
 
-- **(1)** Where under paragraph 13(1)(a) a screening officer determines that a claim or portion of a claim for exemption is not valid, the screening officer shall order the claimant to comply, in the manner and within the period specified in the order, with the provisions of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md) or the provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) in respect of which the claim or portion of the claim for exemption was determined not to be valid.
+- **(1)** If, under paragraph 13(1)(a), a screening officer determines that a claim or portion of a claim for exemption is not valid, the screening officer shall order the claimant to comply, in the manner and within the period specified in the order, with the provisions of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md), the provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) or the provisions of the Accord Act in respect of which the claim or portion of the claim for exemption was determined not to be valid.
 
 **No retrospective effect**
 
@@ -206,7 +212,9 @@ may, if the employer considers such information to be confidential business info
 
 **Deemed compliance**
 
-- **(4)** Every claimant who complies with an order under subsection (1) in the manner and within the period specified in the order shall, for the purposes of the provisions of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md) or the provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md), as the case may be, be deemed to have complied with those provisions.
+- **(4)** Every claimant who complies with an order under subsection (1) in the manner and within the period specified in the order shall, for the purposes of the provisions of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md), the provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) or the provisions of the Accord Act, as the case may be, be deemed to have complied with those provisions.
+> R.S., 1985, c. 24 (3rd Supp.), s. 16; 2014, c. 13, s. 108.
+
 
 
 
@@ -215,7 +223,7 @@ may, if the employer considers such information to be confidential business info
 
 **16.1** 
 
-- **(1)** If a screening officer determines under paragraph 13(1)(b) that a material safety data sheet or label to which a claim for exemption relates does not comply with the provisions of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md) or the provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md), as the case may be, the screening officer may send an undertaking to the claimant setting out the measures that are required to be taken for the purpose of ensuring compliance with those provisions, except to the extent that they would require the claimant to disclose the information in respect of which the claim is made, in the manner and within the period specified in the undertaking.
+- **(1)** If a screening officer determines under paragraph 13(1)(b) that a material safety data sheet or label to which a claim for exemption relates does not comply with the provisions of the Hazardous Products Act, the provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) or the provisions of the Accord Act, as the case may be, the screening officer may send an undertaking to the claimant setting out the measures that are required to be taken for the purpose of ensuring compliance with those provisions, except to the extent that they would require the claimant to disclose the information in respect of which the claim is made, in the manner and within the period specified in the undertaking.
 
 **Agreement by claimant**
 
@@ -227,8 +235,8 @@ may, if the employer considers such information to be confidential business info
 
 **Deemed compliance**
 
-- **(4)** A claimant to whom the notice is sent is, for the purposes of the provisions of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md) or the provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md), as the case may be, deemed to have complied with those provisions.
-> 2007, c. 7, s. 3.
+- **(4)** A claimant to whom the notice is sent is, for the purposes of the provisions of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md), the provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) or the provisions of the Accord Act, as the case may be, deemed to have complied with those provisions.
+> 2007, c. 7, s. 3; 2014, c. 13, s. 109.
 
 
 
@@ -238,7 +246,7 @@ may, if the employer considers such information to be confidential business info
 
 **17** 
 
-- **(1)** If the screening officer does not receive the signed undertaking, or is not satisfied that the claimant has taken the measures set out in the undertaking in the manner and within the period specified in it, the screening officer shall order the claimant to comply with the provisions of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md) or the provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md), as the case may be, except to the extent that they would require the claimant to disclose the information in respect of which the claim is made, in the manner and within the period specified in the order.
+- **(1)** If the screening officer does not receive the signed undertaking, or is not satisfied that the claimant has taken the measures set out in the undertaking in the manner and within the period specified in it, the screening officer shall order the claimant to comply with the provisions of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md), the provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) or the provisions of the Accord Act, as the case may be, except to the extent that they would require the claimant to disclose the information in respect of which the claim is made, in the manner and within the period specified in the order.
 
 **No retrospective effect**
 
@@ -250,8 +258,8 @@ may, if the employer considers such information to be confidential business info
 
 **Deemed compliance**
 
-- **(4)** Every claimant who complies with an order under subsection (1) in the manner and within the period specified in the order shall, for the purposes of the provisions of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md) or the provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md), as the case may be, be deemed to have complied with those provisions.
-> R.S., 1985, c. 24 (3rd Supp.), s. 17; 2007, c. 7, s. 4.
+- **(4)** Every claimant who complies with an order under subsection (1) in the manner and within the period specified in the order shall, for the purposes of the provisions of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md), the provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) or the provisions of the Accord Act, as the case may be, be deemed to have complied with those provisions.
+> R.S., 1985, c. 24 (3rd Supp.), s. 17; 2007, c. 7, s. 4; 2014, c. 13, s. 110.
 
 
 
@@ -562,6 +570,13 @@ may, if the employer considers such information to be confidential business info
 	- **(b)** one member appointed by the chairman of the appeal board from among the persons whose names appear on the list referred to in subparagraph (3)(b)(i) maintained in respect of the province in which the appeal board is to be convened; and
 	- **(c)** one member appointed by the chairman of the appeal board from among the persons whose names appear on the list referred to in subparagraph (3)(b)(ii) maintained in respect of that province.
 
+**Idem**
+
+- **(2.1)** An appeal board shall, in relation to an appeal relating to the provisions of the Accord Act, consist of three members to be appointed as follows:
+	- **(a)** one member, who shall be the chairperson of the appeal board, appointed by the Chief Appeals Officer on the recommendation of the lieutenant governor in council of the province in which the appeal board is to be convened;
+	- **(b)** one member appointed by the chairperson of the appeal board from among the persons whose names appear on the list referred to in subparagraph (3)(a)(i) or (b)(i) maintained in respect of the province in which the appeal board is to be convened; and
+	- **(c)** one member appointed by the chairperson of the appeal board from among the persons whose names appear on the list referred to in subparagraph (3)(a)(ii) or (b)(ii) maintained in respect of that province.
+
 **Lists of nominees**
 
 - **(3)** The Chief Appeals Officer shall establish and maintain in respect of each province the following lists of nominees for appointment to appeal boards to be convened in that province:
@@ -583,7 +598,7 @@ may, if the employer considers such information to be confidential business info
 **Exception**
 
 - **(5)** No screening officer is eligible for appointment to an appeal board.
-> R.S., 1985, c. 24 (3rd Supp.), s. 43; 2012, c. 31, ss. 276, 282, 283(F).
+> R.S., 1985, c. 24 (3rd Supp.), s. 43; 2012, c. 31, ss. 276, 282, 283(F); 2014, c. 13, s. 111.
 
 
 
@@ -631,6 +646,7 @@ may, if the employer considers such information to be confidential business info
 	- **(a)** [Repealed, 2012, c. 31, s. 278]
 	- **(b)** [Repealed, 1996, c. 8, s. 24]
 	- **(c)** any official of the Department of Employment and Social Development, any appeals officer within the meaning of subsection 122(1) of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md), or any person to whom powers, duties or functions have been delegated by the Minister of Labour under subsection 140(1) of that Act, or under an agreement entered into under subsection 140(2), of that Act, for the purposes of the administration or enforcement of Part II of that Act;
+	- **(c.1)** any health and safety officer as defined in subsection 205.001(1) of the [Canada–Newfoundland and Labrador Atlantic Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1987/c.%203.md), for the purposes of the administration and enforcement of Part III.1 of that Act or any health and safety officer as defined in subsection 210.001(1) of the [Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1988/c.%2028.md), for the purposes of the administration and enforcement of Part III.1 of that Act;
 	- **(d)** any official of the Department of Transport, for the purpose of making the information available in cases of medical emergency through the Canadian Transport Emergency Centre (CANUTEC) of the Department of Transport; and
 	- **(e)** any official of the government of a province, for the purposes of the administration or enforcement of any law of the province relating to occupational safety and health where under the law of that province similar provisions exist to protect the confidentiality of the information obtained as a result of such communication, inspection or access.
 
@@ -645,7 +661,7 @@ may, if the employer considers such information to be confidential business info
 **Definition of official**
 
 - **(5)** In this section, ***official*** means any person employed in or occupying a position of responsibility in the service of Her Majesty, or any person formerly so employed or formerly occupying such a position.
-> R.S., 1985, c. 24 (3rd Supp.), s. 46; 1992, c. 1, s. 145(F); 1996, c. 8, s. 24, c. 11, s. 60; 2000, c. 20, s. 26; 2005, c. 34, s. 79; 2012, c. 31, s. 278; 2013, c. 40, ss. 201, 237.
+> R.S., 1985, c. 24 (3rd Supp.), s. 46; 1992, c. 1, s. 145(F); 1996, c. 8, s. 24, c. 11, s. 60; 2000, c. 20, s. 26; 2005, c. 34, s. 79; 2012, c. 31, s. 278; 2013, c. 40, ss. 201, 237; 2014, c. 13, s. 112.
 
 
 
