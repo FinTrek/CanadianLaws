@@ -2176,11 +2176,13 @@ It does not include the Executive Council of — or a minister, department, agen
 **1** Port authority as defined in subsection 2(1) of the [Canada Marine Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2010.md).
 
 
-**2** Board as defined in section 2 of the Canada-Newfoundland Atlantic Accord Implementation Act.
+**2** Board as defined in section 2 of the [Canada–Newfoundland and Labrador Atlantic Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1987/c.%203.md).
 
 
 **3** Board as defined in section 2 of the [Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1988/c.%2028.md).
 
+
+> 2012, c. 19, s. 52 “Sch. 1”; 2014, c. 13, s. 115
 
 
 
