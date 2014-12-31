@@ -39,7 +39,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** In this Act,
 
-***Board*** means the Canada-Newfoundland Offshore Petroleum Board established by the joint operation of section 9 of the Canada-Newfoundland Atlantic Accord Implementation Act and section 9 of The Canada-Newfoundland Atlantic Accord Implementation (Newfoundland) Act, chapter 37 of the Statutes of Newfoundland, 1986; (*Office*)
+***Board*** means the Canada–Newfoundland and Labrador Offshore Petroleum Board established by the joint operation of section 9 of the [Canada–Newfoundland and Labrador Atlantic Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1987/c.%203.md) and section 9 of The Canada-Newfoundland Atlantic Accord Implementation (Newfoundland) Act, chapter 37 of the Statutes of Newfoundland, 1986; (*Office*)
 
 ***continental shelf*** means the seabed and subsoil of those submarine areas
 - **(a)** that extend beyond the territorial sea throughout the natural prolongation of the land territory of Canada to the outer edge of the continental margin or to a distance of two hundred nautical miles from the inner limits of the territorial sea, whichever is the greater,
@@ -74,7 +74,7 @@ and includes the seabed and subsoil thereof and the airspace above that area; 
 	- **(a)** prescribing outer limits of the continental shelf or any portion thereof for the purpose of the definition ***continental shelf*** in subsection (1), or designating, for greater certainty, the seabed and subsoil of a particular submarine area as being part of the continental shelf;
 	- **(b)** designating an area of the sea for the purpose of the definition ***offshore area*** in subsection (1); and
 	- **(c)** prescribing, in respect of any area of the sea and for the purpose of the definition ***offshore area*** in subsection (1), the manner of determining the province that has the coast nearest to that area.
-> 1990, c. 41, s. 2; 1994, c. 41, s. 37; 2002, c. 7, s. 178; 2014, c. 2, s. 41.
+> 1990, c. 41, s. 2; 1994, c. 41, s. 37; 2002, c. 7, s. 178; 2014, c. 2, s. 41, c. 13, s. 113.
 
 
 
@@ -103,7 +103,7 @@ and includes the seabed and subsoil thereof and the airspace above that area; 
 	- **(b)** provisions for the appointment of one or more trustees or other persons to perform such duties as may be required by the Minister, including the signing, as agent of Her Majesty, of certificates that represent the right of the proper holders of the certificates to participate in, and to have the benefit of, a guarantee entered into by the Minister under subparagraph (2)(a)(ii), (iv), (v) or (vi), provided that the maximum amounts referred to therein are not exceeded, which signatures shall have the same effect as that of the Minister;
 	- **(c)** provisions for the payment of a net profit interest to Her Majesty;
 	- **(d)** undertakings in relation to industrial and employment benefits;
-	- **(e)** undertakings in relation to access to domestic and international markets for oil produced from the Project, subject to compliance with any other Act of Parliament including the [National Energy Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-7.md) and the Canada-Newfoundland Atlantic Accord Implementation Act and with any regulations thereunder, and access to international market prices for oil produced from the Project; and
+	- **(e)** undertakings in relation to access to domestic and international markets for oil produced from the Project, subject to compliance with any other Act of Parliament including the [National Energy Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-7.md) and the [Canada–Newfoundland and Labrador Atlantic Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1987/c.%203.md) and with any regulations thereunder, and access to international market prices for oil produced from the Project; and
 	- **(f)** such other terms and conditions as the Minister considers desirable.
 
 **Currency of guarantee**
@@ -115,7 +115,7 @@ and includes the seabed and subsoil thereof and the airspace above that area; 
 **Definition of interest**
 
 - **(4)** In this section, ***interest*** includes, in respect of a financial instrument, the difference between the face amount of the financial instrument and the sum received by the issuer, amortized over the term of the financial instrument to its maturity.
-> 1990, c. 41, s. 3; 1999, c. 31, s. 130.
+> 1990, c. 41, s. 3; 1999, c. 31, s. 130; 2014, c. 13, s. 115.
 
 
 
@@ -154,11 +154,13 @@ and includes the seabed and subsoil thereof and the airspace above that area; 
 
 **6** 
 
-- **(1)** For the purposes of the Canada-Newfoundland Atlantic Accord Implementation Act, the decision of the Board concerning the application for approval of the Hibernia Canada-Newfoundland Benefits Plan and the Hibernia Development Plan, which decision was published as Decision 86.01 and submitted to the Minister on June 18, 1986, shall be deemed to have been validly made by the Board pursuant to sections 45 and 139 of that Act and the conditions referred to in subsection 32(1) of that Act shall be deemed to have been satisfied in respect of that decision.
+- **(1)** For the purposes of the [Canada–Newfoundland and Labrador Atlantic Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1987/c.%203.md), the decision of the Board concerning the application for approval of the Hibernia Canada-Newfoundland Benefits Plan and the Hibernia Development Plan, which decision was published as Decision 86.01 and submitted to the Minister on June 18, 1986, shall be deemed to have been validly made by the Board pursuant to sections 45 and 139 of that Act and the conditions referred to in subsection 32(1) of that Act shall be deemed to have been satisfied in respect of that decision.
 
 **Presumption**
 
 - **(2)** Nothing done by the Board or the Minister pursuant to or in furtherance of the decision referred to in subsection (1) shall be found to be invalid by reason only that the Board was not properly constituted at the time the decision was made or that any of the provisions of the Act referred to in subsection (1) were not in force at that time.
+> 1990, c. 41, s. 6; 2014, c. 13, s. 115.
+
 
 
 
