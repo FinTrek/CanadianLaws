@@ -153,15 +153,17 @@ où :
 
 **11** 
 
-- **(1)** Pour chacun des exercices compris entre le 1<sup>er</sup> avril 2006 et le 31 mars 2011 au cours duquel la province de la Nouvelle-Écosse ne reçoit pas de paiement de péréquation, le ministre lui verse un paiement de transition correspondant à la somme qui pourrait lui être versée en vertu de l’article 219 de la Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve selon le calcul prévu à l’article 220 de cette loi si ces articles s’appliquaient à ses recettes extracôtières.
+- **(1)** Pour chacun des exercices compris entre le 1<sup>er</sup> avril 2006 et le 31 mars 2011 au cours duquel la province de la Nouvelle-Écosse ne reçoit pas de paiement de péréquation, le ministre lui verse un paiement de transition correspondant à la somme qui pourrait lui être versée en vertu de l’article 219 de la [Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador](/fr/Lois/Lois%20du%20Canada/1987/ch.%203.md) selon le calcul prévu à l’article 220 de cette loi si ces articles s’appliquaient à ses recettes extracôtières.
 
 **Paiement de transition : 2011-2012**
 
-- **(2)** Si, pour l’exercice 2011-2012, la province de la Nouvelle-Écosse ne reçoit pas de paiement de péréquation, le ministre lui verse un paiement de transition correspondant à la somme qui pourrait lui être versée en vertu de l’article 219 de la Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve selon le calcul prévu à l’article 220 de cette loi si ces articles s’appliquaient à ses recettes extracôtières et si le montant visé à l’alinéa 220b) de cette loi était égal à zéro.
+- **(2)** Si, pour l’exercice 2011-2012, la province de la Nouvelle-Écosse ne reçoit pas de paiement de péréquation, le ministre lui verse un paiement de transition correspondant à la somme qui pourrait lui être versée en vertu de l’article 219 de la  Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador  selon le calcul prévu à l’article 220 de cette loi si ces articles s’appliquaient à ses recettes extracôtières et si le montant visé à l’alinéa 220b) de cette loi était égal à zéro.
 
 **Premier exercice de production extracôtière**
 
 - **(3)** Pour l’application du présent article, le premier exercice de production extracôtière est réputé être l’exercice commençant le 1<sup>er</sup> avril 1999.
+> 2005, ch. 30, art. 85 « 11 »; 2014, ch. 13, art. 115.
+
 
 
 
@@ -232,7 +234,7 @@ où :
 
 **18** Les définitions qui suivent s’appliquent à la présente partie.
 
-***hydrocarbures*** S’entend au sens de l’article 2 de la Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve.
+***hydrocarbures*** S’entend au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador](/fr/Lois/Lois%20du%20Canada/1987/ch.%203.md).
 
 ***paiement de péréquation***
 - **a)** Pour l’application de l’article 22, le paiement de péréquation que recevrait la province de Terre-Neuve-et-Labrador pour l’exercice si celui-ci était calculé au titre de l’article 3.2 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), compte non tenu de l’article 3.4 de cette loi;
@@ -243,15 +245,15 @@ A + B + (C / F)
 où :
 - **A,** B, C et F s’entendent au sens de la définition de ***capacité fiscale totale par habitant*** au paragraphe 3.5(1) de cette loi.
 
-***paiement de péréquation compensatoire*** Le paiement de péréquation compensatoire qui peut être fait à la province de Terre-Neuve-et-Labrador pour l’exercice sous le régime de la partie V de la Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve.
+***paiement de péréquation compensatoire*** Le paiement de péréquation compensatoire qui peut être fait à la province de Terre-Neuve-et-Labrador pour l’exercice sous le régime de la partie V de la Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador.
 
 ***paiement de péréquation compensatoire supplémentaire*** Le paiement qui peut être fait en vertu des articles 20, 21 ou 26.
 
 ***recettes extracôtières*** Le total des sommes ci-après payées pour un exercice à la province de Terre-Neuve-et-Labrador :
-- **a)** les sommes versées en vertu de l’alinéa 214(2)b) de la Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve;
+- **a)** les sommes versées en vertu de l’alinéa 214(2)b) de la [Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador](/fr/Lois/Lois%20du%20Canada/1987/ch.%203.md);
 - **b)** les sommes versées à l’égard de la partie de la taxe visée au paragraphe 165(2) et aux articles 218.1, 220.05, 220.06 et 220.08 de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) attribuable à son activité extracôtière dans la zone extracôtière de Terre-Neuve, au sens du paragraphe 123(1) de cette loi;
 - **c)** les redevances versées sous le régime de l’accord intitulé Hibernia Development Project Royalty Agreement conclu le 1<sup>er</sup> septembre 1990, avec ses modifications successives.
-> 2005, ch. 30, art. 85 « 18 »; 2007, ch. 29, art. 82.
+> 2005, ch. 30, art. 85 « 18 »; 2007, ch. 29, art. 82; 2014, ch. 13, art. 115.
 
 
 
@@ -314,7 +316,9 @@ où :
 
 **Paiement de transition : 2011-2012**
 
-**25** Si, pour l’exercice 2011-2012, la province de Terre-Neuve-et-Labrador ne reçoit pas de paiement de péréquation, le ministre lui verse un paiement de transition correspondant à la somme qui pourrait lui être versée en vertu de l’article 219 de la Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve selon le calcul prévu à l’article 220 de cette loi si ces articles s’appliquaient à cet exercice et si le montant visé à l’alinéa 220b) de cette loi était égal à zéro.
+**25** Si, pour l’exercice 2011-2012, la province de Terre-Neuve-et-Labrador ne reçoit pas de paiement de péréquation, le ministre lui verse un paiement de transition correspondant à la somme qui pourrait lui être versée en vertu de l’article 219 de la [Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador](/fr/Lois/Lois%20du%20Canada/1987/ch.%203.md) selon le calcul prévu à l’article 220 de cette loi si ces articles s’appliquaient à cet exercice et si le montant visé à l’alinéa 220b) de cette loi était égal à zéro.
+> 2005, ch. 30, art. 85 « 25 »; 2014, ch. 13, art. 115.
+
 
 
 
