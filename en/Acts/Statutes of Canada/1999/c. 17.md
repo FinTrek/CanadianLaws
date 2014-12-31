@@ -916,7 +916,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Interpretation**
 
-**64** For greater certainty, nothing in this Act gives the Agency the power to enter into any agreement under Part III, III.1 or VII of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md), or under the [Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1988/c.%2028.md) or the Canada-Newfoundland Atlantic Accord Implementation Act or to amend an agreement entered into under those Acts.
+**64** For greater certainty, nothing in this Act gives the Agency the power to enter into any agreement under Part III, III.1 or VII of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md), or under the [Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1988/c.%2028.md) or the [Canada–Newfoundland and Labrador Atlantic Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1987/c.%203.md) or to amend an agreement entered into under those Acts.
+> 1999, c. 17, s. 64; 2014, c. 13, s. 115.
+
 
 
 
