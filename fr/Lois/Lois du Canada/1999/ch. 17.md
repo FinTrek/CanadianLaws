@@ -916,7 +916,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Réserve**
 
-**64** Il est entendu que la présente loi n’a pas pour effet d’autoriser l’Agence à conclure une entente sous le régime des parties III, III.1 ou VII de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), la [Loi de mise en oeuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers](/fr/Lois/Lois%20du%20Canada/1988/ch.%2028.md) ou la Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve ou à modifier une entente conclue sous le régime d’une de ces lois.
+**64** Il est entendu que la présente loi n’a pas pour effet d’autoriser l’Agence à conclure une entente sous le régime des parties III, III.1 ou VII de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), la [Loi de mise en oeuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers](/fr/Lois/Lois%20du%20Canada/1988/ch.%2028.md) ou la [Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador](/fr/Lois/Lois%20du%20Canada/1987/ch.%203.md) ou à modifier une entente conclue sous le régime d’une de ces lois.
+> 1999, ch. 17, art. 64; 2014, ch. 13, art. 115.
+
 
 
 
