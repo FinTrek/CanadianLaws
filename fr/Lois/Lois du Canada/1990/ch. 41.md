@@ -49,7 +49,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***ministre*** Le ministre des Ressources naturelles. (*Minister*)
 
-***Office*** L’Office Canada — Terre-Neuve des hydrocarbures extracôtiers constitué par l’application conjointe des articles 9 de la Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve et de la loi terre-neuvienne intitulée The Canada-Newfoundland Atlantic Accord Implementation (Newfoundland) Act, S.N. 1986, chapitre 37. (*Board*)
+***Office*** L’Office Canada — Terre-Neuve-et-Labrador des hydrocarbures extracôtiers constitué par l’application conjointe des articles 9 de la [Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador](/fr/Lois/Lois%20du%20Canada/1987/ch.%203.md) et de la loi intitulée The Canada-Newfoundland Atlantic Accord Implementation (Newfoundland) Act, S.N. 1986, chapitre 37. (*Board*)
 
 ***plateau continental*** Le fond de la mer et le sous-sol des zones sous-marines qui s’étendent au-delà de la mer territoriale sur tout le prolongement naturel du territoire terrestre du Canada jusqu’au rebord externe de la marge continentale, ou jusqu’à deux cents milles marins des limites intérieures de la mer territoriale là où ce rebord se trouve à une distance inférieure, ou jusqu’aux limites fixées ou à l’intérieur d’une partie délimitée en application de l’alinéa (2)a). (*continental shelf*)
 
@@ -69,7 +69,7 @@ Une zone extracôtière comprend aussi le fond et le sous-sol de la mer, ainsi q
 	- **a)** fixer les limites externes de tout ou partie du plateau continental pour l’application de la définition de ***plateau continental*** ou englober, pour plus de sûreté, le fond de la mer et le sous-sol des zones sous-marines déterminés dans les limites du plateau continental;
 	- **b)** délimiter les zones extracôtières pour l’application de la définition de ***zone extracôtière***;
 	- **c)** prévoir, pour l’application de la définition de ***zone extracôtière***, la façon de déterminer la province dont la côte est la plus proche d’une zone de mer donnée.
-> 1990, ch. 41, art. 2; 1994, ch. 41, art. 37; 2002, ch. 7, art. 178; 2014, ch. 2, art. 41.
+> 1990, ch. 41, art. 2; 1994, ch. 41, art. 37; 2002, ch. 7, art. 178; 2014, ch. 2, art. 41, ch. 13, art. 113.
 
 
 
@@ -98,7 +98,7 @@ Une zone extracôtière comprend aussi le fond et le sous-sol de la mer, ainsi q
 	- **b)** des dispositions relatives à la nomination de fiduciaires qui peuvent agir, selon les exigences du ministre et sous réserve des montants prévus, à titre de signataires, pour le compte de Sa Majesté, des certificats attestant le droit de son ayant droit aux bénéfices relatifs aux garanties engagées par le ministre en vertu des sous-alinéas a)(ii), (iv), (v) ou (vi), leurs signatures ayant la même valeur que celle du ministre;
 	- **c)** des dispositions relatives à la participation de Sa Majesté aux bénéfices nets;
 	- **d)** des engagements relatifs aux retombées industrielles et aux avantages pour l’emploi;
-	- **e)** sous réserve de leur conformité aux lois fédérales, à leurs textes d’application et, notamment, à la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md) et à la Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve, ainsi que du prix du marché extérieur, des engagements relatifs à l’accessibilité des marchés intérieur et extérieur pour le pétrole brut provenant de l’exploitation;
+	- **e)** sous réserve de leur conformité aux lois fédérales, à leurs textes d’application et, notamment, à la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md) et à la [Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador](/fr/Lois/Lois%20du%20Canada/1987/ch.%203.md), ainsi que du prix du marché extérieur, des engagements relatifs à l’accessibilité des marchés intérieur et extérieur pour le pétrole brut provenant de l’exploitation;
 	- **f)** les autres mesures que le ministre juge souhaitables.
 
 **Emprunts en devises**
@@ -108,7 +108,7 @@ Une zone extracôtière comprend aussi le fond et le sous-sol de la mer, ainsi q
 **Définition d’intérêts**
 
 - **(4)** Pour l’application du présent article, est assimilée aux intérêts la différence entre la valeur nominale et le montant reçu par l’émetteur des instruments financiers selon leur valeur après amortissement.
-> 1990, ch. 41, art. 3; 1999, ch. 31, art. 130.
+> 1990, ch. 41, art. 3; 1999, ch. 31, art. 130; 2014, ch. 13, art. 115.
 
 
 
@@ -147,11 +147,13 @@ Une zone extracôtière comprend aussi le fond et le sous-sol de la mer, ainsi q
 
 **6** 
 
-- **(1)** Pour l’application de la *Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve*, la décision 86.01 de l’Office, relative à la demande d’autorisation du plan de retombées économiques et du plan de mise en valeur du champ Hibernia et soumise au ministre le 18 juin 1986, est réputée valablement prise par l’Office tant en vertu des articles 45 et 139 de cette loi qu’au regard des conditions prévues au paragraphe 32(1) de la même loi.
+- **(1)** Pour l’application de la *Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador*, la décision 86.01 de l’Office, relative à la demande d’autorisation du plan de retombées économiques et du plan de mise en valeur du champ Hibernia et soumise au ministre le 18 juin 1986, est réputée valablement prise par l’Office tant en vertu des articles 45 et 139 de cette loi qu’au regard des conditions prévues au paragraphe 32(1) de la même loi.
 
 **Présomption**
 
 - **(2)** La non-conformité de la constitution de l’Office et l’absence d’entrée en vigueur d’une des dispositions de la loi visée au présent article n’ont pas pour effet d’invalider les actes accomplis par lui ou le ministre concernant la décision.
+> 1990, ch. 41, art. 6; 2014, ch. 13, art. 115.
+
 
 
 
