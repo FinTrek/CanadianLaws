@@ -65,7 +65,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***ministre fédéral*** Le ministre des Ressources naturelles.
 
-***ministre provincial*** Le ministre provincial des mines et de l’énergie.
+***ministre provincial*** S’entend, sauf pour l’application de la partie III.1, du ministre du gouvernement de la province chargé de la gestion des ressources en hydrocarbures extracôtiers.
 
 ***Office*** L’Office Canada — Nouvelle-Écosse des hydrocarbures extracôtiers constitué par l’application conjointe des articles 9 de la présente loi et de la loi provinciale.
 
@@ -90,7 +90,7 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 ***titre*** A le sens donné à l’article 49.
 
  ou ***zone extracôtière*** ou ***zone*** Les zones terrestres et sous-marines situées dans les limites fixées à l’annexe I.
-> 1988, ch. 28, art. 2; 1993, ch. 47, art. 11; 1994, ch. 26, art. 16(F), ch. 41, art. 37; 2007, ch. 33, art. 16; 2013, ch. 28, art. 5.
+> 1988, ch. 28, art. 2; 1993, ch. 47, art. 11; 1994, ch. 26, art. 16(F), ch. 41, art. 37; 2007, ch. 33, art. 16; 2013, ch. 28, art. 5; 2014, ch. 13, art. 55.
 
 
 
@@ -137,7 +137,15 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 
 **Approbation provinciale**
 
-**6** Avant la prise des règlements visés aux paragraphes 5(1), 17(4), 35(8), 39(7) ou 45(7), à l’article 67, au paragraphe 70(2), à l’article 121, aux paragraphes 125(1), 128(1), 153(1), 157(5) ou 165(4) ou aux articles 208, 245 ou 248, le ministre fédéral consulte son homologue provincial sur les projets de ces règlements, lesquels ne peuvent être pris sans l’approbation de ce dernier.
+**6** 
+
+- **(1)** Avant la prise des règlements visés aux paragraphes 5(1), 17(4), 35(8), 39(7) ou 45(7), à l’article 67, au paragraphe 70(2), à l’article 121, aux paragraphes 125(1), 128(1) ou 153(1) ou aux articles 208, 245 ou 248, le ministre fédéral consulte le ministre provincial sur les règlements projetés, lesquels ne peuvent être pris sans l’approbation de ce dernier.
+
+**Approbation provinciale**
+
+- **(2)** Avant la prise des règlements visés aux paragraphes 210.001(3) ou (4) ou 210.126(1), le ministre fédéral consulte le ministre du gouvernement de la province responsable de la santé et de la sécurité au travail sur les règlements projetés, lesquels ne peuvent être pris sans l’approbation de ce dernier.
+> 1988, ch. 28, art. 6; 2014, ch. 13, art. 56.
+
 
 
 
@@ -221,6 +229,8 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 **Nomination conjointe**
 
 - **(4)** Par dérogation aux paragraphes (2) ou (3), les membres ou les suppléants peuvent être nommés conjointement par les deux gouvernements.
+> 1988, ch. 28, art. 10; 2014, ch. 13, art. 91(A).
+
 
 
 
@@ -242,7 +252,7 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 **Rattachement du président**
 
 - **(3)** Le président ne peut en cours de mandat être également fonctionnaire.
-> 1988, ch. 28, art. 11; 2003, ch. 22, art. 122(A).
+> 1988, ch. 28, art. 11; 2003, ch. 22, art. 122(A); 2014, ch. 13, art. 91(A).
 
 
 
@@ -269,6 +279,8 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 **Mandat des fonctionnaires**
 
 - **(5)** Les membres fonctionnaires n’occupent leur poste qu’à titre amovible.
+> 1988, ch. 28, art. 12; 2014, ch. 13, art. 91(A).
+
 
 
 
@@ -290,6 +302,8 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 **Effet de la décision**
 
 - **(4)** La décision du comité est définitive et lie les deux gouvernements.
+> 1988, ch. 28, art. 13; 2014, ch. 13, art. 57(A) et 91(A).
+
 
 
 
@@ -297,6 +311,8 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 **Intérim**
 
 **14** En cas d’absence ou d’empêchement du président ou de vacance de son poste, son intérim est assuré, avec plein exercice de ses attributions, par la personne que désigne l’Office.
+> 1988, ch. 28, art. 14; 2014, ch. 13, art. 91(A).
+
 
 
 
@@ -310,6 +326,8 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 **Idem**
 
 - **(2)** Les deux gouvernements conviennent du traitement et des autres conditions d’emploi des membres qu’ils nomment séparément.
+> 1988, ch. 28, art. 15; 2014, ch. 13, art. 91(A).
+
 
 
 
@@ -403,6 +421,8 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 **Réunions**
 
 **22** L’Office tient ses réunions au moins une fois à tous les deux mois, sauf décision unanime de report par les membres. II se réunit également sur convocation du président, à la demande de deux membres ou à celle du ministre fédéral ou provincial pour étudier toute question que celui-ci lui renvoie.
+> 1988, ch. 28, art. 22; 2014, ch. 13, art. 91(A).
+
 
 
 
@@ -465,6 +485,8 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 **Intérim**
 
 - **(7)** En cas d’absence ou d’empêchement du premier dirigeant ou de vacance à son poste, son intérim est assuré, avec plein exercice de ses attributions, par la personne que désigne l’Office.
+> 1988, ch. 28, art. 25; 2014, ch. 13, art. 91(A).
+
 
 
 
@@ -487,10 +509,18 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 
 - **(4)** Pour ce qui concerne leur admissibilité à une nomination à un poste dans la fonction publique à la suite de tout processus de nomination sous le régime de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), les agents de l’Office qui faisaient partie de la fonction publique sont considérés comme des fonctionnaires du ministère de l’Énergie, des Mines et des Ressources du lieu où ils exercent leurs fonctions dans un poste dont la nature et le niveau équivalent à ceux de leur poste de l’Office, et ceux qui n’en faisaient pas partie sont considérés tels deux ans après leur entrée en fonctions.
 
+**Application de la législation néo-écossaise**
+
+- **(4.1)** Le personnel est régi par les lois sociales au sens du paragraphe 210.001(1), les dispositions de la loi néo-écossaise sur la santé et la sécurité au travail au sens de ce paragraphe, les dispositions de la loi intitulée Trade Union Act, R.S.N.S. 1989, ch. 475, avec ses modifications successives, et les règlements pris en vertu de ces lois.
+
+**Non-application du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md)**
+
+- **(4.2)** Par dérogation à l’article 4 et aux paragraphes 123(1) et 168(1) du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md), cette loi ne s’applique pas aux personnels visés au paragraphe (1).
+
 **Définition de fonction publique**
 
 - **(5)** Au présent article, ***fonction publique*** s’entend au sens de la [Loi sur les relations de travail dans la Fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md).
-> 1988, ch. 28, art. 26; 2003, ch. 22, art. 123, 225(A) et 232.
+> 1988, ch. 28, art. 26; 2003, ch. 22, art. 123, 225(A) et 232; 2014, ch. 13, art. 58.
 
 
 
@@ -499,6 +529,21 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 **Vérification**
 
 **27** L’Office nomme un vérificateur, pour le mandat qu’il détermine, chargé de l’examen de ses états financiers.
+
+
+
+
+**Comité de vérification et d’évaluation**
+
+**27.1** 
+
+- **(1)** L’Office constitue un comité de vérification et d’évaluation, composé d’au moins trois membres de l’Office, et en fixe les fonctions; il peut, par règlement administratif, prévoir le remboursement des frais exposés par les membres du comité.
+
+**Vérification interne**
+
+- **(2)** Dans le cadre de ses fonctions, le comité de vérification et d’évaluation fait procéder à des vérifications internes afin de s’assurer du respect, par les dirigeants et les employés de l’Office, des mécanismes de contrôle et des systèmes de gestion établis par l’Office.
+> 2014, ch. 13, art. 59.
+
 
 
 
@@ -543,11 +588,13 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 
 **Contenu**
 
-- **(2)** Le rapport rend compte des activités de l’exercice et inclut les états financiers dûment vérifiés.
+- **(2)** Le rapport rend compte des activités de l’exercice, notamment en ce qui a trait à la santé et à la sécurité au travail, et inclut les états financiers dûment vérifiés.
 
 **Dépôt**
 
 - **(3)** Le ministre fédéral fait déposer le rapport devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant la date de sa réception.
+> 1988, ch. 28, art. 30; 2014, ch. 13, art. 60.
+
 
 
 
@@ -673,6 +720,8 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 **Effet**
 
 - **(2)** Le constat est définitif et ne peut en aucun cas être révisé ou annulé.
+> 1988, ch. 28, art. 37; 2014, ch. 13, art. 91(A).
+
 
 
 
@@ -769,11 +818,15 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 	- **d)** les études à mener par l’Office;
 	- **e)** les recommandations d’orientation qu’il doit leur donner.
 
+**Instructions relatives à la santé et à la sécurité au travail**
+
+- **(2)** Le ministre fédéral, sur recommandation du ministre du Travail, et le ministre du gouvernement de la province responsable de la santé et de la sécurité au travail peuvent conjointement donner par écrit des instructions à l’Office quant aux points suivants :
+	- **a)** l’élaboration de directives et de textes interprétatifs sur toute question liée à la santé et à la sécurité au travail;
+	- **b)** la mise en oeuvre de recommandations faites par le vérificateur en vertu de l’article 210.121 ou à la suite d’une enquête menée en vertu de l’article 210.122.
+
 **Instructions séparées**
 
-- **(2)** Sur réception par eux-mêmes ou l’Office au cours d’une année civile d’une demande en vue d’un appel d’offres à l’égard de parties de la zone extracôtière en application de la partie II, l’un ou l’autre ministre peut, après examen de l’exposé mentionné à l’article 43, donner par écrit instruction d’inscrire ces parties dans l’appel d’offres.
-
-- **(3)** [Abrogé, 1993, ch. 47, art. 12]
+- **(3)** Sur réception, par les ministres fédéral ou provincial ou par l’Office au cours d’une année civile, d’une demande en vue du lancement d’un appel d’offres sous le régime de la partie II à l’égard de parties de la zone extracôtière, l’un ou l’autre ministre peut, après examen de l’exposé mentionné à l’article 43, donner par écrit instruction d’inscrire ces parties dans l’appel d’offres.
 
 **Instructions provinciales**
 
@@ -786,7 +839,7 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 **Présomption**
 
 - **(6)** Les instructions ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
-> 1988, ch. 28, art. 41; 1993, ch. 47, art. 12.
+> 1988, ch. 28, art. 41; 1993, ch. 47, art. 12; 2014, ch. 13, art. 61.
 
 
 
@@ -904,6 +957,7 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 	- **a)** la réglementation sur l’environnement;
 	- **b)** les mesures d’urgence;
 	- **c)** la garde-côtière et la réglementation maritime;
+	- **c.1)** la réglementation aérienne;
 	- **d)** les avantages en matière d’emploi pour la population du Canada en général et celle de la province en particulier, ainsi que les méthodes d’examen et d’évaluation à appliquer à cet égard;
 	- **e)** la santé et la sécurité au travail;
 	- **f)** une canalisation principale néo-écossaise, au sens de l’article 40;
@@ -912,6 +966,8 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 **Idem**
 
 - **(2)** Les ministres fédéral et provincial sont parties à tout protocole d’entente conclu à l’égard du point (1) d).
+> 1988, ch. 28, art. 46; 2014, ch. 13, art. 62.
+
 
 
 
@@ -933,6 +989,8 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 **Président du comité**
 
 - **(3)** Le président du comité est nommé conjointement par les deux arbitres dans les trente jours qui suivent la nomination du second d’entre eux ou, à défaut d’accord, par le juge en chef de la province dans les trente jours qui suivent l’expiration de ce délai.
+> 1988, ch. 28, art. 47; 2014, ch. 13, art. 91(A).
+
 
 
 
@@ -2281,11 +2339,13 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 **126** 
 
-- **(1)** L’Office, s’il a des motifs de croire qu’un titulaire ou un indivisaire ne satisfait pas ou n’a pas satisfait aux obligations de la présente partie ou de la partie III ou de leurs règlements, peut, par avis, enjoindre à l’intéressé de s’y conformer dans les quatre-vingt-dix jours suivant la date de l’avis ou dans le délai supérieur qu’il juge indiqué.
+- **(1)** L’Office, s’il a des motifs de croire qu’un titulaire ou un indivisaire ne satisfait pas ou n’a pas satisfait aux obligations de la présente partie, des parties III ou III.1 ou de leurs règlements, peut, par avis, enjoindre à l’intéressé de s’y conformer dans les quatre-vingt-dix jours à compter du jour où l’avis est donné ou dans le délai supérieur qu’il juge indiqué.
 
 **Défaut**
 
 - **(2)** Par dérogation aux autres dispositions de la présente partie mais sous réserve des articles 32 à 37, si l’intéressé ne se conforme pas à l’avis dans le délai imparti, l’Office peut, par arrêté assujetti à l’article 127 et s’il juge que le défaut justifie la mesure, annuler les titres ou fractions en cause auquel cas les parties de la zone extracôtière sur lesquelles ils portaient deviennent des réserves de l’État.
+> 1988, ch. 28, art. 126; 2014, ch. 13, art. 63.
+
 
 
 
@@ -2668,6 +2728,8 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 **Publication**
 
 - **(8)** Dès que l’avis est donné, le ministre fédéral fait publier l’avis dans la Gazette du Canada.
+> 1988, ch. 28, art. 141; 2014, ch. 13, art. 91(A).
+
 
 
 
@@ -2709,6 +2771,10 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 - **(3)** Le permis de travaux est assujetti aux conditions réglementaires ou fixées par l’Office et aux droits et cautionnements réglementaires.
 
+**Copie de la demande**
+
+- **(3.1)** Sur réception par l’Office d’une demande de délivrance ou de modification de l’autorisation visée à l’alinéa (1)b), l’Office fournit une copie de la demande au délégué à la sécurité.
+
 **Conditions des autorisations**
 
 - **(4)** L’autorisation est assujettie aux approbations, conditions et cautionnements réglementaires ou fixés par l’Office, notamment les conditions relatives :
@@ -2716,14 +2782,19 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 	- **b)** à la réalisation de programmes et d’études en matière d’environnement;
 	- **c)** au paiement des frais que l’Office expose lors de l’approbation de la conception, de la construction et de l’exploitation des installations et plates-formes de production, entendues au sens des règlements.
 
+**Limite**
+
+- **(4.1)** Les approbations, conditions et cautionnements réglementaires ou fixés par l’Office ne peuvent être incompatibles avec les dispositions de la présente loi ou de ses règlements.
+
 **Suspension ou annulation**
 
 - **(5)** L’Office peut suspendre ou annuler un permis de travaux ou une autorisation en cas de manquement :
-	- **a)** aux approbations, conditions, droits ou cautionnements auxquels ils sont assujettis;
-	- **b)** à une obligation découlant des obligations visées aux paragraphes 143.1(1) ou (2);
+	- **a)** aux approbations, conditions, droits ou cautionnements, visés par les dispositions de la présente partie, de la partie III.1 ou de leurs règlements, auxquels ils sont assujettis;
+	- **b)** à l’obligation découlant de la déclaration visée au paragraphe 143.1(1);
 	- **c)** aux paragraphes 143.1(3), 143.2(2) ou 168(1.1);
+	- **c.1)** à toute disposition de la partie III.1;
 	- **d)** aux règlements applicables.
-> 1988, ch. 28, art. 142; 1992, ch. 35, art. 96.
+> 1988, ch. 28, art. 142; 1992, ch. 35, art. 96; 2014, ch. 13, art. 64.
 
 
 
@@ -2844,11 +2915,7 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 	- **a)** l’installation et les équipements en cause sont propres à l’usage auquel ils sont destinés, les procédures et modes d’emploi sont adéquats et le personnel a la compétence requise pour les utiliser;
 	- **b)** le demandeur fera en sorte que ces conditions soient maintenues pendant la durée des activités autorisées.
 
-**Déclaration du propriétaire**
-
-- **(2)** L’Office peut toutefois accepter en la forme fixée par lui, pour les équipements destinés aux activités à autoriser, une déclaration de leur propriétaire attestant ce qui suit :
-	- **a)** ils sont propres à l’usage auquel ils sont destinés, les procédures et modes d’emploi que le propriétaire a établis sont adéquats et son personnel est compétent;
-	- **b)** le propriétaire fera en sorte que ces conditions soient maintenues tant que les équipements seront utilisés dans le cadre des activités autorisées.
+- **(2)** [Abrogé, 2014, ch. 13, art. 65]
 
 **Modification**
 
@@ -2857,7 +2924,7 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 **Immunité**
 
 - **(4)** L’Office ou son délégué ne peut être tenu pour responsable à l’égard de quiconque du seul fait d’avoir délivré une autorisation sur la foi d’une déclaration.
-> 1992, ch. 35, art. 98.
+> 1992, ch. 35, art. 98; 2014, ch. 13, art. 65.
 
 
 
@@ -2912,8 +2979,8 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 **Désignation**
 
-**144** L’Office peut désigner le premier dirigeant ou toute autre personne à titre de délégué à la sécurité ou de délégué à l’exploitation. La même personne peut cumuler les deux fonctions.
-> 1988, ch. 28, art. 144; 1992, ch. 35, art. 99.
+**144** L’Office peut désigner une personne à titre de délégué à l’exploitation et une autre à titre de délégué à la sécurité, le premier dirigeant ne pouvant toutefois exercer cette dernière fonction.
+> 1988, ch. 28, art. 144; 1992, ch. 35, art. 99; 2014, ch. 13, art. 66.
 
 
 
@@ -2925,8 +2992,8 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 **Ordres et arrêtés**
 
-**144.1** Pour l’application de la présente loi, les ordres et arrêtés pris par les agents de la sécurité, les agents du contrôle de l’exploitation, le délégué à la sécurité, le délégué à l’exploitation ou le Comité ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
-> 1992, ch. 35, art. 99.
+**144.1** Pour l’application de la présente loi, ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) les ordres et arrêtés pris par les agents de la sécurité, les agents du contrôle de l’exploitation, le délégué à la sécurité, le délégué à l’exploitation ou le Comité, ou un agent de santé et de sécurité au sens du paragraphe 210.001(1).
+> 1992, ch. 35, art. 99; 2014, ch. 13, art. 67.
 
 
 
@@ -2976,7 +3043,7 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 **Mandats renouvelables**
 
 - **(3)** Les membres peuvent recevoir un nouveau mandat, à des fonctions identiques ou non.
-> 1988, ch. 28, art. 145; 2003, ch. 22, art. 124(A).
+> 1988, ch. 28, art. 145; 2003, ch. 22, art. 124(A); 2014, ch. 13, art. 91(A).
 
 
 
@@ -3149,8 +3216,8 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 **155** 
 
 - **(1)** Le délégué à la sécurité et le délégué à l’exploitation peuvent :
-	- **a)** autoriser l’utilisation d’autres équipements, méthodes, mesures ou normes que ceux requis par règlement s’ils sont convaincus que le niveau de sécurité, de protection de l’environnement et de rationalisation est équivalent au niveau qui serait atteint si le règlement était observé;
-	- **b)** accorder toute dérogation à une obligation réglementaire en matière d’équipement, de méthodes, de mesures ou de normes s’ils sont satisfaits du niveau de sécurité, de protection de l’environnement et de rationalisation qui sera atteint en dépit de la dérogation.
+	- **a)** autoriser l’utilisation d’autres équipements, méthodes, mesures ou normes que ceux requis par tout règlement pris en vertu de l’article 153, s’ils sont convaincus que le niveau de sécurité, de protection de l’environnement et de rationalisation est équivalent au niveau qui serait atteint si le règlement était observé;
+	- **b)** accorder toute dérogation à une obligation prévue par tout règlement pris en vertu de l’article 153 en matière d’équipement, de méthodes, de mesures ou de normes s’ils sont satisfaits du niveau de sécurité, de protection de l’environnement et de rationalisation qui sera atteint en dépit de la dérogation.
 
 **Autorisation d’un délégué**
 
@@ -3159,7 +3226,7 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 **Précision**
 
 - **(3)** Nul ne contrevient aux règlements s’il se conforme à l’autorisation ou à la dérogation donnée en vertu des paragraphes (1) ou (2).
-> 1988, ch. 28, art. 155; 1992, ch. 35, art. 102.
+> 1988, ch. 28, art. 155; 1992, ch. 35, art. 102; 2014, ch. 13, art. 68.
 
 
 
@@ -3177,36 +3244,7 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 
 
-
-**Définitions**
-
-**157** 
-
-- **(1)** Les définitions qui suivent s’appliquent au présent article.
-
-***lois sociales*** Les lois, dans leur version modifiée, intitulées Labour Standards Code, chapitre 10 des lois intitulées Statutes of Nova Scotia, 1972, Occupational Health and Safety Act, chapitre 3 des lois intitulées Statutes of Nova Scotia, 1985, Trade Union Act, chapitre 19 des lois intitulées Statutes of Nova Scotia, 1972, Workers’ Compensation Act, chapitre 65 des lois intitulées Statutes of Nova Scotia, 1968 et telle autre loi de la législature provinciale prévue par règlement.
-
-***ouvrage en mer*** Sont compris parmi les ouvrages en mer, les navires, les unités de forage en mer, les stations de pompage, les plates-formes de chargement, de production ou d’atterrissage, les installations sous-marines et les unités de logement ou d’entreposage, les autres ouvrages désignés — ou qui font partie d’une catégorie désignée — en application de l’alinéa (5) a); ne sont pas visés les navires qui les desservent.
-
-**Application des lois sociales**
-
-- **(2)** Les lois sociales et leurs règlements s’appliquent aux ouvrages en mer qui sont dans la zone extracôtière à l’occasion de la recherche, notamment par forage, de la production, de la rationalisation de l’exploitation ou de la transformation d’hydrocarbures dans cette zone.
-
-**Dérogation**
-
-- **(3)** Par dérogation au paragraphe (2), les dispositions législatives ou réglementaires qui y sont visées portant sur des aspects qui peuvent faire l’objet de règlements pris en application des alinéas 153(1) d), m), o) ou p) avant l’entrée en vigueur de l’article 103 de la Loi modifiant la Loi sur la production et la rationalisation de l’exploitation du pétrole et du gaz et d’autres lois en conséquence ou pris au titre de toute disposition de la présente loi portant sur l’hygiène et la sécurité professionnelles ne s’appliquent pas à ces ouvrages tant qu’ils se trouvent dans la zone extracôtière aux fins visées à ce paragraphe.
-
-**Exclusion de certaines dispositions du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md)**
-
-- **(4)** Par dérogation au paragraphe 123(1) du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) et à toute autre loi fédérale, les parties II et III de ce code ne s’appliquent pas à ces ouvrages tant qu’ils se trouvent dans la zone extracôtière aux fins visées au paragraphe (2) et la partie I de ce code ne s’applique pas à ces ouvrages qui y sont, ou doivent y être fixés en permanence sur ou dans le sol marin ou placés sur le sol marin en permanence, tant qu’ils le sont aux fins visées au paragraphe (2); toutefois, la loi intitulée Trade Union Act, chapitre 19 des lois intitulées Statutes of Nova Scotia, 1972, s’applique, dans sa version modifiée, à ces derniers ouvrages.
-
-**Règlement**
-
-- **(5)** Sous réserve de l’article 6, le gouverneur en conseil peut, par règlement :
-	- **a)** désigner les ouvrages ou catégories d’ouvrages pour l’application de la définition d’***ouvrage en mer***;
-	- **b)** prévoir, pour l’application du paragraphe (2) telle loi de la législature de la province ou soustraire celle-ci à l’application du même paragraphe.
-> 1988, ch. 28, art. 157; 1992, ch. 35, art. 103; 1999, ch. 31, art. 33.
-
+**157** [Abrogé, 2014, ch. 13, art. 69]
 
 
 
@@ -3381,7 +3419,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 **Mesures à prendre**
 
-- **(3)** Les personnes visées au paragraphe (2) sont tenues, dans les plus brefs délais possible, de prendre toutes mesures voulues et compatibles avec la sécurité et la protection de l’environnement en vue d’empêcher d’autres rejets, de remédier à la situation créée par les rejets et de réduire ou limiter les dommages ou dangers à la vie, à la santé, aux biens ou à l’environnement qui en résultent effectivement ou éventuellement.
+- **(3)** Elles sont tenues, dans les plus brefs délais possibles, de prendre toutes mesures voulues et compatibles avec la sécurité et la protection de la santé et de l’environnement en vue d’empêcher d’autres rejets, de remédier à la situation créée par les rejets et de réduire ou limiter les dommages ou dangers qui en résultent effectivement ou qui pourraient vraisemblablement en résulter.
 
 **Prise de mesures d’urgence**
 
@@ -3412,7 +3450,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Responsabilité personnelle**
 
 - **(9)** Les personnes qui prennent les mesures visées au présent article n’encourent, sauf décision injustifiable prouvée, aucune responsabilité personnelle pour les actes ou omissions découlant de l’application de cet article.
-> 1988, ch. 28, art. 166; 1992, ch. 35, art. 111.
+> 1988, ch. 28, art. 166; 1992, ch. 35, art. 111; 2014, ch. 13, art. 70.
 
 
 
@@ -3959,25 +3997,126 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 
 
-**Agents**
+**Désignation des agents de la sécurité**
 
-**193** Les agents de la sécurité et les agents du contrôle de l’exploitation nécessaires à l’application de la présente partie et de ses règlements sont nommés par l’Office.
-> 1988, ch. 28, art. 193; 1992, ch. 35, art. 117.
+**193** 
+
+- **(1)** Sous réserve du paragraphe (4), le ministre fédéral et le ministre provincial désignent conjointement à titre d’agent de la sécurité, pour l’exécution et le contrôle d’application de la présente partie, l’individu dont le nom leur a été recommandé par l’Office; la désignation est faite dans les trente jours suivant la date à laquelle ils ont reçu la recommandation.
+
+**Désignation des agents du contrôle de l’exploitation**
+
+- **(2)** Sous réserve du paragraphe (4), le ministre fédéral et le ministre provincial désignent conjointement à titre d’agent du contrôle de l’exploitation, pour l’exécution et le contrôle d’application de la présente partie, l’individu dont le nom leur a été recommandé par l’Office; la désignation est faite dans les trente jours suivant la date à laquelle ils ont reçu la recommandation.
+
+**Avis**
+
+- **(3)** Les ministres avisent l’Office par écrit et sans délai de toute désignation.
+
+**Exception**
+
+- **(4)** Les ministres s’abstiennent de procéder à la désignation s’ils ne sont pas convaincus que l’individu est compétent pour exercer les attributions d’un agent de la sécurité ou d’un agent du contrôle de l’exploitation, selon le cas, en vertu de la présente partie; le cas échéant, ils en avisent l’Office par écrit sans délai.
+
+**Indemnisation**
+
+- **(5)** Tout individu désigné en vertu des paragraphes (1) ou (2) qui n’est pas un employé de l’Office est, pour l’application de l’article 17, assimilé à un membre de son personnel.
+> 1988, ch. 28, art. 193; 1992, ch. 35, art. 117; 2014, ch. 13, art. 72.
 
 
 
 
 
-**Contrôle d’application**
+**Ordres pour vérifier le respect**
 
-**194** Dans le but de faire observer la présente partie et ses règlements, le délégué à la sécurité, le délégué à l’exploitation et les agents peuvent, à tout moment convenable :
-- **a)** entrer, éventuellement accompagnés des personnes qu’ils estiment nécessaires, en tous lieux — terrains, bâtiments, installations et véhicules, navires et aéronefs y compris — affectés à des activités visées par la présente partie et y procéder à des inspections, examens, essais ou vérifications ou ordonner au responsable des lieux de les effectuer;
-- **b)** prendre des photographies et faire des croquis;
-- **c)** ordonner que les lieux ou objets qu’ils précisent ne soient pas dérangés pendant le délai qu’ils fixent;
-- **d)** exiger la production, pour examen ou reproduction, de livres, dossiers, documents, licences ou permis requis par la présente partie ou ses règlements;
-- **e)** prélever des échantillons ou recueillir des renseignements et faire ou faire faire tous essais ou examens voulus;
-- **f)** obliger le responsable des lieux, ou quiconque y a les connaissances voulues pour procéder aux examens, essais ou vérifications, à fournir des renseignements complets et exacts, oralement ou par écrit et en la forme demandée.
-> 1988, ch. 28, art. 194; 1992, ch. 35, art. 117.
+**194** 
+
+- **(1)** Dans le but de vérifier le respect de la présente partie, le délégué à la sécurité, le délégué à l’exploitation, l’agent de la sécurité ou l’agent du contrôle de l’exploitation peut ordonner à toute personne responsable d’un lieu affecté à des activités visées par la présente partie ou d’un autre lieu où il a des motifs raisonnables de croire que s’y trouve toute chose visée par la présente partie de prendre l’une ou l’autre des mesures suivantes :
+	- **a)** inspecter toute chose dans le lieu;
+	- **b)** poser des questions ou effectuer des essais ou des activités de surveillance dans le lieu;
+	- **c)** prendre des photos ou effectuer des mesures, des croquis ou des enregistrements dans le lieu;
+	- **d)** accompagner le délégué ou l’agent ou lui prêter assistance lorsque le délégué ou l’agent se trouve dans le lieu;
+	- **e)** communiquer tout document ou toute chose qui est en sa possession ou sous sa responsabilité, ou établir un document à partir de données qui sont en sa possession ou sous sa responsabilité et le communiquer, dans la forme et selon les modalités précisées par le délégué ou l’agent;
+	- **f)** fournir des renseignements relatifs à toute question visée par la présente partie — pour autant qu’il les connaisse — ou établir un document à partir de ces renseignements et le communiquer, dans la forme et selon les modalités précisées par le délégué ou l’agent;
+	- **g)** veiller à ce que tout ou partie du lieu — ou toute chose s’y trouvant — qui est sous sa responsabilité ne soit pas dérangé pendant la période raisonnable que le délégué ou l’agent fixe pour l’exercice de tout pouvoir prévu au présent article;
+	- **h)** emporter du lieu et fournir au délégué ou à l’agent toute chose aux fins d’essai ou d’examen ou pour en faire des copies, selon les modalités précisées.
+
+**Pouvoirs et accès**
+
+- **(2)** Dans le but de vérifier le respect de la présente partie et sous réserve de l’article 194.2, le délégué à la sécurité, le délégué à l’exploitation, l’agent de la sécurité ou l’agent du contrôle de l’exploitation peut entrer dans un lieu affecté à des activités visées par la présente partie ou dans un autre lieu où il a des motifs raisonnables de croire que s’y trouve une chose visée par la présente partie; il peut, à cette fin :
+	- **a)** inspecter toute chose dans le lieu;
+	- **b)** poser des questions ou effectuer des essais ou des activités de surveillance dans le lieu;
+	- **c)** prélever ou faire prélever des échantillons, aux fins d’essai ou d’examen, dans le lieu et en disposer;
+	- **d)** emporter ou faire emporter du lieu toute chose aux fins d’essai ou d’examen ou pour en faire des copies;
+	- **e)** lorsqu’il se trouve dans le lieu, prendre ou faire prendre des photos, effectuer ou faire effectuer des mesures, des croquis ou des enregistrements ou faire usage, directement ou indirectement, des systèmes de saisie d’images se trouvant dans le lieu;
+	- **f)** faire usage, directement ou indirectement, de tout système informatique se trouvant dans le lieu pour examiner les données qu’il contient ou auxquelles il donne accès;
+	- **g)** établir ou faire établir un document à partir de ces données;
+	- **h)** faire usage, directement ou indirectement, du matériel de reproduction se trouvant dans le lieu;
+	- **i)** lorsqu’il se trouve dans le lieu, se faire accompagner par des individus ou obtenir l’assistance des personnes dont il estime le concours nécessaire;
+	- **j)** avoir des entretiens privés avec tout individu qui se trouve dans le lieu et qui y consent.
+
+**Précision**
+
+- **(3)** Il est entendu que le délégué ou l’agent peut, après être entré dans un lieu en vertu du paragraphe (2), donner tout ordre prévu à l’un des alinéas (1)a) à h) à tout individu qui s’y trouve.
+
+**Restitution des choses emportées**
+
+- **(4)** Toute chose emportée au titre des alinéas (1)h) ou (2)d) est restituée sur demande à la personne intéressée une fois que les essais, les examens ou la préparation des copies sont terminés, à moins qu’elle ne soit requise dans le cadre de poursuites engagées sous le régime de la présente partie.
+> 1988, ch. 28, art. 194; 1992, ch. 35, art. 117; 2014, ch. 13, art. 72.
+
+
+
+
+
+**Rapports  — titulaire de l’autorisation**
+
+**194.1** Le délégué à la sécurité, le délégué à l’exploitation, l’agent de la sécurité ou l’agent du contrôle de l’exploitation remet au titulaire de l’autorisation des rapports écrits concernant toute chose qu’il inspecte ou ordonne à une personne d’inspecter, ou tout essai ou toute activité de surveillance qu’il effectue ou ordonne à une personne d’effectuer dans le but de vérifier le respect de la présente partie dans un lieu affecté aux activités visées dans l’autorisation.
+> 2014, ch. 13, art. 72.
+
+
+
+
+
+**Local d’habitation**
+
+**194.2** 
+
+- **(1)** Si le lieu visé au paragraphe 194(2) est un local d’habitation :
+	- **a)** le délégué à l’exploitation et l’agent du contrôle de l’exploitation ne peuvent y entrer pour vérifier le respect de la présente partie;
+	- **b)** le délégué à la sécurité et l’agent de la sécurité ne peuvent y entrer sans le consentement de l’occupant, sauf :
+		- **(i)** pour exécuter le mandat prévu au paragraphe (4),
+		- **(ii)** pour vérifier que la structure du local d’habitation, s’il se trouve sur un ouvrage en mer au sens du paragraphe 210.001(1), est en bon état.
+
+**Préavis**
+
+- **(2)** L’agent ou le délégué est tenu de donner à l’occupant un préavis raisonnable avant d’entrer dans le local d’habitation en vertu du sous-alinéa (1)b)(ii).
+
+**Exception**
+
+- **(3)** Malgré le sous-alinéa (1)b)(ii), l’agent ou le délégué ne peut, sans le consentement de l’occupant, ouvrir un casier se trouvant dans le local d’habitation qui est attribué à l’occupant et qui est muni d’un dispositif de verrouillage, sauf s’il est muni du mandat prévu au paragraphe (4).
+
+**Délivrance du mandat**
+
+- **(4)** Sur demande *ex parte*, un juge de paix peut décerner un mandat autorisant, sous réserve des conditions éventuellement fixées, l’agent de la sécurité qui y est nommé ou le délégué à la sécurité à entrer dans un local d’habitation s’il est convaincu, sur la foi d’une dénonciation sous serment, que les conditions ci-après sont réunies :
+	- **a)** le local d’habitation est un lieu visé au paragraphe 194(2);
+	- **b)** l’entrée est nécessaire à la vérification du respect de la présente partie;
+	- **c)** soit l’occupant a refusé l’entrée à l’agent ou au délégué, soit il y a des motifs raisonnables de croire que tel sera le cas ou qu’il est impossible d’obtenir le consentement de l’occupant.
+
+**Ouverture d’un casier**
+
+- **(5)** Le mandat peut autoriser, sous réserve des conditions éventuellement fixées, l’ouverture d’un casier visé au paragraphe (3) si le juge de paix est convaincu, sur la foi d’une dénonciation sous serment, que les conditions ci-après sont réunies :
+	- **a)** l’ouverture du casier est nécessaire à la vérification du respect de la présente partie;
+	- **b)** soit l’occupant auquel le casier a été attribué a refusé d’ouvrir le casier, soit il y a des motifs raisonnables de croire que tel sera le cas ou qu’il est impossible d’obtenir le consentement de l’occupant.
+
+**Usage de la force**
+
+- **(6)** Le délégué à la sécurité ou l’agent de la sécurité ne peut recourir à la force dans l’exécution du mandat que si celui-ci en autorise expressément l’usage.
+
+**Télémandats**
+
+- **(7)** Le délégué à la sécurité ou l’agent de la sécurité peut demander que le mandat prévu au présent article lui soit délivré par téléphone ou à l’aide d’un autre moyen de télécommunication, sur le fondement d’une dénonciation transmise par l’un quelconque de ces moyens; l’article 487.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) s’applique alors avec les adaptations nécessaires.
+
+**Définition de local d’habitation**
+
+- **(8)** Pour l’application du présent article, ***local d’habitation*** s’entend de toute cabine sur un ouvrage en mer, au sens du paragraphe 210.001(1), fournie afin de pourvoir à l’hébergement des employés, au sens du paragraphe 210.001(1), et de toute pièce qui est dotée de toilettes ou d’un urinoir et qui sert à l’usage exclusif des occupants de cette cabine.
+> 2014, ch. 13, art. 72.
 
 
 
@@ -3986,7 +4125,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Certificat**
 
 **195** L’Office remet à chaque agent ou délégué un certificat attestant sa qualité, que celui-ci présente sur demande au responsable des lieux visités.
-> 1988, ch. 28, art. 195; 1992, ch. 35, art. 117.
+> 1988, ch. 28, art. 195; 1992, ch. 35, art. 117; 2014, ch. 13, art. 73(A).
 
 
 
@@ -3994,8 +4133,16 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 **Assistance**
 
-**196** Le propriétaire et le responsable des lieux, ainsi que quiconque s’y trouve, sont tenus de prêter à la personne qui procède à la visite toute assistance voulue dans l’exercice de ses fonctions et de se conformer à ses instructions.
-> 1988, ch. 28, art. 196; 1992, ch. 35, art. 117.
+**196** 
+
+- **(1)** Le propriétaire et toute personne responsable du lieu visité en vertu du paragraphe 194(2), ainsi que quiconque s’y trouve, prêtent toute l’assistance que le délégué à la sécurité, le délégué à l’exploitation, l’agent de la sécurité ou l’agent du contrôle de l’exploitation peut valablement exiger pour lui permettre de vérifier le respect de la présente partie et lui fournissent les documents, données et renseignements qu’il peut valablement exiger.
+
+**Prise en charge**
+
+- **(2)** Si le lieu visé au paragraphe 194(2) est un ouvrage en mer au sens du paragraphe 210.001(1), la personne qui en est responsable fournit au délégué ou à l’agent, ainsi qu’à tout individu qui les accompagne, sans frais et dans des conditions convenables :
+	- **a)** s’agissant d’ouvrages en mer dans la zone extracôtière, le transport entre le lieu habituel d’embarquement à terre et l’ouvrage en mer, entre l’ouvrage en mer et le lieu habituel de débarquement à terre ou entre des ouvrages en mer;
+	- **b)** les repas et l’hébergement sur ces ouvrages en mer.
+> 1988, ch. 28, art. 196; 1992, ch. 35, art. 117; 2014, ch. 13, art. 74.
 
 
 
@@ -4003,8 +4150,71 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 **Entrave et fausses déclarations**
 
-**197** Lorsque le délégué à la sécurité, le délégué à l’exploitation ou l’agent agit dans l’exercice de ses fonctions, ou qu’une personne agit à sa demande, il est interdit d’entraver son action ou de lui faire, oralement ou par écrit, une déclaration fausse ou trompeuse.
-> 1988, ch. 28, art. 197; 1992, ch. 35, art. 117.
+**197** Il est interdit d’entraver l’action du délégué à la sécurité, du délégué à l’exploitation ou de l’agent dans l’exercice de ses fonctions ou dans l’accomplissement de ses obligations, ou de lui faire, oralement ou par écrit, une déclaration fausse ou trompeuse.
+> 1988, ch. 28, art. 197; 1992, ch. 35, art. 117; 2014, ch. 13, art. 74.
+
+
+
+
+
+**Mandat**
+
+**197.1** 
+
+- **(1)** Sur demande *ex parte*, le juge de paix peut décerner un mandat s’il est convaincu, sur la foi d’une dénonciation faite sous serment, qu’il y a des motifs raisonnables de croire à la présence dans un lieu d’une chose qui servira de preuve ou fournira des renseignements relativement à une infraction à la présente partie.
+
+**Pouvoirs**
+
+- **(2)** Le mandat peut autoriser, sous réserve des conditions éventuellement fixées, le délégué à la sécurité, le délégué à l’exploitation, l’agent de la sécurité ou l’agent du contrôle de l’exploitation et tout autre individu qui y est nommé à perquisitionner dans le lieu à toute heure et à saisir la chose en question ou, selon le cas, pour les besoins de la perquisition :
+	- **a)** à effectuer des examens, des essais ou des activités de surveillance;
+	- **b)** à prélever des échantillons aux fins d’essai ou d’examen et à en disposer;
+	- **c)** à prendre des photos, à effectuer des mesures, des croquis ou des enregistrements ou à faire usage des systèmes de saisie d’images se trouvant dans le lieu.
+
+**Perquisition sans mandat**
+
+- **(3)** Le délégué à la sécurité, le délégué à l’exploitation, l’agent de la sécurité ou l’agent du contrôle de l’exploitation peut exercer sans mandat les pouvoirs mentionnés au présent article lorsque l’urgence de la situation rend l’obtention du mandat irréalisable, sous réserve que les conditions de délivrance de celui-ci soient réunies.
+
+**Situation d’urgence**
+
+- **(4)** Il y a notamment urgence dans les cas où le délai d’obtention du mandat risquerait soit de mettre en danger l’environnement ou la vie humaine, soit d’entraîner la perte ou la destruction d’éléments de preuve.
+
+**Usage d’un système informatique**
+
+- **(5)** L’individu autorisé à fouiller des données contenues dans un ordinateur se trouvant dans le lieu peut :
+	- **a)** utiliser ou faire utiliser tout ordinateur se trouvant dans le lieu pour vérifier les données que celui-ci contient ou auxquelles il donne accès;
+	- **b)** à partir de ces données, reproduire ou faire reproduire le document sous forme d’imprimé ou toute autre forme intelligible;
+	- **c)** saisir tout imprimé ou sortie de données pour examen ou reproduction;
+	- **d)** utiliser ou faire utiliser le matériel de reproduction dans le lieu pour faire des copies des données.
+
+**Obligation du responsable du lieu**
+
+- **(6)** Sur présentation du mandat, le responsable du lieu qui fait l’objet de la perquisition permet à l’individu qui y procède d’exercer les pouvoirs prévus au paragraphe (5).
+
+**Prise en charge**
+
+- **(7)** Le responsable d’un ouvrage en mer au sens du paragraphe 210.001(1) fournit à l’individu qui exécute le mandat, sans frais et dans des conditions convenables :
+	- **a)** s’agissant d’ouvrages en mer dans la zone extracôtière, le transport aller-retour entre l’ouvrage en mer et le lieu à partir duquel des services de transport vers cet ouvrage en mer sont habituellement fournis ou entre des ouvrages en mer;
+	- **b)** les repas et l’hébergement sur l’ouvrage en mer.
+
+**Télémandats**
+
+- **(8)** Le délégué à la sécurité, le délégué à l’exploitation, l’agent de la sécurité ou l’agent du contrôle de l’exploitation peut demander que le mandat prévu au présent article lui soit délivré par téléphone ou à l’aide d’un autre moyen de télécommunication, sur le fondement d’une dénonciation transmise par l’un quelconque de ces moyens; l’article 487.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) s’applique alors avec les adaptations nécessaires.
+> 2014, ch. 13, art. 74.
+
+
+
+
+
+**Entreposage et déplacement**
+
+**197.2** 
+
+- **(1)** Le délégué à la sécurité, le délégué à l’exploitation, l’agent de la sécurité ou l’agent du contrôle de l’exploitation peut entreposer une chose saisie en vertu de la présente partie sur le lieu même de la saisie aux frais du propriétaire ou de la personne qui a légitimement droit à la possession; il peut aussi, à son appréciation, la faire transférer, aux frais de l’un ou l’autre, dans un autre lieu.
+
+**Objets périssables**
+
+- **(2)** Si la chose saisie est périssable, le délégué à la sécurité, le délégué à l’exploitation, l’agent de la sécurité ou l’agent du contrôle de l’exploitation peut, à son appréciation, en disposer, notamment par destruction. La disposition s’opère au profit du receveur général.
+> 2014, ch. 13, art. 74.
 
 
 
@@ -4047,7 +4257,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Interdiction**
 
 - **(9)** II est interdit de poursuivre une activité visée par un ordre, sauf conformément à celui-ci ou tant qu’il n’a pas été infirmé par le tribunal.
-> 1988, ch. 28, art. 198; 1992, ch. 35, art. 117; 1999, ch. 31, art. 35.
+> 1988, ch. 28, art. 198; 1992, ch. 35, art. 117; 1999, ch. 31, art. 35; 2014, ch. 13, art. 75(A).
 
 
 
@@ -4056,7 +4266,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Préséance**
 
 **198.1** Les ordres de l’agent de la sécurité ou du délégué à la sécurité l’emportent, dans la mesure de leur incompatibilité, sur les ordres de l’agent du contrôle de l’exploitation ou du délégué à l’exploitation.
-> 1992, ch. 35, art. 117.
+> 1992, ch. 35, art. 117; 2014, ch. 13, art. 76(A).
 
 
 
@@ -4081,8 +4291,8 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 **Urgence**
 
-- **(3)** Dans les cas d’urgence visés par règlement, les pouvoirs du chargé de projet s’étendent aux exploitants des véhicules, navires et aéronefs qui ont accès aux installations ou qui se trouvent à proximité de celles-ci.
-> 1992, ch. 35, art. 117.
+- **(3)** Dans les cas d’urgence visés par règlement, les pouvoirs du chargé de projet s’étendent aux responsables des bâtiments, véhicules et aéronefs compris, qui ont accès aux installations ou qui se trouvent à proximité de celles-ci.
+> 1992, ch. 35, art. 117; 2014, ch. 13, art. 77.
 
 
 
@@ -4098,11 +4308,11 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 - **(1)** Commet une infraction quiconque :
 	- **a)** contrevient à la présente partie ou aux règlements;
-	- **b)** sciemment insère une inscription ou une déclaration fausse dans un rapport, dossier ou autre document exigé par la présente partie ou ses règlements ou par un arrêté pris ou un ordre donné sous leur régime;
-	- **c)** sciemment détruit, endommage ou falsifie un dossier ou autre document exigé par la présente partie ou ses règlements, ou par un arrêté pris ou un ordre donné sous leur régime;
+	- **b)** insère une inscription ou une déclaration fausse dans un rapport, dossier ou autre document exigé par la présente partie ou ses règlements, ou par un arrêté pris ou un ordre donné sous leur régime;
+	- **c)** détruit, endommage ou falsifie un dossier ou autre document exigé par la présente partie ou ses règlements, ou par un arrêté pris ou un ordre donné sous leur régime;
 	- **d)** produit des hydrocarbures en provenance d’un gisement ou d’un champ aux termes d’un accord d’union, au sens de la section II, ou d’un accord d’union modifié, sans avoir déposé l’accord — original ou modifié — auprès du délégué à l’exploitation;
-	- **e)** entreprend ou poursuit une activité contrairement à l’autorisation visée à l’alinéa 142(1) b) ou aux conditions ou approbations liées à celle-ci ou sans avoir obtenu une telle autorisation;
-	- **f)** contrevient soit aux ordres ou arrêtés de l’agent de la sécurité, du délégué à la sécurité, de l’agent du contrôle de l’exploitation, du délégué à l’exploitation, ou du chargé de projet, soit aux arrêtés du Comité.
+	- **e)** entreprend ou poursuit une activité sans avoir obtenu l’autorisation visée à l’alinéa 142(1)b) ou contrairement aux conditions ou approbations prévues par les dispositions de la présente partie ou ses règlements et liées à celle-ci;
+	- **f)** contrevient soit aux ordres ou arrêtés de l’agent de la sécurité, du délégué à la sécurité, de l’agent du contrôle de l’exploitation ou du délégué à l’exploitation, soit aux ordres du chargé de projet, soit aux arrêtés du Comité.
 
 **Peines**
 
@@ -4110,17 +4320,103 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 	- **a)** par procédure sommaire, une amende maximale de cent mille dollars et un emprisonnement maximal d’un an, ou l’une de ces peines;
 	- **b)** par mise en accusation, une amende maximale d’un million de dollars et un emprisonnement maximal de cinq ans, ou l’une de ces peines.
 
-- **(3) et (4)** [Abrogés, 1992, ch. 35, art. 118]
+**Disculpation : précautions voulues**
+
+- **(3)** Nul ne peut être déclaré coupable d’une infraction prévue à la présente partie s’il prouve qu’il a pris toutes les précautions voulues pour prévenir sa perpétration.
+
+- **(4)** [Abrogé, 1992, ch. 35, art. 118]
 
 **Absence de présomption de gaspillage**
 
 - **(5)** La personne qui fait du gaspillage au sens des alinéas 159(2) f) ou g) n’est censée commettre une infraction au paragraphe 159(1) que si le Comité lui a ordonné de prendre des mesures en vue de prévenir le gaspillage et qu’elle ne l’a pas fait.
-> 1988, ch. 28, art. 199; 1992, ch. 35, art. 118.
+> 1988, ch. 28, art. 199; 1992, ch. 35, art. 118; 2014, ch. 13, art. 78.
 
 
 
 
-**200** [Abrogé, 1992, ch. 35, art. 119]
+
+**Personnes morales et leurs dirigeants**
+
+**200** 
+
+- **(1)** En cas de perpétration par une personne morale d’une infraction à la présente partie, ceux de ses dirigeants, administrateurs, mandataires ou autres individus exerçant des fonctions de gestion ou de surveillance pour elle qui en ont ordonné ou autorisé la perpétration, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de l’infraction et encourent, sur déclaration de culpabilité, la peine prévue, que la personne morale ait été ou non poursuivie ou déclarée coupable.
+
+**Infractions commises par les employés et mandataires**
+
+- **(2)** Dans toute poursuite visant une infraction à la présente partie, il suffit, pour prouver l’infraction, d’établir qu’elle a été commise par un employé ou un mandataire de l’accusé, que l’employé ou le mandataire ait été ou non identifié ou poursuivi.
+> 1988, ch. 28, art. 200; 1992, ch. 35, art. 119; 2014, ch. 13, art. 79.
+
+
+
+
+
+**Exclusion de l’emprisonnement**
+
+**200.1** La peine d’emprisonnement est exclue en cas de défaut de paiement de l’amende infligée pour une infraction à la présente partie sur déclaration de culpabilité par procédure sommaire.
+> 2014, ch. 13, art. 79.
+
+
+
+
+
+**Ordonnance du tribunal**
+
+**200.2** 
+
+- **(1)** En plus de toute peine prévue par la présente partie et compte tenu de la nature de l’infraction ainsi que des circonstances de sa perpétration, le tribunal peut, par ordonnance, imposer à la personne déclarée coupable d’une infraction à la présente partie tout ou partie des obligations suivantes :
+	- **a)** s’abstenir de tout acte ou de toute activité risquant d’entraîner, de l’avis du tribunal, la continuation de l’infraction ou la récidive;
+	- **b)** prendre les mesures que le tribunal estime indiquées pour empêcher tout préjudice ou dommage découlant des faits qui ont mené à la déclaration de culpabilité ou pour y remédier;
+	- **c)** publier, à ses frais, selon les modalités fixées par le tribunal, les faits liés à l’infraction;
+	- **d)** fournir au délégué à la sécurité, sur demande présentée par lui dans les trois ans suivant la déclaration de culpabilité, les renseignements que le tribunal estime indiqués en l’occurrence sur ses activités;
+	- **e)** verser à l’Office une somme que le tribunal estime indiquée, en vue de la recherche, de l’éducation et de la formation en matière de protection de l’environnement, de rationalisation de l’exploitation ou de sécurité des opérations pétrolières;
+	- **f)** exécuter des travaux d’intérêt collectif aux conditions raisonnables que peut fixer le tribunal;
+	- **g)** donner un cautionnement ou déposer auprès du tribunal une somme d’argent que celui-ci estime indiquée en garantie de l’observation, en tout ou en partie, des obligations imposées ou conditions fixées au titre d’une ordonnance rendue en vertu du présent article;
+	- **h)** se conformer aux autres conditions que le tribunal estime indiquées en l’occurrence pour assurer sa bonne conduite et empêcher toute récidive et la perpétration d’autres infractions à la présente partie.
+
+**Prise d’effet et durée**
+
+- **(2)** Toute ordonnance rendue en vertu du paragraphe (1) prend effet soit à la date où elle est prononcée, soit à la date fixée par le tribunal, et elle demeure en vigueur pendant trois ans au plus.
+
+**Publication**
+
+- **(3)** En cas de manquement à l’ordre de publier les faits liés à l’infraction, le délégué à la sécurité peut procéder à la publication et en recouvrer les frais auprès du contrevenant.
+> 2014, ch. 13, art. 79.
+
+
+
+
+
+**Ordonnance de modification des sanctions**
+
+**200.3** 
+
+- **(1)** Le tribunal qui a rendu une ordonnance en vertu du paragraphe 200.2(1) peut, sur demande du délégué à la sécurité ou du contrevenant, accepter de faire comparaître celui-ci et, après avoir entendu les observations de l’un et l’autre, sous réserve du paragraphe (2), modifier l’ordonnance selon ce qui est applicable en l’espèce et lui paraît justifié par tout changement dans la situation du contrevenant :
+	- **a)** en modifiant les obligations imposées ou les conditions fixées dans l’ordonnance ou en prolongeant sa validité, sans toutefois excéder un an;
+	- **b)** en raccourcissant la période de validité de l’ordonnance ou en dégageant le contrevenant, absolument ou partiellement ou pour une durée limitée, de l’obligation de se conformer à telle condition de celle-ci.
+
+**Préavis**
+
+- **(2)** Avant de rendre une ordonnance en vertu du paragraphe (1), le tribunal peut en faire donner préavis aux personnes qu’il juge intéressées; il peut aussi les entendre.
+> 2014, ch. 13, art. 79.
+
+
+
+
+
+**Restriction**
+
+**200.4** Après audition de la demande visée au paragraphe 200.3(1), toute nouvelle demande au titre de l’article 200.3 est subordonnée à l’autorisation du tribunal.
+> 2014, ch. 13, art. 79.
+
+
+
+
+
+**Recouvrement des amendes et autres sommes**
+
+**200.5** En cas de défaut de paiement de l’amende infligée pour une infraction prévue à la présente partie ou d’une somme dont le paiement est ordonné en vertu des paragraphes 200.2(1) ou 200.3(1), le poursuivant peut, par dépôt de la déclaration de culpabilité ou de l’ordonnance auprès de la Cour suprême de la Nouvelle-Écosse, faire tenir pour jugement de cette cour le montant de l’amende ou la somme à payer, y compris les frais éventuels; le jugement est dès lors exécutoire contre l’intéressé comme s’il s’agissait d’un jugement rendu contre lui par cette cour en matière civile.
+> 2014, ch. 13, art. 79.
+
 
 
 
@@ -4143,16 +4439,20 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 
 
-**Prescription**
+**Prescription  — procédure sommaire**
 
-**204** Les poursuites visant une infraction de la présente partie se prescrivent par deux ans à compter de sa perpétration.
+**204** Sauf entente contraire entre le poursuivant et le défendeur, les poursuites par procédure sommaire visant une infraction à la présente partie se prescrivent par trois ans à compter de la date du fait en cause.
+> 1988, ch. 28, art. 204; 2014, ch. 13, art. 80.
+
 
 
 
 
 **Preuve**
 
-**205** Dans les poursuites pour infraction à la présente loi et en l’absence de preuve contraire, une copie de tout arrêté ou autre document respectivement pris ou établi en vertu de la présente loi ou des règlements et signée par la personne autorisée en vertu de la présente loi ou des règlements à le prendre ou à l’établir fait foi, sauf preuve contraire, de son contenu.
+**205** Dans les poursuites pour infraction à la présente partie et en l’absence de preuve contraire, une copie de tout arrêté ou autre document respectivement pris ou établi en vertu de la présente partie ou de ses règlements et signée par la personne autorisée en vertu de la présente partie ou de ses règlements à le prendre ou à l’établir fait foi, sauf preuve contraire, de son contenu.
+> 1988, ch. 28, art. 205; 2014, ch. 13, art. 81(F).
+
 
 
 
@@ -4177,6 +4477,15 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 
 
+**Dénonciation**
+
+**207.1** Toute dénonciation faite sous le régime de la présente partie peut viser plusieurs infractions commises par la même personne, ces infractions pouvant être instruites concurremment et faire l’objet d’une condamnation soit globalement, soit pour l’une ou plusieurs d’entre elles.
+> 2014, ch. 13, art. 82.
+
+
+
+
+
 ### Règlements
 
 
@@ -4194,7 +4503,9 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 **Portée**
 
-**209** La présente loi s’applique aux titres, droits ou intérêts pétroliers ou gaziers acquis ou octroyés avant l’entrée en vigueur du présent article et lie Sa Majesté du chef du Canada ou d’une province.
+**209** La présente partie s’applique aux titres, droits ou intérêts pétroliers ou gaziers acquis ou octroyés avant l’entrée en vigueur du présent article et lie Sa Majesté du chef du Canada ou d’une province.
+> 1988, ch. 28, art. 209; 2014, ch. 13, art. 83(F).
+
 
 
 
@@ -7110,18 +7421,20 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 **211** Les définitions qui suivent s’appliquent à la présente partie.
 
-***Compte de recettes*** Le compte ouvert en application de l’article 219.
+***Compte de recettes*** Le compte ouvert en application de l’article 219. (*Revenue Account*)
 
-***loi sur la taxation des primes d’assurance*** La loi intitulée Nova Scotia Insurance Premiums Tax Act, chapitre 149 des lois intitulées Revised Statutes of Nova Scotia, 1967, dans sa version modifiée.
+***Loi néo-écossaise de l’impôt sur le revenu*** La loi intitulée Income Tax Act, R.S.N.S. 1989, ch. 217, avec ses modifications successives. (*Nova Scotia Income Tax Act*)
 
-***loi sur l’impôt direct*** La loi intitulée Income Tax Act, chapitre 134 des lois intitulées Revised Statutes of Nova Scotia, 1967, dans sa version modifiée.
+***Loi sur la taxation des primes d’assurance*** La loi intitulée Insurance Premiums Tax Act, R.S.N.S. 1989, ch. 232, avec ses modifications successives. (*Insurance Premiums Tax Act*)
 
-***lois sur l’impôt indirect*** Les lois, dans leur version modifiée, intitulées Gasoline and Diesel Oil Tax Act et Health Services Tax Act, respectivement chapitres 116 et 126 des lois intitulées Revised Statutes of Nova Scotia, 1967 et telle autre loi de la législature provinciale, dans sa version modifiée, prévue par règlement.
+***lois sur la taxe à la consommation*** S’entend des articles 2 et 3 et des parties I, IIA et IV de la loi intitulée Revenue Act, S.N.S. 1995-96, ch. 17 et de telle autre loi de la province visée par règlement, avec leurs modifications successives. (*Consumption Tax Acts*)
+> 1988, ch. 28, art. 211; 2014, ch. 13, art. 85.
 
 
 
 
-### Impôts indirects
+
+### Taxe à la consommation
 
 
 
@@ -7129,19 +7442,30 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 **212** 
 
-- **(1)** Sont institués et recouvrés, sous le régime de la présente partie et conformément au paragraphe (3), les montants — impôts, intérêts, amendes et autres — à l’égard de la zone extracôtière qui le seraient sous le régime des lois sur l’impôt indirect si cette zone était située dans la province.
+- **(1)** Sont instituées et recouvrées, sous le régime de la présente partie et conformément au paragraphe (3), les sommes — taxes, intérêts, amendes et autres — à l’égard de la zone extracôtière qui le seraient sous le régime des lois sur la taxe à la consommation si cette zone était située dans la province.
 
 **Exception**
 
-- **(2)** II n’est pas institué d’impôt sous le régime du paragraphe (1) sur les objets imposables sous celui des lois sur l’impôt indirect.
+- **(2)** II n’est pas institué de taxe sous le régime du paragraphe (1) sur les objets imposés sous celui des lois sur la taxe à la consommation.
 
 **Application de la législation néo-écossaise**
 
-- **(3)** Sous réserve des autres dispositions de la présente loi et de ses règlements, les lois sur l’impôt indirect et leurs règlements s’appliquent, compte tenu des adaptations de circonstance, dans le cadre de la présente partie. Notamment, la mention dans ces lois de *Her Majesty in right of the Province*, *Province of Nova Scotia* ou *province* et du ministre responsable de leur application ou du *Provincial Tax Commissioner* vaut mention, respectivement, de Sa Majesté du chef du Canada, de la zone extracôtière et du ministre des Finances.
+- **(3)** Sous réserve des autres dispositions de la présente loi et de ses règlements, les lois sur la taxe à la consommation et les règlements visés au paragraphe (3.1) s’appliquent, avec les adaptations nécessaires, dans le cadre de la présente partie. Notamment, la mention dans ces lois de *Her Majesty in right of the Province*, de *Province* et du ministre responsable de leur application ou du *Provincial Tax Commissioner* vaut mention, respectivement, de Sa Majesté du chef du Canada, de la zone extracôtière et du ministre des Finances.
+
+**Règlements néo-écossais**
+
+- **(3.1)** Les règlements qui suivent s’appliquent dans le cadre du paragraphe (3) :
+	- **a)** ceux pris en vertu des lois sur la taxe à la consommation;
+	- **b)** ceux pris en vertu d’une loi remplacée par une partie de la loi intitulée Revenue Act, S.N.S. 1995-96, ch. 17 et qui est visée par la définition de lois sur la taxe à la consommation prévue à l’article 211, dans la mesure où ils sont en vigueur en vertu de la législation provinciale et de leur compatibilité avec cette partie;
+	- **c)** ceux pris en vertu de la loi intitulée Sales Tax Act, S.N.S. 1996, ch. 31, avec ses modifications successives.
 
 **Obligation**
 
-- **(4)** Le présent article lie les personnes morales mentionnées à l’annexe A de la Loi de 1977 sur les accords fiscaux entre le gouvernement fédéral et les provinces et sur les contributions fédérales en matière d’enseignement postsecondaire et de santé si la province est une province signataire au sens du paragraphe 34(1) de la même loi, ainsi que celles visées à l’annexe B de cette loi.
+- **(4)** Le présent article lie les entités suivantes :
+	- **a)** les personnes morales visées à l’annexe I de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), si la Nouvelle-Écosse est une province signataire au sens du paragraphe 31(1) de cette loi;
+	- **b)** les personnes morales visées à l’annexe II de la même loi.
+> 1988, ch. 28, art. 212; 2014, ch. 13, art. 85.
+
 
 
 
@@ -7154,19 +7478,27 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 **213** 
 
-- **(1)** Sont institués et recouvrés, sous le régime de la présente partie et conformément au paragraphe (3), sur les primes d’assurances reçues par une compagnie pour les biens situés dans la zone extracôtière au moment où la prime est exigible, les montants — taxes, intérêts, amendes et autres — qui le seraient sous le régime de la loi sur la taxation des primes d’assurances si les biens en cause étaient situés dans la province.
+- **(1)** Sont instituées et recouvrées, sous le régime de la présente partie et conformément au paragraphe (3), sur les primes d’assurances reçues par une compagnie pour les biens situés dans la zone extracôtière au moment où la prime est exigible, les sommes — taxes, intérêts, amendes et autres — qui le seraient sous le régime de la Loi sur la taxation des primes d’assurances si les biens en cause étaient situés dans la province.
 
 **Exception**
 
-- **(2)** Il n’est pas institué de taxe sous le régime du paragraphe (1) sur les objets imposables sous celui des lois sur l’imposition des assurances.
+- **(2)** Il n’est pas institué de taxe sous le régime du paragraphe (1) sur les objets imposés sous celui de la Loi sur la taxation des primes d’assurance.
 
-**Application de la législation terre-neuvienne**
+**Application de la législation néo-écossaise**
 
-- **(3)** Sous réserve des autres dispositions de la présente loi et de ses règlements, la loi sur l’imposition des compagnies d’assurances et ses règlements s’appliquent, compte tenu des adaptations de circonstance, dans le cadre de la présente partie. Notamment, la mention dans cette loi de *Her Majesty in right of the Province*, *Province of Nova Scotia* ou *province* et du ministre responsable de leur application ou de *Provincial Secretary* vaut mention, respectivement, de Sa Majesté du chef du Canada, de la zone extracôtière et du ministre des Finances.
+- **(3)** Sous réserve des autres dispositions de la présente loi et de ses règlements, la Loi sur la taxation des primes d’assurance et les règlements visés au paragraphe (3.1) s’appliquent, avec les adaptations nécessaires, dans le cadre de la présente partie. Notamment, la mention dans cette loi de *Province* ou *minister of Consumer affairs* vaut mention, respectivement, de la zone extracôtière et du ministre des Finances.
+
+**Règlements néo-écossais**
+
+- **(3.1)** Les règlements qui suivent s’appliquent dans le cadre du paragraphe (3) :
+	- **a)** ceux pris en vertu de la Loi sur la taxation des primes d’assurance;
+	- **b)** ceux pris en vertu d’une loi remplacée par la Loi sur la taxation des primes d’assurance, dans la mesure où ils sont en vigueur en vertu de la législation provinciale et de leur compatibilité avec la Loi sur la taxation des primes d’assurance.
 
 **Définition de compagnie**
 
-- **(4)** Au présent article, ***compagnie*** a le sens du terme « *insurance company* » de la loi sur la taxation des primes d’assurance.
+- **(4)** Au présent article, ***compagnie*** a le sens du terme *insurance company* à l’article 2 de la Loi sur la taxation des primes d’assurance.
+> 1988, ch. 28, art. 213; 2014, ch. 13, art. 85.
+
 
 
 
@@ -7195,7 +7527,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 **Imputation**
 
-- **(5)** L’accord peut prévoir, selon les modalités déterminées, que tout montant reçu par le gouvernement de la province, sous le régime des articles 212 ou 213, ou des deux, ou sous celui des articles 212 ou 213 et de la loi sur l’impôt indirect ou de la loi sur la taxation des primes d’assurance, peut être imputé sur les montants — impôts, taxes, intérêts, amendes et autres — payables par la personne assujettie sous leur régime en dépit de toute indication contraire de celle-ci ou l’absence d’indication.
+- **(5)** L’accord peut prévoir, selon les modalités déterminées, que toute somme reçue par le gouvernement de la province, sous le régime des articles 212 ou 213, ou des deux, ou sous celui des articles 212 ou 213 et des lois sur la taxe à la consommation ou de la Loi sur la taxation des primes d’assurance, peut être imputée sur les sommes — impôts, taxes, intérêts, amendes et autres — à payer par la personne assujettie sous leur régime en dépit de toute indication contraire de celle-ci ou l’absence d’indication.
 
 **Libération**
 
@@ -7204,6 +7536,8 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Preuve d’une disposition de l’accord fiscal**
 
 - **(7)** Un document, censé être un accord fiscal, qui est soit publié dans la Gazette du Canada, soit certifié comme tel par le receveur général, le sous-receveur général ou le ministre des Finances, ou pour le compte de ceux-ci, fait, sauf preuve contraire, foi de son contenu et est admissible en preuve sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du certificateur.
+> 1988, ch. 28, art. 214; 2014, ch. 13, art. 86.
+
 
 
 
@@ -7214,9 +7548,11 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 - **(1)** Sur conclusion de l’accord, le ministre provincial peut exercer, pour le compte du ministre des Finances, les attributions et disposer de la latitude dévolues à celui-ci et à son sous-ministre sous le régime des articles 212 ou 213.
 
-**Idem**
+**Transfert des attributions**
 
-- **(2)** Sur conclusion de l’accord, le fonctionnaire provincial appelé *Tax Commissioner* peut exercer les attributions et disposer de la latitude dévolues au ministre provincial des Finances, dans le cadre des lois sur l’impôt indirect, sous le régime de la présente partie et, notamment, du paragraphe (1) et déléguer au personnel du ministère provincial appelé *Department of Finance* les attributions correspondant à celles qui leur sont dévolues sous le régime des lois sur l’impôt indirect. Le ministre provincial appelé *Minister of Consumer Affairs* ou tel autre ministre provincial désigné par le gouvernement provincial, peut, dès lors, exercer les attributions et disposer de la latitude dévolues au ministre provincial des Finances, dans le cadre de la loi sur la taxation des primes d’assurance, sous le régime de la présente partie et, notamment, du paragraphe (1) et déléguer au personnel du ministère provincial appelé *Department of Consumer Affairs* les attributions correspondantes à celles qui leur sont dévolues sous le régime de la loi sur la taxation des primes d’assurance.
+- **(2)** Sur conclusion de l’accord, le fonctionnaire appelé *Provincial Tax Commissioner* peut exercer les attributions et disposer de la latitude dévolues au ministre provincial des Finances, dans le cadre des lois sur la taxe à la consommation, sous le régime de la présente partie et, notamment, du paragraphe (1) et déléguer au personnel du ministère provincial appelé *Department of Finance* les attributions correspondant à celles qui leur sont dévolues sous le régime des lois sur la taxe à la consommation. Le ministre provincial des Finances ou tel autre ministre provincial désigné par le gouvernement provincial, peut, dès lors, exercer les attributions et disposer de la latitude dévolues au ministre provincial des Finances, sous le régime de la Loi sur la taxation des primes d’assurance, sous le régime de la présente partie et, notamment, du paragraphe (1) et déléguer au personnel du ministère provincial appelé *Department of Finance* ou de tout autre ministère provincial dirigé par cet autre ministre, les attributions correspondant à celles qui leur sont dévolues sous le régime de la Loi sur la taxation des primes d’assurance.
+> 1988, ch. 28, art. 215; 2014, ch. 13, art. 87.
+
 
 
 
@@ -7229,20 +7565,26 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 **216** 
 
-- **(1)** Sont institués et recouvrés, sous le régime de la présente partie et conformément au paragraphe (3), sur le capital imposable des personnes morales, et sur le revenu imposable gagné par elles, dans une année d’imposition, dans la zone extracôtière, les montants — impôts, taxes, intérêts, amendes et autres — qui le seraient sous le régime de la loi sur l’impôt direct si cette zone était située dans la province.
+- **(1)** Sont instituées et recouvrées, sous le régime de la présente partie et conformément au paragraphe (3), sur le capital imposable des personnes morales, et sur leur revenu imposable gagné, dans une année d’imposition, dans la zone extracôtière, les sommes — impôts, taxes, intérêts, amendes et autres — qui le seraient sous le régime de la Loi néo-écossaise de l’impôt sur le revenu si cette zone était située dans la province.
 
 **Exception**
 
-- **(2)** Aucun impôt n’est institué sous le régime du paragraphe (1) sur le capital imposable, ou sur le revenu imposable gagné, au cours d’une année d’imposition dans la province, sous celui de la loi sur l’impôt direct.
+- **(2)** Aucun impôt n’est institué sous le régime du paragraphe (1) sur le capital imposable, ou sur le revenu imposable gagné, au cours d’une année d’imposition dans la province, sous celui de la Loi néo-écossaise de l’impôt sur le revenu.
 
 **Application de la législation néo-écossaise**
 
-- **(3)** Sous réserve des autres dispositions de la présente loi et de ses règlements, la loi sur l’impôt direct et ses règlements s’appliquent, compte tenu des adaptations de circonstance, dans le cadre de la présente partie. Notamment, la mention dans cette loi de *Her Majesty in right of the Province*, *Province of Nova Scotia*, *province* et *Minister of Finance* vaut mention, respectivement, de Sa Majesté du chef du Canada, de la zone extracôtière, le receveur général, s’agissant de tout versement des impôts, et, par ailleurs, le ministre du Revenu national. Enfin, mention du terme *Minister of National Revenue* vaut mention du ministre fédéral du Revenu national.
+- **(3)** Sous réserve des autres dispositions de la présente loi et de ses règlements, la Loi néo-écossaise de l’impôt sur le revenu et les règlements visés au paragraphe (3.1) s’appliquent, avec les adaptations nécessaires, dans le cadre de la présente partie. Notamment, la mention dans cette loi de *Her Majesty in right of the Province*, de *Province* et de *Minister of Finance* vaut mention, respectivement, de Sa Majesté du chef du Canada, de la zone extracôtière et du ministre fédéral du Revenu national. Cependant, lorsqu’il s’agit de tout versement des impôts, la mention de *Minister of Finance* vaut mention du receveur général.
+
+**Règlements néo-écossais**
+
+- **(3.1)** Les règlements qui suivent s’appliquent dans le cadre du paragraphe (3) :
+	- **a)** ceux pris en vertu de la Loi néo-écossaise de l’impôt sur le revenu;
+	- **b)** ceux pris en vertu d’une loi remplacée par la Loi néo-écossaise de l’impôt sur le revenu, dans la mesure où ils sont en vigueur en vertu de la législation provinciale et de leur compatibilité avec la Loi néo-écossaise de l’impôt sur le revenu.
 
 **Détermination du revenu**
 
-- **(4)** Pour l’application du présent article, le revenu imposable gagné dans une année d’imposition par une personne morale, dans la zone extracôtière ou dans la province, est déterminé conformément à la partie IV du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md) comme si la zone extracôtière était une province et comme si la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) s’appliquait compte non tenu de la définition de ***province*** au paragraphe 124(4) de cette loi, et le capital imposable s’entend du capital imposable utilisé au Canada, déterminé conformément à la partie I.3 de la même loi.
-> 1988, ch. 28, art. 216; 2013, ch. 34, art. 369.
+- **(4)** Pour l’application du présent article, le revenu imposable gagné dans une année d’imposition par une personne morale, dans la zone extracôtière ou dans la province, est déterminé conformément aux règles prévues par règlement pour l’application de la définition de ***revenu imposable gagné au cours de l’année dans une province***, au paragraphe 124(4) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), et ***capital imposable*** s’entend du capital imposable utilisé au Canada, déterminé conformément à la partie I.3 de la même loi.
+> 1988, ch. 28, art. 216; 2013, ch. 34, art. 369; 2014, ch. 13, art. 88.
 
 
 
@@ -7316,7 +7658,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 **Présomption**
 
-- **(2)** Pour l’application du paragraphe (1), la zone extracôtière est réputée située dans le ressort du *Halifax County*.
+- **(2)** Pour l’application du paragraphe (1), la zone extracôtière est réputée située dans le ressort du *Halifax District*.
 
 **Réserve**
 
@@ -7325,6 +7667,8 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Assimilation**
 
 - **(4)** Pour l’application du présent article sont assimilés au tribunal ses juges ainsi que les juges de la cour provinciale et les juges de paix.
+> 1988, ch. 28, art. 220; 2014, ch. 13, art. 89.
+
 
 
 
@@ -7336,8 +7680,14 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Règlement**
 
 **221** Le gouverneur en conseil peut, par règlement, sur recommandation du ministre des Finances :
-- **a)** exclure, pour l’application de la présente loi, telle disposition des lois sur l’impôt indirect, de la loi sur l’impôt direct, de la loi sur la taxation des primes d’assurance, de la loi sur les redevances, ou de leurs règlements incompatible avec la présente loi, l’Accord ou tous traités, conventions ou accords internationaux portant sur les impôts, les tarifs ou le commerce dont le gouvernement du Canada est signataire;
+- **a)** exclure, pour l’application de la présente loi, toute disposition des lois ou des règlements ci-après incompatible avec la présente loi, l’Accord ou tous traités, conventions ou accords bilatéraux ou internationaux portant sur les impôts, les tarifs ou le commerce dont le gouvernement du Canada est signataire :
+	- **(i)** la loi sur les redevances et ses règlements,
+	- **(ii)** les lois sur la taxe à la consommation et les règlements visés au paragraphe 212(3.1),
+	- **(iii)** la Loi sur la taxation des primes d’assurance et les règlements visés au paragraphe 213(3.1),
+	- **(iv)** la Loi néo-écossaise de l’impôt sur le revenu et les règlements visés au paragraphe 216(3.1);
 - **b)** prendre les mesures d’ordre réglementaire prévues par la présente partie.
+> 1988, ch. 28, art. 221; 2014, ch. 13, art. 90.
+
 
 
 
