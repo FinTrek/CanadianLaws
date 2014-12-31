@@ -2166,11 +2166,13 @@ Sont comprises les activités concrètes qui leur sont accessoires. (*designat
 **1** Administration portuaire au sens du paragraphe 2(1) de la [Loi maritime du Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2010.md).
 
 
-**2** Office au sens de l’article 2 de la Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve.
+**2** Office au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador](/fr/Lois/Lois%20du%20Canada/1987/ch.%203.md).
 
 
 **3** Office au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers](/fr/Lois/Lois%20du%20Canada/1988/ch.%2028.md).
 
+
+> 2012, ch. 19, art. 52 « ann. 1 »; 2014, ch. 13, art. 115
 
 
 
