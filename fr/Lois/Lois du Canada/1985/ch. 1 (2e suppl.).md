@@ -61,6 +61,8 @@
 
 ***ALÉCPA*** S’entend de l’Accord au sens de l’article 2 de la [Loi sur la croissance économique et la prospérité — Canada-Panama](/fr/Lois/Lois%20du%20Canada/2012/ch.%2026.md).
 
+***ALÉCRC*** S’entend de l’Accord au sens de l’article 2 de la [Loi sur la croissance économique et la prospérité — Canada-Corée](/fr/Lois/Lois%20du%20Canada/2014/ch.%2028.md).
+
 ***ALÉNA*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md).
 
 ***boutique hors taxes*** Établissement agréé comme telle par le ministre en vertu de l’article 24.
@@ -82,6 +84,8 @@
 ***commissaire***[Abrogée, 2005, ch. 38, art. 60]
 
 ***confisquer*** Confisquer au profit de Sa Majesté du chef du Canada.
+
+***Corée*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 ***Costa Rica*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
@@ -263,7 +267,7 @@
 **Délégation par le ministre du Revenu national**
 
 - **(6)** Le ministre du Revenu national peut autoriser toute personne employée par l’Agence du revenu du Canada ou par l’Agence, nommément ou au titre de son appartenance à une catégorie donnée, à exercer les pouvoirs et fonctions, y compris les pouvoirs et fonctions judiciaires ou quasi-judiciaires, qui lui sont conférés en vertu de la présente loi.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328; 2005, ch. 38, art. 60 et 145; 2007, ch. 18, art. 135; 2009, ch. 6, art. 23, ch. 10, art. 1(F), ch. 16, art. 31 et 56; 2010, ch. 4, art. 25, ch. 12, art. 48; 2012, ch. 18, art. 24, ch. 26, art. 30 et 62; 2014, ch. 14, art. 23.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328; 2005, ch. 38, art. 60 et 145; 2007, ch. 18, art. 135; 2009, ch. 6, art. 23, ch. 10, art. 1(F), ch. 16, art. 31 et 56; 2010, ch. 4, art. 25, ch. 12, art. 48; 2012, ch. 18, art. 24, ch. 26, art. 30 et 62; 2014, ch. 14, art. 23, ch. 28, art. 26.
 
 
 
@@ -4425,6 +4429,8 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 	- **j.1)** à un fonctionnaire de l’Agence canadienne d’inspection des aliments, uniquement pour l’application ou l’exécution d’une loi mentionnée à l’article 11 de la [Loi sur l’Agence canadienne d’inspection des aliments](/fr/Lois/Lois%20du%20Canada/1997/ch.%206.md) si le renseignement concerne l’importation, l’exportation ou le mouvement en cours de route de marchandises;
 	- **k)** à un fonctionnaire du Centre d’analyse des opérations et déclarations financières du Canada, uniquement pour l’application ou l’exécution de la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md);
 	- **l)** à quiconque, uniquement en vue de déterminer sa réclamation, sa responsabilité ou ses obligations en vertu de la présente loi ou du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), notamment sa réclamation relativement à un remboursement, un drawback ou un abattement en vertu de ces lois;
+	- **l.1)** à toute personne qui peut le recevoir au titre de l’article 44.03 ou du paragraphe 44.04(1) de la [Loi sur le droit d’auteur](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-42.md), mais uniquement aux fins auxquelles elle y a droit;
+	- **l.2)** à toute personne qui peut le recevoir au titre de l’article 51.05 ou du paragraphe 51.06(1) de la [Loi sur les marques de commerce](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-13.md), mais uniquement aux fins auxquelles elle y a droit;
 	- **m)** à quiconque, si le renseignement est exigé par assignation, mandat ou ordonnance d’une cour d’archives au Canada;
 	- **n)** à quiconque, si le renseignement est exigé par assignation, mandat ou ordonnance d’une cour d’archives à l’extérieur du Canada, dans le cadre de l’application de règles de procédure criminelle;
 	- **o)** aux personnes ou catégories de personnes autorisées par règlement à en recevoir communication, dans les circonstances et aux fins prévues par règlement et uniquement à ces fins.
@@ -4479,7 +4485,7 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 **Règlements**
 
 - **(15)** Le gouverneur en conseil peut, par règlement, déterminer les cas où des frais peuvent être exigés pour permettre l’accès à des renseignements ou pour en fournir, pour en faire des copies ou pour certifier la conformité de celles-ci sous le régime du présent article, ainsi que fixer le montant de ces frais.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 107; 1992, ch. 28, art. 25; 1995, ch. 41, art. 27; 2001, ch. 25, art. 61 et 111, ch. 41, art. 121; 2005, ch. 34, art. 79, ch. 38, art. 80 et 145; 2013, ch. 40, art. 237.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 107; 1992, ch. 28, art. 25; 1995, ch. 41, art. 27; 2001, ch. 25, art. 61 et 111, ch. 41, art. 121; 2005, ch. 34, art. 79, ch. 38, art. 80 et 145; 2013, ch. 40, art. 237; 2014, ch. 32, art. 60.
 
 
 
@@ -5993,6 +5999,11 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 <td>Taux de droits de douane du tarif de la Colombie visés au [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md)</td>
 </tr>
 <tr>
+<td>Corée</td>
+<td>ALÉCRC</td>
+<td>Taux de droits de douane du tarif de la Corée visés au [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md)</td>
+</tr>
+<tr>
 <td>Costa Rica</td>
 <td>ALÉCCR</td>
 <td>Taux de droits de douane du tarif du Costa Rica visés au [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md)</td>
@@ -6073,6 +6084,10 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 <td>Article 4.01</td>
 </tr>
 <tr>
+<td>ALÉCRC</td>
+<td>Article 4.21</td>
+</tr>
+<tr>
 <td>ALÉNA</td>
 <td>Article 514</td>
 </tr>
@@ -6095,6 +6110,10 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 <tr>
 <td>Colombie</td>
 <td>paragraphe 1 de l’article 419 de l’ALÉCCO</td>
+</tr>
+<tr>
+<td>Corée</td>
+<td>paragraphe 1 de l’article 4.10 de l’ALÉCRC</td>
 </tr>
 <tr>
 <td>Costa Rica</td>
@@ -6139,6 +6158,10 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 <tr>
 <td>Colombie</td>
 <td>ALÉCCO</td>
+</tr>
+<tr>
+<td>Corée</td>
+<td>ALÉCRC</td>
 </tr>
 <tr>
 <td>Costa Rica</td>
@@ -6209,11 +6232,15 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 <td>Chapitre quatre</td>
 </tr>
 <tr>
+<td>ALÉCRC</td>
+<td>Chapitre quatre</td>
+</tr>
+<tr>
 <td>ALÉNA</td>
 <td>Chapitres 3 et 5</td>
 </tr>
 </table>
 
-> L.R. 1985, ch. 1 (2<sup>e</sup> suppl.), ann.; 2012, ch. 18, art. 31, ch. 26, art. 37 et 62; 2014, ch. 14, art. 25 à 29.
+> L.R. 1985, ch. 1 (2<sup>e</sup> suppl.), ann.; 2012, ch. 18, art. 31, ch. 26, art. 37 et 62; 2014, ch. 14, art. 25 à 29, ch. 28, art. 27 à 31.
 
 
