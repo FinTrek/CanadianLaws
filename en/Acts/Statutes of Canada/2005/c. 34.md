@@ -280,11 +280,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **19.1** 
 
-- **(1)** All moneys received by Her Majesty as a result of a monetary assessment by a panel determination under any treaty respecting labour cooperation referred to in the schedule shall be paid into the Consolidated Revenue Fund and, if required under the treaty, credited to a special account in the accounts of Canada to be known as the Labour Cooperation Treaties Account.
+- **(1)** All moneys received by Her Majesty as a result of a monetary assessment by a panel determination under a treaty, or chapter of a treaty, respecting labour cooperation referred to in the schedule shall be paid into the Consolidated Revenue Fund and, if required under the treaty, credited to a special account in the accounts of Canada to be known as the Labour Cooperation Treaties Account.
 
-**Additional credits to the Account**
+**Additional credits to Account**
 
-- **(2)** If an amount is assessed against Canada by a panel determination under a treaty respecting labour cooperation referred to in the schedule, an amount equal to that amount shall be credited to the Account if the Account has been designated for the purposes of the treaty in accordance with its provisions.
+- **(2)** If an amount is assessed against Canada by a panel determination under a treaty, or chapter of a treaty, respecting labour cooperation referred to in the schedule, an amount equal to that amount shall be credited to the Account if the Account has been designated for the purposes of the treaty in accordance with its provisions.
 
 **Interest**
 
@@ -293,7 +293,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Payment of moneys**
 
 - **(4)** One or more amounts not exceeding in total the amount standing in the Account in relation to a treaty, including interest, may, on the requisition of the Minister of Labour, be paid out of the Consolidated Revenue Fund in accordance with the provisions of the treaty. The amount of all such payments is to be charged to the Account.
-> 2009, c. 16, s. 50; 2014, c. 14, ss. 49, 51.
+> 2009, c. 16, s. 50; 2014, c. 14, ss. 49, 51, c. 28, s. 57.
 
 
 
@@ -1481,6 +1481,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ### **SCHEDULE** 
 **(Subsections 19.1(1) and (2))**
 ## Treaties
+Chapter 18 of the Free Trade Agreement between Canada and the Republic of Korea, done at Ottawa on September 22, 2014, as amended from time to time in accordance with Article 23.2 of that Agreement.
+
+
 The Agreement on Labour Cooperation between Canada and the Hashemite Kingdom of Jordan, signed on June 28, 2009, as amended from time to time in accordance with Article 22 of that Agreement.
 
 
@@ -1496,6 +1499,6 @@ The Agreement on Labour Cooperation between Canada and the Republic of Panama, d
 The Agreement on Labour Cooperation between Canada and the Republic of Peru, signed on May 29, 2008, as amended from time to time in accordance with Article 30 of that Agreement.
 
 
-> 2009, c. 16, s. 51; 2010, c. 4, s. 43; 2012, c. 18, s. 41, c. 26, ss. 50, 62; 2014, c. 14, s. 50.
+> 2009, c. 16, s. 51; 2010, c. 4, s. 43; 2012, c. 18, s. 41, c. 26, ss. 50, 62; 2014, c. 14, s. 50, c. 28, s. 58.
 
 
