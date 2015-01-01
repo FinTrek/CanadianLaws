@@ -829,105 +829,27 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 
 
 
-
-**Authorization for non-residents who do not hold a licence to export firearms that are not prohibited firearms**
-
-**37** 
-
-- **(1)** A non-resident who does not hold a licence may export a firearm that is not a prohibited firearm and that was imported by the non-resident in accordance with section 35 if, at the time of the exportation,
-	- **(a)** the non-resident
-		- **(i)** declares the firearm to a customs officer, and
-		- **(ii)** produces to a customs officer in the prescribed manner the declaration and, where applicable, the authorization to transport that were confirmed in accordance with that section; and
-	- **(b)** a customs officer confirms the declaration referred to in subparagraph (a)(i) in the prescribed manner.
-
-**Non-compliance**
-
-- **(2)** Where a firearm is declared to a customs officer but the requirements of subparagraph (1)(a)(ii) are not complied with, the customs officer may detain the firearm and, with the approval of a chief firearms officer, give the non-resident a reasonable time to comply with those requirements.
-
-**Disposal of firearm**
-
-- **(3)** Where those requirements are not complied with within a reasonable time, the firearm shall be disposed of in the prescribed manner.
+**37** [Repealed before coming into force, 2008, c. 20, s. 3]
 
 
 
-
-**Authorization for individuals who hold a licence to export firearms**
-
-**38** 
-
-- **(1)** An individual who holds a licence may export a firearm if, at the time of the exportation,
-	- **(a)** the individual
-		- **(i)** declares the firearm to a customs officer in the prescribed manner and, in the case of a declaration in writing, completes the prescribed form containing the prescribed information, and
-		- **(ii)** produces his or her licence and, in the case of a prohibited firearm or a restricted firearm, the registration certificate for the firearm and an authorization to transport the firearm; and
-	- **(b)** a customs officer confirms the documents referred to in subparagraphs (a)(i) and (ii) in the prescribed manner.
-
-**Non-compliance**
-
-- **(2)** Where a firearm is declared to a customs officer but the requirements of subparagraph (1)(a)(ii) are not complied with, the customs officer may detain the firearm.
-
-**Disposal of firearm**
-
-- **(3)** A firearm that is detained under subsection (2) may be disposed of in the prescribed manner.
-> 1995, c. 39, s. 38; 2012, c. 6, s. 17
+**38** [Repealed before coming into force, 2008, c. 20, s. 3]
 
 
 
-
-
-**Authorization for individuals to export replica firearms**
-
-**39** An individual may export a replica firearm if he or she declares the replica firearm to a customs officer in the prescribed manner.
+**39** [Repealed before coming into force, 2008, c. 20, s. 3]
 
 
 
-
-**Authorization for individuals who hold a licence to import firearms**
-
-**40** 
-
-- **(1)** An individual who holds a licence may import a firearm if, at the time of the importation,
-	- **(a)** the individual declares the firearm to a customs officer in the prescribed manner;
-	- **(b)** in the case of a firearm that was exported in accordance with section 38, the individual produces the declaration confirmed in accordance with that section and, in the case of a prohibited firearm or restricted firearm, an authorization to transport the prohibited firearm or restricted firearm;
-	- **(c)** in the case of a firearm that is not a prohibited firearm and for which a registration certificate has not been issued,
-		- **(i)** the individual completes the prescribed form containing the prescribed information, if the declaration referred to in paragraph (a) is in writing,
-		- **(ii)** the individual holds a licence authorizing him or her to acquire and possess that kind of firearm,
-		- **(iii)** a customs officer informs a chief firearms officer of the importation and the chief firearms officer approves the importation in accordance with section 27, and
-		- **(iv)** in the case of a restricted firearm, the individual produces an authorization to transport the restricted firearm; and
-	- **(d)** a customs officer confirms the documents referred to in paragraph (b) or (c) in the prescribed manner.
-
-**Non-compliance**
-
-- **(2)** Where a firearm is declared at a customs office to a customs officer but the requirements of paragraph (1)(b) or (c) are not complied with, the customs officer may authorize the firearm to be exported from that customs office or may detain the firearm and give the individual a reasonable time to comply with those requirements.
-
-**Disposal of firearm**
-
-- **(3)** Where those requirements are not complied with within a reasonable time and the firearm is not exported, the firearm shall be disposed of in the prescribed manner.
-
-**Importation of prohibited firearms**
-
-- **(4)** An individual who holds a licence may import a prohibited firearm only if he or she previously exported the prohibited firearm in accordance with section 38.
-
-**Prohibited firearm**
-
-- **(5)** Where a prohibited firearm is declared at a customs office to a customs officer and the prohibited firearm was not previously exported in accordance with section 38, the customs officer may authorize the prohibited firearm to be exported from that customs office.
-
-**Disposal**
-
-- **(6)** Prohibited firearms that are not immediately exported under subsection (5) are forfeited to Her Majesty in right of Canada and shall be disposed of in the prescribed manner.
+**40** [Repealed before coming into force, 2008, c. 20, s. 3]
 
 
 
-
-**Temporary registration certificate**
-
-**41** A declaration that is confirmed in accordance with paragraph 40(1)(d) has the same effect as a registration certificate for the firearm for the period for which the confirmation is expressed to be effective.
+**41** [Repealed before coming into force, 2008, c. 20, s. 3]
 
 
 
-
-**Notification of Registrar**
-
-**42** A customs officer shall inform the Registrar without delay of the exportation or importation of a firearm by an individual.
+**42** [Repealed before coming into force, 2008, c. 20, s. 3]
 
 
 
@@ -935,123 +857,47 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 ### Businesses
 
 
+**43** [Repealed before coming into force, 2008, c. 20, s. 3]
 
-**Authorization for businesses to import or export**
 
-**43** A business may export or import a firearm, prohibited weapon, restricted weapon, prohibited device, component or part designed exclusively for use in the manufacture of or assembly into an automatic firearm or prohibited ammunition only if the business holds an authorization to export or an authorization to import.
 
+**44** [Repealed before coming into force, 2008, c. 20, s. 3]
 
 
 
-**Authorization to export**
+**45** [Repealed before coming into force, 2008, c. 20, s. 3]
 
-**44** An authorization to export goods described in section 43 may be issued to a business only if the business that applies for such an authorization
-- **(a)** in the case of a prohibited firearm or a restricted firearm, holds the registration certificate for the firearm;
-- **(b)** in the case of a prohibited firearm, prohibited weapon, prohibited device, component or part designed exclusively for use in the manufacture of or assembly into an automatic firearm or prohibited ammunition, identifies it in the prescribed manner and specifies the prescribed purpose for the exportation;
-- **(c)** holds a licence authorizing it to possess those goods, except where those goods are to be shipped in transit through Canada by a business that does not carry on business in Canada;
-- **(d)** indicates the destination of those goods; and
-- **(e)** provides the Registrar with the prescribed information and any other information reasonably required by the Registrar.
-> 1995, c. 39, s. 44; 2012, c. 6, s. 18
 
 
+**46** [Repealed before coming into force, 2008, c. 20, s. 3]
 
 
 
-**Authorization to be produced**
+**47** [Repealed before coming into force, 2008, c. 20, s. 3]
 
-**45** 
 
-- **(1)** A business that holds an authorization to export goods described in section 43 must produce the authorization to a customs officer at the time of the exportation.
 
-**Customs officer**
+**48** [Repealed before coming into force, 2008, c. 20, s. 3]
 
-- **(2)** A customs officer may confirm an authorization to export.
 
-**Non-compliance**
 
-- **(3)** Where an authorization to export is not confirmed, a customs officer may detain goods described in section 43.
+**49** [Repealed before coming into force, 2008, c. 20, s. 3]
 
-**Disposal**
 
-- **(4)** A good that is detained under subsection (3) may be disposed of in the prescribed manner.
 
+**50** [Repealed before coming into force, 2008, c. 20, s. 3]
 
 
 
-**Authorization to import**
+**51** [Repealed before coming into force, 2008, c. 20, s. 3]
 
-**46** An authorization to import goods described in section 43 may be issued to a business only if the business that applies for such an authorization
-- **(a)** holds a licence authorizing it to acquire and possess those goods, except where those goods are to be shipped in transit through Canada by a business that does not carry on business in Canada;
-- **(b)** identifies those goods in the prescribed manner;
-- **(c)** in the case of either a firearm that is not a prohibited firearm or a restricted weapon, specifies the purpose for the importation;
-- **(d)** in the case of a prohibited firearm, prohibited weapon, prohibited device, component or part designed exclusively for use in the manufacture of or assembly into an automatic firearm or prohibited ammunition, specifies the prescribed purpose for the importation;
-- **(e)** indicates the destination in Canada of those goods; and
-- **(f)** provides the Registrar with the prescribed information and any other information reasonably required by the Registrar.
 
 
+**52** [Repealed before coming into force, 2008, c. 20, s. 3]
 
 
-**Authorization to be produced**
 
-**47** 
-
-- **(1)** A business that holds an authorization to import goods described in section 43 must produce the authorization at a customs office to a customs officer at the time of the importation.
-
-**Customs officer**
-
-- **(2)** A customs officer may confirm an authorization to import.
-
-**Non-compliance**
-
-- **(3)** Where an authorization to import is not confirmed, a customs officer may authorize goods described in section 43 to be exported from that customs office, in which case the goods may be exported without any other authorization.
-
-**Disposal**
-
-- **(4)** Goods that are not exported under subsection (3) within ten days are forfeited to Her Majesty in right of Canada and shall be disposed of in the prescribed manner.
-
-
-
-
-**Temporary registration certificate**
-
-**48** An authorization to import a firearm that is confirmed in accordance with subsection 47(2) has the same effect as a registration certificate for the firearm for the period for which the confirmation is expressed to be effective.
-
-
-
-
-**Separate authorization**
-
-**49** Each exportation or importation of goods described in section 43 requires a separate authorization to export or authorization to import.
-
-
-
-
-**Notification of Registrar**
-
-**50** A customs officer shall inform the Registrar without delay of the exportation or importation of goods described in section 43 by a business.
-
-
-
-
-**Notification of Minister responsible for the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md)**
-
-**51** The Registrar shall inform the member of the Queen’s Privy Council for Canada who is designated by the Governor in Council as the Minister for the purposes of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) of every application by a business for an authorization to export or authorization to import.
-
-
-
-
-**Only at designated customs offices**
-
-**52** No business shall export or import goods described in section 43 except at a customs office designated for that purpose by the Minister of Public Safety and Emergency Preparedness.
-> 1995, c. 39, s. 52; 2005, c. 38, ss. 142, 145
-
-
-
-
-
-**No in-transit shipments of prohibited firearms, weapons, devices and ammunition**
-
-**53** No business shall import a prohibited firearm, prohibited weapon, prohibited device or prohibited ammunition that is to be shipped in transit through Canada and exported.
+**53** [Repealed before coming into force, 2008, c. 20, s. 3]
 
 
 
@@ -2548,7 +2394,7 @@ continues in force until the expiration of the period for which it was expressed
 
 **Coming into force**
 
-<sup><a href='#fn_Ind96BC_hq_16773'>[*]</a></sup>**193** 
+<sup><a href='#fn_Ind3D46_hq_16771'>[*]</a></sup>**193** 
 
 - **(1)** Subject to subsection (2), this Act or any of its provisions or any provision of any other Act enacted or amended by this Act, other than sections 136, 137 and 174, shall come into force on a day or days to be fixed by order of the Governor in Council.
 
@@ -2556,6 +2402,6 @@ continues in force until the expiration of the period for which it was expressed
 
 - **(2)** If no order bringing this Act or any of its provisions or any provision of any other Act enacted or amended by this Act is made before January 1, 2003, this Act, other than sections 136, 137 and 174, comes into force on that date.
 
-<a name='fn_Ind96BC_hq_16773'><sup>*</sup></a>: [Note: Section 85, as enacted by section 139, and sections 141 to 150 in force January 1, 1996, *see* SI/96-2; sections 118 and 119 in force April 30, 1996, *see* SI/96-39; section 95 in force December 18, 1997, *see* SI/98-2; sections 1, 2 and 117 in force February 25, 1998, *see* SI/98-35; sections 3 and 4, subsections 5(1) and (2), section 6, subsections 7(1) to (3), paragraphs 7(4)(a) to (d), subsection 7(5), sections 8 to 23, subsection 24(1), paragraphs 24(2)(a) and (b), sections 25 to 28, subsections 29(2) to (7), sections 30 and 31, paragraphs 32(a) and (c), sections 33 and 34, subsection 35(1) before paragraph (a), paragraph 35(1)(a) of the English version before subparagraph (i), subparagraphs 35(1)(a)(i) and (iii) of the English version, paragraphs 35(1)(a) and (c) of the French version, sections 54 to 94, 96, 98 to 116, 120 to 135 and 138, sections 84, 86 to 96 and 98 to 117.15, as enacted by section 139, and sections 140, 151 to 168, 170 to 173 and 175 to 193 in force December 1, 1998, *see* SI/98-93, 95; section 97 in force December 3, 1998, *see* SI/98-129; subsection 5(3), paragraph 7(4)(e), those portions of subsection 35(1) that are not yet in force, subsections 35(2) to (4) and section 36 in force January 1, 2001, *see* SI/2001-4; subsection 29(1) in force January 1, 2003, *see* SI/2002-161; paragraph 24(2)(c), as enacted by 2003, c.8, s.18, in force April 10, 2005, *see* SI/2005-27; section 97, as enacted by section 139, repealed before coming into force, *see* 2008, c. 20, s. 3; paragraph 24(2)(d) repealed before coming into force, *see* 2008, c. 20, s. 3.]<br />
+<a name='fn_Ind3D46_hq_16771'><sup>*</sup></a>: [Note: Section 85, as enacted by section 139, and sections 141 to 150 in force January 1, 1996, *see* SI/96-2; sections 118 and 119 in force April 30, 1996, *see* SI/96-39; section 95 in force December 18, 1997, *see* SI/98-2; sections 1, 2 and 117 in force February 25, 1998, *see* SI/98-35; sections 3 and 4, subsections 5(1) and (2), section 6, subsections 7(1) to (3), paragraphs 7(4)(a) to (d), subsection 7(5), sections 8 to 23, subsection 24(1), paragraphs 24(2)(a) and (b), sections 25 to 28, subsections 29(2) to (7), sections 30 and 31, paragraphs 32(a) and (c), sections 33 and 34, subsection 35(1) before paragraph (a), paragraph 35(1)(a) of the English version before subparagraph (i), subparagraphs 35(1)(a)(i) and (iii) of the English version, paragraphs 35(1)(a) and (c) of the French version, sections 54 to 94, 96, 98 to 116, 120 to 135 and 138, sections 84, 86 to 96 and 98 to 117.15, as enacted by section 139, and sections 140, 151 to 168, 170 to 173 and 175 to 193 in force December 1, 1998, *see* SI/98-93, 95; section 97 in force December 3, 1998, *see* SI/98-129; subsection 5(3), paragraph 7(4)(e), those portions of subsection 35(1) that are not yet in force, subsections 35(2) to (4) and section 36 in force January 1, 2001, *see* SI/2001-4; subsection 29(1) in force January 1, 2003, *see* SI/2002-161; paragraph 24(2)(c), as enacted by 2003, c.8, s.18, in force April 10, 2005, *see* SI/2005-27; section 97, as enacted by section 139, repealed before coming into force, *see* 2008, c. 20, s. 3; paragraph 24(2)(d) repealed before coming into force, *see* 2008, c. 20, s. 3; sections 37 to 53 repealed before coming into force, *see* 2008, c. 20, s. 3.]<br />
 
 
