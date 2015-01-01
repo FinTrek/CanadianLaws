@@ -818,104 +818,27 @@ Sont visés par la présente définition les musées.
 
 
 
-
-**Exportation : non-résidents**
-
-**37** 
-
-- **(1)** Le non-résident qui n’est pas titulaire d’un permis peut exporter l’arme à feu qu’il a importée conformément à l’article 35 si, au moment de l’exportation :
-	- **a)** il la déclare à l’agent des douanes;
-	- **b)** il produit, selon les modalités réglementaires, la déclaration et, le cas échéant, l’autorisation de transport attestées conformément à cet article;
-	- **c)** l’agent des douanes atteste la déclaration visée à l’alinéa a) selon les modalités réglementaires.
-
-**Non-respect des conditions**
-
-- **(2)** Dans le cas où l’arme à feu a été déclarée sans que les conditions de l’alinéa b) soient remplies, l’agent des douanes peut la retenir et, avec l’agrément du contrôleur des armes à feu, accorder au non-résident un délai raisonnable pour lui permettre de remplir ces conditions.
-
-**Sort de l’arme à feu**
-
-- **(3)** Après l’expiration du délai, il est disposé, de la manière réglementaire, de l’arme à feu retenue si les conditions ne sont toujours pas remplies.
+**37** [Abrogé avant d’entrer en vigueur, 2008, ch. 20, art. 3]
 
 
 
-
-**Exportation : particuliers**
-
-**38** 
-
-- **(1)** L’exportation d’une arme à feu par un particulier titulaire d’un permis est autorisée si, au moment où elle survient :
-	- **a)** celui-ci :
-		- **(i)** la déclare à l’agent des douanes selon les modalités réglementaires et, dans le cas d’une déclaration écrite, remplit le formulaire réglementaire et fournit les renseignements réglementaires,
-		- **(ii)** produit son permis et, s’il s’agit d’une arme à feu prohibée ou d’une arme à feu à autorisation restreinte, le certificat d’enregistrement et l’autorisation de transport afférents;
-	- **b)** l’agent des douanes atteste les documents pertinents visés aux sous-alinéas a)(i) et (ii) selon les modalités réglementaires.
-
-**Non-respect des conditions**
-
-- **(2)** Dans le cas où l’arme à feu a été déclarée sans que les conditions du sous-alinéa (1)a)(ii) soient remplies, l’agent des douanes peut la retenir.
-
-**Sort de l’arme à feu**
-
-- **(3)** Le cas échéant, il en dispose de la manière réglementaire.
-> 1995, ch. 39, art. 38; 2012, ch. 6, art. 17
+**38** [Abrogé avant d’entrer en vigueur, 2008, ch. 20, art. 3]
 
 
 
-
-
-**Exportation d’une réplique**
-
-**39** L’exportation d’une réplique par un particulier est permise sur déclaration par celui-ci présentée à l’agent des douanes selon les modalités réglementaires.
+**39** [Abrogé avant d’entrer en vigueur, 2008, ch. 20, art. 3]
 
 
 
-
-**Importation : particuliers**
-
-**40** 
-
-- **(1)** L’importation d’une arme à feu par un particulier titulaire d’un permis est autorisée si, au moment où elle survient :
-	- **a)** celui-ci la déclare à l’agent des douanes selon les modalités réglementaires;
-	- **b)** dans le cas d’une arme à feu exportée conformément à l’article 38, il produit la déclaration attestée conformément à cet article et, s’il s’agit d’une arme à feu à autorisation restreinte ou d’une arme à feu prohibée, l’autorisation de transport y afférentes;
-	- **c)** dans le cas d’une arme à feu non prohibée pour laquelle un certificat d’enregistrement n’a pas été délivré :
-		- **(i)** il remplit, dans le cas où la déclaration prévue à l’alinéa a) est faite par écrit, le formulaire réglementaire et fournit les renseignements réglementaires,
-		- **(ii)** il est titulaire d’un permis l’autorisant à acquérir et à posséder une telle arme à feu,
-		- **(iii)** l’agent des douanes en informe le contrôleur des armes à feu et celui-ci l’autorise conformément à l’article 27,
-		- **(iv)** s’il s’agit d’une arme à feu à autorisation restreinte, il produit l’autorisation de transport y afférente;
-	- **d)** l’agent des douanes atteste les documents pertinents visés aux alinéas b) ou c) selon les modalités réglementaires.
-
-**Non-respect des conditions**
-
-- **(2)** Dans le cas où l’arme à feu a été déclarée sans que les conditions des alinéas (1)b) ou c) soient remplies, l’agent des douanes peut en autoriser l’exportation à partir du bureau de douane de la déclaration, ou la retenir et accorder au particulier un délai raisonnable pour lui permettre de remplir ces conditions.
-
-**Sort de l’arme à feu**
-
-- **(3)** Après l’expiration du délai, il est disposé, de la manière réglementaire, de l’arme à feu retenue et non exportée si les conditions ne sont toujours pas remplies.
-
-**Restriction**
-
-- **(4)** L’importation d’une arme à feu prohibée par un particulier titulaire d’un permis est limitée au cas où celui-ci l’a exportée auparavant conformément à l’article 38.
-
-**Arme à feu prohibée**
-
-- **(5)** Dans le cas où est déclarée à l’agent des douanes, à un bureau de douane, une arme à feu prohibée qui n’a pas été exportée auparavant conformément à l’article 38, celui-ci peut en autoriser l’exportation à partir du bureau de douane.
-
-**Sort de l’arme à feu**
-
-- **(6)** Si elle n’est pas exportée immédiatement, l’arme à feu prohibée est confisquée au profit de Sa Majesté et il en est disposé de la manière réglementaire.
+**40** [Abrogé avant d’entrer en vigueur, 2008, ch. 20, art. 3]
 
 
 
-
-**Certificat d’enregistrement temporaire**
-
-**41** Une fois attestée conformément à l’alinéa 40(1)d), la déclaration a valeur de certificat d’enregistrement temporaire pour la période de l’attestation mentionnée.
+**41** [Abrogé avant d’entrer en vigueur, 2008, ch. 20, art. 3]
 
 
 
-
-**Notification au directeur**
-
-**42** L’agent des douanes notifie sans délai au directeur toute exportation ou importation d’arme à feu effectuée par un particulier.
+**42** [Abrogé avant d’entrer en vigueur, 2008, ch. 20, art. 3]
 
 
 
@@ -923,123 +846,47 @@ Sont visés par la présente définition les musées.
 ### Entreprises
 
 
+**43** [Abrogé avant d’entrer en vigueur, 2008, ch. 20, art. 3]
 
-**Autorisations d’exportation ou d’importation**
 
-**43** Pour exporter ou importer des armes à feu, des armes à autorisation restreinte, des munitions prohibées, des armes prohibées, des dispositifs prohibés ou des éléments ou pièces conçus exclusivement pour être utilisés dans la fabrication ou l’assemblage d’armes automatiques, l’entreprise doit obtenir l’autorisation correspondante.
 
+**44** [Abrogé avant d’entrer en vigueur, 2008, ch. 20, art. 3]
 
 
 
-**Autorisation d’exportation**
+**45** [Abrogé avant d’entrer en vigueur, 2008, ch. 20, art. 3]
 
-**44** L’autorisation d’exportation de marchandises visées à l’article 43 ne peut être délivrée à l’entreprise qui en fait la demande que si celle-ci :
-- **a)** est titulaire, dans le cas d’armes à feu prohibées ou d’armes à feu à autorisation restreinte, du certificat d’enregistrement afférent;
-- **b)** dans le cas d’armes à feu prohibées, d’armes prohibées, de dispositifs prohibés, d’éléments ou pièces conçus exclusivement pour être utilisés dans la fabrication ou l’assemblage d’armes automatiques ou de munitions prohibées, marque les marchandises selon les modalités réglementaires et précise la finalité réglementaire de leur exportation;
-- **c)** est titulaire d’un permis l’autorisant à les posséder, sauf si les marchandises sont destinées à être expédiées en transit à travers le Canada par une entreprise autre qu’une entreprise canadienne;
-- **d)** indique leur destination;
-- **e)** communique au directeur, en plus des renseignements réglementaires, les autres renseignements que celui-ci peut raisonnablement exiger.
-> 1995, ch. 39, art. 44; 2012, ch. 6, art. 18
 
 
+**46** [Abrogé avant d’entrer en vigueur, 2008, ch. 20, art. 3]
 
 
 
-**Production de l’autorisation d’exportation**
+**47** [Abrogé avant d’entrer en vigueur, 2008, ch. 20, art. 3]
 
-**45** 
 
-- **(1)** L’entreprise est tenue de présenter l’autorisation d’exportation à l’agent des douanes au moment de l’exportation des marchandises.
 
-**Attestation de l’agent des douanes**
+**48** [Abrogé avant d’entrer en vigueur, 2008, ch. 20, art. 3]
 
-- **(2)** L’agent des douanes peut attester l’autorisation d’exportation.
 
-**Non-respect des conditions**
 
-- **(3)** Si l’autorisation d’exportation n’est pas attestée, l’agent des douanes il peut retenir les marchandises.
+**49** [Abrogé avant d’entrer en vigueur, 2008, ch. 20, art. 3]
 
-**Sort des marchandises**
 
-- **(4)** Le cas échéant, il en dispose de la manière réglementaire.
 
+**50** [Abrogé avant d’entrer en vigueur, 2008, ch. 20, art. 3]
 
 
 
-**Autorisation d’importation**
+**51** [Abrogé avant d’entrer en vigueur, 2008, ch. 20, art. 3]
 
-**46** L’autorisation d’importation des marchandises visées à l’article 43 ne peut être délivrée à l’entreprise qui en fait la demande que si celle-ci :
-- **a)** est titulaire d’un permis l’autorisant à les acquérir et les posséder, sauf si les marchandises sont destinées à être expédiées en transit à travers le Canada par une entreprise autre qu’une entreprise canadienne;
-- **b)** marque les marchandises selon les modalités réglementaires;
-- **c)** indique, dans le cas d’armes à feu non prohibées ou d’armes à autorisation restreinte, la finalité de leur importation;
-- **d)** indique, dans le cas d’armes à feu prohibées, d’armes prohibées, de dispositifs prohibés, d’éléments ou pièces conçus exclusivement pour être utilisés dans la fabrication ou l’assemblage d’armes automatiques ou de munitions prohibées, la finalité réglementaire de leur importation;
-- **e)** indique leur destination au Canada;
-- **f)** communique au directeur, en plus des renseignements réglementaires, les autres renseignements que celui-ci peut raisonnablement exiger.
 
 
+**52** [Abrogé avant d’entrer en vigueur, 2008, ch. 20, art. 3]
 
 
-**Production de l’autorisation d’importation**
 
-**47** 
-
-- **(1)** L’entreprise est tenue de présenter l’autorisation d’importation à l’agent des douanes au bureau de douane au moment de l’importation des marchandises.
-
-**Attestation de l’agent des douanes**
-
-- **(2)** L’agent des douanes peut attester l’autorisation d’importation.
-
-**Non-respect des conditions**
-
-- **(3)** Si l’autorisation d’importation n’est pas attestée, l’agent des douanes peut autoriser l’exportation des marchandises à partir du bureau de douane et celle-ci s’effectue sans autre autorisation.
-
-**Sort des marchandises**
-
-- **(4)** Si elles ne sont pas exportées au bout de dix jours, les marchandises sont confisquées au profit de Sa Majesté et il en est disposé de la manière réglementaire.
-
-
-
-
-**Certificat d’enregistrement temporaire**
-
-**48** L’autorisation d’importation attestée conformément au paragraphe 47(2) a valeur de certificat d’enregistrement temporaire pour la période mentionnée.
-
-
-
-
-**Autorisation distincte**
-
-**49** Chaque exportation et chaque importation de marchandises visées à l’article 43 doivent faire l’objet d’une autorisation distincte.
-
-
-
-
-**Notification au directeur**
-
-**50** L’agent des douanes notifie sans délai au directeur toute exportation ou importation de marchandises visées à l’article 43 effectuée par une entreprise.
-
-
-
-
-**Notification par le directeur**
-
-**51** Le directeur notifie au membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md) toute demande d’autorisation d’exportation ou d’importation déposée par une entreprise.
-
-
-
-
-**Bureaux de douane désignés**
-
-**52** Les entreprises sont tenues de passer par les bureaux de douane désignés par le   ministre de la Sécurité publique et de la Protection civile pour l’exportation ou l’importation de marchandises visées à l’article 43.
-> 1995, ch. 39, art. 52; 2005, ch. 38, art. 142 et 145
-
-
-
-
-
-**Interdiction d’importation d’armes à feu, d’armes, de dispositifs et de munitions prohibés**
-
-**53** Aucune entreprise ne peut importer des armes à feu prohibées, des armes prohibées, des dispositifs prohibés ou des munitions prohibées qui sont destinés à être expédiés en transit à travers le Canada et exportés.
+**53** [Abrogé avant d’entrer en vigueur, 2008, ch. 20, art. 3]
 
 
 
@@ -2475,7 +2322,7 @@ Dans tous les cas, l’avis de l’inspecteur doit être fondé sur des motifs r
 
 **Entrée en vigueur**
 
-<sup><a href='#nbp_Ind1E9A_hq_16239'>[*]</a></sup>**193** 
+<sup><a href='#nbp_Ind228E_hq_16238'>[*]</a></sup>**193** 
 
 - **(1)** Sous réserve du paragraphe (2), la présente loi ou telle de ses dispositions, ou toute disposition édictée ou modifiée par la présente loi, à l’exception des articles 136, 137 et 174, entre en vigueur à la date ou aux dates fixées par décret.
 
@@ -2483,6 +2330,6 @@ Dans tous les cas, l’avis de l’inspecteur doit être fondé sur des motifs r
 
 - **(2)** Dans l’éventualité où aucun décret n’est pris en application du paragraphe (1) avant le 1<sup>er</sup> janvier 2003, la présente loi, à l’exception des articles 136, 137 et 174, entre en vigueur à cette date.
 
-<a name='nbp_Ind1E9A_hq_16239'><sup>*</sup></a>: [Note : Article 85, édicté par l’article 139, et articles 141 à 150 en vigueur le 1<sup>er</sup> janvier 1996, *voir* TR/96-2; articles 118 et 119 en vigueur le 30 avril 1996, *voir* TR/96-39; article 95 en vigueur le 18 décembre 1997, *voir* TR/98-2; articles 1, 2 et 117 en vigueur le 25 février 1998, *voir* TR/98-35; articles 3 et 4, paragraphes 5(1) et (2), article 6, paragraphes 7(1) à (3), alinéas 7(4)a) à d), paragraphe 7(5), articles 8 à 23, paragraphe 24(1), alinéas 24(2)a) et b), articles 25 à 28, paragraphes 29(2) à (7), articles 30 et 31, alinéas 32a) et c), articles 33 et 34, paragraphe 35(1) précédant l’alinéa a), alinéa 35(1)a) de la version anglaise précédant le sous-alinéa (i), sous-alinéas 35(1)a)(i) et (iii) de la version anglaise, alinéas 35(1)a) et c) de la version française, articles 54 à 94, 96, 98 à 116, 120 à 135 et 138, articles 84, 86 à 96 et 98 à 117.15, édictés par l’article 139, et articles 140, 151 à 168, 170 à 173 et 175 à 193 en vigueur le 1<sup>er</sup> décembre 1998, *voir* TR/98-93 et 95; article 97 en vigueur le 3 décembre 1998, *voir* TR/98-129; paragraphe 5(3), alinéa 7(4)e), les passages du paragraphe 35(1) qui ne sont pas encore en vigueur, paragraphes 35(2) à (4) et article 36 en vigueur le 1<sup>er</sup> janvier 2001, *voir* TR/2001-4; paragraphe 29(1) en vigueur le 1<sup>er</sup> janvier 2003, *voir* TR/2002-161; alinéa 24(2)c), édicté par 2003, ch. 8, art. 18, en vigueur le 10 avril 2005, *voir* TR/2005-27; article 97, édicté par l’article 139, abrogé avant d’entrer en vigueur, *voir* 2008, ch. 20, art. 3; alinéa 24(2)d) abrogé avant d’entrer en vigueur, *voir* 2008, ch. 20, art. 3.]<br />
+<a name='nbp_Ind228E_hq_16238'><sup>*</sup></a>: [Note : Article 85, édicté par l’article 139, et articles 141 à 150 en vigueur le 1<sup>er</sup> janvier 1996, *voir* TR/96-2; articles 118 et 119 en vigueur le 30 avril 1996, *voir* TR/96-39; article 95 en vigueur le 18 décembre 1997, *voir* TR/98-2; articles 1, 2 et 117 en vigueur le 25 février 1998, *voir* TR/98-35; articles 3 et 4, paragraphes 5(1) et (2), article 6, paragraphes 7(1) à (3), alinéas 7(4)a) à d), paragraphe 7(5), articles 8 à 23, paragraphe 24(1), alinéas 24(2)a) et b), articles 25 à 28, paragraphes 29(2) à (7), articles 30 et 31, alinéas 32a) et c), articles 33 et 34, paragraphe 35(1) précédant l’alinéa a), alinéa 35(1)a) de la version anglaise précédant le sous-alinéa (i), sous-alinéas 35(1)a)(i) et (iii) de la version anglaise, alinéas 35(1)a) et c) de la version française, articles 54 à 94, 96, 98 à 116, 120 à 135 et 138, articles 84, 86 à 96 et 98 à 117.15, édictés par l’article 139, et articles 140, 151 à 168, 170 à 173 et 175 à 193 en vigueur le 1<sup>er</sup> décembre 1998, *voir* TR/98-93 et 95; article 97 en vigueur le 3 décembre 1998, *voir* TR/98-129; paragraphe 5(3), alinéa 7(4)e), les passages du paragraphe 35(1) qui ne sont pas encore en vigueur, paragraphes 35(2) à (4) et article 36 en vigueur le 1<sup>er</sup> janvier 2001, *voir* TR/2001-4; paragraphe 29(1) en vigueur le 1<sup>er</sup> janvier 2003, *voir* TR/2002-161; alinéa 24(2)c), édicté par 2003, ch. 8, art. 18, en vigueur le 10 avril 2005, *voir* TR/2005-27; article 97, édicté par l’article 139, abrogé avant d’entrer en vigueur, *voir* 2008, ch. 20, art. 3; alinéa 24(2)d) abrogé avant d’entrer en vigueur, *voir* 2008, ch. 20, art. 3; articles 37 à 53 abrogés avant d’entrer en vigueur, *voir* 2008, ch. 20, art. 3.]<br />
 
 
