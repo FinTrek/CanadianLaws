@@ -818,6 +818,15 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 
 
+**Télévirement**
+
+**37.1** Il est entendu que les renseignements obtenus par le ministre sous le régime de la partie XV.1 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) peuvent être utilisés pour l’application de la présente loi.
+> 2014, ch. 20, art. 90.
+
+
+
+
+
 **Obligation de présenter des renseignements ou registres**
 
 **38** 
