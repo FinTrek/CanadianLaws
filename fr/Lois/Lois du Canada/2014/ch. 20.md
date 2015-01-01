@@ -1872,7 +1872,7 @@ où :
 
 <sup><a href='#nbp_IndD862_hq_13808'>[*]</a></sup>**307** Les articles 300 et 301 entrent en vigueur à la date ou aux dates fixées par décret, ces dates ne pouvant toutefois être antérieures à celle de l’entrée en vigueur de l’article 290 de la Loi no 2 sur le plan d’action économique de 2013.
 
-<a name='nbp_IndD862_hq_13808'><sup>*</sup></a>: [Note : Articles 300 et 301 non en vigueur.]<br />
+<a name='nbp_IndD862_hq_13808'><sup>*</sup></a>: [Note : Articles 300 et 301 en vigueur le 1<sup>er</sup> janvier 2015, *voir* TR/2014-99.]<br />
 
 
 
