@@ -262,6 +262,124 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+**DIVISION 0.1** 
+### Invitation to Make an Application
+
+
+
+**Application for permanent residence — invitation to apply**
+
+**10.1** 
+
+- **(1)** A foreign national who seeks to enter or remain in Canada as a member of a class that is referred to in an instruction given under paragraph 10.3(1)(a) may make an application for permanent residence only if the Minister has issued them an invitation to do so, the invitation has not been cancelled under subsection 10.2(5) and the applicable period specified in an instruction given under paragraph 10.3(1)(k) has not expired.
+
+**Limitation**
+
+- **(2)** An instruction may be given under paragraph 10.3(1)(a) only in respect of a class that is part of the economic class referred to in subsection 12(2).
+
+**Provincial nominees**
+
+- **(2.1)** In the case of the prescribed class of provincial nominees, an instruction may be given under paragraph 10.3(1)(a) in respect of the foreign nationals who are nominated by the government of a particular province in accordance with an agreement referred to in section 8, or in respect of a portion of those foreign nationals.
+
+**Expression of interest**
+
+- **(3)** A foreign national who wishes to be invited to make an application must submit an expression of interest to the Minister by means of an electronic system in accordance with instructions given under section 10.3 unless the instructions provide that they may do so by other means.
+
+**Inadmissible foreign national**
+
+- **(4)** A foreign national may not submit an expression of interest if they have been determined to be — and continue to be — inadmissible for misrepresentation.
+
+**New expression of interest**
+
+- **(5)** A foreign national who has submitted an expression of interest may not submit another one before the expiry of the period referred to in an instruction given under paragraph 10.3(1)(f).
+
+**Failure to make application**
+
+- **(6)** A foreign national who is invited to make an application and does not do so within the period specified in an instruction given under paragraph 10.3(1)(k) is not eligible to be invited to make an application in relation to the expression of interest on the basis of which the invitation was issued.
+> 2013, c. 40, s. 290; 2014, c. 20, s. 306.
+
+
+
+
+
+**Expression of interest — processing**
+
+**10.2** 
+
+- **(1)** In processing an expression of interest, the Minister
+	- **(a)** is to determine whether the foreign national is eligible to be invited to make an application by applying the criteria set out in instructions given under paragraph 10.3(1)(e) and is to advise the foreign national of the determination in accordance with instructions given under paragraph 10.3(1)(l); and
+	- **(b)** subject to subsection (2), is to determine whether, in accordance with instructions given under paragraph 10.3(1)(i), the foreign national occupies the rank required to be invited to make an application and, if so, is to issue the invitation in accordance with instructions given under paragraph 10.3(1)(l).
+
+**Limitation**
+
+- **(2)** A determination under paragraph (1)(b) may be made only if the number of invitations that have been issued is less than the number provided for in an instruction given under paragraph 10.3(1)(j).
+
+**Electronic system**
+
+- **(3)** The Minister is to use an electronic system to carry out any applicable instruction given under subsection 10.3(1) and to make a determination under paragraph (1)(a) or (b).
+
+**Compliance with instructions**
+
+- **(4)** An expression of interest must be processed in compliance with any applicable instruction.
+
+**Cancellation of invitation**
+
+- **(5)** The Minister may cancel an invitation to make an application if the invitation was issued in error.
+> 2013, c. 40, s. 290; 2014, 20, s. 306.
+
+
+
+
+
+**Instructions**
+
+**10.3** 
+
+- **(1)** The Minister may give instructions governing any matter relating to the application of this Division, including instructions respecting
+	- **(a)** the classes in respect of which subsection 10.1(1) applies;
+	- **(b)** the electronic system referred to in subsections 10.1(3) and 10.2(3);
+	- **(c)** the submission and processing of an expression of interest, including by means of the electronic system;
+	- **(d)** the circumstances in which an expression of interest may be submitted by means other than the electronic system and respecting those other means;
+	- **(e)** the criteria that a foreign national must meet to be eligible to be invited to make an application;
+	- **(f)** the period during which a foreign national remains eligible to be invited to make an application;
+	- **(g)** the personal information that the Minister may disclose under section 10.4 and the entities to which that information may be disclosed;
+	- **(h)** the basis on which an eligible foreign national may be ranked relative to other eligible foreign nationals;
+	- **(i)** the rank an eligible foreign national must occupy to be invited to make an application;
+	- **(j)** the number of invitations that may be issued within a specified period, including in respect of a class referred to in an instruction given under paragraph (a);
+	- **(k)** the period within which an application must be made once an invitation has been issued;
+	- **(l)** the means by which a foreign national is to be advised of any matter relating to their expression of interest, including an invitation to make an application; and
+	- **(m)** any matter for which a recommendation to the Minister or a decision may or must be made by a designated person, institution or organization with respect to a foreign national.
+
+**Clarification**
+
+- **(2)** For greater certainty, an instruction given under paragraph (1)(j) may provide that the number of invitations that may be issued in any specified period in respect of a class be zero.
+
+**Application of instructions**
+
+- **(3)** An instruction given under any of paragraphs (1)(a), (b) and (f) to (l) applies in respect of an expression of interest that is submitted before the day on which the instruction takes effect, unless the instruction provides otherwise.
+
+**Publication**
+
+- **(4)** Instructions given under subsection (1) must be published on the Department of Citizenship and Immigration’s Internet site. Instructions given under any of paragraphs (1)(a), (d) to (g), (k) and (l) must also be published in the Canada Gazette.
+
+**Criteria provided for under other Divisions**
+
+- **(5)** For greater certainty, an instruction given under subsection (1) may provide for criteria that are more stringent than the criteria or requirements provided for in or under any other Division of this Act regarding applications for permanent residence.
+> 2013, c. 40, s. 290; 2014, c. 20, s. 306.
+
+
+
+
+
+**Disclosure of information**
+
+**10.4** For the purpose of facilitating the selection of a foreign national as a member of the economic class or as a temporary resident, the Minister may disclose personal information provided to him or her by the foreign national under section 10.1 and referred to in an instruction given under paragraph 10.3(1)(g) to an entity that is referred to in an instruction given under that paragraph.
+> 2013, c. 40, s. 290.
+
+
+
+
+
 **DIVISION 1** 
 ### Requirements and Selection
 
@@ -314,6 +432,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **11.1** A prescribed foreign national who makes an application for a temporary resident visa, study permit or work permit must follow the prescribed procedures for the collection of prescribed biometric information.
 > 2012, c. 17, s. 6.
+
+
+
+
+
+**Visa or other document not to be issued**
+
+**11.2** An officer may not issue a visa or other document in respect of an application for permanent residence to a foreign national who was issued an invitation under Division 0.1 to make that application if — at the time the invitation was issued or at the time the officer received their application — the foreign national did not meet the criteria set out in an instruction given under paragraph 10.3(1)(e) or did not have the qualifications on the basis of which they were ranked under an instruction given under paragraph 10.3(1)(h) and were issued the invitation.
+> 2014, c. 20, s. 300.
 
 
 
@@ -422,7 +549,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** the circumstances in which a foreign national is exempt from the requirement to follow the procedures prescribed under that section;
 	- **(b)** the circumstances in which a foreign national is not required to provide certain biometric information; and
 	- **(c)** the processing of the collected biometric information, including creating biometric templates or converting the information into digital biometric formats.
-> 2001, c. 27, s. 14; 2012, c. 17, s. 9, c. 31, ss. 309, 313; 2013, c. 16, s. 4.
+
+**Applications to be made electronically**
+
+- **(5)** The regulations may require foreign nationals who make an application for a visa or other document under subsection 11(1) and foreign nationals who were issued an invitation under Division 0.1 to apply for permanent residence to make those applications by means of an electronic system and may include provisions respecting that system, respecting the circumstances in which those applications may be made by other means and respecting those other means.
+> 2001, c. 27, s. 14; 2012, c. 17, s. 9, c. 31, ss. 309, 313; 2013, c. 16, s. 4; 2014, c. 20, s. 301.
 
 
 
@@ -800,6 +931,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1.2)** The Minister may not examine the request if
 	- **(a)** the foreign national has already made such a request and the request is pending;
+	- **(a.1)** the request is for an exemption from any of the criteria or obligations of Division 0.1;
 	- **(b)** the foreign national has made a claim for refugee protection that is pending before the Refugee Protection Division or the Refugee Appeal Division; or
 	- **(c)** subject to subsection (1.21), less than 12 months have passed since the foreign national’s claim for refugee protection was last rejected, determined to be withdrawn after substantive evidence was heard or determined to be abandoned by the Refugee Protection Division or the Refugee Appeal Division.
 
@@ -816,7 +948,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Provincial criteria**
 
 - **(2)** The Minister may not grant permanent resident status to a foreign national referred to in subsection 9(1) if the foreign national does not meet the province’s selection criteria applicable to that foreign national.
-> 2001, c. 27, s. 25; 2008, c. 28, s. 117; 2010, c. 8, s. 4; 2012, c. 17, s. 13; 2013, c. 16, ss. 9, 36.
+> 2001, c. 27, s. 25; 2008, c. 28, s. 117; 2010, c. 8, s. 4; 2012, c. 17, s. 13; 2013, c. 16, ss. 9, 36, c. 40, s. 291.
 
 
 
@@ -2471,26 +2603,26 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **91** 
 
-- **(1)** Subject to this section, no person shall knowingly, directly or indirectly, represent or advise a person for consideration — or offer to do so — in connection with a proceeding or application under this Act.
+- **(1)** Subject to this section, no person shall knowingly, directly or indirectly, represent or advise a person for consideration — or offer to do so — in connection with the submission of an expression of interest under subsection 10.1(3) or a proceeding or application under this Act.
 
 **Persons who may represent or advise**
 
 - **(2)** A person does not contravene subsection (1) if they are
-	- **(a)** a lawyer who is a member in good standing of a law society of a province or a notary who is a member in good standing of the Chambre des notaires du Québec;
-	- **(b)** any other member in good standing of a law society of a province or the Chambre des notaires du Québec, including a paralegal; or
+	- **(a)** a lawyer who is a member in good standing of a law society of a province or a notary who is a member in good standing of the *Chambre des notaires du Québec*;
+	- **(b)** any other member in good standing of a law society of a province or the *Chambre des notaires du Québec*, including a paralegal; or
 	- **(c)** a member in good standing of a body designated under subsection (5).
 
 **Students-at-law**
 
-- **(3)** A student-at-law does not contravene subsection (1) by offering or providing representation or advice to a person if the student-at-law is acting under the supervision of a person mentioned in paragraph (2)(a) who is representing or advising the person — or offering to do so — in connection with a proceeding or application under this Act.
+- **(3)** A student-at-law does not contravene subsection (1) by offering or providing representation or advice to a person if the student-at-law is acting under the supervision of a person mentioned in paragraph (2)(a) who is representing or advising the person — or offering to do so — in connection with the submission of an expression of interest under subsection 10.1(3) or a proceeding or application under this Act.
 
 **Agreement or arrangement with Her Majesty**
 
-- **(4)** An entity, including a person acting on its behalf, that offers or provides services to assist persons in connection with an application under this Act, including for a permanent or temporary resident visa, travel documents or a work or study permit, does not contravene subsection (1) if it is acting in accordance with an agreement or arrangement between that entity and Her Majesty in right of Canada that authorizes it to provide those services.
+- **(4)** An entity, including a person acting on its behalf, that offers or provides services to assist persons in connection with the submission of an expression of interest under subsection 10.1(3) or an application under this Act, including for a permanent or temporary resident visa, travel documents or a work or study permit, does not contravene subsection (1) if it is acting in accordance with an agreement or arrangement between that entity and Her Majesty in right of Canada that authorizes it to provide those services.
 
 **Designation by Minister**
 
-- **(5)** The Minister may, by regulation, designate a body whose members in good standing may represent or advise a person for consideration — or offer to do so — in connection with a proceeding or application under this Act.
+- **(5)** The Minister may, by regulation, designate a body whose members in good standing may represent or advise a person for consideration — or offer to do so — in connection with the submission of an expression of interest under subsection 10.1(3) or a proceeding or application under this Act.
 
 **Revocation of designation**
 
@@ -2504,7 +2636,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(7)** The Minister may, by regulation, provide for measures respecting any transitional issues raised by the exercise of his or her power under subsection (5), including measures
 	- **(a)** making any person or member of a class of persons a member for a specified period of a body that is designated under that subsection; and
-	- **(b)** providing that members or classes of members of a body that has ceased to be a designated body under that subsection continue for a specified period to be authorized to represent or advise a person for consideration — or offer to do so — in connection with a proceeding or application under this Act without contravening subsection (1).
+	- **(b)** providing that members or classes of members of a body that has ceased to be a designated body under that subsection continue for a specified period to be authorized to represent or advise a person for consideration — or offer to do so — in connection with the submission of an expression of interest under subsection 10.1(3) or a proceeding or application under this Act without contravening subsection (1).
 
 **An Act respecting immigration to Québec**
 
@@ -2525,7 +2657,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Meaning of proceeding**
 
 - **(10)** For greater certainty, in this section, ***proceeding*** does not include a proceeding before a superior court.
-> 2001, c. 27, s. 91; 2011, c. 8, s. 1.
+> 2001, c. 27, s. 91; 2011, c. 8, s. 1; 2013, c. 40, s. 292.
 
 
 
