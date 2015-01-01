@@ -853,8 +853,12 @@ If the arbitral tribunal considers the request to be justified, it shall make th
 <td>Articles 10.19 or 10.20</td>
 <td>Free Trade Agreement between Canada and the Republic of Honduras, done at Ottawa on November 5, 2013</td>
 </tr>
+<tr>
+<td>Article 8.18 or 8.19</td>
+<td>Free Trade Agreement between Canada and the Republic of Korea, done at Ottawa on September 22, 2014</td>
+</tr>
 </table>
 
-> 2012, c. 26, s. 26; 2014, c. 14, s. 30.
+> 2012, c. 26, s. 26; 2014, c. 14, s. 30, c. 28, s. 32.
 
 
