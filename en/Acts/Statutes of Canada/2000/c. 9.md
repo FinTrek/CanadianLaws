@@ -7226,10 +7226,10 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 **367** 
 
 - **(1)** Subject to subsection 373(4), no individual shall make contributions that exceed
-	- **(a)** $1,200 in total in any calendar year to a particular registered party;
-	- **(b)** $1,200 in total in any calendar year to the registered associations, nomination contestants and candidates of a particular registered party;
-	- **(c)** $1,200 in total to a candidate for a particular election who is not the candidate of a registered party; and
-	- **(d)** $1,200 in total in any calendar year to the leadership contestants in a particular leadership contest.
+	- **(a)** $1,500 in total in any calendar year to a particular registered party;
+	- **(b)** $1,500 in total in any calendar year to the registered associations, nomination contestants and candidates of a particular registered party;
+	- **(c)** $1,500 in total to a candidate for a particular election who is not the candidate of a registered party; and
+	- **(d)** $1,500 in total in any calendar year to the leadership contestants in a particular leadership contest.
 
 **Testamentary dispositions**
 
@@ -7260,7 +7260,7 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 **Contributions under subsection (1) not affected**
 
 - **(8)** Contributions made under subsection (7) do not have the effect of reducing the amounts that the candidate or leadership contestant, as the case may be, may contribute under subsection (1) to other candidates or to other leadership contestants, as the case may be.
-> 2000, c. 9, s. 367; 2014, c. 12, s. 86.
+> 2000, c. 9, s. 367; 2014, c. 12, ss. 86, 87.
 
 
 
