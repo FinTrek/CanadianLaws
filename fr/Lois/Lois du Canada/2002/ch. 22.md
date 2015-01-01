@@ -4087,6 +4087,15 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 
 
 
+**Télévirement**
+
+**207.1** Il est entendu que les renseignements obtenus par le ministre sous le régime de la partie XV.1 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) peuvent être utilisés pour l’application de la présente loi.
+> 2014, ch. 20, art. 74.
+
+
+
+
+
 **Présentation de registres ou de renseignements**
 
 **208** 
