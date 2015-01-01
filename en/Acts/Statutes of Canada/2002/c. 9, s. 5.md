@@ -825,6 +825,15 @@ and is property beneficially owned by Her Majesty despite any security interest 
 
 
 
+**Electronic funds transfer**
+
+**37.1** For greater certainty, information obtained by the Minister under Part XV.1 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) may be used for the purposes of this Act.
+> 2014, c. 20, s. 90.
+
+
+
+
+
 **Requirement to provide information**
 
 **38** 
