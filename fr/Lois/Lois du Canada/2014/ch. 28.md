@@ -37,13 +37,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Accord*** L’Accord de libre-échange entre le Canada et la République de Corée, fait à Ottawa le 22 septembre 2014.
+***Accord*** L’Accord de libre-échange entre le Canada et la République de Corée, fait à Ottawa le 22 septembre 2014. (*Agreement*)
 
-***Commission*** La commission mixte établie aux termes de l’article 20.1 de l’Accord.
+***Commission*** La commission mixte établie aux termes de l’article 20.1 de l’Accord. (*Commission*)
 
-***ministre*** Le ministre du Commerce international.
+***ministre*** Le ministre du Commerce international. (*Minister*)
 
-***texte législatif fédéral*** Tout ou partie d’une loi fédérale ou d’un règlement, décret ou autre texte pris dans l’exercice d’un pouvoir conféré sous le régime d’une loi fédérale.
+***texte législatif fédéral*** Tout ou partie d’une loi fédérale ou d’un règlement, décret ou autre texte pris dans l’exercice d’un pouvoir conféré sous le régime d’une loi fédérale. (*federal law*)
 
 
 
