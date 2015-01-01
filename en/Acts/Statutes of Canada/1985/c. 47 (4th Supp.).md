@@ -108,6 +108,12 @@ Version anglaise seulement***prescribed*** means prescribed by regulations;
 	- **(a)** ***CHFTA*** has the same meaning as ***Agreement*** in section 2 of the [Canada–Honduras Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2014/c.%2014.md); and
 	- **(b)** ***Honduras Tariff*** means the rates of customs duty referred to in section 49.6 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
+**Definitions**
+
+- **(4.5)** In this Act,
+	- **(a)** ***CKFTA*** has the same meaning as ***Agreement*** in section 2 of the [Canada–Korea Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2014/c.%2028.md); and
+	- **(b)** ***Korea Tariff*** means the rates of customs duty referred to in section 49.7 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+
 **Goods imported from certain countries**
 
 - **(5)** For the purposes of this Act, goods are imported from one of the following countries if they are shipped directly to Canada from that country, within the meaning of sections 17 and 18 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md):a NAFTA country
@@ -124,12 +130,14 @@ Honduras
 
 Jordan
 
+Korea
+
 Panama
 
 Peru
 
 
-> R.S., 1985, c. 47 (4th Supp.), s. 2; 1993, c. 44, s. 32; 1994, c. 47, s. 27; 1996, c. 33, s. 16; 1997, c. 14, s. 19, c. 36, s. 192; 1999, c. 12, s. 53(E); 2001, c. 28, s. 19; 2005, c. 38, s. 54; 2009, c. 6, s. 16, c. 16, ss. 16, 56; 2010, c. 4, s. 16; 2012, c. 18, s. 16, c. 26, ss. 16, 62; 2014, c. 14, s. 31.
+> R.S., 1985, c. 47 (4th Supp.), s. 2; 1993, c. 44, s. 32; 1994, c. 47, s. 27; 1996, c. 33, s. 16; 1997, c. 14, s. 19, c. 36, s. 192; 1999, c. 12, s. 53(E); 2001, c. 28, s. 19; 2005, c. 38, s. 54; 2009, c. 6, s. 16, c. 16, ss. 16, 56; 2010, c. 4, s. 16; 2012, c. 18, s. 16, c. 26, ss. 16, 62; 2014, c. 14, s. 31, c. 28, s. 33.
 
 
 
@@ -726,6 +734,33 @@ Peru
 
 
 
+**Definition of principal cause**
+
+**19.0191** 
+
+- **(1)** In this section, ***principal cause*** means, in respect of a serious injury or threat of a serious injury, an important cause that is no less important than any other cause of the serious injury or threat.
+
+**Emergency measures — Korea**
+
+- **(2)** The Tribunal shall inquire into and report to the Governor in Council on the question whether goods that are entitled to the benefit of the Korea Tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms, and under such conditions as to alone constitute a principal cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods, if the Governor in Council, on the recommendation of the Minister, refers the question to it for inquiry and report.
+
+**Terms of reference**
+
+- **(3)** The Tribunal shall conduct an inquiry under subsection (2) and prepare its report in accordance with the terms of reference established by the Governor in Council or the Minister, as the case may be.
+
+**Tabling of report**
+
+- **(4)** The Minister shall cause a copy of each report submitted to the Governor in Council or the Minister to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the report is so submitted.
+
+**Notice of report**
+
+- **(5)** The Tribunal shall cause notice of the submission of a report to be published in the Canada Gazette.
+> 2014, c. 28, s. 34.
+
+
+
+
+
 **Mid-term review**
 
 **19.02** 
@@ -950,6 +985,29 @@ that the Governor in Council refers to the Tribunal for inquiry.
 
 
 
+**Definition of principal cause**
+
+**20.07** 
+
+- **(1)** In this section, ***principal cause*** means, in respect of a serious injury or threat of a serious injury, an important cause that is no less important than any other cause of the serious injury or threat.
+
+**Determination in respect of goods imported from Korea**
+
+- **(2)** Where, in an inquiry conducted under section 20 into goods imported from Korea that are specified by the Governor in Council, the Tribunal finds that the specified imported goods and goods of the same kind imported from other countries are being imported in such increased quantities, in absolute terms, and under such conditions as to alone constitute a principal cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods, the Tribunal shall determine whether the specified imported goods are a principal cause of the serious injury or threat of serious injury.
+
+**Determinations**
+
+- **(3)** In the case of an inquiry to which subsection (2) applies, the Tribunal shall include in its report any determinations made under that subsection.
+
+**Inquiry under section 30.07**
+
+- **(4)** In an inquiry commenced under section 30.07 into goods imported from Korea conducted pursuant to an extension request, the Tribunal shall determine whether the goods imported from Korea are a principal cause of the serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods.
+> 2014, c. 28, s. 35.
+
+
+
+
+
 **Interpretation**
 
 **20.1** 
@@ -1029,8 +1087,8 @@ that the Governor in Council refers to the Tribunal for inquiry.
 
 **Definition of complaint**
 
-**21.1** In sections 23 to 30, ***complaint*** means a written complaint filed with the Tribunal under any of subsections 23(1) to (1.096) and, for the purposes of those sections, a complaint is properly documented if the Tribunal is satisfied that it contains or is accompanied by the information required by section 23.
-> 1993, c. 44, s. 39; 1996, c. 33, s. 20; 1997, c. 14, s. 23; 2001, c. 28, s. 21; 2009, c. 6, s. 18, c. 16, ss. 19, 56; 2010, c. 4, s. 19; 2012, c. 18, s. 18; 2014, c. 14, s. 34.
+**21.1** In sections 23 to 30, ***complaint*** means a written complaint filed with the Tribunal under any of subsections 23(1) to (1.097) and, for the purposes of those sections, a complaint is properly documented if the Tribunal is satisfied that it contains or is accompanied by the information required by section 23.
+> 1993, c. 44, s. 39; 1996, c. 33, s. 20; 1997, c. 14, s. 23; 2001, c. 28, s. 21; 2009, c. 6, s. 18, c. 16, ss. 19, 56; 2010, c. 4, s. 19; 2012, c. 18, s. 18; 2014, c. 14, s. 34, c. 28, s. 36.
 
 
 
@@ -1119,6 +1177,10 @@ that the Governor in Council refers to the Tribunal for inquiry.
 
 - **(1.096)** Any domestic producer of any textile and apparel goods that are like or directly competitive with any textile and apparel goods being imported into Canada and that are entitled, either under section 24 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or, under section 49.6(8) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), to the Honduras Tariff, or any person or association acting on behalf of such a domestic producer, may file a written complaint with the Tribunal alleging that, as a result of that entitlement, the imported goods are being imported in such increased quantities, in absolute terms or relative to the domestic market in Canada for the goods, and under such conditions as to cause serious damage, or actual threat thereof, to domestic producers of like or directly competitive textile or apparel goods.
 
+**Filing of complaint — Korea Tariff**
+
+- **(1.097)** Any domestic producer of goods that are like or directly competitive with any goods being imported into Canada and that are entitled to the Korea Tariff, or any person or association acting on behalf of such a domestic producer, may file a written complaint with the Tribunal alleging that, as a result of that entitlement, the imported goods are being imported in such increased quantities, in absolute terms, and under such conditions as to alone constitute a principal cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods.
+
 **Filing of complaint**
 
 - **(1.1)** Any domestic producer of goods that are like or directly competitive with any goods being imported into Canada and that are entitled to the United States Tariff in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), or any person or association acting on behalf of any such domestic producer, may file a written complaint with the Tribunal alleging that as a result of the reduction or elimination of that tariff, the imported goods are being imported in such increased quantities and under such conditions as to alone constitute a cause of serious injury to domestic producers of like or directly competitive goods.
@@ -1139,7 +1201,7 @@ that the Governor in Council refers to the Tribunal for inquiry.
 **Receipt to be acknowledged**
 
 - **(4)** The Tribunal shall, forthwith after the receipt of a complaint, notify the complainant in writing of the receipt and date of receipt thereof.
-> R.S., 1985, c. 47 (4th Supp.), s. 23; 1988, c. 65, s. 56; 1993, c. 44, s. 40; 1994, c. 47, ss. 46(F), 47(F); 1996, c. 33, s. 21; 1997, c. 14, s. 24, c. 36, s. 196; 2001, c. 28, s. 22; 2009, c. 6, s. 19, c. 16, ss. 20, 56; 2010, c. 4, s. 20; 2012, c. 18, s. 19, c. 26, s. 20; 2014, c. 14, s. 35.
+> R.S., 1985, c. 47 (4th Supp.), s. 23; 1988, c. 65, s. 56; 1993, c. 44, s. 40; 1994, c. 47, ss. 46(F), 47(F); 1996, c. 33, s. 21; 1997, c. 14, s. 24, c. 36, s. 196; 2001, c. 28, s. 22; 2009, c. 6, s. 19, c. 16, ss. 20, 56; 2010, c. 4, s. 20; 2012, c. 18, s. 19, c. 26, s. 20; 2014, c. 14, s. 35, c. 28, s. 37.
 
 
 
@@ -1203,7 +1265,8 @@ that the Governor in Council refers to the Tribunal for inquiry.
 		- **(i.93)** in the case of a complaint filed under subsection 23(1.093), the goods that are entitled to the Peru Tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to the domestic production of like or directly competitive goods, and under such conditions as to constitute a cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods,
 		- **(i.94)** in the case of a complaint filed under subsection 23(1.094), the goods that are entitled to the Jordan Tariff are, as a result of that entitlement, being imported in such increased quantities in absolute terms and under such conditions as to alone constitute a cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods,
 		- **(i.95)** in the case of a complaint filed under subsection 23(1.095), the goods that are entitled to the Honduras Tariff are, as a result of that entitlement, being imported in such increased quantities and under such conditions that they alone constitute a principal cause of serious injury, or threat thereof, to domestic producers of like or directly competitive goods,
-		- **(i.96)** in the case of a complaint filed under subsection 23(1.096), the textile and apparel goods that are entitled to the Honduras Tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to the market in Canada for the goods, and under such conditions as to alone cause serious damage, or actual threat thereof, to domestic producers of like or directly competitive textile and apparel goods, or
+		- **(i.96)** in the case of a complaint filed under subsection 23(1.096), the textile and apparel goods that are entitled to the Honduras Tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to the market in Canada for the goods, and under such conditions as to alone cause serious damage, or actual threat thereof, to domestic producers of like or directly competitive textile and apparel goods,
+		- **(i.97)** in the case of a complaint filed under subsection 23(1.097), the goods that are entitled to the Korea Tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms, and under such conditions as to alone constitute a principal cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods, or
 		- **(ii)** in the case of a complaint filed under subsection 23(1.1), the goods that are entitled to the United States Tariff in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) are, as a result of the reduction or elimination of that tariff, being imported in such increased quantities and under such conditions that they alone constitute a cause of serious injury to domestic producers of like or directly competitive goods;
 	- **(b)** that the complaint is made by or on behalf of domestic producers who produce a major proportion of domestic production of the like or directly competitive goods; and
 	- **(c)** where an inquiry, except an inquiry under sections 30.21 to 30.25, in relation to like or directly competitive goods has been completed or terminated by the Tribunal under this Act during the twenty-four month period preceding the date of receipt of the complaint, that the circumstances are sufficiently different to warrant a new inquiry.
@@ -1246,7 +1309,7 @@ that the Governor in Council refers to the Tribunal for inquiry.
 **Time limit on inquiry**
 
 - **(7)** If subsection 55(5) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or subsection 5(3.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) prohibits the making of an order under subsection 55(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or subsection 5(3) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) in respect of any goods during any period, the Tribunal may commence an inquiry into a complaint under subsection (1) in respect of the goods no earlier than one hundred and eighty days before the end of the period.
-> R.S., 1985, c. 47 (4th Supp.), s. 26; 1988, c. 65, s. 57; 1993, c. 44, s. 42; 1994, c. 13, s. 7, c. 47, ss. 36, 46(F), 47(F); 1996, c. 33, s. 22; 1997, c. 14, s. 26, c. 36, s. 197; 1999, c. 12, s. 57, c. 17, ss. 114, 115; 2001, c. 28, s. 24; 2002, c. 19, s. 1; 2005, c. 38, s. 55; 2009, c. 6, s. 21, c. 16, ss. 21, 56; 2010, c. 4, s. 21; 2012, c. 18, s. 20, c. 26, s. 21; 2014, c. 14, s. 37.
+> R.S., 1985, c. 47 (4th Supp.), s. 26; 1988, c. 65, s. 57; 1993, c. 44, s. 42; 1994, c. 13, s. 7, c. 47, ss. 36, 46(F), 47(F); 1996, c. 33, s. 22; 1997, c. 14, s. 26, c. 36, s. 197; 1999, c. 12, s. 57, c. 17, ss. 114, 115; 2001, c. 28, s. 24; 2002, c. 19, s. 1; 2005, c. 38, s. 55; 2009, c. 6, s. 21, c. 16, ss. 21, 56; 2010, c. 4, s. 21; 2012, c. 18, s. 20, c. 26, s. 21; 2014, c. 14, s. 37, c. 28, s. 38.
 
 
 
@@ -1274,7 +1337,8 @@ that the Governor in Council refers to the Tribunal for inquiry.
 	- **(a.93)** in the case of a complaint filed under subsection 23(1.093), the goods that are entitled to the Peru Tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to domestic production of like or directly competitive goods, and under such conditions as to constitute a principal cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods;
 	- **(a.94)** in the case of a complaint filed under subsection 23(1.094), the goods that are entitled to the Jordan Tariff are, as a result of that entitlement, being imported in such increased quantities in absolute terms and under such conditions as to alone constitute a principal cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods;
 	- **(a.95)** in the case of a complaint filed under subsection 23(1.095), the goods that are entitled to the Honduras Tariff are, as a result of that entitlement, being imported in such increased quantities and under such conditions that they alone constitute a principal cause of serious injury, or threat thereof, to domestic producers of like or directly competitive goods;
-	- **(a.96)** in the case of a complaint filed under subsection 23(1.096), the textile and apparel goods that are entitled to the Honduras Tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to the market in Canada for the goods, and under such conditions as to cause serious damage, or actual threat thereof, to domestic producers of like or directly competitive textile and apparel goods; or
+	- **(a.96)** in the case of a complaint filed under subsection 23(1.096), the textile and apparel goods that are entitled to the Honduras Tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to the market in Canada for the goods, and under such conditions as to cause serious damage, or actual threat thereof, to domestic producers of like or directly competitive textile and apparel goods;
+	- **(a.97)** in the case of a complaint filed under subsection 23(1.097), the goods that are entitled to the Korea Tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms, and under such conditions as to alone constitute a principal cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods; or
 	- **(b)** in the case of a complaint filed under subsection 23(1.1), the goods that are entitled to the United States Tariff in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) are, as a result of the reduction or elimination of that tariff, being imported in such increased quantities and under such conditions that they alone constitute a principal cause of serious injury to domestic producers of like or directly competitive goods.
 
 **Definition of principal cause**
@@ -1296,7 +1360,7 @@ that the Governor in Council refers to the Tribunal for inquiry.
 **Other matters**
 
 - **(3)** The Tribunal shall, in an inquiry into a complaint, examine any other matter in relation to the complaint that the Governor in Council refers to it for examination.
-> R.S., 1985, c. 47 (4th Supp.), s. 27; 1988, c. 65, s. 58; 1993, c. 44, s. 43; 1994, c. 47, ss. 46(F), 47(F); 1996, c. 33, s. 23; 1997, c. 14, s. 27, c. 36, s. 198; 2001, c. 28, s. 25; 2009, c. 6, s. 22, c. 16, ss. 22, 56; 2010, c. 4, s. 22; 2012, c. 18, s. 21, c. 26, s. 22; 2014, c. 14, s. 38.
+> R.S., 1985, c. 47 (4th Supp.), s. 27; 1988, c. 65, s. 58; 1993, c. 44, s. 43; 1994, c. 47, ss. 46(F), 47(F); 1996, c. 33, s. 23; 1997, c. 14, s. 27, c. 36, s. 198; 2001, c. 28, s. 25; 2009, c. 6, s. 22, c. 16, ss. 22, 56; 2010, c. 4, s. 22; 2012, c. 18, s. 21, c. 26, s. 22; 2014, c. 14, s. 38, c. 28, s. 39.
 
 
 
@@ -1548,14 +1612,15 @@ the Tribunal may extend that period by not more than ninety days and, where it d
 
 **30.03** 
 
-- **(1)** The Tribunal shall cause to be published in the Canada Gazette a notice of the expiry date of any order that imposes a surtax on any goods under subsection 55(1), section 60 or subsection 63(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or includes any goods on the Import Control List under subsection 5(3), (3.2) or (4.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md), but no notice shall be published if
-	- **(a)** the order is repealed or ceases to have effect under subsection 56(1) or (2), 59(2) or 63(5) or section 64 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or is revoked under subsection 5(4.4) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) before the end of the effective period specified in the order; or
-	- **(b)** the total of the effective period specified in the order and any periods during which the goods were subject to any related orders made under subsection 55(1), section 60 or subsection 63(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or subsection 5(3), (3.2) or (4.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) is eight years.
+- **(1)** The Tribunal shall cause to be published in the Canada Gazette a notice of the expiry date of any order that imposes a surtax on any goods under subsection 55(1), section 60, subsection 63(1) or 74(1) or (2) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or includes any goods on the Import Control List under subsection 5(3), (3.2) or (4.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md), but no notice shall be published if
+	- **(a)** the order is repealed or ceases to have effect under subsection 56(1) or (2), 59(2) or 63(5) or section 64 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or is revoked under subsection 5(4.4) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) before the end of the effective period specified in the order;
+	- **(b)** the total of the effective period specified in the order and any periods during which the goods were subject to any related orders made under subsection 55(1), section 60 or subsection 63(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or subsection 5(3), (3.2) or (4.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) is eight years; or
+	- **(c)** the total of the effective period specified in the order and any periods during which the goods were subject to a surtax imposed by an order made under subsection 74(1) or (2) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) is four years.
 
 **Manner and contents of publication**
 
 - **(2)** The notice shall be published in accordance with the rules and shall state the final date for filing an extension request in respect of the order.
-> 1994, c. 47, s. 38; 1996, c. 33, s. 25; 1997, c. 14, s. 29, c. 36, s. 202.
+> 1994, c. 47, s. 38; 1996, c. 33, s. 25; 1997, c. 14, s. 29, c. 36, s. 202; 2014, c. 28, s. 40.
 
 
 
@@ -1565,7 +1630,7 @@ the Tribunal may extend that period by not more than ninety days and, where it d
 
 **30.04** 
 
-- **(1)** Any domestic producer of goods that are like or directly competitive with any goods that are subject to an order referred to in subsection 30.03(1), or any person or association acting on behalf of any such domestic producer, may file with the Tribunal a written request that an extension order be made under subsection 63(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or subsection 5(3.2) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) because an order continues to be necessary to prevent or remedy serious injury to domestic producers of like or directly competitive goods.
+- **(1)** Any domestic producer of goods that are like or directly competitive with any goods that are subject to an order referred to in subsection 30.03(1), or any person or association acting on behalf of any such domestic producer, may file with the Tribunal a written request that an extension order be made under subsection 63(1) or 74(7) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or subsection 5(3.2) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) because an order continues to be necessary to prevent or remedy serious injury to domestic producers of like or directly competitive goods.
 
 **Time limit for filing extension request**
 
@@ -1574,7 +1639,7 @@ the Tribunal may extend that period by not more than ninety days and, where it d
 **Receipt to be acknowledged**
 
 - **(3)** The Tribunal shall, forthwith after receipt of an extension request, notify the requester in writing of its receipt and the date of its receipt.
-> 1994, c. 47, s. 38; 1996, c. 33, s. 26; 1997, c. 14, s. 30, c. 36, s. 203.
+> 1994, c. 47, s. 38; 1996, c. 33, s. 26; 1997, c. 14, s. 30, c. 36, s. 203; 2014, c. 28, s. 41.
 
 
 
@@ -2169,6 +2234,116 @@ that the Governor in Council refers to the Tribunal for inquiry.
 
 **30.26** Sections 30.2 to 30.25 cease to have effect on December 11, 2013.
 > 2002, c. 19, s. 4.
+
+
+
+
+
+## Safeguard Measures in Respect of Korea
+
+
+
+**Definition of complaint**
+
+**30.27** In sections 30.28 to 30.32, ***complaint*** means a written complaint filed with the Tribunal under subsection 23(1.097) and, for the purposes of those sections, a complaint is properly documented if the Tribunal is satisfied that it contains or is accompanied by the information required by subsection 30.28(2).
+> 2014, c. 28, s. 42.
+
+
+
+
+
+**Critical circumstances**
+
+**30.28** 
+
+- **(1)** Any domestic producer of goods that are like or directly competitive with any goods being imported into Canada and that are entitled to the Korea Tariff, or any person or association acting on behalf of such a domestic producer, may, if filing a complaint under subsection 23(1.097), include in that complaint a written allegation that as a result of that entitlement, the imported goods are being imported in such increased quantities, in absolute terms, and under such conditions as to give rise to critical circumstances.
+
+**Contents of allegation**
+
+- **(2)** The allegation must
+	- **(a)** state in reasonable detail the facts on which it is based;
+	- **(b)** state an estimate of the total percentage of Canadian production of the like or directly competitive goods that is produced by the domestic producers by whom or on whose behalf the allegation is filed;
+	- **(c)** be accompanied by any information that is available to the complainant to support the facts referred to in paragraph (a) and to substantiate the estimate referred to in paragraph (b);
+	- **(d)** be accompanied by any other information that may be required by the rules; and
+	- **(e)** make any other representations that the complainant considers relevant to the matter.
+> 2014, c. 28, s. 42.
+
+
+
+
+
+**Request for additional information**
+
+**30.29** 
+
+- **(1)** The Tribunal may, within seven days after the day on which a complaint under subsection 23(1.097) is received, by notice in writing, request the complainant to provide any additional information that the Tribunal considers necessary in order for an allegation that is included in the complaint to be properly documented.
+
+**Subsequent request for additional information**
+
+- **(2)** If the Tribunal receives additional information under subsection (1) or this subsection, the Tribunal may, within seven days after the day on which the additional information is received, by notice in writing, request the complainant to provide any additional information that the Tribunal considers necessary in order for the allegation to be properly documented.
+> 2014, c. 28, s. 42.
+
+
+
+
+
+**Commencement of inquiry**
+
+**30.3** 
+
+- **(1)** The Tribunal shall, within seven days after the day on which an allegation is received or, if the Tribunal has requested the complainant to provide additional information under subsection 30.29(1) or (2), within seven days after the day on which the additional information is received, determine whether the allegation is properly documented and, if the Tribunal determines that it is, commence an inquiry into the allegation if it is satisfied
+	- **(a)** that the information provided by the complainant and any other information examined by the Tribunal discloses a reasonable indication that
+		- **(i)** the goods that are entitled to the Korea Tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms, and under such conditions as to constitute a principal cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods, and
+		- **(ii)** delay in taking action would cause serious injury to domestic producers of like or directly competitive goods that would be difficult to repair; and
+	- **(b)** that the allegation is made by or on behalf of domestic producers that produce a major proportion of the domestic production of the like or directly competitive goods.
+
+**Notification of decision to commence inquiry**
+
+- **(2)** If the Tribunal decides to commence an inquiry, it shall immediately
+	- **(a)** notify the complainant and each other interested party in writing of its decision, of the reasons for it and of the date on which any hearing in the inquiry will commence;
+	- **(b)** cause a notice of its decision and the date on which any hearing in the inquiry will commence to be published in the Canada Gazette; and
+	- **(c)** send to the Minister a copy of the complaint and the information accompanying the complaint, the allegation and the information accompanying the allegation and any other relevant information examined by the Tribunal in relation to the allegation.
+
+**Notification of decision not to commence inquiry**
+
+- **(3)** If the Tribunal decides not to commence an inquiry, it shall immediately notify the complainant of its decision, of the reasons for it and, if the reasons are based in whole or in part on information that was obtained from a source other than the complainant, of the fact that the decision was based in whole or in part on that information.
+> 2014, c. 28, s. 42.
+
+
+
+
+
+**Determination by Tribunal**
+
+**30.31** 
+
+- **(1)** In an inquiry, the Tribunal shall, not later than 58 days after the day on which the complaint is received and having regard to any regulations made under paragraph 40(a), determine on the basis of available information whether
+	- **(a)** the evidence discloses a reasonable indication that the goods that are entitled to the Korea Tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms, and under such conditions as to constitute a principal cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods; and
+	- **(b)** delay in taking action would cause serious injury to domestic producers of like or directly competitive goods that would be difficult to repair.
+
+**Other matters**
+
+- **(2)** During the inquiry, the Tribunal shall examine any other matter in relation to the allegation that the Governor in Council refers to it.
+
+**Report of inquiry**
+
+- **(3)** The Tribunal shall prepare a report on the inquiry and provide a copy of the report to the Governor in Council, the Minister, the complainant and any other person who made representations to the Tribunal during the inquiry.
+
+**Publication of notice**
+
+- **(4)** The Tribunal shall cause a notice of the report to be given to each other interested party and to be published in the Canada Gazette.
+> 2014, c. 28, s. 42.
+
+
+
+
+
+**Termination of inquiry**
+
+**30.32** If the Tribunal determines under subsection 25(1) that the complaint in which the allegation is included is not properly documented, or determines not to commence an inquiry into the complaint under subsection 26(3), any proceeding initiated in relation to the allegation shall be terminated and the Tribunal must
+- **(a)** if an inquiry has been commenced under subsection 30.3(1), notify the complainant and each other interested party in writing that the proceeding has been terminated and cause a notice of the fact that the proceeding has been terminated to be published in the Canada Gazette; or
+- **(b)** if an inquiry has not been commenced, notify the complainant in writing that the proceeding has been terminated.
+> 2014, c. 28, s. 42.
 
 
 
