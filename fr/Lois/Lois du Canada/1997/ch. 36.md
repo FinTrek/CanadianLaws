@@ -50,6 +50,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***Accord de libre-échange Canada-Colombie*** S’entend de l’Accord au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada-Colombie](/fr/Lois/Lois%20du%20Canada/2010/ch.%204.md).
 
+***Accord de libre-échange Canada-Corée*** S’entend de l’Accord au sens de l’article 2 de la [Loi sur la croissance économique et la prospérité — Canada-Corée](/fr/Lois/Lois%20du%20Canada/2014/ch.%2028.md).
+
 ***Accord de libre-échange Canada — Costa Rica*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Costa Rica](/fr/Lois/Lois%20du%20Canada/2001/ch.%2028.md).
 
 ***Accord de libre-échange Canada — États-Unis*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — États-Unis](/fr/Lois/Lois%20du%20Canada/1988/ch.%2065.md).
@@ -73,6 +75,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***Colombie*** Le territoire terrestre, tant continental qu’insulaire, l’espace aérien et les zones maritimes sur lesquelles la République de Colombie exerce sa souveraineté ou a des droits souverains ou a juridiction conformément à sa législation interne et au droit international.
 
 ***contingent tarifaire*** Limitation de la quantité de marchandises bénéficiant d’un traitement tarifaire donné qui peut être importée au cours d’une période donnée.
+
+***Corée*** Les étendues terrestres et maritimes et l’espace aérien sur lesquels la République de Corée exerce sa souveraineté, ainsi que les zones maritimes, y compris le fond marin et le sous-sol adjacent à la limite extérieure des mers territoriales et au-delà de cette limite, à l’égard desquelles elle peut exercer des droits souverains ou sa compétence conformément à son droit interne et au droit international.
 
 ***Costa Rica*** Le territoire, l’espace aérien et les zones maritimes, y compris les fonds marins et leur sous-sol adjacents à la limite extérieure des eaux territoriales, de même que leurs ressources naturelles, sur lesquels il exerce des droits souverains conformément au droit international et à son droit interne.
 
@@ -162,7 +166,7 @@ French version only***taux*** Le taux de droits de douane.
 **Territoires**
 
 - **(2)** Les territoires prévus par règlement, pour l’application de la définition de ***pays***, ne sont reconnus comme pays que pour l’application de la présente loi.
-> 1997, ch. 36, art. 2; 2001, ch. 28, art. 31; 2005, ch. 38, art. 143(A) et 145; 2009, ch. 6, art. 30, ch. 16, art. 36; 2010, ch. 4, art. 30; 2012, ch. 18, art. 32, ch. 26, art. 38; 2014, ch. 14, art. 39.
+> 1997, ch. 36, art. 2; 2001, ch. 28, art. 31; 2005, ch. 38, art. 143(A) et 145; 2009, ch. 6, art. 30, ch. 16, art. 36; 2010, ch. 4, art. 30; 2012, ch. 18, art. 32, ch. 26, art. 38; 2014, ch. 14, art. 39, ch. 28, art. 43.
 
 
 
@@ -188,6 +192,8 @@ French version only***taux*** Le taux de droits de douane.
 
 Colombie
 
+Corée
+
 Costa Rica
 
 Islande
@@ -207,7 +213,7 @@ Pérou
 Suisse
 
 
-> 1997, ch. 36, art. 5; 2001, ch. 28, art. 32; 2009, ch. 6, art. 31, ch. 16, art. 37 et 56; 2010, ch. 4, art. 31; 2011, ch. 24, art. 111; 2012, ch. 18, art. 33, ch. 26, art. 39 et 62.
+> 1997, ch. 36, art. 5; 2001, ch. 28, art. 32; 2009, ch. 6, art. 31, ch. 16, art. 37 et 56; 2010, ch. 4, art. 31; 2011, ch. 24, art. 111; 2012, ch. 18, art. 33, ch. 26, art. 39 et 62; 2014, ch. 28, art. 44.
 
 
 
@@ -315,12 +321,14 @@ Suisse
 		- **(xi)** le paragraphe 71.6(1),
 		- **(xii)** le paragraphe 72(2),
 		- **(xiii)** le paragraphe 73(1),
-		- **(xiv)** les paragraphes 5(3), (3.2) ou (4.1) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md).
+		- **(xiv)** le paragraphe 74(1),
+		- **(xv)** le paragraphe 74(2),
+		- **(xvi)** les paragraphes 5(3), (3.2) ou (4.1) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md).
 
 **Rétroactivité des décrets**
 
 - **(3)** Les décrets pris aux termes du paragraphe (2) peuvent, s’ils comportent une disposition en ce sens, avoir un effet rétroactif et s’appliquer à une période antérieure à la date de leur prise, mais postérieure à la date d’entrée en vigueur du présent article.
-> 1997, ch. 36, art. 14; 2001, ch. 28, art. 33; 2009, ch. 16, art. 38 et 56; 2010, ch. 4, art. 32; 2011, ch. 24, art. 113; 2012, ch. 18, art. 34 et 44, ch. 26, art. 40, 61 à 63; 2014, ch. 14, art. 40.
+> 1997, ch. 36, art. 14; 2001, ch. 28, art. 33; 2009, ch. 16, art. 38 et 56; 2010, ch. 4, art. 32; 2011, ch. 24, art. 113; 2012, ch. 18, art. 34 et 44, ch. 26, art. 40, 61 à 63; 2014, ch. 14, art. 40, ch. 28, art. 45.
 
 
 
@@ -645,6 +653,8 @@ Suisse
 
 ***TJ*** Tarif de la Jordanie.
 
+***TKR*** Tarif de la Corée.
+
 ***TM*** Tarif du Mexique.
 
 ***TMÉU*** Tarif Mexique–États-Unis.
@@ -664,7 +674,7 @@ Suisse
 ***TPMD*** Tarif des pays les moins développés.
 
 ***TSL*** Tarif de Suisse-Liechtenstein.
-> 1997, ch. 36, art. 27; 2001, ch. 28, art. 36; 2009, ch. 6, art. 32, ch. 16, art. 40 et 56; 2010, ch. 4, art. 34; 2011, ch. 24, art. 116; 2012, ch. 18, art. 35 et 44, ch. 26, art. 41, 61 à 63; 2014, ch. 14, art. 42.
+> 1997, ch. 36, art. 27; 2001, ch. 28, art. 36; 2009, ch. 6, art. 32, ch. 16, art. 40 et 56; 2010, ch. 4, art. 34; 2011, ch. 24, art. 116; 2012, ch. 18, art. 35 et 44, ch. 26, art. 41, 61 à 63; 2014, ch. 14, art. 42, ch. 28, art. 46.
 
 
 
@@ -1553,6 +1563,78 @@ Suisse
 
 
 
+#### Tarif de la Corée
+
+
+
+**Application du TKR**
+
+**49.7** 
+
+- **(1)** Sous réserve de l’article 24, les marchandises originaires de la Corée bénéficient des taux du tarif de la Corée.
+
+**Taux final « A » pour le TKR**
+
+- **(2)** Dans les cas où « A » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TKR » pour des marchandises qui bénéficient du tarif de la Corée, le taux final, la franchise en douane, s’applique.
+
+**Échelonnement « F » pour le TKR**
+
+- **(3)** Dans les cas où « F » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TKR » pour des marchandises qui bénéficient du tarif de la Corée, le taux initial s’applique, réduit par étapes selon le tableau des échelonnements.
+
+**Échelonnement pour le TKR**
+
+- **(4)** Dans les cas où « V1 » « V2 », « V3 » ou « V4 » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TKR » pour des marchandises qui bénéficient du tarif de la Corée, le taux initial s’applique, réduit par étapes de la façon suivante :
+	- **a)** dans le cas de « V1 » :
+		- **(i)** à compter de l’entrée en vigueur du présent paragraphe, à 66,7 % du taux initial,
+		- **(ii)** à compter de la date du premier anniversaire de l’entrée en vigueur du présent paragraphe, à 33,3 % du taux initial,
+		- **(iii)** à compter de la date du deuxième anniversaire de l’entrée en vigueur du présent paragraphe, au taux final, la franchise en douane;
+	- **b)** dans le cas de « V2 » :
+		- **(i)** à compter de l’entrée en vigueur du présent paragraphe, à 80 % du taux initial,
+		- **(ii)** à compter de la date du premier anniversaire de l’entrée en vigueur du présent paragraphe, à 60 % du taux initial,
+		- **(iii)** à compter de la date du deuxième anniversaire de l’entrée en vigueur du présent paragraphe, à 40 % du taux initial,
+		- **(iv)** à compter de la date du troisième anniversaire de l’entrée en vigueur du présent paragraphe, à 20 % du taux initial,
+		- **(v)** à compter de la date du quatrième anniversaire de l’entrée en vigueur du présent paragraphe, au taux final, la franchise en douane;
+	- **c)** dans le cas de « V3 » :
+		- **(i)** à compter de l’entrée en vigueur du présent paragraphe, à 90 % du taux initial,
+		- **(ii)** à compter de la date du premier anniversaire de l’entrée en vigueur du présent paragraphe, à 80 % du taux initial,
+		- **(iii)** à compter de la date du deuxième anniversaire de l’entrée en vigueur du présent paragraphe, à 70 % du taux initial,
+		- **(iv)** à compter de la date du troisième anniversaire de l’entrée en vigueur du présent paragraphe, à 60 % du taux initial,
+		- **(v)** à compter de la date du quatrième anniversaire de l’entrée en vigueur du présent paragraphe, à 50 % du taux initial,
+		- **(vi)** à compter de la date du cinquième anniversaire de l’entrée en vigueur du présent paragraphe, à 40 % du taux initial,
+		- **(vii)** à compter de la date du sixième anniversaire de l’entrée en vigueur du présent paragraphe, à 30 % du taux initial,
+		- **(viii)** à compter de la date du septième anniversaire de l’entrée en vigueur du présent paragraphe, à 20 % du taux initial,
+		- **(ix)** à compter de la date du huitième anniversaire de l’entrée en vigueur du présent paragraphe, à 10 % du taux initial,
+		- **(x)** à compter de la date du neuvième anniversaire de l’entrée en vigueur du présent paragraphe, au taux final, la franchise en douane;
+	- **d)** dans le cas de « V4 » :
+		- **(i)** à compter de l’entrée en vigueur du présent paragraphe, à 90,9 % du taux initial,
+		- **(ii)** à compter de la date du premier anniversaire de l’entrée en vigueur du présent paragraphe, à 81,8 % du taux initial,
+		- **(iii)** à compter de la date du deuxième anniversaire de l’entrée en vigueur du présent paragraphe, à 72,7 % du taux initial,
+		- **(iv)** à compter de la date du troisième anniversaire de l’entrée en vigueur du présent paragraphe, à 63,6 % du taux initial,
+		- **(v)** à compter de la date du quatrième anniversaire de l’entrée en vigueur du présent paragraphe, à 54,5 % du taux initial,
+		- **(vi)** à compter de la date du cinquième anniversaire de l’entrée en vigueur du présent paragraphe, à 45,5 % du taux initial,
+		- **(vii)** à compter de la date du sixième anniversaire de l’entrée en vigueur du présent paragraphe, à 36,4 % du taux initial,
+		- **(viii)** à compter de la date du septième anniversaire de l’entrée en vigueur du présent paragraphe, à 27,3 % du taux initial,
+		- **(ix)** à compter de la date du huitième anniversaire de l’entrée en vigueur du présent paragraphe, à 18,2 % du taux initial,
+		- **(x)** à compter de la date du neuvième anniversaire de l’entrée en vigueur du présent paragraphe, à 9,1 % du taux initial,
+		- **(xi)** à compter de la date du dixième anniversaire de l’entrée en vigueur du présent paragraphe, au taux final, la franchise en douane.
+
+**Arrondissement des taux spécifiques**
+
+- **(5)** Dans le cas où le taux spécifique réduit en application des paragraphes (3) ou (4) comporte une fraction de un dixième de cent, il est arrondi au dixième de cent inférieur.
+
+**Arrondissement : fraction autre que 0,5**
+
+- **(6)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) comporte une fraction de un pour cent autre que 0,5, il est arrondi au multiple de 0,5 pour cent inférieur.
+
+**Suppression des taux inférieurs à deux pour cent**
+
+- **(7)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement.
+> 2014, ch. 28, art. 47.
+
+
+
+
+
 #### Tarif de l’Accord Canada — Israël
 
 
@@ -1868,13 +1950,17 @@ Suisse
 
 **54** Les définitions qui suivent s’appliquent aux articles 55 à 67.
 
-***augmentation subite*** À l’égard de marchandises importées :
+***augmentation subite*** À l’égard de marchandises importées :
 - **a)** d’un pays ALÉNA, s’entend au sens de l’article 805 de l’Accord de libre-échange nord-américain;
-- **b)** du Chili, s’entend au sens de l’article F-05 de l’Accord de libre-échange Canada–Chili.
+- **b)** du Chili, s’entend au sens de l’article F-05 de l’Accord de libre-échange Canada–Chili. (*surge*)
 
-***cause principale*** À l’égard de marchandises importées d’un pays mentionné ci-après, toute cause sérieuse dont l’importance est égale ou supérieure à celle des autres causes :
+***cause principale*** À l’égard de marchandises importées d’un pays mentionné ci-après, toute cause sérieuse dont l’importance est égale ou supérieure à celle des autres causes :
 
 Colombie
+
+
+
+Corée
 
 
 
@@ -1882,20 +1968,20 @@ Panama
 
 
 
-Pérou
+Pérou (*principal cause*)
 
 
 
-***contribuer de manière importante*** À l’égard de marchandises importées d’un pays mentionné ci-après, le fait de constituer une cause importante sans être nécessairement la plus importante :
+***contribuer de manière importante*** À l’égard de marchandises importées d’un pays mentionné ci-après, le fait de constituer une cause importante sans être nécessairement la plus importante :
 
 Chili
 
 
 
-pays ALÉNA
+pays ALÉNA (*contribute importantly*)
 
 
-> 1997, ch. 36, art. 54; 2009, ch. 16, art. 43; 2010, ch. 4, art. 36; 2011, ch. 24, art. 124; 2012, ch. 26, art. 43.
+> 1997, ch. 36, art. 54; 2009, ch. 16, art. 43; 2010, ch. 4, art. 36; 2011, ch. 24, art. 124; 2012, ch. 26, art. 43; 2014, ch. 28, art. 48.
 
 
 
@@ -1984,12 +2070,14 @@ pays ALÉNA
 
 **59.1** Le décret visé au paragraphe 55(1) peut exclure des marchandises de toute nature importées d’un pays mentionné ci-après lorsque le gouverneur en conseil est convaincu, sur le fondement du rapport prévu aux articles 20 ou 29 de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md), que la quantité de ces marchandises ayant été importées ne constitue pas une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage :Colombie
 
+Corée
+
 Panama
 
 Pérou
 
 
-> 2009, ch. 16, art. 44; 2010, ch. 4, art. 37; 2011, ch. 24, art. 126; 2012, ch. 26, art. 44.
+> 2009, ch. 16, art. 44; 2010, ch. 4, art. 37; 2011, ch. 24, art. 126; 2012, ch. 26, art. 44; 2014, ch. 28, art. 49.
 
 
 
@@ -2044,6 +2132,8 @@ Pérou
 
 - **(4.1)** Le décret visé au paragraphe (1) peut exclure des marchandises de toute nature importées d’un pays mentionné ci-après lorsque le gouverneur en conseil est convaincu, sur le fondement d’un rapport fait en vertu de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md), que la quantité de ces marchandises ayant été importées ne constitue pas une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage :Colombie
 
+Corée
+
 Panama
 
 Pérou
@@ -2055,7 +2145,7 @@ Pérou
 - **(5)** Le décret pris en vertu du paragraphe (1) :
 	- **a)** s’applique, sous réserve des autres dispositions du présent article, pendant la période qui y est spécifiée, la durée de celle-ci ajoutée à celle des périodes pendant lesquelles les marchandises ont fait l’objet de décrets pris en vertu des paragraphes (1) ou 55(1) ou de l’article 60, ou en vertu des paragraphes 5(3), (3.2) ou (4.1) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md) ne pouvant toutefois excéder huit ans;
 	- **b)** peut, sur recommandation du ministre, malgré les autres dispositions du présent article, être à tout moment abrogé ou modifié par le gouverneur en conseil, sauf si les deux chambres du Parlement ont déjà adopté, aux termes de l’article 64, une résolution de cessation d’effet.
-> 1997, ch. 36, art. 63; 2009, ch. 16, art. 45; 2010, ch. 4, art. 38; 2011, ch. 24, art. 127; 2012, ch. 26, art. 45.
+> 1997, ch. 36, art. 63; 2009, ch. 16, art. 45; 2010, ch. 4, art. 38; 2011, ch. 24, art. 127; 2012, ch. 26, art. 45; 2014, ch. 28, art. 50.
 
 
 
@@ -2727,7 +2817,64 @@ Pérou
 
 
 
-**74** [Abrogé, 2011, ch. 24, art. 128]
+
+#### Mesures d’urgence bilatérales : Corée
+
+
+
+**Décret de mesures temporaires**
+
+**74** 
+
+- **(1)** Sous réserve des paragraphes (3) à (9), si, à un moment donné, le gouverneur en conseil est convaincu, sur le fondement d’une enquête menée par le Tribunal canadien du commerce extérieur en vertu du paragraphe 19.0191(2) de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md) ou par suite d’une plainte déposée en vertu du paragraphe 23(1.097) de cette loi, que des marchandises sont, du fait qu’elles bénéficient du tarif de la Corée, importées en quantité tellement accrue et dans des conditions telles que leur importation constitue, à elle seule, une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage, il peut, sur recommandation du ministre, par décret :
+	- **a)** suspendre, pendant la période de validité du décret, toute réduction du taux qui aurait pu être accordée ultérieurement à l’égard de ces marchandises au titre de l’article 49.7;
+	- **b)** s’agissant de marchandises sur lesquelles est imposé un droit de douane sur une base saisonnière, les assujettir à un droit temporaire, en plus des autres droits prévus par la présente loi ou toute autre loi fédérale en matière douanière, au taux précisé, lequel ne peut toutefois, quand il s’ajoute au taux de droits de douane de la liste des dispositions tarifaires en vigueur à leur égard, excéder le taux de droits de douane du tarif de la nation la plus favorisée en vigueur à leur égard la saison correspondante la veille de la date de la prise du décret ou, s’il est inférieur, celui qui l’est à la veille de la date d’entrée en vigueur du présent paragraphe;
+	- **c)** s’agissant de marchandises autres que celles mentionnées à l’alinéa b), assujettir ces marchandises à un droit temporaire, en plus des autres droits prévus par la présente loi ou toute autre loi fédérale en matière douanière, au taux précisé, lequel ne peut toutefois, quand il s’ajoute au taux de droits de douane de la liste des dispositions tarifaires en vigueur à leur égard, excéder le taux de droits de douane du tarif de la nation la plus favorisée en vigueur à leur égard la veille de la date d’entrée en vigueur du présent paragraphe ou, s’il est inférieur, celui qui l’est à la date de la prise du décret.
+
+**Décret : circonstances exceptionnelles**
+
+- **(2)** Sous réserve des paragraphes (3) à (9), si, à un moment donné, le gouverneur en conseil est convaincu, sur le fondement d’une allégation présentée en vertu du paragraphe 30.28(1) de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md), qu’il existe des circonstances exceptionnelles résultant du fait que des marchandises, parce qu’elles bénéficient du tarif de la Corée, sont importées en quantité tellement accrue et dans des conditions telles que leur importation constitue une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage, il peut, sur recommandation du ministre, par décret :
+	- **a)** suspendre, pendant la période de validité du décret, toute réduction du taux qui aurait pu être accordée ultérieurement à l’égard de ces marchandises au titre de l’article 49.7;
+	- **b)** s’agissant de marchandises sur lesquelles est imposé un droit de douane sur une base saisonnière, les assujettir à un droit temporaire, en plus des autres droits prévus par la présente loi ou toute autre loi fédérale en matière douanière, au taux précisé, lequel ne peut toutefois, quand il s’ajoute au taux de droits de douane de la liste des dispositions tarifaires en vigueur à leur égard, excéder le taux de droits de douane du tarif de la nation la plus favorisée en vigueur à leur égard la saison correspondante la veille de la date de la prise du décret ou, s’il est inférieur, celui qui l’est à la veille de la date d’entrée en vigueur du présent paragraphe;
+	- **c)** s’agissant de marchandises autres que celles mentionnées à l’alinéa b), assujettir ces marchandises à un droit temporaire, en plus des autres droits prévus par la présente loi ou toute autre loi fédérale en matière douanière, au taux précisé, lequel ne peut toutefois, quand il s’ajoute au taux de droits de douane de la liste des dispositions tarifaires en vigueur à leur égard, excéder le taux de droits de douane du tarif de la nation la plus favorisée en vigueur à leur égard la veille de la date d’entrée en vigueur du présent paragraphe, ou, s’il est inférieur, celui qui l’est à la date de la prise du décret.
+
+**Période d’application : décret pris en vertu du paragraphe (1)**
+
+- **(3)** Le décret pris en vertu du paragraphe (1) demeure en vigueur pendant la période qui y est spécifiée, cette période ne pouvant dépasser deux ans. Toutefois, si une plainte a été déposée en vertu du paragraphe 23(1.097) de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md) et que, dans le cadre de cette plainte, le décret est pris en vertu du paragraphe (2), la période ne dépasse pas deux ans moins le nombre de jours pendant lesquels ce décret a été en vigueur.
+
+**Période d’application : décret pris en vertu du paragraphe (2)**
+
+- **(4)** Le décret pris en vertu du paragraphe (2) cesse d’avoir effet au début du deux centième jour suivant sa prise.
+
+**Exception : conclusions négatives**
+
+- **(5)** Malgré le paragraphe (4), si l’enquête menée par le Tribunal canadien du commerce extérieur sur une plainte déposée en vertu du paragraphe 23(1.097) de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md) ne permet pas de conclure que les marchandises, en conséquence du fait qu’elles bénéficient du tarif de la Corée, sont importées en quantité tellement accrue et dans des conditions telles que leur importation constitue, à elle seule, une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage :
+	- **a)** le décret pris en vertu du paragraphe (2) dans le cadre de cette plainte cesse d’avoir effet à la date de réception par le gouverneur en conseil du rapport du Tribunal canadien du commerce extérieur présenté en application du paragraphe 29(3) de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md);
+	- **b)** sur recommandation du ministre, le gouverneur en conseil peut, par décret, rembourser la surtaxe imposée en vertu du décret pris en application du paragraphe (2).
+
+**Exception : conclusions positives**
+
+- **(6)** Malgré le paragraphe (4), si l’enquête menée par le Tribunal canadien du commerce extérieur sur une plainte déposée en vertu du paragraphe 23(1.097) de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md) permet de conclure que les marchandises, en conséquence du fait qu’elles bénéficient du tarif de la Corée, sont importées en quantité tellement accrue et dans des conditions telles que leur importation constitue, à elle seule, une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage, le gouverneur en conseil peut, sur recommandation du ministre, par décret, proroger la période d’application du décret pris en vertu du paragraphe (2) dans le cadre de la même plainte, la période totale ne pouvant toutefois dépasser deux ans.
+
+**Prorogation de la période d’application**
+
+- **(7)** Si, sur le fondement d’une enquête menée par le Tribunal canadien du commerce extérieur sur une plainte déposée en vertu de l’article 30.07 de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md), le gouverneur en conseil est convaincu que la prorogation est nécessaire afin de prévenir ou de réparer un dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes et de leur permettre de procéder à des ajustements, et qu’il existe des éléments de preuve selon lesquels les producteurs nationaux procèdent à ces ajustements, il peut, sur recommandation du ministre, par décret, proroger la période d’application d’un décret pris en vertu des paragraphes (1) ou (2), la période totale ne pouvant toutefois dépasser quatre ans.
+
+**Modalités**
+
+- **(8)** Le décret pris en application des paragraphes (1) ou (2) peut être en vigueur pendant la période commençant à la date d’entrée en vigueur du présent paragraphe et se terminant :
+	- **a)** s’il a trait à des marchandises pour lesquelles le taux initial du tarif de la Corée est réduit au taux final, la franchise en douane, sur une période de moins de cinq ans, à la date du dixième anniversaire de celle où se termine l’échelonnement tarifaire prévu à l’égard de ces marchandises;
+	- **b)** s’il a trait à des marchandises pour lesquelles le taux initial du tarif de la Corée est réduit au taux final, la franchise en douane, sur une période de cinq ans ou plus, à la date du quinzième anniversaire de l’entrée en vigueur du présent paragraphe.
+
+**Taux à la cessation d’effet**
+
+- **(9)** En cas de cessation d’effet du décret pris en application des paragraphes (1) ou (2), le taux applicable aux marchandises est celui applicable en conformité avec l’article 49.7.
+
+**Définition cause principale**
+
+- **(10)** Au présent article, ***cause principale*** s’entend de toute cause sérieuse dont l’importance est égale ou supérieure à celle des autres causes du dommage grave ou de la menace d’un tel dommage.
+> 1997, ch. 36, art. 74; 2011, ch. 24, art. 128; 2014, ch. 28, art. 51.
+
 
 
 
@@ -2947,8 +3094,10 @@ Pérou
 - **j)** le paragraphe 71.5(1);
 - **k)** le paragraphe 71.6(1);
 - **l)** le paragraphe 72(2);
-- **m)** le paragraphe 73(1).
-> 1997, ch. 36, art. 79; 2001, ch. 28, art. 40; 2009, ch. 16, art. 47 et 56; 2010, ch. 4, art. 40; 2011, ch. 24, art. 129; 2012, ch. 18, art. 38 et 44, ch. 26, art. 47, 61 à 63; 2014, ch. 14, art. 45.
+- **m)** le paragraphe 73(1);
+- **n)** le paragraphe 74(1);
+- **o)** le paragraphe 74(2).
+> 1997, ch. 36, art. 79; 2001, ch. 28, art. 40; 2009, ch. 16, art. 47 et 56; 2010, ch. 4, art. 40; 2011, ch. 24, art. 129; 2012, ch. 18, art. 38 et 44, ch. 26, art. 47, 61 à 63; 2014, ch. 14, art. 45, ch. 28, art. 52.
 
 
 
@@ -3076,7 +3225,15 @@ Pérou
 **Cessation d’effet**
 
 - **(2)** Le paragraphe (1) cesse d’avoir effet la veille de la date du quinzième anniversaire de l’entrée en vigueur du présent paragraphe.
-> 1997, ch. 36, art. 87; 2009, ch. 6, art. 35.
+
+**Marchandises du n<sup>o</sup> tarifaire 9971.00.00**
+
+- **(3)** Par dérogation au paragraphe 20(2), la valeur en douane des marchandises du n<sup>o</sup> tarifaire 9971.00.00 qui bénéficient du tarif de la Corée est la valeur des réparations ou modifications dont elles ont fait l’objet en Corée.
+
+**Cessation d’effet**
+
+- **(4)** Le paragraphe (3) cesse d’avoir effet la veille de la date du dixième anniversaire de l’entrée en vigueur du présent paragraphe.
+> 1997, ch. 36, art. 87; 2009, ch. 6, art. 35; 2014, ch. 28, art. 53.
 
 
 
@@ -3974,6 +4131,8 @@ Pérou
 
 Colombie
 
+Corée
+
 Costa Rica
 
 Honduras
@@ -4001,6 +4160,8 @@ Suisse
 
 Colombie
 
+Corée
+
 Costa Rica
 
 Honduras
@@ -4021,7 +4182,7 @@ Pérou
 	- **(ii)** fixer les conditions de renonciation à l’obligation de fournir une garantie ou les documents réglementaires,
 	- **(iii)** déterminer la forme, la nature et les conditions de toute garantie que le ministre de la Sécurité publique et de la Protection civile estime indiquée;
 - **l)** prendre toute autre mesure réglementaire d’application d’un numéro tarifaire visé au présent article.
-> 1997, ch. 36, art. 133; 2001, ch. 28, art. 45; 2005, ch. 38, art. 142 et 145; 2009, ch. 2, art. 122, ch. 6, art. 36, ch. 16, art. 48 et 56, ch. 31, art. 51; 2010, ch. 4, art. 41; 2011, ch. 24, art. 134; 2012, ch. 18, art. 39, ch. 26, art. 48 et 62; 2014, ch. 14, art. 46.
+> 1997, ch. 36, art. 133; 2001, ch. 28, art. 45; 2005, ch. 38, art. 142 et 145; 2009, ch. 2, art. 122, ch. 6, art. 36, ch. 16, art. 48 et 56, ch. 31, art. 51; 2010, ch. 4, art. 41; 2011, ch. 24, art. 134; 2012, ch. 18, art. 39, ch. 26, art. 48 et 62; 2014, ch. 14, art. 46, ch. 28, art. 54.
 
 
 
