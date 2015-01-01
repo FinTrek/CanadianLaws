@@ -853,8 +853,12 @@ Si le tribunal arbitral considère que la demande est justifiée, il fait la rec
 <td>Articles 10.19 ou 10.20</td>
 <td>Accord de libre-échange entre le Canada et la République du Honduras, fait à Ottawa le 5 novembre 2013</td>
 </tr>
+<tr>
+<td>Articles 8.18 ou 8.19</td>
+<td>Accord de libre-échange entre le Canada et la République de Corée, fait à Ottawa le 22 septembre 2014 </td>
+</tr>
 </table>
 
-> 2012, ch. 26, art. 26; 2014, ch. 14, art. 30.
+> 2012, ch. 26, art. 26; 2014, ch. 14, art. 30, ch. 28, art. 32.
 
 
