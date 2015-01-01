@@ -58,6 +58,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Canada–Jordan Free Trade Agreement*** has the same meaning as ***Agreement*** in section 2 of the [Canada–Jordan Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2018.md).
 
+***Canada–Korea Free Trade Agreement*** has the same meaning as ***Agreement*** in section 2 of the [Canada–Korea Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2014/c.%2028.md). 
+
 ***Canada–Panama Free Trade Agreement*** has the same meaning as ***Agreement*** in section 2 of the [Canada–Panama Economic Growth and Prosperity Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2026.md).
 
 ***Canada–Peru Free Trade Agreement*** has the same meaning as ***Agreement*** in section 2 of the [Canada–Peru Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2016.md).
@@ -100,6 +102,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***Israel or another CIFTA beneficiary*** has the meaning assigned by regulation.
 
 ***Jordan*** means the land territory, the air space and the internal waters and territorial sea over which the Hashemite Kingdom of Jordan exercises sovereignty.
+
+***Korea*** means the land, maritime areas and air space under the sovereignty of the Republic of Korea, and those maritime areas, including the seabed and subsoil adjacent to and beyond the outer limit of the territorial seas, over which the Republic of Korea may exercise sovereign rights or jurisdiction in accordance with international law and its domestic law.
 
 ***Liechtenstein*** means the land territory and air space of Liechtenstein.
 
@@ -162,7 +166,7 @@ Version anglaise seulement***prescribed*** means
 **Territories**
 
 - **(2)** A territory prescribed by regulation for the purposes of the definition ***country*** in subsection (1) is not, by virtue of being so prescribed, recognized as a country for purposes other than this Act.
-> 1997, c. 36, s. 2; 2001, c. 28, s. 31; 2005, c. 38, ss. 143(E), 145; 2009, c. 6, s. 30, c. 16, s. 36; 2010, c. 4, s. 30; 2012, c. 18, s. 32, c. 26, s. 38; 2014, c. 14, s. 39.
+> 1997, c. 36, s. 2; 2001, c. 28, s. 31; 2005, c. 38, ss. 143(E), 145; 2009, c. 6, s. 30, c. 16, s. 36; 2010, c. 4, s. 30; 2012, c. 18, s. 32, c. 26, s. 38; 2014, c. 14, s. 39, c. 28, s. 43.
 
 
 
@@ -196,6 +200,8 @@ Iceland
 
 Jordan
 
+Korea
+
 Liechtenstein
 
 Norway
@@ -207,7 +213,7 @@ Peru
 Switzerland
 
 
-> 1997, c. 36, s. 5; 2001, c. 28, s. 32; 2009, c. 6, s. 31, c. 16, ss. 37, 56; 2010, c. 4, s. 31; 2011, c. 24, s. 111; 2012, c. 18, s. 33, c. 26, ss. 39, 62.
+> 1997, c. 36, s. 5; 2001, c. 28, s. 32; 2009, c. 6, s. 31, c. 16, ss. 37, 56; 2010, c. 4, s. 31; 2011, c. 24, s. 111; 2012, c. 18, s. 33, c. 26, ss. 39, 62; 2014, c. 28, s. 44.
 
 
 
@@ -315,12 +321,14 @@ Switzerland
 		- **(xi)** subsection 71.6(1),
 		- **(xii)** subsection 72(2),
 		- **(xiii)** subsection 73(1),
-		- **(xiv)** subsection 5(3), (3.2) or (4.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md).
+		- **(xiv)** subsection 74(1),
+		- **(xv)** subsection 74(2),
+		- **(xvi)** subsection 5(3), (3.2) or (4.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md).
 
 **Order may be retroactive**
 
 - **(3)** An order made under subsection (2) may, if it so provides, be retroactive and have effect in respect of a period before it is made that begins after the coming into force of this section.
-> 1997, c. 36, s. 14; 2001, c. 28, s. 33; 2009, c. 16, ss. 38, 56; 2010, c. 4, s. 32; 2011, c. 24, s. 113; 2012, c. 18, ss. 34, 44, c. 26, ss. 40, 61 to 63; 2014, c. 14, s. 40.
+> 1997, c. 36, s. 14; 2001, c. 28, s. 33; 2009, c. 16, ss. 38, 56; 2010, c. 4, s. 32; 2011, c. 24, s. 113; 2012, c. 18, ss. 34, 44, c. 26, ss. 40, 61 to 63; 2014, c. 14, s. 40, c. 28, s. 45.
 
 
 
@@ -647,6 +655,8 @@ Switzerland
 
 ***JT*** refers to the Jordan Tariff.
 
+***KRT*** refers to the Korea Tariff.
+
 ***LDCT*** refers to the Least Developed Country Tariff.
 
 ***MFN*** refers to the Most-Favoured-Nation Tariff.
@@ -666,7 +676,7 @@ Switzerland
 ***SLT*** refers to the Switzerland–Liechtenstein Tariff.
 
 ***UST*** refers to the United States Tariff.
-> 1997, c. 36, s. 27; 2001, c. 28, s. 36; 2009, c. 6, s. 32, c. 16, ss. 40, 56; 2010, c. 4, s. 34; 2011, c. 24, s. 116; 2012, c. 18, ss. 35, 44, c. 26, ss. 41, 61 to 63; 2014, c. 14, s. 42.
+> 1997, c. 36, s. 27; 2001, c. 28, s. 36; 2009, c. 6, s. 32, c. 16, ss. 40, 56; 2010, c. 4, s. 34; 2011, c. 24, s. 116; 2012, c. 18, ss. 35, 44, c. 26, ss. 41, 61 to 63; 2014, c. 14, s. 42, c. 28, s. 46.
 
 
 
@@ -1555,6 +1565,78 @@ Switzerland
 
 
 
+#### Korea Tariff
+
+
+
+**Application of KRT**
+
+**49.7** 
+
+- **(1)** Subject to section 24, goods that originate in Korea are entitled to the Korea Tariff rates of customs duty.
+
+**“A” final rate for KRT**
+
+- **(2)** If “A” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “KRT” in relation to goods entitled to the Korea Tariff, the Korea Tariff rate of customs duty that applies to those goods is the final rate of “Free”.
+
+**“F” staging for KRT**
+
+- **(3)** If “F” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “KRT” in relation to goods entitled to the Korea Tariff, the Korea Tariff rate of customs duty that applies to those goods is the initial rate, reduced as provided in the “F” Staging List.
+
+**Staging for KRT**
+
+- **(4)** If “V1”, “V2”, “V3” or “V4” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “KRT” in relation to goods entitled to the Korea Tariff, the Korea Tariff rate of customs duty that applies to those goods is the initial rate, reduced
+	- **(a)** if “V1” is set out,
+		- **(i)** effective on the coming into force of this subsection, to 66.7% of the initial rate,
+		- **(ii)** effective on the day that is one year after the day on which this subsection comes into force, to 33.3% of the initial rate, and
+		- **(iii)** effective on the day that is two years after the day on which this subsection comes into force, to the final rate of “Free”;
+	- **(b)** if “V2” is set out,
+		- **(i)** effective on the coming into force of this subsection, to 80% of the initial rate,
+		- **(ii)** effective on the day that is one year after the day on which this subsection comes into force, to 60% of the initial rate,
+		- **(iii)** effective on the day that is two years after the day on which this subsection comes into force, to 40% of the initial rate,
+		- **(iv)** effective on the day that is three years after the day on which this subsection comes into force, to 20% of the initial rate, and
+		- **(v)** effective on the day that is four years after the day on which this subsection comes into force, to the final rate of “Free”;
+	- **(c)** if “V3” is set out,
+		- **(i)** effective on the coming into force of this subsection, to 90% of the initial rate,
+		- **(ii)** effective on the day that is one year after the day on which this subsection comes into force, to 80% of the initial rate,
+		- **(iii)** effective on the day that is two years after the day on which this subsection comes into force, to 70% of the initial rate,
+		- **(iv)** effective on the day that is three years after the day on which this subsection comes into force, to 60% of the initial rate,
+		- **(v)** effective on the day that is four years after the day on which this subsection comes into force, to 50% of the initial rate,
+		- **(vi)** effective on the day that is five years after the day on which this subsection comes into force, to 40% of the initial rate,
+		- **(vii)** effective on the day that is six years after the day on which this subsection comes into force, to 30% of the initial rate,
+		- **(viii)** effective on the day that is seven years after the day on which this subsection comes into force, to 20% of the initial rate,
+		- **(ix)** effective on the day that is eight years after the day on which this subsection comes into force, to 10% of the initial rate, and
+		- **(x)** effective on the day that is nine years after the day on which this subsection comes into force, to the final rate of “Free”; and
+	- **(d)** if “V4” is set out,
+		- **(i)** effective on the coming into force of this subsection, to 90.9% of the initial rate,
+		- **(ii)** effective on the day that is one year after the day on which this subsection comes into force, to 81.8% of the initial rate,
+		- **(iii)** effective on the day that is two years after the day on which this subsection comes into force, to 72.7% of the initial rate,
+		- **(iv)** effective on the day that is three years after the day on which this subsection comes into force, to 63.6% of the initial rate,
+		- **(v)** effective on the day that is four years after the day on which this subsection comes into force, to 54.5% of the initial rate,
+		- **(vi)** effective on the day that is five years after the day on which this subsection comes into force, to 45.5% of the initial rate,
+		- **(vii)** effective on the day that is six years after the day on which this subsection comes into force, to 36.4% of the initial rate,
+		- **(viii)** effective on the day that is seven years after the day on which this subsection comes into force, to 27.3% of the initial rate,
+		- **(ix)** effective on the day that is eight years after the day on which this subsection comes into force, to 18.2 per cent of the initial rate,
+		- **(x)** effective on the day that is nine years after the day on which this subsection comes into force, to 9.1% of the initial rate, and
+		- **(xi)** effective on the day that is ten years after the day on which this subsection comes into force, to the final rate of “Free”.
+
+**Rounding of specific rates**
+
+- **(5)** If a reduction under subsection (3) or (4) results in a specific rate of customs duty that includes a fraction of one tenth of a cent, the rate shall be rounded down to the nearest one tenth of a cent.
+
+**Rounding of amounts — fraction other than 0.5**
+
+- **(6)** If a reduction under subsection (3) or (4) results in a rate of customs duty that includes a fraction of one per cent other than 0.5, the resulting percentage shall be rounded down to the nearest percentage that divides evenly by 0.5.
+
+**Elimination of rates less than 2%**
+
+- **(7)** If a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
+> 2014, c. 28, s. 47.
+
+
+
+
+
 #### Canada–Israel Agreement Tariff
 
 
@@ -1876,7 +1958,7 @@ a NAFTA country
 
 
 
-Chile
+Chile (*contribuer de manière importante*)
 
 
 
@@ -1886,18 +1968,22 @@ Colombia
 
 
 
+Korea
+
+
+
 Panama
 
 
 
-Peru
+Peru (*cause principale*)
 
 
 
 ***surge***, in respect of goods imported from
 - **(a)** a NAFTA country, has the meaning given that word by Article 805 of the North American Free Trade Agreement; or
-- **(b)** Chile, has the meaning given that word by Article F-05 of the Canada–Chile Free Trade Agreement.
-> 1997, c. 36, s. 54; 2009, c. 16, s. 43; 2010, c. 4, s. 36; 2011, c. 24, s. 124; 2012, c. 26, s. 43.
+- **(b)** Chile, has the meaning given that word by Article F-05 of the Canada–Chile Free Trade Agreement. (*augmentation subite*)
+> 1997, c. 36, s. 54; 2009, c. 16, s. 43; 2010, c. 4, s. 36; 2011, c. 24, s. 124; 2012, c. 26, s. 43; 2014, c. 28, s. 48.
 
 
 
@@ -1998,12 +2084,14 @@ Peru
 
 **59.1** An order made under subsection 55(1) may exclude goods of any kind imported from one of the following countries if it appears to the satisfaction of the Governor in Council, on the basis of a report under section 20 or 29 of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md), that the quantity of those goods being imported is not a principal cause of serious injury or threat of serious injury to domestic producers of like or directly competitive goods:Colombia
 
+Korea
+
 Panama
 
 Peru
 
 
-> 2009, c. 16, s. 44; 2010, c. 4, s. 37; 2011, c. 24, s. 126; 2012, c. 26, s. 44.
+> 2009, c. 16, s. 44; 2010, c. 4, s. 37; 2011, c. 24, s. 126; 2012, c. 26, s. 44; 2014, c. 28, s. 49.
 
 
 
@@ -2073,6 +2161,8 @@ the Governor in Council may, on the recommendation of the Minister, make an exte
 
 - **(4.1)** An order made under subsection (1) may exclude goods of any kind imported from one of the following countries if it appears to the satisfaction of the Governor in Council, on the basis of a report under the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md), that the quantity of those goods being imported is not a principal cause of serious injury or threat of serious injury to domestic producers of like or directly competitive goods:Colombia
 
+Korea
+
 Panama
 
 Peru
@@ -2084,7 +2174,7 @@ Peru
 - **(5)** Every extension order made under subsection (1)
 	- **(a)** remains in effect, subject to this section, for the period that is specified in the order, but the total of the specified period and the periods during which the goods were subject to related orders made under subsection (1) or 55(1) or section 60 or under subsection 5(3), (3.2) or (4.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) may not exceed eight years; and
 	- **(b)** may, notwithstanding any other provision of this section, be amended or repealed at any time by the Governor in Council on the recommendation of the Minister, unless, before that time, a resolution directing that the order cease to have effect has been adopted by both Houses of Parliament under section 64.
-> 1997, c. 36, s. 63; 2009, c. 16, s. 45; 2010, c. 4, s. 38; 2011, c. 24, s. 127; 2012, c. 26, s. 45.
+> 1997, c. 36, s. 63; 2009, c. 16, s. 45; 2010, c. 4, s. 38; 2011, c. 24, s. 127; 2012, c. 26, s. 45; 2014, c. 28, s. 50.
 
 
 
@@ -2785,7 +2875,72 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 
 
-**74** [Repealed, 2011, c. 24, s. 128]
+
+#### Bilateral Emergency Measures — Korea
+
+
+
+**Order by Governor in Council**
+
+**74** 
+
+- **(1)** Subject to subsections (3) to (9), if at any time it appears to the satisfaction of the Governor in Council, as a result of an inquiry made by the Canadian International Trade Tribunal under subsection 19.0191(2) of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md) or further to a complaint filed under subsection 23(1.097) of that Act, that goods that are entitled to the Korea Tariff are, as a result of that entitlement, being imported in such increased quantities and under such conditions as to alone constitute a principal cause of serious injury, or a threat of serious injury, to domestic producers of like or directly competitive goods, the Governor in Council may, on the recommendation of the Minister, by order
+	- **(a)** suspend, during the period that the order is in effect, any reduction of the rate of customs duty with respect to those goods that would otherwise be made after that time by virtue of section 49.7;
+	- **(b)** in respect of goods on which a customs duty is imposed on a seasonal basis, make those goods subject to a temporary duty, in addition to any other duty specified in this Act or any other Act of Parliament relating to customs, at a rate set out in the order, but that rate, when added to the rate of customs duty specified in the Korea Tariff that is in effect in respect of those goods at that time, may not exceed the lesser of
+		- **(i)** the Most-Favoured-Nation Tariff rate of customs duty that was in effect in respect of those goods for the corresponding season immediately before the order is made, and
+		- **(ii)** the Most-Favoured-Nation Tariff rate of customs duty that was in effect in respect of those goods for the corresponding season immediately before the coming into force of this subsection; and
+	- **(c)** in respect of goods other than goods referred to in paragraph (b), make those goods subject to a temporary duty, in addition to any other duty specified in this Act or any other Act of Parliament relating to customs, at a rate set out in the order, but that rate, when added to the rate of customs duty specified in the Korea Tariff that is in effect in respect of those goods at that time, may not exceed the lesser of
+		- **(i)** the Most-Favoured-Nation Tariff rate of customs duty that is in effect in respect of those goods at the time the order is made, and
+		- **(ii)** the Most-Favoured-Nation Tariff rate of customs duty that was in effect in respect of those goods immediately before the coming into force of this subsection.
+
+**Critical circumstances**
+
+- **(2)** Subject to subsections (3) to (9), if at any time it appears to the satisfaction of the Governor in Council, further to an allegation filed under subsection 30.28(1) of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md), that there are critical circumstances resulting from the fact that goods that are entitled to the Korea Tariff are, as a result of that entitlement, being imported in such increased quantities and under such conditions as to constitute a principal cause of serious injury, or a threat of serious injury, to domestic producers of like or directly competitive goods, the Governor in Council may, on the recommendation of the Minister, by order
+	- **(a)** suspend, during the period that the order is in effect, any reduction of the rate of customs duty with respect to those goods that would otherwise be made after that time by virtue of section 49.7;
+	- **(b)** in respect of goods on which a customs duty is imposed on a seasonal basis, make those goods subject to a temporary duty, in addition to any other duty specified in this Act or any other Act of Parliament relating to customs, at a rate set out in the order, but that rate, when added to the rate of customs duty specified in the Korea Tariff that is in effect in respect of those goods at that time, may not exceed the lesser of
+		- **(i)** the Most-Favoured-Nation Tariff rate of customs duty that was in effect in respect of those goods for the corresponding season immediately before the order is made, and
+		- **(ii)** the Most-Favoured-Nation Tariff rate of customs duty that was in effect in respect of those goods for the corresponding season immediately before the coming into force of this subsection; and
+	- **(c)** in respect of goods other than goods referred to in paragraph (b), make those goods subject to a temporary duty, in addition to any other duty specified in this Act or any other Act of Parliament relating to customs, at a rate set out in the order, but that rate, when added to the rate of customs duty specified in the Korea Tariff that is in effect in respect of those goods at that time, may not exceed the lesser of
+		- **(i)** the Most-Favoured-Nation Tariff rate of customs duty that is in effect in respect of those goods at the time the order is made, and
+		- **(ii)** the Most-Favoured-Nation Tariff rate of customs duty that was in effect in respect of those goods immediately before the coming into force of this subsection.
+
+**Duration of order under subsection (1)**
+
+- **(3)** An order under subsection (1) remains in effect for the period that is specified in the order, which shall not exceed two years. However, if the order results from a complaint filed under subsection 23(1.097) of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md) and an order under subsection (2) has been made in the context of that complaint, the period shall not exceed two years less the number of days during which the order under subsection (2) was in effect.
+
+**Duration of order under subsection (2)**
+
+- **(4)** An order under subsection (2) ceases to have effect at the beginning of the two-hundredth day after the day on which the order is made.
+
+**Exception — negative determination**
+
+- **(5)** Despite subsection (4), if the inquiry made by the Canadian International Trade Tribunal into the complaint filed under subsection 23(1.097) of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md) does not result in a finding that the goods that are entitled to the Korea Tariff are, as a result of that entitlement, being imported in such increased quantities and under such conditions as to alone constitute a principal cause of serious injury, or a threat of serious injury, to domestic producers of like or directly competitive goods,
+	- **(a)** the order made under subsection (2) in the context of the same complaint ceases to have effect on the day that the Governor in Council receives the resulting report of the Canadian International Trade Tribunal under subsection 29(3) of that Act, and
+	- **(b)** the Governor in Council may, on the recommendation of the Minister, by order, refund any surtaxes imposed under the order made under subsection (2).
+
+**Exception — positive determination**
+
+- **(6)** Despite subsection (4), if the inquiry made by the Canadian International Trade Tribunal into the complaint filed under subsection 23(1.097) of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md) results in a finding that the goods that are entitled to the Korea Tariff are, as a result of that entitlement, being imported in such increased quantities and under such conditions as to alone constitute a principal cause of serious injury, or a threat of serious injury, to domestic producers of like or directly competitive goods, the Governor in Council may, on the recommendation of the Minister, by order, extend the period of the order made under subsection (2) in the context of the same complaint. The total period of the order is not to exceed two years.
+
+**Extension of order**
+
+- **(7)** The Governor in Council may, on the recommendation of the Minister, by order, extend the period of an order made under subsection (1) or (2), if it appears to the satisfaction of the Governor in Council, as a result of an inquiry made by the Canadian International Trade Tribunal under section 30.07 of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md) that the order continues to be necessary to prevent or remedy serious injury to, and to facilitate the adjustment of, domestic producers of like or directly competitive goods, and that there is evidence that the domestic producers are adjusting. The total period of the order is not to exceed four years.
+
+**Terms and conditions**
+
+- **(8)** An order made under subsection (1) or (2) may be in effect during the period beginning on the day on which this subsection comes into force and ending
+	- **(a)** if the order is in respect of goods for which the Korea Tariff rate of customs duty is reduced to the final rate of “Free” over a period of less than five years, on the day that is ten years after the expiry of the tariff staging period in respect of those goods; and
+	- **(b)** if the order is in respect of goods for which the Korea Tariff rate of customs duty is reduced to the final rate of “Free” over a period of five years or more, on the day that is fifteen years after the coming into force of this subsection.
+
+**Rate of duty when an order ceases to have effect**
+
+- **(9)** If an order made under subsection (1) or (2) ceases to have effect in a particular calendar year, the rate of customs duty applicable to the goods after the order ceases to have effect is the rate of customs duty that is applicable in accordance with section 49.7.
+
+**Definition of principal cause**
+
+- **(10)** In this section, ***principal cause*** means, in respect of a serious injury or threat of a serious injury, an important cause that is not less important than any other cause of the serious injury or threat.
+> 1997, c. 36, s. 74; 2011, c. 24, s. 128; 2014, c. 28, s. 51.
+
 
 
 
@@ -3014,8 +3169,10 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 - **(j)** subsection 71.5(1);
 - **(k)** subsection 71.6(1);
 - **(l)** subsection 72(2);
-- **(m)** subsection 73(1).
-> 1997, c. 36, s. 79; 2001, c. 28, s. 40; 2009, c. 16, ss. 47, 56; 2010, c. 4, s. 40; 2011, c. 24, s. 129; 2012, c. 18, ss. 38, 44, c. 26, ss. 47, 61 to 63; 2014, c. 14, s. 45.
+- **(m)** subsection 73(1);
+- **(n)** subsection 74(1);
+- **(o)** subsection 74(2).
+> 1997, c. 36, s. 79; 2001, c. 28, s. 40; 2009, c. 16, ss. 47, 56; 2010, c. 4, s. 40; 2011, c. 24, s. 129; 2012, c. 18, ss. 38, 44, c. 26, ss. 47, 61 to 63; 2014, c. 14, s. 45, c. 28, s. 52.
 
 
 
@@ -3143,7 +3300,15 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **Limitation**
 
 - **(2)** Subsection (1) ceases to have effect on the day before the day that is 15 years after the day on which this subsection comes into force.
-> 1997, c. 36, s. 87; 2009, c. 6, s. 35.
+
+**Goods of tariff item No. 9971.00.00**
+
+- **(3)** Despite subsection 20(2), the value for duty of goods of tariff item No. 9971.00.00 that are entitled to the Korea Tariff is the value of the repairs or alterations made to those goods in Korea.
+
+**Limitation**
+
+- **(4)** Subsection (3) ceases to have effect on the day before the day that is 10 years after the day on which this subsection comes into force.
+> 1997, c. 36, s. 87; 2009, c. 6, s. 35; 2014, c. 28, s. 53.
 
 
 
@@ -4058,6 +4223,8 @@ Israel or another CIFTA beneficiary
 
 Jordan
 
+Korea
+
 Liechtenstein
 
 Norway
@@ -4083,6 +4250,8 @@ Israel or another CIFTA beneficiary
 
 Jordan
 
+Korea
+
 Panama
 
 Peru
@@ -4093,7 +4262,7 @@ Peru
 	- **(ii)** setting out the conditions under which the requirement for security or for prescribed documents may be waived, and
 	- **(iii)** prescribing the form, nature and conditions of any security satisfactory to the Minister of Public Safety and Emergency Preparedness; and
 - **(l)** prescribing any other thing that is to be prescribed for the purposes of a tariff item referred to in this section.
-> 1997, c. 36, s. 133; 2001, c. 28, s. 45; 2005, c. 38, ss. 142, 145; 2009, c. 2, s. 122, c. 6, s. 36, c. 16, ss. 48, 56, c. 31, s. 51; 2010, c. 4, s. 41; 2011, c. 24, s. 134; 2012, c. 18, s. 39, c. 26, ss. 48, 62; 2014, c. 14, s. 46.
+> 1997, c. 36, s. 133; 2001, c. 28, s. 45; 2005, c. 38, ss. 142, 145; 2009, c. 2, s. 122, c. 6, s. 36, c. 16, ss. 48, 56, c. 31, s. 51; 2010, c. 4, s. 41; 2011, c. 24, s. 134; 2012, c. 18, s. 39, c. 26, ss. 48, 62; 2014, c. 14, s. 46, c. 28, s. 54.
 
 
 
