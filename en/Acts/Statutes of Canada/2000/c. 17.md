@@ -2501,6 +2501,25 @@ The order must be complied with within the period following the service of the o
 
 
 
+**Disclosure to Canada Revenue Agency**
+
+**65.02** 
+
+- **(1)** The Centre may disclose to the Canada Revenue Agency information relating to the compliance with Part 1 of persons or entities referred to in section 5 if the Centre has reasonable grounds to suspect that the information would be relevant to ensuring compliance with Part XV.1 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
+
+**Limitation**
+
+- **(2)** Any information disclosed by the Centre under subsection (1) may be used by the Canada Revenue Agency only for purposes relating to ensuring compliance with Part XV.1 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
+
+**Limitation**
+
+- **(3)** The Centre shall not disclose any information under subsection (1) that would directly or indirectly identify a client of a person or entity referred to in section 5.
+> 2014, c. 20, s. 289.
+
+
+
+
+
 **Agreements and arrangements**
 
 **65.1** 
