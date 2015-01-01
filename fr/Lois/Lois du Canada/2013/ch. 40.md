@@ -1719,7 +1719,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind3078_hq_13119'>[*]</a></sup>**293** Les dispositions de la présente section entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind3078_hq_13119'><sup>*</sup></a>: [Note : Section 16 non en vigueur.]<br />
+<a name='fn_Ind3078_hq_13119'><sup>*</sup></a>: [Note : Articles 290 à 292 en vigueur le 1<sup>er</sup> janvier 2015, *voir* TR/2014-99.]<br />
 
 
 
