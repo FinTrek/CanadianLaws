@@ -37,13 +37,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** The following definitions apply in this Act.
 
-***Agreement*** means the Free Trade Agreement between Canada and the Republic of Korea, done at Ottawa on September 22, 2014.
+***Agreement*** means the Free Trade Agreement between Canada and the Republic of Korea, done at Ottawa on September 22, 2014. (*Accord*)
 
-***Commission*** means the Joint Commission established under Article 20.1 of the Agreement.
+***Commission*** means the Joint Commission established under Article 20.1 of the Agreement. (*Commission*)
 
-***federal law*** means the whole or any portion of an Act of Parliament or a regulation, order or other instrument issued, made or established in the exercise of a power conferred by or under an Act of Parliament.
+***federal law*** means the whole or any portion of an Act of Parliament or a regulation, order or other instrument issued, made or established in the exercise of a power conferred by or under an Act of Parliament. (*texte législatif fédéral*)
 
-***Minister*** means the Minister for International Trade.
+***Minister*** means the Minister for International Trade. (*ministre*)
 
 
 
