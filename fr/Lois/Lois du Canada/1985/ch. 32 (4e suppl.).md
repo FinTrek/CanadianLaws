@@ -581,9 +581,24 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 
 
 
-**Conformité avec les règlements et règles**
+**Exigence d’un certificat**
 
-**17.2** Il est interdit à toute compagnie de chemin de fer d’exploiter ou d’entretenir un chemin de fer, notamment les installations et le matériel ferroviaires, et à toute compagnie de chemin de fer locale d’exploiter du matériel ferroviaire sur un chemin de fer, en contravention avec les règlements et les règles établies sous le régime des articles 19 ou 20 qui lui sont applicables, sauf si elle bénéficie de l’exemption prévue aux articles 22 ou 22.1.
+**17.1** 
+
+- **(1)** Il est interdit à quiconque d’exploiter ou d’entretenir un chemin de fer ou d’exploiter du matériel ferroviaire sur un chemin de fer sans être titulaire d’un certificat d’exploitation de chemin de fer.
+
+**Entretien — franchissement ferroviaire**
+
+- **(2)** Le paragraphe (1) ne s’applique pas à la personne exemptée au titre de l’alinéa 17.9(1)c) ou à une municipalité ou une autorité responsable du service de voirie qui entretient un ouvrage de franchissement.
+> 2012, ch. 7, art. 10.
+
+
+
+
+
+**Conformité avec les certificats, règlements et règles**
+
+**17.2** Il est interdit à toute compagnie de chemin de fer d’exploiter ou d’entretenir un chemin de fer, notamment les installations et le matériel ferroviaires, et à toute compagnie de chemin de fer locale d’exploiter du matériel ferroviaire sur un chemin de fer, en contravention avec un certificat d’exploitation de chemin de fer, les règlements et les règles établies sous le régime des articles 19 ou 20 qui lui sont applicables, sauf si elle bénéficie de l’exemption prévue aux articles 22 ou 22.1.
 > 2012, ch. 7, art. 11.
 
 
@@ -594,6 +609,152 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 
 **17.3** Il est interdit au responsable de l’entretien d’un ouvrage de franchissement qui ne bénéficie pas de l’exemption prévue aux articles 22 ou 22.1 d’entretenir celui-ci en contravention avec les règlements pris à ce sujet sous le régime de l’article 18.
 > 2012, ch. 7, art. 11.
+
+
+
+
+
+### Certificat d’exploitation de chemin de fer
+
+
+
+**Délivrance du certificat**
+
+**17.4** 
+
+- **(1)** Le ministre délivre sur demande un certificat d’exploitation de chemin de fer autorisant son titulaire à exploiter ou à entretenir un chemin de fer ou encore à exploiter du matériel ferroviaire sur un chemin de fer, s’il est convaincu que les conditions réglementaires pour son obtention sont remplies.
+
+**Modalités**
+
+- **(2)** Le ministre peut assujettir le certificat aux modalités qu’il juge indiquées.
+
+**Modifications**
+
+- **(3)** Le ministre peut, sur demande d’une compagnie, modifier les modalités de son certificat.
+
+**Délai**
+
+- **(4)** La décision du ministre de délivrer ou de modifier un certificat d’exploitation de chemin de fer est rendue dès que possible dans les cent vingt jours de la réception de la demande sauf entente à l’effet contraire.
+
+**Suspension ou annulation du certificat**
+
+- **(5)** Le ministre peut suspendre ou annuler un certificat d’exploitation de chemin de fer si, selon le cas :
+	- **a)** la compagnie ne remplit plus l’une ou l’autre des conditions réglementaires d’obtention du certificat;
+	- **b)** la compagnie a contrevenu à une des dispositions de la présente loi ou des règlements ou à une règle, à un arrêté, à une norme ou à une injonction ministérielle établi sous son régime;
+	- **c)** la compagnie le demande.
+> 2012, ch. 7, art. 12.
+
+
+
+
+
+**Avis**
+
+**17.5** 
+
+- **(1)** Le ministre avise la personne ou la compagnie de toute décision rendue en vertu des paragraphes 17.4(1), (3) ou (5).
+
+**Contenu de l’avis**
+
+- **(2)** Sont indiqués dans l’avis :
+	- **a)** les motifs de la décision du ministre;
+	- **b)** le lieu et la date limite, à savoir trente jours après l’expédition de l’avis, du dépôt d’une éventuelle requête en révision.
+
+**Prise d’effet**
+
+- **(3)** Dans tous les cas, la date de prise d’effet de la décision est la date de réception de l’avis par l’intéressé, à moins que l’avis n’indique une date ultérieure.
+> 2012, ch. 7, art. 12.
+
+
+
+
+
+**Requête en révision**
+
+**17.6** 
+
+- **(1)** La personne ou la compagnie peut faire réviser la décision rendue en vertu des paragraphes 17.4(1), (3) ou (5) en déposant une requête auprès du Tribunal au plus tard à la date limite qui est indiquée à l’avis visé à l’article 17.5, ou dans le délai supérieur éventuellement accordé à sa demande par le Tribunal.
+
+**Effet de la requête**
+
+- **(2)** Le dépôt d’une requête en révision n’a pas pour effet de suspendre la décision rendue en vertu du paragraphe 17.4(5).
+
+**Exception**
+
+- **(3)** Sauf s’il est convaincu que cela constituerait un danger pour la sécurité ferroviaire, le conseiller commis à l’affaire qui est saisi d’une demande écrite de la personne ou la compagnie peut, après avoir donné au ministre le préavis qu’il estime indiqué et avoir entendu les observations des parties, prononcer la suspension de la décision rendue en vertu du paragraphe 17.4(5) jusqu’à ce qu’il ait été statué sur la requête en révision.
+> 2012, ch. 7, art. 12.
+
+
+
+
+
+**Audience**
+
+**17.7** 
+
+- **(1)** Le Tribunal, sur réception de la requête, fixe les date, heure et lieu de l’audience et en avise par écrit le ministre et la personne qui a déposé la requête.
+
+**Déroulement**
+
+- **(2)** À l’audience, le conseiller commis à l’affaire accorde au ministre et à la personne qui a déposé la requête la possibilité de présenter leurs éléments de preuve et leurs observations, conformément aux principes de l’équité procédurale et de la justice naturelle.
+
+**Décision**
+
+- **(3)** Le conseiller peut confirmer la décision ou renvoyer l’affaire au ministre pour réexamen.
+
+**Réexamen du dossier**
+
+- **(4)** En cas de renvoi de l’affaire au ministre, la décision d’annuler ou de suspendre continue d’avoir effet. Toutefois, le conseiller peut, après avoir entendu les observations des parties, prononcer la suspension de la décision rendue en vertu du paragraphe 17.4(5) jusqu’à ce que le ministre ait réexaminé celle-ci, s’il est convaincu que cela ne constitue pas un danger pour la sécurité ferroviaire.
+> 2012, ch. 7, art. 12.
+
+
+
+
+
+**Appel**
+
+**17.8** 
+
+- **(1)** La personne ou la compagnie peut faire appel au Tribunal de la décision rendue en vertu du paragraphe 17.7(3). Dans tous les cas, le délai d’appel est de trente jours suivant la décision.
+
+**Effet de la requête**
+
+- **(2)** Le dépôt d’une demande d’appel n’a pas pour effet de suspendre la décision rendue en vertu du paragraphe 17.4(5).
+
+**Exception**
+
+- **(3)** Sauf s’il est convaincu que cela constituerait un danger pour la sécurité ferroviaire, le conseiller commis à l’affaire qui est saisi d’une demande écrite de la personne ou de la compagnie peut, après avoir donné au ministre le préavis qu’il estime indiqué et avoir entendu les observations des parties, prononcer la suspension de la décision rendue en vertu du paragraphe 17.4(5) jusqu’à ce qu’il ait été statué sur la demande d’appel.
+
+**Perte du droit d’appel**
+
+- **(4)** La personne ou la compagnie qui ne se présente pas à l’audience portant sur la requête en révision perd le droit de porter la décision en appel, à moins qu’elle ne fasse valoir des motifs valables justifiant son absence.
+
+**Sort de l’appel**
+
+- **(5)** Le comité du Tribunal peut rejeter l’appel ou renvoyer l’affaire au ministre pour réexamen.
+
+**Réexamen du dossier**
+
+- **(6)** En cas de renvoi de l’affaire au ministre, la décision d’annuler ou de suspendre un certificat d’exploitation de chemin de fer continue d’avoir effet. Toutefois, le comité peut, après avoir entendu les observations des parties, prononcer la suspension de la décision rendue en vertu du paragraphe 17.4(5) jusqu’à ce que le ministre ait révisé celle-ci, s’il est convaincu que cela ne constitue pas un danger pour la sécurité ferroviaire.
+> 2012, ch. 7, art. 12.
+
+
+
+
+
+**Règlements**
+
+**17.9** 
+
+- **(1)** Le gouverneur en conseil peut prendre des règlements :
+	- **a)** concernant les conditions à remplir pour la délivrance d’un certificat d’exploitation de chemin de fer;
+	- **b)** concernant la forme et le contenu d’une demande de certificat d’exploitation de chemin de fer et le processus d’obtention ou de modification d’un tel certificat;
+	- **c)** soustrayant des catégories de personnes à l’application de l’article 17.1.
+
+**Portée des règlements**
+
+- **(2)** Un règlement pris en vertu du présent article peut être de portée générale ou limitée quant aux groupes ou aux catégories de personnes ou de compagnies visés.
+> 2012, ch. 7, art. 12.
 
 
 
@@ -1943,14 +2104,22 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Contravention aux règlements, aux injonctions ministérielles, etc.**
 
 - **(2)** Commet une infraction quiconque contrevient :
-	- **a)** à un règlement pris en vertu du paragraphe 7(1) ou des articles 7.1, 18, 24, 37, 47 ou 47.1;
-	- **b)** à l’ordre de l’inspecteur de la sécurité ferroviaire ou du ministre, ou à l’arrêté du ministre, donnés ou pris en vertu des paragraphes 7(2) ou 19(1) ou des articles 31 ou 32;
-	- **c)** à la demande de l’Office faite en vertu des paragraphes 16(3) ou 26(3);
-	- **d)** à une règle en vigueur sous le régime des articles 19 ou 20;
-	- **e)** à une injonction ministérielle prise en vertu de l’article 33;
-	- **f)** à l’obligation de mettre en oeuvre la mesure de sûreté du transport ferroviaire imposée au titre du paragraphe 39.1(2);
-	- **g)** [Non en vigueur]
-	- **h)** à un arrêté pris en vertu de l’article 36.
+	- **a)
+** à un règlement pris en vertu du paragraphe 7(1) ou des articles 7.1, 18, 24, 37, 47 ou 47.1;
+	- **b)
+** à l’ordre de l’inspecteur de la sécurité ferroviaire ou du ministre, ou à l’arrêté du ministre, donnés ou pris en vertu des paragraphes 7(2) ou 19(1) ou des articles 31 ou 32;
+	- **c)
+** à la demande de l’Office faite en vertu des paragraphes 16(3) ou 26(3);
+	- **d)
+** à une règle en vigueur sous le régime des articles 19 ou 20;
+	- **e)
+** à une injonction ministérielle prise en vertu de l’article 33;
+	- **f)
+** à l’obligation de mettre en oeuvre la mesure de sûreté du transport ferroviaire imposée au titre du paragraphe 39.1(2);
+	- **g)
+** à un certificat d’exploitation de chemin de fer délivré en vertu de l’article 17.4;
+	- **h)
+** à un arrêté pris en vertu de l’article 36.
 
 **Sanctions**
 
@@ -2080,14 +2249,21 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Nature des arrêtés, injonctions, etc.**
 
 **46** Les textes suivants ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) :
-- **a)** les arrêtés pris par le ministre en vertu des paragraphes 7(2) ou 19(1);
-- **b)** les normes établies au titre des paragraphes 7(2) et (2.1) ainsi que les règles et les avis d’approbation visés aux articles 19 ou 20;
-- **c)** les avis d’exemption visés au paragraphe 22(2);
-- **d)** les ordres et les avis prévus aux articles 31 à 32.5;
-- **e)** les injonctions ministérielles visées à l’article 33;
-- **f)** les mesures de sûreté du transport ferroviaire établies en vertu du paragraphe 39.1(1);
-- **g)** [Non en vigueur]
-- **h)** les arrêtés visés à l’article 36.
+- **a)
+** les arrêtés pris par le ministre en vertu des paragraphes 7(2) ou 19(1);
+- **b)
+** les normes établies au titre des paragraphes 7(2) et (2.1) ainsi que les règles et les avis d’approbation visés aux articles 19 ou 20;
+- **c)
+** les avis d’exemption visés au paragraphe 22(2);
+- **d)
+** les ordres et les avis prévus aux articles 31 à 32.5;
+- **e)
+** les injonctions ministérielles visées à l’article 33;
+- **f)
+** les mesures de sûreté du transport ferroviaire établies en vertu du paragraphe 39.1(1);
+- **g)** les certificats d’exploitation de chemin de fer délivrés en vertu de l’article 17.4 et les avis de décision visés à l’article 17.5;
+- **h)
+** les arrêtés visés à l’article 36.
 > L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 46; 1999, ch. 9, art. 33; 2001, ch. 29, art. 70; 2012, ch. 7, art. 35.
 
 
