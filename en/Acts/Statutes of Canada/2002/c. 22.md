@@ -4116,6 +4116,15 @@ and ending on the day on which the refund is paid to the person.
 
 
 
+**Electronic funds transfer**
+
+**207.1** For greater certainty, information obtained by the Minister under Part XV.1 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) may be used for the purposes of this Act.
+> 2014, c. 20, s. 74.
+
+
+
+
+
 **Requirement to provide records or information**
 
 **208** 
