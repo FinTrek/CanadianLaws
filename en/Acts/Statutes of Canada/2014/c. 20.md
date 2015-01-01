@@ -1872,7 +1872,7 @@ In all other respects, the employee is governed by the terms and conditions of e
 
 <sup><a href='#fn_IndD722_hq_14293'>[*]</a></sup>**307** Sections 300 and 301 come into force on a day or days to be fixed by order of the Governor in Council, which may not be earlier than the day on which section 290 of the [Economic Action Plan 2013 Act, No. 2](/en/Acts/Statutes%20of%20Canada/2013/c.%2040.md) comes into force.
 
-<a name='fn_IndD722_hq_14293'><sup>*</sup></a>: [Note: Sections 300 and 301 not in force.]<br />
+<a name='fn_IndD722_hq_14293'><sup>*</sup></a>: [Note: Sections 300 and 301 in force January 1, 2015, *see* SI/2014-99.]<br />
 
 
 
