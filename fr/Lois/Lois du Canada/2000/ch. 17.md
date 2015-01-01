@@ -2497,6 +2497,25 @@ L’ordonnance doit être exécutée dans le délai, suivant la signification, q
 
 
 
+**Communication à l’Agence du revenu du Canada**
+
+**65.02** 
+
+- **(1)** S’il a des motifs raisonnables de soupçonner que des renseignements se rapportant à l’observation de la partie 1 par des personnes ou des entités visées à l’article 5 seraient utiles pour assurer l’observation de la partie XV.1 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), le Centre peut les communiquer à l’Agence du revenu du Canada.
+
+**Limite**
+
+- **(2)** Les renseignements communiqués par le Centre au titre du paragraphe (1) ne peuvent être utilisés par l’Agence du revenu du Canada qu’à des fins relatives au contrôle d’application de la partie XV.1 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
+
+**Limite**
+
+- **(3)** Le Centre ne peut divulguer aucun renseignement visé au paragraphe (1) qui permettrait d’identifier, même indirectement, un client d’une personne ou entité visée à l’article 5.
+> 2014, ch. 20, art. 289.
+
+
+
+
+
 **Accord de collaboration**
 
 **65.1** 
