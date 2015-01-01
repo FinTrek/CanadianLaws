@@ -7176,10 +7176,10 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 **367** 
 
 - **(1)** Sous réserve du paragraphe 373(4), il est interdit à tout particulier d’apporter des contributions qui dépassent :
-	- **a)** 1 200 $, au total, à un parti enregistré donné au cours d’une année civile;
-	- **b)** 1 200 $, au total, à l’ensemble des associations enregistrées, des candidats à l’investiture et des candidats d’un parti enregistré donné au cours d’une année civile;
-	- **c)** 1 200 $, au total, au candidat qui n’est pas le candidat d’un parti enregistré pour une élection donnée;
-	- **d)** 1 200 $, au total, à l’ensemble des candidats à la direction pour une course à la direction donnée au cours d’une année civile.
+	- **a)** 1 500 $, au total, à un parti enregistré donné au cours d’une année civile;
+	- **b)** 1 500 $, au total, à l’ensemble des associations enregistrées, des candidats à l’investiture et des candidats d’un parti enregistré donné au cours d’une année civile;
+	- **c)** 1 500 $, au total, au candidat qui n’est pas le candidat d’un parti enregistré pour une élection donnée;
+	- **d)** 1 500 $, au total, à l’ensemble des candidats à la direction pour une course à la direction donnée au cours d’une année civile.
 
 **Disposition testamentaire**
 
@@ -7210,7 +7210,7 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 **Aucun effet sur les plafonds prévus au paragraphe (1)**
 
 - **(8)** Les contributions visées au paragraphe (7) n’ont pas pour effet de réduire les plafonds prévus au paragraphe (1) relativement aux contributions que le candidat ou le candidat à la direction peut apporter à un autre candidat ou candidat à la direction.
-> 2000, ch. 9, art. 367; 2014, ch. 12, art. 86.
+> 2000, ch. 9, art. 367; 2014, ch. 12, art. 86 et 87.
 
 
 
