@@ -1719,7 +1719,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind640C_hq_13124'>[*]</a></sup>**293** The provisions of this Division come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind640C_hq_13124'><sup>*</sup></a>: [Note: Division 16 not in force.]<br />
+<a name='fn_Ind640C_hq_13124'><sup>*</sup></a>: [Note: Sections 290 to 292 in force January 1, 2015, *see* SI/2014-99.]<br />
 
 
 
