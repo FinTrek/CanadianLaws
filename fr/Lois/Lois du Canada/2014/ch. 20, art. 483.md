@@ -8,7 +8,7 @@
 Sanctionnée sur le 19 juin 2014
 
 ```
-[Édictée par l’article 483 du chapitre 20 des Lois du Canada (2014), non en vigueur.]
+[Édictée par l’article 483 du chapitre 20 des Lois du Canada (2014), en vigueur le 2 janvier 2015, voir TR/2014-100.]
 ```
 ----------
 
@@ -42,11 +42,11 @@ Sanctionnée sur le 19 juin 2014
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***fournisseur de formation technique*** Établissement d’enseignement agréé par une province pour offrir une formation technique. 
+***fournisseur de formation technique*** Établissement d’enseignement agréé par une province pour offrir une formation technique.  (*technical training provider*)
 
-***métier admissible*** Métier figurant à l’annexe des règlements.
+***métier admissible*** Métier figurant à l’annexe des règlements. (*eligible trade*)
 
-***ministre*** Le ministre de l’Emploi et du Développement social.
+***ministre*** Le ministre de l’Emploi et du Développement social. (*Minister*)
 
 **Autres définitions**
 
