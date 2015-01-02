@@ -2871,7 +2871,7 @@ In all other respects, the employee is governed by the terms and conditions of e
 
 <sup><a href='#fn_Ind67D9_hq_14299'>[*]</a></sup>**486** This Division comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind67D9_hq_14299'><sup>*</sup></a>: [Note: Division 30 not in force.]<br />
+<a name='fn_Ind67D9_hq_14299'><sup>*</sup></a>: [Note: Division 30 in force January 2, 2015, *see* SI/2014-100.]<br />
 
 
 
