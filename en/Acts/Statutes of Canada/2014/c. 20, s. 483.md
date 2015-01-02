@@ -8,7 +8,7 @@
 Assented to on 19 June 2014
 
 ```
-[Enacted by section 483 of chapter 20 of the Statutes of Canada, 2014, not in force.]
+[Enacted by section 483 of chapter 20 of the Statutes of Canada, 2014, in force January 2, 2015, see SI/2014-100.]
 ```
 ----------
 
@@ -42,11 +42,11 @@ Assented to on 19 June 2014
 
 - **(1)** The following definitions apply in this Act.
 
-***eligible trade*** means a trade listed in the schedule to the regulations.
+***eligible trade*** means a trade listed in the schedule to the regulations. (*métier admissible*)
 
-***Minister*** means the Minister of Employment and Social Development.
+***Minister*** means the Minister of Employment and Social Development. (*ministre*)
 
-***technical training provider*** means an institution that is approved by a province for the purpose of providing technical training.
+***technical training provider*** means an institution that is approved by a province for the purpose of providing technical training. (*fournisseur de formation technique*)
 
 **Other definitions**
 
