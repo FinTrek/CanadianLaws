@@ -1324,10 +1324,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **c)** la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md);
 - **d)** la [Loi fédérale sur l’aide financière aux étudiants](/fr/Lois/Lois%20du%20Canada/1994/ch.%2028.md);
 - **e)** la [Loi fédérale sur les prêts aux étudiants](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-23.md);
+- **e.1)** la [Loi sur les prêts aux apprentis](/fr/Lois/Lois%20du%20Canada/2014/ch.%2020,%20art.%20483.md);
 - **f)** le [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md);
 - **g)** tout programme appuyé par des subventions ou des contributions en vertu de l’article 7;
 - **h)** toute activité dont la mise en oeuvre ou l’exécution relèvent du ministre en vertu du [Règlement sur l’immigration et la protection des réfugiés](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2002/227.md).
-> 2013, ch. 40, art. 211.
+> 2013, ch. 40, art. 211; 2014, ch. 20, art. 485.
 
 
 
