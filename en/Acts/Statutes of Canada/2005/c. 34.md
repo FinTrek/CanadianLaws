@@ -1328,10 +1328,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(c)** the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md);
 - **(d)** the [Canada Student Financial Assistance Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2028.md);
 - **(e)** the [Canada Student Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-23.md);
+- **(e.1)** the [Apprentice Loans Act](/en/Acts/Statutes%20of%20Canada/2014/c.%2020,%20s.%20483.md);
 - **(f)** the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md);
 - **(g)** any programs that are supported by grants or contributions under section 7; and
 - **(h)** any activities in respect of which the administration or enforcement is the responsibility of the Minister under the [Immigration and Refugee Protection Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2002/227.md).
-> 2013, c. 40, s. 211.
+> 2013, c. 40, s. 211; 2014, c. 20, s. 485.
 
 
 
