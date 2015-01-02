@@ -2871,7 +2871,7 @@ où :
 
 <sup><a href='#fn_Ind7431_hq_14283'>[*]</a></sup>**486** La présente section entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind7431_hq_14283'><sup>*</sup></a>: [Note : Section 30 non en vigueur.]<br />
+<a name='fn_Ind7431_hq_14283'><sup>*</sup></a>: [Note : Section 30 en vigueur le 2 janvier 2015, *voir* TR/2014-100.]<br />
 
 
 
