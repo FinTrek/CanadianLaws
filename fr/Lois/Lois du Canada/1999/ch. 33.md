@@ -7828,67 +7828,24 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 ### Substances interdites
 
 
-**1** Mirex (dodécachloropentacyclo [5.3.0.0<sup>2,6</sup>.0<sup>3,9</sup>.0<sup>4,8</sup>] décane) (Chemical Abstracts Service (ci-après  « CAS ») 2385-85-5)
 
-
-
-**2** Les biphényles polybromés dont la formule moléculaire est C<sub>12</sub>H<sub>(10-n)</sub>Br<sub>n</sub>, où « n » est plus grand que 2
-
-
-
-**3** Les terphényles polychlorés dont la formule moléculaire est C<sub>18</sub>H<sub>(14-n)</sub>Cl<sub>n</sub>, où « n » est plus grand que 2
-
-
-
-**4** Alachlore (chloro-2N-(diéthyl-2,6 phényl)N-méthoxyméthyl acétamide) (CAS 15972-60-8)
-
-
-
-**5** Leptophos (phénylthiophosphate de O-(bromo-4 dichloro-2,5 phényle) et de O-méthyle) (CAS 21609-90-5)
-
-
-
-**6** Phosphamidon (phosphate de 2-chloro-2-(diéthylecarbamoyl)-1 méthylvinyle et de diméthyle) (CAS 13171-21-6)
-
-
-
-**7** Cyhéxatin (hydroxyde de tricyclohexyl-étain) (CAS 13121-70-5)
-
-
-
-**8** Bis (butylène-2)tetrahydro-2,3,4,5 furfural-2 (CAS 126-15-8)
-
-
-
-**9** Éther bis(chlorométhylique) (aussi appelé oxybis(chlorométhane)) dont la formule moléculaire est C<sub>2</sub>H<sub>4</sub>Cl<sub>2</sub>O (CAS 542-88-1)
-
-
-
-**10** Oxyde de chlorométhyle et de méthyle dont la formule moléculaire est C<sub>2</sub>H<sub>5</sub>ClO (CAS 107-30-2)
-
-
-
-**11** (4-chlorophényle)cyclopropylméthanone, O-[(4-nitro-phényle)méthyl]oxime dont la formule moléculaire est C<sub>17</sub>H<sub>15</sub>ClN<sub>2</sub>O<sub>3</sub> (CAS 94097-88-8)
-
-
-
-**12** Chlordécone (CAS 143-50-0)
-
-
-
-**13** Endrine (exo-1,4-exo-5,8-hexachloro-1,2,3,4,10,10 époxy-6,7 octahydro-1,4,4a,5,6,7,8,8a diméthanonaphtalène) (CAS 72-20-8)
-
-
-
-**14** Toxaphène (CAS 8001-35-2)
-
-
-
-**15** Alpha-HCH (CAS 319-84-6)
-
-
-
-**16** Bêta-HCH (CAS 319-85-7)
+- **1** Mirex (dodécachloropentacyclo [5.3.0.0<sup>2,6</sup>.0<sup>3,9</sup>.0<sup>4,8</sup>] décane) (Chemical Abstracts Service (ci-après « CAS ») 2385-85-5)
+- **2** Les biphényles polybromés dont la formule moléculaire est C<sub>12</sub>H<sub>(10-n)</sub>Br<sub>n</sub>, où « n » est plus grand que 2
+- **3** Les terphényles polychlorés dont la formule moléculaire est C<sub>18</sub>H<sub>(14-n)</sub>Cl<sub>n</sub>, où « n » est plus grand que 2
+- **4** Alachlore (chloro-2N-(diéthyl-2,6 phényl)N-méthoxyméthyl acétamide) (CAS 15972-60-8)
+- **5** Leptophos (phénylthiophosphate de O-(bromo-4 dichloro-2,5 phényle) et de O-méthyle) (CAS 21609-90-5)
+- **6** Phosphamidon (phosphate de 2-chloro-2-(diéthylecarbamoyl)-1 méthylvinyle et de diméthyle) (CAS 13171-21-6)
+- **7** Cyhéxatin (hydroxyde de tricyclohexyl-étain) (CAS 13121-70-5)
+- **8** Bis (butylène-2)tetrahydro-2,3,4,5 furfural-2 (CAS 126-15-8)
+- **9** Éther bis(chlorométhylique) (aussi appelé oxybis(chlorométhane)) dont la formule moléculaire est C<sub>2</sub>H<sub>4</sub>Cl<sub>2</sub>O (CAS 542-88-1)
+- **10** Oxyde de chlorométhyle et de méthyle dont la formule moléculaire est C<sub>2</sub>H<sub>5</sub>ClO (CAS 107-30-2)
+- **11** (4-chlorophényle)cyclopropylméthanone, O-[(4-nitro-phényle)méthyl]oxime dont la formule moléculaire est C<sub>17</sub>H<sub>15</sub>ClN<sub>2</sub>O<sub>3</sub> (CAS 94097-88-8)
+- **12** Chlordécone (CAS 143-50-0)
+- **13** Endrine (exo-1,4-exo-5,8-hexachloro-1,2,3,4,10,10 époxy-6,7 octahydro-1,4,4a,5,6,7,8,8a diméthanonaphtalène) (CAS 72-20-8)
+- **14** Toxaphène (CAS 8001-35-2)
+- **15** Alpha-HCH (CAS 319-84-6)
+- **16** Bêta-HCH (CAS 319-85-7)
+- **17** Azinphos-méthyle (CAS 86-50-0)
 
 
 
@@ -7900,167 +7857,61 @@ Note : Le sigle « CAS  » se rapporte au numéro du Service des résumés an
 
 
 
-**1** 2,4,5-T et ses sels et esters
 
-
-
-**2** Aldrine (CAS 309-00-2)
-
-
-
-**3** Captafol (CAS 2425-06-1)
-
-
-
-**4** Chlordane (CAS 57-74-9)
-
-
-
-**5** Chlordiméforme (CAS 6164-98-3)
-
-
-
-**6** Chlorobenzilate (CAS 510-15-6)
-
-
-
-**7** DDT (CAS 50-29-3)
-
-
-
-**8** Dieldrine (CAS 60-57-1)
-
-
-
-**9** Dinosèbe et ses sels et esters
-
-
-
-**10** Dibromo-1,2 éthane (EDB) (CAS 106-93-4)
-
-
-
-**11** Fluoroacétamide (CAS 640-19-7)
-
-
-
-**12** [Abrogé, DORS/2012-164, art. 5]
-
-
-
-**13** Heptachlore (CAS 76-44-8)
-
-
-
-**14** Hexachlorobenzène (CAS 118-74-1)
-
-
-
-**15** Lindane (CAS 58-89-9)
-
-
-
-**16** Composés du mercure, y compris composés inorganiques et composés du type alkylmercure, alkyloxyalkyle et arylmercure
-
-
-
-**17** Pentachlorophénol et ses sels et esters
-
-
-
-**18** Monocrotophos (CAS 6923-22-4)
-
-
-
-**19** Methamidophos (formulations liquides solubles de la substance qui contiennent plus de 600 g de principe actif par litre) (CAS 10265-92-6)
-
-
-
-**20** Concentrés émulsifiables contenant 19,5 % ou plus de méthyle parathion et poudres contenant 1,5 % ou plus de méthyle parathion (CAS 298-00-0)
-
-
-
-**21** Parathion (CAS 56-38-2)
-
-
-
-**22** Crocidolite (CAS 12001-28-4)
-
-
-
-**23** Biphényles polychlorés (BPC) (CAS 1336-36-3)
-
-
-
-**24** Phosphate de tri - 2,3 dibromopropyle (CAS 126-72-7)
-
-
-
-**25** [Abrogé, DORS/2012-164, art. 8]
-
-
-
-**26** Binapacryl (CAS 485-31-4)
-
-
-
-**27** Oxyde d’éthylène (CAS 75-21-8)
-
-
-
-**28** 1,2-Dichloroéthane (CAS 107-06-2)
-
-
-
-**29** Dinitro-ortho-crésol (DNOC) et ses sels (CAS 534-52-1; CAS 2980-64-5; CAS 5787-96-2; CAS 2312-76-7)
-
-
-
-**30** Préparations en poudre pulvérisable contenant un mélange de bénomyl à une concentration supérieure ou égale à 7 % (CAS 17804-35-2), de carbofurane à une concentration supérieure ou égale à 10 % (CAS 1563-66-2) et de thirame à une concentration supérieure ou égale à 15 % (CAS 137-26-8)
-
-
-
-**31** Les composés du tributylétain, notamment :
-
-**a)** l’oxyde de tributylétain (CAS 56-35-9)
-
-
-
-**b)** le fluorure de tributylétain (CAS 1983-10-4)
-
-
-
-**c)** le méthacrylate de tributylétain (CAS 2155-70-6)
-
-
-
-**d)** le benzoate de tributylétain (CAS 4342-36-3)
-
-
-
-**e)** le chlorure de tributylétain (CAS 1461-22-9)
-
-
-
-**f)** le linoléate de tributylétain (CAS 24124-25-2)
-
-
-
-**g)** le naphténate de tributylétain (CAS 85409-17-2)
-
-
-
-
-
-**32** Plomb tétraéthyle (CAS 78-00-2)
-
-
-
-**33** Plomb tétraméthyle (CAS 75-74-1)
-
-
-
-**34** Endosulfan (CAS 115-29-7)
+- **1** 2,4,5-T et ses sels et esters
+- **2** Aldrine (CAS 309-00-2)
+- **3** Captafol (CAS 2425-06-1)
+- **4** Chlordane (CAS 57-74-9)
+- **5** Chlordiméforme (CAS 6164-98-3)
+- **6** Chlorobenzilate (CAS 510-15-6)
+- **7** DDT (CAS 50-29-3)
+- **8** Dieldrine (CAS 60-57-1)
+- **9** Dinosèbe et ses sels et esters
+- **10** Dibromo-1,2 éthane (EDB) (CAS 106-93-4)
+- **11** Fluoroacétamide (CAS 640-19-7)
+- **12** [Abrogé, DORS/2012-164, art. 5]
+- **13** Heptachlore (CAS 76-44-8)
+- **14** Hexachlorobenzène (CAS 118-74-1)
+- **15** Lindane (CAS 58-89-9)
+- **16** Composés du mercure, y compris composés inorganiques et composés du type alkylmercure, alkyloxyalkyle et arylmercure
+- **17** Pentachlorophénol et ses sels et esters
+- **18** Monocrotophos (CAS 6923-22-4)
+- **19** Methamidophos (formulations liquides solubles de la substance qui contiennent plus de 600 g de principe actif par litre) (CAS 10265-92-6)
+- **20** Concentrés émulsifiables contenant 19,5 % ou plus de méthyle parathion et poudres contenant 1,5 % ou plus de méthyle parathion (CAS 298-00-0)
+- **21** Parathion (CAS 56-38-2)
+- **22** Crocidolite (CAS 12001-28-4)
+- **23** Biphényles polychlorés (BPC) (CAS 1336-36-3)
+- **24** Phosphate de tri - 2,3 dibromopropyle (CAS 126-72-7)
+- **25** [Abrogé, DORS/2012-164, art. 8]
+- **26** Binapacryl (CAS 485-31-4)
+- **27** Oxyde d’éthylène (CAS 75-21-8)
+- **28** 1,2-Dichloroéthane (CAS 107-06-2)
+- **29** Dinitro-ortho-crésol (DNOC) et ses sels (CAS 534-52-1; CAS 2980-64-5; CAS 5787-96-2; CAS 2312-76-7)
+- **30** Préparations en poudre pulvérisable contenant un mélange de bénomyl à une concentration supérieure ou égale à 7 % (CAS 17804-35-2), de carbofurane à une concentration supérieure ou égale à 10 % (CAS 1563-66-2) et de thirame à une concentration supérieure ou égale à 15 % (CAS 137-26-8)
+- **31** Les composés du tributylétain, notamment :
+- **a)** l’oxyde de tributylétain (CAS 56-35-9)
+- **b)** le fluorure de tributylétain (CAS 1983-10-4)
+- **c)** le méthacrylate de tributylétain (CAS 2155-70-6)
+- **d)** le benzoate de tributylétain (CAS 4342-36-3)
+- **e)** le chlorure de tributylétain (CAS 1461-22-9)
+- **f)** le linoléate de tributylétain (CAS 24124-25-2)
+- **g)** le naphténate de tributylétain (CAS 85409-17-2)
+- **32** Plomb tétraéthyle (CAS 78-00-2)
+- **33** Plomb tétraméthyle (CAS 75-74-1)
+- **34** Endosulfan (CAS 115-29-7)
+- **35** Les perfluorooctane sulfonates, les perfluorooctane sulfonamides et les perfluorooctane sulfonyles, notamment :
+- **a)** l’acide perfluorooctane sulfonique (CAS 1763-23-1)
+- **b)** le perfluorooctane sulfonate de potassium (CAS 2795-39-3)
+- **c)** le perfluorooctane sulfonate de lithium (CAS 29457-72-5)
+- **d)** le perfluorooctane sulfonate d’ammonium (CAS 29081-56-9)
+- **e)** le perfluorooctane sulfonate de diéthanolammonium (CAS 70225-14-8)
+- **f)** le perfluorooctane sulfonate de tétraéthylammonium (CAS 56773-42-3)
+- **g)** le perfluorooctane sulfonate de didécyldiméthylammonium (CAS 251099-16-8)
+- **h)** le N-éthylperfluorooctane sulfonamide (CAS 4151-50-2)
+- **i)** le N-méthylperfluorooctane sulfonamide (CAS 31506-32-8)
+- **j)** le N-éthyl-N-(2-hydroxyéthyl) perfluorooctane sulfonamide (CAS 1691-99-2)
+- **k)** le N-(2-hydroxyéthyl)-N-méthylperfluorooctane sulfonamide (CAS 24448-09-7)
+- **l)** le fluorure de perfluorooctane sulfonyle (CAS 307-35-7)
 
 
 
@@ -8068,82 +7919,27 @@ Note : Le sigle « CAS  » se rapporte au numéro du Service des résumés an
 ### Substances à utilisation restreinte
 
 
-**1** Les chlorofluorocarbures complètement halogénés dont la formule moléculaire est C<sub>n</sub>Cl<sub>x</sub>F<sub>(2n+2-x)</sub> où « n » est plus petit ou égal à 3 et « x » est plus grand ou égal à 1 et plus petit que « 2n+2 », « x » représentant également le nombre d’atomes
+
+- **1** Les chlorofluorocarbures complètement halogénés dont la formule moléculaire est C<sub>n</sub>Cl<sub>x</sub>F<sub>(2n+2-x)</sub> où « n » est plus petit ou égal à 3 et « x » est plus grand ou égal à 1 et plus petit que « 2n+2 », « x » représentant également le nombre d’atomes
+- **2** Alcool allylique (2-propène-1-ol) (CAS 107-18-6)
+- **3** Tétrachlorure de carbone (tétrachlorométhane) (CAS 56-23-5)
+- **4** DBCP (dibromo-1,2 chloro-3 propane) (CAS 96-12-8)
+- **5** Arséniate de plomb, dont la formule moléculaire est PbHAsO<sub>4</sub>, et sa forme basique, dont la formule moléculaire est Pb<sub>4</sub>(PbOH)(AsO<sub>4</sub>)<sub>3</sub> (CAS 7784-40-9; CAS 1327-31-7)
+- **6** Strychnine (CAS 57-24-9)
+- **7** Bromochlorodifluorométhane dont la formule moléculaire est CF<sub>2</sub>BrCl (CAS 353-59-3)
+- **8** Bromotrifluorométhane dont la formule moléculaire est CF<sub>3</sub>Br (CAS 75-63-8)
+- **9** Dibromotétrafluoroéthane dont la formule moléculaire est C<sub>2</sub>F<sub>4</sub>Br<sub>2</sub> (CAS 124-73-2)
+- **10** Chlorure de tributyltétradécylphosphonium (CAS 81741-28-8)
+- **11** Benzidine et dichlorhydrate de benzidine, dont les formules moléculaires sont respectivement C<sub>12</sub>H<sub>12</sub>N<sub>2</sub> et C<sub>12</sub>H<sub>12</sub>N<sub>2</sub>×2HCl (CAS 92-87-5; CAS 531-85-1)
+- **12** 2-Méthoxyéthanol, dont la formule moléculaire est C<sub>3</sub>H<sub>8</sub>O<sub>2</sub> (CAS 109-86-4)
+- **13** Pentachlorobenzène, dont la formule moléculaire est C<sub>6</sub>HCl<sub>5</sub> (CAS 608-93-5)
+- **14** Tétrachlorobenzènes, dont la formule moléculaire est C<sub>6</sub>H<sub>2</sub>Cl<sub>4</sub> (CAS 12408-10-5; CAS 84713-12-2; CAS 634-90-2; CAS 634-66-2; CAS 95-94-3)
+- **15 à 17** [Abrogés, DORS/2015-8, art. 3]
+- **18** Phorate (CAS 298-02-2)
+- **19** Terbufos (CAS 13071-79-9)
 
 
-
-**2** Alcool allylique (2-propène-1-ol) (CAS 107-18-6)
-
-
-
-**3** Tétrachlorure de carbone (tétrachlorométhane) (CAS 56-23-5)
-
-
-
-**4** DBCP (dibromo-1,2 chloro-3 propane) (CAS 96-12-8)
-
-
-
-**5** Arséniate de plomb, dont la formule moléculaire est PbHAsO<sub>4</sub>, et sa forme basique, dont la formule moléculaire est Pb<sub>4</sub>(PbOH)(AsO<sub>4</sub>)<sub>3</sub> (CAS 7784-40-9; CAS 1327-31-7)
-
-
-
-**6** Strychnine (CAS 57-24-9)
-
-
-
-**7** Bromochlorodifluorométhane dont la formule moléculaire est CF<sub>2</sub>BrCl (CAS 353-59-3)
-
-
-
-**8** Bromotrifluorométhane dont la formule moléculaire est CF<sub>3</sub>Br (CAS 75-63-8)
-
-
-
-**9** Dibromotétrafluoroéthane dont la formule moléculaire est C<sub>2</sub>F<sub>4</sub>Br<sub>2</sub> (CAS 124-73-2)
-
-
-
-**10** Chlorure de tributyltétradécylphosphonium (CAS 81741-28-8)
-
-
-
-**11** Benzidine et dichlorhydrate de benzidine, dont les formules moléculaires sont respectivement C<sub>12</sub>H<sub>12</sub>N<sub>2</sub> et C<sub>12</sub>H<sub>12</sub>N<sub>2</sub>×2HCl (CAS 92-87-5; CAS 531-85-1)
-
-
-
-**12** 2-Méthoxyéthanol, dont la formule moléculaire est C<sub>3</sub>H<sub>8</sub>O<sub>2</sub> (CAS 109-86-4)
-
-
-
-**13** Pentachlorobenzène, dont la formule moléculaire est C<sub>6</sub>HCl<sub>5</sub> (CAS 608-93-5)
-
-
-
-**14** Tétrachlorobenzènes, dont la formule moléculaire est C<sub>6</sub>H<sub>2</sub>Cl<sub>4</sub> (CAS 12408-10-5; CAS 84713-12-2; CAS 634-90-2; CAS 634-66-2; CAS 95-94-3)
-
-
-
-**15** Sulfonate de perfluorooctane et ses sels
-
-
-
-**16** Les composés qui contiennent un des groupements suivants : C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>, C<sub>8</sub>F<sub>17</sub>SO<sub>3</sub> ou C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>N
-
-
-
-**17** Azinphos-méthyle (CAS 86-50-0)
-
-
-
-**18** Phorate (CAS 298-02-2)
-
-
-
-**19** Terbufos (CAS 13071-79-9)
-
-
-> 1999, ch. 33, ann. 3; DORS/2000-117, 118; DORS/2002-318; DORS/2003-100; DORS/2012-164; DORS/2013-99.
+> 1999, ch. 33, ann. 3; DORS/2000-117, 118; DORS/2002-318; DORS/2003-100; DORS/2012-164; DORS/2013-99; DORS/2015-8.
 
 
 
