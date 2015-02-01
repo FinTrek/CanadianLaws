@@ -1515,7 +1515,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#nbp_IndEB27_hq_14591'>[*]</a></sup>**269** Les articles 261 à 263 et 266 à 268 entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='nbp_IndEB27_hq_14591'><sup>*</sup></a>: [Note : Articles 261 à 263 et 266 à 268 non en vigueur.]<br />
+<a name='nbp_IndEB27_hq_14591'><sup>*</sup></a>: [Note : Articles 261 et 268 en vigueur le 1<sup>er</sup> février 2015, *voir* TR/2015-10.]<br />
 > 2013, ch. 40, art. 269; 2014, ch. 39, art. 265.
 
 
