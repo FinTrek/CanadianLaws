@@ -1515,7 +1515,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind1A84_hq_15136'>[*]</a></sup>**269** Sections 261 to 263 and 266 to 268 come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind1A84_hq_15136'><sup>*</sup></a>: [Note: Sections 261 to 263 and 266 to 268 not in force.]<br />
+<a name='fn_Ind1A84_hq_15136'><sup>*</sup></a>: [Note: Sections 261 and 268 in force February 1, 2015, *see* SI/2015-10.]<br />
 > 2013, c. 40, s. 269; 2014, c. 39, s. 265.
 
 
