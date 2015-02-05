@@ -54,11 +54,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***administrateur en chef*** L’administrateur en chef de la santé publique nommé en vertu du paragraphe 6(1).
+***administrateur en chef*** L’administrateur en chef de la santé publique nommé en vertu du paragraphe 6(1). (*Chief Public Health Officer*)
 
-***Agence*** L’Agence de la santé publique du Canada constituée par l’article 3.
+***Agence*** L’Agence de la santé publique du Canada constituée par l’article 3. (*Agency*)
 
-***ministre*** Le ministre de la Santé.
+***ministre*** Le ministre de la Santé. (*Minister*)
+
+***président*** Le président de l’Agence nommé en vertu de l’article 5.1. (*President*)
+> 2006, ch. 5, art. 2; 2014, ch. 39, art. 253.
+
 
 
 
@@ -94,6 +98,37 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+## Président
+
+
+
+**Nomination**
+
+**5.1** Le gouverneur en conseil nomme le président de l’Agence, à titre amovible, pour un mandat renouvelable d’au plus cinq ans.
+> 2014, ch. 39, art. 254.
+
+
+
+
+
+**Premier dirigeant**
+
+**5.2** Le président est le premier dirigeant de l’Agence; il a rang et statut d’administrateur général de ministère.
+> 2014, ch. 39, art. 254.
+
+
+
+
+
+**Rémunération**
+
+**5.3** Le président reçoit la rémunération fixée par le gouverneur en conseil.
+> 2014, ch. 39, art. 254.
+
+
+
+
+
 ## Administrateur en chef de la santé publique
 
 
@@ -102,11 +137,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **6** 
 
-- **(1)** Le gouverneur en conseil nomme un administrateur en chef de la santé publique; celui-ci est l’administrateur général de l’Agence.
+- **(1)** Le gouverneur en conseil nomme l’administrateur en chef de la santé publique, lequel est membre du personnel de l’Agence.
 
 **Qualités requises**
 
 - **(2)** L’administrateur en chef est un professionnel de la santé qui possède des compétences dans le domaine de la santé publique.
+> 2006, ch. 5, art. 6; 2014, ch. 39, art. 255.
+
 
 
 
@@ -117,6 +154,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** L’administrateur en chef est le premier professionnel de la santé de l’administration publique fédérale en matière de santé publique.
 
+**Conseils**
+
+- **(1.1)** Il fournit au ministre et au président des conseils en matière de santé publique élaborés sur une base scientifique.
+
 **Communica­tion : gouvernements, autorités et organismes**
 
 - **(2)** Il peut communiquer au sujet de toute question liée à la santé publique avec les gouvernements, les autorités sanitaires et les organismes oeuvrant dans le domaine de la santé publique, tant au Canada qu’à l’étranger.
@@ -124,6 +165,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Communica­tion : public, organismes et secteur privé**
 
 - **(3)** Il peut aussi communiquer avec le public, les organismes bénévoles du domaine de la santé publique et le secteur privé aux fins d’information ou de consultation en matière de santé publique.
+> 2006, ch. 5, art. 7; 2014, ch. 39, art. 256.
+
 
 
 
@@ -140,10 +183,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Rang et statut**
-
-**9** L’administrateur en chef a rang et statut d’administrateur général de ministère.
+**9** [Abrogé, 2014, ch. 39, art. 257]
 
 
 
@@ -154,9 +194,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** L’administrateur en chef reçoit, pour l’exécution de ses fonctions, la rémunération que peut fixer le gouverneur en conseil.
 
-**Frais**
+- **(2)** [Abrogé, 2014, ch. 39, art. 258]
+> 2006, ch. 5, art. 10; 2014, ch. 39, art. 258.
 
-- **(2)** Il est indemnisé, conformément aux directives du Conseil du Trésor, des frais de déplacement, de séjour et autres entraînés par l’exercice de ses fonctions hors de son lieu habituel de travail.
 
 
 
