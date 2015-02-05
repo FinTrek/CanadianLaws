@@ -52,11 +52,15 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **2** The following definitions apply in this Act.
 
-***Agency*** means the Public Health Agency of Canada established by section 3.
+***Agency*** means the Public Health Agency of Canada established by section 3. (*Agence*)
 
-***Chief Public Health Officer*** means the Chief Public Health Officer appointed under subsection 6(1).
+***Chief Public Health Officer*** means the Chief Public Health Officer appointed under subsection 6(1). (*administrateur en chef*)
 
-***Minister*** means the Minister of Health.
+***Minister*** means the Minister of Health. (*ministre*)
+
+***President*** means the President of the Agency appointed under section 5.1. (*président*)
+> 2006, c. 5, s. 2; 2014, c. 39, s. 253.
+
 
 
 
@@ -92,6 +96,37 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
+## President
+
+
+
+**Appointment**
+
+**5.1** The President of the Agency is to be appointed by the Governor in Council to hold office during pleasure for a renewable term of up to five years.
+> 2014, c. 39, s. 254.
+
+
+
+
+
+**Chief executive officer**
+
+**5.2** The President is the chief executive officer of the Agency and has the rank and status of a deputy head of a department.
+> 2014, c. 39, s. 254.
+
+
+
+
+
+**Remuneration**
+
+**5.3** The President is to be paid the remuneration fixed by the Governor in Council.
+> 2014, c. 39, s. 254.
+
+
+
+
+
 ## Chief Public Health Officer
 
 
@@ -100,11 +135,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **6** 
 
-- **(1)** The Governor in Council shall appoint a Chief Public Health Officer, who is the deputy head of the Agency.
+- **(1)** The Governor in Council shall appoint a Chief Public Health Officer, who is an officer of the Agency.
 
 **Qualifications required**
 
 - **(2)** The Chief Public Health Officer shall be a health professional who has qualifications in the field of public health.
+> 2006, c. 5, s. 6; 2014, c. 39, s. 255.
+
 
 
 
@@ -115,6 +152,10 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** The Chief Public Health Officer is the lead health professional of the Government of Canada in relation to public health.
 
+**Advice**
+
+- **(1.1)** The Chief Public Health Officer shall provide the Minister and the President with public health advice that is developed on a scientific basis.
+
 **Communication with governments, public health authorities and organizations**
 
 - **(2)** The Chief Public Health Officer may, with respect to public health issues, communicate with governments, public health author-ities or organizations in the public health field, within Canada or internationally.
@@ -122,6 +163,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Communication with the public, voluntary organizations and the private sector**
 
 - **(3)** The Chief Public Health Officer may communicate with the public, voluntary organizations in the public health field or the private sector for the purpose of providing information, or seeking their views, about public health issues.
+> 2006, c. 5, s. 7; 2014, c. 39, s. 256.
+
 
 
 
@@ -138,10 +181,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-
-**Rank and status**
-
-**9** The Chief Public Health Officer has the rank and status of a deputy head of a department.
+**9** [Repealed, 2014, c. 39, s. 257]
 
 
 
@@ -152,9 +192,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** The Chief Public Health Officer shall be paid, for the performance of his or her duties and functions, the remuneration fixed by the Governor in Council.
 
-**Travelling, living and other expenses**
+- **(2)** [Repealed, 2014, c. 39, s. 258]
+> 2006, c. 5, s. 10; 2014, c. 39, s. 258.
 
-- **(2)** The Chief Public Health Officer shall be paid, in accordance with Treasury Board directives, for reasonable travel, living and other expenses incurred in performing his or her duties and functions while absent from his or her ordinary place of work.
 
 
 
