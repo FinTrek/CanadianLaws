@@ -658,6 +658,17 @@ où :
 </td>
 </tr>
 <tr>
+<td>Aitchelitz
+
+</td>
+<td>Conseil d’Aitchelitz
+
+</td>
+<td>Toute réserve d’Aitchelitz non partagée avec une autre bande
+
+</td>
+</tr>
+<tr>
 <td>Première Nation Akisqnuk (aussi connue sous les noms de *Columbia Lake Indian Band et de ?Akisq’nuk First Nation*)
 
 </td>
@@ -878,6 +889,17 @@ où :
 </td>
 </tr>
 <tr>
+<td>Kwaw-kwaw-Apilt
+
+</td>
+<td>Conseil de Kwaw-kwaw-Apilt
+
+</td>
+<td>Toute réserve de Kwaw-kwaw-Apilt non partagée avec une autre bande
+
+</td>
+</tr>
+<tr>
 <td>Nation crie de *Little Red River*
 
 </td>
@@ -1039,6 +1061,17 @@ où :
 
 </td>
 <td>Réserve de Skidegate
+
+</td>
+</tr>
+<tr>
+<td>Skowkale
+
+</td>
+<td>Conseil de Skowkale
+
+</td>
+<td>Toute réserve de Skowkale non partagée avec une autre bande
 
 </td>
 </tr>
@@ -1220,7 +1253,7 @@ où :
 </tr>
 </table>
 
-> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363; DORS/2006-201, 294; DORS/2007-111; DORS/2007-185, art. 1 et 2; DORS/2008-103, 234, 235; DORS/2009-281; DORS/2010-178, 179; DORS/2011-36, 213, 214, 266; DORS/2012-31; DORS/2013-14; DORS/2014-119, 157, 209.
+> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363; DORS/2006-201, 294; DORS/2007-111; DORS/2007-185, art. 1 et 2; DORS/2008-103, 234, 235; DORS/2009-281; DORS/2010-178, 179; DORS/2011-36, 213, 214, 266; DORS/2012-31; DORS/2013-14; DORS/2014-119, 157, 209; DORS/2015-28.
 
 
 
