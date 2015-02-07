@@ -506,23 +506,23 @@ and the Board shall make all reasonable efforts to enter into agreements with th
 
 - **(1)** In this section,
 
-***civil transportation facility*** means
+***civil transportation facility*** means
 - **(a)** an installation designed or used to facilitate the operation or maintenance of an aircraft or ship,
 - **(b)** a railway, or
 - **(c)** a pipeline
 
-that is not a military transportation facility;
+that is not a military transportation facility; (*installation de transport civile*)
 
-***military conveyance*** means an aircraft, ship, rolling stock, motor vehicle or any other machine designed for movement from place to place, that is operated by or on behalf of the Department of National Defence, the Canadian Forces or a visiting force;
+***military conveyance*** means an aircraft, ship, rolling stock, motor vehicle or any other machine designed for movement from place to place, that is operated by or on behalf of the Department of National Defence, the Canadian Forces or a visiting force; (*moyen de transport militaire*)
 
-***military transportation facility*** means
+***military transportation facility*** means
 - **(a)** an installation designed or used to facilitate the operation or maintenance of an aircraft, ship, motor vehicle or any other machine designed for movement from place to place,
 - **(b)** a railway, or
 - **(c)** a pipeline
 
-that is operated by or on behalf of the Department of National Defence, the Canadian Forces or a visiting force;
+that is operated by or on behalf of the Department of National Defence, the Canadian Forces or a visiting force; (*installation de transport militaire*)
 
-***visiting force*** means a visiting force as defined in section 2 of the [Visiting Forces Act](/en/Acts/Revised%20Statutes%20of%20Canada/V/V-2.md).
+***visiting force*** means a visiting force as defined in section 2 of the [Visiting Forces Act](/en/Acts/Revised%20Statutes%20of%20Canada/V/V-2.md). (*force étrangère présente au Canada*)
 
 **Military conveyance or military transportation facility**
 
@@ -535,10 +535,10 @@ that is operated by or on behalf of the Department of National Defence, the Cana
 	- **(b)** a military conveyance and a civil transportation facility; or
 	- **(c)** a military transportation facility and an aircraft, ship or rolling stock none of which is a military conveyance.
 
-**Investigations to be co-ordinated**
+**Investigations to be coordinated**
 
-- **(4)** Where a transportation occurrence referred to in subsection (3) is being investigated by the Board and by the Department of National Defence, the Canadian Forces or a visiting force, the Board and the Minister of National Defence shall take all reasonable measures to ensure that the investigations are coordinated.
-> 1989, c. 3, s. 18; 1998, c. 20, s. 24.
+- **(4)** If a transportation occurrence referred to in subsection (3) is being investigated by the Board and by the Department of National Defence, the Canadian Forces or a visiting force, the Board and either the Minister of National Defence or the Authority designated under section 12 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) shall take all reasonable measures to ensure that the investigations are coordinated.
+> 1989, c. 3, s. 18; 1998, c. 20, s. 24; 2014, c. 29, s. 23.
 
 
 
