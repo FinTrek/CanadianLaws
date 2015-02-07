@@ -453,13 +453,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***force étrangère présente au Canada*** S’entend au sens de la [Loi sur les forces étrangères présentes au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/V/V-2.md).
+***force étrangère présente au Canada*** S’entend au sens de la [Loi sur les forces étrangères présentes au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/V/V-2.md). (*visiting force*)
 
-***installation de transport civile*** Chemin de fer, pipeline et installation conçue ou utilisée pour faciliter l’exploitation ou l’entretien d’aéronefs ou de navires, autres que des installations de transport militaires.
+***installation de transport civile*** Chemin de fer, pipeline et installation conçue ou utilisée pour faciliter l’exploitation ou l’entretien d’aéronefs ou de navires, autres que des installations de transport militaires. (*civil transportation facility*)
 
-***installation de transport militaire*** Chemin de fer, pipeline et installation conçue ou utilisée pour faciliter l’exploitation ou l’entretien d’aéronefs, de navires, de véhicules automobiles ou d’autres machines mobiles, qui sont exploités par ou pour le ministère de la Défense nationale, les Forces canadiennes ou une force étrangère présente au Canada.
+***installation de transport militaire*** Chemin de fer, pipeline et installation conçue ou utilisée pour faciliter l’exploitation ou l’entretien d’aéronefs, de navires, de véhicules automobiles ou d’autres machines mobiles, qui sont exploités par ou pour le ministère de la Défense nationale, les Forces canadiennes ou une force étrangère présente au Canada. (*military transportation facility*)
 
-***moyen de transport militaire*** Aéronef, navire, matériel roulant, véhicule automobile ou autre machine mobile, exploités par ou pour le ministère de la Défense nationale, les Forces canadiennes ou une force étrangère présente au Canada.
+***moyen de transport militaire*** Aéronef, navire, matériel roulant, véhicule automobile ou autre machine mobile, exploités par ou pour le ministère de la Défense nationale, les Forces canadiennes ou une force étrangère présente au Canada. (*military conveyance*)
 
 **Exclusion du champ d’enquête**
 
@@ -467,15 +467,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Pouvoir d’enquête**
 
-- **(3)** Le Bureau peut enquêter sur un accident de transport qui met en cause :
+- **(3)** Le Bureau peut enquêter sur un accident de transport qui met en cause :
 	- **a)** un moyen de transport militaire et un aéronef, un navire ou du matériel roulant non militaires;
 	- **b)** un moyen de transport militaire et une installation de transport civile;
 	- **c)** un aéronef, un navire ou du matériel roulant non militaires et une installation de transport militaire.
 
 **Coordination des enquêtes**
 
-- **(4)** Le Bureau et le ministre de la Défense nationale sont tenus de veiller, dans la mesure du possible, à la coordination des enquêtes menées par le Bureau et par le ministère de la Défense nationale, les Forces canadiennes ou une force étrangère présente au Canada, sur les accidents de transport visés au paragraphe (3).
-> 1989, ch. 3, art. 18; 1998, ch. 20, art. 24.
+- **(4)** Le Bureau et soit le ministre de la Défense nationale, soit le directeur des enquêtes sur la navigabilité désigné en vertu de l’article 12 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md) sont tenus de veiller, dans la mesure du possible, à la coordination des enquêtes sur les accidents de transport visés au paragraphe (3) qui sont menées par le Bureau et par le ministère de la Défense nationale, les Forces canadiennes ou une force étrangère présente au Canada.
+> 1989, ch. 3, art. 18; 1998, ch. 20, art. 24; 2014, ch. 29, art. 23.
 
 
 
