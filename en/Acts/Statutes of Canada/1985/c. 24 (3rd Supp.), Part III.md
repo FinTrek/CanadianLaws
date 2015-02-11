@@ -35,33 +35,47 @@
 
 - **(1)** The following definitions apply in this Act.
 
-***affected party***, in respect of any provision of this Act, has the meaning assigned by regulation;
+***affected party***, in respect of any provision of this Act, has the meaning assigned by regulation; (*partie touchée*)
 
-***Chief Appeals Officer*** means an individual designated as the Chief Appeals Officer under subsection 47(1);
+***CAS registry number*** means the identification number assigned to a chemical by the Chemical Abstracts Service, a division of the American Chemical Society; (*numéro d’enregistrement CAS*)
 
-***Chief Screening Officer*** means an individual designated as the Chief Screening Officer under subsection 47(1);
+***chemical name*** means a scientific designation of a material or substance that is made in accordance with the rules of nomenclature of either the Chemical Abstracts Service, a division of the American Chemical Society, or the International Union of Pure and Applied Chemistry, or a scientific designation of a material or substance that is internationally recognized and that clearly identifies the material or substance; (*dénomination chimique*)
+
+***Chief Appeals Officer*** means an individual designated as the Chief Appeals Officer under subsection 47(1); (*agent d’appel en chef*)
+
+***Chief Screening Officer*** means an individual designated as the Chief Screening Officer under subsection 47(1); (*agent de contrôle en chef*)
 
 ***Commission***[Repealed, 2012, c. 31, s. 269]
 
-***controlled product*** has the same meaning as in the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md);
+***controlled product***[Repealed, 2014, c. 20, s. 146]
 
-***employer*** has the same meaning as in Part II of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md);
+***employer*** has the same meaning as in Part II of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md); (*employeur*)
 
-***material safety data sheet*** has the same meaning as in the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md);
+***hazardous product*** has the same meaning as in section 2 of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md); (*produit dangereux*)
 
-***Minister*** means the Minister of Health;
+***label*** means a document that contains a label, as defined in section 2 of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md), that meets the requirements set out in the regulations made under subsection 15(1) of that Act; (*étiquette*)
 
-Version anglaise seulement***prescribed*** means prescribed by regulation;
+***material safety data sheet***[Repealed, 2014, c. 20, s. 146]
+
+***Minister*** means the Minister of Health; (*ministre*)
+
+***mixture*** has the same meaning as in section 2 of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md); (*mélange*)
+
+***prescribed*** means prescribed by regulation; (***Version anglaise seulement***)
 
 ***President***[Repealed, 2012, c. 31, s. 269]
 
-***regulation*** means a regulation made pursuant to section 48;
+***regulation*** means a regulation made pursuant to section 48; (*règlement*)
 
 ***rule***[Repealed, 2012, c. 31, s. 269]
 
+***safety data sheet*** has the same meaning as in section 2 of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md); (*fiche de données de sécurité*)
+
 ***screening officer***[Repealed, 2012, c. 31, s. 269]
 
-***supplier*** has the same meaning as in the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md).
+***substance*** has the same meaning as in section 2 of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md); (*substance*)
+
+***supplier*** has the same meaning as in the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md). (*fournisseur*)
 
 **Definition of provisions of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md)**
 
@@ -76,7 +90,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 - **(4)** In this Act, ***provisions of the Accord Act*** means
 	- **(a)** the provisions of Part III.1 of the [Canada–Newfoundland and Labrador Atlantic Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1987/c.%203.md) or the regulations made under that Part, other than the provisions of section 205.023 of that Act or of any regulation made under section 205.124 of that Act for the purposes of section 205.023 of that Act; or
 	- **(b)** the provisions of Part III.1 of the [Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1988/c.%2028.md) or the regulations made under that Part, other than the provisions of section 210.023 of that Act or of any regulation made under section 210.126 of that Act for the purposes of section 210.023 of that Act.
-> R.S., 1985, c. 24 (3rd Supp.), s. 10; 1992, c. 1, s. 145(F); 1996, c. 8, s. 32; 2012, c. 31, ss. 269, 282; 2014, c. 13, s. 105.
+> R.S., 1985, c. 24 (3rd Supp.), s. 10; 1992, c. 1, s. 145(F); 1996, c. 8, s. 32; 2012, c. 31, ss. 269, 282; 2014, c. 13, s. 105, c. 20, s. 146.
 
 
 
@@ -90,19 +104,32 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 **11** 
 
-- **(1)** Any supplier who is required, either directly or indirectly, pursuant to the provisions of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md), to disclose
-	- **(a)** the chemical identity or concentration of any ingredient of a controlled product, or
-	- **(b)** the name of any toxicological study that identifies any ingredient of a controlled product
-may, if the supplier considers such information to be confidential business information, claim an exemption from the requirement to disclose that information by filing with the Chief Screening Officer a claim for exemption in accordance with this section.
+- **(1)** Any supplier who is required, either directly or indirectly, because of the provisions of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md), to disclose any of the following information may, if the supplier considers it to be confidential business information, claim an exemption from the requirement to disclose that information by filing with the Chief Screening Officer a claim for exemption in accordance with this section:
+	- **(a)** in the case of a material or substance that is a hazardous product,
+		- **(i)** the chemical name of the material or substance,
+		- **(ii)** the CAS registry number, or any other unique identifier, of the material or substance, and
+		- **(iii)** the chemical name of any impurity, stabilizing solvent or stabilizing additive that is present in the material or substance, that is classified in a category or subcategory of a health hazard class under the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md) and that contributes to the classification of the material or substance in the health hazard class under that Act;
+	- **(b)** in the case of an ingredient that is in a mixture that is a hazardous product,
+		- **(i)** the chemical name of the ingredient,
+		- **(ii)** the CAS registry number, or any other unique identifier, of the ingredient, and
+		- **(iii)** the concentration or concentration range of the ingredient; and
+	- **(c)** in the case of a material, substance or mixture that is a hazardous product, the name of any toxicological study that identifies the material or substance or any ingredient in the mixture.
 
 **Claim for exemption by employer**
 
-- **(2)** Any employer who is required, either directly or indirectly, under the provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) or the provisions of the Accord Act, as the case may be, to disclose
-	- **(a)** the chemical identity or concentration of any ingredient of a controlled product,
-	- **(b)** the name of any toxicological study that identifies any ingredient of a controlled product,
-	- **(c)** the chemical name, common name, generic name, trade-name or brand name of a controlled product, or
-	- **(d)** information that could be used to identify a supplier of a controlled product
-may, if the employer considers such information to be confidential business information, claim an exemption from the requirement to disclose that information by filing with the Chief Screening Officer a claim for exemption in accordance with this section.
+- **(2)** Any employer who is required, either directly or indirectly, because of the provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) or the provisions of the Accord Act, as the case may be, to disclose any of the following information may, if the employer considers it to be confidential business information, claim an exemption from the requirement to disclose it by filing with the Chief Screening Officer a claim for exemption in accordance with this section:
+	- **(a)** in the case of a material or substance that is a hazardous product,
+		- **(i)** the chemical name of the material or substance,
+		- **(ii)** the CAS registry number, or any other unique identifier, of the material or substance, and
+		- **(iii)** the chemical name of any impurity, stabilizing solvent or stabilizing additive that is present in the material or substance, that is classified in a category or subcategory of a health hazard class under the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md) and that contributes to the classification of the material or substance in the health hazard class under that Act;
+	- **(b)** in the case of an ingredient that is in a mixture that is a hazardous product,
+		- **(i)** the chemical name of the ingredient,
+		- **(ii)** the CAS registry number, or any other unique identifier, of the ingredient, and
+		- **(iii)** the concentration or concentration range of the ingredient;
+	- **(c)** in the case of a material, substance or mixture that is a hazardous product, the name of any toxicological study that identifies the material or substance or any ingredient in the mixture;
+	- **(d)** the product identifier of a hazardous product, being its chemical name, common name, generic name, trade-name or brand name;
+	- **(e)** information about a hazardous product, other than the product identifier, that constitutes a means of identification; and
+	- **(f)** information that could be used to identify a supplier of a hazardous product.
 
 **Manner of filing claim and fee payable**
 
@@ -110,7 +137,7 @@ may, if the employer considers such information to be confidential business info
 
 **Contents of claim**
 
-- **(4)** A claim for exemption shall be accompanied by the material safety data sheet or label to which the claim relates and shall contain
+- **(4)** A claim for exemption shall be accompanied by the safety data sheet or label to which the claim relates and shall contain
 	- **(a)** the information in respect of which the exemption is claimed;
 	- **(b)** a declaration stating that the claimant believes that the information in respect of which the exemption is claimed is confidential business information that meets the criteria prescribed under paragraph 48(1)(a) and that information substantiating the claim — as specified in the regulations — is in the possession of, or is available to, the claimant and will be provided on request;
 	- **(c)** a summary of the information substantiating the claim; and
@@ -119,7 +146,7 @@ may, if the employer considers such information to be confidential business info
 **Restriction**
 
 - **(5)** Where a supplier or an employer files a claim for exemption in accordance with this section and the final disposition of the proceedings in relation to the claim is that the claim or a portion of the claim is not valid, the supplier or employer, as the case may be, is not entitled to file any other claim for exemption in relation to the information in respect of which the claim or portion of the claim was determined to be invalid.
-> R.S., 1985, c. 24 (3rd Supp.), s. 11; 1992, c. 1, s. 144(F); 2001, c. 34, s. 49(F); 2007, c. 7, s. 1; 2012, c. 31, s. 284(F); 2014, c. 13, s. 106.
+> R.S., 1985, c. 24 (3rd Supp.), s. 11; 1992, c. 1, s. 144(F); 2001, c. 34, s. 49(F); 2007, c. 7, s. 1; 2012, c. 31, s. 284(F); 2014, c. 13, s. 106, c. 20, ss. 147, 161.
 
 
 
@@ -129,18 +156,18 @@ may, if the employer considers such information to be confidential business info
 
 **12** 
 
-- **(1)** The Chief Screening Officer shall, on receipt of a claim for exemption and the material safety data sheet or label to which it relates and of payment of the required fee,
+- **(1)** The Chief Screening Officer shall, on receipt of a claim for exemption and the safety data sheet or label to which it relates and of payment of the required fee,
 	- **(a)** cause a notice of the filing of the claim to be published in the Canada Gazette; and
-	- **(b)** assign a screening officer to review the claim and the material safety data sheet or label to which it relates.
+	- **(b)** assign a screening officer to review the claim and the safety data sheet or label to which it relates.
 
 **Notice**
 
-- **(2)** The notice referred to in paragraph (1)(a) shall contain a statement offering every affected party the opportunity to make, within the period specified in the notice, written representations to the screening officer with respect to the claim for exemption and the material safety data sheet or label to which it relates.
+- **(2)** The notice referred to in paragraph (1)(a) shall contain a statement offering every affected party the opportunity to make, within the period specified in the notice, written representations to the screening officer with respect to the claim for exemption and the safety data sheet or label to which it relates.
 
 **Restriction**
 
 - **(3)** The notice referred to in paragraph (1)(a) shall not disclose any information in respect of which the claim for exemption is made.
-> R.S., 1985, c. 24 (3rd Supp.), s. 12; 2001, c. 34, s. 50(F); 2012, c. 31, s. 284(F).
+> R.S., 1985, c. 24 (3rd Supp.), s. 12; 2001, c. 34, s. 50(F); 2012, c. 31, s. 284(F); 2014, c. 20, s. 148.
 
 
 
@@ -150,9 +177,9 @@ may, if the employer considers such information to be confidential business info
 
 **13** 
 
-- **(1)** A screening officer shall review a claim for exemption and the material safety data sheet or label to which it relates in accordance with the prescribed procedures and shall
+- **(1)** A screening officer shall review a claim for exemption and the safety data sheet or label to which it relates in accordance with the prescribed procedures and shall
 	- **(a)** decide whether, having regard to the criteria prescribed pursuant to paragraph 48(1)(a), the claim or any portion of the claim is valid; and
-	- **(b)** decide whether the material safety data sheet or label to which the claim relates, except to the extent that it does not disclose the information in respect of which the claim is made, complies with the provisions of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md), the provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) or the provisions of the Accord Act, as the case may be.
+	- **(b)** decide whether the safety data sheet or label to which the claim relates, except to the extent that it does not disclose the information in respect of which the claim is made, complies with the provisions of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md), the provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) or the provisions of the Accord Act, as the case may be.
 
 **Substantiating information**
 
@@ -162,7 +189,7 @@ may, if the employer considers such information to be confidential business info
 	- **(c)** any other prescribed circumstances.
 
 - **(2)** [Repealed, 2012, c. 31, s. 270]
-> R.S., 1985, c. 24 (3rd Supp.), s. 13; 1996, c. 8, s. 34; 2007, c. 7, s. 2; 2012, c. 31, s. 270; 2014, c. 13, s. 107.
+> R.S., 1985, c. 24 (3rd Supp.), s. 13; 1996, c. 8, s. 34; 2007, c. 7, s. 2; 2012, c. 31, s. 270; 2014, c. 13, s. 107, c. 20, ss. 149, 161.
 
 
 
@@ -177,6 +204,8 @@ may, if the employer considers such information to be confidential business info
 **Claimant shall comply with request**
 
 - **(2)** Every claimant to whom a notice referred to in subsection (1) is sent shall disclose to the screening officer, in the manner and within the period specified in the notice, any information that is requested in the notice and is in the possession of, or is available to, the claimant.
+> R.S., 1985, c. 24 (3rd Supp.), s. 14; 2014, c. 20, s. 150(F).
+
 
 
 
@@ -185,13 +214,15 @@ may, if the employer considers such information to be confidential business info
 
 **15** 
 
-- **(1)** A screening officer shall, as soon as is practicable, render a decision in writing on a claim for exemption and the material safety data sheet or label to which it relates, including reasons for the decision, and shall
+- **(1)** A screening officer shall, as soon as is practicable, render a decision in writing on a claim for exemption and the safety data sheet or label to which it relates, including reasons for the decision, and shall
 	- **(a)** cause a copy of the decision to be given to the claimant; and
-	- **(b)** cause a notice of the decision to be given to each affected party who made written representations to the screening officer with respect to the claim for exemption or the material safety data sheet or label to which it relates.
+	- **(b)** cause a notice of the decision to be given to each affected party who made written representations to the screening officer with respect to the claim for exemption or the safety data sheet or label to which it relates.
 
 **Notice of decision**
 
 - **(2)** The notice referred to in paragraph (1)(b) shall contain sufficient information to indicate the purport of a decision of a screening officer and the reasons therefor but shall not disclose any information in respect of which a claim for exemption is made.
+> R.S., 1985, c. 24 (3rd Supp.), s. 15; 2014, c. 20, s. 151.
+
 
 
 
@@ -223,20 +254,20 @@ may, if the employer considers such information to be confidential business info
 
 **16.1** 
 
-- **(1)** If a screening officer determines under paragraph 13(1)(b) that a material safety data sheet or label to which a claim for exemption relates does not comply with the provisions of the Hazardous Products Act, the provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) or the provisions of the Accord Act, as the case may be, the screening officer may send an undertaking to the claimant setting out the measures that are required to be taken for the purpose of ensuring compliance with those provisions, except to the extent that they would require the claimant to disclose the information in respect of which the claim is made, in the manner and within the period specified in the undertaking.
+- **(1)** If a screening officer determines under paragraph 13(1)(b) that a safety data sheet or label to which a claim for exemption relates does not comply with the provisions of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md), the provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) or the provisions of the Accord Act, as the case may be, the screening officer may send an undertaking to the claimant setting out the measures that are required to be taken for the purpose of ensuring compliance with those provisions, except to the extent that they would require the claimant to disclose the information in respect of which the claim is made, in the manner and within the period specified in the undertaking.
 
 **Agreement by claimant**
 
-- **(2)** If the claimant agrees with the measures set out in the undertaking, the claimant shall sign the undertaking and return it to the screening officer together with the amended material safety data sheet or label.
+- **(2)** If the claimant agrees with the measures set out in the undertaking, the claimant shall sign the undertaking and return it to the screening officer together with the amended safety data sheet or label.
 
 **Notice**
 
-- **(3)** On receipt of the signed undertaking, if the screening officer is satisfied, after reviewing the material safety data sheet or label, that the claimant has taken the measures set out in the undertaking in the manner and within the period specified in it, the screening officer shall send a notice to the claimant confirming their compliance with the undertaking.
+- **(3)** On receipt of the signed undertaking, if the screening officer is satisfied, after reviewing the safety data sheet or label, that the claimant has taken the measures set out in the undertaking in the manner and within the period specified in it, the screening officer shall send a notice to the claimant confirming their compliance with the undertaking.
 
 **Deemed compliance**
 
 - **(4)** A claimant to whom the notice is sent is, for the purposes of the provisions of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md), the provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) or the provisions of the Accord Act, as the case may be, deemed to have complied with those provisions.
-> 2007, c. 7, s. 3; 2014, c. 13, s. 109.
+> 2007, c. 7, s. 3; 2014, c. 13, s. 109, c. 20, ss. 152, 161.
 
 
 
@@ -259,7 +290,7 @@ may, if the employer considers such information to be confidential business info
 **Deemed compliance**
 
 - **(4)** Every claimant who complies with an order under subsection (1) in the manner and within the period specified in the order shall, for the purposes of the provisions of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md), the provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md) or the provisions of the Accord Act, as the case may be, be deemed to have complied with those provisions.
-> R.S., 1985, c. 24 (3rd Supp.), s. 17; 2007, c. 7, s. 4; 2014, c. 13, s. 110.
+> R.S., 1985, c. 24 (3rd Supp.), s. 17; 2007, c. 7, s. 4; 2014, c. 13, s. 110, c. 20, ss. 153(F), 161.
 
 
 
@@ -272,10 +303,10 @@ may, if the employer considers such information to be confidential business info
 - **(1)** The Chief Screening Officer shall cause to be published in the Canada Gazette
 	- **(a)** in respect of each decision made under section 15 and each order made under section 16 or 17
 		- **(i)** a notice containing prescribed information, and
-		- **(ii)** a notice containing any information that, in the opinion of a screening officer, should have been disclosed on any material safety data sheet or label reviewed by the screening officer; and
+		- **(ii)** a notice containing any information that, in the opinion of a screening officer, should have been disclosed on any safety data sheet or label reviewed by the screening officer; and
 	- **(b)** in respect of each undertaking for which a notice has been sent under subsection 16.1(3)
 		- **(i)** a notice containing prescribed information, and
-		- **(ii)** a notice containing any information that has been disclosed on any material safety data sheet or label in compliance with the undertaking.
+		- **(ii)** a notice containing any information that has been disclosed on any safety data sheet or label in compliance with the undertaking.
 
 **Copies**
 
@@ -284,7 +315,7 @@ may, if the employer considers such information to be confidential business info
 **Restriction**
 
 - **(3)** No notice referred to in subsection (1) shall disclose any information in respect of which a claim for exemption has been made.
-> R.S., 1985, c. 24 (3rd Supp.), s. 18; 2007, c. 7, s. 5; 2012, c. 31, s. 284(F).
+> R.S., 1985, c. 24 (3rd Supp.), s. 18; 2007, c. 7, s. 5; 2012, c. 31, s. 284(F); 2014, c. 20, s. 154.
 
 
 
@@ -413,7 +444,7 @@ may, if the employer considers such information to be confidential business info
 **Notice of decision**
 
 - **(2)** The notice referred to in paragraph (1)(b) shall contain sufficient information to indicate the purport of a decision of an appeal board and the reasons therefor but shall not disclose any information in respect of which a claim for exemption was made.
-> R.S., 1985, c. 24 (3rd Supp.), s. 24; 2012, c. 31, s. 272.
+> R.S., 1985, c. 24 (3rd Supp.), s. 24; 2012, c. 31, s. 272; 2014, c. 20, s. 155(F).
 
 
 
@@ -445,6 +476,8 @@ may, if the employer considers such information to be confidential business info
 **Information privileged**
 
 - **(3)** No affected party to whom information is disclosed in confidence pursuant to an order made under subsection (1) shall disclose that information to any other person or allow any other person to have access to that information.
+> R.S., 1985, c. 24 (3rd Supp.), s. 26; 2014, c. 20, s. 156(F).
+
 
 
 
@@ -455,7 +488,7 @@ may, if the employer considers such information to be confidential business info
 
 - **(1)** The Chief Appeals Officer shall cause to be published in the Canada Gazette
 	- **(a)** a notice containing prescribed information on each decision made by an appeal board under section 24; and
-	- **(b)** a notice containing any information that, in the opinion of an appeal board, should have been disclosed on any material safety data sheet or label that was the subject-matter of an appeal to the appeal board.
+	- **(b)** a notice containing any information that, in the opinion of an appeal board, should have been disclosed on any safety data sheet or label that was the subject matter of an appeal to the appeal board.
 
 **Copies**
 
@@ -464,7 +497,7 @@ may, if the employer considers such information to be confidential business info
 **Restriction**
 
 - **(3)** No notice referred to in subsection (1) shall disclose any information in respect of which a claim for exemption has been made.
-> R.S., 1985, c. 24 (3rd Supp.), s. 27; 2012, c. 31, s. 283(F).
+> R.S., 1985, c. 24 (3rd Supp.), s. 27; 2012, c. 31, s. 283(F); 2014, c. 20, s. 157.
 
 
 
@@ -661,7 +694,7 @@ may, if the employer considers such information to be confidential business info
 **Definition of official**
 
 - **(5)** In this section, ***official*** means any person employed in or occupying a position of responsibility in the service of Her Majesty, or any person formerly so employed or formerly occupying such a position.
-> R.S., 1985, c. 24 (3rd Supp.), s. 46; 1992, c. 1, s. 145(F); 1996, c. 8, s. 24, c. 11, s. 60; 2000, c. 20, s. 26; 2005, c. 34, s. 79; 2012, c. 31, s. 278; 2013, c. 40, ss. 201, 237; 2014, c. 13, s. 112.
+> R.S., 1985, c. 24 (3rd Supp.), s. 46; 1992, c. 1, s. 145(F); 1996, c. 8, s. 24, c. 11, s. 60; 2000, c. 20, s. 26; 2005, c. 34, s. 79; 2012, c. 31, s. 278; 2013, c. 40, ss. 201, 237; 2014, c. 13, s. 112, c. 20, s. 158(F).
 
 
 
