@@ -35,13 +35,15 @@
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***agent d’appel en chef*** Individu désigné à ce titre en vertu du paragraphe 47(1).
+***agent d’appel en chef*** Individu désigné à ce titre en vertu du paragraphe 47(1). (*Chief Appeals Officer*)
 
 ***agent de contrôle***[Abrogée, 2012, ch. 31, art. 269]
 
-***agent de contrôle en chef*** Individu désigné à ce titre en vertu du paragraphe 47(1).
+***agent de contrôle en chef*** Individu désigné à ce titre en vertu du paragraphe 47(1). (*Chief Screening Officer*)
 
 ***Conseil***[Abrogée, 2012, ch. 31, art. 269]
+
+***dénomination chimique*** Appellation scientifique d’une matière ou d’une substance conforme aux systèmes de nomenclature du *Chemical Abstracts Service*, division de l’**American Chemical Society**, ou de l’Union internationale de chimie pure et appliquée, ou autre appellation scientifique reconnue à l’échelle internationale qui identifie clairement la matière ou la substance. (*chemical name*)
 
 ***directeur de la Section d’appel***[Abrogée, 2012, ch. 31, art. 269]
 
@@ -49,21 +51,33 @@
 
 ***directeur général***[Abrogée, 2012, ch. 31, art. 269]
 
-***employeur*** S’entend au sens de la partie II du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md).
+***employeur*** S’entend au sens de la partie II du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md). (*employer*)
 
-***fiche signalétique*** S’entend au sens de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md).
+***étiquette*** S’entend d’un document qui contient une étiquette, au sens de l’article 2 de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md), qui est conforme aux exigences des règlements pris en vertu du paragraphe 15(1) de cette loi. (*label*)
 
-***fournisseur*** S’entend au sens de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md).
+***fiche de données de sécurité*** S’entend au sens de l’article 2 de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md). (*safety data sheet*)
 
-***ministre*** Le ministre de la Santé.
+***fiche signalétique***[Abrogée, 2014, ch. 20, art. 146]
 
-***partie touchée*** S’entend au sens des règlements.
+***fournisseur*** S’entend au sens de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md). (*supplier*)
 
-***produit contrôlé*** S’entend au sens de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md).
+***mélange*** S’entend au sens de l’article 2 de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md). (*mixture*)
+
+***ministre*** Le ministre de la Santé. (*Minister*)
+
+***numéro d’enregistrement CAS*** Numéro d’identification attribué à un produit chimique par le Chemical Abstracts Service, division de l’American Chemical Society. (*CAS registry number*)
+
+***partie touchée*** S’entend au sens des règlements. (*affected party*)
+
+***produit contrôlé***[Abrogée, 2014, ch. 20, art. 146]
+
+***produit dangereux*** S’entend au sens de l’article 2 de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md). (*hazardous product*)
 
 ***règle***[Abrogée, 2012, ch. 31, art. 269]
 
-***règlement*** Règlement d’application de l’article 48.
+***règlement*** Règlement d’application de l’article 48. (*regulation*)
+
+***substance*** S’entend au sens de l’article 2 de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md). (*substance*)
 
 **Définition de dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md)**
 
@@ -78,7 +92,7 @@
 - **(4)** Dans la présente loi, on entend par ***dispositions de la loi de mise en oeuvre*** :
 	- **a)** les dispositions de la partie III.1 de la [Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador](/fr/Lois/Lois%20du%20Canada/1987/ch.%203.md) ou les règlements d’application de celle-ci, à l’exclusion de l’article 205.023 ou des règlements pris en vertu de l’article 205.124 pour l’application de l’article 205.023;
 	- **b)** les dispositions de la partie III.1 de la Loi de mise en oeuvre de l’Accord Canada  — Nouvelle-Écosse sur les hydrocarbures extracôtiers ou les règlements d’application de celle-ci, à l’exclusion de l’article 210.023 ou des règlements pris en vertu de l’article 210.126 pour l’application de l’article 210.023.
-> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 10; 1992, ch. 1, art. 145(F); 1996, ch. 8, art. 32; 2012, ch. 31, art. 269 et 282; 2014, ch. 13, art. 105.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 10; 1992, ch. 1, art. 145(F); 1996, ch. 8, art. 32; 2012, ch. 31, art. 269 et 282; 2014, ch. 13, art. 105, ch. 20, art. 146.
 
 
 
@@ -92,17 +106,32 @@
 
 **11** 
 
-- **(1)** Le fournisseur qui est tenu, directement ou indirectement, en application de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md), de divulguer les renseignements énumérés ci-après peut, s’il estime que ces renseignements sont confidentiels, présenter à l'agent de contrôle en chef, conformément au présent article, une demande de dérogation à l’obligation de divulguer :
-	- **a)** soit la dénomination chimique ou la concentration d’un ingrédient d’un produit contrôlé;
-	- **b)** soit le titre d’une étude toxicologique qui identifie un ingrédient d’un produit contrôlé.
+- **(1)** Le fournisseur qui est tenu, directement ou indirectement, par l’effet des dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md), de communiquer les renseignements énumérés ci-après peut, s’il estime que ces renseignements sont confidentiels, présenter à l’agent de contrôle en chef, conformément au présent article, une demande de dérogation à l’obligation de communiquer :
+	- **a)** s’agissant d’une matière ou substance qui est un produit dangereux :
+		- **(i)** sa dénomination chimique,
+		- **(ii)** son numéro d’enregistrement CAS ou tout autre identificateur unique,
+		- **(iii)** la dénomination chimique de toute impureté, de tout solvant de stabilisation ou de tout additif de stabilisation se trouvant dans la matière ou la substance qui est classé dans une catégorie ou une sous-catégorie d’une classe de danger pour la santé, en application de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md), et qui contribue à la classification de la matière ou de la substance dans la classe de danger pour la santé, en application de cette loi;
+	- **b)** s’agissant d’un ingrédient d’un mélange qui est un produit dangereux :
+		- **(i)** sa dénomination chimique,
+		- **(ii)** son numéro d’enregistrement CAS ou tout autre identificateur unique,
+		- **(iii)** sa concentration ou sa plage de concentration;
+	- **c)** s’agissant d’une matière, d’une substance ou d’un mélange qui est un produit dangereux, le titre d’une étude toxicologique qui identifie la matière, la substance ou un ingrédient du mélange.
 
-**Demande de dérogation  — employeur**
+**Demande de dérogation — employeur**
 
-- **(2)** L’employeur qui est tenu, directement ou indirectement, en application des dispositions du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) ou de la loi de mise en oeuvre, selon le cas, de divulguer les renseignements énumérés ci-après peut, s’il estime que ces renseignements sont confidentiels, présenter à l’agent de contrôle en chef, conformément au présent article, une demande de dérogation à l’obligation de divulguer :
-	- **a)** soit la dénomination chimique ou la concentration d’un ingrédient d’un produit contrôlé;
-	- **b)** soit le titre d’une étude toxicologique qui identifie un ingrédient d’un produit contrôlé;
-	- **c)** soit l’appellation chimique, courante, commerciale ou générique, ou la marque d’un produit contrôlé;
-	- **d)** soit les renseignements qui pourraient servir à identifier le fournisseur d’un produit contrôlé.
+- **(2)** L’employeur qui est tenu, directement ou indirectement, par l’effet des dispositions du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) ou de la loi de mise en oeuvre, selon le cas, de communiquer l’un ou l’autre des renseignements énumérés ci-après peut, s’il estime que ces renseignements sont confidentiels, présenter à l’agent de contrôle en chef, conformément au présent article, une demande de dérogation à l’obligation de communiquer :
+	- **a)** s’agissant d’une matière ou substance qui est un produit dangereux :
+		- **(i)** sa dénomination chimique,
+		- **(ii)** son numéro d’enregistrement CAS ou tout autre identificateur unique,
+		- **(iii)** la dénomination chimique de toute impureté, de tout solvant de stabilisation ou de tout additif de stabilisation se trouvant dans la matière ou la substance qui est classé dans une catégorie ou une sous-catégorie d’une classe de danger pour la santé, en application de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md), et qui contribue à la classification de la matière ou de la substance dans la classe de danger pour la santé, en application de cette loi;
+	- **b)** s’agissant d’un ingrédient d’un mélange qui est un produit dangereux :
+		- **(i)** sa dénomination chimique,
+		- **(ii)** son numéro d’enregistrement CAS ou tout autre identificateur unique,
+		- **(iii)** sa concentration ou sa plage de concentration;
+	- **c)** s’agissant d’une matière, d’une substance ou d’un mélange qui est un produit dangereux, le titre d’une étude toxicologique qui identifie la matière, la substance ou un ingrédient du mélange;
+	- **d)** l’identificateur du produit dangereux, à savoir sa marque, sa dénomination chimique ou son appellation courante, commerciale ou générique;
+	- **e)** les renseignements sur le produit dangereux, autres que son identificateur, qui constituent des moyens d’identification;
+	- **f)** les renseignements qui pourraient servir à identifier le fournisseur d’un produit dangereux.
 
 **Modalités de la demande**
 
@@ -110,7 +139,7 @@
 
 **Contenu de la demande**
 
-- **(4)** La demande de dérogation est accompagnée de la fiche signalétique ou de l’étiquette en cause et contient :
+- **(4)** La demande de dérogation est accompagnée de la fiche de données de sécurité ou de l’étiquette en cause et contient :
 	- **a)** les renseignements à l’égard desquels elle est présentée;
 	- **b)** une déclaration du demandeur indiquant qu’il croit que les renseignements à l’égard desquels elle est présentée sont des renseignements confidentiels satisfaisant aux critères réglementaires établis en application de l’alinéa 48(1)a) et qu’il a à sa disposition les renseignements réglementaires pour la justifier qu’il fournira sur demande;
 	- **c)** un sommaire des renseignements la justifiant;
@@ -119,28 +148,28 @@
 **Limitation**
 
 - **(5)** Le fournisseur ou l’employeur auteur d’une demande de dérogation conformément au présent article qui est définitivement jugée non fondée en tout ou en partie n’a pas le droit de présenter une autre demande de dérogation à l’égard des renseignements pour lesquels le tout ou la partie de la demande a été jugée non fondée.
-> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 11; 1992, ch. 1, art. 144(F); 2001, ch. 34, art. 49(F); 2007, ch. 7, art. 1; 2012, ch. 31, art. 284(F); 2014, ch. 13, art. 106.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 11; 1992, ch. 1, art. 144(F); 2001, ch. 34, art. 49(F); 2007, ch. 7, art. 1; 2012, ch. 31, art. 284(F); 2014, ch. 13, art. 106, ch. 20, art. 147 et 161.
 
 
 
 
 
-**Fonctions de l'agent de contrôle en chef**
+**Fonctions du directeur de la Section de contrôle**
 
 **12** 
 
-- **(1)** Sur réception d’une demande de dérogation et de la fiche signalétique ou de l’étiquette en cause ainsi que du paiement du droit exigible, l'agent de contrôle en chef :
+- **(1)** Sur réception d’une demande de dérogation et de la fiche de données de sécurité ou de l’étiquette en cause ainsi que du paiement du droit exigible, l’agent de contrôle en chef :
 	- **a)** fait publier dans la Gazette du Canada un avis de la demande;
-	- **b)** charge un agent de contrôle d’étudier la demande et la fiche signalétique ou l’étiquette en cause.
+	- **b)** charge un agent de contrôle d’étudier la demande et la fiche de données de sécurité ou l’étiquette en cause.
 
 **Avis**
 
-- **(2)** L’avis visé à l’alinéa (1)a) contient une offre faite à toute partie touchée de présenter auprès de l’agent de contrôle des observations par écrit sur la demande de dérogation et la fiche signalétique ou l’étiquette en cause dans le délai qui est spécifié dans l’avis.
+- **(2)** L’avis visé à l’alinéa (1)a) contient une offre faite à toute partie touchée de présenter auprès de l’agent de contrôle des observations par écrit sur la demande de dérogation et la fiche de données de sécurité ou l’étiquette en cause dans le délai qui est spécifié dans l’avis.
 
 **Limitation**
 
-- **(3)** L’avis visé à l’alinéa (1)a) ne peut divulguer les renseignements faisant l’objet de la demande.
-> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 12; 2001, ch. 34, art. 50(F); 2012, ch. 31, art. 284(F).
+- **(3)** L’avis visé à l’alinéa (1)a) ne peut fournir de renseignements faisant l’objet de la demande.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 12; 2001, ch. 34, art. 50(F); 2012, ch. 31, art. 284(F); 2014, ch. 20, art. 148.
 
 
 
@@ -150,9 +179,9 @@
 
 **13** 
 
-- **(1)** L’agent de contrôle étudie la demande de dérogation et la fiche signalétique ou l’étiquette en cause conformément aux modalités réglementaires et :
+- **(1)** L’agent de contrôle étudie la demande de dérogation et la fiche de données de sécurité ou l’étiquette en cause conformément aux modalités réglementaires et :
 	- **a)** décide si, sur la base des critères réglementaires établis en application de l’alinéa 48(1)a), la demande est fondée en tout ou en partie;
-	- **b)** décide si la fiche signalétique ou l’étiquette visée par la demande est conforme, sauf dans la mesure où elle ne divulgue pas les renseignements visés par la demande, aux exigences des dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md), du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) ou de la loi de mise en oeuvre, selon le cas.
+	- **b)** décide si la fiche de données de sécurité ou l’étiquette visée par la demande est conforme, sauf dans la mesure où elle ne fournit pas de renseignements visés par la demande, aux exigences des dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md), du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) ou de la loi de mise en oeuvre, selon le cas.
 
 **Renseignements justificatifs**
 
@@ -162,7 +191,7 @@
 	- **c)** en toute autre circonstance prévue par règlement.
 
 - **(2)** [Abrogé, 2012, ch. 31, art. 270]
-> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 13; 1996, ch. 8, art. 34; 2007, ch. 7, art. 2; 2012, ch. 31, art. 270; 2014, ch. 13, art. 107.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 13; 1996, ch. 8, art. 34; 2007, ch. 7, art. 2; 2012, ch. 31, art. 270; 2014, ch. 13, art. 107, ch. 20, art. 149 et 161.
 
 
 
@@ -176,7 +205,9 @@
 
 **Obligation du demandeur**
 
-- **(2)** Le destinataire de l’avis visé au paragraphe (1) divulgue à l’agent de contrôle, selon les modalités de forme et de temps qui y sont indiquées, les renseignements, exigés par l’avis, qu’il a à sa disposition.
+- **(2)** Le destinataire de l’avis visé au paragraphe (1) communique à l’agent de contrôle, selon les modalités de forme et de temps qui y sont indiquées, les renseignements, exigés par l’avis, qu’il a à sa disposition.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 14; 2014, ch. 20, art. 150(F).
+
 
 
 
@@ -185,13 +216,15 @@
 
 **15** 
 
-- **(1)** L’agent de contrôle rend, aussitôt que possible, une décision motivée par écrit sur la demande de dérogation et la fiche signalétique ou l’étiquette en cause et :
+- **(1)** L’agent de contrôle rend, aussitôt que possible, une décision motivée par écrit sur la demande de dérogation et la fiche de données de sécurité ou l’étiquette en cause et :
 	- **a)** fait remettre un exemplaire de la décision au demandeur;
-	- **b)** fait donner un avis de la décision à chaque partie touchée qui a présenté à l’agent des observations par écrit concernant la demande et la fiche signalétique ou l’étiquette en cause.
+	- **b)** fait donner un avis de la décision à chaque partie touchée qui a présenté à l’agent des observations par écrit concernant la demande et la fiche de données de sécurité ou l’étiquette en cause.
 
 **Notification de la décision**
 
-- **(2)** L’avis prévu à l’alinéa (1)b) doit contenir les renseignements nécessaires pour indiquer le sens de la décision de l’agent de contrôle et la motivation de celle-ci, sans toutefois divulguer de renseignements faisant l’objet de la demande.
+- **(2)** L’avis prévu à l’alinéa (1)b) doit contenir les renseignements nécessaires pour indiquer le sens de la décision de l’agent de contrôle et la motivation de celle-ci, sans toutefois fournir de renseignements faisant l’objet de la demande.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 15; 2014, ch. 20, art. 151.
+
 
 
 
@@ -223,20 +256,20 @@
 
 **16.1** 
 
-- **(1)** S’il juge, en vertu de l’alinéa 13(1)b), que la fiche signalétique ou l’étiquette visée par la demande de dérogation n’est pas conforme aux dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md), du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) ou de la loi de mise en oeuvre, selon le cas, l’agent de contrôle peut faire parvenir au demandeur un engagement énonçant les mesures à prendre pour assurer l’observation de ces dispositions — sauf dans la mesure où celles-ci obligeraient le demandeur à divulguer les renseignements visés par la demande — selon les modalités de forme et de temps précisées par l’engagement.
+- **(1)** S’il juge, en vertu de l’alinéa 13(1)b), que la fiche de données de sécurité ou l’étiquette visée par la demande de dérogation n’est pas conforme aux dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md), du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) ou de la loi de mise en oeuvre, selon le cas, l’agent de contrôle peut faire parvenir au demandeur un engagement énonçant les mesures à prendre pour veiller au respect de ces dispositions  —  sauf dans la mesure où celles-ci obligeraient le demandeur à communiquer les renseignements visés par la demande  —  selon les modalités de forme et de temps précisées par l’engagement.
 
 **Accord du demandeur**
 
-- **(2)** Si le demandeur est d’accord avec les mesures proposées, il signe l’engagement et le renvoie à l’agent de contrôle avec la fiche signalétique ou l’étiquette modifiée.
+- **(2)** Si le demandeur est d’accord avec les mesures proposées, il signe l’engagement et le renvoie à l’agent de contrôle avec la fiche de données de sécurité ou l’étiquette modifiée.
 
 **Avis**
 
-- **(3)** Sur réception de l’engagement signé par le demandeur et s’il est convaincu, après avoir étudié la fiche signalétique ou l’étiquette, que celui-ci a respecté l’engagement, l’agent de contrôle fait parvenir au demandeur un avis confirmant l’exécution de l’engagement.
+- **(3)** Sur réception de l’engagement signé par le demandeur et s’il est convaincu, après avoir étudié la fiche de données de sécurité ou l’étiquette, que celui-ci a respecté l’engagement, l’agent de contrôle fait parvenir au demandeur un avis confirmant l’exécution de l’engagement.
 
 **Effet de l’avis**
 
 - **(4)** Le demandeur à qui est envoyé l’avis est réputé, pour l’application des dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md), du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) ou de la loi de mise en oeuvre, selon le cas, s’être conformé à ces dispositions.
-> 2007, ch. 7, art. 3; 2014, ch. 13, art. 109.
+> 2007, ch. 7, art. 3; 2014, ch. 13, art. 109, ch. 20, art. 152 et 161.
 
 
 
@@ -246,7 +279,7 @@
 
 **17** 
 
-- **(1)** S’il ne reçoit pas l’engagement signé ou n’est pas convaincu que le demandeur l’a respecté, l’agent de contrôle lui ordonne de se conformer aux dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md), du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) ou de la loi de mise en oeuvre, selon le cas, sauf dans la mesure où elles obligeraient le demandeur à divulguer les renseignements visés par la demande, selon les modalités de forme et de temps précisées par l’ordre.
+- **(1)** S’il ne reçoit pas l’engagement signé ou n’est pas convaincu que le demandeur l’a respecté, l’agent de contrôle lui ordonne de se conformer aux dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md), du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) ou de la loi de mise en oeuvre, selon le cas, sauf dans la mesure où elles obligeraient le demandeur à communiquer les renseignements visés par la demande, selon les modalités de forme et de temps précisées par l’ordre.
 
 **Absence de rétrospectivité**
 
@@ -259,7 +292,7 @@
 **Observation présumée**
 
 - **(4)** Le demandeur qui se conforme à l’ordre donné en vertu du paragraphe (1), selon ses modalités, est réputé, pour l’application des dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md), du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) ou de la loi de mise en oeuvre, selon le cas, s’être conformé à ces dispositions.
-> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 17; 2007, ch. 7, art. 4; 2014, ch. 13, art. 110.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 17; 2007, ch. 7, art. 4; 2014, ch. 13, art. 110, ch. 20, art. 153(F) et 161.
 
 
 
@@ -269,22 +302,22 @@
 
 **18** 
 
-- **(1)** L'agent de contrôle en chef fait publier dans la Gazette du Canada :
+- **(1)** L’agent de contrôle en chef fait publier dans la Gazette du Canada :
 	- **a)** pour chaque décision rendue en vertu de l’article 15 et chaque ordre donné en vertu des articles 16 ou 17 :
 		- **(i)** un avis contenant les renseignements réglementaires,
-		- **(ii)** un avis contenant les renseignements qui, de l’avis de l’agent de contrôle, auraient dû être divulgués sur la fiche signalétique ou l’étiquette qui lui a été soumise;
+		- **(ii)** un avis contenant les renseignements qui, de l’avis de l’agent de contrôle, auraient dû être communiqués sur la fiche de données de sécurité ou l’étiquette qui lui a été soumise;
 	- **b)** pour chaque engagement à l’égard duquel un avis a été envoyé en vertu du paragraphe 16.1(3) :
 		- **(i)** un avis contenant les renseignements réglementaires,
-		- **(ii)** un avis contenant les renseignements qui ont été divulgués sur la fiche signalétique ou l’étiquette en exécution de l’engagement.
+		- **(ii)** un avis contenant les renseignements qui ont été communiqués sur la fiche de données de sécurité ou l’étiquette en exécution de l’engagement.
 
 **Exemplaires**
 
-- **(2)** L'agent de contrôle en chef met des exemplaires de tout avis publié en vertu du paragraphe (1) à la disposition de quiconque en fait la demande par écrit.
+- **(2)** L’agent de contrôle en chef met des exemplaires de tout avis publié en vertu du paragraphe (1) à la disposition de quiconque en fait la demande par écrit.
 
 **Limitation**
 
-- **(3)** L’avis prévu au paragraphe (1) ne peut divulguer des renseignements faisant l’objet d’une demande de dérogation.
-> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 18; 2007, ch. 7, art. 5; 2012, ch. 31, art. 284(F).
+- **(3)** L’avis prévu au paragraphe (1) ne peut contenir de renseignements faisant l’objet d’une demande de dérogation.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 18; 2007, ch. 7, art. 5; 2012, ch. 31, art. 284(F); 2014, ch. 20, art. 154.
 
 
 
@@ -406,14 +439,14 @@
 
 **24** 
 
-- **(1)** La commission d’appel rend, aussitôt que possible, une décision motivée par écrit et :
+- **(1)** La commission d’appel rend, aussitôt que possible, une décision motivée par écrit et :
 	- **a)** en fait remettre un exemplaire au demandeur et au ministre;
 	- **b)** fait donner un avis de la décision à chaque partie touchée qui a fait des représentations en l’instance.
 
 **Notification de la décision**
 
-- **(2)** L’avis visé à l’alinéa (1)b) doit contenir les renseignements nécessaires pour indiquer le sens de la décision de la commission d’appel et la motivation de celle-ci, sans toutefois divulguer de renseignements faisant l’objet de la demande de dérogation.
-> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 24; 2012, ch. 31, art. 272.
+- **(2)** L’avis visé à l’alinéa (1)b) doit contenir les renseignements nécessaires pour indiquer le sens de la décision de la commission d’appel et la motivation de celle-ci, sans toutefois fournir de renseignements faisant l’objet de la demande de dérogation.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 24; 2012, ch. 31, art. 272; 2014, ch. 20, art. 155(F).
 
 
 
@@ -432,19 +465,21 @@
 
 
 
-**Ordre de divulgation**
+**Ordre de communication**
 
 **26** 
 
-- **(1)** La commission d’appel peut ordonner au demandeur de divulguer à une partie touchée, ou à telle partie comprise dans une catégorie de parties touchées désignée par l’ordre, des renseignements qui font l’objet d’un appel d’une décision portant sur une demande de dérogation, si elle estime que, pour des raisons de santé et de sécurité, ces renseignements devraient être divulgués.
+- **(1)** La commission d’appel peut ordonner au demandeur de communiquer à une partie touchée, ou à telle partie comprise dans une catégorie de parties touchées désignée par l’ordre, des renseignements qui font l’objet d’un appel d’une décision portant sur une demande de dérogation, si elle estime que, pour des raisons de santé et de sécurité, ces renseignements devraient être communiqués.
 
 **Observation de l’ordre**
 
-- **(2)** Le demandeur visé par un ordre de divulgation s’y conforme selon les modalités de forme et de temps qui y sont spécifiées.
+- **(2)** Le demandeur visé par un ordre de communication s’y conforme selon les modalités de forme et de temps qui y sont spécifiées.
 
 **Renseignements protégés**
 
-- **(3)** Il est interdit à la partie touchée à qui des renseignements sont divulgués en application du paragraphe (1) de les divulguer à une autre personne ou de permettre à une autre personne d’y avoir accès.
+- **(3)** Il est interdit à la partie touchée à qui des renseignements sont communiqués en application du paragraphe (1) de les communiquer à une autre personne ou de permettre à une autre personne d’y avoir accès.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 26; 2014, ch. 20, art. 156(F).
+
 
 
 
@@ -453,18 +488,18 @@
 
 **27** 
 
-- **(1)** L'agent d’appel en chef fait publier dans la Gazette du Canada :
+- **(1)** L’agent d’appel en chef fait publier dans la Gazette du Canada :
 	- **a)** un avis contenant les renseignements réglementaires concernant chaque décision rendue par une commission d’appel en vertu de l’article 24;
-	- **b)** un avis contenant les renseignements qui, de l’avis de la commission d’appel, auraient dû être divulgués sur une fiche signalétique ou une étiquette qui faisait l’objet d’un appel.
+	- **b)** un avis contenant les renseignements qui, de l’avis de la commission d’appel, auraient dû être communiqués sur une fiche de données de sécurité ou une étiquette qui faisait l’objet d’un appel.
 
 **Exemplaires**
 
-- **(2)** L'agent d’appel en chef met des exemplaires d’un avis publié dans la Gazette du Canada en vertu des alinéas (1)a) ou b) à la disposition de quiconque en fait la demande par écrit.
+- **(2)** L’agent d’appel en chef met des exemplaires d’un avis publié dans la Gazette du Canada en vertu des alinéas (1)a) ou b) à la disposition de quiconque en fait la demande par écrit.
 
 **Limitation**
 
-- **(3)** L’avis prévu au paragraphe (1) ne peut divulguer de renseignements faisant l’objet d’une demande de dérogation.
-> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 27; 2012, ch. 31, art. 283(F).
+- **(3)** L’avis prévu au paragraphe (1) ne peut contenir de renseignements faisant l’objet d’une demande de dérogation.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 27; 2012, ch. 31, art. 283(F); 2014, ch. 20, art. 157.
 
 
 
@@ -647,21 +682,21 @@
 	- **b)** [Abrogé, 1996, ch. 8, art. 24]
 	- **c)** un fonctionnaire du ministère de l’Emploi et du Développement social, tout agent d’appel au sens du paragraphe 122(1) du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) ou toute personne à qui le ministre du Travail a délégué des attributions en vertu du paragraphe 140(1) de cette loi ou d’un accord conclu en vertu du paragraphe 140(2) de cette loi, pour l’exécution et le contrôle d’application de la partie II de cette loi;
 	- **c.1)** un agent de santé et de sécurité, au sens du paragraphe 205.001(1) de la Loi de mise en oeuvre de l’Accord atlantique Canada  — Terre-Neuve-et-Labrador, pour l’exécution et le contrôle d’application de la partie III.1 de cette loi ou un agent de santé et de sécurité, au sens du paragraphe 210.001(1) de la Loi de mise en oeuvre de l’Accord Canada  — Nouvelle-Écosse sur les hydrocarbures extracôtiers, pour l’exécution et le contrôle d’application de la partie III.1 de cette loi;
-	- **d)** un fonctionnaire du ministère des Transports pour rendre les renseignements accessibles, en cas d'urgence médicale, par l'intermédiaire du Centre canadien d'urgence transport de ce ministère (CANUTEC);
+	- **d)** un fonctionnaire du ministère des Transports pour rendre les renseignements accessibles, en cas d’urgence médicale, par l’intermédiaire du Centre canadien d’urgence transport de ce ministère (CANUTEC);
 	- **e)** un fonctionnaire du gouvernement d’une province pour l’exécution et le contrôle d’application de toute loi de la province en matière de santé et de sécurité professionnelles dans les cas où le droit de la province comporte des dispositions semblables en matière de protection de la confidentialité des renseignements obtenus par cette communication, cet examen ou cet accès.
 
 **Autres exceptions**
 
-- **(3)** Quiconque a obtenu des renseignements d’un fournisseur ou d’un employeur pour l’application de la présente loi peut soit les communiquer ou les divulguer, soit les faire communiquer ou divulguer à un médecin, ou à tout autre professionnel de la santé désigné par règlement, qui en fait la demande afin de poser un diagnostic médical à l’égard d’une personne qui se trouve en situation d’urgence ou afin de traiter celle-ci.
+- **(3)** Quiconque a obtenu des renseignements d’un fournisseur ou d’un employeur pour l’application de la présente loi peut les communiquer ou les faire communiquer à un médecin, ou à tout autre professionnel de la santé désigné par règlement, qui en fait la demande afin de poser un diagnostic médical à l’égard d’une personne qui se trouve en situation d’urgence ou afin de traiter celle-ci.
 
 **Conditions**
 
-- **(4)** Il est interdit à quiconque obtient des renseignements en application des paragraphes (2) ou (3) de les divulguer sciemment à quiconque ou de permettre sciemment à quiconque d’y avoir accès, sauf dans la mesure nécessaire aux fins visées à ce paragraphe.
+- **(4)** Il est interdit à quiconque obtient des renseignements en application des paragraphes (2) ou (3) de les communiquer sciemment à quiconque ou de permettre sciemment à quiconque d’y avoir accès, sauf dans la mesure nécessaire aux fins visées à ce paragraphe.
 
 **Définition de fonctionnaire**
 
 - **(5)** Dans le présent article, ***fonctionnaire*** s’entend d’une personne qui est ou était à l’emploi de Sa Majesté ou qui occupe ou occupait un poste responsable pour le compte de celle-ci.
-> L.R. (1985), ch. 24 (3<sup>e </sup>e suppl.), art. 46; 1992, ch. 1, art. 145(F); 1996, ch. 8, art. 24, ch. 11, art. 60; 2000, ch. 20, art. 26; 2005, ch. 34, art. 79; 2012, ch. 31, art. 278; 2013, ch. 40, art. 201 et 237; 2014, ch. 13, art. 112.
+> L.R. (1985), ch. 24 (3<sup>e</sup>suppl.), art. 46; 1992, ch. 1, art. 145(F); 1996, ch. 8, art. 24, ch. 11, art. 60; 2000, ch. 20, art. 26; 2005, ch. 34, art. 79; 2012, ch. 31, art. 278; 2013, ch. 40, art. 201 et 237; 2014, ch. 13, art. 112, ch. 20, art. 158(F).
 
 
 
