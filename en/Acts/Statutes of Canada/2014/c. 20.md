@@ -921,7 +921,7 @@ where
 
 <sup><a href='#fn_IndB40C_hq_14272'>[*]</a></sup>**162** The provisions of this Division, other than sections 160 and 161, come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_IndB40C_hq_14272'><sup>*</sup></a>: [Note: Division 3, other than sections 160 and 161, not in force.]<br />
+<a name='fn_IndB40C_hq_14272'><sup>*</sup></a>: [Note: Sections 110 to 138 and 146 to 159 in force February 11, 2015, *see* SI/2015-5; sections 139 to 145 in force February 11, 2015, *see* SI/2015-6.]<br />
 
 
 
