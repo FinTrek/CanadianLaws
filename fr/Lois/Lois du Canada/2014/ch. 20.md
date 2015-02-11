@@ -921,7 +921,7 @@ où :
 
 <sup><a href='#fn_Ind71D9_hq_14254'>[*]</a></sup>**162** Les dispositions de la présente section, à l’exception des articles 160 et 161, entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind71D9_hq_14254'><sup>*</sup></a>: [Note : Section 3, à l’exception des articles 160 et 161, non en vigueur.]<br />
+<a name='fn_Ind71D9_hq_14254'><sup>*</sup></a>: [Note : Articles 110 à 138 et 146 à 159 en vigueur le 11 février 2015, *voir* TR/2015-5; articles 139 à 145 en vigueur le 11 février 2015, *voir* TR/2015-6.]<br />
 
 
 
