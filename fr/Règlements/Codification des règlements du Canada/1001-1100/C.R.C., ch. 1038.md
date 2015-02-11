@@ -28,7 +28,7 @@ Autorités habilitantes :
 
 ***AATCC*** L’*American Association of Textile Chemists and Colorists*. (*AATCC*)
 
-***affichage*** Indicateur, témoin ou sortie alphanumérique, ou ensemble d’indicateurs, de témoins et de sorties alphanumériques, sur le tableau de bord d’un véhicule. (*display*)
+***affichage*** Sauf à l’article 101 de l’annexe IV, s’entend d’un indicateur, d’un témoin ou d’une sortie alphanumérique, ou d’un ensemble d’indicateurs, de témoins et de sorties alphanumériques, sur le tableau de bord d’un véhicule. (*display*)
 
 ***ampoule***[Abrogée, DORS/2007-180, art. 1]
 
@@ -36,7 +36,7 @@ Autorités habilitantes :
 
 ***ancrage d’attache prêt à utiliser*** Dispositif qui transmet à la structure du véhicule ou à la structure d’un siège du véhicule les forces exercées sur la courroie d’attache par un ensemble de retenue ou un siège d’appoint et par l’occupant de l’un ou de l’autre et qui est conçu pour recevoir directement le crochet de la courroie d’attache sans nécessiter l’installation d’aucun autre dispositif. (*user-ready tether anchorage*)
 
-***ancrage de ceinture de sécurité*** S’entend de toute pièce d’un véhicule — à l’exception d’une courroie ou d’une sangle — , notamment de toute pièce de fixation, du bâti et du socle des sièges, de la structure du véhicule et de tout élément du véhicule, qui sert à transmettre à la structure du véhicule les forces exercées sur une ceinture de sécurité et de tout élément du véhicule qui, s’il se rompt, cause la séparation de la ceinture de sécurité de la structure du véhicule. (*seat belt anchorage*)
+***ancrage de ceinture de sécurité*** S’entend de toute pièce d’un véhicule — à l’exception d’une courroie ou d’une sangle —, notamment de toute pièce de fixation, du bâti et du socle des sièges, de la structure du véhicule et de tout élément du véhicule, qui sert à transmettre à la structure du véhicule les forces exercées sur une ceinture de sécurité et de tout élément du véhicule qui, s’il se rompt, cause la séparation de la ceinture de sécurité de la structure du véhicule. (*seat belt anchorage*)
 
 ***ancrage du siège*** Toute pièce qui transmet à la structure du véhicule les forces exercées sur le siège du véhicule. (*seat anchorage*)
 
@@ -66,7 +66,9 @@ Autorités habilitantes :
 
 ***autobus*** Véhicule ayant un nombre désigné de places assises supérieur à 10. Sont exclus de la présente définition les remorques et les véhicules importés temporairement à des fins spéciales. (*bus*)
 
-***autobus scolaire*** Autobus conçu ou équipé principalement pour le transport des élèves pour aller à l’école et en revenir. (*school bus*)
+***autobus multifonction pour les activités scolaires*** Autobus scolaire qui est conçu pour faire monter et déposer des élèves dans des circonstances où le contrôle de la circulation n’est pas nécessaire. (*multifunction school activity bus*)
+
+***autobus scolaire*** Autobus conçu ou équipé principalement pour le transport des élèves pour aller à l’école ou à des événements liés à celle-ci et en revenir. (*school bus*)
 
 ***autocaravane*** Véhicule de tourisme à usages multiples conçu pour servir de local d’habitation temporaire comme en témoigne la présence d’au moins quatre des éléments suivants :
 - **a)** une installation qui permet de faire la cuisine;
@@ -762,7 +764,7 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 ***95<sup>e</sup> percentile adulte du sexe masculin*** Personne ayant pour caractéristiques physiques une masse de 97,5 kg, une taille de 1 849 mm, une hauteur en position assise droite de 965 mm, une hauteur en position assise normale de 930 mm, une largeur de hanches en position assise de 419 mm, un tour de hanches en position assise de 1 199 mm, un tour de ceinture en position assise de 1 080 mm, une profondeur de poitrine de 267 mm, un tour de poitrine de 1 130 mm, une hauteur de genoux de 594 mm, une hauteur de jarret de 490 mm, une hauteur de coude en position assise de 295 mm, une épaisseur de cuisses de 175 mm, une distance fesse-genou de 640 mm, une distance fesse-jarret de 549 mm, un écart entre les coudes de 506 mm et une largeur de siège de 404 mm. (*95th percentile adult male*)
 
 - **(2)** [Abrogé, DORS/2009-318, art. 1]
-> DORS/78-257, art. 1; DORS/78-351, art. 1; DORS/78-525, art. 1; DORS/79-306, art. 1; DORS/79-339, art. 1; DORS/79-340, art. 1; DORS/79-374, art. 1; DORS/79-677, art. 1; DORS/79-719, art. 1; DORS/79-940, art. 1; DORS/80-161, art. 1; DORS/80-282, art. 1; DORS/80-439, art. 1; DORS/80-440, art. 1; DORS/80-636, art. 1; DORS/80-638, art. 1; DORS/80-782, art. 1; DORS/81-88, art. 1; DORS/81-1033, art. 1; DORS/82-569, art. 1; DORS/82-656, art. 1; DORS/82-753, art. 1; DORS/82-754, art. 1; DORS/83-176, art. 1; DORS/83-859, art. 1; DORS/84-374, art. 1; DORS/84-812, art. 1; DORS/86-161, art. 1; DORS/86-683, art. 1; DORS/86-976, art. 1; DORS/86-977, art. 1; DORS/87-154, art. 1; DORS/87-497, art. 1; DORS/87-578, art. 1; DORS/87-660, art. 1; DORS/88-268, art. 1; DORS/89-384, art. 1; DORS/90-588, art. 1; DORS/90-805, art. 1; DORS/91-425, art. 1; DORS/91-692, art. 1; DORS/92-173, art. 1; DORS/92-250, art. 1; DORS/92-545, art. 1; DORS/93-5, art. 1; DORS/93-31, art. 1; DORS/93-146, art. 1; DORS/93-561, art. 1; DORS/94-291, art. 1; DORS/94-669, art. 1; DORS/94-670, art. 2(F); DORS/94-692, art. 2(F); DORS/94-717, art. 1; DORS/95-147, art. 1; DORS/95-164, art. 1; DORS/95-536, art. 7; DORS/96-366, art. 1; DORS/97-141, art. 1; DORS/97-200, art. 1; DORS/97-201, art. 1; DORS/97-421, art. 1, 17 et 22(F); DORS/97-447, art. 1; DORS/98-125, art. 1; DORS/98-160, art. 1; DORS/98-457, art. 1; DORS/98-524, art. 1(F); DORS/99-357, art. 1; DORS/2000-182, art. 1; DORS/2000-304, art. 1; DORS/2001-35, art. 1; DORS/2001-117, art. 1; DORS/2001-152, art. 1; DORS/2002-15, art. 25(F); DORS/2002-55, art. 1; DORS/2002-187, art. 1; DORS/2002-205, art. 1; DORS/2003-57, art. 3(F); DORS/2003-272, art. 1; DORS/2004-250, art. 1; DORS/2005-45, art. 1; DORS/2006-94, art. 4(A); DORS/2007-180, art. 1; DORS/2008-72, art. 1; DORS/2008-73, art. 1; DORS/2008-104, art. 1; DORS/2008-229, art. 1; DORS/2008-258, art. 1; DORS/2009-291, art. 1; DORS/2009-318, art. 1; DORS/2011-263, art. 1; DORS/2011-264, art. 1; DORS/2013-9, art. 1; DORS/2013-117, art. 1.
+> DORS/78-257, art. 1; DORS/78-351, art. 1; DORS/78-525, art. 1; DORS/79-306, art. 1; DORS/79-339, art. 1; DORS/79-340, art. 1; DORS/79-374, art. 1; DORS/79-677, art. 1; DORS/79-719, art. 1; DORS/79-940, art. 1; DORS/80-161, art. 1; DORS/80-282, art. 1; DORS/80-439, art. 1; DORS/80-440, art. 1; DORS/80-636, art. 1; DORS/80-638, art. 1; DORS/80-782, art. 1; DORS/81-88, art. 1; DORS/81-1033, art. 1; DORS/82-569, art. 1; DORS/82-656, art. 1; DORS/82-753, art. 1; DORS/82-754, art. 1; DORS/83-176, art. 1; DORS/83-859, art. 1; DORS/84-374, art. 1; DORS/84-812, art. 1; DORS/86-161, art. 1; DORS/86-683, art. 1; DORS/86-976, art. 1; DORS/86-977, art. 1; DORS/87-154, art. 1; DORS/87-497, art. 1; DORS/87-578, art. 1; DORS/87-660, art. 1; DORS/88-268, art. 1; DORS/89-384, art. 1; DORS/90-588, art. 1; DORS/90-805, art. 1; DORS/91-425, art. 1; DORS/91-692, art. 1; DORS/92-173, art. 1; DORS/92-250, art. 1; DORS/92-545, art. 1; DORS/93-5, art. 1; DORS/93-31, art. 1; DORS/93-146, art. 1; DORS/93-561, art. 1; DORS/94-291, art. 1; DORS/94-669, art. 1; DORS/94-670, art. 2(F); DORS/94-692, art. 2(F); DORS/94-717, art. 1; DORS/95-147, art. 1; DORS/95-164, art. 1; DORS/95-536, art. 7; DORS/96-366, art. 1; DORS/97-141, art. 1; DORS/97-200, art. 1; DORS/97-201, art. 1; DORS/97-421, art. 1, 17 et 22(F); DORS/97-447, art. 1; DORS/98-125, art. 1; DORS/98-160, art. 1; DORS/98-457, art. 1; DORS/98-524, art. 1(F); DORS/99-357, art. 1; DORS/2000-182, art. 1; DORS/2000-304, art. 1; DORS/2001-35, art. 1; DORS/2001-117, art. 1; DORS/2001-152, art. 1; DORS/2002-15, art. 25(F); DORS/2002-55, art. 1; DORS/2002-187, art. 1; DORS/2002-205, art. 1; DORS/2003-57, art. 3(F); DORS/2003-272, art. 1; DORS/2004-250, art. 1; DORS/2005-45, art. 1; DORS/2006-94, art. 4(A); DORS/2007-180, art. 1; DORS/2008-72, art. 1; DORS/2008-73, art. 1; DORS/2008-104, art. 1; DORS/2008-229, art. 1; DORS/2008-258, art. 1; DORS/2009-291, art. 1; DORS/2009-318, art. 1; DORS/2011-263, art. 1; DORS/2011-264, art. 1; DORS/2013-9, art. 1; DORS/2013-117, art. 1; DORS/2015-23, art. 1; DORS/2015-24, art. 1.
 
 
 
@@ -1003,7 +1005,8 @@ où :
 		- **(xix)** « TRU/CAM » : camion,
 		- **(xx)** « TT/CT » : camion-tracteur,
 		- **(xxi)** « TWV/VTR » : véhicule à trois roues,
-		- **(xxii)** « SNO/MNG » : motoneige;
+		- **(xxii)** « SNO/MNG » : motoneige,
+		- **(xxiii)** « MFSAB/AMAS » : autobus multifonction pour les activités scolaires;
 	- **g)** dans le cas d’un chariot de conversion de type C, la hauteur de montage de l’attelage lorsque le chariot n’est pas chargé, dans les deux langues officielles;
 	- **h)** dans le cas d’une remorque conçue pour tirer un chariot de conversion de type C, la hauteur de montage de l’attelage lorsque la remorque n’est pas chargée, dans les deux langues officielles.
 	- **i)** [Abrogé, DORS/2002-55, art. 4]
@@ -1058,7 +1061,7 @@ où :
 	- **b)** le titre abrégé du décret de dispense.
 
 - **(12) et (13)** [Abrogés, DORS/2000-182, art. 2]
-> DORS/79-940, art. 2; DORS/81-455, art. 1; DORS/82-482, art. 4; DORS/87-660, art. 2; DORS/88-268, art. 3; DORS/91-528, art. 1; DORS/93-146, art. 2; DORS/95-147, art. 2; DORS/98-125, art. 3; DORS/2000-182, art. 2; DORS/2000-304, art. 2; DORS/2002-55, art. 4 et 21; DORS/2003-272, art. 4; DORS/2004-250, art. 2; DORS/2005-342, art. 1; DORS/2006-94, art. 4(A); DORS/2008-258, art. 3.
+> DORS/79-940, art. 2; DORS/81-455, art. 1; DORS/82-482, art. 4; DORS/87-660, art. 2; DORS/88-268, art. 3; DORS/91-528, art. 1; DORS/93-146, art. 2; DORS/95-147, art. 2; DORS/98-125, art. 3; DORS/2000-182, art. 2; DORS/2000-304, art. 2; DORS/2002-55, art. 4 et 21; DORS/2003-272, art. 4; DORS/2004-250, art. 2; DORS/2005-342, art. 1; DORS/2006-94, art. 4(A); DORS/2008-258, art. 3; DORS/2015-23, art. 2.
 
 
 
@@ -1629,7 +1632,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 <tr>
 <td>101</td>
-<td>Emplacement et identification des commandes et des affichages</td>
+<td>Commandes, témoins, indicateurs et sources d’éclairage</td>
 <td>X</td>
 <td>X</td>
 <td></td>
@@ -2893,7 +2896,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 </table>
 
-> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4; DORS/2007-246, art. 1; DORS/2008-73, art. 2; DORS/2008-104, art. 7(F) et 8(F); DORS/2008-229, art. 2; DORS/2008-258, art. 5 et 6; DORS/2009-33, art. 1(F); DORS/2009-121, art. 1; DORS/2009-291, art. 2 et 3; DORS/2009-318, art. 4, 5(A), 6(F) et 7(F); DORS/2009-323, art. 1; DORS/2011-264, art. 3; DORS/2013-117, art. 4 et 5.
+> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4; DORS/2007-246, art. 1; DORS/2008-73, art. 2; DORS/2008-104, art. 7(F) et 8(F); DORS/2008-229, art. 2; DORS/2008-258, art. 5 et 6; DORS/2009-33, art. 1(F); DORS/2009-121, art. 1; DORS/2009-291, art. 2 et 3; DORS/2009-318, art. 4, 5(A), 6(F) et 7(F); DORS/2009-323, art. 1; DORS/2011-264, art. 3; DORS/2013-117, art. 4 et 5; DORS/2015-24, art. 2.
 
 
 
@@ -2910,508 +2913,642 @@ Fait à Ottawa, le _________________________ 20_________________________
 **PARTIE II** 
 
 
-### Emplacement et identification des commandes et des affichages
+### Commandes, témoins, indicateurs et sources d’éclairage (norme 101)
+
+
+#### Interprétation
 
 **101** 
 
-- **(1)** Les commandes et les éléments suivants doivent, dans un véhicule, être installés de façon à pouvoir être actionnés par le conducteur lorsque celui-ci est assis à la place désignée du conducteur et que sa ceinture de sécurité est attachée sur lui selon les instructions du fabricant :
-	- **a)** l’accélérateur;
-	- **b)** le dispositif automatique de régulation de vitesse;
-	- **c)** l’étrangleur, s’il est à commande manuelle;
-	- **d)** la pédale d’embrayage;
-	- **e)** le pare-soleil du conducteur;
-	- **f)** la commande de démarrage du moteur;
-	- **g)** la commande d’arrêt du moteur;
-	- **h)** la commande manuelle du papillon des gaz;
-	- **i)** le commutateur de feux d’avertissement;
-	- **j)** le commutateur de faisceaux-route et faisceaux-croisement des projecteurs;
-	- **k)** l’avertisseur sonore;
-	- **l)** le commutateur d’allumage;
-	- **m)** la commande d’intensité lumineuse;
-	- **n)** le commutateur général d’éclairage;
-	- **o)** la pédale ou le levier du frein de stationnement;
-	- **p)** la commande du désembueur et du dégivreur de la lunette arrière;
-	- **q)** la pédale ou le levier du frein de service;
-	- **r)** le volant;
-	- **s)** la commande de la boîte de vitesses, sauf la boîte de transfert;
-	- **t)** la commande de clignotant;
-	- **u)** la commande du désembueur et du dégivreur du pare-brise;
-	- **v)** la commande du lave-glace de pare-brise;
-	- **w)** la commande de l’essuie-glace de pare-brise;
-	- **x)** la commande des feux de gabarit;
-	- **y)** la commande des feux d’identification;
-	- **z)** la commande de désactivation du système de contrôle électronique de la stabilité.
+- **(1)** Pour l’application du présent article, ***commande*** s’entend au sens du Document de normes techniques no 101 — commandes, témoins, indicateurs et sources d’éclairage (DNT 101).
 
-- **(2)** Les affichages des indications suivantes, lorsqu’ils sont installés dans un véhicule, doivent l’être de façon que le conducteur puisse les reconnaître lorsqu’il est assis à la place désignée du conducteur et que sa ceinture de sécurité est attachée sur lui selon les instructions du fabricant :
-	- **a)** les faisceaux-route des projecteurs;
-	- **b)** les clignotants;
-	- **c)** les feux d’avertissement;
-	- **d)** la ceinture de sécurité;
-	- **e)** le niveau de carburant;
-	- **f)** la pression d’huile du moteur;
-	- **g)** la température du liquide de refroidissement;
-	- **h)** la charge de la batterie;
-	- **i)** le mauvais fonctionnement du système de freinage;
-	- **j)** la basse pression des freins à air comprimé;
-	- **k)** le mauvais fonctionnement du dispositif de frein antiblocage;
-	- **l)** le mauvais fonctionnement du compensateur de freinage;
-	- **m)** le frein de stationnement appliqué;
-	- **n)** le bas niveau du liquide de frein;
-	- **o)** la perte totale de pression du système de freinage;
-	- **p)** l’usure des garnitures de frein;
-	- **q)** la position de la commande de la boîte de vitesses;
-	- **r)** l’indicateur de vitesse;
-	- **s)** l’odomètre;
-	- **t)** un indicateur de faible pression des pneus qui n’indique pas dans quel pneu la pression est faible;
-	- **u)** un indicateur de faible pression des pneus qui indique dans quel pneu la pression est faible;
-	- **v)** le mauvais fonctionnement du système de surveillance de la pression des pneus;
-	- **w)** le mauvais fonctionnement du système de contrôle électronique de la stabilité;
-	- **x)** la désactivation du système de contrôle électronique de la stabilité.
+#### Disposition générale
 
-- **(3)** Une forme d’identification que le conducteur peut reconnaître à la lumière du jour, qui est placée sur la commande manuelle ou à côté de celle-ci et qui paraît en position verticale lorsque la commande est en position d’arrêt, doit être prévue pour :
-	- **a)** chaque fonction ou, s’il s’agit d’une plage quantitative, chacune des positions extrêmes :
-		- **(i)** des commandes du système de chauffage et de climatisation,
-		- **(ii)** du dispositif automatique de régulation de vitesse;
-	- **b)** la commande de démarrage du moteur, si elle est distincte du système de verrouillage à clé;
-	- **c)** la commande d’arrêt du moteur, si elle est distincte du système de verrouillage à clé;
-	- **d)** la commande manuelle du papillon des gaz;
-	- **e)** la commande des feux d’identification et des feux de gabarit, si elle est distincte du commutateur général d’éclairage;
-	- **f)** l’étrangleur, s’il est à commande manuelle.
 
-- **(4)** Lorsqu’un code de couleurs est utilisé pour indiquer les positions extrêmes de la commande du système de chauffage et de climatisation, la position chaud doit être indiquée par la couleur rouge et la position froid, par la couleur bleue.
+- **(2)** Tout véhicule pour lequel l’article 5 du présent règlement exige la conformité aux normes prévues au présent article doit, à l’égard des commandes, des témoins, des indicateurs et des sources d’éclairage qui sont installés dans l’habitacle, être conforme aux exigences du DNT 101, avec ses modifications successives.
 
-- **(5)** Une forme d’identification, semblable à celle applicable figurant au tableau I du présent article, que le conducteur peut reconnaître à la lumière du jour, qui est placée sur la commande manuelle ou à côté de celle-ci et qui paraît en position verticale lorsque la commande est en position d’arrêt, doit être prévue pour :
-	- **a)** la commande des feux de gabarit, des feux d’identification et des feux de position latéraux, si elle est distincte du commutateur général d’éclairage;
-	- **b)** le système de feux d’avertissement;
-	- **c)** les faisceaux-route et faisceaux-croisement des projecteurs, sauf si leur commande est montée sur le côté gauche de la colonne de direction et est adjacente au volant;
-	- **d)** l’avertisseur sonore, sauf lorsqu’il s’agit d’un avertisseur commandé par un cordon;
-	- **e)** le commutateur général d’éclairage;
-	- **f)** le système de désembuage et de dégivrage de la lunette arrière;
-	- **g)** le clignotant, sauf si sa commande est montée sur le côté gauche de la colonne de direction, est adjacente au volant et se déplace dans un plan presque parallèle à celui de la face du volant;
-	- **h)** le ventilateur des systèmes de chauffage et de ventilation;
-	- **i)** le système de désembuage et de dégivrage du pare-brise;
-	- **j)** le système lave-glace de pare-brise, s’il s’agit d’un système à commande manuelle;
-	- **k)** le système essuie-glace et lave-glace de pare-brise, s’il s’agit d’un système combiné;
-	- **l)** le système essuie-glace de pare-brise;
-	- **m)** la commande de désactivation du système de contrôle électronique de la stabilité.
+#### Document de normes techniques n<sup>o</sup> 101
 
-- **(6)** Par dérogation aux paragraphes (3) et (5), est soustraite à l’exigence de paraître en position verticale toute forme d’identification :
-	- **a)** de l’avertisseur sonore installé sur le volant ou d’une commande qui se règle par un mouvement de rotation et qui n’a pas de position d’arrêt;
-	- **b)** du dispositif de régulation de vitesse d’un véhicule automatique lorsque ce dispositif est installé sur le volant, y compris sur le moyeu ou les rais du volant, au moment où le volant du véhicule ne se trouve pas dans la position qui permet le mouvement du véhicule en droite ligne vers l’avant conformément aux spécifications du fabricant.
 
-- **(7)** Toute forme d’identification des commandes des systèmes visés aux alinéas (3)a), c) et e) et (5)a) à c) et f) à m), sauf celle des commandes au pied, des commandes manuelles placées sur la colonne de direction, au plancher, sur la console au plancher ou au plafond près du pare-brise, et des commandes d’un système de climatisation et de chauffage qui n’envoie pas l’air directement sur le pare-brise doit :
-	- **a)** être éclairée quand les phares sont allumés;
-	- **b)** quand elle est éclairée, avoir une intensité lumineuse comportant au moins deux niveaux dont l’un est à peine perceptible pour le conducteur dont les yeux se sont adaptés à l’obscurité ambiante de la route.
+- **(3)** Malgré la disposition S5.2.1 du DNT 101 :
+	- **a)** si le feu de direction gauche et le feu de direction droit ont chacun leur commande ou leur témoin, les flèches du symbole exigé pour la commande ou le témoin des feux de direction peuvent être dissociées et chaque flèche peut être utilisée séparément comme symbole distinct;
+	- **b)** si le feu de direction gauche et le feu de direction droit ont chacun leur témoin et si les flèches du symbole exigé pour le témoin des feux de direction sont dissociées de sorte que chaque flèche est utilisée séparément comme symbole distinct, le clignotement simultané des témoins des feux de direction gauche et droit peut être utilisé comme témoin des feux de détresse;
+	- **c)** le moyen d’identification de l’une ou l’autre des commandes ci-après n’est pas exigé si elle est combinée au commutateur général d’éclairage :
+		- **(i)** la commande des feux arrière, des feux de stationnement, des lampes de plaque d’immatriculation, des feux de position latéraux, des feux d’identification et des feux de gabarit,
+		- **(ii)** la commande de faisceaux de croisement des projecteurs;
+	- **d)** si un témoin unique est utilisé pour indiquer plus d’une condition du système de freinage, seul le symbole exigé pour le mauvais fonctionnement du système de freinage doit être utilisé;
+	- **e)** le moyen d’identification de l’une ou l’autre des commandes ci-après n’est pas exigé si elle fait partie intégrante du système de verrouillage à clé du véhicule :
+		- **(i)** la commande de démarrage du moteur,
+		- **(ii)** la commande d’arrêt du moteur;
+	- **f)** le moyen d’identification exigé pour la position de marche avant de la boîte de vitesses automatique peut être remplacé par une lettre, un chiffre, une combinaison de lettres et de chiffres ou tout symbole ne figurant pas à la colonne 2 du tableau du présent article;
+	- **g)** le symbole exigé pour la commande de démarrage du moteur peut être remplacé par le mot « *start* »;
+	- **h)** le symbole exigé pour la commande d’arrêt du moteur peut être remplacé par le mot « *stop* »;
+	- **i)** le symbole exigé pour le témoin de mauvais fonctionnement du système de contrôle électronique de la stabilité peut être remplacé par l’abréviation « ESC »;
+	- **j)** le symbole exigé pour le témoin et la commande de désactivation du système de contrôle électronique de la stabilité peut être remplacé par l’abréviation « ESC OFF »;
+	- **k)** jusqu’au 31 août 2018, le symbole exigé pour la commande et le témoin de désactivation du sac gonflable du passager peut être remplacé par les mots « *passenger air bag off* » ou « *pass air bag off* ».
 
-- **(8)** Il n’est pas nécessaire d’illuminer les commandes des systèmes visés au paragraphe (7) lorsque les phares sont allumés pour faire un appel de phares ou utilisés comme feux de jour à intensité réduite.
+#### Indicateurs de vitesse et odomètres
 
-- **(9)** Sous réserve des paragraphes (10) à (12), les affichages suivants lorsqu’ils sont installés dans un véhicule ayant un PNBV d’au plus 4 536 kg (10 000 livres) doivent comporter une forme d’identification semblable à celle applicable figurant au tableau II du présent article, qui est placée sur l’affichage qu’elle désigne ou à côté de celui-ci et qui paraît en position verticale :
-	- **a)** le témoin des faisceaux-route des projecteurs;
-	- **b)** le témoin du clignotant;
-	- **c)** le témoin des feux d’avertissement;
-	- **d)** le témoin de la ceinture de sécurité;
-	- **e)** l’indicateur ou le témoin du niveau de carburant;
-	- **f)** l’indicateur ou le témoin de pression d’huile du moteur;
-	- **g)** l’indicateur ou le témoin de température du liquide de refroidissement;
-	- **h)** l’indicateur ou le témoin de charge de la batterie;
-	- **i)** le témoin de mauvais fonctionnement du système de freinage;
-	- **j)** le témoin de mauvais fonctionnement du dispositif de frein antiblocage;
-	- **k)** l’indicateur de vitesse;
-	- **l)** l’odomètre;
-	- **m)** le témoin de faible pression des pneus qui n’indique pas dans quel pneu la pression est faible;
-	- **n)** le témoin de faible pression des pneus qui indique dans quel pneu la pression est faible;
-	- **o)** le témoin de mauvais fonctionnement du système de surveillance de la pression des pneus;
-	- **p)** le témoin de mauvais fonctionnement du système de contrôle électronique de la stabilité;
-	- **q)** le témoin de la désactivation du système de contrôle électronique de la stabilité.
 
-- **(9.1)** Les affichages suivants, dont le contenu est précisé à l’article 135 de la présente annexe et dans le DNT 135, visés à cet article, doivent, lorsqu’ils sont installés dans une voiture de tourisme ou un véhicule à trois roues, être de la couleur indiquée au tableau II du présent article :
-	- **a)** le mauvais fonctionnement du compensateur de freinage;
-	- **b)** le frein de stationnement appliqué;
-	- **c)** le bas niveau du liquide de frein;
-	- **d)** la perte totale de pression du système de freinage;
-	- **e)** l’usure des garnitures de frein.
+- **(4)** Tout indicateur de vitesse doit indiquer la vitesse du véhicule en kilomètres à l’heure ou en kilomètres et en milles à l’heure. Les unités de mesure doivent être indiquées sur l’indicateur de vitesse ou à un endroit qui y est adjacent.
 
-- **(10)** Les indicateurs visés aux alinéas (9)e) à h), k) et l) et l’indicateur de la position de la commande de la boîte de vitesses automatique doivent :
-	- **a)** être éclairés quand les phares sont allumés;
-	- **b)** quand ils sont éclairés, avoir une intensité lumineuse comportant au moins deux niveaux dont l’un est à peine perceptible pour le conducteur dont les yeux se sont adaptés à l’obscurité ambiante de la route.
+- **(5)** Tout indicateur de vitesse doit être éclairé lorsque les projecteurs sont activés, sauf s’ils clignotent à des fins de signalisation ou s’ils sont utilisés comme feux de jour.
 
-- **(11)** Il n’est pas nécessaire que les indicateurs visés au paragraphe (10) soient éclairés lorsque les phares sont allumés pour faire un appel de phares ou utilisés comme feux de jour.
+- **(6)** Tout odomètre ou tout totalisateur partiel doivent indiquer les distances en kilomètres ou en milles. Si les distances sont indiquées en milles, cette unité de mesure doit être indiquée à un endroit qui est adjacent à l’odomètre ou au totalisateur partiel.
 
-- **(12)** Si des témoins sont installés avec les indicateurs correspondants visés aux alinéas (9)e) à h), l’identification exigée au paragraphe (9) peut être omise.
+#### Témoin de désactivation du sac gonflable du passager
 
-- **(13)** Les témoins doivent, lorsqu’ils sont allumés :
-	- **a)** être de la couleur applicable lorsqu’une couleur est spécifiée pour les témoins illustrés au tableau II du présent article;
-	- **b)** être d’une couleur qui contraste avec l’arrière-plan;
-	- **c)** ne pas pouvoir être ajustés à un niveau qui les rend invisibles, et ce dans toutes les conditions d’éclairage, lorsque le témoin désigne les faisceaux-route des projecteurs, le clignotant, les feux d’avertissement, la ceinture de sécurité ou le mauvais fonctionnement du système de freinage;
-	- **d)** être reconnaissables par le conducteur dans toutes les conditions d’éclairage.
 
-- **(14)** Sous réserve du paragraphe (20) et de la disposition S5.5.5 du Document de normes techniques no 126 — Systèmes de contrôle électronique de la stabilité, les témoins ne doivent s’allumer que pour :
-	- **a)** signaler une défaillance ou un autre état de fonctionnement du véhicule qu’ils sont censés détecter;
-	- **b)** indiquer l’état des ampoules au cours d’une vérification effectuée au démarrage du moteur.
+- **(7)** Le témoin de désactivation du sac gonflable du passager doit être installé à l’intérieur du véhicule :
+	- **a)** d’une part, devant et au-dessus du point de référence de chaque place assise désignée extérieure avant lorsque le siège est dans sa position la plus avancée;
+	- **b)** d’autre part, de manière à être visible, s’il est allumé, au conducteur et à tout passager avant lorsque ceux-ci sont retenus par leurs ceintures de sécurité ajustées conformément aux instructions du fabricant du véhicule.
 
-- **(15)** Par dérogation aux paragraphes (13) et (14), le témoin des faisceaux-route des projecteurs doit, s’il est allumé quand les faisceaux-route des projecteurs sont utilisés comme feux de jour à une tension réduite, avoir une intensité lumineuse visiblement plus faible que lorsque les faisceaux-route des projecteurs sont actionnés à la tension normale, mais le témoin des faisceaux-route des projecteurs peut clignoter à l’intensité normale lorsque les feux de jour ne fonctionnent pas bien.
+- **(8)** Malgré le paragraphe (7), le témoin de désactivation du sac gonflable du passager ne doit :
+	- **a)** être ni installé ni adjacent à un endroit qui peut servir à l’entreposage dans le cas où un objet entreposé à cet endroit empêchera le conducteur et tout passager avant de voir le témoin lorsque ceux-ci sont retenus par leurs ceintures de sécurité ajustées conformément aux instructions du fabricant du véhicule;
+	- **b)** pas être installé à un endroit où il ne sera pas complètement visible au conducteur lorsque celui-ci est retenu par sa ceinture de sécurité ajustée conformément aux instructions du fabricant du véhicule et qu’un ensemble de retenue pour enfant orienté vers l’arrière ou un ensemble de retenue pour bébé est installé à la place assise désignée extérieure située le plus à l’avant-droit.
 
-- **(16)** L’éclairage fourni dans le poste de conduite d’un véhicule et non visé aux paragraphes (7), (10) ou (13) doit répondre à l’un des critères suivants :
-	- **a)** pouvoir être fermé;
-	- **b)** être ajustable manuellement ou automatiquement afin de fournir au moins deux niveaux de luminosité;
-	- **c)** être d’une intensité à peine perceptible pour le conducteur dont les yeux se sont adaptés à l’obscurité ambiante.
+#### Manuel de l’usager
 
-- **(17)** L’indicateur de vitesse doit être étalonné en kilomètres/heure.
 
-- **(18)** Les odomètres qui enregistrent la distance parcourue doivent être étalonnés en kilomètres.
+- **(9)** Les versions française et anglaise du manuel de l’usager doivent contenir l’explication de tout symbole, mot, abréviation ou lettre qui est utilisé pour identifier une commande, un témoin ou un indicateur qui sont installés dans le véhicule et qui doivent être identifiés en application du présent article.
 
-- **(18.1)** Malgré le paragraphe (18), les odomètres qui enregistrent la distance parcourue peuvent être étalonnés en milles s’il est mentionné sur une étiquette apposée à proximité de l’odomètre que ce dernier indique un millage.
+#### Disposition transitoire
 
-- **(19)** En plus des formes d’identification exigées aux paragraphes (5) et (9), le fabricant peut utiliser les symboles indiqués dans la norme internationale ISO 2575 de l’Organisation internationale de normalisation, intitulée Véhicules routiers — Symboles pour les commandes, indicateurs et témoins, 4<sup>e</sup> édition, 1982.
 
-- **(20)** Les témoins ou les indicateurs figurant au tableau II du présent article doivent s’allumer :
-	- **a)** dès que survient l’état de fonctionnement du véhicule qu’ils sont censés détecter;
-	- **b)** dans le cas du témoin de la ceinture de sécurité, au moment prévu à l’article 208 de la présente annexe.
+- **(10)** Jusqu’au 1<sup>er</sup> septembre 2019, les véhicules visés au paragraphe (2) peuvent être conformes aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
 
 - 
-#### TABLEAU I
+#### TABLEAU
 <table>
-<h4>Symboles d’identification des commandes</h4>
+<h4>Moyens d’identification des commandes, des témoins et des indicateurs</h4>
 <tr>
-<th>Commande</th>
-<th>Identification</th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
+<th>Colonne 3</th>
+<th>Colonne 4</th>
+<th>Colonne 5</th>
+<th>Colonne 6</th>
 </tr>
 <tr>
-<td>Feux de gabarit, feux d’identification et feux de position latéraux</td>
-<td>
-> Image: Symbole montrant deux cercles côte à côte présentant un faisceau de trois lignes sur leur côté externe
-<sup><a href='#fn_Ind3951_hq_13494'>[1]</a></sup>
-
-<sup><a href='#fn_Ind3951_hq_13496'>[3]</a></sup>
-
-
-
-</td>
+<th>ARTICLE</th>
+<th>SYMBOLE</th>
+<th>[RÉSERVÉ]</th>
+<th>FONCTION</th>
+<th>ÉCLAIRAGE</th>
+<th>COULEUR</th>
 </tr>
 <tr>
-<td>Commutateur général d’éclairage</td>
+<td>Faisceaux de route des projecteurs</td>
 <td>
-> Image: Symbole montrant un cercle surmonté d’un petit carré et présentant sur sa courbure externe sept lignes en rayons
-<sup><a href='#fn_Ind3951_hq_13494'>[1]</a></sup>
-
+> Image: Symbole montrant, en contour, la vue latérale gauche d’un réflecteur parabolique émettant cinq lignes droites qui sont parallèles et horizontales.
+ou
+> Image: Symbole montrant, en silhouette, la vue latérale gauche d’un réflecteur parabolique émettant cinq lignes droites qui sont parallèles et horizontales.
+ou
+> Image: Symbole montrant, en contour, la vue latérale gauche d’un réflecteur parabolique émettant quatre lignes droites qui sont parallèles et horizontales.
+ou
+> Image: Symbole montrant, en silhouette, la vue latérale gauche d’un réflecteur parabolique émettant quatre lignes droites qui sont parallèles et horizontales.
 </td>
+<td></td>
+<td>Commande</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Faisceaux-route et faisceaux-croisement des projecteurs</td>
-<td>
-> Image: Symbole montrant un demi-cercle avec cinq lignes rayonnant du côté gauche
-<sup><a href='#fn_Ind3951_hq_13494'>[1]</a></sup>
-
-<sup><a href='#fn_Ind3951_hq_13496'>[3]</a></sup>
-
-
-
-</td>
+<td>Témoin</td>
+<td></td>
+<td>Bleu ou bleu-vert</td>
 </tr>
 <tr>
-<td>Clignotants</td>
+<td>Feux de changement de direction</td>
 <td>
-> Image: Symbole montrant deux flèches opposées, blanches au contour noir
-<sup><a href='#fn_Ind3951_hq_13494'>[1]</a></sup>
-
-<sup><a href='#fn_Ind3951_hq_13495'>[2]</a></sup>
-
-
-
+> Image: Symbole montrant, côte à côte, en contour, deux flèches qui sont horizontales et divergentes.
+ou
+> Image: Symbole montrant, côte à côte, en silhouette, deux flèches qui sont horizontales et divergentes.
 </td>
+<td></td>
+<td>Commande</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Signal des feux d’avertissement</td>
-<td>
-> Image: Symbole montrant un petit triangle à l’intérieur d’un plus grand triangle
-<sup><a href='#fn_Ind3951_hq_13494'>[1]</a></sup>
-
-</td>
+<td>Témoin</td>
+<td></td>
+<td>Vert</td>
 </tr>
 <tr>
-<td>Essuie-glace de pare-brise</td>
+<td>Feux de détresse</td>
 <td>
-> Image: Symbole montrant un essuie-glace sur un pare-brise
+> Image: Symbole montrant, en contour, deux triangles équilatéraux, l’un à l’intérieur de l’autre.
+ou
+> Image: Symbole montrant, en silhouette, un triangle équilatéral à l’intérieur duquel se trouve un petit espace vide aussi en forme de triangle équilatéral.
 </td>
+<td></td>
+<td>Commande</td>
+<td>Oui</td>
+<td></td>
 </tr>
 <tr>
-<td>Lave-glace de pare-brise</td>
-<td>
-> Image: Symbole montrant un pare-brise avec, au milieu, une ligne pointillée qui se divise en deux au-dessus illustrant un double jet
-</td>
+<td>Témoin</td>
+<td></td>
+<td>Rouge</td>
 </tr>
 <tr>
-<td>Essuie-glace et lave-glace de pare-brise combinés</td>
+<td>Feux arrière, feux de stationnement, lampes de plaque d’immatriculation, feux de position latéraux, feux d’identification et feux de gabarit</td>
 <td>
-> Image: Symbole montrant un essuie-glace sur un pare-brise avec, au milieu, une ligne pointillée qui se divise en deux au-dessus illustrant un double jet
+> Image: Symbole montrant, en contour, deux réflecteurs paraboliques placés dos-à-dos, chacun émettant trois lignes droites en forme d’éventail.
+ou
+> Image: Symbole montrant en silhouette, deux réflecteurs paraboliques placés dos-à-dos, chacun émettant trois lignes droites en forme d’éventail.
 </td>
+<td></td>
+<td>Commande</td>
+<td>Oui</td>
+<td></td>
 </tr>
 <tr>
-<td>Ventilateur du système de chauffage et de climatisation</td>
+<td>Système essuie-glace de pare-brise</td>
 <td>
-> Image: Symbole montrant un ventilateur noir avec quatre lames
-<sup><a href='#fn_Ind3951_hq_13495'>[2]</a></sup>
-
+> Image: Symbole montrant, en contour, un pare-brise sur lequel repose, en oblique, une ligne représentant un essuie-glace.
 </td>
+<td></td>
+<td>Commande</td>
+<td>Oui</td>
+<td></td>
 </tr>
 <tr>
-<td>Dégivrage et désembuage du pare-brise</td>
+<td>Système lave-glace de pare-brise</td>
 <td>
-> Image: Symbole montrant une bouche de chauffage de pare-brise entouré de trois lignes ondulées rayonnant
+> Image: Symbole montrant, en contour, un pare-brise traversé au centre par une ligne verticale et pointillée qui se divise au-dessus de sa partie supérieure en deux demi-cercles pointillés en directions opposées.
 </td>
+<td></td>
+<td>Commande</td>
+<td>Oui</td>
+<td></td>
 </tr>
 <tr>
-<td>Dégivrage et désembuage de la lunette arrière</td>
+<td>Système essuie-glace et lave-glace de pare-brise</td>
 <td>
-> Image: Symbole montrant une bouche de chauffage rectangulaire entouré de trois lignes ondulées rayonnant
+> Image: Symbole montrant, en contour, un pare-brise sur lequel repose, en oblique, une ligne représentant un essuie-glace et qui est traversé au centre par une ligne verticale et pointillée qui se divise au-dessus de sa partie supérieure en deux demi-cercles pointillés en directions opposées.
 </td>
+<td></td>
+<td>Commande</td>
+<td>Oui</td>
+<td></td>
+</tr>
+<tr>
+<td>Système de dégivrage et de désembuage de pare-brise</td>
+<td>
+> Image: Symbole montrant, en contour, un pare-brise dont le bord inférieur est entrecoupé par trois flèches verticales qui sont sinueuses et pointées vers le haut.
+</td>
+<td></td>
+<td>Commande</td>
+<td>Oui</td>
+<td></td>
+</tr>
+<tr>
+<td>Système de dégivrage et de désembuage de la lunette arrière</td>
+<td>
+> Image: Symbole montrant, en contour, un rectangle dont le côté inférieur est entrecoupé par trois flèches verticales qui sont sinueuses et pointées vers le haut.
+</td>
+<td></td>
+<td>Commande</td>
+<td>Oui</td>
+<td></td>
+</tr>
+<tr>
+<td>Mauvais fonctionnement du système de freinage</td>
+<td>
+> Image: Symbole montrant, en contour, un cercle, entre parenthèses, à l’intérieur duquel figure un point d’exclamation.
+</td>
+<td></td>
+<td>Témoin</td>
+<td></td>
+<td>Rouge ou rouge-orange</td>
+</tr>
+<tr>
+<td>Mauvais fonctionnement du système de freinage antiblocage</td>
+<td>
+> Image: Symbole montrant, en contour, un cercle, entre parenthèses, à l’intérieur duquel figurent les lettres ABS.
+</td>
+<td></td>
+<td>Témoin</td>
+<td></td>
+<td>Jaune</td>
+</tr>
+<tr>
+<td>[RÉSERVÉ]</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>[RÉSERVÉ]</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Mauvais fonctionnement du système de freinage antiblocage des véhicules qui sont soumis à la NSVAC 121 autres que les remorques</td>
+<td>
+> Image: Symbole montrant, en contour, un cercle, entre parenthèses, à l’intérieur duquel figurent les lettres ABS.
+</td>
+<td></td>
+<td>Témoin</td>
+<td></td>
+<td>Jaune</td>
+</tr>
+<tr>
+<td>Mauvais fonctionnement du système de freinage antiblocage des remorques soumises à la NSVAC 121</td>
+<td>
+> Image: Symbole montrant, en contour, la vue latérale gauche d’une remorque transportant un cercle, entre parenthèses, à l’intérieur duquel figurent les lettres ABS.
+</td>
+<td></td>
+<td>Témoin</td>
+<td></td>
+<td>Jaune</td>
+</tr>
+<tr>
+<td>Faible pression dans le système de freinage</td>
+<td>
+> Image: Symbole montrant, en contour, un cercle, entre parenthèses, à l’intérieur duquel figurent deux flèches horizontales convergeant vers un point au centre du cercle.
+</td>
+<td></td>
+<td>Témoin</td>
+<td></td>
+<td>Rouge ou rouge- orange</td>
+</tr>
+<tr>
+<td>Faible niveau de liquide dans le système de freinage</td>
+<td>
+> Image: Symbole montrant, en contour, un cercle, entre parenthèses, dont le tiers inférieur contient du liquide.
+</td>
+<td></td>
+<td>Témoin</td>
+<td></td>
+<td>Rouge ou rouge- orange</td>
+</tr>
+<tr>
+<td>Frein de stationnement serré</td>
+<td>
+> Image: Symbole montrant, en contour, un cercle, entre parenthèses, à l’intérieur duquel figure la lettre P.
+</td>
+<td></td>
+<td>Témoin</td>
+<td></td>
+<td>Rouge ou rouge- orange</td>
+</tr>
+<tr>
+<td>Usure de garniture de freins</td>
+<td>
+> Image: Symbole montrant, en contour, un cercle entre des parenthèses pointillées.
+</td>
+<td></td>
+<td>Témoin</td>
+<td></td>
+<td>Rouge ou rouge- orange</td>
+</tr>
+<tr>
+<td>Mauvais fonctionnement du système de contrôle électronique de la stabilité</td>
+<td>
+> Image: Symbole montrant, en silhouette, la vue arrière d’une voiture au-dessus de deux lignes verticales qui sont sinueuses et épaisses.
+</td>
+<td></td>
+<td>Témoin</td>
+<td></td>
+<td>Jaune</td>
+</tr>
+<tr>
+<td>Désactivation du système de contrôle électronique de la stabilité</td>
+<td>
+> Image: Symbole montrant, en silhouette, la vue arrière d’une voiture au-dessus de deux lignes verticales qui sont sinueuses et épaisses et en dessous desquelles figure le mot OFF.
+</td>
+<td></td>
+<td>Commande</td>
+<td>Oui</td>
+<td></td>
+</tr>
+<tr>
+<td>Témoin</td>
+<td></td>
+<td>Jaune</td>
+</tr>
+<tr>
+<td>Niveau de carburant</td>
+<td>
+> Image: Symbole montrant, en contour, la vue de face d’une pompe à essence.
+ou
+> Image: Symbole montrant, en silhouette, la vue de face d’une pompe à essence.
+</td>
+<td></td>
+<td>Témoin</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Indicateur</td>
+<td>Oui</td>
+<td></td>
+</tr>
+<tr>
+<td>Pression d’huile</td>
+<td>
+> Image: Symbole montrant, en contour, la vue latérale droite d’une burette à huile avec une goutte s’écoulant de son bec.
+</td>
+<td></td>
+<td>Témoin</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Indicateur</td>
+<td>Oui</td>
+<td></td>
+</tr>
+<tr>
+<td>Température du liquide de refroidissement du moteur</td>
+<td>
+> Image: Symbole montrant deux lignes horizontales qui sont sinueuses et parallèles, la ligne supérieure étant surmontée d’un thermomètre en position verticale.
+</td>
+<td></td>
+<td>Témoin</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Indicateur</td>
+<td>Oui</td>
+<td></td>
+</tr>
+<tr>
+<td>Charge de la batterie</td>
+<td>
+> Image: Symbole montrant, en contour, la batterie d’une automobile avec une borne positive à droite et une borne négative à gauche.
+</td>
+<td></td>
+<td>Témoin</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Indicateur</td>
+<td>Oui</td>
+<td></td>
+</tr>
+<tr>
+<td>Arrêt du moteur</td>
+<td>
+> Image: Symbole montrant une flèche courbe formant, dans le sens horaire, les trois-quarts d’un cercle ouvert vers le bas et sur lequel figure un X.
+</td>
+<td></td>
+<td>Commande</td>
+<td>Oui</td>
+<td></td>
+</tr>
+<tr>
+<td>[RÉSERVÉ]</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>[RÉSERVÉ]</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>[RÉSERVÉ]</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Positions de la boîte de vitesses automatique</td>
+<td></td>
+<td></td>
+<td>Indicateur</td>
+<td>Oui</td>
+<td></td>
+</tr>
+<tr>
+<td>Stationnement</td>
+<td>P</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Marche arrière</td>
+<td>R</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Point mort</td>
+<td>N</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Marche avant</td>
+<td>D</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ventilateur de chauffage ou de climatisation</td>
+<td>
+> Image: Symbole montrant, en contour, la vue de face d’un ventilateur blanc avec quatre lames.
+ou
+> Image: Symbole montrant, en silhouette, la vue de face d’un ventilateur avec quatre lames.
+</td>
+<td></td>
+<td>Commande</td>
+<td>Oui</td>
+<td></td>
+</tr>
+<tr>
+<td>[RÉSERVÉ]</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>[RÉSERVÉ]</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>[RÉSERVÉ]</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Commande manuelle du papillon des gaz</td>
+<td>
+> Image: Symbole montrant deux lignes verticales courbées vers l’intérieur qui encadrent un point central entrecoupé par une ligne droite oblique partant du côté supérieur gauche et se terminant du côté inférieur droit.
+</td>
+<td></td>
+<td>Commande</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Démarrage du moteur</td>
+<td>
+> Image: Symbole montrant une flèche courbe formant, dans le sens horaire, les trois-quarts d’un cercle ouvert vers le bas.
+</td>
+<td></td>
+<td>Commande</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Commande manuelle de l’étrangleur</td>
+<td>
+> Image: Symbole montrant deux lignes droites verticales qui encadrent un point central entrecoupé par une ligne droite oblique partant du côté supérieur gauche et se terminant du côté inférieur droit.
+</td>
+<td></td>
+<td>Commande</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>[RÉSERVÉ]</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Avertisseur sonore</td>
 <td>
-> Image: Symbole montrant le contour noir d’une trompette
+> Image: Symbole montrant, en silhouette, une trompette.
 </td>
+<td></td>
+<td>Commande</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Désactivation du système de contrôle électronique de la stabilité</td>
+<td>Commutateur général d’éclairage</td>
 <td>
-> Image: Symbole montrant une vue de face d’une voiture avec des lignes courbes au-dessous et les mots OFF or/ou ESC OFF
+> Image: Symbole montrant, en contour, un cercle surmonté d’un petit rectangle et présentant, à distance égale sur sa courbure, sept lignes en rayons.
+ou
+> Image: Symbole montrant, en silhouette, un cercle surmonté d’un petit rectangle et présentant, à distance égale sur sa courbure, sept lignes en rayons.
 </td>
+<td></td>
+<td>Commande</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Faisceaux de croisement des projecteurs</td>
+<td>
+> Image: Symbole montrant, en contour, la vue latérale gauche d’un réflecteur parabolique émettant vers le bas cinq lignes droites qui sont parallèles et obliques.
+ou
+> Image: Symbole montrant, en silhouette, la vue latérale gauche d’un réflecteur parabolique émettant vers le bas cinq lignes droites qui sont parallèles et obliques.
+ou
+> Image: Symbole montrant, en contour, la vue latérale gauche d’un réflecteur parabolique émettant vers le bas quatre lignes droites qui sont parallèles et obliques.
+ou
+> Image: Symbole montrant, en silhouette, la vue latérale gauche d’un réflecteur parabolique émettant vers le bas quatre lignes droites qui sont parallèles et obliques.
+</td>
+<td></td>
+<td>Commande</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Faible pression d’air dans le système de freinage</td>
+<td>
+> Image: Symbole montrant, en contour, un cercle, entre parenthèses, à l’intérieur duquel figurent deux flèches horizontales convergeant vers un point au centre du cercle.
+</td>
+<td></td>
+<td>Témoin</td>
+<td></td>
+<td>Rouge</td>
+</tr>
+<tr>
+<td>Ceinture de sécurité non bouclée</td>
+<td>
+> Image: Symbole montrant, en silhouette, la vue de face d’une personne assise portant une ceinture de sécurité.
+ou
+> Image: Symbole montrant, en contour, la vue de face d’une personne assise portant une ceinture de sécurité.
+</td>
+<td></td>
+<td>Témoin</td>
+<td></td>
+<td>Rouge</td>
+</tr>
+<tr>
+<td>Mauvais fonctionnement du sac gonflable</td>
+<td>
+> Image: Symbole montrant, en silhouette, la vue latérale gauche d’une personne qui porte une ceinture de sécurité et qui est assise en face d’un cercle.
+</td>
+<td></td>
+<td>Témoin</td>
+<td></td>
+<td>Rouge ou jaune</td>
+</tr>
+<tr>
+<td>Mauvais fonctionnement du sac gonflable latéral</td>
+<td>
+> Image: Symbole montrant, en silhouette, la vue de face d’une personne qui porte une ceinture de sécurité et qui est assise à gauche d’une ellipse verticale.
+ou
+> Image: Symbole montrant, en silhouette, la vue latérale gauche d’une personne qui porte une ceinture de sécurité et qui est assise en face d’un cercle.
+
+
+</td>
+<td></td>
+<td>Témoin</td>
+<td></td>
+<td>Rouge ou jaune</td>
+</tr>
+<tr>
+<td>Désactivation du sac gonflable du passager</td>
+<td>
+> Image: Symbole montrant, en silhouette, la vue latérale gauche d’une personne qui porte une ceinture de sécurité, qui est assise en face d’un cercle sur lequel figure un X et derrière laquelle se trouve le chiffre 2.
+ou
+> Image: Symbole montrant, au-dessus du mot OFF et en silhouette, la vue latérale gauche d’une personne qui porte une ceinture de sécurité, qui est assise en face d’un cercle et derrière laquelle se trouve le chiffre 2.
+</td>
+<td></td>
+<td>Commande</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Témoin</td>
+<td></td>
+<td>Jaune</td>
 </tr>
 </table>
 
-
-<a name='fn_Ind3951_hq_13494'><sup>1</sup></a>: La partie encadrée du symbole peut-être pleine.<br />
-
-<a name='fn_Ind3951_hq_13495'><sup>2</sup></a>: Il est permis d’utiliser seulement le contour.<br />
-
-<a name='fn_Ind3951_hq_13496'><sup>3</sup></a>: Le symbole n’est pas nécessaire si la commande est couplée au commutateur général d’éclairage.<br />
-#### TABLEAU II
-<table>
-<h4>Identification des affichages</h4>
-<tr>
-<th>Affichage</th>
-<th>Couleur du témoin</th>
-<th>Identification</th>
-</tr>
-<tr>
-<td>Faisceaux-route des projecteurs</td>
-<td>BLEU
-
-ou
-
-VERT
-
-<sup><a href='#fn_Ind3951_hq_13501'>[5]</a></sup>
-
-</td>
-<td>
-> Image: Symbole montrant un demi-cercle avec cinq lignes rayonnant du côté gauche
-<sup><a href='#fn_Ind3951_hq_13497'>[1]</a></sup>
-
-</td>
-</tr>
-<tr>
-<td>Clignotants</td>
-<td>VERT</td>
-<td>
-> Image: Symbole montrant deux flèches opposées, blanches au contour noir
-<sup><a href='#fn_Ind3951_hq_13497'>[1]</a></sup>
-
-<sup><a href='#fn_Ind3951_hq_13498'>[2]</a></sup>
-
-
-
-</td>
-</tr>
-<tr>
-<td>Feux d’avertissement</td>
-<td>ROUGE<sup><a href='#fn_Ind3951_hq_13501'>[5]</a></sup>
-
-</td>
-<td>
-> Image: Symbole montrant un petit triangle à l’intérieur d’un plus grand triangle
-<sup><a href='#fn_Ind3951_hq_13497'>[1]</a></sup>
-
-<sup><a href='#fn_Ind3951_hq_13499'>[3]</a></sup>
-
-
-
-</td>
-</tr>
-<tr>
-<td>Ceinture de sécurité</td>
-<td>ROUGE<sup><a href='#fn_Ind3951_hq_13501'>[5]</a></sup>
-
-</td>
-<td>
-> Image: Symbole montrant une personne assise portant une ceinture de sécurité
-<sup><a href='#fn_Ind3951_hq_13500'>[4]</a></sup>
-
-</td>
-</tr>
-<tr>
-<td>Niveau de carburant</td>
-<td></td>
-<td>
-> Image: Symbole montrant une pompe à essence
-<sup><a href='#fn_Ind3951_hq_13500'>[4]</a></sup>
-
-</td>
-</tr>
-<tr>
-<td>Pression d’huile du moteur</td>
-<td></td>
-<td>
-> Image: Symbole montrant un contenant d’huile à moteur avec une goutte noire
-<sup><a href='#fn_Ind3951_hq_13503'>[7]</a></sup>
-
-</td>
-</tr>
-<tr>
-<td>Température du liquide de refroidissement</td>
-<td></td>
-<td>
-> Image: Symbole montrant un thermomètre avec des lignes ondulées au-dessous
-<sup><a href='#fn_Ind3951_hq_13503'>[7]</a></sup>
-
-</td>
-</tr>
-<tr>
-<td>Charge de la batterie</td>
-<td></td>
-<td>
-> Image: Symbole montrant une batterie avec une borne positif et négatif
-</td>
-</tr>
-<tr>
-<td>Mauvais fonctionnement du système de freinage</td>
-<td>ROUGE<sup><a href='#fn_Ind3951_hq_13501'>[5]</a></sup>
-
-</td>
-<td>
-> Image: Symbole montrant un cercle comprenant un point d’exclamation à l’intérieur des parenthèses
-<sup><a href='#fn_Ind3951_hq_13502'>[6]</a></sup>
-
-</td>
-</tr>
-<tr>
-<td>Basse pression des freins à air comprimé</td>
-<td>ROUGE<sup><a href='#fn_Ind3951_hq_13501'>[5]</a></sup>
-
-</td>
-<td>Marque optionnelle</td>
-</tr>
-<tr>
-<td>Mauvais fonctionnement du dispositif de frein antiblocage</td>
-<td>JAUNE</td>
-<td>
-> Image: Symbole montrant un cercle comprenant les lettres ABS inscrites à l’intérieur des parenthèses
-</td>
-</tr>
-<tr>
-<td>Mauvais fonctionnement du compensateur de freinage <sup><a href='#fn_Ind3951_hq_13502'>[6]</a></sup></td>
-<td>JAUNE</td>
-<td>Choix du fabricant</td>
-</tr>
-<tr>
-<td>Frein de stationnement appliqué <sup><a href='#fn_Ind3951_hq_13502'>[6]</a></sup></td>
-<td>ROUGE<sup><a href='#fn_Ind3951_hq_13501'>[5]</a></sup>
-
-</td>
-<td>Choix du fabricant</td>
-</tr>
-<tr>
-<td>Bas niveau de liquide de frein</td>
-<td>ROUGE<sup><a href='#fn_Ind3951_hq_13501'>[5]</a></sup>
-
-</td>
-<td>Choix du fabricant</td>
-</tr>
-<tr>
-<td>Perte totale de pression du système de freinage</td>
-<td>ROUGE<sup><a href='#fn_Ind3951_hq_13501'>[5]</a></sup>
-
-</td>
-<td>Choix du fabricant</td>
-</tr>
-<tr>
-<td>Usure des garnitures de frein</td>
-<td>ROUGE
-
-ou
-
-JAUNE
-
-<sup><a href='#fn_Ind3951_hq_13501'>[5]</a></sup>
-
-</td>
-<td>Choix du fabricant</td>
-</tr>
-<tr>
-<td>Position de la commande de la boîte de vitesses automatique</td>
-<td>Choix du fabricant</td>
-</tr>
-<tr>
-<td>Indicateur de vitesse</td>
-<td>km/h</td>
-</tr>
-<tr>
-<td>Odomètre</td>
-<td><sup><a href='#fn_Ind3951_hq_13504'>[8]</a></sup></td>
-</tr>
-<tr>
-<td>Faible pression des pneus qui n’indique pas dans quel pneu la pression est faible (y compris le mauvais fonctionnement du système de surveillance de la pression des pneus)</td>
-<td>JAUNE</td>
-<td>
-> Image: Symbole montrant les trois-quarts d’un cercle avec un fond plat et un point d’exclamation à l’intérieur
-</td>
-</tr>
-<tr>
-<td>Faible pression des pneus qui indique dans quel pneu la pression est faible (y compris le mauvais fonctionnement du système de surveillance de la pression des pneus)</td>
-<td>JAUNE</td>
-<td>
-> Image: Symbole montrant une voiture vue du dessus
-</td>
-</tr>
-<tr>
-<td>Mauvais fonctionnement du système de surveillance de la pression des pneus</td>
-<td>JAUNE</td>
-<td>**TPMS**</td>
-</tr>
-<tr>
-<td>Mauvais fonctionnement du système de contrôle électronique de la stabilité ou de systèmes connexes</td>
-<td>JAUNE</td>
-<td>
-> Image: Symbole montrant une vue de face d’une voiture avec des lignes courbes au-dessous et les mots or/ou ESC
-</td>
-</tr>
-<tr>
-<td>Désactivation du système de contrôle électronique de la stabilité</td>
-<td>JAUNE</td>
-<td>
-> Image: Symbole montrant une vue de face d’une voiture avec des lignes courbes au-dessous et les mots OFF or/ou ESC OFF
-</td>
-</tr>
-</table>
-
-
-<a name='fn_Ind3951_hq_13497'><sup>1</sup></a>: Les parties encadrées du symbole peuvent être pleines.<br />
-
-<a name='fn_Ind3951_hq_13498'><sup>2</sup></a>: Il est permis de dissocier les flèches si leur fonctionnement est indépendant (lumière verte clignotante).<br />
-
-<a name='fn_Ind3951_hq_13499'><sup>3</sup></a>: Des feux d’avertissement ne sont pas nécessaires lorsque les clignotants servent également de feux d’avertissement.<br />
-
-<a name='fn_Ind3951_hq_13500'><sup>4</sup></a>: Il est permis d’utiliser seulement le contour.<br />
-
-<a name='fn_Ind3951_hq_13501'><sup>5</sup></a>: Il est permis d’utiliser le rouge-orange au lieu du rouge et le bleu-vert au lieu du bleu.<br />
-
-<a name='fn_Ind3951_hq_13502'><sup>6</sup></a>: Si un seul témoin est employé pour indiquer plus d’une condition du système de freinage, employer le symbole de mauvais fonctionnement du système de freinage.<br />
-
-<a name='fn_Ind3951_hq_13503'><sup>7</sup></a>: Il est permis d’utiliser un même témoin pour le symbole de la pression d’huile du moteur et le symbole de la température du liquide de refroidissement.<br />
-
-<a name='fn_Ind3951_hq_13504'><sup>8</sup></a>: L’unité de mesure, si elle est indiquée, est le « km ». Dans le cas d’un affichage électronique de l’odomètre pouvant passer de « km » en « mi » ou de « mi » en « km », indépendamment de l’unité de mesure affichée par l’indicateur de vitesse, l’unité doit être indiquée en milles ou kilomètres, selon le cas.<br />
-> DORS/78-257, art. 2; DORS/86-976, art. 2; DORS/93-31, art. 3; DORS/94-374, art. 5; DORS/95-147, art. 7; DORS/95-164, art. 3; DORS/97-200, art. 3; DORS/97-421, art. 18(A), 19(F) et 20(F); DORS/2003-272, art. 7; DORS/2007-180, art. 22(F); DORS/2008-258, art. 7; DORS/2009-318, art. 19(F); DORS/2009-323, art. 2..
+> DORS/78-257, art. 2; DORS/86-976, art. 2; DORS/93-31, art. 3; DORS/94-374, art. 5; DORS/95-147, art. 7; DORS/95-164, art. 3; DORS/97-200, art. 3; DORS/97-421, art. 18(A), 19(F) et 20(F); DORS/2003-272, art. 7; DORS/2007-180, art. 22(F); DORS/2008-258, art. 7; DORS/2009-318, art. 19(F); DORS/2009-323, art. 2; DORS/2015-24, art. 3..
 
 
 
@@ -3740,18 +3877,12 @@ JAUNE
 
 - **(1)** Sous réserve de l’article 135 de la présente annexe, les véhicules de tourisme à usages multiples, les camions et les autobus doivent être conformes aux exigences du Document de normes techniques no 105 — Systèmes de freinage hydraulique et électrique (DNT 105), avec ses modifications successives.
 
-- **(2)** Malgré les dispositions S5.3 et S5.3.5b) du DNT 105, si un indicateur commun est utilisé, celui-ci doit afficher le symbole visé au paragraphe 101(9) de la présente annexe pour le mauvais fonctionnement du système de freinage.
+- **(2)** Le témoin lumineux visé à la disposition S5.3 du DNT 105 doit, lorsqu’il s’allume dans une situation prévue à la disposition S5.3.1 du DNT 105, afficher le symbole d’identification figurant au tableau de l’article 101 de la présente annexe qui correspond à cette situation, mais si le véhicule est muni d’un témoin lumineux commun, celui-ci doit afficher le symbole d’identification figurant au tableau de l’article 101 de la présente annexe qui correspond au mauvais fonctionnement d’un système de freinage.
 
-- **(3)** Malgré la disposition S5.3 du DNT 105, les mots dont l’affichage est exigé par la disposition S5.3.5 du DNT 105 :
-	- **a)** dans les cas visés aux dispositions S5.3.5c)1)A), B) et D) du DNT 105, peuvent être remplacés par un symbole conforme aux couleurs exigées par le paragraphe 101(9.1) de la présente annexe ou accompagnés de celui-ci;
-	- **b)** s’ils n’accompagnent pas un symbole, doivent être dans les deux langues officielles.
+- **(3)** La mention qui figure à la disposition S5.4.3 du DNT 105 peut être remplacée par une autre mention au même effet.
 
-- **(4)** Malgré les dispositions S5.3 et S5.3.5c)1)C) du DNT 105, si un indicateur distinct est utilisé pour signaler le mauvais fonctionnement d’un dispositif de frein antiblocage, celui-ci doit afficher le symbole correspondant qui figure au tableau II de l’article 101 de la présente annexe.
-
-- **(5)** La mention figurant dans la disposition S5.4.3 du DNT 105 peut être remplacée par une autre mention au même effet.
-
-- **(6)** Le présent article cesse d’avoir effet le 31 janvier 2016.
-> DORS/79-374, art. 3; DORS/80-637, art. 1; DORS/86-683, art. 3; DORS/86-976, art. 3; DORS/91-144, art. 1; DORS/96-89, art. 2; DORS/97-200, art. 4 et 6; DORS/97-421, art. 5; DORS/98-524, art. 4(F); DORS/99-357, art. 3; DORS/2001-35, art. 4; DORS/2005-42, art. 13; DORS/2008-104, art. 11; DORS/2009-79, art. 1; DORS/2009-318, art. 19(F); DORS/2011-238, art. 1..
+- **(4) à (6)** [Abrogés, DORS/2015-24, art. 4]
+> DORS/79-374, art. 3; DORS/80-637, art. 1; DORS/86-683, art. 3; DORS/86-976, art. 3; DORS/91-144, art. 1; DORS/96-89, art. 2; DORS/97-200, art. 4 et 6; DORS/97-421, art. 5; DORS/98-524, art. 4(F); DORS/99-357, art. 3; DORS/2001-35, art. 4; DORS/2005-42, art. 13; DORS/2008-104, art. 11; DORS/2009-79, art. 1; DORS/2009-318, art. 19(F); DORS/2011-238, art. 1; DORS/2015-24, art. 4..
 
 
 
@@ -3858,7 +3989,7 @@ JAUNE
 
 - **(12)** Malgré les dispositions S5.1.1 et S7.9 du DNT 108, les montages de projecteur de motocyclette doivent être conformes aux dispositions S7.8.2, S7.8.2.2, S7.8.3, S7.8.4 et S7.8.5.1(c) du DNT 108.
 
-- **(13)** Les autobus scolaires doivent être munis d’un clignotant qui est conforme aux exigences de la pratique recommandée J1054 de la SAE, intitulée *Warning Lamp Alternating Flashers* (octobre 1989), et qui actionne les feux d’avertissement visés à la disposition S5.1.4 du DNT 108.
+- **(13)** Les autobus scolaires autres que les autobus multifonctions pour les activités scolaires doivent être munis d’un clignotant qui est conforme aux exigences de la pratique recommandée J1054 de la SAE, intitulée Warning Lamp Alternating Flashers (octobre 1989), et qui actionne les feux d’avertissement visés à la disposition S5.1.4 du DNT 108.
 
 #### Position de l’équipement obligatoire — Disposition S5.3 du DNT 108
 
@@ -4109,7 +4240,7 @@ JAUNE
 - **(65)** Les feux de jour doivent être conformes aux dispositions S5.1.3 et S5.3 du DNT 108.
 
 - **(66)** [Abrogé, DORS/2014-307, art. 2]
-> DORS/79-306, art. 3; DORS/80-636, art. 2; DORS/84-812, art. 3; DORS/86-979, art. 1; DORS/87-497, art. 2; DORS/87-660, art. 4; DORS/88-268, art. 5; DORS/91-692, art. 2; DORS/94-374, art. 5; DORS/94-692, art. 2(F); DORS/95-147, art. 8; DORS/95-164, art. 5; DORS/96-366, art. 5; DORS/97-421, art. 16, 18(A) et 22(F); DORS/99-112, art. 1; DORS/99-426, art. 1; DORS/2000-182, art. 5; DORS/2001-60, art. 1; DORS/2001-116, art. 1; DORS/2001-353, art. 2; DORS/2003-272, art. 10; DORS/2005-42, art. 1 et 2; DORS/2006-94, art. 4(A); DORS/2008-104, art. 12; DORS/2009-330, art. 2; DORS/2014-307, art. 2..
+> DORS/79-306, art. 3; DORS/80-636, art. 2; DORS/84-812, art. 3; DORS/86-979, art. 1; DORS/87-497, art. 2; DORS/87-660, art. 4; DORS/88-268, art. 5; DORS/91-692, art. 2; DORS/94-374, art. 5; DORS/94-692, art. 2(F); DORS/95-147, art. 8; DORS/95-164, art. 5; DORS/96-366, art. 5; DORS/97-421, art. 16, 18(A) et 22(F); DORS/99-112, art. 1; DORS/99-426, art. 1; DORS/2000-182, art. 5; DORS/2001-60, art. 1; DORS/2001-116, art. 1; DORS/2001-353, art. 2; DORS/2003-272, art. 10; DORS/2005-42, art. 1 et 2; DORS/2006-94, art. 4(A); DORS/2008-104, art. 12; DORS/2009-330, art. 2; DORS/2014-307, art. 2; DORS/2015-23, art. 3..
 
 
 
@@ -5087,7 +5218,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 		- **(i)** soit d’une motocyclette qui est conçue pour rouler sur trois roues en contact avec le sol,
 		- **(ii)** soit d’une motocyclette qui est conçue pour rouler sur deux roues en contact avec le sol et qui est équipée d’un side-car.
 
-- **(7)** Malgré la disposition S5.1.3.1d) du DNT 122, le témoin lumineux doit afficher le symbole d’identification figurant au tableau II de l’article 101 de la présente annexe et correspondant au mauvais fonctionnement du système de freinage, mais l’utilisation de la légende visée à la disposition S5.1.3.1d) du DNT 122 est facultative.
+- **(7)** Malgré la disposition S5.1.3.1d) du DNT 122, le témoin lumineux doit afficher le témoin de mauvais fonctionnement du système de freinage qui figure au tableau de l’article 101 de la présente annexe. L’utilisation de la légende visée à la disposition S5.1.3.1d) du DNT 122 est facultative.
 
 - **(8)** La masse du véhicule visée à la disposition S6.1 du DNT 122 se limite à la valeur maximale égale au PNBV de la motocyclette.
 
@@ -5115,15 +5246,12 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(16)** Malgré la seconde phrase du paragraphe 5.1.6 du règlement n<sup>o</sup> 78 de la CEE, la présence d’un frein sur la roue du side-car n’est jamais exigée.
 
-- **(17)** La lampe témoin visée au paragraphe 5.1.12 du règlement n<sup>o</sup> 78 de la CEE doit afficher le symbole d’identification figurant au tableau II de l’article 101 de la présente annexe et correspondant au mauvais fonctionnement du système de freinage.
+- **(17)** Toute mention, au paragraphe 5.1.12 du règlement n<sup>o</sup> 78 de la CEE, d’une lampe témoin vaut mention du témoin de mauvais fonctionnement du système de freinage qui figure au tableau de l’article 101 de la présente annexe.
 
-- **(18)** La lampe témoin visée au paragraphe 5.1.13 du règlement n<sup>o</sup> 78 de la CEE doit afficher le symbole d’identification figurant au tableau II de l’article 101 de la présente annexe et correspondant au mauvais fonctionnement du dispositif de frein antiblocage.
+- **(18)** Toute mention, au paragraphe 5.1.13 du règlement n<sup>o</sup> 78 de la CEE, d’une lampe témoin vaut mention du témoin de mauvais fonctionnement du système de freinage antiblocage qui figure au tableau de l’article 101 de la présente annexe.
 
-#### Cessation d’effet
-
-
-- **(19)** Le présent article cesse d’avoir effet le 31 mars 2018.
-> DORS/81-88, art. 3; DORS/88-268, art. 9; DORS/98-524, art. 4(F); DORS/2001-255, art. 1; DORS/2003-272, art. 18; DORS/2005-42, art. 3 et 4; DORS/2009-330, art. 4; DORS/2011-263, art. 3; DORS/2014-82, art. 4..
+- **(19)** [Abrogé, DORS/2015-24, art. 5]
+> DORS/81-88, art. 3; DORS/88-268, art. 9; DORS/98-524, art. 4(F); DORS/2001-255, art. 1; DORS/2003-272, art. 18; DORS/2005-42, art. 3 et 4; DORS/2009-330, art. 4; DORS/2011-263, art. 3; DORS/2014-82, art. 4; DORS/2015-24, art. 5..
 
 
 
@@ -5204,12 +5332,12 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 **131** 
 
-- **(1)** Sous réserve du paragraphe (2), les autobus scolaires doivent être munis d’un ou de deux bras d’arrêt qui sont conformes aux exigences du Document de normes techniques no 131 — Dispositifs de sécurité pour les piétons à proximité des autobus scolaires (DNT 131), avec ses modifications successives.
+- **(1)** Sous réserve du paragraphe (2), les autobus scolaires autres que les autobus multifonctions pour les activités scolaires doivent être munis d’un ou de deux signaux d’arrêt escamotables qui sont conformes aux exigences du Document de normes techniques no 131 — Dispositifs de sécurité pour les piétons à proximité des autobus scolaires (DNT 131), avec ses modifications successives.
 
 - **(2)** Le mot « ARRÊT » peut figurer à la place du mot « *STOP* » ou avec celui-ci, de la manière précisée pour le mot « *STOP* » à la disposition S5.2.2 du DNT 131.
 
 - **(3)** [Abrogé, DORS/2014-307, art. 12]
-> DORS/96-366, art. 9; DORS/2001-116, art. 2; DORS/2005-42, art. 5 et 6; DORS/2009-79, art. 3; DORS/2011-238, art. 3; DORS/2014-307, art. 12..
+> DORS/96-366, art. 9; DORS/2001-116, art. 2; DORS/2005-42, art. 5 et 6; DORS/2009-79, art. 3; DORS/2011-238, art. 3; DORS/2014-307, art. 12; DORS/2015-23, art. 4..
 
 
 
@@ -5224,18 +5352,12 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(2)** La mention figurant à la disposition S5.4.3 du DNT 135 peut être remplacée par une autre mention au même effet.
 
-- **(3)** Malgré les dispositions S5.5 et S5.5.5b) du DNT 135, si un indicateur commun est utilisé, celui-ci doit afficher le symbole visé au paragraphe 101(9) de la présente annexe pour le mauvais fonctionnement du système de freinage.
+- **(3)** L’indicateur de fonctionnement du système de freinage visé à la disposition S5.5.5 du DNT 135 doit, lorsqu’il s’allume dans une situation prévue à la disposition S5.5.1 du DNT 135, afficher le symbole d’identification figurant au table de l’article 101 de la présente annexe qui correspond à cette situation, mais si le véhicule est muni d’un indicateur de fonctionnement de système de freinage commun, celui-ci doit afficher le symbole d’identification figurant au tableau de l’article 101 de la présente annexe qui correspond au mauvais fonctionnement d’un système de freinage.
 
-- **(4)** Malgré la disposition S5.5 du DNT 135, les mots dont l’affichage est exigé par la disposition S5.5.5 du DNT 135 :
-	- **a)** dans les cas visés aux dispositions S5.5.5d)1), 2), 4) et 5) du DNT 135 et dans le cas de l’indicateur du compensateur de freinage visé à la disposition S5.5.5d)3) du DNT 135, peuvent être remplacés par un symbole conforme aux couleurs exigées par le paragraphe 101(9.1) de la présente annexe ou accompagnés de celui-ci;
-	- **b)** s’ils n’accompagnent pas un symbole, doivent être dans les deux langues officielles.
+- **(4)** Le mot « car » employé dans les dispositions S6.3.6 et S6.3.7 de la version anglaise du DNT 135 vaut mention de « vehicle ».
 
-- **(5)** Malgré les dispositions S5.5 et S5.5.5d)3) du DNT 135, si un indicateur distinct est utilisé pour signaler une défaillance du fonctionnement électrique d’un dispositif de frein antiblocage, celui-ci doit afficher le symbole correspondant qui figure au tableau II de l’article 101 de la présente annexe.
-
-- **(6)** Le mot « *car* » employé dans les dispositions S6.3.6 et S6.3.7 de la version anglaise du DNT 135 vaut mention de « *vehicle* ».
-
-- **(7)** Le présent article cesse d’avoir effet le 31 janvier 2016.
-> DORS/97-200, art. 5; DORS/99-357, art. 5; DORS/2001-35, art. 6; DORS/2003-272, art. 20; DORS/2005-42, art. 13; DORS/2006-94, art. 4(A); DORS/2008-104, art. 15; DORS/2009-79, art. 4; DORS/2009-318, art. 19(F); DORS/2011-238, art. 3..
+- **(5) à (7)** [Abrogés, DORS/2015-24, art. 6]
+> DORS/97-200, art. 5; DORS/99-357, art. 5; DORS/2001-35, art. 6; DORS/2003-272, art. 20; DORS/2005-42, art. 13; DORS/2006-94, art. 4(A); DORS/2008-104, art. 15; DORS/2009-79, art. 4; DORS/2009-318, art. 19(F); DORS/2011-238, art. 3; DORS/2015-24, art. 6..
 
 
 
