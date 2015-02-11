@@ -212,7 +212,7 @@ Enabling authorities:
 
 ***disc wheel*** means a supporting member for a tire or tire and tube assembly, comprising a rim with a dish-shaped component that is permanently attached to the inner circumference of the rim; (*roue à disque*)
 
-***display*** means an indicator, a tell-tale or an alphanumeric readout, or a collection of indicators, tell-tales and alphanumeric readouts, on the instrument panel of a vehicle; (*affichage*)
+***display*** means, except in section 101 of Schedule IV, an indicator, a tell-tale or an alphanumeric readout, or a collection of indicators, tell-tales and alphanumeric readouts, on the instrument panel of a vehicle; (*affichage*)
 
 ***distributor***[Repealed, SOR/95-147, s. 1]
 
@@ -446,6 +446,8 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a pa
 
 ***Motor Vehicle Safety Test Methods, section 116, “Hydraulic Brake Fluids”***[Repealed, SOR/2007-180, s. 1]
 
+***multifunction school activity bus*** means a school bus that is designed to pick up and drop off students under circumstances in which there is no need to control traffic. (*autobus multifonction pour les activités scolaires*)
+
 ***multiple compartment lamp***[Repealed, SOR/96-366, s. 1]
 
 ***multiple lamp arrangement***[Repealed, SOR/96-366, s. 1]
@@ -582,7 +584,7 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a pa
 
 ***SAE Compatibility Fluid***[Repealed, SOR/2007-180, s. 1]
 
-***school bus*** means a bus designed or equipped primarily to carry students to and from school; (*autobus scolaire*)
+***school bus*** means a bus designed or equipped primarily to carry students to and from school or to and from school-related events; (*autobus scolaire*)
 
 ***scuffing***[Repealed, SOR/2007-180, s. 1]
 
@@ -760,7 +762,7 @@ except that the volume of fuel referred to in paragraph (b) does not include an
 ***95th percentile adult male*** means a person having as physical characteristics a mass of 97.5 kg, height of 1849 mm, erect sitting height of 965 mm, normal sitting height of 930 mm, hip sitting breadth of 419 mm, hip sitting circumference of 1199 mm, waist sitting circumference of 1080 mm, chest depth of 267 mm, chest circumference of 1130 mm, knee height of 594 mm, popliteal height of 490 mm, elbow rest height of 295 mm, thigh clearance height of 175 mm, buttock-to-knee length of 640 mm, buttock-to-poples length of 549 mm, elbow-to-elbow breadth of 506 mm and seat breadth of 404 mm. (*95<sup>e</sup> percentile adulte du sexe masculin*)
 
 - **(2)** [Repealed, SOR/2009-318, s. 1]
-> SOR/78-257, s. 1; SOR/78-351, s. 1; SOR/78-525, s. 1; SOR/79-306, s. 1; SOR/79-339, s. 1; SOR/79-340, s. 1; SOR/79-374, s. 1; SOR/79-677, s. 1; SOR/79-719, s. 1; SOR/79-940, s. 1; SOR/80-161, s. 1; SOR/80-282, s. 1; SOR/80-439, s. 1; SOR/80-440, s. 1; SOR/80-636, s. 1; SOR/80-638, s. 1; SOR/80-782, s. 1; SOR/81-88, s. 1; SOR/81-1033, s. 1; SOR/82-569, s. 1; SOR/82-656, s. 1; SOR/82-753, s. 1; SOR/82-754, s. 1; SOR/83-176, s. 1; SOR/83-859, s. 1; SOR/84-374, s. 1; SOR/84-812, s. 1; SOR/86-161, s. 1; SOR/86-683, s. 1; SOR/86-976, s. 1; SOR/86-977, s. 1; SOR/87-154, s. 1; SOR/87-497, s. 1; SOR/87-578, s. 1; SOR/87-660, s. 1; SOR/88-268, s. 1; SOR/89-384, s. 1; SOR/90-588, s. 1; SOR/90-805, s. 1; SOR/91-425, s. 1; SOR/91-692, s. 1; SOR/92-173, s. 1; SOR/92-250, s. 1; SOR/92-545, s. 1; SOR/93-5, s. 1; SOR/93-31, s. 1; SOR/93-146, s. 1; SOR/93-561, s. 1; SOR/94-291, s. 1; SOR/94-669, s. 1; SOR/94-670, s. 2(F); SOR/94-692, s. 2(F); SOR/94-717, s. 1; SOR/95-147, s. 1; SOR/95-164, s. 1; SOR/95-536, s. 7; SOR/96-366, s. 1; SOR/97-141, s. 1; SOR/97-200, s. 1; SOR/97-201, s. 1; SOR/97-421, ss. 1, 17, 22(F); SOR/97-447, s. 1; SOR/98-125, s. 1; SOR/98-160, s. 1; SOR/98-457, s. 1; SOR/98-524, s. 1(F); SOR/99-357, s. 1; SOR/2000-182, s. 1; SOR/2000-304, s. 1; SOR/2001-35, s. 1; SOR/2001-117, s. 1; SOR/2001-152, s. 1; SOR/2002-15, s. 25(F); SOR/2002-55, s. 1; SOR/2002-187, s. 1; SOR/2002-205, s. 1; SOR/2003-57, s. 3(F); SOR/2003-272, s. 1; SOR/2004-250, s. 1; SOR/2005-45, s. 1; SOR/2006-94, s. 4(E); SOR/2007-180, s. 1; SOR/2008-72, s. 1; SOR/2008-73, s. 1; SOR/2008-104, s. 1; SOR/2008-229, s. 1; SOR/2008-258, s. 1; SOR/2009-291, s. 1; SOR/2009-318, s. 1; SOR/2011-263, s. 1; SOR/2011-264, s. 1; SOR/2013-9, s. 1; SOR/2013-117, s. 1.
+> SOR/78-257, s. 1; SOR/78-351, s. 1; SOR/78-525, s. 1; SOR/79-306, s. 1; SOR/79-339, s. 1; SOR/79-340, s. 1; SOR/79-374, s. 1; SOR/79-677, s. 1; SOR/79-719, s. 1; SOR/79-940, s. 1; SOR/80-161, s. 1; SOR/80-282, s. 1; SOR/80-439, s. 1; SOR/80-440, s. 1; SOR/80-636, s. 1; SOR/80-638, s. 1; SOR/80-782, s. 1; SOR/81-88, s. 1; SOR/81-1033, s. 1; SOR/82-569, s. 1; SOR/82-656, s. 1; SOR/82-753, s. 1; SOR/82-754, s. 1; SOR/83-176, s. 1; SOR/83-859, s. 1; SOR/84-374, s. 1; SOR/84-812, s. 1; SOR/86-161, s. 1; SOR/86-683, s. 1; SOR/86-976, s. 1; SOR/86-977, s. 1; SOR/87-154, s. 1; SOR/87-497, s. 1; SOR/87-578, s. 1; SOR/87-660, s. 1; SOR/88-268, s. 1; SOR/89-384, s. 1; SOR/90-588, s. 1; SOR/90-805, s. 1; SOR/91-425, s. 1; SOR/91-692, s. 1; SOR/92-173, s. 1; SOR/92-250, s. 1; SOR/92-545, s. 1; SOR/93-5, s. 1; SOR/93-31, s. 1; SOR/93-146, s. 1; SOR/93-561, s. 1; SOR/94-291, s. 1; SOR/94-669, s. 1; SOR/94-670, s. 2(F); SOR/94-692, s. 2(F); SOR/94-717, s. 1; SOR/95-147, s. 1; SOR/95-164, s. 1; SOR/95-536, s. 7; SOR/96-366, s. 1; SOR/97-141, s. 1; SOR/97-200, s. 1; SOR/97-201, s. 1; SOR/97-421, ss. 1, 17, 22(F); SOR/97-447, s. 1; SOR/98-125, s. 1; SOR/98-160, s. 1; SOR/98-457, s. 1; SOR/98-524, s. 1(F); SOR/99-357, s. 1; SOR/2000-182, s. 1; SOR/2000-304, s. 1; SOR/2001-35, s. 1; SOR/2001-117, s. 1; SOR/2001-152, s. 1; SOR/2002-15, s. 25(F); SOR/2002-55, s. 1; SOR/2002-187, s. 1; SOR/2002-205, s. 1; SOR/2003-57, s. 3(F); SOR/2003-272, s. 1; SOR/2004-250, s. 1; SOR/2005-45, s. 1; SOR/2006-94, s. 4(E); SOR/2007-180, s. 1; SOR/2008-72, s. 1; SOR/2008-73, s. 1; SOR/2008-104, s. 1; SOR/2008-229, s. 1; SOR/2008-258, s. 1; SOR/2009-291, s. 1; SOR/2009-318, s. 1; SOR/2011-263, s. 1; SOR/2011-264, s. 1; SOR/2013-9, s. 1; SOR/2013-117, s. 1; SOR/2015-23, s. 1; SOR/2015-24, s. 1.
 
 
 
@@ -1000,8 +1002,9 @@ where
 		- **(xviii)** “TRI” to refer to a motor tricycle,
 		- **(xix)** “TRU/CAM” to refer to a truck,
 		- **(xx)** “TT/CT” to refer to a truck tractor,
-		- **(xxi)** “TWV/VTR” to refer to a three-wheeled vehicle, and
-		- **(xxii)** ”SNO/MNG” to refer to a snowmobile;
+		- **(xxi)** “TWV/VTR” to refer to a three-wheeled vehicle,
+		- **(xxii)** ”SNO/MNG” to refer to a snowmobile, and
+		- **(xxiii)** “MFSAB/AMAS” to refer to a multifunction school activity bus;
 	- **(g)** in the case of a C-dolly, the mounting height, expressed in both official languages, of the coupling when the C-dolly is not loaded; and
 	- **(h)** in the case of a trailer that is designed to tow a C-dolly, the mounting height, expressed in both official languages, of the coupling when the trailer is not loaded;
 	- **(i)** [Repealed, SOR/2002-55, s. 4]
@@ -1056,7 +1059,7 @@ where
 	- **(b)** the short title of the exemption order.
 
 - **(12) and (13)** [Repealed, SOR/2000-182, s. 2]
-> SOR/79-940, s. 2; SOR/81-455, s. 1; SOR/82-482, s. 4; SOR/87-660, s. 2; SOR/88-268, s. 3; SOR/91-528, s. 1; SOR/93-146, s. 2; SOR/95-147, s. 2; SOR/98-125, s. 3; SOR/2000-182, s. 2; SOR/2000-304, s. 2; SOR/2002-55, ss. 4, 21; SOR/2003-272, s. 4; SOR/2004-250, s. 2; SOR/2005-342, s. 1; SOR/2006-94, s. 4(E); SOR/2008-258, s. 3.
+> SOR/79-940, s. 2; SOR/81-455, s. 1; SOR/82-482, s. 4; SOR/87-660, s. 2; SOR/88-268, s. 3; SOR/91-528, s. 1; SOR/93-146, s. 2; SOR/95-147, s. 2; SOR/98-125, s. 3; SOR/2000-182, s. 2; SOR/2000-304, s. 2; SOR/2002-55, ss. 4, 21; SOR/2003-272, s. 4; SOR/2004-250, s. 2; SOR/2005-342, s. 1; SOR/2006-94, s. 4(E); SOR/2008-258, s. 3; SOR/2015-23, s. 2.
 
 
 
@@ -1627,7 +1630,7 @@ Issued in Ottawa on _________________________, 20_________________________
 </tr>
 <tr>
 <td>101</td>
-<td>Location and Identification of Controls and Displays</td>
+<td>Controls, Tell-tales, Indicators and Sources of Illumination</td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -2891,7 +2894,7 @@ Issued in Ottawa on _________________________, 20_________________________
 </tr>
 </table>
 
-> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F);SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1; SOR/2007-180, ss. 2 to 4; SOR/2007-246, s. 1; SOR/2008-73, s. 2; SOR/2008-104, ss. 7(F), 8(F); SOR/2008-229, s. 2; SOR/2008-258, ss. 5, 6; SOR/2009-33, s. 1(F); SOR/2009-121, s. 1; SOR/2009-291, ss. 2, 3; SOR/2009-318, ss. 4, 5(E), 6(F), 7(F); SOR/2009-323, s. 1; SOR/2011-264, s. 3; SOR/2013-117, ss. 4, 5.
+> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F);SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1; SOR/2007-180, ss. 2 to 4; SOR/2007-246, s. 1; SOR/2008-73, s. 2; SOR/2008-104, ss. 7(F), 8(F); SOR/2008-229, s. 2; SOR/2008-258, ss. 5, 6; SOR/2009-33, s. 1(F); SOR/2009-121, s. 1; SOR/2009-291, ss. 2, 3; SOR/2009-318, ss. 4, 5(E), 6(F), 7(F); SOR/2009-323, s. 1; SOR/2011-264, s. 3; SOR/2013-117, ss. 4, 5; SOR/2015-24, s. 2.
 
 
 
@@ -2908,508 +2911,640 @@ Issued in Ottawa on _________________________, 20_________________________
 **PART II** 
 
 
-### Location and Identification of Controls and Displays
+### Controls, Tell-tales, Indicators and Sources of Illumination (Standard 101)
+
+
+#### Interpretation
 
 **101** 
 
-- **(1)** The following controls and components, where fitted on a vehicle, shall be fitted in such a manner that they are operable by the driver while the driver is seated in the driver’s designated seating position with the driver’s seat belt fastened around the driver in accordance with the manufacturer’s instructions:
-	- **(a)** the accelerator;
-	- **(b)** the automatic vehicle speed system;
-	- **(c)** the choke, if manually operated;
-	- **(d)** the clutch pedal;
-	- **(e)** the driver’s sun visor;
-	- **(f)** the engine start control;
-	- **(g)** the engine stop control;
-	- **(h)** the hand throttle;
-	- **(i)** the hazard warning switch;
-	- **(j)** the headlamp upper or lower beam switch;
-	- **(k)** the horn;
-	- **(l)** the ignition switch;
-	- **(m)** the illumination intensity control;
-	- **(n)** the master lighting switch;
-	- **(o)** the parking brake pedal or lever;
-	- **(p)** the rear window defog and defrost control;
-	- **(q)** the service brake pedal or lever;
-	- **(r)** the steering wheel;
-	- **(s)** the transmission control, except for the transfer case;
-	- **(t)** the turn signal control;
-	- **(u)** the windshield defog and defrost system control;
-	- **(v)** the windshield washing system control;
-	- **(w)** the windshield wiping system control;
-	- **(x)** the clearance lamps switch;
-	- **(y)** the identification lamps switch; and
-	- **(z)** the electronic stability control system off control.
+- **(1)** For the purposes of this section, ***control*** has the same meaning as in Technical Standards Document No. 101, Controls, Tell-tales, Indicators and Sources of Illumination (TSD 101).
 
-- **(2)** Where fitted on a vehicle, the displays for the following functions and malfunctions shall be fitted in such a manner that they are identifiable by the driver while the driver is seated in the driver’s designated seating position with the driver’s seat belt fastened around the driver in accordance with the manufacturer’s instructions:
-	- **(a)** the headlamp upper beam;
-	- **(b)** the turn signals;
-	- **(c)** the hazard warning signal;
-	- **(d)** a seat belt;
-	- **(e)** the fuel level;
-	- **(f)** the engine oil pressure;
-	- **(g)** the engine coolant temperature;
-	- **(h)** the battery charging condition;
-	- **(i)** a brake system malfunction;
-	- **(j)** an air brake low pressure;
-	- **(k)** an antilock brake system malfunction;
-	- **(l)** a variable brake proportioning system malfunction;
-	- **(m)** the parking brake applied;
-	- **(n)** a low brake fluid condition;
-	- **(o)** a gross loss of brake pressure condition;
-	- **(p)** a brake lining wear-out condition;
-	- **(q)** the transmission control position;
-	- **(r)** the speedometer;
-	- **(s)** the odometer;
-	- **(t)** a low tire pressure warning that does not identify which tire has low pressure;
-	- **(u)** a low tire pressure warning that identifies which tire has low pressure;
-	- **(v)** a tire pressure monitoring system malfunction;
-	- **(w)** an electronic stability control system malfunction; and
-	- **(x)** the deactivation of the electronic stability control system.
+#### General
 
-- **(3)** An identification that is recognizable by the driver in daylight, that is located on or adjacent to the relevant manual control and that appears to be upright when the control is in the off position shall be provided for
-	- **(a)** each function of or, where a quantitative range is used, the extreme positions of
-		- **(i)** the heating and air-conditioning system controls, and
-		- **(ii)** the automatic vehicle speed control;
-	- **(b)** the engine start control, if separate from the key-locking system;
-	- **(c)** the engine stop control, if separate from the key-locking system;
-	- **(d)** the hand throttle;
-	- **(e)** the identification lamp and clearance lamp switches, if separate from the master lighting switch; and
-	- **(f)** the choke, if manually operated.
 
-- **(4)** Where colour coding is used to identify the extreme positions of heating and air-conditioning system controls, the hot extreme shall be identified by the colour red and the cold extreme shall be identified by the colour blue.
+- **(2)** Every vehicle that is required by section 5 of these Regulations to conform to the standards set out in this section shall, in respect of the controls, tell-tales, indicators and sources of illumination that are fitted in the occupant compartment, conform to the requirements of TSD 101, as amended from time to time.
 
-- **(5)** An identification, similar to the corresponding identification symbol in Table I to this section, that is recognizable by the driver in daylight, that is located on or adjacent to the relevant hand-operated control and that appears to be upright when the control is in the off position shall be provided for
-	- **(a)** the clearance lamps, identification lamps and side marker lamps switch, if separate from the master lighting switch;
-	- **(b)** the hazard warning system;
-	- **(c)** the headlamp upper and lower beams, except where operated by a control located on the left side of the steering column adjacent to the steering wheel;
-	- **(d)** the horn, except where activated by a lanyard;
-	- **(e)** the master lighting switch;
-	- **(f)** the rear window defog and defrost system;
-	- **(g)** the turn signal, except where its control is located on the left side of the steering column, adjacent to the steering wheel, in a plane essentially parallel to the steering wheel face plane;
-	- **(h)** the fan for the heating and ventilation systems;
-	- **(i)** the windshield defog and defrost system;
-	- **(j)** the windshield washing system, if manually operated;
-	- **(k)** the windshield wiping and washing system, if combined;
-	- **(l)** the windshield wiping system; and
-	- **(m)** the electronic stability control system off control.
+#### Technical Standards Document No. 101
 
-- **(6)** Notwithstanding subsections (3) and (5), the requirement that the identification appear to be upright does not apply
-	- **(a)** to a horn control that is located on a steering wheel or to a control that adjusts by means of a rotary motion and does not have an off position; or
-	- **(b)** to an automatic vehicle speed control located on the steering wheel, or on the steering wheel hub or spokes, when the vehicle, aligned to the manufacturer’s specifications, has the steering wheel positioned for the vehicle to travel in a direction other than straight forward.
 
-- **(7)** The identification in respect of each of the controls for the systems referred to in paragraphs (3)(a), (c) and (e) and (5)(a) to (c) and (f) to (m), other than an identification symbol in respect of a foot control, of a hand control that is mounted on the steering column, on the floor, on the floor console or in the windshield header area, or of a control for an air-conditioning and heating system that does not direct air directly onto the windshield, shall
-	- **(a)** be illuminated whenever the headlamps are activated; and
-	- **(b)** when illuminated, emit light at one of at least two levels of intensity, one of which is so low as to be barely discernible to a driver whose eyes have adapted to dark ambient road conditions.
+- **(3)** Despite S5.2.1 of TSD 101,
+	- **(a)** if the left turn signal and the right turn signal each have their own control or tell-tale, the arrows in the symbol required for the turn signals control or tell-tale may be disassociated and each arrow may be used separately as a distinct symbol;
+	- **(b)** if the left turn signal and the right turn signal each have their own tell-tale and the arrows in the symbol required for the turn signals tell-tale are disassociated so that each arrow is used separately as a distinct symbol, the simultaneous flashing of the left and right turn signal tell-tales may be used as the hazard warning signal tell-tale;
+	- **(c)** the identification of a control set out below is not required if the control is combined with the master lighting switch:
+		- **(i)** the control for the tail lamps, parking lamps, licence plate lamps, side marker lamps, identification lamps and clearance lamps, and
+		- **(ii)** the headlamp lower beam control;
+	- **(d)** if a single tell-tale is used to indicate more than one brake system condition, only the symbol required for the brake system malfunction shall be used;
+	- **(e)** the identification of a control set out below is not required if the control is an integral part of the key-locking system of the vehicle:
+		- **(i)** the engine start control, and
+		- **(ii)** the engine stop control;
+	- **(f)** the identification required for the drive position of the automatic transmission control may be replaced by a letter, a number, a combination of letters and numbers, or any symbol that is not set out in column 2 of the table to this section;
+	- **(g)** the symbol required for the engine start control may be replaced by the word “start”;
+	- **(h)** the symbol required for the engine stop control may be replaced by the word “stop”;
+	- **(i)** the symbol required for the electronic stability control system malfunction tell-tale may be replaced by the abbreviation “ESC”;
+	- **(j)** the symbol required for the electronic stability control system off control and tell-tale may be replaced by the abbreviation “ESC OFF”; and
+	- **(k)** until August 31, 2018, the symbol required for the passenger air bag deactivated control and tell-tale may be replaced by the words “passenger air bag off” or “pass air bag off”.
 
-- **(8)** When the headlamps are being flashed or operated as daytime running lamps at a reduced light intensity, it is not necessary to illuminate the controls for the systems referred to in subsection (7).
+#### Speedometers and Odometers
 
-- **(9)** Subject to subsections (10) to (12), the following displays, where fitted on a vehicle with a GVWR of 4 536 kg (10,000 pounds) or less, shall be accompanied by an identification similar to the identification for that display shown in Table II to this section, in a position that appears to be upright, on or adjacent to the display it identifies:
-	- **(a)** the headlamp upper beam tell-tale;
-	- **(b)** the turn signal tell-tale;
-	- **(c)** the hazard warning tell-tale;
-	- **(d)** the seat belt tell-tale;
-	- **(e)** the fuel level indicator or tell-tale;
-	- **(f)** the engine oil pressure indicator or tell-tale;
-	- **(g)** the engine coolant temperature indicator or tell-tale;
-	- **(h)** the battery charging condition indicator or tell-tale;
-	- **(i)** the brake system malfunction tell-tale;
-	- **(j)** the antilock brake system malfunction tell-tale;
-	- **(k)** the speedometer;
-	- **(l)** the odometer;
-	- **(m)** the low tire pressure tell-tale that does not identify which tire has low pressure;
-	- **(n)** the low tire pressure tell-tale that identifies which tire has low pressure;
-	- **(o)** the tire pressure monitoring system malfunction tell-tale;
-	- **(p)** the electronic stability control system malfunction tell-tale; and
-	- **(q)** the electronic stability control system off tell-tale.
 
-- **(9.1)** Where fitted on a passenger car or three-wheeled vehicle, the following displays, a description of which is given in section 135 of this Schedule and in TSD 135, mentioned in that section, shall be in the colour specified in Table II to this section:
-	- **(a)** the variable brake proportioning system malfunction;
-	- **(b)** the parking brake applied;
-	- **(c)** the low brake fluid condition;
-	- **(d)** the gross loss of brake pressure condition; and
-	- **(e)** the brake lining wear-out condition.
+- **(4)** A speedometer shall indicate the speed of the vehicle in kilometres per hour or in kilometres per hour and miles per hour. The unit or units of measurement shall be identified on the speedometer or at a location adjacent to it.
 
-- **(10)** The indicators referred to in paragraphs (9)(e) to (h), (k) and (l) and the indicator for the automatic transmission control position shall
-	- **(a)** be illuminated whenever the headlamps are activated; and
-	- **(b)** when illuminated, emit light at one of at least two levels of intensity, one of which is so low as to be barely discernible to a driver whose eyes have adapted to dark ambient road conditions.
+- **(5)** A speedometer shall be illuminated whenever the headlamps are activated, unless the headlamps are being flashed for signalling purposes or are being operated as daytime running lamps.
 
-- **(11)** When the headlamps are being flashed or operated as daytime running lamps, it is not necessary for the indicators referred to in section 10 to be illuminated.
+- **(6)** An odometer or trip odometer shall indicate distances in kilometres or in miles. If the distances are indicated in miles, that unit of measurement shall be identified at a location adjacent to the odometer or trip odometer.
 
-- **(12)** Where tell-tales are fitted with the corresponding indicators referred to in any of paragraphs (9)(e) to (h), the identification required by subsection (9) may be omitted from the tell-tale.
+#### Passenger Air Bag Deactivated Tell-tale
 
-- **(13)** A tell-tale, while activated,
-	- **(a)** shall, where a colour is specified for that tell-tale in Table II to this section, be of that colour;
-	- **(b)** shall be of a colour that contrasts with its background;
-	- **(c)** in the case of a tell-tale that identifies the headlamp upper beam, the turn signal, the hazard warning signal, the seat belt or a brake system malfunction, shall not be adjustable to a level that makes it invisible under any lighting condition; and
-	- **(d)** shall be identifiable by the driver under all lighting conditions.
 
-- **(14)** Except as provided in subsection (20) and in S5.5.5 of Technical Standards Document No. 126, Electronic Stability Control Systems, no tell-tale shall emit light except
-	- **(a)** while identifying a malfunction or vehicle condition that it is designed to identify; or
-	- **(b)** during a bulb check conducted when the engine is turned on.
+- **(7)** The tell-tale indicating that the passenger air bag has been deactivated shall be fitted in the interior of the vehicle
+	- **(a)** forward of and above the seating reference point of each front outboard designated seating position when the seat is in its forwardmost position; and
+	- **(b)** in such a manner that the tell-tale, when alight, is visible to the driver and any front passenger when they are restrained by seat belts that are adjusted in accordance with the vehicle manufacturer’s instructions.
 
-- **(15)** Notwithstanding subsections (13) and (14), if the headlamp upper beam tell-tale is illuminated when the upper beam headlamps are operated as daytime running lamps at reduced voltage, the headlamp upper beam tell-tale shall emit light of an intensity that is discernibly lower than the intensity of the light emitted when the upper beam headlamps are operated at regular voltage, except that the headlamp upper beam tell-tale may flash at full intensity in the event of a malfunction of the daytime running lamps.
+- **(8)** Despite subsection (7), the tell-tale indicating that the passenger air bag has been deactivated
+	- **(a)** shall not be fitted at or adjacent to a location that can serve for storage if an object stored at that location will obstruct the tell-tale from the view of the driver and any front passenger when they are restrained by seat belts that are adjusted in accordance with the vehicle manufacturer’s instructions; and
+	- **(b)** shall not be fitted at a location where the tell-tale will not be completely visible to the driver when the driver is restrained by a seat belt that is adjusted in accordance with the vehicle manufacturer’s instructions and a rearward-facing child restraint system or an infant restraint system is installed in the forwardmost right outboard designated seating position.
 
-- **(16)** Illumination that is provided in the driver’s compartment of a vehicle and that is not subject to subsection (7), (10) or (13) shall
-	- **(a)** have a means of being turned off;
-	- **(b)** be manually or automatically adjustable to provide at least two levels of brightness; or
-	- **(c)** be of an intensity such that it is barely discernible to a driver whose eyes have adapted to dark ambient roadway conditions.
+#### Owner’s Manual
 
-- **(17)** Speedometers shall be calibrated in kilometres per hour.
 
-- **(18)** Odometers and trip record counters shall be calibrated in kilometres.
+- **(9)** The English and French versions of the owner’s manual shall contain an explanation of every symbol, word, abbreviation or letter used to identify a control, tell-tale or indicator that is fitted in the vehicle and is required to be identified under this section.
 
-- **(18.1)** Notwithstanding subsection (18), the odometer and trip record counter may be calibrated in miles if a label is applied in the vicinity of the odometer stating that the vehicle odometer reads in miles.
+#### Transitional Provision
 
-- **(19)** In addition to the identification required by subsections (5) and (9), a manufacturer may use the symbols that are included in International Organization for Standardization (ISO) International Standard ISO 2575, entitled Road Vehicles - Symbols for controls, indicators and tell-tales, 4th edition, 1982.
 
-- **(20)** A tell-tale or indicator listed in Table II to this section shall be activated
-	- **(a)** at the beginning of the vehicle’s operating condition to which it relates; or
-	- **(b)** in the case of a seat belt tell-tale, as required by section 208 of this schedule.
+- **(10)** Until September 1, 2019, a vehicle referred to in subsection (2) may conform to the requirements of this section as it read on the day before the day on which this subsection came into force.
 
 - 
-#### TABLE I
+#### TABLE
 <table>
-<h4>Symbols for Identifying Controls</h4>
+<h4>Identification of Controls, Tell-tales and Indicators</h4>
 <tr>
-<th>Control</th>
-<th>Identification</th>
+<th>Column 1</th>
+<th>Column 2</th>
+<th>Column 3</th>
+<th>Column 4</th>
+<th>Column 5</th>
+<th>Column 6</th>
 </tr>
 <tr>
-<td>Clearance lamps, identification lamps and side marker lamps</td>
-<td>
-> Image: Symbol showing two circles side-by-side with three lines radiating off of each of them
-<sup><a href='#fn_Ind3902_hq_13483'>[1]</a></sup>
-
-<sup><a href='#fn_Ind3902_hq_13485'>[3]</a></sup>
-
-
-
-</td>
+<th>ITEM</th>
+<th>SYMBOL</th>
+<th>[RESERVED]</th>
+<th>FUNCTION</th>
+<th>ILLUMINATION</th>
+<th>COLOUR</th>
 </tr>
 <tr>
-<td>Master lighting switch</td>
+<td>Headlamp upper beam</td>
 <td>
-> Image: Symbol showing a circle with a square box on top with seven lines radiating off of it
-<sup><a href='#fn_Ind3902_hq_13483'>[1]</a></sup>
-
+> Image: Symbol showing, in contour, the left side view of a parabolic reflector emitting five straight, parallel, horizontal lines.
+or
+> Image: Symbol showing, in silhouette, the left side view of a parabolic reflector emitting five straight, parallel, horizontal lines.
+or
+> Image: Symbol showing, in contour, the left side view of a parabolic reflector emitting four straight, parallel, horizontal lines.
+or
+> Image: Symbol showing, in silhouette, the left side view of a parabolic reflector emitting four straight, parallel, horizontal lines.
 </td>
+<td></td>
+<td>Control</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Headlamp upper and lower beams</td>
-<td>
-> Image: Symbol showing a half-circle with five lines radiating off its left side
-<sup><a href='#fn_Ind3902_hq_13483'>[1]</a></sup>
-
-<sup><a href='#fn_Ind3902_hq_13485'>[3]</a></sup>
-
-
-
-</td>
+<td>Tell-tale</td>
+<td></td>
+<td>Blue or blue-green</td>
 </tr>
 <tr>
 <td>Turn signals</td>
 <td>
-> Image: Symbol showing two white arrows with a black outline facing away from each other
-<sup><a href='#fn_Ind3902_hq_13483'>[1]</a></sup>
-
-<sup><a href='#fn_Ind3902_hq_13484'>[2]</a></sup>
-
-
-
+> Image: Symbol showing, in contour, two horizontal arrows placed side by side and pointing away from each other.
+or
+> Image: Symbol showing, in silhouette, two horizontal arrows placed side by side and pointing away from each other.
 </td>
+<td></td>
+<td>Control</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Tell-tale</td>
+<td></td>
+<td>Green</td>
 </tr>
 <tr>
 <td>Hazard warning signal</td>
 <td>
-> Image: Symbol showing a small triangle inside a big triangle
-<sup><a href='#fn_Ind3902_hq_13483'>[1]</a></sup>
-
+> Image: Symbol showing, in contour, two equilateral triangles, one inside the other.
+or
+> Image: Symbol showing, in silhouette, an equilateral triangle at the centre of which is a small empty space also in the shape of an equilateral triangle.
 </td>
+<td></td>
+<td>Control</td>
+<td>Yes</td>
+<td></td>
 </tr>
 <tr>
-<td>Windshield wiper</td>
-<td>
-> Image: Symbol showing a windshield with a wiper blade on top
-</td>
+<td>Tell-tale</td>
+<td></td>
+<td>Red</td>
 </tr>
 <tr>
-<td>Windshield washer</td>
+<td>Tail lamps, parking lamps, licence plate lamps, side marker lamps, identification lamps and clearance lamps</td>
 <td>
-> Image: Symbol showing a windshield with a dotted line running through it and over top of it on both sides
+> Image: Symbol showing, in contour, two parabolic reflectors placed back-to-back, each emitting three straight lines in the shape of a fan.
+or
+> Image: Symbol showing, in silhouette, two parabolic reflectors placed back-to-back, each emitting three straight lines in the shape of a fan.
 </td>
+<td></td>
+<td>Control</td>
+<td>Yes</td>
+<td></td>
 </tr>
 <tr>
-<td>Windshield wiper and washer</td>
+<td>Windshield wiping system</td>
 <td>
-> Image: Symbol showing a windshield with a wiper blade on top and a dotted line running through it and over top of it on both sides
+> Image: Symbol showing, in contour, a windshield on which is an oblique line representing a wiper blade.
 </td>
+<td></td>
+<td>Control</td>
+<td>Yes</td>
+<td></td>
 </tr>
 <tr>
-<td>Heating and air conditioning fan</td>
+<td>Windshield washing system</td>
 <td>
-> Image: Symbol showing a black fan with four blades
-<sup><a href='#fn_Ind3902_hq_13484'>[2]</a></sup>
-
+> Image: Symbol showing, in contour, a windshield with a vertical dotted line running through the middle of it and splitting into two in opposite directions above the windshield, forming two half circles.
 </td>
+<td></td>
+<td>Control</td>
+<td>Yes</td>
+<td></td>
 </tr>
 <tr>
-<td>Windscreen defogging and defrosting</td>
+<td>Windshield wiping and washing system</td>
 <td>
-> Image: Symbol showing a windshield heating vent with three squiggly lines radiating from it
+> Image: Symbol showing, in contour, a windshield on which is an oblique line representing a wiper blade, with a vertical dotted line running through the middle of the windshield and splitting into two in opposite directions above the windshield, forming two half circles.
 </td>
+<td></td>
+<td>Control</td>
+<td>Yes</td>
+<td></td>
 </tr>
 <tr>
-<td>Rear window defogging and defrosting</td>
+<td>Windshield defrosting and defogging system</td>
 <td>
-> Image: Symbol showing a rectangular heating vent with three squiggly lines radiating from it
+> Image: Symbol showing, in contour, a windshield whose bottom edge is crossed by three squiggly vertical arrows pointing upwards.
 </td>
+<td></td>
+<td>Control</td>
+<td>Yes</td>
+<td></td>
+</tr>
+<tr>
+<td>Rear window defrosting and defogging system</td>
+<td>
+> Image: Symbol showing, in contour, a rectangle whose lower side is crossed by three squiggly vertical arrows pointing upwards.
+</td>
+<td></td>
+<td>Control</td>
+<td>Yes</td>
+<td></td>
+</tr>
+<tr>
+<td>Brake system malfunction</td>
+<td>
+> Image: Symbol showing, in contour, between parentheses, a circle containing an exclamation mark.
+</td>
+<td></td>
+<td>Tell-tale</td>
+<td></td>
+<td>Red or red-orange</td>
+</tr>
+<tr>
+<td>Antilock brake system malfunction</td>
+<td>
+> Image: Symbol showing, in contour, between parentheses, a circle containing the letters ABS.
+</td>
+<td></td>
+<td>Tell-tale</td>
+<td></td>
+<td>Yellow</td>
+</tr>
+<tr>
+<td>[RESERVED]</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>[RESERVED]</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Antilock brake system malfunction in vehicles subject to CMVSS 121, other than trailers</td>
+<td>
+> Image: Symbol showing, in contour, between parentheses, a circle containing the letters ABS.
+</td>
+<td></td>
+<td>Tell-tale</td>
+<td></td>
+<td>Yellow</td>
+</tr>
+<tr>
+<td>Antilock brake system malfunction in trailers subject to CMVSS 121</td>
+<td>
+> Image: Symbol showing, in contour, the left side view of a trailer transporting a circle between parentheses containing the letters ABS.
+</td>
+<td></td>
+<td>Tell-tale</td>
+<td></td>
+<td>Yellow</td>
+</tr>
+<tr>
+<td>Low brake pressure</td>
+<td>
+> Image: Symbol showing, in contour, between parentheses, a circle containing two horizontal arrows converging towards a point at the center of the circle.
+</td>
+<td></td>
+<td>Tell-tale</td>
+<td></td>
+<td>Red or red-orange</td>
+</tr>
+<tr>
+<td>Low brake fluid</td>
+<td>
+> Image: Symbol showing, in contour, between parentheses, a circle whose lower third contains a liquid.
+</td>
+<td></td>
+<td>Tell-tale</td>
+<td></td>
+<td>Red or red-orange</td>
+</tr>
+<tr>
+<td>Parking brake applied</td>
+<td>
+> Image: Symbol showing, in contour, between parentheses, a circle containing the letter P.
+</td>
+<td></td>
+<td>Tell-tale</td>
+<td></td>
+<td>Red or red-orange</td>
+</tr>
+<tr>
+<td>Brake lining wear-out condition</td>
+<td>
+> Image: Symbol showing, in contour, a circle between dotted parentheses.
+</td>
+<td></td>
+<td>Tell-tale</td>
+<td></td>
+<td>Red or red-orange</td>
+</tr>
+<tr>
+<td>Electronic stability control system malfunction</td>
+<td>
+> Image: Symbol showing, in silhouette, the back view of a car above two thick, squiggly, vertical lines.
+</td>
+<td></td>
+<td>Tell-tale</td>
+<td></td>
+<td>Yellow</td>
+</tr>
+<tr>
+<td>Electronic stability control system off</td>
+<td>
+> Image: Symbol showing, in silhouette, the back view of a car above two thick, squiggly, vertical lines below which appears the word OFF.
+</td>
+<td></td>
+<td>Control</td>
+<td>Yes</td>
+<td></td>
+</tr>
+<tr>
+<td>Tell-tale</td>
+<td></td>
+<td>Yellow</td>
+</tr>
+<tr>
+<td>Fuel level</td>
+<td>
+> Image: Symbol showing, in contour, the front view of a gas pump.
+or
+> Image: Symbol showing, in silhouette, the front view of a gas pump.
+</td>
+<td></td>
+<td>Tell-tale</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Indicator</td>
+<td>Yes</td>
+<td></td>
+</tr>
+<tr>
+<td>Oil pressure</td>
+<td>
+> Image: Symbol showing, in contour, the right side view of an oil can with a drip coming out of its spout.
+</td>
+<td></td>
+<td>Tell-tale</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Indicator</td>
+<td>Yes</td>
+<td></td>
+</tr>
+<tr>
+<td>Engine coolant temperature</td>
+<td>
+> Image: Symbol showing two wavy, parallel, horizontal lines, with a thermometer resting in a vertical position on the top line.
+</td>
+<td></td>
+<td>Tell-tale</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Indicator</td>
+<td>Yes</td>
+<td></td>
+</tr>
+<tr>
+<td>Battery charging</td>
+<td>
+> Image: Symbol showing, in contour, a car battery with a positive terminal on the right and a negative terminal on the left.
+</td>
+<td></td>
+<td>Tell-tale</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Indicator</td>
+<td>Yes</td>
+<td></td>
+</tr>
+<tr>
+<td>Engine stop</td>
+<td>
+> Image: Symbol showing an arrow pointing clockwise and forming three quarters of a circle open on the bottom with an X through the circle.
+</td>
+<td></td>
+<td>Control</td>
+<td>Yes</td>
+<td></td>
+</tr>
+<tr>
+<td>[RESERVED]</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>[RESERVED]</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>[RESERVED]</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Automatic transmission control position</td>
+<td></td>
+<td></td>
+<td>Indicator</td>
+<td>Yes</td>
+<td></td>
+</tr>
+<tr>
+<td>Park</td>
+<td>P</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Reverse</td>
+<td>R</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Neutral</td>
+<td>N</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Drive</td>
+<td>D</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Heating or air-conditioning fan</td>
+<td>
+> Image: Symbol showing, in contour, the front view of a fan with four blades.
+or
+> Image: Symbol showing, in silhouette, the front view of a fan with four blades.
+</td>
+<td></td>
+<td>Control</td>
+<td>Yes</td>
+<td></td>
+</tr>
+<tr>
+<td>[RESERVED]</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>[RESERVED]</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>[RESERVED]</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Hand throttle control</td>
+<td>
+> Image: Symbol showing two vertical lines curving inwards and framing a central point crossed by a straight oblique line extending from the top left to the bottom right.
+</td>
+<td></td>
+<td>Control</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Engine start</td>
+<td>
+> Image: Symbol showing a curved arrow pointing clockwise and forming three quarters of a circle open on the bottom.
+</td>
+<td></td>
+<td>Control</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Manual choke control</td>
+<td>
+> Image: Symbol showing two straight vertical lines framing a central point crossed by a straight oblique line extending from the top left to the bottom right.
+</td>
+<td></td>
+<td>Control</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>[RESERVED]</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Horn</td>
 <td>
-> Image: Symbol showing the black outline of a trumpet
+> Image: Symbol showing a trumpet in silhouette.
 </td>
+<td></td>
+<td>Control</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Electronic stability control system off</td>
+<td>Master lighting switch</td>
 <td>
-> Image: Symbol showing the back of a car with squiggly lines below and the words Off, or/ou, Esc Off
+> Image: Symbol showing, in contour, a circle topped by a small rectangle with seven equally spaced lines radiating from the circle.
+or
+> Image: Symbol showing, in silhouette, a circle topped by a small rectangle with seven equally spaced lines radiating from the circle.
 </td>
+<td></td>
+<td>Control</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Headlamp lower beam</td>
+<td>
+> Image: Symbol showing, in contour, the left side view of a parabolic reflector emitting five straight, parallel, oblique lines extending downwards.
+or
+> Image: Symbol showing, in silhouette, the left side view of a parabolic reflector emitting five straight, parallel, oblique lines extending downwards.
+or
+> Image: Symbol showing, in contour, the left side view of a parabolic reflector emitting four straight, parallel, oblique lines extending downwards.
+or
+> Image: Symbol showing, in silhouette, the left side view of a parabolic reflector emitting four straight, parallel, oblique lines extending downwards.
+</td>
+<td></td>
+<td>Control</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Low brake air pressure</td>
+<td>
+> Image: Symbol showing, in contour, between parentheses, a circle containing two horizontal arrows converging towards a point at the center of the circle.
+</td>
+<td></td>
+<td>Tell-tale</td>
+<td></td>
+<td>Red</td>
+</tr>
+<tr>
+<td>Seat belt unfastened</td>
+<td>
+> Image: Symbol showing, in silhouette, the front view of a person who is sitting and wearing a seatbelt.
+or
+> Image: Symbol showing, in contour, the front view of a person who is sitting and wearing a seatbelt.
+</td>
+<td></td>
+<td>Tell-tale</td>
+<td></td>
+<td>Red</td>
+</tr>
+<tr>
+<td>Airbag malfunction</td>
+<td>
+> Image: Symbol showing, in silhouette, the left side view of a person who is wearing a seat belt and sitting facing a circle.
+</td>
+<td></td>
+<td>Tell-tale</td>
+<td></td>
+<td>Red or yellow</td>
+</tr>
+<tr>
+<td>Side airbag malfunction</td>
+<td>
+> Image: Symbol showing, in silhouette, the front view of a person who is wearing a seatbelt and sitting to the left of a vertical ellipse.
+or
+> Image: Symbol showing, in silhouette, the left side view of a person who is wearing a seat belt and sitting facing a circle.
+</td>
+<td></td>
+<td>Tell-tale</td>
+<td></td>
+<td>Red or yellow</td>
+</tr>
+<tr>
+<td>Passenger air bag deactivated</td>
+<td>
+> Image: Symbol showing, in silhouette, the left side view of a person who is wearing a seat belt and sitting facing a circle with an X on it; behind the person is the numeral 2.
+or
+> Image: Symbol showing, above the word OFF and in silhouette, the left side view of a person who is wearing a seat belt and sitting facing a circle; behind the person is the numeral 2 .
+</td>
+<td></td>
+<td>Control</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Tell-tale</td>
+<td></td>
+<td>Yellow</td>
 </tr>
 </table>
 
-
-<a name='fn_Ind3902_hq_13483'><sup>1</sup></a>: Framed areas of the symbol may be solid.<br />
-
-<a name='fn_Ind3902_hq_13484'><sup>2</sup></a>: Outline may be used alone.<br />
-
-<a name='fn_Ind3902_hq_13485'><sup>3</sup></a>: Symbol not required if function is combined with master lighting switch.<br />
-#### TABLE II
-<table>
-<h4>Identification of Displays</h4>
-<tr>
-<th>Display</th>
-<th>Tell-tale Colour</th>
-<th>Identification</th>
-</tr>
-<tr>
-<td>Headlamp upper beam</td>
-<td>BLUE
-
-or
-
-GREEN
-
-<sup><a href='#fn_Ind3902_hq_13490'>[5]</a></sup>
-
-</td>
-<td>
-> Image: Symbol showing a half-circle with five lines radiating off its left side
-<sup><a href='#fn_Ind3902_hq_13486'>[1]</a></sup>
-
-</td>
-</tr>
-<tr>
-<td>Turn signals</td>
-<td>GREEN</td>
-<td>
-> Image: Symbol showing two white arrows with a black outline facing away from each other
-<sup><a href='#fn_Ind3902_hq_13486'>[1]</a></sup>
-
-<sup><a href='#fn_Ind3902_hq_13487'>[2]</a></sup>
-
-
-
-</td>
-</tr>
-<tr>
-<td>Hazard warning signal</td>
-<td>RED<sup><a href='#fn_Ind3902_hq_13490'>[5]</a></sup>
-
-</td>
-<td>
-> Image: Symbol showing a small triangle inside a big triangle
-<sup><a href='#fn_Ind3902_hq_13486'>[1]</a></sup>
-
-<sup><a href='#fn_Ind3902_hq_13488'>[3]</a></sup>
-
-
-
-</td>
-</tr>
-<tr>
-<td>Seat belt</td>
-<td>RED<sup><a href='#fn_Ind3902_hq_13490'>[5]</a></sup>
-
-</td>
-<td>
-> Image: Symbol showing a person sitting and wearing a seatbelt
-<sup><a href='#fn_Ind3902_hq_13489'>[4]</a></sup>
-
-</td>
-</tr>
-<tr>
-<td>Fuel level</td>
-<td></td>
-<td>
-> Image: Symbol showing a gas pump
-<sup><a href='#fn_Ind3902_hq_13489'>[4]</a></sup>
-
-</td>
-</tr>
-<tr>
-<td>Engine oil pressure</td>
-<td></td>
-<td>
-> Image: Symbol showing a container of oil with a black drip
-<sup><a href='#fn_Ind3902_hq_13492'>[7]</a></sup>
-
-</td>
-</tr>
-<tr>
-<td>Engine coolant temperature</td>
-<td></td>
-<td>
-> Image: Symbol showing a thermometer with wavy lines underneath
-<sup><a href='#fn_Ind3902_hq_13492'>[7]</a></sup>
-
-</td>
-</tr>
-<tr>
-<td>Battery charging condition</td>
-<td></td>
-<td>
-> Image: Symbol showing a battery with a positive and negative terminal
-</td>
-</tr>
-<tr>
-<td>Brake system malfunction</td>
-<td>RED<sup><a href='#fn_Ind3902_hq_13490'>[5]</a></sup>
-
-</td>
-<td>
-> Image: Symbol showing a circle with an exclamation point inside parentheses
-<sup><a href='#fn_Ind3902_hq_13491'>[6]</a></sup>
-
-</td>
-</tr>
-<tr>
-<td>Air brake low pressure</td>
-<td>RED<sup><a href='#fn_Ind3902_hq_13490'>[5]</a></sup>
-
-</td>
-<td>Type optional</td>
-</tr>
-<tr>
-<td>Antilock brake system malfunction</td>
-<td>YELLOW</td>
-<td>
-> Image: Symbol showing a circle with the letters “ABS” inside parentheses
-</td>
-</tr>
-<tr>
-<td>Variable brake proportioning system malfunction <sup>6</sup></td>
-<td>YELLOW</td>
-<td>Manufacturer’s option</td>
-</tr>
-<tr>
-<td>Parking brake applied <sup>6</sup></td>
-<td>RED<sup><a href='#fn_Ind3902_hq_13490'>[5]</a></sup>
-
-</td>
-<td>Manufacturer’s option</td>
-</tr>
-<tr>
-<td>Low brake fluid condition</td>
-<td>RED<sup><a href='#fn_Ind3902_hq_13490'>[5]</a></sup>
-
-</td>
-<td>Manufacturer’s option</td>
-</tr>
-<tr>
-<td>Gross loss of brake pressure condition</td>
-<td>RED<sup><a href='#fn_Ind3902_hq_13490'>[5]</a></sup>
-
-</td>
-<td>Manufacturer’s option</td>
-</tr>
-<tr>
-<td>Brake lining wear-out condition</td>
-<td>RED
-
-or
-
-YELLOW
-
-<sup><a href='#fn_Ind3902_hq_13490'>[5]</a></sup>
-
-</td>
-<td>Manufacturer’s option</td>
-</tr>
-<tr>
-<td>Automatic transmission control position</td>
-<td>Manufacturer’s option</td>
-</tr>
-<tr>
-<td>Speedometer</td>
-<td>km/h</td>
-</tr>
-<tr>
-<td>Odometer</td>
-<td><sup><a href='#fn_Ind3902_hq_13493'>[8]</a></sup></td>
-</tr>
-<tr>
-<td>Low tire pressure that does not identify which tire has low pressure (including tire pressure monitoring system malfunction)</td>
-<td>YELLOW</td>
-<td>
-> Image: Symbol showing three-quarters of a circle with a flat bottom with an exclamation point inside
-</td>
-</tr>
-<tr>
-<td>Low tire pressure that identifies which tire has low pressure (including tire pressure monitoring system malfunction)</td>
-<td>YELLOW</td>
-<td>
-> Image: Symbol showing a car from the top
-</td>
-</tr>
-<tr>
-<td>Tire pressure monitoring system malfunction</td>
-<td>YELLOW</td>
-<td>**TPMS**</td>
-</tr>
-<tr>
-<td>Electronic stability control system or related systems malfunction</td>
-<td>YELLOW</td>
-<td>
-> Image: Symbol showing the back of a car with squiggly lines below and the words or/ou, Esc
-</td>
-</tr>
-<tr>
-<td>Electronic stability control system off</td>
-<td>YELLOW</td>
-<td>
-> Image: Symbol showing the back of a car with squiggly lines below and the words Off, or/ou, Esc Off
-</td>
-</tr>
-</table>
-
-
-<a name='fn_Ind3902_hq_13486'><sup>1</sup></a>: Framed areas of the symbol may be solid.<br />
-
-<a name='fn_Ind3902_hq_13487'><sup>2</sup></a>: The left and right arrows may be separated if arrows operate independently flashing green lights.<br />
-
-<a name='fn_Ind3902_hq_13488'><sup>3</sup></a>: Hazard warning signal is not required when independently operated turn signal lights flash simultaneously as hazard warning lights.<br />
-
-<a name='fn_Ind3902_hq_13489'><sup>4</sup></a>: Outline may be used alone.<br />
-
-<a name='fn_Ind3902_hq_13490'><sup>5</sup></a>: Red may be red-orange. Blue may be blue-green.<br />
-
-<a name='fn_Ind3902_hq_13491'><sup>6</sup></a>: If a single tell-tale is used to indicate more than one brake system condition, use the brake system malfunction symbol.<br />
-
-<a name='fn_Ind3902_hq_13492'><sup>7</sup></a>: Combination of the engine oil pressure symbol and the engine coolant temperature symbol in a single tell-tale is permitted.<br />
-
-<a name='fn_Ind3902_hq_13493'><sup>8</sup></a>: The unit of measurement, if identified, is “km”. Where an electronic odometer display can be switched from “km” to “mi” or from “mi” to “km” independently of the units being displayed by a speedometer, the odometer units must be identified in miles or kilometres as appropriate.<br />
-> SOR/78-257, s. 2; SOR/86-976, s. 2; SOR/93-31, s. 3; SOR/94-374, s. 5; SOR/95-147, s. 7; SOR/95-164, s. 3; SOR/97-200, s. 3; SOR/97-421, ss. 18(E), 19(F), 20(F); SOR/2003-272, s. 7; SOR/2007-180, s. 22(F); SOR/2008-258, s. 7; SOR/2009-318, s. 19(F); SOR/2009-323, s. 2..
+> SOR/78-257, s. 2; SOR/86-976, s. 2; SOR/93-31, s. 3; SOR/94-374, s. 5; SOR/95-147, s. 7; SOR/95-164, s. 3; SOR/97-200, s. 3; SOR/97-421, ss. 18(E), 19(F), 20(F); SOR/2003-272, s. 7; SOR/2007-180, s. 22(F); SOR/2008-258, s. 7; SOR/2009-318, s. 19(F); SOR/2009-323, s. 2; SOR/2015-24, s. 3..
 
 
 
@@ -3455,15 +3590,15 @@ YELLOW
 
 - **(1)** In this section,
 
-***critical area*** means area C as referred to in section 104 of this Schedule; (*zone critique*) 
+***critical area*** means area C as referred to in section 104 of this Schedule; (*zone critique*)  
 
-***defog*** means to remove moisture from the inside surface of the glass; (*désembuer*) 
+***defog*** means to remove moisture from the inside surface of the glass; (*désembuer*)  
 
-***defrost*** means to melt frost or ice on the inside or outside surface of the glass; (*dégivrer*) 
+***defrost*** means to melt frost or ice on the inside or outside surface of the glass; (*dégivrer*)  
 
-***entire windshield*** means area A as referred to in section 104 of this Schedule; (*pare-brise tout entier*) 
+***entire windshield*** means area A as referred to in section 104 of this Schedule; (*pare-brise tout entier*)  
 
-***road load*** means the power output required to move the vehicle at the curb mass plus 180 kg on level, clean, dry, smooth portland cement concrete pavement or other surface with an equivalent coefficient of surface friction at a specified speed through still air at 20°C and a standard barometric pressure of 101.3 kPa, and includes driveline friction, rolling friction and air resistance. (*charge de route*) 
+***road load*** means the power output required to move the vehicle at the curb mass plus 180 kg on level, clean, dry, smooth portland cement concrete pavement or other surface with an equivalent coefficient of surface friction at a specified speed through still air at 20°C and a standard barometric pressure of 101.3 kPa, and includes driveline friction, rolling friction and air resistance. (*charge de route*)  
 
 - **(2)** Subject to subsection (2.1), every vehicle shall be equipped with a windshield defrosting and defogging system.
 
@@ -3495,23 +3630,23 @@ YELLOW
 
 - **(1)** In this section,
 
-***areas A, B and C*** means the areas referred to in Column I of Tables I, II, III and IV to this section when established as shown in Figures 1 and 2 of SAE Recommended Practice J903a Passenger Car Windshield Wiper Systems, (May 1966), using the angles specified in Columns III to VI of the above Tables; (*zones A, B et C*) 
+***areas A, B and C*** means the areas referred to in Column I of Tables I, II, III and IV to this section when established as shown in Figures 1 and 2 of SAE Recommended Practice J903a Passenger Car Windshield Wiper Systems, (May 1966), using the angles specified in Columns III to VI of the above Tables; (*zones A, B et C*)  
 
-***daylight opening*** means the maximum unobstructed opening through the glazing surface as defined in paragraph 2.3.12 of Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*ouverture de jour*) 
+***daylight opening*** means the maximum unobstructed opening through the glazing surface as defined in paragraph 2.3.12 of Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*ouverture de jour*)  
 
-***glazing surface reference line*** means the intersection of the glazing surface and a horizontal plane 635 mm above the seating reference point, as shown in Figure 1 of SAE Recommended Practice J903a (May 1966); (*ligne de référence de la surface vitrée*) 
+***glazing surface reference line*** means the intersection of the glazing surface and a horizontal plane 635 mm above the seating reference point, as shown in Figure 1 of SAE Recommended Practice J903a (May 1966); (*ligne de référence de la surface vitrée*)  
 
-***overall width*** means the maximum overall body width dimension W116 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*largeur hors tout*) 
+***overall width*** means the maximum overall body width dimension W116 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*largeur hors tout*)  
 
-***plan view reference line*** means, 
+***plan view reference line*** means,  
 - **(a)** in respect of vehicles with a bench type front seat, a line parallel to the longitudinal centreline of the vehicle and outboard of the centre of the steering wheel by a distance equal to 0.15 times the difference between one-half the shoulder room dimension and the steering wheel centre offset, as shown in Figure 2 of SAE Recommended Practice J903a, (May 1966); and
 - **(b)** in respect of vehicles with individual front seats,
 	- **(i)** a line parallel to the longitudinal centreline of the vehicle which passes through the centre of the driver’s designated seating position, or
 	- **(ii)** a line parallel to the longitudinal centreline of the vehicle located so that the geometric centre of the 95 per cent eye range contour is positioned on the longitudinal centreline of the driver’s designated seating position; (*ligne de référence longitudinale*)
 
-***shoulder room dimension*** means the front shoulder room dimension W3 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*espace d’épaules*) 
+***shoulder room dimension*** means the front shoulder room dimension W3 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*espace d’épaules*)  
 
-***95 per cent eye range contour*** means the 95th percentile tangential cut-off specified in SAE Recommended Practice J941a Passenger Car Driver’s Eye Range, (August 1967). (*95 pour cent du contour de portée visuelle*) 
+***95 per cent eye range contour*** means the 95th percentile tangential cut-off specified in SAE Recommended Practice J941a Passenger Car Driver’s Eye Range, (August 1967). (*95 pour cent du contour de portée visuelle*)  
 
 - **(2)** For the purposes of this section, the expressions “manikin H-point”, “manikin H-point with seat in rearmost position”, and “H-point” used in an SAE Standard or SAE Recommended Practice mean “seating reference point”.
 
@@ -3738,18 +3873,12 @@ YELLOW
 
 - **(1)** Subject to section 135 of this Schedule, every multi-purpose passenger vehicle, truck and bus shall conform to the requirements of Technical Standards Document No. 105, Hydraulic and Electric Brake Systems (TSD 105), as amended from time to time.
 
-- **(2)** Despite S5.3 and S5.3.5(b) of TSD 105, if a common indicator is used, the indicator shall display the symbol referred to in subsection 101(9) of this Schedule for brake system malfunction.
+- **(2)** An indicator lamp referred to in S5.3 of TSD 105 shall, when activated due to a condition set out in S5.3.1 of TSD 105, display the identification symbol set out in the table to section 101 of this Schedule that corresponds to that condition, but if the vehicle is fitted with a single common indicator lamp, the lamp shall display the identification symbol for a brake system malfunction set out in the table to section 101 of this Schedule.
 
-- **(3)** Despite S5.3 of TSD 105, the words required to be displayed under S5.3.5 of TSD 105
-	- **(a)** in the cases referred to in S5.3.5(c)(1)(A), (B) and (D) of TSD 105, may be replaced or accompanied by a symbol that conforms to the colour requirements of subsection 101(9.1) of this Schedule; and
-	- **(b)** shall be displayed in both official languages, if not accompanied by a symbol.
+- **(3)** The statement set out in S5.4.3 of TSD 105 may be replaced by another statement to the same effect.
 
-- **(4)** Despite S5.3 and S5.3.5(c)(1)(C) of TSD 105, if a separate indicator is used to indicate a malfunction in an antilock brake system, the indicator shall display the corresponding symbol shown in Table II to section 101 of this Schedule.
-
-- **(5)** The statement set out in S5.4.3 of TSD 105 may be replaced by another statement to the same effect.
-
-- **(6)** This section expires on January 31, 2016.
-> SOR/79-374, s. 3; SOR/80-637, s. 1; SOR/86-683, s. 3; SOR/86-976, s. 3; SOR/91-144, s. 1; SOR/96-89, s. 2; SOR/97-200, ss. 4, 6; SOR/97-421, s. 5; SOR/98-524, s. 4(F); SOR/99-357, s. 3; SOR/2001-35, s. 4; SOR/2005-42, s. 13; SOR/2008-104, s. 11; SOR/2009-79, s. 1; SOR/2009-318, s. 19(F); SOR/2011-238, s. 1..
+- **(4) to (6)** [Repealed, SOR/2015-24, s. 4]
+> SOR/79-374, s. 3; SOR/80-637, s. 1; SOR/86-683, s. 3; SOR/86-976, s. 3; SOR/91-144, s. 1; SOR/96-89, s. 2; SOR/97-200, ss. 4, 6; SOR/97-421, s. 5; SOR/98-524, s. 4(F); SOR/99-357, s. 3; SOR/2001-35, s. 4; SOR/2005-42, s. 13; SOR/2008-104, s. 11; SOR/2009-79, s. 1; SOR/2009-318, s. 19(F); SOR/2011-238, s. 1; SOR/2015-24, s. 4..
 
 
 
@@ -3856,7 +3985,7 @@ YELLOW
 
 - **(12)** Despite S5.1.1 and S7.9 of TSD 108, every headlamp assembly on a motorcycle shall conform to S7.8.2, S7.8.2.2, S7.8.3, S7.8.4 and S7.8.5.1(c) of TSD 108.
 
-- **(13)** Every school bus shall be equipped with a flasher that conforms to SAE Recommended Practice J1054, Warning Lamp Alternating Flashers (October 1989), and that activates the signal lamps referred to in S5.1.4 of TSD 108.
+- **(13)** Every school bus other than a multifunction school activity bus shall be equipped with a flasher that conforms to SAE Recommended Practice J1054, Warning Lamp Alternating Flashers (October 1989), and that activates the signal lamps referred to in S5.1.4 of TSD 108.
 
 #### Location of Required Equipment — S5.3 of TSD 108
 
@@ -4107,7 +4236,7 @@ YELLOW
 - **(65)** A daytime running lamp shall conform to the requirements of S5.1.3 and S5.3 of TSD 108.
 
 - **(66)** [Repealed, SOR/2014-307, s. 2]
-> SOR/79-306, s. 3; SOR/80-636, s. 2; SOR/84-812, s. 3; SOR/86-979, s. 1; SOR/87-497, s. 2; SOR/87-660, s. 4; SOR/88-268, s. 5; SOR/91-692, s. 2; SOR/94-374, s. 5; SOR/94-692, s. 2(F); SOR/95-147, s. 8; SOR/95-164, s. 5; SOR/96-366, s. 5; SOR/97-421, ss. 16, 18(E), 22(F); SOR/99-112, s. 1; SOR/99-426, s. 1; SOR/2000-182, s. 5; SOR/2001-60, s. 1; SOR/2001-116, s. 1; SOR/2001-353, s. 2; SOR/2003-272, s. 10; SOR/2005-42, ss. 1, 2; SOR/2006-94, s. 4(E); SOR/2008-104, s. 12; SOR/2009-330, s. 2; SOR/2014-307, s. 2..
+> SOR/79-306, s. 3; SOR/80-636, s. 2; SOR/84-812, s. 3; SOR/86-979, s. 1; SOR/87-497, s. 2; SOR/87-660, s. 4; SOR/88-268, s. 5; SOR/91-692, s. 2; SOR/94-374, s. 5; SOR/94-692, s. 2(F); SOR/95-147, s. 8; SOR/95-164, s. 5; SOR/96-366, s. 5; SOR/97-421, ss. 16, 18(E), 22(F); SOR/99-112, s. 1; SOR/99-426, s. 1; SOR/2000-182, s. 5; SOR/2001-60, s. 1; SOR/2001-116, s. 1; SOR/2001-353, s. 2; SOR/2003-272, s. 10; SOR/2005-42, ss. 1, 2; SOR/2006-94, s. 4(E); SOR/2008-104, s. 12; SOR/2009-330, s. 2; SOR/2014-307, s. 2; SOR/2015-23, s. 3..
 
 
 
@@ -4198,11 +4327,11 @@ YELLOW
 
 - **(7)** The following definitions apply for the purposes of TSD 110.
 
-***load rating*** means the maximum load a tire is rated to carry at a given inflation pressure. (*charge nominale*) 
+***load rating*** means the maximum load a tire is rated to carry at a given inflation pressure. (*charge nominale*)  
 
-***maximum load rating*** means the load rating at the maximum permissible inflation pressure for that tire. (*limite de charge nominale*) 
+***maximum load rating*** means the load rating at the maximum permissible inflation pressure for that tire. (*limite de charge nominale*)  
 
-***rim base*** means that portion of a rim remaining after the removal of all split or continuous rim flanges, side rings, and locking rings that can be detached from the rim. (*base de jante*) 
+***rim base*** means that portion of a rim remaining after the removal of all split or continuous rim flanges, side rings, and locking rings that can be detached from the rim. (*base de jante*)  
 
 #### Load Range Identification Symbol
 
@@ -4298,7 +4427,7 @@ YELLOW
 
 - **(14)** For the purposes of subsections (16) to (25), a driver’s eye position shall be represented by the left and right eye points as defined in SAE Recommended Practice J1050, Describing and Measuring the Driver’s Field of View (August 1994), and shall be at any place within the area defined by a 95th percentile eyellipse in accordance with SAE Recommended Practice J941, Motor Vehicle Drivers’ Eye Locations (June 1997), with the following adaptations:
 	- **(a)** a 50/50 male-to-female ratio must be used for the male/female mix; and
-	- **(b)** ***heel point*** referred to in that Recommended Practice and in other documents referenced in that Recommended Practice means the ***accelerator heel point (AHP)*** as defined in section 3.16.1 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), and the position of the heel point is that determined by the manufacturer.
+	- **(b)** ***heel point*** referred to in that Recommended Practice and in other documents referenced in that Recommended Practice means the ***accelerator heel point (AHP)*** as defined in section 3.16.1 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), and the position of the heel point is that determined by the manufacturer. 
 	- **(c)** [Repealed, SOR/2008-72, s. 2]
 
 - **(15)** For the purposes of subsections (16) to (25),
@@ -5008,9 +5137,9 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(4)** The following definitions apply for the purposes of TSD 120.
 
-***load rating*** means the maximum load a tire is rated to carry at a given inflation pressure. (*charge nominale*) 
+***load rating*** means the maximum load a tire is rated to carry at a given inflation pressure. (*charge nominale*)  
 
-***maximum load rating*** means the load rating at the maximum permissible inflation pressure for that tire. (*limite de charge nominale*) 
+***maximum load rating*** means the load rating at the maximum permissible inflation pressure for that tire. (*limite de charge nominale*)  
 
 #### Load Range Identification Symbol
 
@@ -5085,7 +5214,7 @@ All spaces provided for in the vehicle identification number must be occupied by
 		- **(i)** a motorcycle that is designed to travel on three wheels in contact with the ground, or
 		- **(ii)** a motorcycle that is designed to travel on two wheels in contact with the ground and that is equipped with a sidecar.
 
-- **(7)** Despite S5.1.3.1(d) of TSD 122, the indicator lamp shall display the identification symbol set out in Table II to section 101 of this schedule for a brake system malfunction, but the use of the legend referred to in S5.1.3.1(d) of TSD 122 is optional.
+- **(7)** Despite S5.1.3.1(d) of TSD 122, the indicator lamp shall display the tell-tale for a brake system malfunction set out in the table to section 101 of this Schedule. The use of the legend referred to in S5.1.3.1(d) of TSD 122 is optional.
 
 - **(8)** The vehicle mass referred to in S6.1 of TSD 122 is limited to a maximum value equal to the GVWR of the motorcycle.
 
@@ -5113,15 +5242,12 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(16)** Despite the second sentence of paragraph 5.1.6 of ECE Regulation No. 78, sidecar wheels are never required to be equipped with a brake.
 
-- **(17)** The warning lamp referred to in paragraph 5.1.12 of ECE Regulation No. 78 shall display the identification symbol set out in Table II to section 101 of this schedule that corresponds to a brake system malfunction.
+- **(17)** A reference to a warning lamp in paragraph 5.1.12 of ECE Regulation No. 78 shall be read as a reference to the tell-tale for a brake system malfunction set out in the table to section 101 of this Schedule.
 
-- **(18)** The warning lamp referred to in paragraph 5.1.13 of ECE Regulation No. 78 shall display the identification symbol set out in Table II to section 101 of this schedule that corresponds to an antilock brake system malfunction.
+- **(18)** A reference to a warning lamp in paragraph 5.1.13 of ECE Regulation No. 78 shall be read as a reference to the tell-tale for an antilock brake system malfunction set out in the table to section 101 of this Schedule.
 
-#### Expiry Date
-
-
-- **(19)** This section expires on March 31, 2018.
-> SOR/81-88, s. 3; SOR/88-268, s. 9; SOR/98-524, s. 4(F); SOR/2001-255, s. 1; SOR/2003-272, s. 18; SOR/2005-42, ss. 3, 4; SOR/2009-330, s. 4; SOR/2011-263, s. 3; SOR/2014-82, s. 4..
+- **(19)** [Repealed, SOR/2015-24, s. 5]
+> SOR/81-88, s. 3; SOR/88-268, s. 9; SOR/98-524, s. 4(F); SOR/2001-255, s. 1; SOR/2003-272, s. 18; SOR/2005-42, ss. 3, 4; SOR/2009-330, s. 4; SOR/2011-263, s. 3; SOR/2014-82, s. 4; SOR/2015-24, s. 5..
 
 
 
@@ -5202,12 +5328,12 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 **131** 
 
-- **(1)** Subject to subsection (2), every school bus shall be equipped with one or two stop signal arms that conform to the requirements of Technical Standards Document No. 131, School Bus Pedestrian Safety Devices (TSD 131), as amended from time to time.
+- **(1)** Subject to subsection (2), every school bus other than a multifunction school activity bus shall be equipped with one or two stop signal arms that conform to the requirements of Technical Standards Document No. 131, School Bus Pedestrian Safety Devices (TSD 131), as amended from time to time.
 
 - **(2)** The word “*ARRÊT*” may appear instead of, or together with, the word “STOP” in the manner specified with respect to the word “STOP” in S5.2.2 of TSD 131.
 
 - **(3)** [Repealed, SOR/2014-307, s. 12]
-> SOR/96-366, s. 9; SOR/2001-116, s. 2; SOR/2005-42, ss. 5, 6; SOR/2009-79, s. 3; SOR/2011-238, s. 3; SOR/2014-307, s. 12..
+> SOR/96-366, s. 9; SOR/2001-116, s. 2; SOR/2005-42, ss. 5, 6; SOR/2009-79, s. 3; SOR/2011-238, s. 3; SOR/2014-307, s. 12; SOR/2015-23, s. 4..
 
 
 
@@ -5222,18 +5348,12 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(2)** The statement set out in S5.4.3 of TSD 135 may be replaced by another statement to the same effect.
 
-- **(3)** Despite S5.5 and S5.5.5(b) of TSD 135, if a common indicator is used, the indicator shall display the symbol for brake system malfunction referred to in subsection 101(9) of this Schedule.
+- **(3)** A brake warning indicator referred to in S5.5.5 of TSD 135 shall, when activated due to a condition set out in S5.5.1 of TSD 135, display the identification symbol set out in the table to section 101 of this Schedule that corresponds to that condition, but if the vehicle is fitted with a single common brake warning indicator, the indicator shall display the identification symbol for a brake system malfunction set out in the table to section 101 of this Schedule.
 
-- **(4)** Despite S5.5 of TSD 135, the words required to be displayed under S5.5.5 of TSD 135
-	- **(a)** in the cases referred to in S5.5.5(d)(1), (2), (4) and (5) of TSD 135 and in the case of the variable brake proportioning system indicator referred to in S5.5.5(d)(3) of TSD 135, may be replaced or accompanied by a symbol that conforms to the colour requirements of subsection 101(9.1) of this Schedule; and
-	- **(b)** shall be displayed in both official languages, if not accompanied by a symbol.
+- **(4)** The word “car” used in S6.3.6 and S6.3.7 of the English version of TSD 135 shall be read as “vehicle”.
 
-- **(5)** Despite S5.5 and S5.5.5(d)(3) of TSD 135, if a separate indicator is used to indicate an electrical functional failure in an antilock brake system, the indicator shall display the corresponding symbol shown in Table II to section 101 of this Schedule.
-
-- **(6)** The word “car” used in S6.3.6 and S6.3.7 of the English version of TSD 135 shall be read as “vehicle”.
-
-- **(7)** This section expires on January 31, 2016.
-> SOR/97-200, s. 5; SOR/99-357, s. 5; SOR/2001-35, s. 6; SOR/2003-272, s. 20; SOR/2005-42. s. 13; SOR/2006-94, s. 4(E); SOR/2008-104, s. 15; SOR/2009-79, s. 4; SOR/2009-318, s. 19(F); SOR/2011-238, s. 3..
+- **(5) to (7)** [Repealed, SOR/2015-24, s. 6]
+> SOR/97-200, s. 5; SOR/99-357, s. 5; SOR/2001-35, s. 6; SOR/2003-272, s. 20; SOR/2005-42. s. 13; SOR/2006-94, s. 4(E); SOR/2008-104, s. 15; SOR/2009-79, s. 4; SOR/2009-318, s. 19(F); SOR/2011-238, s. 3; SOR/2015-24, s. 6..
 
 
 
@@ -5250,7 +5370,7 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(1)** In this section,
 
-***head impact area*** means the non-glazed surfaces of the interior of the vehicle that are capable of being contacted statically by the head form of a measuring device in accordance with the following procedure or its graphic equivalent: 
+***head impact area*** means the non-glazed surfaces of the interior of the vehicle that are capable of being contacted statically by the head form of a measuring device in accordance with the following procedure or its graphic equivalent:  
 - **(a)** at each designated seating position, by placing the pivot point of the measuring device,
 	- **(i)** for seats that are adjustable fore and aft, at
 		- **(A)** the seating reference point, and
@@ -5259,11 +5379,11 @@ All spaces provided for in the vehicle identification number must be occupied by
 - **(b)** with the pivot point to top-of-head dimension at each adjustment allowed for the measuring device by the interior dimension of the vehicle, by determining all contact points above the lower windshield glass line and forward of the seating reference point, and
 - **(c)** beginning with the head form of the measuring device at each contact point referred to in paragraph (b) and with the measuring device in a vertical position if no contact point exists for a particular adjusted length, by pivoting the measuring device forward and downward through all arcs in vertical planes to 90° each side of the longitudinal plane through the seating reference point until the head form contacts an interior surface or until it is tangent to a horizontal plane 25 mm (1 inch) above the seating reference point, whichever occurs first; (*zone d’impact de la tête*)
 
-***interior compartment door*** means any door in the interior of a vehicle installed by the manufacturer as a cover for storage space normally used for personal effects; (*porte de compartiment intérieur*) 
+***interior compartment door*** means any door in the interior of a vehicle installed by the manufacturer as a cover for storage space normally used for personal effects; (*porte de compartiment intérieur*)  
 
-***measuring device*** means a device having a spherical head form with a diameter of 165 mm (6.5 inches) attached to a pivot, with the distance between the pivot point and the top of the head form being adjustable at any point between 740 mm (29 inches) and 840 mm (33 inches); (*appareil de mesure*) 
+***measuring device*** means a device having a spherical head form with a diameter of 165 mm (6.5 inches) attached to a pivot, with the distance between the pivot point and the top of the head form being adjustable at any point between 740 mm (29 inches) and 840 mm (33 inches); (*appareil de mesure*)  
 
-***pelvic impact area*** means that area of the door or body side panel adjacent to any outboard designated seating position that is bounded by: 
+***pelvic impact area*** means that area of the door or body side panel adjacent to any outboard designated seating position that is bounded by:  
 - **(a)** horizontal planes 180 mm (seven inches) above and 100 mm (four inches) below the seating reference point, and
 - **(b)** vertical transverse planes 200 mm (eight inches) forward and 50 mm (two inches) rearward of the seating reference point. (*zone d’impact pelvienne*)
 
@@ -6378,9 +6498,9 @@ Note: Drawing not to scale
 
 - **(1)** The following definitions apply in this section.
 
-***Test Method 213.4*** means Test Method 213.4 — Built-in Restraint Systems and Built-in Booster Seats (November 2012). (*Méthode d’essai 213.4*)
+***Test Method 213.4*** means Test Method 213.4 — Built-in Restraint Systems and Built-in Booster Seats (November 2012). (*Méthode d’essai 213.4*) 
 
-***TSD 209*** means Technical Standards Document No. 209, Seat Belt Assemblies, as amended from time to time. (*DNT 209*)
+***TSD 209*** means Technical Standards Document No. 209, Seat Belt Assemblies, as amended from time to time. (*DNT 209*) 
 
 - **(2)** For the purposes of this section, a reference in TSD 209 to webbing, a belt buckle or a related piece of adjustment hardware that is part of a Type 1 seat belt assembly is to be read as a reference to webbing, a belt buckle or a related piece of adjustment hardware that is part of a built-in restraint system.
 
@@ -6490,11 +6610,11 @@ Note: Drawing not to scale
 
 - **(1)** In this section,
 
-***initial crush resistance*** means the average force required to deform the door of a vehicle, measured over the initial 152 mm of crush; (*résistance initiale à la déformation*) 
+***initial crush resistance*** means the average force required to deform the door of a vehicle, measured over the initial 152 mm of crush; (*résistance initiale à la déformation*)  
 
-***intermediate crush resistance*** means the average force required to deform the door of a vehicle, measured over the initial 305 mm of crush; (*résistance intermédiaire à la déformation*) 
+***intermediate crush resistance*** means the average force required to deform the door of a vehicle, measured over the initial 305 mm of crush; (*résistance intermédiaire à la déformation*)  
 
-***peak crush resistance*** means the greatest force required to deform the door of a vehicle over the entire crush distance of 457 mm; (*résistance maximale à la déformation*) 
+***peak crush resistance*** means the greatest force required to deform the door of a vehicle over the entire crush distance of 457 mm; (*résistance maximale à la déformation*)  
 
 - **(2)** Every side door that is designed to be used for the egress of occupants from a truck, multi-purpose passenger vehicle or bus with a GVWR of 4 536 kg or less or from a passenger car or three-wheeled vehicle shall demonstrate the following resistances, calculated in accordance with Test Method 214 — Side Door Strength (November 14, 1996), when tested in accordance with those test methods with the seats removed or installed, at the option of the manufacturer:
 	- **(a)** when tested with the seats removed,
@@ -6809,17 +6929,17 @@ whichever is the higher.
 
 - **(1)** The following definitions in this subsection apply in this section.
 
-***body component*** means a part of a bus body, including floor panels, made from a single piece of homogeneous material or from a single piece of composite material such as plywood or plastic. (*élément de carrosserie*) 
+***body component*** means a part of a bus body, including floor panels, made from a single piece of homogeneous material or from a single piece of composite material such as plywood or plastic. (*élément de carrosserie*)  
 
-***body panel*** means a body component used on the exterior or interior surface of a bus to enclose the bus occupant space. (*panneau de carrosserie*) 
+***body panel*** means a body component used on the exterior or interior surface of a bus to enclose the bus occupant space. (*panneau de carrosserie*)  
 
-***body panel joint*** means the area of contact, attachment or close proximity between the edges of a body panel and another body component. (*joint de panneau de carrosserie*) 
+***body panel joint*** means the area of contact, attachment or close proximity between the edges of a body panel and another body component. (*joint de panneau de carrosserie*)  
 
-***bus body*** means the portion of a bus that encloses the bus occupant space, including the floor and the body panel separating the engine compartment from the occupant space, but excluding the bumpers and chassis frame. (*carrosserie d’autobus*) 
+***bus body*** means the portion of a bus that encloses the bus occupant space, including the floor and the body panel separating the engine compartment from the occupant space, but excluding the bumpers and chassis frame. (*carrosserie d’autobus*)  
 
-***maintenance access panel*** means a body panel that must be moved or removed to provide access to serviceable components. (*panneau d’accès pour l’entretien*) 
+***maintenance access panel*** means a body panel that must be moved or removed to provide access to serviceable components. (*panneau d’accès pour l’entretien*)  
 
-***serviceable component*** means any part of a bus, of either a mechanical or electrical nature, that is explicitly identified in the owner’s manual or factory service manual as requiring routine maintenance actions at intervals of one year or less. Tubing, wires and harnesses are considered to be serviceable components only at their attachments. (*élément nécessitant de l’entretien*) 
+***serviceable component*** means any part of a bus, of either a mechanical or electrical nature, that is explicitly identified in the owner’s manual or factory service manual as requiring routine maintenance actions at intervals of one year or less. Tubing, wires and harnesses are considered to be serviceable components only at their attachments. (*élément nécessitant de l’entretien*)  
 
 - **(2)** This section applies in respect of all school bus body panel joints that lie rearward of the vertical transverse plane located 762 mm in front of the forward-most passenger seating reference point, except those that contact or are attached to or in close proximity to
 	- **(a)** components such as rub rails that are entirely outside of body panels;
@@ -6850,19 +6970,19 @@ whichever is the higher.
 
 - **(1)** In this section,
 
-***contactable surface*** means any surface within the head protection zone that is contactable from any direction by a head form test device, except any surface on the front of a seat back or restraining barrier 76 mm (three inches) or more below the top of the seat back or restraining barrier; (*surface de contact*) 
+***contactable surface*** means any surface within the head protection zone that is contactable from any direction by a head form test device, except any surface on the front of a seat back or restraining barrier 76 mm (three inches) or more below the top of the seat back or restraining barrier; (*surface de contact*)  
 
-***head protection zones*** means the spaces in front of each school bus passenger seat that are not occupied by any sidewall, window or door structure and that, in relation to that seat and its seating reference point, are enclosed by the following planes: 
+***head protection zones*** means the spaces in front of each school bus passenger seat that are not occupied by any sidewall, window or door structure and that, in relation to that seat and its seating reference point, are enclosed by the following planes:  
 - **(a)** horizontal planes 300 mm (12 inches) and 1 016 mm (40 inches) above the seating reference point,
 - **(b)** a vertical longitudinal plane tangent to the inboard (aisle side) edge of the seat,
 - **(c)** a vertical longitudinal plane 83 mm (3.25 inches) inboard of the outboard edge of the seat, and
 - **(d)** vertical transverse planes through and 760 mm (30 inches) forward of the seating reference point; (*zone de protection de la tête*)
 
-***leg protection zones*** means those parts of a school bus passenger seat back or restraining barrier that are bounded by horizontal planes 300 mm (12 inches) above and 100 mm (four inches) below the seating reference point of the school bus passenger seat immediately behind the seat back or restraining barrier; (*zone de protection des jambes*) 
+***leg protection zones*** means those parts of a school bus passenger seat back or restraining barrier that are bounded by horizontal planes 300 mm (12 inches) above and 100 mm (four inches) below the seating reference point of the school bus passenger seat immediately behind the seat back or restraining barrier; (*zone de protection des jambes*)  
 
-***school bus passenger seat*** means a seat in a school bus, other than the driver’s seat or a seat that is installed to accommodate a handicapped or convalescent passenger and is oriented in a direction that is more than 45 degrees to the left or right of the longitudinal centre-line of the vehicle. (*siège pour passager d’autobus scolaire*) 
+***school bus passenger seat*** means a seat in a school bus, other than the driver’s seat or a seat that is installed to accommodate a handicapped or convalescent passenger and is oriented in a direction that is more than 45 degrees to the left or right of the longitudinal centre-line of the vehicle. (*siège pour passager d’autobus scolaire*)  
 
-***W*** means the number of seating positions in a bench seat when calculated as the bench width in millimetres (inches) divided by 381 mm (15 inches) with the quotient rounded to the nearest whole number or, if the quotient is equidistant from two whole numbers, to the higher thereof. (*W*) 
+***W*** means the number of seating positions in a bench seat when calculated as the bench width in millimetres (inches) divided by 381 mm (15 inches) with the quotient rounded to the nearest whole number or, if the quotient is equidistant from two whole numbers, to the higher thereof. (*W*)  
 
 - **(2)** Every school bus shall, when subjected to Motor Vehicle Safety Test Methods, Section 222, School Bus Passenger Seating and Crash Protection, (December 19, 1983) meet, at all designated seating positions other than the driver’s seat, all the requirements of subsections (6) to (12).
 
@@ -6948,37 +7068,37 @@ shall not exceed 1,000, where “a” is the axial acceleration expressed as a m
 
 - **(1)** The definitions in this subsection apply in this section.
 
-***dangerous goods*** has the same meaning as in section 2 of the Transportation of Dangerous Goods Act, 1992. (*marchandises dangereuses*) 
+***dangerous goods*** has the same meaning as in section 2 of the Transportation of Dangerous Goods Act, 1992. (*marchandises dangereuses*)  
 
-***ground clearance*** means the vertical distance from the bottom edge of a horizontal member to the ground. (*garde au sol*) 
+***ground clearance*** means the vertical distance from the bottom edge of a horizontal member to the ground. (*garde au sol*)  
 
-***guard width*** means, in respect of a rear impact guard that is installed on a trailer, the maximum horizontal guard dimension that is perpendicular to the longitudinal vertical plane passing through the longitudinal centreline of the trailer. (*largeur du dispositif de protection*) 
+***guard width*** means, in respect of a rear impact guard that is installed on a trailer, the maximum horizontal guard dimension that is perpendicular to the longitudinal vertical plane passing through the longitudinal centreline of the trailer. (*largeur du dispositif de protection*)  
 
-***horizontal member*** means the horizontal structural member of a rear impact guard. (*pièce horizontale*) 
+***horizontal member*** means the horizontal structural member of a rear impact guard. (*pièce horizontale*)  
 
-***hydraulic guard*** means a rear impact guard designed to use fluid properties to provide a resistance force to deformation. (*dispositif de protection hydraulique*) 
+***hydraulic guard*** means a rear impact guard designed to use fluid properties to provide a resistance force to deformation. (*dispositif de protection hydraulique*)  
 
-***low-chassis trailer*** means a trailer that has a chassis that extends behind the rearmost point of the rearmost tires and that has a lower rear surface that meets the configuration requirements of subsections (6) to (8). (*remorque à châssis surbaissé*) 
+***low-chassis trailer*** means a trailer that has a chassis that extends behind the rearmost point of the rearmost tires and that has a lower rear surface that meets the configuration requirements of subsections (6) to (8). (*remorque à châssis surbaissé*)  
 
-***outboard*** means, in respect of a trailer, away from the trailer centreline and toward the side extremities of the trailer. (*extérieur*) 
+***outboard*** means, in respect of a trailer, away from the trailer centreline and toward the side extremities of the trailer. (*extérieur*)  
 
-***pulpwood trailer*** means a trailer that is designed exclusively to carry harvested logs or pulpwood and that is constructed with a skeletal frame with no means for the attachment of a solid bed, body or container. (*remorque pour bois à pâte*) 
+***pulpwood trailer*** means a trailer that is designed exclusively to carry harvested logs or pulpwood and that is constructed with a skeletal frame with no means for the attachment of a solid bed, body or container. (*remorque pour bois à pâte*)  
 
-***rear extremity*** means the rearmost point on a trailer that is above a horizontal plane located above the ground clearance and below a horizontal plane located 1 900 mm above the ground when the trailer is configured as specified in subsection (7) and when the trailer’s cargo doors, tailgate and other permanent structures are positioned as they normally are when the trailer is in motion. However, non-structural protrusions, including but not limited to the following, are excluded from the determination of the rearmost point: 
+***rear extremity*** means the rearmost point on a trailer that is above a horizontal plane located above the ground clearance and below a horizontal plane located 1 900 mm above the ground when the trailer is configured as specified in subsection (7) and when the trailer’s cargo doors, tailgate and other permanent structures are positioned as they normally are when the trailer is in motion. However, non-structural protrusions, including but not limited to the following, are excluded from the determination of the rearmost point:  
 - **(a)** tail lamps;
 - **(b)** rubber bumpers;
 - **(c)** hinges and latches; and
 - **(d)** flexible aerodynamic devices that are capable of being folded to within 305 mm from the transverse vertical plane tangent to the rearmost surface of the horizontal member and that, while positioned as they normally are when the trailer is in motion, are located forward of the transverse plane that is tangent to the rear bottom edge of the horizontal member and that intersects a point located 1 210 mm rearward of the rearmost surface of the horizontal member and 1 740 mm above the ground. (*extrémité arrière*)
 
-***rear impact guard*** means a device installed on or near the rear of a trailer so that, when the trailer is struck from the rear, the device limits the distance that the striking vehicle’s front end slides under the rear end of the trailer. (*dispositif de protection arrière*) 
+***rear impact guard*** means a device installed on or near the rear of a trailer so that, when the trailer is struck from the rear, the device limits the distance that the striking vehicle’s front end slides under the rear end of the trailer. (*dispositif de protection arrière*)  
 
-***rounded corners*** means the outermost ends of a rear impact guard’s horizontal member that curve upward. (*coins arrondis*) 
+***rounded corners*** means the outermost ends of a rear impact guard’s horizontal member that curve upward. (*coins arrondis*)  
 
-***side extremity*** means the outermost point on a trailer’s side that is above a horizontal plane located above the ground clearance, below a horizontal plane located 1 900 mm above the ground, and between a transverse vertical plane tangent to the rear extremity of the trailer and a transverse vertical plane located 305 mm forward of that plane, with non-structural protrusions such as tail lamps, rubber bumpers, hinges and latches excluded from the determination of the outermost point. (*extrémité latérale*) 
+***side extremity*** means the outermost point on a trailer’s side that is above a horizontal plane located above the ground clearance, below a horizontal plane located 1 900 mm above the ground, and between a transverse vertical plane tangent to the rear extremity of the trailer and a transverse vertical plane located 305 mm forward of that plane, with non-structural protrusions such as tail lamps, rubber bumpers, hinges and latches excluded from the determination of the outermost point. (*extrémité latérale*)  
 
-***tanker trailer*** means a trailer that is designed exclusively to transport dangerous goods and that meets the rear impact protection requirements of National Standard of Canada CAN/CSA-B620-98, Highway Tanks and Portable Tanks for the Transportation of Dangerous Goods (August 1998), including Appendices A and B, as amended in April 1999, March 2000, July 2000, April 2001, November 2001 and May 2002, published by CSA. (*remorque-citerne*) 
+***tanker trailer*** means a trailer that is designed exclusively to transport dangerous goods and that meets the rear impact protection requirements of National Standard of Canada CAN/CSA-B620-98, Highway Tanks and Portable Tanks for the Transportation of Dangerous Goods (August 1998), including Appendices A and B, as amended in April 1999, March 2000, July 2000, April 2001, November 2001 and May 2002, published by CSA. (*remorque-citerne*)  
 
-***wheels back trailer*** means a trailer whose rearmost axle is permanently fixed and located such that the rearmost surface of the rearmost tires of the size recommended by the trailer manufacturer for that axle is not more than 305 mm forward of the transverse vertical plane tangent to the rear extremity of the trailer. (*remorque à roues arrière reculées*) 
+***wheels back trailer*** means a trailer whose rearmost axle is permanently fixed and located such that the rearmost surface of the rearmost tires of the size recommended by the trailer manufacturer for that axle is not more than 305 mm forward of the transverse vertical plane tangent to the rear extremity of the trailer. (*remorque à roues arrière reculées*)  
 
 ### Application
 
@@ -7493,11 +7613,11 @@ where
 
 - **(1)** The definitions in this subsection apply in this section.
 
-***bulkhead*** means a fixed or removable structure installed across the width of a trailer to restrict the movement of cargo during transport. (*cloison*) 
+***bulkhead*** means a fixed or removable structure installed across the width of a trailer to restrict the movement of cargo during transport. (*cloison*)  
 
-***cargo anchoring device*** means a fitting or attachment point on a trailer, other than a bulkhead or rub rail, to which a tie-down assembly is attached. (*dispositif d’ancrage des chargements*) 
+***cargo anchoring device*** means a fitting or attachment point on a trailer, other than a bulkhead or rub rail, to which a tie-down assembly is attached. (*dispositif d’ancrage des chargements*)  
 
-***rub rail*** means a protector strip extending horizontally along the sides of a trailer intended to provide protection from scuffing. (*bourrelet de protection*) 
+***rub rail*** means a protector strip extending horizontally along the sides of a trailer intended to provide protection from scuffing. (*bourrelet de protection*)  
 
 - **(2)** This section applies to every trailer that is designed to carry cargo, with a GVWR of 10 000 kg or more, a load-carrying mainframe and loading deck and no permanent sides or roof, such as a flatbed trailer, heavy hauler trailer, industrial trailer, lowbed trailer or drop-centre trailer.
 
