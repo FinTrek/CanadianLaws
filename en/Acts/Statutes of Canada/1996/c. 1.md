@@ -33,8 +33,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** In this section,
 
-***Atlantic provinces*** means the provinces of Nova Scotia, New Brunswick, Prince Edward Island and Newfoundland;
+***Atlantic provinces*** means the provinces of Nova Scotia, New Brunswick, Prince Edward Island and Newfoundland and Labrador; (*provinces de l’Atlantique*)
 
-***Prairie provinces*** means the provinces of Manitoba, Saskatchewan and Alberta.
+***Prairie provinces*** means the provinces of Manitoba, Saskatchewan and Alberta. (*provinces des Prairies*)
+> 1996, c. 1, s. 1; 2015, c. 3, s. 172.
+
 
 
