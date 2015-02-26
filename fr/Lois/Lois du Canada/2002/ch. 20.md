@@ -136,17 +136,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **9** 
 
-- **(1)** Le ministre de la Justice complète, dans les cinq ans qui suivent la date d’entrée en vigueur de la présente loi, un examen de la mise en oeuvre et de l’application de l’article 4.
+- **(1)** Le ministre de la Justice fait, dans les cinq ans qui suivent la date d’entrée en vigueur de la présente loi, un examen de la mise en oeuvre et de l’application de l’article 4.
 
 **Rapport**
 
-- **(2)** Sous réserve du paragraphe (3), dans l’année qui suit la fin de l’examen fait en application du paragraphe (1) ou dans le délai supérieur que les deux chambres du Parlement peuvent lui accorder, le ministre de la Justice remet son rapport d’examen à chacune des chambres, lequel contient :
+- **(2)** Sous réserve du paragraphe (3), dans l’année qui suit la fin de l’examen fait en application du paragraphe (1) ou dans le délai supérieur que les deux chambres du Parlement peuvent lui accorder, le ministre de la Justice remet son rapport d’examen à chacune des chambres, lequel contient :
 	- **a)** la description des mesures prises pour relever les textes législatifs visés au paragraphe 4(1);
 	- **b)** la liste des textes législatifs qui ont été abrogés et réédictés en application du paragraphe 4(1);
 	- **c)** la liste des textes législatifs visés par ce paragraphe qui ont été relevés, mais qui n’ont pas été abrogés et réédictés.
 
 **Indication du nombre**
 
-- **(3)** En ce qui concerne les textes législatifs d’une catégorie visée au paragraphe 15(3) du *Règlement sur les textes réglementaires*, le rapport n’a qu’à faire état du nombre de ceux-ci qui sont des genres visés aux alinéas (2)b) et c).
+- **(3)** En ce qui concerne les textes législatifs d’une catégorie visée au paragraphe 15(3) du [Règlement sur les textes réglementaires](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1501-1600/C.R.C.,%20ch.%201509.md), le rapport n’a qu’à faire état du nombre de ceux-ci qui sont des genres visés aux alinéas (2)b) et c).
+> 2002, ch. 20, art. 9; 2015, ch. 3, art. 129(F).
+
 
 
