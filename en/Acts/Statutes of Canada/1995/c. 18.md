@@ -301,9 +301,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Applicant and witnesses to be paid expenses, etc.**
 
 **24** An applicant and each witness called by an applicant who attends a hearing by a review panel are entitled to be paid
-- **(a)** travel and living expenses incurred in attending the hearing, in accordance with regulations made in relation to veterans health care under subsection 5(1) of the [Department of Veterans Affairs Act](/en/Acts/Revised%20Statutes%20of%20Canada/V/V-1.md); and
+- **(a)** travel and living expenses incurred in attending the hearing, in accordance with regulations made in relation to veterans health care under section 5 of the [Department of Veterans Affairs Act](/en/Acts/Revised%20Statutes%20of%20Canada/V/V-1.md); and
 - **(b)** in the case of a witness who is a medical practitioner, such attendance fee as may be fixed by the Treasury Board.
-> 1995, c. 17, s. 73, c. 18, s. 24; 2000, c. 34, s. 95(F).
+> 1995, c. 17, s. 73, c. 18, s. 24; 2000, c. 34, s. 95(F); 2015, c. 3, s. 158.
 
 
 
@@ -464,7 +464,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Definition of compassionate award**
 
 - **(8)** In this section, ***compassionate award*** means a compassionate pension, allowance or supplementary award.
-> 1995, c. 18, s. 34; 2000, c. 34, s. 67; 2005, c. 21, s. 113.
+> 1995, c. 18, s. 34; 2000, c. 34, s. 67; 2005, c. 21, s. 113; 2015, c. 3, s. 159(F).
 
 
 
