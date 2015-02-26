@@ -181,7 +181,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** In carrying out its object, the Agency may
 	- **(a)** in cooperation with other concerned ministers and boards and agencies of the Government of Canada, formulate and implement policies, plans and integrated federal approaches;
-	- **(a.1)** plan and implement mechanisms to facilitate cooperation and concerted action with Quebec and communities in;
+	- **(a.1)** plan and implement mechanisms to facilitate cooperation and concerted action with Quebec and communities in Quebec;
 	- **(b)** plan, implement, direct and manage programs and projects, or offer services, intended to contribute directly or indirectly
 		- **(i)** to the establishment, development, support and promotion of enterprises, and more particularly small- and medium-sized enterprises, in Quebec,
 		- **(ii)** to the development of entrepreneurial talent in Quebec,
@@ -203,6 +203,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Other functions**
 
 - **(2)** The Agency may also perform any other functions assigned to it by order of the Governor in Council.
+> 2005, c. 26, s. 11; 2015, c. 3, s. 77(E).
+
 
 
 
