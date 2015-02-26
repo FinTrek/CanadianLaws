@@ -203,6 +203,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Fonctions**
 
 - **(2)** L’Agence peut aussi exercer les fonctions que le gouverneur en conseil peut lui attribuer par décret.
+> 2005, ch. 26, art. 11; 2015, ch. 3, art. 77(A).
+
 
 
 
