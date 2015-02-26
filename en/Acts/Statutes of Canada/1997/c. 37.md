@@ -343,7 +343,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(o)** prescribing the amount of the fine for offences in respect of which section 23 applies, which amount shall not exceed $2,000;
 - **(p)** determining the conditions under which aircraft may take off, fly over and land within park boundaries; and
 - **(q)** in respect of any other matters that are necessary for carrying out the purposes of this Act.
-> 1997, c. 37, s. 17; 2009, c. 14, s. 110.
+> 1997, c. 37, s. 17; 2009, c. 14, s. 110; 2015, c. 3, s. 151(F).
 
 
 
