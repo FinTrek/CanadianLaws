@@ -133,7 +133,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **b)** le Chili;
 - **c)** Israël ou autre bénéficiaire de l’ALÉCI.
 
-***pays*** Sauf indication contraire du contexte, y est assimilé tout territoire d’un pays situé à l’extérieur des limites de celui-ci ou qui en dépend, ainsi que tout autre territoire prévu par règlement du gouverneur en conseil.
+***pays*** Sauf indication contraire du contexte, y est assimilé tout territoire d’un pays situé à l’extérieur des limites de celui-ci ou qui en dépend, ainsi que tout autre territoire réglementaire.
 
 ***pays ALÉNA*** Pays partie à l’Accord de libre-échange nord-américain.
 
@@ -166,7 +166,7 @@ French version only***taux*** Le taux de droits de douane.
 **Territoires**
 
 - **(2)** Les territoires prévus par règlement, pour l’application de la définition de ***pays***, ne sont reconnus comme pays que pour l’application de la présente loi.
-> 1997, ch. 36, art. 2; 2001, ch. 28, art. 31; 2005, ch. 38, art. 143(A) et 145; 2009, ch. 6, art. 30, ch. 16, art. 36; 2010, ch. 4, art. 30; 2012, ch. 18, art. 32, ch. 26, art. 38; 2014, ch. 14, art. 39, ch. 28, art. 43.
+> 1997, ch. 36, art. 2; 2001, ch. 28, art. 31; 2005, ch. 38, art. 143(A) et 145; 2009, ch. 6, art. 30, ch. 16, art. 36; 2010, ch. 4, art. 30; 2012, ch. 18, art. 32, ch. 26, art. 38; 2014, ch. 14, art. 39, ch. 28, art. 43; 2015, ch. 3, art. 64.
 
 
 
@@ -1671,7 +1671,9 @@ Suisse
 
 **Renvois**
 
-- **(2)** Il est entendu que tout texte législatif ou document incorporé par renvoi dans un règlement d’application du présent article l’est avec ses modifications successives.
+- **(2)** Il est entendu qu’il peut être précisé, dans le règlement d’application du présent article qui incorpore par renvoi un document ou texte législatif, que celui-ci est incorporé avec ses modifications successives.
+> 1997, ch. 36, art. 52; 2015, ch. 3, art. 65(F).
+
 
 
 
@@ -4101,7 +4103,7 @@ Pérou
 **133** Sur recommandation du ministre de la Sécurité publique et de la Protection civile, le gouverneur en conseil peut par règlement :
 - **a)** pour l’application de l’article 101, préciser :
 	- **(i)** le délai, postérieur à l’exportation de marchandises, dans lequel celles-ci doivent être retournées au Canada,
-	- **(ii)** les justificatifs nécessaires pour établir l’exportation des marchandises;
+	- **(ii)** ce qui constitue des justificatifs convaincants établissant l’exportation des marchandises;
 - **b)** définir ***accessoire au commerce international des marchandises***, ***ancien résident***, ***bagage***, ***moyen de transport***, ***résident***, ***résident temporaire*** et ***temporairement***, pour l’application d’un numéro tarifaire du Chapitre 98 de la liste des dispositions tarifaires;
 - **c)** pour l’application des n<sup>os</sup> tarifaires 9801.10.10, 9801.10.20, 9801.10.30, 9801.20.00, 9808.00.00 et 9810.00.00, fixer les conditions de l’importation de marchandises;
 - **d)** pour l’application du n<sup>o</sup> tarifaire 9802.00.00 :
@@ -4182,7 +4184,7 @@ Pérou
 	- **(ii)** fixer les conditions de renonciation à l’obligation de fournir une garantie ou les documents réglementaires,
 	- **(iii)** déterminer la forme, la nature et les conditions de toute garantie que le ministre de la Sécurité publique et de la Protection civile estime indiquée;
 - **l)** prendre toute autre mesure réglementaire d’application d’un numéro tarifaire visé au présent article.
-> 1997, ch. 36, art. 133; 2001, ch. 28, art. 45; 2005, ch. 38, art. 142 et 145; 2009, ch. 2, art. 122, ch. 6, art. 36, ch. 16, art. 48 et 56, ch. 31, art. 51; 2010, ch. 4, art. 41; 2011, ch. 24, art. 134; 2012, ch. 18, art. 39, ch. 26, art. 48 et 62; 2014, ch. 14, art. 46, ch. 28, art. 54.
+> 1997, ch. 36, art. 133; 2001, ch. 28, art. 45; 2005, ch. 38, art. 142 et 145; 2009, ch. 2, art. 122, ch. 6, art. 36, ch. 16, art. 48 et 56, ch. 31, art. 51; 2010, ch. 4, art. 41; 2011, ch. 24, art. 134; 2012, ch. 18, art. 39, ch. 26, art. 48 et 62; 2014, ch. 14, art. 46, ch. 28, art. 54; 2015, ch. 3, art. 66(F).
 
 
 
