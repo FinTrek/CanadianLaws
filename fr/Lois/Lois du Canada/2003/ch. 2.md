@@ -546,7 +546,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Teneur**
 
 - **(2)** Le rapport comporte notamment :
-	- **a)** les états financiers du Centre accompagné du rapport du vérificateur;
+	- **a)** les états financiers du Centre accompagnés du rapport du vérificateur;
 	- **b)** un sommaire du plan d’entreprise du Centre;
 	- **c)** l’évaluation des résultats obtenus par rapport aux objectifs mentionnés dans le plan d’entreprise.
 
@@ -561,6 +561,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Dépôt au Parlement**
 
 - **(5)** Le ministre fait déposer un exemplaire du rapport annuel devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant la réception du rapport.
+> 2003, ch. 2, art. 33; 2015, ch. 3, art. 141(F).
+
 
 
 
