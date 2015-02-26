@@ -117,6 +117,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Not statutory instruments**
 
 - **(3)** The guidelines referred to in subsection (2) are not statutory instruments within the meaning of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
+> 2007, c. 1, s. 7; 2015, c. 3, s. 122(F).
+
 
 
 
@@ -397,6 +399,8 @@ The judge shall include in the order a declaration of the nature and extent of t
 **Not statutory instruments**
 
 - **(3)** The guidelines referred to in subsection (2) are not statutory instruments within the meaning of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
+> 2007, c. 1, s. 24; 2015, c. 3, s. 123(F).
+
 
 
 
