@@ -60,22 +60,22 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **2** The definitions in this section apply in this Act.
 
-***documentary heritage*** means publications and records of interest to Canada.
+***documentary heritage*** means publications and records of interest to Canada. (*patrimoine documentaire*)
 
-***government institution*** has the same meaning as in section 3 of the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) or in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md) or means an institution designated by the Governor in Council.
+***government institution*** has the same meaning as in section 3 of the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) or in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md) or means an institution designated by the Governor in Council. (*institution fédérale*)
 
-***government record*** means a record that is under the control of a government institution.
+***government record*** means a record that is under the control of a government institution. (*document fédéral*)
 
-Version anglaise seulement***Librarian and Archivist*** means the Librarian and Archivist of Canada appointed under subsection 5(1).
+***Librarian and Archivist*** means the Librarian and Archivist of Canada appointed under subsection 5(1). (***Version anglaise seulement***)
 
-***Minister*** means the member of the Queen’s Privy Council for Canada who is designated by the Governor in Council as the Minister for the purposes of this Act.
+***Minister*** means the member of the Queen’s Privy Council for Canada who is designated by the Governor in Council as the Minister for the purposes of this Act. (*ministre*)
 
-***ministerial record*** means a record of a member of the Queen’s Privy Council for Canada who holds the office of a minister and that pertains to that office, other than a record that is of a personal or political nature or that is a government record.
+***ministerial record*** means a record of a member of the Queen’s Privy Council for Canada who holds the office of a minister and that pertains to that office, other than a record that is of a personal or political nature or that is a government record. (*document ministériel*)
 
-***publication*** means any library matter that is made available in multiple copies or at multiple locations, whether without charge or otherwise, to the public generally or to qualifying members of the public by subscription or otherwise. Publications may be made available through any medium and may be in any form, including printed material, on-line items or recordings.
+***publication*** means any library matter that is made available in multiple copies or at multiple locations, whether without charge or otherwise, to the public generally or to qualifying members of the public by subscription or otherwise. Publications may be made available through any medium and may be in any form, including printed material, on-line items or recordings. (*publication*)
 
-***record*** means any documentary material other than a publication, regardless of medium or form.
-> 2004, c. 11, s. 2; 2006, c. 9, s. 179.1.
+***record*** means any documentary material other than a publication, regardless of medium or form. (*document*)
+> 2004, c. 11, s. 2; 2006, c. 9, s. 179.1; 2015, c. 3, s. 130(F).
 
 
 
