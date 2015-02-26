@@ -111,8 +111,8 @@
 
 ***cour supérieure*** Selon le cas :
 - **a)** la Cour supérieure de justice de l’Ontario;
-- **a.1)** la section de première instance de la Cour suprême de l’Île-du-Prince-Édouard ou de Terre-Neuve;
-- **b)** la Cour suprême de la Nouvelle-Écosse ou de la Colombie-Britannique;
+- **a.1)** la Section de première instance de la Cour suprême de Terre-Neuve-et-Labrador;
+- **b)** la Cour suprême de la Nouvelle-Écosse, de la Colombie-Britannique et de l’Île-du-Prince-Édouard;
 - **c)** la Cour du Banc de la Reine du Nouveau-Brunswick, du Manitoba, de la Saskatchewan ou de l’Alberta;
 - **d)** la Cour supérieure du Québec;
 - **e)** la Cour suprême du Yukon, la Cour suprême des Territoires du Nord-Ouest et la Cour de justice du Nunavut.
@@ -176,7 +176,7 @@
 **Notification et communication de documents**
 
 - **(5)** Pour l’application de la présente loi — à l’exception de toute notification ou communication de documents par le Tribunal ou à celui-ci —, toute notification ou communication de documents se fait, dans le cas d’une personne physique, par remise au destinataire, par courrier recommandé à sa dernière adresse connue ou par télécopieur et, dans le cas d’une personne morale, par télécopieur ou par courrier recommandé à son siège ou à tout autre bureau spécifié par le ministre. Elle peut aussi être faite par tout autre moyen, notamment électronique, approuvé par écrit par le ministre et aux conditions fixées par lui.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 4; 1992, ch. 51, art. 61; 1996, ch. 10, art. 263; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 82, ch. 9, art. 2; 2001, ch. 29, art. 64; 2002, ch. 7, art. 234(A); 2012, ch. 7, art. 4.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 4; 1992, ch. 51, art. 61; 1996, ch. 10, art. 263; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 82, ch. 9, art. 2; 2001, ch. 29, art. 64; 2002, ch. 7, art. 234(A); 2012, ch. 7, art. 4; 2015, ch. 3, art. 150.
 
 
 
