@@ -822,7 +822,7 @@ and no person shall interfere with any of the rights set out in this subsection.
 	- **(b)** that are not charged with duties, and
 	- **(c)** the importation of which is not prohibited under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or prohibited, controlled or regulated under any Act of Parliament other than this Act or the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md)
 may not be seized as forfeit under this Act by reason only that they were not reported under this section.
-> R.S., 1985, c. 1 (2nd Supp.), s. 12, c. 41 (3rd Supp.), s. 119; 1992, c. 28, s. 3; 1996, c. 31, s. 75; 1997, c. 36, s. 149; 2001, c. 25, s. 12.
+> R.S., 1985, c. 1 (2nd Supp.), s. 12, c. 41 (3rd Supp.), s. 119; 1992, c. 28, s. 3; 1996, c. 31, s. 75; 1997, c. 36, s. 149; 2001, c. 25, s. 12; 2015, c. 3, s. 60(F).
 
 
 
@@ -2679,15 +2679,15 @@ may, within ninety days after the date a decision is made under section 67, appe
 
 ***clerk of the court***[Repealed, 2014, c. 20, s. 445]
 
-***court*** means
+***court*** means
 - **(a)** in the Province of Ontario, the Superior Court of Justice,
 - **(b)** in the Province of Quebec, the Superior Court,
-- **(c)** in the Provinces of Nova Scotia and British Columbia, in Yukon and in the Northwest Territories, the Supreme Court,
+- **(c)** in the Provinces of Nova Scotia, British Columbia and Prince Edward Island, in Yukon and in the Northwest Territories, the Supreme Court,
 - **(d)** in the Provinces of New Brunswick, Manitoba, Saskatchewan and Alberta, the Court of Queen’s Bench,
 - **(e)** [Repealed, 1992, c. 51, s. 44]
-- **(f)** in the Provinces of Prince Edward Island and Newfoundland, the Trial Division of the Supreme Court, and
-- **(g)** in Nunavut, the Nunavut Court of Justice.
-> R.S., 1985, c. 1 (2nd Supp.), s. 71, c. 41 (3rd Supp.), s. 120, c. 47 (4th Supp.), s. 52; 1990, c. 16, s. 8, c. 17, s. 16; 1992, c. 1, s. 61, c. 51, s. 44; 1997, c. 36, s. 172; 1998, c. 30, ss. 12, 14; 1999, c. 3, s. 59; 2002, c. 7, s. 152; 2014, c. 20, s. 445.
+- **(f)** in the Province of Newfoundland and Labrador, the Trial Division of the Supreme Court, and
+- **(g)** in Nunavut, the Nunavut Court of Justice. (*tribunal*)
+> R.S., 1985, c. 1 (2nd Supp.), s. 71, c. 41 (3rd Supp.), s. 120, c. 47 (4th Supp.), s. 52; 1990, c. 16, s. 8, c. 17, s. 16; 1992, c. 1, s. 61, c. 51, s. 44; 1997, c. 36, s. 172; 1998, c. 30, ss. 12, 14; 1999, c. 3, s. 59; 2002, c. 7, s. 152; 2014, c. 20, s. 445; 2015, c. 3, s. 61.
 
 
 
@@ -5283,7 +5283,7 @@ If an additional amount is demanded, the total of the amount assessed and the ad
 		- **(ii)** had a *bona fide* intention to apply under that subsection;
 	- **(b)** it would be just and equitable to grant the application; and
 	- **(c)** the application was made as soon as circumstances permitted.
-> R.S., 1985, c. 1 (2nd Supp.), s. 138; 1992, c. 1, s. 62, c. 51, s. 45; 1998, c. 30, s. 14; 1999, c. 3, s. 60, c. 17, s. 127; 2001, c. 25, s. 75; 2014, c. 20, s. 174.
+> R.S., 1985, c. 1 (2nd Supp.), s. 138; 1992, c. 1, s. 62, c. 51, s. 45; 1998, c. 30, s. 14; 1999, c. 3, s. 60, c. 17, s. 127; 2001, c. 25, s. 75; 2014, c. 20, s. 174; 2015, c. 3, s. 62(F).
 
 
 
@@ -5312,9 +5312,9 @@ If an additional amount is demanded, the total of the amount assessed and the ad
 - **(2)** In this section, ***court*** means
 	- **(a)** in the Province of Ontario, the Superior Court of Justice;
 	- **(b)** in the Province of Quebec, the Superior Court;
-	- **(c)** in the Provinces of Nova Scotia and British Columbia, Yukon and the Northwest Territories, the Supreme Court;
+	- **(c)** in the Provinces of Nova Scotia, British Columbia and Prince Edward Island, Yukon and the Northwest Territories, the Supreme Court;
 	- **(d)** in the Provinces of New Brunswick, Manitoba, Saskatchewan and Alberta, the Court of Queen’s Bench;
-	- **(e)** in the Provinces of Prince Edward Island and Newfoundland, the Trial Division of the Supreme Court; and
+	- **(e)** in the Province of Newfoundland and Labrador, the Trial Division of the Supreme Court; and
 	- **(f)** in Nunavut, the Nunavut Court of Justice.
 
 **Date of hearing**
@@ -5335,7 +5335,7 @@ If an additional amount is demanded, the total of the amount assessed and the ad
 	- **(a)** acquired the interest in good faith prior to the contravention or use;
 	- **(b)** is innocent of any complicity or collusion in the contravention or use; and
 	- **(c)** exercised all reasonable care in respect of any person permitted to obtain possession of the goods or conveyance in order to satisfy the applicant that it was not likely to be used in a contravention or, if the applicant is a mortgagee, hypothecary creditor or lien-holder, that the applicant exercised that care in relation to the mortgagor, hypothecary debtor or lien-giver.
-> 2001, c. 25, s. 75; 2002, c. 7, s. 272; 2009, c. 10, s. 14(F).
+> 2001, c. 25, s. 75; 2002, c. 7, s. 272; 2009, c. 10, s. 14(F); 2015, c. 3, s. 63.
 
 
 
