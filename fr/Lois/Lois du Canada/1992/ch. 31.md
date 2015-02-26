@@ -334,9 +334,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Signification au capitaine**
 
-- **(4)** Un avis de l’ordre de rétention est signifié au capitaine de l’une des façons suivantes :
+- **(4)** Un avis de l’ordre de rétention est signifié au capitaine de l’une des façons suivantes :
 	- **a)** par remise personnelle d’un exemplaire;
-	- **b)** si la signification ne peut raisonnablement se faire de la façon prévue à l’alinéa a) :
+	- **b)** si la signification ne peut raisonnablement se faire de la façon prévue à l’alinéa a) :
 		- **(i)** soit par remise, à l’intention du capitaine, à la personne qui a ou semble avoir la responsabilité du navire,
 		- **(ii)** soit par remise au propriétaire du navire ou à son mandataire résidant au Canada ou, si on ne peut les trouver, par l’affichage d’un exemplaire sur une partie bien en vue du navire.
 
@@ -350,28 +350,28 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Congés**
 
-- **(7)** Les personnes à qui un ordre de rétention est adressé et qui l’ont reçu donnent congé au navire retenu dans les cas suivants :
+- **(7)** Les personnes à qui un ordre de rétention est adressé et qui l’ont reçu donnent congé au navire retenu dans les cas suivants :
 	- **a)** un cautionnement d’un montant de cinquante mille dollars, que le ministre des Transports juge acceptable, est versé à Sa Majesté du chef du Canada;
 	- **b)** le navire n’a pas été accusé d’une infraction à la présente loi dans les trente jours qui suivent la rétention;
-	- **c)** le navire a été accusé d’une infraction à la présente loi dans le délai mentionné à l’alinéa b) et :
+	- **c)** le navire a été accusé d’une infraction à la présente loi dans le délai mentionné à l’alinéa b) et :
 		- **(i)** ou bien un cautionnement que le ministre des Transports juge acceptable, d’un montant égal à l’amende maximale qui peut être infligée ou à une somme inférieure approuvée par le ministre, a été versé à Sa Majesté du chef du Canada,
 		- **(ii)** ou bien les poursuites relatives à cette infraction ont été abandonnées.
 
 **Vente du navire**
 
-- **(8)** Le ministre des Transports peut demander au tribunal de rendre une ordonnance l’autorisant à vendre un navire si le navire a été accusé d’une infraction à la présente loi dans les trente jours suivant l’ordre de rétention et si, dans les trente jours suivant l’accusation, les conditions suivantes sont réunies :
+- **(8)** Le ministre des Transports peut demander au tribunal de rendre une ordonnance l’autorisant à vendre un navire si le navire a été accusé d’une infraction à la présente loi dans les trente jours suivant l’ordre de rétention et si, dans les trente jours suivant l’accusation, les conditions suivantes sont réunies :
 	- **a)** personne n’a comparu au nom du navire pour répondre aux accusations;
 	- **b)** aucun cautionnement visé à l’alinéa (7)c) n’a été versé.
 
 **Idem**
 
-- **(9)** Le ministre des Transports peut demander au tribunal de rendre une ordonnance l’autorisant à vendre un navire si le navire a été accusé d’une infraction à la présente loi dans les trente jours suivant l’ordre de rétention et si les conditions suivantes sont réunies :
+- **(9)** Le ministre des Transports peut demander au tribunal de rendre une ordonnance l’autorisant à vendre un navire si le navire a été accusé d’une infraction à la présente loi dans les trente jours suivant l’ordre de rétention et si les conditions suivantes sont réunies :
 	- **a)** il y a eu comparution dans les trente jours de l’accusation mais aucun cautionnement visé à l’alinéa (7)c) n’a été versé;
 	- **b)** le navire est trouvé coupable et une amende est infligée mais n’est pas payée immédiatement.
 
 **Avis**
 
-- **(10)** Dès qu’il présente une demande en vertu des paragraphes (8) ou (9), le ministre des Transports fait parvenir par courrier recommandé un avis de la demande aux personnes suivantes :
+- **(10)** Dès qu’il présente une demande en vertu des paragraphes (8) ou (9), le ministre des Transports fait parvenir par courrier recommandé un avis de la demande aux personnes suivantes :
 	- **a)** la personne responsable de la tenue de tout registre sur lequel le navire est immatriculé, enregistré ou inscrit;
 	- **b)** les détenteurs d’hypothèques sur le navire inscrits au registre mentionné à l’alinéa a);
 	- **c)** les personnes qui, à la connaissance du ministre au moment de la demande, détiennent des privilèges maritimes, ou des droits semblables, sur le navire visé par la demande.
@@ -390,7 +390,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Ordonnance**
 
-- **(14)** Lors de l’audition de la demande visée au paragraphe (13), le requérant peut obtenir une ordonnance précisant la nature et l’étendue de son droit au moment de l’infraction si le tribunal constate qu’il réunit les conditions suivantes :
+- **(14)** Lors de l’audition de la demande visée au paragraphe (13), le requérant peut obtenir une ordonnance précisant la nature et l’étendue de son droit au moment de l’infraction si le tribunal constate qu’il réunit les conditions suivantes :
 	- **a)** il a acquis son droit de bonne foi avant l’infraction;
 	- **b)** il est innocent de toute complicité ou collusion dans l’infraction.
 
@@ -429,14 +429,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***tribunal***
 - **a)** La Cour supérieure de justice de l’Ontario;
 - **b)** la Cour supérieure du Québec;
-- **c)** la Section de première instance de la Cour suprême de l’Île-du-Prince-Édouard et de Terre-Neuve;
+- **c)** la Section de première instance de la Cour suprême de Terre-Neuve-et-Labrador;
 - **d)** la Cour du Banc de la Reine du Nouveau-Brunswick, du Manitoba, de la Saskatchewan et de l’Alberta;
-- **e)** la Cour suprême de la Nouvelle-Écosse et de la Colombie-Britannique;
+- **e)** la Cour suprême de la Nouvelle-Écosse, de la Colombie-Britannique et de l’Île-du-Prince-Édouard;
 - **f)** la Cour suprême du Yukon, la Cour suprême des Territoires du Nord-Ouest et la Cour de justice du Nunavut;
-- **g)** la Cour fédérale.
+- **g)** la Cour fédérale. (*court*)
 
-***tribunal d’appel*** La cour d’appel, au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), de la province où est rendue l’ordonnance visée au paragraphe (14) et la Cour d’appel fédérale.
-> 1992, ch. 31, art. 16; 1996, ch. 31, art. 108; 1998, ch. 16, art. 31, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 21, ch. 31, art. 43; 2002, ch. 7, art. 132(A), ch. 8, art. 183.
+***tribunal d’appel*** La cour d’appel, au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), de la province où est rendue l’ordonnance visée au paragraphe (14) et la Cour d’appel fédérale. (*court of appeal*)
+> 1992, ch. 31, art. 16; 1996, ch. 31, art. 108; 1998, ch. 16, art. 31, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 21, ch. 31, art. 43; 2002, ch. 7, art. 132(A), ch. 8, art. 183; 2015, ch. 3, art. 36.
 
 
 
