@@ -279,14 +279,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **17** 
 
-- **(1)** Le plateau continental du Canada est constitué des fonds marins et de leur sous-sol — y compris ceux de la zone économique exclusive — qui s’étendent, au-delà de la mer territoriale, sur tout le prolongement naturel du territoire terrestre du Canada :
-	- **a)** soit jusqu’au rebord externe de la marge continentale — la limite la plus éloignée que permet le droit international étant à retenir — , c’est-à-dire les fonds marins correspondant au plateau, au talus et au glacis, ainsi que leur sous-sol, qui constituent le prolongement immergé de la masse terrestre du Canada, à l’exclusion, toutefois, des grands fonds des océans, de leurs dorsales océaniques et de leur sous-sol;
+- **(1)** Le plateau continental du Canada est constitué des fonds marins et de leur sous-sol — y compris ceux de la zone économique exclusive — qui s’étendent, au-delà de la mer territoriale, sur tout le prolongement naturel du territoire terrestre du Canada :
+	- **a)** soit jusqu’au rebord externe de la marge continentale — la limite la plus éloignée que permet le droit international étant à retenir —, c’est-à-dire les fonds marins correspondant au plateau, au talus et au glacis, ainsi que leur sous-sol, qui constituent le prolongement immergé de la masse terrestre du Canada, à l’exclusion, toutefois, des grands fonds des océans, de leurs dorsales océaniques et de leur sous-sol;
 	- **b)** soit jusqu’à 200 milles marins de la ligne de base de la mer territoriale, là où ce rebord se trouve à une distance inférieure;
 	- **c)** soit, pour toute partie du plateau continental ayant fait l’objet d’une liste de coordonnées géographiques de points établie sous le régime du sous-alinéa 25a)(iii), jusqu’à la ligne constituée des géodésiques reliant ces points.
 
 **Précision**
 
 - **(2)** Il est entendu que l’absence de règlement d’application du sous-alinéa 25a)(iv) n’a pas pour effet de restreindre la portée des droits que peut exercer le Canada au titre des alinéas (1)a) et b).
+> 1996, ch. 31, art. 17; 2015, ch. 3, art. 137(A).
+
 
 
 
