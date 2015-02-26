@@ -164,8 +164,8 @@ and that is declared by order of the Minister to be a relevant association or or
 
 ***superior court*** means
 - **(a)** in the Province of Ontario, the Superior Court of Justice,
-- **(a.1)** in the Provinces of Prince Edward Island and Newfoundland, the trial division of the Supreme Court of the Province,
-- **(b)** in the Provinces of Nova Scotia and British Columbia, the Supreme Court of the Province,
+- **(a.1)** in the Province of Newfoundland and Labrador, the Trial Division of the Supreme Court of the Province,
+- **(b)** in the Provinces of Nova Scotia, British Columbia and Prince Edward Island, the Supreme Court of the Province,
 - **(c)** in the Provinces of New Brunswick, Manitoba, Saskatchewan and Alberta, the Court of Queen’s Bench for the Province,
 - **(d)** in the Province of Quebec, the Superior Court of the Province, and
 - **(e)** in Yukon and the Northwest Territories, the Supreme Court, and in Nunavut, the Nunavut Court of Justice;
@@ -196,7 +196,7 @@ and that is declared by order of the Minister to be a relevant association or or
 	- **(a)** in the case of an individual, by personal service, by facsimile or by mailing it by registered mail to the person’s latest known address;
 	- **(b)** in the case of a corporation, by facsimile or by mailing it by registered mail to its head office or any other office designated by the Minister; or
 	- **(c)** in either case, by any electronic or other means approved in writing by the Minister and subject to any conditions fixed by the Minister.
-> R.S., 1985, c. 32 (4th Supp.), s. 4; 1992, c. 51, s. 61; 1996, c. 10, s. 263; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 82, c. 9, s. 2; 2001, c. 29, s. 64; 2002, c. 7, s. 234(E); 2012, c. 7, s. 4.
+> R.S., 1985, c. 32 (4th Supp.), s. 4; 1992, c. 51, s. 61; 1996, c. 10, s. 263; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 82, c. 9, s. 2; 2001, c. 29, s. 64; 2002, c. 7, s. 234(E); 2012, c. 7, s. 4; 2015, c. 3, s. 150.
 
 
 
