@@ -202,7 +202,9 @@ French version only***détruire*** S’entend notamment d’abattre et d’enfou
 
 **Déplacement d’animaux malades**
 
-**10** Il est interdit, sans permis délivré par l’inspecteur ou l’agent d’exécution, de mener au marché, à une foire ou en tout autre lieu un animal dont on sait soit qu’il est contaminé par une maladie déclarable ou par un produit toxique soit qu’il y a été exposé.
+**10** Il est interdit, sans permis délivré par l’inspecteur ou l’agent d’exécution, de mener au marché, à une foire ou en tout autre lieu un animal dont on sait soit qu’il est contaminé par une maladie déclarable ou une substance toxique soit qu’il y a été exposé.
+> 1990, ch. 21, art. 10; 2015, ch. 3, art. 100(F).
+
 
 
 
@@ -411,8 +413,8 @@ Elle doit plutôt, en ce qui concerne les ports énumérés ci-dessus, être int
 
 **Avis**
 
-- **(3)** L’ordre est signifié au propriétaire ou à la personne concernée, soit à personne, soit par envoi postal ou autre, sous forme d’avis en précisant éventuellement le délai ou les modalités d’exécution.
-> 1990, ch. 21, art. 25; 2012, ch. 19, art. 507.
+- **(3)** L’ordre est signifié au propriétaire ou à la personne concernée, soit en mains propres, soit par envoi postal ou autre, sous forme d’avis en précisant éventuellement le délai ou les modalités d’exécution.
+> 1990, ch. 21, art. 25; 2012, ch. 19, art. 507; 2015, ch. 3, art. 101(F).
 
 
 
@@ -575,9 +577,9 @@ Elle doit plutôt, en ce qui concerne les ports énumérés ci-dessus, être int
 
 **31** 
 
-- **(1)** Dans le présent article, ***installation de transport international*** désigne indifféremment :
+- **(1)** Dans le présent article, ***installation de transport international*** désigne indifféremment :
 	- **a)** une entreprise de transport international;
-	- **b)** un moyen de communication international : route, chemin de fer, pont ou tunnel;
+	- **b)** un moyen de communication international : route, chemin de fer, pont ou tunnel;
 	- **c)** un aéroport recevant des aéronefs effectuant des vols internationaux;
 	- **d)** un port recevant des navires affectés à des lignes internationales;
 	- **e)** un entrepôt ou une autre installation recevant un véhicule affecté au transport international aérien, maritime, ferroviaire ou routier.
@@ -588,7 +590,7 @@ Elle doit plutôt, en ce qui concerne les ports énumérés ci-dessus, être int
 
 **Pouvoirs du ministre**
 
-- **(3)** Le ministre peut, sur les terrains, locaux, laboratoires ou autres installations qui lui sont fournis au titre du paragraphe (2), effectuer les opérations suivantes :
+- **(3)** Le ministre peut, sur les terrains, locaux, laboratoires ou autres installations qui lui sont fournis au titre du paragraphe (2), effectuer les opérations suivantes :
 	- **a)** leur apporter les améliorations qu’il juge souhaitables;
 	- **b)** y mettre en place, y compris dans leurs environs, la signalisation qu’il juge utile pour leur exploitation ou en vue de la sécurité de leur usage, ou encore pour l’application de la présente loi ou des règlements;
 	- **c)** les utiliser aussi longtemps qu’il l’exige pour l’application de la présente loi ou des règlements.
@@ -599,7 +601,7 @@ Elle doit plutôt, en ce qui concerne les ports énumérés ci-dessus, être int
 
 **Avis**
 
-- **(5)** L’ordre est signifié au propriétaire ou à l’exploitant, soit à personne, soit par envoi postal ou autre, sous forme d’avis en précisant éventuellement le délai ou les modalités d’exécution.
+- **(5)** L’ordre est signifié au propriétaire ou à l’exploitant, soit en mains propres, soit par envoi postal ou autre, sous forme d’avis en précisant éventuellement le délai ou les modalités d’exécution.
 
 **Arbitrage**
 
@@ -612,6 +614,8 @@ Elle doit plutôt, en ce qui concerne les ports énumérés ci-dessus, être int
 **Règlements**
 
 - **(8)** Le gouverneur en conseil peut, par règlement, déterminer en quoi consiste le caractère approprié des terrains, locaux, laboratoires ou autres installations pour l’application du paragraphe (2).
+> 1990, ch. 21, art. 31; 2015, ch. 3, art. 102(F).
+
 
 
 
@@ -697,7 +701,9 @@ Elle doit plutôt, en ce qui concerne les ports énumérés ci-dessus, être int
 
 **Avis**
 
-- **(2)** L’ordre est signifié au propriétaire ou à la personne concernée, soit à personne, soit par envoi postal ou autre, sous forme d’avis en précisant éventuellement le délai ou les modalités d’exécution.
+- **(2)** L’ordre est signifié au propriétaire ou à la personne concernée, soit en mains propres, soit par envoi postal ou autre, sous forme d’avis en précisant éventuellement le délai ou les modalités d’exécution.
+> 1990, ch. 21, art. 37; 2015, ch. 3, art. 103(F).
+
 
 
 
@@ -804,11 +810,13 @@ L’avis de l’inspecteur ou de l’agent d’exécution doit être fondé sur 
 
 **Avis**
 
-- **(2)** L’ordre est signifié au propriétaire ou à la personne concernée, soit à personne, soit par envoi postal ou autre, sous forme d’avis en précisant éventuellement le délai ou les modalités d’exécution.
+- **(2)** L’ordre est signifié au propriétaire ou à la personne concernée, soit en mains propres, soit par envoi postal ou autre, sous forme d’avis en précisant éventuellement le délai ou les modalités d’exécution.
 
 **Biens périssables**
 
 - **(3)** L’inspecteur ou l’agent d’exécution qui les a saisis peut prendre toute mesure de disposition — notamment de destruction — à l’égard des biens retenus qui sont périssables; le produit de l’aliénation est versé au receveur général.
+> 1990, ch. 21, art. 43; 2015, ch. 3, art. 104(F).
+
 
 
 
@@ -884,7 +892,7 @@ L’avis de l’inspecteur ou de l’agent d’exécution doit être fondé sur 
 
 **48** 
 
-- **(1)** Le ministre peut prendre toute mesure de disposition, notamment de destruction, — ou ordonner à leur propriétaire, ou à la personne qui en a la possession, la responsabilité ou la charge des soins, de le faire — à l’égard des animaux ou choses qui :
+- **(1)** Le ministre peut prendre toute mesure de disposition, notamment de destruction, — ou ordonner à leur propriétaire, ou à la personne qui en a la possession, la responsabilité ou la charge des soins, de le faire — à l’égard des animaux ou choses qui :
 	- **a)** soit sont contaminés par une maladie ou une substance toxique, ou soupçonnés de l’être;
 	- **b)** soit ont été en contact avec des animaux ou choses de la catégorie visée à l’alinéa a) ou se sont trouvés dans leur voisinage immédiat;
 	- **c)** soit sont des substances toxiques, des vecteurs ou des agents causant des maladies, ou sont soupçonnés d’en être.
@@ -895,7 +903,9 @@ L’avis de l’inspecteur ou de l’agent d’exécution doit être fondé sur 
 
 **Avis**
 
-- **(3)** L’ordre est signifié au propriétaire ou à la personne concernée, soit à personne, soit par envoi postal ou autre, sous forme d’avis en précisant éventuellement le délai ou les modalités d’exécution.
+- **(3)** L’ordre est signifié au propriétaire ou à la personne concernée, soit en mains propres, soit par envoi postal ou autre, sous forme d’avis en précisant éventuellement le délai ou les modalités d’exécution.
+> 1990, ch. 21, art. 48; 2015, ch. 3, art. 105(F).
+
 
 
 
@@ -987,11 +997,11 @@ L’avis de l’inspecteur ou de l’agent d’exécution doit être fondé sur 
 
 **Règlements**
 
-**55** Le ministre peut, par règlement :
+**55** Le ministre peut, par règlement :
 - **a)** régir le mode de calcul de la valeur marchande des animaux difficilement commercialisables selon lui;
 - **b)** fixer les plafonds des valeurs marchandes des animaux ou des choses ou leur mode de calcul;
 - **c)** autoriser l’indemnisation pour frais de disposition — notamment par destruction — d’animaux ou de choses et fixer soit le montant de celle-ci ainsi que le plafond, soit le mode de leur détermination.
-> 1990, ch. 21, art. 55; 1997, ch. 6, art. 71.
+> 1990, ch. 21, art. 55; 1997, ch. 6, art. 71; 2015, ch. 3, art. 106(A).
 
 
 
@@ -1084,8 +1094,8 @@ L’avis de l’inspecteur ou de l’agent d’exécution doit être fondé sur 
 
 **Débiteurs**
 
-- **(2)** Sont alors débiteurs de ces frais soit les personnes qui sont à l’origine de la présence ou de la propagation de la maladie ou du produit toxique en cause ou qui y ont contribué, par leur faute ou leur négligence, soit celles qui sont légalement responsables de telles personnes.
-> 1990, ch. 21, art. 61; 2012, ch. 19, art. 511.
+- **(2)** Sont alors débiteurs de ces frais soit les personnes qui sont à l’origine de la présence ou de la propagation de la maladie ou de la substance toxique en cause ou qui y ont contribué, par leur faute ou leur négligence, soit celles qui sont légalement responsables de telles personnes.
+> 1990, ch. 21, art. 61; 2012, ch. 19, art. 511; 2015, ch. 3, art. 107(F).
 
 
 
