@@ -39,37 +39,37 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***agent de l’autorité*** Toute personne désignée, individuellement ou au titre de son appartenance à une catégorie, en vertu de l’article 19.
+***agent de l’autorité*** Toute personne désignée, individuellement ou au titre de son appartenance à une catégorie, en vertu de l’article 19. (*enforcement officer*)
 
-***collectivité*** L’une des collectivités suivantes :
+***collectivité*** L’une des collectivités suivantes :
 - **a)** le centre d’accueil de Field situé dans le parc national Yoho du Canada;
-- **b)** la ville de Banff située dans le parc national Banff du Canada;
+- **b)** le périmètre urbain de Banff situé dans le parc national Banff du Canada;
 - **c)** le centre d’accueil du Lac Louise situé dans le parc national Banff du Canada;
 - **d)** le centre d’accueil du parc des Lacs-Waterton situé dans le parc national des Lacs-Waterton du Canada;
 - **e)** la ville de Jasper située dans le parc national Jasper du Canada;
 - **f)** le centre d’accueil de Waskesiu situé dans le parc national de Prince Albert du Canada;
-- **g)** le centre d’accueil de Wasagaming situé dans le parc national du Mont-Riding du Canada.
+- **g)** le centre d’accueil de Wasagaming situé dans le parc national du Mont-Riding du Canada. (*park community*)
 
-***directeur*** Fonctionnaire nommé, en vertu de la [Loi sur l’Agence Parcs Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2031.md), directeur d’un parc ou d’un lieu historique national du Canada régi par la présente loi. Y est assimilée toute personne nommée en vertu de cette loi qu’il autorise à agir en son nom.
+***directeur*** Fonctionnaire nommé, en vertu de la [Loi sur l’Agence Parcs Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2031.md), directeur d’un parc ou d’un lieu historique national du Canada régi par la présente loi. Y est assimilée toute personne nommée en vertu de cette loi qu’il autorise à agir en son nom. (*superintendent*)
 
-***garde de parc*** Toute personne désignée en vertu de l’article 18.
+***garde de parc*** Toute personne désignée en vertu de l’article 18. (*park warden*)
 
-***intégrité écologique*** L’état d’un parc jugé caractéristique de la région naturelle dont il fait partie et qui sera vraisemblablement maintenu, notamment les éléments abiotiques, la composition et l’abondance des espèces indigènes et des communautés biologiques ainsi que le rythme des changements et le maintien des processus écologiques.
+***intégrité écologique*** L’état d’un parc jugé caractéristique de la région naturelle dont il fait partie et qui sera vraisemblablement maintenu, notamment les éléments abiotiques, la composition et l’abondance des espèces indigènes et des communautés biologiques ainsi que le rythme des changements et le maintien des processus écologiques. (*ecological integrity*)
 
-***ministre*** Le ministre responsable de l’Agence Parcs Canada.
+***ministre*** Le ministre responsable de l’Agence Parcs Canada. (*Minister*)
 
-***parc*** Parc national du Canada dénommé et décrit à l’annexe 1.
+***parc*** Parc national du Canada dénommé et décrit à l’annexe 1. (*park*)
 
-***plan communautaire*** Le plan d’aménagement d’une collectivité.
+***plan communautaire*** Le plan d’aménagement d’une collectivité. (*community plan*)
 
-***réserve*** Réserve à vocation de parc national du Canada dénommée et décrite à l’annexe 2.
+***réserve*** Réserve à vocation de parc national du Canada dénommée et décrite à l’annexe 2. (*park reserve*)
 
-***terres domaniales*** Terres — y compris celles qui sont immergées — appartenant à Sa Majesté du chef du Canada ou que le gouvernement du Canada peut aliéner, sous réserve des éventuels accords conclus avec un gouvernement provincial.
+***terres domaniales*** Terres — y compris celles qui sont immergées — appartenant à Sa Majesté du chef du Canada ou que le gouvernement du Canada peut aliéner, sous réserve des éventuels accords conclus avec un gouvernement provincial. (*public lands*)
 
 **Droits des autochtones**
 
 - **(2)** Il est entendu que la présente loi ne porte pas atteinte à la protection des droits existants — ancestraux ou issus de traités — des peuples autochtones du Canada découlant de leur reconnaissance et de leur confirmation au titre de l’article 35 de la Loi constitutionnelle de 1982.
-> 2000, ch. 32, art. 2; 2002, ch. 18, art. 30; 2005, ch. 2, art. 7.
+> 2000, ch. 32, art. 2; 2002, ch. 18, art. 30; 2005, ch. 2, art. 7; 2015, ch. 3, art. 18(F).
 
 
 
@@ -1067,21 +1067,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **33** 
 
-- **(1)** Dans les meilleurs délais après l’entrée en vigueur du présent article, un plan communautaire pour chaque collectivité est déposé devant chaque chambre du Parlement; le plan est accompagné, dans le cas de la ville de Banff, de tout règlement de zonage pris en vertu de l’accord visé à l’article 35.
+- **(1)** Dans les meilleurs délais après l’entrée en vigueur du présent article, un plan communautaire pour chaque collectivité est déposé devant chaque chambre du Parlement; le plan est accompagné, dans le cas du périmètre urbain de Banff, de tout règlement de zonage pris en vertu de l’accord visé à l’article 35.
 
 **Principes directeurs**
 
-- **(2)** Le plan communautaire doit :
+- **(2)** Le plan communautaire doit :
 	- **a)** être compatible avec le plan de gestion du parc où est située la collectivité;
 	- **b)** respecter les lignes directrices établies par le ministre relativement à l’exercice d’activités dans la collectivité;
 	- **c)** prévoir une stratégie de gestion du développement de la collectivité;
-	- **d)** respecter les principes suivants :
+	- **d)** respecter les principes suivants :
 		- **(i)** absence d’effet nuisible sur l’environnement,
 		- **(ii)** préservation de l’environnement et conservation du patrimoine.
 
 **Contenu du plan**
 
-- **(3)** Le plan, ou les règlements de zonage visés au paragraphe (1), comportent les éléments suivants :
+- **(3)** Le plan, ou les règlements de zonage visés au paragraphe (1), comportent les éléments suivants :
 	- **a)** la description des terrains situés dans le périmètre de la collectivité;
 	- **b)** la description des terrains dans les zones commerciales de la collectivité;
 	- **c)** l’indication de la superficie maximale autorisée dans les zones commerciales.
@@ -1093,6 +1093,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Baux, permis, etc.**
 
 - **(5)** Il est interdit de délivrer des baux, permis d’occupation, licences ou autres autorisations permettant l’utilisation à des fins commerciales de terres situées dans une zone commerciale d’une collectivité si la délivrance de l’autorisation a pour effet d’excéder la superficie commerciale maximale de ces zones mentionnée à l’annexe 4.
+> 2000, ch. 32, art. 33; 2015, ch. 3, art. 19(F).
+
 
 
 
@@ -5072,7 +5074,7 @@ Lesdites parcelles 1 à 5 renfermant ensemble environ 2 149,8 hectares (21,5 ki
 
 
 
-**PARTIE 10 — TERRE-NEUVE** 
+**PARTIE 10 — TERRE-NEUVE-ET-LABRADOR** 
 
 
 ### (1) Parc national Terra-Nova du Canada
@@ -5082,7 +5084,7 @@ Premièrement
 
 
 
-Toute l’étendue ou la parcelle de terre située dans les anciens districts de Bonavista-Nord et de Bonavista-Sud, dans la province de Terre-Neuve, telle qu’elle est indiquée sur le plan numéro 50066 déposé aux Archives d’arpentage des terres du Canada, à Ottawa, dont copie a été enregistrée au folio 44 du volume 455 au Bureau d’enregistrement à St. John’s, Terre-Neuve; ladite parcelle ou étendue étant d’environ 39 627 hectares.
+Toute l’étendue ou la parcelle de terre située dans les anciens districts de Bonavista-Nord et de Bonavista-Sud, dans la province de Terre-Neuve-et-Labrador, telle qu’elle est indiquée sur le plan numéro 50066 déposé aux Archives d’arpentage des terres du Canada, à Ottawa, dont copie a été enregistrée au folio 44 du volume 455 au Bureau d’enregistrement à St. John’s, Terre-Neuve-et-Labrador; ladite parcelle ou étendue étant d’environ 39 627 hectares.
 
 
 
@@ -5090,14 +5092,14 @@ Deuxièmement
 
 
 
-Toute l’étendue ou la parcelle de terre située dans le district de Terra Nova, dans la province de Terre-Neuve, portant la désignation de « Parcel A » sur le plan numéro 69827 déposé aux Archives d’arpentage des terres du Canada, à Ottawa, dont copie a été enregistrée au Bureau d’enregistrement à St. John’s, Terre-Neuve, sous le numéro 1407; ladite parcelle ou étendue étant d’environ 365 hectares.
+Toute l’étendue ou la parcelle de terre située dans le district de Terra Nova, dans la province de Terre-Neuve-et-Labrador, portant la désignation de « Parcel A » sur le plan numéro 69827 déposé aux Archives d’arpentage des terres du Canada, à Ottawa, dont copie a été enregistrée au Bureau d’enregistrement à St. John’s, Terre-Neuve-et-Labrador, sous le numéro 1407; ladite parcelle ou étendue étant d’environ 365 hectares.
 
 
 
 ### (2) Parc national du Gros-Morne du Canada
 
 
-L’ensemble d’une certaine étendue de terre située dans les districts de St. Barbe (anciennement St. Barbe South et St. Barbe North) et de Bay of Islands (anciennement Humber West), dans la province de Terre-Neuve, et indiquée comme étant le « Proposed Gros Morne National Park » sur un plan déposé sous le numéro 69288 aux Archives d’arpentage des terres du Canada, à Ottawa, et une copie dudit plan ayant été déposée sous le numéro 1209 au Bureau d’enregistrement à St. John’s (Terre-Neuve).
+L’ensemble d’une certaine étendue de terre située dans les districts de St. Barbe (anciennement St. Barbe South et St. Barbe North) et de Bay of Islands (anciennement Humber West), dans la province de Terre-Neuve-et-Labrador, et indiquée comme étant le « Proposed Gros Morne National Park » sur un plan déposé sous le numéro 69288 aux Archives d’arpentage des terres du Canada, à Ottawa, et une copie dudit plan ayant été déposée sous le numéro 1209 au Bureau d’enregistrement à St. John’s (Terre-Neuve-et-Labrador).
 
 
 
@@ -6126,7 +6128,7 @@ BI-38/26 P
 
 
 
-Ledit parc national d’Auyuittuq du Canada renfermant environ 13 089 kilomètres carrés.
+Ledit parc national d’Auyuittuq du Canada renfermant environ 19 089 kilomètres carrés.
 
 
 
@@ -6591,7 +6593,7 @@ Y compris toutes les matières ou tous les matériaux pouvant être aliénés co
 Le parc national Ukkusiksalik du Canada renfermant environ 20 880 km<sup>2</sup>.
 
 
-> 2000, ch. 32, ann. 1; 2001, ch. 34, art. 25(F); 2002, ch. 7, art. 106; DORS/2003-345; 2004, ch. 20, art. 1; DORS/2004-300; 2008, ch. 2, art. 13; 2013, ch. 2, art. 1; DORS/2013-16; DORS/2014-187.
+> 2000, ch. 32, ann. 1; 2001, ch. 34, art. 25(F); 2002, ch. 7, art. 106; DORS/2003-345; 2004, ch. 20, art. 1; DORS/2004-300; 2008, ch. 2, art. 13; 2013, ch. 2, art. 1; DORS/2013-16; DORS/2014-187; 2015, ch. 3, art. 20 et 22.
 
 
 
@@ -9856,7 +9858,7 @@ L’ensemble de l’île de Sable, située près des coordonnées géographiques
 La parcelle de terre ayant une superficie d’environ trente kilomètres carrés.
 
 
-> 2000, ch. 32, ann. 2; 2002, ch. 7, art. 107(A); 2004, ch. 20, art. 2; 2005, ch. 27, art. 17; 2008, ch. 2, art. 14; 2009, ch. 17, art. 8 et 9; DORS/2010-182; 2013, ch. 28, art. 4; 2014, ch. 2, art. 51, ch. 35, art. 6.
+> 2000, ch. 32, ann. 2; 2002, ch. 7, art. 107(A); 2004, ch. 20, art. 2; 2005, ch. 27, art. 17; 2008, ch. 2, art. 14; 2009, ch. 17, art. 8 et 9; DORS/2010-182; 2013, ch. 28, art. 4; 2014, ch. 2, art. 51, ch. 35, art. 6; 2015, ch. 3, art. 21(F).
 
 
 
