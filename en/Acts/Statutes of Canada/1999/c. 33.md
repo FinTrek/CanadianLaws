@@ -283,7 +283,7 @@ and, except for the purposes of sections 66, 80 to 89 and 104 to 115, includes
 	- **(a)** one representative for each of the Ministers;
 	- **(b)** one representative of the government of each of the provinces; and
 	- **(c)** subject to subsection (3), not more than six representatives of aboriginal governments, to be selected on the following regional basis,
-		- **(i)** one representative for all aboriginal governments, except Inuit, in Newfoundland, Prince Edward Island, Nova Scotia and New Brunswick,
+		- **(i)** one representative for all aboriginal governments, except Inuit, in Newfoundland and Labrador, Prince Edward Island, Nova Scotia and New Brunswick,
 		- **(ii)** one representative for all aboriginal governments, except Inuit, in Quebec,
 		- **(iii)** one representative for all aboriginal governments, except Inuit, in Ontario,
 		- **(iv)** one representative for all aboriginal governments, except Inuit, in Manitoba, Saskatchewan, Alberta, the Northwest Territories and Nunavut,
@@ -309,7 +309,7 @@ and, except for the purposes of sections 66, 80 to 89 and 104 to 115, includes
 **Regulations**
 
 - **(4)** The Minister may make regulations respecting the manner of selecting a representative under subsection (3).
-> 1999, c. 33, s. 6; 2002, c. 7, s. 124.
+> 1999, c. 33, s. 6; 2002, c. 7, s. 124; 2015, c. 3, s. 172.
 
 
 
