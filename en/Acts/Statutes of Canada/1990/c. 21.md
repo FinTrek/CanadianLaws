@@ -221,6 +221,8 @@ every person in that area who owns or has the possession, care or control of an 
 **Bringing diseased animals to market**
 
 **10** No person shall, without a licence issued by an inspector or officer, bring into any market, fair or other place any animal that is known by the person to be affected or contaminated by, or has been exposed to, any reportable disease or toxic substance.
+> 1990, c. 21, s. 10; 2015, c. 3, s. 100(F).
+
 
 
 
@@ -443,7 +445,7 @@ and this Act shall, with respect to the ports to which the Acts referred to in p
 **Notice**
 
 - **(3)** A requirement under paragraph (2)(b) shall be communicated by personal delivery of a notice to the owner or person having the possession, care or control of the animal or thing or by sending the notice to the owner or person, and the notice may specify the period within which and the manner in which the animal or thing is to be returned or removed.
-> 1990, c. 21, s. 25; 2012, c. 19, s. 507.
+> 1990, c. 21, s. 25; 2012, c. 19, s. 507; 2015, c. 3, s. 101(F).
 
 
 
@@ -643,6 +645,8 @@ and this Act shall, with respect to the ports to which the Acts referred to in p
 **Regulations**
 
 - **(8)** The Governor in Council may make regulations for determining the adequacy of any area, office, laboratory or other facility for the purposes mentioned in subsection (2).
+> 1990, c. 21, s. 31; 2015, c. 3, s. 102(F).
+
 
 
 
@@ -731,6 +735,8 @@ and this Act shall, with respect to the ports to which the Acts referred to in p
 **Notice**
 
 - **(2)** A requirement under subsection (1) shall be communicated by personal delivery of a notice to the owner or person having the possession, care or control of the conveyance, container or other thing or by sending the notice to the owner or person, and the notice may specify the period within which and the manner in which it is to be quarantined, disposed of or returned.
+> 1990, c. 21, s. 37; 2015, c. 3, s. 103(F).
+
 
 
 
@@ -851,6 +857,8 @@ the justice may at any time sign and issue a warrant authorizing an inspector or
 **Proceeds**
 
 - **(3)** An inspector or officer who seizes and detains an animal or a perishable thing under this Act may dispose of it and any proceeds realized from its disposition shall be paid to the Receiver General.
+> 1990, c. 21, s. 43; 2015, c. 3, s. 104(F).
+
 
 
 
@@ -944,6 +952,8 @@ for an order that it be returned.
 **Notice**
 
 - **(3)** A requirement under this section shall be communicated by personal delivery of a notice to the owner or person having the possession, care or control of the thing or by sending a notice to the owner or person, and the notice may specify the period within which and the manner in which the requirement is to be met.
+> 1990, c. 21, s. 48; 2015, c. 3, s. 105(F).
+
 
 
 
@@ -1046,8 +1056,8 @@ minus
 **55** The Minister may make regulations
 - **(a)** respecting the method of calculating the market value of animals for which the Minister considers there is no readily available market;
 - **(b)** establishing maximum amounts, or the manner of calculating maximum amounts, for the purpose of subsection 51(3) or section 52; and
-- **(c)** permitting compensation for any costs related to the disposal of animals and things and for determining the amounts of the compensable costs, including prescribing maximum amounts.
-> 1990, c. 21, s. 55; 1997, c. 6, s. 71.
+- **(c)** permitting compensation for any costs related to the disposal of animals and things and for determining the amounts of the compensable costs, including maximum amounts, or a manner of calculating them.
+> 1990, c. 21, s. 55; 1997, c. 6, s. 71; 2015, c. 3, s. 106(E).
 
 
 
@@ -1143,7 +1153,7 @@ minus
 **Persons liable**
 
 - **(2)** The fees, charges and costs are recoverable from any persons who through their fault or negligence, or that of others for whom in law they are responsible, caused or contributed to the causation of the existence or spread of the disease or toxic substance in respect of which a primary control zone was declared.
-> 1990, c. 21, s. 61; 2012, c. 19, s. 511.
+> 1990, c. 21, s. 61; 2012, c. 19, s. 511; 2015, c. 3, s. 107(F).
 
 
 
