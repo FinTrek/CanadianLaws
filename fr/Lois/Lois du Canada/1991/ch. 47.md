@@ -270,9 +270,9 @@ French version only***souscripteur*** Titulaire d’une police.
 ***tribunal***
 - **a)** La Cour supérieure de justice de l’Ontario;
 - **b)** la Cour supérieure du Québec;
-- **c)** la Cour suprême de la Nouvelle-Écosse et de la Colombie-Britannique;
+- **c)** la Cour suprême de la Nouvelle-Écosse, de la Colombie-Britannique et de l’Île-du-Prince-Édouard;
 - **d)** la Cour du Banc de la Reine du Nouveau-Brunswick, du Manitoba, de la Saskatchewan ou de l’Alberta;
-- **e)** la Section de première instance de la Cour suprême de l’Île-du-Prince-Édouard ou de Terre-Neuve;
+- **e)** la Section de première instance de la Cour suprême de Terre-Neuve-et-Labrador;
 - **f)** la Cour suprême du Yukon, la Cour suprême des Territoires du Nord-Ouest ou la Cour de justice du Nunavut.
 
 ***vérificateur*** S’entend notamment d’un cabinet de comptables.
@@ -296,7 +296,7 @@ French version only***souscripteur*** Titulaire d’une police.
 **Participation multiple**
 
 - **(4)** Pour l’application de la présente loi, est à participation multiple la personne morale qui n’a aucun actionnaire important.
-> 1991, ch. 47, art. 2 et 758, ch. 48, art. 495; 1992, ch. 51, art. 55; 1996, ch. 6, art. 66; 1997, ch. 15, art. 165; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 70, ch. 28, art. 118; 2000, ch. 12, art. 153; 2001, ch. 9, art. 345, ch. 27, art. 255; 2002, ch. 7, art. 187(A); 2005, ch. 54, art. 214; 2007, ch. 6, art. 186; 2010, ch. 12, art. 2117; 2012, ch. 5, art. 122.
+> 1991, ch. 47, art. 2 et 758, ch. 48, art. 495; 1992, ch. 51, art. 55; 1996, ch. 6, art. 66; 1997, ch. 15, art. 165; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 70, ch. 28, art. 118; 2000, ch. 12, art. 153; 2001, ch. 9, art. 345, ch. 27, art. 255; 2002, ch. 7, art. 187(A); 2005, ch. 54, art. 214; 2007, ch. 6, art. 186; 2010, ch. 12, art. 2117; 2012, ch. 5, art. 122; 2015, ch. 3, art. 120.
 
 
 
@@ -11822,7 +11822,7 @@ si l’opération avait pour effet de porter à plus de cinquante pour cent de s
 
 
 **PARTIE XII** 
-## Sociétés de secours mutuels
+## Sociétés de secours mutuel
 
 
 
