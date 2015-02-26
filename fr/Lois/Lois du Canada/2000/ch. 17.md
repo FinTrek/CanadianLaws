@@ -1266,11 +1266,11 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 - **(5)** Au présent article et aux articles 33 et 34, ***tribunal*** s’entend :
 	- **a)** dans la province d’Ontario, de la Cour supérieure de justice;
 	- **b)** dans la province de Québec, de la Cour supérieure;
-	- **c)** dans les provinces de la Nouvelle-Écosse et de la Colombie-Britannique, le territoire du Yukon et les Territoires du Nord-Ouest, de la Cour suprême;
+	- **c)** dans les provinces de la Nouvelle-Écosse, de la Colombie-Britannique et de l’Île-du-Prince-Édouard, au Yukon et dans les Territoires du Nord-Ouest, de la Cour suprême;
 	- **d)** dans les provinces du Nouveau-Brunswick, du Manitoba, de la Saskatchewan et de l’Alberta, de la Cour du Banc de la Reine;
-	- **e)** dans les provinces de l’Île-du-Prince-Édouard et de Terre-Neuve, de la Section de première instance de la Cour suprême;
+	- **e)** dans la province de Terre-Neuve-et-Labrador, de la Section de première instance de la Cour suprême;
 	- **f)** dans le Nunavut, de la Cour de justice du Nunavut.
-> 2000, ch. 17, art. 32; 2001, ch. 41, art. 63; 2005, ch. 38, art. 127; 2006, ch. 12, art. 17.
+> 2000, ch. 17, art. 32; 2001, ch. 41, art. 63; 2005, ch. 38, art. 127; 2006, ch. 12, art. 17; 2015, ch. 3, art. 148.
 
 
 
