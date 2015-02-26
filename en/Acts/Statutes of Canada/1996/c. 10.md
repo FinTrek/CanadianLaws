@@ -104,7 +104,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***goods*** includes rolling stock and mail;
 
-***member*** means a member of the Agency appointed under paragraph 7(2)(a) and includes a temporary member;
+***member*** means a member of the Agency appointed under subsection 7(2) and includes a temporary member;
 
 ***Minister*** means the Minister of Transport;
 
@@ -118,14 +118,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(a)** in Ontario, the Superior Court of Justice,
 - **(b)** in Quebec, the Superior Court,
 - **(c)** in New Brunswick, Manitoba, Saskatchewan and Alberta, the Court of Queen’s Bench,
-- **(d)** in Nova Scotia, British Columbia, Yukon and the Northwest Territories, the Supreme Court,
-- **(e)** in Prince Edward Island and Newfoundland, the Trial Division of the Supreme Court, and
+- **(d)** in Nova Scotia, British Columbia, Prince Edward Island, Yukon and the Northwest Territories, the Supreme Court,
+- **(e)** in Newfoundland and Labrador, the Trial Division of the Supreme Court, and
 - **(f)** in Nunavut, the Nunavut Court of Justice;
 
 ***temporary member*** means a temporary member of the Agency appointed under subsection 9(1);
 
 ***Vice-Chairperson*** means the Vice-Chairperson of the Agency.
-> 1996, c. 10, s. 6; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 20; 2002, c. 7, s. 114(E).
+> 1996, c. 10, s. 6; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 20; 2002, c. 7, s. 114(E); 2015, c. 3, s. 29.
 
 
 
@@ -156,8 +156,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Chairperson and Vice-Chairperson**
 
-- **(3)** The Governor in Council shall designate one of the members appointed under paragraph (2)(a) to be the Chairperson of the Agency and one of the other members appointed under that paragraph to be the Vice-Chairperson of the Agency.
-> 1996, c. 10, s. 7; 2001, c. 27, s. 221; 2007, c. 19, s. 3.
+- **(3)** The Governor in Council shall designate one of the members appointed under subsection (2) to be the Chairperson of the Agency and one of the other members appointed under that subsection to be the Vice-Chairperson of the Agency.
+> 1996, c. 10, s. 7; 2001, c. 27, s. 221; 2007, c. 19, s. 3; 2015, c. 3, s. 30(E).
 
 
 
@@ -167,16 +167,16 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **8** 
 
-- **(1)** Each member appointed under paragraph 7(2)(a) shall hold office during good behaviour for a term of not more than five years and may be removed for cause by the Governor in Council.
+- **(1)** Each member appointed under subsection 7(2) shall hold office during good behaviour for a term of not more than five years and may be removed for cause by the Governor in Council.
 
 **Reappointment**
 
-- **(2)** A member appointed under paragraph 7(2)(a) is eligible to be reappointed on the expiration of a first or subsequent term of office.
+- **(2)** A member appointed under subsection 7(2) is eligible to be reappointed on the expiration of a first or subsequent term of office.
 
 **Continuation in office**
 
 - **(3)** If a member appointed under subsection 7(2) ceases to hold office, the Chairperson may authorize the member to continue to hear any matter that was before the member on the expiry of the member’s term of office and that member is deemed to be a member of the Agency, but that person’s status as a member does not preclude the appointment of up to five members under subsection 7(2) or up to three temporary members under subsection 9(1).
-> 1996, c. 10, s. 8; 2007, c. 19, s. 4.
+> 1996, c. 10, s. 8; 2007, c. 19, s. 4; 2015, c. 3, s. 31(E).
 
 
 
@@ -211,7 +211,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **10** 
 
-- **(1)** A member appointed under paragraph 7(2)(a) shall not, directly or indirectly, as owner, shareholder, director, officer, partner or otherwise,
+- **(1)** A member appointed under subsection 7(2) shall not, directly or indirectly, as owner, shareholder, director, officer, partner or otherwise,
 	- **(a)** be engaged in a transportation undertaking or business; or
 	- **(b)** have an interest in a transportation undertaking or business or an interest in the manufacture or distribution of transportation plant or equipment, unless the distribution is merely incidental to the general merchandising of goods.
 
@@ -221,7 +221,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Disposal of conflict of interest**
 
-- **(3)** Where an interest referred to in subsection (1) vests in a member appointed under paragraph 7(2)(a) for the benefit of the member by will or succession, the interest shall, within three months after the vesting, be absolutely disposed of by the member.
+- **(3)** If an interest referred to in subsection (1) vests in a member appointed under subsection 7(2) for the benefit of the member by will or succession, the member shall, within three months after the vesting, absolutely dispose of the interest.
+> 1996, c. 10, s. 10; 2015, c. 3, s. 32(E).
+
 
 
 
@@ -247,7 +249,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **12** 
 
-- **(1)** A member appointed under paragraph 7(2)(a) is deemed to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md).
+- **(1)** A member appointed under subsection 7(2) is deemed to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md).
 
 **Temporary members not included**
 
@@ -255,10 +257,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Accident compensation**
 
-- **(3)** For the purposes of the 
-[Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulation made pursuant to section 9 of the 
-[Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), a member is deemed to be an employee in the federal public administration.
-> 1996, c. 10, s. 12; 2003, c. 22, ss. 224(E), 225(E).
+- **(3)** For the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulation made pursuant to section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), a member is deemed to be an employee in the federal public administration.
+> 1996, c. 10, s. 12; 2003, c. 22, ss. 224(E), 225(E); 2015, c. 3, s. 33(E).
 
 
 
