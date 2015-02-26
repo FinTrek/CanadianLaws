@@ -780,11 +780,11 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 
 **12** 
 
-- **(1)** Sous réserve des autres dispositions du présent article, ainsi que des circonstances et des conditions prévues par règlement, toutes les marchandises importées doivent être déclarées au bureau de douane le plus proche, doté des attributions prévues à cet effet, qui soit ouvert.
+- **(1)** Sous réserve des autres dispositions du présent article, ainsi que des circonstances et des conditions réglementaires, toutes les marchandises importées doivent être déclarées au bureau de douane le plus proche, doté des attributions prévues à cet effet, qui soit ouvert.
 
 **Modalités**
 
-- **(2)** La déclaration visée au paragraphe (1) est à faire selon les modalités de temps et de forme fixées par le gouverneur en conseil.
+- **(2)** La déclaration visée au paragraphe (1) est à faire selon les modalités réglementaires de temps et de forme fixées par le gouverneur en conseil.
 
 **Déclarant**
 
@@ -816,7 +816,7 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 	- **a)** elles sont en la possession effective ou parmi les bagages d’une personne se trouvant à bord du moyen de transport par lequel elle est arrivée au Canada;
 	- **b)** elles ne sont pas passibles de droits;
 	- **c)** leur importation n’est pas prohibée par le [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), ni prohibée, contrôlée ou réglementée sous le régime d’une loi fédérale autre que la présente loi ou le [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 12, ch. 41 (3<sup>e</sup> suppl.), art. 119; 1992, ch. 28, art. 3; 1996, ch. 31, art. 75; 1997, ch. 36, art. 149; 2001, ch. 25, art. 12.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 12, ch. 41 (3<sup>e</sup> suppl.), art. 119; 1992, ch. 28, art. 3; 1996, ch. 31, art. 75; 1997, ch. 36, art. 149; 2001, ch. 25, art. 12; 2015, ch. 3, art. 60(F).
 
 
 
@@ -2671,12 +2671,12 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 ***tribunal***
 - **a)** Dans la province d’Ontario, la Cour supérieure de justice;
 - **b)** dans la province de Québec, la Cour supérieure;
-- **c)** dans les provinces de la Nouvelle-Écosse et de la Colombie-Britannique, au Yukon et dans les Territoires du Nord-Ouest, la Cour suprême;
+- **c)** dans les provinces de la Nouvelle-Écosse, de la Colombie-Britannique et de l’Île-du-Prince-Édouard, au Yukon et dans les Territoires du Nord-Ouest, la Cour suprême;
 - **d)** dans les provinces du Nouveau-Brunswick, du Manitoba, de la Saskatchewan et de l’Alberta, la Cour du Banc de la Reine;
 - **e)** [Abrogé, 1992, ch. 51, art. 44]
-- **f)** dans les provinces de l’Île-du-Prince-Édouard et de Terre-Neuve, la Section de première instance de la Cour suprême;
-- **g)** au Nunavut, la Cour de justice.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 71, ch. 41 (3<sup>e</sup> suppl.), art. 120, ch. 47 (4<sup>e</sup> suppl.), art. 52; 1990, ch. 16, art. 8, ch. 17, art. 16; 1992, ch. 1, art. 61, ch. 51, art. 44; 1997, ch. 36, art. 172; 1998, ch. 30, art. 12, 14; 1999, ch. 3, art. 59; 2002, ch. 7, art. 152; 2014, ch. 20, art. 445.
+- **f)** dans la province de Terre-Neuve-et-Labrador, la Section de première instance de la Cour suprême;
+- **g)** au Nunavut, la Cour de justice. (*court*)
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 71, ch. 41 (3<sup>e</sup> suppl.), art. 120, ch. 47 (4<sup>e</sup> suppl.), art. 52; 1990, ch. 16, art. 8, ch. 17, art. 16; 1992, ch. 1, art. 61, ch. 51, art. 44; 1997, ch. 36, art. 172; 1998, ch. 30, art. 12, 14; 1999, ch. 3, art. 59; 2002, ch. 7, art. 152; 2014, ch. 20, art. 445; 2015, ch. 3, art. 61.
 
 
 
@@ -5240,7 +5240,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 
 **138** 
 
-- **(1)** En cas de saisie-confiscation de marchandises ou d’un moyen de transport effectuée en vertu de la présente loi ou en cas de détention de marchandises ou d’un moyen de transport en vertu du paragraphe 97.25(2), toute personne qui, sauf si elle était en possession de l’objet au moment de la saisie ou de la détention, revendique à cet égard un droit en qualité de propriétaire, de créancier hypothécaire, de créancier privilégié ou en toute autre qualité comparable peut, dans les quatre-vingt-dix jours suivant la saisie ou la détention, demander que le ministre rende la décision visée à l’article 139.
+- **(1)** En cas de saisie-confiscation de marchandises ou d’un moyen de transport effectuée en vertu de la présente loi ou en cas de détention d’un moyen de transport en vertu du paragraphe 97.25(2), toute personne qui, sauf si elle était en possession de l’objet au moment de la saisie ou de la détention, revendique à cet égard un droit en qualité de propriétaire, de créancier hypothécaire, de créancier privilégié ou en toute autre qualité comparable peut, dans les quatre-vingt-dix jours suivant la saisie ou la détention, demander que le ministre rende la décision visée à l’article 139.
 
 **Procédure applicable**
 
@@ -5270,7 +5270,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 		- **(ii)** soit il avait véritablement l’intention de demander au ministre de rendre une décision;
 	- **b)** il serait juste et équitable de faire droit à la demande;
 	- **c)** la demande a été présentée dès que possible.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 138; 1992, ch. 1, art. 62, ch. 51, art. 45; 1998, ch. 30, art. 14; 1999, ch. 3, art. 60, ch. 17, art. 127; 2001, ch. 25, art. 75; 2014, ch. 20, art. 174.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 138; 1992, ch. 1, art. 62, ch. 51, art. 45; 1998, ch. 30, art. 14; 1999, ch. 3, art. 60, ch. 17, art. 127; 2001, ch. 25, art. 75; 2014, ch. 20, art. 174; 2015, ch. 3, art. 62(F).
 
 
 
@@ -5299,9 +5299,9 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 - **(2)** Dans le présent article, ***tribunal*** s’entend :
 	- **a)** dans la province d’Ontario, de la Cour supérieure de justice;
 	- **b)** dans la province de Québec, de la Cour supérieure;
-	- **c)** dans les provinces de la Nouvelle-Écosse et de la Colombie-Britannique, au Yukon et dans les Territoires du Nord-Ouest, de la Cour suprême;
+	- **c)** dans les provinces de la Nouvelle-Écosse, de la Colombie-Britannique et de l’Île-du-Prince-Édouard, au Yukon et dans les Territoires du Nord-Ouest, de la Cour suprême;
 	- **d)** dans les provinces du Nouveau-Brunswick, du Manitoba, de la Saskatchewan et de l’Alberta, de la Cour du Banc de la Reine;
-	- **e)** dans les provinces de l’Île-du-Prince-Édouard et de Terre-Neuve, de la Section de première instance de la Cour suprême;
+	- **e)** dans la province de Terre-Neuve-et-Labrador, de la Section de première instance de la Cour suprême;
 	- **f)** au Nunavut, de la Cour de justice du Nunavut.
 
 **Date d’audition**
@@ -5322,7 +5322,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 	- **a)** le requérant a acquis son droit de bonne foi avant l’infraction ou l’utilisation;
 	- **b)** il est innocent de toute complicité ou collusion dans l’infraction ou l’utilisation;
 	- **c)** il a pris les précautions voulues pour se convaincre que l’objet saisi ou détenu ne risquait pas d’être utilisé en infraction par toute personne admise à sa possession, ou par le débiteur dans le cas d’une hypothèque ou d’un privilège.
-> 2001, ch. 25, art. 75; 2002, ch. 7, art. 272; 2009, ch. 10, art. 14(F).
+> 2001, ch. 25, art. 75; 2002, ch. 7, art. 272; 2009, ch. 10, art. 14(F); 2015, ch. 3, art. 63.
 
 
 
