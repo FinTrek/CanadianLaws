@@ -344,8 +344,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **n)** la détermination des infractions visées à l’article 23 ainsi que leur désignation dans le formulaire de contravention;
 - **o)** la fixation du montant de l’amende afférente aux infractions visées à l’article 23, jusqu’à concurrence de 2 000 $;
 - **p)** la fixation des conditions de décollage, de vol et d’amerrissage des aéronefs dans les limites du parc;
-- **q)** la prise de toute mesure qu’il juge nécessaire à l’application de la présente loi.
-> 1997, ch. 37, art. 17; 2009, ch. 14, art. 110.
+- **q)** la prise de toute mesure nécessaire à l’application de la présente loi.
+> 1997, ch. 37, art. 17; 2009, ch. 14, art. 110; 2015, ch. 3, art. 151(F).
 
 
 
