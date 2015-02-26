@@ -55,9 +55,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***corporation*** means a body corporate incorporated or continued under this Act and not discontinued under this Act.
 
 ***court*** means
-- **(a)** in Newfoundland and Labrador and Prince Edward Island, the trial division of the Supreme Court of the province;
+- **(a)** in Newfoundland and Labrador, the Trial Division of the Supreme Court of the province;
 - **(b)** in Ontario, the Superior Court of Justice;
-- **(c)** in Nova Scotia and British Columbia, the Supreme Court of the province;
+- **(c)** in Nova Scotia, British Columbia and Prince Edward Island, the Supreme Court of the province;
 - **(d)** in Manitoba, Saskatchewan, Alberta and New Brunswick, the Court of Queen’s Bench for the province;
 - **(e)** in Quebec, the Superior Court of the province; and
 - **(f)** in Yukon and the Northwest Territories, the Supreme Court of the territory, and in Nunavut, the Nunavut Court of Justice.
@@ -136,6 +136,8 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations.
 **Application to be deemed non-soliciting**
 
 - **(6)** On the application of a corporation, the Director may decide that the corporation is, for the purposes of this Act, to be considered as not being — or not having been — a soliciting corporation if the Director is satisfied that the determination would not be prejudicial to the public interest.
+> 2009, c. 23, s. 2; 2015, c. 3, s. 23.
+
 
 
 
