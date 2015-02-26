@@ -93,9 +93,9 @@ but does not include a deposit protection agency;
 ***court*** means
 - **(a)** in the Province of Ontario, the Superior Court of Justice,
 - **(b)** in the Province of Quebec, the Superior Court of the Province,
-- **(c)** in the Provinces of Nova Scotia and British Columbia, the Supreme Court of the Province,
+- **(c)** in the Provinces of Nova Scotia, British Columbia, and Prince Edward Island, the Supreme Court of the Province,
 - **(d)** in the Provinces of New Brunswick, Manitoba, Saskatchewan and Alberta, the Court of Queen’s Bench for the Province,
-- **(e)** in the Provinces of Prince Edward Island and Newfoundland, the trial division of the Supreme Court of the Province, and
+- **(e)** in the Province of Newfoundland and Labrador, the Trial Division of the Supreme Court of the Province, and
 - **(f)** the Supreme Court of Yukon, the Supreme Court of the Northwest Territories and the Nunavut Court of Justice;
 
 ***court of appeal*** means the court to which an appeal lies from a decision or order of a court;
@@ -247,7 +247,7 @@ Version anglaise seulement***share*** does not include a membership share;
 ***transfer***, in respect of securities, includes a transmission by operation of law;
 
 ***voting share*** means a share of any class of shares of a body corporate carrying voting rights under all circumstances or by reason of an event that has occurred and is continuing or by reason of a condition that has been fulfilled.
-> 1991, c. 48, ss. 2, 496, 497; 1992, c. 51, s. 31; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 24, c. 28, s. 115; 2000, c. 12, s. 84; 2001, c. 9, s. 248, c. 27, s. 234; 2002, c. 7, s. 136(E); 2005, c. 54, s. 140; 2007, c. 6, s. 135; 2010, c. 12, s. 2114; 2012, c. 5, s. 104.
+> 1991, c. 48, ss. 2, 496, 497; 1992, c. 51, s. 31; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 24, c. 28, s. 115; 2000, c. 12, s. 84; 2001, c. 9, s. 248, c. 27, s. 234; 2002, c. 7, s. 136(E); 2005, c. 54, s. 140; 2007, c. 6, s. 135; 2010, c. 12, s. 2114; 2012, c. 5, s. 104; 2015, c. 3, s. 43.
 
 
 
