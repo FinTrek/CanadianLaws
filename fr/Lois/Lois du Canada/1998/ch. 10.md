@@ -423,7 +423,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Quorum**
 
 - **(6)** Sous réserve des lettres patentes, la majorité des administrateurs en fonction constitue le quorum; lorsque celui-ci est atteint, les administrateurs peuvent exercer leurs fonctions.
-> 1998, ch. 10, art. 14; 2008, ch. 21, art. 10; 2014, ch. 29, art. 27.
+> 1998, ch. 10, art. 14; 2008, ch. 21, art. 10; 2014, ch. 29, art. 27; 2015, ch. 3, art. 16(A).
 
 
 
@@ -2467,14 +2467,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***tribunal***
 - **a)** La Cour de l’Ontario (Division générale);
 - **b)** la Cour supérieure du Québec;
-- **c)** la Section de première instance de la Cour suprême de l’Île-du-Prince-Édouard et de Terre-Neuve;
+- **c)** la Section de première instance de la Cour suprême de Terre-Neuve-et-Labrador;
 - **d)** la Cour du Banc de la Reine du Nouveau-Brunswick, du Manitoba, de la Saskatchewan et de l’Alberta;
-- **e)** la Cour suprême de la Nouvelle-Écosse et de la Colombie-Britannique;
+- **e)** la Cour suprême de la Nouvelle-Écosse, de la Colombie-Britannique et de l’Île-du-Prince-Édouard;
 - **f)** la Cour suprême du Yukon, la Cour suprême des Territoires du Nord-Ouest et la Cour de justice du Nunavut;
-- **g)** la Cour fédérale.
+- **g)** la Cour fédérale. (*court*)
 
-***tribunal d’appel*** La cour d’appel, au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), de la province où est rendue l’ordonnance visée au paragraphe 119(3) et la Cour d’appel fédérale.
-> 1998, ch. 10, art. 103; 1999, ch. 3, art. 18; 2002, ch. 7, art. 105(A), ch. 8, art. 183.
+***tribunal d’appel*** La cour d’appel, au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), de la province où est rendue l’ordonnance visée au paragraphe 119(3) et la Cour d’appel fédérale. (*court of appeal*)
+> 1998, ch. 10, art. 103; 1999, ch. 3, art. 18; 2002, ch. 7, art. 105(A), ch. 8, art. 183; 2015, ch. 3, art. 17.
 
 
 
