@@ -765,13 +765,15 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **Prise des règlements**
 
-- **(3)** Le gouverneur en conseil peut prendre un règlement en vertu de l’article 7, 14, 33 ou 42 dans les cas suivants :
+- **(3)** Le gouverneur en conseil peut prendre un règlement en vertu de l’article 7, 14, 17, 33 ou 42 dans les cas suivants :
 	- **a)** la Chambre des communes n’a donné son agrément à aucun rapport du comité au sujet du projet de règlement dans les trente jours de séance de la Chambre suivant le dépôt du projet de règlement; dans ce cas, le règlement pris doit être conforme au projet déposé;
 	- **b)** la Chambre des communes a donné son agrément à un rapport du comité approuvant le projet de règlement avec ou sans modifications; dans ce cas, le gouverneur en conseil doit prendre un règlement conforme au projet agréé par la Chambre.
 
 **Définition de jour de séance**
 
 - **(4)** Pour l’application du présent article, ***jour de séance*** s’entend d’un jour où la Chambre des communes siège.
+> 1997, ch. 13, art. 42.1; 2015, ch. 3, art. 154(F).
+
 
 
 
@@ -975,7 +977,9 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **Dépôt devant le Parlement**
 
-- **(4)** Une copie de l’accord d’équivalence doit être déposée devant le Parlement dans les quinze jours suivant sa prise.
+- **(4)** Une copie de l’accord d’équivalence doit être déposée devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant la prise du décret en vertu du paragraphe (3).
+> 1997, ch. 13, art. 60; 2015, ch. 3, art. 155.
+
 
 
 
