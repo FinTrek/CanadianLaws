@@ -4385,6 +4385,8 @@ It includes oil and any substance or class of substances that is prescribed for 
 - **(2)** The Governor in Council may, on the recommendation of the Minister, make regulations
 	- **(a)** regulating or prohibiting the discharge of pollutants from pleasure craft; and
 	- **(b)** regulating noise emissions from pleasure craft engines.
+> 2001, c. 26, s. 207; 2015, c. 3, s. 24(F).
+
 
 
 
@@ -5242,6 +5244,8 @@ It includes oil and any substance or class of substances that is prescribed for 
 **Punishment**
 
 - **(2)** Every person who, or vessel that, commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both.
+> 2001, c. 26, s. 246; 2015, c. 3, s. 25(F).
+
 
 
 
@@ -5459,7 +5463,9 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **Power to detain foreign vessel that has caused damage**
 
-**259** If the Federal Court is satisfied that damage or loss has in any part of the world been caused to property that belongs to Her Majesty in right of Canada or a province or to a qualified person by the fault, in whole or in part, of a vessel that is registered in a foreign state and that is at the time of the application in Canadian waters, on *ex parte* application the Federal Court may issue an order requiring any person named by the Court to detain the vessel until the applicant has been compensated for the damage or loss or until security, in the form and amount approved by the Court, is deposited with the Court.
+**259** If the Federal Court is satisfied that damage or loss has in any part of the world been caused to property that belongs to Her Majesty in right of Canada or a province or to a qualified person by the fault, in whole or in part, of a foreign vessel that is at the time of the application in Canadian waters, on *ex parte* application the Federal Court may issue an order requiring any person named by the Court to detain the vessel until the applicant has been compensated for the damage or loss or until security, in the form and amount approved by the Court, is deposited with the Court.
+> 2001, c. 26, s. 259; 2015, c. 3, s. 26(E).
+
 
 
 
@@ -5527,7 +5533,9 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **Jurisdiction**
 
-**264** If there is no judge having jurisdiction in respect of writs of *certiorari* resident at or near the place where a conviction or an order is made, in the Province of Ontario, a judge of the Ontario Superior Court of Justice, in the Provinces of Nova Scotia and British Columbia, a judge of the Supreme Court, in the Province of Prince Edward Island or Newfoundland, a judge of the Trial Division of the Supreme Court, or, in the Province of New Brunswick, Manitoba, Saskatchewan or Alberta, a judge of the Court of Queen’s Bench, has power to hear and determine an application for a stay of proceedings on the conviction or order.
+**264** If there is no judge having jurisdiction in respect of writs of *certiorari* resident at or near the place where a conviction or an order is made, in Ontario, a judge of the Ontario Superior Court of Justice, in Nova Scotia, British Columbia and Prince Edward Island, a judge of the Supreme Court, in Newfoundland and Labrador, a judge of the Trial Division of the Supreme Court, or, in New Brunswick, Manitoba, Saskatchewan or Alberta, a judge of the Court of Queen’s Bench has power to hear and determine an application for a stay of proceedings on the conviction or order.
+> 2001, c. 26, s. 264; 2015, c. 3, s. 27.
+
 
 
 
@@ -5670,6 +5678,8 @@ It includes oil and any substance or class of substances that is prescribed for 
 **272** Every vessel, other than a pleasure craft, licensed under section 108 of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), chapter S-9 of the Revised Statutes of Canada, 1985, when Part 2 comes into force is deemed to be registered in the small vessel register referred to in subsection 43(1) until
 - **(a)** the earlier of the date the vessel’s ownership changes and five years after Part 2 comes into force; or
 - **(b)** in the case of a vessel that was issued a licence under that Act, the expiry date of the licence.
+> 2001, c. 26, s. 272; 2015, c. 3, s. 28(F).
+
 
 
 
