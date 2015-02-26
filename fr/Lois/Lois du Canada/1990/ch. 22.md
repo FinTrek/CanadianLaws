@@ -117,7 +117,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Avis**
 
-- **(3)** L’interdiction est signifiée par un avis soit à personne, soit par envoi postal ou autre, au propriétaire ou à la personne concernée.
+- **(3)** L’interdiction est signifiée sous forme d’un avis soit en mains propres, soit par envoi postal ou autre, au propriétaire ou à la personne concernée.
+> 1990, ch. 22, art. 6; 2015, ch. 3, art. 142(F).
+
 
 
 
@@ -283,13 +285,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Définition de « installation de transport international »**
+**Définition de installation de transport international**
 
 **20** 
 
-- **(1)** Dans le présent article, ***installation de transport international*** désigne indifféremment :
+- **(1)** Dans le présent article, ***installation de transport international*** désigne indifféremment :
 	- **a)** une entreprise de transport international;
-	- **b)** un moyen de communication international : route, chemin de fer, pont ou tunnel;
+	- **b)** un moyen de communication international : route, chemin de fer, pont ou tunnel;
 	- **c)** un aéroport recevant des aéronefs effectuant des vols internationaux;
 	- **d)** un port recevant des navires affectés à des lignes internationales;
 	- **e)** un entrepôt ou une autre installation recevant un véhicule affecté au transport international aérien, maritime, ferroviaire ou routier.
@@ -300,7 +302,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Pouvoirs du ministre**
 
-- **(3)** Le ministre peut, sur les terrains, locaux, laboratoires ou autres installations qui lui sont fournis au titre du paragraphe (2), effectuer les opérations suivantes :
+- **(3)** Le ministre peut, sur les terrains, locaux, laboratoires ou autres installations qui lui sont fournis au titre du paragraphe (2), effectuer les opérations suivantes :
 	- **a)** leur apporter les améliorations qu’il juge souhaitables;
 	- **b)** y mettre en place, y compris dans leurs environs, la signalisation qu’il juge utile pour leur exploitation ou en vue de la sécurité de leur usage, ou encore pour l’application de la présente loi ou des règlements;
 	- **c)** les utiliser aussi longtemps qu’il l’exige pour l’application de la présente loi ou des règlements.
@@ -311,7 +313,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Avis**
 
-- **(5)** L’ordre est signifié au propriétaire ou à l’exploitant, soit à personne, soit par envoi postal ou autre, sous forme d’avis en précisant éventuellement le délai ou les modalités d’exécution.
+- **(5)** L’ordre est signifié au propriétaire ou à l’exploitant, soit en mains propres, soit par envoi postal ou autre, sous forme d’avis en précisant éventuellement le délai ou les modalités d’exécution.
 
 **Arbitrage**
 
@@ -324,6 +326,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Règlements**
 
 - **(8)** Le gouverneur en conseil peut, par règlement, déterminer en quoi consiste le caractère approprié des terrains, locaux, laboratoires ou autres installations pour l’application du paragraphe (2).
+> 1990, ch. 22, art. 20; 2015, ch. 3, art. 143(F).
+
 
 
 
@@ -395,7 +399,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Avis**
 
-- **(2)** L’ordre est signifié au propriétaire ou à la personne concernée, soit à personne, soit par envoi postal ou autre, sous forme d’avis en précisant éventuellement le délai ou les modalités d’exécution.
+- **(2)** L’ordre est signifié au propriétaire ou à la personne concernée, soit en mains propres, soit par envoi postal ou autre, sous forme d’avis en précisant éventuellement le délai ou les modalités d’exécution.
+> 1990, ch. 22, art. 24; 2015, ch. 3, art. 144(F).
+
 
 
 
@@ -501,11 +507,13 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **Avis**
 
-- **(2)** L’ordre est signifié au propriétaire ou à la personne concernée, soit à personne, soit par envoi postal ou autre, sous forme d’avis en précisant éventuellement le délai ou les modalités d’exécution.
+- **(2)** L’ordre est signifié au propriétaire ou à la personne concernée, soit en mains propres, soit par envoi postal ou autre, sous forme d’avis en précisant éventuellement le délai ou les modalités d’exécution.
 
 **Produit de l’aliénation**
 
 - **(3)** Le cas échéant, le produit de l’aliénation des choses saisies, effectuée par l’inspecteur ou par la personne qu’il désigne, est versé au receveur général.
+> 1990, ch. 22, art. 30; 2015, ch. 3, art. 145(F).
+
 
 
 
@@ -602,7 +610,9 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **Avis**
 
-- **(3)** L’ordre est signifié au propriétaire ou à la personne concernée, soit à personne, soit par envoi postal ou autre, sous forme d’avis en précisant éventuellement le délai ou les modalités d’exécution.
+- **(3)** L’ordre est signifié au propriétaire ou à la personne concernée, soit en mains propres, soit par envoi postal ou autre, sous forme d’avis en précisant éventuellement le délai ou les modalités d’exécution.
+> 1990, ch. 22, art. 36; 2015, ch. 3, art. 146(F).
+
 
 
 
