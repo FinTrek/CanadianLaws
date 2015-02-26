@@ -155,10 +155,8 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations;
 
 - **(2)** Where the Minister takes control of property pursuant to subsection (1) and detains the property in a location other than the location referred to in the report required to be filed pursuant to paragraph 462.32(4)(b) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the Minister shall prepare a report in the prescribed form identifying the location of the property and cause the report to be filed in the prescribed manner with the clerk of the court that issued the warrant.
 
-**Transfer of property**
-
-- **(3)** Every person who has control of any property that is subject to a management order issued under subsection 83.13(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) shall, as soon as practicable after the order is issued, transfer the control of the property to the Minister, except for any property, or any part of the property, that is needed as evidence or is necessary for the purposes of an investigation.
-> 1993, c. 37, s. 5; 2001, c. 32, s. 76, c. 41, ss. 108, 135.
+- **(3)** [Repealed, 2015, c. 3, s. 152]
+> 1993, c. 37, s. 5; 2001, c. 32, s. 76, c. 41, ss. 108, 135; 2015, c. 3, s. 152.
 
 
 
