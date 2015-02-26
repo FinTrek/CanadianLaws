@@ -71,10 +71,12 @@
 ***comptes à recevoir*** comprend les dettes actives, comptes, réclamations, deniers et droits incorporels, présents ou futurs, ou toute catégorie ou partie des susdits, et tous contrats, valeurs, effets, billets, livres, instruments et autres documents, garantissant ou attestant les susdits ou l’un d’entre eux ou s’y rattachant de quelque manière, mais ne comprend pas les actions du capital non appelé de la compagnie ni les versements appelés mais non acquittés;
 
 ***cour*** signifie,
-- **a)** en Ontario, en Nouvelle-Écosse, en Colombie-Britannique et à Terre-Neuve, la Cour suprême,
-- **a.1)** à l’Île-du-Prince-Édouard, la division de première instance de la Cour suprême,
+- **a)** en Ontario, la Cour supérieure de justice,
+- **a.1)** [Abrogé, 2015, ch. 3, art. 13]
 - **b)** au Québec, la Cour supérieure,
-- **c)** dans le Manitoba, dans la Saskatchewan, dans l’Alberta et dans le Nouveau-Brunswick, la Cour du Banc de la Reine, et
+- **b.1)** en Nouvelle-Écosse, en Colombie-Britannique et à l’Île-du-Prince-Édouard, la Cour suprême,
+- **c)** dans le Manitoba, dans la Saskatchewan, dans l’Alberta et dans le Nouveau-Brunswick, la Cour du Banc de la Reine,
+- **c.1)** à Terre-Neuve-et-Labrador, la Section de première instance de la Cour suprême,
 - **d)** au Yukon, la Cour suprême du Yukon, dans les Territoires du Nord-Ouest, la Cour suprême des Territoires du Nord-Ouest et, dans le territoire du Nunavut, la Cour de justice du Nunavut;
 
 ***débenture*** comprend les obligations, stock-obligations et autres titres d’une compagnie qui constituent une charge sur l’actif de la compagnie ou donnent droit d’en bénéficier;
@@ -102,7 +104,7 @@
 **Résolution spéciale**
 
 - **(2)** Un règlement mentionné à l’article 20, au paragraphe 29(1), à l’article 51 ou à l’article 52 peut être désigné sous le nom de « résolution spéciale ».
-> S.R. 1970, ch. C-32, art. 3; S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 2; 1972, ch. 17, art. 2; 1978-79, ch. 11, art. 10; 1986, ch. 35, art. 14; 1995, ch. 1, art. 32; 1999, ch. 3, art. 17; 2002, ch. 7, art. 89.
+> S.R. 1970, ch. C-32, art. 3; S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 2; 1972, ch. 17, art. 2; 1978-79, ch. 11, art. 10; 1986, ch. 35, art. 14; 1995, ch. 1, art. 32; 1999, ch. 3, art. 17; 2002, ch. 7, art. 89; 2015, ch. 3, art. 13.
 
 
 
