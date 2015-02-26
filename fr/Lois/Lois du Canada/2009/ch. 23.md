@@ -91,9 +91,9 @@ French version only***assemblée*** Assemblée de membres.
 ***titre de créance*** Toute preuve d’une créance sur l’organisation ou d’une garantie donnée par elle, avec ou sans sûreté, notamment une obligation, une débenture ou un billet.
 
 ***tribunal*** Selon le cas :
-- **a)** la Section de première instance de la Cour suprême de Terre-Neuve-et-Labrador ou de l’Île-du-Prince-Édouard;
+- **a)** la Section de première instance de la Cour suprême de Terre-Neuve-et-Labrador;
 - **b)** la Cour supérieure de justice de l’Ontario;
-- **c)** la Cour suprême de la Nouvelle-Écosse ou de la Colombie-Britannique;
+- **c)** la Cour suprême de la Nouvelle-Écosse, de la Colombie-Britannique ou de l’Île-du-Prince-Édouard;
 - **d)** la Cour du Banc de la Reine du Manitoba, de la Saskatchewan, de l’Alberta ou du Nouveau-Brunswick;
 - **e)** la Cour supérieure du Québec;
 - **f)** la Cour suprême du Yukon, la Cour suprême des Territoires du Nord-Ouest ou la Cour de justice du Nunavut.
@@ -134,6 +134,8 @@ French version only***assemblée*** Assemblée de membres.
 **Décision du directeur — sollicitation**
 
 - **(6)** Le directeur peut, sur demande de l’organisation, décider que celle-ci sera considérée, pour l’application de la présente loi, comme n’étant pas une organisation ayant recours à la sollicitation ou ne l’ayant jamais été, s’il est convaincu que cette décision ne porte pas atteinte à l’intérêt public.
+> 2009, ch. 23, art. 2; 2015, ch. 3, art. 23.
+
 
 
 
