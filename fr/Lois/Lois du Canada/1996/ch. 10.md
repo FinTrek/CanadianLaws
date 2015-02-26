@@ -100,8 +100,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** La Cour supérieure de justice de l’Ontario;
 - **b)** la Cour supérieure du Québec;
 - **c)** la Cour du Banc de la Reine du Nouveau-Brunswick, du Manitoba, de la Saskatchewan ou de l’Alberta;
-- **d)** la Cour suprême de la Nouvelle-Écosse, de la Colombie-Britannique, du Yukon ou des Territoires du Nord-Ouest;
-- **e)** la section de première instance de la Cour suprême de l’Île-du-Prince-Édouard ou de Terre-Neuve;
+- **d)** la Cour suprême de la Nouvelle-Écosse, de la Colombie-Britannique, de l’Île-du-Prince-Édouard, du Yukon ou des Territoires du Nord-Ouest;
+- **e)** la Section de première instance de la Cour suprême de Terre-Neuve-et-Labrador;
 - **f)** la Cour de justice du Nunavut.
 
 ***expéditeur*** Personne qui expédie des marchandises par transporteur, ou en reçoit de celui-ci, ou qui a l’intention de le faire.
@@ -125,7 +125,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***transporteur*** Personne se livrant au transport de passagers ou de marchandises par un moyen de transport assujetti à la compétence législative du Parlement.
 
 ***vice-président*** Le vice-président de l’Office.
-> 1996, ch. 10, art. 6; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 20; 2002, ch. 7, art. 114(A).
+> 1996, ch. 10, art. 6; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 20; 2002, ch. 7, art. 114(A); 2015, ch. 3, art. 29.
 
 
 
@@ -157,7 +157,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Président et vice-président**
 
 - **(3)** Le gouverneur en conseil choisit le président et le vice-président de l’Office parmi les membres nommés en vertu du paragraphe (2).
-> 1996, ch. 10, art. 7; 2001, ch. 27, art. 221; 2007, ch. 19, art. 3.
+> 1996, ch. 10, art. 7; 2001, ch. 27, art. 221; 2007, ch. 19, art. 3; 2015, ch. 3, art. 30(A).
 
 
 
@@ -176,7 +176,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Continuation de mandat**
 
 - **(3)** Le président peut autoriser un membre nommé en vertu du paragraphe 7(2) qui cesse d’exercer ses fonctions à continuer, après la date d’expiration de son mandat, à entendre toute question dont il se trouve saisi à cette date. À cette fin, le membre est réputé être membre de l’Office mais son statut n’empêche pas la nomination de cinq membres en vertu du paragraphe 7(2) ou de trois membres temporaires en vertu du paragraphe 9(1).
-> 1996, ch. 10, art. 8; 2007, ch. 19, art. 4.
+> 1996, ch. 10, art. 8; 2007, ch. 19, art. 4; 2015, ch. 3, art. 31(A).
 
 
 
@@ -207,21 +207,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Conflits d’intérêts : membres**
+**Conflits d’intérêts : membres**
 
 **10** 
 
-- **(1)** Les membres nommés en vertu du paragraphe 7(2) ne peuvent, directement ou indirectement, à titre de propriétaire, d’actionnaire, d’administrateur, de dirigeant, d’associé ou autre :
+- **(1)** Les membres nommés en vertu du paragraphe 7(2) ne peuvent, directement ou indirectement, à titre de propriétaire, d’actionnaire, d’administrateur, de dirigeant, d’associé ou autre :
 	- **a)** s’occuper d’une entreprise ou d’une exploitation de transport;
 	- **b)** avoir des intérêts dans une entreprise ou exploitation de transport ou dans la fabrication ou la distribution de matériel de transport, sauf si la distribution n’a qu’un caractère secondaire par rapport à l’ensemble des activités de commercialisation des marchandises.
 
-**Conflits d’intérêts : membres temporaires**
+**Conflits d’intérêts : membres temporaires**
 
 - **(2)** Les membres temporaires ne peuvent accepter ni occuper une charge ou un emploi incompatible avec les attributions que leur confère la présente loi.
 
 **Cession d’intérêts**
 
 - **(3)** Le membre nommé en vertu du paragraphe 7(2) qui est investi d’intérêts visés au paragraphe (1) par l’ouverture d’une succession doit les céder entièrement dans les trois mois suivant la saisine.
+> 1996, ch. 10, art. 10; 2015, ch. 3, art. 32(A).
+
 
 
 
@@ -256,7 +258,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Indemnisation**
 
 - **(3)** Pour l’application de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md) et des règlements pris en vertu de l’article 9 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md), les membres sont réputés appartenir à l’administration publique fédérale.
-> 1996, ch. 10, art. 12; 2003, ch. 22, art. 224(A) et 225(A).
+> 1996, ch. 10, art. 12; 2003, ch. 22, art. 224(A) et 225(A); 2015, ch. 3, art. 33(A).
 
 
 
