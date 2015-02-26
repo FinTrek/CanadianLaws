@@ -39,37 +39,37 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The definitions in this subsection apply in this Act.
 
-***community plan*** means a land use plan for a park community.
+***community plan*** means a land use plan for a park community. (*plan communautaire*)
 
-***ecological integrity*** means, with respect to a park, a condition that is determined to be characteristic of its natural region and likely to persist, including abiotic components and the composition and abundance of native species and biological communities, rates of change and supporting processes.
+***ecological integrity*** means, with respect to a park, a condition that is determined to be characteristic of its natural region and likely to persist, including abiotic components and the composition and abundance of native species and biological communities, rates of change and supporting processes. (*intégrité écologique*)
 
-***enforcement officer*** means a person designated under section 19 or belonging to a class of persons so designated.
+***enforcement officer*** means a person designated under section 19 or belonging to a class of persons so designated. (*agent de l’autorité*)
 
-***Minister*** means the Minister responsible for the Parks Canada Agency.
+***Minister*** means the Minister responsible for the Parks Canada Agency. (*ministre*)
 
-***park*** means a national park of Canada named and described in Schedule 1.
+***park*** means a national park of Canada named and described in Schedule 1. (*parc*)
 
-***park community*** means any of the following communities:
+***park community*** means any of the following communities:
 - **(a)** the visitor centre of Field in Yoho National Park of Canada;
 - **(b)** the town of Banff in Banff National Park of Canada;
 - **(c)** the visitor centre of Lake Louise in Banff National Park of Canada;
 - **(d)** the visitor centre of Waterton Lakes Park in Waterton Lakes National Park of Canada;
 - **(e)** the town of Jasper in Jasper National Park of Canada;
 - **(f)** the visitor centre of Waskesiu in Prince Albert National Park of Canada; or
-- **(g)** the visitor centre of Wasagaming in Riding Mountain National Park of Canada.
+- **(g)** the visitor centre of Wasagaming in Riding Mountain National Park of Canada. (*collectivité*)
 
-***park reserve*** means a national park reserve of Canada named and described in Schedule 2.
+***park reserve*** means a national park reserve of Canada named and described in Schedule 2. (*réserve*)
 
-***park warden*** means a person designated under section 18.
+***park warden*** means a person designated under section 18. (*garde de parc*)
 
-***public lands*** means lands, including submerged lands, that belong to Her Majesty in right of Canada or that the Government of Canada has the power to dispose of, whether or not such disposal is subject to the terms of any agreement between the Government of Canada and the government of a province.
+***public lands*** means lands, including submerged lands, that belong to Her Majesty in right of Canada or that the Government of Canada has the power to dispose of, whether or not such disposal is subject to the terms of any agreement between the Government of Canada and the government of a province. (*terres domaniales*)
 
-***superintendent*** means an officer appointed under the [Parks Canada Agency Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2031.md) who holds the office of superintendent of a park or of a national historic site of Canada to which this Act applies, and includes any person appointed under that Act who is authorized by such an officer to act on the officer’s behalf.
+***superintendent*** means an officer appointed under the [Parks Canada Agency Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2031.md) who holds the office of superintendent of a park or of a national historic site of Canada to which this Act applies, and includes any person appointed under that Act who is authorized by such an officer to act on the officer’s behalf. (*directeur*)
 
 **Aboriginal rights**
 
 - **(2)** For greater certainty, nothing in this Act shall be construed so as to abrogate or derogate from the protection provided for existing aboriginal or treaty rights of the aboriginal peoples of Canada by the recognition and affirmation of those rights in section 35 of the Constitution Act, 1982.
-> 2000, c. 32, s. 2; 2002, c. 18, s. 30; 2005, c. 2, s. 7.
+> 2000, c. 32, s. 2; 2002, c. 18, s. 30; 2005, c. 2, s. 7; 2015, c. 3, s. 18(F).
 
 
 
@@ -1100,6 +1100,8 @@ the justice of the peace may issue a warrant authorizing a park warden or enforc
 **Leases, licences, etc.**
 
 - **(5)** No lease or licence of occupation may be granted, and no permit, licence or other authorization may be issued, authorizing a commercial use of lands within a commercial zone of a park community if the maximum floor area for commercial zones specified for that park community in Schedule 4 would be exceeded as a result of that use.
+> 2000, c. 32, s. 33; 2015, c. 3, s. 19(F).
+
 
 
 
@@ -5102,7 +5104,7 @@ Said parcels 1 to 5 containing together about 2 149.8 hectares (21.5 square kilo
 
 
 
-**PART 10 — NEWFOUNDLAND** 
+**PART 10 — NEWFOUNDLAND AND LABRADOR** 
 
 
 ### (1) Terra Nova National Park of Canada
@@ -5112,7 +5114,7 @@ Firstly:
 
 
 
-All that certain tract or parcel of land situate, lying, and being in the former districts of Bonavista North and South, in the Province of Newfoundland, as the same is shown on a plan recorded in the Canada Lands Surveys Records at Ottawa under number 50066, a copy of said plan is also registered in the Registry of Deeds in St. John’s, Newfoundland in volume 455, folio 44; said parcel or tract contains an area of 39 627 hectares.
+All that certain tract or parcel of land situate, lying, and being in the former districts of Bonavista North and South, in the Province of Newfoundland and Labrador, as the same is shown on a plan recorded in the Canada Lands Surveys Records at Ottawa under number 50066, a copy of said plan is also registered in the Registry of Deeds in St. John’s, Newfoundland and Labrador in volume 455, folio 44; said parcel or tract contains an area of 39 627 hectares.
 
 
 
@@ -5120,14 +5122,14 @@ Secondly:
 
 
 
-All that certain tract or parcel of land, situate, lying, and being in the District of Terra Nova, in the Province of Newfoundland, as the same is shown as Parcel A on a plan recorded in the Canada Lands Surveys Records in Ottawa under number 69827; a copy of said plan is also filed in the Registry of Deeds in St. John’s, Newfoundland, under number 1407; said parcel or tract contains an area of 365 hectares.
+All that certain tract or parcel of land, situate, lying, and being in the District of Terra Nova, in the Province of Newfoundland and Labrador, as the same is shown as Parcel A on a plan recorded in the Canada Lands Surveys Records in Ottawa under number 69827; a copy of said plan is also filed in the Registry of Deeds in St. John’s, Newfoundland and Labrador, under number 1407; said parcel or tract contains an area of 365 hectares.
 
 
 
 ### (2) Gros Morne National Park of Canada
 
 
-All that certain tract of land, situate, lying and being in the District of St. Barbe (formerly St. Barbe South and St. Barbe North) and Bay of Islands (formerly Humber West) in the Province of Newfoundland, shown as “Proposed Gros Morne National Park” on a plan of survey recorded in the Canada Lands Surveys Records at Ottawa under Number 69288. A copy of said plan is also filed in the Registry of Deeds Office in St. John’s, Newfoundland, under Number 1209;
+All that certain tract of land, situate, lying and being in the District of St. Barbe (formerly St. Barbe South and St. Barbe North) and Bay of Islands (formerly Humber West) in the Province of Newfoundland and Labrador, shown as “Proposed Gros Morne National Park” on a plan of survey recorded in the Canada Lands Surveys Records at Ottawa under Number 69288. A copy of said plan is also filed in the Registry of Deeds Office in St. John’s, Newfoundland and Labrador, under Number 1209;
 
 
 
@@ -6160,7 +6162,7 @@ BI-38/26P
 
 
 
-Said Auyuittuq National Park of Canada containing about 13 089 square kilometres.
+Said Auyuittuq National Park of Canada containing about 19 089 square kilometres.
 
 
 
@@ -6629,7 +6631,7 @@ Including any substances or materials that may be disposed of under the [Territo
 Said Ukkusiksalik National Park of Canada containing an area of approximately 20 880 km<sup>2</sup>.
 
 
-> 2000, c. 32, Sch. 1; 2001, c. 34, s. 25(F); 2002, c. 7, s. 106; SOR/2003-345; 2004, c. 20, s. 1; SOR/2004-300; 2008, c. 2, s. 13; 2013, c. 2, s. 1; SOR/2013-16; SOR/2014-187.
+> 2000, c. 32, Sch. 1; 2001, c. 34, s. 25(F); 2002, c. 7, s. 106; SOR/2003-345; 2004, c. 20, s. 1; SOR/2004-300; 2008, c. 2, s. 13; 2013, c. 2, s. 1; SOR/2013-16; SOR/2014-187; 2015, c. 3, ss. 20, 22.
 
 
 
@@ -9894,7 +9896,7 @@ All of Sable Island located near the geographic coordinates 43°56′ north lati
 Said parcel containing an area of approximately 30 square kilometres.
 
 
-> 2000, c. 32, Sch. 2; 2002, c. 7, s. 107(E); 2004, c. 20, s. 2; 2005, c. 27, s. 17; 2008, c. 2, s. 14; 2009, c. 17, ss. 8, 9; SOR/2010-182; 2013, c. 28, s. 4; 2014, c. 2, s. 51, c. 35, s. 6.
+> 2000, c. 32, Sch. 2; 2002, c. 7, s. 107(E); 2004, c. 20, s. 2; 2005, c. 27, s. 17; 2008, c. 2, s. 14; 2009, c. 17, ss. 8, 9; SOR/2010-182; 2013, c. 28, s. 4; 2014, c. 2, s. 51, c. 35, s. 6; 2015, c. 3, s. 21(F).
 
 
 
