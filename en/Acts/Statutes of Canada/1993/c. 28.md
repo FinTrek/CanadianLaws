@@ -60,8 +60,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Establishment of Nunavut**
 
 **3** There is hereby established a territory of Canada, to be known as Nunavut, consisting of
-- **(a)** all that part of Canada north of the sixtieth parallel of north latitude and east of the boundary described in Schedule I that is not within Quebec or Newfoundland; and
+- **(a)** all that part of Canada north of the sixtieth parallel of north latitude and east of the boundary described in Schedule I that is not within Quebec or Newfoundland and Labrador; and
 - **(b)** the islands in Hudson Bay, James Bay and Ungava Bay that are not within Manitoba, Ontario or Quebec.
+> 1993, c. 28, s. 3; 2015, c. 3, s. 172.
+
 
 
 
