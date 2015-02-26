@@ -400,7 +400,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Directors appointed by municipalities and provinces**
 
-- **(2.4)** Subject to subsection (2.1) and despite subsection (2), the term of office of a director appointed under subsection (1.1) to fill a vacant position under paragraph (1)(b) or (c) expires on the day on which a director is nominated under that paragraph.
+- **(2.4)** Subject to subsection (2.1) and despite subsection (2), the term of office of a director appointed under subsection (1.1) to fill a vacant position under paragraph (1)(b) or (c) expires on the day on which a director is appointed under that paragraph.
 
 **Not eligible**
 
@@ -417,7 +417,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Quorum**
 
 - **(6)** Subject to the letters patent, a majority of the directors in office constitutes a quorum at any meeting of directors and a quorum of directors may exercise all the powers of the directors.
-> 1998, c. 10, s. 14; 2008, c. 21, s. 10; 2014, c. 29, s. 27.
+> 1998, c. 10, s. 14; 2008, c. 21, s. 10; 2014, c. 29, s. 27; 2015, c. 3, s. 16(E).
 
 
 
@@ -2479,17 +2479,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **103** The definitions in this section apply in this Part.
 
-***court*** means
+***court*** means
 - **(a)** the Ontario Court (General Division);
 - **(b)** the Superior Court of Quebec;
-- **(c)** the trial division or branch of the Supreme Court of Prince Edward Island and Newfoundland;
+- **(c)** the Trial Division of the Supreme Court of Newfoundland and Labrador;
 - **(d)** the Court of Queen’s Bench for New Brunswick, Manitoba, Saskatchewan and Alberta;
-- **(e)** the Supreme Court of Nova Scotia and British Columbia;
+- **(e)** the Supreme Court of Nova Scotia, British Columbia and Prince Edward Island;
 - **(f)** the Supreme Court of Yukon, the Supreme Court of the Northwest Territories and the Nunavut Court of Justice; and
-- **(g)** the Federal Court.
+- **(g)** the Federal Court. (*tribunal*)
 
-***court of appeal*** means, in the province in which an order referred to in subsection 119(3) is made, the court of appeal for that province as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). It includes the Federal Court of Appeal.
-> 1998, c. 10, s. 103; 1999, c. 3, s. 18; 2002, c. 7, s. 105(E), c. 8, s. 183.
+***court of appeal*** means, in the province in which an order referred to in subsection 119(3) is made, the court of appeal for that province as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). It includes the Federal Court of Appeal. (*tribunal d’appel*)
+> 1998, c. 10, s. 103; 1999, c. 3, s. 18; 2002, c. 7, s. 105(E), c. 8, s. 183; 2015, c. 3, s. 17.
 
 
 
