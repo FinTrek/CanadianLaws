@@ -1972,13 +1972,17 @@ L’avis de l’agent doit être fondé sur des motifs raisonnables.
 **Dirigeants d’une personne morale**
 
 **98** En cas de perpétration d’une infraction par une personne morale, ceux de ses dirigeants, administrateurs, agents ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de l’infraction et encourent, sur déclaration de culpabilité, la peine prévue, que la personne morale ait été ou non poursuivie ou déclarée coupable.
+> 2002, ch. 29, art. 98; 2015, ch. 3, art. 153(A).
 
 
 
 
-**Infraction : agent ou mandataire**
+
+**Infraction : agent ou mandataire**
 
 **99** Dans les poursuites pour infraction, il suffit, pour établir la culpabilité de l’accusé, de prouver que l’infraction a été commise par son agent ou mandataire, que celui-ci ait ou non été poursuivi.
+> 2002, ch. 29, art. 99; 2015, ch. 3, art. 153(A).
+
 
 
 
