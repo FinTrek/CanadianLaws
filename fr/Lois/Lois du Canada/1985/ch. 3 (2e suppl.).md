@@ -33,53 +33,53 @@
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-French version only***accès*** Comporte le droit de visite.
+***accès*** Comporte le droit de visite. (***French version only***)
 
-***action en divorce*** Action exercée devant un tribunal par l’un des époux ou conjointement par eux en vue d’obtenir un divorce assorti ou non d’une ordonnance alimentaire au profit d’un enfant, d’une ordonnance alimentaire au profit d’un époux ou d’une ordonnance de garde.
+***action en divorce*** Action exercée devant un tribunal par l’un des époux ou conjointement par eux en vue d’obtenir un divorce assorti ou non d’une ordonnance alimentaire au profit d’un enfant, d’une ordonnance alimentaire au profit d’un époux ou d’une ordonnance de garde. (*divorce proceeding*)
 
-***action en mesures accessoires*** Action exercée devant un tribunal par l’un des ex-époux ou conjointement par eux en vue d’obtenir une ordonnance alimentaire au profit d’un enfant, une ordonnance alimentaire au profit d’un époux ou une ordonnance de garde.
+***action en mesures accessoires*** Action exercée devant un tribunal par l’un des ex-époux ou conjointement par eux en vue d’obtenir une ordonnance alimentaire au profit d’un enfant, une ordonnance alimentaire au profit d’un époux ou une ordonnance de garde. (*corollary relief proceeding*)
 
-***action en modification*** Action exercée devant un tribunal par l’un des ex-époux ou conjointement par eux en vue d’obtenir une ordonnance modificative.
+***action en modification*** Action exercée devant un tribunal par l’un des ex-époux ou conjointement par eux en vue d’obtenir une ordonnance modificative. (*variation proceeding*)
 
-***cour d’appel*** Tribunal compétent pour connaître des appels formés contre les décisions d’un autre tribunal.
+***cour d’appel*** Tribunal compétent pour connaître des appels formés contre les décisions d’un autre tribunal. (*appellate court*)
 
-***enfant à charge*** Enfant des deux époux ou ex-époux qui, à l’époque considérée, se trouve dans une des situations suivantes :
+***enfant à charge*** Enfant des deux époux ou ex-époux qui, à l’époque considérée, se trouve dans une des situations suivantes :
 - **a)** il n’est pas majeur et est à leur charge;
-- **b)** il est majeur et est à leur charge, sans pouvoir, pour cause notamment de maladie ou d’invalidité, cesser d’être à leur charge ou subvenir à ses propres besoins.
+- **b)** il est majeur et est à leur charge, sans pouvoir, pour cause notamment de maladie ou d’invalidité, cesser d’être à leur charge ou subvenir à ses propres besoins. (*child of the marriage*)
 
-***époux*** L’une des deux personnes unies par les liens du mariage.
+***époux*** L’une des deux personnes unies par les liens du mariage. (*spouse*)
 
-***garde*** Sont assimilés à la garde le soin, l’éducation et tout autre élément qui s’y rattache.
+***garde*** Sont assimilés à la garde le soin, l’éducation et tout autre élément qui s’y rattache. (*custody*)
 
-***lignes directrices applicables*** S’entend :
+***lignes directrices applicables*** S’entend :
 - **a)** dans le cas où les époux ou les ex-époux résident habituellement, à la date à laquelle la demande d’ordonnance alimentaire au profit d’un enfant ou la demande modificative de celle-ci est présentée ou à la date à laquelle le nouveau montant de l’ordonnance alimentaire au profit d’un enfant doit être fixée sous le régime de l’article 25.1, dans la même province — qui est désignée par un décret pris en vertu du paragraphe (5) — , des textes législatifs de celle-ci précisés dans le décret;
-- **b)** dans les autres cas, des lignes directrices fédérales sur les pensions alimentaires pour enfants.
+- **b)** dans les autres cas, des lignes directrices fédérales sur les pensions alimentaires pour enfants. (*applicable guidelines*)
 
-***lignes directrices fédérales sur les pensions alimentaires pour enfants*** Les lignes directrices établies en vertu de l’article 26.1.
+***lignes directrices fédérales sur les pensions alimentaires pour enfants*** Les lignes directrices établies en vertu de l’article 26.1. (*Federal Child Support Guidelines*)
 
-***majeur*** Est majeur l’enfant qui a atteint l’âge de la majorité selon le droit de la province où il réside habituellement ou, s’il réside habituellement à l’étranger, dix-huit ans.
+***majeur*** Est majeur l’enfant qui a atteint l’âge de la majorité selon le droit de la province où il réside habituellement ou, s’il réside habituellement à l’étranger, dix-huit ans. (*age of majority*)
 
-***ordonnance alimentaire*** Ordonnance alimentaire au profit d’un enfant ou ordonnance alimentaire au profit d’un époux.
+***ordonnance alimentaire*** Ordonnance alimentaire au profit d’un enfant ou ordonnance alimentaire au profit d’un époux. (*support order*)
 
-***ordonnance alimentaire au profit d’un enfant*** Ordonnance rendue en vertu du paragraphe 15.1(1).
+***ordonnance alimentaire au profit d’un enfant*** Ordonnance rendue en vertu du paragraphe 15.1(1). (*child support order*)
 
-***ordonnance alimentaire au profit d’un époux*** Ordonnance rendue en vertu du paragraphe 15.2(1).
+***ordonnance alimentaire au profit d’un époux*** Ordonnance rendue en vertu du paragraphe 15.2(1). (*spousal support order*)
 
-***ordonnance de garde*** Ordonnance rendue en vertu du paragraphe 16(1).
+***ordonnance de garde*** Ordonnance rendue en vertu du paragraphe 16(1). (*custody order*)
 
-***ordonnance modificative*** Ordonnance rendue en vertu du paragraphe 17(1).
+***ordonnance modificative*** Ordonnance rendue en vertu du paragraphe 17(1). (*variation order*)
 
-***service provincial des aliments pour enfants*** Administration, organisme ou service désignés dans un accord conclu avec une province en vertu de l’article 25.1.
+***service provincial des aliments pour enfants*** Administration, organisme ou service désignés dans un accord conclu avec une province en vertu de l’article 25.1. (*provincial child support service*)
 
-***tribunal*** Dans le cas d’une province, l’un des tribunaux suivants :
+***tribunal*** Dans le cas d’une province, l’un des tribunaux suivants :
 - **a)** la Cour supérieure de justice de l’Ontario;
-- **a.1)** la section de première instance de la Cour suprême de l’Île-du-Prince-Édouard ou de Terre-Neuve;
+- **a.1)** la Section de première instance de la Cour suprême de Terre-Neuve-et-Labrador;
 - **b)** la Cour supérieure du Québec;
-- **c)** la Cour suprême de la Nouvelle-Écosse et de la Colombie-Britannique;
+- **c)** la Cour suprême de la Nouvelle-Écosse, de la Colombie-Britannique et de l’Île-du-Prince-Édouard;
 - **d)** la Cour du Banc de la Reine du Nouveau-Brunswick, du Manitoba, de la Saskatchewan ou de l’Alberta;
 - **e)** la Cour suprême du Yukon, la Cour suprême des Territoires du Nord-Ouest ou la Cour de justice du Nunavut.
 
-Est compris dans cette définition tout autre tribunal d’une province dont les juges sont nommés par le gouverneur général et qui est désigné par le lieutenant-gouverneur en conseil de cette province comme tribunal pour l’application de la présente loi.
+Est compris dans cette définition tout autre tribunal d’une province dont les juges sont nommés par le gouverneur général et qui est désigné par le lieutenant-gouverneur en conseil de cette province comme tribunal pour l’application de la présente loi. (*court*)
 
 **Enfant à charge**
 
@@ -102,7 +102,7 @@ Est compris dans cette définition tout autre tribunal d’une province dont les
 **Modifications**
 
 - **(6)** Les lignes directrices de la province comprennent leurs modifications éventuelles.
-> L.R. (1985), ch. 3 (2<sup>e</sup> suppl.), art. 2, ch. 27 (2<sup>e</sup> suppl.), art. 10; 1990, ch. 18, art. 1; 1992, ch. 51, art. 46; 1997, ch. 1, art. 1; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 61; 2002, ch. 7, art. 158(A); 2005, ch. 33, art. 8
+> L.R. (1985), ch. 3 (2<sup>e</sup> suppl.), art. 2, ch. 27 (2<sup>e</sup> suppl.), art. 10; 1990, ch. 18, art. 1; 1992, ch. 51, art. 46; 1997, ch. 1, art. 1; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 61; 2002, ch. 7, art. 158(A); 2005, ch. 33, art. 8; 2015, ch. 3, art. 76
 
 
 
