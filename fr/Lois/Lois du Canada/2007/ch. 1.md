@@ -106,7 +106,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Consultation**
 
-- **(1.1)** Le ministre peut, s’il est d’avis que, eu égard aux circonstances, il est nécessaire de le faire, consulter le gouvernement provincial et l’administration municipale ayant compétence à l’égard du lieu où se trouve le pont ou tunnel international à modifier ou de celui où il sera construit ainsi que toute personne qu’il estime directement intéressée en l’occurrence.
+- **(1.1)** Le ministre peut, s’il est d’avis que, eu égard aux circonstances, il est nécessaire de le faire, consulter le gouvernement provincial et la municipalité ayant compétence à l’égard du lieu où se trouve le pont ou tunnel international à modifier ou de celui où il sera construit ainsi que toute personne qu’il estime directement intéressée en l’occurrence.
 
 **Documents et renseignements**
 
@@ -115,6 +115,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
 - **(3)** Les lignes directrices ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+> 2007, ch. 1, art. 7; 2015, ch. 3, art. 122(F).
+
 
 
 
@@ -380,7 +382,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Consultation**
 
-- **(1.1)** Le ministre peut, s’il est d’avis que, eu égard aux circonstances, il est nécessaire de le faire, consulter le gouvernement provincial et l’administration municipale ayant compétence à l’égard du lieu où se trouve le pont ou tunnel international faisant l’objet de la demande ainsi que toute personne qu’il estime directement intéressée en l’occurrence.
+- **(1.1)** Le ministre peut, s’il est d’avis que, eu égard aux circonstances, il est nécessaire de le faire, consulter le gouvernement provincial et la municipalité ayant compétence à l’égard du lieu où se trouve le pont ou tunnel international faisant l’objet de la demande ainsi que toute personne qu’il estime directement intéressée en l’occurrence.
 
 **Documents et renseignements**
 
@@ -389,6 +391,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
 - **(3)** Les lignes directrices ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+> 2007, ch. 1, art. 24; 2015, ch. 3, art. 123(F).
+
 
 
 
