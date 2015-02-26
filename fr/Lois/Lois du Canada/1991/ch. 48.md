@@ -215,15 +215,15 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 ***tribunal***
 - **a)** La Cour supérieure de justice de l’Ontario;
 - **b)** la Cour supérieure du Québec;
-- **c)** la Cour suprême de la Nouvelle-Écosse et de la Colombie-Britannique;
+- **c)** la Cour suprême de la Nouvelle-Écosse, de la Colombie-Britannique et de l’Île-du-Prince-Édouard;
 - **d)** la Cour du Banc de la Reine du Nouveau-Brunswick, du Manitoba, de la Saskatchewan ou de l’Alberta;
-- **e)** la Section de première instance de la Cour suprême de l’Île-du-Prince-Édouard ou de Terre-Neuve;
+- **e)** la Section de première instance de la Cour suprême de Terre-Neuve-et-Labrador;
 - **f)** la Cour suprême du Yukon, la Cour suprême des Territoires du Nord-Ouest ou la Cour de justice du Nunavut.
 
 ***vérificateur*** S’entend notamment d’un cabinet de comptables.
 
  et ***véritable propriétaire*** Est considéré comme tel le propriétaire de valeurs mobilières inscrites au nom d’un ou de plusieurs intermédiaires, notamment d’un fiduciaire ou d’un mandataire; ***propriété effective*** s’entend du droit du véritable propriétaire.
-> 1991, ch. 48, art. 2, 496 et 497; 1992, ch. 51, art. 31; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 24, ch. 28, art. 115; 2000, ch. 12, art. 84; 2001, ch. 9, art. 248, ch. 27, art. 234; 2002, ch. 7, art. 136(A); 2005, ch. 54, art. 140; 2007, ch. 6, art. 135; 2010, ch. 12, art. 2114; 2012, ch. 5, art. 104.
+> 1991, ch. 48, art. 2, 496 et 497; 1992, ch. 51, art. 31; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 24, ch. 28, art. 115; 2000, ch. 12, art. 84; 2001, ch. 9, art. 248, ch. 27, art. 234; 2002, ch. 7, art. 136(A); 2005, ch. 54, art. 140; 2007, ch. 6, art. 135; 2010, ch. 12, art. 2114; 2012, ch. 5, art. 104; 2015, ch. 3, art. 43.
 
 
 
