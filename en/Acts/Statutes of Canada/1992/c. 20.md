@@ -302,20 +302,20 @@ confine the person in the provincial correctional facility until the person is t
 
 
 
-**Newfoundland**
+**Newfoundland and Labrador**
 
 **15** 
 
-- **(1)** Notwithstanding any requirement in the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or under the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md) that a person be sentenced, committed or transferred to penitentiary, such a person in the Province of Newfoundland shall not be received in a penitentiary without the approval of an officer designated by the Lieutenant Governor of Newfoundland.
+- **(1)** Notwithstanding any requirement in the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or under the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md) that a person be sentenced, committed or transferred to penitentiary, such a person in the Province of Newfoundland and Labrador shall not be received in a penitentiary without the approval of an officer designated by the Lieutenant Governor of Newfoundland and Labrador.
 
 **Idem**
 
-- **(2)** A person who, pursuant to subsection (1), is not received in a penitentiary shall be confined in the provincial correctional facility in Newfoundland known as *Her Majesty’s Penitentiary*, and is subject to all the statutes, regulations and rules applicable in that facility.
+- **(2)** A person who, pursuant to subsection (1), is not received in a penitentiary shall be confined in the provincial correctional facility in Newfoundland and Labrador known as *Her Majesty’s Penitentiary*, and is subject to all the statutes, regulations and rules applicable in that facility.
 
 **Agreement re cost**
 
-- **(3)** The Minister may, with the approval of the Governor in Council, enter into an agreement with the Province of Newfoundland providing for the payment to the Province of the cost of maintaining persons who are confined pursuant to subsection (2).
-> 1992, c. 20, s. 15; 2002, c. 1, s. 172
+- **(3)** The Minister may, with the approval of the Governor in Council, enter into an agreement with the Province of Newfoundland and Labrador providing for the payment to the Province of the cost of maintaining persons who are confined pursuant to subsection (2).
+> 1992, c. 20, s. 15; 2002, c. 1, s. 172; 2015, c. 3, s. 172
 
 
 
