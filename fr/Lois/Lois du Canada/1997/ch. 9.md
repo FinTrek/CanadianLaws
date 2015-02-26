@@ -1748,7 +1748,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Licences ou permis**
 
-**80** Les licences ou permis délivrés sous le régime d’un règlement pris en vertu de l’alinéa 9b) de la Loi sur le contrôle de l’énergie atomique et en cours de validité à la date d’entrée en vigueur sont réputés avoir été délivrés sous le régime de l’article 24 et demeurer en vigueur pour la durée prévue de leur validité, et tous frais ou droits y afférents payés ou payables en vertu du Règlement de 1994 sur les droits pour le recouvrement des coûts de la CCEA sont réputés payés ou payables en vertu de la présente loi.
+**80** Les licences ou permis délivrés sous le régime d’un règlement pris en vertu de l’alinéa 9b) de la Loi sur le contrôle de l’énergie atomique et en cours de validité à la date d’entrée en vigueur sont réputés avoir été délivrés sous le régime de l’article 24 et demeurer en vigueur pour la durée prévue de leur validité, et tous frais ou droits afférents payés ou à payer en vertu du Règlement de 1996 sur les droits pour le recouvrement des coûts de la CCEA sont réputés payés ou à payer en vertu de la présente loi.
+> 1997, ch. 9, art. 80; 2015, ch. 3, art. 136.
+
 
 
 
