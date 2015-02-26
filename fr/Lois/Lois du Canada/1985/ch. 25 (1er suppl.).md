@@ -396,21 +396,21 @@ Toutefois, en cas de poursuite intentée en l’espèce, elle peut se prolonger 
 
 **21** 
 
-- **(1)** Quiconque contrevient aux alinéas 5b) ou 6b) en effectuant une vente commet une infraction et encourt, sur déclaration de culpabilité par mise en accusation, une amende maximale de 250 000 $ et un emprisonnement maximal de deux ans, ou l’une de ces peines.
+- **(1)** Quiconque contrevient aux alinéas 5b) ou 6b) en effectuant une vente commet une infraction et encourt, sur déclaration de culpabilité par mise en accusation, une amende maximale de 250 000 $ et un emprisonnement maximal de deux ans, ou l’une de ces peines.
 
 **Contravention aux art. 7, 8 ou 10**
 
-- **(2)** Quiconque contrevient aux articles 7 ou 8 ou à l’article 10 en effectuant une vente à l’encontre de ses paragraphes (1) ou (2) commet une infraction et encourt, sur déclaration de culpabilité :
+- **(2)** Quiconque contrevient aux articles 7 ou 8 ou à l’article 10 en effectuant une vente à l’encontre de ses paragraphes (1) ou (2) commet une infraction et encourt, sur déclaration de culpabilité :
 	- **a)** par mise en accusation, la peine prévue au paragraphe (1);
 	- **b)** par procédure sommaire, la peine prévue au paragraphe (4).
 
 **Contravention au par. 13(2) ou aux règlements**
 
-- **(3)** Quiconque contrevient au paragraphe 13(2) ou aux règlements, ou omet de s’y conformer, encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 50 000 $.
+- **(3)** Quiconque contrevient au paragraphe 13(2) ou aux règlements, ou omet de s’y conformer, encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 50 000 $.
 
 **Contravention à la loi**
 
-- **(4)** Sous réserve des paragraphes (1) à (3), quiconque contrevient à une disposition de la présente loi commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 50 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines.
+- **(4)** Sous réserve des paragraphes (1) à (3), quiconque contrevient à une disposition de la présente loi commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 50 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines.
 
 **Prescription**
 
@@ -419,7 +419,7 @@ Toutefois, en cas de poursuite intentée en l’espèce, elle peut se prolonger 
 **Certificat du ministre**
 
 - **(6)** Le certificat censé délivré par le ministre et attestant la date à laquelle ces éléments sont venus à sa connaissance est admis en preuve sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire; sauf preuve contraire, il fait foi de son contenu.
-> L.R. (1985), ch. 25 (1<sup>er</sup> suppl.), art. 21; 1995, ch. 40, art. 69; 1997, ch. 6, art. 74.
+> L.R. (1985), ch. 25 (1<sup>er</sup> suppl.), art. 21; 1995, ch. 40, art. 69; 1997, ch. 6, art. 74; 2015, ch. 3, art. 131(A).
 
 
 
