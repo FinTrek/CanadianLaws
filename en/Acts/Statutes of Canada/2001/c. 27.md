@@ -668,8 +668,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Evidence relating to identity**
 
-- **(3)** An officer may require or obtain from a permanent resident or a foreign national who is arrested, detained or subject to a removal order, any evidence — photographic, fingerprint or otherwise — that may be used to establish their identity or compliance with this Act.
-> 2001, c. 27, s. 16; 2010, c. 8, s. 2; 2013, c. 16, s. 5.
+- **(3)** An officer may require or obtain from a permanent resident or a foreign national who is arrested, detained, subject to an examination or subject to a removal order, any evidence — photographic, fingerprint or otherwise — that may be used to establish their identity or compliance with this Act.
+> 2001, c. 27, s. 16; 2010, c. 8, s. 2; 2013, c. 16, s. 5; 2015, c. 3, s. 108(E).
 
 
 
@@ -1283,12 +1283,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** A permanent resident or a foreign national is inadmissible on grounds of organized criminality for
 	- **(a)** being a member of an organization that is believed on reasonable grounds to be or to have been engaged in activity that is part of a pattern of criminal activity planned and organized by a number of persons acting in concert in furtherance of the commission of an offence punishable under an Act of Parliament by way of indictment, or in furtherance of the commission of an offence outside Canada that, if committed in Canada, would constitute such an offence, or engaging in activity that is part of such a pattern; or
-	- **(b)** engaging, in the context of transnational crime, in activities such as people smuggling, trafficking in persons or money laundering.
+	- **(b)** engaging, in the context of transnational crime, in activities such as people smuggling, trafficking in persons or laundering of money or other proceeds of crime.
 
 **Application**
 
 - **(2)** Paragraph (1)(a) does not lead to a determination of inadmissibility by reason only of the fact that the permanent resident or foreign national entered Canada with the assistance of a person who is involved in organized criminal activity.
-> 2001, c. 27, s. 37; 2013, c. 16, s. 15.
+> 2001, c. 27, s. 37; 2013, c. 16, s. 15; 2015, c. 3, s. 109(E).
 
 
 
@@ -1788,11 +1788,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Right to appeal — visa and removal order**
 
-- **(2)** A foreign national who holds a permanent resident visa may appeal to the Immigration Appeal Division against a decision at an examination or admissibility hearing to make a removal order against them.
+- **(2)** A foreign national who holds a permanent resident visa may appeal to the Immigration Appeal Division against a decision to make a removal order against them made under subsection 44(2) or made at an admissibility hearing.
 
-**Right to appeal — removal order**
+**Right to appeal removal order**
 
-- **(3)** A permanent resident or a protected person may appeal to the Immigration Appeal Division against a decision at an examination or admissibility hearing to make a removal order against them.
+- **(3)** A permanent resident or a protected person may appeal to the Immigration Appeal Division against a decision to make a removal order against them made under subsection 44(2) or made at an admissibility hearing.
 
 **Right of appeal — residency obligation**
 
@@ -1801,6 +1801,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Right of appeal — Minister**
 
 - **(5)** The Minister may appeal to the Immigration Appeal Division against a decision of the Immigration Division in an admissibility hearing.
+> 2001, c. 27, s. 63; 2015, c. 3, s. 110.
+
 
 
 
@@ -1903,11 +1905,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **70** 
 
-- **(1)** An officer, in examining a permanent resident or a foreign national, is bound by the decision of the Immigration Appeal Division to allow an appeal in respect of the foreign national.
+- **(1)** An officer, in examining a permanent resident or a foreign national, is bound by the decision of the Immigration Appeal Division to allow an appeal in respect of the permanent resident or foreign national.
 
 **Examination suspended**
 
 - **(2)** If the Minister makes an application for leave to commence an application for judicial review of a decision of the Immigration Appeal Division with respect to a permanent resident or a foreign national, an examination of the permanent resident or the foreign national under this Act is suspended until the final determination of the application.
+> 2001, c. 27, s. 70; 2015, c. 3, s. 111(E).
+
 
 
 
@@ -2016,7 +2020,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Effect of referral**
 
 - **(3)** Once the certificate is referred, no proceeding under this Act respecting the person who is named in the certificate — other than proceedings relating to sections 82 to 82.3, 112 and 115 — may be commenced or continued until the judge determines whether the certificate is reasonable.
-> 2001, c. 27, s. 77; 2002, c. 8, s. 194; 2005, c. 10, s. 34; 2008, c. 3, s. 4.
+> 2001, c. 27, s. 77; 2002, c. 8, s. 194; 2005, c. 10, s. 34; 2008, c. 3, s. 4; 2015, c. 3, s. 112(F).
 
 
 
@@ -2688,7 +2692,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Incorporated material is not a regulation**
 
 - **(3)** For greater certainty, material that is incorporated by reference in a regulation made under this Act is not a regulation for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
-> 2001, c. 27, s. 92; 2012, c. 19, s. 708; 2013, c. 33, s. 164, c. 40, s. 238.
+> 2001, c. 27, s. 92; 2012, c. 19, s. 708; 2013, c. 33, s. 164, c. 40, s. 238; 2015, c. 3, s. 113(F).
 
 
 
@@ -3278,12 +3282,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Restriction**
 
-- **(3)** Refugee protection may not result from an application for protection if the person
+- **(3)** Refugee protection may not be conferred on an applicant who
 	- **(a)** is determined to be inadmissible on grounds of security, violating human or international rights or organized criminality;
 	- **(b)** is determined to be inadmissible on grounds of serious criminality with respect to a conviction in Canada of an offence under an Act of Parliament punishable by a maximum term of imprisonment of at least 10 years or with respect to a conviction outside Canada for an offence that, if committed in Canada, would constitute an offence under an Act of Parliament punishable by a maximum term of imprisonment of at least 10 years;
 	- **(c)** made a claim to refugee protection that was rejected on the basis of section F of Article 1 of the Refugee Convention; or
 	- **(d)** is named in a certificate referred to in subsection 77(1).
-> 2001, c. 27, s. 112; 2010, c. 8, s. 15; 2012, c. 17, ss. 38, 60, 84.
+> 2001, c. 27, s. 112; 2010, c. 8, s. 15; 2012, c. 17, ss. 38, 60, 84; 2015, c. 3, s. 114(E).
 
 
 
@@ -3560,6 +3564,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(a)** directly or indirectly misrepresent or withhold material facts relating to a relevant matter that induces or could induce an error in the administration of this Act;
 - **(b)** communicate, directly or indirectly, by any means, false or misleading information or declarations with intent to induce or deter immigration to Canada; or
 - **(c)** refuse to be sworn or to affirm or declare, as the case may be, or to answer a question put to the person at an examination or at a proceeding held under this Act.
+> 2001, c. 27, s. 127; 2015, c. 3, s. 115(F).
+
 
 
 
@@ -3745,6 +3751,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Duties of peace officers to execute orders**
 
 **142** Every peace officer and every person in immediate charge or control of an immigrant station shall, when so directed by an officer, execute any warrant or written order issued under this Act for the arrest, detention or removal from Canada of any permanent resident or foreign national.
+> 2001, c. 27, s. 142; 2015, c. 3, s. 116(F).
+
 
 
 
@@ -4587,9 +4595,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Appeals**
 
-***196** Despite section 192, an appeal made to the Immigration Appeal Division before the coming into force of this section shall be discontinued if the appellant has not been granted a stay under the former Act and the appeal could not have been made because of section 64 of this Act.
+**196** Despite section 192, an appeal made to the Immigration Appeal Division before the coming into force of this section shall be discontinued if the appellant has not been granted a stay under the former Act and the appeal could not have been made because of section 64 of this Act.
+> 2001, c. 27, s. 196; 2015, c. 3, s. 117(F).
 
-<a name='I-2.5_en_8'><sup>*</sup></a>: [Note: Section 196 in force June 28, 2002, *see* SI/2002-97.]<br />
 
 
 
@@ -4597,6 +4605,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Stays**
 
 **197** Despite section 192, if an appellant who has been granted a stay under the former Act breaches a condition of the stay, the appellant shall be subject to the provisions of section 64 and subsection 68(4) of this Act.
+> 2001, c. 27, s. 197; 2015, c. 3, s. 117(F).
+
 
 
 
