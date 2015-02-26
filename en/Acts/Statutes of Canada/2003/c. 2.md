@@ -561,6 +561,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Annual report to be tabled**
 
 - **(5)** The Minister shall cause a copy of the annual report to be tabled in each House of Parliament on any of the first fifteen days on which that House is sitting after the Minister receives the report.
+> 2003, c. 2, s. 33; 2015, c. 3, s. 141(F).
+
 
 
 
