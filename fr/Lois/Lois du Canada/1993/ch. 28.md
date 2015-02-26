@@ -60,8 +60,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Constitution**
 
 **3** Est constituée en territoire, sous la dénomination de Nunavut, la partie du Canada :
-- **a)** située, d’une part, au nord du soixantième parallèle et à l’est de la limite dont le tracé figure à l’annexe I, à l’exclusion des régions appartenant au Québec ou à Terre-Neuve;
+- **a)** située, d’une part, au nord du soixantième parallèle et à l’est de la limite dont le tracé figure à l’annexe I, à l’exclusion des régions appartenant au Québec ou à Terre-Neuve-et-Labrador;
 - **b)** comprenant, d’autre part, les îles de la baie d’Hudson, de la baie James et de la baie Ungava, à l’exclusion de celles qui appartiennent au Manitoba, à l’Ontario ou au Québec.
+> 1993, ch. 28, art. 3; 2015, ch. 3, art. 172.
+
 
 
 
