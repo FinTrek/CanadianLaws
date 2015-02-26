@@ -4350,10 +4350,10 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 	- **h)** exigeant que les plaques ou étiquettes visées à l’alinéa g) soient affichées et fixant les modalités d’affichage;
 	- **i)** interdisant la construction, la fabrication, la vente, la location, l’importation ou l’utilisation des embarcations de plaisance non conformes aux règlements pris en vertu de l’alinéa f);
 	- **j)** exigeant des propriétaires, constructeurs, fabricants, importateurs et vendeurs d’embarcations de plaisance qu’ils les modifient, à leurs frais, afin de se conformer aux règlements pris en vertu de l’alinéa f);
-	- **k)** régissant les plaques d’identification ou des numéros de série de la coque des embarcations de plaisance;
+	- **k)** régissant les numéros d’identification ou de série de la coque des embarcations de plaisance;
 	- **l)** précisant les machines et l’équipement que les embarcations de plaisance ou des catégories de celles-ci doivent avoir à bord, ainsi que les machines et l’équipement qu’il est interdit d’y avoir;
 	- **m)** concernant la conception, la construction, la fabrication, l’entretien, l’entreposage, la vérification, l’approbation, l’emplacement et l’utilisation des machines et de l’équipement des embarcations de plaisance ou catégories de celles-ci;
-	- **n)** concernant les exigences que doivent remplir les embarcations de plaisance — ou catégories d’embarcations de plaisance — , leurs machines et leur équipement;
+	- **n)** concernant les exigences que doivent remplir les embarcations de plaisance — ou catégories d’embarcations de plaisance —, leurs machines et leur équipement;
 	- **o)** concernant les renseignements et les documents à garder à bord les embarcations de plaisance ou des catégories de celles-ci;
 	- **p)** régissant le rapport à faire sur les accidents mettant en cause des embarcations de plaisance.
 
@@ -4362,6 +4362,8 @@ Ce ministre fixe les modalités de présentation de la demande de déplacement e
 - **(2)** Le gouverneur en conseil peut, sur recommandation du ministre, prendre des règlements :
 	- **a)** régissant ou interdisant le rejet de polluants par les embarcations de plaisance;
 	- **b)** régissant le bruit émis par le moteur des embarcations de plaisance.
+> 2001, ch. 26, art. 207; 2015, ch. 3, art. 24(F).
+
 
 
 
@@ -5202,12 +5204,14 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 
 - **(1)** Commet une infraction la personne ou le bâtiment qui contrevient :
 	- **a)** à un ordre donné en vertu du paragraphe 212(2) (ordre de conserver sur les lieux les choses saisies);
-	- **b)** au paragraphe 213 (omettre d’obtenir un congé);
+	- **b)** à l’article 213 (omettre d’obtenir un congé);
 	- **c)** à toute disposition d’un règlement d’application de la présente partie.
 
 **Peines**
 
 - **(2)** L’auteur d’une infraction visée au paragraphe (1) encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 100 000 $ et un emprisonnement maximal d’un an, ou l’une de ces peines.
+> 2001, ch. 26, art. 246; 2015, ch. 3, art. 25(F).
+
 
 
 
@@ -5426,6 +5430,8 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 **Pouvoir de détenir un bâtiment étranger qui a occasionné une avarie**
 
 **259** Si elle est convaincue qu’une avarie a, dans une partie quelconque du monde, été causée à des biens appartenant à Sa Majesté du chef du Canada ou d’une province ou à une personne qualifiée par la faute, exclusive ou non, d’un bâtiment étranger et que celui-ci se trouve dans les eaux canadiennes, la Cour fédérale peut, sur demande *ex parte*, délivrer une ordonnance à toute personne désignée par le tribunal, lui enjoignant de détenir le bâtiment jusqu’à ce que le demandeur ait été indemnisé de ses pertes ou dommages ou qu’une garantie, en la forme et pour la somme précisées par le tribunal, ait été déposée auprès de lui.
+> 2001, ch. 26, art. 259; 2015, ch. 3, art. 26(A).
+
 
 
 
@@ -5491,7 +5497,9 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 
 **Compétence**
 
-**264** S’il ne réside pas de juge ayant compétence en matière de brefs de *certiorari* au lieu où a été déclarée la culpabilité ou rendue l’ordonnance ou près de ce lieu, dans la province d’Ontario, un juge de la Cour supérieure de justice, dans les provinces de la Nouvelle-Écosse ou de la Colombie-Britannique, un juge de la Cour suprême, dans les provinces de l’Île-du-Prince-Édouard ou de Terre-Neuve, un juge de la Section de première instance de la Cour suprême ou, dans les provinces du Nouveau-Brunswick, du Manitoba, de la Saskatchewan ou d’Alberta, un juge de la Cour du Banc de la Reine peut être saisi de toute demande de suspension des procédures relatives à cette déclaration de culpabilité ou à cette ordonnance et rendre une décision.
+**264** S’il ne réside pas de juge ayant compétence en matière de brefs de *certiorari* au lieu où a été déclarée la culpabilité ou rendue l’ordonnance ou près de ce lieu, en Ontario, un juge de la Cour supérieure de justice, en Nouvelle-Écosse, en Colombie-Britannique ou à l’Île-du-Prince-Édouard, un juge de la Cour suprême, à Terre-Neuve-et-Labrador, un juge de la Section de première instance de la Cour suprême ou, au Nouveau-Brunswick, au Manitoba, en Saskatchewan ou en Alberta, un juge de la Cour du Banc de la Reine peut être saisi de toute demande de suspension des procédures relatives à cette déclaration de culpabilité ou à cette ordonnance et rendre une décision.
+> 2001, ch. 26, art. 264; 2015, ch. 3, art. 27.
+
 
 
 
@@ -5633,7 +5641,9 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 
 **272** Les bâtiments, à l’exception des embarcations de plaisance, qui sont inscrits sous le régime de l’article 108 de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), chapitre S-9 des Lois révisées du Canada (1985), à l’entrée en vigueur de la partie 2 sont réputés être inscrits dans la partie du registre sur les petits bâtiments mentionnée au paragraphe 43(1) :
 - **a)** soit jusqu’à ce qu’ils changent de propriétaire ou, à défaut, pendant les cinq années suivant l’entrée en vigueur de la partie 2;
-- **b)** soit, dans le cas d’un bâtiment à l’égard duquel un permis a été délivré en vertu de la présente loi, jusqu’à l’expiration de celui-ci.
+- **b)** soit, dans le cas d’un bâtiment à l’égard duquel un permis a été délivré en vertu de cette loi, jusqu’à l’expiration de celui-ci.
+> 2001, ch. 26, art. 272; 2015, ch. 3, art. 28(F).
+
 
 
 
