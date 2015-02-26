@@ -156,10 +156,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Le ministre fait rapport des biens dont il a pris la charge en application du paragraphe (1) et qu’il détient dans un lieu différent de celui précisé dans le rapport prévu à l’alinéa 462.32(4)b) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). Il établit son rapport en la forme réglementaire, y précise la localisation des biens et le dépose selon les modalités réglementaires auprès du greffier du tribunal qui a délivré le mandat.
 
-**Transfert de biens**
-
-- **(3)** La personne qui a la charge de biens visés par une ordonnance de prise en charge rendue sous le régime du paragraphe 83.13(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) doit, dans les meilleurs délais possible après la prise de l’ordonnance, transférer au ministre la charge des biens, sauf de ceux requis, en tout ou en partie, aux fins de preuve ou d’enquête.
-> 1993, ch. 37, art. 5; 2001, ch. 32, art. 76, ch. 41, art. 108 et 135.
+- **(3)** [Abrogé, 2015, ch. 3, art. 152]
+> 1993, ch. 37, art. 5; 2001, ch. 32, art. 76, ch. 41, art. 108 et 135; 2015, ch. 3, art. 152.
 
 
 
