@@ -147,6 +147,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Number of certain instruments**
 
-- **(3)** The report referred to in subsection (2) shall, in respect of legislative instruments of a class referred to in subsection 15(3) of the *Statutory Instruments Regulations*, set out only the number of such instruments that are of the types described in paragraphs (2)(b) and (c).
+- **(3)** The report referred to in subsection (2) shall, in respect of legislative instruments of a class referred to in subsection 15(3) of the [Statutory Instruments Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1501-1600/C.R.C.,%20c.%201509.md), set out only the number of such instruments that are of the types described in paragraphs (2)(b) and (c).
+> 2002, c. 20, s. 9; 2015, c. 3, s. 129(F).
+
 
 
