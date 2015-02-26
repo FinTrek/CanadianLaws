@@ -1970,14 +1970,18 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Officers, etc., of corporations**
 
-**98** If a corporation commits an offence, any officer, director, agent or mandatory of the corporation who directed, authorized, assented to, or acquiesced or participated in, the commission of the offence is a party to and guilty of the offence and is liable on conviction to the punishment provided for the offence, whether or not the corporation has been prosecuted or convicted.
+**98** If a corporation commits an offence, any officer, director or agent or mandatary of the corporation who directed, authorized, assented to, or acquiesced or participated in, the commission of the offence is a party to and guilty of the offence and is liable on conviction to the punishment provided for the offence, whether or not the corporation has been prosecuted or convicted.
+> 2002, c. 29, s. 98; 2015, c. 3, s. 153(E).
 
 
 
 
-**Offences by employees or agents**
 
-**99** In any prosecution for an offence, the accused may be convicted of the offence if it is established that it was committed by an employee, agent or mandatory of the accused, whether or not the employee, agent or mandatory has been prosecuted for the offence.
+**Offences by employees or agents or mandataries**
+
+**99** In any prosecution for an offence, the accused may be convicted of the offence if it is established that it was committed by an employee or an agent or mandatary of the accused, whether or not the employee, agent or mandatary has been prosecuted for the offence.
+> 2002, c. 29, s. 99; 2015, c. 3, s. 153(E).
+
 
 
 
