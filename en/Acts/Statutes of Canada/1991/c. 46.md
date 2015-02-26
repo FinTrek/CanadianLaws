@@ -108,9 +108,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***court*** means
 - **(a)** in the Province of Ontario, the Superior Court of Justice,
 - **(b)** in the Province of Quebec, the Superior Court of the Province,
-- **(c)** in the Provinces of Nova Scotia and British Columbia, the Supreme Court of the Province,
+- **(c)** in the Provinces of Nova Scotia, British Columbia and Prince Edward Island, the Supreme Court of the Province,
 - **(d)** in the Provinces of New Brunswick, Manitoba, Saskatchewan and Alberta, the Court of Queen’s Bench for the Province,
-- **(e)** in the Provinces of Prince Edward Island and Newfoundland, the trial division of the Supreme Court of the Province, and
+- **(e)** in the Province of Newfoundland and Labrador, the Trial Division of the Supreme Court of the Province, and
 - **(f)** the Supreme Court of Yukon, the Supreme Court of the Northwest Territories and the Nunavut Court of Justice;
 
 ***court of appeal*** means the court to which an appeal lies from a decision or order of a court;
@@ -290,7 +290,7 @@ Version anglaise seulement***share*** does not include a membership share;
 ***voting share*** means a share of any class of shares of a body corporate carrying voting rights under all circumstances or by reason of an event that has occurred and is continuing or by reason of a condition that has been fulfilled;
 
 ***WTO Member resident*** means a WTO Member resident within the meaning of section 11.1.
-> 1991, c. 46, ss. 2, 572, c. 47, s. 756, c. 48, s. 494; 1992, c. 51, s. 29; 1993, c. 34, s. 5(F), c. 44, s. 22; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 14, c. 28, s. 1; 2000, c. 12, s. 3; 2001, c. 9, s. 35, c. 27, s. 206; 2002, c. 7, s. 81(E); 2005, c. 54, s. 1; 2007, c. 6, s. 1; 2010, c. 12, s. 1894, c. 25, s. 146; 2012, c. 5, ss. 2, 223.
+> 1991, c. 46, ss. 2, 572, c. 47, s. 756, c. 48, s. 494; 1992, c. 51, s. 29; 1993, c. 34, s. 5(F), c. 44, s. 22; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 14, c. 28, s. 1; 2000, c. 12, s. 3; 2001, c. 9, s. 35, c. 27, s. 206; 2002, c. 7, s. 81(E); 2005, c. 54, s. 1; 2007, c. 6, s. 1; 2010, c. 12, s. 1894, c. 25, s. 146; 2012, c. 5, ss. 2, 223; 2015, c. 3, s. 5.
 
 
 
