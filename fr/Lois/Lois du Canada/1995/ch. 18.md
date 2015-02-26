@@ -293,10 +293,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Frais du demandeur et des témoins**
 
-**24** Le demandeur et tout témoin comparaissant pour lui à une séance tenue par le comité de révision ont droit :
-- **a)** aux frais de déplacement et de séjour occasionnés par leur comparution en conformité avec les règlements relatifs aux soins de santé des anciens combattants pris en vertu du paragraphe 5(1) de la [Loi sur le ministère des Anciens Combattants](/fr/Lois/Lois%20révisées%20du%20Canada/V/V-1.md);
+**24** Le demandeur et tout témoin comparaissant pour lui à une séance tenue par le comité de révision ont droit :
+- **a)** aux frais de déplacement et de séjour occasionnés par leur comparution en conformité avec les règlements relatifs aux soins de santé des anciens combattants pris en vertu de l’article 5 de la [Loi sur le ministère des Anciens Combattants](/fr/Lois/Lois%20révisées%20du%20Canada/V/V-1.md);
 - **b)** aux honoraires d’expert dans le cas d’un témoin qui est médecin, selon le barème fixé par le Conseil du Trésor.
-> 1995, ch. 17, art. 73, ch. 18, art. 24; 2000, ch. 34, art. 95(F).
+> 1995, ch. 17, art. 73, ch. 18, art. 24; 2000, ch. 34, art. 95(F); 2015, ch. 3, art. 158.
 
 
 
@@ -417,7 +417,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **34** 
 
-- **(1)** En cas de refus de l’une des compensations visées par la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md) ou de l’indemnité d’invalidité, de l’indemnité de décès, de l’allocation vestimentaire ou de l’indemnité de captivité visées par la partie 3 de la Loi sur les mesures de réinsertion et d’indemnisation des militaires et vétérans des Forces canadiennes, une personne peut, après avoir épuisé les recours en révision et en appel prévus par la présente loi, adresser au Tribunal une demande d’allocation de commisération.
+- **(1)** En cas de refus d’une compensation visée par la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md) ou de l’indemnité d’invalidité, de l’indemnité de décès, de l’allocation vestimentaire ou de l’indemnité de captivité visées par la partie 3 de la Loi sur les mesures de réinsertion et d’indemnisation des militaires et vétérans des Forces canadiennes, une personne peut, après avoir épuisé les recours en révision et en appel prévus par la présente loi, adresser au Tribunal une demande d’allocation de commisération.
 
 **Comité**
 
@@ -454,7 +454,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Définition de allocation de commisération**
 
 - **(8)** Pour l’application du présent article, ***allocation de commisération*** s’entend d’une pension, allocation ou dotation supplémentaire de commisération.
-> 1995, ch. 18, art. 34; 2000, ch. 34, art. 67; 2005, ch. 21, art. 113.
+> 1995, ch. 18, art. 34; 2000, ch. 34, art. 67; 2005, ch. 21, art. 113; 2015, ch. 3, art. 159(F).
 
 
 
