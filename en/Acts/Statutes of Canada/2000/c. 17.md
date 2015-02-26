@@ -1269,11 +1269,11 @@ The Minister of Public Works and Government Services shall give effect to a deci
 - **(5)** In this section and sections 33 and 34, ***court*** means
 	- **(a)** in the Province of Ontario, the Superior Court of Justice;
 	- **(b)** in the Province of Quebec, the Superior Court;
-	- **(c)** in the Provinces of Nova Scotia and British Columbia, the Yukon Territory and the Northwest Territories, the Supreme Court;
+	- **(c)** in the Provinces of Nova Scotia, British Columbia and Prince Edward Island, Yukon and the Northwest Territories, the Supreme Court;
 	- **(d)** in the Provinces of New Brunswick, Manitoba, Saskatchewan and Alberta, the Court of Queen’s Bench;
-	- **(e)** in the Provinces of Prince Edward Island and Newfoundland, the Trial Division of the Supreme Court; and
+	- **(e)** in the Province of Newfoundland and Labrador, the Trial Division of the Supreme Court; and
 	- **(f)** in Nunavut, the Nunavut Court of Justice.
-> 2000, c. 17, s. 32; 2001, c. 41, s. 63; 2005, c. 38, s. 127; 2006, c. 12, s. 17.
+> 2000, c. 17, s. 32; 2001, c. 41, s. 63; 2005, c. 38, s. 127; 2006, c. 12, s. 17; 2015, c. 3, s. 148.
 
 
 
