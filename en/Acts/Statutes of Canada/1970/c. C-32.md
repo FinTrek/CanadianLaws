@@ -58,10 +58,12 @@
 ***accounts receivable*** includes existing or future book debts, accounts, claims, moneys and choses in action or any class or part thereof and all contracts, securities, bills, notes, books, instruments and other documents securing, evidencing or in any way relating to the same or any of them, but shall not include uncalled share capital of the company or calls made but not paid;
 
 ***court*** means
-- **(a)** in Ontario, Nova Scotia, British Columbia and Newfoundland, the Supreme Court,
-- **(a.1)** in Prince Edward Island, the Trial Division of the Supreme Court,
+- **(a)** in Ontario, the Superior Court of Justice,
+- **(a.1)** [Repealed, 2015, c. 3, s. 13]
 - **(b)** in Quebec, the Superior Court,
-- **(c)** in Manitoba, Saskatchewan, Alberta and New Brunswick, the Court of Queen’s Bench, and
+- **(b.1)** in Nova Scotia, British Columbia and Prince Edward Island, the Supreme Court,
+- **(c)** in Manitoba, Saskatchewan, Alberta and New Brunswick, the Court of Queen’s Bench,
+- **(c.1)** in Newfoundland and Labrador, the Trial Division of the Supreme Court, and
 - **(d)** in Yukon, the Supreme Court of Yukon, in the Northwest Territories, the Supreme Court of the Northwest Territories, and in Nunavut, the Nunavut Court of Justice;
 
 ***debenture*** includes bonds, debenture stock, and any other securities of a company that constitute or are entitled to the benefit of a charge on the assets of the company;
@@ -104,7 +106,7 @@ not including persons who are in the employment of the company and persons, who,
 **Special resolution**
 
 - **(2)** A by-law mentioned in section 20, subsection 29(1), section 51 or 52 may be referred to as a “special resolution”.
-> R.S., 1970, c. C-32, s. 3; R.S., 1970, c. 10(1st Supp.), s. 2; 1972, c. 17, s. 2; 1978-79, c. 11, s. 10; 1986, c. 35, s. 14; 1995, c. 1, s. 32; 1999, c. 3, s. 17; 2002, c. 7, s. 89(E).
+> R.S., 1970, c. C-32, s. 3; R.S., 1970, c. 10(1st Supp.), s. 2; 1972, c. 17, s. 2; 1978-79, c. 11, s. 10; 1986, c. 35, s. 14; 1995, c. 1, s. 32; 1999, c. 3, s. 17; 2002, c. 7, s. 89(E); 2015, c. 3, s. 13.
 
 
 
