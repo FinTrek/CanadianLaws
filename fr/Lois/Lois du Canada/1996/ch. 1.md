@@ -33,8 +33,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Les définitions qui suivent s’appliquent au présent article.
 
-***provinces de l’Atlantique*** Les provinces de la Nouvelle-Écosse, du Nouveau-Brunswick, de l’Île-du-Prince-Édouard et de Terre-Neuve.
+***provinces de l’Atlantique*** Les provinces de la Nouvelle-Écosse, du Nouveau-Brunswick, de l’Île-du-Prince-Édouard et de Terre-Neuve-et-Labrador. (*Atlantic provinces*)
 
-***provinces des Prairies*** Les provinces du Manitoba, de la Saskatchewan et d’Alberta.
+***provinces des Prairies*** Les provinces du Manitoba, de la Saskatchewan et d’Alberta. (*Prairie provinces*)
+> 1996, ch. 1, art. 1; 2015, ch. 3, art. 172.
+
 
 
