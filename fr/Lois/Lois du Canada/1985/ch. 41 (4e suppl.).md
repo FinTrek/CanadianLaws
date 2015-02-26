@@ -31,18 +31,18 @@
 
 **3** Les définitions qui suivent s’appliquent à la présente partie.
 
-***Agence*** L’Agence de promotion économique du Canada atlantique, constituée par l’article 10.
+***Agence*** L’Agence de promotion économique du Canada atlantique, constituée par l’article 10. (*Agency*)
 
-***Canada atlantique*** La Nouvelle-Écosse, le Nouveau-Brunswick, l’Île-du-Prince-Édouard et Terre-Neuve.
+***Canada atlantique*** La Nouvelle-Écosse, le Nouveau-Brunswick, l’Île-du-Prince-Édouard et Terre-Neuve-et-Labrador. (*Atlantic Canada*)
 
 ***conseil***[Abrogée, 2014, ch. 20, art. 175]
 
-***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé, par commission sous le grand sceau, de l’application de la présente partie.
+***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé, par commission sous le grand sceau, de l’application de la présente partie. (*Minister*)
 
-***président*** Le président de l’Agence, nommé aux termes du paragraphe 11(1).
+***président*** Le président de l’Agence, nommé aux termes du paragraphe 11(1). (*President*)
 
-***zone désignée*** Zone du Canada atlantique désignée par arrêté du ministre aux termes de l’article 7.
-> L.R. (1985), ch. 41 (4<sup>e</sup> suppl.), art. 3; 2014, ch. 20, art. 175.
+***zone désignée*** Zone du Canada atlantique désignée par arrêté du ministre aux termes de l’article 7. (*designated area*)
+> L.R. (1985), ch. 41 (4<sup>e</sup> suppl.), art. 3; 2014, ch. 20, art. 175; 2015, ch. 3, art. 172.
 
 
 
