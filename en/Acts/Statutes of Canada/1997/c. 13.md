@@ -774,6 +774,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 **Definition of sitting day**
 
 - **(4)** For the purpose of this section, ***sitting day*** means a day on which the House of Commons sits.
+> 1997, c. 13, s. 42.1; 2015, c. 3, s. 154(F).
+
 
 
 
@@ -977,7 +979,9 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **Table in Parliament**
 
-- **(4)** A copy of an equivalency agreement in respect of which an order is made under subsection (3) must be tabled in Parliament within fifteen days after the order is made.
+- **(4)** A copy of an equivalency agreement in respect of which an order is made under subsection (3) must be tabled in each House of Parliament within the first 15 sitting days of that House after the order is made.
+> 1997, c. 13, s. 60; 2015, c. 3, s. 155.
+
 
 
 
