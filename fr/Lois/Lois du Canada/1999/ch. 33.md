@@ -260,7 +260,7 @@ Elle vise aussi, sauf pour l’application des articles 66, 80 à 89 et 104 à 1
 
 **6** 
 
-- **(1)** En vue de rendre réalisable une action nationale et de prendre des mesures coordonnées dans les domaines touchant l’environnement, ainsi que pour éviter le dédoublement des règlements pris par les gouvernements, le ministre constitue le comité consultatif national chargé :
+- **(1)** En vue de rendre réalisable une action nationale et de prendre des mesures coordonnées dans les domaines touchant l’environnement, ainsi que pour éviter le dédoublement des règlements pris par les gouvernements, le ministre constitue le comité consultatif national chargé :
 	- **a)** de conseiller les ministres sur les projets de règlement prévus au paragraphe 93(1);
 	- **b)** de le conseiller sur un cadre intergouvernemental d’action concertée pour la gestion des substances toxiques;
 	- **c)** de le conseiller sur les autres questions liées à l’environnement qui sont d’intérêt commun pour le gouvernement du Canada et d’autres gouvernements.
@@ -271,11 +271,11 @@ Elle vise aussi, sauf pour l’application des articles 66, 80 à 89 et 104 à 1
 
 **Composition**
 
-- **(2)** Le comité se compose des membres suivants :
+- **(2)** Le comité se compose des membres suivants :
 	- **a)** un représentant pour chacun des ministres;
 	- **b)** un représentant du gouvernement de chaque province;
-	- **c)** sous réserve du paragraphe (3), au plus six représentants de gouvernements autochtones, choisis de la façon suivante :
-		- **(i)** un pour tous les gouvernements autochtones — sauf inuit — de Terre-Neuve, de l’Île-du-Prince-Édouard, de la Nouvelle-Écosse et du Nouveau-Brunswick,
+	- **c)** sous réserve du paragraphe (3), au plus six représentants de gouvernements autochtones, choisis de la façon suivante :
+		- **(i)** un pour tous les gouvernements autochtones — sauf inuit — de Terre-Neuve-et-Labrador, de l’Île-du-Prince-Édouard, de la Nouvelle-Écosse et du Nouveau-Brunswick,
 		- **(ii)** un pour tous les gouvernements autochtones — sauf inuit — au Québec,
 		- **(iii)** un pour tous les gouvernements autochtones — sauf inuit — en Ontario,
 		- **(iv)** un pour tous les gouvernements autochtones — sauf inuit — au Manitoba, en Saskatchewan, en Alberta, dans les Territoires du Nord-Ouest et au Nunavut,
@@ -301,7 +301,7 @@ Elle vise aussi, sauf pour l’application des articles 66, 80 à 89 et 104 à 1
 **Règlements**
 
 - **(4)** Le ministre peut prendre des règlements en ce qui touche la façon de choisir le représentant visé au paragraphe (3).
-> 1999, ch. 33, art. 6; 2002, ch. 7, art. 124.
+> 1999, ch. 33, art. 6; 2002, ch. 7, art. 124; 2015, ch. 3, art. 172.
 
 
 
