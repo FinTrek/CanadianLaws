@@ -853,7 +853,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Duration**
 
 - **(2)** The security measure comes into force immediately when it is made but ceases to have force 90 days after the day on which it is made unless the Minister or his or her deputy repeals it earlier.
-> 2009, c. 9, s. 26.
+> 2009, c. 9, s. 26; 2015, c. 3, s. 156(F).
 
 
 
