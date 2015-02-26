@@ -127,6 +127,8 @@ that may be proceeded with in accordance with the [Agriculture and Agri-Food Adm
 **Notice**
 
 - **(3)** A prohibition under subsection (2) shall be communicated by personal delivery of a notice to the owner or person having the possession, care or control, or by sending the notice to the owner or person.
+> 1990, c. 22, s. 6; 2015, c. 3, s. 142(F).
+
 
 
 
@@ -305,7 +307,7 @@ the inspector may, whether or not the thing is seized, require the owner of the 
 
 
 
-**Definition of “international transportation undertaking”**
+**Definition of international transportation undertaking**
 
 **20** 
 
@@ -346,6 +348,8 @@ the inspector may, whether or not the thing is seized, require the owner of the 
 **Regulations**
 
 - **(8)** The Governor in Council may make regulations for determining the adequacy of any area, office, laboratory or other facility for the purposes mentioned in subsection (2).
+> 1990, c. 22, s. 20; 2015, c. 3, s. 143(F).
+
 
 
 
@@ -420,6 +424,8 @@ the inspector may, whether or not the thing is seized, require the owner of the 
 **Notice**
 
 - **(2)** A requirement under subsection (1) shall be communicated by personal delivery of a notice to the owner or person having the possession, care or control of the conveyance or other thing or by sending the notice to the owner or person, and the notice may specify the period within which or the manner in which the conveyance or other thing is to be stored, treated, quarantined, disposed of or moved.
+> 1990, c. 22, s. 24; 2015, c. 3, s. 144(F).
+
 
 
 
@@ -539,6 +545,8 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Proceeds**
 
 - **(3)** An inspector who seizes and detains a thing under this Act may dispose of it and any proceeds realized from its disposition shall be paid to the Receiver General.
+> 1990, c. 22, s. 30; 2015, c. 3, s. 145(F).
+
 
 
 
@@ -642,6 +650,8 @@ for an order that it be returned.
 **Notice**
 
 - **(3)** A requirement under subsection (2) shall be communicated by personal delivery of a notice to the owner or person having the possession, care or control of the thing or by sending the notice to the owner or person, and the notice may specify the period within which or the manner in which any action shall be taken by the owner or person.
+> 1990, c. 22, s. 36; 2015, c. 3, s. 146(F).
+
 
 
 
