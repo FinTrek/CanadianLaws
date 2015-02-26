@@ -667,7 +667,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Établissement de l’identité**
 
 - **(3)** L’agent peut exiger ou obtenir du résident permanent ou de l’étranger qui fait l’objet d’une arrestation, d’une mise en détention, d’un contrôle ou d’une mesure de renvoi tous éléments, dont la photographie et la dactyloscopie, en vue d’établir son identité et vérifier s’il se conforme à la présente loi.
-> 2001, ch. 27, art. 16; 2010, ch. 8, art. 2; 2013, ch. 16, art. 5.
+> 2001, ch. 27, art. 16; 2010, ch. 8, art. 2; 2013, ch. 16, art. 5; 2015, ch. 3, art. 108(A).
 
 
 
@@ -1282,7 +1282,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application**
 
 - **(2)** Les faits visés à l’alinéa (1)a) n’emportent pas interdiction de territoire pour la seule raison que le résident permanent ou l’étranger est entré au Canada en ayant recours à une personne qui se livre aux activités qui y sont visées.
-> 2001, ch. 27, art. 37; 2013, ch. 16, art. 15.
+> 2001, ch. 27, art. 37; 2013, ch. 16, art. 15; 2015, ch. 3, art. 109(A).
 
 
 
@@ -1774,11 +1774,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Droit d’appel : mesure de renvoi**
 
-- **(2)** Le titulaire d’un visa de résident permanent peut interjeter appel de la mesure de renvoi prise au contrôle ou à l’enquête.
+- **(2)** Le titulaire d’un visa de résident permanent peut interjeter appel de la mesure de renvoi prise en vertu du paragraphe 44(2) ou prise à l’enquête.
 
 **Droit d’appel : mesure de renvoi**
 
-- **(3)** Le résident permanent ou la personne protégée peut interjeter appel de la mesure de renvoi prise au contrôle ou à l’enquête.
+- **(3)** Le résident permanent ou la personne protégée peut interjeter appel de la mesure de renvoi prise en vertu du paragraphe 44(2) ou prise à l’enquête.
 
 **Droit d’appel : obligation de résidence**
 
@@ -1787,6 +1787,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Droit d’appel du ministre**
 
 - **(5)** Le ministre peut interjeter appel de la décision de la Section de l’immigration rendue dans le cadre de l’enquête.
+> 2001, ch. 27, art. 63; 2015, ch. 3, art. 110.
+
 
 
 
@@ -1890,6 +1892,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Suspension du contrôle**
 
 - **(2)** La demande d’autorisation du ministre en vue du contrôle judiciaire d’une décision de la Section d’appel de l’immigration suspend le contrôle visant le résident permanent ou l’étranger tant qu’il n’a pas été statué en dernier ressort sur la question.
+> 2001, ch. 27, art. 70; 2015, ch. 3, art. 111(A).
+
 
 
 
@@ -1989,7 +1993,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **77** 
 
-- **(1)** Le ministre et le ministre de la Citoyenneté et de l’Immigration déposent à la Cour fédérale le certificat attestant qu’un résident permanent ou qu’un étranger est interdit de territoire pour raison de sécurité ou pour atteinte aux droits humains ou internationaux, grande criminalité ou criminalité organisée.
+- **(1)** Le ministre et le ministre de la Citoyenneté et de l’Immigration signent et déposent à la Cour fédérale le certificat attestant qu’un résident permanent ou un étranger est interdit de territoire pour raison de sécurité ou pour atteinte aux droits humains ou internationaux, grande criminalité ou criminalité organisée.
 
 **Dépôt de la preuve et du résumé**
 
@@ -1998,7 +2002,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Effet du dépôt**
 
 - **(3)** Il ne peut être procédé à aucune instance visant la personne au titre de la présente loi tant qu’il n’a pas été statué sur le certificat. Ne sont pas visées les instances relatives aux articles 82 à 82.3, 112 et 115.
-> 2001, ch. 27, art. 77; 2002, ch. 8, art. 194; 2005, ch. 10, art. 34; 2008, ch. 3, art. 4.
+> 2001, ch. 27, art. 77; 2002, ch. 8, art. 194; 2005, ch. 10, art. 34; 2008, ch. 3, art. 4; 2015, ch. 3, art. 112(F).
 
 
 
@@ -2656,7 +2660,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(1)** Peuvent être incorporés par renvoi dans un règlement tels des documents suivants :
 	- **a)** ceux qui n’émanent pas du gouverneur en conseil;
 	- **b)** ceux que celui-ci a adaptés pour en faciliter l’incorporation ou dont il ne reproduit que les passages pertinents à l’application du règlement;
-	- **c)** ceux que celui-ci a produits conjointement avec une autre autorité en vue d’assurer l’harmonisation du règlement avec une autre législation;
+	- **c)** ceux que celui-ci a produits conjointement avec un autre gouvernement ou organisme public en vue d’assurer l’harmonisation du règlement avec une autre législation;
 	- **d)** ceux de nature technique ou explicative qu’il a produits et notamment des spécifications, classifications ou graphiques, ainsi que des critères et exemples utiles à l’application du règlement.
 
 **Incorporation de documents — instructions**
@@ -2670,7 +2674,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Nature du document**
 
 - **(3)** L’incorporation ne confère pas au document valeur de règlement au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
-> 2001, ch. 27, art. 92; 2012, ch. 19, art. 708; 2013, ch. 33, art. 164, ch. 40, art. 238.
+> 2001, ch. 27, art. 92; 2012, ch. 19, art. 708; 2013, ch. 33, art. 164, ch. 40, art. 238; 2015, ch. 3, art. 113(F).
 
 
 
@@ -3262,7 +3266,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** il est interdit de territoire pour grande criminalité pour déclaration de culpabilité au Canada pour une infraction à une loi fédérale punissable d’un emprisonnement maximal d’au moins dix ans ou pour toute déclaration de culpabilité à l’extérieur du Canada pour une infraction qui, commise au Canada, constituerait une infraction à une loi fédérale punissable d’un emprisonnement maximal d’au moins dix ans;
 	- **c)** il a été débouté de sa demande d’asile au titre de la section F de l’article premier de la Convention sur les réfugiés;
 	- **d)** il est nommé au certificat visé au paragraphe 77(1).
-> 2001, ch. 27, art. 112; 2010, ch. 8, art. 15; 2012, ch. 17, art. 38, 60 et 84.
+> 2001, ch. 27, art. 112; 2010, ch. 8, art. 15; 2012, ch. 17, art. 38, 60 et 84; 2015, ch. 3, art. 114(A).
 
 
 
@@ -3534,9 +3538,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Fausses présentations**
 
 **127** Commet une infraction quiconque sciemment :
-- **a)** fait des présentations erronées sur un fait important quant à un objet pertinent ou une réticence sur ce fait, et de ce fait entraîne ou risque d’entraîner une erreur dans l’application de la présente loi;
+- **a)** fait, directement ou indirectement, des présentations erronées sur un fait important quant à un objet pertinent ou une réticence sur ce fait, et de ce fait entraîne ou risque d’entraîner une erreur dans l’application de la présente loi;
 - **b)** communique, directement ou indirectement, peu importe le support, des renseignements ou déclarations faux ou trompeurs en vue d’encourager ou de décourager l’immigration au Canada;
 - **c)** refuse de prêter serment ou de faire une déclaration ou une affirmation solennelle, ou encore de répondre à une question posée au cours d’un contrôle ou d’une audience.
+> 2001, ch. 27, art. 127; 2015, ch. 3, art. 115(F).
+
 
 
 
@@ -3718,7 +3724,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Obligations**
 
-**142** Les agents de la paix et les responsables immédiats d’un poste d’attente doivent, sur ordre de l’agent, exécuter les mesures — mandats et autres décisions écrites — prises au titre de la présente loi — en vue de l’arrestation, de la garde ou du renvoi.
+**142** Les agents de la paix et les responsables immédiats d’un poste d’attente doivent, sur ordre de l’agent, exécuter les mesures — mandats et autres décisions écrites — prises au titre de la présente loi en vue de l’arrestation, de la garde ou du renvoi.
+> 2001, ch. 27, art. 142; 2015, ch. 3, art. 116(F).
+
 
 
 
@@ -4553,16 +4561,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Appels**
 
-***196** Malgré l’article 192, il est mis fin à l’affaire portée en appel devant la Section d’appel de l’immigration si l’intéressé est, alors qu’il ne fait pas l’objet d’un sursis au titre de l’ancienne loi, visé par la restriction du droit d’appel prévue par l’article 64 de la présente loi.
+**196** Malgré l’article 192, il est mis fin à l’affaire portée en appel devant la Section d’appel de l’immigration si l’intéressé est, alors qu’il ne fait pas l’objet d’un sursis prononcé au titre de l’ancienne loi, visé par la restriction du droit d’appel prévue par l’article 64 de la présente loi.
+> 2001, ch. 27, art. 196; 2015, ch. 3, art. 117(F).
 
-<a name='I-2.5_f_s196'><sup>*</sup></a>: [Note : Article 196 en vigueur le 28 juin 2002, *voir* TR/2002-97.]<br />
 
 
 
 
 **Sursis**
 
-**197** Malgré l’article 192, l’intéressé qui fait l’objet d’un sursis au titre de l’ancienne loi et qui n’a pas respecté les conditions du sursis, est assujetti à la restriction du droit d’appel prévue par l’article 64 de la présente loi, le paragraphe 68(4) lui étant par ailleurs applicable.
+**197** Malgré l’article 192, l’intéressé qui fait l’objet d’un sursis prononcé au titre de l’ancienne loi et qui n’a pas respecté les conditions du sursis, est assujetti à la restriction du droit d’appel prévue par l’article 64 de la présente loi, le paragraphe 68(4) lui étant par ailleurs applicable.
+> 2001, ch. 27, art. 197; 2015, ch. 3, art. 117(F).
+
 
 
 
