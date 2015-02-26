@@ -72,7 +72,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Costa Rica*** means the territory and air space, and the maritime areas, including the seabed and subsoil adjacent to the outer limit of the territorial sea, over which it exercises, in accordance with international law and its domestic law, sovereign rights with respect to the natural resources of such areas;
 
-***country***, unless the context otherwise requires, includes an external or dependent territory of a country and any other territory prescribed by regulation made by the Governor in Council.
+***country***, unless the context otherwise requires, includes an external or dependent territory of a country and any other prescribed territory.
 
 ***customs duty***, except for the purposes of Part 3, other than sections 82 and 122, means a duty imposed under section 20.
 
@@ -166,7 +166,7 @@ Version anglaise seulement***prescribed*** means
 **Territories**
 
 - **(2)** A territory prescribed by regulation for the purposes of the definition ***country*** in subsection (1) is not, by virtue of being so prescribed, recognized as a country for purposes other than this Act.
-> 1997, c. 36, s. 2; 2001, c. 28, s. 31; 2005, c. 38, ss. 143(E), 145; 2009, c. 6, s. 30, c. 16, s. 36; 2010, c. 4, s. 30; 2012, c. 18, s. 32, c. 26, s. 38; 2014, c. 14, s. 39, c. 28, s. 43.
+> 1997, c. 36, s. 2; 2001, c. 28, s. 31; 2005, c. 38, ss. 143(E), 145; 2009, c. 6, s. 30, c. 16, s. 36; 2010, c. 4, s. 30; 2012, c. 18, s. 32, c. 26, s. 38; 2014, c. 14, s. 39, c. 28, s. 43; 2015, c. 3, s. 64.
 
 
 
@@ -1674,6 +1674,8 @@ Switzerland
 **Incorporation by reference**
 
 - **(2)** For greater certainty, a regulation made under subsection (1) incorporating by reference any document or enactment may incorporate it as amended from time to time.
+> 1997, c. 36, s. 52; 2015, c. 3, s. 65(F).
+
 
 
 
@@ -4262,7 +4264,7 @@ Peru
 	- **(ii)** setting out the conditions under which the requirement for security or for prescribed documents may be waived, and
 	- **(iii)** prescribing the form, nature and conditions of any security satisfactory to the Minister of Public Safety and Emergency Preparedness; and
 - **(l)** prescribing any other thing that is to be prescribed for the purposes of a tariff item referred to in this section.
-> 1997, c. 36, s. 133; 2001, c. 28, s. 45; 2005, c. 38, ss. 142, 145; 2009, c. 2, s. 122, c. 6, s. 36, c. 16, ss. 48, 56, c. 31, s. 51; 2010, c. 4, s. 41; 2011, c. 24, s. 134; 2012, c. 18, s. 39, c. 26, ss. 48, 62; 2014, c. 14, s. 46, c. 28, s. 54.
+> 1997, c. 36, s. 133; 2001, c. 28, s. 45; 2005, c. 38, ss. 142, 145; 2009, c. 2, s. 122, c. 6, s. 36, c. 16, ss. 48, 56, c. 31, s. 51; 2010, c. 4, s. 41; 2011, c. 24, s. 134; 2012, c. 18, s. 39, c. 26, ss. 48, 62; 2014, c. 14, s. 46, c. 28, s. 54; 2015, c. 3, s. 66(F).
 
 
 
