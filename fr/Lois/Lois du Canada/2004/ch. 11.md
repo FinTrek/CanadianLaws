@@ -60,22 +60,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-French version only***administrateur général*** L’administrateur général nommé au titre du paragraphe 5(1).
+***administrateur général*** L’administrateur général nommé au titre du paragraphe 5(1). (***French version only***)
 
-***document*** Éléments d’information, quel qu’en soit le support; la présente définition ne vise pas les publications.
+***document*** Éléments d’information, quel qu’en soit le support; la présente définition ne vise pas les publications. (*record*)
 
-***document fédéral*** Document qui relève d’une institution fédérale.
+***document fédéral*** Document qui relève d’une institution fédérale. (*government record*)
 
-***document ministériel*** Document, afférent à sa qualité de ministre, d’un membre du Conseil privé de la Reine pour le Canada, à l’exclusion des documents personnels ou politiques et des documents fédéraux.
+***document ministériel*** Document, afférent à sa qualité de ministre, d’un membre du Conseil privé de la Reine pour le Canada, à l’exclusion des documents personnels ou politiques et des documents fédéraux. (*ministerial record*)
 
-***institution fédérale*** S’entend au sens de l’article 3 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md) ou de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), ou d’une institution désignée par le gouverneur en conseil.
+***institution fédérale*** S’entend au sens de l’article 3 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md) ou de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md) et vise en outre toute institution désignée par le gouverneur en conseil. (*government institution*)
 
-***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi.
+***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi. (*Minister*)
 
-***patrimoine documentaire*** Les publications et les documents qui présentent un intérêt pour le Canada.
+***patrimoine documentaire*** Les publications et les documents qui présentent un intérêt pour le Canada. (*documentary heritage*)
 
-***publication*** Article de bibliothèque mis à la disposition — quel que soit le média, la forme ou le support utilisé, notamment imprimé, enregistrement ou en ligne — du grand public ou d’un segment particulier du public, par abonnement ou autrement, en de multiples exemplaires ou à plusieurs endroits, à titre gratuit ou contre rémunération.
-> 2004, ch. 11, art. 2; 2006, ch. 9, art. 179.1.
+***publication*** Article de bibliothèque mis à la disposition — quel que soit le média, la forme ou le support utilisé, notamment imprimé, enregistrement ou en ligne — du grand public ou d’un segment particulier du public, par abonnement ou autrement, en de multiples exemplaires ou à plusieurs endroits, à titre gratuit ou contre rémunération. (*publication*)
+> 2004, ch. 11, art. 2; 2006, ch. 9, art. 179.1; 2015, ch. 3, art. 130(F).
 
 
 
