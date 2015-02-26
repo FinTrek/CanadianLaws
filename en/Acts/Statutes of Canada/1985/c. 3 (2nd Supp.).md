@@ -33,51 +33,51 @@
 
 - **(1)** In this Act,
 
-***age of majority***, in respect of a child, means the age of majority as determined by the laws of the province where the child ordinarily resides, or, if the child ordinarily resides outside of Canada, eighteen years of age;
+***age of majority***, in respect of a child, means the age of majority as determined by the laws of the province where the child ordinarily resides, or, if the child ordinarily resides outside of Canada, eighteen years of age; (*majeur*)
 
-***appellate court***, in respect of an appeal from a court, means the court exercising appellate jurisdiction with respect to that appeal;
+***appellate court***, in respect of an appeal from a court, means the court exercising appellate jurisdiction with respect to that appeal; (*cour d’appel*)
 
-***applicable guidelines*** means
+***applicable guidelines*** means
 - **(a)** where both spouses or former spouses are ordinarily resident in the same province at the time an application for a child support order or a variation order in respect of a child support order is made, or the amount of a child support order is to be recalculated pursuant to section 25.1, and that province has been designated by an order made under subsection (5), the laws of the province specified in the order, and
-- **(b)** in any other case, the Federal Child Support Guidelines;
+- **(b)** in any other case, the Federal Child Support Guidelines; (*lignes directrices applicables*)
 
-***child of the marriage*** means a child of two spouses or former spouses who, at the material time,
+***child of the marriage*** means a child of two spouses or former spouses who, at the material time,
 - **(a)** is under the age of majority and who has not withdrawn from their charge, or
-- **(b)** is the age of majority or over and under their charge but unable, by reason of illness, disability or other cause, to withdraw from their charge or to obtain the necessaries of life;
+- **(b)** is the age of majority or over and under their charge but unable, by reason of illness, disability or other cause, to withdraw from their charge or to obtain the necessaries of life; (*enfant à charge*)
 
-***child support order*** means an order made under subsection 15.1(1);
+***child support order*** means an order made under subsection 15.1(1); (*ordonnance alimentaire au profit d’un enfant*)
 
-***corollary relief proceeding*** means a proceeding in a court in which either or both former spouses seek a child support order, a spousal support order or a custody order;
+***corollary relief proceeding*** means a proceeding in a court in which either or both former spouses seek a child support order, a spousal support order or a custody order; (*action en mesures accessoires*)
 
 ***court***, in respect of a province, means
 - **(a)** for the Province of Ontario, the Superior Court of Justice,
-- **(a.1)** for the Province of Prince Edward Island or Newfoundland, the trial division of the Supreme Court of the Province,
+- **(a.1)** for the Province of Newfoundland and Labrador, the Trial Division of the Supreme Court of the Province,
 - **(b)** for the Province of Quebec, the Superior Court,
-- **(c)** for the Provinces of Nova Scotia and British Columbia, the Supreme Court of the Province,
+- **(c)** for the Provinces of Nova Scotia, British Columbia and Prince Edward Island, the Supreme Court of the Province,
 - **(d)** for the Province of New Brunswick, Manitoba, Saskatchewan or Alberta, the Court of Queen’s Bench for the Province, and
 - **(e)** for Yukon or the Northwest Territories, the Supreme Court, and in Nunavut, the Nunavut Court of Justice,
 
-and includes such other court in the province the judges of which are appointed by the Governor General as is designated by the Lieutenant Governor in Council of the province as a court for the purposes of this Act;
+and includes such other court in the province the judges of which are appointed by the Governor General as is designated by the Lieutenant Governor in Council of the province as a court for the purposes of this Act; (*tribunal*)
 
-***custody*** includes care, upbringing and any other incident of custody;
+***custody*** includes care, upbringing and any other incident of custody; (*garde*)
 
-***custody order*** means an order made under subsection 16(1);
+***custody order*** means an order made under subsection 16(1); (*ordonnance de garde*)
 
-***divorce proceeding*** means a proceeding in a court in which either or both spouses seek a divorce alone or together with a child support order, a spousal support order or a custody order;
+***divorce proceeding*** means a proceeding in a court in which either or both spouses seek a divorce alone or together with a child support order, a spousal support order or a custody order; (*action en divorce*)
 
-***Federal Child Support Guidelines*** means the guidelines made under section 26.1;
+***Federal Child Support Guidelines*** means the guidelines made under section 26.1; (*lignes directrices fédérales sur les pensions alimentaires pour enfants*)
 
-***provincial child support service*** means any service, agency or body designated in an agreement with a province under subsection 25.1(1);
+***provincial child support service*** means any service, agency or body designated in an agreement with a province under subsection 25.1(1); (*service provincial des aliments pour enfants*)
 
-***spousal support order*** means an order made under subsection 15.2(1);
+***spousal support order*** means an order made under subsection 15.2(1); (*ordonnance alimentaire au profit d’un époux*)
 
-***spouse*** means either of two persons who are married to each other;
+***spouse*** means either of two persons who are married to each other; (*époux*)
 
-***support order*** means a child support order or a spousal support order;
+***support order*** means a child support order or a spousal support order; (*ordonnance alimentaire*)
 
-***variation order*** means an order made under subsection 17(1);
+***variation order*** means an order made under subsection 17(1); (*ordonnance modificative*)
 
-***variation proceeding*** means a proceeding in a court in which either or both former spouses seek a variation order.
+***variation proceeding*** means a proceeding in a court in which either or both former spouses seek a variation order. (*action en modification*)
 
 **Child of the marriage**
 
@@ -100,7 +100,7 @@ and includes such other court in the province the judges of which are appointed 
 **Amendments included**
 
 - **(6)** The guidelines of a province referred to in subsection (5) include any amendments made to them from time to time.
-> R.S., 1985, c. 3 (2nd Supp.), s. 2, c. 27 (2nd Supp.), s. 10; 1990, c. 18, s. 1; 1992, c. 51, s. 46; 1997, c. 1, s. 1; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 61; 2002, c. 7, s. 158(E); 2005, c. 33, s. 8
+> R.S., 1985, c. 3 (2nd Supp.), s. 2, c. 27 (2nd Supp.), s. 10; 1990, c. 18, s. 1; 1992, c. 51, s. 46; 1997, c. 1, s. 1; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 61; 2002, c. 7, s. 158(E); 2005, c. 33, s. 8; 2015, c. 3, s. 76
 
 
 
