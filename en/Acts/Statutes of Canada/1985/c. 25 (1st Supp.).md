@@ -413,7 +413,7 @@ for an order that it be returned.
 
 **Contravention of subsection 13(2) or regulations**
 
-- **(3)** Every person who contravenes or fails to comply with subsection 13(2) or the regulations is guilty of an offence punishable on summary conviction and liable to a fine not exceeding $50,000 thousand dollars.
+- **(3)** Every person who contravenes or fails to comply with subsection 13(2) or the regulations is guilty of an offence punishable on summary conviction and liable to a fine not exceeding $50,000.
 
 **General offence**
 
@@ -426,7 +426,7 @@ for an order that it be returned.
 **Minister’s certificate**
 
 - **(6)** A document purporting to have been issued by the Minister, certifying the day on which the subject-matter of any prosecution became known to the Minister, is admissible in evidence without proof of the signature or official character of the person appearing to have signed the document and is evidence of the matters asserted in it.
-> R.S., 1985, c. 25 (1st Supp.), s. 21; 1995, c. 40, s. 69; 1997, c. 6, s. 74.
+> R.S., 1985, c. 25 (1st Supp.), s. 21; 1995, c. 40, s. 69; 1997, c. 6, s. 74; 2015, c. 3, s. 131(E).
 
 
 
