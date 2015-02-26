@@ -273,13 +273,13 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 ***tribunal***
 - **a)** La Cour supérieure de justice de l’Ontario;
 - **b)** la Cour supérieure du Québec;
-- **c)** la Cour suprême de la Nouvelle-Écosse et de la Colombie-Britannique;
+- **c) ** la Cour suprême de la Nouvelle-Écosse, de la Colombie-Britannique et de l’Île-du-Prince-Édouard;
 - **d)** la Cour du Banc de la Reine du Nouveau-Brunswick, du Manitoba, de la Saskatchewan ou de l’Alberta;
-- **e)** la Section de première instance de la Cour suprême de l’Île-du-Prince-Édouard ou de Terre-Neuve;
+- **e) ** la Section de première instance de la Cour suprême de Terre-Neuve-et-Labrador;
 - **f)** la Cour suprême du Yukon, la Cour suprême des Territoires du Nord-Ouest ou la Cour de justice du Nunavut.
 
  et ***véritable propriétaire*** Est considéré comme tel le propriétaire de valeurs mobilières inscrites au nom d’un ou de plusieurs intermédiaires, notamment d’un fiduciaire ou d’un mandataire; ***propriété effective*** s’entend du droit du véritable propriétaire.
-> 1991, ch. 46, art. 2 et 572, ch. 47, art. 756, ch. 48, art. 494; 1992, ch. 51, art. 29; 1993, ch. 34, art. 5(F), ch. 44, art. 22; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 14, ch. 28, art. 1; 2000, ch. 12, art. 3; 2001, ch. 9, art. 35, ch. 27, art. 206; 2002, ch. 7, art. 81(A); 2005, ch. 54, art. 1; 2007, ch. 6, art. 1; 2010, ch. 12, art. 1894, ch. 25, art. 146; 2012, ch. 5, art. 2 et 223.
+> 1991, ch. 46, art. 2 et 572, ch. 47, art. 756, ch. 48, art. 494; 1992, ch. 51, art. 29; 1993, ch. 34, art. 5(F), ch. 44, art. 22; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 14, ch. 28, art. 1; 2000, ch. 12, art. 3; 2001, ch. 9, art. 35, ch. 27, art. 206; 2002, ch. 7, art. 81(A); 2005, ch. 54, art. 1; 2007, ch. 6, art. 1; 2010, ch. 12, art. 1894, ch. 25, art. 146; 2012, ch. 5, art. 2 et 223; 2015, ch. 3, art. 5.
 
 
 
