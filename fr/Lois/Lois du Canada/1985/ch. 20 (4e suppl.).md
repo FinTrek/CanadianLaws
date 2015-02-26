@@ -369,15 +369,15 @@
 
 **12.1** 
 
-- **(1)** Le président de la Commission a seul compétence pour entendre :
+- **(1)** Le président de la Commission a seul compétence pour entendre :
 	- **a)** les demandes formées au titre du paragraphe 10(1);
 	- **b)** les demandes touchant les avertissements formées au titre des paragraphes 8(1) ou 12(2) de la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md);
-	- **c)** les demandes touchant les sanctions de moins de 2 000 $ formées au titre de l’alinéa 9(3)c) ou du paragraphe 13(2) de cette loi.
+	- **c)** les demandes touchant les sanctions de moins de 2 000 $ formées au titre de l’alinéa 9(2)c) ou du paragraphe 13(2) de cette loi.
 
 **Délégation**
 
 - **(2)** Le président peut déléguer aux autres membres l’audition des demandes mentionnées au paragraphe (1) s’ils sont dotés de la compétence juridique prévue au paragraphe 4.1(2).
-> 1995, ch. 40, art. 36.
+> 1995, ch. 40, art. 36; 2015, ch. 3, art. 11.
 
 
 
