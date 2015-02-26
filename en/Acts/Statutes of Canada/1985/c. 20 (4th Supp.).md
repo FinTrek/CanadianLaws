@@ -386,12 +386,12 @@
 - **(1)** The jurisdiction of the Tribunal in relation to the following matters shall be exercised by the Chairperson of the Tribunal:
 	- **(a)** applications under subsection 10(1);
 	- **(b)** requests under subsection 8(1) or 12(2) of the [Agriculture and Agri-Food Administrative Monetary Penalties Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2040.md) for a review in respect of a notice of violation that contains a warning; and
-	- **(c)** requests under paragraph 9(3)(c) or subsection 13(2) of that Act for a review in respect of a notice of violation that sets out a penalty of less than $2,000.
+	- **(c)** requests under paragraph 9(2)(c) or subsection 13(2) of that Act for a review in respect of a notice of violation that sets out a penalty of less than $2,000.
 
 **Other legally qualified members**
 
 - **(2)** The jurisdiction of the Tribunal in relation to a matter referred to in subsection (1) may be exercised, where the Chairperson of the Tribunal so directs, by any member of the Tribunal with the legal qualifications described in subsection 4.1(2).
-> 1995, c. 40, s. 36.
+> 1995, c. 40, s. 36; 2015, c. 3, s. 11.
 
 
 
