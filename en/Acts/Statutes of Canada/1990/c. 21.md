@@ -39,77 +39,77 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** In this Act,
 
-***analyst*** means a person designated as an analyst pursuant to section 32;
+***analyst*** means a person designated as an analyst pursuant to section 32; (*analyste*)
 
-***animal*** includes an embryo and a fertilized egg or ovum;
+***animal*** includes an embryo and a fertilized egg or ovum; (*animal*)
 
-***animal by-product*** includes blood or any of its components, bones, bristles, feathers, flesh, hair, hides, hoofs, horns, offal, skins and wool, and any thing containing any of those things;
+***animal by-product*** includes blood or any of its components, bones, bristles, feathers, flesh, hair, hides, hoofs, horns, offal, skins and wool, and any thing containing any of those things; (*sous-produit animal*)
 
-***animal deadyard*** means a place where animal carcasses, animal by-products or disabled or diseased animals are brought when they are not to be prepared for human consumption;
+***animal deadyard*** means a place where animal carcasses, animal by-products or disabled or diseased animals are brought when they are not to be prepared for human consumption; (*atelier d’équarrissage*)
 
-***animal food*** means any thing that is capable of being a nutriment for animals and includes any of the constituent elements of an animal ration;
+***animal food*** means any thing that is capable of being a nutriment for animals and includes any of the constituent elements of an animal ration; (*aliments pour animaux*)
 
-***animal product*** includes cream, eggs, milk, non-fertilized ova and semen;
+***animal product*** includes cream, eggs, milk, non-fertilized ova and semen; (*produit animal*)
 
-***Assessor*** means the Assessor or any Deputy Assessor appointed under Part II of the [Pesticide Residue Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-10.md);
+***Assessor*** means the Assessor or any Deputy Assessor appointed under Part II of the [Pesticide Residue Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-10.md); (*évaluateur*)
 
-***conveyance*** means any aircraft, carriage, motor vehicle, trailer, railway car, vessel, cargo container or other contrivance used to move persons, animals or things;
+***conveyance*** means any aircraft, carriage, motor vehicle, trailer, railway car, vessel, cargo container or other contrivance used to move persons, animals or things; (*véhicule*)
 
-***customs officer*** means a person employed in the administration and enforcement of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) and includes any member of the Royal Canadian Mounted Police;
+***customs officer*** means a person employed in the administration and enforcement of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) and includes any member of the Royal Canadian Mounted Police; (*agent des douanes*)
 
-***disease*** includes
+***disease*** includes
 - **(a)** a reportable disease and any other disease that may affect an animal or that may be transmitted by an animal to a person, and
-- **(b)** the causative agent of any such disease;
+- **(b)** the causative agent of any such disease; (*maladie*)
 
-Version anglaise seulement***dispose*** includes slaughter or otherwise destroy, bury or render;
+***dispose*** includes slaughter or otherwise destroy, bury or render; (***Version anglaise seulement***)
 
-***hatchery*** means, subject to any regulations made under subsection (2), a place where eggs are incubated or chicks are hatched;
+***document*** means anything on which information that is capable of being understood by a person, or read by a computer or other device, is recorded or marked; (*document*)
 
-***infected place*** means a place that is constituted to be an infected place under section 22 or 23 or under the regulations;
+***hatchery*** means, subject to any regulations made under subsection (2), a place where eggs are incubated or chicks are hatched; (*couvoir*)
 
-***inspector*** means a person designated as an inspector pursuant to section 32;
+***infected place*** means a place that is constituted to be an infected place under section 22 or 23 or under the regulations; (*lieu contaminé*)
 
-***justice*** means a justice as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
+***inspector*** means a person designated as an inspector pursuant to section 32; (*inspecteur*)
 
-***Minister*** means the Minister of Agriculture and Agri-Food;
+***justice*** means a justice as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); (*juge de paix*)
 
-***officer*** means a person designated as an officer pursuant to section 32, but does not include an analyst;
+***Minister*** means the Minister of Agriculture and Agri-Food; (*ministre*)
 
-***peace officer*** means a peace officer as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
+***officer*** means a person designated as an officer pursuant to section 32, but does not include an analyst; (*agent d’exécution*)
 
-***penalty*** means an administrative monetary penalty imposed under the [Agriculture and Agri-Food Administrative Monetary Penalties Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2040.md) for a violation;
+***peace officer*** means a peace officer as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); (*agent de la paix*)
 
-***place*** includes a conveyance;
+***penalty*** means an administrative monetary penalty imposed under the [Agriculture and Agri-Food Administrative Monetary Penalties Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2040.md) for a violation; (*sanction*)
 
-Version anglaise seulement***prescribed*** means prescribed by regulation;
+***place*** includes a conveyance; (*lieu*)
 
-***rendering plant*** means a place
+***prescribed*** means prescribed by regulation; (***Version anglaise seulement***)
+
+***rendering plant*** means a place
 - **(a)** where animal by-products are prepared or treated for use in, or converted into, fertilizers, animal food, fats or oils, other than fats or oils used for human consumption,
 - **(b)** where a substance resulting from a process mentioned in paragraph (a) is stored, packed or marked, or
-- **(c)** from which a substance resulting from a process mentioned in paragraph (a) is shipped;
+- **(c)** from which a substance resulting from a process mentioned in paragraph (a) is shipped; (*usine de traitement*)
 
-***reportable*** means prescribed as reportable by the Minister;
+***reportable*** means prescribed as reportable by the Minister; (*déclarable*)
 
-***toxic substance*** means a substance prescribed as toxic by the Minister;
+***toxic substance*** means a substance prescribed as toxic by the Minister; (*substance toxique*)
 
-***Tribunal*** means the Review Tribunal continued by subsection 4.1(1) of the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md);
+***Tribunal*** means the Review Tribunal continued by subsection 4.1(1) of the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md); (*Commission*)
 
-***vector*** means an animal that has the potential to transmit a disease, directly or indirectly, from one animal or its excreta to another animal;
+***vector*** means an animal that has the potential to transmit a disease, directly or indirectly, from one animal or its excreta to another animal; (*vecteur*)
 
-***veterinary biologic*** means
+***veterinary biologic*** means a thing that is manufactured, sold or represented for use in restoring, correcting or modifying organic functions in animals or for use in the diagnosis, treatment, mitigation or prevention of a disease, disorder or abnormal physical state — or its symptoms — in animals and that is
 - **(a)** a helminth, protozoa or micro-organism,
-- **(b)** a substance or mixture of substances derived from animals, helminths, protozoa or micro-organisms, or
-- **(c)** a substance of synthetic origin
+- **(b)** a substance or mixture of substances derived from animals, helminths, protozoa, micro-organisms or plants, or
+- **(c)** a substance of synthetic origin; (*produit biologique vétérinaire*)
 
-that is manufactured, sold or represented for use in restoring, correcting or modifying organic functions in animals or for use in the diagnosis, treatment, mitigation or prevention of a disease, disorder or abnormal physical state, or the symptoms thereof, in animals;
+***veterinary inspector*** means a veterinarian designated as an inspector pursuant to section 32; (*vétérinaire-inspecteur*)
 
-***veterinary inspector*** means a veterinarian designated as an inspector pursuant to section 32;
-
-***violation*** means
+***violation*** means
 - **(a)** any contravention of any provision of this Act or of a regulation made under this Act, or
 - **(b)** any refusal or neglect to perform any duty imposed by or under this Act,
 
-that may be proceeded with in accordance with the [Agriculture and Agri-Food Administrative Monetary Penalties Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2040.md).
+that may be proceeded with in accordance with the [Agriculture and Agri-Food Administrative Monetary Penalties Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2040.md). (*violation*)
 
 **Ministerial regulations**
 
@@ -120,7 +120,7 @@ that may be proceeded with in accordance with the [Agriculture and Agri-Food Adm
 - **(3)** Toxic substances may be prescribed
 	- **(a)** in terms of the quantity or concentration in which substances are contained in other substances; and
 	- **(b)** by reference to substances specified in any published document, as amended from time to time.
-> 1990, c. 21, s. 2; 1994, c. 38, s. 25; 1995, c. 40, s. 54; 1997, c. 6, s. 67; 2001, c. 4, s. 173(F).
+> 1990, c. 21, s. 2; 1994, c. 38, s. 25; 1995, c. 40, s. 54; 1997, c. 6, s. 67; 2001, c. 4, s. 173(F); 2015, c. 2, s. 84.
 
 
 
@@ -164,16 +164,7 @@ that may be proceeded with in accordance with the [Agriculture and Agri-Food Adm
 
 
 
-
-**Samples of milk or cream**
-
-**6** 
-
-- **(1)** The operator of a cheese factory, creamery or dairy shall, when requested to do so by the Minister, supply in the prescribed manner samples of milk or cream, identified as to the herd of origin, for inspection by an inspector.
-
-**Samples of animals or other things**
-
-- **(2)** A person who owns or has the possession, care or control of an animal or of any other thing that is capable of being affected or contaminated by a disease or toxic substance shall supply in the prescribed manner such samples from the animal or other thing as the Minister may request.
+**6** [Repealed, 2015, c. 2, s. 85]
 
 
 
@@ -237,9 +228,20 @@ whether or not the person is the owner of the animal, animal product or animal b
 
 
 
+**Recall order — [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md)**
+
+**11.1** No person shall sell an animal or thing regulated under this Act that is the subject of a recall order referred to in subsection 19(1) of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md).
+> 2015, c. 2, s. 86.
+
+
+
+
+
 **Throwing carcasses into water**
 
 **12** No person shall throw or place in any body of water the carcass or any part of an animal that at the time of its death was to the person’s knowledge affected or contaminated by, or was exposed to, any disease or toxic substance, or that was destroyed because it was, or was suspected of being, affected or contaminated by a disease or toxic substance.
+> 1990, c. 21, s. 12; 2015, c. 2, s. 87(F).
+
 
 
 
@@ -292,38 +294,62 @@ whether or not the person is the owner of the animal, animal product or animal b
 **Regulations**
 
 - **(2)** The Minister may make regulations for exempting animals or things from the application of this section and respecting the manner of presenting things for inspection.
+> 1990, c. 21, s. 16; 2015, c. 2, s. 88(F).
+
 
 
 
 
 **Forfeiture of imports**
 
-**17** Subject to section 18, where an animal or thing is imported or is attempted to be imported into Canada in contravention of this Act or the regulations, it shall be forfeited to Her Majesty in right of Canada and may be disposed of as the Minister may direct.
+**17** Subject to section 18, if the Minister determines that an animal or thing has been imported — or an attempt has been made to import an animal or thing — in contravention of this Act or the regulations or that a requirement imposed by or under the regulations in respect of an imported animal or thing has not been met, it is forfeited to Her Majesty in right of Canada and may be disposed of as the Minister may direct.
+> 1990, c. 21, s. 17; 2015, c. 2, s. 89.
 
 
 
 
-**Removal of imports**
+
+**Removal or destruction of unlawful imports**
 
 **18** 
 
-- **(1)** Where an inspector or officer believes on reasonable grounds that an animal or thing has been imported into Canada and that it
-	- **(a)** was imported in contravention of this Act or the regulations,
-	- **(b)** is or could be affected or contaminated by a disease or toxic substance, or
-	- **(c)** is a vector,
-the inspector or officer may, whether or not the animal or thing is seized, require the owner or the person having the possession, care or control of the animal or thing to remove it from Canada.
+- **(1)** An inspector or officer who has reasonable grounds to believe that an imported animal or thing has been imported in contravention of this Act or the regulations, is or could be affected or contaminated by a disease or toxic substance or is a vector or that a requirement imposed by or under the regulations in respect of an imported animal or thing has not been met may, by notice, whether the animal or thing is seized or not, order its owner or importer or the person having possession, care or control of it to remove it from Canada or, if removal is not possible, to dispose of it.
 
 **Notice**
 
-- **(2)** A requirement under subsection (1) shall be communicated by personal delivery of a notice to the person being required to remove the animal or thing or by sending the notice to the person, and the notice may specify the period within which and the manner in which the animal or thing is to be removed.
+- **(2)** The notice must either be delivered personally to the owner or importer of the animal or thing or to the person having possession, care or control of it or be sent by registered mail to the owner’s, importer’s or person’s address in Canada.
+
+**Forfeiture**
+
+- **(3)** If the animal or thing is not removed from Canada, or disposed of, within the period specified in the notice — or, if no period was specified, within 90 days after the day on which the notice was delivered or sent — it is, despite subsection 45(1), forfeited to Her Majesty in right of Canada and may be disposed of as the Minister may direct.
+
+**Suspension of application of subsection (3)**
+
+- **(4)** An inspector or officer may, for a period that he or she specifies, suspend the application of subsection (3) if he or she is satisfied that
+	- **(a)** harm to human or animal health or, in the case of a veterinary biologic, to the environment is unlikely to result;
+	- **(b)** the animal or thing will not be sold within that period;
+	- **(c)** the measures that should have been taken for the animal or thing not to have been imported in contravention of a provision of this Act or the regulations will be taken within that period; and
+	- **(d)** if the animal or thing does not meet the requirements of the regulations, it will be brought into compliance with the regulations within that period.
+
+**Cancellation**
+
+- **(5)** An inspector or officer may cancel the notice if he or she is satisfied that
+	- **(a)** harm to human or animal health or, in the case of a veterinary biologic, to the environment is unlikely to result;
+	- **(b)** the animal or thing has not been sold within the period referred to in subsection (6);
+	- **(c)** the measures referred to in paragraph (4)(c) were taken within that period; and
+	- **(d)** if the animal or thing did not meet the requirements of the regulations when it was imported, it was brought into compliance with the regulations within that period.
+
+**Period**
+
+- **(6)** The period for the purposes of subsection (5) is
+	- **(a)** if the application of subsection (3) was suspended under subsection (4), the period of the suspension; and
+	- **(b)** if the application of subsection (3) was not suspended, the period specified in the notice or, if no period was specified, the period that ends 90 days after the day on which the notice was delivered or sent.
 
 **Non-forfeiture**
 
-- **(3)** An animal or thing that is required to be removed from Canada shall be deemed not to have been forfeited under section 17.
+- **(7)** Section 17 does not apply to the animal or thing that is required to be removed from Canada.
+> 1990, c. 21, s. 18; 2015, c. 2, s. 89.
 
-**Forfeiture where non-compliance**
-
-- **(4)** Where the animal or thing is not removed from Canada as required under this section, it shall, notwithstanding section 45, be forfeited to Her Majesty in right of Canada and may be disposed of as the Minister may direct.
 
 
 
@@ -715,9 +741,17 @@ and this Act shall, with respect to the ports to which the Acts referred to in p
 
 
 
-**Power of arrest**
+**Provision of documents, information or samples**
 
-**36** For the purpose of ensuring compliance with this Act and the regulations, an inspector or officer may exercise the power of arrest conferred on a peace officer under subsection 495(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) if the requirements of that subsection are complied with and, where the power is exercised, the inspector or officer is entitled to the benefit of subsection 495(3) of that Act.
+**36** 
+
+- **(1)** An inspector or officer may, for the purpose of detecting diseases or toxic substances or for a purpose related to verifying compliance or preventing non-compliance with this Act, order a person to provide, on the date, at the time and place and in the manner specified by the inspector or officer, any document, information or sample specified by the inspector or officer.
+
+**Duty to provide document, information or sample**
+
+- **(2)** A person who is ordered by an inspector or officer to provide a document, information or a sample has a duty to do so on the specified date, at the specified time and place and in the specified manner.
+> 1990, c. 21, s. 36; 2015, c. 2, s. 90.
+
 
 
 
@@ -749,7 +783,7 @@ and this Act shall, with respect to the ports to which the Acts referred to in p
 
 **38** 
 
-- **(1)** For the purpose of detecting diseases or toxic substances or ensuring compliance with this Act and the regulations, an inspector or officer may
+- **(1)** For the purpose of detecting diseases or toxic substances or for a purpose related to verifying compliance or preventing non-compliance with this Act, an inspector or officer may
 	- **(a)** subject to section 39, at any reasonable time, enter and inspect any place, or stop any conveyance, in which the inspector or officer believes on reasonable grounds there is any animal or thing in respect of which this Act or the regulations apply;
 	- **(b)** open any receptacle, baggage, package, cage or other thing that the inspector or officer believes on reasonable grounds contains any animal or thing in respect of which this Act or the regulations apply;
 	- **(c)** require any person to present any animal or thing for inspection in such manner and under such conditions as the inspector considers necessary to carry out the inspection;
@@ -763,6 +797,8 @@ and this Act shall, with respect to the ports to which the Acts referred to in p
 	- **(a)** use or cause to be used any data processing system at the place to examine any data contained in or available to the system;
 	- **(b)** reproduce any record or cause it to be reproduced from the data in the form of a print-out or other intelligible output and take the print-out or other output for examination or copying; and
 	- **(c)** use or cause to be used any copying equipment at the place to make copies of any record or other document.
+> 1990, c. 21, s. 38; 2015, c. 2, s. 91.
+
 
 
 
@@ -870,26 +906,20 @@ the justice may at any time sign and issue a warrant authorizing an inspector or
 
 
 
-**Detention**
+**Release of seized animal or thing**
 
 **45** 
 
-- **(1)** An animal or thing seized and detained under this Act, or any proceeds realized from its disposition, shall not be detained after
-	- **(a)** a determination by an inspector or officer that the animal or thing is in conformity with the provisions of this Act and the regulations, or
-	- **(b)** the expiration of one hundred and eighty days after the day of seizure, or such longer period as may be prescribed,
-unless before that time proceedings are instituted in relation to the animal or thing, in which case it, or the proceeds from its disposition, may be detained until the proceedings are finally concluded.
+- **(1)** If an inspector or officer is satisfied that the provisions of this Act and the regulations that apply with respect to an animal or thing seized under this Act have been complied with, the animal or thing must be released.
 
 **Application for return**
 
-- **(2)** Where proceedings are instituted in accordance with subsection (1) in respect of the animal or thing and it has not been disposed of or forfeited under this Act, the owner of the animal or thing or the person having the possession, care or control of it at the time of its seizure may apply
-	- **(a)** in the case of a violation, to the Tribunal, or
-	- **(b)** in the case of an offence, to the court before which the proceedings are being held,
-for an order that it be returned.
+- **(2)** If proceedings are instituted in relation to an animal or thing seized under this Act and it has not been disposed of or forfeited under this Act, the owner of the animal or thing or the person having the possession, care or control of it at the time of its seizure may apply for an order that it be returned. The application may be made, in the case of a violation, to the Tribunal or, in the case of an offence, to the court before which the proceedings are being held.
 
 **Order**
 
 - **(3)** The Tribunal or court, as the case may be, may order that the animal or thing be returned to the applicant, subject to such conditions as the Tribunal or court may impose to ensure that it is preserved for any purpose for which it may subsequently be required, where the Tribunal or court is satisfied that sufficient evidence exists or may reasonably be obtained without detaining the animal or thing and that it is not, or is not suspected of being, affected or contaminated by a disease or toxic substance.
-> 1990, c. 21, s. 45; 1995, c. 40, s. 57.
+> 1990, c. 21, s. 45; 1995, c. 40, s. 57; 2015, c. 2, s. 92.
 
 
 
@@ -914,7 +944,7 @@ for an order that it be returned.
 
 **47** 
 
-- **(1)** Where proceedings mentioned in subsection 45(1) are instituted within the time provided in that subsection and, at the final conclusion of those proceedings, the Tribunal, in the case of a violation, or the court, in the case of an offence, orders the forfeiture of an animal or thing that was seized and detained, it shall be disposed of as the Minister may direct.
+- **(1)** If the Tribunal or the court, as the case may be, orders the forfeiture of an animal or thing under subsection 46(1), the animal or thing shall be disposed of as the Minister may direct.
 
 **Return of seized animals and things where no forfeiture ordered**
 
@@ -926,7 +956,7 @@ for an order that it be returned.
 	- **(a)** the animal or thing may be detained until the penalty or fine is paid;
 	- **(b)** the animal or thing may be sold under execution in satisfaction of the penalty or fine; or
 	- **(c)** any proceeds realized from its disposition under paragraph (b) or section 43 may be applied in payment of the penalty or fine.
-> 1990, c. 21, s. 47; 1995, c. 40, s. 59.
+> 1990, c. 21, s. 47; 1995, c. 40, s. 59; 2015, c. 2, s. 93.
 
 
 
@@ -975,9 +1005,20 @@ for an order that it be returned.
 
 **Her Majesty not liable**
 
-**50** Where a person must, by or under this Act or the regulations, do anything, including provide and maintain any area, office, laboratory or other facility under section 31, or permit an inspector or officer to do anything, Her Majesty is not liable
+**50** If a person must, under this Act, do anything or permit an inspector or officer to do anything, Her Majesty in right of Canada is not liable
 - **(a)** for any costs, loss or damage resulting from the compliance; or
-- **(b)** to pay any fee, rent or other charge for what is done, provided, maintained or permitted.
+- **(b)** to pay any fee, including any rent or charge, for what is done or permitted to be done.
+> 1990, c. 21, s. 50; 2015, c. 2, s. 94.
+
+
+
+
+
+**No liability**
+
+**50.1** No person who exercises powers or performs duties or functions under this Act is liable in respect of anything done or omitted to be done in good faith in the exercise of those powers or the performance of those duties or functions.
+> 2015, c. 2, s. 94.
+
 
 
 
@@ -1207,25 +1248,48 @@ minus
 	- **(m)** for causing or requiring notice to be given of the appearance of any disease or toxic substance among animals;
 	- **(n)** prohibiting or regulating the holding of markets, fairs, exhibitions or sales of animals;
 	- **(o)** for exempting any disease or toxic substance from the operation of any of the provisions of this Act or any regulation, for the imposition of terms and conditions governing the exemption and for otherwise dealing with the disease or toxic substance;
+	- **(o.1)** exempting, with or without conditions, any animal or thing, or a person or activity in respect of an animal or thing, from the application of this Act or the regulations or a provision of this Act or the regulations;
 	- **(p)** regulating the conduct and operation of zoos and game farms;
 	- **(q)** prescribing sanitary and health measures for establishments in which animal semen and animal embryos are collected, stored, frozen or processed and generally regulating the manner in which they are collected, stored and distributed;
 	- **(r)** prohibiting or regulating testing for diseases;
-	- **(s)** prohibiting or regulating the importation, preparation, manufacturing, preserving, packing, labelling, storing, testing, transportation, sale, conditions of sale, advertising for sale, use and disposal of veterinary biologics and regulating their purity, potency, efficacy and safety;
+	- **(s)** prohibiting or regulating the importation, exportation, preparation, manufacturing, preserving, packaging, labelling, storing, testing, transportation, sale, conditions of sale, advertising for sale, use and disposal of veterinary biologics and regulating their purity, potency, efficacy and safety;
+	- **(s.1)** respecting quality management programs, quality control programs, safety programs, preventive control plans or any other similar programs or plans to be implemented by persons who conduct any activity regulated under this Act;
 	- **(t)** prohibiting or regulating the feeding to animals of any thing that could introduce or spread any disease or toxic substance to animals;
 	- **(u)** regulating the construction, operation and maintenance of animal deadyards, rendering plants and animal food factories;
-	- **(v)** regulating the importation, preparation, manufacturing, preserving, packaging, labelling, storing, distribution, sale, conditions of sale and advertising for sale of products of animal deadyards, rendering plants and animal food factories;
+	- **(v)** regulating the importation, exportation, preparation, manufacturing, preserving, packaging, labelling, storing, distribution, sale, conditions of sale and advertising for sale of products of animal deadyards, rendering plants and animal food factories;
 	- **(w)** governing the issue, renewal, amendment, suspension and revocation of licences, permits, approvals, certificates or other documents on such terms and conditions as may be required for the purposes of this Act;
+	- **(w.1)** requiring persons to take or keep samples from any animal or thing and to provide the Minister or an inspector or officer with, or with access to, those samples, and respecting the manner in which those samples are to be taken or kept and the manner in which they are to be provided or access to them is to be provided;
 	- **(x)** requiring animals and things to be marked or to have affixed to them tags, seals or other devices for the purposes of this Act, authorizing inspectors or officers to mark animals and things or to affix to them tags, seals or other devices for the purposes of this Act, and prohibiting the removal, breaking, tampering with or altering of those marks, tags, seals or other devices;
 	- **(y)** establishing and governing a national identification system for animals that provides for standards and means of identification;
 	- **(z)** requiring animals to be identified under the system established under paragraph (y) when the ownership or possession of them changes or when they are transported or otherwise dealt with;
 	- **(z.1)** governing the manufacture, sale, distribution or use of any means of identification used in the system established under paragraph (y);
 	- **(z.2)** governing the collection of information and statistics, the publication of studies and the conduct of surveys on any matter related to this Act or the regulations;
-	- **(z.3)** requiring records to be kept respecting activities in respect of which this Act or the regulations apply;
+	- **(z.3)** requiring persons to prepare, keep or maintain documents and to provide the Minister or an inspector or officer with, or with access to, those documents, and respecting
+		- **(i)** the information in those documents,
+		- **(ii)** the manner in which they are to be prepared, kept or maintained,
+		- **(iii)** the place where they are to be kept or maintained, and
+		- **(iv)** the manner in which they are to be provided or access to them is to be provided;
 	- **(z.31)** requiring persons to provide to the Minister or any other person authorized by the Minister, in the form and manner that the Minister or other person, as the case may be, directs, information in relation to animals or things to which this Act or the regulations apply, including information in respect of their movements, events in relation to them and places where they are or were located;
 	- **(z.32)** governing the identification of places in respect of which information is to be provided under regulations made under paragraph (z.31);
 	- **(z.33)** prohibiting or governing the use or disclosure of information provided under regulations made under any of paragraphs (y) to (z.1) and (z.31);
 	- **(z.4)** prescribing any fees or charges, or the manner of calculating any fees or charges, required for carrying out the purposes and provisions of this Act or the regulations; and
 	- **(z.5)** prescribing anything required by this Act to be prescribed, other than anything to be prescribed by the Minister.
+
+**Paragraph (1)(a) — designation of disease**
+
+- **(1.1)** Regulations made under paragraph (1)(a) may, among other things, authorize the Minister to designate, by notice, diseases for the purposes of those regulations.
+
+**Non-application of [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+- **(1.2)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply in respect of a notice given by the Minister under a regulation made under paragraph (1)(a).
+
+**Paragraph (1)(a) — importation of animals or things**
+
+- **(1.3)** Regulations made under paragraph (1)(a) that regulate the importation of animals or things may regulate those animals or things after their importation.
+
+**Paragraph (1)(z.3)**
+
+- **(1.4)** Regulations made under paragraph (1)(z.3) may, among other things, require persons who conduct any activity regulated under this Act and who become aware that an animal by-product, an animal food, an animal product, a product of a rendering plant or a veterinary biologic presents a risk of harm to human or animal health or the environment or does not meet the requirements of the regulations to provide written notice to that effect to the Minister or an inspector or officer.
 
 **Regulations respecting birds**
 
@@ -1243,7 +1307,56 @@ minus
 **Definitions of bird and chick**
 
 - **(4)** For the purposes of subsections (2) and (3), ***bird*** means a bird that is or has been in captivity and ***chick*** means a bird that is less than seventy-two hours old.
-> 1990, c. 21, s. 64; 1993, c. 34, s. 76; 2012, c. 19, s. 512(F), c. 24, s. 94.
+> 1990, c. 21, s. 64; 1993, c. 34, s. 76; 2012, c. 19, s. 512(F), c. 24, s. 94; 2015, c. 2, s. 95.
+
+
+
+
+
+## Incorporation by Reference
+
+
+
+**Incorporation by reference**
+
+**64.1** 
+
+- **(1)** A regulation made under section 64 may incorporate by reference any document, regardless of its source, either as it exists on a particular date or as it is amended from time to time.
+
+**Accessibility**
+
+- **(2)** The Minister must ensure that any document that is incorporated by reference in a regulation made under section 64, including any amendments to the document, is accessible.
+
+**Defence**
+
+- **(3)** A person is not liable to be found guilty of an offence or subjected to an administrative sanction for any contravention in respect of which a document that is incorporated by reference in a regulation made under section 64 is relevant unless, at the time of the alleged contravention, the document was accessible as required by subsection (2) or it was otherwise accessible to the person.
+
+**No registration or publication**
+
+- **(4)** For greater certainty, a document that is incorporated by reference in a regulation made under section 64 is not required to be transmitted for registration or published in the Canada Gazette by reason only that it is incorporated by reference.
+> 2015, c. 2, s. 96.
+
+
+
+
+
+## General
+
+
+
+**Consideration of information**
+
+**64.2** In considering an application made under the regulations in relation to an animal or thing, the Minister may consider information that is available from a review or evaluation of an animal or thing conducted by the government of a foreign state or of a subdivision of a foreign state or by an international organization, or association, of states.
+> 2015, c. 2, s. 96.
+
+
+
+
+
+**Non-application of [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+**64.3** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply in respect of a notice referred to in section 66.
+> 2015, c. 2, s. 96.
 
 
 
@@ -1294,13 +1407,9 @@ minus
 
 **Limitation period**
 
-**68** 
+**68** Summary conviction proceedings for an offence under this Act may be instituted no later than two years after the day on which the subject matter of the proceedings arises.
+> 1990, c. 21, s. 68; 2015, c. 2, s. 97.
 
-- **(1)** Proceedings by way of summary conviction in respect of an offence under this Act may be instituted at any time within, but not later than, two years after the time when the Minister became aware of the subject-matter of the proceedings.
-
-**Minister’s certificate**
-
-- **(2)** A document purporting to have been issued by the Minister, certifying the day on which the Minister became aware of the subject-matter of any proceedings, is admissible in evidence without proof of the signature or official character of the person appearing to have signed the document and, in the absence of any evidence to the contrary, is proof of the matter asserted in it.
 
 
 
@@ -1322,18 +1431,20 @@ and any regulations made under this section shall establish a procedure for volu
 
 
 
-**Officers, etc., of corporations**
+**Parties to offence**
 
-**71** Where a corporation commits an offence under this Act, any officer, director or agent of the corporation who directed, authorized, assented to or acquiesced or participated in the commission of the offence is a party to and guilty of the offence and is liable on conviction to the punishment provided for the offence, whether or not the corporation has been prosecuted or convicted.
+**71** If a person other than an individual commits an offence under this Act, any of the person’s directors, officers or agents or mandataries who directs, authorizes, assents to or acquiesces or participates in the commission of the offence is a party to the offence and is liable on conviction to the punishment provided for by this Act, even if the person is not prosecuted for the offence.
+> 1990, c. 21, s. 71; 2015, c. 2, s. 98.
 
 
 
 
-**Offences by employees or agents**
 
-**72** In any prosecution for an offence under this Act, it is sufficient proof of the offence to establish that it was committed by an employee or agent of the accused, whether or not the employee or agent is identified or has been prosecuted for the offence, unless the accused establishes that
-- **(a)** the offence was committed without the knowledge or consent of the accused; and
-- **(b)** the accused exercised all due diligence to prevent the commission of the offence.
+**Proof of offence**
+
+**72** In a prosecution for an offence under this Act, it is sufficient proof of the offence to establish that it was committed by an employee or an agent or mandatary of the accused, even if the employee or the agent or mandatary is not identified or prosecuted for the offence, unless the accused establishes that the offence was committed without the knowledge or consent of the accused and that the accused exercised all due diligence to prevent its commission.
+> 1990, c. 21, s. 72; 2015, c. 2, s. 98.
+
 
 
 
