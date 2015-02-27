@@ -37,14 +37,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Commission*** La Commission de révision prorogée par le paragraphe 4.1(1) de la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md).
+***Commission*** La Commission de révision prorogée par le paragraphe 4.1(1) de la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md). (*Tribunal*)
 
-***loi agroalimentaire*** La [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md), la [Loi sur la médiation en matière d’endettement agricole](/fr/Lois/Lois%20du%20Canada/1997/ch.%2021.md), la [Loi relative aux aliments du bétail](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-9.md), la [Loi sur les engrais](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-10.md), la [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md), la [Loi sur l’inspection des viandes](/fr/Lois/Lois%20du%20Canada/1985/ch.%2025%20(1er%20suppl.).md), la [Loi sur les produits antiparasitaires](/fr/Lois/Lois%20du%20Canada/2002/ch.%2028.md), la [Loi sur la protection des végétaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2022.md) ou la [Loi sur les semences](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-8.md).
+***loi agroalimentaire*** La [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md), la [Loi sur la médiation en matière d’endettement agricole](/fr/Lois/Lois%20du%20Canada/1997/ch.%2021.md), la [Loi relative aux aliments du bétail](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-9.md), la [Loi sur les engrais](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-10.md), la [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md), la [Loi sur l’inspection des viandes](/fr/Lois/Lois%20du%20Canada/1985/ch.%2025%20(1er%20suppl.).md), la [Loi sur les produits antiparasitaires](/fr/Lois/Lois%20du%20Canada/2002/ch.%2028.md), la [Loi sur la protection des végétaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2022.md) ou la [Loi sur les semences](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-8.md). (*agri-food Act*)
 
- ***ministre*** Le ministre de l'Agriculture et de l'Agroalimentaire ou, en cas de violation constituant une contravention à la [Loi sur les produits antiparasitaires](/fr/Lois/Lois%20du%20Canada/2002/ch.%2028.md), le ministre de la Santé.
+***ministre*** Le ministre de l’Agriculture et de l’Agroalimentaire ou :
+- **a)** le ministre de la Santé, pour toute violation relative à une contravention :
+	- **(i)** soit à la [Loi sur les produits antiparasitaires](/fr/Lois/Lois%20du%20Canada/2002/ch.%2028.md),
+	- **(ii)** soit à une disposition portant sur la salubrité alimentaire dans une loi agroalimentaire ou dans un règlement pris en vertu d’une telle loi;
+- **b)** le ministre de la Sécurité publique et de la Protection civile, pour toute question relative aux procès-verbaux relatifs aux contraventions à la législation frontalière visée au paragraphe 11(5) de la [Loi sur l’Agence canadienne d’inspection des aliments](/fr/Lois/Lois%20du%20Canada/1997/ch.%206.md). (*Minister*)
 
-***sanction*** Sanction administrative pécuniaire infligée pour une violation.
-> 1995, ch. 40, art. 2; 1997, ch. 21, art. 30; 2002, ch. 28, art. 82; 2005, ch. 38, art. 30 et 145.
+***sanction*** Sanction administrative pécuniaire infligée pour une violation. (*penalty*)
+> 1995, ch. 40, art. 2; 1997, ch. 21, art. 30; 2002, ch. 28, art. 82; 2005, ch. 38, art. 30 et 145; 2015, ch. 2, art. 113.
 
 
 
@@ -75,6 +79,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 		- **(ii)** à tout arrêté spécifié pris par le ministre au titre de la [Loi sur la protection des végétaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2022.md), ou à toute catégorie de ces arrêtés,
 		- **(iii)** à toute obligation ou catégorie d’obligations spécifiée — par refus ou omission de l’accomplir — découlant de la [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md) ou de la [Loi sur la protection des végétaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2022.md);
 	- **b)** qualifier les violations, selon le cas, de mineures, de graves ou de très graves;
+	- **b.1)** établir le sommaire caractérisant la violation dans les procès-verbaux;
 	- **c)** fixer le montant — notamment par barème — de la sanction applicable à chaque violation;
 	- **d)** prévoir les critères de majoration ou de minoration — notamment pour les transactions — de ce montant, ainsi que les modalités de cette opération;
 	- **e)** régir la détermination d’un montant inférieur à la sanction infligée dont le paiement, dans le délai et selon les modalités réglementaires, vaut règlement;
@@ -85,7 +90,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Plafond de la sanction**
 
-- **(2)** Le plafond de la sanction est de 2 000 $ pour toute violation commise par une personne physique, sauf dans le cadre d’une entreprise ou à des fins lucratives, et, dans les autres cas, de 2 000 $, 10 000 $ ou 15 000 $, selon que la violation est mineure, grave ou très grave.
+- **(2)** Le plafond de la sanction est de 2 000 $ pour toute violation commise par une personne physique, sauf dans le cadre d’une entreprise ou à des fins lucratives, et, dans les autres cas, de 5 000 $, 15 000 $ ou 25 000 $, selon que la violation est mineure, grave ou très grave.
 
 **Critères**
 
@@ -93,6 +98,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** la nature de l’intention ou de la négligence du contrevenant;
 	- **b)** la gravité du tort causé par la violation;
 	- **c)** les antécédents du contrevenant relatifs aux violations d’une loi agroalimentaire ou aux condamnations pour infraction à une telle loi dans les cinq ans précédant la violation.
+> 1995, ch. 40, art. 4; 2015, ch. 2, art. 114.
+
 
 
 
@@ -104,9 +111,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Pouvoir du ministre : procès-verbaux**
+**Pouvoir du ministre : agents verbalisateurs**
 
-**6** Le ministre peut désigner, individuellement ou par catégorie, les agents verbalisateurs et établir le sommaire caractérisant la violation dans les procès-verbaux.
+**6** Le ministre peut désigner, individuellement ou par catégorie, les agents verbalisateurs.
+> 1995, ch. 40, art. 6; 2015, ch. 2, art. 115.
+
 
 
 
@@ -128,6 +137,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Sommaire des droits**
 
 - **(3)** Figurent aussi au procès-verbal en langage clair un sommaire des droits et obligations du contrevenant prévus par la présente loi, notamment le droit de contester les faits reprochés auprès du ministre ou de la Commission et la procédure pour le faire.
+> 1995, ch. 40, art. 7; 2015, ch. 2, art. 116(A).
+
 
 
 
@@ -219,6 +230,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Présomption**
 
 - **(3)** Le défaut du contrevenant d’exercer l’option dans le délai et selon les modalités prévus vaut déclaration de responsabilité à l’égard de la violation.
+> 1995, ch. 40, art. 11; 2015, ch. 2, art. 117(A).
+
 
 
 
@@ -278,7 +291,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **15** 
 
-- **(1)** Constitue une créance de Sa Majesté du chef du Canada, dont le recouvrement peut être poursuivi à ce titre devant la Cour fédérale :
+- **(1)** Constitue une créance de Sa Majesté du chef du Canada, dont le recouvrement peut être poursuivi à ce titre devant la Cour fédérale :
 	- **a)** le montant de la sanction, à compter de la date de notification du procès-verbal;
 	- **b)** tout montant prévu dans une transaction conclue au titre du paragraphe 10(1), à compter de la date de sa conclusion;
 	- **c)** le montant mentionné dans l’avis de défaut notifié au titre du paragraphe 10(4), à compter de la date de sa notification;
@@ -288,11 +301,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Prescription**
 
-- **(2)** Le recouvrement de la créance se prescrit par cinq ans à compter de la date à laquelle elle est devenue exigible en application du paragraphe (1).
+- **(2)** Le recouvrement de la créance se prescrit par cinq ans à compter de la date à laquelle elle est devenue exigible.
 
 **Conditions de révision**
 
 - **(3)** La créance est définitive et n’est susceptible de contestation ou de révision que dans la mesure et selon les modalités prévues aux articles 9 à 14 de la présente loi et au paragraphe 12(2) de la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md).
+> 1995, ch. 40, art. 15; 2015, ch. 2, art. 118(F).
+
 
 
 
@@ -401,13 +416,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Prescription**
 
-**26** 
+**26** Les poursuites pour violation se prescrivent par six mois à compter de la date à laquelle elle a été commise, lorsque celle-ci est mineure, et par deux ans, lorsqu’elle est grave ou très grave.
+> 1995, ch. 40, art. 26; 2015, ch. 2, art. 119.
 
-- **(1)** Les poursuites pour violation se prescrivent par six mois à compter de la date où le ministre a eu connaissance des éléments constitutifs de la violation, lorsque celle-ci est mineure, et par deux ans, lorsqu’elle est grave ou très grave.
-
-**Certificat du ministre**
-
-- **(2)** Le document censé délivré par le ministre et attestant la date où ces éléments sont parvenus à sa connaissance fait foi de cette date, en l’absence de preuve contraire, sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire.
 
 
 
