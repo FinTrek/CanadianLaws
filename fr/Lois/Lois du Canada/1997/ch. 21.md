@@ -41,7 +41,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***créancier garanti***
 - **a)** Créancier détenant une hypothèque, un nantissement, une charge, un gage, un privilège ou une priorité, ou autre sûreté sur les biens de l’agriculteur ou sur une partie de ses biens à titre de garantie d’une dette échue ou à échoir;
-- **b)** personne physique ou morale, coopérative, société de personnes ou autre association de personnes avec qui l’agriculteur a conclu un contrat en vue d’une vente, d’une location-vente ou, au Québec, d’un crédit-bail, ou un contrat de vente conditionnelle d’un bien en sa possession ou dont il a l’usage, ou à qui un tel contrat a été cédé;
+- **b)** personne, coopérative, société de personnes ou autre association de personnes :
+	- **(i)** soit avec qui l’agriculteur a conclu un contrat en vue d’une vente ou d’une location avec option d’achat ou un contrat de vente conditionnelle d’un bien en sa possession ou dont il a l’usage,
+	- **(ii)** soit à qui un tel contrat a été cédé;
 - **c)** banque ou banque étrangère autorisée, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), à qui une sûreté a été donnée sur les biens de l’agriculteur ou sur une partie de ses biens en vertu de l’article 427 de cette loi ou de l’article 427 incorporé par l’article 555 de cette loi, selon le cas. (*secured creditor*)
 
 ***exploitation d’une entreprise agricole*** Selon le cas :
@@ -51,7 +53,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **d)** tout autre élevage ou toute autre production précisés par règlement. (*farming*)
 
 ***ministre*** Le ministre de l’Agriculture et de l’Agroalimentaire. (*Minister*)
-> 1997, ch. 21, art. 2; 1999, ch. 28, art. 161.
+> 1997, ch. 21, art. 2; 1999, ch. 28, art. 161; 2015, ch. 2, art. 141.
 
 
 
@@ -127,15 +129,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **7** 
 
 - **(1)** Dès réception de la demande prévue à l’article 5 dûment remplie, l’administrateur :
-	- **a)** en avise chacune des personnes dont le nom est joint à la demande :
-		- **(i)** à titre de créancier, dans le cas d’une demande faite en vertu de l’alinéa 5(1)a),
-		- **(ii)** à titre de créancier garanti, dans le cas d’une demande faite en vertu de l’alinéa 5(1)b);
-	- **b)** dans le cas d’une demande faite en vertu de l’alinéa 5(1)a), prononce la suspension, pour une période de trente jours, des procédures engagées par les créanciers contre l’agriculteur et en aviser, en la forme et avec les renseignements déterminés par le ministre, chacune des personnes dont le nom est joint à la demande à titre de créancier;
+	- **a)** en avise :
+		- **(i)** chacun des créanciers dont le nom est joint à la demande, dans le cas d’une demande faite en vertu de l’alinéa 5(1)a),
+		- **(ii)** chacun des créanciers garantis dont le nom est joint à la demande, dans le cas d’une demande faite en vertu de l’alinéa 5(1)b),
+		- **(iii)** le ministre, dans le cas où celui-ci est garant d’une dette de l’agriculteur envers un créancier ou un créancier garanti dont le nom est joint à la demande;
+	- **b)** dans le cas d’une demande faite en vertu de l’alinéa 5(1)a), prononce la suspension, pour une période de trente jours à compter du moment où elle est prononcée, des procédures engagées par les créanciers contre l’agriculteur et en avise, en la forme et avec les renseignements déterminés par le ministre, chacun des créanciers dont le nom est joint à la demande;
 	- **c)** décide, en se fondant notamment, au besoin, sur un examen préliminaire de la situation financière de l’agriculteur, si celui-ci est admissible à faire la demande.
 
 **Décision définitive**
 
 - **(2)** Dans le cas d’une demande faite en vertu de l’alinéa 5(1)b), la décision rendue par l’administrateur en vertu de l’alinéa (1)c) est définitive.
+> 1997, ch. 21, art. 7; 2015, ch. 2, art. 142.
+
 
 
 
@@ -165,7 +170,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **États financiers et plans de redressement**
 
-- **(2)** Dans le cadre de cet examen, l’administrateur ou les experts, selon le cas, doivent préparer un inventaire de l’actif de l’agriculteur ainsi que les états financiers relatifs à l’exploitation de l’entreprise agricole de celui-ci, peuvent recommander, dans le cas d’une demande faite en vertu de l’alinéa 5(1)b), que des créanciers autres que les créanciers garantis participent aussi à la médiation et peuvent établir des plans de redressement en vue d’un arrangement financier avec les créanciers.
+- **(2)** Dans le cadre de cet examen, l’administrateur ou les experts, selon le cas, doivent préparer un inventaire de l’actif de l’agriculteur ainsi que les états financiers relatifs à l’exploitation de l’entreprise agricole de celui-ci, peuvent recommander, dans le cas d’une demande faite en vertu de l’alinéa 5(1)b), que des créanciers — autres que les créanciers garantis — ainsi que le ministre, dans le cas où celui-ci est garant d’une dette de l’agriculteur qui est due à ces créanciers, participent aussi à la médiation et peuvent établir des plans de redressement en vue d’un arrangement financier avec tout créancier et le ministre.
 
 **Plans de redressement**
 
@@ -174,6 +179,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Rapport**
 
 - **(4)** L’administrateur rédige ou fait rédiger un rapport des résultats de l’examen prévu par le présent article.
+> 1997, ch. 21, art. 9; 2015, ch. 2, art. 143.
+
 
 
 
@@ -188,14 +195,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Dès que le rapport visé au paragraphe 9(4) est prêt, l’administrateur :
 	- **a)** nomme, conformément aux règlements, un médiateur qui est impartial et n’est pas en conflit d’intérêts relativement à la demande;
-	- **b)** informe de la nomination :
-		- **(i)** l’agriculteur et les créanciers dont le nom est joint à la demande, dans le cas d’une demande faite en vertu de l’alinéa 5(1)a),
-		- **(ii)** l’agriculteur, les créanciers garantis dont le nom est joint à la demande et, le cas échéant, les créanciers mentionnés dans la recommandation faite au titre du paragraphe 9(2), dans le cas d’une demande faite en vertu de l’alinéa 5(1)b);
-	- **c)** fournit un exemplaire du rapport au médiateur et aux personnes qui participeront à la médiation.
+	- **b)** informe les personnes ou entités ci-après de la nomination :
+		- **(i)** dans le cas d’une demande faite en vertu de l’alinéa 5(1)a), l’agriculteur, les créanciers dont le nom est joint à la demande et le ministre, s’il a été avisé par l’administrateur en vertu du sous-alinéa 7(1)a)(iii),
+		- **(ii)** dans le cas d’une demande faite en vertu de l’alinéa 5(1)b), l’agriculteur, les créanciers garantis dont le nom est joint à la demande, le ministre, s’il a été avisé par l’administrateur en vertu du sous-alinéa 7(1)a)(iii) ou est mentionné dans la recommandation faite en vertu du paragraphe 9(2), et les créanciers mentionnés dans cette recommandation,
+	- **c)** fournit un exemplaire du rapport au médiateur ainsi qu’aux personnes et entités qui participeront à la médiation.
 
 **Mission du médiateur**
 
-- **(2)** Le médiateur doit, conformément aux règlements, examiner le rapport visé au paragraphe 9(4) et rencontrer les personnes visées aux sous-alinéas (1)b)(i) ou (ii), selon le cas, en vue de les aider à conclure un arrangement acceptable pour les parties. Toutefois, il ne peut les conseiller.
+- **(2)** Le médiateur doit, conformément aux règlements, examiner le rapport visé au paragraphe 9(4) et rencontrer les personnes et entités visées aux sous-alinéas (1)b)(i) ou (ii), selon le cas, en vue de les aider à conclure un arrangement acceptable pour les parties. Toutefois, il ne peut les conseiller.
+> 1997, ch. 21, art. 10; 2015, ch. 2, art. 144.
+
 
 
 
@@ -248,11 +257,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Avis de prolongation de délai**
 
-- **(3)** L’administrateur avise l’agriculteur et chacune des personnes dont le nom est joint à la demande du délai supplémentaire accordé en vertu des paragraphes (1) ou (2).
+- **(3)** L’administrateur avise l’agriculteur et chacun des créanciers dont le nom est joint à la demande du délai supplémentaire accordé en vertu des paragraphes (1) ou (2).
 
 **Décision renversée**
 
 - **(4)** Si le comité d’appel renverse la décision de l’administrateur de refuser la prolongation de la suspension des procédures, la prolongation de trente jours accordée commence à l’expiration de la période de suspension de trente jours précédente.
+> 1997, ch. 21, art. 13; 2015, ch. 2, art. 145.
+
 
 
 
@@ -273,7 +284,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Avis**
 
-- **(3)** L’administrateur qui ordonne la levée de la suspension des procédures en vertu des paragraphes (1) ou (2) en avise l’agriculteur et tous les créanciers dont le nom est joint à la demande.
+- **(3)** L’administrateur qui ordonne la levée de la suspension des procédures en vertu des paragraphes (1) ou (2) en avise l’agriculteur, tous les créanciers dont le nom est joint à la demande et le ministre, s’il a été avisé par l’administrateur en vertu du sous-alinéa 7(1)a)(iii).
 
 **Fin de la suspension**
 
@@ -284,6 +295,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Levée automatique de la suspension**
 
 - **(5)** La signature d’un arrangement conformément à l’article 19 ou la cession de ses biens par l’agriculteur en application de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md) entraîne la levée immédiate de la suspension des procédures.
+> 1997, ch. 21, art. 14; 2015, ch. 2, art. 146.
+
 
 
 
@@ -373,9 +386,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Rédaction de l’arrangement par le comité**
+**Arrangement**
 
-**19** Dans le cas où la médiation a pour effet la conclusion d’un arrangement entre l’agriculteur et un créancier, l’administrateur veille à ce qu’il soit signé par chacune des parties.
+**19** Dans le cas où la médiation a pour effet la conclusion d’un arrangement entre l’agriculteur et un créancier ou le ministre, l’administrateur veille à ce qu’il soit signé par chacune des parties.
+> 1997, ch. 21, art. 19; 2015, ch. 2, art. 147.
+
 
 
 
@@ -446,22 +461,26 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **24** 
 
-- **(1)** Sous réserve des cas prévus au paragraphe (2), nul ne peut sciemment communiquer ou permettre que soient communiqués les renseignements recueillis auprès d’un agriculteur ou d’un créancier de celui-ci dans le cadre de la présente loi, ni sciemment en permettre l’examen ou l’accès.
+- **(1)** Sous réserve des cas prévus au paragraphe (2), nul ne peut sciemment communiquer ou permettre que soient communiqués les renseignements recueillis auprès d’un agriculteur, d’un créancier de celui-ci ou du ministre dans le cadre de la présente loi, ni sciemment en permettre l’examen ou l’accès.
 
 **Exception**
 
-- **(2)** Toute personne chargée de l’application de la présente loi peut communiquer ou permettre que soient communiqués les renseignements visés au paragraphe (1) à une autre personne également chargée de l’application de la présente loi ou à une personne qui a qualité pour en prendre connaissance, ou leur en permettre l’examen ou l’accès.
+- **(2)** Les personnes chargées de l’application de la présente loi, de même que les médiateurs et les experts visés au paragraphe 4(4), peuvent communiquer ou permettre que soient communiqués les renseignements visés au paragraphe (1) à une autre personne également chargée de l’application de la présente loi ou à une personne qui y a légalement droit, ou leur en permettre l’examen ou l’accès.
 
 **Protection des témoins**
 
 - **(3)** Les personnes chargées de l’application de la présente loi, de même que les médiateurs et les experts visés au paragraphe 4(4), ne peuvent être contraintes de répondre à une question concernant les renseignements visés au paragraphe (1) ni de produire des registres, documents ou autres pièces contenant ces renseignements à titre de preuve dans des procédures sans rapport direct avec l’exécution ou l’interprétation de la présente loi ou des règlements.
+> 1997, ch. 21, art. 24; 2015, ch. 2, art. 149.
+
 
 
 
 
 **Responsabilité personnelle**
 
-**25** Les personnes chargées de l’application de la présente loi n’encourent aucune responsabilité personnelle pour les faits — actes ou omissions — accomplis de bonne foi dans l’exercice de leurs fonctions dans le cadre de la présente loi.
+**25** Les personnes chargées de l’application de la présente loi, de même que les médiateurs et les experts visés au paragraphe 4(4), n’encourent aucune responsabilité personnelle pour les faits — actes ou omissions — accomplis de bonne foi dans l’exercice de leurs fonctions dans le cadre de la présente loi.
+> 1997, ch. 21, art. 25; 2015, ch. 2, art. 150.
+
 
 
 
@@ -484,6 +503,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Formulaires et renseignements**
 
 - **(2)** Le ministre peut établir les formules et autres documents à utiliser dans le cadre de la présente loi, de même que les renseignements à fournir dans ces documents et notamment déterminer la manière de modifier les demandes faites en vertu de la présente loi et d’aviser ou d’informer les intéressés.
+> 1997, ch. 21, art. 26; 2015, ch. 2, art. 151(A).
+
 
 
 
@@ -499,7 +520,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **28** 
 
-- **(1)** Le plus tôt possible au cours de la troisième année qui suit l’entrée en vigueur de la présente loi et par la suite à tous les trois ans, le ministre procède à l’examen de l’application de la présente loi, consultant au besoin les représentants des organisations de son choix.
+- **(1)** Tous les cinq ans après l’entrée en vigueur du présent paragraphe, le ministre procède à l’examen de l’application de la présente loi, consultant au besoin les représentants des organisations de son choix.
 
 **Examen**
 
@@ -508,6 +529,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Dépôt du rapport**
 
 - **(3)** Le ministre fait déposer dès que possible, devant chaque chambre du Parlement, un rapport de l’examen.
+> 1997, ch. 21, art. 28; 2015, ch. 2, art. 152.
+
 
 
 
