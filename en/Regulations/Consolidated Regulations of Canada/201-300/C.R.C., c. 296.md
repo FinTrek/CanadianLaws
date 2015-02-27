@@ -356,12 +356,12 @@ the inspector may order the person who owns or has possession, care or control o
 
 - **(1)** Every person who removes the specified risk material from the carcasses of cattle that died or were condemned before they otherwise would have been slaughtered for human consumption as food shall ensure that the specified risk material is stained with a conspicuous and indelible dye and collected in a dedicated container that is marked with a statement in both official languages indicating that the contents are specified risk material.
 
-- **(2)** If the specified risk material has not been removed from the carcasses of cattle that died or were condemned before they otherwise would have been slaughtered for human consumption as food, the person who has the possession, care or control of the carcasses and any parts of them shall ensure that either the carcasses or the parts of them containing the specified risk material are stained with a dye that is conspicuous, indelible and safe for consumption by animals.
+- **(2)** If the specified risk material has not been removed from the carcasses of cattle that died or were condemned before they otherwise would have been slaughtered for human consumption as food, the person who has the possession, care or control of the carcasses and any parts of them shall ensure that the carcasses and any parts of them containing the specified risk material are stained with a dye that is conspicuous, indelible and safe for consumption by animals.
 
 - **(3)** Subsections (1) and (2) do not apply in respect of
 	- **(a)** the carcasses of cattle if the specified risk material from each of the carcasses and each of the carcasses that contains specified risk material remain on the premises on which the cattle were determined to be dead or are submitted to a level 2 containment laboratory; or
 	- **(b)** samples of specified risk material, or carcasses — or parts of carcasses — of cattle from which the specified risk material has not been removed, that are submitted to a level 2 containment laboratory.
-> SOR/2006-147, s. 12; SOR/2012-286, s. 48.
+> SOR/2006-147, s. 12; SOR/2012-286, s. 48; SOR/2015-55, s. 4.
 
 
 
@@ -1591,7 +1591,7 @@ the inspector may order the person who owns or has possession, care or control o
 	- **(c)** the disease agent, animal or thing is transported directly to the location stated in the licence.
 
 - **(6)** Every person who receives a notice referred to in subsection (1) shall comply with the notice.
-> SOR/97-85, s. 62; SOR/2012-286, s. 57(E).
+> SOR/97-85, s. 62; SOR/2012-286, s. 57(E); SOR/2015-55, s. 5(F).
 
 
 
@@ -1776,7 +1776,7 @@ to clean and disinfect such outhouse, stable, yard or other place or such aircra
 - **(8)** Every railway company and motor carrier shall affix to both sides of every railway car or motor vehicle used to transport a commodity that is required to be cleaned and disinfected pursuant to section 107 a placard stating in bold face letters not less than 1 1/2 inches in height the words “Restricted Import Animal Product” “*Produit animal importé sous restriction*” and “Clean and Disinfect this Car” “*Wagon à nettoyer et à désinfecter*”.
 
 - **(9)** In this section, ***stockyard*** has the same meaning as in the Livestock and Livestock Products Act.
-> SOR/78-597, s. 13; SOR/79-295, s. 17; SOR/95-473, s. 11; SOR/97-85, s. 66; SOR/98-584, s. 4.
+> SOR/78-597, s. 13; SOR/79-295, s. 17; SOR/95-473, s. 11; SOR/97-85, s. 66; SOR/98-584, s. 4; SOR/2015-55, s. 6(F).
 
 
 
@@ -2309,8 +2309,8 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 
 
-**135.1** Every holder of a licence or permit issued under this Part shall report to the Minister, in writing, any information concerning or any evidence of, a significant deficiency in safety, potency or efficacy or a veterinary biologic within 15 days after the date on which that information or evidence is known to the holder or is generally known to the industry.
-> SOR/79-839, s. 32; SOR/2002-438, s. 17.
+**135.1** Every holder of a licence or permit issued under this Part shall report to the Minister, in writing, any information concerning, or any evidence of, a significant deficiency in safety, potency or efficacy of a veterinary biologic within 15 days after the date on which that information or evidence is known to the holder.
+> SOR/79-839, s. 32; SOR/2002-438, s. 17; SOR/2015-55, s. 7.
 
 
 
@@ -2806,7 +2806,7 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 **165** 
 
-- **(1)** No person shall operate a rendering plant unless the person does so under and in accordance with a permit issued pursuant to section 160.
+- **(1)** No person shall operate a rendering plant unless the person does so under a permit issued in accordance with section 160.
 
 - **(1.1)** No person who operates a rendering plant shall manufacture a prohibited material on the same premises as material not prohibited from being fed to ruminants without having dedicated manufacturing lines, equipment and conveyances to prevent the mixing or contamination of material not prohibited from being fed to ruminants with or by prohibited material.
 
@@ -2821,7 +2821,7 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 - **(4)** No person who operates a rendering plant shall distribute or sell any product of the rendering plant that contains prohibited material unless the documentation required by these Regulations relating to the product and any label on any packaging or container containing the product is marked conspicuously, legibly and indelibly with the following statement:“Feeding this product to cattle, sheep, deer or other ruminants is illegal and is subject to fines or other punishment under the [Health of Animals Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2021.md)./*Il est interdit d’en nourrir les boeufs, moutons, cerfs et autres ruminants et des amendes ou autres peines sont prévues à cet égard par la Loi sur la santé des animaux.*”
 
 
-> SOR/97-362, s. 4; SOR/2006-147, s. 22.
+> SOR/97-362, s. 4; SOR/2006-147, s. 22; SOR/2015-55, s. 8.
 
 
 
@@ -2832,7 +2832,7 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 **166** 
 
-- **(1)** No person shall import any product of a rendering plant unless the person does so under and in accordance with a permit issued pursuant to section 160.
+- **(1)** No person shall import any product of a rendering plant unless the person does so under a permit issued in accordance with section 160.
 
 - **(2)** Every person who imports or has the possession, care or control of any product of a rendering plant shall keep for 10 years a record of
 	- **(a)** the name and address of the rendering plant and the date of production of the product;
@@ -2840,7 +2840,7 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 	- **(c)** the name, lot number and quantity of the product and any other information that is sufficient to identify the product;
 	- **(d)** the name and address of any person to whom any product is distributed or sold and the information referred to in paragraph (c) with respect to that product; and
 	- **(e)** whether or not the product is, or contains any, prohibited material.
-> SOR/97-362, s. 4; SOR/2006-147, s. 23.
+> SOR/97-362, s. 4; SOR/2006-147, s. 23; SOR/2015-55, s. 9.
 
 
 
@@ -3356,7 +3356,7 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 	- **(b)** cause a notice of the removal to be published on its web site.
 
 - **(6)** If the name and address of a tagging site have been removed from the list, the manager of the site may reapply under subsection (3) to have the site approved as a tagging site.
-> SOR/2000-416, s. 1; SOR/2003-409, s. 6; SOR/2005-192, s. 9; SOR/2014-23, s. 16.
+> SOR/2000-416, s. 1; SOR/2003-409, s. 6; SOR/2005-192, s. 9; SOR/2014-23, s. 16; SOR/2015-55, s. 10(F).
 
 
 
