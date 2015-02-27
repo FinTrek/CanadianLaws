@@ -340,10 +340,10 @@ Enabling authorities:
 	- **(iii)** the per cent passing through a sieve having openings that are square and are each 0.149 mm (100 mesh TYLER screen) and 1.68 mm (10 mesh TYLER screen) in width,
 - **(j.2)** in respect of acidifying materials capable of increasing hydrogen ion concentration of a growing medium, the minimum acidifying value expressed in per cent of the basic neutralizing capacity of hydrochloric acid,
 where such ingredients are intentionally incorporated in that fertilizer or represented to be contained therein, and
-- **(k)** in respect of natural rock phosphate basic slag, a mixture of natural rock phosphate and basic slag, hoof and horn meal and bone meal, the per cent passing through a sieve having openings that are square and are each 0.149 mm (100 mesh TYLER screen) in width;
-- **(l)** in respect of each fertilizer, the maximum amount, expressed in per cent of leather, hoof, horn, hair, wool waste, garbage or any similar organic material unless the fertilizer or its constituents have been treated in a manner to make the phosphorus available and the potash soluble; and
+- **(k)** in respect of natural rock phosphate basic slag, a mixture of natural rock phosphate and basic slag, hoof and horn meal and bone meal, the per cent passing through a sieve having openings that are square and are each 0.149 mm (100 mesh TYLER screen) in width, and
+- **(l)** [Repealed, SOR/2015-55, s. 1]
 - **(m)** in respect of manure, compost, humus or leaf mould, the minimum amount of organic matter expressed in per cent and the maximum amount of moisture expressed in per cent.
-> SOR/79-365, s. 12; SOR/85-558, s. 7; SOR/88-353, s. 5; SOR/93-232, s. 2; SOR/2013-79, s. 7.
+> SOR/79-365, s. 12; SOR/85-558, s. 7; SOR/88-353, s. 5; SOR/93-232, s. 2; SOR/2013-79, s. 7; SOR/2015-55, s. 1.
 
 
 
@@ -422,9 +422,6 @@ where such ingredients are intentionally incorporated in that fertilizer or repr
 	- **(d)** the directions for use of the supplement;
 	- **(e)** the lot number of the supplement;
 	- **(f)** the guaranteed analysis prescribed in section 15;
-		- **(i)** the minimum amount expressed in per cent of the active ingredient in the supplement,
-		- **(ii)** the species name or genus of the active microorganism; and
-		- **(iii)** the minimum number of active viable cells per gram of product of the active genus or species of microorganism in the product;
 	- **(g)** in the case of a supplement in which the active ingredient may deteriorate, the date beyond which the supplement is not intended for use;
 	- **(g.1)** in the case of a supplement that is or contains prohibited material, as defined in subsection 162(1) of the [Health of Animals Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/201-300/C.R.C.,%20c.%20296.md), conspicuous statements written legibly and indelibly in both official languages that indicate that
 		- **(i)** feeding the product to cattle, sheep, deer or other ruminants is illegal and subject to fines or other punishment under the [Health of Animals Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2021.md),
@@ -448,7 +445,7 @@ where such ingredients are intentionally incorporated in that fertilizer or repr
 	- **(b)** the name and volume of the supplement.
 
 - **(4)** Notwithstanding subsections (1) to (3), where a supplement is sold in bulk, the information required by those subsections to be shown on a label shall be shown on the shipping bill or on a statement accompanying the shipment.
-> SOR/79-365, s. 14; SOR/85-558, s. 9; SOR/95-548, s. 4; SOR/2006-147, s. 10; SOR/2012-286, s. 2(F).
+> SOR/79-365, s. 14; SOR/85-558, s. 9; SOR/95-548, s. 4; SOR/2006-147, s. 10; SOR/2012-286, s. 2(F); SOR/2015-55, s. 2(E).
 
 
 
@@ -538,17 +535,13 @@ where such ingredients are intentionally incorporated in that fertilizer or repr
 
 **22** 
 
-- **(1)** Every sample of a fertilizer or supplement taken by an inspector for analysis shall,
+- Every sample of a fertilizer or supplement taken by an inspector for analysis shall,
 	- **(a)** be taken in a manner approved by the Director;
 	- **(b)** represent fairly the lot of fertilizer or supplement from which it is taken; and
 	- **(c)** be of sufficient size for analysis.
 
-- **(2)** Where a fertilizer is packed in bags, a sample shall
-	- **(a)** in the case of lots or shipments of ten bags or less, consist of approximately equal portions drawn from each bag in the lot; and
-	- **(b)** in the case of lots or shipments of eleven bags or more, consist of approximately equal portions drawn from each of any 10 bags in the lot or shipment.
-
-- **(3)** Where non-liquid fertilizers are in bulk, samples in approximately equal portions shall be drawn from each of at least 10 different sections of the bulk.
-> SOR/79-365, s. 17; SOR/93-232, s. 2(F).
+- **(2) and (3)** [Repealed, SOR/2015-55, s. 3]
+> SOR/79-365, s. 17; SOR/93-232, s. 2(F); SOR/2015-55, s. 3.
 
 
 
