@@ -340,10 +340,10 @@ Autorités habilitantes :
 	- **(iii)** le pourcentage passant au travers d’un tamis à ouvertures carrées de 0,149 mm de côté (tamis TYLER de 100 mailles) et d’un de 1,68 mm (tamis TYLER de 10 mailles) de largeur,
 - **j.2)** relativement aux substances acidifiantes pouvant augmenter la concentration en ions d’hydrogène d’un milieu de culture, la valeur acidifiante minimale exprimée en pourcentage du pouvoir neutralisant de l’acide chlorhydrique,
 lorsque ces composants sont intentionnellement ajoutés à cet engrais ou censés y être présents, et
-- **k)** relativement au phosphate minéral naturel, au phosphate Thomas, à un mélange des deux, à la farine de sabot et de corne et à la farine d’os, le pourcentage passant au travers d’un tamis à ouvertures carrées de 0,149 mm de côté (tamis TYLER de 100 mailles);
-- **l)** relativement à chaque engrais, la quantité maximale, exprimée en pourcentage, de cuir, sabot, corne, poils, déchets de laine, déchets alimentaires ou de toute substance organique semblable à moins que l’engrais ou ses éléments constituants n’aient été traités de façon à rendre le phosphore assimilable et la potasse soluble; et
+- **k)** relativement au phosphate minéral naturel, au phosphate Thomas, à un mélange des deux, à la farine de sabot et de corne et à la farine d’os, le pourcentage passant au travers d’un tamis à ouvertures carrées de 0,149 mm de côté (tamis TYLER de 100 mailles),
+- **l)** [Abrogé, DORS/2015-55, art. 1]
 - **m)** relativement au fumier, au compost, à l’humus et au terreau de feuilles, le pourcentage minimal de matière organique et le pourcentage maximal d’humidité.
-> DORS/79-365, art. 12; DORS/85-558, art. 7; DORS/88-353, art. 5; DORS/93-232, art. 2; DORS/2013-79, art. 7.
+> DORS/79-365, art. 12; DORS/85-558, art. 7; DORS/88-353, art. 5; DORS/93-232, art. 2; DORS/2013-79, art. 7; DORS/2015-55, art. 1.
 
 
 
@@ -445,7 +445,7 @@ lorsque ces composants sont intentionnellement ajoutés à cet engrais ou censé
 	- **b)** le nom et le volume du supplément.
 
 - **(4)** Nonobstant les paragraphes (1) à (3), dans le cas d’un supplément vendu en vrac, les renseignements exigés sur l’étiquette en vertu de ces paragraphes doivent figurer sur le connaissement ou dans une déclaration accompagnant l’envoi.
-> DORS/79-365, art. 14; DORS/85-558, art. 9; DORS/95-548, art. 4; DORS/2006-147, art. 10; DORS/2012-286, art. 2(F).
+> DORS/79-365, art. 14; DORS/85-558, art. 9; DORS/95-548, art. 4; DORS/2006-147, art. 10; DORS/2012-286, art. 2(F); DORS/2015-55, art. 2(A).
 
 
 
@@ -534,17 +534,16 @@ lorsque ces composants sont intentionnellement ajoutés à cet engrais ou censé
 
 **22** 
 
-- **(1)** Un échantillon d’engrais ou de supplément prélevé par un inspecteur pour fins d’analyse doit
-	- **a)** l’être d’une manière approuvée par le directeur;
-	- **b)** représenter raisonnablement le lot d’où il provient; et
-	- **c)** être d’une taille suffisante pour les fins de l’analyse.
+- Un échantillon d’engrais ou de supplément prélevé par un inspecteur pour fins d’analyse doit
+	- **a)
+** l’être d’une manière approuvée par le directeur;
+	- **b)
+** représenter raisonnablement le lot d’où il provient; et
+	- **c)
+** être d’une taille suffisante pour les fins de l’analyse.
 
-- **(2)** Dans le cas des engrais en sacs, un échantillon doit
-	- **a)** comprendre des prélèvements sensiblement égaux provenant de chaque sac du lot s’il s’agit de lots ou d’envois d’au plus dix sacs; et
-	- **b)** comprendre des prélèvements sensiblement égaux provenant de 10 sacs choisis au hasard dans le lot ou l’envoi, s’il s’agit de lots ou d’envois de 11 sacs ou plus.
-
-- **(3)** Dans le cas des engrais solides en vrac, des échantillons d’un volume sensiblement égal doivent être prélevés dans au moins dix points différents de la masse.
-> DORS/79-365, art. 17; DORS/93-232, art. 2(F).
+- **(2) et (3)** [Abrogés, DORS/2015-55, art. 3]
+> DORS/79-365, art. 17; DORS/93-232, art. 2(F); DORS/2015-55, art. 3.
 
 
 
