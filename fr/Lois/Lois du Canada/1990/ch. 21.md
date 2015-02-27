@@ -11,7 +11,7 @@ Sanctionnée sur le 19 juin 1990
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -39,66 +39,70 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***agent de la paix*** S’entend au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+***agent de la paix*** S’entend au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*peace officer*)
 
-***agent des douanes*** Toute personne affectée à l’exécution ou au contrôle d’application de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md). Sont inclus les membres de la Gendarmerie royale du Canada.
+***agent des douanes*** Toute personne affectée à l’exécution ou au contrôle d’application de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md). Sont inclus les membres de la Gendarmerie royale du Canada. (*customs officer*)
 
-***agent d’exécution*** Personne désignée à ce titre en application de l’article 32, à l’exception des analystes.
+***agent d’exécution*** Personne désignée à ce titre en application de l’article 32, à l’exception des analystes. (*officer*)
 
-***aliments pour animaux*** Toute chose susceptible de servir à la nutrition animale, y compris tout élément constitutif d’une ration.
+***aliments pour animaux*** Toute chose susceptible de servir à la nutrition animale, y compris tout élément constitutif d’une ration. (*animal food*)
 
-***analyste*** Personne désignée à ce titre en application de l’article 32.
+***analyste*** Personne désignée à ce titre en application de l’article 32. (*analyst*)
 
-***animal*** Sont assimilés aux animaux les embryons ainsi que les oeufs et ovules fécondés.
+***animal*** Sont assimilés aux animaux les embryons ainsi que les oeufs et ovules fécondés. (*animal*)
 
-***atelier d’équarrissage*** Lieu où sont transportés soit des sous-produits animaux, soit les animaux infirmes, malades ou morts, non destinés à la consommation humaine.
+***atelier d’équarrissage*** Lieu où sont transportés soit des sous-produits animaux, soit les animaux infirmes, malades ou morts, non destinés à la consommation humaine. (*animal deadyard*)
 
-***Commission*** La Commission de révision prorogée par le paragraphe 4.1(1) de la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md).
+***Commission*** La Commission de révision prorogée par le paragraphe 4.1(1) de la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md). (*Tribunal*)
 
-French version only***contamination*** Contamination proprement dite, ainsi que le fait, pour un animal, d’être malade ou porteur.
+***contamination*** Contamination proprement dite, ainsi que le fait, pour un animal, d’être malade ou porteur. (***French version only***)
 
-***couvoir*** Sous réserve des règlements d’application du paragraphe (2), local d’incubation ou d’éclosion des oeufs.
+***couvoir*** Sous réserve des règlements d’application du paragraphe (2), local d’incubation ou d’éclosion des oeufs. (*hatchery*)
 
-***déclarable*** Désigné comme tel par règlement ministériel.
+***déclarable*** Désigné comme tel par règlement ministériel. (*reportable*)
 
-French version only***détruire*** S’entend notamment d’abattre et d’enfouir.
+***détruire*** S’entend notamment d’abattre et d’enfouir. (***French version only***)
 
-***évaluateur*** L’évaluateur ou tout évaluateur adjoint nommé sous le régime de la partie II de la [Loi sur l’indemnisation du dommage causé par des pesticides](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-10.md).
+***document*** Tout support sur lequel sont enregistrés ou inscrits des éléments d’information pouvant être compris par une personne ou lus par un ordinateur ou tout autre dispositif. (*document*)
 
-***inspecteur*** Personne désignée à ce titre en application de l’article 32.
+***évaluateur*** L’évaluateur ou tout évaluateur adjoint nommé sous le régime de la partie II de la [Loi sur l’indemnisation du dommage causé par des pesticides](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-10.md). (*Assessor*)
 
-***juge de paix*** S’entend au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+***inspecteur*** Personne désignée à ce titre en application de l’article 32. (*inspector*)
 
-***lieu*** Y sont assimilés les véhicules.
+***juge de paix*** S’entend au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*justice*)
 
-***lieu contaminé*** Lieu qui constitue un lieu contaminé au titre des articles 22 ou 23 ou des règlements.
+***lieu*** Y sont assimilés les véhicules. (*place*)
 
-***maladie*** Les maladies déclarables et toute maladie animale ou transmissible par un animal à une personne; y sont assimilés les agents causant ces maladies.
+***lieu contaminé*** Lieu qui constitue un lieu contaminé au titre des articles 22 ou 23 ou des règlements. (*infected place*)
 
-***ministre*** Le ministre de l’Agriculture et de l’Agroalimentaire.
+***maladie*** Les maladies déclarables et toute maladie animale ou transmissible par un animal à une personne; y sont assimilés les agents causant ces maladies. (*disease*)
 
-***produit animal*** Notamment la crème, les oeufs et le lait; y sont assimilés les ovules non fécondés et le sperme.
+***ministre*** Le ministre de l’Agriculture et de l’Agroalimentaire. (*Minister*)
 
-***produit vétérinaire biologique*** Les helminthes, protozoaires et micro-organismes, les substances tirées de ceux-ci ou d’animaux, les mélanges de ces substances et les substances d’origine synthétique fabriqués, vendus ou proposés pour utilisation dans le rétablissement, la correction ou la modification des fonctions organiques des animaux ou dans le diagnostic, le traitement, l’atténuation ou la prévention d’une maladie, d’un trouble ou d’un état physique anormal des animaux, ou de leurs symptômes.
+***produit animal*** Notamment la crème, les oeufs et le lait; y sont assimilés les ovules non fécondés et le sperme. (*animal product*)
 
-***sanction*** Sanction administrative pécuniaire infligée pour une violation au titre de la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md).
+***produit biologique vétérinaire*** Helminthe, protozoaire ou micro-organisme, substance ou mélange de substances tirées de ceux-ci, d’animaux ou de plantes ou substance d’origine synthétique fabriqués, vendus ou proposés pour utilisation dans le rétablissement, la correction ou la modification des fonctions organiques des animaux ou dans le diagnostic, le traitement, l’atténuation ou la prévention d’une maladie, d’un trouble ou d’un état physique anormal des animaux, ou de leurs symptômes. (*veterinary biologic*)
 
-***sous-produit animal*** Notamment la chair, les abats et les issues, y compris les poils, plumes, sabots, cornes, peaux, cuir, laine, sang — de même que ses composants — et os, ainsi que toute chose contenant ces éléments.
+***produit vétérinaire biologique***[Abrogée, 2015, ch. 2, art. 84]
 
-***substance toxique*** Substance désignée comme telle par règlement ministériel.
+***sanction*** Sanction administrative pécuniaire infligée pour une violation au titre de la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md). (*penalty*)
 
-***usine de traitement*** Lieu où s’effectuent les opérations suivantes :
+***sous-produit animal*** Notamment la chair, les abats et les issues, y compris les poils, plumes, sabots, cornes, peaux, cuir, laine, sang — de même que ses composants — et os, ainsi que toute chose contenant ces éléments. (*animal by-product*)
+
+***substance toxique*** Substance désignée comme telle par règlement ministériel. (*toxic substance*)
+
+***usine de traitement*** Lieu où s’effectuent les opérations suivantes :
 - **a)** soit la transformation de sous-produits animaux en engrais ou aliments pour animaux ou en graisses ou huiles non destinées à la consommation humaine ou bien leur préparation ou traitement à de telles fins;
 - **b)** soit le stockage, l’emballage ou le marquage des substances résultant de l’une des opérations visées à l’alinéa a);
-- **c)** soit l’expédition de ces substances.
+- **c)** soit l’expédition de ces substances. (*rendering plant*)
 
-***vecteur*** Animal capable de transmettre, directement ou non, une maladie d’un animal — ou de ses excréments — à un autre.
+***vecteur*** Animal capable de transmettre, directement ou non, une maladie d’un animal — ou de ses excréments — à un autre. (*vector*)
 
-***véhicule*** Tout moyen de transport — notamment les aéronefs, voitures, véhicules à moteurs, remorques, wagons et navires — , y compris les conteneurs.
+***véhicule*** Tout moyen de transport — notamment les aéronefs, voitures, véhicules à moteurs, remorques, wagons et navires — , y compris les conteneurs. (*conveyance*)
 
-***vétérinaire-inspecteur*** Personne désignée à ce titre en application de l’article 32.
+***vétérinaire-inspecteur*** Personne désignée à ce titre en application de l’article 32. (*veterinary inspector*)
 
-***violation*** Contravention à la présente loi ou à ses règlements, ainsi que le refus ou l’omission d’accomplir une obligation imposée par la présente loi ou ses règlements, punissable sous le régime de la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md).
+***violation*** Contravention à la présente loi ou à ses règlements, ainsi que le refus ou l’omission d’accomplir une obligation imposée par la présente loi ou ses règlements, punissable sous le régime de la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md). (*violation*)
 
 **Règlements ministériels**
 
@@ -107,7 +111,7 @@ French version only***détruire*** S’entend notamment d’abattre et d’enfou
 **Incorporation par renvoi**
 
 - **(3)** La désignation des substances toxiques peut se faire en fonction de la quantité ou concentration de certains de leurs composants; en outre, il peut être précisé, dans les règlements ministériels incorporant par renvoi des listes de substances toxiques, qu’elles sont incorporées avec leurs modifications successives.
-> 1990, ch. 21, art. 2; 1994, ch. 38, art. 25; 1995, ch. 40, art. 54; 1997, ch. 6, art. 67; 2001, ch. 4, art. 173(F).
+> 1990, ch. 21, art. 2; 1994, ch. 38, art. 25; 1995, ch. 40, art. 54; 1997, ch. 6, art. 67; 2001, ch. 4, art. 173(F); 2015, ch. 2, art. 84.
 
 
 
@@ -151,16 +155,7 @@ French version only***détruire*** S’entend notamment d’abattre et d’enfou
 
 
 
-
-**Échantillons de lait ou de crème**
-
-**6** 
-
-- **(1)** Sur demande du ministre, l’exploitant d’une fromagerie, crèmerie ou laiterie fournit, selon les modalités réglementaires, des échantillons de lait ou de crème — avec la mention du troupeau producteur — pour examen par un inspecteur.
-
-**Prélèvements animaux et autres**
-
-- **(2)** Le propriétaire d’un animal ou de toute chose susceptibles d’être contaminés par une maladie déclarable ou une substance toxique ou la personne qui en a la possession, la responsabilité ou la charge des soins sont tenus de fournir, à la demande du ministre et selon les modalités réglementaires, des prélèvements ou des échantillons de ceux-ci, selon le cas.
+**6** [Abrogé, 2015, ch. 2, art. 85]
 
 
 
@@ -219,9 +214,20 @@ L’interdiction vise toute personne, qu’elle soit propriétaire ou non de l�
 
 
 
+**Ordre de rappel — [Loi sur l’Agence canadienne d’inspection des aliments](/fr/Lois/Lois%20du%20Canada/1997/ch.%206.md)**
+
+**11.1** Il est interdit à toute personne de vendre un animal ou une chose régis par la présente loi qui font l’objet d’un ordre de rappel donné en vertu du paragraphe 19(1) de la [Loi sur l’Agence canadienne d’inspection des aliments](/fr/Lois/Lois%20du%20Canada/1997/ch.%206.md).
+> 2015, ch. 2, art. 86.
+
+
+
+
+
 **Dépôt de cadavres dans l’eau**
 
-**12** Il est interdit de jeter ou déposer dans l’eau tout ou partie du cadavre d’un animal dont on sait qu’il était contaminé par une maladie déclarable ou une substance toxique au moment de sa mort ou qu’il y avait été exposé avant celle-ci, ou qui a été abattu pour cette raison ou parce qu’on le soupçonnait d’avoir été ainsi contaminé ou exposé.
+**12** Il est interdit à toute personne de jeter ou déposer dans l’eau tout ou partie du cadavre d’un animal dont elle sait qu’il était contaminé par une maladie ou une substance toxique au moment de sa mort ou qu’il y avait été exposé avant celle-ci, ou qui a été abattu pour cette raison ou parce qu’on le soupçonnait d’avoir été ainsi contaminé ou exposé.
+> 1990, ch. 21, art. 12; 2015, ch. 2, art. 87(F).
+
 
 
 
@@ -267,39 +273,67 @@ L’interdiction vise toute personne, qu’elle soit propriétaire ou non de l�
 
 **16** 
 
-- **(1)** L’importateur d’animaux, de produits ou sous-produits de ceux-ci, d’aliments pour animaux ou de produits vétérinaires biologiques, ainsi que de toute autre chose soit se rapportant aux animaux, soit contaminée par une maladie ou une substance toxique, les présente, au plus tard à l’importation, à un inspecteur, à un agent d’exécution ou à un agent des douanes qui peut les examiner lui-même ou les retenir jusqu’à ce que l’inspecteur ou l’agent d’exécution s’en charge.
+- **(1)** La personne qui importe des animaux, des produits ou sous-produits de ceux-ci, des aliments pour animaux ou des produits biologiques vétérinaires, ainsi que toute autre chose soit se rapportant aux animaux, soit contaminée par une maladie ou une substance toxique, les présente, au plus tard à l’importation, à un inspecteur, à un agent d’exécution ou à un agent des douanes qui peut les examiner lui-même ou les retenir jusqu’à ce que l’inspecteur ou l’agent d’exécution s’en charge.
 
 **Règlements**
 
 - **(2)** Le ministre peut, par règlement, soustraire tout animal ou toute chose à l’application du présent article et prévoir les modalités de présentation pour inspection.
+> 1990, ch. 21, art. 16; 2015, ch. 2, art. 88(F).
 
 
 
 
-**Confiscation d’animaux importés illégalement**
 
-**17** En cas d’importation — ou de tentative d’importation — en contravention avec la présente loi ou les règlements, les animaux ou choses en cause sont, sous réserve de l’article 18, confisqués au profit de Sa Majesté du chef du Canada; il peut en être disposé, notamment par destruction, conformément aux instructions du ministre.
+**Confiscation d’animaux ou de choses importés**
+
+**17** Si le ministre constate qu’il y a eu importation — ou tentative d’importation — d’animaux ou de choses en contravention avec la présente loi ou les règlements ou qu’une exigence imposée sous le régime d’un règlement relativement à des animaux ou à des choses importés n’a pas été respectée, les animaux ou choses en cause sont, sous réserve de l’article 18, confisqués au profit de Sa Majesté du chef du Canada; il peut en être disposé, notamment par destruction, conformément aux instructions du ministre.
+> 1990, ch. 21, art. 17; 2015, ch. 2, art. 89.
 
 
 
 
-**Ordre de renvoi**
+
+**Retrait ou destruction d’importations illégales**
 
 **18** 
 
-- **(1)** S’il a des motifs raisonnables de croire qu’un animal ou une chose importés au Canada soit l’ont été en contravention avec la présente loi ou les règlements, soit sont contaminés par une maladie ou une substance toxique, ou sont susceptibles de l’être, soit encore sont des vecteurs, l’inspecteur ou l’agent d’exécution peut ordonner à leur propriétaire ou à la personne qui en a la possession, la responsabilité ou la charge des soins de les renvoyer à l’étranger, même quand ils ont été saisis.
+- **(1)** S’il a des motifs raisonnables de croire qu’un animal ou une chose ont été importés en contravention avec la présente loi ou des règlements, qu’un animal ou une chose importés sont contaminés par une maladie ou une substance toxique, ou sont susceptibles de l’être, ou encore sont un vecteur ou qu’une exigence imposée sous le régime d’un règlement relativement à un animal ou à une chose importés n’a pas été respectée, l’inspecteur ou l’agent d’exécution peut, par avis, qu’il y ait eu ou non saisie de l’animal ou de la chose, ordonner à leur propriétaire, à la personne qui les a importés ou à celle qui en a la possession, la responsabilité ou la charge de les retirer du Canada ou, si le retrait est impossible, de prendre toute mesure de disposition — notamment de destruction — à leur égard.
 
 **Avis**
 
-- **(2)** L’ordre est signifié au propriétaire ou à la personne concernée, soit à personne, soit par envoi postal ou autre, sous forme d’avis en précisant éventuellement le délai ou les modalités d’exécution.
-
-**Présomption**
-
-- **(3)** L’animal ou la chose visés par l’ordre sont censés ne pas avoir été confisqués au titre de l’article 17.
+- **(2)** L’avis est remis en personne au propriétaire ou à la personne en cause ou est envoyé sous pli recommandé à son adresse au Canada.
 
 **Confiscation**
 
-- **(4)** En cas d’inexécution de l’ordre, l’animal ou la chose visés sont, malgré l’article 45, confisqués au profit de Sa Majesté du chef du Canada et il peut en être disposé — notamment par destruction — conformément aux instructions du ministre.
+- **(3)** Malgré le paragraphe 45(1), l’animal ou la chose qui ne sont pas retirés du Canada ou dont il n’a pas été disposé dans le délai fixé dans l’avis ou, à défaut d’indication de délai, dans les quatre-vingt-dix jours suivant la date à laquelle l’avis a été remis ou envoyé sont confisqués au profit de Sa Majesté du chef du Canada; il peut dès lors en être disposé conformément aux instructions du ministre.
+
+**Suspension de l’application du paragraphe (3)**
+
+- **(4)** L’inspecteur ou l’agent d’exécution peut suspendre l’application du paragraphe (3) pour la période qu’il précise, s’il est convaincu de ce qui suit :
+	- **a)** il est improbable qu’un préjudice à la santé humaine ou animale ou, s’agissant d’un produit biologique vétérinaire, à l’environnement en résulte;
+	- **b)** l’animal ou la chose ne seront pas vendus pendant cette période;
+	- **c)** les mesures qui auraient dû être prises pour que l’animal ou la chose ne soient pas importés en contravention avec les dispositions de la présente loi ou des règlements seront prises au cours de la période;
+	- **d)** si l’animal ou la chose ne sont pas conformes aux exigences des règlements, ils seront rendus conformes à ces exigences au cours de la période.
+
+**Annulation**
+
+- **(5)** L’inspecteur ou l’agent d’exécution peut annuler l’avis s’il est convaincu de ce qui suit :
+	- **a)** il est improbable qu’un préjudice à la santé humaine ou animale ou, s’agissant d’un produit biologique vétérinaire, à l’environnement en résulte;
+	- **b)** l’animal ou la chose visés dans l’avis n’ont pas été vendus pendant la période prévue au paragraphe (6);
+	- **c)** les mesures visées à l’alinéa (4)c) ont été prises au cours de la période;
+	- **d)** si l’animal ou la chose n’étaient pas conformes aux exigences des règlements au moment où ils ont été importés, ils ont été rendus conformes à ces exigences au cours de la période.
+
+**Période**
+
+- **(6)** La période en cause est la suivante :
+	- **a)** dans le cas où l’application du paragraphe (3) a été suspendue en vertu du paragraphe (4), la période de la suspension;
+	- **b)** dans le cas contraire, la période correspondant au délai fixé dans l’avis ou, à défaut d’indication de délai, aux quatre-vingt-dix jours suivant la date à laquelle l’avis a été remis ou envoyé.
+
+**Non-application de l’article 17**
+
+- **(7)** L’article 17 ne s’applique pas à l’animal ou à la chose visés par l’ordre.
+> 1990, ch. 21, art. 18; 2015, ch. 2, art. 89.
+
 
 
 
@@ -682,9 +716,17 @@ Elle doit plutôt, en ce qui concerne les ports énumérés ci-dessus, être int
 
 
 
-**Arrestation des contrevenants**
+**Fourniture de documents, de renseignements ou d’échantillons**
 
-**36** Dans le but de faire observer la présente loi et les règlements, l’inspecteur ou l’agent d’exécution peut exercer les pouvoirs d’arrestation conférés à un agent de la paix par le paragraphe 495(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), sous réserve que les conditions d’application de celui-ci soient réunies, auquel cas il peut se prévaloir du paragraphe 495(3) de cette loi.
+**36** 
+
+- **(1)** L’inspecteur ou l’agent d’exécution peut, afin de vérifier l’existence de maladies ou de substances toxiques ou à toute fin liée à la vérification du respect ou à la prévention du non-respect de la présente loi, ordonner à toute personne de lui fournir, aux date, heure et lieu et de la façon qu’il précise, les documents, renseignements ou échantillons qu’il précise.
+
+**Obligation de fournir des documents, renseignements ou échantillons**
+
+- **(2)** Toute personne à qui l’inspecteur ou l’agent d’exécution ordonne de fournir des documents, renseignements ou échantillons a l’obligation de les lui fournir aux date, heure et lieu précisés et de la façon précisée.
+> 1990, ch. 21, art. 36; 2015, ch. 2, art. 90.
+
 
 
 
@@ -716,7 +758,7 @@ Elle doit plutôt, en ce qui concerne les ports énumérés ci-dessus, être int
 
 **38** 
 
-- **(1)** Afin de vérifier l’existence de maladie ou de produit toxique ou d’assurer l’observation de la présente loi et des règlements, l’inspecteur ou l’agent d’exécution peut :
+- **(1)** Afin de vérifier l’existence de maladies ou de substances toxiques ou à toute fin liée à la vérification du respect ou à la prévention du non-respect de la présente loi, l’inspecteur ou l’agent d’exécution peut :
 	- **a)** sous réserve de l’article 39, procéder, à toute heure convenable, à la visite de tout lieu — et à cette fin, à l’immobilisation d’un véhicule — où se trouvent, à son avis, des animaux ou des choses visés par cette loi ou ces règlements;
 	- **b)** ouvrir tout contenant — bagages, récipient, emballage, cage ou autre — qui, à son avis, contient de telles choses;
 	- **c)** exiger la présentation, pour examen, de tout animal ou de toute chose selon les modalités et aux conditions qu’il précise;
@@ -727,10 +769,12 @@ L’avis de l’inspecteur ou de l’agent d’exécution doit être fondé sur 
 
 **Usage du système informatique**
 
-- **(2)** L’inspecteur ou l’agent d’exécution peut, lors de sa visite :
+- **(2)** L’inspecteur ou l’agent d’exécution peut, lors de sa visite :
 	- **a)** faire usage de tout système informatique se trouvant dans le lieu pour vérifier les données qu’il contient ou auxquelles il donne accès;
 	- **b)** à partir de ces données, reproduire le document sous forme d’imprimé ou toute autre forme intelligible qu’il peut emporter pour examen ou reproduction;
 	- **c)** faire usage du matériel de reproduction du lieu.
+> 1990, ch. 21, art. 38; 2015, ch. 2, art. 91.
+
 
 
 
@@ -828,11 +872,11 @@ L’avis de l’inspecteur ou de l’agent d’exécution doit être fondé sur 
 
 
 
-**Rétention**
+**Mainlevée de saisie**
 
 **45** 
 
-- **(1)** Sauf en cas de poursuite où elle peut se prolonger jusqu’à l’issue définitive de l’affaire, la rétention des biens saisis — ou du produit de leur aliénation — prend fin soit après la constatation, par l’inspecteur ou l’agent d’exécution, de leur conformité avec la présente loi et les règlements, soit à l’expiration d’un délai de cent quatre-vingts jours à compter de la date de la saisie ou du délai plus long fixé par règlement.
+- **(1)** Si l’inspecteur ou l’agent d’exécution est convaincu que les dispositions de la présente loi et des règlements applicables aux biens saisis en vertu de la présente loi ont été respectées, il est donné mainlevée de la saisie.
 
 **Demande de restitution**
 
@@ -841,7 +885,7 @@ L’avis de l’inspecteur ou de l’agent d’exécution doit être fondé sur 
 **Ordonnance de restitution**
 
 - **(3)** La juridiction peut faire droit à la demande, sous réserve des conditions jugées utiles pour assurer la conservation des biens dans un but ultérieur, si elle est convaincue que, d’une part, il existe ou peut être obtenu suffisamment d’éléments de preuve pour rendre inutile la rétention des biens et, d’autre part, ceux-ci ne sont pas contaminés par une maladie ou une substance toxique ni soupçonnés de l’être.
-> 1990, ch. 21, art. 45; 1995, ch. 40, art. 57.
+> 1990, ch. 21, art. 45; 1995, ch. 40, art. 57; 2015, ch. 2, art. 92.
 
 
 
@@ -862,11 +906,11 @@ L’avis de l’inspecteur ou de l’agent d’exécution doit être fondé sur 
 
 
 
-**Disposition des choses confisquées**
+**Disposition des biens confisqués**
 
 **47** 
 
-- **(1)** Dans le cas où, à l’issue de poursuites intentées dans les délais prévus au paragraphe 45(1), la Commission ou le tribunal, selon qu’il s’agit d’une violation ou d’une infraction, ordonne la confiscation des biens saisis et retenus, il en est disposé — notamment par destruction — conformément aux instructions du ministre.
+- **(1)** Si une ordonnance de confiscation est rendue en vertu du paragraphe 46(1), il est disposé des biens confisqués — notamment par destruction — conformément aux instructions du ministre.
 
 **Restitution**
 
@@ -874,11 +918,11 @@ L’avis de l’inspecteur ou de l’agent d’exécution doit être fondé sur 
 
 **Exception**
 
-- **(3)** En cas de détermination de responsabilité pour violation ou de déclaration de culpabilité pour infraction de leur propriétaire ou de la dernière personne à en avoir eu la possession, la responsabilité ou la charge des soins :
+- **(3)** En cas de détermination de responsabilité pour violation ou de déclaration de culpabilité pour infraction de leur propriétaire ou de la dernière personne à en avoir eu la possession, la responsabilité ou la charge des soins :
 	- **a)** la rétention des biens peut être prolongée jusqu’au paiement du montant de la sanction ou de l’amende infligée;
 	- **b)** les biens peuvent être aliénés par adjudication forcée;
 	- **c)** le produit de l’aliénation prévue à l’alinéa b) ou à l’article 43 peut être affecté au paiement de la sanction ou de l’amende.
-> 1990, ch. 21, art. 47; 1995, ch. 40, art. 59.
+> 1990, ch. 21, art. 47; 1995, ch. 40, art. 59; 2015, ch. 2, art. 93.
 
 
 
@@ -927,7 +971,18 @@ L’avis de l’inspecteur ou de l’agent d’exécution doit être fondé sur 
 
 **Non-responsabilité de Sa Majesté**
 
-**50** Sa Majesté n’est pas tenue des pertes, dommages ou frais — loyers ou droits — entraînés par l’exécution des obligations découlant de la présente loi ou des règlements, notamment celle de fournir des terrains, locaux, laboratoires ou autres installations et d’en assurer l’entretien au titre de l’article 31.
+**50** Sa Majesté du chef du Canada n’est pas tenue responsable des pertes, dommages ou frais — notamment loyers ou droits — entraînés par l’exécution des obligations imposées sous le régime de la présente loi.
+> 1990, ch. 21, art. 50; 2015, ch. 2, art. 94.
+
+
+
+
+
+**Immunité judiciaire**
+
+**50.1** Toute personne qui exerce des attributions sous le régime de la présente loi bénéficie de l’immunité judiciaire pour les faits — actes ou omissions — accomplis de bonne foi dans l’exercice de ces attributions.
+> 2015, ch. 2, art. 94.
+
 
 
 
@@ -1125,19 +1180,19 @@ L’avis de l’inspecteur ou de l’agent d’exécution doit être fondé sur 
 
 **64** 
 
-- **(1)** Le gouverneur en conseil peut, par règlement, prendre des mesures visant à protéger la santé des personnes et des animaux par la lutte contre les maladies et les substances toxiques ou leur élimination, ainsi que toute autre mesure d’application de la présente loi et, notamment :
-	- **a)** régir ou interdire l’importation, l’exportation ou la possession d’animaux ou de choses, afin d’empêcher l’introduction de vecteurs, de maladies ou de substances toxiques soit au Canada, soit dans tout autre pays en provenance du Canada;
+- **(1)** Le gouverneur en conseil peut, par règlement, prendre des mesures visant à protéger la santé des personnes et des animaux par la lutte contre les maladies et les substances toxiques ou leur élimination, ainsi que toute autre mesure d’application de la présente loi et, notamment :
+	- **a)** régir ou interdire l’importation, l’exportation et la possession d’animaux ou de choses, afin d’empêcher l’introduction de vecteurs, de maladies ou de substances toxiques soit au Canada, soit dans tout autre pays en provenance du Canada;
 	- **b)** prévoir la prise de toute mesure de disposition — notamment la mise en quarantaine ou la destruction — d’animaux ou de choses susceptibles de transmettre une maladie ou une substance toxique, à leur arrivée au Canada;
 	- **c)** exiger la preuve que des animaux importés ou en transit au Canada ne proviennent pas d’un lieu marqué par la présence, au moment de leur embarquement, d’une maladie ou d’une substance toxique;
 	- **d)** régir ou interdire l’introduction de déchets au Canada et régir leur manutention et leur élimination, une fois qu’ils y ont été introduits;
 	- **e)** prévoir l’utilisation des compartiments à produits alimentaires sur les navires, dans les eaux canadiennes, afin d’empêcher l’introduction de maladies ou de substances toxiques au Canada;
-	- **f)** contrôler, éliminer, empêcher la propagation de vecteurs, de maladies et de substances toxiques et prendre toute mesure — notamment l’isolation, la mise en quarantaine, le traitement ou la destruction — à l’égard de telles substances ainsi que des animaux ou choses qui :
+	- **f)** contrôler, éliminer, empêcher la propagation de vecteurs, de maladies et de substances toxiques et prendre toute mesure — notamment l’isolation, la mise en quarantaine, le traitement ou la destruction — à l’égard de telles substances ainsi que des animaux ou choses qui :
 		- **(i)** soit sont contaminés par une maladie ou une telle substance, ou sont soupçonnés de l’être,
 		- **(ii)** soit ont été en contact avec des animaux ou choses de la catégorie visée au sous-alinéa (i) ou se sont trouvés dans leur voisinage immédiat,
 		- **(iii)** soit sont des vecteurs, des agents causant des maladies ou des substances toxiques, ou soupçonnés d’en être;
 	- **g)** faire isoler et parquer les animaux dans certaines limites, instituer des zones d’inspection ou de quarantaine et établir des zones d’éradication dans lesquelles les animaux pourront être examinés, isolés et soumis à des tests relativement aux maladies ou aux produits toxiques;
 	- **h)** régir ou interdire le déplacement, au Canada, soit d’animaux, de leurs produits, sous-produits et aliments, de vecteurs, d’agents causant des maladies ainsi que de fourrage, soit d’autres choses se rapportant aux animaux et susceptibles d’être contaminées par une maladie ou une substance toxique;
-	- **i)** empêcher que les animaux soient maltraités, notamment en :
+	- **i)** empêcher que les animaux soient maltraités, notamment en :
 		- **(i)** régissant leur garde, y compris les soins à leur donner et les mesures concernant leur disposition,
 		- **(ii)** régissant leur transport tant à l’intérieur qu’à destination ou en provenance du Canada,
 		- **(iii)** prévoyant le traitement, la destruction ou toute autre forme de disposition des animaux gardés ou transportés dans des conditions inacceptables;
@@ -1147,29 +1202,48 @@ L’avis de l’inspecteur ou de l’agent d’exécution doit être fondé sur 
 	- **m)** faire donner avis de l’apparition d’une maladie ou d’une substance toxique chez les animaux, ou imposer une telle obligation;
 	- **n)** interdire ou régir la tenue de marchés, foires, expositions ou ventes d’animaux;
 	- **o)** soustraire, à certaines conditions, des maladies ou des substances toxiques à l’application de certaines dispositions de la présente loi ou des règlements, et prendre des mesures à leur égard;
+	- **o.1)** exempter de l’application de la présente loi ou des règlements ou de telle de leurs dispositions, avec ou sans conditions, tout animal ou toute chose ou toute personne ou activité relativement à des animaux ou des choses;
 	- **p)** régir l’exploitation des zoos et des entreprises d’élevage de gibier;
 	- **q)** fixer, en matière de semences et d’embryons animaux, les modes de collecte, de stockage et de distribution ainsi que les normes d’hygiène et de salubrité applicables aux établissements se livrant à ces activités de même qu’à la congélation et au conditionnement;
 	- **r)** régir ou interdire les analyses ou tests de dépistage de maladie;
-	- **s)** régir ou interdire l’importation, la préparation, la fabrication, la conservation, le conditionnement, le stockage, l’analyse, le transport, la vente — y compris les conditions de celle-ci et la publicité afférente — , l’utilisation et la disposition — notamment par destruction — de produits vétérinaires biologiques, et régir leur pureté, innocuité, puissance et efficacité;
+	- **s)** régir ou interdire l’importation, l’exportation, la préparation, la fabrication, la conservation, l’emballage, l’étiquetage, le stockage, l’analyse, le transport, la vente — notamment les conditions de celle-ci et la publicité afférente —, l’utilisation et la disposition — notamment par destruction — de produits biologiques vétérinaires, et régir leur pureté, innocuité, puissance et efficacité;
+	- **s.1)** régir des programmes de gestion ou de contrôle de la qualité, des programmes de salubrité, des plans de contrôle préventif ou d’autres programmes ou plans semblables à mettre en oeuvre par les personnes exerçant une activité régie par la présente loi;
 	- **t)** régir ou interdire l’utilisation, dans l’alimentation des animaux, de toute chose pouvant leur transmettre une maladie ou une substance toxique ou en favoriser la propagation;
 	- **u)** régir la construction, l’exploitation et l’entretien des ateliers d’équarrissage et des usines de traitement ou d’aliments pour animaux;
-	- **v)** régir l’importation, la préparation, la fabrication, la conservation, le conditionnement, le stockage, la distribution, la vente — y compris les conditions de celle-ci et la publicité afférente — des produits de ces ateliers et usines;
+	- **v)** régir l’importation, l’exportation, la préparation, la fabrication, la conservation, l’emballage, l’étiquetage, le stockage, la distribution, la vente — notamment les conditions de celle-ci et la publicité afférente — des produits de ces ateliers et usines;
 	- **w)** régir l’attribution, le renouvellement, la modification, la suspension et la révocation de permis, licences, autorisations, certificats ou autres documents, aux conditions qu’il peut fixer pour l’application de la présente loi;
+	- **w.1)** exiger de certaines personnes qu’elles prélèvent ou conservent des échantillons de tout animal ou de toute chose, qu’elles les fournissent au ministre, à l’inspecteur ou à l’agent d’exécution ou qu’elles les rendent accessibles à ceux-ci, et régir la manière de les prélever, de les conserver, de les fournir ou de les rendre accessibles;
 	- **x)** pour l’application de la présente loi, imposer le marquage — notamment au moyen d’un sceau — d’animaux ou de choses ou l’apposition sur ceux-ci d’une étiquette ou de tout autre moyen d’identification, autoriser les inspecteurs ou les agents d’exécution à y procéder et interdire l’enlèvement, le bris ou la modification de ces marques, sceaux, étiquettes ou autres moyens d’identification;
 	- **y)** établir et appliquer un système national d’identification des animaux qui prévoit des normes et des moyens pour les identifier;
 	- **z)** exiger l’identification des animaux conformément au système prévu à l’alinéa y) en cas de changement de propriétaire ou de possesseur ou à l’occasion de leur transport ou de toute mesure prise à leur égard;
 	- **z.1)** régir la fabrication, la vente, la distribution ou l’utilisation de tout moyen d’identification prévu à l’alinéa y);
 	- **z.2)** régir la collecte de données — statistiques et autres — , la publication d’études et la réalisation d’enquêtes ou de sondages concernant toute question liée à la présente loi ou aux règlements;
-	- **z.3)** exiger la tenue de registres relatifs aux activités régies par la présente loi ou les règlements;
+	- **z.3)** exiger de certaines personnes qu’elles établissent, conservent ou tiennent à jour des documents, qu’elles les fournissent au ministre, à l’inspecteur ou à l’agent d’exécution ou qu’elles les rendent accessibles à ceux-ci, et régir la teneur de ces documents, la manière de les établir, de les conserver, de les tenir à jour, de les fournir ou de les rendre accessibles et le lieu où ils sont conservés ou tenus à jour;
 	- **z.31)** exiger la fourniture au ministre ou à toute autre personne autorisée par le ministre, selon les modalités que le ministre ou cette personne exigent, des renseignements relatifs aux animaux ou aux choses visés par la présente loi ou les règlements, notamment des renseignements sur leur déplacement, les évènements qui les concernent et les lieux où ils se trouvent ou se sont trouvés;
 	- **z.32)** régir l’identification des lieux à l’égard desquels des renseignements doivent être fournis au titre des règlements pris en vertu de l’alinéa z.31);
 	- **z.33)** régir ou interdire l’utilisation ou la communication de renseignements fournis au titre des règlements pris en vertu de l’un des alinéas y) à z.1) et z.31);
 	- **z.4)** fixer tous droits et redevances exigibles dans le cadre de la présente loi et des règlements, ou leur mode de détermination;
 	- **z.5)** prendre toute autre mesure d’ordre réglementaire prévue par la présente loi et non réservée au ministre.
 
+**Alinéa (1)a) — désignation de maladies**
+
+- **(1.1)** Les règlements pris en vertu de l’alinéa (1)a) peuvent notamment autoriser le ministre à désigner, par avis, des maladies pour l’application de ces règlements.
+
+**Non-application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+- **(1.2)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas aux avis donnés par le ministre en vertu d’un règlement pris en vertu de l’alinéa (1)a).
+
+**Alinéa (1)a) — importation d’animaux ou de choses**
+
+- **(1.3)** Les règlements pris en vertu de l’alinéa (1)a) qui régissent l’importation d’animaux ou de choses peuvent régir ceux-ci après leur importation.
+
+**Alinéa (1)z.3)**
+
+- **(1.4)** Les règlements pris en vertu de l’alinéa (1)z.3) peuvent notamment exiger des personnes exerçant une activité régie par la présente loi qui prennent connaissance du fait qu’un sous-produit animal, un aliment pour animaux, un produit animal, un produit d’usine de traitement ou un produit biologique vétérinaire présente un risque de préjudice à la santé humaine ou animale ou à l’environnement ou ne satisfait pas aux exigences des règlements qu’elles fournissent un avis écrit à cet effet au ministre, à l’inspecteur ou à l’agent d’exécution.
+
 **Règlements sur les volatiles**
 
-- **(2)** Le gouverneur en conseil peut prendre des règlements en vue, d’une part, du maintien ou de l’amélioration de la qualité des espèces de volatiles, d’autre part, de la lutte contre les maladies et les substances toxiques ou leur élimination chez les volatiles, et notamment pour :
+- **(2)** Le gouverneur en conseil peut prendre des règlements en vue, d’une part, du maintien ou de l’amélioration de la qualité des espèces de volatiles, d’autre part, de la lutte contre les maladies et les substances toxiques ou leur élimination chez les volatiles, et notamment pour :
 	- **a)** régir la production, la commercialisation et la distribution de volatiles et d’oeufs d’incubation;
 	- **b)** régir ou interdire le transport des volatiles et d’oeufs d’incubation;
 	- **c)** exiger des exploitants de couvoirs qu’ils enregistrent chaque année, auprès du ministre, les noms et adresses de leurs agents pour la commercialisation des volatiles provenant de leur établissement;
@@ -1183,7 +1257,56 @@ L’avis de l’inspecteur ou de l’agent d’exécution doit être fondé sur 
 **Définitions de volatiles et poussins**
 
 - **(4)** Dans les paragraphes (2) et (3), ***volatiles*** s’entend des oiseaux en captivité ou l’ayant été et ***poussins*** des volatiles âgés de moins de soixante-douze heures.
-> 1990, ch. 21, art. 64; 1993, ch. 34, art. 76; 2012, ch. 19, art. 512(F), ch. 24, art. 94.
+> 1990, ch. 21, art. 64; 1993, ch. 34, art. 76; 2012, ch. 19, art. 512(F), ch. 24, art. 94; 2015, ch. 2, art. 95.
+
+
+
+
+
+## Incorporation par renvoi
+
+
+
+**Incorporation par renvoi**
+
+**64.1** 
+
+- **(1)** Les règlements pris en vertu de l’article 64 peuvent incorporer par renvoi tout document, indépendamment de sa source, soit dans sa version à une date donnée, soit avec ses modifications successives.
+
+**Accessibilité**
+
+- **(2)** Le ministre veille à ce que tout document incorporé par renvoi dans les règlements pris en vertu de l’article 64 ainsi que ses modifications ultérieures soient accessibles.
+
+**Ni déclaration de culpabilité ni sanction administrative**
+
+- **(3)** Aucune déclaration de culpabilité ni aucune sanction administrative ne peut découler d’une contravention faisant intervenir un document qui est incorporé par renvoi dans les règlements pris en vertu de l’article 64 et qui se rapporte au fait reproché, sauf si, au moment de ce fait, le document était accessible en application du paragraphe (2) ou était autrement accessible à la personne en cause.
+
+**Ni enregistrement ni publication**
+
+- **(4)** Il est entendu que les documents qui sont incorporés par renvoi dans les règlements pris en vertu de l’article 64 n’ont pas à être transmis pour enregistrement ni à être publiés dans la Gazette du Canada du seul fait de leur incorporation.
+> 2015, ch. 2, art. 96.
+
+
+
+
+
+## Dispositions générales
+
+
+
+**Prise en compte de renseignements**
+
+**64.2** Lorsqu’il procède à l’examen d’une demande présentée en vertu des règlements relativement à un animal ou à une chose, le ministre peut prendre en compte les renseignements obtenus d’un examen ou d’une évaluation d’animaux ou de choses effectué par l’administration d’un État étranger ou d’une de ses subdivisions ou par une organisation internationale d’États ou une association d’États.
+> 2015, ch. 2, art. 96.
+
+
+
+
+
+**Non-application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+**64.3** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas aux avis visés à l’article 66.
+> 2015, ch. 2, art. 96.
 
 
 
@@ -1234,13 +1357,9 @@ L’avis de l’inspecteur ou de l’agent d’exécution doit être fondé sur 
 
 **Prescription**
 
-**68** 
+**68** Les poursuites visant une infraction à la présente loi punissable sur déclaration de culpabilité par procédure sommaire se prescrivent par deux ans à compter de sa perpétration.
+> 1990, ch. 21, art. 68; 2015, ch. 2, art. 97.
 
-- **(1)** Les poursuites visant une infraction à la présente loi punissable sur déclaration de culpabilité par procédure sommaire se prescrivent par deux ans à compter de la date à laquelle le ministre a eu connaissance des éléments constitutifs de l’infraction.
-
-**Certificat du ministre**
-
-- **(2)** Le certificat censé délivré par le ministre et attestant la date à laquelle ces éléments sont parvenus à sa connaissance est admis en preuve sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire; sauf preuve contraire, il fait foi de son contenu.
 
 
 
@@ -1262,16 +1381,20 @@ Le règlement d’application du présent article fixe pour chaque infraction, d
 
 
 
-**Responsabilité pénale des dirigeants de personnes morales**
+**Participants à l’infraction**
 
-**71** En cas de perpétration par une personne morale d’une infraction à la présente loi, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de l’infraction et encourent, sur déclaration de culpabilité, la peine prévue, que la personne morale ait été ou non poursuivie ou déclarée coupable.
+**71** En cas de perpétration d’une infraction à la présente loi par toute personne autre qu’un individu, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé sont considérés comme des coauteurs de l’infraction et encourent, sur déclaration de culpabilité, la peine prévue, que la personne ait été ou non poursuivie.
+> 1990, ch. 21, art. 71; 2015, ch. 2, art. 98.
 
 
 
 
-**Infraction commise par un agent ou un mandataire**
 
-**72** Dans les poursuites pour infraction à la présente loi, il suffit, pour prouver l’infraction, d’établir qu’elle a été commise par un agent ou un mandataire de l’accusé, que cet agent ou mandataire ait été ou non identifié ou poursuivi. L’accusé peut se disculper en prouvant que la perpétration a eu lieu à son insu ou sans son consentement et qu’il avait pris les mesures nécessaires pour l’empêcher.
+**Preuve**
+
+**72** Dans les poursuites pour infraction à la présente loi, il suffit, pour établir la culpabilité de l’accusé, de prouver que l’infraction a été commise par son employé ou mandataire, que celui-ci soit ou non identifié ou poursuivi. L’accusé peut se disculper en prouvant que la perpétration a eu lieu à son insu ou sans son consentement et qu’il avait pris toutes les précautions voulues pour la prévenir.
+> 1990, ch. 21, art. 72; 2015, ch. 2, art. 98.
+
 
 
 
