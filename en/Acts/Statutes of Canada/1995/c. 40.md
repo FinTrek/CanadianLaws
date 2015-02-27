@@ -37,16 +37,20 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** In this Act,
 
-***agri-food Act*** means the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md), the [Farm Debt Mediation Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2021.md), the [Feeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-9.md), the [Fertilizers Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-10.md), the [Health of Animals Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2021.md), the [Meat Inspection Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2025%20(1st%20Supp.).md), the [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md), the [Plant Protection Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2022.md) or the [Seeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-8.md);
+***agri-food Act*** means the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md), the [Farm Debt Mediation Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2021.md), the [Feeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-9.md), the [Fertilizers Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-10.md), the [Health of Animals Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2021.md), the [Meat Inspection Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2025%20(1st%20Supp.).md), the [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md), the [Plant Protection Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2022.md) or the [Seeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-8.md); (*loi agroalimentaire*)
 
- ***Minister*** means the Minister of Agriculture and Agri-Food, except that, in relation to a violation involving a contravention of the [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md) , it means the Minister of Health;
+***Minister*** means the Minister of Agriculture and Agri-Food, except that 
+- **(a)** it means the Minister of Health in relation to a violation involving a contravention of
+	- **(i)** the [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md), or
+	- **(ii)** a provision relating to food safety of an agri-food Act or of a regulation made under such an Act, and
+- **(b)** it means the Minister of Public Safety and Emergency Preparedness in relation to a notice of violation issued in respect of the contravention of program legislation referred to in subsection 11(5) of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md); (*ministre*)
 
-***penalty*** means an administrative monetary penalty imposed under this Act for a violation;
+***penalty*** means an administrative monetary penalty imposed under this Act for a violation; (*sanction*)
 
-Version anglaise seulement***prescribed*** means prescribed by regulation;
+***prescribed*** means prescribed by regulation; (***Version anglaise seulement***)
 
-***Tribunal*** means the Review Tribunal continued by subsection 4.1(1) of the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md).
-> 1995, c. 40, s. 2; 1997, c. 21, s. 30; 2002, c. 28, s. 82; 2005, c. 38, ss. 30, 145.
+***Tribunal*** means the Review Tribunal continued by subsection 4.1(1) of the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md). (*Commission*)
+> 1995, c. 40, s. 2; 1997, c. 21, s. 30; 2002, c. 28, s. 82; 2005, c. 38, ss. 30, 145; 2015, c. 2, s. 113.
 
 
 
@@ -78,6 +82,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 		- **(iii)** the refusal or neglect to perform any specified duty, or class of duties, imposed by or under the [Plant Protection Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2022.md) or the [Health of Animals Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2021.md),
 if the contravention, or the failure or neglect to perform the duty, as the case may be, is an offence under an agri-food Act;
 	- **(b)** classifying each violation as a minor violation, a serious violation or a very serious violation;
+	- **(b.1)** establishing, in respect of each violation, a short-form description to be used in notices of violation;
 	- **(c)** fixing a penalty, or a range of penalties, in respect of each violation;
 	- **(d)** respecting the circumstances under which, the criteria by which and the manner in which a penalty may be increased or reduced, including the reduction of a penalty pursuant to a compliance agreement under subsection 10(1);
 	- **(e)** respecting the determination of a lesser amount that may be paid in complete satisfaction of a penalty if paid within the prescribed time and manner;
@@ -90,7 +95,7 @@ if the contravention, or the failure or neglect to perform the duty, as the case
 
 - **(2)** The maximum penalty for a violation is
 	- **(a)** in the case of a violation that is committed by an individual otherwise than in the course of a business and that is not committed to obtain a financial benefit, $2,000; and
-	- **(b)** in any other case, $2,000 for a minor violation, $10,000 for a serious violation and $15,000 for a very serious violation.
+	- **(b)** in any other case, $5,000 for a minor violation, $15,000 for a serious violation and $25,000 for a very serious violation.
 
 **Criteria**
 
@@ -98,6 +103,8 @@ if the contravention, or the failure or neglect to perform the duty, as the case
 	- **(a)** the degree of intention or negligence on the part of the person who committed the violation;
 	- **(b)** the harm done by the violation; and
 	- **(c)** the history of the person who committed the violation of prior violations or convictions under agri-food Acts within the five year period immediately before the violation.
+> 1995, c. 40, s. 4; 2015, c. 2, s. 114.
+
 
 
 
@@ -109,11 +116,11 @@ if the contravention, or the failure or neglect to perform the duty, as the case
 
 
 
-**Duties of Minister re notices of violation**
+**Power of Minister — notices of violation**
 
-**6** The Minister may
-- **(a)** designate persons, or classes of persons, who are authorized to issue notices of violation; and
-- **(b)** establish, in respect of each violation, a short-form description to be used in notices of violation.
+**6** The Minister may designate persons, or classes of persons, who are authorized to issue notices of violation.
+> 1995, c. 40, s. 6; 2015, c. 2, s. 115.
+
 
 
 
@@ -134,7 +141,7 @@ the contravention of which, or the refusal or neglect of which, is designated to
 
 **Issuance of notice of violation**
 
-- **(2)** Where a person designated under paragraph 6(a) has reasonable grounds to believe that a person has committed a violation, the designated person may issue, and shall cause to be served on the person, a notice of violation that names the person, identifies the violation and
+- **(2)** If a person designated under section 6 has reasonable grounds to believe that a person has committed a violation, the designated person may issue, and shall cause to be served on the person, a notice of violation that names the person, identifies the violation and
 	- **(a)** contains a warning that the person has committed a violation; or
 	- **(b)** sets out
 		- **(i)** the penalty, established in accordance with the regulations, for the violation that the person is liable to pay,
@@ -144,6 +151,8 @@ the contravention of which, or the refusal or neglect of which, is designated to
 **Summary of rights**
 
 - **(3)** A notice of violation must clearly summarize, in plain language, the rights and obligations under this Act of the person on whom it is served, including the right to have the facts of the violation reviewed by the Minister or the Tribunal, and the procedure for requesting such a review.
+> 1995, c. 40, s. 7; 2015, c. 2, s. 116(E).
+
 
 
 
@@ -252,7 +261,9 @@ the contravention of which, or the refusal or neglect of which, is designated to
 
 **Deeming**
 
-- **(3)** Where a person does not pay the amount referred to in paragraph (1)(a) in the prescribed time and manner or does not request a review under paragraph (1)(b), the person is deemed to have committed the violation identified in the notice of violation.
+- **(3)** If a person does not, in the prescribed time and manner, either pay the amount referred to in paragraph (1)(a) or request a review under paragraph (1)(b), the person is deemed to have committed the violation identified in the notice of violation.
+> 1995, c. 40, s. 11; 2015, c. 2, s. 117(E).
+
 
 
 
@@ -336,6 +347,8 @@ and the Tribunal shall cause a notice of any order made under this subsection to
 **Debt final**
 
 - **(3)** A debt referred to in subsection (1) is final and not subject to review or to be restrained, prohibited, removed, set aside or otherwise dealt with except to the extent and in the manner provided by sections 9 to 14 of this Act and subsection 12(2) of the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md).
+> 1995, c. 40, s. 15; 2015, c. 2, s. 118(F).
+
 
 
 
@@ -450,17 +463,13 @@ unless the removal from the record would not in the opinion of the Minister be i
 
 
 
-**Time limit**
+**Limitation period**
 
-**26** 
+**26** No proceedings in respect of a violation may be commenced later than
+- **(a)** six months after the day on which the subject matter of the proceedings arises, in the case of a minor violation; or
+- **(b)** two years after the day on which the subject matter of the proceedings arises, in the case of a serious violation or a very serious violation.
+> 1995, c. 40, s. 26; 2015, c. 2, s. 119.
 
-- **(1)** No proceedings in respect of a violation may be commenced later than
-	- **(a)** six months after the Minister became aware of the violation, in the case of a minor violation; or
-	- **(b)** two years after the Minister became aware of the violation, in the case of a serious violation or a very serious violation.
-
-**Certificate of Minister**
-
-- **(2)** A document purporting to have been issued by the Minister and certifying the day on which the Minister became aware of a violation is evidence, without proof of the signature or official character of the person appearing to have signed the document, that the Minister became aware of the violation on that day.
 
 
 
