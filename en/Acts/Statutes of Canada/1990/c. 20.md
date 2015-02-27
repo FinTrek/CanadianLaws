@@ -39,66 +39,66 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** In this Act,
 
-***advertise***, in relation to a plant variety, means to distribute to members of the public or to bring to their notice, in any manner whatever, any written, illustrated, visual or other descriptive material, oral statement, communication, representation or reference with the intention of promoting the sale of any propagating material of the plant variety, encouraging the use thereof or drawing attention to the nature, properties, advantages or uses thereof or to the manner in which or the conditions on which it may be purchased or otherwise acquired;
+***advertise***, in relation to a plant variety, means to distribute to members of the public or to bring to their notice, in any manner whatever, any written, illustrated, visual or other descriptive material, oral statement, communication, representation or reference with the intention of promoting the sale of any propagating material of the plant variety, encouraging the use thereof or drawing attention to the nature, properties, advantages or uses thereof or to the manner in which or the conditions on which it may be purchased or otherwise acquired; (*publicité*)
 
-***advisory committee*** means such advisory committee as may be constituted pursuant to subsection 73(1);
+***advisory committee*** means such advisory committee as may be constituted pursuant to subsection 73(1); (*comité consultatif*)
 
-***agent***, in relation to an applicant or a holder of plant breeder’s rights, means a person who is duly authorized by the applicant or holder to act, for the purposes of this Act, on behalf of the applicant or holder and to whom as a person so authorized recognition is, consistent with any requirements prescribed therefor, accorded by the Commissioner;
+***agent***, in relation to an applicant or a holder of plant breeder’s rights, means a person who is duly authorized by the applicant or holder to act, for the purposes of this Act, on behalf of the applicant or holder and to whom as a person so authorized recognition is, consistent with any requirements prescribed therefor, accorded by the Commissioner; (*mandataire*)
 
-***agreement country*** means
-- **(a)** any country,
-- **(b)** any colony, protectorate or territory subject to the authority of another country or under its suzerainty, or
-- **(c)** any territory over which another country exercises a mandate or trusteeship,
+***agreement country*** means any of the following entities that is designated by the regulations as an agreement country with a view to the fulfilment of an agreement concerning the rights of plant breeders made between Canada and that entity:
+- **(a)** a country,
+- **(b)** a colony, protectorate or territory subject to the authority of another country or under its suzerainty,
+- **(c)** a territory over which another country exercises a mandate or trusteeship; (*pays signataire*)
 
-that is prescribed as an agreement country with a view to the fulfilment of a bilateral agreement concerning the rights of plant breeders made between Canada and that country;
+***applicant*** means a person by or on behalf of whom an application for the grant of plant breeder’s rights is made pursuant to section 7; (*requérant*)
 
-***applicant*** means a person by or on behalf of whom an application for the grant of plant breeder’s rights is made pursuant to section 7;
+***breeder***, in respect of a plant variety, means 
+- **(a)** any person who originates or who discovers and develops the plant variety, or
+- **(b)** any person in respect of whom an officer, servant or employee, while acting within the scope of his or her duties as the officer, servant or employee of that person, originates or discovers and develops the plant variety; (*obtenteur*)
 
-***breeder***, in respect of a plant variety, means
-- **(a)** where any person acting within the scope of the person’s duties as an officer, servant or employee of another person originates or discovers the plant variety, that other person, and
-- **(b)** where any person not acting as described in paragraph (a) originates or discovers the plant variety, that person;
+***category*** means, in relation to a plant, a species, a grouping of species or any class within a species; (*catégorie*)
 
-***category*** means a species or any class within a species;
+***Commissioner*** means the Commissioner of Plant Breeders’ Rights designated pursuant to subsection 56(2) and, except in section 56, includes any person acting under a written authorization given pursuant to section 58; (*directeur*)
 
-***Commissioner*** means the Commissioner of Plant Breeders’ Rights designated pursuant to subsection 56(2) and, except in section 56, includes any person acting under a written authorization given pursuant to section 58;
+***country of the Union*** means any country or other entity that is a party to the International Convention for the Protection of New Varieties of Plants of December 2, 1961, as amended from time to time, or any WTO Member as defined in subsection 2(1) of the [World Trade Organization Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2047.md); (*État de l’Union*)
 
-***country of the Union*** means
-- **(a)** any country,
-- **(b)** any colony, protectorate or territory subject to the authority of another country or under its suzerainty, or
-- **(c)** any territory over which another country exercises a mandate or trusteeship,
+***document*** means anything on which information that is capable of being understood by a person, or read by a computer or other device, is recorded or marked; (*document*)
 
-that is prescribed as a country of the Union with a view to the fulfilment of a convention constituting a Union for protecting new varieties of plants that includes Canada among its members;
+***filing date*** means, in respect of an application, the date specified in the notice given under subsection 10(2); (*date de dépôt*)
 
-***holder***, in relation to plant breeder’s rights, means the person whom the register indicates, with respect to a plant variety, is entitled to the plant breeder’s rights respecting that variety by a grant made under section 27 or is an assignee of, or other successor in title to, the rights granted under that section in respect of that variety;
+***holder***, in relation to plant breeder’s rights, means the person whom the register indicates, with respect to a plant variety, is entitled to the plant breeder’s rights respecting that variety by a grant made under section 27 or is an assignee of, or other successor in title to, the rights granted under that section in respect of that variety; (*titulaire*)
 
-***index*** means the index prepared pursuant to section 62;
+***index*** means the index prepared pursuant to section 62; (*répertoire*)
 
-***infringement***, in relation to plant breeder’s rights, means the doing, without authority under this Act, of anything that the holder of those rights has the exclusive right to do as provided in subsection 5(1);
+***infringement***, in relation to plant breeder’s rights, means the doing, without authority under this Act, of anything that the holder of those rights has the right to do under any of sections 5 to 5.2; (*violation*)
 
-***legal representative***, in respect of a breeder of a plant variety, includes the breeder’s executor or administrator and any assignee of, or other successor in title to, the rights of the breeder in respect of the plant variety;
+***legal representative***, in respect of a breeder of a plant variety, includes the breeder’s executor or administrator and any assignee of, or other successor in title to, the rights of the breeder in respect of the plant variety; (*représentant légal*)
 
-***Minister*** means the Minister of Agriculture and Agri-Food;
+***Minister*** means the Minister of Agriculture and Agri-Food; (*ministre*)
 
-***new variety*** means a plant variety that complies with the requirements of section 4;
+***new variety*** means a plant variety that is described in subsection 4(3); (*obtention végétale*)
 
-***plant breeder’s rights*** means the rights referred to in subsection 5(1);
+***person*** has the same meaning as in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); (*personne*)
 
-***plant variety*** means any cultivar, clone, breeding line or hybrid of a prescribed category of plant that can be cultivated;
+***plant breeder’s rights***, in relation to a plant variety, means the rights that are granted under section 27; (*certificat d’obtention*)
 
-Version anglaise seulement***prescribed*** means prescribed by regulation;
+***plant variety*** means any plant grouping within a single botanical taxon of the lowest known rank that, whether or not the conditions for the grant of plant breeder’s rights are fully met, is capable of being
+- **(a)** defined by the expression of the characteristics resulting from a given genotype or combination of genotypes,
+- **(b)** distinguished from any other plant grouping by the expression of at least one of those characteristics, and
+- **(c)** considered as a unit with regard to its suitability for being reproduced unchanged; (*variété végétale*)
 
-***propagating material*** means any reproductive or vegetative material for propagation, whether by sexual or other means, of a plant variety, and includes seeds for sowing and any whole plant or part thereof that may be used for propagation;
+***prescribed*** means prescribed by regulation; (***Version anglaise seulement***)
 
-***protective direction*** means a protective direction under section 19;
+***propagating material*** means any reproductive or vegetative material for propagation, whether by sexual or other means, of a plant variety, and includes seeds for sowing and any whole plant or part thereof that may be used for propagation; (*matériel de multiplication*)
 
-***register*** means the register kept pursuant to section 63;
+***protective direction***[Repealed, 2015, c. 2, s. 2]
 
-***sell*** includes agree to sell, or offer, advertise, keep, expose, transmit, send, convey or deliver for sale, or agree to exchange or to dispose of to any person in any manner for a consideration.
+***register*** means the register kept pursuant to section 63; (*registre*)
 
-**Prescribing various countries of the Union or agreement countries**
+***sell*** includes agree to sell, or offer, advertise, keep, expose, transmit, send, convey or deliver for sale, or agree to exchange or to dispose of to any person in any manner for a consideration. (*vente*)
 
-- **(2)** Notwithstanding anything in this Act, a country of the Union or an agreement country may be prescribed for all or any of the provisions of this Act or the regulations in so far as those provisions have reference, express or implied, to such a country.
-> 1990, c. 20, s. 2; 1994, c. 38, s. 25; 1997, c. 6, s. 75.
+- **(2)** [Repealed, 2015, c. 2, s. 2]
+> 1990, c. 20, s. 2; 1994, c. 38, s. 25; 1997, c. 6, s. 75; 2015, c. 2, s. 2.
 
 
 
@@ -115,26 +115,43 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 
 
-## Application
+## Conditions for Protection
 
 
 
-**Varieties to which Act applies**
+**Eligible plant varieties**
 
 **4** 
 
-- **(1)** The varieties of plants in respect of which this Act provides for the granting of plant breeders’ rights are restricted to varieties belonging to prescribed categories and found, pursuant to subsection 27(1), to be new varieties.
+- **(1)** Plant breeder’s rights may not be granted except in respect of a plant variety that belongs to a prescribed category and meets all of the conditions set out in subsection (2).
 
-**New varieties**
+**Conditions**
 
-- **(2)** A plant variety is a new variety if it
-	- **(a)** is, by reason of one or more identifiable characteristics, clearly distinguishable from all varieties the existence of which is a matter of common knowledge at the effective date of application for the grant of the plant breeder’s rights respecting that plant variety;
-	- **(b)** is stable in its essential characteristics in that after repeated reproduction or propagation or, where the applicant has defined a particular cycle of reproduction or multiplication, at the end of each cycle, remains true to its description; and
-	- **(c)** is, having regard to the particular features of its sexual reproduction or vegetative propagation, a sufficiently homogeneous variety.
+- **(2)** Plant breeder’s rights may be granted in respect of a plant variety if it
+	- **(a)** is a new variety;
+	- **(b)** is, by reason of one or more identifiable characteristics, clearly distinguishable from all varieties whose existence is a matter of common knowledge at the filing date of the application for the grant of plant breeder’s rights respecting that plant variety;
+	- **(c)** is stable in its essential characteristics in that after repeated propagation or, if the applicant has defined a particular cycle of propagation, at the end of each cycle it remains true to its description; and
+	- **(d)** is, having regard to the particular features of its sexual reproduction or vegetative propagation, a sufficiently homogeneous variety.
 
-**Definition of “sufficiently homogeneous variety”**
+**New variety**
 
-- **(3)** In paragraph (2)(c), ***sufficiently homogeneous variety*** means such a variety that, in the event of its sexual reproduction or vegetative propagation in substantial quantity, any variations in characteristics of plants so reproduced or propagated are predictable, capable of being described and commercially acceptable.
+- **(3)** A plant variety is a new variety if the propagating or harvested material of that variety has not been sold by, or with the concurrence of, the breeder of that variety or the breeder’s legal representative
+	- **(a)** in Canada, before
+		- **(i)** the prescribed period preceding the filing date of the application for the grant of plant breeder’s rights, in the case of a variety belonging to a recently prescribed category, and
+		- **(ii)** the period of one year before the filing date of the application for the grant of plant breeder’s rights, in the case of any other variety; and
+	- **(b)** outside Canada, before
+		- **(i)** the period of six years before the filing date of the application for the grant of plant breeder’s rights, in the case of a tree or vine, and
+		- **(ii)** the period of four years before the filing date of the application for the grant of plant breeder’s rights, in any other case.
+
+**Definition of sufficiently homogeneous variety**
+
+- **(4)** For the purposes of paragraph (2)(d), ***sufficiently homogeneous variety*** means a variety for which, in the event of its sexual reproduction or vegetative propagation in substantial quantity, any variations in characteristics of the plants so reproduced or propagated are predictable, capable of being described and commercially acceptable.
+
+**Regulations**
+
+- **(5)** The Governor in Council may make regulations prescribing classes of sales that are not to be considered sales for the purposes of subsection (3).
+> 1990, c. 20, s. 4; 2015, c. 2, s. 3.
+
 
 
 
@@ -147,23 +164,86 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 **5** 
 
-- **(1)** Subject to this Act, the holder of the plant breeder’s rights respecting a plant variety has the exclusive right
-	- **(a)** to sell, and produce in Canada for the purpose of selling, propagating material, as such, of the plant variety;
-	- **(b)** to make repeated use of propagating material of the plant variety in order to produce commercially another plant variety if the repetition is necessary for that purpose;
-	- **(c)** where it is a plant variety to which ornamental plants or parts thereof normally marketed for purposes other than propagation belong, to use any such plants or parts commercially as propagating material in the production of ornamental plants or cut flowers; and
-	- **(d)** to authorize, conditionally or unconditionally, the doing of an act described in paragraphs (a) to (c).
-
-**Exemption**
-
-- **(2)** Paragraph (1)(a) does not apply in respect of the sale of propagating material that is not in Canada when it is sold but, if any such propagating material the sale of which to any person is exempted from that paragraph by this subsection is used as propagating material in Canada by that person, an infringement of the exclusive right conferred by virtue of that paragraph is constituted by the purchase and subsequent use of the propagating material by that person, who shall be liable to be proceeded against in respect of that infringement.
-
-**Implications**
-
-- **(3)** A sale of propagating material in the exercise of any exclusive right conferred by subsection (1) does not imply that the seller authorizes the purchaser to produce, for the purpose of selling, propagating material as such but, subject to any terms or conditions imposed by the seller, the sale implies that the seller authorizes the purchaser to sell anything sold, in that exercise of the exclusive right, to the purchaser.
+- **(1)** Subject to the other provisions of this Act and the regulations, the holder of the plant breeder’s rights respecting a plant variety has the exclusive right
+	- **(a)** to produce and reproduce propagating material of the variety;
+	- **(b)** to condition propagating material of the variety for the purposes of propagating the variety;
+	- **(c)** to sell propagating material of the variety;
+	- **(d)** to export or import propagating material of the variety;
+	- **(e)** to make repeated use of propagating material of the variety to produce commercially another plant variety if the repetition is necessary for that purpose;
+	- **(f)** in the case of a variety to which ornamental plants belong, if those plants are normally marketed for purposes other than propagation, to use any such plants or parts of those plants as propagating material for the production of ornamental plants or cut flowers;
+	- **(g)** to stock propagating material of the variety for the purpose of doing any act described in any of paragraphs (a) to (f); and
+	- **(h)** to authorize, conditionally or unconditionally, the doing of any act described in any of paragraphs (a) to (g).
 
 **Royalty**
 
-- **(4)** Without limiting the generality of paragraph (1)(d) and without prejudice to any rights or privileges of the Crown, where authority is conferred subject to conditions pursuant to that paragraph, whether or not the holder of the plant breeder’s rights is Her Majesty in right of Canada or a province, the conditions may include a requirement to pay royalty to the holder.
+- **(2)** Without prejudice to any rights or privileges of the Crown, an authorization conferred under paragraph 1(h) may be subject to a condition to pay royalty to the holder of the plant breeder’s rights whether or not the holder is Her Majesty in right of Canada or a province.
+> 1990, c. 20, s. 5; 2015, c. 2, s. 5.
+
+
+
+
+
+**Rights respecting harvested materials**
+
+**5.1** Subject to the other provisions of this Act and the regulations, the holder of the plant breeder’s rights respecting a plant variety has the exclusive right to do any act described in any of paragraphs 5(1)(a) to (h) in respect of any harvested material, including whole plants or parts of plants, that is obtained through the unauthorized use of propagating material of the plant variety, unless the holder had reasonable opportunity to exercise his or her rights under section 5 in relation to that propagating material and failed to do so before claiming rights under this section.
+> 2015, c. 2, s. 5.
+
+
+
+
+
+**Rights respecting certain other varieties**
+
+**5.2** 
+
+- **(1)** Subject to the other provisions of this Act and the regulations, the holder of the plant breeder’s rights respecting a plant variety has the exclusive right to do any act described in any of paragraphs 5(1)(a) to (h) in respect of
+	- **(a)** any other plant variety that is essentially derived from the plant variety if the plant variety is not itself essentially derived from another plant variety;
+	- **(b)** any other plant variety that is not clearly distinguishable from the plant variety; and
+	- **(c)** any other plant variety whose production requires the repeated use of the plant variety.
+
+**Meaning of essentially derived**
+
+- **(2)** For the purpose of paragraph (1)(a), a plant variety is essentially derived from another plant variety (in this subsection referred to as the “initial variety”) if
+	- **(a)** it is predominantly derived from the initial variety or from a plant variety that is itself predominantly derived from the initial variety and it retains the essential characteristics that result from the genotype or combination of genotypes of the initial variety;
+	- **(b)** it is clearly distinguishable from the initial variety; and
+	- **(c)** it conforms to the initial variety in the expression of the essential characteristics that result from the genotype or combination of genotypes of the initial variety, except for the differences that result from its derivation from the initial variety.
+> 2015, c. 2, s. 5.
+
+
+
+
+
+**Non-application of rights**
+
+**5.3** 
+
+- **(1)** The rights referred to in sections 5 to 5.2 do not apply to any act done
+	- **(a)** privately and for non-commercial purposes;
+	- **(b)** for experimental purposes; or
+	- **(c)** for the purpose of breeding other plant varieties.
+
+**Farmers’ privilege**
+
+- **(2)** The rights referred to in paragraphs 5(1)(a) and (b) and — for the purposes of exercising those rights and the right to store — the right referred to in paragraph 5(1)(g) do not apply to harvested material of the plant variety that is grown by a farmer on the farmer’s holdings and used by the farmer on those holdings for the sole purpose of propagation of the plant variety.
+> 2015, c. 2, s. 5.
+
+
+
+
+
+**Non-application of rights**
+
+**5.4** 
+
+- **(1)** The rights referred to in sections 5 to 5.2 do not apply to any act done in relation to material of a plant variety after the material has been sold in Canada by the holder or with the holder’s consent, unless that act involves
+	- **(a)** the further propagation of the plant variety; or
+	- **(b)** the export of material of the plant variety to a country that does not protect varieties of the plant genus or species to which the exported plant variety belongs if the exported material is not intended for consumption.
+
+**Definition of material**
+
+- **(2)** For the purpose of subsection (1), ***material*** means propagating material and harvested material, including whole plants and parts of plants.
+> 2015, c. 2, s. 5.
+
 
 
 
@@ -172,11 +252,13 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 **6** 
 
-- **(1)** The term of the grant of plant breeder’s rights shall, subject to earlier termination pursuant to this Act, be a period of eighteen years, commencing on the day the certificate of registration is issued under paragraph 27(3)(b).
+- **(1)** The term of the grant of plant breeder’s rights, subject to earlier termination under this Act, shall be a period of 25 years in the case of a tree, a vine or any category specified by the regulations and 20 years in any other case. The period begins on the day on which the certificate of plant breeder’s rights is issued.
 
 **Payment of annual fee**
 
-- **(2)** A holder of plant breeder’s rights shall, during the term of the grant of those rights, pay to the Commissioner the prescribed annual fee in respect of those rights.
+- **(2)** A holder of plant breeder’s rights shall, during the term of the grant of those rights, pay to the Commissioner, within the prescribed time, the prescribed annual fee.
+> 1990, c. 20, s. 6; 2015, c. 2, s. 5.
+
 
 
 
@@ -185,28 +267,21 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 
 
-**Entitlement to apply for plant breeder’s rights**
+**Application for plant breeder’s rights**
 
 **7** 
 
-- **(1)** Subject to section 8, a breeder of a new variety or a legal representative of the breeder may make an application to the Commissioner for the grant of plant breeder’s rights respecting that variety if
-	- **(a)** in the case of a new variety of a recently prescribed category, neither the breeder nor a legal representative of the breeder sold or concurred in the sale of that variety in Canada before the commencement of such period prior to the date of receipt, by the Commissioner, of the application as is prescribed for the purposes of this paragraph;
-	- **(b)** in any other case, neither the breeder nor a legal representative of the breeder sold or concurred in the sale of that variety in Canada before the effective date of the application; and
-	- **(c)** subject to any prescribed exemptions, neither the breeder nor a legal representative of the breeder sold or concurred in the sale of that variety outside Canada before the commencement of such period prior to the date described in paragraph (a) as is prescribed for the purposes of this paragraph.
+- **(1)** A breeder or the breeder’s legal representative may make an application to the Commissioner for the grant of plant breeder’s rights respecting a plant variety if, in the case of an individual, the breeder or legal representative is a citizen of, or is resident in, Canada, a country of the Union or an agreement country or, in the case of a person that is not an individual, the breeder or legal representative has an establishment in Canada, a country of the Union or an agreement country.
 
-**Application where breeder’s participation unobtainable for joint application**
+**If two or more breeders**
 
-- **(2)** Where
-	- **(a)** a new variety is bred by two or more breeders otherwise than independently of each other, and
-	- **(b)** either or any of the persons entitled to make an application for the grant of the plant breeder’s rights respecting that variety refuses to do so or information of the whereabouts of either or any of those persons cannot be obtained through diligent inquiry on the part of the remainder of them,
-the remainder of those persons may make an application for that grant.
+- **(2)** If a plant variety is bred by two or more breeders otherwise than independently of each other, the persons entitled to make an application for the grant of plant breeder’s rights respecting that variety may make an application jointly and, if any of those persons refuses to do so or information regarding their whereabouts cannot be obtained through diligent inquiry, the remainder of those persons may make an application for that grant.
+> 1990, c. 20, s. 7; 2015, c. 2, s. 6.
 
 
 
 
-**Required citizenship, residence or location of registered office**
-
-**8** A person is only eligible to apply for the grant of plant breeder’s rights if the person is a citizen of, or is resident or has a registered office in, Canada or a country of the Union or an agreement country.
+**8** [Repealed, 2015, c. 2, s. 6]
 
 
 
@@ -215,51 +290,66 @@ the remainder of those persons may make an application for that grant.
 
 **9** 
 
-- **(1)** An application for the grant of any plant breeder’s rights must
-	- **(a)** be made in the prescribed manner;
+- **(1)** An application for the grant of plant breeder’s rights must
+	- **(a)** include the prescribed information and be made in the prescribed manner;
 	- **(b)** be accompanied by the prescribed fee;
-	- **(c)** be supported by the documents and any other material prescribed; and
-	- **(d)** include any request referred to in subparagraph 75(1)(k)(i) that the applicant makes.
+	- **(c)** be supported by the prescribed documents and any other prescribed material; and
+	- **(d)** in the case where the applicant wishes to request that those rights be exempted from compulsory licensing under subsection 32(1), include the request and his or her reasons for it.
 
 **Agent required for non-resident applicant**
 
-- **(2)** An applicant who, in the case of an individual, is not resident in Canada or that, in the case of a corporation, does not have its registered office in Canada shall submit the application through an agent resident in Canada.
+- **(2)** An applicant that, in the case of an individual, is not resident in Canada and, in the case of a person that is not an individual, does not have an establishment in Canada shall submit the application through an agent resident in Canada.
+> 1990, c. 20, s. 9; 2015, c. 2, s. 7.
 
 
 
 
-**Priority and dating of application**
+
+**Filing date of application**
 
 **10** 
 
-- **(1)** Subject to subsections (2) and 11(1), the effective date of an application is the date on which the application is received by the Commissioner and, in the case of receipt by the Commissioner of two or more applications respecting a new variety the breeders of which bred it independently of each other, priority shall be given to the application first received by the Commissioner.
+- **(1)** Subject to subsection 11(1), the filing date of an application for the grant of plant breeder’s rights is the date on which the Commissioner has received, in respect of the application, all of the information, fees, documents and other materials that are required by subsection 9(1).
 
-**Applications of same date**
+**Notice of filing date**
 
-- **(2)** Where the effective dates of applications described in subsection (1) are the same, priority shall be given to the application pertaining to the breeder who was first in a position to apply for the plant breeder’s rights respecting the new variety or who would have been first in the position to do so if the provision made by or under this Act for so doing had always been in force.
+- **(2)** The Commissioner shall send to the applicant a notice specifying the filing date.
+> 1990, c. 20, s. 10; 2015, c. 2, s. 7.
 
 
 
 
-**Priority based on preceding application in country of Union or agreement country**
+
+**Priority when breeders breed independently**
+
+**10.1** In the case of two or more applications respecting a plant variety whose breeders bred it independently of each other, priority shall be given to the application with the earliest filing date. If the filing dates of the applications are the same, priority shall be given to the application pertaining to the breeder that was first in a position to apply for the plant breeder’s rights respecting the variety or that would have been first in the position to do so if the provisions under this Act for so doing had always been in force.
+> 2015, c. 2, s. 7.
+
+
+
+
+
+**Priority when preceding application in country of Union or agreement country**
 
 **11** 
 
-- **(1)** Where an application made under section 7 is preceded by an application made, in the appropriate manner, in a country of the Union or an agreement country, for protection pursuant to the breeding of the same new variety by the same breeder as in the case of the application made under section 7, the date that is the effective date of the application made in that country shall be deemed to be the effective date of the application made under section 7 and the applicant is entitled to priority in Canada accordingly, notwithstanding any intervening use, publication or application respecting the new variety, if
-	- **(a)** the application is made under section 7 in the prescribed form within twelve months after the date on which the application was made in that country; and
-	- **(b)** the application made under section 7 includes or is accompanied by a claim respecting the priority and is accompanied by the prescribed fee.
+- **(1)** If an application made under section 7 is preceded by another application made in a country of the Union or an agreement country for protection in respect of the same plant variety and the same breeder, the filing date of the application made under section 7 is deemed to be the date on which the preceding application was made in that country of the Union or agreement country and, consequently, the applicant is entitled to priority in Canada despite any intervening use, publication or application respecting the variety if
+	- **(a)** the application is made in the prescribed form within 12 months after the date on which the preceding application was made in that country of the Union or agreement country; and
+	- **(b)** the application is accompanied by a claim respecting the priority and by the prescribed fee.
 
 **Confirmation of claim to priority**
 
-- **(2)** A claim respecting priority based on a preceding application made in a country of the Union or an agreement country shall not be allowed unless, within three months after the date on which the claim is submitted to the Commissioner, it is confirmed by filing with the Commissioner a copy, certified as correct by the appropriate authority in that country and accompanied by an English or French translation of the certified copy, if made in any other language, of each document that constituted the preceding application.
+- **(2)** A claim respecting priority based on a preceding application made in a country of the Union or an agreement country shall not be allowed unless, within three months after the date that would be the filing date of the application if there were no claim respecting priority, the claim is confirmed by filing with the Commissioner a copy, certified as correct by the appropriate authority in that country of the Union or agreement country and accompanied by an English or French translation of the certified copy, if made in any other language, of each document that constituted the preceding application.
 
-**Supporting application given priority**
+**Supporting evidence**
 
-- **(3)** An application given priority under subsection (1) shall be supported by the required material furnished pursuant to this Act and the regulations before the expiration of the prescribed period, not exceeding four years, after the last day of the twelve months within which the application is submitted in accordance with paragraph (1)(a).
+- **(3)** An applicant that is given priority shall provide, within a period of three years after the date on which the preceding application was made in the country of the Union or agreement country, evidence that the applicant has begun the tests and trials with the plant variety referred to in subsection 23(2).
 
-**Cases of two or more preceding applications**
+**Two or more preceding applications**
 
-- **(4)** Where an application made under section 7 is preceded by two or more applications made, in the appropriate manner, in different countries of the Union or agreement countries, for protection pursuant to the breeding of the same new variety by the same breeder as in the case of the application made under section 7, reference in subsection (1) to an application made in any such country shall be construed as reference to whichever of those applications was first made.
+- **(4)** If an application made under section 7 is preceded by two or more applications made in different countries of the Union or agreement countries for protection in respect of the same plant variety and the same breeder, only the first of those preceding applications is to be taken into account for the purposes of subsection (1).
+> 1990, c. 20, s. 11; 2015, c. 2, s. 7.
+
 
 
 
@@ -268,11 +358,13 @@ the remainder of those persons may make an application for that grant.
 
 **12** 
 
-- **(1)** No claim referred to in paragraph 11(1)(b) shall be based on any preceding application unless it was made by a person who, at the time of the application, was a citizen of, or a person resident or having a registered office in, Canada or a country of the Union or an agreement country.
+- **(1)** No claim referred to in paragraph 11(1)(b) shall be based on any preceding application unless it was made by a person who, at the time of the application, was entitled to make an application under subsection 7(1).
 
 **When previous application disregarded**
 
 - **(2)** For the purposes of subsection 11(1), no account shall be taken of an application that was made in a country outside Canada at a time when the plant variety to which the application relates did not belong to a prescribed category.
+> 1990, c. 20, s. 12; 2015, c. 2, s. 8.
+
 
 
 
@@ -284,15 +376,15 @@ the remainder of those persons may make an application for that grant.
 
 
 
-## Denominations of New Varieties
+## Denominations
 
 
 
-**Denomination of new varieties**
+**Designation of denominations**
 
 **14** 
 
-- **(1)** A new variety in respect of which an application for the grant of plant breeder’s rights is made shall be designated by means of a denomination proposed by the applicant and approved by the Commissioner.
+- **(1)** A plant variety in respect of which an application for the grant of plant breeder’s rights is made shall be designated by means of a denomination proposed by the applicant and approved by the Commissioner.
 
 **Rejection of proposed denomination**
 
@@ -304,7 +396,7 @@ the remainder of those persons may make an application for that grant.
 
 **International uniformity of denomination**
 
-- **(4)** A denomination that the Commissioner approves for any new variety in respect of which protection has been granted by, or an application for protection has been submitted to, the appropriate authority in a country of the Union or an agreement country must, subject to subsections (2), (3) and (5), be the same as any denomination with reference to which that protection has been granted or that application submitted.
+- **(4)** A denomination that the Commissioner approves for any plant variety in respect of which protection has been granted by, or an application for protection has been submitted to, the appropriate authority in a country of the Union or an agreement country must, subject to subsections (2), (3) and (5), be the same as the denomination with reference to which that protection has been granted or that application submitted.
 
 **Change of denomination**
 
@@ -313,13 +405,17 @@ the remainder of those persons may make an application for that grant.
 **Denomination must be recognizable**
 
 - **(6)** Where a trade-mark, trade name or other similar indication is used in association with a denomination approved by the Commissioner pursuant to this section, the denomination must be easily recognizable.
+> 1990, c. 20, s. 14; 2015, c. 2, s. 10.
+
 
 
 
 
 **Approved denomination to be used exclusively**
 
-**15** After the grant of the plant breeder’s rights respecting any new variety, every person designating the variety for the purposes of the sale of propagating material thereof by that person, whether before or after the expiration of the term of the grant of those rights, shall only use the denomination approved by the Commissioner pursuant to section 14.
+**15** After the grant of plant breeder’s rights respecting any plant variety, and even after the expiry of the term of the grant of those rights, every person who is designating the variety for the purposes of the sale of propagating material of the variety shall use the denomination approved by the Commissioner.
+> 1990, c. 20, s. 15; 2015, c. 2, s. 11.
+
 
 
 
@@ -327,6 +423,15 @@ the remainder of those persons may make an application for that grant.
 **Prior rights not prejudiced**
 
 **16** Nothing in section 14 or 15 authorizes or requires any person to use, or the Commissioner to approve any person’s use of, a denomination to the prejudice of any prior right of another person to the use of any designation.
+
+
+
+
+**Direction to change denomination**
+
+**16.1** If, after the grant of plant breeder’s rights respecting any plant variety, the Commissioner has reasonable grounds to believe that the use of the denomination is unsuitable or that the prior rights of another person are prejudiced by its use, the Commissioner may direct the holder to change the denomination, subject to the Commissioner’s approval of the new denomination.
+> 2015, c. 2, s. 12.
+
 
 
 
@@ -339,71 +444,65 @@ the remainder of those persons may make an application for that grant.
 
 **17** 
 
-- **(1)** The Commissioner may reject an application for the grant of plant breeder’s rights if any incompatibility with this Act or the regulations appears with regard to the application and, without limiting the generality of the foregoing, the Commissioner may reject an application if it appears
-	- **(a)** that the variety in respect of which the application is made is not a new variety; or
-	- **(b)** that the person making the application is not entitled in accordance with section 7 or 8 to do so.
+- **(1)** The Commissioner may reject an application for the grant of plant breeder’s rights if the application is not consistent with any provision of this Act or the regulations, including if the plant variety in respect of which the application is made is not a new variety or if the applicant is not entitled to apply under section 7.
 
 **Opportunity for representations before application rejected**
 
 - **(2)** The Commissioner shall not reject the application of a person for the grant of plant breeder’s rights without first giving the person notice of the objections to it and of the grounds for those objections as well as a reasonable opportunity to make representations with respect thereto.
+> 1990, c. 20, s. 17; 2015, c. 2, s. 13.
+
 
 
 
 
 **Amendment of application**
 
-**18** An applicant may, within the period prescribed for so doing, or with leave given by the Commissioner at the applicant’s request after the expiration of that period, add to or alter the denomination proposed by that applicant pursuant to section 14 or the description of the new variety for the purposes of the application.
+**18** An applicant may, within the period prescribed for so doing, or with leave given by the Commissioner at the applicant’s request after the expiry of that period, add to or alter the denomination proposed by that applicant under section 14 or the description of the plant variety for the purposes of the application.
+> 1990, c. 20, s. 18; 2015, c. 2, s. 14.
 
 
 
 
-## Protective Directions
+
+## Provisional Protection
 
 
 
-**Protective directions**
+**Applicant’s rights**
 
 **19** 
 
-- **(1)** An application for the grant of plant breeder’s rights may include an application, accompanied by the fee prescribed in respect thereof, to the Commissioner for a protective direction respecting the plant variety in relation to which the application is made.
+- **(1)** Subject to subsection (2), an applicant for the grant of plant breeder’s rights in respect of a plant variety has, as of the filing date of the application, the same rights in respect of the variety that he or she would have under sections 5 to 5.2 if plant breeder’s rights were to be granted.
 
-**Undertaking**
+**When rights in effect**
 
-- **(2)** Every person applying for a protective direction in accordance with subsection (1) shall undertake not to sell during the subsistence thereof propagating material of the plant variety unless the sale is made in good faith for purposes of scientific research, is part of a transaction involving the sale of the plant breeder’s rights or consists of the sale of propagating material for the purpose of accumulating stock for subsequent resale to that person.
-
-**Grant of protective direction**
-
-- **(3)** Subject to subsection (4), where the undertaking required by subsection (2) is given, the Commissioner shall grant a protective direction to the person giving the undertaking and anything done while the protective direction is in force that, if the plant breeder’s rights respecting the plant variety were granted, would constitute an infringement of those rights is actionable pursuant to this section as if it were such an infringement.
-
-**Refusal of grant**
-
-- **(4)** Where the Commissioner has reason to suspect that a person whose application for the grant of plant breeder’s rights includes an application for a protective direction is not entitled in accordance with section 7 or 8 to make the application for that grant, the Commissioner shall refuse to grant the protective direction.
-
-**Opportunity for representations before refusal**
-
-- **(5)** The Commissioner shall not refuse to grant a protective direction to a person without first giving the person notice of the objections to it and of the grounds for those objections as well as a reasonable opportunity to make representations with respect thereto.
+- **(2)** If the applicant is granted plant breeder’s rights, the applicant is, in respect of the period beginning on the filing date and ending on the date on which the plant breeder’s rights are granted, entitled to equitable remuneration from any person who, having been notified in writing by the applicant that the application for those rights has been filed under this Act, carried out acts that require the authorization of the applicant.
+> 1990, c. 20, s. 19; 2015, c. 2, s. 14.
 
 
 
 
-**Withdrawal of direction**
+
+**Rights extinguished**
 
 **20** 
 
-- **(1)** The Commissioner may withdraw a protective direction if the person to whom it was granted so requests and, notwithstanding the absence of any such request, the Commissioner shall withdraw a protective direction if the Commissioner is satisfied that
-	- **(a)** the person to whom it was granted has given an undertaking, whether or not for consideration, not to institute proceedings pursuant to section 19; or
-	- **(b)** a breach of the undertaking given by the person pursuant to subsection 19(2) has occurred.
+- **(1)** The rights granted under section 19 cease if the application is withdrawn by the applicant, is rejected or refused or is deemed to have been abandoned under section 26.
 
-**Procedure**
+**Reinstatement of application**
 
-- **(2)** Section 36 applies, with such modifications as the circumstances require, in respect of the withdrawal of a protective direction as that section applies in respect of the revocation of plant breeder’s rights.
-
+- **(2)** Despite subsection (1), if an application that is deemed to have been abandoned is subsequently reinstated, the rights granted under section 19 are deemed never to have ceased.
+> 1990, c. 20, s. 20; 2015, c. 2, s. 14.
 
 
 
-**Lapse of direction**
 
-**21** As soon as an application for the grant of plant breeder’s rights that includes an application for a protective direction is disposed of, whether by grant or refusal to grant those rights or otherwise, the protective direction lapses if it is in force at the time of that disposal.
+
+**Filing date — claim respecting priority**
+
+**21** For the purposes of sections 19 and 20, with respect to an applicant that has made a claim respecting priority under section 11, the filing date is the date that would be the filing date of the application if there were no claim respecting priority.
+> 1990, c. 20, s. 21; 2015, c. 2, s. 14.
+
 
 
 
@@ -412,14 +511,11 @@ the remainder of those persons may make an application for that grant.
 
 
 
-**Making objection to application for plant breeder’s rights**
+**Making objection to application**
 
 **22** 
 
-- **(1)** A person who considers that an application of which particulars have been published pursuant to section 70 ought to be refused
-	- **(a)** on any ground that constitutes a basis for rejection pursuant to section 17, or
-	- **(b)** in so far as an exemption referred to in subparagraph 75(1)(k)(i) is requested in the application,
-may, on payment of the prescribed fee, except in the case of an objection made for the purpose of this subsection under the authority of the Minister of Industry after notice under subsection 70(2), file with the Commissioner, within the prescribed period after the date of publication, an objection specifying that person’s reasons for so considering.
+- **(1)** A person who considers that an application in respect of which particulars have been published under section 70 ought to be refused on any ground that constitutes a basis for rejection under section 17 or that a request in the application for an exemption from compulsory licensing ought to be refused, may, on payment of the prescribed fee, file with the Commissioner, within the prescribed period beginning on the date of publication, an objection specifying that person’s reasons. The prescribed fees are not required in the case of an objection made for the purpose of this subsection under the authority of the Minister of Industry after notice under subsection 70(2).
 
 **Copy of objection to be sent to applicant**
 
@@ -429,14 +525,14 @@ may, on payment of the prescribed fee, except in the case of an objection made f
 
 - **(3)** Where it appears to the Commissioner that there is good reason for rejecting an objection referred to in subsection (2), the Commissioner shall give the person making the objection a reasonable opportunity to show cause why the objection should not be rejected and, if the person shows the Commissioner no such cause, the Commissioner shall reject the objection and give notice accordingly to the person.
 
-**Opportunities for objector and applicant to be heard**
+**Representations by objector and applicant**
 
-- **(4)** Where an objection to an application is filed with the Commissioner and is not rejected in accordance with subsection (3), the Commissioner shall not make or refuse the grant of plant breeder’s rights on the application until the Commissioner has considered the objection and given the persons making the objection and application a reasonable opportunity to make representations with respect thereto.
+- **(4)** If the objection is not rejected in accordance with subsection (3), the Commissioner shall give the person making the objection and the person in respect of whose application the objection is filed a reasonable opportunity to make representations with respect to the objection and shall take those representations into account before making the decision to refuse the application or to grant plant breeder’s rights with or without an exemption from compulsory licensing.
 
 **Upholding objection**
 
 - **(5)** Where the Commissioner upholds an objection made under this section, the Commissioner shall refuse the application or request therein for exemption accordingly.
-> 1990, c. 20, s. 22; 1995, c. 1, s. 52.
+> 1990, c. 20, s. 22; 1995, c. 1, s. 52; 2015, c. 2, s. 15.
 
 
 
@@ -450,30 +546,34 @@ may, on payment of the prescribed fee, except in the case of an objection made f
 
 **Tests and trials**
 
-- **(2)** For the purpose of determining whether the plant variety to which an application under consideration pursuant to subsection (1) relates is a new variety, the Commissioner shall require such tests and trials with the plant variety, under such conditions, as the Commissioner deems necessary or expedient.
+- **(2)** For the purpose of determining if the plant variety to which the application relates meets the requirements set out in section 4, the Commissioner shall require the performance of any tests and trials with the plant variety, under any conditions, as the Commissioner considers necessary.
 
-**Fee and materials for tests and trials**
+**Fee and materials**
 
-- **(3)** The person on whose part material is submitted for consideration pursuant to subsection (1) shall, for the purposes of tests and trials with the plant variety in question, without prejudice to the requirements of subsection 9(1) and at such time and place as the Commissioner directs,
-	- **(a)** pay the appropriate prescribed examination fee; and
-	- **(b)** furnish any
+- **(3)** The person on whose part material is submitted for consideration under subsection (1) shall, without prejudice to the requirements of subsection 9(1) and at the time and place that the Commissioner directs,
+	- **(a)** pay the appropriate prescribed examination fee;
+	- **(b)** provide any of the following that the Commissioner considers necessary for the purposes of carrying out or evaluating the results of tests and trials with the plant variety in question:
 		- **(i)** propagating materials,
 		- **(ii)** information, whether by way of photographs, drawings, documentation or otherwise, respecting the plant variety, and
-		- **(iii)** specimens of the plant variety or of parts of it
-that the Commissioner considers necessary for those purposes.
+		- **(iii)** specimens of the plant variety or of parts of it; and
+	- **(c)** provide any prescribed information, documents or materials.
+> 1990, c. 20, s. 23; 2015, c. 2, s. 16.
 
 
 
 
-**Acceptance of results of foreign tests and trials**
+
+**Acceptance of foreign results**
 
 **24** 
 
-- **(1)** Where the Commissioner is able to obtain from an appropriate authority in any country such official results of tests and trials with the plant variety referred to in subsection 23(2) as the Commissioner considers acceptable, the Commissioner may rely on those results and the costs incurred in obtaining them pursuant to this subsection shall be paid to the Commissioner by the person to whom the Commissioner is authorized by subsection 23(3) to give directions for payment of such examination fee as may be payable for the purposes of tests and trials with the plant variety.
+- **(1)** If the Commissioner obtains from an appropriate authority in any country of the Union or agreement country the official results of tests and trials referred to in subsection 23(2) and the Commissioner considers them to be acceptable, the Commissioner may rely on those results. The person on whose part material is submitted for consideration under subsection 23(1) shall pay the costs incurred in obtaining those results.
 
 **Submission to foreign tests and trials**
 
 - **(2)** The Commissioner may submit to the appropriate authority in a country of the Union or an agreement country, in order that any necessary tests and trials may be undertaken in that country with the plant variety in question, anything furnished in support, as required by subsection 9(1), of an application or in compliance with subsection 23(3) and the Commissioner may accept such results of any of the tests and trials as are furnished by that authority.
+> 1990, c. 20, s. 24; 2015, c. 2, s. 17.
+
 
 
 
@@ -496,6 +596,8 @@ that the Commissioner considers necessary for those purposes.
 - **(2)** An application deemed abandoned pursuant to subsection (1) may be reinstated
 	- **(a)** within the prescribed time and on payment of the prescribed fee; or
 	- **(b)** on petition presented to the Commissioner within the prescribed time subsequent to the time referred to in paragraph (a) and on payment of the prescribed fee if the petitioner satisfies the Commissioner that the failure to prosecute the application was not reasonably avoidable.
+> 1990, c. 20, s. 26; 2015, c. 2, s. 18(F).
+
 
 
 
@@ -504,27 +606,25 @@ that the Commissioner considers necessary for those purposes.
 
 
 
-**Grant of plant breeder’s rights**
+**Decision of Commissioner**
 
 **27** 
 
-- **(1)** Where the Commissioner approves a denomination proposed by an applicant pursuant to section 14 and, after consideration of the application in accordance with subsection 23(1) and evaluation of the results of any tests and trials carried out with the plant variety to which the application relates, the Commissioner is satisfied that the application
-	- **(a)** is made by the applicant with respect to a new variety, and
-	- **(b)** otherwise conforms to this Act,
-the Commissioner shall, except in the circumstances described in paragraph (2)(b), grant plant breeder’s rights respecting that new variety to the applicant in accordance with subsection (3).
+- **(1)** If the Commissioner approves a denomination proposed by an applicant under section 14 and, after consideration of the application in accordance with subsection 23(1) and evaluation of the results of any tests and trials carried out with the plant variety to which the application relates, the Commissioner is satisfied that the plant variety meets the requirements set out in section 4 and that the application otherwise conforms to this Act, the Commissioner shall grant plant breeder’s rights in accordance with subsection (3).
 
 **Refusal**
 
-- **(2)** Where the Commissioner
-	- **(a)** is not satisfied, after consideration of an application and evaluation of results, as described in subsection (1), or
-	- **(b)** has, pursuant to paragraph 20(1)(b), withdrawn a protective direction and finds no reason considered by the Commissioner to be sufficient for nevertheless granting the plant breeder’s rights to the applicant to whom the protective direction was granted,
-the Commissioner shall refuse the application.
+- **(2)** If the Commissioner is not satisfied as described in subsection (1), the Commissioner shall refuse the application.
 
-**Registration of grant**
+**Request for exemption**
 
-- **(3)** The Commissioner shall, on payment of the prescribed fee in respect of the grant under subsection (1) of plant breeder’s rights,
-	- **(a)** enter in the register the particulars required by section 63 in relation to the new variety in respect of which the rights are granted; and
-	- **(b)** make the grant by issuing a certificate of registration in respect thereof to the applicant.
+- **(2.1)** In the case where the applicant for plant breeder’s rights has requested that those rights be exempted from compulsory licensing under subsection 32(1), the Commissioner may, at the time of the grant of those rights, approve that request if the Commissioner is satisfied with the reasons given by the applicant for that request.
+
+**Rights granted by issuance of certificate**
+
+- **(3)** The Commissioner shall, on payment of the prescribed fee,
+	- **(a)** enter in the register the particulars required by section 63 in relation to the plant variety in respect of which the plant breeder’s rights are to be granted; and
+	- **(b)** make the grant by issuing a certificate of plant breeder’s rights in respect of the plant variety to the applicant.
 
 **Opportunity for representations before refusal of grant**
 
@@ -532,21 +632,22 @@ the Commissioner shall refuse the application.
 
 **Destroyed or lost certificates**
 
-- **(5)** Where a certificate of registration issued pursuant to paragraph (3)(b) is destroyed or lost, a certified copy may be issued in lieu thereof on payment of the prescribed fee.
+- **(5)** If a certificate of plant breeder’s rights issued under paragraph (3)(b) is destroyed or lost, a certified copy may be issued in lieu of that certificate on payment of the prescribed fee.
+> 1990, c. 20, s. 27; 2015, c. 2, s. 19.
+
 
 
 
 
 **Grant to joint applicants**
 
-**28** Where the Commissioner grants plant breeder’s rights to persons constituting a remainder mentioned in subsection 7(2) or to other joint applicants, the grant shall be in the names of all those persons or other joint applicants.
+**28** If the Commissioner grants plant breeder’s rights to joint applicants as described in subsection 7(2), the grant shall be in the names of all those joint applicants.
+> 1990, c. 20, s. 28; 2015, c. 2, s. 20.
 
 
 
 
-**Automatic licensing**
-
-**29** The grant of the plant breeder’s rights respecting a plant variety is subject to any conditions related to its category that are prescribed for the purpose of requiring the holder of those rights to authorize, pursuant to paragraph 5(1)(d), the doing of an act described in paragraphs 5(1)(a) to (c).
+**29** [Repealed, 2015, c. 2, s. 20]
 
 
 
@@ -560,12 +661,14 @@ the Commissioner shall refuse the application.
 **30** 
 
 - **(1)** A holder of the plant breeder’s rights respecting a plant variety shall
-	- **(a)** ensure that the holder is in a position, throughout the period of registration of the holder as such, to furnish the Commissioner at the Commissioner’s request with such propagating material of that variety as is capable of so producing it that its identifiable characteristics correspond with those taken into account for the purpose of granting those rights; and
+	- **(a)** ensure that he or she is in a position, throughout the period of his or her registration as the holder, to furnish the Commissioner, on request, with propagating material of that variety that is capable of reproducing that variety so that its identifiable characteristics correspond with those taken into account for the purpose of granting those rights; and
 	- **(b)** provide the Commissioner at the Commissioner’s request with such facilities, free of charge, and with such information as the Commissioner deems necessary in order to be satisfied that the holder is causing the propagating material to be maintained and is otherwise complying with paragraph (a).
 
 **Inspection**
 
 - **(2)** Facilities requested under paragraph (1)(b) may include facilities for inspection and the Commissioner has power to undertake the inspection accordingly for the purposes of that paragraph.
+> 1990, c. 20, s. 30; 2015, c. 2, s. 21.
+
 
 
 
@@ -601,7 +704,7 @@ the Commissioner shall refuse the application.
 
 **32** 
 
-- **(1)** Subject to this section and the regulations, the Commissioner shall, on application by any person, where the Commissioner considers that it is appropriate to do so, confer on the person in the form of a compulsory licence rights to do any thing that the holder might authorize another person to do pursuant to paragraph 5(1)(d).
+- **(1)** Subject to subsections (2) to (6) and the regulations and if the Commissioner considers that it is appropriate to do so, the Commissioner may, on application by any person, authorize the doing of any act described in any of paragraphs 5(1)(a) to (g) by granting the person a compulsory licence.
 
 **Objectives on granting compulsory licence**
 
@@ -624,6 +727,8 @@ the Commissioner shall refuse the application.
 **Compulsory licence not to be exclusive**
 
 - **(6)** No compulsory licence that is an exclusive licence shall be granted pursuant to this section.
+> 1990, c. 20, s. 32; 2015, c. 2, s. 22.
+
 
 
 
@@ -647,7 +752,9 @@ the Commissioner shall refuse the application.
 
 **Annulment of grant**
 
-**34** The Commissioner may, prior to the end of the term fixed by subsection 6(1) for a grant of plant breeder’s rights, annul the grant if the Commissioner is satisfied that the requirements specified in paragraph 4(2)(a) or the conditions specified in subsection 7(1) were not fulfilled.
+**34** The Commissioner may, before the end of the term fixed by subsection 6(1) for a grant of plant breeder’s rights, annul the grant if the Commissioner is satisfied that, at the time of the grant of those rights, the requirements set out in section 4 or the conditions set out in subsection 7(1) were not fulfilled or the holder was otherwise not entitled under this Act to the grant.
+> 1990, c. 20, s. 34; 2015, c. 2, s. 23.
+
 
 
 
@@ -659,13 +766,13 @@ the Commissioner shall refuse the application.
 - **(1)** The Commissioner may, prior to the end of the term fixed by subsection 6(1) for a grant of any plant breeder’s rights, revoke the rights if the Commissioner is satisfied that
 	- **(a)** their holder has failed to comply with paragraph 30(1)(a);
 	- **(b)** their holder has failed, within the prescribed period, to comply with any request of the Commissioner referred to in section 30;
-	- **(c)** the applicant for the grant of those rights committed a breach of an undertaking given by the applicant under subsection 19(2);
+	- **(c)** their holder has failed to comply with a direction under section 16.1 to change the denomination of the plant variety to which the rights relate;
 	- **(d)** their holder has failed, within the prescribed period, to pay the fee required under subsection 6(2); or
-	- **(e)** there has been a failure to meet any obligation imposed by, and for the benefit of the holder of, a compulsory licence affecting any such rights by virtue of section 32.
+	- **(e)** the plant variety which is the subject of those rights no longer meets the conditions described in paragraph 4(2)(c) or (d).
 
-**Licensee’s remedies not affected**
+- **(2)** [Repealed, 2015, c. 2, s. 24]
+> 1990, c. 20, s. 35; 2015, c. 2, s. 24.
 
-- **(2)** Nothing in paragraph (1)(e) prejudices any remedies lawfully available, apart from subsection (1), to a holder of a compulsory licence.
 
 
 
@@ -693,6 +800,8 @@ any interested person may file with the Commissioner an objection against the in
 **Opportunity to object and make representations**
 
 - **(4)** Interested persons having objections to file in accordance with subsection (2) or representations to make for the purposes of subsection (3) shall be given a reasonable opportunity to do so pursuant to such notice as the Commissioner deems appropriate, but nothing in this subsection prejudices the requirements of subsection (1).
+> 1990, c. 20, s. 36; 2015, c. 2, s. 25(F).
+
 
 
 
@@ -717,6 +826,8 @@ any interested person may file with the Commissioner an objection against the in
 **Fees due not affected**
 
 - **(2)** No surrender of plant breeder’s rights shall affect any liability for any fee due and payable in respect of those rights before the surrender.
+> 1990, c. 20, s. 38; 2015, c. 2, s. 26(F).
+
 
 
 
@@ -725,11 +836,11 @@ any interested person may file with the Commissioner an objection against the in
 
 
 
-**Non-residents**
+**No residency or establishment**
 
 **39** 
 
-- **(1)** Where a holder of plant breeder’s rights, in the case of an individual, is not resident in Canada or, in the case of a corporation, does not have its registered office in Canada, the holder shall have an agent in respect of those rights who is resident in Canada.
+- **(1)** If a holder of plant breeder’s rights, in the case of an individual, is not resident in Canada or, in the case of a person that is not an individual, does not have an establishment in Canada, the holder shall have an agent in respect of those rights who is resident in Canada.
 
 **Where agent lacking**
 
@@ -743,6 +854,8 @@ the Commissioner or the Federal Court may, without requirement of service on the
 **Other consequences not affected**
 
 - **(3)** Nothing in subsection (2) affects any consequences, other than those for which that subsection provides, that the applicant or holder may, at law, suffer as a result of any failure described in paragraph (2)(a) or (b).
+> 1990, c. 20, s. 39; 2015, c. 2, s. 27.
+
 
 
 
@@ -775,6 +888,8 @@ the Commissioner or the Federal Court may, without requirement of service on the
 **Appeals**
 
 - **(3)** An appeal lies from any order under subsection (2) under the same circumstances and to the same court as from other judgments or orders of the court in which the order is made.
+> 1990, c. 20, s. 41; 2015, c. 2, s. 28(F).
+
 
 
 
@@ -809,9 +924,9 @@ the Commissioner or the Federal Court may, without requirement of service on the
 **Invalidation by Federal Court**
 
 - **(3)** Subject to section 44, plant breeder’s rights may, at the instance of the Attorney General of Canada or an interested person, be declared invalid by the Federal Court, but only on the following grounds:
-	- **(a)** a requirement specified in paragraph 4(2)(a) was not fulfilled;
-	- **(b)** a condition specified in paragraph 7(1)(a), (b) or (c) was not fulfilled; or
-	- **(c)** the holder has not complied with paragraph 30(1)(a).
+	- **(a)** a condition specified in paragraph 4(2)(a) or (b) was not fulfilled; or
+	- **(b)** the holder has not complied with paragraph 30(1)(a).
+	- **(c)** [Repealed, 2015, c. 2, s. 29]
 
 **Declaration**
 
@@ -824,6 +939,8 @@ the Commissioner or the Federal Court may, without requirement of service on the
 **Defendant not required to give security**
 
 - **(6)** A defendant in an action for infringement of plant breeder’s rights is not required to give any security for the purpose of obtaining a declaration under subsection (4).
+> 1990, c. 20, s. 43; 2015, c. 2, s. 29.
+
 
 
 
@@ -835,17 +952,19 @@ the Commissioner or the Federal Court may, without requirement of service on the
 
 
 
-**Holder may be required to take proceedings**
+**Holder required to take proceedings**
 
 **45** 
 
-- **(1)** A person authorized pursuant to paragraph 5(1)(d) or licensed to exercise plant breeder’s rights may, subject to any agreement between the holder of the rights and that person,
+- **(1)** A person who has been granted, in respect of plant breeder’s rights, an authorization described in paragraph 5(1)(h) or a compulsory licence under subsection 32(1) may, subject to any agreement between that person and the holder of the rights,
 	- **(a)** call on the holder to take proceedings for infringement of the rights; and
 	- **(b)** where the holder refuses or neglects to take proceedings within the prescribed period after being called on under paragraph (a) to do so, institute in the name of that person, making the holder a defendant, proceedings for infringement as if that person were the holder.
 
 **Holder not liable for costs**
 
 - **(2)** A holder who is made a defendant pursuant to paragraph (1)(b) is not liable for any costs unless the holder takes part in the proceedings.
+> 1990, c. 20, s. 45; 2015, c. 2, s. 30.
+
 
 
 
@@ -853,9 +972,11 @@ the Commissioner or the Federal Court may, without requirement of service on the
 **Defence**
 
 **46** A defendant in an action for infringement of plant breeder’s rights may plead as a matter of defence any of the following grounds but no others, in relation to the invalidity of the plant breeder’s rights:
-- **(a)** that a requirement specified in paragraph 4(2)(a) was not fulfilled;
-- **(b)** that a condition specified in paragraph 7(1)(a), (b) or (c) was not fulfilled; or
-- **(c)** that the holder has not complied with paragraph 30(1)(a).
+- **(a)** that a condition specified in paragraph 4(2)(a) or (b) was not fulfilled; or
+- **(b)** that the holder has not complied with paragraph 30(1)(a).
+- **(c)** [Repealed, 2015, c. 2, s. 31]
+> 1990, c. 20, s. 46; 2015, c. 2, s. 31.
+
 
 
 
@@ -863,6 +984,8 @@ the Commissioner or the Federal Court may, without requirement of service on the
 **Admissibility of certificates given outside Canada**
 
 **47** In an action or proceeding respecting plant breeder’s rights that is authorized to be had or taken before a court in Canada pursuant to this Act, a document purporting to be a certificate of the grant of protection of a plant variety by the appropriate authority in a country of the Union or an agreement country or to be a certified copy of an official document relating to any such protection, if the certificate respecting the grant or copy purports to be signed by the proper officer of the government of the country, is admissible in evidence without proof of the signature or official character of the person appearing to have signed the document.
+> 1990, c. 20, s. 47; 2015, c. 2, s. 32(F).
+
 
 
 
@@ -883,7 +1006,7 @@ the Commissioner or the Federal Court may, without requirement of service on the
 **Appeal from decision re validity**
 
 - **(2)** A decision holding or refusing to hold plant breeder’s rights invalid is subject to appeal to any court having appellate jurisdiction in other cases decided by the court by which that decision was made.
-> 1990, c. 20, s. 49; 2002, c. 8, s. 158.
+> 1990, c. 20, s. 49; 2002, c. 8, s. 158; 2015, c. 2, s. 33(F).
 
 
 
@@ -895,10 +1018,7 @@ the Commissioner or the Federal Court may, without requirement of service on the
 
 - **(1)** An appeal lies to the Federal Court from a decision on review under any regulations made pursuant to paragraph 75(1)(m) or from a decision of the Commissioner, other than a decision subject to review under any such regulations, where the decision on review is given in respect of, or the Commissioner’s decision is, a decision
 	- **(a)** disposing of an application for the grant of plant breeder’s rights, an objection filed under section 22 or a petition presented under paragraph 26(2)(b);
-	- **(b)** determining whether or not
-		- **(i)** annulment of the grant of plant breeder’s rights is required by section 13,
-		- **(ii)** the grant of a protective direction is to be refused, or
-		- **(iii)** any condition described in paragraph 20(1)(a) or (b) is fulfilled;
+	- **(b)** determining whether or not annulment of the grant of plant breeder’s rights is required by section 13;
 	- **(c)** settling terms referred to in subsection 32(2) or determining remuneration or any other matter in disposing of an application for a compulsory licence;
 	- **(d)** determining whether or not to extend, limit, vary or revoke such a licence or determining the extent or manner of any such extension, limitation or variation;
 	- **(e)** determining whether or not to carry out any intention referred to in section 37 or subsection 66(3); or
@@ -907,6 +1027,8 @@ the Commissioner or the Federal Court may, without requirement of service on the
 **Limitation**
 
 - **(2)** An appeal under subsection (1) shall be brought within two months after the date on which the decision is made or within such further time as the Federal Court may allow, either before or after the expiration of the two months.
+> 1990, c. 20, s. 50; 2015, c. 2, s. 34.
+
 
 
 
@@ -915,11 +1037,13 @@ the Commissioner or the Federal Court may, without requirement of service on the
 
 **51** 
 
-- **(1)** Subject to subsection 67(4), where any appeal or other proceedings have been instituted in the Federal Court under any provision of this Act, the Commissioner shall, at the request of any party to the proceedings and on payment of the prescribed fee, transmit to the Court all records and documents on file in the Plant Breeders’ Rights Office that relate to the matters in question in the proceedings.
+- **(1)** If any proceedings have been instituted in the Federal Court under this Act, the Commissioner shall, at the request of any party to the proceedings and on payment of the prescribed fee, transmit to the Court all records and documents on file in the Plant Breeders’ Rights Office that relate to the matters in question in the proceedings.
 
 **Idem**
 
 - **(2)** Transmission to the Federal Court by the Commissioner of certificates of entries, certified copies or certified extracts made under the authority of the Commissioner and admissible pursuant to subsection 60(2) or 64(2) or section 65, to the extent that the contents of those records or documents are composed of the entries or shown in the copies or extracts, satisfies the requirements of subsection (1).
+> 1990, c. 20, s. 51; 2015, c. 2, s. 35.
+
 
 
 
@@ -927,6 +1051,8 @@ the Commissioner or the Federal Court may, without requirement of service on the
 **Judgments to be filed**
 
 **52** A certified copy of every judgment or order made by the Federal Court or the Supreme Court of Canada in relation to any plant breeder’s rights that are recorded or to be recorded on the register or for which an application is pending shall be filed with the Commissioner by an officer of the registry of the Federal Court.
+> 1990, c. 20, s. 52; 2015, c. 2, s. 36(F).
+
 
 
 
@@ -939,19 +1065,19 @@ the Commissioner or the Federal Court may, without requirement of service on the
 
 **53** 
 
-- **(1)** Every person commits an offence who wilfully discloses any information with regard to any variety in respect of which an application for plant breeder’s rights is made or with regard to the business affairs of the applicant that was acquired by that person in performing any functions under this Act except where the information is disclosed
+- **(1)** Every person commits an offence who knowingly discloses any information with regard to any variety in respect of which an application for plant breeder’s rights is made or with regard to the business affairs of the applicant that was acquired by that person in performing any functions under this Act except if the information is disclosed
 	- **(a)** to the Minister, the advisory committee or the Commissioner or to any other person for the purposes of the performance by that other person of any functions pursuant to this Act or of any duties in an official capacity for enforcement of this Act; or
 	- **(b)** in compliance with any requirements imposed by or under this Act or by virtue of any power lawfully exercised in the course or for the purposes of any judicial proceedings.
 
 **Offences respecting denominations and sales**
 
 - **(2)** Every person commits an offence who
-	- **(a)** wilfully contravenes section 15;
-	- **(b)** for the purposes of selling any propagating material for propagation or multiplication, wilfully designates the material by reference to
+	- **(a)** knowingly contravenes section 15;
+	- **(b)** for the purpose of selling any propagating material, knowingly designates the material by reference to
 		- **(i)** a denomination different from any denomination registered in respect of the plant variety of which the material is propagating material,
 		- **(ii)** a denomination registered in respect of a plant variety of which the material is not propagating material, or
 		- **(iii)** a denomination corresponding so closely to a registered denomination as to mislead; or
-	- **(c)** knowingly, for the purpose of selling any propagating material for propagation or multiplication, represents falsely that the material is propagating material of, or is derived from, a plant variety in respect of which plant breeder’s rights are held or have been applied for.
+	- **(c)** knowingly, for the purpose of selling any propagating material, represents falsely that the material is propagating material of, or is derived from, a plant variety in respect of which plant breeder’s rights are held or have been applied for.
 
 **Falsification in relation to administration**
 
@@ -973,18 +1099,18 @@ the Commissioner or the Federal Court may, without requirement of service on the
 	- **(a)** is liable on summary conviction to a fine of not more than twenty-five thousand dollars; or
 	- **(b)** is liable on conviction on indictment to a fine the amount of which is in the discretion of the court.
 
-**Definition of “representation”**
+**Definition of representation**
 
 - **(6)** In this section, ***representation*** includes any manner of express or implied representation, by whatever means it is made.
 
 **Limitation period**
 
-- **(7)** A prosecution for a summary conviction offence under this Act may be instituted at any time within two years after the time the subject-matter of the prosecution becomes known to the Minister.
+- **(7)** A prosecution for a summary conviction offence under this Act may be instituted at any time within two years after the day on which the subject matter of the prosecution becomes known to the Commissioner.
 
-**Minister’s certificate**
+**Commissioner’s certificate**
 
-- **(8)** A document purporting to have been issued by the Minister, certifying the day on which the subject-matter of any prosecution became known to the Minister, is admissible in evidence without proof of the signature or official character of the person appearing to have signed the document and is evidence of the matters asserted in it.
-> 1990, c. 20, s. 53; 1997, c. 6, s. 76.
+- **(8)** A document purporting to have been issued by the Commissioner, certifying the day on which the subject matter of any prosecution became known to him or her, is admissible in evidence without proof of the signature or official character of the person appearing to have signed the document and is evidence of the matters asserted in it.
+> 1990, c. 20, s. 53; 1997, c. 6, s. 76; 2015, c. 2, s. 37.
 
 
 
@@ -993,6 +1119,8 @@ the Commissioner or the Federal Court may, without requirement of service on the
 **Certificate of examiner as proof**
 
 **54** A certificate purporting to be signed by an officer of the Plant Breeders’ Rights Office who is appointed or designated a principal examiner, stating that a substance or a sample submitted to that examiner by any other officer of that Office has been examined by that examiner and stating the result of the examination is admissible in evidence in any prosecution for an offence under this Act without proof of the signature or official character of the person appearing to have signed the certificate and, in the absence of evidence to the contrary, is proof of the statements contained in the certificate.
+> 1990, c. 20, s. 54; 2015, c. 2, s. 38(F).
+
 
 
 
@@ -1021,12 +1149,12 @@ the Commissioner or the Federal Court may, without requirement of service on the
 
 **Functions of Commissioner**
 
-- **(4)** Subject to section 58, the Commissioner shall receive all applications, fees, papers, documents and materials submitted for plant breeders’ rights, shall do all things necessary for the granting of plant breeders’ rights and for the exercise of all other powers conferred, and the discharge of all other duties imposed, on the Commissioner by or pursuant to this Act or the regulations and shall have the charge and custody of the register, books, records, papers and other things belonging to the Plant Breeders’ Rights Office.
+- **(4)** The Commissioner shall receive all applications, fees, documents and materials submitted for plant breeders’ rights, shall do all things necessary for the granting of plant breeders’ rights and for the exercise of all other powers conferred, and the discharge of all other duties imposed, on the Commissioner under this Act and shall have the charge and custody of the register and any other documents or materials belonging to the Plant Breeders’ Rights Office.
 
 **Absence, etc., of Commissioner**
 
 - **(5)** Where the Commissioner is absent or unable to act or the office of Commissioner is vacant, such other officer as may be designated by the President of the Canadian Food Inspection Agency shall, in the capacity of Acting Commissioner, exercise the powers and perform the duties of the Commissioner.
-> 1990, c. 20, s. 56; 1997, c. 6, s. 78.
+> 1990, c. 20, s. 56; 1997, c. 6, s. 78; 2015, c. 2, s. 39.
 
 
 
@@ -1075,11 +1203,13 @@ the Commissioner or the Federal Court may, without requirement of service on the
 
 **60** 
 
-- **(1)** The Commissioner shall cause a seal to be made for the purposes of this Act and each certificate issued pursuant to paragraph 27(3)(b) to be sealed with that seal and may cause any other instrument or copy of any document issuing from the Plant Breeders’ Rights Office to be so sealed.
+- **(1)** The Commissioner shall cause a seal to be made for the purposes of this Act and each certificate of plant breeder’s rights issued under paragraph 27(3)(b) to be sealed with that seal. The Commissioner may also cause any other instrument or copy of any document issuing from the Plant Breeders’ Rights Office to be sealed with that seal.
 
 **Notice of seal and other documents**
 
 - **(2)** Every court, judge and person shall take notice of the seal of the Plant Breeders’ Rights Office and shall admit impressions of the seal in evidence without proof thereof and shall take notice of and admit in evidence, without further proof and without production of the originals, all copies or extracts certified under the seal to be copies of or extracts from documents on file in that Office.
+> 1990, c. 20, s. 60; 2015, c. 2, s. 40(E).
+
 
 
 
@@ -1104,16 +1234,18 @@ the Commissioner or the Federal Court may, without requirement of service on the
 
 **Register**
 
-**63** The Commissioner shall keep a register of plant breeders’ rights and, subject to the payment of any fee or charge required by or under this Act to be paid in the case of any entry in the register, the Commissioner shall enter in it
-- **(a)** the prescribed category to which each new variety belongs;
-- **(b)** the denomination of the variety, and any change thereof approved pursuant to subsection 14(5);
+**63** The Commissioner shall keep a register of plant breeders’ rights and, subject to the payment of any fee required under this Act to be paid in the case of any entry in the register, the Commissioner shall enter in it
+- **(a)** in relation to each plant variety that is the subject of those rights, the prescribed category to which it belongs;
+- **(b)** the denomination of the variety, and any change to that denomination;
 - **(c)** the full name and address of the breeder of that variety;
 - **(d)** the name and address of the person whom the Commissioner is satisfied, in the manner provided by or under this Act, ought to be registered as the holder of the plant breeder’s rights respecting that variety;
 - **(e)** the date of the grant of plant breeder’s rights respecting that variety;
 - **(f)** the date of, and the reason for, any termination or invalidation of plant breeder’s rights;
 - **(g)** if plant breeder’s rights are the subject of a compulsory licence under section 32, a statement to that effect;
-- **(h)** the prescribed particulars of each application for the grant of plant breeder’s rights and of any abandonment or withdrawal of the application and, where a protective direction is granted, a statement to that effect; and
+- **(h)** the prescribed particulars of each application for the grant of plant breeder’s rights and of any abandonment or withdrawal of the application; and
 - **(i)** the prescribed particulars, subject to the provisions of this Act and the regulations, that are considered by the Commissioner to be appropriate for entry in the register.
+> 1990, c. 20, s. 63; 2015, c. 2, s. 41.
+
 
 
 
@@ -1127,6 +1259,8 @@ the Commissioner or the Federal Court may, without requirement of service on the
 **Certified copy or extract**
 
 - **(2)** A document purporting to be a copy of any entry in, or an extract of any contents of, the register and to be certified by the Commissioner to be a true copy or extract is evidence of the entry or contents without further proof or production of the register.
+> 1990, c. 20, s. 64; 2015, c. 2, s. 42(F).
+
 
 
 
@@ -1134,6 +1268,8 @@ the Commissioner or the Federal Court may, without requirement of service on the
 **Certificate of Commissioner**
 
 **65** A certificate purporting to be made by the Commissioner to the effect that an entry has or has not been made in the register or that any other thing authorized by or under this Act to be done in the course of the administration of this Act has or has not been done is evidence of the matters specified in that certificate.
+> 1990, c. 20, s. 65; 2015, c. 2, s. 43(F).
+
 
 
 
@@ -1143,7 +1279,7 @@ the Commissioner or the Federal Court may, without requirement of service on the
 **66** 
 
 - **(1)** Subject to subsection (2), the Commissioner may, on such terms, if any, as the Commissioner deems proper, authorize
-	- **(a)** the correction of any clerical error or error in translation appearing in a certificate of registration issued pursuant to paragraph 27(3)(b), in an application for plant breeder’s rights, in any document filed for the purposes of such an application or in the register or index;
+	- **(a)** the correction of any clerical error or error in translation appearing in a certificate of plant breeder’s rights issued under paragraph 27(3)(b), in an application for plant breeder’s rights, in any document filed for the purposes of such an application or in the register or index;
 	- **(b)** the amendment of any document that belongs to the Plant Breeders’ Rights Office and in respect of which no express provision for its amendment is made in this Act; and
 	- **(c)** the condonation or correction of any procedural irregularity in any proceedings subject to the authority of the Commissioner.
 
@@ -1154,6 +1290,8 @@ the Commissioner or the Federal Court may, without requirement of service on the
 **Opportunities for representations by interested persons**
 
 - **(3)** The Commissioner, if intending to exercise any power pursuant to subsection (1), shall give notice of the intention to each person appearing to the Commissioner to have an interest in the matter and shall not carry out the intention without first giving that person a reasonable opportunity to make representations with respect thereto.
+> 1990, c. 20, s. 66; 2015, c. 2, s. 44(E).
+
 
 
 
@@ -1164,21 +1302,20 @@ the Commissioner or the Federal Court may, without requirement of service on the
 
 - **(1)** An application for the grant of plant breeder’s rights and other documents filed with the Commissioner in connection with any such rights shall, subject to subsection (3), be preserved for the prescribed periods.
 
-**Inspection by public, copies and certificates**
+**Public accessibility**
 
-- **(2)** Subject to subsection (4),
-	- **(a)** the register,
-	- **(b)** the index, and
-	- **(c)** any documents referred to in subsection (1) that are prescribed for the purposes of this subsection or that may properly, in the opinion of the Commissioner, be open for inspection by the public,
-shall be open for inspection, on payment of the prescribed fees, during business hours at the Plant Breeders’ Rights Office and the Commissioner shall, on request and on payment of the prescribed fee, furnish any person with a copy of, or certificate with regard to, an entry in the register or index or with a copy of any such document.
+- **(2)** The Commissioner shall make the following accessible to the public on the Internet and, if the Commissioner considers it appropriate, by any other means:
+	- **(a)** the register;
+	- **(b)** the index; and
+	- **(c)** any documents referred to in subsection (1) that are prescribed and any other documents that should, in the Commissioner’s opinion, be made accessible to the public.
 
 **Withdrawn application papers to be returned**
 
 - **(3)** Where an application for plant breeder’s rights has been withdrawn, the Commissioner shall return to the applicant at the address indicated in the application all the papers and other material submitted in connection with the application but, to any extent to which it is impracticable for the Commissioner to do so, and on the expiration of the prescribed period for so doing, the Commissioner shall destroy the material.
 
-**Restriction on publication**
+- **(4)** [Repealed, 2015, c. 2, s. 45]
+> 1990, c. 20, s. 67; 2015, c. 2, s. 45.
 
-- **(4)** An application for plant breeder’s rights and any document or instrument that accompanies it shall not, except with the consent of the applicant or by order of a court for the purposes of proceedings before it, be published by the Commissioner or be open to public inspection at any time before particulars of the application are published in the Canada Gazette pursuant to section 70.
 
 
 
@@ -1195,6 +1332,8 @@ shall be open for inspection, on payment of the prescribed fees, during business
 **Deemed delivery**
 
 - **(2)** Where any notice or other document is sent by registered mail pursuant to subsection (1), it shall, in the absence of evidence to the contrary, be deemed to be given or transmitted at the time at which the registered letter containing it would be delivered in the ordinary course of post.
+> 1990, c. 20, s. 68; 2015, c. 2, s. 46(F).
+
 
 
 
@@ -1217,8 +1356,7 @@ shall be open for inspection, on payment of the prescribed fees, during business
 - **(1)** The Commissioner shall cause to be published in the Canada Gazette such particulars of the following as are prescribed:
 	- **(a)** every application that is not rejected pursuant to section 17;
 	- **(b)** every request included pursuant to subsection 9(1) in an application that is not rejected pursuant to section 17;
-	- **(c)** every application for a protective direction;
-	- **(d)** every grant or withdrawal of a protective direction;
+	- **(c) and (d)** [Repealed, 2015, c. 2, s. 47]
 	- **(e)** every grant or refusal to grant plant breeder’s rights;
 	- **(f)** every assignment of plant breeder’s rights of which the Commissioner is informed;
 	- **(g)** every application for a compulsory licence;
@@ -1233,8 +1371,8 @@ shall be open for inspection, on payment of the prescribed fees, during business
 
 - **(3)** In addition to the matters referred to in subsection (1), the Commissioner shall cause to be published in the Canada Gazette
 	- **(a)** such other matters as the Commissioner considers appropriate for public information; and
-	- **(b)** a notice of every refusal to grant a protective direction and of every annulment under section 34 or revocation under section 35.
-> 1990, c. 20, s. 70; 1995, c. 1, s. 53.
+	- **(b)** a notice of every annulment under section 34 or revocation under section 35.
+> 1990, c. 20, s. 70; 1995, c. 1, s. 53; 2015, c. 2, s. 47.
 
 
 
@@ -1270,6 +1408,8 @@ shall be open for inspection, on payment of the prescribed fees, during business
 **Knowledge or notice, otherwise attributable, unaffected**
 
 - **(2)** Nothing in subsection (1) prevents any question referred to therein from being determined on the ground that the person had the relevant knowledge or notice, if lawfully attributable to the person, apart from that subsection.
+> 1990, c. 20, s. 72; 2015, c. 2, s. 48(F).
+
 
 
 
@@ -1298,6 +1438,8 @@ shall be open for inspection, on payment of the prescribed fees, during business
 **Remuneration**
 
 - **(4)** No terms or conditions determined under subsection (1) shall provide for any remuneration to be payable to any of the persons acting on the advisory committee, but those persons may be paid any reasonable travel and living expenses incurred by them when engaged on the business of the committee while absent from their ordinary places of residence.
+> 1990, c. 20, s. 73; 2015, c. 2, s. 49(F).
+
 
 
 
@@ -1318,32 +1460,24 @@ shall be open for inspection, on payment of the prescribed fees, during business
 **75** 
 
 - **(1)** The Governor in Council may make regulations for carrying out the purposes and provisions of this Act and, without limiting the generality of the foregoing, may make regulations
-	- **(a)** determining the nature of any charges that a person may be required to pay in respect of any services provided in the execution of any functions by or under the authority of the Commissioner;
+	- **(a)** fixing the fees that a person may be required to pay in respect of any services provided by the Commissioner or by any person authorized by the Commissioner and providing for the time and manner in which the fees are to be paid and the circumstances in which the fees may be refunded in whole or in part;
 	- **(b)** limiting, extending or providing for the extension, whether before or after the expiration, of the period for doing anything pursuant to this Act;
-	- **(c)** defining the meanings of the words and expressions “commercially acceptable”, “description”, “designation”, “identifiable characteristics”, “recently prescribed category”, “representations”, “reasonably priced” and “widely distributed” for the purposes of this Act;
-	- **(d)** requiring
-		- **(i)** the publication in the *Trade Marks Journal* of prescribed particulars respecting proposals, approvals and changes of denominations pursuant to section 14, and
-		- **(ii)** notwithstanding anything in subsection 73(1), the advisory committee’s advice as a prerequisite for the execution of any functions by the Minister or the Commissioner;
+	- **(c)** defining the meanings of the words and expressions ***commercially acceptable***, ***description***, ***designation***, ***identifiable characteristics***, ***reasonably priced***, ***recently prescribed category***, ***representations***, ***tree***, ***vine*** and ***widely distributed*** for the purposes of this Act;
+	- **(c.1)** prescribing, for the purposes of paragraph 5(1)(b), any acts that are to be considered as the conditioning of propagating material;
+	- **(c.2)** specifying categories for the purposes of subsection 6(1);
+	- **(d)** respecting the publication in the Trade Marks Journal of information relating to proposals, approvals and changes of denominations;
 	- **(e)** establishing principles to be observed by the Commissioner in disposing of applications for compulsory licences and, particularly, in complying with subsection 32(2);
-	- **(f)** giving effect to the terms of
-		- **(i)** any convention with a view to the fulfilment of which any country is prescribed as a country of the Union, and
-		- **(ii)** any agreement with a view to the fulfilment of which any country is prescribed as an agreement country,
-and, notwithstanding anything in this Act, qualifying or curtailing any rights, protection or other benefits under this Act to any extent conducive to reciprocity between Canada and any such country;
+	- **(f)** designating any entity as an agreement country for the purposes of any of the provisions of this Act or the regulations, with a view to the fulfilment of an agreement concerning the rights of plant breeders made between Canada and that entity, and, despite anything in this Act, qualifying or restricting any rights or other benefits under this Act;
 	- **(g)** distinguishing the kind of matters to be published in any of the ways contemplated by subsection 71(1);
 	- **(h)** assigning powers or duties to persons employed by the Canadian Food Inspection Agency or designated by the President of the Agency to administer or enforce this Act or appointed or engaged pursuant to subsection 59(1);
 	- **(i)** providing for the organization, including fixing the times of operation and closure, of the Plant Breeders’ Rights Office, panels constituted under paragraph 59(1)(b) and the business thereof;
 	- **(j)** specifying or defining methods, procedural requirements or conditions that shall be observed or may, at the discretion of the Commissioner, be adopted or imposed for the purpose or in the course of instituting, proceeding on, dealing with or disposing of any applications, objections, requests, representations, examinations, tests, trials or matters involving investigation or requiring determination by or under the authority of the Commissioner;
-	- **(k)** providing
-		- **(i)** in relation to any category of plant, for any of the grants of plant breeder’s rights respecting new varieties of that category to be made, at the applicant’s request, on terms allowing an exemption, revocable by the Commissioner, from compulsory licensing under section 32 or from the requirements of any conditions described in section 29 or from both,
-		- **(ii)** for the inclusion, in the terms of a grant referred to in section 29 or subparagraph (i), of any terms in, on or subject to which any conditions described in that section shall be imposed or complied with or any exemption may, pursuant to that subparagraph, be allowed or revoked, and
-		- **(iii)** for paragraph 35(1)(e) to apply to any obligations under any of those conditions as that paragraph applies to an obligation under the terms of a compulsory licence, and for the extended application of subsection 35(1) and sections 36 and 37 accordingly;
+	- **(k)** respecting the granting of plant breeder’s rights with an exemption, under subsection 27(2.1), from compulsory licensing, including the circumstances in which the exemption may be given or revoked by the Commissioner, the terms and conditions on which the exemption may be given and the factors that are to be taken into account before the exemption is revoked;
 	- **(l)** prescribing
-		- **(i)** matters to be entered in, and the forms of, the register, the index, applications for plant breeders’ rights and any other record, instrument or document to be kept, made or used pursuant to or for the purposes of this Act,
-		- **(ii)** all or any of the means by which or the factors or criteria by reference to which, whether they are found in Canada or elsewhere, common knowledge or the absence thereof may or shall be or ought not to be regarded as established for the purposes of paragraph 4(2)(a) or section 62,
-		- **(iii)** the fees payable by a person in respect of any facilities afforded by the Plant Breeders’ Rights Office,
-		- **(iv)** the time at or within which and the manner in which any charge, the nature of which is determined under paragraph (a), or any prescribed fee shall be paid,
-		- **(v)** the circumstances in which any charge or fee referred to in subparagraph (iv) may or shall be refunded in whole or in part, and
-		- **(vi)** matters in respect of which the Commissioner is to be satisfied before an exemption referred to in subparagraph (k)(i) may be revoked;
+		- **(i)** the information to be entered in, and the forms of, the register, the index, applications for plant breeders’ rights and any other record, instrument or document to be kept, made or used for the purposes of this Act, and
+		- **(ii)** the means, factors or criteria for determining whether the existence of a plant variety is a matter of common knowledge for the purposes of paragraph 4(2)(b) or section 62;
+	- **(l.1)** respecting any classes of farmers or plant varieties to which subsection 5.3(2) is not to apply;
+	- **(l.2)** respecting the use of harvested material under subsection 5.3(2), including any circumstances in which that use is restricted or prohibited and any conditions to which that use is subject;
 	- **(m)** respecting the procedure for review of cases involving decisions given by the Commissioner pursuant to any provision of this Act; and
 	- **(n)** prescribing any matter required or authorized by this Act to be prescribed.
 
@@ -1356,7 +1490,7 @@ and, notwithstanding anything in this Act, qualifying or curtailing any rights, 
 - **(3)** Subsection (2) does not apply in respect of a proposed regulation that
 	- **(a)** has been published pursuant to that subsection, whether or not it has been amended as a result of representations made pursuant to that subsection; or
 	- **(b)** makes no material substantive change in an existing regulation.
-> 1990, c. 20, s. 75; 1997, c. 6, s. 80.
+> 1990, c. 20, s. 75; 1997, c. 6, s. 80; 2015, c. 2, s. 50.
 
 
 
@@ -1416,10 +1550,33 @@ as the case may be, and particulars of anything so indicated shall be furnished 
 
 
 
-## Consequential Amendments
+## Transitional Provisions
 
 
-**79. to 81** [Amendments]
+
+**Plant breeders’ rights — previously granted**
+
+**79** This Act, as it reads on or after the day on which this section comes into force, does not apply with respect to plant breeders’ rights granted before that day, but this Act, as it read immediately before that day, continues to apply with respect to those rights.
+> 1990, c. 20, s. 79; 2015, c. 2, s. 51.
+
+
+
+
+
+**Existing applications**
+
+**80** An application for the grant of plant breeder’s rights that was made before the day on which this section comes into force and that was not disposed of before that day is to be dealt with and disposed of in accordance with this Act. However, if plant breeder’s rights are granted to the applicant, sections 19 to 21, as they read immediately before the day on which this section comes into force, continue to apply with respect to those rights.
+> 1990, c. 20, s. 80; 2015, c. 2, s. 51.
+
+
+
+
+
+**Existing proceedings**
+
+**81** A proceeding commenced under this Act before the day on which this section comes into force that, on that day, is pending before a court and in respect of which no decision has been made shall be dealt with and disposed of in accordance with this Act as it read immediately before that day.
+> 1990, c. 20, s. 81; 2015, c. 2, s. 51.
+
 
 
 
