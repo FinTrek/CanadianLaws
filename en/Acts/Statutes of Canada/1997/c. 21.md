@@ -37,7 +37,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** The definitions in this section apply in this Act.
 
-***farmer*** means any individual, corporation, cooperative, partnership or other association of persons that is engaged in farming for commercial purposes and that meets any prescribed criteria. (*agriculteur*)
+***farmer*** means any person, cooperative, partnership or other association of persons that is engaged in farming for commercial purposes and that meets any prescribed criteria. (*agriculteur*)
 
 ***farming*** means
 - **(a)** the production of field-grown crops, cultivated and uncultivated, and horticultural crops;
@@ -51,9 +51,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***secured creditor*** means
 - **(a)** any creditor holding a mortgage, hypothec, pledge, charge, lien, privilege, priority claim or other security interest on or against the property of a farmer or any part thereof as security for a debt due or accruing due from the farmer;
-- **(b)** any individual, corporation, cooperative, partnership or other association of persons with which a farmer has entered into an agreement for sale or hire-purchase or, in the Province of Quebec, leasing, or a conditional sales contract, relating to any property used or occupied by the farmer or to which such an agreement or contract has been assigned; and
+- **(b)** any person, cooperative, partnership or other association of persons
+	- **(i)** with which a farmer has entered into an agreement for sale, a lease with an option to purchase or a conditional sales contract relating to any property used or possessed by the farmer, or
+	- **(ii)** to which such an agreement or contract has been assigned; and
 - **(c)** any bank, or authorized foreign bank within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) to which security on the property of a farmer or any part of the property has been given under section 427 of that Act or under section 427 as incorporated by section 555 of that Act, as the case may be. (*créancier garanti*)
-> 1997, c. 21, s. 2; 1999, c. 28, s. 161.
+> 1997, c. 21, s. 2; 1999, c. 28, s. 161; 2015, c. 2, s. 141.
 
 
 
@@ -134,14 +136,17 @@ are eligible to apply under section 5.
 
 - **(1)** On receipt of a duly completed application under section 5, the administrator shall forthwith
 	- **(a)** give notice of the application to
-		- **(i)** each person whose name is listed as a creditor in the application, in the case of an application under paragraph 5(1)(a), or
-		- **(ii)** each person whose name is listed as a secured creditor in the application, in the case of an application under paragraph 5(1)(b);
-	- **(b)** in the case of an application under paragraph 5(1)(a), issue a thirty day stay of proceedings against the farmer by all the farmer’s creditors, and give notice thereof to each person whose name is listed as a creditor in the application; and
+		- **(i)** each creditor listed in the application, in the case of an application made under paragraph 5(1)(a),
+		- **(ii)** each secured creditor listed in the application, in the case of an application made under paragraph 5(1)(b), and
+		- **(iii)** the Minister, if the Minister is the guarantor of a farmer’s debt that is owed to a creditor or secured creditor listed in the application;
+	- **(b)** in the case of an application made under paragraph 5(1)(a), issue a stay of proceedings for a period of 30 days, beginning at the time when the stay is issued, against the farmer by all of the farmer’s creditors and give notice of the stay to each creditor listed in the application; and
 	- **(c)** determine whether the farmer is eligible under this Act to make that application, which determination may be based on, among other things, a preliminary review of the farmer’s financial affairs.
 
 **Certain decisions final**
 
 - **(2)** In the case of an application under paragraph 5(1)(b), a determination by the administrator under paragraph (1)(c) is final and is not subject to appeal.
+> 1997, c. 21, s. 7; 2015, c. 2, s. 142.
+
 
 
 
@@ -175,8 +180,8 @@ are eligible to apply under section 5.
 	- **(a)** must include the preparation of
 		- **(i)** an inventory of all the assets of the farmer, and
 		- **(ii)** financial statements of the farmer’s farming operation;
-	- **(b)** may, in the case of an application under paragraph 5(1)(b), include a recommendation, notwithstanding that paragraph, that one or more creditors who are not secured creditors participate in the mediation; and
-	- **(c)** may include the preparation of recovery plans for the purpose of reaching financial arrangements with creditors.
+	- **(b)** may, in the case of an application made under paragraph 5(1)(b), include a recommendation that one or more creditors who are not secured creditors, and the Minister, if the Minister is the guarantor of a farmer’s debt that is owed to one of those creditors, participate in the mediation; and
+	- **(c)** may include the preparation of recovery plans for the purpose of reaching financial arrangements with creditors and the Minister.
 
 **Preparation of recovery plans**
 
@@ -185,6 +190,8 @@ are eligible to apply under section 5.
 **Report**
 
 - **(4)** The results of a review under this section must take the form of a report prepared by or on behalf of the administrator.
+> 1997, c. 21, s. 9; 2015, c. 2, s. 143.
+
 
 
 
@@ -200,14 +207,15 @@ are eligible to apply under section 5.
 - **(1)** Forthwith after the report mentioned in subsection 9(4) has been prepared, the administrator shall
 	- **(a)** in accordance with the regulations, appoint as a mediator any person who is unbiased and free from any conflict of interest relative to the application in question;
 	- **(b)** inform
-		- **(i)** the farmer and all the creditors listed in the application, in the case of an application made under paragraph 5(1)(a), or
-		- **(ii)** in the case of an application made under paragraph 5(1)(b), the farmer, all the secured creditors listed in the application, and any creditors mentioned in a recommendation under paragraph 9(2)(b),
-as the case may be, of the appointment of the mediator; and
-	- **(c)** provide a copy of the report mentioned in subsection 9(4) to the mediator and to the persons who will be participating in the mediation.
+		- **(i)** in the case of an application made under paragraph 5(1)(a), the farmer, all of the creditors listed in the application and the Minister, if the Minister was given notice of the application by the administrator under subparagraph 7(1)(a)(iii), of the mediator’s appointment, or
+		- **(ii)** in the case of an application made under paragraph 5(1)(b), the farmer, all of the secured creditors listed in the application, all of the creditors mentioned in a recommendation under paragraph 9(2)(b) and the Minister, if the Minister was given notice of the application by the administrator under subparagraph 7(1)(a)(iii) or is mentioned in the recommendation, of the mediator’s appointment; and
+	- **(c)** provide a copy of the report mentioned in subsection 9(4) to the mediator and to the persons and entities that will be participating in the mediation.
 
 **Duties of mediator**
 
-- **(2)** In accordance with the regulations, the mediator shall examine the report mentioned in subsection 9(4) and meet with the persons referred to in subparagraph (1)(b)(i) or (ii), as the case may be, for the purpose of assisting them to reach a mutually acceptable arrangement, but shall not provide advice to the farmer or a creditor.
+- **(2)** In accordance with the regulations, the mediator shall examine the report mentioned in subsection 9(4) and meet with the persons and entities referred to in subparagraph (1)(b)(i) or (ii) for the purpose of assisting them to reach a mutually acceptable arrangement, but shall not provide advice to the farmer or a creditor.
+> 1997, c. 21, s. 10; 2015, c. 2, s. 144.
+
 
 
 
@@ -266,11 +274,13 @@ the administrator shall, on that expiration, extend the stay of proceedings unti
 
 **Notice to creditors**
 
-- **(3)** The administrator shall give notice of any extension granted under subsection (1) or (2) to the farmer and to each person whose name is listed as a creditor in the farmer’s application.
+- **(3)** The administrator shall give notice of any extension granted under subsection (1) or (2) to the farmer and to each creditor listed in the farmer’s application.
 
 **Where appeal successful**
 
 - **(4)** Where, pursuant to an Appeal referred to in paragraph (2)(a), the Appeal Board reverses the administrator’s decision, the resulting thirty day extension of the stay of proceedings starts at the expiration of the original stay of proceedings, or at the expiration of the previous thirty day extension thereof, as the case may be.
+> 1997, c. 21, s. 13; 2015, c. 2, s. 145.
+
 
 
 
@@ -294,7 +304,7 @@ the administrator may direct that the stay of proceedings be terminated.
 
 **Notice of termination**
 
-- **(3)** Where the administrator directs, pursuant to subsection (1) or (2), that a stay of proceedings be terminated, the Administrator shall so inform the farmer and all the creditors listed in the application.
+- **(3)** If the administrator directs that a stay of proceedings be terminated under subsection (1) or (2), the administrator shall inform the farmer, all of the creditors listed in the application and the Minister, if the Minister was given notice of the application by the administrator under subparagraph 7(1)(a)(iii).
 
 **When termination takes effect**
 
@@ -307,6 +317,8 @@ the administrator may direct that the stay of proceedings be terminated.
 - **(5)** A stay of proceedings terminates on
 	- **(a)** the signing of an arrangement under section 19; or
 	- **(b)** the farmer’s making an assignment under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md).
+> 1997, c. 21, s. 14; 2015, c. 2, s. 146.
+
 
 
 
@@ -398,9 +410,11 @@ the administrator may direct that the stay of proceedings be terminated.
 
 
 
-**Arrangement to be put in writing**
+**Arrangement**
 
-**19** Where a farmer enters into an arrangement with any creditor as a result of the mediation, the administrator shall see to its signing by the parties thereto.
+**19** If a farmer enters into an arrangement with a creditor, or with the Minister, as a result of the mediation, the administrator shall see to its signing by the parties.
+> 1997, c. 21, s. 19; 2015, c. 2, s. 147.
+
 
 
 
@@ -478,22 +492,26 @@ shall give the farmer written notice of the creditor’s intention to do so, and
 
 **24** 
 
-- **(1)** Except as authorized by subsection (2), no person shall knowingly communicate or knowingly allow to be communicated to any person any information obtained under this Act from a farmer or from any creditor of a farmer, or knowingly allow any person to inspect or have access to any such information.
+- **(1)** Except as authorized by subsection (2), no person shall knowingly communicate or knowingly allow to be communicated to any person any information that is obtained under this Act from a farmer, from a farmer’s creditor or from the Minister or knowingly allow any person to inspect or have access to that information.
 
 **Exception**
 
-- **(2)** A person engaged in the administration of this Act may communicate or allow to be communicated, or allow inspection of or access to, any information referred to in subsection (1) to or by any other person engaged in the administration of this Act or any person otherwise legally entitled thereto.
+- **(2)** A person engaged in the administration of this Act, or a mediator or expert referred to in subsection 4(4), may communicate or allow to be communicated, or allow inspection of or access to, the information referred to in subsection (1) to or by any other person engaged in the administration of this Act or any person otherwise legally entitled to the information.
 
 **Protection of witness**
 
-- **(3)** A person engaged in the administration of this Act, including a mediator or expert referred to in subsection 4(4), is not compellable to answer questions concerning the information, or to produce records or other documents containing the information, as evidence in any proceedings not directly concerned with the enforcement or interpretation of this Act or the regulations.
+- **(3)** A person engaged in the administration of this Act, or a mediator or expert referred to in subsection 4(4), is not compellable to answer questions concerning the information, or to produce records or other documents containing the information, as evidence in any proceedings not directly concerned with the enforcement or interpretation of this Act or the regulations.
+> 1997, c. 21, s. 24; 2015, c. 2, s. 149.
+
 
 
 
 
 **Personal liability**
 
-**25** No person engaged in the administration of this Act is personally liable for acts or omissions done in good faith in the performance of their duties under this Act.
+**25** A person engaged in the administration of this Act, or a mediator or expert referred to in subsection 4(4), is not personally liable for anything done or omitted to be done in good faith in the performance of their duties under this Act.
+> 1997, c. 21, s. 25; 2015, c. 2, s. 150.
+
 
 
 
@@ -517,7 +535,9 @@ shall give the farmer written notice of the creditor’s intention to do so, and
 
 - **(2)** The Minister may establish forms and other documents for carrying out the purposes and provisions of this Act and may determine the information to be included in such documents, and, without limiting the generality of the foregoing, may determine the manner of
 	- **(a)** amending an application; and
-	- **(b)** informing or notifying persons, where such is required by this Act.
+	- **(b)** providing information or notices required by this Act.
+> 1997, c. 21, s. 26; 2015, c. 2, s. 151(E).
+
 
 
 
@@ -529,11 +549,11 @@ shall give the farmer written notice of the creditor’s intention to do so, and
 
 
 
-**Review of Act after two years**
+**Review of Act**
 
 **28** 
 
-- **(1)** As soon as possible after the second anniversary of the coming into force of this Act and every three years thereafter, the Minister shall undertake a review of the operation of this Act, and may for that purpose consult with representatives of such organizations as the Minister considers appropriate.
+- **(1)** Every five years after the coming into force of this subsection, the Minister shall undertake a review of the operation of this Act and may for that purpose consult with representatives of any organizations that the Minister considers appropriate.
 
 **Review by Minister**
 
@@ -542,6 +562,8 @@ shall give the farmer written notice of the creditor’s intention to do so, and
 **Report to Parliament**
 
 - **(3)** As soon as possible after completing the review referred to in subsection (1), the Minister shall cause a report of the results of the review to be laid before each House of Parliament.
+> 1997, c. 21, s. 28; 2015, c. 2, s. 152.
+
 
 
 
