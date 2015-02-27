@@ -11,7 +11,7 @@ Sanctionnée sur le 19 juin 1990
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -48,32 +48,34 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **3** Les définitions qui suivent s’appliquent à la présente loi.
 
-***agent de la paix*** S’entend au sens du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+***agent de la paix*** S’entend au sens du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*peace officer*)
 
-***choses*** Y sont assimilés les végétaux et les parasites.
+***choses*** Y sont assimilés les végétaux et les parasites. (*thing*)
 
-***Commission*** La Commission de révision prorogée par le paragraphe 4.1(1) de la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md).
+***Commission*** La Commission de révision prorogée par le paragraphe 4.1(1) de la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md). (*Tribunal*)
 
-***évaluateur*** L’évaluateur ou tout évaluateur adjoint nommé sous le régime de la partie II de la [Loi sur l’indemnisation du dommage causé par des pesticides](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-10.md).
+***document*** Tout support sur lequel sont enregistrés ou inscrits des éléments d’information pouvant être compris par une personne ou lus par un ordinateur ou tout autre dispositif. (*document*)
 
-***inspecteur*** Personne désignée à ce titre en application de l’article 21.
+***évaluateur*** L’évaluateur ou tout évaluateur adjoint nommé sous le régime de la partie II de la [Loi sur l’indemnisation du dommage causé par des pesticides](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-10.md). (*Assessor*)
 
-***juge de paix*** S’entend au sens du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+***inspecteur*** Personne désignée à ce titre en application de l’article 21. (*inspector*)
 
-***lieu*** Y sont assimilés les véhicules.
+***juge de paix*** S’entend au sens du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*justice*)
 
-***ministre*** Le ministre de l’Agriculture et de l’Agroalimentaire.
+***lieu*** Y sont assimilés les véhicules. (*place*)
 
-***parasite*** En plus des végétaux désignés comme tel par règlement, toute chose nuisible — directement ou non — ou susceptible de l’être, aux végétaux, à leurs produits ou à leurs sous-produits.
+***ministre*** Le ministre de l’Agriculture et de l’Agroalimentaire. (*Minister*)
 
-***sanction*** Sanction administrative pécuniaire infligée pour une violation au titre de la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md).
+***parasite*** Toute chose nuisible — directement ou non — ou susceptible de l’être, aux végétaux, à leurs produits ou à leurs sous-produits. (*pest*)
 
-***végétal*** Y sont assimilées ses parties.
+***sanction*** Sanction administrative pécuniaire infligée pour une violation au titre de la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md). (*penalty*)
 
-***véhicule*** Tout moyen de transport — notamment les aéronefs, voitures, véhicules à moteur, remorques, wagons et navires — , y compris les conteneurs.
+***végétal*** Y sont assimilées ses parties. (*plant*)
 
-***violation*** Contravention à la présente loi ou à ses règlements ou à un arrêté ministériel, ainsi que le refus ou l’omission d’accomplir une obligation imposée par la présente loi ou ses règlements, punissable sous le régime de la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md).
-> 1990, ch. 22, art. 3; 1994, ch. 38, art. 25; 1995, ch. 40, art. 75; 1997, ch. 6, art. 81; 2001, ch. 4, art. 173(F).
+***véhicule*** Tout moyen de transport — notamment les aéronefs, voitures, véhicules à moteur, remorques, wagons et navires — , y compris les conteneurs. (*conveyance*)
+
+***violation*** Toute contravention à la présente loi, à ses règlements ou à un arrêté ministériel, ou tout refus ou omission d’accomplir une obligation imposée sous le régime de la présente loi, punissables sous le régime de la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md). (*violation*)
+> 1990, ch. 22, art. 3; 1994, ch. 38, art. 25; 1995, ch. 40, art. 75; 1997, ch. 6, art. 81; 2001, ch. 4, art. 173(F); 2015, ch. 2, art. 99.
 
 
 
@@ -124,36 +126,68 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Ordre de rappel — [Loi sur l’Agence canadienne d’inspection des aliments](/fr/Lois/Lois%20du%20Canada/1997/ch.%206.md)**
+
+**6.1** Il est interdit à toute personne de vendre une chose régie par la présente loi qui fait l’objet d’un ordre de rappel donné en vertu du paragraphe 19(1) de la Loi sur l’Agence cana dienne d’inspection des aliments.
+> 2015, ch. 2, art. 100.
+
+
+
+
+
 ### Importation et exportation
 
 
 
 **Interdiction**
 
-**7** 
-
-- **(1)** Sauf en conformité avec les règlements, il est interdit d’importer au Canada, d’y laisser entrer ou d’en exporter toute chose qui soit est un parasite, soit est parasitée ou susceptible de l’être, soit encore constitue ou peut constituer un obstacle biologique à la lutte antiparasitaire, sans la présenter, avec les permis, certificats et autres documents réglementaires, à un inspecteur, conformément au paragraphe (2), au lieu fixé par un inspecteur ou par règlement.
-
-**Présentation**
-
-- **(2)** La présentation à l’inspecteur se fait selon les modalités et aux conditions que celui-ci juge nécessaires en l’occurrence.
+**7** Il est interdit à toute personne d’importer au Canada, d’y laisser entrer ou d’en exporter toute chose qui soit est un parasite, soit est parasitée ou susceptible de l’être, soit encore constitue ou est susceptible de constituer un obstacle biologique à la lutte antiparasitaire, sauf si les conditions ci-après sont réunies :
+- **a)** les permis, certificats et autres documents réglementaires ont été présentés à un inspecteur;
+- **b)** la chose est ou a été présentée à l’inspecteur — lorsque les règlements ou un inspecteur l’exigent —, selon les modalités et aux conditions qu’il précise, au lieu fixé par les règlements ou par un inspecteur;
+- **c)** la chose est importée ou exportée en conformité avec les règlements.
+> 1990, ch. 22, art. 7; 2015, ch. 2, art. 101.
 
 
 
 
-**Ordre de renvoi**
+
+**Retrait ou destruction d’importations illégales**
 
 **8** 
 
-- **(1)** S’il a des motifs raisonnables de croire qu’une chose — même saisie — importée au Canada soit l’a été en contravention avec la présente loi ou les règlements, soit est un parasite ou est parasitée ou susceptible de l’être, soit encore constitue ou peut constituer un obstacle biologique à la lutte antiparasitaire, l’inspecteur peut ordonner à son propriétaire ou à la personne qui en a la possession, la responsabilité ou la charge des soins de la renvoyer à l’étranger.
+- **(1)** S’il a des motifs raisonnables de croire qu’une chose a été importée en contravention d’une disposition de la présente loi ou des règlements, qu’une chose importée est un parasite, est parasitée ou est susceptible de l’être, ou encore constitue ou est susceptible de constituer un obstacle biologique à la lutte antiparasitaire ou qu’une exigence imposée sous le régime d’un règlement relativement à une chose importée n’a pas été respectée, l’inspecteur peut, par avis, qu’il y ait eu ou non saisie de la chose, ordonner à son propriétaire, à la personne qui l’a importée ou à celle qui en a la possession, la responsabilité ou la charge de la retirer du Canada ou, si le retrait est impossible, de la détruire.
 
 **Avis**
 
-- **(2)** L’ordre est signifié au propriétaire ou à la personne concernée, soit à personne, soit par envoi postal ou autre, sous forme d’avis en précisant éventuellement le délai ou les modalités d’exécution.
+- **(2)** L’avis est remis en personne au propriétaire ou à la personne en cause ou est envoyé sous pli recommandé à son adresse au Canada.
 
 **Confiscation**
 
-- **(3)** En cas d’inexécution de l’ordre, la chose visée est, malgré l’article 32, confisquée au profit de Sa Majesté du chef du Canada et il peut en être disposé — notamment par destruction — conformément aux instructions du ministre.
+- **(3)** Malgré le paragraphe 32(1), la chose qui n’est pas retirée du Canada ou détruite dans le délai fixé dans l’avis ou, à défaut d’indication de délai, dans les quatre-vingt-dix jours suivant la date à laquelle l’avis a été remis ou envoyé est confisquée au profit de Sa Majesté du chef du Canada; il peut dès lors en être disposé conformément aux instructions du ministre.
+
+**Suspension de l’application du paragraphe (3)**
+
+- **(4)** L’inspecteur peut suspendre l’application du paragraphe (3) pour la période qu’il précise, s’il est convaincu de ce qui suit :
+	- **a)** il est improbable qu’un préjudice à la santé humaine, animale ou végétale ou à l’environnement en résulte;
+	- **b)** la chose ne sera pas vendue pendant cette période;
+	- **c)** les mesures qui auraient dû être prises pour que la chose ne soit pas importée en contravention des dispositions de la présente loi ou des règlements seront prises au cours de la période;
+	- **d)** si la chose n’est pas conforme aux exigences des règlements, elle sera rendue conforme à ces exigences au cours de la période.
+
+**Annulation**
+
+- **(5)** L’inspecteur peut annuler l’avis s’il est convaincu de ce qui suit :
+	- **a)** il est improbable qu’un préjudice à la santé humaine, animale ou végétale ou à l’environnement en résulte;
+	- **b)** la chose visée dans l’avis n’a pas été vendue pendant la période prévue au paragraphe (6);
+	- **c)** les mesures visées à l’alinéa (4)c) ont été prises au cours de la période;
+	- **d)** si la chose n’était pas conforme aux exigences des règlements au moment où elle a été importée, elle a été rendue conforme à ces exigences au cours de la période.
+
+**Période**
+
+- **(6)** La période en cause est la suivante :
+	- **a)** dans le cas où l’application du paragraphe (3) a été suspendue en vertu du paragraphe (4), la période de la suspension;
+	- **b)** dans le cas contraire, la période correspondant au délai fixé dans l’avis ou, à défaut d’indication de délai, aux quatre-vingt-dix jours suivant la date à laquelle l’avis a été remis ou envoyé.
+> 1990, ch. 22, art. 8; 2015, ch. 2, art. 101.
+
 
 
 
@@ -387,6 +421,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Fourniture de documents, de renseignements ou d’échantillons**
+
+**23.1** 
+
+- **(1)** L’inspecteur peut, afin de vérifier l’existence de parasites ou à toute fin liée à la vérification du respect ou à la prévention du non-respect de la présente loi, ordonner à toute personne de lui fournir, aux date, heure et lieu et de la façon qu’il précise, les documents, renseignements ou échantillons qu’il précise.
+
+**Obligation de fournir des documents, renseignements ou échantillons**
+
+- **(2)** Toute personne à qui l’inspecteur ordonne de fournir des documents, renseignements ou échantillons a l’obligation de les lui fournir aux date, heure et lieu précisés et de la façon précisée.
+> 2015, ch. 2, art. 102.
+
+
+
+
+
 ### Sceaux
 
 
@@ -414,7 +463,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **25** 
 
-- **(1)** Afin de vérifier l’existence de parasites ou d’assurer l’observation de la présente loi et des règlements, l’inspecteur peut :
+- **(1)** Afin de vérifier l’existence de parasites ou à toute fin liée à la vérification du respect ou à la prévention du non-respect de la présente loi, l’inspecteur peut :
 	- **a)** sous réserve de l’article 26, procéder, à toute heure convenable, à la visite de tout lieu — et à cette fin, à l’immobilisation d’un véhicule — où se trouvent, à son avis, des choses visées par la présente loi ou les règlements;
 	- **b)** ouvrir tout contenant — bagages, récipient, cage, emballage ou autre — qui, à son avis, contient de telles choses;
 	- **c)** examiner celles-ci et procéder sur elles à des prélèvements;
@@ -424,10 +473,12 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **Usage du système informatique**
 
-- **(2)** L’inspecteur peut, lors de sa visite :
+- **(2)** L’inspecteur peut, lors de sa visite :
 	- **a)** faire usage de tout système informatique se trouvant dans le lieu pour vérifier les données qu’il contient ou auxquelles il donne accès;
 	- **b)** à partir de ces données, reproduire le document sous forme d’imprimé ou toute autre forme intelligible qu’il peut emporter pour examen ou reproduction;
 	- **c)** faire usage du matériel de reproduction du lieu.
+> 1990, ch. 22, art. 25; 2015, ch. 2, art. 103.
+
 
 
 
@@ -525,11 +576,11 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 
 
-**Rétention**
+**Mainlevée de saisie**
 
 **32** 
 
-- **(1)** Sauf en cas de poursuite où elle peut se prolonger jusqu’à l’issue définitive de l’affaire, la rétention des choses saisies — ou du produit de leur aliénation — prend fin soit après la constatation, par l’inspecteur, de leur conformité avec la présente loi et les règlements, soit à l’expiration d’un délai de cent quatre-vingts jours à compter de la date de la saisie ou du délai supérieur fixé par règlement.
+- **(1)** Si l’inspecteur est convaincu que les dispositions de la présente loi et des règlements applicables à la chose saisie en vertu de la présente loi ont été respectées, il est donné mainlevée de la saisie.
 
 **Demande de restitution**
 
@@ -538,7 +589,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **Ordonnance de restitution**
 
 - **(3)** La juridiction peut faire droit à la demande, sous réserve des conditions jugées utiles pour assurer la conservation des choses dans un but ultérieur, si elle est convaincue que, d’une part, il existe ou peut être obtenu suffisamment d’éléments de preuve pour rendre inutile la rétention des choses et, d’autre part, celles-ci ne sont pas des parasites, ne sont pas parasitées et ne constituent pas un obstacle biologique à la lutte antiparasitaire.
-> 1990, ch. 22, art. 32; 1995, ch. 40, art. 78.
+> 1990, ch. 22, art. 32; 1995, ch. 40, art. 78; 2015, ch. 2, art. 104.
 
 
 
@@ -563,7 +614,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **34** 
 
-- **(1)** Dans le cas où, à l’issue de poursuites intentées dans les délais prévus au paragraphe 32(1), la Commission ou le tribunal, selon qu’il s’agit d’une violation ou d’une infraction, ordonne la confiscation des choses saisies et retenues, il en est disposé — notamment par destruction — conformément aux instructions du ministre.
+- **(1)** Si une ordonnance de confiscation est rendue en vertu du paragraphe 33(1), il est disposé des choses confisquées — notamment par destruction — conformément aux instructions du ministre.
 
 **Restitution**
 
@@ -571,11 +622,11 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **Exception**
 
-- **(3)** En cas de détermination de responsabilité pour violation ou de déclaration de culpabilité de leur propriétaire ou de la dernière personne à en avoir eu la possession, la responsabilité ou la charge des soins :
+- **(3)** En cas de détermination de responsabilité pour violation ou de déclaration de culpabilité de leur propriétaire ou de la dernière personne à en avoir eu la possession, la responsabilité ou la charge des soins :
 	- **a)** la rétention des choses peut être prolongée jusqu’au paiement du montant de la sanction ou de l’amende infligée;
 	- **b)** les choses peuvent être aliénées par adjudication forcée;
 	- **c)** le produit de l’aliénation prévue à l’alinéa b) ou au paragraphe 30(3) peut être affecté au paiement de la sanction ou de l’amende.
-> 1990, ch. 22, art. 34; 1995, ch. 40, art. 80.
+> 1990, ch. 22, art. 34; 1995, ch. 40, art. 80; 2015, ch. 2, art. 105.
 
 
 
@@ -617,6 +668,69 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 
 
+## Interdictions relatives aux documents
+
+
+
+**Modification, destruction ou falsification de documents**
+
+**36.1** 
+
+- **(1)** Il est interdit à la personne qui doit conserver, tenir à jour ou fournir des documents sous le régime de la présente loi de les modifier, de les détruire ou de les falsifier.
+
+**Modification, possession ou utilisation de documents officiels**
+
+- **(2)** Il est interdit à toute personne :
+	- **a)** de modifier un document délivré, fait ou donné — ou remis de quelque façon que ce soit — sous le régime de la présente loi;
+	- **b)** d’avoir en sa possession ou d’utiliser un tel document qui a été modifié;
+	- **c)** d’utiliser un tel document à une fin ou relativement à une chose autre que celle pour laquelle il a été délivré, fait, donné ou remis.
+> 2015, ch. 2, art. 106.
+
+
+
+
+
+**Possession ou utilisation de documents**
+
+**36.2** Il est interdit à toute personne d’avoir en sa possession ou d’utiliser un document qui n’est pas délivré, fait ou donné — ou remis de quelque façon que ce soit — sous le régime de la présente loi, s’il est susceptible d’être confondu avec un document ainsi délivré, fait, donné ou remis.
+> 2015, ch. 2, art. 106.
+
+
+
+
+
+## Interdictions relatives au marquage et à l’identification
+
+
+
+**Modification, destruction ou falsification d’une marque, d’un sceau ou d’une étiquette**
+
+**36.3** 
+
+- **(1)** Il est interdit à toute personne de modifier, de détruire ou de falsifier une marque, un sceau ou une étiquette qui est exigé sous le régime de la présente loi.
+
+**Possession ou utilisation d’une marque, d’un sceau ou d’une étiquette**
+
+- **(2)** Il est interdit à toute personne :
+	- **a)** d’avoir en sa possession ou d’utiliser une marque, un sceau ou une étiquette qui est exigé sous le régime de la présente loi et qui a été modifié ou falsifié;
+	- **b)** d’utiliser une marque, un sceau ou une étiquette qui est exigé sous le régime de la présente loi à une fin ou relativement à une chose autres que celles prévues par règlement.
+> 2015, ch. 2, art. 106.
+
+
+
+
+
+**Confusion avec une marque, un sceau ou une étiquette exigé sous le régime de la présente loi**
+
+**36.4** Il est interdit à toute personne d’avoir en sa possession ou d’utiliser :
+- **a)** une marque, un sceau ou une étiquette qui ressemble à une marque, un sceau ou une étiquette qui est exigé sous le régime de la présente loi à un tel point qu’il est susceptible d’être confondu avec celui-ci;
+- **b)** un instrument qui est conçu ou adapté pour créer une marque qui ressemble à une marque qui est exigée sous le régime de la présente loi à un tel point qu’elle est susceptible d’être confondue avec celle-ci.
+> 2015, ch. 2, art. 106.
+
+
+
+
+
 ## Prélèvements
 
 
@@ -640,7 +754,18 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **Non-responsabilité de Sa Majesté**
 
-**38** Sa Majesté n’est pas tenue des pertes, dommages ou frais — loyers ou droits — entraînés par l’exécution des obligations découlant de la présente loi ou des règlements, notamment celle de fournir des terrains, locaux, laboratoires ou autres installations et d’en assurer l’entretien au titre de l’article 20.
+**38** Sa Majesté du chef du Canada n’est pas tenue responsable des pertes, dommages ou frais — notamment loyers ou droits — entraînés par l’exécution des obligations imposées sous le régime de la présente loi.
+> 1990, ch. 22, art. 38; 2015, ch. 2, art. 107.
+
+
+
+
+
+**Immunité judiciaire**
+
+**38.1** Toute personne qui exerce des attributions sous le régime de la présente loi bénéficie de l’immunité judiciaire pour les faits — actes ou omissions — accomplis de bonne foi dans l’exercice de ces attributions.
+> 2015, ch. 2, art. 107.
+
 
 
 
@@ -772,27 +897,115 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **Règlements**
 
-**47** Le gouverneur en conseil peut, par règlement, prendre toute mesure d’application de la présente loi et, notamment :
-- **a)** régir ou interdire l’importation, l’entrée et la circulation, sur le territoire canadien, ou l’exportation, hors de celui-ci, de parasites ainsi que d’autres choses qui sont parasitées ou susceptibles de l’être ou qui constituent ou peuvent constituer un obstacle biologique à la lutte antiparasitaire, ainsi que leur transformation, manutention ou emballage, vente, distribution, chargement, déchargement et disposition, notamment par destruction;
-- **b)** régir l’attribution, le renouvellement, la modification, la suspension et la révocation de permis, certificats et autres documents aux conditions qu’il peut fixer pour l’application de la présente loi;
-- **c)** régir ou interdire l’importation de déchets ou d’aliments au Canada;
-- **d)** régir les exemptions mentionnées à l’article 6;
-- **e)** désigner les lieux où les choses peuvent être présentées à l’inspection et introduites au Canada;
-- **f)** régir les enquêtes et les études permettant de détecter les parasites et de délimiter les zones infestées;
-- **g)** prendre toute mesure relative aux déclarations d’infestation ou de non-infestation de choses;
-- **h)** prendre toute mesure relative aux déclarations prévues par les articles 11, 12 et 15;
-- **i)** régir ou interdire l’utilisation de lieux qui sont infestés, ou soupçonnés de l’être, ou de choses qui soit sont des parasites ou soupçonnées d’en être, soit encore sont parasitées ou soupçonnées de l’être, soit enfin constituent ou peuvent constituer un obstacle biologique à la lutte antiparasitaire;
-- **j)** régir la mise en quarantaine de toute chose;
-- **k)** mettre sur pied des centres d’inspection et de traitement et des stations de quarantaine;
-- **l)** régir la destruction ou toute autre forme de disposition de choses qui soit sont des parasites ou soupçonnées d’en être, soit encore sont parasitées ou soupçonnées de l’être, soit enfin constituent ou peuvent constituer un obstacle biologique à la lutte antiparasitaire;
-- **m)** régir la rétention, la destruction ou toute autre forme de disposition des choses saisies ou confisquées en application de la présente loi;
-- **n)** régir le traitement de lieux et de choses — ou ses modalités — et en imposer la responsabilité, directe ou indirecte, à certaines personnes;
-- **o)** régir le retrait du lieu où le traitement est dispensé des personnes ou choses y faisant obstacle ou pouvant en pâtir;
-- **p)** imposer le marquage de choses ou leur identification, notamment au moyen d’un sceau ou d’une étiquette, et interdire l’enlèvement, le bris ou la modification de ces marques, sceaux ou étiquettes;
-- **q)** fixer les conditions d’attribution de l’indemnité prévue à l’article 39 et son plafond;
-- **r)** prévoir la communication de documents aux inspecteurs ou par ceux-ci;
-- **s)** fixer tous droits et redevances exigibles dans le cadre de la présente loi ou des règlements, ou les modalités de leur calcul.
-> 1990, ch. 22, art. 47; 1993, ch. 34, art. 103.
+**47** 
+
+- **(1)** Le gouverneur en conseil peut, par règlement, prendre toute mesure d’application de la présente loi et, notamment :
+	- **a)** régir ou interdire toute activité à l’égard de parasites et d’autres choses qui sont parasitées ou susceptibles de l’être ou qui constituent ou sont susceptibles de constituer un obstacle biologique à la lutte antiparasitaire, notamment leur importation, entrée et circulation sur le territoire canadien ou leur exportation hors de celui-ci;
+	- **a.1)** pour l’application de l’alinéa 7b) :
+		- **(i)** régir les cas où une chose doit être présentée à l’inspecteur,
+		- **(ii)** imposer des conditions à l’exercice du pouvoir de l’inspecteur d’exiger la présentation d’une chose;
+	- **b)** régir l’attribution, le renouvellement, la modification, la suspension et la révocation de permis, certificats et autres documents aux conditions qu’il peut fixer pour l’application de la présente loi;
+	- **b.1)** régir toute question relative aux autorisations visées à l’article 47.2, notamment les conditions dont elles peuvent être assorties ainsi que leur modification, suspension et révocation;
+	- **c)** régir ou interdire l’importation de déchets ou d’aliments au Canada;
+	- **d)** régir les exemptions mentionnées à l’article 6;
+	- **e)** désigner les lieux où les choses peuvent être présentées à l’inspection et introduites au Canada;
+	- **f)** régir les enquêtes et les études permettant de détecter les parasites et de délimiter les zones infestées;
+	- **g)** prendre toute mesure relative aux déclarations d’infestation ou de non-infestation de choses;
+	- **h)** prendre toute mesure relative aux déclarations prévues par les articles 11, 12 et 15;
+	- **i)** régir ou interdire l’utilisation de lieux qui sont infestés, ou soupçonnés de l’être, ou de choses qui soit sont des parasites ou soupçonnées d’en être, soit encore sont parasitées ou soupçonnées de l’être, soit enfin constituent ou peuvent constituer un obstacle biologique à la lutte antiparasitaire;
+	- **j)** régir la mise en quarantaine de toute chose;
+	- **k)** mettre sur pied des centres d’inspection et de traitement et des stations de quarantaine;
+	- **l)** régir la destruction ou toute autre forme de disposition de choses qui soit sont des parasites ou soupçonnées d’en être, soit encore sont parasitées ou soupçonnées de l’être, soit enfin constituent ou peuvent constituer un obstacle biologique à la lutte antiparasitaire;
+	- **m)** régir la rétention, la destruction ou toute autre forme de disposition des choses saisies ou confisquées en application de la présente loi;
+	- **n)** régir le traitement de lieux et de choses — ou ses modalités — et en imposer la responsabilité, directe ou indirecte, à certaines personnes;
+	- **o)** régir le retrait du lieu où le traitement est dispensé des personnes ou choses y faisant obstacle ou pouvant en pâtir;
+	- **p)** imposer le marquage de choses ou leur identification, notamment au moyen d’un sceau ou d’une étiquette, et interdire l’enlèvement, le bris ou la modification de ces marques, sceaux ou étiquettes;
+	- **q)** fixer les conditions d’attribution de l’indemnité prévue à l’article 39 et son plafond;
+	- **r)** exiger la communication de documents par les inspecteurs;
+	- **r.1)** exiger de certaines personnes qu’elles établissent, conservent ou tiennent à jour des documents, qu’elles les fournissent au ministre ou à l’inspecteur ou qu’elles les rendent accessibles à ceux-ci, et régir la teneur de ces documents, la manière de les établir, de les conserver, de les tenir à jour, de les fournir ou de les rendre accessibles et le lieu où ils sont conservés ou tenus à jour;
+	- **r.2)** exiger de certaines personnes qu’elles prélèvent ou conservent des échantillons de toute chose, qu’elles les fournissent au ministre ou à l’inspecteur ou qu’elles les rendent accessibles à ceux-ci, et régir la manière de les prélever, de les conserver, de les fournir ou de les rendre accessibles;
+	- **s)** fixer tous droits et redevances exigibles dans le cadre de la présente loi ou des règlements, ou les modalités de leur calcul;
+	- **t)** exempter de l’application de la présente loi ou des règlements ou de telle de leurs dispositions, avec ou sans conditions, toute chose ou toute personne ou activité relativement à des choses.
+
+**Alinéa (1)a) — importation**
+
+- **(2)** Les règlements pris en vertu de l’alinéa (1)a) peuvent notamment prévoir les exigences d’approbation préalable et de transit qui s’appliquent à une chose importée ainsi qu’à tout ce qui est importé avec elle.
+
+**Alinéa (1)a) — activités**
+
+- **(3)** Les règlements pris en vertu de l’alinéa (1)a) peuvent notamment permettre au ministre ou à un inspecteur d’interdire ou de restreindre toute activité à l’égard de choses dont celui-ci a des motifs raisonnables de croire qu’elles sont des parasites, sont parasitées ou constituent un obstacle biologique à la lutte antiparasitaire et fixer les conditions d’exercice de cette autorité.
+
+**Alinéa (1)i)**
+
+- **(4)** Les règlements pris en vertu de l’alinéa (1)i) peuvent notamment permettre au ministre ou à un inspecteur d’interdire ou de restreindre l’utilisation de lieux ou de choses dont celui-ci a des motifs raisonnables de croire que, dans le cas de lieux, ils sont infestés ou, dans le cas de choses, elles sont des parasites, sont parasitées ou constituent un obstacle biologique à la lutte antiparasitaire et fixer les conditions d’exercice de cette autorisation.
+
+**Alinéa (1)r.1)**
+
+- **(5)** Les règlements pris en vertu de l’alinéa (1)r.1) peuvent notamment exiger des personnes exerçant une activité régie par la présente loi qui prennent connaissance du fait que des choses qui soit sont des parasites, soit sont parasitées ou sont susceptibles de l’être, soit encore constituent ou sont susceptibles de constituer un obstacle biologique à la lutte antiparasitaire présentent un risque de préjudice à la santé humaine, animale ou végétale ou à l’environnement ou ne satisfont pas aux exigences des règlements qu’elles fournissent un avis écrit à cet effet au ministre ou à l’inspecteur.
+> 1990, ch. 22, art. 47; 1993, ch. 34, art. 103; 2015, ch. 2, art. 108.
+
+
+
+
+
+## Incorporation par renvoi
+
+
+
+**Incorporation par renvoi**
+
+**47.1** 
+
+- **(1)** Les règlements pris en vertu du paragraphe 47(1) peuvent incorporer par renvoi tout document, indépendamment de sa source, soit dans sa version à une date donnée, soit avec ses modifications successives.
+
+**Accessibilité**
+
+- **(2)** Le ministre veille à ce que tout document incorporé par renvoi dans les règlements pris en vertu du paragraphe 47(1) ainsi que ses modifications ultérieures soient accessibles.
+
+**Ni déclaration de culpabilité ni sanction administrative**
+
+- **(3)** Aucune déclaration de culpabilité ni aucune sanction administrative ne peut découler d’une contravention faisant intervenir un document qui est incorporé par renvoi dans les règlements pris en vertu du paragraphe 47(1) et qui se rapporte au fait reproché, sauf si, au moment de ce fait, le document était accessible en application du paragraphe (2) ou était autrement accessible à la personne en cause.
+
+**Ni enregistrement ni publication**
+
+- **(4)** Il est entendu que les documents qui sont incorporés par renvoi dans les règlements pris en vertu du paragraphe 47(1) n’ont pas à être transmis pour enregistrement ni à être publiés dans la Gazette du Canada du seul fait de leur incorporation.
+> 2015, ch. 2, art. 109.
+
+
+
+
+
+## Autorisations
+
+
+
+**Autorisation**
+
+**47.2** 
+
+- **(1)** Sous réserve des règlements, le président de l’Agence canadienne d’inspection des aliments peut autoriser toute personne à exercer les activités qu’il précise aux fins de l’attestation qu’une chose n’est pas un parasite, n’est pas parasitée ni susceptible de l’être, ou encore ne constitue pas ou n’est pas susceptible de constituer un obstacle biologique à la lutte antiparasitaire, et ce, à toute condition qu’il juge indiquée.
+
+**Incessibilité**
+
+- **(2)** L’autorisation est incessible.
+
+**Modification, suspension et révocation**
+
+- **(3)** Sous réserve des règlements, le président peut modifier, suspendre ou révoquer l’autorisation.
+> 2015, ch. 2, art. 109.
+
+
+
+
+
+## Disposition générale
+
+
+
+**Non-application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+**47.3** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas aux avis visés à l’article 49.
+> 2015, ch. 2, art. 109.
 
 
 
@@ -806,18 +1019,18 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **48** 
 
-- **(1)** Quiconque contrevient aux dispositions de la présente loi — à l’exception de l’article 9 — ou des règlements, ou refuse ou néglige d’accomplir une obligation imposée par la présente loi ou les règlements, commet une infraction et encourt, sur déclaration de culpabilité :
+- **(1)** Quiconque contrevient aux dispositions de la présente loi — à l’exception de l’article 9 — ou des règlements ou refuse ou néglige d’accomplir une obligation imposée sous le régime de la présente loi commet une infraction et encourt, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, une amende maximale de cinquante mille dollars et un emprisonnement maximal de six mois, ou l’une de ces peines;
 	- **b)** par mise en accusation, une amende maximale de deux cent cinquante mille dollars et un emprisonnement maximal de deux ans, ou l’une de ces peines.
 
-**Infraction : possession**
+**Infraction : possession**
 
 - **(2)** Quiconque contrevient à l’article 9 commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de cinquante mille dollars.
 
 **Défaut de paiement**
 
 - **(3)** Par dérogation au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), le défaut de paiement de l’amende imposée en application du paragraphe (2) n’entraîne pas l’emprisonnement.
-> 1990, ch. 22, art. 48; 1995, ch. 40, art. 82.
+> 1990, ch. 22, art. 48; 1995, ch. 40, art. 82; 2015, ch. 2, art. 110(F).
 
 
 
@@ -853,13 +1066,9 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **Prescription**
 
-**51** 
+**51** Les poursuites visant une infraction à la présente loi punissable sur déclaration de culpabilité par procédure sommaire se prescrivent par deux ans à compter de sa perpétration.
+> 1990, ch. 22, art. 51; 2015, ch. 2, art. 111.
 
-- **(1)** Les poursuites visant une infraction à la présente loi punissable sur déclaration de culpabilité par procédure sommaire se prescrivent par deux ans à compter de la date à laquelle le ministre a eu connaissance des éléments constitutifs de l’infraction.
-
-**Certificat du ministre**
-
-- **(2)** Le document censé délivré par le ministre et attestant la date à laquelle ces éléments sont parvenus à sa connaissance est admis en preuve sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire; sauf preuve contraire, il fait foi de son contenu.
 
 
 
@@ -881,16 +1090,20 @@ Le règlement d’application du présent article fixe pour chaque infraction, d
 
 
 
-**Responsabilité pénale des dirigeants de personnes morales**
+**Participants à l’infraction**
 
-**54** En cas de perpétration par une personne morale d’une infraction à la présente loi, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de l’infraction et encourent, sur déclaration de culpabilité, la peine prévue, que la personne morale ait été ou non poursuivie ou déclarée coupable.
+**54** En cas de perpétration d’une infraction à la présente loi par toute personne autre qu’un individu, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé sont considérés comme des coauteurs de l’infraction et encourent, sur déclaration de culpabilité, la peine prévue, que la personne ait été ou non poursuivie.
+> 1990, ch. 22, art. 54; 2015, ch. 2, art. 112.
+
 
 
 
 
 **Preuve**
 
-**55** Dans les poursuites pour infraction à la présente loi, il suffit, pour prouver l’infraction, d’établir qu’elle a été commise par un agent ou un mandataire de l’accusé, que cet agent ou mandataire ait été ou non identifié ou poursuivi. L’accusé peut se disculper en prouvant que la perpétration a eu lieu à son insu ou sans son consentement et qu’il avait pris les mesures nécessaires pour l’empêcher.
+**55** Dans les poursuites pour infraction à la présente loi, il suffit, pour établir la culpabilité de l’accusé, de prouver que l’infraction a été commise par son employé ou mandataire, que celui-ci soit ou non identifié ou poursuivi. L’accusé peut se disculper en prouvant que la perpétration a eu lieu à son insu ou sans son consentement et qu’il avait pris toutes les précautions voulues pour la prévenir.
+> 1990, ch. 22, art. 55; 2015, ch. 2, art. 112.
+
 
 
 
