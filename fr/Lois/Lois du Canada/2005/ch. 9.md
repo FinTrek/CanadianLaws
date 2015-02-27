@@ -2286,6 +2286,12 @@ Nation crie Beaver Lake
 Beecher Bay
 
 
+Première Nation Behdzi Ahda″
+
+
+Berens River
+
+
 Bingwi Neyaashi Anishinaabek
 
 
@@ -2343,6 +2349,9 @@ Douglas
 Ebb and Flow
 
 
+Ehattesaht
+
+
 Première nation Elsipogtog
 
 
@@ -2368,6 +2377,9 @@ Heiltsuk
 
 
 Première nation Indian Island
+
+
+Bande des Innus de Pessamit
 
 
 Première nation Kahkewistahaw
@@ -2418,6 +2430,9 @@ Première Nation Malahat
 Première nation Matsqui
 
 
+Première Nation M’Chigeeng
+
+
 Première Nation Membertou
 
 
@@ -2460,7 +2475,13 @@ Nation crie Muskeg Lake
 Première Nation Muskoday
 
 
+Muskowekwan
+
+
 Bande Nadleh Whut’en
+
+
+Nak’azdli
 
 
 Première nation Nanoose
@@ -2544,6 +2565,9 @@ Première Nation Semiahmoo
 Première Nation Serpent River
 
 
+Seton Lake
+
+
 Première Nation Shackan
 
 
@@ -2593,6 +2617,9 @@ Nation Squamish
 
 
 Première nation Squiala
+
+
+Première Nation de Stellat’en
 
 
 Première nation St. Mary’s
@@ -2682,6 +2709,6 @@ Première nation Yakweakwioose
 Bande Yellow Quill
 
 
-> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176; DORS/2014-77, 208.
+> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176; DORS/2014-77, 208; DORS/2015-52.
 
 
