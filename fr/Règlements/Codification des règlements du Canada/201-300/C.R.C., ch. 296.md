@@ -353,12 +353,12 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 
 - **(1)** Quiconque retire du matériel à risque spécifié de la carcasse d’un bœuf mort ou condamné avant d’avoir pu être abattu pour la consommation alimentaire humaine doit veiller à ce que le matériel à risque spécifié soit badigeonné d’une teinture voyante et indélébile et mis dans un contenant désigné portant, dans les deux langues officielles, la mention qu’il renferme du matériel à risque spécifié.
 
-- **(2)** Dans le cas où le matériel à risque spécifié n’a pas été retiré de la carcasse du bœuf, la personne ayant la possession, la responsabilité ou la charge des soins de la carcasse ou de toutes parties de celle-ci doit veiller à ce que la carcasse et toutes les parties qui contiennent du matériel à risque spécifié soient badigeonnées d’une teinture voyante, indélébile et sans danger pour les animaux qui l’ingéront.
+- **(2)** Dans le cas où le matériel à risque spécifié n’a pas été retiré de la carcasse du bœuf, la personne ayant la possession, la responsabilité ou la charge des soins de la carcasse ou de toutes parties de celle-ci veille à ce que la carcasse et toutes les parties qui contiennent du matériel à risque spécifié soient badigeonnées d’une teinture voyante, indélébile et sans danger pour les animaux qui l’ingéreront.
 
 - **(3)** Les paragraphes (1) et (2) ne s’appliquent pas :
 	- **a)** aux carcasses de bœufs contenant le matériel à risque spécifié, si les carcasses et le matériel à risque spécifié en provenant demeurent à l’endroit où les bœufs ont été déclarés morts ou sont envoyés à un laboratoire de niveau de confinement 2;
 	- **b)** aux échantillons de matériel à risque spécifié ni aux carcasses — ou parties de carcasse — de bœuf dont le matériel à risque spécifié n’a pas été retiré et qui sont envoyés à un laboratoire de niveau de confinement 2.
-> DORS/2006-147, art. 12; DORS/2012-286, art. 48.
+> DORS/2006-147, art. 12; DORS/2012-286, art. 48; DORS/2015-55, art. 4.
 
 
 
@@ -1580,7 +1580,7 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 - **(4)** En ce qui concerne un agent causant une maladie ou une chose mis en quarantaine aux termes du présent règlement, il est interdit, sans l’autorisation d’un inspecteur, de prendre les mesures suivantes ou de permettre qu’elles soient prises :
 	- **a)** déplacer l’agent ou la chose;
 	- **b)** en modifier l’apparence;
-	- **c)** enlever une étiquette, une indication ou un autre avis précisant que l’agent ou la chose est en quarantaine;
+	- **c)** enlever une étiquette, un signe ou un autre avis précisant que l’agent ou la chose est en quarantaine;
 	- **d)** ouvrir un contenant ou enlever un emballage dans lequel se trouve l’agent ou la chose ou en enlever la couverture.
 
 - **(5)** Il est interdit de transporter ou de faire transporter un agent causant une maladie, un animal ou une chose mis en quarantaine aux termes du présent règlement, sauf si :
@@ -1589,7 +1589,7 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 	- **c)** l’agent, l’animal ou la chose est transporté directement à l’endroit indiqué sur le permis.
 
 - **(6)** Quiconque reçoit l’avis visé au paragraphe (1) doit s’y conformer.
-> DORS/97-85, art. 62; DORS/2012-286, art. 57(A).
+> DORS/97-85, art. 62; DORS/2012-286, art. 57(A); DORS/2015-55, art. 5(F).
 
 
 
@@ -1753,7 +1753,7 @@ de nettoyer et désinfecter ce bâtiment, cette étable, ce parc, cet autre lieu
 
 - **(2)** [Abrogé, DORS/97-85, art. 66]
 
-- **(3)** Un inspecteur peut ordonner à la personne responsable d’un véhicule automobile qui a servi au transport des animaux de ferme de le nettoyer et de le désinfecter dans un certain délai, au plus proche endroit pourvu d’installations nécessaires à cette fin ou à tout autre endroit qu’il peut prescrire.
+- **(3)** Un inspecteur peut ordonner à la personne responsable d’un véhicule à moteur qui a servi au transport des animaux de ferme de le nettoyer et de le désinfecter dans un certain délai, au plus proche endroit pourvu d’installations nécessaires à cette fin ou à tout autre endroit qu’il peut prescrire.
 
 - **(4)** [Abrogé, DORS/97-85, art. 66]
 
@@ -1761,7 +1761,7 @@ de nettoyer et désinfecter ce bâtiment, cette étable, ce parc, cet autre lieu
 
 - **(5.1)** Il est interdit de faire entrer des États-Unis un véhicule ayant servi au transport de volaille ou de porcs, à moins qu’il n’ait été nettoyé et désinfecté.
 
-- **(5.2)** Le paragraphe (5) ne s’applique pas au véhicule qui remplit les conditions suivantes :
+- **(5.2)** Le paragraphe (5.1) ne s’applique pas au véhicule qui remplit les conditions suivantes :
 	- **a)** il a transporté des porcs canadiens à un établissement d’abattage américain où les inspections sont effectuées par le Food Safety and Inspection Service du ministère de l’agriculture des États-Unis et il est revenu directement au Canada à partir de cet établissement;
 	- **b)** il n’a pas transporté de porcs autres que ceux visés à l’alinéa a) pendant qu’il était aux États-Unis;
 	- **c)** il n’est pas autorisé par permis à transporter des animaux de ferme à l’intérieur des États-Unis;
@@ -1774,7 +1774,7 @@ de nettoyer et désinfecter ce bâtiment, cette étable, ce parc, cet autre lieu
 - **(8)** Une compagnie de chemin de fer ou un transporteur routier appose, sur les deux côtés de chaque wagon de chemin de fer ou véhicule à moteur utilisé pour le transport d’une marchandise et devant être nettoyé et désinfecté selon l’article 107, un écriteau portant les mots « Produit animal importé sous restriction » « *Restricted Import Animal Product* » et « Wagon à nettoyer et à désinfecter » « *Clean and Disinfect this car* » inscrits en caractères gras d’au moins 1 1/2 pouce de hauteur.
 
 - **(9)** Dans le présent article, ***parc à bestiaux*** a le sens que lui donne la Loi sur les animaux de ferme et leurs produits.
-> DORS/78-597, art. 13; DORS/79-295, art. 17; DORS/95-473, art. 11; DORS/97-85, art. 66; DORS/98-584, art. 4.
+> DORS/78-597, art. 13; DORS/79-295, art. 17; DORS/95-473, art. 11; DORS/97-85, art. 66; DORS/98-584, art. 4; DORS/2015-55, art. 6(F).
 
 
 
@@ -2310,8 +2310,8 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 
 
-**135.1** Le titulaire d’un permis délivré aux termes de la présente partie doit transmettre par écrit au ministre tout élément d’information ou de preuve concernant un défaut notable relatif à l’innocuité, la puissance ou l’efficacité du produit vétérinaire biologique dans les quinze jours qui suivent la date où cet élément d’information ou de preuve est porté à sa connaissance ou est connu de l’industrie en général.
-> DORS/79-839, art. 32; DORS/2002-438, art. 17.
+**135.1** Le titulaire d’un permis délivré aux termes de la présente partie transmet par écrit au ministre tout élément d’information ou de preuve concernant un défaut notable relatif à l’innocuité, à la puissance ou à l’efficacité du produit vétérinaire biologique dans les quinze jours suivant la date où cet élément d’information ou de preuve est porté à sa connaissance.
+> DORS/79-839, art. 32; DORS/2002-438, art. 17; DORS/2015-55, art. 7.
 
 
 
@@ -2807,7 +2807,7 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 **165** 
 
-- **(1)** Il est interdit d’exploiter une usine de traitement, à moins de détenir un permis délivré en vertu de l’article 160 et de s’y conformer.
+- **(1)** Il est interdit d’exploiter une usine de traitement, à moins de détenir un permis délivré en vertu de l’article 160.
 
 - **(1.1)** Il est interdit à l’exploitant d’une usine de traitement de fabriquer des substances interdites dans les mêmes locaux que des substances non interdites pouvant servir d’aliment aux ruminants, à moins de disposer de chaînes de fabrication, d’équipements et de moyens de transport spécialisés pour empêcher que les substances interdites ne soient mélangées avec les substances non interdites servant d’aliment aux ruminants, ou qu’elles contaminent ces substances.
 
@@ -2822,7 +2822,7 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 - **(4)** Il est interdit à l’exploitant d’une usine de traitement de distribuer ou de vendre tout produit de l’usine contenant une substance interdite à moins que les documents relatifs au produit, exigés par le présent règlement, et que l’étiquette sur tout emballage ou contenant du produit ne portent la mention indélébile ci-après, inscrite lisiblement et bien en vue :« Il est interdit d’en nourrir les bœufs, moutons, cerfs et autres ruminants et des amendes ou autres peines sont prévues à cet égard par la [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md). / *Feeding this product to cattle, sheep, deer or other ruminants is illegal and is subject to fines or other punishment under the Health of Animals Act.* »
 
 
-> DORS/97-362, art. 4; DORS/2006-147, art. 22.
+> DORS/97-362, art. 4; DORS/2006-147, art. 22; DORS/2015-55, art. 8.
 
 
 
@@ -2833,7 +2833,7 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 **166** 
 
-- **(1)** Il est interdit d’importer un produit d’une usine de traitement, à moins de détenir un permis délivré en vertu de l’article 160 et de s’y conformer.
+- **(1)** Il est interdit d’importer un produit d’une usine de traitement, à moins de détenir un permis délivré en vertu de l’article 160.
 
 - **(2)** Quiconque importe ou a la possession, la responsabilité ou la charge des soins d’un produit d’une usine de traitement doit tenir un registre pour une période de dix ans indiquant :
 	- **a)** les nom et adresse de l’usine de traitement et la date de fabrication du produit;
@@ -2841,7 +2841,7 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 	- **c)** le nom, la quantité et le numéro de lot du produit, ainsi que tout autre renseignement qui en permet l’identification;
 	- **d)** les nom et adresse de toute personne à qui le produit est distribué ou vendu et les renseignements mentionnés à l’alinéa c) relativement au produit;
 	- **e)** si le produit est ou non une substance interdite ou s’il contient ou non une telle substance.
-> DORS/97-362, art. 4; DORS/2006-147, art. 23.
+> DORS/97-362, art. 4; DORS/2006-147, art. 23; DORS/2015-55, art. 9.
 
 
 
@@ -3335,7 +3335,7 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 - **(2)** La personne chargée de la gestion de l’installation d’étiquetage :
 	- **a)** veille à ce que le bison ou le bovin ne se mêle pas aux animaux appartenant à une autre personne et ne portant pas d’étiquette approuvée;
-	- **b)** veille à ce que l’étiquette approuvée soit apposée sur le bison ou le bovin dès son arrivée à l’installation;
+	- **b)** veille à ce que l’étiquette approuvée soit apposée sur le bison ou sur le bovin immédiatement après son arrivée à l’installation;
 	- **c)** tient un registre — qu’elle fournit à l’administrateur responsable sur demande — contenant suffisamment de renseignements pour que puisse être établie l’origine de tout bison ou bovin reçu à l’installation, notamment :
 		- **(i)** les nom et adresse du propriétaire de l’animal ou de la personne qui en a la possession, la garde ou la charge des soins avant qu’il ne soit transporté à l’installation,
 		- **(ii)** la date où l’animal est arrivé à l’installation,
@@ -3357,7 +3357,7 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 	- **b)** afficher l’avis de retrait sur son site Web.
 
 - **(6)** Si le nom et l’adresse d’une installation ont été retirés de la liste des installations d’étiquetage autorisées, la personne chargée de la gestion de cette installation peut faire une nouvelle demande d’inscription au titre du paragraphe (3).
-> DORS/2000-416, art. 1; DORS/2003-409, art. 6; DORS/2005-192, art. 9; DORS/2014-23, art. 16.
+> DORS/2000-416, art. 1; DORS/2003-409, art. 6; DORS/2005-192, art. 9; DORS/2014-23, art. 16; DORS/2015-55, art. 10(F).
 
 
 
