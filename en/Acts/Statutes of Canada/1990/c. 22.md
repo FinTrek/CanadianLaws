@@ -48,41 +48,41 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **3** In this Act,
 
-***Assessor*** means the Assessor or any Deputy Assessor appointed under Part II of the [Pesticide Residue Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-10.md);
+***Assessor*** means the Assessor or any Deputy Assessor appointed under Part II of the [Pesticide Residue Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-10.md); (*évaluateur*)
 
-***conveyance*** means any aircraft, carriage, motor vehicle, trailer, railway car, vessel, cargo container or other contrivance used to move persons or things;
+***conveyance*** means any aircraft, carriage, motor vehicle, trailer, railway car, vessel, cargo container or other contrivance used to move persons or things; (*véhicule*)
 
-Version anglaise seulement***dispose*** includes destroy;
+***dispose*** includes destroy; (***Version anglaise seulement***)
 
-***inspector*** means a person designated as an inspector pursuant to section 21;
+***document*** means anything on which information that is capable of being understood by a person, or read by a computer or other device, is recorded or marked; (*document*)
 
-***justice*** means a justice as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
+***inspector*** means a person designated as an inspector pursuant to section 21; (*inspecteur*)
 
-***Minister*** means the Minister of Agriculture and Agri-Food;
+***justice*** means a justice as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); (*juge de paix*)
 
-***peace officer*** means a peace officer as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
+***Minister*** means the Minister of Agriculture and Agri-Food; (*ministre*)
 
-***penalty*** means an administrative monetary penalty imposed under the [Agriculture and Agri-Food Administrative Monetary Penalties Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2040.md) for a violation;
+***peace officer*** means a peace officer as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); (*agent de la paix*)
 
-***pest*** means any thing that is injurious or potentially injurious, whether directly or indirectly, to plants or to products or by-products of plants, and includes any plant prescribed as a pest;
+***penalty*** means an administrative monetary penalty imposed under the [Agriculture and Agri-Food Administrative Monetary Penalties Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2040.md) for a violation; (*sanction*)
 
-***place*** includes a conveyance;
+***pest*** means any thing that is injurious or potentially injurious, whether directly or indirectly, to plants or to products or by-products of plants; (*parasite*)
 
-***plant*** includes a part of a plant;
+***place*** includes a conveyance; (*lieu*)
 
-Version anglaise seulement***prescribed*** means prescribed by regulation;
+***plant*** includes a part of a plant; (*végétal*)
 
-***thing*** includes a plant and a pest;
+***prescribed*** means prescribed by regulation; (***Version anglaise seulement***)
 
-***Tribunal*** means the Review Tribunal continued by subsection 4.1(1) of the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md);
+***thing*** includes a plant and a pest; (*choses*)
 
-***violation*** means
+***Tribunal*** means the Review Tribunal continued by subsection 4.1(1) of the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md); (*Commission*)
+
+***violation*** means any of the following that may be proceeded with in accordance with the [Agriculture and Agri-Food Administrative Monetary Penalties Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2040.md):
 - **(a)** any contravention of any provision of this Act or of a regulation made under this Act,
-- **(b)** any contravention of any order made by the Minister under this Act, or
-- **(c)** any refusal or neglect to perform any duty imposed by or under this Act
-
-that may be proceeded with in accordance with the [Agriculture and Agri-Food Administrative Monetary Penalties Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2040.md).
-> 1990, c. 22, s. 3; 1994, c. 38, s. 25; 1995, c. 40, s. 75; 1997, c. 6, s. 81; 2001, c. 4, s. 173(F).
+- **(b)** any contravention of any order made by the Minister under this Act, and
+- **(c)** any refusal or neglect to perform any duty imposed by or under this Act. (*violation*)
+> 1990, c. 22, s. 3; 1994, c. 38, s. 25; 1995, c. 40, s. 75; 1997, c. 6, s. 81; 2001, c. 4, s. 173(F); 2015, c. 2, s. 99.
 
 
 
@@ -133,42 +133,68 @@ that may be proceeded with in accordance with the [Agriculture and Agri-Food Adm
 
 
 
+**Recall order — [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md)**
+
+**6.1** No person shall sell a thing regulated under this Act that is the subject of a recall order referred to in subsection 19(1) of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md).
+> 2015, c. 2, s. 100.
+
+
+
+
+
 ### Importation and Exportation
 
 
 
-**Presentation for inspection**
+**Prohibition**
 
-**7** 
-
-- **(1)** No person shall import or admit into Canada or export from Canada any thing that is a pest, that is or could be infested with a pest or that constitutes or could constitute a biological obstacle to the control of a pest, unless
-	- **(a)** the thing is or has been presented to an inspector in accordance with subsection (2) at a place designated by the regulations or by an inspector;
-	- **(b)** the person has produced to an inspector all permits, certificates and other documentation required by the regulations; and
-	- **(c)** the thing is imported or exported in accordance with any other requirements of the regulations.
-
-**Manner of presentation for inspection**
-
-- **(2)** A thing that is required to be inspected shall be presented in such manner and under such conditions as the inspector considers necessary to carry out the inspection.
+**7** No person shall import or admit into Canada or export from Canada any thing that is a pest, that is or could be infested with a pest or that constitutes or could constitute a biological obstacle to the control of a pest, unless
+- **(a)** the person has produced to an inspector all permits, certificates and other documentation required by the regulations;
+- **(b)** the thing is or has been presented to an inspector — if required by the regulations or an inspector — in the manner and under the conditions specified by the inspector and at a place designated by the regulations or an inspector; and
+- **(c)** the thing is imported or exported in accordance with any other requirements of the regulations.
+> 1990, c. 22, s. 7; 2015, c. 2, s. 101.
 
 
 
 
-**Removal of imports**
+
+**Removal or destruction of unlawful imports**
 
 **8** 
 
-- **(1)** Where an inspector believes on reasonable grounds that a thing has been imported into Canada and that it
-	- **(a)** was imported in contravention of this Act or the regulations, or
-	- **(b)** is a pest, is or could be infested with a pest or constitutes or could constitute a biological obstacle to the control of a pest,
-the inspector may, whether or not the thing is seized, require the owner of the thing or the person having the possession, care or control of it to remove it from Canada.
+- **(1)** An inspector who has reasonable grounds to believe that an imported thing has been imported in contravention of a provision of this Act or the regulations, is a pest, is or could be infested with a pest or constitutes or could constitute a biological obstacle to the control of a pest or that a requirement imposed by or under the regulations in respect of an imported thing has not been met may, by notice, whether the thing is seized or not, order its owner or importer or the person having possession, care or control of it to remove it from Canada or, if removal is not possible, to destroy it.
 
 **Notice**
 
-- **(2)** A requirement under subsection (1) shall be communicated by personal delivery of a notice to the owner or person having the possession, care or control of the thing, or by sending the notice to the owner or person, and the notice may specify the period within which or the manner in which the thing is to be removed.
+- **(2)** The notice must either be delivered personally to the owner or importer of the thing or to the person having possession, care or control of it or be sent by registered mail to the owner’s, importer’s or person’s address in Canada.
 
-**Forfeiture where non-compliance**
+**Forfeiture**
 
-- **(3)** Where a thing is not removed from Canada as required under this section, it shall, notwithstanding section 32, be forfeited to Her Majesty in right of Canada and may be disposed of as the Minister may direct.
+- **(3)** If the thing is not removed from Canada, or destroyed, within the period specified in the notice — or, if no period was specified, within 90 days after the day on which the notice was delivered or sent — it is, despite subsection 32(1), forfeited to Her Majesty in right of Canada and may be disposed of as the Minister may direct.
+
+**Suspension of application of subsection (3)**
+
+- **(4)** An inspector may, for a period that he or she specifies, suspend the application of subsection (3) if he or she is satisfied that
+	- **(a)** harm to human, animal or plant health or the environment is unlikely to result;
+	- **(b)** the thing will not be sold within that period;
+	- **(c)** the measures that should have been taken for the thing not to have been imported in contravention of a provision of this Act or the regulations will be taken within that period; and
+	- **(d)** if the thing does not meet the requirements of the regulations, it will be brought into compliance with the regulations within that period.
+
+**Cancellation**
+
+- **(5)** An inspector may cancel the notice if he or she is satisfied that
+	- **(a)** harm to human, animal or plant health or the environment is unlikely to result;
+	- **(b)** the thing has not been sold within the period referred to in subsection (6);
+	- **(c)** the measures referred to in paragraph (4)(c) were taken within that period; and
+	- **(d)** if the thing did not meet the requirements of the regulations when it was imported, it was brought into compliance with the regulations within that period.
+
+**Period**
+
+- **(6)** The period for the purposes of subsection (5) is
+	- **(a)** if the application of subsection (3) was suspended under subsection (4), the period of the suspension; and
+	- **(b)** if the application of subsection (3) was not suspended, the period specified in the notice or, if no period was specified, the period that ends 90 days after the day on which the notice was delivered or sent.
+> 1990, c. 22, s. 8; 2015, c. 2, s. 101.
+
 
 
 
@@ -411,6 +437,21 @@ the inspector may, whether or not the thing is seized, require the owner of the 
 
 
 
+**Provision of documents, information or samples**
+
+**23.1** 
+
+- **(1)** An inspector may, for the purpose of detecting pests or for a purpose related to verifying compliance or preventing non-compliance with this Act, order a person to provide, on the date, at the time and place and in the manner specified by the inspector, any document, information or sample specified by the inspector.
+
+**Duty to provide document, information or sample**
+
+- **(2)** A person who is ordered by an inspector to provide a document, information or a sample has a duty to do so on the specified date, at the specified time and place and in the specified manner.
+> 2015, c. 2, s. 102.
+
+
+
+
+
 ### Seals
 
 
@@ -438,7 +479,7 @@ the inspector may, whether or not the thing is seized, require the owner of the 
 
 **25** 
 
-- **(1)** For the purpose of detecting pests or ensuring compliance with this Act and the regulations, an inspector may
+- **(1)** For the purpose of detecting pests or for a purpose related to verifying compliance or preventing non-compliance with this Act, an inspector may
 	- **(a)** subject to section 26, at any reasonable time, enter and inspect any place, or stop any conveyance, in which the inspector believes on reasonable grounds there is any thing in respect of which this Act or the regulations apply;
 	- **(b)** open any receptacle, baggage, package, cage or other thing that the inspector believes on reasonable grounds contains any thing in respect of which this Act or the regulations apply;
 	- **(c)** examine any thing in respect of which this Act or the regulations apply and take samples of it;
@@ -449,8 +490,10 @@ the inspector may, whether or not the thing is seized, require the owner of the 
 
 - **(2)** In carrying out an inspection at any place under this section, an inspector may
 	- **(a)** use or cause to be used any data processing system at the place to examine any data contained in or available to the system;
-	- **(b)** reproduce any record or cause it to be reproduced from the data in the form of a print-out or other intelligible output and take the print-out or other output for examination or copying; and
+	- **(b)** reproduce any document or cause it to be reproduced from the data in the form of a printout or other intelligible output and take the printout or other output for examination or copying; and
 	- **(c)** use or cause to be used any copying equipment at the place to make copies of any record or other document.
+> 1990, c. 22, s. 25; 2015, c. 2, s. 103.
+
 
 
 
@@ -558,26 +601,20 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 
 
 
-**Detention**
+**Release of seized thing**
 
 **32** 
 
-- **(1)** A thing that is seized and detained under this Act, or any proceeds realized from its disposition, shall not be detained after
-	- **(a)** a determination by an inspector that the thing is in conformity with the provisions of this Act and the regulations, or
-	- **(b)** the expiration of one hundred and eighty days after the day of seizure, or such longer period as may be prescribed,
-unless before that time proceedings are instituted in relation to the thing, in which case it, or the proceeds from its disposition, may be detained until the proceedings are finally concluded.
+- **(1)** If an inspector is satisfied that the provisions of this Act and the regulations that apply with respect to a thing seized under this Act have been complied with, the thing must be released.
 
 **Application for return**
 
-- **(2)** Where proceedings are instituted in accordance with subsection (1) in respect of the thing and it has not been disposed of, confiscated or forfeited under this Act or the regulations, the owner of the thing or the person having the possession, care or control of it at the time of its seizure may apply
-	- **(a)** in the case of a violation, to the Tribunal, or
-	- **(b)** in the case of an offence, to the court before which the proceedings are being held,
-for an order that it be returned.
+- **(2)** If proceedings are instituted in relation to a thing seized under this Act and it has not been disposed of or forfeited under this Act, the owner of the thing or the person having the possession, care or control of it at the time of its seizure may apply for an order that it be returned. The application may be made, in the case of a violation, to the Tribunal or, in the case of an offence, to the court before which the proceedings are being held.
 
 **Order**
 
 - **(3)** The Tribunal or court, as the case may be, may order that the thing be returned to the applicant, subject to such conditions as the Tribunal or court may impose to ensure that it is preserved for any purpose for which it may subsequently be required, where the Tribunal or court is satisfied that sufficient evidence exists or may reasonably be obtained without detaining the thing and that it is not a pest, is not infested with a pest and does not constitute a biological obstacle to the control of a pest.
-> 1990, c. 22, s. 32; 1995, c. 40, s. 78.
+> 1990, c. 22, s. 32; 1995, c. 40, s. 78; 2015, c. 2, s. 104.
 
 
 
@@ -602,7 +639,7 @@ for an order that it be returned.
 
 **34** 
 
-- **(1)** Where proceedings mentioned in subsection 32(1) are instituted within the time provided in that subsection and, at the final conclusion of those proceedings, the Tribunal, in the case of a violation, or the court, in the case of an offence, orders the forfeiture of the thing that was seized and detained, it shall be disposed of as the Minister may direct.
+- **(1)** If the Tribunal or the court, as the case may be, orders the forfeiture of a thing under subsection 33(1), the thing shall be disposed of as the Minister may direct.
 
 **Return of seized things where no forfeiture ordered**
 
@@ -614,7 +651,7 @@ for an order that it be returned.
 	- **(a)** the thing may be detained until the penalty or fine is paid;
 	- **(b)** the thing may be sold under execution in satisfaction of the penalty or fine; or
 	- **(c)** any proceeds realized from its disposition under paragraph (b) or subsection 30(3) may be applied in payment of the penalty or fine.
-> 1990, c. 22, s. 34; 1995, c. 40, s. 80.
+> 1990, c. 22, s. 34; 1995, c. 40, s. 80; 2015, c. 2, s. 105.
 
 
 
@@ -656,6 +693,69 @@ for an order that it be returned.
 
 
 
+## Prohibitions Respecting Documents
+
+
+
+**Altering, destroying or falsifying required documents**
+
+**36.1** 
+
+- **(1)** No person shall alter, destroy or falsify a document that they are required under this Act to keep, maintain or provide.
+
+**Altering, possessing, etc., official documents**
+
+- **(2)** No person shall
+	- **(a)** alter a document issued or made — or in any manner given — under this Act;
+	- **(b)** have in their possession or use a document issued or made — or in any manner given — under this Act that has been altered; or
+	- **(c)** use any document issued or made — or in any manner given — under this Act for a purpose or in respect of a thing, other than the purpose or thing for which the document was issued, made or given.
+> 2015, c. 2, s. 106.
+
+
+
+
+
+**Possessing or using documents that resemble official documents**
+
+**36.2** No person shall have in their possession or use any document that has not been issued or made — or in any manner given — under this Act if it so closely resembles a document that has been so issued, made or given that it is likely to be mistaken for it.
+> 2015, c. 2, s. 106.
+
+
+
+
+
+## Prohibitions Respecting Marking and Identification
+
+
+
+**Altering, destroying or falsifying mark, label, tag or seal**
+
+**36.3** 
+
+- **(1)** No person shall alter, destroy or falsify a mark, label, tag or seal required under this Act.
+
+**Possessing or using mark, label, tag or seal**
+
+- **(2)** No person shall
+	- **(a)** have in their possession or use a mark, label, tag or seal required under this Act that has been altered or falsified; or
+	- **(b)** use a mark, label, tag or seal required under this Act for a purpose or in respect of a thing, other than a purpose or a thing provided for in the regulations.
+> 2015, c. 2, s. 106.
+
+
+
+
+
+**Possessing or using misleading mark, label, tag, seal or device**
+
+**36.4** No person shall have in their possession or use
+- **(a)** any mark, label, tag or seal that so closely resembles one required under this Act that it is likely to be mistaken for it; or
+- **(b)** any device that is designed or adapted to create a mark that so closely resembles a mark required under this Act that it is likely to be mistaken for it.
+> 2015, c. 2, s. 106.
+
+
+
+
+
 ## Samples
 
 
@@ -679,9 +779,20 @@ for an order that it be returned.
 
 **Her Majesty not liable**
 
-**38** Where a person must, by or under this Act or the regulations, do anything, including provide and maintain any area, office, laboratory or other facility under section 20, or permit an inspector to do anything, Her Majesty is not liable
+**38** If a person must, under this Act, do anything or permit an inspector to do anything, Her Majesty in right of Canada is not liable
 - **(a)** for any costs, loss or damage resulting from the compliance; or
-- **(b)** to pay any fee, rent or other charge for what is done, provided, maintained or permitted.
+- **(b)** to pay any fee, including any rent or charge, for what is done or permitted to be done.
+> 1990, c. 22, s. 38; 2015, c. 2, s. 107.
+
+
+
+
+
+**No liability**
+
+**38.1** No person who exercises powers or performs duties or functions under this Act is liable in respect of anything done or omitted to be done in good faith in the exercise of those powers or the performance of those duties or functions.
+> 2015, c. 2, s. 107.
+
 
 
 
@@ -817,27 +928,119 @@ for an order that it be returned.
 
 **Regulations**
 
-**47** The Governor in Council may make regulations for carrying out the purposes and provisions of this Act and prescribing anything that is to be prescribed under this Act, including regulations
-- **(a)** prohibiting or regulating the importation and admission into Canada, the exportation from Canada and the processing, handling, packaging, distribution, sale, disposition, loading, unloading and movement within Canada of pests and other things that are or could be infested with pests or that constitute or could constitute biological obstacles to the control of pests;
-- **(b)** governing the issue, renewal, amendment, suspension and revocation of permits, certificates or other documents on such terms and conditions as may be required for the purposes of this Act;
-- **(c)** prohibiting or regulating the importation of food or garbage into Canada;
-- **(d)** regulating any activity referred to in section 6;
-- **(e)** designating places of entry where things may be presented for inspection and admittance into Canada;
-- **(f)** governing investigations and surveys to detect pests and to identify areas of infestation;
-- **(g)** respecting the declaration of things infested with pests and things free of infestation;
-- **(h)** respecting the declaration under sections 11, 12 and 15 of places that are infested;
-- **(i)** prohibiting or regulating the use of places that are, or are suspected of being, infested with pests and of things that are, or are suspected of being, pests or infested with pests or that constitute or could constitute biological obstacles to the control of pests;
-- **(j)** governing the quarantine of things;
-- **(k)** for the establishment of inspection and treatment centres and quarantine stations;
-- **(l)** governing the disposition of things that are, or are suspected of being, pests or infested with pests or that constitute or could constitute biological obstacles to the control of pests;
-- **(m)** respecting the detention or disposition of things seized, forfeited or confiscated under this Act;
-- **(n)** governing the treatment or manner of treatment to be administered to places or things and requiring persons to administer or to arrange the administration of the treatment;
-- **(o)** governing the removal from places where treatment is administered of persons or things that present obstacles to the treatment or that may be adversely affected by it;
-- **(p)** requiring things to be marked or identified or to have affixed to them labels, tags, seals or other devices and prohibiting the removal, breaking, tampering with or altering of those marks, labels, tags, seals or other devices;
-- **(q)** prescribing the terms and conditions on which compensation may be ordered under section 39 and the maximum levels of compensation;
-- **(r)** requiring documents to be furnished to or by inspectors; and
-- **(s)** prescribing any fees or charges, or the manner of calculating any fees or charges, required for carrying out the purposes and provisions of this Act or the regulations.
-> 1990, c. 22, s. 47; 1993, c. 34, s. 103.
+**47** 
+
+- **(1)** The Governor in Council may make regulations for carrying out the purposes and provisions of this Act and prescribing anything that is to be prescribed under this Act, including regulations
+	- **(a)** prohibiting or regulating the carrying out of any activity in respect of pests and of other things that are or could be infested with pests or that constitute or could constitute biological obstacles to the control of pests, including their importation and admission into Canada, their exportation from Canada and their movement within Canada;
+	- **(a.1)** for the purposes of paragraph 7(b),
+		- **(i)** respecting the circumstances in which a thing must be presented to an inspector, and
+		- **(ii)** imposing conditions on an inspector’s authority to require that a thing be presented;
+	- **(b)** governing the issue, renewal, amendment, suspension and revocation of permits, certificates or other documents on such terms and conditions as may be required for the purposes of this Act;
+	- **(b.1)** respecting authorizations provided for in section 47.2, including the conditions to which they may be subject and their amendment, suspension or revocation;
+	- **(c)** prohibiting or regulating the importation of food or garbage into Canada;
+	- **(d)** regulating any activity referred to in section 6;
+	- **(e)** designating places of entry where things may be presented for inspection and admittance into Canada;
+	- **(f)** governing investigations and surveys to detect pests and to identify areas of infestation;
+	- **(g)** respecting the declaration of things infested with pests and things free of infestation;
+	- **(h)** respecting the declaration under sections 11, 12 and 15 of places that are infested;
+	- **(i)** prohibiting or regulating the use of places that are, or are suspected of being, infested with pests and of things that are, or are suspected of being, pests or infested with pests or that constitute or could constitute biological obstacles to the control of pests;
+	- **(j)** governing the quarantine of things;
+	- **(k)** for the establishment of inspection and treatment centres and quarantine stations;
+	- **(l)** governing the disposition of things that are, or are suspected of being, pests or infested with pests or that constitute or could constitute biological obstacles to the control of pests;
+	- **(m)** respecting the detention or disposition of things seized, forfeited or confiscated under this Act;
+	- **(n)** governing the treatment or manner of treatment to be administered to places or things and requiring persons to administer or to arrange the administration of the treatment;
+	- **(o)** governing the removal from places where treatment is administered of persons or things that present obstacles to the treatment or that may be adversely affected by it;
+	- **(p)** requiring things to be marked or identified or to have affixed to them labels, tags, seals or other devices and prohibiting the removal, breaking, tampering with or altering of those marks, labels, tags, seals or other devices;
+	- **(q)** prescribing the terms and conditions on which compensation may be ordered under section 39 and the maximum levels of compensation;
+	- **(r)** requiring documents to be furnished by inspectors;
+	- **(r.1)** requiring persons to prepare, keep or maintain documents and to provide the Minister or an inspector with, or with access to, those documents, and respecting
+		- **(i)** the information in those documents,
+		- **(ii)** the manner in which they are to be prepared, kept or maintained,
+		- **(iii)** the place where they are to be kept or maintained, and
+		- **(iv)** the manner in which they are to be provided or access to them is to be provided;
+	- **(r.2)** requiring persons to take or keep samples of any thing and to provide the Minister or an inspector with, or with access to, those samples, and respecting the manner in which those samples are to be taken or kept and the manner in which they are to be provided or access to them is to be provided;
+	- **(s)** prescribing any fees or charges, or the manner of calculating any fees or charges, required for carrying out the purposes and provisions of this Act or the regulations; and
+	- **(t)** exempting, with or without conditions, any thing, or a person or activity in respect of a thing, from the application of this Act or the regulations or a provision of this Act or the regulations.
+
+**Paragraph (1)(a) — importation**
+
+- **(2)** Regulations made under paragraph (1)(a) may, among other things, establish preclearance or in-transit requirements for any imported thing or anything imported with it.
+
+**Paragraph (1)(a) — prohibiting or restricting activities**
+
+- **(3)** Regulations made under paragraph (1)(a) may, among other things, authorize the Minister or an inspector to prohibit or restrict the carrying out of any activity in respect of a thing if the Minister or inspector has reasonable grounds to believe that the thing is a pest, is infested with a pest or constitutes a biological obstacle to the control of a pest, and prescribe conditions for the exercise of the authority.
+
+**Paragraph (1)(i)**
+
+- **(4)** Regulations made under paragraph (1)(i) may, among other things, authorize the Minister or an inspector to prohibit or restrict the use of a place or a thing if the Minister or inspector has reasonable grounds to believe that the place is infested with a pest or that the thing is a pest, is infested with a pest or constitutes a biological obstacle to the control of a pest, and prescribe conditions for the exercise of the authority.
+
+**Paragraph (1)(r.1)**
+
+- **(5)** Regulations made under paragraph (1)(r.1) may, among other things, require persons who conduct any activity regulated under this Act and who become aware that a thing that is a pest, that is or could be infested with a pest or that constitutes or could constitute a biological obstacle to the control of a pest presents a risk of harm to human, animal or plant health or the environment or does not meet the requirements of the regulations to provide written notice to that effect to the Minister or an inspector.
+> 1990, c. 22, s. 47; 1993, c. 34, s. 103; 2015, c. 2, s. 108.
+
+
+
+
+
+## Incorporation by Reference
+
+
+
+**Incorporation by reference**
+
+**47.1** 
+
+- **(1)** A regulation made under subsection 47(1) may incorporate by reference any document, regardless of its source, either as it exists on a particular date or as it is amended from time to time.
+
+**Accessibility**
+
+- **(2)** The Minister must ensure that any document that is incorporated by reference in a regulation made under subsection 47(1), including any amendments to the document, is accessible.
+
+**Defence**
+
+- **(3)** A person is not liable to be found guilty of an offence or subjected to an administrative sanction for any contravention in respect of which a document that is incorporated by reference in a regulation made under subsection 47(1) is relevant unless, at the time of the alleged contravention, the document was accessible as required by subsection (2) or it was otherwise accessible to the person.
+
+**No registration or publication**
+
+- **(4)** For greater certainty, a document that is incorporated by reference in a regulation made under subsection 47(1) is not required to be transmitted for registration or published in the Canada Gazette by reason only that it is incorporated by reference.
+> 2015, c. 2, s. 109.
+
+
+
+
+
+## Authorizations
+
+
+
+**Authorizations**
+
+**47.2** 
+
+- **(1)** The President of the Canadian Food Inspection Agency may, subject to the regulations, authorize any person to perform any activity that he or she specifies, subject to any conditions that he or she considers appropriate, if the activity is related to ensuring that a thing is not a pest, is not or could not be infested with a pest or does not or could not constitute a biological obstacle to the control of a pest.
+
+**Not transferable**
+
+- **(2)** The authorization is not transferable.
+
+**Amendment, suspension and revocation**
+
+- **(3)** The President may, subject to the regulations, amend, suspend or revoke the authorization.
+> 2015, c. 2, s. 109.
+
+
+
+
+
+## General
+
+
+
+**Non-application of [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+**47.3** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply in respect of a notice referred to in section 49.
+> 2015, c. 2, s. 109.
 
 
 
@@ -862,7 +1065,7 @@ for an order that it be returned.
 **No imprisonment**
 
 - **(3)** Notwithstanding the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), no person shall be committed to prison for default of payment of a fine imposed under subsection (2).
-> 1990, c. 22, s. 48; 1995, c. 40, s. 82.
+> 1990, c. 22, s. 48; 1995, c. 40, s. 82; 2015, c. 2, s. 110(F).
 
 
 
@@ -898,15 +1101,11 @@ for an order that it be returned.
 
 
 
-**Limitation period**
+**Limitation period or prescription**
 
-**51** 
+**51** Summary conviction proceedings for an offence under this Act may be instituted no later than two years after the day on which the subject matter of the proceedings arises.
+> 1990, c. 22, s. 51; 2015, c. 2, s. 111.
 
-- **(1)** Proceedings by way of summary conviction in respect of an offence under this Act may be instituted at any time within, but not later than, two years after the time when the Minister became aware of the subject-matter of the proceedings.
-
-**Minister’s certificate**
-
-- **(2)** A document purporting to have been issued by the Minister, certifying the day on which the Minister became aware of the subject-matter of any proceedings, is admissible in evidence without proof of the signature or official character of the person appearing to have signed the document and, in the absence of evidence to the contrary, is proof of the matter asserted in it.
 
 
 
@@ -928,18 +1127,20 @@ and any regulations made under this section shall establish a procedure for volu
 
 
 
-**Officers, etc., of corporations**
+**Parties to offence**
 
-**54** Where a corporation commits an offence under this Act, any officer, director or agent of the corporation who directed, authorized, assented to or acquiesced or participated in the commission of the offence is a party to and guilty of the offence and is liable on conviction to the punishment provided for the offence, whether or not the corporation has been prosecuted or convicted.
+**54** If a person other than an individual commits an offence under this Act, any of the person’s directors, officers or agents or mandataries who directs, authorizes, assents to or acquiesces or participates in the commission of the offence is a party to the offence and is liable on conviction to the punishment provided for by this Act, even if the person is not prosecuted for the offence.
+> 1990, c. 22, s. 54; 2015, c. 2, s. 112.
 
 
 
 
-**Offences by employees or agents**
 
-**55** In any prosecution for an offence under this Act, it is sufficient proof of the offence to establish that it was committed by an employee or agent of the accused, whether or not the employee or agent is identified or has been prosecuted for the offence, unless the accused establishes that
-- **(a)** the offence was committed without the knowledge or consent of the accused; and
-- **(b)** the accused exercised all due diligence to prevent the commission of the offence.
+**Proof of offence**
+
+**55** In a prosecution for an offence under this Act, it is sufficient proof of the offence to establish that it was committed by an employee or an agent or mandatary of the accused, even if the employee or the agent or mandatary is not identified or prosecuted for the offence, unless the accused establishes that the offence was committed without the knowledge or consent of the accused and that the accused exercised all due diligence to prevent its commission.
+> 1990, c. 22, s. 55; 2015, c. 2, s. 112.
+
 
 
 
