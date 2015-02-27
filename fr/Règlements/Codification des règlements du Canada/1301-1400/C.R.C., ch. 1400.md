@@ -351,7 +351,7 @@ Autorités habilitantes :
 
 - **(3)** Il est interdit d’utiliser ou de permettre que soit utilisé un nom de variété sur toute étiquette ou tout emballage de semence d’une sorte ou espèce figurant à l’annexe II ou sur toute facture, circulaire ou publicité relative à la semence de cette sorte ou espèce, sauf si, selon le cas :
 	- **a)** sous réserve du paragraphe (4), la semence porte une dénomination de la catégorie Canada généalogique et est étiquetée conformément aux articles 32 à 37 au moment de la vente;
-	- **b)** dans le cas d’un mélange de variétés :
+	- **b)** dans le cas d’un mélange ou d’un mélange de variétés :
 		- **(i)** le mélange a été effectué par un conditionneur agréé aux termes de la partie IV et toute la semence désignée comme une variété est de qualité Généalogique,
 		- **(ii)** si le mélange de variétés est importé, la semence est accompagnée, au moment de l’importation, d’un certificat d’une agence officielle de certification confirmant que toute la semence désignée comme une variété est de qualité Généalogique;
 	- **c)** la semence est d’une variété de semence potagère.
@@ -367,7 +367,7 @@ Autorités habilitantes :
 	- **b)** la semence est déplacée dans des emballages qui ne sont pas scellés à un lieu qui n’est ni un conditionneur agréé aux termes de la partie IV, ni une installation d’entreposage en vrac agréée aux termes de cette partie;
 	- **c)** l’Association retire le certificat de récolte délivré à l’égard de la récolte dont provient la semence;
 	- **d)** la semence a été contaminée de telle sorte qu’elle ne répond plus aux normes de pureté variétale établies par l’Association.
-> DORS/79-367, art. 2; DORS/82-437, art. 2; DORS/86-850, art. 5(F); DORS/88-242, art. 2; DORS/89-368, art. 4(F); DORS/96-252, art. 2; DORS/2003-6, art. 103.
+> DORS/79-367, art. 2; DORS/82-437, art. 2; DORS/86-850, art. 5(F); DORS/88-242, art. 2; DORS/89-368, art. 4(F); DORS/96-252, art. 2; DORS/2003-6, art. 103; DORS/2015-55, art. 11(F).
 
 
 
@@ -463,13 +463,13 @@ Autorités habilitantes :
 
 - **(1.1)** La demande visée au sous-alinéa (1)a)(ii) est accompagnée du droit applicable figurant dans l’Avis sur les prix de l’Agence canadienne d’inspection des aliments.
 
-- **(2)** Le registraire agrée le demandeur à titre de classificateur pour la période se terminant le 31 décembre de l’année suivante et lui délivre un certificat de classificateur agréé :
-	- **a)** sur recommandation d’un organisme de vérification de la conformité;
-	- **b)** à défaut de tel organisme, sur paiement du droit applicable figurant dans l’Avis su les prix de l’Agence canadienne d’inspection des aliments et sur obtention d’au moins 80 % pour l’évaluation visée à l’alinéa (1)b) et d’au moins 80 % pour l’évaluation visée aux alinéas (1)c.1), c.2) ou d), selon le cas.
+- **(2)** Sur obtention par le demandeur d’au moins 80 % à la fois pour l’évaluation visée à l’alinéa (1)b) et pour celle visée aux alinéas (1)c.1), c.2) ou d), selon le cas, le registraire agrée le demandeur à titre de classificateur pour la période se terminant le 31 décembre de l’année suivante et lui délivre un certificat de classificateur agréé :
+	- **a)** soit sur recommandation d’un organisme de vérification de la conformité;
+	- **b)** soit, à défaut de tel organisme, sur paiement du droit applicable figurant dans l’Avis sur les prix de l’Agence canadienne d’inspection des aliments.
 
-- **(2.1)** Le registraire agrée le demandeur à titre d’échantillonneur pour la période se terminant le 31 décembre de l’année suivante et lui délivre un certificat d’échantillonneur agréé :
-	- **a)** sur recommandation d’un organisme de vérification de la conformité;
-	- **b)** à défaut de tel organisme, sur paiement du droit applicable figurant dans l’Avis sur les prix de l’Agence canadienne d’inspection des aliments et sur obtention d’au moins 80 % pour l’évaluation visée à l’alinéa (1)b) et d’au moins 80 % pour l’évaluation visée à l’alinéa (1)c).
+- **(2.1)** Sur obtention par le demandeur d’au moins 80 % à la fois pour l’évaluation visée à l’alinéa (1)b) et pour celle visée à l’alinéa (1)c), le registraire agrée le demandeur à titre d’échantillonneur pour la période se terminant le 31 décembre de l’année suivante et lui délivre un certificat d’échantilloneur agréé :
+	- **a)** soit sur recommandation d’un organisme de vérification de la conformité;
+	- **b)** soit, à défaut d’un tel organisme, sur paiement du droit applicable figurant dans l’Avis sur les prix de l’Agence canadienne d’inspection des aliments.
 
 - **(3)** [Abrogé, DORS/2007-223, art. 9]
 
@@ -492,7 +492,7 @@ Autorités habilitantes :
 - **(12)** Si le registraire conclut que l’organisme de vérification de la conformité aurait dû recommander l’octroi ou le renouvellement de l’agrément de classificateur ou d’échantillonneur, il fait droit à la demande initiale comme si l’organisme avait fait la recommandation.
 
 - **(13)** Le registraire envoie un avis motivé de sa décision au demandeur par courrier recommandé.
-> DORS/96-252, art. 2; DORS/97-534, art. 5; DORS/2000-183, art. 39; DORS/2001-93, art. 2; DORS/2003-6, art. 107; DORS/2007-223, art. 9.
+> DORS/96-252, art. 2; DORS/97-534, art. 5; DORS/2000-183, art. 39; DORS/2001-93, art. 2; DORS/2003-6, art. 107; DORS/2007-223, art. 9; DORS/2015-55, art. 12.
 
 
 
@@ -809,12 +809,12 @@ Autorités habilitantes :
 
 - **(1)** Les semences spéciales doivent être munies d’une étiquette portant la sorte ou espèce de semence et le pourcentage approximatif ou la quantité nette de semences dans le produit.
 
-- **(2)** Tout emballage de semences spéciales doit être muni d’une étiquette portant :
+- **(2)** Tout emballage de semence spéciale est muni d’une étiquette portant :
 	- **a)** les nom et adresse du vendeur, de l’emballeur ou de l’étiqueteur;
 	- **b)** le nom de la catégorie de semence, le cas échéant.
 
-- **(3)** En plus de satisfaire aux exigences d’étiquetage visées au paragraphe (2), tout emballage de semences spéciales doit être muni d’une étiquette portant les renseignements exigés par l’article du présent règlement applicable à la semence en cause.
-> DORS/96-252, art. 2; DORS/2007-223, art. 17.
+- **(3)** En plus de satisfaire aux exigences d’étiquetage visées au paragraphe (2), tout emballage de semence spéciale est muni d’une étiquette portant les renseignements exigés par l’article du présent règlement applicable à la semence en cause.
+> DORS/96-252, art. 2; DORS/2007-223, art. 17; DORS/2015-55, art. 13(F).
 
 
 
@@ -883,8 +883,8 @@ Autorités habilitantes :
 - **(5)** L’emballage de semence de qualité Certifiée est soustrait à l’application du paragraphe (1) si :
 	- **a)** il est muni d’une étiquette délivrée ou approuvée par une agence officielle de certification, indiquant sa qualité Généalogique;
 	- **b)** dans le cas de semence étiquetée au Canada, la dénomination de la catégorie Canada généalogique figure sur un document présenté avec chaque vente et porte le nom du vendeur;
-	- **c)** dans le cas de semence importée au Canada et classée sous une dénomination de la catégorie Canada généalogique, la dénomination de la catégorie Canada généalogique et le numéro du classificateur agréé figurent sur l’étiquette qui est fixée à chaque emballage de semences ou qui est imprimée directement sur l’emballage.
-> DORS/96-252, art. 2; DORS/2000-184, art. 89; DORS/2003-6, art. 109; DORS/2007-223, art. 19; DORS/2012-13, art. 6.
+	- **c)** dans le cas de semence importée au Canada et classée sous une dénomination de la catégorie Canada généalogique, la dénomination de la catégorie Canada généalogique et le numéro du classificateur agréé figurent sur l’étiquette qui est fixée à chaque emballage de semence ou qui est imprimée directement sur l’emballage.
+> DORS/96-252, art. 2; DORS/2000-184, art. 89; DORS/2003-6, art. 109; DORS/2007-223, art. 19; DORS/2012-13, art. 6; DORS/2015-55, art. 14(F).
 
 
 
@@ -2753,7 +2753,7 @@ NOTE
 **86** 
 
 - **(1)** L’exploitant d’un établissement agréé doit y conserver :
-	- **a)** des copies à jour de la [Loi sur les semences](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-8.md), du présent règlement ainsi que les directives, politiques, manuels, circulaires et tout autre document que l’Agence lui remet de temps à autre;
+	- **a)** des copies à jour de la [Loi sur les semences](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-8.md), du présent règlement ainsi que de tout autre document que l’Agence lui remet de temps à autre;
 	- **b)** une liste qui :
 		- **(i)** indique les mesures et la documentation nécessaires pour assurer la conformité de l’établissement aux exigences du présent règlement,
 		- **(ii)** contient, le cas échéant, le nom des préposés à la manutention, à l’entreposage, au prélèvement d’échantillons, à l’essai, à la transformation, à la classification, à l’étiquetage et à la documentation de toutes les semences dans l’établissement,
@@ -2764,7 +2764,7 @@ NOTE
 	- **b)** d’équipement permettant de prélever des échantillons représentatifs de semence.
 
 - **(3)** Les installations d’entreposage en vrac et les importateurs autorisés doivent être dotés des installations d’entreposage voulues pour permettre l’identification des lots de semence, pour en préserver l’identité et pour prévenir l’intercontamination.
-> DORS/96-252, art. 3; DORS/2000-184, art. 88.
+> DORS/96-252, art. 3; DORS/2000-184, art. 88; DORS/2015-55, art. 15.
 
 
 
