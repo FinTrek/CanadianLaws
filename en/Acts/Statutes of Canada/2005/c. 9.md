@@ -2289,6 +2289,12 @@ Beaver Lake Cree Nation
 Beecher Bay
 
 
+Behdzi Ahda″ First Nation
+
+
+Berens River
+
+
 Bingwi Neyaashi Anishinaabek
 
 
@@ -2346,6 +2352,9 @@ Douglas
 Ebb and Flow
 
 
+Ehattesaht
+
+
 Elsipogtog First Nation
 
 
@@ -2371,6 +2380,9 @@ Heiltsuk
 
 
 Indian Island First Nation
+
+
+Bande des Innus de Pessamit
 
 
 Kahkewistahaw First Nation
@@ -2421,6 +2433,9 @@ Malahat First Nation
 Matsqui First Nation
 
 
+M’Chigeeng First Nation
+
+
 Membertou First Nation
 
 
@@ -2463,7 +2478,13 @@ Muskeg Lake Cree Nation
 Muskoday First Nation
 
 
+Muskowekwan
+
+
 Nadleh Whut’en Band
+
+
+Nak’azdli
 
 
 Nanoose First Nation
@@ -2547,6 +2568,9 @@ Semiahmoo First Nation
 Serpent River First Nation
 
 
+Seton Lake
+
+
 Shackan First Nation
 
 
@@ -2596,6 +2620,9 @@ Squamish Nation
 
 
 Squiala First Nation
+
+
+Stellat’en First Nation
 
 
 St. Mary’s First Nation
@@ -2685,6 +2712,6 @@ Yakweakwioose First Nation
 Yellow Quill Band
 
 
-> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30, 122, 273; SOR/2013-59, 176; SOR/2014-77, 208.
+> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30, 122, 273; SOR/2013-59, 176; SOR/2014-77, 208; SOR/2015-52.
 
 
