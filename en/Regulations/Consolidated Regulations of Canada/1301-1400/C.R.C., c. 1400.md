@@ -373,7 +373,7 @@ Enabling authorities:
 	- **(b)** the seed moves in unsealed packages to a place that is neither an approved conditioner nor a bulk storage facility registered under Part IV;
 	- **(c)** the Association withdraws the crop certificate that was issued for the crop from which the seed is derived; or
 	- **(d)** the seed has been contaminated such that it does not meet the standards for varietal purity established by the Association.
-> SOR/79-367, s. 2; SOR/82-437, s. 2; SOR/86-850, s. 5(F); SOR/88-242, s. 2; SOR/89-368, s. 4(F); SOR/96-252, s. 2; SOR/2003-6, s. 103.
+> SOR/79-367, s. 2; SOR/82-437, s. 2; SOR/86-850, s. 5(F); SOR/88-242, s. 2; SOR/89-368, s. 4(F); SOR/96-252, s. 2; SOR/2003-6, s. 103; SOR/2015-55, s. 11(F).
 
 
 
@@ -469,13 +469,13 @@ Enabling authorities:
 
 - **(1.1)** When making an application under subparagraph (1)(a)(ii), the applicant shall include the applicable fee set out in the Canadian Food Inspection Agency Fees Notice.
 
-- **(2)** The Registrar shall accredit an individual as a grader for a period ending on December 31 of the following year, and issue a certificate certifying that the individual is an accredited grader,
+- **(2)** If the individual has obtained a mark of at least 80% on the evaluation referred to in paragraph (1)(b) and at least 80% on the applicable evaluation referred to in paragraph (1)(c.1), (c.2) or (d), the Registrar shall accredit the individual as a grader for a period ending on December 31 of the following year and issue a certificate certifying that the individual is an accredited grader,
 	- **(a)** on the recommendation of a conformity verification body; or
-	- **(b)** if there is no conformity verification body, on payment of the applicable fee set out in the Canadian Food Inspection Agency Fees Notice and the individual having obtained a mark of at least 80% on the evaluation referred to in paragraph (1)(b) and at least 80% on the applicable evaluation referred to in paragraph (1)(c.1), (c.2) or (d).
+	- **(b)** if there is no conformity verification body, on payment of the applicable fee set out in the Canadian Food Inspection Agency Fees Notice.
 
-- **(2.1)** The Registrar shall issue to an individual a licence to sample seed, for a period ending on December 31 of the following year,
+- **(2.1)** If the individual has obtained a mark of at least 80% on the evaluation referred to in paragraph (1)(b) and at least 80% on the evaluation referred to in paragraph (1)(c), the Registrar shall issue to the individual a licence as a sampler for a period ending on December 31 of the following year,
 	- **(a)** on the recommendation of a conformity verification body; or
-	- **(b)** if there is no conformity verification body, on payment of the applicable fee set out in the Canadian Food Inspection Agency Fees Notice and the individual having obtained a mark of at least 80% on the evaluation referred to in paragraph (1)(b) and at least 80% on the evaluation referred to in paragraph (1)(c).
+	- **(b)** if there is no conformity verification body, on payment of the applicable fee set out in the Canadian Food Inspection Agency Fees Notice.
 
 - **(3)** [Repealed, SOR/2007-223, s. 9]
 
@@ -498,7 +498,7 @@ Enabling authorities:
 - **(12)** If the Registrar finds that the conformity verification body should have recommended that the applicant’s accreditation as a grader or sampler be certified or renewed, the Registrar shall certify the accreditation or renew it, as the case may be, as if the recommendation had been made.
 
 - **(13)** The Registrar shall send a notice of the Registrar’s decision and the reasons for it to the applicant by registered mail.
-> SOR/96-252, s. 2; SOR/97-534, s. 5; SOR/2000-183, s. 39; SOR/2001-93, s. 2; SOR/2003-6, s. 107; SOR/2007-223, s. 9.
+> SOR/96-252, s. 2; SOR/97-534, s. 5; SOR/2000-183, s. 39; SOR/2001-93, s. 2; SOR/2003-6, s. 107; SOR/2007-223, s. 9; SOR/2015-55, s. 12.
 
 
 
@@ -820,7 +820,7 @@ Enabling authorities:
 	- **(b)** the name of the grade of the seed, if applicable.
 
 - **(3)** In addition to the labelling requirements referred to in subsection (2), every package of seed that is a specialty seed shall be labelled with the information required by the appropriate section of these Regulations with respect to that seed.
-> SOR/96-252, s. 2; SOR/2007-223, s. 17.
+> SOR/96-252, s. 2; SOR/2007-223, s. 17; SOR/2015-55, s. 13(F).
 
 
 
@@ -890,7 +890,7 @@ Enabling authorities:
 	- **(a)** the package bears a label that was issued or approved by an official certifying agency and that indicates that the seed is of pedigreed status;
 	- **(b)** in the case of seed labelled with a Canada pedigreed grade name in Canada, the Canada pedigreed grade name appears on a document that accompanies each sale of the seed and that bears the name of the person selling the seed; and
 	- **(c)** in the case of seed imported into Canada labelled with a Canada pedigreed grade name, the Canada pedigreed grade name and the accredited grader number appear on a label attached to or printed directly on each package of seed.
-> SOR/96-252, s. 2; SOR/2000-184, s. 89; SOR/2003-6, s. 109; SOR/2007-223, s. 19; SOR/2012-13, s. 6.
+> SOR/96-252, s. 2; SOR/2000-184, s. 89; SOR/2003-6, s. 109; SOR/2007-223, s. 19; SOR/2012-13, s. 6; SOR/2015-55, s. 14(F).
 
 
 
@@ -2759,7 +2759,7 @@ Inspection for the purpose of certification was made either visually or through 
 **86** 
 
 - **(1)** Every operator of a registered establishment shall keep at the establishment
-	- **(a)** up-to-date copies of the [Seeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-8.md), these Regulations and all directives, guidelines, manuals, circulars and other written material that the Agency delivers to the establishment from time to time; and
+	- **(a)** up-to-date copies of the [Seeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-8.md), these Regulations and all other written material that the Agency delivers to the establishment from time to time; and
 	- **(b)** a list that identifies
 		- **(i)** the measures and documentation required to ensure that the establishment is in compliance with the requirements of these Regulations,
 		- **(ii)** the persons who, where applicable, handle, store, sample, test, process, grade, label and document all seed in the establishment, and
@@ -2770,7 +2770,7 @@ Inspection for the purpose of certification was made either visually or through 
 	- **(b)** equipment for drawing representative samples of seed.
 
 - **(3)** Every bulk storage facility and every authorized importer shall have adequate storage facilities to enable the identification and maintain the identity of different seed lots and to prevent cross-contamination.
-> SOR/96-252, s. 3; SOR/2000-184, s. 88.
+> SOR/96-252, s. 3; SOR/2000-184, s. 88; SOR/2015-55, s. 15.
 
 
 
