@@ -37,7 +37,7 @@
 
 ***competent authority*** means the Attorney General of Canada, the attorney general of a province or any person or authority with responsibility in Canada for the investigation or prosecution of offences;
 
-***data*** means representations, in any form, of information or concepts;
+***data*** means representations, including signs, signals or symbols, that are capable of being understood by an individual or processed by a computer system or other device;
 
 ***foreign state***[Repealed, 1999, c. 18, s. 97]
 
@@ -54,7 +54,7 @@
 
 ***offence*** means an offence within the meaning of the relevant agreement;
 
-***record*** means any material on which data are recorded or marked and which is capable of being read or understood by a person or a computer system or other device;
+***record*** means a medium on which data is registered or marked;
 
 ***request*** means a request for assistance presented pursuant to an agreement;
 
@@ -65,7 +65,7 @@
 ***treaty***[Repealed, 1999, c. 18, s. 97]
 
 - **(2)** [Repealed, 1999, c. 18, s. 97]
-> R.S., 1985, c. 30 (4th Supp.), s. 2; 1992, c. 51, s. 58; 1998, c. 30, s. 14; 1999, c. 3, s. 80, c. 18, s. 97; 2000, c. 24, s. 56; 2002, c. 7, s. 209(E).
+> R.S., 1985, c. 30 (4th Supp.), s. 2; 1992, c. 51, s. 58; 1998, c. 30, s. 14; 1999, c. 3, s. 80, c. 18, s. 97; 2000, c. 24, s. 56; 2002, c. 7, s. 209(E); 2014, c. 31, s. 36.
 
 
 
@@ -438,6 +438,10 @@ On being filed, the order shall be entered as a judgment of that court.
 	- **(b)** evidence of the commission of the offence or information that may reveal the whereabouts of a person who is suspected of having committed the offence will be found in a building, receptacle or place in the province; and
 	- **(c)** it would not, in the circumstances, be appropriate to make an order under subsection 18(1).
 
+**Commissioner of Competition**
+
+- **(1.1)** The judge may, in addition to or instead of a peace officer, authorize the Commissioner of Competition appointed under subsection 7(1) of the [Competition Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-34.md) or his or her authorized representative named in the warrant to execute the search warrant, in which case the Commissioner or his or her representative, as the case may be, has, in relation to the warrant, all of the powers and duties that are set out for a peace officer in this section and sections 13 and 14.
+
 **Conditions**
 
 - **(2)** A judge who issues a search warrant under subsection (1) may subject the execution of the warrant to any conditions that the judge considers desirable, including conditions relating to the time or manner of its execution.
@@ -460,7 +464,7 @@ On being filed, the order shall be entered as a judgment of that court.
 **Affixing a copy**
 
 - **(6)** A peace officer who, in any unoccupied place or premises, executes a search warrant issued under subsection (1) shall, on entering the place or premises or as soon as practicable thereafter, cause a copy of the warrant to be affixed in a prominent place within the place or premises.
-> R.S., 1985, c. 30 (4th Supp.), s. 12; 1999, c. 18, s. 104; 2000, c. 24, s. 60.
+> R.S., 1985, c. 30 (4th Supp.), s. 12; 1999, c. 18, s. 104; 2000, c. 24, s. 60; 2014, c. 31, s. 37.
 
 
 
@@ -472,22 +476,7 @@ On being filed, the order shall be entered as a judgment of that court.
 
 
 
-
-**Other warrants**
-
-**13.1** 
-
-- **(1)** A judge of the province to whom an application is made under subsection 11(2) may, in a manner provided for by the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), issue a warrant, other than a warrant referred to in section 12, to use any device or other investigative technique or do anything described in the warrant that would, if not authorized, constitute an unreasonable search or seizure in respect of a person or a person’s property.
-
-**[Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) applies**
-
-- **(2)** A warrant issued under subsection (1) may be obtained, issued and executed in the manner prescribed by the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), with any modifications that the circumstances may require.
-
-**Exception**
-
-- **(3)** Despite subsection (2), subsections 12(3) and (4) and sections 14 to 16 apply in respect of a warrant issued under subsection (1), and any sections of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) inconsistent with those provisions do not apply.
-> 2000, c. 24, s. 61.
-
+**13.1** [Repealed, 2014, c. 31, s. 38]
 
 
 
@@ -536,7 +525,49 @@ On being filed, the order shall be entered as a judgment of that court.
 
 
 
-### Evidence for Use Abroad
+**Other warrants**
+
+**16.1** 
+
+- **(1)** A judge of the province to whom an application is made under subsection 11(2) may, in the manner provided for by the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), issue a warrant, other than a warrant referred to in section 12, to use any device or investigative technique or do anything described in the warrant that would, if not authorized, constitute an unreasonable search or seizure in respect of a person or a person’s property.
+
+**[Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) applies**
+
+- **(2)** Subject to subsection (3), a warrant issued under subsection (1) may be obtained, issued and executed in the manner provided for by the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), with any necessary modifications.
+
+**Exception — certain warrants**
+
+- **(3)** Subsections 12(3) and (4) and sections 14 to 16 apply in respect of a warrant issued under subsection (1)  —  other than a warrant issued in the manner provided for by section 492.1 or 492.2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md)  —  and prevail over any provisions of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) that are inconsistent with them.
+> 2014, c. 31, s. 39.
+
+
+
+
+
+**Sending abroad —  certain warrants**
+
+**16.2** 
+
+- **(1)** If a judge referred to in subsection 16.1(1) issues a warrant in the manner provided for under section 492.1 or 492.2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the judge must also order
+	- **(a)** that the peace officer who executes the warrant send a record containing the data obtained under the warrant directly to the state or entity that made the request under subsection 11(1); or
+	- **(b)** that sections 20 and 21 apply to the warrant with any necessary modifications.
+
+**Report**
+
+- **(2)** The peace officer who executes the warrant must
+	- **(a)** make a report concerning the execution of the warrant to the judge who issued the warrant or to another judge of the same court, accompanied by a general description of the data obtained under the warrant and, if the judge requires it, a record containing the data; and
+	- **(b)** send a copy of the report to the Minister without delay.
+
+**Timing of report and sending abroad**
+
+- **(3)** If the judge makes an order under paragraph (1)(a), the peace officer must make the report to the judge and send a record containing the data to the state or entity that made the request no later than five days after the day on which all of the data is obtained under the warrant.
+> 2014, c. 31, s. 39.
+
+
+
+
+
+### Production Orders
 
 
 
@@ -693,6 +724,81 @@ On being filed, the order shall be entered as a judgment of that court.
 
 
 
+**Application of [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md)**
+
+**22.01** The [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) applies, with any necessary modifications, in respect of an order made under subsection 22.03(1) in the manner provided for under any of sections 487.015 to 487.018 and 487.0191 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), except to the extent that that Act is inconsistent with this Act.
+> 2014, c. 31, s. 41.
+
+
+
+
+
+**Approval of request to obtain production**
+
+**22.02** 
+
+- **(1)** If the Minister approves a request of a state or entity to obtain an order under this Act made in the manner provided for under any of sections 487.015 to 487.018 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) to require the production of a record containing data, the Minister must provide a competent authority with any documents or information necessary to apply for the order.
+
+**Application for orders**
+
+- **(2)** The competent authority must apply *ex parte* for an order made in the manner provided for under any of sections 487.015 to 487.018 and 487.0191 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) to a justice as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), a judge of a superior court of criminal jurisdiction as defined in that section or a judge of the Court of Quebec.
+> 2014, c. 31, s. 41.
+
+
+
+
+
+**Production and non-disclosure orders**
+
+**22.03** 
+
+- **(1)** The justice or judge to whom the application is made may make an order in the manner provided for under any of sections 487.015 to 487.018 and 487.0191 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) if the conditions set out in that section have been met.
+
+**Condition in order**
+
+- **(2)** An order made in the manner provided for under any of sections 487.015 to 487.018 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) must require that a record containing the data be given to a designated person.
+> 2014, c. 31, s. 41.
+
+
+
+
+
+**Sending abroad**
+
+**22.04** 
+
+- **(1)** If the justice or judge makes an order in the manner provided for under any of sections 487.015 to 487.018 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the justice or judge must also order
+	- **(a)** that the person designated in the order send a record containing the data directly to the state or entity that made the request under subsection 22.02(1); or
+	- **(b)** that sections 20 and 21 apply to the order with any necessary modifications.
+
+**Report**
+
+- **(2)** The person designated in the order must
+	- **(a)** make a report concerning the execution of the order to the justice or judge who made it  —  or to another justice for the same territorial division or another judge in the judicial district where the order was made  —  accompanied by a general description of the data contained in the record obtained under the order and, if the justice or judge requires it, a record containing the data; and
+	- **(b)** send a copy of the report to the Minister without delay.
+
+**Timing of report and sending abroad**
+
+- **(3)** If the justice or judge makes an order under paragraph (1)(a), the person designated in the order must make the report to the justice or judge and send a record containing the data to the state or entity that made the request no later than five days after the day on which such a record is obtained under the order.
+> 2014, c. 31, s. 41.
+
+
+
+
+
+**Offence**
+
+**22.05** Section 487.0198 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) applies to everyone who is subject to an order made under subsection 22.03(1) in the manner provided for under any of sections 487.015 to 487.018 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+> 2014, c. 31, s. 41.
+
+
+
+
+
+### Video Link
+
+
+
 **Approval of request to obtain evidence by video link, etc.**
 
 **22.1** 
@@ -763,6 +869,10 @@ On being filed, the order shall be entered as a judgment of that court.
 
 
 
+### Arrest Warrant
+
+
+
 **Arrest warrant**
 
 **23** 
@@ -786,6 +896,10 @@ On being filed, the order shall be entered as a judgment of that court.
 > R.S., 1985, c. 30 (4th Supp.), s. 23; 1999, c. 18, s. 114.
 
 
+
+
+
+### Examination of Place or Site
 
 
 
@@ -998,8 +1112,8 @@ On being filed, the order shall be entered as a judgment of that court.
 
 **Probative value**
 
-- **(2)** For the purpose of determining the probative value of a record or a copy of a record admitted in evidence under this Act, the trier of fact may examine the record or copy, receive evidence orally or by affidavit, or by a certificate or other statement pertaining to the record in which a person attests that the certificate or statement is made in conformity with the laws that apply to a state or entity, whether or not the certificate or statement is in the form of an affidavit attested to before an official of the state or entity, including evidence as to the circumstances in which the information contained in the record or copy was written, stored or reproduced, and draw any reasonable inference from the form or content of the record or copy.
-> R.S., 1985, c. 30 (4th Supp.), s. 36; 1994, c. 44, s. 96; 1999, c. 18, s. 120.
+- **(2)** For the purpose of determining the probative value of a record or a copy of a record admitted in evidence under this Act, the trier of fact may examine the record or copy, receive evidence orally or by affidavit, or by a certificate or other statement pertaining to the record in which a person attests that the certificate or statement is made in conformity with the laws that apply to a state or entity, whether or not the certificate or statement is in the form of an affidavit attested to before an official of the state or entity, including evidence as to the circumstances in which the data contained in the record or copy was written, stored or reproduced, and draw any reasonable inference from the form or content of the record or copy.
+> R.S., 1985, c. 30 (4th Supp.), s. 36; 1994, c. 44, s. 96; 1999, c. 18, s. 120; 2014, c. 31, s. 44.
 
 
 
@@ -1128,10 +1242,10 @@ On being filed, the order shall be entered as a judgment of that court.
 
 - **(1)** Subject to subsection 38(2), a record sent to the Minister by a state or entity in accordance with a Canadian request is privileged and no person shall disclose to anyone the record or its purport or the contents of the record or any part of it before the record, in compliance with the conditions on which it was so sent, is made public or disclosed in the course or for the purpose of giving evidence.
 
-**Idem**
+**Privilege**
 
-- **(2)** No person in possession of a record mentioned in subsection (1) or of a copy thereof, or who has knowledge of any information contained in the record, shall be required, in connection with any legal proceedings, to produce the record or copy or to give evidence relating to any information that is contained therein.
-> R.S., 1985, c. 30 (4th Supp.), s. 44; 1999, c. 18, s. 127.
+- **(2)** No person in possession of a record mentioned in subsection (1) or of a copy of such a record, or who has knowledge of any data contained in the record, shall be required, in connection with any legal proceedings, to produce the record or copy or to give evidence relating to any data that is contained in it.
+> R.S., 1985, c. 30 (4th Supp.), s. 44; 1999, c. 18, s. 127; 2014, c. 31, s. 45.
 
 
 
