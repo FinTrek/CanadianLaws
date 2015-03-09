@@ -41,9 +41,9 @@
 
 ***demande*** Demande d’assistance présentée en application d’un accord.
 
-***document*** Tout support où sont enregistrées ou sur lequel sont inscrites des données et qui peut être lu ou compris par une personne, un système informatique ou un autre dispositif.
+***document*** Tout support sur lequel sont enregistrées ou inscrites des données.
 
-***données*** Toute forme de représentation d’informations ou de notions.
+***données*** Représentations, notamment signes, signaux ou symboles, qui peuvent être comprises par une personne physique ou traitées par un ordinateur ou un autre dispositif.
 
 ***État étranger***[Abrogée, 1999, ch. 18, art. 97]
 
@@ -65,7 +65,7 @@
 ***traité***[Abrogée, 1999, ch. 18, art. 97]
 
 - **(2)** [Abrogé, 1999, ch. 18, art. 97]
-> L.R. (1985), ch. 30 (4<sup>e</sup> suppl.), art. 2; 1992, ch. 51, art. 58; 1998, ch. 30, art. 14; 1999, ch. 3, art. 80, ch. 18, art. 97; 2000, ch. 24, art. 56; 2002, ch. 7, art. 209(A).
+> L.R. (1985), ch. 30 (4<sup>e</sup> suppl.), art. 2; 1992, ch. 51, art. 58; 1998, ch. 30, art. 14; 1999, ch. 3, art. 80, ch. 18, art. 97; 2000, ch. 24, art. 56; 2002, ch. 7, art. 209(A); 2014, ch. 31, art. 36.
 
 
 
@@ -437,6 +437,10 @@
 	- **b)** que des éléments de preuve de l’infraction ou des renseignements susceptibles de révéler le lieu où se trouve une personne soupçonnée de l’avoir commise seront trouvés dans un bâtiment, contenant ou lieu situé dans la province;
 	- **c)** qu’il ne serait pas opportun, dans les circonstances, de recourir à une ordonnance d’obtention d’éléments de preuve.
 
+**Commissaire de la concurrence**
+
+- **(1.1)** Il peut également, en lieu et place ou en sus de l’agent de la paix, autoriser le commissaire de la concurrence nommé en vertu du paragraphe 7(1) de la [Loi sur la concurrence](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-34.md) ou son représentant autorisé qui est nommé dans le mandat à exécuter celui-ci et, le cas échéant, le commissaire ou son représentant a, eu égard au mandat, les attributions conférées à l’agent de la paix par le présent article et les articles 13 et 14.
+
 **Modalités**
 
 - **(2)** Le juge qui délivre le mandat de perquisition peut l’assortir des modalités qu’il estime indiquées, notamment quant au moment de son exécution ou à tout autre aspect de celle-ci.
@@ -459,7 +463,7 @@
 **Affichage**
 
 - **(6)** L’agent de la paix qui exécute le mandat dans des lieux inoccupés doit, dès qu’il y pénètre ou dans les plus brefs délais possible par la suite, afficher une copie du mandat dans un endroit bien en vue dans le lieu en question.
-> L.R. (1985), ch. 30 (4<sup>e</sup> suppl.), art. 12; 1999, ch. 18, art. 104; 2000, ch. 24, art. 60.
+> L.R. (1985), ch. 30 (4<sup>e</sup> suppl.), art. 12; 1999, ch. 18, art. 104; 2000, ch. 24, art. 60; 2014, ch. 31, art. 37.
 
 
 
@@ -471,22 +475,7 @@
 
 
 
-
-**Autres mandats**
-
-**13.1** 
-
-- **(1)** Un juge d’une province auquel une requête est présentée en application du paragraphe 11(2) peut, de la manière prévue au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), décerner un mandat, autre qu’un mandat visé à l’article 12, autorisant l’utilisation d’un dispositif ou d’une technique ou méthode d’enquête ou tout acte qui y est mentionné, qui, sans cette autorisation, donnerait lieu à une fouille, une perquisition ou une saisie abusive à l’égard d’une personne ou d’un bien.
-
-**Application du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md)**
-
-- **(2)** Un mandat décerné en vertu du paragraphe (1) peut être obtenu, décerné et exécuté de la manière prévue au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), avec les adaptations nécessaires.
-
-**Exception**
-
-- **(3)** Par dérogation au paragraphe (2), les paragraphes 12(3) et (4) et les articles 14 à 16 s’appliquent au mandat décerné en vertu du paragraphe (1), et toute disposition du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) incompatible avec ces dispositions ne s’applique pas.
-> 2000, ch. 24, art. 61.
-
+**13.1** [Abrogé, 2014, ch. 31, art. 38]
 
 
 
@@ -535,7 +524,49 @@
 
 
 
-### Éléments de preuve destinés à l’étranger
+**Autres mandats**
+
+**16.1** 
+
+- **(1)** Tout juge d’une province auquel une requête est présentée en application du paragraphe 11(2) peut, de la manière prévue au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), délivrer un mandat, autre qu’un mandat visé à l’article 12, autorisant l’utilisation d’un dispositif ou d’une technique ou méthode d’enquête ou tout acte qui y est mentionné qui, sans cette autorisation, donnerait lieu à une fouille, perquisition ou saisie abusives à l’égard d’une personne ou d’un bien.
+
+**Application du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md)**
+
+- **(2)** Sous réserve du paragraphe (3), le mandat peut être obtenu, délivré et exécuté de la manière prévue au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), avec les adaptations nécessaires.
+
+**Exception relative à certains mandats**
+
+- **(3)** Les paragraphes 12(3) et (4) et les articles 14 à 16 s’appliquent à tout mandat délivré en vertu du paragraphe (1)  —  autre que celui délivré de la manière prévue aux articles 492.1 ou 492.2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md)  —, et l’emportent sur toute disposition incompatible du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+> 2014, ch. 31, art. 39.
+
+
+
+
+
+**Transmission à l’étranger relative à certains mandats**
+
+**16.2** 
+
+- **(1)** Un juge visé au paragraphe 16.1(1) qui délivre un mandat de la manière prévue aux articles 492.1 ou 492.2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ordonne aussi, selon le cas :
+	- **a)** que l’agent de la paix qui exécute le mandat transmette directement à l’État ou à l’entité requérant visé au paragraphe 11(1) un document comportant les données obtenues;
+	- **b)** que les articles 20 et 21 s’appliquent au mandat, avec les adaptations nécessaires.
+
+**Rapport**
+
+- **(2)** L’agent de la paix qui exécute le mandat :
+	- **a)** remet au juge ou à un autre juge du même tribunal un rapport d’exécution comportant une description générale des données obtenues en vertu du mandat et, si le juge l’exige, un document comportant les données;
+	- **b)** envoie sans délai une copie du rapport au ministre.
+
+**Délai : rapport et transmission à l’étranger**
+
+- **(3)** Dans le cas d’une ordonnance rendue en vertu de l’alinéa (1)a), l’agent de la paix est tenu de remettre le rapport au juge et de transmettre le document comportant les données à l’État ou à l’entité requérant au plus tard cinq jours après la date à laquelle elles ont toutes été obtenues en vertu du mandat.
+> 2014, ch. 31, art. 39.
+
+
+
+
+
+### Ordonnances de communication
 
 
 
@@ -688,6 +719,81 @@
 
 
 
+**Application du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md)**
+
+**22.01** Le [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) s’applique, avec les adaptations nécessaires, aux ordonnances rendues en vertu du paragraphe 22.03(1) de la manière prévue à l’un des articles 487.015 à 487.018 et 487.0191 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), sauf incompatibilité avec la présente loi.
+> 2014, ch. 31, art. 41.
+
+
+
+
+
+**Autorisation**
+
+**22.02** 
+
+- **(1)** Le ministre, s’il autorise la demande présentée par un État ou une entité en vue d’obtenir une ordonnance rendue sous le régime de la présente loi de la manière prévue à l’un des articles 487.015 à 487.018 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) pour exiger la communication d’un document comportant les données, fournit à l’autorité compétente les documents ou les renseignements nécessaires pour lui permettre de présenter une requête à cet effet.
+
+**Requête**
+
+- **(2)** L’autorité compétente présente une requête *ex parte*, en vue de l’obtention de l’ordonnance rendue de la manière prévue à l’un des articles 487.015 à 487.018 et 487.0191 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), à un juge de paix au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), à un juge de la cour supérieure de juridiction criminelle au sens de cet article ou à un juge de la Cour du Québec.
+> 2014, ch. 31, art. 41.
+
+
+
+
+
+**Ordonnance de communication et de non-divulgation**
+
+**22.03** 
+
+- **(1)** Le juge de paix ou le juge saisi de la requête peut rendre l’ordonnance de la manière prévue à l’un des articles 487.015 à 487.018 et 487.0191 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) si les conditions énoncées dans l’article visé sont réunies.
+
+**Précision**
+
+- **(2)** L’ordonnance rendue de la manière prévue à l’un des articles 487.015 à 487.018 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) exige que soit présenté à une personne désignée le document comportant les données.
+> 2014, ch. 31, art. 41.
+
+
+
+
+
+**Transmission à l’étranger**
+
+**22.04** 
+
+- **(1)** Le juge de paix ou le juge qui rend une ordonnance de la manière prévue à l’un des articles 487.015 à 487.018 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ordonne aussi, selon le cas :
+	- **a)** que la personne désignée dans l’ordonnance transmette directement à l’État ou à l’entité requérant visé au paragraphe 22.02(1) un document comportant les données obtenues;
+	- **b)** que les articles 20 et 21 s’appliquent à l’ordonnance, avec les adaptations nécessaires.
+
+**Rapport**
+
+- **(2)** La personne désignée dans l’ordonnance :
+	- **a)** remet au juge de paix ou au juge  —  ou à un autre juge de paix de la même circonscription territoriale ou à un autre juge du district judiciaire où l’ordonnance a été rendue  —  un rapport d’exécution comportant une description générale des données contenues dans le document obtenu en vertu de l’ordonnance et, si le juge de paix ou le juge l’exige, un document comportant les données;
+	- **b)** envoie sans délai une copie du rapport au ministre.
+
+**Délai : rapport et transmission à l’étranger**
+
+- **(3)** Dans le cas d’une ordonnance rendue en vertu de l’alinéa (1)a), la personne désignée dans l’ordonnance est tenue de remettre le rapport au juge de paix ou au juge et de transmettre un document comportant les données à l’État ou à l’entité requérant au plus tard cinq jours après la date à laquelle il a été obtenu en vertu de l’ordonnance.
+> 2014, ch. 31, art. 41.
+
+
+
+
+
+**Infraction**
+
+**22.05** L’article 487.0198 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) s’applique aux ordonnances rendues en vertu du paragraphe 22.03(1) de la manière prévue à l’un des articles 487.015 à 487.018 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+> 2014, ch. 31, art. 41.
+
+
+
+
+
+### Témoin virtuel
+
+
+
 **Témoin virtuel**
 
 **22.1** 
@@ -758,6 +864,10 @@
 
 
 
+### Mandat d’arrestation
+
+
+
 **Mandat d’arrestation**
 
 **23** 
@@ -778,6 +888,10 @@
 > L.R. (1985), ch. 30 (4<sup>e</sup> suppl.), art. 23; 1999, ch. 18, art. 114.
 
 
+
+
+
+### Examen d’un lieu ou d’un emplacement
 
 
 
@@ -990,8 +1104,8 @@
 
 **Force probante**
 
-- **(2)** Le juge des faits peut, afin de décider de la force probante d’un document — ou de sa copie — admis en preuve en vertu de la présente loi, procéder à son examen ou recevoir une déposition verbale, un affidavit ou un certificat ou autre déclaration portant sur le document, fait, selon le signataire, conformément aux lois de l’État ou entité, qu’il soit fait en la forme d’un affidavit rempli devant un agent de l’État ou entité ou non, y compris une déposition quant aux circonstances de la rédaction, de l’enregistrement, de la mise en mémoire ou de la reproduction des renseignements contenus dans le document ou la copie, et tirer de sa forme ou de son contenu toute conclusion fondée.
-> L.R. (1985), ch. 30 (4<sup>e</sup> suppl.), art. 36; 1994, ch. 44, art. 96; 1999, ch. 18, art. 120.
+- **(2)** Le juge des faits peut, afin de décider de la force probante d’un document  —  ou de sa copie  —  admis en preuve en vertu de la présente loi, procéder à son examen ou recevoir une déposition verbale, un affidavit ou un certificat ou autre déclaration portant sur le document, fait, selon le signataire, conformément aux lois de l’État ou entité, qu’il soit fait en la forme d’un affidavit rempli devant un agent de l’État ou entité ou non, y compris une déposition quant aux circonstances de la rédaction, de l’enregistrement, de la mise en mémoire ou de la reproduction des données contenues dans le document ou la copie, et tirer de sa forme ou de son contenu toute conclusion fondée.
+> L.R. (1985), ch. 30 (4<sup>e</sup> suppl.), art. 36; 1994, ch. 44, art. 96; 1999, ch. 18, art. 120; 2014, ch. 31, art. 44.
 
 
 
@@ -1118,12 +1232,12 @@
 
 **44** 
 
-- **(1)** Sous réserve du paragraphe 38(2), les documents transmis au ministre par un État ou entité en conformité avec une demande canadienne sont protégés. Jusqu’à ce qu’ils aient été, en conformité avec les conditions attachées à leur transmission au ministre, rendus publics ou révélés au cours ou aux fins d’une déposition devant un tribunal, il est interdit de communiquer à quiconque ces documents, leur teneur ou des renseignements qu’ils contiennent.
+- **(1)** Sous réserve du paragraphe 38(2), les documents transmis au ministre par un État ou entité en conformité avec une demande canadienne sont protégés. Jusqu’à ce qu’ils aient été, en conformité avec les conditions attachées à leur transmission au ministre, rendus publics ou révélés au cours ou aux fins d’une déposition devant un tribunal, il est interdit de communiquer à quiconque ces documents, leur teneur ou des données qu’ils contiennent.
 
 **Idem**
 
 - **(2)** Les personnes en possession de l’original ou de la copie d’un document étranger visé au paragraphe (1), ou qui ont connaissance de son contenu, ne peuvent être tenues, dans des procédures judiciaires, de déposer l’original ou la copie ou de rendre témoignage sur son contenu.
-> L.R. (1985), ch. 30 (4<sup>e</sup> suppl.), art. 44; 1999, ch. 18, art. 127.
+> L.R. (1985), ch. 30 (4<sup>e</sup> suppl.), art. 44; 1999, ch. 18, art. 127; 2014, ch. 31, art. 45.
 
 
 
