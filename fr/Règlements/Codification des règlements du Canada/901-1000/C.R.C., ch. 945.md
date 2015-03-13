@@ -5041,9 +5041,9 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 - **a)** est une production à l’égard de laquelle l’un des faits suivants se vérifie :
 	- **(i)** la société donnée n’a pas présenté de demande de certificat d’achèvement la concernant avant la date limite de demande relative à la production,
 	- **(ii)** aucun certificat d’achèvement la concernant n’a été délivré avant la date limite d’attestation de la production,
-	- **(iii)** dans le cas où elle n’est pas une coproduction prévue par un accord, ni la société donnée ni une autre société canadienne imposable visée qui lui est liée :
-		- **(A)** d’une part, n’est titulaire exclusif du droit d’auteur mondial sur la production en vue de son exploitation commerciale pour la période de 25 ans qui commence dès que la production est exploitable commercialement après son achèvement, sauf jusqu’à concurrence d’une participation dans la production que détient une société canadienne imposable visée à titre de coproducteur ou une personne visée,
-		- **(B)** d’autre part, ne contrôle le processus de concession de la licence d’exploitation commerciale initiale,
+	- **(iii)** dans le cas où elle n’est pas une coproduction prévue par un accord, une personne (sauf la société donnée ou une personne visée) :
+		- **(A)** ou bien est titulaire du droit d’auteur sur la production en vue de son exploitation commerciale à tout moment de la période de vingt-cinq ans qui commence dès que la production est exploitable commercialement après son achèvement,
+		- **(B)** ou bien contrôle le processus de concession de la licence d’exploitation commerciale initiale,
 	- **(iv)** aucune convention écrite, faisant état d’une contrepartie à la juste valeur marchande, n’a été conclue à son égard avec l’une des personnes suivantes pour qu’elle soit diffusée au Canada au cours de la période de deux ans qui commence dès qu’elle est exploitable commercialement après son achèvement :
 		- **(A)** une société, ayant la qualité de Canadien, qui est distributrice de productions cinématographiques ou magnétoscopiques,
 		- **(B)** une société titulaire d’une licence de radiodiffusion délivrée par le Conseil de la radiodiffusion et des télécommunications canadiennes pour les marchés de la télévision,
@@ -5062,6 +5062,10 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 	- **(xi)** une production, sauf un documentaire, qui consiste en totalité ou en presque totalité en métrage d’archives.
 
 ***rémunération*** Sont exclues de la rémunération les sommes déterminées en fonction des bénéfices ou des recettes.
+
+***titulaire du droit d’auteur*** Est titulaire du droit d’auteur sur une production cinématographique ou magnétoscopique à un moment donné :
+- **a)** le producteur, au sens de l’article 2 de la [Loi sur le droit d’auteur](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-42.md), qui, à ce moment, est titulaire du droit d’auteur, au sens de l’article 3 de cette loi, relativement à la production;
+- **b)** toute personne à laquelle ce droit d’auteur a été cédé en totalité ou en partie, dans le cadre d’une cession visée à l’article 13 de la [Loi sur le droit d’auteur](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-42.md), par le producteur ou par un autre titulaire auquel le présent alinéa s’appliquait avant la cession.
 
 #### Société canadienne imposable visée
 
@@ -5146,17 +5150,27 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 	- **b)** la société titulaire d’une licence d’entreprise de radiodiffusion qui finance des productions en raison de son engagement en matière d’« avantages importants » envers le Conseil de la radiodiffusion et des télécommunications canadiennes;
 	- **c)** la personne à laquelle s’applique l’alinéa 149(1)l) de la Loi, si elle a un fonds qui sert à financer des productions cinématographiques ou magnétoscopiques canadiennes;
 	- **d)** toute agence cinématographique d’État;
-	- **e)** en ce qui a trait à une production cinématographique ou magnétoscopique, la personne non-résidente qui n’exploite pas d’entreprise au Canada par l’intermédiaire d’un établissement stable au Canada, si elle acquiert une participation dans la production pour se conformer aux conditions d’attestation d’une convention de jumelage portant sur une coproduction prévue par un accord;
+	- **e)** en ce qui a trait à une production cinématographique ou magnétoscopique, la personne non-résidente qui n’exploite pas d’entreprise au Canada par l’intermédiaire d’un établissement stable au Canada, si elle acquiert un intérêt ou, pour l’application du droit civil, un droit sur la production pour se conformer aux conditions d’attestation d’une convention de jumelage portant sur une coproduction prévue par un accord;
 	- **f)** la personne qui répond aux conditions suivantes :
 		- **(i)** elle est visée à l’alinéa 149(1)f) de la Loi,
-		- **(ii)** elle a un fonds qui sert à financer des productions cinématographiques ou magnétoscopiques canadiennes qui sont financées en totalité ou en presque totalité au moyen de participations directes dans les productions,
-		- **(iii)** les seuls dons qu’elle a reçus après 1996 proviennent de personnes visées aux alinéas a) à e).
+		- **(ii)** elle a un fonds qui sert à financer des productions cinématographiques ou magnétoscopiques canadiennes qui sont financées en totalité ou en presque totalité au moyen d’intérêts directs ou, pour l’application du droit civil, de droits directs sur les productions,
+		- **(iii)** les seuls dons qu’elle a reçus après 1996 proviennent de personnes visées à l’un des alinéas a) à e);
+	- **g)** toute société canadienne imposable visée;
+	- **h)** tout particulier ayant la qualité de Canadien;
+	- **i)** toute société de personnes dont chacun des associés est visé à l’un des alinéas a) à h).
 
 #### Montant prévu
 
 
-- **(11)** Pour l’application de la définition de ***montant d’aide*** au paragraphe 125.4(1) de la Loi, est un montant prévu la somme payée ou payable à un contribuable dans le cadre du Programme de droits de diffusion du Fonds des médias du Canada.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2005-126, art. 3; DORS/2010-96, art. 2; 2013, ch. 34, art. 385.
+- **(11)** Pour l’application de la définition de ***montant d’aide*** au paragraphe 125.4(1) de la Loi, est un montant prévu la somme payée ou à payer à un contribuable dans le cadre du Programme de droits de diffusion du Fonds canadien de télévision ou à titre de supplément de droits de diffusion du Fonds des médias du Canada.
+
+#### Titulaire du droit d’auteur
+
+
+- **(12)** Pour l’application de la définition de ***titulaire du droit d’auteur*** au paragraphe (1) :
+	- **a)** le droit d’une personne de recevoir une partie des revenus provenant d’une production cinématographique ou magnétoscopique ou une partie du produit de disposition d’un intérêt ou, pour l’application du droit civil, d’un droit sur une telle production ne constitue pas en soi un intérêt ou un droit à titre de titulaire du droit d’auteur sur la production;
+	- **b)** il est entendu que la concession d’une licence exclusive, au sens de la [Loi sur le droit d’auteur](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-42.md), ne constitue pas une cession du droit d’auteur.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2005-126, art. 3; DORS/2010-96, art. 2; 2013, ch. 34, art. 385; DORS/2015-61, art. 1.
 
 
 
