@@ -5047,12 +5047,16 @@ applicable in respect of the property.
 
 ***certificate of completion***, in respect of a film or video production of a corporation, means a certificate certifying that the production has been completed, issued by the Minister of Canadian Heritage before the day (in this Division referred to as “the production’s certification deadline”) that is six months after the production’s application deadline.
 
+***copyright owner***, of a film or video production, at any time means 
+- **(a)** the maker, as defined in section 2 of the [Copyright Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-42.md), who at that time owns copyright, in relation to the production, within the meaning of section 3 of that Act; or
+- **(b)** a person to whom that copyright has been assigned, under an assignment described in section 13 of the [Copyright Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-42.md), either wholly or partially, by the maker or by another owner to whom this paragraph applied before the assignment.
+
 ***excluded production*** means a film or video production, of a particular corporation that is a prescribed taxable Canadian corporation,
 - **(a)** in respect of which
 	- **(i)** the particular corporation has not filed an application for a certificate of completion before the production’s application deadline,
 	- **(ii)** a certificate of completion has not been issued before the production’s certification deadline,
-	- **(iii)** where the production is not a treaty co-production, neither the particular corporation nor another prescribed taxable Canadian corporation related to the particular corporation
-		- **(A)** is, except to the extent of an interest in the production held by a prescribed taxable Canadian corporation as a co-producer of the production or by a prescribed person, the exclusive worldwide copyright owner in the production for all commercial exploitation purposes for the 25-year period that begins at the earliest time after the production was completed that it is commercially exploitable, and
+	- **(iii)** if the production is not a treaty co-production, a person (other than the particular corporation or a prescribed person)
+		- **(A)** is a copyright owner of the production for any commercial exploitation purposes at any time during the 25-year period that begins at the earliest time after the production was completed that it is commercially exploitable, or
 		- **(B)** controls the initial licensing of commercial exploitation,
 	- **(iv)** there is not an agreement in writing, for consideration at fair market value, to have the production shown in Canada within the 2-year period that begins at the earliest time after the production was completed that it is commercially exploitable,
 		- **(A)** with a corporation that is a Canadian and is a distributor of film or video productions, or
@@ -5163,17 +5167,27 @@ applicable in respect of the property.
 	- **(b)** a corporation that holds a broadcast undertaking licence and that provides production funding as a result of a “significant benefits” commitment given to the Canadian Radio-television and Telecommunications Commission;
 	- **(c)** a person to which paragraph 149(1)(l) of the Act applies and that has a fund that is used to finance Canadian film or video productions;
 	- **(d)** a Canadian government film agency;
-	- **(e)** in respect of a film or video production, a non-resident person that does not carry on a business in Canada through a permanent establishment in Canada where the person’s interest in the production is acquired to comply with the certification requirements of a treaty co-production twinning arrangement; and
+	- **(e)** in respect of a film or video production, a non-resident person that does not carry on a business in Canada through a permanent establishment in Canada and whose interest (or, for civil law, right) in the production is acquired to comply with the certification requirements of a treaty co-production twinning arrangement;
 	- **(f)** a person
 		- **(i)** to which paragraph 149(1)(f) of the Act applies,
-		- **(ii)** that has a fund that is used to finance Canadian film or video productions, all or substantially all of which financing is provided by way of a direct ownership interest in those productions, and
-		- **(iii)** that, after 1996, has received donations only from persons described in paragraphs (a) to (e).
+		- **(ii)** that has a fund that is used to finance Canadian film or video productions, all or substantially all of which financing is provided by way of a direct ownership interest (or, for civil law, right) in those productions, and
+		- **(iii)** that, after 1996, has received donations only from persons described in any of paragraphs (a) to (e);
+	- **(g)** a prescribed taxable Canadian corporation;
+	- **(h)** an individual who is a Canadian; and
+	- **(i)** a partnership, each member of which is described in any of paragraphs (a) to (h).
 
 #### Prescribed Amount
 
 
-- **(11)** For the purpose of the definition ***assistance*** in subsection 125.4(1) of the Act, ***prescribed amount*** means an amount paid or payable to a taxpayer under the License Fee Program of the Canada Media Fund.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2005-126, s. 3; SOR/2010-96, s. 2; 2013, c. 34, s. 385.
+- **(11)** For the purpose of the definition ***assistance*** in subsection 125.4(1) of the Act, ***prescribed amount*** means an amount paid or payable to a taxpayer under the License Fee Program of the Canadian Television Fund or as a licence-fee top-up contribution from the Canada Media Fund.
+
+#### Copyright Owner
+
+
+- **(12)** For the purpose of the definition ***copyright owner*** in subsection (1),
+	- **(a)** the right of a person to share in the revenues from or proceeds of disposition of an interest or, for civil law, a right, in a film or video production is not, in and by itself, an interest or right as a copyright owner of the production; and
+	- **(b)** for greater certainty, a grant of an exclusive licence, within the meaning assigned by the [Copyright Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-42.md), is not an assignment of a copyright.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2005-126, s. 3; SOR/2010-96, s. 2; 2013, c. 34, s. 385; SOR/2015-61, s. 1.
 
 
 
