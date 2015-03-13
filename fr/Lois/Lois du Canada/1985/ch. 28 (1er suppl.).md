@@ -496,40 +496,40 @@
 
 **Prolongation**
 
-- **(2)** Sous réserve du paragraphe (3), si, avant l’expiration du délai de quarante-cinq jours visé au paragraphe (1), l’avis prévu au paragraphe 25.2(1) est envoyé relativement à l’investissement, le délai pendant lequel le ministre peut envoyer l’avis prévu au paragraphe (1) est réputé expirer cinq jours après l’expiration du délai réglementaire visé au paragraphe 25.3(1).
+- **(2)** Sous réserve du paragraphe (3), si, avant l’expiration du délai de quarante-cinq jours visé au paragraphe (1), l’avis prévu au paragraphe 25.2(1) est envoyé relativement à l’investissement, le délai pendant lequel le ministre peut envoyer l’avis prévu au paragraphe (1) expire trente jours après l’expiration du délai réglementaire visé au paragraphe 25.3(1) ou à l’expiration de tout délai supplémentaire sur lequel celui-ci et le demandeur s’entendent.
 
 **Prolongation**
 
-- **(3)** Sous réserve des paragraphes (4) et (5), si, avant l’expiration du délai de quarante-cinq jours visé au paragraphe (1), l’avis prévu au paragraphe 25.2(1) est envoyé relativement à l’investissement et si le décret visé au paragraphe 25.3(1) est pris relativement à celui-ci, le délai pendant lequel le ministre peut envoyer l’avis prévu au paragraphe (1) est réputé expirer cinq jours après l’expiration du délai réglementaire ou du délai supplémentaire visés au paragraphe 25.3(6).
+- **(3)** Sous réserve des paragraphes (4) et (5), si, avant l’expiration du délai de quarante-cinq jours visé au paragraphe (1), l’avis prévu au paragraphe 25.2(1) est envoyé relativement à l’investissement et si le décret visé au paragraphe 25.3(1) est pris relativement à celui-ci, le délai pendant lequel le ministre peut envoyer l’avis prévu au paragraphe (1) expire trente jours après l’expiration du délai réglementaire ou du délai supplémentaire visés aux paragraphes 25.3(6) ou (7), selon le cas, ou à l’expiration de tout délai supplémentaire sur lequel celui-ci et le demandeur s’entendent.
 
 **Prolongation**
 
-- **(4)** Si, avant l’expiration du délai de quarante-cinq jours visé au paragraphe (1), l’avis prévu au paragraphe 25.2(1) est envoyé relativement à l’investissement et si, relativement à celui-ci, le décret visé au paragraphe 25.3(1) est pris et l’avis prévu à l’alinéa 25.3(6)b) est envoyé, le délai pendant lequel le ministre peut envoyer l’avis prévu au paragraphe (1) est réputé expirer cinq jours après la date d’envoi de l’avis prévu à l’alinéa 25.3(6)b).
+- **(4)** Si, avant l’expiration du délai de quarante-cinq jours visé au paragraphe (1), l’avis prévu au paragraphe 25.2(1) est envoyé relativement à l’investissement et si, relativement à celui-ci, le décret visé au paragraphe 25.3(1) est pris et l’avis prévu à l’alinéa 25.3(6)b) est envoyé, le délai pendant lequel le ministre peut envoyer l’avis prévu au paragraphe (1) expire trente jours après la date d’envoi de l’avis prévu à cet alinéa ou à l’expiration de tout délai supplémentaire sur lequel celui-ci et le demandeur s’entendent.
 
 **Prolongation**
 
-- **(5)** Si, avant l’expiration du délai de quarante-cinq jours visé au paragraphe (1), l’avis prévu au paragraphe 25.2(1) est envoyé relativement à l’investissement et si le décret visé au paragraphe 25.3(1) est pris relativement à celui-ci et que le ministre renvoie la question au gouverneur en conseil en application de l’alinéa 25.3(6)a), le délai pendant lequel le ministre peut envoyer l’avis prévu au paragraphe (1) est réputé expirer cinq jours après celle des dates ci-après qui est antérieure à l’autre :
+- **(5)** Si, avant l’expiration du délai de quarante-cinq jours visé au paragraphe (1), l’avis prévu au paragraphe 25.2(1) est envoyé relativement à l’investissement et si le décret visé au paragraphe 25.3(1) est pris relativement à celui-ci et que le ministre renvoie la question au gouverneur en conseil en application de l’alinéa 25.3(6)a) ou du paragraphe 25.3(7), le délai pendant lequel le ministre peut envoyer l’avis prévu au paragraphe (1) expire trente jours après celle des dates ci-après qui est antérieure à l’autre ou à l’expiration de tout délai supplémentaire sur lequel celui-ci et le demandeur s’entendent :
 	- **a)** la date où le gouverneur en conseil prend une mesure relative à l’investissement en vertu du paragraphe 25.4(1);
 	- **b)** la date où expire le délai réglementaire visé à ce paragraphe.
 
 **Prolongation**
 
-- **(6)** Sous réserve des paragraphes (7) et (8), si, avant l’expiration du délai de quarante-cinq jours visé au paragraphe (1), le décret visé au paragraphe 25.3(1) est pris relativement à l’investissement, le délai pendant lequel le ministre peut envoyer l’avis prévu au paragraphe (1) est réputé expirer cinq jours après l’expiration du délai réglementaire ou du délai supplémentaire visés au paragraphe 25.3(6).
+- **(6)** Sous réserve des paragraphes (7) et (8), si, avant l’expiration du délai de quarante-cinq jours visé au paragraphe (1), le décret visé au paragraphe 25.3(1) est pris relativement à l’investissement, le délai pendant lequel le ministre peut envoyer l’avis prévu au paragraphe (1) expire trente jours après l’expiration du délai réglementaire ou du délai supplémentaire visés aux paragraphes 25.3(6) ou (7), selon le cas, ou à l’expiration de tout délai supplémentaire sur lequel celui-ci et le demandeur s’entendent.
 
 **Prolongation**
 
-- **(7)** Si, avant l’expiration du délai de quarante-cinq jours visé au paragraphe (1), le décret visé au paragraphe 25.3(1) est pris relativement à l’investissement et si l’avis prévu à l’alinéa 25.3(6)b) est envoyé relativement à celui-ci, le délai pendant lequel le ministre peut envoyer l’avis prévu au paragraphe (1) est réputé expirer cinq jours après la date d’envoi de l’avis prévu à l’alinéa 25.3(6)b).
+- **(7)** Si, avant l’expiration du délai de quarante-cinq jours visé au paragraphe (1), le décret visé au paragraphe 25.3(1) est pris relativement à l’investissement et si l’avis prévu à l’alinéa 25.3(6)b) est envoyé relativement à celui-ci, le délai pendant lequel le ministre peut envoyer l’avis prévu au paragraphe (1) expire trente jours après la date d’envoi de l’avis prévu à cet alinéa ou à l’expiration de tout délai supplémentaire sur lequel celui-ci et le demandeur s’entendent.
 
 **Prolongation**
 
-- **(8)** Si, avant l’expiration du délai de quarante-cinq jours visé au paragraphe (1), le décret visé au paragraphe 25.3(1) est pris relativement à l’investissement et si le ministre renvoie la question au gouverneur en conseil en application de l’alinéa 25.3(6)a), le délai pendant lequel le ministre peut envoyer l’avis prévu au paragraphe (1) est réputé expirer cinq jours après celle des dates ci-après qui est antérieure à l’autre :
+- **(8)** Si, avant l’expiration du délai de quarante-cinq jours visé au paragraphe (1), le décret visé au paragraphe 25.3(1) est pris relativement à l’investissement et si le ministre renvoie la question au gouverneur en conseil en application de l’alinéa 25.3(6)a) ou du paragraphe 25.3(7), le délai pendant lequel le ministre peut envoyer l’avis prévu au paragraphe (1) expire trente jours après celle des dates ci-après qui est antérieure à l’autre ou à l’expiration de tout délai supplémentaire sur lequel celui-ci et le demandeur s’entendent :
 	- **a)** la date où le gouverneur en conseil prend une mesure relative à l’investissement en vertu du paragraphe 25.4(1);
 	- **b)** la date où expire le délai réglementaire visé à ce paragraphe.
 
 **Présomption**
 
-- **(9)** Sous réserve des articles 22 et 23, s’il n’envoie pas l’avis dans le délai de quarante-cinq jours visé au paragraphe (1) ou si l’un des paragraphes (2) à (8) s’applique, le ministre est réputé, dans le délai de cinq jours qui est prévu à ce paragraphe, être d’avis que l’investissement sera vraisemblablement à l’avantage net du Canada; il envoie au demandeur un avis à cet effet.
-> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 21; 1995, ch. 1, art. 50; 2009, ch. 2, art. 452.
+- **(9)** Sous réserve des articles 22 et 23, s’il n’envoie pas l’avis dans le délai de quarante-cinq jours visé au paragraphe (1) ou si l’un des paragraphes (2) à (8) s’applique, dans le délai de trente jours ou le délai supplémentaire prévus à ce paragraphe, le ministre est réputé être d’avis que l’investissement sera vraisemblablement à l’avantage net du Canada; il envoie au demandeur un avis à cet effet.
+> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 21; 1995, ch. 1, art. 50; 2009, ch. 2, art. 452; 2013, ch. 33, art. 138; 2014, ch. 39, art. 188.
 
 
 
@@ -551,8 +551,8 @@
 
 **Présomption**
 
-- **(4)** Sous réserve de l’article 23, s’il n’envoie pas l’avis prévu au paragraphe (2) dans le délai visé à ce paragraphe ou, si le paragraphe (3) s’applique, dans le délai de cinq jours prévu à celui des paragraphes 21(2) à (8) qui s’applique au présent article par application du paragraphe (3), le ministre est réputé être d’avis que l’investissement sera vraisemblablement à l’avantage net du Canada; il envoie au demandeur un avis à cet effet.
-> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 22; 2009, ch. 2, art. 452.
+- **(4)** Sous réserve de l’article 23, s’il n’envoie pas l’avis prévu au paragraphe (2) dans le délai visé à ce paragraphe ou, si le paragraphe (3) s’applique, dans le délai de trente jours ou le délai supplémentaire prévus à celui des paragraphes 21(2) à (8) qui s’applique au présent article par application du paragraphe (3), le ministre est réputé être d’avis que l’investissement sera vraisemblablement à l’avantage net du Canada; il envoie au demandeur un avis à cet effet.
+> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 22; 2009, ch. 2, art. 452; 2013, ch. 33, art. 139.
 
 
 
@@ -683,10 +683,10 @@
 
 **Obligation du ministre**
 
-- **(4)** Le ministre fait parvenir à l’investisseur non canadien, dans le délai réglementaire :
-	- **a)** soit un avis l’informant qu’aucun décret d’examen ne sera pris en application du paragraphe 25.3(1);
+- **(4)** Le ministre fait parvenir à l’investisseur non canadien :
+	- **a)** soit, dans le délai réglementaire, un avis l’informant qu’aucun décret d’examen ne sera pris en application du paragraphe 25.3(1);
 	- **b)** soit l’avis prévu au paragraphe 25.3(2) l’informant de la prise du décret ordonnant l’examen de l’investissement.
-> 2009, ch. 2, art. 453.
+> 2009, ch. 2, art. 453; 2013, ch. 33, art. 140.
 
 
 
@@ -718,12 +718,16 @@
 
 **Obligation du ministre**
 
-- **(6)** Après consultation du ministre de la Sécurité publique et de la Protection civile, le ministre est tenu, dans le délai réglementaire ou tout délai supplémentaire sur lequel lui-même et l’investisseur non canadien s’entendent :
+- **(6)** Après consultation du ministre de la Sécurité publique et de la Protection civile, le ministre est tenu, dans le délai réglementaire :
 	- **a)** de renvoyer la question au gouverneur en conseil et de lui présenter ses conclusions et recommandations, si, selon le cas :
 		- **(i)** il est convaincu que l’investissement porterait atteinte à la sécurité nationale,
 		- **(ii)** il n’est pas en mesure d’établir, sur le fondement des renseignements disponibles, si l’investissement porterait atteinte à la sécurité nationale;
 	- **b)** de faire parvenir à l’investisseur non canadien un avis l’informant qu’aucune mesure supplémentaire ne sera prise à l’égard de l’investissement, s’il est convaincu que celui-ci ne porterait pas atteinte à la sécurité nationale.
-> 2009, ch. 2, art. 453.
+
+**Prolongation**
+
+- **(7)** S’il ne peut terminer l’examen de l’investissement dans le délai visé au paragraphe (6), le ministre, dans ce même délai, fait parvenir un avis à cet effet à l’investisseur non canadien; le ministre a alors jusqu’à la fin d’un nouveau délai réglementaire, ou de tout délai supplémentaire sur lequel lui-même et l’investisseur non canadien s’entendent, pour prendre les mesures visées aux alinéas (6)a) ou b).
+> 2009, ch. 2, art. 453; 2013, ch. 33, art. 141.
 
 
 
@@ -733,7 +737,7 @@
 
 **25.4** 
 
-- **(1)** S’il est saisi de la question en application de l’alinéa 25.3(6)a), le gouverneur en conseil peut, dans le délai réglementaire, prendre par décret toute mesure relative à l’investissement qu’il estime indiquée pour préserver la sécurité nationale, notamment :
+- **(1)** S’il est saisi de la question en application de l’alinéa 25.3(6)a) ou du paragraphe 25.3(7), le gouverneur en conseil peut, dans le délai réglementaire, prendre par décret toute mesure relative à l’investissement qu’il estime indiquée pour préserver la sécurité nationale, notamment :
 	- **a)** ordonner à l’investisseur non canadien de ne pas effectuer l’investissement;
 	- **b)** autoriser l’investisseur non canadien à effectuer l’investissement à la condition :
 		- **(i)** d’une part, de prendre envers Sa Majesté du chef du Canada les engagements écrits à l’égard de l’investissement qu’il estime nécessaires dans les circonstances,
@@ -751,7 +755,7 @@
 **Non-application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
 - **(4)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas au décret.
-> 2009, ch. 2, art. 453.
+> 2009, ch. 2, art. 453; 2013, ch. 33, art. 142.
 
 
 
