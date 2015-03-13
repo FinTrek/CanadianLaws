@@ -517,40 +517,48 @@ where
 
 **Extension**
 
-- **(2)** Subject to subsection (3), if, before the expiry of the 45-day period referred to in subsection (1), a notice is sent under subsection 25.2(1) in respect of the investment, the period during which the Minister may send the notice referred to in subsection (1) is deemed to expire five days after the expiry of the prescribed period referred to in subsection 25.3(1).
+- **(2)** Subject to subsection (3), if, before the end of the 45-day period referred to in subsection (1), a notice is sent under subsection 25.2(1) in respect of the investment, the period during which the Minister may send the notice referred to in subsection (1) expires 30 days after the end of the prescribed period referred to in subsection 25.3(1) or at the end of any further period that the Minister and the applicant agree on.
 
 **Extension**
 
-- **(3)** Subject to subsections (4) and (5), if, before the expiry of the 45-day period referred to in subsection (1), a notice is sent under subsection 25.2(1) in respect of the investment and if, in respect of the investment, an order is made under subsection 25.3(1), the period during which the Minister may send the notice referred to in subsection (1) is deemed to expire five days after the expiry of the prescribed period referred to in subsection 25.3(6) or the further period if one was agreed to under that subsection.
+- **(3)** Subject to subsections (4) and (5), if, before the end of the 45-day period referred to in subsection (1), a notice is sent under subsection 25.2(1) in respect of the investment and if, in respect of the investment, an order is made under subsection 25.3(1), the period during which the Minister may send the notice referred to in subsection (1) expires
+	- **(a)** 30 days after the end of
+		- **(i)** the prescribed period referred to in subsection 25.3(6) or (7), as the case may be, or
+		- **(ii)** the further period, if one was agreed on under subsection 25.3(7); or
+	- **(b)** at the end of any further period that the Minister and the applicant agree on.
 
 **Extension**
 
-- **(4)** If, before the expiry of the 45-day period referred to in subsection (1), a notice is sent under subsection 25.2(1) in respect of the investment and if, in respect of the investment, an order is made under subsection 25.3(1) and a notice is sent under paragraph 25.3(6)(b), the period during which the Minister may send the notice referred to in subsection (1) is deemed to expire five days after the day on which the notice under paragraph 25.3(6)(b) was sent.
+- **(4)** If, before the end of the 45-day period referred to in subsection (1), a notice is sent under subsection 25.2(1) in respect of the investment and if, in respect of the investment, an order is made under subsection 25.3(1) and a notice under paragraph 25.3(6)(b) is sent, the period during which the Minister may send the notice referred to in subsection (1) expires 30 days after the day on which the notice under that paragraph was sent or at the end of any further period that the Minister and the applicant agree on.
 
 **Extension**
 
-- **(5)** If, before the expiry of the 45-day period referred to in subsection (1), a notice is sent under subsection 25.2(1) in respect of the investment and if an order is made under subsection 25.3(1) in respect of the investment and the Minister refers the investment to the Governor in Council under paragraph 25.3(6)(a), the period during which the Minister may send the notice referred to in subsection (1) is deemed to expire five days after the expiry of the earlier of
+- **(5)** If, before the end of the 45-day period referred to in subsection (1), a notice is sent under subsection 25.2(1) in respect of the investment and if an order is made under subsection 25.3(1) in respect of the investment and the Minister refers the investment to the Governor in Council under paragraph 25.3(6)(a) or subsection 25.3(7), the period during which the Minister may send the notice referred to in subsection (1) expires either 30 days after the earlier of the following days or at the end of any further period that the Minister and the applicant agree on:
 	- **(a)** the day on which the Governor in Council takes any measure under subsection 25.4(1) in respect of the investment, and
-	- **(b)** the day on which the prescribed period referred to in subsection 25.4(1) expires.
+	- **(b)** the day on which the prescribed period referred to in subsection 25.4(1) ends.
 
 **Extension**
 
-- **(6)** Subject to subsections (7) and (8), if, before the expiry of the 45-day period referred to in subsection (1), an order is made under subsection 25.3(1) in respect of the investment, the period during which the Minister may send the notice referred to in subsection (1) is deemed to expire five days after the expiry of the prescribed period referred to in subsection 25.3(6) or the further period if one was agreed to under that subsection.
+- **(6)** Subject to subsections (7) and (8), if, before the end of the 45-day period referred to in subsection (1), an order is made under subsection 25.3(1) in respect of the investment, the period during which the Minister may send the notice referred to in subsection (1) expires
+	- **(a)** 30 days after the end of
+		- **(i)** the prescribed period referred to in subsection 25.3(6) or (7), as the case may be, or
+		- **(ii)** the further period, if one was agreed on under subsection 25.3(7); or
+	- **(b)** at the end of any further period that the Minister and the applicant agree on.
 
 **Extension**
 
-- **(7)** If, before the expiry of the 45-day period referred to in subsection (1), an order is made under subsection 25.3(1) in respect of the investment and if, in respect of the investment, a notice is sent under paragraph 25.3(6)(b), the period during which the Minister may send the notice referred to in subsection (1) is deemed to expire five days after the day on which the notice under paragraph 25.3(6)(b) was sent.
+- **(7)** If, before the end of the 45-day period referred to in subsection (1), an order is made under subsection 25.3(1) in respect of the investment and if, in respect of the investment, a notice is sent under paragraph 25.3(6)(b), the period during which the Minister may send the notice referred to in subsection (1) expires 30 days after the day on which the notice under that paragraph was sent or at the end of any further period that the Minister and the applicant agree on.
 
 **Extension**
 
-- **(8)** If, before the expiry of the 45-day period referred to in subsection (1), an order is made under subsection 25.3(1) in respect of the investment and if the Minister refers the investment to the Governor in Council under paragraph 25.3(6)(a), the period during which the Minister may send the notice referred to in subsection (1) is deemed to expire five days after the expiry of the earlier of
+- **(8)** If, before the end of the 45-day period referred to in subsection (1), an order is made under subsection 25.3(1) in respect of the investment and if the Minister refers the investment to the Governor in Council under paragraph 25.3(6)(a) or subsection 25.3(7), the period during which the Minister may send the notice referred to in subsection (1) expires either 30 days after the earlier of the following days or at the end of any further period that the Minister and the applicant agree on:
 	- **(a)** the day on which the Governor in Council takes any measure under subsection 25.4(1) in respect of the investment, and
-	- **(b)** the day on which the prescribed period referred to in subsection 25.4(1) expires.
+	- **(b)** the day on which the prescribed period referred to in subsection 25.4(1) ends.
 
 **Minister deemed to be satisfied**
 
-- **(9)** Subject to sections 22 and 23, if the Minister does not send a notice under subsection (1) within the 45-day period referred to in that subsection or, if any of subsections (2) to (8) apply, within the five-day period referred to in that subsection, the Minister is deemed to be satisfied that the investment is likely to be of net benefit to Canada and shall send a notice to that effect to the applicant.
-> R.S., 1985, c. 28 (1st Supp.), s. 21; 1995, c. 1, s. 50; 2009, c. 2, s. 452.
+- **(9)** Subject to sections 22 and 23, if the Minister does not send a notice under subsection (1) within the 45-day period referred to in that subsection or, if any of subsections (2) to (8) apply, within the 30-day period or agreed further period referred to in the applicable subsection, the Minister is deemed to be satisfied that the investment is likely to be of net benefit to Canada and shall send a notice to that effect to the applicant.
+> R.S., 1985, c. 28 (1st Supp.), s. 21; 1995, c. 1, s. 50; 2009, c. 2, s. 452; 2013, c. 33, s. 138; 2014, c. 39, s. 188.
 
 
 
@@ -572,8 +580,8 @@ where
 
 **Minister deemed to be satisfied**
 
-- **(4)** Subject to section 23, if the Minister does not send a notice under subsection (2) within the period referred to in that subsection, or, if subsection (3) applies, within the five-day period referred to in whichever of subsections 21(2) to (8) applies to this section by reason of subsection (3), the Minister is deemed to be satisfied that the investment is likely to be of net benefit to Canada and shall send a notice to that effect to the applicant.
-> R.S., 1985, c. 28 (1st Supp.), s. 22; 2009, c. 2, s. 452.
+- **(4)** Subject to section 23, if the Minister does not send a notice under subsection (2) within the period referred to in that subsection or, if subsection (3) applies, within the 30-day period or agreed further period referred to in whichever of subsections 21(2) to (8) applies to this section by reason of subsection (3), then the Minister is deemed to be satisfied that the investment is likely to be of net benefit to Canada and shall send a notice to that effect to the applicant.
+> R.S., 1985, c. 28 (1st Supp.), s. 22; 2009, c. 2, s. 452; 2013, c. 33, s. 139.
 
 
 
@@ -717,10 +725,10 @@ where
 
 **Ministerial action**
 
-- **(4)** The Minister shall, within the prescribed period, send to the non-Canadian
-	- **(a)** a notice indicating that no order for the review of the investment will be made under subsection 25.3(1); or
+- **(4)** The Minister shall send to the non-Canadian
+	- **(a)** a notice, which shall be sent within the prescribed period, indicating that no order for the review of the investment will be made under subsection 25.3(1); or
 	- **(b)** a notice referred to in subsection 25.3(2) indicating that an order for the review of the investment has been made.
-> 2009, c. 2, s. 453.
+> 2009, c. 2, s. 453; 2013, c. 33, s. 140.
 
 
 
@@ -752,22 +760,26 @@ where
 
 **Ministerial action**
 
-- **(6)** After consultation with the Minister of Public Safety and Emergency Preparedness, the Minister shall, within the prescribed period, or any further period that is agreed on by the Minister and the non-Canadian,
+- **(6)** After consultation with the Minister of Public Safety and Emergency Preparedness, the Minister shall, within the prescribed period,
 	- **(a)** refer the investment under review to the Governor in Council, together with a report of the Minister’s findings and recommendations on the review, if
 		- **(i)** the Minister is satisfied that the investment would be injurious to national security, or
 		- **(ii)** on the basis of the information available, the Minister is not able to determine whether the investment would be injurious to national security; or
 	- **(b)** send to the non-Canadian a notice indicating that no further action will be taken in respect of the investment if the Minister is satisfied that the investment would not be injurious to national security.
-> 2009, c. 2, s. 453.
+
+**Extension**
+
+- **(7)** If the Minister is unable to complete the consideration of an investment within the prescribed period referred to in subsection (6), the Minister shall, within that period, send a notice to that effect to the non-Canadian. The Minister then has until the end of the period prescribed for this subsection, or any further period that the Minister and the non-Canadian agree on, to take the applicable measures described in paragraph (6)(a) or (b).
+> 2009, c. 2, s. 453; 2013, c. 33, s. 141.
 
 
 
 
 
-**Powers of Governor in Council**
+**Governor in Council’s powers**
 
 **25.4** 
 
-- **(1)** On the referral of an investment under paragraph 25.3(6)(a), the Governor in Council may, by order, within the prescribed period, take any measures in respect of the investment that the Governor in Council considers advisable to protect national security, including
+- **(1)** On the referral of an investment under paragraph 25.3(6)(a) or subsection 25.3(7), the Governor in Council may, by order, within the prescribed period, take any measures in respect of the investment that he or she considers advisable to protect national security, including
 	- **(a)** directing the non-Canadian not to implement the investment;
 	- **(b)** authorizing the investment on condition that the non-Canadian
 		- **(i)** give any written undertakings to Her Majesty in right of Canada relating to the investment that the Governor in Council considers necessary in the circumstances, or
@@ -785,7 +797,7 @@ where
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply**
 
 - **(4)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply in respect of the order.
-> 2009, c. 2, s. 453.
+> 2009, c. 2, s. 453; 2013, c. 33, s. 142.
 
 
 
