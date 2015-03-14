@@ -24641,7 +24641,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 ### **ANNEXE I** 
 **(article 14)**
-#### au 31 décembre 2013
+#### au 31 décembre 2014
 <table>
 <tr>
 <th>Dénomination sociale de la banque</th>
@@ -24660,10 +24660,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Nouvelle-Écosse</td>
 </tr>
 <tr>
-<td>Banque Ouest</td>
-<td>Alberta</td>
-</tr>
-<tr>
 <td>Banque Bridgewater</td>
 <td>Alberta</td>
 </tr>
@@ -24677,6 +24673,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 <tr>
 <td>Banque canadienne de l’Ouest</td>
+<td>Alberta</td>
+</tr>
+<tr>
+<td>Banque CFF</td>
 <td>Alberta</td>
 </tr>
 <tr>
@@ -24716,24 +24716,12 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Banque ING du Canada</td>
-<td>Ontario</td>
-</tr>
-<tr>
-<td>Jameson Bank</td>
-<td>Ontario</td>
-</tr>
-<tr>
 <td>Banque Laurentienne du Canada</td>
 <td>Québec</td>
 </tr>
 <tr>
 <td>Banque Manuvie du Canada</td>
 <td>Ontario</td>
-</tr>
-<tr>
-<td>Banque MonCana du Canada</td>
-<td>Alberta</td>
 </tr>
 <tr>
 <td>Banque Nationale du Canada</td>
@@ -24760,19 +24748,27 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Québec</td>
 </tr>
 <tr>
+<td>Banque Tangerine</td>
+<td>Ontario</td>
+</tr>
+<tr>
 <td>Banque Toronto-Dominion (La)</td>
 <td>Ontario</td>
 </tr>
+<tr>
+<td>Banque Zag</td>
+<td>Alberta</td>
+</tr>
 </table>
 
-> 1991, ch. 46, ann. I; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du CanadaGazette du Canada Partie I, volume 148, page 748.
+> 1991, ch. 46, ann. I; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du CanadaGazette du Canada Partie I, volume 149, page 522.
 
 
 
 
 ### **ANNEXE II** 
 **(article 14)**
-#### au 31 décembre 2013
+#### au 31 décembre 2014
 <table>
 <tr>
 <th>Dénomination sociale de la banque</th>
@@ -24876,14 +24872,14 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 </table>
 
-> 1991, ch. 46, ann. II; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du CanadaGazette du Canada Partie I, volume 148, page 748.
+> 1991, ch. 46, ann. II; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du CanadaGazette du Canada Partie I, volume 149, page 522.
 
 
 
 
 ### **ANNEXE III** 
 **(article 14.1)**
-#### au 31 décembre 2013
+#### au 31 décembre 2014
 <table>
 <tr>
 <th>Dénomination sociale de la banque étrangère autorisée</th>
@@ -24918,6 +24914,12 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <tr>
 <td>Capital One Bank (USA), N.A.</td>
 <td>Capital One Bank (Canada Branch)</td>
+<td>Services complets</td>
+<td>Ontario</td>
+</tr>
+<tr>
+<td>China Construction Bank</td>
+<td>Banque de construction de Chine succursale de Toronto</td>
 <td>Services complets</td>
 <td>Ontario</td>
 </tr>
@@ -24964,12 +24966,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Colombie-Britannique</td>
 </tr>
 <tr>
-<td>HSBC Bank USA, National Association</td>
-<td>HSBC Bank USA, National Association</td>
-<td>Services complets</td>
-<td>Ontario</td>
-</tr>
-<tr>
 <td>JPMorgan Chase Bank, National Association</td>
 <td>JPMorgan Chase Bank, National Association</td>
 <td>Services complets</td>
@@ -25008,18 +25004,18 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <tr>
 <td>PNC Bank, National Association</td>
 <td>PNC Bank Canada Branch</td>
-<td>Prêt</td>
+<td>Services complets</td>
 <td>Ontario</td>
 </tr>
 <tr>
 <td>Royal Bank of Scotland N.V. (The)</td>
-<td>La Banque RBS N.V.</td>
+<td>Banque RBS N.V. (La)</td>
 <td>Services complets</td>
 <td>Ontario</td>
 </tr>
 <tr>
 <td>Royal Bank of Scotland plc (The)</td>
-<td>La Banque RBS plc</td>
+<td>Banque RBS plc (La)</td>
 <td>Services complets</td>
 <td>Ontario</td>
 </tr>
@@ -25048,7 +25044,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Union Bank, National Association</td>
+<td>MUFG Union Bank, National Association</td>
 <td>Union Bank, Canada Branch</td>
 <td>Prêt</td>
 <td>Alberta</td>
@@ -25069,6 +25065,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 <a name='B-1.01_annIII_f'><sup>*</sup></a>: Une SBE dont l’ordonnance est assujettie aux restrictions et aux exigences visées au paragraphe 524(2) de la Loi sur les banques est appelée une succursale de « prêt ».<br />
-> 1999, ch. 28, art. 75; 2005, ch. 54, art. 139; Gazette du CanadaGazette du Canada Partie I, volume 148, page 748.
+> 1999, ch. 28, art. 75; 2005, ch. 54, art. 139; Gazette du CanadaGazette du Canada Partie I, volume 149, page 522.
 
 
