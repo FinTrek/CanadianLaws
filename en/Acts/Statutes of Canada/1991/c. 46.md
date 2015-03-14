@@ -25012,7 +25012,7 @@ together with such other information about the background, business record and e
 
 ### **SCHEDULE I** 
 **(Section 14)**
-#### As at December 31, 2013
+#### As at December 31, 2014
 <table>
 <tr>
 <th>Name of Bank</th>
@@ -25031,10 +25031,6 @@ together with such other information about the background, business record and e
 <td>Nova Scotia</td>
 </tr>
 <tr>
-<td>Bank West</td>
-<td>Alberta</td>
-</tr>
-<tr>
 <td>Bridgewater Bank</td>
 <td>Alberta</td>
 </tr>
@@ -25048,6 +25044,10 @@ together with such other information about the background, business record and e
 </tr>
 <tr>
 <td>Canadian Western Bank</td>
+<td>Alberta</td>
+</tr>
+<tr>
+<td>CFF Bank</td>
 <td>Alberta</td>
 </tr>
 <tr>
@@ -25087,24 +25087,12 @@ together with such other information about the background, business record and e
 <td>Ontario</td>
 </tr>
 <tr>
-<td>ING Bank of Canada</td>
-<td>Ontario</td>
-</tr>
-<tr>
-<td>Jameson Bank</td>
-<td>Ontario</td>
-</tr>
-<tr>
 <td>Laurentian Bank of Canada</td>
 <td>Quebec</td>
 </tr>
 <tr>
 <td>Manulife Bank of Canada</td>
 <td>Ontario</td>
-</tr>
-<tr>
-<td>MonCana Bank of Canada</td>
-<td>Alberta</td>
 </tr>
 <tr>
 <td>National Bank of Canada</td>
@@ -25131,19 +25119,27 @@ together with such other information about the background, business record and e
 <td>Quebec</td>
 </tr>
 <tr>
+<td>Tangerine Bank</td>
+<td>Ontario</td>
+</tr>
+<tr>
 <td>Toronto-Dominion Bank (The)</td>
 <td>Ontario</td>
 </tr>
+<tr>
+<td>Zag Bank</td>
+<td>Alberta</td>
+</tr>
 </table>
 
-> 1991, c. 46, Sch. I; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada GazetteCanada Gazette Part I, Volume 148, page 748.
+> 1991, c. 46, Sch. I; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada GazetteCanada Gazette Part I, Volume 149, page 522.
 
 
 
 
 ### **SCHEDULE II** 
 **(Section 14)**
-#### As at December 31, 2013
+#### As at December 31, 2014
 <table>
 <tr>
 <th>Name of Bank</th>
@@ -25247,14 +25243,14 @@ together with such other information about the background, business record and e
 </tr>
 </table>
 
-> 1991, c. 46, Sch. II; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada GazetteCanada Gazette Part I, Volume 148, page 748.
+> 1991, c. 46, Sch. II; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada GazetteCanada Gazette Part I, Volume 149, page 522.
 
 
 
 
 ### **SCHEDULE III** 
 **(Section 14.1)**
-#### As at December 31, 2013
+#### As at December 31, 2014
 <table>
 <tr>
 <th>Name of Authorized Foreign Bank (FB)</th>
@@ -25289,6 +25285,12 @@ together with such other information about the background, business record and e
 <tr>
 <td>Capital One Bank (USA), N.A.</td>
 <td>Capital One Bank (Canada Branch)</td>
+<td>Full-service</td>
+<td>Ontario</td>
+</tr>
+<tr>
+<td>China Construction Bank</td>
+<td>China Construction Bank Toronto Branch</td>
 <td>Full-service</td>
 <td>Ontario</td>
 </tr>
@@ -25335,12 +25337,6 @@ together with such other information about the background, business record and e
 <td>British Columbia</td>
 </tr>
 <tr>
-<td>HSBC Bank USA, National Association</td>
-<td>HSBC Bank USA, National Association</td>
-<td>Full-service</td>
-<td>Ontario</td>
-</tr>
-<tr>
 <td>JPMorgan Chase Bank, National Association</td>
 <td>JPMorgan Chase Bank, National Association</td>
 <td>Full-service</td>
@@ -25379,7 +25375,7 @@ together with such other information about the background, business record and e
 <tr>
 <td>PNC Bank, National Association</td>
 <td>PNC Bank Canada Branch</td>
-<td>Lending</td>
+<td>Full-service</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -25419,7 +25415,7 @@ together with such other information about the background, business record and e
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Union Bank, National Association</td>
+<td>MUFG Union Bank, National Association</td>
 <td>Union Bank, Canada Branch</td>
 <td>Lending</td>
 <td>Alberta</td>
@@ -25432,7 +25428,7 @@ together with such other information about the background, business record and e
 </tr>
 <tr>
 <td>Wells Fargo Bank, National Association</td>
-<td>Wells Fargo Bank, National Association, Canada Branch</td>
+<td>Wells Fargo Bank, National Association, Canadian Branch</td>
 <td>Full-service</td>
 <td>Ontario</td>
 </tr>
@@ -25440,6 +25436,6 @@ together with such other information about the background, business record and e
 
 
 <a name='c54_SchIII_e'><sup>*</sup></a>: An FBB, whose order is subject to the restrictions and requirements referred to in subsection 524(2) of the Bank Act, is referred to as a “lending” branch.<br />
-> 1999, c. 28, s. 75; 2005, c. 54, s. 139; Canada GazetteCanada Gazette Part I, Volume 148, page 748.
+> 1999, c. 28, s. 75; 2005, c. 54, s. 139; Canada GazetteCanada Gazette Part I, Volume 149, page 522.
 
 
