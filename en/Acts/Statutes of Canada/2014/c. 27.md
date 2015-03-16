@@ -37,7 +37,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** The following definitions apply in this Act.
 
-***cluster munition*** means a conventional munition that is designed to disperse or release explosive submunitions. However, it does not include any of the following:
+***cluster munition*** means a conventional munition that is designed to disperse or release explosive submunitions. However, it does not include any of the following:
 - **(a)** a munition that is designed to disperse or release flares or pyrotechnic devices;
 - **(b)** a munition that is designed to produce, disperse or release smoke or chaff;
 - **(c)** a munition that is designed to produce electrical or electronic effects;
@@ -46,13 +46,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(i)** weighs more than four kilograms,
 	- **(ii)** is designed to detect and engage a target that is a single object, and
 	- **(iii)** is equipped with an electronic self-destruction mechanism and an electronic self-deactivating feature;
-- **(f)** a mine as defined in section 2 of the [Anti-Personnel Mines Convention Implementation Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2033.md).
+- **(f)** a mine as defined in section 2 of the [Anti-Personnel Mines Convention Implementation Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2033.md). (*arme à sous-munitions*)
 
-***Convention*** means the Convention on Cluster Munitions, done at Dublin on May 30, 2008, as amended from time to time to the extent that the amendment takes effect for Canada, that is set out in the schedule to this Act.
+***Convention*** means the Convention on Cluster Munitions, done at Dublin on May 30, 2008, as amended from time to time to the extent that the amendment takes effect for Canada, that is set out in the schedule to this Act. (*Convention*)
 
-***conventional munition*** means a munition that is not a nuclear, radiological, chemical, biological or toxin weapon.
+***conventional munition*** means a munition that is not a nuclear, radiological, chemical, biological or toxin weapon. (*munition classique*)
 
-***explosive bomblet*** means a conventional munition, weighing less than 20 kg, that is not self-propelled and that, in order to perform its task, is dispersed or released from a container affixed to an aircraft and that is designed to detonate before, on or after impact. However, it does not include any of the following:
+***explosive bomblet*** means a conventional munition, weighing less than 20 kg, that is not self-propelled and that, in order to perform its task, is dispersed or released from a container affixed to an aircraft and that is designed to detonate before, on or after impact. However, it does not include any of the following:
 - **(a)** a flare, a pyrotechnic device or a munition that is designed to produce, disperse or release smoke or chaff;
 - **(b)** a munition that is designed to produce electrical or electronic effects;
 - **(c)** a munition that is designed exclusively for air defence;
@@ -60,9 +60,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(i)** weighs more than four kilograms,
 	- **(ii)** is designed to detect and engage a target that is a single object, and
 	- **(iii)** is equipped with an electronic self-destruction mechanism and an electronic self-deactivating feature;
-- **(e)** a mine as defined in section 2 of the [Anti-Personnel Mines Convention Implementation Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2033.md).
+- **(e)** a mine as defined in section 2 of the [Anti-Personnel Mines Convention Implementation Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2033.md). (*petite bombe explosive*)
 
-***explosive submunition*** means a conventional munition, weighing less than 20 kg, that, in order to perform its task, is dispersed or released from another conventional munition and that is designed to detonate before, on or after impact. However, it does not include any of the following:
+***explosive submunition*** means a conventional munition, weighing less than 20 kg, that, in order to perform its task, is dispersed or released from another conventional munition and that is designed to detonate before, on or after impact. However, it does not include any of the following:
 - **(a)** a flare, a pyrotechnic device or a munition that is designed to produce, disperse or release smoke or chaff;
 - **(b)** a munition that is designed to produce electrical or electronic effects;
 - **(c)** a munition that is designed exclusively for air defence;
@@ -70,11 +70,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(i)** weighs more than four kilograms,
 	- **(ii)** is designed to detect and engage a target that is a single object, and
 	- **(iii)** is equipped with an electronic self-destruction mechanism and an electronic self-deactivating feature;
-- **(e)** a mine as defined in section 2 of the [Anti-Personnel Mines Convention Implementation Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2033.md).
+- **(e)** a mine as defined in section 2 of the [Anti-Personnel Mines Convention Implementation Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2033.md). (*sous-munition explosive*)
 
-***person*** means an individual or an organization as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+***person*** means an individual or an organization as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). (*personne*)
 
-***use***, in respect of a cluster munition, explosive submunition or explosive bomblet, means firing, dropping, launching, projecting, dispersing, releasing or otherwise delivering it for the purpose of detonation.
+***use***, in respect of a cluster munition, explosive submunition or explosive bomblet, means firing, dropping, launching, projecting, dispersing, releasing or otherwise delivering it for the purpose of detonation. (*utilisation*)
 
 
 
@@ -328,7 +328,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind79FF_hq_14739'>[*]</a></sup>**24** The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind79FF_hq_14739'><sup>*</sup></a>: [Note: Act not in force.]<br />
+<a name='fn_Ind79FF_hq_14739'><sup>*</sup></a>: [Note: Act in force March 16, 2015, *see* SI/2015-22.]<br />
 
 
 
