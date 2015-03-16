@@ -217,12 +217,12 @@ Autorités habilitantes :
 	- **a)** soit de la date du début de l’emploi, dans le cas d’un employé dont l’emploi a commencé après le début de l’année de service visée à ce paragraphe;
 	- **b)** soit de la date du début de l’année de service préalablement en vigueur, dans le cas des autres employés.
 
-- **(3)** Lorsque l’employeur et l’employé n’ont pas convenu de procéder autrement, l’employeur doit donner à chacun de ses employés qui a droit à un congé annuel un préavis d’au moins deux semaines l’informant de la date du début de son congé annuel.
+- **(3)** L’employeur doit donner à chacun de ses employés qui a droit à un congé annuel un préavis d’au moins deux semaines l’informant de la date du début de son congé annuel, à moins qu’ils n’aient déjà convenu d’une date.
 
 - **(4)** L’employeur doit verser à l’employé qui a acquis le droit à un congé annuel payé l’indemnité de congé à laquelle il a droit :
 	- **a)** soit dans les 14 jours qui précèdent le début du congé;
 	- **b)** soit le jour normal de paie durant le congé ou immédiatement après celui-ci, lorsqu’il est impossible de se conformer à l’alinéa a) ou lorsqu’il est d’usage, dans l’établissement où l’employé travaille, de verser l’indemnité de congé annuel le jour normal de paie durant ou immédiatement après le congé annuel.
-> DORS/94-668, art. 5; DORS/2002-113, art. 4(A).
+> DORS/94-668, art. 5; DORS/2002-113, art. 4(A); DORS/2014-305, art. 1(F).
 
 
 
@@ -268,18 +268,18 @@ Autorités habilitantes :
 ## Taux régulier de salaire pour les jours fériés et les congés de décès
 
 
-**17** Pour l’application des paragraphes 196(2) et (3) et 210(2) de la Loi, le taux régulier du salaire d’un employé dont la durée du travail varie d’un jour à l’autre ou dont le salaire est calculé autrement qu’en fonction du temps est égal :
-- **a)** soit à la moyenne de ses gains journaliers, exclusion faite de sa rémunération pour des heures supplémentaires fournies pendant les 20 jours où il a travaillé avant un jour férié ou le premier jour d’un congé de décès;
+**17** Pour l’application du paragraphe 210(2) de la Loi, le taux régulier du salaire d’un employé dont la durée du travail varie d’un jour à l’autre ou dont le salaire est calculé autrement qu’en fonction du temps est égal :
+- **a)** soit à la moyenne de ses gains journaliers, exclusion faite de sa rémunération pour des heures supplémentaires fournies pendant les 20 jours où il a travaillé immédiatement avant le premier jour d’un congé de décès;
 - **b)** soit au montant calculé suivant une méthode convenue selon les dispositions de la convention collective liant l’employeur et l’employé.
-> DORS/79-309, art. 1; DORS/91-461, art. 15.
+> DORS/79-309, art. 1; DORS/91-461, art. 15; DORS/2014-305, art. 2.
 
 
 
 
-**18** Pour l’application de l’article 197 et de l’alinéa 198a) de la Loi, lorsque la durée du travail d’un employé rémunéré à la journée ou à l’heure varie d’un jour à l’autre ou que son salaire est calculé autrement qu’en fonction du temps, le salaire normal pour un jour férié est :
+**18** Pour l’application de l’article 197 de la Loi, lorsque la durée du travail d’un employé rémunéré à la journée ou à l’heure varie d’un jour à l’autre ou que son salaire est calculé autrement qu’en fonction du temps, le salaire normal pour un jour férié est :
 - **a)** la moyenne de ses gains journaliers, déduction faite de sa rémunération pour des heures supplémentaires, pendant les 20 jours où il a travaillé immédiatement avant un jour férié; ou
 - **b)** un montant calculé suivant une méthode convenue, selon les dispositions d’une convention collective liant l’employeur et l’employé.
-> DORS/79-309, art. 2; DORS/91-461, art. 16.
+> DORS/79-309, art. 2; DORS/91-461, art. 16; DORS/2014-305, art. 3.
 
 
 
@@ -308,7 +308,7 @@ Autorités habilitantes :
 
 ***travail au service de plusieurs employeurs*** Emploi au débardage dans tout port au Canada où, selon la coutume, les employés affectés à un tel emploi seraient, dans le cours normal d’un mois ouvrable, habituellement employés par plus d’un employeur. (*multi-employer employment*)
 
-- **(2)** Lorsqu’un employé au service d’un employeur qui est membre d’un groupe de plusieurs employeurs a droit au salaire applicable à l’emploi par plusieurs employeurs à l’égard d’au moins 15 jours ou 120 heures de travail dans les 30 jours civils qui précèdent immédiatement un jour férié, l’employé a le droit d’obtenir, et il doit lui être payé par le groupe de plusieurs employeurs, un montant équivalent à au moins huit fois son taux horaire de salaire de base relativement à un tel emploi.
+- **(2)** Lorsqu’un employé au service d’un employeur qui est membre d’un groupe de plusieurs employeurs a droit au salaire applicable à l’emploi par plusieurs employeurs, l’employé a le droit d’obtenir, et il doit lui être payé par le groupe de plusieurs employeurs, un montant équivalent à son taux de salaire de base multiplié par un vingtième des heures travaillées durant les quatre semaines qui précèdent immédiatement la semaine comprenant un jour férié, exclusion faite de ses heures supplémentaires.
 
 - **(3)** Lorsqu’un employé est au service d’un employeur qui n’est pas membre d’un groupe d’employeurs, il doit lui être payé, en remplacement des jours fériés, à chaque paie et pour la période de paie correspondante, un montant égal à trois et demi pour cent de son salaire de base multiplié par le nombre d’heures de travail qu’il a faites pendant cette période.
 
@@ -318,8 +318,8 @@ Autorités habilitantes :
 	- **a)** l’association a institué et administre un bureau central de paie chargé de conserver les dossiers d’emploi des employés au service des employeurs qui sont membres de l’association et de verser le salaire auxdits employés au nom de leurs employeurs; et si
 	- **b)** le ministre est convaincu que le bureau central de paie ainsi institué par l’association d’employeurs est autorisé à recueillir de chacun de ses membres et à verser en leur nom à leurs employés le salaire qu’ils sont tenus de leur verser conformément au présent article.
 
-- **(6)** Pour l’application de l’article 206, des paragraphes 210(2), 230(1) et 235(1), des alinéas 239(1)a) et 240(1)a) et de l’article 247.5 de la Loi, l’employé au service de plusieurs employeurs est réputé être en service continu.
-> DORS/78-560, art. 3; DORS/81-473, art. 1; DORS/91-461, art. 18; DORS/2002-113, art. 5; DORS/2009-194, art. 1.
+- **(6)** Pour l’application de l’alinéa 206(1)a), des paragraphes 206.1(1), 206.4(2), 206.5(2) et (3), 210(2), 230(1) et 235(1), des alinéas 239(1)a) et 240(1)a) et du paragraphe 247.5(1) de la Loi, l’employé au service de plusieurs employeurs est réputé travailler sans interruption.
+> DORS/78-560, art. 3; DORS/81-473, art. 1; DORS/91-461, art. 18; DORS/2002-113, art. 5; DORS/2009-194, art. 1; DORS/2014-305, art. 4.
 
 
 
@@ -332,12 +332,12 @@ Autorités habilitantes :
 
 - **(1)** Sous réserve des paragraphes (2) et (3), aux fins du calcul et de la détermination du taux horaire régulier de salaire des employés payés au temps, sur une autre base que l’heure, l’employeur doit diviser le salaire versé pour le travail effectué par le nombre d’heures requis pour exécuter le travail.
 
-- **(2)** Pour l’application des articles 174, 197, 198 et 202 de la Loi, le taux horaire régulier de salaire peut être le taux convenu selon les dispositions de la convention collective liant l’employeur et l’employé.
+- **(2)** Pour l’application de l’article 174 et des paragraphes 197(1) et (3) et 205(2) de la Loi, le taux horaire régulier de salaire peut être le taux convenu selon les dispositions de la convention collective liant l’employeur et l’employé.
 
 - **(3)** Pour l’application du paragraphe (1) :
 	- **a)** le salaire versé ne comprend pas l’indemnité de congé annuel, la rémunération applicable aux jours fériés, aux congés de décès et aux autres congés, ni le salaire versé pour les heures supplémentaires;
 	- **b)** le nombre d’heures requis ne comprend pas les heures pour lesquelles a été payé le taux de salaire applicable aux heures supplémentaires.
-> DORS/79-309, art. 3; DORS/91-461, art. 19.
+> DORS/79-309, art. 3; DORS/91-461, art. 19; DORS/2014-305, art. 5.
 
 
 
@@ -396,7 +396,10 @@ Autorités habilitantes :
 	- **g)** les dates de début et de fin des congés annuels et l’année d’emploi à l’égard de laquelle chacun d’eux a été accordé;
 	- **g.1)** toute entente écrite conclue entre l’employeur et l’employé aux termes du paragraphe 14(1), selon laquelle l’employé renonce à son congé annuel ou le reporte;
 	- **g.2)** tout avis transmis aux employés conformément à l’article 12 lorsque l’employeur détermine une année de service conformément à l’alinéa b) de la définition de « année de service » à l’article 183 de la Loi;
-	- **h)** les dates du début et de la fin de tout congé accordé à l’employé en vertu de la section VII de la Loi, un exemplaire de chaque préavis de congé et de chaque certificat médical produit par l’employé relativement à ce congé;
+	- **h)** à l’égard de tout congé accordé à l’employé en vertu de la section VII de la Loi :
+		- **(i)** les dates du début et de la fin de ce congé et de toute interruption de celui-ci,
+		- **(ii)** un exemplaire de tout préavis de congé ou d’interruption de celui-ci,
+		- **(iii)** un exemplaire de tout certificat médical produit par l’employé relativement au congé ou à son interruption;
 	- **h.1)** les dates du début et de la fin de toute modification des tâches ou réaffectation de l’employé accordée en vertu de la section VII de la Loi et un exemplaire de tout préavis produit par l’employeur relativement à cette modification des tâches ou réaffectation;
 	- **i)** tout jour férié ou autre jour de congé payé accordé à l’employé en vertu de la section V de la Loi, tout avis de substitution de jour férié dont l’affichage est exigé par l’article 195 de la Loi et la preuve, en ce qui concerne les employés non liés par une convention collective, qu’au moins 70 pour cent des employés concernés approuvent la substitution du jour férié;
 	- **j)** dans les cas où le calcul de la moyenne des heures de travail est pratiqué en vertu de l’article 6, tout avis relatif au calcul de la moyenne des heures de travail, le détail des réductions apportées à la durée normale du travail et à la durée maximale du travail en vertu des paragraphes 6(7), (8) et (9), et le nombre d’heures pour lesquelles l’employé avait le droit d’être rémunéré au taux applicable aux heures supplémentaires prévu à l’article 174 de la Loi;
@@ -417,8 +420,8 @@ Autorités habilitantes :
 	- **b)** un exemplaire de tout certificat d’un médecin qualifié attestant que l’employé est apte à retourner au travail;
 	- **c)** la date du retour de l’employé au travail, ou un exemplaire de l’avis de l’employeur informant l’employé et le syndicat le représentant de l’impossibilité de le réintégrer, motifs à l’appui.
 
-- **(5)** L’employeur doit garder confidentiel tout certificat d’un médecin qualifié qu’il reçoit à l’égard d’un employé.
-> DORS/78-560, art. 4; DORS/91-461, art. 21; DORS/94-668, art. 7; DORS/2009-194, art. 2.
+- **(5)** [Abrogé, DORS/2014-305, art. 6]
+> DORS/78-560, art. 4; DORS/91-461, art. 21; DORS/94-668, art. 7; DORS/2009-194, art. 2; DORS/2014-305, art. 6.
 
 
 
@@ -807,7 +810,11 @@ Administration
 
 **5** Bureau général – Gare de triage
 
-Exploitation de Port Coquitlam (Colombie-Britannique)
+Exploitation de Port Coquitlam
+
+
+
+Port Coquitlam (Colombie-Britannique)
 
 
 
@@ -1787,7 +1794,7 @@ Winnipeg (Manitoba)
 
 
 
-**47** Atelier du matériel tracté de Winnipeg
+**47** Atelier du wagon porte-rails de Winnipeg
 
 Winnipeg (Manitoba)
 
@@ -1924,7 +1931,7 @@ Port Coquitlam (Colombie-Britannique)
 
 
 
-Installations pour wagons de Coquitlam
+Installations pour wagons porte-rails de Coquitlam
 
 
 
@@ -2098,7 +2105,7 @@ Services juridiques
 
 
 
-**64** Siège social du triage
+**64** Bureau général — Gare de triage
 
 Toronto (Ontario)
 
@@ -2266,7 +2273,7 @@ Toronto (Ontario)
 
 
 
-Atelier du matériel tracté
+Atelier du wagon porte-rails
 
 
 
@@ -3794,96 +3801,7 @@ Personnel de soutien administratif
 
 
 **PARTIE V** 
-## Lignes aériennes canadien international
-
-
-### Établissements
-
-**1** Siège social
-
-Vice-président général et vice-présidents — Opérations
-
-
-
-Vice-président général et vice-présidents — Ressources humaines
-
-
-
-Vice-président, Calendrier et Planification
-
-
-
-Vice-président principal et vice-présidents — International
-
-
-
-Vice-président général et vice-présidents — Commercialisation et ventes
-
-
-
-Vice-présidents, Services commerciaux
-
-
-
-Vice-président et contrôleur
-
-
-
-Personnel de soutien administratif
-
-
-
-
-**2** Services de renseignements
-
-
-**3** Ventes et services de fret
-
-
-**4** Finances et comptabilité
-
-
-**5** Opérations aériennes
-
-
-**6** Achats et installations
-
-
-**7** Services à la clientèle — Région de l’Ouest — (Thunder Bay et l’Ouest)
-
-
-**8** Services à la clientèle — Région centrale — (l’Ontario jusqu’à Thunder Bay)
-
-
-**9** Services à la clientèle — Région de l’Est — (le Québec et l’Est)
-
-
-**10** Entretien — Québec et provinces de l’Atlantique
-
-
-**11** Entretien — Ontario
-
-
-**12** Entretien — Alberta, Saskatchewan, Manitoba, Yukon, Territoires du Nord-Ouest et Nunavut
-
-
-**13** Entretien — Colombie-Britannique
-
-
-**14** Service en vol — Ouest canadien (Thunder Bay et l’Ouest)
-
-
-**15** Service en vol — Est du Canada (l’Est jusqu’à Thunder Bay)
-
-
-**16** Ressources humaines et services administratifs
-
-
-**17** Centre de contrôle des opérations du système
-
-
-**18** Commercialisation et ventes
-
+## [Abrogée, DORS/2014-305, art. 10]
 
 
 **PARTIE VI** 
@@ -4726,7 +4644,7 @@ Employés cadres
 
 
 
-> DORS/79-309, art. 7; DORS/89-118, art. 1; DORS/89-464, art. 1; DORS/91-461, art. 36; DORS/94-668, art. 13; DORS/99-337, art. 2; DORS/2006-231, art. 3 et 4.
+> DORS/79-309, art. 7; DORS/89-118, art. 1; DORS/89-464, art. 1; DORS/91-461, art. 36; DORS/94-668, art. 13; DORS/99-337, art. 2; DORS/2006-231, art. 3 et 4; DORS/2014-305, art. 7, 8(F), 9(F) et 10.
 
 
 
@@ -4738,8 +4656,6 @@ La partie III du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Ca
 
 
 Ces normes visent notamment les questions suivantes :
-
-
 <table>
 <tr>
 <td>**La durée du travail**</td>
@@ -4770,12 +4686,20 @@ Ces normes visent notamment les questions suivantes :
 <td>**Les licenciements individuels**</td>
 </tr>
 <tr>
-<td>**Les licenciements collectifs**</td>
+<td>**Le congé en cas de maladie grave**</td>
 <td>**Le congédiement injuste**</td>
 </tr>
 <tr>
-<td>**L’indemnité de départ**</td>
+<td>**Le congé en cas de décès ou de disparition**</td>
 <td>**La saisie-arrêt**</td>
+</tr>
+<tr>
+<td>**Les licenciements collectifs**</td>
+<td></td>
+</tr>
+<tr>
+<td>**L’indemnité de départ**</td>
+<td></td>
 </tr>
 <tr>
 <td>**Le harcèlement sexuel**</td>
@@ -4791,6 +4715,8 @@ Ces normes visent notamment les questions suivantes :
 </tr>
 </table>
 
+
+
 Pour de plus amples renseignements sur ces normes, veuillez communiquer avec le bureau du Programme du travail, Ministère de l’Emploi et du Développement social, ou consultez le site Web
 
 
@@ -4800,7 +4726,7 @@ http://www.rhdcc.gc.ca/fr/passerelles/topiques/lxn-gxr.shtml
 Les demandes de renseignements seront traitées de façon confidentielle.
 
 
-> DORS/91-461, art. 36; DORS/94-668, art. 14; DORS/2006-231, art. 5; DORS/2009-194, art. 4; 2013, ch. 40, art. 237.
+> DORS/91-461, art. 36; DORS/94-668, art. 14; DORS/2006-231, art. 5; DORS/2009-194, art. 4; 2013, ch. 40, art. 237; DORS/2014-305, art. 11.
 
 
 
@@ -4840,11 +4766,7 @@ Heures de travail hebdomadaires
 **h)** Lorsqu’il y a un jour férié ou plus dans une semaine, la durée hebdomadaire du travail est réduite de : _________________________
 
 
-**i)** Nombre de jours pour lesquels l’employé a droit à son salaire dans les 30 jours précédant un jour férié, qui lui donne droit à un jour férié payé : _________________________
-
-(*Le nombre de jours mentionné à l’alinéa i) doit être égal au nombre de jours de travail à l’horaire multiplié par trois et divisé par le nombre de semaines à l’horaire*)
-
-
+**i)** [Abrogé, DORS/2014-305, art. 12]
 
 
 **j)** Durée maximale du travail :
@@ -4872,14 +4794,16 @@ hebdomadaire _________________________
 
 **Note :**
 
-
 **1** **Les heures de travail qui sont effectuées au-delà des heures journalières énoncées à l’alinéa d) et qui excèdent la moyenne hebdomadaire de 40 heures au cours de l’horaire de travail sont payées au taux de rémunération des heures supplémentaires.**
 
 
-**2** **Cet horaire de travail est affiché conformément aux paragraphes 170(3) et 172(3) du Code canadien du travail. Ces dispositions exigent qu’un avis de l’horaire proposé doit être affiché pendant au moins trente jours avant sa prise d’effet et que l’employeur ainsi qu’au moins 70 % des employés concernés doivent l’approuver. Le paragraphe 5(2) du Règlement du Canada sur les normes du travail exige que les renseignements relatifs à l’horaire de travail modifié soient affichés en permanence durant la période de validité de cet horaire.**
+
+**2** **Cet horaire de travail est affiché conformément aux articles 170 et 172 du Code canadien du travail. Ces dispositions exigent qu’un avis de l’horaire proposé doit être affiché pendant au moins trente jours avant sa prise d’effet et que l’employeur ainsi qu’au moins 70 % des employés concernés doivent l’approuver. Le paragraphe 5(2) du Règlement du Canada sur les normes du travail exige que les renseignements relatifs à l’horaire de travail modifié soient affichés en permanence durant la période de validité de cet horaire.**
 
 
-> DORS/94-668, art. 15.
+
+
+> DORS/94-668, art. 15; DORS/2014-305, art. 12 et 13.
 
 
 
