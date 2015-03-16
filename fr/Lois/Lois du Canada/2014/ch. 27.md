@@ -37,7 +37,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***arme à sous-munitions*** Munition classique conçue pour disperser ou libérer des sous-munitions explosives. Ne sont pas visées par la présente définition :
+***arme à sous-munitions*** Munition classique conçue pour disperser ou libérer des sous-munitions explosives. Ne sont pas visées par la présente définition :
 - **a)** les munitions conçues pour disperser ou libérer des fusées éclairantes ou des pièces pyrotechniques;
 - **b)** les munitions conçues pour produire, disperser ou libérer de la fumée ou des leurres;
 - **c)** les munitions conçues pour produire des effets électriques ou électroniques;
@@ -46,15 +46,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(i)** elle pèse plus de quatre kilogrammes,
 	- **(ii)** elle est conçue pour détecter et attaquer une cible constituée d’un objet unique,
 	- **(iii)** elle est munie d’un mécanisme électronique d’autodestruction et d’un dispositif électronique d’autodésactivation;
-- **f)** les mines au sens de l’article 2 de la [Loi de mise en oeuvre de la Convention sur les mines antipersonnel](/fr/Lois/Lois%20du%20Canada/1997/ch.%2033.md).
+- **f)** les mines au sens de l’article 2 de la [Loi de mise en oeuvre de la Convention sur les mines antipersonnel](/fr/Lois/Lois%20du%20Canada/1997/ch.%2033.md). (*cluster munition*)
 
-***Convention*** La Convention sur les armes à sous-munitions, faite à Dublin le 30 mai 2008, dans sa version éventuellement modifiée et en vigueur pour le Canada, dont le texte figure à l’annexe.
+***Convention*** La Convention sur les armes à sous-munitions, faite à Dublin le 30 mai 2008, dans sa version éventuellement modifiée et en vigueur pour le Canada, dont le texte figure à l’annexe. (*Convention*)
 
-***munition classique*** Ne vise pas les armes nucléaires, radiologiques, chimiques, biologiques ou à toxines.
+***munition classique*** Ne vise pas les armes nucléaires, radiologiques, chimiques, biologiques ou à toxines. (*conventional munition*)
 
-***personne*** Personne physique, ou organisation au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+***personne*** Personne physique, ou organisation au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*person*)
 
-***petite bombe explosive*** Toute munition classique pesant moins de vingt kilogrammes qui, d’une part, n’est pas auto-propulsée et est dispersée ou libérée, pour pouvoir remplir sa fonction, à partir d’un conteneur fixé à un aéronef et, d’autre part, est conçue pour détoner avant ou après l’impact ou au moment de celui-ci. Ne sont pas visées par la présente définition :
+***petite bombe explosive*** Toute munition classique pesant moins de vingt kilogrammes qui, d’une part, n’est pas auto-propulsée et est dispersée ou libérée, pour pouvoir remplir sa fonction, à partir d’un conteneur fixé à un aéronef et, d’autre part, est conçue pour détoner avant ou après l’impact ou au moment de celui-ci. Ne sont pas visées par la présente définition :
 - **a)** les fusées éclairantes, les pièces pyrotechniques et les munitions conçues pour produire, disperser ou libérer de la fumée ou des leurres;
 - **b)** les munitions conçues pour produire des effets électriques ou électroniques;
 - **c)** les munitions conçues exclusivement à des fins de défense antiaérienne;
@@ -62,9 +62,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(i)** elle pèse plus de quatre kilogrammes,
 	- **(ii)** elle est conçue pour détecter et attaquer une cible constituée d’un objet unique,
 	- **(iii)** elle est munie d’un mécanisme électronique d’autodestruction et d’un dispositif électronique d’autodésactivation;
-- **e)** les mines au sens de l’article 2 de la [Loi de mise en oeuvre de la Convention sur les mines antipersonnel](/fr/Lois/Lois%20du%20Canada/1997/ch.%2033.md).
+- **e)** les mines au sens de l’article 2 de la [Loi de mise en oeuvre de la Convention sur les mines antipersonnel](/fr/Lois/Lois%20du%20Canada/1997/ch.%2033.md). (*explosive bomblet*)
 
-***sous-munition explosive*** Toute munition classique pesant moins de vingt kilogrammes et qui, pour remplir sa fonction, est dispersée ou libérée à partir d’une autre munition classique et est conçue pour détoner avant ou après l’impact ou au moment de celui-ci. Ne sont pas visées par la présente définition :
+***sous-munition explosive*** Toute munition classique pesant moins de vingt kilogrammes et qui, pour remplir sa fonction, est dispersée ou libérée à partir d’une autre munition classique et est conçue pour détoner avant ou après l’impact ou au moment de celui-ci. Ne sont pas visées par la présente définition :
 - **a)** les fusées éclairantes, les pièces pyrotechniques et les munitions conçues pour produire, disperser ou libérer de la fumée ou des leurres;
 - **b)** les munitions conçues pour produire des effets électriques ou électroniques;
 - **c)** les munitions conçues exclusivement à des fins de défense antiaérienne;
@@ -72,9 +72,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(i)** elle pèse plus de quatre kilogrammes,
 	- **(ii)** elle est conçue pour détecter et attaquer une cible constituée d’un objet unique,
 	- **(iii)** elle est munie d’un mécanisme électronique d’autodestruction et d’un dispositif électronique d’autodésactivation;
-- **e)** les mines au sens de l’article 2 de la [Loi de mise en oeuvre de la Convention sur les mines antipersonnel](/fr/Lois/Lois%20du%20Canada/1997/ch.%2033.md).
+- **e)** les mines au sens de l’article 2 de la [Loi de mise en oeuvre de la Convention sur les mines antipersonnel](/fr/Lois/Lois%20du%20Canada/1997/ch.%2033.md). (*explosive submunition*)
 
-***utilisation*** Le fait de faire exploser une arme à sous-munitions, une sous-munition explosive ou une petite bombe explosive, de la laisser tomber, de la lancer, de la projeter, de la disperser, de la libérer ou de la déclencher de toute autre façon à des fins de détonation.
+***utilisation*** Le fait de faire exploser une arme à sous-munitions, une sous-munition explosive ou une petite bombe explosive, de la laisser tomber, de la lancer, de la projeter, de la disperser, de la libérer ou de la déclencher de toute autre façon à des fins de détonation. (*use*)
 
 
 
@@ -328,7 +328,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_IndA858_hq_14779'>[*]</a></sup>**24** Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_IndA858_hq_14779'><sup>*</sup></a>: [Note : Loi non en vigueur.]<br />
+<a name='fn_IndA858_hq_14779'><sup>*</sup></a>: [Note : Loi en vigueur le 16 mars 2015, *voir* TR/2015-22.]<br />
 
 
 
