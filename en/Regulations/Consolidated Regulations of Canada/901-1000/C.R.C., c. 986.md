@@ -223,7 +223,7 @@ the hours of work of each of those employees in a day and in a week may be calcu
 - **(4)** An employer shall pay vacation pay to an employee who is entitled to an annual vacation with vacation pay
 	- **(a)** within the 14 days before the beginning of the vacation; or
 	- **(b)** on the regular pay day during or immediately following the vacation where it is not practicable to comply with paragraph (a) or where it is an established practice in the industrial establishment in which the employee is employed to pay vacation pay on the regular pay day during or immediately following the vacation.
-> SOR/94-668, s. 5; SOR/2002-113, s. 4(E).
+> SOR/94-668, s. 5; SOR/2002-113, s. 4(E); SOR/2014-305, s. 1(F).
 
 
 
@@ -269,18 +269,18 @@ the hours of work of each of those employees in a day and in a week may be calcu
 ## Regular Rate of Wages for Purposes of General Holidays and Bereavement Leave
 
 
-**17** For the purposes of subsections 196(2) and (3) and 210(2) of the Act, the regular rate of wages of an employee whose hours of work differ from day to day or who is paid on a basis other than time shall be
-- **(a)** the average of the employee’s daily earnings exclusive of overtime for the 20 days the employee has worked immediately preceding a general holiday or the first day of bereavement leave; or
+**17** For the purposes of subsection 210(2) of the Act, the regular rate of wages of an employee whose hours of work differ from day to day or who is paid on a basis other than time shall be
+- **(a)** the average of the employee’s daily earnings exclusive of overtime hours for the 20 days the employee has worked immediately preceding the first day of bereavement leave; or
 - **(b)** an amount calculated by a method agreed on under or pursuant to a collective agreement that is binding on the employer and the employee.
-> SOR/79-309, s. 1; SOR/91-461, s. 15.
+> SOR/79-309, s. 1; SOR/91-461, s. 15; SOR/2014-305, s. 2.
 
 
 
 
-**18** For the purposes of section 197 and paragraph 198(a) of the Act, where the hours of work of an employee whose wages are calculated on a daily or hourly basis differ from day to day, or where the employee’s wages are calculated on a basis other than time, the regular rate of wages for a holiday shall be
+**18** For the purposes of section 197 of the Act, if the hours of work of an employee whose wages are calculated on a daily or hourly basis differ from day to day, or if the employee’s wages are calculated on a basis other than time, the regular rate of wages for a general holiday shall be
 - **(a)** the average of his daily earnings exclusive of overtime for the 20 days he has worked immediately preceding the holiday; or
 - **(b)** an amount calculated by a method agreed upon under or pursuant to a collective agreement that is binding on the employer and the employee.
-> SOR/79-309, s. 2; SOR/91-461, s. 16.
+> SOR/79-309, s. 2; SOR/91-461, s. 16; SOR/2014-305, s. 3.
 
 
 
@@ -307,7 +307,7 @@ the hours of work of each of those employees in a day and in a week may be calcu
 
 ***multi-employer unit*** means an association of employers designated by the Minister as a multi-employer unit. (*groupe de plusieurs employeurs*)
 
-- **(2)** When an employee of an employer who is a member of a multi-employer unit is entitled to wages for multi-employer employment for at least 15 days or 120 hours of work in the 30 calendar days immediately preceding a general holiday, the employee is entitled to and shall be paid by the multi-employer unit an amount of not less than eight times his basic hourly wage rate for such employment.
+- **(2)** When an employee of an employer who is a member of a multi-employer unit is entitled to wages for multi-employer employment, the employee is entitled to and shall be paid by the multi-employer unit an amount equal to their basic rate of wages multiplied by one twentieth of the hours, exclusive of overtime hours, that they worked in the four-week period immediately preceding the week in which a general holiday occurs.
 
 - **(3)** Where an employee is employed by an employer who is not a member of a multi-employer unit, the employee is entitled to and shall be paid, on each pay day, in lieu of general holidays, an amount equal to three and one-half per cent of his basic rate of wages multiplied by the number of hours worked by the employee for that employer in the pay period for which he is paid on that pay day.
 
@@ -317,8 +317,8 @@ the hours of work of each of those employees in a day and in a week may be calcu
 	- **(a)** the association has set up and administers a central pay office to record the employment of the employees of the employers who are members of the association and to pay wages to such employees on behalf of their employers; and
 	- **(b)** the Minister is satisfied that the central pay office so set up by the association of employers is authorized to collect from each of the members of the association and pay out on their behalf to their employees the pay required to be paid to those employees pursuant to this section.
 
-- **(6)** For the purposes of section 206, subsections 210(2), 230(1) and 235(1), paragraphs 239(1)(a) and 240(1)(a) and section 247.5 of the Act, if an employee is engaged in multi-employer employment, that employee is deemed to be continuously employed.
-> SOR/78-560, s. 3; SOR/81-473, s. 1; SOR/91-461, s. 18; SOR/2002-113, s. 5; SOR/2009-194, s. 1.
+- **(6)** For the purposes of paragraph 206(1)(a), subsections 206.1(1), 206.4(2), 206.5(2) and (3), 210(2), 230(1) and 235(1), paragraphs 239(1)(a) and 240(1)(a) and subsection 247.5(1) of the Act, if an employee is engaged in multi-employer employment, that employee is deemed to be continuously employed.
+> SOR/78-560, s. 3; SOR/81-473, s. 1; SOR/91-461, s. 18; SOR/2002-113, s. 5; SOR/2009-194, s. 1; SOR/2014-305, s. 4.
 
 
 
@@ -331,12 +331,12 @@ the hours of work of each of those employees in a day and in a week may be calcu
 
 - **(1)** Subject to subsections (2) and (3), for the purposes of calculating and determining the regular hourly rate of wages of employees who are paid on any basis of time other than hourly, an employer shall divide the wages paid for work performed by the number of hours required to perform the work.
 
-- **(2)** The regular hourly rate of wages for the purposes of sections 174, 197, 198 and 202 of the Act may be the rate agreed on under or pursuant to a collective agreement that is binding on the employer and the employee.
+- **(2)** The regular hourly rate of wages for the purposes of section 174 and subsections 197(1) and (3) and 205(2) of the Act may be the rate agreed on under a collective agreement that is binding on the employer and the employee.
 
 - **(3)** For the purposes of subsection (1),
 	- **(a)** the wages paid for work performed do not include vacation pay, general holiday pay, other holiday pay, bereavement leave pay and wages paid for any hours of overtime; and
 	- **(b)** the number of hours required to perform the work does not include hours for which an overtime rate of wages has been paid.
-> SOR/79-309, s. 3; SOR/91-461, s. 19.
+> SOR/79-309, s. 3; SOR/91-461, s. 19; SOR/2014-305, s. 5.
 
 
 
@@ -395,10 +395,13 @@ the hours of work of each of those employees in a day and in a week may be calcu
 	- **(g)** the dates of commencement and termination of annual vacations, and the year of employment in respect of which each such vacation is given;
 	- **(g.1)** any written agreement between the employer and the employee to postpone or waive the employee’s entitlement to annual vacation pursuant to subsection 14(1);
 	- **(g.2)** where the employer determines a year of employment pursuant to paragraph (b) of the definition “year of employment” in section 183 of the Act, any notice provided to employees pursuant to section 12;
-	- **(h)** the dates of commencement and termination of any leave granted to the employee under Division VII of the Act, a copy of any notice concerning the leave and any medical certificate submitted by the employee in respect of that leave;
+	- **(h)** with respect to any leave granted to the employee under Division VII of the Act,
+		- **(i)** the dates of commencement and termination, and of any interruption, of the leave,
+		- **(ii)** a copy of any notice concerning the leave or any interruption of the leave, and
+		- **(iii)** a copy of any medical certificate submitted by the employee in respect of the leave or interruption;
 	- **(h.1)** the dates of commencement and termination of any job modification or reassignment of the employee provided pursuant to Division VII of the Act and a copy of any notice provided by the employer concerning the job modification or reassignment;
 	- **(i)** any general holiday or other holiday with pay granted to the employee pursuant to Division V of the Act, any notice of substitution of a general holiday required to be posted pursuant to section 195 of the Act, and, in respect of employees not subject to a collective agreement, proof of agreement for the substitution of a general holiday by at least 70 per cent of affected employees;
-	- **(j)** where hours of work are averaged pursuant to section 6, any notice concerning the averaging of hours of work, details of any reductions in the standard and maximum hours of work made pursuant to subsections 6(7), (8) and (9), and the number of hours for which the employee was entitled to be paid at the overtime rate of wages established by section 174 of the Act;
+	- **(j)** when hours of work are averaged under section 6, any notice concerning the averaging of hours of work, details of any reductions in the standard and maximum hours of work made under subsections 6(7), (8) and (9) and the number of hours for which the employee was entitled to be paid at the overtime rate of wages established under section 174 of the Act;
 	- **(k)** the employer’s pay periods;
 	- **(l)** a copy of any medical certificate provided in respect of sick leave and any request made for the certificate by the employer in accordance with paragraph 239(1)(c) of the Act, and any notice of termination of employment or intention to terminate employment given in accordance with Division IX or X of the Act;
 	- **(m)** the dates of any bereavement leave granted to an employee pursuant to Division VIII of the Act;
@@ -416,8 +419,8 @@ the hours of work of each of those employees in a day and in a week may be calcu
 	- **(b)** a copy of any certificate of a qualified medical practitioner indicating that the employee is fit to return to work; and
 	- **(c)** the date the employee returned to work, or a copy of any notification from the employer to the employee and any trade union representing the employee that return to work was not reasonably practicable and the reasons why it was not.
 
-- **(5)** An employer shall preserve the confidentiality of any certificate of a qualified medical practitioner provided to the employer concerning an employee.
-> SOR/78-560, s. 4; SOR/91-461, s. 21; SOR/94-668, s. 7; SOR/2009-194, s. 2.
+- **(5)** [Repealed, SOR/2014-305, s. 6]
+> SOR/78-560, s. 4; SOR/91-461, s. 21; SOR/94-668, s. 7; SOR/2009-194, s. 2; SOR/2014-305, s. 6.
 
 
 
@@ -815,6 +818,10 @@ Administration
 
 
 **5** General Yard Office
+
+Port Coquitlam Operation
+
+
 
 Port Coquitlam, British Columbia
 
@@ -3864,96 +3871,7 @@ Administrative Support Staff
 
 
 **PART V** 
-## Canadian Airlines International
-
-
-### Industrial Establishments
-
-**1** Corporate Headquarters
-
-Group Vice-President and Vice-Presidents — Operations
-
-
-
-Group Vice-President and Vice-Presidents — Human Resources
-
-
-
-Vice-President, Scheduling and Planning
-
-
-
-Senior Vice-President and Vice-Presidents — International Group
-
-
-
-Vice-President and Vice-Presidents — Marketing and Sales
-
-
-
-Vice-Presidents, Commercial Services
-
-
-
-Vice-President and Comptroller
-
-
-
-Administrative Support Staff
-
-
-
-
-**2** Information Services
-
-
-**3** Cargo Sales and Service
-
-
-**4** Finance and Accounting
-
-
-**5** Flight Operations
-
-
-**6** Purchasing and Facilities
-
-
-**7** Customer Services — Western Region (Thunder Bay and West)
-
-
-**8** Customer Services — Central Region (Ontario up to Thunder Bay)
-
-
-**9** Customer Services — Eastern Region (Quebec and East)
-
-
-**10** Maintenance — Quebec and Atlantic Provinces
-
-
-**11** Maintenance — Ontario
-
-
-**12** Maintenance — Alberta, Saskatchewan, Manitoba, Yukon, Northwest Territories and Nunavut
-
-
-**13** Maintenance — British Columbia
-
-
-**14** In-flight Service — Western Canada (Thunder Bay and West)
-
-
-**15** In-flight Service — Eastern Canada (East up to Thunder Bay)
-
-
-**16** Human Resources and Administrative Services
-
-
-**17** System Operations Control Centre
-
-
-**18** Marketing and Sales
-
+## [Repealed, SOR/2014-305, s. 10]
 
 
 **PART VI** 
@@ -4796,7 +4714,7 @@ Management Employees
 
 
 
-> SOR/79-309, s. 7; SOR/89-118, s. 1; SOR/89-464, s. 1; SOR/91-461, s. 36; SOR/94-668, s. 13; SOR/99-337, s. 2; SOR/2006-231, ss. 3, 4.
+> SOR/79-309, s. 7; SOR/89-118, s. 1; SOR/89-464, s. 1; SOR/91-461, s. 36; SOR/94-668, s. 13; SOR/99-337, s. 2; SOR/2006-231, ss. 3, 4; SOR/2014-305, ss. 7, 8(F), 9(F), 10.
 
 
 
@@ -4808,8 +4726,6 @@ Part III of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L
 
 
 These provisions include standards relating to the following:
-
-
 <table>
 <tr>
 <td>**Hours of work**</td>
@@ -4840,12 +4756,20 @@ These provisions include standards relating to the following:
 <td>**Individual termination of employment**</td>
 </tr>
 <tr>
-<td>**Group termination of employment**</td>
+<td>**Leave related to critical illness**</td>
 <td>**Unjust dismissal**</td>
 </tr>
 <tr>
-<td>**Severance pay**</td>
+<td>**Leave related to death or disappearance**</td>
 <td>**Garnishment of wages**</td>
+</tr>
+<tr>
+<td>**Group termination of employment**</td>
+<td></td>
+</tr>
+<tr>
+<td>**Severance pay**</td>
+<td></td>
 </tr>
 <tr>
 <td>**Sexual harassment**</td>
@@ -4861,6 +4785,8 @@ These provisions include standards relating to the following:
 </tr>
 </table>
 
+
+
 For more information concerning these provisions, please contact your nearest Labour Program office of the Department of Employment and Social Development or visit the Web site address:
 
 
@@ -4870,7 +4796,7 @@ http://www.hrsdc.gc.ca/en/gateways/topics/lxn-gxr.shtml
 All inquiries will be treated confidentially.
 
 
-> SOR/91-461, s. 36; SOR/94-668, s. 14; SOR/2006-231, s. 5; SOR/2009-194, s. 4; 2013, c. 40, s. 237.
+> SOR/91-461, s. 36; SOR/94-668, s. 14; SOR/2006-231, s. 5; SOR/2009-194, s. 4; 2013, c. 40, s. 237; SOR/2014-305, s. 11.
 
 
 
@@ -4910,11 +4836,7 @@ in each work week
 **(h)** Where one or more general holidays occur in a week, the weekly standard hours shall be reduced by: _________________________
 
 
-**(i)** The number of days for which the employee is entitled to wages in the 30 days preceding a holiday in order to qualify for general holiday pay: _________________________
-
-(*The number of days in paragraph (i) must be equal to the number of work days in the work schedule multiplied by three and divided by the number of weeks in the schedule*)
-
-
+**(i)** [Repealed, SOR/2014-305, s. 12]
 
 
 **(j)** The maximum number of hours that may be worked:
@@ -4942,14 +4864,16 @@ in a work schedule _________________________
 
 **Note:**
 
-
 **1** **Any hours worked in excess of the daily hours of work set out in paragraph (d) and in excess of a weekly average of 40 hours over the work schedule are payable at the overtime rate.**
 
 
-**2** **This work schedule is posted in accordance with subsections 170(3) and 172(3) of the Canada Labour Code. These require that notice of the work schedule be posted for at least 30 days prior to its coming into effect and that the employer and 70% of affected employees agree to the schedule. Subsection 5(2) of the Canada Labour Standards Regulations requires that details of the work schedule be posted and kept posted as long as the modified work schedule is in effect.**
+
+**2** **This work schedule is posted in accordance with sections 170 and 172 of the Canada Labour Code. These require that notice of the work schedule be posted for at least 30 days prior to its coming into effect and that the employer and 70% of affected employees agree to the schedule. Subsection 5(2) of the Canada Labour Standards Regulations requires that details of the work schedule be posted and kept posted as long as the modified work schedule is in effect.**
 
 
-> SOR/94-668, s. 15.
+
+
+> SOR/94-668, s. 15; SOR/2014-305, ss. 12, 13.
 
 
 
