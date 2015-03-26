@@ -55,6 +55,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_IndA7C4_hq_14165'>[*]</a></sup>**3** La présente loi entre en vigueur à la date fixée par décret.
 
-<a name='fn_IndA7C4_hq_14165'><sup>*</sup></a>: [Note : Loi non en vigueur.]<br />
+<a name='fn_IndA7C4_hq_14165'><sup>*</sup></a>: [Note : Loi en vigueur le 26 mars 2015, *voir* TR/2015-25.]<br />
 
 
