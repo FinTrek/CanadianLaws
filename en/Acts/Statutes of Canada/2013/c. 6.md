@@ -53,6 +53,6 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 <sup><a href='#fn_IndFDB4_hq_14164'>[*]</a></sup>**3** This Act comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_IndFDB4_hq_14164'><sup>*</sup></a>: [Note: Act not in force.]<br />
+<a name='fn_IndFDB4_hq_14164'><sup>*</sup></a>: [Note: Act in force March 26, 2015, *see* SI/2015-25.]<br />
 
 
