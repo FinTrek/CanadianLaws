@@ -1102,10 +1102,9 @@ that specifies the name and quantity of the narcotic to be supplied.
 - **(a)** recipients of the notice must not sell or provide a narcotic, other than a verbal prescription narcotic, to that practitioner;
 - **(b)** recipients of the notice must not sell or provide a verbal prescription narcotic to the practitioner;
 - **(c)** pharmacists practising in the notified pharmacies must not fill a prescription or order for a narcotic, other than a verbal prescription narcotic, written by that practitioner;
-- **(d)** pharmacists practising in the notified pharmacies must not fill a prescription or order for a verbal prescription narcotic from that practitioner;
-- **(e)** if that practitioner is a health care practitioner, the notified licensed producers must not sell or provide dried marihuana on the basis of a medical marihuana document provided by that practitioner; or
-- **(f)** if that practitioner is a health care practitioner, the notified licensed producers must not sell or provide dried marihuana on the basis of an authorization to possess issued under the [Marihuana Medical Access Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2001/227.md) on the basis of a medical declaration made under those Regulations by that practitioner.
-- **(g)** [Repealed, SOR/2013-119, s. 221]
+- **(d)** pharmacists practising in the notified pharmacies must not fill a prescription or order for a verbal prescription narcotic from that practitioner; or
+- **(e)** if that practitioner is a health care practitioner, the notified licensed producers must not sell or provide dried marihuana on the basis of a medical marihuana document provided by that practitioner.
+- **(f) and (g)** [Repealed, SOR/2013-119, s. 221]
 > SOR/2003-134, s. 5; SOR/2013-119, s. 221.
 
 
@@ -1116,10 +1115,9 @@ that specifies the name and quantity of the narcotic to be supplied.
 - **(1)** In the circumstances described in subsection (2), the Minister must issue a notice to the persons and authorities specified in subsection (3) advising them that
 	- **(a)** licensed dealers and pharmacists practising in the notified pharmacies must not sell or provide to the practitioner named in the notice a narcotic other than a verbal prescription narcotic, a verbal prescription narcotic, or both;
 	- **(a.1)** if the practitioner named in the notice is a health care practitioner, the notified licensed producers must not ship dried marihuana to that practitioner;
-	- **(b)** pharmacists practising in the notified pharmacies must not fill a prescription or order from the practitioner named in the notice for a narcotic other than a verbal prescription narcotic, a verbal prescription narcotic, or both;
-	- **(c)** if the practitioner named in the notice is a health care practitioner, the notified licensed producers must not sell or provide dried marihuana on the basis of a medical marihuana document provided by that practitioner; or
-	- **(d)** if the practitioner named in the notice is a health care practitioner, the notified licensed producers must not sell or provide dried marihuana on the basis of an authorization to possess issued under the [Marihuana Medical Access Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2001/227.md) on the basis of a medical declaration made under those Regulations by that practitioner.
-	- **(e)** [Repealed, SOR/2013-119, s. 222]
+	- **(b)** pharmacists practising in the notified pharmacies must not fill a prescription or order from the practitioner named in the notice for a narcotic other than a verbal prescription narcotic, a verbal prescription narcotic, or both; or
+	- **(c)** if the practitioner named in the notice is a health care practitioner, the notified licensed producers must not sell or provide dried marihuana on the basis of a medical marihuana document provided by that practitioner.
+	- **(d) and (e)** [Repealed, SOR/2013-119, s. 222]
 
 - **(2)** The notice must be issued if the practitioner named in the notice has
 	- **(a)** made a request to the Minister in accordance with section 58 to issue the notice;
