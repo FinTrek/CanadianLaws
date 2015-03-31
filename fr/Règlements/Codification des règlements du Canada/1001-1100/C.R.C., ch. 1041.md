@@ -1097,13 +1097,18 @@ qui précise le nom et la quantité du stupéfiant demandé.
 
 
 **58** Tout praticien peut demander par écrit au ministre d’envoyer aux pharmacies, aux distributeurs autorisés et aux producteurs autorisés l’avis, donné conformément à l’article 59, les informant de tout ou partie des exigences suivantes :
-- **a)** aucun stupéfiant, autre qu’un stupéfiant d’ordonnance verbale, ne doit lui être vendu ou fourni par les destinataires de cet avis;
-- **b)** aucun stupéfiant d’ordonnance verbale ne doit lui être vendu ou fourni par les destinataires de cet avis;
-- **c)** aucune ordonnance ou commande de stupéfiant, autre qu’un stupéfiant d’ordonnance verbale, écrite par lui, ne doit être remplie par des pharmaciens exerçant dans les pharmacies ayant reçu l’avis;
-- **d)** aucune de ses ordonnances ou commandes de stupéfiant d’ordonnance verbale ne doit être remplie par des pharmaciens exerçant dans les pharmacies ayant reçu l’avis;
-- **e)** s’il est un praticien de la santé, aucun de ses documents médicaux concernant la marihuana ne doit servir à des producteurs autorisés ayant reçu l’avis pour vendre ou fournir de la marihuana séchée;
-- **f)** s’il est un praticien de la santé, aucune autorisation de possession délivrée en vertu du [Règlement sur l’accès à la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2001/227.md) sur le fondement d’une de ses déclarations médicales fournies aux termes de ce règlement ne doit servir à des producteurs autorisés ayant reçu l’avis pour vendre ou fournir de la marihuana séchée.
-- **g)** [Abrogé, DORS/2013-119, art. 221]
+- **a)
+** aucun stupéfiant, autre qu’un stupéfiant d’ordonnance verbale, ne doit lui être vendu ou fourni par les destinataires de cet avis;
+- **b)
+** aucun stupéfiant d’ordonnance verbale ne doit lui être vendu ou fourni par les destinataires de cet avis;
+- **c)
+** aucune ordonnance ou commande de stupéfiant, autre qu’un stupéfiant d’ordonnance verbale, écrite par lui, ne doit être remplie par des pharmaciens exerçant dans les pharmacies ayant reçu l’avis;
+- **d)
+** aucune de ses ordonnances ou commandes de stupéfiant d’ordonnance verbale ne doit être remplie par des pharmaciens exerçant dans les pharmacies ayant reçu l’avis;
+- **e)
+** s’il est un praticien de la santé, aucun de ses documents médicaux concernant la marihuana ne doit servir à des producteurs autorisés ayant reçu l’avis pour vendre ou fournir de la marihuana séchée.
+- **f) et g)
+** [Abrogés, DORS/2013-119, art. 221]
 > DORS/2003-134, art. 5; DORS/2013-119, art. 221.
 
 
@@ -1112,12 +1117,16 @@ qui précise le nom et la quantité du stupéfiant demandé.
 **59** 
 
 - **(1)** Dans les circonstances décrites au paragraphe (2), le ministre donne un avis aux personnes et aux autorités visées au paragraphe (3) les informant, selon le cas, que :
-	- **a)** les distributeurs autorisés et les pharmaciens qui exercent dans les pharmacies avisées ne doivent pas vendre ou fournir un praticien nommé dans l’avis tout stupéfiant autre qu’un stupéfiant d’ordonnance verbale, tout stupéfiant d’ordonnance verbale, ou les deux;
-	- **a.1)** si le praticien nommé dans l’avis est un praticien de la santé, les producteurs autorisés avisés ne doivent pas lui expédier de la marihuana séchée;
-	- **b)** les pharmaciens qui exercent dans les pharmacies avisées ne doivent pas remplir une ordonnance ou une commande, du praticien nommé dans l’avis, de stupéfiant autre qu’un stupéfiant d’ordonnance verbale, de stupéfiant d’ordonnance verbale, ou des deux;
-	- **c)** si le praticien nommé dans l’avis est un praticien de la santé, les producteurs autorisés avisés ne doivent pas vendre ou fournir de la marihuana séchée sur le fondement d’un document médical concernant la marihuana fourni par ce praticien;
-	- **d)** si le praticien nommé dans l’avis est un praticien de la santé, les producteurs autorisés avisés ne doivent pas vendre ou fournir de la marihuana séchée sur le fondement d’une autorisation de possession délivrée en vertu du [Règlement sur l’accès à la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2001/227.md) sur le fondement d’une déclaration médicale fournie par ce praticien aux termes de ce règlement.
-	- **e)** [Abrogé, DORS/2013-119, art. 222]
+	- **a)
+** les distributeurs autorisés et les pharmaciens qui exercent dans les pharmacies avisées ne doivent pas vendre ou fournir un praticien nommé dans l’avis tout stupéfiant autre qu’un stupéfiant d’ordonnance verbale, tout stupéfiant d’ordonnance verbale, ou les deux;
+	- **a.1)
+** si le praticien nommé dans l’avis est un praticien de la santé, les producteurs autorisés avisés ne doivent pas lui expédier de la marihuana séchée;
+	- **b)
+** les pharmaciens qui exercent dans les pharmacies avisées ne doivent pas remplir une ordonnance ou une commande, du praticien nommé dans l’avis, de stupéfiant autre qu’un stupéfiant d’ordonnance verbale, de stupéfiant d’ordonnance verbale, ou des deux;
+	- **c)
+** si le praticien nommé dans l’avis est un praticien de la santé, les producteurs autorisés avisés ne doivent pas vendre ou fournir de la marihuana séchée sur le fondement d’un document médical concernant la marihuana fourni par ce praticien.
+	- **d) et e)
+** [Abrogés, DORS/2013-119, art. 222]
 
 - **(2)** L’avis est donné si le praticien nommé dans l’avis se trouve dans l’une des circonstances suivantes :
 	- **a)** il a demandé au ministre de donner l’avis conformément à l’article 58;
