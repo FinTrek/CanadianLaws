@@ -388,17 +388,7 @@ shall be clean and sound.
 		- **(ii)** is exported out of Canada or sent or conveyed from one province to another
 shall be new.
 
-- **(3)** Maple syrup marked with a grade name shall be packed in a container that is of a container size set out in Schedule V.I.
-
-- **(4)** Maple sugar shall not be packed in a container for export out of Canada or for sending or conveying from one province to another unless the net weight of the sugar in the container
-	- **(a)** does not exceed 125 g; or
-	- **(b)** is equal to
-		- **(i)** 250 g,
-		- **(ii)** 375 g,
-		- **(iii)** 500 g,
-		- **(iv)** 750 g,
-		- **(v)** 1 kg, or
-		- **(vi)** any multiple of 1 kg.
+- **(3) and (4)** [Repealed, SOR/2015-78, s. 1]
 
 - **(5)** For the purposes of this section, the net quantity of maple syrup in a container shall be determined by the method described in Schedule V.
 
@@ -409,7 +399,7 @@ shall be new.
 - **(7)** Every container of maple syrup shall be capable of being securely closed by means of a screw-cap, friction lid or hermetically sealed lid, bung or similar device.
 
 - **(8) and (9)** [Revoked, SOR/81-577, s. 4]
-> SOR/81-577, s. 4; SOR/92-497, s. 1; SOR/2014-297, s. 5.
+> SOR/81-577, s. 4; SOR/92-497, s. 1; SOR/2014-297, s. 5; SOR/2015-78, s. 1.
 
 
 
@@ -518,10 +508,10 @@ shall be new.
 
 - **(1)** No person shall market in export trade any maple product unless it is packed and marked in accordance with Parts II and III.
 
-- **(2)** Despite sections 12 and 15 and subsection (1), maple syrup or any other maple product that is not packed in a container of a size prescribed by these Regulations and not marked as prescribed by these Regulations may be marketed in export trade if
+- **(2)** Despite sections 12 and 15 and subsection (1), maple syrup or any other maple product that is not marked as prescribed by these Regulations may be marketed in export trade if
 	- **(a)** the registration number issued to the operator of the packing establishment, to the sugar bush operator or to the maple syrup shipper is marked on the label of the container or appears on the bill of lading or contract of sale; and
 	- **(b)** the label or other markings on the container do not misrepresent the quality, quantity, composition, characteristics, safety or value of the maple syrup or maple product.
-> SOR/81-577, s. 5(F); SOR/89-267, s. 3; SOR/97-302, s. 6; SOR/98-154, s. 1; SOR/2000-184, s. 15; SOR/2002-354, s. 13.
+> SOR/81-577, s. 5(F); SOR/89-267, s. 3; SOR/97-302, s. 6; SOR/98-154, s. 1; SOR/2000-184, s. 15; SOR/2002-354, s. 13; SOR/2015-78, s. 2.
 
 
 
@@ -882,19 +872,7 @@ shall be new.
 
 
 ### **SCHEDULE V.I** 
-**(Subsection 10(3))**
-
-## Container Sizes for Maple Syrup
-
-- **1** 250 mL or less (sizes in whole numbers)
-- **2** 375 mL
-- **3** 500 mL
-- **4** 19 fl oz (540 mL)
-- **5** 750 mL
-- **6** 1 L
-- **7** 1.5 L
-- **8** Any whole-number multiple of 1 L
-> SOR/92-497, s. 2.
+[Repealed, SOR/2015-78, s. 3]
 
 
 
