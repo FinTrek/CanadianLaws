@@ -40,10 +40,10 @@ Enabling authorities:
 
 **5** 
 
-- **(1)** An affidavit of a debtor filed with the clerk in accordance with subsection 219(2) of the Act operates as an application for a consolidation order.
+- **(1)** An affidavit of a debtor filed with the clerk in accordance with subsection 219(2) of the Act operates as an application for a consolidation order.
 
 - **(2)** The affidavit of a debtor shall be filed in duplicate.
-> SOR/2005-168, s. 4.
+> SOR/2005-168, s. 4; SOR/2015-85, s. 1(F).
 
 
 
@@ -67,6 +67,8 @@ Enabling authorities:
 
 
 **8** The original consolidation order shall be filed with the clerk of the court in which it is made and shall bear the number of the debtor’s original affidavit.
+> SOR/2015-85, s. 2(F).
+
 
 
 
@@ -132,10 +134,10 @@ Enabling authorities:
 
 **18** 
 
-- **(1)** A registered creditor who elects to rely on their security pursuant to section 232 of the Act shall, before relying on that security, file with the clerk an affidavit as to its value and, if the security is repossessed and sold or seized and sold, disclose to the clerk whether the proceeds received from the disposal of the security are in excess of the creditor’s claim.
+- **(1)** A registered creditor who elects to rely on their security pursuant to section 232 of the Act shall, before relying on that security, file with the clerk an affidavit as to its value and, if the security is repossessed and sold or seized and sold, disclose to the clerk whether the proceeds received from the disposal of the security are in excess of the creditor’s claim.
 
-- **(2)** Where any registered creditor does not comply with the conditions set out in subsection (1), the court may direct that the security of that registered creditor be appraised by an appraiser appointed by the court.
-> SOR/2005-168, s. 8.
+- **(2)** Where any registered creditor does not comply with the conditions set out in subsection (1), the court may direct that the security of that registered creditor be appraised by an appraiser appointed by the court.
+> SOR/2005-168, s. 8; SOR/2015-85, s. 3(F).
 
 
 
@@ -628,7 +630,7 @@ _________________________ Debtor
 
 
 
-TAKE NOTICE that the above named person has applied for a consolidation order under the Orderly Payment of Debts provisions of Part X of the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) and has, by affidavit filed in this court, given the following information:
+TAKE NOTICE that the above named person has applied for a consolidation order under the Orderly Payment of Debts provisions of Part X of the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) and has, by affidavit filed in this court, given the following information:
 <table>
 <tr>
 <th>Creditors of the Debtor</th>
@@ -1090,7 +1092,7 @@ determining the objection of
 
 
 
-**(c)** to the method of payment of the claims by the debtor; or
+**(c)** to the method of payment of the claims by the debtor; or
 
 
 
@@ -1495,7 +1497,7 @@ Creditor.
 ### **FORM 11** 
 **(Subsections 227(1), 231(3) and 234(4) of the Act)**
 ## Orderly Payment of Debts
-(Title of Court and style of cause as in Form  5)
+(Title of Court and style of cause as in Form 5)
 
 
 To _________________________
@@ -1854,7 +1856,7 @@ Clerk of the Court
 [Repealed, SOR/89-158, s. 12]
 
 
-> SOR/89-158, ss. 11, 12; SOR/92-578, s. 8; 1992, c. 27, s. 90; SOR/2005-168, ss. 11 to 13, 14(F), 15 to 17, 18(F), 19 to 38, 41.
+> SOR/89-158, ss. 11, 12; SOR/92-578, s. 8; 1992, c. 27, s. 90; SOR/2005-168, ss. 11 to 13, 14(F), 15 to 17, 18(F), 19 to 38, 41; SOR/2015-85, s. 4(F).
 
 
 
