@@ -1173,63 +1173,8 @@ qui ont été débarrassées des entrailles, de la tête, des nageoires, des ar�
 
 
 
-**36** 
-
-- **(1)** Lorsque le poisson ou l’un des produits énumérés au tableau ci-après sont mis en conserve, ils doivent l’être dans des boîtes du format établi dans le tableau à l’égard de ce poisson ou de ce produit et le poids du contenu de chaque boîte ne doit pas être inférieur au poids net ni au poids égoutté établis dans le tableau pour cette boîte.
-#### TABLEAU
-<table>
-<tr>
-<th>Produit</th>
-<th>Format de la boîte</th>
-<th></th>
-<th>Poids net</th>
-<th>Poids égoutté</th>
-</tr>
-<tr>
-<td>1. Homard </td>
-<td>76,2 × 39,7</td>
-<td>(300 × 109<sup><a href='#footnotestar1_f'>[*]</a></sup>)</td>
-<td>—</td>
-<td>71 g</td>
-</tr>
-<tr>
-<td>87,3 × 50,8</td>
-<td>(307 × 200)</td>
-<td>—</td>
-<td>142 g</td>
-</tr>
-<tr>
-<td>108,0 × 60,3</td>
-<td>(404 × 206)</td>
-<td>—</td>
-<td>283 g</td>
-</tr>
-<tr>
-<td>2. Miettes de gades </td>
-<td>87,3 × 50,8</td>
-<td>(307 × 200)</td>
-<td>198 g</td>
-<td>184 g</td>
-</tr>
-<tr>
-<td>108,0 × 60,3</td>
-<td>(404 × 206)</td>
-<td>397 g</td>
-<td>369 g</td>
-</tr>
-</table>
-
-
-<a name='footnotestar1_f'><sup>*</sup></a>: L’encombrement est exprimé selon la méthode employée dans l’industrie; ainsi, « 109 » veut dire 1 9/16 pouce (39,7 mm).<br />
-
-- **(2)** Le président de l’Agence peut, sur demande présentée par écrit,
-	- **a)** autoriser l’usage de boîtes d’autres formats que ceux qui sont mentionnés au paragraphe (1); et
-	- **b)** établir le poids net et le poids égoutté du contenu de ces boîtes d’autres formats.
-
-- **(3)** Lorsqu’il est établi que le contenu de boîte-échantillons provenant d’un lot de conserves de homard ou de miettes de gades pèse moins que le poids net ou le poids égoutté prescrit par le présent règlement, chaque boîte du lot ou l’étiquette de chaque boîte doit être marquée clairement ainsi : « ...grammes de manque ».
-
-- **(4)** Lorsque le poids égoutté du produit, dans le cas de maquereau ou de filets de maquereau en conserve empaquetés sans addition d’eau, de saumure ou de solution vinaigrée, est inférieur à 80 pour cent de la quantité nette déclarée, la boîte ou l’étiquette de la boîte doit indiquer le poids égoutté du produit.
-> DORS/81-374, art. 5; DORS/2000-184, art. 59.
+**36** Dans le cas de maquereau ou de filets de maquereau en conserve empaquetés sans addition d’eau, de saumure ou de solution vinaigrée, si le poids égoutté du produit est inférieur à 80 pour cent de la quantité nette déclarée, la boîte ou l’étiquette de la boîte indique ce poids égoutté.
+> DORS/81-374, art. 5; DORS/2000-184, art. 59; DORS/2015-78, art. 5.
 
 
 
@@ -1522,7 +1467,7 @@ qui ont été débarrassées des entrailles, de la tête, des nageoires, des ar�
 
 **55** 
 
-- **(1)** La chair de homard, congelée ou non, additionnée de saumure, doit être emballée dans des récipients dont le format est établi à l’un des articles de la colonne I du tableau ci-après, et le poids net de la chair de homard doit être marqué sur chaque récipient ou sur chaque étiquette.
+- **(1)** [Abrogé, DORS/2015-78, art. 6]
 
 - **(2)** Chaque récipient contenant de la chair de homard non congelée et additionnée de saumure, et dont le format est établi à l’un des articles de la colonne I du tableau ci-après ne doit pas contenir moins que le poids net établi à la colonne II du tableau, en regard dudit article.
 
@@ -1571,16 +1516,12 @@ qui ont été débarrassées des entrailles, de la tête, des nageoires, des ar�
 </tr>
 </table>
 
-> DORS/81-374, art. 8.
+> DORS/81-374, art. 8; DORS/2015-78, art. 6.
 
 
 
 
-**56** Le président de l’Agence peut, sur demande présentée par écrit,
-- **a)** autoriser l’utilisation de récipients d’autres formats que ceux dont il est question au paragraphe 55(1); et
-- **b)** établir le poids net du contenu desdits récipients.
-> DORS/2000-184, art. 59.
-
+**56** [Abrogé, DORS/2015-78, art. 7]
 
 
 
