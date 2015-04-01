@@ -1173,62 +1173,8 @@ and from which all internal organs, head, fins, bones, except intramuscular or l
 
 
 
-**36** 
-
-- **(1)** Where fish listed in the table to this subsection are packed as canned fish, they shall be packed in cans having the dimensions set out in the table in respect of that fish and the contents of each can shall have not less than the net weight and drained weight set out in the table in respect of that can.
-#### TABLE
-<table>
-<tr>
-<th>Product</th>
-<th>Can Dimensions</th>
-<th>Net Weight</th>
-<th>Drained Weight</th>
-</tr>
-<tr>
-<td>1. Lobster </td>
-<td>76.2 × 39.7</td>
-<td>(300 × 109<sup><a href='#footnotestar1_e'>[*]</a></sup>)</td>
-<td>—</td>
-<td>71 g</td>
-</tr>
-<tr>
-<td>87.3 × 50.8</td>
-<td>(307 × 200)</td>
-<td>—</td>
-<td>142 g</td>
-</tr>
-<tr>
-<td>108.0 × 60.3</td>
-<td>(404 × 206)</td>
-<td>—</td>
-<td>283 g</td>
-</tr>
-<tr>
-<td>2. Chicken Haddie </td>
-<td>87.3 × 50.8</td>
-<td>(307 × 200)</td>
-<td>198 g</td>
-<td>184 g</td>
-</tr>
-<tr>
-<td>108.0 × 60.3</td>
-<td>(404 × 206)</td>
-<td>397 g</td>
-<td>369 g</td>
-</tr>
-</table>
-
-
-<a name='footnotestar1_e'><sup>*</sup></a>: Overall dimensions are expressed in the manner used in the industry, e.g. “109” means 1 9/16 inches (39.7 mm).<br />
-
-- **(2)** The President of the Agency may, upon written request,
-	- **(a)** authorize the use of can sizes other than those referred to in subsection (1); and
-	- **(b)** establish the net weight and drained weight of the contents thereof.
-
-- **(3)** Where samples from any lot of canned lobster or chicken haddie are found to contain less than the net weight or drained weight prescribed by these Regulations, each can in the lot or the label thereon shall be plainly marked with the words “Contents...grams short-weight”.
-
-- **(4)** In the case of canned mackerel or canned mackerel fillets that are packed without the addition of water, brine or vinegar solution, where the drained weight of the product is less than 80 per cent of the declared net quantity, the can or the label thereon shall show the drained weight of the product.
-> SOR/81-374, s. 5; SOR/2000-184, s. 59.
+**36** In the case of canned mackerel or canned mackerel fillets that are packed without the addition of water, brine or vinegar solution, if the drained weight of the product is less than 80 per cent of the declared net quantity, the can or the label on it shall show the drained weight of the product.
+> SOR/81-374, s. 5; SOR/2000-184, s. 59; SOR/2015-78, s. 5.
 
 
 
@@ -1521,7 +1467,7 @@ and from which all internal organs, head, fins, bones, except intramuscular or l
 
 **55** 
 
-- **(1)** Unfrozen lobster meat and frozen lobster meat to which pickle or brine has been added shall be packed in containers having the dimensions set out in an item of Column I of the table to this section, which containers shall be marked or labelled with a statement of the net weight of the lobster meat.
+- **(1)** [Repealed, SOR/2015-78, s. 6]
 
 - **(2)** Each container of unfrozen lobster meat to which pickle or brine has been added, having the dimensions set out in an item of Column I of the table to this section, shall contain not less than the net weight set out in Column II of the table opposite that item.
 
@@ -1570,16 +1516,12 @@ and from which all internal organs, head, fins, bones, except intramuscular or l
 </tr>
 </table>
 
-> SOR/81-374, s. 8.
+> SOR/81-374, s. 8; SOR/2015-78, s. 6.
 
 
 
 
-**56** The President of the Agency may, upon written request,
-- **(a)** authorize the use of container sizes other than those referred to in subsection 55(1); and
-- **(b)** establish the net weight of the contents thereof.
-> SOR/2000-184, s. 59.
-
+**56** [Repealed, SOR/2015-78, s. 7]
 
 
 
