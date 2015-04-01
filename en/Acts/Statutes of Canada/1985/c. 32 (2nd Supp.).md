@@ -528,6 +528,18 @@ The administrator shall inform the Superintendent, in the form and manner, if an
 
 - **(4.1)** The administrator shall invest the assets of a pension fund in accordance with the regulations and in a manner that a reasonable and prudent person would apply in respect of a portfolio of investments of a pension fund.
 
+**Investment choices**
+
+- **(4.2)** A pension plan may permit a member, former member, survivor or former spouse or former common law partner of a member or former member to make investment choices with respect to their account maintained in respect of a defined contribution provision or with respect to their account maintained for additional voluntary contributions.
+
+**Administrator’s duty**
+
+- **(4.3)** If a pension plan permits a member, former member, survivor or former spouse or former common law partner of a member or former member to make investment choices, the administrator must offer investment options of varying degrees of risk and expected return that would allow a reasonable and prudent person to create a portfolio of investments that is well adapted to their retirement needs.
+
+**Deemed compliance with subsection (4.1)**
+
+- **(4.4)** With respect to the account for which an investment choice is made by a member, former member, survivor or former spouse or former common law partner of a member or former member, if an administrator offers investment options in accordance with subsection (4.3) and the regulations, that administrator is deemed to comply with subsection (4.1).
+
 **Special knowledge or skill**
 
 - **(5)** Without limiting the generality of subsection (4), an administrator who in fact possesses, or by reason of profession or business ought to possess, a particular level of knowledge or skill relevant to the administration of a pension plan or pension fund shall employ that particular level of knowledge or skill in the administration of the pension plan or pension fund.
@@ -569,7 +581,7 @@ The administrator shall inform the Superintendent, in the form and manner, if an
 **Court order**
 
 - **(11)** If an administrator contravenes subsection (10), a court of competent jurisdiction may, on application by the Superintendent or any other interested person, make any order on such terms as the court considers appropriate.
-> R.S., 1985, c. 32 (2nd Supp.), s. 8; 1998, c. 12, s. 6; 2010, c. 12, s. 1791; 2012, c. 16, s. 86.
+> R.S., 1985, c. 32 (2nd Supp.), s. 8; 1998, c. 12, s. 6; 2010, c. 12, s. 1791, c. 25, s. 183; 2012, c. 16, s. 86.
 
 
 
@@ -1231,6 +1243,78 @@ The employer shall notify the Superintendent, in the form and manner, if any, th
 
 
 
+### Variable Benefit
+
+
+
+**Variable benefit**
+
+**16.2** 
+
+- **(1)** Subject to the regulations, a pension plan may provide that a member or former member who is entitled to an immediate pension benefit under subsection 16(1) or eligible to receive an immediate pension benefit under subsection 16(2) may elect to receive a variable benefit payable under a defined contribution provision.
+
+**Conditions**
+
+- **(2)** A member or former member may make the election only if
+	- **(a)** their spouse or common-law partner notifies the administrator of their consent, in the prescribed form; and
+	- **(b)** the whole of the pension plan has not been terminated at the time the election is made.
+
+**Non-application**
+
+- **(3)** Section 22 does not apply to a variable benefit.
+> 2010, c. 12, s. 1804.
+
+
+
+
+
+**Entitlement of survivor**
+
+**16.3** 
+
+- **(1)** In the case of the death of a former member who had a spouse or common-law partner at the time payment of a variable benefit referred to in subsection 16.2(1) commenced, the survivor is entitled to receive, subject to the regulations and the regulations made under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), a variable benefit payable under a defined contribution provision based on the amount remaining in the former member’s account maintained in respect of the defined contribution provision.
+
+**Designated beneficiary or estate or succession**
+
+- **(2)** If a former member dies without leaving a survivor, the amount remaining in the former member’s account maintained in respect of a defined contribution provision is to be paid, subject to the regulations made under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), to the former member’s designated beneficiary or, if there is none, to the former member’s estate or succession.
+> 2010, c. 12, s. 1804.
+
+
+
+
+
+**Transfer**
+
+**16.4** 
+
+- **(1)** At least once every year, or more frequently if the pension plan permits, a former member or their survivor may elect
+	- **(a)** to transfer the amount remaining to another pension plan, including a plan referred to in paragraph 26(5)(a) or (b), if that other plan permits;
+	- **(b)** to transfer the amount remaining to a retirement savings plan of the prescribed kind for the former member or survivor, as the case may be; or
+	- **(c)** to use the amount remaining to purchase an immediate or deferred life annuity of the prescribed kind for the former member or survivor, as the case may be.
+The former member or survivor must notify the administrator of their intention to make such an election in the prescribed form and the administrator must, without delay, take the necessary action to give effect to the notification.
+
+**Transfer in case of death**
+
+- **(2)** If the survivor notifies the administrator of their intention to do so, in the prescribed form, within 90 days after the former member’s death or, if the Superintendent allows a longer period under paragraph 28(1)(d), within 60 days after the administrator has given the written statement under that paragraph, the survivor may also
+	- **(a)** transfer the amount remaining to another pension plan, including a plan referred to in paragraph 26(5)(a) or (b), if that other plan permits;
+	- **(b)** transfer the amount remaining to a retirement savings plan of the prescribed kind for the survivor; or
+	- **(c)** use the amount remaining to purchase an immediate or deferred life annuity of the prescribed kind for the survivor.
+The administrator must, without delay, take the necessary action to give effect to the notification.
+> 2010, c. 12, s. 1804.
+
+
+
+
+
+**Cessation**
+
+**16.5** Before a pension plan ceases to provide for the payment of a variable benefit referred to in subsection 16.2(1), an administrator must offer a former member or survivor who receives that variable benefit the options referred to in subsection 16.4(1).
+> 2010, c. 25, s. 198.
+
+
+
+
+
 ### Vesting of Benefits
 
 
@@ -1496,6 +1580,10 @@ if the member or the survivor notifies the administrator of that desire, in pres
 	- **(a)** to transfer the member’s pension benefit credit or the survivor’s pension benefit credit, whichever is applicable, to another pension plan, if that other plan permits;
 	- **(b)** to transfer the member’s pension benefit credit or the survivor’s pension benefit credit, whichever is applicable, to a retirement savings plan of the prescribed kind for the member or survivor, as the case may be; or
 	- **(c)** to use the member’s pension benefit credit or the survivor’s pension benefit credit, whichever is applicable, to purchase an immediate or deferred life annuity of the prescribed kind for the member or survivor, as the case may be.
+
+**Consent**
+
+- **(2.1)** The transfer of pension benefit credit, referred to in paragraph (2)(b), may be made by a member only if the member’s spouse or common-law partner notifies the administrator, in the prescribed form, of their consent to the transfer.
 
 **Other optional provisions of plan**
 
@@ -1999,6 +2087,51 @@ the period of employment shall be deemed to include employment with both the emp
 
 
 
+## Electronic Communications
+
+
+
+**Consent and other conditions**
+
+**31.1** 
+
+- **(1)** Any requirement under this Act to provide a person with information, including information in a document, may be satisfied by the provision of an electronic document if
+	- **(a)** the addressee has consented and has designated an information system for the receipt of the electronic document;
+	- **(b)** the electronic document is provided to the designated information system; and
+	- **(c)** the information in the electronic document is accessible by the addressee and capable of being retained by the addressee, so as to be usable for subsequent reference.
+
+**Revocation of consent**
+
+- **(2)** An addressee may revoke the consent referred to in paragraph (1)(a).
+
+**Non-application**
+
+- **(3)** Subsections (1) and (2) do not apply
+	- **(a)** to any requirement under this Act to provide the Minister or the Superintendent with information;
+	- **(b)** to any requirement under this Act, imposed on the Minister or the Superintendent, to provide a person with information; or
+	- **(c)** to any requirement under this Act exempted, by regulation, from the application of those subsections.
+
+**Communications by Minister or Superintendent**
+
+- **(4)** For greater certainty, the Minister and the Superintendent may use electronic means to communicate information, including information in a document, under this Act.
+> 2010, c. 25, s. 195.
+
+
+
+
+
+**Signatures**
+
+**31.2** A requirement under this Act for a signature is satisfied in relation to an electronic document if the prescribed requirements, if any, are met and if the signature results from the use by a person of a technology or a process that permits the following to be proven:
+- **(a)** the signature resulting from the use by the person of the technology or process is unique to them;
+- **(b)** the technology or process is used by the person to incorporate, attach or associate their signature to the electronic document; and
+- **(c)** the technology or process can be used to identify its user.
+> 2010, c. 25, s. 195.
+
+
+
+
+
 ## Objections and Appeals
 
 
@@ -2275,6 +2408,7 @@ is guilty of an offence.
 	- **(j.1)** respecting the manner in which the administrator of a pension plan must deal with complaints or inquiries from members of the pension plan, former members and any other persons entitled to pension benefits under the plan;
 	- **(k)** exempting any employee or pension plan, any class of employee or pension plan or any benefit or kind of benefit under a pension plan from the application of this Act or any provision thereof;
 	- **(k.1)** respecting phased retirement benefits;
+	- **(k.2)** respecting variable benefits;
 	- **(l)** defining the term ***disability***;
 	- **(l.1)** defining the term ***normal cost*** for the purposes of paragraph 29(6)(a) and subsections 29.07(1) and 29.1(2);
 	- **(m)** respecting the meaning of ***impair the solvency*** for the purposes of section 26.1;
@@ -2291,6 +2425,12 @@ with
 		- **(iii)** respecting the negotiation process,
 		- **(iv)** respecting the determination of the day on which the negotiation period is to end, and
 		- **(v)** respecting the funding schedule, including what it may provide for and the requirements that it must meet;
+	- **(n.2)** respecting the process by which investment options are offered by an administrator and choices among those options are made;
+	- **(n.3)** respecting investment options offered by an administrator;
+	- **(n.4)** prescribing any measure necessary for the purposes of sections 31.1 and 31.2, including the time when and circumstances under which an electronic document is to be considered to have been provided or received and the place where it is considered to have been provided or received;
+	- **(n.5)** setting out the requirements under this Act to which subsections 31.1(1) and (2) do not apply;
+	- **(n.6)** authorizing the Superintendent to specify the form of any information — including information in a document — required to be provided to him or her under the regulations, as well as the manner of providing that information;
+	- **(n.7)** respecting the composition of a board of trustees or other similar body referred to in paragraph 7(1)(a);
 	- **(o)** prescribing anything that by this Act is to be prescribed; and
 	- **(p)** generally for carrying out the purposes and provisions of this Act.
 
