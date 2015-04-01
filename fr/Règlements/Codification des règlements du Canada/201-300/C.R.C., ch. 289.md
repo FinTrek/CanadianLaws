@@ -384,17 +384,7 @@ doit être propre et en bon état.
 		- **(ii)** exporté du Canada ou expédié ou transporté d’une province à l’autre
 doit être neuf.
 
-- **(3)** Le sirop d’érable portant un nom de catégorie doit être emballé dans un contenant dont le format est prévu à l’annexe V.I.
-
-- **(4)** Le poids net de sucre d’un contenant de sucre d’érable destiné à l’exportation du Canada ou à l’expédition ou au transport d’une province à l’autre doit être
-	- **a)** d’au plus 125 g; ou
-	- **b)** égal à
-		- **(i)** 250 g,
-		- **(ii)** 375 g,
-		- **(iii)** 500 g,
-		- **(iv)** 750 g,
-		- **(v)** 1 kg, ou
-		- **(vi)** un multiple de 1 kg.
+- **(3) et (4)** [Abrogés, DORS/2015-78, art. 1]
 
 - **(5)** Aux fins du présent article, la quantité nette de sirop d’érable doit être déterminée selon la méthode décrite à l’annexe V.
 
@@ -405,7 +395,7 @@ doit être neuf.
 - **(7)** Tout contenant de sirop d’érable doit pouvoir être solidement fermé au moyen d’un couvercle vissé, d’un couvercle à friction, d’un couvercle scellé hermétiquement, d’un bouchon ou de tout autre dispositif de ce genre.
 
 - **(8) et (9)** [Abrogés, DORS/81-577, art. 4]
-> DORS/81-577, art. 4; DORS/92-497, art. 1; DORS/2014-297, art. 5.
+> DORS/81-577, art. 4; DORS/92-497, art. 1; DORS/2014-297, art. 5; DORS/2015-78, art. 1.
 
 
 
@@ -514,10 +504,10 @@ doit être neuf.
 
 - **(1)** Il est interdit de commercialiser un produit de l’érable sur le marché d’exportation, à moins que ce produit ne soit emballé et marqué conformément aux parties II et III.
 
-- **(2)** Malgré les articles 12 et 15 et le paragraphe (1), il est permis de commercialiser, sur le marché d’exportation, du sirop d’érable ou tout autre produit de l’érable non emballé dans un contenant d’un format prescrit par le présent règlement et non marqué conformément à celui-ci, si les conditions suivantes sont réunies :
+- **(2)** Malgré les articles 12 et 15 et le paragraphe (1), il est permis de commercialiser, sur le marché d’exportation, du sirop d’érable ou tout autre produit de l’érable non marqué conformément au présent règlement, si les conditions ci-après sont réunies :
 	- **a)** le numéro d’agrément assigné à l’exploitant de l’établissement d’emballage, à l’exploitant de l’établissement d’une érablière ou à l’expéditeur de sirop d’érable figure soit sur l’étiquette du contenant, soit sur le connaissement ou le contrat de vente;
 	- **b)** l’étiquette ou les autres marques sur le contenant ne constituent pas une fausse déclaration quant à la qualité, la quantité, la composition, la nature, la sûreté ou la valeur du sirop d’érable ou du produit de l’érable.
-> DORS/81-577, art. 5(F); DORS/89-267, art. 3; DORS/97-302, art. 6; DORS/98-154, art. 1; DORS/2000-184, art. 15; DORS/2002-354, art. 13.
+> DORS/81-577, art. 5(F); DORS/89-267, art. 3; DORS/97-302, art. 6; DORS/98-154, art. 1; DORS/2000-184, art. 15; DORS/2002-354, art. 13; DORS/2015-78, art. 2.
 
 
 
@@ -878,19 +868,7 @@ doit être neuf.
 
 
 ### **ANNEXE V.I** 
-**(paragraphe 10(3))**
-
-## Formats des contenants de sirop d’érable
-
-- **1** 250 mL ou moins (formats en nombres entiers)
-- **2** 375 mL
-- **3** 500 mL
-- **4** 19 oz liq. (540 mL)
-- **5** 750 mL
-- **6** 1 L
-- **7** 1,5 L
-- **8** Un multiple de 1 L en nombres entiers
-> DORS/92-497, art. 2.
+[Abrogée, DORS/2015-78, art. 3]
 
 
 
