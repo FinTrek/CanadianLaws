@@ -40,10 +40,10 @@ Autorités habilitantes :
 
 **5** 
 
-- **(1)** Un affidavit déposé auprès du greffier par un débiteur en vertu du paragraphe 219(2) de la Loi constitue une demande d’ordonnance de fusion.
+- **(1)** L’affidavit produit auprès du greffier par un débiteur en application du paragraphe 219(2) de la Loi constitue une demande d’ordonnance de fusion.
 
 - **(2)** Le débiteur doit produire son affidavit en double exemplaire.
-> DORS/2005-168, art. 4.
+> DORS/2005-168, art. 4; DORS/2015-85, art. 1(F).
 
 
 
@@ -66,7 +66,9 @@ Autorités habilitantes :
 
 
 
-**8** L’ordonnance de fusion originale doit être produite entre les mains du greffier de la cour qui la rend et doit porter le numéro de l’affidavit original du débiteur.
+**8** L’ordonnance de fusion originale doit être produite auprès du greffier de la cour qui la rend et doit porter le numéro de l’affidavit original du débiteur.
+> DORS/2015-85, art. 2(F).
+
 
 
 
@@ -132,10 +134,10 @@ Autorités habilitantes :
 
 **18** 
 
-- **(1)** Lorsqu’un créancier inscrit choisit de faire appel à sa garantie en vertu de l’article 232 de la Loi, il doit, avant de faire appel à sa garantie, déposer auprès du greffier un affidavit attestant la valeur de cette garantie et, si la propriété affectée par cette garantie est remise en sa possession et vendue ou saisie et vendue, déclarer au greffier si le produit provenant de la réalisation de la garantie excède le montant de sa réclamation.
+- **(1)** Lorsqu’un créancier inscrit choisit de faire appel à sa garantie en vertu de l’article 232 de la Loi, il doit, avant de faire appel à sa garantie, produire auprès du greffier un affidavit attestant la valeur de cette garantie et, si la propriété affectée par cette garantie est remise en sa possession et vendue ou saisie et vendue, déclarer au greffier si le produit provenant de la réalisation de la garantie excède le montant de sa réclamation.
 
-- **(2)** Si un créancier inscrit ne se conforme pas aux conditions mentionnées au paragraphe (1), la cour peut ordonner que la garantie de ce créancier inscrit soit évaluée par un évaluateur nommé par la cour.
-> DORS/2005-168, art. 8.
+- **(2)** Si un créancier inscrit ne se conforme pas aux conditions mentionnées au paragraphe (1), la cour peut ordonner que la garantie de ce créancier inscrit soit évaluée par un évaluateur nommé par la cour.
+> DORS/2005-168, art. 8; DORS/2015-85, art. 3(F).
 
 
 
@@ -542,7 +544,7 @@ Je soussigné, _________________________, de _________________________, dans la 
 
 
 
-15. Les dépenses mensuelles pour mon soutien et celui des personnes à ma charge sont les suivantes :
+**15** Les dépenses mensuelles pour mon soutien et celui des personnes à ma charge sont les suivantes :
 <table>
 <tr>
 <td>Nourriture</td>
@@ -628,7 +630,7 @@ _________________________ débiteur
 
 
 
-AVIS est par les présentes donné que la personne susmentionnée a fait demande d’une ordonnance de fusion en vertu des dispositions de la partie X de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md) se rapportant au paiement méthodique des dettes et a, par affidavit déposé en cette cour, donné les renseignements suivants :
+AVIS est par les présentes donné que la personne susmentionnée a fait demande d’une ordonnance de fusion en vertu des dispositions de la partie X de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md) se rapportant au paiement méthodique des dettes et a, par affidavit produit en cette cour, donné les renseignements suivants :
 <table>
 <tr>
 <th>Créanciers du débiteur</th>
@@ -1023,7 +1025,7 @@ Vous êtes, en conséquence, requis de vous présenter
 
 
 
-**(Pour le créancier)**
+**(Pour le créancier)**
 
 Vous pouvez vous présenter
 
@@ -1069,7 +1071,7 @@ Dans l’affaire de _________________________ débiteur
 AVIS DE MOTION
 
 
-AVIS est par les présentes donné qu’une requête sera présentée par _________________________ au juge siégeant à la cour (ou le juge siégeant en chambre, ou selon le cas) au Palais de Justice dans la (le) 
+AVIS est par les présentes donné qu’une requête sera présentée par _________________________ au juge siégeant à la cour (ou le juge siégeant en chambre, ou selon le cas) au Palais de Justice dans la (le) 
 ____________________
 (ville, village, etc.) d _________________________ dans la province de _________________________ le _________________________ jour de _________________________ 20_________________________ à _________________________ heures de l’ _________________________-midi pour une ordonnance
 
@@ -1100,7 +1102,7 @@ ou pour toute autre ordonnance qui peut être équitable.
 
 
 
-(Si le greffier le requiert, ajoutez) DE PLUS, AVIS est par les présentes donné qu’à l’appui de la requête l’affidavit produit par 
+(Si le greffier le requiert, ajoutez) DE PLUS, AVIS est par les présentes donné qu’à l’appui de la requête l’affidavit produit par 
 ____________________
 (le requérant)
 
@@ -1179,7 +1181,7 @@ ____________________
 AVIS DE MOTION
 
 
-AVIS est par les présentes donné qu’une requête sera présentée par _________________________ au juge siégeant à la cour (ou juge siégeant en chambre, ou selon le cas) au Palais de Justice dans le (la) 
+AVIS est par les présentes donné qu’une requête sera présentée par _________________________ au juge siégeant à la cour (ou juge siégeant en chambre, ou selon le cas) au Palais de Justice dans le (la) 
 ____________________
 (ville, village, etc.) de _________________________ dans la province de _________________________ le _________________________ jour de _________________________ 20_________________________ à _________________________ heures de l’_________________________ midi pour une ordonnance
 
@@ -1272,7 +1274,7 @@ ____________________
 AVIS DE MOTION
 
 
-AVIS est par les présentes donné qu’une requête sera présentée par _________________________ au juge siégeant à la cour (ou le juge siégeant en chambre, ou selon le cas) au Palais de Justice dans le (la) 
+AVIS est par les présentes donné qu’une requête sera présentée par _________________________ au juge siégeant à la cour (ou le juge siégeant en chambre, ou selon le cas) au Palais de Justice dans le (la) 
 ____________________
 (ville, village, etc.) de _________________________ dans la province de _________________________ le _________________________ jour de _________________________ 20_________________________ à _________________________ heures de l’_________________________-midi pour une ordonnance
 
@@ -1313,7 +1315,7 @@ NUMÉRO DE L’ORDONNANCE DE FUSION _________________________.
 
 Sur la requête de _________________________ débiteur, et après avoir lu l’affidavit produit par le débiteur, et après avoir entendu le débiteur (et les créanciers inscrits) :
 
-IL EST ORDONNÉ (que les circonstances où se trouve le débiteur ne justifient pas la détermination immédiate de montants à être payés à la cour ou des dates de versement de ceux-ci, ou) que le débiteur verse au greffier de la cour 
+IL EST ORDONNÉ (que les circonstances où se trouve le débiteur ne justifient pas la détermination immédiate de montants à être payés à la cour ou des dates de versement de ceux-ci, ou) que le débiteur verse au greffier de la cour 
 ____________________
 (Centre)
 
@@ -1556,7 +1558,7 @@ Greffier de la cour
 DEMANDE DE CESSION
 
 
-AVIS est par les présentes donné que vous êtes requis de donner au greffier de cette cour une cession lui transférant, comme greffier de la cour, tous deniers exigibles, qui vous sont dus ou payables, ou deniers qui deviendront exigibles, dus ou payables, ou de tout montant gagné ou à être gagné par vous de _________________________
+AVIS est par les présentes donné que vous êtes requis de donner au greffier de cette cour une cession lui transférant, comme greffier de la cour, tous deniers exigibles, qui vous sont dus ou payables, ou deniers qui deviendront exigibles, dus ou payables, ou de tout montant gagné ou à être gagné par vous de _________________________
 
 
 DATÉ ce _________________________ jour de  20_________________________
@@ -1621,7 +1623,7 @@ _________________________
 AVIS DE CESSION
 
 
-AVIS est par les présentes donné que le débiteur a, par une cession effectuée le 
+AVIS est par les présentes donné que le débiteur a, par une cession effectuée le 
 ____________________
 (Date), cédé au greffier de la cour _________________________ de 
 ____________________
@@ -1733,7 +1735,7 @@ AFFIDAVIT
 
 Je soussigné, _________________________, de _________________________, dans la province de _________________________, ayant (prêté serment ou fait une déclaration solennelle), affirme que :
 
-**1** Je suis un créancier inscrit du débiteur nommé dans l’ordonnance de fusion numéro _________________________ en date du _________________________ jour de _________________________ 20_________________________ et produite en cette honorable cour.
+**1** Je suis un créancier inscrit du débiteur nommé dans l’ordonnance de fusion numéro _________________________ en date du _________________________ jour de _________________________ 20_________________________ et produite en cette honorable cour.
 
 
 
@@ -1867,7 +1869,7 @@ Greffier de la cour
 [Abrogée, DORS/89-158, art. 12]
 
 
-> DORS/89-158, art. 11 et 12; DORS/92-578, art. 8; 1992, ch. 27, art. 90; DORS/2005-168, art. 11 à 13, 14(F), 15 à 17, 18(F), 19 à 38 et 41.
+> DORS/89-158, art. 11 et 12; DORS/92-578, art. 8; 1992, ch. 27, art. 90; DORS/2005-168, art. 11 à 13, 14(F), 15 à 17, 18(F), 19 à 38 et 41; DORS/2015-85, art. 4(F).
 
 
 
