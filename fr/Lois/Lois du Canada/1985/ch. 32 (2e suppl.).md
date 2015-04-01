@@ -517,6 +517,18 @@
 
 - **(4.1)** L’administrateur doit se conformer, en matière de placement de l’actif d’un fonds de pension, au règlement et adopter la pratique qu’une personne prudente suivrait dans la gestion d’un portefeuille de placements de fonds de pension.
 
+**Choix**
+
+- **(4.2)** Le régime de pension peut permettre au participant, à l’ancien participant, au survivant ou à l’ex-époux ou ancien conjoint de fait d’un participant ou ancien participant d’effectuer des choix en matière de placement à l’égard de son compte qui a trait à une disposition à cotisations déterminées et à l’égard de son compte qui a trait aux cotisations facultatives.
+
+**Devoir de l’administrateur**
+
+- **(4.3)** Si le régime de pension permet au participant, à l’ancien participant, au survivant ou à l’ex-époux ou ancien conjoint de fait d’un participant ou ancien participant d’effectuer des choix en matière de placement, l’administrateur offre des options de placement qui comportent divers niveaux de risque et de rendement attendu et qui permettraient à une personne prudente de créer un portefeuille bien adapté à ses besoins de retraite.
+
+**Personne prudente**
+
+- **(4.4)** L’administrateur qui offre des options en matière de placement conformes au paragraphe (4.3) et aux règlements est réputé respecter le paragraphe (4.1) à l’égard du compte pour lequel un choix en matière de placement est effectué par le participant, l’ancien participant, le survivant ou l’ex-époux ou ancien conjoint de fait d’un participant ou ancien participant.
+
 **Compétences**
 
 - **(5)** L’administrateur qui a ou devrait avoir, compte tenu de sa profession ou de son entreprise, des connaissances ou aptitudes utiles en l’occurrence est tenu de les mettre en oeuvre dans la gestion du régime ou du fonds de pension.
@@ -558,7 +570,7 @@
 **Ordonnance du tribunal**
 
 - **(11)** En cas de contravention au paragraphe (10), le tribunal compétent peut, à la demande du surintendant ou de tout autre intéressé, rendre l’ordonnance qu’il estime indiquée en l’espèce.
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 8; 1998, ch. 12, art. 6; 2010, ch. 12, art. 1791; 2012, ch. 16, art. 86.
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 8; 1998, ch. 12, art. 6; 2010, ch. 12, art. 1791, ch. 25, art. 183; 2012, ch. 16, art. 86.
 
 
 
@@ -1210,6 +1222,78 @@ Il en informe le surintendant, en la forme et de la manière que ce dernier peut
 
 
 
+### Prestation variable
+
+
+
+**Prestation variable**
+
+**16.2** 
+
+- **(1)** Sous réserve des règlements, le régime de pension peut permettre au participant ou à l’ancien participant qui a droit à une prestation de pension immédiate au titre des paragraphes 16(1) ou (2) de choisir de recevoir, au titre d’une disposition à cotisations déterminées, une prestation variable.
+
+**Conditions**
+
+- **(2)** Le participant ou l’ancien participant ne peut effectuer le choix que si les conditions ci-après sont remplies :
+	- **a)** son époux ou conjoint de fait notifie à l’administrateur, en la forme réglementaire, son consentement à l’exercice du choix;
+	- **b)** au moment du choix, le régime de pension n’a pas fait l’objet d’une cessation totale.
+
+**Non-application**
+
+- **(3)** L’article 22 ne s’applique pas à la prestation variable.
+> 2010, ch. 12, art. 1804.
+
+
+
+
+
+**Droit du survivant**
+
+**16.3** 
+
+- **(1)** En cas de décès de l’ancien participant qui avait un époux ou conjoint de fait à la date du début du service de la prestation variable visée au paragraphe 16.2(1), le survivant a droit au titre de la disposition à cotisations déterminées, sous réserve des règlements et des règlements pris en vertu de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), à une prestation variable basée sur le solde du compte de l’ancien participant qui a trait à la disposition à cotisations déterminées.
+
+**Bénéficiare désigné ou succession**
+
+- **(2)** En l’absence de survivant, le solde du compte de l’ancien participant décédé qui a trait à la disposition à cotisations déterminées est versé, sous réserve des règlements pris en vertu de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), au bénéficiaire désigné. En l’absence de bénéficiaire désigné, le solde est versé à la succession.
+> 2010, ch. 12, art. 1804.
+
+
+
+
+
+**Transfert du solde du compte**
+
+**16.4** 
+
+- **(1)** L’ancien participant ou le survivant peut, une fois par année ou à la fréquence plus élevée prévue par le régime de pension, choisir :
+	- **a)** de transférer le solde du compte à un autre régime de pension, notamment un régime de pension visé au paragraphe 26(5), si l’autre régime prévoit un tel transfert;
+	- **b)** de transférer le solde du compte à un régime d’épargne-retraite prévu par règlement pour l’ancien participant ou le survivant, selon le cas;
+	- **c)** d’utiliser le solde du compte pour acheter une prestation viagère immédiate ou différée prévue par règlement pour l’ancien participant ou le survivant, selon le cas.
+L’ancien participant ou le survivant avise l’administrateur, en la forme réglementaire, de son intention et celui-ci prend sans délai les mesures voulues pour donner effet à l’avis.
+
+**Transfert après le décès**
+
+- **(2)** Le survivant peut aussi, s’il avise l’administrateur, en la forme réglementaire, de son intention dans les quatre-vingt-dix jours suivant le décès de l’ancien participant ou, si le surintendant accorde un délai supplémentaire au titre de l’alinéa 28(1)d), dans les soixante jours suivant la remise du relevé visé à cet alinéa :
+	- **a)** transférer le solde du compte à un autre régime de pension, notamment un régime de pension visé au paragraphe 26(5), si l’autre régime prévoit un tel transfert;
+	- **b)** transférer le solde du compte à un régime d’épargne-retraite prévu par règlement pour le survivant;
+	- **c)** utiliser le solde du compte pour acheter une prestation viagère immédiate ou différée prévue par règlement pour le survivant.
+L’administrateur prend sans délai les mesures voulues pour donner effet à l’avis.
+> 2010, ch. 12, art. 1804.
+
+
+
+
+
+**Cessation**
+
+**16.5** Avant que le régime de pension ne cesse de prévoir le versement des prestations variables visées au paragraphe 16.2(1), l’administrateur offre à l’ancien participant ou au survivant qui en reçoit une les choix prévus au paragraphe 16.4(1).
+> 2010, ch. 25, art. 198.
+
+
+
+
+
 ### Acquisition du droit aux prestations
 
 
@@ -1470,6 +1554,10 @@ L’administrateur prend sans délai les mesures voulues pour donner effet à l�
 	- **a)** de transférer les droits à pension du participant ou, selon le cas, ceux de son survivant à un autre régime de pension si celui-ci permet un tel transfert;
 	- **b)** de transférer les droits à pension du participant ou, selon le cas, ceux de son survivant à un régime d’épargne-retraite prévu par règlement pour le participant ou son survivant, selon le cas;
 	- **c)** d’utiliser les droits à pension du participant ou, selon le cas, ceux de son survivant pour acheter une prestation viagère immédiate ou différée prévue par règlement pour le participant ou le survivant, selon le cas.
+
+**Consentement**
+
+- **(2.1)** Le transfert de droits à pension visé à l’alinéa (2)b) ne peut être effectué par un participant que si l’époux ou le conjoint de fait de celui-ci notifie à l’administrateur, en la forme réglementaire, son consentement au transfert.
 
 **Autres dispositions optionnelles**
 
@@ -1966,6 +2054,51 @@ L’administrateur prend sans délai les mesures voulues pour donner effet à l�
 
 
 
+## Communications électroniques
+
+
+
+**Consentement et autres exigences**
+
+**31.1** 
+
+- **(1)** L’obligation, imposée sous le régime de la présente loi, de fournir à une personne une information, notamment dans un document, peut être acquittée par la fourniture d’un document électronique si les conditions suivantes sont remplies :
+	- **a)** le destinataire a donné son consentement et a désigné un système d’information pour la réception du document électronique;
+	- **b)** le document électronique est fourni au système d’information désigné;
+	- **c)** l’information contenue dans le document électronique est accessible au destinataire et peut être conservée par ce dernier pour consultation future.
+
+**Révocation du consentement**
+
+- **(2)** Le destinataire peut révoquer son consentement.
+
+**Non-application**
+
+- **(3)** Les paragraphes (1) et (2) ne s’appliquent pas :
+	- **a)** à l’obligation imposée, sous le régime de la présente loi, de fournir une information au ministre ou au surintendant;
+	- **b)** à l’obligation imposée à l’un d’eux, sous le régime de la présente loi, de fournir une information;
+	- **c)** à l’obligation soustraite, par règlement, à l’application de ces paragraphes.
+
+**Communications par le ministre ou le surintendant**
+
+- **(4)** Il est entendu que le ministre et le surintendant peuvent utiliser des moyens électroniques pour communiquer toute information, notamment dans un document, sous le régime de la présente loi.
+> 2010, ch. 25, art. 195.
+
+
+
+
+
+**Signatures**
+
+**31.2** Dans le cas où une signature est exigée sous le régime de la présente loi, la signature qui résulte de l’utilisation d’une technique ou d’un procédé satisfait à l’obligation en ce qui concerne un document électronique si les exigences réglementaires éventuellement fixées sont observées et si la technique ou le procédé permet d’établir ce qui suit :
+- **a)** la signature est propre à l’utilisateur;
+- **b)** la technique ou le procédé est utilisé pour l’incorporation, l’adjonction ou l’association de la signature au document électronique;
+- **c)** la technique ou le procédé permet d’identifier l’utilisateur.
+> 2010, ch. 25, art. 195.
+
+
+
+
+
 ## Oppositions et appels
 
 
@@ -2238,6 +2371,7 @@ L’administrateur prend sans délai les mesures voulues pour donner effet à l�
 	- **j.1)** régir la façon, pour l’administrateur, de traiter les plaintes ou demandes des participants, des anciens participants et de toute autre personne qui a droit à une prestation de pension au titre du régime de pension;
 	- **k)** exclure tout salarié, tout régime de pension, toute catégorie de salariés ou de régimes de pension ou toute prestation prévue par un régime de pension de l’application de la présente loi ou de telle de ses dispositions;
 	- **k.1)** régir les prestations de retraite progressive;
+	- **k.2)** régir les prestations variables;
 	- **l)** définir ***invalidité***;
 	- **l.1)** définir ***coûts normaux*** pour l’application de l’alinéa 29(6)a) et des paragraphes 29.07(1) et 29.1(2);
 	- **m)** définir ***risque de porter atteinte à la solvabilité*** pour l’application de l’article 26.1;
@@ -2253,6 +2387,12 @@ L’administrateur prend sans délai les mesures voulues pour donner effet à l�
 		- **(iii)** régir le processus de négociation,
 		- **(iv)** régir la fixation de la date où la période de négociation prend fin,
 		- **(v)** régir le calendrier de capitalisation, notamment ce qu’il peut prévoir et les exigences qu’il doit respecter;
+	- **n.2)** régir le processus par lequel l’administrateur offre des options en matière de placement et le processus pour effectuer des choix parmi ces options;
+	- **n.3)** régir les options en matière de placement offertes par l’administrateur;
+	- **n.4)** prévoir toute mesure utile à l’application des articles 31.1 et 31.2, notamment les circonstances — dont le moment et le lieu — dans lesquelles les documents électroniques sont réputés avoir été fournis ou reçus;
+	- **n.5)** soustraire à l’application des paragraphes 31.1(1) et (2) telle obligation, imposée sous le régime de la présente loi, de fournir une information à une personne;
+	- **n.6)** autoriser le surintendant à fixer la forme de toute information, notamment une information contenue dans un document, qui doit lui être fournie en application des règlements ainsi que la manière de fournir cette information;
+	- **n.7)** régir la composition de l’organe de gestion visé à l’alinéa 7(1)a);
 	- **o)** prendre toute autre mesure d’ordre réglementaire prévue par la présente loi;
 	- **p)** prendre toute autre mesure d’application de la présente loi.
 
