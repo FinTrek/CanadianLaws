@@ -37,33 +37,33 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** The following definitions apply in this Act.
 
-***council*** has the meaning assigned by the definition council of the band in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md).
+***council*** has the meaning assigned by the definition council of the band in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md). (*conseil*)
 
-***deputy electoral officer*** means a person so appointed in accordance with the regulations.
+***deputy electoral officer*** means a person so appointed in accordance with the regulations. (*président d’élection adjoint*)
 
-***election*** means the election of the chief and councillors of a participating First Nation, including by way of a by-election.
+***election*** means the election of the chief and councillors of a participating First Nation, including by way of a by-election. (*élection*)
 
-***elector*** means a person who is registered on a Band List, as defined in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), and
+***elector*** means a person who is registered on a Band List, as defined in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), and
 - **(a)** in relation to an election, is 18 years of age or older on the day of the election;
 - **(b)** in relation to a petition to remove from office a chief or councillor, was 18 years of age or older on the day of the election of that chief or councillor;
 - **(c)** in relation to a nomination referred to in section 9, is 18 years of age or older on the day of the nomination; or
-- **(d)** in relation to a vote on a proposed community election code referred to in paragraph 42(1)(b), is 18 years of age or older on the day of the vote.
+- **(d)** in relation to a vote on a proposed community election code referred to in paragraph 42(1)(b), is 18 years of age or older on the day of the vote. (*électeur*)
 
-***electoral officer*** means a person so appointed in accordance with the regulations.
+***electoral officer*** means a person so appointed in accordance with the regulations. (*président d’élection*)
 
-***First Nation*** has the meaning assigned by the definition band in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md).
+***First Nation*** has the meaning assigned by the definition band in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md). (*première nation*)
 
-***mail-in ballot*** means a ballot that is sent to an elector by mail or otherwise provided to an elector other than at a polling station.
+***mail-in ballot*** means a ballot that is sent to an elector by mail or otherwise provided to an elector other than at a polling station. (*bulletin de vote postal*)
 
-***member***, in relation to a participating First Nation, means a person whose name appears, or who is entitled to have their name appear, on the Band List maintained for that First Nation under section 8 of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md).
+***member***, in relation to a participating First Nation, means a person whose name appears, or who is entitled to have their name appear, on the Band List maintained for that First Nation under section 8 of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md). (*membre*)
 
-***Minister*** means the Minister of Indian Affairs and Northern Development.
+***Minister*** means the Minister of Indian Affairs and Northern Development. (*ministre*)
 
-***nomination meeting*** means a meeting held for the purpose of nominating candidates for an election.
+***nomination meeting*** means a meeting held for the purpose of nominating candidates for an election. (*assemblée de mise en candidature*)
 
-***participating First Nation*** means a First Nation that is named in the schedule.
+***participating First Nation*** means a First Nation that is named in the schedule. (*première nation participante*)
 
-***reserve*** has the same meaning as in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md).
+***reserve*** has the same meaning as in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md). (*réserve*)
 
 
 
@@ -135,7 +135,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The council of a participating First Nation is to consist of one chief and, for every 100 members of that First Nation, one councillor, but the number of councillors is not to be less than two or more than 12.
 
-**Reduction  — number of councillors**
+**Reduction — number of councillors**
 
 - **(2)** Despite subsection (1), the council may, by resolution, reduce the number of councillor positions but to not less than two. The reduction is applicable as of the next election that is not a by-election.
 
@@ -610,7 +610,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind5380_hq_13840'>[*]</a></sup>**44** The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind5380_hq_13840'><sup>*</sup></a>: [Note: Act not in force.]<br />
+<a name='fn_Ind5380_hq_13840'><sup>*</sup></a>: [Note: Act in force April 2, 2015, *see* SI/2015-27.]<br />
 
 
 
