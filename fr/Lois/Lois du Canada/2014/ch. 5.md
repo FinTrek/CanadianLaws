@@ -37,33 +37,33 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***assemblée de mise en candidature*** Assemblée visant la présentation de candidatures relativement à une élection.
+***assemblée de mise en candidature*** Assemblée visant la présentation de candidatures relativement à une élection. (*nomination meeting*)
 
-***bulletin de vote postal*** Bulletin de vote envoyé par la poste à l’électeur ou autrement remis à celui-ci ailleurs qu’au bureau de scrutin.
+***bulletin de vote postal*** Bulletin de vote envoyé par la poste à l’électeur ou autrement remis à celui-ci ailleurs qu’au bureau de scrutin. (*mail-in ballot*)
 
-***conseil*** Conseil de la bande au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
+***conseil*** Conseil de la bande au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md). (*council*)
 
-***électeur*** Personne inscrite sur une liste de bande au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) et âgée de dix-huit ans ou plus :
+***électeur*** Personne inscrite sur une liste de bande au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) et âgée de dix-huit ans ou plus :
 - **a)** s’agissant d’une élection, à la date de cette élection;
 - **b)** s’agissant d’une pétition visant la révocation d’un chef ou d’un conseiller, à la date de l’élection de ce chef ou de ce conseiller;
 - **c)** s’agissant de la présentation de candidature visée à l’article 9, à la date de cette présentation;
-- **d)** s’agissant du vote sur le projet de code électoral visé à l’alinéa 42(1)b), à la date de sa tenue.
+- **d)** s’agissant du vote sur le projet de code électoral visé à l’alinéa 42(1)b), à la date de sa tenue. (*elector*)
 
-***élection*** Élection du chef et des conseillers d’une première nation participante, notamment dans le cadre d’une élection partielle.
+***élection*** Élection du chef et des conseillers d’une première nation participante, notamment dans le cadre d’une élection partielle. (*election*)
 
-***membre*** Relativement à une première nation participante, personne dont le nom figure sur la liste de bande tenue pour cette première nation en application de l’article 8 de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), ou qui a droit à ce que son nom y figure.
+***membre*** Relativement à une première nation participante, personne dont le nom figure sur la liste de bande tenue pour cette première nation en application de l’article 8 de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), ou qui a droit à ce que son nom y figure. (*member*)
 
-***ministre*** Le ministre des Affaires indiennes et du Nord canadien.
+***ministre*** Le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
 
-***première nation*** Bande au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
+***première nation*** Bande au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md). (*First Nation*)
 
-***première nation participante*** Première nation dont le nom figure à l’annexe.
+***première nation participante*** Première nation dont le nom figure à l’annexe. (*participating First Nation*)
 
-***président d’élection*** La personne nommée à ce titre en conformité avec les règlements.
+***président d’élection*** La personne nommée à ce titre en conformité avec les règlements. (*electoral officer*)
 
-***président d’élection adjoint*** La personne nommée à ce titre en conformité avec les règlements.
+***président d’élection adjoint*** La personne nommée à ce titre en conformité avec les règlements. (*deputy electoral officer*)
 
-***réserve*** S’entend au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
+***réserve*** S’entend au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md). (*reserve*)
 
 
 
@@ -608,7 +608,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind26C6_hq_13839'>[*]</a></sup>**44** Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind26C6_hq_13839'><sup>*</sup></a>: [Note : Loi non en vigueur.]<br />
+<a name='fn_Ind26C6_hq_13839'><sup>*</sup></a>: [Note : Loi en vigueur le 2 avril 2015, *voir* TR/2015-27.]<br />
 
 
 
