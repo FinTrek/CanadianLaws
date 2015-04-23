@@ -2572,10 +2572,28 @@ but does not include a person whose only sentence is a sentence being served int
 	- **(b)** the offender’s sentence expires; or
 	- **(c)** less than four months remain to be served before the offender’s statutory release date.
 
+**Violent offender**
+
+- **(5.01)** Despite subsection (5), if the Board decides not to grant parole to an offender who has been convicted of an offence involving violence for which the offender is serving a sentence of at least two years — or a sentence that includes a sentence of at least two years for an offence involving violence — following a review under subsection (1) or section 122, or if a review is not made by virtue of subsection (2), the Board shall conduct another review within five years after the later of the day on which the review took place or was scheduled to take place and thereafter within five years after that day until
+	- **(a)** the offender is released on full parole or on statutory release;
+	- **(b)** the offender’s sentence expires; or
+	- **(c)** less than four months remain to be served before the offender’s statutory release date.
+
+**Written reasons**
+
+- **(5.02)** If the Board decides not to grant parole to an offender referred to in subsection (5.01), it shall provide the offender with written reasons for its decision.
+
 **Further review — Board terminates or cancels parole**
 
 - **(5.1)** If the Board cancels or terminates parole, it shall conduct another review within two years after the cancellation or termination and, after that date, within two years after the day on which each preceding review takes place until
 	- **(a)** the offender is released on full parole or statutory release;
+	- **(b)** the offender’s sentence expires; or
+	- **(c)** less than four months remain to be served before the offender’s statutory release date.
+
+**Violent offender**
+
+- **(5.2)** Despite subsection (5.1), if the Board cancels or terminates parole for an offender who has been convicted of an offence involving violence for which the offender is serving a sentence of at least two years — or a sentence that includes a sentence of at least two years for an offence involving violence — the Board shall conduct another review within four years after the date of cancellation or termination and, after that date, within five years after the day on which each preceding review takes place until
+	- **(a)** the offender is released on full parole or on statutory release;
 	- **(b)** the offender’s sentence expires; or
 	- **(c)** less than four months remain to be served before the offender’s statutory release date.
 
@@ -2586,7 +2604,11 @@ but does not include a person whose only sentence is a sentence being served int
 **Withdrawal of application**
 
 - **(7)** An offender may not withdraw an application for full parole within 14 days before the commencement of the review unless the withdrawal is necessary and it was not possible to withdraw it earlier due to circumstances beyond their control.
-> 1992, c. 20, s. 123; 1995, c. 42, ss. 37, 69(E); 2012, c. 1, s. 79
+
+**Definition of offence involving violence**
+
+- **(8)** In this section, ***offence involving violence*** means murder or any offence set out in Schedule I.
+> 1992, c. 20, s. 123; 1995, c. 42, ss. 37, 69(E); 2012, c. 1, s. 79; 2015, c. 11, s. 2
 
 
 
@@ -2907,6 +2929,10 @@ it may order that if the statutory release is later revoked, the offender is not
 
 - **(1)** The Board shall review every order made under subsection 130(3) within one year after the date the order was made, and thereafter within one year after the date of each preceding review while the offender remains subject to the order.
 
+**Schedule I offence**
+
+- **(1.1)** Despite subsection (1), if the order made under subsection 130(3) relates to an offender who is serving a sentence imposed for an offence set out in Schedule I whose commission caused the death of or serious harm to another person, the Board shall review the order within two years after the date the order was made, and thereafter within two years after the date of each preceding review while the offender remains subject to the order.
+
 **Board to inquire**
 
 - **(2)** The Board shall cause such inquiries to be conducted in connection with each review under subsection (1) as it considers necessary to determine whether there is sufficient new information concerning the offender to justify modifying the order or making a new order.
@@ -2929,7 +2955,7 @@ it may order that if the statutory release is later revoked, the offender is not
 **Designation**
 
 - **(5)** The Commissioner may designate penitentiaries for the purposes of orders made under subparagraph (3)(a)(ii).
-> 1992, c. 20, s. 131; 1995, c. 42, s. 46; 1997, c. 17, s. 27
+> 1992, c. 20, s. 131; 1995, c. 42, s. 46; 1997, c. 17, s. 27; 2015, c. 11, s. 3
 
 
 
@@ -3384,8 +3410,8 @@ it may order that if the statutory release is later revoked, the offender is not
 
 - **(1)** The Board shall conduct the review of the case of an offender by way of a hearing, conducted in whichever of the two official languages of Canada is requested by the offender, unless the offender waives the right to a hearing in writing or refuses to attend the hearing, in the following classes of cases:
 	- **(a)** the first review for day parole pursuant to subsection 122(1), except in respect of an offender serving a sentence of less than two years;
-	- **(b)** the first review for full parole under subsection 123(1) and subsequent reviews under subsection 123(5) or (5.1);
-	- **(c)** a review conducted pursuant to section 129 or subsection 130(1) or 131(1);
+	- **(b)** the first review for full parole under subsection 123(1) and subsequent reviews under subsection 123(5), (5.01) or (5.1);
+	- **(c)** a review conducted under section 129 or subsection 130(1) or 131(1) or (1.1);
 	- **(d)** a review following a cancellation of parole; and
 	- **(e)** any review of a class specified in the regulations.
 
@@ -3399,9 +3425,9 @@ it may order that if the statutory release is later revoked, the offender is not
 	- **(a)** to grant parole, subject to the offender’s acceptance in writing of the conditions of parole; or
 	- **(b)** to hold a hearing before the rendering of a decision.
 
-**Attendance of observers**
+**Attendance by observers**
 
-- **(4)** Subject to subsection (5), the Board or a person designated, by name or by position, by the Chairperson of the Board shall, subject to such conditions as the Board or person considers appropriate and after taking into account the offender’s views, permit a person who applies in writing therefor to attend as an observer at a hearing relating to an offender, unless the Board or person is satisfied that
+- **(4)** Subject to subsections (5) and (5.1), the Board or a person designated, by name or by position, by the Chairperson of the Board shall, subject to such conditions as the Board or person considers appropriate and after taking into account the offender’s views, permit a person who applies in writing therefor to attend as an observer at a hearing relating to an offender, unless the Board or person is satisfied that
 	- **(a)** the hearing is likely to be disrupted or the ability of the Board to consider the matter before it is likely to be adversely affected by the presence of that person or of that person in conjunction with other persons who have applied to attend the hearing;
 	- **(b)** the person’s presence is likely to adversely affect those who have provided information to the Board, including victims, members of a victim’s family or members of the offender’s family;
 	- **(c)** the person’s presence is likely to adversely affect an appropriate balance between that person’s or the public’s interest in knowing and the public’s interest in the effective reintegration of the offender into society; or
@@ -3410,6 +3436,14 @@ it may order that if the statutory release is later revoked, the offender is not
 **Exclusion of observers**
 
 - **(5)** Where in the course of a hearing the Board concludes that any of the possible situations described in subsection (4) is likely to exist, it may decide to continue the hearing in the absence of observers or of a particular observer.
+
+**Attendance by victim or member of their family**
+
+- **(5.1)** In determining whether to permit a victim or a member of the victim’s family to attend as an observer at a hearing, the Board or its designate shall make every effort to fully understand the need of the victim and of the members of his or her family to attend the hearing and witness its proceedings. The Board or its designate shall permit a victim or a member of his or her family to attend as an observer unless satisfied that the presence of the victim or family member would result in a situation described in paragraph (4)(a), (b), (c) or (d).
+
+**Attendance not permitted**
+
+- **(5.2)** If the Board or its designate decides under subsection (5.1) to not permit a victim or a member of his or her family to attend a hearing, the Board shall provide for the victim or family member to observe the hearing by any means that the Board considers appropriate.
 
 **Access to information**
 
@@ -3436,14 +3470,46 @@ it may order that if the statutory release is later revoked, the offender is not
 	- **(a)** a victim may present a statement describing the harm done to them or loss suffered by them as a result of the commission of the offence and the continuing impact of the commission of the offence — including any safety concerns — and commenting on the possible release of the offender; and
 	- **(b)** a person referred to in subsection 142(3) may present a statement describing the harm done to them or loss suffered by them as a result, and the continuing impact, of any act of the offender in respect of which a complaint was made to the police or Crown attorney or an information laid under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) — including any safety concerns — and commenting on the possible release of the offender.
 
-**Presentation of statements in absence of person**
+**Consideration of statement**
 
-- **(11)** If a victim or a person referred to in subsection 142(3) is not attending a hearing, their statement may be presented at the hearing in a format that the Board considers appropriate.
+- **(10.1)** The Board shall, in deciding whether an offender should be released and what conditions might be applicable to the release, take into consideration any statement that has been presented in accordance with paragraph (10)(a) or (b).
+
+**Forms of statement**
+
+- **(11)** If a victim or a person referred to in subsection 142(3) is not attending a hearing, their statement may be presented at the hearing in the form of a written statement, which may be accompanied by an audio or video recording, or in any other form prescribed by the regulations.
 
 **Communication of statement in writing**
 
 - **(12)** A victim or a person referred to in subsection 142(3) shall, before the hearing, deliver to the Board a transcript of the statement that they plan to present under subsection (10) or (11).
-> 1992, c. 20, s. 140; 1995, c. 42, ss. 55, 69(E); 2011, c. 11, s. 6; 2012, c. 1, s. 96, c. 19, s. 527
+> 1992, c. 20, s. 140; 1995, c. 42, ss. 55, 69(E); 2011, c. 11, s. 6; 2012, c. 1, s. 96, c. 19, s. 527; 2015, c. 11, s. 4
+
+
+
+
+
+**Cancellation of review hearing**
+
+**140.1** Despite any other provision of this Act, if an offender has, on more than one occasion, refused to attend a review hearing or waived his or her right to a review hearing less than 15 days before the date scheduled for the hearing without providing a reasonable explanation for doing so, the Board may cancel the next review hearing to which the offender would otherwise be entitled to under this Act.
+> 2015, c. 11, s. 5
+
+
+
+
+
+**Transcript**
+
+**140.2** 
+
+- **(1)** If a transcript of the hearing has been made, the Board shall, on written request and free of charge, provide a copy to the offender and a copy to the victim or a member of the victim’s family. However, the copy provided to the victim or member of the victim’s family shall not include any portion of the transcript of a part of the hearing that, under subsection 140(5), was or would have been continued in the absence of observers or of a particular observer.
+
+**Personal information**
+
+- **(2)** The Board may delete from a copy of the transcript any personal information about a person other than the offender, the victim or a member of the victim’s family.
+
+**Access to information**
+
+- **(3)** Information discussed or referred to in the transcript of the hearing are not publicly available for the purposes of the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) or the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md).
+> 2015, c. 11, s. 5
 
 
 
