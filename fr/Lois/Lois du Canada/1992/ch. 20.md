@@ -2395,9 +2395,27 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 	- **b)** l’expiration de la peine;
 	- **c)** le délinquant a moins de quatre mois à purger avant sa libération d’office.
 
+**Délinquant violent**
+
+- **(5.01)** Malgré le paragraphe (5), lorsqu’elle refuse à l’issue de l’examen visé au paragraphe (1) ou à l’article 122, d’accorder la libération conditionnelle à un délinquant condamné pour une infraction accompagnée de violence pour laquelle il purge une peine d’au moins deux ans ou à un délinquant purgeant une peine comprenant une peine d’au moins deux ans infligée pour une infraction accompagnée de violence, ou encore en l’absence de tout examen pour les raisons exposées au paragraphe (2), la Commission procède au réexamen dans les cinq ans qui suivent la date de la tenue de l’examen ou celle fixée pour cet examen, selon la plus éloignée de ces dates, et ainsi de suite, au cours de chaque période de cinq ans, jusqu’au premier en date des événements suivants :
+	- **a)** la libération conditionnelle totale ou d’office;
+	- **b)** l’expiration de la peine;
+	- **c)** le délinquant a moins de quatre mois à purger avant sa libération d’office.
+
+**Motifs écrits**
+
+- **(5.02)** Lorsqu’elle refuse d’accorder la libération conditionnelle au délinquant visé au paragraphe (5.01), la Commission lui donne, par écrit, les motifs de sa décision.
+
 **Réexamen**
 
 - **(5.1)** En cas d’annulation ou de cessation de la libération conditionnelle, la Commission procède au réexamen du cas dans les deux ans qui suivent la date d’annulation ou de cessation, et ainsi de suite, au cours de chaque période de deux ans, jusqu’au premier en date des événements suivants :
+	- **a)** la libération conditionnelle totale ou d’office;
+	- **b)** l’expiration de la peine;
+	- **c)** le délinquant a moins de quatre mois à purger avant sa libération d’office.
+
+**Délinquant violent**
+
+- **(5.2)** Malgré le paragraphe (5.1), en cas d’annulation ou de cessation de la libération conditionnelle d’un délinquant condamné pour une infraction accompagnée de violence pour laquelle il purge une peine d’au moins deux ans ou d’un délinquant purgeant une peine comprenant une peine d’au moins deux ans infligée pour une infraction accompagnée de violence, la Commission procède au réexamen du cas dans les quatre ans qui suivent la date d’annulation ou de cessation, et ainsi de suite, au cours de chaque période de cinq ans, jusqu’au premier en date des événements suivants :
 	- **a)** la libération conditionnelle totale ou d’office;
 	- **b)** l’expiration de la peine;
 	- **c)** le délinquant a moins de quatre mois à purger avant sa libération d’office.
@@ -2409,7 +2427,11 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 **Retrait**
 
 - **(7)** Le délinquant ne peut retirer sa demande dans les quatorze jours qui précèdent l’examen de son dossier, à moins qu’il ne soit nécessaire de la retirer et qu’il n’ait pas pu le faire avant en raison de circonstances indépendantes de sa volonté.
-> 1992, ch. 20, art. 123; 1995, ch. 42, art. 37 et 69(A); 2012, ch. 1, art. 79
+
+**Définition d’infraction accompagnée de violence**
+
+- **(8)** Au présent article, ***infraction accompagnée de violence*** s’entend du meurtre ou de toute infraction mentionnée à l’annexe I.
+> 1992, ch. 20, art. 123; 1995, ch. 42, art. 37 et 69(A); 2012, ch. 1, art. 79; 2015, ch. 11, art. 2
 
 
 
@@ -2721,13 +2743,17 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 - **(1)** Dans l’année suivant la prise de toute ordonnance visée au paragraphe 130(3) et tous les ans par la suite, la Commission réexamine le cas des délinquants à l’égard desquels l’ordonnance est toujours en vigueur.
 
+**Infractions mentionnées à l’annexe I**
+
+- **(1.1)** Malgré le paragraphe (1), lorsque l’ordonnance visée au paragraphe 130(3) est prise à l’égard d’un délinquant qui purge une peine infligée pour une infraction mentionnée à l’annexe I ayant causé la mort ou un dommage grave à une autre personne, la Commission réexamine, dans les deux ans suivant la prise de l’ordonnance et tous les deux ans par la suite, le cas du délinquant à l’égard duquel l’ordonnance est toujours en vigueur.
+
 **Enquêtes de la Commission**
 
 - **(2)** Lors du réexamen, la Commission procède à toutes les enquêtes qu’elle juge nécessaires pour déterminer si de nouvelles informations au sujet du délinquant permettraient de modifier ou de prendre une autre ordonnance.
 
 **Pouvoir de la Commission**
 
-- **(3)** Au terme de chaque réexamen, la Commission, selon le cas :
+- **(3)** Au terme de chaque réexamen, la Commission, selon le cas :
 	- **a)** soit reconduit l’interdiction de mise en liberté visée au paragraphe 130(3) ou à l’alinéa 130(3.3)b), soit ordonne la libération d’office en l’assortissant d’une assignation à résidence dans un établissement communautaire résidentiel, un établissement psychiatrique ou, sous réserve du paragraphe (4), un pénitencier désigné au titre du paragraphe (5), si elle est convaincue qu’une telle condition est raisonnable et nécessaire pour protéger la société et faciliter la réinsertion sociale du délinquant après son incarcération au cours de la période prévue pour la libération d’office, soit ordonne la libération d’office sans l’assortir d’une assignation à résidence;
 	- **b)** confirme ou modifie l’ordonnance d’assignation à résidence imposée conformément à l’alinéa a) ou ordonne la libération d’office sans l’assortir d’une assignation à résidence.
 
@@ -2738,7 +2764,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 **Désignation**
 
 - **(5)** Le commissaire peut désigner un pénitencier pour l’assignation à résidence prévue à l’alinéa (3)a).
-> 1992, ch. 20, art. 131; 1995, ch. 42, art. 46; 1997, ch. 17, art. 27
+> 1992, ch. 20, art. 131; 1995, ch. 42, art. 46; 1997, ch. 17, art. 27; 2015, ch. 11, art. 3
 
 
 
@@ -3178,8 +3204,8 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 - **(1)** La Commission tient une audience, dans la langue officielle du Canada que choisit le délinquant, dans les cas suivants, sauf si le délinquant a renoncé par écrit à son droit à une audience ou refuse d’être présent :
 	- **a)** le premier examen du cas qui suit la demande de semi-liberté présentée en vertu du paragraphe 122(1), sauf dans le cas d’une peine d’emprisonnement de moins de deux ans;
-	- **b)** l’examen prévu au paragraphe 123(1) et chaque réexamen prévu en vertu des paragraphes 123(5) et (5.1);
-	- **c)** les examens ou réexamens prévus à l’article 129 et aux paragraphes 130(1) et 131(1);
+	- **b)** l’examen prévu au paragraphe 123(1) et chaque réexamen prévu en vertu des paragraphes 123(5), (5.01) et (5.1);
+	- **c)** les examens ou réexamens prévus à l’article 129 et aux paragraphes 130(1) et 131(1) et (1.1);
 	- **d)** les examens qui suivent l’annulation de la libération conditionnelle;
 	- **e)** les autres examens prévus par règlement.
 
@@ -3193,9 +3219,9 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 	- **a)** accorder une libération conditionnelle, auquel cas la décision ne prend effet que si le délinquant accepte par écrit les conditions de la libération conditionnelle;
 	- **b)** tenir une audience avant de rendre sa décision.
 
-**Observateurs**
+**Présence des observateurs**
 
-- **(4)** Sous réserve du paragraphe (5), la Commission, ou la personne que le président désigne nommément ou par indication de son poste, doit, aux conditions qu’elle estime indiquées et après avoir pris en compte les observations du délinquant, permettre à la personne qui en fait la demande écrite d’être présente, à titre d’observateur, lors d’une audience, sauf si elle est convaincue que, selon le cas :
+- **(4)** Sous réserve des paragraphes (5) et (5.1), la Commission, ou la personne que le président désigne nommément ou par indication de son poste, doit, aux conditions qu’elle estime indiquées et après avoir pris en compte les observations du délinquant, autoriser la personne qui en fait la demande écrite à être présente, à titre d’observateur, lors d’une audience, sauf si elle est convaincue que, selon le cas :
 	- **a)** la présence de cette personne, seule ou en compagnie d’autres personnes qui ont demandé d’assister à la même audience, nuira au déroulement de l’audience ou l’empêchera de bien évaluer la question dont elle est saisie;
 	- **b)** sa présence incommodera ceux qui ont fourni des renseignements à la Commission, notamment la victime, la famille de la victime ou celle du délinquant;
 	- **c)** sa présence compromettra vraisemblablement l’équilibre souhaitable entre l’intérêt de l’observateur ou du public à la communication de l’information et l’intérêt du public à la réinsertion sociale du délinquant;
@@ -3204,6 +3230,14 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 **Poursuite de l’audience à huis clos**
 
 - **(5)** La Commission peut décider de poursuivre l’audience en l’absence de tout observateur si, au cours de celle-ci, elle conclut que l’une des situations mentionnées au paragraphe (4) se présente.
+
+**Présence d’une victime ou d’un membre de sa famille**
+
+- **(5.1)** Lorsqu’elle détermine si une victime ou un membre de sa famille peut être présent, à titre d’observateur, lors d’une audience, la Commission ou la personne qu’elle désigne s’efforce de comprendre le besoin de la victime ou des membres de sa famille d’être présents lors de l’audience et d’en observer le déroulement. La Commission ou la personne qu’elle désigne autorise cette présence sauf si elle est convaincue que celle-ci entraînerait une situation visée aux alinéas (4)a), b), c) ou d).
+
+**Présence refusée**
+
+- **(5.2)** Lorsque la Commission ou la personne qu’elle désigne décide, en application du paragraphe (5.1), de ne pas autoriser la présence d’une victime ou d’un membre de sa famille lors de l’audience, elle prend les dispositions nécessaires pour que la victime ou le membre de sa famille puisse observer le déroulement de l’audience par tout moyen que la Commission juge approprié.
 
 **Accès aux renseignements**
 
@@ -3230,14 +3264,46 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 	- **a)** d’une part, la victime peut présenter une déclaration à l’égard des pertes ou des dommages qui lui ont été causés par la perpétration de l’infraction et des effets que celle-ci a encore sur elle, notamment les préoccupations qu’elle a quant à sa sécurité, et à l’égard de l’éventuelle libération du délinquant;
 	- **b)** d’autre part, la personne visée au paragraphe 142(3) peut présenter une déclaration à l’égard des pertes ou des dommages qui lui ont été causés par la conduite du délinquant — laquelle a donné lieu au dépôt d’une plainte auprès de la police ou du procureur de la Couronne ou a fait l’objet d’une dénonciation conformément au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) — et des effets que cette conduite a encore sur elle, notamment les préoccupations qu’elle a quant à sa sécurité, et à l’égard de l’éventuelle libération du délinquant.
 
-**Déclaration en l’absence de la personne**
+**Prise en considération de la déclaration**
 
-- **(11)** La déclaration de la victime ou de la personne visée au paragraphe 142(3), même si celle-ci n’assiste pas à l’audience, peut y être présentée sous toute forme jugée acceptable par la Commission.
+- **(10.1)** Lorsqu’elle détermine si le délinquant devrait bénéficier d’une libération et, le cas échéant, fixe les conditions de celle-ci, la Commission prend en considération la déclaration présentée en conformité avec les alinéas 10a) ou b).
+
+**Déclaration  — formes**
+
+- **(11)** La déclaration de la victime ou de la personne visée au paragraphe 142(3), même si celle-ci n’assiste pas à l’audience, peut y être présentée sous la forme d’une déclaration écrite pouvant être accompagnée d’un enregistrement audio ou vidéo, ou sous toute autre forme prévue par règlement.
 
 **Communication préalable de la transcription**
 
 - **(12)** La victime et la personne visée au paragraphe 142(3) doivent, préalablement à l’audience, envoyer à la Commission la transcription de la déclaration qu’elles entendent présenter au titre des paragraphes (10) ou (11).
-> 1992, ch. 20, art. 140; 1995, ch. 42, art. 55 et 69(A); 2011, ch. 11, art. 6; 2012, ch. 1, art. 96, ch. 19, art. 527
+> 1992, ch. 20, art. 140; 1995, ch. 42, art. 55 et 69(A); 2011, ch. 11, art. 6; 2012, ch. 1, art. 96, ch. 19, art. 527; 2015, ch. 11, art. 4
+
+
+
+
+
+**Annulation de l’audience**
+
+**140.1** Malgré les autres dispositions de la présente loi, dans le cas d’un délinquant qui a, à plus d’une reprise, refusé d’être présent à une audience ou renoncé à son droit à une audience sans explication raisonnable moins de quinze jours avant la date fixée pour celle-ci, la Commission peut annuler l’audience suivante à laquelle le délinquant aurait droit en vertu de la présente loi.
+> 2015, ch. 11, art. 5
+
+
+
+
+
+**Transcription**
+
+**140.2** 
+
+- **(1)** Si une transcription de l’audience a été effectuée, la Commission en fournit gratuitement, sur demande écrite, une copie au délinquant, à la victime ou à un membre de sa famille. Toutefois, la copie fournie à la victime ou à un membre de sa famille exclut les passages portant sur toute partie de l’audience poursuivie ou qui aurait été poursuivie en l’absence de tout observateur en vertu du paragraphe 140(5).
+
+**Renseignements personnels**
+
+- **(2)** La Commission peut retrancher de la copie de la transcription tout renseignement personnel concernant un individu autre que le délinquant, la victime ou un membre de sa famille.
+
+**Renseignements communiqués**
+
+- **(3)** Les renseignements qui sont visés ou mentionnés dans la transcription ne sont pas accessibles au public pour l’application de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md) et de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md).
+> 2015, ch. 11, art. 5
 
 
 
