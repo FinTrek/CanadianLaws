@@ -302,11 +302,20 @@
 
 **14.1** 
 
-- **(1)** Par dérogation au paragraphe 14(3), l’investissement visé aux alinéas 14(1)a), b) ou c) qui est effectué soit par un investisseur OMC, soit, dans le cas où l’entreprise canadienne qui en fait l’objet est, avant qu’il ne soit effectué, sous le contrôle d’un investisseur OMC, par un non-Canadien — autre qu’un investisseur OMC — n’est sujet à l’examen prévu à l’article 14 que si la valeur, calculée selon les modalités réglementaires, des actifs visés aux alinéas 14(3)a) ou b), selon le cas, est égale ou supérieure au montant déterminé en application du paragraphe (2).
+- **(1)** Malgré le paragraphe 14(3) et sous réserve du paragraphe (1.1), l’investissement visé aux alinéas 14(1)a) ou b) qui est effectué soit par un investisseur OMC, soit, dans le cas où l’entreprise canadienne qui en fait l’objet est, avant qu’il ne soit effectué, sous le contrôle d’un investisseur OMC, par un non-Canadien — autre qu’un investisseur OMC — n’est sujet à l’examen prévu à l’article 14 que si la valeur d’affaire, calculée de la façon prévue par règlement, des actifs visés aux alinéas 14(3)a) ou b), selon le cas, est égale ou supérieure à la somme applicable suivante :
+	- **a)** pour tout investissement effectué pendant l’année commençant à la date d’entrée en vigueur du présent alinéa et l’année subséquente, six cents millions de dollars;
+	- **b)** pour tout investissement effectué pendant les deux années suivant celles visées à l’alinéa a), huit cents millions de dollars;
+	- **c)** pour tout investissement effectué pendant l’année suivant celles pour lesquelles la somme visée à l’alinéa b) s’applique, un milliard de dollars;
+	- **d)** pour tout investissement effectué pendant la période commençant après l’année pour laquelle la somme visée à l’alinéa c) s’applique et se terminant le 31 décembre suivant, un milliard de dollars;
+	- **e)** pour tout investissement effectué pendant l’année suivant la période visée à l’alinéa d) ou toute année subséquente, la somme calculée en application du paragraphe (2).
 
-**Calcul du montant**
+**Limites applicables aux investisseurs OMC qui sont des entreprises d’État**
 
-- **(2)** Pour l’application du paragraphe (1), le montant, pour chaque année, est le résultat, calculé par le ministre au mois de janvier de l’année en question et arrondi au million le plus proche, de la formule suivante :
+- **(1.1)** Malgré le paragraphe 14(3), l’investissement visé aux alinéas 14(1)a) ou b) qui est effectué soit par un investisseur OMC qui est une entreprise d’État, soit, dans le cas où l’entreprise canadienne qui en fait l’objet est, avant qu’il ne soit effectué, sous le contrôle d’un investisseur OMC, par une entreprise d’État — autre qu’un investisseur OMC — n’est sujet à l’examen prévu à l’article 14 que si la valeur, calculée de la façon prévue par règlement, des actifs visés aux alinéas 14(3)a) ou b), selon le cas, est égale ou supérieure à la somme calculée en application du paragraphe (2).
+
+**Calcul de la somme**
+
+- **(2)** Pour l’application de l’alinéa (1)e) ou du paragraphe (1.1), la somme, pour toute année en cause, correspond au résultat, calculé par le ministre au mois de janvier de cette année et arrondi au million de dollars le plus proche, obtenu par application de la formule suivante :
 ```
 (PIB nominal actuel aux prix du marché / PIB nominal de l’année précédente aux prix du marché) × montant de l’année précédente
 ```
@@ -362,7 +371,7 @@
 - **(7)** Pour l’application de l’alinéa c) de la définition de ***investisseur OMC***, au paragraphe (6), la détermination du statut de l’unité sous contrôle d’un investisseur OMC est à effectuer selon les règles suivantes :
 	- **a)** les paragraphes 26(1) et (2) et l’article 27 s’appliquent et, à cette fin, les mentions, dans ces dispositions, de « Canadien », de « Canadiens », de « non-Canadien », de « non-Canadiens » et des adjectifs correspondants, ainsi que de « sous contrôle canadien » et de « Canada », valent respectivement mention de « investisseur OMC », de « investisseurs OMC », de « non-Canadien — autre qu’un investisseur OMC — », de « non-Canadiens — autres que des investisseurs OMC — », des adjectifs correspondants, de « sous contrôle d’un investisseur OMC » et de « membre de l’OMC » — à l’exception de l’adjectif « non canadiens », au sous-alinéa 27d)(ii), qui vaut mention de « n’étant pas des investisseurs OMC »;
 	- **b)** lorsque deux personnes — un Canadien et un investisseur OMC — possèdent à part égale toutes les actions avec droit de vote d’une personne morale, celle-ci est censée être sous contrôle d’un investisseur OMC.
-> 1988, ch. 65, art. 135; 1993, ch. 35, art. 3; 1994, ch. 47, art. 133; 2009, ch. 2, art. 448.
+> 1988, ch. 65, art. 135; 1993, ch. 35, art. 3; 1994, ch. 47, art. 133; 2009, ch. 2, art. 448; 2013, ch. 33, art. 137.
 
 
 
