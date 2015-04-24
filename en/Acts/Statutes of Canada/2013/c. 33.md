@@ -831,7 +831,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind4CF3_hq_12470'>[*]</a></sup>**154** The provisions of this Division, except sections 136, 143 to 145, 149 and 151 to 153, come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind4CF3_hq_12470'><sup>*</sup></a>: [Note: Sections 138 to 141 and subsection 142(1) in force March 13, 2015, *see* SI/2015-21.]<br />
+<a name='fn_Ind4CF3_hq_12470'><sup>*</sup></a>: [Note: Sections 138 to 141 and subsection 142(1) in force March 13, 2015, *see* SI/2015-21; sections 137, 146 to 148 and 150 in force April 24, 2015, *see* SI/2015-20.]<br />
 
 
 
