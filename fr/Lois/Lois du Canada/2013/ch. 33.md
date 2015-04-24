@@ -831,7 +831,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind4815_hq_12475'>[*]</a></sup>**154** Les dispositions de la présente section, à l’exception des articles 136, 143 à 145, 149 et 151 à 153, entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind4815_hq_12475'><sup>*</sup></a>: [Note : Articles 138 à 141 et paragraphe 142(1) en vigueur le 13 mars 2015, *voir* TR/2015-21.]<br />
+<a name='fn_Ind4815_hq_12475'><sup>*</sup></a>: [Note : Articles 138 à 141 et paragraphe 142(1) en vigueur le 13 mars 2015, *voir* TR/2015-21; articles 137, 146 à 148 et 150 en vigueur le 24 avril 2015, voir TR/2015-20.]<br />
 
 
 
