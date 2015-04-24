@@ -305,14 +305,20 @@ is five million dollars or more.
 
 **14.1** 
 
-- **(1)** Notwithstanding the limits set out in subsection 14(3), an investment described in paragraph 14(1)(a), (b) or (c) by
-	- **(a)** a WTO investor, or
-	- **(b)** a non-Canadian, other than a WTO investor, where the Canadian business that is the subject of the investment is, immediately prior to the implementation of the investment, controlled by a WTO investor,
-is reviewable pursuant to section 14 only where the value, calculated in the manner prescribed, of the assets described in paragraph 14(3)(a) or (b), as the case may be, is equal to or greater than the applicable amount determined pursuant to subsection (2).
+- **(1)** Despite the limits set out in subsection 14(3), but subject to subsection (1.1), an investment described in paragraph 14(1)(a) or (b) by a WTO investor or — if the Canadian business that is the subject of the investment is, immediately prior to the implementation of the investment, controlled by a WTO investor — by a non-Canadian, other than a WTO investor, is reviewable under section 14 only if the enterprise value, calculated in the manner prescribed, of the assets described in paragraph 14(3)(a) or (b), as the case may be, is equal to or greater than,
+	- **(a)** for an investment implemented at any time in the year that begins on the day on which this paragraph comes into force, or in the following year, $600,000,000;
+	- **(b)** for an investment implemented at any time in the two years that begin immediately after the two years referred to in paragraph (a), $800,000,000;
+	- **(c)** for an investment implemented at any time in the year that begins immediately after the years for which the amount set out in paragraph (b) applies, $1,000,000,000;
+	- **(d)** for an investment implemented at any time in the period that begins immediately after the year for which the amount set out in paragraph (c) applies and that ends on the following December 31, $1,000,000,000; and
+	- **(e)** for an investment implemented at any time in the year that begins after the period referred to in paragraph (d), or in any subsequent year, the amount determined under subsection (2).
 
-**Amount for subsequent years**
+**Limits for WTO investors that are state-owned enterprises**
 
-- **(2)** For the purposes of subsection (1), the amount for any year shall be determined by the Minister in January of that year by rounding off to the nearest million dollars the amount arrived at by using the formula:
+- **(1.1)** Despite the limits set out in subsection 14(3), an investment described in paragraph 14(1)(a) or (b) by a WTO investor that is a state-owned enterprise or — if the Canadian business that is the subject of the investment is, immediately prior to the implementation of the investment, controlled by a WTO investor — by a state-owned enterprise, other than a WTO investor, is reviewable under section 14 only if the value calculated in the manner prescribed, of the assets described in paragraph 14(3)(a) or (b), as the case may be, is equal to or greater than the applicable amount determined under subsection (2).
+
+**Amount**
+
+- **(2)** The amount for any year for the purposes of paragraph (1)(e) and subsection (1.1) shall be determined by the Minister in January of that year by rounding off to the nearest million dollars the amount arrived at by using the following formula:
 ```
 (Current Nominal GDP at Market Prices / Previous Year Nominal) × amount determined for previous year
 ```
@@ -383,7 +389,7 @@ where
 		- **(iii)** every reference in those provisions to “Canadian-controlled” shall be read and construed as a reference to “WTO investor-controlled”, and
 		- **(iv)** the reference in subparagraph 27(d)(i) to “Canada” shall be read and construed as a reference to “a WTO Member”; and
 	- **(b)** where two persons, one being a Canadian and the other being a WTO investor, own equally all of the voting shares of a corporation, the corporation is deemed to be WTO investor-controlled.
-> 1988, c. 65, s. 135; 1993, c. 35, s. 3; 1994, c. 47, s. 133; 2009, c. 2, s. 448.
+> 1988, c. 65, s. 135; 1993, c. 35, s. 3; 1994, c. 47, s. 133; 2009, c. 2, s. 448; 2013, c. 33, s. 137.
 
 
 
