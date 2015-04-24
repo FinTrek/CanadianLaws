@@ -2384,7 +2384,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**448** [Amendments]
+**448** 
+
+- **(1) and (2)** [Repealed before coming into force, 2013, c. 33, s. 146]
+
+- **(3) and (4)** [Amendments]
 
 
 
@@ -2448,7 +2452,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ### Transitional Provisions
 
 
-**463** [Transitional Provision]
+**463** [Repealed, 2013, c. 33, s. 147]
 
 
 
@@ -2467,11 +2471,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** Sections 445, 447 and 453 to 456, subsections 457(1) to (4), section 460 and subsections 462(1), (3), (4) and (6) are deemed to have come into force on February 6, 2009.
 
-**Subsections 448(1) and (2)**
-
-- <sup><a href='#fn_Ind1DE5_hq_7107'>[*]</a></sup>**(2)** Subsections 448(1) and (2) come into force on a day to be fixed by order of the Governor in Council.
-
-<a name='fn_Ind1DE5_hq_7107'><sup>*</sup></a>: [Note: Subsections 448(1) and (2) not in force.]<br />
+- **(2)** [Repealed, 2013, c. 33, s. 148]
 
 
 
