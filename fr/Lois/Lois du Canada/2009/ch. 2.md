@@ -2384,7 +2384,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**448** [Modifications]
+**448** 
+
+- **(1) et (2)** [Abrogés avant d'entrer en vigueur, 2013, ch. 33, art. 146]
+
+- **(3) et (4)** [Modifications]
 
 
 
@@ -2448,7 +2452,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ### Dispositions transitoires
 
 
-**463** [Disposition transitoire]
+**463** [Abrogé, 2013, ch. 33, art. 147]
 
 
 
@@ -2467,11 +2471,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les articles 445, 447 et 453 à 456, les paragraphes 457(1) à (4), l’article 460 et les paragraphes 462(1), (3), (4) et (6) sont réputés être entrés en vigueur le 6 février 2009.
 
-**Paragraphes 448(1) et (2)**
-
-- <sup><a href='#fn_IndBCE7_hq_7137'>[*]</a></sup>**(2)** Les paragraphes 448(1) et (2) entrent en vigueur à la date fixée par décret.
-
-<a name='fn_IndBCE7_hq_7137'><sup>*</sup></a>: [Note : Paragraphes 448(1) et (2) non en vigueur.]<br />
+- **(2)** [Abrogé, 2013, ch. 33, art. 148]
 
 
 
