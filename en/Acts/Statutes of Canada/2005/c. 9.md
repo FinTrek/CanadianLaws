@@ -2271,447 +2271,164 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 ### **SCHEDULE** 
 **(Subsections 2(1) and (3))**
-Adams Lake Indian Band
-
-
-Aitchelitz First Nation
-
-
-?Akisq’nuk First Nation
-
-
-Bear River First Nation
-
-
-Beaver Lake Cree Nation
-
-
-Beecher Bay
-
-
-Behdzi Ahda″ First Nation
-
-
-Berens River
-
-
-Bingwi Neyaashi Anishinaabek
-
-
-Black River First Nation
-
-
-Brokenhead Ojibway Nation
-
-
-Buctouche Mic Mac Band
-
-
-Buffalo Point First Nation
-
-
-Campbell River Indian Band
-
-
-Cayoose Creek Indian Band
-
-
-Chawathil First Nation
-
-
-Cheam
-
-
-Chippewas of Georgina Island First Nation
-
-
-Chippewas of Kettle and Stony Point First Nation
-
-
-Chippewas of the Thames First Nation
-
-
-Coldwater Indian Band
-
-
-Conseil de la Première Nation Abitibiwinni
-
-
-Conseil des Montagnais du Lac Saint-Jean
-
-
-Cowichan Tribes First Nation
-
-
-Cross Lake First Nation
-
-
-Douglas
-
-
-Ebb and Flow
-
-
-Ehattesaht
-
-
-Elsipogtog First Nation
-
-
-Fisher River
-
-
-George Gordon First Nation
-
-
-Gitga’at First Nation
-
-
-Gitsegukla First Nation
-
-
-Gitwangak First Nation
-
-
-Halalt First Nation
-
-
-Heiltsuk
-
-
-Indian Island First Nation
-
-
-Bande des Innus de Pessamit
-
-
-Kahkewistahaw First Nation
-
-
-Kanaka Bar
-
-
-Kitselas First Nation
-
-
-K’ómoks First Nation
-
-
-Kwadacha
-
-
-Kwantlen First Nation
-
-
-Kwaw-Kwaw-Apilt First Nation
-
-
-Lax Kw’alaams
-
-
-Leq’á:mel First Nation
-
-
-Lheidli T’enneh
-
-
-Long Plain First Nation
-
-
-Lower Kootenay Indian Band
-
-
-Lower Nicola Indian Band
-
-
-Madawaska Maliseet First Nation
-
-
-Malahat First Nation
-
-
-Matsqui First Nation
-
-
-M’Chigeeng First Nation
-
-
-Membertou First Nation
-
-
-Metepenagiag Mi’kmaq Nation
-
-
-Metlakatla First Nation
-
-
-Millbrook Band
-
-
-Misipawistik Cree Nation
-
-
-Mistawasis
-
-
-Mohawks of Akwesasne
-
-
-Mohawks of the Bay of Quinte
-
-
-Moricetown Indian Band
-
-
-Mosquito, Grizzly Bear’s Head, Lean Man First Nations
-
-
-Mount Currie
-
-
-Munsee-Delaware First Nation
-
-
-Muskeg Lake Cree Nation
-
-
-Muskoday First Nation
-
-
-Muskowekwan
-
-
-Nadleh Whut’en Band
-
-
-Nak’azdli
-
-
-Nanoose First Nation
-
-
-Neskonlith Indian Band
-
-
-Nipissing First Nation
-
-
-Norway House Cree Nation
-
-
-Obashkaandagaang
-
-
-Ochapowace
-
-
-Onion Lake Cree Nation
-
-
-Oromocto
-
-
-Osoyoos Indian Band
-
-
-Pauingassi First Nation
-
-
-Peepeekisis Cree Nation No. 81
-
-
-Peguis
-
-
-Penticton Indian Band
-
-
-Peter Ballantyne Cree Nation
-
-
-Peters
-
-
-Pictou Landing First Nation
-
-
-Popkum First Nation
-
-
-Red Sucker Lake First Nation
-
-
-Rolling River First Nation
-
-
-Saik’uz First Nation
-
-
-Saugeen
-
-
-Saulteau First Nations
-
-
-Saulteaux First Nation
-
-
-Scowlitz
-
-
-Seabird Island Band
-
-
-Semiahmoo First Nation
-
-
-Serpent River First Nation
-
-
-Seton Lake
-
-
-Shackan First Nation
-
-
-Shuswap First Nation
-
-
-Shxwhá:y Village First Nation
-
-
-Shxw’ow’hamel First Nation
-
-
-Siksika Nation
-
-
-Simpcw First Nation
-
-
-Skawahlook First Nation
-
-
-Skeetchestn Indian Band
-
-
-Skidegate First Nation
-
-
-Skowkale First Nation
-
-
-Skwah
-
-
-Sliammon First Nation
-
-
-Songhees First Nation
-
-
-Soowahlie
-
-
-Splatsin First Nation
-
-
-Squamish Nation
-
-
-Squiala First Nation
-
-
-Stellat’en First Nation
-
-
-St. Mary’s First Nation
-
-
-Sts’ailes
-
-
-St. Theresa Point
-
-
-Stz’uminus First Nation
-
-
-Sumas First Nation
-
-
-Taku River Tlingit First Nation
-
-
-Thunderchild First Nation
-
-
-Timiskaming First Nation
-
-
-Tk’emlúps te Secwépemc
-
-
-Tla-o-qui-aht First Nations
-
-
-Tobacco Plains Indian Band
-
-
-Tobique First Nation
-
-
-Tsartlip First Nation
-
-
-Tsawout First Nation
-
-
-Tseycum First Nation
-
-
-Ts’kw’aylaxw First Nation
-
-
-Tsleil-Waututh Nation
-
-
-T’Sou-ke First Nation
-
-
-Tzeachten First Nation
-
-
-Upper Nicola Indian Band
-
-
-Wasauksing First Nation
-
-
-Wet’suwet’en First Nation
-
-
-We Wai Kai Nation
-
-
-Whispering Pines/Clinton Indian Band
-
-
-White Bear First Nation
-
-
-Whitecap Dakota First Nation
-
-
-Williams Lake
-
-
-Yakweakwioose First Nation
-
-
-Yellow Quill Band
-
-
-> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30, 122, 273; SOR/2013-59, 176; SOR/2014-77, 208; SOR/2015-52.
+- Adams Lake Indian Band
+- Aitchelitz First Nation
+- ?Akisq’nuk First Nation
+- Atikameksheng Anishnawbek
+- Bear River First Nation
+- Beaver Lake Cree Nation
+- Beecher Bay
+- Behdzi Ahda″ First Nation
+- Berens River
+- Bingwi Neyaashi Anishinaabek
+- Black River First Nation
+- Brokenhead Ojibway Nation
+- Buctouche Mic Mac Band
+- Buffalo Point First Nation
+- Campbell River Indian Band
+- Cayoose Creek Indian Band
+- Chawathil First Nation
+- Cheam
+- Chippewas of Georgina Island First Nation
+- Chippewas of Kettle and Stony Point First Nation
+- Chippewas of the Thames First Nation
+- Coldwater Indian Band
+- Conseil de la Première Nation Abitibiwinni
+- Conseil des Montagnais du Lac Saint-Jean
+- Cowichan Tribes First Nation
+- Cross Lake First Nation
+- Douglas
+- Ebb and Flow
+- Ehattesaht
+- Elsipogtog First Nation
+- Fisher River
+- Gamblers
+- George Gordon First Nation
+- Gitga’at First Nation
+- Gitsegukla First Nation
+- Gitwangak First Nation
+- Glooscap First Nation
+- Halalt First Nation
+- Heiltsuk
+- Indian Island First Nation
+- Bande des Innus de Pessamit
+- Kahkewistahaw First Nation
+- Kanaka Bar
+- Kingfisher
+- Kitselas First Nation
+- K’ómoks First Nation
+- Kwadacha
+- Kwantlen First Nation
+- Kwaw-Kwaw-Apilt First Nation
+- Lac La Ronge Indian Band
+- Lax Kw’alaams
+- Leq’á:mel First Nation
+- Lheidli T’enneh
+- Long Plain First Nation
+- Lower Kootenay Indian Band
+- Lower Nicola Indian Band
+- Lower Similkameen
+- Madawaska Maliseet First Nation
+- Malahat First Nation
+- Matsqui First Nation
+- M’Chigeeng First Nation
+- Membertou First Nation
+- Metepenagiag Mi’kmaq Nation
+- Metlakatla First Nation
+- Millbrook Band
+- Misipawistik Cree Nation
+- Mistawasis
+- Mohawks of Akwesasne
+- Mohawks of the Bay of Quinte
+- Moricetown Indian Band
+- Mosquito, Grizzly Bear’s Head, Lean Man First Nations
+- Mount Currie
+- Munsee-Delaware First Nation
+- Muskeg Lake Cree Nation
+- Muskoday First Nation
+- Muskowekwan
+- Nadleh Whut’en Band
+- Nak’azdli
+- Nanoose First Nation
+- Neskonlith Indian Band
+- Nipissing First Nation
+- Norway House Cree Nation
+- Obashkaandagaang
+- Ochapowace
+- Onion Lake Cree Nation
+- Oromocto
+- Osoyoos Indian Band
+- Pauingassi First Nation
+- Peepeekisis Cree Nation No. 81
+- Peguis
+- Penticton Indian Band
+- Peter Ballantyne Cree Nation
+- Peters
+- Pic Mobert
+- Pictou Landing First Nation
+- Popkum First Nation
+- Red Sucker Lake First Nation
+- Rolling River First Nation
+- Saik’uz First Nation
+- Saugeen
+- Saulteau First Nations
+- Saulteaux First Nation
+- Scowlitz
+- Seabird Island Band
+- Semiahmoo First Nation
+- Serpent River First Nation
+- Seton Lake
+- Shackan First Nation
+- Shuswap First Nation
+- Shxwhá:y Village First Nation
+- Shxw’ow’hamel First Nation
+- Siksika Nation
+- Simpcw First Nation
+- Skawahlook First Nation
+- Skeetchestn Indian Band
+- Skidegate First Nation
+- Skowkale First Nation
+- Skwah
+- Sliammon First Nation
+- Songhees First Nation
+- Soowahlie
+- Splatsin First Nation
+- Squamish Nation
+- Squiala First Nation
+- Stellat’en First Nation
+- St. Mary’s First Nation
+- Sts’ailes
+- St. Theresa Point
+- Stz’uminus First Nation
+- Sumas First Nation
+- Taku River Tlingit First Nation
+- Thunderchild First Nation
+- Timiskaming First Nation
+- T’it’q’et
+- Tk’emlúps te Secwépemc
+- Tla-o-qui-aht First Nations
+- Tobacco Plains Indian Band
+- Tobique First Nation
+- Tsartlip First Nation
+- Tsawout First Nation
+- Tseycum First Nation
+- Ts’kw’aylaxw First Nation
+- Tsleil-Waututh Nation
+- T’Sou-ke First Nation
+- Tsuu T’ina Nation
+- Tzeachten First Nation
+- Upper Nicola Indian Band
+- Wahgoshig
+- Wasauksing First Nation
+- Wet’suwet’en First Nation
+- We Wai Kai Nation
+- Whispering Pines/Clinton Indian Band
+- White Bear First Nation
+- Whitecap Dakota First Nation
+- Williams Lake
+- Wunnumin
+- Yakweakwioose First Nation
+- Yellow Quill Band
+> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30, 122, 273; SOR/2013-59, 176; SOR/2014-77, 208; SOR/2015-52, 94.
 
 
