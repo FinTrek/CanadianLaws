@@ -2268,447 +2268,164 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ### **ANNEXE** 
 **(paragraphes 2(1) et (3))**
-Bande indienne Adams Lake
-
-
-Première nation Aitchelitz
-
-
-Première nation ?Akisq’nuk
-
-
-Première Nation Bear River
-
-
-Nation crie Beaver Lake
-
-
-Beecher Bay
-
-
-Première Nation Behdzi Ahda″
-
-
-Berens River
-
-
-Bingwi Neyaashi Anishinaabek
-
-
-Première Nation Black River
-
-
-Nation Brokenhead Ojibway
-
-
-Bande Buctouche Micmac
-
-
-Première Nation Buffalo Point
-
-
-Bande indienne Campbell River
-
-
-Bande indienne Cayoose Creek
-
-
-Première nation Chawathil
-
-
-Cheam
-
-
-Première nation Chippewas de Georgina Island
-
-
-Première Nation Chippewas of Kettle and Stony Point
-
-
-Première Nation Chippewas of the Thames
-
-
-Bande indienne Coldwater
-
-
-Conseil de la Première Nation Abitibiwinni
-
-
-Conseil des Montagnais du Lac Saint-Jean
-
-
-Première Nation Cowichan Tribes
-
-
-Première Nation Cross Lake
-
-
-Douglas
-
-
-Ebb and Flow
-
-
-Ehattesaht
-
-
-Première nation Elsipogtog
-
-
-Fisher River
-
-
-Première Nation George Gordon
-
-
-Première Nation Gitga’at
-
-
-Première nation Gitsegukla
-
-
-Première Nation Gitwangak
-
-
-Première Nation Halalt
-
-
-Heiltsuk
-
-
-Première nation Indian Island
-
-
-Bande des Innus de Pessamit
-
-
-Première nation Kahkewistahaw
-
-
-Kanaka Bar
-
-
-Première nation Kitselas
-
-
-Première nation K’ómoks
-
-
-Kwadacha
-
-
-Première Nation Kwantlen
-
-
-Première nation Kwaw-Kwaw Apilt
-
-
-Lax Kw’alaams
-
-
-Première nation Leq’á:mel
-
-
-Lheidli T’enneh
-
-
-Première Nation Long Plain
-
-
-Bande indienne Lower Kootenay
-
-
-Bande indienne Lower Nicola
-
-
-Première Nation Madawaska Maliseet
-
-
-Première Nation Malahat
-
-
-Première nation Matsqui
-
-
-Première Nation M’Chigeeng
-
-
-Première Nation Membertou
-
-
-Nation Metepenagiag Mi’kmaq
-
-
-Première Nation Metlakatla
-
-
-Bande Millbrook
-
-
-Nation crie Misipawistik
-
-
-Mistawasis
-
-
-Mohawks of Akwesasne
-
-
-Mohawks of the Bay of Quinte
-
-
-Bande indienne Moricetown
-
-
-Mosquito, Grizzly Bear’s Head, Lean Man First Nations
-
-
-Mount Currie
-
-
-Première Nation Munsee-Delaware
-
-
-Nation crie Muskeg Lake
-
-
-Première Nation Muskoday
-
-
-Muskowekwan
-
-
-Bande Nadleh Whut’en
-
-
-Nak’azdli
-
-
-Première nation Nanoose
-
-
-Bande indienne Neskonlith
-
-
-Première Nation Nipissing
-
-
-Nation crie Norway House
-
-
-Obashkaandagaang
-
-
-Ochapowace
-
-
-Nation crie Onion Lake
-
-
-Oromocto
-
-
-Bande indienne Osoyoos
-
-
-Première Nation Pauingassi
-
-
-Nation crie Peepeekisis no. 81
-
-
-Peguis
-
-
-Bande indienne Penticton
-
-
-Nation crie Peter Ballantyne
-
-
-Peters
-
-
-Première Nation Pictou Landing
-
-
-Première nation Popkum
-
-
-Première Nation Red Sucker Lake
-
-
-Première Nation Rolling River
-
-
-Première Nation Saik’uz
-
-
-Saugeen
-
-
-Premières Nations Saulteau
-
-
-Première nation Saulteaux
-
-
-Scowlitz
-
-
-Bande Seabird Island
-
-
-Première Nation Semiahmoo
-
-
-Première Nation Serpent River
-
-
-Seton Lake
-
-
-Première Nation Shackan
-
-
-Première nation Shuswap
-
-
-Première nation Shxwhá:y Village
-
-
-Première nation Shxw’ow’hamel
-
-
-Nation Siksika
-
-
-Première nation Simpcw
-
-
-Première nation Skawahlook
-
-
-Bande indienne Skeetchestn
-
-
-Première Nation Skidegate
-
-
-Première nation Skowkale
-
-
-Skwah
-
-
-Première nation Sliammon
-
-
-Première nation Songhees
-
-
-Soowahlie
-
-
-Première Nation Splatsin
-
-
-Nation Squamish
-
-
-Première nation Squiala
-
-
-Première Nation de Stellat’en
-
-
-Première nation St. Mary’s
-
-
-Sts’ailes
-
-
-St. Theresa Point
-
-
-Stz’uminus First Nation
-
-
-Première nation Sumas
-
-
-Première Nation Taku River Tlingit
-
-
-Première nation Thunderchild
-
-
-Première Nation Timiskaming
-
-
-Tk’emlúps te Secwépemc
-
-
-Premières nations Tla-o-qui-aht
-
-
-Bande indienne Tobacco Plains
-
-
-Première nation Tobique
-
-
-Première Nation Tsartlip
-
-
-Première nation Tsawout
-
-
-Première nation Tseycum
-
-
-Première Nation Ts’kw’aylaxw
-
-
-Tsleil-Waututh Nation
-
-
-Première nation T’Sou-ke
-
-
-Première nation Tzeachten
-
-
-Bande indienne Upper Nicola
-
-
-Première Nation Wasauksing
-
-
-Première Nation Wet’suwet’en
-
-
-Nation We Wai Kai
-
-
-Bande indienne Whispering Pines/Clinton
-
-
-Première nation White Bear
-
-
-Première Nation Whitecap Dakota
-
-
-Williams Lake
-
-
-Première nation Yakweakwioose
-
-
-Bande Yellow Quill
-
-
-> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176; DORS/2014-77, 208; DORS/2015-52.
+- Bande indienne Adams Lake
+- Première nation Aitchelitz
+- Première nation ?Akisq’nuk
+- Atikameksheng Anishnawbek
+- Première Nation Bear River
+- Nation crie Beaver Lake
+- Beecher Bay
+- Première Nation Behdzi Ahda″
+- Berens River
+- Bingwi Neyaashi Anishinaabek
+- Première Nation Black River
+- Nation Brokenhead Ojibway
+- Bande Buctouche Micmac
+- Première Nation Buffalo Point
+- Bande indienne Campbell River
+- Bande indienne Cayoose Creek
+- Première nation Chawathil
+- Cheam
+- Première nation Chippewas de Georgina Island
+- Première Nation Chippewas of Kettle and Stony Point
+- Première Nation Chippewas of the Thames
+- Bande indienne Coldwater
+- Conseil de la Première Nation Abitibiwinni
+- Conseil des Montagnais du Lac Saint-Jean
+- Première Nation Cowichan Tribes
+- Première Nation Cross Lake
+- Douglas
+- Ebb and Flow
+- Ehattesaht
+- Première nation Elsipogtog
+- Fisher River
+- Gamblers
+- Première Nation George Gordon
+- Première Nation Gitga’at
+- Première nation Gitsegukla
+- Première Nation Gitwangak
+- Première Nation Glooscap
+- Première Nation Halalt
+- Heiltsuk
+- Première nation Indian Island
+- Bande des Innus de Pessamit
+- Première nation Kahkewistahaw
+- Kanaka Bar
+- Kingfisher
+- Première nation Kitselas
+- Première nation K’ómoks
+- Kwadacha
+- Première Nation Kwantlen
+- Première nation Kwaw-Kwaw Apilt
+- Bande indienne Lac La Ronge
+- Lax Kw’alaams
+- Première nation Leq’á:mel
+- Lheidli T’enneh
+- Première Nation Long Plain
+- Bande indienne Lower Kootenay
+- Bande indienne Lower Nicola
+- Lower Similkameen
+- Première Nation Madawaska Maliseet
+- Première Nation Malahat
+- Première nation Matsqui
+- Première Nation M’Chigeeng
+- Première Nation Membertou
+- Nation Metepenagiag Mi’kmaq
+- Première Nation Metlakatla
+- Bande Millbrook
+- Nation crie Misipawistik
+- Mistawasis
+- Mohawks of Akwesasne
+- Mohawks of the Bay of Quinte
+- Bande indienne Moricetown
+- Mosquito, Grizzly Bear’s Head, Lean Man First Nations
+- Mount Currie
+- Première Nation Munsee-Delaware
+- Nation crie Muskeg Lake
+- Première Nation Muskoday
+- Muskowekwan
+- Bande Nadleh Whut’en
+- Nak’azdli
+- Première nation Nanoose
+- Bande indienne Neskonlith
+- Première Nation Nipissing
+- Nation crie Norway House
+- Obashkaandagaang
+- Ochapowace
+- Nation crie Onion Lake
+- Oromocto
+- Bande indienne Osoyoos
+- Première Nation Pauingassi
+- Nation crie Peepeekisis no. 81
+- Peguis
+- Bande indienne Penticton
+- Nation crie Peter Ballantyne
+- Peters
+- Pic Mobert
+- Première Nation Pictou Landing
+- Première nation Popkum
+- Première Nation Red Sucker Lake
+- Première Nation Rolling River
+- Première Nation Saik’uz
+- Saugeen
+- Premières Nations Saulteau
+- Première nation Saulteaux
+- Scowlitz
+- Bande Seabird Island
+- Première Nation Semiahmoo
+- Première Nation Serpent River
+- Seton Lake
+- Première Nation Shackan
+- Première nation Shuswap
+- Première nation Shxwhá:y Village
+- Première nation Shxw’ow’hamel
+- Nation Siksika
+- Première nation Simpcw
+- Première nation Skawahlook
+- Bande indienne Skeetchestn
+- Première Nation Skidegate
+- Première nation Skowkale
+- Skwah
+- Première nation Sliammon
+- Première nation Songhees
+- Soowahlie
+- Première Nation Splatsin
+- Nation Squamish
+- Première nation Squiala
+- Première Nation de Stellat’en
+- Première nation St. Mary’s
+- Sts’ailes
+- St. Theresa Point
+- Stz’uminus First Nation
+- Première nation Sumas
+- Première Nation Taku River Tlingit
+- Première nation Thunderchild
+- Première Nation Timiskaming
+- T’it’q’et
+- Tk’emlúps te Secwépemc
+- Premières nations Tla-o-qui-aht
+- Bande indienne Tobacco Plains
+- Première nation Tobique
+- Première Nation Tsartlip
+- Première nation Tsawout
+- Première nation Tseycum
+- Première Nation Ts’kw’aylaxw
+- Tsleil-Waututh Nation
+- Première nation T’Sou-ke
+- Nation Tsuu T’ina
+- Première nation Tzeachten
+- Bande indienne Upper Nicola
+- Wahgoshig
+- Première Nation Wasauksing
+- Première Nation Wet’suwet’en
+- Nation We Wai Kai
+- Bande indienne Whispering Pines/Clinton
+- Première nation White Bear
+- Première Nation Whitecap Dakota
+- Williams Lake
+- Wunnumin
+- Première nation Yakweakwioose
+- Bande Yellow Quill
+> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176; DORS/2014-77, 208; DORS/2015-52, 94.
 
 
