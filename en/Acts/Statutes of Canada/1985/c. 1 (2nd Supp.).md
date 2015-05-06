@@ -41,6 +41,8 @@
 
 ***Canada-United States Free Trade Agreement***[Repealed, 1997, c. 14, s. 35]
 
+***carrier code*** means the unique identification number issued by the Minister either under subsection 12.1(4) or before the coming into force of that subsection;
+
 ***CCFTA*** has the same meaning as “Agreement” in subsection 2(1) of the [Canada-Chile Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2014.md);
 
 ***CCOFTA*** has the same meaning as ***Agreement*** in section 2 of the [Canada–Colombia Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2010/c.%204.md);
@@ -267,7 +269,7 @@
 **Delegation by Minister of National Revenue**
 
 - **(6)** The Minister of National Revenue may authorize a person employed by the Canada Revenue Agency or the Agency, or a class of those persons, to exercise powers or perform duties of that Minister, including any judicial or quasi-judicial powers or duties of that Minister, under this Act.
-> R.S., 1985, c. 1 (2nd Supp.), s. 2, c. 41 (3rd Supp.), s. 118; 1988, c. 65, s. 66; 1990, c. 45, s. 19; 1992, c. 28, s. 1; 1993, c. 25, s. 68, c. 27, s. 213, c. 44, s. 81; 1994, c. 13, s. 7; 1995, c. 15, s. 24, c. 41, s. 1; 1996, c. 31, s. 73, c. 33, s. 28; 1997, c. 14, s. 35, c. 36, s. 147; 1998, c. 19, s. 262; 1999, c. 17, s. 123; 2001, c. 25, s. 1, c. 28, s. 26; 2002, c. 22, s. 328; 2005, c. 38, ss. 60, 145; 2007, c. 18, s. 135; 2009, c. 6, s. 23, c. 10, s. 1(F), c. 16, ss. 31, 56; 2010, c. 4, s. 25, c. 12, s. 48; 2012, c. 18, s. 24, c. 26, ss. 30, 62; 2014, c. 14, s. 23, c. 28, s. 26.
+> R.S., 1985, c. 1 (2nd Supp.), s. 2, c. 41 (3rd Supp.), s. 118; 1988, c. 65, s. 66; 1990, c. 45, s. 19; 1992, c. 28, s. 1; 1993, c. 25, s. 68, c. 27, s. 213, c. 44, s. 81; 1994, c. 13, s. 7; 1995, c. 15, s. 24, c. 41, s. 1; 1996, c. 31, s. 73, c. 33, s. 28; 1997, c. 14, s. 35, c. 36, s. 147; 1998, c. 19, s. 262; 1999, c. 17, s. 123; 2001, c. 25, s. 1, c. 28, s. 26; 2002, c. 22, s. 328; 2005, c. 38, ss. 60, 145; 2007, c. 18, s. 135; 2009, c. 6, s. 23, c. 10, s. 1(F), c. 16, ss. 31, 56; 2010, c. 4, s. 25, c. 12, s. 48; 2012, c. 18, s. 24, c. 26, ss. 30, 62, c. 31, s. 264; 2014, c. 14, s. 23, c. 28, s. 26.
 
 
 
@@ -830,13 +832,45 @@ may not be seized as forfeit under this Act by reason only that they were not re
 
 **Advance information**
 
-**12.1** The Governor in Council may make regulations
-- **(a)** requiring persons to give, before a conveyance’s arrival in Canada, information about the conveyance and the persons and the goods on board the conveyance;
-- **(b)** respecting the information that must be given;
-- **(c)** prescribing the persons or classes of persons who must give the information;
-- **(d)** prescribing the circumstances in which the information must be given; and
-- **(e)** respecting the time within which and the manner in which the information must be given.
-> 2009, c. 10, s. 6.
+**12.1** 
+
+- **(1)** Before the arrival of a conveyance in Canada, the owner or person in charge of a conveyance who is prescribed or any other prescribed person shall give the Agency prescribed information about the conveyance and the persons and goods on board or expected to be on board the conveyance.
+
+**Exemption**
+
+- **(2)** A person who is required to provide information under subsection (1) shall hold a valid carrier code unless they are exempt.
+
+**Carrier code — requirements**
+
+- **(3)** An application for a carrier code shall be made in the prescribed form with the prescribed information.
+
+**Carrier code — issuance**
+
+- **(4)** The Minister shall issue a carrier code to a person who applies for it if the application meets the requirements referred to in subsection (3) and the Minister is satisfied that the prescribed requirements and conditions for the carrier code to be issued have been met.
+
+**Carrier code — suspension, cancellation and reinstatement**
+
+- **(5)** The Minister may, subject to the regulations, suspend, cancel or reinstate a carrier code.
+
+**Notification**
+
+- **(6)** The Minister may issue a notification to any person who provides information under subsection (1) to require the person to take any specified measure with respect to the information.
+
+**Obligation to comply**
+
+- **(7)** The person to whom a notification is issued shall comply with the notification.
+
+**Regulations**
+
+- **(8)** The Governor in Council may make regulations for the purposes of this section, including regulations
+	- **(a)** respecting the information that must be given under subsection (1);
+	- **(b)** prescribing the persons or classes of persons who must give the information under subsection (1);
+	- **(c)** respecting the circumstances in which the information must be given under subsection (1);
+	- **(d)** respecting the time within which and the manner in which the information must be given under subsection (1);
+	- **(e)** regarding the requirements and conditions that are to be met before a carrier code may be issued;
+	- **(f)** regarding the persons or classes of persons who are exempt from holding a valid carrier code; and
+	- **(g)** regarding the manner and circumstances in which a carrier code may be suspended, cancelled or reinstated.
+> 2009, c. 10, s. 6; 2012, c. 31, s. 266.
 
 
 
