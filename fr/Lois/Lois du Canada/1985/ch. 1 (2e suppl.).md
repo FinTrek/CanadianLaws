@@ -79,6 +79,8 @@
 
 ***classement tarifaire*** Le classement des marchandises importées dans un numéro tarifaire de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
+***code de transporteur*** Identificateur unique délivré par le ministre soit en application du paragraphe 12.1(4), soit avant l’entrée en vigueur de ce paragraphe. 
+
 ***Colombie*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 ***commissaire***[Abrogée, 2005, ch. 38, art. 60]
@@ -267,7 +269,7 @@
 **Délégation par le ministre du Revenu national**
 
 - **(6)** Le ministre du Revenu national peut autoriser toute personne employée par l’Agence du revenu du Canada ou par l’Agence, nommément ou au titre de son appartenance à une catégorie donnée, à exercer les pouvoirs et fonctions, y compris les pouvoirs et fonctions judiciaires ou quasi-judiciaires, qui lui sont conférés en vertu de la présente loi.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328; 2005, ch. 38, art. 60 et 145; 2007, ch. 18, art. 135; 2009, ch. 6, art. 23, ch. 10, art. 1(F), ch. 16, art. 31 et 56; 2010, ch. 4, art. 25, ch. 12, art. 48; 2012, ch. 18, art. 24, ch. 26, art. 30 et 62; 2014, ch. 14, art. 23, ch. 28, art. 26.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328; 2005, ch. 38, art. 60 et 145; 2007, ch. 18, art. 135; 2009, ch. 6, art. 23, ch. 10, art. 1(F), ch. 16, art. 31 et 56; 2010, ch. 4, art. 25, ch. 12, art. 48; 2012, ch. 18, art. 24, ch. 26, art. 30 et 62, ch. 31, art. 264; 2014, ch. 14, art. 23, ch. 28, art. 26.
 
 
 
@@ -824,13 +826,45 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 
 **Renseignements préalables**
 
-**12.1** Le gouverneur en conseil peut prendre des règlements :
-- **a)** exigeant la fourniture, avant l’arrivée au Canada d’un moyen de transport, de renseignements relatifs à celui-ci et aux marchandises et personnes à bord;
-- **b)** concernant les renseignements à fournir;
-- **c)** désignant les personnes ou catégories de personnes tenues de fournir les renseignements;
-- **d)** prévoyant les circonstances dans lesquelles les renseignements doivent être fournis;
-- **e)** concernant les délais et modalités de fourniture des renseignements.
-> 2009, ch. 10, art. 6.
+**12.1** 
+
+- **(1)** Avant l’arrivée d’un moyen de transport au Canada, le propriétaire ou le responsable d’un moyen de transport visé par règlement ou toute autre personne visée par règlement fournit à l’Agence les renseignements prévus par règlement concernant ce moyen de transport et les personnes et marchandises qui sont ou devraient être à son bord.
+
+**Exemption**
+
+- **(2)** Toute personne qui est tenue de fournir les renseignements prévus au paragraphe (1) doit détenir un code de transporteur valide à moins d’être exemptée de cette obligation.
+
+**Code de transporteur — exigences**
+
+- **(3)** La demande de code de transporteur est présentée au moyen du formulaire réglementaire et comporte les renseignements réglementaires.
+
+**Demande — code de transporteur**
+
+- **(4)** Le ministre délivre un code de transporteur à toute personne dont la demande satisfait aux exigences visées au paragraphe (3), s’il est convaincu que les exigences et les conditions prévues par règlement pour la délivrance d’un tel code sont remplies.
+
+**Suspension, annulation et rétablissement — code de transporteur**
+
+- **(5)** Le ministre peut, sous réserve des règlements, suspendre, annuler ou rétablir un code de transporteur.
+
+**Notification**
+
+- **(6)** Le ministre peut donner à toute personne qui fournit des renseignements en application du paragraphe (1) une notification lui enjoignant de prendre toute mesure précisée à leur égard.
+
+**Obligation de se conformer**
+
+- **(7)** Toute personne qui reçoit une notification doit s’y conformer.
+
+**Règlements**
+
+- **(8)** Le gouverneur en conseil peut prendre des règlements d’application du présent article, notamment des règlements :
+	- **a)** concernant les renseignements à fournir en application du paragraphe (1);
+	- **b)** désignant les personnes ou catégories de personnes tenues de fournir les renseignements en application du paragraphe (1);
+	- **c)** concernant les circonstances dans lesquelles les renseignements doivent être fournis en application du paragraphe (1);
+	- **d)** concernant les délais et modalités de fourniture des renseignements en application du paragraphe (1);
+	- **e)** concernant les exigences et conditions auxquelles il doit être satisfait pour qu’un code de transporteur soit délivré;
+	- **f)** concernant les personnes ou catégories de personnes qui sont exemptées de l’obligation de détenir un code de transporteur valide;
+	- **g)** concernant les modalités de la suspension, de l’annulation ou du rétablissement d’un code de transporteur et les circonstances y donnant lieu.
+> 2009, ch. 10, art. 6; 2012, ch. 31, art. 266.
 
 
 
