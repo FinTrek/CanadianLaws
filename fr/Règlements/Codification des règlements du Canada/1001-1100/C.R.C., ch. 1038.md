@@ -1458,29 +1458,34 @@ où :
 
 **15** 
 
-- **(1)** Pour l’application du paragraphe 10(4) de la Loi, l’avis de défaut prévu à l’article 10 de la Loi contient les renseignements suivants :
+- **(1)** L’avis de défaut prévu à l’article 10 de la Loi contient les renseignements suivants :
 	- **a)** le nom de l’entreprise qui donne l’avis de défaut;
-	- **b)** la catégorie réglementaire de chaque véhicule pour lequel l’avis est donné, la marque, le modèle, l’année de modèle, le numéro d’identification du véhicule, la période de sa fabrication et tout autre renseignement nécessaire pour en permettre l’identification;
-	- **c)** le pourcentage estimatif des véhicules susceptibles d’être défectueux;
+	- **b)** la catégorie réglementaire de chaque véhicule visé par l’avis de défaut, la marque, le modèle, l’année de modèle et le numéro d’identification du véhicule, sa période de fabrication et tout autre renseignement nécessaire pour en permettre l’identification;
+	- **c)** le pourcentage estimatif des véhicules susceptibles de comporter le défaut;
 	- **d)** une description du défaut;
-	- **e)** une estimation du risque correspondant;
+	- **e)** une estimation du risque en découlant pour la sécurité des personnes;
 	- **f)** un exposé des mesures à prendre pour corriger le défaut.
 
-- **(1.1)** L’avis de défaut prévu au paragraphe 10(1) de la Loi est donné par écrit et, lorsqu’il est destiné à une personne autre que le ministre, il est donné :
+- **(2)** L’avis de défaut est donné par écrit et, lorsqu’il est destiné à une personne autre que le ministre, il est donné :
 	- **a)** soit dans les deux langues officielles;
 	- **b)** soit, si celle-ci est connue, dans la langue officielle du choix de la personne.
 
-- **(2)** Dans les 60 jours après avoir donné un avis de défaut, l’entreprise présente au ministre le rapport visé au paragraphe 10(6) de la Loi, lequel contient, en plus des renseignements visés au paragraphe (1), les renseignements suivants :
-	- **a)** le nombre de véhicules visés par l’avis de défaut, ainsi que le nombre de ces véhicules qui appartiennent à chaque catégorie réglementaire;
-	- **b)** la chronologie des principaux événements qui ont permis de déterminer l’existence du défaut;
-	- **c)** des exemplaires des avis, bulletins et autres circulaires publiés par l’entreprise au sujet du défaut, y compris une description détaillée de la nature du défaut et de l’endroit où il se trouve, ainsi que les schémas et autres illustrations nécessaires.
+- **(3)** Pour l’application du paragraphe 10(1) de la Loi, la personne qui a reçu de l’entreprise le véhicule est une personne visée.
 
-- **(3)** Pour l’application du paragraphe 10(6) de la Loi, les rapports trimestriels à présenter, à la suite du rapport visé au paragraphe (2) contiennent les renseignements suivants :
-	- **a)** le numéro, le titre ou la désignation attribués à l’avis de défaut par l’entreprise;
+- **(4)** L’avis de défaut est donné au propriétaire actuel, et à la personne qui a reçu de l’entreprise le véhicule, le plus tôt possible après que l’entreprise a constaté l’existence du défaut, mais au plus tard 60 jours après la date où elle l’a constatée.
+
+- **(5)** Au plus tard 60 jours après la date où elle donne l’avis de défaut au ministre en application du paragraphe 10(1) de la Loi, l’entreprise lui présente un rapport contenant, en plus des renseignements visés au paragraphe (1), les renseignements suivants :
+	- **a)** le nombre de véhicules visés par l’avis de défaut et le nombre de ces véhicules dans chaque catégorie réglementaire;
+	- **b)** une chronologie des principaux événements qui ont permis de déterminer l’existence du défaut;
+	- **c)** des exemplaires des avis, bulletins et autres circulaires publiés par l’entreprise au sujet du défaut;
+	- **d)** une description détaillée de la nature du défaut et de l’endroit où il se trouve, accompagnée, s’il y en a, des diagrammes ou des illustrations qui s’y rapportent.
+
+- **(6)** Après avoir présenté le rapport visé au paragraphe (5), l’entreprise présente au ministre, au cours des deux années qui suivent la date où elle lui donne l’avis de défaut, des rapports trimestriels contenant les renseignements suivants :
+	- **a)** le numéro, le titre ou tout autre moyen d’identification attribués par l’entreprise à l’avis de défaut;
 	- **b)** le nombre révisé de véhicules visés par l’avis de défaut, le cas échéant;
-	- **c)** les dates auxquelles les avis de défaut ont été donnés aux propriétaires actuels des véhicules;
-	- **d)** le nombre ou le pourcentage des véhicules corrigés, y compris ceux qui n’ont nécessité qu’une inspection.
-> DORS/95-147, art. 2; DORS/98-524, art. 3; DORS/2008-104, art. 3; DORS/2009-318, art. 3; DORS/2013-117, art. 3.
+	- **c)** les dates où des avis de défaut ont été donnés aux propriétaires actuels des véhicules touchés;
+	- **d)** le nombre ou pourcentage total des véhicules qui ont fait l’objet de mesures correctives, y compris ceux qui n’ont exigé qu’une inspection.
+> DORS/95-147, art. 2; DORS/98-524, art. 3; DORS/2008-104, art. 3; DORS/2009-318, art. 3; DORS/2013-117, art. 3; DORS/2015-111, art. 1.
 
 
 
