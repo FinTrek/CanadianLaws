@@ -82,35 +82,36 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Agence*** L’Agence Parcs Canada, constituée par l’article 3.
+***Agence*** L’Agence Parcs Canada, constituée par l’article 3. (*Agency*)
 
-***aire marine nationale de conservation*** Aire marine de conservation ou réserve au sens du paragraphe 2(1) de la [Loi sur les aires marines nationales de conservation du Canada](/fr/Lois/Lois%20du%20Canada/2002/ch.%2018.md).
+***aire marine nationale de conservation*** Aire marine de conservation ou réserve au sens du paragraphe 2(1) de la [Loi sur les aires marines nationales de conservation du Canada](/fr/Lois/Lois%20du%20Canada/2002/ch.%2018.md). (*national marine conservation area*)
 
-***autres lieux patrimoniaux protégés*** Sont compris parmi les autres lieux patrimoniaux protégés :
+***autres lieux patrimoniaux protégés*** Sont compris parmi les autres lieux patrimoniaux protégés :
 - **a)** les canaux historiques;
 - **b)** les musées historiques qui peuvent être créés par le ministre en vertu de la [Loi sur les lieux et monuments historiques](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-4.md);
 - **b.1)** le parc marin du Saguenay — Saint-Laurent, créé par l’article 5 de la [Loi sur le parc marin du Saguenay — Saint-Laurent](/fr/Lois/Lois%20du%20Canada/1997/ch.%2037.md);
-- **c)** les autres lieux naturels ou historiques d’importance pour la nation qui relèvent de la compétence du ministre et que celui-ci, avec l’agrément du gouverneur en conseil, peut préciser pour l’application de la présente définition.
+- **b.2)** le parc urbain national de la Rouge;
+- **c)** les autres lieux naturels ou historiques d’importance pour la nation qui relèvent de la compétence du ministre et que celui-ci, avec l’agrément du gouverneur en conseil, peut préciser pour l’application de la présente définition. (*other protected heritage areas*)
 
-***directeur général*** Le directeur général de l’Agence nommé en vertu de l’article 10.
+***directeur général*** Le directeur général de l’Agence nommé en vertu de l’article 10. (*Chief Executive Officer*)
 
-***employé*** Employé nommé en vertu du paragraphe 13(1).
+***employé*** Employé nommé en vertu du paragraphe 13(1). (*employee*)
 
-***lieu historique national*** Lieu historique national du Canada auquel s’applique la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md) ou lieu désigné dans le cadre du paragraphe (2).
+***lieu historique national*** Lieu historique national du Canada auquel s’applique la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md) ou lieu désigné dans le cadre du paragraphe (2). (*national historic site*)
 
-***ministre*** Le ministre de l’Environnement.
+***ministre*** Le ministre de l’Environnement. (*Minister*)
 
-***parc national*** Parc ou réserve au sens de l’article 2 de la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md).
+***parc national*** Parc ou réserve au sens de l’article 2 de la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md). (*national park*)
 
-***programmes de protection du patrimoine*** Sont compris parmi les programmes de protection du patrimoine les programmes liés aux éléments suivants :
+***programmes de protection du patrimoine*** Sont compris parmi les programmes de protection du patrimoine les programmes liés aux éléments suivants :
 - **a)** les gares ferroviaires patrimoniales, les phares patrimoniaux et les édifices fédéraux du patrimoine;
 - **b)** les rivières du patrimoine canadien et l’archéologie fédérale;
-- **c)** les questions relatives aux lieux naturels ou historiques d’importance pour la nation qui relèvent de la compétence du ministre et que celui-ci, avec l’agrément du gouverneur en conseil, peut préciser pour l’application de la présente définition.
+- **c)** les questions relatives aux lieux naturels ou historiques d’importance pour la nation qui relèvent de la compétence du ministre et que celui-ci, avec l’agrément du gouverneur en conseil, peut préciser pour l’application de la présente définition. (*heritage protection programs*)
 
 **Désignation**
 
 - **(2)** Le ministre peut désigner tout lieu historique au sens de la [Loi sur les lieux et monuments historiques](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-4.md) comme lieu historique national pour l’application de la présente loi.
-> 1998, ch. 31, art. 2 et 61.1; 2000, ch. 32, art. 58; 2002, ch. 18, art. 34; 2005, ch. 2, art. 3; 2008, ch. 16, art. 17.
+> 1998, ch. 31, art. 2 et 61.1; 2000, ch. 32, art. 58; 2002, ch. 18, art. 34; 2005, ch. 2, art. 3; 2008, ch. 16, art. 17; 2015, ch. 10, art. 56.
 
 
 
@@ -132,7 +133,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **4** 
 
 - **(1)** Le ministre est responsable de l’Agence et, à ce titre, ses attributions s’étendent de façon générale à tous les domaines de compétence fédérale non attribués de droit à d’autres ministères ou organismes et liés :
-	- **a)** aux lieux naturels ou historiques d’importance pour la nation, notamment les parcs nationaux, les aires marines nationales de conservation, les lieux historiques nationaux, les canaux historiques, les musées historiques créés en vertu de la [Loi sur les lieux et monuments historiques](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-4.md) et le parc marin du Saguenay — Saint-Laurent;
+	- **a)** aux lieux naturels ou historiques d’importance pour la nation, notamment les parcs nationaux, les aires marines nationales de conservation, les lieux historiques nationaux, les canaux historiques, les musées historiques créés en vertu de la [Loi sur les lieux et monuments historiques](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-4.md), le parc marin du Saguenay — Saint-Laurent et le parc urbain national de la Rouge;
 	- **b)** aux gares ferroviaires patrimoniales, aux phares patrimoniaux, aux édifices fédéraux patrimoniaux, aux lieux patrimoniaux au Canada, à l’archéologie fédérale et aux rivières du patrimoine canadien;
 	- **c)** à la mise sur pied et la mise en œuvre de programmes visant principalement le patrimoine bâti.
 
@@ -143,7 +144,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(3)** Les questions visées à l’article 13 ne peuvent toutefois faire l’objet d’instructions.
-> 1998, ch. 31, art. 4; 2005, ch. 2, art. 4; 2008, ch. 16, art. 18.
+> 1998, ch. 31, art. 4; 2005, ch. 2, art. 4; 2008, ch. 16, art. 18; 2015, ch. 10, art. 57.
 
 
 
@@ -601,16 +602,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Plan directeur**
 
-***32** 
+**32** 
 
-- **(1)** Avant l’expiration d’un délai de cinq ans à compter soit de la date d’entrée en vigueur du présent article, soit, si elle est postérieure, de la date d’établissement d’un lieu historique national ou d’un autre lieu patrimonial protégé, le directeur général présente au ministre un plan directeur du lieu en ce qui concerne toute question que le ministre estime indiquée, notamment l’intégrité commémorative et écologique, la protection des ressources et l’utilisation par les visiteurs; le plan est déposé devant chaque chambre du Parlement. Cette obligation s’ajoute à l’obligation relative aux plans directeurs prévue à la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md) et à la [Loi sur les aires marines nationales de conservation du Canada](/fr/Lois/Lois%20du%20Canada/2002/ch.%2018.md).
-
-<a name='P-0.4_fr_1'><sup>*</sup></a>: [Note : Article 32 en vigueur à la sanction le 13 juin 2002.]<br />
+- **(1)** Avant l’expiration d’un délai de cinq ans à compter soit de la date d’entrée en vigueur du présent article, soit, si elle est postérieure, de la date d’établissement d’un lieu historique national ou d’un autre lieu patrimonial protégé, exception faite du parc urbain national de la Rouge, le directeur général présente au ministre un plan directeur du lieu en ce qui concerne toute question que le ministre estime indiquée, notamment l’intégrité commémorative et écologique, la protection des ressources et l’utilisation par les visiteurs; le plan est déposé devant chaque chambre du Parlement. Cette obligation s’ajoute à l’obligation relative aux plans directeurs prévue à la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md) et à la [Loi sur les aires marines nationales de conservation du Canada](/fr/Lois/Lois%20du%20Canada/2002/ch.%2018.md).
 
 **Examen du plan directeur par le ministre**
 
 - **(2)** Le ministre procède à l’examen de chaque plan directeur d’un lieu historique national ou autre lieu patrimonial protégé au moins tous les dix ans et, le cas échéant, fait déposer devant chaque chambre du Parlement les modifications qui lui sont apportées.
-> 1998, ch. 31, art. 32; 2000, ch. 32, art. 59; 2002, ch. 18, art. 40; 2012, ch. 19, art. 319.
+> 1998, ch. 31, art. 32; 2000, ch. 32, art. 59; 2002, ch. 18, art. 40; 2012, ch. 19, art. 319; 2015, ch. 10, art. 58.
 
 
 
@@ -783,6 +782,8 @@ Loi sur la protection des gares ferroviaires patrimoniales<br />- <i>Heritage Ra
 
 Loi sur le parc marin du Saguenay — Saint-Laurent<br />- <i>Saguenay-St. Lawrence Marine Park Act</i>
 
+Loi sur le parc urbain national de la Rouge<br />- <i>Rouge National Urban Park Act</i>
+
 Loi sur les aires marines nationales de conservation du Canada<br />- <i>Canada National Marine Conservation Areas Act</i>
 
 Loi sur les lieux et monuments historiques<br />- <i>Historic Sites and Monuments Act</i>
@@ -805,6 +806,6 @@ Règlement sur les canaux historiques<br />- <i>Historic Canals Regulations</i>
 **PARTIE 4** 
 ### Règlements
 
-> 1998, ch. 31, ann. et art. 61.1; 2000, ch. 32, art. 61 à 63; 2002, ch. 18, art. 41; 2012, ch. 19, art. 322 et 323.
+> 1998, ch. 31, ann. et art. 61.1; 2000, ch. 32, art. 61 à 63; 2002, ch. 18, art. 41; 2012, ch. 19, art. 322 et 323; 2015, ch. 10, art. 59.
 
 
