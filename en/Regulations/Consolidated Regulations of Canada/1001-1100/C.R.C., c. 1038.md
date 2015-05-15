@@ -1456,29 +1456,34 @@ where
 
 **15** 
 
-- **(1)** For the purposes of subsection 10(4) of the Act, a notice of defect required to be given under section 10 of the Act shall contain the following information:
-	- **(a)** the name of the company giving the notice;
-	- **(b)** the prescribed class of each vehicle in respect of which the notice is given and the vehicle’s make, model, model year and vehicle identification number, the period during which it was manufactured and any other information necessary to permit its identification;
-	- **(c)** the estimated percentage of the potentially affected vehicles that contain the defect;
+- **(1)** A notice of defect required to be given under section 10 of the Act shall contain the following information:
+	- **(a)** the name of the company giving the notice of defect;
+	- **(b)** the prescribed class of each vehicle for which the notice of defect is given, the make, model, model year and vehicle identification number of the vehicle, the period during which it was manufactured and any other information necessary to permit its identification;
+	- **(c)** the estimated percentage of the vehicles that potentially contain the defect;
 	- **(d)** a description of the defect;
-	- **(e)** an evaluation of the safety risk arising from the defect; and
+	- **(e)** an evaluation of the risk to the safety of persons that arises from the defect; and
 	- **(f)** a statement of the measures to be taken to correct the defect.
 
-- **(1.1)** A notice of defect required to be given under subsection 10(1) of the Act shall be given in writing and, when given to a person other than the Minister, shall be
+- **(2)** The notice of defect shall be given in writing and, when it is to be given to a person other than the Minister, shall be
 	- **(a)** in both official languages; or
 	- **(b)** in the person’s official language of choice, if it is known.
 
-- **(2)** A company shall, within 60 days after it has given a notice of defect, submit to the Minister a report referred to in subsection 10(6) of the Act containing, in addition to the information required by subsection (1), the following information:
-	- **(a)** the number of vehicles affected by the notice of defect and the number of those vehicles in each prescribed class;
-	- **(b)** a chronology of all principal events that led to the determination of the existence of the defect; and
-	- **(c)** copies of all notices, bulletins and other circulars issued by the company in respect of the defect, including a detailed description of the nature and physical location of the defect with diagrams and other illustrations as necessary.
+- **(3)** For the purposes of subsection 10(1) of the Act, the person who obtained the vehicle from the company is a prescribed person.
 
-- **(3)** For the purposes of subsection 10(6) of the Act, the quarterly reports to be submitted following the report referred to in subsection (2) shall contain the following information:
+- **(4)** The notice of defect shall be given to the current owner and to the person who obtained the vehicle from the company as soon as possible after the company becomes aware of the defect, but no later than 60 days after the day on which the company becomes aware of it.
+
+- **(5)** A company shall, within 60 days after the day on which it gives a notice of defect to the Minister under paragraph 10(1)(a) of the Act, submit to the Minister a report containing, in addition to the information required by subsection (1), the following information:
+	- **(a)** the number of vehicles for which the notice of defect was given and the number of those vehicles in each prescribed class;
+	- **(b)** a chronology of the principal events that led to the determination of the existence of the defect;
+	- **(c)** copies of all notices, bulletins and other circulars issued by the company in respect of the defect; and
+	- **(d)** a detailed description of the nature of the defect and of its location, with any related diagrams or illustrations.
+
+- **(6)** After submitting the report referred to in subsection (5), a company shall, for a period of two years after the day on which it gives the notice of defect to the Minister, submit to the Minister quarterly reports containing the following information:
 	- **(a)** the number, title or other identification assigned by the company to the notice of defect;
-	- **(b)** the revised number of vehicles affected by the notice of defect, if applicable;
-	- **(c)** the date that notices of defect were given to the current owners of the affected vehicles; and
-	- **(d)** the total number or percentage of vehicles repaired, including vehicles requiring inspection only.
-> SOR/95-147, s. 2; SOR/98-524, s. 3; SOR/2008-104, s. 3; SOR/2009-318, s. 3; SOR/2013-117, s. 3.
+	- **(b)** the revised number of vehicles for which the notice of defect was given, if applicable;
+	- **(c)** the dates on which notices of defect were given to the current owners of the affected vehicles; and
+	- **(d)** the total number or percentage of vehicles that had the defect corrected, including vehicles that required only an inspection.
+> SOR/95-147, s. 2; SOR/98-524, s. 3; SOR/2008-104, s. 3; SOR/2009-318, s. 3; SOR/2013-117, s. 3; SOR/2015-111, s. 1.
 
 
 
