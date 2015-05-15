@@ -80,35 +80,36 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** The definitions in this section apply in this Act.
 
-***Agency*** means the Parks Canada Agency established by section 3.
+***Agency*** means the Parks Canada Agency established by section 3. (*Agence*)
 
-***Chief Executive Officer*** means the Chief Executive Officer appointed under section 10.
+***Chief Executive Officer*** means the Chief Executive Officer appointed under section 10. (*directeur général*)
 
-***employee*** means an employee appointed under subsection 13(1).
+***employee*** means an employee appointed under subsection 13(1). (*employé*)
 
-***heritage protection programs*** includes programs that relate to
+***heritage protection programs*** includes programs that relate to
 - **(a)** heritage railway stations, heritage lighthouses and federal heritage buildings;
 - **(b)** Canadian heritage rivers and federal archaeology; and
-- **(c)** any other matters within the jurisdiction of the Minister that relate to areas of Canadian natural or historical significance that the Minister may, with the approval of the Governor in Council, specify for the purposes of this definition.
+- **(c)** any other matters within the jurisdiction of the Minister that relate to areas of Canadian natural or historical significance that the Minister may, with the approval of the Governor in Council, specify for the purposes of this definition. (*programmes de protection du patrimoine*)
 
-***Minister*** means the Minister of the Environment.
+***Minister*** means the Minister of the Environment. (*ministre*)
 
-***national historic site*** means a place designated under subsection (2) or a national historic site of Canada to which the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md) applies.
+***national historic site*** means a place designated under subsection (2) or a national historic site of Canada to which the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md) applies. (*lieu historique national*)
 
-***national marine conservation area*** means a marine conservation area or reserve as defined in subsection 2(1) of the [Canada National Marine Conservation Areas Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2018.md).
+***national marine conservation area*** means a marine conservation area or reserve as defined in subsection 2(1) of the [Canada National Marine Conservation Areas Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2018.md). (*aire marine nationale de conservation*)
 
-***national park*** means a park or park reserve as defined in section 2 of the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md).
+***national park*** means a park or park reserve as defined in section 2 of the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md). (*parc national*)
 
-***other protected heritage areas*** includes
+***other protected heritage areas*** includes
 - **(a)** historic canals;
 - **(b)** historic museums that may be established by the Minister under the [Historic Sites and Monuments Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-4.md);
-- **(b.1)** the Saguenay-St. Lawrence Marine Park established by section 5 of the [Saguenay-St. Lawrence Marine Park Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2037.md); and
-- **(c)** any other areas within the jurisdiction of the Minister that are of Canadian natural or historical significance and that the Minister may, with the approval of the Governor in Council, specify for the purposes of this definition.
+- **(b.1)** the Saguenay-St. Lawrence Marine Park established by section 5 of the [Saguenay-St. Lawrence Marine Park Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2037.md);
+- **(b.2)** the Rouge National Urban Park; and
+- **(c)** any other areas within the jurisdiction of the Minister that are of Canadian natural or historical significance and that the Minister may, with the approval of the Governor in Council, specify for the purposes of this definition. (*autres lieux patrimoniaux protégés*)
 
 **Designation**
 
 - **(2)** The Minister may designate any historic place as defined in section 2 of the [Historic Sites and Monuments Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-4.md) as a national historic site for the purposes of this Act.
-> 1998, c. 31, ss. 2, 61.1; 2000, c. 32, s. 58; 2002, c. 18, s. 34; 2005, c. 2, s. 3; 2008, c. 16, s. 17.
+> 1998, c. 31, ss. 2, 61.1; 2000, c. 32, s. 58; 2002, c. 18, s. 34; 2005, c. 2, s. 3; 2008, c. 16, s. 17; 2015, c. 10, s. 56.
 
 
 
@@ -130,7 +131,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **4** 
 
 - **(1)** The Minister is responsible for the Agency and the powers, duties and functions of the Minister, in that capacity, extend to and include all matters over which Parliament has jurisdiction, not by law assigned to any other department, board or agency of the Government of Canada, relating to
-	- **(a)** areas of natural or historical significance to the nation, including national parks, national marine conservation areas, national historic sites, historic canals, historic museums established under the [Historic Sites and Monuments Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-4.md) and Saguenay-St. Lawrence Marine Park;
+	- **(a)** areas of natural or historical significance to the nation, including national parks, national marine conservation areas, national historic sites, historic canals, historic museums established under the [Historic Sites and Monuments Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-4.md), Saguenay-St. Lawrence Marine Park and Rouge National Urban Park;
 	- **(b)** heritage railway stations, heritage lighthouses, federal heritage buildings, historic places in Canada, federal archaeology and Canadian heritage rivers; and
 	- **(c)** the design and implementation of programs that relate primarily to built heritage.
 
@@ -141,7 +142,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Exception**
 
 - **(3)** Notwithstanding subsection (2), no direction may be given with respect to the matters referred to in section 13.
-> 1998, c. 31, s. 4; 2005, c. 2, s. 4; 2008, c. 16, s. 18.
+> 1998, c. 31, s. 4; 2005, c. 2, s. 4; 2008, c. 16, s. 18; 2015, c. 10, s. 57.
 
 
 
@@ -599,16 +600,14 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Management plans**
 
-***32** 
+**32.** 
 
-- **(1)** In addition to the duties in relation to management plans under the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md) and the [Canada National Marine Conservation Areas Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2018.md), the Chief Executive Officer shall, within five years after the establishment of a national historic site or other protected heritage area, or within five years after the coming into force of this section, whichever is later, provide the Minister with a management plan for that national historic site or other protected heritage area in respect of any matter that the Minister deems appropriate, including, but not limited to, commemorative and ecological integrity, resource protection or visitor use, and that plan shall be tabled in each House of Parliament.
-
-<a name='P-0.4_en_1'><sup>*</sup></a>: [Note: Section 32 in force on assent June 13, 2002.]<br />
+- **(1)** In addition to the duties in relation to management plans under the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md) and the [Canada National Marine Conservation Areas Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2018.md), the Chief Executive Officer shall, within five years after the establishment of a national historic site or other protected heritage area, other than the Rouge National Urban Park, or within five years after the coming into force of this section, whichever is later, provide the Minister with a management plan for that national historic site or other protected heritage area in respect of any matter that the Minister deems appropriate, including, but not limited to, commemorative and ecological integrity, resource protection or visitor use, and that plan shall be tabled in each House of Parliament.
 
 **Review of management plans by Minister**
 
 - **(2)** The Minister shall review the management plan for each national historic site or other protected heritage area at least every 10 years and shall cause any amendments to the plan to be tabled in each House of Parliament.
-> 1998, c. 31, s. 32; 2000, c. 32, s. 59; 2002, c. 18, s. 40; 2012, c. 19, s. 319.
+> 1998, c. 31, s. 32; 2000, c. 32, s. 59; 2002, c. 18, s. 40; 2012, c. 19, s. 319; 2015, c. 10, s. 58.
 
 
 
@@ -785,6 +784,8 @@ Historic Sites and Monuments Act<br />- <i>Loi sur les lieux et monuments histor
 
 Laurier House Act, R.S.C. 1952, c. 163<br />- <i>Loi sur la Maison Laurier (Laurier House), S.R.C. 1952, ch. 163</i>
 
+Rouge National Urban Park Act<br />- <i>Loi sur le parc urbain national de la Rouge</i>
+
 Saguenay-St. Lawrence Marine Park Act<br />- <i>Loi sur le parc marin du Saguenay — Saint-Laurent</i>
 
 
@@ -803,6 +804,6 @@ Historic Canals Regulations<br />- <i>Règlement sur les canaux historiques</i>
 **PART 4** 
 ### Regulations
 
-> 1998, c. 31, Sch., s. 61.1; 2000, c. 32, ss. 61 to 63; 2002, c. 18, s. 41; 2012, c. 19, ss. 322, 323.
+> 1998, c. 31, Sch., s. 61.1; 2000, c. 32, ss. 61 to 63; 2002, c. 18, s. 41; 2012, c. 19, ss. 322, 323; 2015, c. 10, s. 59.
 
 
