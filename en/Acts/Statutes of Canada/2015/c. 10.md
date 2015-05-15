@@ -205,7 +205,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Meaning of terms**
 
-- **(5)** For the purposes of subsection (4), the Minister is deemed to be a Minister referred to in paragraph (b) of the definition ***Minister*** in subsection 2(1) of the [Expropriation Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-21.md) and the Parks Canada Agency is deemed to be a department named in Schedule I to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
+- **(5)** For the purposes of subsection (4), the Minister is deemed to be a Minister referred to in paragraph (b) of the definition Minister in subsection 2(1) of the [Expropriation Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-21.md) and the Parks Canada Agency is deemed to be a department named in Schedule I to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
 
 **No other expropriation**
 
@@ -286,13 +286,13 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** The following definitions apply in this section.
 
-***hunt*** means to kill, injure, seize, capture or trap a wild animal, or to attempt to do so, and includes to pursue, stalk, track, search for, lie in wait for or shoot at a wild animal for any of those purposes.
+***hunt*** means to kill, injure, seize, capture or trap a wild animal, or to attempt to do so, and includes to pursue, stalk, track, search for, lie in wait for or shoot at a wild animal for any of those purposes. (*chasser*)
 
-***possess*** includes, in relation to any person, knowingly having any thing in any place, whether or not that place belongs to or is occupied by the person, for his or her own use or benefit or for that of another person.
+***possess*** includes, in relation to any person, knowingly having any thing in any place, whether or not that place belongs to or is occupied by the person, for his or her own use or benefit or for that of another person. (*possession*)
 
-***traffic*** means to sell, offer for sale, buy, offer to buy, exchange, give, send, transport or deliver.
+***traffic*** means to sell, offer for sale, buy, offer to buy, exchange, give, send, transport or deliver. (*trafic*)
 
-***wild animal*** means any individual of the animal kingdom that is not — or is no longer — domesticated, whether living or dead, at any developmental stage — including any egg or embryo — and any part or any derivative of such an individual.
+***wild animal*** means any individual of the animal kingdom that is not — or is no longer — domesticated, whether living or dead, at any developmental stage — including any egg or embryo — and any part or any derivative of such an individual. (*animal sauvage*)
 
 **Prohibited activities**
 
@@ -497,7 +497,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Arrest without warrant**
 
-**29** A park warden or enforcement officer may, in accordance with the Criminal Code, arrest without warrant any person
+**29** A park warden or enforcement officer may, in accordance with the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), arrest without warrant any person
 - **(a)** whom the warden or officer finds committing an offence under this Act; or
 - **(b)** who the warden or officer believes, on reasonable grounds, has committed or is about to commit an offence under this Act.
 
@@ -988,7 +988,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 <sup><a href='#fn_Ind10FF_hq_15586'>[*]</a></sup>**62** The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind10FF_hq_15586'><sup>*</sup></a>: [Note: Act not in force.]<br />
+<a name='fn_Ind10FF_hq_15586'><sup>*</sup></a>: [Note: Act in force May 15, 2015, *see* SI/2015-37.]<br />
 
 
 
