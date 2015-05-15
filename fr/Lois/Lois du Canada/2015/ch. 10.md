@@ -207,7 +207,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Assimilation**
 
-- **(5)** Pour l’application du paragraphe (4), le ministre est réputé être le ministre visé à l’alinéa b) de la définition de ***ministre***, au paragraphe 2(1) de la [Loi sur l’expropriation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-21.md), et l’Agence Parcs Canada est réputée être un ministère mentionné à l’annexe I de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+- **(5)** Pour l’application du paragraphe (4), le ministre est réputé être le ministre visé à l’alinéa b) de la définition de ministre, au paragraphe 2(1) de la [Loi sur l’expropriation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-21.md), et l’Agence Parcs Canada est réputée être un ministère mentionné à l’annexe I de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
 
 **Expropriation interdite**
 
@@ -288,13 +288,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***animal sauvage*** Tout individu du règne animal qui n’est pas ou n’est plus domestiqué, à tout stade de son développement biologique, notamment oeuf ou embryon, qu’il soit mort ou vivant. Y est assimilé toute partie ou tout produit qui en provient.
+***animal sauvage*** Tout individu du règne animal qui n’est pas ou n’est plus domestiqué, à tout stade de son développement biologique, notamment oeuf ou embryon, qu’il soit mort ou vivant. Y est assimilé toute partie ou tout produit qui en provient. (*wild animal*)
 
-***chasser*** Sont assimilés à l’acte de chasser le fait de tuer, de blesser ou de capturer, notamment par piège, ou de tenter de tuer, de blesser ou de capturer un animal sauvage ou encore de faire feu sur un animal sauvage ou de traquer, de suivre à la trace, de chercher ou d’être à l’affût d’un tel animal en vue de le tuer, de le blesser ou de le capturer.
+***chasser*** Sont assimilés à l’acte de chasser le fait de tuer, de blesser ou de capturer, notamment par piège, ou de tenter de tuer, de blesser ou de capturer un animal sauvage ou encore de faire feu sur un animal sauvage ou de traquer, de suivre à la trace, de chercher ou d’être à l’affût d’un tel animal en vue de le tuer, de le blesser ou de le capturer. (*hunt*)
 
-***possession*** Vise notamment le fait pour une personne d’avoir sciemment une chose en un lieu qui lui appartient ou non ou qu’elle occupe ou non, pour son propre usage ou avantage ou celui d’une autre personne.
+***possession*** Vise notamment le fait pour une personne d’avoir sciemment une chose en un lieu qui lui appartient ou non ou qu’elle occupe ou non, pour son propre usage ou avantage ou celui d’une autre personne. (*possess*)
 
-***trafic*** Le fait de vendre, de mettre en vente, d’acheter, d’offrir d’acheter, d’échanger, de donner, d’envoyer, de transporter ou de livrer.
+***trafic*** Le fait de vendre, de mettre en vente, d’acheter, d’offrir d’acheter, d’échanger, de donner, d’envoyer, de transporter ou de livrer. (*traffic*)
 
 **Interdictions**
 
@@ -986,7 +986,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#nbp_Ind50CB_hq_15090'>[*]</a></sup>**62** Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='nbp_Ind50CB_hq_15090'><sup>*</sup></a>: [Note : Loi non en vigueur.]<br />
+<a name='nbp_Ind50CB_hq_15090'><sup>*</sup></a>: [Note : Loi en vigueur le 15 mai 2015, *voir* TR/2015-37.]<br />
 
 
 
