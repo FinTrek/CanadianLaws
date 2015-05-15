@@ -1087,7 +1087,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Protected areas**
 
-- **(2)** If the critical habitat or a portion of the critical habitat is in a national park of Canada named and described in Schedule 1 to the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md), a marine protected area under the [Oceans Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2031.md), a migratory bird sanctuary under the [Migratory Birds Convention Act, 1994](/en/Acts/Statutes%20of%20Canada/1994/c.%2022.md) or a national wildlife area under the [Canada Wildlife Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-9.md), the competent Minister must, within 90 days after the recovery strategy or action plan that identified the critical habitat is included in the public registry, publish in the Canada Gazette a description of the critical habitat or portion that is in that park, area or sanctuary.
+- **(2)** If the critical habitat or a portion of the critical habitat is in a national park of Canada named and described in Schedule 1 to the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md), the Rouge National Urban Park established by the [Rouge National Urban Park Act](/en/Acts/Statutes%20of%20Canada/2015/c.%2010.md), a marine protected area under the [Oceans Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2031.md), a migratory bird sanctuary under the [Migratory Birds Convention Act, 1994](/en/Acts/Statutes%20of%20Canada/1994/c.%2022.md) or a national wildlife area under the [Canada Wildlife Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-9.md), the competent Minister must, within 90 days after the recovery strategy or action plan that identified the critical habitat is included in the public registry, publish in the Canada Gazette a description of the critical habitat or portion that is in that park, area or sanctuary.
 
 **Application**
 
@@ -1128,6 +1128,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Consultation**
 
 - **(9)** If the competent minister is of the opinion that an order under subsection (4) or (5.1) would affect land that is under the authority of another federal minister, other than a competent minister, he or she must consult the other federal minister before making the order under subsection (4) or the recommendation under subsection (5.2).
+> 2002, c. 29, s. 58; 2015, c. 10, s. 60.
+
 
 
 
