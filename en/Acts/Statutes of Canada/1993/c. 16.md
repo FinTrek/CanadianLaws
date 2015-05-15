@@ -246,47 +246,116 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 
 
-## Notice of Safety Defects
+## Notice of Defect and of Non-Compliance
 
 
 
-**Obligation to give notice**
+**Notice of defect**
 
 **10** 
 
-- **(1)** A company that manufactures, sells or imports any vehicle or equipment of a class for which standards are prescribed shall, on becoming aware of a defect in the design, construction or functioning of the vehicle or equipment that affects or is likely to affect the safety of any person, cause notice of the defect to be given in the prescribed manner to
-	- **(a)** the Minister;
-	- **(b)** each person who has obtained such a vehicle or equipment from the company; and
-	- **(c)** each current owner of such a vehicle or equipment as determined
-		- **(i)** from any warranty issued by the company with respect to the functioning of the vehicle or equipment that has, to its knowledge, been given, sold or transferred to the current owner,
-		- **(ii)** in the case of a vehicle, from provincial motor vehicle registration records, or
-		- **(iii)** in the case of equipment, from a registration system referred to in paragraph 5(1)(h).
+- **(1)** A company that applies a national safety mark to any vehicle or equipment, sells any vehicle or equipment to which a national safety mark has been applied or imports any vehicle or equipment of a class for which standards are prescribed shall, as provided for in the regulations, give notice of any defect in the design, manufacture or functioning of the vehicle or equipment that affects or is likely to affect the safety of any person to
+	- **(a)** the Minister, on becoming aware of the defect; and
+	- **(b)** the current owner and any other prescribed person, within the period provided for in the regulations.
 
-**Where notice previously given**
+**Notice already given**
 
-- **(2)** A company is not required to cause notice to be given of a defect of which notice has already been given under this section by another company that manufactured, sold or imported the vehicle or equipment.
+- **(2)** A company is not required to give notice of a defect
+	- **(a)** for which notice has already been given by another company that manufactured, sold or imported the vehicle or equipment; or
+	- **(b)** for which a notice of non-compliance has been given under section 10.1.
 
-**Publication of notice**
+**Subsequent notice**
 
-- **(3)** Where the Minister is satisfied that the name of the current owner of a vehicle or equipment cannot reasonably be determined by a company in accordance with paragraph (1)(c),
-	- **(a)** the Minister may order the company to give notice of the defect by publication in the prescribed form for a period of five consecutive days in two major daily newspapers in each of the following six regions, namely, the Atlantic provinces, Quebec, Ontario, the Prairie provinces, British Columbia and the Territories, or by dissemination in an alternative medium for such period as the Minister determines; or
-	- **(b)** the Minister may order that the current owner need not be notified.
+- **(2.1)** If the Minister determines that a defect has not been corrected in an adequate number of vehicles or equipment for which notice was given under subsection (1), the Minister may, by order, require the company to provide, in accordance with any conditions specified in the order, a subsequent notice to those persons who have not had the defect corrected. In making this determination, the Minister shall take into consideration, among other things,
+	- **(a)** the nature of the defect;
+	- **(b)** the safety risk arising from it; and
+	- **(c)** the total number of vehicles or equipment affected.
 
-**Contents of notice**
+**Unknown owner**
 
-- **(4)** A notice required to be given under subsections (1) and (3) shall contain, in the form and to the extent prescribed, a description of the defect, an evaluation of the safety risk arising from it and directions for correcting it.
+- **(3)** If the Minister is satisfied that the current owner of a vehicle or equipment cannot reasonably be determined by a company,
+	- **(a)** the company shall give notice in any other manner that is acceptable to the Minister; or
+	- **(b)** the Minister may exempt the company from the requirement to give notice to the current owner.
+
+**Power to order**
+
+- **(4)** The Minister may, by order, require any company that applies a national safety mark to any vehicle or equipment, sells any vehicle or equipment to which a national safety mark has been applied or imports any vehicle or equipment of a class for which standards are prescribed to give notice of a defect in the manner specified in the order, if the Minister considers that it is in the interest of safety.
+
+**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+- **(4.1)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to an order made under subsection (2.1) or (4).
 
 **Particulars to provincial authorities**
 
 - **(5)** Forthwith on receiving any notice under subsection (1), the Minister shall forward full particulars of the notice to the minister or other officer responsible for motor vehicle administration in each province.
 
+- **(6) and (7)** [Repealed, 2014, c. 20, s. 221]
+> 1993, c. 16, s. 10; 2014, c. 20, s. 221.
+
+
+
+
+
+**Notice of non-compliance**
+
+**10.1** 
+
+- **(1)** A company that applies a national safety mark to any vehicle or equipment, sells any vehicle or equipment to which a national safety mark has been applied or imports any vehicle or equipment of a class for which standards are prescribed shall, as provided for in the regulations, give notice of any non-compliance of the vehicle or equipment with the regulations to
+	- **(a)** the Minister, on becoming aware of the non-compliance; and
+	- **(b)** the current owner and any other prescribed person, within the period provided for in the regulations.
+
+**Notice already given**
+
+- **(2)** A company is not required to give notice of any non-compliance for which notice has already been given by another company that manufactured, sold or imported the vehicle or equipment.
+
+**Exception**
+
+- **(3)** If the Minister determines that the non-compliance is inconsequential to safety, the company is not required to give notice under paragraph (1)(b).
+
+**Subsequent notice**
+
+- **(4)** If the Minister determines that a non-compliance has not been corrected in an adequate number of vehicles or equipment, the Minister may, by order, require a company to provide, in accordance with any conditions specified in the order, a subsequent notice to those persons who have not had the non-compliance corrected. In making this determination, the Minister shall take into consideration, among other things,
+	- **(a)** the nature of the non-compliance;
+	- **(b)** the safety risk arising from it; and
+	- **(c)** the total number of vehicles or equipment affected.
+
+**Unknown owner**
+
+- **(5)** If the Minister is satisfied that the current owner of a vehicle or equipment cannot reasonably be determined by a company
+	- **(a)** the company shall give notice in any other manner that is acceptable to the Minister; or
+	- **(b)** the Minister may exempt the company from the requirement to give notice to the current owner.
+
+**Particulars to provincial authorities**
+
+- **(6)** On receiving a notice under subsection (1), the Minister shall forward full particulars of it to the minister or other officer who is responsible for motor vehicle administration in each province.
+
+**Power to order**
+
+- **(7)** The Minister may, by order, require any company that applies a national safety mark to any vehicle or equipment, sells any vehicle or equipment to which a national safety mark has been applied or imports any vehicle or equipment of a class for which standards are prescribed to give a notice of non-compliance in the manner specified by the Minister, if the Minister considers that it is in the interest of safety.
+
+**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+- **(8)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to an order made under subsection (4) or (7).
+> 2014, c. 20, s. 222.
+
+
+
+
+
 **Follow-up reports**
 
-- **(6)** Every company that causes notice to be given under subsection (1) shall submit a report containing prescribed information respecting the defect and its correction to the Minister in the prescribed form within the prescribed period and quarterly thereafter.
+**10.2** A company that gives notice to the Minister shall submit reports to the Minister as provided for in the regulations.
+> 2014, c. 20, s. 222.
 
-**Idem**
 
-- **(7)** Unless the Minister otherwise directs, the quarterly reports referred to in subsection (6) shall be submitted for a period of two years after the day on which notice was given under subsection (1).
+
+
+
+**Make information available**
+
+**10.3** A company that gives notice to the Minister in respect of a vehicle shall, as provided for in regulations, make information available for the vehicle in respect of which the notice was given.
+> 2014, c. 20, s. 222.
+
 
 
 
