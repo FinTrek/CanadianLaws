@@ -1476,7 +1476,7 @@ où :
 
 <sup><a href='#fn_Ind195D_hq_14271'>[*]</a></sup>**238** L’article 213, les paragraphes 217(1), (3), (4) et (6) et les articles 220 à 222 et 230 entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind195D_hq_14271'><sup>*</sup></a>: [Note : Article 213, paragraphes 217(1), (3), (4) et (6) et articles 220 à 222 et 230 non en vigueur.]<br />
+<a name='fn_Ind195D_hq_14271'><sup>*</sup></a>: [Note : Articles 220 à 222 en vigueur le 15 mai 2015, *voir* TR/2015-38.]<br />
 
 
 
