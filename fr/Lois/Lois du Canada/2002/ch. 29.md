@@ -1080,14 +1080,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **58** 
 
-- **(1)** Sous réserve des autres dispositions du présent article, il est interdit de détruire un élément de l’habitat essentiel d’une espèce sauvage inscrite comme espèce en voie de disparition ou menacée — ou comme espèce disparue du pays dont un programme de rétablissement a recommandé la réinsertion à l’état sauvage au Canada :
+- **(1)** Sous réserve des autres dispositions du présent article, il est interdit de détruire un élément de l’habitat essentiel d’une espèce sauvage inscrite comme espèce en voie de disparition ou menacée — ou comme espèce disparue du pays dont un programme de rétablissement a recommandé la réinsertion à l’état sauvage au Canada :
 	- **a)** si l’habitat essentiel se trouve soit sur le territoire domanial, soit dans la zone économique exclusive ou sur le plateau continental du Canada;
 	- **b)** si l’espèce inscrite est une espèce aquatique;
 	- **c)** si l’espèce inscrite est une espèce d’oiseau migrateur protégée par la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md).
 
 **Zone de protection**
 
-- **(2)** Si l’habitat essentiel ou une partie de celui-ci se trouve dans un parc national du Canada dénommé et décrit à l’annexe 1 de la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md), une zone de protection marine sous le régime de la [Loi sur les océans](/fr/Lois/Lois%20du%20Canada/1996/ch.%2031.md), un refuge d’oiseaux migrateurs sous le régime de la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md) ou une réserve nationale de la faune sous le régime de la [Loi sur les espèces sauvages du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-9.md), le ministre compétent est tenu, dans les quatre-vingt-dix jours suivant la mise dans le registre du programme de rétablissement ou du plan d’action ayant défini l’habitat essentiel, de publier dans la Gazette du Canada une description de l’habitat essentiel ou de la partie de celui-ci qui se trouve dans le parc, la zone, le refuge ou la réserve.
+- **(2)** Si l’habitat essentiel ou une partie de celui-ci se trouve dans un parc national du Canada dénommé et décrit à l’annexe 1 de la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md), le parc urbain national de la Rouge, créé par la [Loi sur le parc urbain national de la Rouge](/fr/Lois/Lois%20du%20Canada/2015/ch.%2010.md), une zone de protection marine sous le régime de la [Loi sur les océans](/fr/Lois/Lois%20du%20Canada/1996/ch.%2031.md), un refuge d’oiseaux migrateurs sous le régime de la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md) ou une réserve nationale de la faune sous le régime de la [Loi sur les espèces sauvages du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-9.md), le ministre compétent est tenu, dans les quatre-vingt-dix jours suivant la mise dans le registre du programme de rétablissement ou du plan d’action ayant défini l’habitat essentiel, de publier dans la Gazette du Canada une description de l’habitat essentiel ou de la partie de celui-ci qui se trouve dans le parc, la zone, le refuge ou la réserve.
 
 **Application**
 
@@ -1097,9 +1097,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(4)** Le paragraphe (1) s’applique à l’habitat essentiel ou à la partie de celui-ci qui ne se trouve pas dans un lieu visé au paragraphe (2), selon ce que précise un arrêté pris par le ministre compétent.
 
-**Obligation : arrêté ou déclaration**
+**Obligation : arrêté ou déclaration**
 
-- **(5)** Dans les cent quatre-vingts jours suivant la mise dans le registre du programme de rétablissement ou du plan d’action ayant défini l’habitat essentiel, le ministre compétent est tenu, après consultation de tout autre ministre compétent, à l’égard de l’habitat essentiel ou de la partie de celui-ci qui ne se trouve pas dans un lieu visé au paragraphe (2) :
+- **(5)** Dans les cent quatre-vingts jours suivant la mise dans le registre du programme de rétablissement ou du plan d’action ayant défini l’habitat essentiel, le ministre compétent est tenu, après consultation de tout autre ministre compétent, à l’égard de l’habitat essentiel ou de la partie de celui-ci qui ne se trouve pas dans un lieu visé au paragraphe (2) :
 	- **a)** de prendre l’arrêté visé au paragraphe (4), si l’habitat essentiel ou la partie de celui-ci ne sont pas protégés légalement par des dispositions de la présente loi ou de toute autre loi fédérale, ou une mesure prise sous leur régime, notamment les accords conclus au titre de l’article 11;
 	- **b)** s’il ne prend pas l’arrêté, de mettre dans le registre une déclaration énonçant comment l’habitat essentiel ou la partie de celui-ci sont protégés légalement.
 
@@ -1107,9 +1107,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(5.1)** Par dérogation au paragraphe (4), en ce qui concerne l’habitat essentiel d’une espèce d’oiseaux migrateurs protégée par la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md) situé hors du territoire domanial, de la zone économique exclusive ou du plateau continental du Canada ou d’un refuge d’oiseaux migrateurs visé au paragraphe (2), le paragraphe (1) ne s’applique qu’aux parties de cet habitat essentiel — constituées de tout ou partie de l’habitat auquel cette loi s’applique — précisées par le gouverneur en conseil par décret pris sur recommandation du ministre compétent.
 
-**Obligation : recommandation ou déclaration**
+**Obligation : recommandation ou déclaration**
 
-- **(5.2)** Dans les cent quatre-vingts jours suivant la mise dans le registre du programme de rétablissement ou du plan d’action ayant défini l’habitat essentiel qui comporte tout ou partie de l’habitat auquel la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md) s’applique, le ministre compétent est tenu, après consultation de tout autre ministre compétent :
+- **(5.2)** Dans les cent quatre-vingts jours suivant la mise dans le registre du programme de rétablissement ou du plan d’action ayant défini l’habitat essentiel qui comporte tout ou partie de l’habitat auquel la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md) s’applique, le ministre compétent est tenu, après consultation de tout autre ministre compétent :
 	- **a)** de faire la recommandation si, à son avis, aucune disposition de la présente loi ou de toute autre loi fédérale, ni aucune mesure prise sous leur régime, notamment les accords conclus au titre de l’article 11, ne protège légalement toute partie de l’habitat auquel cette loi s’applique;
 	- **b)** s’il ne fait pas la recommandation, de mettre dans le registre une déclaration énonçant comment est protégé légalement tout ou partie de l’habitat essentiel constitué de tout ou partie de l’habitat auquel cette loi s’applique.
 
@@ -1128,6 +1128,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Consultation**
 
 - **(9)** Si le ministre compétent estime que l’arrêté visé au paragraphe (4) ou le décret visé au paragraphe (5.1) touchera des terres relevant d’un autre ministre fédéral, sauf un ministre compétent, il est tenu de consulter cet autre ministre fédéral avant de prendre l’arrêté au titre du paragraphe (4) ou de faire la recommandation au titre du paragraphe (5.2).
+> 2002, ch. 29, art. 58; 2015, ch. 10, art. 60.
+
 
 
 
