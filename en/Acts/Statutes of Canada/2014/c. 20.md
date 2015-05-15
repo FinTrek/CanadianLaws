@@ -1476,7 +1476,7 @@ In all other respects, the employee is governed by the terms and conditions of e
 
 <sup><a href='#fn_Ind1763_hq_14284'>[*]</a></sup>**238** Section 213, subsections 217(1), (3), (4) and (6) and sections 220 to 222 and 230 come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind1763_hq_14284'><sup>*</sup></a>: [Note: Section 213, subsections 217(1), (3), (4) and (6) and sections 220 to 222 and 230 not in force.]<br />
+<a name='fn_Ind1763_hq_14284'><sup>*</sup></a>: [Note: Sections 220 to 222 in force May 15, 2015, *see* SI/2015-38.]<br />
 
 
 
