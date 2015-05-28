@@ -30,16 +30,16 @@ Enabling authorities:
 ## Remission
 
 
-**3** Remission is hereby granted of the additional duties paid or payable under section 21 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) and of the taxes paid or payable under Division III of Part IX and under any other Part of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) on a representational gift that
-- **(a)** is presented to
-	- **(i)** the Prime Minister of Canada,
-	- **(ii)** a minister of the Government of Canada,
-	- **(iii)** a member of the Senate or of the House of Commons,
-	- **(iv)** a provincial premier, or
-	- **(v)** a municipal mayor
-in the course of an official visit by the donee outside Canada; or
-- **(b)** is to be presented by a donor in the course of an official visit by him to Canada and is subsequently so presented.
-> SI/88-73, s. 1; SI/91-12, s. 2; SI/92-203, s. 2; SI/98-6, s. 6.
+**3** Remission is granted of the additional duties paid or payable under sections 21.2 and 21.3 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), of the duties paid or payable under the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) and of the taxes paid or payable under any Parts of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) other than Part IX in respect of the importation of a representational gift that
+- **(a)** is presented to a donee in the course of their official visit outside Canada if they are acting in the capacity of
+	- **(i)** the Governor General,
+	- **(ii)** the Prime Minister of Canada,
+	- **(iii)** a minister of the Government of Canada,
+	- **(iv)** a member of the Senate or House of Commons,
+	- **(v)** a provincial premier, or
+	- **(vi)** a municipal mayor; or
+- **(b)** is to be presented by a donor in the course of their official visit to Canada and is subsequently so presented.
+> SI/88-73, s. 1; SI/91-12, s. 2; SI/92-203, s. 2; SI/98-6, s. 6; SI/2015-44, s. 1.
 
 
 
