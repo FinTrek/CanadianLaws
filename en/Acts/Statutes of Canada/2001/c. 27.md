@@ -1329,7 +1329,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** for directly or indirectly misrepresenting or withholding material facts relating to a relevant matter that induces or could induce an error in the administration of this Act;
 	- **(b)** for being or having been sponsored by a person who is determined to be inadmissible for misrepresentation;
 	- **(c)** on a final determination to vacate a decision to allow their claim for refugee protection or application for protection; or
-	- **(d)** on ceasing to be a citizen under paragraph 10(1)(a) of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md), in the circumstances set out in subsection 10(2) of that Act.
+	- **(d)** on ceasing to be a citizen under
+		- **(i)** paragraph 10(1)(a) of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md), as it read immediately before the coming into force of section 8 of the Strengthening Canadian Citizenship Act, in the circumstances set out in subsection 10(2) of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md), as it read immediately before that coming into force,
+		- **(ii)** subsection 10(1) of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md), in the circumstances set out in section 10.2 of that Act, or
+		- **(iii)** paragraph 10.1(3)(a) of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md), in the circumstances set out in section 10.2 of that Act.
 
 **Application**
 
@@ -1340,7 +1343,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Inadmissible**
 
 - **(3)** A foreign national who is inadmissible under this section may not apply for permanent resident status during the period referred to in paragraph (2)(a).
-> 2001, c. 27, s. 40; 2012, c. 17, s. 17; 2013, c. 16, s. 16.
+> 2001, c. 27, s. 40; 2012, c. 17, s. 17; 2013, c. 16, s. 16; 2014, c. 22, s. 42.
 
 
 
@@ -1476,10 +1479,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1.1)** A person who loses their permanent resident status under paragraph (1)(e) becomes a temporary resident for a period of six months unless they make their application to renounce their permanent resident status at a port of entry or are not physically present in Canada on the day on which their application is approved.
 
-**Permanent resident**
+**Effect of ceasing to be citizen**
 
-- **(2)** A person who ceases to be a citizen under paragraph 10(1)(a) of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md), other than in the circumstances set out in subsection 10(2) of that Act, becomes a permanent resident.
-> 2001, c. 27, s. 46; 2012, c. 17, s. 19; 2013, c. 16, s. 20.
+- **(2)** A person becomes a permanent resident if he or she ceases to be a citizen under
+	- **(a)** paragraph 10(1)(a) of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md), as it read immediately before the coming into force of section 8 of the Strengthening Canadian Citizenship Act, other than in the circumstances set out in subsection 10(2) of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md), as it read immediately before that coming into force;
+	- **(b)** subsection 10(1) of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md), other than in the circumstances set out in section 10.2 of that Act; or
+	- **(c)** paragraph 10.1(3)(a) of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md), other than in the circumstances set out in section 10.2 of that Act.
+> 2001, c. 27, s. 46; 2012, c. 17, s. 19; 2013, c. 16, s. 20; 2014, c. 22, s. 43.
 
 
 
