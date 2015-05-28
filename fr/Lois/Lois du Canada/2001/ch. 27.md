@@ -1320,7 +1320,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** directement ou indirectement, faire une présentation erronée sur un fait important quant à un objet pertinent, ou une réticence sur ce fait, ce qui entraîne ou risque d’entraîner une erreur dans l’application de la présente loi;
 	- **b)** être ou avoir été parrainé par un répondant dont il a été statué qu’il est interdit de territoire pour fausses déclarations;
 	- **c)** l’annulation en dernier ressort de la décision ayant accueilli la demande d’asile ou de protection;
-	- **d)** la perte de la citoyenneté au titre de l’alinéa 10(1)a) de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md) dans le cas visé au paragraphe 10(2) de cette loi.
+	- **d)** la perte de la citoyenneté :
+		- **(i)** soit au titre de l’alinéa 10(1)a) de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md), dans sa version antérieure à l’entrée en vigueur de l’article 8 de la Loi renforçant la citoyenneté canadienne, dans le cas visé au paragraphe 10(2) de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md), dans sa version antérieure à cette entrée en vigueur,
+		- **(ii)** soit au titre du paragraphe 10(1) de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md), dans le cas visé à l’article 10.2 de cette loi,
+		- **(iii)** soit au titre de l’alinéa 10.1(3)a) de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md), dans le cas visé à l’article 10.2 de cette loi.
 
 **Application**
 
@@ -1331,7 +1334,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Interdiction de territoire**
 
 - **(3)** L’étranger interdit de territoire au titre du présent article ne peut, pendant la période visée à l’alinéa (2)a), présenter de demande pour obtenir le statut de résident permanent.
-> 2001, ch. 27, art. 40; 2012, ch. 17, art. 17; 2013, ch. 16, art. 16.
+> 2001, ch. 27, art. 40; 2012, ch. 17, art. 17; 2013, ch. 16, art. 16; 2014, ch. 22, art. 42.
 
 
 
@@ -1467,8 +1470,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Effet de la perte de la citoyenneté**
 
-- **(2)** Devient résident permanent quiconque perd la citoyenneté au titre de l’alinéa 10(1)a) de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md), sauf s’il est visé au paragraphe 10(2) de cette loi.
-> 2001, ch. 27, art. 46; 2012, ch. 17, art. 19; 2013, ch. 16, art. 20.
+- **(2)** Devient résident permanent quiconque perd la citoyenneté :
+	- **a)** soit au titre de l’alinéa 10(1)a) de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md), dans sa version antérieure à l’entrée en vigueur de l’article 8 de la Loi renforçant la citoyenneté canadienne, sauf s’il est visé au paragraphe 10(2) de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md), dans sa version antérieure à cette entrée en vigueur;
+	- **b)** soit au titre du paragraphe 10(1) de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md), sauf s’il est visé à l’article 10.2 de cette loi;
+	- **c)** soit au titre de l’alinéa 10.1(3)a) de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md), sauf s’il est visé à l’article 10.2 de cette loi.
+> 2001, ch. 27, art. 46; 2012, ch. 17, art. 19; 2013, ch. 16, art. 20; 2014, ch. 22, art. 43.
 
 
 
