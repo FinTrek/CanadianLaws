@@ -30,16 +30,16 @@ Autorités habilitantes :
 ## Remise
 
 
-**3** Remise est accordée des droits supplémentaires payés ou payables en vertu de l’article 21 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) et des taxes payées ou payables en vertu de la section III de la partie IX et en vertu de toute autre partie de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) sur les présents officiels :
-- **a)** offerts
-	- **(i)** au premier ministre du Canada,
-	- **(ii)** aux ministres du gouvernement du Canada,
-	- **(iii)** aux membres du Sénat ou de la Chambre des communes,
-	- **(iv)** aux premiers ministres des provinces, ou
-	- **(v)** aux maires des municipalités
-en visite officielle à l’étranger; ou
-- **b)** offerts par une personnalité étrangère en visite officielle au Canada.
-> TR/88-73, art. 1; TR/91-12, art. 2; TR/92-203, art. 2; TR/98-6, art. 6.
+**3** Remise est accordée des droits additionnels payés ou exigibles en vertu des articles 21.2 et 21.3 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), des droits payés ou exigibles en vertu de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md) et des taxes payées ou payables en vertu des parties de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) autres que la partie IX relativement à l’importation de présents officiels qui, selon le cas :
+- **a)** sont offerts aux personnalités canadiennes ci-après en visite officielle à l’étranger :
+	- **(i)** le gouverneur général,
+	- **(ii)** le premier ministre du Canada,
+	- **(iii)** les ministres du gouvernement du Canada,
+	- **(iv)** les sénateurs et les députés de la Chambre des communes,
+	- **(v)** les premiers ministres des provinces,
+	- **(vi)** les maires des municipalités;
+- **b)** sont destinés à être offerts par une personnalité étrangère en visite officielle au Canada et sont effectivement ainsi offerts.
+> TR/88-73, art. 1; TR/91-12, art. 2; TR/92-203, art. 2; TR/98-6, art. 6; TR/2015-44, art. 1.
 
 
 
