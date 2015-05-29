@@ -3124,6 +3124,9 @@ de la fraction non amortie du coût en capital, pour lui, des biens de la catég
 
 	- **a.1)** lorsqu’un bien du contribuable qui est un bâtiment est compris dans une catégorie distincte par l’effet du paragraphe 1101(5b.1) et qu’au moins 90 pour cent de l’aire de plancher du bâtiment est utilisée, à la fin de l’année d’imposition, pour la fabrication ou la transformation au Canada de marchandises destinées à la vente ou à la location, à la somme qu’il demande jusqu’à concurrence de 6 pour cent de la fraction non amortie du coût en capital, pour lui, des biens de cette catégorie à la fin de l’année (avant toute déduction prévue par le présent paragraphe pour l’année);
 	- **a.2)** lorsqu’un bien du contribuable qui est un bâtiment est compris dans une catégorie distincte par l’effet du paragraphe 1101(5b.1), qu’au moins 90 pour cent de l’aire de plancher du bâtiment est utilisée, à la fin de l’année d’imposition, à une fin non résidentielle au Canada et que le bien ne donne pas droit pour l’année à la déduction additionnelle prévue à l’alinéa a.1), à la somme qu’il demande jusqu’à concurrence de 2 pour cent de la fraction non amortie du coût en capital, pour lui, des biens de cette catégorie à la fin de l’année (avant toute déduction prévue par le présent paragraphe pour l’année);
+	- **a.3)** au montant supplémentaire qu’il peut déduire à l’égard de biens qui sont utilisés à titre de partie d’une installation de liquéfaction admissible et qui, aux termes du paragraphe 1101(5b.2), font partie d’une catégorie distincte, sans dépasser le moins élevé des montants suivants :
+		- **(i)** son revenu pour l’année tiré de ses activités de liquéfaction admissibles relativement à l’installation de liquéfaction admissible (compte tenu de toute déduction prévue à l’alinéa yb) et avant toute déduction prévue au présent alinéa),
+		- **(ii)** 6 % de la fraction non amortie du coût en capital, pour lui, des biens de cette catégorie distincte à la fin de l’année (avant toute déduction prévue au présent paragraphe pour l’année);
 
 #### Catégorie 13
 
@@ -3373,6 +3376,12 @@ où :
 	- **(iv)** la proportion de 60 % que représente le rapport entre le nombre de jours de l’année d’imposition qui sont en 2019 et le nombre total de jours de l’année d’imposition,
 	- **(v)** la proportion de 30 % que représente le rapport entre le nombre de jours de l’année d’imposition qui sont en 2020 et le nombre total de jours de l’année d’imposition,
 	- **(vi)** 0 % pour le ou les jours de l’année d’imposition qui sont postérieurs à 2020;
+
+#### Déduction supplémentaire — catégorie 47
+
+	- **yb)** au montant supplémentaire qu’il peut déduire à l’égard de biens qui sont utilisés à titre de partie d’une installation de liquéfaction admissible et qui, aux termes du paragraphe 1101(4i), font partie d’une catégorie distincte, sans dépasser le moins élevé des montants suivants :
+		- **(i)** son revenu pour l’année tiré de ses activités de liquéfaction admissibles relativement à l’installation de liquéfaction admissible (compte tenu de toute déduction prévue à l’alinéa a.3) et avant toute déduction prévue au présent alinéa),
+		- **(ii)** 22 % de la fraction non amortie du coût en capital, pour lui, des biens de cette catégorie distincte à la fin de l’année (avant toute déduction prévue au présent paragraphe pour l’année);
 
 #### Déductions supplémentaires — Voitures de chemin de fer
 
@@ -3871,7 +3880,7 @@ lorsque le propriétaire est :
 	- **b)** soit d’une personne avec laquelle le contribuable avait un lien de dépendance, sauf en vertu d’un droit visé à l’alinéa 251(5)b) de la Loi, au moment de l’acquisition du bien.
 
 - **(29)** Un bien acquis par un contribuable ou une société de personnes qui est un bien de remplacement, au sens du paragraphe 13(4) de la Loi, et qui serait par ailleurs un bien énergétique déterminé du contribuable ou de la société de personnes est réputé ne pas être un tel bien si l’ancien bien, visé aux alinéas 13(4)a) ou b) de la Loi, n’était pas, par application des paragraphes (27) ou (28) ou du présent paragraphe, un bien énergétique déterminé du contribuable ou de la société de personnes avant que l’un ou l’autre en dispose.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 1; DORS/78-377, art. 3 à 6; DORS/78-948, art. 1; DORS/79-427, art. 1; DORS/80-942, art. 1; DORS/81-470, art. 1; DORS/82-265, art. 1; DORS/83-340, art. 1; DORS/83-432, art. 1; DORS/84-454, art. 1; DORS/84-948, art. 5; DORS/85-13, art. 1; DORS/85-174, art. 1; DORS/86-254, art. 1; DORS/86-1092, art. 3(F) et 4(F); DORS/86-1136, art. 1; DORS/88-392, art. 1; DORS/89-27, art. 1; DORS/90-22, art. 1; DORS/90-257, art. 1; DORS/90-670, art. 1; DORS/91-196, art. 1; DORS/91-673, art. 1; DORS/92-681, art. 3; DORS/94-128, art. 1; DORS/94-140, art. 2; DORS/94-169, art. 1; DORS/94-170, art. 1; DORS/94-686, art. 9(F), 48, 58(F), 78(F), 79(F) et 81(F); DORS/95-244, art. 1; DORS/97-377, art. 1; DORS/99-179, art. 1; DORS/2000-248, art. 2; DORS/2005-126, art. 1; DORS/2005-371, art. 1; DORS/2005-414, art. 1; DORS/2006-117, art. 1; DORS/2007-19, art. 1; DORS/2009-115, art. 1; DORS/2009-126, art. 1; DORS/2010-93, art. 12; DORS/2011-9, art. 1; 2013, ch. 34, art. 383, ch. 40, art. 100.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 1; DORS/78-377, art. 3 à 6; DORS/78-948, art. 1; DORS/79-427, art. 1; DORS/80-942, art. 1; DORS/81-470, art. 1; DORS/82-265, art. 1; DORS/83-340, art. 1; DORS/83-432, art. 1; DORS/84-454, art. 1; DORS/84-948, art. 5; DORS/85-13, art. 1; DORS/85-174, art. 1; DORS/86-254, art. 1; DORS/86-1092, art. 3(F) et 4(F); DORS/86-1136, art. 1; DORS/88-392, art. 1; DORS/89-27, art. 1; DORS/90-22, art. 1; DORS/90-257, art. 1; DORS/90-670, art. 1; DORS/91-196, art. 1; DORS/91-673, art. 1; DORS/92-681, art. 3; DORS/94-128, art. 1; DORS/94-140, art. 2; DORS/94-169, art. 1; DORS/94-170, art. 1; DORS/94-686, art. 9(F), 48, 58(F), 78(F), 79(F) et 81(F); DORS/95-244, art. 1; DORS/97-377, art. 1; DORS/99-179, art. 1; DORS/2000-248, art. 2; DORS/2005-126, art. 1; DORS/2005-371, art. 1; DORS/2005-414, art. 1; DORS/2006-117, art. 1; DORS/2007-19, art. 1; DORS/2009-115, art. 1; DORS/2009-126, art. 1; DORS/2010-93, art. 12; DORS/2011-9, art. 1; 2013, ch. 34, art. 383, ch. 40, art. 100; DORS/2015-117, art. 1.
 
 
 
@@ -3922,7 +3931,7 @@ une catégorie distincte est prescrite pour tous les biens dont chacun
 	- **c)** est un bien visé à l’alinéa a); et
 	- **d)** serait autrement compris dans la même catégorie.
 
-- **(1ac)** Sous réserve du paragraphe (5h), lorsque plus d’un bien du contribuable sont compris dans la même catégorie de l’annexe II et qu’un ou plusieurs de ces biens sont des biens locatifs du contribuable dont le coût en capital est d’au moins 50 000 $, une catégorie distincte est prescrite pour chacun de ces biens locatifs qui seraient autrement compris dans la même catégorie, autre que d’un bien locatif qui a été acquis par le contribuable avant 1972 ou qui est
+- **(1ac)** Sous réserve du paragraphe (5h), lorsque plus d’un bien du contribuable sont compris dans la même catégorie de l’annexe II et qu’un ou plusieurs de ces biens sont des biens locatifs du contribuable dont le coût en capital est d’au moins 50 000 $, une catégorie distincte est prescrite pour chacun de ces biens locatifs qui seraient autrement compris dans la même catégorie, autre que d’un bien locatif qui a été acquis par le contribuable avant 1972 ou qui est
 	- **a)** un immeuble ou une participation dans celui-ci, ou
 	- **b)** une tenure à bail acquise par le contribuable en raison du fait qu’il a construit un immeuble sur un terrain loué à bail,
 immeuble dont la construction a été commencée par le contribuable avant 1972 ou conformément à une convention par écrit conclue par lui avant 1972.
@@ -3959,7 +3968,7 @@ si ces décrets s’appliquaient à l’année d’imposition, une catégorie di
 #### Navires canadiens
 
 
-- **(2a)** Une catégorie distincte est prescrite pour chaque navire d’un contribuable, y compris le mobilier, les accessoires, le matériel de radiocommunication et tout autre matériel qui y est fixé, qui :
+- **(2a)** Une catégorie distincte est prescrite pour chaque navire d’un contribuable, y compris le mobilier, les accessoires, le matériel de radiocommunication et tout autre matériel qui y est fixé, qui :
 	- **a)** a été construit au Canada;
 	- **b)** est immatriculé au Canada; et
 	- **c)** n’a été utilisé à aucune fin avant d’être acquis par le contribuable.
@@ -4055,6 +4064,11 @@ chaque semblable mine de minéral industriel et chaque semblable droit d’extra
 	- **a)** ont été acquis dans le but de tirer un revenu des mines déterminées;
 	- **b)** seraient compris par ailleurs dans la catégorie 41.2 par l’effet de son alinéa a).
 
+#### Catégorie 47 — matériel de liquéfaction
+
+
+- **(4i)** Est compris dans une catégorie distincte le matériel de liquéfaction admissible acquis par le contribuable pour utilisation à titre de partie d’une installation de liquéfaction admissible de celui-ci dans le but de gagner ou de produire un revenu de l’installation.
+
 #### Conventions de bail avec option
 
 
@@ -4068,12 +4082,17 @@ chaque semblable mine de minéral industriel et chaque semblable droit d’extra
 #### Immeubles résidentiels à logements multiples
 
 
-- **(5b)** Aux fins de la présente partie, lorsqu’un bien d’un contribuable est un bien de la catégorie 31 ou 32 de l’annexe II et que son coût en capital, pour le contribuable, est d’au moins 50 000 $, une catégorie distincte est prescrite pour chacun de ces biens du contribuable qui autrement seraient compris dans la même catégorie.
+- **(5b)** Aux fins de la présente partie, lorsqu’un bien d’un contribuable est un bien de la catégorie 31 ou 32 de l’annexe II et que son coût en capital, pour le contribuable, est d’au moins 50 000 $, une catégorie distincte est prescrite pour chacun de ces biens du contribuable qui autrement seraient compris dans la même catégorie.
 
 #### Bâtiments non résidentiels admissibles
 
 
-- **(5b.1)** Pour l’application de la présente partie, est compris dans une catégorie distincte chaque bâtiment non résidentiel admissible d’un contribuable à l’égard duquel il a choisi de se prévaloir du présent paragraphe dans une lettre à cet effet jointe à la déclaration de revenu qu’il présente au ministre conformément à l’article 150 de la Loi pour l’année d’imposition dans laquelle le bâtiment est acquis.
+- **(5b.1)** Pour l’application de la présente partie, est compris dans une catégorie distincte chaque bâtiment non résidentiel admissible d’un contribuable (autre qu’un bâtiment de liquéfaction admissible) à l’égard duquel il a choisi de se prévaloir du présent paragraphe dans une lettre à cet effet jointe à la déclaration de revenu qu’il présente au ministre conformément à l’article 150 de la Loi pour l’année d’imposition dans laquelle le bâtiment est acquis.
+
+#### Bâtiments de liquéfaction
+
+
+- **(5b.2)** Sont compris dans une catégorie distincte les bâtiments de liquéfaction admissibles acquis par le contribuable pour utilisation à titre de partie d’une installation de liquéfaction admissible de celui-ci dans le but de gagner ou de produire un revenu de l’installation.
 
 #### Biens locatifs
 
@@ -4088,10 +4107,10 @@ une catégorie distincte est prescrite pour les biens qui
 #### Voitures de chemin de fer
 
 
-- **(5d)** Dans le cas où un contribuable compte parmi ses biens plus d’une voiture de chemin de fer comprise dans la catégorie 35 de l’annexe II qu’il loue, prend à bail ou utilise au Canada au cours d’une année d’imposition, à l’exception des voitures de chemin de fer appartenant à une société ou à une société de personnes dont un des associés est une société, qui, à un moment donné au cours de cette année :
+- **(5d)** Dans le cas où un contribuable compte parmi ses biens plus d’une voiture de chemin de fer comprise dans la catégorie 35 de l’annexe II qu’il loue, prend à bail ou utilise au Canada au cours d’une année d’imposition, à l’exception des voitures de chemin de fer appartenant à une société ou à une société de personnes dont un des associés est une société, qui, à un moment donné au cours de cette année :
 	- **a)** est un voiturier public qui exploite un chemin de fer ou en est propriétaire,
 	- **b)** loue les voitures de chemin de fer ou les donne à bail, dans le cadre d’une ou de plusieurs opérations entre personnes ayant entre elles un lien de dépendance, à une société associée qui est, à ce moment, un voiturier public qui exploite un chemin de fer ou en est propriétaire,
-une catégorie distincte est prescrite pour les biens suivants :
+une catégorie distincte est prescrite pour les biens suivants :
 	- **c)** l’ensemble de tels biens acquis par le contribuable avant le 3 février 1990, sauf ceux acquis en vue d’être donnés à bail ou loués à une autre personne;
 	- **d)** l’ensemble de tels biens acquis par le contribuable après le 2 février 1990, sauf ceux acquis en vue d’être donnés à bail ou loués à une autre personne;
 	- **e)** l’ensemble de tels biens acquis par le contribuable avant le 27 avril 1989 en vue d’être donnés à bail ou loués à une autre personne;
@@ -4109,7 +4128,7 @@ une catégorie distincte est prescrite pour les biens suivants :
 	- **b)** l’équipement de contrôle ou de signalisation du trafic ferroviaire, y compris l’équipement d’aiguillage, de signalisation de cantonnement, d’enclenchement, de protection des passages à niveau, de détection, de contrôle de la vitesse ou de retardement, mais non les biens qui sont constitués principalement d’équipement électronique ou de logiciels d’exploitation pour cet équipement,
 	- **c)** un pont, un ponceau, un passage souterrain ou un tunnel servant à une voie et à un remblai de chemin de fer.
 
-- **(5e.1)** Une catégorie distincte est prescrite pour les biens compris dans la catégorie 1 de l’annexe II qui sont acquis après le 6 décembre 1991 par un contribuable qui, au moment de l’acquisition, est un voiturier public qui exploite un chemin de fer et en est propriétaire, si les biens sont constitués par :
+- **(5e.1)** Une catégorie distincte est prescrite pour les biens compris dans la catégorie 1 de l’annexe II qui sont acquis après le 6 décembre 1991 par un contribuable qui, au moment de l’acquisition, est un voiturier public qui exploite un chemin de fer et en est propriétaire, si les biens sont constitués par :
 	- **a)** une voie et un remblai de chemin de fer, y compris les rails, le ballast, les traverses et autre matériel;
 	- **b)** l’équipement de contrôle ou de signalisation du trafic ferroviaire, y compris l’équipement d’aiguillage, de signalisation de cantonnement, d’enclenchement, de protection des passages à niveau, de détection, de contrôle de la vitesse ou de retardement, mais non les biens qui sont constitués principalement d’équipement électronique ou de logiciels d’exploitation pour cet équipement,
 	- **c)** un pont, un ponceau, un passage souterrain ou un tunnel servant à une voie et à un remblai de chemin de fer.
@@ -4136,10 +4155,10 @@ une catégorie distincte est prescrite pour les biens,
 #### Pipelines
 
 
-- **(5i)** Le contribuable peut choisir de placer dans une catégorie distincte prescrite par le présent paragraphe chaque bien de la catégorie 2 de l’annexe II qui lui appartient et qui est :
-	- **a)** soit un pipeline dont la construction a commencé après 1984 et a été achevée après le 1<sup>er</sup> septembre 1985 et dont le coût en capital est, pour le contribuable, d’au moins 10 000 000 $;
-	- **b)** soit un pipeline dont un prolongement a été achevé ou un changement dans son utilisation a été effectué après le 1<sup>er</sup> septembre 1985, si le coût en capital du prolongement ou le coût du changement, selon le cas, est, pour le contribuable, d’au moins 10 000 000 $;
-	- **c)** soit un pipeline dont un prolongement a été fait et dans l’utilisation duquel un changement a été effectué, comme faisant partie d’une même opération, si l’opération a été achevée après le 1<sup>er</sup> septembre 1985 et si le total du coût en capital du prolongement et du coût du changement est, pour le contribuable, d’au moins 10 000 000 $.Ce choix doit être fait par lettre jointe à la déclaration de revenu que le contribuable produit auprès du ministre conformément à l’article 150 de la Loi pour l’année d’imposition où la construction ou le prolongement du pipeline a été achevé, le changement effectué ou l’opération achevée.
+- **(5i)** Le contribuable peut choisir de placer dans une catégorie distincte prescrite par le présent paragraphe chaque bien de la catégorie 2 de l’annexe II qui lui appartient et qui est :
+	- **a)** soit un pipeline dont la construction a commencé après 1984 et a été achevée après le 1<sup>er</sup> septembre 1985 et dont le coût en capital est, pour le contribuable, d’au moins 10 000 000 $;
+	- **b)** soit un pipeline dont un prolongement a été achevé ou un changement dans son utilisation a été effectué après le 1<sup>er</sup> septembre 1985, si le coût en capital du prolongement ou le coût du changement, selon le cas, est, pour le contribuable, d’au moins 10 000 000 $;
+	- **c)** soit un pipeline dont un prolongement a été fait et dans l’utilisation duquel un changement a été effectué, comme faisant partie d’une même opération, si l’opération a été achevée après le 1<sup>er</sup> septembre 1985 et si le total du coût en capital du prolongement et du coût du changement est, pour le contribuable, d’au moins 10 000 000 $.Ce choix doit être fait par lettre jointe à la déclaration de revenu que le contribuable produit auprès du ministre conformément à l’article 150 de la Loi pour l’année d’imposition où la construction ou le prolongement du pipeline a été achevé, le changement effectué ou l’opération achevée.
 
 
 
@@ -4214,7 +4233,7 @@ une catégorie distincte est prescrite pour les biens,
 
 
 - **(6)** Dans la présente partie, un renvoi à une catégorie de l’annexe II comprend un renvoi aux catégories distinctes correspondantes qui sont prescrites par le présent article.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 2; DORS/79-426, art. 2; DORS/79-670, art. 1; DORS/80-618, art. 1; DORS/81-244, art. 1; DORS/82-265, art. 2; DORS/84-454, art. 2; DORS/84-948, art. 6; DORS/86-156, art. 1; DORS/88-392, art. 2; DORS/89-27, art. 2; DORS/90-22, art. 2; DORS/90-257, art. 2; DORS/91-196, art. 2; DORS/91-673, art. 2; DORS/94-140, art. 3; DORS/94-170, art. 2; DORS/94-686, art. 58(F),  78(F) et 79(F); DORS/98-97, art. 1; DORS/2000-248, art. 3; DORS/2005-126, art. 2; DORS/2005-371, art. 2; DORS/2005-414, art. 2; DORS/2006-117, art. 2; DORS/2009-115, art. 2 et 13; DORS/2009-126, art. 2; DORS/2010-93, art. 13(F); DORS/2011-9, art. 2; 2013, ch. 34, art. 384, ch. 40, art. 101.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 2; DORS/79-426, art. 2; DORS/79-670, art. 1; DORS/80-618, art. 1; DORS/81-244, art. 1; DORS/82-265, art. 2; DORS/84-454, art. 2; DORS/84-948, art. 6; DORS/86-156, art. 1; DORS/88-392, art. 2; DORS/89-27, art. 2; DORS/90-22, art. 2; DORS/90-257, art. 2; DORS/91-196, art. 2; DORS/91-673, art. 2; DORS/94-140, art. 3; DORS/94-170, art. 2; DORS/94-686, art. 58(F), 78(F) et 79(F); DORS/98-97, art. 1; DORS/2000-248, art. 3; DORS/2005-126, art. 2; DORS/2005-371, art. 2; DORS/2005-414, art. 2; DORS/2006-117, art. 2; DORS/2009-115, art. 2 et 13; DORS/2009-126, art. 2; DORS/2010-93, art. 13(F); DORS/2011-9, art. 2; 2013, ch. 34, art. 384, ch. 40, art. 101; DORS/2015-117, art. 2.
 
 
 
@@ -4594,6 +4613,8 @@ le contribuable peut choisir de transférer l’ancien bien de l’ancienne cat�
 
 ***achèvement*** L’achèvement d’une phase de mise en valeur déterminée d’un projet de sables bitumineux d’un contribuable s’entend du fait d’atteindre, pour la première fois, un niveau de production moyenne, attribuable à la phase de mise en valeur déterminée et mesuré sur une période de soixante jours, égal à au moins 60 % du niveau prévu de production quotidienne moyenne (déterminé à l’alinéa b) de la définition de ***phase de mise en valeur déterminée***) pour cette phase. (*completion*)
 
+***bâtiment de liquéfaction admissible*** Quant à une installation de liquéfaction admissible d’un contribuable, bien du contribuable (autre qu’un bien qui a été utilisé ou acquis pour utilisation à quelque fin que ce soit avant son acquisition par le contribuable ou un bâtiment résidentiel) acquis après le 19 février 2015 et avant 2025 par celui-ci, compris dans la catégorie 1 de l’annexe II par l’effet de son alinéa q) et utilisé à titre de partie de l’installation. (*eligible liquefaction building*)
+
 ***bâtiment non résidentiel admissible*** Bâtiment d’un contribuable, sauf celui qu’une personne ou une société de personnes a utilisé, ou a acquis en vue de son utilisation, avant le 19 mars 2007, qui, à la fois, est situé au Canada, est compris dans la catégorie 1 de l’annexe II et est acquis par le contribuable après le 18 mars 2007 en vue d’être utilisé par lui, ou par son preneur, à des fins non résidentielles. (*eligible non-residential building*)
 
 ***bien admissible à l’aménagement d’une mine*** Bien acquis par un contribuable après le 20 mars 2013 et avant 2018 dans le but de tirer un revenu :
@@ -4637,6 +4658,8 @@ le contribuable peut choisir de transférer l’ancien bien de l’ancienne cat�
 
 ***coût désigné de stockage souterrain*** d’un contribuable désigne tous frais qu’il a engagés après le 11 décembre 1979 pour l’aménagement d’un puits, d’une mine ou d’un autre bien souterrain semblable en vue du stockage au Canada de pétrole, de gaz naturel ou d’autres hydrocarbures connexes; (*designated underground storage cost*)
 
+***installation de liquéfaction admissible*** Est une installation de liquéfaction admissible d’un contribuable le système autonome situé au Canada — y compris bâtiments, constructions et matériel — qui est utilisé par le contribuable, ou que celui-ci a l’intention d’utiliser, aux fins de la liquéfaction de gaz naturel. (*eligible liquefaction facility*)
+
 ***logiciel*** Sont compris parmi les logiciels les logiciels d’exploitation et tout droit ou toute licence permettant l’utilisation d’un logiciel. (*computer software*)
 
 ***logiciel de systèmes***[Abrogée, DORS/2010-93, art. 14(F)]
@@ -4669,6 +4692,13 @@ autre qu’un film
 	- **(ii)** 12 mois après que les travaux principaux de prise de vue du film sont terminés, ou
 - **d)** pour lequel le ministre des Communications a annulé en vertu de l’alinéa (10)b) le visa prévu dans la présente définition; (*certified feature film*)
 
+***matériel de liquéfaction admissible*** Quant à une installation de liquéfaction admissible d’un contribuable, bien du contribuable utilisé dans le cadre de la liquéfaction de gaz naturel et à l’égard duquel les énoncés ci-après se vérifient :
+- **a)** il est acquis par le contribuable après le 19 février 2015 et avant 2025;
+- **b)** il est compris dans la catégorie 47 de l’annexe II par l’effet de son alinéa b);
+- **c)** avant son acquisition par le contribuable, il n’a pas été utilisé ni acquis pour être utilisé à quelque fin que ce soit;
+- **d)** il n’est pas du matériel non admissible;
+- **e)** il est utilisé à titre de partie de l’installation de liquéfaction admissible. (*eligible liquefaction equipment*)
+
 ***matériel de puits de gaz ou de pétrole*** comprend
 - **a)** le matériel, les structures et les pipe-lines, autres qu’un cuvelage de puits, acquis pour fins d’utilisation dans un gisement de gaz ou de pétrole en vue de la production de gaz naturel ou de pétrole brut, et
 - **b)** un pipe-line acquis pour servir uniquement à la transmission du gaz à une usine de traitement du gaz naturel,
@@ -4691,6 +4721,11 @@ mais ne comprend pas
 - **b)** peut être modifié par l’utilisateur du matériel,
 - **c)** dirige le matériel pour la lecture et la sélection, la modification ou l’enregistrement des données à partir d’un support d’information externe comme une carte, un disque ou un ruban, et
 - **d)** dépend des caractéristiques des données traitées pour déterminer l’ordre de son exécution; (*general-purpose electronic data processing equipment*)
+
+***matériel non admissible*** S’entend des biens suivants :
+- **a)** les pipelines, sauf ceux servant à transporter, dans l’installation de liquéfaction admissible pendant le procédé de liquéfaction, le gaz naturel ou les composants qui en sont extraits ou à transporter du gaz naturel liquéfié;
+- **b)** le matériel servant exclusivement à la regazéification de gaz naturel liquéfié;
+- **c)** le matériel générateur d’électricité. (*excluded equipment*)
 
 ***message commercial de télévision***[Abrogée, DORS/95-244, art. 2(F)]
 
@@ -4987,7 +5022,18 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 	- **b)** au moment où il devient prêt à être mis en service par le contribuable, celui-ci ne satisfait pas aux exigences des lois et règlements en matière d’environnement, applicables relativement au bien, de l’une des entités suivantes :
 		- **(i)** le Canada ou l’une de ses provinces ou municipalités,
 		- **(ii)** un organisme municipal ou public remplissant une fonction gouvernementale au Canada.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 3; DORS/78-502, art. 2; DORS/78-948, art. 2 et 3; DORS/79-426, art. 3; DORS/79-670, art. 3; DORS/80-418, art. 1; DORS/80-618, art. 2(F); DORS/80-926, art. 1; DORS/80-935, art. 1; DORS/80-942, art. 2; DORS/81-974, art. 1; DORS/81-1026, art. 1; DORS/82-265, art. 4; DORS/83-855, art. 1; DORS/84-265, art. 1; DORS/85-174, art. 2; DORS/86-254, art. 2; DORS/86-1092, art. 6(F); DORS/89-27, art. 3; DORS/90-22, art. 5; DORS/91-79, art. 1; DORS/94-169, art. 2; DORS/94-686, art. 11(F), 62 et 81(F); DORS/95-244, art. 2; DORS/96-200, art. 1; DORS/96-451, art. 1; DORS/97-377, art. 4; DORS/98-97, art. 2; DORS/99-179, art. 3; DORS/2000-327, art. 2; DORS/2001-295, art. 2(A); DORS/2005-371, art. 4; DORS/2005-414, art. 3; DORS/2005-415, art. 1; DORS/2006-117, art. 4; DORS/2006-249, art. 1; DORS/2007-19, art. 2; DORS/2009-115, art. 4; DORS/2009-126, art. 4; 2010, ch. 25, art. 76; DORS/2010-93, art. 14; 2011, ch. 24, art. 79; DORS/2011-9, art. 4; DORS/2011-195, art. 6(F); 2012, ch. 31, art. 61; 2013, ch. 40, art. 103; 2014, ch. 39, art. 85.
+
+#### Catégories 1 et 47 — biens servant à la liquéfaction
+
+
+- **(18)** Pour l’application des alinéas 1100(1)a.3) et yb), le revenu d’un contribuable pour une année d’imposition tiré des activités de liquéfaction admissibles relativement à une installation de liquéfaction admissible du contribuable est calculé comme si, à la fois :
+	- **a)** le contribuable exploitait une entreprise distincte :
+		- **(i)** dont le seul revenu était toute combinaison des montants suivants :
+			- **(A)** si le contribuable est propriétaire du gaz naturel au moment de son arrivée à l’installation de liquéfaction admissible, le revenu provenant de la vente par le contribuable du gaz naturel ayant été liquéfié, qu’il soit vendu comme gaz naturel liquéfié ou comme gaz naturel regazéifié,
+			- **(B)** dans les autres cas, le revenu qu’il est raisonnable d’attribuer à la liquéfaction de gaz naturel à l’installation de liquéfaction admissible,
+		- **(ii)** à l’égard de laquelle les seules déductions permises dans le calcul de son revenu étaient celles attribuables au revenu visé au sous-alinéa (i) et, s’il s’agit du revenu visé à la division (i)(A), celles-ci doivent être raisonnablement attribuables au revenu gagné après l’arrivée du gaz naturel à l’installation de liquéfaction admissible;
+	- **b)** s’il s’agit du revenu visé à la division a)(i)(A), le contribuable avait acquis le gaz naturel ayant été liquéfié à un coût égal à la juste valeur marchande du gaz naturel au moment de son arrivée dans l’installation de liquéfaction admissible.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 3; DORS/78-502, art. 2; DORS/78-948, art. 2 et 3; DORS/79-426, art. 3; DORS/79-670, art. 3; DORS/80-418, art. 1; DORS/80-618, art. 2(F); DORS/80-926, art. 1; DORS/80-935, art. 1; DORS/80-942, art. 2; DORS/81-974, art. 1; DORS/81-1026, art. 1; DORS/82-265, art. 4; DORS/83-855, art. 1; DORS/84-265, art. 1; DORS/85-174, art. 2; DORS/86-254, art. 2; DORS/86-1092, art. 6(F); DORS/89-27, art. 3; DORS/90-22, art. 5; DORS/91-79, art. 1; DORS/94-169, art. 2; DORS/94-686, art. 11(F), 62 et 81(F); DORS/95-244, art. 2; DORS/96-200, art. 1; DORS/96-451, art. 1; DORS/97-377, art. 4; DORS/98-97, art. 2; DORS/99-179, art. 3; DORS/2000-327, art. 2; DORS/2001-295, art. 2(A); DORS/2005-371, art. 4; DORS/2005-414, art. 3; DORS/2005-415, art. 1; DORS/2006-117, art. 4; DORS/2006-249, art. 1; DORS/2007-19, art. 2; DORS/2009-115, art. 4; DORS/2009-126, art. 4; 2010, ch. 25, art. 76; DORS/2010-93, art. 14; 2011, ch. 24, art. 79; DORS/2011-9, art. 4; DORS/2011-195, art. 6(F); 2012, ch. 31, art. 61; 2013, ch. 40, art. 103; 2014, ch. 39, art. 85; DORS/2015-117, art. 3.
 
 
 
@@ -13996,10 +14042,10 @@ Ne sont pas des paiements exclus les paiements prévus par un titre de créance 
 
 
 **7306** Pour l’application de l’alinéa 18(1)r) de la Loi, le montant pour usage d’une ou de plusieurs automobiles par un particulier au cours d’une année d’imposition quant aux kilomètres parcourus au cours de l’année en vue de lui permettre de gagner un revenu correspond au total des montants suivants :
-- **a)** le produit de 0,48 $ par le nombre de kilomètres parcourus au cours de l’année à cette fin;
+- **a)** le produit de 0,49 $ par le nombre de kilomètres parcourus au cours de l’année à cette fin;
 - **b)** le produit de 0,06 $ par le nombre de kilomètres, jusqu’à concurrence de 5 000, parcourus au cours de l’année à cette fin;
 - **c)** le produit de 0,04 $ par le nombre de kilomètres parcourus au cours de l’année à cette fin dans le territoire du Yukon, dans les Territoires du Nord-Ouest ou au Nunavut.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/91-673, art. 4; DORS/99-239, art. 2; DORS/2000-326, art. 2; DORS/2001-253, art. 2; DORS/2003-266, art. 2; DORS/2005-265, art. 2; DORS/2006-250, art. 2; 2009, ch. 2, art. 114; DORS/2014-118, art. 2.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/91-673, art. 4; DORS/99-239, art. 2; DORS/2000-326, art. 2; DORS/2001-253, art. 2; DORS/2003-266, art. 2; DORS/2005-265, art. 2; DORS/2006-250, art. 2; 2009, ch. 2, art. 114; DORS/2014-118, art. 2; DORS/2015-122, art. 1.
 
 
 
