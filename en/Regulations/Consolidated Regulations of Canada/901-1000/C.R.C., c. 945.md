@@ -3133,6 +3133,9 @@ of the undepreciated capital cost to the taxpayer as of the end of the taxation 
 
 	- **(a.1)** where a separate class is prescribed by subsection 1101(5b.1) for a property of a taxpayer that is a building and at least 90 per cent of the floor space of the building is used at the end of the taxation year for the manufacturing or processing in Canada of goods for sale or lease, such amount as the taxpayer may claim not exceeding six per cent of the undepreciated capital cost to the taxpayer of the property of that class as of the end of the taxation year (before making any deduction under this subsection for the taxation year);
 	- **(a.2)** where a separate class is prescribed by subsection 1101(5b.1) for a property of a taxpayer that is a building, at least 90 per cent of the floor space of the building is used at the end of the taxation year for a non-residential use in Canada and an additional allowance is not allowed for the year under paragraph (a.1) in respect of the property, such amount as the taxpayer may claim not exceeding two per cent of the undepreciated capital cost to the taxpayer of the property of that class as of the end of the taxation year (before making any deduction under this subsection for the taxation year);
+	- **(a.3)** any additional amount that the taxpayer may claim in respect of property that is used as part of an eligible liquefaction facility for which a separate class is prescribed by subsection 1101(5b.2), not exceeding the lesser of
+		- **(i)** the income for the taxation year from the taxpayer’s eligible liquefaction activities in respect of the eligible liquefaction facility (taking into consideration any deduction under paragraph (yb) and before making any deduction under this paragraph), and
+		- **(ii)** 6% of the undepreciated capital cost to the taxpayer of property of that separate class as of the end of the taxation year (before making any deduction under this subsection for the taxation year);
 
 #### Class 13
 
@@ -3382,6 +3385,12 @@ where
 	- **(iv)** that proportion of 60% that the number of days in the year that are in 2019 is of the number of days in the year,
 	- **(v)** that proportion of 30% that the number of days in the year that are in 2020 is of the number of days in the year, and
 	- **(vi)** 0%, if one or more days in the year are after 2020;
+
+#### Additional Allowance — Class 47
+
+	- **(yb)** any additional amount as the taxpayer may claim in respect of property used as part of an eligible liquefaction facility for which a separate class is prescribed by subsection 1101(4i), not exceeding the lesser of
+		- **(i)** the income for the taxation year from the taxpayer’s eligible liquefaction activities in respect of the eligible liquefaction facility (taking into consideration any deduction under paragraph (a.3) and before making any deduction under this paragraph), and
+		- **(ii)** 22% of the undepreciated capital cost to the taxpayer of property of that separate class as of the end of the taxation year (before making any deduction under this subsection for the taxation year);
 
 #### Additional Allowances — Railway Cars
 
@@ -3889,7 +3898,7 @@ where the owner was
 that would otherwise be specified energy property of the taxpayer shall be deemed not to be specified energy property of the taxpayer if, immediately before it was so acquired by the taxpayer, it was not, by virtue of subsection (27), this subsection or subsection (29), specified energy property of the person from whom the property was so acquired.
 
 - **(29)** A property acquired by a taxpayer or partnership that is a replacement property (within the meaning assigned by subsection 13(4) of the Act), that would otherwise be specified energy property of the taxpayer or partnership, shall be deemed not to be specified energy property of the taxpayer or partnership if the property replaced, referred to in paragraph 13(4)(a) or (b) of the Act, was, by virtue of subsection (27), (28) or this subsection, not specified energy property of the taxpayer or partnership immediately before it was disposed of by the taxpayer or partnership.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 1; SOR/78-377, ss. 3 to 6; SOR/78-948, s. 1; SOR/79-427, s. 1; SOR/80-942, s. 1; SOR/81-470, s. 1; SOR/82-265, s. 1; SOR/83-340, s. 1; SOR/83-432, s. 1; SOR/84-454, s. 1; SOR/84-948, s. 5; SOR/85-13, s. 1; SOR/85-174, s. 1; SOR/86-254, s. 1; SOR/86-1092, ss. 3(F), 4(F); SOR/86-1136, s. 1; SOR/88-392, s. 1; SOR/89-27, s. 1; SOR/90-22, s. 1; SOR/90-257, s. 1; SOR/90-670, s. 1; SOR/91-196, s. 1; SOR/91-673, s. 1; SOR/92-681, s. 3; SOR/94-128, s. 1; SOR/94-140, s. 2; SOR/94-169, s. 1; SOR/94-170, s. 1; SOR/94-686, ss. 9(F), 48, 58(F), 78(F), 79(F), 81(F); SOR/95-244, s. 1; SOR/97-377, s. 1; SOR/99-179, s. 1; SOR/2000-248, s. 2; SOR/2005-126, s. 1; SOR/2005-371, s. 1; SOR/2005-414, s. 1; SOR/2006-117, s. 1; SOR/2007-19, s. 1; SOR/2009-115, s. 1; SOR/2009-126, s. 1; SOR/2010-93, s. 12; SOR/2011-9, s. 1; 2013, c. 34, s. 383, c. 40, s. 100.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 1; SOR/78-377, ss. 3 to 6; SOR/78-948, s. 1; SOR/79-427, s. 1; SOR/80-942, s. 1; SOR/81-470, s. 1; SOR/82-265, s. 1; SOR/83-340, s. 1; SOR/83-432, s. 1; SOR/84-454, s. 1; SOR/84-948, s. 5; SOR/85-13, s. 1; SOR/85-174, s. 1; SOR/86-254, s. 1; SOR/86-1092, ss. 3(F), 4(F); SOR/86-1136, s. 1; SOR/88-392, s. 1; SOR/89-27, s. 1; SOR/90-22, s. 1; SOR/90-257, s. 1; SOR/90-670, s. 1; SOR/91-196, s. 1; SOR/91-673, s. 1; SOR/92-681, s. 3; SOR/94-128, s. 1; SOR/94-140, s. 2; SOR/94-169, s. 1; SOR/94-170, s. 1; SOR/94-686, ss. 9(F), 48, 58(F), 78(F), 79(F), 81(F); SOR/95-244, s. 1; SOR/97-377, s. 1; SOR/99-179, s. 1; SOR/2000-248, s. 2; SOR/2005-126, s. 1; SOR/2005-371, s. 1; SOR/2005-414, s. 1; SOR/2006-117, s. 1; SOR/2007-19, s. 1; SOR/2009-115, s. 1; SOR/2009-126, s. 1; SOR/2010-93, s. 12; SOR/2011-9, s. 1; 2013, c. 34, s. 383, c. 40, s. 100; SOR/2015-117, s. 1.
 
 
 
@@ -4073,6 +4082,11 @@ each such industrial mineral mine and each such right to remove industrial miner
 	- **(a)** were acquired for the purpose of gaining or producing income from the particular mines; and
 	- **(b)** would otherwise be included in Class 41.2 because of paragraph (a) of that class.
 
+#### Class 47 — Liquefaction Equipment
+
+
+- **(4i)** If a taxpayer acquires property that is eligible liquefaction equipment to be used as part of an eligible liquefaction facility of the taxpayer, a separate class is prescribed for those properties that were acquired for the purpose of gaining or producing income from that eligible liquefaction facility.
+
 #### Lease Option Agreements
 
 
@@ -4091,7 +4105,12 @@ each such industrial mineral mine and each such right to remove industrial miner
 #### Eligible Non-Residential Building
 
 
-- **(5b.1)** For the purposes of this Part, a separate class is prescribed for each eligible non-residential building of a taxpayer in respect of which the taxpayer has (by letter attached to the return of income of the taxpayer filed with the Minister in accordance with section 150 of the Act for the taxation year in which the building is acquired) elected that this subsection apply.
+- **(5b.1)** For the purposes of this Part, a separate class is prescribed for each eligible non-residential building (other than an eligible liquefaction building) of a taxpayer in respect of which the taxpayer has (by letter attached to the return of income of the taxpayer filed with the Minister in accordance with section 150 of the Act for the taxation year in which the building is acquired) elected that this subsection apply.
+
+#### Liquefaction Buildings
+
+
+- **(5b.2)** If a taxpayer acquires property that is an eligible liquefaction building to be used as part of an eligible liquefaction facility of the taxpayer, a separate class is prescribed for those properties that were acquired for the purpose of gaining or producing income from that eligible liquefaction facility.
 
 #### Leasing Properties
 
@@ -4232,7 +4251,7 @@ for properties that are described in paragraph (b) and that would otherwise be i
 
 
 - **(6)** A reference in this Part to a class in Schedule II includes a reference to the corresponding separate classes prescribed by this section.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 2; SOR/79-426, s. 2; SOR/79-670, s. 1; SOR/80-618, s. 1; SOR/81-244, s. 1; SOR/82-265, s. 2; SOR/84-454, s. 2; SOR/84-948, s. 6; SOR/86-156, s. 1; SOR/88-392, s. 2; SOR/89-27, s. 2; SOR/90-22, s. 2; SOR/90-257, s. 2; SOR/91-196, s. 2; SOR/91-673, s. 2; SOR/94-140, s. 3; SOR/94-170, s. 2; SOR/94-686, ss. 58(F), 78(F), 79(F); SOR/98-97, s. 1; SOR/2000-248, s. 3; SOR/2005-126, s. 2; SOR/2005-371, s. 2; SOR/2005-414, s. 2; SOR/2006-117, s. 2; SOR/2009-115, ss. 2, 13; SOR/2009-126, s. 2; SOR/2010-93, s. 13(F); SOR/2011-9, s. 2; 2013, c. 34, s. 384, c. 40, 101.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 2; SOR/79-426, s. 2; SOR/79-670, s. 1; SOR/80-618, s. 1; SOR/81-244, s. 1; SOR/82-265, s. 2; SOR/84-454, s. 2; SOR/84-948, s. 6; SOR/86-156, s. 1; SOR/88-392, s. 2; SOR/89-27, s. 2; SOR/90-22, s. 2; SOR/90-257, s. 2; SOR/91-196, s. 2; SOR/91-673, s. 2; SOR/94-140, s. 3; SOR/94-170, s. 2; SOR/94-686, ss. 58(F), 78(F), 79(F); SOR/98-97, s. 1; SOR/2000-248, s. 3; SOR/2005-126, s. 2; SOR/2005-371, s. 2; SOR/2005-414, s. 2; SOR/2006-117, s. 2; SOR/2009-115, ss. 2, 13; SOR/2009-126, s. 2; SOR/2010-93, s. 13(F); SOR/2011-9, s. 2; 2013, c. 34, s. 384, c. 40, 101; SOR/2015-117, s. 2.
 
 
 
@@ -4701,6 +4720,17 @@ and, for the purposes of the application of this definition,
 
 ***development phase*** of a taxpayer’s oil sands project means the acquisition, construction, fabrication or installation of a group of assets, by or on behalf of the taxpayer, that may reasonably be considered to constitute a discrete expansion in the capacity of the oil sands project when complete (including, for greater certainty, the initiation of a new oil sands project); (*phase de mise en valeur*)
 
+***eligible liquefaction building*** of a taxpayer, in respect of an eligible liquefaction facility of the taxpayer, means property (other than property that has been used or acquired for use for any purpose before it was acquired by the taxpayer or a residential building ) acquired by the taxpayer after February 19, 2015 and before 2025 that is included in Class 1 in Schedule II because of paragraph (q) of that Class and that is used as part of the eligible liquefaction facility; (*bâtiment de liquéfaction admissible*)
+
+***eligible liquefaction equipment*** in respect of an eligible liquefaction facility of a taxpayer, means property of the taxpayer that is used in connection with the liquefaction of natural gas and that
+- **(a)** is acquired by the taxpayer after February 19, 2015 and before 2025,
+- **(b)** is included in Class 47 in Schedule II because of paragraph (b) of that Class,
+- **(c)** has not been used or acquired for use for any purpose before it was acquired by the taxpayer,
+- **(d)** is not excluded equipment, and
+- **(e)** is used as part of the eligible liquefaction facility; (*matériel de liquéfaction admissible*)
+
+***eligible liquefaction facility*** of a taxpayer means a self-contained system located in Canada — including buildings, structures and equipment — that is used or intended to be used by the taxpayer for the purpose of liquefying natural gas; (*installation de liquéfaction admissible*)
+
 ***eligible mine development property*** means a property acquired by a taxpayer after March 20, 2013 and before 2018 for the purpose of gaining or producing income
 - **(a)** from a new mine or an expansion of a mine, if the property was acquired under a written agreement entered into by the taxpayer before March 21, 2013,
 - **(b)** from a new mine, if
@@ -4711,6 +4741,11 @@ and, for the purposes of the application of this definition,
 	- **(ii)** the engineering and design work for the construction of the expansion of the mine, as evidenced in writing, was started by, or on behalf of, the taxpayer before March 21, 2013 (and for this purpose engineering and design work does not include obtaining permits or regulatory approvals, conducting environmental assessments, community consultations or impact benefit studies, and similar activities); (*bien admissible à l’aménagement d’une mine*)
 
 ***eligible non-residential building*** means a taxpayer’s building (other than a building that was used, or acquired for use, by any person or partnership before March 19, 2007) that is located in Canada, that is included in Class 1 in Schedule II and that is acquired by the taxpayer on or after March 19, 2007 to be used by the taxpayer, or a lessee of the taxpayer, for a non-residential use; (*bâtiment non résidentiel admissible*)
+
+***excluded equipment*** means
+- **(a)** pipelines (other than pipelines used to move natural gas, or its components that are extracted, within an eligible liquefaction facility during the liquefaction process or used to move liquefied natural gas),
+- **(b)** equipment used exclusively to regasify liquefied natural gas, and
+- **(c)** electrical generation equipment; (*matériel non admissible*)
 
 ***gas or oil well equipment*** includes
 - **(a)** equipment, structures and pipelines, other than a well casing, acquired to be used in a gas or oil field in the production therefrom of natural gas or crude oil, and
@@ -5004,7 +5039,18 @@ and a certificate that has been so revoked shall be void from the time of its is
 		- **(i)** of Canada, a province or a municipality in Canada, or
 		- **(ii)** of a municipal or public body performing a function of government in Canada
 applicable in respect of the property.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 3; SOR/78-502, s. 2; SOR/78-948, ss. 2, 3; SOR/79-426, s. 3; SOR/79-670, s. 3; SOR/80-418, s. 1; SOR/80-618, s. 2(F); SOR/80-926, s. 1; SOR/80-935, s. 1; SOR/80-942, s. 2; SOR/81-974, s. 1; SOR/81-1026, s. 1; SOR/82-265, s. 4; SOR/83-855, s. 1; SOR/84-265, s. 1; SOR/85-174, s. 2; SOR/86-254, s. 2; SOR/86-1092, s. 6(F); SOR/89-27, s. 3; SOR/90-22, s. 5; SOR/91-79, s. 1; SOR/94-169, s. 2; SOR/94-686, ss. 11(F), 62, 81(F); SOR/95-244, s. 2; SOR/96-200, s. 1; SOR/96-451, s. 1; SOR/97-377, s. 4; SOR/98-97, s. 2; SOR/99-179, s. 3; SOR/2000-327, s. 2; SOR/2001-295, s. 2(E); SOR/2005-371, s. 4; SOR/2005-414, s. 3; SOR/2005-415, s. 1; SOR/2006-117, s. 4; SOR/2006-249, s. 1; SOR/2007-19, s. 2; SOR/2009-115, s. 4; SOR/2009-126, s. 4; 2010, c. 25, s. 76; SOR/2010-93, s. 14; 2011, c. 24, s. 79; SOR/2011-9, s. 4; SOR/2011-195, s. 6(F); 2012, c. 31, s. 61; 2013, c. 40, s. 103; 2014, c. 39, s. 85.
+
+#### Classes 1 and 47 — Liquefaction Property
+
+
+- **(18)** For the purposes of paragraphs 1100(1)(a.3) and (yb), a taxpayer’s income for a taxation year from eligible liquefaction activities in respect of an eligible liquefaction facility of the taxpayer is determined as if
+	- **(a)** the taxpayer carried on a separate business
+		- **(i)** the only income of which is any combination of:
+			- **(A)** in the case of natural gas that is owned by the taxpayer at the time it enters the taxpayer’s eligible liquefaction facility, income from the sale by the taxpayer of the natural gas that has been liquefied, whether sold as liquefied natural gas or regasified natural gas, and
+			- **(B)** in any other case, income reasonably attributable to the liquefaction of natural gas at the taxpayer’s eligible liquefaction facility, and
+		- **(ii)** in respect of which the only permitted deductions in computing the separate business’ income are those deductions that are attributable to income described in subparagraph (i) and, in the case of income described in clause (i)(A), that are reasonably attributable to income derived after the natural gas enters the eligible liquefaction facility; and
+	- **(b)** in the case of income described in clause (a)(i)(A), the taxpayer acquired the natural gas that has been liquefied at a cost equal to the fair market value of the natural gas at the time it entered the eligible liquefaction facility.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 3; SOR/78-502, s. 2; SOR/78-948, ss. 2, 3; SOR/79-426, s. 3; SOR/79-670, s. 3; SOR/80-418, s. 1; SOR/80-618, s. 2(F); SOR/80-926, s. 1; SOR/80-935, s. 1; SOR/80-942, s. 2; SOR/81-974, s. 1; SOR/81-1026, s. 1; SOR/82-265, s. 4; SOR/83-855, s. 1; SOR/84-265, s. 1; SOR/85-174, s. 2; SOR/86-254, s. 2; SOR/86-1092, s. 6(F); SOR/89-27, s. 3; SOR/90-22, s. 5; SOR/91-79, s. 1; SOR/94-169, s. 2; SOR/94-686, ss. 11(F), 62, 81(F); SOR/95-244, s. 2; SOR/96-200, s. 1; SOR/96-451, s. 1; SOR/97-377, s. 4; SOR/98-97, s. 2; SOR/99-179, s. 3; SOR/2000-327, s. 2; SOR/2001-295, s. 2(E); SOR/2005-371, s. 4; SOR/2005-414, s. 3; SOR/2005-415, s. 1; SOR/2006-117, s. 4; SOR/2006-249, s. 1; SOR/2007-19, s. 2; SOR/2009-115, s. 4; SOR/2009-126, s. 4; 2010, c. 25, s. 76; SOR/2010-93, s. 14; 2011, c. 24, s. 79; SOR/2011-9, s. 4; SOR/2011-195, s. 6(F); 2012, c. 31, s. 61; 2013, c. 40, s. 103; 2014, c. 39, s. 85; SOR/2015-117, s. 3.
 
 
 
@@ -14042,10 +14088,10 @@ and the purpose of the corporation is to provide loans, loan guarantees, bridge 
 
 
 **7306** For the purposes of paragraph 18(1)(r) of the Act, the amount in respect of the use of one or more automobiles in a taxation year by an individual for kilometres driven in the year for the purpose of earning income of the individual is the total of
-- **(a)** the product of 48 cents multiplied by the number of those kilometres;
+- **(a)** the product of 49 cents multiplied by the number of those kilometres;
 - **(b)** the product of 6 cents multiplied by the lesser of 5,000 and the number of those kilometres; and
 - **(c)** the product of 4 cents multiplied by the number of those kilometres driven in the Yukon Territory, the Northwest Territories or Nunavut.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/91-673, s. 4; SOR/99-239, s. 2; SOR/2000-326, s. 2; SOR/2001-253, s. 2; SOR/2003-266, s. 2; SOR/2005-265, s. 2; SOR/2006-250, s. 2; 2009, c. 2, s. 114; SOR/2014-118, s. 2.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/91-673, s. 4; SOR/99-239, s. 2; SOR/2000-326, s. 2; SOR/2001-253, s. 2; SOR/2003-266, s. 2; SOR/2005-265, s. 2; SOR/2006-250, s. 2; 2009, c. 2, s. 114; SOR/2014-118, s. 2; SOR/2015-122, s. 1.
 
 
 
