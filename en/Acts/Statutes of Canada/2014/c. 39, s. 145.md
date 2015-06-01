@@ -8,7 +8,7 @@
 Assented to on 16 December 2014
 
 ```
-[Enacted by section 145 of chapter 39 of the Statutes of Canada, 2014, not in force.]
+[Enacted by section 145 of chapter 39 of the Statutes of Canada, 2014, in force June 1, 2015, see SI/2015-36.]
 ```
 ----------
 
