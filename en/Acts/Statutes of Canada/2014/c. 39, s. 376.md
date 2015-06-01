@@ -8,7 +8,7 @@
 Assented to on 16 December 2014
 
 ```
-[Enacted by section 376 of chapter 39 of the Statutes of Canada, 2014, not in force.]
+[Enacted by section 376 of chapter 39 of the Statutes of Canada, 2014, in force June 1, 2015, see SI/2015-43.]
 ```
 ----------
 
@@ -40,32 +40,32 @@ Assented to on 16 December 2014
 
 **2** The following definitions apply in this Act.
 
-***category of payment*** means a category of payment set out in any one of paragraphs (a) to (h) of the definition ***payment***.
+***category of payment*** means a category of payment set out in any one of paragraphs (a) to (h) of the definition ***payment***. (*catégorie de paiement*)
 
-***commercial development of oil, gas or minerals*** means 
+***commercial development of oil, gas or minerals*** means
 - **(a)** the exploration or extraction of oil, gas or minerals;
 - **(b)** the acquisition or holding of a permit, licence, lease or any other authorization to carry out any of the activities referred to in paragraph (a); or
-- **(c)** any other prescribed activities in relation to oil, gas or minerals.
+- **(c)** any other prescribed activities in relation to oil, gas or minerals. (*exploitation commerciale de pétrole, de gaz ou de minéraux*)
 
-***entity*** means a corporation or a trust, partnership or other unincorporated organization
+***entity*** means a corporation or a trust, partnership or other unincorporated organization
 - **(a)** that is engaged in the commercial development of oil, gas or minerals in Canada or elsewhere; or
-- **(b)** that controls a corporation or a trust, partnership or other unincorporated organization that is engaged in the commercial development of oil, gas or minerals in Canada or elsewhere.
+- **(b)** that controls a corporation or a trust, partnership or other unincorporated organization that is engaged in the commercial development of oil, gas or minerals in Canada or elsewhere. (*entité*)
 
-***gas*** means natural gas and includes all substances, other than oil, that are produced in association with natural gas.
+***gas*** means natural gas and includes all substances, other than oil, that are produced in association with natural gas. (*gaz*)
 
-***minerals*** means all naturally occurring metallic and non-metallic minerals, including coal, salt, quarry and pit material, and all rare and precious minerals and metals.
+***minerals*** means all naturally occurring metallic and non-metallic minerals, including coal, salt, quarry and pit material, and all rare and precious minerals and metals. (*minéraux*)
 
-***Minister*** means the member of the Queen’s Privy Council for Canada designated under section 5.
+***Minister*** means the member of the Queen’s Privy Council for Canada designated under section 5. (*ministre*)
 
-***oil*** means crude petroleum, bitumen and oil shale.
+***oil*** means crude petroleum, bitumen and oil shale. (*pétrole*)
 
-***payee*** means
+***payee*** means
 - **(a)** any government in Canada or in a foreign state;
 - **(b)** a body that is established by two or more governments;
 - **(c)** any trust, board, commission, corporation or body or authority that is established to exercise or perform, or that exercises or performs, a power, duty or function of government for a government referred to in paragraph (a) or a body referred to in paragraph (b); or
-- **(d)** any other prescribed payee.
+- **(d)** any other prescribed payee. (*bénéficiaire*)
 
-***payment*** means a payment — whether monetary or in kind — that is made to a payee in relation to the commercial development of oil, gas or minerals and that falls within any of the following categories of payment:
+***payment*** means a payment — whether monetary or in kind — that is made to a payee in relation to the commercial development of oil, gas or minerals and that falls within any of the following categories of payment:
 - **(a)** taxes, other than consumption taxes and personal income taxes;
 - **(b)** royalties;
 - **(c)** fees, including rental fees, entry fees and regulatory charges as well as fees or other consideration for licences, permits or concessions;
@@ -73,7 +73,7 @@ Assented to on 16 December 2014
 - **(e)** bonuses, including signature, discovery and production bonuses;
 - **(f)** dividends other than dividends paid as ordinary shareholders;
 - **(g)** infrastructure improvement payments; or
-- **(h)** any other prescribed category of payment.
+- **(h)** any other prescribed category of payment. (*paiement*)
 
 
 
@@ -85,7 +85,7 @@ Assented to on 16 December 2014
 - **(b)** a payment that is due to a payee and that is received by a body that is not a payee for the payee is deemed to have been made to the payee;
 - **(c)** a payment that is made by an entity, other than an entity referred to in subsection 8(1), that is controlled by another entity is deemed to have been made by the controlling entity;
 - **(d)** a payment that is made for an entity is deemed to have been made by the entity; and
-- **(e)** the value of a payment in kind is the cost to the entity — or, if the cost cannot be determined, the fair market value — of the goods or services that it provided.
+- **(e)** the value of a payment in kind is the cost to the entity — or, if the cost cannot be determined, the fair market value — of the goods or services that it provided.
 
 
 
@@ -210,7 +210,7 @@ Assented to on 16 December 2014
 
 
 
-**Wholly owned subsidiary — consolidated report**
+**Wholly owned subsidiary — consolidated report**
 
 **11** If an entity and any wholly owned subsidiary of the entity are entities referred to in subsection 8(1), the subsidiary is deemed to have provided a report in accordance with section 9 for a financial year if
 - **(a)** the entity provides the Minister with a report with respect to its payments in accordance with section 9 that also contains information with respect to the payments made by the subsidiary during the subsidiary’s financial year or any part of that year, which information must meet the reporting requirements of section 9;
@@ -437,11 +437,11 @@ Assented to on 16 December 2014
 
 **False or misleading statement or information**
 
-- **(2)** Every person or entity that knowingly makes any false or misleading statement or knowingly provides false or misleading information — including with respect to the category of payment in respect of which a payment was made — to the Minister or a person designated under section 15 is guilty of an offence punishable on summary conviction and liable to a fine of not more than $250,000.
+- **(2)** Every person or entity that knowingly makes any false or misleading statement or knowingly provides false or misleading information — including with respect to the category of payment in respect of which a payment was made — to the Minister or a person designated under section 15 is guilty of an offence punishable on summary conviction and liable to a fine of not more than $250,000.
 
 **Avoidance**
 
-- **(3)** Every entity is guilty of an offence punishable on summary conviction and liable to a fine of not more than $250,000 if it structures any payments — or any other financial obligations or gifts, whether monetary or in kind, that relate to its commercial development of oil, gas or minerals — with the intention of avoiding the requirement to report those payments, obligations or gifts in accordance with this Act.
+- **(3)** Every entity is guilty of an offence punishable on summary conviction and liable to a fine of not more than $250,000 if it structures any payments — or any other financial obligations or gifts, whether monetary or in kind, that relate to its commercial development of oil, gas or minerals — with the intention of avoiding the requirement to report those payments, obligations or gifts in accordance with this Act.
 
 **Continuing offence**
 
