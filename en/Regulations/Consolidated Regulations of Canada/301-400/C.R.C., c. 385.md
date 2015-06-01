@@ -857,15 +857,7 @@ and ends on the day on which the amount is so refunded or applied.
 
 
 
-**43.1** 
-
-- **(1)** Despite subsection 43(1), an application for a retirement pension may also be made to the Minister by way of the Internet if
-	- **(a)** the relevant information required under section 52 is sent to the Minister by way of the Internet on the electronic form prescribed for that purpose and made available on the Internet, unless the Minister requires that the information or evidence be provided to the Minister in writing; and
-	- **(b)** the electronic confirmation sheet sent to the applicant by the Minister and bearing the date and time of receipt of the information by the Minister and a confirmation number assigned to the application by the Minister is signed by the applicant or their representative and delivered by hand, mail or courier to the Minister at an office of the Department of Human Resources Development or the Department of Employment and Social Development.
-
-- **(2)** When all the requirements of subsection (1) have been met, the application submitted electronically is considered to have been received on the date and at the time indicated on the electronic confirmation sheet.
-> SOR/2004-249, s. 3; 2013, c. 40, s. 237.
-
+**43.1** [Repealed, SOR/2015-79, s. 1]
 
 
 
