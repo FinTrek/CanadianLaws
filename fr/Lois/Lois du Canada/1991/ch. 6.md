@@ -10,6 +10,9 @@ Sanctionnée sur le 1 février 1991
 ----------
 
 
+[Abrogée, 2014, ch. 39, art. 169]
+
+
 
 Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
@@ -19,265 +22,137 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 ## Titre abrégé
+> [Abrogée, 2014, ch. 39, art. 169]
 
 
 
-**Titre abrégé**
-
-**1**  Loi sur la Commission canadienne des affaires polaires.
+**1** [Abrogé, 2014, ch. 39, art. 169]
 
 
 
 
 ## Définitions
+> [Abrogée, 2014, ch. 39, art. 169]
 
 
 
-**Définitions**
-
-**2** Les définitions qui suivent s’appliquent à la présente loi.
-
-***Commission*** La Commission canadienne des affaires polaires constituée en vertu de l’article 3.
-
-***connaissances*** S’entend notamment des connaissances traditionnelles et autochtones.
-
-***conseil*** Le conseil d’administration de la Commission.
-
-***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi.
-
-***président*** Le président du conseil.
-
-***régions polaires***
-- **a)** Dans le contexte canadien, les régions situées au nord, soit du soixantième degré de latitude nord, soit de la limite inférieure de la zone du pergélisol discontinu;
-- **b)** dans le contexte international, les régions circumpolaires, y compris le continent antarctique.
+**2** [Abrogé, 2014, ch. 39, art. 169]
 
 
 
 
 ## Constitution de la commission
+> [Abrogée, 2014, ch. 39, art. 169]
 
 
 
-**Constitution de la Commission**
-
-**3** Est constituée la Commission canadienne des affaires polaires, dotée de la personnalité morale.
+**3** [Abrogé, 2014, ch. 39, art. 169]
 
 
 
 
 ## Mission
+> [Abrogée, 2014, ch. 39, art. 169]
 
 
 
-**Mission**
-
-**4** La Commission a pour mission de favoriser le développement et la diffusion des connaissances relatives aux régions polaires grâce aux actions suivantes :
-- **a)** suivi de leur évolution, tant au Canada qu’à l’étranger, et publication des faits ou éléments nouveaux;
-- **b)** promotion de leur développement au Canada par la collaboration avec des organisations, institutions et associations, tant au pays qu’à l’étranger, en ce qui touche l’établissement des priorités, notamment dans le domaine scientifique;
-- **c)** encouragement des organisations, institutions et associations canadiennes à développer et diffuser ces connaissances;
-- **d)** assistance du ministre, à sa demande, par des conseils sur toute question relative aux régions polaires;
-- **e)** information du public et des organisations, institutions et associations canadiennes en matière de recherches sur ces régions;
-- **f)** intensification du rôle à jouer par le Canada au niveau international à titre de nation circumpolaire par l’encouragement à la coopération internationale en ce qui a trait aux connaissances relatives aux régions polaires;
-- **g)** toute autre activité liée à sa mission.
+**4** [Abrogé, 2014, ch. 39, art. 169]
 
 
 
 
 ## Pouvoirs de la commission
+> [Abrogée, 2014, ch. 39, art. 169]
 
 
 
-**Pouvoirs**
-
-**5** La Commission peut, pour l’exécution de sa mission :
-- **a)** proposer, parrainer ou prendre en charge la tenue de congrès, séminaires et autres réunions;
-- **b)** de sa propre initiative ou à la demande du ministre, appuyer ou effectuer des études relatives aux questions polaires, et publier et diffuser des rapports ou autres documents concernant ces questions;
-- **c)** décerner des distinctions pour les contributions dans les domaines liés à sa mission et favoriser la recherche et les applications scientifiques dans les régions polaires du Canada;
-- **d)** promouvoir et appuyer les programmes et activités des organisations, institutions, associations et particuliers qui effectuent des recherches sur les régions polaires;
-- **e)** acquérir, par don, legs ou autre mode de libéralités, des biens, notamment sous forme d’argent ou de valeurs mobilières, et les détenir, employer, investir, gérer ou aliéner, pourvu qu’elle respecte les conditions dont sont éventuellement assorties ces libéralités;
-- **f)** employer les crédits affectés par les pouvoirs publics canadiens ou étrangers à ses activités, pourvu qu’elle respecte les conditions dont est éventuellement assortie leur affectation;
-- **g)** prendre toute autre mesure utile à l’exécution de sa mission et à l’exercice de ses attributions.
+**5** [Abrogé, 2014, ch. 39, art. 169]
 
 
 
 
 ## Conseil d’administration
+> [Abrogée, 2014, ch. 39, art. 169]
 
 
 
-**Conduite des activités**
-
-**6** 
-
-- **(1)** La conduite des activités de la Commission est assurée par un conseil d’administration composé d’au plus douze administrateurs — dont le président et deux vice-présidents — nommés par le gouverneur en conseil sur la recommandation du ministre.
-
-**Conditions de nomination**
-
-- **(2)** Les administrateurs doivent posséder les connaissances ou l’expérience propres à aider la Commission à remplir sa mission. La composition du conseil tient compte de la diversité ethnique, linguistique et régionale des régions polaires du Canada.
-
-**Inadmissibilité**
-
-- **(3)** Les personnes employées à temps plein dans l’administration publique fédérale ne peuvent être nommées administrateurs ou continuer de l’être.
-> 1991, ch. 6, art. 6; 2003, ch. 22, art. 224(A).
+**6** [Abrogé, 2014, ch. 39, art. 169]
 
 
 
-
-
-**Durée du mandat**
-
-**7** 
-
-- **(1)** La durée maximale du mandat des administrateurs est de trois ans; ceux-ci occupent leur poste à titre amovible.
-
-**Reconduction du mandat**
-
-- **(2)** Les administrateurs peuvent recevoir un second mandat, aux fonctions identiques ou non.
+**7** [Abrogé, 2014, ch. 39, art. 169]
 
 
 
-
-**Démission**
-
-**8** Tout administrateur peut démissionner de ses fonctions en avisant le ministre par écrit de son intention, la démission prenant effet sur réception de l’avis ou à la date ultérieure précisée dans celui-ci.
+**8** [Abrogé, 2014, ch. 39, art. 169]
 
 
 
-
-**Rémunération**
-
-**9** 
-
-- **(1)** Le président et les vice-présidents reçoivent la rémunération fixée par le gouverneur en conseil.
-
-**Idem**
-
-- **(2)** Les administrateurs, à l’exception du président et des vice-présidents, reçoivent la rémunération fixée par le gouverneur en conseil lorsque, à la demande du président, ils assistent aux réunions du conseil ou de ses comités ou ils accomplissent des missions extraordinaires pour le compte de la Commission.
+**9** [Abrogé, 2014, ch. 39, art. 169]
 
 
 
-
-**Indemnité**
-
-**10** Les administrateurs ont droit, conformément au règlement administratif, aux frais de déplacement et de séjour entraînés par l’accomplissement, hors du lieu de leur résidence habituelle, des fonctions qui leur sont confiées en application de la présente loi.
+**10** [Abrogé, 2014, ch. 39, art. 169]
 
 
 
 
 ## Président
+> [Abrogée, 2014, ch. 39, art. 169]
 
 
 
-**Attributions**
-
-**11** Le président est le premier dirigeant de la Commission; à ce titre, il en assure la direction et contrôle la gestion de son personnel.
+**11** [Abrogé, 2014, ch. 39, art. 169]
 
 
 
-
-**Intérim**
-
-**12** En cas d’absence ou d’empêchement du président, la présidence est assumée par le vice-président désigné par le conseil.
+**12** [Abrogé, 2014, ch. 39, art. 169]
 
 
 
 
 ## Bureaux et réunions
+> [Abrogée, 2014, ch. 39, art. 169]
 
 
 
-**Bureaux**
-
-**13** Le conseil constitue au Canada les bureaux dont il estime la création nécessaire pour l’accomplissement de la mission de la Commission.
+**13** [Abrogé, 2014, ch. 39, art. 169]
 
 
 
-
-**Bureau dans la région de la capitale nationale**
-
-**14** 
-
-- **(1)** Un des bureaux constitués par le conseil doit être situé dans la région de la capitale nationale définie à l’annexe de la [Loi sur la capitale nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-4.md).
-
-**Bureau nordique**
-
-- **(2)** Au moins l’un des bureaux constitués par le conseil doit être situé au nord du soixantième degré de latitude nord.
+**14** [Abrogé, 2014, ch. 39, art. 169]
 
 
 
-
-**Réunions**
-
-**15** 
-
-- **(1)** Sous réserve du paragraphe (2), le conseil tient, aux date, heure et lieu fixés par le président, un minimum de quatre réunions par an dans des lieux différents au Canada.
-
-**Réserve**
-
-- **(2)** Le conseil tient au moins la moitié de ses réunions annuelles en un lieu situé au nord du soixantième degré de latitude nord.
+**15** [Abrogé, 2014, ch. 39, art. 169]
 
 
 
-
-**Comités**
-
-**16** Le conseil peut, en conformité avec ses règlements administratifs, constituer un comité directeur composé d’administrateurs, ainsi que des comités consultatifs ou autres composés exclusivement ou non d’administrateurs ou de personnes choisies en dehors de ses membres.
+**16** [Abrogé, 2014, ch. 39, art. 169]
 
 
 
 
 ## Règlements administratifs
+> [Abrogée, 2014, ch. 39, art. 169]
 
 
 
-**Règlements administratifs**
-
-**17** Le conseil peut, par règlement administratif, prévoir :
-- **a)** avec l’approbation du gouverneur en conseil, les indemnités payables aux administrateurs en vertu de l’article 10;
-- **b)** la constitution des comités visés à l’article 16, leurs attributions et, avec l’approbation du gouverneur en conseil, les indemnités payables, le cas échéant, à ceux de leurs membres qui ne sont pas administrateurs;
-- **c)** la procédure à suivre pour ses réunions et celles de ses comités;
-- **d)** la gestion et la disposition des biens de la Commission;
-- **e)** l’exercice des activités de la Commission.
+**17** [Abrogé, 2014, ch. 39, art. 169]
 
 
 
 
 ## Dispositions générales
+> [Abrogée, 2014, ch. 39, art. 169]
 
 
 
-**Statut de la Commission**
-
-**18** 
-
-- **(1)** La Commission, dans le cadre de ses attributions, est mandataire de Sa Majesté du chef du Canada et ne peut exercer ses pouvoirs qu’à ce titre.
-
-**Contrats**
-
-- **(2)** La Commission peut, pour le compte de Sa Majesté du chef du Canada, contracter sous le nom de celle-ci ou le sien.
-
-**Biens**
-
-- **(3)** Les biens acquis par la Commission appartiennent à Sa Majesté du chef du Canada; les titres de propriété afférents peuvent être au nom de celle-ci ou au sien.
-
-**Actions en justice**
-
-- **(4)** À l’égard des droits et obligations qu’elle assume pour le compte de Sa Majesté du chef du Canada sous le nom de celle-ci ou le sien, la Commission peut ester en justice sous son propre nom devant les tribunaux qui seraient compétents si elle n’était pas mandataire de Sa Majesté.
+**18** [Abrogé, 2014, ch. 39, art. 169]
 
 
 
-
-**Personnel**
-
-**19** 
-
-- **(1)** Le conseil peut :
-	- **a)** nommer le personnel nécessaire à l’exercice des activités de la Commission;
-	- **b)** définir les fonctions du personnel de même que ses conditions d’emploi.
-
-**Traitement et indemnités**
-
-- **(2)** Le conseil fixe le traitement et les indemnités du personnel nommé conformément au paragraphe (1).
+**19** [Abrogé, 2014, ch. 39, art. 169]
 
 
 
@@ -287,40 +162,30 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 ## Rapport
+> [Abrogée, 2014, ch. 39, art. 169]
 
 
 
-**Rapport annuel**
-
-**21** 
-
-- **(1)** Dans les quatre premiers mois de chaque exercice de la Commission, le président présente au ministre le rapport d’activité de celle-ci pour l’exercice précédent, y compris les états financiers afférents. La Commission tient le rapport d’activité à la disposition du public à ses bureaux.
-
-**Dépôt**
-
-- **(2)** Le ministre fait déposer les documents devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant leur réception.
-> 1991, ch. 6, art. 21; 2012, ch. 19, art. 182.
-
+**21** [Abrogé, 2014, ch. 39, art. 169]
 
 
 
 
 ## Modifications corrélatives
+> [Abrogée, 2014, ch. 39, art. 169]
 
 
-**22 à 26** [Modifications]
+
+**22 à 26** [Abrogé, 2014, ch. 39, art. 169]
 
 
 
 
 ## Entrée en vigueur
+> [Abrogée, 2014, ch. 39, art. 169]
 
 
 
-**Entrée en vigueur**
-
-***27** La présente loi entre en vigueur à la date fixée par décret du gouverneur en conseil.
-
-<a name='C-21.3_fr_1'><sup>*</sup></a>: [Note : Loi en vigueur le 9 septembre 1991, *voir* TR/91-117.]<br />
+**27** [Abrogé, 2014, ch. 39, art. 169]
 
 
