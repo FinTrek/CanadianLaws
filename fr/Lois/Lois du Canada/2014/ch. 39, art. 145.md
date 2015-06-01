@@ -8,7 +8,7 @@
 Sanctionnée sur le 16 décembre 2014
 
 ```
-[Édictée par l’article 145 du chapitre 39 des Lois du Canada (2014), non en vigueur.]
+[Édictée par l’article 145 du chapitre 39 des Lois du Canada (2014), en vigueur le 1<sup>er</sup> juin 2015, voir TR/2015-36.]
 ```
 ----------
 
