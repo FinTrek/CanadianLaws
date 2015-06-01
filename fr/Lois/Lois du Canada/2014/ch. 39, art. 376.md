@@ -8,7 +8,7 @@
 Sanctionnée sur le 16 décembre 2014
 
 ```
-[Édictée par l’article 376 du chapitre 39 des Lois du Canada (2014), non en vigueur.]
+[Édictée par l’article 376 du chapitre 39 des Lois du Canada (2014), en vigueur le 1<sup>er</sup> juin 2015, voir TR/2015-43.]
 ```
 ----------
 
@@ -40,30 +40,30 @@ Sanctionnée sur le 16 décembre 2014
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***bénéficiaire*** Vise :
+***bénéficiaire*** Vise :
 - **a)** tout gouvernement au Canada ou à l’étranger;
 - **b)** tout organisme établi par au moins deux gouvernements;
 - **c)** tout conseil, toute commission, toute fiducie ou société ou tout autre organisme qui exerce, pour un gouvernement visé à l’alinéa a) ou un organisme visé à l’alinéa b), des attributions publiques ou qui est établi pour le faire;
-- **d)** tout autre bénéficiaire désigné par règlement.
+- **d)** tout autre bénéficiaire désigné par règlement. (*payee*)
 
-***catégorie de paiement*** Catégorie visée à l’un ou l’autre des alinéas a) à h) de la définition de ***paiement***.
+***catégorie de paiement*** Catégorie visée à l’un ou l’autre des alinéas a) à h) de la définition de ***paiement***. (*category of payment*)
 
-***entité*** Personne morale ou société de personnes, fiducie ou autre organisation non constituée en personne morale qui : 
+***entité*** Personne morale ou société de personnes, fiducie ou autre organisation non constituée en personne morale qui :
 - **a)** soit s’adonne à l’exploitation commerciale de pétrole, de gaz ou de minéraux au Canada ou à l’étranger;
-- **b)** soit contrôle une personne morale ou une société de personnes, fiducie ou autre organisation non constituée en personne morale qui s’adonne à l’exploitation commerciale de pétrole, de gaz ou de minéraux au Canada ou à l’étranger.
+- **b)** soit contrôle une personne morale ou une société de personnes, fiducie ou autre organisation non constituée en personne morale qui s’adonne à l’exploitation commerciale de pétrole, de gaz ou de minéraux au Canada ou à l’étranger. (*entity*)
 
-***exploitation commerciale de pétrole, de gaz ou de minéraux*** L’une ou l’autre des activités suivantes :
+***exploitation commerciale de pétrole, de gaz ou de minéraux*** L’une ou l’autre des activités suivantes :
 - **a)** l’exploration de pétrole, de gaz ou de minéraux ou leur extraction;
 - **b)** l’acquisition ou la détention d’un permis, d’une licence, d’un bail ou d’une autre autorisation permettant de mener l’une ou l’autre des activités visées à l’alinéa a);
-- **c)** toute autre activité relative au pétrole, au gaz ou à des minéraux prévue par règlement.
+- **c)** toute autre activité relative au pétrole, au gaz ou à des minéraux prévue par règlement. (*commercial development of oil, gas or minerals*)
 
-***gaz*** Le gaz naturel ainsi que toute substance produite avec ce gaz, à l’exclusion du pétrole.
+***gaz*** Le gaz naturel ainsi que toute substance produite avec ce gaz, à l’exclusion du pétrole. (*gas*)
 
-***minéraux*** Les minerais métalliques ou non métalliques naturels, notamment le charbon, le sel, les produits de carrières et de puits ainsi que tous les métaux et minéraux rares et précieux.
+***minéraux*** Les minerais métalliques ou non métalliques naturels, notamment le charbon, le sel, les produits de carrières et de puits ainsi que tous les métaux et minéraux rares et précieux. (*minerals*)
 
-***ministre*** Le membre du Conseil privé de la Reine pour le Canada désigné en vertu de l’article 5.
+***ministre*** Le membre du Conseil privé de la Reine pour le Canada désigné en vertu de l’article 5. (*Minister*)
 
-***paiement*** Paiement en espèces ou en nature se rapportant à des activités d’exploitation commerciale de pétrole, de gaz ou de minéraux et fait à un bénéficiaire au titre de l’une ou l’autre des catégories de paiement suivantes :
+***paiement*** Paiement en espèces ou en nature se rapportant à des activités d’exploitation commerciale de pétrole, de gaz ou de minéraux et fait à un bénéficiaire au titre de l’une ou l’autre des catégories de paiement suivantes :
 - **a)** taxes, à l’exclusion des taxes à la consommation et des impôts sur le revenu des particuliers;
 - **b)** redevances;
 - **c)** frais, notamment frais de location, droits d’accès et frais de nature réglementaire et frais — ou autre contrepartie — relatifs à une licence, à un permis ou à une concession;
@@ -71,9 +71,9 @@ Sanctionnée sur le 16 décembre 2014
 - **e)** primes, notamment primes de signature et primes liées à la découverte de gisements ou à la production;
 - **f)** dividendes, à l’exclusion des dividendes payés à titre d’actionnaire ordinaire d’une entité;
 - **g)** paiements pour l’amélioration d’infrastructures;
-- **h)** toute autre catégorie de paiement prévue par règlement.
+- **h)** toute autre catégorie de paiement prévue par règlement. (*payment*)
 
-***pétrole*** Le pétrole brut, le bitume et les schistes pétrolifères.
+***pétrole*** Le pétrole brut, le bitume et les schistes pétrolifères. (*oil*)
 
 
 
