@@ -1000,13 +1000,13 @@ où :
 
 - <sup><a href='#fn_Ind6224_hq_14285'>[*]</a></sup>**(1)** L’article 168 entre en vigueur soixante jours après la date de sanction de la présente loi.
 
-<a name='fn_Ind6224_hq_14285'><sup>*</sup></a>: [Note : Article 168 en vigueur le 18 août 2014.]<br />
+<a name='fn_Ind6224_hq_14285'><sup>*</sup></a>: [Note : Article 168 en vigueur le 18 août 2014.]<br />
 
 **Décret**
 
 - <sup><a href='#fn_Ind253C_hq_14269'>[*]</a></sup>**(2)** Les articles 169 et 170 entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind253C_hq_14269'><sup>*</sup></a>: [Note : Articles 169 et 170 non en vigueur.]<br />
+<a name='fn_Ind253C_hq_14269'><sup>*</sup></a>: [Note : Articles 169 et 170 en vigueur le 1<sup>er</sup> juin 2015, *voir* TR/2015-34.]<br />
 
 
 
