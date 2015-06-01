@@ -1006,7 +1006,7 @@ where
 
 - <sup><a href='#fn_Ind7349_hq_14279'>[*]</a></sup>**(2)** Sections 169 and 170 come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind7349_hq_14279'><sup>*</sup></a>: [Note: Sections 169 and 170 not in force.]<br />
+<a name='fn_Ind7349_hq_14279'><sup>*</sup></a>: [Note: Sections 169 and 170 in force June 1, 2015, *see* SI/2015-34.]<br />
 
 
 
