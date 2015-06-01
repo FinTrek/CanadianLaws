@@ -857,15 +857,7 @@ lorsque l’employé se conforme aux alinéas 29c) à f) à l’égard de l’a
 
 
 
-**43.1** 
-
-- **(1)** Malgré le paragraphe 43(1), la demande de pension de retraite peut être présentée au ministre par Internet si, à la fois :
-	- **a)** les renseignements pertinents exigés aux termes de l’article 52 sont fournis au ministre par Internet au moyen de la formule électronique prévue à cette fin et accessible sur Internet, à moins que le ministre ne demande que ces renseignements lui soient fournis par écrit;
-	- **b)** la confirmation électronique transmise au requérant par le ministre et portant la date et l’heure auxquelles le ministre a reçu les renseignements ainsi que le numéro que celui-ci a assigné à la demande est signée par le requérant ou son représentant et est livrée au ministre en personne, par la poste ou par messager, à un bureau du ministère du Développement des ressources humaines ou du ministère de l’Emploi et du Développement social.
-
-- **(2)** La demande de pension de retraite transmise de façon électronique est réputée présentée au ministre à la date et à l’heure indiquées sur la confirmation électronique dès que toutes les exigences prévues au paragraphe (1) sont remplies.
-> DORS/2004-249, art. 3; 2013, ch. 40, art. 237.
-
+**43.1** [Abrogé, DORS/2015-79, art. 1]
 
 
 
