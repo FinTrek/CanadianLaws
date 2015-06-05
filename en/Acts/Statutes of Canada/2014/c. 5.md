@@ -618,4 +618,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ### **SCHEDULE** 
 **(Sections 2 to 5 and 42)**
 ## Participating First Nations
+- **1** Madawaska Maliseet First Nation
+> 2014, c. 5, Sch.; SOR/2015-136, s. 1.
+
 
