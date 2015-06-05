@@ -26,56 +26,58 @@ Autorités habilitantes :
 
 - **(1)** Dans le présent règlement,
 
+***ancien règlement concernant la marihuana***[Règlement sur l’accès à la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2001/227.md), pris par le décret C.P. 2001-1146 du 14 juin 2001 et portant le numéro d’enregistrement DORS/2001-227;
+
 ***annonce*** désigne toute représentation faite par quelque moyen que ce soit en vue de mousser directement ou indirectement la vente ou la façon de disposer d’un stupéfiant; (*advertisement*)
 
-***autorité compétente*** Organisme public d’un pays étranger qui est habilité, aux termes des lois du pays, à consentir à l’importation ou à l’exportation de stupéfiants. (*competent authority*)
+***autorité compétente*** Organisme public d’un pays étranger qui est habilité, aux termes des lois du pays, à consentir à l’importation ou à l’exportation de stupéfiants; (*competent authority*)
 
-***chanvre indien*** La substance inscrite à l’article 17 de l’annexe. (*cannabis*)
+***chanvre indien*** La substance inscrite à l’article 17 de l’annexe; (*cannabis*)
 
 ***commande écrite***[Abrogée, DORS/85-588, art. 1]
 
 ***commande verbale*** désigne une commande donnée de vive voix; (*verbal order*)
 
-***conjoint de fait*** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an. (*common-law partner*)
+***conjoint de fait*** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an; (*common-law partner*)
 
-***contenant immédiat*** Contenant qui est en contact direct avec le stupéfiant. (*immediate container*)
+***contenant immédiat*** Contenant qui est en contact direct avec le stupéfiant; (*immediate container*)
 
 ***diacétylmorphine (héroïne)***[Abrogée, DORS/2013-172, art. 3]
 
-***Directive en matière de sécurité*** La Directive sur les exigences en matière de sécurité physique pour les substances désignées (Exigences en matière de sécurité physique pour les substances désignées entreposées chez les distributeurs autorisés), publiée par le ministère, avec ses modifications successives. (*Security Directive*)
+***Directive en matière de sécurité*** La Directive sur les exigences en matière de sécurité physique pour les substances désignées (Exigences en matière de sécurité physique pour les substances désignées entreposées chez les distributeurs autorisés), publiée par le ministère, avec ses modifications successives; (*Security Directive*)
 
-***distributeur autorisé*** Le titulaire d’une licence délivrée en vertu de l’article 9.2. (*licensed dealer*)
+***distributeur autorisé*** Le titulaire d’une licence délivrée en vertu de l’article 9.2; (*licensed dealer*)
 
-***document médical concernant la marihuana*** S’entend au sens de ***document médical*** au paragraphe 1(1) du [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md). (*medical marihuana document*)
+***document médical concernant la marihuana*** S’entend au sens de ***document médical*** au paragraphe 1(1) du [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md); (*medical marihuana document*)
 
 ***hôpital*** désigne :
 - **a)** une installation qui fait l’objet d’un permis délivré par la province ou qui a été approuvée ou désignée par elle, en conformité avec ses lois, en vue d’assurer des soins ou des traitements aux personnes ou aux animaux atteints d’une maladie ou d’une affection,
 - **b)** une installation qui assure des soins de santé et appartient au gouvernement du Canada ou d’une province ou est exploitée par lui; (*hospital*)
 
-***infirmier praticien*** S’entend au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md). (*nurse practitioner*)
+***infirmier praticien*** S’entend au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md); (*nurse practitioner*)
 
 ***infraction désignée en matière criminelle*** L’une ou l’autre des infractions suivantes :
 - **a)** infraction relative au financement du terrorisme visée à l’un des articles 83.02 à 83.04 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
 - **b)** infraction de fraude visée à l’un des articles 380 à 382 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
 - **c)** infraction de recyclage des produits de la criminalité visée à l’article 462.31 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
 - **d)** infraction relative à une organisation criminelle visée à l’un des articles 467.11 à 467.13 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
-- **e)** le complot ou la tentative de commettre une infraction visée à l’un des alinéas a) à d), la complicité après le fait à son égard ou le fait de conseiller de la commettre. (*designated criminal offence*)
+- **e)** le complot ou la tentative de commettre une infraction visée à l’un des alinéas a) à d), la complicité après le fait à son égard ou le fait de conseiller de la commettre; (*designated criminal offence*)
 
 ***infraction désignée en matière de drogue*** S’entend de l’une des infractions suivantes :
 - **a)** toute infraction prévue aux articles 39, 44.2, 44.3, 48, 50.2 ou 50.3 de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md), dans leur version antérieure au 14 mai 1997;
 - **b)** toute infraction prévue aux articles 4, 5, 6, 19.1 ou 19.2 de la Loi sur les stupéfiants, dans leur version antérieure au 14 mai 1997;
 - **c)** toute infraction prévue à la partie I de la Loi, à l’exception du paragraphe 4(1);
-- **d)** le complot ou la tentative de commettre une infraction visée aux alinéas a) à c), la complicité après le fait à son égard ou le fait de conseiller de la commettre. (*designated drug offence*)
+- **d)** le complot ou la tentative de commettre une infraction visée aux alinéas a) à c), la complicité après le fait à son égard ou le fait de conseiller de la commettre; (*designated drug offence*)
 
 ***inspecteur***[Abrogée, DORS/97-227, art. 1]
 
 ***licence***[Abrogée, DORS/2004-237, art. 1]
 
-***Loi*** La [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md). (*Act*)
+***Loi*** La [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md); (*Act*)
 
-***marihuana*** La substance appelée cannabis (marihuana), inscrite au paragraphe 17(2) de l’annexe. (*marihuana*)
+***marihuana*** La substance appelée cannabis (marihuana), inscrite au paragraphe 17(2) de l’annexe; (*marihuana*)
 
-***marihuana séchée*** Marihuana qui a été récoltée et soumise à un processus de séchage. (*dried marihuana*)
+***marihuana séchée*** Marihuana qui a été récoltée et soumise à un processus de séchage; (*dried marihuana*)
 
 ***méthadone*** comprend les sels de méthadone; (*methadone*)
 
@@ -88,45 +90,45 @@ Autorités habilitantes :
 
 ***nom propre*** désigne, à l’égard d’un stupéfiant, le nom reconnu sur une base internationale pour ce stupéfiant, ou le nom assigné au stupéfiant dans la dernière édition d’une pharmacopée ou d’un répertoire des drogues reconnus généralement; (*proper name*)
 
-***obligation internationale*** Toute obligation relative à un stupéfiant prévue par une convention, un traité ou un autre instrument multilatéral ou bilatéral que le Canada a ratifié ou auquel il adhère. (*international obligation*)
+***obligation internationale*** Toute obligation relative à un stupéfiant prévue par une convention, un traité ou un autre instrument multilatéral ou bilatéral que le Canada a ratifié ou auquel il adhère; (*international obligation*)
 
-***ordonnance*** À l’égard d’un stupéfiant, autorisation donnée par un praticien selon laquelle une quantité déterminée du stupéfiant doit être préparée à l’intention de la personne qui y est nommée. (*prescription*)
+***ordonnance*** À l’égard d’un stupéfiant, autorisation donnée par un praticien selon laquelle une quantité déterminée du stupéfiant doit être préparée à l’intention de la personne qui y est nommée; (*prescription*)
 
 ***permis*** désigne un permis délivré en vertu de l’article 10; (*permit*)
 
-***personne qualifiée responsable*** La personne physique qui, possédant les qualifications énoncées au paragraphe 8.3(2), est responsable de la supervision des opérations effectuées par le distributeur autorisé en vertu de sa licence, à l’installation qui y est spécifiée. (*qualified person in charge*)
+***personne qualifiée responsable*** La personne physique qui, possédant les qualifications énoncées au paragraphe 8.3(2), est responsable de la supervision des opérations effectuées par le distributeur autorisé en vertu de sa licence, à l’installation qui y est spécifiée; (*qualified person in charge*)
 
 ***pharmacien***
 - **a)** La personne autorisée, notamment par un permis d’exercice, en vertu des lois d’une province à exercer la profession de pharmacien et à exploiter ou diriger une pharmacie ou une officine, et qui, à la fois, dans cette province :
 	- **(i)** exerce la profession de pharmacien,
 	- **(ii)** exploite ou dirige une pharmacie ou une officine;
-- **b)** pour l’application du paragraphe 2(2), des articles 3 et 31 à 39, des paragraphes 44(1) et 45(1) et (2), de l’article 46 et des paragraphes 65(3) à (4), la personne autorisée, notamment par un permis d’exercice, en vertu des lois d’une province à exercer la profession de pharmacien et qui l’exerce dans cette province. (***pharmacist***)
+- **b)** pour l’application du paragraphe 2(2), des articles 3 et 31 à 39, des paragraphes 44(1) et 45(1) et (2), de l’article 46 et des paragraphes 65(3) à (4), la personne autorisée, notamment par un permis d’exercice, en vertu des lois d’une province à exercer la profession de pharmacien et qui l’exerce dans cette province; (***pharmacist***)
 
-***podiatre*** S’entend au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md). (*podiatrist*)
+***podiatre*** S’entend au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md); (*podiatrist*)
 
 ***praticien***[Abrogée, DORS/97-227, art. 1]
 
-***praticien de la santé*** S’entend, sauf à l’article 59, au sens du paragraphe 1(1) du [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md). (*health care practitioner*)
+***praticien de la santé*** S’entend, sauf à l’article 59, au sens du paragraphe 1(1) du [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md); (*health care practitioner*)
 
-***producteur autorisé*** S’entend au sens du paragraphe 1(1) du [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md). (*licensed producer*)
+***producteur autorisé*** S’entend au sens du paragraphe 1(1) du [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md); (*licensed producer*)
 
-***sage-femme*** S’entend au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md). (*midwife*)
+***sage-femme*** S’entend au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md); (*midwife*)
 
 ***stupéfiant*** Sous réserve du paragraphe (2), selon le cas :
 - **a)** toute substance visée à l’annexe ou toute matière en contenant;
-- **b)** s’agissant d’une sage-femme, d’un infirmier praticien ou d’un podiatre, toute substance visée à l’annexe, ou toute matière en contenant, que ce praticien peut, aux termes des articles 3 et 4 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md), prescrire ou avoir en sa possession ou relativement à laquelle il peut, en vertu de ces articles, se livrer à toute autre opération. (*narcotic*)
+- **b)** s’agissant d’une sage-femme, d’un infirmier praticien ou d’un podiatre, toute substance visée à l’annexe, ou toute matière en contenant, que ce praticien peut, aux termes des articles 3 et 4 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md), prescrire ou avoir en sa possession ou relativement à laquelle il peut, en vertu de ces articles, se livrer à toute autre opération; (*narcotic*)
 
 ***stupéfiant d’ordonnance verbale*** désigne un médicament
 - **a)** qui renferme, outre un stupéfiant, au moins deux ingrédients médicinaux qui ne sont pas des stupéfiants, en dose thérapeutique reconnue,
 - **b)** qui n’est pas destiné à l’administration parentérale, et
-- **c)** qui ne contient pas d’hydrocodone, de méthadone, d’oxycodone ni de pentazocine. (*verbal prescription narcotic*)
+- **c)** qui ne contient pas d’hydrocodone, de méthadone, d’oxycodone ni de pentazocine; (*verbal prescription narcotic*)
 
 ***transférer*** Sauf au paragraphe 45(3), transférer, même indirectement, sans échange d’une contrepartie. (*transfer*)
 
 - **(2)** Malgré le paragraphe 2(2) de l’annexe, ne sont pas des stupéfiants pour l’application de ce règlement :
 	- **a) ** toute drogue sous sa forme posologique, au sens du paragraphe C.01.005(3) du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md), qui contient de la cocaïne (ester méthylique de la benzoylecgonine) ou un de ses sels, sauf si une identification numérique lui est attribuée sous le régime du titre 1 de la partie C du même règlement, si la vente de la drogue est autorisée sous le régime du titre 5 de la partie C de ce même règlement ou si la drogue a fait l’objet d’une composition par un pharmacien conformément à une autorisation donnée par un praticien, ou en prévision de celle-ci, aux termes de laquelle une quantité déterminée de la drogue doit être dispensée à l’intention de la personne qui y est nommée ou qui y sera nommée;
 	- **b) ** la cocaïne (ester méthylique de la benzoylecgonine) ou un de ses sels, ou toute drogue qui n’est pas sous sa forme posologique et qui en contient, sauf si la cocaïne, le sel ou la drogue fera l’objet d’une composition par un pharmacien conformément à une autorisation donnée par un praticien, ou en prévision de celle-ci, aux termes de laquelle une quantité déterminée de la drogue doit être dispensée à l’intention de la personne qui y est nommée ou qui y sera nommée.
-> DORS/78-154, art. 1; DORS/81-361, art. 1; DORS/85-588, art. 1; DORS/85-930, art. 1; DORS/86-173, art. 1; DORS/88-279, art. 1(F); DORS/90-189, art. 1; DORS/97-227, art. 1; DORS/2003-134, art. 1; DORS/2004-237, art. 1; DORS/2010-221, art. 1; DORS/2012-230, art. 14; DORS/2013-119, art. 200; DORS/2013-172, art. 3.
+> DORS/78-154, art. 1; DORS/81-361, art. 1; DORS/85-588, art. 1; DORS/85-930, art. 1; DORS/86-173, art. 1; DORS/88-279, art. 1(F); DORS/90-189, art. 1; DORS/97-227, art. 1; DORS/2003-134, art. 1; DORS/2004-237, art. 1; DORS/2010-221, art. 1; DORS/2012-230, art. 14; DORS/2013-119, art. 200; DORS/2013-172, art. 3; DORS/2015-132, art. 1.
 
 
 
@@ -1079,19 +1081,25 @@ qui précise le nom et la quantité du stupéfiant demandé.
 
 
 
-**57** Le ministre communique par écrit à l’autorité provinciale attributive de licences en matière d’activités professionnelles responsable d’inscrire la personne ou d’autoriser cette dernière à exercer sa profession des renseignements factuels sur tout praticien obtenus sous le régime de la Loi, du présent règlement ou du [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md) :
-- **a)** soit dans la province où le praticien est inscrit ou habilité à exercer, dans l’un ou l’autre des cas suivants :
-	- **(i)** l’autorité soumet une demande écrite qui précise le nom et l’adresse du praticien, la nature des renseignements requis et une déclaration que les renseignements sont requis dans le but d’aider l’autorité à mener une enquête licite,
-	- **(ii)** le ministre a des motifs raisonnables de croire que le praticien a :
-		- **(A)** soit enfreint une règle de conduite établie par l’autorité,
-		- **(B)** soit été reconnu coupable par un tribunal d’une infraction désignée en matière de drogue ou d’une contravention au présent règlement ou au [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md),
-		- **(C)** soit commis un acte qui contrevient à une disposition du présent règlement ou du [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md);
-- **b)** soit dans une province où le praticien n’est pas inscrit ou habilité à exercer, si l’autorité soumet au ministre les éléments suivants :
-	- **(i)** une demande écrite de renseignements qui précise :
-		- **(A)** le nom et l’adresse du praticien,
-		- **(B)** la nature des renseignements requis,
-	- **(ii)** une documentation qui montre que le praticien a demandé à cette autorité l’autorisation d’exercer dans cette province.
-> DORS/86-882, art. 2; DORS/2003-134, art. 5; DORS/2010-221, art. 17; DORS/2013-119, art. 220.
+**57** 
+
+- **(1)** Le ministre communique par écrit des renseignements factuels sur tout praticien, obtenus sous le régime de la Loi, du présent règlement, du [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md) ou de l’ancien règlement concernant la marihuana, à l’autorité provinciale attributive de licences en matière d’activités professionnelles qui est responsable d’inscrire les personnes ou de les autoriser à exercer la profession si les exigences ci-après sont respectées :
+	- **a)** s’agissant d’une province où le praticien est ou était inscrit ou habilité à exercer :
+		- **(i)** soit l’autorité soumet au ministre une demande écrite comportant les nom et adresse du praticien, la nature des renseignements requis et une déclaration portant que les renseignements sont requis pour l’aider à mener une enquête licite,
+		- **(ii)** soit le ministre a des motifs raisonnables de croire que le praticien se trouve dans l’une des situations suivantes :
+			- **(A)** il a enfreint une règle de conduite établie par l’autorité,
+			- **(B)** il a été reconnu coupable par un tribunal d’une infraction désignée en matière de drogue ou d’une contravention au présent règlement ou au [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md),
+			- **(C)** il a contrevenu à une disposition du présent règlement ou du [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md);
+	- **b)** s’agissant d’une province où le praticien n’est pas inscrit ou habilité à exercer, l’autorité lui soumet les documents suivants :
+		- **(i)** une demande écrite qui précise les nom et adresse du praticien ainsi que la nature des renseignements requis,
+		- **(ii)** une documentation qui démontre :
+			- **(A)** soit que le praticien a demandé à cette autorité l’autorisation d’exercer dans cette province,
+			- **(B)** soit que cette autorité a des motifs raisonnables de croire que le praticien exerce dans cette province sans autorisation.
+
+- **(2)** Le ministre est autorisé à communiquer les renseignements ci-après, à l’égard du praticien en médecine qui a fourni une déclaration médicale sur le fondement de laquelle a été délivrée une autorisation de possession aux termes de l’ancien règlement concernant la marihuana, à l’autorité provinciale attributive de licences en matière d’activités professionnelles qui est responsable d’inscrire les personnes ou de les autoriser à exercer la médecine dans la province indiquée dans la déclaration comme étant celle où le praticien est autorisé à exercer :
+	- **a)** les nom et adresse du praticien;
+	- **b)** son numéro d’autorisation d’exercice de la médecine.
+> DORS/86-882, art. 2; DORS/2003-134, art. 5; DORS/2010-221, art. 17; DORS/2013-119, art. 220; DORS/2015-132, art. 2.
 
 
 
