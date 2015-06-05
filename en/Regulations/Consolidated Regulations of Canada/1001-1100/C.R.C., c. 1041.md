@@ -30,7 +30,7 @@ Enabling authorities:
 
 ***advertisement*** means any representation by any means whatever for the purpose of promoting directly or indirectly the sale or disposal of a narcotic; (*annonce*)
 
-***cannabis*** means the substance set out in item 17 of the schedule; (*chanvre indien*)
+***cannabis*** means the substance set out in item 17 of the schedule; (*chanvre indien*)
 
 ***common-law partner***, in relation to an individual, means a person who is cohabiting with the individual in a conjugal relationship, having so cohabited for a period of at least one year; (*conjoint de fait*)
 
@@ -53,13 +53,15 @@ Enabling authorities:
 
 ***dried marihuana*** means harvested marihuana that has been subjected to any drying process; (*marihuana séchée*)
 
+***former marihuana Regulations*** means the [Marihuana Medical Access Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2001/227.md) made by Order in Council P.C. 2001-1146 of June 14, 2001 and registered as SOR/2001-227;
+
 ***health care practitioner*** has, except in section 59, the same meaning as in subsection 1(1) of the [Marihuana for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2013/119.md); (*praticien de la santé*)
 
 ***hospital*** means a facility
 - **(a)** that is licensed, approved or designated by a province in accordance with the laws of the province to provide care or treatment to persons or animals suffering from any form of disease or illness, or
 - **(b)** that is owned or operated by the Government of Canada or the government of a province and that provides health services; (*hôpital*)
 
-***immediate container*** means the container that is in direct contact with the narcotic. (*contenant immédiat*)
+***immediate container*** means the container that is in direct contact with the narcotic; (*contenant immédiat*)
 
 ***inspector***[Repealed, SOR/97-227, s. 1]
 
@@ -128,7 +130,7 @@ Enabling authorities:
 - **(2)** Despite subitem 2(2) of the schedule, the following are not narcotics for the purposes of these Regulations:
 	- **(a)** a drug in dosage form, as defined in subsection C.01.005(3) of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md), that contains cocaine (benzoylmethylecgonine) or any of its salts unless the drug has a drug identification number assigned to it under Division 1 of Part C of those Regulations, is authorized for sale under Division 5 of Part C of those Regulations or has been compounded by a pharmacist in accordance with or in anticipation of an authorization from a practitioner that a stated amount of the drug be dispensed for a person who is or will be named in the authorization; or
 	- **(b)** cocaine (benzoylmethylecgonine) or any of its salts, or any drug that is not in dosage form that contains such a substance, unless the cocaine, salt or drug is to be compounded by a pharmacist in accordance with or in anticipation of an authorization from a practitioner that a stated amount of the drug be dispensed for a person who is or will be named in the authorization.
-> SOR/78-154, s. 1; SOR/81-361, s. 1; SOR/85-588, s. 1; SOR/85-930, s. 1; SOR/86-173, s. 1; SOR/88-279, s. 1(F); SOR/90-189, s. 1; SOR/97-227, s. 1; SOR/2003-134, s. 1; SOR/2004-237, s. 1; SOR/2010-221, s. 1; SOR/2012-230, s. 14; SOR/2013-119, s. 200; SOR/2013-172, s. 3.
+> SOR/78-154, s. 1; SOR/81-361, s. 1; SOR/85-588, s. 1; SOR/85-930, s. 1; SOR/86-173, s. 1; SOR/88-279, s. 1(F); SOR/90-189, s. 1; SOR/97-227, s. 1; SOR/2003-134, s. 1; SOR/2004-237, s. 1; SOR/2010-221, s. 1; SOR/2012-230, s. 14; SOR/2013-119, s. 200; SOR/2013-172, s. 3; SOR/2015-132, s. 1.
 
 
 
@@ -1081,19 +1083,25 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 
 
-**57** The Minister shall provide in writing any factual information about a practitioner that has been obtained under the Act, these Regulations or the [Marihuana for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2013/119.md) to the provincial professional licensing authority responsible for the registration or authorization of the person to practise their profession
-- **(a)** in the province in which the practitioner is registered or entitled to practise if
-	- **(i)** the authority submits a written request that states the name and address of the practitioner, a description of the information being sought and a statement that the information is required for the purpose of assisting a lawful investigation by the authority, or
-	- **(ii)** the Minister has reasonable grounds to believe that the practitioner has
-		- **(A)** contravened a rule of conduct established by the authority,
-		- **(B)** been found guilty in a court of law of a designated drug offence or of a contravention of these Regulations or the [Marihuana for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2013/119.md), or
-		- **(C)** contravened a provision of these Regulations or the [Marihuana for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2013/119.md); or
-- **(b)** in a province in which the practitioner is not registered or entitled to practise, if the authority submits to the Minister
-	- **(i)** a written request for information that states
-		- **(A)** the name and address of the practitioner, and
-		- **(B)** a description of the information being sought, and
-	- **(ii)** documentation that shows that the practitioner has applied to that authority to practise in that province.
-> SOR/86-882, s. 2; SOR/2003-134, s. 5; SOR/2010-221, s. 17; SOR/2013-119, s. 220.
+**57** 
+
+- **(1)** The Minister must provide in writing factual information about a practitioner that has been obtained under the Act, these Regulations, the [Marihuana for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2013/119.md) or the former marihuana Regulations to the provincial professional licensing authority that is responsible for the registration or authorization of persons to practise the profession
+	- **(a)** in a province in which the practitioner is, or was, registered or entitled to practise if
+		- **(i)** the authority submits to the Minister a written request that sets out the practitioner’s name and address, a description of the information being sought and a statement that the information is required for the purpose of assisting a lawful investigation by the authority, or
+		- **(ii)** the Minister has reasonable grounds to believe that the practitioner
+			- **(A)** has contravened a rule of conduct established by the authority,
+			- **(B)** has been found guilty in a court of law of a designated drug offence or of a contravention of these Regulations or the [Marihuana for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2013/119.md), or
+			- **(C)** has contravened a provision of these Regulations or the [Marihuana for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2013/119.md); or
+	- **(b)** in a province in which the practitioner is not registered or entitled to practise, if the authority submits to the Minister
+		- **(i)** a written request that sets out the practitioner’s name and address and a description of the information being sought, and
+		- **(ii)** either
+			- **(A)** documentation that shows that the practitioner has applied to that authority to practise in that province, or
+			- **(B)** documentation that shows that the authority has reasonable grounds to believe that the practitioner is practising in that province without being authorized to do so.
+
+- **(2)** The Minister is authorized to provide, in respect of a practitioner of medicine who made a medical declaration that formed the basis for the issuance of an authorization to possess under the former marihuana Regulations, the following information to the provincial professional licensing authority that is responsible for the registration or authorization of persons to practise medicine in the province identified in the declaration as the province in which the practitioner is authorized to practise:
+	- **(a)** the practitioner’s name and address; and
+	- **(b)** the number assigned to their authorization to practise medicine.
+> SOR/86-882, s. 2; SOR/2003-134, s. 5; SOR/2010-221, s. 17; SOR/2013-119, s. 220; SOR/2015-132, s. 2.
 
 
 
