@@ -2949,21 +2949,21 @@ Si une personne en droit de limiter sa responsabilité selon les règles de la p
 
 **a)** s’agissant des créances pour mort ou lésions corporelles :
 
-**i)** à 2 millions d’unités de compte pour un navire dont la jauge ne dépasse pas 2 000 tonneaux;
+**i)** à 3,02 millions d’unités de compte pour un navire dont la jauge ne dépasse pas 2 000 tonneaux;
 
 
 
 **ii)** pour un navire dont la jauge dépasse le chiffre ci-dessus, au montant suivant, qui vient s’ajouter au montant indiqué à l’alinéa i) :
 
-pour chaque tonneau de 2 001 à 30 000 tonneaux, 800 unités de compte;
+pour chaque tonneau de 2 001 à 30 000 tonneaux, 1 208 unités de compte;
 
 
 
-pour chaque tonneau de 30 001 à 70 000 tonneaux, 600 unités de compte; et
+pour chaque tonneau de 30 001 à 70 000 tonneaux, 906 unités de compte; et
 
 
 
-pour chaque tonneau au-dessus de 70 000 tonneaux, 400 unités de compte;
+pour chaque tonneau au-dessus de 70 000 tonneaux, 604 unités de compte;
 
 
 
@@ -2973,21 +2973,21 @@ pour chaque tonneau au-dessus de 70 000 tonneaux, 400 unités de compte;
 
 **b)** s’agissant de toutes les autres créances :
 
-**i)** à 1 million d’unités de compte pour un navire dont la jauge ne dépasse pas 2 000 tonneaux;
+**i)** à 1,51 million d’unités de compte pour un navire dont la jauge ne dépasse pas 2 000 tonneaux;
 
 
 
 **ii)** pour un navire dont la jauge dépasse le chiffre ci-dessus, au montant suivant, qui vient s’ajouter au montant indiqué à l’alinéa i) :
 
-pour chaque tonneau de 2 001 à 30 000 tonneaux, 400 unités de compte;
+pour chaque tonneau de 2 001 à 30 000 tonneaux, 604 unités de compte;
 
 
 
-pour chaque tonneau de 30 001 à 70 000 tonneaux, 300 unités de compte; et
+pour chaque tonneau de 30 001 à 70 000 tonneaux, 453 unités de compte; et
 
 
 
-pour chaque tonneau au-dessus de 70 000 tonneaux, 200 unités de compte.
+pour chaque tonneau au-dessus de 70 000 tonneaux, 302 unités de compte.
 
 
 
@@ -3406,7 +3406,7 @@ Texte des réserves faites au titre de l’article 18 de la Convention de 1976 s
 **1** Créances pour avoir renfloué, enlevé, détruit ou rendu inoffensif un navire coulé, naufragé, échoué ou abandonné, y compris tout ce qui se trouve ou s’est trouvé à bord.
 
 
-> 2001, ch. 6, ann. 1; 2009, ch. 21, art. 14 et 15.
+> 2001, ch. 6, ann. 1; 2009, ch. 21, art. 14 et 15; DORS/2015-98.
 
 
 
