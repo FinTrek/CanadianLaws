@@ -2979,21 +2979,21 @@ Where a person entitled to limitation of liability under the rules of this Conve
 
 **(a)** in respect of claims for loss of life or personal injury,
 
-**(i)** 2 million Units of Account for a ship with a tonnage not exceeding 2,000 tons,
+**(i)** 3.02 million Units of Account for a ship with a tonnage not exceeding 2,000 tons,
 
 
 
 **(ii)** for a ship with a tonnage in excess thereof, the following amount in addition to that mentioned in (i):
 
-for each ton from 2,001 to 30,000 tons, 800 Units of Account;
+for each ton from 2,001 to 30,000 tons, 1,208 Units of Account;
 
 
 
-for each ton from 30,001 to 70,000 tons, 600 Units of Account; and
+for each ton from 30,001 to 70,000 tons, 906 Units of Account; and
 
 
 
-for each ton in excess of 70,000 tons, 400 Units of Account,
+for each ton in excess of 70,000 tons, 604 Units of Account,
 
 
 
@@ -3003,21 +3003,21 @@ for each ton in excess of 70,000 tons, 400 Units of Account,
 
 **(b)** in respect of any other claims,
 
-**(i)** 1 million Units of Account for a ship with a tonnage not exceeding 2,000 tons,
+**(i)** 1.51 million Units of Account for a ship with a tonnage not exceeding 2,000 tons,
 
 
 
 **(ii)** for a ship with a tonnage in excess thereof, the following amount in addition to that mentioned in (i):
 
-for each ton from 2,001 to 30,000 tons, 400 Units of Account;
+for each ton from 2,001 to 30,000 tons, 604 Units of Account;
 
 
 
-for each ton from 30,001 to 70,000 tons, 300 Units of Account; and
+for each ton from 30,001 to 70,000 tons, 453 Units of Account; and
 
 
 
-for each ton in excess of 70,000 tons, 200 Units of Account.
+for each ton in excess of 70,000 tons, 302 Units of Account.
 
 
 
@@ -3440,7 +3440,7 @@ Text of reservations made under Article 18 of the Convention on Limitation of Li
 **1** Claims in respect of the raising, removal, destruction or rendering harmless of a ship that is sunk, wrecked, stranded or abandoned, including anything that is or has been on board that ship.
 
 
-> 2001, c. 6, Sch. 1; 2009, c. 21, ss. 14, 15.
+> 2001, c. 6, Sch. 1; 2009, c. 21, ss. 14, 15; SOR/2015-98.
 
 
 
