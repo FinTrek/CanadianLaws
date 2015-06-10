@@ -902,14 +902,113 @@ shall, in addition to any other return required by the Act or these Regulations,
 
 **205.1** 
 
-- **(1)** A person who is required to make an information return under this Part, or who files an information return on behalf of a person who is required to make an information return under this Part, shall file the information return with the Minister in an electronic format if more than 500 such returns are to be filed for the calendar year.
+- **(1)** For the purpose of subsection 162(7.02) of the Act, the following types of information returns are prescribed and must be filed by Internet if more than 50 information returns of that type are required to be filed for a calendar year:
+<table>
+<tr>
+<td>Government Service Contract Payments</td>
+<td>T1204</td>
+</tr>
+<tr>
+<td>International Electronic Funds Transfer Report</td>
+<td></td>
+</tr>
+<tr>
+<td>Part XVIII Information Return — International Exchange of Information on Financial Accounts</td>
+<td></td>
+</tr>
+<tr>
+<td>Pooled Registered Pension Plan (PRPP) Information Return</td>
+<td></td>
+</tr>
+<tr>
+<td>Registered Retirement Savings Plan (RRSP) Contribution Information Return</td>
+<td></td>
+</tr>
+<tr>
+<td>Registered Retirement Savings Plans and Registered Retirement Income Funds Non-qualified Investments</td>
+<td></td>
+</tr>
+<tr>
+<td>Statement of Amounts Paid or Credited to Non-residents of Canada</td>
+<td>NR4</td>
+</tr>
+<tr>
+<td>Statement of Benefits</td>
+<td>T5007</td>
+</tr>
+<tr>
+<td>Statement of Canada Pension Plan Benefits</td>
+<td>T4A(P)</td>
+</tr>
+<tr>
+<td>Statement of Contract Payments</td>
+<td>T5018</td>
+</tr>
+<tr>
+<td>Statement of Employment Insurance and Other Benefits</td>
+<td>T4E</td>
+</tr>
+<tr>
+<td>Statement of Farm-support Payments</td>
+<td>AGR-1</td>
+</tr>
+<tr>
+<td>Statement of Fees, Commissions, or Other Amounts Paid to Non-residents for Services Rendered in Canada</td>
+<td>T4A-NR</td>
+</tr>
+<tr>
+<td>Statement of Income from a Registered Retirement Income Fund (RIF)</td>
+<td>T4RIF</td>
+</tr>
+<tr>
+<td>Statement of Investment Income</td>
+<td>T5</td>
+</tr>
+<tr>
+<td>Statement of Old Age Security</td>
+<td>T4A(OAS)</td>
+</tr>
+<tr>
+<td>Statement of Partnership Income</td>
+<td>T5013</td>
+</tr>
+<tr>
+<td>Statement of Pension, Retirement, Annuity and Other Income</td>
+<td>T4A</td>
+</tr>
+<tr>
+<td>Statement of Remuneration Paid</td>
+<td>T4</td>
+</tr>
+<tr>
+<td>Statement of Registered Retirement Savings Plan (RRSP) Income</td>
+<td>T4RSP</td>
+</tr>
+<tr>
+<td>Statement of Securities Transactions</td>
+<td>T5008</td>
+</tr>
+<tr>
+<td>Statement of Trust Income Allocations and Designations</td>
+<td>T3</td>
+</tr>
+<tr>
+<td>Tax-free Savings Account (TFSA) Annual Information Return</td>
+<td></td>
+</tr>
+<tr>
+<td>Universal Child Care Benefit Statement</td>
+<td>RC62</td>
+</tr>
+</table>
 
-- **(2)** For purposes of subsection 150.1(2.1) of the Act, a ***prescribed corporation*** is any corporation whose gross revenue exceeds $1 million except
-	- **(a)** an insurance corporation as defined in subsection 248(1) of the Act;
+
+- **(2)** For purposes of subsection 150.1(2.1) of the Act, a ***prescribed corporation*** is any corporation whose gross revenue exceeds $1 million except
+	- **(a)** an insurance corporation as defined in subsection 248(1) of the Act;
 	- **(b)** a non-resident corporation;
-	- **(c)** a corporation reporting in functional currency as defined in subsection 261(1) of the Act; or
-	- **(d)** a corporation that is exempt under section 149 of the Act from tax payable.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/99-20, s. 1; SOR/2011-295, s. 1.
+	- **(c)** a corporation reporting in functional currency as defined in subsection 261(1) of the Act; or
+	- **(d)** a corporation that is exempt under section 149 of the Act from tax payable.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/99-20, s. 1; SOR/2011-295, s. 1; SOR/2015-140, s. 1.
 
 
 
