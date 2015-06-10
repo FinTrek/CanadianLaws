@@ -899,14 +899,113 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 
 **205.1** 
 
-- **(1)** La personne tenue de faire une déclaration de renseignements aux termes de la présente partie ou celle qui produit une déclaration de renseignements pour le compte d’une personne tenue d’en faire une aux termes de la présente partie doit, si le nombre de ces déclarations dépasse 500 pour l’année civile, la produire auprès du ministre sous forme électronique.
+- **(1)** Pour l’application du paragraphe 162(7.02) de la Loi, les types de déclarations de renseignements ci-après sont visés et, lorsque plus de 50 déclarations de renseignements d’un type de déclaration visé doivent être produites pour une année civile, les déclarations de ce type doivent être produites par Internet :
+<table>
+<tr>
+<td>Déclaration annuelle de renseignements du compte d’épargne libre d’impôt (CELI)</td>
+<td></td>
+</tr>
+<tr>
+<td>Déclaration de renseignements de la Partie XVIII – Échange international de renseignements sur les comptes financiers</td>
+<td></td>
+</tr>
+<tr>
+<td>Déclaration de renseignements d’un régime de pension agréé collectif (RPAC)</td>
+<td></td>
+</tr>
+<tr>
+<td>Déclaration de renseignements pour les cotisations au régime enregistré d’épargne-retraite (REER)</td>
+<td></td>
+</tr>
+<tr>
+<td>Déclaration relative à un télé-virement international</td>
+<td></td>
+</tr>
+<tr>
+<td>État de la prestation universelle pour la garde d’enfants</td>
+<td>RC62</td>
+</tr>
+<tr>
+<td>État de la rémunération payée</td>
+<td>T4</td>
+</tr>
+<tr>
+<td>État des honoraires, des commissions ou d’autres sommes payés à des non-résidents pour services rendus au Canada</td>
+<td>T4A-NR</td>
+</tr>
+<tr>
+<td>État des opérations sur titres</td>
+<td>T5008</td>
+</tr>
+<tr>
+<td>État des paiements contractuels</td>
+<td>T5018</td>
+</tr>
+<tr>
+<td>État des prestations</td>
+<td>T5007</td>
+</tr>
+<tr>
+<td>État des prestations d’assurance-emploi et autres prestations</td>
+<td>T4E</td>
+</tr>
+<tr>
+<td>État des prestations du Régime de pensions du Canada</td>
+<td>T4A(P)</td>
+</tr>
+<tr>
+<td>État des revenus de fiducie (répartitions et attributions)</td>
+<td>T3</td>
+</tr>
+<tr>
+<td>État des revenus de placements</td>
+<td>T5</td>
+</tr>
+<tr>
+<td>État des revenus d’une société de personnes</td>
+<td>T5013</td>
+</tr>
+<tr>
+<td>État des sommes payées ou créditées à des non-résidents du Canada</td>
+<td>NR4</td>
+</tr>
+<tr>
+<td>État du revenu de pension, de retraite, de rente ou d’autres sources</td>
+<td>T4A</td>
+</tr>
+<tr>
+<td>État du revenu provenant d’un fonds enregistré de revenu de retraite</td>
+<td>T4RIF</td>
+</tr>
+<tr>
+<td>État du revenu provenant d’un régime enregistré d’épargne-retraite (REER)</td>
+<td>T4RSP</td>
+</tr>
+<tr>
+<td>Paiements contractuels de services du gouvernement</td>
+<td>T1204</td>
+</tr>
+<tr>
+<td>Placements non admissibles de régimes enregistrés d’épargne-retraite et de fonds enregistrés de revenu de retraite</td>
+<td></td>
+</tr>
+<tr>
+<td>Relevé de la sécurité de la vieillesse</td>
+<td>T4A(OAS)</td>
+</tr>
+<tr>
+<td>Relevé des paiements de soutien agricole</td>
+<td>AGR-1</td>
+</tr>
+</table>
 
-- **(2)** Pour l’application du paragraphe 150.1(2.1) de la Loi, une ***société visée par règlement*** s’entend d’une société dont le revenu brut dépasse un million de dollars mais à l’exclusion des suivantes :
-	- **a)** une compagnie d’assurance au sens du paragraphe 248(1) de la Loi;
+
+- **(2)** Pour l’application du paragraphe 150.1(2.1) de la Loi, une ***société visée par règlement*** s’entend d’une société dont le revenu brut dépasse un million de dollars mais à l’exclusion des suivantes :
+	- **a)** une compagnie d’assurance au sens du paragraphe 248(1) de la Loi;
 	- **b)** une société non-résidente;
-	- **c)** la société qui produit sa déclaration en monnaie fonctionnelle au sens du paragraphe 261(1) de la Loi;
-	- **d)** la société exonérée de l’impôt en application de l’article 149 de la Loi.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/99-20, art. 1; DORS/2011-295, art. 1.
+	- **c)** la société qui produit sa déclaration en monnaie fonctionnelle au sens du paragraphe 261(1) de la Loi;
+	- **d)** la société exonérée de l’impôt en application de l’article 149 de la Loi.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/99-20, art. 1; DORS/2011-295, art. 1; DORS/2015-140, art. 1.
 
 
 
