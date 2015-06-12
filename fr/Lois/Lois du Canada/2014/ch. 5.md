@@ -617,6 +617,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **(articles 2 à 5 et 42)**
 ## Premières nations participantes
 - **1** Madawaska Maliseet First Nation
-> 2014, ch. 5, ann.; DORS/2015-136, art. 1.
+- **2** Micmacs of Gesgapegiag
+> 2014, ch. 5, ann.; DORS/2015-136, art. 1; DORS/2015-149, art. 1.
 
 
