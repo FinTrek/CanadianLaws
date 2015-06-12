@@ -1103,13 +1103,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Revocation or suspension of opinion**
 
 - **(1.43)** If, in the view of the Department of Employment and Social Development, public policy considerations that are specified in instructions given by the Minister of Employment and Social Development justify it, that Department may
-	- **(a)** revoke an opinion provided by that Department with respect to an application for a work permit;
-	- **(b)** suspend the effects of the opinion; or
-	- **(c)** refuse to process a request for such an opinion.
+	- **(a)** revoke an assessment provided by that Department with respect to an application for a work permit;
+	- **(b)** suspend the effects of the assessment; or
+	- **(c)** refuse to process a request for such an assessment.
 
 **For greater certainty**
 
-- **(1.44)** For greater certainty, subsection (1.43) does not affect any other lawful authority to revoke an opinion referred to in that subsection.
+- **(1.44)** For greater certainty, subsection (1.43) does not affect any other lawful authority to revoke an assessment referred to in that subsection.
 
 **Publication**
 
@@ -1117,7 +1117,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Application**
 
-- **(1.6)** The instructions take effect on the day on which they are published, or on any later day specified in the instructions, and apply in respect of all applications for authorization to work in Canada and requests to provide an opinion with respect to an application for a work permit, including those applications and requests that were made before that day and for which a final decision has not been made.
+- **(1.6)** The instructions take effect on the day on which they are published, or on any later day specified in the instructions, and apply in respect of all applications for authorization to work in Canada and requests to provide an assessment with respect to an application for a work permit, including those applications and requests that were made before that day and for which a final decision has not been made.
 
 **Revocation**
 
@@ -1126,7 +1126,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Minor children**
 
 - **(2)** Every minor child in Canada, other than a child of a temporary resident not authorized to work or study, is authorized to study at the pre-school, primary or secondary level.
-> 2001, c. 27, s. 30; 2012, c. 1, s. 206; 2013, c. 33, s. 161, c. 40, s. 235.
+> 2001, c. 27, s. 30; 2012, c. 1, s. 206; 2013, c. 33, s. 161, c. 40, s. 235; 2014, c. 39, s. 307.
 
 
 
@@ -2537,7 +2537,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **[User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
 
-- **(1.1)** The [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply to a fee for the provision of services in relation to a request for an opinion provided by the Department of Employment and Social Development with respect to an application for a work permit.
+- **(1.1)** The [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply to a fee for the provision of services in relation to a request for an assessment provided by the Department of Employment and Social Development with respect to an application for a work permit.
 
 **[User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
 
@@ -2550,7 +2550,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **[User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
 
 - **(3)** The [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply to a fee for the provision of services in relation to the collection, use and disclosure of biometric information and for the provision of related services.
-> 2001, c. 27, s. 89; 2012, c. 17, s. 30, c. 31, ss. 312, 313; 2013, c. 33, s. 162, c. 40, s. 237.
+> 2001, c. 27, s. 89; 2012, c. 17, s. 30, c. 31, ss. 312, 313; 2013, c. 33, s. 162, c. 40, s. 237; 2014, c. 39, s. 310.
 
 
 
