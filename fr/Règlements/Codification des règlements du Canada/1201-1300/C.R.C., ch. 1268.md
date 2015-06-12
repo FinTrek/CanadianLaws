@@ -235,15 +235,15 @@ Autorités habilitantes :
 
 - **(2)** Un brevet ou un certificat de pilotage de classe B, port de Montréal, autorise le titulaire à exercer les fonctions de pilote à bord de tout navire d’une longueur d’au plus 210 m dans la circonscription n<sup>o</sup> 1-1.
 
-- **(3)** Un brevet ou un certificat de pilotage de classe A autorise le titulaire à exercer les fonctions de pilote (sauf les déplacements dans la circonscription n<sup>o</sup> 1-1) à bord de tout navire dans les circonscriptions n<sup>os</sup> 1 ou 2, ou dans toute partie de celles-ci.
+- **(3)** Un brevet ou un certificat de pilotage de classe A autorise le titulaire à exercer les fonctions de pilote à bord de tout navire dans les circonscriptions n<sup>os</sup> 1 ou 2, ou dans toute partie de celles-ci.
 
-- **(4)** Un brevet ou un certificat de pilotage de catégorie B autorise le titulaire à exercer les fonctions de pilote (sauf les déplacements dans la circonscription n<sup>o</sup> 1-1) :
+- **(4)** Un brevet ou un certificat de pilotage de catégorie B autorise le titulaire à exercer les fonctions de pilote :
 	- **a)** dans la circonscription n<sup>o</sup> 1 ou toute partie de celle-ci :
 		- **(i)** dans l’année qui suit la date de l’obtention du brevet ou du certificat de pilotage, à bord de tout navire d’une longueur d’au plus 195 m,
 		- **(ii)** dans la deuxième année qui suit la date de l’obtention du brevet ou du certificat de pilotage, et dans toute année subséquente, à bord de tout navire d’une longueur d’au plus 215 m;
 	- **b)** dans la circonscription n<sup>o</sup> 2 ou toute partie de celle-ci, à bord de tout navire d’un port en lourd d’au plus 50 000 tonnes.
 
-- **(5)** Un brevet ou un certificat de pilotage de catégorie C autorise le titulaire à exercer les fonctions de pilote (sauf les déplacements dans la circonscription n<sup>o</sup> 1-1) :
+- **(5)** Un brevet ou un certificat de pilotage de catégorie C autorise le titulaire à exercer les fonctions de pilote :
 	- **a)** dans la circonscription n<sup>o</sup> 1 ou toute partie de celle-ci :
 		- **(i)** dans les six premiers mois qui suivent la date de l’obtention du brevet ou du certificat de pilotage, à bord de tout navire d’une longueur d’au plus 165 m,
 		- **(ii)** dans les six mois qui suivent la période visée au sous-alinéa (i), à bord de tout navire-citerne d’une longueur d’au plus 165 m et de tout autre navire d’une longueur d’au plus 175 m,
@@ -251,7 +251,7 @@ Autorités habilitantes :
 	- **b)** dans la circonscription n<sup>o</sup> 2 ou toute partie de celle-ci, à bord de tout navire d’un port en lourd d’au plus 30 000 tonnes.
 
 - **(6)** Le permis d’apprenti pilote de classe D autorise le titulaire à recevoir la formation de pilote en présence d’un pilote breveté à bord de tout navire, dans les circonscriptions n<sup>os</sup> 1, 1-1 ou 2.
-> DORS/83-274, art. 3; DORS/94-727, art. 1; DORS/98-185, art. 3; DORS/99-417, art. 3; DORS/2002-346, art. 4.
+> DORS/83-274, art. 3; DORS/94-727, art. 1; DORS/98-185, art. 3; DORS/99-417, art. 3; DORS/2002-346, art. 4; DORS/2015-146, art. 1.
 
 
 
