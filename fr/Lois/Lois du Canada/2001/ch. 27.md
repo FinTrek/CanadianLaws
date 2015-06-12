@@ -1099,13 +1099,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Révocation ou suspension d’un avis**
 
 - **(1.43)** Le ministère de l’Emploi et du Développement social peut, s’il estime que l’intérêt public, tel que celui-ci est établi dans les instructions du ministre de l’Emploi et du Développement social, le justifie :
-	- **a)** révoquer un avis qu’il a fourni relativement à une demande de permis de travail;
-	- **b)** suspendre les effets d’un tel avis;
-	- **c)** refuser de traiter une demande pour un tel avis.
+	- **a)** révoquer une évaluation qu’il a fournie relativement à une demande de permis de travail;
+	- **b)** suspendre les effets d’une telle évaluation;
+	- **c)** refuser de traiter une demande pour une telle évaluation.
 
 **Précision**
 
-- **(1.44)** Il est entendu que le paragraphe (1.43) est sans effet sur tout autre pouvoir légitime permettant de révoquer un avis visé à ce paragraphe.
+- **(1.44)** Il est entendu que le paragraphe (1.43) est sans effet sur tout autre pouvoir légitime permettant de révoquer une évaluation visée à ce paragraphe.
 
 **Publication**
 
@@ -1113,7 +1113,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Prise d’effet**
 
-- **(1.6)** Les instructions prennent effet à la date de leur publication ou à la date ultérieure qui y est précisée et elles s’appliquent à toute demande d’autorisation d’exercer un emploi au Canada et à toute demande de fournir un avis relativement à une demande de permis de travail, y compris celle qui a été présentée avant cette date et à l’égard de laquelle une décision finale n’a pas encore été rendue.
+- **(1.6)** Les instructions prennent effet à la date de leur publication ou à la date ultérieure qui y est précisée et elles s’appliquent à toute demande d’autorisation d’exercer un emploi au Canada et à toute demande de fournir une évaluation relativement à une demande de permis de travail, y compris la demande qui a été présentée avant cette date et à l’égard de laquelle une décision définitive n’a pas encore été rendue.
 
 **Cessation d’effet**
 
@@ -1122,7 +1122,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Enfant mineur**
 
 - **(2)** L’enfant mineur qui se trouve au Canada est autorisé à y étudier au niveau préscolaire, au primaire ou au secondaire, à l’exception de celui du résident temporaire non autorisé à y exercer un emploi ou à y étudier.
-> 2001, ch. 27, art. 30; 2012, ch. 1, art. 206; 2013, ch. 33, art. 161, ch. 40, art. 235.
+> 2001, ch. 27, art. 30; 2012, ch. 1, art. 206; 2013, ch. 33, art. 161, ch. 40, art. 235; 2014, ch. 39, art. 307.
 
 
 
@@ -2519,7 +2519,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
 
-- **(1.1)** La [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux frais exigés pour la prestation de services liés à la demande d’un avis fourni par le ministère de l’Emploi et du Développement social relativement à une demande de permis de travail.
+- **(1.1)** La [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux frais exigés pour la prestation de services liés à la demande d’une évaluation fournie par le ministère de l’Emploi et du Développement social relativement à une demande de permis de travail.
 
 **[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
 
@@ -2532,7 +2532,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
 
 - **(3)** La [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux frais exigés pour la prestation de services liés à la collecte, à l’utilisation et à la communication de renseignements biométriques, ainsi qu’aux services afférents.
-> 2001, ch. 27, art. 89; 2012, ch. 17, art. 30, ch. 31, art. 312 et 313; 2013, ch. 33, art. 162, ch. 40, art. 237.
+> 2001, ch. 27, art. 89; 2012, ch. 17, art. 30, ch. 31, art. 312 et 313; 2013, ch. 33, art. 162, ch. 40, art. 237; 2014, ch. 39, art. 310.
 
 
 
