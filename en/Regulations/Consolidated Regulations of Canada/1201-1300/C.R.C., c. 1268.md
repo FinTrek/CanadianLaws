@@ -235,15 +235,15 @@ Enabling authorities:
 
 - **(2)** A Class B Montreal Harbour licence or pilotage certificate permits its holder to perform pilotage duties on any ship not exceeding 210 m in length in District No. 1-1.
 
-- **(3)** A Class A licence or pilotage certificate permits its holder to perform pilotage duties (other than movages in District No. 1-1) on any ship in District No. 1 or District No. 2 or any part of those districts.
+- **(3)** A Class A licence or pilotage certificate permits its holder to perform pilotage duties on any ship in District No. 1 or District No. 2 or any part of those districts.
 
-- **(4)** A Class B licence or pilotage certificate permits its holder to perform pilotage duties (other than movages in District No. 1-1)
+- **(4)** A Class B licence or pilotage certificate permits its holder to perform pilotage duties
 	- **(a)** in District No. 1 or any part of that District,
 		- **(i)** in the first year after the date on which the holder obtained the licence or pilotage certificate, on any ship not exceeding 195 m in length, and
 		- **(ii)** in the second and any subsequent year after the date on which the holder obtained the licence or pilotage certificate, on any ship not exceeding 215 m in length; and
 	- **(b)** in District No. 2 or any part of that District, on any ship not exceeding 50,000 deadweight tons.
 
-- **(5)** A Class C licence or pilotage certificate permits its holder to perform pilotage duties (other than movages in District No. 1-1)
+- **(5)** A Class C licence or pilotage certificate permits its holder to perform pilotage duties
 	- **(a)** in District No. 1 or any part of that District,
 		- **(i)** in the first six months after the date on which the holder obtained the licence or pilotage certificate, on any ship not exceeding 165 m in length,
 		- **(ii)** in the six months after the period referred to in subparagraph (i), on any tanker not exceeding 165 m in length and on any other ship not exceeding 175 m in length, and
@@ -251,7 +251,7 @@ Enabling authorities:
 	- **(b)** in District No. 2 or any part of that District, on any ship not exceeding 30,000 deadweight tons.
 
 - **(6)** A Class D apprentice pilot permit allows its holder to undertake pilotage training in the presence of a licensed pilot on any ship, in District No. 1, No. 1-1 or No. 2.
-> SOR/83-274, s. 3; SOR/94-727, s. 1; SOR/98-185, s. 3; SOR/99-417, s. 3; SOR/2002-346, s. 4.
+> SOR/83-274, s. 3; SOR/94-727, s. 1; SOR/98-185, s. 3; SOR/99-417, s. 3; SOR/2002-346, s. 4; SOR/2015-146, s. 1.
 
 
 
