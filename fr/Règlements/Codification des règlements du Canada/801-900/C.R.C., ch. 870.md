@@ -101,9 +101,22 @@ Autorités habilitantes :
 
 
 
-**A.01.016** Tout renseignement qui, selon que l’exige le présent règlement, doit figurer sur l’étiquette d’un aliment ou d’une drogue doit
+**A.01.016** Tout renseignement qui, aux termes du présent règlement, doit figurer sur l’étiquette d’un aliment ou d’une drogue autre qu’une drogue pour usage humain sous forme posologique doit :
 - **a)** être clairement formulé et placé bien en vue; et
 - **b)** être facile à apercevoir, pour l’acheteur ou le consommateur, dans les conditions ordinaires d’achat et d’usage.
+> DORS/2014-158, art. 1.
+
+
+
+
+**A.01.017** Toute étiquette d’une drogue pour usage humain sous forme posologique remplit les conditions suivantes :
+- **a)** les renseignements qui, aux termes du présent règlement, doivent y figurer sont :
+	- **(i)** placés bien en vue,
+	- **(ii)** faciles à apercevoir, pour l’acheteur ou le consommateur, dans les conditions ordinaires d’achat et d’usage,
+	- **(iii)** formulés en langage clair;
+- **b)** son format, notamment la façon dont le texte et tout élément graphique sont présentés, ne doit pas nuire à la compréhension des renseignements visés à l’alinéa a).
+> DORS/2014-158, art. 2.
+
 
 
 
@@ -382,7 +395,7 @@ la conception du contenant, les matériaux utilisés pour sa fabrication ou la p
 
 
 
-### Titre 1
+**TITRE 1** 
 
 
 
@@ -7799,7 +7812,7 @@ et il doit contenir au moins sept pour cent d’alcool absolu en volume.
 
 
 
-### Titre 6
+**TITRE 6** 
 
 
 
@@ -21959,7 +21972,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 
 
 
-### Titre 18
+**TITRE 18** 
 
 
 
@@ -22790,7 +22803,7 @@ l’allongeur de produits de volaille ne satisfasse aux exigences des alinéas B
 
 
 
-### Titre 24
+**TITRE 24** 
 
 
 
@@ -23903,7 +23916,7 @@ ne soit un succédané complet du régime total en ce qu’il satisfait aux beso
 
 
 
-### Titre 25
+**TITRE 25** 
 
 
 
@@ -24710,7 +24723,7 @@ si seulement des acides aminés de forme L ont été ajoutés.
 
 
 
-### Titre 1
+**TITRE 1** 
 
 
 
@@ -25562,6 +25575,18 @@ si seulement des acides aminés de forme L ont été ajoutés.
 
 
 
+**C.01.004.01** 
+
+- **(1)** Toute étiquette d’une drogue pour usage humain sous forme posologique porte ce qui suit :
+	- **a)** le numéro de téléphone, l’adresse électronique, l’adresse du site Web ou l’adresse postale d’une personne-ressource au Canada, ou tout autre renseignement permettant de contacter cette dernière;
+	- **b)** une mention que tout préjudice à l’égard de la santé d’une personne soupçonné d’être lié à l’utilisation de la drogue peut être porté à l’attention de cette personne-ressource.
+
+- **(2)** Le paragraphe (1) ne s’applique pas aux étiquettes d’une drogue mentionnée aux annexes C ou D de la Loi et qui est sous forme posologique.
+> DORS/2014-158, art. 4.
+
+
+
+
 **C.01.004.1** 
 
 - **(1)** Il est interdit d’importer une drogue sous forme posologique en vue de la vente à moins qu’une personne ne soit responsable au Canada de la vente de cette drogue.
@@ -25607,8 +25632,8 @@ si seulement des acides aminés de forme L ont été ajoutés.
 
 
 
-**C.01.010** Dans le cas où il est nécessaire d’indiquer le mode d’emploi approprié et sûr pour une drogue d’usage parentéral ou pour une drogue sur ordonnance qui sert au traitement ou à la prophylaxie d’une maladie, d’un trouble ou d’un état physique anormal mentionné à l’annexe A de la Loi, les étiquettes et les feuillets insérés dans l’emballage de cette drogue peuvent mentionner cette maladie, ce trouble ou cet état physique anormal et cette drogue est exemptée de l’application des paragraphes 3(1) et (2) de la Loi, à cet égard.
-> DORS/2013-122, art. 6.
+**C.01.010** S’il y a lieu de fournir le mode d’emploi approprié et sûr d’une drogue à usage parentéral ou d’une drogue sur ordonnance qui sert au traitement ou à la prophylaxie d’une maladie, d’un trouble ou d’un état physique anormal mentionnés à l’annexe A de la Loi, les étiquettes de la drogue, notamment tout feuillet inséré dans son emballage et toute documentation supplémentaire sur l’emploi de la drogue qui est fournie sur demande, peuvent faire mention de cette maladie, de ce trouble ou de cet état, et la drogue est exemptée à cet égard de l’application des paragraphes 3(1) et (2) de la Loi.
+> DORS/2013-122, art. 6; DORS/2014-158, art. 6.
 
 
 
@@ -25668,24 +25693,29 @@ indiqués pour cette drogue dans les publications mentionnées à l’annexe B 
 
 - **(1)** Le fabricant d’une drogue, une personne autorisée par lui ou, dans le cas d’une drogue devant être importée au Canada, l’importateur de la drogue, peut présenter une demande d’identification numérique pour cette drogue.
 
-- **(2)** Une demande d’identification numérique doit être présentée au Directeur par écrit et doit contenir les renseignements suivants :
+- **(2)** La demande d’identification numérique est présentée au Directeur par écrit et contient les renseignements et le matériel suivants :
 	- **a)** le nom du fabricant de la drogue, tel qu’il figurera sur l’étiquette;
 	- **b)** la forme pharmaceutique sous laquelle la drogue doit être vendue;
 	- **c)** dans le cas d’une drogue non visée à l’alinéa d), la voie d’administration recommandée;
 	- **d)** dans le cas d’une drogue destinée à désinfecter des locaux, le genre de locaux où il est recommandé de l’utiliser;
 	- **e)** une liste quantitative des ingrédients médicinaux contenus dans la drogue, désignés par leur nom propre ou, à défaut de celui-ci par leur nom usuel;
 	- **f)** la marque nominative sous laquelle la drogue doit être vendue;
-	- **g)** une indication portant qu’il s’agit d’une drogue à usage humain, à usage vétérinaire ou devant servir à désinfecter des locaux;
+	- **g)** une indication portant qu’il s’agit d’une drogue pour usage humain ou pour usage vétérinaire;
 	- **h)** le nom de la quantité de chaque colorant de nature non médicinale;
 	- **i)** l’usage ou les fins pour lesquels la drogue est recommandée;
 	- **j)** la posologie recommandée;
 	- **k)** l’adresse du fabricant visé à l’alinéa a) et, si cette adresse est à l’extérieur du pays, le nom et l’adresse de l’importateur de la drogue;
 	- **l)** les nom et adresse du particulier, de l’entreprise ou de la société ou de la corporation, autres que les noms et adresses indiqués aux alinéas a) et k), qui paraîtront sur l’étiquette de la drogue;
-	- **m)** le libellé des étiquettes et des dépliants accompagnant la drogue et de toute autre documentation supplémentaire disponible sur demande; et
-	- **n)** le nom et le poste de la personne ayant signé la demande, ainsi que la date de signature.
+	- **m)** dans le cas d’une drogue pour usage vétérinaire, le libellé de toute étiquette à utiliser relativement à la drogue, y compris tout dépliant d’accompagnement et toute documentation supplémentaire sur l’emploi de la drogue qui est fournie sur demande;
+	- **m.1)** dans le cas d’une drogue pour usage humain, des maquettes de toute étiquette à utiliser relativement à la drogue — y compris tout dépliant d’accompagnement et toute documentation supplémentaire sur l’emploi de la drogue qui est fournie sur demande — ainsi que des maquettes des emballages de la drogue;
+	- **n)** les nom et titre de la personne ayant signé la demande, ainsi que la date de signature;
+	- **o)** dans le cas d’une drogue pour usage humain, une appréciation de la question de savoir si la drogue est susceptible d’être confondue avec l’un des produits ci-après en raison de la ressemblance de la marque nominative dont l’utilisation est proposée pour cette drogue et de la marque nominative, du nom usuel ou du nom propre de l’un de ces produits :
+		- **(i)** toute drogue à l’égard de laquelle une identification numérique a été attribuée,
+		- **(ii)** tout produit pharmaceutique radioactif, au sens de l’article C.03.201, à l’égard duquel un avis de conformité a été délivré en application des articles C.08.004 ou C.08.004.01,
+		- **(iii)** toute trousse, au sens de l’article C.03.205, à l’égard de laquelle un avis de conformité a été délivré en application des articles C.08.004 ou C.08.004.01.
 
 - **(3)** Dans le cas d’une drogue nouvelle, la présentation de drogue nouvelle, la présentation de drogue nouvelle pour usage exceptionnel, la présentation abrégée de drogue nouvelle ou la présentation abrégée de drogue nouvelle pour usage exceptionnel déposée en vertu des articles C.08.002, C.08.002.01 ou C.08.002.1 tient lieu de demande d’identification numérique.
-> DORS/81-248, art. 2; DORS/93-202, art. 4; DORS/98-423, art. 3; DORS/2011-88, art. 2.
+> DORS/81-248, art. 2; DORS/93-202, art. 4; DORS/98-423, art. 3; DORS/2011-88, art. 2; DORS/2014-158, art. 7.
 
 
 
@@ -25710,11 +25740,8 @@ indiqués pour cette drogue dans les publications mentionnées à l’annexe B 
 
 
 
-**C.01.014.3** Le fabricant ou l’importateur, ou la personne autorisée par l’un de ceux-ci, doit, dans les 30 jours suivant la mise en marché de la drogue, dater et signer le document qui lui est remis à l’égard de la drogue selon le paragraphe C.01.014.2(1) et le renvoyer :
-- **a)** avec une confirmation de l’exactitude des renseignements qu’il contient;
-- **b)** avec une indication de la date de la mise en marché de la drogue au Canada; et
-- **c)** avec des échantillons ou des facsimilés des étiquettes et des dépliants d’accompagnement, ainsi que les renseignements supplémentaires sur l’emploi du produit fournis sur demande.
-> DORS/81-248, art. 2; DORS/98-423, art. 5.
+**C.01.014.3** Dans les trente jours suivant la date de la mise en marché de la drogue au Canada, le fabricant ou l’importateur, selon le cas, ou la personne autorisée par lui, date et signe le document visé au paragraphe C.01.014.2(1), l’annote en y incluant une déclaration que les renseignements qu’il contient sont exacts ainsi qu’une mention de la date de cette mise en marché, et le renvoie.
+> DORS/81-248, art. 2; DORS/98-423, art. 5; DORS/2014-158, art. 8.
 
 
 
@@ -27180,7 +27207,7 @@ la personne qui reçoit la commande peut distribuer la drogue, à titre d’éch
 	- **d)** une drogue mentionnée aux annexes C ou D de la Loi ou au titre 6 de la partie C du présent règlement;
 	- **e)** une drogue à laquelle une identification numérique a été attribuée aux termes du paragraphe C.01.014.2(1) et :
 		- **(i)** dont les conditions de fabrication et de contrôle de la qualité permettent le contrôle de son identité, de sa qualité, de sa pureté, de sa stabilité, de son innocuité, de sa teneur et de son activité,
-		- **(ii)** qui possède bien les propriétés que les encarts, étiquettes, brochures et fiches s’y rapportant lui attribuent,
+		- **(ii)** qui possède bien les propriétés que les étiquettes, notamment tout encart et toute documentation supplémentaire sur l’emploi de la drogue qui est fournie sur demande, s’y rapportant lui attribuent,
 		- **(iii)** qui peut, sans risque prévisible excessif pour l’être humain, être utilisée aux fins et dans les conditions d’emploi recommandées par le fabricant,
 		- **(iv)** qui est efficace aux fins et dans les conditions d’emploi recommandées par le fabricant.
 #### TABLEAU
@@ -27291,7 +27318,7 @@ la personne qui reçoit la commande peut distribuer la drogue, à titre d’éch
 </tr>
 </table>
 
-> DORS/92-131, art. 1; DORS/92-591, art. 2; DORS/94-689, art. 2(A); DORS/95-530, art. 2; DORS/98-423, art. 8; DORS/2011-88, art. 5.
+> DORS/92-131, art. 1; DORS/92-591, art. 2; DORS/94-689, art. 2(A); DORS/95-530, art. 2; DORS/98-423, art. 8; DORS/2011-88, art. 5; DORS/2014-158, art. 9.
 
 
 
@@ -28741,7 +28768,7 @@ L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 
 
 
-### Titre 3
+**TITRE 3** 
 
 
 
@@ -29374,7 +29401,7 @@ où l’élément de filiation est séparé de l’élément mère,
 
 
 
-### Titre 4
+**TITRE 4** 
 
 
 
@@ -31985,7 +32012,7 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 
 
 
-### Titre 8
+**TITRE 8** 
 
 
 
@@ -32024,8 +32051,8 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 - **(1)** Il est interdit de vendre ou d’annoncer une drogue nouvelle, à moins que les conditions suivantes ne soient réunies :
 	- **a)** le fabricant de la drogue nouvelle a, relativement à celle-ci, déposé auprès du ministre une présentation de drogue nouvelle, une présentation de drogue nouvelle pour usage exceptionnel, une présentation abrégée de drogue nouvelle ou une présentation abrégée de drogue nouvelle pour usage exceptionnel que celui-ci juge acceptable;
 	- **b)** le ministre a délivré au fabricant de la drogue nouvelle, en application des articles C.08.004 ou C.08.004.01, un avis de conformité relativement à la présentation;
-	- **c)** l’avis de conformité relatif à la présentation n’a pas été suspendu aux termes de l’article C.08.006;
-	- **d)** le fabricant de la drogue nouvelle a présenté au ministre, sous leur forme définitive, des échantillons des étiquettes — y compris toute notice jointe à l’emballage, tout dépliant et toute fiche sur le produit — destinées à être utilisées pour la drogue nouvelle, ainsi qu’une déclaration indiquant la date à laquelle il est prévu de commencer à utiliser ces étiquettes.
+	- **c)** l’avis de conformité relatif à la présentation n’a pas été suspendu aux termes de l’article C.08.006.
+	- **d)** [Abrogé, DORS/2014-158, art. 10]
 
 - **(2)** La présentation de drogue nouvelle doit contenir suffisamment de renseignements et de matériel pour permettre au ministre d’évaluer l’innocuité et l’efficacité de la drogue nouvelle, notamment :
 	- **a)** une description de la drogue nouvelle et une mention de son nom propre ou, à défaut, de son nom usuel;
@@ -32037,7 +32064,8 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 	- **g)** les rapports détaillés des épreuves effectuées en vue d’établir l’innocuité de la drogue nouvelle, aux fins et selon le mode d’emploi recommandés;
 	- **h)** des preuves substantielles de l’efficacité clinique de la drogue nouvelle aux fins et selon le mode d’emploi recommandés;
 	- **i)** la déclaration des noms et titres professionnels de tous les chercheurs à qui la drogue nouvelle a été vendue;
-	- **j)** une esquisse de chacune des étiquettes qui doivent être employées relativement à la drogue nouvelle;
+	- **j)** dans le cas d’une drogue nouvelle pour usage vétérinaire, une esquisse de toute étiquette à utiliser relativement à la drogue nouvelle, y compris tout dépliant d’accompagnement et toute documentation supplémentaire sur l’emploi de la drogue nouvelle qui est fournie sur demande;
+	- **j.1)** dans le cas d’une drogue nouvelle pour usage humain, des maquettes de toute étiquette à utiliser relativement à la drogue nouvelle — y compris tout dépliant d’accompagnement et toute documentation supplémentaire sur l’emploi de la drogue nouvelle qui est fournie sur demande — ainsi que des maquettes des emballages de la drogue nouvelle;
 	- **k)** la déclaration de toutes les recommandations qui doivent être faites dans la réclame pour la drogue nouvelle, au sujet
 		- **(i)** de la voie d’administration recommandée pour la drogue nouvelle,
 		- **(ii)** de la posologie proposée pour la drogue nouvelle,
@@ -32045,14 +32073,18 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 		- **(iv)** des contre-indications et les effets secondaires de la drogue nouvelle;
 	- **l)** la description de la forme posologique proposée pour la vente de la drogue nouvelle;
 	- **m)** les éléments de preuve établissant que les lots d’essai de la drogue nouvelle ayant servi aux études menées dans le cadre de la présentation ont été fabriqués et contrôlés d’une manière représentative de la production destinée au commerce;
-	- **n)** dans le cas d’une drogue nouvelle destinée à être administrée à des animaux producteurs de denrées alimentaires, le délai d’attente applicable.
+	- **n)** dans le cas d’une drogue nouvelle destinée à être administrée à des animaux producteurs de denrées alimentaires, le délai d’attente applicable;
+	- **o)** dans le cas d’une drogue nouvelle pour usage humain, une appréciation de la question de savoir si la drogue nouvelle est susceptible d’être confondue avec l’un des produits ci-après en raison de la ressemblance de la marque nominative dont l’utilisation est proposée pour cette drogue nouvelle et de la marque nominative, du nom usuel ou du nom propre de l’un de ces produits :
+		- **(i)** toute drogue à l’égard de laquelle une identification numérique a été attribuée,
+		- **(ii)** tout produit pharmaceutique radioactif, au sens de l’article C.03.201, à l’égard duquel un avis de conformité a été délivré en application des articles C.08.004 ou C.08.004.01,
+		- **(iii)** toute trousse, au sens de l’article C.03.205, à l’égard de laquelle un avis de conformité a été délivré en application des articles C.08.004 ou C.08.004.01.
 
 - **(3)** Le fabricant de la drogue nouvelle doit, à la demande du ministre, lui fournir, selon ce que celui-ci estime nécessaire pour évaluer l’innocuité et l’efficacité de la drogue dans le cadre de la présentation de drogue nouvelle, les renseignements et le matériel suivants :
 	- **a)** les nom et adresse des fabricants de chaque ingrédient de la drogue nouvelle et les nom et adresse des fabricants de la drogue nouvelle sous sa forme posologique proposée pour la vente;
 	- **b)** des échantillons des ingrédients de la drogue nouvelle;
 	- **c)** des échantillons de la drogue nouvelle sous sa forme posologique proposée pour la vente;
 	- **d)** tout renseignement ou matériel supplémentaire se rapportant à l’innocuité et à l’efficacité de la drogue nouvelle.
-> DORS/85-143, art. 1; DORS/93-202, art. 24; DORS/95-411, art. 4; DORS/2011-88, art. 10.
+> DORS/85-143, art. 1; DORS/93-202, art. 24; DORS/95-411, art. 4; DORS/2011-88, art. 10; DORS/2014-158, art. 10.
 
 
 
@@ -32070,7 +32102,7 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 - **(2)** Sous réserve des paragraphes (3) et (5), la présentation de drogue nouvelle pour usage exceptionnel doit contenir  :
 	- **a)** une attestation, signée et datée par le premier dirigeant au Canada du fabricant qui dépose la présentation et par son directeur médical ou scientifique, portant que les conditions prévues aux alinéas (1)a) et b) sont remplies, accompagnée de suffisamment de renseignements à l’appui pour permettre au ministre de conclure que ces conditions sont remplies;
 	- **b)** suffisamment de renseignements et de matériel pour permettre au ministre d’évaluer l’innocuité et l’efficacité de cette drogue nouvelle, notamment :
-		- **(i)** les renseignements et le matériel visés aux alinéas C.08.002(2)a) à f) et i) à m),
+		- **(i)** les renseignements et le matériel visés aux alinéas C.08.002(2)a) à f), i) à m) et o),
 		- **(ii)** des renseignements concernant le processus pathophysiologique de la toxicité de la substance chimique, biologique, radiologique ou nucléaire et décrivant la capacité de la drogue nouvelle de traiter, d’atténuer ou de prévenir ce processus,
 		- **(iii)** des rapports détaillés d’études *in vitro* effectuées relativement à la toxicité et à l’activité de la drogue nouvelle, aux fins recommandées,
 		- **(iv)** des rapports détaillés d’études, effectuées sur une espèce animale dont les réactions devraient permettre de prédire celles chez l’être humain, établissant l’innocuité de la drogue nouvelle et fournissant des preuves substantielles de ses effets lorsqu’elle est utilisée aux fins et selon le mode d’emploi recommandés,
@@ -32090,7 +32122,7 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 	- **d)** tout renseignement qui n’a pas été fourni au titre du paragraphe (3).
 
 - **(5)** Si la présentation de drogue nouvelle pour usage exceptionnel vise une fin nouvelle d’une drogue nouvelle à l’égard de laquelle un avis de conformité a été délivré en application de l’article C.08.004, il n’est pas nécessaire de fournir les renseignements et le matériel visés au sous-alinéa (2)b)(i) à moins qu’ils ne diffèrent de ceux fournis à l’origine.
-> DORS/2011-88, art. 11.
+> DORS/2011-88, art. 11; DORS/2014-158, art. 11.
 
 
 
@@ -32113,10 +32145,10 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 
 - **(2)** La présentation abrégée de drogue nouvelle ou la présentation abrégée de drogue nouvelle pour usage exceptionnel doit contenir suffisamment de renseignements et de matériel pour permettre au ministre d’évaluer l’innocuité et l’efficacité de la drogue nouvelle, notamment :
 	- **a)** les renseignements et le matériel visés :
-		- **(i)** aux alinéas C.08.002(2)a) à f) et j) à l), dans le cas d’une présentation abrégée de drogue nouvelle,
-		- **(ii)** aux alinéas C.08.002(2)a) à f) et j) à l) et aux sous-alinéas C.08.002.01(2)b)(ix) et (x), dans le cas d’une présentation abrégée de drogue nouvelle pour usage exceptionnel;
+		- **(i)** aux alinéas C.08.002(2)a) à f), j) à l) et o), dans le cas d’une présentation abrégée de drogue nouvelle,
+		- **(ii)** aux alinéas C.08.002(2)a) à f), j) à l) et o) et aux sous-alinéas C.08.002.01(2)b)(ix) et (x), dans le cas d’une présentation abrégée de drogue nouvelle pour usage exceptionnel;
 	- **b)** les renseignements permettant d’identifier le produit de référence canadien utilisé pour les études comparatives menées dans le cadre de la présentation;
-	- **c)** les éléments de preuve, provenant des études comparatives menées dans le cadre de la présentation, établissant que la drogue nouvelle :
+	- **c)** les éléments de preuve, provenant des études comparatives menées dans le cadre de la présentation, établissant que la drogue nouvelle :
 		- **(i)** d’une part, est un équivalent pharmaceutique du produit de référence canadien,
 		- **(ii)** d’autre part, si le ministre l’estime nécessaire d’après les caractéristiques pharmaceutiques et, le cas échéant, d’après les caractéristiques en matière de biodisponibilité de celle-ci, est bioéquivalente au produit de référence canadien selon les résultats des études en matière de biodisponibilité, des études pharmacodynamiques ou des études cliniques;
 	- **d)** les éléments de preuve établissant que les lots d’essai de la drogue nouvelle ayant servi aux études menées dans le cadre de la présentation ont été fabriqués et contrôlés d’une manière représentative de la production destinée au commerce;
@@ -32129,7 +32161,7 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 	- **d)** tout renseignement ou matériel supplémentaire se rapportant à l’innocuité et à l’efficacité de la drogue nouvelle.
 
 - **(4)** Pour l’application du présent article, dans le cas d’une présentation abrégée de drogue nouvelle, la drogue nouvelle pour usage exceptionnel à l’égard de laquelle un avis de conformité a été délivré en application de l’article C.08.004.01 n’est pas un produit de référence canadien.
-> DORS/95-411, art. 5; DORS/2011-88, art. 12.
+> DORS/95-411, art. 5; DORS/2011-88, art. 12; DORS/2014-158, art. 12.
 
 
 
@@ -32139,8 +32171,8 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 - **(1)** Malgré l’article C.08.002, il est interdit de vendre une drogue nouvelle à l’égard de laquelle un avis de conformité a été délivré à son fabricant et n’a pas été suspendu aux termes de l’article C.08.006, lorsqu’un des éléments visés au paragraphe (2) diffère sensiblement des renseignements ou du matériel contenus dans la présentation de drogue nouvelle, la présentation de drogue nouvelle pour usage exceptionnel, la présentation abrégée de drogue nouvelle ou la présentation abrégée de drogue nouvelle pour usage exceptionnel, à moins que les conditions ci-après ne soient réunies :
 	- **a)** le fabricant de la drogue nouvelle a déposé auprès du ministre un supplément à la présentation;
 	- **b)** le ministre a délivré au fabricant un avis de conformité relativement au supplément;
-	- **c)** l’avis de conformité relatif au supplément n’a pas été suspendu aux termes de l’article C.08.006;
-	- **d)** le fabricant de la drogue nouvelle a présenté au ministre, sous leur forme définitive, des échantillons de toute étiquette — y compris une notice jointe à l’emballage, un dépliant et une fiche sur le produit — destinée à être utilisée pour la drogue nouvelle, dans le cas où la modification d’un des éléments visés au paragraphe (2) nécessite un changement dans l’étiquette.
+	- **c)** l’avis de conformité relatif au supplément n’a pas été suspendu aux termes de l’article C.08.006.
+	- **d)** [Abrogé, DORS/2014-158, art. 13]
 
 - **(2)** Pour l’application du paragraphe (1), les éléments ayant trait à la drogue nouvelle sont les suivants :
 	- **a)** sa description;
@@ -32150,6 +32182,7 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 	- **e)** la méthode de fabrication et les mécanismes de contrôle à appliquer pour sa fabrication, sa préparation et son emballage;
 	- **f)** les analyses effectuées pour contrôler son activité, sa pureté, sa stabilité et son innocuité;
 	- **g)** les étiquettes à utiliser pour la drogue nouvelle;
+	- **g.1)** dans le cas d’une drogue nouvelle pour usage humain, les emballages de celle-ci;
 	- **h)** les observations faites relativement :
 		- **(i)** à la voie d’administration recommandée pour la drogue nouvelle,
 		- **(ii)** à sa posologie,
@@ -32160,8 +32193,19 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 
 - **(3)** Le supplément à toute présentation visée au paragraphe (1) contient, à l’égard des éléments qui diffèrent sensiblement de ce qui figure dans la présentation, suffisamment de renseignements et de matériel pour permettre au ministre d’évaluer l’innocuité et l’efficacité de la drogue nouvelle relativement à ces éléments.
 
+- **(3.1)** Le supplément à toute présentation visée au paragraphe (1) contient, selon le cas, ce qui suit :
+	- **a)** si, en raison de l’élément visé au paragraphe (2) — autre que la marque nominative d’une drogue nouvelle pour usage humain — sur lequel porte le supplément, il est nécessaire de modifier les étiquettes de la drogue nouvelle :
+		- **(i)** dans le cas d’une drogue nouvelle pour usage vétérinaire, une esquisse de toute étiquette à utiliser relativement à la drogue nouvelle, y compris tout dépliant d’accompagnement et toute documentation supplémentaire sur l’emploi de la drogue nouvelle qui est fournie sur demande,
+		- **(ii)** dans le cas d’une drogue nouvelle pour usage humain, des maquettes de toute étiquette à utiliser relativement à la drogue nouvelle — y compris tout dépliant d’accompagnement et toute documentation supplémentaire sur l’emploi de la drogue nouvelle qui est fournie sur demande — ainsi que des maquettes des emballages de la drogue nouvelle;
+	- **b)** si le supplément porte sur la marque nominative d’une drogue nouvelle pour usage humain :
+		- **(i)** une appréciation de la question de savoir si la drogue nouvelle est susceptible d’être confondue avec l’un des produits ci-après en raison de la ressemblance de la marque nominative dont l’utilisation est proposée pour cette drogue nouvelle et de la marque nominative, du nom usuel ou du nom propre de l’un de ces produits :
+			- **(A)** toute drogue à l’égard de laquelle une identification numérique a été attribuée,
+			- **(B)** tout produit pharmaceutique radioactif, au sens de l’article C.03.201, à l’égard duquel un avis de conformité a été délivré en application des articles C.08.004 ou C.08.004.01,
+			- **(C)** toute trousse, au sens de l’article C.03.205, à l’égard de laquelle un avis de conformité a été délivré en application des articles C.08.004 ou C.08.004.01,
+		- **(ii)** des maquettes de toute étiquette à utiliser relativement à la drogue nouvelle — y compris tout dépliant d’accompagnement et toute documentation supplémentaire sur l’emploi de la drogue nouvelle qui est fournie sur demande — ainsi que des maquettes des emballages de la drogue nouvelle.
+
 - **(4)** S’il porte sur un élément visé au sous-alinéa (2)h)(iii), le supplément à une présentation de drogue nouvelle pour usage exceptionnel ou à une présentation abrégée de drogue nouvelle pour usage exceptionnel contient l’attestation et les renseignements à l’appui prévus à l’alinéa C.08.002.01(2)a).
-> DORS/85-143, art. 2; DORS/93-202, art. 25; DORS/95-411, art. 6; DORS/2011-88, art. 13.
+> DORS/85-143, art. 2; DORS/93-202, art. 25; DORS/95-411, art. 6; DORS/2011-88, art. 13; DORS/2014-158, art. 13.
 
 
 
@@ -32597,7 +32641,7 @@ le Directeur doit délivrer le certificat d’études expérimentales pour la co
 
 
 
-### Titre 9
+**TITRE 9** 
 
 
 
@@ -33813,7 +33857,7 @@ vendus comme édulcorants. (*saccharin sweetener*)
 
 
 
-### Titre 1
+**TITRE 1** 
 
 
 
@@ -34975,7 +35019,7 @@ selon que peut l’exiger le ministre;
 
 
 
-### Titre 6
+**TITRE 6** 
 
 
 
@@ -35058,7 +35102,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 
 
 
-### Titre 7
+**TITRE 7** 
 
 
 
@@ -35212,7 +35256,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 
 
 
-### Titre 1
+**TITRE 1** 
 
 
 
