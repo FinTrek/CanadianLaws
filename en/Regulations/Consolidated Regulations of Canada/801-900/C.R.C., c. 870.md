@@ -101,9 +101,22 @@ Enabling authorities:
 
 
 
-**A.01.016** All information required by these Regulations to appear on a label of a food or drug shall be
+**A.01.016** All information that is required by these Regulations to appear on a label of a food or a drug, other than a drug for human use in dosage form, shall be
 - **(a)** clearly and prominently displayed on the label; and
 - **(b)** readily discernible to the purchaser or consumer under the customary conditions of purchase and use.
+> SOR/2014-158, s. 1.
+
+
+
+
+**A.01.017** Every label of a drug for human use in dosage form shall meet the following conditions:
+- **(a)** the information that is required by these Regulations to appear on the label shall be
+	- **(i)** prominently displayed on it,
+	- **(ii)** readily discernible to the purchaser or consumer under the customary conditions of purchase and use, and
+	- **(iii)** expressed in plain language; and
+- **(b)** the format of the label, including the manner in which its text and any graphics are displayed on it, shall not impede comprehension of the information referred to in paragraph (a).
+> SOR/2014-158, s. 2.
+
 
 
 
@@ -382,7 +395,7 @@ the design of the container, the materials used in its construction or the incor
 
 
 
-### Division 1
+**DIVISION 1** 
 
 
 
@@ -3255,7 +3268,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-##### Foods for Children under Two Years of Age
+##### Foods for Children Under Two Years of Age
 
 
 **B.01.403** 
@@ -3289,7 +3302,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-##### Food for Use in Manufacturing other Foods
+##### Food for Use in Manufacturing Other Foods
 
 
 **B.01.404** 
@@ -4386,7 +4399,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-##### Standard and Horizontal Formats — Children under Two Years of Age
+##### Standard and Horizontal Formats — Children Under Two Years of Age
 > [SOR/2003-11, s. 20; err.(E), Vol. 137, No. 5]
 
 
@@ -4598,7 +4611,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-##### Simplified Formats — Children under Two Years of Age
+##### Simplified Formats — Children Under Two Years of Age
 
 
 **B.01.462** 
@@ -4760,7 +4773,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-##### Aggregate Format — Different Kinds of Foods — Children under Two Years of Age
+##### Aggregate Format — Different Kinds of Foods — Children Under Two Years of Age
 
 
 **B.01.463** 
@@ -4894,7 +4907,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-##### Aggregate Format — Different Amounts of Food — Children under Two Years of Age
+##### Aggregate Format — Different Amounts of Food — Children Under Two Years of Age
 
 
 **B.01.464** 
@@ -5023,7 +5036,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-##### Presentation of Additional Information — Children under Two Years of Age
+##### Presentation of Additional Information — Children Under Two Years of Age
 
 
 **B.01.465** 
@@ -7552,7 +7565,7 @@ and shall contain not less than seven per cent absolute alcohol by volume.
 
 
 **DIVISION 4** 
-### Cocoa And Chocolate Products
+### Cocoa and Chocolate Products
 
 
 **B.04.001** The definitions in this section apply in this Division.
@@ -7799,7 +7812,7 @@ and shall contain not less than seven per cent absolute alcohol by volume.
 
 
 
-### Division 6
+**DIVISION 6** 
 
 
 
@@ -8085,7 +8098,7 @@ and shall contain not less than seven per cent absolute alcohol by volume.
 
 
 **DIVISION 7** 
-### Spices, Dressings And Seasonings
+### Spices, Dressings and Seasonings
 
 
 **B.07.001** **[S]. Allspice** or **Pimento**, whole or ground, shall be the dried, full but unripe whole berries of *Pimenta dioica (L) Merr.* and shall contain
@@ -10355,7 +10368,7 @@ shall be shown on the principal display panel followed by the words “milk fat�
 
 
 **DIVISION 9** 
-### Fats And Oils
+### Fats and Oils
 
 
 **B.09.001** **[S]. Vegetable fats and oils** shall be fats and oils obtained entirely from the botanical source after which they are named, shall be dry and sweet in flavour and odour and, with the exception of olive oil, may contain emulsifying agents, Class IV preservatives, an antifoaming agent, and B-carotene in a quantity sufficient to replace that lost during processing, if such an addition is declared on the label.
@@ -10749,7 +10762,7 @@ except that the total weight of the ingredients permitted under paragraphs (d) a
 
 
 **DIVISION 11** 
-### Fruits, Vegetables, Their Products And Substitutes
+### Fruits, Vegetables, Their Products and Substitutes
 > [SOR/78-478, s. 1]
 
 
@@ -11386,7 +11399,7 @@ per 100 millilitres when the drink is ready to serve.
 
 
 **DIVISION 12** 
-### Prepackaged Water And Ice
+### Prepackaged Water and Ice
 > [SOR/80-633, s. 1]
 
 
@@ -11484,7 +11497,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 
 
 **DIVISION 13** 
-### Grain And Bakery Products
+### Grain and Bakery Products
 
 
 **B.13.001** **[S]. Flour, White Flour, Enriched Flour** or **Enriched White Flour**
@@ -11927,7 +11940,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 
 
 **DIVISION 14** 
-### Meat, Its Preparations And Products
+### Meat, Its Preparations and Products
 
 
 **B.14.001** In this Division,
@@ -12035,7 +12048,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 
 
 
-#### Meat, Meat By-products
+#### Meat, Meat By-Products
 
 
 **B.14.015** **[S]. Regular Ground Beef** shall be beef meat processed by grinding and shall contain not more than 30 per cent beef fat, as determined by official method FO-33, Determination of Fat in Meat and Simulated Meat Products, October 15, 1981.
@@ -12152,7 +12165,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 
 
 
-#### Prepared Meats, Prepared Meat By-products
+#### Prepared Meats, Prepared Meat By-Products
 
 
 **B.14.030** 
@@ -12667,7 +12680,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 
 
 **DIVISION 15** 
-### Adulteration Of Food
+### Adulteration of Food
 
 
 **B.15.001** A food named in Column III of an item of Table I to this Division is adulterated if the substance named in Column I of that item is present therein or has been added thereto in an amount exceeding the amount, expressed in parts per million, shown in Column II of that item for that food.
@@ -21963,7 +21976,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 
 
 
-### Division 18
+**DIVISION 18** 
 
 
 
@@ -22237,7 +22250,7 @@ and shall have
 
 
 **DIVISION 21** 
-### Marine And Fresh Water Animal Products
+### Marine and Fresh Water Animal Products
 
 
 **B.21.001** The foods referred to in this Division are included in the term *marine and fresh water animal products*.
@@ -22395,7 +22408,7 @@ and shall have
 
 
 **DIVISION 22** 
-### Poultry, Poultry Meat, Their Preparations And Products
+### Poultry, Poultry Meat, Their Preparations and Products
 
 
 **B.22.001** **[S].** Poultry shall be any bird that is commonly used as food.
@@ -22794,7 +22807,7 @@ the poultry product extender meets the requirements of paragraphs B.22.027(a) to
 
 
 
-### Division 24
+**DIVISION 24** 
 
 
 
@@ -23907,7 +23920,7 @@ is a complete substitute for the total diet in meeting the nutritional requireme
 
 
 
-### Division 25
+**DIVISION 25** 
 
 
 
@@ -24568,7 +24581,7 @@ and only the L forms of the amino acids have been added.
 
 
 **DIVISION 27** 
-### Low-Acid Foods Packaged In Hermetically Sealed Containers
+### Low-Acid Foods Packaged in Hermetically Sealed Containers
 
 
 **B.27.001** In this Division,
@@ -24669,7 +24682,7 @@ and only the L forms of the amino acids have been added.
 
 
 
-#### Pre-market notification
+#### Pre-Market Notification
 
 
 **B.28.002** 
@@ -24714,7 +24727,7 @@ and only the L forms of the amino acids have been added.
 
 
 
-### Division 1
+**DIVISION 1** 
 
 
 
@@ -25566,6 +25579,18 @@ and only the L forms of the amino acids have been added.
 
 
 
+**C.01.004.01** 
+
+- **(1)** Every label of a drug for human use in dosage form shall display the following:
+	- **(a)** a telephone number, email address, website address, postal address or any other information that enables communication with a contact person in Canada; and
+	- **(b)** a statement to the effect that any injury to a person’s health that is suspected of being associated with the use of the drug may be reported to the contact person.
+
+- **(2)** Subsection (1) does not apply to the labels of a drug that is listed in Schedule C or D to the Act and that is in dosage form.
+> SOR/2014-158, s. 4.
+
+
+
+
 **C.01.004.1** 
 
 - **(1)** No person shall import a drug in dosage form into Canada for the purpose of sale unless they have in Canada a person who is responsible for the sale of the drug.
@@ -25611,8 +25636,8 @@ and only the L forms of the amino acids have been added.
 
 
 
-**C.01.010** If it is necessary to provide adequate directions for the safe use of a parenteral drug or prescription drug that is used in the treatment or prevention of any disease, disorder or abnormal physical state mentioned in Schedule A to the Act, such diseases, disorders or abnormal physical state may be mentioned on the labels and inserts accompanying the drug and, in that respect, the drug is exempt from subsections 3(1) and (2) of the Act.
-> SOR/2013-122, s. 6.
+**C.01.010** If it is necessary to provide adequate directions for the safe use of a parenteral drug or prescription drug that is used in the treatment or prevention of any disease, disorder or abnormal physical state mentioned in Schedule A to the Act, the disease, disorder or abnormal physical state may be mentioned on the drug’s labels, including any package insert and any document that is provided on request and that sets out supplementary information on the use of the drug, and, in that respect, the drug is exempt from subsections 3(1) and (2) of the Act.
+> SOR/2013-122, s. 6; SOR/2014-158, s. 6.
 
 
 
@@ -25672,24 +25697,29 @@ provided for that drug in any publication mentioned in Schedule B to the Act.
 
 - **(1)** A manufacturer of a drug, a person authorized by a manufacturer or, in the case of a drug to be imported into Canada, the importer of the drug may make an application for a drug identification number for that drug.
 
-- **(2)** An application under subsection (1) shall be made to the Director in writing and shall set out the following information:
+- **(2)** An application under subsection (1) shall be made to the Director in writing and shall include the following information and material:
 	- **(a)** the name of the manufacturer of the drug as it will appear on the label;
 	- **(b)** the pharmaceutical form in which the drug is to be sold;
 	- **(c)** in the case of any drug other than a drug described in paragraph (d), the recommended route of administration;
 	- **(d)** in the case of a drug for disinfection in premises, the types of premises for which its use is recommended;
 	- **(e)** a quantitative list of the medicinal ingredients contained in the drug by their proper names or, if they have no proper names, by their common names;
 	- **(f)** the brand name under which the drug is to be sold;
-	- **(g)** whether the drug is for human use, veterinary use or disinfection in premises;
+	- **(g)** an indication of whether the drug is for human use or veterinary use;
 	- **(h)** the name and quantity of each colouring ingredient that is not a medicinal ingredient;
 	- **(i)** the use or purpose for which the drug is recommended;
 	- **(j)** the recommended dosage of the drug;
 	- **(k)** the address of the manufacturer referred to in paragraph (a) and, where the address is outside the country, the name and address of the importer of the drug;
 	- **(l)** the name and address of any individual, firm, partnership or corporation, other than the names and addresses referred to in paragraphs (a) and (k), that will appear on the label of the drug;
-	- **(m)** the written text of all labels and package inserts to be used in connection with the drug and of any further prescribing information stated to be available on request; and
-	- **(n)** the name and position of the person who signed the application and the date of signature.
+	- **(m)** in the case of a drug for veterinary use, the written text of every label to be used in connection with the drug, including any package insert and any document that is provided on request and that sets out supplementary information on the use of the drug;
+	- **(m.1)** in the case of a drug for human use, mock-ups of every label to be used in connection with the drug — including any package insert and any document that is provided on request and that sets out supplementary information on the use of the drug — and mock-ups of the drug’s packages;
+	- **(n)** the name and title of the person who signed the application and the date of signature; and
+	- **(o)** in the case of a drug for human use, an assessment as to whether there is a likelihood that the drug will be mistaken for any of the following products due to a resemblance between the brand name that is proposed to be used in respect of the drug and the brand name, common name or proper name of any of those products:
+		- **(i)** a drug in respect of which a drug identification number has been assigned,
+		- **(ii)** a radiopharmaceutical, as defined in section C.03.201, in respect of which a notice of compliance has been issued under section C.08.004 or C.08.004.01, and
+		- **(iii)** a kit, as defined in section C.03.205, in respect of which a notice of compliance has been issued under section C.08.004 or C.08.004.01.
 
 - **(3)** In the case of a new drug, a new drug submission, an extraordinary use new drug submission, an abbreviated new drug submission or an abbreviated extraordinary use new drug submission filed under section C.08.002, C.08.002.01 or C.08.002.1 shall be regarded as an application for a drug identification number.
-> SOR/81-248, s. 2; SOR/93-202, s. 4; SOR/98-423, s. 3; SOR/2011-88, s. 2.
+> SOR/81-248, s. 2; SOR/93-202, s. 4; SOR/98-423, s. 3; SOR/2011-88, s. 2; SOR/2014-158, s. 7.
 
 
 
@@ -25715,11 +25745,8 @@ he may refuse to issue the document referred to in subsection (1).
 
 
 
-**C.01.014.3** The manufacturer or importer or person authorized by the manufacturer or importer shall, within 30 days after commencing sale of a drug, date and sign the document issued pursuant to subsection C.01.014.2(1) in respect of the drug and return the document
-- **(a)** with a confirmation that the information recorded therein is correct;
-- **(b)** indicating the date on which the drug was first sold in Canada; and
-- **(c)** accompanied by samples or facsimiles of all labels and package inserts and any further prescribing information stated to be available on request.
-> SOR/81-248, s. 2; SOR/98-423, s. 5.
+**C.01.014.3** The manufacturer or importer, as the case may be, or a person authorized by the manufacturer or importer, shall, within 30 days after the day on which the drug is first sold in Canada, date and sign the document referred to in subsection C.01.014.2(1) and return it with a statement set out on it that the information it contains is correct and with an indication of the date on which the drug was first sold in Canada.
+> SOR/81-248, s. 2; SOR/98-423, s. 5; SOR/2014-158, s. 8.
 
 
 
@@ -25833,7 +25860,7 @@ he may refuse to issue the document referred to in subsection (1).
 
 
 
-#### Issue-related Summary Report
+#### Issue-Related Summary Report
 
 
 **C.01.019** 
@@ -27215,7 +27242,7 @@ the person who receives the order may distribute the drug to the physician, dent
 	- **(d)** a drug described in Schedule C or D to the Act or Division 6 of Part C of these Regulations; or
 	- **(e)** a drug for which a drug identification number has been assigned under subsection C.01.014.2(1) and in respect of which
 		- **(i)** the conditions of pharmaceutical production and quality control are suitable for controlling the identity, quality, purity, stability, safety, strength and potency of the drug,
-		- **(ii)** all labels, package inserts, product brochures and file cards to be used in connection with the drug make proper claims in respect of the drug,
+		- **(ii)** all labels to be used in connection with the drug, including any package insert and any document that is provided on request and that sets out supplementary information on the use of the drug, make proper claims in respect of the drug,
 		- **(iii)** the drug can, without undue foreseeable risk to humans, be used for the purposes and under the conditions of use recommended by the manufacturer, and
 		- **(iv)** the drug is effective for the purposes and under the conditions of use recommended by the manufacturer.
 #### TABLE
@@ -27326,7 +27353,7 @@ the person who receives the order may distribute the drug to the physician, dent
 </tr>
 </table>
 
-> SOR/92-131, s. 1; SOR/92-591, s. 2; SOR/94-689, s. 2(E); SOR/95-530, s. 2; SOR/98-423, s. 8; SOR/2011-88, s. 5.
+> SOR/92-131, s. 1; SOR/92-591, s. 2; SOR/94-689, s. 2(E); SOR/95-530, s. 2; SOR/98-423, s. 8; SOR/2011-88, s. 5; SOR/2014-158, s. 9.
 
 
 
@@ -28770,7 +28797,7 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 
 
-### Division 3
+**DIVISION 3** 
 
 
 
@@ -28937,7 +28964,7 @@ where the radioactive daughter is separated from its parent by
 
 
 
-#### Drugs, other than Radionuclides, Sold or Represented for Use in the Preparation of Radiopharmaceuticals
+#### Drugs, Other than Radionuclides, Sold or Represented for Use in the Preparation of Radiopharmaceuticals
 
 
 **C.03.205** For the purposes of sections C.03.206 to C.03.209,
@@ -29403,7 +29430,7 @@ where the radioactive daughter is separated from its parent by
 
 
 
-### Division 4
+**DIVISION 4** 
 
 
 
@@ -31277,7 +31304,7 @@ and if unpurified anterior pituitary extract
 
 
 **DIVISION 5** 
-### Drugs For Clinical Trials Involving Human Subjects
+### Drugs for Clinical Trials Involving Human Subjects
 
 
 
@@ -32014,7 +32041,7 @@ and if unpurified anterior pituitary extract
 
 
 
-### Division 8
+**DIVISION 8** 
 
 
 
@@ -32052,9 +32079,9 @@ and if unpurified anterior pituitary extract
 
 - **(1)** No person shall sell or advertise a new drug unless
 	- **(a)** the manufacturer of the new drug has filed with the Minister a new drug submission, an extraordinary use new drug submission, an abbreviated new drug submission or an abbreviated extraordinary use new drug submission relating to the new drug that is satisfactory to the Minister;
-	- **(b)** the Minister has issued, under section C.08.004 or C.08.004.01, a notice of compliance to the manufacturer of the new drug in respect of the submission;
-	- **(c)** the notice of compliance in respect of the submission has not been suspended pursuant to section C.08.006; and
-	- **(d)** the manufacturer of the new drug has submitted to the Minister specimens of the final version of any labels, including package inserts, product brochures and file cards, intended for use in connection with that new drug, and a statement setting out the proposed date on which those labels will first be used.
+	- **(b)** the Minister has issued, under section C.08.004 or C.08.004.01, a notice of compliance to the manufacturer of the new drug in respect of the submission; and
+	- **(c)** the notice of compliance in respect of the submission has not been suspended under section C.08.006.
+	- **(d)** [Repealed, SOR/2014-158, s. 10]
 
 - **(2)** A new drug submission shall contain sufficient information and material to enable the Minister to assess the safety and effectiveness of the new drug, including the following:
 	- **(a)** a description of the new drug and a statement of its proper name or its common name if there is no proper name;
@@ -32066,22 +32093,27 @@ and if unpurified anterior pituitary extract
 	- **(g)** detailed reports of the tests made to establish the safety of the new drug for the purpose and under the conditions of use recommended;
 	- **(h)** substantial evidence of the clinical effectiveness of the new drug for the purpose and under the conditions of use recommended;
 	- **(i)** a statement of the names and qualifications of all the investigators to whom the new drug has been sold;
-	- **(j)** a draft of every label to be used in conjunction with the new drug;
+	- **(j)** in the case of a new drug for veterinary use, a draft of every label to be used in connection with the new drug, including any package insert and any document that is provided on request and that sets out supplementary information on the use of the new drug;
+	- **(j.1)** in the case of a new drug for human use, mock-ups of every label to be used in connection with the new drug — including any package insert and any document that is provided on request and that sets out supplementary information on the use of the new drug — and mock-ups of the new drug’s packages;
 	- **(k)** a statement of all the representations to be made for the promotion of the new drug respecting
 		- **(i)** the recommended route of administration of the new drug,
 		- **(ii)** the proposed dosage of the new drug,
 		- **(iii)** the claims to be made for the new drug, and
 		- **(iv)** the contra-indications and side effects of the new drug;
 	- **(l)** a description of the dosage form in which it is proposed that the new drug be sold;
-	- **(m)** evidence that all test batches of the new drug used in any studies conducted in connection with the submission were manufactured and controlled in a manner that is representative of market production; and
-	- **(n)** for a drug intended for administration to food-producing animals, the withdrawal period of the new drug.
+	- **(m)** evidence that all test batches of the new drug used in any studies conducted in connection with the submission were manufactured and controlled in a manner that is representative of market production;
+	- **(n)** in the case of a new drug intended for administration to food-producing animals, the withdrawal period of the new drug; and
+	- **(o)** in the case of a new drug for human use, an assessment as to whether there is a likelihood that the new drug will be mistaken for any of the following products due to a resemblance between the brand name that is proposed to be used in respect of the new drug and the brand name, common name or proper name of any of those products:
+		- **(i)** a drug in respect of which a drug identification number has been assigned,
+		- **(ii)** a radiopharmaceutical, as defined in section C.03.201, in respect of which a notice of compliance has been issued under section C.08.004 or C.08.004.01, and
+		- **(iii)** a kit, as defined in section C.03.205, in respect of which a notice of compliance has been issued under section C.08.004 or C.08.004.01.
 
 - **(3)** The manufacturer of a new drug shall, at the request of the Minister, provide the Minister, where for the purposes of a new drug submission the Minister considers it necessary to assess the safety and effectiveness of the new drug, with the following information and material:
 	- **(a)** the names and addresses of the manufacturers of each of the ingredients of the new drug and the names and addresses of the manufacturers of the new drug in the dosage form in which it is proposed that the new drug be sold;
 	- **(b)** samples of the ingredients of the new drug;
 	- **(c)** samples of the new drug in the dosage form in which it is proposed that the new drug be sold; and
 	- **(d)** any additional information or material respecting the safety and effectiveness of the new drug. 
-> SOR/85-143, s. 1; SOR/93-202, s. 24; SOR/95-411, s. 4; SOR/2011-88, s. 10.
+> SOR/85-143, s. 1; SOR/93-202, s. 24; SOR/95-411, s. 4; SOR/2011-88, s. 10; SOR/2014-158, s. 10.
 
 
 
@@ -32099,7 +32131,7 @@ and if unpurified anterior pituitary extract
 - **(2)** Subject to subsections (3) and (5), an extraordinary use new drug submission shall contain
 	- **(a)** an attestation, signed and dated by the senior executive officer in Canada of the manufacturer filing the submission and by the manufacturer’s senior medical or scientific officer, certifying that the conditions referred to in paragraphs (1)(a) and (b) are met, together with sufficient supporting information to enable the Minister to determine that those conditions are met; and
 	- **(b)** sufficient information and material to enable the Minister to assess the safety and effectiveness of the new drug, including the following:
-		- **(i)** the information and material described in paragraphs C.08.002(2)(a) to (f) and (i) to (m),
+		- **(i)** the information and material described in paragraphs C.08.002(2)(a) to (f), (i) to (m) and (o),
 		- **(ii)** information respecting the pathophysiological mechanism for the toxicity of the chemical, biological, radiological or nuclear substance and describing the new drug’s ability to treat, mitigate or prevent that mechanism,
 		- **(iii)** detailed reports of in vitro studies respecting the toxicity and activity of the new drug in relation to the recommended purpose,
 		- **(iv)** detailed reports of studies, in an animal species that is expected to react with a response that is predictive for humans, establishing the safety of the new drug, and providing substantial evidence of its effect, when used for the purpose and under the conditions of use recommended,
@@ -32119,7 +32151,7 @@ and if unpurified anterior pituitary extract
 	- **(d)** any information omitted by virtue of subsection (3).
 
 - **(5)** If an extraordinary use new drug submission is in respect of a new purpose for a new drug for which a notice of compliance has been issued under section C.08.004, the information and material referred to in subparagraph (2)(b)(i) may be omitted unless any of it is different from that which was originally submitted.
-> SOR/2011-88, s. 11.
+> SOR/2011-88, s. 11; SOR/2014-158, s. 11.
 
 
 
@@ -32142,8 +32174,8 @@ and if unpurified anterior pituitary extract
 
 - **(2)** An abbreviated new drug submission or an abbreviated extraordinary use new drug submission shall contain sufficient information and material to enable the Minister to assess the safety and effectiveness of the new drug, including the following:
 	- **(a)** the information and material described in
-		- **(i)** paragraphs C.08.002(2)(a) to (f) and (j) to (l), in the case of an abbreviated new drug submission, and
-		- **(ii)** paragraphs C.08.002(2)(a) to (f) and (j) to (l) and subparagraphs C.08.002.01(2)(b)(ix) and (x), in the case of an abbreviated extraordinary use new drug submission;
+		- **(i)** paragraphs C.08.002(2)(a) to (f), (j) to (l) and (o), in the case of an abbreviated new drug submission, and
+		- **(ii)** paragraphs C.08.002(2)(a) to (f), (j) to (l) and (o), and subparagraphs C.08.002.01(2)(b)(ix) and (x), in the case of an abbreviated extraordinary use new drug submission;
 	- **(b)** information identifying the Canadian reference product used in any comparative studies conducted in connection with the submission;
 	- **(c)** evidence from the comparative studies conducted in connection with the submission that the new drug is
 		- **(i)** the pharmaceutical equivalent of the Canadian reference product, and
@@ -32155,10 +32187,10 @@ and if unpurified anterior pituitary extract
 	- **(a)** the names and addresses of the manufacturers of each of the ingredients of the new drug and the names and addresses of the manufacturers of the new drug in the dosage form in which it is proposed that the new drug be sold;
 	- **(b)** samples of the ingredients of the new drug;
 	- **(c)** samples of the new drug in the dosage form in which it is proposed that the new drug be sold; and
-	- **(d)** any additional information or material respecting the safety and effectiveness of the new drug. 
+	- **(d)** any additional information or material respecting the safety and effectiveness of the new drug.
 
 - **(4)** For the purposes of this section, in the case of an abbreviated new drug submission, a new drug for extraordinary use in respect of which a notice of compliance has been issued under section C.08.004.01 is not a Canadian reference product.
-> SOR/95-411, s. 5; SOR/2011-88, s. 12.
+> SOR/95-411, s. 5; SOR/2011-88, s. 12; SOR/2014-158, s. 12.
 
 
 
@@ -32167,9 +32199,9 @@ and if unpurified anterior pituitary extract
 
 - **(1)** Despite section C.08.002, no person shall sell a new drug in respect of which a notice of compliance has been issued to the manufacturer of that new drug and has not been suspended under section C.08.006, if any of the matters specified in subsection (2) are significantly different from the information or material contained in the new drug submission, extraordinary use new drug submission, abbreviated new drug submission or abbreviated extraordinary use new drug submission, unless
 	- **(a)** the manufacturer of the new drug has filed with the Minister a supplement to that submission;
-	- **(b)** the Minister has issued a notice of compliance to the manufacturer of the new drug in respect of the supplement;
-	- **(c)** the notice of compliance in respect of the supplement has not been suspended pursuant to section C.08.006; and
-	- **(d)** the manufacturer of the new drug has submitted to the Minister specimens of the final version of any label, including any package insert, product brochure and file card, intended for use in connection with the new drug, where a change with respect to any of the matters specified in subsection (2) is made that would require a change to the label.
+	- **(b)** the Minister has issued a notice of compliance to the manufacturer of the new drug in respect of the supplement; and
+	- **(c)** the notice of compliance in respect of the supplement has not been suspended under section C.08.006.
+	- **(d)** [Repealed, SOR/2014-158, s. 13]
 
 - **(2)** The matters specified for the purposes of subsection (1), in relation to the new drug, are the following:
 	- **(a)** the description of the new drug;
@@ -32179,6 +32211,7 @@ and if unpurified anterior pituitary extract
 	- **(e)** the method of manufacture and the controls used in manufacturing, preparation and packaging the new drug;
 	- **(f)** the tests applied to control the potency, purity, stability and safety of the new drug;
 	- **(g)** the labels used in connection with the new drug;
+	- **(g.1)** in the case of a new drug for human use, its packages;
 	- **(h)** the representations made with regard to the new drug respecting
 		- **(i)** the recommended route of administration of the new drug,
 		- **(ii)** the dosage of the new drug,
@@ -32189,8 +32222,19 @@ and if unpurified anterior pituitary extract
 
 - **(3)** A supplement to a submission referred to in subsection (1), with respect to the matters that are significantly different from those contained in the submission, shall contain sufficient information and material to enable the Minister to assess the safety and effectiveness of the new drug in relation to those matters.
 
+- **(3.1)** A supplement to a submission referred to in subsection (1) shall contain, as the case may be,
+	- **(a)** if, due to a matter specified in subsection (2) — other than the brand name of a new drug for human use — that the supplement concerns, it is necessary to modify a new drug’s labels:
+		- **(i)** in the case of a new drug for veterinary use, a draft of every label to be used in connection with the new drug, including any package insert and any document that is provided on request and that sets out supplementary information on the use of the new drug, or
+		- **(ii)** in the case of a new drug for human use, mock-ups of every label to be used in connection with the new drug — including any package insert and any document that is provided on request and that sets out supplementary information on the use of the new drug — and mock-ups of the new drug’s packages; or
+	- **(b)** if the supplement concerns the brand name of a new drug for human use:
+		- **(i)** an assessment as to whether there is a likelihood that the new drug will be mistaken for any of the following products due to a resemblance between the brand name that is proposed to be used in respect of the new drug and the brand name, common name or proper name of any of those products:
+			- **(A)** a drug in respect of which a drug identification number has been assigned,
+			- **(B)** a radiopharmaceutical, as defined in section C.03.201, in respect of which a notice of compliance has been issued under section C.08.004 or C.08.004.01, and
+			- **(C)** a kit, as defined in section C.03.205, in respect of which a notice of compliance has been issued under section C.08.004 or C.08.004.01, and
+		- **(ii)** mock-ups of every label to be used in connection with the new drug — including any package insert and any document that is provided on request and that sets out supplementary information on the use of the new drug — and mock-ups of the new drug’s packages.
+
 - **(4)** If a supplement to an extraordinary use new drug submission or an abbreviated extraordinary use new drug submission concerns a matter specified in subparagraph (2)(h)(iii), the supplement shall contain the attestation and supporting information referred to in paragraph C.08.002.01(2)(a).
-> SOR/85-143, s. 2; SOR/93-202, s. 25; SOR/95-411, s. 6; SOR/2011-88, s. 13.
+> SOR/85-143, s. 2; SOR/93-202, s. 25; SOR/95-411, s. 6; SOR/2011-88, s. 13; SOR/2014-158, s. 13.
 
 
 
@@ -32626,7 +32670,7 @@ the Director shall issue an experimental studies certificate for the purposes of
 
 
 
-### Division 9
+**DIVISION 9** 
 
 
 
@@ -32852,7 +32896,7 @@ per individual dosage form if it has a label that states that it is not a standa
 
 
 **DIVISION 1** 
-### Vitamins In Foods
+### Vitamins in Foods
 
 
 **D.01.002** 
@@ -33226,7 +33270,7 @@ NE = niacin equivalents<br />
 
 
 **DIVISION 2** 
-### Mineral Nutrients In Foods
+### Mineral Nutrients in Foods
 
 
 **D.02.001** 
@@ -33532,7 +33576,7 @@ as set out in the Food Chemicals Codex, Third Edition, 1981, published by the Na
 
 
 **DIVISION 3** 
-### Addition Of Vitamins, Mineral Nutrients Or Amino Acids To Foods
+### Addition of Vitamins, Mineral Nutrients or Amino Acids to Foods
 
 
 **D.03.001** 
@@ -33748,7 +33792,7 @@ as set out in the Food Chemicals Codex, Third Edition, 1981, published by the Na
 
 
 **DIVISION 5** 
-### Minerals In Drugs
+### Minerals in Drugs
 
 
 **D.05.001 to D.05.007** [Repealed, SOR/2003-196, s. 106]
@@ -33861,7 +33905,7 @@ of the sweetener.
 
 
 
-### Division 1
+**DIVISION 1** 
 
 
 
@@ -34054,7 +34098,7 @@ and who is operating a pharmacy or dispensary and is practising pharmacy thereun
 
 
 **DIVISION 2** 
-### Licences And Licensed Dealers
+### Licences and Licensed Dealers
 
 
 **G.02.001** Subject to this Part, no person except a licensed dealer shall produce, make, assemble, import, export, sell, provide, transport, send or deliver a controlled drug.
@@ -35026,7 +35070,7 @@ as the Minister may require;
 
 
 
-### Division 6
+**DIVISION 6** 
 
 
 
@@ -35109,7 +35153,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 
 
 
-### Division 7
+**DIVISION 7** 
 
 
 
@@ -35263,7 +35307,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 
 
 
-### Division 1
+**DIVISION 1** 
 
 
 
