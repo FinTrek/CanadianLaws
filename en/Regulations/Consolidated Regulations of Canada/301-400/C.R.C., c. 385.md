@@ -701,16 +701,16 @@ if the employee complies with the requirements of paragraphs 29(c) to (f) in re
 **34.1** 
 
 - **(1)** Notwithstanding any other provision of this Part
-	- **(a)** subject to subsection 6(2) of the Act, where by virtue of any of the circumstances described in an agreement entered into under subsection 107(1) of the Act the legislation of Canada applies to a person in any year, the employment of that person in those circumstances is included in pensionable employment for that year, if
-		- **(i)** his employer is an employer operating in Canada within the meaning given to that term by subsection 15(1),
-		- **(ii)** his employer has, in respect of that employment, given an undertaking in prescribed form to pay the employee’s contributions and the employer’s contributions under sections 8 and 9 respectively, of the Act for the year and to file information returns in accordance with Part II, or
-		- **(iii)** in any case where his employer is not an employer operating in Canada and has not given the undertaking described in subparagraph (ii) or has not complied with the undertaking in the year, that person complies with the requirements of paragraphs 29(c) to (f) in respect of that year; and
-	- **(b)** where by virtue of any of the circumstances described in an agreement entered into under subsection 107(1) of the Act the legislation of the other country that is a party to the agreement applies to a person in any year, the employment of that person in those circumstances is excepted from pensionable employment for that year.
+	- **(a)** subject to paragraphs 6(2)(a) to (i), (j.1) and (k) of the Act, if by virtue of any of the circumstances described in an agreement entered into under subsection 107(1) of the Act the legislation of Canada applies to a person in any year, the employment of that person in those circumstances is included in pensionable employment for that year, if
+		- **(i)** his employer is an employer operating in Canada within the meaning given to that term by subsection 15(1),
+		- **(ii)** his employer has, in respect of that employment, given an undertaking in prescribed form to pay the employee’s contributions and the employer’s contributions under sections 8 and 9 respectively, of the Act for the year and to file information returns in accordance with Part II, or
+		- **(iii)** in any case where his employer is not an employer operating in Canada and has not given the undertaking described in subparagraph (ii) or has not complied with the undertaking in the year, that person complies with the requirements of paragraphs 29(c) to (f) in respect of that year; and
+	- **(b)** where by virtue of any of the circumstances described in an agreement entered into under subsection 107(1) of the Act the legislation of the other country that is a party to the agreement applies to a person in any year, the employment of that person in those circumstances is excepted from pensionable employment for that year.
 
-- **(2)** Paragraph 15(1)(b) of the Act does not apply in respect of the employment of a person in employment that is included in pensionable employment by virtue of subparagraph (1)(a)(ii).
+- **(2)** Paragraph 15(1)(b) of the Act does not apply in respect of the employment of a person in employment that is included in pensionable employment by virtue of subparagraph (1)(a)(ii).
 
 - **(3)** For the purposes of this section, ***legislation*** has the meaning assigned to that term by the applicable agreement.
-> SOR/80-877, s. 1; SOR/90-829, s. 7; SOR/96-522, s. 2; SOR/2013-208, s. 8(F).
+> SOR/80-877, s. 1; SOR/90-829, s. 7; SOR/96-522, s. 2; SOR/2013-208, s. 8(F); SOR/2015-158, s. 1.
 
 
 
@@ -2201,7 +2201,7 @@ Employment as a member or an employee of any of the boards, commissions or commi
 
 
 
-> SOR/78-591, s. 1; SOR/82-784, s. 1; SOR/88-638, ss. 1, 2; SOR/89-304, s. 1; SOR/99-60, s. 3; SOR/2007-55, s. 1; SOR/2013-233, s. 1.
+> SOR/78-591, s. 1; SOR/82-784, s. 1; SOR/88-638, ss. 1, 2; SOR/89-304, s. 1; SOR/99-60, s. 3; SOR/2007-55, s. 1; SOR/2013-233, s. 1; SOR/2015-158, s. 2(F).
 
 
 
@@ -2343,9 +2343,9 @@ Employment as a member or an employee of any of the boards, commissions or commi
 ### **SCHEDULE VII** 
 **(Section 26)**
 - **1** New Zealand.
-- **2** United Kingdom of Great Britain and Northern Ireland.
+- **2** [Repealed, SOR/2015-158, s. 3]
 - **3** Australia.
-- **4** Finland.
+- **4** [Repealed, SOR/2015-158, s. 3]
 - **5** France
 - **6** United States
 - **7** [Repealed, SOR/88-239, s. 1]
@@ -2353,15 +2353,12 @@ Employment as a member or an employee of any of the boards, commissions or commi
 - **9** India.
 - **10 to 12** [Repealed, SOR/88-239, s. 1]
 - **13** South Africa.
-- **14** Federal Republic of Germany.
+- **14** [Repealed, SOR/2015-158, s. 3]
 - **15** [Repealed, SOR/80-877, s. 2]
-- **16** Ireland.
-- **17** Trinidad and Tobago.
-- **18** Israel.
-- **19** Antigua and Barbuda.
+- **16 to 19** [Repealed, SOR/2015-158, s. 3]
 - **20** Malaysia.
 - **21** Senegal.
-> SOR/80-877, s. 2; SOR/81-197, s. 1; SOR/88-239, s. 1; SOR/89-304, s. 2; SOR/90-687, s. 3; SOR/97-34, s. 1.
+> SOR/80-877, s. 2; SOR/81-197, s. 1; SOR/88-239, s. 1; SOR/89-304, s. 2; SOR/90-687, s. 3; SOR/97-34, s. 1; SOR/2015-158, s. 3.
 
 
 
@@ -2383,19 +2380,7 @@ Employment in Canada by the Government of New Zealand of a person who
 
 
 
-**2** *United Kingdom of Great Britain and Northern Ireland*
-
-Employment in Canada by the Government of the United Kingdom of Great Britain and Northern Ireland of a person who
-
-**(a)** is not a citizen of Canada; or
-
-
-
-**(b)** is not permanently resident in Canada.
-
-
-
-
+**2** [Repealed, SOR/2015-158, s. 4]
 
 
 **3** *Australia*
@@ -2413,19 +2398,7 @@ Employment in Canada by the Government of Australia of a person who
 
 
 
-**4** *Finland*
-
-Employment in Canada by the Government of Finland of a person who
-
-**(a)** is a subject or citizen of Finland; or
-
-
-
-**(b)** is exempt from Canadian income tax by virtue of the Canada-Finland Tax Convention.
-
-
-
-
+**4** [Repealed, SOR/2015-158, s. 4]
 
 
 **5** *France*
@@ -2451,7 +2424,7 @@ Employment in Canada by the Government of the United States of a person who
 
 
 
-**(b)** participates in the Civil Service Retirement System of the United States or other pension plan financed by the Government of the United States, where that person has participated in that System or plan continuously since before October 1, 1983 and has elected not to participate in the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md); or
+**(b)** participates in the Civil Service Retirement System of the United States or other pension plan financed by the Government of the United States, where that person has participated in that System or plan continuously since before October 1, 1983 and has elected not to participate in the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md); or
 
 
 
@@ -2482,7 +2455,7 @@ Employment in Canada by the Government of Japan of a person who
 
 **9** *India*
 
-Employment in Canada by the Government of India of a person who is exempt from Canadian income tax by virtue of paragraph 149(1)(a) or (b) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
+Employment in Canada by the Government of India of a person who is exempt from Canadian income tax by virtue of paragraph 149(1)(a) or (b) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
 
 
 
@@ -2492,86 +2465,25 @@ Employment in Canada by the Government of India of a person who is exempt from C
 
 **13** *South Africa*
 
-Employment in Canada by the Government of the Republic of South Africa of a person who is exempt from Canadian income tax by virtue of paragraph 149(1)(a) or (b) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
+Employment in Canada by the Government of the Republic of South Africa of a person who is exempt from Canadian income tax by virtue of paragraph 149(1)(a) or (b) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
 
 
 
 
-**14** *Federal Republic of Germany*
-
-Employment in Canada by the Government of the Federal Republic of Germany at its official missions and posts of a person
-
-**(a)** who is a German national; or
-
-
-
-**(b)** who contributes to a pension plan of the Federal Republic of Germany by virtue of a bilateral or multilateral agreement or any supranational regulations.
-
-
-
-
+**14** [Repealed, SOR/2015-158, s. 4]
 
 
 **15** [Repealed, SOR/80-877, s. 3]
 
 
-**16** *Ireland*
-
-Employment in Canada by the Government of Ireland of a person who
-
-**(a)** is a citizen of Ireland and is not permanently resident in Canada; or
-
-
-
-**(b)** is exempt from Canadian income tax by virtue of paragraph 149(1)(a) or (b) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
-
-
-
-
-
-
-**17** *Trinidad and Tobago*
-
-Employment in Canada by the Government of Trinidad and Tobago of a person who
-
-**(a)** is a subject or citizen of Trinidad and Tobago and is not permanently resident in Canada; or
-
-
-
-**(b)** is by virtue of paragraph 149(1)(a) or (b) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) exempt from Canadian income tax.
-
-
-
-
-
-
-**18** *Israel*
-
-Employment in Canada by the Government of Israel of a person who
-
-**(a)** is a citizen of Israel and is not permanently resident in Canada; or
-
-
-
-**(b)** is exempt from income tax by virtue of paragraph 149(1)(a) or (b) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
-
-
-
-
-
-
-**19** *Antigua and Barbuda*
-
-Employment in Canada by the Government of Antigua and Barbuda of a person who is exempt from Canadian income tax by virtue of paragraph 149(1)(a) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
-
-
+**16 to 19** [Repealed, SOR/2015-158, s. 4]
 
 
 **20** *Malaysia*
 
 Employment in Canada by the Government of Malaysia of a person who
 
-**(a)** is exempt from Canadian income tax by virtue of paragraph 149(1)(a) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md); or
+**(a)** is exempt from Canadian income tax by virtue of paragraph 149(1)(a) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md); or
 
 
 
@@ -2590,14 +2502,14 @@ Employment in Canada by the Government of Senegal of a person who
 
 
 
-**(b)** is exempt from Canadian income tax by virtue of paragraph 149(1)(a) or (b) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
+**(b)** is exempt from Canadian income tax by virtue of paragraph 149(1)(a) or (b) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
 
 
 
 
 
 
-> SOR/80-877, s. 3; SOR/81-197, s. 2; SOR/85-1087, s. 1; SOR/88-239, s. 2; SOR/89-304, s. 3; SOR/90-687, s. 4; SOR/97-34, s. 2.
+> SOR/80-877, s. 3; SOR/81-197, s. 2; SOR/85-1087, s. 1; SOR/88-239, s. 2; SOR/89-304, s. 3; SOR/90-687, s. 4; SOR/97-34, s. 2; SOR/2015-158, s. 4.
 
 
 
