@@ -701,16 +701,16 @@ lorsque l’employé se conforme aux alinéas 29c) à f) à l’égard de l’a
 **34.1** 
 
 - **(1)** Nonobstant toute autre disposition de la présente partie,
-	- **a)** sous réserve du paragraphe 6(2) de la Loi, lorsque, à cause de circonstances prévues dans un accord conclu en vertu du paragraphe 107(1) de la Loi, une personne est assujettie aux lois du Canada au cours d’une année donnée, l’emploi qu’elle occupe dans ces circonstances est un emploi ouvrant droit à pension pour cette année, si :
-		- **(i)** son employeur est un employeur exerçant des opérations au Canada, au sens du paragraphe 15(1),
-		- **(ii)** son employeur s’est engagé, selon la forme prescrite, à verser conformément aux articles 8 et 9 de la Loi les cotisations de cet employé ainsi que celles de l’employeur pour l’année et à produire, conformément à la partie II, des déclarations de renseignements, ou
-		- **(iii)** son employeur n’est pas un employeur exerçant des opérations au Canada et n’a pas pris l’engagement visé au sous-alinéa (ii) ou ne s’est pas conformé à cet engagement durant l’année, et que la personne satisfait aux exigences des alinéas 29c) à f) relativement à cette année;
-	- **b)** lorsque, à cause de circonstances prévues dans un accord conclu en vertu du paragraphe 107(1) de la Loi, une personne est assujettie pendant une année donnée aux lois de l’autre pays partie à l’accord, l’emploi qu’elle occupe dans ces circonstances n’est pas un emploi ouvrant droit à pension pour cette année.
+	- **a)** sous réserve des alinéas 6(2)a) à i), j.1) et k) de la Loi, lorsque, à cause de circonstances prévues dans un accord conclu en vertu du paragraphe 107(1) de la Loi, une personne est assujettie aux lois du Canada au cours d’une année donnée, l’emploi qu’elle occupe dans ces circonstances est un emploi ouvrant droit à pension pour cette année, si :
+		- **(i)** son employeur est un employeur exerçant des opérations au Canada, au sens du paragraphe 15(1),
+		- **(ii)** son employeur s’est engagé, selon la forme prescrite, à verser conformément aux articles 8 et 9 de la Loi les cotisations de cet employé ainsi que celles de l’employeur pour l’année et à produire, conformément à la partie II, des déclarations de renseignements, ou
+		- **(iii)** son employeur n’est pas un employeur exerçant des opérations au Canada et n’a pas pris l’engagement visé au sous-alinéa (ii) ou ne s’est pas conformé à cet engagement durant l’année, et que la personne satisfait aux exigences des alinéas 29c) à f) relativement à cette année;
+	- **b)** lorsque, à cause de circonstances prévues dans un accord conclu en vertu du paragraphe 107(1) de la Loi, une personne est assujettie pendant une année donnée aux lois de l’autre pays partie à l’accord, l’emploi qu’elle occupe dans ces circonstances n’est pas un emploi ouvrant droit à pension pour cette année.
 
-- **(2)** L’alinéa 15(1)b) de la Loi ne s’applique pas à un emploi qu’occupe une personne et qui est un emploi ouvrant droit à pension en vertu du sous-alinéa (1)a)(ii).
+- **(2)** L’alinéa 15(1)b) de la Loi ne s’applique pas à un emploi qu’occupe une personne et qui est un emploi ouvrant droit à pension en vertu du sous-alinéa (1)a)(ii).
 
 - **(3)** Aux fins du présent article, le terme ***lois*** a le sens que lui prête l’accord applicable.
-> DORS/80-877, art. 1; DORS/90-829, art. 7; DORS/96-522, art. 2; DORS/2013-208, art. 8(F).
+> DORS/80-877, art. 1; DORS/90-829, art. 7; DORS/96-522, art. 2; DORS/2013-208, art. 8(F); DORS/2015-158, art. 1.
 
 
 
@@ -1856,7 +1856,7 @@ dans l’année suivant le 30 avril de l’année suivant celle visée par le c
 
 
 
-**b)** Emploi à titre de membres d’une agence, d’un conseil, d’une commission, d’un comité ou de tout autre organisme, doté ou non de la personnalité morale, nommés par Sa Majesté du chef de l’Ontario ou par un de ses mandataires, qui touchent des émoluments, des appointements, des avances, des honoraires ou une autre rémunération à la journée mais qui ne sont pas employés à plein temps de Sa Majesté du chef de l’Ontario ou d’un de ses mandataires.
+**b)** Emploi à titre de membres d’une agence, d’un conseil, d’une commission, d’un comité ou de tout autre organisme, doté ou non de la personnalité morale, nommés par Sa Majesté du chef de l’Ontario ou par un de ses mandataires, qui touchent une rétribution ou une autre rémunération à la journée, des avances, des honoraires ou des allocations, mais qui ne sont pas employés à plein temps de Sa Majesté du chef de l’Ontario ou d’un de ses mandataires.
 
 
 
@@ -2201,7 +2201,7 @@ L’emploi à titre de membre ou d’employé de n’importe lequel des organism
 
 
 
-> DORS/78-591, art. 1; DORS/82-784, art. 1; DORS/88-638, art. 1 et 2; DORS/89-304, art. 1; DORS/99-60, art. 3; DORS/2007-55, art. 1; DORS/2013-233, art. 1.
+> DORS/78-591, art. 1; DORS/82-784, art. 1; DORS/88-638, art. 1 et 2; DORS/89-304, art. 1; DORS/99-60, art. 3; DORS/2007-55, art. 1; DORS/2013-233, art. 1; DORS/2015-158, art. 2(F).
 
 
 
@@ -2343,9 +2343,9 @@ L’emploi à titre de membre ou d’employé de n’importe lequel des organism
 ### **ANNEXE VII** 
 **(article 26)**
 - **1** Nouvelle-Zélande.
-- **2** Royaume-Uni de Grande-Bretagne et d’Irlande du Nord.
+- **2** [Abrogé, DORS/2015-158, art. 3]
 - **3** Australie.
-- **4** Finlande.
+- **4** [Abrogé, DORS/2015-158, art. 3]
 - **5** France.
 - **6** États-Unis.
 - **7** [Abrogé, DORS/88-239, art. 1]
@@ -2353,15 +2353,12 @@ L’emploi à titre de membre ou d’employé de n’importe lequel des organism
 - **9** Inde.
 - **10 à 12** [Abrogés, DORS/88-239, art. 1]
 - **13** Afrique du Sud.
-- **14** République fédérale d’Allemagne.
+- **14** [Abrogé, DORS/2015-158, art. 3]
 - **15** [Abrogé, DORS/80-877, art. 2]
-- **16** Irlande.
-- **17** Trinité et Tobago.
-- **18** Israël.
-- **19** Antigua-et-Barbuda.
+- **16 à 19** [Abrogés, DORS/2015-158, art. 3]
 - **20** Malaisie.
 - **21** Sénégal.
-> DORS/80-877, art. 2; DORS/81-197, art. 1; DORS/88-239, art. 1; DORS/89-304, art. 2; DORS/90-687, art. 3; DORS/97-34, art. 1.
+> DORS/80-877, art. 2; DORS/81-197, art. 1; DORS/88-239, art. 1; DORS/89-304, art. 2; DORS/90-687, art. 3; DORS/97-34, art. 1; DORS/2015-158, art. 3.
 
 
 
@@ -2383,19 +2380,7 @@ Emploi au Canada, par le gouvernement de la Nouvelle-Zélande, d’une personne 
 
 
 
-**2** *Royaume-Uni de Grande-Bretagne et d’Irlande du Nord*
-
-Emploi au Canada, par le gouvernement du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, d’une personne qui
-
-**a)** n’est pas un citoyen du Canada; ou
-
-
-
-**b)** n’est pas un résident permanent du Canada.
-
-
-
-
+**2** [Abrogé, DORS/2015-158, art. 4]
 
 
 **3** *Australie*
@@ -2413,19 +2398,7 @@ Emploi au Canada, par le gouvernement de l’Australie, d’une personne qui
 
 
 
-**4** *Finlande*
-
-Emploi au Canada, par le gouvernement de la Finlande, d’une personne qui est
-
-**a)** un sujet ou citoyen de la Finlande; ou qui est
-
-
-
-**b)** exemptée de l’impôt canadien sur le revenu, en vertu de la Convention fiscale conclue entre le Canada et la Finlande.
-
-
-
-
+**4** [Abrogé, DORS/2015-158, art. 4]
 
 
 **5** *France*
@@ -2497,74 +2470,13 @@ Emploi au Canada par le gouvernement de la République d’Afrique du Sud d’un
 
 
 
-**14** *République fédérale d’Allemagne*
-
-Emploi au Canada, par le gouvernement de la République fédérale d’Allemagne dans ses missions et légations officielles, d’une personne
-
-**a)** qui est un citoyen de l’Allemagne; ou
-
-
-
-**b)** qui verse des contributions à un régime de pensions de la République fédérale d’Allemagne en vertu d’une entente bilatérale ou multilatérale ou en vertu de règlements supranationaux.
-
-
-
-
+**14** [Abrogé, DORS/2015-158, art. 4]
 
 
 **15** [Abrogé, DORS/80-877, art. 3]
 
 
-**16** *Irlande*
-
-Emploi au Canada, par le gouvernement de l’Irlande, d’une personne qui
-
-**a)** est un citoyen de l’Irlande et n’est pas un résident permanent du Canada; ou
-
-
-
-**b)** est, en vertu de l’alinéa 149(1)a) ou b) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), exemptée de l’impôt canadien sur le revenu.
-
-
-
-
-
-
-**17** *Trinité et Tobago*
-
-Emploi au Canada par le gouvernement de la Trinité et Tobago de quiconque
-
-**a)** est ressortissant de la Trinité et Tobago, et non résident du Canada; ou
-
-
-
-**b)** est exempté de l’impôt canadien sur le revenu selon l’alinéa 149(1)a) ou b) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
-
-
-
-
-
-
-**18** *Israël*
-
-Emploi au Canada, par le gouvernement d’Israël, d’une personne qui
-
-**a)** est un citoyen d’Israël et n’est pas un résident permanent du Canada; ou
-
-
-
-**b)** est, en vertu de l’alinéa 149(1)a) ou b) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), exemptée de l’impôt canadien sur le revenu.
-
-
-
-
-
-
-**19** *Antigua-et-Barbuda*
-
-Emploi au Canada par le gouvernement d’Antigua-et-Barbuda d’une personne qui, en vertu de l’alinéa 149(1)a) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), est exemptée de l’impôt canadien sur le revenu.
-
-
+**16 à 19** [Abrogés, DORS/2015-158, art. 4]
 
 
 **20** *Malaisie*
@@ -2597,7 +2509,7 @@ Emploi au Canada par le gouvernement du Sénégal d’une personne qui, selon le
 
 
 
-> DORS/80-877, art. 3; DORS/81-197, art. 2; DORS/85-1087, art. 1; DORS/88-239, art. 2; DORS/89-304, art. 3; DORS/90-687, art. 4; DORS/97-34, art. 2.
+> DORS/80-877, art. 3; DORS/81-197, art. 2; DORS/85-1087, art. 1; DORS/88-239, art. 2; DORS/89-304, art. 3; DORS/90-687, art. 4; DORS/97-34, art. 2; DORS/2015-158, art. 4.
 
 
 
