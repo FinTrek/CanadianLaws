@@ -7854,9 +7854,9 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/80-685, S. 63
 
 **1** For the purposes of this Schedule, in relation to a lifeboat or life raft,
 
-***turning-out condition*** means a lifeboat or life raft that is fully equipped but manned only by its launching crew; (*état de mise à l’eau sans passagers*)
+***turning-out condition*** means a lifeboat or life raft that is fully equipped but manned only by its launching crew; (*état de mise à l’eau sans passagers*)
 
-***working load*** and ***loaded condition*** mean the sum of the weight of the lifeboat or life raft, equipment, blocks and falls, and the number of persons with which the lifeboat or life raft is required to be lowered, each person being considered to weigh 75 kg. (*charge pratique*ou*charge complète*)
+***working load*** and ***loaded condition*** mean the sum of the weight of the lifeboat or life raft, equipment, blocks and falls, and the number of persons with which the lifeboat or life raft is required to be lowered, each person being considered to weigh 75 kg. (*charge pratique*ou*charge complète*)
 
 
 **2** 
@@ -8292,13 +8292,13 @@ where
 
 **16** 
 
-- **(1)** The launching device of a lifeboat shall be capable of hoisting the lifeboat with its crew.
+- **(1)** The launching device of a lifeboat shall be capable of hoisting the lifeboat with its crew and shall be designed to be activated by one person.
 
-- **(2)** The launching device of a lifeboat shall be designed to be activated
-	- **(a)** in the case of a free-fall launching device, by one person from a position in the lifeboat; and
-	- **(b)** in any other case, by one person from a position on the ship’s deck and from a position in the lifeboat.
+- **(2)** The activation of the launching device shall be possible
+	- **(a)** in the case of a free-fall launching device, from a position in the lifeboat; and
+	- **(b)** in any other case, from a position on the ship’s deck and from a position in the lifeboat.
 
-- **(2.1)** The recovery arrangements of a lifeboat shall be designed to be activated by one person from a position on the ship’s deck and from a position in the lifeboat.
+- **(2.1)** The recovery arrangements of a lifeboat shall be designed to be activated by one person, and the activation shall be possible from a position on the ship’s deck and from a position in the lifeboat.
 
 - **(3)** The launching device and recovery arrangements of a lifeboat that are designed to be activated from a position on the ship’s deck shall be designed in such a way that the operator can see the lifeboat at all times during launching and hoisting.
 
@@ -8311,14 +8311,15 @@ where
 **17** 
 
 - **(1)** The launching device of a rescue boat shall
-	- **(a)** be fitted with a power winch motor capable of hoisting the rescue boat loaded with its full complement and equipment at a rate of not less than 0.3 m/s; and
-	- **(b)** incorporate an on/off load release hook.
+	- **(a)** be fitted with a power winch motor capable of hoisting the rescue boat loaded with its full complement and equipment at a rate of not less than 0.3 m/s;
+	- **(b)** incorporate an on/off load release hook; and
+	- **(c)** be designed to be activated by one person.
 
-- **(2)** The launching device of a rescue boat shall be designed to be activated
-	- **(a)** in the case of a free-fall launching device, by one person from a position in the rescue boat; and
-	- **(b)** in any other case, by one person from a position on the ship’s deck and from a position in the rescue boat.
+- **(2)** The activation of the launching device shall be possible
+	- **(a)** in the case of a free-fall launching device, from a position in the rescue boat; and
+	- **(b)** in any other case, from a position on the ship’s deck and from a position in the rescue boat.
 
-- **(2.1)** The recovery arrangements of a rescue boat shall be designed to be activated by one person from a position on the ship’s deck and from a position in the rescue boat.
+- **(2.1)** The recovery arrangements of a rescue boat shall be designed to be activated by one person, and the activation shall be possible from a position on the ship’s deck and from a position in the rescue boat.
 
 - **(3)** The launching device and recovery arrangements of a rescue boat that are designed to be operated from a position on the ship’s deck shall be designed in such a way that the operator can see the rescue boat at all times during launching and hoisting.
 
@@ -8333,13 +8334,13 @@ where
 	- **(b)** shall be operated from a position on the ship’s deck that has a clear range of visibility to the water at the side of the ship; and
 	- **(c)** shall be capable of lowering and hoisting an emergency boat that is loaded with its equipment and a launching crew of at least two persons.
 
-- **(2)** Where the launching device of an emergency boat is strong enough to lower only the boat and its launching crew, the device shall be conspicuously marked with the words “LOWER WITH LAUNCHING CREW ONLY” and “N’ABAISSER QU’AVEC L’ÉQUIPAGE DE MISE À L’EAU”.
+- **(2)** Where the launching device of an emergency boat is strong enough to lower only the boat and its launching crew, the device shall be conspicuously marked with the words “LOWER WITH LAUNCHING CREW ONLY” and “*N’ABAISSER QU’AVEC L’ÉQUIPAGE DE MISE À L’EAU*”.
 
 
 **19** An emergency boat is not required to be provided with a launching device if it can be readily lowered by the launching crew into the water without damage.
 
 
-> SOR/80-685, ss. 79 to 85; SOR/96-218, ss. 43, 44(E), 45; SOR/2001-179, ss. 63 to 65; SOR/2004-253, s. 12(F); SOR/2006-256, ss. 16(F), 17(F); SOR/2013-235, ss. 9, 10.
+> SOR/80-685, ss. 79 to 85; SOR/96-218, ss. 43, 44(E), 45; SOR/2001-179, ss. 63 to 65; SOR/2004-253, s. 12(F); SOR/2006-256, ss. 16(F), 17(F); SOR/2013-235, ss. 9, 10; SOR/2015-161, ss. 1, 2.
 
 
 
