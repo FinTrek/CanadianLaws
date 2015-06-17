@@ -7844,9 +7844,9 @@ CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/80-685, ART. 63
 
 **1** Aux fins de la présente annexe, appliqué à une embarcation de sauvetage ou à un radeau de sauvetage,
 
-***charge pratique*** ou ***charge complète*** désigne le poids total de l’embarcation ou du radeau de sauvetage, de son armement, des poulies et des garants et du nombre de personnes avec lequel l’embarcation de sauvetage ou le radeau de sauvetage doivent être mis à l’eau, le poids de chaque personne étant censé être de 75 kg; (*working load**and**loaded condition*)
+***charge pratique*** ou ***charge complète*** désigne le poids total de l’embarcation ou du radeau de sauvetage, de son armement, des poulies et des garants et du nombre de personnes avec lequel l’embarcation de sauvetage ou le radeau de sauvetage doivent être mis à l’eau, le poids de chaque personne étant censé être de 75 kg; (*working load**and**loaded condition*)
 
-***état de mise à l’eau sans passagers*** signifie que l’embarcation de sauvetage ou le radeau de sauvetage a à bord son plein chargement en armement et son équipage de mise à l’eau. (*turning-out condition*)
+***état de mise à l’eau sans passagers*** signifie que l’embarcation de sauvetage ou le radeau de sauvetage a à bord son plein chargement en armement et son équipage de mise à l’eau. (*turning-out condition*)
 
 
 **2** 
@@ -8189,10 +8189,10 @@ CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/2001-179, ART. 63
 **7** 
 
 - **(1)** Les freins de treuil du dispositif de mise à l’eau doivent avoir une résistance suffisante pour supporter :
-	- **a)** une charge d'essai statique qui ne soit pas inférieure à 1,5 fois leur charge pratique maximale prévue;
+	- **a)** une charge d’essai statique qui ne soit pas inférieure à 1,5 fois leur charge pratique maximale prévue;
 	- **b)** une charge d’essai dynamique à la vitesse maximale d’abaissement qui ne soit pas inférieure à 1,1 fois leur charge utile maximale prévue.
 
-- **(2)** Le dispositif de mise à l'eau et ses accessoires autres que les freins de treuil doivent avoir une résistance suffisante pour supporter une charge d'essai statique qui ne soit pas inférieure à 2,2 fois leur charge pratique maximale prévue.
+- **(2)** Le dispositif de mise à l’eau et ses accessoires autres que les freins de treuil doivent avoir une résistance suffisante pour supporter une charge d’essai statique qui ne soit pas inférieure à 2,2 fois leur charge pratique maximale prévue.
 
 
 **8** Le dispositif de mise à l’eau et ses accessoires et composantes doivent être conçus avec un facteur de sécurité minimal de :
@@ -8282,13 +8282,13 @@ où
 
 **16** 
 
-- **(1)** Le dispositif de mise à l’eau d’une embarcation de sauvetage doit pouvoir hisser l’embarcation de sauvetage avec son équipage.
+- **(1)** Le dispositif de mise à l’eau d’une embarcation de sauvetage doit pouvoir hisser l’embarcation de sauvetage avec son équipage et doit être conçu pour être actionné par une seule personne.
 
-- **(2)** Le dispositif de mise à l’eau d’une embarcation de sauvetage doit être conçu pour être mis en fonctionnement :
-	- **a) ** dans le cas d’un dispositif de mise à l’eau en chute libre, par une personne depuis un emplacement situé dans l’embarcation de sauvetage;
-	- **b) ** dans tous les autres cas, par une personne depuis un emplacement situé sur le pont du navire et depuis un emplacement situé dans l’embarcation de sauvetage.
+- **(2)** L’actionnement du dispositif de mise à l’eau doit être possible :
+	- **a)** dans le cas d’un dispositif de mise à l’eau en chute libre, depuis un emplacement situé dans l’embarcation de sauvetage;
+	- **b)** dans tous les autres cas, depuis un emplacement situé sur le pont du navire et depuis un emplacement situé dans l’embarcation de sauvetage.
 
-- **(2.1)** Les moyens de récupération d’une embarcation de sauvetage doivent être conçus pour être mis en fonctionnement par une personne depuis un emplacement situé sur le pont du navire et depuis un emplacement situé dans l’embarcation de sauvetage.
+- **(2.1)** Les moyens de récupération d’une embarcation de sauvetage doivent être conçus pour être actionnés par une seule personne, et l’actionnement doit être possible depuis un emplacement situé sur le pont du navire et depuis un emplacement situé dans l’embarcation de sauvetage.
 
 - **(3)** Le dispositif de mise à l’eau et les moyens de récupération d’une embarcation de sauvetage qui sont conçus pour être actionnés depuis un emplacement situé sur le pont de navire doivent être conçus de manière que son opérateur puisse voir l’embarcation à tout moment pendant la mise à l’eau et le hissage.
 
@@ -8302,13 +8302,14 @@ où
 
 - **(1)** Le dispositif de mise à l’eau d’un canot de secours doit :
 	- **a)** être muni d’un treuil à moteur qui permet de hisser le canot de secours avec son plein chargement en personnes et en équipement à une vitesse d’au moins 0,3 m/s;
-	- **b)** comporter un croc de dégagement de charge avec une commande marche-arrêt.
+	- **b)** comporter un croc de dégagement de charge avec une commande marche-arrêt;
+	- **c)** être conçu pour être actionné par une seule personne.
 
-- **(2)** Le dispositif de mise à l’eau d’un canot de secours doit être conçu pour être mis en fonctionnement :
-	- **a) ** dans le cas d’un dispositif de mise à l’eau en chute libre, par une personne depuis un emplacement situé dans le canot de secours;
-	- **b) ** dans tous les autres cas, par une personne depuis un emplacement situé sur le pont du navire et depuis un emplacement situé dans le canot de secours.
+- **(2)** L’actionnement du dispositif de mise à l’eau doit être possible :
+	- **a)** dans le cas d’un dispositif de mise à l’eau en chute libre, depuis un emplacement situé dans le canot de secours;
+	- **b)** dans tous les autres cas, depuis un emplacement situé sur le pont du navire et depuis un emplacement situé dans le canot de secours.
 
-- **(2.1)** Les moyens de récupération d’un canot de secours doivent être conçus pour être mis en fonctionnement par une personne depuis un emplacement situé sur le pont du navire et depuis un emplacement situé dans le canot de secours.
+- **(2.1)** Les moyens de récupération d’un canot de secours doivent être conçus pour être actionnés par une seule personne, et l’actionnement doit être possible depuis un emplacement situé sur le pont du navire et depuis un emplacement situé dans le canot de secours.
 
 - **(3)** Le dispositif de mise à l’eau et les moyens de récupération d’un canot de secours qui sont conçus pour être activés depuis un emplacement situé sur le pont du navire doivent être conçus de manière que son opérateur puisse voir le canot de secours à tout moment pendant la mise à l’eau et le hissage.
 
@@ -8323,13 +8324,13 @@ où
 	- **b)** doit être actionné depuis un emplacement situé sur le pont du navire qui offre une bonne visibilité jusqu’à l’eau sur le côté du navire;
 	- **c)** doit pouvoir abaisser et hisser l’embarcation de secours avec tout son équipement et un équipage de mise à l’eau d’au moins deux personnes.
 
-- **(2)** Le dispositif de mise à l’eau d’une embarcation de secours qui a une résistance suffisante pour abaisser seulement l’embarcation de secours et son équipage de mise à l’eau doit porter de façon bien visible l’inscription « N’ABAISSER QU’AVEC L’ÉQUIPAGE DE MISE À L’EAU » et « LOWER WITH LAUNCHING CREW ONLY ».
+- **(2)** Le dispositif de mise à l’eau d’une embarcation de secours qui a une résistance suffisante pour abaisser seulement l’embarcation de secours et son équipage de mise à l’eau doit porter de façon bien visible l’inscription « N’ABAISSER QU’AVEC L’ÉQUIPAGE DE MISE À L’EAU » et « *LOWER WITH LAUNCHING CREW ONLY* ».
 
 
 **19** L’embarcation de secours n’a pas à être munie d’un dispositif de mise à l’eau si elle peut être aisément abaissée par l’équipage de mise à l’eau sans subir de dommages.
 
 
-> DORS/80-685, art. 79 à 85; DORS/96-218, art. 43, 44(A) et 45; DORS/2001-179, art. 63 à 65; DORS/2004-253, art. 12(F); DORS/2006-256, art. 16(F) et 17(F); DORS/2013-235, art. 9 et 10.
+> DORS/80-685, art. 79 à 85; DORS/96-218, art. 43, 44(A) et 45; DORS/2001-179, art. 63 à 65; DORS/2004-253, art. 12(F); DORS/2006-256, art. 16(F) et 17(F); DORS/2013-235, art. 9 et 10; DORS/2015-161, art. 1 et 2.
 
 
 
