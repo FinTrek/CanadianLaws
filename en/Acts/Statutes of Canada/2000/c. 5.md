@@ -46,6 +46,18 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***alternative format***, with respect to personal information, means a format that allows a person with a sensory disability to read or listen to the personal information. (*support de substitution*)
 
+***breach of security safeguards*** means the loss of, unauthorized access to or unauthorized disclosure of personal information resulting from a breach of an organization’s security safeguards that are referred to in clause 4.7 of Schedule 1 or from a failure to establish those safeguards. (*atteinte aux mesures de sécurité*)
+
+***business contact information*** means any information that is used for the purpose of communicating or facilitating communication with an individual in relation to their employment, business or profession such as the individual’s name, position name or title, work address, work telephone number, work fax number or work electronic address. (*coordonnées d’affaires*)
+
+***business transaction*** includes
+- **(a)** the purchase, sale or other acquisition or disposition of an organization or a part of an organization, or any of its assets;
+- **(b)** the merger or amalgamation of two or more organizations;
+- **(c)** the making of a loan or provision of other financing to an organization or a part of an organization;
+- **(d)** the creating of a charge on, or the taking of a security interest in or a security on, any assets or securities of an organization;
+- **(e)** the lease or licensing of any of an organization’s assets; and
+- **(f)** any other prescribed arrangement between two or more organizations to conduct a business activity. (*transaction commerciale*)
+
 ***commercial activity*** means any particular transaction, act or conduct or any regular course of conduct that is of a commercial character, including the selling, bartering or leasing of donor, membership or other fundraising lists. (*activité commerciale*)
 
 ***Commissioner*** means the Privacy Commissioner appointed under section 53 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md). (*commissaire*)
@@ -59,7 +71,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(d)** a ferry between a province and another province or between a province and a country other than Canada;
 - **(e)** aerodromes, aircraft or a line of air transportation;
 - **(f)** a radio broadcasting station;
-- **(g)** a bank;
+- **(g)** a bank or an authorized foreign bank as defined in section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md);
 - **(h)** a work that, although wholly situated within a province, is before or after its execution declared by Parliament to be for the general advantage of Canada or for the advantage of two or more provinces;
 - **(i)** a work, undertaking or business outside the exclusive legislative authority of the legislatures of the provinces; and
 - **(j)** a work, undertaking or business to which federal laws, within the meaning of section 2 of the [Oceans Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2031.md), apply under section 20 of that Act and any regulations made under paragraph 26(1)(k) of that Act. (*entreprises fédérales*)
@@ -73,14 +85,16 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(d)** information that is collected in the course of providing health services to the individual; or
 - **(e)** information that is collected incidentally to the provision of health services to the individual. (*renseignement personnel sur la santé*)
 
-***personal information*** means information about an identifiable individual, but does not include the name, title or business address or telephone number of an employee of an organization. (*renseignement personnel*)
+***personal information*** means information about an identifiable individual. (*renseignement personnel*)
+
+***prescribed*** means prescribed by regulation. (*Version anglaise seulement*)
 
 ***record*** includes any correspondence, memorandum, book, plan, map, drawing, diagram, pictorial or graphic work, photograph, film, microform, sound recording, videotape, machine-readable record and any other documentary material, regardless of physical form or characteristics, and any copy of any of those things. (*document*)
 
 **Notes in Schedule 1**
 
 - **(2)** In this Part, a reference to clause 4.3 or 4.9 of Schedule 1 does not include a reference to the note that accompanies that clause.
-> 2000, c. 5, s. 2; 2002, c. 8, s. 183.
+> 2000, c. 5, s. 2; 2002, c. 8, s. 183; 2015, c. 32, s. 2.
 
 
 
@@ -107,7 +121,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** This Part applies to every organization in respect of personal information that
 	- **(a)** the organization collects, uses or discloses in the course of commercial activities; or
-	- **(b)** is about an employee of the organization and that the organization collects, uses or discloses in connection with the operation of a federal work, undertaking or business.
+	- **(b)** is about an employee of, or an applicant for employment with, the organization and that the organization collects, uses or discloses in connection with the operation of a federal work, undertaking or business.
 
 **Limit**
 
@@ -121,6 +135,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - <sup><a href='#P-8.6_en_1'>[*]</a></sup>**(3)** Every provision of this Part applies despite any provision, enacted after this subsection comes into force, of any other Act of Parliament, unless the other Act expressly declares that that provision operates despite the provision of this Part.
 
 <a name='P-8.6_en_1'><sup>*</sup></a>: [Note: Subsection 4(3) in force January 1, 2001, *see* SI/2000-29.]<br />
+> 2000, c. 5, s. 4; 2015, c. 32, s. 3.
+
+
+
+
+
+**Business contact information**
+
+**4.01** This Part does not apply to an organization in respect of the business contact information of an individual that the organization collects, uses or discloses solely for the purpose of communicating or facilitating communication with the individual in relation to their employment, business or profession.
+> 2015, c. 32, s. 4.
+
 
 
 
@@ -180,63 +205,83 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+**Valid consent**
+
+**6.1** For the purposes of clause 4.3 of Schedule 1, the consent of an individual is only valid if it is reasonable to expect that an individual to whom the organization’s activities are directed would understand the nature, purpose and consequences of the collection, use or disclosure of the personal information to which they are consenting.
+> 2015, c. 32, s. 5.
+
+
+
+
+
 **Collection without knowledge or consent**
 
 **7** 
 
-- **(1)** For the purpose of clause 4.3 of Schedule 1, and despite the note that accompanies that clause, an organization may collect personal information without the knowledge or consent of the individual only if
+- **(1)** For the purpose of clause 4.3 of Schedule 1, and despite the note that accompanies that clause, an organization may collect personal information without the knowledge or consent of the individual only if
 	- **(a)** the collection is clearly in the interests of the individual and consent cannot be obtained in a timely way;
 	- **(b)** it is reasonable to expect that the collection with the knowledge or consent of the individual would compromise the availability or the accuracy of the information and the collection is reasonable for purposes related to investigating a breach of an agreement or a contravention of the laws of Canada or a province;
+	- **(b.1)** it is contained in a witness statement and the collection is necessary to assess, process or settle an insurance claim;
+	- **(b.2)** it was produced by the individual in the course of their employment, business or profession and the collection is consistent with the purposes for which the information was produced;
 	- **(c)** the collection is solely for journalistic, artistic or literary purposes;
 	- **(d)** the information is publicly available and is specified by the regulations; or
 	- **(e)** the collection is made for the purpose of making a disclosure
-		- **(i)** under subparagraph (3)(c.1)(i) or (d)(ii), or
+		- **(i)** under subparagraph (3)(c.1)(i) or (d)(ii), or
 		- **(ii)** that is required by law.
 
 **Use without knowledge or consent**
 
-- **(2)** For the purpose of clause 4.3 of Schedule 1, and despite the note that accompanies that clause, an organization may, without the knowledge or consent of the individual, use personal information only if
+- **(2)** For the purpose of clause 4.3 of Schedule 1, and despite the note that accompanies that clause, an organization may, without the knowledge or consent of the individual, use personal information only if
 	- **(a)** in the course of its activities, the organization becomes aware of information that it has reasonable grounds to believe could be useful in the investigation of a contravention of the laws of Canada, a province or a foreign jurisdiction that has been, is being or is about to be committed, and the information is used for the purpose of investigating that contravention;
 	- **(b)** it is used for the purpose of acting in respect of an emergency that threatens the life, health or security of an individual;
+	- **(b.1)** the information is contained in a witness statement and the use is necessary to assess, process or settle an insurance claim;
+	- **(b.2)** the information was produced by the individual in the course of their employment, business or profession and the use is consistent with the purposes for which the information was produced;
 	- **(c)** it is used for statistical, or scholarly study or research, purposes that cannot be achieved without using the information, the information is used in a manner that will ensure its confidentiality, it is impracticable to obtain consent and the organization informs the Commissioner of the use before the information is used;
 	- **(c.1)** it is publicly available and is specified by the regulations; or
-	- **(d)** it was collected under paragraph (1)(a), (b) or (e).
+	- **(d)** it was collected under paragraph (1)(a), (b) or (e).
 
 **Disclosure without knowledge or consent**
 
-- **(3)** For the purpose of clause 4.3 of Schedule 1, and despite the note that accompanies that clause, an organization may disclose personal information without the knowledge or consent of the individual only if the disclosure is
+- **(3)** For the purpose of clause 4.3 of Schedule 1, and despite the note that accompanies that clause, an organization may disclose personal information without the knowledge or consent of the individual only if the disclosure is
 	- **(a)** made to, in the Province of Quebec, an advocate or notary or, in any other province, a barrister or solicitor who is representing the organization;
 	- **(b)** for the purpose of collecting a debt owed by the individual to the organization;
 	- **(c)** required to comply with a subpoena or warrant issued or an order made by a court, person or body with jurisdiction to compel the production of information, or to comply with rules of court relating to the production of records;
 	- **(c.1)** made to a government institution or part of a government institution that has made a request for the information, identified its lawful authority to obtain the information and indicated that
 		- **(i)** it suspects that the information relates to national security, the defence of Canada or the conduct of international affairs,
-		- **(ii)** the disclosure is requested for the purpose of enforcing any law of Canada, a province or a foreign jurisdiction, carrying out an investigation relating to the enforcement of any such law or gathering intelligence for the purpose of enforcing any such law, or
-		- **(iii)** the disclosure is requested for the purpose of administering any law of Canada or a province;
-	- **(c.2)** made to the government institution mentioned in section 7 of the [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md) as required by that section;
-	- <sup><a href='#P-8.6_en_2'>[*]</a></sup>**(c.2)** made to the government institution mentioned in section 7 of the Proceeds of Crime (Money Laundering) Act as required by that section;
-
-<a name='P-8.6_en_2'><sup>*</sup></a>: [Note: Paragraph 7(3)(c.2), as enacted by paragraph 97(1)(a) of chapter 17 of the Statutes of Canada, 2000, will be repealed at a later date.]<br />
-	- **(d)** made on the initiative of the organization to an investigative body, a government institution or a part of a government institution and the organization
-		- **(i)** has reasonable grounds to believe that the information relates to a breach of an agreement or a contravention of the laws of Canada, a province or a foreign jurisdiction that has been, is being or is about to be committed, or
+		- **(ii)** the disclosure is requested for the purpose of enforcing any law of Canada, a province or a foreign jurisdiction, carrying out an investigation relating to the enforcement of any such law or gathering intelligence for the purpose of enforcing any such law,
+		- **(iii)** the disclosure is requested for the purpose of administering any law of Canada or a province, or
+		- **(iv)** the disclosure is requested for the purpose of communicating with the next of kin or authorized representative of an injured, ill or deceased individual;
+	- **(c.2)** made to the government institution mentioned in section 7 of the [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md) as required by that section;
+	- **(d)** made on the initiative of the organization to a government institution or a part of a government institution and the organization
+		- **(i)** has reasonable grounds to believe that the information relates to a contravention of the laws of Canada, a province or a foreign jurisdiction that has been, is being or is about to be committed, or
 		- **(ii)** suspects that the information relates to national security, the defence of Canada or the conduct of international affairs;
+	- **(d.1)** made to another organization and is reasonable for the purposes of investigating a breach of an agreement or a contravention of the laws of Canada or a province that has been, is being or is about to be committed and it is reasonable to expect that disclosure with the knowledge or consent of the individual would compromise the investigation;
+	- **(d.2)** made to another organization and is reasonable for the purposes of detecting or suppressing fraud or of preventing fraud that is likely to be committed and it is reasonable to expect that the disclosure with the knowledge or consent of the individual would compromise the ability to prevent, detect or suppress the fraud;
+	- **(d.3)** made on the initiative of the organization to a government institution, a part of a government institution or the individual’s next of kin or authorized representative and
+		- **(i)** the organization has reasonable grounds to believe that the individual has been, is or may be the victim of financial abuse,
+		- **(ii)** the disclosure is made solely for purposes related to preventing or investigating the abuse, and
+		- **(iii)** it is reasonable to expect that disclosure with the knowledge or consent of the individual would compromise the ability to prevent or investigate the abuse;
+	- **(d.4)** necessary to identify the individual who is injured, ill or deceased, made to a government institution, a part of a government institution or the individual’s next of kin or authorized representative and, if the individual is alive, the organization informs that individual in writing without delay of the disclosure;
 	- **(e)** made to a person who needs the information because of an emergency that threatens the life, health or security of an individual and, if the individual whom the information is about is alive, the organization informs that individual in writing without delay of the disclosure;
+	- **(e.1)** of information that is contained in a witness statement and the disclosure is necessary to assess, process or settle an insurance claim;
+	- **(e.2)** of information that was produced by the individual in the course of their employment, business or profession and the disclosure is consistent with the purposes for which the information was produced;
 	- **(f)** for statistical, or scholarly study or research, purposes that cannot be achieved without disclosing the information, it is impracticable to obtain consent and the organization informs the Commissioner of the disclosure before the information is disclosed;
 	- **(g)** made to an institution whose functions include the conservation of records of historic or archival importance, and the disclosure is made for the purpose of such conservation;
 	- **(h)** made after the earlier of
 		- **(i)** one hundred years after the record containing the information was created, and
 		- **(ii)** twenty years after the death of the individual whom the information is about;
-	- **(h.1)** of information that is publicly available and is specified by the regulations;
-	- **(h.2)** made by an investigative body and the disclosure is reasonable for purposes related to investigating a breach of an agreement or a contravention of the laws of Canada or a province; or
+	- **(h.1)** of information that is publicly available and is specified by the regulations; or
+	- **(h.2)** [Repealed, 2015, c. 32, s. 6]
 	- **(i)** required by law.
 
 **Use without consent**
 
-- **(4)** Despite clause 4.5 of Schedule 1, an organization may use personal information for purposes other than those for which it was collected in any of the circumstances set out in subsection (2).
+- **(4)** Despite clause 4.5 of Schedule 1, an organization may use personal information for purposes other than those for which it was collected in any of the circumstances set out in subsection (2).
 
 **Disclosure without consent**
 
-- **(5)** Despite clause 4.5 of Schedule 1, an organization may disclose personal information for purposes other than those for which it was collected in any of the circumstances set out in paragraphs (3)(a) to (h.2).
-> 2000, c. 5, s. 7, c. 17, s. 97; 2001, c. 41, s. 81; 2004, c. 15, s. 98.
+- **(5)** Despite clause 4.5 of Schedule 1, an organization may disclose personal information for purposes other than those for which it was collected in any of the circumstances set out in paragraphs (3)(a) to (h.1).
+> 2000, c. 5, s. 7, c. 17, s. 97; 2001, c. 41, s. 81; 2004, c. 15, s. 98; 2015, c. 32, s. 6.
 
 
 
@@ -254,14 +299,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***computer system*** has the same meaning as in subsection 342.1(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). (*ordinateur*)
 
-***electronic address*** means an address used in connection with 
+***electronic address*** means an address used in connection with
 - **(a)** an electronic mail account;
 - **(b)** an instant messaging account; or
 - **(c)** any similar account. (*adresse électronique*)
 
 **Collection of electronic addresses, etc.**
 
-- **(2)** Paragraphs 7(1)(a), (c) and (d) and (2)(a) to (c.1) and the exception set out in clause 4.3 of Schedule 1 do not apply in respect of
+- **(2)** Paragraphs 7(1)(a) and (b.1) to (d) and (2)(a) to (c.1) and the exception set out in clause 4.3 of Schedule 1 do not apply in respect of
 	- **(a)** the collection of an individual’s electronic address, if the address is collected by the use of a computer program that is designed or marketed primarily for use in generating or searching for, and collecting, electronic addresses; or
 	- **(b)** the use of an individual’s electronic address, if the address is collected by the use of a computer program described in paragraph (a).
 
@@ -270,7 +315,69 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(3)** Paragraphs 7(1)(a) to (d) and (2)(a) to (c.1) and the exception set out in clause 4.3 of Schedule 1 do not apply in respect of
 	- **(a)** the collection of personal information, through any means of telecommunication, if the collection is made by accessing a computer system or causing a computer system to be accessed in contravention of an Act of Parliament; or
 	- **(b)** the use of personal information that is collected in a manner described in paragraph (a).
-> 2010, c. 23, s. 82.
+> 2010, c. 23, s. 82; 2015, c. 32, s. 26.
+
+
+
+
+
+**Prospective business transaction**
+
+**7.2** 
+
+- **(1)** In addition to the circumstances set out in subsections 7(2) and (3), for the purpose of clause 4.3 of Schedule 1, and despite the note that accompanies that clause, organizations that are parties to a prospective business transaction may use and disclose personal information without the knowledge or consent of the individual if
+	- **(a)** the organizations have entered into an agreement that requires the organization that receives the personal information
+		- **(i)** to use and disclose that information solely for purposes related to the transaction,
+		- **(ii)** to protect that information by security safeguards appropriate to the sensitivity of the information, and
+		- **(iii)** if the transaction does not proceed, to return that information to the organization that disclosed it, or destroy it, within a reasonable time; and
+	- **(b)** the personal information is necessary
+		- **(i)** to determine whether to proceed with the transaction, and
+		- **(ii)** if the determination is made to proceed with the transaction, to complete it.
+
+**Completed business transaction**
+
+- **(2)** In addition to the circumstances set out in subsections 7(2) and (3), for the purpose of clause 4.3 of Schedule 1, and despite the note that accompanies that clause, if the business transaction is completed, organizations that are parties to the transaction may use and disclose personal information, which was disclosed under subsection (1), without the knowledge or consent of the individual if
+	- **(a)** the organizations have entered into an agreement that requires each of them
+		- **(i)** to use and disclose the personal information under its control solely for the purposes for which the personal information was collected, permitted to be used or disclosed before the transaction was completed,
+		- **(ii)** to protect that information by security safeguards appropriate to the sensitivity of the information, and
+		- **(iii)** to give effect to any withdrawal of consent made under clause 4.3.8 of Schedule 1;
+	- **(b)** the personal information is necessary for carrying on the business or activity that was the object of the transaction; and
+	- **(c)** one of the parties notifies the individual, within a reasonable time after the transaction is completed, that the transaction has been completed and that their personal information has been disclosed under subsection (1).
+
+**Agreements binding**
+
+- **(3)** An organization shall comply with the terms of any agreement into which it enters under paragraph (1)(a) or (2)(a).
+
+**Exception**
+
+- **(4)** Subsections (1) and (2) do not apply to a business transaction of which the primary purpose or result is the purchase, sale or other acquisition or disposition, or lease, of personal information.
+> 2015, c. 32, s. 7.
+
+
+
+
+
+**Employment relationship**
+
+**7.3** In addition to the circumstances set out in section 7, for the purpose of clause 4.3 of Schedule 1, and despite the note that accompanies that clause, a federal work, undertaking or business may collect, use and disclose personal information without the consent of the individual if
+- **(a)** the collection, use or disclosure is necessary to establish, manage or terminate an employment relationship between the federal work, undertaking or business and the individual; and
+- **(b)** the federal work, undertaking or business has informed the individual that the personal information will be or may be collected, used or disclosed for those purposes.
+> 2015, c. 32, s. 7.
+
+
+
+
+
+**Use without consent**
+
+**7.4** 
+
+- **(1)** Despite clause 4.5 of Schedule 1, an organization may use personal information for purposes other than those for which it was collected in any of the circumstances set out in subsection 7.2(1) or (2) or section 7.3.
+
+**Disclosure without consent**
+
+- **(2)** Despite clause 4.5 of Schedule 1, an organization may disclose personal information for purposes other than those for which it was collected in any of the circumstances set out in subsection 7.2(1) or (2) or section 7.3.
+> 2015, c. 32, s. 7.
 
 
 
@@ -280,7 +387,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **8** 
 
-- **(1)** A request under clause 4.9 of Schedule 1 must be made in writing.
+- **(1)** A request under clause 4.9 of Schedule 1 must be made in writing.
 
 **Assistance**
 
@@ -315,7 +422,9 @@ In either case, the organization shall, no later than thirty days after the date
 
 **Retention of information**
 
-- **(8)** Despite clause 4.5 of Schedule 1, an organization that has personal information that is the subject of a request shall retain the information for as long as is necessary to allow the individual to exhaust any recourse under this Part that they may have.
+- **(8)** Despite clause 4.5 of Schedule 1, an organization that has personal information that is the subject of a request shall retain the information for as long as is necessary to allow the individual to exhaust any recourse under this Part that they may have.
+> 2000, c. 5, s. 8; 2015, c. 32, s. 8(F).
+
 
 
 
@@ -324,67 +433,64 @@ In either case, the organization shall, no later than thirty days after the date
 
 **9** 
 
-- **(1)** Despite clause 4.9 of Schedule 1, an organization shall not give an individual access to personal information if doing so would likely reveal personal information about a third party. However, if the information about the third party is severable from the record containing the information about the individual, the organization shall sever the information about the third party before giving the individual access.
+- **(1)** Despite clause 4.9 of Schedule 1, an organization shall not give an individual access to personal information if doing so would likely reveal personal information about a third party. However, if the information about the third party is severable from the record containing the information about the individual, the organization shall sever the information about the third party before giving the individual access.
 
 **Limit**
 
-- **(2)** Subsection (1) does not apply if the third party consents to the access or the individual needs the information because an individual’s life, health or security is threatened.
+- **(2)** Subsection (1) does not apply if the third party consents to the access or the individual needs the information because an individual’s life, health or security is threatened.
 
 **Information related to paragraphs 7(3)(c), (c.1) or (d)**
 
-- **(2.1)** An organization shall comply with subsection (2.2) if an individual requests that the organization
+- **(2.1)** An organization shall comply with subsection (2.2) if an individual requests that the organization
 	- **(a)** inform the individual about
-		- **(i)** any disclosure of information to a government institution or a part of a government institution under paragraph 7(3)(c), subparagraph 7(3)(c.1)(i) or (ii) or paragraph 7(3)(c.2) or (d), or
-		- **(ii)** the existence of any information that the organization has relating to a disclosure referred to in subparagraph (i), to a subpoena, warrant or order referred to in paragraph 7(3)(c) or to a request made by a government institution or a part of a government institution under subparagraph 7(3)(c.1)(i) or (ii); or
-	- **(b)** give the individual access to the information referred to in subparagraph (a)(ii).
+		- **(i)** any disclosure of information to a government institution or a part of a government institution under paragraph 7(3)(c), subparagraph 7(3)(c.1)(i) or (ii) or paragraph 7(3)(c.2) or (d), or
+		- **(ii)** the existence of any information that the organization has relating to a disclosure referred to in subparagraph (i), to a subpoena, warrant or order referred to in paragraph 7(3)(c) or to a request made by a government institution or a part of a government institution under subparagraph 7(3)(c.1)(i) or (ii); or
+	- **(b)** give the individual access to the information referred to in subparagraph (a)(ii).
 
 **Notification and response**
 
-- **(2.2)** An organization to which subsection (2.1) applies
+- **(2.2)** An organization to which subsection (2.1) applies
 	- **(a)** shall, in writing and without delay, notify the institution or part concerned of the request made by the individual; and
 	- **(b)** shall not respond to the request before the earlier of
-		- **(i)** the day on which it is notified under subsection (2.3), and
+		- **(i)** the day on which it is notified under subsection (2.3), and
 		- **(ii)** thirty days after the day on which the institution or part was notified.
 
 **Objection**
 
-- **(2.3)** Within thirty days after the day on which it is notified under subsection (2.2), the institution or part shall notify the organization whether or not the institution or part objects to the organization complying with the request. The institution or part may object only if the institution or part is of the opinion that compliance with the request could reasonably be expected to be injurious to
+- **(2.3)** Within thirty days after the day on which it is notified under subsection (2.2), the institution or part shall notify the organization whether or not the institution or part objects to the organization complying with the request. The institution or part may object only if the institution or part is of the opinion that compliance with the request could reasonably be expected to be injurious to
 	- **(a)** national security, the defence of Canada or the conduct of international affairs;
 	- **(a.1)** the detection, prevention or deterrence of money laundering or the financing of terrorist activities; or
-	- <sup><a href='#P-8.6_en_3'>[*]</a></sup>**(a.1)** the detection, prevention or deterrence of money laundering; or
-
-<a name='P-8.6_en_3'><sup>*</sup></a>: [Note: Paragraph 9(2.3)(a.1), as enacted by paragraph 97(1)(c) of chapter 17 of the Statutes of Canada, 2000, will be repealed at a later date.]<br />
 	- **(b)** the enforcement of any law of Canada, a province or a foreign jurisdiction, an investigation relating to the enforcement of any such law or the gathering of intelligence for the purpose of enforcing any such law.
 
 **Prohibition**
 
-- **(2.4)** Despite clause 4.9 of Schedule 1, if an organization is notified under subsection (2.3) that the institution or part objects to the organization complying with the request, the organization
-	- **(a)** shall refuse the request to the extent that it relates to paragraph (2.1)(a) or to information referred to in subparagraph (2.1)(a)(ii);
+- **(2.4)** Despite clause 4.9 of Schedule 1, if an organization is notified under subsection (2.3) that the institution or part objects to the organization complying with the request, the organization
+	- **(a)** shall refuse the request to the extent that it relates to paragraph (2.1)(a) or to information referred to in subparagraph (2.1)(a)(ii);
 	- **(b)** shall notify the Commissioner, in writing and without delay, of the refusal; and
 	- **(c)** shall not disclose to the individual
-		- **(i)** any information that the organization has relating to a disclosure to a government institution or a part of a government institution under paragraph 7(3)(c), subparagraph 7(3)(c.1)(i) or (ii) or paragraph 7(3)(c.2) or (d) or to a request made by a government institution under either of those subparagraphs,
-		- **(ii)** that the organization notified an institution or part under paragraph (2.2)(a) or the Commissioner under paragraph (b), or
+		- **(i)** any information that the organization has relating to a disclosure to a government institution or a part of a government institution under paragraph 7(3)(c), subparagraph 7(3)(c.1)(i) or (ii) or paragraph 7(3)(c.2) or (d) or to a request made by a government institution under either of those subparagraphs,
+		- **(ii)** that the organization notified an institution or part under paragraph (2.2)(a) or the Commissioner under paragraph (b), or
 		- **(iii)** that the institution or part objects.
 
 **When access may be refused**
 
-- **(3)** Despite the note that accompanies clause 4.9 of Schedule 1, an organization is not required to give access to personal information only if
-	- **(a)** the information is protected by solicitor-client privilege;
+- **(3)** Despite the note that accompanies clause 4.9 of Schedule 1, an organization is not required to give access to personal information only if
+	- **(a)** the information is protected by solicitor-client privilege or, in civil law, by the professional secrecy of lawyers and notaries;
 	- **(b)** to do so would reveal confidential commercial information;
 	- **(c)** to do so could reasonably be expected to threaten the life or security of another individual;
-	- **(c.1)** the information was collected under paragraph 7(1)(b);
+	- **(c.1)** the information was collected under paragraph 7(1)(b);
 	- **(d)** the information was generated in the course of a formal dispute resolution process; or
 	- **(e)** the information was created for the purpose of making a disclosure under the [Public Servants Disclosure Protection Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2046.md) or in the course of an investigation into a disclosure under that Act.
-However, in the circumstances described in paragraph (b) or (c), if giving access to the information would reveal confidential commercial information or could reasonably be expected to threaten the life or security of another individual, as the case may be, and that information is severable from the record containing any other information for which access is requested, the organization shall give the individual access after severing.
+However, in the circumstances described in paragraph (b) or (c), if giving access to the information would reveal confidential commercial information or could reasonably be expected to threaten the life or security of another individual, as the case may be, and that information is severable from the record containing any other information for which access is requested, the organization shall give the individual access after severing.
 
 **Limit**
 
-- **(4)** Subsection (3) does not apply if the individual needs the information because an individual’s life, health or security is threatened.
+- **(4)** Subsection (3) does not apply if the individual needs the information because an individual’s life, health or security is threatened.
 
 **Notice**
 
-- **(5)** If an organization decides not to give access to personal information in the circumstances set out in paragraph (3)(c.1), the organization shall, in writing, so notify the Commissioner, and shall include in the notification any information that the Commissioner may specify.
-> 2000, c. 5, s. 9, c. 17, s. 97; 2001, c. 41, s. 82; 2005, c. 46, s. 57; 2006, c. 9, s. 223.
+- **(5)** If an organization decides not to give access to personal information in the circumstances set out in paragraph (3)(c.1), the organization shall, in writing, so notify the Commissioner, and shall include in the notification any information that the Commissioner may specify.
+> 2000, c. 5, s. 9, c. 17, s. 97; 2001, c. 41, s. 82; 2005, c. 46, s. 57; 2006, c. 9, s. 223; 2015, c. 32, s. 9.
 
 
 
@@ -504,19 +610,20 @@ However, in the circumstances described in paragraph (b) or (c), if giving acces
 	- **(a)** there is insufficient evidence to pursue the investigation;
 	- **(b)** the complaint is trivial, frivolous or vexatious or is made in bad faith;
 	- **(c)** the organization has provided a fair and reasonable response to the complaint;
+	- **(c.1)** the matter is the object of a compliance agreement entered into under subsection 17.1(1);
 	- **(d)** the matter is already the object of an ongoing investigation under this Part;
 	- **(e)** the matter has already been the subject of a report by the Commissioner;
-	- **(f)** any of the circumstances mentioned in paragraph 12(1)(a), (b) or (c) apply; or
-	- **(g)** the matter is being or has already been addressed under a procedure referred to in paragraph 12(1)(a) or (b).
+	- **(f)** any of the circumstances mentioned in paragraph 12(1)(a), (b) or (c) apply; or
+	- **(g)** the matter is being or has already been addressed under a procedure referred to in paragraph 12(1)(a) or (b).
 
 **Other reason**
 
-- **(2)** The Commissioner may discontinue an investigation in respect of an act alleged in a complaint if the Commissioner is of the opinion that the act, if proved, would constitute a contravention of any of sections 6 to 9 of [An Act to promote the efficiency and adaptability of the Canadian economy by regulating certain activities that discourage reliance on electronic means of carrying out commercial activities, and to amend the Canadian Radio-television and Telecommunications Commission Act, the Competition Act, the Personal Information Protection and Electronic Documents Act and the Telecommunications Act](/en/Acts/Statutes%20of%20Canada/2010/c.%2023.md) or section 52.01 of the [Competition Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-34.md) or would constitute conduct that is reviewable under section 74.011 of that Act.
+- **(2)** The Commissioner may discontinue an investigation in respect of an act alleged in a complaint if the Commissioner is of the opinion that the act, if proved, would constitute a contravention of any of sections 6 to 9 of [An Act to promote the efficiency and adaptability of the Canadian economy by regulating certain activities that discourage reliance on electronic means of carrying out commercial activities, and to amend the Canadian Radio-television and Telecommunications Commission Act, the Competition Act, the Personal Information Protection and Electronic Documents Act and the Telecommunications Act](/en/Acts/Statutes%20of%20Canada/2010/c.%2023.md) or section 52.01 of the [Competition Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-34.md) or would constitute conduct that is reviewable under section 74.011 of that Act.
 
 **Notification**
 
 - **(3)** The Commissioner shall notify the complainant and the organization that the investigation has been discontinued and give reasons.
-> 2010, c. 23, s. 83.
+> 2010, c. 23, s. 83; 2015, c. 32, s. 12.
 
 
 
@@ -555,16 +662,16 @@ However, in the circumstances described in paragraph (b) or (c), if giving acces
 
 **14** 
 
-- **(1)** A complainant may, after receiving the Commissioner’s report or being notified under subsection 12.2(3) that the investigation of the complaint has been discontinued, apply to the Court for a hearing in respect of any matter in respect of which the complaint was made, or that is referred to in the Commissioner’s report, and that is referred to in clause 4.1.3, 4.2, 4.3.3, 4.4, 4.6, 4.7 or 4.8 of Schedule 1, in clause 4.3, 4.5 or 4.9 of that Schedule as modified or clarified by Division 1, in subsection 5(3) or 8(6) or (7) or in section 10.
+- **(1)** A complainant may, after receiving the Commissioner’s report or being notified under subsection 12.2(3) that the investigation of the complaint has been discontinued, apply to the Court for a hearing in respect of any matter in respect of which the complaint was made, or that is referred to in the Commissioner’s report, and that is referred to in clause 4.1.3, 4.2, 4.3.3, 4.4, 4.6, 4.7 or 4.8 of Schedule 1, in clause 4.3, 4.5 or 4.9 of that Schedule as modified or clarified by Division 1 or 1.1, in subsection 5(3) or 8(6) or (7), in section 10 or in Division 1.1.
 
-**Time of application**
+**Time for application**
 
-- **(2)** A complainant must make an application within 45 days after the report or notification is sent or within any further time that the Court may, either before or after the expiry of those 45 days, allow.
+- **(2)** A complainant shall make an application within one year after the report or notification is sent or within any longer period that the Court may, either before or after the expiry of that year, allow.
 
 **For greater certainty**
 
-- **(3)** For greater certainty, subsections (1) and (2) apply in the same manner to complaints referred to in subsection 11(2) as to complaints referred to in subsection 11(1).
-> 2000, c. 5, s. 14; 2010, c. 23, s. 85.
+- **(3)** For greater certainty, subsections (1) and (2) apply in the same manner to complaints referred to in subsection 11(2) as to complaints referred to in subsection 11(1).
+> 2000, c. 5, s. 14; 2010, c. 23, s. 85; 2015, c. 32, s. 13.
 
 
 
@@ -603,6 +710,58 @@ However, in the circumstances described in paragraph (b) or (c), if giving acces
 
 
 
+#### Compliance Agreements
+
+
+
+**Compliance agreement**
+
+**17.1** 
+
+- **(1)** If the Commissioner believes on reasonable grounds that an organization has committed, is about to commit or is likely to commit an act or omission that could constitute a contravention of a provision of Division 1 or 1.1 or a failure to follow a recommendation set out in Schedule 1, the Commissioner may enter into a compliance agreement, aimed at ensuring compliance with this Part, with that organization.
+
+**Terms**
+
+- **(2)** A compliance agreement may contain any terms that the Commissioner considers necessary to ensure compliance with this Part.
+
+**Effect of compliance agreement — no application**
+
+- **(3)** When a compliance agreement is entered into, the Commissioner, in respect of any matter covered under the agreement,
+	- **(a)** shall not apply to the Court for a hearing under subsection 14(1) or paragraph 15(a); and
+	- **(b)** shall apply to the court for the suspension of any pending applications that were made by the Commissioner under those provisions.
+
+**For greater certainty**
+
+- **(4)** For greater certainty, a compliance agreement does not preclude
+	- **(a)** an individual from applying for a hearing under section 14; or
+	- **(b)** the prosecution of an offence under the Act.
+> 2015, c. 32, s. 15.
+
+
+
+
+
+**Agreement complied with**
+
+**17.2** 
+
+- **(1)** If the Commissioner is of the opinion that a compliance agreement has been complied with, the Commissioner shall provide written notice to that effect to the organization and withdraw any applications that were made under subsection 14(1) or paragraph 15(a) in respect of any matter covered under the agreement.
+
+**Agreement not complied with**
+
+- **(2)** If the Commissioner is of the opinion that an organization is not complying with the terms of a compliance agreement, the Commissioner shall notify the organization and may apply to the Court for
+	- **(a)** an order requiring the organization to comply with the terms of the agreement, in addition to any other remedies it may give; or
+	- **(b)** a hearing under subsection 14(1) or paragraph 15(a) or to reinstate proceedings that have been suspended as a result of an application made under paragraph 17.1(3)(b).
+
+**Time for application**
+
+- **(3)** Despite subsection 14(2), the application shall be made within one year after notification is sent or within any longer period that the Court may, either before or after the expiry of that year, allow.
+> 2015, c. 32, s. 15.
+
+
+
+
+
 **DIVISION 3** 
 ### Audits
 
@@ -612,17 +771,17 @@ However, in the circumstances described in paragraph (b) or (c), if giving acces
 
 **18** 
 
-- **(1)** The Commissioner may, on reasonable notice and at any reasonable time, audit the personal information management practices of an organization if the Commissioner has reasonable grounds to believe that the organization is contravening a provision of Division 1 or is not following a recommendation set out in Schedule 1, and for that purpose may
+- **(1)** The Commissioner may, on reasonable notice and at any reasonable time, audit the personal information management practices of an organization if the Commissioner has reasonable grounds to believe that the organization has contravened a provision of Division 1 or 1.1 or is not following a recommendation set out in Schedule 1, and for that purpose may
 	- **(a)** summon and enforce the appearance of persons before the Commissioner and compel them to give oral or written evidence on oath and to produce any records and things that the Commissioner considers necessary for the audit, in the same manner and to the same extent as a superior court of record;
 	- **(b)** administer oaths;
 	- **(c)** receive and accept any evidence and other information, whether on oath, by affidavit or otherwise, that the Commissioner sees fit, whether or not it is or would be admissible in a court of law;
 	- **(d)** at any reasonable time, enter any premises, other than a dwelling-house, occupied by the organization on satisfying any security requirements of the organization relating to the premises;
 	- **(e)** converse in private with any person in any premises entered under paragraph (d) and otherwise carry out in those premises any inquiries that the Commissioner sees fit; and
-	- **(f)** examine or obtain copies of or extracts from records found in any premises entered under paragraph (d) that contain any matter relevant to the audit.
+	- **(f)** examine or obtain copies of or extracts from records found in any premises entered under paragraph (d) that contain any matter relevant to the audit.
 
 **Delegation**
 
-- **(2)** The Commissioner may delegate any of the powers set out in subsection (1).
+- **(2)** The Commissioner may delegate any of the powers set out in subsection (1).
 
 **Return of records**
 
@@ -630,7 +789,9 @@ However, in the circumstances described in paragraph (b) or (c), if giving acces
 
 **Certificate of delegation**
 
-- **(4)** Any person to whom powers set out in subsection (1) are delegated shall be given a certificate of the delegation and the delegate shall produce the certificate, on request, to the person in charge of any premises to be entered under paragraph (1)(d).
+- **(4)** Any person to whom powers set out in subsection (1) are delegated shall be given a certificate of the delegation and the delegate shall produce the certificate, on request, to the person in charge of any premises to be entered under paragraph (1)(d).
+> 2000, c. 5, s. 18; 2015, c. 32, s. 16.
+
 
 
 
@@ -661,7 +822,7 @@ However, in the circumstances described in paragraph (b) or (c), if giving acces
 
 **Public interest**
 
-- **(2)** The Commissioner may make public any information relating to the personal information management practices of an organization if the Commissioner considers that it is in the public interest to do so.
+- **(2)** The Commissioner may, if the Commissioner considers that it is in the public interest to do so, make public any information that comes to his or her knowledge in the performance or exercise of any of his or her duties or powers under this Part.
 
 **Disclosure of necessary information**
 
@@ -674,8 +835,9 @@ However, in the circumstances described in paragraph (b) or (c), if giving acces
 - **(4)** The Commissioner may disclose, or may authorize any person acting on behalf or under the direction of the Commissioner to disclose, information in the course of
 	- **(a)** a prosecution for an offence under section 28;
 	- **(b)** a prosecution for an offence under section 132 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) (perjury) in respect of a statement made under this Part;
-	- **(c)** a hearing before the Court under this Part; or
-	- **(d)** an appeal from a decision of the Court.
+	- **(c)** a hearing before the Court under this Part;
+	- **(d)** an appeal from a decision of the Court; or
+	- **(e)** a judicial review in relation to the performance or exercise of any of the Commissioner’s duties or powers under this Part.
 
 **Disclosure of offence authorized**
 
@@ -684,7 +846,7 @@ However, in the circumstances described in paragraph (b) or (c), if giving acces
 **Disclosure**
 
 - **(6)** The Commissioner may disclose information, or may authorize any person acting on behalf or under the direction of the Commissioner to disclose information, in the course of proceedings in which the Commissioner has intervened under paragraph 50(c) of [An Act to promote the efficiency and adaptability of the Canadian economy by regulating certain activities that discourage reliance on electronic means of carrying out commercial activities, and to amend the Canadian Radio-television and Telecommunications Commission Act, the Competition Act, the Personal Information Protection and Electronic Documents Act and the Telecommunications Act](/en/Acts/Statutes%20of%20Canada/2010/c.%2023.md) or in accordance with subsection 58(3) or 60(1) of that Act.
-> 2000, c. 5, s. 20; 2010, c. 23, s. 86.
+> 2000, c. 5, s. 20; 2010, c. 23, s. 86; 2015, c. 32, s. 17.
 
 
 
@@ -707,11 +869,13 @@ However, in the circumstances described in paragraph (b) or (c), if giving acces
 
 - **(1)** No criminal or civil proceedings lie against the Commissioner, or against any person acting on behalf or under the direction of the Commissioner, for anything done, reported or said in good faith as a result of the performance or exercise or purported performance or exercise of any duty or power of the Commissioner under this Part.
 
-**Libel or slander**
+**Defamation**
 
-- **(2)** For the purposes of any law relating to libel or slander,
-	- **(a)** anything said, any information supplied or any record or thing produced in good faith in the course of an investigation or audit carried out by or on behalf of the Commissioner under this Part is privileged; and
-	- **(b)** any report made in good faith by the Commissioner under this Part and any fair and accurate account of the report made in good faith for the purpose of news reporting is privileged.
+- **(2)** No action lies in defamation with respect to
+	- **(a)** anything said, any information supplied or any record or thing produced in good faith in the course of an investigation or audit carried out by or on behalf of the Commissioner under this Part; and
+	- **(b)** any report made in good faith by the Commissioner under this Part and any fair and accurate account of the report made in good faith for the purpose of news reporting.
+> 2000, c. 5, s. 22; 2015, c. 32, s. 18.
+
 
 
 
@@ -798,11 +962,13 @@ However, in the circumstances described in paragraph (b) or (c), if giving acces
 
 **25** 
 
-- **(1)** The Commissioner shall, as soon as practicable after the end of each calendar year, submit to Parliament a report concerning the application of this Part, the extent to which the provinces have enacted legislation that is substantially similar to this Part and the application of any such legislation.
+- **(1)** The Commissioner shall, within three months after the end of each financial year, submit to Parliament a report concerning the application of this Part, the extent to which the provinces have enacted legislation that is substantially similar to this Part and the application of any such legislation.
 
 **Consultation**
 
-- **(2)** Before preparing the report, the Commissioner shall consult with those persons in the provinces who, in the Commissioner’s opinion, are in a position to assist the Commissioner in reporting respecting personal information that is collected, used or disclosed interprovincially or internationally.
+- **(2)** Before preparing the report, the Commissioner shall consult with those persons in the provinces who, in the Commissioner’s opinion, are in a position to assist the Commissioner in making a report respecting personal information that is collected, used or disclosed interprovincially or internationally.
+> 2000, c. 5, s. 25; 2015, c. 32, s. 20.
+
 
 
 
@@ -811,17 +977,20 @@ However, in the circumstances described in paragraph (b) or (c), if giving acces
 
 **26** 
 
-- **(1)** The Governor in Council may make regulations
+- **(1)** The Governor in Council may make regulations for carrying out the purposes and provisions of this Part, including regulations
 	- **(a)** specifying, by name or by class, what is a government institution or part of a government institution for the purposes of any provision of this Part;
-	- **(a.01)** specifying, by name or by class, what is an investigative body for the purposes of paragraph 7(3)(d) or (h.2);
-	- **(a.1)** specifying information or classes of information for the purpose of paragraph 7(1)(d), (2)(c.1) or (3)(h.1); and
-	- **(b)** for carrying out the purposes and provisions of this Part.
+	- **(a.01)** [Repealed, 2015, c. 32, s. 21]
+	- **(a.1)** specifying information or classes of information for the purpose of paragraph 7(1)(d), (2)(c.1) or (3)(h.1);
+	- **(b)** specifying information to be kept and maintained under subsection 10.3(1); and
+	- **(c)** prescribing anything that by this Part is to be prescribed.
 
 **Orders**
 
 - **(2)** The Governor in Council may, by order,
 	- **(a)** provide that this Part is binding on any agent of Her Majesty in right of Canada to which the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md) does not apply; and
 	- **(b)** if satisfied that legislation of a province that is substantially similar to this Part applies to an organization, a class of organizations, an activity or a class of activities, exempt the organization, activity or class from the application of this Part in respect of the collection, use or disclosure of personal information that occurs within that province.
+> 2000, c. 5, s. 26; 2015, c. 32, s. 21.
+
 
 
 
