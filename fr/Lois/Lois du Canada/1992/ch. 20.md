@@ -2437,6 +2437,15 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 
 
+**Échantillon d’urine positif ou refus**
+
+**123.1** Lorsque le délinquant à qui la libération conditionnelle a été accordée en application des articles 122 ou 123 refuse ou omet, avant sa mise en liberté, de fournir un échantillon d’urine exigé au titre de l’article 54 ou qu’il fournit un tel échantillon et que le résultat de son analyse est positif, au sens des règlements, le Service en informe la Commission.
+> 2015, ch. 30, art. 2
+
+
+
+
+
 **Délinquant illégalement en liberté**
 
 **124** 
@@ -2451,10 +2460,14 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 - **(3)** Après réexamen du dossier à la lumière de renseignements nouveaux qui ne pouvaient raisonnablement avoir été portés à sa connaissance au moment où elle a accordé la libération conditionnelle, la Commission peut annuler sa décision avant la mise en liberté ou mettre fin à la libération conditionnelle si le délinquant est déjà en liberté.
 
+**Annulation de la libération conditionnelle — analyse**
+
+- **(3.1)** Lorsque la Commission est informée d’une des situations prévues à l’article 123.1 avant la mise en liberté du délinquant, elle annule l’octroi de la libération conditionnelle si elle est d’avis que, en raison de cette situation, les critères prévus à l’article 102 ne sont plus remplis.
+
 **Révision**
 
 - **(4)** Si elle exerce les pouvoirs que lui confère le paragraphe (3), la Commission doit, au cours de la période prévue par règlement, réviser sa décision et la confirmer ou l’annuler.
-> 1992, ch. 20, art. 124; 1995, ch. 42, art. 38; 2011, ch. 11, art. 4; 2012, ch. 1, art. 80, ch. 19, art. 526
+> 1992, ch. 20, art. 124; 1995, ch. 42, art. 38; 2011, ch. 11, art. 4; 2012, ch. 1, art. 80, ch. 19, art. 526; 2015, ch. 30, art. 3
 
 
 
@@ -2838,7 +2851,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Conditions particulières**
 
-- **(3)** L’autorité compétente peut imposer au délinquant qui bénéficie d’une libération conditionnelle ou d’office ou d’une permission de sortir sans escorte les conditions qu’elle juge raisonnables et nécessaires pour protéger la société et favoriser la réinsertion sociale du délinquant.
+- **(3)** L’autorité compétente peut imposer au délinquant qui bénéficie d’une libération conditionnelle ou d’office ou d’une permission de sortir sans escorte les conditions qu’elle juge raisonnables et nécessaires pour protéger la société et favoriser la réinsertion sociale du délinquant. Il est entendu que les conditions peuvent porter sur la consommation de drogues ou d’alcool par le délinquant, notamment lorsqu’il a été établi qu’elle est un facteur de risque dans le comportement criminel du délinquant.
 
 **Conditions pour protéger la victime**
 
@@ -2879,7 +2892,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 **Dispense ou modification des conditions**
 
 - **(6)** L’autorité compétente peut, conformément aux règlements, soustraire le délinquant, avant ou après sa mise en liberté, à l’application de l’une ou l’autre des conditions du présent article, modifier ou annuler l’une de celles-ci.
-> 1992, ch. 20, art. 133; 1995, ch. 42, art. 48 et 71(F); 1997, ch. 17, art. 28; 2012, ch. 1, art. 86; 2014, ch. 21, art. 5
+> 1992, ch. 20, art. 133; 1995, ch. 42, art. 48 et 71(F); 1997, ch. 17, art. 28; 2012, ch. 1, art. 86; 2014, ch. 21, art. 5; 2015, ch. 30, art. 4
 
 
 
@@ -3749,11 +3762,11 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **156** 
 
-- **(1)** Le gouverneur en conseil peut, par règlement, prendre les mesures d’ordre réglementaire prévues par la présente partie ou nécessaires à sa mise en oeuvre.
+- **(1)** Le gouverneur en conseil peut, par règlement, prendre les mesures d’ordre réglementaire prévues par la présente partie ou nécessaires à sa mise en oeuvre, notamment définir tout terme qui doit être défini par règlement pour l’application de la présente partie.
 
 **Application**
 
-- **(2)** Les règlements pris en vertu du paragraphe (1) peuvent s’appliquer :
+- **(2)** Les règlements pris en vertu du paragraphe (1) peuvent s’appliquer :
 	- **a)** aux délinquants qui relèvent de la compétence d’une commission provinciale;
 	- **b)** à une catégorie particulière ou à certaines catégories de délinquants.
 
@@ -3763,11 +3776,11 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Idem**
 
-- **(4)** Le gouverneur en conseil peut, par règlement, régir :
+- **(4)** Le gouverneur en conseil peut, par règlement, régir :
 	- **a)** le mode de calcul du temps d’épreuve prévu aux articles 120 à 120.3 pour l’admissibilité à la libération conditionnelle totale;
 	- **b)** le mode de calcul de la période d’emprisonnement que doit subir le délinquant avant d’avoir droit à la libération d’office conformément à l’article 127;
 	- **c)** les modalités d’application du paragraphe 139(1) dans le cas de peines multiples.
-> 1992, ch. 20, art. 156; 1995, ch. 42, art. 60
+> 1992, ch. 20, art. 156; 1995, ch. 42, art. 60; 2015, ch. 30, art. 5
 
 
 
@@ -4646,6 +4659,7 @@ Il est alors autorisé à faire prêter serment.
 - **a.8)** article 83.2 (infraction au profit d’un groupe terroriste);
 - **a.9)** article 83.21 (charger une personne de se livrer à une activité pour un groupe terroriste);
 - **a.91)** article 83.22 (charger une personne de se livrer à une activité terroriste);
+- **a.92)** paragraphe 83.221(1) (préconiser ou fomenter la perpétration d’infractions de terrorisme);
 - **b)** paragraphe 85(1) (usage d’une arme à feu lors de la perpétration d’une infraction);
 - **b.1)** paragraphe 85(2) (usage d’une fausse arme à feu lors de la perpétration d’une infraction);
 - **c)** article 87 (braquer une arme à feu);
@@ -4764,7 +4778,7 @@ Il est alors autorisé à faire prêter serment.
 - **d)** article 7 (manquement à la responsabilité à l’étranger : chef militaire ou autre supérieur).
 
 
-> 1992, ch. 20, ann. I; 1995, ch. 39, art. 165, ch. 42, art. 64 à 67; 2000, ch. 24, art. 41; 2001, ch. 41, art. 91 à 93; 2008, ch. 6, art. 57; 2011, ch. 11, art. 8; 2012, ch. 1, art. 103 et 104; 2014, ch. 25, art. 42
+> 1992, ch. 20, ann. I; 1995, ch. 39, art. 165, ch. 42, art. 64 à 67; 2000, ch. 24, art. 41; 2001, ch. 41, art. 91 à 93; 2008, ch. 6, art. 57; 2011, ch. 11, art. 8; 2012, ch. 1, art. 103 et 104; 2014, ch. 25, art. 42; 2015, ch. 20, art. 30
 
 
 
