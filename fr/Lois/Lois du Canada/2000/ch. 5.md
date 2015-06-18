@@ -46,7 +46,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***activité commerciale*** Toute activité régulière ainsi que tout acte isolé qui revêtent un caractère commercial de par leur nature, y compris la vente, le troc ou la location de listes de donneurs, d’adhésion ou de collecte de fonds. (*commercial activity*)
 
+***atteinte aux mesures de sécurité*** Communication non autorisée ou perte de renseignements personnels, ou accès non autorisé à ceux-ci, par suite d’une atteinte aux mesures de sécurité d’une organisation prévues à l’article 4.7 de l’annexe 1 ou du fait que ces mesures n’ont pas été mises en place. (*breach of security safeguards*)
+
 ***commissaire*** Le Commissaire à la protection de la vie privée nommé en application de l’article 53 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md). (*Commissioner*)
+
+***coordonnées d’affaires*** Tout renseignement permettant d’entrer en contact — ou de faciliter la prise de contact — avec un individu dans le cadre de son emploi, de son entreprise ou de sa profession, tel que son nom, son poste ou son titre, l’adresse ou les numéros de téléphone ou de télécopieur de son lieu de travail ou son adresse électronique au travail. (*business contact information*)
 
 ***Cour*** La Cour fédérale. (*Court*)
 
@@ -59,14 +63,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **d)** les passages par eaux entre deux provinces ou entre une province et un pays étranger;
 - **e)** les aéroports, aéronefs ou lignes de transport aérien;
 - **f)** les stations de radiodiffusion;
-- **g)** les banques;
+- **g)** les banques ou les banques étrangères autorisées au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md);
 - **h)** les ouvrages qui, bien qu’entièrement situés dans une province, sont, avant ou après leur réalisation, déclarés par le Parlement être à l’avantage général du Canada ou à l’avantage de plusieurs provinces;
 - **i)** les installations, ouvrages, entreprises ou secteurs d’activité ne ressortissant pas au pouvoir législatif exclusif des législatures provinciales;
 - **j)** les installations, ouvrages, entreprises ou secteurs d’activité auxquels le droit, au sens de l’alinéa a) de la définition de ***droit*** à l’article 2 de la [Loi sur les océans](/fr/Lois/Lois%20du%20Canada/1996/ch.%2031.md), s’applique en vertu de l’article 20 de cette loi et des règlements pris en vertu de l’alinéa 26(1)k) de la même loi. (*federal work, undertaking or business*)
 
 ***organisation*** S’entend notamment des associations, sociétés de personnes, personnes et organisations syndicales. (*organization*)
 
-***renseignement personnel*** Tout renseignement concernant un individu identifiable, à l’exclusion du nom et du titre d’un employé d’une organisation et des adresse et numéro de téléphone de son lieu de travail. (*personal information*)
+***renseignement personnel*** Tout renseignement concernant un individu identifiable. (*personal information*)
 
 ***renseignement personnel sur la santé*** En ce qui concerne un individu vivant ou décédé :
 - **a)** tout renseignement ayant trait à sa santé physique ou mentale;
@@ -77,10 +81,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***support de substitution*** Tout support permettant à une personne ayant une déficience sensorielle de lire ou d’écouter des renseignements personnels. (*alternative format*)
 
+***transaction commerciale*** S’entend notamment des transactions suivantes :
+- **a)** l’achat, la vente ou toute autre forme d’acquisition ou de disposition de tout ou partie d’une organisation, ou de ses éléments d’actif;
+- **b)** la fusion ou le regroupement d’organisations;
+- **c)** le fait de consentir un prêt à tout ou partie d’une organisation ou de lui fournir toute autre forme de financement;
+- **d)** le fait de grever d’une charge ou d’une sûreté les éléments d’actif ou les titres d’une organisation;
+- **e)** la location d’éléments d’actif d’une organisation, ou l’octroi ou l’obtention d’une licence à leur égard;
+- **f)** tout autre arrangement prévu par règlement entre des organisations pour la poursuite d’activités d’affaires. (*business transaction*)
+
 **Notes de l’annexe 1**
 
 - **(2)** Dans la présente partie, la mention des articles 4.3 ou 4.9 de l’annexe 1 ne vise pas les notes afférentes.
-> 2000, ch. 5, art. 2; 2002, ch. 8, art. 183.
+> 2000, ch. 5, art. 2; 2002, ch. 8, art. 183; 2015, ch. 32, art. 2.
 
 
 
@@ -107,7 +119,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** La présente partie s’applique à toute organisation à l’égard des renseignements personnels :
 	- **a)** soit qu’elle recueille, utilise ou communique dans le cadre d’activités commerciales;
-	- **b)** soit qui concernent un de ses employés et qu’elle recueille, utilise ou communique dans le cadre d’une entreprise fédérale.
+	- **b)** soit qui concernent un de ses employés ou l’individu qui postule pour le devenir et qu’elle recueille, utilise ou communique dans le cadre d’une entreprise fédérale.
 
 **Limite**
 
@@ -121,6 +133,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - <sup><a href='#P-8.6_fr_1'>[*]</a></sup>**(3)** Toute disposition de la présente partie s’applique malgré toute disposition — édictée après l’entrée en vigueur du présent paragraphe — d’une autre loi fédérale, sauf dérogation expresse de la disposition de l’autre loi.
 
 <a name='P-8.6_fr_1'><sup>*</sup></a>: [Note : Paragraphe 4(3) en vigueur le 1<sup>er</sup> janvier 2001, *voir* TR/2000-29.]<br />
+> 2000, ch. 5, art. 4; 2015, ch. 32, art. 3.
+
+
+
+
+
+**Coordonnées d’affaires**
+
+**4.01** La présente partie ne s’applique pas à une organisation à l’égard des coordonnées d’affaires d’un individu qu’elle recueille, utilise ou communique uniquement pour entrer en contact — ou pour faciliter la prise de contact — avec lui dans le cadre de son emploi, de son entreprise ou de sa profession.
+> 2015, ch. 32, art. 4.
+
 
 
 
@@ -180,59 +203,81 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Collecte à l’insu de l’intéressé et sans son consentement**
+**Validité du consentement**
+
+**6.1** Pour l’application de l’article 4.3 de l’annexe 1, le consentement de l’intéressé n’est valable que s’il est raisonnable de s’attendre à ce qu’un individu visé par les activités de l’organisation comprenne la nature, les fins et les conséquences de la collecte, de l’utilisation ou de la communication des renseignements personnels auxquelles il a consenti.
+> 2015, ch. 32, art. 5.
+
+
+
+
+
+**Collecte à l’insu de l’intéressé ou sans son consentement**
 
 **7** 
 
-- **(1)** Pour l’application de l’article 4.3 de l’annexe 1 et malgré la note afférente, l’organisation ne peut recueillir de renseignement personnel à l’insu de l’intéressé et sans son consentement que dans les cas suivants :
+- **(1)** Pour l’application de l’article 4.3 de l’annexe 1 et malgré la note afférente, l’organisation ne peut recueillir de renseignement personnel à l’insu de l’intéressé ou sans son consentement que dans les cas suivants :
 	- **a)** la collecte du renseignement est manifestement dans l’intérêt de l’intéressé et le consentement ne peut être obtenu auprès de celui-ci en temps opportun;
-	- **b)** il est raisonnable de s’attendre à ce que la collecte effectuée au su ou avec le consentement de l’intéressé puisse compromettre l’exactitude du renseignement ou l’accès à celui-ci, et la collecte est raisonnable à des fins liées à une enquête sur la violation d’un accord ou la contravention du droit fédéral ou provincial;
+	- **b)** il est raisonnable de s’attendre à ce que la collecte effectuée au su ou avec le consentement de l’intéressé compromette l’exactitude du renseignement ou l’accès à celui-ci, et la collecte est raisonnable à des fins liées à une enquête sur la violation d’un accord ou la contravention au droit fédéral ou provincial;
+	- **b.1)** il s’agit d’un renseignement contenu dans la déclaration d’un témoin et dont la collecte est nécessaire en vue de l’évaluation d’une réclamation d’assurance, de son traitement ou de son règlement;
+	- **b.2)** il s’agit d’un renseignement produit par l’intéressé dans le cadre de son emploi, de son entreprise ou de sa profession, et dont la collecte est compatible avec les fins auxquelles il a été produit;
 	- **c)** la collecte est faite uniquement à des fins journalistiques, artistiques ou littéraires;
 	- **d)** il s’agit d’un renseignement réglementaire auquel le public a accès;
 	- **e)** la collecte est faite en vue :
-		- **(i)** soit de la communication prévue aux sous-alinéas (3)c.1)(i) ou d)(ii),
+		- **(i)** soit de la communication prévue aux sous-alinéas (3)c.1)(i) ou d)(ii),
 		- **(ii)** soit d’une communication exigée par la loi.
 
-**Utilisation à l’insu de l’intéressé et sans son consentement**
+**Utilisation à l’insu de l’intéressé ou sans son consentement**
 
-- **(2)** Pour l’application de l’article 4.3 de l’annexe 1 et malgré la note afférente, l’organisation ne peut utiliser de renseignement personnel à l’insu de l’intéressé et sans son consentement que dans les cas suivants :
+- **(2)** Pour l’application de l’article 4.3 de l’annexe 1 et malgré la note afférente, l’organisation ne peut utiliser de renseignement personnel à l’insu de l’intéressé ou sans son consentement que dans les cas suivants :
 	- **a)** dans le cadre de ses activités, l’organisation découvre l’existence d’un renseignement dont elle a des motifs raisonnables de croire qu’il pourrait être utile à une enquête sur une contravention au droit fédéral, provincial ou étranger qui a été commise ou est en train ou sur le point de l’être, et l’utilisation est faite aux fins d’enquête;
 	- **b)** l’utilisation est faite pour répondre à une situation d’urgence mettant en danger la vie, la santé ou la sécurité de tout individu;
+	- **b.1)** il s’agit d’un renseignement contenu dans la déclaration d’un témoin et dont l’utilisation est nécessaire en vue de l’évaluation d’une réclamation d’assurance, de son traitement ou de son règlement;
+	- **b.2)** il s’agit d’un renseignement produit par l’intéressé dans le cadre de son emploi, de son entreprise ou de sa profession, et dont l’utilisation est compatible avec les fins auxquelles il a été produit;
 	- **c)** l’utilisation est faite à des fins statistiques ou à des fins d’étude ou de recherche érudites, ces fins ne peuvent être réalisées sans que le renseignement soit utilisé, celui-ci est utilisé d’une manière qui en assure le caractère confidentiel, le consentement est pratiquement impossible à obtenir et l’organisation informe le commissaire de l’utilisation avant de la faire;
 	- **c.1)** il s’agit d’un renseignement réglementaire auquel le public a accès;
-	- **d)** le renseignement a été recueilli au titre des alinéas (1)a), b) ou e).
+	- **d)** le renseignement a été recueilli au titre des alinéas (1)a), b) ou e).
 
-**Communication à l’insu de l’intéressé et sans son consentement**
+**Communication à l’insu de l’intéressé ou sans son consentement**
 
-- **(3)** Pour l’application de l’article 4.3 de l’annexe 1 et malgré la note afférente, l’organisation ne peut communiquer de renseignement personnel à l’insu de l’intéressé et sans son consentement que dans les cas suivants :
+- **(3)** Pour l’application de l’article 4.3 de l’annexe 1 et malgré la note afférente, l’organisation ne peut communiquer de renseignement personnel à l’insu de l’intéressé ou sans son consentement que dans les cas suivants :
 	- **a)** la communication est faite à un avocat — dans la province de Québec, à un avocat ou à un notaire — qui représente l’organisation;
 	- **b)** elle est faite en vue du recouvrement d’une créance que celle-ci a contre l’intéressé;
 	- **c)** elle est exigée par assignation, mandat ou ordonnance d’un tribunal, d’une personne ou d’un organisme ayant le pouvoir de contraindre à la production de renseignements ou exigée par des règles de procédure se rapportant à la production de documents;
 	- **c.1)** elle est faite à une institution gouvernementale — ou à une subdivision d’une telle institution — qui a demandé à obtenir le renseignement en mentionnant la source de l’autorité légitime étayant son droit de l’obtenir et le fait, selon le cas :
 		- **(i)** qu’elle soupçonne que le renseignement est afférent à la sécurité nationale, à la défense du Canada ou à la conduite des affaires internationales,
 		- **(ii)** que la communication est demandée aux fins du contrôle d’application du droit canadien, provincial ou étranger, de la tenue d’enquêtes liées à ce contrôle d’application ou de la collecte de renseignements en matière de sécurité en vue de ce contrôle d’application,
-		- **(iii)** qu’elle est demandée pour l’application du droit canadien ou provincial;
-	- **c.2)** elle est faite au titre de l’article 7 de la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md) à l’institution gouvernementale mentionnée à cet article;
-	- <sup><a href='#P-8.6_fr_2'>[*]</a></sup>**c.2)** elle est faite au titre de l’article 7 de la Loi sur le recyclage des produits de la criminalité à l’institution gouvernementale mentionnée à cet article;
-
-<a name='P-8.6_fr_2'><sup>*</sup></a>: [Note : L’alinéa 7(3)c.2), édicté par l’alinéa 97(1)a) du chapitre 17 des Lois du Canada (2000), sera abrogé ultérieurement.]<br />
-	- **d)** elle est faite, à l’initiative de l’organisation, à un organisme d’enquête, une institution gouvernementale ou une subdivision d’une telle institution et l’organisation, selon le cas, a des motifs raisonnables de croire que le renseignement est afférent à la violation d’un accord ou à une contravention au droit fédéral, provincial ou étranger qui a été commise ou est en train ou sur le point de l’être ou soupçonne que le renseignement est afférent à la sécurité nationale, à la défense du Canada ou à la conduite des affaires internationales;
+		- **(iii)** qu’elle est demandée pour l’application du droit canadien ou provincial,
+		- **(iv)** qu’elle est demandée afin d’entrer en contact avec le plus proche parent d’un individu blessé, malade ou décédé, ou avec son représentant autorisé;
+	- **c.2)** elle est faite au titre de l’article 7 de la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md) à l’institution gouvernementale mentionnée à cet article;
+	- **d)** elle est faite, à l’initiative de l’organisation, à une institution gouvernementale ou une subdivision d’une telle institution et l’organisation :
+		- **(i)** soit a des motifs raisonnables de croire que le renseignement est afférent à une contravention au droit fédéral, provincial ou étranger qui a été commise ou est en train ou sur le point de l’être,
+		- **(ii)** soit soupçonne que le renseignement est afférent à la sécurité nationale, à la défense du Canada ou à la conduite des affaires internationales;
+	- **d.1)** elle est faite à une autre organisation et est raisonnable en vue d’une enquête sur la violation d’un accord ou sur la contravention au droit fédéral ou provincial qui a été commise ou est en train ou sur le point de l’être, s’il est raisonnable de s’attendre à ce que la communication effectuée au su ou avec le consentement de l’intéressé compromettrait l’enquête;
+	- **d.2)** elle est faite à une autre organisation et est raisonnable en vue de la détection d’une fraude ou de sa suppression ou en vue de la prévention d’une fraude dont la commission est vraisemblable, s’il est raisonnable de s’attendre à ce que la communication effectuée au su ou avec le consentement de l’intéressé compromettrait la capacité de prévenir la fraude, de la détecter ou d’y mettre fin;
+	- **d.3)** elle est faite, à l’initiative de l’organisation, à une institution gouvernementale ou à une subdivision d’une telle institution, au plus proche parent de l’intéressé ou à son représentant autorisé, si les conditions ci-après sont remplies :
+		- **(i)** l’organisation a des motifs raisonnables de croire que l’intéressé a été, est ou pourrait être victime d’exploitation financière,
+		- **(ii)** la communication est faite uniquement à des fins liées à la prévention de l’exploitation ou à une enquête y ayant trait,
+		- **(iii)** il est raisonnable de s’attendre à ce que la communication effectuée au su ou avec le consentement de l’intéressé compromettrait la capacité de prévenir l’exploitation ou d’enquêter sur celle-ci;
+	- **d.4)** elle est nécessaire aux fins d’identification de l’intéressé qui est blessé, malade ou décédé et est faite à une institution gouvernementale ou à une subdivision d’une telle institution, à un proche parent de l’intéressé ou à son représentant autorisé et, si l’intéressé est vivant, l’organisation en informe celui-ci par écrit et sans délai;
 	- **e)** elle est faite à toute personne qui a besoin du renseignement en raison d’une situation d’urgence mettant en danger la vie, la santé ou la sécurité de toute personne et, dans le cas où la personne visée par le renseignement est vivante, l’organisation en informe par écrit et sans délai cette dernière;
-	- **f)** elle est faite à des fins statistiques ou à des fins d’étude ou de recherche érudites, ces fins ne peuvent être réalisées sans que le renseignement soit communiqué, le consentement est pratiquement impossible à obtenir et l’organisation informe le commissaire de la communication avant de la faire;
+	- **e.1)** il s’agit d’un renseignement contenu dans la déclaration d’un témoin et dont la communication est nécessaire en vue de l’évaluation d’une réclamation d’assurance, de son traitement ou de son règlement;
+	- **e.2)** il s’agit d’un renseignement produit par l’intéressé dans le cadre de son emploi, de son entreprise, ou de sa profession, et dont la communication est compatible avec les fins auxquelles il a été produit;
+	- **f)** la communication est faite à des fins statistiques ou à des fins d’étude ou de recherche érudites, ces fins ne peuvent être réalisées sans que le renseignement soit communiqué, le consentement est pratiquement impossible à obtenir et l’organisation informe le commissaire de la communication avant de la faire;
 	- **g)** elle est faite à une institution dont les attributions comprennent la conservation de documents ayant une importance historique ou archivistique, en vue d’une telle conservation;
 	- **h)** elle est faite cent ans ou plus après la constitution du document contenant le renseignement ou, en cas de décès de l’intéressé, vingt ans ou plus après le décès, dans la limite de cent ans;
 	- **h.1)** il s’agit d’un renseignement réglementaire auquel le public a accès;
-	- **h.2)** elle est faite par un organisme d’enquête et est raisonnable à des fins liées à une enquête sur la violation d’un accord ou la contravention du droit fédéral ou provincial;
-	- **i)** elle est exigée par la loi.
+	- **h.2)** [Abrogé, 2015, ch. 32, art. 6]
+	- **i)** la communication est exigée par la loi.
 
 **Utilisation sans le consentement de l’intéressé**
 
-- **(4)** Malgré l’article 4.5 de l’annexe 1, l’organisation peut, dans les cas visés au paragraphe (2), utiliser un renseignement personnel à des fins autres que celles auxquelles il a été recueilli.
+- **(4)** Malgré l’article 4.5 de l’annexe 1, l’organisation peut, dans les cas visés au paragraphe (2), utiliser un renseignement personnel à des fins autres que celles auxquelles il a été recueilli.
 
-**Communication sans le consentement de l’intéressé**
+**Communication sans consentement**
 
-- **(5)** Malgré l’article 4.5 de l’annexe 1, l’organisation peut, dans les cas visés aux alinéas (3)a) à h.2), communiquer un renseignement personnel à des fins autres que celles auxquelles il a été recueilli.
-> 2000, ch. 5, art. 7, ch. 17, art. 97; 2001, ch. 41, art. 81; 2004, ch. 15, art. 98.
+- **(5)** Malgré l’article 4.5 de l’annexe 1, l’organisation peut, dans les cas visés aux alinéas (3)a) à h.1), communiquer un renseignement personnel à des fins autres que celles auxquelles il a été recueilli.
+> 2000, ch. 5, art. 7, ch. 17, art. 97; 2001, ch. 41, art. 81; 2004, ch. 15, art. 98; 2015, ch. 32, art. 6.
 
 
 
@@ -257,7 +302,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Collecte, utilisation et communication d’adresses électroniques**
 
-- **(2)** Les alinéas 7(1)a), c) et d) et (2)a) à c.1) et l’exception prévue à l’article 4.3 de l’annexe 1 ne s’appliquent pas :
+- **(2)** Les alinéas 7(1)a) et b.1) à d) et (2)a) à c.1) et l’exception prévue à l’article 4.3 de l’annexe 1 ne s’appliquent pas :
 	- **a)** à la collecte de l’adresse électronique d’un individu effectuée à l’aide d’un programme d’ordinateur conçu ou mis en marché principalement pour produire ou rechercher des adresses électroniques et les recueillir;
 	- **b)** à l’utilisation d’une telle adresse recueillie à l’aide d’un programme d’ordinateur visé à l’alinéa a).
 
@@ -266,7 +311,65 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(3)** Les alinéas 7(1)a) à d) et (2)a) à c.1) et l’exception prévue à l’article 4.3 de l’annexe 1 ne s’appliquent pas :
 	- **a)** à la collecte de renseignements personnels, par tout moyen de télécommunication, dans le cas où l’organisation qui y procède le fait en utilisant ou faisant utiliser un ordinateur en contravention d’une loi fédérale;
 	- **b)** à l’utilisation de renseignements personnels dont la collecte est visée à l’alinéa a).
-> 2010, ch. 23, art. 82.
+> 2010, ch. 23, art. 82; 2015, ch. 32, art. 26.
+
+
+
+
+
+**Transaction commerciale éventuelle**
+
+**7.2** 
+
+- **(1)** En plus des cas visés aux paragraphes 7(2) et (3), pour l’application de l’article 4.3 de l’annexe 1 et malgré la note afférente, les organisations qui sont parties à une éventuelle transaction commerciale peuvent utiliser et communiquer des renseignements personnels à l’insu de l’intéressé ou sans son consentement si, à la fois :
+	- **a)** elles ont conclu un accord aux termes duquel l’organisation recevant des renseignements s’est engagée :
+		- **(i)** à ne les utiliser et à ne les communiquer qu’à des fins liées à la transaction,
+		- **(ii)** à les protéger au moyen de mesures de sécurité correspondant à leur degré de sensibilité,
+		- **(iii)** si la transaction n’a pas lieu, à les remettre à l’organisation qui les lui a communiqués ou à les détruire, dans un délai raisonnable;
+	- **b)** les renseignements sont nécessaires pour décider si la transaction aura lieu et, le cas échéant, pour l’effectuer.
+
+**Transaction commerciale effectuée**
+
+- **(2)** En plus des cas visés aux paragraphes 7(2) et (3), pour l’application de l’article 4.3 de l’annexe 1 et malgré la note afférente, si la transaction commerciale est effectuée, les organisations y étant parties peuvent utiliser et communiquer les renseignements personnels, communiqués en vertu du paragraphe (1), à l’insu de l’intéressé ou sans son consentement dans le cas où :
+	- **a)** elles ont conclu un accord aux termes duquel chacune d’entre elles s’est engagée :
+		- **(i)** à n’utiliser et ne communiquer les renseignements dont elle a la gestion qu’aux fins auxquelles ils ont été recueillis ou auxquelles il était permis de les utiliser ou de les communiquer avant que la transaction ne soit effectuée,
+		- **(ii)** à les protéger au moyen de mesures de sécurité correspondant à leur degré de sensibilité,
+		- **(iii)** à donner effet à tout retrait de consentement fait en conformité avec l’article 4.3.8 de l’annexe 1;
+	- **b)** les renseignements sont nécessaires à la poursuite de l’entreprise ou des activités faisant l’objet de la transaction;
+	- **c)** dans un délai raisonnable après que la transaction a été effectuée, l’une des parties avise l’intéressé du fait que la transaction a été effectuée et que ses renseignements personnels ont été communiqués en vertu du paragraphe (1).
+
+**Valeur contraignante des accords**
+
+- **(3)** L’organisation est tenue de se conformer aux modalités de tout accord conclu aux termes des alinéas (1)a) ou (2)a).
+
+**Exception**
+
+- **(4)** Les paragraphes (1) et (2) ne s’appliquent pas à l’égard de la transaction commerciale dont l’objectif premier ou le résultat principal est l’achat, la vente ou toute autre forme d’acquisition ou de disposition de renseignements personnels, ou leur location.
+> 2015, ch. 32, art. 7.
+
+
+
+
+
+**Relation d’emploi**
+
+**7.3** En plus des cas visés à l’article 7, pour l’application de l’article 4.3 de l’annexe 1 et malgré la note afférente, une entreprise fédérale peut recueillir, utiliser ou communiquer des renseignements personnels sans le consentement de l’intéressé si cela est nécessaire pour établir ou gérer la relation d’emploi entre elle et lui, ou pour y mettre fin, et si elle a au préalable informé l’intéressé que ses renseignements personnels seront ou pourraient être recueillis, utilisés ou communiqués à ces fins.
+> 2015, ch. 32, art. 7.
+
+
+
+
+
+**Utilisation sans le consentement de l’intéressé**
+
+**7.4** 
+
+- **(1)** Malgré l’article 4.5 de l’annexe 1, l’organisation peut, dans les cas visés aux paragraphes 7.2(1) ou (2) ou à l’article 7.3, utiliser un renseignement personnel à des fins autres que celles auxquelles il a été recueilli.
+
+**Communication sans le consentement de l’intéressé**
+
+- **(2)** Malgré l’article 4.5 de l’annexe 1, l’organisation peut, dans les cas visés aux paragraphes 7.2(1) ou (2) ou à l’article 7.3, communiquer un renseignement personnel à des fins autres que celles auxquelles il a été recueilli.
+> 2015, ch. 32, art. 7.
 
 
 
@@ -276,7 +379,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **8** 
 
-- **(1)** La demande prévue à l’article 4.9 de l’annexe 1 est présentée par écrit.
+- **(1)** La demande prévue à l’article 4.9 de l’annexe 1 est présentée par écrit.
 
 **Aide à fournir**
 
@@ -288,8 +391,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Prorogation du délai**
 
-- **(4)** Elle peut toutefois proroger le délai visé au paragraphe (3) :
-	- **a)** d’une période maximale de trente jours dans les cas où :
+- **(4)** Elle peut toutefois proroger le délai visé au paragraphe (3) :
+	- **a)** d’une période maximale de trente jours dans les cas où :
 		- **(i)** l’observation du délai entraverait gravement l’activité de l’organisation,
 		- **(ii)** toute consultation nécessaire pour donner suite à la demande rendrait pratiquement impossible l’observation du délai;
 	- **b)** de la période nécessaire au transfert des renseignements visés sur support de substitution.
@@ -309,7 +412,9 @@ Dans l’un ou l’autre cas, l’organisation envoie au demandeur, dans les tre
 
 **Conservation des renseignements**
 
-- **(8)** Malgré l’article 4.5 de l’annexe 1, l’organisation qui détient un renseignement faisant l’objet d’une demande doit le conserver le temps nécessaire pour permettre au demandeur d’épuiser ses recours.
+- **(8)** Malgré l’article 4.5 de l’annexe 1, l’organisation qui détient un renseignement faisant l’objet d’une demande doit le conserver le temps nécessaire pour permettre au demandeur d’épuiser tous les recours qu’il a en vertu de la présente partie.
+> 2000, ch. 5, art. 8; 2015, ch. 32, art. 8(F).
+
 
 
 
@@ -318,65 +423,62 @@ Dans l’un ou l’autre cas, l’organisation envoie au demandeur, dans les tre
 
 **9** 
 
-- **(1)** Malgré l’article 4.9 de l’annexe 1, l’organisation ne peut communiquer de renseignement à l’intéressé dans le cas où cette communication révélerait vraisemblablement un renseignement personnel sur un tiers. Toutefois, si ce dernier renseignement peut être retranché du document en cause, l’organisation est tenue de le retrancher puis de communiquer à l’intéressé le renseignement le concernant.
+- **(1)** Malgré l’article 4.9 de l’annexe 1, l’organisation ne peut communiquer de renseignement à l’intéressé dans le cas où cette communication révélerait vraisemblablement un renseignement personnel sur un tiers. Toutefois, si ce dernier renseignement peut être retranché du document en cause, l’organisation est tenue de le retrancher puis de communiquer à l’intéressé le renseignement le concernant.
 
 **Non-application**
 
-- **(2)** Le paragraphe (1) ne s’applique pas si le tiers consent à la communication ou si l’intéressé a besoin du renseignement parce que la vie, la santé ou la sécurité d’un individu est en danger.
+- **(2)** Le paragraphe (1) ne s’applique pas si le tiers consent à la communication ou si l’intéressé a besoin du renseignement parce que la vie, la santé ou la sécurité d’un individu est en danger.
 
-**Renseignements relatifs aux al. 7(3)c), c.1) ou d)**
+**Renseignements relatifs aux al. 7(3)c), c.1) ou d)**
 
-- **(2.1)** L’organisation est tenue de se conformer au paragraphe (2.2) si l’intéressé lui demande :
-	- **a)** de l’aviser, selon le cas :
-		- **(i)** de toute communication faite à une institution gouvernementale ou à une subdivision d’une telle institution en vertu de l’alinéa 7(3)c), des sous-alinéas 7(3)c.1) (i) ou (ii) ou des alinéas 7(3)c.2) ou d),
-		- **(ii)** de l’existence de renseignements détenus par l’organisation et relatifs soit à toute telle communication, soit à une assignation, un mandat ou une ordonnance visés à l’alinéa 7(3)c), soit à une demande de communication faite par une institution gouvernementale ou une subdivision d’une telle institution en vertu de ces sous-alinéas;
+- **(2.1)** L’organisation est tenue de se conformer au paragraphe (2.2) si l’intéressé lui demande :
+	- **a)** de l’aviser, selon le cas :
+		- **(i)** de toute communication faite à une institution gouvernementale ou à une subdivision d’une telle institution en vertu de l’alinéa 7(3)c), des sous-alinéas 7(3)c.1) (i) ou (ii) ou des alinéas 7(3)c.2) ou d),
+		- **(ii)** de l’existence de renseignements détenus par l’organisation et relatifs soit à toute telle communication, soit à une assignation, un mandat ou une ordonnance visés à l’alinéa 7(3)c), soit à une demande de communication faite par une institution gouvernementale ou une subdivision d’une telle institution en vertu de ces sous-alinéas;
 	- **b)** de lui communiquer ces renseignements.
 
 **Notification et réponse**
 
-- **(2.2)** Le cas échéant, l’organisation :
+- **(2.2)** Le cas échéant, l’organisation :
 	- **a)** notifie par écrit et sans délai la demande à l’institution gouvernementale ou à la subdivision d’une telle institution concernée;
-	- **b)** ne peut donner suite à la demande avant le jour où elle reçoit l’avis prévu au paragraphe (2.3) ou, s’il est antérieur, le trentième jour suivant celui où l’institution ou la subdivision reçoit notification.
+	- **b)** ne peut donner suite à la demande avant le jour où elle reçoit l’avis prévu au paragraphe (2.3) ou, s’il est antérieur, le trentième jour suivant celui où l’institution ou la subdivision reçoit notification.
 
 **Opposition**
 
-- **(2.3)** Dans les trente jours suivant celui où la demande lui est notifiée, l’institution ou la subdivision avise l’organisation du fait qu’elle s’oppose ou non à ce que celle-ci acquiesce à la demande. Elle ne peut s’y opposer que si elle est d’avis que faire droit à la demande risquerait vraisemblablement de nuire :
+- **(2.3)** Dans les trente jours suivant celui où la demande lui est notifiée, l’institution ou la subdivision avise l’organisation du fait qu’elle s’oppose ou non à ce que celle-ci acquiesce à la demande. Elle ne peut s’y opposer que si elle est d’avis que faire droit à la demande risquerait vraisemblablement de nuire :
 	- **a)** à la sécurité nationale, à la défense du Canada ou à la conduite des affaires internationales;
 	- **a.1)** à la détection, à la prévention ou à la dissuasion du recyclage des produits de la criminalité ou du financement des activités terroristes;
-	- <sup><a href='#P-8.6_fr_3'>[*]</a></sup>**a.1)** à la détection, à la prévention ou à la dissuasion du recyclage des produits de la criminalité;
-
-<a name='P-8.6_fr_3'><sup>*</sup></a>: [Note : L’alinéa 9(2.3)a.1), édicté par l’alinéa 97(1)c) du chapitre 17 des Lois du Canada (2000), sera abrogé ultérieurement.]<br />
 	- **b)** au contrôle d’application du droit canadien, provincial ou étranger, à une enquête liée à ce contrôle d’application ou à la collecte de renseignements en matière de sécurité en vue de ce contrôle d’application.
 
 **Refus d’acquiescer à la demande**
 
-- **(2.4)** Malgré l’article 4.9 de l’annexe 1, si elle est informée que l’institution ou la subdivision s’oppose à ce qu’elle acquiesce à la demande, l’organisation :
-	- **a)** refuse d’y acquiescer dans la mesure où la demande est visée à l’alinéa (2.1)a) ou se rapporte à des renseignements visés à cet alinéa;
+- **(2.4)** Malgré l’article 4.9 de l’annexe 1, si elle est informée que l’institution ou la subdivision s’oppose à ce qu’elle acquiesce à la demande, l’organisation :
+	- **a)** refuse d’y acquiescer dans la mesure où la demande est visée à l’alinéa (2.1)a) ou se rapporte à des renseignements visés à cet alinéa;
 	- **b)** en avise par écrit et sans délai le commissaire;
-	- **c)** ne communique à l’intéressé :
-		- **(i)** ni les renseignements détenus par l’organisation et relatifs à toute communication faite à une institution gouvernementale ou à une subdivision d’une telle institution en vertu de l’alinéa 7(3)c), des sous-alinéas 7(3)c.1)(i) ou (ii) ou des alinéas 7(3)c.2) ou d) ou à une demande de communication faite par une institution gouvernementale ou une subdivision d’une telle institution en vertu de ces sous-alinéas.
-		- **(ii)** ni le fait qu’il y a eu notification de la demande à l’institution gouvernementale ou à une subdivision en application de l’alinéa (2.2)a) ou que le commissaire en a été avisé en application de l’alinéa b),
-		- **(iii)** ni le fait que l’institution ou la subdivision s’oppose à ce que l’organisme acquiesce à la demande.
+	- **c)** ne communique à l’intéressé :
+		- **(i)** ni les renseignements détenus par l’organisation et relatifs à toute communication faite à une institution gouvernementale ou à une subdivision d’une telle institution en vertu de l’alinéa 7(3)c), des sous-alinéas 7(3)c.1)(i) ou (ii) ou des alinéas 7(3)c.2) ou d) ou à une demande de communication faite par une institution gouvernementale ou une subdivision d’une telle institution en vertu de ces sous-alinéas.
+		- **(ii)** ni le fait qu’il y a eu notification de la demande à l’institution gouvernementale ou à une subdivision en application de l’alinéa (2.2)a) ou que le commissaire en a été avisé en application de l’alinéa b),
+		- **(iii)** ni le fait que l’institution ou la subdivision s’oppose à ce que l’organisation acquiesce à la demande.
 
 **Cas où la communication peut être refusée**
 
-- **(3)** Malgré la note afférente à l’article 4.9 de l’annexe 1, l’organisation n’est pas tenue de communiquer à l’intéressé des renseignements personnels dans les cas suivants seulement :
-	- **a)** les renseignements sont protégés par le secret professionnel liant l’avocat à son client;
+- **(3)** Malgré la note afférente à l’article 4.9 de l’annexe 1, l’organisation n’est pas tenue de communiquer à l’intéressé des renseignements personnels dans les cas suivants seulement :
+	- **a)** les renseignements sont protégés par le secret professionnel liant l’avocat ou le notaire à son client;
 	- **b)** la communication révélerait des renseignements commerciaux confidentiels;
 	- **c)** elle risquerait vraisemblablement de nuire à la vie ou la sécurité d’un autre individu;
-	- **c.1)** les renseignements ont été recueillis au titre de l’alinéa 7(1)b);
+	- **c.1)** les renseignements ont été recueillis au titre de l’alinéa 7(1)b);
 	- **d)** les renseignements ont été fournis uniquement à l’occasion d’un règlement officiel des différends;
 	- **e)** les renseignements ont été créés en vue de faire une divulgation au titre de la [Loi sur la protection des fonctionnaires divulgateurs d’actes répréhensibles](/fr/Lois/Lois%20du%20Canada/2005/ch.%2046.md) ou dans le cadre d’une enquête menée sur une divulgation en vertu de cette loi.
-Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements commerciaux confidentiels ou les renseignements dont la communication risquerait vraisemblablement de nuire à la vie ou la sécurité d’un autre individu peuvent être retranchés du document en cause, l’organisation est tenue de faire la communication en retranchant ces renseignements.
+Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements commerciaux confidentiels ou les renseignements dont la communication risquerait vraisemblablement de nuire à la vie ou la sécurité d’un autre individu peuvent être retranchés du document en cause, l’organisation est tenue de faire la communication en retranchant ces renseignements.
 
 **Non-application**
 
-- **(4)** Le paragraphe (3) ne s’applique pas si l’intéressé a besoin des renseignements parce que la vie, la santé ou la sécurité d’un individu est en danger.
+- **(4)** Le paragraphe (3) ne s’applique pas si l’intéressé a besoin des renseignements parce que la vie, la santé ou la sécurité d’un individu est en danger.
 
 **Avis**
 
-- **(5)** Si elle décide de ne pas communiquer les renseignements dans le cas visé à l’alinéa (3)c.1), l’organisation en avise par écrit le commissaire et lui fournit les renseignements qu’il peut préciser.
-> 2000, ch. 5, art. 9, ch. 17, art. 97; 2001, ch. 41, art. 82; 2005, ch. 46, art. 57; 2006, ch. 9, art. 223.
+- **(5)** Si elle décide de ne pas communiquer les renseignements dans le cas visé à l’alinéa (3)c.1), l’organisation en avise par écrit le commissaire et lui fournit les renseignements qu’il peut préciser.
+> 2000, ch. 5, art. 9, ch. 17, art. 97; 2001, ch. 41, art. 82; 2005, ch. 46, art. 57; 2006, ch. 9, art. 223; 2015, ch. 32, art. 9.
 
 
 
@@ -496,19 +598,20 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements comm
 	- **a)** qu’il n’existe pas suffisamment d’éléments de preuve pour le poursuivre;
 	- **b)** que la plainte est futile, vexatoire ou entachée de mauvaise foi;
 	- **c)** que l’organisation a apporté une réponse juste et équitable à la plainte;
+	- **c.1)** que la question qui a donné lieu à la plainte fait l’objet d’un accord de conformité conclu en vertu du paragraphe 17.1(1);
 	- **d)** que la plainte fait déjà l’objet d’une enquête au titre de la présente partie;
 	- **e)** qu’il a déjà dressé un rapport sur l’objet de la plainte;
-	- **f)** que les circonstances visées à l’un des alinéas 12(1)a) à c) existent;
-	- **g)** que la plainte fait ou a fait l’objet d’un recours ou d’une procédure visés à l’alinéa 12(1)a) ou est ou a été instruite selon des procédures visées à l’alinéa 12(1)b).
+	- **f)** que les circonstances visées à l’un des alinéas 12(1)a) à c) existent;
+	- **g)** que la plainte fait ou a fait l’objet d’un recours ou d’une procédure visés à l’alinéa 12(1)a) ou est ou a été instruite selon des procédures visées à l’alinéa 12(1)b).
 
 **Autre motif**
 
-- **(2)** Le commissaire peut mettre fin à l’examen de tout acte allégué dans la plainte qui, à son avis, constituerait, s’il était prouvé, une contravention à l’un des articles 6 à 9 de la [Loi visant à promouvoir l’efficacité et la capacité d’adaptation de l’économie canadienne par la réglementation de certaines pratiques qui découragent l’exercice des activités commerciales par voie électronique et modifiant la Loi sur le Conseil de la radiodiffusion et des télécommunications canadiennes, la Loi sur la concurrence, la Loi sur la protection des renseignements personnels et les documents électroniques et la Loi sur les télécommunications](/fr/Lois/Lois%20du%20Canada/2010/ch.%2023.md) ou à l’article 52.01 de la [Loi sur la concurrence](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-34.md) ou un comportement susceptible d’examen visé à l’article 74.011 de cette loi.
+- **(2)** Le commissaire peut mettre fin à l’examen de tout acte allégué dans la plainte qui, à son avis, constituerait, s’il était prouvé, une contravention à l’un des articles 6 à 9 de la [Loi visant à promouvoir l’efficacité et la capacité d’adaptation de l’économie canadienne par la réglementation de certaines pratiques qui découragent l’exercice des activités commerciales par voie électronique et modifiant la Loi sur le Conseil de la radiodiffusion et des télécommunications canadiennes, la Loi sur la concurrence, la Loi sur la protection des renseignements personnels et les documents électroniques et la Loi sur les télécommunications](/fr/Lois/Lois%20du%20Canada/2010/ch.%2023.md) ou à l’article 52.01 de la [Loi sur la concurrence](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-34.md) ou un comportement susceptible d’examen visé à l’article 74.011 de cette loi.
 
 **Avis aux parties**
 
 - **(3)** Le commissaire avise le plaignant et l’organisation de la fin de l’examen et des motifs qui la justifient.
-> 2010, ch. 23, art. 83.
+> 2010, ch. 23, art. 83; 2015, ch. 32, art. 12.
 
 
 
@@ -547,16 +650,16 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements comm
 
 **14** 
 
-- **(1)** Après avoir reçu le rapport du commissaire ou l’avis l’informant de la fin de l’examen de la plainte au titre du paragraphe 12.2(3), le plaignant peut demander que la Cour entende toute question qui a fait l’objet de la plainte — ou qui est mentionnée dans le rapport — et qui est visée aux articles 4.1.3, 4.2, 4.3.3, 4.4, 4.6, 4.7 ou 4.8 de l’annexe 1, aux articles 4.3, 4.5 ou 4.9 de cette annexe tels qu’ils sont modifiés ou clarifiés par la section 1, aux paragraphes 5(3) ou 8(6) ou (7) ou à l’article 10.
+- **(1)** Après avoir reçu le rapport du commissaire ou l’avis l’informant de la fin de l’examen de la plainte au titre du paragraphe 12.2(3), le plaignant peut demander que la Cour entende toute question qui a fait l’objet de la plainte — ou qui est mentionnée dans le rapport — et qui est visée aux articles 4.1.3, 4.2, 4.3.3, 4.4, 4.6, 4.7 ou 4.8 de l’annexe 1, aux articles 4.3, 4.5 ou 4.9 de cette annexe tels qu’ils sont modifiés ou clarifiés par les sections 1 ou 1.1, aux paragraphes 5(3) ou 8(6) ou (7), à l’article 10 ou à la section 1.1.
 
-**Délai**
+**Délai de la demande**
 
-- **(2)** La demande est faite dans les quarante-cinq jours suivant la transmission du rapport ou de l’avis ou dans le délai supérieur que la Cour autorise avant ou après l’expiration des quarante-cinq jours.
+- **(2)** La demande est faite dans l’année suivant la transmission du rapport ou de l’avis ou dans le délai supérieur que la Cour autorise avant ou après l’expiration de l’année.
 
 **Précision**
 
-- **(3)** Il est entendu que les paragraphes (1) et (2) s’appliquent de la même façon aux plaintes visées au paragraphe 11(2) qu’à celles visées au paragraphe 11(1).
-> 2000, ch. 5, art. 14; 2010, ch. 23, art. 85.
+- **(3)** Il est entendu que les paragraphes (1) et (2) s’appliquent de la même façon aux plaintes visées au paragraphe 11(2) qu’à celles visées au paragraphe 11(1).
+> 2000, ch. 5, art. 14; 2010, ch. 23, art. 85; 2015, ch. 32, art. 13.
 
 
 
@@ -595,6 +698,56 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements comm
 
 
 
+#### Accord de conformité
+
+
+
+**Conclusion d’un accord de conformité**
+
+**17.1** 
+
+- **(1)** Le commissaire peut, s’il a des motifs raisonnables de croire à l’existence, à l’imminence ou à la probabilité d’un fait — acte ou omission — pouvant constituer une contravention à l’une des dispositions des sections 1 ou 1.1 ou une omission de mettre en oeuvre une recommandation énoncée dans l’annexe 1, conclure avec l’organisation intéressée un accord, appelé « accord de conformité », visant à faire respecter la présente partie.
+
+**Conditions**
+
+- **(2)** L’accord de conformité est assorti des conditions que le commissaire estime nécessaires pour faire respecter la présente partie.
+
+**Effet de l’accord de conformité**
+
+- **(3)** Lorsqu’un accord de conformité a été conclu, le commissaire :
+	- **a)** ne peut demander à la Cour, aux termes du paragraphe 14(1) ou de l’alinéa 15a), une audition à l’égard de toute question visée par l’accord;
+	- **b)** demande la suspension de toute demande d’audition d’une question visée par l’accord qu’il a faite et qui est pendante au moment de la conclusion de l’accord.
+
+**Précision**
+
+- **(4)** Il est entendu que la conclusion de l’accord n’a pas pour effet d’empêcher les poursuites pour infraction à la présente loi, ou d’empêcher un plaignant — autre que le commissaire — de faire une demande d’audition de la question aux termes de l’article 14.
+> 2015, ch. 32, art. 15.
+
+
+
+
+
+**Accord respecté**
+
+**17.2** 
+
+- **(1)** S’il estime que l’accord de conformité a été respecté, le commissaire en fait part à l’organisation intéressée par avis écrit et il retire toute demande d’audition, faite aux termes du paragraphe 14(1) ou de l’alinéa 15a), d’une question visée par l’accord.
+
+**Accord non respecté**
+
+- **(2)** S’il estime que l’accord de conformité n’a pas été respecté, le commissaire envoie à l’organisation intéressée un avis de défaut. Il peut alors demander à la Cour :
+	- **a)** soit une ordonnance enjoignant à l’organisation de se conformer aux conditions de l’accord de conformité, en sus de toute autre réparation que la Cour peut accorder;
+	- **b)** soit une audition de la question, aux termes du paragraphe 14(1) ou de l’alinéa 15a) ou, en cas de suspension de l’audition à la suite d’une demande faite en application de l’alinéa 17.1(3)b), le rétablissement de l’audition.
+
+**Délai de la demande**
+
+- **(3)** Malgré le paragraphe 14(2), la demande est faite dans l’année suivant l’envoi de l’avis de défaut ou dans le délai supérieur que la Cour autorise avant ou après l’expiration de l’année.
+> 2015, ch. 32, art. 15.
+
+
+
+
+
 **SECTION 3** 
 ### Vérifications
 
@@ -604,17 +757,17 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements comm
 
 **18** 
 
-- **(1)** Le commissaire peut, sur préavis suffisant et à toute heure convenable, procéder à la vérification des pratiques de l’organisation en matière de gestion des renseignements personnels s’il a des motifs raisonnables de croire que celle-ci a contrevenu à l’une des dispositions de la section 1 ou n’a pas mis en oeuvre une recommandation énoncée dans l’annexe 1; il a, à cette fin, le pouvoir :
+- **(1)** Le commissaire peut, sur préavis suffisant et à toute heure convenable, procéder à la vérification des pratiques de l’organisation en matière de gestion des renseignements personnels s’il a des motifs raisonnables de croire que celle-ci a contrevenu à l’une des dispositions des sections 1 ou 1.1 ou n’a pas mis en oeuvre une recommandation énoncée dans l’annexe 1; il a, à cette fin, le pouvoir :
 	- **a)** d’assigner et de contraindre des témoins à comparaître devant lui, à déposer verbalement ou par écrit sous la foi du serment et à produire les documents ou pièces qu’il juge nécessaires pour procéder à la vérification, de la même façon et dans la même mesure qu’une cour supérieure d’archives;
 	- **b)** de faire prêter serment;
 	- **c)** de recevoir les éléments de preuve ou les renseignements — fournis notamment par déclaration verbale ou écrite sous serment — qu’il estime indiqués, indépendamment de leur admissibilité devant les tribunaux;
 	- **d)** de visiter, à toute heure convenable, tout local — autre qu’une maison d’habitation — occupé par l’organisation, à condition de satisfaire aux normes de sécurité établies par elle pour ce local;
-	- **e)** de s’entretenir en privé avec toute personne se trouvant dans le local visé à l’alinéa d) et d’y mener les enquêtes qu’il estime nécessaires;
-	- **f)** d’examiner ou de se faire remettre des copies ou des extraits des documents contenant des éléments utiles à la vérification et trouvés dans le local visé à l’alinéa d).
+	- **e)** de s’entretenir en privé avec toute personne se trouvant dans le local visé à l’alinéa d) et d’y mener les enquêtes qu’il estime nécessaires;
+	- **f)** d’examiner ou de se faire remettre des copies ou des extraits des documents contenant des éléments utiles à la vérification et trouvés dans le local visé à l’alinéa d).
 
 **Délégation**
 
-- **(2)** Il peut déléguer les pouvoirs que le paragraphe (1) lui confère.
+- **(2)** Il peut déléguer les pouvoirs que le paragraphe (1) lui confère.
 
 **Renvoi des documents**
 
@@ -622,7 +775,9 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements comm
 
 **Certificat**
 
-- **(4)** Chaque personne à qui les pouvoirs visés au paragraphe (1) sont délégués reçoit un certificat attestant sa qualité, qu’il présente, sur demande, au responsable du local qui sera visité en application de l’alinéa (1)d).
+- **(4)** Chaque personne à qui les pouvoirs visés au paragraphe (1) sont délégués reçoit un certificat attestant sa qualité, qu’il présente, sur demande, au responsable du local qui sera visité en application de l’alinéa (1)d).
+> 2000, ch. 5, art. 18; 2015, ch. 32, art. 16.
+
 
 
 
@@ -649,21 +804,26 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements comm
 
 **20** 
 
-- **(1)** Sous réserve des paragraphes (2) à (6), 12(3), 12.2(3), 13(3), 19(1), 23(3) et 23.1(1) et de l’article 25, le commissaire et les personnes agissant en son nom ou sous son autorité sont tenus au secret en ce qui concerne les renseignements dont ils prennent connaissance par suite de l’exercice des attributions que la présente partie confère au commissaire.
+- **(1)** Sous réserve des paragraphes (2) à (6), 12(3), 12.2(3), 13(3), 19(1), 23(3) et 23.1(1) et de l’article 25, le commissaire et les personnes agissant en son nom ou sous son autorité sont tenus au secret en ce qui concerne les renseignements dont ils prennent connaissance par suite de l’exercice des attributions que la présente partie confère au commissaire.
 
 **Intérêt public**
 
-- **(2)** Le commissaire peut rendre publique toute information relative aux pratiques d’une organisation en matière de gestion des renseignements personnels, s’il estime que cela est dans l’intérêt public.
+- **(2)** Le commissaire peut rendre publique toute information dont il prend connaissance par suite de l’exercice des attributions que la présente partie lui confère, s’il estime que cela est dans l’intérêt public.
 
 **Communication de renseignements nécessaires**
 
-- **(3)** Il peut communiquer — ou autoriser les personnes agissant en son nom ou sous son autorité à communiquer — les renseignements qui, à son avis, sont nécessaires pour :
+- **(3)** Il peut communiquer — ou autoriser les personnes agissant en son nom ou sous son autorité à communiquer — les renseignements qui, à son avis, sont nécessaires pour :
 	- **a)** examiner une plainte ou procéder à une vérification en vertu de la présente partie;
 	- **b)** motiver les conclusions et recommandations contenues dans les rapports prévus par la présente partie.
 
 **Communication dans le cadre de certaines procédures**
 
-- **(4)** Il peut également communiquer — ou autoriser les personnes agissant en son nom ou sous son autorité à communiquer — des renseignements soit dans le cadre des procédures intentées pour l’infraction visée à l’article 28 ou pour l’infraction visée à l’article 132 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) (parjure) se rapportant à une déclaration faite en vertu de la présente partie, soit lors d’une audience de la Cour prévue par cette partie ou lors de l’appel de la décision rendue par celle-ci.
+- **(4)** Il peut également communiquer — ou autoriser les personnes agissant en son nom ou sous son autorité à communiquer — des renseignements :
+	- **a)** dans le cadre des procédures intentées pour l’infraction visée à l’article 28;
+	- **b)** dans le cadre des procédures intentées pour l’infraction visée à l’article 132 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) (parjure) se rapportant à une déclaration faite en vertu de la présente partie;
+	- **c)** lors d’une audience de la Cour prévue par cette partie;
+	- **d)** lors de l’appel de la décision rendue par la Cour;
+	- **e)** dans le cadre d’un contrôle judiciaire à l’égard de l’exercice des attributions que la présente partie confère au commissaire.
 
 **Dénonciation autorisée**
 
@@ -671,8 +831,8 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements comm
 
 **Communication de renseignements**
 
-- **(6)** Le commissaire peut communiquer — ou autoriser les personnes agissant en son nom ou sous son autorité à communiquer — des renseignements soit dans le cadre des procédures où il est intervenu au titre de l’alinéa 50c) de la [Loi visant à promouvoir l’efficacité et la capacité d’adaptation de l’économie canadienne par la réglementation de certaines pratiques qui découragent l’exercice des activités commerciales par voie électronique et modifiant la Loi sur le Conseil de la radiodiffusion et des télécommunications canadiennes, la Loi sur la concurrence, la Loi sur la protection des renseignements personnels et les documents électroniques et la Loi sur les télécommunications](/fr/Lois/Lois%20du%20Canada/2010/ch.%2023.md), soit en conformité avec les paragraphes 58(3) ou 60(1) de cette loi.
-> 2000, ch. 5, art. 20; 2010, ch. 23, art. 86.
+- **(6)** Le commissaire peut communiquer — ou autoriser les personnes agissant en son nom ou sous son autorité à communiquer — des renseignements soit dans le cadre des procédures où il est intervenu au titre de l’alinéa 50c) de la [Loi visant à promouvoir l’efficacité et la capacité d’adaptation de l’économie canadienne par la réglementation de certaines pratiques qui découragent l’exercice des activités commerciales par voie électronique et modifiant la Loi sur le Conseil de la radiodiffusion et des télécommunications canadiennes, la Loi sur la concurrence, la Loi sur la protection des renseignements personnels et les documents électroniques et la Loi sur les télécommunications](/fr/Lois/Lois%20du%20Canada/2010/ch.%2023.md), soit en conformité avec les paragraphes 58(3) ou 60(1) de cette loi.
+> 2000, ch. 5, art. 20; 2010, ch. 23, art. 86; 2015, ch. 32, art. 17.
 
 
 
@@ -693,9 +853,11 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements comm
 
 **Diffamation**
 
-- **(2)** Ne peuvent donner lieu à poursuites pour diffamation verbale ou écrite :
+- **(2)** Ne peuvent donner lieu à poursuites pour diffamation :
 	- **a)** les paroles prononcées, les renseignements fournis ou les documents ou pièces produits de bonne foi au cours d’une vérification ou de l’examen d’une plainte effectué par le commissaire ou en son nom dans le cadre de la présente partie;
 	- **b)** les rapports établis de bonne foi par le commissaire dans le cadre de la présente partie, ainsi que les relations qui en sont faites de bonne foi pour des comptes rendus d’événements d’actualités.
+> 2000, ch. 5, art. 22; 2015, ch. 32, art. 18.
+
 
 
 
@@ -782,11 +944,13 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements comm
 
 **25** 
 
-- **(1)** Dans les meilleurs délais après la fin de l’année civile, le commissaire dépose devant le Parlement son rapport sur l’application de la présente partie, sur la mesure dans laquelle les provinces ont édicté des lois essentiellement similaires à celle-ci et sur l’application de ces lois.
+- **(1)** Dans les trois mois suivant la fin de chaque exercice, le commissaire dépose devant le Parlement son rapport sur l’application de la présente partie, sur la mesure dans laquelle les provinces ont édicté des lois essentiellement similaires à celle-ci et sur l’application de ces lois.
 
 **Consultation**
 
 - **(2)** Avant de rédiger son rapport, le commissaire consulte les personnes dans les provinces qui, à son avis, sont en mesure de l’aider à faire un rapport concernant les renseignements personnels recueillis, utilisés ou communiqués d’une province à l’autre ou d’un pays à l’autre.
+> 2000, ch. 5, art. 25; 2015, ch. 32, art. 20.
+
 
 
 
@@ -795,17 +959,20 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements comm
 
 **26** 
 
-- **(1)** Le gouverneur en conseil peut, par règlement :
+- **(1)** Le gouverneur en conseil peut, par règlement, prendre toute mesure d’application de la présente partie, notamment :
 	- **a)** préciser, pour l’application de toute disposition de la présente partie, les institutions gouvernementales et les subdivisions d’institutions gouvernementales, à titre particulier ou par catégorie;
-	- **a.01)** préciser, pour l’application des alinéas 7(3)d) ou h.2), les organismes d’enquête, à titre particulier ou par catégorie;
+	- **a.01)** [Abrogé, 2015, ch. 32, art. 21]
 	- **a.1)** préciser tout renseignement ou toute catégorie de renseignements pour l’application des alinéas 7(1)d), (2)c.1) ou (3)h.1);
-	- **b)** prendre toute mesure d’application de la présente partie.
+	- **b)** préciser les renseignements qui doivent être tenus et conservés au titre du paragraphe 10.3(1);
+	- **c)** prendre toute mesure d’ordre réglementaire prévue par la présente partie.
 
 **Décret**
 
 - **(2)** Il peut par décret :
 	- **a)** prévoir que la présente partie lie tout mandataire de Sa Majesté du chef du Canada qui n’est pas assujetti à la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md);
 	- **b)** s’il est convaincu qu’une loi provinciale essentiellement similaire à la présente partie s’applique à une organisation — ou catégorie d’organisations — ou à une activité — ou catégorie d’activités —, exclure l’organisation, l’activité ou la catégorie de l’application de la présente partie à l’égard de la collecte, de l’utilisation ou de la communication de renseignements personnels qui s’effectue à l’intérieur de la province en cause.
+> 2000, ch. 5, art. 26; 2015, ch. 32, art. 21.
+
 
 
 
