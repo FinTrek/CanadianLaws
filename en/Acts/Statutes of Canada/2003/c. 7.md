@@ -233,17 +233,26 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 
 
 
-**[Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md)**
+**Non-application**
 
-**6** 
+**6** The [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md) does not apply in Yukon.
+> 2003, c. 7, s. 6; 2015, c. 19, s. 2.
 
-- **(1)** Sections 5 to 60 of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md) do not apply in Yukon except
-	- **(a)** in relation to a project, as defined in that Act, that is not a project or existing project within the meaning of this Act; and
-	- **(b)** to the extent provided, in relation to a project, by subsection (2) of this section or section 63 of this Act.
 
-**National Energy Board**
 
-- **(2)** Sections 5 to 60 of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md) apply in relation to a project, as defined in that Act, that requires an authorization from the National Energy Board in order to be undertaken, but where the project is referred to a review panel under subsection 29(1) of that Act, the Minister of the Environment shall notify the executive committee of the referral, and section 63 of this Act applies as if that Minister had agreed to a request under paragraph 61(1)(b).
+
+
+**Delegation to territorial Minister**
+
+**6.1** 
+
+- **(1)** The federal minister may delegate, in writing, to the territorial minister all or any of the federal minister’s powers, duties or functions under this Act, either generally or as otherwise provided in the instrument of delegation.
+
+**Notice**
+
+- **(2)** The federal minister must notify the first nations in writing of any such delegation.
+> 2015, c. 19, s. 2.
+
 
 
 
@@ -279,7 +288,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 
 **Executive committee**
 
-- **(3)** One member of the executive committee referred to in paragraph (1)(a) shall be appointed on the nomination of the Council, another following consultation by the federal minister with the territorial minister and the third, being the Chairperson of the Board, following consultation by the federal minister with the other two members.
+- **(3)** One member of the executive committee referred to in paragraph (1)(a) shall be appointed on the nomination of the Council, another on the nomination of the territorial minister and the third, being the Chairperson of the Board, following consultation by the federal minister with the other two members.
 
 **Other members**
 
@@ -292,6 +301,8 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Consultation of first nations**
 
 - **(6)** The Council shall consult the first nations before nominating a person to the Board.
+> 2003, c. 7, s. 8; 2015, c. 19, s. 3.
+
 
 
 
@@ -323,6 +334,12 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 
 - **(3)** In the event of a vacancy occurring during a member’s term of office, the federal minister may, subject to the requirements of sections 8 and 9 applicable to the appointment of that member, appoint another person to fill the vacancy for the remainder of the term.
 
+**Acting after expiry of term**
+
+- **(4)** If a member is a member of the executive committee or of a panel of the Board and, while that committee or panel is conducting a screening or review of a project, their term expires before a decision document is issued by each decision body to whom the committee or panel has made a recommendation in respect of that project, they may — in accordance with the by-laws of the Board or, in the absence of an applicable by-law, the direction of the Chairperson — continue to perform their functions in relation to that screening or review until those decision documents are issued. For the purpose of the appointment of a replacement, the member’s office is considered to be vacant as soon as their term expires.
+> 2003, c. 7, s. 10; 2015, c. 19, s. 4.
+
+
 
 
 
@@ -339,6 +356,12 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Consultation by federal minister**
 
 - **(3)** Before a member nominated by the Council or the territorial minister is removed from office, the federal minister shall consult the Council or the territorial minister, as the case may be.
+
+**Acting after removal of member**
+
+- **(4)** If a member is a member of the executive committee or of a panel of the Board and, while that committee or panel is conducting a screening or review of a project, they are removed from office under subsection (2) before a decision document is issued by each decision body to whom the committee or panel has made a recommendation in respect of that project, they may — in accordance with the by-laws of the Board or, in the absence of an applicable by-law, the direction of the Chairperson — continue to perform their functions in relation to that screening or review until those decision documents are issued. For the purpose of the appointment of a replacement, the member’s office is considered to be vacant as soon as they are removed from office.
+> 2003, c. 7, s. 11; 2015, c. 19, s. 5.
+
 
 
 
@@ -577,7 +600,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 	- **(a)** the form and content of proposals submitted under paragraph 50(1)(a) or of requests made under section 60;
 	- **(b)** the determination of the scope of a project;
 	- **(c)** for the purposes of section 46, the participation of interested persons and the public; and
-	- **(d)** the periods within which the executive committee and panels of the Board must perform their functions under Part 2.
+	- **(d)** the periods, for each step from the submission or referral of a proposal to the conclusion of the screening or review of the project or existing project, within which the executive committee and panels of the Board must perform their functions.
 
 **Rules for executive committee and panels**
 
@@ -598,6 +621,8 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Categories of projects, etc.**
 
 - **(4)** Rules made under this section may provide for different types of screenings or reviews for different categories of projects, existing projects or plans, or activities outside Yukon, as the case may be.
+> 2003, c. 7, s. 30; 2015, c. 19, s. 6.
+
 
 
 
@@ -618,7 +643,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 	- **(c)** for the purposes of section 46, participation in evaluations by interested persons and the public;
 	- **(d)** the submission of proposals for projects located in two or more assessment districts;
 	- **(e)** the conduct of evaluations by two or more designated offices, jointly or by one of them on behalf of the other or others, under section 53; and
-	- **(f)** the periods within which designated offices must perform their functions under Part 2.
+	- **(f)** the periods, for each step from the submission of a proposal to the conclusion of the evaluation of the project or existing project, within which designated offices must perform their functions.
 
 **Rules for cooperation**
 
@@ -631,6 +656,8 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Rules made by designated office**
 
 - **(5)** A designated office may make rules with respect to the conduct of its evaluations, including rules respecting any of the matters specified in subsections (1) to (3), but rules made by the Board prevail over rules made by a designated office to the extent of any inconsistency.
+> 2003, c. 7, s. 31; 2015, c. 19, s. 7.
+
 
 
 
@@ -678,8 +705,11 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **By-laws of Board**
 
 **35** The Board may make by-laws
-- **(a)** for the conduct and management of its internal administrative affairs; and
-- **(b)** specifying grounds for the removal of members from office other than for cause, for the purposes of subsection 11(1).
+- **(a)** for the conduct and management of its internal administrative affairs;
+- **(b)** specifying grounds for the removal of members from office other than for cause, for the purposes of subsection 11(1); and
+- **(c)** respecting the performance of a member’s functions for the purposes of subsections 10(4) and 11(4).
+> 2003, c. 7, s. 35; 2015, c. 19, s. 8.
+
 
 
 
@@ -771,21 +801,24 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 	- **(a)** the purpose of the project or existing project;
 	- **(b)** all stages of the project or existing project;
 	- **(c)** the significance of any environmental or socio-economic effects of the project or existing project that have occurred or might occur in or outside Yukon, including the effects of malfunctions or accidents;
-	- **(d)** the significance of any adverse cumulative environmental or socio-economic effects that have occurred or might occur in connection with the project or existing project in combination with the effects of
-		- **(i)** other projects for which proposals have been submitted under subsection 50(1), or
-		- **(ii)** other existing or proposed activities in or outside Yukon that are known to the designated office, executive committee or panel of the Board from information provided to it or obtained by it under this Act;
+	- **(d)** the significance of any adverse cumulative environmental or socio-economic effects that have occurred or might occur in connection with the project or existing project in combination with the effects of other projects for which proposals have been submitted under subsection 50(1) or any activities that have been carried out, are being carried out or are likely to be carried out in or outside Yukon;
+	- **(d.1)** any studies or research undertaken under subsection 112(1) that are relevant to the project or existing project;
+	- **(d.2)** the need for effects monitoring;
 	- **(e)** alternatives to the project or existing project, or alternative ways of undertaking or operating it, that would avoid or minimize any significant adverse environmental or socio-economic effects;
 	- **(f)** mitigative measures and measures to compensate for any significant adverse environmental or socio-economic effects;
 	- **(g)** the need to protect the rights of Yukon Indian persons under final agreements, the special relationship between Yukon Indian persons and the wilderness environment of Yukon, and the cultures, traditions, health and lifestyles of Yukon Indian persons and other residents of Yukon;
+	- **(g.1)** the interests of first nations;
 	- **(h)** the interests of residents of Yukon and of Canadian residents outside Yukon;
 	- **(i)** any matter that a decision body has asked it to take into consideration; and
 	- **(j)** any matter specified by the regulations.
 
 **Additional matters to be considered**
 
-- **(2)** In addition to the matters referred to in subsection (1), the executive committee or a panel of the Board shall take the following matters into consideration:
-	- **(a)** the need for effects monitoring; and
-	- **(b)** the capacity of any renewable resources that are likely to be significantly affected by the project or existing project to meet present and future needs.
+- **(2)** In addition to the matters referred to in subsection (1), the executive committee or a panel of the Board shall take into consideration the capacity of any renewable resources that are likely to be significantly affected by the project or existing project to meet present and future needs.
+
+**Potential activities of third parties**
+
+- **(2.1)** If the proponent is a government agency or first nation and the project or existing project concerns planning activities related to timber harvesting, the designated office, executive committee or panel of the Board shall take into consideration any potential activities of third parties that, if proposed to be undertaken, would be subject to an assessment under section 47 or 48.
 
 **Consideration of standards**
 
@@ -794,13 +827,39 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Optional matters**
 
 - **(4)** A designated office, the executive committee or a panel of the Board may also take into consideration any matter that it considers relevant in the assessment of a project or existing project.
+> 2003, c. 7, s. 42; 2015, c. 19, s. 9.
+
 
 
 
 
 **Requiring additional information**
 
-**43** A designated office, the executive committee or a panel of the Board may require the proponent to provide any supplementary information that it considers necessary for its assessment, whether or not it has commenced the assessment.
+**43** 
+
+- **(1)** A designated office, the executive committee or a panel of the Board may require the proponent to provide any supplementary information that it considers necessary for its assessment, whether or not it has commenced the assessment.
+
+**Suspension**
+
+- **(2)** If the proponent fails to provide the required supplementary information within the period prescribed by the rules, the designated office, executive committee or panel of the Board may suspend its assessment activities until the proponent provides that information and it must make the reasons for the suspension public if it does so.
+
+**Termination of assessment**
+
+- **(3)** If a proponent does not provide the required supplementary information within two years after the day on which the request is made, the assessment of the project is discontinued, unless the Board grants an extension of that period.
+
+**Extension of time limit**
+
+- **(4)** The Board may extend the period referred to in subsection (3) by a maximum of one year.
+
+**Interpretation**
+
+- **(5)** For greater certainty, the proponent may submit a new proposal in relation to the project in accordance with section 50.
+
+**Consideration of previous assessments**
+
+- **(6)** In conducting an assessment of the project to which the new proposal relates, a designated office, the executive committee or a panel of the Board must consider, and may rely on, any assessment activities previously carried out under this Act in respect of the project.
+> 2003, c. 7, s. 43; 2015, c. 19, s. 10.
+
 
 
 
@@ -842,6 +901,19 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 
 
 
+### Time Limits
+
+
+
+**Authority and validity**
+
+**46.1** The failure of the federal minister, the Minister of the Environment, the territorial minister, the Board, a decision body, a designated office, the executive committee, a panel of the Board or a joint panel to exercise a power or perform a duty or function within a period provided for under this Act does not terminate their authority to do so nor does it invalidate any document prepared or submitted or any decision or action taken in the exercise or performance of their powers, duties or functions.
+> 2015, c. 19, s. 11.
+
+
+
+
+
 ### Proposed Activities Subject to Assessment
 
 
@@ -857,10 +929,12 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Circumstances**
 
 - **(2)** An activity listed under paragraph (1)(a) — and not excepted under paragraph (1)(b) — is subject to assessment if proposed to be undertaken in Yukon and if
-	- **(a)** a federal agency or federal independent regulatory agency is the proponent or receives an application for financial assistance for the activity;
+	- **(a)** a federal agency or federal independent regulatory agency is the proponent;
 	- **(b)** a territorial agency, municipal government, territorial independent regulatory agency or first nation is the proponent and an authorization or the grant of an interest in land would be required for the activity to be undertaken by a private individual;
 	- **(c)** an authorization or the grant of an interest in land by a government agency, independent regulatory agency, municipal government or first nation is required for the activity to be undertaken; or
 	- **(d)** an authorization by the Governor in Council is required for the activity to be undertaken.
+> 2003, c. 7, s. 47; 2015, c. 19, s. 12.
+
 
 
 
@@ -870,8 +944,8 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **48** 
 
 - **(1)** Where an activity is listed under paragraph 47(1)(a) but is excepted under paragraph 47(1)(b), a declaration that the activity is subject to assessment may nevertheless be made, in circumstances referred to in subsection (3) or (4), by
-	- **(a)** a federal agency that is the proponent of the activity or that has the power to issue an authorization or to grant an interest in land required for the activity to be undertaken or has received an application for financial assistance for the activity;
-	- **(b)** the federal minister, if the Governor in Council has the power to issue an authorization required for the activity to be undertaken or if a federal independent regulatory agency is the proponent of the activity, has the power to issue an authorization or to grant an interest in land required for the activity to be undertaken or has received an application for financial assistance for the activity;
+	- **(a)** a federal agency that is the proponent of the activity or that has the power to issue an authorization or to grant an interest in land required for the activity to be undertaken;
+	- **(b)** the federal minister, if the Governor in Council has the power to issue an authorization required for the activity to be undertaken or if a federal independent regulatory agency is the proponent of the activity or has the power to issue an authorization or to grant an interest in land required for the activity to be undertaken;
 	- **(c)** the territorial minister, if a territorial agency, a municipal government or a territorial independent regulatory agency is the proponent of the activity or has the power to issue an authorization or to grant an interest in land required for the activity to be undertaken; or
 	- **(d)** a first nation that is the proponent of the activity or that has the power to issue an authorization or to grant an interest in land required for the activity to be undertaken.
 
@@ -891,6 +965,8 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 	- **(a)** in an area that contains a heritage resource, other than a record only, or that is a heritage resource, and that is for that reason protected by federal, territorial or first nation law or that is identified, in a land use plan in effect under a final agreement, as an area that should be so protected;
 	- **(b)** in a special management area that is identified as such in a final agreement or that is established in accordance with a final agreement; or
 	- **(c)** in an area that forms the habitat for any species of plant or wildlife that is determined to be rare, threatened, endangered or at risk by or under federal, territorial or first nation law.
+> 2003, c. 7, s. 48; 2015, c. 19, s. 13.
+
 
 
 
@@ -904,6 +980,21 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Reporting after emergencies**
 
 - **(2)** As soon as practicable after any such activity is completed, the person who undertook it shall send a written report to the designated office for each assessment district in which it was undertaken describing the nature, extent and duration of the activity and any work required in order to restore or rehabilitate the area affected by it.
+
+
+
+
+**No significant change**
+
+**49.1** 
+
+- **(1)** A new assessment of a project or existing project is not required when an authorization is renewed or amended unless, in the opinion of a decision body for the project, there is a significant change to the original project that would otherwise be subject to an assessment.
+
+**Consultation between decision bodies**
+
+- **(2)** If there is more than one decision body for the project, they shall consult one another in determining whether a new assessment is required.
+> 2015, c. 19, s. 14.
+
 
 
 
@@ -922,9 +1013,7 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 
 **Considerations by proponent**
 
-- **(2)** The proponent of a project shall, in preparing a proposal,
-	- **(a)** take into consideration the matters referred to in paragraphs 42(1)(b), (c), (e) and (f), in the case of a proposal submitted to a designated office, or the matters referred to in paragraphs 42(1)(b), (c) and (e) to (h), in the case of a proposal submitted to the executive committee; and
-	- **(b)** incorporate any mitigative measures that may be appropriate.
+- **(2)** The proponent of a project shall, in preparing a proposal, incorporate any appropriate mitigative measures and take into consideration the matters referred to in paragraphs 42(1)(b), (c), (e) and (f) and, if applicable, subsection 42(2.1), in the case of a proposal submitted to a designated office, or the matters referred to in those paragraphs, paragraphs 42(1)(g) to (h) and, if applicable, subsection 42(2.1), in the case of a proposal submitted to the executive committee.
 
 **Consultation**
 
@@ -933,6 +1022,8 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Notification of Environment Minister**
 
 - **(4)** The executive committee shall notify the Minister of the Environment of any proposal submitted to it under paragraph (1)(a) for a project for which there is a federal decision body.
+> 2003, c. 7, s. 50; 2015, c. 19, s. 15.
+
 
 
 
@@ -1004,11 +1095,23 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 
 **56** 
 
-- **(1)** At the conclusion of its evaluation, a designated office shall
-	- **(a)** recommend to the decision bodies for the project that the project be allowed to proceed, if it determines that the project will not have significant adverse environmental or socio-economic effects in or outside Yukon;
-	- **(b)** recommend to those decision bodies that the project be allowed to proceed, subject to specified terms and conditions, if it determines that the project will have significant adverse environmental or socio-economic effects in or outside Yukon that can be mitigated by those terms and conditions;
-	- **(c)** recommend to those decision bodies that the project not be allowed to proceed, if it determines that the project will have significant adverse environmental or socio-economic effects in or outside Yukon that cannot be mitigated; or
-	- **(d)** refer the project to the executive committee for a screening if, after taking into account any mitigative measures included in the project proposal, it cannot determine whether the project will have significant adverse environmental or socio-economic effects.
+- **(1)** A designated office shall, within nine months after the day on which a proposal is submitted to it under paragraph 50(1)(b), conclude its evaluation of the project by
+	- **(a)** recommending to the decision bodies for the project that the project be allowed to proceed, if it determines that the project will not have significant adverse environmental or socio-economic effects in or outside Yukon;
+	- **(b)** recommending to those decision bodies that the project be allowed to proceed, subject to specified terms and conditions, if it determines that the project will have, or is likely to have, significant adverse environmental or socio-economic effects in or outside Yukon that can be mitigated by those terms and conditions;
+	- **(c)** recommending to those decision bodies that the project not be allowed to proceed, if it determines that the project will have, or is likely to have, significant adverse environmental or socio-economic effects in or outside Yukon that cannot be mitigated; or
+	- **(d)** referring the project to the executive committee for a screening, if, after taking into account any mitigative measures included in the project proposal, it cannot determine whether the project will have, or is likely to have, significant adverse environmental or socio-economic effects.
+
+**Excluded period**
+
+- **(1.1)** If the designated office requires the proponent of the project to provide or collect information or to undertake a study, the period that, in the designated office’s opinion, is taken by the proponent to comply with the requirement is not included in the calculation of the time limit under subsection (1) or of its extension.
+
+**Extension of time limit by federal minister**
+
+- **(1.2)** The federal minister may, at the request of the Board, extend the time limit referred to in subsection (1) by a maximum of two months to take into account circumstances that are specific to the proposal for a project.
+
+**Extension of time limit by Governor in Council**
+
+- **(1.3)** The Governor in Council may, by order, on the recommendation of the federal minister, further extend the time limit any number of times by periods of any length.
 
 **Notification**
 
@@ -1025,6 +1128,8 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Documentation**
 
 - **(5)** Where a designated office refers a project to the executive committee, it shall provide the executive committee with copies of its documentation relating to the project.
+> 2003, c. 7, s. 56; 2015, c. 19, s. 16.
+
 
 
 
@@ -1058,11 +1163,23 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 
 **58** 
 
-- **(1)** Subject to subsection (2), at the conclusion of its screening the executive committee shall
-	- **(a)** recommend to the decision bodies for the project that the project be allowed to proceed without a review, if it determines that the project will not have significant adverse environmental or socio-economic effects in or outside Yukon;
-	- **(b)** recommend to those decision bodies that the project be allowed to proceed without a review, subject to specified terms and conditions, if it determines that the project will have significant adverse environmental or socio-economic effects in or outside Yukon that can be mitigated by those terms and conditions;
-	- **(c)** recommend to those decision bodies that the project not be allowed to proceed and not be subject to a review, if it determines that the project will have significant adverse environmental or socio-economic effects in or outside Yukon that cannot be mitigated; or
-	- **(d)** require a review of the project if, after taking into account any mitigative measures included in the project proposal, it cannot determine whether the project will have significant adverse environmental or socio-economic effects.
+- **(1)** The executive committee shall, within 16 months after the day on which a proposal is submitted to it under paragraph 50(1)(a) or referred to it under paragraph 56(1)(d), conclude its screening of the project by
+	- **(a)** recommending to the decision bodies for the project that the project be allowed to proceed without a review, if it determines that the project will not have significant adverse environmental or socio-economic effects in or outside Yukon;
+	- **(b)** recommending to those decision bodies that the project be allowed to proceed without a review, subject to specified terms and conditions, if it determines that the project will have, or is likely to have, significant adverse environmental or socio-economic effects in or outside Yukon that can be mitigated by those terms and conditions;
+	- **(c)** recommending to those decision bodies that the project not be allowed to proceed and not be subject to a review, if it determines that the project will have, or is likely to have, significant adverse environmental or socio-economic effects in or outside Yukon that cannot be mitigated; or
+	- **(d)** requiring a review of the project, if, after taking into account any mitigative measures included in the project proposal, it cannot determine whether the project will have, or is likely to have, significant adverse environmental or socio-economic effects.
+
+**Excluded period**
+
+- **(1.1)** If the executive committee requires the proponent of the project to provide or collect information or to undertake a study, the period that, in the executive committee’s opinion, is taken by the proponent to comply with the requirement is not included in the calculation of the time limit under subsection (1) or of its extension.
+
+**Extension of time limit by federal minister**
+
+- **(1.2)** The federal minister may, at the request of the Board, extend the time limit referred to in subsection (1) by a maximum of two months to take into account circumstances that are specific to the proposal for a project.
+
+**Extension of time limit by Governor in Council**
+
+- **(1.3)** The Governor in Council may, by order, on the recommendation of the federal minister, further extend the time limit any number of times by periods of any length.
 
 **Review required — other cases**
 
@@ -1077,19 +1194,17 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Notice of reasons for review**
 
 - **(4)** Where the executive committee requires a review under paragraph (1)(d) or subsection (2), it shall provide written reasons for doing so to the proponent and any first nation consulted under subsection 50(3) as well as to any government agency, independent regulatory agency or first nation that has notified the executive committee of its interest in the project or in projects of that kind.
+> 2003, c. 7, s. 58; 2015, c. 19, s. 17.
+
 
 
 
 
 **Recommendation for non-referral rejected**
 
-**59** 
+**59** If the executive committee recommends that a project not be referred for a review, but that recommendation is rejected by a decision body for the project and the decision body so notifies the executive committee in writing within 15 days after receiving the recommendation, the executive committee shall require a review of the project.
+> 2003, c. 7, s. 59; 2015, c. 19, s. 18.
 
-- **(1)** Where the executive committee recommends that a project not be referred for a review, but that recommendation is rejected by a decision body for the project and the decision body so notifies the executive committee in writing within 15 days after receiving the recommendation, the executive committee shall require a review of the project.
-
-**Notice to Environment Minister**
-
-- **(2)** Where the executive committee is not notified within the 15-day period and there is no federal decision body for the project, the executive committee shall so advise the Minister of the Environment.
 
 
 
@@ -1136,81 +1251,42 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 
 **61** 
 
-- **(1)** When the executive committee, under paragraph 58(1)(d) or subsection 58(2) or 59(1), requires a review of a project for which there is a federal decision body, or when a public review of such a project is requested under section 60, the executive committee shall
-	- **(a)** notify the Minister of the Environment of its intention to establish a panel of the Board;
-	- **(b)** request that Minister to appoint a review panel under subsection 33(1) of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md) or enter into an agreement for the joint establishment of a review panel in accordance with paragraph 40(2)(a) of that Act; or
-	- **(c)** request that Minister to enter into negotiations for the establishment of a joint panel in accordance with section 67 of this Act.
+- **(1)** When the executive committee, under paragraph 58(1)(d), subsection 58(2) or section 59, requires a review of a project for which there is a federal decision body, or when a public review of such a project is requested under section 60, the executive committee shall
+	- **(a)** notify the Minister of the Environment of its intention to establish a panel of the Board; or
+	- **(b)** request that Minister to enter into negotiations for the establishment of a joint panel in accordance with section 67.
 
 **Consideration of effects outside Yukon**
 
-- **(2)** When the executive committee, under paragraph 58(1)(d) or subsection 58(2) or 59(1), requires a review of a project for which there is no federal decision body, or when a public review of such a project is requested under section 60, the executive committee shall
-	- **(a)** if it determines that the project might have significant adverse environmental or socio-economic effects outside Yukon, make a request under paragraph (1)(b) or (c); or
-	- **(b)** if it determines that the project will not have such effects, so notify that Minister.
+- **(2)** When the executive committee, under paragraph 58(1)(d), subsection 58(2) or section 59, requires a review of a project for which there is no federal decision body, or when a public review of such a project is requested under section 60, the executive committee shall
+	- **(a)** if it determines that the project might have significant adverse environmental or socio-economic effects outside Yukon, make a request under paragraph (1)(b); or
+	- **(b)** if it determines that the project will not have such effects, so notify the Minister of the Environment.
 
-**Response by Minister**
+**Response by Minister of the Environment**
 
-- **(3)** The Minister of the Environment may, within 30 days after receiving a notification under paragraph (1)(a), direct the executive committee not to establish a panel of the Board, in which case the executive committee shall make a request under paragraph (1)(b) or (c).
+- **(3)** The Minister of the Environment may, within 30 days after receiving a notification under paragraph (1)(a), direct the executive committee not to establish a panel of the Board, in which case the executive committee shall make a request under paragraph (1)(b).
 
-**Determination by Minister**
+**Determination by Minister of the Environment**
 
-- **(4)** After receiving a notification of the executive committee’s determination under paragraph (2)(b), the Minister of the Environment may consider and determine the same question and, if that Minister advises the executive committee of a contrary determination within 30 days after the notification, the executive committee shall make a request under paragraph (1)(b) or (c).
-
-
-
-
-**Determination by Minister**
-
-**62** 
-
-- **(1)** Within 30 days after the Minister of the Environment receives a request made under paragraph 61(1)(b) or (c), that Minister shall notify the executive committee whether he or she agrees to the request and, in the case of paragraph 61(1)(b), of the choice made under that paragraph.
-
-**Power of Environment Minister**
-
-- **(2)** Within 10 days after a notification under subsection 59(2), the Minister of the Environment may give notice to the decision bodies for a project that that Minister intends to appoint a review panel under subsection 33(1) of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md) or to enter into an agreement for the joint establishment of a review panel in accordance with paragraph 40(2)(a) of that Act.
+- **(4)** After receiving a notification of the executive committee’s determination under paragraph (2)(b), the Minister of the Environment may consider and determine the same question and, if that Minister advises the executive committee of a contrary determination within 30 days after the notification, the executive committee shall make a request under paragraph (1)(b).
+> 2003, c. 7, s. 61; 2015, c. 19, s. 19.
 
 
 
 
-**Application of [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md)**
 
-**63** 
+**Response to request**
 
-- **(1)** Where the Minister of the Environment agrees to a request made under paragraph 61(1)(b) or gives notice of that Minister’s intention under subsection 62(2), the provisions of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md) relating to the conduct of assessments by a review panel, or relating to agreements for the joint establishment of a review panel, as the case may be, apply in respect of the project, subject to the other provisions of this section and section 64.
-
-**Application**
-
-- **(2)** For the purposes of subsection (1),
-	- **(a)** the decision bodies for the project are deemed to be responsible authorities within the meaning of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md); and
-	- **(b)** the executive committee has the power to enter into an agreement for the joint establishment of a review panel.
-
-**Request for consent**
-
-- **(3)** Before appointing a review panel referred to in subsection (1) or entering into an agreement for the joint establishment of such a review panel, the Minister of the Environment shall determine whether the project will be located, or might have significant environmental or socio-economic effects, in the territory of a first nation and, if so, shall request each such first nation to indicate within 30 days after that determination whether it consents to the appointment of a review panel.
-
-**Request for list of nominees**
-
-- **(4)** If any first nation does not indicate its consent within the period of 30 days, the Minister of the Environment shall request the Council and the territorial minister each to provide within 60 days a list of nominees for appointment to the review panel.
-
-**When panel may be established**
-
-- **(5)** A review panel referred to in subsection (1) may be appointed and its terms of reference may be fixed only if
-	- **(a)** all first nations give their consent within 30 days after a request is made under subsection (3), or there are no first nations to whom subsection (3) applies; or
-	- **(b)** the period of 60 days referred to in subsection (4) has expired, in which case at least one quarter of the members of the review panel shall be chosen from each list of nominees, if any, provided to the Minister of the Environment within that period.
-
-**Yukon Indian persons not in conflict**
-
-- **(6)** For the purposes of the application of paragraph 33(1)(a) or 41(b) of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md) in respect of a project, a member of the review panel is not in a material conflict of interest solely by virtue of being a Yukon Indian person.
-
-**Response by responsible authority**
-
-- **(7)** In respect of a project referred to in subsection (1), if the report of a review panel established under the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md) is submitted to a responsible authority — within the meaning of that Act — that is not a decision body, the provisions of that Act relating to the response of a responsible authority apply in respect of the report.
+**62** The Minister of the Environment shall, within 30 days after receiving a request made under paragraph 61(1)(b), notify the executive committee whether he or she agrees to the request.
+> 2003, c. 7, s. 62; 2015, c. 19, s. 19.
 
 
 
 
-**Referral back to executive committee**
+**63** [Repealed, 2015, c. 19, s. 19]
 
-**64** The Minister of the Environment may refer a project back to the executive committee within 45 days after the last request for consent made by that Minister under subsection 63(3) or, where there are no first nations to which that subsection applies, within 45 days after notifying the executive committee of that Minister’s agreement to a request under paragraph 61(1)(b).
+
+
+**64** [Repealed, 2015, c. 19, s. 19]
 
 
 
@@ -1224,13 +1300,13 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **65** 
 
 - **(1)** Except where an agreement is entered into under section 67, the executive committee shall establish a panel of the Board to conduct a review of a project where
-	- **(a)** a request is made under section 60 for a form of review other than a public review;
-	- **(b)** the Minister of the Environment does not direct the executive committee as provided in subsection 61(3), does not advise the executive committee as provided in subsection 61(4) or does not agree to a request as provided in subsection 62(1); or
-	- **(c)** the Minister of the Environment refers the project back to the executive committee under section 64.
+	- **(a)** a request is made under section 60 for a form of review other than a public review; or
+	- **(b)** the Minister of the Environment does not direct the executive committee as provided in subsection 61(3), does not advise the executive committee as provided in subsection 61(4) or does not agree to a request as provided in section 62.
+	- **(c)** [Repealed, 2015, c. 19, s. 20]
 
 **Failure to enter into agreement**
 
-- **(2)** The executive committee shall establish a panel of the Board to conduct a review of a project where, despite negotiations entered into under paragraph 61(1)(c) for the establishment of a joint panel, no agreement is concluded pursuant to section 67.
+- **(2)** The executive committee shall establish a panel of the Board to conduct a review of a project if, despite negotiations entered into under paragraph 61(1)(b) for the establishment of a joint panel, no agreement is concluded under section 67.
 
 **Determination by executive committee**
 
@@ -1257,6 +1333,8 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 	- **(a)** direct some or all of the remaining members of the panel to resume the review;
 	- **(b)** appoint another member to the panel and direct the panel to resume or recommence the review; or
 	- **(c)** appoint a new panel and direct the panel to recommence the review.
+> 2003, c. 7, s. 65; 2015, c. 19, s. 20.
+
 
 
 
@@ -1284,19 +1362,61 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 
 
 
+**Time limit**
+
+**66.1** 
+
+- **(1)** The executive committee shall establish a panel of the Board, and fix its terms of reference, within three months after the day on which it is required to do so under subsection 65(1) or (2).
+
+**Excluded period**
+
+- **(2)** If the executive committee requires the proponent of the project to provide or collect information or to undertake a study, the period that, in the committee’s opinion, is taken by that proponent to comply with the requirement is not included in the calculation of the time limit under subsection (1) or of its extension.
+
+**Extension of time limit by federal minister**
+
+- **(3)** The federal minister may, at the request of the executive committee, extend the time limit referred to in subsection (1) by a maximum of two months to take into account circumstances that are specific to the proposal for a project.
+
+**Extension of time limit by Governor in Council**
+
+- **(4)** The Governor in Council may, by order, on the recommendation of the federal minister, further extend the time limit any number of times by periods of any length.
+> 2015, c. 19, s. 21.
+
+
+
+
+
+**Agreement — coordination**
+
+**66.2** 
+
+- **(1)** The executive committee may, with the approval of the federal minister, enter into an agreement with any authority that has powers, duties or functions in relation to reviewing the effects of that portion of the project that is to be carried out outside Yukon for the purpose of coordinating their reviews.
+
+**Government of foreign state**
+
+- **(2)** The federal minister and the Minister of Foreign Affairs may, after consultation with the executive committee, enter into an agreement referred to in subsection (1) if the authority is a government of a foreign state or of a subdivision of a foreign state, or any institution of such a government.
+
+**For greater certainty**
+
+- **(3)** For greater certainty, the fact that a panel of the board is coordinating its review with another authority does not permit the panel to make a recommendation concerning the portion of the project to be carried out outside Yukon.
+> 2015, c. 19, s. 21.
+
+
+
+
+
 ### Agreements for Joint Panels
 
 
 
-**Conclusion of agreement**
+**Conclusion of agreement with Minister of Environment**
 
 **67** 
 
-- **(1)** Where the Minister of the Environment agrees to a request made by the executive committee under paragraph 61(1)(c), the executive committee may, with the approval of the federal minister, enter into an agreement with the Minister of the Environment for the establishment of a joint panel to conduct a review of the project.
+- **(1)** If the Minister of the Environment agrees to a request made by the executive committee under paragraph 61(1)(b), the executive committee may, with the approval of the federal minister, enter into an agreement with the Minister of the Environment for the establishment of a joint panel to conduct a review of the project.
 
 **Joint panel agreement**
 
-- **(2)** In circumstances referred to in paragraphs 65(1)(a) to (c), the executive committee may, with the approval of the federal minister, enter into an agreement for the purpose referred to in subsection (1) with
+- **(2)** In circumstances referred to in subsection 65(1), the executive committee may, with the approval of the federal minister, enter into an agreement for the purpose referred to in subsection (1) with
 	- **(a)** the Minister of the Environment; or
 	- **(b)** any authority having power to examine the environmental or socio-economic effects of the project, or of an activity that is to be undertaken partly outside Yukon and of which the project forms part.
 
@@ -1319,6 +1439,8 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Indemnification of panel members**
 
 - **(5)** The members of a joint panel shall be indemnified by the person or body referred to in paragraph (3)(e) for all damages awarded against them, for any settlement paid by them with the approval of the federal minister and that person or body and for all expenses reasonably incurred by them, in respect of any claim arising out of their functions as members that were carried out honestly and in good faith with a view to the best interests of the joint panel.
+> 2003, c. 7, s. 67; 2015, c. 19, s. 22.
+
 
 
 
@@ -1409,19 +1531,34 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 
 - **(4)** At the conclusion of its review, a panel of the Board or a joint panel shall recommend to the decision bodies for the project that
 	- **(a)** the project be allowed to proceed, if it determines that the project will have no significant adverse environmental or socio-economic effects in or outside Yukon;
-	- **(b)** the project be allowed to proceed, subject to specified terms and conditions, if it determines that the project will have significant adverse environmental or socio-economic effects in or outside Yukon that can be mitigated by those terms and conditions; or
-	- **(c)** the project not be allowed to proceed, if it determines that the project will have significant adverse environmental or socio-economic effects in or outside Yukon that cannot be mitigated.
+	- **(b)** the project be allowed to proceed, subject to specified terms and conditions, if it determines that the project will have, or is likely to have, significant adverse environmental or socio-economic effects in or outside Yukon that can be mitigated by those terms and conditions; or
+	- **(c)** the project not be allowed to proceed, if it determines that the project will have, or is likely to have, significant adverse environmental or socio-economic effects in or outside Yukon that cannot be mitigated.
+
+**Time limit — panel of the Board**
+
+- **(4.1)** A panel of the Board shall make the recommendations referred to in subsection (4) within 15 months after the day on which the panel is established under subsection 65(1) or (2).
+
+**Excluded period**
+
+- **(4.2)** If a panel of the Board requires the proponent of the project to provide or collect information or to undertake a study, the period that, in the panel’s opinion, is taken by the proponent to comply with the requirement is not included in the calculation of the time limit under subsection (4.1) or of its extension.
+
+**Extension of time limit by federal minister**
+
+- **(4.3)** The federal minister may, at the request of the Board, extend the time limit referred to in subsection (4.1) by a maximum of two months to take into account circumstances that are specific to a proposal for a project.
+
+**Extension of time limit by Governor in Council**
+
+- **(4.4)** The Governor in Council may, by order, on the recommendation of the federal minister, further extend the time limit any number of times by periods of any length.
 
 **Other recipient of recommendation**
 
 - **(5)** A recommendation of a panel of the Board or a joint panel shall be made in writing with reasons and a copy provided to the proponent.
+> 2003, c. 7, s. 72; 2015, c. 19, s. 23.
 
 
 
 
-**Review panel under [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md)**
-
-**73** When a report is made to the Minister of the Environment by a review panel under the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md) in respect of a project referred to in section 63, the report shall include one of the recommendations referred to in subsection 72(4), and a copy of the report shall be provided to the decision bodies for the project and to the proponent.
+**73** [Repealed, 2015, c. 19, s. 24]
 
 
 
@@ -1443,24 +1580,20 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 
 
 
-**Decision on recommendation from designated office, joint panel or review panel**
+**Decision on recommendation from designated office or joint panel**
 
-**75** 
-
-- **(1)** Where a designated office, a joint panel or a review panel referred to in section 63 makes a recommendation to a decision body, the decision body shall issue a decision document within the period prescribed by the regulations accepting, rejecting or varying the recommendation.
-
-**Approval of Governor in Council**
-
-- **(2)** Where a review panel referred to in section 63 makes a recommendation to a federal decision body, the federal decision body need not issue a decision document within the period referred to in subsection (1) and may not issue a decision document unless it has obtained the approval of the Governor in Council.
+**75** If a designated office or a joint panel makes a recommendation to a decision body, the decision body shall issue a decision document within the period prescribed by the regulations accepting, rejecting or varying the recommendation.
+> 2003, c. 7, s. 75; 2015, c. 19, s. 25.
 
 
 
 
-**Decision on recommendation from executive committee or panel of the Board**
+
+**Decision on recommendation from executive committee or panel of Board**
 
 **76** 
 
-- **(1)** Subject to subsection 59(1), where the executive committee or a panel of the Board makes a recommendation to a decision body, the decision body shall, within the period prescribed by the regulations,
+- **(1)** Subject to section 59, if the executive committee or a panel of the Board makes a recommendation to a decision body, the decision body shall, within the period prescribed by the regulations,
 	- **(a)** issue a decision document accepting the recommendation; or
 	- **(b)** refer the recommendation back to the executive committee or the panel for reconsideration by it, unless that recommendation was made in response to a previous referral under this paragraph.
 
@@ -1473,6 +1606,8 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 - **(3)** On being notified under subsection (2),
 	- **(a)** every other decision body for the project shall discontinue its consideration of the recommendation; and
 	- **(b)** no person or body required under sections 82 to 88 to implement a decision document already issued shall take any action that would enable the project to be undertaken.
+> 2003, c. 7, s. 76; 2015, c. 19, s. 26.
+
 
 
 
@@ -1483,13 +1618,15 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 
 - **(1)** When it reconsiders a recommendation that is referred back to it under paragraph 76(1)(b), the executive committee and the panel of the Board may exercise the powers and shall perform the duties that they have, respectively, in relation to screenings and reviews.
 
-**Time periods**
+**Time limits**
 
-- **(2)** The executive committee or panel of the Board shall make a new recommendation to the decision bodies in respect of the project within the period prescribed by the rules, or else it is deemed to have made the same recommendation that it made at the conclusion of its screening or review.
+- **(2)** The executive committee or panel of the Board shall make a new recommendation to the decision bodies in respect of the project within the period prescribed by the rules, which is not to exceed 60 days for a screening by the executive committee or 90 days for a review by a panel of the Board. If it does not make such a recommendation, it is deemed to have made the same recommendation that it made at the conclusion of its screening or review.
 
 **New recommendation**
 
 - **(3)** Every decision body shall, within the period prescribed by the regulations, issue a decision document accepting, rejecting or varying the new recommendation, and that decision document replaces any previous decision document issued by it in respect of the project.
+> 2003, c. 7, s. 77; 2015, c. 19, s. 27.
+
 
 
 
@@ -1538,8 +1675,8 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 	- **(a)** every other decision body for the project;
 	- **(b)** the proponent of the project;
 	- **(c)** the designated office in whose assessment district the project is proposed to be undertaken;
-	- **(d)** the executive committee, if the recommendation to the decision body was made by the executive committee, a panel of the Board, a joint panel or a review panel referred to in section 63;
-	- **(e)** the Minister of the Environment, if the recommendation to the decision body was made by a review panel referred to in section 63;
+	- **(d)** the executive committee, if the recommendation to the decision body was made by the executive committee, a panel of the Board or a joint panel;
+	- **(e)** [Repealed, 2015, c. 19, s. 28]
 	- **(f)** any independent regulatory agency from which an authorization is required, or to which an application is made for financial assistance, to enable the project to be undertaken;
 	- **(g)** the Yukon Surface Rights Board, if an access order is required for the project under the [Yukon Surface Rights Board Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2043.md);
 	- **(h)** a body established by territorial law and having jurisdiction in relation to rights in respect of waters, if the grant of rights from that body is required for the project under territorial law; and
@@ -1547,8 +1684,8 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 
 **Decision not in conformity with land use plan**
 
-- **(2)** Where a decision document allows a project to be undertaken not in conformity with a land use plan referred to in section 44, the decision body shall provide a copy of the decision document to the planning commission that prepared the plan and to any person or body that approved the plan.
-> 2003, c. 7, ss. 81, 133.
+- **(2)** If a decision document allows a project to be undertaken not in conformity with a regional land use plan referred to in section 44, the decision body shall provide a copy of the decision document to the planning commission and to any person or body that approved the plan.
+> 2003, c. 7, ss. 81, 133; 2015, c. 19, s. 28.
 
 
 
@@ -1657,6 +1794,15 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 
 
 
+**For greater certainty**
+
+**88.1** For greater certainty, an independent regulatory agency, a government agency or a first nation may impose, to the extent of its jurisdiction and authority to do so, terms and conditions that are in addition to, or more stringent than, those referred to in the decision documents.
+> 2015, c. 19, s. 29.
+
+
+
+
+
 **Notice of actions taken following decision**
 
 **89** Following the issuance of a decision document allowing a project to be undertaken, every government agency, municipal government, independent regulatory agency and first nation shall notify the Board whenever it
@@ -1745,6 +1891,32 @@ but does not include an access order issued under the [Yukon Surface Rights Boar
 **Response to Board**
 
 - **(3)** A minister or first nation that requests a review shall provide the Board with a written response to the report of a panel of the Board.
+
+
+
+
+### Cost Recovery
+
+
+
+**Proponent’s obligation to pay costs**
+
+**93.1** 
+
+- **(1)** In order for the federal minister to recover costs that are incurred in the course of a review of a project, the proponent of the project must pay to the federal minister
+	- **(a)** any amounts that are prescribed by the regulations and that are related to the exercise of the powers and performance of the functions of the Board or its members or of members of a panel of the Board or a joint panel;
+	- **(b)** any costs incurred by the Board for services that are prescribed by the regulations and that are provided to it by a third party; and
+	- **(c)** any amounts that are prescribed by the regulations and that are related to the exercise of the powers and performance of the duties and functions of the federal minister.
+
+**Limited period**
+
+- **(2)** For the purposes of subsection (1), the services, powers, duties or functions described in that subsection are limited to those provided, exercised or performed during the period that begins when the executive committee is required to establish a panel of the Board under subsection 65(1) or (2) and ends when a decision document is issued by each of the decision bodies to whom the panel of the Board or joint panel, as the case may be, made a recommendation in respect of the project.
+
+**Debt due to Her Majesty**
+
+- **(3)** The amounts and costs that the proponent must pay under subsection (1) constitute a debt due to Her Majesty in right of Canada and may be recovered as such in any court of competent jurisdiction.
+> 2015, c. 19, s. 30.
+
 
 
 
@@ -2130,9 +2302,19 @@ and includes the Governor in Council, if the Governor in Council has a power ref
 	- **(a)** studies of environmental or socio-economic effects that are cumulative geographically or over time; or
 	- **(b)** research into any aspect of the assessment of activities.
 
+**Collaboration**
+
+- **(1.1)** With the approval of the ministers and first nations that request or consent to a study or research under subsection (1), the executive committee may conduct the study or research in collaboration with any other body.
+
 **Agreement**
 
 - **(2)** The executive committee may conclude agreements respecting the terms of reference, scope and scheduling of studies or research with the ministers and first nations that request or consent to them.
+
+**Obtaining information**
+
+- **(3)** Subject to any other Act of Parliament, territorial law or first nation law, the executive committee may obtain from any first nation, government agency or independent regulatory agency any information in their possession that the executive committee requires for the purpose of conducting a study or research.
+> 2003, c. 7, s. 112; 2015, c. 19, s. 31.
+
 
 
 
@@ -2141,11 +2323,13 @@ and includes the Governor in Council, if the Governor in Council has a power ref
 
 **113** 
 
-- **(1)** The executive committee shall report the results of a study or of research undertaken under section 112 to the minister or first nation that requested or consented to it, and may include recommendations in the report.
+- **(1)** The executive committee shall submit a report on the results of a study or of research undertaken under section 112 to the minister or first nation that requested or consented to it and shall, as soon as feasible after submitting the report, make it available to the public. The executive committee may include recommendations in the report.
 
 **Consideration of report**
 
 - **(2)** The minister or first nation shall give full and fair consideration to any recommendations of the executive committee.
+> 2003, c. 7, s. 113; 2015, c. 19, s. 32.
+
 
 
 
@@ -2214,7 +2398,9 @@ and includes the Governor in Council, if the Governor in Council has a power ref
 **118** The Board shall maintain
 - **(a)** a register containing all documents that are produced, collected or received by the executive committee, panels of the Board and joint panels in relation to assessments, together with any documents provided to them under subsection 91(1);
 - **(b)** a list of the projects, existing projects, other activities and plans for which an assessment is pending before, or has been completed by, the designated offices, the executive committee, panels of the Board and joint panels, together with their location and stage of assessment; and
-- **(c)** a record of authorizations, grants of interest in land and provisions of financial assistance as reported to it pursuant to section 89.
+- **(c)** a record of authorizations, grants of interest in land and provisions of financial assistance in respect of which the Board has been notified under section 89.
+> 2003, c. 7, s. 118; 2015, c. 19, s. 33(E).
+
 
 
 
@@ -2252,6 +2438,33 @@ and includes the Governor in Council, if the Governor in Council has a power ref
 
 
 
+### Policy Directions
+
+
+
+**Minister’s policy directions**
+
+**121.1** 
+
+- **(1)** The federal minister may, after consultation with the Board, give written policy directions that are binding on the Board with respect to the exercise or performance of any of its powers, duties or functions under this Act.
+
+**Limitation**
+
+- **(2)** Policy directions do not apply in respect of any proposal for a project that, at the time the directions are given, has been submitted to a designated office, the executive committee or a panel of the Board.
+
+**Publication**
+
+- **(3)** Immediately after giving a policy direction to the Board, the federal minister shall cause a notice to be published in the Canada Gazette stating that the direction will be published by the Board on its Internet site. Immediately after receiving the direction, the Board shall publish them on its Internet site and may also make it accessible by any other means that the Board considers appropriate.
+
+**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+- **(4)** Sections 3, 5 and 11 of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) do not apply in respect of the policy directions.
+> 2015, c. 19, s. 34.
+
+
+
+
+
 ### Regulations and Orders
 
 
@@ -2262,10 +2475,21 @@ and includes the Governor in Council, if the Governor in Council has a power ref
 - **(a)** defining resident for the purposes of section 9, respecting proceedings for removal of a member from office under subsection 11(2) and determining which member is to be removed if more than one member changes residence during a given period;
 - **(b)** specifying any matter to be taken into consideration in the conduct of an assessment of a project or existing project, for the purposes of paragraph 42(1)(j);
 - **(c)** specifying the projects for which proposals are to be submitted to the executive committee under subsection 50(1);
-- **(d)** prescribing time periods for the purposes of subsection 75(1), 76(1) or 77(3);
+- **(d)** prescribing periods for the purposes of section 75 or subsection 76(1) or 77(3);
 - **(e)** respecting the manner of consultation between decision bodies under subsection 78(1);
 - **(f)** specifying the types of plans that may be reviewed by a panel of the Board under subsection 105(1); and
 - **(g)** establishing a funding program to facilitate the participation of specified classes of persons or groups in reviews of projects.
+> 2003, c. 7, s. 122; 2015, c. 19, s. 35.
+
+
+
+
+
+**Power of Governor in Council**
+
+**122.1** The Governor in Council may, following consultation by the federal minister with the territorial minister, first nations, the Council and the Board, make regulations respecting the recovery of costs for the purposes of section 93.1, including prescribing amounts and services for that section and exempting any class of proponents or class of projects from the application of that section.
+> 2015, c. 19, s. 36.
+
 
 
 
@@ -2276,6 +2500,8 @@ and includes the Governor in Council, if the Governor in Council has a power ref
 - **(a)** amend Part 1 of the schedule by adding to it the name of any body having power under a federal law, other than the [Yukon Act](/en/Acts/Statutes%20of%20Canada/2002/c.%207.md), to issue authorizations whose terms and conditions are not subject to variation by the Governor in Council or a minister of the Crown;
 - **(b)** amend Part 2 of the schedule by adding to it the name of any body having the power under the [Yukon Act](/en/Acts/Statutes%20of%20Canada/2002/c.%207.md) to issue authorizations whose terms and conditions are not subject to variation by the Commissioner of Yukon or by a minister of the territorial government; or
 - **(c)** amend the schedule by deleting the name of any body.
+> 2003, c. 7, s. 123; 2015, c. 19, s. 37(F).
+
 
 
 
@@ -2404,6 +2630,8 @@ and includes the Governor in Council, if the Governor in Council has a power ref
 
 
 
+Canadian Nuclear Safety Commission<br />- <i>Commission canadienne de sûreté nucléaire</i>
+
 National Energy Board<br />- <i>Office national de l’énergie</i>
 
 
@@ -2414,5 +2642,7 @@ National Energy Board<br />- <i>Office national de l’énergie</i>
 
 
 
+
+> 2003, c. 7, Sch.; 2015, c. 19, s. 38.
 
 
