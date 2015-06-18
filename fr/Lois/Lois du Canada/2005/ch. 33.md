@@ -66,6 +66,33 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Nécessité du consentement**
+
+**2.1** Le mariage requiert le consentement libre et éclairé de deux personnes à se prendre mutuellement pour époux.
+> 2015, ch. 29, art. 4.
+
+
+
+
+
+**Âge minimal**
+
+**2.2** Nul ne peut contracter mariage avant d’avoir atteint l’âge de seize ans.
+> 2015, ch. 29, art. 4.
+
+
+
+
+
+**Mariage antérieur**
+
+**2.3** Nul ne peut contracter un nouveau mariage avant que tout mariage antérieur ait été dissous par le décès ou le divorce ou frappé de nullité par ordonnance d’un tribunal.
+> 2015, ch. 29, art. 4.
+
+
+
+
+
 **Autorités religieuses**
 
 **3** Il est entendu que les autorités religieuses sont libres de refuser de procéder à des mariages non conformes à leurs convictions religieuses.
@@ -100,7 +127,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Ordonnances de dissolution**
 
 - **(3)** Toute ordonnance d’un tribunal rendue au Canada ou à l’étranger avant l’entrée en vigueur du présent paragraphe et annulant le mariage ou accordant le divorce aux époux dissout le mariage, pour l’application du droit canadien, à compter de la date de sa prise d’effet.
-> 2005, ch. 33, art. 5; 2013, ch. 30, art. 3.
+> 2005, ch. 33, art. 5; 2013, ch. 30, art. 3; 2015, ch. 29, art. 5(A).
 
 
 
