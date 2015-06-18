@@ -99,7 +99,7 @@ and includes a museum;
 
 **To be interpreted with [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md)**
 
-- **(2)** For greater certainty, unless otherwise provided, words and expressions used in this Act have the meanings assigned to them by section 2 or 84 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+- **(2)** Unless otherwise provided, words and expressions used in this Act have the meanings assigned to them by section 2 or 84 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). Subsections 117.15(3) and (4) of that Act apply to those words and expressions.
 
 **Deemed references to Registrar**
 
@@ -108,7 +108,7 @@ and includes a museum;
 **Aboriginal and treaty rights**
 
 - **(3)** For greater certainty, nothing in this Act shall be construed so as to abrogate or derogate from any existing aboriginal or treaty rights of the aboriginal peoples of Canada under section 35 of the Constitution Act, 1982.
-> 1995, c. 39, s. 2; 2000, c. 12, s. 116; 2001, c. 4, s. 85; 2003, c. 8, s. 9; 2005, c. 10, s. 29
+> 1995, c. 39, s. 2; 2000, c. 12, s. 116; 2001, c. 4, s. 85; 2003, c. 8, s. 9; 2005, c. 10, s. 29; 2015, c. 27, s. 2
 
 
 
@@ -184,8 +184,8 @@ firearms, prohibited weapons, restricted weapons, prohibited devices, ammunition
 
 **Exception**
 
-- **(3)** Notwithstanding subsection (2), in determining whether a non-resident who is eighteen years old or older and by or on behalf of whom an application is made for a sixty-day licence authorizing the non-resident to possess firearms that are neither prohibited firearms nor restricted firearms is eligible to hold a licence under subsection (1), a chief firearms officer or, on a reference under section 74, a provincial court judge may but need not have regard to the criteria described in subsection (2).
-> 1995, c. 39, ss. 5, 137; 1996, c. 19, s. 76.1; 2003, c. 8, s. 10
+- **(3)** Despite subsection (2), in determining whether a non-resident who is 18 years old or older and by or on behalf of whom an application is made for a 60-day licence authorizing the non-resident to possess non-restricted firearms is eligible to hold a licence under subsection (1), a chief firearms officer or, on a reference under section 74, a provincial court judge may but need not have regard to the criteria described in subsection (2).
+> 1995, c. 39, ss. 5, 137; 1996, c. 19, s. 76.1; 2003, c. 8, s. 10; 2015, c. 27, s. 3
 
 
 
@@ -210,7 +210,7 @@ firearms, prohibited weapons, restricted weapons, prohibited devices, ammunition
 
 - **(1)** An individual is eligible to hold a licence only if the individual
 	- **(a)** successfully completes the Canadian Firearms Safety Course, as given by an instructor who is designated by a chief firearms officer, and passes the tests, as administered by an instructor who is designated by a chief firearms officer, that form part of that Course;
-	- **(b)** except in the case of an individual who is less than eighteen years old, passes the tests, as administered by an instructor who is designated by a chief firearms officer, that form part of that Course;
+	- **(b)** passed, before the commencement day, the tests, as administered by an instructor who is designated by a chief firearms officer, that form part of that Course;
 	- **(c)** successfully completed, before January 1, 1995, a course that the attorney general of the province in which the course was given had, during the period beginning on January 1, 1993 and ending on December 31, 1994, approved for the purposes of section 106 of the former Act; or
 	- **(d)** passed, before January 1, 1995, a test that the attorney general of the province in which the test was administered had, during the period beginning on January 1, 1993 and ending on December 31, 1994, approved for the purposes of section 106 of the former Act.
 
@@ -218,7 +218,7 @@ firearms, prohibited weapons, restricted weapons, prohibited devices, ammunition
 
 - **(2)** An individual is eligible to hold a licence authorizing the individual to possess prohibited firearms or restricted firearms only if the individual
 	- **(a)** successfully completes a restricted firearms safety course that is approved by the federal Minister, as given by an instructor who is designated by a chief firearms officer, and passes any tests, as administered by an instructor who is designated by a chief firearms officer, that form part of that course; or
-	- **(b)** passes a restricted firearms safety test, as administered by an instructor who is designated by a chief firearms officer, that is approved by the federal Minister.
+	- **(b)** passed, before the commencement day, a restricted firearms safety test, as administered by an instructor who is designated by a chief firearms officer, that is approved by the federal Minister.
 
 **After expiration of prohibition order**
 
@@ -237,12 +237,12 @@ firearms, prohibited weapons, restricted weapons, prohibited devices, ammunition
 	- **(b)** is less than eighteen years old and requires a firearm to hunt or trap in order to sustain himself or herself or his or her family;
 	- **(c)** on the commencement day, possessed one or more firearms and does not require a licence to acquire other firearms;
 	- **(d)** requires a licence merely to acquire cross-bows; or
-	- **(e)** is a non-resident who is eighteen years old or older and by or on behalf of whom an application is made for a sixty-day licence authorizing the non-resident to possess firearms that are neither prohibited firearms nor restricted firearms.
+	- **(e)** is a non-resident who is 18 years old or older and by or on behalf of whom an application is made for a 60-day licence authorizing the non-resident to possess non-restricted firearms.
 
 **Further exception**
 
 - **(5)** Subsection (3) does not apply to an individual in respect of whom an order is made under section 113 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) (lifting of prohibition order for sustenance or employment) and who is exempted by a chief firearms officer from the application of that subsection.
-> 1995, c. 39, s. 7; 2003, c. 8, s. 11
+> 1995, c. 39, s. 7; 2003, c. 8, s. 11; 2015, c. 27, s. 4
 
 
 
@@ -291,7 +291,7 @@ firearms, prohibited weapons, restricted weapons, prohibited devices, ammunition
 
 **Employees — firearms**
 
-- **(3)** Subject to subsection (3.1), a business other than a carrier is eligible to hold a licence that authorizes the possession of firearms only if every employee of the business who, in the course of duties of employment, handles or would handle firearms is the holder of a licence authorizing the holder to acquire firearms that are neither prohibited firearms nor restricted firearms.
+- **(3)** Subject to subsection (3.1), a business other than a carrier is eligible to hold a licence that authorizes the possession of firearms only if every employee of the business who, in the course of duties of employment, handles or would handle firearms is the holder of a licence authorizing the holder to acquire non-restricted firearms.
 
 **Employees — prohibited firearms or restricted firearms**
 
@@ -316,7 +316,7 @@ firearms, prohibited weapons, restricted weapons, prohibited devices, ammunition
 - **(6)** Subsection (3) does not apply in respect of an employee of a museum
 	- **(a)** who, in the course of duties of employment, handles or would handle only firearms that are designed or intended to exactly resemble, or to resemble with near precision, antique firearms, and who has been trained to handle or use such a firearm; or
 	- **(b)** who is designated, by name, by a provincial minister.
-> 1995, c. 39, s. 9; 2003, c. 8, s. 12
+> 1995, c. 39, s. 9; 2003, c. 8, s. 12; 2015, c. 27, s. 5
 
 
 
@@ -549,12 +549,12 @@ was continuously the holder of a registration certificate for one or more of tho
 
 
 
-**Authorization to transfer firearms neither prohibited nor restricted**
+**Authorization to transfer non-restricted firearms**
 
-**23** A person may transfer a firearm that is neither a prohibited firearm nor a restricted firearm if, at the time of the transfer,
+**23** A person may transfer a non-restricted firearm if, at the time of the transfer,
 - **(a)** the transferee holds a licence authorizing the transferee to acquire and possess that kind of firearm; and
 - **(b)** the transferor has no reason to believe that the transferee is not authorized to acquire and possess that kind of firearm.
-> 1995, c. 39, s. 23; 2003, c. 8, s. 17; 2012, c. 6, s. 11
+> 1995, c. 39, s. 23; 2003, c. 8, s. 17; 2012, c. 6, s. 11; 2015, c. 27, s. 7
 
 
 
@@ -801,10 +801,12 @@ was continuously the holder of a registration certificate for one or more of tho
 
 **Non-compliance**
 
-- **(4)** Where a firearm that is neither a prohibited firearm nor a restricted firearm is declared at a customs office to a customs officer and
+- **(4)** If a non-restricted firearm is declared at a customs office to a customs officer and
 	- **(a)** the non-resident has not truthfully completed the prescribed form, or
 	- **(b)** the customs officer has reasonable grounds to believe that it is desirable, in the interests of the safety of the non-resident or any other person, that the declaration not be confirmed,
 the customs officer may refuse to confirm the declaration and may authorize the firearm to be exported from that customs office.
+> 1995, c. 39, s. 35; 2015, c. 27, s. 8
+
 
 
 
@@ -814,7 +816,7 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 **36** 
 
 - **(1)** A declaration that is confirmed under paragraph 35(1)(b) has the same effect after the importation of the firearm as a licence authorizing the non-resident to possess only that firearm and, in the case of a restricted firearm, as a registration certificate for the firearm until
-	- **(a)** the expiry of 60 days after the importation, in the case of a firearm that is neither a prohibited firearm nor a restricted firearm; or
+	- **(a)** the expiry of 60 days after the importation, in the case of a non-restricted firearm; or
 	- **(b)** the earlier of the expiry of 60 days after the importation and the expiry of the authorization to transport, in the case of a restricted firearm.
 
 **Renewal**
@@ -824,7 +826,7 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 **Electronic or other means**
 
 - **(3)** For greater certainty, an application for a renewal of the confirmation of a declaration may be made by telephone or other electronic means or by mail and a chief firearms officer may renew that confirmation by electronic means or by mail.
-> 1995, c. 39, s. 36; 2012, c. 6, s. 16
+> 1995, c. 39, s. 36; 2012, c. 6, s. 16; 2015, c. 27, s. 9
 
 
 
@@ -982,6 +984,10 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 
 - **(1)** A chief firearms officer who issues a licence, an authorization to carry or an authorization to transport may attach any reasonable condition to it that the chief firearms officer considers desirable in the particular circumstances and in the interests of the safety of the holder or any other person.
 
+**Exception — licence or authorization**
+
+- **(1.1)** However, a chief firearms officer’s power to attach a condition to a licence, an authorization to carry or an authorization to transport is subject to the regulations.
+
 **Minors**
 
 - **(2)** Before attaching a condition to a licence that is to be issued to an individual who is less than eighteen years old and who is not eligible to hold a licence under subsection 8(2) (minors hunting as a way of life), a chief firearms officer must consult with a parent or person who has custody of the individual.
@@ -989,6 +995,8 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 **Minors**
 
 - **(3)** Before issuing a licence to an individual who is less than eighteen years old and who is not eligible to hold a licence under subsection 8(2) (minors hunting as a way of life), a chief firearms officer shall have a parent or person who has custody of the individual sign the licence, including any conditions attached to it.
+> 1995, c. 39, s. 58; 2015, c. 27, s. 12
+
 
 
 
@@ -1025,8 +1033,8 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 
 **Businesses**
 
-- **(4)** A licence that is issued to a business must specify each particular activity that the licence authorizes in relation to prohibited firearms, restricted firearms, firearms that are neither prohibited firearms nor restricted firearms, cross-bows, prohibited weapons, restricted weapons, prohibited devices, ammunition or prohibited ammunition.
-> 1995, c. 39, s. 61; 2003, c. 8, s. 38
+- **(4)** A licence that is issued to a business must specify each particular activity that the licence authorizes in relation to firearms, cross-bows, prohibited weapons, restricted weapons, prohibited devices, ammunition or prohibited ammunition.
+> 1995, c. 39, s. 61; 2003, c. 8, s. 38; 2015, c. 27, s. 13
 
 
 
@@ -1974,6 +1982,7 @@ may issue a warrant authorizing the inspector named in it to enter that dwelling
 	- **(i)** prohibited firearms, prohibited weapons, restricted weapons, prohibited devices and prohibited ammunition, or
 	- **(ii)** components or parts of prohibited firearms, prohibited weapons, restricted weapons, prohibited devices and prohibited ammunition;
 - **(j)** regulating the possession and use of restricted weapons;
+- **(j.1)** respecting the possession and transportation of firearms during the extension period referred to in subsection 64(1.1);
 - **(k)** for authorizing
 	- **(i)** the possession at any place, or
 	- **(ii)** the manufacture or transfer, whether or not for consideration, or offer to manufacture or transfer, whether or not for consideration,
@@ -2010,7 +2019,7 @@ of firearms, prohibited weapons, restricted weapons, prohibited devices, ammunit
 	- **(vi)** the Restricted Weapon Registration Certificate for Classes of Persons other than Individuals Regulations, made by Order in Council P.C. 1993-766 of April 20, 1993 and registered as SOR/93-200, and
 	- **(vii)** sections 7, 15 and 17 of the Restricted Weapons and Firearms Control Regulations, made by Order in Council P.C. 1978-2572 of August 16, 1978 and registered as SOR/78-670, and the headings before them; and
 - **(w)** prescribing anything that by any provision of this Act is to be prescribed by regulation.
-> 1995, c. 39, s. 117; 2003, c. 8, s. 54, c. 22, s. 224(E)
+> 1995, c. 39, s. 117; 2003, c. 8, s. 54, c. 22, s. 224(E); 2015, c. 27, s. 16
 
 
 
@@ -2124,7 +2133,7 @@ of firearms, prohibited weapons, restricted weapons, prohibited devices, ammunit
 
 **Authorizations**
 
-- **(2)** A permit that is deemed to be a licence authorizes the holder to possess firearms that are neither prohibited firearms nor restricted firearms.
+- **(2)** A permit that is deemed to be a licence authorizes the holder to possess non-restricted firearms.
 
 **Geographical extent**
 
@@ -2136,6 +2145,8 @@ of firearms, prohibited weapons, restricted weapons, prohibited devices, ammunit
 	- **(a)** the expiration of the period for which it was expressed to be issued,
 	- **(b)** the day on which the person to whom it was issued attains the age of eighteen years, and
 	- **(c)** five years after the birthday of the person next following the day on which it was issued, if that fifth anniversary occurs on or after the commencement day.
+> 1995, c. 39, s. 121; 2015, c. 27, s. 17
+
 
 
 
