@@ -64,6 +64,33 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
+**Consent required**
+
+**2.1** Marriage requires the free and enlightened consent of two persons to be the spouse of each other.
+> 2015, c. 29, s. 4.
+
+
+
+
+
+**Minimum age**
+
+**2.2** No person who is under the age of 16 years may contract marriage.
+> 2015, c. 29, s. 4.
+
+
+
+
+
+**Previous marriage**
+
+**2.3** No person may contract a new marriage until every previous marriage has been dissolved by death or by divorce or declared null by a court order.
+> 2015, c. 29, s. 4.
+
+
+
+
+
 **Religious officials**
 
 **3** It is recognized that officials of religious groups are free to refuse to perform marriages that are not in accordance with their religious beliefs.
@@ -97,8 +124,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Order dissolving marriage**
 
-- **(3)** Any court order, made in Canada or elsewhere before the coming into force of this subsection, that declares the marriage to be null and void or that grants a divorce to the spouses dissolves the marriage, for the purposes of Canadian law, as of the day on which the order takes effect.
-> 2005, c. 33, s. 5; 2013, c. 30, s. 3.
+- **(3)** Any court order, made in Canada or elsewhere before the coming into force of this subsection, that declares the marriage to be null or that grants a divorce to the spouses dissolves the marriage, for the purposes of Canadian law, as of the day on which the order takes effect.
+> 2005, c. 33, s. 5; 2013, c. 30, s. 3; 2015, c. 29, s. 5(E).
 
 
 
