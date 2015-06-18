@@ -89,75 +89,75 @@
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***agent de contrôle*** Toute personne désignée à ce titre par le ministre en vertu du paragraphe 27(1) pour l’application de la présente loi.
+***agent de contrôle*** Toute personne désignée à ce titre par le ministre en vertu du paragraphe 27(1) pour l’application de la présente loi. (*screening officer*)
 
-***autorité responsable du service de voirie*** Administration publique ayant légalement le droit d’ouvrir et d’entretenir des routes.
+***autorité responsable du service de voirie*** Administration publique ayant légalement le droit d’ouvrir et d’entretenir des routes. (*road authority*)
 
-***biens*** Toute chose pouvant être apportée ou placée à bord d’un train comme effet personnel, bagage ou marchandises.
+***biens*** Toute chose pouvant être apportée ou placée à bord d’un train comme effet personnel, bagage ou marchandises. (*goods*)
 
-***chemin de fer*** Chemin de fer relevant de l’autorité législative du Parlement. Sont également visés :
+***chemin de fer*** Chemin de fer relevant de l’autorité législative du Parlement. Sont également visés :
 - **a)** les embranchements et prolongements, les voies de garage et d’évitement, les ponts et tunnels, les gares et stations, les dépôts et quais, le matériel roulant, l’équipement et les fournitures, ainsi que tous les autres biens qui dépendent du chemin de fer;
-- **b)** les systèmes de communication ou de signalisation et les installations et équipements connexes qui servent à l’exploitation du chemin de fer.
+- **b)** les systèmes de communication ou de signalisation et les installations et équipements connexes qui servent à l’exploitation du chemin de fer. (*railway*)
 
-***compagnie*** Compagnie de chemin de fer ou compagnie de chemin de fer locale.
+***compagnie*** Compagnie de chemin de fer ou compagnie de chemin de fer locale. (*company*)
 
-***compagnie de chemin de fer*** Personne qui, selon le cas, construit, exploite ou entretient un chemin de fer.
+***compagnie de chemin de fer*** Personne qui, selon le cas, construit, exploite ou entretient un chemin de fer. (*railway company*)
 
-***compagnie de chemin de fer locale*** Personne, autre qu’une compagnie de chemin de fer ou les mandataires de celle-ci, qui exploite du matériel ferroviaire sur un chemin de fer.
+***compagnie de chemin de fer locale*** Personne, autre qu’une compagnie de chemin de fer ou les mandataires de celle-ci, qui exploite du matériel ferroviaire sur un chemin de fer. (*local railway company*)
 
-*French version only****conseiller*** Membre du Tribunal.
+***conseiller*** Membre du Tribunal. (*French version only*)
 
-***contrôle*** Acte autorisé ou exigé, en vertu d’un règlement ou d’un texte relatif à la sûreté du transport ferroviaire, pour la vérification, la surveillance, l’inspection et la visite des personnes ou des biens en vue de prévenir la possession et le transport non autorisés d’armes, d’explosifs ou d’engins incendiaires à bord d’un train ou dans une installation ferroviaire.
+***contrôle*** Acte autorisé ou exigé, en vertu d’un règlement ou d’un texte relatif à la sûreté du transport ferroviaire, pour la vérification, la surveillance, l’inspection et la visite des personnes ou des biens en vue de prévenir la possession et le transport non autorisés d’armes, d’explosifs ou d’engins incendiaires à bord d’un train ou dans une installation ferroviaire. (*authorized screening*)
 
-***cour supérieure*** Selon le cas :
+***cour supérieure*** Selon le cas :
 - **a)** la Cour supérieure de justice de l’Ontario;
 - **a.1)** la Section de première instance de la Cour suprême de Terre-Neuve-et-Labrador;
 - **b)** la Cour suprême de la Nouvelle-Écosse, de la Colombie-Britannique et de l’Île-du-Prince-Édouard;
 - **c)** la Cour du Banc de la Reine du Nouveau-Brunswick, du Manitoba, de la Saskatchewan ou de l’Alberta;
 - **d)** la Cour supérieure du Québec;
-- **e)** la Cour suprême du Yukon, la Cour suprême des Territoires du Nord-Ouest et la Cour de justice du Nunavut.
+- **e)** la Cour suprême du Yukon, la Cour suprême des Territoires du Nord-Ouest et la Cour de justice du Nunavut. (*superior court*)
 
-***desserte*** Ligne servant au transport de produits ou d’énergie ou à la fourniture de services, notamment par fil, câble ou canalisation.
+***desserte*** Ligne servant au transport de produits ou d’énergie ou à la fourniture de services, notamment par fil, câble ou canalisation. (*utility line*)
 
-***franchissement par desserte*** Franchissement par une desserte d’une voie ferrée par passage supérieur ou inférieur, ainsi que tous les éléments structuraux facilitant le franchissement ou nécessaires à la partie visée de cette desserte.
+***franchissement par desserte*** Franchissement par une desserte d’une voie ferrée par passage supérieur ou inférieur, ainsi que tous les éléments structuraux facilitant le franchissement ou nécessaires à la partie visée de cette desserte. (*utility crossing*)
 
-***franchissement routier*** Franchissement par une route d’une voie ferrée par passage supérieur, inférieur ou à niveau, ainsi que tous les éléments structuraux facilitant le franchissement ou nécessaires à la partie visée de cette route.
+***franchissement routier*** Franchissement par une route d’une voie ferrée par passage supérieur, inférieur ou à niveau, ainsi que tous les éléments structuraux facilitant le franchissement ou nécessaires à la partie visée de cette route. (*road crossing*)
 
-***installations ferroviaires*** Lignes de chemin de fer et ouvrages de franchissement — ensemble ou séparément — ou partie de ceux-ci.
+***installations ferroviaires*** Lignes de chemin de fer et ouvrages de franchissement — ensemble ou séparément — ou partie de ceux-ci. (*railway work*)
 
-***ligne de chemin de fer*** Sont compris dans une ligne de chemin de fer, à l’exclusion toutefois des ouvrages de franchissement, la signalisation, le système d’aiguillage et les dispositifs, ainsi que les ouvrages situés aux abords de la ligne, qui en facilitent l’exploitation, notamment pour le drainage.
+***ligne de chemin de fer*** Sont compris dans une ligne de chemin de fer, à l’exclusion toutefois des ouvrages de franchissement, la signalisation, le système d’aiguillage et les dispositifs, ainsi que les ouvrages situés aux abords de la ligne, qui en facilitent l’exploitation, notamment pour le drainage. (*line work*)
 
- ou ***matériel ferroviaire*** ou ***train*** Toute machine conçue exclusivement pour le déplacement, autonome ou non, sur les voies ferrées. Y est assimilé tout autre véhicule pouvant circuler sur ces voies et ailleurs et dont le dispositif permettant le déplacement sur rail est en service.
+***matériel ferroviaire*** ou ***train*** Toute machine conçue exclusivement pour le déplacement, autonome ou non, sur les voies ferrées. Y est assimilé tout autre véhicule pouvant circuler sur ces voies et ailleurs et dont le dispositif permettant le déplacement sur rail est en service. (*railway equipment*)
 
-***ministre*** Le ministre des Transports.
+***ministre*** Le ministre des Transports. (*Minister*)
 
 ***modification***[Abrogée, 1999, ch. 9, art. 2]
 
-***niveau de sécurité le plus élevé*** Le niveau de risque le plus bas qui soit acceptable selon une analyse de risque.
+***niveau de sécurité le plus élevé*** Le niveau de risque le plus bas qui soit acceptable selon une analyse de risque. (*highest level of safety*)
 
-***normes techniques*** Normes établies au titre de l’article 7.
+***normes techniques*** Normes établies au titre de l’article 7. (*engineering standards*)
 
-***Office*** L’Office des transports du Canada maintenu par l’article 7 de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md).
+***Office*** L’Office des transports du Canada maintenu par l’article 7 de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md). (*Agency*)
 
-***organisation intéressée*** Association ou organisation formée pour représenter le personnel d’une compagnie de chemin de fer ou les propriétaires ou locataires de matériel ferroviaire utilisé sur les voies ferrées exploitées par une telle compagnie de chemin de fer, et classée par arrêté du ministre comme organisation intéressée par rapport à la compagnie.
+***organisation intéressée*** Association ou organisation formée pour représenter le personnel d’une compagnie de chemin de fer ou les propriétaires ou locataires de matériel ferroviaire utilisé sur les voies ferrées exploitées par une telle compagnie de chemin de fer, et classée par arrêté du ministre comme organisation intéressée par rapport à la compagnie. (*relevant association or organization*)
 
-***ouvrage de franchissement*** Franchissement routier ou par desserte.
+***ouvrage de franchissement*** Franchissement routier ou par desserte. (*crossing work*)
 
-***personne*** Y sont assimilées toute administration municipale ainsi que toute autorité responsable du service de voirie.
+***personne*** Y sont assimilées toute administration municipale ainsi que toute autorité responsable du service de voirie. (*person*)
 
-***promoteur*** Personne qui se propose d’entreprendre ou d’ordonner la construction ou la modification d’installations ferroviaires, de son propre gré ou en raison des obligations découlant d’une autre loi.
+***promoteur*** Personne qui se propose d’entreprendre ou d’ordonner la construction ou la modification d’installations ferroviaires, de son propre gré ou en raison des obligations découlant d’une autre loi ou d’un arrêté pris en vertu de l’article 32.01. (*proponent*)
 
-***route*** Voie terrestre — publique ou non — pour véhicules ou piétons.
+***route*** Voie terrestre — publique ou non — pour véhicules ou piétons. (*road*)
 
-***science de la fatigue*** Méthode scientifique systématique fondée sur des données servant à mesurer et à gérer la fatigue humaine.
+***science de la fatigue***[Abrogée, 2015, ch. 31, art. 17]
 
-***système de gestion de la sécurité*** Protocole visant la mise en oeuvre de la sécurité ferroviaire dans l’exploitation ferroviaire courante et intégrant les responsabilités et les pouvoirs au sein d’une compagnie, les règles, les procédures, les processus de surveillance et d’évaluation auxquels elle est assujettie ainsi que les objectifs en matière de sécurité, de rendement des mécanismes de contrôle d’application et d’évaluation des risques.
+***système de gestion de la sécurité*** Protocole visant la mise en oeuvre de la sécurité ferroviaire dans l’exploitation ferroviaire courante et intégrant les responsabilités et les pouvoirs au sein d’une compagnie, les règles, les procédures, les processus de surveillance et d’évaluation auxquels elle est assujettie ainsi que les objectifs en matière de sécurité, de rendement des mécanismes de contrôle d’application et d’évaluation des risques. (*safety management system*)
 
-***texte relatif à la sûreté du transport ferroviaire*** Règle établie ou proposée en vertu des articles 19 ou 20, injonction prise par le ministre en vertu de l’article 33, avis donné par l’inspecteur en application du paragraphe 31(3) ou mesure établie en vertu du paragraphe 39.1(1).
+***texte relatif à la sûreté du transport ferroviaire*** Règle établie ou proposée en vertu des articles 19 ou 20, injonction prise par le ministre en vertu de l’article 33, ordre relatif à la sûreté donné dans un avis de l’inspecteur en application du paragraphe 31(2) ou mesure établie en vertu du paragraphe 39.1(1). (*security document*)
 
-***Tribunal*** Le Tribunal d’appel des transports du Canada constitué par le paragraphe 2(1) de la [Loi sur le Tribunal d’appel des transports du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2029.md).
+***Tribunal*** Le Tribunal d’appel des transports du Canada constitué par le paragraphe 2(1) de la [Loi sur le Tribunal d’appel des transports du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2029.md). (*Tribunal*)
 
-***zone réglementée*** Toute zone établie aux termes d’un règlement ou d’un texte relatif à la sûreté du transport ferroviaire et dont l’accès est réservé aux personnes autorisées.
+***zone réglementée*** Toute zone établie aux termes d’un règlement ou d’un texte relatif à la sûreté du transport ferroviaire et dont l’accès est réservé aux personnes autorisées. (*restricted area*)
 
 - **(2)** [Abrogé, 2012, ch. 7, art. 4]
 
@@ -176,7 +176,7 @@
 **Notification et communication de documents**
 
 - **(5)** Pour l’application de la présente loi — à l’exception de toute notification ou communication de documents par le Tribunal ou à celui-ci —, toute notification ou communication de documents se fait, dans le cas d’une personne physique, par remise au destinataire, par courrier recommandé à sa dernière adresse connue ou par télécopieur et, dans le cas d’une personne morale, par télécopieur ou par courrier recommandé à son siège ou à tout autre bureau spécifié par le ministre. Elle peut aussi être faite par tout autre moyen, notamment électronique, approuvé par écrit par le ministre et aux conditions fixées par lui.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 4; 1992, ch. 51, art. 61; 1996, ch. 10, art. 263; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 82, ch. 9, art. 2; 2001, ch. 29, art. 64; 2002, ch. 7, art. 234(A); 2012, ch. 7, art. 4; 2015, ch. 3, art. 150.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 4; 1992, ch. 51, art. 61; 1996, ch. 10, art. 263; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 82, ch. 9, art. 2; 2001, ch. 29, art. 64; 2002, ch. 7, art. 234(A); 2012, ch. 7, art. 4; 2015, ch. 3, art. 150, ch. 31, art. 17.
 
 
 
@@ -263,33 +263,33 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 
 **7** 
 
-- **(1)** Le gouverneur en conseil peut, par règlement, régir l’établissement de normes concernant la structure ou le rendement d’installations ferroviaires et applicables à la construction ou à la modification de celles-ci.
+- **(1)** Le gouverneur en conseil peut prendre des règlements pour régir l’établissement de normes techniques concernant la structure ou le rendement d’installations ferroviaires et applicables à la construction ou à la modification de celles-ci.
 
 **Arrêté ministériel**
 
-- **(2)** Le ministre peut, par arrêté, enjoindre à une compagnie de chemin de fer soit d’établir des normes concernant l’un des domaines visés au paragraphe (1), soit de modifier, d’une façon particulière, de telles normes et d’en déposer, pour approbation, le texte auprès de lui, le tout dans un délai déterminé dans l’arrêté.
+- **(2)** Le ministre peut, par arrêté, enjoindre à une compagnie de chemin de fer soit d’établir des normes techniques concernant l’un des domaines visés au paragraphe (1), soit de modifier, d’une façon particulière, de telles normes et d’en déposer, pour approbation, le texte auprès de lui, le tout dans un délai déterminé dans l’arrêté.
 
 **Initiative de la compagnie**
 
-- **(2.1)** La compagnie de chemin de fer qui se propose d’établir des normes concernant l’un des domaines visés au paragraphe (1) ou de modifier de telles normes en dépose, pour approbation, le texte auprès du ministre.
+- **(2.1)** La compagnie de chemin de fer qui se propose d’établir des normes techniques concernant l’un des domaines visés au paragraphe (1) ou de modifier de telles normes en dépose, pour approbation, le texte auprès du ministre.
 
 **Application de certaines dispositions**
 
 - **(3)** Les paragraphes 19(4) à (11) s’appliquent — à l’exception de toute mention d’organisation intéressée — aux normes visées aux paragraphes (2) et (2.1), avec les adaptations nécessaires.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 7; 1999, ch. 9, art. 3; 2012, ch. 7, art. 7(F).
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 7; 1999, ch. 9, art. 3; 2012, ch. 7, art. 7(F); 2015, ch. 31, art. 18(F).
 
 
 
 
 
-### Construction de franchissements routiers
+### Construction et modification de franchissements routiers
 
 
 
 **Pouvoir réglementaire**
 
-**7.1** Le gouverneur en conseil peut prendre des règlements pour régir ou interdire la construction de franchissements routiers.
-> 1999, ch. 9, art. 4.
+**7.1** Le gouverneur en conseil peut prendre des règlements pour régir ou interdire la construction ou la modification de franchissements routiers.
+> 1999, ch. 9, art. 4; 2015, ch. 31, art. 19.
 
 
 
@@ -600,6 +600,15 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 
 **17.2** Il est interdit à toute compagnie de chemin de fer d’exploiter ou d’entretenir un chemin de fer, notamment les installations et le matériel ferroviaires, et à toute compagnie de chemin de fer locale d’exploiter du matériel ferroviaire sur un chemin de fer, en contravention avec un certificat d’exploitation de chemin de fer, les règlements et les règles établies sous le régime des articles 19 ou 20 qui lui sont applicables, sauf si elle bénéficie de l’exemption prévue aux articles 22 ou 22.1.
 > 2012, ch. 7, art. 11.
+
+
+
+
+
+**Conformité avec les normes techniques**
+
+**17.21** Sauf si elle bénéficie de l’exemption prévue à l’article 22.1, il est interdit à toute compagnie de chemin de fer de construire ou de modifier des installations ferroviaires en contravention avec les normes techniques qui lui sont applicables.
+> 2015, ch. 31, art. 20.
 
 
 
@@ -1006,10 +1015,37 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 
 
 
-### Interdiction de déroger aux règlements et règles sans exemption
+### Pouvoirs de l’Office — incendie
 
 
-**23** [Abrogé, 2012, ch. 7, art. 15]
+
+**Demande à l’Office**
+
+**23** 
+
+- **(1)** La province ou la municipalité qui est intervenue à l’égard d’un incendie qui, de son avis, est le résultat de l’exploitation d’un chemin de fer par une compagnie de chemin de fer peut présenter une demande à l’Office pour le remboursement, par cette compagnie de chemin de fer, des dépenses qu’elle a ainsi engagées.
+
+**Forme de la demande**
+
+- **(2)** La demande est en la forme déterminée par règlement pris en vertu du paragraphe (5) et est accompagnée des renseignements précisés par ce règlement.
+
+**Renseignements supplémentaires**
+
+- **(3)** L’Office peut transmettre un avis à la province, à la municipalité ou à la compagnie de chemin de fer l’obligeant à produire, dans le délai qu’il y fixe, les renseignements supplémentaires spécifiés dans l’avis et relatifs à la demande.
+
+**Décision de l’Office**
+
+- **(4)** L’Office établit si l’incendie est le résultat de l’exploitation du chemin de fer par la compagnie de chemin de fer et, le cas échéant, ordonne à celle-ci, par arrêté, de rembourser les dépenses que la province ou la municipalité a, selon l’Office, raisonnablement engagées dans son intervention à l’égard de l’incendie.
+
+**Règlements**
+
+- **(5)** L’Office peut, par règlement et avec l’approbation du gouverneur en conseil, déterminer la forme des demandes prévues au présent article et préciser les renseignements devant les accompagner.
+
+**Interprétation**
+
+- **(6)** Malgré l’article 37 de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md), le présent article n’a pas pour effet de charger l’Office de l’application, en tout ou en partie, de la présente loi.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 23; 1999, ch. 9, art. 17; 2012, ch. 7, art. 15; 2015, ch. 31, art. 21.
+
 
 
 
@@ -1022,7 +1058,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 
 **23.1** 
 
-- **(1)** Il est interdit d’utiliser le sifflet d’un train sur toute partie du territoire d’une municipalité lorsque les conditions suivantes sont réunies :
+- **(1)** Il est interdit d’utiliser le sifflet d’un train sur toute partie du territoire d’une municipalité lorsque les conditions suivantes sont réunies :
 	- **a)** le territoire est conforme aux règlements pris pour l’application du présent article;
 	- **b)** l’administration municipale a, par résolution, manifesté son accord concernant l’interdiction du sifflet après avoir consulté la compagnie de chemin de fer qui exploite la voie ferrée, notifié les organisations intéressées et fait publier un avis à cet effet.
 
@@ -1032,8 +1068,8 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 
 **Exceptions**
 
-- **(3)** Malgré le paragraphe (1), l’opérateur du train peut utiliser le sifflet dans une situation d’urgence, lorsque les règles en vigueur sous le régime des articles 19 ou 20 l’exigent ou lorsque l’inspecteur de la sécurité ferroviaire l’exige en application de l’article 31.
-> 1999, ch. 9, art. 18.
+- **(3)** Malgré le paragraphe (1), l’opérateur du train peut utiliser le sifflet dans une situation d’urgence, lorsque les règles en vigueur sous le régime des articles 19 ou 20 ou les règlements l’exigent ou lorsque l’inspecteur de la sécurité ferroviaire l’exige en application de l’article 31.
+> 1999, ch. 9, art. 18; 2015, ch. 31, art. 22.
 
 
 
@@ -1048,17 +1084,17 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 
 
 
-**Règlements : activités sur les terrains contigus**
+**Règlements : activités sur les terrains contigus**
 
 **24** 
 
-- **(1)** Le gouverneur en conseil peut, par règlement, régir :
-	- **a)** la construction, la modification et l’entretien de bâtiments et ouvrages autres que des installations ferroviaires — construits au-dessus ou au-dessous d’une voie ferrée ou sur un terrain contigu à celle-ci — , ou en interdire la construction ou la modification, dans la mesure strictement nécessaire pour éviter qu’ils ne compromettent la sécurité ferroviaire;
+- **(1)** Le gouverneur en conseil peut, par règlement, régir :
+	- **a)** la construction, la modification et l’entretien de bâtiments et ouvrages autres que des installations ferroviaires — construits au-dessus ou au-dessous d’une voie ferrée ou sur un terrain contigu à celle-ci —, ou en interdire la construction ou la modification, dans la mesure strictement nécessaire pour éviter qu’ils ne compromettent la sécurité ferroviaire;
 	- **b)** l’ouverture de mines ou la construction d’installations non ferroviaires sur un tel terrain ou au-dessous de celui-ci, leur modification ou leur exploitation en un tel lieu, ou l’interdire, dans la même mesure;
 	- **c)** la construction, la modification ou l’entretien de réseaux de drainage sur un tel terrain, dans la mesure où ils risqueraient de compromettre la sécurité ferroviaire, ou en interdire la construction ou la modification, dans la même mesure;
 	- **d)** la présence ou l’entreposage de certaines matières sur un tel terrain, ou l’interdire;
-	- **e)** l’enlèvement de toute chose, notamment les arbres et broussailles, risquant de compromettre la sécurité ferroviaire du fait qu’elle réduise la visibilité, et l’enlèvement de plantes nuisibles sur la voie ferrée ou aux abords de celle-ci, ainsi que l’emploi de solutions de rechange aux agents chimiques pour ces opérations;
-	- **f)** l’interdiction ou la limitation, notamment par l’installation de clôtures ou de signaux, de l’accès à l’emplacement de la voie de personnes, à l’exception des préposés et mandataires de la compagnie de chemin de fer concernée — ou de la compagnie de chemin de fer locale autorisée à exploiter du matériel ferroviaire sur le chemin de fer —, de véhicules et d’animaux, afin d’éviter que ne soit compromise la sécurité ferroviaire;
+	- **e)** l’enlèvement de toute chose, notamment les arbres et broussailles, risquant de compromettre la sécurité ferroviaire du fait qu’elle réduit la visibilité d’une route ou d’une voie ferrée, et l’enlèvement de plantes nuisibles sur la voie ferrée ou aux abords de celle-ci, ainsi que l’emploi de solutions de rechange aux agents chimiques pour ces opérations;
+	- **f)** l’interdiction ou la limitation, notamment par l’installation de clôtures ou de signaux sur un terrain sur lequel se trouve une voie ferrée ou sur un terrain contigu à celui-ci, de l’accès à l’emplacement de la voie de personnes, à l’exception des préposés et mandataires de la compagnie de chemin de fer concernée — ou de la compagnie de chemin de fer locale autorisée à exploiter du matériel ferroviaire sur le chemin de fer —, de véhicules et d’animaux, afin d’éviter que ne soit compromise la sécurité ferroviaire;
 	- **f.1)** la construction, la modification et l’entretien des routes en vue de préserver la sécurité ferroviaire;
 	- **f.2)** le contrôle de la circulation des véhicules et des piétons aux abords des franchissements routiers en vue de préserver la sécurité ferroviaire;
 	- **g)** toute autre activité, sur un terrain contigu à une voie ferrée, qui risque de compromettre la sécurité ferroviaire, ou interdire cette activité.
@@ -1070,7 +1106,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Dommages-intérêts**
 
 - **(2)** La compagnie de chemin de fer exploitant la voie ferrée contiguë à un terrain paie au propriétaire, au locataire ou à l’occupant de celui-ci ou des bâtiments ou autres ouvrages qui y sont situés, ou au propriétaire des mines ou autres installations qui y sont exploitées, les dommages-intérêts entraînés par l’application des règlements pris sous le régime du présent article, convenus entre elle et le propriétaire, le locataire ou l’occupant ou, à défaut d’entente, fixés aux termes de l’article 26.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 24; 1994, ch. 15, art. 1(F); 1999, ch. 9, art. 19; 2012, ch. 7, art. 16.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 24; 1994, ch. 15, art. 1(F); 1999, ch. 9, art. 19; 2012, ch. 7, art. 16; 2015, ch. 31, art. 23.
 
 
 
@@ -1404,35 +1440,25 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 
 
 
-### Ordres concernant l’usage d’installations ou de matériel ferroviaires
+### Avis des inspecteurs de la sécurité ferroviaire en matière de sécurité ou de sûreté ferroviaires
 
 
 
-**Interdiction d’usage pour mauvais état d’installations ou de matériel ferroviaires**
+**Avis en cas de risque**
 
 **31** 
 
-- **(1)** L’inspecteur transmet à la compagnie un avis pour l’informer de son opinion et des motifs de celle-ci, lorsqu’il estime que les normes de construction ou d’entretien de ses lignes de chemin de fer ou de son matériel ferroviaire risquent de compromettre la sécurité ferroviaire. S’il est convaincu que le risque est imminent, il peut en outre, dans l’avis, ordonner à la compagnie d’empêcher l’utilisation des lignes ou du matériel visé, ou de faire en sorte qu’ils ne soient utilisés qu’à certaines conditions, tant que le risque ne lui paraîtra pas écarté.
+- **(1)** Si l’inspecteur estime que la conduite d’une personne ou que toute chose dont la responsabilité incombe à une personne comporte un risque pour la sécurité ou la sûreté ferroviaires ou pour la sécurité des personnes ou des biens, il transmet à cette personne et à toute compagnie dont les activités ferroviaires sont touchées par le risque un avis pour les informer de son opinion et des motifs de celle-ci.
 
-**Interdiction d’usage pour mauvais état d’ouvrages de franchissement**
+**Avis en cas de risque imminent**
 
-- **(2)** L’inspecteur transmet au responsable de l’entretien d’ouvrages de franchissement un avis pour l’informer de son opinion et des motifs de celle-ci, lorsqu’il estime que les normes de construction ou d’entretien de ceux-ci risquent de compromettre la sécurité ferroviaire; il transmet aussi l’avis à la compagnie de chemin de fer concernée. S’il est convaincu que le risque est imminent, il peut en outre ordonner au responsable ou à la compagnie de chemin de fer, pour ce qui est de l’ouvrage de franchissement en cause, d’empêcher son utilisation ou de faire en sorte qu’il ne soit utilisé qu’à certaines conditions, tant que le risque ne lui paraîtra pas écarté.
+- **(2)** S’il est convaincu que le risque est imminent, il peut, dans l’avis, ordonner à la personne ou à la compagnie dont les activités ferroviaires sont touchées par le risque de prendre les mesures indiquées dans l’avis pour atténuer le risque tant que celui-ci ne lui paraîtra pas écarté.
 
-**Utilisation dangereuse des franchissements routiers**
-
-- **(2.1)** L’inspecteur peut également, lorsqu’il estime que le mode d’utilisation d’un véhicule sur un franchissement routier risque de compromettre la sécurité ferroviaire, transmettre un avis à la personne qui l’utilise ou qui l’exploite commercialement pour l’informer de son opinion et des motifs de celle-ci. S’il est convaincu que le risque est imminent, il peut en outre lui ordonner de cesser de l’utiliser ou assujettir son utilisation à certaines conditions, tant que le risque ne lui paraîtra pas écarté.
-
-**Interdiction d’exploitation de lignes de chemin de fer ou de matériel ferroviaire**
-
-- **(3)** L’inspecteur transmet à la compagnie ou à tout propriétaire ou locateur de matériel ferroviaire un avis pour l’informer de son opinion et des motifs de celle-ci, lorsqu’il estime que l’exploitation de ses lignes de chemin de fer ou de son matériel ferroviaire compromet la sécurité ou la sûreté ferroviaires. S’il est convaincu que le risque est imminent, il peut en outre, dans l’avis, ordonner à la compagnie ou à la personne concernée d’empêcher l’utilisation de ces lignes ou du matériel visé, ou de faire en sorte qu’ils ne soient utilisés qu’à certaines conditions, tant que le risque ne lui paraîtra pas écarté.
-
-**Restriction**
-
-- **(4)** Pour l’application des paragraphes (1) et (2), l’inspecteur ne peut, lorsque les normes de construction ou d’entretien sont conformes aux règlements, règles ou injonctions ministérielles applicables à cet égard, conclure qu’elles risquent de compromettre la sécurité ferroviaire.
+- **(2.1) à (4)** [Abrogés, 2015, ch. 31, art. 25]
 
 **Contenu de l’avis**
 
-- **(4.1)** Pour l’application des paragraphes (1) à (3), l’avis qui comporte un ordre doit indiquer le lieu et la date limite, à savoir trente jours après son expédition au destinataire, du dépôt d’une éventuelle requête en révision.
+- **(4.1)** Pour l’application du paragraphe (2), l’avis doit indiquer le lieu et la date limite, à savoir trente jours après son expédition au destinataire, du dépôt d’une éventuelle requête en révision.
 
 **Avis au ministre**
 
@@ -1440,7 +1466,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 
 **Copie au responsable**
 
-- **(6)** Il transmet une copie de l’ordre donné au cadre de la compagnie immédiatement responsable des installations ou du matériel visés ou, en l’absence de ce cadre, au préposé en ayant alors le contrôle.
+- **(6)** Il transmet une copie de l’ordre donné au cadre de la compagnie chargé de superviser les activités ferroviaires qui sont touchées par le risque ou de superviser la personne ou, en l’absence de ce cadre, au préposé ayant la responsabilité de ces activités ou de la personne.
 
 **Effet de l’ordre**
 
@@ -1457,7 +1483,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Prise d’effet**
 
 - **(10)** La modification ou l’annulation de l’ordre prend effet dès que le destinataire de l’avis ou de l’ordre en reçoit notification.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 31; 1999, ch. 9, art. 24; 2001, ch. 29, art. 66; 2012, ch. 7, art. 21.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 31; 1999, ch. 9, art. 24; 2001, ch. 29, art. 66; 2012, ch. 7, art. 21; 2015, ch. 31, art. 25 et 39.
 
 
 
@@ -1554,10 +1580,23 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 
 - **(3.1)** S’il estime que le système de gestion de la sécurité ferroviaire établi par une compagnie présente des lacunes qui risquent de compromettre la sécurité ferroviaire, le ministre peut, par avis, ordonner à la compagnie d’apporter les mesures correctives nécessaires.
 
-**Contenu de l'avis**
+**Mise en oeuvre du système de gestion de la sécurité**
 
-- **(4)** L’ordre donné dans un avis prévu aux paragraphes (1), (3) ou (3.1) prend effet à la réception de celui-ci par son destinataire et l’avis doit indiquer le lieu et la date limite, à savoir trente jours après l’expédition de l’avis, du dépôt d’une éventuelle requête en révision.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 32; 1999, ch. 9, art. 25; 2001, ch. 29, art. 68; 2012, ch. 7, art. 24.
+- **(3.2)** S’il estime que la mise en oeuvre de toute partie du système de gestion de la sécurité établi par une compagnie risque de compromettre la sécurité ferroviaire, le ministre peut, par avis transmis à la compagnie, ordonner à cette dernière d’apporter les mesures correctives nécessaires.
+
+**Contenu de l’avis**
+
+- **(4)** L’ordre donné dans un avis prévu à l’un ou l’autre des paragraphes (1) et (3) à (3.2) prend effet à la réception de celui-ci par son destinataire et l’avis doit indiquer le lieu et la date limite, à savoir trente jours après l’expédition de l’avis, du dépôt d’une éventuelle requête en révision.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 32; 1999, ch. 9, art. 25; 2001, ch. 29, art. 68; 2012, ch. 7, art. 24; 2015, ch. 31, art. 26.
+
+
+
+
+
+**Arrêté — sécurité ferroviaire**
+
+**32.01** S’il l’estime nécessaire pour la sécurité ferroviaire, le ministre peut transmettre un arrêté à une compagnie, à une autorité responsable du service de voirie ou à une municipalité lui ordonnant de mettre fin à toute activité qui pourrait compromettre la sécurité ferroviaire ou de suivre toute procédure ou d’apporter les mesures correctives nécessaires précisées dans l’arrêté, y compris de construire, de modifier, d’exploiter ou d’entretenir des installations ferroviaires.
+> 2015, ch. 31, art. 27.
 
 
 
@@ -1567,11 +1606,11 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 
 **32.1** 
 
-- **(1)** Toute personne visée par l’avis peut faire réviser l’ordre du ministre en déposant une requête auprès du Tribunal au plus tard à la date limite qui est indiquée à l’avis, ou dans le délai supérieur éventuellement accordé à sa demande par le Tribunal.
+- **(1)** Toute personne visée par un avis qui comporte un ordre transmis en vertu de l’article 32 ou toute compagnie, autorité responsable du service de voirie ou municipalité visée par un arrêté transmis en vertu de l’article 32.01 peut faire réviser l’ordre du ministre en déposant une requête auprès du Tribunal au plus tard à la date limite qui est indiquée dans l’avis ou dans l’arrêté, ou dans le délai supérieur éventuellement accordé à sa demande par le Tribunal.
 
 **Audience**
 
-- **(2)** Le Tribunal, sur réception de la requête, fixe la date, l’heure et le lieu de l’audience et en avise par écrit le ministre et l’intéressé. Dans le cas d’un ordre donné en vertu du paragraphe 32(3), il le fait sans délai.
+- **(2)** Le Tribunal, sur réception de la requête, fixe la date, l’heure et le lieu de l’audience et en avise par écrit le ministre et l’intéressé. Dans le cas d’un ordre donné en vertu du paragraphe 32(3) ou de l’article 32.01, il le fait sans délai.
 
 **Déroulement**
 
@@ -1584,7 +1623,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Décision**
 
 - **(5)** Le conseiller peut confirmer l’ordre ou renvoyer le dossier au ministre pour réexamen.
-> 2001, ch. 29, art. 69; 2012, ch. 7, art. 25.
+> 2001, ch. 29, art. 69; 2012, ch. 7, art. 25; 2015, ch. 31, art. 28.
 
 
 
@@ -1598,12 +1637,12 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 
 **Perte du droit d’appel**
 
-- **(2)** L’intéressé qui ne se présente pas à l’audience portant sur la requête en révision perd le droit de porter la décision en appel, à moins qu’il ne fasse valoir des motifs valables justifiant son absence.
+- **(2)** Si l’intéressé ou, dans le cas d’une compagnie, d’une autorité responsable du service de voirie ou d’une municipalité, la personne qui agit en son nom ne se présente pas à l’audience portant sur la requête en révision, l’intéressé ou la personne perd le droit de porter la décision en appel, à moins qu’il ne fasse valoir des motifs valables justifiant son absence.
 
 **Sort de l’appel**
 
 - **(3)** Le comité du Tribunal peut rejeter l’appel ou renvoyer l’affaire au ministre pour réexamen.
-> 2001, ch. 29, art. 69.
+> 2001, ch. 29, art. 69; 2015, ch. 31, art. 29.
 
 
 
@@ -1611,8 +1650,8 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 
 **Effet des procédures sur l’ordre**
 
-**32.3** Le dépôt d’une requête en révision d’un ordre visé aux paragraphes 32(1) ou (3.1) suspend celui-ci jusqu’à ce qu’il soit disposé de l’affaire conformément aux articles 32.1, 32.2 ou 32.4. Toutefois, ni la révision, ni l’appel, ni le réexamen n’ont pour effet de suspendre l’ordre donné en vertu du paragraphe 32(3).
-> 2001, ch. 29, art. 69.
+**32.3** Le dépôt d’une requête en révision d’un ordre visé aux paragraphes 32(1), (3.1) ou (3.2) suspend celui-ci jusqu’à ce qu’il soit disposé de l’affaire conformément aux articles 32.1, 32.2 ou 32.4. Toutefois, ni la révision prévue à l’article 32.1, ni l’appel prévu à l’article 32.2, ni le réexamen par le ministre prévu aux paragraphes 32.1(5) ou 32.2(3) n’ont pour effet de suspendre l’ordre donné en vertu du paragraphe 32(3) ou de l’article 32.01.
+> 2001, ch. 29, art. 69; 2015, ch. 31, art. 30.
 
 
 
@@ -1759,14 +1798,19 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **37** 
 
 - **(1)** Le gouverneur en conseil peut, par règlement, régir :
-	- **a)** la garde et la conservation, par chaque compagnie, de certains renseignements, registres ou documents concernant la sécurité de son exploitation ferroviaire, notamment l’ensemble des règlements, injonctions ministérielles et règles ou ordres prévus par la présente loi et applicables à la compagnie;
-	- **b)** le dépôt auprès du ministre, à la demande de celui-ci, des renseignements, registres et documents gardés et conservés en conformité avec les règlements pris sous le régime de l’alinéa a);
+	- **a)** la garde et la conservation, par toute personne, de certains renseignements, registres ou documents concernant la sécurité ferroviaire, notamment l’ensemble des règlements, injonctions ministérielles et règles ou ordres prévus par la présente loi et applicables à la personne;
+	- **a.1)** la transmission, par toute personne autre que le ministre, de renseignements, de registres ou de documents concernant la sécurité ferroviaire à toute personne désignée dans le règlement;
+	- **b)** le dépôt auprès du ministre, notamment à la demande de celui-ci, des renseignements, registres et documents gardés et conservés au titre des règlements pris sous le régime de l’alinéa a);
 	- **c)** la notification au ministre, par les compagnies, des renseignements nécessaires à l’évaluation du rendement du point de vue de la sécurité, à la prédiction des variations dans ce domaine, afférents aux accidents, aux incidents ou à toute situation de nature à provoquer un problème de sécurité.
 
 **Portée des règlements**
 
-- **(2)** Un règlement pris en vertu du présent article peut être de portée générale ou limitée quant aux groupes ou aux catégories de personnes ou de compagnies visés.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 37; 1999, ch. 9, art. 29; 2012, ch. 7, art. 30.
+- **(2)** Un règlement pris en vertu du présent article peut être de portée générale ou limitée quant aux groupes ou aux catégories de personnes visés.
+
+**[Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md)**
+
+- **(3)** Les renseignements, registres et documents déposés auprès du ministre au titre d’un règlement pris en vertu de l’alinéa (1)b) sont réputés être des renseignements qui doivent être fournis au ministre au titre de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md).
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 37; 1999, ch. 9, art. 29; 2012, ch. 7, art. 30; 2015, ch. 31, art. 31.
 
 
 
@@ -2104,22 +2148,15 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Contravention aux règlements, aux injonctions ministérielles, etc.**
 
 - **(2)** Commet une infraction quiconque contrevient :
-	- **a)
-** à un règlement pris en vertu du paragraphe 7(1) ou des articles 7.1, 18, 24, 37, 47 ou 47.1;
-	- **b)
-** à l’ordre de l’inspecteur de la sécurité ferroviaire ou du ministre, ou à l’arrêté du ministre, donnés ou pris en vertu des paragraphes 7(2) ou 19(1) ou des articles 31 ou 32;
-	- **c)
-** à la demande de l’Office faite en vertu des paragraphes 16(3) ou 26(3);
-	- **d)
-** à une règle en vigueur sous le régime des articles 19 ou 20;
-	- **e)
-** à une injonction ministérielle prise en vertu de l’article 33;
-	- **f)
-** à l’obligation de mettre en oeuvre la mesure de sûreté du transport ferroviaire imposée au titre du paragraphe 39.1(2);
-	- **g)
-** à un certificat d’exploitation de chemin de fer délivré en vertu de l’article 17.4;
-	- **h)
-** à un arrêté pris en vertu de l’article 36.
+	- **a)** à un règlement pris en vertu du paragraphe 7(1) ou des articles 7.1, 18, 24, 37, 47 ou 47.1;
+	- **b)** à l’ordre de l’inspecteur de la sécurité ferroviaire donné dans un avis transmis en vertu de l’article 31, à l’avis du ministre transmis en vertu de l’article 32, ou à l’arrêté du ministre pris en vertu des paragraphes 7(2), 19(1) ou de l’article 32.01;
+	- **b.1)** à une norme technique;
+	- **c)** à la demande de l’Office faite en vertu des paragraphes 16(3) ou 26(3);
+	- **d)** à une règle en vigueur sous le régime des articles 19 ou 20;
+	- **e)** à une injonction ministérielle prise en vertu de l’article 33;
+	- **f)** à l’obligation de mettre en oeuvre la mesure de sûreté du transport ferroviaire imposée au titre du paragraphe 39.1(2);
+	- **g)** à un certificat d’exploitation de chemin de fer délivré en vertu de l’article 17.4;
+	- **h)** à un arrêté pris en vertu de l’article 36.
 
 **Sanctions**
 
@@ -2152,7 +2189,7 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 **Admissibilité**
 
 - **(7)** Les résultats des analyses servant à déterminer la concentration ou la présence d’alcool ou de drogue dans les échantillons de substances corporelles prélevés sous le régime du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) sont admissibles en preuve dans les poursuites intentées au titre de la présente loi pour violation des règles ou règlements concernant la consommation d’alcool ou de drogue. L’article 258 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) s’applique, compte tenu des adaptations nécessaires.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 41; 1999, ch. 9, art. 31; 2008, ch. 6, art. 60; 2012, ch. 7, art. 32.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 41; 1999, ch. 9, art. 31; 2008, ch. 6, art. 60; 2012, ch. 7, art. 32; 2015, ch. 31, art. 32.
 
 
 
@@ -2248,23 +2285,16 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 
 **Nature des arrêtés, injonctions, etc.**
 
-**46** Les textes suivants ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) :
-- **a)
-** les arrêtés pris par le ministre en vertu des paragraphes 7(2) ou 19(1);
-- **b)
-** les normes établies au titre des paragraphes 7(2) et (2.1) ainsi que les règles et les avis d’approbation visés aux articles 19 ou 20;
-- **c)
-** les avis d’exemption visés au paragraphe 22(2);
-- **d)
-** les ordres et les avis prévus aux articles 31 à 32.5;
-- **e)
-** les injonctions ministérielles visées à l’article 33;
-- **f)
-** les mesures de sûreté du transport ferroviaire établies en vertu du paragraphe 39.1(1);
+**46** Les textes suivants ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) :
+- **a)** les arrêtés pris par le ministre en vertu des paragraphes 7(2) ou 19(1);
+- **b)** les normes établies au titre des paragraphes 7(2) et (2.1) ainsi que les règles et les avis d’approbation visés aux articles 19 ou 20;
+- **c)** les avis d’exemption visés au paragraphe 22(2);
+- **d)** les ordres, les avis et les arrêtés prévus aux articles 31 à 32.5;
+- **e)** les injonctions ministérielles visées à l’article 33;
+- **f)** les mesures de sûreté du transport ferroviaire établies en vertu du paragraphe 39.1(1) et les avis prévus au paragraphe 39.1(2);
 - **g)** les certificats d’exploitation de chemin de fer délivrés en vertu de l’article 17.4 et les avis de décision visés à l’article 17.5;
-- **h)
-** les arrêtés visés à l’article 36.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 46; 1999, ch. 9, art. 33; 2001, ch. 29, art. 70; 2012, ch. 7, art. 35.
+- **h)** les arrêtés visés à l’article 36.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 46; 1999, ch. 9, art. 33; 2001, ch. 29, art. 70; 2012, ch. 7, art. 35; 2015, ch. 31, art. 33.
 
 
 
@@ -2296,10 +2326,10 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 			- **(B)** tenu de rendre compte du respect des exigences du système de gestion de la sécurité,
 		- **(ii)** la mise en oeuvre, en réponse à une analyse de gestion de risque, d’une mesure corrective suffisante pour maintenir le niveau de sécurité le plus élevé,
 		- **(iii)** une surveillance continue et des évaluations régulières du niveau de sécurité atteint,
-		- **(iv)** dans le cas d’une compagnie de chemin de fer, la mise en oeuvre d’un système de production, par ses employés, de rapports internes et de rapports confidentiels à l’intention du ministère des Transports, sans mesures de représailles, relativement à des infractions à la présente loi ou à tout règlement, toute règle, tout certificat ou arrêté ou toute injonction ministérielle — pris en vertu de la présente loi — en matière de sécurité ou à d’autres préoccupations en matière de sécurité,
+		- **(iv)** dans le cas d’une compagnie de chemin de fer, la mise en oeuvre d’un système de signalements internes et de signalements confidentiels donnés par les employés de la compagnie de chemin de fer au ministère des Transports, sans mesures de représailles, relativement à des infractions à la présente loi ou à tout règlement, toute règle, tout certificat, arrêté ou toute injonction ministérielle — pris en vertu de la présente loi — en matière de sécurité ou à d’autres préoccupations en matière de sécurité,
 		- **(v)** dans le cas d’une compagnie de chemin de fer, la participation de ses employés et de leurs représentants syndicaux au fonctionnement continu de son système ou du programme de gestion de la sécurité;
 	- **b)** l’élaboration et la mise en oeuvre du système ou du programme de gestion de la sécurité, notamment la participation des employés d’une compagnie de chemin de fer et de leurs représentants syndicaux;
-	- **c)** les critères auxquels le système de gestion de la sécurité doit se conformer ainsi que les composantes, notamment les principes de la science de la fatigue applicable à l’établissement des horaires, qui doivent être inclues dans un système de gestion de la sécurité.
+	- **c)** les critères auxquels un système de gestion de la sécurité doit se conformer ainsi que les composantes, notamment la gestion de la fatigue des employés, qui doivent être incluses dans le système de gestion de la sécurité.
 
 **Protection de l’environnement**
 
@@ -2309,12 +2339,12 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 
 **Plans de gestion de l’environnement**
 
-- **(3)** Il peut également, par règlement, exiger qu’une compagnie de chemin de fer dépose auprès du ministre des plans de gestion de l’environnement et des vérifications de conformité.
+- **(3)** Il peut également exiger, par règlement, qu’une compagnie dépose auprès du ministre des plans de gestion de l’environnement et prendre des règlements concernant ces plans et leur dépôt auprès du ministre.
 
 **Portée des règlements**
 
 - **(4)** Un règlement pris en vertu du présent article peut être de portée générale ou limitée quant aux groupes ou aux catégories de compagnies visés.
-> 1999, ch. 9, art. 34; 2012, ch. 7, art. 37.
+> 1999, ch. 9, art. 34; 2012, ch. 7, art. 37; 2015, ch. 31, art. 34.
 
 
 
@@ -2466,13 +2496,38 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 
 - **(1)** Les ordonnances, règlements et règles d’application générale pris par la Commission sous le régime des articles 230, 242, 304 ou 305 de la Loi sur les chemins de fer, dans sa version au 31 décembre 1988, en vigueur à cette date et n’ayant pas été révoqués ont, jusqu’à leur révocation par décret pris par le gouverneur en conseil, la même validité que des règlements pris par celui-ci sous le régime de la présente loi.
 
+**Règlements — validation rétroactive**
+
+- **(1.1)** Les règlements ci-après sont réputés être en vigueur depuis la date de leur prise et ils demeurent en vigueur, depuis cette date et jusqu’à leur abrogation par décret pris par le gouverneur en conseil en vertu du paragraphe (5), comme s’ils avaient été pris par celui-ci sous le régime de la présente loi :
+	- **a)** [Règlement sur les installations d’emmagasinage du nitrate d’ammonium](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1101-1200/C.R.C.,%20ch.%201145.md);
+	- **b)** [Règlement sur le stockage de l’ammoniac anhydre](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1101-1200/C.R.C.,%20ch.%201146.md);
+	- **c)** [Règlement sur les installations de déchargement des wagons-citernes à chlore](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1101-1200/C.R.C.,%20ch.%201147.md);
+	- **d)** [Règlement sur l’emmagasinage en vrac des liquides inflammables](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1101-1200/C.R.C.,%20ch.%201148.md);
+	- **e)** [Règlement sur les chaudières de chauffage et de force motrice](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1101-1200/C.R.C.,%20ch.%201151.md);
+	- **f)** [Règlement sur l’emmagasinage en vrac des gaz de pétrole liquéfiés](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1101-1200/C.R.C.,%20ch.%201152.md);
+	- **g)** [Règlement sur les normes applicables aux appareils de sécurité des chemins de fer](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1101-1200/C.R.C.,%20ch.%201171.md);
+	- **h)** [Règlement sur la hauteur des fils des lignes de télégraphe et de téléphone](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1101-1200/C.R.C.,%20ch.%201182.md);
+	- **i)** [Règlement sur l’usage en commun de poteaux](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1101-1200/C.R.C.,%20ch.%201185.md);
+	- **j)** [Règlement sur les croisements de fils et leur proximité](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1101-1200/C.R.C.,%20ch.%201195.md);
+	- **k)** [Règlement régissant la manutention de wagons complets d’explosifs sur des voies de chemin de fer](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/79/15.md);
+	- **l)** [Règlement sur la prévention des étincelles électriques sur les chemins de fer](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/82/1015.md);
+	- **m)** [Règlement sur les wagons de matériel de service](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/86/922.md).
+
 **Règlements, règles et ordonnances d’application particulière**
 
 - **(2)** Les règlements, ordonnances et règles d’application particulière pris par la Commission sous le régime des articles 230, 242, 304 ou 305 de la Loi sur les chemins de fer, dans sa version au 31 décembre 1988, en vigueur à cette date et n’ayant pas été révoqués ont, jusqu’à leur révocation par arrêté pris par le ministre, la même validité que des arrêtés pris par celui-ci sous le régime de la présente loi.
 
+**Règlements concernant la sécurité**
+
+- **(2.1)** Les règlements d’application particulière concernant la sécurité ferroviaire pris par la Commission sous le régime de la Loi sur les chemins de fer, dans ses versions antérieures au 1<sup>er</sup> juillet 1996 — à l’exception des règlements concernant la sécurité ferroviaire visés au paragraphe (2) —, et qui n’ont pas été abrogés par la Commission sont réputés être en vigueur depuis la date de leur prise, et ils demeurent en vigueur, depuis cette date et jusqu’à leur abrogation par décret pris par le gouverneur en conseil en vertu du paragraphe (5), comme s’ils avaient été pris par celui-ci sous le régime de la présente loi.
+
+**Ordonnances concernant la sécurité**
+
+- **(2.2)** Les ordonnances d’application particulière concernant la sécurité ferroviaire prises par la Commission sous le régime de la Loi sur les chemins de fer, dans ses versions antérieures au 1<sup>er</sup> juillet 1996 — à l’exception des ordonnances concernant la sécurité ferroviaire visées au paragraphe (2) —, et qui n’ont pas été abrogées par la Commission sont réputées être en vigueur depuis la date de leur prise, et elles demeurent en vigueur, depuis cette date et jusqu’à leur abrogation par arrêté pris par le ministre en vertu du paragraphe (5), comme si elles avaient été prises par celui-ci sous le régime de la présente loi.
+
 **Mentions**
 
-- **(3)** Toute mention, dans les ordonnances, règlements ou règles visés aux paragraphes (1) ou (2), de la Commission canadienne des transports, de l’Office ou de leurs agents vaut mention du ministre. L’article 45 s’applique à ces textes, compte tenu des adaptations de circonstance.
+- **(3)** Toute mention dans les ordonnances, règlements ou règles visés à l’un ou l’autre des paragraphes (1) à (2.2), de la Commission canadienne des transports, de l’Office ou de leurs agents vaut mention du ministre. L’article 45 s’applique à ces textes, compte tenu des adaptations de circonstance.
 
 **Règlements administratifs**
 
@@ -2480,8 +2535,8 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 
 **Révocation par décret ou arrêté**
 
-- **(5)** Le gouverneur en conseil peut, par décret, révoquer les ordonnances, règlements et règles visés au paragraphe (1) et le ministre peut, par arrêté, révoquer les ordonnances, règlements et règles visés au paragraphe (2) ainsi que les règlements administratifs visés au paragraphe (4).
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 119; 1996, ch. 10, art. 267.
+- **(5)** Le gouverneur en conseil peut, par décret, abroger les ordonnances et les règlements visés à l’un des paragraphes (1) à (1.2) et (2.1), et le ministre peut, par arrêté, abroger les ordonnances et les règlements visés aux paragraphes (2) et (2.2) ainsi que les règlements administratifs visés au paragraphe (4).
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 119; 1996, ch. 10, art. 267; 2015, ch. 31, art. 35.
 
 
 
