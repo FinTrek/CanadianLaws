@@ -59,12 +59,12 @@ Autorités habilitantes :
 **5** Lorsqu’un règlement est transmis au greffier du Conseil privé en application du paragraphe 5(1) de la Loi, le greffier du Conseil privé doit enregistrer le règlement de la façon suivante :
 - **a)** inscrire sur un registre
 	- **(i)** le titre du règlement,
-	- **(ii)** le nom de l’autorité réglementante,
+	- **(ii)** le nom de l’autorité réglementaire,
 	- **(iii)** l’autorité statutaire ou autre en vertu de laquelle il a été établi,
 	- **(iv)** la date à laquelle il a été établi, et
 	- **(v)** la date d’enregistrement; et
 - **b)** désigner le règlement par le sigle «D.O.R.S.» suivi d’un numéro particulier pour le distinguer de tout autre règlement.
-> DORS/93-245, art. 1.
+> DORS/93-245, art. 1; 2015, ch. 33, art. 4(F).
 
 
 
@@ -121,8 +121,8 @@ lorsqu’ils s’adressent à une seule personne ou à un seul organisme;
 
 - **(1)** Le greffier du Conseil privé doit conserver, dans les deux langues officielles, l’original ou une copie certifiée conforme de tout texte réglementaire ou autre document qu’il enregistre conformément à l’article 6 de la Loi.
 
-- **(2)** Lorsqu’un règlement est soustrait à l’enregistrement, l’autorité réglementante doit en conserver, dans les deux langues officielles, l’original ou une copie certifiée conforme.
-> DORS/93-245, art. 3.
+- **(2)** Lorsqu’un règlement est soustrait à l’enregistrement, l’autorité réglementaire doit en conserver, dans les deux langues officielles, l’original ou une copie certifiée conforme.
+> DORS/93-245, art. 3; 2015, ch. 33, art. 4(F).
 
 
 
@@ -226,11 +226,13 @@ lorsqu’ils s’adressent à une seule personne ou à un seul organisme;
 
 
 
-**18** Lorsqu’un règlement, dont il est requis d’inclure le titre dans l’index codifié et trimestriel des règlements, est soustrait à la publication et à l’enregistrement, l’autorité réglementante doit, dans les sept jours qui suivent le dernier jour du mois, faire tenir par écrit au greffier du Conseil privé, les renseignements que ce dernier peut exiger parmi ceux qui sont énumérés ci-après :
+**18** Lorsqu’un règlement, dont il est requis d’inclure le titre dans l’index codifié et trimestriel des règlements, est soustrait à la publication et à l’enregistrement, l’autorité réglementaire doit, dans les sept jours qui suivent le dernier jour du mois, faire tenir par écrit au greffier du Conseil privé, les renseignements que ce dernier peut exiger parmi ceux qui sont énumérés ci-après :
 - **a)** le titre du règlement soustrait à la publication et à l’enregistrement;
 - **b)** l’autorité statutaire ou autre en vertu de laquelle le règlement a été établi;
 - **c)** la date à laquelle le règlement ou toute modification apportée à ce règlement a été établi; et
 - **d)** l’endroit où une personne peut examiner le règlement ainsi que toute modification apportée à ce règlement et en obtenir une copie.
+> 2015, ch. 33, art. 4(F).
+
 
 
 
