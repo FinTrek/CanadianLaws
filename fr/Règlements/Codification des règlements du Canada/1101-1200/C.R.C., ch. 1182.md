@@ -5,7 +5,7 @@
 **C.R.C., ch. 1182**
 
 Autorités habilitantes : 
-- [LOI SUR LES TRANSPORTS AU CANADA](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md)
+- [LOI SUR LA SÉCURITÉ FERROVIAIRE](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(4e%20suppl.).md)
 
 ----------
 
