@@ -89,92 +89,92 @@
 
 - **(1)** In this Act,
 
-***Agency*** means the Canadian Transportation Agency continued by section 7 of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md);
+***Agency*** means the Canadian Transportation Agency continued by section 7 of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md); (*Office*)
 
 ***alter***[Repealed, 1999, c. 9, s. 2]
 
-***authorized screening*** means anything authorized or required to be done under the regulations or a security document for the control, observation, inspection and search of persons or goods to prevent the unauthorized possession or carriage of weapons, explosives and incendiaries on railway works and railway equipment;
+***authorized screening*** means anything authorized or required to be done under the regulations or a security document for the control, observation, inspection and search of persons or goods to prevent the unauthorized possession or carriage of weapons, explosives and incendiaries on railway works and railway equipment; (*contrôle*)
 
-***company*** means a railway company or a local railway company;
+***company*** means a railway company or a local railway company; (*compagnie*)
 
-***crossing work*** means a road crossing or a utility crossing;
+***crossing work*** means a road crossing or a utility crossing; (*ouvrage de franchissement*)
 
-***engineering standards*** means engineering standards established pursuant to section 7;
+***engineering standards*** means engineering standards established pursuant to section 7; (*normes techniques*)
 
-***fatigue science*** means a scientifically based, data-driven and systematic method used to measure and manage human fatigue;
+***fatigue science***[Repealed, 2015, c. 31, s. 17]
 
-***goods*** means, except in the definition “utility line”, anything that may be taken or placed on board railway equipment as freight, baggage or personal belongings;
+***goods*** means, except in the definition ***utility line***, anything that may be taken or placed on board railway equipment as freight, baggage or personal belongings; (*biens*)
 
-***highest level of safety*** means the lowest acceptable level of risk as demonstrated by a risk management analysis;
+***highest level of safety*** means the lowest acceptable level of risk as demonstrated by a risk management analysis; (*niveau de sécurité le plus élevé*)
 
-***line work*** means
+***line work*** means
 - **(a)** a line of railway, including any structure supporting or protecting that line of railway or providing for drainage thereof,
 - **(b)** a system of switches, signals or other like devices that facilitates railway operations, or
 - **(c)** any other structure built across, beside, under or over a line of railway, that facilitates railway operations,
 
-but does not include a crossing work;
+but does not include a crossing work; (*ligne de chemin de fer*)
 
-***local railway company*** means a person, other than a railway company or an agent or mandatary of a railway company, that operates railway equipment on a railway;
+***local railway company*** means a person, other than a railway company or an agent or mandatary of a railway company, that operates railway equipment on a railway; (*compagnie de chemin de fer locale*)
 
-***Minister*** means the Minister of Transport;
+***Minister*** means the Minister of Transport; (*ministre*)
 
-***person*** includes a government of a municipality and a road authority;
+***person*** includes a government of a municipality and a road authority; (*personne*)
 
-Version anglaise seulement***prescribed*** means prescribed by regulations;
+***prescribed*** means prescribed by regulations; (***Version anglaise seulement***)
 
-***proponent***, in relation to a railway work, means the person who proposes, or has proposed, the construction or alteration of the railway work, whether voluntarily or because of a requirement imposed by or under another Act;
+***proponent***, in relation to a railway work, means the person who proposes, or has proposed, the construction or alteration of the railway work, whether voluntarily or because of a requirement imposed under another Act or by an order made under section 32.01; (*promoteur*)
 
 ***proposing party***[Repealed, 1999, c. 9, s. 2]
 
-***railway*** means a railway within the legislative authority of Parliament and includes
+***railway*** means a railway within the legislative authority of Parliament and includes
 - **(a)** branches, extensions, sidings, railway bridges, tunnels, stations, depots, wharfs, rolling stock, equipment, stores or other things connected with the railway, and
-- **(b)** communications or signalling systems and related facilities and equipment used for railway purposes;
+- **(b)** communications or signalling systems and related facilities and equipment used for railway purposes; (*chemin de fer*)
 
-***railway company*** means a person that constructs, operates or maintains a railway;
+***railway company*** means a person that constructs, operates or maintains a railway; (*compagnie de chemin de fer*)
 
- ou ***railway equipment*** means
+***railway equipment*** means
 - **(a)** a machine that is constructed for movement exclusively on lines of railway, whether or not the machine is capable of independent motion, or
-- **(b)** a vehicle that is constructed for movement both on and off lines of railway while the adaptations of that vehicle for movement on lines of railway are in use;
+- **(b)** a vehicle that is constructed for movement both on and off lines of railway while the adaptations of that vehicle for movement on lines of railway are in use; (*matériel ferroviaire* ou *train*)
 
-***railway work*** means a line work or any part thereof, a crossing work or any part thereof, or any combination of the foregoing;
+***railway work*** means a line work or any part thereof, a crossing work or any part thereof, or any combination of the foregoing; (*installations ferroviaires*)
 
 ***relevant association or organization***, in relation to a railway company, means an association or organization that has been formed to represent the interests of
 - **(a)** persons employed by that railway company, or
 - **(b)** persons owning or leasing railway equipment that is used on lines of railway operated by that railway company
 
-and that is declared by order of the Minister to be a relevant association or organization in relation to that railway company;
+and that is declared by order of the Minister to be a relevant association or organization in relation to that railway company; (*organisation intéressée*)
 
-***restricted area*** means an area that is established under the regulations or a security document and to which access is restricted to authorized persons;
+***restricted area*** means an area that is established under the regulations or a security document and to which access is restricted to authorized persons; (*zone réglementée*)
 
-***road*** means any way or course, whether public or not, available for vehicular or pedestrian use;
+***road*** means any way or course, whether public or not, available for vehicular or pedestrian use; (*route*)
 
-***road authority*** means a public authority having legal authority to open and maintain roads;
+***road authority*** means a public authority having legal authority to open and maintain roads; (*autorité responsable du service de voirie*)
 
-***road crossing*** means that part of a road that passes across, over or under a line of railway, and includes any structure supporting or protecting that part of that road or facilitating the crossing;
+***road crossing*** means that part of a road that passes across, over or under a line of railway, and includes any structure supporting or protecting that part of that road or facilitating the crossing; (*franchissement routier*)
 
-***safety management system*** means a formal framework for integrating safety into day-to-day railway operations and includes safety goals and performance targets, risk assessments, responsibilities and authorities, rules and procedures, and monitoring and evaluation processes;
+***safety management system*** means a formal framework for integrating safety into day-to-day railway operations and includes safety goals and performance targets, risk assessments, responsibilities and authorities, rules and procedures, and monitoring and evaluation processes; (*système de gestion de la sécurité*)
 
-***screening officer*** means a person designated by the Minister under subsection 27(1) as a screening officer for the purposes of this Act;
+***screening officer*** means a person designated by the Minister under subsection 27(1) as a screening officer for the purposes of this Act; (*agent de contrôle*)
 
-***security document*** means any of the following documents:
+***security document*** means any of the following documents:
 - **(a)** a rule approved or proposed for approval under section 19 or 20 that relates to security,
-- **(b)** an order made under subsection 31(3) that relates to security,
+- **(b)** an order, contained in a notice, referred to in subsection 31(2) that relates to security,
 - **(c)** an emergency directive made under section 33 that relates to security, and
-- **(d)** a security measure formulated under subsection 39.1(1);
+- **(d)** a security measure formulated under subsection 39.1(1); (*texte relatif à la sûreté du transport ferroviaire*)
 
-***superior court*** means
+***superior court*** means
 - **(a)** in the Province of Ontario, the Superior Court of Justice,
 - **(a.1)** in the Province of Newfoundland and Labrador, the Trial Division of the Supreme Court of the Province,
 - **(b)** in the Provinces of Nova Scotia, British Columbia and Prince Edward Island, the Supreme Court of the Province,
 - **(c)** in the Provinces of New Brunswick, Manitoba, Saskatchewan and Alberta, the Court of Queen’s Bench for the Province,
 - **(d)** in the Province of Quebec, the Superior Court of the Province, and
-- **(e)** in Yukon and the Northwest Territories, the Supreme Court, and in Nunavut, the Nunavut Court of Justice;
+- **(e)** in Yukon and the Northwest Territories, the Supreme Court, and in Nunavut, the Nunavut Court of Justice; (*cour supérieure*)
 
-***Tribunal*** means the Transportation Appeal Tribunal of Canada established by subsection 2(1) of the [Transportation Appeal Tribunal of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2029.md);
+***Tribunal*** means the Transportation Appeal Tribunal of Canada established by subsection 2(1) of the [Transportation Appeal Tribunal of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2029.md); (*Tribunal*)
 
-***utility crossing*** means that part of a utility line that passes over or under a line of railway, and includes any structure supporting or protecting that part of that utility line or facilitating the crossing;
+***utility crossing*** means that part of a utility line that passes over or under a line of railway, and includes any structure supporting or protecting that part of that utility line or facilitating the crossing; (*franchissement par desserte*)
 
-***utility line*** means any wire, cable, pipeline or other like means of enabling the transmission of goods or energy or the provision of services.
+***utility line*** means any wire, cable, pipeline or other like means of enabling the transmission of goods or energy or the provision of services. (*desserte*)
 
 - **(2)** [Repealed, 2012, c. 7, s. 4]
 
@@ -196,7 +196,7 @@ and that is declared by order of the Minister to be a relevant association or or
 	- **(a)** in the case of an individual, by personal service, by facsimile or by mailing it by registered mail to the person’s latest known address;
 	- **(b)** in the case of a corporation, by facsimile or by mailing it by registered mail to its head office or any other office designated by the Minister; or
 	- **(c)** in either case, by any electronic or other means approved in writing by the Minister and subject to any conditions fixed by the Minister.
-> R.S., 1985, c. 32 (4th Supp.), s. 4; 1992, c. 51, s. 61; 1996, c. 10, s. 263; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 82, c. 9, s. 2; 2001, c. 29, s. 64; 2002, c. 7, s. 234(E); 2012, c. 7, s. 4; 2015, c. 3, s. 150.
+> R.S., 1985, c. 32 (4th Supp.), s. 4; 1992, c. 51, s. 61; 1996, c. 10, s. 263; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 82, c. 9, s. 2; 2001, c. 29, s. 64; 2002, c. 7, s. 234(E); 2012, c. 7, s. 4; 2015, c. 3, s. 150, c. 31, s. 17.
 
 
 
@@ -299,20 +299,20 @@ and that is declared by order of the Minister to be a relevant association or or
 **Application of certain provisions**
 
 - **(3)** Subsections 19(4) to (11) apply in relation to standards referred to in subsection (2) or (2.1), with any modifications that the circumstances require and without regard to the references to relevant associations or organizations.
-> R.S., 1985, c. 32 (4th Supp.), s. 7; 1999, c. 9, s. 3; 2012, c. 7, s. 7(F).
+> R.S., 1985, c. 32 (4th Supp.), s. 7; 1999, c. 9, s. 3; 2012, c. 7, s. 7(F); 2015, c. 31, s. 18(F).
 
 
 
 
 
-### Construction of Road Crossings
+### Construction and Alteration of Road Crossings
 
 
 
 **Regulations**
 
-**7.1** The Governor in Council may make regulations regulating or prohibiting the construction of road crossings.
-> 1999, c. 9, s. 4.
+**7.1** The Governor in Council may make regulations regulating or prohibiting the construction or alteration of road crossings.
+> 1999, c. 9, s. 4; 2015, c. 31, s. 19.
 
 
 
@@ -655,6 +655,15 @@ is likely to promote, or make a contribution to, safe railway operations, the Mi
 
 **17.2** No railway company shall operate or maintain a railway, including any railway work or railway equipment, and no local railway company shall operate railway equipment on a railway, otherwise than in accordance with a railway operating certificate and — except to the extent that the company is exempt from their application under section 22 or 22.1 — with the regulations and the rules made under sections 19 and 20 that apply to the company.
 > 2012, c. 7, s. 11.
+
+
+
+
+
+**Compliance with engineering standards**
+
+**17.21** No railway company shall construct or alter a railway work otherwise than in accordance with the engineering standards that apply in respect of the railway company, except to the extent that the railway company is exempt from their application under section 22.1.
+> 2015, c. 31, s. 20.
 
 
 
@@ -1081,10 +1090,39 @@ a reasonable opportunity during a period of sixty days to consult with it, excep
 
 
 
-### Operation and Maintenance of Railway Works to Accord with Regulations and Rules
+### Powers of Agency — Fire
 
 
-**23** [Repealed, 2012, c. 7, s. 15]
+
+**Application to Agency**
+
+**23** 
+
+- **(1)** If a province or municipality is of the opinion that a fire to which it responded was the result of a railway company’s railway operations, it may apply to the Agency to have the costs that it incurred in responding to the fire reimbursed by the railway company.
+
+**Form of application**
+
+- **(2)** The application shall be in the form prescribed by regulations made under subsection (5), and it shall be accompanied by the information prescribed by those regulations.
+
+**Further information**
+
+- **(3)** The Agency may, by notice sent to the province, municipality or railway company, require the province, municipality or railway company to provide it with any further information that it specifies relating to the application, within the period specified in the notice.
+
+**Agency’s determination**
+
+- **(4)** If the Agency determines that the fire was the result of the railway company’s railway operations, it shall make an order directing the railway company to reimburse the province or municipality the costs that the Agency determines were reasonably incurred in responding to the fire.
+
+**Regulations**
+
+- **(5)** The Agency may, with the Governor in Council’s approval, make regulations
+	- **(a)** prescribing the form of the application referred to in this section; and
+	- **(b)** prescribing the information that must accompany that application.
+
+**Interpretation**
+
+- **(6)** Despite this section, this Act is not deemed to be administered in whole or in part by the Agency for the purpose of section 37 of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md).
+> R.S., 1985, c. 32 (4th Supp.), s. 23; 1999, c. 9, s. 17; 2012, c. 7, s. 15; 2015, c. 31, s. 21.
+
 
 
 
@@ -1112,9 +1150,9 @@ a reasonable opportunity during a period of sixty days to consult with it, excep
 
 - **(3)** Despite subsection (1), the whistle may be used if
 	- **(a)** there is an emergency;
-	- **(b)** any rules in force under section 19 or 20 require its use; or
+	- **(b)** any rules in force under section 19 or 20 or any regulations require its use; or
 	- **(c)** a railway safety inspector orders its use under section 31.
-> 1999, c. 9, s. 18.
+> 1999, c. 9, s. 18; 2015, c. 31, s. 22.
 
 
 
@@ -1148,7 +1186,7 @@ on land adjoining the land on which a line of railway is situated, of drainage s
 		- **(i)** the removal of anything, including trees or brush, that might, by obscuring clear vision either of a road or of a line of railway, constitute a threat to safe railway operations,
 		- **(ii)** the removal of weeds that are on or along lines of railway, and
 		- **(iii)** the use of alternatives to chemical pesticides under subparagraphs (i) and (ii);
-	- **(f)** for restricting or preventing, by means of fences, signs or any other means, access to the land on which a line of railway is situated by persons — other than employees or agents or mandataries of the railway company concerned, or of the local railway company authorized to operate railway equipment on the railway — or by vehicles or animals, if their presence on that land would constitute a threat to safe railway operations;
+	- **(f)** respecting the restriction or prevention, including by means of fences or signs on the land on which a line of railway is situated or on land adjoining that land, of access to the land on which a line of railway is situated by persons — other than employees or agents or mandataries of the railway company concerned, or of the local railway company authorized to operate railway equipment on the railway — or by vehicles or animals, if their presence on that land would constitute a threat to safe railway operations;
 	- **(f.1)** respecting the construction, alteration and maintenance of roads for the purpose of ensuring safe railway operations;
 	- **(f.2)** respecting the control of vehicular and pedestrian traffic on road approaches to road crossings for the purpose of ensuring safe railway operations; and
 	- **(g)** respecting the control or prohibition of any other activity, on land adjoining the land on which a line of railway is situated, that could constitute a threat to safe railway operations.
@@ -1160,7 +1198,7 @@ on land adjoining the land on which a line of railway is situated, of drainage s
 **Compensation**
 
 - **(2)** Where the owner, lessee or occupier of land adjoining the land on which a line of railway is situated, the owner, lessee or occupier of any building or other structure erected on that adjoining land, or the owner of any mine or other works operated on that adjoining land, suffers a loss by reason of the operation of the regulations made under this section, the railway company operating that line of railway shall pay to that person such compensation in respect of that loss as is agreed to between the railway company and that person or, failing such agreement, as is determined pursuant to section 26.
-> R.S., 1985, c. 32 (4th Supp.), s. 24; 1994, c. 15, s. 1(F); 1999, c. 9, s. 19; 2012, c. 7, s. 16.
+> R.S., 1985, c. 32 (4th Supp.), s. 24; 1994, c. 15, s. 1(F); 1999, c. 9, s. 19; 2012, c. 7, s. 16; 2015, c. 31, s. 23.
 
 
 
@@ -1509,51 +1547,33 @@ the court may grant the application and order the return of the property forthwi
 
 
 
-### Orders Concerning Use of Railway Works or Equipment
+### Notices of Railway Safety Inspectors Concerning the Safety or Security of Railway Operations
 
 
 
-**Inspector may forbid or restrict use of unsafe works or equipment**
+**Notice — threat**
 
 **31** 
 
-- **(1)** If a railway safety inspector is of the opinion that the standard of construction or maintenance of a line work or railway equipment of a company poses a threat to safe railway operations, the inspector
-	- **(a)** shall, by notice sent to the company, inform the company of that opinion and of the reasons for it; and
-	- **(b)** may, in the notice, if the inspector is satisfied that the threat is immediate, order the company to ensure that the line work or railway equipment not be used, or not be used otherwise than under terms and conditions specified in the notice, until the threat is removed to the inspector’s satisfaction.
+- **(1)** If a railway safety inspector is of the opinion that a person’s conduct or any thing for which a person is responsible constitutes a threat to the safety or security of railway operations or the safety of persons or property, the inspector shall inform, by notice sent to the person and to any company whose railway operations are affected by the threat, the person and the company of that opinion and of the reasons for it.
 
-**Inspector may forbid or restrict use of unsafe crossing work**
+**Notice — immediate threat**
 
-- **(2)** If a railway safety inspector is of the opinion that the standard of construction or maintenance of a crossing work threatens safe railway operations, the inspector, by notice sent to the person responsible for the maintenance of the crossing work and to the railway company concerned,
-	- **(a)** shall inform them of that opinion and of the reasons for it; and
-	- **(b)** may, if the inspector is satisfied that the threat is immediate, order either of them to ensure that the crossing work not be used, or not be used otherwise than under terms and conditions specified in the notice, until the threat is removed to the inspector’s satisfaction.
+- **(2)** If the railway safety inspector is satisfied that the threat is immediate, the inspector may, in the notice, order the person or any company whose railway operations are affected by the threat, to take the measures that are specified in the notice to mitigate the threat until it has been removed to the inspector’s satisfaction.
 
-**Unsafe use of road crossing**
-
-- **(2.1)** If a railway safety inspector is of the opinion that the method of operating a vehicle over a road crossing threatens safe railway operations, the inspector, by notice sent to the driver or operator of the vehicle,
-	- **(a)** shall inform them of that opinion and of the reasons for it; and
-	- **(b)** may, if the inspector is satisfied that the threat is immediate, order them to stop using the road crossing or to use it only under terms and conditions specified in the notice, until the threat is removed to the inspector’s satisfaction.
-
-**Inspector may forbid operation of certain works or equipment**
-
-- **(3)** If a railway safety inspector is of the opinion that the operation of a line work or railway equipment threatens the safety or security of railway operations, the inspector, by notice sent to the company or to any other person who owns or leases the equipment,
-	- **(a)** shall inform them of that opinion and of the reasons for it; and
-	- **(b)** may, if the inspector is satisfied that the threat is immediate, order either of them to ensure that the line work or railway equipment not be operated, or not be operated otherwise than under specified terms and conditions, unless it is operated so as to remove the threat, to the inspector’s satisfaction.
-
-**Limitation of inspector’s powers**
-
-- **(4)** For the purposes of subsection (1) or (2), a railway safety inspector shall not determine that the standard of construction or maintenance poses a threat to safe railway operations if that standard conforms to all applicable regulations, rules and emergency directives.
+- **(2.1) to (4)** [Repealed, 2015, c. 31, s. 25]
 
 **Contents of notice**
 
-- **(4.1)** A notice under subsections (1) to (3) that contains an order shall indicate the address at which, and the date, being thirty days after the notice is sent, on or before which, the recipient of the notice may file a request for a review of the order of the railway safety inspector.
+- **(4.1)** For the purposes of subsection (2), a notice that contains an order shall indicate the date on or before which the recipient may file a request for a review of the order and the address to which the request may be filed. The date shall be 30 days after the day on which the notice is sent.
 
 **Minister to be informed of order**
 
 - **(5)** If a notice sent under this section contains an order, the railway safety inspector who sends it shall immediately inform the Minister of the order and the reasons for it.
 
-**Copies of certain notices to be served on supervisor**
+**Copies sent to company supervisor**
 
-- **(6)** If a notice sent to a company under this section contains an order, the railway safety inspector who sent the notice shall send a copy of it to the company supervisor who is directly responsible for the works or equipment concerned or, in the absence of that supervisor, to the employee who is at that time in charge of the works or equipment concerned.
+- **(6)** If a notice sent to a company under this section contains an order, the railway safety inspector who sent the notice shall send a copy of it to the company supervisor who is responsible for the person or the railway operations that are affected by the threat or, in that supervisor’s absence, to the employee who is at that time in charge of that person or those operations.
 
 **Effect of order**
 
@@ -1570,7 +1590,7 @@ the court may grant the application and order the return of the property forthwi
 **When alteration or revocation effective**
 
 - **(10)** An alteration or revocation of an order under this section has effect when the company or other person to whom the original notice was sent receives a notice of the alteration or revocation.
-> R.S., 1985, c. 32 (4th Supp.), s. 31; 1999, c. 9, s. 24; 2001, c. 29, s. 66; 2012, c. 7, s. 21.
+> R.S., 1985, c. 32 (4th Supp.), s. 31; 1999, c. 9, s. 24; 2001, c. 29, s. 66; 2012, c. 7, s. 21; 2015, c. 31, ss. 25, 39.
 
 
 
@@ -1679,10 +1699,23 @@ the Minister may
 
 - **(3.1)** If the Minister is of the opinion that the safety management system established by a company has deficiencies that risk compromising railway safety, the Minister may, by notice sent to the company, order the company to take the necessary corrective measures.
 
+**Implementation of safety management system**
+
+- **(3.2)** If the Minister is of the opinion that a company is implementing any part of its safety management system in a manner that risks compromising railway safety, the Minister may, by notice sent to the company, order it to take the necessary corrective measures.
+
 **Contents of notice**
 
-- **(4)** An order contained in a notice under subsection (1), (3) or (3.1) takes effect on the date of receipt of the notice. The notice shall indicate the address at which, and the date, being thirty days after the notice is sent, on or before which, the recipient of the notice may file a request for a review of the order.
-> R.S., 1985, c. 32 (4th Supp.), s. 32; 1999, c. 9, s. 25; 2001, c. 29, s. 68; 2012, c. 7, s. 24.
+- **(4)** An order contained in a notice under subsection (1) or under any of subsections (3) to (3.2) takes effect on the date of receipt of the notice. The notice shall indicate the date, which shall be 30 days after the day on which the notice is sent, on or before which the recipient may file a request for a review of the order and the address to which the request may be filed.
+> R.S., 1985, c. 32 (4th Supp.), s. 32; 1999, c. 9, s. 25; 2001, c. 29, s. 68; 2012, c. 7, s. 24; 2015, c. 31, s. 26.
+
+
+
+
+
+**Order — safe railway operations**
+
+**32.01** If the Minister considers it necessary in the interests of safe railway operations, the Minister may, by order sent to a company, road authority or municipality, require the company, road authority or municipality to stop any activity that might constitute a threat to safe railway operations or to follow the procedures or take the corrective measures specified in the order, including constructing, altering, operating or maintaining a railway work.
+> 2015, c. 31, s. 27.
 
 
 
@@ -1692,15 +1725,15 @@ the Minister may
 
 **32.1** 
 
-- **(1)** A person who is sent a notice under section 32 that contains an order may, on or before the date specified in the notice or within any further time that the Tribunal on application allows, file a written request for a review of the order.
+- **(1)** A person to whom a notice that contains an order is sent under section 32 or a company, road authority or municipality to which an order is sent under section 32.01 may, on or before the date specified in the notice or order, as the case may be, or within any further time that the Tribunal on application allows, file a request for a review of the order.
 
 **Time and place for review**
 
-- **(2)** On receipt of a request filed under subsection (1), the Tribunal shall appoint a time and place for the review and shall notify the Minister and the person who filed the request of the time and place in writing. In the case of a request for review of an order made under subsection 32(3), the Tribunal shall do so without delay.
+- **(2)** On receipt of the request, the Tribunal shall appoint a time and place for the review and shall notify the Minister and the person or the company, road authority or municipality that filed the request of the time and place in writing. In the case of a request for a review of an order made under subsection 32(3) or section 32.01, the Tribunal shall do so without delay.
 
 **Review procedure**
 
-- **(3)** The member of the Tribunal assigned to conduct the review shall provide the Minister and the person who filed the request with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations.
+- **(3)** The member of the Tribunal assigned to conduct the review shall provide the Minister and the person, company, road authority or municipality that filed the request with an opportunity that is consistent with procedural fairness and natural justice to present evidence and make representations.
 
 **Person not compelled to testify**
 
@@ -1709,7 +1742,7 @@ the Minister may
 **Determination**
 
 - **(5)** The member may confirm the order or refer the matter back to the Minister for reconsideration.
-> 2001, c. 29, s. 69; 2012, c. 7, s. 25.
+> 2001, c. 29, s. 69; 2012, c. 7, s. 25; 2015, c. 31, s. 28.
 
 
 
@@ -1719,16 +1752,16 @@ the Minister may
 
 **32.2** 
 
-- **(1)** The person who requested the review under section 32.1 may, within thirty days after the determination, appeal a determination made under subsection 32.1(5) to the Tribunal.
+- **(1)** The person, company, road authority or municipality that requested the review under section 32.1 may, within 30 days after the determination, appeal a determination made under subsection 32.1(5) to the Tribunal.
 
 **Loss of right of appeal**
 
-- **(2)** If the person does not appear at the review hearing, the person is not entitled to appeal a determination unless they establish that there was sufficient reason to justify their absence.
+- **(2)** If the person, or an individual who is acting on the behalf of the company, road authority or municipality, does not appear at the review hearing, the person, company, road authority or municipality is not entitled to appeal a determination unless the person or, in the case of a company, road authority or municipality, the individual who is acting on its behalf, establishes that there was sufficient reason to justify their absence.
 
 **Disposition of appeal**
 
 - **(3)** The appeal panel of the Tribunal assigned to hear the appeal may dismiss the appeal or refer the matter back to the Minister for reconsideration.
-> 2001, c. 29, s. 69.
+> 2001, c. 29, s. 69; 2015, c. 31, s. 29.
 
 
 
@@ -1736,8 +1769,8 @@ the Minister may
 
 **Stay of order**
 
-**32.3** If a request for review is filed, an order made under subsection 32(1) or (3.1) shall be stayed until the matter is finally disposed of in accordance with section 32.1, 32.2 or 32.4. However, an order made under subsection 32(3) shall not be stayed pending a review under section 32.1, an appeal under section 32.2 or reconsideration by the Minister under subsection 32.1(5) or 32.2(3).
-> 2001, c. 29, s. 69.
+**32.3** If a request for review is filed, an order made under subsection 32(1), (3.1) or (3.2) shall be stayed until the matter is finally disposed of in accordance with section 32.1, 32.2 or 32.4. However, an order made under subsection 32(3) or section 32.01 shall not be stayed pending a review under section 32.1, an appeal under section 32.2 or a reconsideration by the Minister under subsection 32.1(5) or 32.2(3).
+> 2001, c. 29, s. 69; 2015, c. 31, s. 30.
 
 
 
@@ -1895,14 +1928,19 @@ and the patient is deemed to have consented to the disclosure required by paragr
 **37** 
 
 - **(1)** The Governor in Council may make regulations
-	- **(a)** respecting the keeping and preservation by each company of information, records and documents relevant to the safety of railway operations conducted by that company, including a complete set of the regulations, emergency directives, rules and orders made pursuant to this Act that are applicable to that company;
-	- **(b)** respecting the filing with the Minister at the request of the Minister of information, records and documents kept and preserved pursuant to regulations made under paragraph (a); and
+	- **(a)** respecting the keeping and preservation by any person of information, records and documents that are relevant to the safety of railway operations, including a complete set of the regulations, emergency directives, rules and orders made under this Act that apply to that person;
+	- **(a.1)** respecting the submission of information, records and documents that are relevant to the safety of railway operations by any person other than the Minister to any person specified in the regulations;
+	- **(b)** respecting the filing with the Minister, including at the Minister’s request, of information, records and documents kept and preserved under regulations made under paragraph (a); and
 	- **(c)** respecting notification to the Minister by companies of information suitable for monitoring safety performance or predicting potential changes in levels of safety, including information about any accident or incident associated with railway safety or any situation that could have a detrimental impact on safety performance.
 
 **Application**
 
-- **(2)** A regulation made under this section may be general or applicable to a group or class of companies.
-> R.S., 1985, c. 32 (4th Supp.), s. 37; 1999, c. 9, s. 29; 2012, c. 7, s. 30.
+- **(2)** A regulation made under this section may be general or applicable to a group or class of persons.
+
+**[Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md)**
+
+- **(3)** Information, records and documents that are filed with the Minister as required by a regulation made under paragraph (1)(b) are deemed to be information that is required to be provided to the Minister under the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md).
+> R.S., 1985, c. 32 (4th Supp.), s. 37; 1999, c. 9, s. 29; 2012, c. 7, s. 30; 2015, c. 31, s. 31.
 
 
 
@@ -2260,7 +2298,8 @@ raises, or may raise, issues of public interest relating to safe railway operati
 
 - **(2)** A person is guilty of an offence if the person contravenes
 	- **(a)** a regulation made under subsection 7(1) or section 7.1, 18, 24, 37, 47 or 47.1;
-	- **(b)** an order made by the Minister or a railway safety inspector under subsection 7(2) or 19(1) or section 31 or 32;
+	- **(b)** an order made by the Minister under subsection 7(2) or 19(1), section 32 or 32.01 or contained in a notice sent by a railway safety inspector under section 31;
+	- **(b.1)** an engineering standard;
 	- **(c)** a requirement made by the Agency under subsection 16(3) or 26(3);
 	- **(d)** a rule in force under section 19 or 20;
 	- **(e)** an emergency directive made by the Minister under section 33;
@@ -2301,7 +2340,7 @@ raises, or may raise, issues of public interest relating to safe railway operati
 **Admissibility of evidence**
 
 - **(7)** Evidence relating to the presence or concentration of alcohol or a drug in a sample of a bodily substance obtained under any provision of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) is admissible in proceedings taken against a person under this Act in respect of a contravention of a rule or regulation respecting the use of alcohol or a drug, and section 258 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) applies to those proceedings with any modifications that the circumstances require.
-> R.S., 1985, c. 32 (4th Supp.), s. 41; 1999, c. 9, s. 31; 2008, c. 6, s. 60; 2012, c. 7, s. 32.
+> R.S., 1985, c. 32 (4th Supp.), s. 41; 1999, c. 9, s. 31; 2008, c. 6, s. 60; 2012, c. 7, s. 32; 2015, c. 31, s. 32.
 
 
 
@@ -2401,12 +2440,12 @@ raises, or may raise, issues of public interest relating to safe railway operati
 - **(a)** orders made by the Minister under subsection 7(2) or 19(1);
 - **(b)** standards, rules or notices of approval made, filed or sent under subsection 7(2) or (2.1) or section 19 or 20;
 - **(c)** notices of exemption under subsection 22(2);
-- **(d)** orders and notices sent under sections 31 to 32.5;
+- **(d)** orders and notices referred to in sections 31 to 32.5;
 - **(e)** emergency directives made by the Minister under section 33;
-- **(f)** security measures formulated under subsection 39.1(1);
+- **(f)** security measures formulated under subsection 39.1(1) and a notice referred to in subsection 39.1(2);
 - **(g)** railway operating certificates issued under section 17.4 and notices of decision given under section 17.5; or
 - **(h)** orders made under section 36.
-> R.S., 1985, c. 32 (4th Supp.), s. 46; 1999, c. 9, s. 33; 2001, c. 29, s. 70; 2012, c. 7, s. 35.
+> R.S., 1985, c. 32 (4th Supp.), s. 46; 1999, c. 9, s. 33; 2001, c. 29, s. 70; 2012, c. 7, s. 35; 2015, c. 31, s. 33.
 
 
 
@@ -2433,15 +2472,15 @@ raises, or may raise, issues of public interest relating to safe railway operati
 
 - **(1)** The Governor in Council may make regulations respecting safety management systems including, but not limited to, regulations respecting
 	- **(a)** the establishment by companies of safety management systems that include
-		- **(i)** the identification of an executive who is
+		- **(i)** the designation of an executive who is
 			- **(A)** responsible for operations and activities of a company, and
 			- **(B)** accountable for the extent to which the requirements of the safety management system have been met,
 		- **(ii)** the implementation, as a result of a risk management analysis, of the remedial action required to maintain the highest level of safety,
 		- **(iii)** the continuous monitoring and regular assessment of the level of safety achieved,
-		- **(iv)** in the case of a railway company, the implementation of non-punitive internal reporting and confidential reporting to Transport Canada by employees of contraventions of this Act or of any regulations, rules, certificates, orders or emergency directives under this Act relating to safety, or of other safety concerns, and
+		- **(iv)** in the case of a railway company, the implementation of non-punitive internal reporting and confidential reporting to the Department of Transport by employees of contraventions of this Act or of any regulations, rules, certificates, orders or emergency directives under this Act relating to safety, or of other safety concerns, and
 		- **(v)** in the case of a railway company, the involvement of employees and their collective bargaining agents in the ongoing operation of the safety management system;
 	- **(b)** the development and implementation of safety management systems by companies, including the involvement of employees and their collective bargaining agents in the case of railway companies; and
-	- **(c)** the criteria to which the safety management system must conform as well as the components, including the principle of fatigue science applicable to scheduling, that must be included in a safety management system.
+	- **(c)** the criteria to which a safety management system must conform as well as the components that must be included in the system, including the management of employee fatigue.
 
 **Release of pollutants**
 
@@ -2451,12 +2490,12 @@ raises, or may raise, issues of public interest relating to safe railway operati
 
 **Environmental management plan**
 
-- **(3)** The Governor in Council may make regulations requiring a railway company to file with the Minister environmental management plans and compliance audits with respect to those plans.
+- **(3)** The Governor in Council may make regulations requiring a company to file environmental management plans with the Minister and may make regulations respecting those plans and their filing with the Minister.
 
 **Application**
 
 - **(4)** A regulation made under this section may be general or applicable to a group or class of companies.
-> 1999, c. 9, s. 34; 2012, c. 7, s. 37.
+> 1999, c. 9, s. 34; 2012, c. 7, s. 37; 2015, c. 31, s. 34.
 
 
 
@@ -2611,6 +2650,23 @@ raises, or may raise, issues of public interest relating to safe railway operati
 	- **(b)** applies to all railway companies,
 continues to have effect as if it were a regulation made by the Governor in Council under this Act until it is revoked by an order of the Governor in Council under subsection (5).
 
+**Regulations — retroactive validation**
+
+- **(1.1)** Each of the following regulations is deemed to have had effect from the day on which it was made and continues to have effect from that day as if it were a regulation made by the Governor in Council under this Act, until it is repealed by an order of the Governor in Council under subsection (5):
+	- **(a)** [Ammonium Nitrate Storage Facilities Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1101-1200/C.R.C.,%20c.%201145.md);
+	- **(b)** [Anhydrous Ammonia Bulk Storage Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1101-1200/C.R.C.,%20c.%201146.md);
+	- **(c)** [Chlorine Tank Car Unloading Facilities Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1101-1200/C.R.C.,%20c.%201147.md);
+	- **(d)** [Flammable Liquids Bulk Storage Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1101-1200/C.R.C.,%20c.%201148.md);
+	- **(e)** [Heating and Power Boilers Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1101-1200/C.R.C.,%20c.%201151.md);
+	- **(f)** [Liquefied Petroleum Gases Bulk Storage Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1101-1200/C.R.C.,%20c.%201152.md);
+	- **(g)** [Railway Safety Appliance Standards Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1101-1200/C.R.C.,%20c.%201171.md);
+	- **(h)** [Height of Wires of Telegraph and Telephone Lines Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1101-1200/C.R.C.,%20c.%201182.md);
+	- **(i)** [Joint Use of Poles Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1101-1200/C.R.C.,%20c.%201185.md);
+	- **(j)** [Wire Crossings and Proximities Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1101-1200/C.R.C.,%20c.%201195.md);
+	- **(k)** [Handling of Carloads of Explosives on Railway Trackage Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/79/15.md);
+	- **(l)** [Railway Prevention of Electric Sparks Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/82/1015.md); and
+	- **(m)** [Service Equipment Cars Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/86/922.md).
+
 **Regulations and orders applying to particular companies**
 
 - **(2)** Every regulation or order made by the Commission under section 230, 242, 304 or 305 of the Railway Act as it read on December 31, 1988 that
@@ -2618,18 +2674,26 @@ continues to have effect as if it were a regulation made by the Governor in Coun
 	- **(b)** applies to a particular railway company or particular railway companies,
 continues to have effect as if it were an order made by the Minister under this Act, until it is revoked by an order of the Minister under subsection (5).
 
+**Regulations related to safety**
+
+- **(2.1)** Every regulation relating to railway safety that was made by the Commission under the Railway Act, other than a regulation referred to in subsection (2) that relates to railway safety, as that Act read from time to time before July 1, 1996, that applies in respect of a particular railway company or to particular railway companies and that has not been repealed by the Commission is deemed to have had effect from the day on which it was made and continues to have effect from that day as if it were a regulation that was made by the Governor in Council under this Act, until it is repealed by an order of the Governor in Council under subsection (5).
+
+**Orders related to safety**
+
+- **(2.2)** Every order relating to railway safety that was made by the Commission under the Railway Act, other than an order referred to in subsection (2) that relates to railway safety, as that Act read from time to time before July 1, 1996, that applies in respect of a particular railway company or to particular railway companies and that has not been repealed by the Commission is deemed to have had effect from the day on which it was made and continues to have effect from that day as if it were an order that was made by the Minister under this Act, until it is repealed by an order of the Minister under subsection (5).
+
 **References to Commission or Agency**
 
-- **(3)** In any regulation or order mentioned in subsection (1) or (2), a reference to the Canadian Transport Commission or the National Transportation Agency, or to any officer of those bodies, shall, after the coming into force of this section, be read as a reference to the Minister, and section 45 applies in respect of that regulation or order, with such modifications as the circumstances require.
+- **(3)** In any regulation or order mentioned in any of subsections (1) to (2.2), a reference to the Canadian Transport Commission or the Agency, or to any officer of those bodies, shall be read as a reference to the Minister, and section 45 applies in respect of that regulation or order, with any modifications that the circumstances require.
 
 **By-laws**
 
 - **(4)** Every by-law made by a company pursuant to section 233 of the Railway Act as it read on December 31, 1988 that was in force on that day and has not been revoked continues to have effect, in so far as it relates to the safety of railway operations, as if it were a rule formulated by the company and approved by the Minister under this Act, until it is revoked by an order of the Minister under subsection (5).
 
-**Power to revoke**
+**Power to repeal**
 
-- **(5)** The Governor in Council may by order revoke a regulation or order that was continued by subsection (1) of this section, and the Minister may by order revoke a regulation, order or by-law that was continued by subsection (2) or (4), respectively, of this section.
-> R.S., 1985, c. 32 (4th Supp.), s. 119; 1996, c. 10, s. 267.
+- **(5)** The Governor in Council may by order repeal a regulation or order referred to in any of subsections (1) to (1.2) or in subsection (2.1), and the Minister may by order repeal a regulation or order referred to in subsection (2) or (2.2) or a by-law referred to in subsection (4).
+> R.S., 1985, c. 32 (4th Supp.), s. 119; 1996, c. 10, s. 267; 2015, c. 31, s. 35.
 
 
 
