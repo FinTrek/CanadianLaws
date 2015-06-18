@@ -3216,19 +3216,27 @@ où
 
 
 
-#### Limitation de la responsabilité des transporteurs
+#### Traitement de la question de la responsabilité des transporteurs
 
 
 
-**Limitation par accord**
+**Accord**
 
 **137** 
 
-- **(1)** La compagnie de chemin de fer ne peut limiter sa responsabilité envers un expéditeur pour le transport des marchandises de celui-ci, sauf par accord écrit signé soit par l’expéditeur, soit par une association ou un groupe représentant les expéditeurs.
+- **(1)** La question de la responsabilité de la compagnie de chemin de fer relativement au transport des marchandises d’un expéditeur, notamment à l’égard des tiers, ne peut être traitée entre la compagnie de chemin de fer et l’expéditeur que par accord écrit signé soit par l’expéditeur, soit par une association ou un groupe représentant les expéditeurs.
 
-**Mesure de la limitation**
+**Aucun accord**
 
-- **(2)** En l’absence d’un tel accord, la mesure dans laquelle la responsabilité de la compagnie de chemin de fer peut être limitée en ce qui concerne un transport de marchandises est prévue par les conditions de cette limitation soit fixées par l’Office pour le transport, sur demande de la compagnie, soit, si aucune condition n’est fixée, établies par règlement de l’Office.
+- **(2)** En l’absence d’un tel accord, le traitement, entre eux, de la question de la responsabilité de la compagnie de chemin de fer, à l’égard de l’expéditeur, relativement aux pertes et aux dommages de marchandises de celui-ci qui sont en la possession de la compagnie ainsi qu’aux retards liés à leur transport est régi :
+	- **a)** par l’Office, si la compagnie présente une demande;
+	- **b)** selon les modalités prévues par règlement, si la compagnie ne présente pas de demande ou si elle en présente une et que l’Office ne fixe aucune condition quant au traitement de cette question.
+
+**Règlements**
+
+- **(3)** Pour l’application de l’alinéa (2)b), l’Office peut, par règlement, régir les modalités du traitement, entre une compagnie de chemin de fer et un expéditeur, de la question visée au paragraphe (2).
+> 1996, ch. 10, art. 137; 2015, ch. 31, art. 9.
+
 
 
 
