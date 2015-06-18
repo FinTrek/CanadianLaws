@@ -129,7 +129,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***domestique*** Se dit de l’utilisation de l’eau pour les besoins du ménage, notamment les soins d’hygiène et la prévention des incendies, pour l’abreuvement des animaux domestiques et pour l’irrigation d’un jardin attenant à une maison d’habitation et ne servant habituellement pas à la culture de produits pour le marché.
 
-***eaux*** Sauf pour l’application du paragraphe 41(2), les eaux internes de surface et souterraines, qu’elles soient à l’état liquide ou solide.
+***eaux*** Les eaux internes de surface et souterraines, qu’elles soient à l’état liquide ou solide.
 
 ***entreprise principale*** L’entreprise dans laquelle s’inscrit l’activité — utilisation des eaux ou rejet de déchets — visée par un permis.
 
@@ -139,14 +139,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***parc national*** Parc au sens de la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md). Y est assimilée toute réserve au sens de cette loi.
 
+***pénalité*** Sanction administrative pécuniaire infligée pour une violation.
+
 ***permis*** Sauf indication contraire du contexte, permis — de type A ou de type B, suivant les critères réglementaires — visant l’utilisation des eaux du Nunavut ou le rejet de déchets au Nunavut, ou les deux, et délivré sous le régime de l’article 42.
 
 ***titulaire*** Relativement à un permis, y est assimilé tout cessionnaire.
 
 ***utilisation*** S’agissant des eaux, utilisation directe ou indirecte de toute nature — notamment l’utilisation de l’énergie hydraulique et des ressources géothermiques —, y compris leur détournement ou leur barrage, ainsi que la modification de leur débit, de leurs rives ou de leur lit, que leur existence soit saisonnière ou non; sont toutefois exclues la navigation, ainsi que toute autre forme d’utilisation des eaux liée à une activité assujettie à la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md).
 
-***zones marines*** S’entend des eaux, recouvertes de glace ou non, de la région du Nunavut — à l’exclusion des eaux intérieures — , ainsi que de leur fond et de leur sous-sol.
-> 2002, ch. 10, art. 4 et 200.
+***zones marines*** S’entend des eaux, recouvertes de glace ou non, de la région du Nunavut — à l’exclusion des eaux internes —, ainsi que de leur fond et de leur sous-sol.
+> 2002, ch. 10, art. 4 et 200; 2015, ch. 19, art. 41.
 
 
 
@@ -1187,6 +1189,27 @@ Il tient compte des observations ainsi reçues.
 
 
 
+**Ententes : sûreté**
+
+**76.1** 
+
+- **(1)** Le ministre peut conclure une entente écrite avec l’organisation inuit désignée et le demandeur, le titulaire ou le cessionnaire éventuel d’un permis relatif à une entreprise principale située en tout ou en partie sur une terre inuit qui prévoit :
+	- **a)** le montant, la forme et la nature de la sûreté — ainsi que les conditions afférentes — qui doit être fournie et maintenue par l’intéressé pour l’application de l’alinéa 76(2)b), ou pour rembourser l’organisation inuit désignée des frais prévus dans l’entente;
+	- **b)** la révision périodique de la sûreté, qui tient notamment compte des changements importants apportés à l’entreprise principale et du risque de dommages environnementaux, et le rajustement du montant de la sûreté par suite de la révision.
+
+**Fourniture d’une copie de l’entente à l’Office**
+
+- **(2)** Le ministre fournit à l’Office une copie de l’entente dès que possible après l’avoir conclue.
+
+**Montant de la sûreté prévue au paragraphe 76(1)**
+
+- **(3)** L’Office tient compte de l’entente lorsqu’il détermine le montant de la sûreté qui doit être fournie et maintenue en vertu du paragraphe 76(1).
+> 2015, ch. 19, art. 46.
+
+
+
+
+
 #### Expropriation
 
 
@@ -1507,23 +1530,77 @@ Il tient compte des observations ainsi reçues.
 
 **90** 
 
-- **(1)** Commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 100 000 $ et un emprisonnement maximal d’un an, ou l’une de ces peines, quiconque contrevient aux paragraphes 11(1) ou (3), à l’article 12 ou aux ordres donnés par l’inspecteur en vertu du paragraphe 87(1).
+- **(1)** Commet une infraction quiconque contrevient aux paragraphes 11(1) ou (3), aux articles 12 ou 88 ou aux ordres donnés par l’inspecteur en vertu du paragraphe 87(1).
 
-**Permis de type A**
+**Peine**
 
-- **(2)** Commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 100 000 $ et un emprisonnement maximal d’un an, ou l’une de ces peines, le titulaire d’un permis de type A :
+- **(2)** Quiconque commet une infraction prévue au paragraphe (1) est passible, sur déclaration de culpabilité par procédure sommaire :
+	- **a)** pour une première infraction, d’une amende maximale de 250 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines;
+	- **b)** en cas de récidive, d’une amende maximale de 500 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines.
+> 2002, ch. 10, art. 90; 2015, ch. 19, art. 49.
+
+
+
+
+
+**Infractions : permis de type A**
+
+**90.1** 
+
+- **(1)** Commet une infraction le titulaire d’un permis de type A :
 	- **a)** qui contrevient aux conditions du permis si la contravention ne constitue pas une infraction aux termes de l’article 91;
 	- **b)** qui, sans excuse légitime, néglige de fournir et de maintenir la sûreté prévue au paragraphe 76(1).
 
-**Permis de type B**
+**Peine**
 
-- **(3)** Commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 15 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines, le titulaire d’un permis de type B :
+- **(2)** Quiconque commet une infraction prévue au paragraphe (1) est passible, sur déclaration de culpabilité par procédure sommaire :
+	- **a)** pour une première infraction, d’une amende maximale de 250 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines;
+	- **b)** en cas de récidive, d’une amende maximale de 500 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines.
+> 2015, ch. 19, art. 49.
+
+
+
+
+
+**Infractions : permis de type B**
+
+**90.2** 
+
+- **(1)** Commet une infraction le titulaire d’un permis de type B :
 	- **a)** qui contrevient aux conditions du permis si la contravention ne constitue pas une infraction aux termes de l’article 91;
 	- **b)** qui, sans excuse légitime, néglige de fournir et de maintenir la sûreté prévue au paragraphe 76(1).
+
+**Peine**
+
+- **(2)** Quiconque commet une infraction prévue au paragraphe (1) est passible, sur déclaration de culpabilité par procédure sommaire :
+	- **a)** pour une première infraction, d’une amende maximale de 37 500 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines;
+	- **b)** en cas de récidive, d’une amende maximale de 75 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
+> 2015, ch. 19, art. 49.
+
+
+
+
 
 **Infractions continues**
 
-- **(4)** Il est compté une infraction distincte pour chacun des jours au cours desquels se commet ou se continue toute infraction définie au présent article.
+**90.3** Il est compté une infraction distincte pour chacun des jours au cours desquels se commet ou se continue toute infraction prévue aux paragraphes 90(1), 90.1(1) ou 90.2(1).
+> 2015, ch. 19, art. 49.
+
+
+
+
+
+**Présomption : récidive**
+
+**90.4** 
+
+- **(1)** Pour l’application des alinéas 90(2)b), 90.1(2)b) et 90.2(2)b), il y a récidive si le tribunal est convaincu que le contrevenant a déjà été déclaré coupable, sous le régime de toute loi fédérale ou provinciale visant la conservation ou la protection de l’environnement ou des espèces sauvages, d’une infraction essentiellement semblable.
+
+**Réserve**
+
+- **(2)** Les infractions pour lesquelles le contrevenant a déjà été déclaré coupable doivent être des infractions qui ont été poursuivies par mise en accusation, par procédure sommaire ou par toute autre procédure semblable établie sous le régime d’une loi provinciale.
+> 2015, ch. 19, art. 49.
+
 
 
 
@@ -1531,15 +1608,19 @@ Il tient compte des observations ainsi reçues.
 **Autres infractions**
 
 **91** Commet une infraction punissable sur déclaration de culpabilité par procédure sommaire quiconque :
-- **a)** contrevient au paragraphe 86(4) ou à l’article 88 ou à un règlement pris au titre des alinéas 82(1)o), p) ou q);
+- **a)** contrevient au paragraphe 86(4) ou à un règlement pris en vertu des alinéas 82(1)o), p) ou q);
 - **b)** sauf dans la mesure permise par la présente partie ou une autre loi fédérale, gêne ou entrave volontairement et de quelque façon l’action d’un titulaire de permis ou de quiconque agit en son nom dans l’exercice des droits que lui confère la présente partie.
+> 2002, ch. 10, art. 91; 2015, ch. 19, art. 50.
+
 
 
 
 
 **Prescription**
 
-**92** Les poursuites visant une infraction à la présente partie se prescrivent par deux ans à compter de la perpétration.
+**92** Les poursuites relatives à une infraction à la présente partie se prescrivent par cinq ans à compter de la date où le ministre a eu connaissance des faits reprochés.
+> 2002, ch. 10, art. 92; 2015, ch. 19, art. 51.
+
 
 
 
@@ -1548,11 +1629,13 @@ Il tient compte des observations ainsi reçues.
 
 **93** 
 
-- **(1)** Même après l’ouverture de poursuites visant une infraction définie à l’article 90, le procureur général du Canada peut engager des procédures en vue de faire cesser la cause de cette infraction.
+- **(1)** Même après l’ouverture de poursuites relativement à une infraction prévue aux paragraphes 90(1), 90.1(1) ou 90.2(1), le procureur général du Canada peut engager des procédures en vue de faire cesser la cause de l’infraction.
 
 **Recours civils**
 
 - **(2)** La qualification d’un acte ou d’une omission à titre d’infraction à la présente partie ne fait obstacle à aucun recours civil.
+> 2002, ch. 10, art. 93; 2015, ch. 19, art. 52.
+
 
 
 
@@ -1570,6 +1653,301 @@ Il tient compte des observations ainsi reçues.
 **Préavis**
 
 - **(3)** Le certificat n’est recevable en preuve que si la partie qui entend le produire donne à la partie qu’elle vise un préavis suffisant de son intention, accompagné d’une copie du certificat.
+
+
+
+
+#### Sanctions administratives pécuniaires
+
+
+
+##### Règlements
+
+
+
+**Règlements du ministre**
+
+**94.01** 
+
+- **(1)** Le ministre peut, avec l’approbation du gouverneur en conseil, prendre des règlements pour l’application des articles 94.02 à 94.3, notamment afin :
+	- **a)** de désigner comme violation punissable au titre de la présente partie la contravention :
+		- **(i)** à toute disposition spécifiée de la présente partie ou de ses règlements,
+		- **(ii)** à tout ordre ou à toute ordonnance ou décision — ou à tout ordre ou à toute ordonnance ou décision appartenant à une catégorie spécifiée — donné ou rendue, selon le cas, sous le régime de la présente partie,
+		- **(iii)** à toute condition d’un permis appartenant ou non à une catégorie spécifiée;
+	- **b)** de prévoir l’établissement ou la méthode d’établissement de la pénalité applicable à chaque violation — la pénalité prévue pour les personnes physiques pouvant différer de celle prévue pour les autres personnes;
+	- **c)** d’établir la forme et le contenu des procès-verbaux de violation;
+	- **d)** de régir, notamment par l’établissement de présomptions et de règles de preuve, la signification de documents autorisée ou exigée sous le régime de la présente partie;
+	- **e)** de régir la révision des procès-verbaux par le ministre.
+
+**Plafond : montant de la pénalité**
+
+- **(2)** Le montant de la pénalité établi en application d’un règlement pris en vertu de l’alinéa (1)b) et applicable à chaque violation est plafonné, dans le cas des personnes physiques, à 25 000 $ et, dans le cas des autres personnes, à 100 000 $.
+> 2015, ch. 19, art. 53.
+
+
+
+
+
+##### Violations
+
+
+
+**Attributions**
+
+**94.02** Les inspecteurs, désignés en vertu du paragraphe 85(1), sont autorisés à agir à titre d’agents verbalisateurs.
+> 2015, ch. 19, art. 53.
+
+
+
+
+
+**Violations**
+
+**94.03** 
+
+- **(1)** La contravention à une disposition, à un ordre, à une ordonnance, à une décision ou à une condition désignés en vertu de l’alinéa 94.01(1)a) constitue une violation pour laquelle l’auteur s’expose à une pénalité dont le montant est déterminé conformément aux règlements.
+
+**But de la pénalité**
+
+- **(2)** L’imposition de la pénalité vise non pas à punir, mais plutôt à favoriser le respect de la présente partie.
+> 2015, ch. 19, art. 53.
+
+
+
+
+
+**Participants à la violation : dirigeants, administrateurs et mandataires**
+
+**94.04** Si une personne morale commet une violation, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de la violation et s’exposent à une pénalité dont le montant est déterminé conformément aux règlements, que la personne fasse ou non l’objet d’une procédure en violation engagée au titre de la présente partie.
+> 2015, ch. 19, art. 53.
+
+
+
+
+
+**Preuve**
+
+**94.05** Dans les procédures en violation engagées au titre de la présente partie, il suffit, pour prouver la violation, d’établir qu’elle a été commise par un employé ou un mandataire de l’auteur de la violation, que l’employé ou le mandataire ait été ou non identifié ou poursuivi.
+> 2015, ch. 19, art. 53.
+
+
+
+
+
+**Procès-verbal : établissement et signification**
+
+**94.06** 
+
+- **(1)** L’inspecteur qui a des motifs raisonnables de croire qu’une violation a été commise peut dresser un procès-verbal qu’il fait signifier au prétendu auteur de la violation.
+
+**Contenu**
+
+- **(2)** Le procès-verbal mentionne les éléments suivants :
+	- **a)** le nom du prétendu auteur de la violation;
+	- **b)** les faits pertinents concernant la violation;
+	- **c)** le montant de la pénalité;
+	- **d)** la faculté qu’a le prétendu auteur de la violation de demander une révision en ce qui a trait à la violation ou au montant de la pénalité, ainsi que le délai pour ce faire;
+	- **e)** les délais et modalités de paiement de la pénalité;
+	- **f)** le fait que le prétendu auteur de la violation, s’il ne fait pas de demande de révision ou s’il ne paie pas la pénalité, est réputé avoir commis la violation et est tenu du paiement de cette pénalité.
+> 2015, ch. 19, art. 53.
+
+
+
+
+
+##### Règles propres aux violations
+
+
+
+**Exclusion de certains moyens de défense**
+
+**94.07** 
+
+- **(1)** Le prétendu auteur de la violation ne peut invoquer en défense le fait qu’il a pris les mesures nécessaires pour empêcher la violation ou qu’il croyait raisonnablement et en toute honnêteté à l’existence de faits qui, avérés, l’exonéreraient.
+
+**Principes de common law**
+
+- **(2)** Les règles et principes de common law qui font d’une circonstance une justification ou une excuse dans le cadre d’une poursuite pour infraction à la présente partie s’appliquent à l’égard d’une violation dans la mesure de leur compatibilité avec la présente partie.
+> 2015, ch. 19, art. 53.
+
+
+
+
+
+**Violation continue**
+
+**94.08** Il est compté une violation distincte pour chacun des jours au cours desquels se commet ou se continue la violation.
+> 2015, ch. 19, art. 53.
+
+
+
+
+
+**Cumul interdit**
+
+**94.09** 
+
+- **(1)** S’agissant d’un acte ou d’une omission qualifiable à la fois de violation et d’infraction aux termes de la présente partie, la procédure en violation et la procédure pénale s’excluent l’une l’autre.
+
+**Précision**
+
+- **(2)** Il est entendu que les violations ne sont pas des infractions; en conséquence, nul ne peut être poursuivi à ce titre sur le fondement de l’article 126 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+> 2015, ch. 19, art. 53.
+
+
+
+
+
+**Prescription**
+
+**94.1** Le délai dans lequel le procès-verbal peut être dressé est de deux ans à compter de la date où le ministre a eu connaissance des faits reprochés.
+> 2015, ch. 19, art. 53.
+
+
+
+
+
+##### Révision
+
+
+
+**Droit de faire une demande de révision**
+
+**94.11** Le prétendu auteur de la violation peut, dans les trente jours suivant la signification d’un procès-verbal ou dans tout délai supérieur prévu dans les règlements, saisir le ministre d’une demande de révision du montant de la pénalité ou des faits quant à la violation, ou des deux.
+> 2015, ch. 19, art. 53.
+
+
+
+
+
+**Annulation ou correction du procès-verbal**
+
+**94.12** Tant que le ministre n’est pas saisi d’une demande de révision du procès-verbal, tout inspecteur peut soit l’annuler, soit corriger toute erreur qu’il contient.
+> 2015, ch. 19, art. 53.
+
+
+
+
+
+**Révision**
+
+**94.13** Sur réception de la demande de révision, le ministre procède à la révision.
+> 2015, ch. 19, art. 53.
+
+
+
+
+
+**Objet de la révision**
+
+**94.14** 
+
+- **(1)** Le ministre décide, selon le cas, si le montant de la pénalité a été établi conformément aux règlements ou si le demandeur a commis la violation, ou les deux.
+
+**Décision**
+
+- **(2)** Le ministre rend sa décision par écrit, motifs à l’appui, et en fait signifier une copie au demandeur. Il en fournit aussi une copie à l’Office sans délai après avoir rendu la décision.
+
+**Correction du montant de la pénalité**
+
+- **(3)** Le ministre modifie le montant de la pénalité s’il estime qu’il n’a pas été établi conformément aux règlements.
+
+**Obligation de payer la pénalité**
+
+- **(4)** En cas de décision défavorable, l’auteur de la violation est tenu du paiement de la pénalité mentionnée dans la décision.
+
+**Décision définitive**
+
+- **(5)** La décision est définitive et exécutoire et, sous réserve du contrôle judiciaire prévu par la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md), n’est pas susceptible d’appel ou de révision en justice.
+> 2015, ch. 19, art. 53.
+
+
+
+
+
+**Fardeau de la preuve**
+
+**94.15** En cas de révision portant sur les faits, il incombe à l’inspecteur qui a dressé le procès-verbal d’établir, selon la prépondérance des probabilités, que le demandeur a commis la violation qui y est mentionnée.
+> 2015, ch. 19, art. 53.
+
+
+
+
+
+##### Responsabilité
+
+
+
+**Paiement**
+
+**94.16** Vaut aveu de responsabilité à l’égard de la violation et met fin à la procédure le paiement de la pénalité. Le cas échéant, le ministre avise immédiatement l’Office de la violation.
+> 2015, ch. 19, art. 53.
+
+
+
+
+
+**Défaut**
+
+**94.17** Vaut aveu de responsabilité, en cas de non-paiement de la pénalité dans le délai prévu dans le procès-verbal, le fait de ne pas demander de révision dans le délai prévu à l’article 94.11. Le cas échéant, le contrevenant est tenu du paiement de la pénalité, et le ministre avise immédiatement l’Office de la violation.
+> 2015, ch. 19, art. 53.
+
+
+
+
+
+##### Recouvrement des pénalités
+
+
+
+**Créance de Sa Majesté**
+
+**94.18** 
+
+- **(1)** La pénalité constitue une créance de Sa Majesté du chef du Canada dont le recouvrement peut être poursuivi à ce titre devant tout tribunal compétent.
+
+**Prescription**
+
+- **(2)** Le recouvrement de la créance se prescrit par cinq ans à compter de la date à laquelle elle est devenue exigible.
+> 2015, ch. 19, art. 53.
+
+
+
+
+
+**Certificat de non-paiement**
+
+**94.19** 
+
+- **(1)** Le ministre peut établir un certificat de non-paiement pour la partie impayée de toute créance visée au paragraphe 94.18(1).
+
+**Enregistrement**
+
+- **(2)** L’enregistrement à tout tribunal compétent confère au certificat de non-paiement valeur de jugement pour la somme visée et les frais afférents à l’enregistrement.
+> 2015, ch. 19, art. 53.
+
+
+
+
+
+##### Dispositions générales
+
+
+
+**Authenticité de documents**
+
+**94.2** Dans les procédures pour violation, le document qui paraît être un procès-verbal dressé en application du paragraphe 94.06(1) fait foi, sauf preuve contraire, de son authenticité et de son contenu.
+> 2015, ch. 19, art. 53.
+
+
+
+
+
+**Publication**
+
+**94.3** L’Office procède à la publication de la nature de la violation, du nom de son auteur et du montant de la pénalité.
+> 2015, ch. 19, art. 53.
+
 
 
 
