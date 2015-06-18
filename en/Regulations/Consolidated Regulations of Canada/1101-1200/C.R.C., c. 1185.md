@@ -5,7 +5,7 @@
 **C.R.C., c. 1185**
 
 Enabling authorities: 
-- [CANADA TRANSPORTATION ACT](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md)
+- [RAILWAY SAFETY ACT](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(4th%20Supp.).md)
 
 ----------
 
