@@ -2614,6 +2614,15 @@ but does not include a person whose only sentence is a sentence being served int
 
 
 
+**Urine sample positive or not provided**
+
+**123.1** If an offender has been granted parole under section 122 or 123 but has not yet been released and the offender fails or refuses to provide a urine sample when demanded to provide one under section 54, or provides under that section a urine sample for which the result of the urinalysis is positive, as that term is defined in the regulations, then the Service shall inform the Board of the failure or refusal or the test result.
+> 2015, c. 30, s. 2
+
+
+
+
+
 **Offenders unlawfully at large**
 
 **124** 
@@ -2628,10 +2637,14 @@ but does not include a person whose only sentence is a sentence being served int
 
 - **(3)** If an offender has been granted parole under section 122 or 123, the Board may, after a review of the case based on information that could not reasonably have been provided to it at the time parole was granted, cancel the parole if the offender has not been released or terminate the parole if the offender has been released.
 
+**Cancellation of parole — drug test**
+
+- **(3.1)** If the Board is informed of the matters under section 123.1 and the offender has still not yet been released, the Board shall can- cel the parole if, in its opinion, based on the information received under that section, the criteria set out in paragraphs 102(a) and (b) are no longer met.
+
 **Review**
 
 - **(4)** If the Board exercises its power under subsection (3), it shall, within the period prescribed by the regulations, review its decision and either confirm or cancel it.
-> 1992, c. 20, s. 124; 1995, c. 42, s. 38; 2011, c. 11, s. 4; 2012, c. 1, s. 80, c. 19, s. 526
+> 1992, c. 20, s. 124; 1995, c. 42, s. 38; 2011, c. 11, s. 4; 2012, c. 1, s. 80, c. 19, s. 526; 2015, c. 30, s. 3
 
 
 
@@ -3032,7 +3045,7 @@ it may order that if the statutory release is later revoked, the offender is not
 
 **Conditions set by releasing authority**
 
-- **(3)** The releasing authority may impose any conditions on the parole, statutory release or unescorted temporary absence of an offender that it considers reasonable and necessary in order to protect society and to facilitate the successful reintegration into society of the offender.
+- **(3)** The releasing authority may impose any conditions on the parole, statutory release or unescorted temporary absence of an offender that it considers reasonable and necessary in order to protect society and to facilitate the offender’s successful reintegration into society. For greater certainty, the conditions may include any condition regarding the offender’s use of drugs or alcohol, including in cases when that use has been identified as a risk factor in the offender’s criminal behaviour.
 
 **Conditions to protect victim**
 
@@ -3075,7 +3088,7 @@ it may order that if the statutory release is later revoked, the offender is not
 - **(6)** The releasing authority may, in accordance with the regulations, before or after the release of an offender,
 	- **(a)** in respect of conditions referred to in subsection (2), relieve the offender from compliance with any such condition or vary the application to the offender of any such condition; or
 	- **(b)** in respect of conditions imposed under subsection (3), (4) or (4.1), remove or vary any such condition.
-> 1992, c. 20, s. 133; 1995, c. 42, ss. 48, 71(F); 1997, c. 17, s. 28; 2012, c. 1, s. 86; 2014, c. 21, s. 5
+> 1992, c. 20, s. 133; 1995, c. 42, ss. 48, 71(F); 1997, c. 17, s. 28; 2012, c. 1, s. 86; 2014, c. 21, s. 5; 2015, c. 30, s. 4
 
 
 
@@ -3965,7 +3978,7 @@ the judge may, in the report of the inquiry, recommend that the member be suspen
 
 **156** 
 
-- **(1)** The Governor in Council may make regulations providing for anything that by this Part is to be provided for by regulation and, generally, for carrying out the purposes and provisions of this Part.
+- **(1)** The Governor in Council may make regulations providing for anything that by this Part is to be provided for by regulation, including defining terms that are to be defined in the regulations for the purposes of this Part, and, generally, for carrying out the purposes and provisions of this Part.
 
 **Application**
 
@@ -3983,7 +3996,7 @@ the judge may, in the report of the inquiry, recommend that the member be suspen
 	- **(a)** pursuant to sections 120 to 120.3, the period that an offender must serve before being eligible for parole;
 	- **(b)** pursuant to section 127, the period that an offender must serve before being entitled to statutory release; and
 	- **(c)** the manner in which subsection 139(1) applies in respect of sentences.
-> 1992, c. 20, s. 156; 1995, c. 42, s. 60
+> 1992, c. 20, s. 156; 1995, c. 42, s. 60; 2015, c. 30, s. 5
 
 
 
@@ -4882,6 +4895,7 @@ is guilty of an offence punishable on summary conviction and liable to a fine no
 - **(a.8)** section 83.2 (commission of offence for terrorist group);
 - **(a.9)** section 83.21 (instructing to carry out activity for terrorist group);
 - **(a.91)** section 83.22 (instructing to carry out terrorist activity);
+- **(a.92)** subsection 83.221(1) (advocating or promoting commission of terrorism offences);
 - **(b)** subsection 85(1) (using firearm in commission of offence);
 - **(b.1)** subsection 85(2) (using imitation firearm in commission of offence);
 - **(c)** section 87 (pointing a firearm);
@@ -5000,7 +5014,7 @@ is guilty of an offence punishable on summary conviction and liable to a fine no
 - **(d)** section 7 (breach of responsibility committed outside Canada by military commanders or other superiors).
 
 
-> 1992, c. 20, Sch. I; 1995, c. 39, s. 165, c. 42, ss. 64 to 67; 2000, c. 24, s. 41; 2001, c. 41, ss. 91 to 93; 2008, c. 6, s. 57; 2011, c. 11, s. 8; 2012, c. 1, ss. 103, 104; 2014, c. 25, s. 42
+> 1992, c. 20, Sch. I; 1995, c. 39, s. 165, c. 42, ss. 64 to 67; 2000, c. 24, s. 41; 2001, c. 41, ss. 91 to 93; 2008, c. 6, s. 57; 2011, c. 11, s. 8; 2012, c. 1, ss. 103, 104; 2014, c. 25, s. 42; 2015, c. 20, s. 30
 
 
 
