@@ -3277,21 +3277,27 @@ is of
 
 
 
-#### Limiting Carriers’ Liability
+#### Means to Deal with Carriers’ Liability
 
 
 
-**Agreement limiting liability**
+**Agreement**
 
 **137** 
 
-- **(1)** A railway company shall not limit or restrict its liability to a shipper for the movement of traffic except by means of a written agreement signed by the shipper or by an association or other body representing shippers.
+- **(1)** The railway company’s liability, including to a third party, in respect of the movement of a shipper’s traffic shall be dealt with between the company and the shipper only by means of a written agreement that is signed by the shipper or by an association or other body representing shippers.
 
-**Liability if no agreement**
+**No agreement**
 
-- **(2)** If there is no agreement, the railway company’s liability is limited or restricted to the extent provided in any terms and conditions that the Agency may
-	- **(a)** on the application of the company, specify for the traffic; or
-	- **(b)** prescribe by regulation, if none are specified for the traffic.
+- **(2)** If there is no agreement, the railway company’s liability to the shipper in respect of a loss of or damage to a shipper’s traffic in the company’s possession or for any delay in its movement shall be dealt with between the company and the shipper,
+	- **(a)** on the application of the company, by the Agency; or
+	- **(b)** if there is no application or, if there is an application but the Agency does not specify any terms or conditions with respect to the matter, in the manner set out in the regulations.
+
+**Regulations**
+
+- **(3)** For the purposes of paragraph (2)(b), the Agency may make regulations respecting the manner in which a railway company’s liability under subsection (2) is to be dealt with between a company and a shipper.
+> 1996, c. 10, s. 137; 2015, c. 31, s. 9.
+
 
 
 
