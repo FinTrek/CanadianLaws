@@ -64,7 +64,7 @@ Enabling authorities:
 	- **(iv)** the date upon which it was made, and
 	- **(v)** the date upon which it is registered; and
 - **(b)** by assigning to it the designation “S.O.R.” followed by an appropriate number to distinguish it from any other regulation.
-> SOR/93-245, s. 1.
+> SOR/93-245, s. 1; 2015, c. 33, s. 4(F).
 
 
 
@@ -122,7 +122,7 @@ that are directed to a single person or body;
 - **(1)** The Clerk of the Privy Council shall retain the original, or a copy certified to be a true copy, of each of the official language versions of each statutory instrument or other document that is registered pursuant to section 6 of the Act.
 
 - **(2)** Where a regulation is exempt from registration, the regulation-making authority shall retain the original, or a copy certified to be a true copy, of each of the official language versions of that regulation.
-> SOR/93-245, s. 3.
+> SOR/93-245, s. 3; 2015, c. 33, s. 4(F).
 
 
 
@@ -231,6 +231,8 @@ that are directed to a single person or body;
 - **(b)** the statutory or other authority pursuant to which the regulation was made;
 - **(c)** the date upon which the regulation and any amendment thereto was made; and
 - **(d)** the place where the regulation and any amendment thereto may be inspected and a copy thereof obtained.
+> 2015, c. 33, s. 4(F).
+
 
 
 
