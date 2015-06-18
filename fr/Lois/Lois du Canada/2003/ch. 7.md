@@ -215,15 +215,26 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**[Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md)**
+**Non-application**
 
-**6** 
+**6** La [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) ne s’applique pas au Yukon.
+> 2003, ch. 7, art. 6; 2015, ch. 19, art. 2.
 
-- **(1)** Indépendamment de leur application aux activités qui ne constituent pas des projets de développement ou des ouvrages, les articles 5 à 60 de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md) ne s’appliquent, au Yukon, que dans la mesure prévue à l’article 63 de la présente loi.
 
-**Cas particulier : Office national de l’énergie**
 
-- **(2)** Ces articles de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md) s’appliquent cependant aux projets — au sens de cette loi — dont la réalisation nécessite l’autorisation de l’Office national de l’énergie, sous réserve du renvoi à une commission en vertu du paragraphe 29(1) de cette loi. Le cas échéant, l’article 63 de la présente loi s’applique, le ministre de l’Environnement étant tenu de notifier la mesure au comité de direction et réputé avoir acquiescé à une demande faite au titre de l’alinéa 61(1)b).
+
+
+**Délégation au ministre territorial**
+
+**6.1** 
+
+- **(1)** Le ministre fédéral peut, par écrit, déléguer au ministre territorial tout ou partie des attributions que lui confère la présente loi. La délégation peut être générale ou spécifique; dans ce dernier cas, sa portée est précisée dans l’acte de délégation.
+
+**Avis**
+
+- **(2)** Le ministre fédéral avise, par écrit, les premières nations de la délégation.
+> 2015, ch. 19, art. 2.
+
 
 
 
@@ -256,7 +267,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Comité de direction**
 
-- **(3)** Le comité de direction est formé d’un membre nommé sur proposition du Conseil, d’un autre nommé après consultation du ministre territorial, et d’un troisième — le président de l’Office — nommé après consultation des deux autres membres.
+- **(3)** Le comité de direction est formé d’un membre nommé sur proposition du Conseil, d’un autre nommé sur proposition du ministre territorial, et d’un troisième — le président de l’Office — nommé après consultation des deux autres membres.
 
 **Autres membres de la formation minimale**
 
@@ -269,6 +280,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Consultation des premières nations**
 
 - **(6)** Le Conseil consulte les premières nations avant de faire une proposition.
+> 2003, ch. 7, art. 8; 2015, ch. 19, art. 3.
+
 
 
 
@@ -300,6 +313,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** Le ministre fédéral peut, sous réserve des conditions de nomination fixées par les articles 8 et 9, combler toute vacance en cours de mandat d’un poste de membre; le remplaçant exerce ses fonctions pendant le reste du mandat.
 
+**Fonctions postérieures au mandat**
+
+- **(4)** S’il est aussi membre du comité de direction qui effectue la préétude d’un projet de développement ou d’un comité restreint qui en étudie un, le membre dont le mandat expire avant qu’une décision écrite ne soit rendue par chacun des décisionnaires auxquels le comité en question a communiqué des recommandations à l’égard de ce projet peut, en conformité avec les règlements administratifs de l’Office — ou, en l’absence de règlements administratifs applicables, avec les instructions du président —, continuer à exercer ses fonctions relativement à cette préétude ou étude jusqu’à ce que ces décisions écrites soient rendues. En ce qui concerne la nomination de son remplaçant, la vacance du poste est réputée survenir dès l’expiration du mandat.
+> 2003, ch. 7, art. 10; 2015, ch. 19, art. 4.
+
+
 
 
 
@@ -316,6 +335,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Consultation préalable**
 
 - **(3)** La révocation d’un membre nommé sur proposition du Conseil ou du ministre territorial est subordonnée à la consultation, par le ministre fédéral, de l’un ou de l’autre, selon le cas.
+
+**Fonctions postérieures à la révocation**
+
+- **(4)** S’il est aussi membre du comité de direction qui effectue la préétude d’un projet de développement ou d’un comité restreint qui en étudie un, le membre qui est révoqué en application du paragraphe (2) avant qu’une décision écrite ne soit rendue par chacun des décisionnaires auxquels le comité en question a communiqué des recommandations à l’égard de ce projet peut, en conformité avec les règlements administratifs de l’Office — ou, en l’absence de règlements administratifs applicables, avec les instructions du président —, continuer à exercer ses fonctions relativement à cette préétude ou étude jusqu’à ce que ces décisions écrites soient rendues. En ce qui concerne la nomination de son remplaçant, la vacance du poste est réputée survenir dès la révocation.
+> 2003, ch. 7, art. 11; 2015, ch. 19, art. 5.
+
 
 
 
@@ -554,7 +579,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** la forme et la teneur des propositions soumises en application du paragraphe 50(1) et des demandes prévues à l’article 60;
 	- **b)** la détermination de l’envergure des projets de développement;
 	- **c)** la participation des intéressés et du public, pour l’application de l’article 46;
-	- **d)** les délais dont disposent le comité de direction et les comités restreints pour effectuer leurs travaux sous le régime de la partie 2.
+	- **d)** les délais dont disposent le comité de direction et les comités restreints pour effectuer leurs travaux relativement à chacune des étapes, depuis la soumission de la proposition ou son renvoi jusqu’à la conclusion de la préétude ou de l’étude du projet de développement ou de l’ouvrage.
 
 **Idem**
 
@@ -575,6 +600,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Catégories particulières**
 
 - **(4)** Les règles établies en vertu du présent article peuvent prévoir différents types de préétudes et d’études pour diverses catégories soit de projets de développement, d’ouvrages ou de plans, soit d’activités à l’extérieur du Yukon.
+> 2003, ch. 7, art. 30; 2015, ch. 19, art. 6.
+
 
 
 
@@ -595,7 +622,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c)** la participation des intéressés et du public, pour l’application de l’article 46;
 	- **d)** la présentation de propositions relatives à un projet de développement devant être réalisé dans plus d’une circonscription;
 	- **e)** les modalités permettant soit à différents bureaux désignés d’effectuer l’examen conjointement, soit à un seul de le faire pour le compte de tous, dans les cas visés à l’article 53;
-	- **f)** les délais dont disposent les bureaux désignés pour effectuer leurs travaux sous le régime de la partie 2.
+	- **f)** les délais dont disposent les bureaux désignés pour effectuer leurs travaux relativement à chacune des étapes, depuis la soumission de la proposition jusqu’à la conclusion de l’examen du projet de développement ou de l’ouvrage.
 
 **Autres règles**
 
@@ -608,6 +635,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Règles particulières**
 
 - **(5)** Tout bureau désigné peut établir ses propres règles d’examen, mais les dispositions des règles établies en vertu des paragraphes (1) à (3) l’emportent en cas d’incompatibilité.
+> 2003, ch. 7, art. 31; 2015, ch. 19, art. 7.
+
 
 
 
@@ -656,7 +685,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **35** L’Office peut, par règlement administratif :
 - **a)** régir la conduite et la gestion de ses affaires internes;
-- **b)** établir, pour la révocation des membres visée au paragraphe 11(1), des motifs autres que ceux du droit commun.
+- **b)** établir, pour la révocation des membres visée au paragraphe 11(1), des motifs autres que ceux du droit commun;
+- **c)** régir l’exercice des fonctions d’un membre pour l’application des paragraphes 10(4) et 11(4).
+> 2003, ch. 7, art. 35; 2015, ch. 19, art. 8.
+
 
 
 
@@ -748,19 +780,24 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** les raisons d’être du projet ou de l’ouvrage;
 	- **b)** toutes les étapes du projet ou de l’ouvrage;
 	- **c)** l’importance des effets — actuels ou éventuels — du projet ou de l’ouvrage sur l’environnement ou la vie socioéconomique au Yukon ou à l’extérieur de ses limites, notamment ceux découlant d’accidents ou de défaillances;
-	- **d)** l’importance des effets cumulatifs négatifs — actuels ou éventuels — du projet ou de l’ouvrage sur l’environnement ou la vie socioéconomique lorsqu’il est combiné soit à d’autres projets ayant fait l’objet d’une proposition en conformité avec le paragraphe 50(1), soit à des activités — même projetées — au Yukon ou à l’extérieur de ses limites, qui ont été portées à leur connaissance sous le régime de la présente loi;
+	- **d)** l’importance des effets cumulatifs négatifs — actuels ou éventuels — du projet ou de l’ouvrage sur l’environnement ou la vie socioéconomique lorsqu’il est combiné soit à d’autres projets ayant fait l’objet d’une proposition en conformité avec le paragraphe 50(1), soit à des activités — dont la réalisation est terminée, en cours ou probable — au Yukon ou à l’extérieur de ses limites;
+	- **d.1)** les études ou les recherches entreprises en vertu du paragraphe 112(1) qui se rapportent au projet ou à l’ouvrage;
+	- **d.2)** la nécessité de prendre des mesures de contrôle;
 	- **e)** les solutions de rechange soit au projet ou à l’ouvrage lui-même, soit à ses modalités de réalisation ou d’exploitation, susceptibles d’éviter ou de réduire les effets négatifs importants sur l’environnement ou la vie socioéconomique;
 	- **f)** les mesures d’atténuation et d’indemnisation indiquées dans les circonstances;
 	- **g)** la nécessité de protéger les droits conférés aux Indiens du Yukon sous le régime des accords définitifs, la relation particulière entre ces derniers et l’environnement du Yukon dans son état sauvage ainsi que les cultures, les traditions, la santé et le mode de vie tant des Indiens du Yukon que des autres résidents du Yukon;
+	- **g.1)** les intérêts des premières nations;
 	- **h)** les intérêts des résidents du Yukon et des autres résidents du Canada;
 	- **i)** les éléments indiqués par le décisionnaire compétent;
 	- **j)** les éléments précisés par règlement.
 
-**Points supplémentaires**
+**Autres activités à prendre en compte**
 
-- **(2)** Le comité de direction et le comité restreint tiennent en outre compte des points suivants :
-	- **a)** la nécessité de prendre des mesures de contrôle;
-	- **b)** la capacité des ressources renouvelables qui risquent le plus de subir le contrecoup du projet de développement ou de l’ouvrage de répondre aux besoins actuels et à ceux des générations futures.
+- **(2)** Le comité de direction et le comité restreint tiennent en outre compte de la capacité des ressources renouvelables qui risquent le plus de subir le contrecoup du projet de développement ou de l’ouvrage de répondre aux besoins actuels et à ceux des générations futures.
+
+**Activité potentielle d’un tiers**
+
+- **(2.1)** Si le promoteur d’un projet de développement ou d’un ouvrage portant sur la planification d’activités relatives à la récolte de bois est une autorité publique ou une première nation, le bureau désigné, le comité de direction ou le comité restreint tiennent également compte de toute activité potentielle d’un tiers qui, si elle était à l’étape de projet, serait assujettie à l’évaluation aux termes des articles 47 ou 48.
 
 **Prise en compte**
 
@@ -769,13 +806,39 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Autres points pertinents**
 
 - **(4)** Le bureau désigné, le comité de direction et le comité restreint peuvent en outre tenir compte de tout point qu’ils jugent pertinent.
+> 2003, ch. 7, art. 42; 2015, ch. 19, art. 9.
+
 
 
 
 
 **Renseignements supplémentaires**
 
-**43** Le bureau désigné, le comité de direction et le comité restreint saisis d’un projet de développement peuvent, avant la fin de l’évaluation, exiger de son promoteur la communication des renseignements supplémentaires qu’ils estiment nécessaires.
+**43** 
+
+- **(1)** Le bureau désigné, le comité de direction et le comité restreint saisis d’un projet de développement peuvent, avant la fin de l’évaluation, exiger de son promoteur la communication des renseignements supplémentaires qu’ils estiment nécessaires.
+
+**Suspension**
+
+- **(2)** Si le promoteur omet de fournir les renseignements supplémentaires ainsi exigés dans les délais précisés par les règles, le bureau désigné, le comité de direction et le comité restreint peuvent suspendre leurs travaux d’évaluation respectifs jusqu’à ce qu’il les leur fournisse. En cas de suspension, ceux-ci rendent les motifs de leur décision publics.
+
+**Fin de l’évaluation**
+
+- **(3)** L’évaluation prend fin dans le cas où le promoteur ne fournit pas les renseignements supplémentaires dans les deux ans suivant la date où ils ont été exigés, sauf si l’Office a prolongé ce délai.
+
+**Prolongation du délai**
+
+- **(4)** L’Office peut prolonger le délai prévu au paragraphe (3) pour une période d’au plus un an.
+
+**Précision**
+
+- **(5)** Il est entendu que le promoteur peut soumettre une nouvelle proposition relativement au projet de développement conformément à l’article 50.
+
+**Prise en compte des travaux antérieurs**
+
+- **(6)** Le bureau désigné, le comité de direction ou le comité restreint chargé de l’évaluation du projet de développement visé par la nouvelle proposition tiennent compte des travaux d’évaluation antérieurs effectués au titre de la présente loi à l’égard du projet et peuvent s’appuyer sur ceux-ci.
+> 2003, ch. 7, art. 43; 2015, ch. 19, art. 10.
+
 
 
 
@@ -817,6 +880,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+### Délais
+
+
+
+**Mandat et validité des actes**
+
+**46.1** Le défaut du ministre fédéral, du ministre de l’Environnement, du ministre territorial, de l’Office, d’un décisionnaire, d’un bureau désigné, d’un comité de direction, d’un comité restreint ou d’un comité mixte d’exercer ses attributions dans le délai prévu sous le régime de la présente loi n’a pas pour effet de mettre fin à son mandat ni d’invalider les documents préparés ou présentés dans l’exercice de ses attributions ou les décisions et mesures prises dans le cadre de celles-ci.
+> 2015, ch. 19, art. 11.
+
+
+
+
+
 ### Activités visées
 
 
@@ -830,10 +906,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Assujettissement**
 
 - **(2)** Est assujettie à l’évaluation toute activité qui pourrait l’être aux termes des règlements, qui ne fait pas l’objet d’une exception réglementaire, qui doit être exercée au Yukon et qui remplit l’une ou l’autre des conditions suivantes :
-	- **a)** une autorité fédérale ou un organisme administratif autonome fédéral en est le promoteur ou a reçu une demande d’aide financière à son égard;
+	- **a)** une autorité fédérale ou un organisme administratif autonome fédéral en est le promoteur;
 	- **b)** une autorité territoriale, une municipalité, un organisme administratif autonome territorial ou une première nation en est le promoteur, dans les cas où la délivrance d’une autorisation ou l’attribution de droits fonciers serait nécessaire à son exercice si le promoteur était un particulier;
 	- **c)** l’autorisation d’une autorité publique, d’un organisme administratif autonome, d’une municipalité ou d’une première nation, ou l’attribution, par ceux-ci, de droits fonciers est nécessaire à son exercice;
 	- **d)** l’autorisation du gouverneur en conseil est nécessaire à son exercice.
+> 2003, ch. 7, art. 47; 2015, ch. 19, art. 12.
+
 
 
 
@@ -843,8 +921,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **48** 
 
 - **(1)** Est assujettie à l’évaluation l’activité exceptée en vertu du paragraphe 47(1) qui fait l’objet d’une déclaration à cet effet — dans les cas visés aux paragraphes (3) ou (4) — de la part :
-	- **a)** d’une autorité fédérale, dans le cas où celle-ci en est le promoteur ou peut accorder une autorisation ou des droits fonciers nécessaires à son exercice ou a reçu une demande d’aide financière à son égard;
-	- **b)** du ministre fédéral, dans le cas où soit l’autorisation du gouverneur en conseil est nécessaire à son exercice, soit un organisme administratif autonome fédéral en est le promoteur ou peut accorder une telle autorisation ou de tels droits ou a reçu une demande d’aide financière à son égard;
+	- **a)** d’une autorité fédérale, dans le cas où celle-ci en est le promoteur ou peut accorder une autorisation ou des droits fonciers nécessaires à son exercice;
+	- **b)** du ministre fédéral, dans le cas où soit l’autorisation du gouverneur en conseil est nécessaire à son exercice, soit un organisme administratif autonome fédéral en est le promoteur ou peut accorder une telle autorisation ou de tels droits;
 	- **c)** du ministre territorial, dans le cas où une autorité territoriale, un organisme administratif autonome territorial ou une municipalité en est le promoteur ou peut accorder une telle autorisation ou de tels droits;
 	- **d)** d’une première nation, dans le cas où celle-ci en est le promoteur ou peut accorder une telle autorisation ou de tels droits.
 
@@ -864,6 +942,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** une région qui contient une ressource patrimoniale — autre qu’un document — ou en constitue une et qui, de ce fait, fait l’objet soit d’un régime de protection en vertu d’un texte législatif fédéral ou territorial ou d’un texte législatif d’une première nation, soit d’une recommandation en ce sens dans un plan d’aménagement régional applicable en vertu d’un accord définitif;
 	- **b)** une zone spéciale de gestion dont fait mention un accord définitif ou dont l’établissement est prévu par celui-ci;
 	- **c)** une région où des espèces animales ou végétales rares, menacées, en voie de disparition ou en péril — aux termes d’un texte législatif fédéral ou territorial ou d’un texte législatif d’une première nation — ont leur habitat.
+> 2003, ch. 7, art. 48; 2015, ch. 19, art. 13.
+
 
 
 
@@ -881,6 +961,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Absence de changements importants**
+
+**49.1** 
+
+- **(1)** Ne doit pas faire l’objet d’une nouvelle évaluation le projet de développement ou l’ouvrage pour lequel une autorisation est renouvelée ou modifiée, à moins que, de l’avis du décisionnaire compétent, il n’ait fait l’objet de changements importants qui seraient par ailleurs assujettis à une évaluation.
+
+**Consultation entre décisionnaires**
+
+- **(2)** Si le projet de développement relève de plus d’un décisionnaire, ils se consultent pour décider si une nouvelle évaluation est requise.
+> 2015, ch. 19, art. 14.
+
+
+
+
+
 ### Saisine
 
 
@@ -893,7 +988,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Points importants**
 
-- **(2)** Le promoteur fait état, dans sa proposition, des mesures d’atténuation nécessaires et tient compte des points énumérés aux alinéas 42(1)b), c), e) et f), lorsqu’il soumet sa proposition au bureau désigné, et de ceux énumérés à ces alinéas et aux alinéas 42(1)g) et h), lorsqu’il la soumet au comité de direction.
+- **(2)** Le promoteur fait état, dans sa proposition, des mesures d’atténuation appropriées et tient compte des points énumérés aux alinéas 42(1)b), c), e) et f) et, le cas échéant, au paragraphe 42(2.1), lorsqu’il soumet sa proposition au bureau désigné, et de ceux énumérés à ces alinéas et aux alinéas 42(1)g) à h) et, le cas échéant, au paragraphe 42(2.1), lorsqu’il la soumet au comité de direction.
 
 **Consultation**
 
@@ -902,6 +997,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Notification**
 
 - **(4)** Le comité de direction notifie au ministre de l’Environnement toute proposition qui lui est soumise visant un projet de développement relevant d’un décisionnaire fédéral.
+> 2003, ch. 7, art. 50; 2015, ch. 19, art. 15.
+
 
 
 
@@ -973,11 +1070,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **56** 
 
-- **(1)** Au terme de l’examen, le bureau désigné prend l’une ou l’autre des décisions suivantes :
+- **(1)** Dans les neuf mois suivant la date où une proposition lui est soumise aux termes du paragraphe 50(1), le bureau désigné termine l’examen du projet de développement en prenant l’une ou l’autre des décisions suivantes :
 	- **a)** il recommande aux décisionnaires compétents de permettre la réalisation du projet de développement dans le cas où il conclut que celui-ci n’aura pas d’effets négatifs importants sur l’environnement ou la vie socioéconomique au Yukon ou à l’extérieur de ses limites;
-	- **b)** il leur recommande de permettre la réalisation du projet sous réserve de certaines conditions dans le cas où il conclut que celui-ci aura de tels effets mais que ceux-ci peuvent être atténués grâce à ces conditions;
-	- **c)** il leur recommande de refuser la réalisation du projet dans les cas où il conclut qu’il est impossible d’atténuer de tels effets;
-	- **d)** il renvoie l’affaire au comité de direction pour examen dans les cas où il est incapable d’établir, malgré les mesures d’atténuation prévues, si le projet aura des effets négatifs importants sur l’environnement ou la vie socioéconomique.
+	- **b)** il leur recommande de permettre la réalisation du projet sous réserve de certaines conditions dans le cas où il conclut que celui-ci aura ou risque d’avoir de tels effets mais que ceux-ci peuvent être atténués grâce à ces conditions;
+	- **c)** il leur recommande de refuser la réalisation du projet dans le cas où il conclut que celui-ci aura ou risque d’avoir de tels effets qu’il est impossible d’atténuer;
+	- **d)** il renvoie l’affaire au comité de direction pour examen dans le cas où il est incapable d’établir, malgré les mesures d’atténuation prévues, si le projet aura ou risque d’avoir des effets négatifs importants sur l’environnement ou la vie socioéconomique.
+
+**Période exclue**
+
+- **(1.1)** Dans le cas où le bureau désigné exige du promoteur du projet de développement qu’il lui fournisse des renseignements ou qu’il procède à une étude ou à la collecte de renseignements relativement au projet, la période prise, à son avis, par le promoteur pour remplir cette exigence n’est pas comprise dans le calcul du délai ou de sa prolongation.
+
+**Prolongation du délai par le ministre fédéral**
+
+- **(1.2)** Le ministre fédéral peut, sur demande de l’Office, prolonger d’au plus deux mois le délai prévu au paragraphe (1) pour tenir compte des circonstances particulières à une proposition relative à un projet de développement.
+
+**Prolongation du délai par le gouverneur en conseil**
+
+- **(1.3)** Le gouverneur en conseil peut, par décret pris sur la recommandation du ministre fédéral, accorder une ou plusieurs prolongations supplémentaires de toute durée.
 
 **Communication des recommandations**
 
@@ -994,6 +1103,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Communication de documents**
 
 - **(5)** Le bureau désigné adresse au comité de direction copie de tous les documents en sa possession relatifs au projet de développement qui fait l’objet du renvoi.
+> 2003, ch. 7, art. 56; 2015, ch. 19, art. 16.
+
 
 
 
@@ -1027,11 +1138,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **58** 
 
-- **(1)** Au terme de la préétude, le comité de direction prend l’une ou l’autre des décisions suivantes :
+- **(1)** Dans les seize mois suivant la date où une proposition lui est soumise aux termes du paragraphe 50(1) ou à laquelle un projet lui est renvoyé en application de l’alinéa 56(1)d), le comité de direction termine la préétude du projet de développement en prenant l’une ou l’autre des décisions suivantes :
 	- **a)** il recommande aux décisionnaires compétents de permettre la réalisation du projet — sans qu’une étude soit effectuée — dans le cas où il conclut que celui-ci n’aura pas d’effets négatifs importants sur l’environnement ou la vie socioéconomique au Yukon ou à l’extérieur de ses limites;
-	- **b)** il leur recommande de permettre la réalisation du projet — sans qu’une étude soit effectuée — sous réserve de certaines conditions dans le cas où il conclut que celui-ci aura de tels effets mais que ceux-ci peuvent être atténués grâce à ces conditions;
-	- **c)** il leur recommande de refuser la réalisation du projet — sans qu’une étude soit effectuée — dans le cas où il conclut qu’il est impossible d’atténuer ces effets;
-	- **d)** il ordonne l’étude du projet dans le cas où il n’est pas en mesure d’établir si, malgré les mesures d’atténuation prévues, celui-ci aura des effets négatifs importants sur l’environnement ou la vie socioéconomique.
+	- **b)** il leur recommande de permettre la réalisation du projet — sans qu’une étude soit effectuée — sous réserve de certaines conditions dans le cas où il conclut que celui-ci aura ou risque d’avoir de tels effets mais que ceux-ci peuvent être atténués grâce à ces conditions;
+	- **c)** il leur recommande de refuser la réalisation du projet — sans qu’une étude soit effectuée — dans le cas où il conclut que celui-ci aura ou risque d’avoir de tels effets qu’il est impossible d’atténuer;
+	- **d)** il ordonne l’étude du projet dans le cas où il n’est pas en mesure d’établir si, malgré les mesures d’atténuation prévues, celui-ci aura ou risque d’avoir des effets négatifs importants sur l’environnement ou la vie socioéconomique.
+
+**Période exclue**
+
+- **(1.1)** Dans le cas où le comité de direction exige du promoteur du projet de développement qu’il lui fournisse des renseignements ou qu’il procède à une étude ou à la collecte de renseignements relativement au projet, la période prise, à son avis, par le promoteur pour remplir cette exigence n’est pas comprise dans le calcul du délai ou de sa prolongation.
+
+**Prolongation du délai par le ministre fédéral**
+
+- **(1.2)** Le ministre fédéral peut, sur demande de l’Office, prolonger d’au plus deux mois le délai prévu au paragraphe (1) pour tenir compte des circonstances particulières à une proposition relative à un projet de développement.
+
+**Prolongation du délai par le gouverneur en conseil**
+
+- **(1.3)** Le gouverneur en conseil peut, par décret pris sur la recommandation du ministre fédéral, accorder une ou plusieurs prolongations supplémentaires de toute durée.
 
 **Étude obligatoire**
 
@@ -1046,19 +1169,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Notification**
 
 - **(4)** Le comité de direction notifie par écrit la décision d’ordonner l’étude, motifs à l’appui, au promoteur, aux premières nations consultées en application du paragraphe 50(3), ainsi qu’aux autorités publiques, organismes administratifs autonomes et premières nations l’ayant avisé de leur intérêt dans le projet de développement ou dans les projets de même catégorie.
+> 2003, ch. 7, art. 58; 2015, ch. 19, art. 17.
 
 
 
 
-**Cas particulier : rejet de recommandation**
 
-**59** 
+**Cas particulier : rejet d’une recommandation**
 
-- **(1)** Dans les cas où un décisionnaire l’avise par écrit, dans les quinze jours qui suivent sa réception, qu’il rejette la recommandation faite par le comité de direction et portant dispense d’étude, le comité de direction est tenu d’ordonner l’étude du projet de développement.
+**59** Dans le cas où un décisionnaire l’avise par écrit, dans les quinze jours qui suivent sa réception, qu’il rejette la recommandation faite par le comité de direction et portant dispense d’étude, le comité de direction est tenu d’ordonner l’étude du projet de développement.
+> 2003, ch. 7, art. 59; 2015, ch. 19, art. 18.
 
-**Avis au ministre de l’Environnement**
-
-- **(2)** S’il ne reçoit aucun avis de cette nature dans ce délai et si le projet de développement en cause ne relève pas d’un décisionnaire fédéral, le comité de direction en avise par écrit le ministre de l’Environnement.
 
 
 
@@ -1105,77 +1226,40 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **61** 
 
-- **(1)** Dans le cas où le projet de développement relève d’un décisionnaire fédéral, le comité de direction est tenu, une fois ordonnée, en vertu de l’alinéa 58(1)d) ou des paragraphes 58(2) ou 59(1), l’étude du projet, ou après avoir reçu une demande d’étude publique présentée en conformité avec l’article 60, de prendre l’une ou l’autre des mesures suivantes :
+- **(1)** Dans le cas où le projet de développement relève d’un décisionnaire fédéral, le comité de direction est tenu, une fois que l’étude du projet a été ordonnée en vertu de l’alinéa 58(1)d), du paragraphe 58(2) ou de l’article 59 ou après avoir reçu une demande d’étude publique présentée en conformité avec l’article 60, de prendre l’une ou l’autre des mesures suivantes :
 	- **a)** notifier au ministre de l’Environnement son intention d’établir un comité restreint;
-	- **b)** demander à ce ministre de choisir entre la nomination d’une commission en conformité avec le paragraphe 33(1) de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md), et la conclusion, en conformité avec l’alinéa 40(2)a) de cette loi, d’un accord relatif à la constitution conjointe d’une commission;
-	- **c)** demander à ce ministre de négocier la conclusion d’un accord sous le régime de l’article 67.
+	- **b)** demander à ce ministre de négocier la conclusion d’un accord sous le régime de l’article 67.
 
 **Effets à l’extérieur du Yukon**
 
-- **(2)** Dans le cas où le projet de développement ne relève pas d’un décisionnaire fédéral, le comité de direction vérifie, après avoir ordonné l’étude en vertu de l’alinéa 58(1)d) ou des paragraphes 58(2) ou 59(1) ou reçu une demande d’étude publique présentée en conformité avec l’article 60, si le projet de développement est susceptible d’avoir des effets négatifs importants sur l’environnement ou la vie socioéconomique à l’extérieur du Yukon. Dans l’affirmative, il est tenu de faire la demande prévue aux alinéas (1)b) ou c); dans la négative, il communique sa conclusion au ministre de l’Environnement.
+- **(2)** Dans le cas où le projet de développement ne relève pas d’un décisionnaire fédéral, le comité de direction vérifie, après avoir ordonné l’étude en vertu de l’alinéa 58(1)d), du paragraphe 58(2) ou de l’article 59 ou reçu une demande d’étude publique présentée en conformité avec l’article 60, si le projet de développement est susceptible d’avoir des effets négatifs importants sur l’environnement ou la vie socioéconomique à l’extérieur du Yukon. Dans l’affirmative, il est tenu de faire la demande prévue à l’alinéa (1)b); dans la négative, il communique sa conclusion au ministre de l’Environnement.
 
 **Réponse du ministre de l’Environnement**
 
-- **(3)** Le ministre de l’Environnement peut, dans les trente jours suivant la notification faite au titre de l’alinéa (1)a), enjoindre au comité de direction de ne pas établir de comité restreint. Le cas échéant, le comité de direction est tenu de lui faire une demande au titre des alinéas (1)b) ou c).
+- **(3)** Le ministre de l’Environnement peut, dans les trente jours suivant la notification faite au titre de l’alinéa (1)a), enjoindre au comité de direction de ne pas établir de comité restreint. Le cas échéant, le comité de direction est tenu de lui faire une demande au titre de l’alinéa (1)b).
 
 **Vérification par le ministre de l’Environnement**
 
-- **(4)** Le ministre de l’Environnement peut aussi, après la communication d’une conclusion négative au titre du paragraphe (2), procéder lui-même à la vérification qui y est prévue. S’il en vient à une conclusion différente et en avise le comité de direction dans les trente jours suivant cette communication, celui-ci est tenu de lui faire une demande au titre des alinéas (1)b) ou c).
+- **(4)** Le ministre de l’Environnement peut aussi, après la communication d’une conclusion négative au titre du paragraphe (2), procéder lui-même à la vérification qui y est prévue. S’il en vient à une conclusion différente et en avise le comité de direction dans les trente jours suivant cette communication, celui-ci est tenu de lui faire une demande au titre de l’alinéa (1)b).
+> 2003, ch. 7, art. 61; 2015, ch. 19, art. 19.
+
 
 
 
 
 **Acquiescement à la demande**
 
-**62** 
-
-- **(1)** Le ministre de l’Environnement dispose d’un délai de trente jours suivant la réception de la demande qui lui est faite au titre des alinéas 61(1)b) ou c), pour notifier au comité de direction s’il y acquiesce ou non et, dans le cas de l’alinéa 61(1)b), son choix.
-
-**Avis d’intention du ministre**
-
-- **(2)** Le ministre de l’Environnement peut, dans les dix jours qui suivent la notification faite au titre du paragraphe 59(2), aviser le décisionnaire dont relève le projet de développement de son intention soit de nommer une commission en conformité avec le paragraphe 33(1) de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md), soit de conclure, en conformité avec l’alinéa 40(2)a) de cette loi, un accord relatif à la constitution conjointe d’une commission.
+**62** Le ministre de l’Environnement dispose d’un délai de trente jours après la réception de la demande qui lui est faite au titre de l’alinéa 61(1)b) pour notifier au comité de direction s’il y acquiesce ou non.
+> 2003, ch. 7, art. 62; 2015, ch. 19, art. 19.
 
 
 
 
-**Application de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md)**
-
-**63** 
-
-- **(1)** Dans les cas où le ministre de l’Environnement notifie son acquiescement à la demande qui lui est présentée au titre de l’alinéa 61(1)b) ou donne l’avis prévu au paragraphe 62(2), les dispositions de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md) relatives soit à la tenue d’une évaluation environnementale par une commission, soit aux accords visant la constitution conjointe d’une commission, selon le cas, s’appliquent en ce qui touche le projet de développement sous réserve des autres dispositions du présent article et de l’article 64.
-
-**Assimilation**
-
-- **(2)** Pour l’application du paragraphe (1) :
-	- **a)** les décisionnaires compétents sont assimilés aux autorités responsables au sens de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md);
-	- **b)** le comité de direction peut être partie aux accords visant la constitution conjointe d’une commission.
-
-**Demande de consentement**
-
-- **(3)** Le ministre de l’Environnement est tenu, avant de nommer la commission ou de conclure l’accord, de vérifier si le lieu de réalisation se trouve dans le territoire de premières nations ou si le projet de développement est susceptible d’avoir, dans un tel territoire, des effets importants sur l’environnement ou la vie socioéconomique. Dans l’affirmative, il demande aux premières nations dont le territoire est touché de consentir, dans les trente jours qui suivent, à l’établissement de la commission.
-
-**Défaut de consentement**
-
-- **(4)** Faute par l’une des premières nations de donner son consentement dans le délai imparti, le ministre de l’Environnement demande au Conseil et au ministre territorial de lui fournir chacun, dans les soixante jours qui suivent, une liste de candidats.
-
-**Nomination et mandat**
-
-- **(5)** Mis à part les cas où aucun territoire d’une première nation n’est touché aux termes du paragraphe (3), la nomination des membres de la commission et l’établissement de son mandat ne peuvent être effectués qu’en cas de consentement unanime donné dans le délai imparti ou à l’expiration du délai prévu au paragraphe (4). Dans ce dernier cas, au moins le quart des membres sont nommés à partir de chacune des listes fournies au ministre de l’Environnement dans le délai prévu à ce paragraphe.
-
-**Indien du Yukon**
-
-- **(6)** N’a pas pour effet de créer une situation de conflit d’intérêts — pour l’application des alinéas 33(1)a) ou 41b) de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md) — le seul fait pour un membre d’être un Indien du Yukon.
-
-**Application d’autres dispositions**
-
-- **(7)** En plus de ce qui est prévu au paragraphe (1), les dispositions de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md) relatives au suivi à apporter au rapport d’une commission par les autorités responsables — au sens de cette loi — qui ne sont pas des décisionnaires s’appliquent en ce qui touche le projet de développement en cause.
+**63** [Abrogé, 2015, ch. 19, art. 19]
 
 
 
-
-**Renvoi au comité de direction**
-
-**64** Dans les quarante-cinq jours suivant soit la date où la demande a été adressée à toutes les premières nations en application du paragraphe 63(3), soit, si aucun territoire d’une première nation n’est touché, la notification de son acquiescement à la demande qui lui est présentée au titre de l’alinéa 61(1)b), le ministre de l’Environnement peut se raviser et renvoyer l’affaire au comité de direction.
+**64** [Abrogé, 2015, ch. 19, art. 19]
 
 
 
@@ -1190,12 +1274,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Sauf si un accord est conclu en vertu de l’article 67, le comité de direction établit un comité restreint chargé de procéder à l’étude du projet de développement dans les cas suivants :
 	- **a)** une demande d’étude non publique est présentée au titre de l’article 60;
-	- **b)** il n’y a pas d’injonction, d’avis ou d’acquiescement de la part du ministre de l’Environnement au titre des paragraphes 61(3) ou (4) ou 62(1), respectivement;
-	- **c)** l’affaire est renvoyée par celui-ci en vertu de l’article 64.
+	- **b)** il n’y a pas d’injonction, d’avis ou d’acquiescement de la part du ministre de l’Environnement au titre des paragraphes 61(3) ou (4) ou de l’article 62, respectivement.
+	- **c)** [Abrogé, 2015, ch. 19, art. 20]
 
 **Échec des négociations**
 
-- **(2)** Le comité de direction est aussi tenu d’établir un tel comité restreint dans les cas où, malgré l’acquiescement donné par le ministre de l’Environnement à la demande présentée en vertu de l’alinéa 61(1)c), aucun accord n’est conclu en vertu de l’article 67.
+- **(2)** Le comité de direction est aussi tenu d’établir un tel comité restreint dans le cas où, malgré l’acquiescement donné par le ministre de l’Environnement à la demande présentée en vertu de l’alinéa 61(1)b), aucun accord n’est conclu en vertu de l’article 67.
 
 **Vérification par le comité de direction**
 
@@ -1222,6 +1306,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** ordonne aux autres membres ou à certains d’entre eux de poursuivre l’étude;
 	- **b)** nomme un remplaçant et ordonne au comité de poursuivre ou de recommencer l’étude;
 	- **c)** établit un nouveau comité restreint qu’il charge de recommencer l’étude.
+> 2003, ch. 7, art. 65; 2015, ch. 19, art. 20.
+
 
 
 
@@ -1247,6 +1333,48 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Délai**
+
+**66.1** 
+
+- **(1)** Le comité de direction établit un comité restreint et fixe son mandat dans les trois mois suivant la date où un tel comité doit être établi en application des paragraphes 65(1) ou (2).
+
+**Période exclue**
+
+- **(2)** Dans le cas où le comité de direction exige du promoteur du projet de développement qu’il lui fournisse des renseignements ou qu’il procède à une étude ou à la collecte de renseignements relativement au projet, la période prise, à son avis, par le promoteur pour remplir cette exigence n’est pas comprise dans le calcul du délai ou de sa prolongation.
+
+**Prolongation du délai par le ministre fédéral**
+
+- **(3)** Le ministre fédéral peut, sur demande du comité de direction, prolonger d’au plus deux mois le délai prévu au paragraphe (1) pour tenir compte des circonstances particulières à une proposition relative à un projet de développement.
+
+**Prolongation du délai par le gouverneur en conseil**
+
+- **(4)** Le gouverneur en conseil peut, par décret pris sur recommandation du ministre fédéral, accorder une ou plusieurs prolongations supplémentaires de toute durée.
+> 2015, ch. 19, art. 21.
+
+
+
+
+
+**Accord : coordination**
+
+**66.2** 
+
+- **(1)** Le comité de direction peut, avec l’agrément du ministre fédéral, conclure, avec l’autorité ayant des attributions relatives à l’examen des effets de la partie du projet de développement devant être réalisée à l’extérieur du Yukon, un accord visant à coordonner leurs examens.
+
+**État étranger**
+
+- **(2)** Le ministre fédéral et le ministre des Affaires étrangères peuvent conclure, après consultation du comité de direction, un accord au même effet avec l’autorité en cause si celle-ci est le gouvernement d’un État étranger ou d’une subdivision politique d’un État étranger ou l’un de leurs organismes.
+
+**Précision**
+
+- **(3)** Il est entendu que la coordination des examens n’a pas pour effet de permettre à un comité restreint de faire une recommandation portant sur la partie du projet de développement devant être réalisée à l’extérieur du Yukon.
+> 2015, ch. 19, art. 21.
+
+
+
+
+
 ### Comité mixte
 
 
@@ -1255,7 +1383,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **67** 
 
-- **(1)** Le comité de direction peut, en cas d’acquiescement à la demande qu’il présente au titre de l’alinéa 61(1)c), conclure, avec l’agrément du ministre fédéral, un accord avec le ministre de l’Environnement visant la constitution d’un comité mixte chargé de procéder à l’étude du projet de développement en cause.
+- **(1)** Le comité de direction peut, en cas d’acquiescement à la demande qu’il présente au titre de l’alinéa 61(1)b), conclure, avec l’agrément du ministre fédéral, un accord avec le ministre de l’Environnement visant la constitution d’un comité mixte chargé de procéder à l’étude du projet de développement en cause.
 
 **Conclusion d’un accord : ministre ou autre autorité**
 
@@ -1278,6 +1406,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Indemnisation**
 
 - **(5)** Les membres du comité mixte sont indemnisés, par la personne ou l’organisme mentionné dans l’accord, de tous les dommages-intérêts mis à leur charge en cette qualité et des frais entraînés par toute demande qui leur est adressée en ce sens s’ils ont agi avec intégrité et de bonne foi pour servir au mieux les intérêts du comité. Sont cependant exclues les sommes versées, sans l’agrément du ministre fédéral et celui de cette personne ou de cet organisme, à la suite d’un règlement amiable.
+> 2003, ch. 7, art. 67; 2015, ch. 19, art. 22.
+
 
 
 
@@ -1364,19 +1494,34 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(4)** Au terme de l’étude, le comité restreint ou mixte recommande aux décisionnaires compétents :
 	- **a)** de permettre la réalisation du projet de développement dans le cas où il conclut que celui-ci n’aura pas d’effets négatifs importants sur l’environnement ou la vie socioéconomique au Yukon ou à l’extérieur de ses limites;
-	- **b)** de permettre la réalisation du projet sous réserve de certaines conditions dans le cas où il conclut que celui-ci aura de tels effets mais que ceux-ci peuvent être atténués grâce à ces conditions;
-	- **c)** de refuser la réalisation du projet dans le cas où il conclut qu’il est impossible d’atténuer ces effets.
+	- **b)** de permettre la réalisation du projet sous réserve de certaines conditions dans le cas où il conclut que celui-ci aura ou risque d’avoir de tels effets, mais que ceux-ci peuvent être atténués grâce à ces conditions;
+	- **c)** de refuser la réalisation du projet dans le cas où il conclut que celui-ci aura ou risque d’avoir de tels effets qu’il est impossible d’atténuer.
+
+**Délai : comité restreint**
+
+- **(4.1)** Le comité restreint fait les recommandations mentionnées au paragraphe (4) dans les quinze mois suivant son établissement par le comité de direction en application des paragraphes 65(1) ou (2).
+
+**Période exclue**
+
+- **(4.2)** Dans le cas où le comité restreint exige du promoteur du projet de développement qu’il lui fournisse des renseignements ou qu’il procède à une étude ou à la collecte de renseignements relativement au projet, la période prise, à son avis, par le promoteur pour remplir cette exigence n’est pas comprise dans le calcul du délai ou de sa prolongation.
+
+**Prolongation du délai par le ministre fédéral**
+
+- **(4.3)** Le ministre fédéral peut, sur demande de l’Office, prolonger d’au plus deux mois le délai prévu au paragraphe (4.1) pour tenir compte des circonstances particulières à une proposition relative à un projet de développement.
+
+**Prolongation du délai par le gouverneur en conseil**
+
+- **(4.4)** Le gouverneur en conseil peut, par décret pris sur recommandation du ministre fédéral, accorder une ou plusieurs prolongations supplémentaires de toute durée.
 
 **Communication des recommandations**
 
 - **(5)** Les recommandations sont communiquées par écrit, motifs à l’appui, avec copie au promoteur.
+> 2003, ch. 7, art. 72; 2015, ch. 19, art. 23.
 
 
 
 
-**Rapport de la commission**
-
-**73** La commission visée à l’article 63 veille à inclure, dans le rapport qu’elle adresse au ministre de l’Environnement sous le régime de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md), l’une ou l’autre des recommandations visées au paragraphe 72(4). Elle adresse une copie du rapport au promoteur et aux décisionnaires compétents.
+**73** [Abrogé, 2015, ch. 19, art. 24]
 
 
 
@@ -1398,15 +1543,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Recommandation du bureau désigné, du comité mixte ou de la commission**
+**Recommandation du bureau désigné ou du comité mixte**
 
-**75** 
+**75** Le décisionnaire est tenu, dans sa décision écrite prise dans le délai réglementaire, d’accepter, de modifier ou de rejeter la recommandation qui lui est faite par le bureau désigné ou le comité mixte.
+> 2003, ch. 7, art. 75; 2015, ch. 19, art. 25.
 
-- **(1)** Le décisionnaire est tenu, dans sa décision écrite prise dans le délai réglementaire, d’accepter, de modifier ou de rejeter la recommandation qui lui est faite par le bureau désigné, le comité mixte ou la commission visée à l’article 63.
-
-**Agrément du gouverneur en conseil**
-
-- **(2)** Le délai mentionné au paragraphe (1) ne s’applique pas à la décision écrite du décisionnaire fédéral relative à la recommandation faite par la commission visée à l’article 63. Cette décision est cependant assujettie à l’agrément du gouverneur en conseil.
 
 
 
@@ -1415,7 +1556,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **76** 
 
-- **(1)** Sous réserve du paragraphe 59(1), le décisionnaire est tenu, dans sa décision écrite prise dans le délai réglementaire, d’accepter la recommandation qui lui est faite par le comité de direction ou le comité restreint ou de la leur renvoyer pour réexamen, ce renvoi ne pouvant toutefois être effectué qu’une seule fois.
+- **(1)** Sous réserve de l’article 59, le décisionnaire est tenu, dans le délai réglementaire, soit d’accepter la recommandation qui lui est faite par le comité de direction ou le comité restreint dans une décision écrite, soit de la leur renvoyer pour réexamen, ce renvoi ne pouvant toutefois être effectué qu’une seule fois.
 
 **Avis**
 
@@ -1424,6 +1565,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Effet**
 
 - **(3)** Sur réception de l’avis, tout autre décisionnaire met fin à l’étude de la recommandation et quiconque est tenu, en vertu des articles 82 à 88, de mettre en oeuvre une décision écrite s’abstient de prendre toute mesure visant à permettre la réalisation du projet de développement en question.
+> 2003, ch. 7, art. 76; 2015, ch. 19, art. 26.
+
 
 
 
@@ -1434,13 +1577,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Dans le cadre du réexamen des recommandations, le comité de direction et le comité restreint exercent les pouvoirs et fonctions qui leur sont conférés en matière d’examen et d’étude, respectivement.
 
-**Délai réglementaire**
+**Délai**
 
-- **(2)** Le comité de direction ou le comité restreint adresse aux décisionnaires compétents ses nouvelles recommandations dans le délai prévu par les règles. À défaut, il est réputé leur avoir adressé ses recommandations initiales.
+- **(2)** Le comité de direction ou le comité restreint adresse aux décisionnaires compétents ses nouvelles recommandations dans le délai prévu par les règles, lequel ne peut dépasser soixante jours dans le cas d’une préétude par le comité de direction et quatre-vingt-dix jours dans le cas d’une étude par un comité restreint. À défaut, il est réputé leur avoir adressé ses recommandations initiales.
 
 **Nouvelle décision écrite**
 
 - **(3)** Chacun de ces décisionnaires peut, dans sa décision écrite prise dans le délai réglementaire, accepter, rejeter ou modifier les nouvelles recommandations. Cette nouvelle décision se substitue à toute décision antérieure prise par lui sur le sujet.
+> 2003, ch. 7, art. 77; 2015, ch. 19, art. 27.
+
 
 
 
@@ -1489,8 +1634,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** à tout autre décisionnaire compétent;
 	- **b)** au promoteur du projet de développement en cause;
 	- **c)** au bureau désigné de toute circonscription où le projet doit être réalisé;
-	- **d)** au comité de direction, si la recommandation provient de celui-ci, d’un comité restreint ou mixte ou d’une commission visée à l’article 63;
-	- **e)** au ministre de l’Environnement, si la recommandation provient d’une commission visée à l’article 63;
+	- **d)** au comité de direction, si la recommandation provient de celui-ci ou d’un comité restreint ou mixte;
+	- **e)** [Abrogé, 2015, ch. 19, art. 28]
 	- **f)** à tout organisme administratif autonome chargé de délivrer une autorisation nécessaire à la réalisation du projet de développement ou ayant reçu une demande d’aide financière à cette fin;
 	- **g)** à l’Office des droits de surface du Yukon, dans le cas où il est appelé, en vertu de la [Loi sur l’Office des droits de surface du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2043.md), à rendre une ordonnance d’accès relativement au projet de développement;
 	- **h)** à l’organisme compétent en matière de droits relatifs aux eaux dans les cas où il est appelé, en vertu des textes législatifs territoriaux, à attribuer ou à renouveler de tels droits relativement au projet de développement;
@@ -1499,7 +1644,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Office d’aménagement**
 
 - **(2)** Copie de la décision écrite autorisant la réalisation d’un projet de développement non conforme au plan d’aménagement régional visé à l’article 44 est adressée à l’office d’aménagement concerné ainsi qu’à quiconque a approuvé le plan d’aménagement.
-> 2003, ch. 7, art. 81 et 133.
+> 2003, ch. 7, art. 81 et 133; 2015, ch. 19, art. 28.
 
 
 
@@ -1598,6 +1743,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Précision**
+
+**88.1** Il est entendu qu’un organisme administratif autonome, une autorité publique ou une première nation peut, dans la mesure de ses pouvoirs et de ses compétences respectifs, assortir les décisions écrites de conditions supplémentaires ou plus rigoureuses.
+> 2015, ch. 19, art. 29.
+
+
+
+
+
 **Notification**
 
 **89** L’autorité publique, l’organisme administratif autonome, la première nation et la municipalité sont tenus, une fois prise la décision écrite permettant la réalisation d’un projet de développement, de notifier à l’Office, d’une part, l’attribution d’une autorisation, de droits fonciers nécessaires à la réalisation de ce projet ou d’une aide financière à cette fin et, d’autre part, toute modification ou tout retrait y faisant suite.
@@ -1683,6 +1837,32 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Observations**
 
 - **(3)** Après avoir reçu le rapport, le demandeur communique par écrit à l’Office ses observations à cet égard.
+
+
+
+
+### Recouvrement des coûts
+
+
+
+**Obligation du promoteur**
+
+**93.1** 
+
+- **(1)** Le promoteur d’un projet de développement est tenu de verser au ministre fédéral afin de permettre à celui-ci de recouvrer les coûts liés à l’étude du projet :
+	- **a)** les sommes réglementaires afférentes à l’exercice des attributions de l’Office ou de celles de ses membres ou des membres des comités restreints ou des comités mixtes;
+	- **b)** les frais engagés par l’Office pour les services réglementaires qui lui ont été fournis par des tiers;
+	- **c)** les sommes réglementaires afférentes à l’exercice des attributions du ministre fédéral.
+
+**Limite de temps**
+
+- **(2)** Pour l’application du paragraphe (1), les services ou les attributions en cause se limitent à ceux fournis ou exercés à partir du moment où le comité de direction est tenu d’établir un comité restreint en application des paragraphes 65(1) ou (2) jusqu’au moment où une décision écrite est rendue par chacun des décisionnaires auxquels le comité restreint ou le comité mixte, selon le cas, a communiqué des recommandations à l’égard du projet.
+
+**Créances de Sa Majesté**
+
+- **(3)** Les sommes et les frais que le promoteur est tenu de verser au titre du paragraphe (1) constituent des créances de Sa Majesté du chef du Canada dont le recouvrement peut être poursuivi à ce titre devant tout tribunal compétent.
+> 2015, ch. 19, art. 30.
+
 
 
 
@@ -2056,13 +2236,23 @@ Est également visé par la présente définition le gouverneur en conseil s’i
 
 **112** 
 
-- **(1)** À la demande soit du ministre fédéral, soit du ministre territorial ou d’une première nation — s’ils obtiennent l’agrément du ministre fédéral ou encore en supportent les frais — , le comité de direction peut entreprendre :
+- **(1)** À la demande soit du ministre fédéral, soit du ministre territorial ou d’une première nation — s’ils obtiennent l’agrément du ministre fédéral ou encore en supportent les frais —, le comité de direction peut entreprendre :
 	- **a)** une étude, dans le temps ou l’espace, des effets cumulatifs sur l’environnement ou la vie socioéconomique;
 	- **b)** des recherches sur l’évaluation d’activités en général.
+
+**Collaboration**
+
+- **(1.1)** Avec l’approbation de quiconque présente la demande ou l’agrée, le comité de direction peut entreprendre une telle étude et de telles recherches en collaboration avec tout organisme.
 
 **Entente**
 
 - **(2)** Le comité de direction peut conclure avec quiconque présente la demande ou l’agrée une entente au sujet du mandat et du calendrier applicables à l’étude ou aux recherches, ainsi que leur portée.
+
+**Obtention de renseignements**
+
+- **(3)** Le comité de direction peut, sous réserve de toute autre loi fédérale, de tout texte législatif territorial ou de tout texte législatif d’une première nation, obtenir de toute première nation, de toute autorité publique ou de tout organisme administratif autonome les renseignements qui sont en leur possession et dont il a besoin dans le cadre de toute étude ou de toutes recherches.
+> 2003, ch. 7, art. 112; 2015, ch. 19, art. 31.
+
 
 
 
@@ -2071,11 +2261,13 @@ Est également visé par la présente définition le gouverneur en conseil s’i
 
 **113** 
 
-- **(1)** Le comité de direction communique à quiconque a présenté la demande visée à l’article 112 ou l’a agréée son rapport sur l’étude ou les recherches. Il peut y faire des recommandations.
+- **(1)** Le comité de direction communique à quiconque a présenté la demande visée à l’article 112 ou l’a agréée son rapport sur l’étude ou les recherches et, dans les meilleurs délais par la suite, le met à la disposition du public. Il peut y faire des recommandations.
 
 **Recommandations**
 
 - **(2)** Le destinataire du rapport tient pleinement et équitablement compte des recommandations qui y sont formulées.
+> 2003, ch. 7, art. 113; 2015, ch. 19, art. 32.
+
 
 
 
@@ -2145,6 +2337,8 @@ Est également visé par la présente définition le gouverneur en conseil s’i
 - **a)** un registre où sont versés tous les documents produits, recueillis ou reçus par le comité de direction et les comités restreints ou mixtes relativement aux évaluations ainsi que tous les documents qu’il reçoit en application du paragraphe 91(1);
 - **b)** la liste des projets de développement, des ouvrages, des autres activités et des plans qui font ou ont fait l’objet d’une évaluation par un bureau désigné, le comité de direction ou un comité restreint ou mixte, avec mention du lieu de réalisation, d’exploitation, d’exercice ou de mise en oeuvre et de leur état d’avancement;
 - **c)** un document indiquant les autorisations, les droits fonciers et l’aide financière ayant fait l’objet de la notification prévue à l’article 89.
+> 2003, ch. 7, art. 118; 2015, ch. 19, art. 33(A).
+
 
 
 
@@ -2180,6 +2374,33 @@ Est également visé par la présente définition le gouverneur en conseil s’i
 
 
 
+### Instructions générales
+
+
+
+**Instructions ministérielles**
+
+**121.1** 
+
+- **(1)** Le ministre fédéral peut, après consultation de l’Office, donner par écrit à celui-ci des instructions générales obligatoires relativement à l’exercice des attributions que lui confère la présente loi.
+
+**Réserve**
+
+- **(2)** Les instructions ne visent toutefois pas la proposition relative à un projet de développement qui, au moment où elles sont données, a été soumis à un bureau désigné, au comité de direction ou à un comité restreint.
+
+**Publication**
+
+- **(3)** Dès que le ministre fédéral donne des instructions, il fait publier dans la Gazette du Canada un avis indiquant que l’Office les publiera sur son site Internet. Dès que l’Office reçoit les instructions, il les publie sur son site Internet et, s’il l’estime indiqué, les rend accessibles par tout autre moyen.
+
+**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+- **(4)** Les articles 3, 5 et 11 de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’appliquent pas aux instructions.
+> 2015, ch. 19, art. 34.
+
+
+
+
+
 ### Règlements et décrets
 
 
@@ -2190,10 +2411,21 @@ Est également visé par la présente définition le gouverneur en conseil s’i
 - **a)** définir, pour l’application de l’article 9, la notion de résidence, fixer la procédure de révocation applicable dans le cas visé au paragraphe 11(2) et préciser auquel des membres ayant changé de résidence dans une période donnée cette procédure s’applique;
 - **b)** préciser les éléments dont il doit être tenu compte dans l’évaluation des projets de développement et d’ouvrages au titre de l’alinéa 42(1)j);
 - **c)** préciser les projets de développement pour lesquels des propositions doivent être soumises au comité de direction en application du paragraphe 50(1);
-- **d)** fixer les délais nécessaires à l’application des paragraphes 75(1), 76(1) ou 77(3);
+- **d)** fixer les délais nécessaires à l’application de l’article 75 ou des paragraphes 76(1) ou 77(3);
 - **e)** régir les consultations entre décisionnaires visées au paragraphe 78(1);
 - **f)** établir des catégories de plans pouvant être soumis à l’étude d’un comité restreint en vertu du paragraphe 105(1);
 - **g)** mettre sur pied un programme de financement afin de permettre la participation des personnes ou groupes qu’il précise aux études de projets de développement.
+> 2003, ch. 7, art. 122; 2015, ch. 19, art. 35.
+
+
+
+
+
+**Pouvoir du gouverneur en conseil**
+
+**122.1** Le gouverneur en conseil peut, après consultation, par le ministre fédéral, du ministre territorial, des premières nations, du Conseil et de l’Office, prendre des règlements concernant le recouvrement des coûts pour l’application de l’article 93.1, notamment pour prévoir des services et des sommes et pour soustraire à l’application de cet article toute catégorie de promoteurs ou de projets de développement.
+> 2015, ch. 19, art. 36.
+
 
 
 
@@ -2201,9 +2433,11 @@ Est également visé par la présente définition le gouverneur en conseil s’i
 **Modification de l’annexe**
 
 **123** Le gouverneur en conseil peut, par décret pris après consultation, par le ministre fédéral, du ministre territorial et des premières nations :
-- **a)** ajouter à la partie 1 de l’annexe le nom de tout organisme chargé, aux termes d’un texte législatif fédéral autre que la [Loi sur le Yukon](/fr/Lois/Lois%20du%20Canada/2002/ch.%207.md), de délivrer des autorisations dont les conditions ne sont pas susceptibles d’êtres modifiées par le gouverneur en conseil ou un ministre du gouvernement fédéral;
-- **b)** ajouter à la partie 2 de l’annexe le nom de tout organisme chargé, sous le régime de la [Loi sur le Yukon](/fr/Lois/Lois%20du%20Canada/2002/ch.%207.md), de délivrer des autorisations dont les conditions ne sont pas susceptibles d’êtres modifiées par le commissaire du Yukon ou un ministre du gouvernement territorial;
+- **a)** ajouter à la partie 1 de l’annexe le nom de tout organisme chargé, aux termes d’un texte législatif fédéral autre que la [Loi sur le Yukon](/fr/Lois/Lois%20du%20Canada/2002/ch.%207.md), de délivrer des autorisations dont les conditions ne sont pas susceptibles d’être modifiées par le gouverneur en conseil ou un ministre du gouvernement fédéral;
+- **b)** ajouter à la partie 2 de l’annexe le nom de tout organisme chargé, sous le régime de la [Loi sur le Yukon](/fr/Lois/Lois%20du%20Canada/2002/ch.%207.md), de délivrer des autorisations dont les conditions ne sont pas susceptibles d’être modifiées par le commissaire du Yukon ou un ministre du gouvernement territorial;
 - **c)** supprimer de l’annexe le nom de tout organisme.
+> 2003, ch. 7, art. 123; 2015, ch. 19, art. 37(F).
+
 
 
 
@@ -2332,6 +2566,8 @@ Est également visé par la présente définition le gouverneur en conseil s’i
 
 
 
+Commission canadienne de sûreté nucléaire<br />- <i>Canadian Nuclear Safety Commission</i>
+
 Office national de l’énergie<br />- <i>National Energy Board</i>
 
 
@@ -2342,5 +2578,7 @@ Office national de l’énergie<br />- <i>National Energy Board</i>
 
 
 
+
+> 2003, ch. 7, ann.; 2015, ch. 19, art. 38.
 
 
