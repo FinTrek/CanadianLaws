@@ -140,6 +140,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***Nunavut Planning Commission*** means the Nunavut Planning Commission referred to in section 11.4.1 of the Agreement.
 
+***penalty*** means an administrative monetary penalty imposed for a violation.
+
 ***use***, in relation to waters, means a direct or indirect use of any kind, including, but not limited to,
 - **(a)** any use of water power and geothermal resources;
 - **(b)** any diversion or obstruction of waters;
@@ -154,8 +156,8 @@ However, it does not include navigation or any other use connected with shipping
 - **(c)** water containing any substance or class of substances in a quantity or concentration that is equal to or greater than that prescribed by the regulations; and
 - **(d)** water that has been subjected to a treatment or change described by the regulations.
 
-***waters*** means, except for the purposes of subsection 41(2), inland waters, whether in a liquid or solid state, on or below the surface of land.
-> 2002, c. 10, ss. 4, 200.
+***waters*** means inland waters, whether in a liquid or solid state, on or below the surface of land.
+> 2002, c. 10, ss. 4, 200; 2015, c. 19, s. 41.
 
 
 
@@ -1200,6 +1202,27 @@ The Board shall take the representations into account.
 
 
 
+**Arrangements relating to security**
+
+**76.1** 
+
+- **(1)** If a licence is in respect of an appurtenant undertaking that is situated, partially or wholly, on Inuit-owned land, the Minister may enter into a written arrangement with the designated Inuit organization and the applicant, licensee or prospective assignee of the license that provides for
+	- **(a)** the amount of security to be furnished and maintained by the applicant, licensee or prospective assignee, as well as the form and nature and any conditions of the security, for the purpose mentioned in paragraph 76(2)(b) or for the purpose of reimbursing the designated Inuit organization for the costs specified in the arrangement; and
+	- **(b)** the periodic review of the security, including by taking into account any material changes to the undertaking or the risk of environmental damage, and the adjustment of the amount of the security as a result of the review.
+
+**Copy of arrangement to be provided to Board**
+
+- **(2)** The Minister shall, as soon as possible after entering into the written arrangement described in subsection (1), provide a copy of it to the Board.
+
+**Arrangement to be taken into account under subsection 76(1)**
+
+- **(3)** The Board shall take into account the written arrangement when it determines the amount of the security required to be furnished and maintained by the applicant, licensee or prospective assignee under subsection 76(1).
+> 2015, c. 19, s. 46.
+
+
+
+
+
 #### Expropriation
 
 
@@ -1533,25 +1556,77 @@ the Minister may take any reasonable measures to prevent, counteract, mitigate o
 
 **90** 
 
-- **(1)** Any person who contravenes subsection 11(1) or section 12, or fails to comply with subsection 11(3) or with a direction given by an inspector under subsection 87(1), is guilty of an offence and liable on summary conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding one year, or to both.
+- **(1)** Every person is guilty of an offence who contravenes subsection 11(1), section 12 or section 88 or who fails to comply with subsection 11(3) or with a direction given by an inspector under subsection 87(1).
 
-**Type A licences**
+**Punishment**
 
-- **(2)** A licensee holding a type A licence who
-	- **(a)** contravenes any condition of the licence, where the contravention does not constitute an offence under section 91, or
-	- **(b)** fails, without reasonable excuse, to furnish or maintain security as required under subsection 76(1)
-is guilty of an offence and liable on summary conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding one year, or to both.
+- **(2)** Every person who commits an offence under subsection (1) is liable on summary conviction,
+	- **(a)** for a first offence, to a fine not exceeding $250,000 or to imprisonment for a term not exceeding one year, or to both; and
+	- **(b)** for a second or subsequent offence, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding one year, or to both.
+> 2002, c. 10, s. 90; 2015, c. 19, s. 49.
 
-**Type B licences**
 
-- **(3)** A licensee holding a type B licence who
-	- **(a)** contravenes any condition of the licence, where the contravention does not constitute an offence under section 91, or
-	- **(b)** fails, without reasonable excuse, to furnish or maintain security as required under subsection 76(1)
-is guilty of an offence and liable on summary conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding six months, or to both.
+
+
+
+**Offences — type A licences**
+
+**90.1** 
+
+- **(1)** Every type A licensee is guilty of an offence who
+	- **(a)** contravenes any condition of the licence, if the contravention does not constitute an offence under section 91; or
+	- **(b)** fails, without reasonable excuse, to furnish or maintain security as required under subsection 76(1).
+
+**Punishment**
+
+- **(2)** Every licensee who commits an offence under subsection (1) is liable on summary conviction,
+	- **(a)** for a first offence, to a fine not exceeding $250,000 or to imprisonment for a term not exceeding one year, or to both; and
+	- **(b)** for a second or subsequent offence, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding one year, or to both.
+> 2015, c. 19, s. 49.
+
+
+
+
+
+**Offences — type B licences**
+
+**90.2** 
+
+- **(1)** Every type B licensee is guilty of an offence who
+	- **(a)** contravenes any condition of the licence, if the contravention does not constitute an offence under section 91; or
+	- **(b)** fails, without reasonable excuse, to furnish or maintain security as required under subsection 76(1).
+
+**Punishment**
+
+- **(2)** Every licensee who commits an offence under subsection (1) is liable on summary conviction
+	- **(a)** for a first offence, to a fine not exceeding $37,500 or to imprisonment for a term not exceeding six months, or to both; and
+	- **(b)** for a second or subsequent offence, to a fine not exceeding $75,000 or to imprisonment for a term not exceeding six months, or to both.
+> 2015, c. 19, s. 49.
+
+
+
+
 
 **Continuing offences**
 
-- **(4)** Where an offence under this section is committed on or continued for more than one day, it is deemed to be a separate offence for each day on which it is committed or continued.
+**90.3** An offence under subsection 90(1), 90.1(1) or 90.2(1) that is committed or continued on more than one day constitutes a separate offence for each day on which it is committed or continued.
+> 2015, c. 19, s. 49.
+
+
+
+
+
+**Deeming — second or subsequent offence**
+
+**90.4** 
+
+- **(1)** For the purposes of paragraphs 90(2)(b), 90.1(2)(b) and 90.2(2)(b), a conviction for a particular offence under this Part is deemed to be a conviction for a second or subsequent offence if the court is satisfied that the offender has been previously convicted of a substantially similar offence under an Act of Parliament — or an Act of the legislature of a province — that relates to environmental or wildlife conservation or protection.
+
+**Application**
+
+- **(2)** Subsection (1) applies only to previous convictions on indictment, to previous convictions on summary conviction and to previous convictions under any similar procedure under any Act of the legislature of a province.
+> 2015, c. 19, s. 49.
+
 
 
 
@@ -1559,15 +1634,19 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 **Other offences**
 
 **91** Any person is guilty of an offence punishable on summary conviction who
-- **(a)** contravenes subsection 86(4) or section 88, or any regulations made under paragraph 82(1)(o), (p) or (q); or
+- **(a)** contravenes subsection 86(4) or any regulations made under paragraph 82(1)(o), (p) or (q); or
 - **(b)** wilfully obstructs or otherwise interferes with a licensee or any person acting on behalf of a licensee in the exercise of the licensee’s rights under this Part, except as authorized under this or any other Act of Parliament.
+> 2002, c. 10, s. 91; 2015, c. 19, s. 50.
 
 
 
 
-**Limitation period**
 
-**92** Proceedings in respect of an offence under this Part may not be instituted later than two years after the time when the subject-matter of the proceedings arose.
+**Limitation period or prescription**
+
+**92** No proceedings in respect of an offence under this Part are to be instituted more than five years after the day on which the Minister becomes aware of the acts or omissions that constitute the alleged offence.
+> 2002, c. 10, s. 92; 2015, c. 19, s. 51.
+
 
 
 
@@ -1576,11 +1655,13 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 **93** 
 
-- **(1)** Notwithstanding that a prosecution has been instituted in respect of an offence under section 90, the Attorney General of Canada may commence and maintain proceedings to enjoin conduct that constitutes an offence under that section.
+- **(1)** Despite the fact that a prosecution has been instituted in respect of an offence under subsection 90(1), 90.1(1) or 90.2(1), the Attorney General of Canada may commence and maintain proceedings to enjoin conduct that constitutes an offence under any of those subsections.
 
 **Civil remedy not affected**
 
 - **(2)** No civil remedy for any act or omission is affected because the act or omission is an offence under this Part.
+> 2002, c. 10, s. 93; 2015, c. 19, s. 52.
+
 
 
 
@@ -1600,6 +1681,303 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 **Notice**
 
 - **(3)** No certificate shall be admitted in evidence under subsection (1) unless the party intending to produce it has given to the party against whom it is intended to be produced reasonable notice of that intention, together with a copy of the certificate.
+
+
+
+
+#### Administrative Monetary Penalties
+
+
+
+##### Regulations
+
+
+
+**Ministerial regulations**
+
+**94.01** 
+
+- **(1)** The Minister may, with the approval of the Governor in Council, make regulations for the purposes of sections 94.02 to 94.3, including regulations
+	- **(a)** designating as a violation that may be proceeded with in accordance with this Part
+		- **(i)** the contravention of any specified provision of this Part or of the regulations,
+		- **(ii)** the contravention of any order, direction or decision — or of any order, direction or decision of a specified class — made or given under this Part, or
+		- **(iii)** the failure to comply with a term or condition of any licence or a term or condition of a specified class of licences;
+	- **(b)** providing for the determination of or the method of determining the amount payable as the penalty, which may be different for individuals and other persons, for each violation;
+	- **(c)** establishing the form and content of notices of violations;
+	- **(d)** respecting the service of documents required or authorized under this Part, including the manner and proof of service and the circumstances under which documents are considered to be served; and
+	- **(e)** respecting reviews by the Minister in respect of a notice of violation.
+
+**Maximum amount of penalty**
+
+- **(2)** The amount that may be determined under any regulations made under paragraph (1)(b) as the penalty for each violation must not be more than $25,000, in the case of an individual, and $100,000 in the case of any other person.
+> 2015, c. 19, s. 53.
+
+
+
+
+
+##### Violations
+
+
+
+**Function of inspectors**
+
+**94.02** Persons who are designated as inspectors under subsection 85(1) are authorized to issue notices of violation.
+> 2015, c. 19, s. 53.
+
+
+
+
+
+**Commission of violation**
+
+**94.03** 
+
+- **(1)** Every person who contravenes or fails to comply with a provision, order, direction, decision, term or condition designated under paragraph 94.01(1)(a) commits a violation and is liable to a penalty in the amount that is determined in accordance with the regulations.
+
+**Purpose of penalty**
+
+- **(2)** The purpose of the penalty is to promote compliance with this Part and not to punish.
+> 2015, c. 19, s. 53.
+
+
+
+
+
+**Liability of directors, officers, etc.**
+
+**94.04** If a corporation commits a violation, any director, officer or agent or mandatary of the corporation who directed, authorized, assented to, acquiesced in or participated in the commission of the violation is a party to the violation and is liable to a penalty in the amount that is determined in accordance with the regulations, whether or not the corporation has been proceeded against in accordance with this Part.
+> 2015, c. 19, s. 53.
+
+
+
+
+
+**Proof of violation**
+
+**94.05** In any proceedings under this Part against a person in relation to a violation, it is sufficient proof of the violation to establish that it was committed by an employee or agent or mandatary of the person, whether or not the employee or agent or mandatary is identified or proceeded against in accordance with this Part.
+> 2015, c. 19, s. 53.
+
+
+
+
+
+**Issuance and service of notice of violation**
+
+**94.06** 
+
+- **(1)** If an inspector believes on reasonable grounds that a person has committed a violation, the inspector may issue a notice of violation and cause it to be served on the person.
+
+**Contents**
+
+- **(2)** The notice of violation must
+	- **(a)** name the person that is believed to have committed the violation;
+	- **(b)** set out the relevant facts surrounding the violation;
+	- **(c)** set out the amount of the penalty;
+	- **(d)** inform the person of their right to request a review with respect to the violation or the amount of the penalty, and of the period within which that right must be exercised;
+	- **(e)** inform the person of the time and manner of paying the penalty; and
+	- **(f)** inform the person that, if they do not pay the penalty or exercise their right referred to in paragraph (d), they are considered to have committed the violation and are liable to the penalty.
+> 2015, c. 19, s. 53.
+
+
+
+
+
+##### Rules about Violations
+
+
+
+**Certain defences not available**
+
+**94.07** 
+
+- **(1)** A person named in a notice of violation does not have a defence by reason that they
+	- **(a)** exercised due diligence to prevent the commission of the violation; or
+	- **(b)** reasonably and honestly believed in the existence of facts that, if true, would exonerate them.
+
+**Common law principles**
+
+- **(2)** Every rule and principle of the common law that renders any circumstance a justification or excuse in relation to a charge for an offence under this Part applies in respect of a violation to the extent that it is not inconsistent with this Part.
+> 2015, c. 19, s. 53.
+
+
+
+
+
+**Continuing violation**
+
+**94.08** A violation that is committed or continued on more than one day constitutes a separate violation for each day on which it is committed or continued.
+> 2015, c. 19, s. 53.
+
+
+
+
+
+**Violations or offences**
+
+**94.09** 
+
+- **(1)** Proceeding with any act or omission as a violation under this Part precludes proceeding with it as an offence under this Part, and proceeding with it as an offence under this Part precludes proceeding with it as a violation under this Part.
+
+**Violations not offences**
+
+- **(2)** For greater certainty, a violation is not an offence and, accordingly, section 126 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) does not apply in respect of a violation.
+> 2015, c. 19, s. 53.
+
+
+
+
+
+**Limitation period or prescription**
+
+**94.1** No notice of violation is to be issued more than two years after the day on which the Minister becomes aware of the acts or omissions that constitute the alleged violation.
+> 2015, c. 19, s. 53.
+
+
+
+
+
+##### Reviews
+
+
+
+**Right to request review**
+
+**94.11** A person who is served with a notice of violation may — within 30 days after the day on which it is served or within any longer period that is prescribed by the regulations — make a request to the Minister for a review of the amount of the penalty or the facts of the violation, or both.
+> 2015, c. 19, s. 53.
+
+
+
+
+
+**Correction or cancellation of notice of violation**
+
+**94.12** At any time before a request for a review in respect of a notice of violation is received by the Minister, an inspector may cancel the notice of violation or correct an error in it.
+> 2015, c. 19, s. 53.
+
+
+
+
+
+**Review**
+
+**94.13** On receipt of a request for a review in respect of a notice of violation, the Minister shall conduct the review.
+> 2015, c. 19, s. 53.
+
+
+
+
+
+**Object of review**
+
+**94.14** 
+
+- **(1)** The Minister shall determine, as the case may be, whether the amount of the penalty was determined in accordance with the regulations or whether the person committed the violation, or both.
+
+**Determination**
+
+- **(2)** The Minister shall render a written determination, with reasons, and cause the person who requested the review to be served with a copy. A copy shall also be provided without delay to the Board.
+
+**Correction of penalty**
+
+- **(3)** If the Minister determines that the amount of the penalty was not determined in accordance with the regulations, the Minister shall correct it.
+
+**Responsibility to pay penalty**
+
+- **(4)** If the Minister determines that the person who requested the review committed the violation, that person is liable to the penalty as set out in the determination.
+
+**Determination final**
+
+- **(5)** A determination made under this section is final and binding and, except for judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), is not subject to appeal or to review by any court.
+> 2015, c. 19, s. 53.
+
+
+
+
+
+**Burden of proof**
+
+**94.15** If the facts of a violation are reviewed, the inspector who issued the notice of violation shall establish, on a balance of probabilities, that the person named in it committed the violation identified in it.
+> 2015, c. 19, s. 53.
+
+
+
+
+
+##### Responsibility
+
+
+
+**Payment**
+
+**94.16** If a person pays the penalty, the person is considered to have committed the violation and proceedings in respect of it are ended. The Minister shall immediately notify the Board of the violation.
+> 2015, c. 19, s. 53.
+
+
+
+
+
+**Failure to act**
+
+**94.17** A person that neither pays the penalty within the period set out in the notice of violation nor requests a review within the period referred to in section 94.11 is considered to have committed the violation and is liable to the penalty. The Minister shall immediately notify the Board of the violation.
+> 2015, c. 19, s. 53.
+
+
+
+
+
+##### Recovery of Penalties
+
+
+
+**Debts to Her Majesty**
+
+**94.18** 
+
+- **(1)** A penalty constitutes a debt due to Her Majesty in right of Canada and may be recovered as such in any court of competent jurisdiction.
+
+**Limitation period or prescription**
+
+- **(2)** No proceedings to recover the debt are to be instituted more than five years after the day on which the debt becomes payable.
+> 2015, c. 19, s. 53.
+
+
+
+
+
+**Certificate**
+
+**94.19** 
+
+- **(1)** The Minister may issue a certificate of non-payment certifying the unpaid amount of any debt referred to in subsection 94.18(1).
+
+**Registration of certificate**
+
+- **(2)** Registration of a certificate of non-payment in any court of competent jurisdiction has the same effect as a judgment of that court for a debt of the amount specified in the certificate and all related registration costs.
+> 2015, c. 19, s. 53.
+
+
+
+
+
+##### General
+
+
+
+**Authenticity of documents**
+
+**94.2** In the absence of evidence to the contrary, a document that appears to be a notice issued under subsection 94.06(1) is presumed to be authentic and is proof of its contents in any proceeding in respect of a violation.
+> 2015, c. 19, s. 53.
+
+
+
+
+
+**Publication**
+
+**94.3** The Board shall make public the nature of a violation, the name of the person who committed it and the amount of the penalty.
+> 2015, c. 19, s. 53.
+
 
 
 
