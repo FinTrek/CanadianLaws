@@ -51294,6 +51294,7 @@ by
 - Albany College of Pharmacy and Health Sciences, Albany, New York
 - Alfred University, Alfred, New York
 - American Film Institute Center for Advanced Film and Television Studies, Los Angeles, California
+- American Film Institute, Los Angeles, California
 - American International College, Springfield, Massachusetts
 - American Jewish University, Bel Air, California
 - American University, The, Washington, District of Columbia
@@ -51319,6 +51320,7 @@ by
 - Baylor College of Medicine, Houston, Texas
 - Baylor University, Waco, Texas
 - Beloit College, Beloit, Wisconsin
+- Bemidji State University, Bemidji, Minnesota
 - Bennington College, Bennington, Vermont
 - Bentley College, Waltham, Massachusetts
 - Berklee College of Music, Boston, Massachusetts
@@ -51334,10 +51336,12 @@ by
 - Bowling Green State University, Bowling Green, Ohio
 - Brandeis University, Waltham, Massachusetts
 - Brigham Young University — Hawaii Campus, Laie, Hawaii
+- Brigham Young University — Idaho, Rexburg, Idaho
 - Brigham Young University, Provo, Utah
 - Brown University, Providence, Rhode Island
 - Bryn Mawr College, Bryn Mawr, Pennsylvania
 - Bucknell University, Lewisburg, Pennsylvania
+- California College of the Arts, San Francisco, California
 - California Institute of Technology, Pasadena, California
 - California Institute of the Arts, Valencia, California
 - California Lutheran University, Thousand Oaks, California
@@ -51371,6 +51375,7 @@ by
 - Columbia Union College, Takoma Park, Maryland
 - Columbia University in the City of New York, New York, New York
 - Concordia College, Moorhead, Minnesota
+- Concordia University, Mequon, Wisconsin
 - Connecticut College, New London, Connecticut
 - Conway School of Landscape Design, Conway, Massachusetts
 - Cooper Union for the Advancement of Science and Art, The, New York, New York
@@ -51397,11 +51402,13 @@ by
 - Eckerd College, St. Petersburg, Florida
 - Ecumenical Theological Center, Detroit, Michigan
 - Elmira College, Elmira, New York
+- Embry-Riddle Aeronautical University, Daytona Beach, Florida
 - Emerson College, Boston, Massachusetts
 - Emmanuel School of Religion, Johnson City, Tennessee
 - Emmaus Bible College, Dubuque, Iowa
 - Emory University, Atlanta, Georgia
 - Emporia State University, Emporia, Kansas
+- Fairleigh Dickinson University, Teaneck, New Jersey
 - Ferris State University, Big Rapids, Michigan
 - Finlandia University, Hancock, Michigan
 - Florida Atlantic University, Boca Raton, Florida
@@ -51430,12 +51437,15 @@ by
 - Hamilton College, Clinton, New York
 - Hampshire College, Amherst, Massachusetts
 - Harvard University, Cambridge, Massachusetts
+- Haverford College, Haverford, Pennsylvania
 - Hawaii Pacific University, Honolulu, Hawaii
 - Hebrew Union College — Jewish Institute of Religion, Cincinnati, Ohio
 - Hillsdale College, Hillsdale, Michigan
+- Hobart and William Smith Colleges, Geneva, New York
 - Holy Trinity Orthodox Seminary, The, Jordanville, New York
 - Hope College, Holland, Michigan
 - Houghton College, Houghton, New York
+- Howard University, Washington, District of Columbia
 - Huntington University, Huntington, Indiana
 - Idaho State University, Pocatello, Idaho
 - Illinois Institute of Technology, Chicago, Illinois
@@ -51477,6 +51487,7 @@ by
 - Manhattanville College, Purchase, New York
 - Mankato State University, Mankato, Minnesota
 - Maranatha Baptist Bible College, Watertown, Wisconsin
+- Marian University, Fond du Lac, Wisconsin
 - Marquette University, Milwaukee, Wisconsin
 - Massachusetts Institute of Technology, Cambridge, Massachusetts
 - Mayo Foundation, Rochester, Minnesota
@@ -51530,6 +51541,7 @@ by
 - Ohio University, Athens, Ohio
 - Ohr Somayach/Joseph Tanenbaum Educational Center, Monsey, New York
 - Old Dominion University, Norfolk, Virginia
+- Olivet Nazarene University, Bourbonnais, Illinois
 - Oral Roberts University, Tulsa, Oklahoma
 - Oregon State University, Corvallis, Oregon
 - Pace University, New York, New York
@@ -51556,8 +51568,11 @@ by
 - Rabbinical Seminary of America, Forest Hills, New York
 - Reed College, Portland, Oregon
 - Reformed Theological Seminary, Jackson, Mississippi
+- Rensselaer Polytechnic Institute, Troy, New York
 - Rice University, Houston, Texas
+- Rio Grande Bible Institute, Edinburg, Texas
 - Roberts Wesleyan College, North Chili, New York
+- Rockefeller University, New York, New York
 - Rollins College, Winter Park, Florida
 - Rush University, Chicago, Illinois
 - Rutgers — The State University, New Brunswick, New Jersey
@@ -51567,6 +51582,7 @@ by
 - Saint John’s University, Collegeville, Minnesota
 - St. John’s University, Jamaica, New York
 - St. Lawrence University, Canton, New York
+- Saint Louis University, St. Louis, Missouri
 - Saint Mary’s University of Minnesota, Winona, Minnesota
 - St. Mary’s University of San Antonio, San Antonio, Texas
 - Saint Olaf College, Northfield, Minnesota
@@ -51596,6 +51612,7 @@ by
 - State University of New York College of Arts and Science at Plattsburgh, Plattsburgh, New York
 - Stephens College, Columbia, Missouri
 - Swarthmore College, Swarthmore, Pennsylvania
+- Syracuse University, Syracuse, New York
 - Tabor College, Hillsboro, Kansas
 - Talmudical Yeshiva of Philadelphia, Philadelphia, Pennsylvania
 - Taylor University, Upland, Indiana
@@ -51606,6 +51623,7 @@ by
 - Temple University School of Podiatric Medicine, Philadelphia, Pennsylvania
 - Texas A&M University, College Station, Texas
 - Texas Chiropractic College, Pasadena, Texas
+- Texas Woman’s University, Denton, Texas
 - The Herman M. Finch University of Health Sciences/The Chicago Medical School, North Chicago, Illinois
 - Thomas Aquinas College, Santa Paula, California
 - Thunderbird School of Global Management, Glendale, Arizona
@@ -51651,7 +51669,9 @@ by
 - University of Illinois, Urbana, Illinois
 - University of Kansas, Lawrence, Kansas
 - University of Kentucky, Lexington, Kentucky
+- University of Louisville, Louisville, Kentucky
 - University of Maine, Orono, Maine
+- University of Maryland, College Park, Maryland
 - University of Massachusetts at Amherst, Amherst, Massachusetts
 - University of Miami, Coral Gables, Florida
 - University of Michigan, The, Ann Arbor, Michigan
@@ -51666,6 +51686,7 @@ by
 - University of North Texas, Denton, Texas
 - University of Notre Dame du Lac, Notre Dame, Indiana
 - University of Oklahoma, Norman, Oklahoma
+- University of Oregon, Eugene, Oregon
 - University of Pennsylvania, Philadelphia, Pennsylvania
 - University of Pittsburgh, Pittsburgh, Pennsylvania
 - University of Portland, Portland, Oregon
@@ -51677,6 +51698,7 @@ by
 - University of St. Thomas, Houston, Texas
 - University of St. Thomas, St. Paul, Minnesota
 - University of Tennessee, The, Knoxville, Tennessee
+- University of Texas at Arlington, Arlington, Texas
 - University of Texas, Austin, Texas
 - University of Texas Health Science Center at Houston, Houston, Texas
 - University of Texas Southwestern Medical Center at Dallas, The, Dallas, Texas
@@ -51691,6 +51713,7 @@ by
 - University of Wisconsin-Milwaukee, Milwaukee, Wisconsin
 - University of Wyoming, The, Laramie, Wyoming
 - Utah State University of Agriculture and Applied Science, Logan, Utah
+- Utah Valley University, Orem, Utah
 - Valparaiso University, Valparaiso, Indiana
 - Vanderbilt University, Nashville, Tennessee
 - Vassar College, Poughkeepsie, New York
@@ -51726,6 +51749,7 @@ by
 **2** The universities situated in the United Kingdom of Great Britain and Northern Ireland that are prescribed by section 3503 are the following:
 - Aston University, Birmingham, England
 - Brunel University, Uxbridge, England
+- City University London, London, England
 - Cranfield University, Bedfordshire, England
 - Gateshead Talmudical College, Gateshead, England
 - Heriot-Watt University, Edinburgh, Scotland
@@ -51733,13 +51757,16 @@ by
 - King’s College London, London, England
 - London Business School, London, England
 - London School of Economics and Political Science, The, London, England
+- London School of Hygiene & Tropical Medicine, London, England
 - Loughborough University, Leicestershire, England
 - Queen’s University of Belfast, The, Belfast, Northern Ireland
+- Swansea University, Swansea, Wales
 - University of Aberdeen, Aberdeen, Scotland
 - University of Bath, The, Bath, England
 - University of Birmingham, Birmingham, England
 - University of Bradford, Bradford, England
 - University of Bristol, Bristol, England
+- University of Buckingham, The, Buckingham, England
 - University of Cambridge, Cambridge, England
 - University College London, London, England
 - University of Dundee, The, Dundee, Scotland
@@ -51893,7 +51920,7 @@ by
 - University of Tartu, Tartu
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-256, s. 1; SOR/79-336, s. 1; SOR/80-321, ss. 1 to 4; SOR/81-234, s. 1; SOR/82-408, s. 1; SOR/83-359, ss. 1 to 3; SOR/84-222, ss. 1, 2; SOR/85-332, ss. 1, 2; SOR/86-382, ss. 1 to 3; SOR/87-472, ss. 1, 2; SOR/88-209, ss. 1 to 3; SOR/89-233, ss. 1 to 3; SOR/90-411, ss. 2 to 4; SOR/91-198, ss. 1 to 3; SOR/92-332, ss. 1 to 4; SOR/93-229, ss. 1, 2; SOR/94-395, ss. 1 to 6; SOR/95-184, ss. 1, 2; SOR/96-250, ss. 1 to 6; SOR/97-385, s. 1; SOR/2000-191, ss. 1 to 9; SOR/2001-172, ss. 1 to 10; SOR/2003-5, ss. 15 to 19; SOR/2005-123, ss. 7, 8; SOR/2005-185, s. 5; SOR/2006-200, ss. 2 to 7; SOR/2006-205, ss. 1 to 3; SOR/2010-96, ss. 3 to 7; SOR/2012-218, ss. 1 to 9; SOR/2014-81, ss. 1 to 10.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-256, s. 1; SOR/79-336, s. 1; SOR/80-321, ss. 1 to 4; SOR/81-234, s. 1; SOR/82-408, s. 1; SOR/83-359, ss. 1 to 3; SOR/84-222, ss. 1, 2; SOR/85-332, ss. 1, 2; SOR/86-382, ss. 1 to 3; SOR/87-472, ss. 1, 2; SOR/88-209, ss. 1 to 3; SOR/89-233, ss. 1 to 3; SOR/90-411, ss. 2 to 4; SOR/91-198, ss. 1 to 3; SOR/92-332, ss. 1 to 4; SOR/93-229, ss. 1, 2; SOR/94-395, ss. 1 to 6; SOR/95-184, ss. 1, 2; SOR/96-250, ss. 1 to 6; SOR/97-385, s. 1; SOR/2000-191, ss. 1 to 9; SOR/2001-172, ss. 1 to 10; SOR/2003-5, ss. 15 to 19; SOR/2005-123, ss. 7, 8; SOR/2005-185, s. 5; SOR/2006-200, ss. 2 to 7; SOR/2006-205, ss. 1 to 3; SOR/2010-96, ss. 3 to 7; SOR/2012-218, ss. 1 to 9; SOR/2014-81, ss. 1 to 10; SOR/2015-170, ss. 4, 5.
 
 
 
