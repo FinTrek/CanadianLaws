@@ -46,58 +46,60 @@ Therefore, Her Majesty, by and with the advice and consent of the Senate and Hou
 
 **2** In this Act,
 
-***Atlantic Accord*** means the Memorandum of Agreement between the Government of Canada and the Government of the Province on offshore petroleum resource management and revenue sharing dated February 11, 1985, and includes any amendments thereto;
+***Atlantic Accord*** means the Memorandum of Agreement between the Government of Canada and the Government of the Province on offshore petroleum resource management and revenue sharing dated February 11, 1985, and includes any amendments thereto; (*Accord atlantique*)
 
-***Board*** means the Canada–Newfoundland and Labrador Offshore Petroleum Board referred to in section 9;
+***Board*** means the Canada–Newfoundland and Labrador Offshore Petroleum Board referred to in section 9; (*Office*)
 
-***Canada–Newfoundland and Labrador benefits plan*** means a plan submitted under subsection 45(2);
+***Canada–Newfoundland and Labrador benefits plan*** means a plan submitted under subsection 45(2); (*plan de retombées économiques*)
 
 ***Canada-Newfoundland benefits plan***[Repealed, 2014, c. 13, s. 4]
 
-***Chief Executive Officer*** means the Chief Executive Officer of the Board appointed pursuant to section 24;
+***Chief Executive Officer*** means the Chief Executive Officer of the Board appointed pursuant to section 24; (*premier dirigeant*)
 
-***development plan*** means a plan submitted pursuant to subsection 139(2) for the purpose of obtaining approval of the general approach of developing a pool or field as proposed in the plan;
+***development plan*** means a plan submitted pursuant to subsection 139(2) for the purpose of obtaining approval of the general approach of developing a pool or field as proposed in the plan; (*plan de mise en valeur*)
 
-***Federal Government*** means the Governor in Council;
+***Federal Government*** means the Governor in Council; (*gouvernement fédéral*)
 
-***Federal Minister*** means the Minister of Natural Resources;
+***Federal Minister*** means the Minister of Natural Resources; (*ministre fédéral*)
 
 ***field***
 - **(a)** means a general surface area underlain or appearing to be underlain by one or more pools, and
-- **(b)** includes the subsurface regions vertically beneath the general surface area referred to in paragraph (a);
+- **(b)** includes the subsurface regions vertically beneath the general surface area referred to in paragraph (a); (*champ*)
 
-***former regulations*** means the [Canada Oil and Gas Land Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1501-1600/C.R.C.,%20c.%201518.md) made pursuant to the Public Lands Grants Act and the [Territorial Lands Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-7.md) and includes orders made pursuant to those Regulations;
+***former regulations*** means the [Canada Oil and Gas Land Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1501-1600/C.R.C.,%20c.%201518.md) made pursuant to the Public Lands Grants Act and the [Territorial Lands Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-7.md) and includes orders made pursuant to those Regulations; (*anciens règlements*)
 
-***fundamental decision*** means a decision made by the Board respecting the exercise of a power or the performance of a duty pursuant to a provision of this Act that expressly provides for the exercise of the power or the performance of the duty subject to sections 31 to 40;
+***fundamental decision*** means a decision made by the Board respecting the exercise of a power or the performance of a duty pursuant to a provision of this Act that expressly provides for the exercise of the power or the performance of the duty subject to sections 31 to 40; (*décision majeure*)
 
-***gas*** means natural gas and includes all substances, other than oil, that are produced in association with natural gas;
+***gas*** means natural gas and includes all substances, other than oil, that are produced in association with natural gas; (*gaz*)
 
-Version anglaise seulement***government*** means the Federal Government, the Provincial Government or both, as the context requires;
+***government*** means the Federal Government, the Provincial Government or both, as the context requires; (***Version anglaise seulement***)
 
-Version anglaise seulement***Minister*** means the Federal Minister, the Provincial Minister or both, as the context requires;
+***Minister*** means the Federal Minister, the Provincial Minister or both, as the context requires; (***Version anglaise seulement***)
 
- ou ***offshore area*** means those submarine areas lying seaward of the low water mark of the Province and extending, at any location, as far as
+***offshore area*** means those submarine areas lying seaward of the low water mark of the Province and extending, at any location, as far as
 - **(a)** any prescribed line, or
-- **(b)** where no line is prescribed at that location, the outer edge of the continental margin or a distance of two hundred nautical miles from the baselines from which the breadth of the territorial sea of Canada is measured, whichever is the greater;
+- **(b)** where no line is prescribed at that location, the outer edge of the continental margin or a distance of two hundred nautical miles from the baselines from which the breadth of the territorial sea of Canada is measured, whichever is the greater; (*zone extracôtière* ou *zone*)
 
-***oil*** means
+***oil*** means
 - **(a)** crude oil regardless of gravity produced at a well head in liquid form, and
-- **(b)** any other hydrocarbons, except coal and gas, and, without limiting the generality of the foregoing, hydrocarbons that may be extracted or recovered from deposits of oil sand, bitumen, bituminous sand, oil shale or from any other types of deposits on the seabed or subsoil thereof of the offshore area;
+- **(b)** any other hydrocarbons, except coal and gas, and, without limiting the generality of the foregoing, hydrocarbons that may be extracted or recovered from deposits of oil sand, bitumen, bituminous sand, oil shale or from any other types of deposits on the seabed or subsoil thereof of the offshore area; (*pétrole*)
 
-***petroleum*** means oil or gas;
+***petroleum*** means oil or gas; (*hydrocarbures*)
 
-***pool*** means a natural underground reservoir containing or appearing to contain an accumulation of petroleum that is separated or appears to be separated from any other such accumulation;
+***pool*** means a natural underground reservoir containing or appearing to contain an accumulation of petroleum that is separated or appears to be separated from any other such accumulation; (*gisement*)
 
-Version anglaise seulement***prescribed*** means prescribed by regulations made by the Governor in Council;
+***prescribed*** means prescribed by regulations made by the Governor in Council; (***Version anglaise seulement***)
 
-***Province*** means the province of Newfoundland and Labrador;
+***Province*** means the province of Newfoundland and Labrador; (*province*)
 
-***Provincial Act*** means the Canada-Newfoundland and Labrador Atlantic Accord Implementation Newfoundland and Labrador Act, R.S.N.L. 1990, c. C-2, as amended from time to time;
+***Provincial Act*** means the Canada-Newfoundland and Labrador Atlantic Accord Implementation Newfoundland and Labrador Act, R.S.N.L. 1990, c. C-2, as amended from time to time; (*loi provinciale*)
 
-***Provincial Government*** means the lieutenant governor in council of the Province;
+***Provincial Government*** means the lieutenant governor in council of the Province; (*gouvernement provincial*)
 
-***Provincial Minister*** means, other than for the purposes of Part III.1, the Minister of the Crown in right of the Province designated by the Provincial Government as the provincial minister for the purposes of this Act.
-> 1987, c. 3, s. 2; 1994, c. 41, s. 37; 2014, c. 13, s. 4.
+***Provincial Minister*** means, other than for the purposes of Part III.1, the Minister of the Crown in right of the Province designated by the Provincial Government as the provincial minister for the purposes of this Act; (*ministre provincial*)
+
+***spill-treating agent***, except in section 161.5, means a spill-treating agent that is on the list established under section 14.2 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md). (*agent de traitement*)
+> 1987, c. 3, s. 2; 1994, c. 41, s. 37; 2014, c. 13, s. 4; 2015, c. 4, ss. 37, 117.
 
 
 
@@ -2837,6 +2839,19 @@ have passed;
 
 
 
+#### Spill-treating Agent
+
+
+
+**Net environmental benefit**
+
+**138.21** The Board shall not permit the use of a spill-treating agent in an authorization issued under paragraph 138(1)(b) unless the Board determines that the use of the spill-treating agent is likely to achieve a net environmental benefit.
+> 2015, c. 4, s. 52.
+
+
+
+
+
 #### Financial Responsibility
 
 
@@ -3163,13 +3178,16 @@ shall be granted, except with the approval of both Ministers, unless the Board, 
 
 
 
-**Regulatory power of Governor in council**
+**Governor in Council’s regulatory power**
 
 **149** 
 
-- **(1)** Subject to section 7, the Governor in Council may, for the purposes of safety and the protection of the environment as well as for the production and conservation of petroleum resources, make regulations
+- **(1)** Subject to section 7, the Governor in Council may, for the purposes of safety, the protection of the environment, and accountability as well as for the production and conservation of petroleum resources, make regulations
 	- **(a)** defining ***oil*** and ***gas*** for the purposes of Divisions I and II, ***installation*** and ***equipment*** for the purposes of sections 139.1 and 139.2 and ***serious*** for the purposes of section 165;
 	- **(b)** concerning the exploration and drilling for, and the production, processing and transportation of, petroleum and works and activities related to such exploration, drilling, production, processing and transportation;
+	- **(b.1)** concerning the measures to be taken in preparation for or in the case of a spill, as defined in subsection 160(1), including measures concerning the use of a spill-treating agent;
+	- **(b.2)** concerning the process for the determination of net environmental benefit;
+	- **(b.3)** concerning the variation or revocation of an approval referred to in paragraph 161.1(1)(b);
 	- **(c)** authorizing the Board, or any person, to make such orders as may be specified in the regulations, and to exercise such powers and perform such duties as may be necessary for
 		- **(i)** the management and control of petroleum production,
 		- **(ii)** the removal of petroleum from the offshore area, and
@@ -3184,7 +3202,26 @@ shall be granted, except with the approval of both Ministers, unless the Board, 
 **Incorporation of standards or specifications**
 
 - **(2)** Unless otherwise provided in this Part, regulations made under subsection (1) may incorporate by reference the standards or specifications of any government, person or organization, either as of a fixed time or as amended from time to time.
-> 1987, c. 3, s. 149; 1992, c. 35, s. 63.
+
+**Spill-treating agents**
+
+- **(3)** Regulations made under subsection (1) respecting a spill-treating agent shall, in addition to the requirements set out in subsection 7(1), be made on the recommendation of the Federal Minister and the Minister of the Environment.
+> 1987, c. 3, s. 149; 1992, c. 35, s. 63; 2015, c. 4, ss. 54, 117.
+
+
+
+
+
+**Amendments to Schedule 1 or 2**
+
+**149.1** 
+
+- **(1)** The Governor in Council may, by order, amend Schedule 1 or 2 to add, amend or remove a reference to a federal Act or regulation, or to a provision of a federal Act or regulation.
+
+**Recommendation**
+
+- **(2)** The order shall be made on the recommendation of the Federal Minister and every minister responsible for the administration of the provision.
+> 2015, c. 4, s. 55.
 
 
 
@@ -3391,20 +3428,20 @@ and the order may further direct that the pool or part thereof specified in the 
 
 **160** 
 
-- **(1)** In sections 161 to 165, ***spill*** means a discharge, emission or escape of petroleum, other than one that is authorized under the regulations or any other federal law or that constitutes a discharge from a vessel to which Part 8 or 9 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) applies or a ship to which Part 6 of the [Marine Liability Act](/en/Acts/Statutes%20of%20Canada/2001/c.%206.md) applies.
-
-**Definition of debris**
-
-- **(2)** In sections 162 and 165, ***debris*** means any installation or structure that was put in place in the course of any work or activity required to be authorized under paragraph 138(1)(b) and that has been abandoned without such authorization as may be required by or pursuant to this Part, or any material that has broken away or been jettisoned or displaced in the course of any such work or activity.
+- **(1)** In sections 161 to 165, ***spill*** means a discharge, emission or escape of petroleum, other than one that is authorized under subsection 161.5(1), the regulations or any other federal law. It does not include a discharge from a vessel to which Part 8 or 9 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) applies or from a ship to which Part 6 of the [Marine Liability Act](/en/Acts/Statutes%20of%20Canada/2001/c.%206.md) applies.
 
 **Definition of actual loss or damage**
 
-- **(3)** In section 162, ***actual loss or damage*** includes loss of income, including future income, and, with respect to any aboriginal peoples of Canada, includes loss of hunting, fishing and gathering opportunities.
+- **(2)** In section 162, ***actual loss or damage*** includes loss of income, including future income, and, with respect to any Aboriginal peoples of Canada, loss of hunting, fishing and gathering opportunities. It does not include loss of income recoverable under subsection 42(3) of the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md).
+
+**Definition of debris**
+
+- **(3)** In sections 162 to 163 and 165, ***debris*** means any installation or structure that was put in place in the course of any work or activity required to be authorized under paragraph 138(1)(b) and that has been abandoned without an authorization that may be required by or under this Part, or any material that has broken away or been jettisoned or displaced in the course of any of that work or activity.
 
 **Immunity**
 
 - **(4)** Her Majesty in right of Canada incurs no liability whatever to any person arising out of the authorization by regulations made by the Governor in Council of any discharge, emission or escape of petroleum.
-> 1987, c. 3, s. 160; 1992, c. 35, s. 73; 2001, c. 6, s. 110, c. 26, ss. 280, 324.
+> 1987, c. 3, s. 160; 1992, c. 35, s. 73; 2001, c. 6, s. 110, c. 26, ss. 280, 324; 2015, c. 4, s. 57.
 
 
 
@@ -3455,6 +3492,80 @@ the Chief Conservation Officer may take such action or direct that it be taken b
 
 - **(9)** No person required, directed or authorized to act under this section is personally liable either civilly or criminally in respect of any act or omission in the course of complying with this section unless it is shown that that person did not act reasonably in the circumstances.
 > 1987, c. 3, s. 161; 1992, c. 35, s. 74; 2014, c. 13, s. 29.
+
+
+
+
+
+**Spill-treating agents**
+
+**161.1** 
+
+- **(1)** The provisions referred to in Schedule 1 do not apply to the deposit of a spill-treating agent and those referred to in Schedule 2 do not apply in respect of any harm that is caused by the spill-treating agent or by the interaction between the spill-treating agent and the spilled oil, if
+	- **(a)** the authorization issued under paragraph 138(1)(b) permits the use of the spill-treating agent;
+	- **(b)** the Chief Conservation Officer approves the use of the agent in response to the spill and it is used in accordance with any requirements set out in the approval; and
+	- **(c)** the agent is used for the purposes of subsection 161(3) or (4).
+
+**Clarification**
+
+- **(2)** The provisions referred to in Schedule 2 continue to apply to the holder of an authorization referred to in paragraph (1)(a) in respect of any harm that is caused by the spill or, despite subsection (1), by the interaction between the spill-treating agent and the spilled oil.
+
+**Net environmental benefit**
+
+- **(3)** Other than in the case of a small scale-test, the approval required under paragraph (1)(b) shall be in writing and shall not be granted unless
+	- **(a)** the Chief Conservation Officer has consulted with the Federal Minister and the Provincial Minister with respect to the approval;
+	- **(b)** the Federal Minister has consulted with the Minister of the Environment with respect to the approval; and
+	- **(c)** the Chief Conservation Officer determines that the use of the agent is likely to achieve a net environmental benefit.
+> 2015, c. 4, s. 58.
+
+
+
+
+
+**[Canadian Environmental Protection Act, 1999](/en/Acts/Statutes%20of%20Canada/1999/c.%2033.md)**
+
+**161.2** Section 123 and subsections 124(1) to (3) of the [Canadian Environmental Protection Act, 1999](/en/Acts/Statutes%20of%20Canada/1999/c.%2033.md) do not apply in respect of a spill-treating agent.
+> 2015, c. 4, s. 59.
+
+
+
+
+
+**[Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md) — civil liability**
+
+**161.3** For the purpose of section 42 of the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md), if subsection 36(3) of that Act would have been contravened but for subsection 161.1(1),
+- **(a)** subsection 36(3) of that Act is deemed to apply in respect of the deposit of the spill-treating agent;
+- **(b)** the holder of the authorization referred to in paragraph 161.1(1)(a) is deemed to be the only person referred to in paragraph 42(1)(a) of that Act; and
+- **(c)** those persons who caused or contributed to the spill are deemed to be the only persons referred to in paragraph 42(1)(b) of that Act.
+> 2015, c. 4, s. 59.
+
+
+
+
+
+**Notice**
+
+**161.4** The Federal Minister shall, as soon as possible after it is made, notify the Provincial Minister and the Board of the making of the list of spill-treating agents and any amendment to that list.
+> 2015, c. 4, s. 59.
+
+
+
+
+
+**Scientific research**
+
+**161.5** 
+
+- **(1)** For the purpose of a particular research project pertaining to the use of a spill-treating agent in mitigating the environmental impacts of a spill, the Minister of the Environment may authorize, and establish conditions for, the deposit of a spill-treating agent, oil or oil surrogate if the Federal Minister has obtained the Provincial Minister’s approval.
+
+**Oil surrogate**
+
+- **(2)** The Minister of the Environment shall not authorize the deposit of an oil surrogate unless that Minister determines that the oil surrogate poses fewer safety, health or environmental risks than oil.
+
+**Non-application**
+
+- **(3)** If the conditions set out in the authorization are met, the provisions referred to in section 161.2 and Schedules 1 and 2 do not apply in respect of the spill-treating agent, oil and oil surrogate required for the research project.
+> 2015, c. 4, s. 59.
 
 
 
@@ -7780,344 +7891,79 @@ is, in the absence of evidence to the contrary, evidence of the contents thereof
 
 
 **PART V** 
-## Fiscal Equalization Offset Payments and Determination of Per Capita Fiscal Capacity
+## [Repealed, 2015, c. 4. s. 69]
 
 
+**218** [Repealed, 2015, c. 4, s. 69]
 
-### Interpretation
 
 
+**219** [Repealed, 2015, c. 4, s. 69]
 
-**Definitions**
 
-**218** 
 
-- **(1)** In this Part,
+**220** [Repealed, 2015, c. 4, s. 69]
 
-***Federal Minister*** means the Minister of Finance;
 
-***first fiscal year of offshore production*** means the fiscal year beginning on the first day of April immediately following the day on which the cumulative volume of production in the offshore area, measured as having flowed through the first sales meter, has reached an amount equal to 2,400,000 cubic metres of oil or a volume of gas or of a combination of oil and gas that is the energy equivalent thereto, as determined by the Minister of Natural Resources, in accordance with the regulations;
 
-***Fiscal Arrangements Act*** means the Federal-Provincial Fiscal Arrangements and Federal Post-Secondary Education and Health Contributions Act, 1977;
+**220.1** [Repealed, 2015, c. 4, s. 69]
 
-***national average per capita fiscal capacity*** means the per capita fiscal capacity of all of the provinces;
 
-***phase-out portion*** means
-- **(a)** in respect of the first fiscal year of offshore production and each of the first three fiscal years following the first fiscal year of offshore production, ninety per cent,
-- **(b)** in respect of the fourth fiscal year following the first fiscal year of offshore production, eighty per cent,
-- **(c)** in respect of the fifth fiscal year following the first fiscal year of offshore production, seventy per cent,
-- **(d)** in respect of the sixth fiscal year following the first fiscal year of offshore production, sixty per cent,
-- **(e)** in respect of the seventh fiscal year following the first fiscal year of offshore production, fifty per cent,
-- **(f)** in respect of the eighth fiscal year following the first fiscal year of offshore production, forty per cent,
-- **(g)** in respect of the ninth fiscal year following the first fiscal year of offshore production, thirty per cent,
-- **(h)** in respect of the tenth fiscal year following the first fiscal year of offshore production, twenty per cent, and
-- **(i)** in respect of the eleventh fiscal year following the first fiscal year of offshore production, ten per cent;
 
-***province*** does not include the Northwest Territories, Yukon or Nunavut.
+**221** [Repealed, 2015, c. 4, s. 69]
 
-**Determination of population**
 
-- **(2)** For the purposes of this Part, the population of a province for a fiscal year is the population of that province for that fiscal year, as determined for the purposes of Part I of the Fiscal Arrangements Act.
-> 1987, c. 3, s. 218; 1993, c. 28, s. 78; 1994, c. 41, s. 37; 1998, c. 15, s. 18; 2002, c. 7, s. 109(E).
 
+**222** [Repealed, 2015, c. 4, s. 69]
 
 
 
+**223** [Repealed, 2015, c. 4, s. 69]
 
-### Fiscal Equalization Offset Payments
 
 
+**224** [Repealed, 2015, c. 4, s. 69]
 
-**Fiscal equalization offset payments**
 
-**219** The Minister of Natural Resources shall pay to Her Majesty in right of the Province, at the time and in the manner prescribed, in respect of the first fiscal year of offshore production and each of the eleven fiscal years following the first fiscal year of offshore production, a fiscal equalization offset payment equal to the amount, if any, computed in accordance with section 220.
-> 1987, c. 3, s. 219; 1994, c. 41, s. 37.
 
+**225** [Repealed, 2015, c. 4, s. 69]
 
 
 
+**226** [Repealed, 2015, c. 4, s. 69]
 
-**Calculation**
 
-**220** The fiscal equalization offset payment that is to be paid to Her Majesty in right of the Province for a fiscal year pursuant to section 219 is the amount, as determined by the Federal Minister, equal to the aggregate of
-- **(a)** the amount, if any, by which
-	- **(i)** the fiscal equalization payment that would be received by Her Majesty in right of the Province for the fiscal year if the amount of that payment were determined in accordance with section 3.2 of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md), without regard to section 3.4 of that Act,
-is less than
-	- **(ii)** where the average of the per capita fiscal capacity of the Province for the fiscal years taken into account in the calculation of the fiscal equalization payment for that fiscal year is less than or equal to 70 per cent of the average, for those fiscal years, of the national average per capita fiscal capacity, 95 per cent,
-	- **(iii)** where the average of the per capita fiscal capacity of the Province for the fiscal years taken into account in the calculation of the fiscal equalization payment for that fiscal year is less than or equal to 75 per cent but greater than 70 per cent of the average, for those fiscal years, of the national average per capita fiscal capacity, 90 per cent, or
-	- **(iv)** where the average of the per capita fiscal capacity of the Province for the fiscal years taken into account in the calculation of the fiscal equalization payment for that fiscal year is greater than 75 per cent of the average, for those fiscal years, of the national average per capita fiscal capacity, 85 per cent
-of the aggregate of
-	- **(v)** the fiscal equalization payment that would be received by Her Majesty in right of the Province for the fiscal year immediately preceding the fiscal year if the amount of that payment were determined in accordance with section 3.2 of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md), without regard to section 3.4 of that Act, as if
-		- **(A)** in the case where the province makes the election under subsection 3.2(2) of that Act for the fiscal year, the province made the election under subsection 3.2(2) of that Act for the fiscal year immediately preceding the fiscal year, or
-		- **(B)** in the case where the province does not make the election under subsection 3.2(2) of that Act for the fiscal year, the province did not make the election under subsection 3.2(2) of that Act for the fiscal year immediately preceding the fiscal year, and
-	- **(vi)** the amount computed in accordance with this paragraph for the fiscal year immediately preceding the fiscal year as this paragraph read for that fiscal year, and
-- **(b)** the phase-out portion, in respect of the fiscal year, of the amount, as determined by the Federal Minister, by which
-	- **(i)** the aggregate of the fiscal equalization payment that would be received by Her Majesty in right of the Province for the fiscal year immediately preceding the fiscal year if the amount of that payment were determined in accordance with section 3.2 of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md), without regard to section 3.4 of that Act, and the amount computed in accordance with paragraph (a) for the fiscal year immediately preceding the fiscal year, as that paragraph read for that fiscal year,
-is greater than
-	- **(ii)** the aggregate of
-		- **(A)** the fiscal equalization payment that would be received by Her Majesty in right of the Province for the fiscal year if the amount of that payment were determined in accordance with section 3.2 of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md), without regard to section 3.4 of that Act, as if
-			- **(I)** in the case where the province makes the election under subsection 3.2(2) of that Act for the fiscal year, the province made the election under subsection 3.2(2) of that Act for the fiscal year immediately preceding the fiscal year, or
-			- **(II)** in the case where the province does not make the election under subsection 3.2(2) of that Act for the fiscal year, the province did not make the election under subsection 3.2(2) of that Act for the fiscal year immediately preceding the fiscal year, and
-		- **(B)** the amount computed in accordance with paragraph (a) for the fiscal year.
-> 1987, c. 3, s. 220; 2004, c. 22, s. 6; 2007, c. 35, s. 172.
 
-
-
-
-
-**Definition of average**
-
-**220.1** For the purposes of section 220, ***average***, except within the expression “national average per capita fiscal capacity”, means a weighted average where the most recent fiscal year that is taken into account in the calculation of the fiscal equalization payment shall be weighted at 50% and each of the other two fiscal years that are taken into account in the calculation of the fiscal equalization payment shall be weighted at 25%.
-> 2007, c. 29, s. 79.
-
-
-
-
-
-### Determination of Per Capita Fiscal Capacity
-
-
-
-**Determination of fiscal capacity**
-
-**221** 
-
-- **(1)** For the purposes of paragraph 220(a), the per capita fiscal capacity of the Province and the national average per capita fiscal capacity in respect of any fiscal year shall be determined by the Federal Minister by dividing the aggregate of the estimated revenues of the Province or of all provinces, as the case may be, in respect of the fiscal year, as determined in accordance with subsection (2), by the population of the Province or of all provinces, as the case may be, in respect of the fiscal year.
-
-**Estimated revenues determined in accordance with a representative tax system**
-
-- **(2)** The aggregate of the estimated revenues of the Province or of all provinces, as the case may be, in respect of any fiscal year shall be determined by
-	- **(a)** describing the sources from which are or may be derived the aggregate of the following revenues, namely,
-		- **(i)** the aggregate of the revenues derived by all provinces in respect of the fiscal year from all sources described in the definition ***revenue source*** in subsection 4(2) of the Fiscal Arrangements Act as it read on April 1st, 1984,
-		- **(ii)** the aggregate of the revenues that are
-			- **(A)** derived by all municipalities, boards, commissions and other local authorities from the sources described in paragraphs (z) and (bb) of the definition ***revenue source*** in subsection 4(2) of the Fiscal Arrangements Act as it read on April 1st, 1984, and
-			- **(B)** deemed by virtue of subsection 4(5) of the Fiscal Arrangements Act as it read on April 1st, 1984 to be derived by a province in respect of the fiscal year, and
-		- **(iii)** the aggregate of the revenues derived by all provinces in respect of the fiscal year and by all municipalities, boards, commissions and other local authorities in respect of their financial years ending in the fiscal year that
-			- **(A)** are not included in subparagraph (i) or (ii), and
-			- **(B)** are included in the computation of fiscal equalization payments for the fiscal year under the Fiscal Arrangements Act,
-as those sources are described in the definition ***revenue source*** in subsection 4(2) of the Fiscal Arrangements Act, varying the description of such sources to take into account the changes and factors referred to in subsection (3);
-	- **(b)** defining the expression ***revenue base***, in respect of each distinct source described pursuant to paragraph (a), for a province in respect of the fiscal year, that relates to the measure of the relative capacity of the province to derive revenue from such source for that fiscal year,
-		- **(i)** as that expression is defined in respect of such source, in section 6 of the [Federal-Provincial Fiscal Arrangements and Established Programs Financing Regulations, 1982](/en/Regulations/Statutory%20Orders%20and%20Regulations/83/784.md), as it read on April 1, 1984, and
-		- **(ii)** varying that definition to take into account the changes and factors referred to in subsection (3);
-	- **(c)** estimating the amount of each revenue base defined in paragraph (b), in respect of each source described pursuant to paragraph (a), for the Province or all provinces, as the case may be, for the fiscal year;
-	- **(d)** estimating the amount of the revenues of the Province or all provinces, as the case may be, in respect of each source described pursuant to paragraph (a) for the fiscal year by multiplying
-		- **(i)** the national average rate of tax for the fiscal year in respect of that source, and
-		- **(ii)** the amount of the revenue base estimated pursuant to paragraph (c) in respect of that source for the Province or all provinces, as the case may be, for the fiscal year; and
-	- **(e)** adding the amounts of the revenues of the Province or of all provinces, as the case may be, estimated pursuant to paragraph (d) in respect of all sources described pursuant to paragraph (a).
-
-**Changes and factors to be taken into account in representative tax system**
-
-- **(3)** For the purposes of paragraph (2)(a) and subparagraph (2)(b)(ii), the following changes and factors should be taken into account, namely,
-	- **(a)** changes in any laws of a province relating to taxation that apply in respect of fiscal years subsequent to the fiscal year beginning on April 1, 1984,
-	- **(b)** changes to improve the accuracy of comparisons among provinces of relative capacity to derive revenue from any source; and
-	- **(c)** changes made by statistical agencies to statistical data or methods used to measure the relative capacities of provinces to derive revenue from any source.
-
-**Average rate of tax**
-
-- **(4)** For the purposes of paragraph (2)(d) the national average rate of tax for a fiscal year in respect of a source is the quotient obtained by dividing
-	- **(a)** the aggregate of the total revenues, as determined by the Federal Minister, derived by all provinces for the fiscal year from that source, whether or not the total revenues or any portion thereof are included in the computation of the fiscal equalization payments to provinces for the fiscal year under Part I of the Fiscal Arrangements Act
-by
-	- **(b)** the revenue base estimated pursuant to paragraph (2)(c) in respect of that source for all provinces for that fiscal year.
-
-
-
-
-### Determinations
-
-
-
-**Final determination**
-
-**222** 
-
-- **(1)** The final determination, for any fiscal year, of the fiscal equalization offset payment for the Province, the per capita fiscal capacity for the Province and the national average per capita fiscal capacity shall be determined by the Federal Minister at the same time that the final computation of the amount, if any, of the fiscal equalization payment that is payable to a province is made for the fiscal year under Part I of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md).
-
-**Interim determinations**
-
-- **(2)** The Federal Minister may make an interim determination of a fiscal equalization offset payment for the Province for a fiscal year and of the per capita fiscal capacity of the Province and the national average per capita fiscal capacity for a fiscal year, at the time and in the manner prescribed, prior to any final determination made under subsection (1).
-> 1987, c. 3, s. 222; 2007, c. 29, s. 80.
-
-
-
-
-
-### Advance Payments
-
-
-
-**Advance payments**
-
-**223** The Federal Minister of Natural Resources may, at the times and in the manner prescribed, pay to Her Majesty in right of the Province an amount on account of a fiscal equalization offset payment that may be payable or may become payable to Her Majesty in right of the Province under this Part in respect of any fiscal year.
-> 1987, c. 3, s. 223; 1994, c. 41, s. 37.
-
-
-
-
-
-**Accounting of advance on account**
-
-**224** Where an amount has been paid to Her Majesty in right of the Province pursuant to section 223 on account of a fiscal equalization offset payment for a fiscal year, the amount shall be accounted for and shall be deemed to be a portion of the fiscal equalization offset payment in respect of the fiscal year as determined by the Federal Minister in the manner prescribed, notwithstanding that the fiscal equalization offset payment was not determined by the Federal Minister in accordance with section 220.
-
-
-
-
-### Appropriation
-
-
-
-**Appropriation**
-
-**225** The amounts authorized to be paid by sections 219 and 223 shall be paid out of the Consolidated Revenue Fund at such times and in such manner as may be prescribed.
-
-
-
-
-### Report to Parliament
-
-
-
-**Report to Parliament**
-
-**226** On or before the 31st day of December next following the end of each fiscal year during the term of the Agreement, the Minister of Natural Resources shall cause to be prepared a report in respect of that fiscal year, relating to
-- **(a)** every fiscal equalization offset payment, and
-- **(b)** every determination of the per capita fiscal capacity for the Province or the national average per capita fiscal capacity
-that has been made under this Part, and shall cause the report to be laid before each House of Parliament on any of the first fifteen days on which that House is sitting after the day the report is prepared.
-> 1987, c. 3, s. 226; 1994, c. 41, s. 37.
-
-
-
-
-
-### Regulations
-
-
-
-**Regulations**
-
-**227** The Governor in Council may, on the recommendation of the Federal Minister, make regulations
-- **(a)** prescribing the time and manner of making any payment under this Part;
-- **(b)** respecting the determination of any matter that under this Part is to be determined by the Minister of Natural Resources or the Federal Minister;
-- **(c)** prescribing the time and manner of making any interim determination of a fiscal equalization offset payment or of the per capita fiscal capacity of the Province and the national average per capita fiscal capacity under this Part;
-- **(d)** providing for the payment to Her Majesty in right of the Province of advances on account of a fiscal equalization offset payment for a fiscal year that may be payable or may become payable to Her Majesty in right of the Province pursuant to this Part, the adjustment of other payments by reason of such advances and the recovery of over-payments;
-- **(e)** prescribing anything that, by virtue of any other provision of this Part, is to be prescribed; and
-- **(f)** generally for carrying into effect the purposes and provisions of this Part.
-> 1987, c. 3, s. 227; 1994, c. 41, s. 37.
-
+**227** [Repealed, 2015, c. 4, s. 69]
 
 
 
 
 **PART VI** 
-## Offshore Development Fund
+## [Repealed, 2015, c. 4. s. 69]
 
 
+**228** [Repealed, 2015, c. 4, s. 69]
 
-### Interpretation
 
 
+**229** [Repealed, 2015, c. 4, s. 69]
 
-**Definitions**
 
-**228** In this Part,
 
-***Development Fund*** means the account established under section 229;
+**230** [Repealed, 2015, c. 4, s. 69]
 
-***project*** means any work or activity in respect of which costs may be incurred.
 
 
+**231** [Repealed, 2015, c. 4, s. 69]
 
 
-### Development Fund
 
+**232** [Repealed, 2015, c. 4, s. 69]
 
 
-**Development Fund**
 
-**229** There shall be established in the accounts of Canada an account to be known as the Offshore Development Fund, to which shall be charged all amounts paid by the Federal Minister pursuant to this Part.
-
-
-
-
-### Agreement with Provincial Government
-
-
-
-**Agreement with the Provincial Government**
-
-**230** The Federal Minister may, with the approval of the Federal Government, enter into an agreement with the Provincial Minister, who has the approval of the Provincial Government,
-- **(a)** providing for the criteria for the selection of projects and the procedure to be followed in proposing and approving projects;
-- **(b)** providing for the procedure to be followed in making a payment of amounts pursuant to subsection 231(1) and the terms and conditions of the payment of those amounts or any part thereof;
-- **(c)** restricting the costs in respect of which payment of amounts may be made pursuant to subsection 231(1); and
-- **(d)** providing for any other matter or thing necessary for or incidental to carrying out the purposes and provisions of this Part.
-
-
-
-
-### Payments
-
-
-
-**Power to make payment**
-
-**231** 
-
-- **(1)** On a request made in accordance with the terms of an agreement entered into pursuant to section 230 for the payment of an amount of money for costs incurred in respect of a project that has been approved by both Ministers, the Federal Minister shall, subject to subsections (2) to (4) and the terms of the agreement, pay the amount.
-
-**Maximum amount of payments**
-
-- **(2)** The aggregate amount of all payments made pursuant to subsection (1) shall not exceed the sum of two hundred and twenty-five million dollars.
-
-**Conditional on Provincial contributions**
-
-- **(3)** No payment shall be made by the Federal Minister pursuant to subsection (1) in relation to a project unless the Provincial Minister has agreed to pay one-quarter of the total costs incurred by both governments in respect of the project.
-
-**Limitation**
-
-- **(4)** The Federal Minister shall not pay an amount of money pursuant to subsection (1) unless the payment is for costs incurred in respect of a project approved and in progress prior to the day that is the later of
-	- **(a)** April 1, 1993, and
-	- **(b)** the day on which the cumulative volume of production in the offshore area, measured as having flowed through the first sales meter, has reached an amount equal to 2,400,000 cubic metres of oil or a volume of gas or of a combination of oil and gas that is the energy equivalent thereto, as determined by the Federal Minister in accordance with the regulations.
-
-
-
-
-### Development Fund Committee
-
-
-
-**Development Fund Committee**
-
-**232** 
-
-- **(1)** There is established by the joint operation of this Act and the Provincial Act a committee to be known as the Development Fund Committee, consisting of four members.
-
-**Appointment of members**
-
-- **(2)** Two members of the Development Fund Committee are to be appointed by each government.
-
-**Functions of the Committee**
-
-- **(3)** The Development Fund Committee shall monitor and review the implementation of the Development Fund pursuant to this Part.
-
-**Dissolution of the Committee**
-
-- **(4)** The Development Fund Committee is, by the joint operation of this subsection and subsection 204(4) of the Provincial Act, dissolved three years after the date, as determined by both Ministers, on which the last payment is made pursuant to subsection 231(1).
-
-
-
-
-### Appropriation
-
-
-
-**Appropriation**
-
-**233** 
-
-- **(1)** There may be paid out of the Consolidated Revenue Fund, for the purpose of making payments pursuant to this Part, amounts not exceeding, in the aggregate, the sum of two hundred and twenty-five million dollars.
-
-**Idem**
-
-- **(2)** Notwithstanding section 30 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), any portion of the amount appropriated under this section may be expended in subsequent fiscal years.
+**233** [Repealed, 2015, c. 4, s. 69]
 
 
 
@@ -8174,5 +8020,114 @@ that has been made under this Part, and shall cause the report to be laid before
 <a name='C-7.5_en_1'><sup>*</sup></a>: [Note: Act, except Division VIII of Part II and sections 207 and 208, in force April 4, 1987, *see* SI/87-88; Division VIII of Part II, in force May 20, 1988, *see* SI/88-102; sections 207 and 208, in force January 23, 1996, *see* SI/96-20.]<br />
 > 1987, c. 3, s. 239; 1991, c. 49, s. 237.
 
+
+
+
+
+### **SCHEDULE 1** 
+**(Subsections 149.1(1), 161.1(1) and 161.5(3))**
+<table>
+<h4>Provisions</h4>
+<tr>
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>Act</th>
+<th>Provision</th>
+</tr>
+<tr>
+<td>1</td>
+<td>[Arctic Waters Pollution Prevention Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-12.md)</td>
+<td>4(1)</td>
+</tr>
+<tr>
+<td>2</td>
+<td>[Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md)</td>
+<td>187</td>
+</tr>
+<tr>
+<td>3</td>
+<td>[Canadian Environmental Protection Act, 1999](/en/Acts/Statutes%20of%20Canada/1999/c.%2033.md)</td>
+<td>125(1) to (5)</td>
+</tr>
+<tr>
+<td>4</td>
+<td>[Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md)</td>
+<td>36(3)</td>
+</tr>
+<tr>
+<td>5</td>
+<td>[Migratory Birds Convention Act, 1994](/en/Acts/Statutes%20of%20Canada/1994/c.%2022.md)</td>
+<td>5.1(1) and (2)</td>
+</tr>
+</table>
+
+> 2015, c. 4, s. 70.
+
+
+
+
+### **SCHEDULE 2** 
+**(Subsections 149.1(1), 161.1(1) and (2) and 161.5(3))**
+## Provisions
+#### PART 1
+<table>
+<h4>Provisions of Acts</h4>
+<tr>
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>Act</th>
+<th>Provision</th>
+</tr>
+<tr>
+<td>1</td>
+<td>[Species at Risk Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2029.md)</td>
+<td>32(1), 33, 36(1), 58(1), 60(1) and 61(1)</td>
+</tr>
+<tr>
+<td>2</td>
+<td>[Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md)</td>
+<td>35(1)</td>
+</tr>
+</table>
+
+#### PART 2
+<table>
+<h4>Provisions of Regulations</h4>
+<tr>
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>Regulations</th>
+<th>Provision</th>
+</tr>
+<tr>
+<td>1</td>
+<td>[National Parks General Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/78/213.md)</td>
+<td>10 and 16</td>
+</tr>
+<tr>
+<td>2</td>
+<td>[Migratory Bird Sanctuary Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201036.md)</td>
+<td>3(2)(b) and 10(1)</td>
+</tr>
+<tr>
+<td>3</td>
+<td>[Migratory Birds Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1001-1100/C.R.C.,%20c.%201035.md)</td>
+<td>5(1) and 6(a)</td>
+</tr>
+</table>
+
+> 2015, c. 4, s. 70.
 
 
