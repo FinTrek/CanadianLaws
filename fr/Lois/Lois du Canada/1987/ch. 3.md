@@ -46,46 +46,48 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Accord atlantique*** Le protocole d’entente du 11 février 1985 entre les gouvernements fédéral et provincial sur la gestion des ressources en hydrocarbures extracôtiers et sur le partage des recettes correspondantes, y compris les modifications apportées au protocole.
+***Accord atlantique*** Le protocole d’entente du 11 février 1985 entre les gouvernements fédéral et provincial sur la gestion des ressources en hydrocarbures extracôtiers et sur le partage des recettes correspondantes, y compris les modifications apportées au protocole. (*Atlantic Accord*)
 
-***anciens règlements*** Le [Règlement sur les terres pétrolifères et gazifères du Canada](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1501-1600/C.R.C.,%20ch.%201518.md) pris sous le régime de la Loi sur les concessions de terres publiques et de la [Loi sur les terres territoriales](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-7.md) et ses textes d’application.
+***agent de traitement*** Sauf à l’article 161.5, agent de traitement des rejets qui figure sur la liste établie en vertu de l’article 14.2 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md). (*spill-treating agent*)
 
-***champ*** Zone de surface dont le sous-sol contient ou pourrait contenir un ou plusieurs gisements, y est assimilé ce sous-sol même.
+***anciens règlements*** Le [Règlement sur les terres pétrolifères et gazifères du Canada](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1501-1600/C.R.C.,%20ch.%201518.md) pris sous le régime de la Loi sur les concessions de terres publiques et de la [Loi sur les terres territoriales](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-7.md) et ses textes d’application. (*former regulations*)
 
-***décision majeure*** Décision de l’Office visant l’exercice d’attributions sous le régime de la présente loi expressément assujetties aux articles 31 à 40.
+***champ*** Zone de surface dont le sous-sol contient ou pourrait contenir un ou plusieurs gisements, y est assimilé ce sous-sol même. (*field*)
 
-***gaz*** Le gaz naturel et toutes les substances produites avec le gaz naturel, à l’exclusion du pétrole.
+***décision majeure*** Décision de l’Office visant l’exercice d’attributions sous le régime de la présente loi expressément assujetties aux articles 31 à 40. (*fundamental decision*)
 
-***gisement*** Réservoir souterrain naturel contenant ou paraissant contenir un dépôt de pétrole, de gaz, ou des deux, et séparé ou paraissant séparé de tout autre dépôt de ce genre.
+***gaz*** Le gaz naturel et toutes les substances produites avec le gaz naturel, à l’exclusion du pétrole. (*gas*)
 
-***gouvernement fédéral*** Le gouverneur en conseil.
+***gisement*** Réservoir souterrain naturel contenant ou paraissant contenir un dépôt de pétrole, de gaz, ou des deux, et séparé ou paraissant séparé de tout autre dépôt de ce genre. (*pool*)
 
-***gouvernement provincial*** Le lieutenant-gouverneur en conseil de la province.
+***gouvernement fédéral*** Le gouverneur en conseil. (*Federal Government*)
 
-***hydrocarbures*** Le pétrole et le gaz.
+***gouvernement provincial*** Le lieutenant-gouverneur en conseil de la province. (*Provincial Government*)
 
-***loi provinciale*** Le chapitre C-2 des Lois révisées de Terre-Neuve-et-Labrador de 1990 intitulé Canada-Newfoundland and Labrador Atlantic Accord Implementation Newfoundland and Labrador Act, avec ses modifications successives.
+***hydrocarbures*** Le pétrole et le gaz. (*petroleum*)
 
-***ministre fédéral*** Le ministre des Ressources naturelles.
+***loi provinciale*** Le chapitre C-2 des Lois révisées de Terre-Neuve-et-Labrador de 1990 intitulé Canada-Newfoundland and Labrador Atlantic Accord Implementation Newfoundland and Labrador Act, avec ses modifications successives. (*Provincial Act*)
 
-***ministre provincial*** S’entend, sauf pour l’application de la partie III.1, du ministre provincial désigné par le gouvernement provincial pour l’application de la présente loi.
+***ministre fédéral*** Le ministre des Ressources naturelles. (*Federal Minister*)
 
-***Office*** L’Office Canada — Terre-Neuve-et-Labrador des hydrocarbures extracôtiers visé à l’article 9.
+***ministre provincial*** S’entend, sauf pour l’application de la partie III.1, du ministre provincial désigné par le gouvernement provincial pour l’application de la présente loi. (*Provincial Minister*)
 
-***pétrole*** Le pétrole brut, quelle que soit sa densité, qui est extrait à la tête de puits, sous forme liquide et les autres hydrocarbures, à l’exclusion du gaz, notamment ceux qui peuvent être extraits ou récupérés de gisements des fonds ou des sous-sols marins de sables pétrolifères, de bitume, de sables ou de schistes bitumineux ou d’autres sortes de gisements. La présente définition ne s’applique pas au charbon.
+***Office*** L’Office Canada — Terre-Neuve-et-Labrador des hydrocarbures extracôtiers visé à l’article 9. (*Board*)
 
-***plan de mise en valeur*** Plan déposé en application du paragraphe 139(2) en vue d’obtenir l’approbation de la stratégie globale de mise en valeur d’un gisement ou d’un champ.
+***pétrole*** Le pétrole brut, quelle que soit sa densité, qui est extrait à la tête de puits, sous forme liquide et les autres hydrocarbures, à l’exclusion du gaz, notamment ceux qui peuvent être extraits ou récupérés de gisements des fonds ou des sous-sols marins de sables pétrolifères, de bitume, de sables ou de schistes bitumineux ou d’autres sortes de gisements. La présente définition ne s’applique pas au charbon. (*oil*)
 
-***plan de retombées économiques*** Plan déposé en application du paragraphe 45(2).
+***plan de mise en valeur*** Plan déposé en application du paragraphe 139(2) en vue d’obtenir l’approbation de la stratégie globale de mise en valeur d’un gisement ou d’un champ. (*development plan*)
 
-***premier dirigeant*** Le premier dirigeant de l’Office nommé conformément à l’article 24.
+***plan de retombées économiques*** Plan déposé en application du paragraphe 45(2). (*Canada-Newfoundland benefits plan*)
 
-***province*** Terre-Neuve-et-Labrador.
+***premier dirigeant*** Le premier dirigeant de l’Office nommé conformément à l’article 24. (*Chief Executive Officer*)
 
-French version only***règlement*** Texte d’application pris par le gouverneur en conseil.
+***province*** Terre-Neuve-et-Labrador. (*Province*)
 
- ou ***zone extracôtière*** ou ***zone*** Les zones sous-marines qui s’étendent au-delà de la laisse de basse mer de la province jusqu’aux limites fixées par règlement ou, en l’absence de tel règlement, jusqu’au rebord externe de la marge continentale, ou jusqu’à deux cents milles marins des lignes de base à partir desquelles est mesurée la largeur de la mer territoriale canadienne là où le rebord de la marge continentale se trouve à une distance inférieure.
-> 1987, ch. 3, art. 2; 1994, ch. 41, art. 37; 2014, ch. 13, art. 4.
+***règlement*** Texte d’application pris par le gouverneur en conseil. (***French version only***)
+
+***zone extracôtière*** ou ***zone*** Les zones sous-marines qui s’étendent au-delà de la laisse de basse mer de la province jusqu’aux limites fixées par règlement ou, en l’absence de tel règlement, jusqu’au rebord externe de la marge continentale, ou jusqu’à deux cents milles marins des lignes de base à partir desquelles est mesurée la largeur de la mer territoriale canadienne là où le rebord de la marge continentale se trouve à une distance inférieure. (*offshore area*)
+> 1987, ch. 3, art. 2; 1994, ch. 41, art. 37; 2014, ch. 13, art. 4; 2015, ch. 4, art. 37 et 117.
 
 
 
@@ -2733,6 +2735,19 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 
 
+#### Agents de traitement
+
+
+
+**Avantage environnemental net**
+
+**138.21** L’Office ne peut, dans une autorisation délivrée en vertu de l’alinéa 138(1)b), permettre l’utilisation d’un agent de traitement que s’il considère que son utilisation procurera vraisemblablement un avantage environnemental net.
+> 2015, ch. 4, art. 52.
+
+
+
+
+
 #### Responsabilité financière
 
 
@@ -3053,9 +3068,12 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 **149** 
 
-- **(1)** Sous réserve de l’article 7, le gouverneur en conseil peut, aux fins de la sécurité, de la protection de l’environnement, ainsi que de la production et de la rationalisation de l’exploitation du pétrole et du gaz, par règlement :
-	- **a)** définir ***pétrole*** et ***gaz*** pour l’application des sections I et II, ***installation*** et ***équipement*** pour l’application des articles 139.1 et 139.2 et ***sérieux*** pour l’application de l’article 165;
+- **(1)** Sous réserve de l’article 7, le gouverneur en conseil peut, à des fins de sécurité, de protection de l’environnement, de responsabilisation ainsi que de production et de rationalisation de l’exploitation d’hydrocarbures, par règlement :
+	- **a)** définir ***pétrole*** et ***gaz*** pour l’application des sections I et II, ***installation*** et ***équipement*** pour l’application des articles 139.1 et 139.2 et ***grave*** pour l’application de l’article 165;
 	- **b)** régir la recherche, notamment par forage, la production, la transformation et le transport des hydrocarbures dans la zone d’application de la présente loi, ainsi que les activités connexes;
+	- **b.1)** régir les mesures à prendre en cas de rejet, au sens du paragraphe 160(1), ou afin d’être prêt à faire face à un rejet, notamment les mesures concernant l’utilisation des agents de traitement;
+	- **b.2)** régir la démarche à suivre pour conclure s’il y a ou non un avantage environnemental net;
+	- **b.3)** régir la modification et la révocation de l’approbation visée à l’alinéa 161.1(1)b);
 	- **c)** autoriser l’Office, ou toute autre personne, à exercer, outre la prise des arrêtés spécifiés, les attributions nécessaires à :
 		- **(i)** la gestion et au contrôle de la production des hydrocarbures,
 		- **(ii)** l’enlèvement des hydrocarbures hors de la zone extracôtière,
@@ -3070,7 +3088,26 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 **Normes ou spécifications**
 
 - **(2)** Sauf disposition contraire de la présente partie, les règlements pris en application du paragraphe (1) peuvent inclure par renvoi une version déterminée dans le temps ou la dernière version modifiée des normes ou spécifications adoptées par des personnes physiques ou morales, de droit privé ou public.
-> 1987, ch. 3, art. 149; 1992, ch. 35, art. 63.
+
+**Agents de traitement**
+
+- **(3)** Les règlements visés au paragraphe (1) qui ont trait aux agents de traitement sont pris sur la recommandation du ministre fédéral et du ministre de l’Environnement. Leur prise demeure soumise aux exigences prévues au paragraphe 7(1).
+> 1987, ch. 3, art. 149; 1992, ch. 35, art. 63; 2015, ch. 4, art. 54 et 117.
+
+
+
+
+
+**Modification des annexes 1 ou 2**
+
+**149.1** 
+
+- **(1)** Le gouverneur en conseil peut, par décret, modifier les annexes 1 ou 2 par adjonction, modification ou suppression de la mention du titre ou d’une disposition d’une loi ou d’un règlement fédéraux.
+
+**Recommandation**
+
+- **(2)** Le décret est pris sur la recommandation du ministre fédéral et du ministre chargé de l’application de la disposition en cause.
+> 2015, ch. 4, art. 55.
 
 
 
@@ -3274,20 +3311,22 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 **160** 
 
-- **(1)** Pour l’application des articles 161 à 165, ***rejets*** désigne les déversements, dégagements ou écoulements d’hydrocarbures non autorisés sous le régime des règlements ou de toute autre règle de droit fédérale ou constituant des rejets de polluants imputables à un bâtiment auquel les parties 8 ou 9 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md)  s’appliquent ou à un navire auquel la partie 6 de la [Loi sur la responsabilité en matière maritime](/fr/Lois/Lois%20du%20Canada/2001/ch.%206.md) s’applique.
-
-**Définition de débris**
-
-- **(2)** Pour l’application des articles 162 et 165, ***débris*** désigne toute installation mise en place, dans le cours d’activités connexes devant être autorisées conformément à l’alinéa 138(1)b), et abandonnée sans autorisation ou tout objet arraché, largué ou détaché au cours de ces activités.
+- **(1)** Pour l’application des articles 161 à 165, ***rejets*** désigne les déversements, dégagements ou écoulements d’hydrocarbures non autorisés sous le régime du paragraphe 161.5(1), des règlements ou de toute autre règle de droit fédérale; toutefois, ne sont pas visés par ces articles les rejets imputables à un bâtiment auquel les parties 8 ou 9 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md) s’appliquent ou à un navire auquel la partie 6 de la [Loi sur la responsabilité en matière maritime](/fr/Lois/Lois%20du%20Canada/2001/ch.%206.md) s’applique.
 
 **Définition de perte ou dommages réels**
 
-- **(3)** À l’article 162, sont assimilées à une perte ou à des dommages réels la perte d’un revenu, y compris un revenu futur, et, à l’égard des peuples autochtones du Canada, la perte de possibilités de chasse, de pêche ou de cueillette.
+- **(2)** Pour l’application de l’article 162 :
+	- **a)** sont assimilées à une perte ou des dommages réels la perte d’un revenu, y compris un revenu futur, et, à l’égard des peuples autochtones du Canada, la perte de possibilités de chasse, de pêche ou de cueillette;
+	- **b)** sont exclues des pertes et dommages réels, les pertes de revenu pouvant être recouvrées au titre du paragraphe 42(3) de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md).
+
+**Définition de débris**
+
+- **(3)** Pour l’application des articles 162 à 163 et 165, ***débris*** désigne toute installation mise en place, dans le cours d’activités connexes devant être autorisées conformément à l’alinéa 138(1)b), et abandonnée sans autorisation ou tout objet arraché, largué ou détaché au cours de ces activités.
 
 **Immunité**
 
 - **(4)** Sa Majesté du chef du Canada n’encourt aucune responsabilité du fait que le gouverneur en conseil a, par règlement, autorisé certains déversements, dégagements ou écoulements d’hydrocarbures.
-> 1987, ch. 3, art. 160; 1992, ch. 35, art. 73; 2001, ch. 6, art. 110, ch. 26, art. 280 et 324.
+> 1987, ch. 3, art. 160; 1992, ch. 35, art. 73; 2001, ch. 6, art. 110, ch. 26, art. 280 et 324; 2015, ch. 4, art. 57.
 
 
 
@@ -3337,6 +3376,80 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 - **(9)** Les personnes qui prennent les mesures visées au présent article n’encourent, sauf décision injustifiable prouvée, aucune responsabilité personnelle pour les actes ou omissions découlant de l’application de cet article.
 > 1987, ch. 3, art. 161; 1992, ch. 35, art. 74; 2014, ch. 13, art. 29.
+
+
+
+
+
+**Agents de traitement**
+
+**161.1** 
+
+- **(1)** Les dispositions énumérées à l’annexe 1 ne s’appliquent pas au dépôt d’un agent de traitement et celles énumérées à l’annexe 2 ne s’appliquent pas à l’égard du préjudice causé par l’agent de traitement et de celui causé par les interactions de l’agent de traitement avec le pétrole rejeté, si les conditions ci-après sont remplies :
+	- **a)** l’autorisation délivrée en vertu de l’alinéa 138(1)b) permet l’utilisation de l’agent de traitement;
+	- **b)** le délégué à l’exploitation approuve son utilisation en réaction au rejet et celle-ci est effectuée conformément à toute exigence imposée dans cette approbation;
+	- **c)** l’utilisation est effectuée sous le régime des paragraphes 161(3) ou (4).
+
+**Clarification**
+
+- **(2)** Les dispositions énumérées à l’annexe 2 continuent à s’appliquer au titulaire de l’autorisation visée à l’alinéa (1)a) à l’égard du préjudice causé par le rejet et, malgré le paragraphe (1), de celui causé par les interactions de l’agent de traitement avec le pétrole rejeté.
+
+**Avantage environnemental net**
+
+- **(3)** Sauf dans le cas d’un essai à petite échelle, l’approbation requise à l’alinéa (1)b) est donnée par écrit et uniquement si les conditions suivantes sont réunies :
+	- **a)** le délégué à l’exploitation a consulté les ministres fédéral et provincial au sujet de l’approbation;
+	- **b)** le ministre fédéral a consulté le ministre de l’Environnement au sujet de l’approbation;
+	- **c)** le délégué à l’exploitation considère que l’utilisation de l’agent de traitement procurera vraisemblablement un avantage environnemental net.
+> 2015, ch. 4, art. 58.
+
+
+
+
+
+**[Loi canadienne sur la protection de l’environnement (1999)](/fr/Lois/Lois%20du%20Canada/1999/ch.%2033.md)**
+
+**161.2** L’article 123 et les paragraphes 124(1) à (3) de la [Loi canadienne sur la protection de l’environnement (1999)](/fr/Lois/Lois%20du%20Canada/1999/ch.%2033.md) ne s’appliquent pas à l’égard des agents de traitement.
+> 2015, ch. 4, art. 59.
+
+
+
+
+
+**[Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md) — responsabilité civile**
+
+**161.3** Pour l’application de l’article 42 de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md), dans les cas où il y aurait eu contravention au paragraphe 36(3) de cette loi n’eût été le paragraphe 161.1(1) :
+- **a)** le paragraphe 36(3) de cette loi est réputé s’appliquer à l’égard du dépôt de l’agent de traitement;
+- **b)** le titulaire de l’autorisation visée à l’alinéa 161.1(1)a) est réputé être la seule personne visée par l’alinéa 42(1)a) de cette loi;
+- **c)** les personnes qui sont à l’origine du rejet ou y ont contribué sont réputées être les seules personnes visées par l’alinéa 42(1)b) de cette loi.
+> 2015, ch. 4, art. 59.
+
+
+
+
+
+**Avis**
+
+**161.4** Le ministre fédéral avise le ministre provincial et l’Office de l’établissement de la liste des agents de traitement et de toute modification de celle-ci. Il donne cet avis dans les plus brefs délais possible après la prise du règlement en cause.
+> 2015, ch. 4, art. 59.
+
+
+
+
+
+**Recherche scientifique**
+
+**161.5** 
+
+- **(1)** Le ministre de l’Environnement peut autoriser, dans le cadre d’un projet précis de recherche portant sur l’utilisation d’agents de traitement afin d’atténuer les impacts environnementaux de rejets, le dépôt d’agents de traitement, de pétrole ou de substituts de pétrole et assujettir le dépôt à des conditions. Il ne peut accorder cette autorisation que si le ministre fédéral a obtenu l’approbation du ministre provincial.
+
+**Substitut de pétrole**
+
+- **(2)** Il ne peut toutefois autoriser le dépôt d’un substitut de pétrole que s’il considère que le substitut pose moins de risques en matière de sécurité, de santé ou d’environnement que le pétrole.
+
+**Non-application**
+
+- **(3)** Si les conditions prévues dans l’autorisation sont respectées, les dispositions énumérées à l’article 161.2 et aux annexes 1 et 2 ne s’appliquent pas à l’égard de l’agent de traitement, du pétrole et du substitut de pétrole nécessaires à la réalisation du projet de recherche.
+> 2015, ch. 4, art. 59.
 
 
 
@@ -7585,325 +7698,79 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 
 **PARTIE V** 
-## Paiements de péréquation compensatoires et détermination du potentiel fiscal par habitant
+## [Abrogée, 2015, ch. 4, art. 69]
 
 
+**218** [Abrogé, 2015, ch. 4, art. 69]
 
-### Définitions
 
 
+**219** [Abrogé, 2015, ch. 4, art. 69]
 
-**Définitions**
 
-**218** 
 
-- **(1)** Les définitions qui suivent s’appliquent à la présente partie.
+**220** [Abrogé, 2015, ch. 4, art. 69]
 
-***fraction dégressive***
-- **a)** Quatre-vingt-dix pour cent pour les quatre premiers exercices de production extracôtière;
-- **b)** quatre-vingts pour cent pour le cinquième exercice;
-- **c)** soixante-dix pour cent pour le sixième exercice;
-- **d)** soixante pour cent pour le septième exercice;
-- **e)** cinquante pour cent pour le huitième exercice;
-- **f)** quarante pour cent pour le neuvième exercice;
-- **g)** trente pour cent pour le dixième exercice;
-- **h)** vingt pour cent pour le onzième exercice;
-- **i)** dix pour cent pour le dernier exercice.
 
-***loi de 1977*** La Loi de 1977 sur les accords fiscaux entre le gouvernement fédéral et les provinces et sur les contributions fédérales en matière d’enseignement postsecondaire et de santé.
 
-***ministre*** Le ministre des Finances.
+**220.1** [Abrogé, 2015, ch. 4, art. 69]
 
-***moyenne nationale*** Le potentiel fiscal par habitant de l’ensemble des provinces.
 
-French version only***potentiel*** Potentiel fiscal par habitant.
 
-***premier exercice de production extracôtière*** L’exercice ouvert le 1<sup>er</sup> avril suivant la date où le premier compteur enregistreur des ventes a débité un volume cumulatif de deux millions quatre cent mille mètres cubes de pétrole ou le volume équivalent de gaz ou de ces deux substances, déterminé par le ministre des Ressources naturelles conformément au règlement.
+**221** [Abrogé, 2015, ch. 4, art. 69]
 
-***province*** Ne vise pas le Yukon, les Territoires du Nord-Ouest ni le Nunavut.
 
-**Population**
 
-- **(2)** Pour l’application de la présente partie, le chiffre de la population d’une province pour un exercice est celui de cette province pour ce même exercice, établi pour l’application de la partie I de la loi de 1977.
-> 1987, ch. 3, art. 218; 1993, ch. 28, art. 78; 1994, ch. 41, art. 37; 1998, ch. 15, art. 18; 2002, ch. 7, art. 109(A).
+**222** [Abrogé, 2015, ch. 4, art. 69]
 
 
 
+**223** [Abrogé, 2015, ch. 4, art. 69]
 
 
-### Péréquation compensatoire
 
+**224** [Abrogé, 2015, ch. 4, art. 69]
 
 
-**Paiements de péréquation**
 
-**219** Pour chacun des douze premiers exercices de production extracôtière, le ministre des Ressources naturelles effectue le cas échéant au profit de Sa Majesté du chef de la province, selon les modalités de temps ou autres fixées par règlement, un paiement de péréquation compensatoire qu’il calcule conformément à l’article 220.
-> 1987, ch. 3, art. 219; 1994, ch. 41, art. 37.
+**225** [Abrogé, 2015, ch. 4, art. 69]
 
 
 
+**226** [Abrogé, 2015, ch. 4, art. 69]
 
 
-**Calcul**
 
-**220** Le paiement visé à l’article 219 pour un exercice correspond à la somme des éléments suivants :
-- **a)** l’excédent éventuel du montant obtenu au sous-alinéa (i) sur celui obtenu au sous-alinéa (ii) :
-	- **(i)** l’un des pourcentages ci-après par rapport à la somme du montant calculé conformément au présent alinéa pour l’exercice précédent, dans sa version applicable à cet exercice, et du paiement de péréquation que recevrait Sa Majesté du chef de la province pour l’exercice précédent si celui-ci était calculé au titre de l’article 3.2 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), compte non tenu de l’article 3.4 de cette loi, comme si la province avait fait le choix au titre du paragraphe 3.2(2) de cette loi pour l’exercice précédent cet exercice si celle-ci fait ce choix ou comme si la province n’avait pas fait le choix au titre du paragraphe 3.2(2) de cette loi pour l’exercice précédent cet exercice si celle-ci ne fait pas ce choix :
-		- **(A)** quatre-vingt-quinze pour cent, lorsque la moyenne des sommes représentant le potentiel de la province pour les exercices pris en compte dans le calcul du paiement de péréquation pour l’exercice visé est au plus égale à soixante-dix pour cent de la moyenne des moyennes nationales pour ces mêmes exercices,
-		- **(B)** quatre-vingt-dix pour cent, lorsque la moyenne des sommes représentant le potentiel de la province pour les exercices pris en compte dans le calcul du paiement de péréquation est au plus égale à soixante-quinze pour cent mais supérieure à soixante-dix pour cent de la moyenne des moyennes nationales pour ces mêmes exercices,
-		- **(C)** quatre-vingt-cinq pour cent, lorsque la moyenne des sommes représentant le potentiel de la province pour les exercices pris en compte dans le calcul du paiement de péréquation est supérieure à soixante-quinze pour cent de la moyenne des moyennes nationales pour ces mêmes exercices,
-	- **(ii)** le paiement de péréquation que recevrait Sa Majesté du chef de la province pour l’exercice si celui-ci était calculé au titre de l’article 3.2 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), compte non tenu de l’article 3.4 de cette loi;
-- **b)** la fraction dégressive, pour l’exercice, correspond à l’excédent du montant visé au sous-alinéa (i) sur celui visé au sous-alinéa (ii) :
-	- **(i)** la somme du paiement de péréquation que recevrait Sa Majesté du chef de la province pour l’exercice précédent si celui-ci était calculé au titre de l’article 3.2 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), compte non tenu de l’article 3.4 de cette loi et du montant calculé conformément à l’alinéa a) pour ce même exercice, dans sa version applicable à cet exercice,
-	- **(ii)** la somme du montant calculé conformément à l’alinéa a) pour l’exercice et du paiement de péréquation que recevrait Sa Majesté du chef de la province pour l’exercice si celui-ci était calculé au titre de l’article 3.2 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), compte non tenu de l’article 3.4 de cette loi, comme si la province avait fait le choix au titre du paragraphe 3.2(2) de cette loi pour l’exercice précédent cet exercice si celle-ci fait ce choix ou comme si la province n’avait pas fait le choix au titre du paragraphe 3.2(2) de cette loi pour l’exercice précédent cet exercice si celle-ci ne fait pas ce choix.
-> 1987, ch. 3, art. 220; 2004, ch. 22, art. 6; 2007, ch. 35, art. 172.
-
-
-
-
-
-**Définition de moyenne**
-
-**220.1** Pour l’application de l’article 220, toute moyenne, sauf celle visée par la définition de ***moyenne nationale***, s’entend d’une moyenne pondérée où le dernier exercice pris en compte dans le calcul du paiement de péréquation est pondérée de 50 %, la pondération étant de 25 % pour les deux autres exercices pris en compte dans ce calcul.
-> 2007, ch. 29, art. 79.
-
-
-
-
-
-### Détermination du potentiel
-
-
-
-**Règle générale**
-
-**221** 
-
-- **(1)** Pour l’application de l’alinéa 220a), le ministre détermine le potentiel de la province et la moyenne nationale pour un exercice en divisant le total, calculé conformément au paragraphe (2), des recettes estimatives de la province ou de toutes les provinces par le chiffre de sa ou de leur population, le même exercice étant pris en compte pour les recettes et les chiffres.
-
-**Calcul**
-
-- **(2)** Le total des recettes estimatives de la province ou de toutes les provinces, selon le cas, pour un exercice est déterminé comme il suit, compte tenu des indications données à la définition de ***source du revenu*** au paragraphe 4(2) de la loi de 1977 et des modifications et facteurs visés au paragraphe (3) :
-	- **a)** indication des sources dont provient ou peut provenir le total des recettes suivantes :
-		- **(i)** la somme des recettes tirées par toutes les provinces, pour l’exercice, de toutes les sources mentionnées à la définition de ***source de revenu*** au paragraphe 4(2) de la loi de 1977 en sa version du 1<sup>er</sup> avril 1984,
-		- **(ii)** le total des recettes :
-			- **(A)** tirées par toutes les municipalités, commissions et autres administrations locales des sources mentionnées aux alinéas z) et bb) de la définition de ***source de revenu*** au paragraphe 4(2) de la loi de 1977 en sa version du 1<sup>er</sup> avril 1984,
-			- **(B)** censées, en application du paragraphe 4(5) de la loi de 1977 en sa version du 1<sup>er</sup> avril 1985, être tirées par une province pour l’exercice,
-		- **(iii)** le total des recettes acquises par toutes les provinces, pour l’exercice, et par toutes les municipalités, commissions et autres administrations locales pour ceux de leurs exercices se terminant au cours de l’exercice, et qui ne sont pas visées aux sous-alinéas (i) ou (ii), mais qui sont prises en compte dans le calcul des paiements de péréquation pour l’exercice en application de la loi de 1977;
-	- **b)** définition du terme ***assiette***, dans le cas de chaque source distincte indiquée conformément à l’alinéa a) pour une province à l’égard de l’exercice, par rapport à la mesure de la capacité relative dont dispose la province pour tirer des recettes de cette source pour cet exercice, et compte tenu de la définition de ce terme à l’article 6 du [Règlement de 1982 sur les accords fiscaux entre le gouvernement fédéral et les provinces et sur le financement des programmes établis](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/83/784.md), en sa version du 1<sup>er</sup> avril 1984, et des modifications et des facteurs visés au paragraphe (3);
-	- **c)** estimation du montant de chaque assiette, au sens de l’alinéa b), à l’égard de chaque source indiquée conformément à l’alinéa a), pour la province ou toutes les provinces, selon le cas, pour l’exercice;
-	- **d)** estimation du montant des recettes de la province ou de toutes les provinces, selon le cas, à l’égard de chaque source indiquée conformément à l’alinéa a) pour l’exercice par multiplication des facteurs suivants :
-		- **(i)** le taux d’imposition national moyen pour l’exercice à l’égard de cette source,
-		- **(ii)** le montant de l’assiette estimé conformément à l’alinéa c) à l’égard de cette source pour la province ou toutes les provinces, selon le cas, pour l’exercice;
-	- **e)** addition des montants des recettes de la province ou de toutes les provinces, selon le cas, estimés conformément à l’alinéa d) à l’égard de toutes les sources désignées conformément à l’alinéa a).
-
-**Modifications et facteurs**
-
-- **(3)** Pour l’application des alinéas (2)a) et b), il est tenu compte des modifications et facteurs suivants :
-	- **a)** les modifications des lois fiscales d’une province qui s’appliquent aux exercices postérieurs à celui qui s’ouvre le 1<sup>er</sup> avril 1984;
-	- **b)** les modifications visant à rendre plus précises les comparaisons entre provinces pour ce qui est de leur capacité relative de tirer des recettes d’une source quelconque;
-	- **c)** les modifications apportées par les établissements de statistique à leurs données ou méthodes pour la mesure de cette capacité.
-
-**Taux d’imposition**
-
-- **(4)** Pour l’application de l’alinéa (2)d), le taux d’imposition national moyen pour un exercice à l’égard d’une source est le quotient de la division des éléments suivants :
-	- **a)** le total des recettes, déterminées par le ministre, que toutes les provinces ont tirées pour l’exercice de cette source, qu’elles soient, en tout ou en partie, prises en compte ou non dans le calcul des paiements de péréquation aux provinces pour l’exercice selon la partie I de la loi de 1977;
-	- **b)** l’assiette estimée conformément à l’alinéa (2)c) à l’égard de cette source quant à toutes les provinces pour cet exercice.
-
-
-
-
-### Détermination
-
-
-
-**Détermination définitive**
-
-**222** 
-
-- **(1)** La détermination définitive, pour un exercice, du paiement de péréquation compensatoire à la province, du potentiel de la province et de la moyenne nationale est effectuée par le ministre en même temps que le calcul définitif du paiement de péréquation éventuel à faire à une province pour l’exercice selon la partie I de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md).
-
-**Détermination provisoire**
-
-- **(2)** Le ministre peut, selon les modalités de temps ou autres fixées par règlement, procéder à la détermination provisoire des éléments visés au paragraphe (1).
-> 1987, ch. 3, art. 222; 2007, ch. 29, art. 80.
-
-
-
-
-
-### Versements anticipés
-
-
-
-**Montant à valoir**
-
-**223** Le ministre des Ressources naturelles peut, selon les modalités de temps ou autres fixées par règlement, verser à Sa Majesté du chef de la province un accompte à valoir sur le paiement de péréquation compensatoire à effectuer ou susceptible d’être effectué à son profit selon la présente partie pour un exercice.
-> 1987, ch. 3, art. 223; 1994, ch. 41, art. 37.
-
-
-
-
-
-**Comptabilisation**
-
-**224** L’accompte visé à l’article 223 est comptabilisé et est considéré comme une fraction du paiement de péréquation compensatoire pour l’exercice, déterminée par le ministre selon les modalités réglementaires, même si le paiement n’a pas été déterminé par lui conformément à l’article 220.
-
-
-
-
-### Affectation
-
-
-
-**Affectation**
-
-**225** Les montants dont le paiement est autorisé par les articles 219 et 223 sont prélevés sur le Trésor selon les modalités de temps ou autres fixées par règlement.
-
-
-
-
-### Rapports
-
-
-
-**Rapport**
-
-**226** Pendant la durée de l’Accord atlantique, le ministre des Ressources naturelles fait établir, au plus tard pour le 31 décembre suivant chaque exercice, un rapport relatif à cet exercice et faisant état de chaque paiement de péréquation compensatoire et de chaque détermination du potentiel de la province ou de la moyenne nationale effectués en application de la présente partie. Le rapport achevé, il le fait déposer devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci.
-> 1987, ch. 3, art. 226; 1994, ch. 41, art. 37.
-
-
-
-
-
-### Règlement
-
-
-
-**Règlement**
-
-**227** Le gouverneur en conseil peut, par règlement, sur recommandation du ministre :
-- **a)** fixer les modalités de temps ou autres des versements visés à la présente partie;
-- **b)** décider de toute question qui, en vertu de la présente partie, doit être tranchée par le ministre des Ressources naturelles ou par le ministre;
-- **c)** fixer les modalités de temps ou autres des déterminations provisoires prévues au paragraphe 222(2);
-- **d)** prévoir le versement des accomptes visés à l’article 223, les rectifications de paiement à effectuer par suite de ces accomptes et le recouvrement des trop-payés;
-- **e)** prendre toute mesure d’ordre réglementaire prévue par la présente partie;
-- **f)** prendre toute autre mesure d’application de la présente partie.
-> 1987, ch. 3, art. 227; 1994, ch. 41, art. 37.
-
+**227** [Abrogé, 2015, ch. 4, art. 69]
 
 
 
 
 **PARTIE VI** 
-## Fonds de développement extracôtier
+## [Abrogée, 2015, ch. 4, art. 69]
 
 
+**228** [Abrogé, 2015, ch. 4, art. 69]
 
-### Définitions
 
 
+**229** [Abrogé, 2015, ch. 4, art. 69]
 
-**Définitions**
 
-**228** Les définitions qui suivent s’appliquent à la présente partie.
 
-***Fonds de développement*** Compte ouvert en application de l’article 229.
+**230** [Abrogé, 2015, ch. 4, art. 69]
 
-***projet*** Activité qui peut faire l’objet de frais.
 
 
+**231** [Abrogé, 2015, ch. 4, art. 69]
 
 
-### Fonds de développement
 
+**232** [Abrogé, 2015, ch. 4, art. 69]
 
 
-**Fonds de développement**
 
-**229** Est ouvert, parmi les comptes du Canada, un compte intitulé Fonds de développement extracôtier auquel sont imputées toutes les sommes versées à Sa Majesté du chef de la province conformément à la présente partie.
-
-
-
-
-### Accord avec le gouvernement provincial
-
-
-
-**Accord avec le gouvernement de Terre-Neuve**
-
-**230** Le ministre fédéral peut, avec l’approbation du gouvernement fédéral, conclure un accord avec le ministre provincial habilité par le gouvernement provincial prévoyant à la fois :
-- **a)** les critères de sélection et les modalités de dépôt et d’approbation des projets;
-- **b)** les modalités et conditions du paiement des montants en application du paragraphe 231(1) ou d’une fraction de ceux-ci;
-- **c)** l’exclusion des frais qui peuvent faire l’objet d’un paiement;
-- **d)** toute autre mesure d’ordre réglementaire d’application de la présente partie.
-
-
-
-
-### Paiements
-
-
-
-**Autorisation de paiement**
-
-**231** 
-
-- **(1)** Lorsque le ministre provincial propose au ministre fédéral que soit effectué un paiement dans le cadre d’un accord conclu conformément à l’article 230 et que le ministre fédéral approuve cette proposition, il est tenu, sous réserve du paragraphe (2), de l’article 5 et des termes de l’accord, de payer d’un seul coup ou par versements le montant, ou toute somme au titre de celui-ci, à chacun des cinq exercices suivant le 1<sup>er</sup> avril 1985.
-
-**Plafond**
-
-- **(2)** Le plafond des paiements est fixé à deux cent vingt-cinq millions de dollars.
-
-**Apport provincial**
-
-- **(3)** Il ne peut être effectué de paiement à l’égard d’un projet à moins que le ministre provincial n’ait accepté de prendre en charge un quart du total des frais exposés à cet égard par les deux gouvernements.
-
-**Restriction**
-
-- **(4)** Il ne peut être effectué de paiement qui ne vise des frais exposés à l’égard d’un projet approuvé et en cours de réalisation avant le 1<sup>er</sup> avril 1993 ou, si elle est postérieure, la date où le premier compteur enregistreur des ventes a débité un volume cumulatif de deux millions quatre cent mille mètres cubes de pétrole ou une quantité équivalente de gaz naturel ou de ces deux substances, déterminé par le ministre fédéral conformément au règlement.
-
-
-
-
-### Comité du Fonds de développement
-
-
-
-**Constitution**
-
-**232** 
-
-- **(1)** Est constitué, par l’application conjointe de la présente loi et de la loi provinciale, le Comité du Fonds de développement composé de quatre membres.
-
-**Nomination**
-
-- **(2)** Les gouvernements nomment chacun deux membres.
-
-**Mission**
-
-- **(3)** Le Comité surveille la mise en oeuvre du Fonds de développement.
-
-**Dissolution**
-
-- **(4)** Le Comité est dissous, par l’application conjointe du présent paragraphe et du paragraphe 204(4) de la loi provinciale, trois ans après la date fixée par les ministres pour effectuer le paiement prévu au paragraphe 231(1).
-
-
-
-
-### Affectation
-
-
-
-**Affectation**
-
-**233** 
-
-- **(1)** Un montant total d’au plus deux cent vingt-cinq millions de dollars peut être prélevé sur le Trésor pour tout paiement à effectuer sous le régime de la présente partie.
-
-**Chevauchement**
-
-- **(2)** Par dérogation à l’article 30 de la Loi sur l’administration financière, toute fraction des montants affectés en vertu du présent article peut être dépensée au cours des exercices subséquents.
+**233** [Abrogé, 2015, ch. 4, art. 69]
 
 
 
@@ -7960,5 +7827,114 @@ French version only***potentiel*** Potentiel fiscal par habitant.
 <a name='C-7.5_fr_1'><sup>*</sup></a>: [Note : Loi, sauf section VIII de la partie II et articles 207 et 208, en vigueur le 4 avril 1987, *voir* TR/87-88; section VIII de la partie II, en vigueur le 20 mai 1988, *voir* TR/88-102; articles 207 et 208, en vigueur le 23 janvier 1996, *voir* TR/96-20.]<br />
 > 1987, ch. 3, art. 239; 1991, ch. 49, art. 237.
 
+
+
+
+
+### **ANNEXE 1** 
+**(paragraphes 149.1(1), 161.1(1) et 161.5(3))**
+<table>
+<h4>Dispositions</h4>
+<tr>
+<th></th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
+</tr>
+<tr>
+<th>Article</th>
+<th>Loi</th>
+<th>Dispositions</th>
+</tr>
+<tr>
+<td>1</td>
+<td>[Loi sur la prévention de la pollution des eaux arctiques](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-12.md)</td>
+<td>4(1)</td>
+</tr>
+<tr>
+<td>2</td>
+<td>[Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md)</td>
+<td>187</td>
+</tr>
+<tr>
+<td>3</td>
+<td>[Loi canadienne sur la protection de l’environnement (1999)](/fr/Lois/Lois%20du%20Canada/1999/ch.%2033.md)</td>
+<td>125(1) à (5)</td>
+</tr>
+<tr>
+<td>4</td>
+<td>[Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md)</td>
+<td>36(3)</td>
+</tr>
+<tr>
+<td>5</td>
+<td>[Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md)</td>
+<td>5.1(1) et (2)</td>
+</tr>
+</table>
+
+> 2015, ch. 4, art. 70.
+
+
+
+
+### **ANNEXE 2** 
+**(paragraphes 149.1(1), 161.1(1) et (2) et 161.5(3))**
+## Dispositions
+#### PARTIE 1
+<table>
+<h4>Dispositions de lois</h4>
+<tr>
+<th></th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
+</tr>
+<tr>
+<th>Article</th>
+<th>Loi</th>
+<th>Dispositions</th>
+</tr>
+<tr>
+<td>1</td>
+<td>[Loi sur les espèces en péril](/fr/Lois/Lois%20du%20Canada/2002/ch.%2029.md)</td>
+<td>32(1), 33, 36(1), 58(1), 60(1) et 61(1)</td>
+</tr>
+<tr>
+<td>2</td>
+<td>[Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md)</td>
+<td>35(1)</td>
+</tr>
+</table>
+
+#### PARTIE 2
+<table>
+<h4>Dispositions de règlements</h4>
+<tr>
+<th></th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
+</tr>
+<tr>
+<th>Article</th>
+<th>Règlement</th>
+<th>Dispositions</th>
+</tr>
+<tr>
+<td>1</td>
+<td>[Règlement général sur les parcs nationaux](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/78/213.md)</td>
+<td>10 et 16</td>
+</tr>
+<tr>
+<td>2</td>
+<td>[Règlement sur les refuges d’oiseaux migrateurs](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1001-1100/C.R.C.,%20ch.%201036.md)</td>
+<td>3(2)b) et 10(1)</td>
+</tr>
+<tr>
+<td>3</td>
+<td>[Règlement sur les oiseaux migrateurs](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1001-1100/C.R.C.,%20ch.%201035.md)</td>
+<td>5(1) et 6a)</td>
+</tr>
+</table>
+
+> 2015, ch. 4, art. 70.
 
 
