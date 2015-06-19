@@ -935,7 +935,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**174** [Transitional Provisions]
+**174** [Repealed, 2015, c. 4, s. 116]
 
 
 
