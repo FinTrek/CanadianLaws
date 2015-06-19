@@ -69,7 +69,7 @@ Sanctionnée sur le 29 juin 2005
 
 **4** Les définitions qui suivent s’appliquent à la présente partie.
 
-***hydrocarbures*** S’entend au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers](/fr/Lois/Lois%20du%20Canada/1988/ch.%2028.md).
+***hydrocarbures*** S’entend au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers](/fr/Lois/Lois%20du%20Canada/1988/ch.%2028.md). (*petroleum*)
 
 ***paiement de péréquation***
 - **a)** Pour l’application de l’article 8, le paiement de péréquation que recevrait la province de la Nouvelle-Écosse pour l’exercice si celui-ci était calculé au titre de l’article 3.2 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), compte non tenu de l’article 3.4 de cette loi;
@@ -78,17 +78,17 @@ Sanctionnée sur le 29 juin 2005
 A + B + (C / F)
 ```
 où :
-- **A,** B, C et F s’entendent au sens de la définition de ***capacité fiscale totale par habitant*** au paragraphe 3.5(1) de cette loi.
+- **A,** B, C et F s’entendent au sens de la définition de ***capacité fiscale totale par habitant*** au paragraphe 3.5(1) de cette loi. (*fiscal equalization payment*)
 
-***paiement de péréquation compensatoire*** Le paiement de péréquation compensatoire qui peut être fait à la province de la Nouvelle-Écosse pour l’exercice sous le régime de la partie V de la Loi de mise en oeuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers.
+***paiement de péréquation compensatoire***[Abrogée, 2015, ch. 4, art. 110]
 
-***paiement de péréquation compensatoire supplémentaire*** Le paiement qui peut être fait en vertu des articles 6, 7 ou 12.
+***paiement de péréquation compensatoire supplémentaire*** Le paiement qui peut être fait en vertu des articles 6, 7 ou 12. (*additional fiscal equalization offset payment*)
 
-***recettes extracôtières*** Le total des sommes ci-après payées pour un exercice à la province de la Nouvelle-Écosse :
+***recettes extracôtières*** Le total des sommes ci-après payées pour un exercice à la province de la Nouvelle-Écosse :
 - **a)** les sommes versées en vertu de l’alinéa 219(2)b) de la [Loi de mise en oeuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers](/fr/Lois/Lois%20du%20Canada/1988/ch.%2028.md);
 - **b)** les sommes versées à l’égard de la partie de la taxe visée au paragraphe 165(2) et aux articles 218.1, 220.05, 220.06 et 220.08 de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) attribuable à son activité extracôtière dans la zone extracôtière de la Nouvelle-Écosse, au sens du paragraphe 123(1) de cette loi;
-- **c)** les sommes versées à l’égard de l’impôt qui serait payable au titre de la partie III de la loi intitulée Income Tax Act, chapitre 217 des lois intitulées *Revised Statutes of Nova Scotia, 1989*, avec ses modifications successives, sur le capital imposable de toute personne morale utilisé dans la zone extracôtière de la province, au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers](/fr/Lois/Lois%20du%20Canada/1988/ch.%2028.md), si cette zone était située dans la province, dans le cas où ces sommes n’ont pas été incluses à l’alinéa a).
-> 2005, ch. 30, art. 85 « 4 »; 2007, ch. 29, art. 81.
+- **c)** les sommes versées à l’égard de l’impôt qui serait payable au titre de la partie III de la loi intitulée Income Tax Act, chapitre 217 des lois intitulées *Revised Statutes of Nova Scotia, 1989*, avec ses modifications successives, sur le capital imposable de toute personne morale utilisé dans la zone extracôtière de la province, au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers](/fr/Lois/Lois%20du%20Canada/1988/ch.%2028.md), si cette zone était située dans la province, dans le cas où ces sommes n’ont pas été incluses à l’alinéa a). (*offshore revenue*)
+> 2005, ch. 30, art. 85 « 4 »; 2007, ch. 29, art. 81; 2015, ch. 4, art. 110.
 
 
 
@@ -125,12 +125,13 @@ où :
 
 **8** Le paiement de péréquation compensatoire supplémentaire versé à la province de la Nouvelle-Écosse pour un exercice correspond à la somme déterminée par le ministre au moyen de la formule suivante :
 ```
-(A - B) - C
+A – B
 ```
 où :
 - **A** représente le paiement de péréquation qui pourrait être fait à la province pour l’exercice selon la formule de péréquation en vigueur si la province n’avait pas eu de recettes extracôtières ou n’avait pas produit d’hydrocarbures;
-- **B** le paiement de péréquation qui peut être fait à la province pour l’exercice selon la formule de péréquation en vigueur;
-- **C** le paiement de péréquation compensatoire fait à la province pour l’exercice.
+- **B** le paiement de péréquation qui peut être fait à la province pour l’exercice selon la formule de péréquation en vigueur.
+> 2005, ch. 30, art. 85 « 8 »; 2015, ch. 4, art. 111.
+
 
 
 
@@ -148,22 +149,7 @@ où :
 
 
 
-
-**Paiement de transition : 2006-2011**
-
-**11** 
-
-- **(1)** Pour chacun des exercices compris entre le 1<sup>er</sup> avril 2006 et le 31 mars 2011 au cours duquel la province de la Nouvelle-Écosse ne reçoit pas de paiement de péréquation, le ministre lui verse un paiement de transition correspondant à la somme qui pourrait lui être versée en vertu de l’article 219 de la [Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador](/fr/Lois/Lois%20du%20Canada/1987/ch.%203.md) selon le calcul prévu à l’article 220 de cette loi si ces articles s’appliquaient à ses recettes extracôtières.
-
-**Paiement de transition : 2011-2012**
-
-- **(2)** Si, pour l’exercice 2011-2012, la province de la Nouvelle-Écosse ne reçoit pas de paiement de péréquation, le ministre lui verse un paiement de transition correspondant à la somme qui pourrait lui être versée en vertu de l’article 219 de la  Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador  selon le calcul prévu à l’article 220 de cette loi si ces articles s’appliquaient à ses recettes extracôtières et si le montant visé à l’alinéa 220b) de cette loi était égal à zéro.
-
-**Premier exercice de production extracôtière**
-
-- **(3)** Pour l’application du présent article, le premier exercice de production extracôtière est réputé être l’exercice commençant le 1<sup>er</sup> avril 1999.
-> 2005, ch. 30, art. 85 « 11 »; 2014, ch. 13, art. 115.
-
+**11** [Abrogé, 2015, ch. 4, art. 112]
 
 
 
@@ -234,7 +220,7 @@ où :
 
 **18** Les définitions qui suivent s’appliquent à la présente partie.
 
-***hydrocarbures*** S’entend au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador](/fr/Lois/Lois%20du%20Canada/1987/ch.%203.md).
+***hydrocarbures*** S’entend au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador](/fr/Lois/Lois%20du%20Canada/1987/ch.%203.md). (*petroleum*)
 
 ***paiement de péréquation***
 - **a)** Pour l’application de l’article 22, le paiement de péréquation que recevrait la province de Terre-Neuve-et-Labrador pour l’exercice si celui-ci était calculé au titre de l’article 3.2 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), compte non tenu de l’article 3.4 de cette loi;
@@ -243,17 +229,17 @@ où :
 A + B + (C / F)
 ```
 où :
-- **A,** B, C et F s’entendent au sens de la définition de ***capacité fiscale totale par habitant*** au paragraphe 3.5(1) de cette loi.
+- **A,** B, C et F s’entendent au sens de la définition de ***capacité fiscale totale par habitant*** au paragraphe 3.5(1) de cette loi. (*fiscal equalization payment*)
 
-***paiement de péréquation compensatoire*** Le paiement de péréquation compensatoire qui peut être fait à la province de Terre-Neuve-et-Labrador pour l’exercice sous le régime de la partie V de la Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador.
+***paiement de péréquation compensatoire***[Abrogée, 2015, ch. 4, art. 113]
 
-***paiement de péréquation compensatoire supplémentaire*** Le paiement qui peut être fait en vertu des articles 20, 21 ou 26.
+***paiement de péréquation compensatoire supplémentaire*** Le paiement qui peut être fait en vertu des articles 20, 21 ou 26. (*additional fiscal equalization offset payment*)
 
-***recettes extracôtières*** Le total des sommes ci-après payées pour un exercice à la province de Terre-Neuve-et-Labrador :
+***recettes extracôtières*** Le total des sommes ci-après payées pour un exercice à la province de Terre-Neuve-et-Labrador :
 - **a)** les sommes versées en vertu de l’alinéa 214(2)b) de la [Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador](/fr/Lois/Lois%20du%20Canada/1987/ch.%203.md);
 - **b)** les sommes versées à l’égard de la partie de la taxe visée au paragraphe 165(2) et aux articles 218.1, 220.05, 220.06 et 220.08 de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) attribuable à son activité extracôtière dans la zone extracôtière de Terre-Neuve, au sens du paragraphe 123(1) de cette loi;
-- **c)** les redevances versées sous le régime de l’accord intitulé Hibernia Development Project Royalty Agreement conclu le 1<sup>er</sup> septembre 1990, avec ses modifications successives.
-> 2005, ch. 30, art. 85 « 18 »; 2007, ch. 29, art. 82; 2014, ch. 13, art. 115.
+- **c)** les redevances versées sous le régime de l’accord intitulé Hibernia Development Project Royalty Agreement conclu le 1<sup>er</sup> septembre 1990, avec ses modifications successives. (*offshore revenue*)
+> 2005, ch. 30, art. 85 « 18 »; 2007, ch. 29, art. 82; 2014, ch. 13, art. 115; 2015, ch. 4, art. 113.
 
 
 
@@ -290,12 +276,13 @@ où :
 
 **22** Le paiement de péréquation compensatoire supplémentaire versé à la province de Terre-Neuve-et-Labrador pour un exercice correspond à la somme déterminée par le ministre au moyen de la formule suivante :
 ```
-(A - B) - C
+A – B
 ```
 où :
 - **A** représente le paiement de péréquation qui pourrait être fait à la province pour l’exercice selon la formule de péréquation en vigueur si la province n’avait pas eu de recettes extracôtières ou n’avait pas produit d’hydrocarbures;
-- **B** le paiement de péréquation qui peut être fait à la province pour l’exercice selon la formule de péréquation en vigueur;
-- **C** le paiement de péréquation compensatoire fait à la province pour l’exercice.
+- **B** le paiement de péréquation qui peut être fait à la province pour l’exercice selon la formule de péréquation en vigueur.
+> 2005, ch. 30, art. 85 « 22 »; 2015, ch. 4, art. 114.
+
 
 
 
@@ -313,12 +300,7 @@ où :
 
 
 
-
-**Paiement de transition : 2011-2012**
-
-**25** Si, pour l’exercice 2011-2012, la province de Terre-Neuve-et-Labrador ne reçoit pas de paiement de péréquation, le ministre lui verse un paiement de transition correspondant à la somme qui pourrait lui être versée en vertu de l’article 219 de la [Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve-et-Labrador](/fr/Lois/Lois%20du%20Canada/1987/ch.%203.md) selon le calcul prévu à l’article 220 de cette loi si ces articles s’appliquaient à cet exercice et si le montant visé à l’alinéa 220b) de cette loi était égal à zéro.
-> 2005, ch. 30, art. 85 « 25 »; 2014, ch. 13, art. 115.
-
+**25** [Abrogé, 2015, ch. 4, art. 115]
 
 
 
