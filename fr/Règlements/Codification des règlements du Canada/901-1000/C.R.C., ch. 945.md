@@ -51178,6 +51178,7 @@ par
 - Albany College of Pharmacy and Health Sciences, Albany, New York
 - Alfred University, Alfred, New York
 - American Film Institute Center for Advanced Film and Television Studies, Los Angeles, Californie
+- American Film Institute, Los Angeles, Californie
 - American International College, Springfield, Massachussetts
 - American Jewish University, Bel Air, Californie
 - American University, The, Washington, District de Columbia
@@ -51203,6 +51204,7 @@ par
 - Baylor College of Medicine, Houston, Texas
 - Baylor University, Waco, Texas
 - Beloit College, Beloit, Wisconsin
+- Bemidji State University, Bemidji, Minnesota
 - Bennington College, Bennington, Vermont
 - Bentley College, Waltham, Massachusetts
 - Berklee College of Music, Boston, Massachusetts
@@ -51218,10 +51220,12 @@ par
 - Bowling Green State University, Bowling Green, Ohio
 - Brandeis University, Waltham, Massachusetts
 - Brigham Young University — Hawaii Campus, Laie, Hawaii
+- Brigham Young University — Idaho, Rexburg, Idaho
 - Brigham Young University, Provo, Utah
 - Brown University, Providence, Rhode Island
 - Bryn Mawr College, Bryn Mawr, Pennsylvanie
 - Bucknell University, Lewisburg, Pennsylvanie
+- California College of the Arts, San Francisco, Californie
 - California Institute of Technology, Pasadena, Californie
 - California Institute of the Arts, Valencia, Californie
 - California Lutheran University, Thousand Oaks, Californie
@@ -51255,6 +51259,7 @@ par
 - Columbia Union College, Takoma Park, Maryland
 - Columbia University in the City of New York, New York, New York
 - Concordia College, Moorhead, Minnesota
+- Concordia University, Mequon, Wisconsin
 - Connecticut College, New London, Connecticut
 - Conway School of Landscape Design, Conway, Massachusetts
 - Cooper Union for the Advancement of Science and Art, The, New York, New York
@@ -51281,11 +51286,13 @@ par
 - Eckerd College, St. Petersburg, Floride
 - Ecumenical Theological Center, Detroit, Michigan
 - Elmira College, Elmira, New York
+- Embry-Riddle Aeronautical University, Daytona Beach, Floride
 - Emerson College, Boston, Massachusetts
 - Emmanuel School of Religion, Johnson City, Tennessee
 - Emmaus Bible College, Dubuque, Iowa
 - Emory University, Atlanta, Géorgie
 - Emporia State University, Emporia, Kansas
+- Fairleigh Dickinson University, Teaneck, New Jersey
 - Ferris State University, Big Rapids, Michigan
 - Finlandia University, Hancock, Michigan
 - Florida Atlantic University, Boca Raton, Floride
@@ -51314,12 +51321,15 @@ par
 - Hamilton College, Clinton, New York
 - Hampshire College, Amherst, Massachusetts
 - Harvard University, Cambridge, Massachusetts
+- Haverford College, Haverford, Pennsylvanie
 - Hawaii Pacific University, Honolulu , Hawaii
 - Hebrew Union College — Jewish Institute of Religion, Cincinnati, Ohio
 - Hillsdale College, Hillsdale, Michigan
+- Hobart and William Smith Colleges, Geneva, New York
 - Holy Trinity Orthodox Seminary, The, Jordanville, New York
 - Hope College, Holland, Michigan
 - Houghton College, Houghton, New York
+- Howard University, Washington, district de Columbia
 - Huntington University, Huntington, Indiana
 - Idaho State University, Pocatello, Idaho
 - Illinois Institute of Technology, Chicago, Illinois
@@ -51361,6 +51371,7 @@ par
 - Manhattanville College, Purchase, New York
 - Mankato State University, Mankato, Minnesota
 - Maranatha Baptist Bible College, Watertown, Wisconsin
+- Marian University, Fond du Lac, Wisconsin
 - Marquette University, Milwaukee, Wisconsin
 - Massachusetts Institute of Technology, Cambridge, Massachusetts
 - Mayo Foundation, Rochester, Minnesota
@@ -51414,6 +51425,7 @@ par
 - Ohio University, Athens, Ohio
 - Ohr Somayach/Joseph Tanenbaum Educational Center, Monsey, New York
 - Old Dominion University, Norfolk, Virginie
+- Olivet Nazarene University, Bourbonnais, Illinois
 - Oral Roberts University, Tulsa, Oklahoma
 - Oregon State University, Corvallis, Oregon
 - Pace University, New York, New York
@@ -51440,8 +51452,11 @@ par
 - Rabbinical Seminary of America, Forest Hills, New York
 - Reed College, Portland, Oregon
 - Reformed Theological Seminary, Jackson, Mississippi
+- Rensselaer Polytechnic Institute, Troy, New York
 - Rice University, Houston, Texas
+- Rio Grande Bible Institute, Edinburg, Texas
 - Roberts Wesleyan College, North Chili, New York
+- Rockefeller University, New York, New York
 - Rollins College, Winter Park, Floride
 - Rush University, Chicago, Illinois
 - Rutgers — The State University, New Brunswick, New Jersey
@@ -51451,6 +51466,7 @@ par
 - Saint John’s University, Collegeville, Minnesota
 - St. John’s University, Jamaica, New York
 - St. Lawrence University, Canton, New York
+- Saint Louis University, Saint-Louis, Missouri
 - Saint Mary’s University of Minnesota, Winona, Minnesota
 - St. Mary’s University of San Antonio, San Antonio, Texas
 - Saint Olaf College, Northfield, Minnesota
@@ -51480,6 +51496,7 @@ par
 - State University of New York College of Arts and Science at Plattsburgh, Plattsburgh, New York
 - Stephens College, Columbia, Missouri
 - Swarthmore College, Swarthmore, Pennsylvania
+- Syracuse University, Syracuse, New York
 - Tabor College, Hillsboro, Kansas
 - Talmudical Yeshiva of Philadelphia, Philadelphie, Pennsylvanie
 - Taylor University, Upland, Indiana
@@ -51490,6 +51507,7 @@ par
 - Temple University School of Podiatric Medicine, Philadelphie, Pennsylvanie
 - Texas A&M University, College Station, Texas
 - Texas Chiropractic College, Pasadena, Texas
+- Texas Woman’s University, Denton, Texas
 - The Herman M. Finch University of Health Sciences/The Chicago Medical School, North Chicago, Illinois
 - Thomas Aquinas College, Santa Paula, Californie
 - Thunderbird School of Global Management, Glendale, Arizona
@@ -51535,7 +51553,9 @@ par
 - University of Illinois, Urbana, Illinois
 - University of Kansas, Lawrence, Kansas
 - University of Kentucky, Lexington, Kentucky
+- University of Louisville, Louisville, Kentucky
 - University of Maine, Orono, Maine
+- University of Maryland, College Park, Maryland
 - University of Massachusetts at Amherst, Amherst, Massachusetts
 - University of Miami, Coral Gables, Floride
 - University of Michigan, The, Ann Arbor, Michigan
@@ -51550,6 +51570,7 @@ par
 - University of North Texas, Denton, Texas
 - University of Notre Dame du Lac, Notre Dame, Indiana
 - University of Oklahoma, Norman, Oklahoma
+- University of Oregon, Eugene, Oregon
 - University of Pennsylvania, Philadelphie, Pennsylvanie
 - University of Pittsburgh, Pittsburgh, Pennsylvanie
 - University of Portland, Portland, Oregon
@@ -51561,6 +51582,7 @@ par
 - University of St. Thomas, Houston, Texas
 - University of St. Thomas, St. Paul, Minnesota
 - University of Tennessee, The, Knoxville, Tennessee
+- University of Texas at Arlington, Arlington, Texas
 - University of Texas, Austin, Texas
 - University of Texas Health Science Center at Houston, Houston, Texas
 - University of Texas Southwestern Medical Center at Dallas, The, Dallas, Texas
@@ -51575,6 +51597,7 @@ par
 - University of Wisconsin-Milwaukee, Milwaukee, Wisconsin
 - University of Wyoming, The, Laramie, Wyoming
 - Utah State University of Agriculture and Applied Science, Logan, Utah
+- Utah Valley University, Orem, Utah
 - Valparaiso University, Valparaiso, Indiana
 - Vanderbilt University, Nashville, Tennessee
 - Vassar College, Poughkeepsie, New York
@@ -51609,6 +51632,7 @@ par
 **2** Les universités situées au Royaume-Uni de la Grande-Bretagne et de l’Irlande du Nord qui sont prescrites par l’article 3503 sont les suivantes :
 - Aston University, Birmingham, Angleterre
 - Brunel University, Uxbridge, England
+- City University London, Londres, Angleterre
 - Cranfield University, Bedfordshire, Angleterre
 - Gateshead Talmudical College, Gateshead, Angleterre
 - Heriot-Watt University, Édimbourg, Écosse
@@ -51616,14 +51640,17 @@ par
 - King’s College London, Londres, Angleterre
 - London Business School, Londres, Angleterre
 - London School of Economics and Political Science, The, London, England
+- London School of Hygiene & Tropical Medicine, Londres, Angleterre
 - Loughborough University, Leicestershire, Angleterre
 - Queen’s University of Belfast, The, Belfast, Irlande du Nord
+- Swansea University, Swansea, Pays de Galles
 - University College London, Londres, Angleterre
 - University of Aberdeen, Aberdeen, Écosse
 - University of Bath, The, Bath, Angleterre
 - University of Birmingham, Birmingham, Angleterre
 - University of Bradford, Bradford, Angleterre
 - University of Bristol, Bristol, Angleterre
+- University of Buckingham, The, Buckingham, Angleterre
 - University of Cambridge, Cambridge, Angleterre
 - University of Dundee, The, Dundee, Écosse
 - University of Durham, Durham, Angleterre
@@ -51776,7 +51803,7 @@ par
 - Université de Tartu, Tartu
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-256, art. 1; DORS/79-336, art. 1; DORS/80-321, art. 1 à 4; DORS/81-234, art. 1; DORS/82-408, art. 1; DORS/83-359, art. 1 à 3; DORS/84-222, art. 1 et 2; DORS/85-332, art. 1 et 2; DORS/86-382, art. 1 à 3; DORS/87-472, art. 1 et 2; DORS/88-209, art. 1 à 3; DORS/89-233, art. 1 à 3; DORS/90-411, art. 2 à 4; DORS/91-198, art. 1 à 3; DORS/92-332, art. 1 à 4; DORS/93-229, art. 1 et 2; DORS/94-395, art. 1 à 6; DORS/95-184, art. 1 et 2; DORS/96-250, art. 1 à 6; DORS/97-385, art. 1; DORS/2000-191, art. 1 à 9; DORS/2001-172, art. 1 à 10; DORS/2003-5, art. 15 à 19; DORS/2005-123, art. 7 et 8; DORS/2005-185, art. 5; DORS/2006-200, art. 2 à 7; DORS/2006-205, art. 1 à 3; DORS/2010-96, art. 3 à 7; DORS/2012-218, art. 1 à 9; DORS/2014-81, art. 1 à 10.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-256, art. 1; DORS/79-336, art. 1; DORS/80-321, art. 1 à 4; DORS/81-234, art. 1; DORS/82-408, art. 1; DORS/83-359, art. 1 à 3; DORS/84-222, art. 1 et 2; DORS/85-332, art. 1 et 2; DORS/86-382, art. 1 à 3; DORS/87-472, art. 1 et 2; DORS/88-209, art. 1 à 3; DORS/89-233, art. 1 à 3; DORS/90-411, art. 2 à 4; DORS/91-198, art. 1 à 3; DORS/92-332, art. 1 à 4; DORS/93-229, art. 1 et 2; DORS/94-395, art. 1 à 6; DORS/95-184, art. 1 et 2; DORS/96-250, art. 1 à 6; DORS/97-385, art. 1; DORS/2000-191, art. 1 à 9; DORS/2001-172, art. 1 à 10; DORS/2003-5, art. 15 à 19; DORS/2005-123, art. 7 et 8; DORS/2005-185, art. 5; DORS/2006-200, art. 2 à 7; DORS/2006-205, art. 1 à 3; DORS/2010-96, art. 3 à 7; DORS/2012-218, art. 1 à 9; DORS/2014-81, art. 1 à 10; DORS/2015-170, art. 4 et 5.
 
 
 
