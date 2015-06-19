@@ -69,28 +69,28 @@ Assented to on 29 June 2005
 
 **4** The following definitions apply in this Part.
 
-***additional fiscal equalization offset payment*** means the payment that may be made under section 6, 7 or 12.
+***additional fiscal equalization offset payment*** means the payment that may be made under section 6, 7 or 12. (*paiement de péréquation compensatoire supplémentaire*)
 
-***fiscal equalization offset payment*** means the fiscal equalization offset payment that may be made to the Province for a fiscal year under Part V of the Canada–Nova Scotia Offshore Petroleum Resources Accord Implementation Act.
+***fiscal equalization offset payment***[Repealed, 2015, c. 4, s. 110]
 
-***fiscal equalization payment*** means 
+***fiscal equalization payment*** means 
 - **(a)** for the purposes of section 8, the fiscal equalization payment that would be received by the Province for a fiscal year if the amount of that payment were determined in accord-ance with section 3.2 of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md), without regard to section 3.4 of that Act; and
 - **(b)** for the purposes of sections 10 to 12, the fiscal equalization payment that would be received by the Province for a fiscal year under Part I of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md) if the Province’s total per capita fiscal capacity were the amount determined by the formula
 ```
 A + B + (C / F)
 ```
 where
-- **A,** B, C and F have the same meaning as in the definition ***total per capita fiscal capacity*** in subsection 3.5(1) of that Act.
+- **A,** B, C and F have the same meaning as in the definition ***total per capita fiscal capacity*** in subsection 3.5(1) of that Act. (*paiement de péréquation*)
 
-***offshore revenue*** in respect of any fiscal year means the aggregate of the following amounts paid to the Province for that fiscal year:
+***offshore revenue*** in respect of any fiscal year means the aggregate of the following amounts paid to the Province for that fiscal year:
 - **(a)** amounts paid under paragraph 219(2)(b) of the Canada–Nova Scotia Offshore Petroleum Resources Accord Implementation Act;
 - **(b)** amounts paid with respect to the portion of tax under subsection 165(2) and sections 218.1, 220.05, 220.06 and 220.08 of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) that is attributable to offshore activity in the Nova Scotia offshore area, within the meaning of subsection 123(1) of that Act; and
-- **(c)** amounts paid with respect to tax that would be payable under Part III of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) (Nova Scotia), R.S.N.S. 1989, c. 217, as amended from time to time, on taxable capital of a corporation employed in the offshore area within the meaning of section 2 of the Canada–Nova Scotia Offshore Petroleum Resources Accord Implementation Act if that area were in the land portion of the Province, unless those amounts have been included in paragraph (a).
+- **(c)** amounts paid with respect to tax that would be payable under Part III of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) (Nova Scotia), R.S.N.S. 1989, c. 217, as amended from time to time, on taxable capital of a corporation employed in the offshore area within the meaning of section 2 of the Canada–Nova Scotia Offshore Petroleum Resources Accord Implementation Act if that area were in the land portion of the Province, unless those amounts have been included in paragraph (a). (*recettes extracôtières*)
 
-***petroleum*** has the same meaning as in section 2 of the Canada–Nova Scotia Offshore Petroleum Resources Accord Implementation Act.
+***petroleum*** has the same meaning as in section 2 of the Canada–Nova Scotia Offshore Petroleum Resources Accord Implementation Act. (*hydro­carbures*)
 
-Version anglaise seulement***Province*** means the Province of Nova Scotia.
-> 2005, c. 30, s. 85 “4”; 2007, c. 29, s. 81.
+***Province*** means the Province of Nova Scotia. (***Version anglaise seulement***)
+> 2005, c. 30, s. 85 “4”; 2007, c. 29, s. 81; 2015, c. 4, s. 110.
 
 
 
@@ -127,12 +127,13 @@ Version anglaise seulement***Province*** means the Province of Nova Scotia.
 
 **8** The additional fiscal equalization offset payment that shall be made to the Province for a fiscal year corresponds to the amount determined by the Minister in accordance with the formula
 ```
-(A - B) - C
+A – B
 ```
 where
-- **A** is the fiscal equalization payment that may be made to the Province for the fiscal year under the equalization formula in effect at that time, calculated as if the Province did not have any offshore revenue or petroleum production;
-- **B** is the fiscal equalization payment that may be made to the Province for that fiscal year under the equalization formula in effect at that time; and
-- **C** is the fiscal equalization offset payment for that fiscal year.
+- **A** is the fiscal equalization payment that may be made to the Province for the fiscal year under the equalization formula in effect at that time, calculated as if the Province did not have any offshore revenue or petroleum production; and
+- **B** is the fiscal equalization payment that may be made to the Province for that fiscal year under the equalization formula in effect at that time.
+> 2005, c. 30, s. 85 “8”; 2015, c. 4, s. 111.
+
 
 
 
@@ -150,22 +151,7 @@ where
 
 
 
-
-**Transitional payments for the 2006-2011 period**
-
-**11** 
-
-- **(1)** For each fiscal year between April 1, 2006 and March 31, 2011 in which the Province does not receive a fiscal equalization payment, the Minister shall make a transitional payment to the Province equal in amount to the sum that would be payable, under section 219 of the [Canada–Newfoundland and Labrador Atlantic Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1987/c.%203.md), and that would be determined, under section 220 of that Act, as if those sections applied to that Province’s offshore revenue.
-
-**Transitional payment for 2011-2012**
-
-- **(2)** If the Province does not receive a fiscal equalization payment for the 2011-2012 fiscal year, the Minister shall make a transitional payment equal in amount to the sum that would be payable, under section 219 of the [Canada–Newfoundland and Labrador Atlantic Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1987/c.%203.md), and that would be determined, under section 220 of that Act, as if those sections applied to that Province’s offshore revenue and the amount determined in accordance with paragraph 220(b) of that Act is equal to zero.
-
-**First fiscal year of production**
-
-- **(3)** For the purpose of this section, the first fiscal year of offshore production is the fiscal year beginning on April 1, 1999.
-> 2005, c. 30, s. 85 "11"; 2014, c. 13, s. 115.
-
+**11** [Repealed, 2015, c. 4, s. 112]
 
 
 
@@ -236,28 +222,28 @@ where
 
 **18** The following definitions apply in this Part.
 
-***additional fiscal equalization offset payment*** means the payment that may be made under section 20, 21 or 26.
+***additional fiscal equalization offset payment*** means the payment that may be made under section 20, 21 or 26. (*paiement de péréquation compensatoire supplémentaire*)
 
-***fiscal equalization offset payment*** means the fiscal equalization offset payment that may be made to the Province for a fiscal year under Part V of the [Canada–Newfoundland and Labrador Atlantic Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1987/c.%203.md).
+***fiscal equalization offset payment***[Repealed, 2015, c. 4, s. 113]
 
-***fiscal equalization payment*** means
+***fiscal equalization payment*** means
 - **(a)** for the purposes of section 22, the fiscal equalization payment that would be received by the Province for a fiscal year if the amount of that payment were determined in accord- ance with section 3.2 of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md), without regard to section 3.4 of that Act; and
 - **(b)** for the purposes of sections 24 to 26, the fiscal equalization payment that would be received by the Province for a fiscal year under Part I of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md) if the Province’s total per capita fiscal capacity were the amount determined by the formula
 ```
 A + B + (C / F)
 ```
 where
-- **A,** B, C and F have the same meaning as in the definition ***total per capita fiscal capacity*** in subsection 3.5(1) of that Act.
+- **A,** B, C and F have the same meaning as in the definition ***total per capita fiscal capacity*** in subsection 3.5(1) of that Act. (*paiement de péréquation*)
 
 ***offshore revenue***, in respect of any fiscal year, means the aggregate of the following amounts paid to the Province for that fiscal year: 
 - **(a)** amounts paid under paragraph 214(2)(b) of the [Canada–Newfoundland and Labrador Atlantic Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1987/c.%203.md);
 - **(b)** amounts paid with respect to the portion of tax under subsection 165(2) and sections 218.1, 220.05, 220.06 and 220.08 of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) that is attributable to offshore activity in the Newfoundland offshore area, within the meaning of subsection 123(1) of that Act; and
-- **(c)** the royalties paid under the Hibernia Development Project Royalty Agreement signed on September 1, 1990, as amended from time to time.
+- **(c)** the royalties paid under the Hibernia Development Project Royalty Agreement signed on September 1, 1990, as amended from time to time. (*recettes extracôtières*)
 
-***petroleum*** has the same meaning as in section 2 of the Canada–Newfoundland and Labrador Atlantic Accord Implementation Act.
+***petroleum*** has the same meaning as in section 2 of the [Canada–Newfoundland and Labrador Atlantic Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1987/c.%203.md). (*hydro­carbures*)
 
-Version anglaise seulement***Province*** means the Province of Newfoundland and Labrador.
-> 2005, c. 30, s. 85 "18"; 2007, c. 29, s. 82; 2014, c. 13, s. 115.
+***Province*** means the Province of Newfoundland and Labrador. (***Version anglaise seulement***)
+> 2005, c. 30, s. 85 “18”; 2007, c. 29, s. 82; 2014, c. 13, s. 115; 2015, c. 4, s. 113.
 
 
 
@@ -294,12 +280,13 @@ Version anglaise seulement***Province*** means the Province of Newfoundland and 
 
 **22** The additional fiscal equalization offset payment that shall be made to the Province for a fiscal year corresponds to the amount determined by the Minister in accordance with the formula
 ```
-(A - B) - C
+A – B
 ```
 where
-- **A** is the fiscal equalization payment that may be made to the Province for the fiscal year under the equalization formula in effect at that time, calculated as if the Province did not have any offshore revenue or petroleum production;
-- **B** is the fiscal equalization payment to the Province for that fiscal year under the equalization formula in effect at that time; and
-- **C** is the fiscal equalization offset payment for that fiscal year.
+- **A** is the fiscal equalization payment that may be made to the Province for the fiscal year under the equalization formula in effect at that time, calculated as if the Province did not have any offshore revenue or petroleum production; and
+- **B** is the fiscal equalization payment to the Province for that fiscal year under the equalization formula in effect at that time.
+> 2005, c. 30, s. 85 “2”; 2015, c. 4, s. 114.
+
 
 
 
@@ -317,12 +304,7 @@ where
 
 
 
-
-**Transitional payments for 2011-2012**
-
-**25** If the Province does not receive a fiscal equalization payment for the 2011-2012 fiscal year, the Minister shall make a transitional payment equal in amount to the sum that would be payable under section 219 of the [Canada–Newfoundland and Labrador Atlantic Accord Implementation Act](/en/Acts/Statutes%20of%20Canada/1987/c.%203.md), and that would be determined, under section 220 of that Act, as if those sections applied to that fiscal year and the amount determined in accordance with paragraph 220(b) of that Act is equal to zero.
-> 2005, c. 30, s. 85 "25"; 2014, c. 13, s. 115.
-
+**25** [Repealed, 2015, c. 4, s. 115]
 
 
 
