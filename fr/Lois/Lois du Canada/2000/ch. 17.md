@@ -329,25 +329,41 @@ Est assimilé à la personne tout membre de sa famille visé par règlement.
 
 
 
-**Filiales étrangères**
+**Succursales et filiales étrangères**
 
 **9.7** 
 
-- **(1)** Les entités visées aux alinéas 5a) à g), à l’exclusion des banques étrangères autorisées, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), et des sociétés étrangères, au sens de l’article 2 de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md), veillent à ce que leurs filiales à cent pour cent qui sont situées dans un pays ne faisant pas partie du Groupe d’action financière et qui exercent des activités semblables à celles des personnes et entités visées à ces alinéas élaborent et mettent en application les principes et les mesures compatibles avec les obligations prévues aux articles 6, 6.1 et 9.6 lorsque les lois de ce pays le permettent.
+- **(1)** Il incombe à toute entité visée à l’un des alinéas 5a) à g), à l’exclusion des banques étrangères autorisées, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), et des sociétés étrangères, au sens de l’article 2 de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md), d’élaborer des principes prévoyant des obligations similaires aux obligations prévues aux articles 6, 6.1 et 9.6 pour ses succursales étrangères et pour ses filiales étrangères qui exercent des activités semblables à celles des entités visées à ces alinéas et avec lesquelles ses résultats financiers sont consolidés ou qui est une filiale à cent pour cent de celle-ci et de veiller à ce que ces succursales et ces filiales les mettent en application lorsque les lois du pays où se trouve la succursale ou la filiale le permettent et que leur application n’est pas en conflit avec celles-ci.
+
+**Approbation du conseil d’administration**
+
+- **(2)** Lorsque l’entité visée au paragraphe (1) a un conseil d’administration, celui-ci approuve les principes avant leur mise en application.
+
+**Exceptions**
+
+- **(3)** Le paragraphe (1) ne s’applique pas :
+	- **a)** à une entité qui est une filiale d’une entité visée à ce paragraphe;
+	- **b)** à une entité qui est une filiale d’une entité étrangère, si la filiale met en application, dans la mesure où cela est permis par les lois fédérales ou provinciales du Canada et n’entre pas en conflit avec ceux-ci, les principes qui ont été élaborés par l’entité étrangère et qui prévoient des obligations semblables à celles prévues aux articles 6, 6.1 et 9.6 pour ses filiales.
 
 **Tenue de documents**
 
-- **(2)** Elles documentent, en conformité avec l’article 6, les cas où une de leurs filiales ne peut ni élaborer ni mettre en application un principe ou une mesure parce que cela contreviendrait aux lois du pays dans lequel elle se trouve.
-> 2006, ch. 12, art. 8; 2010, ch. 12, art. 1866.
+- **(4)** L’entité tient et conserve, en application de l’article 6, les cas où une de ses succursales étrangères ou de ses filiales étrangères ne peut pas mettre en application un principe visé au paragraphe (1) parce que cela n’est pas permis par les lois du pays où la succursale étrangère ou la filiale étrangère se trouve ou entrerait en conflit avec les lois de ce pays, motifs à l’appui, et les signale au Centre et à l’autorité ou à l’organisme principal de surveillance ou de réglementation dont elle relève sous le régime d’une loi fédérale ou provinciale dans un délai raisonnable.
+> 2006, ch. 12, art. 8; 2010, ch. 12, art. 1866; 2014, ch. 20, art. 260.
 
 
 
 
 
-**Succursales étrangères**
+**Partage de renseignements entre entités du même groupe**
 
-**9.8** Les entités visées aux alinéas 5a) à g), à l’exclusion des banques étrangères autorisées, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), et des sociétés étrangères, au sens de l’article 2 de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md), veillent à ce que leurs succursales situées dans un pays ne faisant pas partie du Groupe d’action financière et qui exercent des activités semblables à celles des personnes et entités visées à ces alinéas élaborent et mettent en application les principes et les mesures compatibles avec les obligations prévues aux articles 6, 6.1 et 9.6 lorsque les lois de ce pays le permettent.
-> 2006, ch. 12, art. 8; 2010, ch. 12, art. 1866.
+**9.8** 
+
+- **(1)** Il incombe à toute entité visée à l’un des alinéas 5a) à g) du même groupe qu’une autre entité visée à ces alinéas ou qu’une entité étrangère qui exerce des activités semblables à celles des entités visées à ces alinéas d’élaborer et de mettre en application des principes et des mesures liés au partage de renseignements, entre elle et cette autre entité ou entité étrangère du même groupe, des renseignements en vue de détecter les infractions de recyclage des produits de la criminalité et les infractions de financement des activités terroristes, d’en décourager la perpétration ou d’en évaluer les risques.
+
+**Même groupe**
+
+- **(2)** Pour l’application du paragraphe (1), sont du même groupe les entités dont l’une est entièrement propriétaire de l’autre, celles qui sont entièrement la propriété de la même entité ou celles dont les états financiers sont consolidés.
+> 2006, ch. 12, art. 8; 2010, ch. 12, art. 1866; 2014, ch. 20, art. 260.
 
 
 
