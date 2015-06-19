@@ -331,25 +331,41 @@ It includes any prescribed family member of such a person.
 
 
 
-**Foreign subsidiaries**
+**Foreign branches and subsidiaries**
 
 **9.7** 
 
-- **(1)** Every entity referred to in any of paragraphs 5(a) to (g), except for authorized foreign banks within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) and for foreign companies within the meaning of section 2 of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md), shall ensure that their wholly owned subsidiaries that are located in a country that is not a member of the Financial Action Task Force and that carry out activities similar to those of persons and entities referred to in those paragraphs develop and apply policies and procedures that are consistent with the requirements of sections 6, 6.1 and 9.6, when the laws of the country permit it.
+- **(1)** Every entity referred to in any of paragraphs 5(a) to (g), except for authorized foreign banks within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) and for foreign companies within the meaning of section 2 of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md), shall, in respect of its foreign branches, and in respect of its foreign subsidiaries that carry out activities similar to those of entities referred to in those paragraphs and that are either wholly-owned by the entity or have financial statements that are consolidated with those of the entity, develop policies that establish requirements similar to the requirements of sections 6, 6.1 and 9.6 and ensure that those branches and subsidiaries apply those policies to the extent it is permitted by, and does not conflict with, the laws of the country in which the branch or subsidiary is located.
 
-**Record keeping**
+**Board approval of policies**
 
-- **(2)** If the development or application by a subsidiary of a policy or procedure referred to in subsection (1) would contravene the laws of the country in which the subsidiary is located, the entity shall keep and retain a record of that fact in accordance with section 6.
-> 2006, c. 12, s. 8; 2010, c. 12, s. 1866.
+- **(2)** Before the policies referred to in subsection (1) are applied, the entity’s board of directors, if there is one, shall approve them.
+
+**Exceptions**
+
+- **(3)** Subsection (1) does not apply to
+	- **(a)** an entity that is a subsidiary of an entity to which that subsection applies; or
+	- **(b)** an entity that is a subsidiary of a foreign entity that has developed policies that establish requirements for its subsidiaries that are similar to the requirements of sections 6, 6.1 and 9.6, if that subsidiary is applying those policies to the extent it is permitted by, and do not conflict with, the laws of Canada or a province.
+
+**Records and reporting**
+
+- **(4)** If the application by a foreign branch or a foreign subsidiary of a policy referred to in subsection (1) is not permitted by or would conflict with the laws of the country in which the branch or subsidiary is located, the entity shall keep and retain, in accordance with section 6, a record of that fact and of the reasons why it is not permitted or it would conflict, and shall, within a reasonable time, notify the Centre, and the principal agency or body that supervises or regulates it under federal or provincial law, of that fact and those reasons.
+> 2006, c. 12, s. 8; 2010, c. 12, s. 1866; 2014, c. 20, s. 260.
 
 
 
 
 
-**Foreign branches**
+**Information exchange between affiliated entities**
 
-**9.8** Every entity referred to in paragraphs 5(a) to (g), except for authorized foreign banks within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) and for foreign companies within the meaning of section 2 of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md), shall ensure that their branches that are located in a country that is not a member of the Financial Action Task Force and that carry out activities similar to those of persons and entities referred to in those paragraphs develop and apply policies and procedures that are consistent with the requirements of sections 6, 6.1 and 9.6 when the laws of the country permit it.
-> 2006, c. 12, s. 8; 2010, c. 12, s. 1866.
+**9.8** 
+
+- **(1)** Every entity referred to in any of paragraphs 5(a) to (g) that is affiliated with an entity referred to in those paragraphs or with a foreign entity that carries out activities similar to those of entities referred to in those paragraphs shall develop and apply policies and procedures related to the exchange of information between the entity and those affiliated entities for the purpose of detecting or deterring a money laundering offence or a terrorist activity financing offence or of assessing the risk of such an offence.
+
+**Affiliation**
+
+- **(2)** For the purposes of subsection (1), an entity is affiliated with another entity if one of them is wholly owned by the other, if both are wholly owned by the same entity or if their financial statements are consolidated.
+> 2006, c. 12, s. 8; 2010, c. 12, s. 1866; 2014, c. 20, s. 260.
 
 
 
