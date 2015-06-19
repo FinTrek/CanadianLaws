@@ -935,7 +935,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**174** [Dispositions transitoires]
+**174** [Abrogé, 2015, ch. 4, art. 116]
 
 
 
