@@ -1838,7 +1838,8 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 			- **(C)** a mis ou mettra, directement ou indirectement, des ressources à la disposition d’une entité inscrite, au sens de ce paragraphe 83.01(1), qui se livre ou se livrera à des activités visées au sous-alinéa (B);
 	- **d)** à l’Agence des services frontaliers du Canada, si en outre il estime que les renseignements sont utiles pour établir si une personne est visée aux articles 34 à 42 de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) ou qu’ils se rapportent à une infraction prévue aux articles 91, 117 à 119, 126 et 127 de cette loi;
 	- **e)** à l’Agence des services frontaliers du Canada, si en outre il estime que les renseignements sont utiles aux fins d’enquête ou de poursuite relativement à une infraction qui consiste dans la contrebande — ou la tentative de contrebande — de marchandises passibles de droits ou à une infraction qui a trait à des marchandises dont l’importation ou l’exportation est prohibée, contrôlée ou réglementée en vertu de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) ou de toute autre loi fédérale;
-	- **f)** au Centre de la sécurité des télécommunications, si en outre il estime que les renseignements concernent le mandat de ce centre visé à l’alinéa 273.64(1)a) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md).
+	- **f)** au Centre de la sécurité des télécommunications, si en outre il estime que les renseignements concernent le mandat de ce centre visé à l’alinéa 273.64(1)a) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md);
+	- **g)** à un organisme chargé de l’application de la législation en valeurs mobilières d’une province, si en outre il a des motifs raisonnables de soupçonner que les renseignements seraient utiles aux fins d’enquête ou de poursuite relativement à une infraction à cette législation.
 
 **Exception**
 
@@ -1878,7 +1879,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 	- **o)** les renseignements relatifs à l’importation ou à l’exportation qui figurent dans le rapport visé à l’article 20;
 	- **p)** lorsqu’il s’agit d’un télévirement au sens du [Règlement sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2002/184.md), les renseignements relatifs à une opération financière contenus dans une déclaration visée à l’article 9 s’ils sont des précisions relatives au paiement au client bénéficiaire, au sens donné à ce terme par la *Society for Worldwide Interbank Financial Telecommunication*;
 	- **q)** les renseignements relatifs à l’opération financière effectuée ou tentée, à l’importation ou à l’exportation qui sont reçus par le Centre par l’entremise d’un organisme en vertu d’un accord visé à l’article 56 et sur lesquels reposent les motifs raisonnables de cet organisme de soupçonner qu’ils seraient utiles aux fins d’enquête ou de poursuite relativement à une infraction de recyclage des produits de la criminalité ou à une infraction de financement des activités terroristes, ou à une infraction essentiellement similaire.
-> 2000, ch. 17, art. 55; 2001, ch. 12, art. 2, ch. 27, art. 270, ch. 41, art. 67 et 123; 2005, ch. 38, art. 126; 2006, ch. 12, art. 26; 2010, ch. 12, art. 1874; 2014, ch. 20, art. 282.
+> 2000, ch. 17, art. 55; 2001, ch. 12, art. 2, ch. 27, art. 270, ch. 41, art. 67 et 123; 2005, ch. 38, art. 126; 2006, ch. 12, art. 26; 2010, ch. 12, art. 1874; 2014, ch. 20, art. 282; 2015, ch. 36, art. 167.
 
 
 
