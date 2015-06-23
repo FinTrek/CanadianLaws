@@ -216,6 +216,67 @@ and an amendment so laid stands referred to the standing committee of each House
 
 
 
+## Marine Conservation Areas in Ontario
+
+
+
+**Definitions**
+
+**7.1** 
+
+- **(1)** The following definitions apply in this section.
+
+***Ontario Water Resources Act*** means the Ontario Water Resources Act, R.S.O. 1990, c. O.40, as amended from time to time. (*Loi sur les ressources en eau de l’Ontario*)
+
+***water taking*** means the taking of water within the meaning of the Ontario Water Resources Act or any regulations made under it, as those regulations are amended from time to time, however the reference to the taking of water is expressed grammatically in that Act or those regulations. (*prélèvement d’eau*)
+
+***water transfer*** means the transfer of water within the meaning of the Ontario Water Resources Act or any regulations made under it, as those regulations are amended from time to time, however the reference to the transfer of water is expressed grammatically in that Act or those regulations. (*transfert d’eau*)
+
+**Marine conservation areas in Ontario**
+
+- **(2)** The provisions concerning water taking and water transfer of the laws of Ontario, as those provisions are amended from time to time, apply within a marine conservation area in Ontario.
+
+**Laws of Ontario**
+
+- **(3)** For greater certainty, the laws of Ontario whose provisions concerning water taking and water transfer apply within a marine conservation area in Ontario include the Ontario Water Resources Act, the Environmental Bill of Rights, 1993, S.O. 1993, c. 28, as amended from time to time, and any regulations made under either of them, as those regulations are amended from time to time.
+
+**Application**
+
+- **(4)** The provisions of the laws of Ontario that relate to the following matters, as those provisions are amended from time to time, apply within a marine conservation area in Ontario with regard to water taking and water transfer:
+	- **(a)** the administration and enforcement of the laws referred to in subsections (2) and (3);
+	- **(b)** orders by provincial officers, as defined in the Ontario Water Resources Act, and the review of those orders;
+	- **(c)** orders by Directors, as defined in the Ontario Water Resources Act; and
+	- **(d)** hearings held by the Environmental Review Tribunal, within the meaning assigned by the definition ***Tribunal***” in the Ontario Water Resources Act, and appeals from its decisions.
+
+**Sections 18 and 19**
+
+- **(5)** Despite sections 18 and 19, the duties of marine conservation area wardens and enforcement officers do not include the administration or enforcement of the provisions of the laws of Ontario referred to in subsections (2) to (4).
+
+**Administration and enforcement**
+
+- **(6)** Persons who are authorized under the laws of Ontario to administer and enforce the provisions of the laws of Ontario referred to in subsections (2) to (4) outside a marine conservation area in Ontario are authorized to administer and enforce those provisions within a marine conservation area in Ontario.
+
+**Ontario Provincial Offences Act**
+
+- **(7)** The Provincial Offences Act, R.S.O. 1990, c. P.33, as amended from time to time, applies to contraventions of the provisions of the laws of Ontario referred to in subsections (2) to (4).
+
+**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+- **(8)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to any instrument that is made or issued under any of the provisions of the laws of Ontario referred to in subsections (2) to (4).
+
+**Permits and authorizations**
+
+- **(9)** The superintendent of a marine conservation area in Ontario shall not issue a permit or other authorizing instrument relating to water taking or water transfer within the marine conservation area, or amend a permit or other authorizing instrument so as to allow water taking or water transfer within the area.
+
+**Section 12**
+
+- **(10)** Section 12 does not apply in respect of any activity that is carried out in conformity with a permit or other authorizing instrument relating to water taking or water transfer within a marine conservation area in Ontario that is made or issued under any of the laws of Ontario referred to in subsections (2) to (4).
+> 2015, c. 38, s. 2.
+
+
+
+
+
 ## Administration
 
 
@@ -339,7 +400,7 @@ and an amendment so laid stands referred to the standing committee of each House
 
 **15** 
 
-- **(1)** To the extent authorized by the regulations, the superintendent of a marine conservation area may issue, amend, suspend and revoke permits and other authorizing instruments for activities that are consistent with the management plan or interim management plan in the marine conservation area.
+- **(1)** Subject to section 7.1, the superintendent of a marine conservation area may, to the extent authorized by the regulations, issue, amend, suspend and revoke permits and other authorizing instruments for activities that are consistent with the management plan or interim management plan in the marine conservation area.
 
 **Fishing licences**
 
@@ -348,6 +409,8 @@ and an amendment so laid stands referred to the standing committee of each House
 **Superintendent may not amend**
 
 - **(3)** For greater certainty, the superintendent of a marine conservation area may not amend, suspend or revoke a fishing licence issued under the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md).
+> 2002, c. 18, s. 15; 2015, c. 38, s. 3.
+
 
 
 
