@@ -9418,7 +9418,36 @@ si l’opération avait pour effet de porter à plus de cinquante pour cent de s
 
 
 
-**435.2** [Abrogé, 2007, ch. 6, art. 181]
+
+**Privilège relatif à la preuve**
+
+**435.2** 
+
+- **(1)** Les renseignements relatifs à la supervision exercée par le surintendant qui sont précisés par règlement ne peuvent servir de preuve dans aucune procédure civile et sont protégés à cette fin.
+
+**Témoignage ou production**
+
+- **(2)** Nul ne peut être tenu, par ordonnance d’un tribunal ou d’un autre organisme, dans quelque procédure civile que ce soit, de faire une déposition orale ou de produire un document ayant trait aux renseignements visés au paragraphe (1).
+
+**Exceptions au paragraphe (1)**
+
+- **(3)** Malgré le paragraphe (1) :
+	- **a)** le ministre, le surintendant ou le procureur général du Canada peut, conformément aux éventuels règlements, utiliser comme preuve les renseignements visés à ce paragraphe par règlement dans toute procédure;
+	- **b)** l’association peut, conformément aux éventuels règlements, les utiliser comme preuve dans toute procédure concernant l’application de la présente loi ou de la [Loi sur les liquidations et les restructurations](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-11.md) intentée par elle, le ministre, le surintendant ou le procureur général du Canada.
+
+**Exceptions aux paragraphes (1) et (2)**
+
+- **(4)** Malgré les paragraphes (1) et (2) et l’article 39.1 de la [Loi sur le Bureau du surintendant des institutions financières](/fr/Lois/Lois%20du%20Canada/1985/ch.%2018%20(3e%20suppl.),%20partie%20I.md), le ministre, le surintendant ou l’association peut être tenu, par ordonnance d’un tribunal ou d’un autre organisme, dans quelque procédure civile que ce soit concernant l’application de la présente loi intentée par le ministre, le surintendant, le procureur général du Canada ou l’association, de faire une déposition orale ou de produire un document ayant trait aux renseignements visés au paragraphe (1).
+
+**Non-renonciation**
+
+- **(5)** La communication, autrement que dans le cadre des paragraphes (3) ou (4), de renseignements visés au paragraphe (1) ne constitue pas une renonciation à la protection visée à ce paragraphe.
+
+**Règlement**
+
+- **(6)** Pour l’application du paragraphe (3), le gouverneur en conseil peut prendre des règlements concernant les circonstances dans lesquelles les renseignements visés au paragraphe (1) peuvent servir de preuve.
+> 2001, ch. 9, art. 327; 2007, ch. 6, art. 181; 2015, ch. 36, art. 238.
+
 
 
 
