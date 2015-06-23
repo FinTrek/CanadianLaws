@@ -53,11 +53,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-#### Modification conditionnelle
-
-
-**10** [Modification]
+**10** [Abrogé, 2015, ch. 36, art. 160]
 
 
 
