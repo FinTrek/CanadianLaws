@@ -87,7 +87,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(1)** La présente loi s’applique aux salariés employés :
 	- **a)** dans les ministères et administrations mentionnés à l’annexe I;
 	- **b)** dans les conseils, commissions, sociétés et autres organismes mentionnés à l’annexe II;
-	- **c)** par le Sénat, la Chambre des communes et la Bibliothèque du Parlement.
+	- **c)** par le Sénat, la Chambre des communes, la Bibliothèque du Parlement et le Service de protection parlementaire.
 
 **Idem**
 
@@ -112,7 +112,7 @@ Ces personnes sont, pour l’application de la présente loi, assimilées à des
 **Exclusion**
 
 - **(4)** Il demeure entendu que la présente loi ne s’applique pas aux personnes engagées à titre d’entrepreneurs indépendants.
-> 1991, ch. 30, art. 3; 1993, ch. 13, art. 3.
+> 1991, ch. 30, art. 3; 1993, ch. 13, art. 3; 2015, ch. 36, art. 150.
 
 
 
