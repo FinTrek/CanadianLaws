@@ -212,7 +212,7 @@ et, aux fins des alinéas a) et b), comprend une période d’une heure ou d’u
 
 **8** 
 
-- **(1)** Sous réserve des paragraphes (1.1), (1.11), (1.12) et (2), la cotisation de l’employé et la cotisation de l’employeur doivent être remises au receveur général au plus tard le 15<sup>e</sup> jour du mois qui suit celui au cours duquel l’employeur a payé à l’employé la rémunération à l’égard de laquelle les cotisations devaient être versées.
+- **(1)** Sous réserve des paragraphes (1.1), (1.11), (1.12), (1.13) et (2), la cotisation de l’employé et la cotisation de l’employeur doivent être remises au receveur général au plus tard le 15<sup>e</sup> jour du mois qui suit celui au cours duquel l’employeur a payé à l’employé la rémunération à l’égard de laquelle les cotisations devaient être versées.
 
 - **(1.1)** Sous réserve du paragraphe (1.11), dans le cas où la retenue mensuelle moyenne effectuée par un employeur pour la deuxième année civile précédant une année civile donnée est :
 	- **a)** égale ou supérieure à 25 000 $ et inférieure à 100 000 $, l’employeur doit remettre au receveur général la cotisation de l’employé et la cotisation de l’employeur :
@@ -240,12 +240,21 @@ les cotisations payables au cours d’un mois qui se termine après le moment do
 	- **f)** au plus tard le 15 octobre de l’année civile donnée en ce qui concerne les cotisations payées au cours des mois de juillet, août et septembre de l’année donnée,
 	- **g)** au plus tard le 15 janvier de l’année qui suit l’année civile donnée en ce qui concerne les cotisations payées au cours des mois d’octobre, novembre et décembre de l’année donnée.
 
-- **(1.2)** Pour l’application du présent article, la retenue mensuelle moyenne effectuée par un employeur pour une année civile est déterminée conformément aux paragraphes 108(1.2) et (1.3) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md).
+- **(1.13)** Lorsqu’un employeur est un nouvel employeur tout au long d’un mois donné d’une année civile donnée, les cotisations à être versées au cours du mois peuvent être remises par l’employeur au receveur général :
+	- **a)** au plus tard le 15 avril de l’année civile donnée en ce qui concerne les cotisations versées au cours des mois de janvier, février et mars de cette année;
+	- **b)** au plus tard le 15 juillet de l’année civile donnée en ce qui concerne les cotisations versées au cours des mois d’avril, mai et juin de cette année;
+	- **c)** au plus tard le 15 octobre de l’année civile donnée en ce qui concerne les cotisations versées au cours des mois de juillet, août et septembre de cette année;
+	- **d)** au plus tard le 15 janvier de l’année qui suit l’année civile donnée en ce qui concerne les cotisations versées au cours des mois d’octobre, novembre et décembre de cette année.
+
+- **(1.2)** Les règles ci-après s’appliquent au présent article :
+	- **a)** la retenue mensuelle moyenne effectuée par un employeur pour une année civile est déterminée conformément aux paragraphes 108(1.2) et (1.3) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md);
+	- **b)** la qualité de nouvel employeur d’un employeur est déterminée conformément aux paragraphes 108(1.4) et (1.41) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md);
+	- **c)** la retenue mensuelle, relativement à un nouvel employeur pour un mois, est déterminée conformément au paragraphe 108(1.21) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md).
 
 - **(2)** L’employeur qui exploite une entreprise ou exerce une activité à l’égard de laquelle il occupe des employés dans des emplois ouvrant droit à pension doit, s’il cesse d’exploiter cette entreprise ou d’exercer cette activité, faire remise au receveur général, dans les sept jours d’une telle cessation, de toutes les cotisations de l’employé et de l’employeur dont il est tenu de faire remise à l’égard desdits employés.
 
 - **(3)** Tout paiement fait par l’employeur au titre de la cotisation de l’employé ou de la cotisation de l’employeur doit être accompagné d’une déclaration en la forme prescrite.
-> DORS/87-714, art. 1; DORS/90-47, art. 1; DORS/93-94, art. 1; DORS/97-472, art. 1; 2007, ch. 35, art. 90; 2014, ch. 20, art. 38.
+> DORS/87-714, art. 1; DORS/90-47, art. 1; DORS/93-94, art. 1; DORS/97-472, art. 1; 2007, ch. 35, art. 90; 2014, ch. 20, art. 38; 2015, ch. 36, art. 27.
 
 
 
