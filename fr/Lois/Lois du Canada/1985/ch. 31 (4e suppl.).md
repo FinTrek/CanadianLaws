@@ -83,7 +83,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***commissaire*** Le commissaire aux langues officielles nommé au titre de l’article 49.
 
-***institutions fédérales*** Les institutions du Parlement et du gouvernement du Canada, dont le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique et le bureau du commissaire aux conflits d’intérêts et à l’éthique, les tribunaux fédéraux, tout organisme — bureau, commission, conseil, office ou autre — chargé de fonctions administratives sous le régime d’une loi fédérale ou en vertu des attributions du gouverneur en conseil, les ministères fédéraux, les sociétés d’État créées sous le régime d’une loi fédérale et tout autre organisme désigné par la loi à titre de mandataire de Sa Majesté du chef du Canada ou placé sous la tutelle du gouverneur en conseil ou d’un ministre fédéral. Ne sont pas visés les institutions de l’Assemblée législative du Yukon, de l’Assemblée législative des Territoires du Nord-Ouest ou de l’Assemblée législative du Nunavut ou celles de l’administration de chacun de ces territoires, ni les organismes — bande indienne, conseil de bande ou autres — chargés de l’administration d’une bande indienne ou d’autres groupes de peuples autochtones.
+***institutions fédérales*** Les institutions du Parlement et du gouvernement du Canada, dont le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique et le bureau du commissaire aux conflits d’intérêts et à l’éthique, le Service de protection parlementaire, les tribunaux fédéraux, tout organisme — bureau, commission, conseil, office ou autre — chargé de fonctions administratives sous le régime d’une loi fédérale ou en vertu des attributions du gouverneur en conseil, les ministères fédéraux, les sociétés d’État créées sous le régime d’une loi fédérale et tout autre organisme désigné par la loi à titre de mandataire de Sa Majesté du chef du Canada ou placé sous la tutelle du gouverneur en conseil ou d’un ministre fédéral. Ne sont pas visés les institutions de l’Assemblée législative du Yukon, de l’Assemblée législative des Territoires du Nord-Ouest ou de l’Assemblée législative du Nunavut ou celles de l’administration de chacun de ces territoires, ni les organismes — bande indienne, conseil de bande ou autres — chargés de l’administration d’une bande indienne ou d’autres groupes de peuples autochtones.
 
 ***ministère*** Ministère au sens de l’article 2 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
 
@@ -94,7 +94,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Définition de tribunal**
 
 - **(2)** Pour l’application du présent article et des parties II et III, est un tribunal fédéral tout organisme créé sous le régime d’une loi fédérale pour rendre la justice.
-> L.R. (1985), ch. 31 (4<sup>e</sup> suppl.), art. 3; 1993, ch. 28, art. 78; 2002, ch. 7, art. 224; 2004, ch. 7, art. 26; 2006, ch. 9, art. 20; 2014, ch. 2, art. 39.
+> L.R. (1985), ch. 31 (4<sup>e</sup> suppl.), art. 3; 1993, ch. 28, art. 78; 2002, ch. 7, art. 224; 2004, ch. 7, art. 26; 2006, ch. 9, art. 20; 2014, ch. 2, art. 39; 2015, ch. 36, art. 144.
 
 
 
@@ -485,8 +485,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Règlements**
 
-**33** Le gouverneur en conseil peut, par règlement, prendre les mesures d’incitation qu’il estime nécessaires pour que soient effectivement assurés dans les deux langues officielles les communications et les services que sont tenues de pourvoir dans ces deux langues, au titre de la présente partie, les institutions fédérales autres que le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique ou le bureau du commissaire aux conflits d’intérêts et à l’éthique.
-> L.R. (1985), ch. 31 (4<sup>e</sup> suppl.), art. 33; 2004, ch. 7, art. 27; 2006, ch. 9, art. 21.
+**33** Le gouverneur en conseil peut, par règlement, prendre les mesures d’incitation qu’il estime nécessaires pour que soient effectivement assurés dans les deux langues officielles les communications et les services que sont tenues de pourvoir dans ces deux langues, au titre de la présente partie, les institutions fédérales autres que le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique, le bureau du commissaire aux conflits d’intérêts et à l’éthique ou le Service de protection parlementaire.
+> L.R. (1985), ch. 31 (4<sup>e</sup> suppl.), art. 33; 2004, ch. 7, art. 27; 2006, ch. 9, art. 21; 2015, ch. 36, art. 145.
 
 
 
@@ -546,7 +546,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **38** 
 
-- **(1)** Le gouverneur en conseil peut, par règlement visant les institutions fédérales autres que le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique et le bureau du commissaire aux conflits d’intérêts et à l’éthique :
+- **(1)** Le gouverneur en conseil peut, par règlement visant les institutions fédérales autres que le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique, le bureau du commissaire aux conflits d’intérêts et à l’éthique ou le Service de protection parlementaire :
 	- **a)** déterminer, pour tout secteur ou région du Canada, ou lieu à l’étranger, les services, la documentation et le matériel qu’elles doivent offrir à leur personnel dans les deux langues officielles, les systèmes informatiques qui doivent pouvoir être utilisés dans ces deux langues, ainsi que les activités — de gestion ou de surveillance — à exécuter dans ces deux langues;
 	- **b)** prendre toute autre mesure visant à créer et à maintenir, dans la région de la capitale nationale et dans les régions ou secteurs du Canada, ou lieux à l’étranger, désignés pour l’application de l’alinéa 35(1)a), un milieu de travail propice à l’usage effectif des deux langues officielles et à permettre à leur personnel d’utiliser l’une ou l’autre;
 	- **c)** déterminer la ou les langues officielles à utiliser dans leurs communications avec ceux de leurs bureaux situés dans les régions ou secteurs du Canada, ou lieux à l’étranger, qui y sont mentionnés;
@@ -561,7 +561,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 		- **(ii)** du nombre et de la proportion de francophones et d’anglophones qui résident dans ces secteurs ou régions,
 		- **(iii)** de tout autre critère qu’il juge indiqué;
 	- **b)** en cas de conflit — dont la réalité puisse se démontrer — entre l’une des obligations prévues par l’article 36 ou les règlements d’application du paragraphe (1) et le mandat d’une des institutions fédérales, y substituer, compte tenu de l’égalité de statut des deux langues officielles, une autre obligation touchant leur utilisation.
-> L.R. (1985), ch. 31 (4<sup>e</sup> suppl.), art. 38; 2004, ch. 7, art. 28; 2006, ch. 9, art. 22.
+> L.R. (1985), ch. 31 (4<sup>e</sup> suppl.), art. 38; 2004, ch. 7, art. 28; 2006, ch. 9, art. 22; 2015, ch. 36, art. 146.
 
 
 
@@ -615,8 +615,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Règlements**
 
-- **(3)** Le gouverneur en conseil peut, par règlement visant les institutions fédérales autres que le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique et le bureau du commissaire aux conflits d’intérêts et à l’éthique, fixer les modalités d’exécution des obligations que la présente partie leur impose.
-> 1985, ch. 31 (4<sup>e</sup> suppl.), art. 41; 2005, ch. 41, art. 1; 2006, ch. 9, art. 23.
+- **(3)** Le gouverneur en conseil peut, par règlement visant les institutions fédérales autres que le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique, le bureau du commissaire aux conflits d’intérêts et à l’éthique ou le Service de protection parlementaire, fixer les modalités d’exécution des obligations que la présente partie leur impose.
+> L.R. (1985), ch. 31 (4<sup>e</sup> suppl.), art. 41; 2005, ch. 41, art. 1; 2006, ch. 9, art. 23; 2015, ch. 36, art. 147.
 
 
 
@@ -679,7 +679,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **46** 
 
-- **(1)** Le Conseil du Trésor est chargé de l’élaboration et de la coordination générales des principes et programmes fédéraux d’application des parties IV, V et VI dans les institutions fédérales, à l’exception du Sénat, de la Chambre des communes, de la bibliothèque du Parlement, du bureau du conseiller sénatorial en éthique et du bureau du commissaire aux conflits d’intérêts et à l’éthique.
+- **(1)** Le Conseil du Trésor est chargé de l’élaboration et de la coordination générales des principes et programmes fédéraux d’application des parties IV, V et VI dans les institutions fédérales, à l’exception du Sénat, de la Chambre des communes, de la bibliothèque du Parlement, du bureau du conseiller sénatorial en éthique, du bureau du commissaire aux conflits d’intérêts et à l’éthique et du Service de protection parlementaire.
 
 **Attributions**
 
@@ -691,7 +691,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **e)** évaluer l’efficacité des principes et programmes des institutions fédérales en matière de langues officielles;
 	- **f)** informer le public et le personnel des institutions fédérales sur les principes et programmes d’application des parties IV, V et VI;
 	- **g)** déléguer telle de ses attributions aux administrateurs généraux ou autres responsables administratifs d’autres institutions fédérales.
-> L.R. (1985), ch. 31 (4<sup>e</sup> suppl.), art. 46; 2004, ch. 7, art. 29; 2006, ch. 9, art. 24.
+> L.R. (1985), ch. 31 (4<sup>e</sup> suppl.), art. 46; 2004, ch. 7, art. 29; 2006, ch. 9, art. 24; 2015, ch. 36, art. 148.
 
 
 
@@ -1291,8 +1291,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Règlements**
 
-**93** Le gouverneur en conseil peut prendre les règlements qu’il estime nécessaires pour assurer le respect de la présente loi dans le cadre des activités des institutions fédérales autres que le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique et le bureau du commissaire aux conflits d’intérêts et à l’éthique. Il peut également prendre toute autre mesure réglementaire d’application de la présente loi.
-> L.R. (1985), ch. 31 (4<sup>e</sup> suppl.), art. 93; 2004, ch. 7, art. 30; 2006, ch. 9, art. 25.
+**93** Le gouverneur en conseil peut prendre les règlements qu’il estime nécessaires pour assurer le respect de la présente loi dans le cadre des activités des institutions fédérales autres que le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique, le bureau du commissaire aux conflits d’intérêts et à l’éthique ou le Service de protection parlementaire. Il peut également prendre toute autre mesure réglementaire d’application de la présente loi.
+> L.R. (1985), ch. 31 (4<sup>e</sup> suppl.), art. 93; 2004, ch. 7, art. 30; 2006, ch. 9, art. 25; 2015, ch. 36, art. 149.
 
 
 
