@@ -37,23 +37,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé de l’application de la présente loi.
+***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé de l’application de la présente loi. (*Minister*)
 
-***petite entreprise*** Entreprise exploitée au Canada — ou sur le point de l’être — en vue d’un gain ou d’un profit dont les recettes annuelles brutes estimées :
-- **a)** soit ne sont pas supérieures à 5 millions de dollars ou à tout montant inférieur fixé par règlement pour l’exercice au cours duquel le prêt est approuvé;
-- **b)** soit, dans le cas d’une entreprise en gestation, ne devraient pas, d’après l’estimation faite au moment de l’approbation du prêt par le prêteur, dépasser 5 millions de dollars ou tout montant inférieur fixé par règlement pour son premier exercice d’une durée d’au moins cinquante-deux semaines.
+***petite entreprise*** Entreprise exploitée au Canada — ou sur le point de l’être — en vue d’un gain ou d’un profit dont les recettes annuelles brutes estimées :
+- **a)** soit n’excèdent pas 10 millions de dollars ou tout montant inférieur fixé par règlement pour l’exercice de l’entreprise au cours duquel le prêt est approuvé par le prêteur;
+- **b)** soit, dans le cas d’une entreprise en gestation, ne devraient pas, d’après l’estimation faite au moment de l’approbation du prêt par le prêteur, excéder 10 millions de dollars ou tout montant inférieur fixé par règlement pour son premier exercice d’une durée d’au moins cinquante-deux semaines.
 
-Sont exclues de la présente définition les entreprises à vocation religieuse ou de bienfaisance et les entreprises agricoles.
+Sont exclues de la présente définition les entreprises à vocation religieuse ou de bienfaisance et les entreprises agricoles. (*small business*)
 
-***prêt*** Prêt conforme au paragraphe 4(1) consenti à un emprunteur admissible conformément au paragraphe 4(2).
+***prêt*** Prêt conforme au paragraphe 4(1) consenti à un emprunteur admissible conformément au paragraphe 4(2). (*loan*)
 
-***prêteur*** Selon le cas :
-- **a)** membre de l’Association canadienne des paiements constituée en vertu du paragraphe 3(1) de la [Loi canadienne sur les paiements](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-21.md) qui est :
+***prêteur*** Selon le cas :
+- **a)** membre de l’Association canadienne des paiements constituée en vertu du paragraphe 3(1) de la [Loi canadienne sur les paiements](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-21.md) qui est :
 	- **(i)** soit visé par les alinéas 4(1)b) ou c) ou l’un des alinéas 4(2)a) à c) de cette loi,
 	- **(ii)** soit visé par l’un des alinéas 4(2)d) à h) de cette loi et qui satisfait aux conditions prévues par règlement;
 - **b)** société coopérative de crédit locale définie au paragraphe 2(1) de la [Loi canadienne sur les paiements](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-21.md) et membre d’une société coopérative de crédit centrale — au sens du même paragraphe — qui est elle-même membre de cette association;
-- **c)** tout autre organisme agréé comme prêteur par le ministre pour l’application de la présente loi.
-> 1998, ch. 36, art. 2; 2001, ch. 9, art. 587.
+- **c)** tout autre organisme agréé comme prêteur par le ministre pour l’application de la présente loi. (*lender*)
+> 1998, ch. 36, art. 2; 2001, ch. 9, art. 587; 2015, ch. 36, art. 161.
 
 
 
@@ -94,7 +94,7 @@ Sont exclues de la présente définition les entreprises à vocation religieuse 
 
 **4** 
 
-- **(1)** Tout prêt doit satisfaire aux critères suivants en plus de ceux fixés par règlement, le cas échéant :
+- **(1)** Tout prêt doit satisfaire aux critères suivants en plus de ceux fixés par règlement, le cas échéant :
 	- **a)** il est consenti par un prêteur à un emprunteur admissible conformément au paragraphe (2);
 	- **b)** il est sollicité pour une petite entreprise;
 	- **c)** il sert à financer des dépenses et des engagements qui sont visés par au moins une catégorie réglementaire de prêts;
@@ -102,15 +102,16 @@ Sont exclues de la présente définition les entreprises à vocation religieuse 
 
 **Critères d’admissibilité de l’emprunteur**
 
-- **(2)** Est admissible à un prêt l’emprunteur qui, au moment de l’octroi du prêt, répond aux conditions suivantes :
+- **(2)** Est admissible à un prêt l’emprunteur qui, au moment de l’octroi du prêt, répond aux conditions suivantes :
 	- **a)** il satisfait aux critères d’admissibilité réglementaires;
 	- **b)** dans le cas d’un prêt consenti avant le 1<sup>er</sup> avril 2009, le prêt impayé le concernant est d’un montant qui n’excède pas 250 000 $ ou tout montant réglementaire inférieur;
-	- **c)** dans le cas d’un prêt consenti après le 31 mars 2009, le prêt impayé le concernant est d’un montant qui n’excède pas 500 000 $ ou tout montant réglementaire inférieur, dont un montant maximal de 350 000 $ ou tout montant réglementaire inférieur est consenti à des fins autres que l’achat ou l’amélioration d’immeubles ou biens réels dont il est ou deviendra propriétaire.
+	- **c)** dans le cas d’un prêt consenti après le 31 mars 2009 et avant la date d’entrée en vigueur de l’alinéa d), le prêt impayé le concernant est d’un montant qui n’excède pas 500 000 $ ou tout montant réglementaire inférieur, dont un montant maximal de 350 000 $ ou tout montant réglementaire inférieur est consenti à des fins autres que l’achat ou l’amélioration d’immeubles ou biens réels dont il est ou deviendra propriétaire;
+	- **d)** dans le cas d’un prêt consenti à compter de la date d’entrée en vigueur du présent alinéa, le prêt impayé le concernant est d’un montant qui n’excède pas 1 000 000 $ ou tout montant réglementaire inférieur, dont un montant maximal de 350 000 $ ou tout montant réglementaire inférieur est consenti à des fins autres que l’achat ou l’amélioration d’immeubles ou biens réels dont il est ou deviendra propriétaire.
 
 **Montants inclus dans le prêt maximal**
 
-- **(3)** Le montant du prêt impayé visé aux alinéas (2)b) ou c) correspond à la somme du montant du prêt demandé et de l’ensemble du principal impayé des prêts ou des prêts garantis consentis respectivement sous le régime de la présente loi ou sous le régime de la Loi sur les prêts aux petites entreprises à l’emprunteur et aux emprunteurs qui lui sont liés selon les critères réglementaires.
-> 1998, ch. 36, art. 4; 2009, ch. 2, art. 265.
+- **(3)** Le montant du prêt impayé visé à l’un des alinéas (2)b) à d) correspond à la somme du montant du prêt demandé et de l’ensemble du principal impayé des prêts ou des prêts garantis consentis respectivement sous le régime de la présente loi ou sous le régime de la Loi sur les prêts aux petites entreprises à l’emprunteur et aux emprunteurs qui lui sont liés selon les critères réglementaires.
+> 1998, ch. 36, art. 4; 2009, ch. 2, art. 265; 2015, ch. 36, art. 162.
 
 
 
@@ -162,12 +163,13 @@ Sont exclues de la présente définition les entreprises à vocation religieuse 
 
 - **(1)** Le ministre n’est pas tenu d’indemniser le prêteur de toute perte résultant d’un prêt consenti par celui-ci à un emprunteur dans le cas où le prêt impayé concernant ce dernier est d’un montant — mentionné au prêteur ou dont celui-ci avait effectivement connaissance — qui excède :
 	- **a)** dans le cas d’un prêt consenti avant le 1<sup>er</sup> avril 2009, 250 000 $ ou tout montant réglementaire inférieur;
-	- **b)** dans le cas d’un prêt consenti après le 31 mars 2009, 500 000 $ ou tout montant réglementaire inférieur, dont un montant maximal de 350 000 $ ou tout montant réglementaire inférieur est consenti à des fins autres que l’achat ou l’amélioration d’immeubles ou biens réels dont l’emprunteur est ou deviendra propriétaire.
+	- **b)** dans le cas d’un prêt consenti après le 31 mars 2009 et avant la date d’entrée en vigueur de l’alinéa c), 500 000 $ ou tout montant réglementaire inférieur, dont un montant maximal de 350 000 $ ou tout montant réglementaire inférieur est consenti à des fins autres que l’achat ou l’amélioration d’immeubles ou biens réels dont l’emprunteur est ou deviendra propriétaire;
+	- **c)** dans le cas d’un prêt consenti à compter de la date d’entrée en vigueur du présent alinéa, 1 000 000 $ ou tout montant réglementaire inférieur, dont un montant maximal de 350 000 $ ou tout montant réglementaire inférieur est consenti à des fins autres que l’achat ou l’amélioration d’immeubles ou biens réels dont l’emprunteur est ou deviendra propriétaire.
 
 **Montants inclus dans le prêt maximal**
 
 - **(2)** Le montant du prêt impayé visé au paragraphe (1) correspond à la somme du montant du prêt demandé et de l’ensemble du principal impayé, au moment de l’octroi du prêt, des prêts ou des prêts garantis consentis respectivement sous le régime de la présente loi ou sous le régime de la Loi sur les prêts aux petites entreprises à l’emprunteur et aux emprunteurs qui lui sont liés selon les critères réglementaires.
-> 1998, ch. 36, art. 7; 2009, ch. 2, art. 267.
+> 1998, ch. 36, art. 7; 2009, ch. 2, art. 267; 2015, ch. 36, art. 163.
 
 
 
