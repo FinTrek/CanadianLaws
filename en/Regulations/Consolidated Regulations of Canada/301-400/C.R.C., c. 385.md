@@ -212,7 +212,7 @@ where
 
 **8** 
 
-- **(1)** Subject to subsections (1.1), (1.11), (1.12) and (2), the employee’s contribution and the employer’s contribution shall be remitted to the Receiver General on or before the 15th day of the month following the month in which the employer paid to the employee the remuneration in respect of which those contributions were required to be made.
+- **(1)** Subject to subsections (1.1), (1.11), (1.12), (1.13) and (2), the employee’s contribution and the employer’s contribution shall be remitted to the Receiver General on or before the 15th day of the month following the month in which the employer paid to the employee the remuneration in respect of which those contributions were required to be made.
 
 - **(1.1)** Subject to subsection (1.11), where the average monthly withholding amount of an employer for the second calendar year preceding a particular calendar year is
 	- **(a)** equal to or greater than $25,000 and less than $100,000, the employer shall remit the employee’s contribution and the employer’s contribution to the Receiver General
@@ -240,12 +240,21 @@ contributions payable in a month that ends after that time and that is in the pa
 	- **(f)** in respect of such contributions paid in July, August and September of the particular calendar year, on or before the 15th day of October of the particular year, and
 	- **(g)** in respect of such contributions paid in October, November and December of the particular calendar year, on or before the 15th day of January of the year following the particular year.
 
-- **(1.2)** For the purpose of this section, the average monthly withholding amount of an employer for a calendar year is determined pursuant to subsections 108(1.2) and (1.3) of the [Income Tax Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/901-1000/C.R.C.,%20c.%20945.md).
+- **(1.13)** If an employer is a new employer throughout a particular month in a particular calendar year, contributions payable in the month may be remitted by the employer to the Receiver General
+	- **(a)** in respect of those contributions paid in January, February and March of the particular calendar year, on or before the 15th day of April of the particular calendar year;
+	- **(b)** in respect of those contributions paid in April, May and June of the particular calendar year, on or before the 15th day of July of the particular calendar year;
+	- **(c)** in respect of those contributions paid in July, August and September of the particular calendar year, on or before the 15th day of October of the particular calendar year; and
+	- **(d)** in respect of those contributions paid in October, November and December of the particular calendar year, on or before the 15th day of January of the year following the particular calendar year.
+
+- **(1.2)** For the purpose of this section,
+	- **(a)** the average monthly withholding amount of an employer for a calendar year is determined in accordance with subsections 108(1.2) and (1.3) of the [Income Tax Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/901-1000/C.R.C.,%20c.%20945.md);
+	- **(b)** the determination as to whether an employer is a new employer is made in accordance with subsections 108(1.4) and (1.41) of the [Income Tax Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/901-1000/C.R.C.,%20c.%20945.md); and
+	- **(c)** the monthly withholding amount in respect of a new employer for a month is determined in accordance with subsection 108(1.21) of the [Income Tax Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/901-1000/C.R.C.,%20c.%20945.md).
 
 - **(2)** An employer carrying on a business or activity with respect to which he employs employees in pensionable employment shall, if he ceases to carry on that business or activity, within seven days of so ceasing remit to the Receiver General any employee’s contribution and any employer’s contribution that he is required to remit with respect to those employees.
 
 - **(3)** Every payment by an employer of an employee’s contribution or an employer’s contribution shall be accompanied by a return in prescribed form.
-> SOR/87-714, s. 1; SOR/90-47, s. 1; SOR/93-94, s. 1; SOR/97-472, s. 1; 2007, c. 35, s. 90; 2014, c. 20, s. 38.
+> SOR/87-714, s. 1; SOR/90-47, s. 1; SOR/93-94, s. 1; SOR/97-472, s. 1; 2007, c. 35, s. 90; 2014, c. 20, s. 38; 2015, c. 36, s. 27.
 
 
 
