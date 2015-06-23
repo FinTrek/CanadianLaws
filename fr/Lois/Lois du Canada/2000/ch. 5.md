@@ -117,13 +117,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **4** 
 
-- **(1)** La présente partie s’applique à toute organisation à l’égard des renseignements personnels :
+- **(1)** La présente partie s’applique à toute organisation à l’égard des renseignements personnels :
 	- **a)** soit qu’elle recueille, utilise ou communique dans le cadre d’activités commerciales;
 	- **b)** soit qui concernent un de ses employés ou l’individu qui postule pour le devenir et qu’elle recueille, utilise ou communique dans le cadre d’une entreprise fédérale.
 
+**Application**
+
+- **(1.1)** La présente partie s’applique à toute organisation figurant à la colonne 1 de l’annexe 4 à l’égard des renseignements personnels figurant à la colonne 2.
+
 **Limite**
 
-- **(2)** La présente partie ne s’applique pas :
+- **(2)** La présente partie ne s’applique pas :
 	- **a)** aux institutions fédérales auxquelles s’applique la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md);
 	- **b)** à un individu à l’égard des renseignements personnels qu’il recueille, utilise ou communique à des fins personnelles ou domestiques et à aucune autre fin;
 	- **c)** à une organisation à l’égard des renseignements personnels qu’elle recueille, utilise ou communique à des fins journalistiques, artistiques ou littéraires et à aucune autre fin.
@@ -132,8 +136,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#P-8.6_fr_1'>[*]</a></sup>**(3)** Toute disposition de la présente partie s’applique malgré toute disposition — édictée après l’entrée en vigueur du présent paragraphe — d’une autre loi fédérale, sauf dérogation expresse de la disposition de l’autre loi.
 
-<a name='P-8.6_fr_1'><sup>*</sup></a>: [Note : Paragraphe 4(3) en vigueur le 1<sup>er</sup> janvier 2001, *voir* TR/2000-29.]<br />
-> 2000, ch. 5, art. 4; 2015, ch. 32, art. 3.
+<a name='P-8.6_fr_1'><sup>*</sup></a>: [Note : Paragraphe 4(3) en vigueur le 1<sup>er</sup> janvier 2001, *voir* TR/2000-29.]<br />
+> 2000, ch. 5, art. 4; 2015, ch. 32, art. 3, ch. 36, art. 164.
 
 
 
@@ -962,16 +966,17 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements com
 - **(1)** Le gouverneur en conseil peut, par règlement, prendre toute mesure d’application de la présente partie, notamment :
 	- **a)** préciser, pour l’application de toute disposition de la présente partie, les institutions gouvernementales et les subdivisions d’institutions gouvernementales, à titre particulier ou par catégorie;
 	- **a.01)** [Abrogé, 2015, ch. 32, art. 21]
-	- **a.1)** préciser tout renseignement ou toute catégorie de renseignements pour l’application des alinéas 7(1)d), (2)c.1) ou (3)h.1);
-	- **b)** préciser les renseignements qui doivent être tenus et conservés au titre du paragraphe 10.3(1);
+	- **a.1)** préciser tout renseignement ou toute catégorie de renseignements pour l’application des alinéas 7(1)d), (2)c.1) ou (3)h.1);
+	- **b)** préciser les renseignements qui doivent être tenus et conservés au titre du paragraphe 10.3(1);
 	- **c)** prendre toute mesure d’ordre réglementaire prévue par la présente partie.
 
 **Décret**
 
 - **(2)** Il peut par décret :
 	- **a)** prévoir que la présente partie lie tout mandataire de Sa Majesté du chef du Canada qui n’est pas assujetti à la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md);
-	- **b)** s’il est convaincu qu’une loi provinciale essentiellement similaire à la présente partie s’applique à une organisation — ou catégorie d’organisations — ou à une activité — ou catégorie d’activités —, exclure l’organisation, l’activité ou la catégorie de l’application de la présente partie à l’égard de la collecte, de l’utilisation ou de la communication de renseignements personnels qui s’effectue à l’intérieur de la province en cause.
-> 2000, ch. 5, art. 26; 2015, ch. 32, art. 21.
+	- **b)** s’il est convaincu qu’une loi provinciale essentiellement similaire à la présente partie s’applique à une organisation — ou catégorie d’organisations — ou à une activité — ou catégorie d’activités —, exclure l’organisation, l’activité ou la catégorie de l’application de la présente partie à l’égard de la collecte, de l’utilisation ou de la communication de renseignements personnels qui s’effectue à l’intérieur de la province en cause;
+	- **c)** modifier l’annexe 4.
+> 2000, ch. 5, art. 26; 2015, ch. 32, art. 21, ch. 36, art. 165.
 
 
 
@@ -1838,5 +1843,33 @@ Une organisation doit faire enquête sur toutes les plaintes. Si une plainte est
 </table>
 
 > 2000, ch. 5, ann. 3; DORS/2004-309, art. 2; DORS/2005-407.
+
+
+
+
+### **ANNEXE 4** 
+**(paragraphe 4(1.1) et alinéa 26(2)c))**
+<table>
+<h4>Organisations</h4>
+<tr>
+<th></th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
+</tr>
+<tr>
+<th>Article</th>
+<th>Organisation</th>
+<th>Renseignements personnels</th>
+</tr>
+<tr>
+<td>1</td>
+<td>
+
+Agence mondiale antidopage<br />- <i>World Anti-Doping Agency</i></td>
+<td>Renseignements personnels recueillis, utilisés ou communiqués par l’organisation dans le cadre de ses activités interprovinciales ou internationales</td>
+</tr>
+</table>
+
+> 2015, ch. 36, art. 166.
 
 
