@@ -482,7 +482,7 @@ the amount to be deducted or withheld by the employer from any such payment is t
 
 **108** 
 
-- **(1)** Subject to subsections (1.1), (1.11) and (1.12), amounts deducted or withheld in a month under subsection 153(1) of the Act shall be remitted to the Receiver General on or before the 15th day of the following month.
+- **(1)** Subject to subsections (1.1) to (1.13), amounts deducted or withheld in a month under subsection 153(1) of the Act shall be remitted to the Receiver General on or before the 15th day of the following month.
 
 - **(1.1)** Subject to subsection (1.11), where the average monthly withholding amount of an employer for the second calendar year preceding a particular calendar year is
 	- **(a)** equal to or greater than $25,000 and less than $100,000, all amounts deducted or withheld from payments described in the definition ***remuneration*** in subsection 100(1) that are made in a month in the particular calendar year by the employer shall be remitted to the Receiver General
@@ -510,6 +510,12 @@ all amounts deducted or withheld from payments described in the definition ***re
 	- **(f)** in respect of such payments made in July, August and September of the particular calendar year, on or before the 15th day of October of the particular year, and
 	- **(g)** in respect of such payments made in October, November and December of the particular calendar year, on or before the 15th day of January of the year following the particular year.
 
+- **(1.13)** If an employer is a new employer throughout a particular month in a particular calendar year, all amounts deducted or withheld from payments described in the definition ***remuneration*** in subsection 100(1) that are made by the employer in the month may be remitted to the Receiver General
+	- **(a)** in respect of such payments made in January, February and March of the particular calendar year, on or before the 15th day of April of the particular calendar year;
+	- **(b)** in respect of such payments made in April, May and June of the particular calendar year, on or before the 15th day of July of the particular calendar year;
+	- **(c)** in respect of such payments made in July, August and September of the particular calendar year, on or before the 15th day of October of the particular calendar year; and
+	- **(d)** in respect of such payments made in October, November and December of the particular calendar year, on or before the 15th day of January of the year following the particular calendar year.
+
 - **(1.2)** For the purposes of this section, average monthly withholding amount, in respect of an employer for a particular calendar year, is the quotient obtained when
 	- **(a)** the aggregate of all amounts each of which is an amount required to be remitted with respect to the particular year under
 		- **(i)** subsection 153(1) of the Act and a similar provision of a law of a province which imposes a tax upon the income of individuals, where the province has entered into an agreement with the Minister of Finance for the collection of taxes payable to the province, in respect of payments described in the definition ***remuneration*** in subsection 100(1),
@@ -519,18 +525,36 @@ by the employer or, where the employer is a corporation, by each corporation ass
 is divided by
 	- **(b)** the number of months in the particular year, not exceeding twelve, for which such amounts were required to be remitted by the employer and, where the employer is a corporation, by each corporation associated with it in a taxation year of the employer ending in the second calendar year following the particular year.
 
+- **(1.21)** For the purposes of subsection (1.4), the monthly withholding amount, in respect of an employer for a month, is the total of all amounts each of which is an amount required to be remitted with respect to the month by the employer or, if the employer is a corporation, by each corporation associated with the corporation, under
+	- **(a)** subsection 153(1) of the Act and a similar provision of a law of a province which imposes a tax upon the income of individuals, if the province has entered into an agreement with the Minister of Finance for the collection of taxes payable to the province, in respect of payments described in the definition ***remuneration*** in subsection 100(1);
+	- **(b)** subsection 21(1) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md); or
+	- **(c)** subsection 82(1) of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md).
+
 - **(1.3)** For the purposes of subsection (1.2), where a particular employer that is a corporation has acquired in a taxation year of the corporation ending in a particular calendar year all or substantially all of the property of another employer used by the other employer in a business
 	- **(a)** in a transaction in respect of which an election was made under subsection 85(1) or (2) of the Act,
 	- **(b)** by virtue of an amalgamation within the meaning assigned to that term by section 87 of the Act, or
 	- **(c)** as the result of a winding-up in respect of which subsection 88(1) of the Act is applicable,
 the other employer shall be deemed to be a corporation associated with the particular employer in the taxation year and each taxation year ending at any time in the next two following calendar years.
 
+- **(1.4)** For the purposes of subsection (1.13) an employer
+	- **(a)** becomes a new employer at the beginning of any month after 2015 in which the employer first becomes an employer; and
+	- **(b)** ceases to be a new employer at a specified time in a particular year, if in a particular month the employer does not meet any of the following conditions:
+		- **(i)** the monthly withholding amount in respect of the employer for the particular month is less than $1,000,
+		- **(ii)** throughout the 12-month period before that time, the employer has remitted, on or before the day on or before which the amounts were required to be remitted, all amounts each of which was required to be remitted under subsection 153(1) of the Act, subsection 21(1) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), subsection 82(1) of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md) or Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), and
+		- **(iii)** throughout the 12-month period before that time, the employer has filed all returns each of which was required to be filed under the Act or Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) on or before the day on or before which those returns were required to be filed under those Acts.
+
+- **(1.41)** For the purposes of subsection (1.4), the specified time is the end of
+	- **(a)** March of the particular year, if the particular month is January, February or March of that year;
+	- **(b)** June of the particular year, if the particular month is April, May or June of that year;
+	- **(c)** September of the particular year, if the particular month is July, August or September of that year; and
+	- **(d)** December of the particular year, if the particular month is October, November or December of that year.
+
 - **(2)** Where an employer has ceased to carry on business, any amount deducted or withheld under subsection 153(1) of the Act that has not been remitted to the Receiver General shall be paid within 7 days of the day when the employer ceased to carry on business.
 
 - **(3)** Remittances made to the Receiver General under subsection 153(1) of the Act shall be accompanied by a return in prescribed form.
 
 - **(4)** Amounts deducted or withheld under subsection 153(4) of the Act shall be remitted to the Receiver General within 60 days after the end of the taxation year subsequent to the 12-month period referred to in that subsection.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/87-718, s. 1; SOR/88-165, s. 31(F); SOR/89-579, s. 1; SOR/91-536, s. 3; SOR/93-93, s. 1; SOR/94-686, s. 79(F); SOR/97-472, s. 3; SOR/99-17, s. 4; 2007, c. 35, s. 71; 2014, c. 20, s. 33.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/87-718, s. 1; SOR/88-165, s. 31(F); SOR/89-579, s. 1; SOR/91-536, s. 3; SOR/93-93, s. 1; SOR/94-686, s. 79(F); SOR/97-472, s. 3; SOR/99-17, s. 4; 2007, c. 35, s. 71; 2014, c. 20, s. 33; 2015, c. 36, s. 20.
 
 
 
@@ -3224,8 +3248,9 @@ in respect of which the election is made;
 		- **(xxxiv)** of Class 48, 15 per cent,
 		- **(xxxv)** of Class 49, 8 per cent,
 		- **(xxxvi)** of Class 50, 55 per cent,
-		- **(xxxvii)** of Class 51, 6 per cent, and
-		- **(xxxviii)** of Class 52, 100 per cent,
+		- **(xxxvii)** of Class 51, 6 per cent,
+		- **(xxxviii)** of Class 52, 100 per cent, and
+		- **(xxxix)** of Class 53, 50 per cent,
 of the undepreciated capital cost to the taxpayer as of the end of the taxation year (before making any deduction under this subsection for the taxation year) of property of the class;
 
 #### Class 1
@@ -3997,7 +4022,7 @@ where the owner was
 that would otherwise be specified energy property of the taxpayer shall be deemed not to be specified energy property of the taxpayer if, immediately before it was so acquired by the taxpayer, it was not, by virtue of subsection (27), this subsection or subsection (29), specified energy property of the person from whom the property was so acquired.
 
 - **(29)** A property acquired by a taxpayer or partnership that is a replacement property (within the meaning assigned by subsection 13(4) of the Act), that would otherwise be specified energy property of the taxpayer or partnership, shall be deemed not to be specified energy property of the taxpayer or partnership if the property replaced, referred to in paragraph 13(4)(a) or (b) of the Act, was, by virtue of subsection (27), (28) or this subsection, not specified energy property of the taxpayer or partnership immediately before it was disposed of by the taxpayer or partnership.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 1; SOR/78-377, ss. 3 to 6; SOR/78-948, s. 1; SOR/79-427, s. 1; SOR/80-942, s. 1; SOR/81-470, s. 1; SOR/82-265, s. 1; SOR/83-340, s. 1; SOR/83-432, s. 1; SOR/84-454, s. 1; SOR/84-948, s. 5; SOR/85-13, s. 1; SOR/85-174, s. 1; SOR/86-254, s. 1; SOR/86-1092, ss. 3(F), 4(F); SOR/86-1136, s. 1; SOR/88-392, s. 1; SOR/89-27, s. 1; SOR/90-22, s. 1; SOR/90-257, s. 1; SOR/90-670, s. 1; SOR/91-196, s. 1; SOR/91-673, s. 1; SOR/92-681, s. 3; SOR/94-128, s. 1; SOR/94-140, s. 2; SOR/94-169, s. 1; SOR/94-170, s. 1; SOR/94-686, ss. 9(F), 48, 58(F), 78(F), 79(F), 81(F); SOR/95-244, s. 1; SOR/97-377, s. 1; SOR/99-179, s. 1; SOR/2000-248, s. 2; SOR/2005-126, s. 1; SOR/2005-371, s. 1; SOR/2005-414, s. 1; SOR/2006-117, s. 1; SOR/2007-19, s. 1; SOR/2009-115, s. 1; SOR/2009-126, s. 1; SOR/2010-93, s. 12; SOR/2011-9, s. 1; 2013, c. 34, s. 383, c. 40, s. 100; SOR/2015-117, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 1; SOR/78-377, ss. 3 to 6; SOR/78-948, s. 1; SOR/79-427, s. 1; SOR/80-942, s. 1; SOR/81-470, s. 1; SOR/82-265, s. 1; SOR/83-340, s. 1; SOR/83-432, s. 1; SOR/84-454, s. 1; SOR/84-948, s. 5; SOR/85-13, s. 1; SOR/85-174, s. 1; SOR/86-254, s. 1; SOR/86-1092, ss. 3(F), 4(F); SOR/86-1136, s. 1; SOR/88-392, s. 1; SOR/89-27, s. 1; SOR/90-22, s. 1; SOR/90-257, s. 1; SOR/90-670, s. 1; SOR/91-196, s. 1; SOR/91-673, s. 1; SOR/92-681, s. 3; SOR/94-128, s. 1; SOR/94-140, s. 2; SOR/94-169, s. 1; SOR/94-170, s. 1; SOR/94-686, ss. 9(F), 48, 58(F), 78(F), 79(F), 81(F); SOR/95-244, s. 1; SOR/97-377, s. 1; SOR/99-179, s. 1; SOR/2000-248, s. 2; SOR/2005-126, s. 1; SOR/2005-371, s. 1; SOR/2005-414, s. 1; SOR/2006-117, s. 1; SOR/2007-19, s. 1; SOR/2009-115, s. 1; SOR/2009-126, s. 1; SOR/2010-93, s. 12; SOR/2011-9, s. 1; 2013, c. 34, s. 383, c. 40, s. 100; 2015, c. 36, s. 21; SOR/2015-117, s. 1.
 
 
 
@@ -9615,13 +9640,13 @@ where
 	- **(h)** a property included in paragraph (n) of Class 10, or Class 15, in Schedule II (other than a roadway);
 	- **(i)** a property included in any of paragraphs (a) to (f) of Class 9 in Schedule II;
 	- **(j)** a property included in Class 28, in paragraph (a), (a.1), (a.2) or (a.3) of Class 41 or in Class 41.1 or 41.2 in Schedule II that would, but for Class 28, 41, 41.1 or 41.2, as the case may be, be included in paragraph (k) or (r) of Class 10 of Schedule II;
-	- **(k)** a property included in Class 21, 24, 27, 29, 34, 39, 40, 43, 45, 46, 50 or 52 in Schedule II;
+	- **(k)** a property included in Class 21, 24, 27, 29, 34, 39, 40, 43, 45, 46, 50, 52 or 53 in Schedule II;
 	- **(l)** a property included in paragraph (c) or (d) of Class 41 in Schedule II;
 	- **(m)** property included in Class 43.1 in Schedule II because of paragraph (c) of that Class; or
 	- **(n)** a property included in Class 43.2 in Schedule II because of paragraph (a) of that Class.
 
 - **(3)** Property is prescribed energy generation and conservation property for the purposes of the definition ***qualified property*** in subsection 127(9) of the Act if it is depreciable property of the taxpayer (other than property referred to in subsection (1) or (2)) that is a property included in any of subparagraph (a.1)(i) of Class 17 and Classes 43.1, 43.2 and 48 in Schedule II.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 5; SOR/80-69, s. 1; SOR/80-131, s. 2; SOR/80-618, s. 7(E); SOR/81-974, s. 13; SOR/88-165, s. 19; SOR/90-22, s. 6; SOR/94-169, s. 3; SOR/94-686, s. 66(F); SOR/98-97, s. 4; SOR/99-179, s. 10; SOR/2005-371, s. 5; SOR/2005-414, s. 4; SOR/2006-117, s. 6; SOR/2011-9, s. 5; 2012, c. 31, s. 66; 2013, c. 34, s. 395, c. 40, s. 106.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 5; SOR/80-69, s. 1; SOR/80-131, s. 2; SOR/80-618, s. 7(E); SOR/81-974, s. 13; SOR/88-165, s. 19; SOR/90-22, s. 6; SOR/94-169, s. 3; SOR/94-686, s. 66(F); SOR/98-97, s. 4; SOR/99-179, s. 10; SOR/2005-371, s. 5; SOR/2005-414, s. 4; SOR/2006-117, s. 6; SOR/2011-9, s. 5; 2012, c. 31, s. 66; 2013, c. 34, s. 395, c. 40, s. 106; 2015, c. 36, s. 22.
 
 
 
@@ -14248,76 +14273,108 @@ where
 - **(3)** For the purposes of the definition ***minimum amount*** in subsection 146.3(1) of the Act, the prescribed factor in respect of an individual for a year in connection with a retirement income fund that was a qualifying retirement income fund at the beginning of the year is the factor, determined pursuant to the following table, that corresponds to the age in whole years (in the table referred to as “X”) attained by the individual at the beginning of that year or that would have been so attained by the individual if the individual had been alive at the beginning of that year.
 <table>
 <tr>
-<th></th>
-<th>X Factor</th>
+<th>X</th>
+<th>Factor</th>
 </tr>
 <tr>
-<td>Under 79</td>
-<td>1/(90 - X)</td>
+<td>Under 72</td>
+<td>1/(90 – X)</td>
+</tr>
+<tr>
+<td>72</td>
+<td>0.0540</td>
+</tr>
+<tr>
+<td>73</td>
+<td>0.0553</td>
+</tr>
+<tr>
+<td>74</td>
+<td>0.0567</td>
+</tr>
+<tr>
+<td>75</td>
+<td>0.0582</td>
+</tr>
+<tr>
+<td>76</td>
+<td>0.0598</td>
+</tr>
+<tr>
+<td>77</td>
+<td>0.0617</td>
+</tr>
+<tr>
+<td>78</td>
+<td>0.0636</td>
 </tr>
 <tr>
 <td>79</td>
-<td>0.0853</td>
+<td>0.0658</td>
 </tr>
 <tr>
 <td>80</td>
-<td>0.0875</td>
+<td>0.0682</td>
 </tr>
 <tr>
 <td>81</td>
-<td>0.0899</td>
+<td>0.0708</td>
 </tr>
 <tr>
 <td>82</td>
-<td>0.0927</td>
+<td>0.0738</td>
 </tr>
 <tr>
 <td>83</td>
-<td>0.0958</td>
+<td>0.0771</td>
 </tr>
 <tr>
 <td>84</td>
-<td>0.0993</td>
+<td>0.0808</td>
 </tr>
 <tr>
 <td>85</td>
-<td>0.1033</td>
+<td>0.0851</td>
 </tr>
 <tr>
 <td>86</td>
-<td>0.1079</td>
+<td>0.0899</td>
 </tr>
 <tr>
 <td>87</td>
-<td>0.1133</td>
+<td>0.0955</td>
 </tr>
 <tr>
 <td>88</td>
-<td>0.1196</td>
+<td>0.1021</td>
 </tr>
 <tr>
 <td>89</td>
-<td>0.1271</td>
+<td>0.1099</td>
 </tr>
 <tr>
 <td>90</td>
-<td>0.1362</td>
+<td>0.1192</td>
 </tr>
 <tr>
 <td>91</td>
-<td>0.1473</td>
+<td>0.1306</td>
 </tr>
 <tr>
 <td>92</td>
-<td>0.1612</td>
+<td>0.1449</td>
 </tr>
 <tr>
 <td>93</td>
-<td>0.1792</td>
+<td>0.1634</td>
 </tr>
 <tr>
-<td>94 or older</td>
-<td>0.2</td>
+<td>94</td>
+<td>0.1879</td>
+</tr>
+<tr>
+<td>95 or older</td>
+<td>0.2000</td>
 </tr>
 </table>
 
@@ -14325,112 +14382,116 @@ where
 - **(4)** For the purposes of the definition ***minimum amount*** in subsection 146.3(1) of the Act and subsection 8506(5), the prescribed factor in respect of an individual for a year in connection with a retirement income fund (other than a fund that was a qualifying retirement income fund at the beginning of the year) or the designated factor in respect of an individual for a year in connection with an account under a money purchase provision of a registered pension plan, as the case may be, is the factor, determined in accordance with the following table, that corresponds to the age in whole years (in the table referred to as “Y”) attained by the individual at the beginning of the year or that would have been so attained by the individual if the individual was alive at the beginning of the year.
 <table>
 <tr>
-<th></th>
-<th>Y Factor</th>
+<th>Y</th>
+<th>Factor</th>
 </tr>
 <tr>
-<td>under 71</td>
-<td>1/(90 - Y)</td>
+<td>Under 71</td>
+<td>1/(90 – Y)</td>
 </tr>
 <tr>
 <td>71</td>
-<td>0.0738</td>
+<td>0.0528</td>
 </tr>
 <tr>
 <td>72</td>
-<td>0.0748</td>
+<td>0.0540</td>
 </tr>
 <tr>
 <td>73</td>
-<td>0.0759</td>
+<td>0.0553</td>
 </tr>
 <tr>
 <td>74</td>
-<td>0.0771</td>
+<td>0.0567</td>
 </tr>
 <tr>
 <td>75</td>
-<td>0.0785</td>
+<td>0.0582</td>
 </tr>
 <tr>
 <td>76</td>
-<td>0.0799</td>
+<td>0.0598</td>
 </tr>
 <tr>
 <td>77</td>
-<td>0.0815</td>
+<td>0.0617</td>
 </tr>
 <tr>
 <td>78</td>
-<td>0.0833</td>
+<td>0.0636</td>
 </tr>
 <tr>
 <td>79</td>
-<td>0.0853</td>
+<td>0.0658</td>
 </tr>
 <tr>
 <td>80</td>
-<td>0.0875</td>
+<td>0.0682</td>
 </tr>
 <tr>
 <td>81</td>
-<td>0.0899</td>
+<td>0.0708</td>
 </tr>
 <tr>
 <td>82</td>
-<td>0.0927</td>
+<td>0.0738</td>
 </tr>
 <tr>
 <td>83</td>
-<td>0.0958</td>
+<td>0.0771</td>
 </tr>
 <tr>
 <td>84</td>
-<td>0.0993</td>
+<td>0.0808</td>
 </tr>
 <tr>
 <td>85</td>
-<td>0.1033</td>
+<td>0.0851</td>
 </tr>
 <tr>
 <td>86</td>
-<td>0.1079</td>
+<td>0.0899</td>
 </tr>
 <tr>
 <td>87</td>
-<td>0.1133</td>
+<td>0.0955</td>
 </tr>
 <tr>
 <td>88</td>
-<td>0.1196</td>
+<td>0.1021</td>
 </tr>
 <tr>
 <td>89</td>
-<td>0.1271</td>
+<td>0.1099</td>
 </tr>
 <tr>
 <td>90</td>
-<td>0.1362</td>
+<td>0.1192</td>
 </tr>
 <tr>
 <td>91</td>
-<td>0.1473</td>
+<td>0.1306</td>
 </tr>
 <tr>
 <td>92</td>
-<td>0.1612</td>
+<td>0.1449</td>
 </tr>
 <tr>
 <td>93</td>
-<td>0.1792</td>
+<td>0.1634</td>
 </tr>
 <tr>
-<td>94 or older</td>
-<td>0.2</td>
+<td>94</td>
+<td>0.1879</td>
+</tr>
+<tr>
+<td>95 or older</td>
+<td>0.2000</td>
 </tr>
 </table>
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ;  SOR/94-127, s. 1; SOR/2000-63, s. 2; SOR/2005-264, s. 14.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ;  SOR/94-127, s. 1; SOR/2000-63, s. 2; SOR/2005-264, s. 14; 2015, c. 36, s. 23.
 
 
 
@@ -17917,7 +17978,32 @@ where
 	- **(ii)** the amount that would, in the absence of paragraph (7)(b), be the minimum amount for the account for 2008,
 - **B** is the minimum amount for the account for 2008, and
 - **C** is the total of all other contributions made by the member under the money purchase provision at or before the time of the contribution and designated for the purposes of this subsection.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 13; SOR/99-9, s. 23; SOR/2001-188, ss. 14, 15; SOR/2005-264, s. 28; 2007, c. 29, s. 36; 2009, c. 2, s. 117.
+
+#### Recontribution for 2015
+
+
+- **(11)** If a contribution made by a member of a registered pension plan and credited to the member’s account under a money purchase provision of the plan complies with the conditions in subsection (12), the contribution
+	- **(a)** is deemed to have been made in accordance with the plan as registered;
+	- **(b)** is to be disregarded for the purposes of paragraph (2)(c.1); and
+	- **(c)** is deemed to be an excluded contribution for the purposes of paragraph 8301(4)(a).
+
+#### Conditions Referred to in Subsection (11)
+
+
+- **(12)** The conditions referred to in subsection (11) are as follows:
+	- **(a)** the contribution is made after December 31, 2014 and before March 1, 2016;
+	- **(b)** the contribution is designated for the purposes of this subsection in a manner acceptable to the Minister; and
+	- **(c)** the amount of the contribution does not exceed the amount determined by the formula
+```
+A – B – C
+```
+where
+- **A** is the lesser of
+	- **(i)** the total of all amounts each of which is the amount of a retirement benefit (other than a retirement benefit permissible under any of paragraphs (1)(a) to (e)) paid from the plan in 2015 in respect of the account and included, because of paragraph 56(1)(a) of the Act, in computing the taxpayer’s income for the taxation year, and
+	- **(ii)** the amount that would be the minimum amount for the account for 2015 if it were determined using the factor designated under subsection 7308(4) as it read on December 31, 2014,
+- **B** is the minimum amount for the account for 2015, and
+- **C** is the total of all other contributions made by the member under the money purchase provision at or before the time of the contribution and designated for the purposes of this subsection.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 13; SOR/99-9, s. 23; SOR/2001-188, ss. 14, 15; SOR/2005-264, s. 28; 2007, c. 29, s. 36; 2009, c. 2, s. 117; 2015, c. 36, s. 24.
 
 
 
@@ -22719,7 +22805,7 @@ Property that is
 
 Property acquired after February 25, 1992 that
 
-**(a)** is not included in Class 29, but that would otherwise be included in that Class if that Class were read without reference to subparagraphs (b)(iii) and (v) and paragraph (c) thereof; or
+**(a)** is not included in Class 29 or 53, but that would otherwise be included in Class 29 if that Class were read without reference to its subparagraphs (b)(iii) and (v) and paragraph (c); or
 
 
 
@@ -22734,7 +22820,7 @@ Property acquired after February 25, 1992 that
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/94-169, s. 12; SOR/97-377, s. 12..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/94-169, s. 12; SOR/97-377, s. 12; 2015, c. 36, s. 25..
 
 
 
@@ -23334,7 +23420,23 @@ Property acquired by a taxpayer after January 27, 2009 and before February 2011 
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2009-126, s. 11; SOR/2009-155, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/2009-126, s. 11; SOR/2009-155, s. 1..
+
+
+
+
+**CLASS 53** 
+
+Property acquired after 2015 and before 2026 that is not included in Class 29, but that would otherwise be included in that Class if
+
+**(a)** subparagraph (a)(ii) of that Class were read without reference to “in Canadian field processing carried on by the lessee or”; and
+
+
+
+**(b)** that Class were read without reference to its subparagraphs (b)(iv) to (vi) and paragraph (c).
+
+
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2015, c. 36, s. 26.
 
 
 
