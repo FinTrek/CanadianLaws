@@ -345,12 +345,12 @@ and that is declared by order of the Minister to be a relevant association or or
 
 **9** 
 
-- **(1)** Where the Minister is satisfied that an objection filed under subsection 8(2) is frivolous or vexatious, the Minister may send a notice to that effect to the person who filed the objection, and the objection shall thereupon be disregarded for all purposes of this Act.
+- **(1)** Where the Minister is satisfied that an objection filed under subsection 8(2) is frivolous or vexatious or that the proposed railway work to which the objection relates is in the public interest, the Minister may send a notice to that effect to the person who filed the objection, and the objection shall thereupon be disregarded for all purposes of this Act.
 
 **Proponent to be notified**
 
 - **(2)** The Minister shall send a copy of a notice under subsection (1) to the proponent.
-> R.S., 1985, c. 32 (4th Supp.), s. 9; 1999, c. 9, s. 37(E).
+> R.S., 1985, c. 32 (4th Supp.), s. 9; 1999, c. 9, s. 37(E); 2015, c. 35, s. 1.
 
 
 
@@ -1703,10 +1703,14 @@ the Minister may
 
 - **(3.2)** If the Minister is of the opinion that a company is implementing any part of its safety management system in a manner that risks compromising railway safety, the Minister may, by notice sent to the company, order it to take the necessary corrective measures.
 
+**Railway operation**
+
+- **(3.21)** If the Minister is of the opinion that a railway operation poses a significant threat to the safety of persons or property or to the environment, the Minister may, by notice sent to the person responsible for the railway operation, order the person to take the necessary corrective measures.
+
 **Contents of notice**
 
-- **(4)** An order contained in a notice under subsection (1) or under any of subsections (3) to (3.2) takes effect on the date of receipt of the notice. The notice shall indicate the date, which shall be 30 days after the day on which the notice is sent, on or before which the recipient may file a request for a review of the order and the address to which the request may be filed.
-> R.S., 1985, c. 32 (4th Supp.), s. 32; 1999, c. 9, s. 25; 2001, c. 29, s. 68; 2012, c. 7, s. 24; 2015, c. 31, s. 26.
+- **(4)** An order contained in a notice under subsection (1) or under any of subsections (3) to (3.21) takes effect on the date of receipt of the notice. The notice shall indicate the date, which shall be 30 days after the day on which the notice is sent, on or before which the recipient may file a request for a review of the order and the address to which the request may be filed.
+> R.S., 1985, c. 32 (4th Supp.), s. 32; 1999, c. 9, s. 25; 2001, c. 29, s. 68; 2012, c. 7, s. 24; 2015, c. 31, ss. 26, 39, c. 35, s. 3.
 
 
 
@@ -1769,8 +1773,8 @@ the Minister may
 
 **Stay of order**
 
-**32.3** If a request for review is filed, an order made under subsection 32(1), (3.1) or (3.2) shall be stayed until the matter is finally disposed of in accordance with section 32.1, 32.2 or 32.4. However, an order made under subsection 32(3) or section 32.01 shall not be stayed pending a review under section 32.1, an appeal under section 32.2 or a reconsideration by the Minister under subsection 32.1(5) or 32.2(3).
-> 2001, c. 29, s. 69; 2015, c. 31, s. 30.
+**32.3** If a request for review is filed, an order made under subsection 32(1), (3.1) or (3.2) shall be stayed until the matter is finally disposed of in accordance with section 32.1, 32.2 or 32.4. However, an order made under subsection 32(3) or (3.21) or section 32.01 shall not be stayed pending a review under section 32.1, an appeal under section 32.2 or a reconsideration by the Minister under subsection 32.1(5) or 32.2(3).
+> 2001, c. 29, s. 69; 2015, c. 31, ss. 30, 39, c. 35, s. 4.
 
 
 
