@@ -901,7 +901,6 @@ NOTE: In this Schedule, “Age” refers to the age of the participant on the th
 ### **SCHEDULE III** 
 **(ss. 2 and 27)**
 Crown corporations and public boards excluded from the application of Part II of the Act:
-- Atomic Energy of Canada Limited
 - Canadian Broadcasting Corporation
 - Canadian Nuclear Laboratories Ltd.
 - Canadian Overseas Telecommunications Corporation
@@ -919,7 +918,7 @@ Crown corporations and public boards excluded from the application of Part II o
 - The Seaway International Bridge Corporation Limited
 
 
-> SOR/78-288, s. 1; SOR/78-760, s. 1; SOR/79-500, s. 1; SOR/79-794, s. 1; SOR/90-201, s. 1; SOR/92-716, s. 10(F); SOR/99-378, s. 13; 2001, c. 34, s. 17; SOR/2014-249, s. 1.
+> SOR/78-288, s. 1; SOR/78-760, s. 1; SOR/79-500, s. 1; SOR/79-794, s. 1; SOR/90-201, s. 1; SOR/92-716, s. 10(F); SOR/99-378, s. 13; 2001, c. 34, s. 17; SOR/2014-249, s. 1; SOR/2015-172, s. 1.
 
 
 
