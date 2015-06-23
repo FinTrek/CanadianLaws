@@ -667,10 +667,10 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 
 **Employés parlementaires**
 
-**35.3** La personne employée au Sénat, à la Chambre des communes, à la Bibliothèque du Parlement, au bureau du conseiller sénatorial en éthique ou au bureau du commissaire aux conflits d’intérêts et à l’éthique :
+**35.3** La personne employée au Sénat, à la Chambre des communes, à la Bibliothèque du Parlement, au bureau du conseiller sénatorial en éthique, au bureau du commissaire aux conflits d’intérêts et à l’éthique ou au Service de protection parlementaire :
 - **a)** peut participer à tout processus de nomination annoncé pour lequel le critère organisationnel fixé en vertu de l’article 34 vise tous les fonctionnaires, pourvu qu’elle satisfasse aux autres critères fixés, le cas échéant, en vertu de cet article;
 - **b)** a le droit de présenter une plainte en vertu de l’article 77.
-> 2006, ch. 9, art. 101.
+> 2006, ch. 9, art. 101; 2015, ch. 36, art. 151.
 
 
 
