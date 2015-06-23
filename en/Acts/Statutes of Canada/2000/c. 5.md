@@ -123,6 +123,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** the organization collects, uses or discloses in the course of commercial activities; or
 	- **(b)** is about an employee of, or an applicant for employment with, the organization and that the organization collects, uses or discloses in connection with the operation of a federal work, undertaking or business.
 
+**Application**
+
+- **(1.1)** This Part applies to an organization set out in column 1 of Schedule 4 in respect of personal information set out in column 2.
+
 **Limit**
 
 - **(2)** This Part does not apply to
@@ -134,8 +138,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#P-8.6_en_1'>[*]</a></sup>**(3)** Every provision of this Part applies despite any provision, enacted after this subsection comes into force, of any other Act of Parliament, unless the other Act expressly declares that that provision operates despite the provision of this Part.
 
-<a name='P-8.6_en_1'><sup>*</sup></a>: [Note: Subsection 4(3) in force January 1, 2001, *see* SI/2000-29.]<br />
-> 2000, c. 5, s. 4; 2015, c. 32, s. 3.
+<a name='P-8.6_en_1'><sup>*</sup></a>: [Note: Subsection 4(3) in force January 1, 2001, *see* SI/2000-29.]<br />
+> 2000, c. 5, s. 4; 2015, c. 32, s. 3, c. 36, s. 164.
 
 
 
@@ -980,16 +984,17 @@ However, in the circumstances described in paragraph (b) or (c), if giving acce
 - **(1)** The Governor in Council may make regulations for carrying out the purposes and provisions of this Part, including regulations
 	- **(a)** specifying, by name or by class, what is a government institution or part of a government institution for the purposes of any provision of this Part;
 	- **(a.01)** [Repealed, 2015, c. 32, s. 21]
-	- **(a.1)** specifying information or classes of information for the purpose of paragraph 7(1)(d), (2)(c.1) or (3)(h.1);
-	- **(b)** specifying information to be kept and maintained under subsection 10.3(1); and
+	- **(a.1)** specifying information or classes of information for the purpose of paragraph 7(1)(d), (2)(c.1) or (3)(h.1);
+	- **(b)** specifying information to be kept and maintained under subsection 10.3(1); and
 	- **(c)** prescribing anything that by this Part is to be prescribed.
 
 **Orders**
 
 - **(2)** The Governor in Council may, by order,
-	- **(a)** provide that this Part is binding on any agent of Her Majesty in right of Canada to which the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md) does not apply; and
-	- **(b)** if satisfied that legislation of a province that is substantially similar to this Part applies to an organization, a class of organizations, an activity or a class of activities, exempt the organization, activity or class from the application of this Part in respect of the collection, use or disclosure of personal information that occurs within that province.
-> 2000, c. 5, s. 26; 2015, c. 32, s. 21.
+	- **(a)** provide that this Part is binding on any agent of Her Majesty in right of Canada to which the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md) does not apply;
+	- **(b)** if satisfied that legislation of a province that is substantially similar to this Part applies to an organization, a class of organizations, an activity or a class of activities, exempt the organization, activity or class from the application of this Part in respect of the collection, use or disclosure of personal information that occurs within that province; and
+	- **(c)** amend Schedule 4.
+> 2000, c. 5, s. 26; 2015, c. 32, s. 21, c. 36, s. 165.
 
 
 
@@ -1856,5 +1861,33 @@ An organization shall investigate all complaints. If a complaint is found to be 
 </table>
 
 > 2000, c. 5, Sch. 3; SOR/2004-309, s. 2; SOR/2005-407.
+
+
+
+
+### **SCHEDULE 4** 
+**(Subsection 4(1.1) and paragraph 26(2)(c))**
+<table>
+<h4>Organizations</h4>
+<tr>
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>Organization</th>
+<th>Personal Information</th>
+</tr>
+<tr>
+<td>1</td>
+<td>
+
+World Anti-Doping Agency<br />- <i>Agence mondiale antidopage</i></td>
+<td>Personal information that the organization collects, uses or discloses in the course of its interprovincial or international activities</td>
+</tr>
+</table>
+
+> 2015, c. 36, s. 166.
 
 
