@@ -53,11 +53,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-#### Conditional Amendment
-
-
-**10** [Amendment]
+**10** [Repealed, 2015, c. 36, s. 160]
 
 
 
