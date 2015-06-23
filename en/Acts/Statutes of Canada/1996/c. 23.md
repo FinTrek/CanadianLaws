@@ -2092,18 +2092,11 @@ is to be considered to have worked or not worked a full working week;
 
 **Definition of insured participant**
 
-**58** 
+**58** In this Part, ***insured participant*** means an insured person who requests assistance under employment benefits and, when requesting the assistance, is an unemployed person
+- **(a)** for whom a benefit period is established or whose benefit period has ended within the previous 60 months; or
+- **(b)** who would have had a benefit period established for them within the previous 60 months if it were not for the fact that they have had fewer than the hours referred to in subsection 7(4) in the last 52 weeks before what would have been their qualifying period and who, during what would have been that qualifying period, has had at least the number of hours of insurable employment indicated in the table set out in subsection 7(2) or 7.1(1) in relation to their applicable regional rate of unemployment.
+> 1996, c. 23, s. 58; 2015, c. 36, s. 153.
 
-- **(1)** In this Part, ***insured participant*** means an insured person who requests assistance under employment benefits and, when requesting the assistance, is an unemployed person
-	- **(a)** for whom a benefit period is established or whose benefit period has ended within the previous 36 months; or
-	- **(b)** for whom a benefit period has been established in the previous 60 months and who
-		- **(i)** was paid special benefits under section 22 or 23 during the benefit period,
-		- **(ii)** subsequently withdrew from active participation in the labour force to care for one or more of their new-born children or one or more children placed with them for the purpose of adoption, and
-		- **(iii)** is seeking to re-enter the labour force.
-
-**Interpretation**
-
-- **(2)** For the purposes of subsection (1), ***benefit period*** includes a benefit period established under the Unemployment Insurance Act and ***special benefits*** includes benefits under sections 18 and 20 of that Act.
 
 
 
@@ -2188,9 +2181,26 @@ is to be considered to have worked or not worked a full working week;
 
 **Agreements for paying costs of similar benefits and measures**
 
-**63** The Commission may, with the approval of the Minister, enter into an agreement with a government or government agency in Canada or any other public or private organization to provide for the payment of contributions for all or a portion of
-- **(a)** any costs of benefits or measures provided by the government, government agency or organization that are similar to employment benefits or support measures under this Part and are consistent with the purpose and guidelines of this Part; and
-- **(b)** any administration costs that the government, government agency or organization incurs in providing the benefits or measures.
+**63** 
+
+- **(1)** The Commission may, with the approval of the Minister, enter into an agreement with a government or government agency in Canada or any other public or private organization to provide for the payment of contributions for all or a portion of
+	- **(a)** any costs of benefits or measures provided by the government, government agency or organization that are similar to employment benefits or support measures under this Part and are consistent with the purpose and guidelines of this Part; and
+	- **(b)** any administration costs that the government, government agency or organization incurs in providing the benefits or measures.
+
+**Insured participants**
+
+- **(2)** An agreement may be entered into under subsection (1) with a government even if the benefits provided by that government are provided only for an insured participant as defined in section 58 as it read immediately before the day on which this subsection comes into force.
+> 1996, c. 23, s. 63; 2015, c. 36, s. 154.
+
+
+
+
+
+**Transitional provision**
+
+**63.1** Contributions that are to be paid under an agreement that, before the day on which this section comes into force, was entered into with a government under section 63 to provide for the payment of contributions for all or a portion of the costs of benefits provided by the government that are similar to employment benefits under this Part shall be paid only for costs of benefits for an insured participant as defined in section 58 as it read immediately before that day.
+> 2015, c. 36, s. 155.
+
 
 
 
@@ -2574,8 +2584,8 @@ is to be considered to have worked or not worked a full working week;
 - **(1)** There shall be paid out of the Consolidated Revenue Fund and charged to the Employment Insurance Operating Account
 	- **(a)** all amounts paid as or on account of benefits under this Act;
 	- **(b)** all amounts paid under section 61 for employment benefits and support measures authorized by Part II;
-	- **(c)** all amounts paid under paragraph 63(a);
-	- **(d)** the costs of administering this Act, including administration fees or costs paid under section 62 or paragraph 63(b);
+	- **(c)** all amounts paid under paragraph 63(1)(a);
+	- **(d)** the costs of administering this Act, including administration fees or costs paid under section 62 or paragraph 63(1)(b);
 	- **(d.1)** the costs of administering sections 28.1 and 28.2 of the [Department of Employment and Social Development Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2034.md); and
 	- **(e) and (f)** [Repealed, 2012, c. 31, s. 439]
 	- **(g)** the costs of administering Part 5 of the [Department of Employment and Social Development Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2034.md) in respect of appeals respecting this Act.
@@ -2587,7 +2597,7 @@ is to be considered to have worked or not worked a full working week;
 **No charge for negotiation**
 
 - **(3)** The special warrants are negotiable without charge at any financial institution in Canada.
-> 1996, c. 23, ss. 77, 189(E); 1999, c. 31, s. 79(E); 2008, c. 28, s. 129; 2010, c. 12, s. 2194; 2012, c. 19, ss. 245, 307, c. 31, ss. 439, 462(E); 2013, c. 40, s. 236.
+> 1996, c. 23, ss. 77, 189(E); 1999, c. 31, s. 79(E); 2008, c. 28, s. 129; 2010, c. 12, s. 2194; 2012, c. 19, ss. 245, 307, c. 31, ss. 439, 462(E); 2013, c. 40, s. 236; 2015, c. 36, s. 156.
 
 
 
@@ -2613,8 +2623,8 @@ is to be considered to have worked or not worked a full working week;
 
 **Maximum amount that may be paid under Part II**
 
-**78** The total amount that may be paid out by the Commission under section 61 and paragraph 63(a) and charged to the Employment Insurance Operating Account under this Part in a fiscal year must not exceed 0.8% of the insurable earnings of all insured persons from which the prescribed amount is deducted under subsection 82(1) in that year as or on account of employee’s premiums, as estimated by the Commission and set out in the Main Estimates tabled in Parliament.
-> 1996, c. 23, s. 78; 2010, c. 12, s. 2194.
+**78** The total amount that may be paid out by the Commission under section 61 and paragraph 63(1)(a) and charged to the Employment Insurance Operating Account under this Part in a fiscal year must not exceed 0.8% of the insurable earnings of all insured persons from which the prescribed amount is deducted under subsection 82(1) in that year as or on account of employee’s premiums, as estimated by the Commission and set out in the Main Estimates tabled in Parliament.
+> 1996, c. 23, s. 78; 2010, c. 12, s. 2194; 2015, c. 36, s. 157.
 
 
 
