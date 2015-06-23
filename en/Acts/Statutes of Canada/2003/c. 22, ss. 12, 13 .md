@@ -665,10 +665,10 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Parliamentary employees**
 
-**35.3** A person employed in the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner
+**35.3** A person employed in the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner or Parliamentary Protective Service
 - **(a)** may participate in an advertised appointment process for which the organizational criterion established under section 34 entitles all employees to be considered, as long as the person meets the other criteria, if any, established under that section; and
 - **(b)** has the right to make a complaint under section 77.
-> 2006, c. 9, s. 101.
+> 2006, c. 9, s. 101; 2015, c. 36, s. 151.
 
 
 
