@@ -481,9 +481,9 @@ le montant que l’employeur doit déduire ou retenir sur un tel paiement est la
 
 **108** 
 
-- **(1)** Sous réserve des paragraphes (1.1), (1.11) et (1.12), les montants déduits ou retenus au cours d’un mois aux termes du paragraphe 153(1) de la Loi doivent être remis au receveur général au plus tard le 15<sup>e</sup> jour du mois suivant.
+- **(1)** Sous réserve des paragraphes (1.1) à (1.13), les montants déduits ou retenus au cours d’un mois aux termes du paragraphe 153(1) de la Loi doivent être remis au receveur général au plus tard le 15<sup>e</sup> jour du mois suivant.
 
-- **(1.1)** Sous réserve du paragraphe (1.11), dans le cas où la retenue mensuelle moyenne effectuée par un employeur pour la deuxième année civile précédant une année civile donnée est :
+- **(1.1)** Sous réserve du paragraphe (1.11), dans le cas où la retenue mensuelle moyenne effectuée par un employeur pour la deuxième année civile précédant une année civile donnée est :
 	- **a)** égale ou supérieure à 25 000 $ et inférieure à 100 000 $, les montants déduits ou retenus sur les paiements visés à la définition de ***rémunération*** au paragraphe 100(1) qui sont effectués par l’employeur au cours d’un mois de l’année civile donnée doivent être remis au receveur général au plus tard :
 		- **(i)** le 25<sup>e</sup> jour du mois, si les paiements sont effectués avant le 16<sup>e</sup> jour du mois,
 		- **(ii)** le 10<sup>e</sup> jour du mois suivant, s’ils sont effectués après le 15<sup>e</sup> jour du mois;
@@ -493,42 +493,66 @@ le montant que l’employeur doit déduire ou retenir sur un tel paiement est la
 		- **(iii)** la période commençant le 15<sup>e</sup> jour et se terminant le 21<sup>e</sup> jour du mois,
 		- **(iv)** la période commençant le 22<sup>e</sup> jour et se terminant le dernier jour du mois.
 
-- **(1.11)** L’employeur visé aux alinéas (1.1)a) ou b) qui serait normalement tenu de remettre, conformément à l’un ou l’autre de ces alinéas, les montants déduits ou retenus aux termes du paragraphe 153(1) de la Loi pour une année civile donnée peut choisir de les remettre :
+- **(1.11)** L’employeur visé aux alinéas (1.1)a) ou b) qui serait normalement tenu de remettre, conformément à l’un ou l’autre de ces alinéas, les montants déduits ou retenus aux termes du paragraphe 153(1) de la Loi pour une année civile donnée peut choisir de les remettre :
 	- **a)** conformément au paragraphe (1), si la retenue mensuelle moyenne effectuée par lui pour l’année civile précédant l’année civile donnée est inférieure à 25 000 $ et s’il informe le ministre de son choix;
 	- **b)** si la retenue mensuelle moyenne effectuée par lui pour l’année civile précédant l’année civile donnée est égale ou supérieure à 25 000 $ et inférieure à 100 000 $ et s’il informe le ministre de son choix :
 		- **(i)** à l’égard des paiements effectués avant le 16<sup>e</sup> jour d’un mois de l’année civile donnée, au plus tard le 25<sup>e</sup> jour de ce mois,
 		- **(ii)** à l’égard des paiements effectués après le 15<sup>e</sup> jour d’un mois de l’année civile donnée, au plus tard le 10<sup>e</sup> jour du mois suivant.
 
-- **(1.12)** Lorsque à un moment donné, à la fois :
-	- **a)** la retenue mensuelle moyenne effectuée par un employeur pour la première ou la deuxième année civile précédant l’année civile donnée qui inclut ce moment est inférieure à 3 000 $;
+- **(1.12)** Lorsque à un moment donné, à la fois :
+	- **a)** la retenue mensuelle moyenne effectuée par un employeur pour la première ou la deuxième année civile précédant l’année civile donnée qui inclut ce moment est inférieure à 3 000 $;
 	- **b)** tout au long de la période de 12 mois qui précède ce moment, l’employeur a remis, au plus tard à la date où ils devaient être remis, tous les montants à remettre ou à verser aux termes du paragraphe 153(1) de la Loi, du paragraphe 21(1) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), du paragraphe 82(1) de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md) ou de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md);
 	- **c)** tout au long de la période de 12 mois qui précède ce moment, l’employeur a produit toutes les déclarations qui devaient être produites aux termes de la présente Loi ou de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) au plus tard à la date où ces déclarations devaient être produites aux termes de ces lois,
-les montants déduits ou retenus sur les paiements visés à la définition de ***rémunération*** au paragraphe 100(1) qui sont effectués par l’employeur au cours d’un mois qui se termine après le moment donné et qui tombe dans l’année civile donnée peuvent être remis au receveur général :
+les montants déduits ou retenus sur les paiements visés à la définition de ***rémunération*** au paragraphe 100(1) qui sont effectués par l’employeur au cours d’un mois qui se termine après le moment donné et qui tombe dans l’année civile donnée peuvent être remis au receveur général :
 	- **d)** au plus tard le 15 avril de l’année civile donnée en ce qui concerne les paiements effectués au cours des mois de janvier, février et mars de l’année donnée,
 	- **e)** au plus tard le 15 juillet de l’année civile donnée en ce qui concerne les paiements effectués au cours des mois d’avril, mai et juin de l’année donnée,
 	- **f)** au plus tard le 15 octobre de l’année civile donnée en ce qui concerne les paiements effectués au cours des mois de juillet, août et septembre de l’année donnée,
 	- **g)** au plus tard le 15 janvier de l’année qui suit l’année civile donnée en ce qui concerne les paiements effectués au cours des mois d’octobre, novembre et décembre de l’année donnée.
 
-- **(1.2)** Pour l’application du présent article, la retenue mensuelle moyenne effectuée par un employeur pour une année civile donnée est le quotient :
-	- **a)** du total des sommes dont chacune est une somme à remettre pour l’année donnée par cet employeur et, s’il s’agit d’une société, par chaque société qui lui est associée au cours d’une année d’imposition de l’employeur se terminant pendant la deuxième année civile suivant l’année donnée, en application, selon le cas :
+- **(1.13)** Lorsqu’un employeur est un nouvel employeur tout au long d’un mois donné d’une année civile donnée, les montants déduits ou retenus sur les paiements visés à la définition de ***rémunération*** au paragraphe 100(1) qui sont effectués par l’employeur au cours du mois peuvent être remis au receveur général :
+	- **a)** au plus tard le 15 avril de l’année civile donnée en ce qui concerne les paiements effectués au cours des mois de janvier, février et mars de cette année;
+	- **b)** au plus tard le 15 juillet de l’année civile donnée en ce qui concerne les paiements effectués au cours des mois d’avril, mai et juin de cette année;
+	- **c)** au plus tard le 15 octobre de l’année civile donnée en ce qui concerne les paiements effectués au cours des mois de juillet, août et septembre de cette année;
+	- **d)** au plus tard le 15 janvier de l’année qui suit l’année civile donnée en ce qui concerne les paiements effectués au cours des mois d’octobre, novembre et décembre de cette année.
+
+- **(1.2)** Pour l’application du présent article, la retenue mensuelle moyenne effectuée par un employeur pour une année civile donnée est le quotient :
+	- **a)** du total des sommes dont chacune est une somme à remettre pour l’année donnée par cet employeur et, s’il s’agit d’une société, par chaque société qui lui est associée au cours d’une année d’imposition de l’employeur se terminant pendant la deuxième année civile suivant l’année donnée, en application, selon le cas :
 		- **(i)** du paragraphe 153(1) de la Loi et d’une disposition semblable d’une loi provinciale qui prévoit un impôt sur le revenu des particuliers, dans le cas où la province a conclu avec le ministre des Finances une convention pour la perception des impôts payables à la province, au titre des paiements visés à la définition de ***rémunération*** au paragraphe 100(1),
 		- **(ii)** du paragraphe 21(1) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md),
 		- **(iii)** du paragraphe 82(1) de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md),
 par
 	- **b)** le nombre de mois de l’année donnée, ne dépassant pas 12, pour lesquels ces sommes doivent être remises par l’employeur et, s’il s’agit d’une société, par chaque société qui lui est associée au cours d’une année d’imposition de l’employeur se terminant pendant la deuxième année civile suivant l’année donnée.
 
-- **(1.3)** Pour l’application du paragraphe (1.2), dans le cas où un employeur donné qui est une société acquiert, au cours d’une année d’imposition de celle-ci se terminant pendant une année civile donnée, la totalité, ou presque, les biens d’un autre employeur dont celui-ci se sert dans le cadre d’une entreprise :
+- **(1.21)** Pour l’application du paragraphe (1.4), la retenue mensuelle à effectuer par un employeur pour un mois est le total des sommes dont chacune est une somme à remettre pour le mois par l’employeur et, s’il s’agit d’une société, par chaque société qui lui est associée, en application, selon le cas :
+	- **a)** du paragraphe 153(1) de la Loi et de toute disposition semblable d’une loi provinciale qui prévoit un impôt sur le revenu des particuliers, si la province a conclu avec le ministre des Finances un accord qui prévoit la perception des impôts payables à la province, au titre des paiements visés à la définition de ***rémunération*** au paragraphe 100(1);
+	- **b)** du paragraphe 21(1) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md);
+	- **c)** du paragraphe 82(1) de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md).
+
+- **(1.3)** Pour l’application du paragraphe (1.2), dans le cas où un employeur donné qui est une société acquiert, au cours d’une année d’imposition de celle-ci se terminant pendant une année civile donnée, la totalité, ou presque, les biens d’un autre employeur dont celui-ci se sert dans le cadre d’une entreprise :
 	- **a)** en raison d’une fusion au sens de l’article 87 de la Loi,
 	- **b)** par suite d’une liquidation à laquelle le paragraphe 88(1) de la Loi s’applique,
 	- **c)** dans le cadre d’une opération visée par le choix prévu au paragraphe 85(1) ou (2) de la Loi,
 cet autre employeur est réputé être une société associée à l’employeur donné au cours de l’année d’imposition et de chaque année d’imposition se terminant pendant les deux années civiles suivantes.
+
+- **(1.4)** Pour l’application du paragraphe (1.13), un employeur est réputé :
+	- **a)** devenir un nouvel employeur au début d’un mois après 2015 au cours duquel l’employeur devient un employeur pour la première fois;
+	- **b)** cesser d’être un nouvel employeur à un moment déterminé d’une année donnée si, au cours d’un mois donné, aucun des énoncés ci-après ne se vérifie à l’égard de l’employeur :
+		- **(i)** la retenue mensuelle à effectuer par l’employeur pour le mois donné est inférieure à 1 000 $,
+		- **(ii)** tout au long de la période de 12 mois qui précède ce moment, l’employeur a remis, au plus tard à la date où ils devaient l’être, tous les montants qui étaient à remettre ou à verser aux termes du paragraphe 153(1) de la Loi, du paragraphe 21(1) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), du paragraphe 82(1) de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md) ou de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md),
+		- **(iii)** tout au long de la période de 12 mois qui précède ce moment, l’employeur a présenté ou a produit chaque déclaration dont la présentation ou la production était requise selon la Loi ou la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) au plus tard à la date où la déclaration devait être présentée ou produite en vertu de la loi applicable.
+
+- **(1.41)** Pour l’application du paragraphe (1.4), le moment déterminé correspond à la fin :
+	- **a)** du mois de mars de l’année donnée, si le mois donné est le mois de janvier, février ou mars de cette année;
+	- **b)** du mois de juin de l’année donnée, si le mois donné est le mois d’avril, mai ou juin de cette année;
+	- **c)** du mois de septembre de l’année donnée, si le mois donné est le mois de juillet, août ou septembre de cette année;
+	- **d)** du mois de décembre de l’année donnée, si le mois donné est le mois d’octobre, novembre ou décembre de cette année.
 
 - **(2)** Lorsque l’employeur a cessé d’exploiter une entreprise, tout montant déduit ou retenu en vertu du paragraphe 153(1) de la Loi qui n’a pas été remis au Receveur général doit l’être dans les 7 jours de la date à laquelle l’employeur a cessé d’exploiter l’entreprise.
 
 - **(3)** Les remises au Receveur général en vertu du paragraphe 153(1) de la Loi doivent être accompagnées d’une déclaration selon le formulaire prescrit.
 
 - **(4)** Les montants déduits ou retenus en vertu du paragraphe 153(4) de la Loi doivent être remis au Receveur général dans les 60 jours de la fin de l’année d’imposition qui suit la période de 12 mois mentionnée dans ce paragraphe.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/87-718, art. 1; DORS/88-165, art. 31(F); DORS/89-579, art. 1; DORS/91-536, art. 3; DORS/93-93, art. 1; DORS/94-686, art. 79(F); DORS/97-472, art. 3; DORS/99-17, art. 4; 2007, ch. 35, art. 71; 2014, ch. 20, art. 33.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/87-718, art. 1; DORS/88-165, art. 31(F); DORS/89-579, art. 1; DORS/91-536, art. 3; DORS/93-93, art. 1; DORS/94-686, art. 79(F); DORS/97-472, art. 3; DORS/99-17, art. 4; 2007, ch. 35, art. 71; 2014, ch. 20, art. 33; 2015, ch. 36, art. 20.
 
 
 
@@ -3217,6 +3241,7 @@ et le produit de la multiplication faite aux termes de l’alinéa d) est le mon
 		- **(xxxvi)** de la catégorie 50, 55 pour cent,
 		- **(xxxvii)** de la catégorie 51, 6 pour cent,
 		- **(xxxviii)** de la catégorie 52, 100 pour cent,
+		- **(xxxix)** de la catégorie 53, 50 pour cent,
 de la fraction non amortie du coût en capital, pour lui, des biens de la catégorie, à la fin de l’année d’imposition (avant toute déduction en vertu du présent paragraphe pour l’année d’imposition);
 
 #### Catégorie 1
@@ -3979,7 +4004,7 @@ lorsque le propriétaire est :
 	- **b)** soit d’une personne avec laquelle le contribuable avait un lien de dépendance, sauf en vertu d’un droit visé à l’alinéa 251(5)b) de la Loi, au moment de l’acquisition du bien.
 
 - **(29)** Un bien acquis par un contribuable ou une société de personnes qui est un bien de remplacement, au sens du paragraphe 13(4) de la Loi, et qui serait par ailleurs un bien énergétique déterminé du contribuable ou de la société de personnes est réputé ne pas être un tel bien si l’ancien bien, visé aux alinéas 13(4)a) ou b) de la Loi, n’était pas, par application des paragraphes (27) ou (28) ou du présent paragraphe, un bien énergétique déterminé du contribuable ou de la société de personnes avant que l’un ou l’autre en dispose.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 1; DORS/78-377, art. 3 à 6; DORS/78-948, art. 1; DORS/79-427, art. 1; DORS/80-942, art. 1; DORS/81-470, art. 1; DORS/82-265, art. 1; DORS/83-340, art. 1; DORS/83-432, art. 1; DORS/84-454, art. 1; DORS/84-948, art. 5; DORS/85-13, art. 1; DORS/85-174, art. 1; DORS/86-254, art. 1; DORS/86-1092, art. 3(F) et 4(F); DORS/86-1136, art. 1; DORS/88-392, art. 1; DORS/89-27, art. 1; DORS/90-22, art. 1; DORS/90-257, art. 1; DORS/90-670, art. 1; DORS/91-196, art. 1; DORS/91-673, art. 1; DORS/92-681, art. 3; DORS/94-128, art. 1; DORS/94-140, art. 2; DORS/94-169, art. 1; DORS/94-170, art. 1; DORS/94-686, art. 9(F), 48, 58(F), 78(F), 79(F) et 81(F); DORS/95-244, art. 1; DORS/97-377, art. 1; DORS/99-179, art. 1; DORS/2000-248, art. 2; DORS/2005-126, art. 1; DORS/2005-371, art. 1; DORS/2005-414, art. 1; DORS/2006-117, art. 1; DORS/2007-19, art. 1; DORS/2009-115, art. 1; DORS/2009-126, art. 1; DORS/2010-93, art. 12; DORS/2011-9, art. 1; 2013, ch. 34, art. 383, ch. 40, art. 100; DORS/2015-117, art. 1.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 1; DORS/78-377, art. 3 à 6; DORS/78-948, art. 1; DORS/79-427, art. 1; DORS/80-942, art. 1; DORS/81-470, art. 1; DORS/82-265, art. 1; DORS/83-340, art. 1; DORS/83-432, art. 1; DORS/84-454, art. 1; DORS/84-948, art. 5; DORS/85-13, art. 1; DORS/85-174, art. 1; DORS/86-254, art. 1; DORS/86-1092, art. 3(F) et 4(F); DORS/86-1136, art. 1; DORS/88-392, art. 1; DORS/89-27, art. 1; DORS/90-22, art. 1; DORS/90-257, art. 1; DORS/90-670, art. 1; DORS/91-196, art. 1; DORS/91-673, art. 1; DORS/92-681, art. 3; DORS/94-128, art. 1; DORS/94-140, art. 2; DORS/94-169, art. 1; DORS/94-170, art. 1; DORS/94-686, art. 9(F), 48, 58(F), 78(F), 79(F) et 81(F); DORS/95-244, art. 1; DORS/97-377, art. 1; DORS/99-179, art. 1; DORS/2000-248, art. 2; DORS/2005-126, art. 1; DORS/2005-371, art. 1; DORS/2005-414, art. 1; DORS/2006-117, art. 1; DORS/2007-19, art. 1; DORS/2009-115, art. 1; DORS/2009-126, art. 1; DORS/2010-93, art. 12; DORS/2011-9, art. 1; 2013, ch. 34, art. 383, ch. 40, art. 100; 2015, ch. 36, art. 21; DORS/2015-117, art. 1.
 
 
 
@@ -9608,13 +9633,13 @@ où :
 	- **h)** des biens compris à l’alinéa n) de la catégorie 10, ou dans la catégorie 15, de l’annexe II (à l’exclusion d’une chaussée);
 	- **i)** des biens compris aux alinéas a) à f) de la catégorie 9 de l’annexe II;
 	- **j)** des biens compris dans la catégorie 28 de l’annexe II, visés aux alinéas a), a.1), a.2) ou a.3) de la catégorie 41 de cette annexe ou compris dans les catégories 41.1 ou 41.2 de cette annexe qui, en l’absence des catégories 28, 41, 41.1 ou 41.2, seraient visés aux alinéas k) ou r) de la catégorie 10 de l’annexe II;
-	- **k)** des biens compris dans l’une des catégories 21, 24, 27, 29, 34, 39, 40, 43, 45, 46, 50 ou 52 de l’annexe II;
+	- **k)** des biens compris dans l’une des catégories 21, 24, 27, 29, 34, 39, 40, 43, 45, 46, 50, 52 ou 53 de l’annexe II;
 	- **l)** des biens visés aux alinéas c) ou d) de la catégorie 41 de l’annexe II;
 	- **m)** des biens compris dans la catégorie 43.1 de l’annexe II par l’effet de l’alinéa c) de cette catégorie;
 	- **n)** des biens compris dans la catégorie 43.2 de l’annexe II par l’effet de son alinéa a).
 
 - **(3)** Sont des biens pour la production et l’économie d’énergie visés pour l’application de la définition de ***bien admissible***, au paragraphe 127(9) de la Loi, les biens amortissables du contribuable, sauf ceux visés aux paragraphes (1) et (2), qui sont visés au sous-alinéa a.1)(i) de la catégorie 17 de l’annexe II ou compris dans les catégories 43.1, 43.2 ou 48 de cette annexe.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 5; DORS/80-69, art. 1; DORS/80-131, art. 2; DORS/80-618, art. 7(A); DORS/81-974, art. 13; DORS/88-165, art. 19; DORS/90-22, art. 6; DORS/94-169, art. 3; DORS/94-686, art. 66(F); DORS/98-97, art. 4; DORS/99-179, art. 10; DORS/2005-371, art. 5; DORS/2005-414, art. 4; DORS/2006-117, art. 6; DORS/2011-9, art. 5; 2012, ch. 31, art. 66; 2013, ch. 34, art. 395, ch. 40, art. 106.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 5; DORS/80-69, art. 1; DORS/80-131, art. 2; DORS/80-618, art. 7(A); DORS/81-974, art. 13; DORS/88-165, art. 19; DORS/90-22, art. 6; DORS/94-169, art. 3; DORS/94-686, art. 66(F); DORS/98-97, art. 4; DORS/99-179, art. 10; DORS/2005-371, art. 5; DORS/2005-414, art. 4; DORS/2006-117, art. 6; DORS/2011-9, art. 5; 2012, ch. 31, art. 66; 2013, ch. 34, art. 395, ch. 40, art. 106; 2015, ch. 36, art. 22.
 
 
 
@@ -14195,83 +14220,115 @@ où
 
 - **(1)** Pour l’application du présent article, ***émetteur*** s’entend au sens du paragraphe 146.3(1) de la Loi.
 
-- **(2)** Pour l’application du présent article, un fonds de revenu de retraite est un fonds admissible de revenu de retraite à un moment donné si l’une ou l’autre des conditions suivantes est respectée :
+- **(2)** Pour l’application du présent article, un fonds de revenu de retraite est un fonds admissible de revenu de retraite à un moment donné si l’une ou l’autre des conditions suivantes est respectée :
 	- **a)** l’entente concernant le fonds a été conclue avant 1993 et l’émetteur n’a accepté aucun bien en contrepartie après 1992 et jusqu’à ce moment dans le cadre du fonds;
 	- **b)** les seuls biens acceptés en contrepartie par l’émetteur après 1992 et jusqu’à ce moment dans le cadre du fonds sont des biens transférés d’un fonds de revenu de retraite qui était un fonds admissible de revenu de retraite immédiatement avant le transfert.
 
 - **(3)** Pour l’application de la définition de ***minimum*** au paragraphe 146.3(1) de la Loi, le facteur prescrit quant à un particulier pour une année, relativement à un fonds de revenu de retraite qui était un fonds admissible de revenu de retraite au début de l’année, est le facteur, établi selon le tableau ci-après, qui correspond à l’âge en années accomplies (élément « X » du tableau) que le particulier a atteint au début de l’année ou qu’il aurait alors atteint s’il avait été vivant.
 <table>
 <tr>
-<th></th>
-<th>X Facteur</th>
+<th>X</th>
+<th>Facteur</th>
 </tr>
 <tr>
-<td>moins de 79 ans</td>
-<td>1/(90 - X)</td>
+<td>moins de 72</td>
+<td>1/(90 – X)</td>
+</tr>
+<tr>
+<td>72</td>
+<td>0,0540</td>
+</tr>
+<tr>
+<td>73</td>
+<td>0,0553</td>
+</tr>
+<tr>
+<td>74</td>
+<td>0,0567</td>
+</tr>
+<tr>
+<td>75</td>
+<td>0,0582</td>
+</tr>
+<tr>
+<td>76</td>
+<td>0,0598</td>
+</tr>
+<tr>
+<td>77</td>
+<td>0,0617</td>
+</tr>
+<tr>
+<td>78</td>
+<td>0,0636</td>
 </tr>
 <tr>
 <td>79</td>
-<td>0,0853</td>
+<td>0,0658</td>
 </tr>
 <tr>
 <td>80</td>
-<td>0,0875</td>
+<td>0,0682</td>
 </tr>
 <tr>
 <td>81</td>
-<td>0,0899</td>
+<td>0,0708</td>
 </tr>
 <tr>
 <td>82</td>
-<td>0,0927</td>
+<td>0,0738</td>
 </tr>
 <tr>
 <td>83</td>
-<td>0,0958</td>
+<td>0,0771</td>
 </tr>
 <tr>
 <td>84</td>
-<td>0,0993</td>
+<td>0,0808</td>
 </tr>
 <tr>
 <td>85</td>
-<td>0,1033</td>
+<td>0,0851</td>
 </tr>
 <tr>
 <td>86</td>
-<td>0,1079</td>
+<td>0,0899</td>
 </tr>
 <tr>
 <td>87</td>
-<td>0,1133</td>
+<td>0,0955</td>
 </tr>
 <tr>
 <td>88</td>
-<td>0,1196</td>
+<td>0,1021</td>
 </tr>
 <tr>
 <td>89</td>
-<td>0,1271</td>
+<td>0,1099</td>
 </tr>
 <tr>
 <td>90</td>
-<td>0,1362</td>
+<td>0,1192</td>
 </tr>
 <tr>
 <td>91</td>
-<td>0,1473</td>
+<td>0,1306</td>
 </tr>
 <tr>
 <td>92</td>
-<td>0,1612</td>
+<td>0,1449</td>
 </tr>
 <tr>
 <td>93</td>
-<td>0,1792</td>
+<td>0,1634</td>
 </tr>
 <tr>
-<td>94 ou plus</td>
-<td>0,2</td>
+<td>94</td>
+<td>0,1879</td>
+</tr>
+<tr>
+<td>95 ou plus</td>
+<td>0,2000</td>
 </tr>
 </table>
 
@@ -14279,112 +14336,116 @@ où
 - **(4)** Pour l’application de la définition de ***minimum*** au paragraphe 146.3(1) de la Loi et du paragraphe 8506(5), le facteur prescrit quant à un particulier pour une année relativement à un fonds de revenu de retraite qui n’était pas un fonds admissible de revenu de retraite au début de l’année, ou le facteur désigné quant à un particulier pour une année relativement à un compte dans le cadre de la disposition à cotisations déterminées d’un régime de pension agréé, selon le cas, est le facteur qui, au tableau ci-après, correspond à l’âge en années accomplies (élément « Y » du tableau) que le particulier a atteint au début de l’année ou qu’il aurait alors atteint s’il avait été vivant.
 <table>
 <tr>
-<th></th>
-<th>Y Facteur</th>
+<th>Y</th>
+<th>Facteur</th>
 </tr>
 <tr>
 <td>moins de 71</td>
-<td>1/(90 - Y)</td>
+<td>1/(90 – Y)</td>
 </tr>
 <tr>
 <td>71</td>
-<td>0,0738</td>
+<td>0,0528</td>
 </tr>
 <tr>
 <td>72</td>
-<td>0,0748</td>
+<td>0,0540</td>
 </tr>
 <tr>
 <td>73</td>
-<td>0,0759</td>
+<td>0,0553</td>
 </tr>
 <tr>
 <td>74</td>
-<td>0,0771</td>
+<td>0,0567</td>
 </tr>
 <tr>
 <td>75</td>
-<td>0,0785</td>
+<td>0,0582</td>
 </tr>
 <tr>
 <td>76</td>
-<td>0,0799</td>
+<td>0,0598</td>
 </tr>
 <tr>
 <td>77</td>
-<td>0,0815</td>
+<td>0,0617</td>
 </tr>
 <tr>
 <td>78</td>
-<td>0,0833</td>
+<td>0,0636</td>
 </tr>
 <tr>
 <td>79</td>
-<td>0,0853</td>
+<td>0,0658</td>
 </tr>
 <tr>
 <td>80</td>
-<td>0,0875</td>
+<td>0,0682</td>
 </tr>
 <tr>
 <td>81</td>
-<td>0,0899</td>
+<td>0,0708</td>
 </tr>
 <tr>
 <td>82</td>
-<td>0,0927</td>
+<td>0,0738</td>
 </tr>
 <tr>
 <td>83</td>
-<td>0,0958</td>
+<td>0,0771</td>
 </tr>
 <tr>
 <td>84</td>
-<td>0,0993</td>
+<td>0,0808</td>
 </tr>
 <tr>
 <td>85</td>
-<td>0,1033</td>
+<td>0,0851</td>
 </tr>
 <tr>
 <td>86</td>
-<td>0,1079</td>
+<td>0,0899</td>
 </tr>
 <tr>
 <td>87</td>
-<td>0,1133</td>
+<td>0,0955</td>
 </tr>
 <tr>
 <td>88</td>
-<td>0,1196</td>
+<td>0,1021</td>
 </tr>
 <tr>
 <td>89</td>
-<td>0,1271</td>
+<td>0,1099</td>
 </tr>
 <tr>
 <td>90</td>
-<td>0,1362</td>
+<td>0,1192</td>
 </tr>
 <tr>
 <td>91</td>
-<td>0,1473</td>
+<td>0,1306</td>
 </tr>
 <tr>
 <td>92</td>
-<td>0,1612</td>
+<td>0,1449</td>
 </tr>
 <tr>
 <td>93</td>
-<td>0,1792</td>
+<td>0,1634</td>
 </tr>
 <tr>
-<td>94 ou plus</td>
-<td>0,2</td>
+<td>94</td>
+<td>0,1879</td>
+</tr>
+<tr>
+<td>95 ou plus</td>
+<td>0,2000</td>
 </tr>
 </table>
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ;  DORS/94-127, art. 1; DORS/2000-63, art. 2; DORS/2005-264, art. 14.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-127, art. 1; DORS/2000-63, art. 2; DORS/2005-264, art. 14; 2015, ch. 36, art. 23.
 
 
 
@@ -17634,11 +17695,11 @@ la condition énoncée à l’alinéa (3)d) s’applique aux prestations qui lui
 
 **8506** 
 
-- **(1)** Pour l’application de l’alinéa 8502c), la disposition à cotisations déterminées d’un régime de pension peut prévoir les prestations suivantes, sous réserve des conditions applicables à chaque type de prestation :
+- **(1)** Pour l’application de l’alinéa 8502c), la disposition à cotisations déterminées d’un régime de pension peut prévoir les prestations suivantes, sous réserve des conditions applicables à chaque type de prestation :
 
 #### Prestations viagères
 
-	- **a)** des prestations viagères assurées à un participant qui sont payables en montants périodiques égaux ou le seraient si ce n’était l’un des motifs suivants :
+	- **a)** des prestations viagères assurées à un participant qui sont payables en montants périodiques égaux ou le seraient si ce n’était l’un des motifs suivants :
 		- **(i)** celles qui sont payables au participant après le décès de son époux ou conjoint de fait sont inférieures à celles qui lui seraient payables si son époux ou conjoint de fait était vivant,
 		- **(ii)** elles font l’objet d’un rajustement après le début de leur versement, lequel rajustement serait conforme à l’un des sous-alinéas 146(3)b)(iii) à (v) de la Loi si la rente par laquelle les prestations viagères sont assurées était une rente prévue par un régime d’épargne-retraite;
 
@@ -17648,7 +17709,7 @@ la condition énoncée à l’alinéa (3)d) s’applique aux prestations qui lui
 
 #### Période garantie
 
-	- **c)** des prestations de retraite assurées à un ou plusieurs bénéficiaires d’un participant décédé après le début du versement à celui-ci des prestations de retraite prévues par la disposition, si les conditions suivantes sont réunies :
+	- **c)** des prestations de retraite assurées à un ou plusieurs bénéficiaires d’un participant décédé après le début du versement à celui-ci des prestations de retraite prévues par la disposition, si les conditions suivantes sont réunies :
 		- **(i)** les prestations sont payables pour une période commençant après le décès du participant et se terminant au plus tard 15 ans après la date du début du versement à celui-ci des prestations de retraite prévues par la disposition,
 		- **(ii)** le total des prestations payables mensuellement aux termes de la disposition ne dépasse pas les prestations de retraite (sauf les prestations permises en vertu de l’alinéa e.1)) qui seraient ainsi payables au participant aux termes de la disposition s’il était vivant;
 
@@ -17656,7 +17717,7 @@ la condition énoncée à l’alinéa (3)d) s’applique aux prestations qui lui
 > [[NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ]
 
 
-	- **d)** des prestations de retraite (appelées « prestations au survivant » au présent alinéa) assurées au bénéficiaire d’un participant décédé après le début du versement à celui-ci des prestations de retraite prévues par la disposition, si les conditions suivantes sont réunies :
+	- **d)** des prestations de retraite (appelées « prestations au survivant » au présent alinéa) assurées au bénéficiaire d’un participant décédé après le début du versement à celui-ci des prestations de retraite prévues par la disposition, si les conditions suivantes sont réunies :
 		- **(i)** le bénéficiaire est l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du participant au début du versement à celui-ci des prestations de retraite,
 		- **(ii)** les prestations au survivant sont payables pour une période commençant après le décès du participant et se terminant au décès du bénéficiaire,
 		- **(iii)** le total des prestations au survivant et des autres prestations de retraite (sauf les prestations permises en vertu de l’alinéa e.1)) payables mensuellement aux bénéficiaires du participant aux termes de la disposition ne dépasse pas les prestations de retraite (sauf les prestations permises en vertu de l’alinéa e.1)) qui seraient ainsi payables au participant aux termes de la disposition s’il était vivant;
@@ -17665,7 +17726,7 @@ la condition énoncée à l’alinéa (3)d) s’applique aux prestations qui lui
 > [[NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ]
 
 
-	- **e)** des prestations de retraite assurées au bénéficiaire d’un participant décédé avant le début du versement à celui-ci des prestations de retraite prévues par la disposition, ainsi que des prestations prévues pour d’autres particuliers après le décès du bénéficiaire, si les conditions suivantes sont réunies :
+	- **e)** des prestations de retraite assurées au bénéficiaire d’un participant décédé avant le début du versement à celui-ci des prestations de retraite prévues par la disposition, ainsi que des prestations prévues pour d’autres particuliers après le décès du bénéficiaire, si les conditions suivantes sont réunies :
 		- **(i)** le bénéficiaire est l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du participant au moment du décès de celui-ci,
 		- **(ii)** les prestations seraient permises par les alinéas a) à c) si le bénéficiaire participait au régime,
 		- **(iii)** les prestations de retraite sont payables au bénéficiaire au plus tard à compter du premier anniversaire du décès du participant ou, s’il est postérieur, du 31 décembre de l’année civile dans laquelle le bénéficiaire atteint 71 ans;
@@ -17694,7 +17755,7 @@ la condition énoncée à l’alinéa (3)d) s’applique aux prestations qui lui
 #### Autres conditions
 
 
-- **(2)** Pour l’application de l’article 8501, les conditions suivantes s’appliquent à chaque disposition à cotisations déterminées d’un régime de pension :
+- **(2)** Pour l’application de l’article 8501, les conditions suivantes s’appliquent à chaque disposition à cotisations déterminées d’un régime de pension :
 
 #### Cotisations patronales acceptables
 
@@ -17710,7 +17771,7 @@ la condition énoncée à l’alinéa (3)d) s’applique aux prestations qui lui
 
 #### Cotisations patronales interdites
 
-	- **c)** aucune cotisation n’est versée par un employeur aux termes de la disposition, et aucun bien n’est transféré à la disposition relativement au surplus actuariel afférent à une disposition à prestations déterminées du régime ou d’un autre régime de pension agréé :
+	- **c)** aucune cotisation n’est versée par un employeur aux termes de la disposition, et aucun bien n’est transféré à la disposition relativement au surplus actuariel afférent à une disposition à prestations déterminées du régime ou d’un autre régime de pension agréé :
 		- **(i)** à un moment où la disposition présente un surplus,
 		- **(ii)** à un moment, postérieur à 1991, où un montant perdu dans le cadre de la disposition avant 1990, ou les revenus du régime qui sont imputables à juste titre à ce montant, sont détenus relativement à la disposition et n’ont pas été attribués de nouveau aux participants du régime;
 
@@ -17730,7 +17791,7 @@ la condition énoncée à l’alinéa (3)d) s’applique aux prestations qui lui
 
 #### Paiement ou nouvelle attribution de montants perdus
 
-	- **f)** chaque montant perdu dans le cadre de la disposition, sauf ceux perdus avant 1990, ainsi que les revenus du régime qui y sont imputables à juste titre font l’objet d’une des mesures suivantes au plus tard le 31 décembre de l’année suivant l’année civile au cours de laquelle le montant a été perdu, ou dans le délai ultérieur permis par le ministre en application du paragraphe (3) :
+	- **f)** chaque montant perdu dans le cadre de la disposition, sauf ceux perdus avant 1990, ainsi que les revenus du régime qui y sont imputables à juste titre font l’objet d’une des mesures suivantes au plus tard le 31 décembre de l’année suivant l’année civile au cours de laquelle le montant a été perdu, ou dans le délai ultérieur permis par le ministre en application du paragraphe (3) :
 		- **(i)** ils sont versés aux employeurs participants,
 		- **(ii)** ils sont attribués de nouveau aux participants du régime,
 		- **(iii)** ils sont versés à titre de frais d’administration ou de placement ou de frais semblables engagés relativement au régime;
@@ -17755,7 +17816,7 @@ la condition énoncée à l’alinéa (3)d) s’applique aux prestations qui lui
 #### Nouvelle attribution de montants perdus
 
 
-- **(3)** Le ministre peut, sur demande écrite de l’administrateur d’un régime de pension agréé, proroger le délai prévu à l’alinéa (2)f) si :
+- **(3)** Le ministre peut, sur demande écrite de l’administrateur d’un régime de pension agréé, proroger le délai prévu à l’alinéa (2)f) si :
 	- **a)** d’une part, le total des montants perdus au cours d’une année civile est plus élevé que la normale en raison de circonstances exceptionnelles;
 	- **b)** d’autre part, les montants perdus seront soit attribués de nouveau de façon raisonnable à la majorité des participants, soit versés à titre de frais d’administration ou de placement ou de frais semblables engagés relativement au régime.
 
@@ -17829,7 +17890,32 @@ où :
 	- **(ii)** la somme qui, en l’absence de l’alinéa (7)b), correspondrait au minimum relatif au compte pour 2008,
 - **B** le minimum relatif au compte pour 2008,
 - **C** le total des autres cotisations versées par le participant dans le cadre de la disposition à cotisations déterminées au plus tard au moment du versement de la cotisation qui ont été désignées pour l’application du présent paragraphe.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 13; DORS/99-9, art. 23; DORS/2001-188, art. 14 et 15; DORS/2005-264, art. 28; 2007, ch. 29, art. 36; 2009, ch. 2, art. 117.
+
+#### Cotisation pour 2015
+
+
+- **(11)** Si une cotisation, versée par le participant à un régime de pension agréé et portée au crédit du compte de celui-ci relatif à une disposition à cotisations déterminées du régime, remplit les conditions énoncées au paragraphe (12), les règles ci-après s’appliquent :
+	- **a)** la cotisation est réputée avoir été versée conformément au régime tel qu’il est agréé;
+	- **b)** il n’est pas tenu compte de la cotisation pour l’application de l’alinéa (2)c.1);
+	- **c)** la cotisation est réputée être une cotisation exclue pour l’application de l’alinéa 8301(4)a).
+
+#### Conditions
+
+
+- **(12)** Les conditions à remplir sont les suivantes :
+	- **a)** la cotisation est versée après le 31 décembre 2014 et avant le 1<sup>er</sup> mars 2016;
+	- **b)** la cotisation est désignée pour l’application du présent paragraphe selon des modalités que le ministre estime acceptables;
+	- **c)** le montant de la cotisation n’excède pas la somme obtenue par la formule suivante :
+```
+A – B – C
+```
+où :
+- **A** représente la moins élevée des sommes suivantes :
+	- **(i)** le total des sommes représentant chacune le montant d’une prestation de retraite, sauf celles permises en vertu des alinéas (1)a) à e), versée sur le régime en 2015 relativement au compte et incluse, par l’effet de l’alinéa 56(1)a) de la Loi, dans le calcul du revenu du contribuable pour l’année d’imposition,
+	- **(ii)** la somme qui serait le minimum relatif au compte pour 2015 si ce minimum était déterminé en utilisant le facteur désigné au paragraphe 7308(4) dans sa version applicable au 31 décembre 2014,
+- **B** le minimum relatif au compte pour 2015,
+- **C** le total des autres cotisations versées par le participant dans le cadre de la disposition à cotisations déterminées au plus tard au moment du versement de la cotisation qui ont été désignées pour l’application du présent paragraphe.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 13; DORS/99-9, art. 23; DORS/2001-188, art. 14 et 15; DORS/2005-264, art. 28; 2007, ch. 29, art. 36; 2009, ch. 2, art. 117; 2015, ch. 36, art. 24.
 
 
 
@@ -22607,7 +22693,7 @@ Les biens constitués par :
 
 Les biens acquis après le 25 février 1992 qui, selon le cas :
 
-**a)** ne sont pas compris dans la catégorie 29, mais qui y seraient compris par ailleurs en l’absence de ses sous-alinéas b)(iii) et (v) et de son alinéa c);
+**a)** ne sont pas compris dans les catégories 29 ou 53, mais qui seraient compris dans la catégorie 29 si elle s’appliquait compte non tenu de ses sous-alinéas b)(iii) et (v) ni de son alinéa c);
 
 
 
@@ -22622,7 +22708,7 @@ Les biens acquis après le 25 février 1992 qui, selon le cas :
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/94-169, art. 12; DORS/97-377, art. 12..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/94-169, art. 12; DORS/97-377, art. 12; 2015, ch. 36, art. 25..
 
 
 
@@ -23218,7 +23304,23 @@ Les biens acquis par un contribuable après le 27 janvier 2009 et avant févrie
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2009-126, art. 11; DORS/2009-155, art. 1.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/2009-126, art. 11; DORS/2009-155, art. 1..
+
+
+
+
+**CATÉGORIE 53** 
+
+Les biens acquis après 2015 et avant 2026 qui ne sont pas compris dans la catégorie 29, mais qui y seraient compris si, à la fois :
+
+**a)** le sous-alinéa a)(ii) de cette catégorie s’appliquait compte non tenu du passage « de ses activités de traitement préliminaire au Canada ou »; 
+
+
+
+**b)** cette catégorie s’appliquait compte non tenu de ses sous-alinéas b)(iv) à (vi) ni de son alinéa c). 
+
+
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2015, ch. 36, art. 26.
 
 
 
