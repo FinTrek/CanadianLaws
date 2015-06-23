@@ -322,12 +322,12 @@ Il peut en outre, après consultation auprès de l’Office, prendre les mesures
 
 **9** 
 
-- **(1)** Lorsqu’il est convaincu, sur réception de la copie visée au paragraphe 8(2), que l’opposition est manifestement infondée ou malveillante, le ministre notifie son opinion à l’opposant. L’opposition est dès lors sans effet.
+- **(1)** Lorsqu’il est convaincu, sur réception de la copie visée au paragraphe 8(2), que l’opposition est manifestement infondée ou malveillante ou qu’elle vise une installation ferroviaire qui est d’intérêt public, le ministre notifie son opinion à l’opposant. L’opposition est dès lors sans effet.
 
 **Notification au promoteur**
 
 - **(2)** Le ministre envoie au promoteur une copie de l’avis de rejet visé au paragraphe (1).
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 9; 1999, ch. 9, art. 37(A).
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 9; 1999, ch. 9, art. 37(A); 2015, ch. 35, art. 1.
 
 
 
@@ -1584,10 +1584,14 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 
 - **(3.2)** S’il estime que la mise en oeuvre de toute partie du système de gestion de la sécurité établi par une compagnie risque de compromettre la sécurité ferroviaire, le ministre peut, par avis transmis à la compagnie, ordonner à cette dernière d’apporter les mesures correctives nécessaires.
 
+**Activité exercée dans le cadre de l’exploitation ferroviaire**
+
+- **(3.21)** S’il estime qu’une activité exercée dans le cadre de l’exploitation ferroviaire est une menace importante à la sécurité des personnes ou des biens ou à l’environnement, le ministre peut, par avis transmis au responsable de l’activité, ordonner à celui-ci de prendre les mesures correctives nécessaires.
+
 **Contenu de l’avis**
 
-- **(4)** L’ordre donné dans un avis prévu à l’un ou l’autre des paragraphes (1) et (3) à (3.2) prend effet à la réception de celui-ci par son destinataire et l’avis doit indiquer le lieu et la date limite, à savoir trente jours après l’expédition de l’avis, du dépôt d’une éventuelle requête en révision.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 32; 1999, ch. 9, art. 25; 2001, ch. 29, art. 68; 2012, ch. 7, art. 24; 2015, ch. 31, art. 26.
+- **(4)** L’ordre donné dans un avis prévu à l’un ou l’autre des paragraphes (1) et (3) à (3.21) prend effet à la réception de celui-ci par son destinataire et l’avis doit indiquer le lieu et la date limite, à savoir trente jours après l’expédition de l’avis, du dépôt d’une éventuelle requête en révision.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 32; 1999, ch. 9, art. 25; 2001, ch. 29, art. 68; 2012, ch. 7, art. 24; 2015, ch. 31, art. 26 et 39, ch. 35, art. 3.
 
 
 
@@ -1650,8 +1654,8 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 
 **Effet des procédures sur l’ordre**
 
-**32.3** Le dépôt d’une requête en révision d’un ordre visé aux paragraphes 32(1), (3.1) ou (3.2) suspend celui-ci jusqu’à ce qu’il soit disposé de l’affaire conformément aux articles 32.1, 32.2 ou 32.4. Toutefois, ni la révision prévue à l’article 32.1, ni l’appel prévu à l’article 32.2, ni le réexamen par le ministre prévu aux paragraphes 32.1(5) ou 32.2(3) n’ont pour effet de suspendre l’ordre donné en vertu du paragraphe 32(3) ou de l’article 32.01.
-> 2001, ch. 29, art. 69; 2015, ch. 31, art. 30.
+**32.3** Le dépôt d’une requête en révision d’un ordre visé aux paragraphes 32(1), (3.1) ou (3.2) suspend celui-ci jusqu’à ce qu’il soit disposé de l’affaire conformément aux articles 32.1, 32.2 ou 32.4. Toutefois, ni la révision prévue à l’article 32.1, ni l’appel prévu à l’article 32.2, ni le réexamen par le ministre prévu aux paragraphes 32.1(5) ou 32.2(3) n’ont pour effet de suspendre l’ordre donné en vertu des paragraphes 32(3) ou (3.21) ou de l’article 32.01.
+> 2001, ch. 29, art. 69; 2015, ch. 31, art. 30 et 39, ch. 35, art. 4.
 
 
 
