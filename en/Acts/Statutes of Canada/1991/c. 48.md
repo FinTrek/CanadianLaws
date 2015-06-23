@@ -9648,7 +9648,36 @@ if the Superintendent is satisfied that the information will be treated as confi
 
 
 
-**435.2** [Repealed, 2007, c. 6, s. 181]
+
+**Evidentiary privilege**
+
+**435.2** 
+
+- **(1)** Prescribed supervisory information shall not be used as evidence in any civil proceedings and is privileged for that purpose.
+
+**No testimony or production**
+
+- **(2)** No person shall by an order of any court, tribunal or other body be required in any civil proceedings to give oral testimony or to produce any document relating to any prescribed supervisory information.
+
+**Exceptions to subsection (1)**
+
+- **(3)** Despite subsection (1),
+	- **(a)** the Minister, the Superintendent or the Attorney General of Canada may, in accordance with the regulations, if any, use prescribed supervisory information as evidence in any proceedings; and
+	- **(b)** an association may, in accordance with the regulations, if any, use prescribed supervisory information as evidence in any proceedings in relation to the administration or enforcement of this Act or the [Winding-up and Restructuring Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-11.md) that are commenced by the association, the Minister, the Superintendent or the Attorney General of Canada.
+
+**Exceptions to subsections (1) and (2)**
+
+- **(4)** Despite subsections (1) and (2) and section 39.1 of the [Office of the Superintendent of Financial Institutions Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2018%20(3rd%20Supp.),%20Part%20I.md), a court, tribunal or other body may, by order, require the Minister, the Superintendent or an association to give oral testimony or to produce any document relating to any prescribed supervisory information in any civil proceedings in relation to the administration or enforcement of this Act that are commenced by the Minister, the Superintendent, the Attorney General of Canada or the association.
+
+**No waiver**
+
+- **(5)** The disclosure of any prescribed supervisory information, other than under subsection (3) or (4), does not constitute a waiver of the privilege referred to in subsection (1).
+
+**Regulations**
+
+- **(6)** The Governor in Council may, for the purposes of subsection (3), make regulations respecting the circumstances in which prescribed supervisory information may be used as evidence.
+> 2001, c. 9, s. 327; 2007, c. 6, s. 181; 2015, c. 36, s. 238.
+
 
 
 
