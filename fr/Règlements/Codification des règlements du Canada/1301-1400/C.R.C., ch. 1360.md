@@ -899,7 +899,7 @@ REMARQUE : Dans la présente annexe, le terme « Âge » s’entend de l’âge
 
 
 ### **ANNEXE III** 
-**(art. 2 et 27)**
+**(articles 2 et 27)**
 Sociétés d’État et offices publics exclus de l’application de la partie II de la Loi :
 - Commission canadienne du blé
 - Conseil des arts du Canada
@@ -907,7 +907,6 @@ Sociétés d’État et offices publics exclus de l’application de la partie 
 - Corporation de disposition des biens de la Couronne
 - Eldorado Aviation Limitée
 - Eldorado Nucléaire Limitée
-- Énergie atomique du Canada, Limitée
 - Institut international du Canada pour le grain
 - Laboratoires Nucléaires Canadiens Ltée
 - Les ponts Jacques-Cartier et Champlain Inc.
@@ -919,7 +918,7 @@ Sociétés d’État et offices publics exclus de l’application de la partie 
 - The Seaway International Bridge Corporation Limited
 
 
-> DORS/78-288, art. 1; DORS/78-760, art. 1; DORS/79-500, art. 1; DORS/79-794, art. 1; DORS/90-201, art. 1; DORS/92-716, art. 10(F); DORS/99-378, art. 13; 2001, ch. 34, art. 17; DORS/2014-249, art. 1.
+> DORS/78-288, art. 1; DORS/78-760, art. 1; DORS/79-500, art. 1; DORS/79-794, art. 1; DORS/90-201, art. 1; DORS/92-716, art. 10(F); DORS/99-378, art. 13; 2001, ch. 34, art. 17; DORS/2014-249, art. 1; DORS/2015-172, art. 1.
 
 
 
