@@ -2044,18 +2044,11 @@ plus de 13 %
 
 **Définition de participant**
 
-**58** 
+**58** Dans la présente partie, ***participant*** désigne l’assuré qui demande de l’aide dans le cadre d’une prestation d’emploi et qui, à la date de la demande, est un chômeur, selon le cas :
+- **a)** à l’égard de qui une période de prestations a été établie ou a pris fin au cours des soixante derniers mois;
+- **b)** à l’égard de qui une période de prestations aurait été établie au cours des soixante derniers mois n’était le fait que le nombre d’heures qu’il a cumulées au cours de la période de cinquante-deux semaines qui précède le début de ce qui aurait été sa période de référence est inférieur à celui visé au paragraphe 7(4) et qui, au cours de ce qui aurait été sa période de référence, a exercé un emploi assurable pendant au moins le nombre d’heures indiqué au tableau figurant au paragraphe 7(2) ou 7.1(1) en fonction du taux régional de chômage qui lui est applicable.
+> 1996, ch. 23, art. 58; 2015, ch. 36, art. 153.
 
-- **(1)** Dans la présente partie, ***participant*** désigne l’assuré qui demande de l’aide dans le cadre d’une prestation d’emploi et qui, à la date de la demande, est un chômeur à l’égard de qui, selon le cas :
-	- **a)** une période de prestations a été établie ou a pris fin au cours des trente-six derniers mois;
-	- **b)** une période de prestations a été établie au cours des soixante derniers mois et qui :
-		- **(i)** a bénéficié de prestations spéciales, au titre de l’article 22 ou 23, au cours de la période de prestations,
-		- **(ii)** a subséquemment quitté le marché du travail pour prendre soin de son ou de ses nouveau-nés ou d’un ou plusieurs enfants placés chez lui en vue de leur adoption,
-		- **(iii)** tente de réintégrer le marché du travail.
-
-**Définition de période de prestations ou de prestations spéciales**
-
-- **(2)** Pour l’application du paragraphe (1), ***période de prestations*** s’entend en outre d’une période de prestations établie au titre de la Loi sur l’assurance-chômage et ***prestations spéciales*** s’entend en outre des prestations visées aux articles 18 ou 20 de cette loi.
 
 
 
@@ -2140,9 +2133,26 @@ plus de 13 %
 
 **Accords de contribution relatifs à des prestations ou des mesures similaires**
 
-**63** La Commission peut, avec l’approbation du ministre, conclure avec un gouvernement ou un organisme public canadien, ou tout autre organisme, un accord prévoyant le versement à celui-ci d’une contribution relative à tout ou partie :
-- **a)** des frais liés à des prestations ou mesures similaires à celles prévues par la présente partie et qui correspondent à l’objet et aux lignes directrices qui y sont prévus;
-- **b)** des frais liés à l’administration de ces prestations ou mesures par ce gouvernement ou organisme.
+**63** 
+
+- **(1)** La Commission peut, avec l’approbation du ministre, conclure avec un gouvernement ou un organisme public canadien, ou tout autre organisme, un accord prévoyant le versement à celui-ci d’une contribution relative à tout ou partie :
+	- **a)** des frais liés à des prestations ou mesures similaires à celles prévues par la présente partie et qui correspondent à l’objet et aux lignes directrices qui y sont prévus;
+	- **b)** des frais liés à l’administration de ces prestations ou mesures par ce gouvernement ou organisme.
+
+**Participants**
+
+- **(2)** Un accord peut être conclu en vertu du paragraphe (1) avec un gouvernement même si les prestations fournies par celui-ci le sont uniquement au bénéfice d’un participant au sens de l’article 58, dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
+> 1996, ch. 23, art. 63; 2015, ch. 36, art. 154.
+
+
+
+
+
+**Disposition transitoire**
+
+**63.1** La contribution à verser aux termes d’un accord conclu, avant la date d’entrée en vigueur du présent article, avec un gouvernement en vertu de l’article 63 et prévoyant le versement à celui-ci d’une contribution relative à tout ou partie des frais liés à des prestations similaires à celles prévues par la présente partie est versée uniquement pour les frais liés à des prestations qui sont au bénéfice d’un participant au sens de l’article 58, dans sa version antérieure à cette date.
+> 2015, ch. 36, art. 155.
+
 
 
 
@@ -2525,8 +2535,8 @@ plus de 13 %
 - **(1)** Sont payés sur le Trésor et portés au débit du Compte des opérations de l’assurance-emploi :
 	- **a)** toutes les sommes versées au titre des prestations sous le régime de la présente loi;
 	- **b)** toutes les sommes versées au titre de l’article 61 à l’égard de prestations d’emploi ou de mesures de soutien prévues à la partie II;
-	- **c)** toutes les sommes versées aux termes de l’alinéa 63a);
-	- **d)** les frais d’application de la présente loi, notamment les frais payés au titre de l’article 62 ou de l’alinéa 63b);
+	- **c)** toutes les sommes versées aux termes de l’alinéa 63(1)a);
+	- **d)** les frais d’application de la présente loi, notamment les frais payés au titre de l’article 62 ou de l’alinéa 63(1)b);
 	- **d.1)** les frais d’application des articles 28.1 et 28.2 de la Loi sur le ministère de l’Emploi et du Développement social ;
 	- **e) et f)** [Abrogés, 2012, ch. 31, art. 439]
 	- **g)** les frais d’application de la partie 5 de la Loi sur le ministère de l’Emploi et du Développement social  à l’égard des appels relatifs à la présente loi.
@@ -2538,7 +2548,7 @@ plus de 13 %
 **Négociation sans frais**
 
 - **(3)** Les mandats spéciaux sont négociables sans frais dans toute institution financière du Canada.
-> 1996, ch. 23, art. 77 et 189(A); 1999, ch. 31, art. 79(A); 2008, ch. 28, art. 129; 2010, ch. 12, art. 2194; 2012, ch. 19, art. 245 et 307, ch. 31, art. 439 et 462(A); 2013, ch. 40, art. 236.
+> 1996, ch. 23, art. 77 et 189(A); 1999, ch. 31, art. 79(A); 2008, ch. 28, art. 129; 2010, ch. 12, art. 2194; 2012, ch. 19, art. 245 et 307, ch. 31, art. 439 et 462(A); 2013, ch. 40, art. 236; 2015, ch. 36, art. 156.
 
 
 
@@ -2564,8 +2574,8 @@ plus de 13 %
 
 **Plafond**
 
-**78** Le total des sommes pouvant être versées par la Commission en application de l’article 61 et de l’alinéa 63a) et portées au débit du Compte des opérations de l’assurance-emploi en application de la présente partie, au cours d’un exercice, ne peut dépasser 0,8 % du montant que la Commission estime être la rémunération assurable de tous les assurés — sur lequel des retenues sont effectuées au titre du paragraphe 82(1), pour cet exercice, au titre des cotisations ouvrières — et qui est prévu au budget des dépenses déposé devant le Parlement.
-> 1996, ch. 23, art. 78; 2010, ch. 12, art. 2194.
+**78** Le total des sommes pouvant être versées par la Commission en application de l’article 61 et de l’alinéa 63(1)a) et portées au débit du Compte des opérations de l’assurance-emploi en application de la présente partie, au cours d’un exercice, ne peut dépasser 0,8 % du montant que la Commission estime être la rémunération assurable de tous les assurés — sur lequel des retenues sont effectuées au titre du paragraphe 82(1), pour cet exercice, au titre des cotisations ouvrières — et qui est prévu au budget des dépenses déposé devant le Parlement.
+> 1996, ch. 23, art. 78; 2010, ch. 12, art. 2194; 2015, ch. 36, art. 157.
 
 
 
