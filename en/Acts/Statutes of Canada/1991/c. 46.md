@@ -16768,7 +16768,36 @@ if the Superintendent is satisfied that the information will be treated as confi
 
 
 
-**608** [Repealed, 2007, c. 6, s. 100]
+
+**Evidentiary privilege**
+
+**608** 
+
+- **(1)** Prescribed supervisory information shall not be used as evidence in any civil proceedings and is privileged for that purpose.
+
+**No testimony or production**
+
+- **(2)** No person shall by an order of any court, tribunal or other body be required in any civil proceedings to give oral testimony or to produce any document relating to any prescribed supervisory information.
+
+**Exceptions to subsection (1)**
+
+- **(3)** Despite subsection (1),
+	- **(a)** the Minister, the Superintendent or the Attorney General of Canada may, in accordance with the regulations, if any, use prescribed supervisory information as evidence in any proceedings; and
+	- **(b)** an authorized foreign bank may, in accordance with the regulations, if any, use prescribed supervisory information as evidence in any proceedings in relation to the administration or enforcement of this Act or the [Winding-up and Restructuring Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-11.md) that are commenced by the authorized foreign bank, the Minister, the Superintendent or the Attorney General of Canada.
+
+**Exceptions to subsections (1) and (2)**
+
+- **(4)** Despite subsections (1) and (2) and section 39.1 of the [Office of the Superintendent of Financial Institutions Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2018%20(3rd%20Supp.),%20Part%20I.md), a court, tribunal or other body may, by order, require the Minister, the Superintendent or an authorized foreign bank to give oral testimony or to produce any document relating to any prescribed supervisory information in any civil proceedings in relation to the administration or enforcement of this Act that are commenced by the Minister, the Superintendent, the Attorney General of Canada or the authorized foreign bank.
+
+**No waiver**
+
+- **(5)** The disclosure of any prescribed supervisory information, other than under subsection (3) or (4), does not constitute a waiver of the privilege referred to in subsection (1).
+
+**Regulations**
+
+- **(6)** The Governor in Council may, for the purposes of subsection (3), make regulations respecting the circumstances in which prescribed supervisory information may be used as evidence.
+> 1999, c. 28, s. 35; 2007, c. 6, s. 100; 2015, c. 36, s. 233.
+
 
 
 
@@ -17341,7 +17370,36 @@ if the Superintendent is satisfied that the information will be treated as confi
 
 
 
-**638** [Repealed, 2007, c. 6, s. 104]
+
+**Evidentiary privilege**
+
+**638** 
+
+- **(1)** Prescribed supervisory information shall not be used as evidence in any civil proceedings and is privileged for that purpose.
+
+**No testimony or production**
+
+- **(2)** No person shall by an order of any court, tribunal or other body be required in any civil proceedings to give oral testimony or to produce any document relating to any prescribed supervisory information.
+
+**Exceptions to subsection (1)**
+
+- **(3)** Despite subsection (1),
+	- **(a)** the Minister, the Superintendent or the Attorney General of Canada may, in accordance with the regulations, if any, use prescribed supervisory information as evidence in any proceedings; and
+	- **(b)** a bank may, in accordance with the regulations, if any, use prescribed supervisory information as evidence in any proceedings in relation to the administration or enforcement of this Act or the [Winding-up and Restructuring Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-11.md) that are commenced by the bank, the Minister, the Superintendent or the Attorney General of Canada.
+
+**Exceptions to subsections (1) and (2)**
+
+- **(4)** Despite subsections (1) and (2) and section 39.1 of the [Office of the Superintendent of Financial Institutions Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2018%20(3rd%20Supp.),%20Part%20I.md), a court, tribunal or other body may, by order, require the Minister, the Superintendent or a bank to give oral testimony or to produce any document relating to any prescribed supervisory information in any civil proceedings in relation to the administration or enforcement of this Act that are commenced by the Minister, the Superintendent, the Attorney General of Canada or the bank.
+
+**No waiver**
+
+- **(5)** The disclosure of any prescribed supervisory information, other than under subsection (3) or (4), does not constitute a waiver of the privilege referred to in subsection (1).
+
+**Regulations**
+
+- **(6)** The Governor in Council may, for the purposes of subsection (3), make regulations respecting the circumstances in which prescribed supervisory information may be used as evidence.
+> 1999, c. 28, s. 43; 2007, c. 6, s. 104; 2015, c. 36, s. 234.
+
 
 
 
@@ -23722,6 +23780,39 @@ if the Superintendent is satisfied that the information will be treated as confi
 
 **956** The Governor in Council may make regulations prohibiting, limiting or restricting the disclosure by bank holding companies of prescribed supervisory information.
 > 2001, c. 9, s. 183.
+
+
+
+
+
+**Evidentiary privilege**
+
+**956.1** 
+
+- **(1)** Prescribed supervisory information shall not be used as evidence in any civil proceedings and is privileged for that purpose.
+
+**No testimony or production**
+
+- **(2)** No person shall by an order of any court, tribunal or other body be required in any civil proceedings to give oral testimony or to produce any document relating to any prescribed supervisory information.
+
+**Exceptions to subsection (1)**
+
+- **(3)** Despite subsection (1),
+	- **(a)** the Minister, the Superintendent or the Attorney General of Canada may, in accordance with the regulations, if any, use prescribed supervisory information as evidence in any proceedings; and
+	- **(b)** a bank holding company may, in accordance with the regulations, if any, use prescribed supervisory information as evidence in any proceedings in relation to the administration or enforcement of this Act or the [Winding-up and Restructuring Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-11.md) that are commenced by the bank holding company, the Minister, the Superintendent or the Attorney General of Canada.
+
+**Exceptions to subsections (1) and (2)**
+
+- **(4)** Despite subsections (1) and (2) and section 39.1 of the [Office of the Superintendent of Financial Institutions Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2018%20(3rd%20Supp.),%20Part%20I.md), a court, tribunal or other body may, by order, require the Minister, the Superintendent or a bank holding company to give oral testimony or to produce any document relating to any prescribed supervisory information in any civil proceedings in relation to the administration or enforcement of this Act that are commenced by the Minister, the Superintendent, the Attorney General of Canada or the bank holding company.
+
+**No waiver**
+
+- **(5)** The disclosure of any prescribed supervisory information, other than under subsection (3) or (4), does not constitute a waiver of the privilege referred to in subsection (1).
+
+**Regulations**
+
+- **(6)** The Governor in Council may, for the purposes of subsection (3), make regulations respecting the circumstances in which prescribed supervisory information may be used as evidence.
+> 2015, c. 36, s. 235.
 
 
 
