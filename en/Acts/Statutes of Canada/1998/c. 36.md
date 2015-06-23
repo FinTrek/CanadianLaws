@@ -37,25 +37,25 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** The definitions in this section apply in this Act.
 
-***lender*** means
+***lender*** means
 - **(a)** a member of the Canadian Payments Association, established by subsection 3(1) of the [Canadian Payments Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-21.md),
 	- **(i)** referred to in paragraph 4(1)(b) or (c) or any of paragraphs 4(2)(a) to (c) of that Act, or
 	- **(ii)** referred to in any of paragraphs 4(2)(d) to (h) of that Act if the member meets the prescribed conditions;
 - **(b)** a local cooperative credit society, within the meaning of subsection 2(1) of the [Canadian Payments Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-21.md), that is a member of a central cooperative credit society, within the meaning of that subsection, if that central cooperative credit society is a member of the Canadian Payments Association; or
-- **(c)** any other organization designated by the Minister as a lender for the purposes of this Act.
+- **(c)** any other organization designated by the Minister as a lender for the purposes of this Act. (*prêteur*)
 
-***loan*** means a loan that meets the conditions set out in subsection 4(1) and is made to a borrower that meets the criteria set out in subsection 4(2).
+***loan*** means a loan that meets the conditions set out in subsection 4(1) and is made to a borrower that meets the criteria set out in subsection 4(2). (*prêt*)
 
-***Minister*** means the member of the Queen’s Privy Council for Canada designated as the Minister for the purposes of this Act.
+***Minister*** means the member of the Queen’s Privy Council for Canada designated as the Minister for the purposes of this Act. (*ministre*)
 
-Version anglaise seulement***prescribed*** means prescribed by the regulations.
+***prescribed*** means prescribed by the regulations. (***Version anglaise seulement***)
 
-***small business*** means a business carried on or about to be carried on in Canada for gain or profit with an estimated gross annual revenue
-- **(a)** not exceeding $5 million or any prescribed lesser amount for the fiscal year of the business during which a loan is approved by a lender in respect of the business; or
-- **(b)** in the case of a business about to be carried on, not expected at the time a loan is approved by a lender in respect of the business to exceed $5 million or any prescribed lesser amount for its first fiscal year that is of not less than fifty-two weeks duration.
+***small business*** means a business carried on or about to be carried on in Canada for gain or profit with an estimated gross annual revenue
+- **(a)** not exceeding $10 million or any prescribed lesser amount for the fiscal year of the business during which a loan is approved by a lender in respect of the business; or
+- **(b)** in the case of a business about to be carried on, not expected at the time a loan is approved by a lender in respect of the business to exceed $10 million or any prescribed lesser amount for its first fiscal year that is of not less than 52 weeks duration.
 
-It does not include the business of farming or a business having as its principal object the furtherance of a charitable or religious purpose.
-> 1998, c. 36, s. 2; 2001, c. 9, s. 587.
+It does not include the business of farming or a business having as its principal object the furtherance of a charitable or religious purpose. (*petite entreprise*)
+> 1998, c. 36, s. 2; 2001, c. 9, s. 587; 2015, c. 36, s. 161.
 
 
 
@@ -106,13 +106,14 @@ It does not include the business of farming or a business having as its principa
 
 - **(2)** A borrower is eligible for a loan on application to a lender if, at the time the loan is made,
 	- **(a)** the borrower meets the prescribed eligibility criteria;
-	- **(b)** in the case of a loan made before April 1, 2009, the outstanding loan amount in relation to the borrower does not exceed $250,000 or any prescribed lesser amount; and
-	- **(c)** in the case of a loan made after March 31, 2009, the outstanding loan amount in relation to the borrower does not exceed $500,000 or any prescribed lesser amount, of which a maximum of $350,000 or any prescribed lesser amount is for a purpose other than the purchase or improvement of real property or immovables of which the borrower is or will become the owner.
+	- **(b)** in the case of a loan made before April 1, 2009, the outstanding loan amount in relation to the borrower does not exceed $250,000 or any prescribed lesser amount;
+	- **(c)** in the case of a loan made after March 31, 2009 but before the day on which paragraph (d) comes into force, the outstanding loan amount in relation to the borrower does not exceed $500,000 or any prescribed lesser amount, of which a maximum of $350,000 or any prescribed lesser amount is for a purpose other than the purchase or improvement of real property or immovables of which the borrower is or will become the owner; and
+	- **(d)** in the case of a loan made on or after the day on which this paragraph comes into force, the outstanding loan amount in relation to the borrower does not exceed $1,000,000 or any prescribed lesser amount, of which a maximum of $350,000 or any prescribed lesser amount is for a purpose other than the purchase or improvement of real property or immovables of which the borrower is or will become the owner.
 
 **Meaning of outstanding loan amount**
 
-- **(3)** The outstanding loan amount referred to in paragraph (2)(b) or (c) is the aggregate of the amount of the proposed loan and the principal amount outstanding, in respect of the borrower and all borrowers that are related to that borrower within the meaning of the regulations, of all loans made under this Act and guaranteed business improvement loans made under the Small Business Loans Act.
-> 1998, c. 36, s. 4; 2009, c. 2, s. 265.
+- **(3)** The outstanding loan amount referred to in paragraph (2)(b), (c) or (d) is the aggregate of the amount of the proposed loan and the principal amount outstanding, in respect of the borrower and all borrowers that are related to that borrower within the meaning of the regulations, of all loans made under this Act and guaranteed business improvement loans made under the Small Business Loans Act.
+> 1998, c. 36, s. 4; 2009, c. 2, s. 265; 2015, c. 36, s. 162.
 
 
 
@@ -163,13 +164,14 @@ It does not include the business of farming or a business having as its principa
 **7** 
 
 - **(1)** The Minister is not liable to make any payment to a lender, in respect of any loss sustained by it as a result of a loan made to a borrower, if the borrower has disclosed to the lender the outstanding amount of the loan or the lender has actual knowledge of that amount and if the outstanding loan amount in relation to the borrower is more than
-	- **(a)** in the case of a loan made before April 1, 2009, $250,000 or any prescribed lesser amount; and
-	- **(b)** in the case of a loan made after March 31, 2009, $500,000 or any prescribed lesser amount, of which a maximum of $350,000 or any prescribed lesser amount is for a purpose other than the purchase or improvement of real property or immovables of which the borrower is or will become the owner.
+	- **(a)** in the case of a loan made before April 1, 2009, $250,000 or any prescribed lesser amount;
+	- **(b)** in the case of a loan made after March 31, 2009 but before the day on which paragraph (c) comes into force, $500,000 or any prescribed lesser amount, of which a maximum of $350,000 or any prescribed lesser amount is for a purpose other than the purchase or improvement of real property or immovables of which the borrower is or will become the owner; and
+	- **(c)** in the case of a loan made on or after the day on which this paragraph comes into force, $1,000,000 or any prescribed lesser amount, of which a maximum of $350,000 or any prescribed lesser amount is for a purpose other than the purchase or improvement of real property or immovables of which the borrower is or will become the owner.
 
 **Meaning of outstanding loan amount**
 
 - **(2)** The outstanding loan amount referred to in subsection (1) is the aggregate principal amount outstanding, in respect of the borrower and all borrowers that are related to that borrower within the meaning of the regulations, at the time the loan is made, of all loans made under this Act and guaranteed business improvement loans made under the Small Business Loans Act.
-> 1998, c. 36, s. 7; 2009, c. 2, s. 267.
+> 1998, c. 36, s. 7; 2009, c. 2, s. 267; 2015, c. 36, s. 163.
 
 
 
