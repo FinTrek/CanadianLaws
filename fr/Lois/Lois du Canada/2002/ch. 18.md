@@ -14,13 +14,13 @@ Sanctionnée sur le 13 juin 2002
 
 **Préambule**
 
-Attendu :
+Attendu :
 
 qu’il est important de préserver les écosystèmes marins naturels et leur équilibre afin de maintenir la diversité biologique;
 
 que le gouvernement du Canada s’engage à adopter le principe de la prudence dans le cadre de la conservation et de la gestion du milieu marin, de sorte que l’absence de certitude scientifique absolue ne puisse être invoquée comme motif pour différer la prise de mesures de prévention lorsque l’environnement risque de subir des dommages;
 
-que le Parlement souhaite affirmer la nécessité :
+que le Parlement souhaite affirmer la nécessité :
 
 d’établir un réseau d’aires marines de conservation représentatives des océans Atlantique, Arctique et Pacifique, ainsi que des Grands Lacs, et dont l’étendue et les caractéristiques assurent le maintien d’écosystèmes marins sains,
 
@@ -42,7 +42,7 @@ de faire participer les ministres et organismes fédéraux et provinciaux, les o
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -213,6 +213,67 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+## Aires marines de conservation de l’Ontario
+
+
+
+**Définitions**
+
+**7.1** 
+
+- **(1)** Les définitions qui suivent s’appliquent au présent article.
+
+***Loi sur les ressources en eau de l’Ontario*** La Loi sur les ressources en eau de l’Ontario, L.R.O. 1990, ch. O.40, avec ses modifications successives. (*Ontario Water Resources Act*)
+
+***prélèvement d’eau*** S’entend du prélèvement d’eau visé soit par la Loi sur les ressources en eau de l’Ontario, soit par ses règlements avec leurs modifications successives, avec toute éventuelle variation grammaticale de cette expression dans cette loi ou ces règlements. (*water taking*)
+
+***transfert d’eau*** S’entend du transfert d’eau visé soit par la Loi sur les ressources en eau de l’Ontario, soit par ses règlements avec leurs modifications successives, avec toute éventuelle variation grammaticale de cette expression dans cette loi ou ces règlements. (*water transfer*)
+
+**Aires marines de conservation de l’Ontario**
+
+- **(2)** Les dispositions des lois de l’Ontario, avec leurs modifications successives, en matière de prélèvement d’eau et de transfert d’eau s’appliquent dans les aires marines de conservation situées en Ontario.
+
+**Lois de l’Ontario**
+
+- **(3)** Il est entendu que les lois de l’Ontario qui contiennent des dispositions en matière de prélèvement d’eau et de transfert d’eau qui s’appliquent dans les aires marines de conservation situées en Ontario comprennent notamment la Loi sur les ressources en eau de l’Ontario, la Charte des droits environnementaux de 1993, L.O. 1993, ch. 28, avec leurs modifications successives, et leurs règlements, avec leurs modifications successives.
+
+**Application**
+
+- **(4)** S’appliquent dans les aires marines de conservation situées en Ontario, en ce qui concerne le prélèvement d’eau et le transfert d’eau, les dispositions des lois de l’Ontario, avec leurs modifications successives, ayant trait :
+	- **a)** à l’application des lois visées aux paragraphes (2) et (3);
+	- **b)** aux arrêtés pris par des agents provinciaux, au sens de la Loi sur les ressources en eau de l’Ontario, et à la révision de ces arrêtés;
+	- **c)** aux arrêtés pris par les directeurs, au sens de cette loi;
+	- **d)** aux audiences devant le Tribunal de l’environnement, au sens de la définition de ***Tribunal*** de cette loi, et aux appels des décisions de celui-ci.
+
+**Articles 18 et 19**
+
+- **(5)** Malgré les articles 18 et 19, les fonctions des gardes d’aire marine de conservation et des agents de l’autorité n’incluent pas l’application des dispositions des lois de l’Ontario visées aux paragraphes (2) à (4).
+
+**Application**
+
+- **(6)** Les personnes autorisées par les lois de l’Ontario à appliquer les dispositions de ces lois qui sont visées aux paragraphes (2) à (4) à l’extérieur d’une aire marine de conservation située en Ontario sont autorisées à appliquer ces dispositions dans une aire marine de conservation située en Ontario.
+
+**Loi sur les infractions provinciales de l’Ontario**
+
+- **(7)** La Loi sur les infractions provinciales, L.R.O. 1990, ch. P.33, avec ses modifications successives, s’applique aux contraventions des dispositions des lois de l’Ontario visées aux paragraphes (2) à (4).
+
+**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+- **(8)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas aux textes pris en vertu des dispositions des lois de l’Ontario visées aux paragraphes (2) à (4).
+
+**Permis et autorisations**
+
+- **(9)** Le directeur d’une aire marine de conservation située en Ontario ne peut délivrer de permis ou d’autres autorisations concernant le prélèvement d’eau ou le transfert d’eau dans cette aire marine de conservation, ou modifier un permis ou une autre autorisation afin de permettre le prélèvement d’eau ou le transfert d’eau dans cette aire marine de conservation.
+
+**Article 12**
+
+- **(10)** L’article 12 ne s’applique pas à une activité exercée conformément à un permis ou à une autre autorisation concernant le prélèvement d’eau ou le transfert d’eau dans les aires marines de conservation situées en Ontario délivré en vertu des lois de l’Ontario visées aux paragraphes (2) à (4).
+> 2015, ch. 38, art. 2.
+
+
+
+
+
 ## Administration
 
 
@@ -336,7 +397,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **15** 
 
-- **(1)** Le directeur peut, dans la mesure prévue par les règlements, délivrer, modifier, suspendre ou résilier les permis ou autres autorisations régissant l’exercice d’activités dans l’aire marine de conservation qui sont compatibles avec le plan directeur provisoire ou le plan directeur.
+- **(1)** Sous réserve de l’article 7.1, le directeur peut, dans la mesure prévue par les règlements, délivrer, modifier, suspendre ou résilier les permis ou autres autorisations régissant l’exercice d’activités dans l’aire marine de conservation qui sont compatibles avec le plan directeur provisoire ou le plan directeur.
 
 **Présomption**
 
@@ -345,6 +406,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Restriction**
 
 - **(3)** Il est entendu que le directeur ne peut modifier, suspendre ou résilier les permis et licences de pêche délivrés sous le régime de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md).
+> 2002, ch. 18, art. 15; 2015, ch. 38, art. 3.
+
 
 
 
