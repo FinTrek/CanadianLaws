@@ -872,7 +872,9 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 **Production du certificat**
 
-- **(2)** L’inspecteur reçoit un certificat réglementaire attestant sa qualité, qu’il présente, sur demande, au responsable du lieu visé au paragraphe 31(1).
+- **(2)** L’inspecteur reçoit un certificat réglementaire attestant sa qualité, qu’il produit, sur demande, au responsable du lieu visé au paragraphe 31(1) ou d’un site visé à l’un des paragraphes 31(1.1) ou (1.2).
+> 1996, ch. 19, art. 30; 2015, ch. 22, art. 2.
+
 
 
 
@@ -892,6 +894,14 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 	- **h)** examiner toute substance trouvée sur les lieux et en prélever, en tant que de besoin, des échantillons pour analyse;
 	- **i)** saisir et retenir, conformément à la présente partie, toute substance désignée ou tout précurseur dont il juge, pour des motifs raisonnables, la saisie et la rétention nécessaire.
 
+**Pouvoirs des inspecteurs — visite des sites de consommation supervisée**
+
+- **(1.1)** L’inspecteur peut, lorsqu’une demande d’exemption pour des raisons médicales présentée au ministre au titre du paragraphe 56.1(2) vise à permettre l’exercice de certaines activités dans un site de consommation supervisée, au sens du paragraphe 56.1(1), procéder, à toute heure convenable, à la visite de ce site pour vérifier tout renseignement relatif à cette demande. Il peut alors, à cette fin, exercer les pouvoirs prévus aux alinéas (1)a) à i).
+
+**Pouvoirs des inspecteurs — visite des sites de consommation supervisée**
+
+- **(1.2)** L’inspecteur peut procéder, à toute heure convenable, à la visite de tout site de consommation supervisée, au sens du paragraphe 56.1(1), pour toute fin liée à la vérification du respect des dispositions de la présente loi ou de ses règlements, ou des conditions fixées par le ministre dans une exemption accordée en vertu du paragraphe 56.1(2), ou à la prévention de leur non-respect. Il peut alors, à l’une ou l’autre de ces fins, exercer les pouvoirs prévus aux alinéas (1)a) à i).
+
 **Perquisition d’un local d’habitation**
 
 - **(2)** Dans le cas d’un local d’habitation, l’inspecteur ne peut toutefois procéder à la visite sans le consentement de l’un de ses occupants que s’il est muni du mandat prévu au paragraphe (3).
@@ -899,7 +909,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **Délivrance du mandat**
 
 - **(3)** Sur demande *ex parte*, le juge de paix peut, s’il est convaincu sur la foi d’une dénonciation faite sous serment que sont réunis les éléments énumérés ci-dessous, délivrer un mandat autorisant, sous réserve des conditions éventuellement fixées, l’inspecteur qui y est nommé à procéder à la visite et à exercer les pouvoirs mentionnés aux alinéas (1)a) à i) :
-	- **a)** le lieu est un local d’habitation, mais remplit par ailleurs les conditions de visite visées au paragraphe (1);
+	- **a)** le lieu est un local d’habitation, mais remplit par ailleurs les conditions de visite visées aux paragraphes (1) ou (1.2);
 	- **b)** il est nécessaire de procéder à la visite pour assurer l’application des règlements;
 	- **c)** un refus a été opposé à la visite ou il y a des motifs raisonnables de croire que tel sera le cas.
 
@@ -921,11 +931,13 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 **Restitution des biens saisis**
 
-- **(8)** L’inspecteur qui juge que la rétention des substances désignées ou des précurseurs saisis par lui aux termes de l’alinéa (1)i) n’est plus nécessaire pour assurer l’application des règlements en avise par écrit le propriétaire ou le responsable du lieu de la saisie, selon le cas, et, sur remise d’un reçu à cet effet, lui restitue les biens.
+- **(8)** L’inspecteur qui juge que la rétention des substances désignées ou des précurseurs saisis par lui aux termes de l’alinéa (1)i) n’est plus nécessaire pour assurer l’application des règlements ou le respect des conditions fixées par le ministre dans une exemption accordée en vertu du paragraphe 56.1(2) en avise par écrit le propriétaire ou le responsable du lieu de la saisie, selon le cas, et, sur remise d’un reçu à cet effet, lui restitue les biens.
 
 **Restitution ou disposition par le ministre**
 
 - **(9)** Indépendamment des articles 24, 25 et 27, les substances désignées ou précurseurs qui ont été saisis aux termes de l’alinéa (1)i) et qui n’ont pas, dans les cent vingt jours suivant leur saisie, été restitués par l’inspecteur aux termes du paragraphe (8) doivent, selon les instructions du ministre, être restitués ou faire l’objet d’une autre forme de disposition, conformément aux règlements applicables.
+> 1996, ch. 19, art. 31; 2015, ch. 22, art. 3.
+
 
 
 
@@ -1266,7 +1278,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 	- **k)** régir la distribution d’échantillons de substances inscrites aux annexes I, II, III, IV, V ou VI, ou d’une de leurs catégories;
 	- **l)** contrôler ou restreindre la publicité se rapportant à la vente de toute substance désignée ou tout précurseur, ou d’une de leurs catégories;
 	- **m)** régir les livres, registres, données électroniques ou autres documents que doivent tenir, établir ou fournir, en rapport avec les substances désignées ou les précurseurs, toute personne ou catégorie de personnes qui se livrent à quelque opération — notamment importation et exportation, production, emballage, expédition, transport, livraison, vente, fourniture, administration, possession ou obtention — portant sur les substances désignées ou les précurseurs ou sur une de leurs catégories;
-	- **n)** régir les qualifications des inspecteurs ainsi que les pouvoirs et fonctions de ceux-ci relativement à l’exécution et au contrôle d’application des règlements;
+	- **n)** régir les compétences des inspecteurs ainsi que les pouvoirs et fonctions de ceux-ci relativement à l’exécution et au contrôle d’application des règlements ou au respect des conditions fixées par le ministre dans une exemption accordée en vertu du paragraphe 56.1(2);
 	- **o)** régir les qualifications ainsi que les pouvoirs et fonctions des analystes;
 	- **p)** régir la rétention et la disposition des substances désignées;
 	- **q)** régir la disposition des précurseurs;
@@ -1280,6 +1292,22 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 	- **y)** régir la pratique et la procédure applicables aux audiences tenues et aux décisions rendues par les arbitres aux termes de la partie V;
 	- **z)** soustraire, aux conditions précisées, toute personne ou catégorie de personnes ou toute substance désignée ou tout précurseur ou toute catégorie de ceux-ci à l’application de tout ou partie de la présente loi ou de ses règlements;
 	- **z.1)** prendre toute mesure d’ordre réglementaire prévue par la présente loi.
+
+**Exception relative à l’alinéa (1)z)**
+
+- **(1.1)** Le règlement pris en vertu de l’alinéa (1)z) ne peut soustraire à l’application de tout ou partie de la présente loi ou de ses règlements :
+	- **a)** une personne ou catégorie de personnes relativement à une substance désignée ou à un précurseur obtenus d’une manière non autorisée sous le régime de la présente loi;
+	- **b)** une substance désignée ou un précurseur, ou une catégorie de ceux-ci, obtenus d’une telle manière.
+
+**Règlements**
+
+- **(1.2)** Le gouverneur en conseil peut, par règlement, prendre les mesures nécessaires à l’application de l’article 56.1 et, notamment :
+	- **a)** définir des termes pour l’application de cet article;
+	- **b)** modifier les définitions prévues au paragraphe 56.1(1);
+	- **c)** prévoir les renseignements que le ministre doit recevoir en application de l’alinéa 56.1(3)z.1) et la manière dont ces renseignements doivent lui être remis;
+	- **d)** prévoir les circonstances dans lesquelles des exemptions peuvent être accordées pour des raisons médicales ou pour l’application de la loi;
+	- **e)** prévoir des exigences relatives aux demandes d’exemption présentées au titre du paragraphe 56.1(2), notamment les renseignements à soumettre avec ces demandes;
+	- **f)** prévoir des conditions relatives aux exemptions accordées en vertu du paragraphe 56.1(2).
 
 **Règlements : activités policières**
 
@@ -1304,7 +1332,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **Incorporation par renvoi**
 
 - **(3)** Il peut être précisé, dans les règlements d’application de la présente loi qui incorporent par renvoi des classifications, normes, procédures ou autres spécifications, que celles-ci sont incorporées avec leurs modifications successives.
-> 1996, ch. 19, art. 55; 2001, ch. 32, art. 55; 2005, ch. 10, art. 15.
+> 1996, ch. 19, art. 55; 2001, ch. 32, art. 55; 2005, ch. 10, art. 15; 2015, ch. 22, art. 4.
 
 
 
@@ -1312,7 +1340,136 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 **Exemption par le ministre**
 
-**56** S’il estime que des raisons médicales, scientifiques ou d’intérêt public le justifient, le ministre peut, aux conditions qu’il fixe, soustraire à l’application de tout ou partie de la présente loi ou de ses règlements toute personne ou catégorie de personnes, ou toute substance désignée ou tout précurseur ou toute catégorie de ceux-ci.
+**56** 
+
+- **(1)** S’il estime que des raisons d’intérêt public, notamment des raisons médicales ou scientifiques, le justifient, le ministre peut, aux conditions qu’il estime nécessaires, soustraire à l’application de tout ou partie de la présente loi ou de ses règlements toute personne ou catégorie de personnes, ou toute substance désignée ou tout précurseur, ou toute catégorie de ceux-ci.
+
+**Exception**
+
+- **(2)** Le ministre ne peut se prévaloir du paragraphe (1) pour soustraire à l’application de tout ou partie de la présente loi ou de ses règlements :
+	- **a)** une personne ou catégorie de personnes relativement à une substance désignée ou à un précurseur obtenus d’une manière non autorisée sous le régime de la présente loi;
+	- **b)** une substance désignée ou un précurseur, ou une catégorie de ceux-ci, obtenus d’une telle manière.
+> 1996, ch. 19, art. 56; 2015, ch. 22, art. 5.
+
+
+
+
+
+**Définitions**
+
+**56.1** 
+
+- **(1)** Les définitions qui suivent s’appliquent au présent article.
+
+***administration locale*** S’entend notamment :
+- **a)** du conseil d’une cité, d’une région métropolitaine, d’une ville, d’un village ou de toute autre municipalité dotés de la personnalité morale;
+- **b)** de l’autorité qui est responsable de la prestation des services municipaux à une cité, à une région métropolitaine, à une ville, à un village — ou à toute autre municipalité — non dotés de la personnalité morale;
+- **c)** du conseil de la bande au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md);
+- **d)** du gouvernement d’une bande qui est partie à un accord global sur l’autonomie gouvernementale mis en oeuvre par une loi fédérale.
+
+***infraction désignée en matière criminelle*** L’une ou l’autre des infractions suivantes :
+- **a)** infraction relative au financement du terrorisme visée à l’un des articles 83.02 à 83.04 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
+- **b)** infraction de fraude visée à l’un des articles 380 à 382 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
+- **c)** infraction de recyclage des produits de la criminalité visée à l’article 462.31 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
+- **d)** infraction relative à une organisation criminelle visée à l’un des articles 467.11 à 467.13 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
+- **e)** le complot ou la tentative de commettre une infraction visée à l’un des alinéas a) à d), la complicité après le fait à son égard ou le fait de conseiller de la commettre.
+
+***infraction désignée en matière de drogue*** L’une ou l’autre des infractions suivantes :
+- **a)** infraction visée aux articles 39, 44.2, 44.3, 48, 50.2 ou 50.3 de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md), dans leur version antérieure au 14 mai 1997;
+- **b)** infraction visée aux articles 4, 5, 6, 19.1 ou 19.2 de la Loi sur les stupéfiants, dans leur version antérieure au 14 mai 1997;
+- **c)** infraction visée à la partie I de la présente loi, à l’exception du paragraphe 4(1);
+- **d)** le complot ou la tentative de commettre une infraction visée à l’un des alinéas a) à c), la complicité après le fait à son égard ou le fait de conseiller de la commettre.
+
+***municipalité*** S’entend notamment :
+- **a)** de la zone géographique d’une cité, d’une région métropolitaine, d’une ville, d’un village ou de toute autre municipalité dotés ou non de la personnalité morale;
+- **b)** d’une réserve et des terres désignées au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md);
+- **c)** des terres assujetties à un accord global sur l’autonomie gouvernementale mis en oeuvre par une loi fédérale.
+
+***personne responsable*** La personne désignée par le demandeur pour veiller, lorsqu’elle se trouve au site de consommation supervisée, au respect — par les personnes ou catégories de personnes exemptées pour des raisons médicales au titre du paragraphe (2) de l’application de tout ou partie de la présente loi ou de ses règlements, alors que celles-ci se trouvent au site — des conditions fixées par le ministre dans l’exemption.
+
+***personne responsable suppléante*** Toute personne désignée par le demandeur pour veiller, lorsque la personne responsable est absente du site de consommation supervisée, au respect — par les personnes ou catégories de personnes exemptées pour des raisons médicales au titre du paragraphe (2) de l’application de tout ou partie de la présente loi ou de ses règlements, alors que celles-ci se trouvent au site — des conditions fixées par le ministre dans l’exemption.
+
+***principaux membres du personnel*** Les personnes désignées par le demandeur pour superviser directement, au site de consommation supervisée, la consommation de substances illicites par les personnes ou catégories de personnes exemptées pour des raisons médicales au titre du paragraphe (2) de l’application de tout ou partie de la présente loi ou de ses règlements.
+
+***site de consommation supervisée*** Endroit prévu dans les conditions fixées par le ministre dans une exemption, accordée en vertu du paragraphe (2) pour des raisons médicales, qui permet aux personnes ou catégories de personnes décrites dans l’exemption d’exercer, dans un environnement contrôlé et supervisé, certaines activités relativement à des substances illicites.
+
+***substance illicite*** Substance désignée obtenue d’une manière non autorisée sous le régime de la présente loi.
+
+**Exemption par le ministre**
+
+- **(2)** S’il estime que des raisons médicales ou d’application de la loi — ou toute raison réglementaire — le justifient, le ministre peut, aux conditions qu’il estime nécessaires, soustraire à l’application de tout ou partie de la présente loi ou de ses règlements, à l’exception du présent article :
+	- **a)** toute personne ou catégorie de personnes relativement à une substance désignée ou à un précurseur obtenus d’une manière non autorisée sous le régime de la présente loi;
+	- **b)** toute substance désignée ou tout précurseur obtenus d’une telle manière, ou toute catégorie de ceux-ci.
+
+**Renseignements à fournir avec la demande**
+
+- **(3)** Lorsque l’exemption aurait pour effet de permettre l’exercice de certaines activités dans un site de consommation supervisée, le paragraphe (2) n’autorise le ministre à examiner une demande d’exemption pour des raisons médicales que s’il a reçu ce qui suit :
+	- **a)** des preuves scientifiques des effets bénéfiques sur la santé individuelle ou sur la santé publique de l’accès aux activités dans les sites de consommation supervisée;
+	- **b)** une lettre du ministre provincial responsable de la santé dans la province où le site serait établi qui comporte :
+		- **(i)** le résumé de son opinion relativement aux activités qui y sont projetées,
+		- **(ii)** la description de la façon dont ces activités s’intègrent au système de soins de santé de la province,
+		- **(iii)** des renseignements sur l’accès des éventuels usagers du site à des services, s’il en existe, de traitement de la toxicomanie disponibles dans la province;
+	- **c)** une lettre de l’administration locale de la municipalité où le site serait établi qui comporte le résumé de son opinion relativement aux activités qui y sont projetées, notamment toute préoccupation liée à la santé ou à la sécurité publiques;
+	- **d)** la description, rédigée par le demandeur, des mesures prises ou qui le seront en réponse à toute préoccupation pertinente exprimée dans la lettre visée à l’alinéa c);
+	- **e)** une lettre du chef du corps policier chargé de la prestation de services de police dans la municipalité où le site serait établi qui comporte le résumé de son opinion relativement aux activités qui y sont projetées, notamment toute préoccupation liée à la sécurité publique;
+	- **f)** la description, rédigée par le demandeur, des mesures proposées, le cas échéant, en réponse à toute préoccupation pertinente exprimée dans la lettre visée à l’alinéa e);
+	- **g)** une lettre du premier professionnel de la santé en matière de santé publique du gouvernement de la province où le site serait établi qui comporte le résumé de son opinion relativement aux activités qui y sont projetées;
+	- **h)** une lettre du ministre provincial responsable de la sécurité publique dans la province où le site serait établi qui comporte le résumé de son opinion relativement aux activités qui y sont projetées;
+	- **i)** la description des conséquences potentielles des activités projetées au site sur la sécurité publique, notamment :
+		- **(i)** des renseignements, s’il en existe, portant sur toute activité criminelle et toute nuisance publique à proximité du site et des renseignements portant sur toute activité criminelle et toute nuisance publique dans les municipalités où des sites de consommation supervisée sont établis,
+		- **(ii)** des renseignements, s’il en existe, portant sur la consommation en public de substances illicites à proximité du site et des renseignements portant sur une telle consommation dans les municipalités où des sites de consommation supervisée sont établis,
+		- **(iii)** des renseignements, s’il en existe, portant sur la présence de déchets liés aux drogues jetés de manière inadéquate à proximité du site et des renseignements portant sur la présence de tels déchets jetés de telle manière dans les municipalités où des sites de consommation supervisée sont établis;
+	- **j)** des études ou des statistiques, s’il en existe, sur l’application de la loi relativement à ce qui est visé aux sous-alinéas i)(i) à (iii);
+	- **k)** des renseignements pertinents, notamment sur les tendances, s’il en existe, portant sur le nombre de personnes qui consomment des substances illicites à proximité du site et dans la municipalité où un tel site serait établi;
+	- **l)** des renseignements pertinents, notamment sur les tendances, s’il en existe, portant sur le nombre de personnes qui souffrent de maladies infectieuses qui peuvent être associées à la consommation de substances illicites à proximité du site et dans la municipalité où un tel site serait établi;
+	- **m)** des renseignements pertinents, notamment sur les tendances, s’il en existe, portant sur le nombre de décès par surdose associée aux activités projetées au site qui sont survenus, le cas échéant, à proximité du site et dans la municipalité où un tel site serait établi;
+	- **n)** des rapports officiels pertinents, s’il en existe, au regard de l’établissement d’un site de consommation supervisée, notamment les rapports de coroners;
+	- **o)** le rapport des consultations tenues avec l’autorité attributive de licences en matière d’activités professionnelles pour les médecins, ainsi qu’avec celle pour les infirmières, pour la province où le site serait établi qui comporte leur opinion relativement aux activités qui y sont projetées;
+	- **p)** le rapport des consultations tenues avec un large éventail d’organismes communautaires de la municipalité où le site serait établi qui comporte ce qui suit :
+		- **(i)** le résumé des opinions de ces organismes relativement aux activités qui y sont projetées,
+		- **(ii)** un exemplaire de toutes les présentations écrites reçues,
+		- **(iii)** la description des mesures qui seront prises en réponse à toute préoccupation pertinente soulevée dans le cadre des consultations;
+	- **q)** un plan de financement démontrant la faisabilité et la viabilité de son exploitation;
+	- **r)** la description des services de traitement de la toxicomanie disponibles au site, s’il en existe, pour les éventuels usagers de celui-ci, ainsi que des renseignements qui seront mis à leur disposition sur la disponibilité de tels services ailleurs;
+	- **s)** des renseignements pertinents, notamment sur les tendances, portant sur le flânage dans un endroit public qui peut être lié à certaines activités comportant des substances illicites, sur le trafic de substances désignées et sur le taux d’infractions mineures à proximité du site, s’il en existe;
+	- **t)** des renseignements portant sur toute urgence sanitaire à proximité du site ou dans la municipalité où celui-ci serait établi qui peut être liée aux activités comportant des substances illicites et qui a été déclarée par une autorité compétente en matière de santé publique, s’il en existe;
+	- **u)** la description des mesures qui seront prises pour minimiser le détournement de substances désignées ou de précurseurs et les risques pour la santé et la sécurité des personnes qui se trouvent au site, ou à proximité de celui-ci, notamment les membres du personnel, lesquelles doivent inclure l’établissement de procédures :
+		- **(i)** de disposition des substances désignées et des précurseurs, ainsi que de tout ce qui facilite leur consommation, notamment pour leur transfert à un policier,
+		- **(ii)** de contrôle de l’accès au site,
+		- **(iii)** de prévention de la perte et du vol de substances désignées ou de précurseurs;
+	- **v)** la description des procédures relatives à la tenue des dossiers concernant la disposition, la perte, le vol et le transfert de substances désignées, de précurseurs et de toute chose facilitant leur consommation laissés au site;
+	- **w)** le nom, le titre et le curriculum vitae, qui mentionne notamment les études et la formation pertinentes, de la personne responsable proposée, ainsi que ceux des personnes responsables suppléantes proposées et des principaux membres du personnel proposés;
+	- **x)** un document délivré par un corps policier canadien au sujet de chaque personne visée à l’alinéa w) précisant si, dans les dix ans qui précèdent la date de présentation de la demande, la personne, pour une infraction désignée en matière de drogue ou pour une infraction désignée en matière criminelle :
+		- **(i)** soit a été condamnée en tant qu’adulte,
+		- **(ii)** soit a été condamnée en tant qu’adolescent, au sens du paragraphe 2(1) de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), chapitre Y-1 des Lois révisées du Canada (1985), dans sa version antérieure à son abrogation, par une juridiction normalement compétente, au sens de ce paragraphe,
+		- **(iii)** soit, en tant qu’adolescent, au sens du paragraphe 2(1) de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md), s’est vu imposer une peine applicable aux adultes, au sens de ce paragraphe;
+	- **y)** un document délivré par un corps policier de tout pays étranger dans lequel une personne visée à l’alinéa w) a résidé ordinairement dans les dix ans qui précèdent la date de présentation de la demande précisant si, dans ce pays, au cours de cette période, la personne :
+		- **(i)** soit a été condamnée en tant qu’adulte pour une infraction dans ce pays qui, si elle avait été commise au Canada, aurait constitué une infraction désignée en matière de drogue ou une infraction désignée en matière criminelle,
+		- **(ii)** soit s’est vu imposer une peine — pour une infraction commise dans ce pays alors qu’elle avait au moins quatorze ans et moins de dix-huit ans qui, si elle avait été commise au Canada, aurait constitué une infraction désignée en matière de drogue ou une infraction désignée en matière criminelle — plus longue que la peine spécifique maximale prévue par la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md) pour une telle infraction;
+	- **z)** tout autre renseignement que le ministre juge pertinent au regard de l’examen de la demande;
+	- **z.1)** tout renseignement prévu par règlement fourni de la manière réglementaire.
+
+**Renseignements à fournir avec une demande subséquente**
+
+- **(4)** Lorsque l’exemption aurait pour effet de permettre la continuation de l’exercice de certaines activités dans un site de consommation supervisée existant, le paragraphe (2) n’autorise le ministre à examiner une demande d’exemption pour des raisons médicales que s’il a reçu, en plus de ce qui est visé aux alinéas (3)a) à z.1), ce qui suit :
+	- **a)** des preuves, s’il en existe, de toute variation du taux de criminalité à proximité du site au cours de la période qui commence à la date à laquelle la première exemption a été accordée en vertu du paragraphe (2) à l’égard de ce site et qui se termine à la date à laquelle la demande est présentée;
+	- **b)** des preuves, s’il en existe, de toute répercussion des activités au site sur la santé individuelle ou sur la santé publique au cours de cette période.
+
+**Principes**
+
+- **(5)** Lorsque l’exemption aurait pour effet de permettre l’exercice de certaines activités dans un site de consommation supervisée, le paragraphe (2) n’autorise le ministre à accorder une exemption pour des raisons médicales que dans des circonstances exceptionnelles et que s’il a tenu compte des principes suivants :
+	- **a)** les substances illicites peuvent avoir des effets importants sur la santé;
+	- **b)** les substances désignées adultérées peuvent poser des risques pour la santé;
+	- **c)** les risques de surdose sont inhérents à l’utilisation de certaines substances illicites;
+	- **d)** des mesures de contrôle strictes sont nécessaires compte tenu des risques inhérents pour la santé afférents à des substances désignées qui peuvent altérer les processus mentaux;
+	- **e)** le crime organisé tire profit de l’utilisation de substances illicites;
+	- **f)** de l’activité criminelle découle fréquemment de l’utilisation de substances illicites.
+
+**Avis**
+
+- **(6)** Lorsque l’exemption aurait pour effet de permettre l’exercice de certaines activités dans un site de consommation supervisée, le ministre peut donner avis, selon les modalités de son choix, de toute demande d’exemption pour des raisons médicales présentée au titre du paragraphe (2). Le public dispose alors de quatre-vingt-dix jours après la date à laquelle l’avis est donné pour présenter des observations au ministre.
+> 2015, ch. 22, art. 5.
+
 
 
 
