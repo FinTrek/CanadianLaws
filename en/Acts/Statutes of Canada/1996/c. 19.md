@@ -896,7 +896,9 @@ and the property shall not be disposed of or otherwise dealt with until thirty d
 
 **Certificate of designation**
 
-- **(2)** An inspector shall be furnished with a prescribed certificate of designation, and on entering any place pursuant to subsection 31(1) shall, on request, produce the certificate to the person in charge of the place.
+- **(2)** An inspector shall be provided with a prescribed certificate of designation and, on entering any place under subsection 31(1) or a supervised consumption site under subsection 31(1.1) or (1.2), shall, on request, produce the certificate to the person in charge of the place.
+> 1996, c. 19, s. 30; 2015, c. 22, s. 2.
+
 
 
 
@@ -916,14 +918,22 @@ and the property shall not be disposed of or otherwise dealt with until thirty d
 	- **(h)** examine any substance found in that place and take, for the purpose of analysis, such samples thereof as are reasonably required; and
 	- **(i)** seize and detain in accordance with this Part, any controlled substance or precursor the seizure and detention of which the inspector believes on reasonable grounds is necessary.
 
+**Powers of inspectors — inspection of supervised consumption sites**
+
+- **(1.1)** In order to confirm any information in relation to an application submitted to the Minister for an exemption for a medical purpose under subsection 56.1(2) to allow certain activities to take place at a supervised consumption site, as defined in subsection 56.1(1), an inspector may, at any reasonable time, enter the site and may for that purpose exercise any of the powers set out in paragraphs (1)(a) to (i).
+
+**Powers of inspectors — inspection of supervised consumption sites**
+
+- **(1.2)** In order to verify compliance or to prevent non-compliance with the provisions of this Act or the regulations, or with any terms and conditions specified by the Minister in an exemption granted under subsection 56.1(2), an inspector may, at any reasonable time, enter any supervised consumption site, as defined in subsection 56.1(1), and may for those purposes exercise any of the powers set out in paragraphs (1)(a) to (i).
+
 **Warrant required to enter dwelling-place**
 
-- **(2)** Where a place referred to in subsection (1) is a dwelling-place, an inspector may not enter the dwelling-place without the consent of an occupant thereof except under the authority of a warrant issued under subsection (3).
+- **(2)** In the case of a dwelling-place, an inspector may enter it only with the consent of an occupant or under the authority of a warrant issued under subsection (3).
 
 **Authority to issue warrant**
 
 - **(3)** Where, on *ex parte* application, a justice is satisfied by information on oath that
-	- **(a)** a place referred to in subsection (1) is a dwelling-place but otherwise meets the conditions for entry described in that subsection,
+	- **(a)** a place referred to in subsection (1) or (1.2) is a dwelling-place but otherwise meets the conditions for entry described in that subsection,
 	- **(b)** entry to the dwelling-place is necessary for the purpose of ensuring compliance with the regulations, and
 	- **(c)** entry to the dwelling-place has been refused or there are reasonable grounds to believe that entry will be refused,
 the justice may issue a warrant authorizing the inspector named in it to enter that dwelling-place and exercise any of the powers mentioned in paragraphs (1)(a) to (i), subject to such conditions as may be specified in the warrant.
@@ -934,7 +944,7 @@ the justice may issue a warrant authorizing the inspector named in it to enter t
 
 **Assistance to inspector**
 
-- **(5)** The owner or other person in charge of a place entered by an inspector under subsection (1) and every person found there shall give the inspector all reasonable assistance in the power of that person and furnish the inspector with such information as the inspector may reasonably require.
+- **(5)** The owner or other person in charge of a place entered by an inspector under subsection (1), (1.1) or (1.2) and every person found there shall give the inspector all reasonable assistance in that person’s power and provide the inspector with any information that the inspector may reasonably require.
 
 **Storage of substances seized**
 
@@ -946,11 +956,13 @@ the justice may issue a warrant authorizing the inspector named in it to enter t
 
 **Return by inspector**
 
-- **(8)** Where an inspector determines that to ensure compliance with the regulations it is no longer necessary to detain a controlled substance or a precursor seized by the inspector under paragraph (1)(i), the inspector shall notify in writing the owner or other person in charge of the place where the seizure occurred of that determination and, on being issued a receipt for it, shall return the controlled substance or precursor to that person.
+- **(8)** If an inspector determines that to ensure compliance with the regulations or with any terms and conditions specified by the Minister in an exemption granted under subsection 56.1(2) it is no longer necessary to detain a controlled substance or a precursor seized by the inspector under paragraph (1)(i), the inspector shall notify in writing the owner or other person in charge of the place where the seizure occurred of that determination and, on being issued a receipt for it, shall return the controlled substance or precursor to that person.
 
 **Return or disposal by Minister**
 
 - **(9)** Notwithstanding sections 24, 25 and 27, where a period of one hundred and twenty days has elapsed after the date of a seizure under paragraph (1)(i) and the controlled substance or precursor has not been returned in accordance with subsection (8), the controlled substance or precursor shall be returned, disposed of or otherwise dealt with in such manner as the Minister directs, in accordance with any applicable regulations.
+> 1996, c. 19, s. 31; 2015, c. 22, s. 3.
+
 
 
 
@@ -1299,7 +1311,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 	- **(k)** respecting the distribution of samples of any substance included in Schedule I, II, III, IV, V or VI or any class thereof;
 	- **(l)** controlling and limiting the advertising for sale of any controlled substance or precursor or any class thereof;
 	- **(m)** respecting the records, books, electronic data or other documents in respect of controlled substances and precursors that are required to be kept and provided by any person or class of persons who imports into Canada, exports from Canada, produces, packages, sends, transports, delivers, sells, provides, administers, possesses, obtains or otherwise deals in any controlled substance or precursor or any class thereof;
-	- **(n)** respecting the qualifications for inspectors and their powers and duties in relation to the enforcement of, and compliance with, the regulations;
+	- **(n)** respecting the qualifications for inspectors and their powers and duties in relation to the enforcement of, and compliance with, the regulations or any terms and conditions specified by the Minister in an exemption granted under subsection 56.1(2);
 	- **(o)** respecting the qualifications for analysts and their powers and duties;
 	- **(p)** respecting the detention and disposal of or otherwise dealing with any controlled substance;
 	- **(q)** respecting the disposal of or otherwise dealing with any precursor;
@@ -1315,6 +1327,22 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 	- **(y)** governing the practice and procedure of hearings conducted and determinations made by adjudicators under Part V;
 	- **(z)** exempting, on such terms and conditions as may be specified in the regulations, any person or class of persons or any controlled substance or precursor or any class thereof from the application of this Act or the regulations; and
 	- **(z.1)** prescribing anything that, by this Act, is to be or may be prescribed.
+
+**Exception related to paragraph (1)(z)**
+
+- **(1.1)** A regulation made under paragraph (1)(z) shall not exempt from the application of all or any of the provisions of this Act or the regulations
+	- **(a)** any person or class of persons in relation to a controlled substance or precursor that is obtained in a manner not authorized under this Act; or
+	- **(b)** any controlled substance or precursor or any class of either of them that is obtained in a manner not authorized under this Act.
+
+**Regulations**
+
+- **(1.2)** The Governor in Council may make regulations for carrying out the purposes of section 56.1, including
+	- **(a)** defining terms for the purposes of that section;
+	- **(b)** amending the definitions that are set out in subsection 56.1(1);
+	- **(c)** respecting any information to be submitted to the Minister under paragraph 56.1(3)(z.1) and the manner in which it is to be submitted;
+	- **(d)** respecting the circumstances in which an exemption may be granted for a medical or law enforcement purpose;
+	- **(e)** respecting requirements in relation to an application for an exemption made under subsection 56.1(2), including the information to be submitted with the application; and
+	- **(f)** respecting terms and conditions in relation to an exemption granted under subsection 56.1(2).
 
 **Regulations pertaining to law enforcement**
 
@@ -1339,7 +1367,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 **Incorporation by reference**
 
 - **(3)** Any regulations made under this Act incorporating by reference a classification, standard, procedure or other specification may incorporate the classification, standard, procedure or specification as amended from time to time, and, in such a case, the reference shall be read accordingly.
-> 1996, c. 19, s. 55; 2001, c. 32, s. 55; 2005, c. 10, s. 15.
+> 1996, c. 19, s. 55; 2001, c. 32, s. 55; 2005, c. 10, s. 15; 2015, c. 22, s. 4.
 
 
 
@@ -1347,7 +1375,136 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 
 **Exemption by Minister**
 
-**56** The Minister may, on such terms and conditions as the Minister deems necessary, exempt any person or class of persons or any controlled substance or precursor or any class thereof from the application of all or any of the provisions of this Act or the regulations if, in the opinion of the Minister, the exemption is necessary for a medical or scientific purpose or is otherwise in the public interest.
+**56** 
+
+- **(1)** The Minister may, on any terms and conditions that the Minister considers necessary, exempt from the application of all or any of the provisions of this Act or the regulations any person or class of persons or any controlled substance or precursor or any class of either of them if, in the opinion of the Minister, the exemption is necessary for a medical or scientific purpose or is otherwise in the public interest.
+
+**Exception**
+
+- **(2)** The Minister is not authorized under subsection (1) to exempt from the application of all or any of the provisions of this Act or the regulations
+	- **(a)** any person or class of persons in relation to a controlled substance or precursor that is obtained in a manner not authorized under this Act; or
+	- **(b)** any controlled substance or precursor or any class of either of them that is obtained in a manner not authorized under this Act.
+> 1996, c. 19, s. 56; 2015, c. 22, s. 5.
+
+
+
+
+
+**Interpretation**
+
+**56.1** 
+
+- **(1)** The following definitions apply in this section.
+
+***alternate person in charge*** means any person designated by the applicant who is responsible, when the responsible person in charge is absent from the supervised consumption site, for ensuring that every person or class of persons who is exempted for a medical purpose under subsection (2) from the application of all or any of the provisions of this Act or the regulations complies with any terms and conditions specified by the Minister in the exemption when they are at the site.
+
+***designated criminal offence*** means
+- **(a)** an offence involving the financing of terrorism against any of sections 83.02 to 83.04 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
+- **(b)** an offence involving fraud against any of sections 380 to 382 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
+- **(c)** the offence of laundering proceeds of crime against section 462.31 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
+- **(d)** an offence involving a criminal organization against any of sections 467.11 to 467.13 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); or
+- **(e)** a conspiracy or an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence referred to in any of paragraphs (a) to (d).
+
+***designated drug offence*** means
+- **(a)** an offence against section 39, 44.2, 44.3, 48, 50.2 or 50.3 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md), as those provisions read immediately before May 14, 1997;
+- **(b)** an offence against section 4, 5, 6, 19.1 or 19.2 of the Narcotic Control Act, as those provisions read immediately before May 14, 1997;
+- **(c)** an offence under Part I of this Act, except subsection 4(1); or
+- **(d)** a conspiracy or an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence referred to in any of paragraphs (a) to (c).
+
+***illicit substance*** means a controlled substance that is obtained in a manner not authorized under this Act.
+
+***key staff members*** means the persons designated by the applicant who are responsible for the direct supervision, at the supervised consumption site, of the consumption of an illicit substance by every person or class of persons who is exempted for a medical purpose under subsection (2) from the application of all or any of the provisions of this Act or the regulations.
+
+***local government*** includes
+- **(a)** a council of an incorporated city, metropolitan area, town, village or other municipality;
+- **(b)** an authority responsible for delivering municipal services to an unincorporated city, metropolitan area, town, village or other municipality;
+- **(c)** a council of the band, as that term is defined in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md); and
+- **(d)** a government of a band that is a party to a comprehensive self-government agreement that is given effect by an Act of Parliament.
+
+***municipality*** includes
+- **(a)** the geographical area of an incorporated or unincorporated city, metropolitan area, town, village or other municipality;
+- **(b)** a reserve and designated lands, as those terms are defined in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md); and
+- **(c)** lands that are subject to a comprehensive self-government agreement that is given effect by an Act of Parliament.
+
+***responsible person in charge*** means the person, designated by the applicant, who is responsible, when the person is at the supervised consumption site, for ensuring that every person or class of persons who is exempted for a medical purpose under subsection (2) from the application of all or any of the provisions of this Act or the regulations complies with the terms and conditions specified by the Minister in the exemption when they are at the site.
+
+***supervised consumption site*** means a location specified in the terms and conditions of an exemption, granted by the Minister under subsection (2) for a medical purpose, that allows any person or class of persons described in the exemption to engage in certain activities in relation to an illicit substance within a supervised and controlled environment.
+
+**Exemption by Minister**
+
+- **(2)** The Minister may, on any terms and conditions that the Minister considers necessary, exempt from the application of all or any of the provisions of this Act or the regulations, other than this section, if, in the opinion of the Minister, the exemption is necessary for a medical, law enforcement or prescribed purpose
+	- **(a)** any person or class of persons in relation to a controlled substance or precursor that is obtained in a manner not authorized under this Act; or
+	- **(b)** any controlled substance or precursor or any class of either of them that is obtained in a manner not authorized under this Act.
+
+**Information to accompany application**
+
+- **(3)** The Minister may consider an application for an exemption for a medical purpose under subsection (2) that would allow certain activities to take place at a supervised consumption site only after the following have been submitted:
+	- **(a)** scientific evidence demonstrating that there is a medical benefit to individual or public health associated with access to activities undertaken at supervised consumption sites;
+	- **(b)** a letter from the provincial minister who is responsible for health in the province in which the site would be located that
+		- **(i)** outlines his or her opinion on the proposed activities at the site,
+		- **(ii)** describes how those activities are integrated within the provincial health care system, and
+		- **(iii)** provides information about access to drug treatment services, if any, that are available in the province for persons who would use the site;
+	- **(c)** a letter from the local government of the municipality in which the site would be located that outlines its opinion on the proposed activities at the site, including any concerns with respect to public health or safety;
+	- **(d)** a description by the applicant of the measures that have been taken or will be taken to address any relevant concerns outlined in the letter referred to in paragraph (c);
+	- **(e)** a letter from the head of the police force that is responsible for providing policing services to the municipality in which the site would be located that outlines his or her opinion on the proposed activities at the site, including any concerns with respect to public safety and security;
+	- **(f)** a description by the applicant of the proposed measures, if any, to address any relevant concerns outlined in the letter referred to in paragraph (e);
+	- **(g)** a letter from the lead health professional, in relation to public health, of the government of the province in which the site would be located that outlines their opinion on the proposed activities at the site;
+	- **(h)** a letter from the provincial minister responsible for public safety in the province in which the site would be located that outlines his or her opinion on the proposed activities at the site;
+	- **(i)** a description of the potential impacts of the proposed activities at the site on public safety, including the following:
+		- **(i)** information, if any, on crime and public nuisance in the vicinity of the site and information on crime and public nuisance in the municipalities in which supervised consumption sites are located,
+		- **(ii)** information, if any, on the public consumption of illicit substances in the vicinity of the site and information on the public consumption of illicit substances in the municipalities in which supervised consumption sites are located, and
+		- **(iii)** information, if any, on the presence of inappropriately discarded drug-related litter in the vicinity of the site and information on the presence of inappropriately discarded drug-related litter in the municipalities in which supervised consumption sites are located;
+	- **(j)** law enforcement research or statistics, if any, in relation to the information required under subparagraphs (i)(i) to (iii);
+	- **(k)** relevant information, including trends, if any, on the number of persons who consume illicit substances in the vicinity of the site and in the municipality in which the site would be located;
+	- **(l)** relevant information, including trends, if any, on the number of persons with infectious diseases that may be in relation to the consumption of illicit substances in the vicinity of the site and in the municipality in which the site would be located;
+	- **(m)** relevant information, including trends, if any, on the number of deaths, if any, due to overdose — in relation to activities that would take place at the site — that have occurred in the vicinity of the site and in the municipality in which the site would be located;
+	- **(n)** official reports, if any, relevant to the establishment of a supervised consumption site, including any coroner’s reports;
+	- **(o)** a report of the consultations held with the professional licensing authorities for physicians and for nurses for the province in which the site would be located that contains each authority’s opinion on the proposed activities at the site;
+	- **(p)** a report of the consultations held with a broad range of community groups from the municipality in which the site would be located that includes
+		- **(i)** a summary of the opinions of those groups on the proposed activities at the site,
+		- **(ii)** copies of all written submissions received, and
+		- **(iii)** a description of the steps that will be taken to address any relevant concerns that were raised during the consultations;
+	- **(q)** a financing plan that demonstrates the feasibility and sustainability of operating the site;
+	- **(r)** a description of the drug treatment services available at the site, if any, for persons who would use the site and the information that would be made available to those persons in relation to drug treatment services available elsewhere;
+	- **(s)** relevant information, including trends, on loitering in a public place that may be related to certain activities involving illicit substances, on trafficking of controlled substances and on minor offence rates in the vicinity of the site, if any;
+	- **(t)** information on any public health emergency in the vicinity of the site or in the municipality in which the site would be located that may be in relation to activities involving illicit substances as declared by a competent authority with respect to public health, if any;
+	- **(u)** a description of the measures that will be taken to minimize the diversion of controlled substances or precursors and the risks to the health and the safety and security of persons at the site, or in the vicinity of the site, including staff members, which measures must include the establishment of procedures
+		- **(i)** to dispose of controlled substances, precursors, and any thing that facilitates their consumption, including how to transfer them to a police officer,
+		- **(ii)** to control access to the site, and
+		- **(iii)** to prevent the loss or theft of controlled substances and precursors;
+	- **(v)** a description of record keeping procedures for the disposal, loss, theft and transfer of controlled substances and precursors — and any thing that facilitates their consumption — left at the site;
+	- **(w)** the name, title and resumé, including relevant education and training, of the proposed responsible person in charge, of each of their proposed alternate responsible persons, and of each of the other proposed key staff members;
+	- **(x)** a document issued by a Canadian police force in relation to each person referred to in paragraph (w), stating whether, in the 10 years before the day on which the application is made, in respect of a designated drug offence or a designated criminal offence, the person was
+		- **(i)** convicted as an adult,
+		- **(ii)** convicted as a young person in ordinary court, as those terms were defined in subsection 2(1) of the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md), chapter Y-1 of the Revised Statutes of Canada, 1985, immediately before that Act was repealed, or
+		- **(iii)** a young person who received an adult sentence, as those terms are defined in subsection 2(1) of the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md);
+	- **(y)** if any of the persons referred to in paragraph (w) has ordinarily resided in a country other than Canada in the 10 years before the day on which the application is made, a document issued by a police force of that country stating whether in that period that person
+		- **(i)** was convicted as an adult for an offence committed in that country that, if committed in Canada, would have constituted a designated drug offence or a designated criminal offence, or
+		- **(ii)** received a sentence — for an offence they committed in that country when they were at least 14 years old but less than 18 years old that, if committed in Canada, would have constituted a designated drug offence or a designated criminal offence — that was longer than the maximum youth sentence that could have been imposed under the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md) for such an offence;
+	- **(z)** any other information that the Minister considers relevant to the consideration of the application; and
+	- **(z.1)** any prescribed information that is submitted in the prescribed manner.
+
+**Information to accompany subsequent application**
+
+- **(4)** The Minister may consider an application for an exemption for a medical purpose under subsection (2) that would allow certain activities to continue to take place at an existing supervised consumption site only after, in addition to the information referred to in paragraphs (3)(a) to (z.1), the following have been submitted:
+	- **(a)** evidence, if any, of any variation in crime rates in the vicinity of the site during the period beginning on the day on which the first exemption was granted under subsection (2) in relation to the site and ending on the day on which the application is submitted; and
+	- **(b)** evidence, if any, of any impacts of the activities at the site on individual or public health during that period.
+
+**Principles**
+
+- **(5)** The Minister may only grant an exemption for a medical purpose under subsection (2) to allow certain activities to take place at a supervised consumption site in exceptional circumstances and after having considered the following principles:
+	- **(a)** illicit substances may have serious health effects;
+	- **(b)** adulterated controlled substances may pose health risks;
+	- **(c)** the risks of overdose are inherent to the use of certain illicit substances;
+	- **(d)** strict controls are required, given the inherent health risks associated with controlled substances that may alter mental processes;
+	- **(e)** organized crime profits from the use of illicit substances; and
+	- **(f)** criminal activity often results from the use of illicit substances.
+
+**Notice**
+
+- **(6)** The Minister may give notice of any application, in the form and manner determined by the Minister, for an exemption for a medical purpose under subsection (2) to allow certain activities to take place at a supervised consumption site. Members of the public have 90 days after the day on which the notice is given to provide the Minister with comments.
+> 2015, c. 22, s. 5.
+
 
 
 
