@@ -1506,7 +1506,7 @@ In all other respects, the employee is governed by the terms and conditions of e
 
 <sup><a href='#fn_Ind9165_hq_14286'>[*]</a></sup>**241** Subsections 239(2) and 240(2) come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind9165_hq_14286'><sup>*</sup></a>: [Note: Subsections 239(2) and 240(2) not in force.]<br />
+<a name='fn_Ind9165_hq_14286'><sup>*</sup></a>: [Note: Subsections 239(2) and 240(2) in force July 1, 2015, *see* SI/2015-53.]<br />
 
 
 
