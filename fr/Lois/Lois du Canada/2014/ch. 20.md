@@ -1506,7 +1506,7 @@ où :
 
 <sup><a href='#fn_IndA3_hq_14273'>[*]</a></sup>**241** Les paragraphes 239(2) et 240(2) entrent en vigueur à la date fixée par décret.
 
-<a name='fn_IndA3_hq_14273'><sup>*</sup></a>: [Note : Paragraphes 239(2) et 240(2) non en vigueur.]<br />
+<a name='fn_IndA3_hq_14273'><sup>*</sup></a>: [Note : Paragraphes 239(2) et 240(2) en vigueur le 1<sup>er</sup> juillet 2015, *voir* TR/2015-53.]<br />
 
 
 
