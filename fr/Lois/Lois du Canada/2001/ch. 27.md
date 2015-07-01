@@ -1920,7 +1920,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **72** 
 
-- **(1)** Le contrôle judiciaire par la Cour fédérale de toute mesure — décision, ordonnance, question ou affaire — prise dans le cadre de la présente loi est subordonné au dépôt d’une demande d’autorisation.
+- **(1)** Le contrôle judiciaire par la Cour fédérale de toute mesure — décision, ordonnance, question ou affaire — prise dans le cadre de la présente loi est, sous réserve de l’article 86.1, subordonné au dépôt d’une demande d’autorisation.
 
 **Application**
 
@@ -1930,7 +1930,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c)** le délai peut toutefois être prorogé, pour motifs valables, par un juge de la Cour;
 	- **d)** il est statué sur la demande à bref délai et selon la procédure sommaire et, sauf autorisation d’un juge de la Cour, sans comparution en personne;
 	- **e)** le jugement sur la demande et toute décision interlocutoire ne sont pas susceptibles d’appel.
-> 2001, ch. 27, art. 72; 2002, ch. 8, art. 194.
+> 2001, ch. 27, art. 72; 2002, ch. 8, art. 194; 2015, ch. 20, art. 52.
 
 
 
@@ -1949,7 +1949,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** le juge qui accueille la demande d’autorisation fixe les date et lieu d’audition de la demande;
 - **b)** l’audition ne peut être tenue à moins de trente jours — sauf consentement des parties — ni à plus de quatre-vingt-dix jours de la date à laquelle la demande d’autorisation est accueillie;
 - **c)** le juge statue à bref délai et selon la procédure sommaire;
-- **d)** le jugement consécutif au contrôle judiciaire n’est susceptible d’appel en Cour d’appel fédérale que si le juge certifie que l’affaire soulève une question grave de portée générale et énonce celle-ci.
+- **d)** sous réserve de l’article 87.01, le jugement consécutif au contrôle judiciaire n’est susceptible d’appel en Cour d’appel fédérale que si le juge certifie que l’affaire soulève une question grave de portée générale et énonce celle-ci.
+> 2001, ch. 27, art. 74; 2015, ch. 20, art. 53.
+
 
 
 
@@ -2003,12 +2005,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Dépôt de la preuve et du résumé**
 
-- **(2)** Le ministre dépose en même temps que le certificat les renseignements et autres éléments de preuve justifiant ce dernier, ainsi qu’un résumé de la preuve qui permet à la personne visée d’être suffisamment informée de sa thèse et qui ne comporte aucun élément dont la divulgation porterait atteinte, selon le ministre, à la sécurité nationale ou à la sécurité d’autrui.
+- **(2)** Le ministre dépose en même temps que le certificat les renseignements et autres éléments de preuve qui se rapportent à l’interdiction de territoire constatée dans le certificat et justifiant ce dernier, ainsi qu’un résumé de la preuve qui permet à la personne visée d’être suffisamment informée de sa thèse et qui ne comporte aucun élément dont la divulgation porterait atteinte, selon le ministre, à la sécurité nationale ou à la sécurité d’autrui.
 
 **Effet du dépôt**
 
-- **(3)** Il ne peut être procédé à aucune instance visant la personne au titre de la présente loi tant qu’il n’a pas été statué sur le certificat. Ne sont pas visées les instances relatives aux articles 82 à 82.3, 112 et 115.
-> 2001, ch. 27, art. 77; 2002, ch. 8, art. 194; 2005, ch. 10, art. 34; 2008, ch. 3, art. 4; 2015, ch. 3, art. 112(F).
+- **(3)** Il ne peut être procédé à aucune instance visant la personne au titre de la présente loi tant qu’il n’a pas été statué sur le certificat. Ne sont pas visées les instances relatives aux articles 79.1, 82 à 82.31, 112 et 115.
+> 2001, ch. 27, art. 77; 2002, ch. 8, art. 194; 2005, ch. 10, art. 34; 2008, ch. 3, art. 4; 2015, ch. 3, art. 112(F), ch. 20, art. 54.
 
 
 
@@ -2027,6 +2029,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **79** La décision n’est susceptible d’appel devant la Cour d’appel fédérale que si le juge certifie que l’affaire soulève une question grave de portée générale et énonce celle-ci; toutefois, les décisions interlocutoires ne sont pas susceptibles d’appel.
 > 2001, ch. 27, art. 79; 2002, ch. 8, art. 194; 2008, ch. 3, art. 4.
+
+
+
+
+
+**Appel du ministre**
+
+**79.1** 
+
+- **(1)** Malgré l’article 79, le ministre peut, en tout état de cause, interjeter appel de toute décision rendue en cours d’instance et exigeant la divulgation de renseignements ou autres éléments de preuve qui porterait atteinte, selon lui, à la sécurité nationale ou à la sécurité d’autrui, sans que le juge soit tenu de certifier que l’affaire soulève une question grave de portée générale.
+
+**Effet de l’appel**
+
+- **(2)** L’appel suspend l’exécution de la décision ainsi que l’instance visée à l’article 78 jusqu’à ce qu’il soit tranché en dernier ressort.
+> 2015, ch. 20, art. 55.
 
 
 
@@ -2133,6 +2150,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Appel du ministre**
+
+**82.31** 
+
+- **(1)** Malgré l’article 82.3, le ministre peut, en tout état de cause, interjeter appel de toute décision rendue en cours d’instance et exigeant la divulgation de renseignements ou autres éléments de preuve qui porterait atteinte, selon lui, à la sécurité nationale ou à la sécurité d’autrui, sans que le juge soit tenu de certifier que l’affaire soulève une question grave de portée générale.
+
+**Effet de l’appel**
+
+- **(2)** L’appel suspend l’exécution de la décision jusqu’à ce qu’il soit tranché en dernier ressort.
+> 2015, ch. 20, art. 56.
+
+
+
+
+
 **Ordonnance ministérielle de mise en liberté**
 
 **82.4** Le ministre peut, en tout temps, ordonner la mise en liberté de la personne détenue au titre de l’un des articles 82 à 82.2 pour lui permettre de quitter le Canada.
@@ -2154,13 +2186,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** le juge procède, dans la mesure où les circonstances et les considérations d’équité et de justice naturelle le permettent, sans formalisme et selon la procédure expéditive;
 	- **b)** il nomme, parmi les personnes figurant sur la liste dressée au titre du paragraphe 85(1), celle qui agira à titre d’avocat spécial dans le cadre de l’instance, après avoir entendu l’intéressé et le ministre et accordé une attention et une importance particulières aux préférences de l’intéressé;
 	- **c)** il peut d’office tenir une audience à huis clos et en l’absence de l’intéressé et de son conseil — et doit le faire à chaque demande du ministre — si la divulgation des renseignements ou autres éléments de preuve en cause pourrait porter atteinte, selon lui, à la sécurité nationale ou à la sécurité d’autrui;
+	- **c.1)** il peut, sur demande du ministre, exempter le ministre de l’obligation de fournir une copie des renseignements à l’avocat spécial au titre de l’alinéa 85.4(1)b), s’il est convaincu que ces renseignements ne permettent pas à l’intéressé d’être suffisamment informé de la thèse du ministre;
+	- **c.2)** il peut, en vue de décider s’il exempte ou non le ministre au titre de l’alinéa c.1), demander à l’avocat spécial de présenter ses observations et peut communiquer avec lui dans la mesure nécessaire pour lui permettre de présenter ses observations, s’il est d’avis que les considérations d’équité et de justice naturelle le requièrent;
 	- **d)** il lui incombe de garantir la confidentialité des renseignements et autres éléments de preuve que lui fournit le ministre et dont la divulgation porterait atteinte, selon lui, à la sécurité nationale ou à la sécurité d’autrui;
 	- **e)** il veille tout au long de l’instance à ce que soit fourni à l’intéressé un résumé de la preuve qui ne comporte aucun élément dont la divulgation porterait atteinte, selon lui, à la sécurité nationale ou à la sécurité d’autrui et qui permet à l’intéressé d’être suffisamment informé de la thèse du ministre à l’égard de l’instance en cause;
 	- **f)** il lui incombe de garantir la confidentialité des renseignements et autres éléments de preuve que le ministre retire de l’instance;
 	- **g)** il donne à l’intéressé et au ministre la possibilité d’être entendus;
 	- **h)** il peut recevoir et admettre en preuve tout élément — même inadmissible en justice — qu’il estime digne de foi et utile et peut fonder sa décision sur celui-ci;
 	- **i)** il peut fonder sa décision sur des renseignements et autres éléments de preuve même si un résumé de ces derniers n’est pas fourni à l’intéressé;
-	- **j)** il ne peut fonder sa décision sur les renseignements et autres éléments de preuve que lui fournit le ministre et les remet à celui-ci s’il décide qu’ils ne sont pas pertinents ou si le ministre les retire.
+	- **j)** il ne peut fonder sa décision sur les renseignements et autres éléments de preuve que lui fournit le ministre et les remet à celui-ci s’il décide qu’ils ne sont pas pertinents ou si le ministre les retire;
+	- **k)** il ne peut fonder sa décision sur les renseignements que le ministre n’a pas fournis à l’avocat spécial en raison de l’exemption et il lui incombe de garantir la confidentialité de ces renseignements et de les remettre au ministre.
 
 **Précision**
 
@@ -2176,7 +2211,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Précision**
 
 - **(2)** Il est entendu que le pouvoir du juge de nommer une personne qui agira à titre d’avocat spécial dans le cadre d’une instance comprend celui de mettre fin à ses fonctions et de nommer quelqu’un pour la remplacer.
-> 2001, ch. 27, art. 83; 2008, ch. 3, art. 4.
+> 2001, ch. 27, art. 83; 2008, ch. 3, art. 4; 2015, ch. 20, art. 57.
 
 
 
@@ -2184,8 +2219,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Protection des renseignements à l’appel**
 
-**84** L’article 83 — sauf quant à l’obligation de fournir un résumé — et les articles 85.1 à 85.5 s’appliquent, avec les adaptations nécessaires, à l’appel interjeté au titre des articles 79 ou 82.3 et à tout appel subséquent.
-> 2001, ch. 27, art. 84; 2008, ch. 3, art. 4.
+**84** L’article 83 — sauf quant à l’obligation de fournir un résumé — et les articles 85.1 à 85.5 s’appliquent, avec les adaptations nécessaires, à l’appel interjeté au titre des articles 79, 79.1, 82.3 ou 82.31 et à tout appel subséquent.
+> 2001, ch. 27, art. 84; 2008, ch. 3, art. 4; 2015, ch. 20, art. 58.
 
 
 
@@ -2264,7 +2299,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **85.4** 
 
-- **(1)** Il incombe au ministre de fournir à l’avocat spécial, dans le délai fixé par le juge, copie de tous les renseignements et autres éléments de preuve qui ont été fournis au juge, mais qui n’ont été communiqués ni à l’intéressé ni à son conseil.
+- **(1)** Sous réserve de l’alinéa 83(1)c.1), il incombe au ministre de fournir à l’avocat spécial, dans le délai fixé par le juge :
+	- **a)** copie des renseignements et autres éléments de preuve qui se rapportent à sa thèse à l’égard d’une instance visée à l’un des articles 78 et 82 à 82.2, qui justifient le certificat ou le mandat et qui ont été déposés auprès de la Cour fédérale, mais qui n’ont été communiqués ni à l’intéressé ni à son conseil;
+	- **b)** copie des autres renseignements en sa possession qui se rapportent à sa thèse à l’égard d’une instance visée à l’un des articles 78 et 82 à 82.2, mais qui ne justifient pas le certificat ou le mandat et qui n’ont pas été déposés auprès de la Cour fédérale.
 
 **Restrictions aux communications — avocat spécial**
 
@@ -2273,7 +2310,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Restrictions aux communications — autres personnes**
 
 - **(3)** Dans le cas où l’avocat spécial est autorisé à communiquer avec une personne, le juge peut interdire à cette dernière de communiquer avec qui que ce soit d’autre au sujet de l’instance, et ce jusqu’à la fin de celle-ci, ou assujettir à des conditions toute communication de cette personne à ce sujet, jusqu’à la fin de l’instance.
-> 2008, ch. 3, art. 4.
+> 2008, ch. 3, art. 4; 2015, ch. 20, art. 59.
 
 
 
@@ -2322,10 +2359,40 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Interdiction de divulgation — contrôle judiciaire**
+**Contrôle judiciaire**
 
-**87** Le ministre peut, dans le cadre d’un contrôle judiciaire, demander l’interdiction de la divulgation de renseignements et autres éléments de preuve. L’article 83 s’applique à l’instance, avec les adaptations nécessaires, sauf quant à l’obligation de nommer un avocat spécial et de fournir un résumé.
-> 2001, ch. 27, art. 87; 2008, ch. 3, art. 4.
+**86.1** 
+
+- **(1)** Le ministre peut, en tout état de cause, demander le contrôle judiciaire de toute décision rendue au cours d’une instance visée à l’article 86 et exigeant la divulgation de renseignements ou autres éléments de preuve qui porterait atteinte, selon lui, à la sécurité nationale ou à la sécurité d’autrui. Sa demande n’est pas subordonnée au dépôt d’une demande d’autorisation.
+
+**Effet du contrôle judiciaire**
+
+- **(2)** La demande de contrôle judiciaire suspend l’exécution de la décision et, sauf dans le cas du contrôle de la détention, de l’instance en cause, jusqu’à ce qu’il soit statué en dernier ressort sur la question.
+> 2015, ch. 20, art. 60.
+
+
+
+
+
+**Interdiction de divulgation — contrôle judiciaire et appel**
+
+**87** Le ministre peut, dans le cadre d’un contrôle judiciaire, demander l’interdiction de la divulgation de renseignements et autres éléments de preuve. L’article 83 s’applique à l’instance et à tout appel de toute décision rendue au cours de l’instance, avec les adaptations nécessaires, sauf quant à l’obligation de nommer un avocat spécial et de fournir un résumé.
+> 2001, ch. 27, art. 87; 2008, ch. 3, art. 4; 2015, ch. 20, art. 60.
+
+
+
+
+
+**Appel du ministre**
+
+**87.01** 
+
+- **(1)** Le ministre peut, en tout état de cause, interjeter appel en Cour d’appel fédérale de toute décision rendue au cours du contrôle judiciaire et exigeant la divulgation de renseignements ou autres éléments de preuve qui porterait atteinte, selon lui, à la sécurité nationale ou à la sécurité d’autrui, sans que le juge soit tenu de certifier que l’affaire soulève une question grave de portée générale.
+
+**Effet de l’appel**
+
+- **(2)** L’appel suspend l’exécution de la décision, ainsi que le contrôle judiciaire, jusqu’à ce qu’il soit tranché en dernier ressort.
+> 2015, ch. 20, art. 60.
 
 
 
