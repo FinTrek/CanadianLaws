@@ -654,7 +654,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Questions de fait**
 
-- **(3)** Le Conseil peut déterminer, comme question de fait, si l’entreprise canadienne s’est ou non conformée aux dispositions du présent article ou des articles 25, 27.1 ou 29 ou à toute décision prise au titre des articles 24, 25, 29, 34 ou 40.
+- **(3)** Le Conseil peut déterminer, comme question de fait, si l’entreprise canadienne s’est ou non conformée aux dispositions du présent article ou des articles 25 ou 29 ou à toute décision prise au titre des articles 24, 25, 29, 34 ou 40.
 
 **Fardeau de la preuve**
 
@@ -676,48 +676,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ### Itinérance
 
 
-
-**Plafond  — appels vocaux sans fil**
-
-**27.1** 
-
-- **(1)** La somme exigée au cours d’une année par une entreprise canadienne d’une autre entreprise canadienne pour des services d’itinérance relatifs à la transmission des communications vocales sans fil nationales et aux portions nationales des communications vocales sans fil internationales ne peut excéder le plafond correspondant au résultat du calcul suivant :
-```
-A/B
-```
-où :
-- **A** représente les revenus de détail totaux de cette première entreprise canadienne pour l’année précédente pour la fourniture de services de communications vocales sans fil ayant, à la fois, un point d’origine et un point d’arrivée au Canada à ses abonnés canadiens;
-- **B** le nombre de minutes allouées pour ces appels pour l’année précédente.
-
-**Plafond  — données sans fil**
-
-- **(2)** La somme exigée au cours d’une année par une entreprise canadienne d’une autre entreprise canadienne pour des services d’itinérance relatifs à la transmission au Canada de données sans fil ne peut excéder le plafond correspondant au résultat du calcul suivant :
-```
-A/B
-```
-où :
-- **A** représente les revenus de détail totaux de cette première entreprise canadienne pour l’année précédente pour la fourniture de services de transmission de données sans fil au Canada à ses abonnés canadiens;
-- **B** le nombre de mega-octets alloués pour ces services de transmission de données pour l’année précédente.
-
-**Plafond  — messages texte**
-
-- **(3)** La somme exigée au cours d’une année par une entreprise canadienne d’une autre entreprise canadienne pour des services d’itinérance relatifs à la transmission de messages texte sans fil nationaux et aux portions nationales des messages texte sans fil internationaux ne peut excéder le plafond correspondant au résultat du calcul suivant :
-```
-A/B
-```
-où :
-- **A** représente les revenus de détail totaux de cette première entreprise canadienne pour l’année précédente pour la fourniture de services de messages texte sans fil ayant, à la fois, un point d’origine et un point d’arrivée au Canada à ses abonnés canadiens;
-- **B** le nombre de ces messages texte pour l’année précédente.
-
-**Autres droits**
-
-- **(4)** L’entreprise canadienne ne peut exiger de l’autre entreprise canadienne le versement de quelque autre somme en lien avec les services d’itinérance visés aux paragraphes (1) à (3).
-
-**Incompatibilité**
-
-- **(5)** En cas d’incompatibilité entre la somme, établie par le Conseil, que peut exiger une entreprise canadienne d’une autre entreprise canadienne pour des services d’itinérance et toute somme déterminée au titre de l’un ou l’autre des paragraphes (1) à (3), la somme établie par le Conseil l’emporte.
-> 2014, ch. 20, art. 240.
-
+**27.1** [Abrogé, 2014, ch. 20, art. 240]
 
 
 
