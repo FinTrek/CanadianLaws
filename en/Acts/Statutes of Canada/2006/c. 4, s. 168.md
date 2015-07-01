@@ -40,14 +40,14 @@ Assented to on 22 June 2006
 
 **2** The following definitions apply in this Act.
 
-***eligible individual*** means a person who is an eligible individual for the purpose of Subdivision a.1 of Division E of Part I of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
+***eligible individual*** means a person who is an eligible individual for the purpose of Subdivision a.1 of Division E of Part I of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md). (*particulier admissible*)
 
-***Minister*** means the Minister of Employment and Social Development.
+***Minister*** means the Minister of Employment and Social Development. (*ministre*)
 
-***qualified dependant*** means a person who has not attained the age of six years and who is a qualified dependant for the purpose of Subdivision a.1 of Division E of Part I of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
+***qualified dependant*** means a person who is a qualified dependant for the purpose of Subdivision a.1 of Division E of Part I of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md). (*personne à charge admissible*)
 
-***shared-custody parent*** has the meaning assigned by section 122.6 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
-> 2006, c. 4, s. 168 "2"; 2010, c. 25, s. 74; 2013, c. 40, s. 238.
+***shared-custody parent*** has the meaning assigned by section 122.6 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md). (*parent ayant la garde partagée*)
+> 2006, c. 4, s. 168 “2”; 2010, c. 25, s. 74; 2013, c. 40, s. 238; 2015, c. 36, s. 35.
 
 
 
@@ -59,7 +59,11 @@ Assented to on 22 June 2006
 
 **Purpose**
 
-**3** The purpose of this Act is to assist families by supporting their child care choices through direct financial support to a maximum of $1,200 per year in respect of each of their children who has not attained the age of six years.
+**3** The purpose of this Act is to assist families by supporting their child care choices through direct financial support to a maximum of
+- **(a)** $1,920 per year in respect of each of their children who is under six years of age; and
+- **(b)** $720 per year in respect of each of their children who is six years of age or older but who is under 18 years of age.
+> 2006, c. 4, s. 168 “3”; 2015, c. 36, s. 36.
+
 
 
 
@@ -68,18 +72,30 @@ Assented to on 22 June 2006
 
 
 
-**Amount of payment**
+**Amount of payment — child under six years**
 
 **4** 
 
-- **(1)** The Minister shall pay to an eligible individual, for each month at the beginning of which he or she is an eligible individual, for each child who is a qualified dependant of the eligible individual at the beginning of that month,
+- **(1)** In respect of every month before January 1, 2015, the Minister shall pay to an eligible individual, for each month at the beginning of which he or she is an eligible individual, for each child who, at the beginning of that month, is under six years of age and is a qualified dependant of the eligible individual,
 	- **(a)** a benefit of $50, if the eligible individual is a shared-custody parent of the qualified dependant; and
 	- **(b)** a benefit of $100 in any other case.
+
+**Child under six years — January 1, 2015**
+
+- **(1.1)** In respect of every month as of January 1, 2015, the Minister shall pay to an eligible individual, for each month at the beginning of which he or she is an eligible individual, for each child who, at the beginning of that month, is under six years of age and is a qualified dependant of the eligible individual,
+	- **(a)** a benefit of $80, if the eligible individual is a shared-custody parent of the qualified dependant; and
+	- **(b)** a benefit of $160 in any other case.
+
+**Other children — January 1, 2015**
+
+- **(1.2)** In respect of every month as of January 1, 2015, the Minister shall pay to an eligible individual, for each month at the beginning of which he or she is an eligible individual, for each child who, at the beginning of that month, is six years of age or older and is a qualified dependant of the eligible individual,
+	- **(a)** a benefit of $30, if the eligible individual is a shared-custody parent of the qualified dependant; and
+	- **(b)** a benefit of $60 in any other case.
 
 **Limitation**
 
 - **(2)** The benefit may not be paid in respect of any month before July, 2006.
-> 2006, c. 4, s. 168 "4"; 2010, c. 25, s. 75.
+> 2006, c. 4, s. 168 "4"; 2010, c. 25, s. 75; 2015, c. 36, s. 37.
 
 
 
