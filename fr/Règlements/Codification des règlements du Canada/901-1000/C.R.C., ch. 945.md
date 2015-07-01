@@ -606,6 +606,7 @@ cet autre employeur est réputé être une société associée à l’employeur 
 - **(2)** Une personne qui effectue un paiement à titre ou au titre, ou qui accorde un avantage ou attribue un montant sous la forme
 	- **a)** d’une bourse d’études, d’une bourse de perfectionnement (*fellowship*) ou d’une récompense couronnant une oeuvre remarquable réalisée dans le domaine d’activité habituel du bénéficiaire — à l’exclusion d’une récompense visée à l’article 7700 —,
 	- **b)** d’une subvention permettant au bénéficiaire de poursuivre des recherches ou des travaux similaires,
+	- **b.1)** d’un montant qui doit être inclus dans le calcul du revenu d’un contribuable en vertu de l’alinéa 56(1)n.1) de la Loi,
 	- **c)** d’un montant qui doit être inclus dans le calcul du revenu d’un contribuable en vertu de l’alinéa 56(1)r) de la Loi,
 	- **d)** d’un avantage accordé selon les règlements établis en vertu d’une loi portant affectation de crédits prévoyant l’établissement d’un régime d’assistance transitoire pour les personnes employées à la production d’articles auxquels s’applique l’Accord canado-américain sur les produits de l’automobile, signé le 16 janvier 1965,
 	- **e)** d’une prestation visée à l’article 5502,
@@ -625,7 +626,9 @@ doit remplir à l’égard de ce paiement ou de cet avantage une déclaration de
 - **(4)** Lorsque, dans le calcul du revenu d’un actionnaire d’une société, un avantage est inclus conformément au paragraphe 15(5) de la Loi à l’égard d’une automobile mise à la disposition de l’actionnaire ou d’une personne qui lui est liée, par une personne liée à la société, la société doit remplir à l’égard de cet avantage une déclaration de renseignements selon le formulaire prescrit.
 
 - **(5)** Lorsqu’une personne admissible donnée (au sens du paragraphe 7(7) de la Loi) est convenue d’émettre ou de vendre l’un de ses titres (au sens du même paragraphe), ou un titre d’une personne admissible avec laquelle elle a un lien de dépendance, à un contribuable qui est l’un de ses employés ou un employé d’une personne admissible avec laquelle elle a un lien de dépendance et que le contribuable a acquis le titre aux termes de la convention dans les circonstances visées au paragraphe 7(8) de la Loi, la personne admissible donnée, la personne admissible dont le titre est acquis et la personne admissible qui est l’employeur du contribuable sont chacune tenues de remplir, pour l’année d’imposition donnée au cours de laquelle le titre est acquis, une déclaration de renseignements sur le formulaire prescrit concernant l’avantage tiré d’un emploi que le contribuable serait réputé avoir reçu au cours de l’année donnée relativement à l’acquisition du titre s’il n’était pas tenu compte du paragraphe 7(8) de la Loi. À cette fin, la déclaration de renseignements remplie par l’une des personnes admissibles relativement à l’acquisition du titre par le contribuable est réputée avoir été remplie par l’ensemble de ces personnes.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-909, art. 1; DORS/79-939, art. 1; DORS/81-936, art. 1; DORS/83-866, art. 1; DORS/83-867, art. 1; DORS/88-165, art. 31(F); DORS/89-473, art. 1; DORS/94-686, art. 79(F); DORS/95-298, art. 2; DORS/99-17, art. 6; DORS/99-22, art. 3; DORS/2003-5, art. 1; DORS/2003-328, art. 1; DORS/2011-188, art. 1(F).
+
+- **(6)** La personne qui effectue un paiement à titre ou au titre d’un montant qui doit être inclus dans le calcul du revenu d’un contribuable en vertu du paragraphe 56(6) de la Loi doit remplir à l’égard de tout paiement une déclaration de renseignements selon le formulaire prescrit.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-909, art. 1; DORS/79-939, art. 1; DORS/81-936, art. 1; DORS/83-866, art. 1; DORS/83-867, art. 1; DORS/88-165, art. 31(F); DORS/89-473, art. 1; DORS/94-686, art. 79(F); DORS/95-298, art. 2; DORS/99-17, art. 6; DORS/99-22, art. 3; DORS/2003-5, art. 1; DORS/2003-328, art. 1; DORS/2011-188, art. 1(F); DORS/2015-170, art. 1.
 
 
 
@@ -823,7 +826,15 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 <td></td>
 </tr>
 <tr>
+<td>Déclaration de renseignements pour l’échange international de renseignements sur les comptes financiers (partie XVIII de la Loi)</td>
+<td></td>
+</tr>
+<tr>
 <td>Déclaration de renseignements pour les cotisations au régime enregistré d’épargne-retraite (REER)</td>
+<td></td>
+</tr>
+<tr>
+<td>Déclaration de télévirements internationaux</td>
 <td></td>
 </tr>
 <tr>
@@ -912,7 +923,7 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 </tr>
 </table>
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2013-199, art. 1.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2013-199, art. 1; DORS/2015-170, art. 2.
 
 
 
@@ -11105,8 +11116,11 @@ sur
 - **c)** la distribution effectuée par Electrolux AB, le 12 juin 2006, d’actions de Husqvarna AB;
 - **d)** la distribution effectuée par Fiat S.p.A. à ses actionnaires ordinaires, le 1<sup>er</sup> janvier 2011, d’actions ordinaires de Fiat Industrial S.p.A.;
 - **e)** la distribution effectuée par Foster’s Group Limited à ses actionnaires ordinaires, le 9 mai 2011, d’actions ordinaires de Treasury Wine Estates Limited;
-- **f)** la distribution effectuée par Telecom Corporation of New Zealand Limited à ses actionnaires ordinaires, le 30 novembre 2011, d’actions ordinaires de Chorus Limited.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 48; DORS/2004-82, art. 2; DORS/2011-188, art. 22; 2013, ch. 40, art. 111.
+- **f)** la distribution effectuée par Telecom Corporation of New Zealand Limited à ses actionnaires ordinaires, le 30 novembre 2011, d’actions ordinaires de Chorus Limited;
+- **g)** la distribution effectuée par Tyco International Ltd. of Switzerland à ses actionnaires ordinaires, le 28 septembre 2012, d’actions ordinaires de Pentair Ltd. of Switzerland;
+- **h)** la distribution effectuée par Siemens AG à ses actionnaires ordinaires, le 5 juillet 2013, d’actions ordinaires de OSRAM Licht AG;
+- **i)** la distribution effectuée par Brambles Limited à ses actionnaires ordinaires, le 18 décembre 2013, d’actions ordinaires de Recall Holdings Limited.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 48; DORS/2004-82, art. 2; DORS/2011-188, art. 22; 2013, ch. 40, art. 111; DORS/2015-170, art. 3.
 
 
 
@@ -51294,7 +51308,6 @@ par
 - Arizona State University, Tempe, Arizona
 - Asbury Theological Seminary, Wilmore, Kentucky
 - Atlantic Union College, South Lancaster, Massachussetts
-- Augsburg College, Minneapolis, Minnesota
 - Aurora University, Aurora, Illinois
 - Azusa Pacific College, Azusa, Californie
 - Babson College, Babson Park, Massachusetts
@@ -51305,18 +51318,12 @@ par
 - Bates College, Lewiston, Maine
 - Baylor College of Medicine, Houston, Texas
 - Baylor University, Waco, Texas
-- Beloit College, Beloit, Wisconsin
 - Bemidji State University, Bemidji, Minnesota
-- Bennington College, Bennington, Vermont
 - Bentley College, Waltham, Massachusetts
 - Berklee College of Music, Boston, Massachusetts
 - Beth Medrash Govoha, Lakewood, New Jersey
-- Bethel College, Mishawaka, Indiana
-- Bethel College, North Newton, Kansas
-- Bethel College and Seminary, Saint Paul, Minnesota
 - Biola University, La Mirada, Californie
 - Bob Jones University, Greenville, Caroline du Sud
-- Boston College, Chestnut Hill, Massachusetts
 - Boston University, Boston, Massachusetts
 - Bowdoin College, Brunswick, Maine
 - Bowling Green State University, Bowling Green, Ohio
