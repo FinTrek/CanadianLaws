@@ -84,8 +84,18 @@ Sanctionnée sur le 1 janvier 1993
 
 **Versement mensuel — supplément**
 
-**3.1** Est ajouté à l’allocation spéciale mensuelle versée en vertu de l’article 3 pour un enfant âgé de moins de six ans un supplément de 100 $, prélevé sur le Trésor.
-> 2006, ch. 4, art. 170.
+**3.1** 
+
+- **(1)** Est ajouté à l’allocation spéciale mensuelle versée en vertu de l’article 3 pour un enfant qui, au début du mois donné, est âgé :
+	- **a)** de moins de six ans :
+		- **(i)** un supplément de 100 $, pour chaque mois antérieur au 1<sup>er</sup> janvier 2015,
+		- **(ii)** un supplément de 160 $, pour chaque mois à compter du 1<sup>er</sup> janvier 2015;
+	- **b)** de six ans ou plus, un supplément de 60 $, pour chaque mois à compter du 1<sup>er</sup> janvier 2015.
+
+**Prélèvement sur le Trésor**
+
+- **(2)** Le supplément est prélevé sur le Trésor.
+> 2006, ch. 4, art. 170; 2015, ch. 36, art. 38.
 
 
 
@@ -95,7 +105,7 @@ Sanctionnée sur le 1 janvier 1993
 
 **4** 
 
-- **(1)** Le versement mensuel de l’allocation spéciale est subordonné aux conditions suivantes :
+- **(1)** Le versement mensuel de l’allocation spéciale est subordonné aux conditions suivantes :
 	- **a)** le ministère, l’organisme ou l’établissement visé au paragraphe 3(1) qui a la charge de l’enfant a présenté la demande réglementaire prévue à cet effet;
 	- **b)** le service de l’allocation spéciale a été approuvé en application de la présente loi.
 
@@ -109,12 +119,12 @@ Sanctionnée sur le 1 janvier 1993
 
 **Dernier versement**
 
-- **(4)** Le service de l’allocation spéciale prend fin avec le versement correspondant au mois au cours duquel l’enfant qui y ouvre droit, selon le cas :
+- **(4)** Le service de l’allocation spéciale prend fin avec le versement correspondant au mois au cours duquel l’enfant qui y ouvre droit, selon le cas :
 	- **a)** cesse d’être à la charge du ministère, de l’organisme ou de l’établissement;
 	- **b)** cesse de résider au Canada;
 	- **c)** meurt;
-	- **d)** atteint l’âge de dix-huit ans ou, dans le cas du supplément versé en vertu de l’article 3.1, l’âge de six ans.
-> 1992, ch. 48, art. 23 (ann., art. 4); 2006, ch. 4, art. 171.
+	- **d)** atteint l’âge de dix-huit ans.
+> 1992, ch. 48, art. 23 (ann., art. 4); 2006, ch. 4, art. 171; 2015, ch. 36, art. 39.
 
 
 
