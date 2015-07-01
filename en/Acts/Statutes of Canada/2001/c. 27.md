@@ -1938,7 +1938,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **72** 
 
-- **(1)** Judicial review by the Federal Court with respect to any matter — a decision, determination or order made, a measure taken or a question raised — under this Act is commenced by making an application for leave to the Court.
+- **(1)** Judicial review by the Federal Court with respect to any matter — a decision, determination or order made, a measure taken or a question raised — under this Act is, subject to section 86.1, commenced by making an application for leave to the Court.
 
 **Application**
 
@@ -1948,7 +1948,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(c)** a judge of the Court may, for special reasons, allow an extended time for filing and serving the application or notice;
 	- **(d)** a judge of the Court shall dispose of the application without delay and in a summary way and, unless a judge of the Court directs otherwise, without personal appearance; and
 	- **(e)** no appeal lies from the decision of the Court with respect to the application or with respect to an interlocutory judgment.
-> 2001, c. 27, s. 72; 2002, c. 8, s. 194.
+> 2001, c. 27, s. 72; 2002, c. 8, s. 194; 2015, c. 20, s. 52.
 
 
 
@@ -1967,7 +1967,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(a)** the judge who grants leave shall fix the day and place for the hearing of the application;
 - **(b)** the hearing shall be no sooner than 30 days and no later than 90 days after leave was granted, unless the parties agree to an earlier day;
 - **(c)** the judge shall dispose of the application without delay and in a summary way; and
-- **(d)** an appeal to the Federal Court of Appeal may be made only if, in rendering judgment, the judge certifies that a serious question of general importance is involved and states the question.
+- **(d)** subject to section 87.01, an appeal to the Federal Court of Appeal may be made only if, in rendering judgment, the judge certifies that a serious question of general importance is involved and states the question.
+> 2001, c. 27, s. 74; 2015, c. 20, s. 53.
+
 
 
 
@@ -2021,12 +2023,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Filing of evidence and summary**
 
-- **(2)** When the certificate is referred, the Minister shall file with the Court the information and other evidence on which the certificate is based, and a summary of information and other evidence that enables the person who is named in the certificate to be reasonably informed of the case made by the Minister but that does not include anything that, in the Minister’s opinion, would be injurious to national security or endanger the safety of any person if disclosed.
+- **(2)** When the certificate is referred, the Minister shall file with the Court the information and other evidence that is relevant to the ground of inadmissibility stated in the certificate and on which the certificate is based, as well as a summary of information and other evidence that enables the person named in the certificate to be reasonably informed of the case made by the Minister but that does not include anything that, in the Minister’s opinion, would be injurious to national security or endanger the safety of any person if disclosed.
 
 **Effect of referral**
 
-- **(3)** Once the certificate is referred, no proceeding under this Act respecting the person who is named in the certificate — other than proceedings relating to sections 82 to 82.3, 112 and 115 — may be commenced or continued until the judge determines whether the certificate is reasonable.
-> 2001, c. 27, s. 77; 2002, c. 8, s. 194; 2005, c. 10, s. 34; 2008, c. 3, s. 4; 2015, c. 3, s. 112(F).
+- **(3)** Once the certificate is referred, no proceeding under this Act respecting the person who is named in the certificate — other than proceedings relating to sections 79.1, 82 to 82.31, 112 and 115 — may be commenced or continued until the judge determines whether the certificate is reasonable.
+> 2001, c. 27, s. 77; 2002, c. 8, s. 194; 2005, c. 10, s. 34; 2008, c. 3, s. 4; 2015, c. 3, s. 112(F), c. 20, s. 54.
 
 
 
@@ -2045,6 +2047,21 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **79** An appeal from the determination may be made to the Federal Court of Appeal only if the judge certifies that a serious question of general importance is involved and states the question. However, no appeal may be made from an interlocutory decision in the proceeding.
 > 2001, c. 27, s. 79; 2002, c. 8, s. 194; 2008, c. 3, s. 4.
+
+
+
+
+
+**Appeal by Minister**
+
+**79.1** 
+
+- **(1)** Despite section 79, the Minister may, without it being necessary for the judge to certify that a serious question of general importance is involved, appeal, at any stage of the proceeding, any decision made in the proceeding requiring the disclosure of information or other evidence if, in the Minister’s opinion, the disclosure would be injurious to national security or endanger the safety of any person.
+
+**Effects of appeal**
+
+- **(2)** The appeal suspends the execution of the decision, as well as the proceeding under section 78, until the appeal has been finally determined.
+> 2015, c. 20, s. 55.
 
 
 
@@ -2151,6 +2168,21 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+**Appeal by Minister**
+
+**82.31** 
+
+- **(1)** Despite section 82.3, the Minister may, without it being necessary for the judge to certify that a serious question of general importance is involved, appeal, at any stage of the proceeding, any decision made in the proceeding requiring the disclosure of information or other evidence if, in the Minister’s opinion, the disclosure would be injurious to national security or endanger the safety of any person.
+
+**Effects of appeal**
+
+- **(2)** The appeal suspends the execution of the decision until the appeal has been finally determined.
+> 2015, c. 20, s. 56.
+
+
+
+
+
 **Minister’s order to release**
 
 **82.4** The Minister may, at any time, order that a person who is detained under any of sections 82 to 82.2 be released from detention to permit their departure from Canada.
@@ -2172,13 +2204,16 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** the judge shall proceed as informally and expeditiously as the circumstances and considerations of fairness and natural justice permit;
 	- **(b)** the judge shall appoint a person from the list referred to in subsection 85(1) to act as a special advocate in the proceeding after hearing representations from the permanent resident or foreign national and the Minister and after giving particular consideration and weight to the preferences of the permanent resident or foreign national;
 	- **(c)** at any time during a proceeding, the judge may, on the judge’s own motion — and shall, on each request of the Minister — hear information or other evidence in the absence of the public and of the permanent resident or foreign national and their counsel if, in the judge’s opinion, its disclosure could be injurious to national security or endanger the safety of any person;
+	- **(c.1)** on the request of the Minister, the judge may exempt the Minister from the obligation to provide the special advocate with a copy of information under paragraph 85.4(1)(b) if the judge is satisfied that the information does not enable the permanent resident or foreign national to be reasonably informed of the case made by the Minister;
+	- **(c.2)** for the purpose of deciding whether to grant an exemption under paragraph (c.1), the judge may ask the special advocate to make submissions and may communicate with the special advocate to the extent required to enable the special advocate to make the submissions, if the judge is of the opinion that considerations of fairness and natural justice require it;
 	- **(d)** the judge shall ensure the confidentiality of information and other evidence provided by the Minister if, in the judge’s opinion, its disclosure would be injurious to national security or endanger the safety of any person;
 	- **(e)** throughout the proceeding, the judge shall ensure that the permanent resident or foreign national is provided with a summary of information and other evidence that enables them to be reasonably informed of the case made by the Minister in the proceeding but that does not include anything that, in the judge’s opinion, would be injurious to national security or endanger the safety of any person if disclosed;
 	- **(f)** the judge shall ensure the confidentiality of all information or other evidence that is withdrawn by the Minister;
 	- **(g)** the judge shall provide the permanent resident or foreign national and the Minister with an opportunity to be heard;
 	- **(h)** the judge may receive into evidence anything that, in the judge’s opinion, is reliable and appropriate, even if it is inadmissible in a court of law, and may base a decision on that evidence;
-	- **(i)** the judge may base a decision on information or other evidence even if a summary of that information or other evidence is not provided to the permanent resident or foreign national; and
-	- **(j)** the judge shall not base a decision on information or other evidence provided by the Minister, and shall return it to the Minister, if the judge determines that it is not relevant or if the Minister withdraws it.
+	- **(i)** the judge may base a decision on information or other evidence even if a summary of that information or other evidence is not provided to the permanent resident or foreign national;
+	- **(j)** the judge shall not base a decision on information or other evidence provided by the Minister, and shall return it to the Minister, if the judge determines that it is not relevant or if the Minister withdraws it; and
+	- **(k)** the judge shall not base a decision on information that the Minister is exempted from providing to the special advocate, shall ensure the confidentiality of that information and shall return it to the Minister.
 
 **Clarification**
 
@@ -2194,7 +2229,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **For greater certainty**
 
 - **(2)** For greater certainty, the judge’s power to appoint a person to act as a special advocate in a proceeding includes the power to terminate the appointment and to appoint another person.
-> 2001, c. 27, s. 83; 2008, c. 3, s. 4.
+> 2001, c. 27, s. 83; 2008, c. 3, s. 4; 2015, c. 20, s. 57.
 
 
 
@@ -2202,8 +2237,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Protection of information on appeal**
 
-**84** Section 83 — other than the obligation to provide a summary — and sections 85.1 to 85.5 apply to an appeal under section 79 or 82.3, and to any further appeal, with any necessary modifications.
-> 2001, c. 27, s. 84; 2008, c. 3, s. 4.
+**84** Section 83 — other than the obligation to provide a summary — and sections 85.1 to 85.5 apply in respect of an appeal under section 79, 79.1, 82.3 or 82.31 and in respect of any further appeal, with any necessary modifications.
+> 2001, c. 27, s. 84; 2008, c. 3, s. 4; 2015, c. 20, s. 58.
 
 
 
@@ -2282,7 +2317,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **85.4** 
 
-- **(1)** The Minister shall, within a period set by the judge, provide the special advocate with a copy of all information and other evidence that is provided to the judge but that is not disclosed to the permanent resident or foreign national and their counsel.
+- **(1)** Subject to paragraph 83(1)(c.1), the Minister shall, within a period set by the judge,
+	- **(a)** provide the special advocate with a copy of the information and other evidence that is relevant to the case made by the Minister in a proceeding under any of sections 78 and 82 to 82.2, on which the certificate or warrant is based and that has been filed with the Federal Court, but that is not disclosed to the permanent resident or foreign national and their counsel; and
+	- **(b)** provide the special advocate with a copy of any other information that is in the Minister’s possession and that is relevant to the case made by the Minister in a proceeding under any of sections 78 and 82 to 82.2, but on which the certificate or warrant is not based and that has not been filed with the Federal Court.
 
 **Restrictions on communications — special advocate**
 
@@ -2291,7 +2328,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Restrictions on communications — other persons**
 
 - **(3)** If the special advocate is authorized to communicate with a person, the judge may prohibit that person from communicating with anyone else about the proceeding during the remainder of the proceeding or may impose conditions with respect to such a communication during that period.
-> 2008, c. 3, s. 4.
+> 2008, c. 3, s. 4; 2015, c. 20, s. 59.
 
 
 
@@ -2340,10 +2377,40 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**Application for non-disclosure — judicial review**
+**Judicial review**
 
-**87** The Minister may, during a judicial review, apply for the non-disclosure of information or other evidence. Section 83 — other than the obligations to appoint a special advocate and to provide a summary — applies to the proceeding with any necessary modifications.
-> 2001, c. 27, s. 87; 2008, c. 3, s. 4.
+**86.1** 
+
+- **(1)** The Minister may, at any stage of the proceeding, apply for judicial review of any decision made in a proceeding referred to in section 86 requiring the disclosure of information or other evidence if, in the Minister’s opinion, the disclosure would be injurious to national security or endanger the safety of any person. The application may be made without an application for leave.
+
+**Effects of judicial review**
+
+- **(2)** The making of the application suspends the execution of the decision and, except in the case of a detention review, the proceeding referred to in section 86, until the application has been finally determined.
+> 2015, c. 20, s. 60.
+
+
+
+
+
+**Application for non-disclosure — judicial review and appeal**
+
+**87** The Minister may, during a judicial review, apply for the non-disclosure of information or other evidence. Section 83 — other than the obligations to appoint a special advocate and to provide a summary — applies in respect of the proceeding and in respect of any appeal of a decision made in the proceeding, with any necessary modifications.
+> 2001, c. 27, s. 87; 2008, c. 3, s. 4; 2015, c. 20, s. 60.
+
+
+
+
+
+**Appeal by Minister**
+
+**87.01** 
+
+- **(1)** The Minister may, without it being necessary for the judge to certify that a serious question of general importance is involved, appeal, at any stage of the proceeding, to the Federal Court of Appeal any decision made in a judicial review requiring the disclosure of information or other evidence if, in the Minister’s opinion, the disclosure would be injurious to national security or endanger the safety of any person.
+
+**Effects of appeal**
+
+- **(2)** The appeal suspends the execution of the decision, as well as the judicial review, until the appeal has been finally determined.
+> 2015, c. 20, s. 60.
 
 
 
