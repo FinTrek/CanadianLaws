@@ -40,14 +40,14 @@ Sanctionnée sur le 22 juin 2006
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***ministre*** Le ministre de l’Emploi et du Développement social.
+***ministre*** Le ministre de l’Emploi et du Développement social. (*Minister*)
 
-***parent ayant la garde partagée*** S’entend au sens de l’article 122.6 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
+***parent ayant la garde partagée*** S’entend au sens de l’article 122.6 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md). (*shared-custody parent*)
 
-***particulier admissible*** Particulier admissible pour l’application de la sous-section a.1 de la section E de la partie I de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
+***particulier admissible*** Particulier admissible pour l’application de la sous-section a.1 de la section E de la partie I de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md). (*eligible individual*)
 
-***personne à charge admissible*** Personne à charge admissible pour l’application de la sous-section a.1 de la section E de la partie I de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) et qui est âgée de moins de six ans.
-> 2006, ch. 4, art. 168 « 2 »; 2010, ch. 25, art. 74; 2013, ch. 40, art. 238.
+***personne à charge admissible*** Personne à charge admissible pour l’application de la sous-section a.1 de la section E de la partie I de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md). (*qualified dependant*)
+> 2006, ch. 4, art. 168 « 2 »; 2010, ch. 25, art. 74; 2013, ch. 40, art. 238; 2015, ch. 36, art. 35.
 
 
 
@@ -59,7 +59,11 @@ Sanctionnée sur le 22 juin 2006
 
 **Objet**
 
-**3** La présente loi a pour objet d’apporter un appui financier direct aux familles, jusqu’à concurrence d’une somme annuelle de 1 200 $ par enfant, pour les aider à faire des choix en matière de garde à l’égard de leurs enfants de moins de six ans.
+**3** La présente loi a pour objet d’apporter un appui financier direct aux familles, pour les aider à faire des choix en matière de garde à l’égard de leurs enfants, jusqu’à concurrence d’une somme annuelle :
+- **a)** de 1 920 $ par enfant de moins de six ans;
+- **b)** de 720 $ par enfant de six ans ou plus mais de moins de dix-huit ans.
+> 2006, ch. 4, art. 168 « 3 »; 2015, ch. 36, art. 36.
+
 
 
 
@@ -68,18 +72,30 @@ Sanctionnée sur le 22 juin 2006
 
 
 
-**Versement de la prestation**
+**Versement de la prestation — enfant de moins de six ans**
 
 **4** 
 
-- **(1)** Le ministre verse au particulier admissible, pour chaque mois au début duquel il a cette qualité, à l’égard de tout enfant qui est une personne à charge admissible de celui-ci au début du mois :
+- **(1)** Le ministre verse au particulier admissible, pour chaque mois — antérieur au 1<sup>er</sup> janvier 2015 — au début duquel il a cette qualité, à l’égard de tout enfant qui, au début du mois, est une personne à charge admissible de celui-ci âgée de moins de six ans :
 	- **a)** une prestation de 50 $, si le particulier admissible est un parent ayant la garde partagée à l’égard de la personne à charge;
 	- **b)** une prestation de 100 $, dans les autres cas.
+
+**Enfant de moins de six ans — 1<sup>er</sup> janvier 2015**
+
+- **(1.1)** Le ministre verse au particulier admissible, pour chaque mois — à compter du 1<sup>er</sup> janvier 2015 — au début duquel il a cette qualité, à l’égard de tout enfant qui, au début du mois, est une personne à charge admissible de celui-ci âgée de moins de six ans :
+	- **a)** une prestation de 80 $, si le particulier admissible est un parent ayant la garde partagée à l’égard de la personne à charge;
+	- **b)** une prestation de 160 $, dans les autres cas.
+
+**Autres enfants — 1<sup>er</sup> janvier 2015**
+
+- **(1.2)** Le ministre verse au particulier admissible, pour chaque mois — à compter du 1<sup>er</sup> janvier 2015 — au début duquel il a cette qualité, à l’égard de tout enfant qui, au début du mois, est une personne à charge admissible de celui-ci âgée de six ans ou plus :
+	- **a)** une prestation de 30 $, si le particulier admissible est un parent ayant la garde partagée à l’égard de la personne à charge;
+	- **b)** une prestation de 60 $, dans les autres cas.
 
 **Restriction**
 
 - **(2)** La prestation ne peut être versée à l’égard d’un mois antérieur à juillet 2006.
-> 2006, ch. 4, art. 168 « 4 »; 2010, ch. 25, art. 75.
+> 2006, ch. 4, art. 168 « 4 »; 2010, ch. 25, art. 75; 2015, ch. 36, art. 37.
 
 
 
