@@ -244,8 +244,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Refusal to establish review panel**
 
-- **(2)** The Chairperson, or any member to whom the Chairperson has delegated the authority, may refuse to establish a review panel to hear an application for review of a decision concerning the amount of an award under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md), or the amount of a disability award, a death benefit, a clothing allowance or a detention benefit under Part 3 of the Canadian Forces Members and Veterans Re-establishment and Compensation Act, if the Chairperson or member, as the case may be, considers the application to be such that no reasonable review panel could dispose of it in a manner favourable to the applicant.
-> 1995, c. 18, s. 19; 1999, c. 10, s. 38; 2000, c. 34, s. 66(F); 2005, c. 21, s. 111.
+- **(2)** The Chairperson, or any member to whom the Chairperson has delegated the authority, may refuse to establish a review panel to hear an application for review of a decision concerning the amount of an award under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md), or the amount of a critical injury benefit, a disability award, a death benefit, a clothing allowance or a detention benefit under Part 3 of the Canadian Forces Members and Veterans Re-establishment and Compensation Act, if the Chairperson or member, as the case may be, considers the application to be such that no reasonable review panel could dispose of it in a manner favourable to the applicant.
+> 1995, c. 18, s. 19; 1999, c. 10, s. 38; 2000, c. 34, s. 66(F); 2005, c. 21, s. 111; 2015, c. 36, s. 226.
 
 
 
@@ -427,7 +427,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **34** 
 
-- **(1)** A person who has been refused an award under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md), or a disability award, a death benefit, a clothing allowance or a detention benefit under Part 3 of the Canadian Forces Members and Veterans Re-establishment and Compensation Act, and who has exhausted all procedures for review and appeal under this Act may apply to the Board for a compassionate award.
+- **(1)** A person who has been refused an award under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md) or a critical injury benefit, a disability award, a death benefit, a clothing allowance or a detention benefit under Part 3 of the Canadian Forces Members and Veterans Re-establishment and Compensation Act, and who has exhausted all procedures for review and appeal under this Act may apply to the Board for a compassionate award.
 
 **Panel**
 
@@ -435,7 +435,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Granting of compassionate award**
 
-- **(3)** A panel may grant a compassionate award if it considers the case to be specially meritorious and the applicant is unqualified to receive an award under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md), or a disability award, a death benefit, a clothing allowance or a detention benefit under Part 3 of the Canadian Forces Members and Veterans Re-establishment and Compensation Act.
+- **(3)** A panel may grant a compassionate award if it considers the case to be specially meritorious and the applicant is unqualified to receive an award under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md) or a critical injury benefit, a disability award, a death benefit, a clothing allowance or a detention benefit under Part 3 of the Canadian Forces Members and Veterans Re-establishment and Compensation Act.
 
 **Amount**
 
@@ -464,7 +464,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Definition of compassionate award**
 
 - **(8)** In this section, ***compassionate award*** means a compassionate pension, allowance or supplementary award.
-> 1995, c. 18, s. 34; 2000, c. 34, s. 67; 2005, c. 21, s. 113; 2015, c. 3, s. 159(F).
+> 1995, c. 18, s. 34; 2000, c. 34, s. 67; 2005, c. 21, s. 113; 2015, c. 3, s. 159(F), c. 36, s. 227.
 
 
 
