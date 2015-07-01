@@ -2988,37 +2988,37 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 ***administrator***[Repealed, SOR/2014-23, s. 3]
 
-***animal*** means a bison, bovine, ovine or pig. (*animal*)
+***animal*** means a bison, bovine, ovine or pig. (*animal*)
 
-***approved slap tattoo*** means a slap tattoo bearing an identification number issued by the responsible administrator in respect of a site under paragraph 174(2)(a). (*tatouage au marteau approuvé*)
+***approved slap tattoo*** means a slap tattoo bearing an identification number issued by the responsible administrator in respect of a site under paragraph 174(2)(a). (*tatouage au marteau approuvé*)
 
-***approved tag*** means a tag, chip or other indicator approved by the Minister under subsection 173(1) and listed on the Agency’s web site as an approved tag. (*étiquette approuvée*)
+***approved tag*** means a tag, chip or other indicator approved by the Minister under subsection 173(1) and listed on the Agency’s web site as an approved tag. (*étiquette approuvée*)
 
-***bison*** means an animal, other than an embryo or a fertilized egg, of the subspecies *Bison bison bison*, *Bison bison athabascae* or *Bison bison bonasus*. (*bison*)
+***bison*** means an animal, other than an embryo or a fertilized egg, of the subspecies *Bison bison bison*, *Bison bison athabascae* or *Bison bison bonasus*. (*bison*)
 
-***bovine*** means an animal, other than an embryo or a fertilized egg, of the species *Bos taurus* or *Bos indicus*. (*bovin*)
+***bovine*** means an animal, other than an embryo or a fertilized egg, of the species *Bos taurus* or *Bos indicus*. (*bovin*)
 
-***bred*** means an animal that is mated either naturally or artificially or that has provided semen, ova or embryos for reproduction. (*sailli*)
+***bred*** means an animal that is mated either naturally or artificially or that has provided semen, ova or embryos for reproduction. (*sailli*)
 
-***distributor*** means an individual, a partnership, a corporation, a cooperative, an association or an organization that sells or distributes approved tags. (*distributeur*) 
+***distributor*** means an individual, a partnership, a corporation, a cooperative, an association or an organization that sells or distributes approved tags. (*distributeur*) 
 
-***farm*** means land, and all buildings and other structures on that land, that is used under one management for breeding or raising animals but does not include an artificial insemination unit. (*ferme*)
+***farm*** means land, and all buildings and other structures on that land, that is used under one management for breeding or raising animals but does not include an artificial insemination unit. (*ferme*)
 
-***farm of origin*** means the farm on which an animal is born or, if an animal is not born on a farm, the first farm to which it is moved after its birth. (*ferme d’origine*)
+***farm of origin*** means the farm on which an animal is born or, if an animal is not born on a farm, the first farm to which it is moved after its birth. (*ferme d’origine*)
 
 ***farm or ranch***[Repealed, SOR/2014-23, s. 3]
 
-***organization that manages an animal identification system*** means an individual, a partnership, a corporation, a cooperative, an association or an organization that is authorized by provincial legislation to manage an animal identification system. (*organisme de gestion d’un système d’identification des animaux*) 
+***organization that manages an animal identification system*** means an individual, a partnership, a corporation, a cooperative, an association or an organization that is authorized by provincial legislation to manage an animal identification system. (*organisme de gestion d’un système d’identification des animaux*) 
 
-***ovine*** means an animal, other than an embryo or a fertilized egg, of the genus *Ovis*. (*ovin*)
+***ovine*** means an animal, other than an embryo or a fertilized egg, of the genus *Ovis*. (*ovin*)
 
-***pig*** means an animal, other than an embryo or a fertilized egg, of the species *domestica* or *scrofa domestica* of the genus *Sus*. (*porc*)
+***pig*** means an animal, other than an embryo or a fertilized egg, of the genus *Sus*. (*porc*)
 
-***responsible administrator*** means a person who is authorized by the Minister to receive information in relation to animals or things to which the Act or these Regulations apply, is listed on the Agency’s web site as an administrator and administers a national identification program in relation to certain animals of all or part of one or more genera, species or subspecies that are located in one or more provinces. (*administrateur responsable*)
+***responsible administrator*** means a person who is authorized by the Minister to receive information in relation to animals or things to which the Act or these Regulations apply, is listed on the Agency’s web site as an administrator and administers a national identification program in relation to certain animals of all or part of one or more genera, species or subspecies that are located in one or more provinces. (*administrateur responsable*)
 
-***site*** means a place where animals or carcasses of animals are kept or collected but does not include a conveyance. (*installation*)
+***site*** means a place where animals or carcasses of animals are kept or collected but does not include a conveyance. (*installation*)
 
-- **(2)** In this Part, other than in subsection 175.1(2), paragraph 186(1)(a) and subsection 186(2), any reference to the carcass of an animal or to a part of the carcass of an animal does not include any part of the carcass that is intended for human consumption.
+- **(2)** In this Part, other than in subsection 175.1(2), paragraph 186(1)(a) and subsection 186(2), any reference to the carcass of an animal or to a part of the carcass of an animal does not include any part of the carcass that is intended for human consumption.
 > SOR/2000-416, s. 1; SOR/2003-409, s. 1; SOR/2005-192, s. 1; SOR/2014-23, s. 3.
 
 
