@@ -54,7 +54,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***Forces canadiennes*** Les forces armées visées à l’article 14 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), ainsi que les forces navales, les forces de l’armée ou les forces aériennes du Canada ou de Terre-Neuve qui les ont précédées.
 
-***indemnisation*** Allocation pour perte de revenus, prestation de retraite supplémentaire, allocation de soutien du revenu, allocation pour déficience permanente, indemnité d’invalidité, indemnité de décès, allocation vestimentaire ou indemnité de captivité prévues par la présente loi.
+***indemnisation*** Allocation pour perte de revenus, prestation de retraite supplémentaire, allocation de soutien du revenu, allocation pour déficience permanente, allocation de sécurité du revenu de retraite, indemnité pour blessure grave, indemnité d’invalidité, indemnité de décès, allocation vestimentaire, indemnité de captivité ou allocation pour relève d’un aidant familial prévues par la présente loi.
 
 ***invalidité*** La perte ou l’amoindrissement de la faculté de vouloir et de faire normalement des actes d’ordre physique ou mental.
 
@@ -114,6 +114,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Conduite du militaire ou vétéran**
 
 - **(5)** La présente loi ne s’applique pas à l’égard du problème de santé physique ou mentale, de l’invalidité ou du décès du militaire ou vétéran causé par l’automutilation ou résultant de sa mauvaise conduite, telle la désobéissance préméditée aux ordres et la conduite malveillante ou criminelle.
+> 2005, ch. 21, art. 2; 2015, ch. 36, art. 206.
+
+
+
+
+
+## Objet
+
+
+
+**Objet**
+
+**2.1** La présente loi a pour objet de reconnaître et d’honorer l’obligation du peuple canadien et du gouvernement du Canada de rendre un hommage grandement mérité aux militaires et vétérans pour leur dévouement envers le Canada, obligation qui vise notamment la fourniture de services, d’assistance et de mesures d’indemnisation à ceux qui ont été blessés par suite de leur service militaire et à leur époux ou conjoint de fait ainsi qu’au survivant et aux orphelins de ceux qui sont décédés par suite de leur service militaire. Elle s’interprète de façon libérale afin de donner effet à cette obligation reconnue.
+> 2015, ch. 36, art. 207.
+
 
 
 
@@ -371,7 +386,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Début de l’allocation**
 
-- **(2)** L’allocation est exigible à compter du jour où le ministre décide qu’un programme de réadaptation ou d’assistance professionnelle devrait être élaboré.
+- **(2)** L’allocation est exigible à compter du jour où le ministre décide qu’un programme de réadaptation ou d’assistance professionnelle devrait être élaboré. S’il prend cette décision à l’égard d’un militaire, il est entendu que l’allocation n’est exigible qu’à compter du lendemain de la libération de celui-ci des Forces canadiennes.
 
 **Fin de l’allocation**
 
@@ -385,6 +400,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(4)** Si le ministre est d’avis que le vétéran présente un problème de santé physique ou mentale pour lequel un programme de réadaptation a été élaboré et que ce problème de santé entraîne son incapacité totale et permanente à occuper un emploi rémunérateur et convenable, l’allocation continue d’être versée même si le vétéran a terminé le programme ou si celui-ci a été annulé, et ce jusqu’au premier en date des jours suivants :
 	- **a)** celui où le ministre est d’avis que le vétéran ne présente plus le problème de santé qui a entraîné son incapacité totale et permanente à occuper un emploi rémunérateur et convenable;
 	- **b)** celui où le vétéran atteint l’âge de soixante-cinq ans.
+> 2005, ch. 21, art. 18; 2015, ch. 36, art. 208.
+
 
 
 
@@ -704,8 +721,9 @@ où :
 
 **39** L’allocation pour déficience permanente prévue au paragraphe 38(2) et l’augmentation de celle-ci prévue au paragraphe 38(3) sont exigibles à compter du dernier en date des moments suivants :
 - **a)** le jour où la demande d’allocation ou d’augmentation de celle-ci, selon le cas, a été présentée;
-- **b)** un an avant l’approbation de la demande en question.
-> 2005, ch. 21, art. 39; 2011, ch. 12, art. 9.
+- **b)** un an avant l’approbation de la demande en question;
+- **c)** le lendemain de la libération du militaire des Forces canadiennes.
+> 2005, ch. 21, art. 39; 2011, ch. 12, art. 9; 2015, ch. 36, art. 209.
 
 
 
@@ -724,6 +742,202 @@ où :
 
 
 
+### Allocation de sécurité du revenu de retraite
+
+
+
+**Admissibilité : vétéran admissible à l’allocation pour perte de revenus**
+
+**40.1** 
+
+- **(1)** Le ministre peut, sur demande, verser une allocation de sécurité du revenu de retraite au vétéran qui, à la fois :
+	- **a)** a atteint l’âge de soixante-cinq ans;
+	- **b)** était, la veille de son soixante-cinquième anniversaire, admissible à continuer de recevoir une allocation pour perte de revenus au titre du paragraphe 18(4);
+	- **c)** est admissible à une indemnité d’invalidité au titre de l’article 45 ou à une pension pour invalidité au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md).
+
+**Début des versements**
+
+- **(2)** L’allocation de sécurité du revenu de retraite est exigible à compter du dernier en date des moments suivants :
+	- **a)** le lendemain du soixante-cinquième anniversaire du vétéran;
+	- **b)** un an avant le jour où le ministre décide que le vétéran y a droit.
+
+**Fin des versements**
+
+- **(3)** L’allocation de sécurité du revenu de retraite cesse d’être versée le dernier jour du mois au cours duquel le vétéran décède.
+
+**Montant de l’allocation**
+
+- **(4)** Sous réserve des règlements, le montant de l’allocation de sécurité du revenu de retraite exigible mensuellement correspond au résultat obtenu par la formule suivante :
+```
+(A + B) – C
+```
+où : 
+- **A** représente soixante-dix pour cent de l’allocation pour perte de revenus à laquelle le vétéran aurait droit pour le mois de son soixante-cinquième anniversaire si cette allocation était exigible pour tout ce mois et si les sommes exigibles par le vétéran des sources réglementaires visées au paragraphe 19(1) n’étaient pas prises en compte;
+- **B** soixante-dix pour cent de l’allocation pour déficience permanente, augmentée, le cas échéant, au titre du paragraphe 38(3), exigible pour le mois de son soixante-cinquième anniversaire;
+- **C** le total des sommes exigibles de sources réglementaires par lui pour un mois.
+
+**Règlements**
+
+- **(5)** Le gouverneur en conseil peut prendre des règlements :
+	- **a)** prévoyant le rajustement périodique du montant obtenu par l’addition des éléments A et B de la formule figurant au paragraphe (4);
+	- **b)** régissant la détermination, pour l’application de l’élément C de cette formule, de toute somme exigible par le vétéran pour un mois.
+> 2015, ch. 36, art. 210.
+
+
+
+
+
+**Admissibilité : vétéran recevant une prestation d’assurance-invalidité prolongée**
+
+**40.2** 
+
+- **(1)** Le ministre peut, sur demande, verser une allocation de sécurité du revenu de retraite au vétéran qui, à la fois :
+	- **a)** a atteint l’âge de soixante-cinq ans après le 31 mars 2006 mais avant la date fixée par règlement;
+	- **b)** recevait, la veille de son soixante-cinquième anniversaire, une prestation d’assurance-invalidité prolongée au titre du Régime d’assurance-revenu militaire en raison d’une invalidité totale;
+	- **c)** est admissible à une indemnité d’invalidité au titre de l’article 45 ou à une pension pour invalidité au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md).
+
+**Début des versements**
+
+- **(2)** L’allocation de sécurité du revenu de retraite est exigible à compter du dernier en date des moments suivants :
+	- **a)** le lendemain du soixante-cinquième anniversaire du vétéran;
+	- **b)** un an avant le jour où le ministre décide que le vétéran y a droit.
+
+**Fin des versements**
+
+- **(3)** L’allocation de sécurité du revenu de retraite cesse d’être versée le dernier jour du mois au cours duquel le vétéran décède.
+
+**Montant de l’allocation**
+
+- **(4)** Sous réserve des règlements, le montant de l’allocation de sécurité du revenu de retraite exigible mensuellement correspond au résultat obtenu par la formule suivante :
+```
+(A + B) – C
+```
+où : 
+- **A** représente soixante-dix pour cent de l’allocation pour perte de revenus à laquelle le vétéran, s’il avait présenté une demande, aurait eu droit pour le mois de son soixante-cinquième anniversaire si cette allocation était exigible pour tout ce mois et si les sommes exigibles par le vétéran des sources réglementaires visées au paragraphe 19(1) n’étaient pas prises en compte;
+- **B** soixante-dix pour cent de l’allocation pour déficience permanente, augmentée, le cas échéant, au titre du paragraphe 38(3), exigible pour le mois de son soixante-cinquième anniversaire;
+- **C** le total des sommes exigibles de sources réglementaires par lui pour un mois.
+
+**Règlements**
+
+- **(5)** Le gouverneur en conseil peut prendre des règlements :
+	- **a)** prévoyant le rajustement périodique du montant obtenu par l’addition des éléments A et B de la formule figurant au paragraphe (4);
+	- **b)** régissant la détermination, pour l’application de l’élément C de cette formule, de toute somme exigible par le vétéran pour un mois.
+> 2015, ch. 36, art. 210.
+
+
+
+
+
+**Admissibilité : survivant du vétéran admissible**
+
+**40.3** 
+
+- **(1)** Le ministre peut, sur demande, verser une allocation de sécurité du revenu de retraite au survivant d’un vétéran si ce dernier était admissible à l’allocation de sécurité du revenu de retraite au moment de son décès ou l’aurait été s’il avait présenté une demande.
+
+**Début des versements**
+
+- **(2)** L’allocation de sécurité du revenu de retraite est exigible à compter du dernier en date des moments suivants :
+	- **a)** le premier jour du mois suivant celui au cours duquel le vétéran est décédé;
+	- **b)** un an avant le jour où le ministre décide que le survivant y a droit.
+
+**Fin des versements**
+
+- **(3)** L’allocation de sécurité du revenu de retraite cesse d’être versée le dernier jour du mois au cours duquel le survivant décède.
+
+**Montant de l’allocation**
+
+- **(4)** Sous réserve des règlements, le montant de l’allocation de sécurité du revenu de retraite exigible mensuellement correspond au résultat obtenu par la formule suivante :
+```
+A – B
+```
+où : 
+- **A** représente cinquante pour cent de l’allocation de sécurité du revenu de retraite à laquelle le vétéran aurait droit — ou à laquelle il aurait eu droit s’il avait présenté une demande — pour le mois de son décès si les sommes exigibles par le vétéran des sources réglementaires visées à l’élément C de la formule figurant aux paragraphes 40.1(4) ou 40.2(4), selon le cas, n’étaient pas prises en compte;
+- **B** le total des sommes exigibles de sources réglementaires par le survivant, à l’égard du vétéran, pour un mois.
+
+**Règlements**
+
+- **(5)** Le gouverneur en conseil peut prendre des règlements :
+	- **a)** prévoyant le rajustement périodique de l’élément A de la formule figurant au paragraphe (4);
+	- **b)** régissant la détermination, pour l’application de l’élément B de cette formule, de toute somme exigible par le survivant pour un mois.
+> 2015, ch. 36, art. 210.
+
+
+
+
+
+**Admissibilité : survivant admissible à l’allocation pour perte de revenus**
+
+**40.4** 
+
+- **(1)** Le ministre peut, sur demande, verser une allocation de sécurité du revenu de retraite au survivant qui cesse d’être admissible à l’allocation pour perte de revenus en application du paragraphe 22(3).
+
+**Début des versements**
+
+- **(2)** L’allocation de sécurité du revenu de retraite est exigible à compter du dernier en date des moments suivants :
+	- **a)** le lendemain du jour où le militaire ou le vétéran aurait atteint l’âge de soixante-cinq ans;
+	- **b)** un an avant le jour où le ministre décide que le survivant y a droit.
+
+**Fin des versements**
+
+- **(3)** L’allocation de sécurité du revenu de retraite cesse d’être versée le dernier jour du mois au cours duquel le survivant décède.
+
+**Montant de l’allocation**
+
+- **(4)** Sous réserve des règlements, le montant de l’allocation de sécurité du revenu de retraite exigible mensuellement correspond au résultat obtenu par la formule suivante :
+```
+A/2 – B
+```
+où : 
+- **A** représente soixante-dix pour cent de l’allocation pour perte de revenus qui serait exigible au titre du paragraphe 23(1) pour le mois où le militaire ou le vétéran aurait atteint l’âge de soixante-cinq ans si cette allocation était exigible pour tout ce mois et si les sommes exigibles par le survivant, à l’égard du militaire ou vétéran, des sources réglementaires visées au paragraphe 23(3) n’étaient pas prises en compte;
+- **B** le total des sommes exigibles de sources réglementaires par le survivant, à l’égard du militaire ou vétéran, pour un mois.
+
+**Règlements**
+
+- **(5)** Le gouverneur en conseil peut prendre des règlements :
+	- **a)** prévoyant le rajustement périodique de l’élément A de la formule figurant au paragraphe (4);
+	- **b)** régissant la détermination, pour l’application de l’élément B de cette formule, de toute somme exigible par le survivant pour un mois.
+> 2015, ch. 36, art. 210.
+
+
+
+
+
+**Dispense**
+
+**40.5** 
+
+- **(1)** Le ministre peut dispenser le vétéran ou le survivant de l’obligation de présenter la demande d’allocation de sécurité du revenu de retraite, s’il est convaincu que le vétéran ou le survivant, s’il présentait une demande, serait admissible à cette allocation d’après les renseignements que le ministre a obtenus dans l’exercice de ses attributions relativement à l’allocation pour perte de revenus, à l’allocation pour déficience permanente ou à l’indemnité d’invalidité ou relativement à la pension pour invalidité au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md).
+
+**Notification**
+
+- **(2)** S’il entend dispenser le vétéran ou le survivant de l’obligation de présenter une demande, le ministre l’en avise par écrit.
+
+**Acceptation**
+
+- **(3)** S’il accepte d’être dispensé de l’obligation de présenter une demande, le vétéran ou le survivant est tenu de produire auprès du ministre, dans le délai fixé par celui-ci, les renseignements que ce dernier demande.
+
+**Refus**
+
+- **(4)** Le vétéran ou le survivant peut, dans le délai fixé par le ministre, refuser d’être dispensé de l’obligation de présenter une demande, auquel cas il en avise le ministre par écrit.
+
+**Levée de la dispense**
+
+- **(5)** Le fait que le ministre entend accorder la dispense ne l’empêche pas d’obliger le vétéran ou le survivant à présenter une demande; le cas échéant, le ministre l’en avise par écrit.
+> 2015, ch. 36, art. 210.
+
+
+
+
+
+**Suspension ou annulation**
+
+**40.6** Le ministre peut, dans les circonstances réglementaires, suspendre ou annuler l’allocation de sécurité du revenu de retraite.
+> 2015, ch. 36, art. 210.
+
+
+
+
+
 ### Règlements
 
 
@@ -731,19 +945,21 @@ où :
 **Gouverneur en conseil**
 
 **41** Le gouverneur en conseil peut prendre des règlements :
-- **a)** prévoyant, dans le cas de toute personne qui reçoit l’allocation pour perte de revenus ou l’allocation de soutien du revenu, la procédure de notification au ministre de toute modification du revenu, des avantages ou de la somme exigible visée aux paragraphes 19(1) ou 23(3), ainsi que les répercussions de la modification sur le calcul de l’indemnisation, et exigeant la présentation d’un relevé estimatif sur le revenu, les avantages ou la somme exigible;
+- **a)** prévoyant, dans le cas de toute personne qui reçoit l’allocation pour perte de revenus, l’allocation de soutien du revenu ou l’allocation de sécurité du revenu de retraite, la procédure de notification au ministre de toute modification du revenu, des avantages ou de la somme exigible d’une source réglementaire visée aux paragraphes 19(1), 23(3), 40.1(4), 40.2(4), 40.3(4) ou 40.4(4), ainsi que les répercussions de la modification sur le calcul de l’indemnisation, et exigeant la présentation d’un relevé estimatif sur le revenu, les avantages ou la somme exigible;
 - **b)** définissant ce qui constitue un emploi rémunérateur et convenable, une entrave à la réinsertion dans la vie civile et l’incapacité totale et permanente;
 - **c)** définissant, pour l’application de l’article 37, ***année civile de base***, ***période de paiement*** et ***revenu***;
 - **d)** prévoyant le rajustement des taux prévus à la colonne 2 de l’annexe 1 en cas d’augmentation du montant de la pension ou du supplément, au sens de l’article 2 de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md), apportée par une modification de cette loi;
 - **e)** prévoyant le paiement de frais entraînés par la participation à un programme de réadaptation ou d’assistance professionnelle;
 - **f)** précisant, pour l’application des articles 33 et 34, ce qui constitue la résidence et les intervalles d’absence du Canada qui sont réputés ne pas interrompre la résidence au Canada;
 - **g)** précisant, pour l’application de l’article 38, ce qui constitue une déficience grave et permanente et la méthode pour établir l’existence et l’ampleur d’une telle déficience chez le vétéran.
+> 2005, ch. 21, art. 41; 2015, ch. 36, art. 211.
+
 
 
 
 
 **PARTIE 3** 
-## Invalidité, décès et captivité
+## Blessure grave, invalidité, décès et captivité
 
 
 
@@ -753,7 +969,9 @@ où :
 
 **Application de la présente partie**
 
-**42** La présente partie ne s’applique pas à l’égard d’une blessure ou maladie ou de l’aggravation d’une blessure ou maladie pour laquelle une pension peut être accordée au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md).
+**42** La présente partie, exception faite des articles 44.1 à 44.3, ne s’applique pas à l’égard d’une blessure ou maladie ou de l’aggravation d’une blessure ou maladie pour laquelle une pension peut être accordée au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md).
+> 2005, ch. 21, art. 42; 2015, ch. 36, art. 213.
+
 
 
 
@@ -771,6 +989,68 @@ où :
 **Représentation du demandeur**
 
 **44** Dans toutes les procédures prévues par la présente partie, le demandeur peut être représenté par le service social d’une organisation d’anciens combattants ou, à ses frais, par tout autre représentant de son choix.
+
+
+
+
+### Indemnité pour blessure grave
+
+
+
+**Admissibilité**
+
+**44.1** 
+
+- **(1)** Le ministre peut, sur demande, verser une indemnité pour blessure grave au militaire ou vétéran si celui-ci démontre qu’il a subi une ou plusieurs blessures graves et traumatiques ou a souffert d’une maladie aiguë et que les blessures ou la maladie, à la fois :
+	- **a)** sont liées au service;
+	- **b)** ont été causées par un seul événement soudain postérieur au 31 mars 2006;
+	- **c)** ont entraîné immédiatement une déficience grave et une détérioration importante de sa qualité de vie.
+
+**Facteurs à considérer**
+
+- **(2)** Pour établir si la déficience est grave et la détérioration de la qualité de vie importante, le ministre tient compte des facteurs prévus par règlement.
+
+**Règlements**
+
+- **(3)** Le gouverneur en conseil peut prendre des règlements concernant ce qui constitue, pour l’application du paragraphe 44.1(1), un seul événement soudain.
+> 2015, ch. 36, art. 214.
+
+
+
+
+
+**Montant de l’indemnité**
+
+**44.2** Le montant de l’indemnité pour blessure grave est celui prévu à la colonne 2 de l’annexe 2 en regard de l’article 2.2.
+> 2015, ch. 36, art. 214.
+
+
+
+
+
+**Dispense**
+
+**44.3** 
+
+- **(1)** Le ministre peut dispenser le militaire ou le vétéran de l’obligation de présenter la demande visée au paragraphe 44.1(1), s’il est convaincu, d’après les renseignements qu’il a obtenus dans l’exercice de ses attributions, notamment relativement à l’indemnité d’invalidité ou relativement à la pension pour invalidité au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md), que le militaire ou le vétéran a droit à l’indemnité pour blessure grave.
+
+**Notification**
+
+- **(2)** S’il entend dispenser le militaire ou le vétéran de l’obligation de présenter une demande, le ministre l’en avise par écrit.
+
+**Acceptation**
+
+- **(3)** S’il accepte d’être dispensé de l’obligation de présenter une demande, le militaire ou le vétéran est tenu de produire auprès du ministre, dans le délai fixé par celui-ci, les renseignements que ce dernier demande.
+
+**Refus**
+
+- **(4)** Le militaire ou le vétéran peut, dans le délai fixé par le ministre, refuser d’être dispensé de l’obligation de présenter une demande, auquel cas il en avise le ministre par écrit.
+
+**Levée de la dispense**
+
+- **(5)** Le fait que le ministre entend accorder la dispense ne l’empêche pas d’obliger le militaire ou le vétéran à présenter une demande; le cas échéant, le ministre l’en avise par écrit.
+> 2015, ch. 36, art. 214.
+
 
 
 
@@ -798,7 +1078,7 @@ où :
 
 **46** 
 
-- **(1)** Est réputée être une blessure ou maladie liée au service la blessure ou maladie qui, en tout ou en partie, est la conséquence :
+- **(1)** Pour l’application du paragraphe 45(1), est réputée être une blessure ou maladie liée au service la blessure ou maladie qui, en tout ou en partie, est la conséquence :
 	- **a)** d’une blessure ou maladie liée au service;
 	- **b)** d’une blessure ou maladie non liée au service dont l’aggravation est due au service;
 	- **c)** d’une blessure ou maladie qui est elle-même la conséquence d’une blessure ou maladie visée par les alinéas a) ou b);
@@ -807,6 +1087,8 @@ où :
 **Fraction**
 
 - **(2)** Pour l’application du paragraphe 45(1), si l’invalidité est causée par une blessure ou maladie réputée liée au service au titre du paragraphe (1), seule la fraction — calculée en cinquièmes — du degré d’invalidité qui représente la proportion de cette blessure ou maladie qui est la conséquence d’une autre blessure ou maladie liée au service ou réputée l’être donne droit à une indemnité d’invalidité.
+> 2005, ch. 21, art. 46; 2015, ch. 36, art. 215.
+
 
 
 
@@ -1106,7 +1388,9 @@ où :
 
 **Gouverneur en conseil**
 
-**63** Le gouverneur en conseil peut prendre des règlements établissant les règles de preuve et les présomptions applicables aux demandes d’indemnité d’invalidité et d’indemnité de décès.
+**63** Le gouverneur en conseil peut prendre des règlements établissant les règles de preuve et les présomptions applicables aux demandes d’indemnité pour blessure grave, d’indemnité d’invalidité et d’indemnité de décès.
+> 2005, ch. 21, art. 63; 2015, ch. 36, art. 216.
+
 
 
 
@@ -1153,6 +1437,67 @@ où :
 **Droits du demandeur**
 
 - **(3)** La succession testamentaire a, à l’égard de la demande visée au paragraphe (2), les mêmes droits que ceux qu’aurait eus le militaire ou vétéran s’il n’était pas décédé.
+
+
+
+
+**PARTIE 3.1** 
+## Allocation pour relève d’un aidant familial
+
+
+
+**Admissibilité**
+
+**65.1** 
+
+- **(1)** Le ministre peut, sur demande, verser une allocation pour relève d’un aidant familial au vétéran si les conditions ci-après sont remplies :
+	- **a)** le vétéran a présenté une demande d’indemnité d’invalidité au titre de l’article 45 et celle-ci a déjà été approuvée;
+	- **b)** en raison de l’invalidité à l’égard de laquelle la demande d’indemnité a été approuvée, le vétéran a besoin de recevoir des soins de façon continue;
+	- **c)** une personne âgée d’au moins dix-huit ans joue un rôle essentiel dans la prestation au vétéran de soins continus à domicile ou dans la coordination de ces soins et n’est pas rémunérée pour ce faire;
+	- **d)** le vétéran remplit les conditions d’admissibilité réglementaires.
+
+**Critères à considérer**
+
+- **(2)** Pour établir si le vétéran a besoin de recevoir des soins de façon continue, le ministre tient compte uniquement des critères prévus par règlement.
+
+**Facteurs à considérer**
+
+- **(3)** Pour établir si la personne visée à l’alinéa (1)c) joue un rôle essentiel dans la prestation au vétéran de soins continus à domicile ou dans la coordination de ces soins, le ministre tient compte uniquement des facteurs prévus par règlement.
+
+**Inadmissibilité**
+
+- **(4)** Le vétéran qui est admissible à l’allocation pour soins au titre du paragraphe 38(1) de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md) n’est pas admissible à l’allocation pour relève d’un aidant familial.
+> 2015, ch. 36, art. 217.
+
+
+
+
+
+**Montant de l’allocation**
+
+**65.2** Le montant de l’allocation pour relève d’un aidant familial exigible annuellement par le vétéran est celui prévu à la colonne 2 de l’annexe 2 en regard de l’article 5.
+> 2015, ch. 36, art. 217.
+
+
+
+
+
+**Évaluation**
+
+**65.3** Le ministre peut exiger que le vétéran qui reçoit l’allocation pour relève d’un aidant familial subisse une évaluation par la personne que le ministre précise dans le but d’établir si le vétéran a encore droit au versement de l’allocation.
+> 2015, ch. 36, art. 217.
+
+
+
+
+
+**Règlements**
+
+**65.4** Le gouverneur en conseil peut prendre des règlements :
+- **a)** définissant ***soins*** pour l’application des alinéas 65.1(1)b) et c) et des paragraphes 65.1(2) et (3);
+- **b)** définissant ***domicile*** pour l’application de l’alinéa 65.1(1)c) et du paragraphe 65.1(3).
+> 2015, ch. 36, art. 217.
+
 
 
 
@@ -1293,6 +1638,28 @@ où :
 
 
 
+### Transition à la vie civile
+
+
+
+**Renseignements et conseils**
+
+**75.1** Afin d’aider le militaire ou le vétéran dans sa transition à la vie civile, le ministre peut le renseigner et le conseiller sur les services, l’assistance et l’indemnisation auxquels il pourrait être admissible compte tenu de sa situation particulière.
+> 2015, ch. 36, art. 218.
+
+
+
+
+
+**Demande d’un militaire avant la transition**
+
+**75.2** Le ministre peut examiner une demande de services, d’assistance ou d’indemnisation au titre de la présente loi présentée par un militaire, prendre une décision et faire les évaluations nécessaires à l’égard de la demande même si le demandeur ne peut devenir admissible au service, à l’assistance ou à l’indemnisation demandé avant d’être un vétéran.
+> 2015, ch. 36, art. 218.
+
+
+
+
+
 ### Procédure
 
 
@@ -1393,7 +1760,9 @@ où :
 
 **Numéro d’assurance sociale**
 
-**82** Le ministre peut, dans le but d’établir si une personne a droit de recevoir l’allocation pour perte de revenus ou l’allocation de soutien du revenu, obtenir son numéro d’assurance sociale et le communiquer à tout ministère ou organisme fédéral.
+**82** Le ministre peut, dans le but d’établir si une personne a droit de recevoir l’allocation pour perte de revenus, l’allocation de soutien du revenu ou l’allocation de sécurité du revenu de retraite, obtenir son numéro d’assurance sociale et le communiquer à tout ministère ou organisme fédéral.
+> 2005, ch. 21, art. 82; 2015, ch. 36, art. 219.
+
 
 
 
@@ -1402,9 +1771,11 @@ où :
 
 
 
-**Révision : partie 2**
+**Révision : parties 2 ou 3.1**
 
-**83** Sous réserve des règlements, le ministre peut, sur demande ou de sa propre initiative, réviser toute décision prise au titre de la partie 2 ou du présent article.
+**83** Sous réserve des règlements, le ministre peut, sur demande ou de sa propre initiative, réviser toute décision prise au titre des parties 2 ou 3.1 ou du présent article.
+> 2005, ch. 21, art. 83; 2015, ch. 36, art. 220.
+
 
 
 
@@ -1461,11 +1832,13 @@ où :
 
 **Indemnisation erronée**
 
-- **(4)** Malgré les autres dispositions de la présente loi, le ministre peut continuer de verser à la personne, bien que celle-ci n’y ait pas droit, tout ou partie de l’allocation pour perte de revenus, de l’allocation de soutien du revenu, de l’allocation pour déficience permanente ou de l’allocation vestimentaire dont le montant résulte d’une erreur, d’un retard ou d’un oubli de la part d’un cadre ou fonctionnaire de l’administration publique fédérale et a fait l’objet d’une remise au motif prévu à l’alinéa (3)d), s’il estime que le versement, fait depuis au moins cinq ans, ne résulte pas d’une déclaration trompeuse ou de la dissimulation de faits importants de la part de cette personne et que son annulation ou sa réduction lui causerait un préjudice abusif.
+- **(4)** Malgré les autres dispositions de la présente loi, le ministre peut continuer de verser à la personne, bien que celle-ci n’y ait pas droit, tout ou partie de l’allocation pour perte de revenus, de l’allocation de soutien du revenu, de l’allocation pour déficience permanente, de l’allocation de sécurité du revenu de retraite, de l’allocation vestimentaire ou de l’allocation pour relève d’un aidant familial dont le montant résulte d’une erreur, d’un retard ou d’un oubli de la part d’un cadre ou fonctionnaire de l’administration publique fédérale et a fait l’objet d’une remise au motif prévu à l’alinéa (3)d), s’il estime que le versement, fait depuis au moins cinq ans, ne résulte pas d’une déclaration trompeuse ou de la dissimulation de faits importants de la part de cette personne et que son annulation ou sa réduction lui causerait un préjudice abusif.
 
 **Recouvrement**
 
 - **(5)** Le montant de l’indemnisation versé après le décès du militaire ou vétéran alors que celui-ci n’y était plus admissible peut être déduit de toute indemnisation accordée à la personne qui l’a retenu.
+> 2005, ch. 21, art. 88; 2015, ch. 36, art. 221.
+
 
 
 
@@ -1542,9 +1915,9 @@ où :
 - **b)** prévoyant les modalités — de temps ou autres — de versement de toute indemnisation;
 - **c)** prévoyant le rajustement périodique des sommes prévues aux annexes 1 à 3;
 - **d)** prévoyant le paiement ou remboursement de frais associés aux services de conseillers financiers;
-- **e)** régissant la communication de tout renseignement ou document au ministre par toute personne qui reçoit des services de réorientation professionnelle, des services de réadaptation, de l’assistance professionnelle, l’allocation pour perte de revenus, l’allocation de soutien du revenu, l’allocation pour déficience permanente ou l’allocation vestimentaire au titre de la présente loi, et autorisant le ministre à suspendre la fourniture des services ou de l’assistance ou le versement de l’allocation dans l’attente du renseignement ou document;
+- **e)** concernant la communication de tout renseignement, déclaration ou document au ministre par toute personne qui demande ou reçoit des services de réorientation professionnelle, des services de réadaptation, de l’assistance professionnelle, l’allocation pour perte de revenus, l’allocation de soutien du revenu, l’allocation pour déficience permanente, l’allocation de sécurité du revenu de retraite, l’allocation vestimentaire ou l’allocation pour relève d’un aidant familial au titre de la présente loi, et autorisant le ministre à suspendre la fourniture des services ou de l’assistance ou le versement de l’allocation dans l’attente du renseignement, de la déclaration ou du document;
 - **f)** prévoyant les modalités de suspension ou d’annulation des services de réadaptation, de l’assistance professionnelle ou de toute indemnisation;
-- **g)** concernant la révision de toute décision prise au titre de la partie 2 ou de l’article 83 et prévoyant notamment les motifs ouvrant droit à la révision, les pouvoirs de révision et le nombre de révisions;
+- **g)** concernant la révision de toute décision prise au titre des parties 2 ou 3.1 ou de l’article 83 et prévoyant notamment les motifs ouvrant droit à la révision, les pouvoirs de révision et le nombre de révisions;
 - **h)** prévoyant les modalités — de temps ou autres — de présentation de la demande de révision au titre des articles 83 ou 84;
 - **i)** prévoyant la procédure à suivre par le ministre pour prendre ses décisions;
 - **i.1)** régissant la détermination de l’intérêt pour l’application de l’élément C dans la formule prévue à l’alinéa 52.1(1)b);
@@ -1552,7 +1925,16 @@ où :
 - **j)** concernant toute mesure d’ordre réglementaire prévue par la présente loi;
 - **j.1)** précisant la façon de déterminer ce qui peut ou doit faire l’objet d’une mesure réglementaire;
 - **k)** concernant toute autre mesure d’application de la présente loi.
-> 2005, ch. 21, art. 94; 2011, ch. 12, art. 17.
+> 2005, ch. 21, art. 94; 2011, ch. 12, art. 17; 2015, ch. 36, art. 222.
+
+
+
+
+
+**Rétroactivité**
+
+**94.1** Les règlements concernant l’allocation de sécurité du revenu de retraite ou l’allocation pour relève d’un aidant familial pris en vertu des paragraphes 40.1(5), 40.2(5), 40.3(5) ou 40.4(5) ou des articles 41, 65.4 ou 94 peuvent avoir un effet rétroactif s’ils comportent une disposition en ce sens.
+> 2015, ch. 36, art. 223.
 
 
 
@@ -1777,9 +2159,9 @@ où :
 
 
 ### **ANNEXE 2** 
-**(paragraphes 38(2) et (3) et 58(1), article 61, alinéa 94c) et paragraphe 98(2))**
-#### ALLOCATIONS ET INDEMNITÉ
+**(paragraphes 38(2) et (3), article 44.2, paragraphe 58(1), articles 61 et 65.2, alinéa 94c) et paragraphe 98(2))**
 <table>
+<h4>Allocations et indemnité</h4>
 <tr>
 <th></th>
 <th>Colonne 1</th>
@@ -1806,6 +2188,11 @@ où :
 <td>12 000,00 (annuel)</td>
 </tr>
 <tr>
+<td>2.2</td>
+<td>Indemnité pour blessure grave</td>
+<td>70 000,00 (forfaitaire)</td>
+</tr>
+<tr>
 <td>3</td>
 <td>Indemnité de décès</td>
 <td>250 000,00 (forfaitaire)</td>
@@ -1815,9 +2202,14 @@ où :
 <td>Allocation vestimentaire</td>
 <td>1 823,88 (annuel)</td>
 </tr>
+<tr>
+<td>5</td>
+<td>Allocation pour relève d’un aidant familial</td>
+<td>7 238,00 (annuel)</td>
+</tr>
 </table>
 
-> 2005, ch. 21, ann. 2; 2011, ch. 12, art. 18 et 19.
+> 2005, ch. 21, ann. 2; 2011, ch. 12, art. 18 et 19; 2015, ch. 36, art. 224 et 225.
 
 
 
