@@ -409,7 +409,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Regulations**
 
 - **(2)** Without limiting the generality of subsection (1), the Commission may make regulations
-	- **(a)** establishing for any person or class of persons a right to be appointed — in priority to all persons other than those referred to in section 40 and subsections 41(1) and (4) — during the period specified by the Commission, to any position for which the Commission is satisfied that they meet the essential qualifications referred to in paragraph 30(2)(a);
+	- **(a)** establishing for any person or class of persons a right to be appointed — in priority to all persons other than those referred to in sections 39.1 and 40 and subsections 41(1) and (4) — during the period specified by the Commission, to any position for which the Commission is satisfied that they meet the essential qualifications referred to in paragraph 30(2)(a);
 	- **(b)** determining the order of priority of the rights to appointment established by any regulations made under paragraph (a);
 	- **(c)** respecting appointments on an acting basis and the maximum period for which any such appointments or any class of such appointments may be made, and excluding any such appointments or class from the operation of any or all of the provisions of this Act;
 	- **(d)** for the purpose of facilitating the implementation of employment equity programs developed by an employer or a deputy head, respecting the appointment to or from within the public service of persons belonging to a designated group within the meaning of section 3 of the [Employment Equity Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2044.md), and excluding any such persons or any group of such persons from the operation of any or all of the provisions of this Act;
@@ -419,7 +419,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(h)** prescribing the manner in which and the period within which allegations are to be made, and the manner in which investigations are to be conducted under Part 7;
 	- **(i)** respecting the manner of laying off employees and the manner of selecting employees to be laid off, for the purposes of section 64; and
 	- **(j)** prescribing circumstances for the purposes of section 50.2.
-> 2003, c. 22, s. 12 “22”; 2006, c. 9, s. 100; 2013, c. 18, s. 59.
+> 2003, c. 22, s. 12 “22”; 2006, c. 9, s. 100; 2013, c. 18, s. 59; 2015, c. 5, s. 2.
 
 
 
@@ -631,13 +631,17 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**Mobility — members of the Canadian Forces**
+**Mobility — member of Canadian Forces**
 
 **35.1** 
 
-- **(1)** A member of the Canadian Forces
-	- **(a)** may participate in an advertised internal appointment process for which the organizational criterion established under section 34 entitles members of the Canadian Forces to be considered, as long as the member meets the other criteria, if any, established under that section; and
+- **(1)** A member of the Canadian Forces who has accumulated at least three years of service and is not employed in the public service for an indeterminate period
+	- **(a)** may participate in an advertised internal appointment process; and
 	- **(b)** has the right to make a complaint under section 77.
+
+**Exception**
+
+- **(1.1)** For the purpose of paragraph (1)(a), if a criterion in relation to belonging to any of the designated groups, as defined in section 3 of the [Employment Equity Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2044.md), is established under section 34, the member shall meet that criterion.
 
 **Deemed employment in public service**
 
@@ -646,7 +650,28 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Definition of member**
 
 - **(3)** In this section, ***member*** means a person who is enrolled in the Canadian Forces.
-> 2005, c. 21, s. 115.
+> 2005, c. 21, s. 115; 2015, c. 5, s. 3.
+
+
+
+
+
+**Mobility — former member of Canadian Forces**
+
+**35.11** 
+
+- **(1)** A person who is not enrolled in the Canadian Forces, has served at least three years in the Canadian Forces, has been honourably released within the meaning of regulations made under the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) and is not employed in the public service for an indeterminate period
+	- **(a)** may, during a period of five years after their date of release, participate in an advertised internal appointment process; and
+	- **(b)** has the right to make a complaint under section 77.
+
+**Deemed employment in public service**
+
+- **(2)** A person who participates in a process referred to in subsection (1) is, for the purpose of the process, deemed to be a person employed in the public service.
+
+**Exception**
+
+- **(3)** For the purpose of paragraph (1)(a), if a criterion in relation to belonging to any of the designated groups, as defined in section 3 of the [Employment Equity Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2044.md), is established under section 34, the person shall meet that criterion.
+> 2015, c. 5, s. 4.
 
 
 
@@ -696,8 +721,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Exceptions to merit**
 
-**38** Paragraph 30(2)(b) does not apply in relation to any appointment made under subsection 15(6) (re-appointment on revocation by deputy head), section 40 (priorities — surplus employees), subsection 41(1) or (4) (other priorities) or section 73 (re-appointment on revocation by Commission) or 86 (re-appointment following Board order), or under any regulations made pursuant to paragraph 22(2)(a).
-> 2003, c. 22, s. 12 “38”; 2006, c. 9, s. 102; 2013, c. 40, s. 414.
+**38** Paragraph 30(2)(b) does not apply in relation to any appointment made under subsection 15(6) (re-appointment on revocation by deputy head), section 39.1 (priority — members of the Canadian Forces) or 40 (priorities — surplus employees), subsection 41(1) or (4) (other priorities) or section 73 (re-appointment on revocation by Commission) or 86 (re-appointment following Board order), or under any regulations made under paragraph 22(2)(a).
+> 2003, c. 22, s. 12 “38”; 2006, c. 9, s. 102; 2013, c. 40, s. 414; 2015, c. 5, ss. 5, 14.
 
 
 
@@ -711,7 +736,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **39** 
 
-- **(1)** In an advertised external appointment process, subject to any priorities established under paragraph 22(2)(a) and by sections 40 and 41, any of the following who, in the Commission’s opinion, meet the essential qualifications referred to in paragraph 30(2)(a) shall be appointed ahead of other candidates, in the following order:
+- **(1)** In an advertised external appointment process, subject to any priorities established under paragraph 22(2)(a) and by sections 39.1, 40 and 41, any of the following who, in the Commission’s opinion, meet the essential qualifications referred to in paragraph 30(2)(a) shall be appointed ahead of other candidates, in the following order:
 	- **(a)** a person who is in receipt of a pension by reason of war service, within the meaning of the schedule;
 	- **(b)** a veteran or a survivor of a veteran, within the meaning of the schedule; and
 	- **(c)** a Canadian citizen, within the meaning of the Citizenship Act, in any case where a person who is not a Canadian citizen is also a candidate.
@@ -719,6 +744,27 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Application of merit**
 
 - **(2)** Where the Commission is satisfied that two or more candidates described in any of paragraphs (1)(a) to (c) meet the essential qualifications referred to in paragraph 30(2)(a), paragraph 30(2)(b) applies in the selection of a person from among the candidates described in that paragraph.
+
+**Limit of five years**
+
+- **(3)** With respect to a veteran referred to in paragraph (f) of the definition ***veteran*** within the meaning of the schedule, the order of appointment set out in subsection (1) is valid for a period of five years after the veteran’s date of release.
+> 2003, c. 22, s. 12 "39"; 2015, c. 5, s. 6.
+
+
+
+
+
+**Priority — member of Canadian Forces**
+
+**39.1** 
+
+- **(1)** Despite sections 40 and 41, priority for appointment over all other persons is to be given, during the period determined by the Commission, to a person who was released from the Canadian Forces for medical reasons that the Minister of Veterans Affairs determines are attributable to service, who belongs to a class determined by the Commission and who meets the requirements established by the Commission.
+
+**Essential qualifications**
+
+- **(2)** A person referred to in subsection (1) has a priority for appointment with respect to any position if the Commission is satisfied that the person meets the essential qualifications referred to in paragraph 30(2)(a).
+> 2015, c. 5, s. 7.
+
 
 
 
@@ -781,7 +827,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Non-application of priority provisions**
 
-**43** Notwithstanding sections 40 and 41 and any regulations made under paragraph 22(2)(a), if the Commission considers that the appointment of a person who has a right to be appointed in priority to other persons under any of those provisions will result in another person having a priority right, the Commission may decide not to apply that provision in that case.
+**43** Despite sections 39.1, 40 and 41 and any regulations made under paragraph 22(2)(a), if the Commission considers that the appointment of a person who has a right to be appointed in priority to other persons under any of those provisions will result in another person having a priority right, the Commission may decide not to apply that provision in that case.
+> 2003, c. 22, s. 12 "43"; 2015, c. 5, s. 8.
+
 
 
 
@@ -947,8 +995,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Exceptions to priority rights**
 
-- **(2)** A deputy head may deploy a person without regard to any other person’s right to be appointed under subsection 41(1) or (4) or any regulations made pursuant to paragraph 22(2)(a).
-> 2003, c. 22, s. 12 “53”; 2006, c. 9, s. 104.
+- **(2)** A deputy head may deploy a person without regard to any other person’s right to be appointed under section 39.1 or subsection 41(1) or (4) or any regulations made under paragraph 22(2)(a).
+> 2003, c. 22, s. 12 “53”; 2006, c. 9, s. 104; 2015, c. 5, s. 9.
 
 
 
@@ -1385,10 +1433,10 @@ on the grounds that the person was not appointed or proposed for appointment by 
 
 
 
-**Where no right to complain**
+**No right to complain**
 
-**87** No complaint may be made under section 77 in respect of an appointment under subsection 15(6) (re-appointment on revocation by deputy head), section 40 (priorities — surplus employees), subsection 41(1) or (4) (other priorities) or section 73 (re-appointment on revocation by Commission) or 86 (re-appointment following Board order), or under any regulations made pursuant to paragraph 22(2)(a).
-> 2003, c. 22, s. 12 “87”; 2006, c. 9, s. 105; 2013, c. 40, s. 414.
+**87** No complaint may be made under section 77 in respect of an appointment made under subsection 15(6) (re-appointment on revocation by deputy head), section 39.1 (priority — members of the Canadian Forces) or 40 (priorities — surplus employees), subsection 41(1) or (4) (other priorities) or section 73 (re-appointment on revocation by Commission) or 86 (re-appointment following Board order) or under any regulations made under paragraph 22(2)(a).
+> 2003, c. 22, s. 12 “87”; 2006, c. 9, s. 105; 2013, c. 40, s. 414; 2015, c. 5, ss. 10, 14.
 
 
 
@@ -1981,41 +2029,42 @@ on the grounds that the person was not appointed or proposed for appointment by 
 
 
 ### **SCHEDULE** 
-**(Subsection 39(1))**
+**(Paragraphs 39(1)(a) and (b) and subsection 39(3))**
 ## Definitions
 **1** For the purposes of subsection 39(1) and this Schedule,
 
-***common-law partner***, in relation to an individual, means a person who is cohabiting with the individual in a conjugal relationship, having so cohabited for a period of at least one year;
+***common-law partner***, in relation to an individual, means a person who is cohabiting with the individual in a conjugal relationship, having so cohabited for a period of at least one year; (*conjoint de fait*)
 
-***member of the Women’s Royal Naval Services*** means a person who
+***member of the Women’s Royal Naval Services*** means a person who
 - **(a)** enrolled in the Women’s Royal Naval Service,
 - **(b)** enrolled in Queen Alexandra’s Royal Naval Nursing Service or the reserve therefor, or
-- **(c)** enrolled as a medical or dental practitioner employed with the Medical Branch or Dental Branch of the Royal Navy with naval status for general service;
+- **(c)** enrolled as a medical or dental practitioner employed with the Medical Branch or Dental Branch of the Royal Navy with naval status for general service; (*personnel du Corps féminin de la Marine royale*)
 
-***person in receipt of a pension by reason of war service*** means a person who
+***person in receipt of a pension by reason of war service*** means a person who
 - **(a)** is in receipt of a pension
 	- **(i)** by reason of service in World War I, or
 	- **(ii)** by reason of service only in World War II, and who at the commencement of such service was domiciled in Canada or Newfoundland,
 - **(b)** has, from causes attributable to that service lost capacity for physical exertion to an extent that makes the person unfit to pursue efficiently the vocation that the person was pursuing before the war, and
-- **(c)** has not been successfully re-established in any other vocation;
+- **(c)** has not been successfully re-established in any other vocation; (*pensionné de guerre*)
 
-***survivor of a veteran*** means the surviving spouse or surviving common-law partner of a person who, being a veteran, died from causes arising during the service by virtue of which the person became a veteran;
+***survivor of a veteran*** means the surviving spouse or surviving common-law partner of a person who, being a veteran referred to in any of paragraphs (a) to (e) of the definition ***veteran***, died from causes arising during the service by virtue of which the person became a veteran; (*survivant d’un ancien combattant*)
 
-***veteran*** means, subject to subsection 2(1) of this Schedule, a person who
+***veteran*** means, subject to subsection 2(1) of this Schedule, a person who
 - **(a)** during World War I was on active service overseas in the naval, army or air forces or who served on the high seas in a seagoing ship of war in the naval forces of His Majesty or of any of the Allies of His Majesty, and who has left that service with an honourable record or has been honourably discharged,
 - **(b)** during World War II was on active service
 	- **(i)** in the naval, army or air forces of His Majesty or of any of His Majesty’s Allies and at the commencement of that active service was domiciled in Canada or Newfoundland, or
 	- **(ii)** in the naval, army or air forces of Canada, and, not being domiciled in Canada at the commencement of that active service, is a Canadian citizen,
 and who, in the course of that service, performed duties outside of the Western Hemisphere, or on the high seas in a ship or other vessel service that was, at the time the person performed those duties, classed as “sea time” for the purpose of the advancement of naval ratings, or that would have been so classed had the ship or other vessel been in the service of the naval forces of Canada,
 - **(c)** during World War II served as a member of the Women’s Royal Naval Services or as a member of the South African Military Nursing Service outside of the Western Hemisphere and who, at the commencement of her service during World War II, was domiciled in Canada or Newfoundland,
-- **(d)** has been certified by the Deputy Minister of Foreign Affairs as having been enrolled in Canada or Newfoundland by United Kingdom authorities for special duty during World War II in war areas outside of the Western Hemisphere, and who served outside of the Western Hemisphere, and at the time of enrolment was domiciled in Canada or Newfoundland, or
-- **(e)** during World War II served outside of the Western Hemisphere with the naval, army or air forces of His Majesty raised in Canada or Newfoundland as a representative of Canadian Legion War Services, Inc., the National Council of the Young Men’s Christian Associations of Canada, Knights of Columbus Canadian Army Huts, or Salvation Army Canadian War Services, was authorized so to serve by the appropriate naval, army or air force authority and who, at the commencement of that service with those forces during World War II, was domiciled in Canada or Newfoundland;
+- **(d)** has been certified by the Deputy Minister of Foreign Affairs as having been enrolled in Canada or Newfoundland by United Kingdom authorities for special duty during World War II in war areas outside of the Western Hemisphere, and who served outside of the Western Hemisphere, and at the time of enrolment was domiciled in Canada or Newfoundland,
+- **(e)** during World War II served outside of the Western Hemisphere with the naval, army or air forces of His Majesty raised in Canada or Newfoundland as a representative of Canadian Legion War Services, Inc., the National Council of the Young Men’s Christian Associations of Canada, Knights of Columbus Canadian Army Huts, or Salvation Army Canadian War Services, was authorized so to serve by the appropriate naval, army or air force authority and who, at the commencement of that service with those forces during World War II, was domiciled in Canada or Newfoundland, or
+- **(f)** has served at least three years in the Canadian Forces, has been honourably released within the meaning of regulations made under the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) and is not employed in the public service for an indeterminate period; (*ancien combattant*)
 
-***Western Hemisphere*** means the continents of North and South America, the islands adjacent thereto and the territorial waters thereof, including Newfoundland, Bermuda and the West Indies, but excluding Greenland, Iceland and the Aleutian Islands;
+***Western Hemisphere*** means the continents of North and South America, the islands adjacent thereto and the territorial waters thereof, including Newfoundland, Bermuda and the West Indies, but excluding Greenland, Iceland and the Aleutian Islands; (*hémisphère occidental*)
 
-***World War I*** means the war declared by His Majesty on August 4, 1914 against the Empire of Germany and subsequently against other powers;
+***World War I*** means the war declared by His Majesty on August 4, 1914 against the Empire of Germany and subsequently against other powers; (*Première Guerre mondiale*)
 
-***World War II*** means the war declared by His Majesty on the September 10, 1939 against the German Reich and subsequently against Italy, Finland, Hungary, Rumania and Japan.
+***World War II*** means the war declared by His Majesty on the September 10, 1939 against the German Reich and subsequently against Italy, Finland, Hungary, Rumania and Japan. (*Seconde Guerre mondiale*)
 
 
 **2** 
@@ -2028,5 +2077,7 @@ and who, in the course of that service, performed duties outside of the Western 
 	- **(a)** in respect of service in connection with operations in the European and Mediterranean Theatres of War, on May 8, 1945; and
 	- **(b)** in respect of service in connection with operations in the Pacific Theatre of War, on August 15, 1945.
 
+
+> 2003, c. 22, s. 12 “Sch.”; 2015, c. 5, ss. 11, 12.
 
 
