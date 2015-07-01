@@ -87,8 +87,18 @@ and who resides in an institution, a group foster home, the private home of fost
 
 **Monthly special allowance supplement**
 
-**3.1** If a special allowance is payable under section 3 for a child under the age of six, there shall be added to that special allowance a special allowance supplement in the amount of $100 to be paid out of the Consolidated Revenue Fund.
-> 2006, c. 4, s. 170.
+**3.1** 
+
+- **(1)** There shall be added to a special allowance that is payable under section 3, for a child who, at the beginning of the month for which that allowance is payable,
+	- **(a)** is under six years of age,
+		- **(i)** a special allowance supplement in the amount of $100, in respect of every month before January 1, 2015, or
+		- **(ii)** a special allowance supplement in the amount of $160, in respect of every month as of January 1, 2015; and
+	- **(b)** is six years of age or older, a special allowance supplement in the amount of $60, in respect of every month as of January 1, 2015.
+
+**Payment out of Consolidated Revenue Fund**
+
+- **(2)** The supplement is to be paid out of the Consolidated Revenue Fund.
+> 2006, c. 4, s. 170; 2015, c. 36, s. 38.
 
 
 
@@ -119,8 +129,8 @@ and who resides in an institution, a group foster home, the private home of fost
 	- **(a)** ceases to be maintained by the department, agency or institution;
 	- **(b)** ceases to reside in Canada;
 	- **(c)** dies; or
-	- **(d)** reaches eighteen years of age or, in the case of a special allowance supplement paid under section 3.1, reaches six years of age.
-> 1992, c. 48, s. 23 (Sch., s. 4); 2006, c. 4, s. 171.
+	- **(d)** reaches 18 years of age.
+> 1992, c. 48, s. 23 (Sch., s. 4); 2006, c. 4, s. 171; 2015, c. 36, s. 39.
 
 
 
