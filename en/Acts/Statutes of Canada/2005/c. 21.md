@@ -39,32 +39,32 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The following definitions apply in this Act.
 
-***aggravated by service***, in respect of an injury or a disease, means an injury or a disease that has been aggravated, if the aggravation 
+***aggravated by service***, in respect of an injury or a disease, means an injury or a disease that has been aggravated, if the aggravation
 - **(a)** was attributable to or was incurred during special duty service; or
 - **(b)** arose out of or was directly connected with service in the Canadian Forces.
 
-***Board*** means the Veterans Review and Appeal Board established by section 4 of the [Veterans Review and Appeal Board Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2018.md). 
+***Board*** means the Veterans Review and Appeal Board established by section 4 of the [Veterans Review and Appeal Board Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2018.md).
 
-***Canadian Forces*** means the armed forces referred to in section 14 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), and includes any predecessor naval, army or air forces of Canada or Newfoundland. 
+***Canadian Forces*** means the armed forces referred to in section 14 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), and includes any predecessor naval, army or air forces of Canada or Newfoundland.
 
 ***common-law partner***, in relation to a member or a veteran, means a person who is cohabiting with the member or veteran in a conjugal relationship, having so cohabited for a period of at least one year. 
 
-***compensation*** means any of the following benefits under this Act: an earnings loss benefit, a supplementary retirement benefit, a Canadian Forces income support benefit, a permanent impairment allowance, a disability award, a death benefit, a clothing allowance or a detention benefit. 
+***compensation*** means any of the following benefits under this Act, namely, an earnings loss benefit, a supplementary retirement benefit, a Canadian Forces income support benefit, a permanent impairment allowance, a retirement income security benefit, a critical injury benefit, a disability award, a death benefit, a clothing allowance, a detention benefit or a family caregiver relief benefit.
 
-***dependent child***, in relation to a member or a veteran, means their child, or a child of their spouse or common-law partner who is ordinarily residing in the member’s or veteran’s household, who is
+***dependent child***, in relation to a member or a veteran, means their child, or a child of their spouse or common-law partner who is ordinarily residing in the member’s or veteran’s household, who is 
 - **(a)** under the age of 18 years;
 - **(b)** under the age of 25 years and following a course of instruction approved by the Minister; or
 - **(c)** over the age of 18 years and prevented by physical or mental incapacity from earning a livelihood, if the incapacity occurred
 	- **(i)** before the child attained the age of 18 years, or
 	- **(ii)** after the age of 18 years and before the age of 25 years while the child was following a course of instruction approved by the Minister.
 
-***disability*** means the loss or lessening of the power to will and to do any normal mental or physical act. 
+***disability*** means the loss or lessening of the power to will and to do any normal mental or physical act.
 
-***medical rehabilitation*** includes any physical or psychological treatment whose object is to stabilize and restore the basic physical and psychological functions of a person. 
+***medical rehabilitation*** includes any physical or psychological treatment whose object is to stabilize and restore the basic physical and psychological functions of a person.
 
 ***member*** means an officer or a non-commissioned member of the Canadian Forces, as those terms are defined in subsection 2(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md). 
 
-***Minister*** means the Minister of Veterans Affairs. 
+***Minister*** means the Minister of Veterans Affairs.
 
 ***orphan***, in relation to a deceased member or a deceased veteran, means their child, or a child of their survivor who at the time of the member’s or veteran’s death was ordinarily residing in the member’s or veteran’s household, who is 
 - **(a)** under the age of 18 years;
@@ -73,19 +73,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(i)** before the child attained the age of 18 years, or
 	- **(ii)** after the age of 18 years and before the age of 25 years while the child was following a course of instruction approved by the Minister.
 
-***personal information*** has the same meaning as in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md). 
+***personal information*** has the same meaning as in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md).
 
-Version anglaise seulement***prescribed*** means prescribed by regulation. 
+Version anglaise seulement***prescribed*** means prescribed by regulation.
 
-***psycho-social rehabilitation*** includes any psychological or social intervention whose object is to restore a person to a state of independent functioning and to facilitate their social adjustment. 
+***psycho-social rehabilitation*** includes any psychological or social intervention whose object is to restore a person to a state of independent functioning and to facilitate their social adjustment.
 
-***rehabilitation services*** means all services related to the medical rehabilitation, psycho-social rehabilitation and vocational rehabilitation of a person. 
+***rehabilitation services*** means all services related to the medical rehabilitation, psycho-social rehabilitation and vocational rehabilitation of a person.
 
-***service-related injury or disease*** means an injury or a disease that 
+***service-related injury or disease*** means an injury or a disease that
 - **(a)** was attributable to or was incurred during special duty service; or
 - **(b)** arose out of or was directly connected with service in the Canadian Forces.
 
-***special duty service*** means service as a member in a special duty area designated under section 69, or as a member as part of a special duty operation designated under section 70, during the period in which the designation is in effect. It includes any of the following that occurred during that period but not earlier than September 11, 2001: 
+***special duty service*** means service as a member in a special duty area designated under section 69, or as a member as part of a special duty operation designated under section 70, during the period in which the designation is in effect. It includes any of the following that occurred during that period but not earlier than September 11, 2001:
 - **(a)** periods of training for the express purpose of service in that area or as part of that operation, wherever that training takes place;
 - **(b)** travel to and from the area, the operation or the location of training referred to in paragraph (a); and
 - **(c)** authorized leave of absence with pay during that service, wherever that leave is taken.
@@ -94,11 +94,11 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 - **(a)** their spouse who was, at the time of the member’s or veteran’s death, residing with the member or veteran; or
 - **(b)** the person who was, at the time of the member’s or veteran’s death, the member’s or veteran’s common-law partner.
 
-***veteran*** means a former member. 
+***veteran*** means a former member.
 
-***vocational assistance*** includes employability assessments, career counselling, training, job-search assistance and job-finding assistance, whose object is to help a person to find appropriate employment. 
+***vocational assistance*** includes employability assessments, career counselling, training, job-search assistance and job-finding assistance, whose object is to help a person to find appropriate employment.
 
-***vocational rehabilitation*** includes any process designed to identify and achieve an appropriate occupational goal for a person with a physical or a mental health problem, given their state of health and the extent of their education, skills and experience. 
+***vocational rehabilitation*** includes any process designed to identify and achieve an appropriate occupational goal for a person with a physical or a mental health problem, given their state of health and the extent of their education, skills and experience.
 
 **Couples who are living apart**
 
@@ -120,6 +120,21 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 **Conduct of member or veteran**
 
 - **(5)** This Act does not apply in respect of a member’s or a veteran’s physical or mental health problem, disability or death if it is caused by a wilful self-inflicted injury or improper conduct on the member’s or veteran’s part, including wilful disobedience of an order and vicious or criminal conduct.
+> 2005, c. 21, s. 2; 2015, c. 36, s. 206.
+
+
+
+
+
+## Purpose
+
+
+
+**Purpose**
+
+**2.1** The purpose of this Act is to recognize and fulfil the obligation of the people and Government of Canada to show just and due appreciation to members and veterans for their service to Canada. This obligation includes providing services, assistance and compensation to members and veterans who have been injured or have died as a result of military service and extends to their spouses or common-law partners or survivors and orphans. This Act shall be liberally interpreted so that the recognized obligation may be fulfilled.
+> 2015, c. 36, s. 207.
+
 
 
 
@@ -380,17 +395,15 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **18** 
 
-- **(1)** The Minister may, on application, pay an earnings loss benefit to a veteran if the Minister determines, as a result of an assessment made in accordance with subsection 
-10(1), that a rehabilitation plan or a vocational assistance plan should be developed for the veteran.
+- **(1)** The Minister may, on application, pay an earnings loss benefit to a veteran if the Minister determines, as a result of an assessment made in accordance with subsection 10(1), that a rehabilitation plan or a vocational assistance plan should be developed for the veteran.
 
 **When benefit payable**
 
-- **(2)** The earnings loss benefit begins to be payable on the day on which the Minister determines that a rehabilitation plan or a vocational assistance plan should be developed.
+- **(2)** The earnings loss benefit begins to be payable on the day on which the Minister determines that a rehabilitation plan or a vocational assistance plan should be developed. For greater certainty, if the determination is in respect of a member, the earnings loss benefit is not payable until the day after the day on which the member is released from the Canadian Forces.
 
 **Duration of benefit**
 
-- **(3)** Subject to subsection (4) and section 
-21, the earnings loss benefit is payable to a veteran until the earlier of
+- **(3)** Subject to subsection (4) and section 21, the earnings loss benefit is payable to a veteran until the earlier of
 	- **(a)** the day on which the veteran completes the rehabilitation plan or the vocational assistance plan,
 	- **(b)** the day on which the rehabilitation plan or the vocational assistance plan is cancelled, and
 	- **(c)** the day on which the veteran attains the age of 65 years.
@@ -400,6 +413,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 - **(4)** If the Minister determines that the veteran is unable to engage in suitable gainful employment as a result of being totally and permanently incapacitated by the physical or mental health problem for which the rehabilitation plan was developed, the earnings loss benefit continues to be payable to the veteran after the plan has been completed or cancelled until the earlier of
 	- **(a)** the day on which the Minister determines that the veteran is no longer unable to engage in suitable gainful employment as a result of being totally and permanently incapacitated by that health problem, and
 	- **(b)** the day on which the veteran attains the age of 65 years.
+> 2005, c. 21, s. 18; 2015, c. 36, s. 208.
+
 
 
 
@@ -727,10 +742,11 @@ where
 
 **When allowance payable**
 
-**39** The permanent impairment allowance under subsection 38(2) and an increase to the permanent impairment allowance under subsection 38(3) begin to be payable on the later of
-- **(a)** the day on which the application for the allowance or increase, as the case may be, is made, and
-- **(b)** the day that is one year prior to the day on which the application for the allowance or increase, as the case may be, is approved.
-> 2005, c. 21, s. 39; 2011, c. 12, s. 9.
+**39** The permanent impairment allowance under subsection 38(2) and an increase to the permanent impairment allowance under subsection 38(3) begin to be payable on the latest of
+- **(a)** the day on which the application for the allowance or increase, as the case may be, is made;
+- **(b)** the day that is one year prior to the day on which the application for the allowance or increase, as the case may be, is approved; and
+- **(c)** the day after the day on which the member is released from the Canadian Forces.
+> 2005, c. 21, s. 39; 2011, c. 12, s. 9; 2015, c. 36, s. 209.
 
 
 
@@ -749,6 +765,202 @@ where
 
 
 
+### Retirement Income Security Benefit
+
+
+
+**Eligibility — veteran eligible for earnings loss benefit**
+
+**40.1** 
+
+- **(1)** The Minister may, on application, pay a retirement income security benefit to a veteran who
+	- **(a)** has attained the age of 65 years;
+	- **(b)** on the day before the day on which they attained the age of 65 years, was eligible to continue to receive an earnings loss benefit under subsection 18(4); and
+	- **(c)** is eligible for a disability award under section 45 or a disability pension under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md).
+
+**When benefit payable**
+
+- **(2)** The retirement income security benefit begins to be payable on the later of
+	- **(a)** the day after the day on which the veteran attains the age of 65 years, and
+	- **(b)** the day that is one year before the day on which the Minister determines that the veteran is entitled to the benefit.
+
+**Duration of benefit**
+
+- **(3)** The retirement income security benefit ceases to be payable on the last day of the month in which the veteran dies.
+
+**Amount of benefit**
+
+- **(4)** Subject to the regulations, the monthly amount of the retirement income security benefit that is payable to a veteran shall be determined in accordance with the formula
+```
+(A + B) – C
+```
+where
+- **A** is 70% of the earnings loss benefit to which the veteran would be entitled for the month in which they attain the age of 65 years, calculated as if the benefit were payable for that entire month and not taking into account amounts that are payable to the veteran from prescribed sources referred to in subsection 19(1);
+- **B** is 70% of the permanent impairment allowance, including any increase to it under subsection 38(3), payable to the veteran for the month in which they attain the age of 65 years; and
+- **C** is the total amount that is payable to the veteran for a month from prescribed sources.
+
+**Regulations**
+
+- **(5)** The Governor in Council may make regulations
+	- **(a)** providing for the periodic adjustment of the total value of A and B in subsection (4); and
+	- **(b)** respecting the determination, for the purpose of the value of C in subsection (4), of an amount payable to a veteran for a month.
+> 2015, c. 36, s. 210.
+
+
+
+
+
+**Eligibility — veteran in receipt of long-term disability benefit**
+
+**40.2** 
+
+- **(1)** The Minister may, on application, pay a retirement income security benefit to a veteran who
+	- **(a)** attained the age of 65 years after March 31, 2006 but before the prescribed date;
+	- **(b)** on the day before the day on which they attained the age of 65 years was, as a result of being totally disabled, in receipt of long-term disability benefits under the Service Income Security Insurance Plan Long Term Disability; and
+	- **(c)** is eligible for a disability award under section 45 or a disability pension under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md).
+
+**When benefit payable**
+
+- **(2)** The retirement income security benefit begins to be payable on the later of
+	- **(a)** the day after the day on which the veteran attains the age of 65 years, and
+	- **(b)** the day that is one year before the day on which the Minister determines that the veteran is entitled to the benefit.
+
+**Duration of benefit**
+
+- **(3)** The retirement income security benefit ceases to be payable on the last day of the month in which the veteran dies.
+
+**Amount of benefit**
+
+- **(4)** Subject to the regulations, the monthly amount of the retirement income security benefit that is payable to a veteran shall be determined in accordance with the formula
+```
+(A + B) – C
+```
+where
+- **A** is 70% of the earnings loss benefit to which the veteran would have been entitled, had the veteran applied, for the month in which they attain the age of 65 years, calculated as if the benefit were payable for that entire month and not taking into account amounts that would have been payable to the veteran from prescribed sources referred to in subsection 19(1);
+- **B** is 70% of the permanent impairment allowance, including any increase to it under subsection 38(3), payable to the veteran for the month in which they attain the age of 65 years; and
+- **C** is the total amount that is payable to the veteran for a month from prescribed sources.
+
+**Regulations**
+
+- **(5)** The Governor in Council may make regulations
+	- **(a)** providing for the periodic adjustment of the total value of A and B in subsection (4); and
+	- **(b)** respecting the determination, for the purpose of the value of C in subsection (4), of an amount payable to a veteran for a month.
+> 2015, c. 36, s. 210.
+
+
+
+
+
+**Eligibility — survivor of eligible veteran**
+
+**40.3** 
+
+- **(1)** The Minister may, on application, pay a retirement income security benefit to a veteran’s survivor if the veteran was eligible, or would have been eligible had the veteran applied, for a retirement income security benefit at the time of their death.
+
+**When benefit payable**
+
+- **(2)** The retirement income security benefit begins to be payable on the later of
+	- **(a)** the first day of the month after the month in which the veteran died, and
+	- **(b)** the day that is one year before the day on which the Minister determines that the survivor is entitled to the benefit.
+
+**Duration of benefit**
+
+- **(3)** The retirement income security benefit ceases to be payable on the last day of the month in which the survivor dies.
+
+**Amount of benefit**
+
+- **(4)** Subject to the regulations, the monthly amount of the retirement income security benefit that is payable to a survivor shall be determined in accordance with the formula
+```
+A – B
+```
+where
+- **A** is 50% of the retirement income security benefit to which the veteran would be entitled, or would have been entitled had the veteran applied, for the month in which the veteran dies, not taking into account amounts that are payable to the veteran from prescribed sources referred to in the description of C in subsection 40.1(4) or in the description of C in subsection 40.2(4), as the case may be; and
+- **B** is the total amount payable to the survivor in respect of the veteran for a month from prescribed sources.
+
+**Regulations**
+
+- **(5)** The Governor in Council may make regulations
+	- **(a)** providing for the periodic adjustment of the value of A in subsection (4); and
+	- **(b)** respecting the determination, for the purpose of the value of B in subsection (4), of an amount payable to a survivor for a month.
+> 2015, c. 36, s. 210.
+
+
+
+
+
+**Eligibility — survivor no longer eligible for earnings loss benefit**
+
+**40.4** 
+
+- **(1)** The Minister may, on application, pay a retirement income security benefit to a member’s or a veteran’s survivor who is no longer eligible to receive an earnings loss benefit under subsection 22(3).
+
+**When benefit payable**
+
+- **(2)** The retirement income security benefit begins to be payable on the later of
+	- **(a)** the day after the day on which the member or the veteran would have attained the age of 65 years, and
+	- **(b)** the day that is one year before the day on which the Minister determines that the survivor is entitled to the benefit.
+
+**Duration of benefit**
+
+- **(3)** The retirement income security benefit ceases to be payable on the last day of the month in which the survivor dies.
+
+**Amount of benefit**
+
+- **(4)** Subject to the regulations, the monthly amount of the retirement income security benefit under subsection (1) that is payable to a survivor shall be determined in accordance with the formula
+```
+A/2 – B
+```
+where
+- **A** is 70% of the earnings loss benefit that would be payable under subsection 23(1) for the month in which the member or veteran, if alive, would have attained the age of 65 years, calculated as if the benefit were payable for that entire month and not taking into account amounts that are payable to the survivor in respect of the member or veteran from prescribed sources referred to in subsection 23(3); and
+- **B** is the total amount that is payable to the survivor in respect of the member or veteran for a month from prescribed sources.
+
+**Regulations**
+
+- **(5)** The Governor in Council may make regulations
+	- **(a)** providing for the periodic adjustment of the value of A in subsection (4); and
+	- **(b)** respecting the determination, for the purpose of the value of B in subsection (4), of an amount payable to a survivor for a month.
+> 2015, c. 36, s. 210.
+
+
+
+
+
+**Waiver of application**
+
+**40.5** 
+
+- **(1)** The Minister may waive the requirement for an application for the retirement income security benefit if the Minister is satisfied that the veteran or survivor would be eligible for the benefit if they were to apply for it based on information that has been collected or obtained by the Minister in the exercise of the Minister’s powers or the performance of the Minister’s duties and functions in respect of the earnings loss benefit, permanent impairment allowance or disability award or in respect of the disability pension under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md).
+
+**Notice of intent**
+
+- **(2)** If the Minister intends to waive the requirement for an application, the Minister shall notify the veteran or survivor in writing of that intention.
+
+**Accepting waiver**
+
+- **(3)** If the veteran or survivor accepts the waiver of the requirement for an application, the veteran or survivor shall, within the period specified by the Minister, file with the Minister any information requested by the Minister.
+
+**Declining waiver**
+
+- **(4)** The veteran or the survivor may, within the period specified by the Minister, decline a waiver of the requirement for an application by notifying the Minister in writing of their decision to do so.
+
+**Cancellation of waiver**
+
+- **(5)** Even if the Minister intends to waive the requirement for an application, the Minister may require that the veteran or the survivor make an application for the retirement income security benefit and, in that case, the Minister shall notify the veteran or survivor in writing of that requirement.
+> 2015, c. 36, s. 210.
+
+
+
+
+
+**Suspension or cancellation**
+
+**40.6** The Minister may, in the prescribed circumstances, suspend the payment of a retirement income security benefit or cancel the benefit.
+> 2015, c. 36, s. 210.
+
+
+
+
+
 ### Regulations
 
 
@@ -756,24 +968,21 @@ where
 **Governor in Council**
 
 **41** The Governor in Council may make regulations
-- **(a)** providing for the notification of the Minister, by persons who are in receipt of an earnings loss benefit or a Canadian Forces income support benefit, of any changes in income or benefits, or in an amount payable for a month from a prescribed source for the purposes of subsection 19(1) or 23(3), requiring the provision of statements of estimated income, benefits or amounts payable and providing for the effect of those changes on the calculation of the amount of the compensation payable;
+- **(a)** providing for the notification of the Minister, by persons who are in receipt of an earnings loss benefit, a Canadian Forces income support benefit or a retirement income security benefit, of any changes in income or benefits, or in an amount payable for a month from a prescribed source for the purposes of subsection 19(1), 23(3), 40.1(4), 40.2(4), 40.3(4) or 40.4(4), requiring the provision of statements of estimated income, benefits or amounts payable and providing for the effect of those changes on the calculation of the amount of the compensation payable;
 - **(b)** respecting the determination of what constitutes suitable gainful employment, a barrier to re-establishment in civilian life and total and permanent incapacity;
-- **(c)** defining “base calendar year”, “income” and “payment period” for the purposes of section 
-37;
-- **(d)** providing for the increase of any amount set out in column 2 of Schedule 1 in case of any increase in the amount of a pension or a supplement, as those terms are defined in section 2 of the 
-[Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md), as a result of amendments to that Act;
+- **(c)** defining “base calendar year”, “income” and “payment period” for the purposes of section 37;
+- **(d)** providing for the increase of any amount set out in column 2 of Schedule 1 in case of any increase in the amount of a pension or a supplement, as those terms are defined in section 2 of the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md), as a result of amendments to that Act;
 - **(e)** respecting the payment of expenses arising out of a person’s participation in a rehabilitation plan or a vocational assistance plan;
-- **(f)** defining residence and defining intervals of absence from Canada that shall be deemed not to have interrupted residence in Canada for the purposes of sections 
-33 and 
-34; and
-- **(g)** respecting, for the purposes of section 
-38, what constitutes a permanent and severe impairment, the manner of determining whether a veteran has a permanent and severe impairment and the extent of the permanent and severe impairment.
+- **(f)** defining residence and defining intervals of absence from Canada that shall be deemed not to have interrupted residence in Canada for the purposes of sections 33 and 34; and
+- **(g)** respecting, for the purposes of section 38, what constitutes a permanent and severe impairment, the manner of determining whether a veteran has a permanent and severe impairment and the extent of the permanent and severe impairment.
+> 2005, c. 21, s. 41; 2015, c. 36, s. 211.
+
 
 
 
 
 **PART 3** 
-## Disability, Death and Detention
+## Critical Injury, Disability, Death and Detention
 
 
 
@@ -783,8 +992,9 @@ where
 
 **Non-application of this Part**
 
-**42** This Part does not apply in respect of an injury or a disease, or the aggravation of an injury or a disease, if the injury or disease, or the aggravation, is one for which a pension may be granted under the 
-[Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md).
+**42** This Part, other than sections 44.1 to 44.3, does not apply in respect of an injury or a disease, or the aggravation of an injury or a disease, if the injury or disease, or the aggravation, is one for which a pension may be granted under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md).
+> 2005, c. 21, s. 42; 2015, c. 36, s. 213.
+
 
 
 
@@ -802,6 +1012,68 @@ where
 **Representation of applicant**
 
 **44** In all proceedings under this Part, an applicant may be represented by a service bureau of a veterans’ organization or, at the applicant’s own expense, by any other representative of the applicant’s choice.
+
+
+
+
+### Critical Injury Benefit
+
+
+
+**Eligibility**
+
+**44.1** 
+
+- **(1)** The Minister may, on application, pay a critical injury benefit to a member or veteran who establishes that they sustained one or more severe and traumatic injuries, or developed an acute disease, and that the injury or disease
+	- **(a)** was a service-related injury or disease;
+	- **(b)** was the result of a sudden and single incident that occurred after March 31, 2006; and
+	- **(c)** immediately caused a severe impairment and severe interference in their quality of life.
+
+**Factors to be considered**
+
+- **(2)** In deciding whether the impairment and the interference in the quality of life referred to in paragraph (1)(c) were severe, the Minister shall consider any prescribed factors.
+
+**Regulations**
+
+- **(3)** The Governor in Council may, for the purpose of subsection 44.1(1), make regulations respecting the determination of what constitutes a sudden and single incident.
+> 2015, c. 36, s. 214.
+
+
+
+
+
+**Amount of benefit**
+
+**44.2** The amount of the critical injury benefit that is payable to a member or veteran shall be the amount set out in column 2 of item 2.2 of Schedule 2.
+> 2015, c. 36, s. 214.
+
+
+
+
+
+**Waiver of application**
+
+**44.3** 
+
+- **(1)** The Minister may waive the requirement for an application in subsection 44.1(1) if the Minister is satisfied, based on information that has been collected or obtained by the Minister in the exercise of the Minister’s powers or the performance of the Minister’s duties and functions, including in respect of the disability award or in respect of the disability pension under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md), that the member or veteran is entitled to the critical injury benefit.
+
+**Notice of intent**
+
+- **(2)** If the Minister intends to waive the requirement for an application, the Minister shall notify the member or veteran in writing of that intention.
+
+**Accepting waiver**
+
+- **(3)** If the member or veteran accepts the waiver of the requirement for an application, the member or the veteran shall, within the period specified by the Minister, file with the Minister any information requested by the Minister.
+
+**Declining waiver**
+
+- **(4)** The member or veteran may, within the period specified by the Minister, decline a waiver of the requirement for an application by notifying the Minister in writing of their decision to do so.
+
+**Cancellation of waiver**
+
+- **(5)** Even if the Minister intends to waive the requirement for an application, the Minister may require that the member or veteran make an application for the critical injury benefit and, in that case, the Minister shall notify the member or veteran in writing of that requirement.
+> 2015, c. 36, s. 214.
+
 
 
 
@@ -829,7 +1101,7 @@ where
 
 **46** 
 
-- **(1)** An injury or a disease is deemed to be a service-related injury or disease if the injury or disease is, in whole or in part, a consequence of
+- **(1)** For the purposes of subsection 45(1), an injury or a disease is deemed to be a service-related injury or disease if the injury or disease is, in whole or in part, a consequence of
 	- **(a)** a service-related injury or disease;
 	- **(b)** a non-service-related injury or disease that was aggravated by service;
 	- **(c)** an injury or a disease that is itself a consequence of an injury or a disease described in paragraph (a) or (b); or
@@ -838,6 +1110,8 @@ where
 **Compensable fraction**
 
 - **(2)** If a disability results from an injury or a disease that is deemed to be a service-related injury or disease, a disability award may be paid under subsection 45(1) only in respect of that fraction of the disability, measured in fifths, that represents the extent to which that injury or disease is a consequence of another injury or disease that is, or is deemed to be, a service-related injury or disease.
+> 2005, c. 21, s. 46; 2015, c. 36, s. 215.
+
 
 
 
@@ -1143,7 +1417,9 @@ where
 
 **Governor in Council**
 
-**63** The Governor in Council may make regulations respecting the rules of evidence and evidentiary presumptions relating to applications for a disability award or a death benefit under this Part.
+**63** The Governor in Council may make regulations respecting the rules of evidence and evidentiary presumptions relating to applications for a critical injury benefit, a disability award or a death benefit under this Part.
+> 2005, c. 21, s. 63; 2015, c. 36, s. 216.
+
 
 
 
@@ -1193,6 +1469,67 @@ where
 **Rights of estate or succession**
 
 - **(3)** The testamentary estate or testamentary succession has, in respect of the application referred to in subsection (2), all of the rights that the member or veteran would have had had they lived.
+
+
+
+
+**PART 3.1** 
+## Family Caregiver Relief Benefit
+
+
+
+**Eligibility**
+
+**65.1** 
+
+- **(1)** The Minister may, on application, pay a family caregiver relief benefit to a veteran if
+	- **(a)** they have had an application for a disability award approved under section 45;
+	- **(b)** as a result of the disability for which the application for a disability award was approved, they require ongoing care;
+	- **(c)** a person who is 18 years of age or older plays an essential role in the provision or coordination of the ongoing care in the veteran’s home for which the person receives no remuneration; and
+	- **(d)** the veteran meets the prescribed eligibility requirements.
+
+**Criteria to be considered**
+
+- **(2)** In deciding whether the veteran requires ongoing care, the Minister shall consider only prescribed criteria.
+
+**Factors to be considered**
+
+- **(3)** In deciding whether the person referred to in paragraph (1)(c) plays an essential role in the provision or coordination of the ongoing care in the veteran’s home, the Minister shall consider only prescribed factors.
+
+**Ineligibility**
+
+- **(4)** A veteran who is eligible for an attendance allowance under subsection 38(1) of the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md) is not eligible for a family caregiver relief benefit.
+> 2015, c. 36, s. 217.
+
+
+
+
+
+**Amount of benefit**
+
+**65.2** The annual amount of a family caregiver relief benefit that is payable to a veteran shall be the amount set out in column 2 of item 5 of Schedule 2.
+> 2015, c. 36, s. 217.
+
+
+
+
+
+**Assessment**
+
+**65.3** The Minister may, for the purpose of determining whether a veteran may continue to receive a family caregiver relief benefit, require the veteran to undergo an assessment by a person specified by the Minister.
+> 2015, c. 36, s. 217.
+
+
+
+
+
+**Regulations**
+
+**65.4** The Governor in Council may make regulations
+- **(a)** defining ***care*** for the purposes of paragraphs 65.1(1)(b) and (c) and subsections 65.1(2) and (3); and
+- **(b)** defining ***home*** for the purposes of paragraph 65.1(1)(c) and subsection 65.1(3).
+> 2015, c. 36, s. 217.
+
 
 
 
@@ -1333,6 +1670,28 @@ where
 
 
 
+### Transition to Civilian Life
+
+
+
+**Information and guidance**
+
+**75.1** In order to aid a member or a veteran in their transition to civilian life, the Minister may provide them with information and guidance regarding the services, assistance and compensation for which they may be eligible taking into consideration their particular circumstances.
+> 2015, c. 36, s. 218.
+
+
+
+
+
+**Application from member before transition**
+
+**75.2** The Minister may consider an application for any services, assistance or compensation under this Act from a member, make a decision in respect of the application and conduct any required assessment even though the member may not be eligible for that service, assistance or compensation until they become a veteran.
+> 2015, c. 36, s. 218.
+
+
+
+
+
 ### Procedure
 
 
@@ -1440,9 +1799,11 @@ where
 
 **Social Insurance Number**
 
-**82** The Minister may, for the purpose of determining whether a person has a right to receive an earnings loss benefit or a Canadian Forces income support benefit under this Act,
+**82** The Minister may, for the purpose of determining whether a person is entitled to receive an earnings loss benefit, a Canadian Forces income support benefit or a retirement income security benefit under this Act,
 - **(a)** collect the person’s Social Insurance Number; and
 - **(b)** disclose that person’s Social Insurance Number to any department or agency of the Government of Canada.
+> 2005, c. 21, s. 82; 2015, c. 36, s. 219.
+
 
 
 
@@ -1451,9 +1812,11 @@ where
 
 
 
-**Review of decisions under Part 2**
+**Review of decision under Part 2 or 3.1**
 
-**83** Subject to the regulations, the Minister may, on application or on the Minister’s own motion, review a decision under Part 2 or under this section.
+**83** Subject to the regulations, the Minister may, on application or on the Minister’s own motion, review a decision made under Part 2 or 3.1 or under this section.
+> 2005, c. 21, s. 83; 2015, c. 36, s. 220.
+
 
 
 
@@ -1492,26 +1855,22 @@ where
 
 
 
-**Definition of 
-overpayment**
+**Definition of overpayment**
 
 **88** 
 
-- **(1)** In this section, 
-***overpayment*** means any compensation, or a part of it, that was paid to a person or their estate or succession and to which the person or the estate or succession had no entitlement.
+- **(1)** In this section, ***overpayment*** means any compensation, or a part of it, that was paid to a person or their estate or succession and to which the person or the estate or succession had no entitlement.
 
 **Recovery of overpayment**
 
 - **(2)** If, through any cause, an overpayment is paid to a person or their estate or succession, the overpayment is a debt due to Her Majesty by the person or by their estate or succession, and may be recovered
 	- **(a)** by deduction from any future payments made under this Act to the person or their estate or succession;
-	- **(b)** in accordance with section 155 of the 
-[Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md); or
+	- **(b)** in accordance with section 155 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md); or
 	- **(c)** by proceedings in any court of competent jurisdiction.
 
 **Remission of overpayment**
 
-- **(3)** If a person or their estate or succession has received or obtained an overpayment, the Minister may, unless that person or the executor of the estate or the liquidator of the succession has been convicted of an offence under the 
-[Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) in connection with the receiving or obtaining of the overpayment, remit all or any portion of the overpayment if the Minister is satisfied that
+- **(3)** If a person or their estate or succession has received or obtained an overpayment, the Minister may, unless that person or the executor of the estate or the liquidator of the succession has been convicted of an offence under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) in connection with the receiving or obtaining of the overpayment, remit all or any portion of the overpayment if the Minister is satisfied that
 	- **(a)** the overpayment cannot be recovered within the reasonably foreseeable future;
 	- **(b)** the administrative costs of recovering the overpayment are likely to equal or exceed the amount to be recovered;
 	- **(c)** the repayment of the overpayment would cause undue hardship to the person or a beneficiary; or
@@ -1519,7 +1878,7 @@ overpayment**
 
 **Erroneous payments of benefits or allowances**
 
-- **(4)** Despite anything in this Act, the Minister may continue the payment of an earnings loss benefit, a Canadian Forces income support benefit, a permanent impairment allowance or a clothing allowance, in whole or in part, to a person who is not entitled to it, or not entitled to a portion of it, if
+- **(4)** Despite anything in this Act, the Minister may continue the payment of an earnings loss benefit, a Canadian Forces income support benefit, a permanent impairment allowance, a retirement income security benefit, a clothing allowance or a family caregiver relief benefit, in whole or in part, to a person who is not entitled to it, or not entitled to a portion of it, if
 	- **(a)** the amount paid to the person to which the person was not entitled is the result of an administrative error, a delay or an oversight on the part of an officer or employee of the federal public administration and has been remitted under paragraph (3)(d);
 	- **(b)** no part of the amount paid to the person to which the person was not entitled was the result of a misrepresentation or of concealment of a material fact on the part of the person, in the opinion of the Minister;
 	- **(c)** the cancellation or reduction of the benefit or allowance would, in the opinion of the Minister, cause undue hardship to the person; and
@@ -1528,6 +1887,8 @@ overpayment**
 **Recovery of overpayments**
 
 - **(5)** If a person retains any amount of a member’s or a veteran’s compensation paid after the member’s or veteran’s death and to which the member or veteran was not entitled, that amount may be deducted from any compensation paid to that person.
+> 2005, c. 21, s. 88; 2015, c. 36, s. 221.
+
 
 
 
@@ -1604,9 +1965,9 @@ overpayment**
 - **(b)** respecting the time and manner of payment of compensation under this Act;
 - **(c)** providing for the periodic adjustment of the amounts set out in Schedules 1 to 3;
 - **(d)** providing for the payment or the reimbursement of fees for financial advice;
-- **(e)** respecting the provision of information or documents to the Minister by persons who are in receipt of career transition services, rehabilitation services, vocational assistance, an earnings loss benefit, a Canadian Forces income support benefit, a permanent impairment allowance or a clothing allowance under this Act, and authorizing the Minister to suspend delivery of the services or assistance or payment of the benefit or allowance until the information or documents are provided;
+- **(e)** respecting the provision of any information, declaration or document to the Minister by any person who applies for or is in receipt of career transition services, rehabilitation services, vocational assistance, an earnings loss benefit, a Canadian Forces income support benefit, a permanent impairment allowance, a retirement income security benefit, a clothing allowance or a family caregiver relief benefit under this Act, and authorizing the Minister to suspend delivery of the services or assistance or payment of the benefit or allowance until the information, declaration or document is provided;
 - **(f)** respecting the procedure to be followed by the Minister in suspending or cancelling rehabilitation services, vocational assistance or payment of compensation;
-- **(g)** providing for a review of any decisions made under Part 2 and under section 83, including the grounds for review, the powers on review and the number of reviews;
+- **(g)** providing for a review of any decisions made under Part 2 or 3.1 or under section 83, including the grounds for review, the powers on review and the number of reviews;
 - **(h)** respecting the time and manner of making an application for a review under sections 83 and 84;
 - **(i)** respecting the processes and procedures to be followed by the Minister in making decisions under this Act;
 - **(i.1)** respecting the determination of an amount of interest for the purposes of the description of C in paragraph 52.1(1)(b);
@@ -1614,7 +1975,16 @@ overpayment**
 - **(j)** prescribing any matter required or authorized by this Act to be prescribed;
 - **(j.1)** prescribing the way in which anything that is required or authorized by this Act to be prescribed is to be determined; and
 - **(k)** generally, for carrying out the purposes and provisions of this Act.
-> 2005, c. 21, s. 94; 2011, c. 12, s. 17.
+> 2005, c. 21, s. 94; 2011, c. 12, s. 17; 2015, c. 36, s. 222.
+
+
+
+
+
+**Retroactive application of regulations**
+
+**94.1** Regulations made in respect of the retirement income security benefit and the family caregiver relief benefit under subsections 40.1(5), 40.2(5), 40.3(5) and 40.4(5) and sections 41, 65.4 and 94 may, if they so provide, be retroactive.
+> 2015, c. 36, s. 223.
 
 
 
@@ -1839,9 +2209,9 @@ overpayment**
 
 
 ### **SCHEDULE 2** 
-**(Subsections 38(2) and (3) and 58(1), section 61, paragraph 94(c) and subsection 98(2))**
-#### ALLOWANCES AND BENEFITS
+**(Subsections 38(2) and (3), section 44.2, subsection 58(1), sections 61 and 65.2, paragraph 94(c) and subsection 98(2))**
 <table>
+<h4>Allowances and Benefits</h4>
 <tr>
 <th></th>
 <th>Column 1</th>
@@ -1868,6 +2238,11 @@ overpayment**
 <td>12,000.00 (yearly)</td>
 </tr>
 <tr>
+<td>2.2</td>
+<td>Critical injury benefit</td>
+<td>70,000.00 (lump sum)</td>
+</tr>
+<tr>
 <td>3</td>
 <td>Death benefit</td>
 <td>250,000.00 (lump sum)</td>
@@ -1877,9 +2252,14 @@ overpayment**
 <td>Clothing allowance</td>
 <td>1,823.88 (yearly)</td>
 </tr>
+<tr>
+<td>5</td>
+<td>Family caregiver relief benefit</td>
+<td>7,238.00 (yearly)</td>
+</tr>
 </table>
 
-> 2005, c. 21, Sch. 2; 2011, c. 12, ss. 18, 19.
+> 2005, c. 21, Sch. 2; 2011, c. 12, ss. 18, 19; 2015, c. 36, ss. 224, 225.
 
 
 
