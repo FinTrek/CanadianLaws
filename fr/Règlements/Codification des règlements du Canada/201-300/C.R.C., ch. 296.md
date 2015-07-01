@@ -2989,37 +2989,37 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 ***administrateur***[Abrogée, DORS/2014-23, art. 3]
 
-***administrateur responsable*** Personne autorisée par le ministre à recevoir des renseignements relatifs aux animaux ou aux choses visés par la loi ou ses règlements, nommée sur le site Web de l’Agence, et qui administre un programme d’identification national visant tout ou partie d’un ou de plusieurs genres, espèces ou sous-espèces d’animaux situés dans une ou plusieurs provinces. (*responsible administrator*)
+***administrateur responsable*** Personne autorisée par le ministre à recevoir des renseignements relatifs aux animaux ou aux choses visés par la loi ou ses règlements, nommée sur le site Web de l’Agence, et qui administre un programme d’identification national visant tout ou partie d’un ou de plusieurs genres, espèces ou sous-espèces d’animaux situés dans une ou plusieurs provinces. (*responsible administrator*)
 
-***animal*** Bison, bovin, ovin ou porc. (*animal*)
+***animal*** Bison, bovin, ovin ou porc. (*animal*)
 
-***bison*** Animal, autre qu’un embryon ou un oeuf fécondé, des sous-espèces *Bison bison bison*, *Bison bison anthabascae* ou *Bison bison bonasus*. (*bison*)
+***bison*** Animal, autre qu’un embryon ou un oeuf fécondé, des sous-espèces *Bison bison bison*, *Bison bison anthabascae* ou *Bison bison bonasus*. (*bison*)
 
-***bovin*** Animal, autre qu’un embryon ou un oeuf fécondé, des espèces *Bos taurus* ou *Bos indicus*. (*bovine*)
+***bovin*** Animal, autre qu’un embryon ou un oeuf fécondé, des espèces *Bos taurus* ou *Bos indicus*. (*bovine*)
 
-***distributeur*** Personne morale ou physique, société de personnes, coopérative, association ou organisme qui vend ou distribue des étiquettes approuvées. (*distributor*)
+***distributeur*** Personne morale ou physique, société de personnes, coopérative, association ou organisme qui vend ou distribue des étiquettes approuvées. (*distributor*)
 
-***étiquette approuvée*** Étiquette, puce ou autre indicateur approuvé par le ministre aux termes du paragraphe 173(1) et figurant sur le site Web de l’Agence. (*approved tag*)
+***étiquette approuvée*** Étiquette, puce ou autre indicateur approuvé par le ministre aux termes du paragraphe 173(1) et figurant sur le site Web de l’Agence. (*approved tag*)
 
-***ferme*** S’entend de tout terrain ou de tout bâtiment ou autre ouvrage érigé sur un terrain, qui est sous une seule direction, et qui sert à la sélection ou à l’élevage des animaux à l’exclusion d’un centre d’insémination artificielle. (*farm*)
+***ferme*** S’entend de tout terrain ou de tout bâtiment ou autre ouvrage érigé sur un terrain, qui est sous une seule direction, et qui sert à la sélection ou à l’élevage des animaux à l’exclusion d’un centre d’insémination artificielle. (*farm*)
 
-***ferme d’origine*** Ferme où est né un animal ou première ferme où il a été expédié après sa naissance s’il est né ailleurs que dans une ferme. (*farm of origin*)
+***ferme d’origine*** Ferme où est né un animal ou première ferme où il a été expédié après sa naissance s’il est né ailleurs que dans une ferme. (*farm of origin*)
 
 ***ferme ou ranch***[Abrogée, DORS/2014-23, art. 3]
 
-***installation*** Endroit où l’on rassemble ou garde des animaux ou des carcasses d’animaux, à l’exclusion des véhicules. (*site*)
+***installation*** Endroit où l’on rassemble ou garde des animaux ou des carcasses d’animaux, à l’exclusion des véhicules. (*site*)
 
-***organisme de gestion d’un système d’identification des animaux*** Personne morale ou physique, société de personnes, coopérative, association ou organisme qui gère, en vertu d’une loi provinciale, un système d’identification des animaux. (*organization that manages an animal identification system*)
+***organisme de gestion d’un système d’identification des animaux*** Personne morale ou physique, société de personnes, coopérative, association ou organisme qui gère, en vertu d’une loi provinciale, un système d’identification des animaux. (*organization that manages an animal identification system*)
 
-***ovin*** Animal, autre qu’un embryon ou un oeuf fécondé, du genre *Ovis*. (*ovine*)
+***ovin*** Animal, autre qu’un embryon ou un oeuf fécondé, du genre *Ovis*. (*ovine*)
 
-***porc*** Animal, autre qu’un embryon ou un oeuf fécondé, de l’espèce *domestica* ou *scrofa domestica* du genre *Sus*. (*pig*)
+***porc*** Animal, autre qu’un embryon ou un oeuf fécondé, du genre *Sus*. (*pig*)
 
-***sailli*** Animal inséminé naturellement ou artificiellement ou ayant fourni de la semence, un ovaire ou un embryon à des fins de reproduction. (*bred*)
+***sailli*** Animal inséminé naturellement ou artificiellement ou ayant fourni de la semence, un ovaire ou un embryon à des fins de reproduction. (*bred*)
 
-***tatouage au marteau approuvé*** Tatouage au marteau portant un numéro d’identification attribué par l’administrateur responsable à une installation en vertu de l’alinéa 174(2)a). (*approved slap tattoo*)
+***tatouage au marteau approuvé*** Tatouage au marteau portant un numéro d’identification attribué par l’administrateur responsable à une installation en vertu de l’alinéa 174(2)a). (*approved slap tattoo*)
 
-- **(2)** Pour l’application de la présente partie, à l’exception du paragraphe 175.1(2), de l’alinéa 186(1)a) et du paragraphe 186(2), la mention d’une carcasse ou d’une partie de carcasse d’animal ne vise pas la partie de carcasse destinée à la consommation humaine.
+- **(2)** Pour l’application de la présente partie, à l’exception du paragraphe 175.1(2), de l’alinéa 186(1)a) et du paragraphe 186(2), la mention d’une carcasse ou d’une partie de carcasse d’animal ne vise pas la partie de carcasse destinée à la consommation humaine.
 > DORS/2000-416, art. 1; DORS/2003-409, art. 1; DORS/2005-192, art. 1; DORS/2014-23, art. 3.
 
 
