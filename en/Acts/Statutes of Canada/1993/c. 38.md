@@ -668,7 +668,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Questions of fact**
 
-- **(3)** The Commission may determine in any case, as a question of fact, whether a Canadian carrier has complied with this section or section 25, 27.1 or 29, or with any decision made under section 24, 25, 29, 34 or 40.
+- **(3)** The Commission may determine in any case, as a question of fact, whether a Canadian carrier has complied with this section or section 25 or 29, or with any decision made under section 24, 25, 29, 34 or 40.
 
 **Burden of proof**
 
@@ -692,48 +692,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ### Roaming
 
 
-
-**Roaming cap  —  wireless voice calls**
-
-**27.1** 
-
-- **(1)** The amount charged during a year by a Canadian carrier to a second Canadian carrier for roaming services with respect to the transmission of all domestic wireless voice calls and the domestic portion of all international wireless voice calls shall not exceed the amount determined by the formula
-```
-A/B
-```
-where
-- **A** is the first Canadian carrier’s total retail revenues from the provision of wireless voice call services to its Canadian subscribers, for calls both originating and terminating in Canada, for the preceding year; and
-- **B** is the number of minutes provided for those calls for the preceding year.
-
-**Roaming cap  —  wireless data**
-
-- **(2)** The amount charged during a year by a Canadian carrier to a second Canadian carrier for roaming services with respect to the transmission of wireless data in Canada shall not exceed the amount determined by the formula
-```
-A/B
-```
-where
-- **A** is the first Canadian carrier’s total retail revenues from the provision of wireless data services in Canada to its Canadian subscribers for the preceding year; and
-- **B** is the number of megabytes provided for those data services for the preceding year.
-
-**Roaming cap  —  text messages**
-
-- **(3)** The amount charged during a year by a Canadian carrier to a second Canadian carrier for roaming services with respect to the transmission of all domestic wireless text messages and the domestic portion of all international wireless text messages shall not exceed the amount determined by the formula
-```
-A/B
-```
-where
-- **A** is the first Canadian carrier’s total retail revenues from the provision of wireless text message services to its Canadian subscribers, for text messages both originating and terminating in Canada, for the preceding year; and
-- **B** is the number of those text messages for the preceding year.
-
-**No additional charge**
-
-- **(4)** The Canadian carrier shall not charge the second Canadian carrier any other amount in relation to the provision of the roaming services referred to in subsections (1) to (3).
-
-**Inconsistency**
-
-- **(5)** The amount established by the Commission that a Canadian carrier can charge to a second Canadian carrier for roaming services prevails over an amount determined under any of subsections (1) to (3) to the extent of any inconsistency.
-> 2014, c. 20, s. 240.
-
+**27.1** [Repealed, 2014, c. 20, s. 240]
 
 
 
