@@ -608,6 +608,7 @@ the other employer shall be deemed to be a corporation associated with the parti
 - **(2)** Every person who makes a payment as or on account of, or who confers a benefit or allocates an amount that is,
 	- **(a)** a scholarship, fellowship or bursary, or a prize for achievement in a field of endeavour ordinarily carried on by the recipient thereof (other than a prize prescribed by section 7700),
 	- **(b)** a grant to enable the recipient thereof to carry on research or any similar work,
+	- **(b.1)** an amount that is required by paragraph 56(1)(n.1) of the Act to be included in computing a taxpayer’s income,
 	- **(c)** an amount that is required by paragraph 56(1)(r) of the Act to be included in computing a taxpayer’s income,
 	- **(d)** a benefit under regulations made under an appropriation Act providing for a scheme of transitional assistance benefits to persons employed in the production of products to which the Canada-United States Agreement on Automotive Products, signed on January 16, 1965, applies,
 	- **(e)** a benefit described in section 5502,
@@ -627,7 +628,9 @@ shall make an information return in prescribed form in respect of such payment o
 - **(4)** Where a benefit is included in computing the income of a shareholder of a corporation by virtue of subsection 15(5) of the Act in respect of an automobile made available to the shareholder or to a person related to the shareholder by a person related to the corporation, the corporation shall make an information return in prescribed form in respect of the benefit.
 
 - **(5)** Where a particular qualifying person (within the meaning assigned by subsection 7(7) of the Act) has agreed to sell or issue a security (within the meaning assigned by that subsection) of the particular qualifying person (or of a qualifying person with which it does not deal at arm’s length) to a taxpayer who is an employee of the particular qualifying person (or of a qualifying person with which it does not deal at arm’s length) and the taxpayer has acquired the security under the agreement in circumstances to which subsection 7(8) of the Act applied, each of the particular qualifying person, the qualifying person of which the security is acquired and the qualifying person which is the taxpayer’s employer shall, for the particular taxation year in which the security is acquired, make an information return in the prescribed form in respect of the benefit from employment that the taxpayer would be deemed to have received in the particular taxation year in respect of the acquisition of the security if the Act were read without reference to subsection 7(8) and, for this purpose, an information return made by one of the qualifying persons in respect of the taxpayer’s acquisition of the security is deemed to have been made by each of the qualifying persons.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-909, s. 1; SOR/79-939, s. 1; SOR/81-936, s. 1; SOR/83-866, s. 1; SOR/83-867, s. 1; SOR/88-165, s. 31(F); SOR/89-473, s. 1; SOR/94-686, s. 79(F); SOR/95-298, s. 2; SOR/99-17, s. 6; SOR/99-22, s. 3; SOR/2003-5, s. 1; SOR/2003-328, s. 1; SOR/2011-188, s. 1(F).
+
+- **(6)** Every person who makes a payment as or on account of an amount that is required by subsection 56(6) of the Act to be included in computing a taxpayer’s income shall make an information return in prescribed form in respect of that payment.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-909, s. 1; SOR/79-939, s. 1; SOR/81-936, s. 1; SOR/83-866, s. 1; SOR/83-867, s. 1; SOR/88-165, s. 31(F); SOR/89-473, s. 1; SOR/94-686, s. 79(F); SOR/95-298, s. 2; SOR/99-17, s. 6; SOR/99-22, s. 3; SOR/2003-5, s. 1; SOR/2003-328, s. 1; SOR/2011-188, s. 1(F); SOR/2015-170, s. 1.
 
 
 
@@ -822,6 +825,14 @@ shall, in addition to any other return required by the Act or these Regulations,
 <td>T1204</td>
 </tr>
 <tr>
+<td>International Electronic Funds Transfer Report</td>
+<td></td>
+</tr>
+<tr>
+<td>International Exchange of Information on Financial Accounts Information Return (Part XVIII of the Act)</td>
+<td></td>
+</tr>
+<tr>
 <td>Past Service Pension Adjustment (PSPA) Exempt from Certification</td>
 <td>T215</td>
 </tr>
@@ -915,7 +926,7 @@ shall, in addition to any other return required by the Act or these Regulations,
 </tr>
 </table>
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2013-199, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2013-199, s. 1; SOR/2015-170, s. 2.
 
 
 
@@ -11110,9 +11121,12 @@ is of
 - **(b)** the distribution by Orckit Communications Ltd., on June 30, 2000, of shares of Tioga Technologies Ltd;
 - **(c)** the distribution by Electrolux AB, on June 12, 2006, of shares of Husqvarna AB;
 - **(d)** the distribution by Fiat S.p.A., on January 1, 2011 to its common shareholders, of common shares of Fiat Industrial S.p.A;
-- **(e)** the distribution by Foster’s Group Limited, on May 9, 2011 to its common shareholders, of common shares of Treasury Wine Estates Limited; and
-- **(f)** the distribution by Telecom Corporation of New Zealand Limited, on November 30, 2011 to its common shareholders, of common shares of Chorus Limited.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 48; SOR/2004-82, s. 2; SOR/2011-188, s. 22; 2013, c. 40, s. 111.
+- **(e)** the distribution by Foster’s Group Limited, on May 9, 2011 to its common shareholders, of common shares of Treasury Wine Estates Limited;
+- **(f)** the distribution by Telecom Corporation of New Zealand Limited, on November 30, 2011 to its common shareholders, of common shares of Chorus Limited;
+- **(g)** the distribution by Tyco International Ltd. of Switzerland, on September 28, 2012 to its common shareholders, of common shares of Pentair Ltd. of Switzerland;
+- **(h)** the distribution by Siemens AG, on July 5, 2013 to its common shareholders, of common shares of OSRAM Licht AG; and
+- **(i)** the distribution by Brambles Limited, on December 18, 2013 to its common shareholders, of common shares of Recall Holdings Limited.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 48; SOR/2004-82, s. 2; SOR/2011-188, s. 22; 2013, c. 40, s. 111; SOR/2015-170, s. 3.
 
 
 
@@ -51410,7 +51424,6 @@ by
 - Arizona State University, Tempe, Arizona
 - Asbury Theological Seminary, Wilmore, Kentucky
 - Atlantic Union College, South Lancaster, Massachusetts
-- Augsburg College, Minneapolis, Minnesota
 - Aurora University, Aurora, Illinois
 - Azusa Pacific College, Azusa, California
 - Babson College, Babson Park, Massachusetts
@@ -51421,18 +51434,12 @@ by
 - Bates College, Lewiston, Maine
 - Baylor College of Medicine, Houston, Texas
 - Baylor University, Waco, Texas
-- Beloit College, Beloit, Wisconsin
 - Bemidji State University, Bemidji, Minnesota
-- Bennington College, Bennington, Vermont
 - Bentley College, Waltham, Massachusetts
 - Berklee College of Music, Boston, Massachusetts
 - Beth Medrash Govoha, Lakewood, New Jersey
-- Bethel College, Mishawaka, Indiana
-- Bethel College, North Newton, Kansas
-- Bethel College and Seminary, St. Paul, Minnesota
 - Biola University, La Mirada, California
 - Bob Jones University, Greenville, South Carolina
-- Boston College, Chestnut Hill, Massachusetts
 - Boston University, Boston, Massachusetts
 - Bowdoin College, Brunswick, Maine
 - Bowling Green State University, Bowling Green, Ohio
