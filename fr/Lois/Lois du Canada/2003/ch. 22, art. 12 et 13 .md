@@ -413,7 +413,7 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 **Règlements**
 
 - **(2)** La Commission peut par règlement, sans préjudice de la portée générale du paragraphe (1) :
-	- **a)** prévoir pour toute personne ou catégorie de personnes le droit à une priorité de nomination absolue — après les priorités prévues à l’article 40 et aux paragraphes 41(1) et (4) — à un poste pour lequel, selon elle, la ou les personnes possèdent les qualifications essentielles visées à l’alinéa 30(2)a), et la durée de ce droit;
+	- **a)** prévoir pour toute personne ou catégorie de personnes le droit à une priorité de nomination absolue — après les priorités prévues aux articles 39.1 et 40 et aux paragraphes 41(1) et (4) — à un poste pour lequel, selon elle, la ou les personnes possèdent les qualifications essentielles visées à l’alinéa 30(2)a), et la durée de ce droit;
 	- **b)** déterminer l’ordre des droits à une priorité de nomination prévus en vertu de l’alinéa a);
 	- **c)** régir les nominations intérimaires, prévoir la durée maximale de ces nominations ou d’une catégorie de celles-ci ou les soustraire à l’application de tout ou partie de la présente loi;
 	- **d)** afin de faciliter la mise en oeuvre de programmes d’équité en matière d’emploi établis par l’employeur ou les administrateurs généraux, régir la nomination interne ou externe de personnes provenant de groupes désignés au sens de l’article 3 de la [Loi sur l’équité en matière d’emploi](/fr/Lois/Lois%20du%20Canada/1995/ch.%2044.md), ou soustraire ces personnes ou des groupes de telles personnes à l’application de tout ou partie de la présente loi;
@@ -423,7 +423,7 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 	- **h)** fixer les modalités et les délais relatifs aux allégations, et les modalités relatives à la conduite des enquêtes, visées par la partie 7;
 	- **i)** prévoir, pour l’application de l’article 64, les modalités relatives aux mises en disponibilité et la façon de choisir les fonctionnaires qui seront mis en disponibilité;
 	- **j)** prévoir les circonstances pour l’application de l’article 50.2.
-> 2003, ch. 22, art. 12 « 22 »; 2006, ch. 9, art. 100; 2013, ch. 18, art. 59.
+> 2003, ch. 22, art. 12 « 22 »; 2006, ch. 9, art. 100; 2013, ch. 18, art. 59; 2015, ch. 5, art. 2.
 
 
 
@@ -637,9 +637,13 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 
 **35.1** 
 
-- **(1)** Le militaire des Forces canadiennes :
-	- **a)** peut participer à un processus de nomination interne annoncé pour lequel le critère organisationnel fixé en vertu de l’article 34 vise les militaires, pourvu qu’il satisfasse aux autres critères fixés, le cas échéant, en vertu de l’article 34;
+- **(1)** Le militaire des Forces canadiennes qui cumule au moins trois ans de service et qui n’est pas employé dans la fonction publique pour une durée indéterminée :
+	- **a)** peut participer à un processus de nomination interne annoncé;
 	- **b)** a le droit de présenter une plainte en vertu de l’article 77.
+
+**Exceptions**
+
+- **(1.1)** Pour l’application de l’alinéa (1)a), si des critères concernant l’appartenance à un groupe désigné au sens de l’article 3 de la [Loi sur l’équité en matière d’emploi](/fr/Lois/Lois%20du%20Canada/1995/ch.%2044.md) sont fixés en vertu de l’article 34, le militaire doit y satisfaire.
 
 **Présomption**
 
@@ -648,7 +652,28 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 **Définition de militaire**
 
 - **(3)** Au présent article, ***militaire*** s’entend de la personne qui est enrôlée dans les Forces canadiennes.
-> 2005, ch. 21, art. 115.
+> 2005, ch. 21, art. 115; 2015, ch. 5, art. 3.
+
+
+
+
+
+**Mobilité — ancien militaire des Forces canadiennes**
+
+**35.11** 
+
+- **(1)** La personne qui n’est pas enrôlée dans les Forces canadiennes, qui a servi au moins trois ans dans ces forces, qui a été libérée honorablement au sens des règlements pris au titre de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et qui n’est pas employée dans la fonction publique pour une durée indéterminée :
+	- **a)** peut participer, pendant une période de cinq ans après la date de sa libération, à un processus de nomination interne annoncé;
+	- **b)** a le droit de présenter une plainte en vertu de l’article 77.
+
+**Présomption**
+
+- **(2)** La personne qui participe au processus visé au paragraphe (1) est, dans le cadre du processus, réputée appartenir à la fonction publique.
+
+**Exceptions**
+
+- **(3)** Pour l’application de l’alinéa (1)a), si des critères concernant l’appartenance à un groupe désigné au sens de l’article 3 de la [Loi sur l’équité en matière d’emploi](/fr/Lois/Lois%20du%20Canada/1995/ch.%2044.md) sont fixés en vertu de l’article 34, la personne doit y satisfaire.
+> 2015, ch. 5, art. 4.
 
 
 
@@ -698,8 +723,8 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 
 **Exceptions au mérite**
 
-**38** L’alinéa 30(2)b) ne s’applique pas dans le cas où la nomination est faite en vertu du paragraphe 15(6) (nomination à un autre poste en cas de révocation par l’administrateur général), de l’article 40 (priorités — fonctionnaires excédentaires), des paragraphes 41(1) ou (4) (autres priorités) ou des articles 73 (nomination à un autre poste en cas de révocation par la Commission) ou 86 (nomination à un autre poste suivant l’ordonnance de la Commission des relations de travail et de l’emploi ), ou des règlements pris en vertu de l’alinéa 22(2)a).
-> 2003, ch. 22, art. 12 « 38 »; 2006, ch. 9, art. 102; 2013, ch. 40, art. 414.
+**38** L’alinéa 30(2)b) ne s’applique pas dans le cas où la nomination est faite en vertu du paragraphe 15(6) (nomination à un autre poste en cas de révocation par l’administrateur général), de l’article 39.1 (priorité — militaire des Forces canadiennes), de l’article 40 (priorités — fonctionnaires excédentaires), des paragraphes 41(1) ou (4) (autres priorités), des articles 73 (nomination à un autre poste en cas de révocation par la Commission) ou 86 (nomination à un autre poste suivant l’ordonnance de la Commission des relations de travail et de l’emploi) ou des règlements pris en vertu de l’alinéa 22(2)a).
+> 2003, ch. 22, art. 12 « 38 »; 2006, ch. 9, art. 102; 2013, ch. 40, art. 414; 2015, ch. 5, art. 5 et 14.
 
 
 
@@ -713,7 +738,7 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 
 **39** 
 
-- **(1)** Dans le cadre d’un processus de nomination externe annoncé, les personnes ci-après sont, sous réserve des priorités établies en vertu de l’alinéa 22(2)a) ou des articles 40 et 41, nommées avant les autres candidats, dans l’ordre suivant, pourvu que, selon la Commission, elles possèdent les qualifications essentielles visées à l’alinéa 30(2)a) :
+- **(1)** Dans le cadre d’un processus de nomination externe annoncé, les personnes ci-après sont, sous réserve des priorités établies en vertu de l’alinéa 22(2)a) ou des articles 39.1, 40 et 41, nommées avant les autres candidats, dans l’ordre indiqué, pourvu que, selon la Commission, elles possèdent les qualifications essentielles visées à l’alinéa 30(2)a) :
 	- **a)** les pensionnés de guerre, au sens de l’annexe;
 	- **b)** les anciens combattants, au sens de l’annexe, ou les survivants des anciens combattants, au sens de l’annexe;
 	- **c)** les citoyens canadiens au sens de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md), dans les cas où une personne qui n’est pas citoyen canadien est aussi candidat.
@@ -721,6 +746,27 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 **Application du principe du mérite**
 
 - **(2)** Si plusieurs candidats visés à l’un des alinéas (1)a) à c) possèdent, selon la Commission, les qualifications essentielles visées à l’alinéa 30(2)a), l’alinéa 30(2)b) s’applique à la sélection.
+
+**Limite de cinq ans**
+
+- **(3)** Dans le cas de l’ancien combattant visé à l’alinéa f) de la définition de ***ancien combattant***, à l’annexe, l’ordre établi au paragraphe (1) est valide pour la période de cinq ans suivant la date de libération de l’ancien combattant.
+> 2003, ch. 22, art. 12 « 39 »; 2015, ch. 5, art. 6.
+
+
+
+
+
+**Priorité — militaire des Forces canadiennes**
+
+**39.1** 
+
+- **(1)** Malgré les articles 40 et 41, la personne qui, d’une part, a été libérée des Forces canadiennes pour des raisons médicales attribuables, selon la décision du ministre des Anciens Combattants, au service et qui, d’autre part, appartient à une catégorie déterminée par la Commission a droit, si elle satisfait aux conditions établies par la Commission, à une priorité de nomination absolue pendant la période fixée par la Commission.
+
+**Qualifications essentielles**
+
+- **(2)** La personne a une priorité de nomination à tout poste pour lequel, selon la Commission, elle possède les qualifications essentielles visées à l’alinéa 30(2)a).
+> 2015, ch. 5, art. 7.
+
 
 
 
@@ -783,7 +829,9 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 
 **Exclusion de la priorité**
 
-**43** Malgré les articles 40 et 41 et les règlements pris en vertu de l’alinéa 22(2)a), la Commission peut, lorsqu’elle est d’avis que la nomination d’une personne qui a droit à une priorité de nomination en vertu de l’une de ces dispositions aurait pour effet d’accorder à une autre personne le droit à une priorité de nomination, décider de ne pas appliquer cette disposition dans ce cas.
+**43** Malgré les articles 39.1, 40 et 41 et les règlements pris en vertu de l’alinéa 22(2)a), la Commission peut, lorsqu’elle est d’avis que la nomination d’une personne qui a droit à une priorité de nomination en vertu de l’une de ces dispositions aurait pour effet d’accorder à une autre personne le droit à une priorité de nomination, décider de ne pas appliquer cette disposition dans ce cas.
+> 2003, ch. 22, art. 12 « 43 »; 2015, ch. 5, art. 8.
+
 
 
 
@@ -949,8 +997,8 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 
 **Non-application des droits de priorité**
 
-- **(2)** L’administrateur général peut procéder à des mutations sans égard aux droits de nomination prévus aux paragraphes 41(1) et (4) ou aux règlements pris en vertu de l’alinéa 22(2)a).
-> 2003, ch. 22, art. 12 « 53 »; 2006, ch. 9, art. 104.
+- **(2)** L’administrateur général peut procéder à des mutations sans égard aux droits de nomination prévus à l’article 39.1, aux paragraphes 41(1) et (4) ou aux règlements pris en vertu de l’alinéa 22(2)a).
+> 2003, ch. 22, art. 12 « 53 »; 2006, ch. 9, art. 104; 2015, ch. 5, art. 9.
 
 
 
@@ -1388,8 +1436,8 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 
 **Absence du droit de présenter une plainte**
 
-**87** Aucune plainte ne peut être présentée en vertu de l’article 77 dans le cas où la nomination est faite en vertu du paragraphe 15(6) (nomination à un autre poste en cas de révocation par l’administrateur général), de l’article 40 (priorités — fonctionnaires excédentaires), des paragraphes 41(1) ou (4) (autres priorités), des articles 73 (nomination à un autre poste en cas de révocation par la Commission) ou 86 (nomination à un autre poste suivant l’ordonnance de la Commission des relations de travail et de l’emploi) ou des règlements pris en vertu de l’alinéa 22(2)a).
-> 2003, ch. 22, art. 12 « 87 »; 2006, ch. 9, art. 105; 2013, ch. 40, art. 414.
+**87** Aucune plainte ne peut être présentée en vertu de l’article 77 dans le cas où la nomination est faite en vertu du paragraphe 15(6) (nomination à un autre poste en cas de révocation par l’administrateur général), de l’article 39.1 (priorité — militaire des Forces canadiennes), de l’article 40 (priorités — fonctionnaires excédentaires), des paragraphes 41(1) ou (4) (autres priorités), des articles 73 (nomination à un autre poste en cas de révocation par la Commission) ou 86 (nomination à un autre poste suivant l’ordonnance de la Commission des relations de travail et de l’emploi) ou des règlements pris en vertu de l’alinéa 22(2)a).
+> 2003, ch. 22, art. 12 « 87 »; 2006, ch. 9, art. 105; 2013, ch. 40, art. 414; 2015, ch. 5, art. 10 et 14.
 
 
 
@@ -1982,40 +2030,41 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 
 
 ### **ANNEXE** 
-**(paragraphe 39(1))**
+**(alinéas 39(1)a) et b) et paragraphe 39(3))**
 ## Définitions
 **1** Les définitions qui suivent s’appliquent au paragraphe 39(1) et à la présente annexe.
 
-***ancien combattant*** Sous réserve du paragraphe 2(1) de la présente annexe, personne qui, selon le cas : 
+***ancien combattant*** Sous réserve du paragraphe 2(1) de la présente annexe, personne qui, selon le cas : 
 - **a)** pendant la Première Guerre mondiale, était en service actif outre-mer dans la marine, l’armée de terre ou l’aviation, ou a servi en haute mer sur un navire de guerre de Sa Majesté ou d’un allié de celle-ci, et a quitté le service ou a été démobilisée avec des états de service honorables;
 - **b)** pendant la Seconde Guerre mondiale, a été en mission hors de l’hémisphère occidental ou en haute mer sur un navire à bord duquel le service, à l’époque, était considéré comme « temps de mer » pour l’avancement des marins ou l’aurait été si le navire avait été affecté à la marine canadienne, alors qu’elle était en service actif :
 	- **(i)** soit dans la marine, l’armée de terre ou l’aviation de Sa Majesté ou d’un allié de celle-ci, tout en ayant été, au début de son service actif, domiciliée au Canada ou à Terre-Neuve,
 	- **(ii)** soit dans la marine, l’armée de terre ou l’aviation canadiennes et, sans avoir été domiciliée au Canada au début de son service actif, est citoyen canadien;
 - **c)** pendant la Seconde Guerre mondiale, a servi dans le personnel du Corps féminin de la Marine royale ou du *South African Military Nursing Service* hors de l’hémisphère occidental et était, au début de ce service, domiciliée au Canada ou à Terre-Neuve;
 - **d)** d’après le certificat du sous-ministre des Affaires étrangères, a été enrôlée au Canada ou à Terre-Neuve par les autorités du Royaume-Uni pour une mission spéciale accomplie pendant la Seconde Guerre mondiale dans des zones de combat hors de l’hémisphère occidental et était, lors de son enrôlement, domiciliée au Canada ou à Terre-Neuve;
-- **e)** pendant la Seconde Guerre mondiale a servi hors de l’hémisphère occidental dans la marine, l’armée de terre ou l’aviation de Sa Majesté levées au Canada ou à Terre-Neuve, à titre de représentant des *Canadian Legion War Services Inc.*, du Conseil national des *Young Men’s Christian Associations of Canada*, des *Knights of Columbus Canadian Army Huts*, ou des *Salvation Army Canadian War Services*, avec l’agrément des autorités militaires compétentes, et était, au début de ce service, domiciliée au Canada ou à Terre-Neuve.
+- **e)** pendant la Seconde Guerre mondiale a servi hors de l’hémisphère occidental dans la marine, l’armée de terre ou l’aviation de Sa Majesté levées au Canada ou à Terre-Neuve, à titre de représentant des *Canadian Legion War Services Inc.*, du Conseil national des *Young Men’s Christian Associations of Canada*, des *Knights of Columbus Canadian Army Huts*, ou des *Salvation Army Canadian War Services*, avec l’agrément des autorités militaires compétentes, et était, au début de ce service, domiciliée au Canada ou à Terre-Neuve;
+- **f)** a servi au moins trois ans dans les Forces canadiennes, a été libérée honorablement au sens des règlements pris au titre de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et n’est pas employée dans la fonction publique pour une durée indéterminée. (*veteran*)
 
-***conjoint de fait*** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an.
+***conjoint de fait*** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an. (*common-law partner*)
 
-***hémisphère occidental*** Les continents de l’Amérique du Nord et de l’Amérique du Sud, leurs eaux territoriales et les îles avoisinantes, y compris Terre-Neuve, les Bermudes et les Antilles, mais à l’exclusion du Groenland, de l’Islande et des îles Aléoutiennes.
+***hémisphère occidental*** Les continents de l’Amérique du Nord et de l’Amérique du Sud, leurs eaux territoriales et les îles avoisinantes, y compris Terre-Neuve, les Bermudes et les Antilles, mais à l’exclusion du Groenland, de l’Islande et des îles Aléoutiennes. (*Western Hemisphere*)
 
-***pensionné de guerre*** Personne qui, à la fois :
+***pensionné de guerre*** Personne qui, à la fois :
 - **a)** reçoit une pension :
 	- **(i)** soit en raison de ses états de service pendant la Première Guerre mondiale,
 	- **(ii)** soit en raison de ses états de service pendant la Seconde Guerre mondiale et du fait qu’au début de ce service elle était domiciliée au Canada ou à Terre-Neuve;
 - **b)** pour des causes attribuables à son service, a perdu la capacité de fournir un effort physique au point d’être inapte à exercer avec efficacité le métier qu’elle exerçait avant la guerre;
-- **c)** n’a pas réussi à s’établir dans un autre emploi.
+- **c)** n’a pas réussi à s’établir dans un autre emploi. (*person in receipt of a pension by reason of war service*)
 
-***personnel du Corps féminin de la Marine royale*** Personnes enrôlées :
+***personnel du Corps féminin de la Marine royale*** Personnes enrôlées :
 - **a)** soit dans le Corps féminin de la Marine royale;
 - **b)** soit dans le *Queen Alexandra’s Royal Naval Nursing Service* ou la réserve de celui-ci;
-- **c)** soit comme médecins ou dentistes au Service médical ou au Service dentaire de la Marine royale, avec les qualités requises par le service naval pour le service général.
+- **c)** soit comme médecins ou dentistes au Service médical ou au Service dentaire de la Marine royale, avec les qualités requises par le service naval pour le service général. (*member of the Women’s Royal Naval Services*)
 
-***Première Guerre mondiale*** Guerre déclarée par Sa Majesté le 4 août 1914 à l’Empire allemand (II<sup>e</sup> Reich) et, par la suite, à d’autres puissances.
+***Première Guerre mondiale*** Guerre déclarée par Sa Majesté le 4 août 1914 à l’Empire allemand (II<sup>e</sup> Reich) et, par la suite, à d’autres puissances. (*World War I*)
 
-***Seconde Guerre mondiale*** Guerre déclarée par Sa Majesté le 10 septembre 1939 au III<sup>e</sup> Reich allemand et, par la suite, à l’Italie, à la Finlande, à la Hongrie, à la Roumanie et au Japon. 
+***Seconde Guerre mondiale*** Guerre déclarée par Sa Majesté le 10 septembre 1939 au III<sup>e</sup> Reich allemand et, par la suite, à l’Italie, à la Finlande, à la Hongrie, à la Roumanie et au Japon.  (*World War II*)
 
-***survivant d’un ancien combattant*** L’époux survivant ou le conjoint de fait survivant d’une personne décédée des suites de la guerre au titre de laquelle elle était ancien combattant.
+***survivant d’un ancien combattant*** L’époux survivant ou le conjoint de fait survivant d’une personne décédée des suites de la guerre au titre de laquelle elle était ancien combattant visé à l’un ou l’autre des alinéas a) à e) de la définition de ***ancien combattant***.  (*survivor of a veteran*)
 
 
 **2** 
@@ -2028,5 +2077,7 @@ Le fonctionnaire perd sa qualité de fonctionnaire au terme de ce délai.
 	- **a)** le 8 mai 1945 en ce qui concerne les opérations sur les théâtres de guerre européen et méditerranéen;
 	- **b)** le 15 août 1945 en ce qui concerne les opérations sur le théâtre de guerre du Pacifique.
 
+
+> 2003, ch. 22, art. 12 « ann. »; 2015, ch. 5, art. 11 et 12.
 
 
