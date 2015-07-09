@@ -117,30 +117,30 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **4** The definitions in this section apply in this Part.
 
-***appurtenant undertaking*** means an undertaking in relation to which a use of waters or a deposit of waste is permitted by a licence.
+***appurtenant undertaking*** means an undertaking in relation to which a use of waters or a deposit of waste is permitted by a licence. (*entreprise principale*)
 
-***Board*** means the Nunavut Water Board established by section 14.
+***Board*** means the Nunavut Water Board established by section 14. (*Office*)
 
-***domestic purpose*** means the use of waters for the following purposes:
+***domestic purpose*** means the use of waters for the following purposes:
 - **(a)** household requirements, including sanitation and fire prevention;
 - **(b)** the watering of domestic animals; or
-- **(c)** the irrigation of a garden that adjoins a dwelling-house and is not ordinarily used in the growth of produce for market.
+- **(c)** the irrigation of a garden that adjoins a dwelling-house and is not ordinarily used in the growth of produce for market. (*domestique*)
 
-***instream use*** means a use of waters by a person, other than for a domestic purpose or as described in paragraph (a), (b) or (c) of the definition ***use***, to earn income or for subsistence purposes.
+***instream use*** means a use of waters by a person, other than for a domestic purpose or as described in paragraph (a), (b) or (c) of the definition ***use***, to earn income or for subsistence purposes. (*ordinaire*)
 
-***licence*** means, unless the context otherwise requires, a type A or type B licence, in accordance with the criteria prescribed by the regulations, issued for the use of waters or the deposit of waste, or both, in Nunavut under section 42.
+***licence*** means, unless the context otherwise requires, a type A or type B licence, in accordance with the criteria prescribed by the regulations, issued for the use of waters or the deposit of waste, or both, in Nunavut under section 42. (*permis*)
 
-***licensee*** means a person to whom a licence is issued or assigned.
+***licensee*** means a person to whom a licence is issued or assigned. (*titulaire*)
 
-***marine area*** means any waters, including those that are ice-covered, of the Nunavut Settlement Area, other than inland waters, and the seabed and subsoil below those waters.
+***marine area*** means any waters, including those that are ice-covered, of the Nunavut Settlement Area, other than inland waters, and the seabed and subsoil below those waters. (*zones marines*)
 
-***national park*** means a park within the meaning of the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md), or lands set aside as a reserve for a park under that Act.
+***national park*** means a park within the meaning of the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md), or lands set aside as a reserve for a park under that Act. (*parc national*)
 
-***Nunavut Impact Review Board*** means the Nunavut Impact Review Board referred to in section 12.2.1 of the Agreement.
+***Nunavut Impact Review Board*** means the Nunavut Impact Review Board referred to in section 18 of the [Nunavut Planning and Project Assessment Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2014,%20s.%202.md). (*Commission d’examen des projets de développement*)
 
-***Nunavut Planning Commission*** means the Nunavut Planning Commission referred to in section 11.4.1 of the Agreement.
+***Nunavut Planning Commission*** means the Nunavut Planning Commission referred to in section 10 of the [Nunavut Planning and Project Assessment Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2014,%20s.%202.md). (*Commission d’aménagement*)
 
-***penalty*** means an administrative monetary penalty imposed for a violation.
+***penalty*** means an administrative monetary penalty imposed for a violation. (*pénalité*)
 
 ***use***, in relation to waters, means a direct or indirect use of any kind, including, but not limited to,
 - **(a)** any use of water power and geothermal resources;
@@ -148,16 +148,16 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(c)** any alteration of the flow of waters; and
 - **(d)** any alteration of the bed or banks of a river, stream, lake or other body of water, whether or not the body of water is seasonal.
 
-However, it does not include navigation or any other use connected with shipping activities that are governed by the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md).
+However, it does not include navigation or any other use connected with shipping activities that are governed by the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md). (*utilisation*)
 
-***waste*** means any substance that, by itself or in combination with other substances found in water, would have the effect of altering the quality of any water to which the substance is added to an extent that is detrimental to its use by people or by any animal, fish or plant, or any water that would have that effect because of the quantity or concentration of the substances contained in it or because it has been treated or changed, by heat or other means, and includes
+***waste*** means any substance that, by itself or in combination with other substances found in water, would have the effect of altering the quality of any water to which the substance is added to an extent that is detrimental to its use by people or by any animal, fish or plant, or any water that would have that effect because of the quantity or concentration of the substances contained in it or because it has been treated or changed, by heat or other means, and includes
 - **(a)** any substance or water that, for the purposes of the [Canada Water Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-11.md), is deemed to be waste;
 - **(b)** any substance or class of substances specified by the regulations;
 - **(c)** water containing any substance or class of substances in a quantity or concentration that is equal to or greater than that prescribed by the regulations; and
-- **(d)** water that has been subjected to a treatment or change described by the regulations.
+- **(d)** water that has been subjected to a treatment or change described by the regulations. (*déchet*)
 
-***waters*** means inland waters, whether in a liquid or solid state, on or below the surface of land.
-> 2002, c. 10, ss. 4, 200; 2015, c. 19, s. 41.
+***waters*** means inland waters, whether in a liquid or solid state, on or below the surface of land. (*eaux*)
+> 2002, c. 10, ss. 4, 200; 2013, c. 14, s. 5; 2015, c. 19, s. 41.
 
 
 
@@ -617,66 +617,54 @@ However, it does not include navigation or any other use connected with shipping
 
 - **(1)** The Board shall contribute fully to the development of land use plans so far as they concern waters in Nunavut, by providing recommendations to the Nunavut Planning Commission.
 
-**Conformity with the plan**
+**Review by Nunavut Planning Commission**
 
-- **(2)** In order to avoid unnecessary duplication and to ensure that projects are dealt with in a timely manner, the Board shall cooperate and coordinate its consideration of applications with the Nunavut Planning Commission’s review of projects under section 11.5.10 of the Agreement for conformity with any applicable land use plans approved in accordance with Part 5 of Article 11 of the Agreement.
+- **(2)** In order to avoid unnecessary duplication and to ensure that projects are dealt with in a timely manner, the Board shall cooperate and coordinate its consideration of applications with the Nunavut Planning Commission’s review of projects under sections 76 to 85 of the [Nunavut Planning and Project Assessment Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2014,%20s.%202.md) for conformity with any applicable land use plans approved under subsection 55(1) of that Act.
+> 2002, c. 10, s. 36; 2013, c. 14, s. 6.
 
 
 
 
-**Environmental screening and review of projects**
+
+**Screening and review of projects**
 
 **37** 
 
-- **(1)** In order to avoid unnecessary duplication and to ensure that projects are dealt with in a timely manner, the Board shall cooperate and coordinate its consideration of applications with the Nunavut Impact Review Board or any federal environmental assessment panel referred to in section 12.4.7 of the Agreement in relation to the screening of projects by that Board and the review of projects by that Board or panel.
+- **(1)** In order to avoid unnecessary duplication and to ensure that projects are dealt with in a timely manner, the Board shall cooperate and coordinate its consideration of applications with the Nunavut Impact Review Board or any federal environmental assessment panel or joint panel established under subsection 115(1) or paragraph 160(1)(a) or (b) of the [Nunavut Planning and Project Assessment Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2014,%20s.%202.md) in relation to the screening of projects by that Board and the review of projects by that Board or panel.
 
 **Joint hearings**
 
 - **(2)** The Board may, in lieu of conducting a separate public hearing in respect of a licence in connection with a project for which a public hearing is to be held by the Nunavut Impact Review Board or the panel referred to in subsection (1), as the case may be, conduct, in relation to the project, a joint hearing with that Board or panel or participate in the hearing of that Board or panel.
+> 2002, c. 10, s. 37; 2013, c. 14, s. 7.
 
 
 
 
-**Restriction on powers: non-conformity with plan**
+
+**Restriction on powers**
 
 **38** 
 
-- **(1)** The Board may not issue, amend or renew a licence to use waters or deposit waste if there is an applicable land use plan approved in accordance with Part 5 of Article 11 of the Agreement unless the Nunavut Planning Commission, in accordance with section 11.5.10 of the Agreement,
-	- **(a)** has determined that the use or deposit, or in the case of an amendment any change to the use or deposit, conforms to the land use plan; or
-	- **(b)** has approved a variance in respect of the use, deposit or change.
-
-**Mandatory rejection of application**
-
-- **(2)** The Board shall reject an application in relation to a licence where the Nunavut Planning Commission has informed the Board that the use, deposit or change to which the application relates does not conform to the land use plan and that the Commission will not be approving a variance.
-
-**Effect of rejection**
-
-- **(3)** If the Board rejects an application under subsection (2),
-	- **(a)** the Board shall not take any further action in respect of that application, including any action referred to in subsection 48(3), section 51 or subsection 52(1) or 55(1); and
-	- **(b)** the applicant may, within one year after the date of the rejection, request an exemption in accordance with section 11.5.11 of the Agreement.
-
-**Reconsideration of application**
-
-- **(4)** If an exemption referred to in paragraph (3)(b) is obtained, subsection (1) and paragraph (3)(a) no longer apply and the Board shall resume processing the application.
-
-**Date of application**
-
-- **(5)** For the purposes of section 47, the date of an application that has been resumed under subsection (4) is the date on which the application was first made.
-
-
-
-
-**Restriction on powers: environmental review of projects**
-
-**39** 
-
-- **(1)** The Board may not issue, amend or renew a licence to use waters or deposit waste where the use or deposit, or in the case of an amendment any change to the use or deposit, or the appurtenant undertaking requires screening in accordance with Part 4 of Article 12 of the Agreement, until the Nunavut Impact Review Board has completed the screening and, where a review under Part 5 or 6 of that Article is required, issued a project certificate referred to in section 12.5.12 or 12.6.17 of the Agreement.
+- **(1)** The Board may not issue, renew or amend a licence to use waters or deposit waste in relation to a use or deposit, or appurtenant undertaking, that is a project within the meaning of subsection 2(1) of the [Nunavut Planning and Project Assessment Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2014,%20s.%202.md) if
+	- **(a)** the assessment of the project under Part 3 of that Act has not been completed;
+	- **(b)** the assessment of the project has been terminated under subsection 141(2), 142(2), 143(4) or (6) or 144(3) of that Act;
+	- **(c)** the Nunavut Planning Commission has determined, under section 77 of that Act, that the project is not in conformity with any applicable land use plan, and no minor variance or exemption has been granted in respect of the project under paragraph 81(2)(a) or 82(2)(a) of that Act, as the case may be;
+	- **(d)** the responsible Minister, within the meaning of subsection 73(1) of that Act, has decided that the project could be modified and an amended project proposal submitted to the Nunavut Planning Commission, or that it is not to proceed; or
+	- **(e)** the responsible authority, within the meaning of section 163 of that Act, has determined, under section 165 of that Act, that the project is not in conformity with the requirements set out by or under any law for which it has responsibility.
 
 **Exception**
 
-- **(2)** Notwithstanding subsection (1), where an appurtenant undertaking is required to be reviewed, the Board may, before the project certificate is issued, issue, amend or renew a licence to use waters or deposit waste in relation to exploration or developmental work related to the appurtenant undertaking, provided that
-	- **(a)** the use or deposit falls within Schedule 12-1 of the Agreement or can, in the judgment of the Nunavut Impact Review Board, proceed without the review; or
-	- **(b)** the licence is issued, amended or renewed for an interim, short-term period.
+- **(2)** Despite paragraph (1)(a), the Board may issue, renew or amend a licence in relation to exploration or developmental activities referred to in subsection 154(1) of the [Nunavut Planning and Project Assessment Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2014,%20s.%202.md) or exploration or development activities referred to in paragraph 155(1)(a) or (b) of that Act.
+
+**Non-renewal, etc.**
+
+- **(3)** Licences issued under subsection (2) must not be renewed or amended if the responsible Minister, as defined in subsection 73(1) of the [Nunavut Planning and Project Assessment Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2014,%20s.%202.md), has come to a decision under Part 3 of that Act that the project to which the activities in question relate either is not to proceed or could be modified and an amended project proposal submitted to the Commission or the responsible authority within the meaning of section 163 of that Act, as the case may be.
+> 2002, c. 10, s. 38; 2013, c. 14, s. 8.
+
+
+
+
+**39** [Repealed, 2013, c. 14, s. 8]
 
 
 
@@ -1124,9 +1112,11 @@ The Board shall take the representations into account.
 
 - **(2)** The monitoring programs referred to in paragraph (1)(c) may specify responsibilities of the applicant, the Nunavut Impact Review Board or Her Majesty in right of Canada.
 
-**Project certificate**
+**Terms and Conditions**
 
-- **(3)** The Board shall, to the extent that it is authorized under this Act to do so, include in a licence the terms and conditions of any project certificate, referred to in section 12.5.12 or 12.6.17 of the Agreement, that is issued in respect of the use of waters or deposit of waste or the appurtenant undertaking to which that use or deposit relates.
+- **(3)** The Board shall, to the extent of its jurisdiction and authority under this Act to do so, incorporate the terms and conditions referred to in subsection 136(1) of the [Nunavut Planning and Project Assessment Act](/en/Acts/Statutes%20of%20Canada/2013/c.%2014,%20s.%202.md) in a licence that is issued in respect of the use of waters or deposit of waste or the appurtenant undertaking to which that use or deposit relates.
+> 2002, c. 10, s. 70; 2013, c. 14, s. 9.
+
 
 
 
