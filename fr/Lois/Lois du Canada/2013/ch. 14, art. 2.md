@@ -8,7 +8,7 @@
 Sanctionnée sur le 19 juin 2013
 
 ```
-[Édictée par l’article 2 du chapitre 14 des Lois du Canada (2013), non en vigueur.]
+[Édictée par l’article 2 du chapitre 14 des Lois du Canada (2013), en vigueur le 9 juillet 2015, voir TR/2015-58.]
 ```
 ----------
 
@@ -61,9 +61,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***accord*** L’accord sur les revendications territoriales conclu entre les Inuits de la région du Nunavut et Sa Majesté la Reine du chef du Canada — ratifié, mis en vigueur et déclaré valide par la [Loi concernant l’Accord sur les revendications territoriales du Nunavut](/fr/Lois/Lois%20du%20Canada/1993/ch.%2029.md), laquelle est entrée en vigueur le 9 juillet 1993 —, ainsi que toutes les modifications qui peuvent y être apportées conformément à ses dispositions.
+***accord*** L’accord sur les revendications territoriales conclu entre les Inuits de la région du Nunavut et Sa Majesté la Reine du chef du Canada — ratifié, mis en vigueur et déclaré valide par la [Loi concernant l’Accord sur les revendications territoriales du Nunavut](/fr/Lois/Lois%20du%20Canada/1993/ch.%2029.md), laquelle est entrée en vigueur le 9 juillet 1993 —, ainsi que toutes les modifications qui peuvent y être apportées conformément à ses dispositions. (*Agreement*)
 
-***aire de préservation*** Aire mentionnée à l’annexe 9-1 de l’accord ou appartenant à l’une des catégories suivantes :
+***aire de préservation*** Aire mentionnée à l’annexe 9-1 de l’accord ou appartenant à l’une des catégories suivantes :
 - **a)** les réserves d’espèces sauvages établies sous le régime de la [Loi sur les espèces sauvages du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-9.md);
 - **b)** les habitats essentiels, les refuges fauniques et les régions de gestion spéciale, au sens de l’article 2 de la Loi sur la faune et la flore, L.Nu. 2003, ch. 26;
 - **c)** les refuges d’oiseaux migrateurs établis sous le régime de la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md);
@@ -73,56 +73,56 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **g)** les rivières du patrimoine canadien visées à l’alinéa 4(1)b) de la [Loi sur l’Agence Parcs Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2031.md);
 - **h)** les lieux historiques désignés sous le régime de la [Loi sur les lieux et monuments historiques](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-4.md);
 - **i)** les lieux historiques désignés sous le régime de la Loi sur les ressources historiques, L.R.T.N.-O. 1988, ch. H-3;
-- **j)** les autres aires établies au titre d’une loi fédérale ou territoriale qui revêtent une importance particulière sur les plans écologique, culturel ou archéologique, pour la recherche ou pour des raisons analogues.
+- **j)** les autres aires établies au titre d’une loi fédérale ou territoriale qui revêtent une importance particulière sur les plans écologique, culturel ou archéologique, pour la recherche ou pour des raisons analogues. (*conservation area*)
 
-***aire marine de préservation*** Aire marine de conservation ou réserve, au sens du paragraphe 2(1) de la [Loi sur les aires marines nationales de conservation du Canada](/fr/Lois/Lois%20du%20Canada/2002/ch.%2018.md).
+***aire marine de préservation*** Aire marine de conservation ou réserve, au sens du paragraphe 2(1) de la [Loi sur les aires marines nationales de conservation du Canada](/fr/Lois/Lois%20du%20Canada/2002/ch.%2018.md). (*marine conservation area*)
 
-***autorité administrative*** Ministre — sauf pour l’application de l’article 197 —, ministère ou organisme, municipalité ou tout autre organisme public chargé, sous le régime de toute autre loi fédérale ou de toute loi territoriale, de délivrer les permis ou de donner les autres autorisations nécessaires à la réalisation d’un projet.
+***autorité administrative*** Ministre — sauf pour l’application de l’article 197 —, ministère ou organisme, municipalité ou tout autre organisme public chargé, sous le régime de toute autre loi fédérale ou de toute loi territoriale, de délivrer les permis ou de donner les autres autorisations nécessaires à la réalisation d’un projet. (*regulatory authority*)
 
-***eaux*** Les eaux internes de surface et souterraines et les eaux marines, qu’elles soient à l’état liquide ou solide.
+***eaux*** Les eaux internes de surface et souterraines et les eaux marines, qu’elles soient à l’état liquide ou solide. (*waters*)
 
-***intéressée*** Pour l’application de l’article 43 et des paragraphes 50(2), 101(4) et 120(5), se dit de toute personne morale ou autre organisation ayant manifesté par écrit auprès de la Commission d’aménagement du Nunavut, de la Commission du Nunavut chargée de l’examen des répercussions ou de toute commission fédérale d’évaluation environnementale, selon le cas, l’intention de fournir ses commentaires.
+***intéressée*** Pour l’application de l’article 43 et des paragraphes 50(2), 101(4) et 120(5), se dit de toute personne morale ou autre organisation ayant manifesté par écrit auprès de la Commission d’aménagement du Nunavut, de la Commission du Nunavut chargée de l’examen des répercussions ou de toute commission fédérale d’évaluation environnementale, selon le cas, l’intention de fournir ses commentaires. (*interested corporation or organization*)
 
-***Inuits du Nord québécois*** S’entend au sens de la Convention de la Baie-James et du Nord québécois, laquelle a été approuvée, mise en vigueur et déclarée valide par la [Loi sur le règlement des revendications des autochtones de la Baie James et du Nord québécois](/fr/Lois/Lois%20du%20Canada/1976-77/ch.%2032.md), S.C. 1976-77, ch. 32.
+***Inuits du Nord québécois*** S’entend au sens de la Convention de la Baie-James et du Nord québécois, laquelle a été approuvée, mise en vigueur et déclarée valide par la [Loi sur le règlement des revendications des autochtones de la Baie James et du Nord québécois](/fr/Lois/Lois%20du%20Canada/1976-77/ch.%2032.md), S.C. 1976-77, ch. 32. (*Inuit of northern Quebec*)
 
-***inuktitut*** Est assimilé à l’inuktitut l’inuin-naqtun.
+***inuktitut*** Est assimilé à l’inuktitut l’inuin-naqtun. (*Inuktitut*)
 
-***loi territoriale*** Loi de la législature du Nunavut.
+***loi territoriale*** Loi de la législature du Nunavut. (*territorial law*)
 
-***Makivik*** La société constituée par la Loi sur la Société Makivik, L.R.Q., ch. S-18.1, et représentant les Inuits du Nord québécois.
+***Makivik*** La société constituée par la Loi sur la Société Makivik, L.R.Q., ch. S-18.1, et représentant les Inuits du Nord québécois. (*Makivik*)
 
 ***ministère ou organisme***
 - **a)** Tout ministère, organisme ou autre secteur de l’administration publique fédérale;
-- **b)** tout ministère, organisme ou autre division de la fonction publique du Nunavut.
+- **b)** tout ministère, organisme ou autre division de la fonction publique du Nunavut. (*department or agency*)
 
-***ministre fédéral*** Sauf à la définition de ***promoteur*** au présent paragraphe, à l’article 68, à la définition de ***ministre compétent*** au paragraphe 73(1), aux paragraphes 135(5), 136(1) et 149(2), à l’alinéa 152(1)b), à l’article 173 et au paragraphe 189(1), le ministre des Affaires indiennes et du Nord canadien.
+***ministre fédéral*** Sauf à la définition de ***promoteur*** au présent paragraphe, à l’article 68, à la définition de ***ministre compétent*** au paragraphe 73(1), aux paragraphes 135(5), 136(1) et 149(2), à l’alinéa 152(1)b), à l’article 173 et au paragraphe 189(1), le ministre des Affaires indiennes et du Nord canadien. (*federal Minister*)
 
-***ministre territorial*** Sauf à la définition de ***promoteur*** au présent paragraphe, à l’alinéa 19(2)d), à l’article 68, à la définition de ***ministre compétent*** au paragraphe 73(1), aux paragraphes 94(5), 135(5), 136(1) et 149(2), à l’alinéa 152(1)b), à l’article 173, au paragraphe 189(1) et à l’alinéa 200(2)c), le ministre de l’Environnement du Nunavut.
+***ministre territorial*** Sauf à la définition de ***promoteur*** au présent paragraphe, à l’alinéa 19(2)d), à l’article 68, à la définition de ***ministre compétent*** au paragraphe 73(1), aux paragraphes 94(5), 135(5), 136(1) et 149(2), à l’alinéa 152(1)b), à l’article 173, au paragraphe 189(1) et à l’alinéa 200(2)c), le ministre de l’Environnement du Nunavut. (*territorial Minister*)
 
-***municipalité*** Municipalité ou localité, au sens du paragraphe 28(1) de la [Loi d’interprétation](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-21.md), L.R.T.N.-O. 1988, ch. I-8, modifiée pour le Nunavut en vertu de l’article 76.05 de la [Loi sur le Nunavut](/fr/Lois/Lois%20du%20Canada/1993/ch.%2028.md).
+***municipalité*** Municipalité ou localité, au sens du paragraphe 28(1) de la [Loi d’interprétation](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-21.md), L.R.T.N.-O. 1988, ch. I-8, modifiée pour le Nunavut en vertu de l’article 76.05 de la [Loi sur le Nunavut](/fr/Lois/Lois%20du%20Canada/1993/ch.%2028.md). (*municipality*)
 
 ***organisation inuite désignée***
 - **a)** Tunngavik ou, pour l’application de telle disposition de la présente loi, l’organisation désignée, pour l’exercice de l’attribution prévue par la disposition correspondante de l’accord, dans le registre public tenu par Tunngavik conformément à l’accord;
-- **b)** en ce qui concerne les terres inuites situées dans toute zone d’utilisation et d’occupation égales, Makivik, agissant conjointement avec l’organisation compétente au titre de l’alinéa a).
+- **b)** en ce qui concerne les terres inuites situées dans toute zone d’utilisation et d’occupation égales, Makivik, agissant conjointement avec l’organisation compétente au titre de l’alinéa a). (*designated Inuit organization*)
 
-***parc*** Parc national ou territorial ou aire marine de préservation.
+***parc*** Parc national ou territorial ou aire marine de préservation. (*park*)
 
-***parc national*** Parc ou réserve, au sens du paragraphe 2(1) de la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md).
+***parc national*** Parc ou réserve, au sens du paragraphe 2(1) de la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md). (*national park*)
 
-***plan d’aménagement*** Ne vise pas les plans d’aménagement municipaux.
+***plan d’aménagement*** Ne vise pas les plans d’aménagement municipaux. (*land use plan*)
 
-***projet*** La réalisation — y compris la construction, l’exploitation, la modification, la désaffectation ou la fermeture — d’un ouvrage ou le démarrage ou l’exercice d’une activité concrète, qui comporte l’utilisation de terres, d’eaux ou d’autres ressources. Sont toutefois exclus : 
+***projet*** La réalisation — y compris la construction, l’exploitation, la modification, la désaffectation ou la fermeture — d’un ouvrage ou le démarrage ou l’exercice d’une activité concrète, qui comporte l’utilisation de terres, d’eaux ou d’autres ressources. Sont toutefois exclus : 
 - **a)** la réalisation d’un ouvrage ou le démarrage ou l’exercice d’une activité dont les répercussions négatives sur le plan écosystémique n’ont, de toute évidence, aucune importance, compte tenu notamment des éléments prévus aux alinéas 90a) à i);
 - **b)** la réalisation d’un ouvrage ou le démarrage ou l’exercice d’une activité faisant partie d’une catégorie d’ouvrages ou d’activités prévue par règlement;
-- **c)** la construction, l’exploitation et l’entretien d’un bâtiment et la fourniture d’un service, dans une municipalité, qui n’entraînent pas de répercussions écosystémiques à l’extérieur de celle-ci et qui ne comportent pas le dépôt de déchets par une municipalité, l’entreposage en vrac de combustible, la production d’énergie nucléaire ou hydroélectrique ou quelque activité industrielle.
+- **c)** la construction, l’exploitation et l’entretien d’un bâtiment et la fourniture d’un service, dans une municipalité, qui n’entraînent pas de répercussions écosystémiques à l’extérieur de celle-ci et qui ne comportent pas le dépôt de déchets par une municipalité, l’entreposage en vrac de combustible, la production d’énergie nucléaire ou hydroélectrique ou quelque activité industrielle. (*project*)
 
-***promoteur*** Personne physique ou morale ou autre entité qui propose la réalisation d’un projet. Sont notamment visés les ministres, les ministères et les organismes fédéraux, provinciaux et territoriaux, les municipalités et les organisations inuites désignées.
+***promoteur*** Personne physique ou morale ou autre entité qui propose la réalisation d’un projet. Sont notamment visés les ministres, les ministères et les organismes fédéraux, provinciaux et territoriaux, les municipalités et les organisations inuites désignées. (*proponent*)
 
-***région désignée*** La région formée par la région du Nunavut et la zone de banquise côtière externe.
+***région désignée*** La région formée par la région du Nunavut et la zone de banquise côtière externe. (*designated area*)
 
-***terres*** Dans les parties 1 et 3 à 6, sont assimilées aux terres celles qui sont submergées et situées dans les zones côtières ou extracôtières.
+***terres*** Dans les parties 1 et 3 à 6, sont assimilées aux terres celles qui sont submergées et situées dans les zones côtières ou extracôtières. (*land*)
 
-***Tunngavik*** La Nunavut Tunngavik Incorporated, société sans capital-actions constituée en vertu de la partie II de la [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), S.R.C. 1970, ch. C-32, ou ses successeurs ou ayants droit.
+***Tunngavik*** La Nunavut Tunngavik Incorporated, société sans capital-actions constituée en vertu de la partie II de la [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), S.R.C. 1970, ch. C-32, ou ses successeurs ou ayants droit. (*Tunngavik*)
 
 **Définitions de l’accord**
 
@@ -1208,11 +1208,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***connaissances traditionnelles*** L’ensemble des connaissances — qu’elles résultent d’observations ou d’une sensibilité particulière, entre autres — faisant partie intégrante du mode de vie traditionnel des Inuits de la région désignée et portant soit sur l’environnement, soit sur les relations des êtres vivants entre eux, soit encore sur les relations entre ces derniers et l’environnement.
+***connaissances traditionnelles*** L’ensemble des connaissances — qu’elles résultent d’observations ou d’une sensibilité particulière, entre autres — faisant partie intégrante du mode de vie traditionnel des Inuits de la région désignée et portant soit sur l’environnement, soit sur les relations des êtres vivants entre eux, soit encore sur les relations entre ces derniers et l’environnement. (*traditional knowledge*)
 
 ***ministre compétent***
 - **a)** Le ministre fédéral ou territorial, selon le cas, ayant compétence pour autoriser la réalisation de tel projet;
-- **b)** le ministre des Affaires indiennes et du Nord canadien, dans le cas où aucun ministre fédéral ou territorial n’a cette compétence.
+- **b)** le ministre des Affaires indiennes et du Nord canadien, dans le cas où aucun ministre fédéral ou territorial n’a cette compétence. (*responsible Minister*)
 
 **Disposition interprétative**
 
@@ -3402,9 +3402,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***autorité compétente*** S’entend au sens de l’article 163.
+***autorité compétente*** S’entend au sens de l’article 163. (*responsible authority*)
 
-***ministre compétent*** S’entend au sens du paragraphe 73(1).
+***ministre compétent*** S’entend au sens du paragraphe 73(1). (*responsible Minister*)
 
 
 
