@@ -117,38 +117,38 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **4** Les définitions qui suivent s’appliquent à la présente partie.
 
-***Commission d’aménagement*** La Commission d’aménagement du Nunavut visée à l’article 11.4.1 de l’Accord.
+***Commission d’aménagement*** La Commission d’aménagement visée à l’article 10 de la [Loi sur l’aménagement du territoire et l’évaluation des projets au Nunavut](/fr/Lois/Lois%20du%20Canada/2013/ch.%2014,%20art.%202.md). (*Nunavut Planning Commission*)
 
-***Commission d’examen des projets de développement*** La Commission du Nunavut chargée de l’examen des répercussions visée à l’article 12.2.1 de l’Accord.
+***Commission d’examen des projets de développement*** La Commission d’examen visée à l’article 18 de la [Loi sur l’aménagement du territoire et l’évaluation des projets au Nunavut](/fr/Lois/Lois%20du%20Canada/2013/ch.%2014,%20art.%202.md). (*Nunavut Impact Review Board*)
 
-***déchet*** Substance qui, d’elle-même ou combinée à d’autres substances se trouvant dans l’eau, est de nature à altérer la qualité de celle-ci lorsqu’elle y est ajoutée, au point de la rendre nocive pour l’être humain ou pour les animaux ou les végétaux; y est assimilée l’eau qui, ajoutée à une autre eau, aurait cet effet sur celle-ci, soit à cause de la quantité ou concentration des substances qu’elle contient, soit parce qu’elle a été traitée ou transformée par la chaleur ou de quelque autre façon. Sont notamment visées par la présente définition :
+***déchet*** Substance qui, d’elle-même ou combinée à d’autres substances se trouvant dans l’eau, est de nature à altérer la qualité de celle-ci lorsqu’elle y est ajoutée, au point de la rendre nocive pour l’être humain ou pour les animaux ou les végétaux; y est assimilée l’eau qui, ajoutée à une autre eau, aurait cet effet sur celle-ci, soit à cause de la quantité ou concentration des substances qu’elle contient, soit parce qu’elle a été traitée ou transformée par la chaleur ou de quelque autre façon. Sont notamment visées par la présente définition :
 - **a)** l’eau ou la substance qui, pour l’application de la [Loi sur les ressources en eau du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-11.md), est assimilée à un déchet;
 - **b)** les substances ou catégories de substances désignées par règlement;
 - **c)** l’eau qui contient une substance ou catégorie de substances en une quantité ou concentration au moins égale à celle qui est fixée par règlement;
-- **d)** l’eau soumise à un traitement ou à une transformation désignés par règlement.
+- **d)** l’eau soumise à un traitement ou à une transformation désignés par règlement. (*waste*)
 
-***domestique*** Se dit de l’utilisation de l’eau pour les besoins du ménage, notamment les soins d’hygiène et la prévention des incendies, pour l’abreuvement des animaux domestiques et pour l’irrigation d’un jardin attenant à une maison d’habitation et ne servant habituellement pas à la culture de produits pour le marché.
+***domestique*** Se dit de l’utilisation de l’eau pour les besoins du ménage, notamment les soins d’hygiène et la prévention des incendies, pour l’abreuvement des animaux domestiques et pour l’irrigation d’un jardin attenant à une maison d’habitation et ne servant habituellement pas à la culture de produits pour le marché. (*domestic purpose*)
 
-***eaux*** Les eaux internes de surface et souterraines, qu’elles soient à l’état liquide ou solide.
+***eaux*** Les eaux internes de surface et souterraines, qu’elles soient à l’état liquide ou solide. (*waters*)
 
-***entreprise principale*** L’entreprise dans laquelle s’inscrit l’activité — utilisation des eaux ou rejet de déchets — visée par un permis.
+***entreprise principale*** L’entreprise dans laquelle s’inscrit l’activité — utilisation des eaux ou rejet de déchets — visée par un permis. (*appurtenant undertaking*)
 
-***Office*** L’Office des eaux du Nunavut constitué par l’article 14.
+***Office*** L’Office des eaux du Nunavut constitué par l’article 14. (*Board*)
 
-***ordinaire*** Se dit de l’utilisation des eaux que fait une personne — à des fins autres que domestiques — pour subvenir à ses besoins ou se constituer un revenu, et qui ne constitue pas une utilisation de l’énergie hydraulique et des ressources géothermiques et n’a pas pour effet de détourner ou d’obstruer les eaux, ni de modifier leur débit.
+***ordinaire*** Se dit de l’utilisation des eaux que fait une personne — à des fins autres que domestiques — pour subvenir à ses besoins ou se constituer un revenu, et qui ne constitue pas une utilisation de l’énergie hydraulique et des ressources géothermiques et n’a pas pour effet de détourner ou d’obstruer les eaux, ni de modifier leur débit. (*instream use*)
 
-***parc national*** Parc au sens de la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md). Y est assimilée toute réserve au sens de cette loi.
+***parc national*** Parc au sens de la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md). Y est assimilée toute réserve au sens de cette loi. (*national park*)
 
-***pénalité*** Sanction administrative pécuniaire infligée pour une violation.
+***pénalité*** Sanction administrative pécuniaire infligée pour une violation. (*penalty*)
 
-***permis*** Sauf indication contraire du contexte, permis — de type A ou de type B, suivant les critères réglementaires — visant l’utilisation des eaux du Nunavut ou le rejet de déchets au Nunavut, ou les deux, et délivré sous le régime de l’article 42.
+***permis*** Sauf indication contraire du contexte, permis — de type A ou de type B, suivant les critères réglementaires — visant l’utilisation des eaux du Nunavut ou le rejet de déchets au Nunavut, ou les deux, et délivré sous le régime de l’article 42. (*licence*)
 
-***titulaire*** Relativement à un permis, y est assimilé tout cessionnaire.
+***titulaire*** Relativement à un permis, y est assimilé tout cessionnaire. (*licensee*)
 
-***utilisation*** S’agissant des eaux, utilisation directe ou indirecte de toute nature — notamment l’utilisation de l’énergie hydraulique et des ressources géothermiques —, y compris leur détournement ou leur barrage, ainsi que la modification de leur débit, de leurs rives ou de leur lit, que leur existence soit saisonnière ou non; sont toutefois exclues la navigation, ainsi que toute autre forme d’utilisation des eaux liée à une activité assujettie à la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md).
+***utilisation*** S’agissant des eaux, utilisation directe ou indirecte de toute nature — notamment l’utilisation de l’énergie hydraulique et des ressources géothermiques —, y compris leur détournement ou leur barrage, ainsi que la modification de leur débit, de leurs rives ou de leur lit, que leur existence soit saisonnière ou non; sont toutefois exclues la navigation, ainsi que toute autre forme d’utilisation des eaux liée à une activité assujettie à la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md). (*use*)
 
-***zones marines*** S’entend des eaux, recouvertes de glace ou non, de la région du Nunavut — à l’exclusion des eaux internes —, ainsi que de leur fond et de leur sous-sol.
-> 2002, ch. 10, art. 4 et 200; 2015, ch. 19, art. 41.
+***zones marines*** S’entend des eaux, recouvertes de glace ou non, de la région du Nunavut — à l’exclusion des eaux internes —, ainsi que de leur fond et de leur sous-sol. (*marine area*)
+> 2002, ch. 10, art. 4 et 200; 2013, ch. 14, art. 5; 2015, ch. 19, art. 41.
 
 
 
@@ -602,66 +602,54 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** L’Office collabore pleinement à l’élaboration des plans d’aménagement du territoire qui touchent les eaux du Nunavut en présentant à la Commission d’aménagement ses recommandations à cet égard.
 
-**Examen des projets : plans d’aménagement**
+**Examen des projets par la Commission d’aménagement**
 
-- **(2)** Afin d’éviter les pertes de temps et le double emploi, l’Office collabore également avec la Commission en vue de coordonner l’examen des demandes dont il est saisi et l’examen des projets par la Commission — conformément à l’article 11.5.10 de l’Accord — au regard des plans d’aménagement approuvés en conformité avec la partie 5 du chapitre 11 de l’Accord.
+- **(2)** Afin d’éviter les pertes de temps et le double emploi, l’Office collabore également avec la Commission en vue de coordonner l’examen des demandes dont il est saisi et l’examen des projets par la Commission — conformément aux articles 76 à 85 de la [Loi sur l’aménagement du territoire et l’évaluation des projets au Nunavut](/fr/Lois/Lois%20du%20Canada/2013/ch.%2014,%20art.%202.md) — au regard des plans d’aménagement applicables qui ont été approuvés en vertu du paragraphe 55(1) de cette loi.
+> 2002, ch. 10, art. 36; 2013, ch. 14, art. 6.
 
 
 
 
-**Examen des projets de développement : évaluation environnementale**
+
+**Examens préalable et approfondi des projets**
 
 **37** 
 
-- **(1)** Afin d’éviter les pertes de temps et le double emploi, l’Office collabore avec la Commission d’examen des projets de développement ou la commission fédérale d’évaluation environnementale mentionnée à l’article 12.4.7 de l’Accord, selon le cas, en vue de coordonner l’étude des demandes dont il est saisi relativement à l’examen préalable des projets par la Commission et à l’étude d’impact à réaliser à l’égard de ceux-ci par l’autorité saisie.
+- **(1)** Afin d’éviter les pertes de temps et le double emploi, l’Office collabore avec la Commission d’examen des projets de développement ou toute commission fédérale d’évaluation environnementale ou formation conjointe constituée en vertu du paragraphe 115(1) ou des alinéas 160(1)a) ou b) de la [Loi sur l’aménagement du territoire et l’évaluation des projets au Nunavut](/fr/Lois/Lois%20du%20Canada/2013/ch.%2014,%20art.%202.md), en vue de coordonner l’étude des demandes dont il est saisi relativement à l’examen préalable des projets par la Commission et à l’examen approfondi à réaliser à l’égard de ceux-ci par l’autorité saisie.
 
 **Enquêtes conjointes**
 
 - **(2)** L’Office peut, au lieu de tenir sa propre enquête publique relativement à un permis lié à un projet dont est saisie une autorité visée au paragraphe (1), tenir avec celle-ci une enquête publique conjointe ou participer à l’enquête publique tenue par elle.
+> 2002, ch. 10, art. 37; 2013, ch. 14, art. 7.
 
 
 
 
-**Restriction des pouvoirs d’examen : non-conformité à un plan d’aménagement**
+
+**Restrictions**
 
 **38** 
 
-- **(1)** Dans les cas où un plan d’aménagement — approuvé en conformité avec la partie 5 du chapitre 11 de l’Accord — est applicable, il est interdit à l’Office de délivrer, de renouveler ou de modifier un permis tant que la Commission d’aménagement n’a pas, conformément à l’article 11.5.10 de l’Accord :
-	- **a)** ou bien décidé que l’activité — utilisation des eaux ou rejet de déchets — faisant l’objet du permis à délivrer ou à renouveler ou de la modification est conforme au plan;
-	- **b)** ou bien approuvé une dérogation.
+- **(1)** Il est interdit à l’Office de délivrer, de renouveler ou de modifier un permis à l’égard d’une activité — utilisation des eaux ou rejet de déchets — ou entreprise principale qui est un projet, au sens du paragraphe 2(1) de la [Loi sur l’aménagement du territoire et l’évaluation des projets au Nunavut](/fr/Lois/Lois%20du%20Canada/2013/ch.%2014,%20art.%202.md), et :
+	- **a)** dont l’évaluation au titre de la partie 3 de cette loi n’est pas terminée;
+	- **b)** dont l’évaluation a pris fin au titre des paragraphes 141(2), 142(2), 143(4) ou (6) ou 144(3) de cette loi;
+	- **c)** qui, aux termes de la décision prise par la Commission d’aménagement en vertu de l’article 77 de cette loi, n’est pas conforme à tout plan d’aménagement applicable et à l’égard duquel aucune dérogation mineure ou exemption ministérielle n’a été accordée en vertu des alinéas 81(2)a) ou 82(2)a) de cette loi, selon le cas;
+	- **d)** qui, aux termes de la décision prise par le ministre compétent, au sens du paragraphe 73(1) de cette loi, pourrait être modifié — et faire l’objet d’une proposition modifiée transmise à la Commission d’aménagement — ou ne doit pas être réalisé;
+	- **e)** qui, aux termes de la décision prise par toute autorité compétente — au sens de l’article 163 de cette loi — en vertu de l’article 165 de cette loi, n’est pas conforme aux exigences fixées sous le régime de toute loi dont elle est responsable.
 
-**Rejet obligatoire de la demande**
+**Exceptions**
 
-- **(2)** L’Office doit rejeter toute demande relative à un permis lorsque la Commission l’a informé que l’activité ou la modification n’est pas conforme au plan et qu’elle n’a pas l’intention d’approuver de dérogation.
+- **(2)** Malgré l’alinéa (1)a), l’Office peut délivrer, renouveler ou modifier un permis à l’égard d’activités d’exploration ou de préparation visées au paragraphe 154(1) de la Loisur l’aménagement du territoire et l’évaluation des projets au Nunavut ou à l’égard d’activités d’exploration ou de mise en valeur visées aux alinéas 155(1)a) ou b) de cette loi.
 
-**Conséquences du rejet**
+**Non-renouvellement**
 
-- **(3)** En cas de rejet de la demande :
-	- **a)** l’Office cesse toute activité relative à celle-ci, notamment, il n’engage aucune procédure visée au paragraphe 48(3), à l’article 51 ou aux paragraphes 52(1) ou 55(1);
-	- **b)** son auteur peut, dans l’année suivant le rejet, demander une exemption en conformité avec l’article 11.5.11 de l’Accord.
-
-**Réexamen de la demande**
-
-- **(4)** Dans le cas où l’exemption visée à l’alinéa (3)b) est accordée, le paragraphe (1) et l’alinéa (3)a) cessent de s’appliquer et l’Office reprend l’examen de la demande.
-
-**Date de la demande**
-
-- **(5)** Pour l’application de l’article 47, la date de la demande dont l’examen est prorogé au titre du paragraphe (4) est celle à laquelle elle a d’abord été présentée.
+- **(3)** Les permis ne peuvent cependant être renouvelés ou modifiés si le ministre compétent, au sens du paragraphe 73(1) de la Loisur l’aménagement du territoire et l’évaluation des projets au Nunavut, a décidé au titre de la partie 3 de cette loi que le projet auquel se rapportent les activités en question pourrait être modifié — et faire l’objet d’une proposition modifiée transmise à la Commission d’aménagement ou à l’autorité compétente, au sens de l’article 163 de cette loi, selon le cas — ou ne doit pas être réalisé.
+> 2002, ch. 10, art. 38; 2013, ch. 14, art. 8.
 
 
 
 
-**Restriction des pouvoirs d’examen : évaluation environnementale**
-
-**39** 
-
-- **(1)** Il est interdit à l’Office de délivrer, de renouveler ou de modifier un permis dans les cas où l’activité faisant l’objet du permis à délivrer ou à renouveler ou de la modification, ou encore l’entreprise principale, doit faire l’objet de l’examen préalable prévu à la partie 4 du chapitre 12 de l’Accord, tant que la Commission d’examen des projets de développement n’a pas procédé à cet examen et, lorsque l’étude d’impact prévue par les parties 5 ou 6 du chapitre 12 de l’Accord est requise, délivré le certificat mentionné aux articles 12.5.12 et 12.6.17 de l’Accord.
-
-**Exception**
-
-- **(2)** Par dérogation au paragraphe (1), lorsque l’entreprise principale a été renvoyée pour étude d’impact, le permis peut être délivré, renouvelé ou modifié, bien que le certificat n’ait pas encore été délivré, lorsque l’activité visée se rapporte à des travaux d’exploration ou de préparation et que, selon le cas :
-	- **a)** l’activité est elle-même visée par l’annexe 12-1 de l’Accord ou peut, de l’avis de la Commission, être pratiquée sans faire l’objet d’une étude d’impact;
-	- **b)** il s’agit d’une mesure provisoire et à court terme.
+**39** [Abrogé, 2013, ch. 14, art. 8]
 
 
 
@@ -1113,7 +1101,9 @@ Il tient compte des observations ainsi reçues.
 
 **Conditions**
 
-- **(3)** Dans la mesure de sa compétence au titre de la présente loi, l’Office assujettit le permis à toute condition prévue, le cas échéant, par le certificat mentionné aux articles 12.5.12 et 12.6.17 de l’Accord et délivré relativement à l’activité visée ou à l’entreprise principale.
+- **(3)** L’Office est tenu, dans la mesure de ses pouvoirs et de sa compétence au titre de la présente loi, d’assortir le permis qu’il délivre relativement à l’activité visée ou à l’entreprise principale des conditions visées au paragraphe 136(1) de la [Loi sur l’aménagement du territoire et l’évaluation des projets au Nunavut](/fr/Lois/Lois%20du%20Canada/2013/ch.%2014,%20art.%202.md).
+> 2002, ch. 10, art. 70; 2013, ch. 14, art. 9.
+
 
 
 
