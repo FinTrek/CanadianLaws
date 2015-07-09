@@ -8,7 +8,7 @@
 Assented to on 19 June 2013
 
 ```
-[Enacted by section 2 of chapter 14 of the Statutes of Canada, 2013, not in force.]
+[Enacted by section 2 of chapter 14 of the Statutes of Canada, 2013, in force July 9, 2015, see SI/2015-58.]
 ```
 ----------
 
@@ -53,13 +53,13 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** The following definitions apply in this Act.
 
-***Agreement*** means the land claims agreement between the Inuit of the Nunavut Settlement Area and Her Majesty the Queen in right of Canada that was ratified, given effect and declared valid by the [Nunavut Land Claims Agreement Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2029.md), which came into force on July 9, 1993, and includes any amendments to that agreement made under it.
+***Agreement*** means the land claims agreement between the Inuit of the Nunavut Settlement Area and Her Majesty the Queen in right of Canada that was ratified, given effect and declared valid by the [Nunavut Land Claims Agreement Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2029.md), which came into force on July 9, 1993, and includes any amendments to that agreement made under it. (*accord*)
 
-Version anglaise seulement***Board*** means the Nunavut Impact Review Board referred to in section 18.
+***Board*** means the Nunavut Impact Review Board referred to in section 18. (***Version anglaise seulement***)
 
-Version anglaise seulement***Commission*** means the Nunavut Planning Commission referred to in section 10.
+***Commission*** means the Nunavut Planning Commission referred to in section 10. (***Version anglaise seulement***)
 
-***conservation area*** means an area listed in Schedule 9-1 to the Agreement and any of the following:
+***conservation area*** means an area listed in Schedule 9-1 to the Agreement and any of the following:
 - **(a)** a wildlife area established under the [Canada Wildlife Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-9.md);
 - **(b)** a critical habitat, wildlife sanctuary or special management area, as defined in section 2 of the Wildlife Act, S.Nu. 2003, c. 26;
 - **(c)** a migratory bird sanctuary prescribed under the [Migratory Birds Convention Act, 1994](/en/Acts/Statutes%20of%20Canada/1994/c.%2022.md);
@@ -69,56 +69,56 @@ Version anglaise seulement***Commission*** means the Nunavut Planning Commission
 - **(g)** a Canadian heritage river referred to in paragraph 4(1)(b) of the [Parks Canada Agency Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2031.md);
 - **(h)** a historic place designated under the [Historic Sites and Monuments Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-4.md);
 - **(i)** a historic place designated under the Historical Resources Act, R.S.N.W.T. 1988, c. H-3; and
-- **(j)** any other area of particular significance for ecological, cultural, archaeological, research or similar reasons, if established under an Act of Parliament or territorial law.
+- **(j)** any other area of particular significance for ecological, cultural, archaeological, research or similar reasons, if established under an Act of Parliament or territorial law. (*aire de préservation*)
 
-***department or agency*** means
+***department or agency*** means
 - **(a)** a department, agency or other portion of the federal public administration; and
-- **(b)** a department, agency or other division of the public service of Nunavut.
+- **(b)** a department, agency or other division of the public service of Nunavut. (*ministère ou organisme*)
 
-***designated area*** means the area that consists of the Nunavut Settlement Area and the Outer Land Fast Ice Zone.
+***designated area*** means the area that consists of the Nunavut Settlement Area and the Outer Land Fast Ice Zone. (*région désignée*)
 
-***designated Inuit organization*** means
+***designated Inuit organization*** means
 - **(a)** Tunngavik or, in respect of a provision of this Act, the organization designated in the public record, which is maintained by Tunngavik under the Agreement, as being responsible for the exercise of any power or the performance of any duty or function under the corresponding provision of the Agreement; or
-- **(b)** in respect of Inuit owned lands in the areas of equal use and occupancy, Makivik acting jointly with the organization determined under paragraph (a).
+- **(b)** in respect of Inuit owned lands in the areas of equal use and occupancy, Makivik acting jointly with the organization determined under paragraph (a). (*organisation inuite désignée*)
 
-***federal Minister*** means, other than in the definition ***proponent*** in this subsection, section 68, the definition ***responsible Minister*** in subsection 73(1), subsections 135(5), 136(1) and 149(2), paragraph 152(1)(b), section 173 and subsection 189(1), the Minister of Indian Affairs and Northern Development.
+***federal Minister*** means, other than in the definition ***proponent*** in this subsection, section 68, the definition ***responsible Minister*** in subsection 73(1), subsections 135(5), 136(1) and 149(2), paragraph 152(1)(b), section 173 and subsection 189(1), the Minister of Indian Affairs and Northern Development. (*ministre fédéral*)
 
-***interested corporation or organization*** means, for the purposes of section 43 and subsections 50(2), 101(4) and 120(5), a corporation or other organization that has given written notice to the Commission, the Board or any federal environmental assessment panel, as the case may be, of its interest in providing comments.
+***interested corporation or organization*** means, for the purposes of section 43 and subsections 50(2), 101(4) and 120(5), a corporation or other organization that has given written notice to the Commission, the Board or any federal environmental assessment panel, as the case may be, of its interest in providing comments. (*intéressée*)
 
-***Inuit of northern Quebec*** means the Inuit of northern Quebec within the meaning of the James Bay and Northern Quebec Agreement that was approved, given effect and declared valid by the [James Bay and Northern Quebec Native Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1976-77/c.%2032.md), S.C. 1976-77, c. 32.
+***Inuit of northern Quebec*** means the Inuit of northern Quebec within the meaning of the James Bay and Northern Quebec Agreement that was approved, given effect and declared valid by the [James Bay and Northern Quebec Native Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1976-77/c.%2032.md), S.C. 1976-77, c. 32. (*Inuits du Nord québécois*)
 
-***Inuktitut*** includes Inuinnaqtun.
+***Inuktitut*** includes Inuinnaqtun. (*inuktitut*)
 
-***land*** includes, for the purposes of Parts 1 and 3 to 6, land covered by waters, whether in the onshore or offshore.
+***land*** includes, for the purposes of Parts 1 and 3 to 6, land covered by waters, whether in the onshore or offshore. (*terres*)
 
-***land use plan*** does not include a municipal land use plan.
+***land use plan*** does not include a municipal land use plan. (*plan d’aménagement*)
 
-***Makivik*** means the Corporation established by An Act respecting the Makivik Corporation, R.S.Q., c. S-18.1, representing the Inuit of northern Quebec.
+***Makivik*** means the Corporation established by An Act respecting the Makivik Corporation, R.S.Q., c. S-18.1, representing the Inuit of northern Quebec. (*Makivik*)
 
-***marine conservation area*** means a marine conservation area or reserve as defined in subsection 2(1) of the [Canada National Marine Conservation Areas Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2018.md).
+***marine conservation area*** means a marine conservation area or reserve as defined in subsection 2(1) of the [Canada National Marine Conservation Areas Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2018.md). (*aire marine de préservation*)
 
-***municipality*** means a municipality or settlement as defined in subsection 28(1) of the [Interpretation Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-21.md), R.S.N.W.T. 1988, c. I-8, as amended for Nunavut under section 76.05 of the [Nunavut Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2028.md).
+***municipality*** means a municipality or settlement as defined in subsection 28(1) of the [Interpretation Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-21.md), R.S.N.W.T. 1988, c. I-8, as amended for Nunavut under section 76.05 of the [Nunavut Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2028.md). (*municipalité*)
 
-***national park*** means a park or park reserve as defined in subsection 2(1) of the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md).
+***national park*** means a park or park reserve as defined in subsection 2(1) of the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md). (*parc national*)
 
-***park*** means a national park, a territorial park or a marine conservation area.
+***park*** means a national park, a territorial park or a marine conservation area. (*parc*)
 
-***project*** means the carrying out, including the construction, operation, modification, decommissioning or abandonment, of a physical work or the undertaking or carrying out of a physical activity that involves the use of land, waters or other resources. It does not include
+***project*** means the carrying out, including the construction, operation, modification, decommissioning or abandonment, of a physical work or the undertaking or carrying out of a physical activity that involves the use of land, waters or other resources. It does not include
 - **(a)** the undertaking or carrying out of a work or activity if its adverse ecosystemic impacts are manifestly insignificant, taking into account in particular the factors set out in paragraphs 90(a) to (i);
 - **(b)** the undertaking or carrying out of a work or activity that is part of a class of works or activities prescribed by regulation; or
-- **(c)** the construction, operation or maintenance of a building or the provision of a service, within a municipality, that does not have ecosystemic impacts outside the municipality and does not involve the deposit of waste by a municipality, the bulk storage of fuel, the production of nuclear or hydro-electric power or any industrial activities.
+- **(c)** the construction, operation or maintenance of a building or the provision of a service, within a municipality, that does not have ecosystemic impacts outside the municipality and does not involve the deposit of waste by a municipality, the bulk storage of fuel, the production of nuclear or hydro-electric power or any industrial activities. (*projet*)
 
-***proponent*** means a person or entity, including a federal, provincial or territorial minister, department or agency, a municipality or a designated Inuit organization, that proposes the carrying out of a project.
+***proponent*** means a person or entity, including a federal, provincial or territorial minister, department or agency, a municipality or a designated Inuit organization, that proposes the carrying out of a project. (*promoteur*)
 
-***regulatory authority*** means a minister — other than for the purposes of section 197 —, a department or agency, a municipality or any other public body responsible for issuing a licence, permit or other authorization required by or under any other Act of Parliament or a territorial law for a project to proceed.
+***regulatory authority*** means a minister — other than for the purposes of section 197 —, a department or agency, a municipality or any other public body responsible for issuing a licence, permit or other authorization required by or under any other Act of Parliament or a territorial law for a project to proceed. (*autorité administrative*)
 
-***territorial law*** means an Act of the Legislature for Nunavut.
+***territorial law*** means an Act of the Legislature for Nunavut. (*loi territoriale*)
 
-***territorial Minister*** means, other than in the definition ***proponent*** in this subsection, paragraph 19(2)(d), section 68, the definition ***responsible Minister*** in subsection 73(1), subsections 94(5), 135(5), 136(1) and 149(2), paragraph 152(1)(b), section 173, subsection 189(1) and paragraph 200(2)(c), the Minister of Environment for Nunavut.
+***territorial Minister*** means, other than in the definition ***proponent*** in this subsection, paragraph 19(2)(d), section 68, the definition ***responsible Minister*** in subsection 73(1), subsections 94(5), 135(5), 136(1) and 149(2), paragraph 152(1)(b), section 173, subsection 189(1) and paragraph 200(2)(c), the Minister of Environment for Nunavut. (*ministre territorial*)
 
-***Tunngavik*** means Nunavut Tunngavik Incorporated, a corporation without share capital incorporated under Part II of the [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), R.S.C. 1970, c. C-32, and any successor to that corporation.
+***Tunngavik*** means Nunavut Tunngavik Incorporated, a corporation without share capital incorporated under Part II of the [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), R.S.C. 1970, c. C-32, and any successor to that corporation. (*Tunngavik*)
 
-***waters*** means inland waters on or below the surface of land and marine waters, whether in a liquid or solid state.
+***waters*** means inland waters on or below the surface of land and marine waters, whether in a liquid or solid state. (*eaux*)
 
 **Definitions from Agreement**
 
@@ -1206,11 +1206,11 @@ Version anglaise seulement***Commission*** means the Nunavut Planning Commission
 
 - **(1)** The following definitions apply in this Part.
 
-***responsible Minister*** means
+***responsible Minister*** means
 - **(a)** the federal minister or the territorial minister, as the case may be, who has the jurisdictional responsibility for authorizing a project to proceed; or
-- **(b)** the Minister of Indian Affairs and Northern Development, if there is no federal minister or territorial minister who has the responsibility referred to in paragraph (a).
+- **(b)** the Minister of Indian Affairs and Northern Development, if there is no federal minister or territorial minister who has the responsibility referred to in paragraph (a). (*ministre compétent*)
 
-***traditional knowledge*** means the accumulated body of knowledge, observations and understandings about the environment, and about the relationship of living beings with one another and with the environment, that is rooted in the traditional way of life of Inuit of the designated area.
+***traditional knowledge*** means the accumulated body of knowledge, observations and understandings about the environment, and about the relationship of living beings with one another and with the environment, that is rooted in the traditional way of life of Inuit of the designated area. (*connaissances traditionnelles*)
 
 **Interpretation**
 
@@ -3404,9 +3404,9 @@ Version anglaise seulement***Commission*** means the Nunavut Planning Commission
 
 - **(2)** The following definitions apply in this Part.
 
-***responsible authority*** has the same meaning as in section 163.
+***responsible authority*** has the same meaning as in section 163. (*autorité compétente*)
 
-***responsible Minister*** has the same meaning as in subsection 73(1).
+***responsible Minister*** has the same meaning as in subsection 73(1). (*ministre compétent*)
 
 
 
