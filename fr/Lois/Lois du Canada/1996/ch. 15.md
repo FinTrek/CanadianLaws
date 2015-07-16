@@ -644,9 +644,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ### **ANNEXE** 
 **(articles 10.1 et 10.2)**
 ## Programmes désignés
+*Alberta Witness Security Program*
+
+
 *Saskatchewan Witness Protection Program*
 
 
-> 2013, ch. 29, art. 21; DORS/2015-110.
+> 2013, ch. 29, art. 21; DORS/2015-110 et 194.
 
 
