@@ -1810,54 +1810,64 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 
 ### **SCHEDULE II** 
 **(Sections 2, 3, 4 to 7, 10, 29, 55 and 60)**
-**1** Cannabis, its preparations, derivatives and similar synthetic preparations, including
-
-**(1)** Cannabis resin
-
-
-
-**(2)** Cannabis (marihuana)
-
-
-
-**(3)** Cannabidiol (2–[3–methyl–6–(1–methylethenyl)–2–cyclohexen–1–yl]–5–pentyl–1,3–benzenediol)
-
-
-
-**(4)** Cannabinol (3–n–amyl–6,6,9–trimethyl–6–dibenzopyran–1–ol)
-
-
-
-**(5)** Nabilone ((±)–trans–3–(1,1–dimethylheptyl)–6,6a, 7,8,10,10a–hexahydro–1–hydroxy–6,6–dimethyl–9H–dibenzo[b,d]pyran–9–one)
-
-
-
-**(6)** Pyrahexyl (3–n–hexyl–6,6,9–trimethyl–7,8,9, 10–tetrahydro–6–dibenzopyran–1–ol)
-
-
-
-**(7)** Tetrahydrocannabinol (tetrahydro–6,6,9–trimethyl–3–pentyl–6H–dibenzo[b,d]pyran–1–ol)
-
-
-
-**(7.1)** 3-(1,2-dimethylheptyl)-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H-dibenzo[b,d]pyran-1-ol (DMHP)
-
-
-
-but not including
-
-
-
-**(8)** Non–viable Cannabis seed, with the exception of its derivatives
-
-
-
-**(9)** Mature Cannabis stalks that do not include leaves, flowers, seeds or branches; and fiber derived from such stalks
-
-
-
-
-> 1996, c. 19, Sch. II; SOR/98-157; SOR/2003-32, s. 1.
+- **1** Cannabis, its preparations and derivatives, including
+- **(1)** Cannabis resin
+- **(2)** Cannabis (marihuana)
+- **(3)** Cannabidiol (2–[3–methyl–6–(1–methylethenyl)–2–cyclohexen–1–yl]–5–pentyl–1,3–benzenediol)
+- **(4)** Cannabinol (3–n–amyl–6,6,9–trimethyl–6–dibenzopyran–1–ol)
+- **(5) and (6)** [Repealed, SOR/2015-192, s. 1]
+- **(7)** Tetrahydrocannabinol (tetrahydro–6,6,9–trimethyl–3–pentyl–6H–dibenzo[b,d]pyran–1–ol)
+- **(7.1)** [Repealed, SOR/2015-192, s. 1]
+- but not including
+- **(8)** Non–viable Cannabis seed, with the exception of its derivatives
+- **(9)** Mature Cannabis stalks that do not include leaves, flowers, seeds or branches; and fiber derived from such stalks
+- **2** Synthetic cannabinoid receptor type 1 agonists, their salts, derivatives, isomers, and salts of derivatives and isomers — with the exception of ((3S)-2,3-dihydro-5-methyl-3-(4-morpholinylmethyl)pyrrolo[1,2,3-de]-1,4-benzoxazin-6-yl)-1-naphthalenyl-methanone (WIN 55,212-3) and its salts — including those that fall within the following core chemical structure classes:
+- **(1)** Any substance that has a 2-(cyclohexyl)phenol structure with substitution at the 1-position of the benzene ring by a hydroxy, ether or ester group and further substituted at the 5-position of the benzene ring, whether or not further substituted on the benzene ring to any extent, and substituted at the 3’-position of the cyclohexyl ring by an alkyl, carbonyl, hydroxyl, ether or ester, and whether or not further substituted on the cyclohexyl ring to any extent, including
+- **(i)** Nabilone ((±)-trans-3-(1,1-dimethylheptyl)-6,6a,7,8,10,10a-hexahydro-1-hydroxy-6,6-dimethyl-9H-dibenzo[b,d]pyran-9-one)
+- **(ii)** Parahexyl (3-hexyl-6,6,9-trimethyl-7,8,9,10-tetrahydro-6H-dibenzo[b,d]pyran-1-ol)
+- **(iii)** 3-(1,2-dimethylheptyl)-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H-dibenzo[b,d]pyran-1-ol (DMHP)
+- **(iv)** 5-(1,1-dimethylheptyl)-2-(5-hydroxy-2-(3-hydroxypropyl)cyclohexyl)phenol (CP 55,940)
+- **(v)** 5-(1,1-dimethylheptyl)-2-(3-hydroxycyclohexyl)phenol (CP 47,497)
+- **(2)** Any substance that has a 3-(1-naphthoyl)indole structure with substitution at the nitrogen atom of the indole ring, whether or not further substituted on the indole ring to any extent and whether or not substituted on the naphthyl ring to any extent, including
+- **(i)** 1-pentyl-3-(1-naphthoyl)indole (JWH-018)
+- **(ii)** 1-butyl-3-(1-naphthoyl)indole (JWH-073)
+- **(iii)** 1-pentyl-3-(4-methyl-1-naphthoyl)indole (JWH-122)
+- **(iv)** 1-hexyl-3-(1-naphthoyl)indole (JWH-019)
+- **(v)** 1-(4-pentenyl)-3-(1-naphthoyl)indole (JWH-022)
+- **(vi)** 1-butyl-3-(4-methoxy-1-naphthoyl)indole (JWH-080)
+- **(vii)** 1-pentyl-3-(4-methoxy-1-naphthoyl)indole (JWH-081)
+- **(viii)** 1-(2-morpholin-4-ylethyl)-3-(1-naphthoyl)indole (JWH-200)
+- **(ix)** 1-pentyl-3-(4-ethyl-1-naphthoyl)indole (JWH-210)
+- **(x)** 1-pentyl-3-(2-methoxy-1-naphthoyl)indole (JWH-267)
+- **(xi)** 1-[(N-methylpiperidin-2-yl)methyl]-3-(1-naphthoyl)indole (AM-1220)
+- **(xii)** 1-(5-fluoropentyl)-3-(1-naphthoyl)indole (AM-2201)
+- **(xiii)** 1-(5-fluoropentyl)-3-(4-methyl-1-naphthoyl)indole (MAM-2201)
+- **(xiv)** 1-(5-fluoropentyl)-3-(4-ethyl-1-naphthoyl)indole (EAM-2201)
+- **(xv)** ((3R)-2,3-dihydro-5-methyl-3-(4-morpholinylmethyl)pyrrolo[1,2,3-de]-1,4-benzoxazin-6-yl)-1-naphthalenyl-methanone (WIN 55,212-2)
+- **(3)** Any substance that has a 3-(1-naphthoyl)pyrrole structure with substitution at the nitrogen atom of the pyrrole ring, whether or not further substituted on the pyrrole ring to any extent and whether or not substituted on the naphthyl ring to any extent, including
+- **(i)** 1-pentyl-5-(2-fluorophenyl)-3-(1-naphthoyl)pyrrole (JWH-307)
+- **(4)** Any substance that has a 3-phenylacetylindole structure with substitution at the nitrogen atom of the indole ring, whether or not further substituted on the indole ring to any extent and whether or not substituted on the phenyl ring to any extent, including
+- **(i)** 1-pentyl-3-(2-methoxyphenylacetyl)indole (JWH-250)
+- **(ii)** 1-pentyl-3-(2-methylphenylacetyl)indole (JWH-251)
+- **(iii)** 1-pentyl-3-(3-methoxyphenylacetyl)indole (JWH-302)
+- **(5)** Any substance that has a 3-benzoylindole structure with substitution at the nitrogen atom of the indole ring, whether or not further substituted on the indole ring to any extent and whether or not substituted on the phenyl ring to any extent, including
+- **(i)** 1-(1-methylpiperidin-2-ylmethyl)-3-(2-iodobenzoyl)indole (AM-2233)
+- **(6)** Any substance that has a 3-methanone(cyclopropyl)indole structure with substitution at the nitrogen atom of the indole ring, whether or not further substituted on the indole ring to any extent and whether or not substituted on the cyclopropyl ring to any extent, including
+- **(i)** (1-pentyl-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)-methanone (UR-144)
+- **(ii)** (1-(5-fluoropentyl)-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)-methanone (5F-UR-144)
+- **(iii)** (1-(2-(4-morpholinyl)ethyl)-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)-methanone (A-796,260)
+- **(7)** Any substance that has a quinolin-8-yl 1H-indole-3-carboxylate structure with substitution at the nitrogen atom of the indole ring, whether or not further substituted on the indole ring to any extent and whether or not substituted on the quinolin-8-yl ring to any extent, including
+- **(i)** 1-pentyl-8-quinolinyl ester-1H-indole-3-carboxylic acid (PB-22)
+- **(ii)** 1-(5-fluoropentyl)-8-quinolinyl ester-1H-indole-3-carboxylic acid (5F-PB-22)
+- **(8)** Any substance that has a 3-carboxamideindazole structure with substitution at the nitrogen atom of the indazole ring, whether or not further substituted on the indazole ring to any extent and whether or not substituted at the carboxamide group to any extent, including
+- **(i)** N-(adamantan-1-yl)-1-pentyl-1H-indazole-3-carboxamide (AKB48)
+- **(ii)** N-(adamantan-1-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide (5F-AKB48)
+- **(iii)** N-(1-(aminocarbonyl)-2-methylpropyl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide (AB-FUBINACA)
+- **(iv)** N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide (AB-PINACA)
+- **(9)** Any substance that has a 3-carboxamideindole structure with substitution at the nitrogen atom of the indole ring, whether or not further substituted on the indole ring to any extent and whether or not substituted at the carboxamide group to any extent, including
+- **(i)** N-(adamantan-1-yl)-1-fluoropentylindole-3-carboxamide (STS-135)
+- **(ii)** N-(adamantan-1-yl)-1-pentylindole-3-carboxamide (APICA)
+> 1996, c. 19, Sch. II; SOR/98-157; SOR/2003-32, s. 1; SOR/2015-192.
 
 
 
