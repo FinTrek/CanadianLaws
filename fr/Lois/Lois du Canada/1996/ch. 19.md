@@ -1775,54 +1775,64 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 ### **ANNEXE II** 
 **(articles 2, 3, 4 à 7, 10, 29, 55 et 60)**
-**1** Chanvre indien (Cannabis), ainsi que ses préparations et dérivés et les préparations synthétiques semblables, notamment :
-
-**(1)** résine de cannabis
-
-
-
-**(2)** cannabis (marihuana)
-
-
-
-**(3)** cannabidiol ([méthyl–3 (méthyl–1 éthenyl)–6 (cyclohexènyl–1)–2]–2 pentyl–5 benzènediol–1,3)
-
-
-
-**(4)** cannabinol (n–amyl–3 hydroxy–1 triméthyl–6,6,9 6H–dibenzopyranne)
-
-
-
-**(5)** nabilone (d,1–trans (diméthyl–1,1 heptyl)–3 hexahydro–6,6a,7,8,10,10a hydroxy–1 diméthyl–6,6 9H–dibenzo [b,d] pyrannone–9)
-
-
-
-**(6)** pyrahexyl (n–hexyl–3 hydroxy–1 triméthyl–6,6,9 tétrahydro–7,8,9,10 6H–dibenzopyranne)
-
-
-
-**(7)** tétrahydrocannabinol (tétrahydro hydroxy–1 triméthyl–6,6,9 pentyl–3 6H–dibenzo[b,d]pyranne)
-
-
-
-**(7.1)** (diméthyl-1,2 heptyl)-3 hydroxy-1 tétrahydro-7,8,9,10 triméthyl-6,6,9 6H-dibenzo[b,d]pyranne (DMHP)
-
-
-
-mais non compris :
-
-
-
-**(8)** graines de cannabis stériles — à l’exception des dérivés de ces graines
-
-
-
-**(9)** tige de cannabis mature — à l’exception des branches, des feuilles, des fleurs et des graines — ainsi que les fibres obtenues de cette tige
-
-
-
-
-> 1996, ch. 19, ann. II; DORS/98-157; DORS/2003-32, art. 1.
+- **1** Chanvre indien (Cannabis), ainsi que ses préparations et dérivés, notamment :
+- **(1)** résine de cannabis
+- **(2)** cannabis (marihuana)
+- **(3)** cannabidiol ([méthyl–3 (méthyl–1 éthenyl)–6 (cyclohexènyl–1)–2]–2 pentyl–5 benzènediol–1,3)
+- **(4)** cannabinol (n–amyl–3 hydroxy–1 triméthyl–6,6,9 6H–dibenzopyranne)
+- **(5) et (6)** [Abrogés, DORS/2015-192, art. 1]
+- **(7)** tétrahydrocannabinol (tétrahydro hydroxy–1 triméthyl–6,6,9 pentyl–3 6H–dibenzo[b,d]pyranne)
+- **(7.1)** [Abrogé, DORS/2015-192, art. 1]
+- mais non compris :
+- **(8)** graines de cannabis stériles — à l’exception des dérivés de ces graines
+- **(9)** tige de cannabis mature — à l’exception des branches, des feuilles, des fleurs et des graines — ainsi que les fibres obtenues de cette tige
+- **2** Agonistes de synthèse des récepteurs cannabinoïdes de type 1, leurs sels, leurs dérivés et leurs isomères ainsi que les sels de leurs dérivés et isomères — à l’exclusion de ((3S)-2,3-dihydro-5-méthyl-3-(4-morpholinylméthyl)pyrrolo[1,2,3-de]-1,4-benzoxazin-6-yl)-1-naphthalènyl-méthanone (WIN 55,212-3) et ses sels —, notamment ceux qui entrent dans les catégories de structure chimique de base suivantes :
+- **(1)** toute substance ayant une structure 2-(cyclohexyl)phénol substituée en position 1 du cycle benzénique par un groupe hydroxy, éther ou ester et substituée davantage en position 5 du cycle benzénique, qu’il y ait ou non davantage de substitution sur ce cycle dans quelque mesure que ce soit, et substituée en position 3’ du cycle cyclohexyle par un alkyle, un carbonyle, un hydroxyle, un éther ou un ester, qu’il y ait ou non davantage de substitution sur ce cycle dans quelque mesure que ce soit, notamment :
+- **(i)** nabilone ((±)-trans-3-(1,1-diméthylheptyl)-6,6a,7,8,10,10a-hexahydro-1-hydroxy-6,6-diméthyl-9H-dibenzo[b,d]pyran-9-one)
+- **(ii)** parahexyl (3-hexyl-6,6,9-triméthyl-7,8,9,10-tétrahydro-6H-dibenzo[b,d]pyran-1-ol)
+- **(iii)** 3-(1,2-diméthylheptyl)-7,8,9,10-tétrahydro-6,6,9-triméthyl-6H-dibenzo[b,d]pyran-1-ol (DMHP)
+- **(iv)** 5-(1,1-diméthylheptyl)-2-(5-hydroxy-2-(3-hydroxypropyl)cyclohexyl)phénol (CP 55,940)
+- **(v)** 5-(1,1-diméthylheptyl)-2-(3-hydroxycyclohexyl)phénol (CP 47,497)
+- **(2)** toute substance ayant une structure 3-(1-naphthoyl)indole substituée à l’atome d’azote du cycle indole, qu’il y ait ou non davantage de substitution sur ce cycle dans quelque mesure que ce soit et qu’il y ait ou non substitution sur le cycle naphtyle dans quelque mesure que ce soit, notamment :
+- **(i)** 1-pentyl-3-(1-naphthoyl)indole (JWH-018)
+- **(ii)** 1-butyl-3-(1-naphthoyl)indole (JWH-073)
+- **(iii)** 1-pentyl-3-(4-méthyl-1-naphthoyl)indole (JWH-122)
+- **(iv)** 1-hexyl-3-(1-naphthoyl)indole (JWH-019)
+- **(v)** 1-(4-pentényl)-3-(1-naphthoyl)indole (JWH-022)
+- **(vi)** 1-butyl-3-(4-méthoxy-1-naphthoyl)indole (JWH-080)
+- **(vii)** 1-pentyl-3-(4-méthoxy-1-naphthoyl)indole (JWH-081)
+- **(viii)** 1-(2-morpholin-4-yléthyl)-3-(1-naphthoyl)indole (JWH-200)
+- **(ix)** 1-pentyl-3-(4-éthyl-1-naphthoyl)indole (JWH-210)
+- **(x)** 1-pentyl-3-(2-méthoxy-1-naphthoyl)indole (JWH-267)
+- **(xi)** 1-[(N-méthylpipéridin-2-yl)méthyl]-3-(1-naphthoyl)indole (AM-1220)
+- **(xii)** 1-(5-fluoropentyl)-3-(1-naphthoyl)indole (AM-2201)
+- **(xiii)** 1-(5-fluoropentyl)-3-(4-méthyl-1-naphthoyl)indole (MAM-2201)
+- **(xiv)** 1-(5-fluoropentyl)-3-(4-éthyl-1-naphthoyl)indole (EAM-2201)
+- **(xv)** ((3R)-2,3-dihydro-5-méthyl-3-(4-morpholinylméthyl)pyrrolo[1,2,3-de]-1,4-benzoxazin-6-yl)-1-naphthalènyl-méthanone (WIN 55,212-2)
+- **(3)** toute substance ayant une structure 3-(1-naphthoyl)pyrrole substituée à l’atome d’azote du cycle pyrrole, qu’il y ait ou non davantage de substitution sur ce cycle dans quelque mesure que ce soit et qu’il y ait ou non substitution sur le cycle naphtyle dans quelque mesure que ce soit, notamment :
+- **(i)** 1-pentyl-5-(2-fluorophényl)-3-(1-naphthoyl)pyrrole (JWH-307)
+- **(4)** toute substance ayant une structure 3-phénylacétylindole substituée à l’atome d’azote du cycle indole, qu’il y ait ou non davantage de substitution sur ce cycle dans quelque mesure que ce soit et qu’il y ait ou non substitution sur le cycle phényle dans quelque mesure que ce soit, notamment :
+- **(i)** 1-pentyl-3-(2-méthoxyphénylacétyl)indole (JWH-250)
+- **(ii)** 1-pentyl-3-(3-méthoxyphénylacétyl)indole (JWH-302)
+- **(iii)** 1-pentyl-3-(2-méthylphénylacétyl)indole (JWH-251)
+- **(5)** toute substance ayant une structure 3-benzoylindole substituée à l’atome d’azote du cycle indole, qu’il y ait ou non davantage de substitution sur ce cycle dans quelque mesure que ce soit et qu’il y ait ou non substitution sur le cycle phényle dans quelque mesure que ce soit, notamment :
+- **(i)** 1-(1-méthylpipéridin-2-ylméthyl)-3-(2-iodobenzoyl)indole (AM-2233)
+- **(6)** toute substance ayant une structure 3-méthanone(cyclopropyl)indole substituée à l’atome d’azote du cycle indole, qu’il y ait ou non davantage de substitution sur ce cycle dans quelque mesure que ce soit et qu’il y ait ou non substitution sur le cycle cyclopropyle dans quelque mesure que ce soit, notamment :
+- **(i)** (1-pentyl-1H-indol-3-yl)(2,2,3,3-tétraméthylcyclopropyl)-méthanone (UR-144)
+- **(ii)** (1-(5-fluoropentyl)-1H-indol-3-yl)(2,2,3,3-tétraméthylcyclopropyl)-méthanone (5F-UR-144)
+- **(iii)** (1-(2-(4-morpholinyl)éthyl)-1H-indol-3-yl)(2,2,3,3-tétraméthylcyclopropyl)-méthanone (A-796,260)
+- **(7)** toute substance ayant une structure quinolin-8-yl 1H-indole-3-carboxylate substituée à l’atome d’azote du cycle indole, qu’il y ait ou non davantage de substitution sur ce cycle dans quelque mesure que ce soit et qu’il y ait ou non substitution sur le cycle quinolin-8-yl dans quelque mesure que ce soit, notamment :
+- **(i)** acide 1-pentyl-8-quinolinyl ester-1H-indole-3-carboxylique (PB-22)
+- **(ii)** acide 1-(5-fluoropentyl)-8-quinolinyl ester-1H-indole-3-carboxylique (5F-PB-22)
+- **(8)** toute substance ayant une structure 3-carboxamideindazole substituée à l’atome d’azote du cycle indazole, qu’il y ait ou non davantage de substitution sur ce cycle dans quelque mesure que ce soit et qu’il y ait ou non substitution au groupe carboxamide dans quelque mesure que ce soit, notamment :
+- **(i)** N-(adamantan-1-yl)-1-pentyl-1H-indazole-3-carboxamide (AKB48)
+- **(ii)** N-(adamantan-1-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide (5F-AKB48)
+- **(iii)** N-(1-(aminocarbonyl)-2-méthylpropyl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide (AB-FUBINACA)
+- **(iv)** N-(1-amino-3-méthyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide (AB-PINACA)
+- **(9)** toute substance ayant une structure 3-carboxamideindole substituée à l’atome d’azote du cycle indole, qu’il y ait ou non davantage de substitution sur ce cycle dans quelque mesure que ce soit et qu’il y ait ou non substitution au groupe carboxamide dans quelque mesure que ce soit, notamment :
+- **(i)** N-(adamantan-1-yl)-1-fluoropentylindole-3-carboxamide (STS-135)
+- **(ii)** N-(adamantan-1-yl)-1-pentylindole-3-carboxamide (APICA)
+> 1996, ch. 19, ann. II; DORS/98-157; DORS/2003-32, art. 1; DORS/2015-192.
 
 
 
