@@ -331,7 +331,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Ordonnances**
 
-- **(2)** Le tribunal a aussi compétence pour rendre à l’égard d’un adolescent l’ordonnance visée aux articles 810 (engagement — crainte de blessures ou dommages), 810.01 (engagement — crainte d’actes de gangstérisme) ou 810.2 (engagement — crainte de sévices à la personne) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md); dans le cas où l’adolescent omet ou refuse de contracter l’engagement prévu à ces articles, le tribunal peut lui imposer une des sanctions prévues au paragraphe 42(2) (peines spécifiques), sauf que, si la sanction est imposée en vertu de l’alinéa 42(2)n) (ordonnance de placement et de surveillance), celle-ci ne peut excéder trente jours.
+- **(2)** Le tribunal a aussi compétence pour rendre à l’égard d’un adolescent l’ordonnance visée aux articles 810 (engagement — crainte de blessures ou dommages), 810.01 (engagement — crainte d’actes de gangstérisme), 810.02 (engagement — crainte de mariage forcé ou de mariage de personnes de moins de seize ans) ou 810.2 (engagement — crainte de sévices graves à la personne) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md); dans le cas où l’adolescent omet ou refuse de contracter l’engagement prévu à ces articles, le tribunal peut lui imposer une des sanctions prévues au paragraphe 42(2) (peines spécifiques), sauf que, si la sanction est imposée en vertu de l’alinéa 42(2)n) (ordonnance de placement et de surveillance), celle-ci ne peut excéder trente jours.
 
 **Prescription**
 
@@ -352,6 +352,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Pouvoirs supplémentaires**
 
 - **(7)** Le juge d’une cour supérieure de juridiction criminelle qui est réputé être un juge du tribunal pour adolescents conserve les attributions de cette cour.
+> 2002, ch. 1, art. 14; 2015, ch. 29, art. 14.
+
 
 
 
@@ -3611,7 +3613,7 @@ Cette exclusion ne vaut que pour la durée de présentation au tribunal ou à la
 **142** 
 
 - **(1)** Sous réserve des autres dispositions du présent article et dans la mesure où elles sont compatibles avec la présente loi, les dispositions de la partie XXVII (déclaration de culpabilité par procédure sommaire) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) et les autres dispositions de cette loi applicables en matière d’infraction punissable sur déclaration de culpabilité par procédure sommaire et qui concernent les poursuites en première instance s’appliquent aux poursuites intentées dans le cadre de la présente loi et relatives :
-	- **a)** aux ordonnances rendues en vertu des articles 810 (engagement — crainte de blessures ou dommages), 810.01 (engagement — crainte d’actes de gangstérisme) ou 810.2 (engagement — crainte de sévices à la personne) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou aux infractions prévues à l’article 811 (manquement à l’engagement) de cette loi;
+	- **a)** aux ordonnances rendues en vertu des articles 810 (engagement — crainte de blessures ou dommages), 810.01 (engagement — crainte d’actes de gangstérisme), 810.02 (engagement — crainte de mariage forcé ou de mariage de personnes de moins de seize ans) ou 810.2 (engagement — crainte de sévices graves à la personne) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou aux infractions prévues à l’article 811 (manquement à l’engagement) de cette loi;
 	- **b)** aux infractions punissables sur déclaration de culpabilité par procédure sommaire;
 	- **c)** aux actes criminels, comme si les dispositions qui prévoient ceux-ci les avaient classés au rang des infractions punissables sur déclaration de culpabilité par procédure sommaire.
 
@@ -3630,6 +3632,8 @@ Cette exclusion ne vaut que pour la durée de présentation au tribunal ou à la
 **Frais**
 
 - **(5)** L’article 809 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ne s’applique pas aux poursuites intentées dans le cadre de la présente loi.
+> 2002, ch. 1, art. 142; 2015, ch. 29, art. 15.
+
 
 
 
