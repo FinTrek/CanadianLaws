@@ -335,7 +335,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Orders**
 
-- **(2)** A youth justice court has jurisdiction to make orders against a young person under sections 810 (recognizance — fear of injury or damage), 810.01 (recognizance — fear of criminal organization offence), 810.02 (recognizance — fear of forced marriage or marriage under age of 16 years) and 810.2 (recognizance — fear of serious personal injury offence) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). If the young person fails or refuses to enter into a recognizance referred to in any of those sections, the court may impose any one of the sanctions set out in subsection 42(2) (youth sentence) except that, in the case of an order under paragraph 42(2)(n) (custody and supervision order), it shall not exceed 30 days.
+- **(2)** A youth justice court has jurisdiction to make orders against a young person under sections 83.3 (recognizance — terrorist activity), 810 (recognizance — fear of injury or damage), 810.01 (recognizance — fear of certain offences), 810.011 (recognizance — fear of terrorism offence), 810.02 (recognizance — fear of forced marriage or marriage under age of 16 years) and 810.2 (recognizance — fear of serious personal injury offence) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). If the young person fails or refuses to enter into a recognizance referred to in any of those sections, the court may impose any one of the sanctions set out in subsection 42(2) (youth sentences) except that, in the case of an order under paragraph 42(2)(n) (custody and supervision order), it shall not exceed 30 days.
 
 **Prosecution prohibited**
 
@@ -356,7 +356,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Powers of a judge of a superior court**
 
 - **(7)** A judge of a superior court of criminal jurisdiction, when deemed to be a youth justice court judge for the purpose of a proceeding, retains the jurisdiction and powers of a superior court of criminal jurisdiction.
-> 2002, c. 1, s. 14; 2015, c. 29, s. 14.
+> 2002, c. 1, s. 14; 2015, c. 20, ss. 32, 36, c. 29, s. 14.
 
 
 
@@ -3666,7 +3666,7 @@ is guilty of an indictable offence and liable to imprisonment for a term not exc
 **142** 
 
 - **(1)** Subject to this section and except to the extent that they are inconsistent with this Act, the provisions of Part XXVII (summary conviction offences) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), and any other provisions of that Act that apply in respect of summary conviction offences and relate to trial proceedings, apply to proceedings under this Act
-	- **(a)** in respect of an order under section 810 (recognizance — fear of injury or damage), 810.01 (recognizance — fear of criminal organization offence), 810.02 (recognizance — fear of forced marriage or marriage under age of 16 years) or 810.2 (recognizance — fear of serious personal injury offence) of that Act or an offence under section 811 (breach of recognizance) of that Act;
+	- **(a)** in respect of an order under section 83.3 (recognizance — terrorist activity), 810 (recognizance — fear of injury or damage), 810.01 (recognizance — fear of certain offences), 810.011 (recognizance — fear of terrorism offence), 810.02 (recognizance — fear of forced marriage or marriage under age of 16 years) or 810.2 (recognizance — fear of serious personal injury offence) of that Act or an offence under section 811 (breach of recognizance) of that Act;
 	- **(b)** in respect of a summary conviction offence; and
 	- **(c)** in respect of an indictable offence as if it were defined in the enactment creating it as a summary conviction offence.
 
@@ -3685,7 +3685,7 @@ is guilty of an indictable offence and liable to imprisonment for a term not exc
 **Costs**
 
 - **(5)** Section 809 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) does not apply in respect of proceedings under this Act.
-> 2002, c. 1, s. 142; 2015, c. 29, s. 15.
+> 2002, c. 1, s. 142; 2015, c. 20, ss. 33, 36, c. 29, s. 15.
 
 
 
