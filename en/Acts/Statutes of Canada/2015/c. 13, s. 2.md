@@ -151,7 +151,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Privacy**
 
-**11** Every victim has the right to have their privacy considered by the appropriate author- ities in the criminal justice system.
+**11** Every victim has the right to have their privacy considered by the appropriate authorities in the criminal justice system.
 
 
 
