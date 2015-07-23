@@ -44,78 +44,87 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** In this Part,
 
-***Commissioner*** means the Commissioner of Corrections appointed pursuant to subsection 6(1);
+***Commissioner*** means the Commissioner of Corrections appointed pursuant to subsection 6(1); (*commissaire*)
 
-***contraband*** means
+***contraband*** means
 - **(a)** an intoxicant,
 - **(b)** a weapon or a component thereof, ammunition for a weapon, and anything that is designed to kill, injure or disable a person or that is altered so as to be capable of killing, injuring or disabling a person, when possessed without prior authorization,
 - **(c)** an explosive or a bomb or a component thereof,
 - **(d)** currency over any applicable prescribed limit, when possessed without prior authorization, and
-- **(e)** any item not described in paragraphs (a) to (d) that could jeopardize the security of a penitentiary or the safety of persons, when that item is possessed without prior authorization;
+- **(e)** any item not described in paragraphs (a) to (d) that could jeopardize the security of a penitentiary or the safety of persons, when that item is possessed without prior authorization; (*objets interdits*)
 
-***day parole*** has the same meaning as in Part II;
+***day parole*** has the same meaning as in Part II; (*semi-liberté*)
 
-***inmate*** means
+***inmate*** means
 - **(a)** a person who is in a penitentiary pursuant to
 	- **(i)** a sentence, committal or transfer to penitentiary, or
 	- **(ii)** a condition imposed by the Parole Board of Canada in connection with day parole or statutory release, or
 - **(b)** a person who, having been sentenced, committed or transferred to penitentiary,
 	- **(i)** is temporarily outside penitentiary by reason of a temporary absence or work release authorized under this Act, or
-	- **(ii)** is temporarily outside penitentiary for reasons other than a temporary absence, work release, parole or statutory release, but is under the direction or supervision of a staff member or of a person authorized by the Service;
+	- **(ii)** is temporarily outside penitentiary for reasons other than a temporary absence, work release, parole or statutory release, but is under the direction or supervision of a staff member or of a person authorized by the Service; (*détenu*)
 
-Version anglaise seulement***institutional head***, in relation to a penitentiary, means the person who is normally in charge of the penitentiary;
+***institutional head***, in relation to a penitentiary, means the person who is normally in charge of the penitentiary; (***Version anglaise seulement***)
 
-***intoxicant*** means a substance that, if taken into the body, has the potential to impair or alter judgment, behaviour or the capacity to recognize reality or meet the ordinary demands of life, but does not include caffeine, nicotine or any authorized medication used in accordance with directions given by a staff member or a registered health care professional;
+***intoxicant*** means a substance that, if taken into the body, has the potential to impair or alter judgment, behaviour or the capacity to recognize reality or meet the ordinary demands of life, but does not include caffeine, nicotine or any authorized medication used in accordance with directions given by a staff member or a registered health care professional; (*substance intoxicante*)
 
-***long-term supervision*** means long-term supervision ordered under subsection 753(4), 753.01(5) or (6) or 753.1(3) or subparagraph 759(3)(a)(i) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
+***long-term supervision*** means long-term supervision ordered under subsection 753(4), 753.01(5) or (6) or 753.1(3) or subparagraph 759(3)(a)(i) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); (*surveillance de longue durée*)
 
-***Minister*** means the Minister of Public Safety and Emergency Preparedness;
+***Minister*** means the Minister of Public Safety and Emergency Preparedness; (*ministre*)
 
-***offender*** means
+***offender*** means
 - **(a)** an inmate, or
 - **(b)** a person who, having been sentenced, committed or transferred to penitentiary, is outside penitentiary
 	- **(i)** by reason of parole or statutory release,
 	- **(ii)** pursuant to an agreement referred to in subsection 81(1), or
-	- **(iii)** pursuant to a court order;
+	- **(iii)** pursuant to a court order; (*délinquant*)
 
-***parole*** has the same meaning as in Part II;
+***parole*** has the same meaning as in Part II; (*libération conditionnelle*)
 
-***penitentiary*** means
+***penitentiary*** means
 - **(a)** a facility of any description, including all lands connected therewith, that is operated, permanently or temporarily, by the Service for the care and custody of inmates, and
-- **(b)** any place declared to be a penitentiary pursuant to section 7;
+- **(b)** any place declared to be a penitentiary pursuant to section 7; (*pénitencier*)
 
-Version anglaise seulement***prescribed*** means prescribed by regulation;
+***prescribed*** means prescribed by regulation; (***Version anglaise seulement***)
 
-***provincial parole board*** has the same meaning as in Part II;
+***provincial parole board*** has the same meaning as in Part II; (*commission provinciale*)
 
- ou ***sentence*** means a sentence of imprisonment and includes 
+***sentence*** means a sentence of imprisonment and includes 
 - **(a)** a sentence imposed by a foreign entity on a Canadian offender who has been transferred to Canada under the [International Transfer of Offenders Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2021.md), and
-- **(b)** a youth sentence imposed under the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md) consisting of a custodial portion and a portion to be served under supervision in the community subject to conditions under paragraph 42(2)(n) of that Act or under conditional supervision under paragraph 42(2)(o), (q) or (r) of that Act;
+- **(b)** a youth sentence imposed under the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md) consisting of a custodial portion and a portion to be served under supervision in the community subject to conditions under paragraph 42(2)(n) of that Act or under conditional supervision under paragraph 42(2)(o), (q) or (r) of that Act; (*peine* ou *peine d’emprisonnement*)
 
-***Service*** means the Correctional Service of Canada described in section 5;
+***Service*** means the Correctional Service of Canada described in section 5; (*Service*)
 
-***staff member*** means an employee of the Service;
+***staff member*** means an employee of the Service; (*agent*)
 
-***statutory release*** has the same meaning as in Part II;
+***statutory release*** has the same meaning as in Part II; (*libération d’office*)
 
-***unescorted temporary absence*** has the same meaning as in Part II;
+***unescorted temporary absence*** has the same meaning as in Part II; (*permission de sortir sans escorte*)
 
-***victim*** means a person to whom harm was done or who suffered physical or emotional damage as a result of the commission of an offence and, if the person is dead, ill or otherwise incapacitated,
-- **(a)** the person’s spouse or an individual who is — or was at the time of the person’s death — cohabiting with them in a conjugal relationship, having so cohabited for a period of at least one year,
-- **(b)** a relative or dependant of the person,
-- **(c)** anyone who has in law or fact custody, or is responsible for the care or support, of the person, or
-- **(d)** anyone who has in law or fact custody, or is responsible for the care or support, of a dependant of the person;
+***victim***, in respect of an offence, means an individual who has suffered physical or emotional harm, property damage or economic loss as the result of the commission of the offence; (*victime*)
 
-***visitor*** means any person other than an inmate or a staff member.
+***visitor*** means any person other than an inmate or a staff member; (*visiteur*)
 
-***working day*** means a day on which offices of the federal public administration are generally open in the province in question.
+***working day*** means a day on which offices of the federal public administration are generally open in the province in question. (*jour ouvrable*)
 
 **Exercise of powers, etc.**
 
 - **(2)** Except as otherwise provided by this Part or by regulations made under paragraph 96(b),
 	- **(a)** powers, duties and functions that this Part assigns to the Commissioner may only be exercised or performed by the Commissioner or, where the Commissioner is absent or incapacitated or where the office is vacant, by the person acting in the place of the Commissioner; and
 	- **(b)** powers, duties and functions that this Part assigns to the institutional head may only be exercised or performed by the institutional head or, where the institutional head is absent or incapacitated or where the office is vacant, by the person who, at the relevant time, is in charge of the penitentiary.
-> 1992, c. 20, s. 2; 1995, c. 42, s. 1; 1997, c. 17, s. 11; 2000, c. 12, s. 88; 2002, c. 1, s. 171; 2004, c. 21, s. 39; 2005, c. 10, s. 34; 2008, c. 6, s. 56; 2012, c. 1, ss. 52, 160, 196
+
+**Acting on victim’s behalf**
+
+- **(3)** For the purposes of this Act, any of the following individuals may act on the victim’s behalf if the victim is dead or incapable of acting on their own behalf:
+	- **(a)** the victim’s spouse, or if the victim is dead, their spouse at the time of death;
+	- **(b)** the individual who is or was at the time of the victim’s death, cohabiting with them in a conjugal relationship, having so cohabited for a period of at least one year;
+	- **(c)** a relative or a dependant of the victim;
+	- **(d)** an individual who has in law or fact custody, or is responsible for the care or support, of the victim; and
+	- **(e)** an individual who has in law or fact custody, or is responsible for the care or support, of a dependant of the victim.
+
+**Exception**
+
+- **(4)** For the purposes of this Act, an individual is not a victim, or entitled to act on a victim’s behalf, in relation to an offence, if the individual is the offender.
+> 1992, c. 20, s. 2; 1995, c. 42, s. 1; 1997, c. 17, s. 11; 2000, c. 12, s. 88; 2002, c. 1, s. 171; 2004, c. 21, s. 39; 2005, c. 10, s. 34; 2008, c. 6, s. 56; 2012, c. 1, ss. 52, 160, 196; 2015, c. 13, s. 45
 
 
 
@@ -623,7 +632,7 @@ that is attributable to the participation of that inmate or person in an approve
 		- **(i)** the offender’s name,
 		- **(ii)** the offence of which the offender was convicted and the court that convicted the offender,
 		- **(iii)** the date of commencement and length of the sentence that the offender is serving, and
-		- **(iv)** eligibility dates and review dates applicable to the offender under this Act in respect of temporary absences or parole; and
+		- **(iv)** eligibility dates and review dates applicable to the offender under this Act in respect of temporary absences or parole;
 	- **(b)** may disclose to the victim any of the following information about the offender, where in the Commissioner’s opinion the interest of the victim in such disclosure clearly outweighs any invasion of the offender’s privacy that could result from the disclosure:
 		- **(i)** the offender’s age,
 		- **(ii)** the name and location of the penitentiary in which the sentence is being served,
@@ -633,9 +642,22 @@ that is attributable to the participation of that inmate or person in an approve
 		- **(ii.4)** the serious disciplinary offences that the offender has committed,
 		- **(iii)** the date, if any, on which the offender is to be released on temporary absence, work release, parole or statutory release,
 		- **(iv)** the date of any hearing for the purposes of a review under section 130,
-		- **(v)** any of the conditions attached to the offender’s temporary absence, work release, parole or statutory release,
-		- **(vi)** the destination of the offender on any temporary absence, work release, parole or statutory release, whether the offender will be in the vicinity of the victim while travelling to that destination and the reasons for any temporary absence, and
-		- **(vii)** whether the offender is in custody and, if not, the reason why the offender is not in custody.
+		- **(v)** that the offender has been removed from Canada under the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) before the expiration of the sentence, and
+		- **(vi)** [Repealed, 2015, c. 13, s. 46]
+		- **(vii)** whether the offender is in custody and, if not, the reason why the offender is not in custody;
+	- **(c)** shall disclose to the victim any of the following information about the offender, if, in the Commissioner’s opinion, the disclosure would not have a negative impact on the safety of the public:
+		- **(i)** the date, if any, on which the offender is to be released on temporary absence, work release, parole or statutory release,
+		- **(ii)** the conditions attached to the offender’s temporary absence, work release, parole or statutory release,
+		- **(iii)** the destination of the offender on any temporary absence, work release, parole or statutory release, whether the offender will be in the vicinity of the victim while travelling to that destination and the reasons for any temporary absence; and
+	- **(d)** [Not in force]
+
+**Timing of disclosure**
+
+- **(1.1)** The Commissioner shall disclose the information referred to in paragraph (1)(c) before the day on which the offender is released and, unless it is not practicable to do so, the Commissioner shall disclose it at least 14 days before that day.
+
+**Continuing duty to disclose**
+
+- **(1.2)** The Commissioner shall disclose to the victim any changes to the information referred to in paragraphs (1)(a) to (c).
 
 **Idem**
 
@@ -644,15 +666,46 @@ that is attributable to the participation of that inmate or person in an approve
 **Disclosure of information to other persons**
 
 - **(3)** Subsection (1) also applies, with such modifications as the circumstances require, to a person who satisfies the Commissioner
-	- **(a)** that harm was done to the person, or the person suffered physical or emotional damage, as a result of an act of an offender, whether or not the offender was prosecuted or convicted for that act; and
+	- **(a)** that the person suffered physical or emotional harm, property damage or economic loss, as the result of an act of an offender, whether or not the offender was prosecuted or convicted for that act; and
 	- **(b)** that a complaint was made to the police or the Crown attorney, or an information was laid under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), in respect of that act.
 
 **Idem**
 
 - **(4)** Subsection (2) also applies, with such modifications as the circumstances require, to a person who satisfies the Commissioner
-	- **(a)** that harm was done to the person, or the person suffered physical or emotional damage, as a result of an act of a person referred to in subsection (2), whether or not the person referred to in subsection (2) was prosecuted or convicted for that act; and
+	- **(a)** that the person suffered physical or emotional harm, property damage or economic loss, as the result of an act of a person referred to in subsection (2), whether or not the person referred to in subsection (2) was prosecuted or convicted for that act; and
 	- **(b)** that a complaint was made to the police or the Crown attorney, or an information was laid under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), in respect of that act.
-> 1992, c. 20, s. 26; 2012, c. 1, s. 57
+
+**Representative**
+
+- **(5)** A victim may designate a representative to whom the information referred to in subsections (1) and (2) is to be disclosed on the victim’s behalf, or to whom access to a photograph referred to in paragraph (1)(d) is to be provided. In that case, the victim shall provide the Commissioner with the representative’s contact information.
+
+**Withdrawal of request**
+
+- **(6)** A victim who has made a request referred to in subsection (1) or (2) may inform the Commissioner in writing that they no longer want the information to be disclosed to them or access to the photograph. In that case, the Commissioner shall not contact them, or their representative, if any, unless the victim subsequently makes the request again.
+
+**Deemed withdrawal of request**
+
+- **(7)** The Commissioner may consider a victim to have withdrawn a request referred to in subsection (1) or (2) if the Commissioner has made reasonable efforts to contact the victim and has failed to do so.
+
+**Other persons**
+
+- **(8)** Subsections (5) to (7) also apply, with any necessary modifications, to a person who has satisfied the Commissioner of the matters referred to in paragraphs (3)(a) and (b) or (4)(a) and (b).
+> 1992, c. 20, s. 26; 2012, c. 1, s. 57; 2015, c. 13, s. 46
+
+
+
+
+
+**Victim-offender mediation services**
+
+**26.1** 
+
+- **(1)** The Service shall provide every victim, and every person referred to in subsection 26(3), who has registered themselves with the Service for the purposes of this section with information about its restorative justice programs and its victim-offender mediation services, and, on the victim’s or other person’s request, may take measures to provide those services.
+
+**Consent required**
+
+- **(2)** The Service’s victim-offender mediation services are to be provided in accordance with the Commissioner’s Directives and they may be provided only with the informed consent of the participants that is voluntarily given.
+> 2015, c. 13, s. 47
 
 
 
@@ -3121,16 +3174,28 @@ it may order that if the statutory release is later revoked, the offender is not
 
 - **(2)** The Board may establish conditions for the long-term supervision of the offender that it considers reasonable and necessary in order to protect society and to facilitate the successful reintegration into society of the offender.
 
+**Conditions to protect victim**
+
+- **(2.1)** If a victim, or a person referred to in subsection 142(3), has provided the Board with a statement describing the harm, property damage or loss suffered by them, as the result of the commission of an offence and its continuing impact on them — including any safety concerns — the Board shall impose any conditions on the long-term supervision of the offender that it considers reasonable and necessary to protect the victim or the person, including a condition that the offender abstain from having any contact, including communication by any means, with the victim or the person or from going to any specified place.
+
+**Written reasons**
+
+- **(2.2)** If a statement referred to in subsection (2.1) has been provided to the Board and it decides not to impose any conditions under that subsection, it shall provide written reasons for its decision.
+
+**For greater certainty**
+
+- **(2.3)** For greater certainty, if no statement has been provided to the Board, nothing in subsection (2.1) precludes the Board from imposing any condition under subsection (2).
+
 **Duration of conditions**
 
-- **(3)** A condition imposed under subsection (2) is valid for the period that the Board specifies.
+- **(3)** A condition imposed under subsection (2) or (2.1) is valid for the period that the Board specifies.
 
 **Relief from conditions**
 
 - **(4)** The Board may, in accordance with the regulations, at any time during the long-term supervision of an offender,
 	- **(a)** in respect of conditions referred to in subsection (1), relieve the offender from compliance with any such condition or vary the application to the offender of any such condition; or
-	- **(b)** in respect of conditions imposed under subsection (2), remove or vary any such condition.
-> 1997, c. 17, s. 30
+	- **(b)** in respect of conditions imposed under subsection (2) or (2.1), remove or vary any such condition.
+> 1997, c. 17, s. 30; 2015, c. 13, s. 48
 
 
 
@@ -3480,8 +3545,8 @@ it may order that if the statutory release is later revoked, the offender is not
 **Presentation of statements**
 
 - **(10)** If they are attending a hearing as an observer,
-	- **(a)** a victim may present a statement describing the harm done to them or loss suffered by them as a result of the commission of the offence and the continuing impact of the commission of the offence — including any safety concerns — and commenting on the possible release of the offender; and
-	- **(b)** a person referred to in subsection 142(3) may present a statement describing the harm done to them or loss suffered by them as a result, and the continuing impact, of any act of the offender in respect of which a complaint was made to the police or Crown attorney or an information laid under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) — including any safety concerns — and commenting on the possible release of the offender.
+	- **(a)** a victim may present a statement describing the harm, property damage or loss suffered by them as the result of the commission of the offence and its continuing impact on them — including any safety concerns — and commenting on the possible release of the offender; and
+	- **(b)** a person referred to in subsection 142(3) may present a statement describing the harm, property damage or loss suffered by them as the result of any act of the offender in respect of which a complaint was made to the police or Crown attorney or an information laid under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), and its continuing impact on them — including any safety concerns — and commenting on the possible release of the offender.
 
 **Consideration of statement**
 
@@ -3494,7 +3559,7 @@ it may order that if the statutory release is later revoked, the offender is not
 **Communication of statement in writing**
 
 - **(12)** A victim or a person referred to in subsection 142(3) shall, before the hearing, deliver to the Board a transcript of the statement that they plan to present under subsection (10) or (11).
-> 1992, c. 20, s. 140; 1995, c. 42, ss. 55, 69(E); 2011, c. 11, s. 6; 2012, c. 1, s. 96, c. 19, s. 527; 2015, c. 11, s. 4
+> 1992, c. 20, s. 140; 1995, c. 42, ss. 55, 69(E); 2011, c. 11, s. 6; 2012, c. 1, s. 96, c. 19, s. 527; 2015, c. 11, s. 4, c. 13, s. 49
 
 
 
@@ -3589,8 +3654,24 @@ the Board may withhold from the offender as much information as is strictly nece
 **Disclosure of information to other persons**
 
 - **(3)** Subsections (1) and (2) also apply, with such modifications as the circumstances require, to a person who satisfies the Chairperson
-	- **(a)** that harm was done to the person, or the person suffered physical or emotional damage, as a result of an act of an offender, whether or not the offender was prosecuted or convicted for that act; and
+	- **(a)** that person suffered physical or emotional harm, property damage or economic loss, as the result of an act of an offender, whether or not the offender was prosecuted or convicted for that act; and
 	- **(b)** that a complaint was made to the police or the Crown attorney, or an information was laid under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), in respect of that act.
+
+**Representative**
+
+- **(3.1)** A victim may designate a representative to whom the information referred to in subsections (1) and (2) is to be disclosed on the victim’s behalf. In that case, the victim shall provide the Chairperson with the representative’s contact information.
+
+**Withdrawal of request**
+
+- **(3.2)** A victim who has made a request referred to in subsection (1) or (2) may inform the Chairperson in writing that they no longer want the information to be disclosed to them. In that case, the Chairperson shall not contact them or their representative, if any, unless the victim subsequently makes the request again.
+
+**Deemed withdrawal of request**
+
+- **(3.3)** The Chairperson may consider a victim to have withdrawn a request referred to in subsection (1) or (2) if the Chairperson has made reasonable efforts to contact the victim and has failed to do so.
+
+**Other persons**
+
+- **(3.4)** Subsections (3.1) to (3.3) also apply, with any necessary modifications, to a person who has satisfied the Chairperson of the matters referred to in paragraphs (3)(a) and (b).
 
 **Regulations**
 
@@ -3599,7 +3680,7 @@ the Board may withhold from the offender as much information as is strictly nece
 **Designation by Chairperson**
 
 - **(5)** In this section, “Chairperson” includes a person or class of persons designated, by name or by position, by the Chairperson.
-> 1992, c. 20, s. 142; 1995, c. 22, s. 13, c. 42, ss. 57, 71(F), 72(F); 1997, c. 17, s. 35; 2012, c. 1, s. 98
+> 1992, c. 20, s. 142; 1995, c. 22, s. 13, c. 42, ss. 57, 71(F), 72(F); 1997, c. 17, s. 35; 2012, c. 1, s. 98; 2015, c. 13, s. 50
 
 
 
@@ -3645,6 +3726,18 @@ the Board may withhold from the offender as much information as is strictly nece
 
 - **(4)** Notwithstanding subsection (2), where any information contained in a decision in the registry has been considered in the course of a hearing held in the presence of observers, any person may, on application in writing, have access to that information in the registry.
 > 1992, c. 20, s. 144; 2012, c. 1, s. 99
+
+
+
+
+
+**Copy of decision**
+
+**144.1** At the request of a victim, or a person referred to in subsection 142(3), the Board shall, despite section 144, provide the victim or person with a copy of any decision rendered by it under this Part or under paragraph 746.1(2)(c) or (3)(c) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) in relation to the offender and its reasons for that decision, unless doing so could reasonably be expected
+- **(a)** to jeopardize the safety of any person;
+- **(b)** to reveal a source of information obtained in confidence; or
+- **(c)** to prevent the successful reintegration of the offender into society.
+> 2015, c. 13, s. 51
 
 
 
