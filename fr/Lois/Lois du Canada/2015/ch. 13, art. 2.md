@@ -107,7 +107,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Renseignements généraux**
 
-**6** Toute victime a le droit, sur demande, d’obtenir des renseignements en ce qui con- cerne :
+**6** Toute victime a le droit, sur demande, d’obtenir des renseignements en ce qui concerne :
 - **a)** le système de justice pénale et le rôle que les victimes sont appelées à y jouer;
 - **b)** les services et les programmes auxquels elle a accès en tant que victime, notamment les programmes de justice réparatrice;
 - **c)** son droit de déposer une plainte pour la violation ou la négation d’un droit qui lui est conféré par la présente loi.
