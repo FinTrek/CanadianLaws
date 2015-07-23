@@ -44,61 +44,70 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***agent*** Employé du Service.
+***agent*** Employé du Service. (*staff member*)
 
-***commissaire*** Le commissaire du Service nommé au titre du paragraphe 6(1).
+***commissaire*** Le commissaire du Service nommé au titre du paragraphe 6(1). (*Commissioner*)
 
-***commission provinciale*** S’entend au sens de la partie II.
+***commission provinciale*** S’entend au sens de la partie II. (*provincial parole board*)
 
-***délinquant*** Détenu ou personne qui se trouve à l’extérieur du pénitencier par suite d’une libération conditionnelle ou d’office, ou en vertu d’une entente visée au paragraphe 81(1) ou d’une ordonnance du tribunal.
+***délinquant*** Détenu ou personne qui se trouve à l’extérieur du pénitencier par suite d’une libération conditionnelle ou d’office, ou en vertu d’une entente visée au paragraphe 81(1) ou d’une ordonnance du tribunal. (*offender*)
 
-***détenu*** Personne qui, selon le cas :
+***détenu*** Personne qui, selon le cas :
 - **a)** se trouve dans un pénitencier par suite d’une condamnation, d’un ordre d’incarcération, d’un transfèrement ou encore d’une condition imposée par la Commission des libérations conditionnelles du Canada dans le cadre de la semi-liberté ou de la libération d’office;
-- **b)** après avoir été condamnée ou transférée au pénitencier, en est provisoirement absente soit parce qu’elle bénéficie d’une permission de sortir ou d’un placement à l’extérieur en vertu de la présente loi, soit pour d’autres raisons — à l’exception de la libération conditionnelle ou d’office — mais sous la supervision d’un agent ou d’une personne autorisée par le Service.
+- **b)** après avoir été condamnée ou transférée au pénitencier, en est provisoirement absente soit parce qu’elle bénéficie d’une permission de sortir ou d’un placement à l’extérieur en vertu de la présente loi, soit pour d’autres raisons — à l’exception de la libération conditionnelle ou d’office — mais sous la supervision d’un agent ou d’une personne autorisée par le Service. (*inmate*)
 
-***jour ouvrable*** Jour normal d’ouverture des bureaux de l’administration publique fédérale dans la province en cause.
+***jour ouvrable*** Jour normal d’ouverture des bureaux de l’administration publique fédérale dans la province en cause. (*working day*)
 
-***libération conditionnelle*** S’entend au sens de la partie II.
+***libération conditionnelle*** S’entend au sens de la partie II. (*parole*)
 
-***libération d’office*** S’entend au sens de la partie II.
+***libération d’office*** S’entend au sens de la partie II. (*statutory release*)
 
-***ministre*** Le ministre de la Sécurité publique et de la Protection civile.
+***ministre*** Le ministre de la Sécurité publique et de la Protection civile. (*Minister*)
 
 ***objets interdits***
 - **a)** Substances intoxicantes;
 - **b)** armes ou leurs pièces, munitions ainsi que tous objets conçus pour tuer, blesser ou immobiliser ou modifiés ou assemblés à ces fins, dont la possession n’a pas été autorisée;
 - **c)** explosifs ou bombes, ou leurs pièces;
 - **d)** les montants d’argent, excédant les plafonds réglementaires, lorsqu’ils sont possédés sans autorisation;
-- **e)** toutes autres choses possédées sans autorisation et susceptibles de mettre en danger la sécurité d’une personne ou du pénitencier.
+- **e)** toutes autres choses possédées sans autorisation et susceptibles de mettre en danger la sécurité d’une personne ou du pénitencier. (*contraband*)
 
- ou ***peine*** ou ***peine d’emprisonnement*** S’entend notamment :  
-- **a) ** d’une peine d’emprisonnement infligée par une entité étrangère à un Canadien qui a été transféré au Canada sous le régime de la [Loi sur le transfèrement international des délinquants](/fr/Lois/Lois%20du%20Canada/2004/ch.%2021.md);
-- **b) ** d’une peine spécifique infligée en vertu de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md), laquelle comprend la partie purgée sous garde et celle purgée sous surveillance au sein de la collectivité en application de l’alinéa 42(2)n) de cette loi ou en liberté sous condition en application des alinéas 42(2)o), q) ou r) de cette loi.
+***peine*** ou ***peine d’emprisonnement*** S’entend notamment :
+- **a)** d’une peine d’emprisonnement infligée par une entité étrangère à un Canadien qui a été transféré au Canada sous le régime de la [Loi sur le transfèrement international des délinquants](/fr/Lois/Lois%20du%20Canada/2004/ch.%2021.md);
+- **b)** d’une peine spécifique infligée en vertu de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md), laquelle comprend la partie purgée sous garde et celle purgée sous surveillance au sein de la collectivité en application de l’alinéa 42(2)n) de cette loi ou en liberté sous condition en application des alinéas 42(2)o), q) ou r) de cette loi. (*sentence*)
 
-***pénitencier*** Établissement — bâtiment et terrains — administré à titre permanent ou temporaire par le Service pour la prise en charge et la garde des détenus ainsi que tout autre lieu déclaré tel aux termes de l’article 7.
+***pénitencier*** Établissement — bâtiment et terrains — administré à titre permanent ou temporaire par le Service pour la prise en charge et la garde des détenus ainsi que tout autre lieu déclaré tel aux termes de l’article 7. (*penitentiary*)
 
-***permission de sortir sans escorte*** S’entend au sens de la partie II.
+***permission de sortir sans escorte*** S’entend au sens de la partie II. (*unescorted temporary absence*)
 
-***semi-liberté*** S’entend au sens de la partie II.
+***semi-liberté*** S’entend au sens de la partie II. (*day parole*)
 
-***Service*** Le Service correctionnel du Canada visé à l’article 5.
+***Service*** Le Service correctionnel du Canada visé à l’article 5. (*Service*)
 
-***substance intoxicante*** Toute substance qui, une fois introduite dans le corps humain, peut altérer le comportement, le jugement, le sens de la réalité ou l’aptitude à faire face aux exigences normales de la vie. Sont exclus la caféine et la nicotine, ainsi que tous médicaments dont la consommation est autorisée conformément aux instructions d’un agent ou d’un professionnel de la santé agréé.
+***substance intoxicante*** Toute substance qui, une fois introduite dans le corps humain, peut altérer le comportement, le jugement, le sens de la réalité ou l’aptitude à faire face aux exigences normales de la vie. Sont exclus la caféine et la nicotine, ainsi que tous médicaments dont la consommation est autorisée conformément aux instructions d’un agent ou d’un professionnel de la santé agréé. (*intoxicant*)
 
-***surveillance de longue durée*** La surveillance de longue durée ordonnée en vertu des paragraphes 753(4), 753.01(5) ou (6) ou 753.1(3) ou du sous-alinéa 759(3)a)(i) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+***surveillance de longue durée*** La surveillance de longue durée ordonnée en vertu des paragraphes 753(4), 753.01(5) ou (6) ou 753.1(3) ou du sous-alinéa 759(3)a)(i) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*long-term supervision*)
 
-***victime*** La personne qui a subi des dommages corporels ou moraux par suite de la perpétration d’une infraction ou, si cette personne est décédée, malade ou incapable :
-- **a)** son époux ou la personne qui vit avec elle — ou qui vivait avec elle au moment de son décès — dans une relation conjugale depuis au moins un an;
-- **b)** un parent ou une personne à sa charge;
-- **c)** la personne qui en a la garde, en droit ou en fait, ou aux soins de laquelle elle est confiée ou qui est chargée de son entretien;
-- **d)** la personne qui a la garde, en droit ou en fait, ou qui est chargée de l’entretien d’une personne à sa charge, ou aux soins de laquelle celle-ci est confiée.
+***victime*** À l’égard d’une infraction donnée, le particulier qui a subi des dommages matériels, corporels ou moraux ou des pertes économiques par suite de la perpétration de l’infraction. (*victim*)
 
-***visiteur*** Toute personne autre qu’un détenu ou qu’un agent.
+***visiteur*** Toute personne autre qu’un détenu ou qu’un agent. (*visitor*)
 
 **Délégation**
 
 - **(2)** Sauf dans les cas visés à l’alinéa 96b) et sous réserve de la présente partie, les pouvoirs et fonctions conférés par celle-ci au commissaire et au directeur du pénitencier sont, en cas d’absence, d’empêchement ou de vacance de leur poste, respectivement exercés par le suppléant ou par la personne qui est alors responsable du pénitencier.
-> 1992, ch. 20, art. 2; 1995, ch. 42, art. 1; 1997, ch. 17, art. 11; 2000, ch. 12, art. 88; 2002, ch. 1, art. 171; 2004, ch. 21, art. 39; 2005, ch. 10, art. 34; 2008, ch. 6, art. 56; 2012, ch. 1, art. 52, 160 et 196
+
+**Agir pour le compte de la victime**
+
+- **(3)** Pour l’application de la présente loi, l’un ou l’autre des particuliers ci-après peut agir pour le compte de la victime, si celle-ci est décédée ou incapable d’agir pour son propre compte :
+	- **a)** l’époux de la victime ou la personne qui l’était au moment de son décès;
+	- **b)** la personne qui vit avec elle — ou qui vivait avec elle au moment de son décès — dans une relation conjugale depuis au moins un an;
+	- **c)** un parent ou une personne à sa charge;
+	- **d)** le particulier qui en a, en droit ou en fait, la garde ou aux soins duquel elle est confiée ou qui est chargé de son entretien;
+	- **e)** le particulier qui a, en droit ou en fait, la garde ou qui est chargé de l’entretien d’une personne à la charge de la victime, ou aux soins duquel cette personne est confiée.
+
+**Exception**
+
+- **(4)** Pour l’application de la présente loi, relativement à une infraction donnée, n’est pas une victime et n’a pas le droit d’agir pour le compte de celle-ci le particulier qui est le délinquant.
+> 1992, ch. 20, art. 2; 1995, ch. 42, art. 1; 1997, ch. 17, art. 11; 2000, ch. 12, art. 88; 2002, ch. 1, art. 171; 2004, ch. 21, art. 39; 2005, ch. 10, art. 34; 2008, ch. 6, art. 56; 2012, ch. 1, art. 52, 160 et 196; 2015, ch. 13, art. 45
 
 
 
@@ -594,9 +603,22 @@ La permission est accordée pour une période maximale de quinze jours.
 		- **(ii.4)** les infractions disciplinaires graves qu’il a commises,
 		- **(iii)** la date de sa mise en liberté au titre d’une permission de sortir, d’un placement à l’extérieur, de la libération conditionnelle ou d’office,
 		- **(iv)** la date de toute audience prévue à l’égard de l’examen visé à l’article 130,
-		- **(v)** les conditions dont est assortie la permission de sortir, le placement à l’extérieur, la libération conditionnelle ou d’office,
-		- **(vi)** sa destination lors de sa permission de sortir et les raisons de celle-ci, sa destination lors de son placement à l’extérieur, sa libération conditionnelle ou d’office et son éventuel rapprochement de la victime, selon son itinéraire,
-		- **(vii)** s’il est sous garde et, le cas échéant, les raisons pour lesquelles il ne l’est pas.
+		- **(v)** son renvoi du Canada dans le cadre de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) avant l’expiration de sa peine,
+		- **(vi)** [Abrogé, 2015, ch. 13, art. 46]
+		- **(vii)** s’il est sous garde et, le cas échéant, les raisons pour lesquelles il ne l’est pas;
+	- **c)** lui communique tout ou partie des renseignements ci-après si, à son avis, cette communication n’aurait pas d’incidence négative sur la sécurité du public :
+		- **(i)** la date de la mise en liberté du délinquant au titre d’une permission de sortir, d’un placement à l’extérieur ou de la libération conditionnelle ou d’office,
+		- **(ii)** les conditions dont est assorti la permission de sortir, le placement à l’extérieur ou la libération conditionnelle ou d’office,
+		- **(iii)** la destination du délinquant lors de sa permission de sortir et les raisons de celle-ci, sa destination lors de son placement à l’extérieur, sa libération conditionnelle ou d’office et son éventuel rapprochement de la victime, selon son itinéraire;
+	- **d)** [Non en vigueur]
+
+**Moment de la communication**
+
+- **(1.1)** Le commissaire communique à la victime les renseignements mentionnés à l’alinéa (1)c) avant la date de la libération du délinquant et, à moins que cela ne soit difficilement réalisable, au moins quatorze jours avant cette date.
+
+**Communication : suivi**
+
+- **(1.2)** Le commissaire communique à la victime tout changement apporté aux renseignements mentionnés aux alinéas (1)a) à c).
 
 **Idem**
 
@@ -605,15 +627,46 @@ La permission est accordée pour une période maximale de quinze jours.
 **Communication de renseignements à d’autres personnes**
 
 - **(3)** Le paragraphe (1) s’applique, avec les adaptations nécessaires, dans le cas de la personne qui convainc le commissaire :
-	- **a)** qu’elle a subi un dommage corporel ou moral par suite de la conduite du délinquant qu’il ait été ou non poursuivi ou condamné pour celle-ci;
+	- **a)** qu’elle a subi des dommages — matériels, corporels ou moraux — ou des pertes économiques par suite de la conduite du délinquant, qu’il ait été ou non poursuivi ou condamné pour celle-ci;
 	- **b)** qu’une plainte a été déposée auprès de la police ou du procureur de la Couronne, ou que cette conduite a fait l’objet d’une dénonciation conformément au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
 
 **Idem**
 
 - **(4)** Le paragraphe (2) s’applique, avec les adaptations nécessaires, dans le cas d’une personne qui convainc le commissaire :
-	- **a)** qu’elle a subi un dommage corporel ou moral par suite de la conduite d’une personne visée au paragraphe (2), qu’elle ait été ou non poursuivie ou condamnée pour celle-ci;
+	- **a)** qu’elle a subi des dommages — matériels, corporels ou moraux — ou des pertes économiques par suite de la conduite d’une personne visée au paragraphe (2), que cette dernière ait été ou non poursuivie ou condamnée pour celle-ci;
 	- **b)** qu’une plainte a été déposée auprès de la police ou du procureur de la Couronne, ou que cette conduite a fait l’objet d’une dénonciation conformément au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
-> 1992, ch. 20, art. 26; 2012, ch. 1, art. 57
+
+**Personne désignée**
+
+- **(5)** La victime peut désigner un représentant à qui les renseignements mentionnés aux paragraphes (1) et (2) doivent être communiqués à sa place ou à qui l’accès à la photographie visée à l’alinéa (1)d) doit être donné. Le cas échéant, elle fournit au commissaire les coordonnées du représentant.
+
+**Renonciation**
+
+- **(6)** La victime qui fait une demande visée aux paragraphes (1) ou (2) peut par la suite aviser par écrit le commissaire qu’elle ne souhaite plus obtenir les renseignements ni avoir accès à la photographie. Le cas échéant, celui-ci s’abstient de communiquer avec elle ou avec le représentant désigné, sauf si elle fait une nouvelle demande.
+
+**Présomption**
+
+- **(7)** Le commissaire peut considérer comme retirée la demande visée aux paragraphes (1) ou (2) s’il a pris les mesures raisonnables pour communiquer avec la victime sans y parvenir.
+
+**Autre personne**
+
+- **(8)** Les paragraphes (5) à (7) s’appliquent, avec les adaptations nécessaires, à la personne qui convainc le commissaire des faits mentionnés aux alinéas (3)a) et b) ou (4)a) et b).
+> 1992, ch. 20, art. 26; 2012, ch. 1, art. 57; 2015, ch. 13, art. 46
+
+
+
+
+
+**Services de médiation entre victimes et délinquants**
+
+**26.1** 
+
+- **(1)** Le Service est tenu de fournir à toute victime, ainsi qu’à toute personne visée au paragraphe 26(3), qui s’est enregistrée auprès du Service pour l’application du présent article des renseignements sur les programmes de justice réparatrice et des services de médiation entre victimes et délinquants qu’il offre et peut, sur demande de la victime ou de la personne, prendre des mesures pour fournir ces services.
+
+**Consentement requis**
+
+- **(2)** Les services de médiation entre victimes et délinquants ne sont fournis qu’en conformité avec les directives du commissaire et qu’avec le consentement libre et éclairé des participants.
+> 2015, ch. 13, art. 47
 
 
 
@@ -2925,14 +2978,26 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 - **(2)** La Commission peut imposer au délinquant les conditions de surveillance qu’elle juge raisonnables et nécessaires pour protéger la société et favoriser la réinsertion sociale du délinquant.
 
+**Conditions pour protéger la victime**
+
+- **(2.1)** Si la victime ou une personne visée au paragraphe 142(3) lui fournit une déclaration à l’égard des dommages ou des pertes qu’elle a subis par suite de la perpétration d’une infraction et des répercussions que celle-ci a encore sur elle, notamment les préoccupations qu’elle a quant à sa sécurité, la Commission impose au délinquant qui fait l’objet d’une ordonnance de surveillance de longue durée les conditions — dont l’une pourrait porter que le délinquant doit s’abstenir d’avoir des contacts, notamment de communiquer par quelque moyen que ce soit avec elle ou d’aller dans un lieu qui est précisé — qu’elle juge raisonnables et nécessaires pour protéger l’intéressé.
+
+**Motifs écrits**
+
+- **(2.2)** Si, après avoir reçu la déclaration visée au paragraphe (2.1), la Commission décide de ne pas imposer de conditions, elle en donne les motifs par écrit.
+
+**Précision**
+
+- **(2.3)** Il est entendu que le paragraphe (2.1) n’empêche pas la Commission d’exercer les pouvoirs prévus au paragraphe (2) même si aucune déclaration ne lui a été fournie.
+
 **Période de validité**
 
-- **(3)** Les conditions imposées par la Commission en vertu du paragraphe (2) sont valables pendant la période qu’elle fixe.
+- **(3)** Les conditions imposées par la Commission en vertu des paragraphes (2) ou (2.1) sont valables pendant la période qu’elle fixe.
 
 **Dispense ou modification des conditions**
 
-- **(4)** La Commission peut, conformément aux règlements, soustraire le délinquant, au cours de la période de surveillance, à l’application de l’une ou l’autre des conditions visées au paragraphe (1), ou modifier ou annuler l’une de celles visées au paragraphe (2).
-> 1997, ch. 17, art. 30
+- **(4)** La Commission peut, conformément aux règlements, soustraire le délinquant, au cours de la période de surveillance, à l’application de l’une ou l’autre des conditions visées au paragraphe (1), ou modifier ou annuler l’une de celles visées aux paragraphes (2) ou (2.1).
+> 1997, ch. 17, art. 30; 2015, ch. 13, art. 48
 
 
 
@@ -3273,9 +3338,9 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Déclaration par la personne à l’audience**
 
-- **(10)** Lors de l’audience à laquelle elles assistent à titre d’observateur :
-	- **a)** d’une part, la victime peut présenter une déclaration à l’égard des pertes ou des dommages qui lui ont été causés par la perpétration de l’infraction et des effets que celle-ci a encore sur elle, notamment les préoccupations qu’elle a quant à sa sécurité, et à l’égard de l’éventuelle libération du délinquant;
-	- **b)** d’autre part, la personne visée au paragraphe 142(3) peut présenter une déclaration à l’égard des pertes ou des dommages qui lui ont été causés par la conduite du délinquant — laquelle a donné lieu au dépôt d’une plainte auprès de la police ou du procureur de la Couronne ou a fait l’objet d’une dénonciation conformément au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) — et des effets que cette conduite a encore sur elle, notamment les préoccupations qu’elle a quant à sa sécurité, et à l’égard de l’éventuelle libération du délinquant.
+- **(10)** Lors de l’audience à laquelle elles assistent à titre d’observateur :
+	- **a)** d’une part, la victime peut présenter une déclaration à l’égard des dommages ou des pertes qu’elle a subis par suite de la perpétration de l’infraction et des répercussions que celle-ci a encore sur elle, notamment les préoccupations qu’elle a quant à sa sécurité, et à l’égard de l’éventuelle libération du délinquant;
+	- **b)** d’autre part, la personne visée au paragraphe 142(3) peut présenter une déclaration à l’égard des dommages ou des pertes qu’elle a subis par suite de la conduite du délinquant — laquelle a donné lieu au dépôt d’une plainte auprès de la police ou du procureur de la Couronne ou a fait l’objet d’une dénonciation conformément au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) — et des répercussions que cette conduite a encore sur elle, notamment les préoccupations qu’elle a quant à sa sécurité, et à l’égard de l’éventuelle libération du délinquant.
 
 **Prise en considération de la déclaration**
 
@@ -3288,7 +3353,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 **Communication préalable de la transcription**
 
 - **(12)** La victime et la personne visée au paragraphe 142(3) doivent, préalablement à l’audience, envoyer à la Commission la transcription de la déclaration qu’elles entendent présenter au titre des paragraphes (10) ou (11).
-> 1992, ch. 20, art. 140; 1995, ch. 42, art. 55 et 69(A); 2011, ch. 11, art. 6; 2012, ch. 1, art. 96, ch. 19, art. 527; 2015, ch. 11, art. 4
+> 1992, ch. 20, art. 140; 1995, ch. 42, art. 55 et 69(A); 2011, ch. 11, art. 6; 2012, ch. 1, art. 96, ch. 19, art. 527; 2015, ch. 11, art. 4, ch. 13, art. 49
 
 
 
@@ -3353,13 +3418,13 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **142** 
 
-- **(1)** Sur demande de la victime, le président :
-	- **a)** communique à celle-ci les renseignements suivants :
+- **(1)** Sur demande de la victime, le président :
+	- **a)** communique à celle-ci les renseignements suivants :
 		- **(i)** le nom du délinquant,
 		- **(ii)** l’infraction dont il a été trouvé coupable et le tribunal qui l’a condamné,
 		- **(iii)** la date de début et la durée de la peine qu’il purge,
 		- **(iv)** les dates d’admissibilité et d’examen applicables aux permissions de sortir sans escorte ou à la libération conditionnelle;
-	- **b)** peut lui communiquer, tout ou partie des renseignements suivants si, à son avis, l’intérêt de la victime justifierait nettement une éventuelle violation de la vie privée du délinquant :
+	- **b)** peut lui communiquer, tout ou partie des renseignements suivants si, à son avis, l’intérêt de la victime justifierait nettement une éventuelle violation de la vie privée du délinquant :
 		- **(i)** l’âge du délinquant,
 		- **(ii)** l’emplacement du pénitencier où il est détenu,
 		- **(iii)** la date de ses permissions de sortir sans escorte, de ses permissions de sortir avec escorte approuvées par la Commission au titre du paragraphe 746.1(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), de sa libération conditionnelle ou de sa libération d’office,
@@ -3376,9 +3441,25 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Communication de renseignements à d’autres personnes**
 
-- **(3)** Les paragraphes (1) et (2) s’appliquent, avec les adaptations nécessaires, dans le cas de la personne qui convainc le président :
-	- **a)** qu’elle a subi un dommage corporel ou moral par suite de la conduite du délinquant, qu’il ait été ou non poursuivi ou condamné pour celle-ci;
+- **(3)** Les paragraphes (1) et (2) s’appliquent, avec les adaptations nécessaires, dans le cas de la personne qui convainc le président :
+	- **a)** qu’elle a subi des dommages — matériels, corporels ou moraux — ou des pertes économiques par suite de la conduite du délinquant, qu’il ait été ou non poursuivi ou condamné pour celle-ci;
 	- **b)** qu’une plainte a été déposée auprès de la police ou du procureur de la Couronne, ou que cette conduite a fait l’objet d’une dénonciation conformément au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+
+**Représentant**
+
+- **(3.1)** La victime peut désigner un représentant à qui les renseignements mentionnés aux paragraphes (1) et (2) doivent être communiqués à sa place. Le cas échéant, elle fournit au président les coordonnées du représentant.
+
+**Renonciation**
+
+- **(3.2)** La victime qui fait une demande visée aux paragraphes (1) ou (2) peut par la suite aviser par écrit le président qu’elle ne souhaite plus obtenir les renseignements. Le cas échéant, celui-ci s’abstient de communiquer avec elle ou avec le représentant désigné, sauf si elle fait une nouvelle demande.
+
+**Présomption**
+
+- **(3.3)** Le président peut considérer comme retirée la demande visée aux paragraphes (1) ou (2) s’il a pris les mesures raisonnables pour communiquer avec la victime sans y parvenir.
+
+**Autre personne**
+
+- **(3.4)** Les paragraphes (3.1) à (3.3) s’appliquent, avec les adaptations nécessaires, dans le cas d’une personne qui convainc le président des faits mentionnés aux alinéas (3)a) et b).
 
 **Règlement**
 
@@ -3387,7 +3468,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 **Désignation**
 
 - **(5)** Pour l’application du présent article, « président » vise également toute personne, à titre individuel ou au titre de son appartenance à une catégorie déterminée, que le président désigne nommément ou par indication de son poste.
-> 1992, ch. 20, art. 142; 1995, ch. 22, art. 13, ch. 42, art. 57, 71(F) et 72(F); 1997, ch. 17, art. 35; 2012, ch. 1, art. 98
+> 1992, ch. 20, art. 142; 1995, ch. 22, art. 13, ch. 42, art. 57, 71(F) et 72(F); 1997, ch. 17, art. 35; 2012, ch. 1, art. 98; 2015, ch. 13, art. 50
 
 
 
@@ -3433,6 +3514,18 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 - **(4)** Par dérogation au paragraphe (2), toute personne qui en fait la demande écrite peut avoir accès aux renseignements que la Commission a étudiés lors d’une audience tenue en présence d’observateurs et qui sont compris dans sa décision versée au registre.
 > 1992, ch. 20, art. 144; 2012, ch. 1, art. 99
+
+
+
+
+
+**Copie de la décision**
+
+**144.1** La Commission remet, malgré l’article 144, à la victime ou à la personne visée au paragraphe 142(3), si elles en font la demande, une copie de toute décision qu’elle a rendue sous le régime de la présente partie ou des alinéas 746.1(2)c) ou (3)c) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) à l’égard du délinquant, motifs à l’appui, sauf si cela risquerait vraisemblablement :
+- **a)** de mettre en danger la sécurité d’une personne;
+- **b)** de permettre de remonter à une source de renseignements obtenus de façon confidentielle;
+- **c)** d’empêcher la réinsertion sociale du délinquant.
+> 2015, ch. 13, art. 51
 
 
 
