@@ -3956,10 +3956,7 @@ cette personne est réputée, aux fins de versement des cotisations, être l’e
 
 
 
-
-**Témoignage du conjoint**
-
-**133** Sous réserve des paragraphes 4(3), (5) et (6) de la [Loi sur la preuve au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-5.md), le conjoint d’une personne inculpée d’infraction pour une déclaration faite au sujet de ses charges de famille est un témoin que la poursuite peut contraindre à déposer sans le consentement de l’inculpé.
+**133** [Abrogé, 2015, ch. 13, art. 54]
 
 
 
