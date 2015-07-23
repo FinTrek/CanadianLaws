@@ -4085,10 +4085,7 @@ to the extent that access has been or may be expected to be refused and that the
 
 
 
-
-**Spouse as witness**
-
-**133** Subject to subsections 4(3), (5) and (6) of the [Canada Evidence Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-5.md), the spouse of a person charged with an offence in respect of a statement or representation as to dependency is a competent and compellable witness for the prosecution without the consent of the person charged.
+**133** [Repealed, 2015, c. 13, s. 54]
 
 
 
