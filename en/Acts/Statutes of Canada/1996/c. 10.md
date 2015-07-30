@@ -3705,7 +3705,7 @@ request two or more railway companies to consider the joint or common use of a r
 
 ***export***, in respect of grain, means shipment by a vessel, as defined in section 2 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) , to any destination outside Canada and shipment by any other mode of transport to the United States for use of the grain in that country and not for shipment out of that country;
 
-***government hopper car*** means a hopper car provided to a prescribed railway company by the government of Canada or a province or by the Canadian Wheat Board;
+***government hopper car*** means a hopper car provided to a prescribed railway company by the government of Canada or a province;
 
 ***grain*** means 
 - **(a)** any grain or crop included in Schedule II that is grown in the Western Division, or any product of it included in Schedule II that is processed in the Western Division, or
@@ -3726,7 +3726,7 @@ but does not include the carriage of grain to a port in British Columbia for exp
 ***prescribed railway company*** means the Canadian National Railway Company, the Canadian Pacific Railway Company and any railway company that may be specified in the regulations;
 
 ***Western Division*** means the part of Canada lying west of the meridian passing through the eastern boundary of the City of Thunder Bay, including the whole of the Province of Manitoba.
-> 1996, c. 10, s. 147; 2000, c. 16, s. 9; 2001, c. 26, s. 282; 2005, c. 24, s. 3.
+> 1996, c. 10, s. 147; 2000, c. 16, s. 9; 2001, c. 26, s. 282; 2005, c. 24, s. 3; 2011, c. 25, s. 60.
 
 
 
