@@ -3650,8 +3650,8 @@ Cette offre leur est faite simultanément.
 
 ***région de l’Ouest*** La partie du Canada située à l’ouest du méridien qui coupe la limite est de la ville de Thunder Bay, y compris toute la province du Manitoba.
 
-***wagon-trémie du gouvernement*** Wagon-trémie fourni à une compagnie de chemin de fer régie par le gouvernement fédéral, le gouvernement d’une province ou la Commission canadienne du blé.
-> 1996, ch. 10, art. 147; 2000, ch. 16, art. 9; 2001, ch. 26, art. 282; 2005, ch. 24, art. 3.
+***wagon-trémie du gouvernement*** Wagon-trémie fourni à une compagnie de chemin de fer régie par le gouvernement fédéral ou le gouvernement d’une province.
+> 1996, ch. 10, art. 147; 2000, ch. 16, art. 9; 2001, ch. 26, art. 282; 2005, ch. 24, art. 3; 2011, ch. 25, art. 60.
 
 
 
