@@ -4409,18 +4409,18 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 
 - **(1)** The definitions in this subsection apply in this section.
 
-***customs information*** means information of any kind and in any form that
+***customs information*** means information of any kind and in any form that
 - **(a)** relates to one or more persons and is obtained by or on behalf of
 	- **(i)** the Minister for the purposes of this Act or the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), or
 	- **(ii)** the Minister of National Revenue for the purposes of the collection of debts due to Her Majesty under Part V.1;
-- **(b)** is prepared from information described in paragraph (a).
+- **(b)** is prepared from information described in paragraph (a). (*renseignement douanier*)
 
-***official*** means a person who
+***official*** means a person who
 - **(a)** is or was employed in the service of Her Majesty in right of Canada or of a province;
 - **(b)** occupies or occupied a position of responsibility in the service of Her Majesty in right of Canada or of a province; or
-- **(c)** is or was engaged by or on behalf of Her Majesty in right of Canada or of a province.
+- **(c)** is or was engaged by or on behalf of Her Majesty in right of Canada or of a province. (*fonctionnaire*)
 
-***specified person*** means a person who is employed in the service of, who occupies a position of responsibility in the service of, or who is engaged by or on behalf of, Her Majesty in right of Canada to carry out the provisions of this Act, the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md). It includes a person who was formerly so employed or engaged or who formerly occupied such a position.
+***specified person*** means a person who is employed in the service of, who occupies a position of responsibility in the service of, or who is engaged by or on behalf of, Her Majesty in right of Canada to carry out the provisions of this Act, the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md). It includes a person who was formerly so employed or engaged or who formerly occupied such a position. (*personne déterminée*)
 
 **Prohibition — provision or use of customs information**
 
@@ -4450,8 +4450,9 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 	- **(d)** may reasonably be regarded as necessary solely for a purpose relating to the administration or enforcement of this Act, the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) or the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) by a member of the Royal Canadian Mounted Police;
 	- **(e)** may reasonably be regarded as necessary solely for a purpose relating to the life, health or safety of an individual or to the environment in Canada or any other country;
 	- **(f)** will be used solely for a purpose relating to the supervision, evaluation or discipline of a specified person by Her Majesty in right of Canada in respect of a period during which the person was employed or engaged by, or occupied a position of responsibility in the service of, Her Majesty in right of Canada to administer or enforce this Act, the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or Part 2 of the [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md) to the extent that the information is relevant for that purpose;
-	- **(g)** is reasonably regarded by the official to be information that does not directly or indirectly identify any person; or
-	- **(h)** is reasonably regarded by the official to be information relating to the national security or defence of Canada.
+	- **(g)** is reasonably regarded by the official to be information that does not directly or indirectly identify any person;
+	- **(h)** is reasonably regarded by the official to be information relating to the national security or defence of Canada; or
+	- **(i)** is disclosed in accordance with the Security of Canada Information Sharing Act.
 
 **Provision of information to certain persons**
 
@@ -4471,7 +4472,9 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 	- **(g.1)** an official of the Canada Revenue Agency solely for a purpose relating to the administration or enforcement of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) or the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md);
 	- **(h)** counsel, as defined in subsection 84(4) of the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md), in accordance with subsection 84(3) of that Act and subject to subsection 84(3.1) of that Act, except that the word “information” in those subsections is to be read as a reference to the words “customs information”;
 	- **(i)** an official of the Department of Employment and Social Development solely for the purpose of administering or enforcing the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), if the information relates to the movement of people into and out of Canada;
-	- **(j)** an official of the Department of Citizenship and Immigration solely for the purpose of administering or enforcing the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md), if the information relates to the movement of people into and out of Canada;
+	- **(j)** an official of the Department of Citizenship and Immigration solely for the purpose of administering or enforcing
+		- **(i)** the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md) or the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md), if the information relates to the movement of people into and out of Canada, or
+		- **(ii)** the law of Canada respecting passports or other travel documents;
 	- **(j.1)** an official of the Canadian Food Inspection Agency for the purpose of administering or enforcing any Act referred to in section 11 of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md) if the information relates to the import, export or in-transit movement of goods into or out of Canada;
 	- **(k)** an official of the Financial Transactions and Reports Analysis Centre of Canada solely for the purpose of administering or enforcing the [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md);
 	- **(l)** a person solely for the purpose of determining any entitlement, liability or obligation of the person under this Act or the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) including the person’s entitlement to any refund, relief, drawback or abatement under those Acts;
@@ -4531,7 +4534,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 **Regulations**
 
 - **(15)** The Governor in Council may make regulations prescribing the circumstances in which fees may be charged for providing or providing access to customs information or making or certifying copies of information and the amount of any such fees.
-> R.S., 1985, c. 1 (2nd Supp.), s. 107; 1992, c. 28, s. 25; 1995, c. 41, s. 27; 2001, c. 25, ss. 61, 111, c. 41, s. 121; 2005, c. 34, s. 79, c. 38, ss. 80, 145; 2013, c. 40, s. 237; 2014, c. 32, s. 60.
+> R.S., 1985, c. 1 (2nd Supp.), s. 107; 1992, c. 28, s. 25; 1995, c. 41, s. 27; 2001, c. 25, ss. 61, 111, c. 41, s. 121; 2005, c. 34, s. 79, c. 38, ss. 80, 145; 2013, c. 40, s. 237; 2014, c. 32, s. 60; 2015, c. 20, s. 5.
 
 
 
