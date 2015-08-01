@@ -98,15 +98,15 @@ Enabling authorities:
 
 **6** 
 
-- **(1)** An official sample taken under section 30 of the Act shall be taken in accordance with the Commission’s Sampling Systems Handbook and Approval Guide dated August 16, 2012.
+- **(1)** An official sample taken under section 30 of the Act shall be taken in accordance with Chapter 2 of the Commission’s Sampling Systems Handbook and Approval Guide, revised on January 14, 2015 and in effect on August 1, 2015.
 
 - **(2)** No official samples shall be taken by means of a mechanical sampler unless it is installed, tested and maintained by the licensee under the direction of an inspector.
 
 - **(3)** An official sample shall be retained for the period beginning on the date of the grading of the sample and ending
 	- **(a)** not less than six months after that date, if the sample is taken on the discharge of grain out of an elevator into a ship; and
-	- **(b)** [Repealed, SOR/2003-284, s. 5]
-	- **(c)** not less than 20 days after that date, in any other case.
-> SOR/86-813, s. 1; SOR/89-395, s. 2(F); SOR/96-508, s. 5; SOR/2000-213, s. 2; SOR/2001-273, s. 5; SOR/2003-284, s. 5; SOR/2004-198, s. 3; SOR/2005-361, s. 1; SOR/2006-206, s. 1; SOR/2013-111, s. 4.
+	- **(b)** [Repealed, SOR/2003-284, s. 5]
+	- **(c)** not less than 20 days after that date, in any other case.
+> SOR/86-813, s. 1; SOR/89-395, s. 2(F); SOR/96-508, s. 5; SOR/2000-213, s. 2; SOR/2001-273, s. 5; SOR/2003-284, s. 5; SOR/2004-198, s. 3; SOR/2005-361, s. 1; SOR/2006-206, s. 1; SOR/2013-111, s. 4; SOR/2015-137, s. 1.
 
 
 
@@ -126,9 +126,9 @@ Enabling authorities:
 
 
 **6.2** A sample taken as part of an inspection under subsection 70(1), (2) or 70.2(1) or section 70.3 of the Act shall
-- **(a)** be taken in accordance with the Commission’s Sampling Systems Handbook and Approval Guide dated August 16, 2012; and
+- **(a)** be taken in accordance with Chapter 2 of the Commission’s Sampling Systems Handbook and Approval Guide, revised on January 14, 2015 and in effect on August 1, 2015; and
 - **(b)** be retained for not less than seven days after the date of the grading of the sample.
-> SOR/2013-111, s. 5.
+> SOR/2013-111, s. 5; SOR/2015-137, s. 2.
 
 
 
@@ -869,7 +869,7 @@ Enabling authorities:
 	- **(d)** show the final date by which the holder is required to take delivery of the grain.
 
 - **(2)** If the operator of a licensed terminal elevator gives the notice in accordance with subsection (1), the operator shall at the same time forward a copy of the notice to the Commission.
-> SOR/89-376, ss. 12(F), 14(F); SOR/89-395, s. 2(F); SOR/96-508, s. 40; SOR/2000-213, s. 2; SOR/2013-111, s. 15.
+> SOR/89-376, ss. 12(F), 14(F); SOR/89-395, s. 2(F); SOR/96-508, s. 40; SOR/2000-213, s. 2; SOR/2013-111, s. 15; SOR/2015-137, s. 3(F).
 
 
 
