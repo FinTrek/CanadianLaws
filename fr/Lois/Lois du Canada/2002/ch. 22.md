@@ -4339,6 +4339,16 @@ N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, 
 				- **(III)** qui met en cause l’usage d’une arme;
 	- **b)** les renseignements établissant les motifs raisonnables mentionnés à l’alinéa a), dans la mesure où ces motifs sont fondés sur les renseignements visés à cet alinéa.
 
+**Menaces à la sécurité**
+
+- **(6.5)** Un fonctionnaire peut fournir les renseignements ci-après au responsable d’une institution fédérale destinataire figurant à l’annexe 3 de la [Loi sur la communication d’information ayant trait à la sécurité du Canada](/fr/Lois/Lois%20du%20Canada/2015/ch.%2020,%20art.%202.md), ou à son délégué :
+	- **a)** des renseignements confidentiels, s’il existe des motifs raisonnables de soupçonner qu’ils seraient utiles aux fins suivantes :
+		- **(i)** toute enquête visant à vérifier si les activités d’une personne sont de nature à constituer des menaces envers la sécurité du Canada, au sens de l’article 2 de la [Loi sur le Service canadien du renseignement de sécurité](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-23.md),
+		- **(ii)** toute enquête visant à établir si l’une des infractions ci-après peut avoir été commise :
+			- **(A)** une infraction de terrorisme, au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md),
+			- **(B)** une infraction prévue à l’article 462.31 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), si l’enquête en cause est liée à une infraction de terrorisme au sens de l’article 2 de cette loi;
+	- **b)** les renseignements établissant les motifs raisonnables mentionnés à l’alinéa a), dans la mesure où ces motifs sont fondés sur les renseignements visés à cet alinéa.
+
 **Mesures visant à prévenir l’utilisation ou la divulgation non autorisées d’un renseignement**
 
 - **(7)** La personne qui préside une procédure judiciaire concernant la surveillance ou l’évaluation d’une personne autorisée ou des mesures disciplinaires prises à son endroit peut ordonner la mise en oeuvre des mesures nécessaires pour éviter qu’un renseignement confidentiel soit utilisé ou fourni à une fin étrangère à la procédure, y compris :
@@ -4366,7 +4376,7 @@ N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, 
 **Sursis**
 
 - **(11)** L’application de l’ordonnance ou de la directive objet d’un appel est différée jusqu’au prononcé du jugement.
-> 2002, ch. 22, art. 211; 2005, ch. 38, art. 97 et 145; 2007, ch. 18, art. 117; 2009, ch. 2, art. 120; 2014, ch. 20, art. 75.
+> 2002, ch. 22, art. 211; 2005, ch. 38, art. 97 et 145; 2007, ch. 18, art. 117; 2009, ch. 2, art. 120; 2014, ch. 20, art. 75; 2015, ch. 20, art. 8.
 
 
 
