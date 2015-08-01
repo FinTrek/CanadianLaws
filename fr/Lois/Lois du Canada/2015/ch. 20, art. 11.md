@@ -8,7 +8,7 @@
 Sanctionnée sur le 18 juin 2015
 
 ```
-[Édictée par l’article 11 du chapitre 20 des Lois du Canada (2015), non en vigueur.]
+[Édictée par l’article 11 du chapitre 20 des Lois du Canada (2015), en vigueur le 1<sup>er</sup> août 2015, voir TR/2015-64.]
 ```
 ----------
 
@@ -51,21 +51,21 @@ Sanctionnée sur le 18 juin 2015
 
 **3** Les définitions qui suivent s’appliquent à la présente loi.
 
-***contrôle*** S’entend au sens de l’article 4.7 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+***contrôle*** S’entend au sens de l’article 4.7 de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md). (*screening*)
 
-***liste*** La liste établie en vertu du paragraphe 8(1).
+***liste*** La liste établie en vertu du paragraphe 8(1). (*list*)
 
-***ministre*** Le ministre de la Sécurité publique et de la Protection civile.
+***ministre*** Le ministre de la Sécurité publique et de la Protection civile. (*Minister*)
 
-***personne inscrite*** Personne dont le nom figure sur la liste.
+***personne inscrite*** Personne dont le nom figure sur la liste. (*listed person*)
 
-***sûreté des transports*** S’entend au sens du paragraphe 4.81(0.1) de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+***sûreté des transports*** S’entend au sens du paragraphe 4.81(0.1) de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md). (*transportation security*)
 
-***système de réservation de services aériens*** S’entend au sens du paragraphe 3(1) de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+***système de réservation de services aériens*** S’entend au sens du paragraphe 3(1) de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md). (*aviation reservation system*)
 
-***transporteur aérien*** S’entend au sens du paragraphe 3(1) de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+***transporteur aérien*** S’entend au sens du paragraphe 3(1) de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md). (*air carrier*)
 
-***zone stérile*** S’entend au sens de l’article 3 du [Règlement canadien de 2012 sur la sûreté aérienne](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2011/318.md).
+***zone stérile*** S’entend au sens de l’article 3 du [Règlement canadien de 2012 sur la sûreté aérienne](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2011/318.md). (*sterile area*)
 
 
 
