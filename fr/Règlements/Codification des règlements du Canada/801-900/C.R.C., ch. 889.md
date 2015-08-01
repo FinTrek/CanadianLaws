@@ -98,15 +98,15 @@ Autorités habilitantes :
 
 **6** 
 
-- **(1)** L’échantillon officiel prélevé au titre de l’article 30 de la Loi l’est conformément au document de la Commission intitulé Manuel des systèmes d’échantillonnage et du Guide d’approbation, daté du 16 août 2012.
+- **(1)** L’échantillon officiel prélevé au titre de l’article 30 de la Loi l’est conformément au chapitre 2 du document de la Commission intitulé Manuel des systèmes d’échantillonnage et Guide d’approbation, dans sa version révisée au 14 janvier 2015, laquelle entre en vigueur le 1<sup>er</sup> août 2015.
 
 - **(2)** Il est interdit de prélever un échantillon officiel à l’aide d’un échantillonneur mécanique, à moins que celui-ci ne soit installé, vérifié et entretenu par le titulaire de licence sous la supervision d’un inspecteur.
 
-- **(3)** Les échantillons officiels sont conservés pendant la période commençant à la date de classement de l’échantillon et se terminant :
+- **(3)** Les échantillons officiels sont conservés pendant la période commençant à la date de classement de l’échantillon et se terminant :
 	- **a)** au moins six mois après cette date, si l’échantillon est prélevé lors du transbordement du grain d’une installation à un navire;
-	- **b)** [Abrogé, DORS/2003-284, art. 5]
+	- **b)** [Abrogé, DORS/2003-284, art. 5]
 	- **c)** au moins vingt jours après cette date, dans tout autre cas.
-> DORS/86-813, art. 1; DORS/89-395, art. 2(F); DORS/96-508, art. 5; DORS/2000-213, art. 2; DORS/2001-273, art. 5; DORS/2003-284, art. 5; DORS/2004-198, art. 3; DORS/2005-361, art. 1; DORS/2006-206, art. 1; DORS/2013-111, art. 4.
+> DORS/86-813, art. 1; DORS/89-395, art. 2(F); DORS/96-508, art. 5; DORS/2000-213, art. 2; DORS/2001-273, art. 5; DORS/2003-284, art. 5; DORS/2004-198, art. 3; DORS/2005-361, art. 1; DORS/2006-206, art. 1; DORS/2013-111, art. 4; DORS/2015-137, art. 1.
 
 
 
@@ -126,9 +126,9 @@ Autorités habilitantes :
 
 
 **6.2** L’échantillon de grain prélevé dans le cadre d’une inspection prévue aux paragraphes 70(1) ou (2) ou 70.2(1) ou à l’article 70.3 de la Loi est :
-- **a)** d’une part, pris conformément au document de la Commission intitulé Manuel des systèmes d’échantillonnage et du Guide d’approbation, daté du 16 août 2012;
+- **a)** d’une part, pris conformément au chapitre 2 du document de la Commission intitulé Manuel des systèmes d’échantillonnage et Guide d’approbation, dans sa version révisée au 14 janvier 2014, laquelle entre en vigueur le 1<sup>er</sup> août 2015;
 - **b)** d’autre part, conservé pendant au moins sept jours après sa date de classement.
-> DORS/2013-111, art. 5.
+> DORS/2013-111, art. 5; DORS/2015-137, art. 2.
 
 
 
@@ -862,14 +862,14 @@ Autorités habilitantes :
 
 **59** 
 
-- **(1)** L’avis écrit donné par l’exploitant d’une installation terminale au dernier détenteur connu d’un récépissé d’installation terminale, en application de l’article 77 de la Loi, satisfait aux exigences suivantes :
+- **(1)** L’avis écrit donné par l’exploitant d’une installation terminale agréée au dernier détenteur connu d’un récépissé d’installation terminale, en application de l’article 77 de la Loi, satisfait aux exigences suivantes :
 	- **a)** il est remis en mains propres ou expédié par courrier recommandé à sa dernière adresse connue;
 	- **b)** il porte les numéros des récépissés établis pour le grain à enlever de l’installation;
 	- **c)** il comporte une mention exigeant l’enlèvement du grain de l’installation;
 	- **d)** il indique la date limite à laquelle le détenteur est tenu de prendre livraison du grain.
 
 - **(2)** L’exploitant de l’installation terminale agréée qui donne l’avis en transmet en même temps copie à la Commission.
-> DORS/89-376, art. 12(F) et 14(F); DORS/89-395, art. 2(F); DORS/96-508, art. 40; DORS/2000-213, art. 2; DORS/2013-111, art. 15.
+> DORS/89-376, art. 12(F) et 14(F); DORS/89-395, art. 2(F); DORS/96-508, art. 40; DORS/2000-213, art. 2; DORS/2013-111, art. 15; DORS/2015-137, art. 3(F).
 
 
 
