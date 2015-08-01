@@ -8,7 +8,7 @@
 Assented to on 18 June 2015
 
 ```
-[Enacted by section 11 of chapter 20 of the Statutes of Canada, 2015, not in force.]
+[Enacted by section 11 of chapter 20 of the Statutes of Canada, 2015, in force August 1, 2015, see SI/2015-64.]
 ```
 ----------
 
@@ -51,21 +51,21 @@ Assented to on 18 June 2015
 
 **3** The following definitions apply in this Act.
 
-***air carrier*** has the same meaning as in subsection 3(1) of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+***air carrier*** has the same meaning as in subsection 3(1) of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md). (*transporteur aérien*)
 
-***aviation reservation system*** has the same meaning as in subsection 3(1) of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+***aviation reservation system*** has the same meaning as in subsection 3(1) of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md). (*système de réservation de services aériens*)
 
-***list*** means the list established under subsection 8(1).
+***list*** means the list established under subsection 8(1). (*liste*)
 
-***listed person*** means a person whose name is on the list.
+***listed person*** means a person whose name is on the list. (*personne inscrite*)
 
-***Minister*** means the Minister of Public Safety and Emergency Preparedness.
+***Minister*** means the Minister of Public Safety and Emergency Preparedness. (*ministre*)
 
-***screening*** has the same meaning as in section 4.7 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+***screening*** has the same meaning as in section 4.7 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md). (*contrôle*)
 
-***sterile area*** has the same meaning as in section 3 of the [Canadian Aviation Security Regulations, 2012](/en/Regulations/Statutory%20Orders%20and%20Regulations/2011/318.md).
+***sterile area*** has the same meaning as in section 3 of the [Canadian Aviation Security Regulations, 2012](/en/Regulations/Statutory%20Orders%20and%20Regulations/2011/318.md). (*zone stérile*)
 
-***transportation security*** has the same meaning as in subsection 4.81(0.1) of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+***transportation security*** has the same meaning as in subsection 4.81(0.1) of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md). (*sûreté des transports*)
 
 
 
