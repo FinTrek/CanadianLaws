@@ -4397,18 +4397,18 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***fonctionnaire*** Personne qui, selon le cas :
+***fonctionnaire*** Personne qui, selon le cas :
 - **a)** est ou a été employée par Sa Majesté du chef du Canada ou d’une province;
 - **b)** occupe ou a occupé une fonction de responsabilité à son service;
-- **c)** est ou a été engagée par elle ou pour son compte.
+- **c)** est ou a été engagée par elle ou pour son compte. (*official*)
 
-***personne déterminée*** Personne qui est ou a été engagée par Sa Majesté du chef du Canada ou pour son compte ou qui est ou a été employée par elle ou qui occupe ou a occupé une fonction de responsabilité à son service, pour l’application des dispositions de la présente loi, du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md).
+***personne déterminée*** Personne qui est ou a été engagée par Sa Majesté du chef du Canada ou pour son compte ou qui est ou a été employée par elle ou qui occupe ou a occupé une fonction de responsabilité à son service, pour l’application des dispositions de la présente loi, du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md). (*specified person*)
 
-***renseignement douanier*** Renseignement de toute nature et sous toute forme qui :
+***renseignement douanier*** Renseignement de toute nature et sous toute forme qui :
 - **a)** soit concerne une ou plusieurs personnes et est obtenu, selon le cas :
 	- **(i)** par le ministre ou pour son compte pour l’application de la présente loi ou du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md),
 	- **(ii)** par le ministre du Revenu national ou pour son compte pour la perception des créances de Sa Majesté sous le régime de la partie V.1;
-- **b)** soit est tiré d’un renseignement visé à l’alinéa a).
+- **b)** soit est tiré d’un renseignement visé à l’alinéa a). (*customs information*)
 
 **Interdiction — fourniture ou utilisation d’un renseignement douanier**
 
@@ -4439,7 +4439,8 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 	- **e)** le renseignement peut raisonnablement être considéré comme nécessaire uniquement pour la vie, la santé ou la sécurité d’une personne physique ou de l’environnement au Canada ou dans tout autre pays;
 	- **f)** le renseignement ne sera utilisé qu’à une fin liée à la surveillance ou à l’évaluation d’une personne déterminée, ou à des mesures disciplinaires prises à son endroit, par Sa Majesté du chef du Canada relativement à une période au cours de laquelle cette personne était soit employée par Sa Majesté du chef du Canada, soit engagée par elle ou occupait une fonction de responsabilité à son service, pour l’application ou l’exécution de la présente loi, du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md) ou de la partie 2 de la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md), dans la mesure où le renseignement se rapporte à cette fin;
 	- **g)** le renseignement peut raisonnablement être considéré par le fonctionnaire comme un renseignement qui ne peut directement ou indirectement identifier qui que ce soit;
-	- **h)** le renseignement peut raisonnablement être considéré par le fonctionnaire comme un renseignement qui se rapporte à la sécurité nationale ou à la défense du Canada.
+	- **h)** le renseignement peut raisonnablement être considéré par le fonctionnaire comme un renseignement qui se rapporte à la sécurité nationale ou à la défense du Canada;
+	- **i)** le renseignement est communiqué conformément à la [Loi sur la communication d’information ayant trait à la sécurité du Canada](/fr/Lois/Lois%20du%20Canada/2015/ch.%2020,%20art.%202.md).
 
 **Fourniture ou accès — certaines personnes**
 
@@ -4459,7 +4460,9 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 	- **g.1)** à un fonctionnaire de l’Agence du revenu du Canada, uniquement pour l’application ou l’exécution du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) ou de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
 	- **h)** à un avocat, au sens du paragraphe 84(4) de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), conformément aux exigences énoncées au paragraphe 84(3) de cette loi et sous réserve du paragraphe 84(3.1) de la même loi, la mention dans ces dispositions de « les renseignements auxquels ce paragraphe s’applique » et de « renseignements » valant mention de « renseignements douaniers »;
 	- **i)** à un fonctionnaire du ministère de l’Emploi et du Développement social, uniquement pour l’application ou l’exécution de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), si le renseignement se rapporte à l’entrée de personnes au Canada ou à leur sortie du Canada;
-	- **j)** à un fonctionnaire du ministère de la Citoyenneté et de l’Immigration, uniquement pour l’application ou l’exécution de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md), lorsque le renseignement se rapporte à l’entrée de personnes au Canada ou à leur sortie du Canada;
+	- **j)** à un fonctionnaire du ministère de la Citoyenneté et de l’Immigration, uniquement pour l’application ou l’exécution :
+		- **(i)** soit de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md) ou de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md), lorsque le renseignement se rapporte à l’entrée de personnes au Canada ou à leur sortie du Canada,
+		- **(ii)** soit du droit fédéral en matière de passeports ou autres documents de voyage;
 	- **j.1)** à un fonctionnaire de l’Agence canadienne d’inspection des aliments, uniquement pour l’application ou l’exécution d’une loi mentionnée à l’article 11 de la [Loi sur l’Agence canadienne d’inspection des aliments](/fr/Lois/Lois%20du%20Canada/1997/ch.%206.md) si le renseignement concerne l’importation, l’exportation ou le mouvement en cours de route de marchandises;
 	- **k)** à un fonctionnaire du Centre d’analyse des opérations et déclarations financières du Canada, uniquement pour l’application ou l’exécution de la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md);
 	- **l)** à quiconque, uniquement en vue de déterminer sa réclamation, sa responsabilité ou ses obligations en vertu de la présente loi ou du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), notamment sa réclamation relativement à un remboursement, un drawback ou un abattement en vertu de ces lois;
@@ -4519,7 +4522,7 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 **Règlements**
 
 - **(15)** Le gouverneur en conseil peut, par règlement, déterminer les cas où des frais peuvent être exigés pour permettre l’accès à des renseignements ou pour en fournir, pour en faire des copies ou pour certifier la conformité de celles-ci sous le régime du présent article, ainsi que fixer le montant de ces frais.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 107; 1992, ch. 28, art. 25; 1995, ch. 41, art. 27; 2001, ch. 25, art. 61 et 111, ch. 41, art. 121; 2005, ch. 34, art. 79, ch. 38, art. 80 et 145; 2013, ch. 40, art. 237; 2014, ch. 32, art. 60.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 107; 1992, ch. 28, art. 25; 1995, ch. 41, art. 27; 2001, ch. 25, art. 61 et 111, ch. 41, art. 121; 2005, ch. 34, art. 79, ch. 38, art. 80 et 145; 2013, ch. 40, art. 237; 2014, ch. 32, art. 60; 2015, ch. 20, art. 5.
 
 
 
