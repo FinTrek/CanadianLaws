@@ -306,11 +306,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** Nul ne peut, sciemment, communiquer des renseignements ou documents protégés en sa possession, en autoriser la communication ou en permettre la consultation sans le consentement écrit de la personne de qui ils ont été obtenus, à moins :
 	- **a)** qu’ils soient utiles à l’application de la présente loi ou à la mise en œuvre de la Convention;
-	- **b)** qu’ils doivent être communiqués par le gouvernement du Canada au titre de la Convention.
+	- **b)** qu’ils doivent être communiqués par le gouvernement du Canada au titre de la Convention;
+	- **c)** qu’ils soient communiqués conformément à la [Loi sur la communication d’information ayant trait à la sécurité du Canada](/fr/Lois/Lois%20du%20Canada/2015/ch.%2020,%20art.%202.md).
 
 **Preuve lors de poursuites judiciaires**
 
 - **(4)** Malgré toute autre loi ou règle de droit, nul n’est tenu de communiquer oralement ou par écrit ces renseignements ou documents dans le cadre d’une procédure judiciaire qui ne concerne pas l’application de la présente loi.
+> 1995, ch. 25, art. 17; 2015, ch. 20, art. 7.
+
 
 
 
