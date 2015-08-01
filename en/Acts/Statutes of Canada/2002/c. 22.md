@@ -4371,6 +4371,16 @@ It excludes information that does not directly or indirectly reveal the identity
 				- **(III)** involved the use of a weapon; and
 	- **(b)** information setting out the reasonable grounds referred to in paragraph (a), to the extent that any such grounds rely on information referred to in that paragraph.
 
+**Threats to security**
+
+- **(6.5)** An official may provide to the head, or their delegate, of a recipient Government of Canada institution listed in Schedule 3 to the Security of Canada Information Sharing Act
+	- **(a)** confidential information, if there are reasonable grounds to suspect that the information would be relevant to
+		- **(i)** an investigation of whether the activity of any person may constitute threats to the security of Canada, as defined in section 2 of the [Canadian Security Intelligence Service Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-23.md), or
+		- **(ii)** an investigation of whether any of the following offences may have been committed:
+			- **(A)** a terrorism offence as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), and
+			- **(B)** an offence under section 462.31 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), if that investigation is related to a terrorism offence as defined in section 2 of that Act; and
+	- **(b)** information setting out the reasonable grounds referred to in paragraph (a), to the extent that any such grounds rely on information referred to in that paragraph.
+
 **Measures to prevent unauthorized use or disclosure**
 
 - **(7)** The person presiding at a legal proceeding relating to the supervision, evaluation or discipline of an authorized person may order any measures that are necessary to ensure that confidential information is not used or provided to any person for any purpose not relating to that proceeding, including
@@ -4398,7 +4408,7 @@ It excludes information that does not directly or indirectly reveal the identity
 **Stay**
 
 - **(11)** An appeal shall stay the operation of the order or direction appealed from until judgment is pronounced.
-> 2002, c. 22, s. 211; 2005, c. 38, ss. 97, 145; 2007, c. 18, s. 117; 2009, c. 2, s. 120; 2014, c. 20, s. 75.
+> 2002, c. 22, s. 211; 2005, c. 38, ss. 97, 145; 2007, c. 18, s. 117; 2009, c. 2, s. 120; 2014, c. 20, s. 75; 2015, c. 20, s. 8.
 
 
 
