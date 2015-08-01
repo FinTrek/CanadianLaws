@@ -8,7 +8,7 @@
 Sanctionnée sur le 18 juin 2015
 
 ```
-[Édictée par l’article 2 du chapitre 20 des Lois du Canada (2015), non en vigueur.]
+[Édictée par l’article 2 du chapitre 20 des Lois du Canada (2015), en vigueur le 1<sup>er</sup> août 2015, voir TR/2015-64.]
 ```
 ----------
 
@@ -63,7 +63,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***activité portant atteinte à la sécurité du Canada*** S’entend d’une activité qui porte atteinte à la souveraineté, à la sécurité ou à l’intégrité territoriale du Canada ou à la vie ou à la sécurité de la population du Canada, notamment les activités ci-après si elles entraînent une telle atteinte :
+***activité portant atteinte à la sécurité du Canada*** S’entend d’une activité qui porte atteinte à la souveraineté, à la sécurité ou à l’intégrité territoriale du Canada ou à la vie ou à la sécurité de la population du Canada, notamment les activités ci-après si elles entraînent une telle atteinte :
 - **a)** entraver la capacité du gouvernement fédéral — ou de son administration — en matière de renseignement, de défense, d’activités à la frontière, de sécurité publique, d’administration de la justice, de relations diplomatiques ou consulaires ou de stabilité économique ou financière du Canada;
 - **b)** entraîner un changement de gouvernement au Canada ou influer indûment sur un tel gouvernement par l’emploi de la force ou de moyens illégaux;
 - **c)** espionner, saboter ou se livrer à une activité secrète influencée par l’étranger;
@@ -74,15 +74,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **h)** causer des dommages graves à une personne ou à ses biens en raison de ses liens avec le Canada;
 - **i)** se livrer à une activité au Canada qui porte atteinte à la sécurité d’un autre État.
 
-Il est entendu que sont exclues les activités de défense d’une cause, de protestation, de manifestation d’un désaccord ou d’expression artistique.
+Il est entendu que sont exclues les activités de défense d’une cause, de protestation, de manifestation d’un désaccord ou d’expression artistique. (*activity that undermines the security of Canada*)
 
-***institution fédérale*** S’entend :
+***institution fédérale*** S’entend :
 - **a)** de l’institution fédérale, au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), autre qu’une institution qui figure à l’annexe 1;
-- **b)** d’une institution qui figure à l’annexe 2.
+- **b)** d’une institution qui figure à l’annexe 2. (*Government of Canada institution*)
 
 ***population du Canada***
 - **a)** La population au Canada;
-- **b)** tout citoyen, au sens du paragraphe 2(1) de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md), ou tout résident permanent, au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md), qui se trouve à l’étranger.
+- **b)** tout citoyen, au sens du paragraphe 2(1) de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md), ou tout résident permanent, au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md), qui se trouve à l’étranger. (*people of Canada*)
 
 
 
@@ -220,8 +220,8 @@ Agence canadienne d’inspection des aliments<br />- <i>Canadian Food Inspection
 <tr>
 <td>
 
-Agence de la santé publique du Canada<br />- <i>Public Health Agency of  Canada</i></td>
-<td>L’administrateur en chef de la santé publique</td>
+Agence de la santé publique du Canada<br />- <i>Public Health Agency of Canada</i></td>
+<td>Le président de l’Agence de la santé publique du Canada</td>
 </tr>
 <tr>
 <td>
@@ -238,7 +238,7 @@ Agence du revenu du Canada<br />- <i>Canada Revenue Agency</i></td>
 <tr>
 <td>
 
-Centre d’analyse des opérations et déclarations financières du  Canada<br />- <i>Financial Transactions and Reports Analysis Centre of Canada</i></td>
+Centre d’analyse des opérations et déclarations financières du Canada<br />- <i>Financial Transactions and Reports Analysis Centre of Canada</i></td>
 <td>Le directeur du Centre d’analyse des opérations et déclarations financières du Canada</td>
 </tr>
 <tr>
@@ -314,5 +314,7 @@ Service canadien du renseignement de sécurité<br />- <i>Canadian Security Inte
 <td>Le directeur du Service canadien du renseignement de sécurité</td>
 </tr>
 </table>
+
+> 2015, ch. 20, art. 2 « ann. 3 » et 9.
 
 
