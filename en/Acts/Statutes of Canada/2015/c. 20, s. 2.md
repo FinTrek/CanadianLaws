@@ -8,7 +8,7 @@
 Assented to on 18 June 2015
 
 ```
-[Enacted by section 2 of chapter 20 of the Statutes of Canada, 2015, not in force.]
+[Enacted by section 2 of chapter 20 of the Statutes of Canada, 2015, in force August 1, 2015, see SI/2015-64.]
 ```
 ----------
 
@@ -61,7 +61,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **2** The following definitions apply in this Act.
 
-***activity that undermines the security of Canada*** means any activity, including any of the following activities, if it undermines the sovereignty, security or territorial integrity of Canada or the lives or the security of the people of Canada:
+***activity that undermines the security of Canada*** means any activity, including any of the following activities, if it undermines the sovereignty, security or territorial integrity of Canada or the lives or the security of the people of Canada:
 - **(a)** interference with the capability of the Government of Canada in relation to intelligence, defence, border operations, public safety, the administration of justice, diplomatic or consular relations, or the economic or financial stability of Canada;
 - **(b)** changing or unduly influencing a government in Canada by force or unlawful means;
 - **(c)** espionage, sabotage or covert foreign-influenced activities;
@@ -72,15 +72,15 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 - **(h)** an activity that causes serious harm to a person or their property because of that person’s association with Canada; and
 - **(i)** an activity that takes place in Canada and undermines the security of another state.
 
-For greater certainty, it does not include advocacy, protest, dissent and artistic expression.
+For greater certainty, it does not include advocacy, protest, dissent and artistic expression. (*activité portant atteinte à la sécurité du Canada*)
 
-***Government of Canada institution*** means
+***Government of Canada institution*** means
 - **(a)** a government institution — as defined in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md) — other than one that is listed in Schedule 1; or
-- **(b)** an institution that is listed in Schedule 2.
+- **(b)** an institution that is listed in Schedule 2. (*institution fédérale*)
 
-***people of Canada*** means
+***people of Canada*** means
 - **(a)** the people in Canada; or
-- **(b)** any citizen, as defined in subsection 2(1) of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md) — or any permanent resident, as defined in subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) — who is outside Canada.
+- **(b)** any citizen, as defined in subsection 2(1) of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md) — or any permanent resident, as defined in subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) — who is outside Canada. (*population du Canada*)
 
 
 
@@ -303,7 +303,7 @@ Financial Transactions and Reports Analysis Centre of Canada<br />- <i>Centre d�
 <td>
 
 Public Health Agency of Canada<br />- <i>Agence de la santé publique du Canada</i></td>
-<td>Chief Public Health Officer</td>
+<td>President of the Public Health Agency of Canada</td>
 </tr>
 <tr>
 <td>
@@ -312,5 +312,7 @@ Royal Canadian Mounted Police<br />- <i>Gendarmerie royale du Canada</i></td>
 <td>Commissioner of the Royal Canadian Mounted Police</td>
 </tr>
 </table>
+
+> 2015, c. 20, ss. 2 “Sch. 3”, 9.
 
 
