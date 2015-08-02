@@ -210,8 +210,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Definition of polling day**
 
-- **(6)** If a writ for an election is withdrawn under subsection 59(1) or is deemed to be withdrawn under subsection 31(3) of the [Parliament of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-1.md), then, in Part 17 and Divisions 1, 2, 4 and 5 of Part 18, ***polling day*** means the day that the writ is withdrawn or deemed to be withdrawn.
-> 2000, c. 9, s. 2, c. 12, s. 40; 2001, c. 21, s. 1; 2002, c. 7, s. 90; 2003, c. 19, s. 1; 2004, c. 24, s. 1; 2006, c. 9, s. 39; 2007, c. 21, s. 1; 2014, c. 12, s. 2.
+- **(6)** If a writ for an election is withdrawn under subsection 59(1) or is deemed to be withdrawn under subsection 31(3) of the [Parliament of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-1.md), then, in Parts 16.1 and 17 and Divisions 1, 2, 4 and 5 of Part 18, ***polling day*** means the day that the writ is withdrawn or deemed to be withdrawn.
+> 2000, c. 9, s. 2, c. 12, s. 40; 2001, c. 21, s. 1; 2002, c. 7, s. 90; 2003, c. 19, s. 1; 2004, c. 24, s. 1; 2006, c. 9, s. 39; 2007, c. 21, s. 1; 2014, c. 12, ss. 2, 155.
 
 
 
@@ -411,7 +411,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(a)** exercise general direction and supervision over the conduct of elections;
 - **(b)** ensure that all election officers act with fairness and impartiality and in compliance with this Act;
 - **(c)** issue to election officers the instructions that the Chief Electoral Officer considers necessary for the administration of this Act; and
-- **(d)** exercise the powers and perform the duties and functions that are necessary for the administration of this Act.
+- **(d)** exercise the powers and perform the duties and functions that are necessary for the administration of this Act, other than Division 1.1 of Part 16.1.
+> 2000, c. 9, s. 16; 2014, c. 12, s. 4.
+
 
 
 
@@ -420,11 +422,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **16.1** 
 
-- **(1)** The Chief Electoral Officer shall, in accordance with this section, issue guidelines and interpretation notes on the application of this Act to registered parties, registered associations, nomination contestants, candidates and leadership contestants.
+- **(1)** The Chief Electoral Officer shall, in accordance with this section, issue guidelines and interpretation notes on the application of this Act — other than Division 1.1 of Part 16.1 — to registered parties, registered associations, nomination contestants, candidates and leadership contestants.
 
 **Application**
 
-- **(2)** The Chief Electoral Officer shall, in accordance with this section, on application by the chief agent of a registered party, issue a guideline or interpretation note on the application of a provision of this Act to registered parties, registered associations, nomination contestants, candidates and leadership contestants.
+- **(2)** The Chief Electoral Officer shall, in accordance with this section, on application by the chief agent of a registered party, issue a guideline or interpretation note on the application of a provision of this Act — other than a provision of Division 1.1 of Part 16.1 — to registered parties, registered associations, nomination contestants, candidates and leadership contestants.
 
 **Consultations**
 
@@ -449,7 +451,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Nature of guidelines and interpretation notes**
 
 - **(8)** The guidelines and interpretation notes are issued for information purposes only. They are not binding on registered parties, registered associations, nomination contestants, candidates or leadership contestants.
-> 2014, c. 12, s. 5.
+> 2014, c. 12, ss. 5, 153.
 
 
 
@@ -459,7 +461,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **16.2** 
 
-- **(1)** The Chief Electoral Officer shall, in accordance with this section, on application by the chief agent of a registered party, issue a written opinion on the application of any provision of this Act to an activity or practice that the registered party or a registered association, a nomination contestant, a candidate or a leadership contestant of the registered party proposes to engage in.
+- **(1)** The Chief Electoral Officer shall, in accordance with this section, on application by the chief agent of a registered party, issue a written opinion on the application of any provision of this Act — other than a provision of Division 1.1 of Part 16.1 — to an activity or practice that the registered party or a registered association, nomination contestant, candidate or leadership contestant of the registered party proposes to engage in.
 
 **Consultations**
 
@@ -488,7 +490,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Contrary interpretation**
 
 - **(8)** The opinion remains binding in accordance with subsection (6), and has the precedential value referred to in subsection (7), for as long as a contrary interpretation has not been subsequently issued by means of a guideline or interpretation note issued under section 16.1 or an opinion issued under this section.
-> 2014, c. 12, s. 5.
+> 2014, c. 12, ss. 5, 153.
 
 
 
@@ -6693,6 +6695,244 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 
 
 
+**DIVISION 1.1** 
+### Provision of Voter Contact Calling Services
+
+
+
+#### Agreements Relating to Voter Contact Calling Services
+
+
+
+**Prohibition — entering into agreement with calling service provider**
+
+**348.02** A person or group shall not enter into an agreement with a calling service provider for voter contact calling services unless
+- **(a)** the person or group is a registered party, a registered association, a nomination contestant or a registered third party, or an unregistered third party that is a corporation or group, and the agreement is entered into on behalf of the person or group by the person’s or group’s official representative;
+- **(b)** the person is a candidate and the agreement is entered into in their own name or on their behalf by their official representative or by a person that their official representative has so authorized in writing; or
+- **(c)** the person is an unregistered third party who is an individual and the agreement is entered into in their own name.
+> 2014, c. 12, s. 76.
+
+
+
+
+
+**Obligation to inform**
+
+**348.03** Before a person enters into an agreement with a calling service provider for voter contact calling services, either in their own name or on behalf of another person or a group, the person shall inform the calling service provider that the agreement is for voter contact calling services and shall provide the calling service provider with their name, address and telephone number and a copy of a piece of identification authorized by the Canadian Radio-television and Telecommunications Commission that contains their name.
+> 2014, c. 12, s. 76.
+
+
+
+
+
+**Obligation to obtain identification information**
+
+**348.04** 
+
+- **(1)** Before a calling service provider enters into an agreement with a person or group to provide voter contact calling services, the calling service provider shall obtain from the person who is to enter into the agreement, either in their own name or on behalf of the person or a group, their name, address and telephone number and a copy of a piece of identification authorized by the Canadian Radio-television and Telecommunications Commission that contains their name.
+
+**Obligation to keep identification information**
+
+- **(2)** The calling service provider shall prepare a record of the information obtained and keep that record and the copy of the piece of identification for one year after the end of the election period.
+> 2014, c. 12, s. 76.
+
+
+
+
+
+**Obligation to confirm nature of services**
+
+**348.05** 
+
+- **(1)** A calling service provider that enters into an agreement to make calls for or on behalf of a person or group shall, before the first call is made under the agreement during an election period, ask the person or group whether the making of calls under the agreement would constitute voter contact calling services.
+
+**Obligation to authorize, etc.**
+
+- **(2)** If the making of calls under the agreement does constitute voter contact calling services, a person who is authorized under section 348.02 to enter into an agreement for voter contact calling services with respect to the person or group in question shall, before the first call is made, authorize the provision of voter contact calling services under the agreement and provide the calling service provider with their name, address and telephone number and a copy of a piece of identification authorized by the Canadian Radio-television and Telecommunications Commission that contains their name.
+
+**Obligation to obtain identification information**
+
+- **(3)** If the making of calls under the agreement does constitute voter contact calling services, the calling service provider shall, before the first call is made, obtain from the person who provides the authorization in accordance with subsection (2) that person’s name, address and telephone number and a copy of a piece of identification authorized by the Commission that contains that person’s name.
+
+**Obligation to keep identification information**
+
+- **(4)** The calling service provider shall prepare a record of the information obtained and keep that record and the copy of the piece of identification for one year after the end of the election period.
+> 2014, c. 12, s. 76.
+
+
+
+
+
+#### Filing Obligations — Registration Notices
+
+
+
+**Obligation to file registration notice**
+
+**348.06** 
+
+- **(1)** A calling service provider that, in accordance with an agreement, provides voter contact calling services shall file a registration notice with the Canadian Radio-television and Telecommunications Commission.
+
+**Time for filing and contents**
+
+- **(2)** For each election period to which the agreement applies, the registration notice shall be filed not later than 48 hours after the first call is made under the agreement and shall set out
+	- **(a)** the calling service provider’s name;
+	- **(b)** the name of the person or group with which the calling service provider has entered into the agreement; and
+	- **(c)** the type of calls to be made under the agreement.
+> 2014, c. 12, s. 76.
+
+
+
+
+
+**Obligation to file registration notice — agreement**
+
+**348.07** 
+
+- **(1)** A person who enters into an agreement with a calling service provider for voter contact calling services, either in their own name or on behalf of another person or a group, or a person who provides an authorization of the provision of voter contact calling services under an agreement in accordance with subsection 348.05(2), as the case may be, shall file a registration notice with the Canadian Radio-television and Telecommunications Commission.
+
+**Time for filing and contents**
+
+- **(2)** For each election period to which the agreement applies, the registration notice shall be filed not later than 48 hours after the first call is made under the agreement and shall set out
+	- **(a)** the calling service provider’s name;
+	- **(b)** the name of the person or group with which the calling service provider has entered into the agreement; and
+	- **(c)** the type of calls to be made under the agreement.
+
+**Obligation to provide copy of identification document**
+
+- **(3)** The person who files the registration notice shall, at the time of filing the registration notice, provide the Commission with their name, address and telephone number and a copy of a piece of identification authorized by the Commission that contains their name.
+
+**Deeming**
+
+- **(4)** Except for the purposes of section 348.12, a registration notice is deemed not to have been filed if the information and the copy of the piece of identification are not provided at the time the registration notice is filed.
+> 2014, c. 12, s. 76.
+
+
+
+
+
+**Obligation to file registration notice — live voice calls**
+
+**348.08** 
+
+- **(1)** If, during an election period, a third party that is a corporation or group uses its internal services to make live voice calls for any purpose relating to the election, including a purpose referred to in any of paragraphs (a) to (e) of the definition ***voter contact calling services*** in section 348.01, the third party’s official representative shall file a registration notice with the Canadian Radio-television and Telecommunications Commission.
+
+**Time for filing and contents**
+
+- **(2)** The registration notice shall be filed not later than 48 hours after the first live voice call is made and shall set out
+	- **(a)** the third party’s name;
+	- **(b)** the name, address and telephone number of the official representative; and
+	- **(c)** a statement that the third party is making live voice calls.
+
+**Obligation to provide copy of identification document**
+
+- **(3)** The official representative shall, at the time of filing the registration notice, provide the Commission with their name, address and telephone number and a copy of a piece of identification authorized by the Commission that contains their name.
+
+**Deeming**
+
+- **(4)** Except for the purposes of section 348.12, a registration notice is deemed not to have been filed if the information and the copy of the piece of identification are not provided at the time the registration notice is filed.
+> 2014, c. 12, s. 76.
+
+
+
+
+
+**Obligation to file registration notice — other calls**
+
+**348.09** 
+
+- **(1)** If, during an election period, a person or group uses their internal services to make calls by means of an automatic dialing-announcing device for any purpose relating to the election, including a purpose referred to in any of paragraphs (a) to (e) of the definition ***voter contact calling services*** in section 348.01, the official representative of the person or group — or the person themselves, if the person is an unregistered third party who is an individual — shall file a registration notice with the Canadian Radio-television and Telecommunications Commission.
+
+**Time for filing and contents**
+
+- **(2)** The registration notice shall be filed not later than 48 hours after the first call is made and shall set out
+	- **(a)** the name of the person or group;
+	- **(b)** the name, address and telephone number of the official representative or individual; and
+	- **(c)** a statement that the person or group is making calls by means of an automatic dialing-announcing device.
+
+**Obligation to provide copy of identification document**
+
+- **(3)** The official representative or individual shall, at the time of filing the registration notice, provide the Commission with their name, address and telephone number and a copy of a piece of identification authorized by the Commission that contains their name.
+
+**Deeming**
+
+- **(4)** Except for the purposes of section 348.12, a registration notice is deemed not to have been filed if the information and the copy of the piece of identification are not provided at the time the registration notice is filed.
+> 2014, c. 12, s. 76.
+
+
+
+
+
+#### Role of the Canadian Radio-television and Telecommunications Commission
+
+
+
+**Administration and enforcement**
+
+**348.1** 
+
+- **(1)** The Canadian Radio-television and Telecommunications Commission is responsible for the administration and enforcement of this Division.
+
+**[Telecommunications Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2038.md)**
+
+- **(2)** The administration and enforcement of this Division are to be carried out under Part V of the [Telecommunications Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2038.md).
+> 2014, c. 12, s. 76.
+
+
+
+
+
+**Registry**
+
+**348.11** The Canadian Radio-television and Telecommunications Commission is responsible for establishing and maintaining a registry, to be known as the Voter Contact Registry, in which all documents provided to it under sections 348.06 to 348.09 are to be kept.
+> 2014, c. 12, s. 76.
+
+
+
+
+
+**Publication**
+
+**348.12** As soon as feasible after the expiry of 30 days after polling day, the Canadian Radio-television and Telecommunications Commission shall, in the manner that it considers appropriate, publish the registration notices relating to the election that have been filed with it.
+> 2014, c. 12, s. 76.
+
+
+
+
+
+**Delegation**
+
+**348.13** 
+
+- **(1)** The Canadian Radio-television and Telecommunications Commission may, in writing and on any terms it specifies, delegate to any person any of the powers, duties and functions referred to in sections 348.11 and 348.12.
+
+**Revocation**
+
+- **(2)** The Commission may, in writing, revoke a delegation made under subsection (1).
+> 2014, c. 12, s. 76.
+
+
+
+
+
+**Authorization of types of identification**
+
+**348.14** The Canadian Radio-television and Telecommunications Commission may authorize the types of pieces of identification and of copies of such pieces of identification for the purposes of sections 348.03 to 348.05 and 348.07 to 348.09.
+> 2014, c. 12, s. 76.
+
+
+
+
+
+**Disclosure to Commissioner**
+
+**348.15** The Canadian Radio-television and Telecommunications Commission shall, on the request of the Commissioner, disclose to the Commissioner any document or information that it received under this Division that the Commissioner considers necessary for the purpose of ensuring compliance with and enforcement of this Act, other than this Division.
+> 2014, c. 12, s. 76.
+
+
+
+
+
 **DIVISION 2** 
 ### Scripts and Recordings
 
@@ -8579,7 +8819,7 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 
 **Prohibition — incurring expenses**
 
-- **(2)** No person or entity, other than a registered agent of a registered party, shall incur the registered party’s expenses.
+- **(2)** Subject to section 348.02, no person or entity, other than a registered agent of a registered party, shall incur the registered party’s expenses.
 
 **Prohibition — accepting contributions, borrowing**
 
@@ -8590,7 +8830,7 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 - **(4)** No person or entity, other than a registered agent of a registered party, shall, on behalf of the registered party,
 	- **(a)** accept a provision of goods or services, or a transfer of funds, if the provision or transfer is permitted under section 364; or
 	- **(b)** provide goods or services, or transfer funds, if the provision or transfer is permitted under that section.
-> 2000, c. 9, s. 426; 2003, c. 19, s. 36; 2014, c. 12, s. 86.
+> 2000, c. 9, s. 426; 2003, c. 19, s. 36; 2014, c. 12, ss. 86, 155.
 
 
 
@@ -9705,7 +9945,7 @@ This Act applies to information provided under this subsection as if it were inf
 
 **Prohibition — incurring expenses**
 
-- **(2)** No person or entity, other than an electoral district agent of a registered association, shall incur the registered association’s expenses.
+- **(2)** Subject to section 348.02, no person or entity, other than an electoral district agent of a registered association, shall incur the registered association’s expenses.
 
 **Prohibition — accepting contributions, borrowing**
 
@@ -9716,7 +9956,7 @@ This Act applies to information provided under this subsection as if it were inf
 - **(4)** No person or entity, other than the financial agent of a registered association, shall, on behalf of the registered association,
 	- **(a)** accept a provision of goods or services, or a transfer of funds, if the provision or transfer is permitted under section 364; or
 	- **(b)** provide goods or services, or transfer funds, if the provision or transfer is permitted under that section.
-> 2000, c. 9, s. 475; 2014, c. 12, s. 86.
+> 2000, c. 9, s. 475; 2014, c. 12, ss. 86, 155.
 
 
 
@@ -10194,12 +10434,12 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 
 **Prohibition — incurring nomination campaign expenses**
 
-- **(5)** No person or entity, other than the nomination contestant or their financial agent, shall incur the contestant’s nomination campaign expenses.
+- **(5)** Subject to section 348.02, no person or entity, other than the nomination contestant or their financial agent, shall incur the contestant’s nomination campaign expenses.
 
 **Prohibition — paying contestant’s personal expenses**
 
 - **(6)** No person or entity, other than the nomination contestant or their financial agent, shall pay the contestant’s personal expenses.
-> 2014, c. 12, s. 86.
+> 2014, c. 12, ss. 86, 155.
 
 
 
@@ -14165,8 +14405,8 @@ The contestant shall notify the Chief Electoral Officer that the application has
 
 **Duty**
 
-**509.2** The Commissioner’s duty is to ensure that this Act is complied with and enforced.
-> 2014, c. 12, s. 108.
+**509.2** The Commissioner’s duty is to ensure that this Act, other than Division 1.1 of Part 16.1, is complied with and enforced.
+> 2014, c. 12, ss. 108, 157.
 
 
 
@@ -15467,7 +15707,7 @@ Public Curator (Quebec)
 ## List of Electoral Districts
 *Province of Ontario*
 
-Algoma—Manitoulin—Kapuskasing
+Algoma — Manitoulin — Kapuskasing
 
 
 
@@ -15475,26 +15715,26 @@ Kenora
 
 
 
-Nickel Belt
+Thunder Bay — Rainy River
 
 
 
-Thunder Bay—Rainy River
+Thunder Bay — Superior North
 
 
 
-Thunder Bay—Superior North
-
-
-
-Timmins—James Bay
+Timmins — James Bay
 
 
 
 
 *Province of Quebec*
 
-Abitibi—Témiscamingue
+Abitibi — Baie-James — Nunavik — Eeyou
+
+
+
+Abitibi — Témiscamingue
 
 
 
@@ -15502,60 +15742,60 @@ Manicouagan
 
 
 
-Nunavik—Eeyou
-
-
-
 
 *Province of Manitoba*
 
-Churchill
+Churchill — Keewatinook Aski
 
 
 
-Dauphin—Swan River
+Dauphin — Swan River — Neepawa
+
+
+
+Selkirk — Interlake — Eastman
 
 
 
 
 *Province of British Columbia*
 
-Cariboo—Prince George
+Cariboo — Prince George
 
 
 
-Chilliwack—Fraser Canyon
+Kamloops — Thompson — Cariboo
 
 
 
-Kamloops—Thompson
+Mission — Matsqui — Fraser Canyon
 
 
 
-Prince George—Peace River
+North Island — Powell River
 
 
 
-Skeena—Bulkley Valley
+Prince George — Peace River — Northern Rockies
 
 
 
-Vancouver Island North
-
-
-
-West Vancouver—Sunshine Coast
+Skeena — Bulkley Valley
 
 
 
 
 *Province of Saskatchewan*
 
-Battlefords—Lloydminster
+Battlefords — Lloydminster
 
 
 
-Churchill River
+Carlton Trail — Eagle Creek
+
+
+
+Desnethé — Missinippi — Churchill River
 
 
 
@@ -15563,42 +15803,30 @@ Prince Albert
 
 
 
-Saskatoon—Humboldt
-
-
-
-Saskatoon—Wanuskewin
-
-
-
-Yorkton—Melville
+Yorkton — Melville
 
 
 
 
 *Province of Alberta*
 
-Athabasca
+Fort McMurray — Cold Lake
 
 
 
-Lethbridge
+Grande Prairie — Mackenzie
 
 
 
-Peace River
+Lakeland
 
 
 
-Westlock—St. Paul
+Medicine Hat — Cardston — Warner
 
 
 
-Wetaskiwin
-
-
-
-Wild Rose
+Peace River — Westlock
 
 
 
@@ -15609,15 +15837,11 @@ Yellowhead
 
 *Province of Newfoundland and Labrador*
 
-Avalon
+Bonavista — Burin — Trinity
 
 
 
-Bonavista—Exploits
-
-
-
-Humber—St. Barbe—Baie Verte
+Coast of Bays — Central — Notre Dame
 
 
 
@@ -15625,7 +15849,7 @@ Labrador
 
 
 
-Random—Burin—St. George’s
+Long Range Mountains
 
 
 
@@ -15651,7 +15875,14 @@ Nunavut
 
 
 
-> 2000, c. 9, Sch. 3; 2002, c. 7, s. 95; Canada Gazette Part I, Extra Volume 138, No. 5.
+**[Note: Names of electoral districts may change before Schedule 3 is officially amended. For the most up-to-date list, see the Schedule 3 profile page on Elections Canada’s website at this link:**
+
+**http://www.elections.ca/content2.aspx?section=can&dir=cand/becom/s3&document=index&lang=e ]**
+
+
+
+
+> 2000, c. 9, Sch. 3; 2002, c. 7, s. 95; Canada Gazette Part I, Extra Volume 138, No. 5; Canada Gazette Part I, Extra Volume 149, No. 2.
 
 
 
