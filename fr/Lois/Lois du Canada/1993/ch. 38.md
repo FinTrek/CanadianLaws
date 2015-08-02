@@ -11,7 +11,7 @@ Sanctionnée sur le 23 juin 1993
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -1735,7 +1735,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **71** 
 
-- **(1)** Le Conseil peut désigner à titre d’inspecteur les personnes qu’il estime qualifiées pour vérifier le respect ou prévenir le non-respect des dispositions de la présente loi ou d’une loi spéciale qu’il est chargé de faire appliquer et de l’exécution des décisions qu’il a rendues sous le régime de la présente loi.
+- **(1)** Le Conseil peut désigner à titre d’inspecteur les personnes qu’il estime qualifiées pour vérifier le respect ou prévenir le non-respect des dispositions de la présente loi ou d’une loi spéciale qu’il est chargé de faire appliquer ou encore des dispositions de la section 1.1 de la partie 16.1 de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md) et de l’exécution des décisions qu’il a rendues sous le régime de la présente loi.
 
 **Désignation**
 
@@ -1745,10 +1745,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** L’inspecteur reçoit un certificat attestant sa qualité qu’il présente, sur demande, à toute personne apparemment responsable du lieu visité.
 
-**Pouvoirs de l’inspecteur**
+**Pouvoirs**
 
 - **(4)** L’inspecteur peut, dans le cadre de sa mission :
-	- **a)** à toute fin liée à la vérification du respect ou à la prévention du non-respect de la présente loi ou d’une loi spéciale, entrer à toute heure convenable dans tout lieu s’il a des motifs raisonnables de croire que s’y trouvent des objets, des documents ou des renseignements, examiner ceux-ci et les emporter pour examen ou reproduction;
+	- **a)** à toute fin liée à la vérification du respect ou à la prévention du non-respect de la présente loi, d’une loi spéciale ou de la section 1.1 de la partie 16.1 de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md), entrer à toute heure convenable dans tout lieu s’il a des motifs raisonnables de croire que s’y trouvent des objets, des documents ou des renseignements, examiner ceux-ci et les emporter pour examen ou reproduction;
 	- **b)** faire usage, directement ou indirectement, de tout système informatique se trouvant dans le lieu pour vérifier les données qu’il contient ou auxquelles il donne accès;
 	- **c)** à partir de ces données, reproduire ou faire reproduire tout document sous forme d’imprimé ou toute autre forme intelligible qu’il peut emporter pour examen ou reproduction;
 	- **d)** utiliser le matériel de reproduction et les moyens de communication du lieu.
@@ -1761,7 +1761,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(6)** Sur demande *ex parte*, le juge de paix peut décerner un mandat autorisant, sous réserve des conditions fixées, l’inspecteur qui y est nommé à entrer dans une maison d’habitation si lui-même est convaincu, sur la foi d’une dénonciation sous serment, que sont réunies les conditions suivantes :
 	- **a)** il s’agit d’un lieu visé à l’alinéa (4)a);
-	- **b)** l’entrée est nécessaire à toute fin liée à la vérification du respect ou à la prévention du non-respect de la présente loi ou d’une loi spéciale;
+	- **b)** l’entrée est nécessaire à toute fin liée à la vérification du respect ou à la prévention du non-respect de la présente loi, d’une loi spéciale ou de la section 1.1 de la partie 16.1 de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md);
 	- **c)** soit un refus d’y entrer a été opposé, soit il y a des motifs raisonnables de croire que tel sera le cas ou qu’il sera impossible d’obtenir le consentement de l’occupant.
 
 **Usage de la force**
@@ -1774,14 +1774,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Obligation d’information**
 
-- **(9)** S’il croit qu’une personne détient des renseignements qu’il juge nécessaires pour la vérification du respect ou à la prévention du non-respect de la présente loi ou d’une loi spéciale, l’inspecteur peut, par avis, l’obliger à les lui communiquer, selon les modalités, notamment de temps et de forme, que précise l’avis.
+- **(9)** S’il croit qu’une personne détient des renseignements qu’il juge nécessaires pour la vérification du respect ou à la prévention du non-respect de la présente loi, d’une loi spéciale ou de la section 1.1 de la partie 16.1 de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md), l’inspecteur peut, par avis, l’obliger à les lui communiquer, selon les modalités, notamment de temps et de forme, que précise l’avis.
 
 **Entrave et fausses déclarations**
 
 - **(10)** Il est interdit :
 	- **a)** d’entraver volontairement l’action de l’inspecteur dans l’exercice de ses fonctions;
 	- **b)** de lui faire sciemment, oralement ou par écrit, une déclaration fausse ou trompeuse.
-> 1993, ch. 38, art. 71; 1999, ch. 31, art. 207(F); 2014, ch. 39, art. 200.
+> 1993, ch. 38, art. 71; 1999, ch. 31, art. 207(F); 2014, ch. 12, art. 137, ch. 39, art. 200 et 209.
 
 
 
@@ -2024,10 +2024,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Violation**
 
-**72.01** Toute contravention ou tout manquement à une mesure prise par le Conseil au titre de l’article 41 constitue une violation exposant son auteur à une pénalité dont le montant peut atteindre :
+**72.01** Toute contravention ou tout manquement à une mesure prise par le Conseil au titre de l’article 41 et toute contravention à l’une ou l’autre des dispositions de la section 1.1 de la partie 16.1 de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md) constituent une violation exposant son auteur à une pénalité dont le montant peut atteindre :
 - **a)** dans le cas d’une personne physique, 1 500 $;
 - **b)** dans le cas d’une personne morale, 15 000 $.
-> 2005, ch. 50, art. 2.
+> 2005, ch. 50, art. 2; 2014, ch. 12, art. 138.
 
 
 
@@ -2192,8 +2192,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Principes de la common law**
 
-- **(2)** Les règles et principes de la common law qui font d’une circonstance une justification ou une excuse dans le cadre d’une poursuite pour infraction à la présente loi s’appliquent à l’égard de toute violation sauf dans la mesure où ils sont incompatibles avec la présente loi.
-> 2005, ch. 50, art. 2; 2014, ch. 39, art. 207.
+- **(2)** Les règles et principes de la common law qui font d’une circonstance une justification ou une excuse dans le cadre d’une poursuite pour infraction à la présente loi ou à la section 1.1 de la partie 16.1 de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md) s’appliquent à l’égard de toute violation sauf dans la mesure où ils sont incompatibles avec la présente loi.
+> 2005, ch. 50, art. 2; 2014, ch. 12, art. 142.1, ch. 39, art. 207 et 209.
 
 
 
@@ -2210,8 +2210,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Cumul interdit**
 
-**72.17** S’agissant d’un acte ou d’une omission qualifiable à la fois de violation et d’infraction, la procédure en violation et la procédure pénale s’excluent l’une l’autre.
-> 2014, ch. 39, art. 207.
+**72.17** S’agissant d’un acte ou d’une omission qualifiable à la fois de violation et d’infraction à la présente loi ou à la section 1.1 de la partie 16.1 de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md), la procédure en violation et la procédure pénale s’excluent l’une l’autre.
+> 2014, ch. 12, art. 143.1, ch. 39, art. 207 et 209.
 
 
 
@@ -2235,6 +2235,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Groupe considéré comme une personne morale**
+
+**72.2** Pour l’application des articles 71 et 72.01 à 72.19, un groupe, au sens de l’article 348.01 de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md), est considéré comme une personne morale.
+> 2014, ch. 12, art. 143, ch. 39, art. 209.
+
+
+
+
+
 ### Infractions
 
 
@@ -2243,21 +2252,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **73** 
 
-- **(1)** Quiconque contrevient aux paragraphes 16(4) ou 16.1(1) ou (2) ou à l’article 17 commet une infraction passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale :
+- **(1)** Quiconque contrevient aux paragraphes 16(4) ou 16.1(1) ou (2) ou à l’article 17 commet une infraction passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale :
 	- **a)** de cinquante mille dollars, ou de cent mille dollars en cas de récidive, s’il s’agit d’une personne physique;
 	- **b)** de cinq cent mille dollars, ou de un million de dollars en cas de récidive, s’il s’agit d’une personne morale.
 
 **Idem**
 
-- **(2)** Commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale soit de dix mille dollars, ou de vingt-cinq mille dollars en cas de récidive, s’il s’agit d’une personne physique, soit de cent mille dollars, ou de deux cent cinquante mille dollars en cas de récidive, s’il s’agit d’une personne morale, quiconque :
+- **(2)** Commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale soit de dix mille dollars, ou de vingt-cinq mille dollars en cas de récidive, s’il s’agit d’une personne physique, soit de cent mille dollars, ou de deux cent cinquante mille dollars en cas de récidive, s’il s’agit d’une personne morale, quiconque :
 	- **a)** contrevient à l’article 25, aux paragraphes 27(1) ou (2) ou à l’article 69.2;
 	- **b)** n’observe pas les conditions fixées au titre des articles 9 ou 24 ou des paragraphes 34(1) ou (2);
 	- **c)** ne se conforme pas aux mesures prises par le Conseil au titre de l’article 41;
-	- **d)** sciemment, fait au Conseil, au ministre, à la personne désignée en vertu de l’article 70, à l’inspecteur visé à l’article 71 ou à l’agent ou à la personne désigné en vertu des articles 72.004 ou 72.04 une présentation erronée de faits importants ou omet de lui mentionner l’un de ceux-ci.
+	- **d)** sciemment, fait au Conseil, au ministre, à la personne désignée en vertu de l’article 70, à l’inspecteur visé à l’article 71 ou à l’agent ou à la personne désigné en vertu des articles 72.004 ou 72.04 une présentation erronée de faits importants ou omet de lui mentionner l’un de ceux-ci;
+	- **e)** contrevient à l’une ou l’autre des dispositions de la section 1.1 de la partie 16.1 de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md).
 
 **Idem**
 
-- **(3)** Commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale soit de cinq mille dollars, ou de dix mille dollars en cas de récidive, s’il s’agit d’une personne physique, soit de cinquante mille dollars, ou de cent mille dollars en cas de récidive, s’il s’agit d’une personne morale, quiconque contrevient :
+- **(3)** Commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale soit de cinq mille dollars, ou de dix mille dollars en cas de récidive, s’il s’agit d’une personne physique, soit de cinquante mille dollars, ou de cent mille dollars en cas de récidive, s’il s’agit d’une personne morale, quiconque contrevient :
 	- **a)** à toute autre disposition de la présente loi, aux décisions ou règlements pris sous son régime ou aux dispositions d’une loi spéciale;
 	- **b)** aux obligations qui en découlent.
 
@@ -2280,7 +2290,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Cour fédérale**
 
 - **(8)** La Cour fédérale est, pour l’application du paragraphe (7), un tribunal compétent.
-> 1993, ch. 38, art. 73; 1998, ch. 8, art. 9; 2002, ch. 17, art. 30; 2014, ch. 39, art. 208.
+
+**Groupe considéré comme une personne morale**
+
+- **(9)** Pour l’application du présent article, un groupe, au sens de l’article 348.01 de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md), est considéré comme une personne morale.
+> 1993, ch. 38, art. 73; 1998, ch. 8, art. 9; 2002, ch. 17, art. 30; 2014, ch. 12, art. 144, ch. 39, art. 208.
 
 
 
