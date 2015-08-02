@@ -208,8 +208,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Définition de jour du scrutin**
 
-- **(6)** Si le bref délivré pour une élection est retiré dans le cadre du paragraphe 59(1) ou est réputé l’être en vertu du paragraphe 31(3) de la [Loi sur le Parlement du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-1.md), ***jour du scrutin*** s’entend, à la partie 17 et aux sections 1, 2, 4 et 5 de la partie 18, du jour où le bref est retiré ou est réputé l’être.
-> 2000, ch. 9, art. 2, ch. 12, art. 40; 2001, ch. 21, art. 1; 2002, ch. 7, art. 90; 2003, ch. 19, art. 1; 2004, ch. 24, art. 1; 2006, ch. 9, art. 39; 2007, ch. 21, art. 1; 2014, ch. 12, art. 2.
+- **(6)** Si le bref délivré pour une élection est retiré dans le cadre du paragraphe 59(1) ou est réputé l’être en vertu du paragraphe 31(3) de la [Loi sur le Parlement du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-1.md), ***jour du scrutin*** s’entend, aux parties 16.1 et 17 et aux sections 1, 2, 4 et 5 de la partie 18, du jour où le bref est retiré ou est réputé l’être.
+> 2000, ch. 9, art. 2, ch. 12, art. 40; 2001, ch. 21, art. 1; 2002, ch. 7, art. 90; 2003, ch. 19, art. 1; 2004, ch. 24, art. 1; 2006, ch. 9, art. 39; 2007, ch. 21, art. 1; 2014, ch. 12, art. 2 et 155.
 
 
 
@@ -409,7 +409,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** dirige et surveille d’une façon générale les opérations électorales;
 - **b)** veille à ce que les fonctionnaires électoraux agissent avec équité et impartialité et observent la présente loi;
 - **c)** donne aux fonctionnaires électoraux les instructions qu’il juge nécessaires à l’application de la présente loi;
-- **d)** exerce les pouvoirs et fonctions nécessaires à l’application de la présente loi.
+- **d)** exerce les pouvoirs et fonctions nécessaires à l’application de la présente loi, à l’exception de la section 1.1 de la partie 16.1.
+> 2000, ch. 9, art. 16; 2014, ch. 12, art. 4.
+
 
 
 
@@ -418,11 +420,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **16.1** 
 
-- **(1)** Le directeur général des élections établit, conformément au présent article, des lignes directrices et des notes d’interprétation concernant l’application de la présente loi aux partis enregistrés, aux associations enregistrées, aux candidats à l’investiture, aux candidats et aux candidats à la direction.
+- **(1)** Le directeur général des élections établit, conformément au présent article, des lignes directrices et des notes d’interprétation concernant l’application de la présente loi — à l’exception de la section 1.1 de la partie 16.1 — aux partis enregistrés, aux associations enregistrées, aux candidats à l’investiture, aux candidats et aux candidats à la direction.
 
 **Demande**
 
-- **(2)** À la demande de l’agent principal d’un parti enregistré, le directeur général des élections établit, conformément au présent article, une ligne directrice ou une note d’interprétation concernant l’application d’une disposition de la présente loi aux partis enregistrés, aux associations enregistrées, aux candidats à l’investiture, aux candidats et aux candidats à la direction.
+- **(2)** À la demande de l’agent principal d’un parti enregistré, le directeur général des élections établit, conformément au présent article, une ligne directrice ou une note d’interprétation concernant l’application d’une disposition de la présente loi — à l’exception d’une disposition de la section 1.1 de la partie 16.1 — aux partis enregistrés, aux associations enregistrées, aux candidats à l’investiture, aux candidats et aux candidats à la direction.
 
 **Consultations**
 
@@ -447,7 +449,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Nature des lignes directrices et notes d’interprétation**
 
 - **(8)** Les lignes directrices et les notes d’interprétation sont établies à titre d’information. Elles ne lient pas les partis enregistrés, les associations enregistrées, les candidats à l’investiture, les candidats ou les candidats à la direction.
-> 2014, ch. 12, art. 5.
+> 2014, ch. 12, art. 5 et 153.
 
 
 
@@ -457,7 +459,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **16.2** 
 
-- **(1)** À la demande de l’agent principal d’un parti enregistré, le directeur général des élections donne, conformément au présent article, un avis écrit sur l’application de toute disposition de la présente loi à une activité ou à une pratique à laquelle le parti, une association enregistrée, un candidat à l’investiture, un candidat ou un candidat à la direction du parti a l’intention de se livrer.
+- **(1)** À la demande de l’agent principal d’un parti enregistré, le directeur général des élections donne, conformément au présent article, un avis écrit sur l’application de toute disposition de la présente loi — à l’exception d’une disposition de la section 1.1 de la partie 16.1 — à une activité ou à une pratique à laquelle le parti, une association enregistrée, un candidat à l’investiture, un candidat ou un candidat à la direction du parti a l’intention de se livrer.
 
 **Consultations**
 
@@ -486,7 +488,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Interprétation contraire**
 
 - **(8)** L’avis est contraignant aux termes du paragraphe (6) et constitue un précédent en application du paragraphe (7) tant qu’une interprétation contraire n’a pas été subséquemment formulée au moyen d’une ligne directrice ou d’une note d’interprétation établie en application de l’article 16.1 ou d’un avis donné en application du présent article.
-> 2014, ch. 12, art. 5.
+> 2014, ch. 12, art. 5 et 153.
 
 
 
@@ -6655,6 +6657,244 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 
 
+**SECTION 1.1** 
+### Prestation de services d’appels aux électeurs
+
+
+
+#### Accords relatifs à des services d’appels aux électeurs
+
+
+
+**Interdiction : conclure un accord avec un fournisseur de services d’appel**
+
+**348.02** Il est interdit à toute personne ou à tout groupe de conclure un accord avec un fournisseur de services d’appel visant la prestation de services d’appels aux électeurs, sauf dans les cas suivants :
+- **a)** la personne ou le groupe est un parti enregistré, une association enregistrée, un candidat à l’investiture, un tiers enregistré ou encore un tiers non enregistré qui est un groupe ou une personne morale et l’accord est conclu pour son compte par son représentant officiel;
+- **b)** la personne est un candidat et l’accord est conclu en son propre nom ou, pour son compte, par son représentant officiel ou par la personne que celui-ci autorise par écrit à cette fin;
+- **c)** la personne est un tiers non enregistré qui est un particulier et l’accord est conclu en son propre nom.
+> 2014, ch. 12, art. 76.
+
+
+
+
+
+**Obligation d’informer**
+
+**348.03** Avant qu’une personne ne conclue — en son propre nom ou pour le compte d’une autre personne ou d’un groupe — un accord visant la prestation de services d’appels aux électeurs avec un fournisseur de services d’appel, elle informe le fournisseur que l’accord vise la prestation de tels services et lui communique son nom, son adresse, son numéro de téléphone ainsi qu’une copie d’une pièce d’identité autorisée par le Conseil de la radiodiffusion et des télécommunications canadiennes comportant son nom.
+> 2014, ch. 12, art. 76.
+
+
+
+
+
+**Obligation d’obtenir des renseignements d’identification**
+
+**348.04** 
+
+- **(1)** Avant que le fournisseur de services d’appel ne conclue, avec une personne ou un groupe, un accord visant la prestation de services d’appels aux électeurs, il obtient de la personne avec qui l’accord sera conclu — en son propre nom ou pour le compte de l’autre personne ou du groupe — son nom, son adresse, son numéro de téléphone ainsi qu’une copie d’une pièce d’identité autorisée par le Conseil de la radiodiffusion et des télécommunications canadiennes comportant son nom.
+
+**Obligation de conserver les renseignements d’identification**
+
+- **(2)** Le fournisseur de services d’appel consigne les renseignements obtenus et les conserve avec la copie de la pièce d’identité pendant un an après la fin de la période électorale.
+> 2014, ch. 12, art. 76.
+
+
+
+
+
+**Obligation de s’enquérir de la nature des services**
+
+**348.05** 
+
+- **(1)** Le fournisseur de services d’appel qui a conclu un accord en vue de faire des appels au nom d’une personne ou d’un groupe ou pour leur compte est tenu de demander, avant de faire le premier appel au titre de l’accord pendant une période électorale, à la personne ou au groupe de lui indiquer si la prestation d’appels à faire au titre de l’accord constituerait la prestation de services d’appels aux électeurs.
+
+**Obligation d’autorisation**
+
+- **(2)** Si la prestation d’appels à faire au titre de l’accord constitue la prestation de services d’appels aux électeurs, la personne autorisée, au titre de l’article 348.02, à conclure à l’égard de la personne ou du groupe en cause un accord visant la prestation de services d’appels aux électeurs est tenue, avant que le premier appel ne soit fait, d’autoriser la prestation de services d’appels aux électeurs et de communiquer son nom, son adresse, son numéro de téléphone ainsi qu’une copie d’une pièce d’identité autorisée par le Conseil de la radiodiffusion et des télécommunications canadiennes comportant son nom.
+
+**Obligation d’obtenir des renseignements d’identification**
+
+- **(3)** Si la prestation d’appels à faire au titre de l’accord constitue la prestation de services d’appels aux électeurs, le fournisseur de services d’appel obtient, avant de faire le premier appel, de la personne qui donne l’autorisation visée au paragraphe (2) son nom, son adresse, son numéro de téléphone ainsi qu’une copie d’une pièce d’identité autorisée par le Conseil comportant son nom.
+
+**Obligation de conserver les renseignements d’identification**
+
+- **(4)** Le fournisseur de services d’appel consigne les renseignements obtenus et les conserve avec la copie de la pièce d’identité pendant un an après la fin de la période électorale.
+> 2014, ch. 12, art. 76.
+
+
+
+
+
+#### Obligation de dépôt d’avis d’enregistrement
+
+
+
+**Obligation de déposer un avis d’enregistrement**
+
+**348.06** 
+
+- **(1)** Le fournisseur de services d’appel qui, au titre d’un accord, fournit des services d’appels aux électeurs dépose un avis d’enregistrement auprès du Conseil de la radiodiffusion et des télécommunications canadiennes.
+
+**Délai et teneur**
+
+- **(2)** Pour chaque période électorale à laquelle l’accord s’applique, l’avis est déposé dans les quarante-huit heures suivant le premier appel fait au titre de l’accord et contient les renseignements suivants :
+	- **a)** le nom du fournisseur de services d’appel;
+	- **b)** le nom de la personne ou du groupe partie à l’accord;
+	- **c)** le type d’appels visés par l’accord.
+> 2014, ch. 12, art. 76.
+
+
+
+
+
+**Obligation de déposer un avis d’enregistrement : accord**
+
+**348.07** 
+
+- **(1)** La personne qui conclut, en son propre nom ou pour le compte d’une autre personne ou d’un groupe, avec un fournisseur de services d’appel, un accord visant la prestation de services d’appels aux électeurs — ou la personne qui donne l’autorisation de la prestation de services d’appels aux électeurs au titre d’un accord conformément au paragraphe 348.05(2) —, selon le cas, dépose auprès du Conseil de la radiodiffusion et des télécommunications canadiennes un avis d’enregistrement.
+
+**Délai et teneur**
+
+- **(2)** Pour chaque période électorale à laquelle l’accord s’applique, l’avis est déposé dans les quarante-huit heures suivant le premier appel fait au titre de l’accord et contient les renseignements suivants :
+	- **a)** le nom du fournisseur de services d’appel;
+	- **b)** le nom de la personne ou du groupe partie à l’accord;
+	- **c)** le type d’appels visés par l’accord.
+
+**Obligation de fournir une copie d’une pièce d’identité**
+
+- **(3)** La personne qui dépose l’avis fournit au Conseil, au moment de ce dépôt, son nom, son adresse, son numéro de téléphone et une copie d’une pièce d’identité autorisée par le Conseil comportant son nom.
+
+**Présomption**
+
+- **(4)** Sauf pour l’application de l’article 348.12, l’avis est réputé ne pas avoir été déposé si les renseignements et la copie de la pièce d’identité ne sont pas fournis au moment du dépôt.
+> 2014, ch. 12, art. 76.
+
+
+
+
+
+**Obligation de déposer un avis d’enregistrement : appels de vive voix**
+
+**348.08** 
+
+- **(1)** Lorsque, pendant une période électorale, un tiers, qui est un groupe ou une personne morale, utilise ses services internes pour faire des appels de vive voix à toute fin liée aux élections, notamment celles énumérées aux alinéas a) à e) de la définition de ***services d’appels aux électeurs*** à l’article 348.01, son représentant officiel dépose auprès du Conseil de la radiodiffusion et des télécommunications canadiennes un avis d’enregistrement.
+
+**Délai et teneur**
+
+- **(2)** L’avis est déposé dans les quarante-huit heures suivant le premier appel de vive voix et contient les renseignements suivants :
+	- **a)** le nom du tiers;
+	- **b)** les nom, adresse et numéro de téléphone du représentant officiel;
+	- **c)** la confirmation que le tiers fait des appels de vive voix.
+
+**Obligation de fournir une copie d’une pièce d’identité**
+
+- **(3)** Le représentant officiel fournit au Conseil, au moment de ce dépôt, son nom, son adresse, son numéro de téléphone et une copie d’une pièce d’identité autorisée par le Conseil comportant son nom.
+
+**Présomption**
+
+- **(4)** Sauf pour l’application de l’article 348.12, l’avis est réputé ne pas avoir été déposé si les renseignements et la copie de la pièce d’identité ne sont pas fournis au moment du dépôt.
+> 2014, ch. 12, art. 76.
+
+
+
+
+
+**Obligation de déposer un avis d’enregistrement : autres appels**
+
+**348.09** 
+
+- **(1)** Lorsque, pendant une période électorale, une personne ou un groupe utilise ses services internes pour faire des appels par composeur-messager automatique à toute fin liée aux élections, notamment celles énumérées aux alinéas a) à e) de la définition de ***services d’appels aux électeurs*** à l’article 348.01, le représentant officiel de la personne ou du groupe ou la personne elle-même, si elle est un tiers non enregistré qui est un particulier, dépose auprès du Conseil de la radiodiffusion et des télécommunications canadiennes un avis d’enregistrement.
+
+**Délai et teneur**
+
+- **(2)** L’avis est déposé dans les quarante-huit heures suivant le premier appel et contient les renseignements suivants :
+	- **a)** le nom de la personne ou du groupe;
+	- **b)** les nom, adresse et numéro de téléphone du représentant officiel ou du particulier;
+	- **c)** la confirmation que la personne ou le groupe fait des appels au moyen d’un composeur-messager automatique.
+
+**Obligation de fournir une copie d’une pièce d’identité**
+
+- **(3)** Le représentant officiel ou le particulier fournit au Conseil, au moment de ce dépôt, son nom, son adresse, son numéro de téléphone et une copie d’une pièce d’identité autorisée par le Conseil comportant son nom.
+
+**Présomption**
+
+- **(4)** Sauf pour l’application de l’article 348.12, l’avis est réputé ne pas avoir été déposé si les renseignements et la copie de la pièce d’identité ne sont pas fournis au moment du dépôt.
+> 2014, ch. 12, art. 76.
+
+
+
+
+
+#### Rôle du Conseil de la radiodiffusion et des télécommunications canadiennes
+
+
+
+**Exécution et contrôle d’application**
+
+**348.1** 
+
+- **(1)** Le Conseil de la radiodiffusion et des télécommunications canadiennes est responsable de l’exécution et du contrôle d’application de la présente section.
+
+**[Loi sur les télécommunications](/fr/Lois/Lois%20du%20Canada/1993/ch.%2038.md)**
+
+- **(2)** L’exécution et le contrôle d’application de la présente section relèvent de la partie V de la [Loi sur les télécommunications](/fr/Lois/Lois%20du%20Canada/1993/ch.%2038.md).
+> 2014, ch. 12, art. 76.
+
+
+
+
+
+**Registre**
+
+**348.11** Le Conseil de la radiodiffusion et des télécommunications canadiennes est responsable de l’établissement et de la tenue du Registre de communication avec les électeurs, dans lequel sont conservés les documents qu’il reçoit en application des articles 348.06 à 348.09.
+> 2014, ch. 12, art. 76.
+
+
+
+
+
+**Publication**
+
+**348.12** Dès que possible après l’expiration d’une période de trente jours suivant le jour du scrutin, le Conseil de la radiodiffusion et des télécommunications canadiennes publie, selon les modalités qu’il estime indiquées, les avis d’enregistrement relatifs à l’élection qui ont été déposés auprès de lui.
+> 2014, ch. 12, art. 76.
+
+
+
+
+
+**Délégation**
+
+**348.13** 
+
+- **(1)** Le Conseil de la radiodiffusion et des télécommunications canadiennes peut, par écrit et aux conditions qu’il précise, déléguer à toute personne les attributions prévues aux articles 348.11 et 348.12.
+
+**Révocation**
+
+- **(2)** Le Conseil peut, par écrit, révoquer la délégation.
+> 2014, ch. 12, art. 76.
+
+
+
+
+
+**Autorisation de types d’identification**
+
+**348.14** Le Conseil de la radiodiffusion et des télécommunications canadiennes peut autoriser des types de pièces d’identité — et de copies de telles pièces — pour l’application des articles 348.03 à 348.05 et 348.07 à 348.09.
+> 2014, ch. 12, art. 76.
+
+
+
+
+
+**Communication au commissaire**
+
+**348.15** Le Conseil de la radiodiffusion et des télécommunications canadiennes communique au commissaire, sur demande de celui-ci, tout document ou renseignement obtenu par le Conseil sous le régime de la présente section que le commissaire considère comme nécessaire pour assurer l’observation et le contrôle d’application de la présente loi, à l’exception de la présente section.
+> 2014, ch. 12, art. 76.
+
+
+
+
+
 **SECTION 2** 
 ### Scripts et enregistrements
 
@@ -8527,7 +8767,7 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 **Interdiction : engagement de dépenses**
 
-- **(2)** Il est interdit à toute personne ou entité, sauf à l’agent enregistré d’un parti enregistré, d’engager les dépenses du parti.
+- **(2)** Sous réserve de l’article 348.02, il est interdit à toute personne ou entité, sauf à l’agent enregistré d’un parti enregistré, d’engager les dépenses du parti.
 
 **Interdiction : contributions et emprunts**
 
@@ -8538,7 +8778,7 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 - **(4)** Il est interdit à toute personne ou entité, sauf à l’agent enregistré d’un parti enregistré, au nom du parti :
 	- **a)** d’accepter la fourniture de produits ou de services ou la cession de fonds, si la fourniture ou la cession est permise au titre de l’article 364;
 	- **b)** de fournir des produits ou des services ou de céder des fonds, si la fourniture ou la cession est permise au titre de cet article.
-> 2000, ch. 9, art. 426; 2003, ch. 19, art. 36; 2014, ch. 12, art. 86.
+> 2000, ch. 9, art. 426; 2003, ch. 19, art. 36; 2014, ch. 12, art. 86 et 155.
 
 
 
@@ -9653,7 +9893,7 @@ La présente loi s’applique aux renseignements visés au présent paragraphe c
 
 **Interdiction : engagement de dépenses**
 
-- **(2)** Il est interdit à toute personne ou entité, sauf à l’agent de circonscription d’une association enregistrée, d’engager les dépenses de l’association.
+- **(2)** Sous réserve de l’article 348.02, il est interdit à toute personne ou entité, sauf à l’agent de circonscription d’une association enregistrée, d’engager les dépenses de l’association.
 
 **Interdiction : contributions et emprunts**
 
@@ -9664,7 +9904,7 @@ La présente loi s’applique aux renseignements visés au présent paragraphe c
 - **(4)** Il est interdit à toute personne ou entité, sauf à l’agent financier d’une association enregistrée, au nom de l’association :
 	- **a)** d’accepter la fourniture de produits ou de services ou la cession de fonds, si la fourniture ou la cession est permise au titre de l’article 364;
 	- **b)** de fournir des produits ou des services ou de céder des fonds, si la fourniture ou la cession est permise au titre de cet article.
-> 2000, ch. 9, art. 475; 2014, ch. 12, art. 86.
+> 2000, ch. 9, art. 475; 2014, ch. 12, art. 86 et 155.
 
 
 
@@ -10142,12 +10382,12 @@ La demande est notifiée au directeur général des élections.
 
 **Interdiction : engagement de dépenses**
 
-- **(5)** Il est interdit à toute personne ou entité, sauf au candidat à l’investiture ou à son agent financier, d’engager les dépenses de campagne d’investiture du candidat.
+- **(5)** Sous réserve de l’article 348.02, il est interdit à toute personne ou entité, sauf au candidat à l’investiture ou à son agent financier, d’engager les dépenses de campagne d’investiture du candidat.
 
 **Interdiction : dépenses personnelles**
 
 - **(6)** Il est interdit à toute personne ou entité, sauf au candidat à l’investiture ou à son agent financier, de payer les dépenses personnelles du candidat.
-> 2014, ch. 12, art. 86.
+> 2014, ch. 12, art. 86 et 155.
 
 
 
@@ -14105,8 +14345,8 @@ La demande est notifiée au directeur général des élections.
 
 **Fonction du commissaire**
 
-**509.2** Le commissaire est chargé de veiller à l’observation et au contrôle d’application de la présente loi.
-> 2014, ch. 12, art. 108.
+**509.2** Le commissaire est chargé de veiller à l’observation et au contrôle d’application de la présente loi, à l’exception de la section 1.1 de la partie 16.1.
+> 2014, ch. 12, art. 108 et 157.
 
 
 
@@ -15401,7 +15641,7 @@ La base de données du Programme national sur les changements d’adresse de la 
 ## Liste des circonscriptions
 *Province d’Ontario*
 
-Algoma—Manitoulin—Kapuskasing
+Algoma — Manitoulin — Kapuskasing
 
 
 
@@ -15409,26 +15649,26 @@ Kenora
 
 
 
-Nickel Belt
+Thunder Bay — Rainy River
 
 
 
-Thunder Bay—Rainy River
+Thunder Bay — Superior-Nord
 
 
 
-Thunder Bay—Superior-Nord
-
-
-
-Timmins—Baie James
+Timmins — Baie James
 
 
 
 
 *Province de Québec*
 
-Abitibi—Témiscamingue
+Abitibi — Baie-James — Nunavik — Eeyou
+
+
+
+Abitibi — Témiscamingue
 
 
 
@@ -15436,60 +15676,56 @@ Manicouagan
 
 
 
-Nunavik—Eeyou
-
-
-
 
 *Province du Manitoba*
 
-Churchill
+Churchill — Keewatinook Aski
 
 
 
-Dauphin—Swan River
+Dauphin — Swan River — Neepawa
+
+
+
+Selkirk — Interlake — Eastman
 
 
 
 
 *Province de la Colombie-Britannique*
 
-Cariboo—Prince George
+Cariboo — Prince George
 
 
 
-Chilliwack—Fraser Canyon
+Kamloops — Thompson — Cariboo
 
 
 
-Kamloops—Thompson
+Mission — Matsqui — Fraser Canyon
 
 
 
-Prince George—Peace River
+North Island — Powell River
 
 
 
-Skeena—Bulkley Valley
+Prince George — Peace River — Northern Rockies
 
 
 
-Île de Vancouver-Nord
-
-
-
-West Vancouver—Sunshine Coast
+Skeena — Bulkley Valley
 
 
 
 
 *Province de la Saskatchewan*
 
-Battlefords—Lloydminster
+Battlefords — Lloydminster
 
 
 
-Rivière Churchill
+Desnethé — Missinippi — Rivière Churchill
 
 
 
@@ -15497,42 +15733,34 @@ Prince Albert
 
 
 
-Saskatoon—Humboldt
+Sentier Carlton — Eagle Creek
 
 
 
-Saskatoon—Wanuskewin
-
-
-
-Yorkton—Melville
+Yorkton — Melville
 
 
 
 
 *Province d’Alberta*
 
-Athabasca
+Fort McMurray — Cold Lake
 
 
 
-Lethbridge
+Grande Prairie — Mackenzie
 
 
 
-Peace River
+Lakeland
 
 
 
-Westlock—St. Paul
+Medicine Hat — Cardston — Warner
 
 
 
-Wetaskiwin
-
-
-
-Wild Rose
+Peace River — Westlock
 
 
 
@@ -15543,15 +15771,11 @@ Yellowhead
 
 *Province de Terre-Neuve-et-Labrador*
 
-Avalon
+Bonavista — Burin — Trinity
 
 
 
-Bonavista—Exploits
-
-
-
-Humber—St. Barbe—Baie Verte
+Coast of Bays — Central — Notre Dame
 
 
 
@@ -15559,7 +15783,7 @@ Labrador
 
 
 
-Random—Burin—St. George’s
+Long Range Mountains
 
 
 
@@ -15585,7 +15809,14 @@ Nunavut
 
 
 
-> 2000, ch. 9, ann. 3; 2002, ch. 7, art. 95; Gazette du Canada Partie I, édition spéciale volume 138, n<sup>o</sup>o 5.
+**[Note : Les noms des circonscriptions peuvent changer avant que l’annexe 3 soit officiellement modifiée. Pour la liste la plus à jour, consultez la page de profil de l’annexe 3 sur le site web d’Élections Canada à ce lien :**
+
+**http://www.elections.ca/content2.aspx?section=can&dir=cand/becom/s3&document=index&lang=f ]**
+
+
+
+
+> 2000, ch. 9, ann. 3; 2002, ch. 7, art. 95; Gazette du Canada Partie I, édition spéciale volume 138, n<sup>o</sup> 5; Gazette du Canada Partie I, édition spéciale volume 149, n<sup>o</sup> 2.
 
 
 
