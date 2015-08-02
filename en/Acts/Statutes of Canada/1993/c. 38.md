@@ -1782,7 +1782,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 
 **71** 
 
-- **(1)** The Commission may designate any qualified person as an inspector for the purpose of verifying compliance or preventing non-compliance with the provisions of this Act or any special Act for which the Commission is responsible and with the decisions of the Commission under this Act.
+- **(1)** The Commission may designate any qualified person as an inspector for the purpose of verifying compliance or preventing non-compliance with the provisions of this Act or any special Act for which the Commission is responsible, with the provisions of Division 1.1 of Part 16.1 of the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md), and with the decisions of the Commission under this Act.
 
 **Designation of inspectors**
 
@@ -1795,7 +1795,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **Powers of inspectors**
 
 - **(4)** An inspector may, subject to subsection (5), for the purposes for which the inspector was designated an inspector,
-	- **(a)** enter, at any reasonable time, any place in which they believe on reasonable grounds there is any document, information or thing relevant to the purpose of verifying compliance or preventing non-compliance with this Act or any special Act, and examine the document, information or thing or remove it for examination or reproduction;
+	- **(a)** enter, at any reasonable time, any place in which they believe on reasonable grounds there is any document, information or thing relevant to the purpose of verifying compliance or preventing non-compliance with this Act, any special Act, or Division 1.1 of Part 16.1 of the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md), and examine the document, information or thing or remove it for examination or reproduction;
 	- **(b)** make use of, or cause to be made use of, any computer system at the place to examine any data contained in or available to the system;
 	- **(c)** reproduce any document, or cause it to be reproduced, from the data in the form of a print-out or other intelligible output and take the print-out or other output for examination or copying; and
 	- **(d)** use any copying equipment or means of communication in the place.
@@ -1808,7 +1808,7 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 
 - **(6)** On an *ex parte* application, a justice of the peace may issue a warrant authorizing an inspector who is named in the warrant to enter a dwelling-house, subject to any conditions spec­ified in the warrant, if the justice is satisfied by information on oath that
 	- **(a)** the dwelling-house is a place described in paragraph (4)(a);
-	- **(b)** entry to the dwelling-house is necessary for the purpose of verifying compliance or preventing non-compliance with this Act or any special Act; and
+	- **(b)** entry to the dwelling-house is necessary for the purpose of verifying compliance or preventing non-compliance with this Act, any special Act, or Division 1.1 of Part 16.1 of the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md); and
 	- **(c)** entry has been refused or there are reasonable grounds to believe that entry will be refused by, or that consent to entry cannot be obtained from, the occupant.
 
 **Use of force**
@@ -1821,14 +1821,14 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 
 **Information requirement**
 
-- **(9)** An inspector who believes that a person is in possession of information that the inspector considers necessary for the purpose of verifying compliance or preventing non-compliance with this Act or any special Act may, by notice, require that person to submit the information to the inspector in the form and manner and within the reasonable time that is stipulated in the notice.
+- **(9)** An inspector who believes that a person is in possession of information that the inspector considers necessary for the purpose of verifying compliance or preventing non-compliance with this Act, any special Act, or Division 1.1 of Part 16.1 of the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md) may, by notice, require that person to submit the information to the inspector in the form and manner and within the reasonable time that is stipulated in the notice.
 
 **Obstruction, false information**
 
 - **(10)** No person shall
 	- **(a)** resist or wilfully obstruct the inspector in carrying out his or her duties; or
 	- **(b)** knowingly make a false or misleading statement, either orally or in writing, to the inspector.
-> 1993, c. 38, s. 71; 1999, c. 31, s. 207(F); 2014, c. 39, s. 200.
+> 1993, c. 38, s. 71; 1999, c. 31, s. 207(F); 2014, c. 12, s. 137, c. 39, ss. 200, 209.
 
 
 
@@ -2071,10 +2071,10 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 
 **Commission of violation**
 
-**72.01** Every contravention of a prohibition or requirement of the Commission under section 41 constitutes a violation and the person who commits the violation is liable
+**72.01** Every contravention of a prohibition or requirement of the Commission under section 41 and every contravention of any provision of Division 1.1 of Part 16.1 of the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md) constitutes a violation and the person who commits the violation is liable
 - **(a)** in the case of an individual, to an administrative monetary penalty of up to $1,500; or
 - **(b)** in the case of a corporation, to an administrative monetary penalty of up to $15,000.
-> 2005, c. 50, s. 2.
+> 2005, c. 50, s. 2; 2014, c. 12, s. 138.
 
 
 
@@ -2239,8 +2239,8 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 
 **Common law principles**
 
-- **(2)** Every rule and principle of the common law that makes any circumstance a justification or excuse in relation to a charge for an offence under this Act applies in respect of a violation to the extent that it is not inconsistent with this Act.
-> 2005, c. 50, s. 2; 2014, c. 39, s. 207.
+- **(2)** Every rule and principle of the common law that makes any circumstance a justification or excuse in relation to a charge for an offence under this Act or Division 1.1 of Part 16.1 of the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md) applies in respect of a violation to the extent that it is not inconsistent with this Act.
+> 2005, c. 50, s. 2; 2014, c. 12, s. 142.1, c. 39, ss. 207, 209.
 
 
 
@@ -2257,8 +2257,8 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 
 **How act or omission may be proceeded with**
 
-**72.17** If an act or omission can be proceeded with either as a violation or as an offence, proceeding in one manner precludes proceeding in the other.
-> 2014, c. 39, s. 207.
+**72.17** If an act or omission can be proceeded with either as a violation or as an offence under this Act or Division 1.1 of Part 16.1 of the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md), proceeding in one manner precludes proceeding in the other.
+> 2014, c. 12, s. 143.1, c. 39, ss. 207, 209.
 
 
 
@@ -2282,6 +2282,15 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 
 
 
+**Group considered corporation**
+
+**72.2** For the purposes of sections 71 and 72.01 to 72.19, a group as defined in section 348.01 of the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md) is considered to be a corporation.
+> 2014, c. 12, s. 143, c. 39, s. 209.
+
+
+
+
+
 ### Offences
 
 
@@ -2299,8 +2308,9 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 - **(2)** Every person who
 	- **(a)** contravenes section 25, subsection 27(1) or (2) or section 69.2,
 	- **(b)** contravenes any condition referred to in section 9 or 24 or subsection 34(1) or (2),
-	- **(c)** contravenes any prohibition or requirement of the Commission under section 41, or
-	- **(d)** knowingly makes a material misrepresentation of fact or omits to state a material fact to the Minister, the Commission, a person appointed under section 70 or an inspector appointed under section 71, or a person designated under section 72.004 or 72.04
+	- **(c)** contravenes any prohibition or requirement of the Commission under section 41,
+	- **(d)** knowingly makes a material misrepresentation of fact or omits to state a material fact to the Minister, the Commission, a person appointed under section 70 or an inspector appointed under section 71, or a person designated under section 72.004 or 72.04, or
+	- **(e)** contravenes any provision of Division 1.1 of Part 16.1 of the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md)
 is guilty of an offence punishable on summary conviction and liable, in the case of an individual, to a fine not exceeding ten thousand dollars for a first offence or twenty-five thousand dollars for a subsequent offence, and in the case of a corporation, to a fine not exceeding one hundred thousand dollars for a first offence or two hundred and fifty thousand dollars for a subsequent offence.
 
 **Idem**
@@ -2329,7 +2339,11 @@ is guilty of an offence punishable on summary conviction and liable, in the case
 **Federal Court**
 
 - **(8)** For the purposes of subsection (7), the Federal Court is a court of competent jurisdiction.
-> 1993, c. 38, s. 73; 1998, c. 8, s. 9; 2002, c. 17, s. 30; 2014, c. 39, s. 208.
+
+**Group considered corporation**
+
+- **(9)** For the purposes of this section, a group as defined in section 348.01 of the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md) is considered to be a corporation.
+> 1993, c. 38, s. 73; 1998, c. 8, s. 9; 2002, c. 17, s. 30; 2014, c. 12, s. 144, c. 39, s. 208.
 
 
 
