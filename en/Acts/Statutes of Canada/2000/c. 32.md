@@ -6631,7 +6631,134 @@ Including any substances or materials that may be disposed of under the [Territo
 Said Ukkusiksalik National Park of Canada containing an area of approximately 20 880 km<sup>2</sup>.
 
 
-> 2000, c. 32, Sch. 1; 2001, c. 34, s. 25(F); 2002, c. 7, s. 106; SOR/2003-345; 2004, c. 20, s. 1; SOR/2004-300; 2008, c. 2, s. 13; 2013, c. 2, s. 1; SOR/2013-16; SOR/2014-187; 2015, c. 3, ss. 20, 22.
+
+### (5) Qausuittuq National Park of Canada
+
+
+In Nunavut, all those lands situated on the northerly portion of Bathurst Island, adjacent to Polar Bear Pass National Wildlife Area, certain islands westerly of the northerly portion of Bathurst Island and all offshore islands in the Berkeley Group, more particularly described with reference to the following maps, produced at a scale of 1:250,000 by the Department of Energy, Mines and Resources, and the Army Survey Establishment, R.C.E :
+
+68G, Edition 1, 1981 (Graham Moore Bay)
+
+
+
+68H, Edition 3, 1994 (McDougall Sound)
+
+
+
+69A, Edition 2, 1995 (Penny Strait)
+
+
+
+69B, Edition 2, 1982 (Helena Island)
+
+
+
+79A, Edition 2, 1982 (Domett Point)
+
+
+
+78H, Edition 3, 1990 (Byam Channel)
+
+
+
+All coordinates are referred to the 1983 North American Datum (NAD83) and any references to straight lines mean points joined directly on NAD83 Universal Transverse Mercator (UTM) projection plane surface.
+
+
+
+Commencing at the northwest corner of Polar Bear Pass National Wildlife Area (SOR/86-985, 18 September, 1986);
+
+
+
+Thence southerly along the western boundary of Polar Bear Pass National Wildlife Area to the intersection of said boundary with the low water line of Bracebridge Inlet;
+
+
+
+Thence westerly, northeasterly and southeasterly following the indentations along the low water line of Graham Moore Bay, Pell Inlet and Erskine Inlet (including islands at low water within three kilometres) to a point being at approximate latitude 75°45′07″ N and longitude 101°14′57″ W;
+
+
+
+Thence northwesterly and southeasterly following the indentations of the low water line of Erskine Inlet to a point on Oliver Harbour being at 76°25′44″ N and approximate longitude 101°22′36″ W;
+
+
+
+Thence northeasterly, in a straight line, across May Inlet to the low water line of Sir William Parker Strait, near Francis Herbert Point, being at latitude 76°30′02″ N and approximate longitude 100°59′21″ W;
+
+
+
+Thence northeasterly and southeasterly following the indentations of the low water line of Sir William Parker Strait to a point near Cape Mary being at latitude 76°37′25″ N and approximate longitude 99°33′26″ W;
+
+
+
+Thence southeasterly, in a straight line, across Young Inlet to the low water line of Cracroft Sound, near Cape Sophia, being at latitude 76°36′35″ N and approximate longitude 98°59′58″ W;
+
+
+
+Thence easterly following the indentations of the low water line of Cracroft Sound to a point being at approximate latitude 76°36′52″ N and longitude 98°45′39″ W;
+
+
+
+Thence easterly, in a straight line, across an unnamed inlet to the low water line of Cracroft Sound to a point being at approximate latitude 76°36′55″ N and longitude 98°43′52″ W;
+
+
+
+Thence easterly following the indentations of the low water line of Cracroft Sound to a point being at approximate latitude 76°36′57″ N and longitude 98°36′56″ W;
+
+
+
+Thence easterly, in a straight line, across an unnamed inlet to the low water line of Cracroft Sound to a point being at approximate latitude 76°37′01″ N and longitude 98°35′40″ W;
+
+
+
+Thence easterly and northeasterly following the indentations of the low water line of Cracroft Sound to a point being at approximate latitude 76°37′57″ N and longitude 98°30′00″ W;
+
+
+
+Thence south, in a straight line, to a point being at latitude 76°02′30″ N and longitude 98°30′00″ W;
+
+
+
+Thence west, in a straight line, to a point being at latitude 76°02′30″ N and longitude 99°00′00″ W;
+
+
+
+Thence south, in a straight line, to the intersection of the northerly boundary of Polar Bear Pass National Wildlife Area being at approximate latitude 75°46′35″ N and longitude 99°00′00″ W;
+
+
+
+Thence westerly along said boundary to the point of commencement;
+
+
+
+Including, for greater certainty, all islands at low water within Sir William Parker Strait and Cracroft Sound;
+
+
+
+Including all islands at low water within the Berkeley Group including, for greater certainty, the Hosken Islands, Helena, Sherard Osborn, Harwood, Allard and Ricards Islands;
+
+
+
+Including Ile Vanier, Ile Pauline, Massey Island, Ile Marc, Alexander Island and all islands at low water within three kilometres of the low water line of these islands;
+
+
+
+Including all islands at low water within Erskine Inlet;
+
+
+
+And containing approximately 11 008 square kilometres.
+
+
+
+Including all mines and minerals, including hydrocarbons, whether solid, liquid or gaseous, and rights to work the same.
+
+
+
+Including any substances or material that may be disposed of pursuant to the [Territorial Quarrying Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1501-1600/C.R.C.,%20c.%201527.md).
+
+
+
+
+> 2000, c. 32, Sch. 1; 2001, c. 34, s. 25(F); 2002, c. 7, s. 106; SOR/2003-345; 2004, c. 20, s. 1; SOR/2004-300; 2008, c. 2, s. 13; 2013, c. 2, s. 1; SOR/2013-16; SOR/2014-187; 2015, c. 3, ss. 20, 22, c. 40, s. 2.
 
 
 
