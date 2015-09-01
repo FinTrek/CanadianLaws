@@ -2869,27 +2869,27 @@ Troisièmement : dans le canton théorique 121, rang 9, à l’ouest du 4<sup>e
 
 
 
-Quatrièmement : dans le canton théorique 121, rang 14, et le canton théorique 122, rangs 13 et 14, à l’ouest du 4<sup>e</sup> méridien, les parcelles de terre constituant les limites extérieures de la réserve indienne de Tsu nedehe tue n<sup>o</sup> 196H (site du lac Pine) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 85626, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0126334, ces terres ayant ensemble une superficie d’environ 5,86 kilomètres carrés (586 hectares); sont inclus les mines et les minéraux;
+Quatrièmement : dans le canton théorique 121, rang 14, et le canton théorique 122, rangs 13 et 14, à l’ouest du 4<sup>e</sup> méridien, les parcelles de terre constituant les limites extérieures de la réserve indienne de Tsu nedehe tue n<sup>o</sup> 196H (site du lac Pine) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 85626, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0126334, ces terres ayant ensemble une superficie d’environ 5,86 kilomètres carrés (586 hectares); sont inclus les mines et les minéraux;
 
 
 
-Cinquièmement : dans le canton théorique 121, rang 13, à l’ouest du 4<sup>e</sup> méridien et dans le canton théorique 121, rang 14, à l’ouest du 4<sup>e</sup> méridien, toutes les parcelles de terre constituant les limites extérieures de la réserve indienne de Dehneeah Túe n<sup>o</sup> 195D (site du lac Pine) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 92668, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0727787, ces terres ayant ensemble une superficie d’environ 3,95 kilomètres carrés (395,3 hectares); sont inclus les mines et les minéraux;
+Cinquièmement : dans le canton théorique 121, rang 13, à l’ouest du 4<sup>e</sup> méridien et dans le canton théorique 121, rang 14, à l’ouest du 4<sup>e</sup> méridien, toutes les parcelles de terre constituant les limites extérieures de la réserve indienne de Dehneeah Túe n<sup>o</sup> 195D (site du lac Pine) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 92668, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0727787, ces terres ayant ensemble une superficie d’environ 3,95 kilomètres carrés (395,3 hectares); sont inclus les mines et les minéraux;
 
 
 
-Sixièmement : dans le canton théorique 124, rang 12, à l’ouest du 4<sup>e</sup> méridien, toutes les parcelles de terre constituant les limites extérieures de la réserve indienne de Delttho Tthén n<sup>o</sup> 195C (site de la rivière Salt) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 92669, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0727788, ces terres ayant ensemble une superficie d’environ 0,41 kilomètres carrés (41,1 hectares); sont inclus les mines et les minéraux;
+Sixièmement : dans le canton théorique 124, rang 12, à l’ouest du 4<sup>e</sup> méridien, toutes les parcelles de terre constituant les limites extérieures de la réserve indienne de Delttho Tthén n<sup>o</sup> 195C (site de la rivière Salt) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 92669, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0727788, ces terres ayant ensemble une superficie d’environ 0,41 kilomètres carrés (41,1 hectares); sont inclus les mines et les minéraux;
 
 
 
-Septièmement : dans le canton théorique 125, rang 15, à l’ouest du 4<sup>e</sup> méridien, toutes les parcelles de terre constituant les limites extérieures de la réserve indienne de Deneyutchelea n<sup>o</sup> 195B (site du lac Parsons) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 92670, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0727789, ces terres ayant ensemble une superficie d’environ 2,41 kilomètres carrés (241 hectares); sont inclus les mines et les minéraux;
+Septièmement : dans le canton théorique 125, rang 15, à l’ouest du 4<sup>e</sup> méridien, toutes les parcelles de terre constituant les limites extérieures de la réserve indienne de Deneyutchelea n<sup>o</sup> 195B (site du lac Parsons) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 92670, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0727789, ces terres ayant ensemble une superficie d’environ 2,41 kilomètres carrés (241 hectares); sont inclus les mines et les minéraux;
 
 
 
-Huitièmement : la totalité des lots 1000 et 1001, Quad 85A/2, constituant les limites extérieures de la réserve indienne de Tourangeau n<sup>o</sup> 195A (site de la rivière Little Buffalo) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 92396, et enregistré au Bureau des titres de biens-fonds à Yellowknife sous le numéro 4146, les terres constituant le lot 1000 ayant ensemble une superficie d’environ 6,55 kilomètres carrés (655 hectares) et celles constituant le lot 1001 ayant ensemble une superficie d’environ 0,36 kilomètres carrés (35,7 hectares); sont inclus les mines et les minéraux.
+Huitièmement : la totalité des lots 1000 et 1001, Quad 85A/2, constituant les limites extérieures de la réserve indienne de Tourangeau n<sup>o</sup> 195A (site de la rivière Little Buffalo) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 92396, et enregistré au Bureau des titres de biens-fonds à Yellowknife sous le numéro 4146, les terres constituant le lot 1000 ayant ensemble une superficie d’environ 6,55 kilomètres carrés (655 hectares) et celles constituant le lot 1001 ayant ensemble une superficie d’environ 0,36 kilomètres carrés (35,7 hectares); sont inclus les mines et les minéraux.
 
 
 
-Le reste représentant une superficie d’environ 44 778 kilomètres carrés (4 477 832 hectares).
+Le reste représentant une superficie d’environ 44 778 kilomètres carrés (4 477 832 hectares).
 
 
 
@@ -6593,7 +6593,134 @@ Y compris toutes les matières ou tous les matériaux pouvant être aliénés co
 Le parc national Ukkusiksalik du Canada renfermant environ 20 880 km<sup>2</sup>.
 
 
-> 2000, ch. 32, ann. 1; 2001, ch. 34, art. 25(F); 2002, ch. 7, art. 106; DORS/2003-345; 2004, ch. 20, art. 1; DORS/2004-300; 2008, ch. 2, art. 13; 2013, ch. 2, art. 1; DORS/2013-16; DORS/2014-187; 2015, ch. 3, art. 20 et 22.
+
+### (5) Parc national Qausuittuq du Canada
+
+
+Au Nunavut, toutes les parcelles de terrain situées dans la partie nord de l’île Bathurst, adjacentes à la Réserve nationale de faune de Polar Bear Pass, certaines îles à l’ouest de la partie nord de l’île Bathurst et toutes les îles au large du groupe Berkeley, plus particulièrement décrites en référence aux cartes suivantes, produites à l’échelle de 1:250 000 par le ministère de l’Énergie, des Mines et des Ressources et le Service topographique de l’Armée, (GRC) :
+
+68G, édition 1, 1981 (Graham Moore Bay)
+
+
+
+68H, édition 3, 1994 (McDougall Sound)
+
+
+
+69A, édition 2, 1995 (détroit de Penny)
+
+
+
+69B, édition 2, 1982 (Helena Island)
+
+
+
+79A, édition 2, 1982 (Domett Point)
+
+
+
+78H, édition 3, 1990 (Byam Channel)
+
+
+
+Toutes les coordonnées sont en référence au datum nord-américain de 1983 (NAD83), et les références aux lignes droites désignent des points joints directement sur une projection de surface plane sur la grille Universelle transverse de Mercator (UTM) du NAD83.
+
+
+
+Commençant à l’angle nord-ouest de la Réserve nationale de faune de Polar Bear Pass (DORS/86-985, 18 septembre 1986);
+
+
+
+De là, vers le sud, le long de la limite ouest de la Réserve nationale de faune de Polar Bear Pass jusqu’à l’intersection de ladite limite avec la ligne de basse mer de l’anse Bracebridge;
+
+
+
+De là, vers l’ouest, le nord-est et le sud-est en suivant les échancrures le long de la ligne de basse mer de la baie Graham Moore, de l’anse Pell et Erskine (incluant les îles à basse mer jusqu’à trois kilomètres) jusqu’à un point situé à environ 75°45′07″ de latitude nord et à 101°14′57″ de longitude ouest;
+
+
+
+De là vers le nord-ouest et le sud-est en suivant les échancrures de la ligne de basse mer de l’anse Erskine jusqu’à un point sur le havre Oliver étant à 76°25′44″ de latitude nord et à environ 101°22′36″ de longitude ouest;
+
+
+
+De là vers le nord-est, en ligne droite, à travers le bras de mer May à la ligne de basse mer du détroit de Sir William Parker, près de la pointe Francis Herbert, étant à 76°30′02″ de latitude nord et à environ 100°59′21″ de longitude ouest;
+
+
+
+De là, vers le nord-est et le sud-est en suivant les échancrures de la ligne de basse mer du détroit de Sir William Parker jusqu’à un point près du cap Mary étant à 76°37′25″ de latitude nord et à environ 99°33′26″ de longitude ouest;
+
+
+
+De là, vers le sud-est, en ligne droite à travers le bras Young jusqu’à la ligne de basse mer du bras de mer Cracroft, près du cap Sophia, étant à 76°36′35″ de latitude nord et à environ 98°59′58″ de longitude ouest;
+
+
+
+De là, vers l’est en suivant les échancrures de la ligne de basse mer du bras de mer Cracroft jusqu’à un point étant à environ 76°36′52″ de latitude nord et à 98°45′39″ de longitude ouest;
+
+
+
+De là, vers l’est, en ligne droite, à travers un détroit sans nom jusqu’à un point sur la ligne de basse mer du bras de mer Cracroft étant à environ 76°36′55″ de latitude nord et à 98°43′52″ de longitude ouest;
+
+
+
+De là, vers l’est, en suivant les échancrures de la ligne de basse mer du bras de mer Cracroft jusqu’à un point étant à environ 76°36′57″ de latitude nord et à 98°36′56″ de longitude ouest;
+
+
+
+De là, vers l’est, en ligne droite, à travers un détroit sans nom jusqu’à un point sur la ligne de basse mer du bras de mer Cracroft étant à environ 76°37′01″ de latitude nord et à 98°35′40″ de longitude ouest;
+
+
+
+De là, vers l’est et le nord, en suivant les échancrures de la ligne de basse mer du bras de mer Cracroft jusqu’à un point étant à environ 76°37′57″ de latitude nord et à 98°30′00″ de longitude ouest;
+
+
+
+De là vers le sud, en ligne droite, jusqu’à un point étant à 76°02′30″ de latitude nord et à 98°30′00″ de longitude ouest;
+
+
+
+De là, vers l’ouest, en ligne droite, jusqu’à un point étant à 76°02′30″ de latitude nord et à 99°00′00″ de longitude ouest;
+
+
+
+De là, vers le sud, en ligne droite, jusqu’à l’intersection de la limite nord de la réserve de faune nationale de Polar Bear Pass étant à environ 75°46′35″ de latitude nord et à 99°00′00″ de longitude ouest;
+
+
+
+De là, vers l’ouest, le long de ladite frontière jusqu’au point de départ;
+
+
+
+Incluant, pour plus de certitude, toutes les îles à mer basse dans le détroit de Sir William Parker et du bras de mer Cracroft;
+
+
+
+Incluant toutes les îles à mer basse dans le groupe Berkeley, y compris, pour plus de certitude, les îles Hosken, Helena, Sherard Osborn, Harwood, Allard et les îles Ricards;
+
+
+
+Incluant l’île Vanier, l’île Pauline, l’île Massey, l’île Marc, l’île Alexander et toutes les îles dans les trois kilomètres des dites îles, jusqu’à la ligne de basse eaux de ces dernières;
+
+
+
+Y compris toutes les îles dans l’anse Erskine jusqu’à la ligne de basse mer;
+
+
+
+Et renfermant en superficie environ 11 008 kilomètres carrés.
+
+
+
+Y compris les mines et minéraux, incluant les hydrocarbures, soit solides, liquides ou gazeux, et tous les droits de les exploiter.
+
+
+
+Y compris toutes les matières ou tous les matériaux qui peuvent être aliénés en vertu du [Règlement sur l’exploitation de carrières territoriales](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1501-1600/C.R.C.,%20ch.%201527.md).
+
+
+
+
+> 2000, ch. 32, ann. 1; 2001, ch. 34, art. 25(F); 2002, ch. 7, art. 106; DORS/2003-345; 2004, ch. 20, art. 1; DORS/2004-300; 2008, ch. 2, art. 13; 2013, ch. 2, art. 1; DORS/2013-16; DORS/2014-187; 2015, ch. 3, art. 20 et 22, ch. 40, art. 2.
 
 
 
