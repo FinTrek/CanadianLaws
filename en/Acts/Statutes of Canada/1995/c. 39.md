@@ -39,63 +39,63 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** In this Act,
 
-***authorization to carry*** means an authorization described in section 20;
+***authorization to carry*** means an authorization described in section 20; (*autorisation de port*)
 
-***authorization to export*** means an authorization referred to in section 44 and includes a permit to export goods that is issued under the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) and that is deemed by regulations made under paragraph 117(a.1) to be an authorization to export;
+***authorization to export*** means an authorization referred to in section 44 and includes a permit to export goods that is issued under the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) and that is deemed by regulations made under paragraph 117(a.1) to be an authorization to export; (*autorisation d’exportation*)
 
-***authorization to import*** means an authorization referred to in section 46;
+***authorization to import*** means an authorization referred to in section 46; (*autorisation d’importation*)
 
-***authorization to transport*** means an authorization described in section 19;
+***authorization to transport*** means an authorization described in section 19; (*autorisation de transport*)
 
-***business*** means a person who carries on a business that includes
+***business*** means a person who carries on a business that includes
 - **(a)** the manufacture, assembly, possession, purchase, sale, importation, exportation, display, repair, restoration, maintenance, storage, alteration, pawnbroking, transportation, shipping, distribution or delivery of firearms, prohibited weapons, restricted weapons, prohibited devices or prohibited ammunition,
 - **(b)** the possession, purchase or sale of ammunition, or
 - **(c)** the purchase of cross-bows
 
-and includes a museum;
+and includes a museum; (*entreprise*)
 
-***carrier*** means a person who carries on a transportation business that includes the transportation of firearms, prohibited weapons, restricted weapons, prohibited devices or prohibited ammunition;
+***carrier*** means a person who carries on a transportation business that includes the transportation of firearms, prohibited weapons, restricted weapons, prohibited devices or prohibited ammunition; (*transporteur*)
 
-***chief firearms officer*** means
+***chief firearms officer*** means
 - **(a)** in respect of a province, the individual who is designated in writing as the chief firearms officer for the province by the provincial minister of that province,
 - **(b)** in respect of a territory, the individual who is designated in writing as the chief firearms officer for the territory by the federal Minister, or
-- **(c)** in respect of any matter for which there is no chief firearms officer under paragraph (a) or (b), the individual who is designated in writing as the chief firearms officer for the matter by the federal Minister;
+- **(c)** in respect of any matter for which there is no chief firearms officer under paragraph (a) or (b), the individual who is designated in writing as the chief firearms officer for the matter by the federal Minister; (*contrôleur des armes à feu*)
 
-***commencement day***, in respect of a provision of this Act or the expression “former Act” in a provision of this Act, means the day on which the provision comes into force;
+***commencement day***, in respect of a provision of this Act or the expression “former Act” in a provision of this Act, means the day on which the provision comes into force; (*date de référence*)
 
-***Commissioner*** means the Commissioner of Firearms appointed under section 81.1;
+***Commissioner*** means the Commissioner of Firearms appointed under section 81.1; (*commissaire*)
 
-***common-law partner***, in relation to an individual, means a person who is cohabiting with the individual in a conjugal relationship, having so cohabited for a period of at least one year;
+***common-law partner***, in relation to an individual, means a person who is cohabiting with the individual in a conjugal relationship, having so cohabited for a period of at least one year; (*conjoint de fait*)
 
-***customs office*** has the meaning assigned by subsection 2(1) of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md);
+***customs office*** has the meaning assigned by subsection 2(1) of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md); (*bureau de douane*)
 
-***customs officer*** has the meaning assigned to the word “officer” by subsection 2(1) of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md);
+***customs officer*** has the meaning assigned to the word “officer” by subsection 2(1) of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md); (*agent des douanes*)
 
-***federal Minister*** means the Minister of Public Safety and Emergency Preparedness;
+***federal Minister*** means the Minister of Public Safety and Emergency Preparedness; (*ministre fédéral*)
 
-***firearms officer*** means
+***firearms officer*** means
 - **(a)** in respect of a province, an individual who is designated in writing as a firearms officer for the province by the provincial minister of that province,
 - **(b)** in respect of a territory, an individual who is designated in writing as a firearms officer for the territory by the federal Minister, or
-- **(c)** in respect of any matter for which there is no firearms officer under paragraph (a) or (b), an individual who is designated in writing as a firearms officer for the matter by the federal Minister;
+- **(c)** in respect of any matter for which there is no firearms officer under paragraph (a) or (b), an individual who is designated in writing as a firearms officer for the matter by the federal Minister; (*préposé aux armes à feu*)
 
-***former Act*** means Part III of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), as it read from time to time before the commencement day;
+***former Act*** means Part III of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), as it read from time to time before the commencement day; (*loi antérieure*)
 
-***museum*** means a person who operates a museum
+***museum*** means a person who operates a museum
 - **(a)** in which firearms, prohibited weapons, restricted weapons, prohibited devices or prohibited ammunition are possessed, bought, displayed, repaired, restored, maintained, stored or altered, or
-- **(b)** in which ammunition is possessed or bought;
+- **(b)** in which ammunition is possessed or bought; (*musée*)
 
-***non-resident*** means an individual who ordinarily resides outside Canada; 
+***non-resident*** means an individual who ordinarily resides outside Canada;  (*non-résident*)
 
-***prescribed*** means
+***prescribed*** means
 - **(a)** in the case of a form or the information to be included on a form, prescribed by the federal Minister, and
-- **(b)** in any other case, prescribed by the regulations;
+- **(b)** in any other case, prescribed by the regulations; (*réglementaire*)
 
-***provincial minister*** means
+***provincial minister*** means
 - **(a)** in respect of a province, the member of the executive council of the province who is designated by the lieutenant governor in council of the province as the provincial minister,
 - **(b)** in respect of a territory, the federal Minister, or
-- **(c)** in respect of any matter for which there is no provincial minister under paragraph (a) or (b), the federal Minister;
+- **(c)** in respect of any matter for which there is no provincial minister under paragraph (a) or (b), the federal Minister; (*ministre provincial*)
 
-***regulations*** means regulations made by the Governor in Council under section 117.
+***regulations*** means regulations made by the Governor in Council under section 117. (*règlements*)
 
 **To be interpreted with [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md)**
 
@@ -211,14 +211,16 @@ firearms, prohibited weapons, restricted weapons, prohibited devices, ammunition
 - **(1)** An individual is eligible to hold a licence only if the individual
 	- **(a)** successfully completes the Canadian Firearms Safety Course, as given by an instructor who is designated by a chief firearms officer, and passes the tests, as administered by an instructor who is designated by a chief firearms officer, that form part of that Course;
 	- **(b)** passed, before the commencement day, the tests, as administered by an instructor who is designated by a chief firearms officer, that form part of that Course;
-	- **(c)** successfully completed, before January 1, 1995, a course that the attorney general of the province in which the course was given had, during the period beginning on January 1, 1993 and ending on December 31, 1994, approved for the purposes of section 106 of the former Act; or
-	- **(d)** passed, before January 1, 1995, a test that the attorney general of the province in which the test was administered had, during the period beginning on January 1, 1993 and ending on December 31, 1994, approved for the purposes of section 106 of the former Act.
+	- **(c)** successfully completed, before January 1, 1995, a course that the attorney general of the province in which the course was given had, during the period beginning on January 1, 1993 and ending on December 31, 1994, approved for the purposes of section 106 of the former Act;
+	- **(d)** passed, before January 1, 1995, a test that the attorney general of the province in which the test was administered had, during the period beginning on January 1, 1993 and ending on December 31, 1994, approved for the purposes of section 106 of the former Act; or
+	- **(e)** on the commencement day, was an individual referred to in paragraph 7(4)(c) as it read immediately before that day and held a licence.
 
 **Restricted firearms safety course**
 
 - **(2)** An individual is eligible to hold a licence authorizing the individual to possess prohibited firearms or restricted firearms only if the individual
-	- **(a)** successfully completes a restricted firearms safety course that is approved by the federal Minister, as given by an instructor who is designated by a chief firearms officer, and passes any tests, as administered by an instructor who is designated by a chief firearms officer, that form part of that course; or
-	- **(b)** passed, before the commencement day, a restricted firearms safety test, as administered by an instructor who is designated by a chief firearms officer, that is approved by the federal Minister.
+	- **(a)** successfully completes a restricted firearms safety course that is approved by the federal Minister, as given by an instructor who is designated by a chief firearms officer, and passes any tests, as administered by an instructor who is designated by a chief firearms officer, that form part of that course;
+	- **(b)** passed, before the commencement day, a restricted firearms safety test, as administered by an instructor who is designated by a chief firearms officer, that is approved by the federal Minister; or
+	- **(c)** on the commencement day, was an individual referred to in paragraph 7(4)(c) as it read immediately before that day and held a licence authorizing the individual to possess prohibited firearms or restricted firearms.
 
 **After expiration of prohibition order**
 
@@ -235,7 +237,7 @@ firearms, prohibited weapons, restricted weapons, prohibited devices, ammunition
 - **(4)** Subsections (1) and (2) do not apply to an individual who
 	- **(a)** in the prescribed circumstances, has been certified by a chief firearms officer as meeting the prescribed criteria relating to the safe handling and use of firearms and the laws relating to firearms;
 	- **(b)** is less than eighteen years old and requires a firearm to hunt or trap in order to sustain himself or herself or his or her family;
-	- **(c)** on the commencement day, possessed one or more firearms and does not require a licence to acquire other firearms;
+	- **(c)** [Repealed, 2015, c. 27, s. 4]
 	- **(d)** requires a licence merely to acquire cross-bows; or
 	- **(e)** is a non-resident who is 18 years old or older and by or on behalf of whom an application is made for a 60-day licence authorizing the non-resident to possess non-restricted firearms.
 
@@ -497,14 +499,39 @@ was continuously the holder of a registration certificate for one or more of tho
 		- **(iii)** wishes to transport the firearm for repair, storage, sale, exportation or appraisal, or
 		- **(iv)** wishes to transport the firearm to a gun show.
 
+**Target practice or competition**
+
+- **(1.1)** In the case of an authorization to transport issued for a reason referred to in paragraph (1)(a) within the province where the holder of the authorization resides, the specified places must include all shooting clubs and shooting ranges that are approved under section 29 and that are located in that province.
+
 **Exception for prohibited firearms other than prohibited handguns**
 
-- **(2)** Notwithstanding subsection (1), an individual may not be authorized to transport a prohibited firearm, other than a handgun referred to in subsection 12(6.1), under that subsection, except for the purposes referred to in paragraph (1)(b).
+- **(2)** Despite subsection (1), an individual must not be authorized to transport a prohibited firearm, other than a handgun referred to in subsection 12(6.1), between specified places except for the purposes referred to in paragraph (1)(b).
+
+**Automatic authorization to transport — licence renewal**
+
+- **(2.1)** Subject to subsection (2.3), an individ­ual who holds a licence authorizing the individual to possess prohibited firearms or restricted firearms must, if the licence is renewed, be authorized to transport them within the individual’s province of residence
+	- **(a)** to and from all shooting clubs and shooting ranges that are approved under section 29;
+	- **(b)** to and from any place a peace officer, firearms officer or chief firearms officer is located, for verification, registration or disposal in accordance with this Act or Part III of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
+	- **(c)** to and from a business that holds a licence authorizing it to repair or appraise prohibited firearms or restricted firearms;
+	- **(d)** to and from a gun show; and
+	- **(e)** to a port of exit in order to take them outside Canada, and from a port of entry.
+
+**Automatic authorization to transport — transfer**
+
+- **(2.2)** Subject to subsection (2.3), if a chief firearms officer has authorized the transfer of a prohibited firearm or a restricted firearm to an individual who holds a licence authorizing the individual to possess prohibited firearms or restricted firearms, the individual must be authorized
+	- **(a)** to transport the firearm within the individual’s province of residence from the place where the individual acquires it to the place where they may possess it under section 17; and
+	- **(b)** to transport their prohibited firearms and restricted firearms within the individual’s province of residence to and from the places referred to in any of paragraphs (2.1)(a) to (e).
+
+**Exceptions**
+
+- **(2.3)** An individual must not be authorized under subsection (2.1) or (2.2) to transport the following firearms to or from the places referred to in paragraph (2.1)(a):
+	- **(a)** a prohibited firearm, other than a handgun referred to in subsection 12(6.1); and
+	- **(b)** a restricted firearm or a handgun referred to in subsection 12(6.1) whose transfer was approved, in accordance with subparagraph 28(b)(ii), for the purpose of forming part of a gun collection.
 
 **Non-residents**
 
 - **(3)** A non-resident may be authorized to transport a particular restricted firearm between specified places in accordance with sections 35 and 35.1.
-> 1995, c. 39, s. 19; 2003, c. 8, s. 16
+> 1995, c. 39, s. 19; 2003, c. 8, s. 16; 2015, c. 27, s. 6
 
 
 
@@ -916,7 +943,7 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 
 **54** 
 
-- **(1)** A licence, registration certificate or authorization may be issued only on application made in the prescribed form — which form may be in writing or electronic — or in the prescribed manner. The application must set out the prescribed information and be accompanied by payment of the prescribed fees.
+- **(1)** A licence, registration certificate or authorization, other than an authorization referred to in subsection 19(2.1) or (2.2), may be issued only on application made in the prescribed form — which form may be in writing or electronic — or in the prescribed manner. The application must set out the prescribed information and be accompanied by payment of the prescribed fees.
 
 **To whom made**
 
@@ -929,7 +956,7 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 - **(3)** An individual who, on the commencement day, possesses one or more restricted firearms or one or more handguns referred to in subsection 12(6.1) (pre-December 1, 1998 handguns) must specify, in any application for a licence authorizing the individual to possess restricted firearms or handguns that are so referred to,
 	- **(a)** except in the case of a firearm described in paragraph (b), for which purpose described in section 28 the individual wishes to continue to possess restricted firearms or handguns that are so referred to; and
 	- **(b)** for which of those firearms was a registration certificate under the former Act issued because they were relics, were of value as a curiosity or rarity or were valued as a memento, remembrance or souvenir.
-> 1995, c. 39, s. 54; 2003, c. 8, ss. 36, 56
+> 1995, c. 39, s. 54; 2003, c. 8, ss. 36, 56; 2015, c. 27, s. 11
 
 
 
@@ -1030,6 +1057,10 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 **Condition attached to licence**
 
 - **(3)** An authorization to carry or authorization to transport may take the form of a condition attached to a licence.
+
+**Automatic authorization to transport**
+
+- **(3.1)** An authorization to transport referred to in subsection 19(1.1), (2.1) or (2.2) must take the form of a condition attached to a licence.
 
 **Businesses**
 
