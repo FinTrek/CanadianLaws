@@ -39,59 +39,59 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***agent des douanes*** S’entend au sens de « agent » ou « agent des douanes » au paragraphe 2(1) de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md).
+***agent des douanes*** S’entend au sens de « agent » ou « agent des douanes » au paragraphe 2(1) de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md). (*customs officer*)
 
-***autorisation de port*** L’autorisation prévue à l’article 20.
+***autorisation de port*** L’autorisation prévue à l’article 20. (*authorization to carry*)
 
-***autorisation de transport*** L’autorisation prévue à l’article 19.
+***autorisation de transport*** Toute autorisation prévue à l’article 19. (*authorization to transport*)
 
-***autorisation d’exportation*** L’autorisation prévue à l’article 44, y compris la licence pour l’exportation de marchandises qui est délivrée en vertu de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md) et qui est réputée être une autorisation d’exportation aux termes des règlements pris en vertu de l’alinéa 117a.1).
+***autorisation d’exportation*** L’autorisation prévue à l’article 44, y compris la licence pour l’exportation de marchandises qui est délivrée en vertu de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md) et qui est réputée être une autorisation d’exportation aux termes des règlements pris en vertu de l’alinéa 117a.1). (*authorization to export*)
 
-***autorisation d’importation*** L’autorisation prévue à l’article 46.
+***autorisation d’importation*** L’autorisation prévue à l’article 46. (*authorization to import*)
 
-***bureau de douane*** S’entend au sens du paragraphe 2(1) de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md).
+***bureau de douane*** S’entend au sens du paragraphe 2(1) de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md). (*customs office*)
 
-***commissaire*** Commissaire aux armes à feu nommé en vertu de l’article 81.1.
+***commissaire*** Commissaire aux armes à feu nommé en vertu de l’article 81.1. (*Commissioner*)
 
-***conjoint de fait*** La personne qui vit avec une autre dans une relation conjugale depuis au moins un an.
+***conjoint de fait*** La personne qui vit avec une autre dans une relation conjugale depuis au moins un an. (*common-law partner*)
 
 ***contrôleur des armes à feu***
 - **a)** Particulier qu’un ministre provincial désigne par écrit pour agir en cette qualité dans la province;
 - **b)** particulier que le ministre fédéral désigne par écrit pour agir en cette qualité dans un territoire;
-- **c)** particulier que le ministre fédéral désigne par écrit pour agir en cette qualité dans une situation particulière, en l’absence du contrôleur des armes à feu prévu aux alinéas a) ou b).
+- **c)** particulier que le ministre fédéral désigne par écrit pour agir en cette qualité dans une situation particulière, en l’absence du contrôleur des armes à feu prévu aux alinéas a) ou b). (*chief firearms officer*)
 
-***date de référence*** En ce qui concerne une disposition de la présente loi ou le terme « loi antérieure » dans une telle disposition, la date d’entrée en vigueur de la disposition.
+***date de référence*** En ce qui concerne une disposition de la présente loi ou le terme « loi antérieure » dans une telle disposition, la date d’entrée en vigueur de la disposition. (*commencement day*)
 
-***entreprise*** Personne qui exploite une entreprise se livrant à des activités, notamment :
+***entreprise*** Personne qui exploite une entreprise se livrant à des activités, notamment :
 - **a)** de fabrication, d’assemblage, de possession, d’achat, de vente, d’importation, d’exportation, d’exposition, de réparation, de restauration, d’entretien, d’entreposage, de modification, de prêt sur gages, de transport, d’expédition, de distribution ou de livraison d’armes à feu, d’armes prohibées, d’armes à autorisation restreinte, de dispositifs prohibés ou de munitions prohibées;
 - **b)** de possession, d’achat ou de vente de munitions;
 - **c)** d’achat d’arbalètes.
 
-Sont visés par la présente définition les musées.
+Sont visés par la présente définition les musées. (*business*)
 
-***loi antérieure*** La partie III du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) dans sa version antérieure à la date de référence.
+***loi antérieure*** La partie III du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) dans sa version antérieure à la date de référence. (*former Act*)
 
-***ministre fédéral*** Le ministre de la Sécurité publique et de la Protection civile.
+***ministre fédéral*** Le ministre de la Sécurité publique et de la Protection civile. (*federal Minister*)
 
 ***ministre provincial***
 - **a)** Membre du conseil exécutif d’une province désigné par le lieutenant gouverneur en conseil de la province en cette qualité;
 - **b)** le ministre fédéral en ce qui concerne les territoires;
-- **c)** le ministre fédéral dans une situation particulière où le ministre provincial ne peut agir.
+- **c)** le ministre fédéral dans une situation particulière où le ministre provincial ne peut agir. (*provincial minister*)
 
-***musée*** Personne qui exploite un musée se livrant soit à des activités de possession, d’achat, d’exposition, de réparation, de restauration, d’entretien, d’entreposage ou de modification d’armes à feu, d’armes prohibées, d’armes à autorisation restreinte, de dispositifs prohibés ou de munitions prohibées, soit à des activités de possession ou d’achat de munitions.
+***musée*** Personne qui exploite un musée se livrant soit à des activités de possession, d’achat, d’exposition, de réparation, de restauration, d’entretien, d’entreposage ou de modification d’armes à feu, d’armes prohibées, d’armes à autorisation restreinte, de dispositifs prohibés ou de munitions prohibées, soit à des activités de possession ou d’achat de munitions. (*museum*)
 
-***non-résident*** Particulier qui réside habituellement à l’étranger.
+***non-résident*** Particulier qui réside habituellement à l’étranger. (*non-resident*)
 
 ***préposé aux armes à feu***
 - **a)** Particulier qu’un ministre provincial désigne par écrit pour agir en cette qualité dans la province;
 - **b)** particulier que le ministre fédéral désigne par écrit pour agir en cette qualité dans un territoire;
-- **c)** particulier que le ministre fédéral désigne par écrit pour agir en cette qualité dans une situation particulière, en l’absence du préposé aux armes à feu prévu aux alinéas a) ou b).
+- **c)** particulier que le ministre fédéral désigne par écrit pour agir en cette qualité dans une situation particulière, en l’absence du préposé aux armes à feu prévu aux alinéas a) ou b). (*firearms officer*)
 
-***réglementaire*** Prescrit par le ministre fédéral, pour les formulaires ou l’information à y faire figurer, ou par les règlements, dans tous les autres cas.
+***réglementaire*** Prescrit par le ministre fédéral, pour les formulaires ou l’information à y faire figurer, ou par les règlements, dans tous les autres cas. (*prescribed*)
 
-***règlements*** Les règlements pris en application de l’article 117 par le gouverneur en conseil.
+***règlements*** Les règlements pris en application de l’article 117 par le gouverneur en conseil. (*regulations*)
 
-***transporteur*** Personne qui exploite une entreprise de transport se livrant notamment à des activités de transport d’armes à feu, d’armes prohibées, d’armes à autorisation restreinte, de dispositifs prohibés ou de munitions prohibées.
+***transporteur*** Personne qui exploite une entreprise de transport se livrant notamment à des activités de transport d’armes à feu, d’armes prohibées, d’armes à autorisation restreinte, de dispositifs prohibés ou de munitions prohibées. (*carrier*)
 
 **[Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md)**
 
@@ -205,30 +205,32 @@ Sont visés par la présente définition les musées.
 	- **a)** la réussite du Cours canadien de sécurité dans le maniement des armes à feu, contrôlé par l’examen y afférent, dont est chargé un instructeur désigné par le contrôleur des armes à feu;
 	- **b)** la réussite, avant la date de référence, de l’examen de contrôle de ce cours que lui fait passer un instructeur désigné par le contrôleur des armes à feu;
 	- **c)** avant le 1<sup>er</sup> janvier 1995, la réussite d’un cours agréé — au cours de la période commençant le 1<sup>er</sup> janvier 1993 et se terminant le 31 décembre 1994 — par le procureur général de la province où il a eu lieu pour l’application de l’article 106 de la loi antérieure;
-	- **d)** avant le 1<sup>er</sup> janvier 1995, la réussite d’un examen agréé — au cours de la période commençant le 1<sup>er</sup> janvier 1993 et se terminant le 31 décembre 1994 — par le procureur général de la province où il a eu lieu pour l’application de l’article 106 de la loi antérieure.
+	- **d)** avant le 1<sup>er</sup> janvier 1995, la réussite d’un examen agréé — au cours de la période commençant le 1<sup>er</sup> janvier 1993 et se terminant le 31 décembre 1994 — par le procureur général de la province où il a eu lieu pour l’application de l’article 106 de la loi antérieure;
+	- **e)** à la date de référence, le particulier était visé à l’alinéa 7(4)c) dans sa version antérieure à cette date et était titulaire d’un permis.
 
 **Cours sur la sécurité des armes à feu à autorisation restreinte**
 
 - **(2)** La délivrance d’un permis de possession d’une arme à feu prohibée ou d’une arme à feu à autorisation restreinte à un particulier est subordonnée à l’une des conditions suivantes :
 	- **a)** la réussite d’un cours sur la sécurité des armes à feu à autorisation restreinte, agréé par le ministre fédéral et contrôlé par un examen, dont est chargé un instructeur désigné par le contrôleur des armes à feu;
-	- **b)** la réussite, avant la date de référence, d’un examen sur la sécurité des armes à feu à autorisation restreinte, agréé par le ministre fédéral, que lui fait passer un instructeur désigné par le contrôleur des armes à feu.
+	- **b)** la réussite, avant la date de référence, d’un examen sur la sécurité des armes à feu à autorisation restreinte, agréé par le ministre fédéral, que lui fait passer un instructeur désigné par le contrôleur des armes à feu;
+	- **c)** à la date de référence, le particulier était visé à l’alinéa 7(4)c) dans sa version antérieure à cette date et était titulaire d’un permis de possession d’une arme à feu prohibée ou d’une arme à feu à autorisation restreinte.
 
 **Ordonnances d’interdiction**
 
-- **(3)** Le particulier qui est sous le coup d’une ordonnance d’interdiction peut devenir titulaire :
-	- **a)** d’un permis, s’il réussit, après l’expiration de celle-ci :
+- **(3)** Le particulier qui est sous le coup d’une ordonnance d’interdiction peut devenir titulaire :
+	- **a)** d’un permis, s’il réussit, après l’expiration de celle-ci :
 		- **(i)** le Cours canadien de sécurité dans le maniement des armes à feu donné par un instructeur désigné par le contrôleur des armes à feu,
 		- **(ii)** les examens de contrôle de ce cours que lui fait passer un instructeur désigné par le contrôleur des armes à feu;
-	- **b)** d’un permis de possession d’une arme à feu à autorisation restreinte, s’il réussit, après l’expiration de celle-ci :
+	- **b)** d’un permis de possession d’une arme à feu à autorisation restreinte, s’il réussit, après l’expiration de celle-ci :
 		- **(i)** un cours sur la sécurité des armes à feu à autorisation restreinte, agréé par le ministre fédéral, donné par un instructeur désigné par le contrôleur des armes à feu,
 		- **(ii)** tout examen de contrôle de ce cours que lui fait passer un instructeur désigné par le contrôleur des armes à feu.
 
 **Exceptions**
 
-- **(4)** Les paragraphes (1) et (2) ne s’appliquent pas, selon le cas, au particulier :
+- **(4)** Les paragraphes (1) et (2) ne s’appliquent pas, selon le cas, au particulier :
 	- **a)** dont la compétence en matière de législation sur les armes à feu et de règles de sécurité relatives à leur maniement et à leur usage a été certifiée conforme aux exigences réglementaires par le contrôleur des armes à feu dans les cas prévus par règlement;
 	- **b)** qui, âgé de moins de dix-huit ans, a besoin d’une arme à feu pour chasser, notamment à la trappe, afin de subvenir à ses besoins ou à ceux de sa famille;
-	- **c)** qui, à la date de référence, possédait une ou plusieurs armes à feu et n’a pas besoin d’un permis pour acquérir d’autres armes à feu;
+	- **c)** [Abrogé, 2015, ch. 27, art. 4]
 	- **d)** qui n’a besoin d’un permis que pour acquérir une arbalète;
 	- **e)** qui est un non-résident âgé d’au moins dix-huit ans qui a déposé — ou fait déposer — une demande de permis l’autorisant à posséder, pour une période de soixante jours, une arme à feu sans restriction.
 
@@ -473,25 +475,47 @@ Sont visés par la présente définition les musées.
 **19** 
 
 - **(1)** Le particulier titulaire d’un permis de possession d’armes à feu prohibées ou d’armes à feu à autorisation restreinte peut être autorisé à en transporter une en particulier entre des lieux précis pour toute raison valable, notamment :
-	- **a)
-** pour le tir à la cible, la participation à une compétition de tir ou l’usage à des conditions précisées ou sous les auspices d’un club de tir ou d’un champ de tir agréé conformément à l’article 29;
+	- **a)** pour le tir à la cible, la participation à une compétition de tir ou l’usage à des conditions précisées ou sous les auspices d’un club de tir ou d’un champ de tir agréé conformément à l’article 29;
 	- **a.1)** pour offrir un entraînement au maniement des armes à feu dans le cadre d’un cours sur la sécurité des armes à feu à autorisation restreinte agréé par le ministre fédéral;
-	- **b)
-** s’il :
+	- **b)** s’il :
 		- **(i)** change de résidence,
-		- **(ii)** désire la présenter à l’agent de la paix, au préposé aux armes à feu ou au contrôleur des armes à feu pour enregistrement ou disposition en conformité avec la présente loi ou la partie III du 
-[Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md),
+		- **(ii)** désire la présenter à l’agent de la paix, au préposé aux armes à feu ou au contrôleur des armes à feu pour enregistrement ou disposition en conformité avec la présente loi ou la partie III du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md),
 		- **(iii)** désire la transporter aux fins de réparation, d’entreposage, de vente, d’exportation ou d’évaluation,
 		- **(iv)** désire l’apporter à une exposition d’armes à feu.
 
-**Exception — armes à feu prohibées autres que les armes de gang prohibées**
+**Tir à la cible ou compétition de tir**
 
-- **(2)** Il ne peut toutefois être autorisé à transporter une arme à feu prohibée — autre qu’une arme de poing visée au paragraphe 12(6.1) — entre des lieux précis que pour les raisons visées à l’alinéa (1)b).
+- **(1.1)** Dans le cas d’une autorisation de transport délivrée pour l’une des raisons mentionnées à l’alinéa (1)a) pour la province de résidence du titulaire de l’autorisation, les lieux qui y sont précisés comprennent tous les clubs de tir et tous les champs de tir de cette province agréés conformément à l’article 29.
+
+**Exception : armes à feu prohibées autres que les armes de poing prohibées**
+
+- **(2)** Malgré le paragraphe (1), le particulier ne peut être autorisé à transporter une arme à feu prohibée — autre qu’une arme de poing visée au paragraphe 12(6.1) — entre des lieux précis que pour les raisons visées à l’alinéa (1)b).
+
+**Autorisation de transport automatique : renouvellement**
+
+- **(2.1)** Sous réserve du paragraphe (2.3), le particulier titulaire d’un permis de possession d’armes à feu prohibées ou d’armes à feu à autorisation restreinte doit, si son permis est renouvelé, être autorisé, dans sa province de résidence, à les transporter :
+	- **a)** vers tout club de tir et tout champ de tir agréés conformément à l’article 29, et à partir de ceux-ci;
+	- **b)** vers tout lieu où se trouve un agent de la paix, un préposé aux armes à feu ou un contrôleur des armes à feu pour enregistrement, vérification ou disposition en conformité avec la présente loi ou la partie III du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), et à partir de celui-ci;
+	- **c)** vers une entreprise titulaire d’un permis l’autorisant à réparer et à évaluer les armes à feu prohibées ou les armes à feu à autorisation restreinte, et à partir de celle-ci;
+	- **d)** vers une exposition d’armes à feu, et à partir de celle-ci;
+	- **e)** vers un port de sortie afin de les emporter à l’extérieur du Canada, et à partir d’un port d’entrée.
+
+**Autorisation de transport automatique : cession**
+
+- **(2.2)** Sous réserve du paragraphe (2.3), si un contrôleur des armes à feu autorise la cession d’une arme à feu prohibée ou d’une arme à feu à autorisation restreinte à un particulier titulaire d’un permis de possession d’armes à feu prohibées ou d’armes à feu à autorisation restreinte, le particulier doit, dans sa province de résidence, être autorisé à transporter :
+	- **a)** cette arme à feu du lieu de son acquisition au lieu où elle peut être gardée en vertu de l’article 17;
+	- **b)** toutes ses armes à feu prohibées et ses armes à feu à autorisation restreinte vers les lieux visés aux alinéas (2.1)a) à e), et à partir de ceux-ci.
+
+**Exceptions**
+
+- **(2.3)** Le particulier ne doit pas être autorisé en vertu des paragraphes (2.1) ou (2.2) à transporter, vers les lieux visés à l’alinéa (2.1)a) ou à partir de ceux-ci, les armes à feu suivantes :
+	- **a)** une arme à feu prohibée, autre qu’une arme de poing visée au paragraphe 12(6.1);
+	- **b)** une arme à feu à autorisation restreinte ou une arme de poing visée au paragraphe 12(6.1) dont la cession a été autorisée, en application du sous-alinéa 28b)(ii), à des fins de collection.
 
 **Importation par un non-résident**
 
 - **(3)** Un non-résident peut être autorisé à transporter, en conformité avec les dispositions des articles 35 et 35.1, une arme à feu à autorisation restreinte entre des lieux précisés.
-> 1995, ch. 39, art. 19; 2003, ch. 8, art. 16
+> 1995, ch. 39, art. 19; 2003, ch. 8, art. 16; 2015, ch. 27, art. 6
 
 
 
@@ -891,20 +915,20 @@ Sont visés par la présente définition les musées.
 
 **54** 
 
-- **(1)** La délivrance des permis, des autorisations et des certificats d’enregistrement est subordonnée au dépôt d’une demande présentée en la forme réglementaire — écrite ou électronique — ou selon les modalités réglementaires et accompagnée des renseignements réglementaires, et à l’acquittement des droits réglementaires.
+- **(1)** La délivrance des permis, des autorisations — autre que celles visées aux paragraphes 19(2.1) ou (2.2) — et des certificats d’enregistrement est subordonnée au dépôt d’une demande présentée en la forme réglementaire — écrite ou électronique — ou selon les modalités réglementaires et accompagnée des renseignements réglementaires, et à l’acquittement des droits réglementaires.
 
 **Destinataire de la demande**
 
-- **(2)** La demande est adressée :
+- **(2)** La demande est adressée :
 	- **a)** au contrôleur des armes à feu, dans le cas des permis et des autorisations de port et de transport;
 	- **b)** au directeur, dans le cas des certificats d’enregistrement et des autorisations d’exportation ou d’importation.
 
 **Armes à feu à autorisation restreinte et armes de poing antérieures**
 
-- **(3)** Le particulier qui possède une ou plusieurs armes à feu à autorisation restreinte ou armes de poing visées au paragraphe 12(6.1) (armes de poing : 1er décembre 1998) à la date de référence est tenu de préciser dans toute demande de permis correspondante :
+- **(3)** Le particulier qui possède une ou plusieurs armes à feu à autorisation restreinte ou armes de poing visées au paragraphe 12(6.1) (armes de poing : 1er décembre 1998) à la date de référence est tenu de préciser dans toute demande de permis correspondante :
 	- **a)** sauf s’il s’agit d’une arme à feu visée à l’alinéa b), pour laquelle des fins, prévues à l’article 28, il désire continuer cette possession;
 	- **b)** pour lesquelles de ces armes à feu a été délivré le certificat d’enregistrement prévu par la loi antérieure parce qu’elles sont des antiquités ou avaient une valeur de curiosité, de rareté, de commémoration ou de simple souvenir.
-> 1995, ch. 39, art. 54; 2003, ch. 8, art. 36 et 56
+> 1995, ch. 39, art. 54; 2003, ch. 8, art. 36 et 56; 2015, ch. 27, art. 11
 
 
 
@@ -992,7 +1016,7 @@ Sont visés par la présente définition les musées.
 
 
 
-**Forme : permis et certificats d’enregistrement**
+**Forme : permis et certificats d’enregistrement**
 
 **61** 
 
@@ -1005,6 +1029,10 @@ Sont visés par la présente définition les musées.
 **Condition d’un permis**
 
 - **(3)** Les autorisations de port ou de transport peuvent aussi prendre la forme d’une condition d’un permis.
+
+**Autorisation de transport automatique**
+
+- **(3.1)** Les autorisations de transport visées aux paragraphes 19(1.1), (2.1) ou (2.2) prennent la forme d’une condition d’un permis.
 
 **Précisions pour les entreprises**
 
