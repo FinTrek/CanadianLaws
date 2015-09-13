@@ -3690,9 +3690,9 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 
 
-**Agent of Her Majesty**
+**Not an agent**
 
-**2147** Canadian Nuclear Laboratories Ltd., a corporation incorporated under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md) on May 30, 2014, is an agent of Her Majesty in right of Canada.
+**2147** Canadian Nuclear Laboratories Ltd., a corporation incorporated under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md) on May 30, 2014, is not an agent of Her Majesty in right of Canada.
 > 2010, c. 12, s. 2147; 2014, c. 39, s. 378.
 
 
@@ -3724,6 +3724,14 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 - **(5)** For greater certainty, regulations may be made under paragraph 42.1(1)(u) of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) with respect to the employees who are deemed to be contributors under paragraph (1)(a).
 > 2010, c. 12, s. 2148; 2014, c. 39, s. 379.
 
+
+
+
+
+#### [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md)
+
+
+**2148.1** [Amendment]
 
 
 
