@@ -3690,9 +3690,9 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 
 
-**Société mandataire**
+**Société non mandataire**
 
-**2147** La société Laboratoires Nucléaires Canadiens Ltée, constituée le 30 mai 2014 sous le régime de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md), est un mandataire de Sa Majesté du chef du Canada.
+**2147** La société Laboratoires Nucléaires Canadiens Ltée, constituée le 30 mai 2014 sous le régime de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md), n’est pas un mandataire de Sa Majesté du chef du Canada.
 > 2010, ch. 12, art. 2147; 2014, ch. 39, art. 378.
 
 
@@ -3724,6 +3724,14 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 - **(5)** Il est entendu que des règlements peuvent être pris en application de l’alinéa 42.1(1)u) de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) à l’égard des employés réputés être des contributeurs en application de l’alinéa (1)a).
 > 2010, ch. 12, art. 2148; 2014, ch. 39, art. 379.
 
+
+
+
+
+#### [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md)
+
+
+**2148.1** [Modification]
 
 
 
