@@ -605,7 +605,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_IndB567_hq_16039'>[*]</a></sup>**93** Les dispositions de la présente section entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_IndB567_hq_16039'><sup>*</sup></a>: [Note : Les dispositions de la section 7 non en vigueur.]<br />
+<a name='fn_IndB567_hq_16039'><sup>*</sup></a>: [Note : Article 87 en vigueur le 14 septembre 2015, *voir* TR/2015-78.]<br />
 
 
 
