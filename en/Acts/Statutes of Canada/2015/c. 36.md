@@ -605,7 +605,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_IndB419_hq_16027'>[*]</a></sup>**93** The provisions of this Division come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_IndB419_hq_16027'><sup>*</sup></a>: [Note: The provisions of Division 7 not in force.]<br />
+<a name='fn_IndB419_hq_16027'><sup>*</sup></a>: [Note: Section 87 in force September 14, 2015, *see* SI/2015-78.]<br />
 
 
 
