@@ -1652,16 +1652,16 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 
 
 
-**Technical acceptance certificate**
+**Registration**
 
 **69.2** 
 
-- **(1)** No person shall distribute, lease, offer for sale, sell or import any telecommunications apparatus for which a technical acceptance certificate is required under this Act, otherwise than in accordance with such a certificate.
+- **(1)** No person shall distribute, lease, offer for sale, sell or import any telecommunications apparatus for which registration is required under this Act, unless it is registered.
 
 **Specifications and markings**
 
-- **(2)** No person shall distribute, lease, offer for sale, sell or import any telecommunications apparatus for which technical specifications or markings are required under paragraph 69.4(1)(a), unless the apparatus complies with those requirements.
-> 1998, c. 8, s. 8.
+- **(2)** No person shall distribute, lease, offer for sale, sell or import any telecommunications apparatus for which technical specifications or markings are required under section 69.3 or 69.4, unless the apparatus complies with those requirements.
+> 1998, c. 8, s. 8; 2014, c. 39, s. 196.
 
 
 
@@ -1676,28 +1676,33 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 **69.3** 
 
 - **(1)** Subject to any regulations made under section 69.4, the Minister may, taking into account all matters that the Minister considers relevant to further the Canadian telecommunications policy objectives,
-	- **(a)** issue technical acceptance certificates in respect of telecommunications apparatus and fix the duration and conditions of any such certificate;
-	- **(b)** change the duration and amend the conditions of certificates;
-	- **(c)** make available to the public any information set out in certificates;
-	- **(d)** establish technical specifications and markings in relation to telecommunications apparatus or any class of telecommunications apparatus;
+	- **(a)** register telecommunications apparatus and fix any conditions and the duration of the registration;
+	- **(a.1)** establish requirements for the registration of telecommunications apparatus;
+	- **(a.2)** establish the procedure governing applications for registration;
+	- **(b)** amend the conditions and change the duration of the registration;
+	- **(c)** make available to the public any information regarding the registered telecommunications apparatus;
+	- **(d)** establish technical specifications and markings in relation to telecommunications apparatus or any class of telecommunications apparatus and any requirements relating to those technical specifications and markings;
 	- **(e)** test telecommunications apparatus for compliance with technical specifications and markings required under this Part;
-	- **(f)** require holders of, and applicants for, certificates to disclose to the Minister any information that the Minister considers appropriate respecting the present and proposed use of the telecommunications apparatus in question;
-	- **(g)** require holders of certificates to inform the Minister of any material changes in information disclosed under paragraph (f);
+	- **(f)** require an applicant for registration to disclose to the Minister any information that the Minister considers appropriate respecting the present and proposed use of the telecommunications apparatus in question;
+	- **(f.1)** establish fees for registration, applications for registration and examinations or testing in relation to registration, and respecting interest payable on unpaid fees;
+	- **(g)** require the registrant to inform the Minister of any material changes in information disclosed under paragraph (f);
+	- **(g.1)** establish requirements to recognize and designate foreign and domestic persons that are competent to assess whether telecommunications apparatus complies with the applicable foreign or domestic technical specifications;
 	- **(h)** [Repealed, 2014, c. 39, s. 197]
 	- **(i)** do any other thing necessary for the effective administration of this Part.
 
 **Delegation of powers**
 
-- **(2)** The Minister may authorize any person to perform such powers on behalf of the Minister under paragraph (1)(a) as the Minister may determine and subject to the conditions that the Minister may fix.
+- **(2)** The Minister may authorize any person to exercise any of the powers that are granted to the Minister under this Part, or by the regulations made under this Part, subject to any conditions that the Minister may fix.
 
-**Suspension or revocation of certificate**
+**Suspension or revocation of registration**
 
-- **(3)** The Minister may suspend or revoke a certificate
-	- **(a)** with the consent of the holder of the certificate;
-	- **(b)** after giving written notice to the holder and giving the holder a reasonable opportunity to make representations to the Minister with respect to the notice, if the Minister is satisfied that
-		- **(i)** the holder has contravened this Part, the regulations or the conditions of the certificate, or
-		- **(ii)** the certificate was obtained through misrepresentation; or
-	- **(c)** on giving written notice of suspension or revocation to the holder, without having to give the holder an opportunity to make representations to the Minister with respect to the notice, if the holder has failed to comply with a request to pay fees or interest due.
+- **(3)** The Minister may suspend or revoke a registration
+	- **(a)** with the consent of the registrant;
+	- **(b)** after giving written notice to the registrant and giving the registrant a reasonable opportunity to make representations to the Minister with respect to the notice, if the Minister is satisfied that
+		- **(i)** the registrant has contravened this Part, the regulations made under this Part or the conditions of the registration,
+		- **(ii)** the registration was obtained through misrepresentation, or
+		- **(iii)** the apparatus does not comply with the applicable technical specifications or markings; or
+	- **(c)** on giving written notice of suspension or revocation to the registrant, without having to give the registrant an opportunity to make representations to the Minister with respect to the notice, if the registrant has failed to comply with a request to pay fees or interest due.
 > 1998, c. 8, s. 8; 2014, c. 39, s. 197.
 
 
@@ -1714,21 +1719,20 @@ the Commission may, for that purpose, treat some or all of the earnings of the a
 
 - **(1)** The Governor in Council may make regulations
 	- **(a)** respecting requirements for technical specifications and markings in relation to telecommunications apparatus or any class of telecommunications apparatus;
-	- **(b)** prescribing telecommunications apparatus, or classes of telecommunications apparatus, in respect of which a technical acceptance certificate is required;
-	- **(c)** respecting the inspection, testing and approval of telecommunications apparatus in relation to technical acceptance certificates;
-	- **(d)** prescribing the form of technical acceptance certificates or markings, or any class of certificates or markings;
-	- **(e)** prescribing the procedure governing applications for technical acceptance certificates, or any class of certificates, and the issuing of certificates by the Minister;
-	- **(f)** prescribing the conditions of technical acceptance certificates, including conditions as to the services that may be provided by the holder of a certificate;
+	- **(b)** [Repealed, 2014, c. 39, s. 198]
+	- **(c)** respecting the inspection, testing and approval of telecommunications apparatus in respect of a registration;
+	- **(d)** prescribing the form of registration or markings, or any class of registration or markings;
+	- **(e) and (f)** [Repealed, 2014, c. 39, s. 198]
 	- **(g)** prescribing the eligibility and qualifications of persons who may be appointed as inspectors, and the duties of inspectors;
 	- **(h)** for giving effect to international agreements, conventions or treaties respecting telecommunications apparatus to which Canada is a party;
-	- **(i)** prescribing fees for technical acceptance certificates, applications for certificates and examinations or testing in relation to certificates, and respecting interest payable on unpaid fees;
+	- **(i)** [Repealed, 2014, c. 39, s. 198]
 	- **(j)** prescribing anything that by this Part is to be prescribed; and
 	- **(k)** generally for carrying out the purposes and provisions of this Part.
 
 **Incorporation by reference**
 
 - **(2)** For greater certainty, a regulation made under subsection (1) incorporating by reference a classification, standard, procedure or other specification may incorporate the classification, standard, procedure or specification as amended from time to time.
-> 1998, c. 8, s. 8.
+> 1998, c. 8, s. 8; 2014, c. 39, s. 198.
 
 
 
