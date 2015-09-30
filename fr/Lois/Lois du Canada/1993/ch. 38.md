@@ -1607,16 +1607,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Certificat d’approbation technique**
+**Enregistrement**
 
 **69.2** 
 
-- **(1)** Il est interdit de distribuer, louer, mettre en vente, vendre ou importer tout appareil de télécommunication pour lequel un certificat d’approbation technique est exigé au titre de la présente loi, si ce n’est en conformité avec celui-ci.
+- **(1)** Il est interdit de distribuer, louer, mettre en vente, vendre ou importer tout appareil de télécommunication qui doit être enregistré au titre de la présente loi, sauf s’il est enregistré.
 
-**Normes**
+**Normes et spécifications**
 
-- **(2)** Il est interdit de se livrer aux mêmes activités à l’égard de tout appareil de télécommunication qui ne respecte pas les spécifications techniques ou les normes de marquage qui lui sont imposées en application de l’alinéa 69.4(1)a).
-> 1998, ch. 8, art. 8.
+- **(2)** Il est interdit de se livrer aux mêmes activités à l’égard de tout appareil de télécommunication qui ne respecte pas les spécifications techniques ou les normes de marquage qui lui sont imposées en application des articles 69.3 ou 69.4.
+> 1998, ch. 8, art. 8; 2014, ch. 39, art. 196.
 
 
 
@@ -1630,29 +1630,34 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **69.3** 
 
-- **(1)** Sous réserve de tout règlement pris en application de l’article 69.4, le ministre peut, compte tenu des questions qu’il juge pertinentes afin d’assurer la mise en oeuvre de la politique canadienne de télécommunication :
-	- **a)** délivrer, en les assortissant éventuellement de conditions, des certificats d’approbation technique à l’égard des appareils de télécommunication et en fixer la durée;
-	- **b)** modifier les conditions ou la durée de tels certificats;
-	- **c)** mettre à la disposition du public tout renseignement y figurant;
-	- **d)** fixer les spécifications techniques et les normes de marquage applicables aux appareils de télécommunication ou à toute catégorie de ceux-ci;
+- **(1)** Sous réserve de tout règlement pris en application de l’article 69.4, le ministre peut, compte tenu des questions qu’il juge pertinentes afin d’assurer la mise en oeuvre de la politique canadienne de télécommunication :
+	- **a)** enregistrer les appareils de télécommunication et fixer la durée de la validité de l’enregistrement et les conditions dont celui-ci est assorti;
+	- **a.1)** établir les exigences régissant l’enregistrement des appareils de télécommunication;
+	- **a.2)** préciser la procédure régissant la demande d’enregistrement;
+	- **b)** modifier la durée de validité de l’enregistrement et les conditions dont celui-ci est assorti;
+	- **c)** mettre à la disposition du public tout renseignement concernant les appareils de télécommunication enregistrés;
+	- **d)** prévoir les spécifications techniques et les normes de marquage applicables aux appareils de télécommunication ou à toute catégorie de ceux-ci;
 	- **e)** procéder à l’essai d’appareils de télécommunication pour s’assurer de leur conformité aux spécifications techniques ou aux normes de marquage fixées sous le régime de la présente partie;
-	- **f)** exiger que les demandeurs et les titulaires de licences lui communiquent tout renseignement qu’il estime indiqué concernant l’utilisation — présente et future — de l’appareil de télécommunication;
-	- **g)** exiger que ces titulaires l’informent de toute modification importante des renseignements ainsi communiqués;
+	- **f)** exiger du demandeur d’enregistrement qu’il lui communique tout renseignement qu’il estime indiqué concernant l’utilisation — présente et future — de l’appareil de télécommunication;
+	- **f.1)** établir les droits à payer pour l’enregistrement des appareils de télécommunication, pour les demandes d’enregistrement et les examens ou les essais nécessaires en vue de l’enregistrement, ainsi que les intérêts à payer en cas de défaut de paiement;
+	- **g)** exiger du titulaire de l’enregistrement qu’il l’informe de toute modification importante des renseignements communiqués au titre de l’alinéa f);
+	- **g.1)** établir des exigences pour reconnaître et désigner les personnes qui sont — au pays et à l’étranger — compétentes pour évaluer la conformité de l’appareil de télécommunication aux spécifications techniques applicables au pays ou à l’étranger;
 	- **h)** [Abrogé, 2014, ch. 39, art. 197]
 	- **i)** prendre toute autre mesure nécessaire pour l’application efficace de la présente partie.
 
 **Délégation**
 
-- **(2)** Le ministre peut autoriser toute personne à exercer, en son nom et aux conditions qu’il fixe, les pouvoirs que lui confère l’alinéa (1)a) qu’il détermine.
+- **(2)** Le ministre peut autoriser toute personne à exercer, en son nom et aux conditions qu’il fixe, les pouvoirs que lui confère la présente partie ou les règlements pris en vertu de celle-ci.
 
-**Suspension ou annulation du certificat**
+**Suspension ou révocation de l’enregistrement**
 
-- **(3)** Le ministre peut suspendre ou annuler le certificat dans l’un ou l’autre des cas suivants :
-	- **a)** il a le consentement du titulaire;
-	- **b)** il est convaincu, après avoir donné au titulaire un avis écrit et la possibilité de lui présenter ses observations à cet égard :
-		- **(i)** soit que celui-ci a enfreint la présente partie, ses règlements d’application ou les conditions du certificat,
-		- **(ii)** soit que le certificat a été obtenu sous de fausses représentations;
-	- **c)** il donne un avis écrit de suspension ou d’annulation au titulaire, mais sans nécessairement lui accorder la possibilité de lui présenter ses observations, lorsque celui-ci n’a pas satisfait à une demande de paiement des droits ou intérêts dus.
+- **(3)** Le ministre peut suspendre ou révoquer l’enregistrement dans l’un ou l’autre des cas suivants :
+	- **a)** il a le consentement du titulaire de l’enregistrement;
+	- **b)** il est convaincu, après avoir donné au titulaire de l’enregistrement un avis écrit et la possibilité de lui présenter des observations à cet égard :
+		- **(i)** soit que celui-ci a enfreint la présente partie, ses règlements d’application ou les conditions d’enregistrement,
+		- **(ii)** soit que l’enregistrement a été obtenu sous de fausses représentations,
+		- **(iii)** soit que l’appareil de télécommunication ne respecte pas les spécifications techniques ou les normes de marquage qui lui sont applicables;
+	- **c)** il donne un avis écrit de suspension ou de révocation au titulaire de l’enregistrement, mais sans nécessairement lui accorder la possibilité de lui présenter des observations, lorsque celui-ci n’a pas satisfait à une demande de paiement des droits ou intérêts dus.
 > 1998, ch. 8, art. 8; 2014, ch. 39, art. 197.
 
 
@@ -1667,23 +1672,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **69.4** 
 
-- **(1)** Le gouverneur en conseil peut, par règlement :
+- **(1)** Le gouverneur en conseil peut, par règlement :
 	- **a)** prévoir les spécifications techniques et les normes de marquage applicables aux appareils de télécommunication ou à toute catégorie de ceux-ci;
-	- **b)** préciser ceux d’entre eux — ou les catégories — qui sont assujettis au certificat d’approbation technique;
-	- **c)** régir l’inspection, l’essai et l’approbation des appareils de télécommunication en vue de la délivrance des certificats;
-	- **d)** fixer la forme de ceux-ci et des marquages ou de leurs catégories;
-	- **e)** préciser la procédure de demande des certificats ou de toute catégorie de ceux-ci, ainsi que de délivrance des certificats par le ministre;
-	- **f)** fixer les conditions des certificats, notamment celles qui concernent les services pouvant être fournis par leur titulaire;
+	- **b)** [Abrogé, 2014, ch. 39, art. 198]
+	- **c)** régir l’inspection, l’essai et l’approbation des appareils de télécommunication concernant l’enregistrement;
+	- **d)** fixer la forme de celui-ci et des marquages ou de leurs catégories;
+	- **e) et f)** [Abrogés, 2014, ch. 39, art. 198]
 	- **g)** préciser les fonctions des inspecteurs et les qualités requises des personnes pouvant le devenir, et régir leur admissibilité au poste;
 	- **h)** donner effet aux accords, conventions ou traités internationaux sur les appareils de télécommunication auxquels le Canada est partie;
-	- **i)** fixer les droits à payer — et les intérêts afférents à ceux-ci — pour les demandes de certificats d’approbation technique, les examens ou les essais nécessaires en vue de leur délivrance;
+	- **i)** [Abrogé, 2014, ch. 39, art. 198]
 	- **j)** prendre toute mesure d’ordre réglementaire prévue par la présente partie;
 	- **k)** prendre toute autre mesure d’application de la présente partie.
 
 **Incorporation par renvoi**
 
-- **(2)** Il est entendu qu’il peut être précisé, dans le règlement d’application du paragraphe (1) qui incorpore par renvoi des spécifications — classifications, normes ou modalités — , qu’elles sont incorporées avec leurs modifications successives.
-> 1998, ch. 8, art. 8.
+- **(2)** Il est entendu qu’il peut être précisé, dans le règlement d’application du paragraphe (1) qui incorpore par renvoi des spécifications — classifications, normes ou modalités —, qu’elles sont incorporées avec leurs modifications successives.
+> 1998, ch. 8, art. 8; 2014, ch. 39, art. 198.
 
 
 
