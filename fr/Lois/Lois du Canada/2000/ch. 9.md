@@ -1838,8 +1838,12 @@ Si le candidat, l’association enregistrée et le parti enregistré ne fourniss
 - **(4)** Le témoin doit présenter, avec l’acte de candidature :
 	- **a)** un cautionnement de 1 000 $;
 	- **b)** une déclaration signée par le vérificateur et portant qu’il a accepté d’agir à ce titre;
-	- **c)** s’il y a lieu, un acte écrit, signé par le chef du parti politique, ou par un représentant visé au paragraphe 406(2), énonçant que la personne qui désire se porter candidat est soutenue par le parti conformément à l’article 68.
-> 2000, ch. 9, art. 67; 2001, ch. 21, art. 8; 2014, ch. 12, art. 27.
+	- **c)** s’il y a lieu, un acte écrit, signé par les personnes autorisées par le parti politique à soutenir des personnes qui désirent se porter candidat, énonçant que la personne qui désire se porter candidat est soutenue par le parti.
+
+**Rapport**
+
+- **(5)** Au plus tard vingt-cinq jours avant le jour du scrutin, l’agent principal de chaque parti politique produit un rapport écrit au directeur général des élections comportant le nom des personnes que le parti autorise à soutenir des personnes qui désirent se porter candidat.
+> 2000, ch. 9, art. 67; 2001, ch. 21, art. 8; 2014, ch. 12, art. 27; 2015, ch. 37, art. 2 et 6.
 
 
 
@@ -7772,14 +7776,14 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 - **(1)** Dès que possible après avoir reçu les documents visés au paragraphe 477.59(1) pour une circonscription, le directeur général des élections en remet un exemplaire au directeur du scrutin de la circonscription.
 
-**Accès aux documents**
+**Soutien de candidats**
 
-- **(2)** Sur demande, le directeur du scrutin rend les documents accessibles au public à tout moment convenable pendant les six mois suivant la date à laquelle il les a reçus. Le public peut en obtenir une copie sur paiement d’un droit maximal de 0,25 $ la page.
+- **(2)** Ils sont également tenus de produire, avec la déclaration ou le rapport visés au paragraphe (1), une déclaration, attestée par leur agent principal, comportant le nom des personnes qu’ils autorisent à soutenir des personnes qui désirent se porter candidat à une élection générale.
 
 **Délai de conservation des documents**
 
 - **(3)** Il est tenu de conserver les documents visés au paragraphe (1) pendant une période de trois ans, ou la période plus courte que le directeur général des élections estime indiquée, à compter de la fin de la période de six mois visée au paragraphe (2).
-> 2000, ch. 9, art. 383; 2014, ch. 12, art. 86.
+> 2000, ch. 9, art. 383; 2014, ch. 12, art. 86; 2015, ch. 37, art. 3.
 
 
 
@@ -8416,8 +8420,8 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 **Soutien de candidats**
 
-- **(2)** Le parti enregistré et le parti admissible dont le chef désigne des représentants pour soutenir des candidats à une élection générale sont tenus de produire, avec la déclaration ou le rapport visés au paragraphe (1), une déclaration attestée par le chef du parti comportant le nom de ces représentants.
-> 2000, ch. 9, art. 406; 2014, ch. 12, art. 86.
+- **(2)** Ils sont également tenus de produire, avec la déclaration ou le rapport visés au paragraphe (1), une déclaration, attestée par leur agent principal, comportant le nom des personnes qu’ils autorisent à soutenir des personnes qui désirent se porter candidat à une élection générale.
+> 2000, ch. 9, art. 406; 2014, ch. 12, art. 86; 2015, ch. 37, art. 6.
 
 
 
