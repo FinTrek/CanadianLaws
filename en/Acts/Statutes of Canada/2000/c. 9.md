@@ -1853,8 +1853,12 @@ If the candidate, registered association and registered party do not, as a group
 - **(4)** The witness shall file with the returning officer, together with the nomination paper,
 	- **(a)** a deposit of $1,000;
 	- **(b)** a statement signed by the auditor consenting to act in that capacity; and
-	- **(c)** if applicable, an instrument in writing, signed by the leader of the political party or by a person referred to in subsection 406(2), that states that the prospective candidate is endorsed by the party in accordance with section 68.
-> 2000, c. 9, s. 67; 2001, c. 21, s. 8; 2014, c. 12, s. 27.
+	- **(c)** if applicable, an instrument in writing, signed by the person or persons authorized by the political party to endorse prospective candidates that states that the prospective candidate is endorsed by the party.
+
+**Report**
+
+- **(5)** The chief agent of every political party shall, in writing, no later than 25 days before polling day, report to the Chief Electoral Officer the names of the person or persons who are authorized by the party to endorse prospective candidates.
+> 2000, c. 9, s. 67; 2001, c. 21, s. 8; 2014, c. 12, s. 27; 2015, c. 37, ss. 2, 6.
 
 
 
@@ -7822,14 +7826,14 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 
 - **(1)** The Chief Electoral Officer shall, as soon as feasible after receiving the documents referred to in subsection 477.59(1) for an electoral district, deliver a copy of them to the returning officer for the electoral district.
 
-**Public availability**
+**Endorsement of candidates**
 
-- **(2)** A returning officer who receives documents under subsection (1) shall, on request, make them available for six months for public inspection at any reasonable time. Copies may be obtained for a fee of up to $0.25 per page.
+- **(2)** A registered party and an eligible party shall include with the statement or report referred to in subsection (1) a statement certified by its chief agent that sets out the names of the person or persons who are authorized by the party to endorse prospective candidates at a general election.
 
 **Retention**
 
 - **(3)** A returning officer who receives documents under subsection (1) shall retain them for three years, or any shorter period that the Chief Electoral Officer considers appropriate, after the end of the six-month period mentioned in subsection (2).
-> 2000, c. 9, s. 383; 2014, c. 12, s. 86.
+> 2000, c. 9, s. 383; 2014, c. 12, s. 86; 2015, c. 37, s. 3.
 
 
 
@@ -8468,8 +8472,8 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 
 **Endorsement of candidates**
 
-- **(2)** If the leader of a registered party or eligible party designates representatives to endorse candidates at a general election, the registered party or eligible party shall include with the statement or report referred to in subsection (1) a statement certified by its leader that sets out the names of the designated representatives.
-> 2000, c. 9, s. 406; 2014, c. 12, s. 86.
+- **(2)** A registered party and an eligible party shall include with the statement or report referred to in subsection (1) a statement certified by its chief agent that sets out the names of the person or persons who are authorized by the party to endorse prospective candidates at a general election.
+> 2000, c. 9, s. 406; 2014, c. 12, s. 86; 2015, c. 37, s. 6.
 
 
 
