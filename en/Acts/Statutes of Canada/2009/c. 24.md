@@ -1350,7 +1350,7 @@ In the absence of evidence to the contrary, the certificate or report is proof o
 
 <sup><a href='#fn_Ind27A7_hq_7772'>[*]</a></sup>**72** Section 7, subsections 11(1) and 12(1), sections 13 to 16, 18 to 36, 38 and 56 come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind27A7_hq_7772'><sup>*</sup></a>: [Note: Section 7, subsections 11(1) and 12(1), sections 13 to 16, 18 to 36, 38 and 56 not in force.]<br />
+<a name='fn_Ind27A7_hq_7772'><sup>*</sup></a>: [Note: Section 7, subsections 11(1) and 12(1), sections 13 to 16, 18 to 36, 38 and 56 in force December 1, 2015, *see* SI/2015-14.]<br />
 
 
 
