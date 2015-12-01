@@ -1340,7 +1340,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind35EB_hq_7773'>[*]</a></sup>**72** L’article 7, les paragraphes 11(1) et 12(1) et les articles 13 à 16, 18 à 36, 38 et 56 entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind35EB_hq_7773'><sup>*</sup></a>: [Note : Article 7, paragraphes 11(1) et 12(1), articles 13 à 16, 18 à 36, 38 et 56 non en vigueur.]<br />
+<a name='fn_Ind35EB_hq_7773'><sup>*</sup></a>: [Note : Article 7, paragraphes 11(1) et 12(1), articles 13 à 16, 18 à 36, 38 et 56 en vigueur le 1<sup>er</sup> décembre 2015, *voir* TR/2015-14.]<br />
 
 
 
