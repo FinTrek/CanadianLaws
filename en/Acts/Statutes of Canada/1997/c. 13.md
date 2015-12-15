@@ -1147,17 +1147,44 @@ The following additives are excluded:
 
 
 </td>
-<td>Cigarettes, little cigars and blunt wraps</td>
+<td>**(1)** Cigarettes
+
+**(2)** Cigars that have a wrapper that is not fitted in spiral form, cigars that have tipping paper and little cigars
+
+**(3)** Blunt wraps
+
+</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>The prohibited additives referred to in item 1, excluding those that impart a flavour that is generally attributed to port, wine, rum or whisky</td>
+<td>Cigars that have a wrapper fitted in spiral form and that weigh more than 1.4 g but not more than 6 g, excluding the weight of any mouthpiece or tip, other than those referred to in item 1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Amino acids</td>
-<td>Cigarettes, little cigars and blunt wraps</td>
+<td>**(1)** Cigarettes
+
+**(2)** Little cigars
+
+**(3)** All other cigars, except those that weigh more than 6 g excluding the weight of any mouthpiece or tip, have a wrapper fitted in spiral form and do not have tipping paper
+
+**(4)** Blunt wraps
+
+</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Caffeine</td>
-<td>Cigarettes, little cigars and blunt wraps</td>
+<td>**(1)** Cigarettes
+
+**(2)** Little cigars
+
+**(3)** All other cigars, except those that weigh more than 6 g excluding the weight of any mouthpiece or tip, have a wrapper fitted in spiral form and do not have tipping paper
+
+**(4)** Blunt wraps
+
+</td>
 </tr>
 <tr>
 <td>4</td>
@@ -1166,64 +1193,163 @@ The following additives are excluded:
 </tr>
 <tr>
 <td>4.1</td>
-<td>Colouring agents, excluding those used to whiten plug wrap paper, to render tipping paper brown or bronze or to imitate a cork pattern on tipping paper</td>
-<td>Little cigars</td>
-</tr>
-<tr>
-<td>4.2</td>
 <td>Colouring agents</td>
 <td>Blunt wraps</td>
 </tr>
 <tr>
+<td>4.2</td>
+<td>Colouring agents, excluding those used to render mouthpieces or tips white or bronze</td>
+<td>Cigars, except
+
+**(1)** little cigars
+
+
+
+**(2)** cigars that have tipping paper, and
+
+
+
+**(3)** cigars that weigh more than 6 g excluding the weight of any mouthpiece or tip, have a wrapper fitted in spiral form and do not have tipping paper
+
+
+
+</td>
+</tr>
+<tr>
+<td>4.3</td>
+<td>Colouring agents, excluding those used to whiten plug wrap paper, to render tipping paper brown or bronze, to imitate a cork pattern on tipping paper or to render mouthpieces or tips white or bronze</td>
+<td>Little cigars</td>
+</tr>
+<tr>
+<td>4.4</td>
+<td>Colouring agents, excluding those used to render tipping paper brown or bronze or to render mouthpieces or tips white or bronze</td>
+<td>Cigars that have tipping paper, other than little cigars</td>
+</tr>
+<tr>
 <td>5</td>
 <td>Essential fatty acids</td>
-<td>Cigarettes, little cigars and blunt wraps</td>
+<td>**(1)** Cigarettes
+
+**(2)** Little cigars
+
+**(3)** All other cigars, except those that weigh more than 6 g excluding the weight of any mouthpiece or tip, have a wrapper fitted in spiral form and do not have tipping paper
+
+**(4)** Blunt wraps
+
+</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Fruits, vegetables or any product obtained from the processing of a fruit or vegetable, excluding activated charcoal and starch</td>
-<td>Cigarettes, little cigars and blunt wraps</td>
+<td>**(1)** Cigarettes
+
+**(2)** Little cigars
+
+**(3)** All other cigars, except those that weigh more than 6 g excluding the weight of any mouthpiece or tip, have a wrapper fitted in spiral form and do not have tipping paper
+
+**(4)** Blunt wraps
+
+</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Glucuronolactone</td>
-<td>Cigarettes, little cigars and blunt wraps</td>
+<td>**(1)** Cigarettes
+
+**(2)** Little cigars
+
+**(3)** All other cigars, except those that weigh more than 6 g excluding the weight of any mouthpiece or tip, have a wrapper fitted in spiral form and do not have tipping paper
+
+**(4)** Blunt wraps
+
+</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Probiotics</td>
-<td>Cigarettes, little cigars and blunt wraps</td>
+<td>**(1)** Cigarettes
+
+**(2)** Little cigars
+
+**(3)** All other cigars, except those that weigh more than 6 g excluding the weight of any mouthpiece or tip, have a wrapper fitted in spiral form and do not have tipping paper
+
+**(4)** Blunt wraps
+
+</td>
 </tr>
 <tr>
 <td>9</td>
 <td>Spices, seasonings and herbs</td>
-<td>Cigarettes, little cigars and blunt wraps</td>
+<td>**(1)** Cigarettes
+
+**(2)** Little cigars
+
+**(3)** All other cigars, except those that weigh more than 6 g excluding the weight of any mouthpiece or tip, have a wrapper fitted in spiral form and do not have tipping paper
+
+**(4)** Blunt wraps
+
+</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Sugars and sweeteners, excluding starch</td>
-<td>Cigarettes, little cigars and blunt wraps</td>
+<td>**(1)** Cigarettes
+
+**(2)** Little cigars
+
+**(3)** All other cigars, except those that weigh more than 6 g excluding the weight of any mouthpiece or tip, have a wrapper fitted in spiral form and do not have tipping paper
+
+**(4)** Blunt wraps
+
+</td>
 </tr>
 <tr>
 <td>11</td>
 <td>Taurine</td>
-<td>Cigarettes, little cigars and blunt wraps</td>
+<td>**(1)** Cigarettes
+
+**(2)** Little cigars
+
+**(3)** All other cigars, except those that weigh more than 6 g excluding the weight of any mouthpiece or tip, have a wrapper fitted in spiral form and do not have tipping paper
+
+**(4)** Blunt wraps
+
+</td>
 </tr>
 <tr>
 <td>12</td>
 <td>Vitamins</td>
-<td>Cigarettes, little cigars and blunt wraps</td>
+<td>**(1)** Cigarettes
+
+**(2)** Little cigars
+
+**(3)** All other cigars, except those that weigh more than 6 g excluding the weight of any mouthpiece or tip, have a wrapper fitted in spiral form and do not have tipping paper
+
+**(4)** Blunt wraps
+
+</td>
 </tr>
 <tr>
 <td>13</td>
 <td>Mineral nutrients, excluding those necessary to manufacture the tobacco product</td>
-<td>Cigarettes, little cigars and blunt wraps</td>
+<td>**(1)** Cigarettes
+
+**(2)** Little cigars
+
+**(3)** All other cigars, except those that weigh more than 6 g excluding the weight of any mouthpiece or tip, have a wrapper fitted in spiral form and do not have tipping paper
+
+**(4)** Blunt wraps
+
+</td>
 </tr>
 </table>
 
-**Note:** In column 1, ***FAO*** means Food and Agriculture Organization of the United Nations; ***WHO*** means World Health Organization; ***CAS*** means Chemical Abstracts Service registry number.
+**Note 1:** In column 1, ***FAO*** means Food and Agriculture Organization of the United Nations; ***WHO*** means World Health Organization; ***CAS*** means Chemical Abstracts Service registry number.
 
 
-> 2009, c. 27, s. 17.
+**Note 2:** In column 2, ***wrapper fitted in spiral form*** means a wrapper of a cigar that is fitted with an acute angle of at least 30° to the longitudinal axis of the cigar.
+
+
+> 2009, c. 27, s. 17; SOR/2015-126, ss. 1 to 7.
 
 
