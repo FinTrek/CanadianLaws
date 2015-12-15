@@ -1145,17 +1145,44 @@ Ne sont toutefois pas visés les additifs suivants :
 
 
 </td>
-<td>Cigarettes, petits cigares et feuilles d’enveloppe</td>
+<td>**(1)** Cigarettes
+
+**(2)** Cigares qui sont munis d’une cape non apposée en hélice, cigares avec papier de manchette et petits cigares
+
+**(3)** Feuilles d’enveloppe
+
+</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>Additifs interdits visés à l’article 1, sauf s’ils confèrent un arôme communément attribué au porto, au vin, au rhum ou au whisky</td>
+<td>Cigares qui sont munis d’une cape apposée en hélice et pèsent plus de 1,4 g mais au plus 6 g, sans le poids des embouts, sauf ceux visés à l’article 1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Acides aminés</td>
-<td>Cigarettes, petits cigares et feuilles d’enveloppe</td>
+<td>**(1)** Cigarettes
+
+**(2)** Petits cigares
+
+**(3)** Tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
+
+**(4)** Feuilles d’enveloppe
+
+</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Caféine</td>
-<td>Cigarettes, petits cigares et feuilles d’enveloppe</td>
+<td>**(1)** Cigarettes
+
+**(2)** Petits cigares
+
+**(3)** Tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
+
+**(4)** Feuilles d’enveloppe
+
+</td>
 </tr>
 <tr>
 <td>4</td>
@@ -1164,64 +1191,163 @@ Ne sont toutefois pas visés les additifs suivants :
 </tr>
 <tr>
 <td>4.1</td>
-<td>Agents colorants, sauf ceux utilisés pour blanchir le papier de gainage, pour brunir ou bronzer le papier de manchette ou pour donner à ce dernier l’aspect du liège</td>
-<td>Petits cigares</td>
-</tr>
-<tr>
-<td>4.2</td>
 <td>Agents colorants</td>
 <td>Feuilles d’enveloppe</td>
 </tr>
 <tr>
+<td>4.2</td>
+<td>Agents colorants, sauf ceux utilisés pour blanchir ou bronzer l’embout</td>
+<td>Cigares, sauf les suivants :
+
+**(1)** Petits cigares
+
+
+
+**(2)** Cigares avec papier de manchette
+
+
+
+**(3)** Cigares qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
+
+
+
+</td>
+</tr>
+<tr>
+<td>4.3</td>
+<td>Agents colorants, sauf ceux utilisés pour blanchir le papier de gainage, pour brunir ou bronzer le papier de manchette, pour donner à ce dernier l’aspect du liège ou pour blanchir ou bronzer l’embout</td>
+<td>Petits cigares</td>
+</tr>
+<tr>
+<td>4.4</td>
+<td>Agents colorants, sauf ceux utilisés pour brunir ou bronzer le papier de manchette ou pour blanchir ou bronzer l’embout</td>
+<td>Cigares avec papier de manchette, sauf les petits cigares</td>
+</tr>
+<tr>
 <td>5</td>
 <td>Acides gras essentiels</td>
-<td>Cigarettes, petits cigares et feuilles d’enveloppe</td>
+<td>**(1)** Cigarettes
+
+**(2)** Petits cigares
+
+**(3)** Tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
+
+**(4)** Feuilles d’enveloppe
+
+</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Fruits, légumes et tout produit obtenu par leur transformation, sauf le charbon activé et l’amidon</td>
-<td>Cigarettes, petits cigares et feuilles d’enveloppe</td>
+<td>**(1)** Cigarettes
+
+**(2)** Petits cigares
+
+**(3)** Tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
+
+**(4)** Feuilles d’enveloppe
+
+</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Glucuronolactone</td>
-<td>Cigarettes, petits cigares et feuilles d’enveloppe</td>
+<td>**(1)** Cigarettes
+
+**(2)** Petits cigares
+
+**(3)** Tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
+
+**(4)** Feuilles d’enveloppe
+
+</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Probiotiques</td>
-<td>Cigarettes, petits cigares et feuilles d’enveloppe</td>
+<td>**(1)** Cigarettes
+
+**(2)** Petits cigares
+
+**(3)** Tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
+
+**(4)** Feuilles d’enveloppe
+
+</td>
 </tr>
 <tr>
 <td>9</td>
 <td>Épices, aromates et herbes</td>
-<td>Cigarettes, petits cigares et feuilles d’enveloppe</td>
+<td>**(1)** Cigarettes
+
+**(2)** Petits cigares
+
+**(3)** Tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
+
+**(4)** Feuilles d’enveloppe
+
+</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Sucres et édulcorants, sauf l’amidon</td>
-<td>Cigarettes, petits cigares et feuilles d’enveloppe</td>
+<td>**(1)** Cigarettes
+
+**(2)** Petits cigares
+
+**(3)** Tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
+
+**(4)** Feuilles d’enveloppe
+
+</td>
 </tr>
 <tr>
 <td>11</td>
 <td>Taurine</td>
-<td>Cigarettes, petits cigares et feuilles d’enveloppe</td>
+<td>**(1)** Cigarettes
+
+**(2)** Petits cigares
+
+**(3)** Tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
+
+**(4)** Feuilles d’enveloppe
+
+</td>
 </tr>
 <tr>
 <td>12</td>
 <td>Vitamines</td>
-<td>Cigarettes, petits cigares et feuilles d’enveloppe</td>
+<td>**(1)** Cigarettes
+
+**(2)** Petits cigares
+
+**(3)** Tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
+
+**(4)** Feuilles d’enveloppe
+
+</td>
 </tr>
 <tr>
 <td>13</td>
 <td>Minéraux nutritifs, sauf ceux qui sont nécessaires à la fabrication du produit du tabac</td>
-<td>Cigarettes, petits cigares et feuilles d’enveloppe</td>
+<td>**(1)** Cigarettes
+
+**(2)** Petits cigares
+
+**(3)** Tous les autres cigares, sauf ceux qui pèsent plus de 6 g, sans le poids des embouts, sont munis d’une cape apposée en hélice et n’ont pas de papier de manchette
+
+**(4)** Feuilles d’enveloppe
+
+</td>
 </tr>
 </table>
 
-**Note :** Dans la colonne 1, ***FAO*** renvoie à l’Organisation des Nations Unies pour l’alimentation et l’agriculture, ***OMS*** à l’Organisation mondiale de la Santé et ***CAS*** se rapporte au numéro du service des résumés analytiques de chimie (*Chemical Abstracts Service*).
+**Note 1 :** Dans la colonne 1, ***FAO*** renvoie à l’Organisation des Nations Unies pour l’alimentation et l’agriculture, ***OMS*** à l’Organisation mondiale de la Santé et ***CAS*** se rapporte au numéro du service des résumés analytiques de chimie (*Chemical Abstracts Service*).
 
 
-> 2009, ch. 27, art. 17.
+**Note 2 :** Dans la colonne 2, ***cape apposée en hélice*** s’entend de la cape d’un cigare qui est apposée avec un angle aigu d’au moins 30 degrés par rapport à l’axe longitudinal du cigare.
+
+
+> 2009, ch. 27, art. 17; DORS/2015-126, art. 1 à 7.
 
 
