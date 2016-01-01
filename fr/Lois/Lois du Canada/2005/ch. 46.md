@@ -1960,7 +1960,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 
 - <sup><a href='#P-31.9_s60-2_f'>[*]</a></sup>**(2)** La mention « Office d’investissement du régime de pensions du Canada » figurant à l’annexe 1 entre en vigueur, en conformité avec le paragraphe 114(4) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), à la date fixée par décret.
 
-<a name='P-31.9_s60-2_f'><sup>*</sup></a>: [Note : La mention « Office d’investissement du régime de pensions du Canada » figurant à l’annexe 1 non en vigueur.]<br />
+<a name='P-31.9_s60-2_f'><sup>*</sup></a>: [Note : La mention « Office d’investissement du régime de pensions du Canada » figurant à l’annexe 1 abrogée avant d’entrer en vigueur, *voir* 2008, ch. 20, art. 3.]<br />
 
 
 
@@ -1980,14 +1980,11 @@ Fondation canadienne des relations raciales<br />- <i>Canadian Race Relations Fo
 
 Office d’investissement des régimes de pensions du secteur public<br />- <i>Public Sector Pension Investment Board</i>
 
-
-Office d’investissement du régime de pensions du Canada<br />- <i>Canada Pension Plan Investment Board</i>
-
-
-
 Société Radio-Canada<br />- <i>Canadian Broadcasting Corporation</i>
 
 Téléfilm Canada<br />- <i>Telefilm Canada</i>
+> 2005, ch. 46, ann. 1; 2008, ch. 20, art. 3.
+
 
 
 
