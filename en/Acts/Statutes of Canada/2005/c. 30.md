@@ -692,8 +692,7 @@ Canada Emission Reduction Incentives Agency Act]
 ### Greenhouse Gas Technology Investment Fund Act
 
 
-**96** The [Greenhouse Gas Technology Investment Fund Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2030,%20s.%2096.md) is enacted as follows:
-> [See Greenhouse Gas Technology Investment Fund Act]
+**96** [Repealed before coming into force, 2008, c. 20, s. 3]
 
 
 
@@ -706,7 +705,7 @@ Canada Emission Reduction Incentives Agency Act]
 
 <sup><a href='#B-9.854_e_s97'>[*]</a></sup>**97** This Part comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='B-9.854_e_s97'><sup>*</sup></a>: [Note: Section 96 not in force.]<br />
+<a name='B-9.854_e_s97'><sup>*</sup></a>: [Note: Part 14, other than section 97, repealed before coming into force, *see* 2008, c. 20, s. 3.]<br />
 
 
 
