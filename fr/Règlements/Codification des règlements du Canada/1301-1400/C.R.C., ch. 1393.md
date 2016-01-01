@@ -663,15 +663,15 @@ où :
 
 - **(1)** Sous réserve des paragraphes (2) et (3), la contribution que le contributeur en congé non payé verse au compte de pension de retraite ou à la Caisse de retraite de la Gendarmerie royale du Canada correspond :
 	- **a)** pour les trois premiers mois de la période de congé, à la somme visée au paragraphe (4);
-	- **b)** sous réserve du paragraphe 6.1(2) de la Loi, pour le reliquat de la période de congé, à deux fois et demie cette somme.
+	- **b)** sous réserve du paragraphe 6.1(2) de la Loi, pour le reliquat de la période de congé, à deux fois et demie cette somme pour toute partie antérieure au 1<sup>er</sup> janvier 2016 et à deux fois pour toute partie postérieure au 31 décembre 2015.
 
 - **(2)** La contribution que le contributeur en congé non payé dans l’un des cas ci-après verse au compte de pension de retraite ou à la Caisse de retraite de la Gendarmerie royale du Canada correspond, sous réserve du paragraphe 6.1(2) de la Loi, à la somme visée au paragraphe (4) :
-	- **a)** congé non payé d’une durée d’au plus six jours consécutifs pour laquelle il aurait été rémunéré s’il n’avait pas été en congé;
+	- **a)** [Abrogé, DORS/2015-250, art. 1]
 	- **b)** congé non payé — dont le commissaire est convaincu des raisons — que le contributeur prend, selon le cas :
 		- **(i)** afin de recevoir un entraînement ou une formation dont la Gendarmerie profitera,
-		- **(ii)** en raison d’une maladie ou d’une invalidité qui le rend incapable d’exercer une occupation rémunératrice,
-		- **(iii)** en raison de sa grossesse,
-		- **(iv)** pour des raisons d’ordre personnel, si le congé n’excède pas trois mois et a été approuvé par l’autorité compétente.
+		- **(ii)** en raison d’une déficience physique ou mentale qui l’empêche d’accomplir les tâches de l’emploi qu’il occupait avant de souffrir de la déficience,
+		- **(iii)** en raison de sa grossesse.
+		- **(iv)** [Abrogé, DORS/2015-250, art. 1]
 
 - **(3)** La contribution que le contributeur en congé non payé pour l’une des raisons ci-après verse au compte de pension de retraite ou à la Caisse de retraite de la Gendarmerie royale du Canada à l’égard de toute partie de la période de congé comprise dans la période de cinquante-deux semaines suivant le jour de la naissance ou de l’adoption de l’enfant correspond, sous réserve du paragraphe 6.1(2) de la Loi, à la somme visée au paragraphe (4) :
 	- **a)** naissance de son enfant;
@@ -682,7 +682,7 @@ où :
 	- **a)** à l’égard de la période de congé non payé ou de toute partie de celle-ci qui est postérieure à 1999 mais antérieure au 1<sup>er</sup> janvier 2004, la somme est celle que le contributeur aurait été tenu de payer en application des paragraphes 5(1), (6) ou (7) de la Loi, dans sa version au 31 décembre 2003, s’il n’avait pas été en congé;
 	- **b)** à l’égard de la période de congé non payé ou de toute partie de celle-ci qui est postérieure à 2003 mais antérieure au 1<sup>er</sup> janvier 2013, la somme est celle que le contributeur aurait été tenu de payer en application du paragraphe 5(2) ou de l’alinéa 5(7)b) de la Loi, dans sa version au 31 décembre 2012, s’il n’avait pas été en congé;
 	- **c)** à l’égard de la période de congé non payé ou de toute partie de celle-ci qui est postérieure à 2012, la somme est celle que le contributeur aurait été tenu de payer en application des paragraphes 5(1) ou (2) de la Loi s’il n’avait pas été en congé.
-> DORS/89-354, art. 1; DORS/93-219, art. 2; DORS/95-571, art. 3; DORS/2006-134, art. 4; DORS/2013-125, art. 17, 51(A) et 52(A).
+> DORS/89-354, art. 1; DORS/93-219, art. 2; DORS/95-571, art. 3; DORS/2006-134, art. 4; DORS/2013-125, art. 17, 51(A) et 52(A); DORS/2015-250, art. 1.
 
 
 
@@ -1163,7 +1163,7 @@ où :
 cet enfant sera, nonobstant le paragraphe (1), considéré comme ayant fréquenté à plein temps une école ou une université, à peu près sans interruption, jusqu’au moment où il a cessé d’être un enfant, si, immédiatement après une telle absence,
 	- **c)** dans le cas de celle qui est mentionnée à l’alinéa a), il commence ou continue à fréquenter à plein temps une école ou une université durant cette année scolaire ou, lorsque le Commissaire estime que l’enfant n’est pas en mesure de le faire, il commence ou continue à en fréquenter une durant l’année scolaire suivante; ou
 	- **d)** dans le cas de l’absence mentionnée à l’alinéa b), il commence ou continue à fréquenter à plein temps une école ou une université durant l’année scolaire suivante.
-> DORS/93-219, art. 2; DORS/2013-125, art. 29(A).
+> DORS/93-219, art. 2; DORS/2013-125, art. 29(A); DORS/2015-250, art. 2(A).
 
 
 
@@ -1200,12 +1200,12 @@ cet enfant sera, nonobstant le paragraphe (1), considéré comme ayant fréquent
 
 **20.2** 
 
-- **(1)** La somme mensuelle à payer, au titre de l’article 13 de la Loi, au conjoint survivant ou à l’enfant du contributeur décédé, à l’égard d’une période de service ouvrant droit à pension postérieure au 31 décembre 1991, est réduite de façon à ce que le total de cette somme et des prestations à payer à l’égard de celle-ci en vertu de la partie III de la Loi n’excède pas le montant mensuel maximal des prestations de retraite qui peuvent être versées au bénéficiaire d’un participant, calculé conformément aux alinéas 8503(2)d) à f) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md).
+- **(1)** La somme mensuelle à payer, au titre de l’article 13 de la Loi, au survivant ou à l’enfant du contributeur décédé, à l’égard d’une période de service ouvrant droit à pension postérieure au 31 décembre 1991, est réduite de façon à ce que le total de cette somme et des prestations à payer à l’égard de celle-ci en vertu de la partie III de la Loi n’excède pas le montant mensuel maximal des prestations de retraite qui peuvent être versées au bénéficiaire d’un participant, calculé conformément aux alinéas 8503(2)d) à f) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md).
 
-- **(2)** Le total des sommes mensuelles à payer, au titre de l’article 13 de la Loi, au conjoint survivant et aux enfants du contributeur décédé, à l’égard d’une période de service ouvrant droit à pension postérieure au 31 décembre 1991, est réduit de façon à ce que le total de ces sommes et des prestations à payer à l’égard de celles-ci en vertu de la partie III de la Loi n’excède pas le montant mensuel maximal des prestations de retraite qui peuvent être versées aux bénéficiaires d’un participant, calculé conformément aux alinéas 8503(2)d) ou e) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md).
+- **(2)** Le total des sommes mensuelles à payer, au titre de l’article 13 de la Loi, au survivant et aux enfants du contributeur décédé, à l’égard d’une période de service ouvrant droit à pension postérieure au 31 décembre 1991, est réduit de façon à ce que le total de ces sommes et des prestations à payer à l’égard de celles-ci en vertu de la partie III de la Loi n’excède pas le montant mensuel maximal des prestations de retraite qui peuvent être versées aux bénéficiaires d’un participant, calculé conformément aux alinéas 8503(2)d) ou e) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md).
 
 - **(3)** Les limites prévues aux paragraphes (1) et (2) s’appliquent aux sommes mensuelles à payer à l’égard du contributeur qui est tenu de contribuer à la Caisse de retraite de la Gendarmerie royale du Canada le 15 décembre 1994 ou après cette date et qui décède le 8 février 2002 ou après cette date.
-> DORS/98-531, art. 4; DORS/2013-125, art. 30.
+> DORS/98-531, art. 4; DORS/2013-125, art. 30; DORS/2015-250, art. 3(F).
 
 
 
@@ -1232,24 +1232,7 @@ cet enfant sera, nonobstant le paragraphe (1), considéré comme ayant fréquent
 
 
 
-
-## Pension prévue aux parties II ou III de l’ancienne loi
-
-
-**23** 
-
-- **(1)** Les règles suivantes s’appliquent dans le cas de toute personne décrite à l’alinéa 26m) de la Loi, à qui une pension est payable en vertu des Parties II ou III de l’ancienne Loi :
-	- **a)** si cette personne, n’eût été le paragraphe 5(2) de la Loi, devient ou serait devenue contributeur en vertu de la Partie I de la Loi, tout droit qu’elle peut avoir ou toute réclamation qu’elle peut formuler concernant le paiement de la première pension seront suspendus, en ce qui a trait à la période de son service durant laquelle elle continue ou aurait continué, n’eût été le paragraphe 5(2) de la Loi, d’être contributeur en vertu de la Partie I de la Loi (ci-après désigné comme son «service ouvrant droit à majoration»), mais ce droit ou cette réclamation seront rétablis dans son cas dès qu’elle aura cessé d’être membre de la Gendarmerie;
-	- **b)** les prestations auxquelles, dès qu’elle aura cessé d’être membre de la Gendarmerie, elle sera censée être devenue admissible en vertu de la Partie I de la Loi à l’égard de son service ouvrant droit à majoration sont,
-		- **(i)** dans le cas d’un contributeur dont la période de service ouvrant droit à majoration est inférieure à un an ou qui est mis à la retraite de la Gendarmerie pour inconduite, un remboursement de contributions, et
-		- **(ii)** dans le cas de tout autre contributeur, une rente immédiate calculée selon le paragraphe 10(1) de la Loi, sauf qu’en appliquant ce paragraphe à un contributeur dont la période de service ouvrant droit à majoration est inférieure à six ans, l’alinéa b) de ce paragraphe doit se lire : «b) par la solde annuelle moyenne reçue par le contributeur au cours de la période de service ouvrant droit à pension à son crédit»; et
-	- **c)** lorsqu’une rente ou une allocation annuelle, à laquelle a droit un bénéficiaire aux termes de la Partie I de la Loi à l’égard de tout service ouvrant droit à majoration qu’une personne a accompli, est une rente ou une allocation annuelle dont les versements mensuels seraient moins de 10 $ chacun, le bénéficiaire pourra recevoir, sur sa demande par écrit au ministre dans les trois mois qui suivent la date où il est ainsi devenu admissible, un montant global égal à la valeur capitalisée de la rente ou de l’allocation annuelle calculée conformément à la base établie dans les *Tables a(f) et a(m) Ultimate* avec intérêt au taux de quatre pour cent l’an, lequel montant global tiendra lieu de toute autre prestation prévue à la Partie I de la Loi se rapportant à ce service ouvrant droit à majoration.
-
-- **(2)** Nonobstant le paragraphe (1), toute personne décrite à l’alinéa 26m) de la Loi, à qui une pension est payable en vertu des Parties II ou III de l’ancienne Loi, peut, dans l’année qui précède le moment où elle devient contributeur sous le régime de la Partie I de la Loi, opter pour la renonciation de ses droits à la première pension, après quoi elle sera réputée, aux fins de la Loi, être une personne ayant fait un choix aux termes du paragraphe 18(2) de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md), ch. R-11 des Statuts révisés du Canada de 1970 lors de la renonciation aux droits à la première pension, à tous égards comme si elle était une personne décrite au paragraphe 18(2) de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md), ch. R-11 des Statuts révisés du Canada de 1970, sauf que si, en cessant par la suite d’être membre de la Gendarmerie, elle a droit, en vertu de la Partie I de la Loi, à une rente ou allocation annuelle dont la valeur capitalisée est inférieure à la valeur capitalisée de la première pension, au lieu de tout autre avantage aux termes de la Partie I de la Loi, les droits ou réclamations que, n’eût été le présent paragraphe, elle aurait eus à l’égard de la première pension en cessant subséquemment d’être membre de la Gendarmerie, seront rétablis dans son cas, et il lui sera versé un montant égal à ses contributions, sous le régime de la Partie I de la Loi, effectuées à l’égard de son service ouvrant droit à majoration.
-
-- **(3)** Le paragraphe (1) ne s’applique pas à une personne ou à l’égard d’une personne qui a exercé une option aux termes du paragraphe (2).
-> DORS/93-219, art. 2; DORS/2013-125, art. 50(A).
-
+**23** [Abrogé, DORS/2015-250, art. 4]
 
 
 
