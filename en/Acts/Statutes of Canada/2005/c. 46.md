@@ -1962,7 +1962,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 - <sup><a href='#P-31.9_e_s60_2'>[*]</a></sup>**(2)** The reference to the “Canada Pension Plan Investment Board” in Schedule 1 comes into force, in accordance with subsection 114(4) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), on a day to be fixed by order of the Governor in Council .
 
-<a name='P-31.9_e_s60_2'><sup>*</sup></a>: [Note: The reference to the “Canada Pension Plan Investment Board” in Schedule 1 not in force.]<br />
+<a name='P-31.9_e_s60_2'><sup>*</sup></a>: [Note: The reference to the “Canada Pension Plan Investment Board” in Schedule 1 repealed before coming into force, *see* 2008, c. 20, s. 3.]<br />
 
 
 
@@ -1973,11 +1973,6 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 Bank of Canada<br />- <i>Banque du Canada</i>
 
 Canada Council for the Arts<br />- <i>Conseil des Arts du Canada</i>
-
-
-Canada Pension Plan Investment Board<br />- <i>Office d’investissement du régime de pensions du Canada</i>
-
-
 
 Canadian Broadcasting Corporation<br />- <i>Société Radio-Canada</i>
 
@@ -1990,6 +1985,8 @@ National Arts Centre Corporation<br />- <i>Corporation du Centre national des Ar
 Public Sector Pension Investment Board<br />- <i>Office d’investissement des régimes de pensions du secteur public</i>
 
 Telefilm Canada<br />- <i>Téléfilm Canada</i>
+> 2005, c. 46, Sch. 1; 2008, c. 20, s. 3.
+
 
 
 
