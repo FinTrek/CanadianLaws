@@ -7475,6 +7475,10 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 	- **(c)** $1,500 in total to a candidate for a particular election who is not the candidate of a registered party; and
 	- **(d)** $1,500 in total in any calendar year to the leadership contestants in a particular leadership contest.
 
+**Increase to contribution limits**
+
+- **(1.1)** The contribution limits set out in subsection (1) increase by $25 on January 1 in each year.
+
 **Testamentary dispositions**
 
 - **(2)** A contribution may be made by way of a testamentary disposition if the contribution is made only in one calendar year and does not cause the contributor to exceed the relevant limit under subsection (1), taking into account any contributions that the contributor made before their death.
