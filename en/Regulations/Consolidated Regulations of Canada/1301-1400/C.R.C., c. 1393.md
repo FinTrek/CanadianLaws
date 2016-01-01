@@ -647,15 +647,15 @@ where
 
 - **(1)** Subject to subsections (2) and (3), the contribution that a contributor who is on leave of absence without pay shall pay to the Superannuation Account or the Royal Canadian Mounted Police Pension Fund is
 	- **(a)** in respect of the first three months of the leave, the amount referred to in subsection (4); and
-	- **(b)** subject to subsection 6.1(2) of the Act and in respect of the remainder of the leave, two and one-half times that amount.
+	- **(b)** subject to subsection 6.1(2) of the Act, in respect of the remainder of the leave, two and one-half times that amount in respect of any portion of that remainder that is before January 1, 2016 and two times that amount in respect of any portion of that remainder that is after December 31, 2015.
 
 - **(2)** Subject to subsection 6.1(2) of the Act, where a contributor is absent from the Force on leave of absence without pay
-	- **(a)** for a period not exceeding six consecutive days in respect of which the contributor would have received pay had the contributor not been absent, or
+	- **(a)** [Repealed, SOR/2015-250, s. 1]
 	- **(b)** where the Commissioner is satisfied that the contributor is absent
 		- **(i)** in order to undergo training or instruction to the advantage of the Force,
-		- **(ii)** because of illness or disability that renders the contributor unfit to pursue any gainful employment,
-		- **(iii)** because of the pregnancy of the contributor, or
-		- **(iv)** because of personal needs, where the leave of absence without pay is for a period not exceeding three months and has been approved by the appropriate authority,
+		- **(ii)** because of a physical or mental impairment that prevents the contributor from performing the duties of the employment in which they were engaged before the commencement of the impairment, or
+		- **(iii)** because of the pregnancy of the contributor,
+		- **(iv)** [Repealed, SOR/2015-250, s. 1]
 the contribution that the contributor shall pay to the Superannuation Account or the Royal Canadian Mounted Police Pension Fund is the amount referred to in subsection (4).
 
 - **(3)** Subject to subsection 6.1(2) of the Act, where a contributor is absent from the Force on leave of absence without pay
@@ -668,7 +668,7 @@ the contribution that the contributor shall pay into the Superannuation Account 
 	- **(a)** if the period of leave of absence without pay or any portion of it was after 1999 but before January 1, 2004, the amount in respect of that period or portion is the amount that would have been payable under subsection 5(1), (6) or (7) of the Act as it read on December 31, 2003, if the contributor had not been on leave;
 	- **(b)** if the period of leave of absence without pay or any portion of it was after 2003 but before January 1, 2013, the amount in respect of that period or portion is the amount that would have been payable under subsection 5(2) or paragraph 5(7)(b) of the Act, as it read on December 31, 2012, if the contributor had not been on leave; and
 	- **(c)** if the period of leave of absence without pay or any portion of it was after 2012, the amount in respect of that period or portion is the amount that would have been payable under subsection 5(1) or (2) of the Act, if the contributor had not been on leave.
-> SOR/89-354, s. 1; SOR/93-219, s. 2; SOR/95-571, s. 3; SOR/2006-134, s. 4; SOR/2013-125, ss. 17, 51(E), 52(E).
+> SOR/89-354, s. 1; SOR/93-219, s. 2; SOR/95-571, s. 3; SOR/2006-134, s. 4; SOR/2013-125, ss. 17, 51(E), 52(E); SOR/2015-250, s. 1.
 
 
 
@@ -1139,11 +1139,11 @@ where
 		- **(iii)** where it is determined by the Commissioner that the child cannot comply with subparagraph (ii), if the child begins or resumes such full-time attendance in the academic year following the year mentioned in subparagraph (i); and
 	- **(b)** during an absence occurring in an academic year by reason of illness or any other cause that the Commissioner considers reasonable, if immediately after such absence the child begins or resumes full-time attendance at a school or university in that academic year or where it is determined by the Commissioner that the child is unable to do so, if the child begins or resumes such full-time attendance in the next ensuing academic year.
 
-- **(2)** Where a child’s absence by reason of illness commences after the child has begun an academic year and it is determined by the Commissioner, on evidence satisfactory to him, that by reason of such illness it is not possible for the child to resume full-time attendance at a school or university, that child shall, notwithstanding paragraph (1)(b) be deemed to have been in full-time attendance substantially without interruption at a school or university until the end of that academic year.
+- **(2)** Where a child’s absence by reason of illness commences after the child has begun an academic year and it is determined by the Commissioner, on evidence satisfactory to him or her, that by reason of such illness it is not possible for the child to resume full-time attendance at a school or university, that child shall, notwithstanding paragraph (1)(b) be deemed to have been in full-time attendance substantially without interruption at a school or university until the end of that academic year.
 
 - **(3)** Where the death of a child occurred while the child was absent from school or university by reason of illness or any other cause that the Commissioner considers reasonable, that child shall, notwithstanding subsection (1), be deemed to have been in full-time attendance substantially without interruption at a school or university
-	- **(a)** until his death, where it occurred during the academic year in which his absence commenced; or
-	- **(b)** until the end of the academic year in which his absence commenced, where his death occurred after that academic year.
+	- **(a)** until their death, where it occurred during the academic year in which their absence commenced; or
+	- **(b)** until the end of the academic year in which their absence commenced, where their death occurred after that academic year.
 
 - **(4)** Where a child ceases to be a child as defined in subsection 13(4) of the Act, while the child is absent
 	- **(a)** during an academic year by reason of illness or any other cause that the Commissioner considers reasonable, or
@@ -1151,7 +1151,7 @@ where
 that child shall, notwithstanding subsection (1), be deemed to have been in full-time attendance at a school or university substantially without interruption until the child ceased to be a child if, immediately after such absence,
 	- **(c)** in the case of an absence referred to in paragraph (a), the child begins or resumes such full-time attendance at a school or university in that academic year or where it is determined by the Commissioner that that child is unable to do so, the child begins or resumes such full-time attendance in the next ensuing academic year; or
 	- **(d)** in the case of an absence referred to in paragraph (b), the child begins or resumes such full-time attendance at a school or university in the next ensuing academic year.
-> SOR/93-219, s. 2; SOR/2013-125, s. 29(E).
+> SOR/93-219, s. 2; SOR/2013-125, s. 29(E); SOR/2015-250, s. 2(E).
 
 
 
@@ -1193,7 +1193,7 @@ that child shall, notwithstanding subsection (1), be deemed to have been in full
 - **(2)** The aggregate of monthly amounts payable to the survivor and children of a deceased contributor under section 13 of the Act in respect of pensionable service occurring after December 31, 1991 shall be reduced so that the aggregate of those amounts and the benefits payable under Part III of the Act in respect of those amounts does not exceed the maximum monthly amount of retirement benefits that may be paid to the beneficiaries of a member, determined under paragraph 8503(2)(d) or (e) of the [Income Tax Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/901-1000/C.R.C.,%20c.%20945.md).
 
 - **(3)** The limits set out in subsections (1) and (2) apply to the monthly amounts payable in respect of a contributor who is required to contribute to the Royal Canadian Mounted Police Pension Fund on or after December 15, 1994 and who dies after February 7, 2002.
-> SOR/98-531, s. 4; SOR/2013-125, s. 30.
+> SOR/98-531, s. 4; SOR/2013-125, s. 30; SOR/2015-250, s. 3(F).
 
 
 
@@ -1220,24 +1220,7 @@ that child shall, notwithstanding subsection (1), be deemed to have been in full
 
 
 
-
-## Pension Under Part II or III of Former Act
-
-
-**23** 
-
-- **(1)** The following rules are applicable in respect of any person described in paragraph 26(m) of the Act to whom a pension under Part II or III of the former Act is payable:
-	- **(a)** if the contributor becomes or would have become, but for subsection 4(2) of the Act, a contributor under Part I of the Act, whatever right or claim the contributor may have to payment of the original pension shall, in respect of the period of his service during which the contributor continues or would have continued, but for subsection 5(2) of the Act, to be a contributor under Part I of the Act (hereinafter referred to as his “augmenting service”), be suspended, but shall be restored to the contributor upon subsequently ceasing to be a member of the Force;
-	- **(b)** the benefit to which, upon subsequently ceasing to be a member of the Force, the contributor shall be deemed to have become entitled under Part I of the Act in respect of his augmenting service is
-		- **(i)** in the case of a contributor whose augmenting service is less than one year or who is retired from the Force by reason of misconduct, a return of contributions, and
-		- **(ii)** in the case of any other contributor, an immediate annuity computed in accordance with subsection 10(1) of the Act, except that in applying that subsection to a contributor whose augmenting service is less than six years, paragraph (b) of that subsection shall be read as follows: “(b) the average annual pay received by the contributor during the period of pensionable service to his credit”; and
-	- **(c)** where an annuity or annual allowance to which a recipient is entitled under Part I of the Act in respect of any augmenting service of a person is an annuity or annual allowance the monthly instalments of which would amount to less than $10 each, there may be paid to the recipient upon request by the contributor in writing to the Minister within three months from the time the contributor became so entitled, a lump sum payment equal to the capitalized value of the annuity or annual allowance computed in accordance with the basis set out in the a(f) and a(m) Ultimate Tables together with interest at the rate of four per cent per annum, which lump sum payment shall be in lieu of any other benefit under Part I of the Act in respect of that augmenting service.
-
-- **(2)** Notwithstanding subsection (1), any person described in paragraph 26(m) of the Act to whom a pension under Part II or III of the former Act is payable may, within one year of becoming a contributor under Part I of the Act, elect to surrender the original pension, whereupon the contributor shall be deemed, for the purposes of the Act, to be a person by whom an election under subsection 18(2) of the [Royal Canadian Mounted Police Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-11.md), c. R-11 of the Revised Statutes of Canada, 1970 was made at the time of the surrender of the original pension, in all respects as though the contributor were a person described in subsection 18(2) of the [Royal Canadian Mounted Police Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-11.md), c. R-11 of the Revised Statutes of Canada, 1970, except that if, upon subsequently ceasing to be a member of the Force, the contributor is entitled under Part I of the Act to an annuity or annual allowance the capitalized value of which is less than the capitalized value of the original pension, in lieu of any other benefit under Part I of the Act whatever right or claim that, but for this subsection, the contributor would have had to the original pension upon subsequently ceasing to be a member of the Force shall thereupon be restored to the contributor, and there shall be paid to the contributor an amount equal to his contributions under Part I of the Act made in respect of his augmenting service.
-
-- **(3)** Subsection (1) does not apply to or in respect of any person by whom an election under subsection (2) is made.
-> SOR/93-219, s. 2; SOR/2013-125, s. 50(E).
-
+**23** [Repealed, SOR/2015-250, s. 4]
 
 
 
