@@ -7425,6 +7425,10 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 	- **c)** 1 500 $, au total, au candidat qui n’est pas le candidat d’un parti enregistré pour une élection donnée;
 	- **d)** 1 500 $, au total, à l’ensemble des candidats à la direction pour une course à la direction donnée au cours d’une année civile.
 
+**Majoration**
+
+- **(1.1)** Les plafonds établis au titre du paragraphe (1) sont majorés de 25 $ le 1<sup>er</sup> janvier de chaque année.
+
 **Disposition testamentaire**
 
 - **(2)** Des contributions peuvent être apportées par disposition testamentaire si elles ne sont apportées qu’au cours d’une année civile et si elles respectent les plafonds établis au titre du paragraphe (1) en tenant compte des contributions apportées par le testateur avant son décès.
