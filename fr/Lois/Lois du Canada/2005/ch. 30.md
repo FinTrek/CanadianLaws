@@ -690,8 +690,7 @@ Loi sur l’Agence canadienne pour l’incitation à la réduction des émission
 ### Loi sur le Fonds d’investissement technologique pour la lutte aux gaz à effet de serre
 
 
-**96** Est édictée la [Loi sur le Fonds d’investissement technologique pour la lutte aux gaz à effet de serre](/fr/Lois/Lois%20du%20Canada/2005/ch.%2030,%20art.%2096.md), dont le texte suit :
-> [Voir la Loi sur le Fonds d’investissement technologique pour la lutte aux gaz à effet de serre]
+**96** [Abrogé avant d’entrer en vigueur, 2008, ch. 20, art. 3]
 
 
 
@@ -704,7 +703,7 @@ Loi sur l’Agence canadienne pour l’incitation à la réduction des émission
 
 <sup><a href='#B-9.854_f_s97'>[*]</a></sup>**97** La présente partie entre en vigueur à la date fixée par décret.
 
-<a name='B-9.854_f_s97'><sup>*</sup></a>: [Note : Article 96 non en vigueur.]<br />
+<a name='B-9.854_f_s97'><sup>*</sup></a>: [Note : Partie 14, à l’exception de l’article 97, abrogée avant d’entrer en vigueur, *voir* 2008, ch. 20, art. 3.]<br />
 
 
 
