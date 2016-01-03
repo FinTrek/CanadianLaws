@@ -773,7 +773,7 @@ the benefit period is extended so that those benefits may be paid up to that max
 	- **(a)** because of pregnancy is 15;
 	- **(b)** because the claimant is caring for one or more new-born children of the claimant or one or more children placed with the claimant for the purpose of adoption is 35;
 	- **(c)** because of a prescribed illness, injury or quarantine is 15;
-	- **(d)** because the claimant is providing care or support to one or more family members described in subsection 23.1(2), is six; and
+	- **(d)** because the claimant is providing care or support to one or more family members described in subsection 23.1(2) is 26; and
 	- **(e)** because the claimant is providing care or support to one or more critically ill children described in subsection 23.2(1), is 35.
 
 **Maximum — special benefits**
@@ -788,7 +788,7 @@ the benefit period is extended so that those benefits may be paid up to that max
 
 **Maximum — compassionate care benefits**
 
-- **(4.1)** Even if more than one claim is made under this Act, at least one of which is made under section 23.1 — or even if more than one certificate is issued for the purposes of this Act, at least one of which is issued for the purposes of section 23.1 — for the same reason and in respect of the same family member, the maximum number of weeks of benefits payable under this Act in respect of that family member is six weeks during the period of 26 weeks that begins on the first day of the week referred to in paragraph 23.1(4)(a).
+- **(4.1)** Even if more than one claim is made under this Act, at least one of which is made under section 23.1 — or even if more than one certificate is issued for the purposes of this Act, at least one of which is issued for the purposes of section 23.1 — for the same reason and in respect of the same family member, the maximum number of weeks of benefits payable under this Act in respect of that family member is 26 weeks during the period of 52 weeks that begins on the first day of the week referred to in paragraph 23.1(4)(a).
 
 **Shorter period**
 
@@ -819,7 +819,7 @@ the benefit period is extended so that those benefits may be paid up to that max
 **Adoption**
 
 - **(8)** For the purposes of this section, the placement with a major attachment claimant, at the same or substantially the same time, of two or more children for the purpose of adoption is a single placement of a child or children for the purpose of adoption.
-> 1996, c. 23, s. 12; 2000, c. 14, s. 3; 2002, c. 9, s. 13; 2003, c. 15, s. 17; 2009, c. 30, s. 2, c. 33, s. 6; 2012, c. 27, s. 14.
+> 1996, c. 23, s. 12; 2000, c. 14, s. 3; 2002, c. 9, s. 13; 2003, c. 15, s. 17; 2009, c. 30, s. 2, c. 33, s. 6; 2012, c. 27, s. 14; 2015, c. 36, s. 74.
 
 
 
@@ -1186,7 +1186,11 @@ the period referred to in subsection (2) is extended so that benefits may be pai
 	- **(b)** that ends on the last day of the week in which any of the following occurs, namely,
 		- **(i)** all benefits payable under this section in respect of the family member are exhausted,
 		- **(ii)** the family member dies, or
-		- **(iii)** the expiration of 26 weeks following the first day of the week referred to in paragraph (a).
+		- **(iii)** the period of 52 weeks following the first day of the week referred to in paragraph (a) ends.
+
+**Certificate not necessary**
+
+- **(4.1)** For greater certainty, but subject to subsections (4) and 50(8.1), for benefits under this section to be payable after the end of the period of 26 weeks set out in paragraph (2)(a), it is not necessary for a medical doctor to issue an additional certificate under subsection (2).
 
 **Shorter period**
 
@@ -1210,11 +1214,11 @@ the period referred to in subsection (2) is extended so that benefits may be pai
 
 **Division of weeks of benefits**
 
-- **(8)** If a claimant makes a claim for benefits under this section and another claimant makes a claim for benefits under this section or section 152.06 in respect of the same family member, any remaining weeks of benefits payable under this section, under section 152.06 or under both those sections, up to a maximum of six weeks, may be divided in the manner agreed to by those claimants.
+- **(8)** If a claimant makes a claim for benefits under this section and another claimant makes a claim for benefits under this section or section 152.06 in respect of the same family member, any remaining weeks of benefits payable under this section, under section 152.06 or under both those sections, up to a maximum of 26 weeks, may be divided in the manner agreed to by those claimants.
 
 **Maximum number of weeks that can be divided**
 
-- **(8.1)** For greater certainty, if, in respect of the same family member, a claimant makes a claim for benefits under this section and another claimant makes a claim for benefits under section 152.06, the total number of weeks of benefits payable under this section and section 152.06 that may be divided between them may not exceed six weeks.
+- **(8.1)** For greater certainty, if, in respect of the same family member, a claimant makes a claim for benefits under this section and another claimant makes a claim for benefits under section 152.06, the total number of weeks of benefits payable under this section and section 152.06 that may be divided between them may not exceed 26 weeks.
 
 **Failure to agree**
 
@@ -1223,7 +1227,7 @@ the period referred to in subsection (2) is extended so that benefits may be pai
 **Limitation**
 
 - **(10)** When benefits are payable to a claimant for the reasons set out in this section and any allowances, money or other benefits are payable to the claimant under a provincial law for the same or substantially the same reasons, the benefits payable to the claimant under this section shall be reduced or eliminated as prescribed.
-> 2003, c. 15, s. 19; 2009, c. 33, s. 8.
+> 2003, c. 15, s. 19; 2009, c. 33, s. 8; 2015, c. 36, s. 75.
 
 
 
@@ -1906,6 +1910,10 @@ the period referred to in subsection (2) is extended so that benefits may be pai
 
 - **(8)** For the purpose of proving that a claimant is available for work and unable to obtain suitable employment, the Commission may require the claimant to prove that the claimant is making reasonable and customary efforts to obtain suitable employment.
 
+**Proof — additional certificate**
+
+- **(8.1)** For the purpose of proving that the conditions of subsection 23.1(2) or 152.06(1) are met, the Commission may require the claimant to provide it with an additional certificate issued by a medical doctor.
+
 **Mailing address**
 
 - **(9)** A claimant shall provide the mailing address of their normal place of residence, unless otherwise permitted by the Commission.
@@ -1913,6 +1921,8 @@ the period referred to in subsection (2) is extended so that benefits may be pai
 **Waiver or variation of requirements**
 
 - **(10)** The Commission may waive or vary any of the conditions and requirements of this section or the regulations whenever in its opinion the circumstances warrant the waiver or variation for the benefit of a claimant or a class or group of claimants.
+> 1996, c. 23, s. 50; 2015, c. 36, s. 76.
+
 
 
 
@@ -4627,7 +4637,11 @@ However, individuals to whom regulations made under Part VIII apply, and individ
 	- **(b)** that ends on the last day of the week in which any of the following occurs, namely,
 		- **(i)** all benefits payable under this section in respect of the family member are exhausted,
 		- **(ii)** the family member dies, or
-		- **(iii)** the expiry of 26 weeks following the first day of the week referred to in paragraph (a).
+		- **(iii)** the period of 52 weeks following the first day of the week referred to in paragraph (a) ends.
+
+**Certificate not necessary**
+
+- **(3.1)** For greater certainty, but subject to subsections (3) and 50(8.1), for benefits under this section to be payable after the end of the period of 26 weeks set out in paragraph (1)(a), it is not necessary for a medical doctor to issue an additional certificate under subsection (1).
 
 **Shorter period**
 
@@ -4651,16 +4665,16 @@ However, individuals to whom regulations made under Part VIII apply, and individ
 
 **Division of weeks of benefits**
 
-- **(7)** If a self-employed person makes a claim for benefits under this section and another person makes a claim for benefits under this section or section 23.1 in respect of the same family member, any remaining weeks of benefits payable under this section, under section 23.1 or under both those sections, up to a maximum of six weeks, may be divided in the manner agreed to by the self-employed person and the other person. If they cannot agree, the weeks of benefits are to be divided in accordance with the prescribed rules.
+- **(7)** If a self-employed person makes a claim for benefits under this section and another person makes a claim for benefits under this section or section 23.1 in respect of the same family member, any remaining weeks of benefits payable under this section, under section 23.1 or under both those sections, up to a maximum of 26 weeks, may be divided in the manner agreed to by the self-employed person and the other person. If they cannot agree, the weeks of benefits are to be divided in accordance with the prescribed rules.
 
 **Maximum number of weeks that can be divided**
 
-- **(8)** For greater certainty, if, in respect of the same family member, a self-employed person makes a claim for benefits under this section and another person makes a claim for benefits under section 23.1, the total number of weeks of benefits payable under this section and section 23.1 that may be divided between them may not exceed six weeks.
+- **(8)** For greater certainty, if, in respect of the same family member, a self-employed person makes a claim for benefits under this section and another person makes a claim for benefits under section 23.1, the total number of weeks of benefits payable under this section and section 23.1 that may be divided between them may not exceed 26 weeks.
 
 **Limitation**
 
 - **(9)** If benefits are payable to a self-employed person for the reasons set out in this section and any allowances, money or other benefits are payable to the person under a provincial law for the same or substantially the same reasons, the benefits payable to the person under this section shall be reduced or eliminated as prescribed.
-> 2009, c. 33, s. 16.
+> 2009, c. 33, s. 16; 2015, c. 36, s. 77.
 
 
 
@@ -4987,7 +5001,7 @@ and
 	- **(a)** because of pregnancy is 15;
 	- **(b)** because the self-employed person is caring for one or more new-born children of the self-employed person, or one or more children placed with the self-employed person for the purpose of adoption, is 35;
 	- **(c)** because of a prescribed illness, injury or quarantine is 15;
-	- **(d)** because the person is providing care or support to one or more family members described in subsection 152.06(1), is 6; and
+	- **(d)** because the person is providing care or support to one or more family members described in subsection 152.06(1) is 26; and
 	- **(e)** because the self-employed person is providing care or support to one or more critically ill children described in subsection 152.061(1), is 35.
 
 **Maximum — single pregnancy or placement**
@@ -5006,7 +5020,7 @@ and
 
 **Maximum — compassionate care benefits**
 
-- **(5)** Even if more than one claim is made under this Act, at least one of which is made under section 152.06 — or even if more than one certificate is issued for the purposes of this Act, at least one of which is issued for the purposes of section 152.06 — for the same reason and in respect of the same family member, the maximum number of weeks of benefits payable under this Act in respect of that family member is six weeks during the period of 26 weeks that begins on the first day of the week referred to in paragraph 152.06(3)(a).
+- **(5)** Even if more than one claim is made under this Act, at least one of which is made under section 152.06 — or even if more than one certificate is issued for the purposes of this Act, at least one of which is issued for the purposes of section 152.06 — for the same reason and in respect of the same family member, the maximum number of weeks of benefits payable under this Act in respect of that family member is 26 weeks during the period of 52 weeks that begins on the first day of the week referred to in paragraph 152.06(3)(a).
 
 **Maximum — critically ill child**
 
@@ -5027,7 +5041,7 @@ and
 **Combined weeks of benefits**
 
 - **(8)** In a self-employed person’s benefit period, the self-employed person may, subject to the applicable maximums, combine weeks of benefits to which they are entitled because of a reason mentioned in subsection (1), but the maximum number of combined weeks is 50. However, if the benefit period is extended under subsection 152.11(14), the maximum number of combined weeks equals the maximum number of weeks in the benefit period calculated under subsection 152.11(16) less two weeks.
-> 2009, c. 33, s. 16; 2012, c. 27, s. 25.
+> 2009, c. 33, s. 16; 2012, c. 27, s. 25; 2015, c. 36, s. 78.
 
 
 
