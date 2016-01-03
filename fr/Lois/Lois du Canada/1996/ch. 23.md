@@ -753,7 +753,7 @@ plus de 13 %
 	- **a)** dans le cas d’une grossesse, quinze semaines;
 	- **b)** dans le cas de soins à donner à un ou plusieurs nouveau-nés du prestataire ou à un ou plusieurs enfants placés chez le prestataire en vue de leur adoption, 35 semaines;
 	- **c)** dans le cas d’une maladie, d’une blessure ou d’une mise en quarantaine prévue par règlement, quinze semaines;
-	- **d)** dans le cas de soins ou de soutien à donner à un ou plusieurs membres de la famille visés au paragraphe 23.1(2), six semaines;
+	- **d)** dans le cas de soins ou de soutien à donner à un ou plusieurs membres de la famille visés au paragraphe 23.1(2), vingt-six semaines;
 	- **e)** dans le cas de soins ou de soutien à donner à un ou plusieurs enfants gravement malades visés au paragraphe 23.2(1), trente-cinq semaines.
 
 **Prestations spéciales**
@@ -764,9 +764,9 @@ plus de 13 %
 
 - **(4.01)** Si une demande de prestations est présentée au titre de la présente partie relativement à un ou plusieurs enfants visés au paragraphe (4) et une demande de prestations est présentée au titre de l’article 152.05 relativement au même enfant ou aux mêmes enfants, les prestations prévues par la présente loi relativement à celui-ci ou à ceux-ci ne peuvent être versées pendant plus de trente-cinq semaines.
 
-**Maximum : prestations de soignant**
+**Maximum : prestations de soignant**
 
-- **(4.1)** Même si plus d’une demande de prestations est présentée au titre de la présente loi, dont au moins une l’est au titre de l’article 23.1 — ou plus d’un certificat est délivré pour l’application de la présente loi, dont au moins un l’est pour l’application de l’article 23.1 — pour la même raison et relativement au même membre de la famille, les prestations prévues par la présente loi relativement à celui-ci ne peuvent être versées pendant plus de six semaines au cours de la période de vingt-six semaines qui commence au début de la semaine visée à l’alinéa 23.1(4)a).
+- **(4.1)** Même si plus d’une demande de prestations est présentée au titre de la présente loi, dont au moins une l’est au titre de l’article 23.1 — ou plus d’un certificat est délivré pour l’application de la présente loi, dont au moins un l’est pour l’application de l’article 23.1 — pour la même raison et relativement au même membre de la famille, les prestations prévues par la présente loi relativement à celui-ci ne peuvent être versées pendant plus de vingt-six semaines au cours de la période de cinquante-deux semaines qui commence au début de la semaine visée à l’alinéa 23.1(4)a).
 
 **Période plus courte**
 
@@ -797,7 +797,7 @@ plus de 13 %
 **Adoption**
 
 - **(8)** Pour l’application du présent article, le placement auprès d’un prestataire de la première catégorie, au même moment ou presque au même moment, de deux enfants ou plus en vue de leur adoption est considéré comme un seul placement d’un ou plusieurs enfants en vue de leur adoption.
-> 1996, ch. 23, art. 12; 2000, ch. 14, art. 3; 2002, ch. 9, art. 13; 2003, ch. 15, art. 17; 2009, ch. 30, art. 2, ch. 33, art. 6; 2012, ch. 27, art. 14.
+> 1996, ch. 23, art. 12; 2000, ch. 14, art. 3; 2002, ch. 9, art. 13; 2003, ch. 15, art. 17; 2009, ch. 30, art. 2, ch. 33, art. 6; 2012, ch. 27, art. 14; 2015, ch. 36, art. 74.
 
 
 
@@ -1153,7 +1153,11 @@ plus de 13 %
 	- **b)** qui se termine à la fin de la semaine au cours de laquelle un des événements suivants se produit :
 		- **(i)** les dernières prestations qui peuvent être versées relativement au membre de la famille aux termes du présent article sont versées,
 		- **(ii)** le membre de la famille décède,
-		- **(iii)** la période de vingt-six semaines qui suit le début de la semaine visée à l’alinéa a) prend fin.
+		- **(iii)** la période de cinquante-deux semaines qui suit le début de la semaine visée à l’alinéa a) prend fin.
+
+**Certificat non nécessaire**
+
+- **(4.1)** Sous réserve des paragraphes (4) et 50(8.1), il est entendu que les prestations prévues au présent article peuvent être payées après l’expiration de la période de vingt-six semaines prévue à l’alinéa (2)a) sans que ne soit délivré un autre certificat au titre du paragraphe (2).
 
 **Période plus courte**
 
@@ -1177,11 +1181,11 @@ plus de 13 %
 
 **Partage des semaines de prestation**
 
-- **(8)** Si un prestataire présente une demande de prestations au titre du présent article et qu’un autre prestataire présente une demande de prestations au titre du présent article ou de l’article 152.06 relativement au même membre de la famille, les semaines de prestations à payer au titre du présent article, de l’article 152.06 ou de ces deux articles qu’il reste à verser peuvent être partagées conformément à l’entente conclue entre eux, jusqu’à concurrence d’un maximum de six semaines.
+- **(8)** Si un prestataire présente une demande de prestations au titre du présent article et qu’un autre prestataire présente une demande de prestations au titre du présent article ou de l’article 152.06 relativement au même membre de la famille, les semaines de prestations à payer au titre du présent article, de l’article 152.06 ou de ces deux articles qu’il reste à verser peuvent être partagées conformément à l’entente conclue entre eux, jusqu’à concurrence d’un maximum de vingt-six semaines.
 
 **Nombre maximal de semaines pouvant être partagées**
 
-- **(8.1)** Il est entendu que dans le cas où un prestataire présente une demande de prestations au titre du présent article et où un autre prestataire présente une demande de prestations au titre de l’article 152.06 relativement au même membre de la famille, le nombre total de semaines de prestations à payer au titre du présent article et de l’article 152.06 qui peuvent être partagées entre eux ne peut dépasser six semaines.
+- **(8.1)** Il est entendu que dans le cas où un prestataire présente une demande de prestations au titre du présent article et où un autre prestataire présente une demande de prestations au titre de l’article 152.06 relativement au même membre de la famille, le nombre total de semaines de prestations à payer au titre du présent article et de l’article 152.06 qui peuvent être partagées entre eux ne peut dépasser vingt-six semaines.
 
 **Absence d’entente**
 
@@ -1190,7 +1194,7 @@ plus de 13 %
 **Restrictions**
 
 - **(10)** Si des prestations sont payables à un prestataire pour les raisons visées au présent article et que des allocations, des prestations ou autres sommes lui sont payables en vertu d’une loi provinciale pour des raisons qui sont les mêmes ou essentiellement les mêmes, les prestations qui lui sont payables en vertu du présent article sont réduites ou supprimées de la manière prévue par règlement.
-> 2003, ch. 15, art. 19; 2009, ch. 33, art. 8.
+> 2003, ch. 15, art. 19; 2009, ch. 33, art. 8; 2015, ch. 36, art. 75.
 
 
 
@@ -1861,6 +1865,10 @@ plus de 13 %
 
 - **(8)** Pour obtenir d’un prestataire la preuve de sa disponibilité pour le travail et de son incapacité d’obtenir un emploi convenable, la Commission peut exiger qu’il prouve qu’il fait des démarches habituelles et raisonnables pour trouver un emploi convenable.
 
+**Preuve : autre certificat**
+
+- **(8.1)** Pour obtenir d’un prestataire la preuve que les conditions prévues au paragraphe 23.1(2) ou 152.06(1) sont remplies, la Commission peut exiger du prestataire qu’il lui fournisse un autre certificat délivré par un médecin.
+
 **Adresse postale**
 
 - **(9)** Tout prestataire est tenu, sauf autorisation contraire de la Commission, de fournir l’adresse postale de sa résidence habituelle.
@@ -1868,6 +1876,8 @@ plus de 13 %
 **Suspension ou modification des exigences**
 
 - **(10)** La Commission peut suspendre ou modifier les conditions ou exigences du présent article ou des règlements chaque fois que, à son avis, les circonstances le justifient pour le bien du prestataire ou un groupe ou une catégorie de prestataires.
+> 1996, ch. 23, art. 50; 2015, ch. 36, art. 76.
+
 
 
 
@@ -4498,7 +4508,11 @@ Est exclu de la présente définition tout particulier visé par les règlements
 	- **b)** qui se termine à la fin de la semaine au cours de laquelle l’un des événements suivants se produit :
 		- **(i)** les dernières prestations qui peuvent être versées relativement au membre de la famille aux termes du présent article sont versées,
 		- **(ii)** le membre de la famille décède,
-		- **(iii)** la période de vingt-six semaines qui suit le début de la semaine visée à l’alinéa a) prend fin.
+		- **(iii)** la période de cinquante-deux semaines qui suit le début de la semaine visée à l’alinéa a) prend fin.
+
+**Certificat non nécessaire**
+
+- **(3.1)** Sous réserve des paragraphes (3) et 50(8.1), il est entendu que les prestations prévues au présent article peuvent être payées après l’expiration de la période de vingt-six semaines prévue à l’alinéa (1)a) sans que ne soit délivré un autre certificat au titre du paragraphe (1).
 
 **Période plus courte**
 
@@ -4522,16 +4536,16 @@ Est exclu de la présente définition tout particulier visé par les règlements
 
 **Partage des semaines de prestations**
 
-- **(7)** Si un travailleur indépendant présente une demande de prestations au titre du présent article et qu’une autre personne présente une demande de prestations au titre du présent article ou de l’article 23.1 relativement au même membre de la famille, les semaines de prestations à payer au titre du présent article, de l’article 23.1 ou de ces deux articles qu’il reste à verser peuvent être partagées conformément à l’entente conclue entre le travailleur indépendant et l’autre personne, jusqu’à concurrence d’un maximum de six semaines. S’ils n’arrivent pas à s’entendre, le partage des semaines de prestations à payer doit être effectué conformément aux règles prévues par règlement.
+- **(7)** Si un travailleur indépendant présente une demande de prestations au titre du présent article et qu’une autre personne présente une demande de prestations au titre du présent article ou de l’article 23.1 relativement au même membre de la famille, les semaines de prestations à payer au titre du présent article, de l’article 23.1 ou de ces deux articles qu’il reste à verser peuvent être partagées conformément à l’entente conclue entre le travailleur indépendant et l’autre personne, jusqu’à concurrence d’un maximum de vingt-six semaines. S’ils n’arrivent pas à s’entendre, le partage des semaines de prestations à payer doit être effectué conformément aux règles prévues par règlement.
 
 **Nombre maximal de semaines pouvant être partagées**
 
-- **(8)** Il est entendu que dans le cas où un travailleur indépendant présente une demande de prestations au titre du présent article et où une autre personne présente une demande de prestations au titre de l’article 23.1 relativement au même membre de la famille, le nombre total de semaines de prestations à payer au titre du présent article et de l’article 23.1 qui peuvent être partagées entre eux ne peut dépasser six semaines.
+- **(8)** Il est entendu que dans le cas où un travailleur indépendant présente une demande de prestations au titre du présent article et où une autre personne présente une demande de prestations au titre de l’article 23.1 relativement au même membre de la famille, le nombre total de semaines de prestations à payer au titre du présent article et de l’article 23.1 qui peuvent être partagées entre eux ne peut dépasser vingt-six semaines.
 
 **Restrictions**
 
 - **(9)** Si des prestations doivent être payées à un travailleur indépendant pour les raisons visées au présent article et que des allocations, des prestations ou autres sommes doivent lui être payées au titre d’une loi provinciale pour des raisons qui sont les mêmes ou essentiellement les mêmes, les prestations à payer au titre du présent article sont réduites ou supprimées de la manière prévue par règlement.
-> 2009, ch. 33, art. 16.
+> 2009, ch. 33, art. 16; 2015, ch. 36, art. 77.
 
 
 
@@ -4854,7 +4868,7 @@ Est exclu de la présente définition tout particulier visé par les règlements
 	- **a)** dans le cas d’une grossesse, quinze semaines;
 	- **b)** dans le cas de soins à donner par le travailleur indépendant à son ou ses nouveau-nés ou à un ou plusieurs enfants placés chez celui-ci en vue de leur adoption, trente-cinq semaines;
 	- **c)** dans le cas d’une maladie, d’une blessure ou d’une mise en quarantaine prévue par règlement, quinze semaines;
-	- **d)** dans le cas de soins ou de soutien à donner à un ou plusieurs membres de la famille visés au paragraphe 152.06(1), six semaines;
+	- **d)** dans le cas de soins ou de soutien à donner à un ou plusieurs membres de la famille visés au paragraphe 152.06(1), vingt-six semaines;
 	- **e)** dans le cas de soins ou de soutien à donner à un ou plusieurs enfants gravement malades visés au paragraphe 152.061(1), trente-cinq semaines.
 
 **Maximum : cas d’une seule et même grossesse ou du placement de l’enfant**
@@ -4871,9 +4885,9 @@ Est exclu de la présente définition tout particulier visé par les règlements
 
 - **(4)** Si une demande de prestations est présentée au titre de la présente partie relativement à un ou plusieurs enfants visés au paragraphe (2)b) et une demande de prestations est présentée au titre de l’article 23 relativement au même enfant ou aux mêmes enfants, les prestations prévues par la présente loi relativement à celui-ci ou à ceux-ci ne peuvent être versées pendant plus de trente-cinq semaines.
 
-**Maximum : prestations de soignant**
+**Maximum : prestations de soignant**
 
-- **(5)** Même si plus d’une demande de prestations est présentée au titre de la présente loi, dont au moins une l’est au titre de l’article 152.06 — ou plus d’un certificat est délivré pour l’application de la présente loi, dont au moins un l’est pour l’application de l’article 152.06 — pour la même raison et relativement au même membre de la famille, les prestations prévues par la présente loi relativement à celui-ci ne peuvent être versées pendant plus de six semaines au cours de la période de vingt-six semaines qui commence au début de la semaine visée à l’alinéa 152.06(3)a).
+- **(5)** Même si plus d’une demande de prestations est présentée au titre de la présente loi, dont au moins une l’est au titre de l’article 152.06 — ou plus d’un certificat est délivré pour l’application de la présente loi, dont au moins un l’est pour l’application de l’article 152.06 — pour la même raison et relativement au même membre de la famille, les prestations prévues par la présente loi relativement à celui-ci ne peuvent être versées pendant plus de vingt-six semaines au cours de la période de cinquante-deux semaines qui commence au début de la semaine visée à l’alinéa 152.06(3)a).
 
 **Maximum : un enfant gravement malade**
 
@@ -4894,7 +4908,7 @@ Est exclu de la présente définition tout particulier visé par les règlements
 **Cumul des raisons particulières**
 
 - **(8)** Sous réserve des maximums applicables dans chaque cas, des prestations peuvent être versées pour plus d’une des raisons prévues au paragraphe (1). Toutefois, le nombre maximal de semaines de prestations pour lesquelles elles peuvent être versées au titre de ce paragraphe ne peut dépasser cinquante ou, si la période de prestations est prolongée au titre du paragraphe 152.11(14), le nombre maximal de semaines de la période de prestations calculé conformément au paragraphe 152.11(16) moins deux semaines.
-> 2009, ch. 33, art. 16; 2012, ch. 27, art. 25.
+> 2009, ch. 33, art. 16; 2012, ch. 27, art. 25; 2015, ch. 36, art. 78.
 
 
 
