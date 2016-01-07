@@ -622,6 +622,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **2** Micmacs of Gesgapegiag
 - **3** English River First Nation
 - **4** Bunibonibee Cree Nation
-> 2014, c. 5, Sch.; SOR/2015-136, s. 1; SOR/2015-149, s. 1; SOR/2015-208, s. 1; SOR/2015-218, s. 1.
+- **5** George Gordon First Nation
+- **6** Red Pheasant First Nation
+- **7** Pabineau First Nation
+> 2014, c. 5, Sch.; SOR/2015-136, s. 1; SOR/2015-149, s. 1; SOR/2015-208, s. 1; SOR/2015-218, s. 1; SOR/2016-2, s. 1.
 
 
