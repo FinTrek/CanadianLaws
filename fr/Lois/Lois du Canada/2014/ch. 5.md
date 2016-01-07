@@ -620,6 +620,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **2** Micmacs of Gesgapegiag
 - **3** English River First Nation
 - **4** Bunibonibee Cree Nation
-> 2014, ch. 5, ann.; DORS/2015-136, art. 1; DORS/2015-149, art. 1; DORS/2015-208, art. 1; DORS/2015-218, art. 1.
+- **5** Première nation George Gordon First Nation
+- **6** Première nation Red Pheasant First Nation
+- **7** Première nation Pabineau First Nation
+> 2014, ch. 5, ann.; DORS/2015-136, art. 1; DORS/2015-149, art. 1; DORS/2015-208, art. 1; DORS/2015-218, art. 1; DORS/2016-2, art. 1.
 
 
