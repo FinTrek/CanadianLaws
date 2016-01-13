@@ -1803,7 +1803,8 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **(21)** 3,4,5-trimethoxyamphetamine (3,4,5-trimethoxy-α-methylbenzene­ethanamine)
 - **20** Flunitrazepam (5-(o-fluorophenyl)-1,3-dihydro-1-methyl-7-nitro-2H-1,4-benzodiazepin-2-one) and any of its salts or derivatives
 - **21** 4-hydroxybutanoic acid (GHB) and any of its salts
-> 1996, c. 19, Sch. I; SOR/97-230, ss. 1 to 6; SOR/99-371, ss. 1, 2; SOR/99-421, s. 1(E); SOR/2005-235, s. 1; SOR/2005-271, 337; 2012, c. 1, s. 44; SOR/2012-176.
+- **22** Tapentadol (3-[(1R,2R)-3-(dimethylamino)-1-ethyl-2-methylpropyl]-phenol), its salts, derivatives and isomers and salts of derivatives and isomers
+> 1996, c. 19, Sch. I; SOR/97-230, ss. 1 to 6; SOR/99-371, ss. 1, 2; SOR/99-421, s. 1(E); SOR/2005-235, s. 1; SOR/2005-271, 337; 2012, c. 1, s. 44; SOR/2012-176; SOR/2015-190.
 
 
 
