@@ -1554,6 +1554,7 @@ qui précise le nom et la quantité du stupéfiant demandé.
 - mais non compris :
 - **(8)** graines de cannabis stériles — à l’exception des dérivés de ces graines
 - **(9)** tige de cannabis mature — à l’exception des branches, des feuilles, des fleurs et des graines — ainsi que les fibres obtenues de cette tige
+- **18** Tapentadol (3-[(1R,2R)-3-(diméthylamino)-1-éthyl-2-méthylpropyl]-phénol), ses sels, dérivés et isomères, ainsi que les sels de ses dérivés et isomères
 - **18** Agonistes de synthèse des récepteurs cannabinoïdes de type 1, leurs sels, leurs dérivés et leurs isomères ainsi que les sels de leurs dérivés et isomères — à l’exclusion de ((3S)-2,3-dihydro-5-méthyl-3-(4-morpholinylméthyl)pyrrolo[1,2,3-de]-1,4-benzoxazin-6-yl)-1-naphthalènyl-méthanone (WIN 55,212-3) et ses sels —, notamment ceux qui entrent dans les catégories de structure chimique de base suivantes :
 - **(1)** toute substance ayant une structure 2-(cyclohexyl)phénol substituée en position 1 du cycle benzénique par un groupe hydroxy, éther ou ester et substituée davantage en position 5 du cycle benzénique, qu’il y ait ou non davantage de substitution sur ce cycle dans quelque mesure que ce soit, et substituée en position 3’ du cycle cyclohexyle par un alkyle, un carbonyle, un hydroxyle, un éther ou un ester, qu’il y ait ou non davantage de substitution sur ce cycle dans quelque mesure que ce soit, notamment :
 - **(i)** nabilone ((±)-trans-3-(1,1-diméthylheptyl)-6,6a,7,8,10,10a-hexahydro-1-hydroxy-6,6-diméthyl-9H-dibenzo[b,d]pyran-9-one)
@@ -1600,6 +1601,6 @@ qui précise le nom et la quantité du stupéfiant demandé.
 - **(9)** toute substance ayant une structure 3-carboxamideindole substituée à l’atome d’azote du cycle indole, qu’il y ait ou non davantage de substitution sur ce cycle dans quelque mesure que ce soit et qu’il y ait ou non substitution au groupe carboxamide dans quelque mesure que ce soit, notamment :
 - **(i)** N-(adamantan-1-yl)-1-fluoropentylindole-3-carboxamide (STS-135)
 - **(ii)** N-(adamantan-1-yl)-1-pentylindole-3-carboxamide (APICA)
-> DORS/97-227, art. 5; DORS/98-158, art. 1; DORS/99-372, art. 1 et 2; DORS/2000-244, art. 1(A); DORS/2003-33, art. 1; DORS/2005-272, art. 1; DORS/2013-172, art. 9; DORS/2015-191, art. 1 et 2.
+> DORS/97-227, art. 5; DORS/98-158, art. 1; DORS/99-372, art. 1 et 2; DORS/2000-244, art. 1(A); DORS/2003-33, art. 1; DORS/2005-272, art. 1; DORS/2013-172, art. 9; DORS/2015-189, art. 1; DORS/2015-191, art. 1 et 2.
 
 
