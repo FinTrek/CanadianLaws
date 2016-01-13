@@ -1768,7 +1768,8 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **(21)** triméthoxy-3,4,5 amphétamine (triméthoxy-3,4,5 α-méthylbenzèneéthanamine)
 - **20** Flunitrazépam ((o-fluorophényl)-5 dihydro-1,3 méthyl-1 nitro-7 2H-benzodiazépine-1,4 one-2) ainsi que ses sels et dérivés
 - **21** Acide hydroxy-4 butanoïque et ses sels
-> 1996, ch. 19, ann. I; DORS/97-230, art. 1 à 6; DORS/99-371, art. 1 et 2; DORS/99-421, art. 1(A); DORS/2005-235, art. 1; DORS/2005-271, 337; 2012, ch. 1, art. 44; DORS/2012-176.
+- **22** Tapentadol (3-[(1R,2R)-3-(diméthylamino)-1-éthyl-2-méthylpropyl]-phénol), ses sels, dérivés et isomères, ainsi que les sels de ses dérivés et isomères
+> 1996, ch. 19, ann. I; DORS/97-230, art. 1 à 6; DORS/99-371, art. 1 et 2; DORS/99-421, art. 1(A); DORS/2005-235, art. 1; DORS/2005-271, 337; 2012, ch. 1, art. 44; DORS/2012-176; DORS/2015-190.
 
 
 
