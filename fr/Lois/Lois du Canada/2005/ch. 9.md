@@ -2271,12 +2271,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Bande indienne Adams Lake
 - Première nation Aitchelitz
 - Première nation ?Akisq’nuk
+- Première Nation Algonquins de Pikwakanagan
+- Anishnaabeg de Naongashiing
 - Atikameksheng Anishnawbek
 - Première Nation Bear River
 - Nation crie Beaver Lake
 - Beecher Bay
 - Première Nation Behdzi Ahda″
 - Berens River
+- Nation crie Bigstone
 - Bingwi Neyaashi Anishinaabek
 - Première Nation Black River
 - Nation Brokenhead Ojibway
@@ -2287,6 +2290,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première nation Chawathil
 - Cheam
 - Première nation Chippewas de Georgina Island
+- Première Nation Chippewas de Rama
 - Première Nation Chippewas of Kettle and Stony Point
 - Première Nation Chippewas of the Thames
 - Bande indienne Coldwater
@@ -2298,7 +2302,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Ebb and Flow
 - Ehattesaht
 - Première nation Elsipogtog
+- Nation crie Enoch #440
 - Fisher River
+- Première Nation Flying Dust
+- Fort William
 - Gamblers
 - Première Nation George Gordon
 - Première Nation Gitga’at
@@ -2308,9 +2315,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première Nation Halalt
 - Heiltsuk
 - Première nation Indian Island
+- Innue Essipit
 - Bande des Innus de Pessamit
 - Première nation Kahkewistahaw
 - Kanaka Bar
+- Première Nation The Key
 - Kingfisher
 - Première nation Kitselas
 - Première nation K’ómoks
@@ -2321,6 +2330,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Lax Kw’alaams
 - Première nation Leq’á:mel
 - Lheidli T’enneh
+- Nation Lhtako Dene
+- Little Saskatchewan
 - Première Nation Long Plain
 - Bande indienne Lower Kootenay
 - Bande indienne Lower Nicola
@@ -2337,6 +2348,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Mistawasis
 - Mohawks of Akwesasne
 - Mohawks of the Bay of Quinte
+- Moosomin
 - Bande indienne Moricetown
 - Mosquito, Grizzly Bear’s Head, Lean Man First Nations
 - Mount Currie
@@ -2347,11 +2359,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Bande Nadleh Whut’en
 - Nak’azdli
 - Première nation Nanoose
+- Première Nation Nazko
 - Bande indienne Neskonlith
 - Première Nation Nipissing
 - Nation crie Norway House
 - Obashkaandagaang
 - Ochapowace
+- O’Chiese
 - Nation crie Onion Lake
 - Oromocto
 - Bande indienne Osoyoos
@@ -2361,9 +2375,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Bande indienne Penticton
 - Nation crie Peter Ballantyne
 - Peters
+- Pheasant Rump Nakota
 - Pic Mobert
 - Première Nation Pictou Landing
 - Première nation Popkum
+- Quatsino
 - Première Nation Red Sucker Lake
 - Première Nation Rolling River
 - Première Nation Saik’uz
@@ -2398,6 +2414,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - St. Theresa Point
 - Stz’uminus First Nation
 - Première nation Sumas
+- Sweetgrass
 - Première Nation Taku River Tlingit
 - Première nation Thunderchild
 - Première Nation Timiskaming
@@ -2417,6 +2434,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Bande indienne Upper Nicola
 - Wahgoshig
 - Première Nation Wasauksing
+- Première Nation Waywayseecappo Traité 4-1874
 - Première Nation Wet’suwet’en
 - Nation We Wai Kai
 - Bande indienne Whispering Pines/Clinton
@@ -2424,8 +2442,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première Nation Whitecap Dakota
 - Williams Lake
 - Wunnumin
+- Xaxli’p
 - Première nation Yakweakwioose
 - Bande Yellow Quill
-> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176; DORS/2014-77, 208; DORS/2015-52, 94.
+> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176; DORS/2014-77, 208; DORS/2015-52, 94; DORS/2016-8.
 
 
