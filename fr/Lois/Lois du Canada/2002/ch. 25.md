@@ -656,6 +656,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Norvège
 - Nouvelle-Zélande
 - Panama
+- République centrafricaine
 - République démocratique du Congo
 - République du Congo
 - Russie
@@ -673,6 +674,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Union européenne
 - Vietnam
 - Zimbabwe
-> 2002, ch. 25, ann.; DORS/2003-16, 25, 166, 335; DORS/2004-194; DORS/2006-177; DORS/2009-107; DORS/2013-156; DORS/2014-313.
+> 2002, ch. 25, ann.; DORS/2003-16, 25, 166, 335; DORS/2004-194; DORS/2006-177; DORS/2009-107; DORS/2013-156; DORS/2014-313; DORS/2016-6.
 
 
