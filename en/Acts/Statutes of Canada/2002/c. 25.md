@@ -630,6 +630,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - Cambodia
 - Cameroon
 - Canada
+- Central African Republic
 - China
 - Democratic Republic of the Congo
 - European Union
@@ -673,6 +674,6 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - United States of America
 - Vietnam
 - Zimbabwe
-> 2002, c. 25, Sch.; SOR/2003-16, 25, 166, 335; SOR/2004-194; SOR/2006-177; SOR/2009-107; SOR/2013-156; SOR/2014-313.
+> 2002, c. 25, Sch.; SOR/2003-16, 25, 166, 335; SOR/2004-194; SOR/2006-177; SOR/2009-107; SOR/2013-156; SOR/2014-313; SOR/2016-6.
 
 
