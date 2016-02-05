@@ -2068,6 +2068,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **21** Phosphore blanc
 - **22** Acide hydrophosphoreux et ses sels et dérivés
 - **23** Acide hydriodique
+- **24** Alpha-phénylacétoacétonitrile, ses sels, isomères et sels d’isomères
 
 
 
@@ -2105,7 +2106,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **1** Toute préparation ou tout mélange qui contient l’un des précurseurs visés à la partie 1, à l’exception des articles 20 à 23, ou à la partie 2.
 
 
-> 1996, ch. 19, ann. VI; DORS/2002-361, art. 2; DORS/2005-364, art. 1, 2, 3(F) et 4.
+> 1996, ch. 19, ann. VI; DORS/2002-361, art. 2; DORS/2005-364, art. 1, 2, 3(F) et 4; DORS/2016-13.
 
 
 
