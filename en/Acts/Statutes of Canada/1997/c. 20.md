@@ -39,16 +39,16 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The definitions in this subsection apply in this Act.
 
-***administrator*** means one of the following organizations, if it has the power to sue and be sued in its own name: 
+***administrator*** means one of the following organizations, if it has the power to sue and be sued in its own name: 
 - **(a)** an organization of producers that is involved in marketing an agricultural product to which Part I applies;
 - **(b)** an organization, other than a lender, that the Minister, taking into account any criteria prescribed by regulation, determines to be an organization that represents producers who produce, in an area, a significant portion of an agricultural product to which Part I applies; or
-- **(c)** an organization, including a lender, that the Minister determines to be an organization that would be able to make advances more accessible to producers and that the Minister designates as an administrator.
+- **(c)** an organization, including a lender, that the Minister determines to be an organization that would be able to make advances more accessible to producers and that the Minister designates as an administrator. (*agent d’exécution*)
 
-***advance*** means an advance payment to an eligible producer for an agricultural product.
+***advance*** means an advance payment to an eligible producer for an agricultural product. (*avance*)
 
-***advance guarantee agreement*** means an agreement under section 5.
+***advance guarantee agreement*** means an agreement under section 5. (*accord de garantie d’avance*)
 
-***agricultural product*** means an animal or a plant or a product, including any food or drink, that is wholly or partly derived from an animal or a plant.
+***agricultural product*** means an animal or a plant or a product, including any food or drink, that is wholly or partly derived from an animal or a plant. (*produit agricole*)
 
 ***Board***[Repealed, 2011, c. 25, s. 16]
 
@@ -58,39 +58,41 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***crop year***[Repealed, 2006, c. 3, s. 1]
 
-***Her Majesty*** means Her Majesty in right of Canada.
+***Her Majesty*** means Her Majesty in right of Canada. (*Sa Majesté*)
 
-***lender*** means a financial institution, as defined in section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md), or any other legal entity that the Minister of Finance may designate for the purposes of this Act on the application of that entity.
+***lender*** means a financial institution, as defined in section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md), or any other legal entity that the Minister of Finance may designate for the purposes of this Act on the application of that entity. (*prêteur*)
 
-***livestock*** means cattle, sheep, swine and bison and any other animals that may be designated by regulation.
+***livestock*** means cattle, sheep, swine and bison and any other animals that may be designated by regulation. (*bétail*)
 
-***marketing agency*** means
+***marketing agency*** means
 - **(a)** an association of producers whose object is the marketing, under a cooperative plan, of agricultural products produced by the producers;
 - **(b)** a person engaged in the processing of agricultural products for marketing under a cooperative plan; or
-- **(c)** a person authorized by one or more associations or persons mentioned in paragraphs (a) and (b) to market agricultural products under a single cooperative plan.
+- **(c)** a person authorized by one or more associations or persons mentioned in paragraphs (a) and (b) to market agricultural products under a single cooperative plan. (*agence de commercialisation*)
 - **(d)** [Repealed, 2011, c. 25, s. 16]
 
-***Minister*** means the Minister of Agriculture and Agri-Food.
+***Minister*** means the Minister of Agriculture and Agri-Food. (*ministre*)
 
 ***permit book***[Repealed, 2011, c. 25, s. 16]
 
-***price guarantee agreement*** means an agreement under section 28.
+***price guarantee agreement*** means an agreement under section 28. (*accord de garantie des prix*)
 
-***producer*** means a producer of an agricultural product who is
+***producer*** means a producer of an agricultural product who is
 - **(a)** a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md);
-- **(b)** a corporation a majority of whose voting shares are held by Canadian citizens or permanent residents;
+- **(b)** a corporation that is controlled by one or more of the persons or entities referred to in paragraphs (a), (c) and (d);
 - **(c)** a cooperative a majority of whose members are Canadian citizens or permanent residents; or
-- **(d)** a partnership or other association of persons where partners or members who are Canadian citizens or permanent residents are entitled to at least 50% of the profits of the partnership or association.
+- **(d)** a partnership or other association of persons where partners or members who are Canadian citizens or permanent residents are entitled to at least 50% of the profits of the partnership or association. (*producteur*)
 
-***production period***, in respect of an agricultural product, means the period of up to 18 months — or any longer period that is fixed by the Minister — specified in the advance guarantee agreement relating to the agricultural product.
+***production period***, in respect of an agricultural product, means the period of up to 18 months — or any longer period that is fixed by the Minister — specified in the advance guarantee agreement relating to the agricultural product. (*campagne agricole*)
 
-***production unit***, in respect of an agricultural product, means the production unit specified in the advance guarantee agreement relating to the agricultural product.
+***production unit***, in respect of an agricultural product, means the production unit specified in the advance guarantee agreement relating to the agricultural product. (*unité de production*)
 
-***program year***, in respect of an advance, means the period that is specified in the advance guarantee agreement and the repayment agreement that relates to the advance.
+***program year***, in respect of an advance, means the period that is specified in the advance guarantee agreement and the repayment agreement that relates to the advance. (*année de programme*)
 
-***repayment agreement*** means an agreement under subsection 10(2).
+***repayment agreement*** means an agreement under subsection 10(2). (*accord de remboursement*)
 
-- **(2)** [Repealed, 2006, c. 3, s. 1]
+**Interpretation**
+
+- **(2)** For the purpose of paragraph (b) of the definition ***producer*** in subsection (1), a corporation is controlled by a person or entity if the corporation is controlled in any manner that results in control in fact, whether directly through the ownership of voting shares or indirectly through a trustee or other person who administers the property of another, a legal representative, an agent or mandatary or other intermediary acting as nominee or otherwise, a trust, a contract, the ownership of a corporation or otherwise.
 > 1997, c. 20, s. 2; 1998, c. 17, s. 30; 2001, c. 27, s. 203; 2006, c. 3, s. 1; 2008, c. 7, s. 1; 2011, c. 25, s. 16; 2015, c. 2, s. 120.
 
 
@@ -193,9 +195,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(b)** to withhold amounts as provided in subparagraph 10(2)(a)(i) in cases where the administrator is the buyer;
 	- **(c)** to make the advances from money borrowed from a lender;
 	- **(d)** to ensure that the interest rate on the money borrowed by the administrator will not exceed the rate specified in the advance guarantee agreement;
-	- **(e)** to take steps, in accordance with the terms and conditions of the advance guarantee agreement, to ensure that, before an advance is made,
-		- **(i)** in the case of an agricultural product that is storable, it is of marketable quality and stored so as to remain of marketable quality until disposed of in accordance with the repayment agreement or, if that agricultural product is in the course of being produced, or is not yet produced, the amount of the advance is covered by a program listed in the schedule and amounts that may be received under that program are assignable,
-		- **(ii)** in the case of an agricultural product that is not storable, it is of marketable quality and maintained so as to remain of marketable quality until disposed of in accordance with the repayment agreement, the amount of the advance is covered by a program listed in the schedule and amounts that may be received under that program are assignable or, if that agricultural product is in the course of being produced, or is not yet produced, the amount of the advance is covered by a program listed in the schedule and amounts that may be received under that program are assignable, and
+	- **(e)** to take steps, in accordance with the advance guarantee agreement, to ensure that, before an advance is made
+		- **(i)** in the case of an agricultural product that is storable,
+			- **(A)** it is of marketable quality and stored so as to remain of marketable quality until disposed of in accordance with the repayment agreement, or
+			- **(B)** if it is in the course of being produced or is not yet produced, either the amount of the advance is covered by a program listed in the schedule and the amounts that may be received under that program are assignable or the amount of the advance is covered by the security referred to in section 12,
+		- **(ii)** in the case of an agricultural product that is not storable,
+			- **(A)** it is of marketable quality and maintained so as to remain of marketable quality until disposed of in accordance with the repayment agreement and either the amount of the advance is covered by a program listed in the schedule and the amounts that may be received under that program are assignable or the amount of the advance is covered by the security referred to in section 12, or
+			- **(B)** if it is in the course of being produced or is not yet produced, either the amount of the advance is covered by a program listed in the schedule and the amounts that may be received under that program are assignable or the amount of the advance is covered by the security referred to in section 12, and
 		- **(iii)** despite subparagraphs (i) and (ii), in the case of an agricultural product that is livestock, it is of marketable quality and maintained so as to remain of marketable quality until disposed of in accordance with the repayment agreement;
 	- **(f)** to repay the money it borrows from the lender, together with the interest, by paying to the lender, within the period specified in the advance guarantee agreement, the amounts the administrator receives as repayment of advances;
 	- **(g)** [Repealed, 2015, c. 2, s. 124]
@@ -327,11 +333,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Attribution**
 
-- **(2)** The amounts advanced to related producers are attributable to the producer as follows:
-	- **(a)** if the related producer is an individual, the attributable percentage is 100%;
-	- **(b)** if the related producer is a corporation, the attributable percentage is the percentage of the voting shares that the producer holds in the related producer;
-	- **(c)** if the related producer is a cooperative, the attributable percentage is the percentage prescribed by the regulations; and
-	- **(d)** if the producer and the related producer are partners or members of the same partnership or other association of persons, the attributable percentage is the percentage of the profits of the partnership or association to which the producer is entitled.
+- **(2)** If a producer is related to another producer, the amounts received by, or attributed to, the other producer are attributable to the producer in accordance with the percentage or method of calculation set out in the regulations.
 
 **Interest on emergency advances**
 
@@ -368,9 +370,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(f.1)** the producer must demonstrate to the administrator that they are capable of meeting their obligations under the repayment agreement and that they are meeting all of their obligations under any other repayment agreement;
 	- **(g)** the producer must not have given the agricultural product, or any amount to be received under a program listed in the schedule, as security ranking in priority to the security created by section 12;
 	- **(h)** the producer must demonstrate that
-		- **(i)** in the case of an agricultural product that is storable, it is of marketable quality and stored so as to remain of marketable quality until disposed of or, if that agricultural product is in the course of being produced, or is not yet produced, the amount of the advance is covered by a program listed in the schedule and amounts that may be received under that program are assignable,
-		- **(ii)** in the case of an agricultural product that is not storable, it is of marketable quality and maintained so as to remain of marketable quality until disposed of, the amount of the advance is covered by a program listed in the schedule and amounts that may be received under that program are assignable or, if that agricultural product is in the course of being produced, or is not yet produced, the amount of the advance is covered by a program listed in the schedule and amounts that may be received under that program are assignable, and
-		- **(iii)** despite subparagraphs (i) and (ii), in the case of an agricultural product that is livestock, it is of marketable quality and maintained so as to remain of marketable quality until disposed of; and
+		- **(i)** in the case of an agricultural product that is storable,
+			- **(A)** it is of marketable quality and stored so as to remain of marketable quality until disposed of in accordance with the repayment agreement, or
+			- **(B)** if it is in the course of being produced or is not yet produced, either the amount of the advance is covered by a program listed in the schedule and the amounts that may be received under that program are assignable or the amount of the advance is covered by the security referred to in section 12,
+		- **(ii)** in the case of an agricultural product that is not storable,
+			- **(A)** it is of marketable quality and maintained so as to remain of marketable quality until disposed of in accordance with the repayment agreement and either the amount of the advance is covered by a program listed in the schedule and the amounts that may be received under that program are assignable or the amount of the advance is covered by the security referred to in section 12, or
+			- **(B)** if it is in the course of being produced or is not yet produced, either the amount of the advance is covered by a program listed in the schedule and the amounts that may be received under that program are assignable or the amount of the advance is covered by the security referred to in section 12, and
+		- **(iii)** despite subparagraphs (i) and (ii), in the case of an agricultural product that is livestock, it is of marketable quality and maintained so as to remain of marketable quality until disposed of in accordance with the repayment agreement; and
 	- **(i)** the producer must meet any additional requirements prescribed by regulation.
 
 **Sharing security**
@@ -390,9 +396,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 		- **(vii)** by paying the administrator using a combination of the means described in subparagraphs (i) to (vi);
 	- **(a.1)** if the repayment agreement is in respect of an agricultural product designated by the Minister in the advance guarantee agreement, or an agricultural product in a class of agricultural products that is so designated, to repay the amount of the advance with respect to that agricultural product, with or without proof that it has been sold, before the expiry of the production period for which the advance was made;
 	- **(b)** to ensure that
-		- **(i)** in the case of an agricultural product that is storable, it will be stored so as to remain of marketable quality until disposed of in accordance with the repayment agreement or, if that agricultural product is in the course of being produced, or is not yet produced, the amount of the advance is covered by a program listed in the schedule and amounts that may be received under that program are assignable,
-		- **(ii)** in the case of an agricultural product that is not storable, it will be maintained so as to remain of marketable quality until disposed of in accordance with the repayment agreement, the amount of the advance is covered by a program listed in the schedule and amounts that may be received under that program are assignable or, if that agricultural product is in the course of being produced, or is not yet produced, the amount of the advance is covered by a program listed in the schedule and amounts that may be received under that program are assignable, and
-		- **(iii)** despite subparagraphs (i) and (ii), in the case of an agricultural product that is livestock, it will be maintained so as to remain of marketable quality until disposed of in accordance with the repayment agreement;
+		- **(i)** in the case of an agricultural product that is storable,
+			- **(A)** it is of marketable quality and will be stored so as to remain of marketable quality until disposed of in accordance with the repayment agreement, or
+			- **(B)** if it is in the course of being produced or is not yet produced, either the amount of the advance is covered by a program listed in the schedule and the amounts that may be received under that program are assignable or the amount of the advance is covered by the security referred to in section 12,
+		- **(ii)** in the case of an agricultural product that is not storable,
+			- **(A)** it is of marketable quality and will be maintained so as to remain of marketable quality until disposed of in accordance with the repayment agreement and either the amount of the advance is covered by a program listed in the schedule and the amounts that may be received under that program are assignable or the amount of the advance is covered by the security referred to in section 12, or
+			- **(B)** if it is in the course of being produced or is not yet produced, either the amount of the advance is covered by a program listed in the schedule and the amounts that may be received under that program are assignable or the amount of the advance is covered by the security referred to in section 12, and
+		- **(iii)** despite subparagraphs (i) and (ii), in the case of an agricultural product that is livestock, it is of marketable quality and will be maintained so as to remain of marketable quality until disposed of in accordance with the repayment agreement;
 	- **(b.1)** if required by the advance guarantee agreement, to inform the administrator of the producer’s participation in any program listed in the schedule;
 	- **(b.2)** if required by the advance guarantee agreement, to assign, if the producer is in default, any amounts payable to the producer under a program listed in the schedule to
 		- **(i)** the administrator, to the extent of the producer’s liability under section 22, and
@@ -428,8 +438,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Security**
 
-**12** An administrator that makes a guaranteed advance to a producer in a production period in respect of an agricultural product shall take the security required by the regulations, for the amount of the producer’s liability under sections 22 and 23, in the agricultural product for which the advance was made, in any agricultural product produced in a subsequent production period by the producer and, subject to the repayment agreement, in any amount that may be received by the producer under a program listed in the schedule.
-> 1997, c. 20, s. 12; 2006, c. 3, s. 7.
+**12** An administrator that makes a guaranteed advance for an agricultural product to a producer in a program year shall take the security required by regulations made under paragraph 40(1)(f.2) for the amount of the producer’s liability under sections 22 and 23.
+> 1997, c. 20, s. 12; 2006, c. 3, s. 7; 2015, c. 2, s. 130.
 
 
 
@@ -479,13 +489,19 @@ by
 by
 	- **(c)** the rate obtained by subtracting the administrator’s percentage, as determined under the regulations, from 100%.
 
+**Administrator’s percentage**
+
+- **(1.1)** The administrator’s percentage mentioned in paragraph (1)(c), as determined under the regulations, must not exceed 10%. If the regulations establish a method of calculating that percentage, when the calculation results in a percentage that is less than 3%, that percentage is deemed to be 3% and when the calculation results in a percentage that is greater than 10%, that percentage is deemed to be 10%.
+
 **Rate per production unit**
 
 - **(2)** The rate per production unit may be specified for a particular agricultural product in a particular area, but it must not exceed 50%, or the percentage fixed by regulation, of the average price that in the Minister’s opinion will be payable to producers of the agricultural product in that area.
 
 **Exception**
 
-- **(3)** If, because of paragraph 10(1)(h), the amount of the advance must be covered by a program listed in the schedule, the maximum amount of an advance eligible for a guarantee under this Part is the lesser of the amount calculated under subsection (1) and the percent-age, specified in the advance guarantee agreement, of the maximum amount that the producer could receive under that program.
+- **(3)** If, because of paragraph 10(1)(h), the amount of the advance must be covered by a program listed in the schedule or the security referred to in section 12, the maximum amount of an advance eligible for a guarantee under this Part is
+	- **(a)** in the case when the advance is covered by such a program, the lesser of the amount calculated under subsection (1) and the percentage, specified in the advance guarantee agreement, of the maximum amount that the producer could receive under that program; or
+	- **(b)** in the case when the advance is covered by such a security, the lesser of the amount calculated under subsection (1) and the amount of the value of that security.
 > 1997, c. 20, s. 19; 2006, c. 3, s. 10; 2015, c. 2, s. 132.
 
 
@@ -506,11 +522,7 @@ by
 
 **Attribution**
 
-- **(2)** Amounts advanced to related producers are attributable to the producer as follows:
-	- **(a)** if the related producer is an individual, the attributable percentage is 100%;
-	- **(b)** if the related producer is a corporation, the attributable percentage is the percentage of the voting shares that the producer holds in the related producer;
-	- **(c)** if the related producer is a cooperative, the attributable percentage is the percentage prescribed by the regulations; and
-	- **(d)** if the producer and the related producer are partners or members of the same partnership or other association of persons, the attributable percentage is the percentage of the profits of the partnership or association to which the producer is entitled.
+- **(2)** If a producer is related to another producer, the amounts of advances received by, or attributed to, the other producer are attributable to the producer in accordance with the percentage or method of calculation set out in the regulations.
 > 1997, c. 20, s. 20; 2006, c. 3, s. 11; 2015, c. 2, s. 133.
 
 
@@ -915,11 +927,9 @@ In addition, the Minister must be satisfied that marketing the product under the
 
 **Five-year review**
 
-***42** 
+**42** 
 
 - **(1)** Every five years after the coming into force of this subsection, the Minister must review the provisions and operation of this Act in consultation with the Minister of Finance.
-
-<a name='A-3.7_en_1'><sup>*</sup></a>: [Note: Subsection 42(1) in force on November 27, 2006, *see* SI/2006-136.]<br />
 
 **Emergency advances**
 
@@ -928,7 +938,7 @@ In addition, the Minister must be satisfied that marketing the product under the
 **Tabling of report**
 
 - **(2)** The Minister must have a report on the review laid before each House of Parliament on any of the first 30 days on which it is sitting after the report is completed.
-> 1997, c. 20, s. 42; 2006, c. 3, s. 17; 2008, c. 7, s. 8.
+> 1997, c. 20, s. 42; 2006, c. 3, s. 17; 2008, c. 7, s. 8; 2015, c. 2, s. 139.
 
 
 
@@ -1078,11 +1088,11 @@ In addition, the Minister must be satisfied that marketing the product under the
 
 
 ### **SCHEDULE** 
-**(Sections 5, 10, 12, 19 and 33.1)**
+**(Sections 5, 10, 19 and 33.1)**
 ## Programs
 - AgriStability
 - Production Insurance Program
 - *Programme d’assurance stabilisation des revenus agricoles*
-> 2006, c. 3, s. 20; SOR/2010-283.
+> 2006, c. 3, s. 20; SOR/2010-283; 2015, c. 2, s. 140.
 
 
