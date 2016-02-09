@@ -2057,7 +2057,9 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **25** Zolpidem (N,N,6-trimethyl-2-(4-methylphenyl)imidazo[1,2-a]pyridine-3-acetamide) and any salt thereof
 - **25.1** Pemoline (2-amino-5-phenyl-oxazolin-4-one) and any salt thereof
 - **26** Pyrovalerone (4′-methyl-2-(1-pyrrolidinyl)valerophenone) and any salt thereof
-> 1996, c. 19, Sch. IV; SOR/97-230, ss. 11 to 15; SOR/98-173, s. 2; SOR/99-371, s. 3; SOR/99-421, s. 2(E); SOR/2000-220, s. 2; SOR/2003-32, s. 6; SOR/2003-37.
+- **27** Salvia divinorum (S. divinorum), its preparations and derivatives, including:
+- **(1)** Salvinorin A ((2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acetyloxy)-2-(3-furanyl)dodecahydro-6a,10b-dimethyl-4,10-dioxo-2H-naphtho[2,1-c]pyran-7-carboxylic acid methyl ester)
+> 1996, c. 19, Sch. IV; SOR/97-230, ss. 11 to 15; SOR/98-173, s. 2; SOR/99-371, s. 3; SOR/99-421, s. 2(E); SOR/2000-220, s. 2; SOR/2003-32, s. 6; SOR/2003-37; SOR/2015-209.
 
 
 
