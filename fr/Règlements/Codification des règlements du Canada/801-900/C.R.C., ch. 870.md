@@ -35137,7 +35137,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 
 **PARTIE I** 
 
-- **1** Les amphétamines, leurs sels, dérivés, isomères et analogues, ainsi que les sels de leurs dérivés, isomères et analogues, sauf ceux mentionnés à l’article 1 de l’annexe de la partie J. Sont compris :
+- **1** Les amphétamines, leurs sels, dérivés, isomères et analogues, ainsi que les sels de leurs dérivés, isomères et analogues, sauf ceux mentionnés à l’article 1 de la partie I de l’annexe de la partie J. Sont compris :
 - **(1)** amphétamine (α-méthylbenzèneéthanamine)
 - **(2)** méthamphétamine (N,α-diméthylbenzèneéthanamine)
 - **(3)** benzphétamine (N-benzyl N,α-diméthylbenzèneéthanamine)
@@ -35246,7 +35246,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 - **(42)** tiomestérone (bis(acétylthio)-1α,7α hydroxy-17ß méthyl-17 androstène-4 one-3)
 - **(43)** trenbolone (hydroxy-17ßestratriène-4,9,11 one-3)
 - **2** Zéranol (trihydroxy-7,14,16 méthyl-3 décahydro-3,4,5,6,- 7,8,9,10,11,12 1H-benzoxa-2 cyclotétradécinone-1)
-> DORS/78-427, art. 10; DORS/79-753, art. 1; DORS/81-84, art. 1; DORS/85-550, art. 14(F); DORS/86-678, art. 1; DORS/89-381, art. 1; DORS/92-386, art. 3; DORS/97-228, art. 21; DORS/99-425, art. 1; DORS/2003-34, art. 2 et 3; DORS/2003-413, art. 2.
+> DORS/78-427, art. 10; DORS/79-753, art. 1; DORS/81-84, art. 1; DORS/85-550, art. 14(F); DORS/86-678, art. 1; DORS/89-381, art. 1; DORS/92-386, art. 3; DORS/97-228, art. 21; DORS/99-425, art. 1; DORS/2003-34, art. 2 et 3; DORS/2003-413, art. 2; DORS/2015-210, art. 1.
 
 
 
@@ -35310,18 +35310,18 @@ et que le ministre a autorisée, en vertu de l’article J.01.018, à utiliser e
 
 **J.01.002** 
 
-- **(1)** Les personnes suivantes peuvent avoir en leur possession des drogues d’usage restreint :
+- **(1)** Les personnes ci-après sont autorisées à avoir en leur possession des drogues d’usage restreint autres que celles mentionnées à la partie II de l’annexe de la présente partie :
 	- **a)** un distributeur autorisé;
 	- **b)** un chercheur compétent s’il se sert de la drogue à des fins de recherches dans un établissement ou en rapport avec un établissement;
 	- **c)** un analyste, un inspecteur, un membre de la Gendarmerie royale du Canada, un agent de police, un agent de la paix, un membre du personnel du ministère de la Santé ou un officier de justice, si la possession a quelque rapport avec l’emploi;
 	- **d)** une personne qui bénéficie d’une exemption aux termes de l’article 56 de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md) relativement à une telle drogue.
 
-- **(2)** Une personne est autorisée à avoir une drogue d’usage restreint en sa possession lorsqu’elle agit comme agent de toute personne visée aux alinéas (1)a), b) ou d).
+- **(2)** Une personne est autorisée à avoir en sa possession des drogues d’usage restreint autres que celles mentionnées à la partie II de l’annexe de la présente partie lorsqu’elle agit comme mandataire de toute personne visée aux alinéas (1)a), b) ou d).
 
-- **(2.1)** Une personne est autorisée à avoir une drogue d’usage restreint en sa possession lorsque :
-	- **a)** d’une part, elle agit comme agent de toute personne dont elle a des motifs raisonnables de croire que celle-ci est une personne visée à l’alinéa (1)c);
-	- **b)** d’autre part, la possession de cette drogue a pour but d’aider cette dernière dans l’application ou l’exécution d’une loi ou d’un règlement.
-> DORS/97-228, art. 23; DORS/99-125, art. 7; DORS/2010-222, art. 23.
+- **(2.1)** Une personne est autorisée à avoir en sa possession des drogues d’usage restreint autres que celles mentionnées à la partie II de l’annexe de la présente partie si, à la fois :
+	- **a)** elle agit comme mandataire de toute personne dont elle a des motifs raisonnables de croire que celle-ci est une personne visée à l’alinéa (1)c);
+	- **b)** la possession a pour but d’aider cette personne dans l’application ou l’exécution d’une loi ou d’un règlement.
+> DORS/97-228, art. 23; DORS/99-125, art. 7; DORS/2010-222, art. 23; DORS/2015-210, art. 2.
 
 
 
@@ -35796,9 +35796,11 @@ et que le ministre a autorisée, en vertu de l’article J.01.018, à utiliser e
 
 
 
-**J.01.028** Toute personne qui est en possession d’une drogue d’usage restreint et tout établissement auquel le ministre a autorisé la vente d’une drogue d’usage restreint doivent
+**J.01.028** Tout distributeur autorisé qui est en possession d’une drogue d’usage restreint, tout établissement auquel le ministre a autorisé la vente d’une telle drogue et toute personne qui est en possession d’une drogue d’usage restreint autre que celles mentionnées à la partie II de l’annexe de la présente partie doivent :
 - **a)** prendre toute disposition, contre la perte ou le vol de ladite drogue d’usage restreint, que le ministre peut exiger; et
 - **b)** avertir le ministre et les autorités locales responsables de l’application des lois dès qu’il y a perte ou vol d’une drogue d’usage restreint.
+> DORS/2015-210, art. 3.
+
 
 
 
@@ -35924,7 +35926,10 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 
 
 ### **ANNEXE** 
-**(article J.01.001)**
+**(articles J.01.001, J.01.002 et J.01.028)**
+
+**PARTIE I** 
+
 - **1** Les amphétamines suivants, leurs sels, dérivés, isomères et analogues, ainsi que les sels de leurs dérivés, isomères et analogues :
 - **(1)** N-éthylamphétamine (N-éthyl α-méthylbenzèneéthanamine)
 - **(2)** méthyl-4 diméthoxy-2,5 amphétamine (STP) (diméthoxy-2,5 4,α-diméthylbenzèneéthanamine)
@@ -35966,7 +35971,12 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 - **21** Trifluorométhylphénylpipérazine [TFMPP], à savoir 1-(3-trifluorométhylphényl)pipérazine et ses sels, isomères et sels d’isomères
 - **22** Méthylènedioxypyrovalérone (MDPV), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues
 - **23** Diacétylmorphine (héroïne) et ses sels
-> DORS/97-228, art. 25; DORS/2003-34, art. 4 et 5; DORS/2012-65, art. 1; DORS/2012-177, art. 1; DORS/2013-172, art. 2.
+
+**PARTIE II** 
+
+- **1** Salvia divinorum (S. divinorum), ses préparations et dérivés, notamment :
+- **(1)** Salvinorine A (ester méthylique de l’acide (2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acétyloxy)-2-(3-furanyl)dodécahydro-6a,10b-diméthyl-4,10-dioxo-2Hnaphto[2,1-c]pyran-7-carboxylique)
+> DORS/97-228, art. 25; DORS/2003-34, art. 4 et 5; DORS/2012-65, art. 1; DORS/2012-177, art. 1; DORS/2013-172, art. 2; DORS/2015-210, art. 4 à 6.
 
 
 
