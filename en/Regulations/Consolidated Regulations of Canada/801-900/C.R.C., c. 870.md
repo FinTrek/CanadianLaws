@@ -35188,7 +35188,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 
 **PART I** 
 
-- **1** Amphetamines, their salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues, excluding those substances set out in item 1 of the schedule to Part J but including:
+- **1** Amphetamines, their salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues, excluding those substances set out in item 1 of Part I of the schedule to Part J but including:
 - **(1)** amphetamine (α-methylbenzeneethanamine)
 - **(2)** methamphetamine (N,α-dimethylbenzeneethanamine)
 - **(3)** Benzphetamine (N-benzyl-N,α-dimethylbenzeneethanamine)
@@ -35297,7 +35297,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 - **(42)** Tiomesterone (1α,7α-bis(acetylthio)-17ß-hydroxy-17-methylandrost-4-en-3-one)
 - **(43)** Trenbolone (17ß-hydroxyestra-4,9,11-trien-3-one)
 - **2** Zeranol (3,4,5,6,7,8,9,10,11,12-decahydro-7,14,16-trihydroxy-3-methyl-1H-2-benzoxacyclotetradecin-1-one)
-> SOR/78-427, s. 10; SOR/79-753, s. 1; SOR/81-84, s. 1; SOR/85-550, s. 14(F); SOR/86-678, s. 1; SOR/89-381, s. 1; SOR/92-386, s. 3; SOR/97-228, s. 21; SOR/99-425, s. 1; SOR/2003-34, ss. 2, 3; SOR/2003-413, s. 2.
+> SOR/78-427, s. 10; SOR/79-753, s. 1; SOR/81-84, s. 1; SOR/85-550, s. 14(F); SOR/86-678, s. 1; SOR/89-381, s. 1; SOR/92-386, s. 3; SOR/97-228, s. 21; SOR/99-425, s. 1; SOR/2003-34, ss. 2, 3; SOR/2003-413, s. 2; SOR/2015-210, s. 1.
 
 
 
@@ -35361,18 +35361,18 @@ and whose use and possession of that drug is authorized by the Minister pursuant
 
 **J.01.002** 
 
-- **(1)** The following persons may have a restricted drug in their possession:
+- **(1)** The following persons are authorized to have a restricted drug other than a restricted drug listed in Part II of the schedule to this Part in their possession:
 	- **(a)** a licensed dealer;
 	- **(b)** a qualified investigator if he has possession for the purpose of and in connection with research in an institution;
 	- **(c)** an analyst, inspector, member of the Royal Canadian Mounted Police, constable, peace officer, member of the staff of the Department of Health or officer of a court, if such person has possession for the purpose of and in connection with his employment; and
 	- **(d)** a person exempted under section 56 of the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md) with respect to that restricted drug.
 
-- **(2)** A person is authorized to have a restricted drug in his possession if the person is acting as the agent for a person referred to in paragraph (1)(a), (b) or (d).
+- **(2)** A person is authorized to have a restricted drug other than a restricted drug listed in Part II of the schedule to this Part in their possession if the person is acting as the agent or mandatary of a person referred to in paragraph (1)(a), (b) or (d).
 
-- **(2.1)** A person is authorized to have a restricted drug in his possession where
-	- **(a)** the person is acting as the agent for a person he has reasonable grounds to believe is a person referred to in paragraph (1)(c); and
-	- **(b)** the possession of the restricted drug is for the purpose of assisting that person in the enforcement or administration of an Act or regulation. 
-> SOR/97-228, s. 23; SOR/99-125, s. 7; SOR/2010-222, s. 23.
+- **(2.1)** A person is authorized to have a restricted drug other than a restricted drug listed in Part II of the schedule to this Part in their possession if
+	- **(a)** the person is acting as the agent or mandatary of a person that they have reasonable grounds to believe is a person referred to in paragraph (1)(c); and
+	- **(b)** the possession of the restricted drug is for the purpose of assisting that person in the enforcement or administration of an Act or regulation.
+> SOR/97-228, s. 23; SOR/99-125, s. 7; SOR/2010-222, s. 23; SOR/2015-210, s. 2.
 
 
 
@@ -35847,9 +35847,11 @@ and whose use and possession of that drug is authorized by the Minister pursuant
 
 
 
-**J.01.028** Every person who is in possession of a restricted drug and every institution to which the sale of a restricted drug has been authorized by the Minister shall
+**J.01.028** Every licensed dealer who is in possession of a restricted drug, every institution to which the sale of such a drug has been authorized by the Minister and every person who is in possession of a restricted drug other than a restricted drug listed in Part II of the schedule to this Part shall
 - **(a)** provide such protection against loss or theft of the restricted drug as may be required by the Minister; and
 - **(b)** report forthwith to the Minister and to local law enforcement authorities any loss or theft of a restricted drug.
+> SOR/2015-210, s. 3.
+
 
 
 
@@ -35975,7 +35977,10 @@ the Minister may issue a registration number for the test kit, which shall be a 
 
 
 ### **SCHEDULE** 
-**(Section J.01.001)**
+**(Sections J.01.001, J.01.002 and J.01.028)**
+
+**PART I** 
+
 - **1** The following amphetamines, their salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues:
 - **(1)** N-ethylamphetamine (N-ethyl-α-methylbenzeneethanamine)
 - **(2)** 4-methyl-2,5-dimethoxyamphetamine (STP) (2,5-dimethoxy-4,α-dimethylbenzeneethanamine)
@@ -36017,7 +36022,12 @@ the Minister may issue a registration number for the test kit, which shall be a 
 - **21** Trifluoromethylphenylpiperazine [TFMPP], namely 1-(3-trifluoromethylphenyl)piperazine and its salts, isomers and salts of isomers
 - **22** Methylenedioxypyrovalerone (MDPV), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues
 - **23** Diacetylmorphine (heroin) and its salts
-> SOR/97-228, s. 25; SOR/2003-34, ss. 4, 5; SOR/2012-65, s. 1; SOR/2012-177, s. 1; SOR/2013-172, s. 2.
+
+**PART II** 
+
+- **1** Salvia divinorum (S. divinorum), its preparations and derivatives, including:
+- **(1)** Salvinorin A ((2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acetyloxy)-2-(3-furanyl)dodecahydro-6a,10b-dimethyl-4,10-dioxo-2H-naphtho[2,1-c]pyran-7-carboxylic acid methyl ester)
+> SOR/97-228, s. 25; SOR/2003-34, ss. 4, 5; SOR/2012-65, s. 1; SOR/2012-177, s. 1; SOR/2013-172, s. 2; SOR/2015-210, ss. 4 to 6.
 
 
 
