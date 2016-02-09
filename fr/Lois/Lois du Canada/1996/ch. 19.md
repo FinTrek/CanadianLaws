@@ -2022,7 +2022,9 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **25** Zolpidem (N,N-diméthyl [méthyl-6 (méthyl-4 phényl)-2 imidazo[1,2-a]pyridinyl-3]-2 acétamide) et ses sels
 - **25.1** Pémoline (amino-2 phényl-5 oxazolinone-4) et ses sels
 - **26** Pyrovalérone (méthyl-4′(pyrrolidinyl-1)-2 valérophénone) et ses sels
-> 1996, ch. 19, ann. IV; DORS/97-230, art. 11 à 15; DORS/98-173, art. 2; DORS/99-371, art. 3; DORS/99-421, art. 2(A); DORS/2000-220, art. 2; DORS/2003-32, art. 6; DORS/2003-37.
+- **27** Salvia divinorum (S. divinorum), ses préparations et dérivés, notamment :
+- **(1)** Salvinorine A (ester méthylique de l’acide (2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acétyloxy)-2-(3-furanyl)dodécahydro-6a,10b-diméthyl-4,10-dioxo-2Hnaphto[2,1-c]pyran-7-carboxylique)
+> 1996, ch. 19, ann. IV; DORS/97-230, art. 11 à 15; DORS/98-173, art. 2; DORS/99-371, art. 3; DORS/99-421, art. 2(A); DORS/2000-220, art. 2; DORS/2003-32, art. 6; DORS/2003-37; DORS/2015-209.
 
 
 
