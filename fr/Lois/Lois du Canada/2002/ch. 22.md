@@ -3332,26 +3332,7 @@ où :
 
 
 
-
-**Remboursement —  tabac non ciblé importé**
-
-**180.1** 
-
-- **(1)** Le ministre peut rembourser à la personne qui a importé du tabac fabriqué la somme déterminée selon le paragraphe (2) relativement au tabac si, à la fois :
-	- **a)** la personne fournit au ministre une preuve, agréée par celui-ci, des faits suivants :
-		- **(i)** le droit imposé sur le tabac en vertu de l’article 42, au taux fixé aux alinéas 1b), 2b) ou 3b) de l’annexe 1, en leur état le 11 février 2014, a été acquitté,
-		- **(ii)** il s’agit de tabac non ciblé qui :
-			- **(A)** a été livré à une boutique hors taxes ou à un entrepôt de stockage, ou à une personne pour utilisation à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md), avant le 12 février 2014,
-			- **(B)** a été exporté avant le 12 février 2014 pour livraison à une boutique hors taxes à l’étranger ou à titre de provisions de bord à l’étranger;
-	- **b)** la personne demande le remboursement au ministre dans les deux ans suivant l’importation du tabac.
-
-**Montant du remboursement**
-
-- **(2)** Le montant du remboursement est égal à l’excédent du droit visé à l’alinéa a) sur le droit visé à l’alinéa b) :
-	- **a)** le droit visé au sous-alinéa (1)a)(i);
-	- **b)** le droit qui aurait été imposé sur le tabac en vertu de l’article 42 si le taux de droit applicable avait été celui fixé aux alinéas 1a), 2a) ou 3a) de l’annexe 1, en leur état le 11 février 2014.
-> 2008, ch. 28, art. 58; 2014, ch. 20, art. 73.
-
+**180.1** [Abrogé, 2014, ch. 20, art. 73]
 
 
 
