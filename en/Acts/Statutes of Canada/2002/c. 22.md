@@ -3337,27 +3337,7 @@ where
 
 
 
-
-**Refund  — imported black stock tobacco**
-
-**180.1** 
-
-- **(1)** The Minister may refund to a person who has imported manufactured tobacco an amount determined in accordance with subsection (2) in respect of the tobacco if
-	- **(a)** the person provides evidence satisfactory to the Minister that
-		- **(i)** duty was imposed on the tobacco under section 42 at a rate set out in paragraph 1(b), 2(b) or 3(b) of Schedule 1, as those paragraphs read on February 11, 2014, and paid, and
-		- **(ii)** the tobacco was black stock
-			- **(A)** that was delivered to a duty free shop or customs bonded warehouse, or to a person for use as ships’ stores in accordance with the [Ships’ Stores Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/40.md), before February 12, 2014, or
-			- **(B)** that was exported before February 12, 2014 for delivery to a foreign duty free shop or as foreign ships’ stores; and
-	- **(b)** the person applies to the Minister for the refund within two years after the tobacco was imported.
-
-**Determination of refund**
-
-- **(2)** The amount of the refund is equal to the amount by which
-	- **(a)** the duty referred to in subparagraph (1)(a)(i)
-exceeds
-	- **(b)** the duty that would have been imposed under section 42 on the tobacco if the applicable rate of duty had been the rate set out in paragraph 1(a), 2(a) or 3(a) of Schedule 1, as those paragraphs read on February 11, 2014.
-> 2008, c. 28, s. 58; 2014, c. 20, s. 73.
-
+**180.1** [Repealed, 2014, c. 20, s. 73]
 
 
 
