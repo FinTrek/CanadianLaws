@@ -1212,7 +1212,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 <tr>
 <td>33</td>
 <td>Dokis</td>
-<td></td>
+<td>1<sup>er</sup> avril 2014</td>
 </tr>
 <tr>
 <td>34</td>
@@ -1247,7 +1247,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 <tr>
 <td>40</td>
 <td>Flying Dust</td>
-<td></td>
+<td>6 octobre 2013</td>
 </tr>
 <tr>
 <td>41</td>
@@ -1297,7 +1297,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 <tr>
 <td>50</td>
 <td>Kahkewistahaw</td>
-<td></td>
+<td>22 décembre 2011</td>
 </tr>
 <tr>
 <td>51</td>
@@ -1322,12 +1322,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 <tr>
 <td>55</td>
 <td>Nanoose</td>
-<td></td>
+<td>1<sup>er</sup> mars 2015</td>
 </tr>
 <tr>
 <td>56</td>
 <td>Campbell River</td>
-<td></td>
+<td>31 janvier 2013</td>
 </tr>
 <tr>
 <td>57</td>
@@ -1347,42 +1347,42 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 <tr>
 <td>60</td>
 <td>Haisla</td>
-<td></td>
+<td>6 novembre 2015</td>
 </tr>
 <tr>
 <td>61</td>
 <td>St. Mary’s</td>
-<td></td>
+<td>1<sup>er</sup> juillet 2014</td>
 </tr>
 <tr>
 <td>62</td>
 <td>Shuswap</td>
-<td></td>
+<td>1<sup>er</sup> février 2015</td>
 </tr>
 <tr>
 <td>63</td>
 <td>Stz’uminus</td>
-<td></td>
+<td>30 août 2014</td>
 </tr>
 <tr>
 <td>64</td>
 <td>Williams Lake</td>
-<td></td>
+<td>1<sup>er</sup> juillet 2014</td>
 </tr>
 <tr>
 <td>65</td>
 <td>Skowkale</td>
-<td></td>
+<td>1<sup>er</sup> mai 2014</td>
 </tr>
 <tr>
 <td>66</td>
 <td>Yakweakwioose</td>
-<td></td>
+<td>1<sup>er</sup> mai 2014</td>
 </tr>
 <tr>
 <td>67</td>
 <td>Aitchelitz</td>
-<td></td>
+<td>1<sup>er</sup> mai 2014</td>
 </tr>
 <tr>
 <td>68</td>
@@ -1397,7 +1397,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 <tr>
 <td>70</td>
 <td>One Arrow</td>
-<td></td>
+<td>1<sup>er</sup> septembre 2014</td>
 </tr>
 <tr>
 <td>71</td>
@@ -1412,7 +1412,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 <tr>
 <td>73</td>
 <td>Bingwi Neyaashi Anishinaabek</td>
-<td></td>
+<td>1<sup>er</sup> avril 2015</td>
 </tr>
 <tr>
 <td>74</td>
@@ -1437,7 +1437,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 <tr>
 <td>78</td>
 <td>Kwantlen</td>
-<td></td>
+<td>1<sup>er</sup> novembre 2015</td>
 </tr>
 <tr>
 <td>79</td>
@@ -1452,7 +1452,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 <tr>
 <td>81</td>
 <td>Shxw’ow’hamel</td>
-<td></td>
+<td>25 mars 2015</td>
 </tr>
 <tr>
 <td>82</td>
@@ -1462,7 +1462,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 <tr>
 <td>83</td>
 <td>Brokenhead Ojibway</td>
-<td></td>
+<td>1<sup>er</sup> avril 2015</td>
 </tr>
 <tr>
 <td>84</td>
@@ -1472,7 +1472,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 <tr>
 <td>85</td>
 <td>Shawanaga</td>
-<td></td>
+<td>1<sup>er</sup> juillet 2015</td>
 </tr>
 <tr>
 <td>86</td>
@@ -1487,7 +1487,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 <tr>
 <td>88</td>
 <td>Malahat First Nation</td>
-<td></td>
+<td>31 mars 2015</td>
 </tr>
 <tr>
 <td>89</td>
@@ -1577,7 +1577,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 <tr>
 <td>106</td>
 <td>Magnetawan</td>
-<td></td>
+<td>1<sup>er</sup> septembre 2015</td>
 </tr>
 <tr>
 <td>107</td>
@@ -1616,6 +1616,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 </tr>
 </table>
 
-> 1999, ch. 24, ann.; DORS/2003-178; DORS/2006-216; 2008, ch. 32, art. 27; DORS/2008-51, 267; 2012, ch. 19, art. 637 à 651; DORS/2012-217, 291; DORS/2014-89, 268.
+> 1999, ch. 24, ann.; DORS/2003-178; DORS/2006-216; 2008, ch. 32, art. 27; DORS/2008-51, 267; 2012, ch. 19, art. 637 à 651; DORS/2012-217, 291; DORS/2014-89, 268; DORS/2016-27.
 
 
