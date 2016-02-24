@@ -1048,7 +1048,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 ### **SCHEDULE** 
 **(Sections 2 and 45)**
 <table>
-<h4>Names of First Nations and Coming-Into-Force Dates of Land Codes</h4>
+<h4>Names of First Nations and Coming-into-Force Dates of Land Codes</h4>
 <tr>
 <th></th>
 <th>Column 1</th>
@@ -1222,7 +1222,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 <tr>
 <td>33</td>
 <td>Dokis</td>
-<td></td>
+<td>April 1, 2014</td>
 </tr>
 <tr>
 <td>34</td>
@@ -1257,7 +1257,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 <tr>
 <td>40</td>
 <td>Flying Dust</td>
-<td></td>
+<td>October 6, 2013</td>
 </tr>
 <tr>
 <td>41</td>
@@ -1307,7 +1307,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 <tr>
 <td>50</td>
 <td>Kahkewistahaw</td>
-<td></td>
+<td>December 22, 2011</td>
 </tr>
 <tr>
 <td>51</td>
@@ -1332,12 +1332,12 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 <tr>
 <td>55</td>
 <td>Nanoose</td>
-<td></td>
+<td>March 1, 2015</td>
 </tr>
 <tr>
 <td>56</td>
 <td>Campbell River</td>
-<td></td>
+<td>January 31, 2013</td>
 </tr>
 <tr>
 <td>57</td>
@@ -1357,42 +1357,42 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 <tr>
 <td>60</td>
 <td>Haisla</td>
-<td></td>
+<td>November 6, 2015</td>
 </tr>
 <tr>
 <td>61</td>
 <td>St. Mary’s</td>
-<td></td>
+<td>July 1, 2014</td>
 </tr>
 <tr>
 <td>62</td>
 <td>Shuswap</td>
-<td></td>
+<td>February 1, 2015</td>
 </tr>
 <tr>
 <td>63</td>
 <td>Stz’uminus</td>
-<td></td>
+<td>August 30, 2014</td>
 </tr>
 <tr>
 <td>64</td>
 <td>Williams Lake</td>
-<td></td>
+<td>July 1, 2014</td>
 </tr>
 <tr>
 <td>65</td>
 <td>Skowkale</td>
-<td></td>
+<td>May 1, 2014</td>
 </tr>
 <tr>
 <td>66</td>
 <td>Yakweakwioose</td>
-<td></td>
+<td>May 1, 2014</td>
 </tr>
 <tr>
 <td>67</td>
 <td>Aitchelitz</td>
-<td></td>
+<td>May 1, 2014</td>
 </tr>
 <tr>
 <td>68</td>
@@ -1407,7 +1407,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 <tr>
 <td>70</td>
 <td>One Arrow</td>
-<td></td>
+<td>September 1, 2014</td>
 </tr>
 <tr>
 <td>71</td>
@@ -1422,7 +1422,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 <tr>
 <td>73</td>
 <td>Bingwi Neyaashi Anishinaabek</td>
-<td></td>
+<td>April 1, 2015</td>
 </tr>
 <tr>
 <td>74</td>
@@ -1447,7 +1447,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 <tr>
 <td>78</td>
 <td>Kwantlen</td>
-<td></td>
+<td>November 1, 2015</td>
 </tr>
 <tr>
 <td>79</td>
@@ -1462,7 +1462,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 <tr>
 <td>81</td>
 <td>Shxw’ow’hamel</td>
-<td></td>
+<td>March 25, 2015</td>
 </tr>
 <tr>
 <td>82</td>
@@ -1472,7 +1472,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 <tr>
 <td>83</td>
 <td>Brokenhead Ojibway</td>
-<td></td>
+<td>April 1, 2015</td>
 </tr>
 <tr>
 <td>84</td>
@@ -1482,7 +1482,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 <tr>
 <td>85</td>
 <td>Shawanaga</td>
-<td></td>
+<td>July 1, 2015</td>
 </tr>
 <tr>
 <td>86</td>
@@ -1497,7 +1497,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 <tr>
 <td>88</td>
 <td>Malahat First Nation</td>
-<td></td>
+<td>March 31, 2015</td>
 </tr>
 <tr>
 <td>89</td>
@@ -1587,7 +1587,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 <tr>
 <td>106</td>
 <td>Magnetawan</td>
-<td></td>
+<td>September 1, 2015</td>
 </tr>
 <tr>
 <td>107</td>
@@ -1626,6 +1626,6 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 </tr>
 </table>
 
-> 1999, c. 24, Sch.; SOR/2003-178; SOR/2006-216; 2008, c. 32, s. 27; SOR/2008-51, 267; 2012, c. 19, ss. 637 to 651; SOR/2012-217, 291; SOR/2014-89, 268.
+> 1999, c. 24, Sch.; SOR/2003-178; SOR/2006-216; 2008, c. 32, s. 27; SOR/2008-51, 267; 2012, c. 19, ss. 637 to 651; SOR/2012-217, 291; SOR/2014-89, 268; SOR/2016-27.
 
 
