@@ -42,15 +42,15 @@ Enabling authorities:
 
 - **(1)** In this Part and in Schedule I,
 
-***employee*** means any person receiving remuneration; (*employé*)
+***employee*** means any person receiving remuneration; (*employé*)
 
-***employer*** means any person paying remuneration; (*employeur*)
+***employer*** means any person paying remuneration; (*employeur*)
 
-***estimated deductions*** means, in respect of a taxation year, the total of the amounts estimated to be deductible by an employee for the year under any of paragraphs 8(1)(f), (h), (h.1), (i) and (j) of the Act and determined by the employee for the purpose of completing the form referred to in subsection 107(2); (*déductions estimatives*)
+***estimated deductions*** means, in respect of a taxation year, the total of the amounts estimated to be deductible by an employee for the year under any of paragraphs 8(1)(f), (h), (h.1), (i) and (j) of the Act and determined by the employee for the purpose of completing the form referred to in subsection 107(2); (*déductions estimatives*)
 
 ***exemptions***[Repealed, SOR/89-508, s. 1]
 
-***pay period*** includes
+***pay period*** includes
 - **(a)** a day,
 - **(b)** a week,
 - **(c)** a two week period,
@@ -58,9 +58,9 @@ Enabling authorities:
 - **(e)** a month,
 - **(f)** a four week period,
 - **(g)** one tenth of a calendar year, or
-- **(h)** one twenty-second of a calendar year; (*période de paie*)
+- **(h)** one twenty-second of a calendar year; (*période de paie*)
 
-***personal credits*** means, in respect of a particular taxation year, the greater of
+***personal credits*** means, in respect of a particular taxation year, the greater of
 - **(a)** the amount referred to in paragraph 118(1)(c) of the Act, and
 - **(b)** the aggregate of the credits which the employee would be entitled to claim for the year under
 	- **(i)** subsections 118(1), (2) and (3) of the Act if the description of A in those subsections were read as “is equal to one”,
@@ -82,7 +82,7 @@ where
 - **A** is the value of A set out in that section, and
 - **B** is the appropriate percentage for the year. (*crédits d’impôts personnels*)
 
-***remuneration*** includes any payment that is
+***remuneration*** includes any payment that is
 - **(a)** in respect of
 	- **(i)** salary or wages, or
 	- **(ii)** commissions or other similar amounts fixed by reference to the volume of the sales made or the contracts negotiated (referred to as ***commissions*** in this Part)
@@ -110,16 +110,17 @@ paid to an officer or employee or former officer or employee,
 	- **(i)** the particular payment is in respect of the minimum amount (in this paragraph having the meaning assigned by subsection 146.3(1) of the Act) under the fund for a year, or
 	- **(ii)** where the fund governs a trust, the particular payment would be in respect of the minimum amount under the fund for a year if each amount that, at the beginning of the year, is scheduled to be paid after the time of the particular payment and in the year to the trust under an annuity contract that is held by the trust both at the beginning of the year and at the time of the particular payment, is paid to the trust in the year,
 - **(k)** a benefit described in section 5502,
-- **(l)** an amount as, on account or in lieu of payment of, or in satisfaction of, proceeds of the surrender, cancellation or redemption of an income-averaging annuity contract;
-- **(m)** in respect of an amount that can reasonably be regarded as having been received, in whole or in part, as consideration or partial consideration for entering into a contract of service, where the service is to be performed in Canada, or for an undertaking not to enter into such a contract with another party; or
+- **(l)** an amount as, on account or in lieu of payment of, or in satisfaction of, proceeds of the surrender, cancellation or redemption of an income-averaging annuity contract,
+- **(m)** in respect of an amount that can reasonably be regarded as having been received, in whole or in part, as consideration or partial consideration for entering into a contract of service, where the service is to be performed in Canada, or for an undertaking not to enter into such a contract with another party,
 - **(n)** a payment out of a registered education savings plan other than
 	- **(i)** a refund of payments,
 	- **(ii)** an educational assistance payment, or
 	- **(iii)** an amount, up to $50,000, of an accumulated income payment that is made to a subscriber, as defined in subsection 204.94(1) of the Act, or if there is no subscriber at that time, that is made to a person that has been a spouse or common-law partner of an individual who was a subscriber, if
 		- **(A)** that amount is transferred to an RRSP in which the annuitant is either the recipient of the payment or the recipient’s spouse or common-law partner, and
-		- **(B)** it is reasonable for the person making the payment to believe that that amount is deductible for the year by the recipient of the payment within the limits provided for in subsection 146(5) or (5.1) of the Act; (*rémunération*)
+		- **(B)** it is reasonable for the person making the payment to believe that that amount is deductible for the year by the recipient of the payment within the limits provided for in subsection 146(5) or (5.1) of the Act; or
+- **(o)** an amount of a disability assistance payment made under a registered disability savings plan that is required by paragraph 56(1)(q.1) of the Act to be included in computing a taxpayer’s income; (*rémunération*)
 
-***total remuneration*** means, in respect of a taxation year, the total of all amounts each of which is an amount referred to in paragraph (a) or (a.1) of the definition ***remuneration***. (*rémunération totale*)
+***total remuneration*** means, in respect of a taxation year, the total of all amounts each of which is an amount referred to in paragraph (a) or (a.1) of the definition ***remuneration***. (*rémunération totale*)
 
 - **(2)** Where the amount of any credit referred to in paragraph (a) or (b) of the definition ***personal credits*** in subsection (1) is subject to an annual adjustment under section 117.1 of the Act, such amount shall, in a particular taxation year, be subject to that annual adjustment.
 
@@ -142,7 +143,7 @@ the balance remaining after deducting or withholding this amount, as the case ma
 - **(5)** For the purposes of this Part, where an employer deducts or withholds from a payment of remuneration to an employee an amount in respect of the acquisition by the employee of an approved share, as defined in subsection 127.4(1) of the Act, there shall be deducted from the amount determined under paragraph 102(1)(e) or (2)(e), as the case may be, in respect of that payment the lesser of
 	- **(a)** $750, and
 	- **(b)** 15% of the amount deducted or withheld in respect of the acquisition of an approved share.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-2, s. 1; SOR/78-331, s. 1; SOR/80-382, s. 1; SOR/80-502, s. 1; SOR/80-683, s. 1; SOR/80-901, s. 1; SOR/80-941, s. 1; SOR/81-471, s. 1; SOR/83-349, s. 1; SOR/83-692, s. 1; SOR/86-629, s. 1; SOR/87-471, s. 1; SOR/87-638, s. 1; SOR/88-312, s. 1; SOR/89-147, s. 1; SOR/89-508, s. 1; SOR/92-51, ss. 1, 8; SOR/94-238, s. 1; SOR/95-298, s. 1; SOR/97-470, s. 1; SOR/98-259, s. 1; SOR/99-17, s. 1; SOR/99-22, s. 1; SOR/2000-63, s. 1; SOR/2001-188, s. 14; SOR/2001-209, s. 1; SOR/2001-216, s. 10(F); SOR/2001-221, s. 1; SOR/2005-185, s. 1; 2012, c. 27, s. 30, c. 31, s. 58.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-2, s. 1; SOR/78-331, s. 1; SOR/80-382, s. 1; SOR/80-502, s. 1; SOR/80-683, s. 1; SOR/80-901, s. 1; SOR/80-941, s. 1; SOR/81-471, s. 1; SOR/83-349, s. 1; SOR/83-692, s. 1; SOR/86-629, s. 1; SOR/87-471, s. 1; SOR/87-638, s. 1; SOR/88-312, s. 1; SOR/89-147, s. 1; SOR/89-508, s. 1; SOR/92-51, ss. 1, 8; SOR/94-238, s. 1; SOR/95-298, s. 1; SOR/97-470, s. 1; SOR/98-259, s. 1; SOR/99-17, s. 1; SOR/99-22, s. 1; SOR/2000-63, s. 1; SOR/2001-188, s. 14; SOR/2001-209, s. 1; SOR/2001-216, s. 10(F); SOR/2001-221, s. 1; SOR/2005-185, s. 1; 2012, c. 27, s. 30, c. 31, s. 58; SOR/2016-30, s. 1.
 
 
 
@@ -328,6 +329,41 @@ of such payment in lieu of the amount determined under section 102.
 
 
 
+**103.1** 
+
+- **(1)** For the purpose of the description of C in subsection (2), ***plan payment*** means
+	- **(a)** in the case of a disability assistance payment that is a lifetime disability assistance payment, the total amount of all the lifetime disability assistance payments that have been made or that may reasonably be expected to be made to the employee under the plan in their taxation year and that the employer has reasonable grounds to believe are described in paragraph (o) of the definition ***remuneration*** in subsection 100(1); or
+	- **(b)** in the case of a disability assistance payment that is other than a lifetime disability assistance payment, the amount of the payment that is made to the employee under the plan and that is described in paragraph (o) of the definition ***remuneration*** in subsection 100(1).
+
+- **(2)** If an employer makes a disability assistance payment under a registered disability savings plan to an employee who is a resident of Canada, the employer shall, in lieu of the amount determined under section 102, deduct or withhold from the payment an amount determined by the formula
+```
+(A – B) × C
+```
+where
+- **A** is the amount of the disability assistance payment that is made to the employee and that is described in paragraph (o) of the definition ***remuneration*** in subsection 100(1);
+- **B** is
+- **(a)** if the beneficiary of the plan is deceased, nil, or
+- **(b)** the amount by which the total of the following amounts exceeds the total amount of all the disability assistance payments previously made to the employee in their taxation year and that are described in paragraph (o) of the definition ***remuneration*** in subsection 100(1):
+- **(i)** the amount used under paragraph (c) of the description of B in subsection 118(1) of the Act for the taxation year, and
+- **(ii)** the amount used under the description of B in subsection 118.3(1) of the Act for the taxation year; and
+- **C** is
+- **(a)** if the plan payment does not exceed $5,000 and the amount is paid
+- **(i)** in Quebec, 5 per cent,
+- **(ii)** in any other province, 7 per cent, or
+- **(iii)** in Canada beyond the limits of any province or outside Canada, 10 per cent,
+- **(b)** if the plan payment exceeds $5,000 but does not exceed $15,000 and the amount is paid
+- **(i)** in Quebec, 10 per cent,
+- **(ii)** in any other province, 13 per cent, or
+- **(iii)** in Canada beyond the limits of any province or outside Canada, 20 per cent, or
+- **(c)** if the plan payment exceeds $15,000 and the amount is paid
+- **(i)** in Quebec, 15 per cent,
+- **(ii)** in any other province, 20 per cent, or
+- **(iii)** in Canada beyond the limits of any province or outside Canada, 30 per cent.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2016-30, s. 2.
+
+
+
+
 
 ### Deductions not Required
 
@@ -336,7 +372,7 @@ of such payment in lieu of the amount determined under section 102.
 
 - **(1)** [Repealed, SOR/2001-221, s. 4]
 
-- **(2)** No amount shall be deducted or withheld from a payment in accordance with section 102 or 103 in respect of an employee who was neither employed nor resident in Canada at the time of payment except in respect of
+- **(2)** No amount shall be deducted or withheld from a payment in accordance with any of sections 102 to 103.1 in respect of an employee who was neither employed nor resident in Canada at the time of payment except in respect of
 	- **(a)** remuneration described in subparagraph 115(2)(e)(i) of the Act that is paid to a non-resident person who has in the year, or had in any previous year, ceased to be resident in Canada; or
 	- **(b)** remuneration reasonably attributable to the duties of any office or employment performed or to be performed in Canada by the non-resident person.
 
@@ -361,7 +397,7 @@ of such payment in lieu of the amount determined under section 102.
 	- **(a)** a housing unit;
 	- **(b)** a share of the capital stock of a cooperative housing corporation, where the holder of the share is entitled to possession of a housing unit; and
 	- **(c)** where the context so requires, the housing unit to which a share described in paragraph (b) relates.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-449, s. 3; SOR/78-754, s. 1; SOR/89-508, s. 4; SOR/92-176, s. 1; SOR/92-667, s. 3; SOR/93-81, s. 1; SOR/94-238, s. 4; SOR/94-246, s. 1; SOR/94-686, ss. 49(F), 79(F); SOR/97-470, s. 2; SOR/99-19, s. 1; SOR/2001-188, ss. 1, 14; SOR/2001-221, s. 4; 2013, c. 34, s. 376.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-449, s. 3; SOR/78-754, s. 1; SOR/89-508, s. 4; SOR/92-176, s. 1; SOR/92-667, s. 3; SOR/93-81, s. 1; SOR/94-238, s. 4; SOR/94-246, s. 1; SOR/94-686, ss. 49(F), 79(F); SOR/97-470, s. 2; SOR/99-19, s. 1; SOR/2001-188, ss. 1, 14; SOR/2001-221, s. 4; 2013, c. 34, s. 376; SOR/2016-30, s. 3.
 
 
 
@@ -721,8 +757,9 @@ that person or partnership shall make an information return in prescribed form i
 	- **(i)** a payment out of or under a registered retirement income fund,
 	- **(j)** a payment that is or that would be, if paragraph 212(1)(r) of the Act were read without reference to subparagraph 212(1)(r)(ii), a payment described in that paragraph in respect of a registered education savings plan,
 	- **(k)** a grant under a program prescribed for the purposes of paragraph 212(1)(s) of the Act,
-	- **(l)** a payment described in paragraph 212(1)(j) of the Act in respect of a retirement compensation arrangement, or
-	- **(m)** a payment described in paragraph 212(1)(v) or (x) of the Act,
+	- **(l)** a payment described in paragraph 212(1)(j) of the Act in respect of a retirement compensation arrangement,
+	- **(m)** a payment described in paragraph 212(1)(v) or (x) of the Act, or
+	- **(n)** a payment described in paragraph 212(1)(r.1) of the Act,
 shall, in addition to any other return required by the Act or these Regulations, make an information return in prescribed form in respect of such amount.
 
 - **(2.1)** Every person resident in Canada who pays an amount to a non-resident person from a NISA Fund No. 2 shall, in addition to any other return required by the Act or these Regulations, make an information return in prescribed form in respect of the amount.
@@ -740,7 +777,7 @@ shall, in addition to any other return required by the Act or these Regulations,
 - **(7)** Subject to subsection (8), an information return required under this section shall be filed on or before March 31 and shall be in respect of the preceding calendar year.
 
 - **(8)** Where an amount referred to in subsection (1) or (2) is income of or from an estate or trust, the information return required under this section in respect thereof shall be filed within 90 days from the end of the taxation year of the estate or trust in which the amount was paid or credited and shall be in respect of that taxation year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-487, s. 1; SOR/80-382, ss. 3, 4; SOR/81-936, s. 2; SOR/83-866, s. 3; SOR/86-522, s. 1; SOR/88-165, ss. 1, 31(F); SOR/88-395, s. 1; SOR/93-527, s. 2; SOR/94-686, ss. 50(F), 78(F); SOR/99-22, s. 4; SOR/2000-13, s. 1; SOR/2001-216, s. 10(F); SOR/2003-5, s. 2; SOR/2005-123, s. 1; 2009, c. 2, s. 83; SOR/2011-188, s. 2; 2013, c. 34, s. 27; 2014, c. 20, s. 34.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-487, s. 1; SOR/80-382, ss. 3, 4; SOR/81-936, s. 2; SOR/83-866, s. 3; SOR/86-522, s. 1; SOR/88-165, ss. 1, 31(F); SOR/88-395, s. 1; SOR/93-527, s. 2; SOR/94-686, ss. 50(F), 78(F); SOR/99-22, s. 4; SOR/2000-13, s. 1; SOR/2001-216, s. 10(F); SOR/2003-5, s. 2; SOR/2005-123, s. 1; 2009, c. 2, s. 83; SOR/2011-188, s. 2; 2013, c. 34, s. 27; 2014, c. 20, s. 34; SOR/2016-30, s. 4.
 
 
 
@@ -767,9 +804,10 @@ shall, in addition to any other return required by the Act or these Regulations,
 	- **(c)** a registered charity;
 	- **(d)** governed by an eligible funeral arrangement;
 	- **(d.1)** a cemetery care trust;
-	- **(e)** governed by a registered education savings plan; or
-	- **(f)** governed by a TFSA or by an arrangement that is deemed by paragraph 146.2(9)(a) of the Act to be a TFSA.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/88-165, s. 31(F); SOR/94-686, s. 51(F); SOR/96-283, s. 2; SOR/99-22, s. 5; SOR/2000-13, s. 2; SOR/2001-216, s. 10(F); 2009, c. 2, s. 84.
+	- **(e)** governed by a registered education savings plan;
+	- **(f)** governed by a TFSA or by an arrangement that is deemed by paragraph 146.2(9)(a) of the Act to be a TFSA; or
+	- **(g)** governed by a registered disability savings plan, except if paragraph 146.4(5)(a) or (b) of the Act applies.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/88-165, s. 31(F); SOR/94-686, s. 51(F); SOR/96-283, s. 2; SOR/99-22, s. 5; SOR/2000-13, s. 2; SOR/2001-216, s. 10(F); 2009, c. 2, s. 84; SOR/2016-30, s. 5.
 
 
 
