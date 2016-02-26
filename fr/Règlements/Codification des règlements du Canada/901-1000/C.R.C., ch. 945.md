@@ -42,37 +42,37 @@ Autorités habilitantes :
 
 - **(1)** Dans la présente partie et dans l’annexe I,
 
-***crédits d’impôt personnels*** Relativement à une année d’imposition, le plus élevé des montants suivants :
+***crédits d’impôt personnels*** Relativement à une année d’imposition, le plus élevé des montants suivants :
 - **a)** le montant visé à l’alinéa 118(1)c) de la Loi;
-- **b)** le total des crédits auxquels l’employé aurait droit pour l’année en vertu des dispositions suivantes :
+- **b)** le total des crédits auxquels l’employé aurait droit pour l’année en vertu des dispositions suivantes :
 	- **(i)** les paragraphes 118(1), (2) et (3) de la Loi, si « le taux de base pour l’année » était remplacé par « un »,
 	- **(ii)** les paragraphes 118.3(1) et (2) de la Loi, si le paragraphe 118.3(1) de la Loi était interprété sans égard à son alinéa c) et si « le taux de base pour l’année » était remplacé par « un »,
-	- **(iii)** les paragraphes 118.5(1) et 118.6(2) de la Loi, si le paragraphe 118.5(1) de la Loi était interprété sans égard à la mention « le produit de la multiplication du taux de base pour l’année par » et si « le taux de base pour l’année » était remplacé par « un » au paragraphe 118.6(2) de la Loi, après avoir soustrait de l’ensemble des montants déterminés selon ces paragraphes la fraction en sus de 3 000 $ du total des montants que l’employé s’attend à recevoir, pendant l’année, à titre de bourse d’études ou de bourse de perfectionnement (*fellowship*),
-	- **(iv)** l’article 118.8 de la Loi, si la formule A + B - C figurant à cet article était remplacée par la formule suivante :
+	- **(iii)** les paragraphes 118.5(1) et 118.6(2) de la Loi, si le paragraphe 118.5(1) de la Loi était interprété sans égard à la mention « le produit de la multiplication du taux de base pour l’année par » et si « le taux de base pour l’année » était remplacé par « un » au paragraphe 118.6(2) de la Loi, après avoir soustrait de l’ensemble des montants déterminés selon ces paragraphes la fraction en sus de 3 000 $ du total des montants que l’employé s’attend à recevoir, pendant l’année, à titre de bourse d’études ou de bourse de perfectionnement (*fellowship*),
+	- **(iv)** l’article 118.8 de la Loi, si la formule A + B - C figurant à cet article était remplacée par la formule suivante :
 ```
 (A + B) / C
 ```
-où :
+où :
 - **A** représente la valeur de l’élément A figurant à cet article,
 - **B** la valeur de l’élément B figurant à cet article,
 - **C** le taux de base pour l’année,
-	- **(v)** l’article 118.9 de la Loi, si la formule A - B figurant à l’article 118.81 était remplacée par la formule suivante :
+	- **(v)** l’article 118.9 de la Loi, si la formule A - B figurant à l’article 118.81 était remplacée par la formule suivante :
 ```
 A / B
 ```
-où :
+où :
 - **A** représente la valeur de l’élément A figurant à cet article,
 - **B** le taux de base pour l’année. (*personal credits*)
 
-***déductions estimatives*** Relativement à une année d’imposition, le total des montants dont chacun représente le montant déductible par un employé pour l’année en vertu de l’un des alinéas 8(1)f), h), h.1), i) et j) de la Loi, selon l’estimation qu’il en fait aux fins de l’établissement de la formule visée au paragraphe 107(2). (*estimated deductions*)
+***déductions estimatives*** Relativement à une année d’imposition, le total des montants dont chacun représente le montant déductible par un employé pour l’année en vertu de l’un des alinéas 8(1)f), h), h.1), i) et j) de la Loi, selon l’estimation qu’il en fait aux fins de l’établissement de la formule visée au paragraphe 107(2). (*estimated deductions*)
 
-***employé*** désigne toute personne qui reçoit une rémunération; (*employee*)
+***employé*** désigne toute personne qui reçoit une rémunération; (*employee*)
 
-***employeur*** désigne toute personne qui verse une rémunération; (*employer*)
+***employeur*** désigne toute personne qui verse une rémunération; (*employer*)
 
 ***exemptions***[Abrogée, DORS/89-508, art. 1]
 
-***période de paie*** comprend
+***période de paie*** comprend
 - **a)** un jour,
 - **b)** une semaine,
 - **c)** une période de deux semaines,
@@ -80,9 +80,9 @@ où :
 - **e)** un mois,
 - **f)** une période de quatre semaines,
 - **g)** le dixième d’une année civile, ou
-- **h)** le vingt-deuxième d’une année civile; (*pay period*)
+- **h)** le vingt-deuxième d’une année civile; (*pay period*)
 
-***rémunération*** comprend tout paiement qui est
+***rémunération*** comprend tout paiement qui est
 - **a)** relatif au versement
 	- **(i)** d’un traitement ou d’un salaire, ou
 	- **(ii)** de commissions ou d’autres montants semblables établis en fonction du chiffre de ventes ou des contrats négociés (appelés « commissions » dans la présente partie),
@@ -99,30 +99,31 @@ où :
 - **g)** une prestation versée en vertu de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md),
 - **g.1)** une somme à inclure, en application de l’alinéa 56(1)a.3) de la Loi, dans le calcul du revenu d’un contribuable,
 - **h)** un montant qui doit être inclus dans le calcul du revenu d’un contribuable en vertu de l’alinéa 56(1)r) de la Loi, à l’exception de la partie du montant qui se rapporte aux frais de garde d’enfants et aux frais de scolarité,
-- **i)** un paiement versé durant la vie d’un rentier visé à la définition de ***rentier***, au paragraphe 146(1) de la Loi, qui est prévu par un régime enregistré d’épargne-retraite de ce rentier ou en provient, sauf :
+- **i)** un paiement versé durant la vie d’un rentier visé à la définition de ***rentier***, au paragraphe 146(1) de la Loi, qui est prévu par un régime enregistré d’épargne-retraite de ce rentier ou en provient, sauf :
 	- **(i)** un paiement périodique de rente,
 	- **(ii)** un paiement fait par une personne qui a des motifs raisonnables de croire que le paiement est déductible en application du paragraphe 146(8.2) de la Loi dans le calcul du revenu d’un contribuable,
 - **j)** un paiement versé à partir ou aux termes d’un régime appelé, au paragraphe 146(12) de la Loi, « régime modifié », autre
 	- **(i)** qu’un paiement périodique de rente, ou
 	- **(ii)** lorsque l’alinéa 146(12)a) de la Loi s’appliquait au régime après le 25 mai 1976, qu’un paiement versé durant une année postérieure à l’année durant laquelle cet alinéa pouvait être appliqué au régime,
-- **j.1)** un paiement effectué durant la vie d’un rentier visé à la définition de ***rentier*** au paragraphe 146.3(1) de la Loi dans le cadre d’un fonds enregistré de revenu de retraite de celui-ci, à l’exclusion d’un paiement donné dans la mesure où ce paiement :
+- **j.1)** un paiement effectué durant la vie d’un rentier visé à la définition de ***rentier*** au paragraphe 146.3(1) de la Loi dans le cadre d’un fonds enregistré de revenu de retraite de celui-ci, à l’exclusion d’un paiement donné dans la mesure où ce paiement :
 	- **(i)** soit a trait au minimum à retirer du fonds pour une année, ***minimum*** s’entendant au présent alinéa au sens du paragraphe 146.3(1) de la Loi,
 	- **(ii)** soit, dans le cas où le fonds régit une fiducie, aurait trait au minimum à retirer du fonds pour une année si chaque montant qui, selon ce qui est prévu au début de l’année, doit être versé après le moment du paiement donné et au cours de l’année à la fiducie en vertu d’un contrat de rente qu’elle détient au début de l’année et au moment du paiement donné est versé à la fiducie au cours de l’année,
 - **k)** une prestation visée à l’article 5502,
 - **l)** un montant versé à titre de ou tenant lieu de paiement ou de règlement du produit de l’abandon, de l’annulation ou du rachat d’un contrat de rentes à versements invariables,
 - **m)** un montant qui peut raisonnablement être considéré comme ayant été reçu, en tout ou en partie, en contrepartie intégrale ou partielle de la conclusion d’un contrat de services, lorsque de tels services doivent être rendus au Canada, ou de l’engagement de ne pas conclure un tel contrat avec une autre partie,
-- **n)** un paiement effectué dans le cadre d’un régime enregistré d’épargne-études, sauf :
+- **n)** un paiement effectué dans le cadre d’un régime enregistré d’épargne-études, sauf :
 	- **(i)** un remboursement de paiements,
 	- **(ii)** un paiement d’aide aux études,
-	- **(iii)** tout montant jusqu’à concurrence de 50 000 $ d’un paiement de revenu accumulé qui est versé à un souscripteur au sens du paragraphe 204.94(1) de la Loi ou, s’il n’y a pas de souscripteur à ce moment, qui est versé à la personne qui a été l’époux ou le conjoint de fait d’un particulier qui a été souscripteur, si :
+	- **(iii)** tout montant jusqu’à concurrence de 50 000 $ d’un paiement de revenu accumulé qui est versé à un souscripteur au sens du paragraphe 204.94(1) de la Loi ou, s’il n’y a pas de souscripteur à ce moment, qui est versé à la personne qui a été l’époux ou le conjoint de fait d’un particulier qui a été souscripteur, si :
 		- **(A)** le montant est transféré au REER d’un rentier qui est soit le récipiendaire du paiement ou son époux ou conjoint de fait,
-		- **(B)** il est raisonnable pour la personne qui verse le paiement de croire que le montant est déductible pour l’année par le récipiendaire dans les limites prévues aux paragraphes 146(5) ou (5.1) de la Loi; (*remuneration*)
+		- **(B)** il est raisonnable pour la personne qui verse le paiement de croire que le montant est déductible pour l’année par le récipiendaire dans les limites prévues aux paragraphes 146(5) ou (5.1) de la Loi,
+- **o)** les sommes reçues à titre de paiement d’aide à l’invalidité aux termes d’un régime enregistré d’épargne-invalidité qui doivent être incluses dans le calcul du revenu d’un contribuable en application de l’alinéa 56(1)q.1) de la Loi; (*remuneration*)
 
-***rémunération totale*** Quant à une année d’imposition, le total des sommes représentant chacune un montant visé aux alinéas a) ou a.1) de la définition de ***rémunération***. (*total remuneration*)
+***rémunération totale*** Quant à une année d’imposition, le total des sommes représentant chacune un montant visé aux alinéas a) ou a.1) de la définition de ***rémunération***. (*total remuneration*)
 
 - **(2)** Le montant de tout crédit d’impôt visé aux alinéas a) ou b) de la définition de ***crédits d’impôt personnels***, au paragraphe (1), qui est assujetti à un rajustement annuel en vertu de l’article 117.1 de la Loi est, dans une année d’imposition donnée, assujetti à ce rajustement annuel.
 
-- **(3)** Pour l’application de la présente partie, lorsqu’un employeur déduit ou retient sur un paiement de rémunération versé à un employé un ou plusieurs montants dont chacun représente :
+- **(3)** Pour l’application de la présente partie, lorsqu’un employeur déduit ou retient sur un paiement de rémunération versé à un employé un ou plusieurs montants dont chacun représente :
 	- **a)** soit une cotisation versée à un régime de pension agréé, à un régime de pension agréé collectif ou à un régime de pension déterminé,
 	- **b)** soit des cotisations visées aux sous-alinéas 8(1)i)(iv), (v) ou (vi) de la Loi, versées pour le compte de l’employé,
 	- **b.1)** soit une cotisation visée à l’alinéa 8(1)m.2) de la Loi, versée par l’employé,
@@ -139,9 +140,9 @@ le solde obtenu après cette déduction ou cette retenue, selon le cas, est rép
 	- **b)** dans le cas d’une rémunération autre qu’un traitement, un salaire ou des commissions, à l’établissement de l’employeur situé dans la province de résidence de l’employé au moment où la rémunération est versée, mais si l’employeur n’a alors aucun établissement dans cette province, il est réputé avoir un établissement dans ladite province aux fins du présent alinéa.
 
 - **(5)** Pour l’application de la présente partie, lorsqu’un employeur déduit ou retient sur un paiement de rémunération versé à un employé un montant au titre de l’acquisition par ce dernier d’une action approuvée au sens du paragraphe 127.4(1) de la Loi, le moindre des deux montants suivants est déduit du montant déterminé selon l’alinéa 102(1)e) ou (2)e), selon le cas, à l’égard de ce paiement :
-	- **a)** 750 $;
-	- **b)** le montant correspondant à 15 % du montant déduit ou retenu au titre de l’acquisition d’une action approuvée.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-2, art. 1; DORS/78-331, art. 1; DORS/80-382, art. 1; DORS/80-502, art. 1; DORS/80-683, art. 1; DORS/80-901, art. 1; DORS/80-941, art. 1; DORS/81-471, art. 1; DORS/83-349, art. 1; DORS/83-692, art. 1; DORS/86-629, art. 1; DORS/87-471, art. 1; DORS/87-638, art. 1; DORS/88-312, art. 1; DORS/89-147, art. 1; DORS/89-508, art. 1; DORS/92-51, art. 1 et 8; DORS/94-238, art. 1; DORS/95-298, art. 1; DORS/97-470, art. 1; DORS/98-259, art. 1; DORS/99-17, art. 1; DORS/99-22, art. 1; DORS/2000-63, art. 1; DORS/2001-188, art. 14; DORS/2001-209, art. 1; DORS/2001-216, art. 10(F); DORS/2001-221, art. 1; DORS/2005-185, art. 1; 2012, ch. 27, art. 30, ch. 31, art. 58.
+	- **a)** 750 $;
+	- **b)** le montant correspondant à 15 % du montant déduit ou retenu au titre de l’acquisition d’une action approuvée.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-2, art. 1; DORS/78-331, art. 1; DORS/80-382, art. 1; DORS/80-502, art. 1; DORS/80-683, art. 1; DORS/80-901, art. 1; DORS/80-941, art. 1; DORS/81-471, art. 1; DORS/83-349, art. 1; DORS/83-692, art. 1; DORS/86-629, art. 1; DORS/87-471, art. 1; DORS/87-638, art. 1; DORS/88-312, art. 1; DORS/89-147, art. 1; DORS/89-508, art. 1; DORS/92-51, art. 1 et 8; DORS/94-238, art. 1; DORS/95-298, art. 1; DORS/97-470, art. 1; DORS/98-259, art. 1; DORS/99-17, art. 1; DORS/99-22, art. 1; DORS/2000-63, art. 1; DORS/2001-188, art. 14; DORS/2001-209, art. 1; DORS/2001-216, art. 10(F); DORS/2001-221, art. 1; DORS/2005-185, art. 1; 2012, ch. 27, art. 30, ch. 31, art. 58; DORS/2016-30, art. 1.
 
 
 
@@ -327,6 +328,41 @@ de ce paiement au lieu du montant déterminé en vertu de l’article 102.
 
 
 
+**103.1** 
+
+- **(1)** Pour l’application de l’élément C au paragraphe (2), ***paiement versé aux termes d’un régime*** s’entend :
+	- **a)** dans le cas où le paiement d’aide à l’invalidité est un paiement viager pour invalidité, du total de tous les paiements viagers pour invalidité qui ont été versés ou qui devraient vraisemblablement être versés à l’employé au cours de son année d’imposition aux termes du régime, lorsque l’employeur a des motifs raisonnables de croire que ces paiements sont visés à l’alinéa o) de la définition de ***rémunération*** au paragraphe 100(1);
+	- **b)** dans le cas d’un paiement d’aide à l’invalidité autre qu’un paiement viager pour invalidité, du paiement qui est versé à l’employé aux termes du régime et qui est visé à l’alinéa o) de la définition de ***rémunération*** au paragraphe 100(1).
+
+- **(2)** L’employeur qui verse à un employé résidant au Canada un paiement d’aide à l’invalidité aux termes d’un régime enregistré d’épargne-invalidité est tenu de déduire ou de retenir d’un tel montant, au lieu du montant déterminé en vertu de l’article 102, le montant calculé selon la formule suivante :
+```
+(A – B) × C
+```
+où :
+- **A** représente le paiement d’aide à l’invalidité qui est versé à l’employé et qui est visé à l’alinéa o) de la définition de ***rémunération*** au paragraphe 100(1),
+- **B** selon le cas :
+- **a)** zéro, si le bénéficiaire du régime est décédé;
+- **b)** l’excédent éventuel du total des montants ci-après sur le total de tous les paiements d’aide à l’invalidité déjà versés à l’employé au cours de son année d’imposition et qui sont visés à l’alinéa o) de la définition de ***rémunération*** au paragraphe 100(1) :
+- **(i)** le montant applicable pour l’année d’imposition selon l’alinéa 118(1)c) de la Loi,
+- **(ii)** le montant applicable pour l’année d’imposition selon l’élément B de la formule figurant au paragraphe 118.3(1) de la Loi;
+- **C** selon le cas :
+- **a)** si le paiement versé aux termes d’un régime ne dépasse pas 5 000 $ :
+- **(i)** 5 %, s’il est fait au Québec,
+- **(ii)** 7 %, s’il est fait dans une autre province,
+- **(iii)** 10 %, s’il est fait au Canada au-delà des limites d’une province ou à l’extérieur du Canada;
+- **(b)** si le paiement versé aux termes d’un régime dépasse 5 000 $, mais non 15 000 $ :
+- **(i)** 10 %, s’il est fait au Québec,
+- **(ii)** 13 %, s’il est fait dans une autre province,
+- **(iii)** 20 %, s’il est fait au Canada au-delà des limites d’une province ou à l’extérieur du Canada;
+- **(c)** si le paiement versé aux termes d’un régime dépasse 15 000 $ :
+- **(i)** 15 %, s’il est fait au Québec,
+- **(ii)** 20 %, s’il est fait dans une autre province,
+- **(iii)** 30 %, s’il est fait au Canada au-delà des limites d’une province ou à l’extérieur du Canada.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2016-30, art. 2.
+
+
+
+
 
 ### Déductions non requises
 
@@ -335,12 +371,12 @@ de ce paiement au lieu du montant déterminé en vertu de l’article 102.
 
 - **(1)** [Abrogé, DORS/2001-221, art. 4]
 
-- **(2)** Aucun montant n’est déduit ou retenu d’un paiement selon l’article 102 ou 103 à l’égard d’un employé qui n’était pas employé et qui ne résidait pas au Canada au moment du paiement, sauf dans le cas
+- **(2)** Aucun montant n’est déduit ou retenu d’un paiement selon les articles 102 à 103.1 à l’égard d’un employé qui n’était pas employé et qui ne résidait pas au Canada au moment du paiement, sauf dans le cas :
 	- **a)** d’une rémunération décrite au sous-alinéa 115(2)e)(i) de la Loi qui est versée à une personne non-résidente ayant cessé, dans l’année, ou avait cessé, dans une année antérieure, de résider au Canada; ou
 	- **b)** d’une rémunération raisonnablement attribuable aux fonctions d’une charge ou d’un emploi exercées ou à être exercées au Canada par une personne non-résidente.
 
-- **(3)** Nul montant n’est à déduire ou à retenir d’un versement effectué par une personne pendant la vie d’un rentier visé à l’alinéa a) de la définition de ***rentier***, au paragraphe 146(1) de la Loi, dans le cadre de son régime enregistré d’épargne-retraite si, au moment du versement, le rentier remet à la personne sur formulaire prescrit une attestation donnant les indications suivantes :
-	- **a)** il a conclu une convention écrite en vue d’acquérir une habitation :
+- **(3)** Nul montant n’est à déduire ou à retenir d’un versement effectué par une personne pendant la vie d’un rentier visé à l’alinéa a) de la définition de ***rentier***, au paragraphe 146(1) de la Loi, dans le cadre de son régime enregistré d’épargne-retraite si, au moment du versement, le rentier remet à la personne sur formulaire prescrit une attestation donnant les indications suivantes :
+	- **a)** il a conclu une convention écrite en vue d’acquérir une habitation :
 		- **(i)** soit pour lui-même,
 		- **(ii)** soit pour une personne handicapée qui lui est liée et qui est admissible au crédit d’impôt pour déficience mentale ou physique prévu au paragraphe 118.3(1) de la Loi;
 	- **b)** il prévoit que l’habitation sera utilisée comme son lieu principal de résidence au Canada ou celui de la personne handicapée dans l’année qui en suit l’acquisition;
@@ -350,17 +386,17 @@ de ce paiement au lieu du montant déterminé en vertu de l’article 102.
 	- **f)** il est l’acquéreur d’une habitation admissible au moment de l’attestation, sauf s’il atteste être une personne handicapée admissible au crédit d’impôt pour déficience mentale ou physique prévu au paragraphe 118.3(1) de la Loi ou qu’il atteste que le retrait a été effectué au bénéfice d’une telle personne handicapée;
 	- **g)** si, avant l’année civile de l’attestation, il a retiré un montant admissible, au sens du paragraphe 146.01(1) de la Loi, la somme des montants admissibles qu’il a reçus avant cette année civile ne doit pas excéder le total des montants désignés antérieurement en vertu du paragraphe 146.01(3) de la Loi ou inclus dans son revenu en vertu des paragraphes 146.01(4) ou (5) de la Loi.
 
-- **(3.01)** Pour l’application du paragraphe (3), le rentier est l’acquéreur d’une habitation admissible à un moment donné à moins que l’une des conditions suivantes s’applique :
+- **(3.01)** Pour l’application du paragraphe (3), le rentier est l’acquéreur d’une habitation admissible à un moment donné à moins que l’une des conditions suivantes s’applique :
 	- **a)** il possédait une habitation à titre de propriétaire-occupant au cours de la période commençant le 1<sup>er</sup> janvier de la quatrième année civile précédant le moment donné et se terminant le trente et unième jour précédant ce moment;
 	- **b)** au cours de la période visée à l’alinéa a), son époux ou conjoint de fait possédait une habitation à titre de propriétaire-occupant dans laquelle le rentier a habité pendant son mariage avec l’époux ou son union de fait avec le conjoint de fait.
 
 - **(3.1)** Pour l’application du paragraphe (3.01), un particulier est réputé avoir possédé une habitation à titre de propriétaire-occupant à un moment donné si, à ce moment, il possédait l’habitation, conjointement avec une autre personne ou autrement, et l’habitait comme lieu principal de résidence.
 
-- **(4)** Pour l’application des paragraphes (3), (3.01) et (3.1), ***habitation*** s’entend :
+- **(4)** Pour l’application des paragraphes (3), (3.01) et (3.1), ***habitation*** s’entend :
 	- **a)** soit d’un logement;
 	- **b)** soit d’une action du capital-actions d’une coopérative d’habitation constituée en société qui confère au titulaire le droit de posséder un logement;
 	- **c)** soit, selon le contexte, du logement auquel l’action visée à l’alinéa b) se rapporte.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-449, art. 3; DORS/78-754, art. 1; DORS/89-508, art. 4; DORS/92-176, art. 1; DORS/92-667, art. 3; DORS/93-81, art. 1; DORS/94-238, art. 4; DORS/94-246, art. 1; DORS/94-686, art. 49(F) et 79(F); DORS/97-470, art. 2; DORS/99-19, art. 1; DORS/2001-188, art. 1 et 14; DORS/2001-221, art. 4; 2013, ch. 34, art. 376.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-449, art. 3; DORS/78-754, art. 1; DORS/89-508, art. 4; DORS/92-176, art. 1; DORS/92-667, art. 3; DORS/93-81, art. 1; DORS/94-238, art. 4; DORS/94-246, art. 1; DORS/94-686, art. 49(F) et 79(F); DORS/97-470, art. 2; DORS/99-19, art. 1; DORS/2001-188, art. 1 et 14; DORS/2001-221, art. 4; 2013, ch. 34, art. 376; DORS/2016-30, art. 3.
 
 
 
@@ -720,6 +756,7 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit à 
 	- **k)** une subvention accordée en vertu d’un programme prescrit aux fins de l’alinéa 212(1)s) de la Loi,
 	- **l)** d’un paiement visé à l’alinéa 212(1)j) de la Loi à l’égard d’une convention de retraite,
 	- **m)** d’un paiement visé aux alinéas 212(1)v) ou x) de la Loi,
+	- **n)** d’un paiement visé à l’alinéa 212(1)r.1) de la Loi,
 doit remplir une déclaration de renseignements selon le formulaire prescrit, en plus de toute autre déclaration exigée par la Loi ou le présent règlement, à l’égard de telle somme.
 
 - **(2.1)** Toute personne qui réside au Canada et qui verse une somme prélevée sur le second fonds du compte de stabilisation du revenu net à une personne non résidante est tenue de remplir, en plus de toute autre déclaration exigée par la Loi ou le présent règlement, une déclaration de renseignements selon le formulaire prescrit, à l’égard d’une telle somme.
@@ -737,7 +774,7 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 - **(7)** Sous réserve du paragraphe (8), une déclaration de renseignements exigée en vertu du présent article doit être produite au plus tard le 31 mars et doit viser l’année civile précédente.
 
 - **(8)** Lorsqu’une somme mentionnée au paragraphe (1) ou (2) est un revenu d’une succession ou d’une fiducie ou en provenant, la déclaration de renseignements exigée à cet égard en vertu du présent article doit être produite dans les 90 jours suivant la fin de l’année d’imposition de la succession ou de la fiducie au cours de laquelle cette somme a été versée ou créditée, et doit viser cette année d’imposition.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-487, art. 1; DORS/80-382, art. 3 et 4; DORS/81-936, art. 2; DORS/83-866, art. 3; DORS/86-522, art. 1; DORS/88-165, art. 1 et 31(F); DORS/88-395, art. 1; DORS/93-527, art. 2; DORS/94-686, art. 50(F) et 78(F); DORS/99-22, art. 4; DORS/2000-13, art. 1; DORS/2001-216, art. 10(F); DORS/2003-5, art. 2; DORS/2005-123, art. 1; 2009, ch. 2, art. 83; DORS/2011-188, art. 2; 2013, ch. 34, art. 27; 2014, ch. 20, art. 34.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-487, art. 1; DORS/80-382, art. 3 et 4; DORS/81-936, art. 2; DORS/83-866, art. 3; DORS/86-522, art. 1; DORS/88-165, art. 1 et 31(F); DORS/88-395, art. 1; DORS/93-527, art. 2; DORS/94-686, art. 50(F) et 78(F); DORS/99-22, art. 4; DORS/2000-13, art. 1; DORS/2001-216, art. 10(F); DORS/2003-5, art. 2; DORS/2005-123, art. 1; 2009, ch. 2, art. 83; DORS/2011-188, art. 2; 2013, ch. 34, art. 27; 2014, ch. 20, art. 34; DORS/2016-30, art. 4.
 
 
 
@@ -758,15 +795,16 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 
 - **(2)** La déclaration requise en vertu du présent article doit être produite dans les 90 jours qui suivent la fin de l’année d’imposition et porter sur l’année d’imposition.
 
-- **(3)** Le paragraphe (1) n’a pas pour effet d’obliger une fiducie à remplir une déclaration pour une année d’imposition à la fin de laquelle elle est, selon le cas :
+- **(3)** Le paragraphe (1) n’a pas pour effet d’obliger une fiducie à remplir une déclaration pour une année d’imposition à la fin de laquelle elle est, selon le cas :
 	- **a)** régie par un régime de participation différée aux bénéfices ou par un régime visé au paragraphe 147(15) de la Loi comme étant un régime dont l’agrément est retiré;
 	- **b)** régie par un régime de participation des employés aux bénéfices;
 	- **c)** un organisme de bienfaisance enregistré;
 	- **d)** régie par un arrangement de services funéraires;
 	- **d.1)** une fiducie pour l’entretien d’un cimetière;
 	- **e)** régie par un régime enregistré d’épargne-études;
-	- **f)** régie par un compte d’épargne libre d’impôt ou par un arrangement qui est réputé par l’alinéa 146.2(9)a) de la Loi être un tel compte.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/88-165, art. 31(F); DORS/94-686, art. 51(F); DORS/96-283, art. 2; DORS/99-22, art. 5; DORS/2000-13, art. 2; DORS/2001-216, art. 10(F); 2009, ch. 2, art. 84.
+	- **f)** régie par un compte d’épargne libre d’impôt ou par un arrangement qui est réputé par l’alinéa 146.2(9)a) de la Loi être un tel compte;
+	- **g)** régie par un régime enregistré d’épargne-invalidité, sauf lorsque les alinéas 146.4(5)a) ou b) de la Loi s’appliquent.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/88-165, art. 31(F); DORS/94-686, art. 51(F); DORS/96-283, art. 2; DORS/99-22, art. 5; DORS/2000-13, art. 2; DORS/2001-216, art. 10(F); 2009, ch. 2, art. 84; DORS/2016-30, art. 5.
 
 
 
