@@ -18,7 +18,7 @@ Vu que les gouvernements du Canada et de Terre-Neuve et du Labrador ont conclu l
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -171,12 +171,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **7** 
 
-- **(1)** Avant la prise des règlements visés aux paragraphes 5(1) ou 41(7), à l’article 64, au paragraphe 67(2), à l’article 118, aux paragraphes 122(1), 125(1) ou 149(1) ou à l’article 203, le ministre fédéral consulte le ministre provincial sur les règlements projetés, lesquels ne peuvent être pris sans l’approbation de ce dernier.
+- **(1)** Avant la prise des règlements visés au paragraphe 5(1), à l’article 29.1, au paragraphe 41(7), à l’article 64, au paragraphe 67(2), à l’article 118, aux paragraphes 122(1), 125(1), 149(1), 162(2.3), 163(1.02) ou 202.01(1) ou à l’article 203, le ministre fédéral consulte le ministre provincial au sujet des règlements projetés, lesquels ne peuvent être pris sans l’approbation de ce dernier.
 
 **Approbation provinciale**
 
 - **(2)** Avant la prise des règlements visés aux paragraphes 205.001(3) ou (4) ou 205.124(1), le ministre fédéral consulte le ministre du gouvernement de la province responsable de la santé et de la sécurité au travail sur les règlements projetés, lesquels ne peuvent être pris sans l’approbation de ce dernier.
-> 1987, ch. 3, art. 7; 2014, ch. 13, art. 5.
+> 1987, ch. 3, art. 7; 2014, ch. 13, art. 5; 2015, ch. 4, art. 38 et 117.
 
 
 
@@ -633,6 +633,52 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+### Recouvrement des coûts
+
+
+
+**Pouvoir réglementaire**
+
+**29.1** 
+
+- **(1)** Sous réserve de l’article 7, le gouverneur en conseil peut prendre des règlements :
+	- **a)** concernant les droits ou redevances à payer pour les services ou les produits que l’Office fournit sous le régime de la présente loi, ou leur méthode de calcul;
+	- **b)** concernant les droits ou redevances à payer par les personnes ci-après relativement aux activités exercées par l’Office sous le régime de la présente loi ou de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md), ou leur méthode de calcul :
+		- **(i)** la personne qui présente une demande au titre de l’alinéa 138(1)b) ou du paragraphe 139(2),
+		- **(ii)** le titulaire d’un permis de travaux visé à l’alinéa 138(1)a) ou d’une autorisation visée à l’alinéa 138(1)b);
+	- **c)** concernant le remboursement complet ou partiel des droits ou redevances visés aux alinéas a) ou b), ou sa méthode de calcul.
+
+**Limite**
+
+- **(2)** Le montant des droits ou redevances visés à l’alinéa (1)a) ne peut excéder les coûts de la fourniture des services ou des produits.
+
+**Limite**
+
+- **(3)** Le montant des droits ou redevances visés à l’alinéa (1)b) ne peut excéder les coûts relatifs aux activités exercées par l’Office sous le régime de la présente loi ou de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md).
+> 2015, ch. 4, art. 39.
+
+
+
+
+
+**Non-application de la [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
+
+**29.2** La [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux droits ou redevances à payer conformément aux règlements pris en vertu de l’article 29.1.
+> 2015, ch. 4, art. 39.
+
+
+
+
+
+**Remise des droits et redevances**
+
+**29.3** La moitié des droits et redevances perçus conformément aux règlements pris en vertu de l’article 29.1 est déposée au crédit du receveur général, et l’autre moitié est déposée au crédit de Sa Majesté du chef de la province, selon les délais et modalités qui sont prévus à ces règlements.
+> 2015, ch. 4, art. 39.
+
+
+
+
+
 ### Décisions portant sur la gestion extracôtière
 
 
@@ -904,7 +950,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Pouvoirs**
 
-- **(2)** Pour l’enquête, l’Office peut :
+- **(2)** Pour l’enquête, l’Office peut :
 	- **a)** adopter les critères et calendriers permettant de procéder à un examen complet du projet de mise en valeur, y compris les aspects de compétence fédérale ou provinciale;
 	- **b)** nommer un ou plusieurs commissaires et, dans cette dernière éventualité, nommer les candidats proposés par chacun des gouvernements compte tenu des pouvoirs conférés en l’espèce à tel ou tel ministre fédéral ou provincial par des lois fédérales ou provinciales autres que la présente loi ou la loi provinciale;
 	- **c)** le cas échéant, demander à l’auteur de tout projet de mise en valeur qui lui est soumis de lui présenter à cet égard, notamment pour diffusion publique, un plan provisoire accompagné d’exposés sur les incidences écologiques ou socio-écologiques, les retombées économiques et tout autre point utile;
@@ -917,7 +963,51 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délai**
 
 - **(4)** Les commissaires font leurs recommandations sur le plan provisoire et les exposés visés à l’alinéa (2)c) dans les deux cent soixante-dix jours qui suivent leur réception ou tout délai inférieur fixé par l’Office.
-> 1987, ch. 3, art. 44; 2014, ch. 13, art. 13(A).
+> 1987, ch. 3, art. 44; 2014, ch. 13, art. 13(A); 2015, ch. 4, art. 40(A).
+
+
+
+
+
+### Audiences publiques
+
+
+
+**Audiences publiques**
+
+**44.1** L’Office peut tenir des audiences publiques sur tout aspect des attributions ou des activités qu’il exerce à titre d’autorité responsable au sens du paragraphe 2(1) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md).
+> 2015, ch. 4, art. 41.
+
+
+
+
+
+**Confidentialité**
+
+**44.2** Dans le cadre d’une audience publique tenue en vertu de l’article 44.1, l’Office peut prendre toute mesure ou rendre toute ordonnance qu’il juge nécessaire pour assurer la confidentialité des renseignements qui seront probablement divulgués au cours de l’audience lorsqu’il est convaincu :
+- **a)** soit que la divulgation risquerait vraisemblablement de causer des pertes ou des profits financiers appréciables aux intéressés, ou de nuire à leur compétitivité, et que le préjudice pouvant résulter de la divulgation l’emporte sur l’importance, au regard de l’intérêt public, de la divulgation;
+- **b)** soit qu’il s’agit de renseignements financiers, commerciaux, scientifiques ou techniques de nature confidentielle obtenus par lui, traités comme tels de façon constante par les intéressés, et que l’intérêt de ces derniers à préserver la confidentialité des renseignements l’emporte sur l’importance, au regard de l’intérêt public, de leur divulgation.
+> 2015, ch. 4, art. 41.
+
+
+
+
+
+**Confidentialité — sécurité**
+
+**44.3** Dans le cadre d’une audience publique tenue en vertu de l’article 44.1, l’Office peut prendre toute mesure ou rendre toute ordonnance qu’il juge nécessaire pour assurer la confidentialité des renseignements qui seront probablement divulgués au cours de l’audience lorsqu’il est convaincu, à la fois :
+- **a)** qu’il y a un risque sérieux que la divulgation des renseignements compromette la sécurité de pipe-lines, au sens de l’article 135, d’installations, de navires, d’aéronefs ou de réseaux ou systèmes divers, y compris de réseaux ou systèmes informatisés ou de communication, ou de méthodes employées pour leur protection;
+- **b)** que la nécessité d’empêcher la divulgation des renseignements l’emporte sur l’importance, au regard de l’intérêt public, de leur divulgation.
+> 2015, ch. 4, art. 41.
+
+
+
+
+
+**Exception**
+
+**44.4** L’Office ne peut toutefois invoquer les articles 44.2 et 44.3 pour prendre une mesure ou rendre une ordonnance à l’égard des renseignements visés aux alinéas 119(5)a) à e) et i).
+> 2015, ch. 4, art. 41.
 
 
 
@@ -1429,11 +1519,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Idem**
 
-- **(5)** La déclaration de découverte importante ne peut être modifiée ou annulée avant la date d’expiration du permis de prospection visé au paragraphe 73(1) ou moins de trois ans après la date de prise d’effet de l’attestation visée au paragraphe 73(2).
+- **(5)** La déclaration de découverte importante ne peut être modifiée en vue de réduire le périmètre ou annulée avant la date d’expiration du permis de prospection visé au paragraphe 73(1) ou moins de trois ans après la date de prise d’effet de l’attestation visée au paragraphe 73(2).
 
 **Double**
 
 - **(6)** Un double de la déclaration originelle, de son texte modifié ou de l’acte qui l’annule est à expédier sous pli recommandé au titulaire intéressé.
+> 1987, ch. 3, art. 71; 2015, ch. 4, art. 42(F).
+
 
 
 
@@ -1516,19 +1608,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Exception**
 
-- **(2)** Il ne peut être pris d’arrêté de forage à l’égard du titulaire qui a terminé le forage d’un puits sur les parties en cause dans les six mois précédant la prise de l’arrêté.
+- **(2)** Il ne peut être pris d’arrêté de forage à l’égard du titulaire qui a terminé le forage d’un puits sur les parties en cause dans les six mois suivant la fin du forage de ce puits.
 
 **Condition**
 
-- **(3)** Il ne peut être pris d’arrêté de forage dans les trois ans qui suivent la date de l’abandon du forage du puits qui a mis en évidence une découverte importante.
+- **(3)** Il ne peut être pris d’arrêté de forage dans les trois ans qui suivent la date d’abandon du puits qui a mis en évidence une découverte importante.
 
 **Nombre de puits**
 
 - **(4)** L’arrêté de forage ne peut exiger le forage de plus d’un puits à la fois sur les parties en cause.
 
-**Définition : date d’abandon de forage**
+**Définition de date d’abandon du puits**
 
-- **(5)** Pour l’application du présent article, la date d’abandon du forage est celle à laquelle les travaux de forage ont été délaissés, achevés ou interrompus conformément aux règlements applicables en matière de forage.
+- **(5)** Pour l’application du paragraphe (3), la date d’abandon du puits est celle à laquelle le puits a été abandonné ou complété ou son exploitation suspendue conformément aux règlements applicables en matière de forage.
+> 1987, ch. 3, art. 76; 2015, ch. 4, art. 43.
+
 
 
 
@@ -1825,7 +1919,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Trésor**
 
-- **(2)** Dès que possible après leur recouvrement ou réception par le gouvernement de la province sous le régime de la présente partie, les montants sont déposés au crédit du receveur général et versés au Trésor selon les modalités prescrites par le Conseil du Trésor conformément à la Loi sur l’administration financière.
+- **(2)** Dès que possible après leur recouvrement ou réception par l’Office sous le régime du présent article, les montants sont déposés au crédit du receveur général et versés au Trésor selon les modalités prescrites par le Conseil du Trésor conformément à la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+> 1987, ch. 3, art. 99; 2015, ch. 4, art. 44(F).
+
 
 
 
@@ -2152,13 +2248,15 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 
 **Règlements**
 
-**118** Sous réserve de l’article 7, le gouverneur en conseil peut prendre des règlements d’application de la présente section et, notamment :
+**118** Sous réserve de l’article 7, le gouverneur en conseil peut prendre des règlements d’application de la présente section et, notamment :
 - **a)** fixer les attributions du directeur et de son adjoint, ainsi que leurs modalités d’exercice et prévoir la désignation, par l’Office, de personnes ou catégories de personnes chargées d’exercer celles de ces attributions qui sont précisées par règlement;
 - **b)** prévoir les livres, résumés ou répertoires qui doivent être tenus à titre de registre et les renseignements portant sur les titres, les actes et les parties de la zone ainsi que les arrêtés et les déclarations qui doivent y être consignés;
 - **c)** prévoir le dépôt au registre de doubles de documents relatifs aux titres, des actes enregistrés et des autres documents;
 - **d)** prévoir l’accès aux registres et à leur consultation;
-- **e)** fixer les droits à acquitter pour l’enregistrement des actes, l’établissement de copies — certifiées conformes ou non — , les recherches à effectuer, et pour tous autres services prévus par les règlements, et en exiger le paiement;
+- **e)** [Abrogé, 2015, ch. 4, art. 45]
 - **f)** prendre les mesures réglementaires prévues par la présente section.
+> 1987, ch. 3, art. 118; 2015, ch. 4, art. 45.
+
 
 
 
@@ -2178,33 +2276,35 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***date d’abandon du forage*** Date à laquelle les travaux de forage ont été délaissés, achevés ou interrompus conformément aux règlements applicables en matière de forage pris sous le régime de la partie III.
+***date d’abandon du forage***[Abrogée, 2015, ch. 4, art. 46]
 
-***études de l’environnement*** Travaux relatifs aux mesures ou à l’évaluation statistique des éléments physiques, chimiques et biologiques des terres, des régions côtières ou des océans, y compris les vents, les vagues, les marées, les courants, les précipitations, la banquise et ses mouvements, les icebergs, les effets de la pollution, la flore et la faune marines et terrestres, l’habitation et les activités humaines et tous autres sujets connexes.
+***date d’abandon du puits*** Date à laquelle le puits a été abandonné ou complété ou son exploitation suspendue conformément aux règlements applicables en matière de forage pris sous le régime de la partie III. (*well termination date*)
 
-***levé marin*** Étude portant sur la nature du fond ou du sous-sol marins de toute partie de la zone située dans le secteur prévu pour le forage d’un puits et sur les éléments, à prendre en compte à cet égard, susceptible d’influer sur la sécurité ou l’efficacité du forage.
+***études de l’environnement*** Travaux relatifs aux mesures ou à l’évaluation statistique des éléments physiques, chimiques et biologiques des terres, des régions côtières ou des océans, y compris les vents, les vagues, les marées, les courants, les précipitations, la banquise et ses mouvements, les icebergs, les effets de la pollution, la flore et la faune marines et terrestres, l’habitation et les activités humaines et tous autres sujets connexes. (*environmental study*)
 
-***opération expérimentale*** Activité comportant l’emploi de procédés ou de matériel qui n’ont pas été essayés ni éprouvés.
+***levé marin*** Étude portant sur la nature du fond ou du sous-sol marins de toute partie de la zone située dans le secteur prévu pour le forage d’un puits et sur les éléments, à prendre en compte à cet égard, susceptible d’influer sur la sécurité ou l’efficacité du forage. (*well site seabed survey*)
 
-***puits de délimitation*** Puits dont l’emplacement est tel par rapport à un autre puits pénétrant un gisement d’hydrocarbures que l’on peut vraisemblablement s’attendre à ce qu’il pénètre une autre partie de ce gisement, et que le forage est nécessaire pour en déterminer la valeur exploitable.
+***opération expérimentale*** Activité comportant l’emploi de procédés ou de matériel qui n’ont pas été essayés ni éprouvés. (*experimental project*)
 
-***puits d’exploitation*** Puits dont l’emplacement est tel par rapport à un autre puits pénétrant un gisement d’hydrocarbures qu’il est considéré comme étant un puits complet ou partiel foré aux fins soit de production ou d’observation soit d’injection ou de refoulement des fluides à partir du gisement ou vers celui-ci.
+***puits de délimitation*** Puits dont l’emplacement est tel par rapport à un autre puits pénétrant un gisement d’hydrocarbures que l’on peut vraisemblablement s’attendre à ce qu’il pénètre une autre partie de ce gisement, et que le forage est nécessaire pour en déterminer la valeur exploitable. (*delineation well*)
 
-***puits d’exploration*** Puits foré sur un horizon géologique qui n’a pas fait l’objet d’une découverte importante.
+***puits d’exploitation*** Puits dont l’emplacement est tel par rapport à un autre puits pénétrant un gisement d’hydrocarbures qu’il est considéré comme étant un puits complet ou partiel foré aux fins soit de production ou d’observation soit d’injection ou de refoulement des fluides à partir du gisement ou vers celui-ci. (*development well*)
 
-***recherches ou études techniques*** Y sont assimilés les travaux destinés à faciliter la conception ou à analyser la viabilité des techniques, méthodes ou plans à mettre en oeuvre sur la recherche l’exploitation, la production ou le transport des hydrocarbures dans la zone extracôtière.
+***puits d’exploration*** Puits foré sur un horizon géologique qui n’a pas fait l’objet d’une découverte importante. (*exploratory well*)
 
-French version only***renseignements*** Tous éléments d’information ainsi que leur support.
+***recherches ou études techniques*** Y sont assimilés les travaux destinés à faciliter la conception ou à analyser la viabilité des techniques, méthodes ou plans à mettre en oeuvre sur la recherche l’exploitation, la production ou le transport des hydrocarbures dans la zone extracôtière. (*engineering research or feasibility study*)
 
-***travaux de géologie*** Travaux comportant la collecte, l’examen et le traitement ou autres analyses, sur le terrain ou en laboratoire, des échantillons lithologiques, paléontologiques ou géochimiques prélevés en surface ou dans le fond ou le sous-sol marins de la zone extracôtière. S’entend en outre de l’analyse et de l’interprétation de diagraphies.
+***renseignement*** Tous éléments d’information ainsi que leur support. (***French version only***)
 
-***travaux de géophysique*** Travaux comportant la mesure indirecte des propriétés physiques des roches afin d’en déterminer la profondeur, l’épaisseur, la configuration structurale ou l’historique sédimentaire. S’entend en outre du traitement, de l’analyse et de l’interprétation des éléments ou des données fournis par ces travaux.
+***travaux de géologie*** Travaux comportant la collecte, l’examen et le traitement ou autres analyses, sur le terrain ou en laboratoire, des échantillons lithologiques, paléontologiques ou géochimiques prélevés en surface ou dans le fond ou le sous-sol marins de la zone extracôtière. S’entend en outre de l’analyse et de l’interprétation de diagraphies. (*geological work*)
 
-***travaux de géotechnique*** Travaux comportant l’analyse, sur le terrain ou en laboratoire, des propriétés physiques des échantillons prélevés, en surface ou du fond ou du sous-sol marins de la zone.
+***travaux de géophysique*** Travaux comportant la mesure indirecte des propriétés physiques des roches afin d’en déterminer la profondeur, l’épaisseur, la configuration structurale ou l’historique sédimentaire. S’entend en outre du traitement, de l’analyse et de l’interprétation des éléments ou des données fournis par ces travaux. (*geophysical work*)
+
+***travaux de géotechnique*** Travaux comportant l’analyse, sur le terrain ou en laboratoire, des propriétés physiques des échantillons prélevés, en surface ou du fond ou du sous-sol marins de la zone. (*geotechnical work*)
 
 **Protection des renseignements**
 
-- **(2)** Sous réserve de l’article 18 et des autres dispositions du présent article, les renseignements fournis pour l’application de la présente partie, de la partie III ou de leurs règlements, sont, que leur fourniture soit obligatoire ou non, protégés et ne peuvent, sciemment, être communiqués sans le consentement écrit de la personne qui les a fournis, si ce n’est pour l’application de ces lois ou dans le cadre de procédures judiciaires relatives intentées à cet égard.
+- **(2)** Sous réserve de l’article 18 et des autres dispositions du présent article, les renseignements fournis pour l’application de la présente partie, de la partie III ou de leurs règlements, sont, que leur fourniture soit obligatoire ou non, protégés et nul ne peut, sciemment, les communiquer sans le consentement écrit de la personne qui les a fournis, si ce n’est pour l’application de ces parties ou dans le cadre de procédures judiciaires relatives intentées à cet égard.
 
 **Idem**
 
@@ -2216,26 +2316,108 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 **Renseignements communicables**
 
-- **(5)** Le paragraphe (2) ne vise pas les catégories de renseignements provenant d’activités autorisées sous le régime de la partie III et relatives à :
-	- **a)** un puits d’exploration, si les renseignements proviennent effectivement du forage du puits et si deux ans se sont écoulés après la date d’abandon du forage;
-	- **b)** un puits de délimitation, s’ils proviennent du forage du puits et une fois écoulée la dernière des périodes suivantes, à savoir deux ans après la date d’abandon du forage du puits d’exploration en cause ou quatre-vingt-dix jours après la date d’abandon du forage du puits de délimitation;
-	- **c)** un puits d’exploitation, s’ils proviennent effectivement du forage du puits et une fois écoulée la dernière des périodes suivantes, à savoir deux ans après la date d’abandon du puits d’exploration en cause ou soixante jours après la date d’abandon du forage du puits d’exploitation;
-	- **d)** des travaux de géologie ou de géophysique exécutés dans telle partie de la zone extracôtière ou y ayant trait :
+- **(5)** Le paragraphe (2) ne vise pas les catégories de renseignements provenant d’activités autorisées sous le régime de la partie III et relatives à :
+	- **a)** un puits d’exploration, si les renseignements proviennent effectivement du forage du puits et si deux ans se sont écoulés depuis la date d’abandon du puits;
+	- **b)** un puits de délimitation, s’ils proviennent effectivement du forage du puits et si deux ans se sont écoulés depuis la date d’abandon du puits d’exploration en cause ou si quatre-vingt-dix jours se sont écoulés depuis la date d’abandon du puits de délimitation, selon la dernière des éventualités à survenir;
+	- **c)** un puits d’exploitation, s’ils proviennent effectivement du forage du puits et si deux ans se sont écoulés depuis la date d’abandon du puits d’exploration en cause ou si soixante jours se sont écoulés depuis la date d’abandon du puits d’exploitation, selon la dernière des éventualités à survenir;
+	- **d)** des travaux de géologie ou de géophysique exécutés dans telle partie de la zone extracôtière ou y ayant trait :
 		- **(i)** s’agissant d’un levé marin pour un puits foré, après la période visée à l’alinéa a) ou la dernière des périodes visées aux alinéas b) ou c), selon l’alinéa qui s’applique au puits en cause,
 		- **(ii)** par ailleurs, au plus tôt cinq ans après leur achèvement;
-	- **e)** des recherches ou études techniques ou des opérations expérimentales, y compris des travaux de géotechnique, exécutés dans telle partie de la zone extracôtière ou y ayant trait :
+	- **e)** des recherches ou études techniques ou des opérations expérimentales, y compris des travaux de géotechnique, exécutés dans telle partie de la zone extracôtière ou y ayant trait :
 		- **(i)** si elles portent sur un puits foré après l’expiration de la période visée à l’alinéa a) ou la dernière des périodes visées aux alinéas b) ou c), selon l’alinéa qui s’applique au puits en cause,
 		- **(ii)** par ailleurs, au plus tôt cinq ans après leur achèvement ou après que ces terres sont devenues réserves de l’État;
 	- **f)** un plan visant les situations d’urgence résultant d’activités autorisées sous le régime de la partie III;
 	- **g)** des travaux de plongée, des observations météorologiques, l’état d’avancement des travaux, l’exploitation ou la production d’un gisement ou d’un champ;
 	- **g.1)** des accidents, des incidents ou des écoulements de pétrole dans la mesure où ces renseignements sont nécessaires pour l’établissement et la publication d’un rapport à cet égard dans le cadre de la présente loi;
 	- **h)** des études achevées financées sur le compte ouvert au titre du paragraphe 76(1) de la [Loi fédérale sur les hydrocarbures](/fr/Lois/Lois%20du%20Canada/1985/ch.%2036%20(2e%20suppl.).md);
-	- **i)** d’autres types d’études de l’environnement :
+	- **i)** d’autres types d’études de l’environnement :
 		- **(i)** s’agissant d’un puits foré, après l’expiration de la période visée à l’alinéa a) ou de la dernière des périodes visées aux alinéas b) ou c), selon l’alinéa qui s’applique au puits en cause,
 		- **(ii)** par ailleurs, lorsque cinq ans se sont écoulés depuis leur achèvement.
 
-- **(6)** [Abrogé, 1988, ch. 28, art. 260]
-> 1987, ch. 3, art. 119; 1988, ch. 28, art. 260; 1992, ch. 35, art. 48; 1994, ch. 26, art. 13(F).
+**Communication : administrations publiques et organisme**
+
+- **(6)** L’Office peut communiquer tout renseignement qu’il a obtenu au titre de la présente partie ou de la partie III à des fonctionnaires de l’administration publique fédérale ou de celle de la province, d’une autre province ou d’un État étranger ou à des représentants de tout organisme de l’une de ces administrations, pour l’application d’une règle de droit — fédérale, provinciale ou d’un État étranger — portant principalement sur des activités afférentes aux hydrocarbures, y compris la prospection, la gestion, l’administration et la production de ceux-ci si, à la fois :
+	- **a)** l’administration publique ou l’organisme s’engage à en protéger la confidentialité et à ne pas le communiquer sans le consentement écrit de l’Office;
+	- **b)** la communication est effectuée selon les conditions convenues entre l’Office et l’administration publique ou l’organisme;
+	- **c)** dans le cas de toute communication à une administration publique étrangère ou à l’un de ses organismes, le ministre fédéral et le ministre provincial consentent par écrit à la communication.
+
+**Communication aux ministres**
+
+- **(7)** L’Office peut communiquer aux deux ministres les renseignements qu’il a communiqués ou qu’il entend communiquer en vertu du paragraphe (6); le ministre fédéral ou le ministre provincial ne peut les communiquer que si une loi fédérale ou une loi de la législature provinciale, selon le cas, l’y oblige ou si l’Office y consent par écrit.
+
+**Consentement de l’Office**
+
+- **(8)** Pour l’application de l’alinéa (6)a) et du paragraphe (7), l’Office ne peut consentir à la communication de renseignements que dans les cas où il peut lui-même communiquer ces renseignements sous le régime du présent article.
+
+**Renseignements communicables — demandeur et activités projetées**
+
+- **(9)** Le paragraphe (2) ne vise pas les renseignements à l’égard de la personne qui demande, au titre du paragraphe 138(1), un permis de travaux ou une autorisation ou à l’égard des portée, but, nature, lieu et calendrier des activités projetées.
+
+**Renseignements communicables — audience publique**
+
+- **(10)** Le paragraphe (2) ne vise pas les renseignements fournis dans le cadre d’une audience publique tenue en vertu de l’article 44.1.
+
+**Renseignements communicables — sécurité ou protection de l’environnement**
+
+- **(11)** Sous réserve de l’article 119.1, l’Office peut communiquer tout ou partie des renseignements en matière de sécurité ou de protection de l’environnement fournis relativement à une demande faite au titre du paragraphe 138(1), à un permis de travaux ou à une autorisation délivrés en vertu de ce paragraphe ou fournis conformément à un règlement pris sous le régime de la présente partie ou de la partie III. L’Office ne peut toutefois pas communiquer les renseignements à l’égard desquels il est convaincu :
+	- **a)** soit que leur communication risquerait vraisemblablement de causer des pertes ou profits financiers appréciables aux intéressés, ou de nuire à leur compétitivité, et que le préjudice pouvant résulter de leur communication l’emporte sur l’importance, au regard de l’intérêt public, de leur communication;
+	- **b)** soit qu’il s’agit de renseignements financiers, commerciaux, scientifiques ou techniques de nature confidentielle, traités comme tels de façon constante par les intéressés, et que l’intérêt de ces derniers à préserver la confidentialité des renseignements l’emporte sur l’importance, au regard de l’intérêt public, de leur communication;
+	- **c)** soit qu’il y a un risque sérieux que la communication des renseignements compromette la sécurité de pipe-lines, au sens de l’article 135, d’installations, de navires, d’aéronefs ou de réseaux ou systèmes divers, y compris de réseaux ou systèmes informatisés ou de communication, qui sont destinés à des activités visées par la présente loi — ou la sécurité de méthodes employées pour leur protection — et que la nécessité d’empêcher leur communication l’emporte sur l’importance, au regard de l’intérêt public, de leur communication.
+
+**Exception — paragraphes (9) à (11)**
+
+- **(12)** Les paragraphes (9) à (11) ne s’appliquent pas à l’égard des catégories de renseignements visées aux alinéas (5)a) à e) et i).
+> 1987, ch. 3, art. 119; 1988, ch. 28, art. 260; 1992, ch. 35, art. 48; 1994, ch. 26, art. 13(F); 2015, ch. 4, art. 46.
+
+
+
+
+
+**Avis — paragraphe 119(11)**
+
+**119.1** 
+
+- **(1)** Avant de procéder à toute communication de renseignements en vertu du paragraphe 119(11), l’Office fait tous les efforts raisonnables pour donner avis écrit de son intention à la personne qui les a fournis.
+
+**Renonciation à l’avis**
+
+- **(2)** La personne qui a fourni les renseignements peut renoncer à l’avis prévu au paragraphe (1); tout consentement à la communication des renseignements vaut renonciation à l’avis.
+
+**Contenu de l’avis**
+
+- **(3)** L’avis prévu au paragraphe (1) contient les éléments suivants :
+	- **a)** la mention de l’intention de l’Office de communiquer des renseignements en vertu du paragraphe 119(11);
+	- **b)** la désignation des renseignements qui ont été fournis par le destinataire de l’avis;
+	- **c)** la mention du droit du destinataire de l’avis de présenter à l’Office, dans les vingt jours suivant la transmission de l’avis, ses observations par écrit quant aux raisons qui justifieraient un refus de communication totale ou partielle.
+
+**Observations des tiers et décision**
+
+- **(4)** Dans les cas où il a donné avis à une personne en application du paragraphe (1), l’Office est tenu :
+	- **a)** de lui donner la possibilité de lui présenter par écrit, dans les vingt jours suivant la transmission de l’avis, des observations sur les raisons qui justifieraient un refus de communication totale ou partielle des renseignements;
+	- **b)** après que la personne a eu la possibilité de présenter des observations et au plus tard trente jours après la date de la transmission de l’avis, de prendre une décision quant à la communication des renseignements et de lui donner avis par écrit de sa décision.
+
+**Contenu de l’avis de la décision de donner communication**
+
+- **(5)** L’avis prévu à l’alinéa (4)b) contient les éléments suivants :
+	- **a)** la mention du droit du destinataire de l’avis d’exercer un recours en révision, en vertu du paragraphe (7), dans les vingt jours suivant la transmission de l’avis;
+	- **b)** la mention qu’à défaut de l’exercice du recours en révision dans ce délai, l’Office communiquera les renseignements en cause.
+
+**Communication des renseignements**
+
+- **(6)** Dans les cas où il décide, en vertu de l’alinéa (4)b), de communiquer des renseignements, l’Office donne suite à sa décision dès l’expiration des vingt jours suivant la transmission de l’avis prévu à cet alinéa, sauf si un recours en révision a été exercé en vertu du paragraphe (7).
+
+**Recours en révision**
+
+- **(7)** Le destinataire de l’avis prévu à l’alinéa (4)b) peut, dans les vingt jours suivant la transmission de l’avis, exercer un recours en révision devant la division de première instance de la Cour suprême de Terre-Neuve-et-Labrador.
+
+**Procédure sommaire**
+
+- **(8)** Le recours en révision est entendu et jugé en procédure sommaire, conformément aux règles de pratique applicables à cet égard.
+
+**Précautions à prendre contre la communication**
+
+- **(9)** Lors de procédures relatives au recours prévu au paragraphe (7), la division de première instance de la Cour suprême de Terre-Neuve-et-Labrador prend toutes les précautions possibles, notamment par la tenue d’audiences à huis clos si indiqué, pour éviter que ne soient communiqués de par son propre fait ou celui de quiconque des renseignements qui, en application de la présente loi, sont protégés ou ne peuvent pas être communiqués.
+> 2015, ch. 4, art. 47.
 
 
 
@@ -2575,12 +2757,13 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 **Objet**
 
-**135.1** La présente partie a pour objet la promotion, en ce qui a trait aux activités de recherche et d’exploitation d’hydrocarbures :
+**135.1** La présente partie a pour objet la promotion, en ce qui a trait aux activités de recherche et d’exploitation d’hydrocarbures :
 - **a)** de la sécurité, notamment par des mesures encourageant le secteur à prendre les dispositions voulues pour y parvenir;
 - **b)** de la protection de l’environnement;
+- **b.1)** de la responsabilisation selon le principe du pollueur-payeur;
 - **c)** de la rationalisation de l’exploitation;
 - **d)** de la conclusion d’accords conjoints de production.
-> 1992, ch. 35, art. 53.
+> 1992, ch. 35, art. 53; 2015, ch. 4, art. 48.
 
 
 
@@ -2647,8 +2830,8 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 **Délégation**
 
-**137.1** L’Office peut déléguer à quiconque telle de ses attributions prévues aux articles 138, 138.2, 138.3, 139.1, 139.2 et 163. Le mandat est à exercer conformément à la délégation.
-> 1992, ch. 35, art. 57.
+**137.1** L’Office peut déléguer à quiconque telle de ses attributions prévues aux articles 138, 138.2, 138.3, 139.1, 139.2, 162.1 et 163. Le mandat est à exercer conformément à la délégation.
+> 1992, ch. 35, art. 57; 2015, ch. 4, art. 49.
 
 
 
@@ -2666,7 +2849,7 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 **138** 
 
-- **(1)** L’Office peut, sur demande à lui faite, établie en la forme et contenant les renseignements fixés par lui, selon les modalités réglementaires, délivrer :
+- **(1)** L’Office peut, sur demande à lui faite, établie en la forme et contenant les renseignements fixés par lui, selon les modalités réglementaires, délivrer :
 	- **a)** un permis de travaux;
 	- **b)** sous réserve de l’article 45, une autorisation pour chaque activité projetée.
 
@@ -2674,9 +2857,9 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 - **(2)** Le permis de travaux est valide jusqu’au 31 mars qui suit sa délivrance. Il peut être renouvelé pour des périodes successives maximales d’un an.
 
-**Conditions des permis**
+**Conditions régissant les permis**
 
-- **(3)** Le permis de travaux est assujetti aux conditions réglementaires ou fixées par l’Office et aux droits et cautionnements réglementaires.
+- **(3)** Le permis de travaux est assujetti aux conditions réglementaires ou fixées par l’Office et aux cautionnements réglementaires.
 
 **Copie de la demande**
 
@@ -2684,7 +2867,7 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 **Conditions des autorisations**
 
-- **(4)** L’autorisation est assujettie aux approbations, conditions et cautionnements réglementaires ou fixés par l’Office, notamment les conditions relatives :
+- **(4)** L’autorisation est assujettie aux approbations, conditions et cautionnements réglementaires ou fixés par l’Office, notamment les conditions relatives :
 	- **a)** à la responsabilité en cas de perte, de dommages, de frais ou de dépenses;
 	- **b)** à la réalisation de programmes et d’études en matière d’environnement;
 	- **c)** au paiement des frais que l’Office expose lors de l’approbation, de la conception, de la construction et de l’exploitation des installations et plates-formes de production, entendues au sens des règlements.
@@ -2695,13 +2878,53 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 **Suspension ou annulation**
 
-- **(5)** L’Office peut suspendre ou annuler un permis de travaux ou une autorisation en cas de manquement :
-	- **a)** aux approbations, conditions, droits ou cautionnements, visés par les dispositions de la présente partie, de la partie III.1 ou de leurs règlements, auxquels ils sont assujettis;
+- **(5)** L’Office peut suspendre ou annuler un permis de travaux ou une autorisation en cas de manquement :
+	- **a)** aux approbations, conditions ou cautionnements, visés par les dispositions de la présente partie, de la partie III.1 ou de leurs règlements, auxquels ils sont assujettis;
+	- **a.1)** à l’obligation de payer les droits ou redevances prévus par les règlements pris en vertu de l’article 29.1;
 	- **b)** à l’obligation découlant de la déclaration visée au paragraphe 139.1(1);
-	- **c)** aux paragraphes 139.1(3), 139.2(2) ou 163(1.1);
+	- **c)** aux paragraphes 139.1(3), 139.2(2), 162.1(4) ou (5) ou 163(1.1), (1.2) ou (5);
 	- **c.1)** à toute disposition de la partie III.1;
 	- **d)** aux règlements applicables.
-> 1987, ch. 3, art. 138; 1992, ch. 35, art. 58; 2014, ch. 13, art. 22.
+> 1987, ch. 3, art. 138; 1992, ch. 35, art. 58; 2014, ch. 13, art. 22; 2015, ch. 4, art. 50 et 117.
+
+
+
+
+
+**Évaluation environnementale**
+
+**138.01** 
+
+- **(1)** Si la demande présentée au titre de l’alinéa 138(1)b) ou du paragraphe 139(2) vise une activité concrète prévue au paragraphe (2), l’Office est tenu de faire la déclaration prévue à l’article 54 de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) relativement à cette activité dans les douze mois suivant la date où le demandeur a, de l’avis de l’Office, complété la demande.
+
+**Activité concrète**
+
+- **(2)** L’activité concrète en cause est une activité concrète qui remplit les conditions suivantes :
+	- **a)** cette activité est exercée dans la zone extracôtière;
+	- **b)** cette activité est désignée soit par règlement pris en vertu de l’alinéa 84a) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md), soit par arrêté pris en vertu du paragraphe 14(2) de cette loi;
+	- **c)** l’Office est l’autorité responsable, au sens du paragraphe 2(1) de cette loi, à l’égard de cette activité;
+	- **d)** l’évaluation environnementale de cette activité n’a pas été renvoyée au titre de l’article 38 de cette loi pour examen par une commission.
+Elle comprend les activités concrètes qui sont accessoires à l’activité concrète qui remplit ces conditions.
+
+**Période exclue du délai**
+
+- **(3)** Si l’Office exige du demandeur, relativement à l’activité concrète, la communication de renseignements ou la réalisation d’études, la période prise, de l’avis de l’Office, par le demandeur pour remplir l’exigence n’est pas comprise dans le calcul du délai prévu au paragraphe (1).
+
+**Avis publics**
+
+- **(4)** L’Office rend publiques sans délai :
+	- **a)** la date où commence la période de douze mois visée au paragraphe (1);
+	- **b)** la date où commence la période visée au paragraphe (3) et celle où elle se termine.
+> 2015, ch. 4, art. 51.
+
+
+
+
+
+**Programme d’aide financière**
+
+**138.02** L’Office peut créer un programme d’aide financière pour faciliter la participation du public à l’évaluation environnementale, au sens du paragraphe 2(1) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md), de toute activité concrète prévue au paragraphe 138.01(2) qui satisfait à la condition énoncée à l’alinéa 58(1)a) de cette loi et qui fait l’objet d’une demande présentée au titre de l’alinéa 138(1)b) ou du paragraphe 139(2).
+> 2015, ch. 4, art. 51.
 
 
 
@@ -2748,14 +2971,14 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 
 
-#### Responsabilité financière
+#### Exigences financières
 
 
 
-**Respect du paragraphe 163(1)**
+**Respect de certaines dispositions**
 
-**138.3** Avant de délivrer l’autorisation visée à l’alinéa 138(1)b), l’Office veille à ce que le demandeur se soit conformé à l’obligation prévue au paragraphe 163(1).
-> 1992, ch. 35, art. 58.
+**138.3** Avant de délivrer l’autorisation visée à l’alinéa 138(1)b), l’Office s’assure que le demandeur s’est conformé aux obligations prévues aux paragraphes 162.1(1) ou (2) et 163(1) ou (1.01).
+> 1992, ch. 35, art. 58; 2015, ch. 4, art. 53.
 
 
 
@@ -3083,6 +3306,9 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 	- **f)** régir les certificats pour l’application de l’article 139.2;
 	- **g)** interdire, dans les circonstances prévues par règlement, l’introduction dans l’air, le sol ou l’eau de substances, de catégories de substances et de formes d’énergie;
 	- **h)** autoriser, pour l’application du paragraphe 160(1), des déversements, dégagements ou écoulements d’hydrocarbures;
+	- **h.1)** établir les critères que doit respecter tout fonds commun visé au paragraphe 163(1.01);
+	- **h.2)** régir, pour l’application du paragraphe 163.1(1), les circonstances dans lesquelles l’Office peut faire une recommandation et les renseignements à fournir relativement à cette recommandation;
+	- **h.3)** régir la tenue, la conservation et la production de dossiers;
 	- **i)** prendre toute mesure d’ordre réglementaire d’application de la présente partie.
 
 **Normes ou spécifications**
@@ -3153,12 +3379,12 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 **151.1** 
 
-- **(1)** L’Office peut publier, selon les modalités qu’il estime indiquées, des directives et des textes interprétatifs relativement à l’application des articles 45, 138 et 139 ou des règlements pris au titre de l’article 149.
+- **(1)** L’Office peut publier, selon les modalités qu’il estime indiquées, des directives et des textes interprétatifs relativement à la mise en oeuvre des articles 45, 138 et 139, du paragraphe 163(1.01) et des règlements pris au titre des articles 29.1 et 149.
 
 **Réputés ne pas être des textes réglementaires**
 
 - **(2)** Ces directives et textes sont réputés ne pas être des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
-> 1987, ch. 3, art. 151.1; 1992, ch. 35, art. 65.
+> 1987, ch. 3, art. 151.1; 1992, ch. 35, art. 65; 2015, ch. 4, art. 56.
 
 
 
@@ -3455,41 +3681,91 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 
 
-**Recouvrement des pertes, frais, etc. : rejets**
+**Recouvrement des pertes, frais, etc. : rejets**
 
 **162** 
 
-- **(1)** Lorsque des déversements, dégagements ou écoulements autorisés par règlement ou des rejets se produisent dans la zone extracôtière :
-	- **a)** quiconque est tenu d’obtenir l’autorisation visée à l’alinéa 138(1)b) et relative aux activités qui les ont provoqués est responsable, même en l’absence de preuve de faute ou de négligence, jusqu’à concurrence de la limite réglementaire :
-		- **(i)** de l’intégralité de la perte ou des dommages réels subis par un tiers à la suite des rejets,
-		- **(ii)** des frais entraînés par l’Office ou Sa Majesté du chef du Canada ou de la province ou toute autre personne à la suite des mesures prises à l’égard des rejets;
-	- **b)** tous ceux à la négligence ou à la faute desquels les rejets sont attribuables ou que la loi rend responsables de préposés à la faute ou négligence desquels ces rejets sont attribuables sont solidairement tenus, dans la mesure où la faute ou négligence est prononcée, de l’intégralité des pertes ou dommages réels subis par un tiers à la suite des rejets.
+- **(1)** Lorsque des déversements, dégagements ou écoulements autorisés par règlement ou des rejets se produisent dans la zone extracôtière :
+	- **a)** tous ceux à la faute ou négligence desquels les déversements, dégagements, écoulements ou rejets sont attribuables ou que la loi rend responsables de préposés à la faute ou négligence desquels ces déversements, dégagements, écoulements ou rejets sont attribuables sont solidairement responsables, dans la mesure où la faute ou négligence est prononcée :
+		- **(i)** des pertes ou dommages réels subis par un tiers à la suite des déversements, dégagements, écoulements ou rejets ou des mesures prises à leur égard,
+		- **(ii)** des frais engagés par l’Office ou Sa Majesté du chef du Canada ou de la province ou toute autre personne pour la prise de mesures à l’égard des déversements, dégagements, écoulements ou rejets,
+		- **(iii)** de la perte de la valeur de non-usage liée aux ressources publiques touchées par les déversements, dégagements, écoulements ou rejets ou des mesures prises à leur égard;
+	- **b)** la personne tenue d’obtenir l’autorisation visée à l’alinéa 138(1)b) pour les activités qui ont provoqué les déversements, dégagements, écoulements ou rejets est responsable, en l’absence de preuve de faute ou de négligence, jusqu’à concurrence de la limite de responsabilité applicable prévue au paragraphe (2.2), des pertes, dommages et frais prévus aux sous-alinéas a)(i) à (iii).
 
-**Recouvrement, pertes, frais, etc. : débris**
+**Recouvrement, pertes, frais, etc. : débris**
 
-- **(2)** Lorsque des débris causent à quiconque une perte ou des dommages réels ou en cas de frais entraînés pour l’Office par Sa Majesté du chef du Canada ou de la province afin de remédier à la situation créée par la présence de débris :
-	- **a)** quiconque est tenu d’obtenir l’autorisation visée à l’alinéa 138(1)b) et relative aux activités qui ont provoqué la présence des débris est responsable, même en l’absence de preuve de faute ou de négligence, jusqu’à concurrence de la limite réglementaire de l’intégralité de ces pertes, dommages ou frais;
-	- **b)** tous ceux à la faute ou négligence desquels la présence de débris est attribuable ou que la loi rend responsables de préposés à la faute ou négligence desquels cette présence est attribuable sont solidairement tenus, dans la mesure où la faute ou négligence est prononcée, de l’intégralité des mêmes pertes, dommages ou frais.
+- **(2)** Lorsque des débris ou des mesures prises à leur égard causent une perte de la valeur de non-usage liée aux ressources publiques ou causent à un tiers une perte ou des dommages réels, ou si des frais sont engagés par l’Office ou Sa Majesté du chef du Canada ou de la province pour la prise de mesures à l’égard des débris :
+	- **a)** tous ceux à la faute ou négligence desquels la présence de débris est attribuable ou que la loi rend responsables de préposés à la faute ou négligence desquels cette présence est attribuable sont solidairement responsables, dans la mesure où la faute ou négligence est prononcée, de ces pertes, dommages et frais;
+	- **b)** la personne tenue d’obtenir l’autorisation visée à l’alinéa 138(1)b) pour les activités qui ont provoqué la présence des débris est responsable, en l’absence de preuve de faute ou de négligence, jusqu’à concurrence de la limite de responsabilité applicable prévue au paragraphe (2.2), de ces pertes, dommages et frais.
 
-**Plafond de responsabilité**
+**Responsabilité indirecte — entrepreneur**
 
-- **(2.1)** Nul ne peut être tenu, au titre des paragraphes (1) ou (2), responsable pour un montant supérieur au plus élevé de la limite réglementaire prévue aux alinéas (1)a) ou (2)a) et du montant maximum de responsabilité prévu par une autre loi pour le même événement.
+- **(2.1)** La personne tenue d’obtenir l’autorisation visée à l’alinéa 138(1)b) qui retient, pour exercer une activité pour laquelle l’autorisation doit être obtenue, les services d’un entrepreneur visé par les alinéas (1)a) ou (2)a) est solidairement responsable avec lui des pertes, dommages et frais prévus aux sous-alinéas (1)a)(i) à (iii) et au paragraphe (2).
+
+**Limites de responsabilité**
+
+- **(2.2)** Pour l’application des alinéas (1)b) et (2)b), les limites de responsabilité sont les suivantes :
+	- **a)** l’excédent d’un milliard de dollars sur le montant prescrit en vertu de l’article 9 de la [Loi sur la prévention de la pollution des eaux arctiques](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-12.md) pour toute activité ou opération poursuivie par une personne visée à l’alinéa 6(1)a) de cette loi, dans le cas d’une zone terrestre ou sous-marine mentionnée à cet alinéa;
+	- **b)** un milliard de dollars, dans le cas d’une zone assujettie à la présente loi et à l’égard de laquelle l’alinéa a) ne s’applique pas.
+
+**Augmentation des limites de responsabilité**
+
+- **(2.3)** Sous réserve de l’article 7, le gouverneur en conseil peut, par règlement augmenter les montants prévus au paragraphe (2.2).
+
+**Responsabilité en vertu d’une autre loi — alinéas (1)b) ou (2)b)**
+
+- **(2.4)** La personne dont la responsabilité est engagée, en l’absence de preuve de faute ou de négligence, pour le même événement en application des alinéas (1)b) ou (2)b) et de toute autre loi est responsable jusqu’à concurrence de la limite de responsabilité la plus élevée entre la limite applicable prévue au paragraphe (2.2) et celle prévue par l’autre loi. Si l’autre loi ne prévoit aucune limite, les limites prévues au paragraphe (2.2) ne s’appliquent pas à cette personne.
+
+**Frais non recouvrables en vertu de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md)**
+
+- **(2.5)** Les frais recouvrables par Sa Majesté du chef du Canada ou de la province au titre du présent article ne peuvent être recouvrés au titre du paragraphe 42(1) de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md).
+
+**Poursuites : pertes de valeur de non-usage**
+
+- **(2.6)** Seule Sa Majesté du chef du Canada ou de la province peut engager des poursuites pour le recouvrement des pertes de valeur de non-usage visées aux paragraphes (1) et (2).
 
 **Créances**
 
-- **(3)** Le recouvrement des créances fondées sur le présent article peut être poursuivi devant toute juridiction compétente au Canada; les créances correspondant aux pertes ou dommages réels sont traitées au prorata et prennent rang avant celles qui correspondent aux frais mentionnés aux paragraphes (1) ou (2).
+- **(3)** Le recouvrement des créances fondées sur le présent article peut être poursuivi devant toute juridiction compétente au Canada. Les créances correspondant aux pertes ou dommages réels sont traitées au prorata et prennent rang avant celles qui correspondent aux frais mentionnés aux paragraphes (1) ou (2); ces dernières prennent rang avant celles qui correspondent aux pertes de valeur de non-usage visées à ces paragraphes.
 
 **Réserve**
 
-- **(4)** Aucune disposition du présent article n’a pour effet de suspendre ou de limiter :
+- **(4)** Sous réserve des paragraphes (2.5) et (2.6), le présent article n’a pour effet de suspendre ou de limiter :
 	- **a)** des obligations ou recours légaux à l’égard d’un fait — acte ou omission — au seul motif que le fait constitue une infraction à la présente section ou entraîne la responsabilité sous le régime de cet article;
 	- **b)** les moyens de droit susceptibles d’être opposés à des poursuites fondées sur celui-ci;
 	- **c)** l’application d’une règle de droit compatible avec cet article.
 
-**Délais de prescription**
+**Prescription**
 
-- **(5)** Les poursuites en recouvrement de créances fondées sur le présent article se prescrivent par trois ans après la date des pertes, dommages ou frais et par six ans après la date des rejets ou après la date où s’est manifestée la présence des débris.
-> 1987, ch. 3, art. 162; 1992, ch. 35, art. 75.
+- **(5)** Les poursuites en recouvrement de créances fondées sur le présent article se prescrivent par trois ans après la date des pertes, dommages ou frais et par six ans après la date des déversements, dégagements, écoulements ou rejets ou après la date où s’est manifestée la présence des débris.
+> 1987, ch. 3, art. 162; 1992, ch. 35, art. 75; 2015, ch. 4, art. 60.
+
+
+
+
+
+**Ressources financières — certaines activités**
+
+**162.1** 
+
+- **(1)** Toute personne qui demande une autorisation visée à l’alinéa 138(1)b) pour le forage, l’exploitation ou la production d’hydrocarbures fournit la preuve — établie en la forme et selon les modalités réglementaires — qu’elle dispose des ressources financières nécessaires pour payer la plus élevée des limites de responsabilité prévues au paragraphe 162(2.2) s’appliquant en l’espèce. S’il l’estime nécessaire, l’Office peut fixer une somme qui est supérieure à cette limite et exiger de la personne qu’elle fournisse la preuve qu’elle dispose des ressources financières nécessaires pour payer cette somme.
+
+**Ressources financières — autres activités**
+
+- **(2)** Toute personne qui demande une autorisation visée à l’alinéa 138(1)b) pour toute autre activité fournit la preuve — établie en la forme et selon les modalités réglementaires — qu’elle dispose des ressources financières nécessaires pour payer la somme que fixe l’Office.
+
+**Perte de la valeur de non-usage**
+
+- **(3)** Lorsqu’il fixe les sommes visées aux paragraphes (1) ou (2), l’Office n’a pas à tenir compte de la perte éventuelle de la valeur de non-usage liée aux ressources publiques touchées par la présence de débris ou si des déversements, dégagements ou écoulements autorisés par règlement ou des rejets se produisent.
+
+**Obligation continue**
+
+- **(4)** Il incombe au bénéficiaire de l’autorisation de faire en sorte que la preuve visée aux paragraphes (1) et (2) demeure valide durant les activités visées.
+
+**Prolongation de l’obligation**
+
+- **(5)** En outre, il incombe au bénéficiaire de l’autorisation de faire en sorte que la preuve visée au paragraphe (1) demeure valide pour une période d’un an à compter de la date à laquelle l’Office avise le bénéficiaire qu’il a accepté le rapport, soumis par celui-ci, indiquant que le dernier puits visé par l’autorisation est abandonné. L’Office peut toutefois réduire cette période ou décider que cette preuve est qu’il dispose des ressources financières nécessaires pour payer le montant — inférieur à la limite ou à la somme visée au paragraphe (1) — que fixe l’Office.
+> 2015, ch. 4, art. 61.
 
 
 
@@ -3499,15 +3775,29 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 **163** 
 
-- **(1)** Quiconque demande une autorisation visée à l’alinéa 138(1)b) est tenu au dépôt à titre de preuve de solvabilité du montant que l’Office estime suffisant, sous toute forme jugée acceptable, notamment lettre de crédit, garantie ou cautionnement.
+- **(1)** Toute personne qui demande une autorisation visée à l’alinéa 138(1)b) est tenue au dépôt, à titre de preuve de solvabilité, sous toute forme jugée acceptable par l’Office, notamment lettre de crédit, garantie ou cautionnement :
+	- **a)** d’un montant de cent millions de dollars — ou tout autre montant supérieur que fixe l’Office s’il l’estime nécessaire — dans le cas d’opérations de forage, de l’exploitation ou de la production d’hydrocarbures dans une zone extracôtière;
+	- **b)** d’un montant que l’Office estime suffisant et qu’il fixe, dans tout autre cas.
 
-**Obligation**
+**Fonds commun**
 
-- **(1.1)** Il incombe au bénéficiaire de l’autorisation de faire en sorte que la preuve de solvabilité demeure valide durant les activités visées.
+- **(1.01)** Toute personne qui est tenue au dépôt prévu à l’alinéa (1)a) peut, au lieu d’effectuer le dépôt à titre de preuve de solvabilité, faire la preuve de sa participation à un fonds commun établi par l’industrie pétrolière et gazière, maintenu à un montant d’au moins deux cent cinquante millions de dollars et respectant tout autre critère prévu aux règlements.
+
+**Augmentation des limites de responsabilité**
+
+- **(1.02)** Sous réserve de l’article 7, le gouverneur en conseil peut, par règlement, augmenter le montant prévu au paragraphe (1.01).
+
+**Obligation continue**
+
+- **(1.1)** Il incombe au bénéficiaire de l’autorisation de faire en sorte que la preuve visée aux paragraphes (1) ou (1.01) demeure valide durant les activités visées.
+
+**Prolongation de l’obligation**
+
+- **(1.2)** En outre, il incombe au bénéficiaire de l’autorisation de faire en sorte que la preuve visée à l’alinéa (1)a) ou au paragraphe (1.01) demeure valide pour une période d’un an à compter de la date à laquelle l’Office avise le bénéficiaire qu’il a accepté le rapport, soumis par celui-ci, indiquant que le dernier puits visé par l’autorisation est abandonné. L’Office peut toutefois réduire cette période ou, sauf dans le cas du bénéficiaire qui participe à un fonds commun, décider que cette preuve vise le montant — inférieur au montant visé à l’alinéa (1)a) — que fixe l’Office.
 
 **Paiement sur les fonds déposés**
 
-- **(2)** L’Office peut exiger que des sommes n’excédant pas un plafond fixé par règlement pour tout cas particulier ou catégorie de cas ou, en l’absence de règlement, par lui-même, soient payées sur les fonds rendus disponibles en vertu de la lettre de crédit, de la garantie, du cautionnement ou de toute autre forme d’engagement financier prévus au paragraphe (1) à l’égard des créances dont le recouvrement peut être poursuivi sur le fondement de l’article 162, qu’il y ait eu ou non poursuite.
+- **(2)** L’Office peut exiger que des sommes n’excédant pas le montant fixé par règlement pour tout cas particulier ou catégorie de cas ou, en l’absence de règlement, par lui-même, soient payées sur les fonds rendus disponibles aux termes de la lettre de crédit, de la garantie, du cautionnement ou de toute autre preuve de solvabilité visée au paragraphe (1) ou à même le fonds commun visé au paragraphe (1.01) à l’égard des créances dont le recouvrement peut être poursuivi sur le fondement de l’article 162, qu’il y ait eu ou non poursuite.
 
 **Modalités du paiement**
 
@@ -3516,7 +3806,30 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Déduction**
 
 - **(4)** Sont à déduire des sommes allouées à l’issue des poursuites fondées sur l’article 162, celles reçues par le demandeur sous le régime du présent article à l’égard des pertes, dommages ou frais en cause.
-> 1987, ch. 3, art. 163; 1992, ch. 35, art. 76.
+
+**Remboursement du fonds commun**
+
+- **(5)** Le bénéficiaire de l’autorisation responsable des déversements, dégagements ou écoulements autorisés par règlement ou des rejets ou débris à l’égard desquels un paiement a été effectué en vertu du paragraphe (2) sur le fonds commun est tenu de rembourser le fonds, selon les modalités réglementaires, des sommes ainsi payées.
+> 1987, ch. 3, art. 163; 1992, ch. 35, art. 76; 2015, ch. 4, art. 62.
+
+
+
+
+
+**Montant inférieur**
+
+**163.1** 
+
+- **(1)** Le ministre fédéral peut, par arrêté, sur recommandation de l’Office et avec l’approbation du ministre provincial, approuver un montant inférieur au montant visé à l’un des alinéas 162(2.2)a) ou b) ou 163(1)a) à l’égard de toute personne qui demande une autorisation visée à l’alinéa 138(1)b) ou de tout bénéficiaire d’une telle autorisation.
+
+**Ressources financières — exception**
+
+- **(2)** Si le ministre fédéral approuve un montant inférieur au montant visé aux alinéas 162(2.2)a) ou b) à l’égard d’une personne qui demande une autorisation visée à l’alinéa 138(1)b), cette personne n’est tenue, pour l’application du paragraphe 162.1(1), que de fournir la preuve qu’elle dispose des ressources financières nécessaires pour payer la limite de responsabilité ajustée approuvée par le ministre.
+
+**Aucune contravention**
+
+- **(3)** La personne qui demande une autorisation visée à l’alinéa 138(1)b) et qui dépose, à titre de preuve de solvabilité, un montant approuvé par le ministre fédéral en vertu du présent article ne contrevient pas à l’alinéa 163(1)a).
+> 2015, ch. 4, art. 63.
 
 
 
@@ -4309,7 +4622,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 **194** 
 
-- **(1)** Commet une infraction quiconque :
+- **(1)** Commet une infraction quiconque :
 	- **a)** contrevient à la présente partie ou aux règlements;
 	- **b)** insère une inscription ou une déclaration fausse dans un rapport, dossier ou autre document exigé par la présente partie ou ses règlements, ou par un arrêté pris ou un ordre donné sous leur régime;
 	- **c)** détruit, endommage ou falsifie un dossier ou autre document exigé par la présente partie ou ses règlements, ou par un arrêté pris ou un ordre donné sous leur régime;
@@ -4319,20 +4632,52 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 **Peines**
 
-- **(2)** Quiconque commet une infraction visée au présent article encourt, sur déclaration de culpabilité :
+- **(2)** Quiconque commet une infraction visée au présent article encourt, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, une amende maximale de cent mille dollars et un emprisonnement maximal d’un an, ou l’une de ces peines;
 	- **b)** par mise en accusation, une amende maximale d’un million de dollars et un emprisonnement maximal de cinq ans, ou l’une de ces peines.
 
+**Détermination de la peine : principes**
+
+- **(3)** Pour la détermination de la peine à infliger à la personne déclarée coupable d’une infraction à la présente partie, le tribunal, en sus des principes et facteurs qu’il est par ailleurs tenu de prendre en considération — y compris ceux énoncés aux articles 718.1 à 718.21 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) —, tient compte des principes suivants :
+	- **a)** le montant de l’amende devrait être majoré en fonction des circonstances aggravantes de l’infraction, notamment celles énoncées au paragraphe (4);
+	- **b)** le montant de l’amende devrait refléter la gravité de chacune des circonstances aggravantes de l’infraction.
+
+**Détermination de la peine : circonstances aggravantes**
+
+- **(4)** Les circonstances aggravantes dont le tribunal tient compte sont les suivantes :
+	- **a)** l’infraction a porté atteinte ou a présenté un risque d’atteinte à la santé ou à la sécurité humaines;
+	- **b)** l’infraction a causé un dommage ou a créé un risque de dommage à l’environnement ou à la qualité de l’environnement;
+	- **c)** l’infraction a causé un dommage ou a créé un risque de dommage à un élément de l’environnement unique, rare, particulièrement important ou vulnérable;
+	- **d)** l’infraction a causé un dommage ou a porté une atteinte considérables, persistants ou irréparables;
+	- **e)** le contrevenant a agi de façon intentionnelle ou insouciante;
+	- **f)** le contrevenant a omis de prendre des mesures raisonnables pour empêcher la perpétration de l’infraction;
+	- **g)** le contrevenant, en commettant l’infraction ou en omettant de prendre des mesures pour empêcher sa perpétration, a accru ses revenus ou a réduit ses dépenses, ou avait l’intention de le faire;
+	- **h)** le contrevenant a dans le passé contrevenu aux lois fédérales ou provinciales relatives à la sécurité ou à la conservation ou la protection de l’environnement;
+	- **i)** le contrevenant, après avoir commis l’infraction :
+		- **(i)** a tenté de dissimuler sa perpétration,
+		- **(ii)** a omis de prendre rapidement des mesures afin d’empêcher ou d’atténuer les conséquences de l’infraction, ou encore d’y remédier,
+		- **(iii)** a omis de prendre rapidement des mesures pour réduire le risque de commettre des infractions semblables.
+
+**Absence de circonstances aggravantes**
+
+- **(4.1)** L’absence de circonstances aggravantes mentionnées au paragraphe (4) ne constitue pas une circonstance atténuante.
+
+**Sens de dommage**
+
+- **(4.2)** Pour l’application des alinéas (4)b) à d), ***dommage*** s’entend notamment de la perte des valeurs d’usage et de non-usage.
+
+**Motifs**
+
+- **(4.3)** Le tribunal qui décide de ne pas majorer le montant de l’amende, bien qu’il soit convaincu de l’existence d’une ou de plusieurs des circonstances aggravantes mentionnées au paragraphe (4), motive sa décision.
+
 **Disculpation : précautions voulues**
 
-- **(3)** Nul ne peut être déclaré coupable d’une infraction prévue à la présente partie s’il prouve qu’il a pris toutes les précautions voulues pour prévenir sa perpétration.
-
-- **(4)** [Abrogé, 1992, ch. 35, art. 81]
+- **(4.4)** Nul ne peut être déclaré coupable d’une infraction prévue à la présente partie s’il prouve qu’il a pris toutes les précautions voulues pour prévenir sa perpétration.
 
 **Absence de présomption de gaspillage**
 
 - **(5)** La personne qui fait du gaspillage au sens des alinéas 154(2)f) ou g) n’est censée commettre une infraction au paragraphe 154(1) que si le Comité lui a ordonné de prendre des mesures en vue de prévenir le gaspillage et qu’elle ne l’a pas fait.
-> 1987, ch. 3, art. 194; 1992, ch. 35, art. 81; 2014, ch. 13, art. 39.
+> 1987, ch. 3, art. 194; 1992, ch. 35, art. 81; 2014, ch. 13, art. 39; 2015, ch. 4, art. 64 et 117.
 
 
 
@@ -4361,29 +4706,58 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 
 
+**195.2** [Abrogé, 2015, ch. 4, art. 117]
+
+
+
+**195.3** [Abrogé, 2015, ch. 4, art. 117]
+
+
+
+**195.4** [Abrogé, 2015, ch. 4, art. 117]
+
+
+
+**195.5** [Abrogé, 2015, ch. 4, art. 117]
+
+
+
 
 **Ordonnance du tribunal**
 
-**195.2** 
+**196** 
 
-- **(1)** En plus de toute peine prévue par la présente partie et compte tenu de la nature de l’infraction ainsi que des circonstances de sa perpétration, le tribunal peut, par ordonnance, imposer à la personne déclarée coupable d’une infraction à la présente partie tout ou partie des obligations suivantes :
+- **(1)** En plus de toute peine prévue par la présente partie et compte tenu de la nature de l’infraction ainsi que des circonstances de sa perpétration, le tribunal peut, par ordonnance, imposer à la personne déclarée coupable d’une infraction à la présente partie tout ou partie des obligations suivantes :
 	- **a)** s’abstenir de tout acte ou de toute activité risquant d’entraîner, de l’avis du tribunal, la continuation de l’infraction ou la récidive;
-	- **b)** prendre les mesures que le tribunal estime indiquées pour empêcher tout préjudice ou dommage découlant des faits qui ont mené à la déclaration de culpabilité ou pour y remédier;
-	- **c)** publier, à ses frais, selon les modalités fixées par le tribunal, les faits liés à l’infraction;
-	- **d)** fournir au délégué à la sécurité, sur demande présentée par lui dans les trois ans suivant la déclaration de culpabilité, les renseignements que le tribunal estime indiqués en l’occurrence sur ses activités;
-	- **e)** verser à l’Office une somme que le tribunal estime indiquée, en vue de la recherche, de l’éducation et de la formation en matière de protection de l’environnement, de rationalisation de l’exploitation ou de sécurité des opérations pétrolières;
-	- **f)** exécuter des travaux d’intérêt collectif aux conditions raisonnables que peut fixer le tribunal;
-	- **g)** donner un cautionnement ou déposer auprès du tribunal une somme d’argent que celui-ci estime indiquée en garantie de l’observation, en tout ou en partie, des obligations imposées ou conditions fixées au titre d’une ordonnance rendue en vertu du présent article;
-	- **h)** se conformer aux autres conditions que le tribunal estime indiquées en l’occurrence pour assurer sa bonne conduite et empêcher toute récidive et la perpétration d’autres infractions à la présente partie.
+	- **b)** prendre les mesures que le tribunal estime indiquées pour réparer le dommage à l’environnement résultant des faits qui ont mené à la déclaration de culpabilité ou prévenir un tel dommage;
+	- **c)** prendre les mesures que le tribunal estime indiquées pour empêcher tout préjudice ou dommage découlant des faits qui ont mené à la déclaration de culpabilité ou pour y remédier;
+	- **d)** mener des études de suivi des effets sur l’environnement, de la façon indiquée par l’Office, ou verser, selon les modalités qu’il précise, une somme d’argent destinée à la réalisation de ces études;
+	- **e)** apporter les modifications à son système de gestion de l’environnement que l’Office juge acceptables;
+	- **f)** faire effectuer une vérification environnementale par une personne appartenant à la catégorie de personnes désignée par l’Office à des moments que celui-ci précise, et prendre les mesures appropriées pour remédier aux défauts constatés;
+	- **g)** verser à Sa Majesté du chef du Canada, pour la promotion de la conservation, de la protection ou de la restauration de l’environnement, ou au crédit du Fonds pour dommages à l’environnement — ouvert parmi les comptes du Canada —, la somme que le tribunal estime indiquée;
+	- **h)** verser à l’Office une somme que le tribunal estime indiquée, en vue de la recherche, de l’éducation et de la formation en matière de protection de l’environnement, de rationalisation de l’exploitation ou de sécurité des opérations pétrolières;
+	- **i)** publier, de la façon que le tribunal précise, les faits liés à la perpétration de l’infraction et les détails de la peine imposée, y compris des ordonnances rendues en vertu du présent paragraphe;
+	- **j)** fournir au délégué à la sécurité, sur demande présentée par lui dans les trois ans suivant la déclaration de culpabilité, les renseignements que le tribunal estime indiqués en l’occurrence sur ses activités;
+	- **k)** aviser les personnes touchées ou lésées par sa conduite, à ses frais et de la façon que le tribunal précise, des faits liés à la perpétration de l’infraction et des détails de la peine imposée, y compris des ordonnances rendues en vertu du présent paragraphe;
+	- **l)** donner un cautionnement ou déposer auprès du tribunal une somme d’argent que celui-ci estime indiquée en garantie de l’observation des obligations imposées ou des conditions fixées dans l’ordonnance;
+	- **m)** exécuter des travaux d’intérêt collectif aux conditions raisonnables que peut fixer le tribunal;
+	- **n)** verser, selon les modalités que le tribunal précise, une somme d’argent à des groupes concernés notamment par l’environnement ou la santé, pour les aider dans le travail qu’ils accomplissent;
+	- **o)** verser à un établissement d’enseignement, selon les modalités que le tribunal précise, une somme d’argent notamment destinée à créer des bourses d’études attribuées à quiconque suit un programme d’études dans un domaine lié à l’environnement;
+	- **p)** se conformer à toutes autres conditions que le tribunal estime indiquées en l’occurrence pour assurer sa bonne conduite et empêcher toute récidive et la perpétration d’autres infractions à la présente partie;
+	- **q)** s’abstenir, pendant la période que le tribunal estime indiquée, de prendre des mesures en vue de l’acquisition d’un titre sous le régime de la présente loi ou de présenter une nouvelle demande de permis ou autre autorisation sous son régime.
 
 **Prise d’effet et durée**
 
-- **(2)** Toute ordonnance rendue en vertu du paragraphe (1) prend effet soit à la date où elle est prononcée, soit à la date fixée par le tribunal, et elle demeure en vigueur pendant trois ans au plus.
+- **(2)** Toute ordonnance rendue en vertu du paragraphe (1) prend effet soit à la date où elle est rendue, soit à la date fixée par le tribunal, et demeure en vigueur pendant une durée maximale de trois ans.
 
 **Publication**
 
-- **(3)** En cas de manquement à l’ordre de publier les faits liés à l’infraction, le délégué à la sécurité peut procéder à la publication et en recouvrer les frais auprès du contrevenant.
-> 2014, ch. 13, art. 40.
+- **(3)** En cas de manquement à l’ordonnance de publier les faits liés à l’infraction et les détails de la peine imposée, l’Office peut procéder à la publication, de la façon précisée par le tribunal au contrevenant, et en recouvrer les frais auprès de celui-ci.
+
+**Créances de l’Office**
+
+- **(4)** Les frais visés au paragraphe (3) constituent des créances de l’Office dont le recouvrement peut être poursuivi à ce titre devant le tribunal compétent.
+> 1987, ch. 3, art. 196; 2015, ch. 4, art. 65 et 117.
 
 
 
@@ -4391,16 +4765,16 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 **Ordonnance de modification des sanctions**
 
-**195.3** 
+**196.1** 
 
-- **(1)** Le tribunal qui a rendu une ordonnance en vertu du paragraphe 195.2(1) peut, sur demande du délégué à la sécurité ou du contrevenant, accepter de faire comparaître celui-ci et, après avoir entendu les observations de l’un et l’autre, sous réserve du paragraphe (2), modifier l’ordonnance selon ce qui est applicable en l’espèce et lui paraît justifié par tout changement dans la situation du contrevenant :
-	- **a)** en modifiant les obligations imposées ou les conditions fixées dans l’ordonnance ou en prolongeant sa validité, sans toutefois excéder un an;
-	- **b)** en raccourcissant la période de validité de l’ordonnance ou en dégageant le contrevenant, absolument ou partiellement ou pour une durée limitée, de l’obligation de se conformer à telle condition de celle-ci.
+- **(1)** Le tribunal qui a rendu une ordonnance en vertu de l’article 196 peut, sur demande de l’Office ou du contrevenant, faire comparaître celui-ci et, après avoir entendu les observations de l’un et de l’autre, sous réserve du paragraphe (2), modifier l’ordonnance selon ce qui lui paraît justifié par tout changement dans la situation du contrevenant :
+	- **a)** soit en modifiant les obligations imposées ou les conditions fixées dans l’ordonnance pour une durée limitée ou en prolongeant sa validité, sans toutefois excéder un an;
+	- **b)** soit en raccourcissant la période de validité de l’ordonnance ou en dégageant le contrevenant, absolument ou partiellement ou pour une durée limitée, de l’obligation de se conformer à telle condition de celle-ci.
 
 **Préavis**
 
 - **(2)** Avant de rendre une ordonnance en vertu du paragraphe (1), le tribunal peut en faire donner préavis aux personnes qu’il juge intéressées; il peut aussi les entendre.
-> 2014, ch. 13, art. 40.
+> 2015, ch. 4, art. 65.
 
 
 
@@ -4408,8 +4782,8 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 **Restriction**
 
-**195.4** Après audition de la demande visée au paragraphe 195.3(1), toute nouvelle demande au titre de l’article 195.3 est subordonnée à l’autorisation du tribunal.
-> 2014, ch. 13, art. 40.
+**196.2** Après audition de la demande visée au paragraphe 196.1(1), toute nouvelle demande au titre de l’article 196.1 est subordonnée à l’autorisation du tribunal.
+> 2015, ch. 4, art. 65.
 
 
 
@@ -4417,16 +4791,9 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 **Recouvrement des amendes et autres sommes**
 
-**195.5** En cas de défaut de paiement de l’amende infligée pour une infraction prévue à la présente partie ou d’une somme dont le paiement est ordonné en vertu des paragraphes 195.2(1) ou 195.3(1), le poursuivant peut, par dépôt de la déclaration de culpabilité ou de l’ordonnance auprès de la Cour suprême de Terre-Neuve-et-Labrador, faire tenir pour jugement de cette cour le montant de l’amende ou la somme à payer, y compris les frais éventuels; le jugement est dès lors exécutoire contre l’intéressé comme s’il s’agissait d’un jugement rendu contre lui par cette cour en matière civile.
-> 2014, ch. 13, art. 40.
+**196.3** En cas de défaut de paiement de l’amende infligée pour une infraction prévue à la présente partie ou d’une somme dont le paiement est ordonné en vertu des paragraphes 196(1) ou 196.1(1), le poursuivant peut, par dépôt de la déclaration de culpabilité ou de l’ordonnance auprès de la Cour suprême de Terre-Neuve-et-Labrador, faire tenir pour jugement de cette cour le montant de l’amende ou la somme à payer, y compris les frais éventuels; le jugement est exécutoire contre l’intéressé comme s’il s’agissait d’un jugement rendu contre lui par cette cour en matière civile.
+> 2015, ch. 4, art. 65.
 
-
-
-
-
-**Injonction**
-
-**196** Lorsqu’une personne commet une infraction à la présente partie, le tribunal peut, en sus de toute autre peine qu’il peut imposer, lui ordonner de se conformer aux dispositions pour la violation desquelles elle a été condamnée.
 
 
 
@@ -4482,8 +4849,313 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 **Dénonciation**
 
-**202.1** Toute dénonciation faite sous le régime de la présente partie peut viser plusieurs infractions commises par la même personne, ces infractions pouvant être instruites concurremment et faire l’objet d’une condamnation soit globalement, soit pour l’une ou plusieurs d’entre elles.
-> 2014, ch. 13, art. 43.
+**202.001** Toute dénonciation faite sous le régime de la présente partie peut viser plusieurs infractions commises par la même personne, ces infractions pouvant être instruites concurremment et faire l’objet d’une condamnation soit globalement, soit pour l’une ou plusieurs d’entre elles.
+> 2014, ch. 13, art. 43; 2015, ch. 4, art. 117.
+
+
+
+
+
+#### Sanctions administratives pécuniaires
+
+
+
+##### Attributions
+
+
+
+**Règlements**
+
+**202.01** 
+
+- **(1)** Sous réserve de l’article 7, le gouverneur en conseil peut prendre des règlements afin :
+	- **a)** de désigner comme violation punissable au titre de la présente partie :
+		- **(i)** la contravention à toute disposition spécifiée de la présente partie ou de ses règlements,
+		- **(ii)** la contravention à tout ordre ou arrêté ou à toute ordonnance, instruction ou décision — ou à tout ordre ou arrêté ou à toute ordonnance, instruction ou décision appartenant à une catégorie spécifiée — donné, pris ou rendue, selon le cas, sous le régime de la présente partie,
+		- **(iii)** la contravention à toute condition ou modalité :
+			- **(A)** d’un permis de travaux délivré ou d’une autorisation donnée sous le régime de la présente partie, ou d’une catégorie spécifiée de l’un de ceux-ci,
+			- **(B)** d’une approbation ou d’une dérogation accordées sous le régime de la présente partie ou d’une catégorie spécifiée de l’une de celles-ci;
+	- **b)** de prévoir la détermination ou la méthode de détermination du montant de la pénalité applicable à chaque violation — la pénalité prévue pour les personnes physiques pouvant différer de celle prévue pour les autres personnes;
+	- **c)** de régir, notamment par l’établissement de présomptions et de règles de preuve, la signification de documents autorisée ou exigée par les articles 202.06, 202.2 ou 202.5.
+
+**Plafond — montant de la pénalité**
+
+- **(2)** Le montant de la pénalité déterminé en application d’un règlement pris en vertu de l’alinéa (1)b) et applicable à chaque violation est plafonné, dans le cas des personnes physiques, à vingt-cinq mille dollars et, dans le cas des autres personnes, à cent mille dollars.
+> 2015, ch. 4, art. 66.
+
+
+
+
+
+**Attributions**
+
+**202.02** L’Office peut :
+- **a)** établir la forme des procès-verbaux de violation;
+- **b)** désigner — individuellement ou par catégorie — les agents verbalisateurs;
+- **c)** établir le sommaire caractérisant chaque violation dans les procès-verbaux;
+- **d)** désigner des personnes — individuellement ou par catégorie — pour effectuer les révisions prévues à l’article 202.4.
+> 2015, ch. 4, art. 66.
+
+
+
+
+
+##### Violations
+
+
+
+**Violations**
+
+**202.03** 
+
+- **(1)** La contravention à une disposition, un ordre, un arrêté, une ordonnance, une instruction, une décision, une condition ou une modalité, désignée par règlement pris en vertu de l’alinéa 202.01(1)a), constitue une violation pour laquelle l’auteur s’expose à une pénalité dont le montant est déterminé conformément aux règlements.
+
+**But de la pénalité**
+
+- **(2)** L’imposition de la pénalité ne vise pas à punir, mais plutôt à favoriser le respect de la présente partie.
+> 2015, ch. 4, art. 66.
+
+
+
+
+
+**Participants à la violation : dirigeants, administrateurs et mandataires**
+
+**202.04** Si une personne morale commet une violation, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de la violation et s’exposent à une pénalité dont le montant est déterminé conformément aux règlements, que la personne morale fasse ou non l’objet d’une procédure en violation engagée au titre de la présente partie.
+> 2015, ch. 4, art. 66.
+
+
+
+
+
+**Preuve**
+
+**202.05** Dans les procédures en violation engagées au titre de la présente partie, il suffit, pour prouver la violation, d’établir qu’elle a été commise par un employé ou un mandataire de l’auteur de la violation, que l’employé ou le mandataire ait été ou non identifié ou poursuivi.
+> 2015, ch. 4, art. 66.
+
+
+
+
+
+**Procès-verbal — établissement et signification**
+
+**202.06** 
+
+- **(1)** L’agent verbalisateur qui a des motifs raisonnables de croire qu’une violation a été commise peut dresser un procès-verbal qu’il fait signifier au prétendu auteur de la violation.
+
+**Contenu**
+
+- **(2)** Le procès-verbal mentionne les éléments suivants :
+	- **a)** le nom du prétendu auteur de la violation;
+	- **b)** les faits pertinents concernant la violation;
+	- **c)** le montant de la pénalité;
+	- **d)** le droit qu’a le prétendu auteur de la violation, en vertu de l’article 202.2, de demander la révision des faits concernant la violation ou du montant de la pénalité, ainsi que le délai pour ce faire;
+	- **e)** les modalités de paiement de la pénalité;
+	- **f)** le fait que le prétendu auteur de la violation, s’il ne fait pas de demande de révision ou s’il ne paie pas la pénalité, est réputé avoir commis la violation et est tenu au paiement de cette pénalité.
+> 2015, ch. 4, art. 66.
+
+
+
+
+
+##### Règles propres aux violations
+
+
+
+**Exclusion de certains moyens de défense**
+
+**202.07** 
+
+- **(1)** Le prétendu auteur de la violation ne peut invoquer en défense le fait qu’il a pris les mesures nécessaires pour empêcher la violation ou qu’il croyait raisonnablement et en toute honnêteté à l’existence de faits qui, avérés, l’exonéreraient.
+
+**Principes de common law**
+
+- **(2)** Les règles et principes de common law qui font d’une circonstance une justification ou une excuse dans le cadre d’une poursuite pour infraction à la présente partie s’appliquent à l’égard d’une violation dans la mesure de leur compatibilité avec la présente partie.
+> 2015, ch. 4, art. 66.
+
+
+
+
+
+**Violation continue**
+
+**202.08** Il est compté une violation distincte pour chacun des jours au cours desquels se commet ou se continue la violation.
+> 2015, ch. 4, art. 66.
+
+
+
+
+
+**Cumul interdit**
+
+**202.09** 
+
+- **(1)** S’agissant d’un acte ou d’une omission qualifiable à la fois de violation et d’infraction aux termes de la présente partie, la procédure en violation et la procédure pénale s’excluent l’une l’autre.
+
+**Précision**
+
+- **(2)** Il est entendu que les violations ne sont pas des infractions; en conséquence, nul ne peut être poursuivi à ce titre sur le fondement de l’article 126 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+> 2015, ch. 4, art. 66.
+
+
+
+
+
+**Prescription**
+
+**202.1** Le délai dans lequel le procès-verbal peut être dressé est de deux ans à compter de la violation.
+> 2015, ch. 4, art. 66.
+
+
+
+
+
+##### Révision
+
+
+
+**Droit de faire une demande de révision**
+
+**202.2** Le prétendu auteur de la violation peut, dans les trente jours suivant la signification d’un procès-verbal ou dans le délai supérieur que l’Office peut accorder, saisir l’Office d’une demande de révision du montant de la pénalité ou des faits pertinents concernant la violation, ou des deux.
+> 2015, ch. 4, art. 66.
+
+
+
+
+
+**Annulation ou correction du procès-verbal**
+
+**202.3** Tant que l’Office n’est pas saisi d’une demande de révision du procès-verbal, tout agent verbalisateur peut soit l’annuler, soit corriger toute erreur qu’il contient.
+> 2015, ch. 4, art. 66.
+
+
+
+
+
+**Révision**
+
+**202.4** 
+
+- **(1)** Sur réception de la demande de révision, l’Office procède à la révision ou y fait procéder par une personne désignée en vertu de l’alinéa 202.02d).
+
+**Restriction**
+
+- **(2)** L’Office effectue la révision si le procès-verbal a été dressé par une personne désignée en vertu de l’alinéa 202.02d).
+> 2015, ch. 4, art. 66.
+
+
+
+
+
+**Objet de la révision**
+
+**202.5** 
+
+- **(1)** L’Office ou la personne qui effectue la révision décide, selon le cas, si le montant de la pénalité a été déterminé conformément aux règlements ou si le demandeur a commis la violation, ou les deux.
+
+**Décision**
+
+- **(2)** L’Office ou la personne qui effectue la révision rend sa décision par écrit et signifie copie de celle-ci au demandeur, motifs à l’appui.
+
+**Correction du montant de la pénalité**
+
+- **(3)** L’Office ou la personne qui effectue la révision corrige le montant de la pénalité s’il estime qu’il n’a pas été déterminé conformément aux règlements.
+
+**Obligation de payer la pénalité**
+
+- **(4)** En cas de décision défavorable, l’auteur de la violation est tenu au paiement de la pénalité mentionnée dans le procès-verbal dressé en vertu de l’article 202.06 ou, si le montant en a été corrigé en vertu du paragraphe (3), dans la décision.
+
+**Décision définitive**
+
+- **(5)** La décision est définitive et exécutoire et, sous réserve de contrôle judiciaire par la division de première instance de la Cour suprême de Terre-Neuve-et-Labrador, n’est pas susceptible d’appel ou de révision en justice.
+> 2015, ch. 4, art. 66.
+
+
+
+
+
+**Fardeau de la preuve**
+
+**202.6** En cas de révision portant sur les faits, il incombe à l’agent verbalisateur d’établir, selon la prépondérance des probabilités, que le demandeur a commis la violation mentionnée dans le procès-verbal.
+> 2015, ch. 4, art. 66.
+
+
+
+
+
+##### Responsabilité
+
+
+
+**Paiement**
+
+**202.7** Vaut aveu de responsabilité à l’égard de la violation et met fin à la procédure le paiement de la pénalité mentionnée au procès-verbal.
+> 2015, ch. 4, art. 66.
+
+
+
+
+
+**Défaut**
+
+**202.8** Vaut aveu de responsabilité, en cas de non-paiement de la pénalité imposée en vertu de la présente partie, le fait de ne pas demander de révision dans le délai visé à l’article 202.2. Le cas échéant, l’auteur de la violation est tenu de payer la pénalité.
+> 2015, ch. 4, art. 66.
+
+
+
+
+
+##### Recouvrement des pénalités
+
+
+
+**Créance de Sa Majesté**
+
+**202.9** 
+
+- **(1)** La pénalité constitue une créance de Sa Majesté du chef de la province dont le recouvrement peut être poursuivi à ce titre devant la division de première instance de la Cour suprême de Terre-Neuve-et-Labrador.
+
+**Prescription**
+
+- **(2)** Le recouvrement de la créance se prescrit par cinq ans à compter de la date à laquelle elle est devenue exigible.
+> 2015, ch. 4, art. 66.
+
+
+
+
+
+**Certificat de non-paiement**
+
+**202.91** 
+
+- **(1)** L’Office peut établir un certificat de non-paiement pour la partie impayée de toute créance visée au paragraphe 202.9(1).
+
+**Enregistrement**
+
+- **(2)** L’enregistrement à la division de première instance de la Cour suprême de Terre-Neuve-et-Labrador confère au certificat de non-paiement valeur de jugement pour la somme visée et les frais afférents à l’enregistrement.
+> 2015, ch. 4, art. 66.
+
+
+
+
+
+##### Dispositions générales
+
+
+
+**Admissibilité de documents**
+
+**202.92** Dans les procédures pour violation, le document qui paraît être un procès-verbal signifié en application du paragraphe 202.06(1) fait foi, sauf preuve contraire, de son authenticité et de son contenu.
+> 2015, ch. 4, art. 66.
+
+
+
+
+
+**Publication**
+
+**202.93** L’Office peut procéder à la publication de la nature de la violation, du nom de son auteur et du montant de la pénalité.
+> 2015, ch. 4, art. 66.
 
 
 
@@ -7589,11 +8261,13 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 **Trésor**
 
-- **(2)** Dès que possible après leur perception ou réception par le gouvernement de la province sous le régime de la présente partie, les montants — impôts, taxes, intérêts, amendes ou autres — sont déposés au crédit du receveur général et versés au Trésor selon les modalités prévues, par règlement, par le Conseil du Trésor conformément à la Loi sur l’administration financière.
+- **(2)** Dès que possible après leur perception ou réception par le gouvernement de la province sous le régime de la présente partie, les montants — impôts, taxes, intérêts, amendes ou autres — sont déposés au crédit du receveur général et versés au Trésor selon les modalités prévues, par règlement, par le Conseil du Trésor conformément à la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
 
 **Trop-perçu**
 
 - **(3)** Quiconque sciemment perçoit ou reçoit un montant à titre d’impôt sous le régime de la présente partie qui ne lui est pas payable doit sans délai le rembourser à la personne qui le lui a versé ou, si cette personne n’est pas connue ou n’est pas facilement identifiable, la verser au receveur général.
+> 1987, ch. 3, art. 212; 2015, ch. 4, art. 67(F).
+
 
 
 
