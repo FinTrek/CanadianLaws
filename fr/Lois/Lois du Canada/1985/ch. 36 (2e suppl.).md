@@ -217,9 +217,9 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 
 **12** 
 
-- **(1)** Le gouverneur en conseil peut, par décret, interdire à tout titulaire d’entreprendre ou de poursuivre des activités sur tout ou partie des terres domaniales visées par son titre s’il l’estime nécessaire dans les cas suivants :
+- **(1)** Le gouverneur en conseil peut, par décret, interdire à tout titulaire d’entreprendre ou de poursuivre des activités sur tout ou partie des terres domaniales visées par son titre s’il l’estime nécessaire dans les cas suivants :
 	- **a)** désaccord avec un gouvernement à l’égard de l’emplacement d’une frontière;
-	- **b)** problème grave lié à l’environnement;
+	- **b)** problème environnemental ou social grave;
 	- **c)** conditions climatiques trop rigoureuses ou trop dangereuses pour la santé ou la sécurité des personnes ou la sécurité de l’équipement.
 
 **Suspension des obligations**
@@ -233,6 +233,8 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 **Exception**
 
 - **(4)** Le présent article n’a pas pour effet d’empêcher le ministre, s’il en a le pouvoir, de libérer quiconque de l’exécution d’obligations liées à un titre ou imposées par la présente loi ou ses règlements.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 12; 2015, ch. 4, art. 29(F).
+
 
 
 
@@ -499,9 +501,9 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 
 - **(4)** Sous réserve du paragraphe (5), s’il y a des motifs sérieux de croire, d’après les résultats d’autres forages, qu’une découverte n’est pas importante ou que les terres domaniales en cause diffèrent du périmètre de découverte importante, l’Office national de l’énergie peut, compte tenu des circonstances, modifier la déclaration en vue d’agrandir ou de réduire le périmètre ou annuler la déclaration.
 
-**Idem**
+**Limite**
 
-- **(5)** La déclaration de découverte importante ne peut être modifiée ou annulée avant la date d’expiration du permis de prospection visé au paragraphe 30(1) ou moins de trois ans après la date de prise d’effet de l’attestation visée au paragraphe 30(2).
+- **(5)** La déclaration de découverte importante ne peut être modifiée en vue de réduire le périmètre ou annulée avant la date d’expiration du permis de prospection visé au paragraphe 30(1) ou moins de trois ans après la date de prise d’effet de l’attestation visée au paragraphe 30(2).
 
 **Double**
 
@@ -514,7 +516,7 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 **Délégation**
 
 - **(8)** L’Office national de l’énergie peut déléguer les pouvoirs que lui confère le présent article à un de ses membres, dirigeants ou employés. Le mandat est à exercer conformément à la délégation.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 28; 1994, ch. 10, art. 16.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 28; 1994, ch. 10, art. 16; 2015, ch. 4, art. 30(F).
 
 
 
@@ -590,23 +592,25 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 
 **33** 
 
-- **(1)** Sous réserve des paragraphes (2) à (4), le ministre peut, par arrêté assujetti à l’article 106 et après avoir fait une déclaration de découverte importante, ordonner à tout titulaire d’un titre visant toute partie du périmètre de découverte importante d’y forer un puits, conformément aux instructions de l’arrêté, et de commencer le forage dans l’année suivant la prise de l’arrêté ou dans tel délai supérieur précisé.
+- **(1)** Sous réserve des paragraphes (2) à (4), le ministre peut, par arrêté assujetti à l’article 106 et après que l’Office national de l’énergie a fait une déclaration de découverte importante, ordonner à tout titulaire d’un titre visant toute partie du périmètre de découverte importante d’y forer un puits, conformément aux instructions de l’arrêté, et de commencer le forage dans l’année suivant la prise de l’arrêté ou dans tel délai supérieur précisé.
 
 **Exception**
 
-- **(2)** Il ne peut être pris d’arrêté de forage à l’égard du titulaire qui a terminé le forage d’un puits sur les terres domaniales en cause dans les six mois précédant la prise de l’arrêté.
+- **(2)** Il ne peut être pris d’arrêté de forage à l’égard du titulaire qui a terminé le forage d’un puits sur les terres domaniales en cause dans les six mois suivant la fin du forage de ce puits.
 
 **Condition**
 
-- **(3)** Il ne peut être pris d’arrêté de forage dans les trois ans qui suivent la date d’abandon du forage qui a mis en évidence l’existence d’une découverte importante.
+- **(3)** Il ne peut être pris d’arrêté de forage dans les trois ans qui suivent la date d’abandon du puits qui a mis en évidence l’existence d’une découverte importante.
 
 **Nombre de puits**
 
 - **(4)** L’arrêté de forage ne peut exiger le forage de plus d’un puits à la fois sur les terres domaniales en cause.
 
-**Définition de « date d’abandon du forage »**
+**Définition de date d’abandon du puits**
 
-- **(5)** Pour l’application du paragraphe (3), la date d’abandon du forage est celle à laquelle les travaux de forage ont été délaissés, achevés ou interrompus conformément aux règlements applicables en matière de forage.
+- **(5)** Pour l’application du paragraphe (3), la date d’abandon du puits est celle à laquelle le puits a été abandonné ou complété ou son exploitation suspendue conformément aux règlements applicables en matière de forage.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 33; 2015, ch. 4, art. 31.
+
 
 
 
@@ -645,7 +649,7 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 
 **Application**
 
-- **(3)** Les paragraphes 28(3) à (5) s’appliquent, compte tenu des adaptations de circonstance, à la déclaration.
+- **(3)** Les paragraphes 28(3) à (6) s’appliquent, avec les adaptations nécessaires, à la déclaration.
 
 **Procédure**
 
@@ -654,7 +658,7 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 **Délégation**
 
 - **(5)** L’Office national de l’énergie peut déléguer les pouvoirs que lui confère le présent article à un de ses membres, dirigeants ou employés. Le mandat est à exercer conformément à la délégation.
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 35; 1994, ch. 10, art. 17.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 35; 1994, ch. 10, art. 17; 2015, ch. 4, art. 32.
 
 
 
@@ -668,7 +672,7 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 
 **36** 
 
-- **(1)** Après avoir fait une déclaration de découverte exploitable et avant le début de la production dans le périmètre de découverte exploitable, le ministre peut, par avis établi sur formulaire, selon les modalités réglementaires, informer tel titulaire d’un titre portant sur telle partie du périmètre en cause de son intention de prendre un arrêté portant réduction de la durée du titre en cause à l’expiration du délai — d’au moins six mois — , mentionné dans l’avis.
+- **(1)** Après que l’Office national de l’énergie a fait une déclaration de découverte exploitable et avant le début de la production commerciale d’hydrocarbures dans le périmètre de découverte exploitable, le ministre peut, par avis, informer tel titulaire d’un titre portant sur telle partie du périmètre en cause de son intention de prendre un arrêté portant réduction de la durée du titre en cause à l’expiration du délai — d’au moins six mois —, mentionné dans l’avis.
 
 **Observations**
 
@@ -689,6 +693,8 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 **Prolongation — révocation**
 
 - **(6)** Le ministre peut prolonger le délai fixé dans un arrêté pris au titre du paragraphe (3) ou annuler l’arrêté.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 36; 2015, ch. 4, art. 33.
+
 
 
 
@@ -1659,29 +1665,31 @@ S’entend en outre de toute garantie visée à l’article 426 de la [Loi sur l
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***date d’abandon du forage*** Date à laquelle les travaux de forage ont été délaissés, achevés ou interrompus conformément aux règlements applicables en matière de forage pris sous le régime de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md).
+***date d’abandon du forage***[Abrogée, 2015, ch. 4, art. 34]
 
-***études de l’environnement*** Travaux relatifs aux mesures ou à l’évaluation statistique des éléments physiques, chimiques et biologiques des terres, des régions côtières ou des océans, y compris les vents, les vagues, les marées, les courants, les précipitations, la banquise et ses mouvements, les icebergs, les effets de la pollution, la flore et la faune marines et terrestres, l’habitation et les activités humaines et tous autres sujets connexes.
+***date d’abandon du puits*** Date à laquelle le puits a été abandonné ou complété ou son exploitation suspendue conformément aux règlements applicables en matière de forage pris sous le régime de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md). (*well termination date*)
 
-***levé marin*** Étude portant sur la nature du sol, du sous-sol et du fond ou du sous-sol marins des terres domaniales situées dans le secteur prévu pour le forage d’un puits et sur les éléments, à prendre en compte à cet égard, susceptibles d’influencer sur la sécurité ou l’efficacité du forage.
+***études de l’environnement*** Travaux relatifs aux mesures ou à l’évaluation statistique des éléments physiques, chimiques et biologiques des terres, des régions côtières ou des océans, y compris les vents, les vagues, les marées, les courants, les précipitations, la banquise et ses mouvements, les icebergs, les effets de la pollution, la flore et la faune marines et terrestres, l’habitation et les activités humaines et tous autres sujets connexes. (*environmental study*)
 
-***opération expérimentale*** Activité comportant l’emploi de procédés ou de matériel qui n’ont pas été essayés ni éprouvés.
+***levé marin*** Étude portant sur la nature du sol, du sous-sol et du fond ou du sous-sol marins des terres domaniales situées dans le secteur prévu pour le forage d’un puits et sur les éléments, à prendre en compte à cet égard, susceptibles d’influencer sur la sécurité ou l’efficacité du forage. (*well site seabed survey*)
 
-***puits de délimitation*** Puits dont l’emplacement est tel par rapport à un autre puits pénétrant un gisement d’hydrocarbures que l’on peut vraisemblablement s’attendre à ce qu’il pénètre une autre partie de ce gisement, et que le forage est nécessaire pour en déterminer la valeur exploitable.
+***opération expérimentale*** Activité comportant l’emploi de procédés ou de matériel qui n’ont pas été essayés ni éprouvés. (*experimental project*)
 
-***puits d’exploitation*** Puits dont l’emplacement est tel par rapport à un autre puits pénétrant un gisement d’hydrocarbures qu’il est considéré comme étant un puits complet ou partiel foré aux fins soit de production ou d’observation, soit d’injection ou de refoulement des fluides à partir du gisement ou vers celui-ci.
+***puits de délimitation*** Puits dont l’emplacement est tel par rapport à un autre puits pénétrant un gisement d’hydrocarbures que l’on peut vraisemblablement s’attendre à ce qu’il pénètre une autre partie de ce gisement, et que le forage est nécessaire pour en déterminer la valeur exploitable. (*delineation well*)
 
-***puits d’exploration*** Puits foré sur un horizon géologique qui n’a pas fait l’objet d’une découverte importante.
+***puits d’exploitation*** Puits dont l’emplacement est tel par rapport à un autre puits pénétrant un gisement d’hydrocarbures qu’il est considéré comme étant un puits complet ou partiel foré aux fins soit de production ou d’observation, soit d’injection ou de refoulement des fluides à partir du gisement ou vers celui-ci. (*development well*)
 
-***recherches ou études techniques*** Y sont assimilés les travaux destinés à faciliter la conception ou à analyser la viabilité des techniques, méthodes ou plans à mettre en oeuvre pour la recherche, l’exploitation, la production ou le transport des hydrocarbures dans les terres domaniales.
+***puits d’exploration*** Puits foré sur un horizon géologique qui n’a pas fait l’objet d’une découverte importante. (*exploratory well*)
 
-French version only***renseignements*** Tous éléments d’information ainsi que leur support.
+***recherches ou études techniques*** Y sont assimilés les travaux destinés à faciliter la conception ou à analyser la viabilité des techniques, méthodes ou plans à mettre en oeuvre pour la recherche, l’exploitation, la production ou le transport des hydrocarbures dans les terres domaniales. (*engineering research or feasibility study*)
 
-***travaux de géologie*** Travaux comportant la collecte, l’examen et le traitement ou autres analyses, sur le terrain ou en laboratoire, des échantillons lithologiques, paléontologiques ou géochimiques prélevés en surface ou dans le sous-sol marins des terres domaniales. S’entend en outre de l’analyse et de l’interprétation de diagraphies.
+***renseignements*** Tous éléments d’information ainsi que leur support.
 
-***travaux de géophysique*** Travaux comportant la mesure indirecte des propriétés physiques des roches afin d’en déterminer la profondeur, l’épaisseur, la configuration structurale ou l’historique sédimentaire. S’entend en outre du traitement, de l’analyse et de l’interprétation des éléments ou des données fournies par ces travaux.
+***travaux de géologie*** Travaux comportant la collecte, l’examen et le traitement ou autres analyses, sur le terrain ou en laboratoire, des échantillons lithologiques, paléontologiques ou géochimiques prélevés en surface ou dans le sous-sol marins des terres domaniales. S’entend en outre de l’analyse et de l’interprétation de diagraphies. (*geological work*)
 
-***travaux de géotechnique*** Travaux comportant l’analyse, sur le terrain ou en laboratoire, des propriétés physiques des échantillons prélevés, en surface ou du sous-sol ou en surface ou du fond ou du sous-sol marins des terres domaniales.
+***travaux de géophysique*** Travaux comportant la mesure indirecte des propriétés physiques des roches afin d’en déterminer la profondeur, l’épaisseur, la configuration structurale ou l’historique sédimentaire. S’entend en outre du traitement, de l’analyse et de l’interprétation des éléments ou des données fournies par ces travaux. (*geophysical work*)
+
+***travaux de géotechnique*** Travaux comportant l’analyse, sur le terrain ou en laboratoire, des propriétés physiques des échantillons prélevés, en surface ou du sous-sol ou en surface ou du fond ou du sous-sol marins des terres domaniales. (*geotechnical work*)
 
 **Renseignements protégés**
 
@@ -1724,26 +1732,93 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 **Renseignements communicables**
 
-- **(7)** Le paragraphe (2) ne vise pas les catégories de renseignements provenant d’activités autorisées sous le régime de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) et relatives à :
-	- **a)** un puits d’exploration, si les renseignements proviennent effectivement du forage du puits et si deux ans se sont écoulés après la date d’abandon du forage;
-	- **b)** un puits de délimitation, s’ils proviennent du forage du puits et une fois écoulée la dernière des périodes suivantes, à savoir deux ans après la date d’abandon du forage du puits d’exploration en cause ou quatre-vingt-dix jours après la date d’abandon du forage du puits de délimitation;
-	- **c)** un puits d’exploitation, s’ils proviennent effectivement du forage du puits et une fois écoulée la dernière des périodes suivantes, à savoir deux ans après la date d’abandon du puits d’exploration en cause ou soixante jours après la date d’abandon du forage du puits d’exploitation;
-	- **d)** des travaux de géologie ou de géophysique exécutés dans telle partie des terres domaniales ou y ayant trait :
+- **(7)** Le paragraphe (2) ne vise pas les catégories de renseignements provenant d’activités autorisées sous le régime de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) et relatives à :
+	- **a)** un puits d’exploration, si les renseignements proviennent effectivement du forage du puits et si deux ans se sont écoulés depuis la date d’abandon du puits;
+	- **b)** un puits de délimitation, s’ils proviennent effectivement du forage du puits et si deux ans se sont écoulés depuis la date d’abandon du puits d’exploration en cause ou si quatre-vingt-dix jours se sont écoulés depuis la date d’abandon du puits de délimitation, selon la dernière des éventualités à survenir;
+	- **c)** un puits d’exploitation, s’ils proviennent effectivement du forage du puits et si deux ans se sont écoulés depuis la date d’abandon du puits d’exploration en cause ou si soixante jours se sont écoulés depuis la date d’abandon du puits d’exploitation, selon la dernière des éventualités à survenir;
+	- **d)** des travaux de géologie ou de géophysique exécutés dans telle partie des terres domaniales ou y ayant trait :
 		- **(i)** s’agissant d’un levé marin pour un puits foré, après la période visée à l’alinéa a) ou la dernière des périodes visées aux alinéas b) ou c), selon l’alinéa qui s’applique au puits en cause,
-		- **(ii)** par ailleurs, au plus tôt cinq ans après leur achèvement ou après que ces terres sont devenues réserves de l’État;
-	- **e)** des recherches ou études techniques ou des opérations expérimentales, y compris des travaux de géotechnique, exécutés dans telle partie des terres domaniales ou y ayant trait :
+		- **(ii)** par ailleurs, cinq ans après leur achèvement;
+	- **e)** des recherches ou études techniques ou des opérations expérimentales, y compris des travaux de géotechnique, exécutés dans telle partie des terres domaniales ou y ayant trait :
 		- **(i)** si elles portent sur un puits foré après l’expiration de la période visée à l’alinéa a) ou la dernière des périodes visées aux alinéas b) ou c), selon l’alinéa qui s’applique au puits en cause,
-		- **(ii)** par ailleurs, au plus tôt cinq ans après leur achèvement;
+		- **(ii)** par ailleurs, au plus tôt soit cinq ans après leur achèvement, soit après que ces terres sont devenues réserves de l’État;
 	- **f)** un plan visant les situations d’urgence résultant d’activités autorisées sous le régime de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md);
 	- **g)** des travaux de plongée, des observations météorologiques, l’état d’avancement des travaux, l’exploitation ou la production d’un gisement ou d’un champ;
 	- **g.1)** des accidents, des incidents ou des écoulements de pétrole dans la mesure où ces renseignements sont nécessaires pour l’établissement et la publication d’un rapport à cet égard dans le cadre de la présente loi ou de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md);
 	- **h)** des études achevées financées par le compte ouvert au titre du paragraphe 76(1);
-	- **i)** d’autres types d’études de l’environnement :
+	- **i)** d’autres types d’études de l’environnement :
 		- **(i)** s’agissant d’un puits foré, après l’expiration de la période visée à l’alinéa a) ou de la dernière des périodes visées aux alinéas b) ou c), selon l’alinéa qui s’applique au puits en cause,
 		- **(ii)** par ailleurs, lorsque cinq ans se sont écoulés depuis leur achèvement.
 
-- **(8)** [Abrogé, L.R. (1985), ch. 21 (4<sup>e</sup> suppl.), art. 4]
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 101, ch. 21 (4<sup>e</sup> suppl.), art. 4; 1992, ch. 35, art. 38; 1994, ch. 10, art. 18; 2007, ch. 35, art. 151; 2014, ch. 2, art. 36.
+**Renseignements communicables — demandeur et activités projetées**
+
+- **(8)** Le paragraphe (2) ne vise pas les renseignements à l’égard de la personne qui demande, au titre du paragraphe 5(1) de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md), un permis de travaux ou une autorisation ou à l’égard des portée, but, nature, lieu et calendrier des activités projetées.
+
+**Renseignements communicables — audience publique**
+
+- **(9)** Le paragraphe (2) ne vise pas les renseignements fournis dans le cadre d’une audience publique tenue en vertu de l’article 5.331 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md).
+
+**Renseignements communicables — sécurité ou protection de l’environnement**
+
+- **(10)** Sous réserve de l’article 101.1, l’Office national de l’énergie peut communiquer tout ou partie des renseignements en matière de sécurité ou de protection de l’environnement fournis relativement à une demande faite au titre du paragraphe 5(1) de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md), à un permis de travaux ou autorisation délivrés en vertu de ce paragraphe ou fournis conformément à un règlement pris en vertu de cette loi. L’Office ne peut toutefois pas communiquer les renseignements à l’égard desquels il est convaincu :
+	- **a)** soit que leur communication risquerait vraisemblablement de causer des pertes ou profits financiers appréciables aux intéressés, ou de nuire à leur compétitivité, et que le préjudice pouvant résulter de leur communication l’emporte sur l’importance, au regard de l’intérêt public, de leur communication;
+	- **b)** soit qu’il s’agit de renseignements financiers, commerciaux, scientifiques ou techniques de nature confidentielle, traités comme tels de façon constante par les intéressés, et que l’intérêt de ces derniers à préserver la confidentialité des renseignements l’emporte sur l’importance, au regard de l’intérêt public, de leur communication;
+	- **c)** soit qu’il y a un risque sérieux que la communication des renseignements compromette la sécurité de pipelines, au sens de l’article 2 de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md), de bâtiments, d’installations, de véhicules, de navires, d’aéronefs ou de réseaux ou systèmes divers, y compris de réseaux ou systèmes informatisés ou de communication, qui sont destinés à des activités visées par cette loi — ou la sécurité de méthodes employées pour leur protection — et que la nécessité d’empêcher leur communication l’emporte sur l’importance, au regard de l’intérêt public, de leur communication.
+
+**Exception — paragraphes (8) à (10)**
+
+- **(11)** Les paragraphes (8) à (10) ne s’appliquent pas à l’égard des catégories de renseignements visées aux alinéas (7)a) à e) et i).
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 101, ch. 21 (4<sup>e</sup> suppl.), art. 4; 1992, ch. 35, art. 38; 1994, ch. 10, art. 18; 2007, ch. 35, art. 151; 2014, ch. 2, art. 36; 2015, ch. 4, art. 34.
+
+
+
+
+
+**Avis — paragraphe 101(10)**
+
+**101.1** 
+
+- **(1)** Avant de procéder à toute communication de renseignements en vertu du paragraphe 101(10), l’Office national de l’énergie fait tous les efforts raisonnables pour donner avis écrit de son intention à la personne qui les a fournis.
+
+**Renonciation à l’avis**
+
+- **(2)** La personne qui a fourni les renseignements peut renoncer à l’avis prévu au paragraphe (1); tout consentement à la communication des renseignements vaut renonciation à l’avis.
+
+**Contenu de l’avis**
+
+- **(3)** L’avis prévu au paragraphe (1) contient les éléments suivants :
+	- **a)** la mention de l’intention de l’Office national de l’énergie de communiquer des renseignements en vertu du paragraphe 101(10);
+	- **b)** la désignation des renseignements qui ont été fournis par le destinataire de l’avis;
+	- **c)** la mention du droit du destinataire de l’avis de présenter à l’Office, dans les vingt jours suivant la transmission de l’avis, ses observations par écrit quant aux raisons qui justifieraient un refus de communication totale ou partielle.
+
+**Observations des tiers et décision**
+
+- **(4)** Dans les cas où il a donné avis à une personne en application du paragraphe (1), l’Office national de l’énergie est tenu :
+	- **a)** de lui donner la possibilité de lui présenter par écrit, dans les vingt jours suivant la transmission de l’avis, des observations sur les raisons qui justifieraient un refus de communication totale ou partielle des renseignements;
+	- **b)** après que la personne a eu la possibilité de présenter des observations et au plus tard trente jours après la date de la transmission de l’avis, de prendre une décision quant à la communication des renseignements et de lui donner avis par écrit de sa décision.
+
+**Contenu de l’avis de la décision de donner communication**
+
+- **(5)** L’avis prévu à l’alinéa (4)b) contient les éléments suivants :
+	- **a)** la mention du droit du destinataire de l’avis d’exercer un recours en révision, en vertu du paragraphe (7), dans les vingt jours suivant la transmission de l’avis;
+	- **b)** la mention qu’à défaut de l’exercice du recours en révision dans ce délai, l’Office national de l’énergie communiquera les renseignements en cause.
+
+**Communication des renseignements**
+
+- **(6)** Dans les cas où il décide, en vertu de l’alinéa (4)b), de communiquer des renseignements, l’Office national de l’énergie donne suite à sa décision dès l’expiration des vingt jours suivant la transmission de l’avis prévu à cet alinéa, sauf si un recours en révision a été exercé en vertu du paragraphe (7).
+
+**Recours en révision**
+
+- **(7)** Le destinataire de l’avis prévu à l’alinéa (4)b) peut, dans les vingt jours suivant la transmission de l’avis, exercer un recours en révision devant la Cour fédérale.
+
+**Procédure sommaire**
+
+- **(8)** Le recours en révision est entendu et jugé en procédure sommaire, conformément aux règles de pratique spéciales adoptées à cet égard en vertu de l’article 46 de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md).
+
+**Précautions à prendre contre la communication**
+
+- **(9)** Lors de procédures relatives au recours prévu au paragraphe (7), la Cour fédérale prend toutes les précautions possibles, notamment par la tenue d’audiences à huis clos si indiqué, pour éviter que ne soient communiqués de par son propre fait ou celui de quiconque des renseignements qui, en application de la présente loi, sont protégés ou ne peuvent pas être communiqués.
+> 2015, ch. 4, art. 35.
 
 
 
@@ -1874,11 +1949,22 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 **107** 
 
-- **(1)** Le gouverneur en conseil peut, par règlement, prendre toute mesure d’application de la présente loi et, notamment :
+- **(1)** Le gouverneur en conseil peut, par règlement, prendre toute mesure d’application de la présente loi et, notamment :
 	- **a)** autoriser ou exiger, en harmonie avec la [Loi sur l’arpentage des terres du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-6.md), l’arpentage, la division et la subdivision des terres domaniales et délimiter et décrire les terres ainsi divisées et subdivisées;
 	- **b)** prévoir les renseignements et les documents que doivent fournir les titulaires et indivisaires ainsi que les modalités de leur dépôt, autoriser le ministre à fixer la forme de leur établissement et exiger que leur remise soit conforme aux règlements;
 	- **c)** exiger le paiement des droits et cautionnements relatifs aux titres, en fixer le montant et les modalités et en prévoir les méthodes de gestion et de remboursement;
+	- **c.1)** régir les droits ou redevances à payer pour les services ou les produits que l’Office national de l’énergie ou le ministre fournit sous le régime de la présente loi, ou leur méthode de calcul;
+	- **c.2)** régir les droits ou redevances à payer par un titulaire ou un indivisaire relativement aux activités exercées par l’Office national de l’énergie ou le ministre sous le régime de la présente loi ou relativement à celle-ci, ou leur méthode de calcul;
+	- **c.3)** régir le remboursement complet ou partiel des droits ou redevances visés aux alinéas c.1) ou c.2), ou sa méthode de calcul;
 	- **d)** procéder à toute mesure d’ordre réglementaire prévue par la présente loi.
+
+**Limite**
+
+- **(1.1)** Le montant des droits ou redevances visés à l’alinéa (1)c.1) ne peut excéder les coûts relatifs à la fourniture des services ou des produits.
+
+**Limite**
+
+- **(1.2)** Le montant des droits ou redevances visés à l’alinéa (1)c.2) ne peut excéder les coûts relatifs aux activités exercées sous le régime de la présente loi ou relativement à celle-ci.
 
 **Publication des projets de règlement**
 
@@ -1887,6 +1973,8 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 **Exception**
 
 - **(3)** Ne sont pas visés les projets de règlement déjà publiés dans les conditions prévues au paragraphe (2), qu’ils aient été modifiés ou non à la suite d’observations présentées conformément à ce paragraphe.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 107; 2015, ch. 4, art. 36.
+
 
 
 
