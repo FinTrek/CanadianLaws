@@ -238,6 +238,8 @@ by order, prohibit any interest owner specified in the order from commencing or 
 **Relieving authority not affected**
 
 - **(4)** Nothing in this section affects the authority of the Minister to relieve a person from any requirement in relation to an interest or under this Act or the regulations.
+> R.S., 1985, c. 36 (2nd Supp.), s. 12; 2015, c. 4, s. 29(F).
+
 
 
 
@@ -532,7 +534,7 @@ by order, prohibit any interest owner specified in the order from commencing or 
 **Delegation**
 
 - **(8)** The National Energy Board may delegate any of its powers under this section to a member, officer or employee of the Board, who shall exercise the powers in accordance with the terms of the delegation.
-> R.S., 1985, c. 36 (2nd Supp.), s. 28; 1994, c. 10, s. 16.
+> R.S., 1985, c. 36 (2nd Supp.), s. 28; 1994, c. 10, s. 16; 2015, c. 4, s. 30(F).
 
 
 
@@ -611,11 +613,11 @@ by order, prohibit any interest owner specified in the order from commencing or 
 
 **33** 
 
-- **(1)** Subject to subsections (2) to (4), the Minister may, at any time after making a declaration of significant discovery, by order subject to section 106, require the interest owner of any interest in relation to any portion of the significant discovery area to drill a well on any portion of the significant discovery area that is subject to that interest, in accordance with such directions as may be set out in the order, and to commence the drilling within one year after the making of the order or within such longer period as the Minister specifies in the order.
+- **(1)** Subject to subsections (2) to (4), the Minister may, at any time after the National Energy Board has made a declaration of significant discovery, by order subject to section 106, require the interest owner of any interest in relation to any portion of the significant discovery area to drill a well on any portion of the significant discovery area that is subject to that interest, in accordance with any directions that may be set out in the order, and to commence the drilling within one year after the making of the order or within any longer period that the Minister specifies in the order.
 
 **Exception**
 
-- **(2)** No order may be made under subsection (1) with respect to any interest owner who has completed a well on the relevant frontier lands within six months prior to the making of the order.
+- **(2)** No order may be made under subsection (1) with respect to any interest owner who has completed a well on the relevant frontier lands within six months after the completion of that well.
 
 **Condition**
 
@@ -625,9 +627,11 @@ by order, prohibit any interest owner specified in the order from commencing or 
 
 - **(4)** No order made under subsection (1) may require an interest owner to drill more than one well at a time on the relevant frontier lands.
 
-**Definition of “well termination date”**
+**Definition of well termination date**
 
 - **(5)** For the purposes of subsection (3), ***well termination date*** means the date on which a well has been abandoned, completed or suspended in accordance with any applicable drilling regulations.
+> R.S., 1985, c. 36 (2nd Supp.), s. 33; 2015, c. 4, s. 31.
+
 
 
 
@@ -666,7 +670,7 @@ by order, prohibit any interest owner specified in the order from commencing or 
 
 **Application of certain provisions**
 
-- **(3)** Subsections 28(3), (4) and (5) apply, with such modifications as the circumstances require, with respect to a declaration made pursuant to subsection (1) or (2).
+- **(3)** Subsections 28(3) to (6) apply, with any modifications that the circumstances require, with respect to a declaration made under subsection (1) or (2).
 
 **Procedures**
 
@@ -675,7 +679,7 @@ by order, prohibit any interest owner specified in the order from commencing or 
 **Delegation**
 
 - **(5)** The National Energy Board may delegate any of its powers under this section to a member, officer or employee of the Board, who shall exercise the powers in accordance with the terms of the delegation.
-> R.S., 1985, c. 36 (2nd Supp.), s. 35; 1994, c. 10, s. 17.
+> R.S., 1985, c. 36 (2nd Supp.), s. 35; 1994, c. 10, s. 17; 2015, c. 4, s. 32.
 
 
 
@@ -689,7 +693,7 @@ by order, prohibit any interest owner specified in the order from commencing or 
 
 **36** 
 
-- **(1)** The Minister may, at any time after making a declaration of commercial discovery, give notice to the interest owner of any interest in relation to any portion of the commercial discovery area where commercial production of petroleum has not commenced before that time stating that, after such period of not less than six months as may be specified in the notice, an order may be made reducing the term of that interest.
+- **(1)** The Minister may, at any time after the National Energy Board has made a declaration of commercial discovery, give notice to the interest owner of any interest in relation to any portion of the commercial discovery area where commercial production of petroleum has not commenced before that time stating that, after any period of not less than six months that may be specified in the notice, an order may be made reducing the term of that interest.
 
 **Opportunity for submissions**
 
@@ -710,6 +714,8 @@ by order, prohibit any interest owner specified in the order from commencing or 
 **Extension of period**
 
 - **(6)** The Minister may extend the period specified in an order made under subsection (3) or may revoke the order.
+> R.S., 1985, c. 36 (2nd Supp.), s. 36; 2015, c. 4, s. 33.
+
 
 
 
@@ -1717,27 +1723,27 @@ whether that other right was acquired before or after that particular right; or
 
 - **(1)** In this section,
 
-***delineation well*** means a well that is so located in relation to another well penetrating an accumulation of petroleum that there is a reasonable expectation that another portion of that accumulation will be penetrated by the first-mentioned well and that the drilling is necessary in order to determine the commercial value of the accumulation;
+***delineation well*** means a well that is so located in relation to another well penetrating an accumulation of petroleum that there is a reasonable expectation that another portion of that accumulation will be penetrated by the first-mentioned well and that the drilling is necessary in order to determine the commercial value of the accumulation; (*puits de délimitation*)
 
-***development well*** means a well that is so located in relation to another well penetrating an accumulation of petroleum that it is considered to be a well or part of a well drilled for the purpose of production or observation or for the injection or disposal of fluid into or from the accumulation;
+***development well*** means a well that is so located in relation to another well penetrating an accumulation of petroleum that it is considered to be a well or part of a well drilled for the purpose of production or observation or for the injection or disposal of fluid into or from the accumulation; (*puits d’exploitation*)
 
-***engineering research or feasibility study*** includes work undertaken to facilitate the design or to analyse the viability of engineering technology, systems or schemes to be used in the exploration for or the development, production or transportation of petroleum on frontier lands;
+***engineering research or feasibility study*** includes work undertaken to facilitate the design or to analyse the viability of engineering technology, systems or schemes to be used in the exploration for or the development, production or transportation of petroleum on frontier lands; (*recherches ou études techniques*)
 
-***environmental study*** means work pertaining to the measurement or statistical evaluation of the physical, chemical and biological elements of the lands, oceans or coastal zones, including winds, waves, tides, currents, precipitation, ice cover and movement, icebergs, pollution effects, flora and fauna both onshore and offshore, human activity and habitation and any related matters;
+***environmental study*** means work pertaining to the measurement or statistical evaluation of the physical, chemical and biological elements of the lands, oceans or coastal zones, including winds, waves, tides, currents, precipitation, ice cover and movement, icebergs, pollution effects, flora and fauna both onshore and offshore, human activity and habitation and any related matters; (*études de l’environnement*)
 
-***experimental project*** means work or activity involving the utilization of methods or equipment that are untried or unproven;
+***experimental project*** means work or activity involving the utilization of methods or equipment that are untried or unproven; (*opération expérimentale*)
 
-***exploratory well*** means a well drilled on a geological feature on which a significant discovery has not been made;
+***exploratory well*** means a well drilled on a geological feature on which a significant discovery has not been made; (*puits d’exploration*)
 
-***geological work*** means work, in the field or laboratory, involving the collection, examination, processing or other analysis of lithological, paleontological or geochemical materials recovered from the surface or subsurface or the seabed or its subsoil of any frontier lands and includes the analysis and interpretation of mechanical well logs;
+***geological work*** means work, in the field or laboratory, involving the collection, examination, processing or other analysis of lithological, paleontological or geochemical materials recovered from the surface or subsurface or the seabed or its subsoil of any frontier lands and includes the analysis and interpretation of mechanical well logs; (*travaux de géologie*)
 
-***geophysical work*** means work involving the indirect measurement of the physical properties of rocks in order to determine the depth, thickness, structural configuration or history of deposition thereof and includes the processing, analysis and interpretation of material or data obtained from such work;
+***geophysical work*** means work involving the indirect measurement of the physical properties of rocks in order to determine the depth, thickness, structural configuration or history of deposition thereof and includes the processing, analysis and interpretation of material or data obtained from such work; (*travaux de géophysique*)
 
-***geotechnical work*** means work, in the field or laboratory, undertaken to determine the physical properties of materials recovered from the surface or subsurface or the seabed or its subsoil of any frontier lands;
+***geotechnical work*** means work, in the field or laboratory, undertaken to determine the physical properties of materials recovered from the surface or subsurface or the seabed or its subsoil of any frontier lands; (*travaux de géotechnique*)
 
-***well site seabed survey*** means a survey pertaining to the nature of the surface or subsurface or the seabed or its subsoil of any frontier lands in the area of the proposed drilling site in respect of a well and to the conditions of those lands that may affect the safety or efficiency of drilling operations;
+***well site seabed survey*** means a survey pertaining to the nature of the surface or subsurface or the seabed or its subsoil of any frontier lands in the area of the proposed drilling site in respect of a well and to the conditions of those lands that may affect the safety or efficiency of drilling operations; (*levé marin*)
 
-***well termination date*** means the date on which a well or test hole has been abandoned, completed or suspended in accordance with any applicable regulations respecting the drilling for petroleum made under the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md).
+***well termination date*** means the date on which a well has been abandoned, completed or suspended in accordance with any applicable regulations respecting the drilling for petroleum made under the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md). (*date d’abandon du puits*) 
 
 **Privileged information or documentation**
 
@@ -1804,8 +1810,75 @@ have passed;
 		- **(i)** where it relates to a well and the well has been drilled, after the expiration of the period referred to in paragraph (a) or the later period referred to in subparagraph (b)(i) or (ii) or (c)(i) or (ii), according to whether paragraph (a), (b) or (c) is applicable in respect of that well, or
 		- **(ii)** in any other case, if five years have passed since the completion of the study.
 
-- **(8)** [Repealed, R.S., 1985, c. 21 (4th Supp.), s. 4]
-> R.S., 1985, c. 36 (2nd Supp.), s. 101, c. 21 (4th Supp.), s. 4; 1992, c. 35, s. 38; 1994, c. 10, s. 18; 2007, c. 35, s. 151; 2014, c. 2, s. 36.
+**Applicant and proposed work or activity**
+
+- **(8)** Subsection (2) does not apply in respect of information regarding the applicant for an operating licence or authorization under subsection 5(1) of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md), or the scope, purpose, location, timing and nature of the proposed work or activity for which the authorization is sought.
+
+**Public hearing**
+
+- **(9)** Subsection (2) does not apply in respect of information or documentation provided for the purposes of a public hearing conducted under section 5.331 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md).
+
+**Safety or environmental protection**
+
+- **(10)** Subject to section 101.1, the National Energy Board may disclose all or part of any information or documentation related to safety or environmental protection that is provided in relation to an application for an operating licence or authorization under subsection 5(1) of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md) or to an operating licence or authorization that is issued under that subsection or provided in accordance with any regulation made under that Act. The Board is not, however, permitted to disclose information or documentation if the Board is satisfied that
+	- **(a)** disclosure of it could reasonably be expected to result in a material loss or gain to a person, or to prejudice their competitive position, and the potential harm resulting from the disclosure outweighs the public interest in making the disclosure;
+	- **(b)** it is financial, commercial, scientific or technical information or documentation that is confidential and has been consistently treated as such by a person who would be directly affected by its disclosure, and for which the person’s interest in confidentiality outweighs the public interest in its disclosure; or
+	- **(c)** there is a real and substantial risk that disclosure of it will impair the security of pipelines, as defined in section 2 of the [Canada Oil and Gas Operations Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-7.md), buildings, installations, vessels, vehicles, aircraft or systems, including computer or communication systems, used for any work or activity in respect of which that Act applies — or methods employed to protect them — and the need to prevent its disclosure outweighs the public interest in its disclosure.
+
+**Exception**
+
+- **(11)** Subsections (8) to (10) do not apply in respect of the classes of information or documentation described in paragraphs (7)(a) to (e) and (i).
+> R.S., 1985, c. 36 (2nd Supp.), s. 101, c. 21 (4th Supp.), s. 4; 1992, c. 35, s. 38; 1994, c. 10, s. 18; 2007, c. 35, s. 151; 2014, c. 2, s. 36; 2015, c. 4, s. 34.
+
+
+
+
+
+**Notice — subsection 101(10)**
+
+**101.1** 
+
+- **(1)** If the National Energy Board intends to disclose any information or documentation under subsection 101(10), the Board shall make every reasonable effort to give the person who provided it written notice of the Board’s intention to disclose it.
+
+**Waiver of notice**
+
+- **(2)** Any person to whom a notice is required to be given under subsection (1) may waive the requirement, and if they have consented to the disclosure they are deemed to have waived the requirement.
+
+**Contents of notice**
+
+- **(3)** A notice given under subsection (1) shall include
+	- **(a)** a statement that the National Energy Board intends to disclose information or documentation under subsection 101(10);
+	- **(b)** a description of the information or documentation that was provided by the person to whom the notice is given; and
+	- **(c)** a statement that the person may, within 20 days after the day on which the notice is given, make written representations to the Board as to why the information or documentation, or a portion of it, should not be disclosed.
+
+**Representations**
+
+- **(4)** If a notice is given to a person under subsection (1), the National Energy Board shall
+	- **(a)** give the person the opportunity to make, within 20 days after the day on which the notice is given, written representations to the Board as to why the information or documentation, or a portion of it, should not be disclosed; and
+	- **(b)** after the person has had the opportunity to make representations, but no later than 30 days after the day on which the notice is given, make a decision as to whether or not to disclose the information or documentation and give written notice of the decision to the person.
+
+**Contents of notice of decision to disclose**
+
+- **(5)** A notice given under paragraph (4)(b) of a decision to disclose information or documentation shall include
+	- **(a)** a statement that the person to whom the notice is given may request a review of the decision under subsection (7) within 20 days after the notice is given; and
+	- **(b)** a statement that if no review is requested under subsection (7) within 20 days after the notice is given, the National Energy Board shall disclose the information or documentation.
+
+**Disclosure of information or documentation**
+
+- **(6)** If, under paragraph (4)(b), the National Energy Board decides to disclose the information or documentation, the Board shall disclose it on the expiry of 20 days after a notice is given under that paragraph, unless a review of the decision is requested under subsection (7).
+
+**Review**
+
+- **(7)** Any person to whom the National Energy Board is required under paragraph (4)(b) to give a notice of a decision to disclose information or documentation may, within 20 days after day on which the notice is given, apply to the Federal Court for a review of the decision.
+
+**Hearing in summary way**
+
+- **(8)** An application made in accordance with subsection (7) shall be heard and determined in a summary way in accordance with any special rules made in respect of such applications under section 46 of the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md).
+
+**Court to take precautions against disclosing**
+
+- **(9)** In any proceedings before the Federal Court arising from an application made in accordance with subsection (7), the Court shall take every reasonable precaution, including, when appropriate, conducting hearings *in camera*, to avoid the disclosure by the Court or any person of any information or documentation that, under this Act, is privileged or is not to be disclosed.
+> 2015, c. 4, s. 35.
 
 
 
@@ -1941,8 +2014,19 @@ have passed;
 - **(1)** The Governor in Council may make regulations for carrying out the purposes and provisions of this Act and, without restricting the generality of the foregoing, may make regulations
 	- **(a)** not inconsistent with the [Canada Lands Surveys Act](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-6.md) authorizing or requiring the survey, division and subdivision of frontier lands and defining and describing those divisions and subdivisions;
 	- **(b)** prescribing the information and documentation to be provided by interest owners and interest holders for the purposes of this Act, the time when and manner in which such information and documentation is to be provided, authorizing the Minister to prescribe the form in which it is to be provided and requiring such information and documentation to be provided in accordance with the regulations;
-	- **(c)** requiring fees and deposits to be paid in respect of interests, prescribing the amounts of such fees and deposits, the time and manner of their payment and providing for the administration of such fees and deposits and the disposition and return of deposits; and
+	- **(c)** requiring fees and deposits to be paid in respect of interests, prescribing the amounts of such fees and deposits, the time and manner of their payment and providing for the administration of such fees and deposits and the disposition and return of deposits;
+	- **(c.1)** respecting the fees or charges, or the method of calculating the fees or charges, to be paid for the provision, by the National Energy Board or the Minister, of a service or a product under this Act;
+	- **(c.2)** respecting the fees or charges, or the method of calculating the fees or charges, to be paid by a holder of an interest or a share in an interest in respect of any of the National Energy Board’s or the Minister’s activities under or related to this Act;
+	- **(c.3)** respecting the refund of all or part of any fee or charge referred to in paragraph (c.1) or (c.2), or the method of calculating that refund; and
 	- **(d)** prescribing any other matter or thing that by this Act is to be prescribed or that is to be done by regulations.
+
+**Amounts not to exceed cost**
+
+- **(1.1)** The amounts of the fees or charges referred to in paragraph (1)(c.1) shall not exceed the cost of providing the services or products.
+
+**Amounts not to exceed cost**
+
+- **(1.2)** The amounts of the fees or charges referred to in paragraph (1)(c.2) shall not exceed the cost of performing the activities under or related to this Act.
 
 **Publication of proposed regulations**
 
@@ -1951,6 +2035,8 @@ have passed;
 **Single publication required**
 
 - **(3)** No proposed regulation need be published more than once under subsection (2) whether or not it is altered or amended after such publication as a result of representations made by interested persons as provided in that subsection.
+> R.S., 1985, c. 36 (2nd Supp.), s. 107; 2015, c. 4, s. 36.
+
 
 
 
