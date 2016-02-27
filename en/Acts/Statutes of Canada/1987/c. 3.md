@@ -182,16 +182,16 @@ this Act and the regulations made thereunder take precedence.
 
 
 
-**Approval of Provincial Minister**
+**Provincial Minister’s approval**
 
 **7** 
 
-- **(1)** Before a regulation is made under subsection 5(1), subsection 41(7), section 64, subsection 67(2), section 118, subsection 122(1), 125(1) or 149(1) or section 203, the Federal Minister shall consult the Provincial Minister with respect to the proposed regulation and no regulation shall be so made without the approval of the Provincial Minister.
+- **(1)** Before a regulation is made under subsection 5(1), section 29.1, subsection 41(7), section 64, subsection 67(2), section 118, subsection 122(1), 125(1), 149(1), 162(2.3), 163(1.02) or 202.01(1) or section 203, the Federal Minister shall consult the Provincial Minister with respect to the proposed regulation and the regulation shall not be made without the Provincial Minister’s approval.
 
 **Approval of Provincial minister**
 
 - **(2)** Before a regulation is made under subsection 205.001(3) or (4) or 205.124(1), the Federal Minister shall consult the minister of the government of the Province who is responsible for occupational health and safety with respect to the proposed regulation and no regulation shall be so made without the approval of that minister.
-> 1987, c. 3, s. 7; 2014, c. 13, s. 5.
+> 1987, c. 3, s. 7; 2014, c. 13, s. 5; 2015, c. 4, ss. 38, 117.
 
 
 
@@ -668,6 +668,52 @@ whichever occurs earlier.
 
 
 
+### Cost Recovery
+
+
+
+**Regulations respecting fees, etc.**
+
+**29.1** 
+
+- **(1)** Subject to section 7, the Governor in Council may make regulations
+	- **(a)** respecting the fees or charges, or the method of calculating the fees or charges, to be paid for the provision, by the Board, of a service or product under this Act;
+	- **(b)** respecting the fees or charges, or the method of calculating the fees or charges, in respect of any of the Board’s activities under this Act or under the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md), that are to be paid by
+		- **(i)** a person who makes an application for an authorization under paragraph 138(1)(b) or an application under subsection 139(2), or
+		- **(ii)** the holder of an operating licence issued under paragraph 138(1)(a) or an authorization issued under paragraph 138(1)(b); and
+	- **(c)** respecting the refund of all or part of any fee or charge referred to in paragraph (a) or (b), or the method of calculating that refund.
+
+**Amounts not to exceed cost**
+
+- **(2)** The amounts of the fees or charges referred to in paragraph (1)(a) shall not exceed the cost of providing the services or products.
+
+**Amounts not to exceed cost**
+
+- **(3)** The amounts of the fees or charges referred to in paragraph (1)(b) shall not exceed the cost of the Board’s activities under this Act or under the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md).
+> 2015, c. 4, s. 39.
+
+
+
+
+
+**Non-application of [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
+
+**29.2** The [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply to any fees or charges payable in accordance with regulations made under section 29.1.
+> 2015, c. 4, s. 39.
+
+
+
+
+
+**Remittance of fees and charges**
+
+**29.3** One half of the amounts of the fees and charges obtained in accordance with regulations made under section 29.1 shall be paid to the credit of the Receiver General and the other half shall be paid to the credit of Her Majesty in right of the Province, in the time and manner prescribed under those regulations.
+> 2015, c. 4, s. 39.
+
+
+
+
+
 ### Decisions in Relation to Offshore Management
 
 
@@ -940,7 +986,7 @@ whichever occurs first.
 
 **44** 
 
-- **(1)** Subject to any directives issued under subsection 42(1), the Board shall conduct a public review in relation to any potential development of a pool or field unless the Board is of the opinion that the public hearing is not required on any ground the Board considers to be in the public interest.
+- **(1)** Subject to any directives issued under subsection 42(1), the Board shall conduct a public review in relation to any potential development of a pool or field unless the Board is of the opinion that it is not required on any ground the Board considers to be in the public interest.
 
 **Powers of Board**
 
@@ -957,7 +1003,53 @@ whichever occurs first.
 **Time limit for Board’s recommendations on a plan**
 
 - **(4)** The commissioners shall make their recommendations respecting any preliminary plan or statement submitted pursuant to paragraph (2)(c) within two hundred and seventy days after their receipt of the plan or statement or such shorter period as may be set by the Board.
-> 1987, c. 3, s. 44; 2014, c. 13, s. 13(E).
+> 1987, c. 3, s. 44; 2014, c. 13, s. 13(E); 2015, c. 4, s. 40(E).
+
+
+
+
+
+### Public Hearings
+
+
+
+**Public hearings**
+
+**44.1** The Board may conduct a public hearing in relation to the exercise of any of its powers or the performance of any of its duties and functions as a responsible authority as defined in subsection 2(1) of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md).
+> 2015, c. 4, s. 41.
+
+
+
+
+
+**Confidentiality**
+
+**44.2** At any public hearing conducted under section 44.1, the Board may take any measures and make any order that it considers necessary to ensure the confidentiality of any information likely to be disclosed at the hearing if the Board is satisfied that
+- **(a)** disclosure of the information could reasonably be expected to result in a material loss or gain to a person directly affected by the hearing, or to prejudice the person’s competitive position, and the potential harm resulting from the disclosure outweighs the public interest in making the disclosure; or
+- **(b)** the information is financial, commercial, scientific or technical information that is confidential information supplied to the Board and
+	- **(i)** the information has been consistently treated as confidential information by a person directly affected by the hearing, and
+	- **(ii)** the person’s interest in confidentiality outweighs the public interest in its disclosure.
+> 2015, c. 4, s. 41.
+
+
+
+
+
+**Confidentiality — security**
+
+**44.3** At any public hearing conducted under section 44.1, the Board may take any measures and make any order that it considers necessary to ensure the confidentiality of information that is likely to be disclosed at the hearing if the Board is satisfied that
+- **(a)** there is a real and substantial risk that disclosure of the information will impair the security of pipelines, as defined in section 135, installations, vessels, aircraft or systems, including computer or communication systems, or methods employed to protect them; and
+- **(b)** the need to prevent disclosure of the information outweighs the public interest in its disclosure.
+> 2015, c. 4, s. 41.
+
+
+
+
+
+**Exception**
+
+**44.4** The Board shall not take any measures or make any order under section 44.2 or 44.3 in respect of information or documentation referred to in paragraphs 119(5)(a) to (e) and (i).
+> 2015, c. 4, s. 41.
 
 
 
@@ -1490,6 +1582,8 @@ by order, prohibit any interest owner specified in the order from commencing or 
 **Notice**
 
 - **(6)** A copy of a declaration of significant discovery and of any amendment or revocation thereof made under this section in relation to any portion of the offshore area subject to an interest shall be sent by registered mail to the interest owner of that interest.
+> 1987, c. 3, s. 71; 2015, c. 4, s. 42(F).
+
 
 
 
@@ -1575,7 +1669,7 @@ by order, prohibit any interest owner specified in the order from commencing or 
 
 **Exception**
 
-- **(2)** No order may be made under subsection (1) with respect to any interest owner who has completed a well on the relevant portion of the offshore area within six months prior to the making of the order.
+- **(2)** No order may be made under subsection (1) with respect to any interest owner who has completed a well on the relevant portion of the offshore area within six months after the completion of that well.
 
 **Condition**
 
@@ -1588,6 +1682,8 @@ by order, prohibit any interest owner specified in the order from commencing or 
 **Definition of well termination date**
 
 - **(5)** For the purposes of subsection (3), ***well termination date*** means the date on which a well has been abandoned, completed or suspended in accordance with any applicable drilling regulations.
+> 1987, c. 3, s. 76; 2015, c. 4, s. 43.
+
 
 
 
@@ -1903,6 +1999,8 @@ the payment so received may be applied by the Government of the Province towards
 **Consolidated Revenue Fund**
 
 - **(2)** On the collection or receipt of any royalties, interest and penalties by the Board pursuant to this section, the royalties shall be deposited as soon as practicable to the credit of the Receiver General and paid into the Consolidated Revenue Fund in the manner prescribed by the Treasury Board under the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
+> 1987, c. 3, s. 99; 2015, c. 4, s. 44(F).
+
 
 
 
@@ -2249,9 +2347,11 @@ whether that other right was acquired before or after that particular right; or
 - **(a)** prescribing the powers, duties and functions of the Registrar and Deputy Registrar for the purposes of this Division and the time when, and manner and circumstances in which, they are to be exercised, and providing for the designation by the Board of any person or class of persons to exercise such powers and perform such duties and functions as may be specified in the regulations;
 - **(b)** governing the books, abstracts and indexes to be maintained as the register for the purposes of this Division and the particulars of interests, instruments and portions of the offshore area and the orders and declarations made in relation to interests to be recorded therein;
 - **(c)** governing the filing of copies of interests, registered instruments and other documents in the register established under this Division;
-- **(d)** governing public access to and searches of the register;
-- **(e)** prescribing fees for the registration of instruments, making copies and certified copies of documents, searches and any other services specified in the regulations for the purposes of this Division, and requiring such fees to be paid for such services; and
+- **(d)** governing public access to and searches of the register; and
+- **(e)** [Repealed, 2015, c. 4, s. 45]
 - **(f)** prescribing any other matter or thing that is by this Division to be prescribed.
+> 1987, c. 3, s. 118; 2015, c. 4, s. 45.
+
 
 
 
@@ -2271,27 +2371,27 @@ whether that other right was acquired before or after that particular right; or
 
 - **(1)** In this section,
 
-***delineation well*** means a well that is so located in relation to another well penetrating an accumulation of petroleum that there is a reasonable expectation that another portion of that accumulation will be penetrated by the first-mentioned well and that the drilling is necessary in order to determine the commercial value of the accumulation;
+***delineation well*** means a well that is so located in relation to another well penetrating an accumulation of petroleum that there is a reasonable expectation that another portion of that accumulation will be penetrated by the first-mentioned well and that the drilling is necessary in order to determine the commercial value of the accumulation; (*puits de délimitation*)
 
-***development well*** means a well that is so located in relation to another well penetrating an accumulation of petroleum that it is considered to be a well or part of a well drilled for the purpose of production or observation or for the injection or disposal of fluid into or from the accumulation:
+***development well*** means a well that is so located in relation to another well penetrating an accumulation of petroleum that it is considered to be a well or part of a well drilled for the purpose of production or observation or for the injection or disposal of fluid into or from the accumulation; (*puits d’exploitation*)
 
-***engineering research or feasibility study*** includes work undertaken to facilitate the design or to analyse the viability of engineering technology, systems or schemes to be used in the exploration for or the development, production or transportation of petroleum in the offshore area;
+***engineering research or feasibility study*** includes work undertaken to facilitate the design or to analyse the viability of engineering technology, systems or schemes to be used in the exploration for or the development, production or transportation of petroleum in the offshore area; (*recherches ou études techniques*)
 
-***environmental study*** means work pertaining to the measurement or statistical evaluation of the physical, chemical and biological elements of the lands, oceans or coastal zones, including winds, waves, tides, currents, precipitation, ice cover and movement, icebergs, pollution effects, flora and fauna both onshore and offshore, human activity and habitation and any related matters;
+***environmental study*** means work pertaining to the measurement or statistical evaluation of the physical, chemical and biological elements of the lands, oceans or coastal zones, including winds, waves, tides, currents, precipitation, ice cover and movement, icebergs, pollution effects, flora and fauna both onshore and offshore, human activity and habitation and any related matters; (*études de l’environnement*)
 
-***experimental project*** means work or activity involving the utilization of methods or equipment that are untried or unproven;
+***experimental project*** means work or activity involving the utilization of methods or equipment that are untried or unproven; (*opération expérimentale*)
 
-***exploratory well*** means a well drilled on a geological feature on which a significant discovery has not been made;
+***exploratory well*** means a well drilled on a geological feature on which a significant discovery has not been made; (*puits d’exploration*)
 
-***geological work*** means work, in the field or laboratory, involving the collection, examination, processing or other analysis of lithological, paleontological or geochemical materials recovered from the seabed or subsoil of any portion of the offshore area and includes the analysis and interpretation of mechanical well logs;
+***geological work*** means work, in the field or laboratory, involving the collection, examination, processing or other analysis of lithological, paleontological or geochemical materials recovered from the seabed or subsoil of any portion of the offshore area and includes the analysis and interpretation of mechanical well logs; (*travaux de géologie*)
 
-***geophysical work*** means work involving the indirect measurement of the physical properties of rocks in order to determine the depth, thickness, structural configuration or history of deposition thereof and includes the processing, analysis and interpretation of material or data obtained from such work;
+***geophysical work*** means work involving the indirect measurement of the physical properties of rocks in order to determine the depth, thickness, structural configuration or history of deposition thereof and includes the processing, analysis and interpretation of material or data obtained from such work; (*travaux de géophysique*)
 
-***geotechnical work*** means work, in the field or laboratory, undertaken to determine the physical properties of materials recovered from the seabed or subsoil of any portion of the offshore area;
+***geotechnical work*** means work, in the field or laboratory, undertaken to determine the physical properties of materials recovered from the seabed or subsoil of any portion of the offshore area; (*travaux de géotechnique*)
 
-***well site seabed survey*** means a survey pertaining to the nature of the seabed or subsoil of any portion of the offshore area in the area of the proposed drilling site in respect of a well and to the conditions of those portions of the offshore area that may affect the safety or efficiency of drilling operations;
+***well site seabed survey*** means a survey pertaining to the nature of the seabed or subsoil of any portion of the offshore area in the area of the proposed drilling site in respect of a well and to the conditions of those portions of the offshore area that may affect the safety or efficiency of drilling operations; (*levé marin*)
 
-***well termination date*** means the date on which a well or test hole has been abandoned, completed or suspended in accordance with any applicable regulations respecting the drilling for petroleum made under Part III.
+***well termination date*** means the date on which a well has been abandoned, completed or suspended in accordance with any applicable regulations respecting the drilling for petroleum made under Part III. (*date d’abandon du puits*)
 
 **Privilege**
 
@@ -2331,8 +2431,90 @@ have passed;
 		- **(i)** where it relates to a well and the well has been drilled, after the expiration of the period referred to in paragraph (a) or the later period referred to in subparagraph (b)(i) or (ii) or (c)(i) or (ii), according to whether paragraph (a), (b) or (c) is applicable in respect of that well, or
 		- **(ii)** in any other case, if five years have passed since the completion of the study.
 
-- **(6)** [Repealed, 1988, c. 28, s. 260]
-> 1987, c. 3, s. 119; 1988, c. 28, s. 260; 1992, c. 35, s. 48; 1994, c. 26, s. 13(F).
+**Disclosure — governments and agencies**
+
+- **(6)** The Board may disclose any information or documentation that it obtains under this Part or Part III — to officials of the Government of Canada, the Government of the Province or any other provincial government, or a foreign government or to the representatives of any of their agencies — for the purposes of a federal, provincial or foreign law, as the case may be, that deals primarily with a petroleum-related work or activity, including the exploration for and the management, administration and exploitation of petroleum resources, if
+	- **(a)** the government or agency undertakes to keep the information or documentation confidential and not to disclose it without the Board’s written consent;
+	- **(b)** the information and documentation is disclosed in accordance with any conditions agreed to by the Board and the government or agency; and
+	- **(c)** in the case of disclosure to a foreign government or agency, the Federal Minister and Provincial Minister consent in writing.
+
+**Disclosure — Minister**
+
+- **(7)** The Board may disclose to the Federal Minister and Provincial Minister the information or documentation that it has disclosed or intends to disclose under subsection (6), but the Federal Minister and the Provincial Minister are not to further disclose that information or documentation unless the Board consents in writing to that disclosure or the Federal Minister or the Provincial Minister is required by an Act of Parliament or an Act of the Legislature of the Province, as the case may be, to disclose that information or documentation.
+
+**Consent**
+
+- **(8)** For the purposes of paragraph (6)(a) and subsection (7), the Board may consent to the further disclosure of information or documentation only if the Board itself is authorized under this section to disclose it.
+
+**Applicant and proposed work or activity**
+
+- **(9)** Subsection (2) does not apply in respect of information regarding the applicant for an operating licence or authorization under subsection 138(1) or the scope, purpose, location, timing and nature of the proposed work or activity for which the licence or authorization is sought.
+
+**Public hearing**
+
+- **(10)** Subsection (2) does not apply in respect of information or documentation provided for the purposes of a public hearing conducted under section 44.1.
+
+**Safety or environmental protection**
+
+- **(11)** Subject to section 119.1, the Board may disclose all or part of any information or documentation related to safety or environmental protection that is provided in relation to an application for an operating licence or authorization under subsection 138(1), or to an operating licence or authorization that is issued under that subsection or provided in accordance with any regulations made under this Part or Part III. The Board is not, however, permitted to disclose information or documentation if the Board is satisfied that
+	- **(a)** disclosure of it could reasonably be expected to result in a material loss or gain to a person, or to prejudice their competitive position, and the potential harm resulting from the disclosure outweighs the public interest in making the disclosure;
+	- **(b)** it is financial, commercial, scientific or technical information or documentation that is confidential and has been consistently treated as such by a person who would be directly affected by its disclosure, and for which the person’s interest in confidentiality outweighs the public interest in its disclosure; or
+	- **(c)** there is a real and substantial risk that disclosure of it will impair the security of pipelines, as defined in section 135, installations, vessels, aircraft, or systems, including computer or communication systems, used for any work or activity in respect of which this Act applies — or methods employed to protect them — and the need to prevent its disclosure outweighs the public interest in its disclosure.
+
+**Exception**
+
+- **(12)** Subsections (9) to (11) do not apply in respect of information or documentation described in paragraphs (5)(a) to (e) and (i).
+> 1987, c. 3, s. 119; 1988, c. 28, s. 260; 1992, c. 35, s. 48; 1994, c. 26, s. 13(F); 2015, c. 4, s. 46.
+
+
+
+
+
+**Notice — subsection 119(11)**
+
+**119.1** 
+
+- **(1)** If the Board intends to disclose any information or documentation under subsection 119(11), the Board shall make every reasonable effort to give the person who provided it written notice of the Board’s intention to disclose it.
+
+**Waiver of notice**
+
+- **(2)** Any person to whom a notice is required to be given under subsection (1) may waive the requirement, and if they have consented to the disclosure they are deemed to have waived the requirement.
+
+**Contents of notice**
+
+- **(3)** A notice given under subsection (1) shall include
+	- **(a)** a statement that the Board intends to disclose information or documentation under subsection 119(11);
+	- **(b)** a description of the information or documentation that was provided by the person to whom the notice is given; and
+	- **(c)** a statement that the person may, within 20 days after the day on which the notice is given, make written representations to the Board as to why the information or documentation, or a portion of it, should not be disclosed.
+
+**Representations**
+
+- **(4)** If a notice is given to a person under subsection (1), the Board shall
+	- **(a)** give the person the opportunity to make, within 20 days after the day on which the notice is given, written representations to the Board as to why the information or documentation, or a portion of it, should not be disclosed; and
+	- **(b)** after the person has had the opportunity to make representations, but no later than 30 days after the day on which the notice is given, make a decision as to whether or not to disclose the information or documentation and give written notice of the decision to the person.
+
+**Contents of notice of decision to disclose**
+
+- **(5)** A notice given under paragraph (4)(b) of a decision to disclose information or documentation shall include
+	- **(a)** a statement that the person to whom the notice is given may request a review of the decision under subsection (7) within 20 days after the day on which the notice is given; and
+	- **(b)** a statement that if no review is requested under subsection (7) within 20 days after the day on which the notice is given, the Board shall disclose the information or documentation.
+
+**Disclosure of information or documentation**
+
+- **(6)** If, under paragraph (4)(b), the Board decides to disclose the information or documentation, the Board shall disclose it on the expiry of 20 days after the day on which a notice is given under that paragraph, unless a review of the decision is requested under subsection (7).
+
+**Review**
+
+- **(7)** Any person to whom the Board is required under paragraph (4)(b) to give a notice of a decision to disclose information or documentation may, within 20 days after the day on which the notice is given, apply to the Trial Division of the Supreme Court of Newfoundland and Labrador for a review of the decision.
+
+**Hearing in summary way**
+
+- **(8)** An application made under subsection (7) shall be heard and determined in a summary way in accordance with any applicable rules of practice and procedure of that Court.
+
+**Court to take precautions against disclosing**
+
+- **(9)** In any proceedings arising from an application under subsection (7), the Trial Division of the Supreme Court of Newfoundland and Labrador shall take every reasonable precaution, including, when appropriate, conducting hearings *in camera*, to avoid the disclosure by the Court or any person of any information or documentation that, under this Act, is privileged or is not to be disclosed.
+> 2015, c. 4, s. 47.
 
 
 
@@ -2682,9 +2864,10 @@ have passed;
 **135.1** The purpose of this Part is to promote, in respect of the exploration for and exploitation of petroleum,
 - **(a)** safety, particularly by encouraging persons exploring for and exploiting petroleum to maintain a prudent regime for achieving safety;
 - **(b)** the protection of the environment;
+- **(b.1)** accountability in accordance with the “polluter pays” principle;
 - **(c)** the conservation of petroleum resources; and
 - **(d)** joint production arrangements.
-> 1992, c. 35, s. 53.
+> 1992, c. 35, s. 53; 2015, c. 4, s. 48.
 
 
 
@@ -2751,8 +2934,8 @@ have passed;
 
 **Delegation**
 
-**137.1** The Board may delegate any of the Board’s powers under section 138, 138.2, 138.3, 139.1, 139.2 or 163 to any person, and the person shall exercise those powers in accordance with the terms of the delegation.
-> 1992, c. 35, s. 57.
+**137.1** The Board may delegate any of the Board’s powers under section 138, 138.2, 138.3, 139.1, 139.2, 162.1 or 163 to any person, and the person shall exercise those powers in accordance with the terms of the delegation.
+> 1992, c. 35, s. 57; 2015, c. 4, s. 49.
 
 
 
@@ -2780,7 +2963,7 @@ have passed;
 
 **Requirements for operating licence**
 
-- **(3)** An operating licence is subject to such requirements as the Board determines or as may be prescribed and to such fees and deposits as are prescribed.
+- **(3)** An operating licence is subject to any requirements that are determined by the Board or that are prescribed and to any deposits that are prescribed.
 
 **Copy to Chief Safety Officer**
 
@@ -2800,12 +2983,52 @@ have passed;
 **Suspension or revocation**
 
 - **(5)** The Board may suspend or revoke an operating licence or an authorization for failure to comply with, contravention of or default in respect of
-	- **(a)** a requirement, approval, fee or deposit, determined by the Board in accordance with the provisions of this Part or Part III.1 or granted or prescribed by regulations made under either of those Parts, subject to which the licence or authorization was issued;
+	- **(a)** a requirement, approval or deposit, determined by the Board in accordance with the provisions of this Part or Part III.1 or granted or prescribed by regulations made under either of those Parts, subject to which the licence or authorization was issued;
+	- **(a.1)** a fee or charge payable in accordance with regulations made under section 29.1;
 	- **(b)** a requirement undertaken in a declaration referred to in subsection 139.1(1);
-	- **(c)** subsection 139.1(3), 139.2(2) or 163(1.1); or
+	- **(c)** subsection 139.1(3), 139.2(2), 162.1(4) or (5) or 163(1.1), (1.2) or (5);
 	- **(c.1)** any provision of Part III.1; or
 	- **(d)** any applicable regulation.
-> 1987, c. 3, s. 138; 1992, c. 35, s. 58; 2014, c. 13, s. 22.
+> 1987, c. 3, s. 138; 1992, c. 35, s. 58; 2014, c. 13, s. 22; 2015, c. 4, ss. 50, 117.
+
+
+
+
+
+**Environmental assessment**
+
+**138.01** 
+
+- **(1)** If an application for an authorization under paragraph 138(1)(b) or an application made under subsection 139(2) is in respect of a physical activity described in subsection (2), the Board shall issue the decision statement referred to in section 54 of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md) in respect of the physical activity within 12 months after the day on which the applicant has, in the Board’s opinion, provided a complete application.
+
+**Physical activity**
+
+- **(2)** The physical activity in question is a physical activity that:
+	- **(a)** is carried out in the offshore area;
+	- **(b)** is designated by regulations made under paragraph 84(a) of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md) or in an order made under subsection 14(2) of that Act;
+	- **(c)** is one for which the Board is the responsible authority as defined in subsection 2(1) of that Act; and
+	- **(d)** is one in relation to which an environmental assessment was not referred to a review panel under section 38 of that Act.
+It includes any physical activity that is incidental to the physical activity described in paragraphs (a) to (d).
+
+**Excluded period**
+
+- **(3)** If the Board requires the applicant to provide information or undertake a study with respect to the physical activity, the period that is taken by the applicant, in the Board’s opinion, to comply with the requirement is not included in the calculation of the period referred to in subsection (1).
+
+**Public notice**
+
+- **(4)** The Board shall, without delay, make public
+	- **(a)** the date on which the 12-month period referred to in subsection (1) begins; and
+	- **(b)** the dates on which the period referred to in subsection (3) begins and ends.
+> 2015, c. 4, s. 51.
+
+
+
+
+
+**Participant funding program**
+
+**138.02** The Board may establish a participant funding program to facilitate the participation of the public in the environmental assessment as defined in subsection 2(1) of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md) of any physical activity described in subsection 138.01(2) that meets the condition set out in paragraph 58(1)(a) of that Act and that is the subject of an application for an authorization under paragraph 138(1)(b) or an application made under subsection 139(2).
+> 2015, c. 4, s. 51.
 
 
 
@@ -2852,14 +3075,14 @@ have passed;
 
 
 
-#### Financial Responsibility
+#### Financial Requirements
 
 
 
-**Compliance with subsection 163(1)**
+**Compliance with certain provisions**
 
-**138.3** The Board shall, before issuing an authorization for a work or activity referred to in paragraph 138(1)(b), ensure that the applicant has complied with the requirements of subsection 163(1) in respect of that work or activity.
-> 1992, c. 35, s. 58.
+**138.3** The Board shall, before issuing an authorization for a work or activity referred to in paragraph 138(1)(b), ensure that the applicant has complied with the requirements of subsections 162.1(1) or (2) and 163(1) or (1.01) in respect of that work or activity.
+> 1992, c. 35, s. 58; 2015, c. 4, s. 53.
 
 
 
@@ -3196,7 +3419,10 @@ shall be granted, except with the approval of both Ministers, unless the Board, 
 	- **(e)** concerning the approvals to be granted as conditions of authorizations issued under paragraph 138(1)(b);
 	- **(f)** concerning certificates for the purposes of section 139.2;
 	- **(g)** prohibiting the introduction into the environment of substances, classes of substances and forms of energy, in prescribed circumstances;
-	- **(h)** authorizing the discharge, emission or escape of petroleum for the purposes of subsection 160(1) in such quantities, at such locations, under such conditions and by such persons as may be specified in the regulations; and
+	- **(h)** authorizing the discharge, emission or escape of petroleum for the purposes of subsection 160(1) in such quantities, at such locations, under such conditions and by such persons as may be specified in the regulations;
+	- **(h.1)** establishing the requirements for a pooled fund for the purposes of subsection 163(1.01);
+	- **(h.2)** concerning the circumstances under which the Board may make a recommendation for the purposes of subsection 163.1(1) and the information to be submitted with respect to that recommendation;
+	- **(h.3)** concerning the creation, conservation and production of records; and
 	- **(i)** prescribing anything that is required to be prescribed for the purposes of this Part.
 
 **Incorporation of standards or specifications**
@@ -3267,12 +3493,12 @@ shall be granted, except with the approval of both Ministers, unless the Board, 
 
 **151.1** 
 
-- **(1)** The Board may issue and publish, in such manner as the Board deems appropriate, guidelines and interpretation notes with respect to the application and administration of sections 45, 138 and 139 or any regulations made under section 149.
+- **(1)** The Board may issue and publish, in any manner the Board considers appropriate, guidelines and interpretation notes with respect to the application and administration of sections 45, 138 and 139 and subsection 163(1.01) and any regulations made under sections 29.1 and 149.
 
 **Deemed not to be statutory instruments**
 
 - **(2)** Guidelines and interpretation notes issued pursuant to subsection (1) shall be deemed not to be statutory instruments for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
-> 1987, c. 3, s. 151.1; 1992, c. 35, s. 65.
+> 1987, c. 3, s. 151.1; 1992, c. 35, s. 65; 2015, c. 4, s. 56.
 
 
 
@@ -3576,28 +3802,51 @@ the Chief Conservation Officer may take such action or direct that it be taken b
 **162** 
 
 - **(1)** Where any discharge, emission or escape of petroleum that is authorized by regulation, or any spill, occurs in any portion of the offshore area,
-	- **(a)** the person who is required to obtain an authorization under paragraph 138(1)(b) in respect of the work or activity from which the spill or authorized discharge, emission or escape of petroleum emanated is liable, without proof of fault or negligence, up to any prescribed limit of liability, for
-		- **(i)** all actual loss or damage incurred by any person as a result of the spill or the authorized discharge, emission or escape of petroleum, and
-		- **(ii)** the costs and expenses reasonably incurred by the Board or Her Majesty in right of Canada or the Province or any other person in taking any action or measure in relation to the spill or the authorized discharge, emission or escape of petroleum; and
-	- **(b)** all persons to whose fault or negligence the spill or the authorized discharge, emission or escape of petroleum is attributable or who are by law responsible for others to whose fault or negligence the spill or the authorized discharge, emission or escape of petroleum is attributable are jointly and severally liable, to the extent determined according to the degree of the fault or negligence proved against them, for all actual loss or damage incurred by any person as a result of the spill or the authorized discharge, emission or escape of petroleum.
+	- **(a)** all persons to whose fault or negligence the spill or the authorized discharge, emission or escape of petroleum is attributable or who are by law responsible for others to whose fault or negligence the spill or the authorized discharge, emission or escape of petroleum is attributable are jointly and severally liable, to the extent determined according to the degree of the fault or negligence proved against them, for
+		- **(i)** all actual loss or damage incurred by any person as a result of the spill or the authorized discharge, emission or escape of petroleum or as a result of any action or measure taken in relation to the spill or the authorized discharge, emission or escape of petroleum,
+		- **(ii)** the costs and expenses reasonably incurred by the Board or Her Majesty in right of Canada or the Province or any other person in taking any action or measure in relation to the spill or the authorized discharge, emission or escape of petroleum, and
+		- **(iii)** all loss of non-use value relating to a public resource that is affected by a spill or the authorized discharge, emission or escape of petroleum or as a result of any action or measure taken in relation to the spill or the authorized discharge, emission or escape of petroleum; and
+	- **(b)** the person who is required to obtain an authorization under paragraph 138(1)(b) in respect of the work or activity from which the spill or the authorized discharge, emission or escape of petroleum emanated is liable, without proof of fault or negligence, up to the applicable limit of liability that is set out in subsection (2.2) for the actual loss or damage, the costs and expenses and the loss of non-use value described in subparagraphs (a)(i) to (iii).
 
-**Recovery of loss, damage, costs or expenses caused by debris**
+**Recovery of loss, etc., caused by debris**
 
-- **(2)** Where any person incurs actual loss or damage as a result of debris or the Board or Her Majesty in right of Canada or the Province reasonably incurs any costs or expenses in taking any remedial action in relation to debris,
-	- **(a)** the person who is required to obtain an authorization under paragraph 138(1)(b) in respect of the work or activity from which the debris originated is liable, without proof of fault or negligence, up to any prescribed limit of liability, for all such actual loss or damage and all such costs or expenses; and
-	- **(b)** all persons to whose fault or negligence the debris is attributable or who are by law responsible for others to whose fault or negligence the debris is attributable are jointly and severally liable, to the extent determined according to the degree of the fault or negligence proved against them, for all such actual loss or damage and all such costs or expenses.
+- **(2)** If, as a result of debris or as a result of any action or measure taken in relation to debris, there is a loss of non-use value relating to a public resource or any person incurs actual loss or damage or if the Board or Her Majesty in right of Canada or the Province reasonably incurs any costs or expenses in taking any action or measure in relation to debris,
+	- **(a)** all persons to whose fault or negligence the debris is attributable or who are by law responsible for others to whose fault or negligence the debris is attributable are jointly and severally liable, to the extent determined according to the degree of the fault or negligence proved against them, for that loss, actual loss or damage, and for those costs and expenses; and
+	- **(b)** the person who is required to obtain an authorization under paragraph 138(1)(b) in respect of the work or activity from which the debris originated is liable, without proof of fault or negligence, up to the applicable limit of liability that is set out in subsection (2.2), for that loss, actual loss or damage, and for those costs and expenses.
 
-**No double liability**
+**Vicarious liability for contractors**
 
-- **(2.1)** Where subsection (1) or (2) applies, no person is liable for more than the greater of the prescribed limit referred to in paragraph (1)(a) or (2)(a), as the case may be, and the amount for which the person would be liable under any other law for the same occurrence.
+- **(2.1)** A person who is required to obtain an authorization under paragraph 138(1)(b) and who retains, to carry on a work or activity in respect of which the authorization is required, the services of a contractor to whom paragraph (1)(a) or (2)(a) applies is jointly and severally liable with that contractor for any actual loss or damage, costs and expenses and loss of non-use value described in subparagraphs (1)(a)(i) to (iii) and subsection (2).
+
+**Limits of liability**
+
+- **(2.2)** For the purposes of paragraphs (1)(b) and (2)(b), the limits of liability are
+	- **(a)** in respect of any area of land or submarine area referred to in paragraph 6(1)(a) of the [Arctic Waters Pollution Prevention Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-12.md), the amount by which $1 billion exceeds the amount prescribed under section 9 of that Act in respect of any activity or undertaking engaged in or carried on by any person described in paragraph 6(1)(a) of that Act; and
+	- **(b)** in respect of any area to which this Act applies and to which paragraph (a) does not apply, the amount of $1 billion.
+
+**Increase in limits of liability**
+
+- **(2.3)** Subject to section 7, the Governor in Council may, by regulation, increase the amounts referred to in subsection (2.2).
+
+**Liability under another law — paragraph (1)(b) or (2)(b)**
+
+- **(2.4)** If a person is liable under paragraph (1)(b) or (2)(b) with respect to an occurrence and the person is also liable under any other Act, without proof of fault or negligence, for the same occurrence, the person is liable up to the greater of the applicable limit that is set out in subsection (2.2) and the limit up to which the person is liable under the other Act. If the other Act does not set out a limit of liability, the limits set out in subsection (2.2) do not apply.
+
+**Costs and expenses not recoverable under [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md)**
+
+- **(2.5)** The costs and expenses that are recoverable by Her Majesty in right of Canada or the Province under this section are not recoverable under subsection 42(1) of the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md).
+
+**Action — loss of non-use value**
+
+- **(2.6)** Only Her Majesty in right of Canada or the Province may bring an action to recover a loss of non-use value described in subsections (1) and (2).
 
 **Claims**
 
-- **(3)** All claims under this section may be sued for and recovered in any court of competent jurisdiction in Canada and shall rank firstly in favour of persons incurring actual loss or damage, without preference, and secondly, without preference, to meet any costs and expenses described in subsection (1) or (2).
+- **(3)** All claims under this section may be sued for and recovered in any court of competent jurisdiction in Canada and shall rank, firstly, in favour of persons incurring actual loss or damage described in subsections (1) and (2), without preference, secondly, without preference, to meet any costs and expenses described in those subsections and, lastly, to recover a loss of non-use value described in those subsections.
 
 **Saving**
 
-- **(4)** Nothing in this section suspends or limits
+- **(4)** Subject to subsections (2.5) and (2.6), nothing in this section suspends or limits
 	- **(a)** any legal liability or remedy for an act or omission by reason only that the act or omission is an offence under this Division or gives rise to liability under this section;
 	- **(b)** any recourse, indemnity or relief available at law to a person who is liable under this section against any other person; or
 	- **(c)** the operation of any applicable law or rule of law that is not inconsistent with this section.
@@ -3605,7 +3854,34 @@ the Chief Conservation Officer may take such action or direct that it be taken b
 **Limitation period**
 
 - **(5)** Proceedings in respect of claims under this section may be instituted within three years after the day when the loss, damage costs or expenses occurred but in no case after six years after the day the spill or the discharge, emission or escape of petroleum occurred or, in the case of debris, after the day the installation or structure in question was abandoned or the material in question broke away or was jettisoned or displaced.
-> 1987, c. 3, s. 162; 1992, c. 35, s. 75.
+> 1987, c. 3, s. 162; 1992, c. 35, s. 75; 2015, c. 4, s. 60.
+
+
+
+
+
+**Financial resources — certain activities**
+
+**162.1** 
+
+- **(1)** An applicant for an authorization under paragraph 138(1)(b) for the drilling for or development or production of petroleum shall provide proof, in the prescribed form and manner, that it has the financial resources necessary to pay the greatest of the amounts of the limits of liability referred to in subsection 162(2.2) that apply to it. If the Board considers it necessary, it may determine a greater amount and require proof that the applicant has the financial resources to pay that greater amount.
+
+**Financial resources — other activities**
+
+- **(2)** An applicant for an authorization under paragraph 138(1)(b) for any other work or activity shall provide proof, in the prescribed form and manner, that it has the financial resources necessary to pay an amount that is determined by the Board.
+
+**Loss of non-use value not considered**
+
+- **(3)** When the Board determines an amount under subsection (1) or (2), the Board is not required to consider any potential loss of non-use value relating to a public resource that is affected by a spill or the authorized discharge, emission or escape of petroleum or as a result of debris.
+
+**Continuing obligation**
+
+- **(4)** The holder of an authorization under paragraph 138(1)(b) shall ensure that the proof referred to in subsections (1) and (2) remains in force for the duration of the work or activity in respect of which the authorization is issued.
+
+**Extended obligation**
+
+- **(5)** The holder of an authorization under paragraph 138(1)(b) shall also ensure that the proof referred to in subsection (1) remains in force for a period of one year beginning on the day on which the Board notifies the holder that it has accepted a report submitted by the holder indicating that the last well in respect of which the authorization is issued is abandoned. The Board may reduce that period and may decide that the proof that is to remain in force during that period is proof that the holder has the financial resources necessary to pay an amount that is less than the amount referred to in subsection (1) and that is determined by the Board.
+> 2015, c. 4, s. 61.
 
 
 
@@ -3615,15 +3891,29 @@ the Chief Conservation Officer may take such action or direct that it be taken b
 
 **163** 
 
-- **(1)** An applicant for an authorization under paragraph 138(1)(b) in respect of any work or activity in any portion of the offshore area shall provide proof of financial responsibility in the form of a letter of credit, a guarantee or indemnity bond or in any other form satisfactory to the Board, in an amount satisfactory to the Board.
+- **(1)** An applicant for an authorization under paragraph 138(1)(b) shall provide proof of financial responsibility in the form of a letter of credit, guarantee or indemnity bond or in any other form satisfactory to the Board,
+	- **(a)** in the case of the drilling for or development or production of petroleum in the offshore area, in the amount of $100 million or, if the Board considers it necessary, in a greater amount that it determines; or
+	- **(b)** in any other case, in an amount that is satisfactory to, and determined by, the Board.
+
+**Pooled fund**
+
+- **(1.01)** An applicant to which paragraph (1)(a) applies may, rather than provide proof of financial responsibility in the amount referred to in that paragraph, provide proof that it participates in a pooled fund that is established by the oil and gas industry, that is maintained at a minimum of $250 million and that meets any other requirements that are established by regulation.
+
+**Increase in amount by regulation**
+
+- **(1.02)** Subject to section 7, the Governor in Council may, by regulation, increase the amount referred to in subsection (1.01).
 
 **Continuing obligation**
 
-- **(1.1)** The person who has obtained an authorization under paragraph 138(1)(b) shall ensure that the proof of financial responsibility remains in force for the duration of the work or activity in respect of which the authorization is issued.
+- **(1.1)** The holder of an authorization under paragraph 138(1)(b) shall ensure that the proof of financial responsibility referred to in subsection (1) or (1.01) remains in force for the duration of the work or activity in respect of which the authorization is issued.
+
+**Extended obligation**
+
+- **(1.2)** The holder of an authorization under paragraph 138(1)(b) shall also ensure that the proof referred to in paragraph (1)(a) or subsection (1.01) remains in force for a period of one year beginning on the day on which the Board notifies the holder that it has accepted a report submitted by the holder indicating that the last well in respect of which the authorization is issued is abandoned. The Board may reduce that period and may decide — other than in the case of a holder that participates in a pooled fund — that the proof that is to remain in force during that period is for an amount that is less than the amount referred to in paragraph (1)(a) and that is determined by the Board.
 
 **Payment of claims**
 
-- **(2)** The Board may require that moneys in an amount not exceeding the amount prescribed for any case or class of cases, or determined by the Board in the absence of regulations, be paid out of the funds available under the letter of credit, guarantee or indemnity bond or other form of financial responsibility provided pursuant to subsection (1), in respect of any claim for which proceedings may be instituted under section 162, whether or not such proceedings have been instituted.
+- **(2)** The Board may require that moneys in an amount not exceeding the amount prescribed for any case or class of cases, or determined by the Board in the absence of regulations, be paid out of the funds available under the letter of credit, guarantee or indemnity bond or other form of financial responsibility provided under subsection (1), or be paid out of the pooled fund referred to in subsection (1.01), in respect of any claim for which proceedings may be instituted under section 162, whether or not those proceedings have been instituted.
 
 **Manner of payment**
 
@@ -3632,7 +3922,30 @@ the Chief Conservation Officer may take such action or direct that it be taken b
 **Deduction**
 
 - **(4)** Where a claim is sued for under section 162, there shall be deducted from any award made pursuant to the action on that claim any amount received by the claimant under this section in respect of the loss, damage, costs or expenses claimed.
-> 1987, c. 3, s. 163; 1992, c. 35, s. 76.
+
+**Reimbursement of pooled fund**
+
+- **(5)** The holder of an authorization under paragraph 138(1)(b) that is liable for a discharge, emission or escape of petroleum that is authorized by regulation or for any spill or debris in respect of which a payment has been made under subsection (2) out of the pooled fund, shall reimburse the amount of the payment in the prescribed manner.
+> 1987, c. 3, s. 163; 1992, c. 35, s. 76; 2015, c. 4, s. 62.
+
+
+
+
+
+**Lesser amount**
+
+**163.1** 
+
+- **(1)** The Federal Minister may, by order, on the recommendation of the Board and with the Provincial Minister’s approval, approve an amount that is less than the amount referred to in paragraph 162(2.2)(a) or (b) or 163(1)(a) in respect of an applicant for, or a holder of, an authorization under paragraph 138(1)(b).
+
+**Financial resources — exception**
+
+- **(2)** If the Federal Minister approves an amount that is less than the amount referred to in paragraph 162(2.2)(a) or (b) in respect of an applicant for an authorization under paragraph 138(1)(b), that applicant, for the purposes of subsection 162.1(1), shall only provide proof that it has the financial resources necessary to pay the adjusted amount approved by the Federal Minister.
+
+**No contravention**
+
+- **(3)** No applicant for an authorization under paragraph 138(1)(b) contravenes paragraph 163(1)(a) if that applicant provides proof of financial responsibility in the amount that is approved by the Federal Minister under this section.
+> 2015, c. 4, s. 63.
 
 
 
@@ -4447,16 +4760,48 @@ and, subject to section 177, the unit agreement and the unit operating agreement
 	- **(a)** on summary conviction, to a fine not exceeding one hundred thousand dollars or to imprisonment for a term not exceeding one year, or to both; or
 	- **(b)** on conviction on indictment, to a fine not exceeding one million dollars or to imprisonment for a term not exceeding five years, or to both.
 
+**Sentencing principles**
+
+- **(3)** In addition to the principles and factors that the court is otherwise required to consider, including those set out in sections 718.1 to 718.21 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the court shall consider the following principles when sentencing a person who is found guilty of an offence under this Part:
+	- **(a)** the amount of the fine should be increased to account for every aggravating factor associated with the offence, including the aggravating factors set out in subsection (4); and
+	- **(b)** the amount of the fine should reflect the gravity of each aggravating factor associated with the offence.
+
+**Aggravating factors**
+
+- **(4)** The aggravating factors are the following:
+	- **(a)** the offence caused harm or risk of harm to human health or safety;
+	- **(b)** the offence caused damage or risk of damage to the environment or to environmental quality;
+	- **(c)** the offence caused damage or risk of damage to any unique, rare, particularly important or vulnerable component of the environment;
+	- **(d)** the damage or harm caused by the offence is extensive, persistent or irreparable;
+	- **(e)** the offender committed the offence intentionally or recklessly;
+	- **(f)** the offender failed to take reasonable steps to prevent the commission of the offence;
+	- **(g)** by committing the offence or failing to take action to prevent its commission, the offender increased their revenue or decreased their costs or intended to increase their revenue or decrease their costs;
+	- **(h)** the offender has a history of non-compliance with federal or provincial legislation that relates to safety or environmental conservation or protection; and
+	- **(i)** after the commission of the offence, the offender
+		- **(i)** attempted to conceal its commission,
+		- **(ii)** failed to take prompt action to prevent, mitigate or remediate its effects, or
+		- **(iii)** failed to take prompt action to reduce the risk of committing similar offences in the future.
+
+**Absence of aggravating factor**
+
+- **(4.1)** The absence of an aggravating factor set out in subsection (4) is not a mitigating factor.
+
+**Meaning of damage**
+
+- **(4.2)** For the purposes of paragraphs (4)(b) to (d), ***damage*** includes loss of use value and non-use value.
+
+**Reasons**
+
+- **(4.3)** If the court is satisfied of the existence of one or more of the aggravating factors set out in subsection (4) but decides not to increase the amount of the fine because of that factor, the court shall give reasons for that decision.
+
 **Due diligence defence**
 
-- **(3)** No person shall be found guilty of an offence under this Part if they establish that they exercised due diligence to prevent the commission of the offence.
-
-- **(4)** [Repealed, 1992, c. 35, s. 81]
+- **(4.4)** No person shall be found guilty of an offence under this Part if they establish that they exercised due diligence to prevent the commission of the offence.
 
 **Presumption against waste**
 
 - **(5)** No person commits an offence under subsection 154(1) by reason of committing waste as defined in paragraph 154(2)(f) or (g) unless that person has been ordered by the Committee to take measures to prevent the waste and has failed to comply.
-> 1987, c. 3, s. 194; 1992, c. 35, s. 81; 2014, c. 13, s. 39.
+> 1987, c. 3, s. 194; 1992, c. 35, s. 81; 2014, c. 13, s. 39; 2015, c. 4, ss. 64, 117.
 
 
 
@@ -4487,20 +4832,45 @@ and, subject to section 177, the unit agreement and the unit operating agreement
 
 
 
+**195.2** [Repealed, 2015, c. 4, s. 117]
 
-**Orders of court**
 
-**195.2** 
 
-- **(1)** If a person is convicted of an offence under this Part, the court may, having regard to the nature of the offence and the circumstances surrounding its commission, in addition to any other punishment that may be imposed under this Part, make an order that has any or all of the following effects:
+**195.3** [Repealed, 2015, c. 4, s. 117]
+
+
+
+**195.4** [Repealed, 2015, c. 4, s. 117]
+
+
+
+**195.5** [Repealed, 2015, c. 4, s. 117]
+
+
+
+
+**Order of court**
+
+**196** 
+
+- **(1)** If a person is found guilty of an offence under this Part, the court may, having regard to the nature of the offence and the circumstances surrounding its commission, in addition to any other punishment that may be imposed under this Part, make an order that has any or all of the following effects:
 	- **(a)** prohibiting the offender from committing an act or engaging in an activity that may, in the opinion of the court, result in the continuation or repetition of the offence;
-	- **(b)** directing the offender to take any measures that the court considers appropriate to avoid any injury or damage that may result from the act or omission that constituted the offence, or to remedy any injury or damage resulting from it;
-	- **(c)** directing the offender, at the offender’s own expense, to publish, in any manner that the court directs, the facts relating to the offence;
-	- **(d)** directing the offender to submit to the Chief Safety Officer, on application by the Chief Safety Officer within three years after the conviction, any information with respect to the offender’s activities that the court considers appropriate in the circumstances;
-	- **(e)** directing the offender to pay to the Board an amount of money that the court considers appropriate for the purpose of conducting research, education and training in matters related to the protection of the environment, conservation of petroleum resources or safety of petroleum operations;
-	- **(f)** directing the offender to perform community service, subject to any reasonable conditions that may be imposed by the court;
-	- **(g)** directing the offender to post a bond or pay an amount of money into court that the court considers appropriate to ensure that the offender complies with any prohibition, direction, requirement or condition that is specified in the order; and
-	- **(h)** requiring the offender to comply with any conditions that the court considers appropriate in the circumstances for securing the offender’s good conduct and for preventing the offender from repeating the same offence or committing another offence under this Part.
+	- **(b)** directing the offender to take any action that the court considers appropriate to remedy or avoid any harm to the environment that results or may result from the act or omission that constituted the offence;
+	- **(c)** directing the offender to take any measures that the court considers appropriate to avoid any injury or damage that may result from the act or omission that constituted the offence, or to remedy any injury or damage resulting from it;
+	- **(d)** directing the offender to carry out environmental effects monitoring in the manner established by the Board or directing the offender to pay, in the manner specified by the court, an amount of money for the purposes of environmental effects monitoring;
+	- **(e)** directing the offender to make changes to their environmental management system that are satisfactory to the Board;
+	- **(f)** directing the offender to have an environmental audit conducted by a person of a class and at the times specified by the Board and directing the offender to remedy any deficiencies revealed during the audit;
+	- **(g)** directing the offender to pay to Her Majesty in right of Canada, for the purpose of promoting the conservation, protection or restoration of the environment, or to pay into the Environmental Damages Fund — an account in the accounts of Canada — an amount of money that the court considers appropriate;
+	- **(h)** directing the offender to pay to the Board an amount of money that the court considers appropriate for the purpose of conducting research, education and training in matters related to the protection of the environment, conservation of petroleum resources or safety of petroleum operations;
+	- **(i)** directing the offender to publish, in the manner specified by the court, the facts relating to the commission of the offence and the details of the punishment imposed, including any orders made under this subsection;
+	- **(j)** directing the offender to submit to the Chief Safety Officer, on application by the Chief Safety Officer within three years after the conviction, any information with respect to the offender’s activities that the court considers appropriate in the circumstances;
+	- **(k)** directing the offender to notify, at the offender’s own cost and in the manner specified by the court, any person aggrieved or affected by the offender’s conduct of the facts relating to the commission of the offence and of the details of the punishment imposed, including any orders made under this subsection;
+	- **(l)** directing the offender to post a bond or pay an amount of money into court that the court considers appropriate to ensure that the offender complies with any prohibition, direction, requirement or condition that is specified in the order;
+	- **(m)** directing the offender to perform community service, subject to any reasonable conditions that may be imposed by the court;
+	- **(n)** directing the offender to pay, in the manner specified by the court, an amount of money to environmental, health or other groups to assist in their work;
+	- **(o)** directing the offender to pay, in the manner specified by the court, an amount of money to an educational institution including for scholarships for students enrolled in studies related to the environment;
+	- **(p)** requiring the offender to comply with any conditions that the court considers appropriate in the circumstances for securing the offender’s good conduct and for preventing the offender from repeating the same offence or committing another offence under this Part;
+	- **(q)** prohibiting the offender from taking measures to acquire an interest or from applying for any new licence or other authorization under this Act during any period that the court considers appropriate.
 
 **Coming into force and duration of order**
 
@@ -4508,8 +4878,12 @@ and, subject to section 177, the unit agreement and the unit operating agreement
 
 **Publication**
 
-- **(3)** If an offender does not comply with an order under paragraph (1)(c) requiring the publication of facts relating to the offence, the Chief Safety Officer may publish the facts and recover the costs of publication from the offender.
-> 2014, c. 13, s. 40.
+- **(3)** If an offender does not comply with an order requiring the publication of facts relating to the offence and the details of the punishment, the Board may, in the manner that the court directed the offender, publish those facts and details and recover the costs of publication from the offender.
+
+**Debt due to Board**
+
+- **(4)** If the Board incurs publication costs under subsection (3), the costs constitute a debt due to the Board and may be recovered in any court of competent jurisdiction.
+> 1987, c. 3, s. 196; 2015, c. 4, ss. 65, 117.
 
 
 
@@ -4517,16 +4891,16 @@ and, subject to section 177, the unit agreement and the unit operating agreement
 
 **Variation of sanctions**
 
-**195.3** 
+**196.1** 
 
-- **(1)** Subject to subsection (2), if a court has made, in relation to an offender, an order under subsection 195.2(1), the court may, on application by the offender or the Chief Safety Officer, require the offender to appear before it and, after hearing the offender and the Chief Safety Officer, vary the order in one or more of the following ways that the court considers appropriate because of a change in the circumstances of the offender since the order was made:
-	- **(a)** by making changes to any prohibition, direction, requirement or condition that is specified in the order or by extending the time during which the order is to remain in force for any period, not exceeding one year, that the court considers appropriate; or
-	- **(b)** by decreasing the time during which the order is to remain in force or by relieving the offender, either absolutely or partially or for any period that the court considers appropriate, of compliance with any condition that is specified in the order.
+- **(1)** Subject to subsection (2), if a court has made, in relation to an offender, an order under section 196, the court may, on application by the offender or the Board, require the offender to appear before it and, after hearing the offender and the Board, vary the order in one or more of the following ways that the court considers appropriate because of a change in the offender’s circumstances since the order was made:
+	- **(a)** by making changes to any prohibition, direction, requirement or condition that is specified in the order for any period or by extending the period during which the order is to remain in force, not exceeding one year; or
+	- **(b)** by decreasing the period during which the order is to remain in force or by relieving the offender of compliance with any condition that is specified in the order, either absolutely or partially or for any period.
 
 **Notice**
 
-- **(2)** Before making an order under subsection (1), the court may direct that notice be given to any persons that the court considers to be interested and may hear any of those persons.
-> 2014, c. 13, s. 40.
+- **(2)** Before making an order under subsection (1), the court may direct that notice be given to any persons that the court considers to be interested, and may hear any of those persons.
+> 2015, c. 4, s. 65.
 
 
 
@@ -4534,8 +4908,8 @@ and, subject to section 177, the unit agreement and the unit operating agreement
 
 **Subsequent applications with leave**
 
-**195.4** If an application made under subsection 195.3(1) in relation to an offender has been heard by a court, no other application may be made under section 195.3 in relation to the offender except with leave of the court.
-> 2014, c. 13, s. 40.
+**196.2** If an application made under subsection 196.1(1) in relation to an offender has been heard by a court, no other application may be made under section 196.1 in relation to the offender except with leave of the court.
+> 2015, c. 4, s. 65.
 
 
 
@@ -4543,16 +4917,9 @@ and, subject to section 177, the unit agreement and the unit operating agreement
 
 **Recovery of fines and amounts**
 
-**195.5** If a person is convicted of an offence under this Part and a fine that is imposed is not paid when required or if a court orders an offender to pay an amount under subsection 195.2(1) or 195.3(1), the prosecutor may, by filing the conviction or order, as the case may be, enter as a judgment the amount of the fine or the amount ordered to be paid, and costs, if any, in the Supreme Court of Newfoundland and Labrador, and the judgment is enforceable against the person in the same manner as if it were a judgment rendered against them in that Court in civil proceedings.
-> 2014, c. 13, s. 40.
+**196.3** If a person is convicted of an offence under this Part and a fine that is imposed is not paid when required or if a court orders an offender to pay an amount under subsection 196(1) or 196.1(1), the prosecutor may, by filing the conviction or order, as the case may be, enter as a judgment the amount of the fine or the amount ordered to be paid, and costs, if any, in the Supreme Court of Newfoundland and Labrador, and the judgment is enforceable against the person in the same manner as if it were a judgment rendered against them in that Court in civil proceedings.
+> 2015, c. 4, s. 65.
 
-
-
-
-
-**Order to comply**
-
-**196** Where a person is guilty of an offence under this Part, a court may, in addition to any other penalty it may impose, order that person to comply with the provisions of the Part, regulation or order for the contravention of which that person has been convicted.
 
 
 
@@ -4608,11 +4975,318 @@ and, subject to section 177, the unit agreement and the unit operating agreement
 
 **Information**
 
-**202.1** In any proceedings for an offence under this Part
+**202.001** In any proceedings for an offence under this Part
 - **(a)** an information may include more than one offence committed by the same person;
 - **(b)** all those offences may be tried concurrently; and
 - **(c)** one conviction for any or all offences so included may be made.
-> 2014, c. 13, s. 43.
+> 2014, c. 13, s. 43; 2015, c. 4, s. 117.
+
+
+
+
+
+#### Administrative Monetary Penalties
+
+
+
+##### Powers
+
+
+
+**Regulations**
+
+**202.01** 
+
+- **(1)** Subject to section 7, the Governor in Council may make regulations
+	- **(a)** designating as a violation that may be proceeded with in accordance with this Part
+		- **(i)** the contravention of any specified provision of this Part or of any of its regulations,
+		- **(ii)** the contravention of any direction, requirement, decision or order, or of any direction, requirement, decision or order of a specified class of directions, requirements or orders, made under this Part, or
+		- **(iii)** the failure to comply with any term or condition of
+			- **(A)** an operating licence or authorization, or a specified class of operating licences or authorizations, issued under this Part, or
+			- **(B)** any approval or exemption or a specified class of approvals or exemptions, granted under this Part;
+	- **(b)** respecting the determination of, or the method of determining, the amount payable as the penalty, which may be different for individuals and other persons, for each violation; and
+	- **(c)** respecting the service of documents required or authorized under section 202.06, 202.2 or 202.5, including the manner and proof of service and the circumstances under which documents are considered to be served.
+
+**Maximum**
+
+- **(2)** The amount that may be determined under any regulations made under paragraph (1)(b) as the penalty for a violation shall not be more than $25,000, in the case of an individual, and $100,000, in the case of any other person.
+> 2015, c. 4, s. 66.
+
+
+
+
+
+**Powers**
+
+**202.02** The Board may
+- **(a)** establish the form of notices of violation;
+- **(b)** designate persons or classes of persons who are authorized to issue notices of violation;
+- **(c)** establish, in respect of each violation, a short-form description to be used in notices of violation; and
+- **(d)** designate persons or classes of persons to conduct reviews under section 202.4.
+> 2015, c. 4, s. 66.
+
+
+
+
+
+##### Violations
+
+
+
+**Commission of violation**
+
+**202.03** 
+
+- **(1)** Every person who contravenes or fails to comply with a provision, direction, requirement, decision or order, or term or condition the contravention of which, or the failure to comply with which, is designated to be a violation by a regulation made under paragraph 202.01(1)(a) commits a violation and is liable to a penalty of an amount to be determined in accordance with the regulations.
+
+**Purpose of penalty**
+
+- **(2)** The purpose of the penalty is to promote compliance with this Part and not to punish.
+> 2015, c. 4, s. 66.
+
+
+
+
+
+**Liability of directors, officers, etc.**
+
+**202.04** If a corporation commits a violation, any director, officer, or agent or mandatary of the corporation who directed, authorized, assented to, acquiesced in or participated in the commission of the violation is a party to the violation and is liable to a penalty of an amount to be determined in accordance with the regulations, whether or not the corporation has been proceeded against in accordance with this Part.
+> 2015, c. 4, s. 66.
+
+
+
+
+
+**Proof of violation**
+
+**202.05** In any proceedings under this Part against a person in relation to a violation, it is sufficient proof of the violation to establish that it was committed by an employee, or agent or mandatary, of the person, whether or not the employee, agent or mandatary is identified or proceeded against in accordance with this Part.
+> 2015, c. 4, s. 66.
+
+
+
+
+
+**Issuance and service of notice of violation**
+
+**202.06** 
+
+- **(1)** If a person designated under paragraph 202.02(b) believes on reasonable grounds that a person has committed a violation, the designated person may issue a notice of violation and cause it to be served on the person.
+
+**Contents**
+
+- **(2)** The notice of violation shall
+	- **(a)** name the person that is believed to have committed the violation;
+	- **(b)** set out the relevant facts surrounding the violation;
+	- **(c)** set out the amount of the penalty for the violation;
+	- **(d)** inform the person of their right, under section 202.2, to request a review with respect to the amount of the penalty or the facts of the violation, and of the period within which that right is to be exercised;
+	- **(e)** inform the person of the manner of paying the penalty set out in the notice; and
+	- **(f)** inform the person that, if they do not pay the penalty or exercise their right referred to in paragraph (d), they will be considered to have committed the violation and that they are liable to the penalty set out in the notice.
+> 2015, c. 4, s. 66.
+
+
+
+
+
+##### Rules about Violations
+
+
+
+**Certain defences not available**
+
+**202.07** 
+
+- **(1)** A person named in a notice of violation does not have a defence by reason that the person
+	- **(a)** exercised due diligence to prevent the commission of the violation; or
+	- **(b)** reasonably and honestly believed in the existence of facts that, if true, would exonerate the person.
+
+**Common law principles**
+
+- **(2)** Every rule and principle of the common law that renders any circumstance a justification or excuse in relation to a charge for an offence under this Part applies in respect of a violation to the extent that it is not inconsistent with this Part.
+> 2015, c. 4, s. 66.
+
+
+
+
+
+**Continuing violation**
+
+**202.08** A violation that is committed or continued on more than one day constitutes a separate violation for each day on which it is committed or continued.
+> 2015, c. 4, s. 66.
+
+
+
+
+
+**Violation or offence**
+
+**202.09** 
+
+- **(1)** Proceeding with any act or omission as a violation under this Part precludes proceeding with it as an offence under this Part, and proceeding with it as an offence under this Part precludes proceeding with it as a violation under this Part.
+
+**Violations not offences**
+
+- **(2)** For greater certainty, a violation is not an offence and, accordingly, section 126 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) does not apply in respect of a violation.
+> 2015, c. 4, s. 66.
+
+
+
+
+
+**Limitation or prescription period**
+
+**202.1** No notice of violation is to be issued more than two years after the day on which the matter giving rise to the violation occurred.
+> 2015, c. 4, s. 66.
+
+
+
+
+
+##### Reviews
+
+
+
+**Right to request review**
+
+**202.2** A person who is served with a notice of violation may, within 30 days after the day on which it is served, or within any longer period that the Board allows, make a request to the Board for a review of the amount of the penalty or the facts of the violation, or both.
+> 2015, c. 4, s. 66.
+
+
+
+
+
+**Correction or cancellation of notice of violation**
+
+**202.3** At any time before a request for a review in respect of a notice of violation is received by the Board, a person designated under paragraph 202.02(b) may cancel the notice of violation or correct an error in it.
+> 2015, c. 4, s. 66.
+
+
+
+
+
+**Review**
+
+**202.4** 
+
+- **(1)** On receipt of a request made under section 202.2, the Board shall conduct the review or cause the review to be conducted by a person designated under paragraph 202.02(d).
+
+**Restriction**
+
+- **(2)** The Board shall conduct the review if the notice of violation was issued by a person designated under paragraph 202.02(d).
+> 2015, c. 4, s. 66.
+
+
+
+
+
+**Object of review**
+
+**202.5** 
+
+- **(1)** The Board or the person conducting the review shall determine, as the case may be, whether the amount of the penalty for the violation was determined in accordance with the regulations or whether the person committed the violation, or both.
+
+**Determination**
+
+- **(2)** The Board or the person conducting the review shall render a determination and the reasons for it in writing and cause the person who requested the review to be served with a copy of them.
+
+**Correction of penalty**
+
+- **(3)** If the Board or the person conducting the review determines that the amount of the penalty for the violation was not determined in accordance with the regulations, the Board or the person, as the case may be, shall correct the amount of the penalty.
+
+**Responsibility**
+
+- **(4)** If the Board or the person conducting the review determines that the person who requested the review committed the violation, the person who requested the review is liable to the penalty as set out in the notice issued under section 202.06 or as set out in the determination if the amount of the penalty was corrected under subsection (3).
+
+**Determination final**
+
+- **(5)** A determination made under this section is final and binding and, subject to review by the Trial Division of the Supreme Court of Newfoundland and Labrador, is not subject to appeal or to review by any court.
+> 2015, c. 4, s. 66.
+
+
+
+
+
+**Burden of proof**
+
+**202.6** If the facts of a violation are reviewed, the person who issued the notice of violation shall establish, on a balance of probabilities, that the person named in it committed the violation identified in it.
+> 2015, c. 4, s. 66.
+
+
+
+
+
+##### Responsibility
+
+
+
+**Payment**
+
+**202.7** If a person pays the penalty set out in a notice of violation, the person is considered to have committed the violation and proceedings in respect of it are ended.
+> 2015, c. 4, s. 66.
+
+
+
+
+
+**Failure to act**
+
+**202.8** A person that neither pays the penalty imposed under this Part nor requests a review within the period referred to in section 202.2 is considered to have committed the violation and is liable to the penalty.
+> 2015, c. 4, s. 66.
+
+
+
+
+
+##### Recovery of Penalties
+
+
+
+**Debt to Her Majesty**
+
+**202.9** 
+
+- **(1)** A penalty constitutes a debt due to Her Majesty in right of the Province and may be recovered in the Trial Division of the Supreme Court of Newfoundland and Labrador.
+
+**Limitation period**
+
+- **(2)** No proceedings to recover the debt are to be instituted more than five years after the day on which the debt becomes payable.
+> 2015, c. 4, s. 66.
+
+
+
+
+
+**Certificate**
+
+**202.91** 
+
+- **(1)** The Board may issue a certificate of non-payment certifying the unpaid amount of any debt referred to in subsection 202.9(1).
+
+**Registration**
+
+- **(2)** Registration in the Trial Division of the Supreme Court of Newfoundland and Labrador of a certificate of non-payment issued under subsection (1) has the same effect as a judgment of that court for a debt of the amount specified in the certificate and all related registration costs.
+> 2015, c. 4, s. 66.
+
+
+
+
+
+##### General
+
+
+
+**Admissibility of documents**
+
+**202.92** In the absence of evidence to the contrary, a document that appears to be a notice issued under subsection 202.06(1) is presumed to be authentic and is proof of its contents in any proceeding in respect of a violation.
+> 2015, c. 4, s. 66.
+
+
+
+
+
+**Publication**
+
+**202.93** The Board may make public the nature of a violation, the name of the person who committed it and the amount of the penalty.
+> 2015, c. 4, s. 66.
 
 
 
@@ -7785,6 +8459,8 @@ is, in the absence of evidence to the contrary, evidence of the contents thereof
 - **(3)** Every person who knowingly collects or receives any sum of money as taxes under this Part in circumstances where the sum is not payable shall forthwith
 	- **(a)** refund the sum to the person from whom he collected it; or
 	- **(b)** if the person referred to in paragraph (a) is not known or readily ascertainable, pay the sum to the Receiver General.
+> 1987, c. 3, s. 212; 2015, c. 4, s. 67(F).
+
 
 
 
