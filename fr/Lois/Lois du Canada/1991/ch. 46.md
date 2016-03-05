@@ -24732,8 +24732,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 ### **ANNEXE I** 
 **(article 14)**
-#### au 31 décembre 2014
 <table>
+<h4>au 31 décembre 2015</h4>
 <tr>
 <th>Dénomination sociale de la banque</th>
 <th>Siège</th>
@@ -24827,10 +24827,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Banque de Brique Rouge</td>
-<td>Ontario</td>
-</tr>
-<tr>
 <td>Banque Rogers</td>
 <td>Ontario</td>
 </tr>
@@ -24847,20 +24843,24 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
+<td>Banque Wealth One du Canada</td>
+<td>Ontario</td>
+</tr>
+<tr>
 <td>Banque Zag</td>
 <td>Alberta</td>
 </tr>
 </table>
 
-> 1991, ch. 46, ann. I; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du CanadaGazette du Canada Partie I, volume 149, page 522.
+> 1991, ch. 46, ann. I; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du CanadaGazette du Canada Partie I, volume 150, page 650.
 
 
 
 
 ### **ANNEXE II** 
 **(article 14)**
-#### au 31 décembre 2014
 <table>
+<h4>au 31 décembre 2015</h4>
 <tr>
 <th>Dénomination sociale de la banque</th>
 <th>Siège</th>
@@ -24930,7 +24930,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Banque Korea Exchange du Canada</td>
+<td>Banque KEB Hana du Canada</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -24963,15 +24963,15 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 </table>
 
-> 1991, ch. 46, ann. II; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du CanadaGazette du Canada Partie I, volume 149, page 522.
+> 1991, ch. 46, ann. II; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du CanadaGazette du Canada Partie I, volume 150, page 650.
 
 
 
 
 ### **ANNEXE III** 
 **(article 14.1)**
-#### au 31 décembre 2014
 <table>
+<h4>au 31 décembre 2015</h4>
 <tr>
 <th>Dénomination sociale de la banque étrangère autorisée</th>
 <th>Dénomination sous laquelle elle est autorisée à exercer ses activités au Canada</th>
@@ -25033,6 +25033,12 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
+<td>Crédit Agricole Corporate and Investment Bank</td>
+<td>Crédit Agricole Corporate and Investment Bank (Succursale du Canada)</td>
+<td>Prêt</td>
+<td>Québec</td>
+</tr>
+<tr>
 <td>Credit Suisse AG</td>
 <td>Credit Suisse AG, succursale de Toronto</td>
 <td>Prêt</td>
@@ -25075,16 +25081,22 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Merrill Lynch International Bank Limited</td>
-<td>Merrill Lynch International Bank Limited</td>
-<td>Prêt</td>
-<td>Ontario</td>
-</tr>
-<tr>
 <td>Mizuho Bank, Ltd.</td>
 <td>Banque Mizuho Ltée, succursale canadienne</td>
 <td>Services complets</td>
 <td>Ontario</td>
+</tr>
+<tr>
+<td>MUFG Union Bank, National Association</td>
+<td>Union Bank, Canada Branch</td>
+<td>Prêt</td>
+<td>Alberta</td>
+</tr>
+<tr>
+<td>Natixis</td>
+<td>Natixis, succursale canadienne</td>
+<td>Prêt</td>
+<td>Québec</td>
 </tr>
 <tr>
 <td>Northern Trust Company (The)</td>
@@ -25135,12 +25147,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
-<td>MUFG Union Bank, National Association</td>
-<td>Union Bank, Canada Branch</td>
-<td>Prêt</td>
-<td>Alberta</td>
-</tr>
-<tr>
 <td>United Overseas Bank Limited</td>
 <td>United Overseas Bank Limited</td>
 <td>Services complets</td>
@@ -25156,6 +25162,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 <a name='B-1.01_annIII_f'><sup>*</sup></a>: Une SBE dont l’ordonnance est assujettie aux restrictions et aux exigences visées au paragraphe 524(2) de la Loi sur les banques est appelée une succursale de « prêt ».<br />
-> 1999, ch. 28, art. 75; 2005, ch. 54, art. 139; Gazette du CanadaGazette du Canada Partie I, volume 149, page 522.
+> 1999, ch. 28, art. 75; 2005, ch. 54, art. 139; Gazette du CanadaGazette du Canada Partie I, volume 150, page 650.
 
 
