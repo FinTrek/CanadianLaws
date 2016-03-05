@@ -25103,8 +25103,8 @@ together with such other information about the background, business record and e
 
 ### **SCHEDULE I** 
 **(Section 14)**
-#### As at December 31, 2014
 <table>
+<h4>As at December 31, 2015</h4>
 <tr>
 <th>Name of Bank</th>
 <th>Head Office</th>
@@ -25198,10 +25198,6 @@ together with such other information about the background, business record and e
 <td>Ontario</td>
 </tr>
 <tr>
-<td>RedBrick Bank</td>
-<td>Ontario</td>
-</tr>
-<tr>
 <td>Rogers Bank</td>
 <td>Ontario</td>
 </tr>
@@ -25218,20 +25214,24 @@ together with such other information about the background, business record and e
 <td>Ontario</td>
 </tr>
 <tr>
+<td>Wealth One Bank of Canada</td>
+<td>Ontario</td>
+</tr>
+<tr>
 <td>Zag Bank</td>
 <td>Alberta</td>
 </tr>
 </table>
 
-> 1991, c. 46, Sch. I; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada GazetteCanada Gazette Part I, Volume 149, page 522.
+> 1991, c. 46, Sch. I; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada GazetteCanada Gazette Part I, Volume 150, page 650.
 
 
 
 
 ### **SCHEDULE II** 
 **(Section 14)**
-#### As at December 31, 2014
 <table>
+<h4>As at December 31, 2015</h4>
 <tr>
 <th>Name of Bank</th>
 <th>Head Office</th>
@@ -25301,7 +25301,7 @@ together with such other information about the background, business record and e
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Korea Exchange Bank of Canada</td>
+<td>KEB Hana Bank Canada</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -25334,19 +25334,19 @@ together with such other information about the background, business record and e
 </tr>
 </table>
 
-> 1991, c. 46, Sch. II; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada GazetteCanada Gazette Part I, Volume 149, page 522.
+> 1991, c. 46, Sch. II; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada GazetteCanada Gazette Part I, Volume 150, page 650.
 
 
 
 
 ### **SCHEDULE III** 
 **(Section 14.1)**
-#### As at December 31, 2014
 <table>
+<h4>As at December 31, 2015</h4>
 <tr>
 <th>Name of Authorized Foreign Bank (FB)</th>
 <th>Name under which FB is permitted to carry on business in Canada</th>
-<th>Type of Foreign Bank Branch (FBB)<sup><a href='#c54_SchIII_e'>[*]</a></sup></th>
+<th>Type of Foreign Bank Branch (FBB)<sup><a href='#fn_FBB'>[*]</a></sup></th>
 <th>Principal Office</th>
 </tr>
 <tr>
@@ -25404,6 +25404,12 @@ together with such other information about the background, business record and e
 <td>Ontario</td>
 </tr>
 <tr>
+<td>Crédit Agricole Corporate and Investment Bank</td>
+<td>Crédit Agricole Corporate and Investment Bank (Canada Branch)</td>
+<td>Lending</td>
+<td>Quebec</td>
+</tr>
+<tr>
 <td>Credit Suisse AG</td>
 <td>Credit Suisse AG, Toronto Branch</td>
 <td>Lending</td>
@@ -25446,16 +25452,22 @@ together with such other information about the background, business record and e
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Merrill Lynch International Bank Limited</td>
-<td>Merrill Lynch International Bank Limited</td>
-<td>Lending</td>
-<td>Ontario</td>
-</tr>
-<tr>
 <td>Mizuho Bank, Ltd.</td>
 <td>Mizuho Bank, Ltd., Canada Branch</td>
 <td>Full-service</td>
 <td>Ontario</td>
+</tr>
+<tr>
+<td>MUFG Union Bank, National Association</td>
+<td>Union Bank, Canada Branch</td>
+<td>Lending</td>
+<td>Alberta</td>
+</tr>
+<tr>
+<td>Natixis</td>
+<td>Natixis Canada Branch</td>
+<td>Lending</td>
+<td>Quebec</td>
 </tr>
 <tr>
 <td>Northern Trust Company (The)</td>
@@ -25506,12 +25518,6 @@ together with such other information about the background, business record and e
 <td>Ontario</td>
 </tr>
 <tr>
-<td>MUFG Union Bank, National Association</td>
-<td>Union Bank, Canada Branch</td>
-<td>Lending</td>
-<td>Alberta</td>
-</tr>
-<tr>
 <td>United Overseas Bank Limited</td>
 <td>United Overseas Bank Limited</td>
 <td>Full-service</td>
@@ -25526,7 +25532,7 @@ together with such other information about the background, business record and e
 </table>
 
 
-<a name='c54_SchIII_e'><sup>*</sup></a>: An FBB, whose order is subject to the restrictions and requirements referred to in subsection 524(2) of the Bank Act, is referred to as a “lending” branch.<br />
-> 1999, c. 28, s. 75; 2005, c. 54, s. 139; Canada GazetteCanada Gazette Part I, Volume 149, page 522.
+<a name='fn_FBB'><sup>*</sup></a>: An FBB, whose order is subject to the restrictions and requirements referred to in subsection 524(2) of the Bank Act, is referred to as a “lending” branch.<br />
+> 1999, c. 28, s. 75; 2005, c. 54, s. 139; Canada GazetteCanada Gazette Part I, Volume 150, page 650.
 
 
