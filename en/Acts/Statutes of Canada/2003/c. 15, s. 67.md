@@ -1336,6 +1336,12 @@ where
 <td>Manitoba</td>
 </tr>
 <tr>
+<td>Dakota Plains</td>
+<td>Council of Dakota Plains</td>
+<td>Reserve of Dakota Plains</td>
+<td>Manitoba</td>
+</tr>
+<tr>
 <td>Dakota Tipi</td>
 <td>Council of the Dakota Tipi</td>
 <td>Reserve of the Dakota Tipi</td>
@@ -1673,6 +1679,6 @@ where
 </tr>
 </table>
 
-> 2005, c. 19, s. 12; 2006, c. 4, s. 97; SOR/2007-185, ss. 3, 4; SOR/2009-282, 283; SOR/2010-180, 181; SOR/2012-25, 199, 200; SOR/2013-13.
+> 2005, c. 19, s. 12; 2006, c. 4, s. 97; SOR/2007-185, ss. 3, 4; SOR/2009-282, 283; SOR/2010-180, 181; SOR/2012-25, 199, 200; SOR/2013-13; SOR/2016-40.
 
 
