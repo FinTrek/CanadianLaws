@@ -1329,6 +1329,12 @@ où :
 <td>Manitoba</td>
 </tr>
 <tr>
+<td>Dakota Plains</td>
+<td>Conseil de Dakota Plains</td>
+<td>Réserve de Dakota Plains</td>
+<td>Manitoba</td>
+</tr>
+<tr>
 <td>Dakota Tipi</td>
 <td>Conseil de Dakota Tipi</td>
 <td>Réserve de Dakota Tipi</td>
@@ -1672,6 +1678,6 @@ où :
 </tr>
 </table>
 
-> 2005, ch. 19, art. 12; 2006, ch. 4, art. 97; DORS/2007-185, art. 3 et 4; DORS/2009-282, 283; DORS/2010-180, 181; DORS/2012-25, 199, 200; DORS/2013-13.
+> 2005, ch. 19, art. 12; 2006, ch. 4, art. 97; DORS/2007-185, art. 3 et 4; DORS/2009-282, 283; DORS/2010-180, 181; DORS/2012-25, 199, 200; DORS/2013-13; DORS/2016-40.
 
 
