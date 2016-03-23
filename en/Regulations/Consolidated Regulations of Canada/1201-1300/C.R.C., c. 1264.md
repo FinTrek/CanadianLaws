@@ -381,7 +381,12 @@ Enabling authorities:
 		- **(iii)** at least 60 one-way trips as the person in charge of the deck watch.
 
 - **(2)** Instead of meeting the additional experience at sea qualifications prescribed by subsection (1), an applicant for a licence for a compulsory pilotage area may, within the two-year period immediately before the date of the application, have successfully completed a familiarity program that is established by the Authority and provides an equivalent degree of experience.
-> SOR/2014-36, s. 5.
+
+- **(3)** Instead of meeting the additional experience at sea qualifications prescribed by subsection (1), an applicant for a pilotage certificate for a compulsory pilotage area set out below may, within the two-year period immediately before the date of the application, have successfully completed a familiarity program that is established by the Authority and provides an equivalent degree of experience:
+	- **(a)** the Miramichi or Restigouche compulsory pilotage area in New Brunswick;
+	- **(b)** the Bay of Exploits, Voisey’s Bay, Humber Arm or Stephenville compulsory pilotage area in Newfoundland and Labrador; and
+	- **(c)** the Pugwash compulsory pilotage area in Nova Scotia.
+> SOR/2014-36, s. 5; SOR/2016-45, s. 1.
 
 
 
