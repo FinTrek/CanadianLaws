@@ -375,13 +375,18 @@ Autorités habilitantes :
 		- **(i)** au moins 18 mois en qualité de capitaine,
 		- **(ii)** au moins un an en qualité de personne chargée du quart à la passerelle et au moins un an en qualité de capitaine,
 		- **(iii)** au moins trois ans en qualité de personne chargée du quart à la passerelle;
-	- **b)** soit avoir effectué dans la zone de pilotage, selon le cas :
+	- **b)** soit avoir effectué dans la zone de pilotage obligatoire, selon le cas :
 		- **(i)** au moins 30 voyages simples en qualité de capitaine,
-		- **(ii)** au moins 20 voyages simples en qualité de capitaine et au moins 20 voyages simples en qualité de personne chargée de quart à la passerelle,
+		- **(ii)** au moins 20 voyages simples en qualité de capitaine et au moins 20 voyages simples en qualité de personne chargée du quart à la passerelle,
 		- **(iii)** au moins 60 voyages simples en qualité de personne chargée du quart à la passerelle.
 
-- **(2)** Au lieu de remplir les conditions additionnelles relatives aux états de service en mer prévues au paragraphe (1), le demandeur d’un brevet pour une zone de pilotage obligatoire peut terminer avec succès, au cours de la période de deux ans précédant la date de sa demande, un programme de familiarisation qui est établi par l’Administration et qui offre un niveau d’expérience équivalent.
-> DORS/2014-36, art. 5.
+- **(2)** Le demandeur d’un brevet pour une zone de pilotage obligatoire n’est pas tenu de remplir les conditions additionnelles relatives aux états de service en mer prévues au paragraphe (1) s’il a terminé avec succès, au cours de la période de deux ans précédant la date de sa demande, un programme de familiarisation qui est établi par l’Administration et qui offre un niveau d’expérience équivalent.
+
+- **(3)** Le demandeur d’un certificat de pilotage pour l’une ou l’autre des zones de pilotage obligatoire mentionnées ci-après n’est pas tenu de remplir les conditions additionnelles relatives aux états de service en mer prévues au paragraphe (1) s’il a terminé avec succès, au cours de la période de deux ans précédant la date de sa demande, un programme de familiarisation qui est établi par l’Administration et qui offre un niveau d’expérience équivalent :
+	- **a)** la zone de pilotage obligatoire de Miramichi ou de Restigouche, au Nouveau-Brunswick;
+	- **b)** la zone de pilotage obligatoire de la baie des Exploits, de la baie Voisey’s, de Humber Arm ou de Stephenville, à Terre-Neuve-et-Labrador;
+	- **c)** la zone de pilotage obligatoire de Pugwash, en Nouvelle-Écosse.
+> DORS/2014-36, art. 5; DORS/2016-45, art. 1.
 
 
 
