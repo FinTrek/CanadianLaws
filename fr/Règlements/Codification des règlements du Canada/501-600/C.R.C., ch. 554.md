@@ -294,16 +294,16 @@ période qui est déterminée en divisant le montant des droits et impôts à pa
 - **(1)** Le choix est envoyé au ministre ou à la personne qu'il a désignée, dans le délai prévu à l'article 18 ou au paragraphe 19(2), selon le cas.
 
 - **(2)** Le choix est effectué à la date où il est envoyé conformément au paragraphe (1).
-> DORS/94-277, art. 1.
+> DORS/94-277, art. 1; DORS/2016-64, art. 76(A).
 
 
 
 
-**22** L'officier ou son mandataire doit, dans le délai d'un an suivant la date du choix, faire parvenir au ministre ou à la personne que celui-ci a désignée :
-- **a)** un document établissant la date de naissance du conjoint;
-- **b)** un document établissant le mariage de l'officier et du conjoint;
+**22** Dans l’année suivant la date du choix, l’officier ou la personne agissant en son nom envoie au ministre ou à la personne désignée par celui-ci :
+- **a)** un document qui fait preuve de la date de naissance du conjoint;
+- **b)** un document qui fait preuve du mariage entre l’officier et son conjoint;
 - **c)** lorsque le nom du conjoint paraissant sur le document visé à l'alinéa a) diffère de celui figurant sur le document visé à l'alinéa b), tout autre document qui démontre qu'il s'agit de la même personne ou une déclaration solennelle du conjoint attestant qu'il est la personne visée par ces documents.
-> DORS/94-277, art. 1.
+> DORS/94-277, art. 1; DORS/2016-64, art. 77(F).
 
 
 
