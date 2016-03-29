@@ -291,10 +291,10 @@ determined by dividing the amount of the succession duties or taxes to be paid o
 
 **21** 
 
-- **(1)** An election shall be delivered to the Minister, or to a person designated by the Minister, within the period referred to in section 18 or subsection 19(2), as the case may be.
+- **(1)** An election shall be sent to the Minister, or to a person designated by the Minister, within the period referred to in section 18 or subsection 19(2), as the case may be.
 
-- **(2)** An election is made on the day on which the election is placed in the course of delivery in accordance with subsection (1).
-> SOR/94-277, s. 1.
+- **(2)** The election is made on the day on which it is sent.
+> SOR/94-277, s. 1; SOR/2016-64, s. 76(E).
 
 
 
@@ -303,7 +303,7 @@ determined by dividing the amount of the succession duties or taxes to be paid o
 - **(a)** a document that is evidence of the date of birth of the spouse;
 - **(b)** a document that is evidence of the marriage of the officer and the spouse; and
 - **(c)** where the name of the spouse as indicated on a document referred to in paragraph (a) is not the same as the name of the spouse as indicated on a document referred to in paragraph (b), any other document that confirms that the evidence of the birth and the marriage relates to the spouse, or a statutory declaration by which the spouse declares that the documents are in respect of the spouse.
-> SOR/94-277, s. 1.
+> SOR/94-277, s. 1; SOR/2016-64, s. 77(F).
 
 
 
