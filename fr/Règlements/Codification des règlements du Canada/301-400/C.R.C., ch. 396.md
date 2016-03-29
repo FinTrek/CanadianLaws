@@ -24,14 +24,16 @@ Autorités habilitantes :
 
 **2** Dans le présent règlement,
 
-***choix visant les gains antérieurs*** À l’égard d’une période de service ouvrant droit à pension, choix fait en vertu du paragraphe 11(1) du [Règlement sur le régime de pension de la force de réserve](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/32.md) par le contributeur qui a été un ancien participant aux termes du paragraphe 4(2) du même règlement de compter les gains antérieurs afférents à cette période comme des gains ouvrant droit à pension. (*past earnings election*) 
+***choix visant les gains antérieurs***[Abrogée, DORS/2016-64, art. 1]
 
-***Loi*** signifie la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md); (*Act*)
+***choix visant les gains ouvrant droit à pension*** À l’égard d’une période de service ouvrant droit à pension, choix fait en vertu du paragraphe 11(1) du [Règlement sur le régime de pension de la force de réserve](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/32.md) par le contributeur alors qu’il était participant aux termes du paragraphe 4(2) du même règlement; (*pensionable earnings election*)
 
-***ministre*** signifie le ministre de la Défense nationale; (*Minister*)
+***Loi*** signifie la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md); (*Act*)
 
-***Table a (f) Ultimate*** signifie la table ainsi intitulée dans « Mortality of Annuitants 1900-1920 », publiée pour le compte de l’Institut des actuaires et de la Faculté des actuaires en Écosse, en 1924. (*a(f) Ultimate Table*)
-> DORS/2007-33, art. 1.
+***ministre*** signifie le ministre de la Défense nationale; (*Minister*)
+
+***Table a (f) Ultimate*** signifie la table ainsi intitulée dans « Mortality of Annuitants 1900-1920 », publiée pour le compte de l’Institut des actuaires et de la Faculté des actuaires en Écosse, en 1924. (*a(f) Ultimate Table*)
+> DORS/2007-33, art. 1; DORS/2016-64, art. 1.
 
 
 
@@ -45,7 +47,7 @@ Autorités habilitantes :
 		- **(ii)** dans la proportion établie conformément au paragraphe (3), les jours d’une période d’exemption ou de congé visée à l’alinéa 2b) du [Règlement sur le régime de pension de la force de réserve](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/32.md),
 		- **(iii)** dans la proportion d’un quart chacun, les jours d’une période antérieure au 1<sup>er</sup> avril 1999, dans le cas où les dossiers des Forces canadiennes ou du ministère de la Défense nationale permettent d’établir la durée de cette période, mais non le nombre de jours de service qu’elle compte pour lesquels le versement d’une solde a été autorisé.
 
-- **(2)** Tout jour de service pour lequel le versement d’une solde a été autorisé et durant lequel le membre est en service de réserve au sens de l’article 9.06 des Ordonnances et règlements royaux applicables aux Forces canadiennes et tout jour de service semblable comptent pour 1,4 jour de service accompli dans les Forces canadiennes.
+- **(2)** Chaque jour de service pour lequel le versement d’une solde a été autorisé et durant lequel le contributeur est en service de réserve de classe « A » au sens de l’article 9.06 des Ordonnances et règlements royaux applicables aux Forces canadiennes compte pour 1,4 jour de service accompli dans les Forces canadiennes.
 
 - **(3)** La proportion prévue au sous-alinéa (1)b)(ii) est établie selon la formule suivante :
 ```
@@ -60,7 +62,7 @@ où :
 - **(3.1)** Pour l’application des paragraphes (1) et (2), les jours de service accomplis dans les Forces canadiennes sont définis sans tenir compte de l’article 11.
 
 - **(4)** Le nombre total de jours de service accomplis dans les Forces canadiennes comportant une fraction est arrondi au nombre entier supérieur.
-> DORS/78-197, art. 1; DORS/88-172, art. 1; DORS/2005-75, art. 1; DORS/2007-33, art. 2; DORS/2008-307, art. 1.
+> DORS/78-197, art. 1; DORS/88-172, art. 1; DORS/2005-75, art. 1; DORS/2007-33, art. 2; DORS/2008-307, art. 1; DORS/2016-64, art. 2.
 
 
 
@@ -84,7 +86,7 @@ où :
 
 **5** 
 
-- **(1)** Pour les fins de l’alinéa 5(2)c) de la Loi, les prestations de pension de retraite ou de pension y mentionnées sont du genre de celle
+- **(1)** Pour l’application du paragraphe 5(4) de la Loi, les prestations de pension de retraite ou de pension y mentionnées sont du genre de celle :
 	- **a)** qui est accordée en vertu de la [Loi sur les juges](/fr/Lois/Lois%20révisées%20du%20Canada/J/J-1.md); ou
 	- **b)** qui est payable sur le Fonds du revenu consolidé ou sur tout compte ou toute caisse au Fonds du revenu consolidé autre que le Compte de pension de retraite ou le Compte des rentes sur l’État, et
 		- **(i)** qui, pour la somme qu’elle représente, se rapporte à la période que peut faire compter la personne à qui la prestation de pension de retraite ou de pension est payable, et
@@ -94,7 +96,7 @@ où :
 	- **a)** qui provient, en totalité ou en partie, de contributions versées par d’autres que le contributeur;
 	- **b)** qui, pour la somme qu’elle représente, se rapporte à une période de service; et
 	- **c)** qui est payable par versements durant la vie du titulaire et au-delà si le plan de pension de retraite ou de pension le prévoit.
-> DORS/92-717, art. 10.
+> DORS/92-717, art. 10; DORS/2016-64, art. 3.
 
 
 
@@ -103,8 +105,8 @@ où :
 
 - **(1)** Pour les fins de la disposition 6b)(ii)(E) de la Loi, l’expression ***une guerre***, par rapport à la seconde guerre mondiale, signifie la période allant du 10 septembre 1939 au 30 septembre 1947, ces deux dates comprises.
 
-- **(2)** Aux fins de l’alinéa 7(1)g) de la Loi, l’expression ***solde sur une base de plein temps*** désigne le taux de solde prescrit par les règlements établis sous le régime de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), qui s’applique aux officiers et aux hommes de la force régulière et de la force de réserve en service de réserve de la classe « C ».
-> DORS/83-263, art. 1; DORS/92-717, art. 10.
+- **(2)** Aux fins de l’alinéa 7(1)g) de la Loi, l’expression ***solde sur une base de plein temps*** désigne le taux de solde prescrit par les règlements établis sous le régime de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), qui s’applique aux officiers et aux militaires du rang de la force régulière et de la force de réserve en service de réserve de la classe « C ».
+> DORS/83-263, art. 1; DORS/92-717, art. 10; DORS/2016-64, art. 4.
 
 
 
@@ -115,11 +117,7 @@ où :
 
 
 
-**8** Pour les fins de l’alinéa 23(1)a) de la Loi, et pour ce qui est du service mentionné à la disposition 6b)(ii)(G) de la Loi, un théâtre d’opérations actives s’entend d’une région sur terre, sur mer ou dans les airs, n’importe où au Canada ou en dehors du Canada, à l’occasion désignée par le ministre,
-- **a)** où, de l’avis du ministre, des actes d’hostilité ont été réellement commis ou étaient appréhendés; et
-- **b)** où une unité ou autre élément des Forces canadiennes se trouvait en service actif.
-> DORS/92-717, art. 10.
-
+**8** [Abrogé, DORS/2016-64, art. 5]
 
 
 
@@ -129,44 +127,59 @@ où :
 
 **8.1** 
 
-- **(1)** Malgré le paragraphe 41(3) de la Loi, un membre de la force de réserve est considéré, pour l’application de la partie I de la Loi, sauf son alinéa 16(2)a), et du présent règlement, comme un membre de la force régulière :
+- **(1)** Malgré le paragraphe 41(3) de la Loi, le membre de la force de réserve est considéré comme un membre de la force régulière et devient un contributeur, pour l’application de la partie I de la Loi, sauf l’alinéa 16(2)a), et du présent règlement :
 	- **a)** le 1<sup>er</sup> mars 2007, si les conditions ci-après sont réunies :
 		- **(i)** il n’est pas alors tenu de cotiser à la Caisse de retraite de la fonction publique ou à la Caisse de retraite de la Gendarmerie royale du Canada,
 		- **(ii)** aucune période de service ouvrant droit à pension ne figure alors à son crédit au titre de la partie I de la Loi,
 		- **(iii)** il a alors accompli au moins 1 674 jours de service dans les Forces canadiennes pendant une période de soixante mois commençant au plus tôt le 1<sup>er</sup> avril 1999,
 		- **(iv)** au cours du premier mois de cette période, il était déjà membre des Forces canadiennes ou l’est devenu, et l’est demeuré, sans interruption de plus de soixante jours, jusqu’au 1<sup>er</sup> mars 2007;
 	- **b)** le premier jour du mois où le membre serait devenu un participant aux termes du paragraphe 4(2) du [Règlement sur le régime de pension de la force de réserve](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/32.md) et ce, malgré l’application du paragraphe 4(4) de ce règlement, s’il y a eu à son égard le versement d’une valeur de transfert en vertu du paragraphe 22(2) de la Loi;
-	- **c)** sous réserve du paragraphe (3), le premier jour où il a droit de toucher un traitement à titre de membre de la force de réserve dans le cas où il est un contributeur qui a droit à une annuité différée ou qui reçoit une annuité ou une allocation annuelle en vertu de la partie I de la Loi;
+	- **c)** sous réserve du paragraphe (3), le premier jour où il a droit de toucher un traitement à titre de membre de la force de réserve si, au titre de la partie I de la Loi, l’une ou l’autre des situations ci-après s’applique :
+		- **(i)** il reçoit une annuité ou une allocation annuelle,
+		- **(ii)** il a droit à une annuité différée ou à une allocation annuelle,
+		- **(iii)** il a exercé l’option pour le versement de la valeur de transfert et il a eu droit au traitement avant que le versement n’ait été effectué;
 	- **d)** le premier jour du mois suivant une période de soixante mois se terminant après le 1<sup>er</sup> mars 2007 dans le cas où :
 		- **(i)** il a accompli au moins 1 674 jours de service dans les Forces canadiennes durant cette période,
 		- **(ii)** il était déjà un membre des Forces canadiennes ou l’est devenu durant le premier mois de cette période et l’est demeuré sans interruption de plus de soixante jours pendant toute la période,
 		- **(iii)** il n’a aucune période de service ouvrant droit à pension portée à son crédit aux termes de la partie I de la Loi.
 
 - **(2)** Si le membre de la force de réserve est tenu de cotiser à la Caisse de retraite de la fonction publique du Canada ou à la Caisse de retraite de la Gendarmerie royale du Canada :
-	- **a)** le 1<sup>er</sup> mars 2007 vaut mention du premier jour suivant celui où il cesse de cotiser à l’une des deux caisses;
+	- **a)** le jour visé à l’alinéa (1)a), soit le 1<sup>er</sup> mars 2007, vaut mention du premier jour suivant celui où il cesse de cotiser à l’une des deux caisses;
 	- **b)** le premier jour du mois visé aux alinéas (1)b) ou d) vaut mention du mois suivant celui où il a cessé de cotiser à l’une des caisses;
 	- **c)** le premier jour visé à l’alinéa (1)c) vaut mention du premier jour suivant celui où il a cessé de cotiser à l’une des caisses.
 
-- **(3)** Le membre de la force de réserve qui reçoit une annuité ou une allocation annuelle en vertu de la partie I de la Loi et qui était membre de la force régulière autrement que par application du présent article le jour où il a cessé la dernière fois de contribuer à la Caisse de retraite des Forces canadiennes ou au compte de pension de retraite est considéré, pour l’application de la partie I de la Loi et du présent règlement, comme un membre de la force régulière à partir du premier en date des jours suivants :
+- **(3)** Le membre de la force de réserve qui reçoit une annuité ou une allocation annuelle en vertu de la partie I de la Loi et qui était membre de la force régulière autrement que par application du présent article le jour où il a cessé la dernière fois de contribuer au compte de pension de retraite ou à la Caisse de retraite des Forces canadiennes est considéré comme un membre de la force régulière et devient un contributeur, pour l’application de la partie I de la Loi et du présent règlement, à partir du premier en date des jours suivants :
 	- **a)** le jour suivant celui qui marque la fin d’une année de service ininterrompu à temps plein dans la force de réserve;
-	- **b)** le jour suivant celui où il exerce l’option de verser des cotisations à l’avance.
-> DORS/2007-33, art. 3; DORS/2008-307, art. 2.
+	- **b)** le jour suivant celui où il exerce l’option visant le versement anticipé de contributions.
+> DORS/2007-33, art. 3; DORS/2008-307, art. 2; DORS/2016-64, art. 6.
 
 
 
 
-**8.2** Le membre a le droit d’exercer l’option de verser des cotisations à l’avance :
-- **a)** au plus tôt le premier jour à compter duquel il a le droit de toucher un traitement à titre de membre de la force de réserve tout en recevant une annuité ou une allocation annuelle;
-- **b)** au plus tard le dernier jour du douzième mois suivant le dernier mois où il avait le droit de toucher un traitement à titre de membre de la force de réserve.
-> DORS/2007-33, art. 3.
+**8.2** Pour l’application de l’alinéa 8.1(3)b), le membre de la force de réserve a le droit d’exercer l’option visant le versement anticipé de contributions :
+- **a)** avant la date à laquelle il est tenu de contribuer à la Caisse de retraite des Forces canadiennes;
+- **b)** au plus tôt le premier jour, qui correspond au 1<sup>er</sup> mars 2007 ou y est postérieur, à compter duquel il a le droit de toucher un traitement à titre de membre de la force de réserve tout en recevant une annuité ou une allocation annuelle;
+- **c)** au plus tard le dernier jour du douzième mois suivant le dernier mois où il avait le droit de toucher un traitement à titre de membre de la force de réserve.
+> DORS/2007-33, art. 3; DORS/2016-64, art. 7.
 
 
 
 
-**8.3** Le contributeur membre de la force de réserve cesse d’être considéré comme un membre de la force régulière pour l’application de la partie I de la Loi et du présent règlement à partir du premier en date des jours suivants :
-- **a)** le jour où il cesse d’être membre des Forces canadiennes;
-- **b)** le dernier jour d’une période de douze mois à l’égard de laquelle il n’a pas eu droit de toucher de traitement.
-> DORS/2007-33, art. 3.
+**8.3** 
+
+- **(1)** Le contributeur qui est membre de la force de réserve cesse d’être considéré comme un membre de la force régulière pour l’application de la partie I de la Loi et du présent règlement à partir du premier en date des jours suivants :
+	- **a)** le jour où il cesse d’être membre des Forces canadiennes;
+	- **b)** le dernier jour d’une période de douze mois à l’égard de laquelle il n’a pas eu droit de toucher de traitement.
+
+- **(2)** À l’égard des membres de la force de réserve visés à l’alinéa 8.1(1)c) et au paragraphe 8.1(3), le paragraphe 41(1) de la Loi est adapté de la façon suivante :
+**41** 
+
+- **(1)** Lorsqu’un membre de la force de réserve visé à l’alinéa 8.1(1)c) ou au paragraphe 8.1(3) du Règlement sur la pension de retraite des Forces canadiennes est considéré comme un membre de la force régulière et devient un contributeur selon la présente partie, tout droit ou titre qu’il peut avoir eu à l’égard de l’annuité ou de l’allocation annuelle visée à cet alinéa ou à ce paragraphe prend fin aussitôt, et la période de service sur laquelle était fondée cette annuité ou allocation annuelle peut être comptée par lui comme service ouvrant droit à pension pour l’application de la présente partie, sauf que :
+	- **a)** si ce membre, dès qu’il cesse par la suite d’être considéré comme un membre de la force régulière, n’a pas droit, sous le régime de la présente loi, à d’autres prestations qu’un remboursement de contributions, la somme ainsi remboursée ne doit comprendre aucune somme versée au compte de pension de retraite ou à la Caisse de retraite des Forces canadiennes à son crédit en tout temps avant le moment où il est considéré comme un membre de la force régulière, et tout droit ou titre qu’il aurait eu, sans le présent paragraphe, à l’égard de sa plus récente annuité ou allocation annuelle dès qu’il cesse par la suite d’être considéré comme un membre de la force régulière, lui est alors rendu;
+	- **b)** si ce membre, dès qu’il cesse par la suite d’être considéré comme un membre de la force régulière, a droit, sous le régime de la présente loi, à une annuité ou à une allocation annuelle dont la valeur capitalisée est inférieure à la valeur capitalisée de la plus récente annuité ou allocation annuelle à laquelle il avait droit, au lieu de toute autre prestation prévue par la présente loi, tout droit ou titre qu’il aurait eu, sans le présent paragraphe, à l’égard de sa plus récente annuité ou allocation annuelle dès qu’il cesse par la suite d’être considéré comme un membre de la force régulière, lui est alors rendu, et une somme égale à ses contributions sous le régime de la présente loi, effectuées à l’égard de la période de son service dans la force de réserve après qu’il a été le plus récemment considéré comme un membre de la force régulière lui est versée.
+
+
+> DORS/2007-33, art. 3; DORS/2016-64, art. 8.
 
 
 
@@ -246,10 +259,10 @@ où :
 
 - **(1)** Malgré la partie I de la Loi, le choix fait après le 15 août 1997 de compter comme service ouvrant droit à pension la période de service postérieure au 31 décembre 1989, ou toute partie de celle-ci, est nul en ce qui concerne cette période ou partie de celle-ci, si le ministre du Revenu national refuse d’attester, conformément à l’alinéa 147.1(10)a) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), dans sa version du 15 janvier 1992, que les conditions réglementaires sont remplies en ce qui concerne le service pendant cette période ou partie de celle-ci.
 
-- **(2)** Malgré l’alinéa 8(2)a) de la Loi, le choix fait après le 15 août 1997 pour la période de service postérieure au 31 décembre 1989, ou toute partie de celle-ci, qui serait nul en vertu de cet alinéa est nul seulement si l’auteur du choix a droit, le 60<sup>e</sup> jour après avoir été avisé par le ministre que le ministre du Revenu national a délivré l’attestation mentionnée au paragraphe (1), de compter la période de service visée par l’attestation aux fins de toute prestation de pension de retraite ou de pension d’un genre spécifié au paragraphe 5(2), sauf celle payable en vertu de la partie I de la Loi.
+- **(2)** Malgré l’alinéa 8(2)a) de la Loi, le choix fait après le 15 août 1997 pour la période de service postérieure au 31 décembre 1989, ou toute partie de celle-ci, qui serait nul en vertu de cet alinéa est nul seulement si l’auteur du choix a droit, soixante jours après avoir été avisé que le ministre du Revenu national a délivré l’attestation mentionnée au paragraphe (1), de compter la période de service visée par l’attestation pour le calcul de toute prestation de pension de retraite ou de pension d’un genre spécifié au paragraphe 5(2), sauf celle à payer en vertu de la partie I de la Loi.
 
 - **(3)** L’article 45 de la Loi ne s’applique pas à la personne qui effectue, après le 15 août 1997, le choix visé au paragraphe 43(1) de la Loi à l’égard de la période de service postérieure au 31 décembre 1989, ou de toute partie de celle-ci, si le ministre du Revenu national refuse de délivrer l’attestation visée au paragraphe (1).
-> DORS/97-255, art. 1.
+> DORS/97-255, art. 1; DORS/2016-64, art. 10.
 
 
 
@@ -264,8 +277,8 @@ où :
 
 
 
-**10.3** Le membre qui a fait un choix visant les gains antérieurs et qui n’a pas terminé d’en payer toutes les mensualités le jour qui précède celui où il devient contributeur, paie les mensualités restantes à la Caisse de retraite des Forces canadiennes au moyen de retenues mensuelles sur sa solde et ses allocations, ou par tout autre moyen, selon les mêmes conditions et modalités que celles prévues aux articles 18 à 23 du [Règlement sur le régime de pension de la force de réserve](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/32.md) qui s’appliqueraient à un participant ayant fait un choix visant les gains antérieurs.
-> DORS/2007-33, art. 4.
+**10.3** Le membre qui a fait un choix visant les gains ouvrant droit à pension et qui n’a pas terminé d’en payer toutes les mensualités le jour qui précède celui où il devient contributeur, paie les mensualités restantes à la Caisse de retraite des Forces canadiennes au moyen de retenues mensuelles sur sa solde et ses allocations, ou par tout autre moyen, selon les mêmes conditions et modalités que celles prévues aux articles 18 à 23 du [Règlement sur le régime de pension de la force de réserve](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/32.md) qui s’appliqueraient à un participant ayant fait un choix visant les gains ouvrant droit à pension.
+> DORS/2007-33, art. 4; DORS/2016-64, art. 49.
 
 
 
@@ -287,10 +300,14 @@ que l’intéressé ait été ou non contributeur pendant ce service, ou que ce 
 - **(2.1)** Lorsqu’une période de service du contributeur pour laquelle le versement d’aucune solde n’a été autorisé, autre qu’une période de service pour laquelle a été imposée une suppression de solde ou une retenue sur la solde visée aux alinéas (1)a), b) ou c), est supérieure à trois mois, la partie de la période de service qui dépasse trois mois doit être comptée comme service ouvrant droit à pension à moins que le contributeur ne choisisse de ne pas la compter comme telle.
 
 - **(2.2)** Le choix visé au paragraphe (2.1), qui consiste à ne pas compter la partie de la période de service qui dépasse trois mois comme service ouvrant droit à pension, s’effectue de la façon suivante :
-	- **a)** le contributeur remplit la formule LPRFC 106 (Renonciation au droit de compter du service sans solde comme service ouvrant droit à pension) dans les 90 jours qui suivent la plus tardive des dates suivantes :
+	- **a)** le contributeur remplit la formule LPRFC 106 (Renonciation au droit de compter du service sans solde comme service ouvrant droit à pension) dans les quatre-vingt-dix jours qui suivent la plus tardive des dates suivantes :
 		- **(i)** la date d’expiration de cette période de service,
 		- **(ii)** la date à laquelle il est tenu de recommencer à verser des contributions en vertu de la Loi;
-	- **b)** il transmet la formule dans les 30 jours suivant l’exercice du choix à un commandant ou autre autorité que désigne le ministre.
+	- **b)** il envoie la formule dans les trente jours suivant l’exercice du choix au ministre ou à la personne désignée par celui-ci.
+
+- **(2.3)** À l’égard du contributeur qui, en tant que membre de la force de réserve, avait le droit d’exercer l’option visée à l’article 8 du [Règlement sur le régime de pension de la force de réserve](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/32.md), cet article continue d’être applicable jusqu’à ce que toutes les contributions visées à cet article soient versées.
+
+- **(2.4)** Le contributeur qui, en tant que membre de la force de réserve, a exercé l’option visée à l’article 8 du [Règlement sur le régime de pension de la force de réserve](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/32.md), ne peut pas choisir de compter comme service ouvrant droit à pension tout jour de service accompli dans la force de réserve à l’égard duquel cet option a été exercée.
 
 - **(3)** Aucune contribution n’est requise à l’égard :
 	- **a)** de la partie d’une période de service qui dépasse 60 jours pour laquelle a été imposée une suppression de solde ou une retenue sur la solde visée aux alinéas (1)a), b) ou c);
@@ -314,20 +331,20 @@ que l’intéressé ait été ou non contributeur pendant ce service, ou que ce 
 
 - **(6)** Toute somme exigible d’un contributeur en vertu du présent article, qui est encore impayée lorsqu’il cesse d’être membre des forces, doit être retenue de la manière prescrite par le paragraphe 14(5) pour le recouvrement des versements impayés.
 
-- **(7)** Le contributeur qui a le droit de compter comme service ouvrant droit à pension toute période de service visée aux paragraphes (1), (2) ou (2.1) doit contribuer au compte de pension de retraite relativement à cette période un montant égal à celui qu’il aurait été tenu de contribuer à l’égard de la solde dont le versement est réputé avoir été autorisé en vertu du paragraphe (4) pendant cette période :
+- **(7)** Le contributeur qui a le droit de compter comme service ouvrant droit à pension toute période de service visée aux paragraphes (1), (2) ou (2.1) doit contribuer au compte de pension de retraite ou à la Caisse de retraite des Forces canadiennes relativement à cette période un montant égal à celui qu’il aurait été tenu de contribuer à l’égard de la solde dont le versement est réputé avoir été autorisé en vertu du paragraphe (4) pendant cette période :
 	- **a)** pour toute partie d’une période de service visée au paragraphe (1) qui est antérieure à 1966 ou pour toute période de service visée aux paragraphes (2) ou (2.1), de la manière et aux taux indiqués au paragraphe 4(1) de la Loi, selon le libellé de ce paragraphe au 31 décembre 1965;
 	- **b)** pour toute partie d’une période de service visée au paragraphe (1) qui est postérieure à 1965 et antérieure au 1<sup>er</sup> avril 1969, de la manière et aux taux indiqués au paragraphe 4(1) de la Loi, selon le libellé de ce paragraphe au 31 mars 1969;
 	- **c)** pour toute partie d’une période de service visée au paragraphe (1) qui est postérieure au 31 mars 1969, de la manière et aux taux indiqués au paragraphe 5(1) de la Loi;
 	- **d)** les intérêts, au sens du paragraphe 7(2) de la Loi, sur tout montant établi selon les alinéas a) à c).
 
-- **(8)** Le contributeur qui, en vertu de la division 6b)(ii)(L) de la Loi, choisit de compter comme service ouvrant droit à pension toute période de service qu’il avait choisi, en vertu du paragraphe (2.1), de ne pas compter comme service ouvrant droit à pension doit verser au compte de pension de retraite :
+- **(8)** Le contributeur qui, en vertu de la division 6b)(ii)(L) de la Loi, choisit de compter comme service ouvrant droit à pension toute période de service qu’il avait choisi, en vertu du paragraphe (2.1), de ne pas compter comme service ouvrant droit à pension doit verser au compte de pension de retraite ou à la Caisse de retraite des Forces canadiennes :
 	- **a)** lorsque le choix est effectué dans l’année suivant le jour où il est tenu de recommencer à verser des contributions en vertu de la Loi :
 		- **(i)** un montant égal à celui qu’il aurait été tenu de contribuer à l’égard de cette période de service s’il n’avait pas effectué le choix,
 		- **(ii)** les intérêts au sens du paragraphe 7(2) de la Loi;
 	- **b)** dans tout autre cas :
 		- **(i)** un montant égal à celui qu’il aurait été tenu de contribuer si le taux de solde applicable à cette période de service avait été le taux de solde en vigueur au moment du choix en vertu de la division 6b)(ii)(L) de la Loi,
 		- **(ii)** les intérêts au sens du paragraphe 7(2) de la Loi.
-> DORS/92-717, art. 10; DORS/95-569, art. 1; DORS/95-570, art. 11(F); DORS/2007-33, art. 5; DORS/2008-307, art. 5(F).
+> DORS/92-717, art. 10; DORS/95-569, art. 1; DORS/95-570, art. 11(F); DORS/2007-33, art. 5; DORS/2008-307, art. 5(F); DORS/2016-64, art. 11, 50, 54(A) et 55(A).
 
 
 
@@ -337,9 +354,9 @@ que l’intéressé ait été ou non contributeur pendant ce service, ou que ce 
 - **(1)** Malgré la partie I de la Loi, le contributeur ne peut compter comme service ouvrant droit à pension la période de service, ou toute partie de celle-ci, pour laquelle le versement d’aucune solde n’a été autorisé, à l’exclusion de toute période de service, ou de toute partie de celle-ci, pour laquelle a été imposée une retenue sur la solde ou une suppression de solde visée aux alinéas 11(1)a), b) ou c), qui débute après le 15 mai 1997, à moins qu’une rétribution puisse être prescrite à l’égard de cette période ou partie de celle-ci, conformément au paragraphe 8507(2) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md), dans sa version du 15 janvier 1992.
 
 - **(2)** Le contributeur qui ne peut, en raison du paragraphe (1), compter comme service ouvrant droit à pension une période de service, ou toute partie de celle-ci, pour laquelle le versement d’aucune solde n’a été autorisé :
-	- **a)** malgré les parties I et III de la Loi, n’est pas tenu de contribuer au compte de pension de retraite à l’égard de cette période ou partie de celle-ci;
+	- **a)** malgré les parties I et III de la Loi, n’est pas tenu de contribuer au compte de pension de retraite ou à la Caisse de retraite des Forces canadiennes à l’égard de cette période ou partie de celle-ci;
 	- **b)** demeure, pour l’application de la partie II de la Loi, un participant au sens du paragraphe 60(1) de la Loi à l’égard de cette période ou partie de celle-ci.
-> DORS/97-255, art. 2.
+> DORS/97-255, art. 2; DORS/2016-64, art. 50.
 
 
 
@@ -364,7 +381,7 @@ que l’intéressé ait été ou non contributeur pendant ce service, ou que ce 
 ### Taux de solde annuel maximal
 
 
-**12.1** Pour l’application du paragraphe 5(6) de la Loi, le taux de solde annuel correspond à la somme établie selon la formule ci-après, arrondie à la centaine supérieure :
+**12.1** Pour l’application du paragraphe 5(5) de la Loi, le taux de solde annuel correspond à la somme établie selon la formule ci-après, arrondie à la centaine supérieure :
 ```
 (A - (B × C)) ÷ (0,02) + C
 ```
@@ -376,7 +393,7 @@ où :
 - **a)** à l’égard de la solde que la personne a reçue pour toute année postérieure à 1994 et antérieure à 2008, 0,013,
 - **b)** à l’égard de la solde qu’elle a reçue pour toute année postérieure à 2007, 0,01375;
 - **C** le montant du maximum des gains annuels ouvrant droit à pension pour l’année en cause, établi conformément à l’article 18 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md).
-> DORS/95-219, art. 1; DORS/2008-307, art. 6.
+> DORS/95-219, art. 1; DORS/2008-307, art. 6; DORS/2016-64, art. 12.
 
 
 
@@ -388,10 +405,10 @@ où :
 **12.2** 
 
 - **(1)** Pour l’application du présent article et du paragraphe 12.4(2), le service dans la force de réserve s’entend de toute période de service dans la force de réserve à l’égard de laquelle le contributeur satisfait aux conditions suivantes :
-	- **a)** il n’était pas tenu de cotiser à la Caisse de retraite des Forces canadiennes;
+	- **a)** il n’était pas tenu de cotiser au compte de pension de retraite ou à la Caisse de retraite des Forces canadiennes;
 	- **b)** il n’était pas un participant aux termes du [Règlement sur le régime de pension de la force de réserve](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/32.md), à l’exception des périodes de service dans la force de réserve à l’égard desquelles il a eu droit au remboursement de cotisations prévu par l’article 38 de ce règlement;
 	- **c)** il ne compte pas de service ouvrant droit à pension ou il n’y a pas eu à son égard versement d’une valeur de transfert ou d’une valeur escomptée au titre de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) ou de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md);
-	- **d)** il n’est pas déchu de son droit de faire un choix aux termes du paragraphe 14(1) du [Règlement sur le régime de pension de la force de réserve](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/32.md).
+	- **d)** il n’est pas déchu de son droit de faire un choix visant les gains ouvrant droit à pension.
 
 - **(2)** À l’égard d’un membre ou d’un ancien membre de la force de réserve qui devient un contributeur le 1<sup>er</sup> mars 2007 ou par la suite, les divisions 6b)(ii)(G) et (H) de la Loi sont adaptées de la façon suivante :
 
@@ -402,7 +419,7 @@ où :
 - **(3)** Le choix portant sur le service dans la force de réserve visé aux divisions 6b)(ii)(G) et (H) de la Loi, dans leur version adaptée par le paragraphe (2), porte sur l’ensemble des périodes de service accomplies dans la force de réserve; toutefois, ne sont comptées comme années de service ouvrant droit à pension, à commencer par les plus récentes, que celles qui permettent de porter le nombre d’années de service ouvrant droit à pension du contributeur à un maximum de trente-cinq.
 
 - **(4)** Le contributeur visé au paragraphe (2) ne peut faire le choix portant sur le service dans la force de réserve en vertu de la division 6b)(ii)(K) de la Loi.
-> DORS/2007-33, art. 6; DORS/2008-307, art. 7; DORS/2010-101, art. 1.
+> DORS/2007-33, art. 6; DORS/2008-307, art. 7; DORS/2010-101, art. 1; DORS/2016-64, art. 13.
 
 
 
@@ -420,11 +437,11 @@ où :
 
 
 - **(2)** La somme totale visée aux alinéas 7(1)g) et h) de la Loi, dans leur version adaptée par le paragraphe (1), est égale au total des deux valeurs suivantes :
-	- **a)** la somme totale visée au paragraphe 15(2) du [Règlement sur le régime de pension de la force de réserve](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/32.md) à payer pour le choix visant les gains antérieurs comme s’il avait été fait en vertu de ce règlement le jour du choix visant le service dans la force de réserve, et calculée comme si, ce jour-là, le contributeur était un participant aux termes du même règlement et que les gains antérieurs, déterminés conformément à ce règlement, étaient des gains antérieurs rattachés à des périodes où il servait dans la force de réserve;
+	- **a)** la somme totale visée au paragraphe 15(2) du [Règlement sur le régime de pension de la force de réserve](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/32.md) à payer pour le choix visant les gains ouvrant droit à pension comme s’il avait été fait en vertu de ce règlement le jour du choix visant le service dans la force de réserve, et calculée comme si, ce jour-là, le contributeur était un participant aux termes du même règlement et que les gains antérieurs, déterminés conformément à ce règlement, étaient des gains antérieurs rattachés à des périodes où il servait dans la force de réserve;
 	- **b)** la somme totale visant le choix relatif aux cotisations complémentaires fait le jour du choix visant le service dans la force de réserve, et calculée selon la formule prévue à l’alinéa 14.6(3)b) comme si, d’une part, la valeur de l’élément E de la formule figurant à cet alinéa était égale à un et, d’autre part, le service dans la force de réserve était considéré, à la suite du choix, comme du service ouvrant droit à pension figurant au crédit du contributeur en vertu du [Règlement sur le régime de pension de la force de réserve](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/32.md).
 
 - **(3)** Le contributeur ne peut modifier la somme pour laquelle il a opté.
-> DORS/2007-33, art. 6; DORS/2008-307, art. 8.
+> DORS/2007-33, art. 6; DORS/2008-307, art. 8; DORS/2016-64, art. 49.
 
 
 
@@ -435,12 +452,13 @@ où :
 
 **13** 
 
-- **(1)** Un contributeur qui a, en vertu de la Loi, exercé l’option de payer pour une période de service peut, avec l’approbation du ministre, révoquer ce choix en totalité ou en partie
-	- **a)** quant aux paiements versés et à verser pour la période de service mentionnée dans l’option, si le contributeur a reçu par écrit des renseignements erronés ou tendant à induire en erreur de la part d’un membre des forces ou d’une personne à l’emploi de la fonction publique qui a pour fonction normale de renseigner sur la somme à payer en vertu de la Loi à l’égard du service, et si le contributeur en faisant son choix s’est guidé en toute bonne foi sur tels renseignements erronés ou tendant à induire en erreur, ou
-	- **b)** quant aux paiements à faire pour la période de service mentionnée dans l’option, si des embarras pécuniaires indus, que le contributeur ne prévoyait pas au moment de son choix, peuvent lui être suscités par l’obligation de continuer à payer pour ladite période de service,
-toutefois, lorsque la révocation porte sur une portion de la période de service, seule la portion qui est la plus reculée peut faire l’objet d’une révocation sous le régime du présent article.
+- **(1)** Le contributeur qui, en vertu de la Loi, a choisi de payer pour une période de service peut demander la révocation de ce choix en totalité ou en partie si, selon le cas :
+	- **a)** quant aux paiements effectués et à effectuer pour la période de service mentionnée dans le choix, il a reçu par écrit des renseignements erronés ou trompeurs quant à la somme à payer ou aux conséquences du choix sur ses prestations d’une personne dont certaines tâches sont habituellement de donner des renseignements au sujet de ces questions, et il fait son choix sur la foi de ces renseignements;
+	- **b)** quant aux paiements à effectuer pour la période de service mentionnée dans le choix, il établit que des difficultés financières lui seront causées s’il est tenu de continuer à effectuer ces paiements.
 
-- **(2)** Lorsqu’un contributeur a révoqué son choix en conformité du paragraphe (1), pour la raison indiquée à l’alinéa b) de ce paragraphe, il doit payer à Sa Majesté, à l’égard de toute prestation à laquelle il a eu droit alors que son choix était valide, par suite de l’option qu’il avait exercée, le montant fixé par le ministre, d’après la Table de mortalité du Canada n<sup>o</sup> 2 (1941), Hommes quatre pour cent ou Femmes quatre pour cent, selon le cas.
+- **(1.1)** La révocation partielle ne vise que la portion la plus reculée de la période de service.
+
+- **(2)** Lorsqu’il a révoqué son choix pour la raison indiquée à l’alinéa (1)b), le contributeur doit payer à Sa Majesté, à l’égard de toute prestation à laquelle il a eu droit alors que son choix était valide, par suite de l’option qu’il avait exercée, la somme fixée conformément à la Table de mortalité du Canada n<sup>o</sup> 2 (1941), Hommes quatre pour cent ou Femmes quatre pour cent, selon le cas.
 
 - **(3)** Tout paiement effectué par un contributeur, aux termes du paragraphe (2), à l’égard des prestations qu’il a touchées alors qu’était valide le choix qu’il avait fait selon la Loi et révoqué conformément au paragraphe (1) pour une raison indiquée à l’alinéa a) de ce paragraphe, avant le 4 décembre 1969, doit être remboursé à ce contributeur.
 
@@ -452,12 +470,12 @@ toutefois, lorsque la révocation porte sur une portion de la période de servic
 
 - **(6)** La somme exigible d’un contributeur en vertu du paragraphe (2) est recouvrable au nom de Sa Majesté comme créance de la Couronne sur toute prestation payable en vertu de la Loi au contributeur ou à son égard, sans préjudice de tout autre recours que peut exercer Sa Majesté pour recouvrer ladite somme.
 
-- **(7)** Une demande tendant, en vertu du présent article, à la révocation d’un choix de payer pour du service doit être faite selon la formule LPRFC 107 (Révocation du choix de payer pour du service antérieur ouvrant droit à pension) et transmise dans les 30 jours suivant son exécution à un commandant ou autre autorité que désigne le ministre.
+- **(7)** La demande de révocation d’un choix de payer pour du service faite en vertu du présent article est faite par écrit, datée, signée et envoyée au ministre ou à la personne désignée par celui-ci dans la semaine suivant la date qui y figure.
 
 - **(8)** Lorsqu’un contributeur a révoqué son choix de payer pour une période de service, conformément au paragraphe (1), ce choix est considéré, aux fins d’un futur choix de payer pour cette période de service, comme un choix aux termes de la disposition 6b)(ii)(K) de la Loi.
 
-- **(9)** Le contributeur qui, en vertu du paragraphe 11(2.1), a choisi de ne pas compter une période de service comme service ouvrant droit à pension peut révoquer ce choix en totalité ou en partie, s’il l’a effectué sur la foi de renseignements faux ou trompeurs reçus par écrit d’un membre des Forces canadiennes ou d’une personne employée dans la fonction publique et dont les fonctions ordinaires comprenaient la responsabilité de donner des renseignements sur toute question relative à la Loi.
-> DORS/83-263, art. 4; DORS/92-717, art. 8(F) et 10; DORS/95-569, art. 3; DORS/95-570, art. 12(F); DORS/2001-76, art. 2.
+- **(9)** Le contributeur qui a choisi au titre du paragraphe 11(2.1) de ne pas compter une période de service comme service ouvrant droit à pension peut révoquer ce choix en totalité ou en partie, s’il l’a fait sur la foi de renseignements erronés ou trompeurs quant à la somme à payer ou aux conséquences du choix sur ses prestations, reçus par écrit d’une personne dont certaines tâches sont habituellement de donner des renseignements au sujet de ces questions et s’il fait son choix sur la foi de ces renseignements.
+> DORS/83-263, art. 4; DORS/92-717, art. 8(F) et 10; DORS/95-569, art. 3; DORS/95-570, art. 12(F); DORS/2001-76, art. 2; DORS/2016-64, art. 14, 55(A) et 57(A).
 
 
 
@@ -476,24 +494,26 @@ toutefois, lorsque la révocation porte sur une portion de la période de servic
 
 - **(3)** Lorsque le contributeur — autre qu’un contributeur membre de la force de réserve ou qu’un contributeur qui était membre de la force de réserve et qui a fait le choix relatif aux cotisations complémentaires prévu a l’article 14.2 — a en premier lieu choisi de payer par versements échelonnés et que subséquemment à l’exercice de son option le total à payer à l’égard du service pour lequel il a décidé de payer se révèle, après vérification, supérieur ou inférieur à celui sur lequel les versements échelonnés ont été fondés en premier lieu, les versements mensuels prévus au paragraphe (1) doivent être augmentés ou diminués conformément au montant vérifié, mais ils ne doivent pas être réduits de plus de cinq pour cent de la mensualité établie en premier lieu.
 
-- **(4)** Lorsque le contributeur a en premier lieu choisi de payer par versements pour une période d’années moindre que toute la période de vie et que des difficultés financières indues, qu’il ne prévoyait pas au moment de son choix, lui seraient causées s’il était tenu de continuer à payer ces versements, le montant de la mensualité peut, à la demande du contributeur, être réduit au montant approprié moindre qu’approuvera le ministre, suivant une base analogue à celle que décrit le paragraphe (1), calculé à partir du premier jour du mois suivant l’approbation, et chaque demande à cet égard doit être établie sur la formule LPRFC 105 (Demande de réduction de versements); toutefois, une telle demande sera nulle à moins que le contributeur ne subisse un examen médical analogue à celui que décrit l’article 10, dans les 90 jours qui précèdent ou qui suivent la date de sa demande ou dans tel autre délai que le ministre peut prescrire.
+- **(4)** Lorsque le contributeur a, en premier lieu, choisi de payer par versements pour un nombre d’années inférieur à celui de la vie et s’il établit que des difficultés financières lui seront causées s’il est tenu de continuer à payer ces versements, le montant de la mensualité peut, à la demande du contributeur, être réduit à une somme appropriée moindre, de façon semblable à celle décrite au paragraphe (1), calculée à partir du premier jour du mois suivant l’approbation de la demande.
 
-- **(5)** Lorsqu’un contributeur, qui a choisi, sous le régime de la Loi ou de la partie V de l’ancienne loi, de contribuer à l’égard de toute période de service et qui a entrepris de contribuer pour ce service au moyen de mensualités, cesse d’être membre des forces régulières avant d’avoir acquitté tous les versements requis, les versements impayés doivent être retenus comme il suit des prestations qui lui sont payables :
+- **(4.1)** La demande est faite par écrit, datée, signée et envoyée au ministre ou à la personne désignée par celui-ci, dans la semaine suivant la date qui y figure. Elle est nulle à moins que le contributeur ne subisse un examen médical sembable à celui décrit à l’article 10, dans les quatre-vingt-dix jours qui précèdent ou qui suivent la date de la demande.
+
+- **(5)** Lorsqu’un contributeur, qui a choisi, sous le régime de la Loi ou de la partie V de l’ancienne loi, de contribuer à l’égard de toute période de service et qui a entrepris de contribuer pour ce service au moyen de mensualités, cesse d’être membre de la force régulière avant d’avoir acquitté tous les versements requis, les versements impayés doivent être retenus comme il suit des prestations qui lui sont payables :
 	- **a)** sous réserve de l’alinéa c), lorsque la prestation à payer est une annuité, les versements restants doivent être retenus sur cette annuité;
 	- **b)** lorsque la prestation à payer est une allocation de cessation en espèces, la valeur courante des versements restants doit être retenue sur cette allocation dans la mesure où celle-ci ne devient pas inférieure à un montant équivalent à un remboursement des contributions; ou
 	- **c)** lorsque durant toute période une pension accordée sous le régime de la partie V de l’ancienne loi ou une annuité accordée sous le régime de la Loi n’est pas payable ou se trouve réduite à un montant qui ne suffit pas au plein acquittement des versements, la partie impayée des versements restants doit être retenue, durant cette période, sur la solde et les allocations ou sur le traitement payables au bénéficiaire, ou sur tout autre montant à lui payable par Sa Majesté.
 
-- **(6)** Nonobstant toute disposition du présent article, un contributeur qui, sous l’autorité du paragraphe 9(3) de la Loi, choisit de renoncer au droit qu’il a en vertu du paragraphe 56(2) de l’ancienne loi de différer le paiement de la somme relative à sa période de service antérieur dans les forces régulières pour laquelle il n’était pas tenu de payer avant la date de sa mise à la retraite, est tenu de payer le montant y prescrit, de la manière suivante :
+- **(6)** Nonobstant toute disposition du présent article, un contributeur qui, sous l’autorité du paragraphe 9(3) de la Loi, choisit de renoncer au droit qu’il a en vertu du paragraphe 56(2) de l’ancienne loi de différer le paiement de la somme relative à sa période de service antérieur dans la force régulière pour laquelle il n’était pas tenu de payer avant la date de sa mise à la retraite, est tenu de payer le montant y prescrit, de la manière suivante :
 	- **a)** avant sa mise à la retraite, la totalité ou toute partie du montant prescrit
 		- **(i)** en une somme globale, sans intérêt, ou
 		- **(ii)** par mensualités, sans intérêt,
 à son gré; et
 	- **b)** à sa mise à la retraite, tout solde des contributions dont le paiement est requis, de la même manière et suivant les mêmes conditions et modalités qui seraient applicables à tout montant à payer conformément au paragraphe 56(2) de l’ancienne loi.
 
-- **(7)** Pour les fins du paragraphe 9(4) de la Loi, lorsque au décès d’un contributeur le montant qu’il est censé verser au Compte de pension de retraite est devenu exigible mais demeure impayé, ce montant, plus un intérêt de quatre pour cent par année depuis la date d’échéance à la date du décès, doit être recouvré sur toute allocation payable au survivant ou aux enfants, comme il suit :
+- **(7)** Pour les fins du paragraphe 9(4) de la Loi, lorsque au décès d’un contributeur le montant qu’il est censé verser au compte de pension de retraite ou à la Caisse de retraite des Forces canadiennes est devenu exigible mais demeure impayé, ce montant, plus un intérêt de quatre pour cent par année depuis la date d’échéance à la date du décès, doit être recouvré sur toute allocation payable au survivant ou aux enfants, comme il suit :
 	- **a)** en une somme globale retenue sur l’allocation de cessation en espèces; ou
 	- **b)** par mensualités retenues sur une allocation annuelle selon un montant égal à 10 pour cent de l’allocation mensuelle nette, mais dans un tel cas des paiements peuvent être effectués par le survivant ou les enfants ou en leur nom, qui acquittent la somme due à une date antérieure.
-> DORS/92-717, art. 10; DORS/95-570, art. 10(F); DORS/2001-76, art. 9; DORS/2007-33, art. 7.
+> DORS/92-717, art. 10; DORS/95-570, art. 10(F); DORS/2001-76, art. 9; DORS/2007-33, art. 7; DORS/2016-64, art. 15, 50, 52(F), 54(A), 55(A) et 57(A).
 
 
 
@@ -501,10 +521,10 @@ toutefois, lorsque la révocation porte sur une portion de la période de servic
 **14.1** À l’égard du membre de la force de réserve qui est contributeur et qui fait un choix en vertu de l’une des divisions 6b)(ii)(A) à (F) ou (I) à (L) de la Loi ou des divisions 6b)(ii)(G) et (H) de la Loi, dans leur version adaptée par le paragraphe 12.2(2) du présent règlement, ou du membre ou de l’ancien membre de la force de réserve qui a fait le choix relatif aux cotisations complémentaires prévu à l’article 14.2 du présent règlement, le paragraphe 9(1) de la Loi est adapté de la façon suivante :
 **9** 
 
-- **(1)** Toute somme à payer par un contributeur qui fait un choix en vertu de l’une des divisions 6b)(ii)(A) à (F) ou (I) à (L), ou des divisions 6b)(ii)(G) et (H), dans leur version adaptée par le paragraphe 12.2(2) du Règlement sur la pension de retraite des Forces canadiennes, ou un membre ou ancien membre de la force de réserve qui fait un choix relatif aux cotisations complémentaires prévu à l’article 14.2 du même règlement, est payée selon les mêmes conditions et modalités que celles prévues aux articles 16 à 21 du [Règlement sur le régime de pension de la force de réserve](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/32.md) qui s’appliqueraient au participant ayant fait un choix visant les gains antérieurs; l’article 23 de ce même règlement s’applique alors au membre ou à l’ancien membre de la force de réserve qui a reçu une annuité ou une allocation annuelle à l’égard de tout versement consécutif à un choix relatif aux cotisations complémentaires comme s’il avait été un participant au sens du même règlement.
+- **(1)** Toute somme à payer par le contributeur qui fait un choix en vertu de l’une des divisions 6b)(ii)(A) à (F) ou (I) à (L), ou des divisions 6b)(ii)(G) et (H), dans leur version adaptée par le paragraphe 12.2(2) du Règlement sur la pension de retraite des Forces canadiennes, ou le membre ou l’ancien membre de la force de réserve qui fait un choix relatif aux cotisations complémentaires prévu à l’article 14.2 du même règlement, est payée selon les mêmes modalités que celles prévues aux articles 16 à 21 du [Règlement sur le régime de pension de la force de réserve](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/32.md) qui s’appliqueraient au participant ayant fait un choix en vertu du paragraphe 11(1) de ce règlement; l’article 23 de ce même règlement s’applique alors au membre ou à l’ancien membre de la force de réserve qui reçoit une annuité ou une allocation annuelle à l’égard de tout versement consécutif à un choix relatif aux cotisations complémentaires comme s’il avait été un participant au sens du même règlement.
 
 
-> DORS/2007-33, art. 8.
+> DORS/2007-33, art. 8; DORS/2016-64, art. 16.
 
 
 
@@ -517,8 +537,8 @@ toutefois, lorsque la révocation porte sur une portion de la période de servic
 
 **14.2** Le contributeur n’a le droit de faire le choix relatif aux cotisations complémentaires qu’une seule fois dans le but de verser une cotisation supplémentaire à l’égard de l’ensemble des services ouvrant droit à pension ci-après qui ont été portés à son crédit :
 - **a)** celui visé à l’article 10.2 qui n’est pas couvert par l’alinéa b);
-- **b)** celui visé à l’article 10.2 qui a été porté à son crédit à la suite d’un choix visant les gains antérieurs.
-> DORS/2007-33, art. 8.
+- **b)** celui visé à l’article 10.2 qui a été porté à son crédit à la suite d’un choix visant les gains ouvrant droit à pension.
+> DORS/2007-33, art. 8; DORS/2016-64, art. 49.
 
 
 
@@ -535,19 +555,15 @@ toutefois, lorsque la révocation porte sur une portion de la période de servic
 
 
 
-**14.5** 
-
-- **(1)** Le contributeur qui n’exerce pas le droit de faire un choix relatif aux cotisations complémentaires dans le délai imparti en est déchu.
-
-- **(2)** Il n’en est pas déchu s’il cesse d’être membre de la force régulière avant l’expiration du délai; il est alors réputé ne pas en avoir été avisé.
-> DORS/2007-33, art. 8.
+**14.5** Le contributeur qui cesse d’être considéré comme un membre de la force régulière avant l’expiration du délai dont il disposait pour faire le choix relatif aux cotisations complémentaires a droit, s’il est de nouveau considéré comme un membre de la force régulière, de faire le choix avant la fin de l’année suivant la date de l’avis écrit selon lequel il a de nouveau le droit de faire le choix.
+> DORS/2007-33, art. 8; DORS/2016-64, art. 17.
 
 
 
 
 **14.6** 
 
-- **(1)** Pour l’application du présent article et à l’égard d’une période de service ouvrant droit à pension d’un contributeur qui était un participant aux termes du paragraphe 4(2) du [Règlement sur le régime de pension de la force de réserve](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/32.md), « gains précédents » s’entend des gains accumulés qui sont demeurés à son crédit à titre de gains ouvrant droit à pension le jour qui précède celui où il est devenu membre de la force régulière, à l’exception de ceux portés à son au crédit à la suite d’un choix visant les gains antérieurs, desquels on retranche les gains réalisés au titre d’une prime tenant lieu de congé et auxquels on ajoute l’allocation établie conformément à l’article 9 pour cette même période.
+- **(1)** Pour l’application du présent article et à l’égard d’une période de service ouvrant droit à pension du contributeur qui était un participant aux termes du paragraphe 4(2) du [Règlement sur le régime de pension de la force de réserve](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/32.md), « gains précédents » s’entend des gains qui sont demeurés au crédit de ce contributeur à titre de gains ouvrant droit à pension le jour qui précède celui où ce contributeur est devenu ou a été considéré comme un membre de la force régulière, à l’exception de ceux portés à son crédit à la suite d’un choix visant les gains ouvrant droit à pension, desquels sont retranchés les gains réalisés au titre d’une prime tenant lieu de congé et auxquels est ajoutée l’allocation établie conformément à l’article 9 pour cette même période.
 
 - **(2)** Le contributeur qui fait un choix relatif aux cotisations complémentaires paie la somme totale ou la somme moindre pour laquelle il opte lorsqu’il fait le choix.
 
@@ -557,19 +573,19 @@ toutefois, lorsque la révocation porte sur une portion de la période de servic
 B - A
 ```
 où :
-- **A** représente le montant des cotisations que le contributeur était tenu de payer à titre de participant aux termes du [Règlement sur le régime de pension de la force de réserve](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/32.md) à l’égard des gains, pour cette année civile, qui figurent à son crédit à titre de gains ouvrant droit à pension aux termes du même règlement le jour qui précède celui où le contributeur est devenu membre de la force régulière, à l’exception des gains portés à son crédit à la suite d’un choix visant les gains antérieurs,
+- **A** représente le montant des cotisations que le contributeur était tenu de payer à titre de participant aux termes du [Règlement sur le régime de pension de la force de réserve](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/32.md) à l’égard des gains, pour cette année civile, qui figurent à son crédit à titre de gains ouvrant droit à pension aux termes du même règlement le jour qui précède celui où le contributeur est devenu membre de la force régulière, à l’exception des gains portés à son crédit à la suite d’un choix visant les gains ouvrant droit à pension,
 - **B** le montant des cotisations que le contributeur aurait dû payer, pour cette année civile, en vertu de l’article 5 de la Loi s’il avait été tenu de cotiser pour un traitement égal à ses gains précédents pour la même année;
 	- **b)** à l’égard du service ouvrant droit à pension visé à l’alinéa 14.2b), à la somme des valeurs calculées, pour chaque année civile, selon la formule suivante :
 ```
 (D - C) × E
 ```
 où :
-- **C** représente la partie de la somme totale calculée, sans les intérêts, selon la formule figurant au paragraphe 15(2) du [Règlement sur le régime de pension de la force de réserve](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/32.md) à l’égard du choix visant les gains antérieurs prévu à l’alinéa 14.2b) du présent règlement pour la même année civile,
-- **D** le montant des cotisations que le contributeur aurait été tenu de payer aux termes du paragraphe 5(1.01) de la Loi pour le traitement déterminé pour l’année où a eu lieu le choix visant les gains antérieurs lequel est égal au montant des gains antérieurs rajustés qui aurait été calculé pour cette année civile relativement au choix visant les gains antérieurs, si le montant des gains antérieurs avait été rajusté par soustraction de toute somme versée à titre de prime tenant lieu de congé et par addition du montant de toute allocation visée par l’article 9 du présent règlement ou, si ce montant est inférieur à la valeur de l’élément C, cette valeur,
-- **E** la proportion visée au paragraphe 26(1) du [Règlement sur le régime de pension de la force de réserve](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/32.md) relativement au choix visant les gains antérieurs.
+- **C** représente la partie de la somme totale calculée, sans les intérêts, selon la formule figurant au paragraphe 15(2) du [Règlement sur le régime de pension de la force de réserve](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/32.md) à l’égard du choix visant les gains ouvrant droit à pension prévu à l’alinéa 14.2b) du présent règlement pour la même année civile,
+- **D** le montant des contributions que le contributeur aurait été tenu de verser conformément au paragraphe 5(1) de la Loi pour le traitement déterminé pour l’année où a eu lieu le choix visant les gains ouvrant droit à pension, lequel est égal au montant des gains antérieurs rajustés qui aurait été établi pour cette année civile relativement à ce choix, si le montant des gains antérieurs pour cette année civile avait été rajusté par soustraction de toute somme versée à titre de prime tenant lieu de congé et par addition du montant de toute allocation déterminée pour cette année civile conformément à l’article 9 ou, si ce montant est inférieur à la valeur de l’élément C, cette valeur,
+- **E** la proportion visée au paragraphe 26(1) du [Règlement sur le régime de pension de la force de réserve](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/32.md) relativement au choix visant les gains ouvrant droit à pension.
 
 - **(4)** Le contributeur ne peut pas modifier la somme pour laquelle il a opté.
-> DORS/2007-33, art. 8; DORS/2008-307, art. 10(F).
+> DORS/2007-33, art. 8; DORS/2008-307, art. 10(F); DORS/2016-64, art. 18 et 49.
 
 
 
@@ -581,23 +597,23 @@ où :
 
 
 **14.8** Le contributeur est réputé, à sa demande, dans les cas ci-après, avoir opté, lorsqu’il a fait le choix relatif aux cotisations complémentaires, pour le total des sommes reçues par le ministre à la date de la demande :
-- **a)** il établit que l’obligation de continuer à verser les mensualités lui causerait des embarras pécuniaires indus imprévus lors du choix;
-- **b)** lorsqu’il commence à toucher la pension ou l’allocation annuelle, le montant de la mensualité dépasse l’augmentation de la prestation mensuelle qui découle du choix.
-> DORS/2007-33, art. 8.
+- **a)** lorsqu’il établit que des difficultés financières lui seront causées s’il est tenu de continuer à payer ces versements;
+- **b)** lorsqu’il commence à toucher l’annuité ou l’allocation annuelle, le montant de la mensualité dépasse l’augmentation de la prestation mensuelle qui découle du choix.
+> DORS/2007-33, art. 8; DORS/2016-64, art. 19.
 
 
 
 
 **14.9** 
 
-- **(1)** Le choix relatif aux cotisations complémentaires est réputé ne pas avoir été fait dans les cas suivants :
+- **(1)** Le contributeur qui a fait le choix relatif aux cotisations complémentaires est réputé ne pas l’avoir fait dans les cas suivants :
 	- **a)** s’agissant d’un choix afférent à une période postérieure au 31 décembre 1989, le ministre du Revenu national refuse de produire l’attestation visée à l’alinéa 147.1(10)a) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
-	- **b)** il a reçu par écrit d’un membre des Forces canadiennes ou d’une personne employée dans la fonction publique qui donne normalement des renseignements sur ces questions, des renseignements erronés ou trompeurs quant à la somme à payer ou aux conséquences du choix sur ses prestations, renseignements sur lesquels il a, de bonne foi, fondé son choix, et il demande qu’on ne tienne pas compte de celui-ci.
+	- **b)** il a reçu par écrit des renseignements erronés ou trompeurs quant à la somme à payer ou aux conséquences du choix sur ses prestations d’une personne dont certaines tâches sont habituellement de donner des renseignements au sujet de ces questions, il a fait son choix sur la foi de ces renseignements et il demande de ne pas tenir compte de ce choix.
 
-- **(2)** Le ministre rembourse alors toutes les sommes qu’il a reçues d’un régime, d’un fonds ou d’un établissement financier visé au paragraphe 22(2) de la Loi à un régime, fonds ou établissement du même genre, selon les directives du contributeur.
+- **(2)** Dans le cas où le choix relatif aux cotisations complémentaires est réputé ne pas avoir été fait, toutes les sommes relatives à ce choix reçues d’un régime, d’un fonds ou d’un établissement financier visé au paragraphe 22(2) de la Loi sont transférées à un régime, à un fonds ou à un établissement du même genre que l’un ou l’autre de ceux visés à ce paragraphe, conformément aux instructions du contributeur.
 
-- **(3)** Malgré l’expiration du délai dont il disposait pour faire le choix, le contributeur peut faire un choix au plus tard le quatre-vingt-dixième jour qui suit la date de l’avis du ministre l’informant du refus du ministre du Revenu national; advenant un autre refus, il ne peut plus faire de choix.
-> DORS/2007-33, art. 8.
+- **(3)** Malgré l’expiration du délai dont il disposait pour faire le choix visé à l’alinéa (1)a), le contributeur peut faire un choix au plus tard le quatre-vingt-dixième jour suivant la date de l’avis l’informant du refus du ministre du Revenu national; advenant un autre refus, il ne peut plus faire de choix.
+> DORS/2007-33, art. 8; DORS/2016-64, art. 20.
 
 
 
@@ -610,11 +626,13 @@ où :
 
 - **(1)** Sous réserve du paragraphe (2), lorsqu’un contributeur se retire de la force régulière et qu’il en redevient membre dans les 60 jours qui suivent sa retraite, il est réputé, aux fins de la Loi, avoir continué d’être membre de la force régulière, nonobstant sa retraite.
 
-- **(2)** Sauf si le ministre en ordonne autrement, le paragraphe (1) ne s’applique jamais lorsqu’un contributeur y décrit accepte à un moment ou l’autre le paiement, en totalité ou en partie, d’une prestation prévue par la Loi à l’égard d’une telle retraite.
+- **(2)** Le paragraphe (1) ne s’applique jamais lorsque le contributeur qui y est décrit accepte à un moment ou un autre le paiement, en totalité ou en partie, d’une prestation prévue par la Loi à l’égard de sa retraite.
 
-- **(3)** Lorsqu’un contributeur est réputé, conformément au paragraphe (1), avoir continué d’être membre des forces régulières, il doit être considéré comme ayant continué de toucher une solde égale à celle qu’il était autorisé à toucher pour le grade qu’il détenait immédiatement avant sa retraite.
+- **(3)** Lorsqu’un contributeur est réputé, conformément au paragraphe (1), avoir continué d’être membre de la force régulière, il doit être considéré comme ayant continué de toucher une solde égale à celle qu’il était autorisé à toucher pour le grade qu’il détenait immédiatement avant sa retraite.
 
-- **(4)** Lorsque le ministre ordonne, sous l’autorité du paragraphe (2), que le paragraphe (1) doit s’appliquer, un montant équivalent à celui de la prestation reçue doit être recouvré au moyen d’une retenue sur la solde et les allocations du contributeur ou sur tout autre montant payable audit contributeur par Sa Majesté, de la manière et suivant la base que le ministre peut prescrire.
+- **(4)** [Abrogé, DORS/2016-64, art. 21]
+> DORS/2016-64, art. 21, 52(F), 54(A), 55(A) et 57(A).
+
 
 
 
@@ -713,7 +731,7 @@ où :
 **16.5** Lorsque le service ouvrant droit à pension d’un contributeur, pendant une année civile, comprend soit une période de traitement que le contributeur a choisi de compter à titre de gains ouvrant droit à pension soit une période à l’égard de laquelle le contributeur a fait un choix en vertu des divisions 6b)(ii)(G) et (H) de la Loi, dans leur version adaptée par le paragraphe 12.2(2) du présent règlement, la solde touchée par le contributeur, pour la même période, utilisée dans le calcul de la solde annuelle moyenne visée à l’alinéa 15(1)a) de la Loi, correspond à la valeur des gains rajustés ouvrant droit à pension qui serait calculée pour un participant en vertu du paragraphe 37(2) du [Règlement sur le régime de pension de la force de réserve](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/32.md) pour une année civile si les deux conditions ci-après sont satisfaites :
 - **a)** la solde du contributeur pour cette période correspond aux gains ouvrant droit à pension du participant pour l’année civile;
 - **b)** l’année où le contributeur a cessé la dernière fois d’être un participant était l’année pendant laquelle est fait le choix ou, s’il est demeuré un participant ou un membre de la force régulière du 1<sup>er</sup> mars 2007 à la date du choix, l’année 2007.
-> DORS/2007-33, art. 9.
+> DORS/2007-33, art. 9; DORS/2016-64, art. 22(A).
 
 
 
@@ -723,13 +741,13 @@ où :
 - **(1)** Le nombre d’années de service ouvrant droit à pension visé aux sous-alinéas 15(1)a)(i) ou b)(i), à l’alinéa 15(2)d) ou au paragraphe 25(1) de la Loi du contributeur qui a été membre de la force de réserve est rajusté conformément au paragraphe (2), pour toute année civile ou partie d’année civile, à l’égard des services ouvrant droit à pension suivants :
 	- **a)** celui porté au crédit du contributeur à la suite du choix visant le service dans la force de réserve au titre des divisions 6b)(ii)(G) et (H) de la Loi, dans leur version adaptée par le paragraphe 12.2(2) du présent règlement, et pour lequel il a opté pour le paiement d’une somme moindre aux termes des alinéas 7(1)g) et h) de la Loi, dans leur version adaptée par le paragraphe 12.4(1) du présent règlement;
 	- **b)** celui porté au crédit du contributeur aux termes de l’article 10.2, sauf le service visé à l’alinéa c), pour lequel le contributeur n’a pas fait le choix relatif aux cotisations complémentaires ou, s’il l’a fait, a payé une somme moindre à la date du choix;
-	- **c)** celui porté au crédit du contributeur à la suite d’un choix visant les gains antérieurs et pour lequel le contributeur satisfait à l’une des conditions suivantes :
+	- **c)** celui porté au crédit du contributeur à la suite d’un choix visant les gains ouvrant droit à pension et pour lequel le contributeur satisfait à l’une des conditions suivantes :
 		- **(i)** il a opté pour le paiement d’une somme moindre au moment du choix,
 		- **(ii)** il n’a pas fait de choix relatif aux cotisations complémentaires prévu à l’alinéa 14.2b),
 		- **(iii)** il a fait un choix relatif aux cotisations complémentaires mais a opté pour le paiement d’une somme moindre conformément au paragraphe 14.6(2);
 	- **d)** celui pendant lequel le membre était considéré comme un membre de la force régulière en vertu de l’article 8.1;
 	- **e)** celui porté au crédit du contributeur à la suite du choix visant le service dans la force de réserve au titre des divisions 6b)(ii)(G) et (H) de la Loi, dans leur version adaptée par le paragraphe 12.2(2) du présent règlement, et pour lequel il n’a pas opté pour le paiement d’une somme moindre au moment du choix;
-	- **f)** celui qui a été porté au crédit du contributeur à la suite d’un choix visant les gains antérieurs pour lequel le contributeur a opté, au moment du choix, pour le paiement de la somme totale et qui a fait l’objet, par la suite, du choix relatif aux cotisations complémentaires prévu à l’alinéa 14.2b) pour lequel il a payé la somme totale;
+	- **f)** celui qui a été porté au crédit du contributeur à la suite d’un choix visant les gains ouvrant droit à pension pour lequel le contributeur a opté, au moment du choix, pour le paiement de la somme totale et qui a fait l’objet, par la suite, du choix relatif aux cotisations complémentaires prévu à l’alinéa 14.2b) pour lequel il a payé la somme totale;
 	- **g)** celui pour lequel le contributeur a fait un choix relatif aux cotisations complémentaires prévu à l’alinéa 14.2a) et a opté pour le paiement de la somme totale.
 
 - **(2)** Le nombre d’années de service ouvrant à pension est rajusté par soustraction du total des sommes calculées, pour chaque année civile ou partie d’année civile de service ouvrant droit à pension, selon la formule suivante :
@@ -763,7 +781,7 @@ où :
 G/H × (G + I)/(G + J)
 ```
 où :
-- **G** représente la somme pour laquelle le contributeur a opté dans le cas où il a opté pour une somme moindre au moment de faire le choix visant les gains antérieurs, ou la valeur de l’élément H, dans les autres cas,
+- **G** représente la somme pour laquelle le contributeur a opté dans le cas où il a opté pour une somme moindre au moment de faire le choix visant les gains ouvrant droit à pension, ou la valeur de l’élément H, dans les autres cas,
 - **H** la somme totale calculée selon la formule figurant au paragraphe 15(2) du [Règlement sur le régime de pension de la force de réserve](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/32.md),
 - **I** l’une des valeurs suivantes :
 - **(i)** dans le cas où le contributeur a fait le choix relatif aux cotisations complémentaires et a opté pour une somme moindre aux termes du paragraphe 14.6(2), la valeur obtenue par la formule suivante :
@@ -778,7 +796,7 @@ où :
 - **(iii)** dans tous les autres cas, la somme visée à l’élément N de la formule figurant au sous-alinéa (i),
 - **J** la somme totale visée à l’alinéa 14.6(3)b) qui aurait été calculée pour le contributeur qui aurait fait le choix relatif aux cotisations complémentaires le jour où il en aurait eu le droit;
 - **d)** à l’égard des services ouvrant droit à pension visés aux alinéas (1)d) à g), un.
-> DORS/2007-33, art. 9.
+> DORS/2007-33, art. 9; DORS/2016-64, art. 49.
 
 
 
@@ -827,8 +845,8 @@ où :
 
 
 
-**16.91** L’option est réputée ne pas avoir été exercée dans le cas où le contributeur redevient membre de la force régulière avant le versement de la valeur de transfert.
-> DORS/2007-33, art. 9.
+**16.91** Le contributeur est réputé ne pas avoir opté pour le versement de la valeur de transfert si, avant que celle-ci soit versée, il redevient un membre de la force régulière ou est considéré comme tel en vertu de l’article 8.1.
+> DORS/2007-33, art. 9; DORS/2016-64, art. 23.
 
 
 
@@ -843,13 +861,13 @@ où :
 
 **16.93** 
 
-- **(1)** Le calcul des prestations de pension acquises est fondé sur le service ouvrant droit à pension qui est porté au crédit du contributeur le lendemain du jour où il cesse d’être membre de la force régulière et qui comprend la partie du service ouvrant droit à pension ayant fait l’objet d’un choix — à l’exception du choix visant les gains antérieurs et celui fait en vertu des divisions 6b)(ii)(G) et (H) de la Loi, dans leur version adaptée par le paragraphe 12.2(2) du présent règlement — pour lequel le contributeur a payé ou aurait dû payer jusqu’à la date de l’option.
+- **(1)** Le calcul des prestations de pension acquises est fondé sur le service ouvrant droit à pension qui est porté au crédit du contributeur le lendemain du jour où il cesse d’être membre de la force régulière et qui comprend la partie du service ouvrant droit à pension ayant fait l’objet d’un choix — à l’exception du choix visant les gains ouvrant droit à pension et celui fait en vertu des divisions 6b)(ii)(G) et (H) de la Loi, dans leur version adaptée par le paragraphe 12.2(2) du présent règlement — pour lequel le contributeur a payé ou aurait dû payer jusqu’à la date de l’option.
 
 - **(2)** Dans le calcul des prestations de pension acquises, le calcul des rajustements visés à l’article 16.6 tient compte des règles suivantes :
-	- **a)** lorsque le service ouvrant droit à pension du contributeur comprend du service ouvrant droit à pension qui a fait l’objet d’un choix visant des gains antérieurs ou d’un choix fait en vertu des divisions 6b)(ii)(G) et (H) de la Loi, dans leur version adaptée par le paragraphe 12.2(2) du présent règlement, le contributeur est considéré avoir opté au moment du choix pour le paiement d’une somme moindre égale aux versements à l’égard du choix qui ont été faits ou auraient dû être faits avant la date de l’option visant le versement d’une valeur de transfert;
-	- **b)** lorsque le contributeur a fait un choix relatif aux cotisations complémentaires prévu à l’article 14.2, il est considéré comme ayant opté au moment du choix pour le paiement d’une somme moindre égale aux versements à l’égard du choix relatif aux cotisations complémentaires qui ont été faits ou auraient dû être faits avant la date de l’option visant le versement d’une valeur de transfert;
-	- **c)** lorsque le choix relatif aux cotisations complémentaires a été fait à l’égard du service ouvrant droit à pension porté au crédit du contributeur à la suite d’un choix visant les gains antérieurs, la proportion visée à l’élément E de la formule figurant à l’alinéa 14.6(3)b) à l’égard du choix visant les gains antérieurs, est calculée comme si le contributeur avait opté, au moment du choix, pour le paiement d’une somme moindre égale à celle visée à l’alinéa a).
-> DORS/2007-33, art. 9.
+	- **a)** lorsque le service ouvrant droit à pension du contributeur comprend du service ouvrant droit à pension qui a fait l’objet d’un choix visant des gains ouvrant droit à pension ou d’un choix fait en vertu des divisions 6b)(ii)(G) et (H) de la Loi, dans leur version adaptée par le paragraphe 12.2(2) du présent règlement, le contributeur est considéré avoir opté au moment du choix pour le paiement d’une somme moindre égale aux versements à l’égard du choix qui ont été faits ou auraient dû être faits au plus tard à la date de l’option visant le versement d’une valeur de transfert;
+	- **b)** lorsqu’il a fait un choix relatif aux cotisations complémentaires prévu à l’article 14.2, le contributeur est considéré comme ayant opté au moment du choix pour le paiement d’une somme moindre égale aux versements à l’égard du choix relatif aux cotisations complémentaires qui ont été faits ou auraient dû être faits au plus tard à la date de l’option visant le versement d’une valeur de transfert;
+	- **c)** lorsque le choix relatif aux cotisations complémentaires a été fait à l’égard du service ouvrant droit à pension porté au crédit du contributeur à la suite d’un choix visant les gains ouvrant droit à pension, la proportion visée à l’élément E de la formule figurant à l’alinéa 14.6(3)b) à l’égard du choix visant les gains ouvrant droit à pension, est calculée comme si le contributeur avait opté, au moment du choix, pour le paiement d’une somme moindre égale à celle visée à l’alinéa a).
+> DORS/2007-33, art. 9; DORS/2016-64, art. 24 et 49.
 
 
 
@@ -870,17 +888,17 @@ où :
 	- **a)** les taux de mortalité — y compris les pourcentages annuels de réduction de ces taux — applicables aux contributeurs et aux survivants sont ceux utilisés à l’égard des contributeurs ou des survivants dans l’établissement du rapport d’évaluation actuarielle;
 	- **b)** les taux d’intérêt sont ceux qui s’appliquent à l’égard des pensions pleinement indexées — rajustés selon les taux d’intérêt applicables aux pensions non indexées pour qu’il soit tenu compte de la partie III de la Loi —, établis conformément à la section « Valeurs actualisées des rentes » du document intitulé Normes de pratique — Normes de pratique applicables aux régimes de retraite, publié par l’Institut canadien des actuaires, avec ses modifications successives;
 	- **c)** la probabilité que lors de son décès un contributeur laisse des enfants est fondée sur les taux concernant le nombre et l’âge moyens et le statut d’admissibilité des enfants lors du décès du contributeur, qui ont été utilisés pour l’établissement du rapport d’évaluation actuarielle;
-	- **d)** la probabilité qu’un contributeur acquière le droit à une annuité au titre de l’alinéa 16(1)d) de la Loi est fondée sur les taux de cessation en raison d’invalidité qui ont été utilisés à l’égard du contributeur pour l’établissement du rapport d’évaluation actuarielle, compte tenu de la probabilité, indiquée dans ce rapport, que le pensionné acquière immédiatement le droit à une pension d’invalidité au titre du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou d’un régime provincial de pensions;
+	- **d)** la probabilité qu’un contributeur acquière le droit à une annuité au titre de l’alinéa 16(1)d) de la Loi est fondée sur les taux de cessation en raison d’invalidité qui ont été utilisés pour l’établissement du rapport d’évaluation actuarielle, compte tenu de la probabilité, indiquée dans ce rapport, que le pensionné acquière immédiatement le droit à une pension d’invalidité au titre du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou d’un régime provincial de pensions;
 	- **e)** la probabilité que lors de son décès un contributeur laisse un survivant est fondée sur les taux concernant le statut d’admissibilité des survivants lors du décès du contributeur et la différence d’âge entre le contributeur et le survivant qui ont été utilisés pour l’établissement du rapport d’évaluation actuarielle
-> DORS/2007-33, art. 9.
+> DORS/2007-33, art. 9; DORS/2016-64, art. 25(F).
 
 
 
 
 **16.96** Il est déduit du montant de la valeur de transfert :
 - **a)** les cotisations dues à l’égard de la solde que le contributeur est réputé avoir reçue en application des paragraphes 11(4) et (4.1);
-- **b)** les arriérés relatifs à un choix visant les gains antérieurs, à un choix fait en vertu de l’article 6 de la Loi ou des divisions 6b)(ii)(G) et (H) de la Loi, dans leur version adaptée par le paragraphe 12.2(2) du présent règlement, ou au choix relatif aux cotisations complémentaires prévu à l’article 14.2 du même règlement.
-> DORS/2007-33, art. 9.
+- **b)** les arriérés relatifs à un choix visant les gains ouvrant droit à pension, à un choix fait en vertu de l’article 6 de la Loi ou des divisions 6b)(ii)(G) et (H) de la Loi, dans leur version adaptée par le paragraphe 12.2(2) du présent règlement, ou au choix relatif aux cotisations complémentaires prévu à l’article 14.2 du même règlement.
+> DORS/2007-33, art. 9; DORS/2016-64, art. 49.
 
 
 
@@ -889,16 +907,27 @@ où :
 
 - **(1)** Tout régime d’épargne-retraite prévu pour l’application de l’article 26 de la [Loi de 1985 sur les normes de prestation de pension](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(2e%20suppl.).md) est un genre de régime ou fonds d’épargne-retraite prévu par règlement pour l’application de l’alinéa 22(2)b) de la Loi.
 
-- **(2)** Les « prestations viagères différées » et « prestations viagères immédiates » définies au paragraphe 2(1) du [Règlement de 1985 sur les normes de prestation de pension](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/87/19.md) sont des rentes viagères différées et rentes viagères immédiates du genre prévu par règlement pour l’application de l’alinéa 22(2)c) de la Loi.
+- **(2)** Les ***prestations viagères différées*** et ***prestations viagères immédiates*** définies au paragraphe 2(1) du [Règlement de 1985 sur les normes de prestation de pension](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/87/19.md) sont des rentes viagères différées et rentes viagères immédiates du genre prévu par règlement pour l’application de l’alinéa 22(2)c) de la Loi.
 
 - **(3)** L’excédent de la valeur de transfert dont le versement est effectué en vertu du paragraphe 22(2) de la Loi sur la somme qui peut être transférée en vertu de l’article 8517 du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md) est versé au contributeur.
 
-- **(4)** Si le contributeur est décédé, les règles ci-après s’appliquent :
-	- **a)** dans le cas où la partie transférable peut toujours être transférée, tout excédent est versé au survivant qui aurait eu droit à une allocation annuelle au titre du paragraphe 25(1) de la Loi si l’option visant le versement d’une valeur de transfert n’avait pas été exercée; à défaut de tel survivant, il est remis à la succession du contributeur ou, s’il est de moins de mille dollars, au plus proche parent de celui-ci.
-	- **b)** dans le cas contraire, la valeur de transfert est versée au survivant qui aurait eu droit à une allocation annuelle au titre du paragraphe 25(1) de la Loi si l’option visant le versement d’une valeur de transfert n’avait pas été exercée; à défaut de tel survivant, elle est versée à la succession du contributeur ou, si elle est de moins de mille dollars, au plus proche parent de celui-ci.
+- **(4)** Si l’option visant le versement de la valeur de transfert visée à l’article 22 de la Loi a été exercée, et que le contributeur décède avant que ce versement ne soit effectué, les règles ci-après s’appliquent :
+	- **a)** la somme qui peut être transférée est ainsi versée et tout excédent est versé :
+		- **(i)** soit à la personne qui, à titre de survivant, aurait eu droit à une allocation annuelle au titre du paragraphe 25(1) de la Loi si l’option visant le versement de la valeur de transfert n’avait pas été exercée,
+		- **(ii)** soit à la succession du contributeur s’il n’y a aucune personne qui aurait eu droit à une allocation annuelle à titre de survivant;
+	- **b)** dans le cas où aucune somme ne peut être transférée, le versement de toute la valeur de transfert est effectué conformément aux sous-alinéas a)(i) et (ii).
 
-- **(5)** Si deux survivants ont droit à une allocation annuelle au titre du paragraphe 25(1) de la Loi, la part de chacun s’établit conformément à l’article 26.1 de la Loi, la mention de montant total valant alors mention de l’excédent ou de la valeur de transfert, selon le cas.
-> DORS/2007-33, art. 9.
+- **(5)** S’il y a deux personnes qui, à titre de survivants, auraient eu droit à une allocation annuelle au titre du paragraphe 25(1) de la Loi si l’option visant le versement de la valeur de transfert n’avait pas été exercée, chacune d’elles a droit à une part de l’excédent ou de la valeur de transfert, selon le cas, qui est établie selon la formule suivante :
+```
+A × B/C
+```
+où :
+- **A** représente le montant de l’excédent ou de la valeur de transfert;
+- **B** le nombre total d’années de cohabitation de la personne avec le contributeur dans le cadre d’un mariage ou d’une union de type conjugal;
+- **C** le nombre total d’années de cohabitation de chacune des deux personnes avec le contributeur dans le cadre d’un mariage ou d’une union de type conjugal.
+
+- **(6)** Pour calculer le nombre d’années de cohabitation aux fins du paragraphe (5), une partie d’année est comptée comme une année complète si elle est d’au moins six mois; autrement, elle n’est pas prise en compte.
+> DORS/2007-33, art. 9; DORS/2016-64, art. 26.
 
 
 
@@ -921,17 +950,7 @@ où :
 
 
 
-**16.991** 
-
-- **(1)** Le contributeur peut révoquer son option visant le versement d’une valeur de transfert lorsqu’il établit qu’il a reçu par écrit d’un membre des Forces canadiennes, ou d’une personne employée dans la fonction publique qui donne normalement des renseignements sur ces questions, des renseignements erronés ou trompeurs quant au montant, à la nature ou au genre de prestations en cause dans le cadre de l’option visant le versement d’une valeur de transfert ou toute autre prestation à laquelle le contributeur aurait pu avoir droit s’il n’avait pas exercé l’option, ou quant à la marche à suivre pour exercer l’option.
-
-- **(2)** La révocation de l’option visant le versement d’une valeur de transfert est subordonnée aux conditions suivantes :
-	- **a)** le contributeur demande au ministre la révocation de son option dans les trois mois suivant le jour où il s’est rendu compte qu’il avait reçu des renseignements erronés ou trompeurs;
-	- **b)** le contributeur établit qu’il a agi sur le fondement des renseignements erronés ou trompeurs et qu’il n’aurait pas exercé l’option n’eût été ces renseignements;
-	- **c)** le contributeur rembourse les paiements qui lui ont été versés en vertu de l’option dans les trois mois suivant l’avis du ministre lui indiquant la somme à rembourser;
-	- **d)** si les renseignements erronés ou trompeurs portent sur le montant d’une quelconque prestation prévue par la Loi, il existe un écart d’au moins cinq pour cent entre le montant véritable de la prestation et celui calculé en fonction des renseignements erronés et trompeurs.
-> DORS/2007-33, art. 9.
-
+**16.991** [Abrogé, DORS/2016-64, art. 27]
 
 
 
@@ -941,12 +960,8 @@ où :
 
 
 
-**17** 
-
-- **(1)** Pour les fins du paragraphe 31(2) de la Loi, lorsqu’un enfant naît d’une personne de plus de 60 ans et qu’après la naissance de cet enfant cette personne n’est pas devenue contributeur ou ne continue pas de l’être, l’enfant n’a pas droit à une allocation sous l’empire de la Loi, à moins que le ministre n’estime que ledit enfant est né à la suite d’une grossesse commencée avant la date à laquelle le contributeur a atteint l’âge de 60 ans ou à laquelle il a cessé d’être membre de la force régulière, suivant celui des deux événements qui se produit le plus tard.
-
-- **(2)** [Abrogé, DORS/92-717, art. 2]
-> DORS/92-717, art. 2 et 10.
+**17** Pour l’application du paragraphe 31(2) de la Loi, lorsqu’un enfant naît d’une personne de plus de soixante ans et qu’après la naissance de cet enfant cette personne n’est pas devenue contributeur ou ne continue pas de l’être, l’enfant n’a pas droit à une allocation aux termes de la Loi, à moins que l’enfant ne soit né à la suite d’une grossesse qui a débutée avant la date à laquelle le contributeur a atteint l’âge de soixante ans ou celle à laquelle il a cessé d’être membre de la force régulière, selon celle de ces dates qui est postérieure à l’autre.
+> DORS/92-717, art. 2 et 10; DORS/2016-64, art. 28.
 
 
 
@@ -996,23 +1011,21 @@ où :
 
 
 
-### Preuve requise pour convaincre le ministre selon l’alinéa 15(2)b) de la loi
-> [DORS/92-717, art. 10]
+### Preuve par application de l’alinéa 50(1)k) de la Loi
+> [DORS/92-717, art. 10; DORS/2016-64, art. 29]
 
 
 
 **20** 
 
-- **(1)** La preuve requise pour convaincre le ministre qu’un contributeur n’a pas droit à une pension d’invalidité visée à l’alinéa 15(2)b) de la Loi consiste en
+- **(1)** Pour l’application de l’alinéa 50(1)k) de la Loi, les documents ci-après constituent une preuve :
 	- **a)** un document signé par le contributeur déclarant qu’il n’a pas droit à une pension d’invalidité payable selon l’alinéa 44(1)b) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou d’une disposition analogue du Régime de rentes du Québec; et
 	- **b)** un certificat signé par le ministre responsable de l’administration du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), pour son compte, ou par le président de la Régie des rentes du Québec, selon le cas, attestant que le contributeur désigné n’a pas droit à une pension d’invalidité payable selon l’alinéa 44(1)b) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou d’une disposition analogue du Régime de rentes du Québec.
 
 - **(2)** Un contributeur, membre des Forces canadiennes le 10 juin 1976, qui, par la suite, cesse de l’être, fournit la preuve visée à l’alinéa (1)a) avant la date où il devient admissible à une annuité selon la Loi.
 
-- **(3)** Sous réserve du paragraphe (4), un contributeur qui cesse d’être membre des Forces canadiennes avant le 10 juin 1976 fournit la preuve visée à l’alinéa (1)a), dans les six mois de la date où le ministre l’avise, par écrit, des exigences de l’alinéa 15(2)b) de la Loi.
-
-- **(4)** Le ministre peut prolonger la période visée au paragraphe (3) lorsqu’il est d’avis que le contributeur, en raison de circonstances indépendantes de sa volonté, a été dans l’impossibilité de fournir, dans le délai prévu à ce paragraphe, la preuve visée à l’alinéa (1)a).
-> DORS/92-717, art. 10.
+- **(3) et (4)** [Abrogés, DORS/2016-64, art. 30]
+> DORS/92-717, art. 10; DORS/2016-64, art. 30 et 55(A).
 
 
 
@@ -1039,10 +1052,10 @@ où :
 
 **22.1** 
 
-- **(1)** [Abrogé, DORS/2008-307, art. 12(F)]
+- **(1)** Le membre ou l’ancien membre de la force de réserve visé au paragraphe 41(4) de la Loi, dans sa version adaptée par l’article 8.4 du présent règlement, verse la somme à payer aux termes de ce paragraphe en une somme globale au plus tard le cent vingtième jour suivant la date de l’avis lui indiquant la somme due.
 
-- **(2)** La personne qui a effectué un choix en vertu du paragraphe 41(4) de la Loi doit acquitter le montant payable aux termes de ce paragraphe en une somme globale dans les 30 jours suivant la réception de la notification du ministre requérant le paiement.
-> DORS/95-570, art. 1; DORS/2001-76, art. 5(F); DORS/2007-33, art. 11(A); DORS/2008-307, art. 12(F).
+- **(2)** L’omission de verser la somme dans le délai indiqué au paragraphe (1) rend nul le choix visé au paragraphe 41(4) de la Loi, dans sa version adaptée par l’article 8.4 du présent règlement.
+> DORS/95-570, art. 1; DORS/2001-76, art. 5(F); DORS/2007-33, art. 11(A); DORS/2008-307, art. 12(F); DORS/2016-64, art. 31.
 
 
 
@@ -1051,31 +1064,52 @@ où :
 ### Annulation du choix
 
 
-**23** Sous réserve de l’article 24, le contributeur peut, avec le consentement du ministre, annuler un choix qu’il a ou qu’il est réputé avoir fait selon les articles 17 à 19 de la Loi, et en faire un nouveau, s’il a reçu des renseignements erronés ou trompeurs sur
-- **a)** le montant, la nature ou le genre de ces prestations, ou
-- **b)** la marche à suivre pour faire validement un choix,
-d’un membre des Forces canadiennes ou d’un fonctionnaire habituellement chargé de donner des renseignements sur les prestations pour lesquelles le contributeur peut faire un choix en cessant d’être membre de la force régulière.
-> DORS/92-717, art. 10.
+**23** 
+
+- **(1)** S’il a reçu par écrit des renseignements erronés ou trompeurs quant à la somme à payer ou aux conséquences sur ses prestations en raison de l’exercice de l’une des options ou du choix ci-après, d’une personne dont certaines tâches sont habituellement de donner des renseignements au sujet de ces questions, et s’il a exercé l’option ou fait le choix sur la foi de ces renseignements, le contributeur peut révoquer cette option ou ce choix :
+	- **a)** l’option exercée en vertu des paragraphes 18(1) ou 19(1) de la Loi, de l’article 67 de la Loi modifiant la Loi sur la pension de retraite des Forces canadiennes et d’autres lois en conséquence, chapitre 26 des Lois du Canada (2003) ou des articles 8.2 ou 16.8 du présent règlement;
+	- **b)** l’option réputée avoir été exercée en application des paragraphes 23(2) ou (3) de la Loi;
+	- **c)** le choix relatif aux cotisations complémentaires fait au titre de l’article 14.2.
+
+- **(2)** Le contributeur qui révoque une option peut en exercer une nouvelle en vertu de l’une ou l’autre des dispositions suivantes :
+	- **a)** celles visées à l’alinéa (1)a);
+	- **b)** celles qu’il pouvait invoquées à la date précédant celle où l’option visée à l’alinéa (1)b) était réputée avoir été exercée.
+
+- **(3)** Le contributeur qui révoque un choix relatif aux cotisations complémentaires fait au titre de l’article 14.2 peut en faire un nouveau au titre de cette disposition.
+> DORS/92-717, art. 10; DORS/2016-64, art. 32.
 
 
 
 
-**24** Un choix visé aux articles 17 à 19 de la Loi ne peut être annulé ni un nouveau choix fait selon l’article 23, sauf si
-- **a)** le contributeur demande au ministre d’annuler son choix et d’en faire un nouveau dans les trois mois du jour où il s’est rendu compte qu’il avait reçu des renseignements erronés ou trompeurs ou, dans le cas d’un contributeur qui a cessé d’être membre de la force régulière, avant le 10 juin 1976, dans tout délai prescrit par le ministre;
-- **b)** le contributeur :
-	- **(i)** dans le cas où il a fait un choix en vertu des articles 17 à 19 de la Loi, a fait celui-ci sur la foi des renseignements erronés ou trompeurs visés à l’article 23 et aurait, s’il n’avait pas reçu ces renseignements, fait un choix différent de prestations selon la Loi ou aurait fait un choix plus tôt,
-	- **(ii)** dans le cas où il est réputé avoir fait un choix en vertu de l’article 10 de la Loi, s’est abstenu, à cause de la réception des renseignements erronés ou trompeurs visés à l’article 23, d’exercer un choix aux termes de l’article 10 de la Loi et aurait, s’il n’avait pas reçu ces renseignements, exercé un choix en faveur de prestations autres que celles faisant l’objet du choix qu’il est réputé avoir fait; et
-- **c)** sous réserve de l’article 26, le contributeur rembourse, dans les 30 jours de l’avis du ministre portant sur le montant à rembourser, les paiements qui lui ont été versés au titre des prestations payables pendant la durée d’effet du choix qu’il a ou qu’il est censé avoir fait selon les articles 17 à 19 de la Loi.
-> DORS/86-1079, art. 2; DORS/92-717, art. 10.
+**24** 
+
+- **(1)** Les options et le choix visés à l’article 23 ne peuvent être révoqués que si les conditions ci-après sont réunies :
+	- **a)** le contributeur en demande la révocation dans les quatre-vingt-dix jours suivant la date où il s’est rendu compte qu’il avait reçu des renseignements erronés ou trompeurs;
+	- **b)** la demande de révocation est faite par écrit, datée, signée et envoyée au ministre ou à la personne désignée par celui-ci, dans la semaine suivant la date qui y figure;
+	- **c)** le contributeur établit qu’en exerçant l’option ou en faisant le choix, il a agi sur la foi des renseignements erronés ou trompeurs sans lesquels il n’aurait pas exercé l’option ou fait le choix ou l’aurait fait à une date différente;
+	- **d)** il existe un écart d’au moins cinq pour cent entre le montant véritable de la prestation et celui auquel le contributeur aurait eu droit selon ces renseignements;
+	- **e)** sous réserve de l’article 26, le contributeur rembourse, au plus tard le cent vingtième jour suivant la date de l’avis l’informant de la somme à rembourser, les paiements qui lui ont été versés au titre des prestations résultant de l’option ou du choix pour lesquels la révocation est demandée.
+
+- **(2)** Le contributeur qui exerce une nouvelle option ou fait un nouveau choix ajoute à sa demande de révocation le document constatant l’option ou le choix.
+
+- **(3)** La date d’envoi de la demande de révocation, et la date de la nouvelle option ou du nouveau choix si le contributeur choisit d’en exercer une ou d’en faire un, est celle de la livraison ou, si la demande ou l’option ou le choix sont postés, celle de la mise à la poste, le cachet postal en faisant foi.
+> DORS/86-1079, art. 2; DORS/92-717, art. 10; DORS/2016-64, art. 32.
 
 
 
 
-**25** Lorsque le ministre consent à annuler un choix et permet d’en faire un autre selon l’article 23, ce nouveau choix est censé entrer en vigueur à la date où le premier choix a été ou est censé avoir été fait selon la Loi, sauf indication contraire du ministre.
+**25** Lorsqu’une nouvelle option est exercée en vertu du paragraphe 23(2) ou un nouveau choix fait en vertu du paragraphe 23(3), la nouvelle option ou le nouveau choix prend effet à la date où l’un des cas ci-après se produit :
+- **a)** l’option révoquée a été exercée ou le choix révoqué a été fait;
+- **b)** l’option aurait été exercée ou le choix aurait été fait, si le contributeur a établi que, en vertu de l’alinéa 24(1)c), il l’aurait exercé ou fait à une date différente;
+- **c)** le contributeur cesse d’être membre de la force régulière, dans le cas de l’option réputée avoir été exercée qui est visée à l’alinéa 23(1)b).
+> DORS/2016-64, art. 32.
 
 
 
-**26** Lorsque le nouveau choix visé à l’article 23 comporte le paiement d’une annuité et que, de l’avis du ministre, le contributeur serait exposé à des embarras financiers en étalant ses remboursements sur la période indiquée à l’alinéa 24c), la dette peut être remboursée par mensualités d’un montant déterminé par le ministre, par retenues sur l’annuité payable aux termes du nouveau choix, ces retenues ne devant en aucun cas être inférieures à 10 pour cent du montant mensuel brut de cette annuité.
+
+**26** Lorsque le versement d’une annuité ou d’une allocation annuelle résulte de la nouvelle option ou du nouveau choix et si le remboursement visé à l’alinéa 24(1)e) dans le délai prévu à ce paragraphe causera au contributeur des difficultés financières, les prestations sont remboursées à compter du mois suivant la date de l’avis visé à cet alinéa, par retenues mensuelles prélevées sur cette annuité ou cette allocation annuelle. Ces retenues correspondent à au moins dix pour cent du montant mensuel brut de l’annuité ou de l’allocation annuelle.
+> DORS/2016-64, art. 32.
+
 
 
 
@@ -1083,12 +1117,12 @@ d’un membre des Forces canadiennes ou d’un fonctionnaire habituellement char
 ### Reliquats débiteurs aux comptes de solde
 
 
-**27** Aux fins de l’application de l’article 53 de la Loi, un reliquat débiteur au compte de solde d’un ancien membre de la force régulière doit être recouvré
-- **a)** sur tout remboursement de contributions ou toute allocation de cessation en espèces auxquels ledit ancien membre a droit, en une somme globale; ou
-- **b)** sur toute annuité à laquelle ledit ancien membre a droit, par mensualités d’un montant égal à 10 pour cent du montant mensuel net de son annuité ou, par mensualités d’un montant égal à un taux d’au plus 50 pour cent du montant mensuel net de l’annuité, taux que peut déterminer le ministre, lorsque le reliquat débiteur figure au compte de solde parce que ledit ancien membre a, directement ou indirectement,
-	- **(i)** volé ou obtenu frauduleusement des fonds publics ou non publics, ou
-	- **(ii)** obtenu frauduleusement ou accepté sciemment un trop-payé de solde et d’allocations.
-> DORS/92-717, art. 10.
+**27** Pour l’application de l’article 89 de la Loi, le reliquat débiteur au compte de solde d’un ancien membre de la force régulière ou de la force de réserve doit être recouvré :
+- **a)** soit sur tout remboursement de contributions ou toute valeur de transfert auquel cet ancien membre a droit, en une somme globale;
+- **b)** soit sur toute annuité ou allocation annuelle à laquelle l’ancien membre a droit, de l’une ou l’autre des manières suivantes :
+	- **(i)** par mensualités d’une somme égale à dix pour cent du montant mensuel brut de l’annuité ou de l’allocation annuelle,
+	- **(ii)** par mensualités d’une somme égale à cinquante pour cent du montant mensuel brut de l’annuité ou de l’allocation annuelle, s’il a été reconnu coupable d’une infraction à la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) ou au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) qui a conduit, directement ou indirectement, au reliquat débiteur.
+> DORS/92-717, art. 10; DORS/2016-64, art. 32.
 
 
 
@@ -1105,29 +1139,29 @@ d’un membre des Forces canadiennes ou d’un fonctionnaire habituellement char
 
 - **(2)** La date où le contributeur exerce l’option ou fait le choix est celle qui figure sur le document; toutefois, dans le cas où l’option visée au paragraphe 19(1) est exercée le jour où le contributeur cesse d’être membre de la force régulière ou avant celui-ci, la date qui figure sur le document est réputée être le lendemain du jour où le contributeur cesse d’être membre de la force régulière.
 
-- **(3)** La date d’envoi du document est celle de sa livraison ou, s’il est posté, celle de sa mise à la poste, la date du cachet en faisant foi.
+- **(3)** La date d’envoi du document est celle de sa livraison ou, s’il est posté, celle de sa mise à la poste, le cachet postal en faisant foi.
 
 - **(4)** Le choix relatif aux cotisations complémentaires est fait pendant que le contributeur est membre de la force régulière.
-> DORS/2007-33, art. 12; DORS/2008-307, art. 13.
+> DORS/2007-33, art. 12; DORS/2008-307, art. 13; DORS/2016-64, art. 53.
 
 
 
 
-**27.2** À l’égard du contributeur membre de la force de réserve qui a fait un choix en vertu de l’une des divisions 6b)(ii)(A) à (F) ou (I) à (L) de la Loi, des divisions 6b)(ii)(G) et (H) de la Loi, dans leur version adaptée par le paragraphe 12.2(2) du présent règlement ou du paragraphe 41(4) de la Loi, le paragraphe 8(1) de la Loi est adapté de la façon suivante :
+**27.2** À l’égard du contributeur membre de la force de réserve qui a fait un choix en vertu de l’une des divisions 6b)(ii)(A) à (F) et (I) à (L) de la Loi, des divisions 6b)(ii)(G) et (H) de la Loi, dans leur version adaptée par le paragraphe 12.2(2) du présent règlement, ou du paragraphe 41(4) de la Loi, dans sa version adaptée par l’article 8.4 du présent règlement, le paragraphe 8(1) de la Loi est adapté de la façon suivante :
 **8** 
 
-- **(1)** Sous peine de nullité, le contributeur qui fait un choix en vertu de l’une des divisions 6b)(ii)(A) à (F) ou (I) à (L) de la Loi, des divisions 6b)(ii)(G) et (H) de la Loi, dans leur version adaptée par le paragraphe 12.2(2) du Règlement sur la pension de retraite des Forces canadiennes ou du paragraphe 41(4) de la Loi :
+- **(1)** Le contributeur membre de la force de réserve qui fait un choix en vertu de l’une des divisions 6b)(ii)(A) à (F) et (I) à (L), des divisions 6b)(ii)(G) et (H), dans leur version adaptée par le paragraphe 12.2(2) du Règlement sur la pension de retraite des Forces canadiennes, ou du paragraphe 41(4), dans sa version adaptée par l’article 8.4 de ce règlement :
 	- **a)** le fait par écrit et date et signe le document;
-	- **b)** envoie le document au ministre dans la semaine suivant la date qui y figure.
+	- **b)** envoie le document au ministre ou à la personne désignée par celui-ci dans la semaine suivant la date qui y figure.
 
 - **(1.1)** La date où le contributeur fait le choix est celle qui figure sur le document.
 
-- **(1.2)** La date d’envoi du document est celle de sa livraison ou, s’il est posté, celle de sa mise à la poste, la date du cachet en faisant foi.
+- **(1.2)** La date d’envoi du document est celle de sa livraison ou, s’il est posté, celle de sa mise à la poste, le cachet postal en faisant foi.
 
 - **(1.3)** Le choix doit être fait pendant que le contributeur est membre de la force régulière.
 
 
-> DORS/2007-33, art. 12.
+> DORS/2007-33, art. 12; DORS/2016-64, art. 33 et 53.
 
 
 
@@ -1174,7 +1208,7 @@ calculées à la date de la directive du ministre, conformément à la Table de 
 
 **33** 
 
-- **(1)** Lorsqu’au décès d’un contributeur, toute allocation annuelle devient payable, en vertu de la Loi, à un successeur, une demande par écrit peut être adressée au ministre par le successeur ou en son nom en vue d’obtenir que soit payée sur le Compte de pension de retraite la totalité ou toute fraction de cette partie de tous impôts sur biens transmis par décès ou de tous droits successoraux que doit acquitter le successeur au titre de ladite allocation, et lorsque le ministre ordonne, en conformité de la demande, que la totalité ou toute partie de ces impôts ou droits ainsi payables soit acquittée sur le Compte de pension de retraite, la portion maximum desdits impôts ou droits qui peut être ainsi acquittée est la proportion
+- **(1)** Lorsqu’au décès d’un contributeur, toute allocation annuelle devient payable, en vertu de la Loi, à un successeur, une demande par écrit peut être adressée au ministre par le successeur ou en son nom en vue d’obtenir que soit payée sur le Compte de pension de retraite ou la Caisse de retraite des Forces canadiennes la totalité ou toute fraction de cette partie de tous impôts sur biens transmis par décès ou de tous droits successoraux que doit acquitter le successeur au titre de ladite allocation, et lorsque le ministre ordonne, en conformité de la demande, que la totalité ou toute partie de ces impôts ou droits ainsi payables soit acquittée sur le Compte de pension de retraite ou la Caisse de retraite des Forces canadiennes, la portion maximum desdits impôts ou droits qui peut être ainsi acquittée est la proportion
 	- **a)** de la valeur que l’allocation payable au successeur représente
 par rapport à
 	- **b)** la valeur de l’entière succession,
@@ -1185,12 +1219,12 @@ calculée aux fins de déterminer lesdits droits ou impôts payables à leur ég
 	- **b)** lorsque l’allocation est payable par versements trimestriels, de 1/4 d’un montant,
 	- **c)** lorsque l’allocation est payable par versements semestriels, de 1/2 d’un montant, et
 	- **d)** lorsque l’allocation est payable annuellement, de la totalité d’un montant
-déterminé en divisant le montant desdits droits ou impôts payés sur le Compte de pension de retraite par la valeur d’une rente de 1 $ par année payable mensuellement, trimestriellement, semestriellement ou annuellement, selon la manière dont l’allocation est payable, à une personne du même âge que le successeur à la date du paiement desdits droits ou impôts sur le Compte de pension de retraite, calculée
+déterminé en divisant le montant desdits droits ou impôts payés sur le Compte de pension de retraite ou la Caisse de retraite des Forces canadiennes par la valeur d’une rente de 1 $ par année payable mensuellement, trimestriellement, semestriellement ou annuellement, selon la manière dont l’allocation est payable, à une personne du même âge que le successeur à la date du paiement desdits droits ou impôts sur le Compte de pension de retraite ou la Caisse de retraite des Forces canadiennes, calculée
 	- **e)** dans le cas d’une allocation payable au survivant du contributeur, d’après la Table a (f) Ultimate, avec intérêt au taux de quatre pour cent par année; et
 	- **f)** dans le cas d’une allocation payable à un enfant du contributeur, à un taux d’intérêt de quatre pour cent par année, la table de mortalité n’entrant pas en ligne de compte.
 
 - **(3)** Dans le cas où l’allocation annuelle d’un successeur a été réduite pour un terme en vertu du présent article et a été suspendue, avant l’expiration du terme, en vertu de l’article 27 de la Loi dans sa version au 28 juin 1989, et qu’elle est remise en vigueur à un moment donné, il faut la réduire pour un terme égal au terme ou au reste du terme, selon le cas, durant lequel l’allocation annuelle aurait été réduite si elle n’avait pas été suspendue. Cette réduction doit être faite dans la même mesure et de la même manière que celle faite immédiatement avant la suspension.
-> DORS/2001-76, art. 6 et 9.
+> DORS/2001-76, art. 6 et 9; DORS/2016-64, art. 50.
 
 
 
@@ -1214,7 +1248,7 @@ déterminé en divisant le montant desdits droits ou impôts payés sur le Compt
 
 
 **35** Le président du Conseil des pensions militaires peut émettre les instructions et prescrire les formules qu’il juge nécessaires pour que l’article 49 de la Loi prenne effet.
-> DORS/92-717, art. 10.
+> DORS/92-717, art. 10; DORS/2016-64, art. 56(A).
 
 
 
@@ -1308,18 +1342,11 @@ plus
 ## Formules
 
 
-**38** 
-
-- **(1)** Les formules suivantes sont prescrites pour les fins des articles pertinents de la Loi mentionnés ci-après :
-	- **a)** Formule LPRFC 100 (Choix de contribuer pour du service antérieur ouvrant droit à pension/Choix de rembourser l’annuité ou la pension reçues pendant la période de service accompagné d’option) — alinéa 6b) et paragraphes 41(4), 42(1) et 43(1) de la Loi;
-	- **b)** Formule LPRFC 102 (Option de renoncer au droit de payer lors de la retraite pour du service non contributoire dans les forces régulières) — paragraphe 9(3) de la Loi;
-	- **c)** Formule LPRFC 103 (Option de renoncer à une annuité ou allocation annuelle prévue par la [Loi sur la pension de la Fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) ou la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md)) — paragraphe 46(2) de la Loi.
-
-- **(2)** Les formules suivantes sont prescrites pour l’application des articles pertinents du présent règlement, dont mention est faite ci-dessous :
-	- **a)** Formule LPRFC 105 (Demande de réduction de versements) — paragraphe 14(4);
-	- **b)** Formule LPRFC 106 (Renonciation au droit de compter du service ouvrant droit à pension non accompagné d’option) — paragraphe 11(2);
-	- **c)** Formule LPRFC 107 (Révocation du choix de payer pour du service antérieur ouvrant droit à pension) — paragraphe 13(7).
-> DORS/92-717, art. 10; DORS/95-570, art. 2 et 8 à 12(F).
+**38** Pour l’application des dispositions de la Loi ou du présent règlement, les formules réglementaires ci-après s’appliquent :
+- **a)** s’agissant de l’alinéa 6b) et des paragraphes 42(1) et 43(1) de la Loi, ainsi que du paragraphe 41(4) de la Loi, dans sa version adaptée par l’article 8.4 du présent règlement, la formule LPRFC 100 (Choix de contribuer pour du service antérieur ouvrant droit à pension/Choix de rembourser l’annuité ou la pension reçues pour la période de service accompagnée d’option);
+- **b)** s’agissant du paragraphe 46(2) de la Loi, la formule LPRFC 103 (Option de renoncer à une annuité ou allocation annuelle prévue par la [Loi sur la pension de la Fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) ou la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md));
+- **c)** s’agissant du paragraphe 11(2.1) du présent règlement, la formule LPRFC 106 (Renonciation au droit de compter du service sans solde comme service ouvrant droit à pension).
+> DORS/92-717, art. 10; DORS/95-570, art. 2 et 8 à 12(F); DORS/2016-64, art. 34.
 
 
 
@@ -1352,15 +1379,29 @@ plus
 
 
 
+**40.1** À l’égard du membre de la force de réserve considéré comme un membre de la force régulière en vertu du paragraphe 8.1(1), l’alinéa e) de la définition de ***participant*** au paragraphe 60(1) de la Loi est adapté de la façon suivante :
+
+- **e)** personne qui a fait un choix prévu au paragraphe 6.1(1), autre que le membre de la force de réserve considéré comme un membre de la force régulière en vertu du paragraphe 8.1(1) du Règlement sur la pension de retraite des Forces canadiennes.
+
+
+> DORS/2016-64, art. 35.
+
+
+
+
 
 ### Participants absents de leur service
 
 
 **41** Les contributions qu’un participant qui est absent de son service est tenu de verser correspondent à un montant égal au montant qu’il serait tenu de verser s’il n’était pas ainsi absent.
+> DORS/2016-64, art. 55(A).
+
 
 
 
 **42** Lorsqu’un participant est absent de son service par congé et touche sa solde et ses allocations durant la période où il est absent, les contributions qu’il est tenu de verser devront, durant la période où il est ainsi absent, être acquittées conformément à l’article 41.
+> DORS/2016-64, art. 55(A) et 57(A).
+
 
 
 
@@ -1368,15 +1409,17 @@ plus
 
 - **(1)** Lorsqu’un participant est absent de son service par congé mais ne touche pas de solde et d’allocations au titre ou à l’égard de la période, ou de toute partie de celle-ci, durant laquelle il est ainsi absent, il doit acquitter les contributions qu’il est tenu de verser, aux époques et de la manière que le ministre prescrira à l’occasion, et toute partie des contributions non versée durant son absence devra être acquittée par le participant lorsqu’il reprendra son service, par retenue sur sa solde et ses allocations conformément au paragraphe (2).
 
-- **(2)** Lorsqu’un participant reprend son service après avoir été absent par congé et n’a pas versé les contributions qu’il est tenu d’acquitter à l’égard de la période ou de toute partie de la période où il a été ainsi absent, le montant de contributions applicable sera recouvré par retenues mensuelles prélevées sur son compte de solde, durant une période ne dépassant pas six mois, par montants non inférieurs aux montants qu’il était tenu de verser pendant qu’il était absent, sauf que, dans des circonstances exceptionnelles, il est loisible au ministre de prolonger la période durant laquelle les contributions seront recouvrées.
+- **(2)** Lorsque le participant reprend son service après avoir été absent par congé et qu’il n’a pas versé les contributions qu’il est tenu de verser à l’égard de la période ou de toute partie de la période où il a été ainsi absent, le montant de contributions applicable est recouvré par retenues mensuelles prélevées sur la solde du participant, durant une période ne dépassant pas six mois, par sommes non inférieures aux sommes que celui-ci était tenu de verser pendant qu’il était absent.
 
 - **(3)** Nonobstant toute disposition du présent article, lorsqu’un participant qui a été absent par congé et a repris son service verse le montant de contributions applicable à l’égard d’une période pendant laquelle il a été ainsi absent par retenues sur sa solde et ses allocations, il peut acquitter en une somme globale, à toute époque à l’expiration de la période durant laquelle les contributions doivent être recouvrées sur sa solde et ses allocations, le montant dont il est redevable pour la période durant laquelle il a été ainsi absent.
-> DORS/95-570, art. 4(F).
+> DORS/95-570, art. 4(F); DORS/2016-64, art. 36, 54(A), 55(A) et 57(A).
 
 
 
 
-**44** Lorsqu’un participant est absent sans autorisation pour une durée dépassant 21 jours consécutifs, il est réputé avoir cessé d’être membre des forces régulières le dernier jour du mois où survient le 22<sup>e</sup> jour consécutif où il a été ainsi absent, à moins que son absence ne cesse au plus tard le dernier jour dudit mois.
+**44** Lorsqu’un participant est absent sans autorisation pour une durée dépassant 21 jours consécutifs, il est réputé avoir cessé d’être membre de la force régulière le dernier jour du mois où survient le 22<sup>e</sup> jour consécutif où il a été ainsi absent, à moins que son absence ne cesse au plus tard le dernier jour dudit mois.
+> DORS/2016-64, art. 52(F) et 55(A).
+
 
 
 
@@ -1412,16 +1455,14 @@ plus
 	- **a)** dans le cas du participant qui a cessé d’être membre de la force régulière avant le 1<sup>er</sup> novembre 1992, au plus tard le 30<sup>e</sup> jour qui suit l’anniversaire du jour où il a cessé d’être membre de la force régulière;
 	- **b)** dans le cas du participant qui cesse d’être membre de la force régulière le 1<sup>er</sup> novembre 1992 ou après cette date, quant à la première contribution, au plus tard le 30<sup>e</sup> jour qui suit le jour où il a cessé d’être membre de la force régulière et, quant aux contributions subséquentes, au plus tard le 30<sup>e</sup> jour qui suit l’anniversaire du jour où il a cessé d’être membre de la force régulière.
 
-- **(10)** Dans le cas où le consentement préalable du Conseil du Trésor est requis pour le versement au participant volontaire d’une annuité visée par la Loi ou d’une pension visée par la [Loi sur la continuation de la pension des services de défense](/fr/Lois/Lois%20du%20Canada/1970/ch.%20D-3.md) et qu’il refuse d’accorder son consentement, les contributions doivent être versées comme suit :
-	- **a)** dans le cas de la première contribution payable aux termes de l’alinéa (7)a), le 30<sup>e</sup> jour suivant le jour de la décision du Conseil du Trésor;
-	- **b)** dans le cas des contributions subséquentes, le 30<sup>e</sup> jour qui suit l’anniversaire du jour où le participant volontaire a cessé d’être membre de la force régulière.
+- **(10)** [Abrogé, DORS/2016-64, art. 37]
 
 - **(11)** Les contributions payables aux termes des paragraphes (1), (4) et (6) et de l’alinéa (7)b) sont retenues sur l’annuité ou la pension visée à ces paragraphes ou à cet alinéa, selon le cas.
 
 - **(12)** Lorsqu’un participant volontaire a versé une contribution en vertu de la partie II de la Loi à l’égard d’une période supérieure à un mois et qu’avant la fin de cette période, il devient, selon la Loi ou la partie II de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), un participant autre qu’un participant volontaire, il lui est remboursé un montant égal à la fraction de sa dernière contribution, cette fraction étant fixée de la façon suivante :
 	- **a)** le numérateur est le nombre de mois civils complets qui resteraient jusqu’à l’échéance de sa prochaine contribution s’il était demeuré participant volontaire;
 	- **b)** le dénominateur est le nombre total de mois civils à l’égard desquels il a versé la contribution.
-> DORS/92-717, art. 5.
+> DORS/92-717, art. 5; DORS/2016-64, art. 37.
 
 
 
@@ -1432,10 +1473,10 @@ plus
 
 **46** 
 
-- **(1)** Lorsqu’un participant cesse d’être membre des forces régulières sans devenir participant de la fonction publique, toutes contributions dont il est redevable à la date où il cesse d’être membre des forces régulières pourront être retenues en une somme globale, ou par versements, sur toutes sommes payables à lui ou pour son compte à toute époque par Sa Majesté ou pour le compte de celle-ci.
+- **(1)** Lorsqu’un participant cesse d’être membre de la force régulière sans devenir participant de la fonction publique, toutes contributions dont il est redevable à la date où il cesse d’être membre de la force régulière pourront être retenues en une somme globale, ou par versements, sur toutes sommes payables à lui ou pour son compte à toute époque par Sa Majesté ou pour le compte de celle-ci.
 
 - **(2)** Lorsque meurt un participant volontaire, toutes contributions dont il est redevable à la date de son décès pourront être retenues sur toutes sommes payables à lui ou pour son compte à toute époque par Sa Majesté ou pour le compte de celle-ci.
-> DORS/92-717, art. 8(F) et 9(F); DORS/95-570, art. 4(F).
+> DORS/92-717, art. 8(F) et 9(F); DORS/95-570, art. 4(F); DORS/2016-64, art. 51(A), 52(F), 54(A), 55(A) et 57(A).
 
 
 
@@ -1444,7 +1485,9 @@ plus
 ### Service sensiblement ininterrompu
 
 
-**47** Lorsque, durant toute période pertinente, une personne cesse d’être membre des forces régulières et redevient membre dans les trois mois qui suivent le jour où elle a cessé d’être membre, son service dans les forces régulières durant cette période est réputé, au sens de la partie II de la Loi, être sensiblement ininterrompu.
+**47** Lorsque, durant toute période pertinente, une personne cesse d’être membre de la force régulière et redevient membre dans les trois mois qui suivent le jour où elle a cessé d’être membre, son service dans la force régulière durant cette période est réputé, au sens de la partie II de la Loi, être sensiblement ininterrompu.
+> DORS/2016-64, art. 52(F), 54(A) et 55(A).
+
 
 
 
@@ -1455,6 +1498,8 @@ plus
 **48** Aux fins de la partie II de la Loi, lorsqu’une augmentation rétroactive de la solde d’un participant est autorisée, cette augmentation sera censée avoir commencé à être reçue par le participant le premier jour du mois au cours duquel
 - **a)** le gouverneur en conseil ou le Conseil du Trésor, selon le cas, a approuvé cette augmentation; ou
 - **b)** dans le cas où l’approbation du gouverneur en conseil ou du Conseil du Trésor n’est pas requise, l’approbation écrite de cette augmentation a été dûment donnée par les autorités compétentes.
+> DORS/2016-64, art. 57(A).
+
 
 
 
@@ -1483,6 +1528,8 @@ plus
 - **(3)** Un état de service dans les Forces canadiennes ou toute formule prescrite par le ministre en vertu de la Loi ne sera pas admis comme preuve d’âge.
 
 - **(4)** Un participant doit, sur mise en demeure du ministre, produire une preuve quant à son âge.
+> DORS/2016-64, art. 54(A).
+
 
 
 
@@ -1490,24 +1537,33 @@ plus
 ### Options
 
 
-**50** Toute option exercée par une personne, conformément à l’article 62 de la Loi, doit être établie par elle par écrit, en la forme prescrite par le ministre, signée par la personne exerçant l’option, et l’original doit en être remis ou renvoyé par poste recommandée au ministre, dans le délai prescrit par la Loi pour l’exercice d’une telle option.
-> DORS/92-717, art. 10.
+**50** 
+
+- **(1)** Le choix fait en vertu de l’article 62 de la Loi est fait par écrit, daté, signé et envoyé au ministre ou à la personne désignée par celui-ci, dans la semaine suivant la date du document le constatant.
+
+- **(2)** La date du choix est celle qui figure sur le document constatant le choix.
+
+- **(3)** La date d’envoi du document constatant le choix est celle de la livraison ou, si le document est posté, celle de la mise à la poste, le cachet postal en faisant foi.
+> DORS/92-717, art. 10; DORS/2016-64, art. 38.
 
 
 
 
 
-### Dates officielles où commence et se termine l’état de membre des forces régulières
+### Dates officielles où commence et se termine l’état de membre de la force régulière
+> [DORS/2016-64, art. 52(F)]
 
 
-**51** Aux fins de la partie II de la Loi,
-- **a)** la date officielle où quelqu’un devient membre des forces régulières est,
-	- **(i)** sous réserve du sous-alinéa (ii), le jour où il s’est engagé dans lesdites forces,
-	- **(ii)** lorsque, pour des raisons personnelles, il est accordé à un officier ou homme de troupe un congé sans solde et allocations à compter du jour où il s’engage dans lesdites forces ou du jour qui suit immédiatement ce jour-là, le premier jour où il se présente pour service continu à plein temps après l’expiration de ce congé,
-	- **(iii)** lorsqu’il est réputé avoir cessé d’être membre de ces forces, en vertu de l’article 44, le jour où il cesse d’être absent sans autorisation, et
-	- **(iv)** lorsqu’il est réputé être redevenu membre desdites forces, en vertu des paragraphes 41(2) ou (3) de la Loi, le premier jour du mois qui suit le mois où la période de service à plein temps mentionnée audit paragraphe a vraiment pris fin; et
-- **b)** la date officielle où une personne (autre qu’un participant des forces régulières volontaire) cesse d’être membre des forces régulières est le dernier jour du mois pour lequel elle est ou était tenue de contribuer au Compte de prestations de décès des forces régulières.
-> DORS/92-717, art. 9(F) et 10.
+
+**51** Pour l’application de la partie II de la Loi :
+- **a)** une personne est membre de la force régulière à partir de l’une ou l’autre des dates suivantes :
+	- **(i)** sa date d’enrôlement dans la force régulière,
+	- **(ii)** la date où elle se présente pour le service continu à plein temps après l’expiration d’un congé sans solde ni indemnités si, pour des raisons personnelles, il lui est accordé un congé commençant à la date d’enrôlement dans la force régulière ou à la date qui suit immédiatement cette date d’enrôlement,
+	- **(iii)** la date où cesse son absence sans autorisation, si elle est réputée avoir cessé d’être membre de la force régulière par application de l’article 44,
+	- **(iv)** le premier jour du mois qui suit le mois où la période de service à plein temps visée aux paragraphes 41(2) ou (3) de la Loi a pris fin, si elle est réputée, par application de l’un ou l’autre de ces paragraphes, s’être enrôlée de nouveau dans la force régulière;
+- **b)** une personne autre qu’un participant volontaire cesse d’être membre de la force régulière le dernier jour du mois pour lequel elle est ou était tenue de contribuer au compte des prestations de décès de la force régulière;
+- **c)** le membre décrit à l’alinéa b) de la définition de ***participant*** au paragraphe 60(1) de la Loi cesse d’être un participant le dernier jour du mois au cours duquel il cesse de correspondre à cette définition.
+> DORS/92-717, art. 9(F) et 10; DORS/2016-64, art. 39.
 
 
 
@@ -1517,9 +1573,9 @@ plus
 
 
 **52** Les époques auxquelles se feront les réductions prévues à la définition ***prestations de base*** au paragraphe 60(1) de la Loi sont les suivantes :
-- **a)** dans le cas d’un participant volontaire qui a cessé d’être membre des forces régulières et qui n’a pas droit à une annuité ou à une pension en vertu de la Loi ou de la [Loi sur la continuation de la pension des services de défense](/fr/Lois/Lois%20du%20Canada/1970/ch.%20D-3.md), chaque réduction se fera à chaque anniversaire du jour (qui est ou qui suit le 61<sup>e</sup> anniversaire de naissance du participant, suivant celui qui survient le premier), auquel une contribution annuelle en vertu de la Loi est payable; et
+- **a)** dans le cas d’un participant volontaire qui a cessé d’être membre de la force régulière et qui n’a pas droit à une annuité ou à une pension en vertu de la Loi ou de la [Loi sur la continuation de la pension des services de défense](/fr/Lois/Lois%20du%20Canada/1970/ch.%20D-3.md), chaque réduction se fera à chaque anniversaire du jour (qui est ou qui suit le 61<sup>e</sup> anniversaire de naissance du participant, suivant celui qui survient le premier), auquel une contribution annuelle en vertu de la Loi est payable; et
 - **b)** dans tout cas, autre que les cas mentionnés à l’alinéa a), chaque réduction se fera le premier jour d’avril ou le premier jour d’octobre, soit celle de ces dates qui suit immédiatement chaque anniversaire de naissance du participant à partir de son 61<sup>e</sup>.
-> DORS/92-717, art. 9(F) et 10.
+> DORS/92-717, art. 9(F) et 10; DORS/2016-64, art. 52(F) et 54(A).
 
 
 
@@ -1557,8 +1613,8 @@ plus
 ### Dispositions diverses
 
 
-**55** À partir du trimestre de l’exercice qui se termine le 31 mars 1974, l’intérêt sera crédité au Compte de prestations de décès des forces régulières le dernier jour des mois de juin, septembre, décembre et mars, pour chaque trimestre de chaque exercice et sera calculé au taux indiqué au paragraphe 36(2) du présent règlement sur le solde créditeur du Compte le dernier jour du trimestre précédent.
-> DORS/2001-131, art. 2(F).
+**55** À partir du trimestre de l’exercice qui se termine le 31 mars 1974, l’intérêt sera crédité au compte des prestations de décès de la force régulière le dernier jour des mois de juin, septembre, décembre et mars, pour chaque trimestre de chaque exercice et sera calculé au taux indiqué au paragraphe 36(2) du présent règlement sur le solde créditeur du Compte le dernier jour du trimestre précédent.
+> DORS/2001-131, art. 2(F); DORS/2016-64, art. 40(F).
 
 
 
@@ -1572,7 +1628,7 @@ plus
 - **(2)** Tout document délivré à un participant par choix en vertu du paragraphe (1) doit être signé par le Chef de l’État-major de la Défense ou par une personne par lui autorisée à signer lesdits documents en son nom.
 
 - **(3)** La signature sur tout document délivré à des participants par choix en vertu du paragraphe (1) peut être imprimée, peinte, gravée, lithographiée, photographiée ou représentée ou reproduite par tout mode de représentation ou de reproduction de la signature du Chef de l’État-major de la Défense ou de la personne autorisée, de façon visible.
-> DORS/92-717, art. 9(F).
+> DORS/92-717, art. 9(F); DORS/2016-64, art. 41(A) et 55(A).
 
 
 
@@ -1608,7 +1664,7 @@ plus
 	- **b)** soit sensiblement faux ou trompeurs au sujet du montant de la réduction de son annuité ou au sujet du montant de l’allocation annuelle immédiate à laquelle aurait droit son conjoint.
 
 - **(2)** Le choix visé au paragraphe (1) se fait dans les trois mois suivant la date à laquelle un avis écrit indiquant les renseignements corrigés est envoyé au contributeur.
-> DORS/94-276, art. 1.
+> DORS/94-276, art. 1; DORS/2016-64, art. 51(A).
 
 
 
@@ -1766,7 +1822,7 @@ plus
 	- **b)** dans les trois mois suivant la date à laquelle l’annuité a été révisée en application de la [Loi sur le partage des prestations de retraite](/fr/Lois/Lois%20du%20Canada/1992/ch.%2046,%20ann.%20II.md).
 
 - **(4)** La révision du niveau de réduction ou la révocation du choix prend effet à la date où le document qui la constate est envoyé conformément au paragraphe (3).
-> DORS/94-276, art. 1.
+> DORS/94-276, art. 1; DORS/2016-64, art. 51(A).
 
 
 
@@ -1820,6 +1876,27 @@ plus
 
 **75** L’allocation annuelle immédiate à laquelle est admissible le conjoint au décès du contributeur ayant effectué un choix est égale au montant déterminé conformément à la division 66(1)b)(ii)(B), interprétée comme si l’alinéa 66(1)b) ne faisait pas mention des prestations supplémentaires payables en vertu de la partie III de la Loi.
 > DORS/94-276, art. 1.
+
+
+
+
+
+## Révision en vertu du paragraphe 93(1) de la Loi
+
+
+**76** 
+
+- **(1)** La demande de révision faite en vertu du paragraphe 93(1) de la Loi est faite au ministre par écrit et contient les renseignements suivants :
+	- **a)** les nom et numéro matricule ou numéro de pension du membre ou de l’ancien membre de la force régulière ou de la force de réserve dont le service donne ou lui a donné droit à ces prestations;
+	- **b)** les détails de la décision à réviser;
+	- **c)** l’exposé des faits sur lesquels elle repose, ainsi que ses motifs.
+
+- **(2)** Le ministre peut, lorsque la personne ayant fait la demande a omis de fournir suffisamment de renseignements pour lui permettre de réviser la décision, demander des renseignements additionnels.
+
+- **(3)** La personne fournit les renseignements demandés au plus tard le trentième jour suivant la date de la demande.
+
+- **(4)** Le ministre accorde une prolongation raisonnable du délai si la personne établit qu’elle n’a pas pu respecter celui-ci en raison de circonstances indépendantes de sa volonté.
+> DORS/2016-64, art. 42.
 
 
 
@@ -2517,7 +2594,7 @@ Le chef d’état-major de la défense,
 _________________________
 
 
->  DORS/92-717, art. 6; DORS/97-255, art. 4(A).
+>  DORS/92-717, art. 6; DORS/97-255, art. 4(A); DORS/2016-64, art. 51(A).
 
 
 
@@ -2527,521 +2604,348 @@ _________________________
 ### **FORMULE LPRFC 100** 
 ## Loi sur la pension de retraite des Forces canadiennes
 ## Choix de contribuer pour du service antérieur ouvrant droit à pension/Choix de rembourser l’annuité ou la pension reçues pour la période de service accompagné d’option
-## (La présente formule de choix, dûment remplie, doit être transmise, dans le délai prévu, à un commandant ou autre personne désignée par le ministre.)
-
-**PARTIE I** 
-## Choix de payer pour du service antérieur ouvrant droit à pension
-
-**1** Je, Numéro matricule ____________,&nbsp;&nbsp;&nbsp;&nbsp;(*Grade*) ____________ (*Prénom et nom de famille*) ____________, choisis, en vertu de l’alinéa 6b), de l’article 42 ou de l’article 43 de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md), de payer pour (*cocher la case appropriée*) :
-
-
-**☐** 
-
-**a)** la totalité de mon service antérieur ouvrant droit à pension;
-
-
-
-
-**☐** 
-
-**b)** une fraction seulement de mon service antérieur ouvrant droit à pension, à savoir (*indiquer le genre et la période du service sur lequel porte le choix*) :
-
-
-
-
-
-
-
- .
-
-
-(*Le contributeur qui choisit de payer pour une fraction seulement d’un genre particulier de service ne peut choisir de payer que pour la fraction la plus récente.*)
-
-
-**2** J’effectuerai le paiement de la manière suivante (*choisir UN mode de paiement seulement et cocher la case appropriée*) :
-
-
-**☐** 
-
-**a)** paiement d’une somme globale;
-
-
-
-
-**☐** 
-
-**b)** paiement d’un acompte de _________________________$, le solde devant être payé par mensualités de _________________________$, à compter du premier jour du mois qui suit celui au cours duquel le présent choix est souscrit jusqu’à ce que le montant total exigé pour le service ainsi que l’intérêt soient entièrement payés;
-
-
-
-
-**☐** 
-
-**c)** paiement par mensualités de _________________________$, à compter du premier jour du mois qui suit celui au cours duquel le présent choix est souscrit jusqu’à ce que le montant total exigé pour le service ainsi que l’intérêt soient entièrement payés,
-
-
-
-
- et je comprends que le mode de paiement indiqué ci-dessus est sujet à rectification, après vérification du montant total exigé pour le service, en conformité avec le Règlement sur la pension de retraite des Forces canadiennes.
-
-
-Signé à _________________________ le _________________________
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;(*Lieu*)&nbsp;&nbsp;&nbsp;&nbsp;(*Date du choix*)
-
-
-_________________________
-
-
-(*Signature du contributeur*)
-
-
-Témoin attestant la signature du contributeur :
-
-
-_________________________&nbsp;&nbsp;&nbsp;&nbsp;_________________________
-
-
-(*Nom du témoin en lettres moulées*)&nbsp;&nbsp;&nbsp;&nbsp;(*Signature du témoin*)
-
-
-
-**PARTIE II** 
-## Choix de rembourser l’annuité ou la pension reçues pour la période du service accompagné d’option
-## (À remplir par le contributeur qui a reçu l’annuité versée aux termes de la Loi sur la pension de retraite des Forces canadiennes ou la pension versée aux termes de la Loi sur les pensions des services de défense pendant une période continue d’un an de service à plein temps dans la force de réserve immédiatement antérieure à la date où il est réputé s’être enrôlé de nouveau)
-
-**3** Je, Numéro matricule _________________________, (*Grade*) _________________________ (*Prénom et nom de famille*) _________________________ choisis, en vertu du paragraphe 41(4) de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md), de rembourser la fraction de l’annuité ou de la pension suivantes (*cocher la case appropriée*), qui m’a été versée pour la période continue d’un an de service à plein temps dans la force de réserve visée au paragraphe 41(3) de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md):
-
-
-**☐** 
-
-**a)** l’annuité versée aux termes de la Loi sur la pension de retraite des*Forces canadiennes*;
-
-
-
-
-**☐** 
-
-**b)** la pension versée aux termes de la partie V de la Loi sur les pensions des services de défense.
-
-
-
-
-**4** J’effectuerai le paiement d’une somme globale dans les 30 jours de la réception de la notification du montant exigible.
-
-
-Signé à _________________________ le_________________________
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;(*Lieu*)&nbsp;&nbsp;&nbsp;&nbsp;(*Date*)
-
-
-_________________________
-
-
-(*Signature du contributeur*)
-
-
-Témoin attestant la signature du contributeur :
-
-
-_________________________&nbsp;&nbsp;&nbsp;&nbsp;_________________________
-
-
-(*Nom du témoin en lettres moulées*)&nbsp;&nbsp;&nbsp;&nbsp;(*Signature du témoin*)
-
-
-
-**PARTIE III** 
-## Transmission de la formule
-
-**5** J’atteste que la formule (*cocher la case appropriée*) :
-
-
-**☐** 
-
-**a)** m’est parvenue dans le délai prévu par la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md);
-
-
-
-
-**☐** 
-
-**b)** m’est parvenue seulement le _________________________, soit après le délai prévu par la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md).
-
-
-
-
-
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;(*Commandant ou personne désignée par le ministre*)
-
-
-_________________________&nbsp;&nbsp;&nbsp;&nbsp;_________________________
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;(*Date*)&nbsp;&nbsp;&nbsp;&nbsp;(*Unité*)
-
-
-
-**PARTIE IV** 
-## Certificat médical — choix tardif
-## ((Le présent certificat est nécessaire SEULEMENT dans le cas où le contributeur n’a pas exercé son choix dans le délai d’un an suivant la date à laquelle il est devenu contributeur aux termes de la Loi sur la pension de retraite des Forces canadiennes. L’examen doit avoir lieu dans les 90 jours précédant ou suivant le choix, sauf autorisation contraire du ministre.))
-
-**6** Je certifie que le contributeur a subi un examen médical visant à déterminer s’il est mentalement et physiquement apte à s’acquitter de ses fonctions en sa qualité de membre des Forces canadiennes, et que le contributeur (*cocher la case appropriée*) :
-
-
-**☐** 
-
-**a)** est apte;
-
-
-
-
-**☐** 
-
-**b)** est inapte.
-
-
-
-
-_________________________&nbsp;&nbsp;&nbsp;&nbsp;_________________________
-
-
-(*Date de l’examen médical*)&nbsp;&nbsp;&nbsp;&nbsp;(*Signature du médecin militaire*)
-
-
-_________________________&nbsp;&nbsp;&nbsp;&nbsp;_________________________
-
-
-(*Unité*)&nbsp;&nbsp;&nbsp;&nbsp;(*Nom et titre au long, en lettres moulées*)
-
-
-
-
-
-## Loi sur la pension de retraite des Forces canadiennes
-## Option de renoncer au droit de payer lors de la retraite pour du service non contributoire dans les forces régulières
-(La présente formule doit servir uniquement à un membre des forces régulières qui, à n’importe quel moment après l’entrée en vigueur de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md) (LPRFC) (CFSA), choisit, en vertu du paragraphe 7(7) de la Loi, de renoncer à son droit, aux termes du paragraphe 56(2) de la Partie V de la Loi sur la pension des services de défense, quant au mode de paiement pour service antérieur non contributoire dans les forces régulières.)
+(La présente formule de choix, dûment remplie, doit être transmise, dans le délai prévu, à un commandant ou autre personne désignée par le ministre.)
 
 
 
 **PARTIE I** 
-## Option et mode de paiement
+## Choix de payer pour le service ouvrant droit à pension
 
-**1** Je, ____________, Matricule____________,
-
-(Prénoms au long, suivis du nom de famille)
+**SECTION A**Renseignements personnels sur le contributeur qui fait le choix
 
 
-
-Grade ____________, Base ou autre unité ou élément____________ choisis, par les présentes, en vertu du paragraphe 9(3) de la LPRFC de renoncer à mon droit, aux termes du paragraphe 56(2) de la Partie V de la Loi sur la pension des services de défense, de différer le paiement pour service antérieur dans les forces régulières pour lequel je n’étais pas tenu de payer avant ma retraite.
+____________________
+(*grade*)&nbsp;&nbsp;&nbsp;&nbsp;(*prénoms*) (*nom de famille*)
 
 
 
 
-**2** Je sais que, en faisant ce choix, je suis tenu de payer le même montant de contributions, sans intérêt, pour ce service, et j’effectuerai le paiement en tout ou en partie avant ma retraite en la manière suivante (choisir UN mode de paiement seulement et indiquer son choix en faisant une croix dans la case appropriée) :
-
-**a)** en une somme globale provenant de fonds personnels ou du crédit de réadaptation du ministère des Affaires des anciens combattants; OU
-
-
-
-**b)** par versement d’un acompte de ____________ $, provenant de fonds personnels ou du crédit de réadaptation du ministère des Affaires des anciens combattants (DVA), pour acquitter une partie des arriérés, le solde devant être payé par mensualités de ____________ $, à compter du premier jour du mois qui suit celui au cours duquel la présente option est souscrite; OU
-
-
-
-**c)** par mensualités de ____________ $, à compter du premier jour du mois qui suit celui au cours duquel la présente option est souscrite.
+____________________
+(*numéro matricule*)
 
 
 
 
-**3** Je sais aussi que
+**SECTION B**Contributeur qui fait le choix de payer pour le service ouvrant droit à pension autre que celui visé à la section C.
 
-**a)** les versements se poursuivront jusqu’à ce que le montant exigible soit entièrement payé ou jusqu’à la date de ma retraite, selon la plus rapprochée de ces deux éventualités; et que
+**1** Je choisis, en vertu de l’alinéa 6b) ou des paragraphes 42(1) ou 43(1) de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md), de payer pour (*cocher la case appropriée*) :
 
-
-
-**b)** tout solde impayé à la date de ma retraite doit être payé en une somme globale ou par versements conformément au Règlement sur la pension de retraite des Forces canadiennes.
+**☐ a)** tout mon service ouvrant droit à pension;
 
 
 
-
-Signé* (et transmis) à ____________,
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;(Lieu)
+OU
 
 
-ce ____________ jour d ____________ 19
+
+**☐ b)** une partie de mon service ouvrant droit à pension dont le type et la période de service sur laquelle porte le choix sont mentionnés ci-dessous (*si le choix porte seulement sur une partie d’un type de service donné, le contributeur ne peut choisir que la partie la plus récente de ce service*) :
+
+  
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;(Date de l’option)
+
+  
 
 
-(*Biffer si la formule n’est pas transmise au moment de l’option)
+
+
+
+
+
+**2** J’effectuerai le paiement de la manière suivante (*choisir UN plan de paiement seulement et cocher la case appropriée*) :
+
+**☐ a)** en une somme globale;
+
+
+
+OU
+
+
+
+**☐ b)** en une somme globale de _________________________ $, le solde devant être payé par mensualités de _________________________ $ à compter du premier jour du mois suivant le mois au cours duquel le présent choix est fait jusqu’à ce que la somme totale nécessaire pour payer le service et les intérêts soit entièrement versée;
+
+
+
+OU
+
+
+
+**☐ c)** par mensualités de _________________________ $ à compter du premier jour du mois suivant le mois au cours duquel le présent choix est fait jusqu’à ce que la somme totale nécessaire pour payer le service et les intérêts soit entièrement versée.
+
+
+
+
+
+Je comprends que la somme totale à verser pour le service sera vérifiée et pourrait faire l’objet d’un rajustement en vertu de la Loi.
+
+
+
+Signé à 
+____________________
+(*lieu*) le 
+____________________
+(*jour*) (*mois*) (*année*)
+
+
+
+
+____________________
+(*signature du contributeur*)
+
 
 
 Témoin attestant la signature du contributeur :
 
 
-____________&nbsp;&nbsp;&nbsp;&nbsp;____________
+____________________
+(*nom du témoin en lettres moulées et au complet*)
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;(Signature du témoin)&nbsp;&nbsp;&nbsp;&nbsp;(Signature du contributeur)
+
+
+____________________
+(*signature du témoin*)
+
+
+
+
+
+
+**SECTION C**Membre de la force régulière qui est devenu un contributeur le 1<sup>er</sup> mars 2007 ou après cette date et qui fait le choix de payer pour le service dans la force de réserve ouvrant droit à pension en vertu des divisions 6b)(ii)(G) ou (H) de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md), dans leur version adaptée par le paragraphe 12.2(2) du Règlement sur la pension de retraite des Forces canadiennes.
+
+Ce choix concerne tout le service dans la force de réserve ouvrant droit à pension du contributeur. Celui-ci peut, en vertu de l’alinéa 7(1)g) de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md), dans sa version adaptée par le paragraphe 12.4(1) du Règlement sur la pension de retraite des Forces canadiennes, opter pour le paiement d’une somme inférieure à la somme totale correspondant au service et toute prestation connexe sera réduite proportionnellement.
+
+
+
+**1** Je comprends que la somme totale estimative à payer pour ce service est de _________________________ $ et qu’elle sera vérifiée et fera l’objet d’un rajustement en vertu de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md) (*cocher la case appropriée*) :
+
+**☐ a)** je choisis de payer la somme totale et je prends acte que si la somme totale pour ce service, après vérification, est différente de la somme totale estimative indiquée ci-dessus, je paierai la somme totale vérifiée;
+
+
+
+OU
+
+
+
+**☐ b)** j’opte, en vertu de l’alinéa 7(1)g) de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md), dans sa version adaptée par le paragraphe 12.4(1) du Règlement sur la pension de retraite des Forces canadiennes, pour le paiement d’une somme inférieure à _________________________ $; je comprends que je ne pourrai pas augmenter cette somme à une date ultérieure et que mes prestations seront réduites proportionnellement.
+
+
+
+
+
+**2** J’effectuerai le paiement de la manière suivante (*choisir UN plan de paiement seulement et cocher la case appropriée*) :
+
+**☐ a)** en une somme globale;
+
+
+
+OU
+
+
+
+**☐ b)** en une somme globale de _________________________ $, le solde devant être payé par mensualités de _________________________ $ à compter du premier jour du mois suivant le mois au cours duquel le présent choix est fait jusqu’à ce que la somme totale nécessaire pour payer le service et les intérêts soit entièrement versée;
+
+
+
+OU
+
+
+
+**☐ c)** par mensualités de _________________________ $ à compter du premier jour du mois suivant celui au cours duquel le présent choix est fait jusqu’à ce que la somme totale nécessaire pour payer le service et des intérêts soit entièrement versée.
+
+
+
+
+
+Signé à 
+____________________
+(*lieu*) le 
+____________________
+(*jour*) (*mois*) (*année*)
+
+
+
+
+____________________
+(*signature du contributeur*)
+
+
+
+Témoin attestant la signature du contributeur :
+
+
+____________________
+(*nom du témoin en lettres moulées et au complet*)
+
+
+
+
+____________________
+(*signature du témoin*)
+
+
+
+
 
 
 
 **PARTIE II** 
-## Transmission de la formule d’option
+## Choix de rembourser l’annuité ou l’allocation annuelle reçues pour la période de service dans la force de réserve
 
-**4** Les circonstances de la transmission de l’option ci-dessus ayant été vérifiées, j’ai la certitude que la formule (faire une croix dans la case appropriée) :
-
-**a)** M’A ÉTÉ TRANSMISE dans un délai d’un mois à compter de la date de l’option ci-dessus; OU
+Renseignements personnels sur le contributeur qui fait le choix
 
 
 
-**b)** M’A ÉTÉ TRANSMISE seulement le____________ jour d____________ 19____________, soit plus d’un mois après la date de l’option ci-dessus.
+____________________
+(*grade*)&nbsp;&nbsp;&nbsp;&nbsp;(*prénoms*) (*nom de famille*)
+
+
+
+____________________
+(*numéro matricule*)
+
+
+À remplir par un contributeur qui est membre de la force régulière et qui a reçu l’annuité ou l’allocation annuelle versée en vertu de la partie I de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md) durant la période de service dans la force de réserve pour laquelle il fait le choix de payer.
+
+
+Je choisis, au titre du paragraphe 41(4) de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md), dans sa version adaptée par l’article 8.4 du Règlement sur la pension de retraite des Forces canadiennes, de rembourser la fraction de l’annuité ou de l’allocation annuelle qui m’a été versée en vertu de cette loi durant la période de service dans la force de réserve pour laquelle je fais le choix de payer.
+
+
+Je paierai en une somme globale au plus tard le cent vingtième jour suivant la date de l’avis m’informant de la somme due.
+
+
+Signé à 
+____________________
+(*lieu*) le 
+____________________
+(*jour*) (*mois*) (*année*)
+
+
+
+____________________
+(*signature du contributeur*)
+
+
+Témoin attestant la signature du contributeur :
+
+
+____________________
+(*nom du témoin en lettres moulées et au complet*)
+
+
+
+
+____________________
+(*signature du témoin*)
 
 
 
 
 
+**PARTIES III ET IV** 
+
+[Abrogées, DORS/2016-64, art. 43]
 
 
-(Commandant ou personne désignée par le ministre)
-
-
-____________&nbsp;&nbsp;&nbsp;&nbsp;____________
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;(Date)&nbsp;&nbsp;&nbsp;&nbsp;(Base ou autre unité ou élément)
-
-
-LPRFC 102
-
-
-
+### **LPRFC 102** 
+[Abrogée, DORS/2016-64, art. 44]
 
 
 ## Loi sur la pension de retraite des Forces canadiennes
 ## Option de renoncer à une annuité ou allocation annuelle prévue par la Loi sur la pension de la Fonction publique ou la Loi sur la pension de retraite de la Gendarmerie royale du Canada
-
-**PARTIE I** 
-## Option et mode de paiement
-
-**1** Je, ____________ , Matricule ____________,
-
-(Prénoms au long, suivis du nom de famille)
+Renseignements personnels sur le contributeur qui fait le choix
 
 
 
-Grade ____________ Base ou autre unité ou élément ____________
+____________________
+(*grade*)&nbsp;&nbsp;&nbsp;&nbsp;(*prénoms*) (*nom de famille*)
 
 
 
-choisis, par les présentes, en vertu du paragraphe 46(2) de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md) (LPRFC) (CFSA), de renoncer à mon droit à une annuité ou allocation annuelle sous le régime de (indiquer en faisant une croix dans la case appropriée) :
+____________________
+(*numéro matricule*)
+
+
+**1** Je choisis, à l’égard de mon service ouvrant droit à pension décrit au paragraphe 46(2) de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md), de renoncer à mon droit à une annuité ou à une allocation annuelle sous le régime (*cocher la case*) :
+
+**☐ a)** de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md);
 
 
 
-**a)** la [Loi sur la pension de la Fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), OU de
+OU
 
 
 
-**b)** la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md),
+**☐ b)** de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md).
 
 
 
-à l’égard de mon service ouvrant droit à pension, ainsi qu’il est décrit dans ledit paragraphe; et je sais qu’en faisant un tel choix, je cesserai, ou toute personne à qui une prestation quelconque aurait pu autrement devenir payable aux termes de la Loi susmentionnée, à l’égard de ce service, cessera d’avoir droit à toute prestation en vertu de ladite loi.
-
-
-
-
-**2** Je paierai tout montant impayé pour le service susmentionné en la manière suivante (choisir UN mode de paiement seulement et indiquer son choix en faisant une croix dans la case appropriée) :
-
-**a)** en une somme globale provenant de fonds personnels ou du crédit de réadaptation du ministère des Affaires des anciens combattants (DVA); OU
-
-
-
-**b)** par versement d’un acompte de ____________ $, provenant de fonds personnels ou du crédit de réadaptation du ministère des Affaires des anciens combattants (DVA), pour acquitter une partie des arriérés, le solde devant être payé par mensualités de ____________ $, à compter du premier jour du mois qui suit celui au cours duquel la présente option est souscrite jusqu’à ce que la totalité des arriérés de contributions et l’intérêt soient entièrement payés; OU
-
-
-
-**c)** par mensualités de ____________ $, à compter du premier jour du mois qui suit celui au cours duquel la présente option est souscrite jusqu’à ce que la totalité des arriérés de contributions et l’intérêt soient entièrement payés;
+Je sais qu’en faisant un tel choix, je cesserai d’avoir droit à toute prestation en vertu de ce paragraphe; il en sera de même pour toute personne à qui une prestation aurait pu par ailleurs devenir payable sous le régime de la Loi que j’ai indiquée.
 
 
 
 
-et je sais que le mode de paiement indiqué ci-dessus est sujet à rectification, après vérification du total des arriérés de contributions, en conformité du Règlement sur la pension de retraite des Forces canadiennes.
+**2** Je paierai toute somme qui demeure impayée pour ce service de la manière suivante (*choisir UN plan de paiement seulement et cocher la case appropriée*) :
+
+**☐ a)** en une somme globale;
 
 
-Signé * (et transmis) à ____________,
+
+OU
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;(Lieu)
+
+**☐ b)** en une somme globale de _________________________ $, le solde devant être payé par mensualités de _________________________ $ à compter du premier jour du mois suivant le mois au cours duquel le présent choix est fait jusqu’à ce que la somme totale nécessaire pour payer le service et les intérêts soit entièrement versée;
 
 
-ce ____________ jour d ____________ 19
+
+OU
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;(Date de l’option)
+
+**☐ c)** par mensualités de _________________________ $ à compter du premier jour du mois suivant le mois au cours duquel le présent choix est fait jusqu’à ce que la somme totale nécessaire pour payer le service et les intérêts soit entièrement versée.
 
 
-(*Biffer si la formule n’est pas transmise au moment de l’option)
+
+
+Je comprends que le plan de paiement indiqué ci-dessus sera vérifié et pourrait faire l’objet d’un rajustement en vertu de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md).
+
+
+Signé à 
+____________________
+(*lieu*) le 
+____________________
+(*jour*) (*mois*) (*année*)
+
+
+
+____________________
+(*signature du contributeur*)
 
 
 Témoin attestant la signature du contributeur :
 
 
-____________&nbsp;&nbsp;&nbsp;&nbsp;____________
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;(Signature du témoin)&nbsp;&nbsp;&nbsp;&nbsp;(Signature du contributeur)
-
-
-(Une option subséquente présentée sur la formule LPRFC 100 (Option de payer pour du service antérieur ouvrant droit à pension) est requise, dans le délai prescrit par la LPRFC (CFSA), pour tout autre service antérieur ouvrant droit à pension accompagné d’option que le contributeur désire compter.)
-
-
-
-**PARTIE II** 
-## Transmission de la formule d’option
-
-**3** Les circonstances de la transmission de l’option ci-dessus ayant été vérifiées, j’ai la certitude que la formule (faire une croix dans la case appropriée)
-
-**a)** M’A ÉTÉ TRANSMISE dans un délai d’un an après que la personne qui fait l’option est devenue contributeur aux termes de la LPRFC (CFSA); OU
-
-
-
-**b)** M’A ÉTÉ TRANSMISE seulement le____________ jour d____________ 19____________, soit une date ultérieure à un délai d’un an après que la personne qui fait l’option est devenue contributeur aux termes de la LPRFC (CFSA).
+____________________
+(*nom du témoin en lettres moulées et au complet*)
 
 
 
 
-____________
+____________________
+(*signature du témoin*)
 
 
-(Commandant ou personne désignée par le ministre)
-
-
-____________&nbsp;&nbsp;&nbsp;&nbsp;____________
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;(Date)&nbsp;&nbsp;&nbsp;&nbsp;(Base ou autre unité ou élément)
 
 
 LPRFC 103
 
 
+  
 
 
-
-## Loi sur la pension de retraite des Forces canadiennes
-## Demande de réduction de versements
-(Cette formule est à l’usage des contributeurs qui, conformément au paragraphe 14(4) du Règlement sur la pension de retraite des Forces canadiennes, demandent une réduction du montant qu’ils versent mensuellement, ayant choisi, sous le régime de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md), de payer pour du service ouvrant droit à pension et accompagné d’option.)
-
-
-
-**PARTIE I** 
-## Demande de réduction
-
-**1** Je, ____________ , Matricule ____________,
-
-(Prénoms au long, suivis du nom de famille)
-
-
-
-Grade____________, Base ou autre unité ou élément____________ demande par les présentes que les versements que j’effectue à l’égard de mon service antérieur ouvrant droit à pension et accompagné d’option, que j’ai choisi de faire sous le régime de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md), soient réduits de ____________ $ à ____________ $ par mois.
-
-
-
-
-**2** Je certifie que je fais cette demande parce que je me trouverais dans une situation financière extrêmement difficile, ce qu’il m’était impossible de prévoir au moment où j’ai fait mon choix, si on m’obligeait de faire des versements au même taux qu’à l’heure actuelle; je soumets les renseignements suivants pour établir le bien-fondé de ma demande (se servir de feuilles supplémentaires au besoin) :
-
-
-**3** J’annexe les documents suivants à l’appui de la présente demande :
-
-**a)** un relevé par l’officier comptable, de mes recettes et dépenses courantes se présentant chaque mois;
-
-
-
-**b)** un état détaillé de toutes les dépenses auxquelles je dois faire face, y compris le logement, la nourriture, les frais médicaux de famille, les frais divers, etc.; et
-
-
-
-**c)** un état détaillé de mes revenus autres que ma solde et mes allocations.
-
-
-
-
-Signé à ____________, ce____________ jour de____________ 19____________
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;(Lieu)&nbsp;&nbsp;&nbsp;&nbsp;(Date de la demande)
-
-
-Témoin attestant la signature du contributeur :
-
-
-____________&nbsp;&nbsp;&nbsp;&nbsp;____________
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;(Signature du témoin)&nbsp;&nbsp;&nbsp;&nbsp;(Signature du contributeur)
-
-
-
-**PARTIE II** 
-## (récépissé de la demande)
-
-**4** La demande ci-dessus formulée m’est parvenue le ____________ jour de____________ 19____________
-
-
-
-
-
-(Commandant ou personne désignée par le ministre)
-
-
-____________&nbsp;&nbsp;&nbsp;&nbsp;____________
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;(Date)&nbsp;&nbsp;&nbsp;&nbsp;(Base ou autre unité ou élément)
-
-
-
-**PARTIE III** 
-## (certificat médical)
-
-(L’examen médical doit avoir lieu dans les 90 jours qui précèdent ou qui suivent immédiatement la date de la demande, à moins que le ministre n’en décide autrement.)
-
-
-**5** Je certifie que le contributeur a subi un examen médical visant à déterminer s’il est mentalement et physiquement apte à s’acquitter de ses fonctions en tant que membre des forces et que (faire une croix dans la case appropriée) 
-
-**a)** le résultat de l’examen A ÉTÉ SATISFAISANT : OU
-
-
-
-**b)** le résultat de l’examen N’A PAS ÉTÉ SATISFAISANT.
-
-
-
-
-____________&nbsp;&nbsp;&nbsp;&nbsp;____________
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;(Date de l’examen médical)&nbsp;&nbsp;&nbsp;&nbsp;(Signature du médecin militaire ou du médecin civil)
-
-
-____________&nbsp;&nbsp;&nbsp;&nbsp;____________
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;(Base ou autre unité ou élément)&nbsp;&nbsp;&nbsp;&nbsp;(Nom et titre au long, en lettres moulées)
-
-
-LPRFC 105
-
-
-
+### **LPRFC 105** 
+[Abrogée, DORS/2016-64, art. 46]
 
 
 ### **FORMULE LPRFC 106** 
@@ -3050,232 +2954,91 @@ LPRFC 105
 (*La formule doit être remplie par le contributeur qui ne désire pas contribuer à l’égard de la partie d’une période de service qui dépasse 3 mois pour laquelle le versement d’aucune solde n’a été autorisé (par exemple, un congé sans solde), conformément au paragraphe 6.1(1) de la Loi sur la pension de retraite des Forces canadiennes et au paragraphe 11(2.2) du Règlement sur la pension de retraite des Forces canadiennes. Le choix doit être exercé dans les 90 jours qui suivent la date d’expiration de la période ou la date à laquelle le contributeur est tenu de recommencer à verser des contributions en vertu de la Loi sur la pension de retraite des Forces canadiennes, selon la plus tardive de ces dates. Une formule distincte est requise pour chaque période qui dépasse 3 mois pour laquelle le versement d’aucune solde n’a été autorisé.*)
 
 
-
-**PARTIE I** 
-## Renonciation au droit
-
-**1** Je, _________________________, Numéro matricule _________________________,
-
-
-(*Prénom et nom de famille*)
-
-
-Grade _________________________, RENONCE À MON DROIT DE COMPTER COMME SERVICE OUVRANT DROIT À PENSION la période débutant le _________________________ et se terminant 
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;(*jour*) (*mois*) (*année*)
-
-
-le _________________________,
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;(*jour*) (*mois*) (*année*)
-
-
-qui est la partie d’une période de service qui dépasse 3 mois à l’égard de laquelle le versement d’aucune solde n’a été autorisé parce que (*en indiquer la raison*) :
+Renseignements personnels sur le contributeur qui fait le choix
 
 
 
+____________________
+(*grade*)&nbsp;&nbsp;&nbsp;&nbsp;(*prénoms*) (*nom de famille*)
 
 
 
+____________________
+(*numéro matricule*)
+
+
+**1** Je choisis de ne pas compter comme service ouvrant droit à pension la période commençant le 
+____________________
+(*jour*) (*mois*) (*année*) et se terminant le 
+____________________
+(*jour*) (*mois*) (*année*),
+
+ces deux dates comprises, qui est la partie d’une période de service dépassant trois mois à l’égard de laquelle le versement d’aucune solde n’a été autorisé parce que (*en indiquer la raison*) :
+
+  
 
 
 
+  
 
 
-**2** La période indiquée ci-dessous représente toute la période de service pour laquelle le versement d’aucune solde n’a été autorisé, y compris les 3 premiers mois pour lesquels des contributions doivent être versées :
 
-du _________________________ au _________________________
+  
 
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;(*jour*) (*mois*) (*année*)&nbsp;&nbsp;&nbsp;&nbsp;(*jour*) (*mois*) (*année*)
 
 
-**3** Je sais que la période de service mentionnée à l’article 1, qui représente la partie dépassant 3 mois, ne sera PAS comptée comme service ouvrant droit à pension lors du calcul des prestations que je pourrais recevoir sous le régime de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md).
+**2** La période indiquée ci-dessous correspond à toute la période de service pour laquelle le versement d’aucune solde n’a été autorisé, y compris les trois premiers mois pour lesquels des contributions doivent être versées :
+
+du 
+____________________
+(*jour*) (*mois*) (*année*) au 
+____________________
+(*jour*) (*mois*) (*année*).
 
 
-Signé à _________________________ le _________________________
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;(*lieu*)&nbsp;&nbsp;&nbsp;&nbsp;(*date de la renonciation*)
+**3** Je comprends que la période de service mentionnée à l’article 1, soit la partie dépassant trois mois, ne sera PAS comptée comme service ouvrant droit à pension aux fins du calcul des prestations que je pourrais recevoir sous le régime de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md).
 
 
-_________________________
+Signé à 
+____________________
+(*lieu*) le 
+____________________
+(*jour*) (*mois*) (*année*)
 
 
+
+____________________
 (*signature du contributeur*)
 
 
 Témoin attestant la signature du contributeur :
 
 
-_________________________&nbsp;&nbsp;&nbsp;&nbsp;_________________________
+____________________
+(*nom du témoin en lettres moulées et au complet*)
 
 
-(*nom du témoin, en lettres moulées*)&nbsp;&nbsp;&nbsp;&nbsp;(*signature du témoin*)
 
 
+____________________
+(*signature du témoin*)
 
-**PARTIE II** 
-## Transmission de la formule de renonciation
 
-**4** J’atteste que la formule de renonciation (*cocher la case appropriée*) :
 
 
-**☐** 
+### **LPRFC 107** 
+[Abrogée, DORS/2016-64, art. 48]
 
-**a)** M’EST PARVENUE dans le délai prescrit;
 
+### **CFSA 108-F** 
+[Abrogée, DORS/92-717, art. 7]
 
 
-
-**☐** 
-
-**b)** M’EST PARVENUE seulement le _________________________, soit après l’expiration du délai prescrit.
-
-
-
-
-_________________________
-
-
-(*Commandant ou autre personne désignée par le ministre*)
-
-
-_________________________&nbsp;&nbsp;&nbsp;&nbsp;_________________________
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;(*date*)&nbsp;&nbsp;&nbsp;&nbsp;(*unité*)
-
-
-
-
-
-## Loi sur la pension de retraite des Forces canadiennes
-## Révocation du choix de payer pour un service antérieur ouvrant droit à pension
-(Cette formule est à l’usage des contributeurs qui, conformément au paragraphe 8(4) de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md) et à l’article 13 du Règlement sur la pension de retraite des Forces canadiennes, demandent que le choix qu’ils ont fait en vertu de ladite loi de payer à l’égard d’une période de service, soit entièrement ou partiellement révoqué.)
-
-
-
-**PARTIE I** 
-## Demande de révocation
-
-**1** Je, ____________, Matricule____________
-
-
-(Prénoms au long, suivis du nom de famille)
-
-
-Grade ____________, Base ou autre unité ou élément____________, demande par les présentes que le choix que j’ai fait sous le régime de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md) de payer pour du service antérieur ouvrant droit à pension et accompagné d’option soit RÉVOQUÉ relativement (faire une croix dans la case appropriée) :
-
-
-**a)** À TOUT MON SERVICE ANTÉRIEUR OUVRANT DROIT À PENSION; OU
-
-
-**b)** À UNE PARTIE SEULEMENT DE MON SERVICE ANTÉRIEUR OUVRANT DROIT À PENSION, notamment (préciser le genre et la durée de service à l’égard duquel la révocation est demandée :
-
-
-
-
-
-
-
-
-
-
-
-**2** Je certifie par la présente que la raison pour laquelle je demande cette révocation est la suivante (faire une croix dans la case appropriée) :
-
-**a)** J’ai recu par écrit d’un membre des forces régulières ou d’un fonctionnaire de la Fonction publique habituellement chargé de fournir des renseignements sur le montant exigé sous le régime de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md) à l’égard d’une période de service, des renseignements erronés ou susceptibles de m’induire en erreur et lorsque j’ai fait mon choix j’ai agi en toute bonne foi d’après ces renseignements; OU
-
-
-
-**b)** Je me trouverais dans une situation financière extrêmement difficile, ce qu’il m’était impossible de prévoir au moment où j’ai fait mon choix, si l’on m’obligeait à maintenir mes versements à l’égard de la période de service sus-indiquée.
-
-
-
-
-**3** Je soumets les renseignements suivants pour établir le bien-fondé de ma demande (se servir de feuilles supplémentaires au besoin) :
-
-
-**4** Je sais que si le ministre de la Défense nationale approuve ma demande je devrai payer à Sa Majesté, à l’égard des prestations qui, du fait que j’ai fait un choix, pourraient me revenir pour la période pendant laquelle mon choix subsiste, un montant que le ministre déterminera conformément au Règlement sur la pension de retraite des Forces canadiennes.
-
-
-Signé* (et transmis) à ____________,
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;(Lieu)
-
-
-ce____________jour de____________19____________
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;(Date de la demande)
-
-
-(*Biffer si la formule n’est pas transmise au moment de la demande)
-
-
-Témoin attestant la signature du contributeur :
-
-
-____________&nbsp;&nbsp;&nbsp;&nbsp;____________
-
-
-(Signature du témoin)&nbsp;&nbsp;&nbsp;&nbsp;(Signature du contributeur)
-
-
-
-**PARTIE II** 
-## Transmission de la demande
-
-**5** Les circonstances de la transmission de la demande ci-dessus ayant été vérifiées, j’ai la certitude que la formule (faire une croix dans la case appropriée);
-
-**a)** M’A ÉTÉ TRANSMISE dans les trente jours suivant la demande; OU
-
-
-
-**b)** M’A ÉTÉ TRANSMISE seulement le ____________jour de ____________ 19____________, soit plus de 30 jours après la demande.
-
-
-
-
-____________
-
-
-(Commandant ou personne désignée par le ministre)
-
-
-____________&nbsp;&nbsp;&nbsp;&nbsp;____________
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;(Date)&nbsp;&nbsp;&nbsp;&nbsp;(Base ou autre unité ou élément)
-
-
-
-**PARTIE III** 
-
-**6** J’accorde par les présentes la demande ci-dessus qui entrera en vigueur le ____________ jour d____________, 19____________
-
-
-____________&nbsp;&nbsp;&nbsp;&nbsp;____________
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;(Date)&nbsp;&nbsp;&nbsp;&nbsp;(Ministre de la Défense nationale)
-
-
-LPRFC 107
-
-
-
-
-
-CFSA 108-F [Abrogée, DORS/92-717, art. 7]
-
-
-> DORS/92-717, art. 7 et 10; DORS/95-569, art. 4; DORS/95-570, art. 3, 5 et 6 à 12(F); DORS/2001-76, art. 8.
+> DORS/92-717, art. 7 et 10; DORS/95-569, art. 4; DORS/95-570, art. 3, 5 et 6 à 12(F); DORS/2001-76, art. 8; DORS/2016-64, art. 43 à 48.
 
 
