@@ -1614,8 +1614,38 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 <td>Madawaska Maliseet First Nation</td>
 <td></td>
 </tr>
+<tr>
+<td>114</td>
+<td>Penticton</td>
+<td></td>
+</tr>
+<tr>
+<td>115</td>
+<td>Wahpeton Dakota Nation</td>
+<td></td>
+</tr>
+<tr>
+<td>116</td>
+<td>Misipawistik Cree Nation</td>
+<td></td>
+</tr>
+<tr>
+<td>117</td>
+<td>Serpent River</td>
+<td></td>
+</tr>
+<tr>
+<td>118</td>
+<td>Fort William</td>
+<td></td>
+</tr>
+<tr>
+<td>119</td>
+<td>Odanak</td>
+<td></td>
+</tr>
 </table>
 
-> 1999, ch. 24, ann.; DORS/2003-178; DORS/2006-216; 2008, ch. 32, art. 27; DORS/2008-51, 267; 2012, ch. 19, art. 637 à 651; DORS/2012-217, 291; DORS/2014-89, 268; DORS/2016-27.
+> 1999, ch. 24, ann.; DORS/2003-178; DORS/2006-216; 2008, ch. 32, art. 27; DORS/2008-51, 267; 2012, ch. 19, art. 637 à 651; DORS/2012-217, 291; DORS/2014-89, 268; DORS/2016-27, 67.
 
 
