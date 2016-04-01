@@ -1214,9 +1214,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Order in council**
 
-<sup><a href='#fn_Ind4065_hq_16030'>[*]</a></sup>**205** The provisions of this Division come into force on a day or days to be fixed by order of the Governor in Council.
+<sup><a href='#fn_Ind724A_hq_16890'>[*]</a></sup>**205** The provisions of this Division come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind4065_hq_16030'><sup>*</sup></a>: [Note: The provisions of Division 16 not in force.]<br />
+<a name='fn_Ind724A_hq_16890'><sup>*</sup></a>: [Note: Sections 177 to 204 in force April 1, 2016, *see* SI/2016-14.]<br />
 
 
 
