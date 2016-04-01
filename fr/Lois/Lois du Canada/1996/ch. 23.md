@@ -2265,7 +2265,7 @@ plus de 13 %
 
 **66** 
 
-- **(1)** Sous réserve du paragraphe (7), le gouverneur en conseil, sur recommandation conjointe du ministre et du ministre des Finances, fixe le taux de cotisation pour chaque année de manière que le montant des cotisations à verser au cours de l’année en question soit juste suffisant pour faire en sorte que, à la fin de celle-ci, le total des sommes portées au crédit du Compte des opérations de l’assurance-emploi après le 31 décembre 2008 soit égal au total des sommes portées au débit de ce compte après cette date.
+- **(1)** Sous réserve du paragraphe (7) et de l’article 66.32, pour chaque année, la Commission fixe le taux de cotisation de manière que le montant des cotisations à verser soit juste suffisant pour faire en sorte que, à la fin de la période de sept ans commençant au début de cette année, le total des sommes portées au crédit du Compte des opérations de l’assurance-emploi après le 31 décembre 2008 soit égal au total des sommes portées au débit de ce compte après cette date.
 
 **Taux de cotisation pour 2015 et 2016**
 
@@ -2277,13 +2277,13 @@ plus de 13 %
 
 **Éléments à prendre en compte**
 
-- **(2)** Le gouverneur en conseil fixe le taux de cotisation en se fondant sur les éléments suivants :
+- **(2)** La Commission fixe le taux de cotisation en se fondant sur les éléments suivants :
 	- **a)** les renseignements communiqués au titre des articles 66.1 et 66.2;
-	- **b)** [Abrogé, 2012, ch. 31, art. 435]
+	- **b)** le rapport prévu à l’article 66.3 communiqué par l’actuaire pour l’année en cause;
 	- **c)** [Abrogé, 2012, ch. 19, art. 609]
 	- **d)** les règlements pris en vertu de l’article 69;
 	- **e)** tout changement, annoncé par le ministre au plus tard le 22 juillet de l’année en cause, aux sommes à verser au titre des alinéas 77(1)a), b) ou c) au cours de l’année suivante;
-	- **f)** les autres renseignements pertinents selon lui.
+	- **f)** les autres renseignements pertinents selon elle.
 
 - **(3)** [pas de paragraphe (3)]
 
@@ -2293,13 +2293,17 @@ plus de 13 %
 
 - **(7)** Le taux de cotisation ne peut varier d’une année à l’autre de plus de cinq centièmes pour cent (0,05 %).
 
+**Exception**
+
+- **(7.1)** Malgré le paragraphe (7), le taux de cotisation peut être réduit de plus de cinq centièmes pour cent (0,05 %) de 2016 à 2017.
+
 **Gouverneur en conseil — variation maximale du taux de cotisation**
 
 - **(8)** S’il l’estime dans l’intérêt public, le gouverneur en conseil peut, sur recommandation conjointe du ministre et du ministre des Finances, modifier le pourcentage maximal prévu au paragraphe (7) selon lequel le taux de cotisation peut varier d’une année à l’autre.
 
 **Délai**
 
-- **(9)** Au plus tard le 14 septembre de chaque année, le gouverneur en conseil fixe le taux de cotisation de l’année suivante.
+- **(9)** Au plus tard le 14 septembre de chaque année, la Commission fixe le taux de cotisation de l’année suivante.
 > 1996, ch. 23, art. 66; 2005, ch. 30, art. 126; 2008, ch. 28, art. 127; 2009, ch. 2, art. 222 et 230; 2010, ch. 12, art. 2204; 2012, ch. 19, art. 609, ch. 31, art. 435; 2013, ch. 40, art. 126.
 
 
@@ -2310,13 +2314,15 @@ plus de 13 %
 
 **66.1** 
 
-- **(1)** Au plus tard le 22 juillet de chaque année, le ministre communique à l’actuaire les renseignements suivants :
-	- **a)** en cas d’annonce aux termes de l’alinéa 66(2)e), la variation estimative des sommes à verser au cours de l’année suivante au titre des alinéas 77(1)a), b) ou c), selon le cas;
-	- **b)** le montant estimatif des frais à verser au titre des alinéas 77(1)d), d.1) et g) au cours de l’année suivante, y compris le montant estimatif des frais afférents à tout changement visé à l’alinéa a);
-	- **c)** le total des sommes portées au débit du Compte des opérations de l’assurance-emploi en date du dernier jour du mois le plus récent à l’égard duquel ce total est connu du ministre.
-	- **d)** [Abrogé, 2012, ch. 31, art. 436]
+- **(1)** Au plus tard le 22 juillet de chaque année, le ministre communique à l’actuaire et à la Commission les renseignements suivants :
+	- **a)** en cas d’annonce aux termes de l’alinéa 66(2)e), la variation estimative des sommes à verser au cours de chacune des sept années suivantes au titre des alinéas 77(1)a), b) ou c), selon le cas;
+	- **b)** le montant estimatif des frais à verser au titre des alinéas 77(1)d), d.1) et g) au cours de chacune des sept années suivantes, y compris le montant estimatif des frais afférents à tout changement visé à l’alinéa a);
+	- **c)** le total des sommes portées au débit du Compte des opérations de l’assurance-emploi en date du dernier jour du mois le plus récent à l’égard duquel ce total est connu du ministre;
+	- **d)** les renseignements prévus par règlement.
 
-- **(2)** [Abrogé, 2013, ch. 40, art. 127]
+**Règlement**
+
+- **(2)** Sur recommandation du ministre, le gouverneur en conseil peut, par règlement, prévoir les renseignements visés à l’alinéa (1)d).
 > 2001, ch. 5, art. 9; 2005, ch. 30, art. 126; 2008, ch. 28, art. 127; 2010, ch. 12, art. 2204; 2012, ch. 19, art. 610, ch. 31, art. 436 et 462; 2013, ch. 40, art. 127.
 
 
@@ -2327,16 +2333,14 @@ plus de 13 %
 
 **66.2** 
 
-- **(1)** Au plus tard le 22 juillet de chaque année, le ministre des Finances communique à l’actuaire les renseignements suivants :
-	- **a)** les plus récentes données estimatives liées aux variables économiques qui sont utiles pour la fixation du taux de cotisation pour l’année suivante au titre de l’article 66;
-	- **b)** les sommes estimées au titre des sous-alinéas 77.1a)(i) et (ii) et le total estimé au titre du sous-alinéa 77.1a)(iii).
-	- **c) et d)** [Abrogés, 2012, ch. 31, art. 437]
+- **(1)** Au plus tard le 22 juillet de chaque année, le ministre des Finances communique à l’actuaire et à la Commission les renseignements suivants :
+	- **a)** les plus récentes données estimatives disponibles liées aux variables économiques qui sont utiles pour la fixation du taux de cotisation pour l’année suivante au titre de l’article 66;
+	- **b)** les sommes estimées au titre des sous-alinéas 77.1a)(i) et (ii) et le total estimé au titre du sous-alinéa 77.1a)(iii);
+	- **c)** les renseignements prévus par règlement.
 
-- **(2)** [Abrogé, 2013, ch. 40, art. 128]
+**Règlement**
 
-**Communication au gouverneur en conseil**
-
-- **(3)** Lorsqu’une recommandation conjointe est faite au titre du paragraphe 66(1) au cours d’une année, le ministre des Finances communique au gouverneur en conseil les renseignements communiqués à l’actuaire au titre du paragraphe (1).
+- **(2)** Sur recommandation du ministre des Finances, le gouverneur en conseil peut, par règlement, prévoir les renseignements visés à l’alinéa (1)c).
 > 2003, ch. 15, art. 21; 2005, ch. 30, art. 126; 2008, ch. 28, art. 127; 2010, ch. 12, art. 2204; 2012, ch. 19, art. 611, ch. 31, art. 437; 2013, ch. 40, art. 128.
 
 
@@ -2360,34 +2364,60 @@ plus de 13 %
 
 **66.31** 
 
-- **(1)** La Commission, au plus tard le 14 septembre de chaque année, met à la disposition du public le rapport prévu à l’article 66.3 ainsi que le résumé du rapport.
+- **(1)** La Commission communique au ministre et au ministre des Finances, au plus tard le 31 août de chaque année, le rapport prévu à l’article 66.3 ainsi que le résumé du rapport.
+
+**Communication au public**
+
+- **(2)** La Commission met à la disposition du publique le rapport et son résumé à la date de fixation du taux de cotisation en application des articles 66 ou 66.32.
 
 **Dépôt devant les chambres du Parlement**
 
-- **(2)** Le ministre fait déposer le rapport et son résumé devant chaque chambre du Parlement dans les dix premiers jours de séance de celle-ci suivant leur mise à la disposition du public.
-> 2012, ch. 31, art. 438; 2013, ch. 40, art. 130.
+- **(3)** Le ministre fait déposer le rapport et son résumé devant chaque chambre du Parlement dans les dix premiers jours de séance de celle-ci suivant la fixation du taux de cotisation.
+> 2012, ch. 31, art. 438; 2013, ch. 40, art. 130 et 131.
 
 
 
 
 
-**Arrondissement : fraction de un pour cent**
+**Fixation du taux de cotisation par le gouverneur en conseil**
 
-**66.4** Dans les cas visés à l’article 66, le taux de cotisation fixé est arrêté à la deuxième décimale, le taux qui a au moins cinq en troisième décimale étant arrondi à la deuxième décimale supérieure.
-> 2005, ch. 30, art. 126; 2008, ch. 28, art. 127; 2012, ch. 31, art. 438.
+**66.32** 
+
+- **(1)** Sur recommandation conjointe du ministre et du ministre des Finances, le gouverneur en conseil peut, au plus tard le 30 septembre d’une année :
+	- **a)** s’il l’estime dans l’intérêt public, substituer un autre taux de cotisation à celui qu’a fixé la Commission pour l’année suivante au titre de l’article 66;
+	- **b)** si, au 14 septembre de l’année en question, la Commission n’a pas encore fixé de taux de cotisation pour l’année suivante au titre de cet article, en fixer un.
+
+**Non-application du paragraphe 66(7)**
+
+- **(2)** Le paragraphe 66(7) ne s’applique pas à la fixation d’un taux de cotisation au titre du paragraphe (1).
+> 2013, ch. 40, art. 131.
 
 
 
 
-**66.5** [Abrogé, 2013, ch. 40, art. 132]
+
+**Arrondissement : fraction de un pour cent**
+
+**66.4** Dans les cas visés aux articles 66 et 66.32, le taux de cotisation fixé est arrêté à la deuxième décimale, le taux qui a au moins cinq en troisième décimale étant arrondi à la deuxième décimale supérieure.
+> 2005, ch. 30, art. 126; 2008, ch. 28, art. 127; 2012, ch. 31, art. 438; 2013, ch. 40, art. 131.
+
+
+
+
+
+**Publication dans la Gazette du Canada**
+
+**66.5** Dans les meilleurs délais après qu’un taux de cotisation est fixé au titre des articles 66 ou 66.32, la Commission le publie dans la Partie I de la Gazette du Canada.
+> 2005, ch. 30, art. 126; 2008, ch. 28, art. 127; 2012, ch. 31, art. 438; 2013, ch. 40, art. 131 et 132.
+
 
 
 
 
 **[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
 
-**66.6** Il est entendu que la [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux taux de cotisation fixés au titre de l’article 66 ni aux cotisations fixées au titre des articles 67 et 68.
-> 2005, ch. 30, art. 126; 2012, ch. 31, art. 438.
+**66.6** Il est entendu que la [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas à l’égard du taux de cotisation fixé au titre des articles 66 ou 66.32 ni des cotisations fixées au titre des articles 67 et 68.
+> 2005, ch. 30, art. 126; 2012, ch. 31, art. 438; 2013, ch. 40, art. 131.
 
 
 
@@ -2395,8 +2425,8 @@ plus de 13 %
 
 **Cotisation ouvrière**
 
-**67** Sous réserve de l’article 70, toute personne exerçant un emploi assurable verse, par voie de retenue effectuée au titre du paragraphe 82(1), une cotisation correspondant au produit de sa rémunération assurable par le taux fixé en vertu de l’article 66.
-> 1996, ch. 23, art. 67; 2001, ch. 5, art. 10; 2003, ch. 15, art. 21; 2004, ch. 22, art. 26; 2005, ch. 30, art. 126; 2013, ch. 40, art. 133.
+**67** Sous réserve de l’article 70, toute personne exerçant un emploi assurable verse, par voie de retenue effectuée au titre du paragraphe 82(1), une cotisation correspondant au produit de sa rémunération assurable par le taux fixé en vertu des articles 66 ou 66.32, selon le cas.
+> 1996, ch. 23, art. 67; 2001, ch. 5, art. 10; 2003, ch. 15, art. 21; 2004, ch. 22, art. 26; 2005, ch. 30, art. 126; 2013, ch. 40, art. 131 et 133.
 
 
 
@@ -5026,7 +5056,7 @@ Est exclu de la présente définition tout particulier visé par les règlements
 
 **152.21** 
 
-- **(1)** Le travailleur indépendant qui a conclu l’accord prévu au paragraphe 152.02(1) — auquel il n’a pas été mis fin ou qui n’est pas réputé avoir pris fin — est tenu de verser, pour chaque année, une cotisation de travailleur indépendant correspondant au produit du montant déterminé en application du paragraphe (2) par le taux de cotisation fixé en vertu de l’article 66.
+- **(1)** Le travailleur indépendant qui a conclu l’accord prévu au paragraphe 152.02(1) — auquel il n’a pas été mis fin ou qui n’est pas réputé avoir pris fin — est tenu de verser, pour chaque année, une cotisation de travailleur indépendant correspondant au produit du montant déterminé en application du paragraphe (2) par le taux de cotisation fixé en vertu des articles 66 ou 66.32, selon le cas.
 
 **Montant**
 
@@ -5039,7 +5069,7 @@ Est exclu de la présente définition tout particulier visé par les règlements
 - **(3)** Il est entendu que la cotisation doit être versée :
 	- **a)** pour l’année au cours de laquelle l’accord a été conclu, et ce, indépendamment de la date où il a été conclu;
 	- **b)** pour l’année au cours de laquelle il y a été mis fin ou il est réputé avoir pris fin, et ce, indépendamment de la date où il y a été mis fin ou de la date où il est réputé avoir pris fin.
-> 2009, ch. 33, art. 16.
+> 2009, ch. 33, art. 16; 2013, ch. 40, art. 136.
 
 
 
