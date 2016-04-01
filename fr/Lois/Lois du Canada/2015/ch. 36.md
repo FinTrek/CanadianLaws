@@ -1216,7 +1216,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_IndBC63_hq_16042'>[*]</a></sup>**205** Les dispositions de la présente section entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_IndBC63_hq_16042'><sup>*</sup></a>: [Note : Les dispositions de la section 16 non en vigueur.]<br />
+<a name='fn_IndBC63_hq_16042'><sup>*</sup></a>: [Note : Articles 177 à 204 en vigueur le 1<sup>er</sup> avril 2016, *voir* TR/2016-14.]<br />
 
 
 
