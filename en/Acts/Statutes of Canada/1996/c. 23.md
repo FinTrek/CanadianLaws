@@ -2312,7 +2312,7 @@ is to be considered to have worked or not worked a full working week;
 
 **66** 
 
-- **(1)** Subject to subsection (7), the Governor in Council shall, on the joint recommendation of the Minister and the Minister of Finance, set the premium rate for each year in order to generate just enough premium revenue during that year to ensure that at the end of that year the total of the amounts credited to the Employment Insurance Operating Account after December 31, 2008 is equal to the total of the amounts charged to that Account after that date.
+- **(1)** Subject to subsection (7) and section 66.32, the Commission shall set the premium rate for each year in order to generate just enough premium revenue to ensure that, at the end of the seven-year period that commences at the beginning of that year, the total of the amounts credited to the Employment Insurance Operating Account after December 31, 2008 is equal to the total of the amounts charged to that Account after that date.
 
 **Premium rate for 2015 and 2016**
 
@@ -2324,13 +2324,13 @@ is to be considered to have worked or not worked a full working week;
 
 **Factors**
 
-- **(2)** The Governor in Council shall set the premium rate based on
+- **(2)** The Commission shall set the premium rate based on
 	- **(a)** the information provided under sections 66.1 and 66.2;
-	- **(b)** [Repealed, 2012, c. 31, s. 435]
+	- **(b)** the actuary’s report provided under section 66.3 for that year;
 	- **(c)** [Repealed, 2012, c. 19, s. 609]
 	- **(d)** any regulations made under section 69;
 	- **(e)** any changes, announced by the Minister on or before July 22 in a year, to payments to be made under paragraph 77(1)(a), (b) or (c) during the following year; and
-	- **(f)** any other information that the Governor in Council considers relevant.
+	- **(f)** any other information that the Commission considers relevant.
 
 - **(3)** [No subsection (3)]
 
@@ -2340,13 +2340,17 @@ is to be considered to have worked or not worked a full working week;
 
 - **(7)** The premium rate may not be increased or decreased by more than five one-hundredths of one per cent (0.05%) from one year to the next.
 
+**Exception**
+
+- **(7.1)** Despite subsection (7), the premium rate may be decreased by more than five one-hundredths of one per cent (0.05%) from 2016 to 2017.
+
 **Governor in Council — maximum change in premium rate**
 
 - **(8)** On the joint recommendation of the Minister and the Minister of Finance, the Governor in Council may change the maximum percentage referred to in subsection (7) by which the premium rate may be increased or decreased from one year to the next, if the Governor in Council considers it to be in the public interest.
 
 **Time limit**
 
-- **(9)** On or before September 14 in a year, the Governor in Council shall set the premium rate for the following year.
+- **(9)** On or before September 14 in a year, the Commission shall set the premium rate for the following year.
 > 1996, c. 23, s. 66; 2005, c. 30, s. 126; 2008, c. 28, s. 127; 2009, c. 2, ss. 222, 230; 2010, c. 12, s. 2204; 2012, c. 19, s. 609, c. 31, s. 435; 2013, c. 40, s. 126.
 
 
@@ -2357,13 +2361,15 @@ is to be considered to have worked or not worked a full working week;
 
 **66.1** 
 
-- **(1)** The Minister shall, on or before July 22 in a year, provide the actuary with the following information:
-	- **(a)** if the Minister has made an announcement referred to in paragraph 66(2)(e), the forecast change in the amount of the payments to be made during the following year under paragraph 77(1)(a), (b) or (c), as the case may be;
-	- **(b)** the forecast costs to be paid under paragraphs 77(1)(d), (d.1) and (g) during the following year, including any forecast change in those costs resulting from any change to the payments referred to in paragraph (a); and
-	- **(c)** the total of the amounts charged to the Employment Insurance Operating Account as of the last day of the most recent month for which that total is known by the Minister.
-	- **(d)** [Repealed, 2012, c. 31, s. 436]
+- **(1)** The Minister shall, on or before July 22 in a year, provide the actuary and the Commission with the following information:
+	- **(a)** if the Minister has made an announcement referred to in paragraph 66(2)(e), the forecast change in the amount of the payments to be made during each of the following seven years under paragraph 77(1)(a), (b) or (c), as the case may be;
+	- **(b)** the forecast costs to be paid under paragraphs 77(1)(d), (d.1) and (g) during each of the following seven years, including any forecast change in those costs resulting from any change to the payments referred to in paragraph (a);
+	- **(c)** the total of the amounts charged to the Employment Insurance Operating Account as of the last day of the most recent month for which that total is known by the Minister; and
+	- **(d)** any prescribed information.
 
-- **(2)** [Repealed, 2013, c. 40, s. 127]
+**Regulations**
+
+- **(2)** On the recommendation of the Minister, the Governor in Council may make regulations prescribing information referred to in paragraph (1)(d).
 > 2001, c. 5, s. 9; 2005, c. 30, s. 126; 2008, c. 28, s. 127; 2010, c. 12, s. 2204; 2012, c. 19, s. 610, c. 31, ss. 436, 462; 2013, c. 40, s. 127.
 
 
@@ -2374,16 +2380,14 @@ is to be considered to have worked or not worked a full working week;
 
 **66.2** 
 
-- **(1)** The Minister of Finance shall, on or before July 22 in a year, provide the actuary with the following information:
-	- **(a)** the most current forecast values of the economic variables that are relevant to the determination under section 66 of a premium rate for the following year; and
-	- **(b)** the amounts forecast under subparagraphs 77.1(a)(i) and (ii) and the total estimated under subparagraph 77.1(a)(iii).
-	- **(c) and (d)** [Repealed, 2012, c. 31, s. 437]
+- **(1)** The Minister of Finance shall, on or before July 22 in a year, provide the actuary and the Commission with the following information:
+	- **(a)** the most current available forecast values of the economic variables that are relevant to the determination under section 66 of a premium rate for the following year;
+	- **(b)** the amounts forecast under subparagraphs 77.1(a)(i) and (ii) and the total estimated under subparagraph 77.1(a)(iii); and
+	- **(c)** any prescribed information.
 
-- **(2)** [Repealed, 2013, c. 40, s. 128]
+**Regulations**
 
-**Information provided to Governor in Council**
-
-- **(3)** When a joint recommendation is made under subsection 66(1) in a year, the Minister of Finance shall provide the Governor in Council with the information that was provided to the actuary under subsection (1).
+- **(2)** On the recommendation of the Minister of Finance, the Governor in Council may make regulations prescribing information referred to in paragraph (1)(c).
 > 2003, c. 15, s. 21; 2005, c. 30, s. 126; 2008, c. 28, s. 127; 2010, c. 12, s. 2204; 2012, c. 19, s. 611, c. 31, s. 437; 2013, c. 40, s. 128.
 
 
@@ -2407,12 +2411,33 @@ is to be considered to have worked or not worked a full working week;
 
 **66.31** 
 
-- **(1)** The Commission shall, on or before September 14 in a year, make available to the public the report referred to in section 66.3 and a summary of that report.
+- **(1)** The Commission shall, on or before August 31 in a year, provide the Minister and the Minister of Finance with the report referred to in section 66.3 and a summary of that report.
+
+**Available to public**
+
+- **(2)** The Commission shall, on the day on which a premium rate is set under section 66 or 66.32, make available to the public the report and its summary.
 
 **Tabling in Parliament**
 
-- **(2)** After the report and its summary are made available to the public, the Minister shall cause them to be laid before each House of Parliament on any of the next 10 days during which that House is sitting.
-> 2012, c. 31, s. 438; 2013, c. 40, s. 130.
+- **(3)** After a premium rate is set, the Minister shall cause the report and its summary to be laid before each House of Parliament on any of the next 10 days during which that House is sitting.
+> 2012, c. 31, s. 438; 2013, c. 40, ss. 130, 131.
+
+
+
+
+
+**Premium rate setting by Governor in Council**
+
+**66.32** 
+
+- **(1)** On the joint recommendation of the Minister and the Minister of Finance, the Governor in Council may, on or before September 30 in a year,
+	- **(a)** if the Governor in Council considers it to be in the public interest, substitute a premium rate for the following year that is different from the one set by the Commission under section 66; or
+	- **(b)** if the Commission has not set a premium rate under that section by September 14 in the year, set one for the following year.
+
+**Non-application of subsection 66(7)**
+
+- **(2)** Subsection 66(7) does not apply to the setting of the premium rate under subsection (1).
+> 2013, c. 40, s. 131.
 
 
 
@@ -2420,21 +2445,26 @@ is to be considered to have worked or not worked a full working week;
 
 **Rounding percentage rates**
 
-**66.4** If the calculation of a premium rate under section 66 results in a rate that includes a fraction of one per cent, the resulting percentage is to be rounded to the nearest one hundredth of one per cent or, if the resulting percentage is equidistant from two one-hundredths of one percent, to the higher of them.
-> 2005, c. 30, s. 126; 2008, c. 28, s. 127; 2012, c. 31, s. 438.
+**66.4** If the calculation of a premium rate under section 66 or 66.32 results in a rate that includes a fraction of one per cent, the resulting percentage is to be rounded to the nearest one hundredth of one per cent or, if the resulting percentage is equidistant from two one-hundredths of one percent, to the higher of them.
+> 2005, c. 30, s. 126; 2008, c. 28, s. 127; 2012, c. 31, s. 438; 2013, c. 40, s. 131.
 
 
 
 
-**66.5** [Repealed, 2013, c. 40, s. 132]
+
+**Publication in Canada Gazette**
+
+**66.5** As soon as possible after a premium rate is set under section 66 or 66.32, the Commission shall publish it in Part I of the Canada Gazette.
+> 2005, c. 30, s. 126; 2008, c. 28, s. 127; 2012, c. 31, s. 438; 2013, c. 40, ss. 131, 132.
+
 
 
 
 
 **[User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
 
-**66.6** For greater certainty, the [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply in respect of the premium rate set under section 66 or the premiums determined under sections 67 and 68.
-> 2005, c. 30, s. 126; 2012, c. 31, s. 438.
+**66.6** For greater certainty, the [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply in respect of the premium rate set under section 66 or 66.32 or the premiums determined under sections 67 and 68.
+> 2005, c. 30, s. 126; 2012, c. 31, s. 438; 2013, c. 40, s. 131.
 
 
 
@@ -2442,8 +2472,8 @@ is to be considered to have worked or not worked a full working week;
 
 **Employee’s premium**
 
-**67** Subject to section 70, a person employed in insurable employment shall pay, by deduction as provided in subsection 82(1), a premium equal to their insurable earnings multiplied by the premium rate set under section 66.
-> 1996, c. 23, s. 67; 2001, c. 5, s. 10; 2003, c. 15, s. 21; 2004, c. 22, s. 26; 2005, c. 30, s. 126; 2013, c. 40, s. 133.
+**67** Subject to section 70, a person employed in insurable employment shall pay, by deduction as provided in subsection 82(1), a premium equal to their insurable earnings multiplied by the premium rate set under section 66 or 66.32, as the case may be.
+> 1996, c. 23, s. 67; 2001, c. 5, s. 10; 2003, c. 15, s. 21; 2004, c. 22, s. 26; 2005, c. 30, s. 126; 2013, c. 40, ss. 131, 133.
 
 
 
@@ -5163,7 +5193,7 @@ and
 
 **152.21** 
 
-- **(1)** Every self-employed person who has entered into an agreement referred to in subsection 152.02(1) that has not been terminated or that is not deemed to have been terminated shall, in respect of every year, pay a self-employment premium equal to the amount determined under subsection (2) multiplied by the premium rate set under section 66.
+- **(1)** Every self-employed person who has entered into an agreement referred to in subsection 152.02(1) that has not been terminated or that is not deemed to have been terminated shall, in respect of every year, pay a self-employment premium equal to the amount determined under subsection (2) multiplied by the premium rate set under section 66 or 66.32, as the case may be.
 
 **Amount**
 
@@ -5177,7 +5207,7 @@ and
 - **(3)** For greater certainty, a premium is required to be paid
 	- **(a)** in respect of the year during which the self-employed person entered into the agreement, regardless of the date on which it was entered into; and
 	- **(b)** in respect of the year during which the agreement is terminated or deemed to be terminated, regardless of the date on which it was terminated or deemed to be terminated.
-> 2009, c. 33, s. 16.
+> 2009, c. 33, s. 16; 2013, c. 40, s. 136.
 
 
 
