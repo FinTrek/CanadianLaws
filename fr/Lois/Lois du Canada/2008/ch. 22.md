@@ -808,6 +808,8 @@ Loi sur l’accord définitif concernant la Première Nation de Tsawwassen<br />
 
 Loi sur l’accord définitif concernant les premières nations maanulthes<br />- <i>Maanulth First Nations Final Agreement Act</i>
 
+Loi sur l’accord définitif concernant les Tlaamins<br />- <i>Tla’amin Final Agreement Act</i>
+
 Loi sur l’Accord définitif nisga’a<br />- <i>Nisga’a Final Agreement Act</i>
 
 Loi sur l’autonomie gouvernementale de la bande indienne sechelte<br />- <i>Sechelt Indian Band Self-Government Act</i>
@@ -855,6 +857,6 @@ Entente sur l’autonomie gouvernementale du Conseil des Ta’an Kwach’an<br /
 Entente sur l’autonomie gouvernementale du conseil des Tlingits de Teslin<br />- <i>Teslin Tlingit Council Self-Government Agreement</i>
 
 
-> 2008, ch. 22, ann., ch. 32, art. 31; 2009, ch. 18, art. 24.
+> 2008, ch. 22, ann., ch. 32, art. 31; 2009, ch. 18, art. 24; 2014, ch. 11, art. 26.
 
 
