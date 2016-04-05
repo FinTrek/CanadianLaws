@@ -1883,6 +1883,12 @@ et ce, en caractères de dimensions au moins égales et aussi bien en vue que le
 
 
 
+**B.01.050** Il est interdit d’employer sur l’étiquette ou l’emballage, dans la réclame ou pour la vente d’un produit alimentaire le mot « halal », une lettre de l’alphabet arabe ou tout autre mot, expression, illustration, signe, symbole, marque, véhicule ou autre représentation indiquant ou risquant de donner l’impression que ce produit est « halal », à moins d’indiquer sur l’étiquette ou l’emballage, dans la réclame ou dans le cadre de la vente, le nom de l’organisme ou de la personne qui a certifié que ce produit est « halal ».
+> DORS/2014-76, art. 1.
+
+
+
+
 **B.01.053** Il est interdit de vendre un produit présenté comme déjeuner prêt à manger ou déjeuner instantané, ou sous toute autre appellation semblable, à moins qu’il n’y ait dans chaque portion déterminée :
 - **a)** au moins 4,0 mg de fer;
 - **b)** de la vitamine A, de la thiamine, de la riboflavine, de la niacine ou de la niacinamide et de la vitamine C;
