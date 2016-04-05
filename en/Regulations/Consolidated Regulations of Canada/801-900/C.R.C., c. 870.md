@@ -1883,6 +1883,12 @@ in letters of at least the same size and prominence as the letters used in the n
 
 
 
+**B.01.050** A person must not use, in labelling, packaging, advertising or selling a food, the word “halal” — or any letters of the Arabic alphabet or any other word, expression, depiction, sign, symbol, mark, device or other representation that indicates or that is likely to create an impression that the food is halal — unless the name of the person or body that certified the food as halal is indicated on the label or package or in the advertisement or sale.
+> SOR/2014-76, s. 1.
+
+
+
+
 **B.01.053** No person shall sell a product represented as a ready breakfast or instant breakfast or by any similar designation unless each serving of stated size of the product contains
 - **(a)** not less than 4.0 mg. iron;
 - **(b)** Vitamin A, thiamine, riboflavin, niacin or niacinamide and Vitamin C;
