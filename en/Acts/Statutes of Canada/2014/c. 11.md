@@ -56,13 +56,13 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** The following definitions apply in this Act.
 
-***Agreement*** means the Tla’amin Final Agreement, between the Tla’amin Nation, Her Majesty in right of Canada and Her Majesty in right of British Columbia, including any amendments made to it.
+***Agreement*** means the Tla’amin Final Agreement, between the Tla’amin Nation, Her Majesty in right of Canada and Her Majesty in right of British Columbia, including any amendments made to it. (*accord*)
 
-***Tax Treatment Agreement*** means the tax treatment agreement referred to in paragraph 22 of Chapter 21 of the Agreement, including any amendments made to it.
+***Tax Treatment Agreement*** means the tax treatment agreement referred to in paragraph 22 of Chapter 21 of the Agreement, including any amendments made to it. (*accord sur le traitement fiscal*)
 
 **Definitions in Agreement**
 
-- **(2)** In this Act, ***Former Sliammon Indian Reserves***, ***Other Tla’amin Lands***, ***Sliammon Indian Band***, ***Tla’amin Citizen***, ***Tla’amin Corporation***, ***Tla’amin Government***, ***Tla’amin Lands***, ***Tla’amin Law***, ***Tla’amin Nation*** and ***Tla’amin Public Institution*** have the same meanings as in Chapter 1 of the Agreement.
+- **(2)** In this Act, Former Sliammon Indian Reserves, Other Tla’amin Lands, Sliammon Indian Band, Tla’amin Citizen, Tla’amin Corporation, Tla’amin Government, Tla’amin Lands, Tla’amin Law, Tla’amin Nation and Tla’amin Public Institution have the same meanings as in Chapter 1 of the Agreement.
 
 
 
@@ -338,6 +338,6 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 <sup><a href='#fn_IndF0F9_hq_14142'>[*]</a></sup>**27** The provisions of this Act, other than section 19, come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_IndF0F9_hq_14142'><sup>*</sup></a>: [Note: The provisions of this Act, other than section 19, not in force.]<br />
+<a name='fn_IndF0F9_hq_14142'><sup>*</sup></a>: [Note: The provisions of this Act, other than section 19, in force April 5, 2016, *see* SI/2016-4.]<br />
 
 
