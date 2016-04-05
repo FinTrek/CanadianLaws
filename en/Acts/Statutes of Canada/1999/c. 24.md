@@ -1062,7 +1062,6 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 <tr>
 <td>1</td>
 <td>[Repealed, SOR/2012-291, s. 1]</td>
-<td></td>
 </tr>
 <tr>
 <td>2</td>
@@ -1177,7 +1176,6 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 <tr>
 <td>24</td>
 <td>[Repealed, 2008, c. 32, s. 27]</td>
-<td></td>
 </tr>
 <tr>
 <td>25</td>
@@ -1206,8 +1204,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 </tr>
 <tr>
 <td>30</td>
-<td>Sliammon</td>
-<td>September 30, 2004</td>
+<td>[Repealed, 2014, c. 11, s. 25]</td>
 </tr>
 <tr>
 <td>31</td>
@@ -1227,7 +1224,6 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 <tr>
 <td>34</td>
 <td>[Repealed, 2012, c. 19, s. 646]</td>
-<td></td>
 </tr>
 <tr>
 <td>35</td>
@@ -1656,6 +1652,6 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 </tr>
 </table>
 
-> 1999, c. 24, Sch.; SOR/2003-178; SOR/2006-216; 2008, c. 32, s. 27; SOR/2008-51, 267; 2012, c. 19, ss. 637 to 651; SOR/2012-217, 291; SOR/2014-89, 268; SOR/2016-27, 67.
+> 1999, c. 24, Sch.; SOR/2003-178; SOR/2006-216; 2008, c. 32, s. 27; SOR/2008-51, 267; 2012, c. 19, ss. 637 to 651; SOR/2012-217, 291; 2014, c. 11, s. 25; SOR/2014-89, 268; SOR/2016-27, 67.
 
 
