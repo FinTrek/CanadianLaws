@@ -816,6 +816,8 @@ Nisga’a Final Agreement Act<br />- <i>Loi sur l’Accord définitif nisga’a<
 
 Sechelt Indian Band Self-Government Act<br />- <i>Loi sur l’autonomie gouvernementale de la bande indienne sechelte</i>
 
+Tla’amin Final Agreement Act<br />- <i>Loi sur l’accord définitif concernant les Tlaamins</i>
+
 Tlicho Land Claims and Self-Government Act<br />- <i>Loi sur les revendications territoriales et l’autonomie gouvernementale du peuple tlicho</i>
 
 Tsawwassen First Nation Final Agreement Act<br />- <i>Loi sur l’accord définitif concernant la Première Nation de Tsawwassen</i>
@@ -855,6 +857,6 @@ Tr’ondek Hwech’in Self-Government Agreement<br />- <i>Entente sur l’autono
 Vuntut Gwitchin First Nation Self-Government Agreement<br />- <i>Entente sur l’autonomie gouvernementale de la première nation des Gwitchin Vuntut</i>
 
 
-> 2008, c. 22, Sch., c. 32, s. 31; 2009, c. 18, s. 24.
+> 2008, c. 22, Sch., c. 32, s. 31; 2009, c. 18, s. 24; 2014, c. 11, s. 26.
 
 
