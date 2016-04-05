@@ -58,13 +58,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***accord*** L’accord définitif concernant les Tlaamins conclu entre la Nation des Tlaamins, Sa Majesté du chef du Canada et Sa Majesté du chef de la Colombie-Britannique, avec ses modifications éventuelles.
+***accord*** L’accord définitif concernant les Tlaamins conclu entre la Nation des Tlaamins, Sa Majesté du chef du Canada et Sa Majesté du chef de la Colombie-Britannique, avec ses modifications éventuelles. (*Agreement*)
 
-***accord sur le traitement fiscal*** L’accord sur le traitement fiscal visé à l’article 22 du chapitre 21 de l’accord, avec ses modifications éventuelles.
+***accord sur le traitement fiscal*** L’accord sur le traitement fiscal visé à l’article 22 du chapitre 21 de l’accord, avec ses modifications éventuelles. (*Tax Treatment Agreement*)
 
 **Définitions de l’accord**
 
-- **(2)** Dans la présente loi, ***anciennes réserves indiennes des Sliammons***, ***autres terres tlaamines***, ***bande indienne des Sliammons***, ***citoyen tlaamin***, ***gouvernement tlaamin***, ***institution publique tlaamine***, ***loi tlaamine***, ***Nation des Tlaamins***, ***société tlaamine*** et ***terres tlaamines*** s’entendent respectivement au sens de ***anciennes réserves indiennes des Sliammon***, ***autres terres tla’amines***, ***bande indienne des Sliammon***, ***citoyen tla’amin***, ***gouvernement tla’amin***, ***institution publique tla’amine***, ***loi tla’amine***, ***Nation des Tla’amins***, ***société tla’amine*** et ***terres tla’amines***, au chapitre 1 de l’accord.
+- **(2)** Dans la présente loi, anciennes réserves indiennes des Sliammons, autres terres tlaamines, bande indienne des Sliammons, citoyen tlaamin, gouvernement tlaamin, institution publique tlaamine, loi tlaamine, Nation des Tlaamins, société tlaamine et terres tlaamines s’entendent respectivement au sens de anciennes réserves indiennes des Sliammon, autres terres tla’amines, bande indienne des Sliammon, citoyen tla’amin, gouvernement tla’amin, institution publique tla’amine, loi tla’amine, Nation des Tla’amins, société tla’amine et terres tla’amines, au chapitre 1 de l’accord.
 
 
 
@@ -183,7 +183,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Indemnisation**
 
-**13** Tant que la [Loi sur la gestion des terres des premières nations](/fr/Lois/Lois%20du%20Canada/1999/ch.%2024.md) demeure en vigueur, l’État fédéral est tenu, à compter de la date d’entrée en vigueur de l’accord, d’indemniser la Nation des Tlaamins, et vice versa, relativement aux faits  —  actions ou omissions  —  accomplis à l’égard des anciennes réserves indiennes des Sliammons, selon les mêmes conditions et modalités que celles qui seraient applicables si cette loi continuait de s’appliquer à ces réserves.
+**13** Tant que la [Loi sur la gestion des terres des premières nations](/fr/Lois/Lois%20du%20Canada/1999/ch.%2024.md) demeure en vigueur, l’État fédéral est tenu, à compter de la date d’entrée en vigueur de l’accord, d’indemniser la Nation des Tlaamins, et vice versa, relativement aux faits — actions ou omissions — accomplis à l’égard des anciennes réserves indiennes des Sliammons, selon les mêmes conditions et modalités que celles qui seraient applicables si cette loi continuait de s’appliquer à ces réserves.
 
 
 
@@ -335,6 +335,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind6872_hq_14141'>[*]</a></sup>**27** Les dispositions de la présente loi, à l’exception de l’article 19, entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind6872_hq_14141'><sup>*</sup></a>: [Note : Les dispositions de la présente loi, à l’exception de l’article 19, non en vigueur.]<br />
+<a name='fn_Ind6872_hq_14141'><sup>*</sup></a>: [Note : Les dispositions de la présente loi, à l’exception de l’article 19, en vigueur le 5 avril 2016, *voir* TR/2016-4.]<br />
 
 
