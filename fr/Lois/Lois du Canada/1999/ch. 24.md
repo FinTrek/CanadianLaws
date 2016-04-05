@@ -1196,8 +1196,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 </tr>
 <tr>
 <td>30</td>
-<td>Sliammon</td>
-<td>30 septembre 2004</td>
+<td>[Abrogé, 2014, ch. 11, art. 25]</td>
 </tr>
 <tr>
 <td>31</td>
@@ -1217,7 +1216,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 <tr>
 <td>34</td>
 <td>[Abrogé, 2012, ch. 19, art. 646]</td>
-<td></td>
 </tr>
 <tr>
 <td>35</td>
@@ -1646,6 +1644,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 </tr>
 </table>
 
-> 1999, ch. 24, ann.; DORS/2003-178; DORS/2006-216; 2008, ch. 32, art. 27; DORS/2008-51, 267; 2012, ch. 19, art. 637 à 651; DORS/2012-217, 291; DORS/2014-89, 268; DORS/2016-27, 67.
+> 1999, ch. 24, ann.; DORS/2003-178; DORS/2006-216; 2008, ch. 32, art. 27; DORS/2008-51, 267; 2012, ch. 19, art. 637 à 651; DORS/2012-217, 291; 2014, ch. 11, art. 25; DORS/2014-89, 268; DORS/2016-27, 67.
 
 
