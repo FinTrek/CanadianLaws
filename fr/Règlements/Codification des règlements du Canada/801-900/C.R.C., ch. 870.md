@@ -406,162 +406,164 @@ la conception du contenant, les matériaux utilisés pour sa fabrication ou la p
 
 - **(1)** Dans la présente partie,
 
-***acides gras monoinsaturés***, ***graisses monoinsaturées***, ***gras monoinsaturés***, ***lipides monoinsaturés*** ou ***monoinsaturés*** Acides gras *cis*-monoinsaturés. (*monounsaturated fatty acids*, *monounsaturated fat*, *monounsaturates*or*monounsaturated*)
+***acides gras monoinsaturés***, ***graisses monoinsaturées***, ***gras monoinsaturés***, ***lipides monoinsaturés*** ou ***monoinsaturés*** Acides gras *cis*-monoinsaturés; (*monounsaturated fatty acids*, *monounsaturated fat*, *monounsaturates* or *monounsaturated*)
 
-***acides gras polyinsaturés***, ***graisses polyinsaturées***, ***gras polyinsaturés***, ***lipides polyinsaturés*** ou ***polyinsaturés*** Acides gras polyinsaturés à interruption *cis*-méthylénique. (*polyunsaturated fatty acids*, *polyunsaturated fat*, *polyunsaturates*or*polyunsaturated*)
+***acides gras polyinsaturés***, ***graisses polyinsaturées***, ***gras polyinsaturés***, ***lipides polyinsaturés*** ou ***polyinsaturés*** Acides gras polyinsaturés à interruption *cis*-méthylénique; (*polyunsaturated fatty acids*, *polyunsaturated fat*, *polyunsaturates* or *polyunsaturated*)
 
-***acides gras polyinsaturés oméga-3***, ***graisses polyinsaturées oméga-3***, ***gras polyinsaturés oméga-3***, ***lipides polyinsaturés oméga-3***, ***polyinsaturés oméga-3*** ou ***oméga-3*** Selon le cas :
+***acides gras polyinsaturés oméga-3***, ***graisses polyinsaturées oméga-3***, ***gras polyinsaturés oméga-3***, ***lipides polyinsaturés oméga-3***, ***polyinsaturés oméga-3*** ou ***oméga-3*** Selon le cas :
 - **a)** acide 9-*cis*, 12-*cis*, 15-*cis* octadécatriénoïque ou acide α-linolénique;
 - **b)** acide 8-*cis*, 11-*cis*, 14-*cis*, 17-*cis* éicosatétraénoïque;
 - **c)** acide 5-*cis*, 8-*cis*, 11-*cis*, 14-*cis*, 17-*cis* éicosapentaénoïque ou AEP;
 - **d)** acide 7-*cis*, 10-*cis*, 13-*cis*, 16-*cis*, 19-*cis* docosapentaénoïque;
-- **e)** acide 4-*cis*, 7-*cis*, 10-*cis*, 13-*cis*, 16-*cis*, 19-*cis* docosahexaénoïque ou ADH. (*omega-3 polyunsaturated fatty acids*, *omega-3 polyunsaturated fat*, *omega-3 polyunsaturates*, *omega-3 polyunsaturated*or*omega-3*)
+- **e)** acide 4-*cis*, 7-*cis*, 10-*cis*, 13-*cis*, 16-*cis*, 19-*cis* docosahexaénoïque ou ADH; (*omega-3 polyunsaturated fatty acids*, *omega-3 polyunsaturated fat*, *omega-3 polyunsaturates*, *omega-3 polyunsaturated* or *omega-3*)
 
-***acides gras polyinsaturés oméga-6***, ***graisses polyinsaturées oméga-6***, ***gras polyinsaturés oméga-6***, ***lipides polyinsaturés oméga-6***, ***polyinsaturés oméga-6*** ou ***oméga-6*** Selon le cas :
+***acides gras polyinsaturés oméga-6***, ***graisses polyinsaturées oméga-6***, ***gras polyinsaturés oméga-6***, ***lipides polyinsaturés oméga-6***, ***polyinsaturés oméga-6*** ou ***oméga-6*** Selon le cas :
 - **a)** acide 9-*cis*, 12-*cis* octadécadiénoïque ou acide linoléique;
 - **b)** acide 6-*cis*, 9-*cis*, 12-*cis* octadécatriénoïque;
 - **c)** acide 8-*cis*, 11-*cis*, 14-*cis* éicosatriénoïque ou acide di-homo-γ-linolénique;
 - **d)** acide 5-*cis*, 8-*cis*, 11-*cis*, 14-*cis* éicosatétraénoïque ou acide arachidonique;
 - **e)** acide 7-*cis*, 10-*cis*, 13-*cis*, 16-*cis* docosatétraénoïque;
-- **f)** acide 4-*cis*, 7-*cis*, 10-*cis*, 13-*cis*, 16-*cis* docosapentaénoïque. (*omega-6 polyunsaturated fatty acids*, *omega-6 polyunsaturated fat*, *omega-6 polyunsaturates*, *omega-6 polyunsaturated*or*omega-6*)
+- **f)** acide 4-*cis*, 7-*cis*, 10-*cis*, 13-*cis*, 16-*cis* docosapentaénoïque; (*omega-6 polyunsaturated fatty acids*, *omega-6 polyunsaturated fat*, *omega-6 polyunsaturates*, *omega-6 polyunsaturated* or *omega-6*)
 
-***acides gras saturés***, ***graisses saturées***, ***gras saturés***, ***lipides saturés*** ou ***saturés*** Acides gras ne contenant aucune liaison double. (*saturated fatty acids*, *saturated fat*, *saturates**or **saturated*)
+***acides gras saturés***, ***graisses saturées***, ***gras saturés***, ***lipides saturés*** ou ***saturés*** Acides gras ne contenant aucune liaison double; (*saturated fatty acids*, *saturated fat*, *saturates**or**saturated*)
 
-***acides gras trans***, ***graisses trans***, ***gras trans***, ***lipides trans*** ou ***trans*** Acides gras insaturés qui contiennent une ou plusieurs liaisons doubles isolées ou non conjuguées de configuration *trans*. (*trans fatty acids*, *trans fat**or **trans*)
+***acides gras trans***, ***graisses trans***, ***gras trans***, ***lipides trans*** ou ***trans*** Acides gras insaturés qui contiennent une ou plusieurs liaisons doubles isolées ou non conjuguées de configuration *trans*; (*trans fatty acids*, *trans fat**or**trans* )
 
-***additif alimentaire*** s’entend de toute substance dont l’emploi est tel ou peut vraisemblablement être tel que cette substance ou ses sous-produits sont intégrés à un aliment ou en modifient les caractéristiques, à l’exclusion de ce qui suit :
+***additif alimentaire*** s’entend de toute substance dont l’emploi est tel ou peut vraisemblablement être tel que cette substance ou ses sous-produits sont intégrés à un aliment ou en modifient les caractéristiques, à l’exclusion de ce qui suit :
 - **a)** toute substance nutritive qui est employée, reconnue ou vendue couramment comme substance alimentaire ou comme ingrédient d’un aliment,
 - **b)** vitamines, minéraux nutritifs et acides aminés, autres que ceux qui sont énumérés aux tableaux du Titre 16,
 - **c)** épices, assaisonnements, préparations aromatisantes, essences, oléorésines et extraits naturels,
 - **d)** produits chimiques agricoles autres que ceux visés aux tableaux du titre 16,
 - **e)** matériaux d’emballage des aliments ou toute substance qui entre dans leur composition, et
-- **f)** produits pharmaceutiques recommandés pour les animaux dont la chair peut être consommée par l’homme; (*food additive*)
+- **f)** produits pharmaceutiques recommandés pour les animaux dont la chair peut être consommée par l’homme; (*food additive*)
 
-***agent édulcorant*** Vise notamment tout aliment qui fait l’objet d’une norme énoncée dans le titre 18, mais non les additifs alimentaires visés aux tableaux du titre 16. (*sweetening agent*)
+***agent édulcorant*** Vise notamment tout aliment qui fait l’objet d’une norme énoncée dans le titre 18, mais non les additifs alimentaires visés aux tableaux du titre 16; (*sweetening agent*)
 
-***agent gélatinisant*** désigne la gélatine, l’agar-agar et la carragénine; (*gelling agent*)
+***agent gélatinisant*** désigne la gélatine, l’agar-agar et la carragénine; (*gelling agent*)
 
-***aliment non normalisé*** désigne tout aliment pour lequel la présente partie ne prescrit pas de norme; (*unstandardized food*)
+***aliment non normalisé*** désigne tout aliment pour lequel la présente partie ne prescrit pas de norme; (*unstandardized food*)
 
-***allongeur de produit de viande*** désigne un aliment qui est source de protéines et qui est présenté comme devant servir à augmenter le volume de produits de viande; (*meat product extender*)
+***allongeur de produit de viande*** désigne un aliment qui est source de protéines et qui est présenté comme devant servir à augmenter le volume de produits de viande; (*meat product extender*)
 
-***allongeur de produit de volaille*** désigne un aliment qui est source de protéines et qui est présenté comme devant servir à augmenter le volume de produits de volaille; (*poultry product extender*)
+***allongeur de produit de volaille*** désigne un aliment qui est source de protéines et qui est présenté comme devant servir à augmenter le volume de produits de volaille; (*poultry product extender*)
 
-***apport nutritionnel recommandé pondéré*** Relativement à une vitamine ou à un minéral nutritif figurant à la colonne I du tableau II du titre 1 de la partie D ou à la colonne I du tableau II du titre 2 de cette partie, la quantité indiquée dans la colonne III. (*weighted recommended nutrient intake*)
+***apport nutritionnel recommandé pondéré*** Relativement à une vitamine ou à un minéral nutritif figurant à la colonne I du tableau II du titre 1 de la partie D ou à la colonne I du tableau II du titre 2 de cette partie, la quantité indiquée dans la colonne III; (*weighted recommended nutrient intake*)
 
-***apport quotidien recommandé*** Relativement à une vitamine ou à un minéral nutritif figurant à la colonne I du tableau I du titre 1 de la partie D ou à la colonne I du tableau I du titre 2 de cette partie :
+***apport quotidien recommandé*** Relativement à une vitamine ou à un minéral nutritif figurant à la colonne I du tableau I du titre 1 de la partie D ou à la colonne I du tableau I du titre 2 de cette partie :
 - **a)** dans le cas d’un produit préemballé destiné exclusivement aux enfants âgés de moins de deux ans, la quantité indiquée dans la colonne III;
-- **b)** dans les autres cas, la quantité indiquée dans la colonne II. (*recommended daily intake*)
+- **b)** dans les autres cas, la quantité indiquée dans la colonne II; (*recommended daily intake*)
 
-***à proximité***, appliqué au nom usuel, signifie adjacent au nom usuel sans qu’aucun texte imprimé ou écrit, ni aucun signe graphique, ne soit intercalé entre les deux; (*close proximity*)
+***à proximité***, appliqué au nom usuel, signifie adjacent au nom usuel sans qu’aucun texte imprimé ou écrit, ni aucun signe graphique, ne soit intercalé entre les deux; (*close proximity*)
 
-***boeuf attendri mécaniquement*** Boeuf coupé solide non cuit conditionné de l’une des façons suivantes :
+***boeuf attendri mécaniquement*** Boeuf coupé solide non cuit conditionné de l’une des façons suivantes :
 - **a)** sa surface est affaiblie du fait qu’elle est perforée par des lames, des aiguilles ou tout autre instrument similaire;
-- **b)** une marinade ou toute autre solution attendrissante y est injectée. (*mechanically tenderized beef*)
+- **b)** une marinade ou toute autre solution attendrissante y est injectée; (*mechanically tenderized beef*)
 
-***colorant alimentaire*** désigne les matières colorantes que le titre 6 permet d’employer dans ou sur les produits alimentaires; (*food colour*)
+***colorant alimentaire*** désigne les matières colorantes que le titre 6 permet d’employer dans ou sur les produits alimentaires; (*food colour*)
 
-***constituant*** désigne une unité alimentaire alliée, en tant qu’élément alimentaire individuel, à une ou plusieurs autres unités alimentaires pour former un ingrédient; (*component*)
+***constituant*** désigne une unité alimentaire alliée, en tant qu’élément alimentaire individuel, à une ou plusieurs autres unités alimentaires pour former un ingrédient; (*component*)
 
-***date limite de conservation*** désigne la date où la durée de conservation d’un produit préemballé prend fin; (*durable life date*)
+***date limite de conservation*** désigne la date où la durée de conservation d’un produit préemballé prend fin; (*durable life date*)
 
-***durée de conservation*** désigne la période, commençant le jour de l’emballage pour la vente au détail, pendant laquelle un produit préemballé qui est en stockage dans des conditions qui conviennent audit produit, retiendra, sans détérioration appréciable, la nature saine, le caractère agréable au goût et la valeur nutritive que possède ordinairement ce produit, ainsi que toute autre qualité revendiquée par le fabricant; (*durable life*)
+***durée de conservation*** désigne la période, commençant le jour de l’emballage pour la vente au détail, pendant laquelle un produit préemballé qui est en stockage dans des conditions qui conviennent audit produit, retiendra, sans détérioration appréciable, la nature saine, le caractère agréable au goût et la valeur nutritive que possède ordinairement ce produit, ainsi que toute autre qualité revendiquée par le fabricant; (*durable life*)
 
-***édulcorant*** Additif alimentaire désigné comme édulcorant au tableau IX de l’article B.16.100. (*sweetener*)
+***édulcorant*** Additif alimentaire désigné comme édulcorant au tableau IX de l’article B.16.100; (*sweetener*)
 
-***emballage décoratif*** désigne un emballage sur lequel ne figure, sauf sur le dessous, aucune indication promotionnelle ou publicitaire autre qu’une marque de commerce ou un nom usuel et qui, à cause d’un dessin figurant sur sa surface ou à cause de sa forme ou de son apparence, semble être décoratif et est vendu à titre d’objet décoratif en plus d’être vendu comme emballage du produit; (*ornamental container*)
+***emballage décoratif*** désigne un emballage sur lequel ne figure, sauf sur le dessous, aucune indication promotionnelle ou publicitaire autre qu’une marque de commerce ou un nom usuel et qui, à cause d’un dessin figurant sur sa surface ou à cause de sa forme ou de son apparence, semble être décoratif et est vendu à titre d’objet décoratif en plus d’être vendu comme emballage du produit; (*ornamental container*)
 
-***espace principal*** Malgré la définition de ce terme à l’article A.01.010, vise :
+***espace principal*** Malgré la définition de ce terme à l’article A.01.010, vise :
 - **a)** dans le cas d’une étiquette apposée sur un produit préemballé visé par la [Loi sur l’emballage et l’étiquetage des produits de consommation](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-38.md), l’espace principal défini dans le [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md),
 - **b)** dans le cas d’une étiquette apposée sur un produit préemballé non visé par la [Loi sur l’emballage et l’étiquetage des produits de consommation](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-38.md), la portion de l’étiquette apposée sur tout ou partie de la face ou de la surface de l’emballage qui est exposée ou visible dans les conditions normales ou habituelles de vente ou d’utilisation, et dans les cas où l’emballage ne possède pas une telle face ou surface, la portion de l’étiquette apposée sur toute partie de l’emballage, à l’exclusion du dessous de l’emballage, le cas échéant, et
-- **c)** dans le cas d’une étiquette apposée sur un aliment qui n’est pas un produit préemballé, la portion de l’étiquette apposée sur tout ou partie de la face ou de la surface de l’aliment qui est exposée ou visible dans les conditions normales ou habituelles de vente ou d’utilisation; (*principal display panel*)
+- **c)** dans le cas d’une étiquette apposée sur un aliment qui n’est pas un produit préemballé, la portion de l’étiquette apposée sur tout ou partie de la face ou de la surface de l’aliment qui est exposée ou visible dans les conditions normales ou habituelles de vente ou d’utilisation; (*principal display panel*)
 
-***ingrédient*** désigne une unité alimentaire alliée, en tant qu’élément alimentaire, à une ou plusieurs autres unités alimentaires pour former une denrée alimentaire intégrale vendue comme produit préemballé; (*ingredient*)
+***ingrédient*** désigne une unité alimentaire alliée, en tant qu’élément alimentaire, à une ou plusieurs autres unités alimentaires pour former une denrée alimentaire intégrale vendue comme produit préemballé; (*ingredient*)
+
+***Liste de contaminants et d’autres substances adultérantes dans les aliments*** La Liste de contaminants et d’autres substances adultérantes dans les aliments, publiée par le ministère de la Santé sur son site Web, avec ses modifications successives; (*List of Contaminants and Other Adulterating Substances in Foods*)
 
 ***nom usuel***, en ce qui a trait à un aliment, désigne
 - **a)** le nom de l’aliment imprimé en caractères gras dans le présent règlement,
 - **b)** le nom prescrit par un autre règlement, ou
-- **c)** si le nom de l’aliment n’est pas ainsi imprimé ou prescrit, le nom sous lequel l’aliment est généralement connu; (*common name*)
+- **c)** si le nom de l’aliment n’est pas ainsi imprimé ou prescrit, le nom sous lequel l’aliment est généralement connu; (*common name*)
 
-***norme de référence*** Relativement à un élément nutritif figurant à la colonne 1 du tableau de l’article B.01.001.1, la quantité indiquée dans la colonne 2. (*reference standard*)
+***norme de référence*** Relativement à un élément nutritif figurant à la colonne 1 du tableau de l’article B.01.001.1, la quantité indiquée dans la colonne 2; (*reference standard*)
 
-***oeuf à jaune substitué*** désigne un aliment qui
+***oeuf à jaune substitué*** désigne un aliment qui
 - **a)** ne contient pas de jaune d’oeuf mais qui contient de l’albumen d’oeuf liquide, en poudre ou congelé ou un mélange de ces trois formes,
 - **b)** est destiné à servir de substitut à l’oeuf entier, et
-- **c)** est conforme aux exigences de l’article B.22.032; (*yolk-replaced egg*)
+- **c)** est conforme aux exigences de l’article B.22.032; (*yolk-replaced egg*)
 
 ***parties par million***[Abrogée, DORS/2010-94, art. 1]
 
-***parties par million*** ou ***p.p.m.*** S’entend de parties par million en poids, à moins d’indication contraire. (*parts per million or p.p.m.*)
+***parties par million*** ou ***p.p.m.*** S’entend de parties par million en poids, à moins d’indication contraire; (*parts per million or p.p.m.*)
 
-***pour cent *** ou ***%*** Pourcentage en poids, à moins d’indication contraire; (*per cent** ou **%*)
+***pour cent*** ou ***%*** Pourcentage en poids, à moins d’indication contraire; (*per cent**ou**%*)
 
-***préparation aromatisante*** s’applique à tout aliment qui fait l’objet d’une norme du titre 10; (*flavouring preparation*)
+***préparation aromatisante*** s’applique à tout aliment qui fait l’objet d’une norme du titre 10; (*flavouring preparation*)
 
-***produit chimique agricole*** Toute substance utilisée ou présentée comme étant utilisable dans un aliment, ou sur sa surface, pendant sa production, son entreposage ou son transport et dont l’utilisation donne lieu, ou dont on peut raisonnablement s’attendre à ce qu’elle donne lieu, à un résidu ou à un composant ou dérivé de la substance dans l’aliment ou sur sa surface, y compris tout produit antiparasitaire au sens du paragraphe 2(1) de la [Loi sur les produits antiparasitaires](/fr/Lois/Lois%20du%20Canada/2002/ch.%2028.md), régulateur de croissance des végétaux, fertilisant ou tout adjuvant ou véhicule utilisé avec la substance. Sont toutefois exclus les produits suivants :
+***produit chimique agricole*** Toute substance utilisée ou présentée comme étant utilisable dans un aliment, ou sur sa surface, pendant sa production, son entreposage ou son transport et dont l’utilisation donne lieu, ou dont on peut raisonnablement s’attendre à ce qu’elle donne lieu, à un résidu ou à un composant ou dérivé de la substance dans l’aliment ou sur sa surface, y compris tout produit antiparasitaire au sens du paragraphe 2(1) de la [Loi sur les produits antiparasitaires](/fr/Lois/Lois%20du%20Canada/2002/ch.%2028.md), régulateur de croissance des végétaux, fertilisant ou tout adjuvant ou véhicule utilisé avec la substance. Sont toutefois exclus les produits suivants :
 - **a)** les additifs alimentaires visés aux tableaux de l’article B.16.100 et utilisés conformément à ces tableaux;
 - **b)** les substances nutritives utilisées, reconnues ou couramment vendues comme aliments ou comme ingrédients d’un aliment;
 - **c)** les vitamines, minéraux nutritifs et acides aminés;
 - **d)** les assaisonnements, épices, extraits naturels, huiles essentielles, oléorésines et préparations aromatisantes;
 - **e)** les matériaux d’emballage des aliments ou toute substance qui entre dans leur composition;
-- **f)** les drogues recommandées pour administration aux animaux pouvant être consommés comme aliments. (*agricultural chemical*)
+- **f)** les drogues recommandées pour administration aux animaux pouvant être consommés comme aliments; (*agricultural chemical*)
 
-***produit de poisson*** désigne du poisson ou du poisson préparé; (*fish product*)
+***produit de poisson*** désigne du poisson ou du poisson préparé; (*fish product*)
 
-***produit de viande*** désigne de la viande, des sous-produits de viande, de la viande préparée ou des sous-produits de viande préparée; (*meat product*)
+***produit de viande*** désigne de la viande, des sous-produits de viande, de la viande préparée ou des sous-produits de viande préparée; (*meat product*)
 
-***produit de viande avec allongeur*** désigne un produit de viande auquel un allongeur de produit de viande a été ajouté; (*extended meat product*)
+***produit de viande avec allongeur*** désigne un produit de viande auquel un allongeur de produit de viande a été ajouté; (*extended meat product*)
 
-***produit de volaille*** désigne de la viande de volaille, de la viande de volaille préparée, des sous-produits de viande de volaille ou des sous-produits de viande de volaille préparée; (*poultry product*)
+***produit de volaille*** désigne de la viande de volaille, de la viande de volaille préparée, des sous-produits de viande de volaille ou des sous-produits de viande de volaille préparée; (*poultry product*)
 
-***produit de volaille avec allongeur*** désigne un produit de volaille auquel un allongeur de produit de volaille a été ajouté; (*extended poultry product*)
+***produit de volaille avec allongeur*** désigne un produit de volaille auquel un allongeur de produit de volaille a été ajouté; (*extended poultry product*)
 
-***produit préemballé*** désigne un aliment contenu dans un emballage de manière à être normalement vendu, utilisé ou acheté par une personne; (*prepackaged product*)
+***produit préemballé*** désigne un aliment contenu dans un emballage de manière à être normalement vendu, utilisé ou acheté par une personne; (*prepackaged product*)
 
-***quantité de référence*** Relativement à un aliment figurant à la colonne 1 de l’annexe M, la quantité de cet aliment indiquée dans la colonne 2. (*reference amount*)
+***quantité de référence*** Relativement à un aliment figurant à la colonne 1 de l’annexe M, la quantité de cet aliment indiquée dans la colonne 2; (*reference amount*)
 
-***ration quotidienne raisonnable***, appliquée à un aliment énuméré à un poste de la colonne I de l’annexe K, désigne la quantité de cet aliment indiquée dans la colonne II de ladite annexe; (*reasonable daily intake*)
+***ration quotidienne raisonnable***, appliquée à un aliment énuméré à un poste de la colonne I de l’annexe K, désigne la quantité de cet aliment indiquée dans la colonne II de ladite annexe; (*reasonable daily intake*)
 
-***repas préemballé*** Choix préemballé d’aliments destiné à une seule personne, qui ne requiert aucune autre préparation que le réchauffage et qui contient au moins les portions suivantes, selon la description qui en est donnée dans la publication intitulée Guide alimentaire canadien pour manger sainement, autorisée par le ministre de la Santé nationale et du Bien-être social et publiée en 1992 par le ministère des Approvisionnements et Services :
+***repas préemballé*** Choix préemballé d’aliments destiné à une seule personne, qui ne requiert aucune autre préparation que le réchauffage et qui contient au moins les portions suivantes, selon la description qui en est donnée dans la publication intitulée Guide alimentaire canadien pour manger sainement, autorisée par le ministre de la Santé nationale et du Bien-être social et publiée en 1992 par le ministère des Approvisionnements et Services :
 - **a)** une portion de viande, poisson, volaille, légumineuses, noix, graines, oeufs ou lait ou produits du lait autres que le beurre, la crème, la crème sure, la crème glacée, le lait glacé et le sorbet laitier;
-- **b)** une portion de légumes, fruits ou produits céréaliers. (*prepackaged meal*)
+- **b)** une portion de légumes, fruits ou produits céréaliers; (*prepackaged meal*)
 
-***simili-produit de viande*** désigne un aliment qui ne contient aucun produit de viande, produit de volaille ni produit de poisson mais qui a l’apparence d’un produit de viande; (*simulated meat product*)
+***simili-produit de viande*** désigne un aliment qui ne contient aucun produit de viande, produit de volaille ni produit de poisson mais qui a l’apparence d’un produit de viande; (*simulated meat product*)
 
-***simili-produit de volaille*** désigne un aliment qui ne contient aucun produit de volaille, produit de viande ni produit de poisson mais qui a l’apparence d’un produit de volaille; (*simulated poultry product*)
+***simili-produit de volaille*** désigne un aliment qui ne contient aucun produit de volaille, produit de viande ni produit de poisson mais qui a l’apparence d’un produit de volaille; (*simulated poultry product*)
 
-***substitut de repas*** Préparation alimentaire qui, à elle seule, peut remplacer au moins un repas quotidien. (*meal replacement*)
+***substitut de repas*** Préparation alimentaire qui, à elle seule, peut remplacer au moins un repas quotidien; (*meal replacement*)
 
-***sucres*** désigne tous les monosaccharides et les disaccharides; (*sugars*)
+***sucres*** désigne tous les monosaccharides et les disaccharides; (*sugars*)
 
-***supplément nutritif*** Aliment vendu ou présenté comme supplément à un régime alimentaire dont l’apport en énergie et en éléments nutritifs essentiels peut ne pas être suffisant. (*nutritional supplement*)
+***supplément nutritif*** Aliment vendu ou présenté comme supplément à un régime alimentaire dont l’apport en énergie et en éléments nutritifs essentiels peut ne pas être suffisant; (*nutritional supplement*)
 
-***surface exposée disponible*** Relativement à un produit préemballé, les surfaces suivantes :
+***surface exposée disponible*** Relativement à un produit préemballé, les surfaces suivantes :
 - **a)** le dessous de tout emballage décoratif ou la totalité de la surface des deux côtés d’une étiquette mobile attachée à l’emballage décoratif, la plus grande surface étant à retenir;
 - **b)** la totalité de la surface des deux côtés de toute étiquette mobile attachée à un emballage sur lequel aucune étiquette ne peut être apposée ou sur lequel les renseignements ne peuvent être indiqués lisiblement et de façon que l’acheteur ou le consommateur puisse les voir aisément dans les conditions habituelles d’achat;
 - **c)** la totalité de la surface de tout autre emballage, à l’exclusion de son dessous si son contenu fuit ou est endommagé lorsque l’emballage est retourné.
 
-Sont toutefois exclus :
+Sont toutefois exclus :
 - **d)** toute surface de l’emballage sur lequel aucune étiquette ne peut être apposée ou sur lequel les renseignements ne peuvent être indiqués lisiblement et de façon que l’acheteur ou le consommateur puisse les voir aisément dans les conditions habituelles d’achat;
 - **e)** toute partie d’un emballage, autre que l’emballage d’un aliment destiné à être consommé par une personne en une seule fois, qui est conçue pour être détruite lors de l’ouverture de celui-ci;
-- **f)** tout espace occupé par le code universel des produits. (*available display surface*)
+- **f)** tout espace occupé par le code universel des produits; (*available display surface*)
 
-***surtitrage*** Quantité d’une vitamine ou d’un minéral nutritif ajoutée à un aliment, dans les limites des bonnes pratiques industrielles, en sus de la quantité déclarée sur l’étiquette, afin d’assurer le maintien de cette dernière pendant toute la durée de conservation. (*overage*)
+***surtitrage*** Quantité d’une vitamine ou d’un minéral nutritif ajoutée à un aliment, dans les limites des bonnes pratiques industrielles, en sus de la quantité déclarée sur l’étiquette, afin d’assurer le maintien de cette dernière pendant toute la durée de conservation; (*overage*)
 
-***tableau de la valeur nutritive*** Tableau que porte l’étiquette d’un produit préemballé conformément au paragraphe B.01.401(1). (*nutrition facts table*)
+***tableau de la valeur nutritive*** Tableau que porte l’étiquette d’un produit préemballé conformément au paragraphe B.01.401(1); (*nutrition facts table*)
 
-***valeur énergétique*** s’entend, dans le cas d’un aliment, de la quantité d’énergie que peut recevoir une personne lorsqu’elle ingère l’aliment et que les constituants chimiques de cet aliment, dont les protéines, les matières grasses, les glucides et l’alcool, sont métabolisés. (*energy value*)
+***valeur énergétique*** s’entend, dans le cas d’un aliment, de la quantité d’énergie que peut recevoir une personne lorsqu’elle ingère l’aliment et que les constituants chimiques de cet aliment, dont les protéines, les matières grasses, les glucides et l’alcool, sont métabolisés; (*energy value*)
 
-***valeur quotidienne*** Selon le cas :
+***valeur quotidienne*** Selon le cas :
 - **a)** relativement à une vitamine ou à un minéral nutritif mentionné dans la définition de ***apport quotidien recommandé***, l’apport quotidien recommandé de cette vitamine ou de ce minéral nutritif;
-- **b)** relativement à un élément nutritif mentionné dans la définition de ***norme de référence***, la norme de référence de cet élément. (*daily value*)
+- **b)** relativement à un élément nutritif mentionné dans la définition de ***norme de référence***, la norme de référence de cet élément. (*daily value*)
 
 - **(2)** Les termes ci-après sont définis comme il suit pour l’application de la Loi.
 
-***additif alimentaire*** S’entend au sens du paragraphe (1). (*food additive*)
+***additif alimentaire*** S’entend au sens du paragraphe (1). (*food additive*)
 
-***produit chimique agricole*** S’entend au sens du paragraphe (1). (*agricultural chemical*)
-> DORS/78-403, art. 1(F); DORS/79-23, art. 1; DORS/81-83, art. 1; DORS/81-617, art. 1; DORS/88-336, art. 1; DORS/88-559, art. 1; DORS/89-175, art. 1; DORS/91-124, art. 1; DORS/91-527, art. 1; DORS/93-276, art. 1; DORS/95-474, art. 1; DORS/98-580, art. 1(F); DORS/2000-353, art. 3; DORS/2003-11, art. 1; err.(A), Vol. 137, n<sup>o</sup>o 5; DORS/2005-98, art. 1; DORS/2008-181, art. 1; DORS/2008-182, art. 1; DORS/2010-94, art. 1; DORS/2011-278, art. 1; DORS/2014-99, art. 1.
+***produit chimique agricole*** S’entend au sens du paragraphe (1). (*agricultural chemical*)
+> DORS/78-403, art. 1(F); DORS/79-23, art. 1; DORS/81-83, art. 1; DORS/81-617, art. 1; DORS/88-336, art. 1; DORS/88-559, art. 1; DORS/89-175, art. 1; DORS/91-124, art. 1; DORS/91-527, art. 1; DORS/93-276, art. 1; DORS/95-474, art. 1; DORS/98-580, art. 1(F); DORS/2000-353, art. 3; DORS/2003-11, art. 1; err.(A), Vol. 137, n<sup>o</sup>o 5; DORS/2005-98, art. 1; DORS/2008-181, art. 1; DORS/2008-182, art. 1; DORS/2010-94, art. 1; DORS/2011-278, art. 1; DORS/2014-99, art. 1; DORS/2016-74, art. 1.
 
 
 
@@ -1797,45 +1799,11 @@ et ce, en caractères de dimensions au moins égales et aussi bien en vue que le
 
 
 
-**B.01.046** 
-
-- **(1)** Un aliment est falsifié s’il contient ou si on y a ajouté l’une des substances ou catégories de substances suivantes :
-	- **a)** de l’huile minérale, de la paraffine, de la vaseline, ou l’une de leurs préparations;
-	- **b)** de la coumarine, un extrait de fèves tonka, des graines de *Dipteryx odorata* Willd., ou de *Dipteryx oppositifolia* Willd.;
-	- **c)** édulcorants non nutritifs;
-	- **d)** de la farine de graine de cotonnier qui renferme plus de 450 parties par million de gossypol libre;
-	- **e)** des acides gras et leurs sels qui renferment le facteur de l’oedème du poussin ou un autre facteur toxique;
-	- **f)** du dihydrosafrole;
-	- **g)** de l’isosafrole;
-	- **h)** de l’essence de sassafras américaine obtenue du *Sassafras albidum* (Nutt). Nees;
-	- **i)** de l’essence de sassafras brésilienne obtenue de l’*Ocotea cymbarum* H.B.K.;
-	- **j)** de l’essence camphrée de sassafras obtenue du *Cinnamomum camphorum* Sieb.;
-	- **k)** de l’essence de micranthum obtenue du *Cinnamomum micranthum* Hayata;
-	- **l)** du safrole;
-	- **m)** de l’essence de l’extrait ou de la racine de calamus obtenue de l’*Acorus calamus L.*;
-	- **n)** des noix et des produits de noix qui contiennent plus de 15 parties par milliard d’aflatoxine;
-	- **o)** de l’éthylène-thiourée;
-	- **p)** dibenzo-p-dioxines chlorées, ou
-	- **q)** anthranilate de cinnamyle.
-
-- **(2)** Aux fins de l’alinéa (1)n), le contenu d’aflatoxine d’une noix ou d’un produit de noix doit être calculé en fonction de la graine comestible. 
-> DORS/79-358, art. 1; DORS/80-501, art. 1; DORS/82-1071, art. 1; DORS/83-857, art. 1; DORS/84-300, art. 7; DORS/88-534, art. 1.
+**B.01.046** [Abrogé, DORS/2016-74, art. 2]
 
 
 
-
-**B.01.047** Nonobstant l’article B.01.046,
-- **a)** la présence, dans tout aliment sauf le boyau de saucisse, d’huile minérale en quantité ne dépassant pas 0,3 pour cent, si conforme aux bonnes pratiques industrielles, ne constitue pas en soi une falsification;
-- **b)** la seule présence de la paraffine dans la gomme à mâcher ne constitue pas, en soi, une falsification;
-- **c)** la présence sur les fruits et légumes frais, les navets exceptés, d’une couche de paraffine ou de vaseline ne dépassant pas 0,3 pour cent, si l’emploi d’un tel enrobage est requis par une bonne pratique industrielle, ne constitue pas en soi une falsification;
-- **d)** la présence, sur le fromage ou les navets, d’une couche de paraffine conforme aux bonnes pratiques industrielles, ne constitue pas en soi une falsification;
-- **e)** la présence, dans un boyau de saucisse, d’huile minérale en quantité ne dépassant pas cinq pour cent en poids, si conforme aux bonnes pratiques industrielles, ne constitue pas en soi une falsification;
-- **f)** la seule présence de 20 parties par billion (10<sup>12</sup>) ou moins de 2,3,7,8-tétrachlorodibenzoparadioxin dans le poisson ne constitue pas, en soi, une falsification;
-- **g)** la présence, dans les produits de boulangerie et les confiseries, de vaseline en quantité ne dépassant pas 0,15 pour cent, si conforme aux bonnes pratiques industrielles, ne constitue pas en soi une falsification;
-- **h)** la présence, dans un succédané de sel, d’huile minérale en quantité ne dépassant pas 0,6 pour cent, si conforme aux bonnes pratiques industrielles, ne constitue pas en soi une falsification;
-- **i)** la présence, dans les fruits, les légumes et les céréales, d’éthylènethio-urée en quantité ne dépassant pas 0,05 partie par million ne constitue pas en soi une falsification.
-> DORS/81-934, art. 1; DORS/82-122, art. 1; DORS/82-1071, art. 2; DORS/83-932, art. 1; DORS/84-17, art. 1; DORS/92-76, art. 1.
-
+**B.01.047** [Abrogé, DORS/2016-74, art. 2]
 
 
 
@@ -1861,18 +1829,18 @@ et ce, en caractères de dimensions au moins égales et aussi bien en vue que le
 
 **B.01.048** 
 
-- **(1)** Il est interdit de vendre :
+- **(1)** Il est interdit de vendre :
 	- **a)** des animaux qui sont destinés à être consommés comme aliments et auxquels a été administré un produit contenant une drogue mentionnée au paragraphe (2);
-	- **b)** de la viande, des sous-produits de viande, des oeufs ou du lait qui sont destinés à être consommés comme aliments et qui proviennent d’un animal auquel a été administré un produit contenant une drogue mentionnée au paragraphe (2);
-	- **c)** de la viande, des sous-produits de viande, des oeufs ou du lait contenant des résidus d’une drogue mentionnée au paragraphe (2).
+	- **b)** des aliments qui proviennent d’un animal auquel a été administré un produit contenant une drogue mentionnée au paragraphe (2);
+	- **c)** des aliments qui proviennent d’un animal s’ils contiennent des résidus d’une drogue mentionnée au paragraphe (2).
 
-- **(2)** Les drogues visées au paragraphe (1) sont :
+- **(2)** Les drogues visées au paragraphe (1) sont :
 	- **a)** le chloramphénicol, ses sels et ses dérivés;
 	- **b)** un composé de 5-nitrofurane;
 	- **c)** le clenbutérol, ses sels et ses dérivés;
 	- **d)** un composé de 5-nitro-imidazole;
 	- **e)** le diéthylstilbestrol et d’autres composés de stilbène.
-> DORS/85-685, art. 1; DORS/87-626, art. 1; DORS/94-568, art. 1; DORS/97-510, art. 1; DORS/2003-292, art. 1.
+> DORS/85-685, art. 1; DORS/87-626, art. 1; DORS/94-568, art. 1; DORS/97-510, art. 1; DORS/2003-292, art. 1; DORS/2016-74, art. 3.
 
 
 
@@ -1940,36 +1908,7 @@ et ce, en caractères de dimensions au moins égales et aussi bien en vue que le
 
 
 
-**B.01.056** 
-
-- **(1)** Le présent article s’applique aux autorisations de mise en marché provisoire que le ministre peut accorder en vertu du paragraphe 30.2(1) de la Loi.
-
-- **(2)** Au présent article, ***aliment à usage diététique spécial*** s’entend au sens de l’article B.24.001.
-
-- **(3)** Le fabricant d’un aliment ou de produits chimiques agricoles, de drogues pour usage vétérinaire, d’additifs alimentaires, de vitamines, de minéraux nutritifs ou d’acides aminés présents dans un aliment ou sur sa surface peut présenter par écrit au ministre une demande d’autorisation de mise en marché provisoire pour l’aliment, à l’égard de l’un des sujets mentionnés au paragraphe 30.2(2) de la Loi.
-
-- **(4)** La demande est accompagnée des renseignements suivants :
-	- **a)** le nom usuel et une description de l’aliment;
-	- **b)** les motifs à l’appui de la demande;
-	- **c)** le détail de toute demande, à l’égard de l’aliment, d’exemption de l’application de tout ou partie des articles 5 à 6.1 de la Loi et des dispositions réglementaires applicables;
-	- **d)** des données suffisantes, y compris les résultats de tests et d’analyses scientifiques, démontrant que l’aliment ne serait pas nuisible à la santé de l’acheteur ou du consommateur;
-	- **e)** dans le cas d’une demande qui porte sur l’ajout de vitamines, de minéraux nutritifs ou d’acides aminés à l’aliment, une mention, avec documents à l’appui, indiquant que l’ajout proposé vise un ou plusieurs des objectifs suivants :
-		- **(i)** ramener la quantité de vitamines ou de minéraux nutritifs à celle présente dans l’aliment avant son traitement ou, dans le cas d’acides aminés, fournir des protéines d’une qualité nutritionnelle équivalente à celle de l’aliment avant son traitement,
-		- **(ii)** rendre l’aliment destiné à être vendu comme substitut d’un autre aliment nutritionnellement équivalent à l’aliment qu’il est destiné à remplacer dans l’alimentation, au regard des éléments suivants :
-			- **(A)** la quantité de vitamines et minéraux nutritifs ajoutés,
-			- **(B)** la qualité des protéines fournies par l’ajout d’acides aminés,
-		- **(iii)** prévenir ou corriger une carence en vitamines ou en minéraux nutritifs dans la population ou dans des groupes particuliers de celle-ci,
-		- **(iv)** modifier la quantité de vitamines, de minéraux nutritifs ou d’acides aminés dans l’aliment à usage diététique spécial;
-	- **f)** dans le cas d’une demande qui porte sur l’utilisation d’un additif alimentaire dans l’aliment ou sur sa surface, les renseignements visés à l’article B.16.002.
-
-- **(5)** Outre les éléments pouvant être prévus aux termes des paragraphes 30.2(2) et (4) de la Loi, l’autorisation de mise en marché provisoire indique :
-	- **a)** le nom usuel et une description de l’aliment en cause;
-	- **b)** les motifs pour lesquels elle est accordée;
-	- **c)** les dispositions de la Loi et du présent règlement desquelles l’aliment est exempté.
-
-- **(6)** Toute autorisation de mise en marché provisoire peut être abrogée par le ministre s’il conclut, après examen des renseignements additionnels portés à sa connaissance, que l’aliment faisant l’objet de l’autorisation est ou peut être nuisible à la santé de l’acheteur ou du consommateur.
-> DORS/97-313, art. 1; DORS/2008-181, art. 2.
-
+**B.01.056** [Abrogé, DORS/2016-74, art. 4]
 
 
 
@@ -7306,7 +7245,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 - **c)** peut, avant la dernière filtration, être traité avec
 	- **(i)** une résine fortement acide échangeuse de cations sous forme d’ions sodium, ou
 	- **(ii)** une résine faiblement basique échangeuse d’anions sous forme d’ions hydroxyl.
-> DORS/78-402, art. 1; DORS/81-565, art. 1; DORS/84-300, art. 14(F) et 15(A); DORS/2006-91, art. 1; DORS/2008-142, art. 1(F); DORS/2010-143, art. 39(A).
+> DORS/78-402, art. 1; DORS/81-565, art. 1; DORS/84-300, art. 14(F) et 15(A); DORS/2006-91, art. 1; DORS/2008-142, art. 1(F); DORS/2010-143, art. 39(A); DORS/2016-74, art. 5(A).
 
 
 
@@ -11969,11 +11908,11 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 
 
 
-**B.14.004** **[N].** La viande, les sous-produits de viande ou leurs préparations, sont falsifiés s’ils renferment ou si on leur a ajouté l’une des substances ou catégories de substances nommées ci-dessous :
+**B.14.004** La viande, les sous-produits de viande ou leurs préparations sont falsifiés s’ils renferment ou si on leur a ajouté l’une des substances ou catégories de substances nommées ci-dessous :
 - **a)** des muqueuses, des organes ou des parties d’organes de l’appareil génital, du caecum, de la rate, du pis, des poumons, ou tout autre organe ou partie d’un animal qui ne sont pas vendus d’habitude comme article d’alimentation;
 - **b)** un agent de conservation autre que ceux qui sont prévus au présent titre; ou
 - **c)** un colorant autre que le rocou, le rouge allura et le jaune soleil FCF, visés par le présent titre, ainsi que le caramel.
-> DORS/92-725, art. 2; DORS/97-516, art. 2.
+> DORS/92-725, art. 2; DORS/97-516, art. 2; DORS/2016-74, art. 6(F).
 
 
 
@@ -12691,8 +12630,19 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 ### Falsification des produits alimentaires
 
 
-**B.15.001** Un aliment visé au tableau I n’est falsifié que s’il contient l’une des substances inscrites en regard dans des proportions supérieures à celles prévues.
-> DORS/78-404, art. 1; DORS/79-249, art. 1.
+**B.15.001** 
+
+- **(1)** Un aliment visé à la colonne 2 de la partie 1 de la Liste de contaminants et d’autres substances adultérantes dans les aliments est falsifié si est présente dans l’aliment ou sur sa surface une substance dont le nom ou la catégorie figure à la colonne 1.
+
+- **(2)** Un aliment visé à la colonne 2 de la partie 2 de la Liste de contaminants et d’autres substances adultérantes dans les aliments est falsifié si est présente dans l’aliment ou sur sa surface une substance dont le nom ou la catégorie figure à la colonne 1 en une quantité dépassant la limite maximale prévue à la colonne 3.
+
+- **(3)** Un aliment visé à la colonne 2 de la partie 2 de la Liste de contaminants et d’autres substances adultérantes dans les aliments est soustrait à l’application de l’alinéa 4(1)a) de la Loi, en ce qui concerne une substance dont le nom ou la catégorie figure à la colonne 1, si la substance est présente dans l’aliment ou sur sa surface en une quantité ne dépassant pas la limite maximale prévue à la colonne 3.
+
+- **(4)** Les paragraphes (1) à (3) ne s’appliquent pas à une substance présente dans l’aliment ou sur sa surface, à titre, selon le cas :
+	- **a)** d’additif alimentaire;
+	- **b)** de produit antiparasitaire au sens du paragraphe 2(1) de la [Loi sur les produits antiparasitaires](/fr/Lois/Lois%20du%20Canada/2002/ch.%2028.md), ou d’un de ses composants ou dérivés;
+	- **c)** d’une drogue pour usage vétérinaire ou d’un de ses métabolites.
+> DORS/78-404, art. 1; DORS/79-249, art. 1; DORS/2016-74, art. 7.
 
 
 
@@ -12720,956 +12670,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 
 
 
-**B.15.003** Les aliments énumérés à la colonne IV du tableau III du présent titre, dans lesquels se trouve une drogue mentionnée à la colonne I qui correspond, après analyse, à la substance nommée à la colonne II, sont exemptés de l’application de l’alinéa 4d) de la Loi si la quantité de drogue présente ne dépasse pas la limite maximale de résidu prévue à la colonne III.DORS/78-404, art. 1; DORS/79-249, art. 1; DORS/91-255, art. 1.
-
-
-#### TABLEAU I
-<table>
-<tr>
-<th></th>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-</tr>
-<tr>
-<th>Article</th>
-<th>Substance</th>
-<th>Tolérance p.p.m.</th>
-<th>Aliments</th>
-</tr>
-<tr>
-<td>1</td>
-<td>Arsenic</td>
-<td>(1) 3,5</td>
-<td>(1) Protéines de poisson</td>
-</tr>
-<tr>
-<td>(2) 1</td>
-<td>(2) Farine d’os comestible</td>
-</tr>
-<tr>
-<td>(3) 0,1</td>
-<td>(3) Jus de fruits, nectar de fruits, boissons, lorsque prêtes à servir, et eaux vendues dans des contenants scellés, sauf l’eau minérale et l’eau de source</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Fluorure</td>
-<td>(1) 650</td>
-<td>(1) Farine d’os comestible</td>
-</tr>
-<tr>
-<td>(2) 150</td>
-<td>(2) Protéines de poisson</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Plomb</td>
-<td>(1) 10</td>
-<td>(1) Farine d’os comestible</td>
-</tr>
-<tr>
-<td>(2) 1,5</td>
-<td>(2) Pâte de tomates et sauce tomate</td>
-</tr>
-<tr>
-<td>(3) 0,5</td>
-<td>(3) Protéines de poisson et tomates entières</td>
-</tr>
-<tr>
-<td>(4) 0,2</td>
-<td>(4) Jus de fruits, nectar de fruits, boissons, lorsque prêtes à servir, et eaux vendues dans des contenants scellés, sauf l’eau minérale et l’eau de source</td>
-</tr>
-<tr>
-<td>(5) 0,15</td>
-<td>(5) Lait évaporé, lait condensé et préparation pour nourrisson, concentrée</td>
-</tr>
-<tr>
-<td>(6) 0,08</td>
-<td>(6) Préparation pour nourrisson, lorsque prête à servir</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Étain</td>
-<td>(1) 250</td>
-<td>(1) Aliments en conserve</td>
-</tr>
-</table>
-
-> DORS/78-404, art. 2; DORS/79-249, art. 2; DORS/86-258, art. 1; DORS/89-243, art. 1 et 2; DORS/91-149, art. 2(A); DORS/94-689, art. 2(F)..
-
-
-
-
-**TABLEAU II** 
-## [Abrogé, DORS/2008-182, art. 3]
-
-#### TABLEAU III
-<table>
-<h4>DROGUES POUR USAGE VÉTÉRINAIRE</h4>
-<tr>
-<th>Article</th>
-<th>Colonne I</th>
-<th>Colonne II</th>
-<th>Colonne III</th>
-<th>Colonne IV</th>
-</tr>
-<tr>
-<th>Nom usuel (ou marque nominative) de la drogue</th>
-<th>Nom de la substance aux fins d’analyse de la drogue</th>
-<th>Limite maximale de résidu p.p.m.</th>
-<th>Aliments</th>
-</tr>
-<tr>
-<td>A.01</td>
-<td>albendazole</td>
-<td>albendazole-2-aminosulfone</td>
-<td>0,2</td>
-<td>Foie de bovin</td>
-</tr>
-<tr>
-<td>A.02</td>
-<td>altrénogest</td>
-<td>altrénogest</td>
-<td>0,001</td>
-<td>Foie de porc</td>
-</tr>
-<tr>
-<td>0,002</td>
-<td>Rognons de porc</td>
-</tr>
-<tr>
-<td>A.1</td>
-<td>ampicilline</td>
-<td>ampicilline</td>
-<td>0,01</td>
-<td>Tissus comestibles de porc et de bovin; lait</td>
-</tr>
-<tr>
-<td>A.2</td>
-<td>amprolium</td>
-<td>amprolium</td>
-<td>0,5</td>
-<td>Muscles de poulet et de dinde</td>
-</tr>
-<tr>
-<td>1,0</td>
-<td>Foie et rognons de poulet et de dinde</td>
-</tr>
-<tr>
-<td>7,0</td>
-<td>Oeufs</td>
-</tr>
-<tr>
-<td>A.3</td>
-<td>apramycine</td>
-<td>apramycine</td>
-<td>0,1</td>
-<td>Rognons de porc</td>
-</tr>
-<tr>
-<td>A.4</td>
-<td>acide arsanilique</td>
-<td>arsenic</td>
-<td>0,5</td>
-<td>Muscles de porc, de poulet et de dinde; oeufs</td>
-</tr>
-<tr>
-<td>2,0</td>
-<td>Foie de porc, de poulet et de dinde</td>
-</tr>
-<tr>
-<td>B.1</td>
-<td>buquinolate</td>
-<td>buquinolate</td>
-<td>0,1</td>
-<td>Muscles de poulet</td>
-</tr>
-<tr>
-<td>0,4</td>
-<td>Foie, rognons, peau et gras de poulet</td>
-</tr>
-<tr>
-<td>C.01</td>
-<td>ceftiofur</td>
-<td>desfuroyl-ceftiofur (DFC)</td>
-<td>0,1</td>
-<td>Lait</td>
-</tr>
-<tr>
-<td>1,0</td>
-<td>Muscles de bovin, de mouton et de porc</td>
-</tr>
-<tr>
-<td>2,0</td>
-<td>Foie et gras de bovin, de mouton et de porc</td>
-</tr>
-<tr>
-<td>5,0</td>
-<td>Rognons de porc</td>
-</tr>
-<tr>
-<td>6,0</td>
-<td>Rognons de bovin et de mouton</td>
-</tr>
-<tr>
-<td>C.1</td>
-<td>céfapirine</td>
-<td>céfapirine</td>
-<td>0,02</td>
-<td>Lait</td>
-</tr>
-<tr>
-<td>0,1</td>
-<td>Tissus comestibles de bovin</td>
-</tr>
-<tr>
-<td>C.2</td>
-<td>chlortétracycline</td>
-<td>chlortétracycline</td>
-<td>0,1</td>
-<td>Rognons, foie et muscles de bovin; muscles de mouton</td>
-</tr>
-<tr>
-<td>0,2</td>
-<td>Gras de porc</td>
-</tr>
-<tr>
-<td>0,5</td>
-<td>Foie de mouton</td>
-</tr>
-<tr>
-<td>1,0</td>
-<td>Muscles, foie, peau et gras de poulet et de dinde; muscles de porc; muscles et gras de veau; rognons de mouton</td>
-</tr>
-<tr>
-<td>2,0</td>
-<td>Foie de porc</td>
-</tr>
-<tr>
-<td>4,0</td>
-<td>Rognons de porc, de poulet et de dinde; foie et rognons de veau</td>
-</tr>
-<tr>
-<td>C.3</td>
-<td>clopidol</td>
-<td>clopidol</td>
-<td>5,0</td>
-<td>Muscles de poulet et de dinde</td>
-</tr>
-<tr>
-<td>15,0</td>
-<td>Foie et rognons de poulet et de dinde</td>
-</tr>
-<tr>
-<td>D.01</td>
-<td>danofloxacine</td>
-<td>danofloxacine</td>
-<td>0,07</td>
-<td>Muscles et foie de bovin</td>
-</tr>
-<tr>
-<td>0,4</td>
-<td>Rognons de bovin</td>
-</tr>
-<tr>
-<td>D.1</td>
-<td>décoquinate</td>
-<td>décoquinate</td>
-<td>1,0</td>
-<td>Muscles de bovin, de chèvre et de poulet</td>
-</tr>
-<tr>
-<td>2,0</td>
-<td>Rognons, foie et gras de bovin et de chèvre; rognons, foie, peau et gras de poulet</td>
-</tr>
-<tr>
-<td>D.1.1</td>
-<td>diclazuril</td>
-<td>diclazuril</td>
-<td>0,5</td>
-<td>Muscle de dinde et de poulet</td>
-</tr>
-<tr>
-<td>1,0</td>
-<td>Gras et peau de dinde et de poulet</td>
-</tr>
-<tr>
-<td>3,0</td>
-<td>Foie de dinde et de poulet</td>
-</tr>
-<tr>
-<td>D.2</td>
-<td>dihydrostreptomycine</td>
-<td>dihydrostreptomycine</td>
-<td>0,125</td>
-<td>Lait</td>
-</tr>
-<tr>
-<td>D.3</td>
-<td>dinitolmide (zoalène)</td>
-<td>dinitolmide, y compris le métabolite amino-3 nitro-5 o-toluamide</td>
-<td>2,0</td>
-<td>Gras de poulet</td>
-</tr>
-<tr>
-<td>3,0</td>
-<td>Muscles de poulet et de dinde; foie et gras de dinde</td>
-</tr>
-<tr>
-<td>6,0</td>
-<td>Foie et rognons de poulet</td>
-</tr>
-<tr>
-<td>D.4</td>
-<td>doramectine</td>
-<td>doramectine</td>
-<td>0,01</td>
-<td>Muscle de porc</td>
-</tr>
-<tr>
-<td>0,03</td>
-<td>Muscle de bovin</td>
-</tr>
-<tr>
-<td>0,035</td>
-<td>Foie de porc</td>
-</tr>
-<tr>
-<td>0,07</td>
-<td>Foie de bovin</td>
-</tr>
-<tr>
-<td>E.01</td>
-<td>enrofloxacine</td>
-<td>desethylene ciprofloxacine</td>
-<td>0,02</td>
-<td>Muscle de bovin</td>
-</tr>
-<tr>
-<td>0,07</td>
-<td>Foie de bovin</td>
-</tr>
-<tr>
-<td>E.02</td>
-<td>eprinomectine</td>
-<td>eprinomectine B<sub>la</sub></td>
-<td>0,02</td>
-<td>Lait</td>
-</tr>
-<tr>
-<td>0,1</td>
-<td>Muscle de bovin</td>
-</tr>
-<tr>
-<td>1,0</td>
-<td>Foie de bovin</td>
-</tr>
-<tr>
-<td>E.1</td>
-<td>érythromycine</td>
-<td>érythromycine</td>
-<td>0,05</td>
-<td>Lait</td>
-</tr>
-<tr>
-<td>0,1</td>
-<td>Tissus comestibles de porc</td>
-</tr>
-<tr>
-<td>0,125</td>
-<td>Tissus comestibles de poulet et de dinde</td>
-</tr>
-<tr>
-<td>F.1</td>
-<td>fenbendazole</td>
-<td>fenbendazole</td>
-<td>0,45</td>
-<td>Foie de bovin</td>
-</tr>
-<tr>
-<td>4,5</td>
-<td>Foie de porc</td>
-</tr>
-<tr>
-<td>F.2</td>
-<td>florfénicol</td>
-<td>florfénicol-amine</td>
-<td>0,2</td>
-<td>Muscles de bovin</td>
-</tr>
-<tr>
-<td>0,25</td>
-<td>Muscles de porc</td>
-</tr>
-<tr>
-<td>0,8</td>
-<td>Muscles de salmonidé</td>
-</tr>
-<tr>
-<td>1,4</td>
-<td>Foie de porc</td>
-</tr>
-<tr>
-<td>2,0</td>
-<td>Foie de bovin</td>
-</tr>
-<tr>
-<td>F.3</td>
-<td>flunixine</td>
-<td>flunixine sous forme d’acide</td>
-<td>0,02</td>
-<td>Muscle de bovin</td>
-</tr>
-<tr>
-<td>0,08</td>
-<td>Foie de bovin</td>
-</tr>
-<tr>
-<td>G.1</td>
-<td>gentamicine</td>
-<td>gentamicine</td>
-<td>0,1</td>
-<td>Tissus comestibles de dinde</td>
-</tr>
-<tr>
-<td>0,4</td>
-<td>Rognons de porc</td>
-</tr>
-<tr>
-<td>H.01</td>
-<td>halofuginone</td>
-<td>halofuginone</td>
-<td>0,1</td>
-<td>Foie de poulet</td>
-</tr>
-<tr>
-<td>H.1</td>
-<td>hydrocortisone</td>
-<td>hydrocortisone</td>
-<td>0,01</td>
-<td>Lait</td>
-</tr>
-<tr>
-<td>I.1</td>
-<td>ivermectine</td>
-<td>dihydro-22,23 avermectine B<sub>1a</sub></td>
-<td>0,015</td>
-<td>Foie de porc</td>
-</tr>
-<tr>
-<td>0,03</td>
-<td>Foie de mouton</td>
-</tr>
-<tr>
-<td>0,07</td>
-<td>Foie de bovin</td>
-</tr>
-<tr>
-<td>K.1</td>
-<td>kétoprofène</td>
-<td>kétoprofène</td>
-<td>0,05</td>
-<td>Lait</td>
-</tr>
-<tr>
-<td>0,1</td>
-<td>Muscle de porc</td>
-</tr>
-<tr>
-<td>0,25</td>
-<td>Muscle de bovin</td>
-</tr>
-<tr>
-<td>0,5</td>
-<td>Rognons de porc</td>
-</tr>
-<tr>
-<td>0,8</td>
-<td>Rognons de bovin</td>
-</tr>
-<tr>
-<td>L.01</td>
-<td>lasalocide</td>
-<td>lasalocide</td>
-<td>0,35</td>
-<td>Peau et gras de poulet</td>
-</tr>
-<tr>
-<td>0,65</td>
-<td>Foie de bovin</td>
-</tr>
-<tr>
-<td>L.1</td>
-<td>chlorhydrate de lévamisole</td>
-<td>lévamisole</td>
-<td>0,1</td>
-<td>Tissus comestibles de bovin, de mouton et de porc</td>
-</tr>
-<tr>
-<td>(calculé comme chlorhydrate de lévamisole)</td>
-</tr>
-<tr>
-<td>L.2</td>
-<td>lincomycine</td>
-<td>lincomycine</td>
-<td>0,1</td>
-<td>Muscle de porc et de poulet</td>
-</tr>
-<tr>
-<td>0,5</td>
-<td>Foie de porc et de poulet</td>
-</tr>
-<tr>
-<td>M.01</td>
-<td>maduramicine</td>
-<td>maduramicine</td>
-<td>0,4</td>
-<td>Peau et gras de poulet</td>
-</tr>
-<tr>
-<td>M.02</td>
-<td>acétate de mélengestrol</td>
-<td>acétate de mélengestrol</td>
-<td>0,006</td>
-<td>Foie de bovin</td>
-</tr>
-<tr>
-<td>0,014</td>
-<td>Gras de bovin</td>
-</tr>
-<tr>
-<td>M.1</td>
-<td>monensin</td>
-<td>monensin</td>
-<td>0,01</td>
-<td>Lait</td>
-</tr>
-<tr>
-<td>0,05</td>
-<td>Tissus comestibles de bovin, de dinde et de poulet</td>
-</tr>
-<tr>
-<td>M.2</td>
-<td>tartrate de morantel</td>
-<td>N-méthyl-1,3-propane-diamine</td>
-<td>0,1</td>
-<td>Lait</td>
-</tr>
-<tr>
-<td>0,5</td>
-<td>Foie de bovin</td>
-</tr>
-<tr>
-<td>M.3</td>
-<td>moxidectine</td>
-<td>moxidectine</td>
-<td>0,55</td>
-<td>Gras de bovin</td>
-</tr>
-<tr>
-<td>N.01</td>
-<td>narasin</td>
-<td>narasin</td>
-<td>0,05</td>
-<td>Muscle de porc et de poulet; foie de porc</td>
-</tr>
-<tr>
-<td>0,5</td>
-<td>Gras de poulet</td>
-</tr>
-<tr>
-<td>N.1</td>
-<td>néomycine</td>
-<td>néomycine</td>
-<td>0,25</td>
-<td>Tissus comestibles de veau</td>
-</tr>
-<tr>
-<td>N.2</td>
-<td>nicarbazine</td>
-<td>N,N<sup>1</sup>-bis(nitro-4 phényl) urée</td>
-<td>4,0</td>
-<td>Muscles, foie, rognons et peau de poulet</td>
-</tr>
-<tr>
-<td>N.3</td>
-<td>nitarsone</td>
-<td>arsenic</td>
-<td>0,5</td>
-<td>Muscles de dinde</td>
-</tr>
-<tr>
-<td>2,0</td>
-<td>Foie de dinde</td>
-</tr>
-<tr>
-<td>N.4</td>
-<td>novobiocine</td>
-<td>novobiocine</td>
-<td>1,0</td>
-<td>Tissus comestibles de bovin, de poulet et de dinde</td>
-</tr>
-<tr>
-<td>O.1</td>
-<td>oxytétracycline</td>
-<td>oxytétracycline</td>
-<td>0,2</td>
-<td>Muscle de bovin, de dinde, de homard, de mouton, de porc, de poulet et de salmonidé</td>
-</tr>
-<tr>
-<td>0,3</td>
-<td>Miel</td>
-</tr>
-<tr>
-<td>0,4</td>
-<td>Oeufs</td>
-</tr>
-<tr>
-<td>0,6</td>
-<td>Foie de bovin, de dinde, de mouton, de porc et de poulet</td>
-</tr>
-<tr>
-<td>1,2</td>
-<td>Rognons de bovin, de dinde, de mouton, de porc et de poulet; gras de bovin et de mouton; peau et gras de dinde, de porc et de poulet</td>
-</tr>
-<tr>
-<td>P.1</td>
-<td>pénicilline G</td>
-<td>pénicilline G</td>
-<td>0,01 U.I./mL</td>
-<td>Lait</td>
-</tr>
-<tr>
-<td>0,01</td>
-<td>Tissus comestibles de dinde</td>
-</tr>
-<tr>
-<td>0,05</td>
-<td>Tissus comestibles de bovin et de porc</td>
-</tr>
-<tr>
-<td>P.1.1</td>
-<td>pirlimycine</td>
-<td>pirlimycine</td>
-<td>0,3</td>
-<td>Muscles de bovin</td>
-</tr>
-<tr>
-<td>0,4</td>
-<td>Lait</td>
-</tr>
-<tr>
-<td>0,5</td>
-<td>Foie de bovin</td>
-</tr>
-<tr>
-<td>P.2</td>
-<td>polymyxine B</td>
-<td>polymyxine B</td>
-<td>4,0 u/mL</td>
-<td>Lait</td>
-</tr>
-<tr>
-<td>P.3</td>
-<td>tartrate de pyrantel</td>
-<td>N-méthylpropanediamine-1,3</td>
-<td>1,0</td>
-<td>Muscles de porc</td>
-</tr>
-<tr>
-<td>(calculé comme tartrate de pyrantel)</td>
-</tr>
-<tr>
-<td>10,0</td>
-<td>Foie et rognons de porc</td>
-</tr>
-<tr>
-<td>(calculé comme tartrate de pyrantel)</td>
-</tr>
-<tr>
-<td>R.1</td>
-<td>chlorhydrate de robénidine</td>
-<td>robénidine</td>
-<td>0,1</td>
-<td>Muscles, foie et rognons de poulet</td>
-</tr>
-<tr>
-<td>(calculé comme chlorhydrate de robénidine)</td>
-</tr>
-<tr>
-<td>0,2</td>
-<td>Peau et gras de poulet</td>
-</tr>
-<tr>
-<td>(calculé comme chlorhydrate de robénidine)</td>
-</tr>
-<tr>
-<td>R.2</td>
-<td>roxarsone</td>
-<td>arsenic</td>
-<td>0,5</td>
-<td>Muscles de porc, de poulet et de dinde; oeufs</td>
-</tr>
-<tr>
-<td>2,0</td>
-<td>Foie de porc, de poulet et de dinde</td>
-</tr>
-<tr>
-<td>S.01</td>
-<td>salinomycine</td>
-<td>salinomycine</td>
-<td>0,35</td>
-<td>Foie de bovin et de porc; peau et gras de poulet</td>
-</tr>
-<tr>
-<td>S.1</td>
-<td>spectinomycine</td>
-<td>spectinomycine</td>
-<td>0,1</td>
-<td>Tissus comestibles de poulet</td>
-</tr>
-<tr>
-<td>S.2</td>
-<td>streptomycine</td>
-<td>streptomycine</td>
-<td>0,125</td>
-<td>Lait</td>
-</tr>
-<tr>
-<td>S.2.1</td>
-<td>sulfabenzamide</td>
-<td>sulfabenzamide</td>
-<td>0,01 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
-<td>Lait</td>
-</tr>
-<tr>
-<td>0,1 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
-<td>Tissus comestibles de bovin et de mouton</td>
-</tr>
-<tr>
-<td>S.2.2</td>
-<td>sulfacétamide</td>
-<td>sulfacétamide</td>
-<td>0,01 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
-<td>Lait</td>
-</tr>
-<tr>
-<td>0,1 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
-<td>Tissus comestibles de bovin et de mouton</td>
-</tr>
-<tr>
-<td>S.3</td>
-<td>sulfachlorpyridazine</td>
-<td>sulfachlorpyridazine</td>
-<td>0,1 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
-<td>Tissus comestibles de bovin et de porc</td>
-</tr>
-<tr>
-<td>S.3.1</td>
-<td>sulfadiazine</td>
-<td>sulfadiazine</td>
-<td>0,1 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
-<td>Tissus comestibles de bovin, de cheval, de mouton et de porc; muscles de salmonidés</td>
-</tr>
-<tr>
-<td>S.4</td>
-<td>sulfadiméthoxine</td>
-<td>sulfadiméthoxine</td>
-<td>0,01 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
-<td>Lait</td>
-</tr>
-<tr>
-<td>0,1 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
-<td>Tissus comestibles de bovin, de cheval, de dinde, de porc et de poulet; muscles de salmonidés</td>
-</tr>
-<tr>
-<td>S.4.1</td>
-<td>sulfadoxine</td>
-<td>sulfadoxine</td>
-<td>0,01 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
-<td>Lait</td>
-</tr>
-<tr>
-<td>0,1 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
-<td>Tissus comestibles de bovin et de porc</td>
-</tr>
-<tr>
-<td>S.5</td>
-<td>sulfaéthoxypyridazine</td>
-<td>sulfaéthoxypyridazine</td>
-<td>0,01 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
-<td>Lait</td>
-</tr>
-<tr>
-<td>0,1 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
-<td>Tissus comestibles de bovin et de porc</td>
-</tr>
-<tr>
-<td>S.5.1</td>
-<td>sulfaguanidine</td>
-<td>sulfaguanidine</td>
-<td>0,01 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
-<td>Lait</td>
-</tr>
-<tr>
-<td>0,1 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
-<td>Tissus comestibles de bovin, de cheval, de lapin, de mouton et de porc</td>
-</tr>
-<tr>
-<td>S.5.2</td>
-<td>sulfamérazine</td>
-<td>sulfamérazine</td>
-<td>0,1 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
-<td>Tissus comestibles de bovin, de mouton et de porc</td>
-</tr>
-<tr>
-<td>S.6</td>
-<td>sulfaméthazine</td>
-<td>sulfaméthazine</td>
-<td>0,01 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
-<td>Lait</td>
-</tr>
-<tr>
-<td>0,1 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
-<td>Tissus comestibles de bovin, de canard, de cheval, de chèvre, de dinde, de mouton, d’oie, de porc et de poulet</td>
-</tr>
-<tr>
-<td>S.6.1</td>
-<td>sulfanilamide</td>
-<td>sulfanilamide</td>
-<td>0,01 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
-<td>Lait</td>
-</tr>
-<tr>
-<td>0,1 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
-<td>Tissus comestibles de bovin, de mouton et de porc</td>
-</tr>
-<tr>
-<td>S.6.2</td>
-<td>sulfanitran</td>
-<td>sulfanitran</td>
-<td>0,1 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
-<td>Tissus comestibles de dinde et de poulet</td>
-</tr>
-<tr>
-<td>S.6.3</td>
-<td>sulfapyridine</td>
-<td>sulfapyridine</td>
-<td>0,01 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
-<td>Lait</td>
-</tr>
-<tr>
-<td>0,1 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
-<td>Tissus comestibles de bovin et de porc</td>
-</tr>
-<tr>
-<td>S.6.4</td>
-<td>sulfaquinoxaline</td>
-<td>sulfaquinoxaline</td>
-<td>0,01 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
-<td>Lait</td>
-</tr>
-<tr>
-<td>0,1 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
-<td>Tissus comestibles de bovin, de dinde, de lapin, de mouton et de poulet</td>
-</tr>
-<tr>
-<td>S.7</td>
-<td>sulfathiazole</td>
-<td>sulfathiazole</td>
-<td>0,01 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
-<td>Lait</td>
-</tr>
-<tr>
-<td>0,1 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
-<td>Tissus comestibles de bovin, de canard, de cheval, de chèvre, de dinde, de mouton, d’oie, de porc et de poulet</td>
-</tr>
-<tr>
-<td>T.01</td>
-<td>teflubenzuron</td>
-<td>teflubenzuron</td>
-<td>0,3</td>
-<td>Muscle de salmonidé</td>
-</tr>
-<tr>
-<td>3,2</td>
-<td>Peau de salmonidé</td>
-</tr>
-<tr>
-<td>T.1</td>
-<td>tétracycline</td>
-<td>tétracycline</td>
-<td>0,25</td>
-<td>Tissus comestibles de veau, de porc, de mouton, de poulet et de dinde</td>
-</tr>
-<tr>
-<td>T.2</td>
-<td>thiabendazole</td>
-<td>thiabendazole et tous ses métabolites hydroxy-5 thiabendazole (libres, conjugués glucuronides et conjugués sulfates)</td>
-<td>0,05</td>
-<td>Lait</td>
-</tr>
-<tr>
-<td>0,1</td>
-<td>Tissus comestibles de bovin, de chèvre et de mouton</td>
-</tr>
-<tr>
-<td>T.3</td>
-<td>tiamuline</td>
-<td>hydroxy-8-alpha-mutiline</td>
-<td>0,4</td>
-<td>Foie de porc</td>
-</tr>
-<tr>
-<td>T.3.1</td>
-<td>tilmicosine</td>
-<td>tilmicosine</td>
-<td>1,6</td>
-<td>Foie de bovin</td>
-</tr>
-<tr>
-<td>T.3.1.1</td>
-<td>acétate de trenbolone</td>
-<td>β - trenbolone</td>
-<td>0,002</td>
-<td>Muscles de bovin</td>
-</tr>
-<tr>
-<td>α - trenbolone</td>
-<td>0,01</td>
-<td>Foie de bovin</td>
-</tr>
-<tr>
-<td>T.3.2</td>
-<td>triméthoprime</td>
-<td>triméthoprime</td>
-<td>0,1</td>
-<td>Muscle de salmonidé</td>
-</tr>
-<tr>
-<td>T.4</td>
-<td>tylosine</td>
-<td>tylosine</td>
-<td>0,2</td>
-<td>Muscles, foie, rognons et gras de bovin, de porc, de poulet et de dinde</td>
-</tr>
-<tr>
-<td>Z.1</td>
-<td>zéranol</td>
-<td>zéranol</td>
-<td>0,002</td>
-<td>Muscles de bovin</td>
-</tr>
-<tr>
-<td>0,01</td>
-<td>Foie de bovin</td>
-</tr>
-</table>
-
-> DORS/84-300, art. 49(A); DORS/91-255, art. 2; DORS/92-591, art. 2; DORS/2002-52, art. 1 à 12; DORS/2005-396, art. 1 à 4; DORS/2008-274, art. 1 à 8; DORS/2010-39, art. 1(F) et (2)(F); DORS/2012-14, art. 1 à 10; DORS/2012-15, art. 1 à 6.
-
-
-
+**B.15.003** [Abrogé, DORS/2016-74, art. 8]
 
 
 
@@ -27723,11 +26724,11 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 **C.01.611** 
 
 - **(1)** Le Directeur peut, par écrit, exiger de temps à autre du fabricant d’une drogue recommandée pour administration aux animaux qui peuvent servir d’aliment
-	- **a)** une présentation relative à ladite drogue, dans une forme et une teneur à la satisfaction du Directeur, décrivant en détail les épreuves conduites pour déterminer qu’aucun résidu de cette drogue, sauf dans les limites prescrites par le présent règlement, ne demeure dans la viande, les sous-produits de la viande, les oeufs ou le lait; et
-	- **b)** l’impression, dans l’espace principal de l’étiquette extérieure, sur l’étiquette intérieure et, le cas échéant, sur la notice jointe à l’emballage qui décrit la drogue, d’une mise en garde indiquant que la viande, les sous-produits de la viande, les oeufs ou le lait provenant d’animaux auxquels a été administrée cette drogue ne peuvent être vendus comme aliments que s’il s’est écoulé depuis cette administration le délai que fixe le Directeur en se fondant sur une étude des données connues sur les résidus de la drogue.
+	- **a)** une présentation relative à la drogue décrivant en détail les épreuves conduites pour vérifier qu’aucune substance mentionnée à la colonne II de la Liste visée par l’[Autorisation de mise en marché – limites maximales de résidus de drogues pour usage vétérinaire dans les aliments](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/87.md) ne demeure dans un aliment mentionné à la colonne III, sauf dans la limite maximale de résidu prévue à la colonne IV pour cet aliment et cette substance;
+	- **b)** l’impression, dans l’espace principal de l’étiquette extérieure, sur l’étiquette intérieure et, le cas échéant, sur la notice jointe à l’emballage qui décrit la drogue, d’une mise en garde indiquant que les aliments provenant d’animaux auxquels a été administrée cette drogue ne peuvent être vendus pour consommation humaine que s’il s’est écoulé depuis cette administration le délai que fixe le Directeur en se fondant sur une étude des données connues sur les résidus de la drogue.
 
 - **(2)** Il est interdit à tout fabricant de vendre une drogue au sujet de laquelle le Directeur a exigé la mise en garde mentionnée à l’alinéa (1)b) si ledit fabricant n’a pas fait droit à ladite exigence.
-> DORS/93-467, art. 2.
+> DORS/93-467, art. 2; DORS/2016-74, art. 10.
 
 
 
@@ -33794,23 +32795,17 @@ précisées dans le Food Chemicals Codex, troisième édition, 1981, publié par
 
 
 **PARTIE E** 
-## Édulcorants à la saccharine et au cyclamaté
+## Édulcorants au cyclamate
+> [DORS/2016-74, art. 11]
+
 
 
 **E.01.001** 
 
-- **(1)** Aux fins de cette partie,
+- **(1)** Dans la présente partie, ***édulcorant au cyclamate*** désigne l’acide cyclohexylsulfamique ou l’un de ses sels, ainsi qu’une substance en contenant, vendus comme édulcorants.
 
-***édulcorant au cyclamate*** désigne l’acide cyclohexylsulfamique ou l’un de ses sels, ainsi qu’une substance en contenant, vendus comme édulcorants; (*cyclamate sweetener*)
-
-***édulcorant à la saccharine*** désigne
-- **a)** la saccharine ou l’un de ses sels, ou
-- **b)** une substance en contenant,
-
-vendus comme édulcorants. (*saccharin sweetener*)
-
-- **(2)** La partie B ne s’applique pas aux édulcorants au cyclamate ou à la saccharine.
-> DORS/78-422, art. 4.
+- **(2)** La partie B ne s’applique pas aux édulcorants au cyclamate.
+> DORS/78-422, art. 4; DORS/2016-74, art. 12.
 
 
 
@@ -33819,10 +32814,8 @@ vendus comme édulcorants. (*saccharin sweetener*)
 ### Vente
 
 
-**E.01.002** Il est interdit
-- **a)** de vendre un édulcorant au cyclamate ou à la saccharine si ce dernier n’est pas étiqueté de la manière prescrite dans la présente partie; ou
-- **b)** de vendre au public, à compter du 15 juin 1978, sauf dans une pharmacie, un édulcorant à la saccharine.
-> DORS/78-422, art. 4.
+**E.01.002** Il est interdit de vendre un édulcorant au cyclamate qui n’est pas étiqueté comme l’exige la présente partie.
+> DORS/78-422, art. 4; DORS/2016-74, art. 13.
 
 
 
@@ -33831,8 +32824,8 @@ vendus comme édulcorants. (*saccharin sweetener*)
 ### Publicité
 
 
-**E.01.003** Dans la publicité destinée au public relativement aux édulcorants au cyclamate ou à la saccharine, seuls le nom, le prix et la quantité de l’édulcorant peuvent être annoncés.
-> DORS/78-422, art. 4.
+**E.01.003** Dans la publicité destinée au grand public relativement aux édulcorants au cyclamate, seuls le nom, le prix et la quantité de l’édulcorant peuvent être annoncés.
+> DORS/78-422, art. 4; DORS/2016-74, art. 14.
 
 
 
@@ -33841,18 +32834,16 @@ vendus comme édulcorants. (*saccharin sweetener*)
 ### Étiquetage
 
 
-**E.01.004** 
-
-- **(1)** Tout édulcorant au cyclamate qui n’est pas en même temps un édulcorant à la saccharine doit porter, sur l’étiquette, une mise en garde précisant que cet édulcorant ne doit être utilisé que sur avis d’un médecin.
-
-- **(2)** À compter du 1<sup>er</sup> juin 1979, les édulcorants à la saccharine doivent porter sur leur étiquette une déclaration indiquant que l’utilisation continue de la saccharine peut être néfaste pour la santé et que ce produit ne doit pas être utilisé, sauf sur avis du médecin, par les femmes enceintes.
-> DORS/78-422, art. 4.
+**E.01.004** Tout édulcorant au cyclamate porte, sur l’étiquette, une mise en garde précisant qu’il ne doit être utilisé que sur avis d’un médecin.
+> DORS/78-422, art. 4; DORS/2016-74, art. 15.
 
 
 
 
-**E.01.005** À compter du 1<sup>er</sup> juin 1979, les édulcorants au cyclamate ou à la saccharine doivent porter sur leur étiquette leur valeur énergétique exprimée en calories par cuillerée à thé, comprimé, goutte ou autre, selon le mode d’emploi, et en grammes par 100 grammes ou 100 millilitres, ainsi que la liste de tous leurs ingrédients et, le cas échéant, les quantités présentes d’acide cyclohexylsulfamique, de saccharine ou de leurs sels et de glucides.
-> DORS/78-422, art. 4.
+**E.01.005** Tout édulcorant au cyclamate porte sur l’étiquette :
+- **a)** sa valeur énergétique exprimée en calories par cuillerée à thé, comprimé, goutte ou autre, selon le mode d’emploi, et par 100 grammes ou 100 millilitres;
+- **b)** la liste de tous ses ingrédients et, le cas échéant, les quantités présentes d’acide cyclohexylsulfamique, de ses sels et de glucides.
+> DORS/78-422, art. 4; DORS/2016-74, art. 16.
 
 
 
