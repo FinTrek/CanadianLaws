@@ -406,13 +406,13 @@ the design of the container, the materials used in its construction or the incor
 
 - **(1)** In this Part,
 
-***agricultural chemical*** means any substance that is used, or represented for use, in or on a food during its production, storage or transport, and whose use results, or may reasonably be expected to result, in a residue, component or derivative of that substance in or on a food and includes any pest control product as defined in subsection 2(1) of the [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md), plant growth regulator, fertilizer or any adjuvant or carrier used with that substance. This definition does not include any
+***agricultural chemical*** means any substance that is used, or represented for use, in or on a food during its production, storage or transport, and whose use results, or may reasonably be expected to result, in a residue, component or derivative of that substance in or on a food and includes any pest control product as defined in subsection 2(1) of the [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md), plant growth regulator, fertilizer or any adjuvant or carrier used with that substance. This definition does not include any
 - **(a)** food additive that is listed in, and used in accordance with, the tables to section B.16.100,
 - **(b)** nutritive substance that is used, recognized or commonly sold as food or as an ingredient of food,
 - **(c)** vitamin, mineral nutrient or amino acid,
 - **(d)** essential oil, flavouring preparation, natural extractive, oleoresin, seasoning or spice,
 - **(e)** food packaging material or any substance of which that material is composed, or
-- **(f)** drug recommended for administration to animals that may be consumed as food; (*produit chimique agricole*)
+- **(f)** drug recommended for administration to animals that may be consumed as food; (*produit chimique agricole*)
 
 ***available display surface***, in respect of a prepackaged product, means
 - **(a)** the bottom of an ornamental container or the total surface area of both sides of a tag attached to the ornamental container, whichever is greater,
@@ -422,71 +422,73 @@ the design of the container, the materials used in its construction or the incor
 but does not include
 - **(d)** any area of a package on which a label cannot be physically applied or on which information cannot be legibly set out and easily viewed by the purchaser or consumer under the customary conditions of purchase,
 - **(e)** any part of a package that is intended to be destroyed when it is opened, other than a package of a food that is intended to be consumed by one person at a single eating occasion, or
-- **(f)** the area occupied by the universal product code; (*surface exposée disponible*)
+- **(f)** the area occupied by the universal product code; (*surface exposée disponible*)
 
-***close proximity*** means, with reference to the common name, immediately adjacent to the common name without any intervening printed, written or graphic matter; (*à proximité*)
+***close proximity*** means, with reference to the common name, immediately adjacent to the common name without any intervening printed, written or graphic matter; (*à proximité*)
 
-***common name*** means, with reference to a food,
+***common name*** means, with reference to a food,
 - **(a)** the name of the food printed in boldface type in these Regulations,
 - **(b)** the name prescribed by any other regulation, or
-- **(c)** if the name of the food is not so printed or prescribed, the name by which the food is generally known; (*nom usuel*)
+- **(c)** if the name of the food is not so printed or prescribed, the name by which the food is generally known; (*nom usuel*)
 
-***component*** means an individual unit of food that is combined as an individual unit of food with one or more other individual units of food to form an ingredient; (*constituant*)
+***component*** means an individual unit of food that is combined as an individual unit of food with one or more other individual units of food to form an ingredient; (*constituant*)
 
-***daily value*** means
+***daily value*** means
 - **(a)** in respect of a vitamin or mineral nutrient referred to in the definition ***recommended daily intake***, the recommended daily intake for that vitamin or mineral nutrient, and
-- **(b)** in respect of a nutrient referred to in the definition ***reference standard***, the reference standard for that nutrient; (*valeur quotidienne*)
+- **(b)** in respect of a nutrient referred to in the definition ***reference standard***, the reference standard for that nutrient; (*valeur quotidienne*)
 
-***durable life*** means the period, commencing on the day on which a prepackaged product is packaged for retail sale, during which the product, when it is stored under conditions appropriate to that product, will retain, without any appreciable deterioration, its normal wholesomeness, palatability, nutritional value and any other qualities claimed for it by the manufacturer; (*durée de conservation*)
+***durable life*** means the period, commencing on the day on which a prepackaged product is packaged for retail sale, during which the product, when it is stored under conditions appropriate to that product, will retain, without any appreciable deterioration, its normal wholesomeness, palatability, nutritional value and any other qualities claimed for it by the manufacturer; (*durée de conservation*)
 
-***durable life date*** means the date on which the durable life of a prepackaged product ends; (*date limite de conservation*)
+***durable life date*** means the date on which the durable life of a prepackaged product ends; (*date limite de conservation*)
 
-***energy value*** means, in respect of a food, the amount of energy made available to a person’s body when the chemical constituents of the food, including protein, fat, carbohydrate and alcohol, are metabolized following ingestion of the food by the person; (*valeur énergétique*)
+***energy value*** means, in respect of a food, the amount of energy made available to a person’s body when the chemical constituents of the food, including protein, fat, carbohydrate and alcohol, are metabolized following ingestion of the food by the person; (*valeur énergétique*)
 
-***extended meat product*** means a meat product to which a meat product extender has been added; (*produit de viande avec allongeur*)
+***extended meat product*** means a meat product to which a meat product extender has been added; (*produit de viande avec allongeur*)
 
-***extended poultry product*** means a poultry product to which a poultry product extender has been added; (*produit de volaille avec allongeur*)
+***extended poultry product*** means a poultry product to which a poultry product extender has been added; (*produit de volaille avec allongeur*)
 
-***fish product*** means fish or prepared fish; (*produit de poisson*)
+***fish product*** means fish or prepared fish; (*produit de poisson*)
 
-***flavouring preparation*** includes any food for which a standard is provided in Division 10; (*préparation aromatisante*)
+***flavouring preparation*** includes any food for which a standard is provided in Division 10; (*préparation aromatisante*)
 
-***food additive*** means any substance the use of which results, or may reasonably be expected to result, in it or its by-products becoming a part of or affecting the characteristics of a food, but does not include
+***food additive*** means any substance the use of which results, or may reasonably be expected to result, in it or its by-products becoming a part of or affecting the characteristics of a food, but does not include
 - **(a)** any nutritive material that is used, recognized or commonly sold as an article or ingredient of food;
 - **(b)** vitamins, mineral nutrients and amino acids, other than those listed in the tables to Division 16,
 - **(c)** spices, seasonings, flavouring preparations, essential oils, oleoresins and natural extractives;
 - **(d)** agricultural chemicals, other than those listed in the tables to Division 16,
 - **(e)** food packaging materials and components thereof; and
-- **(f)** drugs recommended for administration to animals that may be consumed as food; (*additif alimentaire*)
+- **(f)** drugs recommended for administration to animals that may be consumed as food; (*additif alimentaire*)
 
-***food colour*** means those colours permitted for use in or upon food by Division 6; (*colorant alimentaire*)
+***food colour*** means those colours permitted for use in or upon food by Division 6; (*colorant alimentaire*)
 
-***gelling agent*** means gelatin, agar and carrageenan; (*agent gélatinisant*)
+***gelling agent*** means gelatin, agar and carrageenan; (*agent gélatinisant*)
 
-***ingredient*** means an individual unit of food that is combined as an individual unit of food with one or more other individual units of food to form an integral unit of food that is sold as a prepackaged product; (*ingrédient*)
+***ingredient*** means an individual unit of food that is combined as an individual unit of food with one or more other individual units of food to form an integral unit of food that is sold as a prepackaged product; (*ingrédient*)
 
-***meal replacement*** means a formulated food that, by itself, can replace one or more daily meals; (*substitut de repas*)
+***List of Contaminants and Other Adulterating Substances in Foods*** means the List of Contaminants and Other Adulterating Substances in Foods, published by the Department of Health on its website, as amended from time to time; (*Liste de contaminants et d’autres substances adultérantes dans les aliments*)
 
-***meat product*** means meat, meat by-product, prepared meat or prepared meat by-product; (*produit de viande*)
+***meal replacement*** means a formulated food that, by itself, can replace one or more daily meals; (*substitut de repas*)
 
-***meat product extender*** means a food that is a source of protein and that is represented as being for the purpose of extending meat products; (*allongeur de produit de viande*)
+***meat product*** means meat, meat by-product, prepared meat or prepared meat by-product; (*produit de viande*)
 
-***mechanically tenderized beef*** means uncooked solid cut beef that is prepared in either of the following ways:
+***meat product extender*** means a food that is a source of protein and that is represented as being for the purpose of extending meat products; (*allongeur de produit de viande*)
+
+***mechanically tenderized beef*** means uncooked solid cut beef that is prepared in either of the following ways:
 - **(a)** the integrity of the surface of the beef is compromised by being pierced by blades, needles or other similar instruments; or
-- **(b)** the beef is injected with a marinade or other tenderizing solution. (*boeuf attendri mécaniquement*)
+- **(b)** the beef is injected with a marinade or other tenderizing solution; (*boeuf attendri mécaniquement*)
 
-***monounsaturated fatty acids***, ***monounsaturated fat***, ***monounsaturates*** or ***monounsaturated*** means *cis*-monounsaturated fatty acids; (*acides gras monoinsaturés*, *graisses monoinsaturées*, *gras monoinsaturés*, *lipides monoinsaturés*ou*monoinsaturés*)
+***monounsaturated fatty acids***, ***monounsaturated fat***, ***monounsaturates*** or ***monounsaturated*** means *cis*-monounsaturated fatty acids; (*acides gras monoinsaturés*, *graisses monoinsaturées*, *gras monoinsaturés*, *lipides monoinsaturés* ou *monoinsaturés*)
 
-***nutritional supplement*** means a food sold or represented as a supplement to a diet that may be inadequate in energy and essential nutrients; (*supplément nutritif*)
+***nutritional supplement*** means a food sold or represented as a supplement to a diet that may be inadequate in energy and essential nutrients; (*supplément nutritif*)
 
-***nutrition facts table*** means the nutrition facts table that is required by subsection B.01.401(1) to be carried on the label of a prepackaged product; (*tableau de la valeur nutritive*)
+***nutrition facts table*** means the nutrition facts table that is required by subsection B.01.401(1) to be carried on the label of a prepackaged product; (*tableau de la valeur nutritive*)
 
 ***omega-3 polyunsaturated fatty acids***, ***omega-3 polyunsaturated fat***, ***omega-3 polyunsaturates***, ***omega-3 polyunsaturated*** or ***omega-3*** means
 - **(a)** 9-*cis*, 12-*cis*, 15-*cis* octadecatrienoic acid or α-linolenic acid,
 - **(b)** 8-*cis*, 11-*cis*, 14-*cis*, 17-*cis* eicosatetraenoic acid,
 - **(c)** 5-*cis*, 8-*cis*, 11-*cis*, 14-*cis*, 17-*cis* eicosapentaenoic acid or EPA,
 - **(d)** 7-*cis*, 10-*cis*, 13-*cis*, 16-*cis*, 19-*cis* docosapentaenoic acid, or
-- **(e)** 4-*cis*, 7-*cis*, 10-*cis*, 13-*cis*, 16-*cis*, 19-*cis* docosahexaenoic acid or DHA; (*acides gras polyinsaturés oméga-3*, *graisses polyinsaturées oméga-3*, *gras polyinsaturés oméga-3*, *lipides polyinsaturés oméga-3*, *polyinsaturés oméga-3*ou*oméga-3*)
+- **(e)** 4-*cis*, 7-*cis*, 10-*cis*, 13-*cis*, 16-*cis*, 19-*cis* docosahexaenoic acid or DHA; (*acides gras polyinsaturés oméga-3*, *graisses polyinsaturées oméga-3*, *gras polyinsaturés oméga-3*, *lipides polyinsaturés oméga-3*, *polyinsaturés oméga-3* ou *oméga-3*)
 
 ***omega-6 polyunsaturated fatty acids***, ***omega-6 polyunsaturated fat***, ***omega-6 polyunsaturates***, ***omega-6 polyunsaturated*** or ***omega-6*** means
 - **(a)** 9-*cis*, 12-*cis* octadecadienoic acid or linoleic acid,
@@ -494,74 +496,74 @@ but does not include
 - **(c)** 8-*cis*, 11-*cis*, 14-*cis* eicosatrienoic acid or di-homo-γ-linolenic acid,
 - **(d)** 5-*cis*, 8-*cis*, 11-*cis*, 14-*cis* eicosatetraenoic acid or arachidonic acid,
 - **(e)** 7-*cis*, 10-*cis*, 13-*cis*, 16-*cis* docosatetraenoic acid, or
-- **(f)** 4-*cis*, 7-*cis*, 10-*cis*, 13-*cis*, 16-*cis* docosapentaenoic acid; (*acides gras polyinsaturés oméga-6*, *graisses polyinsaturées oméga-6*, *gras polyinsaturés oméga-6*, *lipides polyinsaturés oméga-6*, *polyinsaturés oméga-6*ou*oméga-6*)
+- **(f)** 4-*cis*, 7-*cis*, 10-*cis*, 13-*cis*, 16-*cis* docosapentaenoic acid; (*acides gras polyinsaturés oméga-6*, *graisses polyinsaturées oméga-6*, *gras polyinsaturés oméga-6*, *lipides polyinsaturés oméga-6*, *polyinsaturés oméga-6* ou *oméga-6*)
 
-***ornamental container*** means a container that, except on the bottom, does not have any promotional or advertising material thereon, other than a trade mark or common name and that, because of any design appearing on its surface or because of its shape or texture, appears to be a decorative ornament and is sold as a decorative ornament in addition to being sold as the container of a product; (*emballage décoratif*)
+***ornamental container*** means a container that, except on the bottom, does not have any promotional or advertising material thereon, other than a trade mark or common name and that, because of any design appearing on its surface or because of its shape or texture, appears to be a decorative ornament and is sold as a decorative ornament in addition to being sold as the container of a product; (*emballage décoratif*)
 
-***overage*** means the amount of a vitamin or mineral nutrient that is, within the limits of good manufacturing practice, added to a food in excess of the amount declared on the label, in order to ensure that the amount of the vitamin or mineral nutrient declared on the label is maintained throughout the durable life of the food; (*surtitrage*)
+***overage*** means the amount of a vitamin or mineral nutrient that is, within the limits of good manufacturing practice, added to a food in excess of the amount declared on the label, in order to ensure that the amount of the vitamin or mineral nutrient declared on the label is maintained throughout the durable life of the food; (*surtitrage*)
 
-***parts per million***[Repealed, SOR/2010-94, s. 1]
+***parts per million***[Repealed, SOR/2010-94, s. 1]
 
-***parts per million*** or ***p.p.m.*** means parts per million by weight unless otherwise stated; (*parties par million ou p.p.m.*)
+***parts per million*** or ***p.p.m.*** means parts per million by weight unless otherwise stated; (*parties par million ou p.p.m.*)
 
-***per cent*** or ***%*** means per cent by weight, unless otherwise stated; (*pour cent*)
+***per cent*** or ***%*** means per cent by weight, unless otherwise stated; (*pour cent*)
 
-***polyunsaturated fatty acids***, ***polyunsaturated fat***, ***polyunsaturates*** or ***polyunsaturated*** means *cis*-methylene interrupted polyunsaturated fatty acids; (*acides gras polyinsaturés*, *graisses polyinsaturées*, *gras polyinsaturés*, *lipides polyinsaturés*ou*polyinsaturés*)
+***polyunsaturated fatty acids***, ***polyunsaturated fat***, ***polyunsaturates*** or ***polyunsaturated*** means *cis*-methylene interrupted polyunsaturated fatty acids; (*acides gras polyinsaturés*, *graisses polyinsaturées*, *gras polyinsaturés*, *lipides polyinsaturés* ou *polyinsaturés*)
 
-***poultry product*** means poultry meat, prepared poultry meat, poultry meat by-product or prepared poultry meat by-product; (*produit de volaille*)
+***poultry product*** means poultry meat, prepared poultry meat, poultry meat by-product or prepared poultry meat by-product; (*produit de volaille*)
 
-***poultry product extender*** means a food that is a source of protein and that is represented as being for the purpose of extending poultry products; (*allongeur de produit de volaille*)
+***poultry product extender*** means a food that is a source of protein and that is represented as being for the purpose of extending poultry products; (*allongeur de produit de volaille*)
 
-***prepackaged meal*** means a prepackaged selection of foods for one individual that requires no preparation other than heating and that contains at least one serving, as described in Canada’s Food Guide to Healthy Eating, published in 1992 by the Department of Supply and Services by authority of the Minister of National Health and Welfare, of
+***prepackaged meal*** means a prepackaged selection of foods for one individual that requires no preparation other than heating and that contains at least one serving, as described in Canada’s Food Guide to Healthy Eating, published in 1992 by the Department of Supply and Services by authority of the Minister of National Health and Welfare, of
 - **(a)** meat, fish, poultry, legumes, nuts, seeds, eggs or milk or milk products other than butter, cream, sour cream, ice-cream, ice milk and sherbet; and
-- **(b)** vegetables, fruit or grain products; (*repas préemballé*)
+- **(b)** vegetables, fruit or grain products; (*repas préemballé*)
 
-***prepackaged product*** means any food that is contained in a package in the manner in which it is ordinarily sold to or used or purchased by a person; (*produit préemballé*)
+***prepackaged product*** means any food that is contained in a package in the manner in which it is ordinarily sold to or used or purchased by a person; (*produit préemballé*)
 
-***principal display panel*** means, despite the meaning assigned to that term in section A.01.010,
+***principal display panel*** means, despite the meaning assigned to that term in section A.01.010,
 - **(a)** in the case of a label applied to a prepackaged product that is subject to the [Consumer Packaging and Labelling Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-38.md) the principal display panel as defined in the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md),
 - **(b)** in the case of a label applied to a prepackaged product that is not subject to the [Consumer Packaging and Labelling Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-38.md), that part of the label applied to all or part of the side or surface of the container that is displayed or visible under normal or customary conditions of sale or use, and where the container does not have such a side or surface, that part of the label applied to any part of the container, except the bottom, if any, and
-- **(c)** in the case of a label applied to a food that is not a prepackaged product, that part of the label applied to all or part of the side or surface of the food that is displayed or visible under normal or customary conditions of sale or use; (*espace principal*)
+- **(c)** in the case of a label applied to a food that is not a prepackaged product, that part of the label applied to all or part of the side or surface of the food that is displayed or visible under normal or customary conditions of sale or use; (*espace principal*)
 
-***reasonable daily intake***, in respect of a food set out in Column I of an item of Schedule K, means the amount of that food set out in Column II of that item; (*ration quotidienne raisonnable*)
+***reasonable daily intake***, in respect of a food set out in Column I of an item of Schedule K, means the amount of that food set out in Column II of that item; (*ration quotidienne raisonnable*)
 
 ***recommended daily intake***, in respect of a vitamin or mineral nutrient set out in column I of Table I to Division 1 of Part D or in column I of Table I to Division 2 of Part D, means
 - **(a)** in the case of a prepackaged product intended solely for children under two years of age, the quantity set out in column III, and
-- **(b)** in any other case, the quantity set out in column II; (*apport quotidien recommandé*)
+- **(b)** in any other case, the quantity set out in column II; (*apport quotidien recommandé*)
 
-***reference amount***, in respect of a food set out in column 1 of Schedule M, means the amount of that food set out in column 2; (*quantité de référence*)
+***reference amount***, in respect of a food set out in column 1 of Schedule M, means the amount of that food set out in column 2; (*quantité de référence*)
 
-***reference standard***, in respect of a nutrient set out in column 1 of the table to section B.01.001.1, means the amount set out in column 2; (*norme de référence*)
+***reference standard***, in respect of a nutrient set out in column 1 of the table to section B.01.001.1, means the amount set out in column 2; (*norme de référence*)
 
-***saturated fatty acids***, ***saturated fat***, ***saturates*** or ***saturated*** means all fatty acids that contain no double bonds; (*acides gras saturés, graisses saturées, gras saturés, lipides saturés*ou*saturés*)
+***saturated fatty acids***, ***saturated fat***, ***saturates*** or ***saturated*** means all fatty acids that contain no double bonds; (*acides gras saturés, graisses saturées, gras saturés, lipides saturés* ou *saturés*)
 
-***simulated meat product*** means any food that does not contain any meat product, poultry product or fish product but that has the appearance of a meat product; (*simili-produit de viande*)
+***simulated meat product*** means any food that does not contain any meat product, poultry product or fish product but that has the appearance of a meat product; (*simili-produit de viande*)
 
-***simulated poultry product*** means any food that does not contain any poultry product, meat product or fish product but that has the appearance of a poultry product; (*simili-produit de volaille*)
+***simulated poultry product*** means any food that does not contain any poultry product, meat product or fish product but that has the appearance of a poultry product; (*simili-produit de volaille*)
 
-***sugars*** means all monosaccharides and disaccharides; (*sucres*)
+***sugars*** means all monosaccharides and disaccharides; (*sucres*)
 
-***sweetener*** means any food additive listed as a sweetener in Table IX to section B.16.100; (*édulcorant*)
+***sweetener*** means any food additive listed as a sweetener in Table IX to section B.16.100; (*édulcorant*)
 
-***sweetening agent*** includes any food for which a standard is provided in Division 18, but does not include those food additives listed in the tables to Division 16; (*agent édulcorant*)
+***sweetening agent*** includes any food for which a standard is provided in Division 18, but does not include those food additives listed in the tables to Division 16; (*agent édulcorant*)
 
-***trans fatty acids***, ***trans fat*** or ***trans*** means unsaturated fatty acids that contain one or more isolated or non-conjugated double bonds in a *trans*-configuration; (*acides gras trans*, *graisses trans*, *gras trans*, *lipides trans*ou*trans*)
+***trans fatty acids***, ***trans fat*** or ***trans*** means unsaturated fatty acids that contain one or more isolated or non-conjugated double bonds in a *trans*-configuration; (*acides gras trans*, *graisses trans*, *gras trans*, *lipides trans* ou *trans*)
 
-***unstandardized food*** means any food for which a standard is not prescribed in this Part; (*aliment non normalisé*)
+***unstandardized food*** means any food for which a standard is not prescribed in this Part; (*aliment non normalisé*)
 
-***weighted recommended nutrient intake***, in respect of a vitamin or mineral nutrient set out in column I of Table II to Division 1 of Part D or in column I of Table II to Division 2 of Part D, means the amount set out in column III; (*apport nutritionnel recommandé pondéré*)
+***weighted recommended nutrient intake***, in respect of a vitamin or mineral nutrient set out in column I of Table II to Division 1 of Part D or in column I of Table II to Division 2 of Part D, means the amount set out in column III; (*apport nutritionnel recommandé pondéré*)
 
-***yolk-replaced egg*** means a food that
+***yolk-replaced egg*** means a food that
 - **(a)** does not contain egg yolk but contains fluid, dried or frozen egg albumen or mixtures thereof,
 - **(b)** is intended as a substitute for whole egg, and
-- **(c)** meets the requirements of section B.22.032. (*oeuf à jaune substitué*)
+- **(c)** meets the requirements of section B.22.032; (*oeuf à jaune substitué*)
 
 - **(2)** The definitions in this subsection apply for the purposes of the Act.
 
-***agricultural chemical*** has the same meaning as in subsection (1). (*produit chimique agricole*)
+***agricultural chemical*** has the same meaning as in subsection (1). (*produit chimique agricole*)
 
-***food additive*** has the same meaning as in subsection (1). (*additif alimentaire*)
-> SOR/78-403, s. 1(F); SOR/79-23, s. 1; SOR/81-83, s. 1; SOR/81-617, s. 1; SOR/88-336, s. 1; SOR/88-559, s. 1; SOR/89-175, s. 1; SOR/91-124, s. 1; SOR/91-527, s. 1; SOR/93-276, s. 1; SOR/95-474, s. 1; SOR/98-580, s. 1(F); SOR/2000-353, s. 3; SOR/2003-11, s. 1; err.(E), Vol. 137, No. 5; SOR/2005-98, s. 1; SOR/2008-181, s. 1; SOR/2008-182, s. 1; SOR/2010-94, s. 1; SOR/2011-278, s. 1; SOR/2014-99, s. 1.
+***food additive*** has the same meaning as in subsection (1). (*additif alimentaire*)
+> SOR/78-403, s. 1(F); SOR/79-23, s. 1; SOR/81-83, s. 1; SOR/81-617, s. 1; SOR/88-336, s. 1; SOR/88-559, s. 1; SOR/89-175, s. 1; SOR/91-124, s. 1; SOR/91-527, s. 1; SOR/93-276, s. 1; SOR/95-474, s. 1; SOR/98-580, s. 1(F); SOR/2000-353, s. 3; SOR/2003-11, s. 1; err.(E), Vol. 137, No. 5; SOR/2005-98, s. 1; SOR/2008-181, s. 1; SOR/2008-182, s. 1; SOR/2010-94, s. 1; SOR/2011-278, s. 1; SOR/2014-99, s. 1; SOR/2016-74, s. 1.
 
 
 
@@ -1797,45 +1799,11 @@ in letters of at least the same size and prominence as the letters used in the n
 
 
 
-**B.01.046** 
-
-- **(1)** A food is adulterated if any of the following substances or classes of substances are present therein or have been added thereto:
-	- **(a)** mineral oil, paraffin wax or petrolatum or any preparation thereof;
-	- **(b)** coumarin, an extract of tonka beans, the seed of *Dipteryx odorata* Willd. or *Dipteryx oppositifolia* Willd.;
-	- **(c)** non-nutritive sweetening agents;
-	- **(d)** cottonseed flour that contains more than 450 parts per million of free gossypol;
-	- **(e)** fatty acids and their salts containing chick-edema factor or other toxic factors;
-	- **(f)** dihydrosafrole;
-	- **(g)** isosafrole;
-	- **(h)** oil of American sassafras from *Sassafras albidum* (Nutt). Nees;
-	- **(i)** oil of Brazilian sassafras from *Ocotea cymbarum* H.B.K.;
-	- **(j)** oil of camphor sassafrassy from *Cinnamomum camphorum* Sieb.;
-	- **(k)** oil of micranthum from *Cinnamomum micranthum* Hayata;
-	- **(l)** safrole;
-	- **(m)** oil, extract or root of calamus from *Acorus calamus* L.;
-	- **(n)** nut and nut products that contain more than 15 parts per billion of aflatoxin;
-	- **(o)** ethylene thiourea;
-	- **(p)** chlorinated dibenzo-p-dioxins; or
-	- **(q)** cinnamyl anthranilate.
-
-- **(2)** For the purpose of paragraph (1)(n), the aflatoxin content of a nut or nut product shall be calculated on the basis of the nut meat portion.
-> SOR/79-358, s. 1; SOR/80-501, s. 1; SOR/82-1071, s. 1; SOR/83-857, s. 1; SOR/84-300, s. 7; SOR/88-534, s. 1.
+**B.01.046** [Repealed, SOR/2016-74, s. 2]
 
 
 
-
-**B.01.047** Notwithstanding section B.01.046
-- **(a)** a food, other than sausage casing, is not adulterated by reason only that it contains 0.3 per cent or less mineral oil, if good manufacturing practice requires the use of mineral oil;
-- **(b)** chewing gum is not adulterated by reason only that it contains a paraffin wax base;
-- **(c)** fresh fruits and vegetables, except turnips, are not adulterated by reason only that they are coated with not more than 0.3 per cent paraffin wax and petrolatum, if good manufacturing practices require the use of such coating;
-- **(d)** turnips and cheese are not adulterated by reason only that they are coated with paraffin wax in accordance with good manufacturing practice;
-- **(e)** sausage casing is not adulterated by reason only that it contains five per cent or less mineral oil by weight, if good manufacturing practice requires the use of mineral oil;
-- **(f)** fish is not adulterated by reason only that it contains 20 parts per trillion or less of 2,3,7,8-tetrachlorodibenzoparadioxin;
-- **(g)** bakery products and confectionery are not adulterated by reason only that they contain 0.15 per cent or less petrolatum, if good manufacturing practice requires the use of petrolatum;
-- **(h)** a salt substitute is not adulterated by reason only that it contains 0.6 per cent or less mineral oil, if good manufacturing practice requires the use of mineral oil; and
-- **(i)** fruits, vegetables and cereals are not adulterated by reason only that they contain 0.05 parts per million or less of ethylene thiourea. 
-> SOR/81-934, s. 1; SOR/82-122, s. 1; SOR/82-1071, s. 2; SOR/83-932, s. 1; SOR/84-17, s. 1; SOR/92-76, s. 1.
-
+**B.01.047** [Repealed, SOR/2016-74, s. 2]
 
 
 
@@ -1863,16 +1831,16 @@ in letters of at least the same size and prominence as the letters used in the n
 
 - **(1)** No person shall sell
 	- **(a)** any animal intended for consumption as food if any product containing any drug listed in subsection (2) has been administered to the animal;
-	- **(b)** any meat, meat by-products, eggs or milk intended for consumption as food and derived from an animal if any product containing any drug listed in subsection (2) has been administered to that animal; or
-	- **(c)** any meat, meat by-products, eggs or milk that contains any residue of any drug listed in subsection (2).
+	- **(b)** any food that is derived from an animal if any product containing a drug listed in subsection (2) has been administered to the animal; or
+	- **(c)** any food that is derived from an animal if the food contains any residue of a drug listed in subsection (2).
 
 - **(2)** The drugs referred to in subsection (1) are
 	- **(a)** chloramphenicol and its salts and derivatives;
 	- **(b)** a 5-nitrofuran compound;
 	- **(c)** clenbuterol and its salts and derivatives;
 	- **(d)** a 5-nitroimidazole compound; and
-	- **(e)** diethylstilbestrol and other stilbene compounds. 
-> SOR/85-685, s. 1; SOR/87-626, s. 1; SOR/94-568, s. 1; SOR/97-510, s. 1; SOR/2003-292, s. 1.
+	- **(e)** diethylstilbestrol and other stilbene compounds.
+> SOR/85-685, s. 1; SOR/87-626, s. 1; SOR/94-568, s. 1; SOR/97-510, s. 1; SOR/2003-292, s. 1; SOR/2016-74, s. 3.
 
 
 
@@ -1940,36 +1908,7 @@ in letters of at least the same size and prominence as the letters used in the n
 
 
 
-**B.01.056** 
-
-- **(1)** This section applies in respect of interim marketing authorizations that the Minister may issue under subsection 30.2(1) of the Act.
-
-- **(2)** In this section, ***food for special dietary use*** has the same meaning as in section B.24.001.
-
-- **(3)** The manufacturer of a food or of an agricultural chemical, veterinary drug, food additive, vitamin, mineral nutrient or amino acid present in or on a food may submit an application in writing to the Minister for the issuance of an interim marketing authorization in respect of the food that provides for any matter referred to in subsection 30.2(2) of the Act.
-
-- **(4)** The application shall be accompanied by the following information:
-	- **(a)** the common name and description of the food;
-	- **(b)** the reasons for which the interim marketing authorization is requested;
-	- **(c)** a description of every exemption requested in respect of the food from the application, in whole or in part, of sections 5 to 6.1 of the Act and the applicable requirements of these Regulations;
-	- **(d)** adequate data, including results of tests and scientific analysis, that demonstrate that the food would not be harmful to the health of the purchaser or consumer;
-	- **(e)** if the application relates to the addition of vitamins, mineral nutrients or amino acids to the food, a statement, with supporting documentation, indicating that the proposed addition is for one or more of the following purposes:
-		- **(i)** to restore the levels of vitamins or mineral nutrients to the levels that were present in the food before processing or, in the case of amino acids, to provide protein of a nutritional quality that is equivalent to that which was present in the food before processing,
-		- **(ii)** to make the food that is intended to be sold as a substitute for another food nutritionally equivalent to the food that it is intended to replace in the diet in respect of
-			- **(A)** the levels of added vitamins or mineral nutrients, or
-			- **(B)** the quality of protein provided through the addition of amino acids,
-		- **(iii)** to prevent or correct a deficiency of vitamins or mineral nutrients in the population or specific population groups, or
-		- **(iv)** to modify the levels of vitamins, mineral nutrients or amino acids in the food for special dietary use; and
-	- **(f)** if the application relates to the use of a food additive in or on the food, the information described in section B.16.002.
-
-- **(5)** In addition to the matters that may be provided for in accordance with subsections 30.2(2) and (4) of the Act, an interim marketing authorization shall set out
-	- **(a)** the common name and description of the food;
-	- **(b)** the reasons for which the interim marketing authorization is issued; and
-	- **(c)** the provisions of the Act and of these Regulations in respect of which the food is exempted.
-
-- **(6)** An interim marketing authorization may be cancelled by the Minister if the Minister determines, after reviewing any additional information that comes to his or her attention, that the food for which the authorization was issued is or may be harmful to the health of the purchaser or consumer.
-> SOR/97-313, s. 1; SOR/2008-181, s. 2.
-
+**B.01.056** [Repealed, SOR/2016-74, s. 4]
 
 
 
@@ -7306,7 +7245,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 - **(c)** prior to final filtration may be treated with
 	- **(i)** a strongly acid cation exchange resin in the sodium ion form, or
 	- **(ii)** a weakly basic anion exchange resin in the hydroxyl ion form.
-> SOR/78-402, s. 1; SOR/81-565, s. 1; SOR/84-300, ss. 14(F), 15(E); SOR/2006-91, s. 1; SOR/2008-142, s. 1(F); SOR/2010-143, s. 39(E).
+> SOR/78-402, s. 1; SOR/81-565, s. 1; SOR/84-300, ss. 14(F), 15(E); SOR/2006-91, s. 1; SOR/2008-142, s. 1(F); SOR/2010-143, s. 39(E); SOR/2016-74, s. 5(E).
 
 
 
@@ -11971,7 +11910,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 - **(a)** mucous membranes, any organ or portions of the genital system, black gut, spleens, udders, lungs or any other organ or portion of animal that is not commonly sold as an article of food;
 - **(b)** preservatives other than those provided for in this Division; or
 - **(c)** colour other than annatto, allura red and sunset yellow FCF, where provided for in this Division, and caramel.
-> SOR/92-725, s. 2; SOR/97-516, s. 2.
+> SOR/92-725, s. 2; SOR/97-516, s. 2; SOR/2016-74, s. 6(F).
 
 
 
@@ -12689,8 +12628,19 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 ### Adulteration of Food
 
 
-**B.15.001** A food named in Column III of an item of Table I to this Division is adulterated if the substance named in Column I of that item is present therein or has been added thereto in an amount exceeding the amount, expressed in parts per million, shown in Column II of that item for that food.
-> SOR/78-404, s. 1; SOR/79-249, s. 1.
+**B.15.001** 
+
+- **(1)** A food referred to in column 2 of Part 1 of the List of Contaminants and Other Adulterating Substances in Foods is adulterated if the corresponding substance referred to, by name or class, in column 1 is present in or on the food.
+
+- **(2)** A food referred to in column 2 of Part 2 of the List of Contaminants and Other Adulterating Substances in Foods is adulterated if the corresponding substance referred to, by name or class, in column 1 is present in or on the food in an amount that exceeds the maximum level set out in column 3.
+
+- **(3)** If a substance referred to, by name or class, in column 1 in Part 2 the List of Contaminants and Other Adulterating Substances in Foods is present in or on the corresponding food referred to in column 2, the food is, in respect of the presence of the substance, exempt from the application of paragraph 4(1)(a) of the Act if the amount of the substance does not exceed the maximum level set out in column 3.
+
+- **(4)** Subsections (1) to (3) do not apply to a substance that is present in or on a food as
+	- **(a)** a food additive;
+	- **(b)** a pest control product as defined in subsection 2(1) of the [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md) or its components or derivatives; or
+	- **(c)** a veterinary drug or its metabolites.
+> SOR/78-404, s. 1; SOR/79-249, s. 1; SOR/2016-74, s. 7.
 
 
 
@@ -12718,957 +12668,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 
 
 
-**B.15.003** A food named in Column IV of an item of Table III to this Division is exempt from paragraph 4(d) of the Act if the drug named in Column I, and analysed as being the substance named in Column II, of that item is present in the food in an amount not exceeding the limit, expressed in parts per million, set out in Column III of that item for that food.SOR/78-404, s. 1; SOR/79-249, s. 1; SOR/91-255, s. 1.
-
-
-#### TABLE I
-<table>
-<tr>
-<th></th>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-</tr>
-<tr>
-<th>Item No.</th>
-<th>Substance</th>
-<th>Tolerance p.p.m.</th>
-<th>Foods</th>
-</tr>
-<tr>
-<td>1</td>
-<td>Arsenic</td>
-<td>(1) 3.5</td>
-<td>(1) Fish protein</td>
-</tr>
-<tr>
-<td>(2) 1</td>
-<td>(2) Edible bone meal</td>
-</tr>
-<tr>
-<td>(3) 0.1</td>
-<td>(3) Fruit juice, fruit nectar, beverages when ready-to-serve and water in sealed containers other than mineral water or spring water</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Fluoride</td>
-<td>(1) 650</td>
-<td>(1) Edible bone meal</td>
-</tr>
-<tr>
-<td>(2) 150</td>
-<td>(2) Fish Protein</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Lead</td>
-<td>(1) 10</td>
-<td>(1) Edible bone meal</td>
-</tr>
-<tr>
-<td>(2) 1.5</td>
-<td>(2) Tomato paste and tomato sauce</td>
-</tr>
-<tr>
-<td>(3) 0.5</td>
-<td>(3) Fish protein and whole tomatoes</td>
-</tr>
-<tr>
-<td>(4) 0.2</td>
-<td>(4) Fruit juice, fruit nectar, beverages when ready-to-serve and water in sealed containers other than mineral water or spring water</td>
-</tr>
-<tr>
-<td>(5) 0.15</td>
-<td>(5) Evaporated milk, condensed milk and concentrated infant formula</td>
-</tr>
-<tr>
-<td>(6) 0.08</td>
-<td>(6) Infant formula when ready-to-serve</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Tin</td>
-<td>(1) 250</td>
-<td>(1) Canned foods</td>
-</tr>
-</table>
-
-> SOR/78-404, s. 2; SOR/79-249, s. 2; SOR/86-258, s. 1; SOR/89-243, ss. 1, 2; SOR/91-149, s. 2(E); SOR/94-689, s. 2(F)..
-
-
-
-
-**TABLE II** 
-## [Repealed, SOR/2008-182, s. 3]
-
-#### TABLE III
-<table>
-<h4>VETERINARY DRUGS</h4>
-<tr>
-<th>Item No.</th>
-<th>Column I</th>
-<th>Column II</th>
-<th>Column III</th>
-<th>Column IV</th>
-</tr>
-<tr>
-<th>Common Name (or Brand Name) of Drug</th>
-<th>Name of Substance for Drug Analysis Purposes</th>
-<th>Maximum Residue Limit p.p.m.</th>
-<th>Foods</th>
-</tr>
-<tr>
-<td>A.01</td>
-<td>albendazole</td>
-<td>albendazole-2-aminosulfone</td>
-<td>0.2</td>
-<td>Liver of cattle</td>
-</tr>
-<tr>
-<td>A.02</td>
-<td>altrenogest</td>
-<td>altrenogest</td>
-<td>0.001</td>
-<td>Liver of swine</td>
-</tr>
-<tr>
-<td>0.002</td>
-<td>Kidney of swine</td>
-</tr>
-<tr>
-<td>A.1</td>
-<td>ampicillin</td>
-<td>ampicillin</td>
-<td>0.01</td>
-<td>Edible tissue of swine and cattle; milk</td>
-</tr>
-<tr>
-<td>A.2</td>
-<td>amprolium</td>
-<td>amprolium</td>
-<td>0.5</td>
-<td>Muscle of chickens and turkeys</td>
-</tr>
-<tr>
-<td>1.0</td>
-<td>Liver and kidney of chickens and turkeys</td>
-</tr>
-<tr>
-<td>7.0</td>
-<td>Eggs</td>
-</tr>
-<tr>
-<td>A.3</td>
-<td>apramycin</td>
-<td>apramycin</td>
-<td>0.1</td>
-<td>Kidney of swine</td>
-</tr>
-<tr>
-<td>A.4</td>
-<td>arsanilic acid</td>
-<td>arsenic</td>
-<td>0.5</td>
-<td>Muscle of swine, chickens and turkeys; eggs</td>
-</tr>
-<tr>
-<td>2.0</td>
-<td>Liver of swine, chickens and turkeys</td>
-</tr>
-<tr>
-<td>B.1</td>
-<td>buquinolate</td>
-<td>buquinolate</td>
-<td>0.1</td>
-<td>Muscle of chickens</td>
-</tr>
-<tr>
-<td>0.4</td>
-<td>Liver, kidney, skin and fat of chickens</td>
-</tr>
-<tr>
-<td>C.01</td>
-<td>ceftiofur</td>
-<td>desfuroyl-ceftiofur (DFC)</td>
-<td>0.1</td>
-<td>Milk</td>
-</tr>
-<tr>
-<td>1.0</td>
-<td>Muscle of cattle, sheep and swine</td>
-</tr>
-<tr>
-<td>2.0</td>
-<td>Liver and fat of cattle, sheep and swine</td>
-</tr>
-<tr>
-<td>5.0</td>
-<td>Kidney of swine</td>
-</tr>
-<tr>
-<td>6.0</td>
-<td>Kidney of cattle and sheep</td>
-</tr>
-<tr>
-<td>C.1</td>
-<td>cephapirin</td>
-<td>cephapirin</td>
-<td>0.02</td>
-<td>Milk</td>
-</tr>
-<tr>
-<td>0.1</td>
-<td>Edible tissue of cattle</td>
-</tr>
-<tr>
-<td>C.2</td>
-<td>chlortetracycline</td>
-<td>chlortetracycline</td>
-<td>0.1</td>
-<td>Kidney, liver and muscle of cattle; muscle of sheep</td>
-</tr>
-<tr>
-<td>0.2</td>
-<td>Fat of swine</td>
-</tr>
-<tr>
-<td>0.5</td>
-<td>Liver of sheep</td>
-</tr>
-<tr>
-<td>1.0</td>
-<td>Muscle, liver, skin and fat of chickens and turkeys; muscle of swine; muscle and fat of calves; kidney of sheep</td>
-</tr>
-<tr>
-<td>2.0</td>
-<td>Liver of swine</td>
-</tr>
-<tr>
-<td>4.0</td>
-<td>Kidney of swine, chickens and turkeys; liver and kidney of calves</td>
-</tr>
-<tr>
-<td>C.3</td>
-<td>clopidol</td>
-<td>clopidol</td>
-<td>5.0</td>
-<td>Muscle of chickens and turkeys</td>
-</tr>
-<tr>
-<td>15.0</td>
-<td>Liver and kidney of chickens and turkeys</td>
-</tr>
-<tr>
-<td>D.01</td>
-<td>danofloxacin</td>
-<td>danofloxacin</td>
-<td>0.07</td>
-<td>Muscle and liver of cattle</td>
-</tr>
-<tr>
-<td>0.4</td>
-<td>Kidney of cattle</td>
-</tr>
-<tr>
-<td>D.1</td>
-<td>decoquinate</td>
-<td>decoquinate</td>
-<td>1.0</td>
-<td>Muscle of cattle, goats and chickens</td>
-</tr>
-<tr>
-<td>2.0</td>
-<td>Kidney, liver and fat of cattle and goats; kidney, liver, skin and fat of chickens</td>
-</tr>
-<tr>
-<td>D.1.1</td>
-<td>diclazuril</td>
-<td>diclazuril</td>
-<td>0.5</td>
-<td>Muscle of chickens and turkeys</td>
-</tr>
-<tr>
-<td>1.0</td>
-<td>Skin and fat of chickens and turkeys</td>
-</tr>
-<tr>
-<td>3.0</td>
-<td>Liver of chickens and turkeys</td>
-</tr>
-<tr>
-<td>D.2</td>
-<td>dihydrostreptomycin</td>
-<td>dihydrostreptomycin</td>
-<td>0.125</td>
-<td>Milk</td>
-</tr>
-<tr>
-<td>D.3</td>
-<td>dinitolmide (zoalene)</td>
-<td>dinitolmide, including the metabolite 3-amino-5-nitro-o-toluamide</td>
-<td>2.0</td>
-<td>Fat of chickens</td>
-</tr>
-<tr>
-<td>3.0</td>
-<td>Muscle of chickens and turkeys; liver and fat of turkeys</td>
-</tr>
-<tr>
-<td>6.0</td>
-<td>Liver and kidney of chickens</td>
-</tr>
-<tr>
-<td>D.4</td>
-<td>doramectin</td>
-<td>doramectin</td>
-<td>0.01</td>
-<td>Muscle of swine</td>
-</tr>
-<tr>
-<td>0.03</td>
-<td>Muscle of cattle</td>
-</tr>
-<tr>
-<td>0.035</td>
-<td>Liver of swine</td>
-</tr>
-<tr>
-<td>0.07</td>
-<td>Liver of cattle</td>
-</tr>
-<tr>
-<td>E.01</td>
-<td>enrofloxacin</td>
-<td>desethylene ciprofloxacin</td>
-<td>0.02</td>
-<td>Muscle of cattle</td>
-</tr>
-<tr>
-<td>0.07</td>
-<td>Liver of cattle</td>
-</tr>
-<tr>
-<td>E.02</td>
-<td>eprinomectin</td>
-<td>eprinomectin B<sub>1a</sub></td>
-<td>0.02</td>
-<td>Milk</td>
-</tr>
-<tr>
-<td>0.1</td>
-<td>Muscle of cattle</td>
-</tr>
-<tr>
-<td>1.0</td>
-<td>Liver of cattle</td>
-</tr>
-<tr>
-<td>E.1</td>
-<td>erythromycin</td>
-<td>erythromycin</td>
-<td>0.05</td>
-<td>Milk</td>
-</tr>
-<tr>
-<td>0.1</td>
-<td>Edible tissue of swine</td>
-</tr>
-<tr>
-<td>0.125</td>
-<td>Edible tissue of chickens and turkeys</td>
-</tr>
-<tr>
-<td>F.1</td>
-<td>fenbendazole</td>
-<td>fenbendazole</td>
-<td>0.45</td>
-<td>Liver of cattle</td>
-</tr>
-<tr>
-<td>4.5</td>
-<td>Liver of swine</td>
-</tr>
-<tr>
-<td>F.2</td>
-<td>florfenicol</td>
-<td>florfenicol amine</td>
-<td>0.2</td>
-<td>Muscle of cattle</td>
-</tr>
-<tr>
-<td>0.25</td>
-<td>Muscle of swine</td>
-</tr>
-<tr>
-<td>0.8</td>
-<td>Muscle of salmonids</td>
-</tr>
-<tr>
-<td>1.4</td>
-<td>Liver of swine</td>
-</tr>
-<tr>
-<td>2.0</td>
-<td>Liver of cattle</td>
-</tr>
-<tr>
-<td>F.3</td>
-<td>flunixin</td>
-<td>flunixin free acid</td>
-<td>0.02</td>
-<td>Muscle of cattle</td>
-</tr>
-<tr>
-<td>0.08</td>
-<td>Liver of cattle</td>
-</tr>
-<tr>
-<td>G.1</td>
-<td>gentamicin</td>
-<td>gentamicin</td>
-<td>0.1</td>
-<td>Edible tissue of turkeys</td>
-</tr>
-<tr>
-<td>0.4</td>
-<td>Kidney of swine</td>
-</tr>
-<tr>
-<td>H.01</td>
-<td>halofuginone</td>
-<td>halofuginone</td>
-<td>0.1</td>
-<td>Liver of chicken</td>
-</tr>
-<tr>
-<td>H.1</td>
-<td>hydrocortisone</td>
-<td>hydrocortisone</td>
-<td>0.01</td>
-<td>Milk</td>
-</tr>
-<tr>
-<td>I.1</td>
-<td>ivermectin</td>
-<td>22,23-dihydro-avermectin B<sub>1a</sub></td>
-<td>0.015</td>
-<td>Liver of swine</td>
-</tr>
-<tr>
-<td>0.03</td>
-<td>Liver of sheep</td>
-</tr>
-<tr>
-<td>0.07</td>
-<td>Liver of cattle</td>
-</tr>
-<tr>
-<td>K.1</td>
-<td>ketoprofen</td>
-<td>ketoprofen</td>
-<td>0.05</td>
-<td>Milk</td>
-</tr>
-<tr>
-<td>0.1</td>
-<td>Muscle of swine</td>
-</tr>
-<tr>
-<td>0.25</td>
-<td>Muscle of cattle</td>
-</tr>
-<tr>
-<td>0.5</td>
-<td>Kidney of swine</td>
-</tr>
-<tr>
-<td>0.8</td>
-<td>Kidney of cattle</td>
-</tr>
-<tr>
-<td>L.01</td>
-<td>lasalocid</td>
-<td>lasalocid</td>
-<td>0.35</td>
-<td>Fat and skin of chicken</td>
-</tr>
-<tr>
-<td>0.65</td>
-<td>Liver of cattle</td>
-</tr>
-<tr>
-<td>L.1</td>
-<td>levamisole hydrochloride</td>
-<td>levamisole</td>
-<td>0.1</td>
-<td>Edible tissue of cattle, sheep and swine</td>
-</tr>
-<tr>
-<td>(calculated as levamisol hydro-chloride)</td>
-</tr>
-<tr>
-<td>L.2</td>
-<td>lincomycin</td>
-<td>lincomycin</td>
-<td>0.1</td>
-<td>Muscle of chickens and swine</td>
-</tr>
-<tr>
-<td>0.5</td>
-<td>Liver of chickens and swine</td>
-</tr>
-<tr>
-<td>M.01</td>
-<td>maduramicin</td>
-<td>maduramicin</td>
-<td>0.4</td>
-<td>Fat and skin of chicken</td>
-</tr>
-<tr>
-<td>M.02</td>
-<td>melengestrol acetate</td>
-<td>melengestrol acetate</td>
-<td>0.006</td>
-<td>Liver of cattle</td>
-</tr>
-<tr>
-<td>0.014</td>
-<td>Fat of cattle</td>
-</tr>
-<tr>
-<td>M.1</td>
-<td>monensin</td>
-<td>monensin</td>
-<td>0.01</td>
-<td>Milk</td>
-</tr>
-<tr>
-<td>0.05</td>
-<td>Edible tissue of cattle, chickens and turkeys</td>
-</tr>
-<tr>
-<td>M.2</td>
-<td>morantel tartrate</td>
-<td>N-methyl-1,3-propane diamine</td>
-<td>0.1</td>
-<td>Milk</td>
-</tr>
-<tr>
-<td>0.5</td>
-<td>Liver of cattle</td>
-</tr>
-<tr>
-<td>M.3</td>
-<td>moxidectin</td>
-<td>moxidectin</td>
-<td>0.55</td>
-<td>Fat of cattle</td>
-</tr>
-<tr>
-<td>N.01</td>
-<td>narasin</td>
-<td>narasin</td>
-<td>0.05</td>
-<td>Muscle of chickens and swine; liver of swine</td>
-</tr>
-<tr>
-<td>0.5</td>
-<td>Fat of chickens</td>
-</tr>
-<tr>
-<td>N.1</td>
-<td>neomycin</td>
-<td>neomycin</td>
-<td>0.25</td>
-<td>Edible tissue of calves</td>
-</tr>
-<tr>
-<td>N.2</td>
-<td>nicarbazin</td>
-<td>N,N<sup>1</sup>-bis(4-nitrophenyl)urea</td>
-<td>4.0</td>
-<td>Muscle, liver, kidney and skin of chickens</td>
-</tr>
-<tr>
-<td>N.3</td>
-<td>nitarsone</td>
-<td>arsenic</td>
-<td>0.5</td>
-<td>Muscle of turkeys</td>
-</tr>
-<tr>
-<td>2.0</td>
-<td>Liver of turkeys</td>
-</tr>
-<tr>
-<td>N.4</td>
-<td>novobiocin</td>
-<td>novobiocin</td>
-<td>1.0</td>
-<td>Edible tissue of cattle, chickens and turkeys</td>
-</tr>
-<tr>
-<td>O.1</td>
-<td>oxytetracycline</td>
-<td>oxytetracycline</td>
-<td>0.2</td>
-<td>Muscle of cattle, chickens, lobster, salmonids, sheep, swine and turkeys</td>
-</tr>
-<tr>
-<td>0.3</td>
-<td>Honey</td>
-</tr>
-<tr>
-<td>0.4</td>
-<td>Eggs</td>
-</tr>
-<tr>
-<td>0.6</td>
-<td>Liver of cattle, chickens, sheep, swine and turkeys</td>
-</tr>
-<tr>
-<td>1.2</td>
-<td>Kidneys of cattle, chickens, sheep, swine and turkeys; fat of cattle and sheep; skin and fat of chicken, swine, and turkeys</td>
-</tr>
-<tr>
-<td>P.1</td>
-<td>penicillin G</td>
-<td>penicillin G</td>
-<td>0.01 I.U./ml</td>
-<td>Milk</td>
-</tr>
-<tr>
-<td>0.01</td>
-<td>Edible tissue of turkeys</td>
-</tr>
-<tr>
-<td>0.05</td>
-<td>Edible tissue of cattle and swine</td>
-</tr>
-<tr>
-<td>P.1.1</td>
-<td>pirlimycin</td>
-<td>pirlimycin</td>
-<td>0.3</td>
-<td>Muscle of cattle</td>
-</tr>
-<tr>
-<td>0.4</td>
-<td>Milk</td>
-</tr>
-<tr>
-<td>0.5</td>
-<td>Liver of cattle</td>
-</tr>
-<tr>
-<td>P.2</td>
-<td>polymyxin B</td>
-<td>polymyxin B</td>
-<td>4.0 u/ml</td>
-<td>Milk</td>
-</tr>
-<tr>
-<td>P.3</td>
-<td>pyrantel tartrate</td>
-<td>N-methyl-1,3-propane-diamine</td>
-<td>1.0</td>
-<td>Muscle of swine</td>
-</tr>
-<tr>
-<td>(calculated as pyrantel tartrate)</td>
-</tr>
-<tr>
-<td>10.0</td>
-<td>Liver and kidney of swine</td>
-</tr>
-<tr>
-<td>(calculated as pyrantel tartrate)</td>
-</tr>
-<tr>
-<td>R.1</td>
-<td>robenidine hydro-chloride</td>
-<td>robenidine</td>
-<td>0.1</td>
-<td>Muscle, liver and kidney of chickens</td>
-</tr>
-<tr>
-<td>(calculated as robenidine hydro-chloride)</td>
-<td></td>
-</tr>
-<tr>
-<td>0.2</td>
-<td>Skin and fat of chickens</td>
-</tr>
-<tr>
-<td>(calculated as robenidine hydro-chloride)</td>
-</tr>
-<tr>
-<td>R.2</td>
-<td>roxarsone</td>
-<td>arsenic</td>
-<td>0.5</td>
-<td>Muscle of swine, chickens and turkeys; eggs</td>
-</tr>
-<tr>
-<td>2.0</td>
-<td>Liver of swine, chickens and turkeys</td>
-</tr>
-<tr>
-<td>S.01</td>
-<td>salinomycin</td>
-<td>salinomycin</td>
-<td>0.35</td>
-<td>Fat and skin of chicken; Liver of cattle and swine</td>
-</tr>
-<tr>
-<td>S.1</td>
-<td>spectinomycin</td>
-<td>spectinomycin</td>
-<td>0.1</td>
-<td>Edible tissue of chickens</td>
-</tr>
-<tr>
-<td>S.2</td>
-<td>streptomycin</td>
-<td>streptomycin</td>
-<td>0.125</td>
-<td>Milk</td>
-</tr>
-<tr>
-<td>S.2.1</td>
-<td>sulfabenzamide</td>
-<td>sulfabenzamide</td>
-<td>0.01 — singly or in combination with other sulfonamides listed in this Table</td>
-<td>Milk</td>
-</tr>
-<tr>
-<td>0.1 — singly or in combination with other sulfonamides listed in this Table</td>
-<td>Edible tissue of cattle and sheep</td>
-</tr>
-<tr>
-<td>S.2.2</td>
-<td>sulfacetamide</td>
-<td>sulfacetamide</td>
-<td>0.01 — singly or in combination with other sulfonamides listed in this Table</td>
-<td>Milk</td>
-</tr>
-<tr>
-<td>0.1 — singly or in combination with other sulfonamides listed in this Table</td>
-<td>Edible tissue of cattle and sheep</td>
-</tr>
-<tr>
-<td>S.3</td>
-<td>sulfachlorpyridazine</td>
-<td>sulfachlorpyridazine</td>
-<td>0.1 — singly or in combination with other sulfonamides listed in this Table</td>
-<td>Edible tissue of cattle and swine</td>
-</tr>
-<tr>
-<td>S.3.1</td>
-<td>sulfadiazine</td>
-<td>sulfadiazine</td>
-<td>0.1 — singly or in combination with other sulfonamides listed in this Table</td>
-<td>Edible tissue of cattle, horses, sheep and swine; muscle of salmonids</td>
-</tr>
-<tr>
-<td>S.4</td>
-<td>sulfadimethoxine</td>
-<td>sulfadimethoxine</td>
-<td>0.01 — singly or in combination with other sulfonamides listed in this Table</td>
-<td>Milk</td>
-</tr>
-<tr>
-<td>0.1 — singly or in combination with other sulfonamides listed in this Table</td>
-<td>Edible tissue of cattle, chickens, horses, swine and turkeys; muscle of salmonids</td>
-</tr>
-<tr>
-<td>S.4.1</td>
-<td>sulfadoxine</td>
-<td>sulfadoxine</td>
-<td>0.01 — singly or in combination with other sulfonamides listed in this Table</td>
-<td>Milk</td>
-</tr>
-<tr>
-<td>0.1 — singly or in combination with other sulfonamides listed in this Table</td>
-<td>Edible tissue of cattle and swine</td>
-</tr>
-<tr>
-<td>S.5</td>
-<td>sulfaethoxypyridazine</td>
-<td>sulfaethoxypyridazine</td>
-<td>0.01 — singly or in combination with other sulfonamides listed in this Table</td>
-<td>Milk</td>
-</tr>
-<tr>
-<td>0.1 — singly or in combination with other sulfonamides listed in this Table</td>
-<td>Edible tissue of cattle and swine</td>
-</tr>
-<tr>
-<td>S.5.1</td>
-<td>sulfaguanidine</td>
-<td>sulfaguanidine</td>
-<td>0.01 — singly or in combination with other sulfonamides listed in this Table</td>
-<td>Milk</td>
-</tr>
-<tr>
-<td>0.1 — singly or in combination with other sulfonamides listed in this Table</td>
-<td>Edible tissue of cattle, horses, rabbits, sheep and swine</td>
-</tr>
-<tr>
-<td>S.5.2</td>
-<td>sulfamerazine</td>
-<td>sulfamerazine</td>
-<td>0.1 — singly or in combination with other sulfonamides listed in this Table</td>
-<td>Edible tissue of cattle, sheep and swine</td>
-</tr>
-<tr>
-<td>S.6</td>
-<td>sulfamethazine</td>
-<td>sulfamethazine</td>
-<td>0.01 — singly or in combination with other sulfonamides listed in this Table</td>
-<td>Milk</td>
-</tr>
-<tr>
-<td>0.1 — singly or in combination with other sulfonamides listed in this Table</td>
-<td>Edible tissue of cattle, chickens, ducks, geese, goats, horses, sheep, swine and turkeys</td>
-</tr>
-<tr>
-<td>S.6.1</td>
-<td>sulfanilamide</td>
-<td>sulfanilamide</td>
-<td>0.01 — singly or in combination with other sulfonamides listed in this Table</td>
-<td>Milk</td>
-</tr>
-<tr>
-<td>0.1 — singly or in combination with other sulfonamides listed in this Table</td>
-<td>Edible tissue of cattle, sheep and swine</td>
-</tr>
-<tr>
-<td>S.6.2</td>
-<td>sulfanitran</td>
-<td>sulfanitran</td>
-<td>0.1 — singly or in combination with other sulfonamides listed in this Table</td>
-<td>Edible tissue of chickens and turkeys</td>
-</tr>
-<tr>
-<td>S.6.3</td>
-<td>sulfapyridine</td>
-<td>sulfapyridine</td>
-<td>0.01 — singly or in combination with other sulfonamides listed in this Table</td>
-<td>Milk</td>
-</tr>
-<tr>
-<td>0.1 — singly or in combination with other sulfonamides listed in this Table</td>
-<td>Edible tissue of cattle and swine</td>
-</tr>
-<tr>
-<td>S.6.4</td>
-<td>sulfaquinoxaline</td>
-<td>sulfaquinoxaline</td>
-<td>0.01 — singly or in combination with other sulfonamides listed in this Table</td>
-<td>Milk</td>
-</tr>
-<tr>
-<td>0.1 — singly or in combination with other sulfonamides listed in this Table</td>
-<td>Edible tissue of cattle, chickens, rabbits, sheep and turkeys</td>
-</tr>
-<tr>
-<td>S.7</td>
-<td>sulfathiazole</td>
-<td>sulfathiazole</td>
-<td>0.01 — singly or in combination with other sulfonamides listed in this Table</td>
-<td>Milk</td>
-</tr>
-<tr>
-<td>0.1 — singly or in combination with other sulfonamides listed in this Table</td>
-<td>Edible tissue of cattle, chickens, ducks, geese, goats, horses, sheep, swine and turkeys</td>
-</tr>
-<tr>
-<td>T.01</td>
-<td>teflubenzuron</td>
-<td>teflubenzuron</td>
-<td>0.3</td>
-<td>Muscle of salmonids</td>
-</tr>
-<tr>
-<td>3.2</td>
-<td>Skin of salmonids</td>
-</tr>
-<tr>
-<td>T.1</td>
-<td>tetracycline</td>
-<td>tetracycline</td>
-<td>0.25</td>
-<td>Edible tissue of calves, swine, sheep, chickens and turkeys</td>
-</tr>
-<tr>
-<td>T.2</td>
-<td>thiabendazole</td>
-<td>thiabendazole and total 5-hydroxythiabendazole metabolites (free form, glucuronide and sulfate conjugates)</td>
-<td>0.05</td>
-<td>Milk</td>
-</tr>
-<tr>
-<td>0.1</td>
-<td>Edible tissue of cattle, goats and sheep</td>
-</tr>
-<tr>
-<td>T.3</td>
-<td>tiamulin</td>
-<td>8-alpha-hydroxy-mutilin</td>
-<td>0.4</td>
-<td>Liver of swine</td>
-</tr>
-<tr>
-<td>T.3.1</td>
-<td>tilmicosin</td>
-<td>tilmicosin</td>
-<td>1.6</td>
-<td>Liver of cattle</td>
-</tr>
-<tr>
-<td>T.3.1.1</td>
-<td>trenbolone acetate</td>
-<td>β-trenbolone</td>
-<td>0.002</td>
-<td>Muscle of cattle</td>
-</tr>
-<tr>
-<td>α-trenbolone</td>
-<td>0.01</td>
-<td>Liver of cattle</td>
-</tr>
-<tr>
-<td>T.3.2</td>
-<td>trimethoprim</td>
-<td>trimethoprim</td>
-<td>0.1</td>
-<td>Muscle of salmonids</td>
-</tr>
-<tr>
-<td>T.4</td>
-<td>tylosin</td>
-<td>tylosin</td>
-<td>0.2</td>
-<td>Muscle, liver, kidney and fat of cattle, swine, chickens and turkeys</td>
-</tr>
-<tr>
-<td>Z.1</td>
-<td>zeranol</td>
-<td>zeranol</td>
-<td>0.002</td>
-<td>Muscle of cattle</td>
-</tr>
-<tr>
-<td>0.01</td>
-<td>Liver of cattle</td>
-</tr>
-</table>
-
-> SOR/84-300, s. 49(E); SOR/91-255, s. 2; SOR/92-591, s. 2; SOR/2002-52, ss. 1 to 12; SOR/2005-396, ss. 1 to 4; SOR/2008-274, ss. 1 to 8; SOR/2010-39, ss. 1(F), 2(F); SOR/2012-14, ss. 1 to 10; SOR/2012-15, ss. 1 to 6.
-
-
-
+**B.15.003** [Repealed, SOR/2016-74, s. 8]
 
 
 
@@ -27758,11 +26758,11 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 **C.01.611** 
 
 - **(1)** The Director may, in writing, from time to time require the manufacturer of a drug recommended for administration to animals that may be consumed as food
-	- **(a)** to file with him in respect of that drug a submission, in form and content satisfactory to the Director, describing in detail tests carried out to determine that no residues of the drug, except residues within the limits prescribed by these Regulations, remain in meat, meat by-products, eggs or milk; and
-	- **(b)** to print on the principal display panel of the outer label, the inner label and the packaging insert, if any, that describes the drug, a warning that meat, meat by-products, eggs or milk from animals to which the drug has been administered cannot be sold for consumption as food unless there has elapsed since the administration of the drug a period of time specified by the Director, based on a review of the available data with respect to drug residue.
+	- **(a)** to file with the Director in respect of that drug a submission describing in detail tests carried out to verify that the administration of the drug to an animal does not result in a substance named in column II of the List referred to in the [Marketing Authorization for Maximum Residue Limits for Veterinary Drugs in Foods](/en/Regulations/Statutory%20Orders%20and%20Regulations/2013/87.md) being present in a food set out in column III of the List, except in an amount within the maximum residue limit set out in column IV of the List in respect of the food and the substance; and
+	- **(b)** to print on the principal display panel of the outer label, the inner label and the packaging insert, if any, that describes the drug, a warning that food derived from animals to which the drug has been administered must not be sold for human consumption unless there has elapsed since the administration of the drug a period of time specified by the Director, based on a review of the available data with respect to drug residues.
 
 - **(2)** No manufacturer shall sell a drug in respect of which the Director has required a warning to be printed pursuant to paragraph (1)(b) unless the manufacturer has complied with that request.
-> SOR/93-467, s. 2.
+> SOR/93-467, s. 2; SOR/2016-74, s. 10.
 
 
 
@@ -33825,27 +32825,19 @@ as set out in the Food Chemicals Codex, Third Edition, 1981, published by the Na
 
 
 **PART E** 
-## Cyclamate and Saccharin Sweeteners
+## Cyclamate Sweeteners
+> [SOR/2016-74, s. 11]
+
 
 
 **E.01.001** 
 
-- **(1)** In this Part,
+- **(1)** In this Part, ***cyclamate sweetener*** means any of the following substances sold as a sweetener:
+	- **(a)** cyclohexyl sulfamic acid or any of its salts; and
+	- **(b)** any substance containing cyclohexyl sulfamic acid or any of its salts.
 
-***cyclamate sweetener*** means
-- **(a)** cyclohexyl sulfamic acid or a salt thereof, or
-- **(b)** any substance containing cyclohexyl sulfamic acid or a salt thereof
-
-that is sold as a sweetener; (*édulcorant au cyclamate*)
-
-***saccharin sweetener*** means
-- **(a)** saccharin or a salt thereof, or
-- **(b)** any substance containing saccharin or a salt thereof
-
-that is sold as a sweetener. (*édulcorant à la saccharine*)
-
-- **(2)** Part B of these Regulations does not apply to any cyclamate sweetener or saccharin sweetener. 
-> SOR/78-422, s. 4.
+- **(2)** Part B does not apply to any cyclamate sweetener.
+> SOR/78-422, s. 4; SOR/2016-74, s. 12.
 
 
 
@@ -33854,10 +32846,8 @@ that is sold as a sweetener. (*édulcorant à la saccharine*)
 ### Sale
 
 
-**E.01.002** No person shall
-- **(a)** sell a cyclamate sweetener or saccharin sweetener that is not labelled as required by this Part; or
-- **(b)** commencing June 15, 1978, sell any saccharin sweetener to the general public except on the premises of a pharmacy. 
-> SOR/78-422, s. 4.
+**E.01.002** No person shall sell a cyclamate sweetener that is not labelled as required by this Part.
+> SOR/78-422, s. 4; SOR/2016-74, s. 13.
 
 
 
@@ -33866,8 +32856,8 @@ that is sold as a sweetener. (*édulcorant à la saccharine*)
 ### Advertising
 
 
-**E.01.003** No person shall, in advertising to the general public a cyclamate sweetener or saccharin sweetener, make any representation other than with respect to the name, price and quantity of the sweetener. 
-> SOR/78-422, s. 4.
+**E.01.003** No person shall, in advertising a cyclamate sweetener to the general public, make any representation other than with respect to the name, price and quantity of the sweetener.
+> SOR/78-422, s. 4; SOR/2016-74, s. 14.
 
 
 
@@ -33876,31 +32866,16 @@ that is sold as a sweetener. (*édulcorant à la saccharine*)
 ### Labelling
 
 
-**E.01.004** 
-
-- **(1)** Every cyclamate sweetener that is not also a saccharin sweetener shall be labelled to state that such sweetener should be used only on the advice of a physician.
-
-- **(2)** Commencing June 1, 1979, every saccharin sweetener shall be labelled to state that
-	- **(a)** continued use of saccharin may be injurious to health; and
-	- **(b)** it should not be used by pregnant women except on the advice of a physician. 
-> SOR/78-422, s. 4.
+**E.01.004** Every cyclamate sweetener shall be labelled to state that it should be used only on the advice of a physician.
+> SOR/78-422, s. 4; SOR/2016-74, s. 15.
 
 
 
 
-**E.01.005** Commencing June 1, 1979, every cyclamate sweetener or saccharin sweetener shall be labelled to show
-- **(a)** a list of all the ingredients and, in the case of
-	- **(i)** cyclohexyl sulfamic acid,
-	- **(ii)** a salt of cyclohexyl sulfamic acid,
-	- **(iii)** saccharin,
-	- **(iv)** a saccharin salt, or
-	- **(v)** carbohydrates,
-the quantity thereof contained in the sweetener; and
-- **(b)** the energy value of the sweetener expressed in calories
-	- **(i)** per teaspoonful, drop, tablet or other measure used in the directions for use, and
-	- **(ii)** per 100 grams or 100 millilitres
-of the sweetener. 
-> SOR/78-422, s. 4.
+**E.01.005** Every cyclamate sweetener shall be labelled to show
+- **(a)** its energy value expressed, in calories, per teaspoon, drop, tablet or other measure used in the directions for use and per 100 grams or 100 millilitres; and
+- **(b)** a list of all its ingredients and, in the case of cyclohexyl sulfamic acid or any of its salts or a carbohydrate, its quantity.
+> SOR/78-422, s. 4; SOR/2016-74, s. 16.
 
 
 
