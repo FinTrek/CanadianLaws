@@ -1187,6 +1187,17 @@ where
 </td>
 </tr>
 <tr>
+<td>Tsawwassen First Nation
+
+</td>
+<td>Tsawwassen Government
+
+</td>
+<td>Tsawwassen Lands within the meaning assigned by the Agreement, as defined in the [Tsawwassen First Nation Final Agreement Act](/en/Acts/Statutes%20of%20Canada/2008/c.%2032.md), S.C. 2008, c. 32
+
+</td>
+</tr>
+<tr>
 <td>Tzeachten
 
 </td>
@@ -1254,7 +1265,7 @@ where
 </tr>
 </table>
 
-> 2003, c. 15, s. 67 “Sch.”; SOR/2004-281; 2005, c. 19, s. 11; SOR/2005-363; SOR/2006-201, 294; SOR/2007-111; SOR/2007-185, ss. 1, 2; SOR/2008-103, 234, 235; SOR/2009-281; SOR/2010-178, 179; SOR/2011-36, 213, 214, 266; SOR/2012-31; SOR/2013-14; SOR/2014-119, 157, 209; SOR/2015-28.
+> 2003, c. 15, s. 67 “Sch.”; SOR/2004-281; 2005, c. 19, s. 11; SOR/2005-363; SOR/2006-201, 294; SOR/2007-111; SOR/2007-185, ss. 1, 2; SOR/2008-103, 234, 235; SOR/2009-281; SOR/2010-178, 179; SOR/2011-36, 213, 214, 266; SOR/2012-31; SOR/2013-14; SOR/2014-119, 157, 209; SOR/2015-28; SOR/2016-97.
 
 
 
