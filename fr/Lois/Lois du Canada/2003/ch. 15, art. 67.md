@@ -1197,6 +1197,17 @@ où :
 </td>
 </tr>
 <tr>
+<td>Première Nation de Tsawwassen
+
+</td>
+<td>Gouvernement tsawwassen
+
+</td>
+<td>Terres tsawwassen au sens de l’accord, tel que défini dans la [Loi sur l’accord définitif concernant la Première Nation de Tsawwassen](/fr/Lois/Lois%20du%20Canada/2008/ch.%2032.md), L.C. 2008, ch. 32
+
+</td>
+</tr>
+<tr>
 <td>Tzeachten
 
 </td>
@@ -1253,7 +1264,7 @@ où :
 </tr>
 </table>
 
-> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363; DORS/2006-201, 294; DORS/2007-111; DORS/2007-185, art. 1 et 2; DORS/2008-103, 234, 235; DORS/2009-281; DORS/2010-178, 179; DORS/2011-36, 213, 214, 266; DORS/2012-31; DORS/2013-14; DORS/2014-119, 157, 209; DORS/2015-28.
+> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363; DORS/2006-201, 294; DORS/2007-111; DORS/2007-185, art. 1 et 2; DORS/2008-103, 234, 235; DORS/2009-281; DORS/2010-178, 179; DORS/2011-36, 213, 214, 266; DORS/2012-31; DORS/2013-14; DORS/2014-119, 157, 209; DORS/2015-28; DORS/2016-97.
 
 
 
