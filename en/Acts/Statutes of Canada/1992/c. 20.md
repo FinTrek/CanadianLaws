@@ -640,7 +640,7 @@ that is attributable to the participation of that inmate or person in an approve
 		- **(ii.2)** if the offender is to be transferred to a minimum security institution as designated by Commissioner’s Directive and it is possible to notify the victim before the transfer, a summary of the reasons for the transfer and the name and location of the institution in which the sentence is to be served,
 		- **(ii.3)** the programs that were designed to address the needs of the offender and contribute to their successful reintegration into the community in which the offender is participating or has participated,
 		- **(ii.4)** the serious disciplinary offences that the offender has committed,
-		- **(iii)** the date, if any, on which the offender is to be released on temporary absence, work release, parole or statutory release,
+		- **(iii)** information pertaining to the offender’s correctional plan, including information regarding the offender’s progress towards meeting the objectives of the plan,
 		- **(iv)** the date of any hearing for the purposes of a review under section 130,
 		- **(v)** that the offender has been removed from Canada under the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) before the expiration of the sentence, and
 		- **(vi)** [Repealed, 2015, c. 13, s. 46]
@@ -649,7 +649,11 @@ that is attributable to the participation of that inmate or person in an approve
 		- **(i)** the date, if any, on which the offender is to be released on temporary absence, work release, parole or statutory release,
 		- **(ii)** the conditions attached to the offender’s temporary absence, work release, parole or statutory release,
 		- **(iii)** the destination of the offender on any temporary absence, work release, parole or statutory release, whether the offender will be in the vicinity of the victim while travelling to that destination and the reasons for any temporary absence; and
-	- **(d)** [Not in force]
+	- **(d)** shall provide the victim with access to a photograph of the offender taken on the occurrence of the earliest of any of the following — and any subsequent photograph of the offender taken by the Service — if, in the Commissioner’s opinion, to do so would not have a negative impact on the safety of the public:
+		- **(i)** the release of the offender on unescorted temporary absence,
+		- **(ii)** the offender’s work release,
+		- **(iii)** the offender’s release on parole, and
+		- **(iv)** the offender’s release by virtue of statutory release or the expiration of the sentence.
 
 **Timing of disclosure**
 
@@ -3102,7 +3106,7 @@ it may order that if the statutory release is later revoked, the offender is not
 
 **Conditions to protect victim**
 
-- **(3.1)** If a victim or a person referred to in subsection 26(3) or 142(3) has provided the releasing authority with a statement describing the harm done to them or loss suffered by them as a result of the commission of an offence or the continuing impact of the commission of the offence on them  —  including any safety concerns  —  or commenting on the possible release of the offender, the releasing authority shall impose any conditions on the parole, statutory release or unescorted temporary absence of the offender that it considers reasonable and necessary in order to protect the victim or the person, including a condition that the offender abstain from having any contact, including communication by any means, with the victim or the person or from going to any specified place.
+- **(3.1)** If a victim or a person referred to in subsection 26(3) or 142(3) has provided the releasing authority with a statement describing the harm, property damage or loss suffered by them as a result of the commission of an offence or its continuing impact on them — including any safety concerns — or commenting on the possible release of the offender, the releasing authority shall impose any conditions on the parole, statutory release or unescorted temporary absence of the offender that it considers reasonable and necessary in order to protect the victim or the person, including a condition that the offender abstain from having any contact, including communication by any means, with the victim or the person or from going to any specified place.
 
 **Written reasons**
 
@@ -3141,7 +3145,11 @@ it may order that if the statutory release is later revoked, the offender is not
 - **(6)** The releasing authority may, in accordance with the regulations, before or after the release of an offender,
 	- **(a)** in respect of conditions referred to in subsection (2), relieve the offender from compliance with any such condition or vary the application to the offender of any such condition; or
 	- **(b)** in respect of conditions imposed under subsection (3), (4) or (4.1), remove or vary any such condition.
-> 1992, c. 20, s. 133; 1995, c. 42, ss. 48, 71(F); 1997, c. 17, s. 28; 2012, c. 1, s. 86; 2014, c. 21, s. 5; 2015, c. 30, s. 4
+
+**Obligation — removal or variance of condition**
+
+- **(7)** Before removing or varying any condition imposed under subsection (3.1) on an offender, the releasing authority shall take reasonable steps to inform every victim or person that provided it with a statement referred to in that subsection in relation to that offender of its intention to remove or vary the condition and it shall consider their concerns, if any.
+> 1992, c. 20, s. 133; 1995, c. 42, ss. 48, 71(F); 1997, c. 17, s. 28; 2012, c. 1, s. 86; 2014, c. 21, s. 5; 2015, c. 13, s. 59, c. 30, s. 4
 
 
 
@@ -3176,7 +3184,7 @@ it may order that if the statutory release is later revoked, the offender is not
 
 **Conditions to protect victim**
 
-- **(2.1)** If a victim, or a person referred to in subsection 142(3), has provided the Board with a statement describing the harm, property damage or loss suffered by them, as the result of the commission of an offence and its continuing impact on them — including any safety concerns — the Board shall impose any conditions on the long-term supervision of the offender that it considers reasonable and necessary to protect the victim or the person, including a condition that the offender abstain from having any contact, including communication by any means, with the victim or the person or from going to any specified place.
+- **(2.1)** If a victim, or a person referred to in subsection 142(3), has provided the Board with a statement describing the harm, property damage or loss suffered by them, as the result of the commission of an offence and its continuing impact on them — including any safety concerns — the Board shall impose any conditions on the long-term supervision of the offender that it considers reasonable and necessary to protect the victim or the person, including a condition that the offender abstain from having any contact, including communication by any means, with the victim or the person or from going to any specified place.
 
 **Written reasons**
 
@@ -3195,6 +3203,10 @@ it may order that if the statutory release is later revoked, the offender is not
 - **(4)** The Board may, in accordance with the regulations, at any time during the long-term supervision of an offender,
 	- **(a)** in respect of conditions referred to in subsection (1), relieve the offender from compliance with any such condition or vary the application to the offender of any such condition; or
 	- **(b)** in respect of conditions imposed under subsection (2) or (2.1), remove or vary any such condition.
+
+**Obligation — removal or variance of condition**
+
+- **(5)** Before removing or varying any condition imposed under subsection (2.1) on an offender, the Board shall take reasonable steps to inform every victim or person who provided it with a statement referred to in that subsection in relation to that offender of its intention to remove or vary the condition and it shall consider their concerns, if any.
 > 1997, c. 17, s. 30; 2015, c. 13, s. 48
 
 
@@ -3523,9 +3535,7 @@ it may order that if the statutory release is later revoked, the offender is not
 
 - **(5.2)** If the Board or its designate decides under subsection (5.1) to not permit a victim or a member of his or her family to attend a hearing, the Board shall provide for the victim or family member to observe the hearing by any means that the Board considers appropriate.
 
-**Access to information**
-
-- **(6)** Where an observer has been present during a hearing, any information or documents discussed or referred to during the hearing shall not for that reason alone be considered to be publicly available for purposes of the Access to Information Act or the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md).
+- **(6)** [Repealed, 2015, c. 13, s. 49]
 
 **Assistance to offender**
 
@@ -3545,8 +3555,8 @@ it may order that if the statutory release is later revoked, the offender is not
 **Presentation of statements**
 
 - **(10)** If they are attending a hearing as an observer,
-	- **(a)** a victim may present a statement describing the harm, property damage or loss suffered by them as the result of the commission of the offence and its continuing impact on them — including any safety concerns — and commenting on the possible release of the offender; and
-	- **(b)** a person referred to in subsection 142(3) may present a statement describing the harm, property damage or loss suffered by them as the result of any act of the offender in respect of which a complaint was made to the police or Crown attorney or an information laid under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), and its continuing impact on them — including any safety concerns — and commenting on the possible release of the offender.
+	- **(a)** a victim may present a statement describing the harm, property damage or loss suffered by them as the result of the commission of the offence and its continuing impact on them — including any safety concerns — and commenting on the possible release of the offender; and
+	- **(b)** a person referred to in subsection 142(3) may present a statement describing the harm, property damage or loss suffered by them as the result of any act of the offender in respect of which a complaint was made to the police or Crown attorney or an information laid under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), and its continuing impact on them — including any safety concerns — and commenting on the possible release of the offender.
 
 **Consideration of statement**
 
@@ -3559,6 +3569,14 @@ it may order that if the statutory release is later revoked, the offender is not
 **Communication of statement in writing**
 
 - **(12)** A victim or a person referred to in subsection 142(3) shall, before the hearing, deliver to the Board a transcript of the statement that they plan to present under subsection (10) or (11).
+
+**Audio recording**
+
+- **(13)** Subject to any conditions specified by the Board, a victim, or a person referred to in subsection 142(3), who does not attend a hearing in respect of a review referred to in paragraph (1)(a) or (b) as an observer is entitled, after the hearing, on request, to listen to an audio recording of the hearing, other than portions of the hearing that the Board considers could reasonably be expected to jeopardize the safety of any person or to reveal a source of information obtained in confidence.
+
+**Access to information**
+
+- **(14)** If an observer has been present during a hearing or a victim or a person has exercised their right under subsection (13), any information or documents discussed or referred to during the hearing shall not for that reason alone be considered to be publicly available for purposes of the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) or the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md).
 > 1992, c. 20, s. 140; 1995, c. 42, ss. 55, 69(E); 2011, c. 11, s. 6; 2012, c. 1, s. 96, c. 19, s. 527; 2015, c. 11, s. 4, c. 13, s. 49
 
 
