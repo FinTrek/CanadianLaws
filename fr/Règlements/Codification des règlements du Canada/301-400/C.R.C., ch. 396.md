@@ -195,22 +195,28 @@ où :
 
 
 
-**8.4** À l’égard du contributeur visé au paragraphe 8.1(3) du présent règlement, les paragraphes 41(4) et (5) de la Loi sont adaptés de la façon suivante :
+**8.4** À l’égard du membre de la force de réserve considéré comme un membre de la force régulière en application du paragraphe 8.1(3) ou de l’ancien membre de la force de réserve qui est un ancien membre de la force régulière et qui est enrôlé de nouveau dans la force régulière ou y est muté, les paragraphes 41(4) et (5) de la Loi sont adaptés de la façon suivante :
 
-- **(4)** Le membre visé au paragraphe 8.1(3) du Règlement sur la pension de retraite des Forces canadiennes peut, dans les délais mentionnés aux divisions 6b)(ii)(G) et (H), dans leur version adaptée par le paragraphe 12.2(2) du même règlement, et selon les modalités réglementaires, choisir de rembourser le montant de l’annuité ou de l’allocation annuelle visé à ce même paragraphe 8.1(3) qu’il a reçu .
+- **(4)** À l’égard du membre de la force de réserve considéré comme un membre de la force régulière en application du paragraphe 8.1(3) du Règlement sur la pension de retraite des Forces canadiennes ou de l’ancien membre de la force de réserve qui est un ancien membre de la force régulière et qui est enrôlé de nouveau dans la force régulière ou y est muté, le choix fait en vertu des divisions 6b)(ii)(G) et (H), dans leur version adaptée par le paragraphe 12.2(2) du même règlement, est nul à moins que, dans le délai indiqué à ces divisions, le membre ou l’ancien membre choisisse de rembourser le montant de l’annuité ou de l’allocation annuelle qu’il a reçu durant la période de service visée par le choix.
 
-- **(5)** Il rembourse à la Caisse de retraite des Forces canadiennes, selon les modalités de temps et autres prévues par règlement, une somme égale au montant de l’annuité ou de l’allocation annuelle multiplié par le nombre de jours de service accomplis dans les Forces canadiennes pendant lesquels il a reçu l’annuité ou l’allocation annuelle divisé par trois cent soixante-cinq.
-> DORS/2007-33, art. 3.
+- **(5)** Le membre ou l’ancien membre qui fait le choix verse à la Caisse de retraite des Forces canadiennes, selon les modalités de temps et autres indiquées à l’article 22.1 du même règlement, la somme déterminée selon la formule suivante :
+```
+A × B/365
+```
+où :
+- **A** représente le montant de l’annuité ou de l’allocation annuelle;
+- **B** le nombre de jours de service dans les Forces canadiennes durant lesquels le membre a reçu l’annuité ou l’allocation annuelle.
+> DORS/2007-33, art. 3; DORS/2016-64, art. 9.
 
 
 
 
-**8.5** À l’égard du membre de la force de réserve visé au paragraphe 8.1(3), l’alinéa 8(2)c) de la Loi est adapté de la façon suivante :
+**8.5** À l’égard du membre ou de l’ancien membre visé à l’article 8.4, l’alinéa 8(2)c) de la Loi est adapté de la façon suivante :
 
-- **c)** soit le choix du membre de la force de réserve visé au paragraphe 8.1(3) du Règlement sur la pension de retraite des Forces canadiennes de payer pour une période de service dans la force de réserve, sauf s’il fait le choix prévu au paragraphe 41(4), dans sa version adaptée par l’article 8.4 de ce règlement.
+- **c)** soit une décision de payer à l’égard d’une période de service dans la force de réserve prise par la personne visée au paragraphe 41(4), dans sa version adaptée par l’article 8.4 du Règlement sur la pension de retraite des Forces canadiennes, sauf si elle fait le choix de rembourser visé à ce paragraphe.
 
 
-> DORS/2008-307, art. 4.
+> DORS/2008-307, art. 4; DORS/2016-64, art. 9.
 
 
 
