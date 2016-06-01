@@ -193,22 +193,28 @@ where
 
 
 
-**8.4** In respect of a member who is described in subsection 8.1(3) of these Regulations, subsections 41(4) and (5) of the Act are adapted as follows:
+**8.4** In respect of a member of the reserve force who is considered to be a member of the regular force by virtue of subsection 8.1(3) or a former member of the reserve force who is a former member of the regular force and who has re-enrolled in or transferred to the regular force, subsections 41(4) and (5) of the Act are adapted as follows:
 
-- **(4)** A member who is described in subsection 8.1(3) of the Canadian Forces Superannuation Regulations may, within the period set out in clauses 6(b)(ii)(G) and (H) as adapted by subsection 12.2(2) of those Regulations, and in the manner prescribed by those Regulations, elect to repay the amount of annuity or annual allowance, referred to in subsection 8.1(3), that the member has received.
+- **(4)** In respect of a member of the reserve force who is considered to be a member of the regular force by virtue of subsection 8.1(3) of the Canadian Forces Superannuation Regulations or a former member of the reserve force who is a former member of the regular force and who has re-enrolled in or transferred to the regular force, an election under clauses 6(b)(ii)(G) and (H), as adapted by subsection 12.2(2) of those Regulations, is void unless, within the time set out in those clauses, the member or former member elects to repay the amount of annuity or annual allowance that they received during the period of service referred to in the election.
 
-- **(5)** The member making the election under subsection (4) shall pay into the Canadian Forces Pension Fund, at the time and in the manner prescribed by the Regulations, an amount equal to the amount of the annuity or annual allowance multiplied by the member’s number of days of Canadian Forces service while in receipt of the annuity or annual allowance, divided by 365.
-> SOR/2007-33, s. 3.
+- **(5)** The member or former member making the election shall pay into the Canadian Forces Pension Fund, at the time and in the manner set out in section 22.1 of those Regulations, an amount determined by the following formula:
+```
+A × B/365
+```
+where
+- **A** is the amount of the annuity or annual allowance; and
+- **B** is the member’s number of days of Canadian Forces service while in receipt of the annuity or annual allowance.
+> SOR/2007-33, s. 3; SOR/2016-64, s. 9.
 
 
 
 
-**8.5** In respect of a member of the reserve force referred to in subsection 8.1(3), paragraph 8(2)(c) of the Act is adapted as follows:
+**8.5** In respect of the member or former member referred to in section 8.4, paragraph 8(2)(c) of the Act is adapted as follows:
 
-- **(c)** an election to pay for a period of service in the reserve force by a member of the reserve force referred to in subsection 8.1(3) of the Canadian Forces Superannuation Regulations, unless the member has made the election referred to in subsection 41(4), as adapted by section 8.4 of those Regulations.
+- **(c)** an election to pay for a period of service in the reserve force by the person referred to in subsection 41(4), as adapted by section 8.4 of the Canadian Forces Superannuation Regulations, unless the person has made the election to repay set out in that subsection.
 
 
-> SOR/2008-307, s. 4.
+> SOR/2008-307, s. 4; SOR/2016-64, s. 9.
 
 
 
