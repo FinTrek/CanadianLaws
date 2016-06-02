@@ -626,6 +626,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **8** Première Nation de Membertou
 - **9** Première Nation Key
 - **10** Première Nation Stswecemc Xgattem
-> 2014, ch. 5, ann.; DORS/2015-136, art. 1; DORS/2015-149, art. 1; DORS/2015-208, art. 1; DORS/2015-218, art. 1; DORS/2016-2, art. 1; DORS/2016-53, art. 1; DORS/2016-55, art.1; DORS/2016-57, art. 1.
+- **11** Bande d’Ashcroft
+- **12** Bande de Burns Lake
+- **13** Première Nation des Chippewas de Rama
+- **14** Bande d’Indian Island
+- **15** Première Nation de Waycobah
+> 2014, ch. 5, ann.; DORS/2015-136, art. 1; DORS/2015-149, art. 1; DORS/2015-208, art. 1; DORS/2015-218, art. 1; DORS/2016-2, art. 1; DORS/2016-53, art. 1; DORS/2016-55, art.1; DORS/2016-57, art. 1; DORS/2016-110, art. 1; DORS/2016-112, art. 1; DORS/2016-114, art. 1; DORS/2016-116, art. 1; DORS/2016-118, art. 1.
 
 
