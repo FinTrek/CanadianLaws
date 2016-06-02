@@ -628,6 +628,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **8** Membertou First Nation
 - **9** The Key First Nation
 - **10** Stswecemc Xgattem First Nation
-> 2014, c. 5, Sch.; SOR/2015-136, s. 1; SOR/2015-149, s. 1; SOR/2015-208, s. 1; SOR/2015-218, s. 1; SOR/2016-2, s. 1; SOR/2016-53, s. 1; SOR/2016-55, s. 1; SOR/2016-57, s. 1.
+- **11** Ashcroft Band
+- **12** Burns Lake Band
+- **13** Chippewas of Rama First Nation
+- **14** Indian Island Band
+- **15** Waycobah First Nation
+> 2014, c. 5, Sch.; SOR/2015-136, s. 1; SOR/2015-149, s. 1; SOR/2015-208, s. 1; SOR/2015-218, s. 1; SOR/2016-2, s. 1; SOR/2016-53, s. 1; SOR/2016-55, s. 1; SOR/2016-57, s. 1; SOR/2016-110, s. 1; SOR/2016-112, s. 1; SOR/2016-114, s. 1; SOR/2016-116, s. 1; SOR/2016-118, s. 1.
 
 
