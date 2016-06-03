@@ -228,7 +228,9 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 - **(3)** Il est interdit à tout distributeur autorisé de cultiver, de multiplier ou de récolter de la marihuana à des fins autres que scientifiques.
 
 - **(4)** Le paragraphe (3) ne s’applique pas à la marihuana produite par un distributeur autorisé aux termes d’un contrat avec Sa Majesté du chef du Canada.
-> DORS/2004-237, art. 3; DORS/2013-119, art. 203.
+
+- **(5)** Il est interdit à tout distributeur autorisé de cultiver, de multiplier ou de récolter du pavot à opium à des fins autres que scientifiques.
+> DORS/2004-237, art. 3; DORS/2013-119, art. 203; DORS/2016-123, art. 1.
 
 
 
@@ -1296,8 +1298,8 @@ qui précise le nom et la quantité du stupéfiant demandé.
 
 
 
-**67** Le ministre peut, suivant une demande à cet effet, délivrer une licence à toute personne qui, de l’avis du ministre, a qualité pour cultiver, cueillir ou produire le pavot somnifère ou le chanvre indien à des fins scientifiques, aux termes et conditions que le ministre juge nécessaires.
-> DORS/2013-119, art. 227(A).
+**67** Le ministre peut, suivant une demande à cet effet, délivrer une licence à toute personne qui, de l’avis du ministre, a qualité pour cultiver, cueillir ou produire le pavot à opium ou le chanvre indien à des fins scientifiques, aux conditions que le ministre juge nécessaires.
+> DORS/2013-119, art. 227(A); DORS/2016-123, art. 2(F).
 
 
 
