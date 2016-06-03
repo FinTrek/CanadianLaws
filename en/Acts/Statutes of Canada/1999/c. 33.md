@@ -7890,7 +7890,6 @@ For molecular formulae in this schedule, “n” = number of atoms.
 - **13** Fuel containing toxic substances that are dangerous goods within the meaning of section 2 of the [Transportation of Dangerous Goods Act, 1992](/en/Acts/Statutes%20of%20Canada/1992/c.%2034.md) and that
 - **(a)** are neither normal components of the fuel nor additives designed to improve the characteristics or the performance of the fuel; or
 - **(b)** are normal components of the fuel or additives designed to improve the characteristics or performance of the fuel, but are present in quantities or concentrations greater than those generally accepted by industry standards.
-- 
 - **14** Dibenzo-para-dioxin that has the molecular formula C<sub>12</sub>H<sub>8</sub>O<sub>2</sub>
 - **15** Dibenzofuran that has the molecular formula C<sub>12</sub>H<sub>8</sub>O
 - **16** Polychlorinated dibenzo-para-dioxins that have the molecular formula C<sub>12</sub>H<sub>(8-n)</sub>Cl<sub>n</sub>O<sub>2</sub> in which “n” is greater than 2
@@ -7985,12 +7984,28 @@ For molecular formulae in this schedule, “n” = number of atoms.
 - **(z.14)** 1,1,1,2,2,3,3,4,4-nonafluoro-4-methoxy-butane (C<sub>4</sub>F<sub>9</sub>OCH<sub>3</sub>);
 - **(z.15)** 2-(difluoromethoxymethyl)-1,1,1,2,3,3,3-heptafluoropropane ((CF<sub>3</sub>)<sub>2</sub>CFCF <sub>2</sub>OCH <sub>3</sub>);
 - **(z.16)** 1-ethoxy-1,1,2,2,3,3,4,4,4-nonafluorobutane (C<sub>4</sub>F<sub>9</sub>OC<sub>2</sub>H <sub>5</sub>);
-- **(z.17)** 2-(ethoxydifluoromethyl)-1,1,1,2,3,3,3-heptafluoropropane ((CF<sub>3</sub>)<sub>2</sub>CFCF<sub>2</sub>OC<sub>2</sub>H<sub>5</sub>); and
+- **(z.17)** 2-(ethoxydifluoromethyl)-1,1,1,2,3,3,3-heptafluoropropane ((CF<sub>3</sub>)<sub>2</sub>CFCF<sub>2</sub>OC<sub>2</sub>H<sub>5</sub>);
 - **(z.18)** methyl acetate and perfluorocarbon compounds that fall into the following classes, namely,
 - **(i)** cyclic, branched or linear completely fluorinated alkanes,
 - **(ii)** cyclic, branched, or linear completely fluorinated ethers with no unsaturations,
 - **(iii)** cyclic, branched or linear completely fluorinated tertiary amines with no unsaturations, or
-- **(iv)** sulfur containing perfluorocarbons with no unsaturations and with sulfur bonds only to carbon and fluorine.
+- **(iv)** sulfur containing perfluorocarbons with no unsaturations and with sulfur bonds only to carbon and fluorine;
+- **(z.19)** 1,1,1,2,2,3,3-heptafluoro-3-methoxy-propane (HFE-7000);
+- **(z.20)** 3-ethoxy-1,1,1,2,3,4,4,5,5,6,6,6-dodecafluoro-2-(trifluoromethyl) hexane (HFE-7500);
+- **(z.21)** 1,1,1,2,3,3,3-heptafluoropropane (HFC-227ea);
+- **(z.22)** methyl formate (HCOOCH<sub>3</sub>);
+- **(z.23)** t-butyl acetate;
+- **(z.24)** 1,1,1,2,2,3,4,5,5,5-decafluoro-3-methoxy-4-trifluoromethyl-pentane (HFE-7300);
+- **(z.25)** propylene carbonate;
+- **(z.26)** dimethyl carbonate;
+- **(z.27)** *trans*-1,3,3,3-tetrafluoropropene (HFO-1234ze);
+- **(z.28)** HCF<sub>2</sub>OCF<sub>2</sub>H (HFE-134);
+- **(z.29)** HCF<sub>2</sub>OCF<sub>2</sub>OCF<sub>2</sub>H (HFE-236cal2);
+- **(z.30)** HCF<sub>2</sub>OCF<sub>2</sub>CF<sub>2</sub>OCF<sub>2</sub>H (HFE-338pcc13);
+- **(z.31)** HCF<sub>2</sub>OCF<sub>2</sub>OCF<sub>2</sub>CF<sub>2</sub>OCF<sub>2</sub>H;
+- **(z.32)** 2,3,3,3-tetrafluoropropene (HFO-1234yf);
+- **(z.33)** *trans* 1-chloro-3,3,3-trifluoroprop-1-ene [HCFO-1233zd(E)]; and
+- **(z.34)** 2-amino-2-methyl-1-propanol.
 - **66** Hexachlorobutadiene, which has the molecular formula C<sub>4</sub>Cl<sub>6</sub>
 - **67** Particulate matter containing metals that is released in emissions from copper smelters or refineries, or from both
 - **68** Particulate matter containing metals that is released in emissions from zinc plants
@@ -8060,7 +8075,7 @@ For molecular formulae in this schedule, “n” = number of atoms.
 - **130** Compounds that consist of a perfluorinated alkyl group that has the molecular formula C<sub>n</sub>F<sub>2n+1</sub> in which n = 7 or 8 and that is directly bonded to any chemical moiety other than a fluorine, chlorine or bromine atom
 - **131** Perfluorocarboxylic acids that have the molecular formula C<sub>n</sub>F<sub>2n+1</sub>CO<sub>2</sub>H in which 8 ≤ n ≤ 20 and their salts
 - **132** Compounds that consist of a perfluorinated alkyl group that has the molecular formula C<sub>n</sub>F<sub>2n+1</sub> in which 8 ≤ n ≤ 20 and that is directly bonded to any chemical moiety other than a fluorine, chlorine or bromine atom
-> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194, 210; SOR/2011-25, 26, 34, 35, 140, 212, 286, 287; SOR/2012-40, 186, 187, 189, 219, 235; SOR/2013-188.
+> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194, 210; SOR/2011-25, 26, 34, 35, 140, 212, 286, 287; SOR/2012-40, 186, 187, 189, 219, 235; SOR/2013-188; SOR/2016-120.
 
 
 
