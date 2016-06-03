@@ -230,7 +230,9 @@ the Minister may issue a registration number for the test kit, which shall be a 
 - **(3)** No licensed dealer shall cultivate, propagate or harvest marihuana other than for scientific purposes.
 
 - **(4)** Subsection (3) does not apply to marihuana produced by a licensed dealer under contract with Her Majesty in right of Canada.
-> SOR/2004-237, s. 3; SOR/2013-119, s. 203.
+
+- **(5)** No licensed dealer shall cultivate, propagate or harvest opium poppy other than for scientific purposes.
+> SOR/2004-237, s. 3; SOR/2013-119, s. 203; SOR/2016-123, s. 1.
 
 
 
@@ -1288,7 +1290,7 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 
 **67** The Minister may, on application for it, issue a licence to any person who, in the opinion of the Minister, is qualified to cultivate, gather or produce opium poppy or cannabis for scientific purposes, on any terms and conditions that the Minister considers necessary.
-> SOR/2013-119, s. 227(E).
+> SOR/2013-119, s. 227(E); SOR/2016-123, s. 2(F).
 
 
 
