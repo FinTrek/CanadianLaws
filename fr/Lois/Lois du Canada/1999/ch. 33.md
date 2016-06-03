@@ -7707,7 +7707,23 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 - **(i)** perfluoroalkanes cycliques, ramifiés ou linéaires,
 - **(ii)** perfluoroéthers cycliques, ramifiés ou linéaires ne comportant aucune insaturation,
 - **(iii)** amines tertiaires perfluorées cycliques, ramifiées ou linéaires ne comportant aucune insaturation,
-- **(iv)** perfluorocarbures sulfurés ne comportant aucune insaturation et dont les atomes de soufre sont liés uniquement à des atomes de carbone et de fluor.
+- **(iv)** perfluorocarbures sulfurés ne comportant aucune insaturation et dont les atomes de soufre sont liés uniquement à des atomes de carbone et de fluor;
+- **z.19)** 1,1,1,2,2,3,3-heptafluoro-3-méthoxy-propane (HFE-7000);
+- **z.20)** 3-éthoxy-1,1,1,2,3,4,4,5,5,6,6,6-dodécafluoro-2-(trifluorométhyl) hexane (HFE-7500);
+- **z.21)** 1,1,1,2,3,3,3-heptafluoropropane (HFC-227ea);
+- **z.22)** formate de méthyle (HCOOCH<sub>3</sub>);
+- **z.23)** acétate de t-butyle;
+- **z.24)** 1,1,1,2,2,3,4,5,5,5-décafluoro-3-méthoxy-4-trifluorométhyl-pentane (HFE-7300);
+- **z.25)** carbonate de propylène;
+- **z.26)** carbonate de diméthyle;
+- **z.27)** *trans*-1,3,3,3-tétrafluoropropène (HFO-1234ze);
+- **z.28)** HCF<sub>2</sub>OCF<sub>2</sub>H (HFE-134);
+- **z.29)** HCF<sub>2</sub>OCF<sub>2</sub>OCF<sub>2</sub>H (HFE-236cal2);
+- **z.30)** HCF<sub>2</sub>OCF<sub>2</sub>CF<sub>2</sub>OCF<sub>2</sub>H (HFE-338pcc13);
+- **z.31)** HCF<sub>2</sub>OCF<sub>2</sub>OCF<sub>2</sub>CF<sub>2</sub>OCF<sub>2</sub>H;
+- **z.32)** 2,3,3,3-tétrafluoropropène (HFO-1234yf);
+- **z.33)** *trans* 1-chloro-3,3,3-trifluoroprop-1-ène [HCFO-1233zd(E)];
+- **z.34)** 2-amino-2-méthylpropan-1-ol.
 - **66** Hexachlorobutadiène, dont la formule moléculaire est C<sub>4</sub>Cl<sub>6</sub>
 - **67** Particules qui contiennent des métaux et qui sont rejetées dans les émissions des fonderies ou des affineries de cuivre, ou des deux
 - **68** Particules qui contiennent des métaux et qui sont rejetées dans les émissions des usines de traitement du zinc
@@ -7777,7 +7793,7 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 - **130** Les composés constitués d’un groupement alkyle perfluoré dont la formule moléculaire est C<sub>n</sub>F<sub>2n+1</sub>, où n = 7 ou 8, et qui est directement lié à une entité chimique autre qu’un atome de fluor, de chlore ou de brome
 - **131** Les acides perfluorocarboxyliques dont la formule moléculaire est C<sub>n</sub>F<sub>2n+1</sub>CO<sub>2</sub>H, où 8 ≤ n ≤ 20, et leurs sels
 - **132** Les composés constitués d’un groupement alkyle perfluoré dont la formule moléculaire est C<sub>n</sub>F<sub>2n+1</sub>, où 8 ≤ n ≤ 20, et qui est directement lié à une entité chimique autre qu’un atome de fluor, de chlore ou de brome
-> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262, 345; DORS/2006-329, 333; DORS/2010-98, 194, 210; DORS/2011-25, 26, 34, 35, 140, 212, 286, 287; DORS/2012-40, 186, 187, 189, 219, 235; DORS/2013-188.
+> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262, 345; DORS/2006-329, 333; DORS/2010-98, 194, 210; DORS/2011-25, 26, 34, 35, 140, 212, 286, 287; DORS/2012-40, 186, 187, 189, 219, 235; DORS/2013-188; DORS/2016-120.
 
 
 
