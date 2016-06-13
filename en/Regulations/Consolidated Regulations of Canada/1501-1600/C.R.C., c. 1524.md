@@ -20,62 +20,66 @@ Enabling authorities:
 
 **2** In these Regulations,
 
-***Act*** means the [Territorial Lands Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-7.md); (*Loi*)
+***Act*** means the [Territorial Lands Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-7.md); (*Loi*)
 
-***Class A Permit*** means a permit issued pursuant to section 25; (*permis de catégorie A*)
+***Class A Permit*** means a permit issued pursuant to section 25; (*permis de catégorie A*)
 
-***Class B Permit*** means a permit issued pursuant to section 27; (*permis de catégorie B*)
+***Class B Permit*** means a permit issued pursuant to section 27; (*permis de catégorie B*)
 
-***crossing*** means any bridge, causeway or structure or any embankment, cutting, excavation, land clearing or other works used or intended to be used to enable persons, vehicles or machinery to cross any stream, highway or road; (*passage*)
+***crossing*** means any bridge, causeway or structure or any embankment, cutting, excavation, land clearing or other works used or intended to be used to enable persons, vehicles or machinery to cross any stream, highway or road; (*passage*)
 
-***district oil and gas conservation engineer*** means a conservation engineer appointed pursuant to the Oil and Gas Production and Conservation Act; (*ingénieur de district pour la conservation du pétrole et du gaz*)
+***district oil and gas conservation engineer*** means a conservation engineer appointed pursuant to the Oil and Gas Production and Conservation Act; (*ingénieur de district pour la conservation du pétrole et du gaz*)
 
-***Dominion Geodesist*** means the Dominion Geodesist and Director of the Geodetic Survey, in the Department of Energy, Mines and Resources; (*géodésien fédéral*)
+***Dominion Geodesist*** means the Dominion Geodesist and Director of the Geodetic Survey, in the Department of Energy, Mines and Resources; (*géodésien fédéral*)
 
-***engineer*** means, with respect to particular lands, the engineer designated by the Minister pursuant to section 4 to serve the area in which the lands are located; (*ingénieur*)
+***engineer*** means, with respect to particular lands, the engineer designated by the Minister pursuant to section 4 to serve the area in which the lands are located; (*ingénieur*)
 
-***geophysical survey*** means any investigation carried out on the surface of the ground to determine the nature and structure of the subsurface; (*levé géophysique*)
+***geophysical survey*** means any investigation carried out on the surface of the ground to determine the nature and structure of the subsurface; (*levé géophysique*)
 
-***inspector*** means an inspector designated by the Minister pursuant to section 5; (*inspecteur*)
+***inspector*** means an inspector designated by the Minister pursuant to section 5; (*inspecteur*)
 
-***land use operation*** means any work or undertaking on territorial lands that requires a permit; (*exploitation des terres*)
+***land use operation*** means any work or undertaking on territorial lands that requires a permit; (*exploitation des terres*)
 
-***letter of clearance*** means a letter issued by the engineer pursuant to section 37; (*lettre d’acquittement*)
+***letter of clearance*** means a letter issued by the engineer pursuant to section 37; (*lettre d’acquittement*)
 
-***line*** means a route used to give surface access to any land for the purpose of carrying out a geophysical, geological or engineering survey; (*ligne de levé*)
+***line*** means a route used to give surface access to any land for the purpose of carrying out a geophysical, geological or engineering survey; (*ligne de levé*)
 
 ***man-day***, with respect to the use of a campsite, means the use of that campsite by one person for 24 hours; (*jour-homme*)
 
-***Minister*** means the Minister of Indian Affairs and Northern Development; (*ministre*)
+***Minister*** means the Minister of Indian Affairs and Northern Development; (*ministre*)
 
-***monument*** means any post, stake, peg, mound, pit, trench or any other object, thing or device used to officially mark the boundary of any surveyed lands, or placed or established for any topographic, geodetic or cadastral purpose; (*borne-signal*)
+***monument*** means any post, stake, peg, mound, pit, trench or any other object, thing or device used to officially mark the boundary of any surveyed lands, or placed or established for any topographic, geodetic or cadastral purpose; (*borne-signal*)
 
-***permit*** means a Class A Permit or a Class B Permit; (*permis*)
+***permit*** means a Class A Permit or a Class B Permit; (*permis*)
 
-***permittee*** means the holder of a permit and includes a person engaged in a land use operation or anyone employed by a permittee to conduct a land use operation; (*détenteur de permis*)
+***permittee*** means the holder of a permit and includes a person engaged in a land use operation or anyone employed by a permittee to conduct a land use operation; (*détenteur de permis*)
 
-***rig release date*** means the date on which, in the opinion of a district oil and gas conservation engineer, a well drilled for the purpose of discovering or producing oil and gas has been properly terminated; (*date de renvoi de l’équipe*)
+***rig release date*** means the date on which, in the opinion of a district oil and gas conservation engineer, a well drilled for the purpose of discovering or producing oil and gas has been properly terminated; (*date de renvoi de l’équipe*)
 
-***rock trenching*** means any excavation carried out on a mineral claim for the purpose of obtaining geological information; (*forage dans le roc*)
+***rock trenching*** means any excavation carried out on a mineral claim for the purpose of obtaining geological information; (*forage dans le roc*)
 
-***spud-in*** means the initial penetration of the ground for the purpose of drilling an oil or gas well; (*percée*)
+***spud-in*** means the initial penetration of the ground for the purpose of drilling an oil or gas well; (*percée*)
 
-***stream*** means any lake, river, pond, swamp, marsh, channel, gully, coulee or draw that continuously or intermittently contains water; (*cours d’eau*)
+***stream*** means any lake, river, pond, swamp, marsh, channel, gully, coulee or draw that continuously or intermittently contains water; (*cours d’eau*)
 
-***Surveyor General*** means the Surveyor General as defined in the [Canada Lands Surveys Act](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-6.md); (*arpenteur général*)
+***Surveyor General*** means the Surveyor General as defined in the [Canada Lands Surveys Act](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-6.md); (*arpenteur général*)
 
-***territorial lands*** means lands in the Northwest Territories that are vested in the Crown or of which the Government of Canada has power to dispose and that are under the control, management and administration of the Minister. (*terres territoriales*) 
-> SOR/88-169, s. 1; 1998, c. 14, s. 101(F); SOR/2003-126, s. 5.
+***territorial lands***[Repealed, SOR/2016-132, s. 1]
+> SOR/88-169, s. 1; 1998, c. 14, s. 101(F); SOR/2003-126, s. 5; SOR/2016-132, s. 1.
 
 
 
 
 
 ## Establishment of Land Management Zones
+> [SOR/2016-132, s. 2(F)]
 
 
-**3** The Northwest Territories is hereby set apart and appropriated as a land management zone.
-> SOR/2003-126, s. 6.
+
+**3** The following lands are set apart and appropriated as land management zones, and these Regulations apply in those zones:
+- **(a)** the areas of the Northwest Territories that are under the control, management and administration of the Minister and that are not part of the Mackenzie Valley unless otherwise provided for in the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md); and
+- **(b)** the areas of Nunavut that are under the control, management and administration of the Minister.
+> SOR/2003-126, s. 6; SOR/2016-132, s. 3.
 
 
 
@@ -105,7 +109,7 @@ Enabling authorities:
 
 
 **6** These Regulations do not apply to
-- **(a)** anything done by a resident of the Northwest Territories in the normal course of hunting, fishing or trapping;
+- **(a)** anything done by a resident of the Northwest Territories or Nunavut in the normal course of hunting, fishing or trapping;
 - **(b)** anything done in the course of prospecting, staking or locating a mineral claim unless it requires a use of equipment or material that normally requires a permit;
 - **(c)** lands whose surface rights have all been disposed of by the Minister; and
 - **(d) and (e)** [Repealed, SOR/2003-126, s. 7]
@@ -113,12 +117,14 @@ Enabling authorities:
 	- **(i)** a land-use operation authorized by a permit issued under these Regulations prior to the coming into force of Part 3 of that Act,
 	- **(ii)** a land-use operation for which an application for a permit under these Regulations was pending on the coming into force of Part 3 of that Act, and
 	- **(iii)** a land-use operation in respect of which an application is made under section 156 of that Act.
-> SOR/88-169, s. 3; SOR/98-430, s. 1; SOR/2003-126, s. 7.
+> SOR/88-169, s. 3; SOR/98-430, s. 1; SOR/2003-126, s. 7; SOR/2016-132, s. 4.
 
 
 
 
-**7** No person shall engage in a land use operation except in accordance with these Regulations and the Northern Inland Waters Act and regulations made thereunder.
+**7** A person shall not engage in a land use operation except in accordance with these Regulations, the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md), the [Nunavut Waters and Nunavut Surface Rights Tribunal Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2010.md) and any regulations made under those Acts.
+> SOR/2016-132, s. 5.
+
 
 
 
@@ -149,10 +155,12 @@ Enabling authorities:
 
 
 **10** No permittee shall, unless expressly authorized in his permit or expressly authorized in writing by an inspector,
-- **(a)** conduct a land use operation within 30 m of a known monument or a known or suspected archaeological site or burial ground;
+- **(a)** conduct a land use operation within 30 m of a known monument or a known or suspected historic or archaeological site or burial site;
 - **(b)** when excavating territorial land within 100 m of any stream, excavate at a point that is below the normal high water mark of that stream;
 - **(c)** deposit on the bed of any stream any excavated material; or
 - **(d)** when placing a fuel or supply cache within 100 m of any stream, place the fuel or supply cache below the normal high water mark of that stream.
+> SOR/2016-132, s. 6.
+
 
 
 
@@ -185,7 +193,9 @@ Enabling authorities:
 	- **(b)** restore the channel and bed of the stream to their original alignment and cross-section,
 prior to the completion of the land use operation or prior to the commencement of spring break-up, whichever occurs first.
 
-- **(2)** Subsection (1) shall not be deemed to permit any person to deposit any material or debris in a stream contrary to the Northern Inland Waters Act or the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md) or any regulations made under those Acts.
+- **(2)** Subsection (1) does not permit any person to deposit any material or debris in a stream contrary to the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md), the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md), the [Nunavut Waters and Nunavut Surface Rights Tribunal Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2010.md) or any regulations made under those Acts.
+> SOR/2016-132, s. 7.
+
 
 
 
@@ -227,13 +237,13 @@ prior to the completion of the land use operation or prior to the commencement o
 
 
 
-## Archaeological Sites
+## Historic or Archaeological Sites and Burial Sites
 
 
-**16** Where, in the course of a land use operation, a suspected archaeological site or burial ground is unearthed or otherwise discovered, the permittee shall immediately
+**16** If, in the course of a land use operation, a suspected historic or archaeological site or burial site is unearthed or otherwise discovered, the permittee shall immediately
 - **(a)** suspend the land use operation on the site; and
 - **(b)** notify the engineer or an inspector of the location of the site and the nature of any unearthed materials, structures or artifacts.
-> SOR/88-169, s. 6(E).
+> SOR/88-169, s. 6(E); SOR/2016-132, s. 8.
 
 
 
@@ -367,10 +377,10 @@ prior to the completion of the land use operation or prior to the commencement o
 
 
 
-**27** The engineer shall, within 10 days after receipt of an application for a Class B Permit made in accordance with these Regulations,
+**27** The engineer shall, within 30 days after receipt of an application for a Class B Permit made in accordance with these Regulations,
 - **(a)** issue a Class B Permit subject to any terms and conditions he may include therein pursuant to subsection 31(1); or
 - **(b)** refuse to issue a permit and notify the applicant in writing of his refusal and the reasons therefor.
-> SOR/88-169, s. 6(E).
+> SOR/88-169, s. 6(E); SOR/2016-132, s. 9.
 
 
 
@@ -417,7 +427,8 @@ prior to the completion of the land use operation or prior to the commencement o
 	- **(i)** the protection of objects and places of recreational, scenic and ecological value;
 	- **(j)** the deposit of security in accordance with section 36;
 	- **(k)** the establishment of petroleum fuel storage facilities;
-	- **(l)** the methods and techniques for debris and brush disposal; and
+	- **(l)** the methods and techniques for debris and brush disposal;
+	- **(l.1)** the protection of historic or archaeological sites or burial sites; and
 	- **(m)** such other matters not inconsistent with these Regulations as the engineer thinks necessary for the protection of the biological or physical characteristics of the land management zone.
 
 - **(2)** The engineer may modify any of the terms or conditions included in a permit on receipt of a written request from the permittee that sets out
@@ -426,10 +437,12 @@ prior to the completion of the land use operation or prior to the commencement o
 
 - **(3)** Where the engineer receives a written request from a permittee pursuant to subsection (2), he shall notify the permittee of his decision and the reasons therefor within 10 days of receipt of the request.
 
-- **(4)** Every permit shall set out the period for which it is valid and such period shall be based on the estimated dates of commencement and completion as set out by the permittee in his application, but in no case shall a permit be valid for a period exceeding two years.
+- **(4)** A permit expires at the end of the period of validity set out in the permit, which shall be based on the estimated dates of commencement and completion set out in the permit application and shall not exceed five years.
 
-- **(5)** On receipt of a written request from a permittee for an extension of the duration of his permit, the engineer may extend the duration of the permit subject to such conditions not inconsistent with these Regulations as he thinks fit, for such period, not exceeding one year, as he thinks necessary to enable the permittee to complete the land use operation authorized by the permit.
-> SOR/88-169, s. 6(E).
+- **(5)** On receipt of a written request from a permittee to extend the duration of a permit, the engineer may grant the extension, subject to any terms and conditions referred to in subsection (1), for a period not exceeding two years, as is necessary to enable the permittee to complete the land use operation authorized by the permit.
+
+- **(6)** A permit’s duration may be extended under subsection (5) only once.
+> SOR/88-169, s. 6(E); SOR/2016-132, s. 10.
 
 
 
@@ -458,18 +471,18 @@ prior to the completion of the land use operation or prior to the commencement o
 		- **(iii)** bridges, dams, ditches, railroads, highways and roads, transmission lines, pipelines, survey lines and monuments, air landing strips, streams and all other features, structures or works that were affected by the land use operation; and
 	- **(c)** the calculations of the area of territorial lands used in the operation.
 
-- **(2)** The final plan submitted to the engineer pursuant to subsection (1) shall be
-	- **(a)** certified by the permittee or his agent authorized for the purpose as to the accuracy of
+- **(2)** The final plan must meet one of the following two requirements:
+	- **(a)** it is certified by or on behalf of the permittee as to the accuracy of
 		- **(i)** locations, distances and areas, and
-		- **(ii)** the representation of the land use operation; or
-	- **(b)** drawn from and accompanied by positive prints of vertical aerial photographs or aerial photomosaics showing the lands subjected to the land use operation.
+		- **(ii)** the representation of the land use operation;
+	- **(b)** it is drawn from and accompanied by a detailed site survey, an aerial photograph or an image created using satellite or other imaging technology, showing the lands subjected to the land use operation.
 
 - **(3)** On receipt of a written request from a permittee for an extension of the time for filing a final plan, the engineer may extend the time for filing the final plan by not more than 60 days.
 
 - **(4)** The engineer shall reject the final plan if it does not comply with this section and section 35 and the permittee shall, within three weeks after receipt of written notice from the engineer of rejection of the plan, submit to the engineer another final plan that complies with this section and section 35.
 
 - **(5)** Notwithstanding the expiry of a permit or the submission of a final plan, every permittee remains responsible for his obligations arising under the terms and conditions of the permit or under these Regulations until such time as the engineer issues a letter of clearance for the land use operation.
-> SOR/88-169, s. 6(E).
+> SOR/88-169, s. 6(E); SOR/2016-132, s. 11.
 
 
 
@@ -501,7 +514,9 @@ prior to the completion of the land use operation or prior to the commencement o
 - **(b)** show the scale to which the plan is drawn; and
 - **(c)** show locations
 	- **(i)** in accordance with sections 5 to 9 of the [Canada Oil and Gas Land Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1501-1600/C.R.C.,%20c.%201518.md), or
-	- **(ii)** by giving the geographic co-ordinates thereof.
+	- **(ii)** by giving their geographic coordinates and specifying the reference system used to obtain those coordinates.
+> SOR/2016-132, s. 12.
+
 
 
 
