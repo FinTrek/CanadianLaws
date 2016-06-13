@@ -20,62 +20,66 @@ Autorités habilitantes :
 
 **2** Dans le présent règlement,
 
-***arpenteur général*** désigne l’arpenteur général selon la définition de la [Loi sur l’arpentage des terres du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-6.md); (*Surveyor General*)
+***arpenteur général*** désigne l’arpenteur général selon la définition de la [Loi sur l’arpentage des terres du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-6.md); (*Surveyor General*)
 
-***borne-signal*** comprend un poteau, un jalon, une jalonnette, un monticule, une fosse, une tranchée, ou tout autre objet, chose ou moyen utilisé pour marquer officiellement la limite d’une terre arpentée ou placée ou établie à des fins topographiques, géodésiques ou cadastrales; (*monument*)
+***borne-signal*** comprend un poteau, un jalon, une jalonnette, un monticule, une fosse, une tranchée, ou tout autre objet, chose ou moyen utilisé pour marquer officiellement la limite d’une terre arpentée ou placée ou établie à des fins topographiques, géodésiques ou cadastrales; (*monument*)
 
-***cours d’eau*** comprend un lac, une rivière, un étang, un marais, un marécage, un canal, un ruisseau, un ravin ou un couloir au fond duquel coule de l’eau continûment ou par intermittence; (*stream*)
+***cours d’eau*** comprend un lac, une rivière, un étang, un marais, un marécage, un canal, un ruisseau, un ravin ou un couloir au fond duquel coule de l’eau continûment ou par intermittence; (*stream*)
 
-***date de renvoi de l’équipe*** désigne la date à laquelle, de l’avis de l’ingénieur de district pour la conservation du pétrole et du gaz, un puits foré dans le but de découvrir ou de produire du pétrole ou du gaz a été dûment terminé; (*rig release date*)
+***date de renvoi de l’équipe*** désigne la date à laquelle, de l’avis de l’ingénieur de district pour la conservation du pétrole et du gaz, un puits foré dans le but de découvrir ou de produire du pétrole ou du gaz a été dûment terminé; (*rig release date*)
 
-***détenteur de permis*** désigne un détenteur de permis se livrant à une exploitation des terres et toute personne employée à cette fin; (*permittee*)
+***détenteur de permis*** désigne un détenteur de permis se livrant à une exploitation des terres et toute personne employée à cette fin; (*permittee*)
 
-***exploitation des terres*** signifie un travail ou une activité exercée sur des terres territoriales et exigeant un permis; (*land use operation*)
+***exploitation des terres*** signifie un travail ou une activité exercée sur des terres territoriales et exigeant un permis; (*land use operation*)
 
-***forage dans le roc*** désigne une excavation faite dans un claim minier pour obtenir des renseignements d’ordre géologique; (*rock trenching*)
+***forage dans le roc*** désigne une excavation faite dans un claim minier pour obtenir des renseignements d’ordre géologique; (*rock trenching*)
 
-***géodésien fédéral*** désigne le géodésien fédéral et le directeur du Service géodésique du ministère de l’Énergie, des Mines et des Ressources; (*Dominion Geodesist*)
+***géodésien fédéral*** désigne le géodésien fédéral et le directeur du Service géodésique du ministère de l’Énergie, des Mines et des Ressources; (*Dominion Geodesist*)
 
-***ingénieur*** désigne, pour des terres données, l’ingénieur désigné par le ministre conformément à l’article 4 pour desservir la région où les terres sont situées; (*engineer*)
+***ingénieur*** désigne, pour des terres données, l’ingénieur désigné par le ministre conformément à l’article 4 pour desservir la région où les terres sont situées; (*engineer*)
 
-***ingénieur de district pour la conservation du pétrole et du gaz*** désigne un ingénieur de la conservation nommé selon la Loi sur la production et la conservation du pétrole et du gaz; (*district oil and gas conservation engineer*)
+***ingénieur de district pour la conservation du pétrole et du gaz*** désigne un ingénieur de la conservation nommé selon la Loi sur la production et la conservation du pétrole et du gaz; (*district oil and gas conservation engineer*)
 
-***inspecteur*** désigne un inspecteur nommé par le ministre selon l’article 5; (*inspector*)
+***inspecteur*** désigne un inspecteur nommé par le ministre selon l’article 5; (*inspector*)
 
-***jour-homme*** signifie dans le cas de l’utilisation d’un campement, l’utilisation de ce campement par une personne durant 24 heures; (*man-day*)
+***jour-homme*** signifie dans le cas de l’utilisation d’un campement, l’utilisation de ce campement par une personne durant 24 heures; (*man-day*)
 
-***lettre d’acquittement*** désigne une lettre délivrée par l’ingénieur selon l’article 37; (*letter of clearance*)
+***lettre d’acquittement*** désigne une lettre délivrée par l’ingénieur selon l’article 37; (*letter of clearance*)
 
-***levé géophysique*** signifie une recherche effectuée à la surface du sol pour déterminer la nature et la structure sous-jacentes; (*geophysical survey*)
+***levé géophysique*** signifie une recherche effectuée à la surface du sol pour déterminer la nature et la structure sous-jacentes; (*geophysical survey*)
 
-***ligne de levé*** désigne une route d’accès à un terrain, utilisée pour l’exécution de levés géophysiques, géologiques ou de génie civil; (*line*)
+***ligne de levé*** désigne une route d’accès à un terrain, utilisée pour l’exécution de levés géophysiques, géologiques ou de génie civil; (*line*)
 
-***Loi*** désigne la [Loi sur les terres territoriales](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-7.md); (*Act*)
+***Loi*** désigne la [Loi sur les terres territoriales](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-7.md); (*Act*)
 
-***ministre*** désigne le ministre des Affaires indiennes et du Nord canadien; (*Minister*)
+***ministre*** désigne le ministre des Affaires indiennes et du Nord canadien; (*Minister*)
 
-***passage*** comprend un pont, une chaussée, une structure, une digue, une tranchée, une excavation, un espace libre ou autres travaux permettant ou destinés à permettre à des personnes, véhicules ou machines de franchir un cours d’eau, un chemin ou une route; (*crossing*)
+***passage*** comprend un pont, une chaussée, une structure, une digue, une tranchée, une excavation, un espace libre ou autres travaux permettant ou destinés à permettre à des personnes, véhicules ou machines de franchir un cours d’eau, un chemin ou une route; (*crossing*)
 
-***percée*** signifie la première pénétration du sol pour le forage d’un puits de pétrole ou de gaz; (*spud-in*)
+***percée*** signifie la première pénétration du sol pour le forage d’un puits de pétrole ou de gaz; (*spud-in*)
 
-***permis*** désigne un permis de catégorie A ou B; (*permit*)
+***permis*** désigne un permis de catégorie A ou B; (*permit*)
 
-***permis de catégorie A*** désigne un permis délivré selon l’article 25; (*Class A Permit*)
+***permis de catégorie A*** désigne un permis délivré selon l’article 25; (*Class A Permit*)
 
-***permis de catégorie B*** désigne un permis délivré selon l’article 27; (*Class B Permit*)
+***permis de catégorie B*** désigne un permis délivré selon l’article 27; (*Class B Permit*)
 
-***terres territoriales*** Les terres comprises dans les Territoires du Nord-Ouest dévolues à la Couronne ou dont le gouvernement du Canada a le pouvoir de disposer, et dont le ministre a le contrôle, la gérance et l’administration. (*territorial lands*) 
-> DORS/88-169, art. 1; 1998, ch. 14, art. 101(F); DORS/2003-126, art. 5.
-
-
+***terres territoriales***[Abrogée, DORS/2016-132, art. 1]
+> DORS/88-169, art. 1; 1998, ch. 14, art. 101(F); DORS/2003-126, art. 5; DORS/2016-132, art. 1.
 
 
 
-## Constitution de zones de gestion des terres
 
 
-**3** Les territoires du Nord-Ouest sont mis à part et affectés à titre de zone de gestion des terres.
-> DORS/2003-126, art. 6.
+## Constitution de zones d’aménagement
+> [DORS/2016-132, art. 2(F)]
+
+
+
+**3** Le présent règlement s’applique aux terres suivantes, classées en zones d’aménagement :
+- **a)** les régions des Territoires du Nord-Ouest dont le contrôle, la gestion et l’administration sont confiés au ministre et qui ne font pas partie de la vallée du Mackenzie, sauf disposition contraire de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md);
+- **b)** les régions du Nunavut dont le contrôle, la gestion et l’administration sont confiés au ministre.
+> DORS/2003-126, art. 6; DORS/2016-132, art. 3.
 
 
 
@@ -105,7 +109,7 @@ Autorités habilitantes :
 
 
 **6** Le présent règlement ne s’applique pas
-- **a)** aux activités de chasse, de pêche et de trappe exercées par un résident des territoires du Nord-Ouest;
+- **a)** aux activités de chasse, de pêche et de trappe exercées par un résident des Territoires du Nord-Ouest ou du Nunavut;
 - **b)** aux activités de prospection, de jalonnage ou de localisation d’un claim minier, à moins qu’elles ne requièrent l’utilisation d’équipement ou de matériaux nécessitant un permis;
 - **c)** aux terres dont tous les droits de surface ont été cédés par le ministre;
 - **d) et e)** [Abrogés, DORS/2003-126, art. 7]
@@ -113,12 +117,14 @@ Autorités habilitantes :
 	- **(i)** les projets d’utilisation des terres visés par un permis délivré en vertu du présent règlement avant la date d’entrée en vigueur de la partie 3 de cette loi,
 	- **(ii)** les projets d’utilisation des terres pour lesquels une demande de permis présentée aux termes du présent règlement est en cours d’examen à la date d’entrée en vigueur de la partie 3 de cette loi,
 	- **(iii)** les projets d’utilisation des terres pour lesquels une demande de permis est présentée aux termes de l’article 156 de cette loi.
-> DORS/88-169, art. 3; DORS/98-430, art. 1; DORS/2003-126, art. 7.
+> DORS/88-169, art. 3; DORS/98-430, art. 1; DORS/2003-126, art. 7; DORS/2016-132, art. 4.
 
 
 
 
-**7** Nul ne peut entreprendre l’exploitation des terres à moins de se conformer au présent règlement, à la Loi sur les eaux intérieures du Nord et au règlement établi selon cette loi.
+**7** Nul ne peut entreprendre l’exploitation des terres à moins de se conformer au présent règlement, à la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md), à la [Loi sur les eaux du Nunavut et le Tribunal des droits de surface du Nunavut](/fr/Lois/Lois%20du%20Canada/2002/ch.%2010.md) et à leurs règlements respectifs.
+> DORS/2016-132, art. 5.
+
 
 
 
@@ -149,10 +155,12 @@ Autorités habilitantes :
 
 
 **10** Un détenteur de permis ne peut, sauf autorisation explicite du permis ou autorisation explicite écrite d’un inspecteur,
-- **a)** conduire une exploitation des terres à moins de 30 mètres d’une borne-signal connue, ou d’un gisement archéologique ou cimetière connu ou supposé;
+- **a)** conduire une exploitation des terres à moins de 30 mètres d’une borne-signal connue, ou d’un site archéologique ou historique, ou d’un lieu de sépulture présumés ou connus;
 - **b)** de faire, à moins de 100 mètres d’un cours d’eau, sur des terres territoriales, des travaux d’excavation au-dessous du niveau normal de ses hautes eaux;
 - **c)** de déverser des déblais dans le lit d’un cours d’eau; ou
 - **d)** de déposer du combustible ou des fournitures dans une cache au-dessous du niveau normal des hautes eaux d’un cours d’eau lorsque la cache est à moins de 100 mètres de ce cours d’eau.
+> DORS/2016-132, art. 6.
+
 
 
 
@@ -185,7 +193,9 @@ Autorités habilitantes :
 	- **b)** remet le lit du cours d’eau dans son alignement et sa coupe transversale d’origine,
 avant l’achèvement de l’exploitation des terres ou avant le début de la débâcle printanière, selon le premier événement.
 
-- **(2)** Le paragraphe (1) n’est pas réputé autoriser quiconque à déposer des matériaux ou débris dans un cours d’eau, en contravention de la Loi sur les eaux intérieures du Nord, de la Loi sur les pêcheries ou de leurs règlements respectifs.
+- **(2)** Le paragraphe (1) n’autorise pas le dépôt de matériaux ou de débris dans un cours d’eau en contravention de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md), de la [Loi sur les eaux du Nunavut et le Tribunal des droits de surface du Nunavut](/fr/Lois/Lois%20du%20Canada/2002/ch.%2010.md), de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md) ou de leurs règlements respectifs.
+> DORS/2016-132, art. 7.
+
 
 
 
@@ -227,13 +237,13 @@ avant l’achèvement de l’exploitation des terres ou avant le début de la d�
 
 
 
-## Gisements archéologiques
+## Sites archéologiques ou historiques et lieux de sépulture
 
 
-**16** Dès que, au cours d’une exploitation des terres, est soupçonnée l’exhumation ou la découverte d’un gisement archéologique ou d’un cimetière, le détenteur de permis
+**16** S’il est découvert, au cours d’un projet d’utilisation des terres, un présumé site archéologique ou historique ou lieu de sépulture, le détenteur de permis
 - **a)** cesse l’exploitation des terres à cet endroit; et
-- **b)** avise l’ingénieur ou un inspecteur de l’emplacement du gisement et de la nature des matériaux, constructions ou objets exhumés.
-> DORS/88-169, art. 6(A).
+- **b)** avise l’ingénieur ou un inspecteur de l’emplacement du site ou du lieu et de la nature des matériaux, constructions ou objets exhumés.
+> DORS/88-169, art. 6(A); DORS/2016-132, art. 8.
 
 
 
@@ -367,10 +377,10 @@ avant l’achèvement de l’exploitation des terres ou avant le début de la d�
 
 
 
-**27** Dans les 10 jours de la réception d’une demande de permis de catégorie B conforme au présent règlement, l’ingénieur
+**27** Dans les 30 jours suivant la réception d’une demande de permis de catégorie B conforme au présent règlement, l’ingénieur :
 - **a)** délivre le permis sous réserve des conditions qu’il peut y énoncer, selon le paragraphe 31(1); ou
 - **b)** donne au requérant un avis écrit et motivé du rejet de la demande de permis.
-> DORS/88-169, art. 6(A).
+> DORS/88-169, art. 6(A); DORS/2016-132, art. 9.
 
 
 
@@ -417,8 +427,9 @@ avant l’achèvement de l’exploitation des terres ou avant le début de la d�
 	- **i)** la protection des objets et lieux qui ont une valeur récréative, panoramique et écologique;
 	- **j)** le dépôt d’une garantie selon l’article 36;
 	- **k)** la mise sur pied d’installations pour l’entreposage du combustible;
-	- **l)** les méthodes et techniques pour disposer des débris et broussailles; et
-	- **m)** d’autres matières, compatibles avec le présent règlement, que l’ingénieur juge nécessaires à la protection des caractéristiques physiques et biologiques de la zone de gestion des terres.
+	- **l)** les méthodes et techniques pour disposer des débris et broussailles;
+	- **l.1)** la protection d’un site archéologique ou historique ou d’un lieu de sépulture;
+	- **m)** d’autres matières, compatibles avec le présent règlement, que l’ingénieur juge nécessaires à la protection des caractéristiques physiques et biologiques des zones d’aménagement.
 
 - **(2)** L’ingénieur peut modifier les conditions d’un permis sur réception d’une demande écrite du détenteur, énonçant
 	- **a)** les conditions du permis que le détenteur désire faire modifier; et
@@ -426,10 +437,12 @@ avant l’achèvement de l’exploitation des terres ou avant le début de la d�
 
 - **(3)** Dans les 10 jours de la réception de la demande visée au paragraphe (2), l’ingénieur donne au détenteur de permis un avis motivé de sa décision.
 
-- **(4)** Le permis indique sa période de validité n’excédant pas deux ans et fixée d’après les dates prévues dans la demande de permis pour le commencement et la fin des travaux.
+- **(4)** Le permis expire à la fin de la période de validité indiquée dans le permis, celle-ci ne dépassant pas cinq ans et étant fixée selon les dates prévues de commencement et de fin des travaux inscrites dans la demande de permis.
 
-- **(5)** Sur réception d’une demande écrite d’un détenteur de permis pour la prolongation de la durée de validité de son permis, l’ingénieur peut, sous réserve des conditions qu’il juge à propos et non incompatibles avec le présent règlement, accorder la prolongation, n’excédant pas un an, qu’il juge nécessaire à l’achèvement de l’exploitation des terres autorisée par le permis.
-> DORS/88-169, art. 6(A).
+- **(5)** Sur réception d’une demande écrite d’un détenteur de permis pour la prolongation de la durée de validité de son permis, l’ingénieur peut accorder une prolongation n’excédant pas deux ans, sous réserve des conditions prévues au paragraphe (1), si la prolongation est nécessaire à l’achèvement de l’exploitation des terres autorisée par le permis.
+
+- **(6)** La prolongation de la durée de validité d’un permis en vertu du paragraphe (5) n’est accordée qu’une fois.
+> DORS/88-169, art. 6(A); DORS/2016-132, art. 10.
 
 
 
@@ -458,18 +471,18 @@ avant l’achèvement de l’exploitation des terres ou avant le début de la d�
 		- **(iii)** des ponts, barrages, fossés, voies ferrées, routes, chemins, lignes de transmission, pipe-lines, lignes de levé et bornes-signaux, pistes d’atterrissage, cours d’eau et autres éléments, structures ou travaux affectés par l’exploitation des terres; et
 	- **c)** les calculs de la superficie des terres territoriales utilisées dans l’exploitation.
 
-- **(2)** Le plan définitif présenté à l’ingénieur selon le paragraphe (1) est
-	- **a)** certifié par le détenteur du permis ou son mandataire autorisé à cette fin, quant à l’exactitude
-		- **(i)** des emplacements, distances et superficies, et
-		- **(ii)** de la description de l’exploitation des terres; ou
-	- **b)** tiré et accompagné de clichés positifs de photographies aériennes verticales, montrant les terres sujettes à l’exploitation.
+- **(2)** Le plan définitif présenté à l’ingénieur satisfait à l’une ou l’autre des exigences suivantes :
+	- **a)** il est certifié par le détenteur du permis ou en son nom quant à l’exactitude, à la fois :
+		- **(i)** des emplacements, distances et superficies,
+		- **(ii)** de la description de l’exploitation des terres;
+	- **b)** il est établi à partir d’un levé du site détaillé, d’une photographie aérienne ou d’une image obtenue au moyen de l’imagerie satellitaire ou d’une autre technologie d’imagerie montrant les terres utilisées dans le cadre de l’exploitation et est accompagné de tels documents.
 
 - **(3)** L’ingénieur peut proroger d’au plus 60 jours le délai fixé pour la présentation du plan définitif, s’il reçoit une demande écrite en ce sens, d’un détenteur de permis.
 
 - **(4)** L’ingénieur rejette un plan définitif non conforme à cet article et à l’article 35 et, dans les trois semaines de la réception d’un avis écrit de l’ingénieur à cet effet, le détenteur de permis lui soumet un nouveau plan définitif conforme à cet article et à l’article 35.
 
 - **(5)** Nonobstant l’expiration d’un permis ou la présentation d’un plan définitif, le détenteur de permis est tenu de satisfaire aux obligations énoncées dans le permis ou dans le présent règlement jusqu’au moment où l’ingénieur lui délivre une lettre d’acquittement relative à l’exploitation des terres.
-> DORS/88-169, art. 6(A).
+> DORS/88-169, art. 6(A); DORS/2016-132, art. 11.
 
 
 
@@ -501,7 +514,9 @@ avant l’achèvement de l’exploitation des terres ou avant le début de la d�
 - **b)** indique l’échelle du plan; et
 - **c)** indique les emplacements
 	- **(i)** selon les articles 5 à 9 du [Règlement sur les terres pétrolifères et gazifères du Canada](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1501-1600/C.R.C.,%20ch.%201518.md), ou
-	- **(ii)** en donnant leurs coordonnées géographiques.
+	- **(ii)** en donnant leurs coordonnées géographiques et en précisant le système de référence utilisé.
+> DORS/2016-132, art. 12.
+
 
 
 
