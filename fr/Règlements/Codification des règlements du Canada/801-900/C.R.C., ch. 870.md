@@ -12718,7 +12718,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 
 
 
-**B.16.100** Est interdite la vente de toute substance comme additif alimentaire, à moins que ledit additif ne soit nommé à l’un ou plusieurs des tableaux ci-après :
+**B.16.100** Est interdite la vente de toute substance comme additif alimentaire, à moins que ledit additif ne soit nommé à l’un ou plusieurs des tableaux ci-après :
 #### TABLEAU I
 <table>
 <h4>Additifs alimentaires autorisés comme agents anti-agglomérants</h4>
@@ -12963,7 +12963,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 </table>
 
-> DORS/79-662, art. 3 à 13; DORS/82-913, art. 4; DORS/83-410, art. 2; DORS/84-17, art. 5; DORS/84-801, art. 2; DORS/86-1125, art. 1; DORS/88-534, art. 4; DORS/91-88, art. 3 et 4; DORS/93-477, art. 3 à 5; DORS/94-689, art. 2(F); DORS/97-191, art. 3; DORS/2010-94, art. 8(A); DORS/2010-143, art. 11 et 12..
+> DORS/79-662, art. 3 à 13; DORS/82-913, art. 4; DORS/83-410, art. 2; DORS/84-17, art. 5; DORS/84-801, art. 2; DORS/86-1125, art. 1; DORS/88-534, art. 4; DORS/91-88, art. 3 et 4; DORS/93-477, art. 3 à 5; DORS/94-689, art. 2(F); DORS/97-191, art. 3; DORS/2010-94, art. 8(A); DORS/2010-143, art. 11 et 12.
 
 
 
@@ -13160,7 +13160,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 </table>
 
-> DORS/79-660, art. 3 et 4; DORS/87-640, art. 6; DORS/92-591, art. 2; DORS/94-227, art. 4; DORS/94-689, art. 2(F); DORS/2005-98, art. 3; DORS/2005-98, art. 8(F); DORS/2010-41, art. 9(A)..
+> DORS/79-660, art. 3 et 4; DORS/87-640, art. 6; DORS/92-591, art. 2; DORS/94-227, art. 4; DORS/94-689, art. 2(F); DORS/2005-98, art. 3; DORS/2005-98, art. 8(F); DORS/2010-41, art. 9(A).
 
 
 
@@ -13361,7 +13361,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 </table>
 
-> DORS/79-752, art. 5; DORS/80-500, art. 6; DORS/82-596, art. 3; DORS/84-440, art. 4; DORS/84-602, art. 1; DORS/89-198, art. 6 à 10; DORS/92-725, art. 5; DORS/93-466, art. 2; DORS/94-689, art. 2(F); DORS/95-434, art. 1; DORS/95-493, art. 1; DORS/97-516, art. 4; DORS/98-580, art. 1(F); DORS/99-96, art. 1; DORS/2000-50, art. 1; DORS/2000-146, art. 1 à 3; DORS/2007-75, art. 3; DORS/2010-94, art. 8(A); DORS/2010-143, art. 13; DORS/2011-235, art. 2(F); DORS/2011-281, art. 2; DORS/2012-43, art. 16 à 20..
+> DORS/79-752, art. 5; DORS/80-500, art. 6; DORS/82-596, art. 3; DORS/84-440, art. 4; DORS/84-602, art. 1; DORS/89-198, art. 6 à 10; DORS/92-725, art. 5; DORS/93-466, art. 2; DORS/94-689, art. 2(F); DORS/95-434, art. 1; DORS/95-493, art. 1; DORS/97-516, art. 4; DORS/98-580, art. 1(F); DORS/99-96, art. 1; DORS/2000-50, art. 1; DORS/2000-146, art. 1 à 3; DORS/2007-75, art. 3; DORS/2010-94, art. 8(A); DORS/2010-143, art. 13; DORS/2011-235, art. 2(F); DORS/2011-281, art. 2; DORS/2012-43, art. 16 à 20.
 
 
 
@@ -14873,7 +14873,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 </table>
 
-> DORS/78-403, art. 5(F) à 13(F), 14 à 16, 17(F) à 21(F) et 22; DORS/78-656, art. 14 et 15; DORS/78-876, art. 2; DORS/79-660, art. 5 à 10; DORS/79-752, art. 6; DORS/80-501, art. 4; DORS/81-60, art. 7 à 10; DORS/81-565, art. 4 et 5; DORS/81-934, art. 2 à 6; DORS/82-383, art. 9; DORS/82-1071, art. 9 à 16; DORS/83-932, art. 3 et 4; DORS/84-300, art. 50(A); DORS/84-602, art. 2; DORS/84-801, art. 3; DORS/85-179, art. 2 à 4; DORS/85-623, art. 3(A); DORS/88-99, art. 3; DORS/88-419, art. 2 et 3; DORS/90-87, art. 9; DORS/91-710, art. 1; DORS/92-64, art. 1; DORS/92-93, art. 2; DORS/92-344, art. 1; DORS/93-466, art. 3 et 4; DORS/94-38, art. 2; DORS/94-567, art. 2; DORS/94-689, art. 2(F); DORS/96-160, art. 2; DORS/96-376, art. 1; DORS/96-497, art. 1; DORS/96-499, art. 1; DORS/97-29, art. 1; DORS/97-263, art. 4 à 10; DORS/98-580, art. 1(F); DORS/2000-353, art. 7(F); DORS/2005-316, art. 1; DORS/2005-395, art. 1(F), 2 à 4 et 5(F); DORS/2006-91, art. 4 et 5; DORS/2007-75, art. 4 à 6; DORS/2007-76, art. 1 et 2; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A) et 9(A); DORS/2010-142, art. 9, 10(F), 11 à 13, 14(F), 15(F) et 16; DORS/2011-235, art. 3 à 6 et 16(F); DORS/2011-278, art. 11 et 12(A); DORS/2012-43, art. 21 à 25, 26(F), 27 et 28; DORS/2012-104, art. 3, 4(F), 5 à 9 et 20(F); DORS/2012-106, art. 1..
+> DORS/78-403, art. 5(F) à 13(F), 14 à 16, 17(F) à 21(F) et 22; DORS/78-656, art. 14 et 15; DORS/78-876, art. 2; DORS/79-660, art. 5 à 10; DORS/79-752, art. 6; DORS/80-501, art. 4; DORS/81-60, art. 7 à 10; DORS/81-565, art. 4 et 5; DORS/81-934, art. 2 à 6; DORS/82-383, art. 9; DORS/82-1071, art. 9 à 16; DORS/83-932, art. 3 et 4; DORS/84-300, art. 50(A); DORS/84-602, art. 2; DORS/84-801, art. 3; DORS/85-179, art. 2 à 4; DORS/85-623, art. 3(A); DORS/88-99, art. 3; DORS/88-419, art. 2 et 3; DORS/90-87, art. 9; DORS/91-710, art. 1; DORS/92-64, art. 1; DORS/92-93, art. 2; DORS/92-344, art. 1; DORS/93-466, art. 3 et 4; DORS/94-38, art. 2; DORS/94-567, art. 2; DORS/94-689, art. 2(F); DORS/96-160, art. 2; DORS/96-376, art. 1; DORS/96-497, art. 1; DORS/96-499, art. 1; DORS/97-29, art. 1; DORS/97-263, art. 4 à 10; DORS/98-580, art. 1(F); DORS/2000-353, art. 7(F); DORS/2005-316, art. 1; DORS/2005-395, art. 1(F), 2 à 4 et 5(F); DORS/2006-91, art. 4 et 5; DORS/2007-75, art. 4 à 6; DORS/2007-76, art. 1 et 2; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A) et 9(A); DORS/2010-142, art. 9, 10(F), 11 à 13, 14(F), 15(F) et 16; DORS/2011-235, art. 3 à 6 et 16(F); DORS/2011-278, art. 11 et 12(A); DORS/2012-43, art. 21 à 25, 26(F), 27 et 28; DORS/2012-104, art. 3, 4(F), 5 à 9 et 20(F); DORS/2012-106, art. 1.
 
 
 
@@ -15925,7 +15925,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 </table>
 
-> DORS/78-402, art. 6; DORS/78-876, art. 3; DORS/79-662, art. 14 à 17; DORS/80-501, art. 4; DORS/80-632, art. 5; DORS/81-60, art. 11; DORS/81-934, art. 7 à 10; DORS/82-383, art. 10; DORS/82-566, art. 2; DORS/82-1071, art. 17; DORS/84-302, art. 4; DORS/84-762, art. 8 et 9; DORS/84-801, art. 4; DORS/86-89, art. 4 à 6; DORS/86-1112, art. 4; DORS/87-254, art. 2; DORS/87-640, art. 7; DORS/88-281, art. 1; DORS/90-24, art. 1 à 3; DORS/90-87, art. 10 à 12; DORS/90-469, art. 3; DORS/91-124, art. 5(F); DORS/91-487, art. 1; DORS/91-691, art. 1; DORS/92-63, art. 4; DORS/92-94, art. 4; DORS/92-195, art. 1; DORS/92-197, art. 9; DORS/92-231, art. 1; DORS/92-518, art. 1; DORS/92-591, art. 2(F); DORS/94-29, art. 1; DORS/94-182, art. 1; DORS/94-212, art. 9; DORS/94-417, art. 2; DORS/94-552, art. 1; DORS/94-689, art. 2; DORS/94-712, art. 1; DORS/95-65, art. 1; DORS/95-183, art. 9; DORS/95-525, art. 1 et 2; DORS/96-375, art. 1; DORS/97-81, art. 1; DORS/97-82, art. 1; DORS/97-122, art. 4(F) et 5; DORS/97-508, art. 1 et 2; DORS/97-513, art. 1; DORS/97-558, art. 4; DORS/98-454, art. 1; DORS/98-458, art. 6 et 7(F); DORS/2000-336, art. 3 à 5; DORS/2000-417, art. 4; DORS/2003-130, art. 4; DORS/2004-84, art. 1; DORS/2005-98, art. 3 à 7 et 8(F); DORS/2005-394, art. 1 à 6; DORS/2007-225, art. 1; DORS/2010-41, art. 1 à 6 et 9(A); DORS/2010-42, art. 1 à 4; DORS/2010-94, art. 8(A); DORS/2010-142, art. 17; DORS/2010-143, art. 14 à 26; DORS/2012-26, art. 4; DORS/2012-45, art. 1; DORS/2012-46, art. 4; DORS/2012-104, art. 10 et 21..
+> DORS/78-402, art. 6; DORS/78-876, art. 3; DORS/79-662, art. 14 à 17; DORS/80-501, art. 4; DORS/80-632, art. 5; DORS/81-60, art. 11; DORS/81-934, art. 7 à 10; DORS/82-383, art. 10; DORS/82-566, art. 2; DORS/82-1071, art. 17; DORS/84-302, art. 4; DORS/84-762, art. 8 et 9; DORS/84-801, art. 4; DORS/86-89, art. 4 à 6; DORS/86-1112, art. 4; DORS/87-254, art. 2; DORS/87-640, art. 7; DORS/88-281, art. 1; DORS/90-24, art. 1 à 3; DORS/90-87, art. 10 à 12; DORS/90-469, art. 3; DORS/91-124, art. 5(F); DORS/91-487, art. 1; DORS/91-691, art. 1; DORS/92-63, art. 4; DORS/92-94, art. 4; DORS/92-195, art. 1; DORS/92-197, art. 9; DORS/92-231, art. 1; DORS/92-518, art. 1; DORS/92-591, art. 2(F); DORS/94-29, art. 1; DORS/94-182, art. 1; DORS/94-212, art. 9; DORS/94-417, art. 2; DORS/94-552, art. 1; DORS/94-689, art. 2; DORS/94-712, art. 1; DORS/95-65, art. 1; DORS/95-183, art. 9; DORS/95-525, art. 1 et 2; DORS/96-375, art. 1; DORS/97-81, art. 1; DORS/97-82, art. 1; DORS/97-122, art. 4(F) et 5; DORS/97-508, art. 1 et 2; DORS/97-513, art. 1; DORS/97-558, art. 4; DORS/98-454, art. 1; DORS/98-458, art. 6 et 7(F); DORS/2000-336, art. 3 à 5; DORS/2000-417, art. 4; DORS/2003-130, art. 4; DORS/2004-84, art. 1; DORS/2005-98, art. 3 à 7 et 8(F); DORS/2005-394, art. 1 à 6; DORS/2007-225, art. 1; DORS/2010-41, art. 1 à 6 et 9(A); DORS/2010-42, art. 1 à 4; DORS/2010-94, art. 8(A); DORS/2010-142, art. 17; DORS/2010-143, art. 14 à 26; DORS/2012-26, art. 4; DORS/2012-45, art. 1; DORS/2012-46, art. 4; DORS/2012-104, art. 10 et 21.
 
 
 
@@ -16087,7 +16087,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 </table>
 
-> DORS/78-402, art. 7; DORS/79-660, art. 11 et 12; DORS/79-752, art. 7; DORS/93-445, art. 1; DORS/94-689, art. 2(F); DORS/2007-302, art. 4(F); DORS/2010-94, art. 8(A); DORS/2012-43, art. 29 et 30..
+> DORS/78-402, art. 7; DORS/79-660, art. 11 et 12; DORS/79-752, art. 7; DORS/93-445, art. 1; DORS/94-689, art. 2(F); DORS/2007-302, art. 4(F); DORS/2010-94, art. 8(A); DORS/2012-43, art. 29 et 30.
 
 
 
@@ -16183,7 +16183,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 </table>
 
-> DORS/94-689, art. 2(F); DORS/2010-142, art. 18 à 29..
+> DORS/94-689, art. 2(F); DORS/2010-142, art. 18 à 29.
 
 
 
@@ -16598,10 +16598,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 <tr>
 <td>E.2</td>
-<td>Oxyde d’éthylène</td>
-<td>Épices entières ou moulues (sauf les mélanges contenant du sel)</td>
-<td>Fumigation</td>
-<td>Bonnes pratiques industrielles (résidus d’éthylène chlorophydrine n’excédant pas 1 500 p.p.m.)</td>
+<td>[Abrogé, DORS/2016-143, art. 1]</td>
 </tr>
 <tr>
 <td>F.1</td>
@@ -17394,7 +17391,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 </table>
 
-> DORS/78-401, art. 3; DORS/78-403, art. 23 à 25; DORS/78-876, art. 4; DORS/79-660, art. 13; DORS/79-752, art. 8; DORS/80-632, art. 6 à 13; DORS/81-83, art. 4; DORS/81-617, art. 3; DORS/81-934, art. 11 et 12; DORS/82-566, art. 3 et 4; DORS/82-1071, art. 18 à 20; DORS/83-410, art. 3; DORS/83-584, art. 1; DORS/83-932, art. 5 et 6; DORS/84-17, art. 6; DORS/84-441, art. 1; DORS/84-602, art. 3; DORS/84-762, art. 10; DORS/84-801, art. 5 et 6; DORS/86-1112, art. 5; DORS/86-1125, art. 2; DORS/87-469, art. 1; DORS/87-640, art. 8; DORS/88-419, art. 4; DORS/88-534, art. 5 et 6; DORS/89-175, art. 2; DORS/89-197, art. 1; DORS/89-198, art. 11; DORS/89-555, art. 2 et 3; DORS/91-90, art. 2; DORS/91-124, art. 6 à 9; DORS/91-149, art. 3; DORS/91-186, art. 1; DORS/91-409, art. 7; DORS/91-527, art. 4; DORS/92-229, art. 1; DORS/92-344, art. 2 à 4; DORS/93-276, art. 4 à 11; DORS/94-416, art. 1; DORS/94-227, art. 5 à 10; DORS/94-689, art. 2(F); DORS/94-723, art. 1; DORS/96-260, art. 1; DORS/96-378, art. 1; DORS/97-509, art. 1; DORS/98-580, art. 1(F); DORS/99-97, art. 1; DORS/99-420, art. 11(F); DORS/2000-353, art. 8(F); DORS/2001-94, art. 3; DORS/2005-316, art. 2(F) et 3; DORS/2006-91, art. 6 à 12; DORS/2007-75, art. 7; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A); DORS/2010-142, art. 30(F), 31 à 39, 40(F), 41 à 45, 46(F), 47 à 51 et 59(F); DORS/2010-143, art. 27 à 31; DORS/2011-235, art. 16(F); DORS/2011-279, art. 1; DORS/2011-282, art. 2; DORS/2012-43, art. 31(F); DORS/2012-44, art. 1 et 2; DORS/2012-105, art. 1; DORS/2012-111, art. 2 et 3..
+> DORS/78-401, art. 3; DORS/78-403, art. 23 à 25; DORS/78-876, art. 4; DORS/79-660, art. 13; DORS/79-752, art. 8; DORS/80-632, art. 6 à 13; DORS/81-83, art. 4; DORS/81-617, art. 3; DORS/81-934, art. 11 et 12; DORS/82-566, art. 3 et 4; DORS/82-1071, art. 18 à 20; DORS/83-410, art. 3; DORS/83-584, art. 1; DORS/83-932, art. 5 et 6; DORS/84-17, art. 6; DORS/84-441, art. 1; DORS/84-602, art. 3; DORS/84-762, art. 10; DORS/84-801, art. 5 et 6; DORS/86-1112, art. 5; DORS/86-1125, art. 2; DORS/87-469, art. 1; DORS/87-640, art. 8; DORS/88-419, art. 4; DORS/88-534, art. 5 et 6; DORS/89-175, art. 2; DORS/89-197, art. 1; DORS/89-198, art. 11; DORS/89-555, art. 2 et 3; DORS/91-90, art. 2; DORS/91-124, art. 6 à 9; DORS/91-149, art. 3; DORS/91-186, art. 1; DORS/91-409, art. 7; DORS/91-527, art. 4; DORS/92-229, art. 1; DORS/92-344, art. 2 à 4; DORS/93-276, art. 4 à 11; DORS/94-416, art. 1; DORS/94-227, art. 5 à 10; DORS/94-689, art. 2(F); DORS/94-723, art. 1; DORS/96-260, art. 1; DORS/96-378, art. 1; DORS/97-509, art. 1; DORS/98-580, art. 1(F); DORS/99-97, art. 1; DORS/99-420, art. 11(F); DORS/2000-353, art. 8(F); DORS/2001-94, art. 3; DORS/2005-316, art. 2(F) et 3; DORS/2006-91, art. 6 à 12; DORS/2007-75, art. 7; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A); DORS/2010-142, art. 30(F), 31 à 39, 40(F), 41 à 45, 46(F), 47 à 51 et 59(F); DORS/2010-143, art. 27 à 31; DORS/2011-235, art. 16(F); DORS/2011-279, art. 1; DORS/2011-282, art. 2; DORS/2012-43, art. 31(F); DORS/2012-44, art. 1 et 2; DORS/2012-105, art. 1; DORS/2012-111, art. 2 et 3; DORS/2016-143, art. 1.
 
 
 
@@ -17714,7 +17711,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 </table>
 
-> DORS/93-276, art. 12; DORS/94-625, art. 5; DORS/94-689, art. 2(F); DORS/94-779, art. 3; DORS/97-512, art. 3 et 4; DORS/2004-261, art. 2; DORS/2007-76, art. 3; DORS/2007-176, art. 7; DORS/2010-142, art. 52 à 55; DORS/2012-104, art. 11 à 15..
+> DORS/93-276, art. 12; DORS/94-625, art. 5; DORS/94-689, art. 2(F); DORS/94-779, art. 3; DORS/97-512, art. 3 et 4; DORS/2004-261, art. 2; DORS/2007-76, art. 3; DORS/2007-176, art. 7; DORS/2010-142, art. 52 à 55; DORS/2012-104, art. 11 à 15.
 
 
 
@@ -18638,7 +18635,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 </table>
 
-> DORS/78-874, art. 4; DORS/79-660, art. 14 à 17; DORS/79-664, art. 3 à 13; DORS/79-752, art. 9; DORS/80-501, art. 4; DORS/86-1112, art. 6 à 8; DORS/92-106, art. 1; DORS/92-344, art. 5; DORS/94-689, art. 2(F); DORS/95-281, art. 2 à 5; DORS/95-436, art. 2 et 3; DORS/97-263, art. 11 à 25; DORS/97-561, art. 3; DORS/98-580, art. 1(F); DORS/2001-94, art. 3; DORS/2006-91, art. 13 à 20; DORS/2007-75, art. 8; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A); DORS/2010-142, art. 56; DORS/2010-143, art. 32 à 36; DORS/2012-43, art. 32 à 34, 35(F) et 36; DORS/2012-103, art. 1(F) et 2..
+> DORS/78-874, art. 4; DORS/79-660, art. 14 à 17; DORS/79-664, art. 3 à 13; DORS/79-752, art. 9; DORS/80-501, art. 4; DORS/86-1112, art. 6 à 8; DORS/92-106, art. 1; DORS/92-344, art. 5; DORS/94-689, art. 2(F); DORS/95-281, art. 2 à 5; DORS/95-436, art. 2 et 3; DORS/97-263, art. 11 à 25; DORS/97-561, art. 3; DORS/98-580, art. 1(F); DORS/2001-94, art. 3; DORS/2006-91, art. 13 à 20; DORS/2007-75, art. 8; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A); DORS/2010-142, art. 56; DORS/2010-143, art. 32 à 36; DORS/2012-43, art. 32 à 34, 35(F) et 36; DORS/2012-103, art. 1(F) et 2.
 
 
 
@@ -19203,7 +19200,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 <tr>
 <td>(2) Tortillas molles</td>
-<td>(2) 4 000 p.p.m.</td>
+<td>(2) 4 000 p.p.m.</td>
 </tr>
 <tr>
 <td>C.2</td>
@@ -19229,7 +19226,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 <tr>
 <td>(2) Tortillas molles</td>
-<td>(2) 5 000 p.p.m.</td>
+<td>(2) 5 000 p.p.m.</td>
 </tr>
 <tr>
 <td>P.2</td>
@@ -19827,7 +19824,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 </table>
 
-> DORS/79-285, art. 1 à 4; DORS/79-660, art. 18; DORS/79-752, art. 10; DORS/80-500, art. 7; DORS/81-565, art. 6; DORS/81-934, art. 13 à 15; DORS/82-383, art. 11; DORS/86-89, art. 7; DORS/86-1020, art. 1; DORS/87-138, art. 1 et 2; DORS/87-469, art. 2; DORS/89-198, art. 12 à 16; DORS/91-124, art. 10 à 12; DORS/92-226, art. 1; DORS/92-591, art. 2(F); DORS/94-689, art. 2(F); DORS/95-592, art. 1; DORS/96-241, art. 2; DORS/97-148, art. 7; DORS/97-191, art. 4; DORS/98-459, art. 1; DORS/99-289, art. 1 à 4; DORS/2003-156, art. 1; DORS/2005-316, art. 4 à 6; DORS/2010-94, art. 8(A); DORS/2010-141, art. 1 et 2; DORS/2010-264, art. 4; DORS/2011-235, art. 7 à 13 et 16(F); DORS/2011-280, art. 7 et 8; DORS/2012-43, art. 37 à 42; DORS/2012-104, art. 16(F), 17 et 18..
+> DORS/79-285, art. 1 à 4; DORS/79-660, art. 18; DORS/79-752, art. 10; DORS/80-500, art. 7; DORS/81-565, art. 6; DORS/81-934, art. 13 à 15; DORS/82-383, art. 11; DORS/86-89, art. 7; DORS/86-1020, art. 1; DORS/87-138, art. 1 et 2; DORS/87-469, art. 2; DORS/89-198, art. 12 à 16; DORS/91-124, art. 10 à 12; DORS/92-226, art. 1; DORS/92-591, art. 2(F); DORS/94-689, art. 2(F); DORS/95-592, art. 1; DORS/96-241, art. 2; DORS/97-148, art. 7; DORS/97-191, art. 4; DORS/98-459, art. 1; DORS/99-289, art. 1 à 4; DORS/2003-156, art. 1; DORS/2005-316, art. 4 à 6; DORS/2010-94, art. 8(A); DORS/2010-141, art. 1 et 2; DORS/2010-264, art. 4; DORS/2011-235, art. 7 à 13 et 16(F); DORS/2011-280, art. 7 et 8; DORS/2012-43, art. 37 à 42; DORS/2012-104, art. 16(F), 17 et 18.
 
 
 
@@ -20195,7 +20192,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 </table>
 
-> DORS/79-660, art. 19 et 20; DORS/80-501, art. 4; DORS/82-596, art. 4 à 9; DORS/94-141, art. 1; DORS/94-262, art. 4 à 12; DORS/94-689, art. 2; DORS/95-435, art. 2; DORS/97-30, art. 1; DORS/97-562, art. 1; DORS/98-580, art. 1(F); DORS/2005-316, art. 7 à 11; DORS/2010-40, art. 2; DORS/2010-142, art. 57 et 58; DORS/2010-143, art. 37(F) et 38; DORS/2011-235, art. 14; DORS/2012-43, art. 43 à 45; DORS/2012-104, art. 19(F); DORS/2012-112, art. 1..
+> DORS/79-660, art. 19 et 20; DORS/80-501, art. 4; DORS/82-596, art. 4 à 9; DORS/94-141, art. 1; DORS/94-262, art. 4 à 12; DORS/94-689, art. 2; DORS/95-435, art. 2; DORS/97-30, art. 1; DORS/97-562, art. 1; DORS/98-580, art. 1(F); DORS/2005-316, art. 7 à 11; DORS/2010-40, art. 2; DORS/2010-142, art. 57 et 58; DORS/2010-143, art. 37(F) et 38; DORS/2011-235, art. 14; DORS/2012-43, art. 43 à 45; DORS/2012-104, art. 19(F); DORS/2012-112, art. 1.
 
 
 
@@ -20233,9 +20230,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 <tr>
 <td>E.1</td>
-<td>Épichlorhydrine</td>
-<td>Amidon</td>
-<td>Bonnes pratiques industrielles</td>
+<td>[Abrogé, DORS/2016-143, art. 2]</td>
 </tr>
 <tr>
 <td>H.1</td>
@@ -20353,7 +20348,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 </table>
 
-> DORS/94-689, art. 2(F); DORS/2012-106, art. 2..
+> DORS/94-689, art. 2(F); DORS/2012-106, art. 2; DORS/2016-143, art. 2.
 
 
 
@@ -20565,7 +20560,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 </table>
 
-> DORS/87-5, art. 1; DORS/94-689, art. 2(F); DORS/95-281, art. 6 et 7; DORS/2010-41, art. 7(A) et 9(A)..
+> DORS/87-5, art. 1; DORS/94-689, art. 2(F); DORS/95-281, art. 6 et 7; DORS/2010-41, art. 7(A) et 9(A).
 
 
 
@@ -20889,10 +20884,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 <tr>
 <td>18</td>
-<td>2-Nitropropane</td>
-<td>Huiles végétales</td>
-<td>0,5 p.p.m.</td>
-<td></td>
+<td>[Abrogé, DORS/2016-143, art. 3]</td>
 </tr>
 <tr>
 <td>19</td>
@@ -20937,7 +20929,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 </table>
 
-> DORS/78-403, art. 26 et 27; DORS/82-383, art. 12; DORS/82-406, art. 1; DORS/82-913, art. 5; DORS/82-1071, art. 21 et 22; DORS/84-541, art. 1; DORS/86-89, art. 8 et 9; DORS/86-178, art. 4 à 7; DORS/86-1112, art. 9; DORS/90-667, art. 1; DORS/94-689, art. 2; DORS/96-259, art. 1; DORS/96-377, art. 1; DORS/2011-235, art. 15.
+> DORS/78-403, art. 26 et 27; DORS/82-383, art. 12; DORS/82-406, art. 1; DORS/82-913, art. 5; DORS/82-1071, art. 21 et 22; DORS/84-541, art. 1; DORS/86-89, art. 8 et 9; DORS/86-178, art. 4 à 7; DORS/86-1112, art. 9; DORS/90-667, art. 1; DORS/94-689, art. 2; DORS/96-259, art. 1; DORS/96-377, art. 1; DORS/2011-235, art. 15; DORS/2016-143, art. 3.
 
 
 
