@@ -12961,7 +12961,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 </table>
 
-> SOR/79-662, ss. 3 to 13; SOR/82-913, s. 4; SOR/83-410, s. 2; SOR/84-17, s. 5; SOR/84-801, s. 2; SOR/86-1125, s. 1; SOR/88-534, s. 4; SOR/91-88, ss. 3, 4; SOR/93-477, ss. 3 to 5; SOR/94-689, s. 2(F); SOR/97-191, s. 3; SOR/2010-94, s. 8(E); SOR/2010-143, ss. 11, 12..
+> SOR/79-662, ss. 3 to 13; SOR/82-913, s. 4; SOR/83-410, s. 2; SOR/84-17, s. 5; SOR/84-801, s. 2; SOR/86-1125, s. 1; SOR/88-534, s. 4; SOR/91-88, ss. 3, 4; SOR/93-477, ss. 3 to 5; SOR/94-689, s. 2(F); SOR/97-191, s. 3; SOR/2010-94, s. 8(E); SOR/2010-143, ss. 11, 12.
 
 
 
@@ -13157,7 +13157,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 </table>
 
-> SOR/79-660, ss. 3, 4; SOR/87-640, s. 6; SOR/92-591, s. 2; SOR/94-227, s. 4; SOR/94-689, s. 2(F); SOR/2005-98, ss. 3, 8(F); SOR/2010-41, s. 9(E)..
+> SOR/79-660, ss. 3, 4; SOR/87-640, s. 6; SOR/92-591, s. 2; SOR/94-227, s. 4; SOR/94-689, s. 2(F); SOR/2005-98, ss. 3, 8(F); SOR/2010-41, s. 9(E).
 
 
 
@@ -13361,7 +13361,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 </table>
 
-> SOR/79-752, s. 5; SOR/80-500, s. 6; SOR/82-596, s. 3; SOR/84-440, s. 4; SOR/84-602, s. 1; SOR/89-198, ss. 6 to 10; SOR/92-725, s. 5; SOR/93-466, s. 2; SOR/94-689, s. 2(F); SOR/95-434, s. 1; SOR/95-493, s. 1; SOR/97-516, s. 4; SOR/98-580, s. 1(F); SOR/99-96, s. 1; SOR/2000-50, s. 1; SOR/2000-146, ss. 1 to 3; SOR/2007-75, s. 3; SOR/2010-94, s. 8(E); SOR/2010-143, s. 13; SOR/2011-235, s. 2(F); SOR/2011-281, s. 2; SOR/2012-43, ss. 16 to 20..
+> SOR/79-752, s. 5; SOR/80-500, s. 6; SOR/82-596, s. 3; SOR/84-440, s. 4; SOR/84-602, s. 1; SOR/89-198, ss. 6 to 10; SOR/92-725, s. 5; SOR/93-466, s. 2; SOR/94-689, s. 2(F); SOR/95-434, s. 1; SOR/95-493, s. 1; SOR/97-516, s. 4; SOR/98-580, s. 1(F); SOR/99-96, s. 1; SOR/2000-50, s. 1; SOR/2000-146, ss. 1 to 3; SOR/2007-75, s. 3; SOR/2010-94, s. 8(E); SOR/2010-143, s. 13; SOR/2011-235, s. 2(F); SOR/2011-281, s. 2; SOR/2012-43, ss. 16 to 20.
 
 
 
@@ -14876,7 +14876,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 </table>
 
-> SOR/78-403, ss. 5(F) to 13(F), 14 to 16, 17(F) to 21(F), 22; SOR/78-656, ss. 14, 15; SOR/78-876, s. 2; SOR/79-660, ss. 5 to 10; SOR/79-752, s. 6; SOR/80-501, s. 4; SOR/81-60, ss. 7 to 10; SOR/81-565, ss. 4, 5; SOR/81-934, ss. 2 to 6; SOR/82-383, s. 9; SOR/82-1071, ss. 9 to 16; SOR/83-932, ss. 3, 4; SOR/84-300, s. 50(E); SOR/84-602, s. 2; SOR/84-801, s. 3; SOR/85-179, ss. 2 to 4; SOR/85-623, s. 3(E); SOR/88-99, s. 3; SOR/88-419, ss. 2, 3; SOR/90-87, s. 9; SOR/91-710, s. 1; SOR/92-64, s. 1; SOR/92-93, s. 2; SOR/92-344, s. 1; SOR/93-466, ss. 3, 4; SOR/94-38, s. 2; SOR/94-567, s. 2; SOR/94-689, s. 2(F); SOR/96-160, s. 2; SOR/96-376, s. 1; SOR/96-497, s. 1; SOR/96-499, s. 1; SOR/97-29, s. 1; SOR/97-263, ss. 4 to 10; SOR/98-580, s. 1(F); SOR/2000-353, s. 7(F); SOR/2005-316, s. 1; SOR/2005-395, ss. 1 to 4, 5(F); SOR/2006-91, ss. 4, 5; SOR/2007-75, ss. 4 to 6; SOR/2007-76, ss. 1, 2; SOR/2010-41, s. 9(E); SOR/2010-94, ss. 8(E), 9(E); SOR/2010-142, ss. 9, 10(F), 11 to 13, 14(F), 15(F), 16; SOR/2011-235, ss. 3 to 6, 16(F); SOR/2011-278, ss. 11, 12(E); SOR/2012-43, ss. 21 to 25, 26(F), 27, 28; SOR/2012-104, ss. 3, 4(F), 5 to 9, 20(F); SOR/2012-106, s. 1..
+> SOR/78-403, ss. 5(F) to 13(F), 14 to 16, 17(F) to 21(F), 22; SOR/78-656, ss. 14, 15; SOR/78-876, s. 2; SOR/79-660, ss. 5 to 10; SOR/79-752, s. 6; SOR/80-501, s. 4; SOR/81-60, ss. 7 to 10; SOR/81-565, ss. 4, 5; SOR/81-934, ss. 2 to 6; SOR/82-383, s. 9; SOR/82-1071, ss. 9 to 16; SOR/83-932, ss. 3, 4; SOR/84-300, s. 50(E); SOR/84-602, s. 2; SOR/84-801, s. 3; SOR/85-179, ss. 2 to 4; SOR/85-623, s. 3(E); SOR/88-99, s. 3; SOR/88-419, ss. 2, 3; SOR/90-87, s. 9; SOR/91-710, s. 1; SOR/92-64, s. 1; SOR/92-93, s. 2; SOR/92-344, s. 1; SOR/93-466, ss. 3, 4; SOR/94-38, s. 2; SOR/94-567, s. 2; SOR/94-689, s. 2(F); SOR/96-160, s. 2; SOR/96-376, s. 1; SOR/96-497, s. 1; SOR/96-499, s. 1; SOR/97-29, s. 1; SOR/97-263, ss. 4 to 10; SOR/98-580, s. 1(F); SOR/2000-353, s. 7(F); SOR/2005-316, s. 1; SOR/2005-395, ss. 1 to 4, 5(F); SOR/2006-91, ss. 4, 5; SOR/2007-75, ss. 4 to 6; SOR/2007-76, ss. 1, 2; SOR/2010-41, s. 9(E); SOR/2010-94, ss. 8(E), 9(E); SOR/2010-142, ss. 9, 10(F), 11 to 13, 14(F), 15(F), 16; SOR/2011-235, ss. 3 to 6, 16(F); SOR/2011-278, ss. 11, 12(E); SOR/2012-43, ss. 21 to 25, 26(F), 27, 28; SOR/2012-104, ss. 3, 4(F), 5 to 9, 20(F); SOR/2012-106, s. 1.
 
 
 
@@ -15928,7 +15928,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 </table>
 
-> SOR/78-402, s. 6; SOR/78-876, s. 3; SOR/79-662, ss. 14 to 17; SOR/80-501, s. 4; SOR/80-632, s. 5; SOR/81-60, s. 11; SOR/81-934, ss. 7 to 10; SOR/82-383, s. 10; SOR/82-566, s. 2; SOR/82-1071, s. 17; SOR/84-302, s. 4; SOR/84-762, ss. 8, 9; SOR/84-801, s. 4; SOR/86-89, ss. 4 to 6; SOR/86-1112, s. 4; SOR/87-254, s. 2; SOR/87-640, s. 7; SOR/88-281, s. 1; SOR/90-24, ss. 1 to 3; SOR/90-87, ss. 10 to 12; SOR/90-469, s. 3; SOR/91-124, s. 5(F); SOR/91-487, s. 1; SOR/91-691, s. 1; SOR/92-63, s. 4; SOR/92-94, s. 4; SOR/92-195, s. 1; SOR/92-197, s. 9; SOR/92-231, s. 1; SOR/92-518, s. 1; SOR/92-591, s. 2(F); SOR/94-29, s. 1; SOR/94-182, s. 1; SOR/94-212, s. 9; SOR/94-417, s. 2; SOR/94-552, s. 1; SOR/94-689, s. 2; SOR/94-712, s. 1; SOR/95-65, s. 1; SOR/95-183, s. 9; SOR/95-525, ss. 1, 2; SOR/96-375, s. 1; SOR/97-81, s. 1; SOR/97-82, s. 1; SOR/97-122, ss. 4(F), 5;SOR/97-508, ss. 1, 2; SOR/97-513, s. 1; SOR/97-558, s. 4; SOR/98-454, s. 1; SOR/98-458, ss. 6, 7(F); SOR/2000-336, ss. 3 to 5; SOR/2000-417, s. 4; SOR/2003-130, s. 4; SOR/2004-84, s. 1; SOR/2005-98, ss. 4 to 7, 8(F); SOR/2005-394, ss. 1 to 6; SOR/2007-225, s. 1; SOR/2010-41, ss. 1 to 6, 9(E); SOR/2010-42, ss. 1 to 4; SOR/2010-94, s. 8(E); SOR/2010-142, s. 17; SOR/2010-143, ss. 14 to 26; SOR/2012-26, s. 4; SOR/2012-45, s. 1; SOR/2012-46, s. 4; SOR/2012-104, ss. 10, 21..
+> SOR/78-402, s. 6; SOR/78-876, s. 3; SOR/79-662, ss. 14 to 17; SOR/80-501, s. 4; SOR/80-632, s. 5; SOR/81-60, s. 11; SOR/81-934, ss. 7 to 10; SOR/82-383, s. 10; SOR/82-566, s. 2; SOR/82-1071, s. 17; SOR/84-302, s. 4; SOR/84-762, ss. 8, 9; SOR/84-801, s. 4; SOR/86-89, ss. 4 to 6; SOR/86-1112, s. 4; SOR/87-254, s. 2; SOR/87-640, s. 7; SOR/88-281, s. 1; SOR/90-24, ss. 1 to 3; SOR/90-87, ss. 10 to 12; SOR/90-469, s. 3; SOR/91-124, s. 5(F); SOR/91-487, s. 1; SOR/91-691, s. 1; SOR/92-63, s. 4; SOR/92-94, s. 4; SOR/92-195, s. 1; SOR/92-197, s. 9; SOR/92-231, s. 1; SOR/92-518, s. 1; SOR/92-591, s. 2(F); SOR/94-29, s. 1; SOR/94-182, s. 1; SOR/94-212, s. 9; SOR/94-417, s. 2; SOR/94-552, s. 1; SOR/94-689, s. 2; SOR/94-712, s. 1; SOR/95-65, s. 1; SOR/95-183, s. 9; SOR/95-525, ss. 1, 2; SOR/96-375, s. 1; SOR/97-81, s. 1; SOR/97-82, s. 1; SOR/97-122, ss. 4(F), 5;SOR/97-508, ss. 1, 2; SOR/97-513, s. 1; SOR/97-558, s. 4; SOR/98-454, s. 1; SOR/98-458, ss. 6, 7(F); SOR/2000-336, ss. 3 to 5; SOR/2000-417, s. 4; SOR/2003-130, s. 4; SOR/2004-84, s. 1; SOR/2005-98, ss. 4 to 7, 8(F); SOR/2005-394, ss. 1 to 6; SOR/2007-225, s. 1; SOR/2010-41, ss. 1 to 6, 9(E); SOR/2010-42, ss. 1 to 4; SOR/2010-94, s. 8(E); SOR/2010-142, s. 17; SOR/2010-143, ss. 14 to 26; SOR/2012-26, s. 4; SOR/2012-45, s. 1; SOR/2012-46, s. 4; SOR/2012-104, ss. 10, 21.
 
 
 
@@ -16090,7 +16090,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 </table>
 
-> SOR/78-402, s. 7; SOR/79-660, ss. 11, 12; SOR/79-752, s. 7; SOR/93-445, s. 1; SOR/94-689, s. 2(F); SOR/2007-302, s. 4(F); SOR/2010-94, s. 8(E); SOR/2012-43, ss. 29, 30..
+> SOR/78-402, s. 7; SOR/79-660, ss. 11, 12; SOR/79-752, s. 7; SOR/93-445, s. 1; SOR/94-689, s. 2(F); SOR/2007-302, s. 4(F); SOR/2010-94, s. 8(E); SOR/2012-43, ss. 29, 30.
 
 
 
@@ -16186,7 +16186,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 </table>
 
-> SOR/94-689, s. 2(F); SOR/2010-142, ss. 18 to 29..
+> SOR/94-689, s. 2(F); SOR/2010-142, ss. 18 to 29.
 
 
 
@@ -16601,10 +16601,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 <tr>
 <td>E.2</td>
-<td>Ethylene Oxide</td>
-<td>Whole or ground spice (except mixtures containing salt)</td>
-<td>Fumigation</td>
-<td>G.M.P. (Residues of ethylene chlorohydrin not to exceed 1,500 p.p.m.)</td>
+<td>[Repealed, SOR/2016-143, s. 1]</td>
 </tr>
 <tr>
 <td>F.1</td>
@@ -17397,7 +17394,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 </table>
 
-> SOR/78-401, s. 3; SOR/78-403, ss. 23 to 25; SOR/78-876, s. 4; SOR/79-660, s. 13; SOR/79-752, s. 8; SOR/80-632, ss. 6 to 13; SOR/81-83, s. 4; SOR/81-617, s. 3; SOR/81-934, ss. 11, 12; SOR/82-566, ss. 3, 4; SOR/82-1071, ss. 18 to 20; SOR/83-410, s. 3; SOR/83-584, s. 1; SOR/83-932, ss. 5, 6; SOR/84-17, s. 6; SOR/84-441, s. 1; SOR/84-602, s. 3; SOR/84-762, s. 10; SOR/84-801, ss. 5, 6; SOR/86-1112, s. 5; SOR/86-1125, s. 2; SOR/87-469, s. 1; SOR/87-640, s. 8; SOR/88-419, s. 4; SOR/88-534, ss. 5, 6; SOR/89-175, s. 2; SOR/89-197, s. 1; SOR/89-198, s. 11; SOR/89-555, ss. 2, 3; SOR/91-90, s. 2; SOR/91-124, ss. 6 to 9; SOR/91-149, s. 3; SOR/91-186, s. 1; SOR/91-409, s. 7; SOR/91-527, s. 4; SOR/92-229, s. 1; SOR/92-344, ss. 2 to 4; SOR/93-276, ss. 4 to 11; SOR/94-416, s. 1; SOR/94-227, ss. 5 to 10; SOR/94-689, s. 2(F); SOR/94-723, s. 1; SOR/96-260, s. 1; SOR/96-378, s. 1;SOR/97-509, s. 1; SOR/98-580, s. 1(F); SOR/99-97, s. 1; SOR/99-420, s. 11(F); SOR/2000-353, s. 8(F); SOR/2001-94, s. 3; SOR/2005-316, ss. 2(F), 3; SOR/2006-91, ss. 6 to 12; SOR/2007-75, s. 7; SOR/2010-41, s. 9(E); SOR/2010-94, s. 8(E); SOR/2010-142, ss. 30(F), 31 to 39, 40(F), 41 to 45, 46(F), 47 to 51, 59(F); SOR/2010-143, ss. 27 to 31; SOR/2011-235, s. 16(F); SOR/2011-279, s. 1; SOR/2011-282, s. 2; SOR/2012-43, s. 31(F); SOR/2012-44, ss. 1, 2; SOR/2012-105, s. 1; SOR/2012-111, ss. 2, 3..
+> SOR/78-401, s. 3; SOR/78-403, ss. 23 to 25; SOR/78-876, s. 4; SOR/79-660, s. 13; SOR/79-752, s. 8; SOR/80-632, ss. 6 to 13; SOR/81-83, s. 4; SOR/81-617, s. 3; SOR/81-934, ss. 11, 12; SOR/82-566, ss. 3, 4; SOR/82-1071, ss. 18 to 20; SOR/83-410, s. 3; SOR/83-584, s. 1; SOR/83-932, ss. 5, 6; SOR/84-17, s. 6; SOR/84-441, s. 1; SOR/84-602, s. 3; SOR/84-762, s. 10; SOR/84-801, ss. 5, 6; SOR/86-1112, s. 5; SOR/86-1125, s. 2; SOR/87-469, s. 1; SOR/87-640, s. 8; SOR/88-419, s. 4; SOR/88-534, ss. 5, 6; SOR/89-175, s. 2; SOR/89-197, s. 1; SOR/89-198, s. 11; SOR/89-555, ss. 2, 3; SOR/91-90, s. 2; SOR/91-124, ss. 6 to 9; SOR/91-149, s. 3; SOR/91-186, s. 1; SOR/91-409, s. 7; SOR/91-527, s. 4; SOR/92-229, s. 1; SOR/92-344, ss. 2 to 4; SOR/93-276, ss. 4 to 11; SOR/94-416, s. 1; SOR/94-227, ss. 5 to 10; SOR/94-689, s. 2(F); SOR/94-723, s. 1; SOR/96-260, s. 1; SOR/96-378, s. 1;SOR/97-509, s. 1; SOR/98-580, s. 1(F); SOR/99-97, s. 1; SOR/99-420, s. 11(F); SOR/2000-353, s. 8(F); SOR/2001-94, s. 3; SOR/2005-316, ss. 2(F), 3; SOR/2006-91, ss. 6 to 12; SOR/2007-75, s. 7; SOR/2010-41, s. 9(E); SOR/2010-94, s. 8(E); SOR/2010-142, ss. 30(F), 31 to 39, 40(F), 41 to 45, 46(F), 47 to 51, 59(F); SOR/2010-143, ss. 27 to 31; SOR/2011-235, s. 16(F); SOR/2011-279, s. 1; SOR/2011-282, s. 2; SOR/2012-43, s. 31(F); SOR/2012-44, ss. 1, 2; SOR/2012-105, s. 1; SOR/2012-111, ss. 2, 3; SOR/2016-143, s. 1.
 
 
 
@@ -17717,7 +17714,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 </table>
 
-> SOR/93-276, s. 12; SOR/94-625, s. 5; SOR/94-689, s. 2(F); SOR/94-779, s. 3; SOR/97-512, ss. 3, 4; SOR/2004-261, s. 2; SOR/2007-76, s. 3; SOR/2007-176, s. 7; SOR/2010-142, ss. 52 to 55; SOR/2012-104, ss. 11 to 15..
+> SOR/93-276, s. 12; SOR/94-625, s. 5; SOR/94-689, s. 2(F); SOR/94-779, s. 3; SOR/97-512, ss. 3, 4; SOR/2004-261, s. 2; SOR/2007-76, s. 3; SOR/2007-176, s. 7; SOR/2010-142, ss. 52 to 55; SOR/2012-104, ss. 11 to 15.
 
 
 
@@ -18641,7 +18638,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 </table>
 
-> SOR/78-874, s. 4; SOR/79-660, ss. 14 to 17; SOR/79-664, ss. 3 to 13; SOR/79-752, s. 9; SOR/80-501, s. 4; SOR/86-1112, ss. 6 to 8; SOR/92-106, s. 1; SOR/92-344, s. 5; SOR/94-689, s. 2(F); SOR/95-281, ss. 2 to 5; SOR/95-436, ss. 2, 3; SOR/97-263, ss. 11 to 25; SOR/97-561, s. 3; SOR/98-580, s. 1(F); SOR/2001-94, s. 3; SOR/2006-91, ss. 13 to 20; SOR/2007-75, s. 8; SOR/2010-41, s. 9(E); SOR/2010-94, s. 8(E); SOR/2010-142, s. 56; SOR/2010-143, ss. 32 to 36; SOR/2012-43, ss. 32 to 34, 35(F), 36; SOR/2012-103, ss. 1(F), 2..
+> SOR/78-874, s. 4; SOR/79-660, ss. 14 to 17; SOR/79-664, ss. 3 to 13; SOR/79-752, s. 9; SOR/80-501, s. 4; SOR/86-1112, ss. 6 to 8; SOR/92-106, s. 1; SOR/92-344, s. 5; SOR/94-689, s. 2(F); SOR/95-281, ss. 2 to 5; SOR/95-436, ss. 2, 3; SOR/97-263, ss. 11 to 25; SOR/97-561, s. 3; SOR/98-580, s. 1(F); SOR/2001-94, s. 3; SOR/2006-91, ss. 13 to 20; SOR/2007-75, s. 8; SOR/2010-41, s. 9(E); SOR/2010-94, s. 8(E); SOR/2010-142, s. 56; SOR/2010-143, ss. 32 to 36; SOR/2012-43, ss. 32 to 34, 35(F), 36; SOR/2012-103, ss. 1(F), 2.
 
 
 
@@ -19830,7 +19827,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 </table>
 
-> SOR/79-285, ss. 1 to 4; SOR/79-660, s. 18; SOR/79-752, s. 10;  SOR/80-500, s. 7; SOR/81-565, s. 6; SOR/81-934, ss. 13 to 15; SOR/82-383, s. 11; SOR/86-89, s. 7; SOR/86-1020, s. 1; SOR/87-138, ss. 1, 2; SOR/87-469, s. 2; SOR/89-198, ss. 12 to 16; SOR/91-124, ss. 10 to 12; SOR/92-226, s. 1; SOR/92-591, s. 2(F); SOR/94-689, s. 2(F); SOR/95-592, s. 1; SOR/96-241, s. 2; SOR/97-148, s. 7; SOR/97-191, s. 4; SOR/98-459, s. 1; SOR/99-289, ss. 1 to 4; SOR/2003-156, s. 1; SOR/2005-316, ss. 4 to 6; SOR/2010-94, s. 8(E); SOR/2010-141, ss. 1, 2; SOR/2010-264, s. 4; SOR/2011-235, ss. 7 to 13, 16(F); SOR/2011-280, ss. 7, 8; SOR/2012-43, ss. 37 to 42; SOR/2012-104, ss. 16(F), 17, 18..
+> SOR/79-285, ss. 1 to 4; SOR/79-660, s. 18; SOR/79-752, s. 10;  SOR/80-500, s. 7; SOR/81-565, s. 6; SOR/81-934, ss. 13 to 15; SOR/82-383, s. 11; SOR/86-89, s. 7; SOR/86-1020, s. 1; SOR/87-138, ss. 1, 2; SOR/87-469, s. 2; SOR/89-198, ss. 12 to 16; SOR/91-124, ss. 10 to 12; SOR/92-226, s. 1; SOR/92-591, s. 2(F); SOR/94-689, s. 2(F); SOR/95-592, s. 1; SOR/96-241, s. 2; SOR/97-148, s. 7; SOR/97-191, s. 4; SOR/98-459, s. 1; SOR/99-289, ss. 1 to 4; SOR/2003-156, s. 1; SOR/2005-316, ss. 4 to 6; SOR/2010-94, s. 8(E); SOR/2010-141, ss. 1, 2; SOR/2010-264, s. 4; SOR/2011-235, ss. 7 to 13, 16(F); SOR/2011-280, ss. 7, 8; SOR/2012-43, ss. 37 to 42; SOR/2012-104, ss. 16(F), 17, 18.
 
 
 
@@ -20198,7 +20195,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 </table>
 
-> SOR/79-660, ss. 19, 20; SOR/80-501, s. 4; SOR/82-596, ss. 4 to 9; SOR/94-141, s. 1; SOR/94-262, ss. 4 to 12; SOR/94-689, s. 2; SOR/95-435, s. 2; SOR/97-30, s. 1; SOR/97-562, s. 1; SOR/580, s. 1(F); SOR/2005-316, ss. 7 to 11; SOR/2010-40, s. 2; SOR/2010-142, ss. 57, 58; SOR/2010-143, ss. 37(F), 38; SOR/2011-235, s. 14; SOR/2012-43, ss. 43 to 45; SOR/2012-104, s. 19(F); SOR/2012-112, s. 1..
+> SOR/79-660, ss. 19, 20; SOR/80-501, s. 4; SOR/82-596, ss. 4 to 9; SOR/94-141, s. 1; SOR/94-262, ss. 4 to 12; SOR/94-689, s. 2; SOR/95-435, s. 2; SOR/97-30, s. 1; SOR/97-562, s. 1; SOR/580, s. 1(F); SOR/2005-316, ss. 7 to 11; SOR/2010-40, s. 2; SOR/2010-142, ss. 57, 58; SOR/2010-143, ss. 37(F), 38; SOR/2011-235, s. 14; SOR/2012-43, ss. 43 to 45; SOR/2012-104, s. 19(F); SOR/2012-112, s. 1.
 
 
 
@@ -20236,9 +20233,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 <tr>
 <td>E.1</td>
-<td>Epichlorhydrin</td>
-<td>Starch</td>
-<td>Good Manufacturing Practice</td>
+<td>[Repealed, SOR/2016-143, s. 2]</td>
 </tr>
 <tr>
 <td>H.1</td>
@@ -20356,7 +20351,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 </table>
 
-> SOR/94-689, s. 2(F); SOR/2012-106, s. 2..
+> SOR/94-689, s. 2(F); SOR/2012-106, s. 2; SOR/2016-143, s. 2.
 
 
 
@@ -20568,7 +20563,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 </table>
 
-> SOR/87-5, s. 1; SOR/94-689, s. 2(F); SOR/95-281, ss. 6, 7; SOR/2010-41, ss. 7(E), 9(E)..
+> SOR/87-5, s. 1; SOR/94-689, s. 2(F); SOR/95-281, ss. 6, 7; SOR/2010-41, ss. 7(E), 9(E).
 
 
 
@@ -20892,10 +20887,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 <tr>
 <td>18</td>
-<td>2-Nitropropane</td>
-<td>Vegetable oils</td>
-<td>0.5 p.p.m.</td>
-<td></td>
+<td>[Repealed, SOR/2016-143, s. 3]</td>
 </tr>
 <tr>
 <td>19</td>
@@ -20940,7 +20932,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 </table>
 
-> SOR/78-403, ss. 26, 27; SOR/82-383, s. 12; SOR/82-406, s. 1; SOR/82-913, s. 5; SOR/82-1071, ss. 21, 22; SOR/84-541, s. 1; SOR/86-89, ss. 8, 9; SOR/86-178, ss. 4 to 7; SOR/86-1112, s. 9; SOR/90-667, s. 1; SOR/94-689, s. 2; SOR/96-259, s. 1; SOR/96-377, s. 1; SOR/2011-235, s. 15.
+> SOR/78-403, ss. 26, 27; SOR/82-383, s. 12; SOR/82-406, s. 1; SOR/82-913, s. 5; SOR/82-1071, ss. 21, 22; SOR/84-541, s. 1; SOR/86-89, ss. 8, 9; SOR/86-178, ss. 4 to 7; SOR/86-1112, s. 9; SOR/90-667, s. 1; SOR/94-689, s. 2; SOR/96-259, s. 1; SOR/96-377, s. 1; SOR/2011-235, s. 15; SOR/2016-143, s. 3.
 
 
 
