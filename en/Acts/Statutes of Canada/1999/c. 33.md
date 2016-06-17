@@ -8075,7 +8075,8 @@ For molecular formulae in this schedule, “n” = number of atoms.
 - **130** Compounds that consist of a perfluorinated alkyl group that has the molecular formula C<sub>n</sub>F<sub>2n+1</sub> in which n = 7 or 8 and that is directly bonded to any chemical moiety other than a fluorine, chlorine or bromine atom
 - **131** Perfluorocarboxylic acids that have the molecular formula C<sub>n</sub>F<sub>2n+1</sub>CO<sub>2</sub>H in which 8 ≤ n ≤ 20 and their salts
 - **132** Compounds that consist of a perfluorinated alkyl group that has the molecular formula C<sub>n</sub>F<sub>2n+1</sub> in which 8 ≤ n ≤ 20 and that is directly bonded to any chemical moiety other than a fluorine, chlorine or bromine atom
-> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194, 210; SOR/2011-25, 26, 34, 35, 140, 212, 286, 287; SOR/2012-40, 186, 187, 189, 219, 235; SOR/2013-188; SOR/2016-120.
+- **133** Plastic microbeads that are ≤ 5 mm in size
+> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194, 210; SOR/2011-25, 26, 34, 35, 140, 212, 286, 287; SOR/2012-40, 186, 187, 189, 219, 235; SOR/2013-188; SOR/2016-120, 150.
 
 
 
