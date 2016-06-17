@@ -181,7 +181,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Imposition du droit**
 
-**10** 
+<sup><a href='#nbp_Ind9625_hq_17475'>[*]</a></sup>**10** 
 
 - **(1)** Sous réserve des exclusions prévues au paragraphe 11(1), quiconque exporte tout produit de bois d’oeuvre aux États-Unis après le 11 octobre 2006 est tenu de payer à Sa Majesté du chef du Canada le droit déterminé sous le régime de la présente loi relativement à cette exportation.
 
@@ -189,12 +189,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Le droit devient exigible au moment où le produit de bois d’oeuvre est exporté.
 
+<a name='nbp_Ind9625_hq_17475'><sup>*</sup></a>: [Note : L’article 10 de la Loi de 2006 sur les droits d’exportation de produits de bois d’oeuvre cesse d’avoir effet le 12 octobre 2015, *voir* DORS/2016-155.]<br />
+
 
 
 
 **Exclusions**
 
-**11** 
+<sup><a href='#nbp_Ind5973_hq_17476'>[*]</a></sup>**11** 
 
 - **(1)** Les exportations de produits de bois d’oeuvre ci-après sont exclues de l’application de l’article 10 :
 	- **a)** les exportations en provenance de la Nouvelle-Écosse, du Nouveau-Brunswick, de l’Île-du-Prince-Édouard ou de Terre-Neuve-et-Labrador;
@@ -209,12 +211,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** Le produit de bois d’oeuvre exporté est réputé être exporté du Yukon, des Territoires du Nord-Ouest ou du Nunavut s’il y subit, pour la première fois, une première transformation et que les grumes de sciage de résineux proviennent de l’un de ces territoires.
 
+<a name='nbp_Ind5973_hq_17476'><sup>*</sup></a>: [Note : L’article 11 de la Loi de 2006 sur les droits d’exportation de produits de bois d’oeuvre cesse d’avoir effet le 12 octobre 2015, *voir* DORS/2016-155.]<br />
+
 
 
 
 **Exportation d’une région**
 
-**12** 
+<sup><a href='#nbp_IndA591_hq_17477'>[*]</a></sup>**12** 
 
 - **(1)** Dans le cas où le produit de bois d’oeuvre est exporté d’une région au cours d’un mois donné, le droit relatif à cette exportation est égal au produit du taux applicable pour le mois prévu par la présente loi par le prix à l’exportation du produit de bois d’oeuvre déterminé selon l’article 13.
 
@@ -249,6 +253,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Arrondissement**
 
 - **(7)** Le prix de référence est arrondi au dollar supérieur dans le cas où la somme comporte une fraction égale ou supérieure à cinquante cents et, dans le cas contraire, au dollar inférieur.
+
+<a name='nbp_IndA591_hq_17477'><sup>*</sup></a>: [Note : L’article 12 de la Loi de 2006 sur les droits d’exportation de produits de bois d’oeuvre cesse d’avoir effet le 12 octobre 2015, *voir* DORS/2016-155.]<br />
 > 2006, ch. 13, art. 12; 2010, ch. 12, art. 99; 2011, ch. 24, art. 104.
 
 
@@ -281,15 +287,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Définitions**
 
-**13** 
+<sup><a href='#nbp_IndFEAA_hq_17479'>[*]</a></sup>**13** 
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***entreprise indépendante de seconde transformation*** Personne titulaire d’un agrément délivré au titre de l’article 25.
+***entreprise indépendante de seconde transformation*** Personne titulaire d’un agrément délivré au titre de l’article 25. (*independent remanufacturer*)
 
-***seconde transformation*** Transformation du produit de bois d’oeuvre en produit fini ou semi-fini, notamment par la modification de l’épaisseur, de la largeur, de la longueur, de la coupe, de la texture, du niveau d’humidité ou de la qualité, l’assemblage par aboutage ou le tournage.
+***seconde transformation*** Transformation du produit de bois d’oeuvre en produit fini ou semi-fini, notamment par la modification de l’épaisseur, de la largeur, de la longueur, de la coupe, de la texture, du niveau d’humidité ou de la qualité, l’assemblage par aboutage ou le tournage. (*remanufactured*)
 
-***valeur franco à bord*** La valeur des frais que doit acquitter l’acheteur, y compris les frais engagés pour charger l’expédition sur le moyen de transport, à l’exclusion des frais réels de transport et de toute somme exigée au titre du droit prévu à l’article 10.
+***valeur franco à bord*** La valeur des frais que doit acquitter l’acheteur, y compris les frais engagés pour charger l’expédition sur le moyen de transport, à l’exclusion des frais réels de transport et de toute somme exigée au titre du droit prévu à l’article 10. (*FOB value*)
 
 **Prix à l’exportation**
 
@@ -307,12 +313,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** Pour l’application du paragraphe (2), le taux de change applicable pour déterminer le prix à l’exportation équivalent en dollars canadiens est celui affiché à midi, à la Banque du Canada, la veille du jour où le droit prévu à l’article 10 devient exigible.
 
+<a name='nbp_IndFEAA_hq_17479'><sup>*</sup></a>: [Note : L’article 13 de la Loi de 2006 sur les droits d’exportation de produits de bois d’oeuvre cesse d’avoir effet le 12 octobre 2015, *voir* DORS/2016-155.]<br />
+
 
 
 
 **Mécanisme en cas de déclenchement**
 
-**14** 
+<sup><a href='#nbp_IndD403_hq_17480'>[*]</a></sup>**14** 
 
 - **(1)** Le droit relatif à toute exportation de produit de bois d’oeuvre d’une région au cours d’un mois est majoré de 50 % si, à la fois :
 	- **a)** l’exportation peut être faite sans qu’une autorisation d’exportation soit délivrée en vertu de l’alinéa 6.3(3)b) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md);
@@ -365,6 +373,8 @@ où :
 - **k)** s’agissant de novembre, au quotient de 0,8466 par 0,9435,
 - **l)** s’agissant de décembre, au quotient de 0,8746 par 0,8930;
 - **C** représente l’excédent éventuel du volume des exportations de produits de bois d’oeuvre de la région au cours du mois précédent sur le volume de déclenchement mensuel de la région pour le mois précédent, si cet excédent est de 1 % ou moins du volume de déclenchement mensuel de la région pour le mois précédent.
+
+<a name='nbp_IndD403_hq_17480'><sup>*</sup></a>: [Note : L’article 14 de la Loi de 2006 sur les droits d’exportation de produits de bois d’oeuvre cesse d’avoir effet le 12 octobre 2015, *voir* DORS/2016-155.]<br />
 > 2006, ch. 13, art. 14; 2010, ch. 12, art. 101; 2011, ch. 24, art. 106.
 
 
@@ -373,7 +383,7 @@ où :
 
 **Droit**
 
-**15** 
+<sup><a href='#nbp_IndC015_hq_17481'>[*]</a></sup>**15** 
 
 - **(1)** Si, au cours d’un trimestre donné, les exportations totales de produits de bois d’oeuvre en provenance de la Nouvelle-Écosse, du Nouveau-Brunswick, de l’Île-du-Prince-Édouard et de Terre-Neuve-et-Labrador, compte tenu du paragraphe 11(2), excèdent la somme de la production totale, pour ce trimestre, et de l’inventaire, au début de celui-ci, de produits de bois d’oeuvre qui y ont subi, pour la première fois, une première transformation à partir de grumes de sciage de résineux provenant de l’une de ces provinces ou de l’État du Maine, chaque personne responsable des exportations excédentaires déterminées selon le paragraphe (2) est tenue de payer à Sa Majesté du chef du Canada, à l’égard de celles-ci, un droit égal à 200 $ par millier de pieds-planche de produits de bois d’oeuvre exportés.
 
@@ -384,6 +394,8 @@ où :
 **Exportations excédentaires**
 
 - **(2)** Les exportations excédentaires d’une personne correspondent à l’excédent de ses exportations au cours d’un trimestre donné sur la somme de sa production totale, pour ce trimestre, et de son inventaire, au début de celui-ci, de produits de bois d’oeuvre qui ont subi pour la première fois, en Nouvelle-Écosse, au Nouveau-Brunswick, à l’Île-du-Prince-Édouard ou à Terre-Neuve-et-Labrador, une première transformation à partir de grumes de sciage de résineux provenant de l’une de ces provinces ou de l’État du Maine.
+
+<a name='nbp_IndC015_hq_17481'><sup>*</sup></a>: [Note : L’article 15 de la Loi de 2006 sur les droits d’exportation de produits de bois d’oeuvre cesse d’avoir effet le 12 octobre 2015, *voir* DORS/2016-155.]<br />
 
 
 
