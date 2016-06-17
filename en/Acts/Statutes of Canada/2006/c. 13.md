@@ -186,7 +186,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Charge imposed**
 
-**10** 
+<sup><a href='#fn_Ind322F_hq_18621'>[*]</a></sup>**10** 
 
 - **(1)** Subject to the exclusions provided for in subsection 11(1), every person who exports a softwood lumber product to the United States after October 11, 2006, shall pay to Her Majesty in right of Canada a charge as determined under this Act in respect of the export.
 
@@ -194,12 +194,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** The charge becomes payable at the time that the softwood lumber product is exported.
 
+<a name='fn_Ind322F_hq_18621'><sup>*</sup></a>: [Note: Section 10 of the Softwood Lumber Products Export Charge Act, 2006 ceases to be in force on October 12, 2015, *see* SOR/2016-155.]<br />
+
 
 
 
 **Exclusions**
 
-**11** 
+<sup><a href='#fn_Ind17E8_hq_18622'>[*]</a></sup>**11** 
 
 - **(1)** The following exports of softwood lumber products are excluded from the charge referred to in section 10:
 	- **(a)** exports from Nova Scotia, New Brunswick, Prince Edward Island or Newfoundland and Labrador;
@@ -214,12 +216,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(3)** An exported softwood lumber product is deemed to be exported from Yukon, the Northwest Territories or Nunavut if the product underwent its first primary processing in one of those territories from softwood sawlogs originating in one of those territories.
 
+<a name='fn_Ind17E8_hq_18622'><sup>*</sup></a>: [Note: Section 11 of the Softwood Lumber Products Export Charge Act, 2006 ceases to be in force on October 12, 2015, *see* SOR/2016-155.]<br />
+
 
 
 
 **Export from a region**
 
-**12** 
+<sup><a href='#fn_Ind10C7_hq_18623'>[*]</a></sup>**12** 
 
 - **(1)** If a softwood lumber product is exported from a region in a particular month, the amount of the charge in respect of that export is the amount calculated by applying the rate applicable for the month under this Act to the export price of the product as determined in accordance with section 13.
 
@@ -254,6 +258,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Rounding**
 
 - **(7)** Each reference price shall be rounded to the nearest multiple of one dollar or, if the amount is equidistant from two multiples of one dollar, to the higher multiple.
+
+<a name='fn_Ind10C7_hq_18623'><sup>*</sup></a>: [Note: Section 12 of the Softwood Lumber Products Export Charge Act, 2006 ceases to be in force on October 12, 2015, *see* SOR/2016-155.]<br />
 > 2006, c. 13, s. 12; 2010, c. 12, s. 99; 2011, c. 24, s. 104.
 
 
@@ -286,15 +292,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Definitions**
 
-**13** 
+<sup><a href='#fn_Ind9531_hq_18624'>[*]</a></sup>**13** 
 
 - **(1)** The following definitions apply in this section.
 
-***FOB value*** means a value consisting of all costs payable by a purchaser, including those incurred in the placement aboard the conveyance for shipment, but not including the actual shipping costs and the amount of a charge payable under section 10.
+***FOB value*** means a value consisting of all costs payable by a purchaser, including those incurred in the placement aboard the conveyance for shipment, but not including the actual shipping costs and the amount of a charge payable under section 10. (*valeur franco à bord*)
 
-***independent remanufacturer*** means a person who is certified under section 25.
+***independent remanufacturer*** means a person who is certified under section 25. (*entreprise indépendante de seconde transformation*)
 
-***remanufactured*** means, in relation to a softwood lumber product, that the softwood lumber product, in order to produce a semi-finished or finished softwood lumber product, has been subjected to changes including changes in thickness, width, length, profile, texture, moisture or grading, has been joined together by finger jointing or has been turned.
+***remanufactured*** means, in relation to a softwood lumber product, that the softwood lumber product, in order to produce a semi-finished or finished softwood lumber product, has been subjected to changes including changes in thickness, width, length, profile, texture, moisture or grading, has been joined together by finger jointing or has been turned. (*seconde transformation*)
 
 **Export price**
 
@@ -312,12 +318,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(3)** For the purposes of subsection (2), the rate of exchange in order to determine the export price in Canadian dollars of a softwood lumber product is the rate of exchange as quoted by the Bank of Canada at noon on the day before the day on which the charge referred to in section 10 becomes payable.
 
+<a name='fn_Ind9531_hq_18624'><sup>*</sup></a>: [Note: Section 13 of the Softwood Lumber Products Export Charge Act, 2006 ceases to be in force on October 12, 2015, *see* SOR/2016-155.]<br />
+
 
 
 
 **Surge mechanism**
 
-**14** 
+<sup><a href='#fn_Ind9F25_hq_18625'>[*]</a></sup>**14** 
 
 - **(1)** The amount of the charge applicable to an export of a softwood lumber product from a region during a month is increased by 50% if
 	- **(a)** the export is one that does not require an export allocation under paragraph 6.3(3)(b) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md); and
@@ -370,6 +378,8 @@ where
 - **(k)** in respect of November, the quotient obtained by dividing 0.8466 by 0.9435, and
 - **(l)** in respect of December, the quotient obtained by dividing 0.8746 by 0.8930; and
 - **C** is the amount by which the exports from the region of softwood lumber products during the previous month exceeded the trigger volume for the region for the previous month, if those exports exceeded the trigger volume for the previous month by 1% or less of that trigger volume.
+
+<a name='fn_Ind9F25_hq_18625'><sup>*</sup></a>: [Note: Section 14 of the Softwood Lumber Products Export Charge Act, 2006 ceases to be in force on October 12, 2015, *see* SOR/2016-155.]<br />
 > 2006, c. 13, s. 14; 2010, c. 12, s. 101; 2011, c. 24, s. 106.
 
 
@@ -378,7 +388,7 @@ where
 
 **Charge**
 
-**15** 
+<sup><a href='#fn_Ind4F59_hq_18626'>[*]</a></sup>**15** 
 
 - **(1)** If, during a particular calendar quarter, total exports of softwood lumber products from Nova Scotia, New Brunswick, Prince Edward Island and Newfoundland and Labrador, as provided in subsection 11(2), exceed the aggregate sum of total production in that calendar quarter and total inventory at the beginning of that calendar quarter, of softwood lumber products that underwent their first primary processing in one of those provinces from softwood sawlogs originating in one of those provinces or in the State of Maine, each person responsible for excess exports as determined under subsection (2) shall pay to Her Majesty in right of Canada a charge calculated by applying $200 per thousand board feet of exported lumber products to that person’s excess exports.
 
@@ -389,6 +399,8 @@ where
 **Excess exports**
 
 - **(2)** A person’s excess exports shall equal the amount by which its exports exceed in a particular calendar quarter the sum of the person’s total production in that calendar quarter and total inventory at the beginning of that calendar quarter of softwood products that underwent their first primary processing in New Brunswick, Nova Scotia, Prince Edward Island or Newfoundland and Labrador from softwood sawlogs originating in one of those provinces or in the State of Maine.
+
+<a name='fn_Ind4F59_hq_18626'><sup>*</sup></a>: [Note: Section 15 of the Softwood Lumber Products Export Charge Act, 2006 ceases to be in force on October 12, 2015, *see* SOR/2016-155.]<br />
 
 
 
