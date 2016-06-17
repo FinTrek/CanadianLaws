@@ -41,64 +41,66 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***aggravated by service***, in respect of an injury or a disease, means an injury or a disease that has been aggravated, if the aggravation
 - **(a)** was attributable to or was incurred during special duty service; or
-- **(b)** arose out of or was directly connected with service in the Canadian Forces.
+- **(b)** arose out of or was directly connected with service in the Canadian Forces. (*due au service*)
 
-***Board*** means the Veterans Review and Appeal Board established by section 4 of the [Veterans Review and Appeal Board Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2018.md).
+***Board*** means the Veterans Review and Appeal Board established by section 4 of the [Veterans Review and Appeal Board Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2018.md). (*Tribunal*)
 
-***Canadian Forces*** means the armed forces referred to in section 14 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), and includes any predecessor naval, army or air forces of Canada or Newfoundland.
+***Canadian Forces*** means the armed forces referred to in section 14 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), and includes any predecessor naval, army or air forces of Canada or Newfoundland. (*Forces canadiennes*)
 
-***common-law partner***, in relation to a member or a veteran, means a person who is cohabiting with the member or veteran in a conjugal relationship, having so cohabited for a period of at least one year. 
+***common-law partner***, in relation to a member or a veteran, means a person who is cohabiting with the member or veteran in a conjugal relationship, having so cohabited for a period of at least one year. (*conjoint de fait*)
 
-***compensation*** means any of the following benefits under this Act, namely, an earnings loss benefit, a supplementary retirement benefit, a Canadian Forces income support benefit, a permanent impairment allowance, a retirement income security benefit, a critical injury benefit, a disability award, a death benefit, a clothing allowance, a detention benefit or a family caregiver relief benefit.
+***compensation*** means any of the following benefits under this Act, namely, an earnings loss benefit, a supplementary retirement benefit, a Canadian Forces income support benefit, a permanent impairment allowance, a retirement income security benefit, a critical injury benefit, a disability award, a death benefit, a clothing allowance, a detention benefit or a family caregiver relief benefit. (*indemnisation*)
 
 ***dependent child***, in relation to a member or a veteran, means their child, or a child of their spouse or common-law partner who is ordinarily residing in the member’s or veteran’s household, who is 
 - **(a)** under the age of 18 years;
 - **(b)** under the age of 25 years and following a course of instruction approved by the Minister; or
 - **(c)** over the age of 18 years and prevented by physical or mental incapacity from earning a livelihood, if the incapacity occurred
 	- **(i)** before the child attained the age of 18 years, or
-	- **(ii)** after the age of 18 years and before the age of 25 years while the child was following a course of instruction approved by the Minister.
+	- **(ii)** after the age of 18 years and before the age of 25 years while the child was following a course of instruction approved by the Minister. (*enfant à charge*)
 
-***disability*** means the loss or lessening of the power to will and to do any normal mental or physical act.
+***disability*** means the loss or lessening of the power to will and to do any normal mental or physical act. (*invalidité*)
 
-***medical rehabilitation*** includes any physical or psychological treatment whose object is to stabilize and restore the basic physical and psychological functions of a person.
+***medical assistance in dying*** has the same meaning as in section 241.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). (*aide médicale à mourir*)
 
-***member*** means an officer or a non-commissioned member of the Canadian Forces, as those terms are defined in subsection 2(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md). 
+***medical rehabilitation*** includes any physical or psychological treatment whose object is to stabilize and restore the basic physical and psychological functions of a person. (*réadaptation médicale*)
 
-***Minister*** means the Minister of Veterans Affairs.
+***member*** means an officer or a non-commissioned member of the Canadian Forces, as those terms are defined in subsection 2(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md). (*militaire*)
+
+***Minister*** means the Minister of Veterans Affairs. (*ministre*)
 
 ***orphan***, in relation to a deceased member or a deceased veteran, means their child, or a child of their survivor who at the time of the member’s or veteran’s death was ordinarily residing in the member’s or veteran’s household, who is 
 - **(a)** under the age of 18 years;
 - **(b)** under the age of 25 years and following a course of instruction approved by the Minister; or
 - **(c)** over the age of 18 years and prevented by physical or mental incapacity from earning a livelihood, if the incapacity occurred
 	- **(i)** before the child attained the age of 18 years, or
-	- **(ii)** after the age of 18 years and before the age of 25 years while the child was following a course of instruction approved by the Minister.
+	- **(ii)** after the age of 18 years and before the age of 25 years while the child was following a course of instruction approved by the Minister. (*orphelin*)
 
-***personal information*** has the same meaning as in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md).
+***personal information*** has the same meaning as in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md). (*renseignements personnels*)
 
-Version anglaise seulement***prescribed*** means prescribed by regulation.
+***prescribed*** means prescribed by regulation.
 
-***psycho-social rehabilitation*** includes any psychological or social intervention whose object is to restore a person to a state of independent functioning and to facilitate their social adjustment.
+***psycho-social rehabilitation*** includes any psychological or social intervention whose object is to restore a person to a state of independent functioning and to facilitate their social adjustment. (*réadaptation psychosociale*)
 
-***rehabilitation services*** means all services related to the medical rehabilitation, psycho-social rehabilitation and vocational rehabilitation of a person.
+***rehabilitation services*** means all services related to the medical rehabilitation, psycho-social rehabilitation and vocational rehabilitation of a person. (*services de réadaptation*)
 
-***service-related injury or disease*** means an injury or a disease that
+***service-related injury or disease*** means an injury or a disease that
 - **(a)** was attributable to or was incurred during special duty service; or
-- **(b)** arose out of or was directly connected with service in the Canadian Forces.
+- **(b)** arose out of or was directly connected with service in the Canadian Forces. (*liée au service*)
 
-***special duty service*** means service as a member in a special duty area designated under section 69, or as a member as part of a special duty operation designated under section 70, during the period in which the designation is in effect. It includes any of the following that occurred during that period but not earlier than September 11, 2001:
+***special duty service*** means service as a member in a special duty area designated under section 69, or as a member as part of a special duty operation designated under section 70, during the period in which the designation is in effect. It includes any of the following that occurred during that period but not earlier than September 11, 2001:
 - **(a)** periods of training for the express purpose of service in that area or as part of that operation, wherever that training takes place;
 - **(b)** travel to and from the area, the operation or the location of training referred to in paragraph (a); and
-- **(c)** authorized leave of absence with pay during that service, wherever that leave is taken.
+- **(c)** authorized leave of absence with pay during that service, wherever that leave is taken. (*service spécial*)
 
 ***survivor***, in relation to a deceased member or a deceased veteran, means 
 - **(a)** their spouse who was, at the time of the member’s or veteran’s death, residing with the member or veteran; or
-- **(b)** the person who was, at the time of the member’s or veteran’s death, the member’s or veteran’s common-law partner.
+- **(b)** the person who was, at the time of the member’s or veteran’s death, the member’s or veteran’s common-law partner. (*survivant*)
 
-***veteran*** means a former member.
+***veteran*** means a former member. (*vétéran*)
 
-***vocational assistance*** includes employability assessments, career counselling, training, job-search assistance and job-finding assistance, whose object is to help a person to find appropriate employment.
+***vocational assistance*** includes employability assessments, career counselling, training, job-search assistance and job-finding assistance, whose object is to help a person to find appropriate employment. (*assistance professionnelle*)
 
-***vocational rehabilitation*** includes any process designed to identify and achieve an appropriate occupational goal for a person with a physical or a mental health problem, given their state of health and the extent of their education, skills and experience.
+***vocational rehabilitation*** includes any process designed to identify and achieve an appropriate occupational goal for a person with a physical or a mental health problem, given their state of health and the extent of their education, skills and experience. (*réadaptation professionnelle*)
 
 **Couples who are living apart**
 
@@ -120,7 +122,15 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 **Conduct of member or veteran**
 
 - **(5)** This Act does not apply in respect of a member’s or a veteran’s physical or mental health problem, disability or death if it is caused by a wilful self-inflicted injury or improper conduct on the member’s or veteran’s part, including wilful disobedience of an order and vicious or criminal conduct.
-> 2005, c. 21, s. 2; 2015, c. 36, s. 206.
+
+**Interpretation — medical assistance in dying**
+
+- **(6)** For the purposes of this Act, a member or veteran has neither inflicted wilful self-injury nor engaged in improper conduct by reason only that they receive medical assistance in dying, if the requirement set out in paragraph 241.2(3)(a) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) has been met.
+
+**Deeming — medical assistance in dying**
+
+- **(7)** For the purposes of this Act, if a member or a veteran receives medical assistance in dying, that member or veteran is deemed to have died as a result of the illness, disease or disability for which they were determined to be eligible to receive that assistance, in accordance with paragraph 241.2(3)(a) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+> 2005, c. 21, s. 2; 2015, c. 36, s. 206; 2016, c. 3, s. 9.
 
 
 
