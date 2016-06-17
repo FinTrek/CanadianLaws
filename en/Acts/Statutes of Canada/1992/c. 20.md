@@ -522,9 +522,15 @@ the institutional head may authorize a work release, for such duration as is fix
 
 - **(1)** Where an inmate dies or suffers serious bodily injury, the Service shall, whether or not there is an investigation under section 20, forthwith investigate the matter and report thereon to the Commissioner or to a person designated by the Commissioner.
 
+**Medical assistance in dying**
+
+- **(1.1)** Subsection (1) does not apply to a death that results from an inmate receiving ***medical assistance in dying***, as defined in section 241.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), in accordance with section 241.2 of that Act.
+
 **Copy to Correctional Investigator**
 
 - **(2)** The Service shall give the Correctional Investigator, as defined in Part III, a copy of its report referred to in subsection (1).
+> 1992, c. 20, s. 19; 2016, c. 3, s. 8
+
 
 
 
