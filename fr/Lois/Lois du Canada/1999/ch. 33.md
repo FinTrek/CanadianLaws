@@ -7793,7 +7793,8 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 - **130** Les composés constitués d’un groupement alkyle perfluoré dont la formule moléculaire est C<sub>n</sub>F<sub>2n+1</sub>, où n = 7 ou 8, et qui est directement lié à une entité chimique autre qu’un atome de fluor, de chlore ou de brome
 - **131** Les acides perfluorocarboxyliques dont la formule moléculaire est C<sub>n</sub>F<sub>2n+1</sub>CO<sub>2</sub>H, où 8 ≤ n ≤ 20, et leurs sels
 - **132** Les composés constitués d’un groupement alkyle perfluoré dont la formule moléculaire est C<sub>n</sub>F<sub>2n+1</sub>, où 8 ≤ n ≤ 20, et qui est directement lié à une entité chimique autre qu’un atome de fluor, de chlore ou de brome
-> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262, 345; DORS/2006-329, 333; DORS/2010-98, 194, 210; DORS/2011-25, 26, 34, 35, 140, 212, 286, 287; DORS/2012-40, 186, 187, 189, 219, 235; DORS/2013-188; DORS/2016-120.
+- **133** Microbilles de plastique de taille ≤ 5 mm
+> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262, 345; DORS/2006-329, 333; DORS/2010-98, 194, 210; DORS/2011-25, 26, 34, 35, 140, 212, 286, 287; DORS/2012-40, 186, 187, 189, 219, 235; DORS/2013-188; DORS/2016-120, 150.
 
 
 
