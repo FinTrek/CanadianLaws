@@ -492,9 +492,15 @@ La permission est accordée pour une période maximale de quinze jours.
 
 - **(1)** En cas de décès ou de blessure grave d’un détenu, le Service doit sans délai faire enquête — même si une autre est déjà en cours au titre de l’article 20 — et remettre un rapport au commissaire ou à son délégué.
 
+**Aide médicale à mourir**
+
+- **(1.1)** Le paragraphe (1) ne s’applique pas dans le cas où le décès du détenu résulte du fait qu’il a reçu l’***aide médicale à mourir*** au sens de l’article 241.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) en conformité avec l’article 241.2 de cette loi.
+
 **Rapport à l’enquêteur correctionnel**
 
 - **(2)** Le Service remet à l’enquêteur correctionnel une copie du rapport.
+> 1992, ch. 20, art. 19; 2016, ch. 3, art. 8
+
 
 
 
