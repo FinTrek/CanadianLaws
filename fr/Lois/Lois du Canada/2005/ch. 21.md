@@ -39,60 +39,62 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***assistance professionnelle*** Tous les services susceptibles d’aider une personne à se trouver un emploi convenable, tels l’évaluation de l’aptitude à l’emploi, l’orientation professionnelle, la formation, les conseils et l’aide en matière de recherche d’emploi.
+***aide médicale à mourir*** S’entend au sens de l’article 241.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*medical assistance in dying*)
 
-***conjoint de fait*** La personne qui vit avec le militaire ou vétéran en cause dans une relation conjugale depuis au moins un an.
+***assistance professionnelle*** Tous les services susceptibles d’aider une personne à se trouver un emploi convenable, tels l’évaluation de l’aptitude à l’emploi, l’orientation professionnelle, la formation, les conseils et l’aide en matière de recherche d’emploi. (*vocational assistance*)
 
-***due au service*** Se dit de l’aggravation d’une blessure ou maladie non liée au service qui est :
+***conjoint de fait*** La personne qui vit avec le militaire ou vétéran en cause dans une relation conjugale depuis au moins un an. (*common-law partner*)
+
+***due au service*** Se dit de l’aggravation d’une blessure ou maladie non liée au service qui est :
 - **a)** soit survenue au cours du service spécial ou attribuable à celui-ci;
-- **b)** soit consécutive ou rattachée directement au service dans les Forces canadiennes.
+- **b)** soit consécutive ou rattachée directement au service dans les Forces canadiennes. (*aggravated by service*)
 
-***enfant à charge*** L’enfant du militaire ou vétéran ou l’enfant de son époux ou conjoint de fait qui réside habituellement avec lui et qui, selon le cas :
+***enfant à charge*** L’enfant du militaire ou vétéran ou l’enfant de son époux ou conjoint de fait qui réside habituellement avec lui et qui, selon le cas :
 - **a)** est âgé de moins de dix-huit ans;
 - **b)** est âgé de moins de vingt-cinq ans et suit un cours approuvé par le ministre;
-- **c)** est âgé de plus de dix-huit ans et ne peut gagner sa vie par suite d’une incapacité physique ou mentale survenue soit avant qu’il n’atteigne l’âge de dix-huit ans, soit après, mais avant qu’il n’atteigne l’âge de vingt-cinq ans, s’il suivait alors un cours approuvé par le ministre.
+- **c)** est âgé de plus de dix-huit ans et ne peut gagner sa vie par suite d’une incapacité physique ou mentale survenue soit avant qu’il n’atteigne l’âge de dix-huit ans, soit après, mais avant qu’il n’atteigne l’âge de vingt-cinq ans, s’il suivait alors un cours approuvé par le ministre. (*dependent child*)
 
-***Forces canadiennes*** Les forces armées visées à l’article 14 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), ainsi que les forces navales, les forces de l’armée ou les forces aériennes du Canada ou de Terre-Neuve qui les ont précédées.
+***Forces canadiennes*** Les forces armées visées à l’article 14 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), ainsi que les forces navales, les forces de l’armée ou les forces aériennes du Canada ou de Terre-Neuve qui les ont précédées. (*Canadian Forces*)
 
-***indemnisation*** Allocation pour perte de revenus, prestation de retraite supplémentaire, allocation de soutien du revenu, allocation pour déficience permanente, allocation de sécurité du revenu de retraite, indemnité pour blessure grave, indemnité d’invalidité, indemnité de décès, allocation vestimentaire, indemnité de captivité ou allocation pour relève d’un aidant familial prévues par la présente loi.
+***indemnisation*** Allocation pour perte de revenus, prestation de retraite supplémentaire, allocation de soutien du revenu, allocation pour déficience permanente, allocation de sécurité du revenu de retraite, indemnité pour blessure grave, indemnité d’invalidité, indemnité de décès, allocation vestimentaire, indemnité de captivité ou allocation pour relève d’un aidant familial prévues par la présente loi. (*compensation*)
 
-***invalidité*** La perte ou l’amoindrissement de la faculté de vouloir et de faire normalement des actes d’ordre physique ou mental.
+***invalidité*** La perte ou l’amoindrissement de la faculté de vouloir et de faire normalement des actes d’ordre physique ou mental. (*disability*)
 
-***liée au service*** Se dit de la blessure ou maladie :
+***liée au service*** Se dit de la blessure ou maladie :
 - **a)** soit survenue au cours du service spécial ou attribuable à celui-ci;
-- **b)** soit consécutive ou rattachée directement au service dans les Forces canadiennes.
+- **b)** soit consécutive ou rattachée directement au service dans les Forces canadiennes. (*service-related injury or disease*)
 
-***militaire*** Officier ou militaire du rang des Forces canadiennes au sens du paragraphe 2(1) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md).
+***militaire*** Officier ou militaire du rang des Forces canadiennes au sens du paragraphe 2(1) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md). (*member*)
 
-***ministre*** Le ministre des Anciens Combattants.
+***ministre*** Le ministre des Anciens Combattants. (*Minister*)
 
-***orphelin*** L’enfant du militaire ou vétéran décédé ou l’enfant de son survivant qui, au moment du décès du militaire ou vétéran, résidait habituellement avec lui et qui, selon le cas :
+***orphelin*** L’enfant du militaire ou vétéran décédé ou l’enfant de son survivant qui, au moment du décès du militaire ou vétéran, résidait habituellement avec lui et qui, selon le cas :
 - **a)** est âgé de moins de dix-huit ans;
 - **b)** est âgé de moins de vingt-cinq ans et suit un cours approuvé par le ministre;
-- **c)** est âgé de plus de dix-huit ans et ne peut gagner sa vie par suite d’une incapacité physique ou mentale survenue soit avant qu’il n’atteigne l’âge de dix-huit ans, soit après, mais avant qu’il n’atteigne l’âge de vingt-cinq ans, s’il suivait alors un cours approuvé par le ministre.
+- **c)** est âgé de plus de dix-huit ans et ne peut gagner sa vie par suite d’une incapacité physique ou mentale survenue soit avant qu’il n’atteigne l’âge de dix-huit ans, soit après, mais avant qu’il n’atteigne l’âge de vingt-cinq ans, s’il suivait alors un cours approuvé par le ministre. (*orphan*)
 
-***réadaptation médicale*** Soins ou traitements prodigués pour stabiliser et rétablir les fonctions physiques et psychologiques de base de la personne.
+***réadaptation médicale*** Soins ou traitements prodigués pour stabiliser et rétablir les fonctions physiques et psychologiques de base de la personne. (*medical rehabilitation*)
 
-***réadaptation professionnelle*** À l’égard d’une personne qui présente un problème de santé physique ou mentale, tout processus destiné à fixer et à atteindre des objectifs professionnels compte tenu de son état de santé, sa scolarité, ses compétences et son expérience sur le marché du travail.
+***réadaptation professionnelle*** À l’égard d’une personne qui présente un problème de santé physique ou mentale, tout processus destiné à fixer et à atteindre des objectifs professionnels compte tenu de son état de santé, sa scolarité, ses compétences et son expérience sur le marché du travail. (*vocational rehabilitation*)
 
-***réadaptation psychosociale*** Interventions psychologiques et sociales visant à aider une personne à regagner son autonomie et à promouvoir son adaptation sociale.
+***réadaptation psychosociale*** Interventions psychologiques et sociales visant à aider une personne à regagner son autonomie et à promouvoir son adaptation sociale. (*psycho-social rehabilitation*)
 
-***renseignements personnels*** S’entend au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md).
+***renseignements personnels*** S’entend au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md). (*personal information*)
 
-***services de réadaptation*** L’ensemble des services visant la réadaptation médicale, psychosociale et professionnelle d’une personne.
+***services de réadaptation*** L’ensemble des services visant la réadaptation médicale, psychosociale et professionnelle d’une personne. (*rehabilitation services*)
 
-***service spécial*** Service effectué par un militaire soit dans une zone de service spécial désignée au titre de l’article 69, soit dans le cadre d’une opération de service spécial désignée au titre de l’article 70, pendant la période visée par la désignation. Sont assimilés au service spécial, s’ils ont lieu pendant cette période mais au plus tôt le 11 septembre 2001 : 
+***service spécial*** Service effectué par un militaire soit dans une zone de service spécial désignée au titre de l’article 69, soit dans le cadre d’une opération de service spécial désignée au titre de l’article 70, pendant la période visée par la désignation. Sont assimilés au service spécial, s’ils ont lieu pendant cette période mais au plus tôt le 11 septembre 2001 :
 - **a)** la formation reçue spécialement en vue du service spécial dans la zone ou dans le cadre de l’opération, sans égard au lieu où elle est reçue;
 - **b)** le déplacement pour se rendre dans la zone, sur les lieux de l’opération ou dans le lieu de la formation visée à l’alinéa a) et en revenir;
-- **c)** le congé autorisé avec solde pris durant ce service, sans égard au lieu où il est pris.
+- **c)** le congé autorisé avec solde pris durant ce service, sans égard au lieu où il est pris. (*special duty service*)
 
-***survivant*** Selon le cas :
+***survivant*** Selon le cas :
 - **a)** l’époux qui, au moment du décès du militaire ou vétéran, résidait avec celui-ci;
-- **b)** la personne qui, au moment du décès du militaire ou vétéran, était son conjoint de fait.
+- **b)** la personne qui, au moment du décès du militaire ou vétéran, était son conjoint de fait. (*survivor*)
 
-***Tribunal*** Le Tribunal des anciens combattants (révision et appel) constitué par l’article 4 de la [Loi sur le Tribunal des anciens combattants (révision et appel)](/fr/Lois/Lois%20du%20Canada/1995/ch.%2018.md).
+***Tribunal*** Le Tribunal des anciens combattants (révision et appel) constitué par l’article 4 de la [Loi sur le Tribunal des anciens combattants (révision et appel)](/fr/Lois/Lois%20du%20Canada/1995/ch.%2018.md). (*Board*)
 
-***vétéran*** Ex-militaire.
+***vétéran*** Ex-militaire. (*veteran*)
 
 **Couples séparés**
 
@@ -114,7 +116,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Conduite du militaire ou vétéran**
 
 - **(5)** La présente loi ne s’applique pas à l’égard du problème de santé physique ou mentale, de l’invalidité ou du décès du militaire ou vétéran causé par l’automutilation ou résultant de sa mauvaise conduite, telle la désobéissance préméditée aux ordres et la conduite malveillante ou criminelle.
-> 2005, ch. 21, art. 2; 2015, ch. 36, art. 206.
+
+**Interprétation — aide médicale à mourir**
+
+- **(6)** Pour l’application de la présente loi, ne constitue pas de l’automutilation ou une mauvaise conduite le seul fait pour le militaire ou le vétéran d’avoir reçu l’aide médicale à mourir si l’exigence prévue à l’alinéa 241.2(3)a) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) a été remplie.
+
+**Présomption — aide médicale à mourir**
+
+- **(7)** Pour l’application de la présente loi, le militaire ou le vétéran qui a reçu l’aide médicale à mourir est réputé être décédé en raison de la maladie, de l’affection ou du handicap pour lequel il a été jugé admissible à cette aide au titre de l’alinéa 241.2(3)a) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+> 2005, ch. 21, art. 2; 2015, ch. 36, art. 206; 2016, ch. 3, art. 9.
 
 
 
