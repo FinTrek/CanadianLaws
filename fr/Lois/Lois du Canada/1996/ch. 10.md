@@ -102,30 +102,32 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **c)** la Cour du Banc de la Reine du Nouveau-Brunswick, du Manitoba, de la Saskatchewan ou de l’Alberta;
 - **d)** la Cour suprême de la Nouvelle-Écosse, de la Colombie-Britannique, de l’Île-du-Prince-Édouard, du Yukon ou des Territoires du Nord-Ouest;
 - **e)** la Section de première instance de la Cour suprême de Terre-Neuve-et-Labrador;
-- **f)** la Cour de justice du Nunavut.
+- **f)** la Cour de justice du Nunavut. (*superior court*)
 
-***expéditeur*** Personne qui expédie des marchandises par transporteur, ou en reçoit de celui-ci, ou qui a l’intention de le faire.
+***expéditeur*** Personne qui expédie des marchandises par transporteur, ou en reçoit de celui-ci, ou qui a l’intention de le faire. (*shipper*)
 
-***jour de séance*** Tout jour où l’une ou l’autre chambre du Parlement siège.
+***jour de séance*** Tout jour où l’une ou l’autre chambre du Parlement siège. (*sitting day of Parliament*)
 
-***marchandises*** Y sont assimilés le matériel roulant et le courrier.
+***marchandises*** Y sont assimilés le matériel roulant et le courrier. (*goods*)
 
-***matériel roulant*** Toute sorte de voitures et de matériel muni de roues destinés à servir sur les rails d’un chemin de fer, y compris les locomotives, machines actionnées par quelque force motrice, voitures automotrices, tenders, chasse-neige et *flangers*.
+***matériel roulant*** Toute sorte de voitures et de matériel muni de roues destinés à servir sur les rails d’un chemin de fer, y compris les locomotives, machines actionnées par quelque force motrice, voitures automotrices, tenders, chasse-neige et *flangers*. (*rolling stock*)
 
-***membre*** Tout membre de l’Office nommé en vertu du paragraphe 7(2) et tout membre temporaire de l’Office.
+***matière toxique par inhalation*** Gaz ou matière inclus dans la classe 2.3 du [Règlement sur le transport des marchandises dangereuses](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2001/286.md) ou, en application de l’alinéa 2.28c) de ce règlement, inclus dans la classe 6.1 du même règlement. Sont notamment comprises dans la présente définition les marchandises dangereuses dont le numéro ONU indiqué à la colonne 1 de la Liste des marchandises dangereuses figurant au chapitre 3.2 des Recommandations relatives au transport des marchandises dangereuses — Règlement type, 18<sup>e</sup> édition révisée, 2013, publiées par les Nations Unies, est énuméré à l’annexe III. (*TIH (Toxic Inhalation Hazard) material*)
 
-***membre temporaire*** Tout membre temporaire de l’Office nommé en vertu du paragraphe 9(1).
+***membre*** Tout membre de l’Office nommé en vertu du paragraphe 7(2) et tout membre temporaire de l’Office. (*member*)
 
-***ministre*** Le ministre des Transports.
+***membre temporaire*** Tout membre temporaire de l’Office nommé en vertu du paragraphe 9(1). (*temporary member*)
 
-***Office*** L’Office des transports du Canada, maintenu par le paragraphe 7(1).
+***ministre*** Le ministre des Transports. (*Minister*)
 
-***président*** Le président de l’Office.
+***Office*** L’Office des transports du Canada, maintenu par le paragraphe 7(1). (*Agency*)
 
-***transporteur*** Personne se livrant au transport de passagers ou de marchandises par un moyen de transport assujetti à la compétence législative du Parlement.
+***président*** Le président de l’Office. (*Chairperson*)
 
-***vice-président*** Le vice-président de l’Office.
-> 1996, ch. 10, art. 6; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 20; 2002, ch. 7, art. 114(A); 2015, ch. 3, art. 29.
+***transporteur*** Personne se livrant au transport de passagers ou de marchandises par un moyen de transport assujetti à la compétence législative du Parlement. (*carrier*)
+
+***vice-président*** Le vice-président de l’Office. (*Vice-Chairperson*)
+> 1996, ch. 10, art. 6; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 20; 2002, ch. 7, art. 114(A); 2015, ch. 3, art. 29, ch. 31, art. 2.
 
 
 
@@ -620,7 +622,7 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 
 **36.2** 
 
-- **(1)** Si les articles 36.1 et 169.1 ne s’appliquent pas, l’Office peut, sur demande de toutes les parties en cause, agir à titre de médiateur ou d’arbitre à l’égard de tout différend portant sur une question relative aux chemins de fer visée aux parties III ou IV ou sur l’application de taux ou de frais au transport de marchandises par chemin de fer ou à des services connexes.
+- **(1)** Si les articles 36.1 et 169.1 ne s’appliquent pas, l’Office peut, sur demande de toutes les parties en cause, agir à titre de médiateur ou d’arbitre à l’égard de tout différend portant sur une question relative aux chemins de fer visée à la partie III — exception faite de la section VI.2 — ou à la partie IV ou sur l’application de taux ou de frais au transport de marchandises par chemin de fer ou à des services connexes.
 
 **Liste**
 
@@ -633,7 +635,7 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 **Impossibilité d’agir**
 
 - **(3)** La personne qui agit à titre de médiateur ou d’arbitre ne peut agir dans le cadre d’autres procédures devant l’Office à l’égard des questions qui ont fait l’objet de la médiation ou de l’arbitrage.
-> 2007, ch. 19, art. 7; 2008, ch. 5, art. 8 et 9.
+> 2007, ch. 19, art. 7; 2008, ch. 5, art. 8 et 9; 2015, ch. 31, art. 3.
 
 
 
@@ -2006,36 +2008,38 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 
 **87** Les définitions qui suivent s’appliquent à la présente partie.
 
-***administration de transport de banlieue*** Entité qui est contrôlée par le gouvernement fédéral ou provincial ou une administration municipale, ou qui lui appartient, et qui fournit des services publics de transport de passagers. 
+***administration de transport de banlieue*** Entité qui est contrôlée par le gouvernement fédéral ou provincial ou une administration municipale, ou qui lui appartient, et qui fournit des services publics de transport de passagers. (*urban transit authority*)
 
-***chemin de fer*** Chemin de fer relevant de l’autorité législative du Parlement. Sont également visés :
+***chemin de fer*** Chemin de fer relevant de l’autorité législative du Parlement. Sont également visés :
 - **a)** les embranchements et prolongements, les voies de garage et d’évitement, les ponts et tunnels, les gares et stations, les dépôts et quais, le matériel roulant, l’équipement et les fournitures, ainsi que tous les autres biens qui dépendent du chemin de fer;
-- **b)** les systèmes de communication ou de signalisation et les installations et équipements connexes qui servent à l’exploitation du chemin de fer.
+- **b)** les systèmes de communication ou de signalisation et les installations et équipements connexes qui servent à l’exploitation du chemin de fer. (*railway*)
 
-***compagnie de chemin de fer*** La personne titulaire du certificat d’aptitude visé à l’article 92 ou la société formée de telles personnes, ou la personne mentionnée au paragraphe 90(2).
+***compagnie de chemin de fer*** La personne titulaire du certificat d’aptitude visé à l’article 92 ou la société formée de telles personnes, ou la personne mentionnée au paragraphe 90(2). (*railway company*)
 
-***exploitation*** Y sont assimilés l’entretien du chemin de fer et le fonctionnement d’un train.
+***exploitation*** Y sont assimilés l’entretien du chemin de fer et le fonctionnement d’un train. (*operate*)
 
-***loi spéciale*** Loi en vertu de laquelle la compagnie de chemin de fer est autorisée à construire ou à exploiter un chemin de fer, ou loi édictée spécialement au sujet d’un chemin de fer. Sont visées par la présente définition :
+***loi spéciale*** Loi en vertu de laquelle la compagnie de chemin de fer est autorisée à construire ou à exploiter un chemin de fer, ou loi édictée spécialement au sujet d’un chemin de fer. Sont visées par la présente définition :
 - **a)** les lettres patentes qui autorisent une compagnie à construire ou à exploiter un chemin de fer et qui lui ont été accordées avant le 1<sup>er</sup> avril 1969, sous le régime d’une loi quelconque, ainsi que la loi en vertu de laquelle ont été accordées ou confirmées ces lettres patentes;
-- **b)** les lettres patentes constituant en personne morale une compagnie en vertu de l’article 11 de la Loi sur les chemins de fer le 1<sup>er</sup> avril 1969 ou après cette date et dont les objets sont la construction ou l’exploitation d’un chemin de fer au Canada.
+- **b)** les lettres patentes constituant en personne morale une compagnie en vertu de l’article 11 de la Loi sur les chemins de fer le 1<sup>er</sup> avril 1969 ou après cette date et dont les objets sont la construction ou l’exploitation d’un chemin de fer au Canada. (*Special Act*)
 
-***point de destination*** Le point de transfert du trafic, pour une ligne faisant l’objet d’un transfert visé aux paragraphes 128(4) ou 129(2), depuis la ligne d’une compagnie de chemin de fer sur celle d’une compagnie non assujettie à la présente partie.
+***pétrole brut*** Pétrole naturel non raffiné ou bitume dilué ou autre mélange non raffiné d’hydrocarbures de composition semblable à celle du pétrole naturel non raffiné. Est notamment compris dans la présente définition le pétrole brut dont le numéro ONU indiqué à la colonne 1 de la Liste des marchandises dangereuses figurant au chapitre 3.2 des Recommandations relatives au transport des marchandises dangereuses — Règlement type, 18<sup>e</sup> édition révisée, 2013, publiées par les Nations Unies, est 1267 ou 3494. (*crude oil*)
 
-***point d’origine*** Le point de transfert du trafic, pour une ligne faisant l’objet d’un transfert visé aux paragraphes 128(4) ou 129(2), sur la ligne d’une compagnie de chemin de fer depuis celle d’une compagnie non assujettie à la présente partie.
+***point de destination*** Le point de transfert du trafic, pour une ligne faisant l’objet d’un transfert visé aux paragraphes 128(4) ou 129(2), depuis la ligne d’une compagnie de chemin de fer sur celle d’une compagnie non assujettie à la présente partie. (*point of destination*)
 
-***région métropolitaine*** Région que Statistique Canada a classée comme région métropolitaine de recensement lors de son dernier recensement.
+***point d’origine*** Le point de transfert du trafic, pour une ligne faisant l’objet d’un transfert visé aux paragraphes 128(4) ou 129(2), sur la ligne d’une compagnie de chemin de fer depuis celle d’une compagnie non assujettie à la présente partie. (*point of origin*)
 
-***route*** Voie terrestre — publique ou non — pour véhicules ou piétons.
+***région métropolitaine*** Région que Statistique Canada a classée comme région métropolitaine de recensement lors de son dernier recensement. (*metropolitan area*)
 
-***société de transport publique*** La société VIA Rail Canada Inc., tout fournisseur de services de transport par rail de passagers désigné par le ministre ou toute administration de transport de banlieue.
+***route*** Voie terrestre — publique ou non — pour véhicules ou piétons. (*road*)
 
-***tarif*** Barème des prix, frais et autres conditions applicables au transport et aux services connexes.
+***société de transport publique*** La société VIA Rail Canada Inc., tout fournisseur de services de transport par rail de passagers désigné par le ministre ou toute administration de transport de banlieue. (*public passenger service provider*)
 
-***terres*** Y sont assimilés les intérêts fonciers et, pour la province de Québec, les droits du locataire d’une terre.
+***tarif*** Barème des prix, frais et autres conditions applicables au transport et aux services connexes. (*tariff*)
 
- ou ***transport*** ou ***trafic*** Le transport des marchandises et l’emploi du matériel nécessaire à ces fins.
-> 1996, ch. 10, art. 87; 2007, ch. 19, art. 28.
+***terres*** Y sont assimilés les intérêts fonciers et, pour la province de Québec, les droits du locataire d’une terre. (*land*)
+
+***transport*** ou ***trafic*** Le transport des marchandises et l’emploi du matériel nécessaire à ces fins. (*traffic*)
+> 1996, ch. 10, art. 87; 2007, ch. 19, art. 28; 2015, ch. 31, art. 4.
 
 
 
@@ -2084,14 +2088,20 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 
 **90** 
 
-- **(1)** Nul ne peut construire ou exploiter un chemin de fer sans être titulaire d’un certificat d’aptitude.
+- **(1)** Nul ne peut :
+	- **a)** construire un chemin de fer sans être titulaire d’un certificat d’aptitude délivré au titre de l’alinéa 92(1)a);
+	- **b)** exploiter un chemin de fer sans être titulaire d’un certificat d’aptitude délivré au titre :
+		- **(i)** de l’alinéa 92(1)a), pour toute partie de l’exploitation qui vise un service ferroviaire de passagers,
+		- **(ii)** de l’alinéa 92(1)b), pour toute partie de l’exploitation qui ne vise pas un tel service.
 
 **Exception — acquéreur d’un chemin de fer**
 
-- **(2)** Le paragraphe (1) ne s’applique pas, pendant les soixante jours suivant l’acquisition, à l’acquéreur de tout ou partie d’un chemin de fer si celui-ci est acquis, selon le cas :
+- **(2)** Le paragraphe (1) ne s’applique pas, pendant les soixante jours suivant l’acquisition, à l’acquéreur de tout ou partie d’un chemin de fer si celui-ci est acquis, selon le cas :
 	- **a)** en vertu d’un acte de fiducie ou d’hypothèque;
 	- **b)** à la demande du détenteur d’une hypothèque, d’une obligation ou d’une débenture grevant tout ou partie du chemin de fer;
 	- **c)** dans le cadre de toute autre procédure régulière.
+> 1996, ch. 10, art. 90; 2015, ch. 31, art. 5.
+
 
 
 
@@ -2113,15 +2123,37 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 
 **92** 
 
-- **(1)** L’Office délivre un certificat d’aptitude pour un projet de construction ou d’exploitation d’un chemin de fer s’il est convaincu que celui-ci bénéficiera de l’assurance responsabilité réglementaire.
+- **(1)** L’Office délivre un certificat d’aptitude :
+	- **a)** pour un projet d’exploitation de chemin de fer visant un service ferroviaire de passagers ou pour un projet de construction de chemin de fer, s’il est convaincu que le projet bénéficiera d’une assurance responsabilité suffisante déterminée conformément aux règlements;
+	- **b)** pour un projet d’exploitation de chemin de fer ne visant pas un service ferroviaire de passagers, s’il est convaincu que le projet bénéficiera — notamment au moyen de l’autoassurance — du niveau minimal d’assurance responsabilité applicable prévu à l’annexe IV.
+
+**Risques couverts**
+
+- **(1.1)** L’assurance responsabilité visée à l’alinéa (1)b) doit couvrir les risques ci-après que le projet d’exploitation peut entraîner :
+	- **a)** les blessures et décès causés à des tiers, y compris les passagers;
+	- **b)** les dommages aux biens occasionnés à des tiers, à l’exclusion des dommages aux marchandises transportées pour le compte d’un expéditeur;
+	- **c)** les risques associés aux fuites, à la pollution ou à la contamination;
+	- **d)** en cas d’accident ferroviaire au sens de l’article 152.5, les autres pertes, dommages et frais prévus au paragraphe 153(1).
+
+**Autoassurance**
+
+- **(1.2)** Pour l’application de l’alinéa (1)b), le montant de l’autoassurance ne peut excéder le montant maximal que la personne qui sera responsable de l’exploitation projetée peut maintenir compte tenu de sa capacité financière.
 
 **Mention obligatoire**
 
 - **(2)** Le certificat d’aptitude pour la demande visée au paragraphe 91(2) mentionne les têtes de ligne et le parcours de chaque ligne dont l’exploitation est envisagée.
 
-**Règlement**
+**Règlement pris par l’Office**
 
-- **(3)** L’Office peut, par règlement, déterminer ce qui constitue une assurance responsabilité suffisante, notamment en matière d’auto-assurance.
+- **(3)** L’Office peut, par règlement :
+	- **a)** en ce qui a trait à un projet d’exploitation de chemin de fer visant un service ferroviaire de passagers ou à un projet de construction de chemin de fer, déterminer ce qui constitue une assurance responsabilité suffisante, notamment en matière d’autoassurance;
+	- **b)** en ce qui a trait à un projet d’exploitation de chemin de fer ne visant pas un service ferroviaire de passagers, régir la fourniture des renseignements dont il a besoin pour déterminer si le projet bénéficiera — notamment au moyen de l’autoassurance — du niveau minimal d’assurance responsabilité applicable prévu à l’annexe IV.
+
+**Règlement pris par le gouverneur en conseil**
+
+- **(4)** Le gouverneur en conseil peut, par règlement, modifier l’annexe IV pour en supprimer ou y ajouter une catégorie d’exploitation de chemin de fer et un niveau minimal d’assurance responsabilité ou pour y modifier une telle catégorie — notamment par adjonction ou suppression de facteurs qui en définissent la portée — ou un tel niveau.
+> 1996, ch. 10, art. 92; 2015, ch. 31, art. 6.
+
 
 
 
@@ -2146,15 +2178,56 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 
 
 
+#### Assurance responsabilité
+
+
+
+**Obligation continue**
+
+**93.1** 
+
+- **(1)** Le titulaire d’un certificat d’aptitude veille à ce que :
+	- **a)** si le certificat a été délivré au titre de l’alinéa 92(1)a), l’exploitation de chemin de fer ou la construction de chemin de fer visées par le certificat bénéficie en tout temps d’une assurance responsabilité suffisante déterminée conformément aux règlements;
+	- **b)** si le certificat a été délivré au titre de l’alinéa 92(1)b), l’exploitation de chemin de fer visée par le certificat bénéficie en tout temps — notamment au moyen de l’autoassurance — du niveau minimal d’assurance responsabilité applicable prévu à l’annexe IV.
+
+**Risques couverts**
+
+- **(2)** L’assurance responsabilité visée à l’alinéa (1)b) doit couvrir les risques énumérés aux alinéas 92(1.1)a) à d) que l’exploitation peut entraîner.
+
+**Autoassurance**
+
+- **(3)** Pour l’application de l’alinéa (1)b), le montant de l’autoassurance ne peut excéder le montant maximal que le titulaire du certificat d’aptitude peut maintenir compte tenu de sa capacité financière.
+> 2015, ch. 31, art. 7.
+
+
+
+
+
 **Avis — assurance responsabilité**
 
-**94** 
+**94** Le titulaire d’un certificat d’aptitude est tenu d’aviser l’Office par écrit et sans délai :
+- **a)** de l’annulation de l’assurance responsabilité ou de toute modification de celle-ci;
+- **b)** de toute modification en matière de construction ou d’exploitation pouvant avoir une incidence sur l’assurance responsabilité.
+> 1996, ch. 10, art. 94; 2015, ch. 31, art. 7.
 
-- **(1)** Le titulaire d’un certificat d’aptitude est tenu d’aviser l’Office par écrit et sans délai de l’annulation de l’assurance responsabilité ou de toute modification — soit de celle-ci, soit en matière de construction ou d’exploitation — pouvant la rendre insuffisante.
 
-**Suspension ou annulation**
 
-- **(2)** L’Office peut suspendre ou annuler le certificat s’il établit que l’assurance responsabilité n’est plus suffisante.
+
+
+**Enquête**
+
+**94.1** L’Office peut faire enquête pour vérifier si le titulaire d’un certificat d’aptitude se conforme à l’article 93.1.
+> 2015, ch. 31, art. 7.
+
+
+
+
+
+**Suspension ou annulation du certificat d’aptitude**
+
+**94.2** L’Office suspend ou annule le certificat d’aptitude s’il établit que son titulaire ne se conforme pas à l’article 93.1.
+> 2015, ch. 31, art. 7.
+
 
 
 
@@ -2624,6 +2697,10 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 
 - **(2)** Les marchandises sont reçues, transportées et livrées aux points visés à l’alinéa (1)a) sur paiement du prix licitement exigible pour ces services.
 
+**Paiement de la contribution**
+
+- **(2.1)** Lorsque le transport de marchandises par une compagnie de chemin de fer est associé à une contribution prévue aux articles 155.3 ou 155.5, celles-ci sont transportées par la compagnie de chemin de fer aux points visés à l’alinéa (1)a) sur paiement de la contribution par l’expéditeur à cette compagnie si elle est la première compagnie de chemin de fer à transporter les marchandises après leur chargement pour un prix autre qu’un prix fixé en application de l’alinéa 128(1)b).
+
 **Indemnité de matériel roulant**
 
 - **(3)** Dans les cas où l’expéditeur fournit du matériel roulant pour le transport des marchandises par la compagnie, celle-ci prévoit dans un tarif, sur demande de l’expéditeur, une compensation spécifique raisonnable en faveur de celui-ci pour la fourniture de ce matériel.
@@ -2631,6 +2708,8 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Contrat confidentiel**
 
 - **(4)** Un expéditeur et une compagnie peuvent s’entendre, par contrat confidentiel ou autre accord écrit, sur les moyens à prendre par la compagnie pour s’acquitter de ses obligations.
+> 1996, ch. 10, art. 113; 2015, ch. 31, art. 8.
+
 
 
 
@@ -3895,7 +3974,886 @@ où
 
 
 
-**153 à 155** [Abrogés, 2000, ch. 16, art. 10] 
+
+**SECTION VI.2** 
+### Responsabilité et indemnisation en cas d’accidents ferroviaires impliquant des marchandises désignées
+
+
+
+#### Définitions et champ d’application
+
+
+
+**Définitions**
+
+**152.5** Les définitions qui suivent s’appliquent à la présente section.
+
+***accident ferroviaire*** Tout accident ou incident lié : 
+- **a)** soit à l’exploitation, sur un chemin de fer relevant ou non de l’autorité législative du Parlement, par une compagnie de chemin de fer de matériel roulant contenant une marchandise désignée que la compagnie transporte pour le compte d’un expéditeur;
+- **b)** soit à l’exploitation, sur un chemin de fer, par une personne autre qu’une compagnie de chemin de fer de matériel roulant contenant une marchandise désignée que la personne transporte pour le compte d’une personne qui expédie ou reçoit des marchandises. (*railway accident*)
+
+***Caisse*** Caisse d’indemnisation pour les accidents ferroviaires impliquant des marchandises désignées créée par le paragraphe 153.4(1). (*Fund*)
+
+***marchandise désignée*** Selon le cas : 
+- **a)** le pétrole brut;
+- **b)** toute marchandise désignée par règlement. (*designated good*)
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Application**
+
+**152.6** La présente section ne s’applique qu’aux compagnies de chemin de fer titulaires d’un certificat d’aptitude délivré au titre de l’alinéa 92(1)*b*) relativement à l’exploitation de chemin de fer visée par ce certificat.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+#### Responsabilité
+
+
+
+**Limite de la responsabilité de la compagnie de chemin de fer**
+
+**152.7** 
+
+- **(1)** La compagnie de chemin de fer qui exploite un chemin de fer impliqué dans un accident ferroviaire est responsable des pertes, dommages et frais prévus au paragraphe 153(1) jusqu’à concurrence d’une somme correspondant au niveau minimal d’assurance responsabilité dont l’exploitation du chemin de fer doit bénéficier selon l’obligation prévue à l’alinéa 93.1(1)*b*) qui incombe à la compagnie.
+
+**Responsabilité solidaire**
+
+- **(2)** Si plusieurs compagnies de chemin de fer sont responsables en application du paragraphe (1), elles le sont solidairement chacune jusqu’à concurrence de la somme correspondant au niveau minimal d’assurance responsabilité qui lui est applicable.
+
+**Non-application**
+
+- **(3)** La limite de responsabilité prévue au paragraphe (1) ne s’applique pas à la compagnie de chemin de fer s’il est prouvé que l’accident ferroviaire est attribuable au fait — acte ou omission — de la compagnie de chemin de fer commis soit dans l’intention de provoquer l’accident, soit avec insouciance et tout en sachant que l’accident se produirait probablement.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Aucune preuve de faute ou de négligence**
+
+**152.8** La responsabilité de la compagnie de chemin de fer prévue au paragraphe 152.7(1) n’est pas subordonnée à la preuve d’une faute ou d’une négligence.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Responsabilité en vertu d’une autre loi**
+
+**152.9** La compagnie de chemin de fer dont la responsabilité est engagée, en l’absence de preuve de faute ou de négligence, pour le même accident ferroviaire en application du paragraphe 152.7(1) et de toute autre loi est responsable en application de ce paragraphe jusqu’à concurrence de la limite de responsabilité la plus élevée entre la limite prévue à ce paragraphe et celle prévue par l’autre loi. Si l’autre loi ne prévoit aucune limite, la limite prévue à ce paragraphe ne s’applique pas à cette compagnie de chemin de fer.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Pertes, dommages et frais**
+
+**153** 
+
+- **(1)** Les pertes, dommages et frais dont la compagnie de chemin de fer est responsable sont les suivants :
+	- **a)** les pertes ou dommages réels subis par quiconque — autre que toute compagnie de chemin de fer responsable en application du paragraphe 152.7(1) — à la suite de l’accident ferroviaire ou des mesures prises à son égard;
+	- **b)** les frais engagés par Sa Majesté du chef du Canada ou d’une province ou toute autre personne pour la prise de mesures à l’égard de l’accident ferroviaire;
+	- **c)** la perte de la valeur de non-usage liée aux ressources publiques touchées par l’accident ferroviaire ou à des mesures prises à son égard.
+
+**Définition de pertes ou dommages réels**
+
+- **(2)** Pour l’application de l’alinéa (1)a), sont assimilées aux pertes ou dommages réels la perte d’un revenu, y compris un revenu futur, et, à l’égard des peuples autochtones du Canada, la perte de possibilités de chasse, de pêche ou de cueillette. En sont toutefois exclus :
+	- **a)** les pertes et dommages subis par une personne qui exploite un chemin de fer — ne relevant pas de l’autorité législative du Parlement — impliqué dans l’accident ferroviaire, relativement à la partie de cette exploitation qui ne vise pas un service ferroviaire de passagers;
+	- **b)** les pertes et dommages de marchandises transportées par la compagnie de chemin de fer ou par la personne visée à l’alinéa a);
+	- **c)** les pertes de revenu pouvant être recouvrées au titre du paragraphe 42(3) de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md).
+
+**Dommages à l’environnement**
+
+- **(3)** Pour l’application du paragraphe (1), les mesures en cause comprennent les mesures prises pour atténuer ou réparer les dommages à l’environnement.
+
+**Frais non recouvrables en vertu de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md)**
+
+- **(4)** Les frais recouvrables par Sa Majesté du chef du Canada ou d’une province au titre de la présente section ne peuvent être recouvrés au titre du paragraphe 42(1) de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md).
+> 1996, ch. 10, art. 153; 2000, ch. 16, art. 10; 2015, ch. 31, art. 10.
+
+
+
+
+
+**Défense**
+
+**153.1** La compagnie de chemin de fer n’est pas tenue pour responsable en application du paragraphe 152.7(1) si elle démontre :
+- **a)** soit que l’accident ferroviaire résulte d’un acte de guerre, d’hostilités, d’une guerre civile ou d’une insurrection;
+- **b)** soit qu’un autre moyen de défense prévu par règlement s’applique.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Créances**
+
+**153.2** 
+
+- **(1)** Le recouvrement des créances correspondant aux pertes, dommages et frais prévus au paragraphe 153(1) peut être poursuivi devant toute juridiction compétente au Canada.
+
+**Rang**
+
+- **(2)** Les créances correspondant aux pertes, dommages ou frais prévus aux alinéas 153(1)a) et b) sont traitées au prorata et prennent rang avant celles correspondant à la perte de la valeur de non-usage prévue à l’alinéa 153(1)c).
+
+**Prescription**
+
+- **(3)** Les poursuites en recouvrement des créances visées au paragraphe (1) se prescrivent par trois ans à compter de la date des pertes, dommages ou frais et par six ans à compter de la date de l’accident ferroviaire.
+
+**Poursuites : perte de la valeur de non-usage**
+
+- **(4)** Seule Sa Majesté du chef du Canada ou d’une province peut engager des poursuites pour le recouvrement de la perte de la valeur de non-usage prévue à l’alinéa 153(1)c).
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Droits de la compagnie de chemin de fer envers les tiers**
+
+**153.3** La présente section n’a pas pour effet de porter atteinte aux recours que la compagnie de chemin de fer peut exercer contre des tiers.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+#### Caisse d’indemnisation pour les accidents ferroviaires impliquant des marchandises désignées
+
+
+
+##### Établissement de la Caisse
+
+
+
+**Établissement**
+
+**153.4** 
+
+- **(1)** Est ouvert, parmi les comptes du Canada, un compte intitulé Caisse d’indemnisation pour les accidents ferroviaires impliquant des marchandises désignées.
+
+**Crédits**
+
+- **(2)** La Caisse est créditée des sommes suivantes :
+	- **a)** les sommes portées au crédit de la Caisse en application de l’article 153.5;
+	- **b)** les sommes portées au crédit de la Caisse en application de l’article 153.6;
+	- **c)** les sommes recouvrées par l’administrateur en vertu de l’alinéa 155(2)c);
+	- **d)** les sommes versées au titre des articles 155.7 et 155.8.
+
+**Débits**
+
+- **(3)** Elle est débitée des sommes suivantes :
+	- **a)** les sommes nécessaires au remboursement au Trésor, conformément aux modalités précisées par le ministre des Finances, des sommes portées au débit du Trésor en vertu de l’article 153.6;
+	- **b)** les sommes payées sur le Trésor en application du paragraphe 154.2(3);
+	- **c)** les sommes versées en application du paragraphe 155(1);
+	- **d)** les sommes et les dépens accordés par un tribunal au terme d’un appel interjeté en vertu du paragraphe 154.9(2) ou de l’article 155.1.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Intérêts à porter au crédit de la Caisse**
+
+**153.5** Le ministre des Finances fait porter au crédit de la Caisse des intérêts — calculés au taux et selon les modalités fixés par le gouverneur en conseil — sur le solde créditeur de la Caisse.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Transfert du Trésor**
+
+**153.6** En cas d’insuffisance de fonds dans la Caisse pour payer toute somme qui est débitée de celle-ci au titre de l’un des alinéas 153.4(3)b) à d), le ministre des Finances peut, sous réserve des modalités qu’il estime indiquées, ordonner que soit portée au débit du Trésor et au crédit de la Caisse une somme suffisante pour y remédier.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+##### Administrateur et administrateur adjoint
+
+
+
+**Nomination de l’administrateur**
+
+**153.7** 
+
+- **(1)** Le gouverneur en conseil nomme l’administrateur de la Caisse.
+
+**Durée du mandat et révocation**
+
+- **(2)** L’administrateur occupe sa charge à titre inamovible pour un mandat maximal de cinq ans que fixe le gouverneur en conseil, sauf révocation motivée par celui-ci.
+
+**Mandat renouvelable**
+
+- **(3)** Le mandat de l’administrateur est renouvelable.
+
+**Prolongation du mandat**
+
+- **(4)** S’il n’est pas pourvu à la succession de l’administrateur, le mandat de celui-ci se prolonge jusqu’à la date de nomination de son remplaçant ou, si elle est antérieure, jusqu’à celle fixée par le gouverneur en conseil.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Nomination de l’administrateur adjoint**
+
+**153.8** 
+
+- **(1)** Le gouverneur en conseil peut nommer l’administrateur adjoint de la Caisse.
+
+**Durée du mandat et révocation**
+
+- **(2)** L’administrateur adjoint occupe sa charge à titre inamovible pour un mandat maximal de cinq ans que fixe le gouverneur en conseil, sauf révocation motivée par celui-ci.
+
+**Mandat renouvelable**
+
+- **(3)** Le mandat de l’administrateur adjoint est renouvelable.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Attributions de l’administrateur adjoint**
+
+**153.9** 
+
+- **(1)** L’administrateur adjoint exerce les attributions compatibles avec la présente section qui lui sont assignées par l’administrateur.
+
+**Absence ou empêchement de l’administrateur**
+
+- **(2)** En cas d’absence ou d’empêchement de l’administrateur ou de vacance de son poste, la suppléance est assumée par l’administrateur adjoint.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Démission**
+
+**154** La démission de l’administrateur ou de l’administrateur adjoint prend effet au moment où le ministre en reçoit un avis écrit ou, si elle est postérieure, à la date que précise l’avis.
+> 1996, ch. 10, art. 154; 2000, ch. 16, art. 10; 2015, ch. 31, art. 10.
+
+
+
+
+
+**Conflit d’intérêts**
+
+**154.1** 
+
+- **(1)** L’administrateur et l’administrateur adjoint ne peuvent accepter ni occuper de charge ou d’emploi — ni exercer d’activité — incompatibles avec les attributions que leur confère la présente section.
+
+**Conséquences d’une contravention**
+
+- **(2)** Le mandat de l’administrateur ou de l’administrateur adjoint qui contrevient au paragraphe (1) prend fin à la date fixée par le gouverneur en conseil, au plus tard trente jours après la date de la réception par le ministre d’un avis l’informant de la contravention; celle-ci n’a aucun effet sur la validité des actions accomplies par l’administrateur ou l’administrateur adjoint en vertu de la présente section entre la date de la contravention et celle où son mandat prend fin.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Rémunération**
+
+**154.2** 
+
+- **(1)** L’administrateur et l’administrateur adjoint reçoivent, pour l’exercice de leurs attributions, la rémunération que fixe le gouverneur en conseil.
+
+**Frais**
+
+- **(2)** Ils sont indemnisés, conformément aux directives du Conseil du Trésor, des frais de déplacement, de séjour et autres entraînés par l’exercice des attributions que leur confère la présente section hors de leur lieu habituel de travail.
+
+**Paiement sur le Trésor**
+
+- **(3)** Sur directive du ministre des Finances, la rémunération et les frais visés aux paragraphes (1) et (2) et les autres frais engagés par l’administrateur et l’administrateur adjoint dans l’exercice des attributions que leur confère la présente section sont payés sur le Trésor et portés au débit de la Caisse en application de l’alinéa 153.4(3)b).
+
+**Taxation**
+
+- **(4)** Les officiers taxateurs de la Cour fédérale peuvent, à la demande du ministre de la Justice, taxer les comptes de frais — à l’exception des frais visés au paragraphe (2) — engagés par l’administrateur et l’administrateur adjoint dans l’exercice des attributions que leur confère la présente section comme si l’administrateur ou l’administrateur adjoint représentait Sa Majesté dans une instance devant ce tribunal.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Assistance**
+
+**154.3** Dans l’exercice des attributions que lui confère la présente section, l’administrateur peut obtenir les avis et l’assistance techniques, professionnels et autres qu’il juge nécessaires.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+##### Demandes d’indemnisation
+
+
+
+**Droit de présenter une demande d’indemnisation**
+
+**154.4** 
+
+- **(1)** La personne qui subit des pertes, dommages ou frais prévus au paragraphe 153(1) en raison d’un accident ferroviaire peut présenter une demande en recouvrement de créance à l’administrateur dans les trois ans à compter de la date des pertes, dommages ou frais, mais au plus tard dans les six ans à compter de la date de l’accident.
+
+**Fardeau de la preuve**
+
+- **(2)** Le demandeur n’est pas tenu de démontrer que les pertes, dommages ou frais sont le résultat d’un accident ferroviaire, mais l’administrateur rejette la demande s’il est convaincu du contraire.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Droit aux intérêts**
+
+**154.5** 
+
+- **(1)** Pour l’application de la présente section, des intérêts sont réputés s’être accumulés, au taux prévu au paragraphe (2), à compter de la date des pertes, dommages ou frais associés à l’offre, à l’égard de la somme offerte à titre d’indemnisation relativement à une demande présentée en vertu de l’article 154.4.
+
+**Taux**
+
+- **(2)** Les intérêts sont calculés au taux fixé en vertu de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) et applicable aux sommes à verser par le ministre du Revenu national à titre de remboursement de paiements en trop d’impôt en application de cette loi.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Enquête et évaluation**
+
+**154.6** 
+
+- **(1)** À la réception d’une demande en recouvrement de créance présentée en vertu de l’article 154.4, l’administrateur enquête sur la demande et l’évalue.
+
+**Facteurs à considérer**
+
+- **(2)** Dans le cadre de l’enquête et de l’évaluation, l’administrateur prend en considération la question de savoir si la demande résulte, en tout ou en partie :
+	- **a)** soit d’une action ou omission du demandeur commise dans l’intention d’entraîner des dommages, des pertes ou des frais;
+	- **b)** soit de la négligence du demandeur.
+
+**Partage de la responsabilité**
+
+- **(3)** L’administrateur réduit proportionnellement ou éteint la créance s’il est convaincu que l’événement à l’origine de celle-ci résulte :
+	- **a)** soit d’une action ou omission du demandeur commise dans l’intention d’entraîner des dommages, des pertes ou des frais;
+	- **b)** soit de la négligence du demandeur.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Offre d’indemnisation — une seule compagnie de chemin de fer**
+
+**154.7** 
+
+- **(1)** Si une seule compagnie de chemin de fer est responsable, en application du paragraphe 152.7(1), des pertes, dommages et frais prévus au paragraphe 153(1) et résultant de l’accident ferroviaire auquel se rapporte la demande présentée en vertu de l’article 154.4, l’administrateur fait une offre d’indemnisation pour la partie de la demande qu’il juge bien fondée et n’ayant pas encore fait l’objet d’une indemnisation par la compagnie de chemin de fer, s’il est convaincu que celle-ci a versé, à l’égard des pertes, dommages ou frais prévus au paragraphe 153(1) et résultant de l’accident, un dédommagement équivalant ou supérieur au niveau minimal d’assurance responsabilité dont l’exploitation du chemin de fer impliqué dans l’accident ferroviaire doit bénéficier selon l’obligation prévue à l’alinéa 93.1(1)b) qui incombe à la compagnie.
+
+**Offre d’indemnisation — plus d’une compagnie de chemin de fer**
+
+- **(2)** Si plus d’une compagnie de chemin de fer est responsable, en application du paragraphe 152.7(1), des pertes, dommages et frais prévus au paragraphe 153(1) et résultant de l’accident ferroviaire auquel se rapporte la demande présentée en vertu de l’article 154.4, l’administrateur fait une offre d’indemnisation pour la partie de la demande qu’il juge bien fondée et n’ayant pas encore fait l’objet d’une indemnisation par les compagnies de chemin de fer, s’il est convaincu que celles-ci ont versé, à l’égard des pertes, dommages ou frais prévus au paragraphe 153(1) et résultant de l’accident, un dédommagement équivalant ou supérieur au total des niveaux minimaux d’assurance responsabilité dont l’exploitation des différents chemins de fer impliqués dans l’accident ferroviaire doit bénéficier selon l’obligation prévue à l’alinéa 93.1(1)b) qui incombe à chacune des compagnies.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Pouvoirs de l’administrateur**
+
+**154.8** Aux fins d’enquête et d’évaluation et afin d’établir le montant du dédommagement qu’une compagnie de chemin de fer a versé à l’égard de l’accident ferroviaire auquel se rapporte la demande, l’administrateur a les pouvoirs d’un commissaire nommé en vertu de la partie I de la [Loi sur les enquêtes](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-11.md).
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Refus réputé**
+
+**154.9** 
+
+- **(1)** Le demandeur dispose d’un délai de soixante jours à compter de la réception de l’offre d’indemnisation, ou de tout autre délai supérieur consenti par l’administrateur, pour l’accepter ou la refuser; si l’administrateur n’est pas avisé du choix du demandeur dans ce délai, ce dernier est réputé avoir refusé l’offre.
+
+**Appel devant la Cour fédérale — suffisance**
+
+- **(2)** Le demandeur peut, avant la fin du délai applicable prévu au paragraphe (1), interjeter appel devant la Cour fédérale en ce qui concerne la suffisance de l’offre.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Acceptation de l’offre**
+
+**155** 
+
+- **(1)** Si le demandeur accepte l’offre d’indemnisation, l’administrateur ordonne sans délai que soient versées au demandeur la somme offerte et la somme équivalant aux intérêts réputés s’être accumulés par application du paragraphe 154.5(1) à l’égard de cette somme.
+
+**Conséquences de l’acceptation**
+
+- **(2)** L’acceptation de l’offre d’indemnisation par le demandeur entraîne les conséquences suivantes :
+	- **a)** le demandeur ne peut plus faire valoir les droits qu’il peut avoir contre qui que ce soit en ce qui concerne les pertes, dommages ou frais auxquels se rapporte l’offre d’indemnisation;
+	- **b)** jusqu’à concurrence de la somme versée au demandeur, l’administrateur est subrogé dans les droits de celui-ci en ce qui concerne ces pertes, dommages ou frais;
+	- **c)** l’administrateur prend toute mesure raisonnable pour recouvrer la somme versée auprès de :
+		- **(i)** toute compagnie de chemin de fer responsable, en application du paragraphe 152.7(1), de ces pertes, dommages ou frais, si la limite de responsabilité prévue au paragraphe 152.7(1) ne s’applique pas à elle par l’effet du paragraphe 152.7(3) ou de l’article 152.9,
+		- **(ii)** toute autre personne responsable de ces pertes, dommages ou frais.
+
+**Action par l’administrateur**
+
+- **(3)** Pour l’application de l’alinéa (2)c), l’administrateur peut intenter une action en son nom ou au nom du demandeur.
+
+**Précision**
+
+- **(4)** Si la limite de responsabilité de toute compagnie de chemin de fer à l’égard de l’accident ferroviaire auquel se rapporte l’offre d’indemnisation est, par l’effet de l’article 152.9, plus élevée que la limite de responsabilité prévue au paragraphe 152.7(1), l’alinéa (2)c) n’a pas pour effet d’autoriser l’administrateur à recouvrer auprès de la compagnie de chemin de fer une somme supérieure à la différence entre les deux limites.
+> 1996, ch. 10, art. 155; 2000, ch. 16, art. 10; 2015, ch. 31, art. 10.
+
+
+
+
+
+**Appel devant la Cour fédérale — rejet**
+
+**155.1** Le demandeur peut, dans les soixante jours suivant la réception d’un avis de l’administrateur l’informant du rejet de sa demande, interjeter appel devant la Cour fédérale.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+##### Action contre une compagnie de chemin de fer
+
+
+
+**Action contre une compagnie de chemin de fer**
+
+**155.2** 
+
+- **(1)** Lorsqu’une action est intentée contre une compagnie de chemin de fer à l’égard de pertes, dommages et frais prévus au paragraphe 153(1) résultant d’un accident ferroviaire, la compagnie doit, dès que possible, transmettre une copie de l’acte introductif d’instance à l’administrateur.
+
+**Qualité de partie**
+
+- **(2)** L’administrateur est partie à toute instance visée au paragraphe (1) et peut comparaître afin de prendre les mesures qu’il juge indiquées pour la bonne administration de la Caisse.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+##### Contributions
+
+
+
+**Contribution — pétrole brut**
+
+**155.3** La contribution associée au transport de pétrole brut par chemin de fer est de 1,65 $ par tonne pour l’année se terminant le 31 mars 2016 et est rajustée chaque année conformément à l’article 155.4.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Rajustement annuel de la contribution**
+
+**155.4** 
+
+- **(1)** La contribution associée au transport de pétrole brut par chemin de fer est rajustée chaque année de telle sorte qu’elle devient égale, pour toute année subséquente, au produit des éléments suivants :
+	- **a)** la contribution qui aurait dû être versée pour cette année subséquente si aucun rajustement n’avait été fait à son égard aux termes du présent article;
+	- **b)** le rapport entre l’indice des prix à la consommation pour l’année civile qui précède l’année civile pour laquelle le rajustement est calculé et cet indice des prix en ce qui concerne l’année civile précédant l’année civile précédente.
+
+**Indice des prix à la consommation**
+
+- **(2)** Pour l’application du présent article, les règles ci-après s’appliquent :
+	- **a)** toute mention de ***l’indice des prix à la consommation*** s’entend, pour une période de douze mois, de la moyenne des indices des prix à la consommation pour le Canada pour chaque mois de cette période, publiés par Statistique Canada sous le régime de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md);
+	- **b)** dans les cas où l’indice des prix à la consommation pour le Canada, tel qu’il est publié par Statistique Canada sous le régime de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md), est rajusté pour refléter une nouvelle base de temps, un rajustement correspondant est fait à l’indice des prix à la consommation à l’égard de toute période de douze mois servant au calcul des contributions en application du présent article;
+	- **c)** un rajustement de l’indice des prix à la consommation pour le Canada, tel qu’il est publié par Statistique Canada sous le régime de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md), pour refléter une nouvelle base quant au contenu n’a aucun effet sur l’application du présent article.
+
+**Règlements**
+
+- **(3)** Le gouverneur en conseil peut, sur recommandation du ministre, prendre des règlements régissant le mode de détermination de la moyenne des indices des prix à la consommation pour une période donnée de douze mois et la façon d’exprimer cette moyenne quand il s’agit d’une fraction d’un nombre entier.
+
+**Publication de la contribution rajustée**
+
+- **(4)** Dès que la contribution associée au transport de pétrole brut est rajustée conformément au présent article, le ministre la fait publier dans la Gazette du Canada et elle devient alors admissible en preuve dans toute action; la contribution ainsi publiée fait foi de la contribution pour l’année en question.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Contribution — transport réglementaire**
+
+**155.5** À l’exclusion du transport de pétrole brut par chemin de fer, le montant et la méthode de calcul de la contribution associée au transport de toute marchandise — ou de toute marchandise relevant d’une catégorie de marchandises — qui est précisée par règlement sont établis par règlement.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Contribution additionnelle**
+
+**155.6** 
+
+- **(1)** Lorsqu’une somme est portée au débit du Trésor au titre de l’article 153.6, le ministre peut, par arrêté, ordonner aux compagnies de chemin de fer qui transportent des marchandises par chemin de fer, si une contribution prévue aux articles 155.3 ou 155.5 est associée à ce transport, de verser, conformément à l’arrêté, une contribution additionnelle dont le montant ou la méthode de calcul est établi dans l’arrêté.
+
+**Abrogation**
+
+- **(2)** Le ministre abroge l’arrêté dès que possible lorsqu’une somme équivalant à celle portée au débit du Trésor au titre de l’article 153.6 est créditée au Trésor à partir du solde créditeur de la Caisse et qu’il est convaincu que les modalités établies à l’égard de l’inscription de cette somme au débit du Trésor en vertu de cet article ont été respectées.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Versement de la contribution**
+
+**155.7** 
+
+- **(1)** La première compagnie de chemin de fer à transporter, après leur chargement, pour un prix autre qu’un prix fixé en application de l’alinéa 128(1)b), des marchandises dont le transport est associé à une contribution prévue aux articles 155.3 ou 155.5 et toute compagnie de chemin de fer tenue de verser une contribution au titre de l’arrêté pris en vertu de l’article 155.6 versent au receveur général une somme équivalant à la contribution qu’elle est ainsi tenue de payer ou qui est associée aux marchandises qu’elle transporte. Le versement est effectué dans les trente jours suivant la fin du trimestre au cours duquel la contribution est devenue exigible ou, si un règlement pris en vertu de l’alinéa 155.97d) est en vigueur, avant la fin de la période prévue dans ce règlement.
+
+**Exigibilité de la contribution — articles 155.3 et 155.5**
+
+- **(2)** La contribution prévue aux articles 155.3 ou 155.5 est exigible le premier jour où les marchandises sont transportées par la première compagnie de chemin de fer à les transporter après leur chargement pour un prix autre qu’un prix fixé en application de l’alinéa 128(1)b).
+
+**Exigibilité de la contribution — article 155.6**
+
+- **(3)** La contribution prévue à l’article 155.6 est exigible à la date précisée dans l’arrêté pris en vertu de cet article.
+
+**Définition de trimestre**
+
+- **(4)** Pour l’application du présent article, ***trimestre*** s’entend de toute période de trois mois débutant le premier jour de janvier, d’avril, de juillet ou d’octobre.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Intérêts sur les sommes non versées**
+
+**155.8** La compagnie de chemin de fer verse au receveur général sur le solde de la contribution qu’elle est tenue de verser selon les modalités prévues au paragraphe 155.7(1), des intérêts calculés au taux et selon les modalités fixés par décret du gouverneur en conseil, à compter du moment où le versement au receveur général est devenu exigible.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Créance de Sa Majesté**
+
+**155.81** Les sommes à verser en application du paragraphe 155.7(1) et de l’article 155.8 constituent des créances de Sa Majesté du chef du Canada, dont le recouvrement auprès de la compagnie de chemin de fer peut être poursuivi devant tout tribunal compétent.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Demande de renseignements**
+
+**155.82** Le ministre peut exiger qu’une compagnie de chemin de fer lui fournisse, en la forme et dans le délai qu’il précise, tout renseignement ou document qu’il estime nécessaire pour assurer le respect de la présente section.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Suspension et nouvelle imposition**
+
+**155.83** 
+
+- **(1)** Le ministre peut, par arrêté, soit suspendre l’application des paragraphes 113(2.1) et 155.7(1) à l’égard de tout transport visé par ces dispositions pour une période qu’il précise dans l’arrêté, soit la rétablir si elle a été suspendue indéfiniment.
+
+**Aucune conséquence sur le rajustement annuel**
+
+- **(2)** L’arrêté pris en vertu du paragraphe (1) n’a aucun effet sur l’application de l’article 155.4 à l’égard de toute contribution.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Registre et livres comptables**
+
+**155.84** 
+
+- **(1)** Toute compagnie de chemin de fer tenue de verser une contribution en application du paragraphe 155.7(1) tient, à son établissement au Canada ou à un autre endroit au Canada désigné par le ministre, des registres et livres comptables qui contiennent les renseignements suivants :
+	- **a)** les sommes à verser en application de ce paragraphe;
+	- **b)** les types et les quantités de marchandises transportées auxquelles se rapportent ces sommes;
+	- **c)** si ces sommes se rapportent à un transport auquel est associée une contribution prévue aux articles 155.3 ou 155.5, la date à laquelle les marchandises ont été transportées par la compagnie de chemin de fer pour la première fois après leur chargement et le lieu de départ des marchandises ainsi transportées pour un prix autre qu’un prix fixé en application de l’alinéa 128(1)b);
+	- **d)** si ces sommes se rapportent à un transport auquel est associée une contribution précisée dans l’arrêté pris en vertu de l’article 155.6, la date à laquelle les marchandises ont été transportées par la compagnie de chemin de fer et les lieux de départ et d’arrivée des marchandises ainsi transportées.
+
+**Destruction**
+
+- **(2)** Les compagnies de chemin de fer tenues, en application du paragraphe (1), de tenir des registres et des livres comptables doivent, sauf autorisation contraire du ministre, les conserver, de même que les comptes et pièces justificatives nécessaires à la vérification des renseignements qui s’y trouvent, pendant six ans après la fin de l’année à laquelle se rapportent les registres et livres comptables.
+
+**Examen**
+
+- **(3)** Elles doivent, à toute heure convenable, permettre aux personnes désignées par le ministre en vertu du paragraphe 155.85(1) d’examiner les registres et livres comptables, ainsi que les comptes et pièces justificatives nécessaires à la vérification des renseignements qui s’y trouvent; elles doivent aussi leur fournir les moyens nécessaires à cet examen.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Désignation**
+
+**155.85** 
+
+- **(1)** Le ministre peut désigner toute personne — à titre individuel ou au titre de son appartenance à une catégorie — pour l’exécution et le contrôle d’application du paragraphe 155.7(1) et de l’article 155.84.
+
+**Certificat**
+
+- **(2)** Le ministre remet à la personne qu’il désigne un certificat attestant sa qualité que celle-ci présente, sur demande, au propriétaire, à l’occupant ou au responsable du lieu visité en vertu du paragraphe 155.86(1).
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Inspection**
+
+**155.86** 
+
+- **(1)** La personne désignée peut, à toute fin liée à la vérification du respect du paragraphe 155.7(1) et de l’article 155.84, entrer dans tout lieu lorsqu’elle a des motifs raisonnables de croire que s’y trouvent des registres, livres comptables, comptes, pièces justificatives ou autres documents ayant rapport aux sommes à verser en application du paragraphe 155.7(1).
+
+**Pouvoirs**
+
+- **(2)** La personne désignée peut, à ces mêmes fins :
+	- **a)** examiner toute chose se trouvant dans le lieu, notamment tout document;
+	- **b)** faire usage, directement ou indirectement, des moyens de communication se trouvant dans le lieu;
+	- **c)** faire usage, directement ou indirectement, de tout système informatique se trouvant dans le lieu pour examiner les données qu’il contient ou auxquelles il donne accès, reproduire ou faire reproduire ces données sous forme d’imprimé ou toute autre forme intelligible et emporter tout imprimé ou sortie de données pour examen ou reproduction;
+	- **d)** établir ou faire établir tout document à partir de ces données;
+	- **e)** faire usage, directement ou indirectement, du matériel de reproduction se trouvant dans le lieu;
+	- **f)** prendre des photographies, effectuer des enregistrements et faire des croquis de toute chose se trouvant dans le lieu;
+	- **g)** interdire ou limiter l’accès à tout ou partie du lieu ou à toute chose se trouvant dans le lieu;
+	- **h)** emporter toute chose se trouvant dans le lieu afin de l’examiner.
+
+**Personnes accompagnant la personne désignée**
+
+- **(3)** La personne désignée peut être accompagnée des personnes qu’elle estime nécessaires pour l’aider dans l’exercice des attributions que lui confère le présent article.
+
+**Assistance**
+
+- **(4)** Le propriétaire ou le responsable du lieu, ainsi que quiconque s’y trouve, sont tenus de prêter à la personne désignée toute l’assistance qu’elle peut valablement exiger pour lui permettre d’exercer des attributions que lui confère le présent article, et de lui fournir les documents, les renseignements et l’accès aux données qu’elle peut valablement exiger.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Mandat pour entrer dans une maison d’habitation**
+
+**155.87** 
+
+- **(1)** Si le lieu visé au paragraphe 155.86(1) est une maison d’habitation, la personne désignée ne peut toutefois y entrer sans le consentement de l’occupant que si elle est munie d’un mandat décerné en vertu du paragraphe (2).
+
+**Délivrance du mandat**
+
+- **(2)** Sur demande *ex parte*, le juge de paix peut délivrer un mandat autorisant, sous réserve des conditions qu’il y fixe, la personne désignée à entrer dans une maison d’habitation s’il est convaincu, sur la foi d’une dénonciation sous serment, que sont réunies les conditions suivantes :
+	- **a)** la maison d’habitation est un lieu visé au paragraphe 155.86(1);
+	- **b)** l’entrée est nécessaire pour l’application de ce paragraphe;
+	- **c)** soit l’occupant a refusé l’entrée à la personne désignée, soit il y a des motifs raisonnables de croire que tel sera le cas ou qu’il sera impossible d’obtenir son consentement.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Rapport au ministre**
+
+**155.88** Au terme de l’inspection, la personne désignée rédige un rapport qu’elle transmet au ministre.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Remise des documents**
+
+**155.89** 
+
+- **(1)** Tout document emporté en vertu de l’alinéa 155.86(2)h) est remis à la personne qui en avait la garde lors de la saisie, dans les vingt et un jours suivant cette saisie ou dans le délai plus long que fixe un juge d’une cour supérieure ou qu’accepte la personne ayant le droit de le récupérer.
+
+**Avis d’une demande de prorogation**
+
+- **(2)** La personne qui avait la garde du document emporté doit être avisée de toute demande de prorogation du délai prévue au paragraphe (1).
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Copies**
+
+**155.9** Les copies de documents, faites en vertu du paragraphe 155.86(2) et paraissant certifiées conformes par le ministre, sont admissibles en preuve lors d’une poursuite pour une infraction relative à la contravention d’une disposition de la présente section ou à la contravention d’un arrêté ou d’une disposition d’un règlement pris en vertu de la présente section et, sauf preuve contraire, font foi de leur contenu.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Déclarations fausses ou trompeuses**
+
+**155.91** 
+
+- **(1)** Il est interdit de faire sciemment une déclaration fausse ou trompeuse ou de fournir sciemment des renseignements faux ou trompeurs, oralement ou par écrit, à une personne dans l’exercice des attributions que lui confère l’article 155.86.
+
+**Entrave**
+
+- **(2)** Il est interdit d’entraver sciemment l’action d’une personne dans l’exercice des attributions que lui confère l’article 155.86.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+##### Administration de la Caisse
+
+
+
+**Registres et livres comptables**
+
+**155.92** 
+
+- **(1)** L’administrateur veille :
+	- **a)** à faire tenir des registres et livres comptables concernant la Caisse;
+	- **b)** à faire mettre en oeuvre des moyens de contrôle et d’information et à faire appliquer des méthodes de gestion concernant les finances et la gestion de la Caisse.
+
+**Responsabilité de l’administrateur**
+
+- **(2)** Pour l’application du paragraphe (1), l’administrateur garantit, dans la mesure du possible, que :
+	- **a)** l’exercice par lui et l’administrateur adjoint des attributions que leur confère la présente section se fait avec efficacité et en conformité avec la présente section;
+	- **b)** les actifs qu’ils utilisent sont protégés et contrôlés;
+	- **c)** les ressources financières, humaines et matérielles qu’ils utilisent sont gérées de façon économique et efficiente.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Rapport annuel**
+
+**155.93** 
+
+- **(1)** Le plus tôt possible, mais au plus tard dans les trois mois suivant la fin de chaque exercice, l’administrateur présente au ministre, en la forme prévue par celui-ci, un rapport annuel de ses activités pour l’exercice précédent; le ministre en fait déposer un exemplaire devant chaque chambre du Parlement dans leurs quinze premiers jours de séance suivant sa réception.
+
+**Présentation matérielle et contenu**
+
+- **(2)** Le rapport annuel comporte notamment les éléments suivants :
+	- **a)** un état des sommes portées au crédit ou au débit de la Caisse au cours de l’exercice;
+	- **b)** un état des frais engagés au cours de l’exercice par l’administrateur et l’administrateur adjoint dans l’exercice des attributions que leur confère la présente section;
+	- **c)** un état des honoraires payés à l’administrateur et à l’administrateur adjoint au cours de l’exercice;
+	- **d)** le rapport du vérificateur sur les états visés aux alinéas a) à c);
+	- **e)** les frais de préparation du rapport du vérificateur.
+
+**Définition de exercice**
+
+- **(3)** Au présent article, ***exercice*** s’entend de la période commençant le 1<sup>er</sup> avril et se terminant le 31 mars de l’année suivante.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Examen spécial**
+
+**155.94** 
+
+- **(1)** L’administrateur fait procéder à un examen spécial des moyens et des méthodes visés à l’alinéa 155.92(1)b) afin de vérifier si, pendant la période considérée, ils ont été, selon le cas, mis en oeuvre ou appliqués d’une façon garantissant, dans la mesure du possible, que les actifs visés à l’alinéa 155.92(2)b) sont protégés et contrôlés et que les ressources visées à l’alinéa 155.92(2)c) sont gérées de façon économique et efficiente.
+
+**Périodicité**
+
+- **(2)** Les examens spéciaux par l’administrateur sont au moins quinquennaux; des examens spéciaux complémentaires ont lieu à la demande du gouverneur en conseil ou du ministre.
+
+**Examinateur**
+
+- **(3)** L’administrateur — ou, s’il demande la tenue de l’examen spécial, le gouverneur en conseil ou le ministre — nomme, à titre d’examinateur, la personne qui est chargée de l’examen spécial.
+
+**Conflit d’intérêts**
+
+- **(4)** L’examinateur ne peut accepter ni occuper de charge ou d’emploi — ni exercer d’activité — incompatibles avec les attributions que lui confèrent le présent article et l’article 155.95.
+
+**Plan d’examen**
+
+- **(5)** Avant de procéder à ses travaux, l’examinateur étudie les moyens et les méthodes en cause et établit un plan d’examen, notamment un énoncé des critères qu’il entend appliquer; il présente ce plan au ministre et à l’administrateur.
+
+**Désaccord**
+
+- **(6)** Les désaccords entre l’examinateur et l’administrateur sur le plan d’examen sont tranchés par le ministre.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Rapport**
+
+**155.95** 
+
+- **(1)** Au terme de l’examen spécial, l’examinateur rédige un rapport sur ses conclusions et le soumet au ministre et à l’administrateur.
+
+**Contenu**
+
+- **(2)** Le rapport comporte notamment les éléments suivants :
+	- **a)** un énoncé indiquant si, selon l’examinateur et compte tenu des critères établis en conformité avec le paragraphe 155.94(5), il peut être garanti que, dans la mesure du possible, les moyens et méthodes étudiés n’ont pas de défauts graves;
+	- **b)** un énoncé indiquant dans quelle mesure l’examinateur s’est fié aux résultats d’une vérification interne.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+**Accès aux renseignements**
+
+**155.96** 
+
+- **(1)** L’examinateur peut ordonner à l’administrateur, à l’administrateur adjoint ou à leurs employés ou mandataires ou à leurs prédécesseurs — dans la mesure où l’examinateur l’estime nécessaire pour établir les rapports prévus par la présente section et où il leur est normalement possible de le faire — de lui fournir des renseignements et des éclaircissements et de lui donner accès aux registres, livres comptables, comptes, pièces justificatives et autres documents relatifs à la Caisse.
+
+**Responsabilité de l’administrateur**
+
+- **(2)** À la demande de l’examinateur, l’administrateur :
+	- **a)** fournit les renseignements et les éclaircissements que l’examinateur estime nécessaires pour lui permettre d’établir les rapports exigés par la présente section et qu’il peut normalement fournir;
+	- **b)** recueille auprès de l’administrateur adjoint, des employés ou mandataires, de leurs prédécesseurs ou de tout administrateur précédent, les renseignements et les éclaircissements que ces personnes peuvent normalement fournir et que l’examinateur estime nécessaires pour lui permettre d’établir les rapports exigés par la présente section et les fournir à l’examinateur.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+#### Règlements
+
+
+
+**Gouverneur en conseil**
+
+**155.97** Le gouverneur en conseil peut, par règlement :
+- **a)** désigner, individuellement ou par catégorie, des marchandises pour l’application de la définition de ***marchandise désignée***, à l’article 152.5;
+- **b)** prévoir des moyens de défense pour l’application de l’article 153.1;
+- **c)** régir toute marchandise — ou catégorie de marchandises — pour l’application de l’article 155.5 et fixer le montant et la méthode de calcul de la contribution qui y est associée;
+- **d)** régir la période pour l’application du paragraphe 155.7(1);
+- **e)** régir la conservation et le dépôt, auprès du ministre, par les compagnies de chemin de fer, de renseignements concernant tout transport qu’elles ont effectué et auquel est associée une contribution prévue aux articles 155.3, 155.5 ou 155.6;
+- **f)** régir le taux d’intérêt pour l’application de l’article 155.8 ou la méthode de calcul de ce taux;
+- **g)** prendre toute autre mesure d’application de la présente section.
+> 2015, ch. 31, art. 10.
+
+
+
+
+
+#### Disposition générale
+
+
+
+**Articles 26 et 37**
+
+**155.98** Pour l’application des articles 26 et 37, la présente section est réputée ne pas faire partie de la loi fédérale visée à ces articles.
+> 2015, ch. 31, art. 10.
+
 
 
 
@@ -4777,10 +5735,18 @@ où
 	- **a)** désigner comme texte dont la contravention est assujettie aux articles 179 et 180 toute disposition de l’article 51 ou des règlements pris en vertu des articles 50 ou 51, ou toute obligation imposée par l’article 51 ou ces règlements;
 	- **b)** prévoir le montant maximal — plafonné, dans le cas des personnes physiques, à 5 000 $ et, dans le cas des personnes morales, à 25 000 $ — de la sanction applicable à chaque contravention à un texte ainsi désigné.
 
+**Articles 93.1 ou 94**
+
+- **(2.1)** Toute contravention aux articles 93.1 ou 94 constitue une violation au titre des articles 179 et 180. Le montant maximal de la sanction applicable à chaque contravention est de 100 000 $.
+
+**Paragraphes 155.7(1) ou 155.84(1) à (3)**
+
+- **(2.2)** Toute contravention au paragraphe 155.7(1) ou à l’un des paragraphes 155.84(1) à (3) constitue une violation au titre des articles 179 et 180. Le montant maximal de la sanction applicable à chaque contravention est de 100 000 $.
+
 **Paragraphes 116.2(1) ou (4)**
 
 - **(3)** Toute contravention aux paragraphes 116.2(1) ou (4) constitue une violation au titre des articles 179 et 180. Le montant maximal de la sanction applicable à chaque contravention est de 100 000 $.
-> 1996, ch. 10, art. 177; 2007, ch. 19, art. 49; 2013, ch. 31, art. 12; 2014, ch. 8, art. 9.
+> 1996, ch. 10, art. 177; 2007, ch. 19, art. 49; 2013, ch. 31, art. 12; 2014, ch. 8, art. 9; 2015, ch. 31, art. 11.
 
 
 
@@ -4790,7 +5756,7 @@ où
 
 **178** 
 
-- **(1)** L’Office ou le ministre, à l’égard d’une contravention à un texte désigné au titre des paragraphes 177(1), (1.1), (2) ou (3), peut désigner, individuellement ou par catégorie, les agents verbalisateurs et déterminer la forme et la teneur des procès-verbaux de violation.
+- **(1)** L’Office, à l’égard d’une contravention à un texte désigné au titre des paragraphes 177(1), (1.1) ou (2.1), ou le ministre, à l’égard d’une contravention à un texte désigné au titre des paragraphes 177(2), (2.2) ou (3), peut désigner, individuellement ou par catégorie, les agents verbalisateurs et déterminer la forme et la teneur des procès-verbaux de violation.
 
 **Attributions des agents**
 
@@ -4807,7 +5773,7 @@ où
 **Assistance**
 
 - **(5)** La personne à qui l’agent demande la communication de documents ou données informatiques est tenue de lui prêter toute l’assistance possible dans l’exercice de ses fonctions et de lui donner les renseignements qu’il peut valablement exiger quant à l’application de la présente loi.
-> 1996, ch. 10, art. 178; 2007, ch. 19, art. 50; 2013, ch. 31, art. 13; 2014, ch. 8, art. 10.
+> 1996, ch. 10, art. 178; 2007, ch. 19, art. 50; 2013, ch. 31, art. 13; 2014, ch. 8, art. 10; 2015, ch. 31, art. 12.
 
 
 
@@ -4960,8 +5926,8 @@ où
 
 **Délégation ministérielle**
 
-- **(2)** S’il s’agit d’une contravention à un texte désigné au titre des paragraphes 177(2) ou (3), le ministre peut déléguer à l’Office les attributions que lui confère la présente partie.
-> 2007, ch. 19, art. 52; 2013, ch. 31, art. 14; 2014, ch. 8, art. 12.
+- **(2)** S’il s’agit d’une contravention à un texte désigné au titre des paragraphes 177(2), (2.2) ou (3), le ministre peut déléguer à l’Office les attributions que lui confère la présente partie.
+> 2007, ch. 19, art. 52; 2013, ch. 31, art. 14; 2014, ch. 8, art. 12; 2015, ch. 31, art. 13.
 
 
 
@@ -5841,8 +6807,53 @@ Triticale
 
 
 
-### **ANNEXES III ET IV** 
-[Abrogées, 2000, ch. 16, art. 19]
+### SCHEDULE III** / ** ANNEXE III
+**(*Definition of “TIH (Toxic Inhalation Hazard) material”* / définition de « matière toxique par inhalation »)**
+## *UN Numbers for Dangerous Goods* / Numéros ONU de marchandises dangereuses
+1005, 1008, 1016, 1017, 1023, 1026, 1040, 1045, 1048, 1050, 1051, 1052, 1053, 1062, 1064, 1067, 1069, 1071, 1076, 1079, 1082, 1092, 1098, 1135, 1143, 1163, 1182, 1185, 1238, 1239, 1244, 1251, 1259, 1380, 1510, 1541, 1560, 1569, 1580, 1581, 1582, 1583, 1589, 1595, 1605, 1612, 1613, 1614, 1647, 1660, 1670, 1672, 1695, 1722, 1741, 1744, 1745, 1746, 1749, 1752, 1754, 1809, 1810, 1828, 1829, 1831, 1834, 1838, 1859, 1892, 1911, 1953, 1955, 1967, 1975, 1994, 2032, 2186, 2188, 2189, 2190, 2191, 2192, 2194, 2195, 2196, 2197, 2198, 2199, 2202, 2204, 2232, 2285, 2334, 2337, 2382, 2407, 2417, 2418, 2420, 2421, 2438, 2442, 2474, 2477, 2478, 2480, 2481, 2482, 2483, 2484, 2485, 2486, 2487, 2488, 2521, 2534, 2548, 2605, 2606, 2644, 2646, 2668, 2676, 2692, 2740, 2742, 2743, 2826, 2901, 2983, 3023, 3057, 3079, 3083, 3160, 3162, 3168, 3169, 3246, 3275, 3276, 3278, 3279, 3280, 3281, 3294, 3300, 3303, 3304, 3305, 3306, 3307, 3308, 3309, 3310, 3318, 3355, 3381, 3382, 3383, 3384, 3385, 3386, 3387, 3388, 3389, 3390, 3488, 3489, 3490, 3491, 3512, 3514, 3515, 3516, 3517, 3518, 3519, 3520, 3521, 3522, 3523, 3524, 3525, 3526
 
+
+> 1996, ch. 10, ann. III; 2000, ch. 16, art. 19; 2015, ch. 31, art. 14.
+
+
+
+
+### **ANNEXE IV** 
+**(alinéas 92(1)b) et (3)b), paragraphe 92(4) et alinéa 93.1(1)b))**
+<table>
+<h4>Niveaux minimaux d’assurance responsabilité</h4>
+<tr>
+<th></th>
+<th>Colonne I</th>
+<th>Colonne II</th>
+</tr>
+<tr>
+<th>Article</th>
+<th>Catégorie d’exploitation de chemin de fer</th>
+<th>Niveau minimal d’assurance responsabilité</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Exploitation de chemin de fer non visée aux articles 2 à 4</td>
+<td>25 000 000 $ par évènement</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Exploitation de chemin de fer comprenant le transport, par année civile, de moins de 4 000 tonnes de matières toxiques par inhalation, de moins de 100 000 tonnes de pétrole brut ou d’au moins 40 000 tonnes d’autres marchandises dangereuses au sens de l’article 2 de la [Loi de 1992 sur le transport des marchandises dangereuses](/fr/Lois/Lois%20du%20Canada/1992/ch.%2034.md)</td>
+<td>50 000 000 $ par évènement</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Exploitation de chemin de fer comprenant le transport, par année civile, d’au moins 4 000 tonnes mais de moins de 50 000 tonnes de matières toxiques par inhalation ou d’au moins 100 000 tonnes mais de moins de 1 500 000 tonnes de pétrole brut</td>
+<td>125 000 000 $ par évènement</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Exploitation de chemin de fer comprenant le transport, par année civile, d’au moins 50 000 tonnes de matières toxiques par inhalation ou d’au moins 1 500 000 tonnes de pétrole brut</td>
+<td>1 000 000 000 $ par évènement</td>
+</tr>
+</table>
+
+> 1996, ch. 10, ann. IV; 2000, ch. 16, art. 19; 2015, ch. 31, art. 14.
 
 
