@@ -96,36 +96,38 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **6** In this Act,
 
-***Agency*** means the Canadian Transportation Agency continued by subsection 7(1);
+***Agency*** means the Canadian Transportation Agency continued by subsection 7(1); (*Office*)
 
-***carrier*** means a person who is engaged in the transport of goods or passengers by any means of transport under the legislative authority of Parliament;
+***carrier*** means a person who is engaged in the transport of goods or passengers by any means of transport under the legislative authority of Parliament; (*transporteur*)
 
-***Chairperson*** means the Chairperson of the Agency;
+***Chairperson*** means the Chairperson of the Agency; (*président*)
 
-***goods*** includes rolling stock and mail;
+***goods*** includes rolling stock and mail; (*marchandises*)
 
-***member*** means a member of the Agency appointed under subsection 7(2) and includes a temporary member;
+***member*** means a member of the Agency appointed under subsection 7(2) and includes a temporary member; (*membre*)
 
-***Minister*** means the Minister of Transport;
+***Minister*** means the Minister of Transport; (*ministre*)
 
-***rolling stock*** includes a locomotive, engine, motor car, tender, snow-plough, flanger and any car or railway equipment that is designed for movement on its wheels on the rails of a railway;
+***rolling stock*** includes a locomotive, engine, motor car, tender, snow-plough, flanger and any car or railway equipment that is designed for movement on its wheels on the rails of a railway; (*matériel roulant*)
 
-***shipper*** means a person who sends or receives goods by means of a carrier or intends to do so;
+***shipper*** means a person who sends or receives goods by means of a carrier or intends to do so; (*expéditeur*)
 
-***sitting day of Parliament*** means a day on which either House of Parliament sits;
+***sitting day of Parliament*** means a day on which either House of Parliament sits; (*jour de séance*)
 
-***superior court*** means
+***superior court*** means
 - **(a)** in Ontario, the Superior Court of Justice,
 - **(b)** in Quebec, the Superior Court,
 - **(c)** in New Brunswick, Manitoba, Saskatchewan and Alberta, the Court of Queen’s Bench,
 - **(d)** in Nova Scotia, British Columbia, Prince Edward Island, Yukon and the Northwest Territories, the Supreme Court,
 - **(e)** in Newfoundland and Labrador, the Trial Division of the Supreme Court, and
-- **(f)** in Nunavut, the Nunavut Court of Justice;
+- **(f)** in Nunavut, the Nunavut Court of Justice; (*cour supérieure*)
 
-***temporary member*** means a temporary member of the Agency appointed under subsection 9(1);
+***temporary member*** means a temporary member of the Agency appointed under subsection 9(1); (*membre temporaire*)
 
-***Vice-Chairperson*** means the Vice-Chairperson of the Agency.
-> 1996, c. 10, s. 6; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 20; 2002, c. 7, s. 114(E); 2015, c. 3, s. 29.
+***TIH (Toxic Inhalation Hazard) material*** means a gas or substance that is included in Class 2.3 of the [Transportation of Dangerous Goods Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2001/286.md) or that, under paragraph 2.28(c) of those Regulations, is included in Class 6.1 of those Regulations. It includes a dangerous good with a UN number that is set out in Column 1 of the Dangerous Goods List in Chapter 3.2 of the Recommendations on the Transport of Dangerous Goods – Model Regulations, Eighteenth revised edition, 2013, published by the United Nations and that is listed in Schedule III; (*matière toxique par inhalation*)
+
+***Vice-Chairperson*** means the Vice-Chairperson of the Agency. (*vice-président*)
+> 1996, c. 10, s. 6; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 20; 2002, c. 7, s. 114(E); 2015, c. 3, s. 29, c. 31, s. 2.
 
 
 
@@ -624,7 +626,7 @@ and the Agency may direct that the whole or any portion of the order shall have 
 
 **36.2** 
 
-- **(1)** If sections 36.1 and 169.1 do not apply, the Agency may mediate or arbitrate a dispute relating to any railway matter covered under Part III or IV, or to the application of any rate or charge for the movement of goods by railways or for the provision of incidental services, if requested to do so by all parties to the dispute.
+- **(1)** If sections 36.1 and 169.1 do not apply, the Agency may mediate or arbitrate a dispute relating to any railway matter covered under Part III — other than Division VI.2 — or Part IV, or to the application of any rate or charge for the movement of goods by railways or for the provision of incidental services, if requested to do so by all parties to the dispute.
 
 **Establishment of roster**
 
@@ -637,7 +639,7 @@ and the Agency may direct that the whole or any portion of the order shall have 
 **Mediator not to act in other proceedings**
 
 - **(3)** The person who acts as mediator or arbitrator may not act in any other proceedings before the Agency in relation to any matter that was at issue in the mediation or arbitration.
-> 2007, c. 19, s. 7; 2008, c. 5, ss. 8, 9.
+> 2007, c. 19, s. 7; 2008, c. 5, ss. 8, 9; 2015, c. 31, s. 3.
 
 
 
@@ -2036,36 +2038,38 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 
 **87** In this Part,
 
-***land*** includes an interest in land and, in relation to land in the Province of Quebec, includes the interest of a lessee;
+***crude oil*** means virgin or naturally occurring unrefined petroleum, or diluted bitumen or any other unrefined hydrocarbon mixture that is similar in composition to virgin or naturally occurring unrefined petroleum. It includes crude oil with the UN numbers 1267 and 3494 that are set out in Column 1 of the Dangerous Goods List in Chapter 3.2 of the Recommendations on the Transport of Dangerous Goods – Model Regulations, Eighteenth revised edition, 2013, published by the United Nations; (*pétrole brut*)
 
-***metropolitan area*** means any area that is classified by Statistics Canada in its most recent census of Canada as a census metropolitan area;
+***land*** includes an interest in land and, in relation to land in the Province of Quebec, includes the interest of a lessee; (*terres*)
 
-***operate*** includes, with respect to a railway, any act necessary for the maintenance of the railway or the operation of a train;
+***metropolitan area*** means any area that is classified by Statistics Canada in its most recent census of Canada as a census metropolitan area; (*région métropolitaine*)
 
-***point of destination*** means, with respect to traffic on a railway line that is subject to a transfer described in subsection 128(4) or 129(2), the point where the traffic is transferred from the line of a railway company to a line to which this Part does not apply;
+***operate*** includes, with respect to a railway, any act necessary for the maintenance of the railway or the operation of a train; (*exploitation*)
 
-***point of origin*** means, with respect to traffic on a railway line that is subject to a transfer described in subsection 128(4) or 129(2), the point where the traffic is transferred to the line of a railway company from a line to which this Part does not apply;
+***point of destination*** means, with respect to traffic on a railway line that is subject to a transfer described in subsection 128(4) or 129(2), the point where the traffic is transferred from the line of a railway company to a line to which this Part does not apply; (*point de destination*)
 
-***public passenger service provider*** means VIA Rail Canada Inc., a passenger rail service provider designated by the Minister or an urban transit authority;
+***point of origin*** means, with respect to traffic on a railway line that is subject to a transfer described in subsection 128(4) or 129(2), the point where the traffic is transferred to the line of a railway company from a line to which this Part does not apply; (*point d’origine*)
 
-***railway*** means a railway within the legislative authority of Parliament and includes
+***public passenger service provider*** means VIA Rail Canada Inc., a passenger rail service provider designated by the Minister or an urban transit authority; (*société de transport publique*)
+
+***railway*** means a railway within the legislative authority of Parliament and includes
 - **(a)** branches, extensions, sidings, railway bridges, tunnels, stations, depots, wharfs, rolling stock, equipment, stores, or other things connected with the railway, and
-- **(b)** communications or signalling systems and related facilities and equipment used for railway purposes;
+- **(b)** communications or signalling systems and related facilities and equipment used for railway purposes; (*chemin de fer*)
 
-***railway company*** means a person who holds a certificate of fitness under section 92, a partnership of such persons or a person who is mentioned in subsection 90(2);
+***railway company*** means a person who holds a certificate of fitness under section 92, a partnership of such persons or a person who is mentioned in subsection 90(2); (*compagnie de chemin de fer*)
 
-***road*** means any way or course, whether public or not, available for vehicular or pedestrian use;
+***road*** means any way or course, whether public or not, available for vehicular or pedestrian use; (*route*)
 
-***Special Act*** means an Act under which a railway company has authority to construct or operate a railway, or that is enacted with special reference to a railway, and includes
+***Special Act*** means an Act under which a railway company has authority to construct or operate a railway, or that is enacted with special reference to a railway, and includes
 - **(a)** letters patent constituting a company’s authority to construct or operate a railway, granted before April 1, 1969, under any Act, and the Act under which the letters patent were granted or confirmed, and
-- **(b)** letters patent incorporating a company under section 11 of the Railway Act on or after April 1, 1969, whose objects are the construction or operation of a railway in Canada;
+- **(b)** letters patent incorporating a company under section 11 of the Railway Act on or after April 1, 1969, whose objects are the construction or operation of a railway in Canada; (*loi spéciale*)
 
-***tariff*** means a schedule of rates, charges, terms and conditions applicable to the movement of traffic and incidental services;
+***tariff*** means a schedule of rates, charges, terms and conditions applicable to the movement of traffic and incidental services; (*tarif*)
 
- ou ***traffic*** means the traffic of goods, including equipment required for their movement;
+***traffic*** means the traffic of goods, including equipment required for their movement; (*transport* ou *trafic*)
 
-***urban transit authority*** means an entity owned or controlled by the federal government or a provincial, municipal or district government that provides commuter services.
-> 1996, c. 10, s. 87; 2007, c. 19, s. 28.
+***urban transit authority*** means an entity owned or controlled by the federal government or a provincial, municipal or district government that provides commuter services. (*administration de transport de banlieue*)
+> 1996, c. 10, s. 87; 2007, c. 19, s. 28; 2015, c. 31, s. 4.
 
 
 
@@ -2114,7 +2118,11 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 
 **90** 
 
-- **(1)** No person shall construct or operate a railway without a certificate of fitness.
+- **(1)** No person shall
+	- **(a)** construct a railway without being the holder of a certificate of fitness that is issued under paragraph 92(1)(a); or
+	- **(b)** operate a railway without being the holder of a certificate of fitness that is
+		- **(i)** issued under paragraph 92(1)(a) for the portion of the operation that relates to a passenger rail service, or
+		- **(ii)** issued under paragraph 92(1)(b) for the portion of the operation that does not relate to a passenger rail service.
 
 **Exception — purchaser of railway**
 
@@ -2122,6 +2130,8 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 	- **(a)** under a trust deed or mortgage;
 	- **(b)** at the instance of the holders of a mortgage, bond or debenture for the payment of which a charge has been created on the railway or portion; or
 	- **(c)** under any other lawful proceeding.
+> 1996, c. 10, s. 90; 2015, c. 31, s. 5.
+
 
 
 
@@ -2143,15 +2153,37 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 
 **92** 
 
-- **(1)** The Agency shall issue a certificate of fitness for the proposed construction or operation of a railway if the Agency is satisfied that there will be adequate liability insurance coverage for the proposed construction or operation, as determined in accordance with the regulations.
+- **(1)** The Agency shall issue a certificate of fitness
+	- **(a)** for the proposed operation of a railway that relates to a passenger rail service or for the proposed construction of a railway, if the Agency is satisfied that there will be adequate liability insurance coverage for the proposed operation or construction, as determined in accordance with the regulations; or
+	- **(b)** for the proposed operation of a railway that does not relate to a passenger rail service, if the Agency is satisfied that there will be, for the proposed operation, the applicable minimum liability insurance coverage, which includes any self-insurance, as set out in Schedule IV.
+
+**Covered risks**
+
+- **(1.1)** The liability insurance referred to in paragraph (1)(b) must cover the following risks that may arise out of the proposed operation:
+	- **(a)** third-party bodily injury or death, including injury or death to passengers;
+	- **(b)** third-party property damage, excluding damage to goods carried on a shipper’s behalf;
+	- **(c)** risks that are associated with a leak, pollution or contamination; and
+	- **(d)** in the case of a railway accident as defined in section 152.5, the other losses, damages, costs and expenses described in subsection 153(1).
+
+**Self-insurance**
+
+- **(1.2)** For the purpose of paragraph (1)(b), the amount of self-insurance must not exceed the maximum amount of self-insurance that the person who will be responsible for the proposed operation can sustain based on that person’s financial capability.
 
 **Termini and route**
 
 - **(2)** A certificate of fitness issued pursuant to an application mentioned in subsection 91(2) must specify the termini and route of every railway line to be operated.
 
-**Regulations**
+**Regulations made by Agency**
 
-- **(3)** The Agency may make regulations for determining the adequacy of liability insurance coverage, including self-insurance.
+- **(3)** The Agency may make regulations
+	- **(a)** in respect of the proposed operation of a railway that relates to a passenger rail service or of a proposed construction of a railway, for determining the adequacy of liability insurance coverage, including any self-insurance; and
+	- **(b)** in respect of the proposed operation of a railway that does not relate to a passenger rail service, respecting the provision of information that the Agency requires to determine whether there will be, for the proposed operation, the applicable minimum liability insurance coverage, which includes any self-insurance, as set out in Schedule IV.
+
+**Regulations made by Governor in Council**
+
+- **(4)** The Governor in Council may, by regulation, amend Schedule IV by deleting or adding a class of railway operations and an amount of minimum liability insurance coverage or by amending such a class — including by adding or deleting factors that define its scope — or such an amount.
+> 1996, c. 10, s. 92; 2015, c. 31, s. 6.
+
 
 
 
@@ -2176,17 +2208,56 @@ the Minister may, subject to subsection (3), issue to the Agency directions that
 
 
 
+#### Liability Insurance
+
+
+
+**Continuing requirement**
+
+**93.1** 
+
+- **(1)** The holder of a certificate of fitness shall maintain at all times,
+	- **(a)** if the certificate was issued under paragraph 92(1)(a), adequate liability insurance coverage, as determined in accordance with the regulations, for the operation or construction of the railway for which the certificate was issued; or
+	- **(b)** if the certificate was issued under paragraph 92(1)(b), the applicable minimum liability insurance coverage, which includes any self-insurance, as set out in Schedule IV, for the operation of the railway for which the certificate was issued.
+
+**Covered risks**
+
+- **(2)** The liability insurance referred to in paragraph (1)(b) must cover the risks described in paragraphs 92(1.1)(a) to (d) that may arise out of the operation.
+
+**Self-insurance**
+
+- **(3)** For the purpose of paragraph (1)(b), the amount of self-insurance must not exceed the maximum amount of self-insurance that the holder of the certificate of fitness can sustain based on its financial capability.
+> 2015, c. 31, s. 7.
+
+
+
+
+
 **Notice of insurance changes**
 
-**94** 
+**94** The holder of a certificate of fitness shall notify the Agency in writing without delay
+- **(a)** if the liability insurance coverage is cancelled or altered; or
+- **(b)** if there are any changes to the construction or operation that may affect the liability insurance coverage.
+> 1996, c. 10, s. 94; 2015, c. 31, s. 7.
 
-- **(1)** The holder of a certificate of fitness shall notify the Agency in writing without delay if
-	- **(a)** the liability insurance coverage is cancelled or altered so that it may no longer be adequate; or
-	- **(b)** the construction or operation has changed so that the liability insurance coverage may no longer be adequate.
 
-**Suspension or cancellation**
 
-- **(2)** The Agency may suspend or cancel the certificate if it determines that the liability insurance coverage is no longer adequate.
+
+
+**Inquiry**
+
+**94.1** The Agency may make an inquiry to determine whether a holder of a certificate of fitness complies with section 93.1.
+> 2015, c. 31, s. 7.
+
+
+
+
+
+**Suspension or cancellation of certificate of fitness**
+
+**94.2** The Agency shall suspend or cancel a certificate of fitness if it determines that the holder of the certificate has failed to comply with section 93.1.
+> 2015, c. 31, s. 7.
+
 
 
 
@@ -2666,6 +2737,10 @@ Version anglaise seulement***service obligations*** means obligations under sect
 
 - **(2)** Traffic must be taken, carried to and from, and delivered at the points referred to in paragraph (1)(a) on the payment of the lawfully payable rate.
 
+**Carriage on payment of levy**
+
+- **(2.1)** If a railway company is to carry traffic in respect of which there is a levy under section 155.3 or 155.5, the traffic must be carried from a point referred to in paragraph (1)(a) by the railway company on the payment to the company of the levy, by the shipper, if the company is the first railway company to carry, at a rate other than an interswitching rate, the traffic after its loading.
+
 **Compensation for provision of rolling stock**
 
 - **(3)** Where a shipper provides rolling stock for the carriage by the railway company of the shipper’s traffic, the company shall, at the request of the shipper, establish specific reasonable compensation to the shipper in a tariff for the provision of the rolling stock.
@@ -2673,6 +2748,8 @@ Version anglaise seulement***service obligations*** means obligations under sect
 **Confidential contract between company and shipper**
 
 - **(4)** A shipper and a railway company may, by means of a confidential contract or other written agreement, agree on the manner in which the obligations under this section are to be fulfilled by the company.
+> 1996, c. 10, s. 113; 2015, c. 31, s. 8.
+
 
 
 
@@ -3970,7 +4047,890 @@ where
 
 
 
-**153 to 155** [Repealed, 2000, c. 16, s. 10]
+
+**DIVISION VI.2** 
+### Liability and Compensation in Case of Railway Accidents Involving Designated Goods
+
+
+
+#### Interpretation and Application
+
+
+
+**Definitions**
+
+**152.5** The following definitions apply in this Division.
+
+***designated good*** means
+- **(a)** crude oil; or
+- **(b)** any other good that is designated by the regulations. (*marchandise désignée*)
+
+***Fund*** means the Fund for Railway Accidents Involving Designated Goods established by subsection 153.4(1). (*Caisse*)
+
+***railway accident*** means any accident or incident that is associated with the operation,
+- **(a)** on a railway, whether or not that railway is within the legislative authority of Parliament, by a railway company, of rolling stock that contains a designated good that the company carries on a shipper’s behalf; or
+- **(b)** on a railway, by a person other than a railway company, of rolling stock that contains a designated good that the person carries on behalf of a person who sends or receives goods. (*accident ferroviaire*)
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Application**
+
+**152.6** This Division applies only to a railway company that holds a certificate of fitness that was issued under paragraph 92(1)(b) in respect of the operation of a railway for which that certificate was issued.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+#### Liability
+
+
+
+**Limit of liability of railway company**
+
+**152.7** 
+
+- **(1)** A railway company that operates a railway that is involved in a railway accident is liable for the losses, damages, costs and expenses described in subsection 153(1) up to the amount of the minimum liability insurance coverage that the company is required to maintain for the operation of the railway under paragraph 93.1(1)(b).
+
+**Liability — jointly and severally, or solidarily**
+
+- **(2)** If more than one railway company is liable under subsection (1), the companies are jointly and severally, or solidarily, liable, each up to the amount of the minimum liability insurance coverage that applies to it.
+
+**Non-application**
+
+- **(3)** The limit of liability referred to in subsection (1) does not apply to the railway company if it is proved that the railway accident resulted from any act or omission of that company that was committed either with intent to cause the accident or recklessly and with the knowledge that the accident would probably result.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**No proof of fault or negligence**
+
+**152.8** A railway company’s liability under subsection 152.7(1) does not depend on proof of fault or negligence.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Liability under another Act**
+
+**152.9** If a railway company is liable, without proof of fault or negligence, under subsection 152.7(1) and under any other Act with respect to the same railway accident, the company is liable under that subsection up to the greater of the limit of liability for an amount that is referred to in that subsection and the limit up to which the company is liable under the other Act. If the other Act does not set out a limit of liability, the limit set out in that subsection does not apply.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Losses, damages, costs and expenses**
+
+**153** 
+
+- **(1)** The losses, damages, costs and expenses referred to in subsection 152.7(1) are the following:
+	- **(a)** all actual loss or damage incurred by any person, other than by a railway company that is liable under subsection 152.7(1), as a result of the railway accident or as a result of any action or measures taken in relation to the accident;
+	- **(b)** the costs and expenses reasonably incurred by Her Majesty in right of Canada or a province or any other person in taking any action or measures in relation to the railway accident; and
+	- **(c)** all loss of non-use value relating to a public resource that is affected by the railway accident or as a result of any action or measures taken in relation to the accident.
+
+**Definition of actual loss or damage**
+
+- **(2)** For the purposes of paragraph (1)(a), ***actual loss or damage*** includes loss of income, including future income, and, with respect to any Aboriginal peoples of Canada, loss of hunting, fishing and gathering opportunities. It does not include
+	- **(a)** any loss or damage incurred by a person who operates a railway that is not within the legislative authority of Parliament and that is involved in the railway accident, in respect of the portion of the operation that does not relate to a passenger rail service;
+	- **(b)** any loss of or damage to goods being carried by the railway company or by the person referred to in paragraph (a); or
+	- **(c)** any loss of income that is recoverable under subsection 42(3) of the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md).
+
+**Environmental damage**
+
+- **(3)** For the purposes of subsection (1), the measures include remedial measures that are taken to repair, reduce or mitigate environmental damage.
+
+**Costs and expenses not recoverable under [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md)**
+
+- **(4)** The costs and expenses that are recoverable by Her Majesty in right of Canada or a province under this Division are not recoverable under subsection 42(1) of the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md).
+> 1996, c. 10, s. 153; 2000, c. 16, s. 10; 2015, c. 31, s. 10.
+
+
+
+
+
+**Defences**
+
+**153.1** A railway company is not liable under subsection 152.7(1) if it establishes that
+- **(a)** the railway accident resulted from an act of war, hostilities, civil war or insurrection; or
+- **(b)** any other defence set out in the regulations applies.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Claims**
+
+**153.2** 
+
+- **(1)** All claims for the losses, damages, costs and expenses described in subsection 153(1) may be sued for and recovered in any court of competent jurisdiction in Canada.
+
+**Rank of claims**
+
+- **(2)** Claims to recover the losses, damages, costs and expenses described in paragraphs 153(1)(a) and (b) shall rank, without preference, before those to recover a loss of non-use value described in paragraph 153(1)(c).
+
+**Limitation or prescription period**
+
+- **(3)** Proceedings in respect of the claims referred to in subsection (1) may be instituted within a period of three years beginning on the day on which the losses, damages, costs and expenses were incurred but not after a period of six years beginning on the day on which the railway accident occurred.
+
+**Proceedings — loss of non-use value**
+
+- **(4)** Only Her Majesty in right of Canada or a province may institute proceedings to recover a loss of non-use value described in paragraph 153(1)(c).
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Railway company’s rights against third parties**
+
+**153.3** Nothing in this Division shall be construed as limiting or restricting any right of recourse that a railway company may have against another person.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+#### Fund for Railway Accidents Involving Designated Goods
+
+
+
+##### Establishment of Fund
+
+
+
+**Fund established**
+
+**153.4** 
+
+- **(1)** There is established in the accounts of Canada an account to be known as the Fund for Railway Accidents Involving Designated Goods.
+
+**Credits**
+
+- **(2)** The following are to be credited to the Fund:
+	- **(a)** every amount credited to the Fund under section 153.5;
+	- **(b)** the amount of every sum credited to the Fund under section 153.6;
+	- **(c)** every amount recovered by the Administrator under paragraph 155(2)(c); and
+	- **(d)** every amount paid under sections 155.7 and 155.8.
+
+**Charges**
+
+- **(3)** The following are to be charged to the Fund:
+	- **(a)** an amount equal to every amount required to repay, in accordance with any terms and conditions specified by the Minister of Finance, an amount charged to the Consolidated Revenue Fund under section 153.6;
+	- **(b)** every amount paid out of the Consolidated Revenue Fund under subsection 154.2(3);
+	- **(c)** every amount paid as a result of subsection 155(1); and
+	- **(d)** the amount of any judgment and any costs awarded as the result of an appeal made under subsection 154.9(2) or section 155.1.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Interest to be credited to Fund**
+
+**153.5** The Minister of Finance shall cause to be credited to the Fund interest, calculated in the manner and at the rate determined by the Governor in Council, on the balance of that Fund.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Consolidated Revenue Fund**
+
+**153.6** If the amount to the credit of the Fund is insufficient to pay any amount that is charged to the Fund under any of paragraphs 153.4(3)(b) to (d), the Minister of Finance may, subject to any terms and conditions that he or she considers appropriate, direct that a sum equal to the amount required to be paid be charged to the Consolidated Revenue Fund and credited to the Fund.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+##### Administrator and Deputy Administrator
+
+
+
+**Appointment of Administrator**
+
+**153.7** 
+
+- **(1)** The Governor in Council shall appoint an Administrator of the Fund.
+
+**Tenure**
+
+- **(2)** The Administrator is to hold office during good behaviour for a term of not more than five years to be fixed by the Governor in Council, but may be removed for cause by the Governor in Council.
+
+**Reappointment**
+
+- **(3)** The Administrator is eligible for reappointment on the expiry of his or her term of office.
+
+**Continuation in office**
+
+- **(4)** If an Administrator is not appointed to take office on the expiry of the incumbent Administrator’s term, the incumbent continues to hold office until the earlier of the day fixed by the Governor in Council and the day on which a successor is appointed.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Appointment of Deputy Administrator**
+
+**153.8** 
+
+- **(1)** The Governor in Council may appoint a Deputy Administrator of the Fund.
+
+**Tenure**
+
+- **(2)** The Deputy Administrator is to hold office during good behaviour for a term of not more than five years to be fixed by the Governor in Council, but may be removed for cause by the Governor in Council.
+
+**Reappointment**
+
+- **(3)** The Deputy Administrator is eligible for reappointment on the expiry of his or her term of office.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Deputy Administrator’s powers, duties and functions**
+
+**153.9** 
+
+- **(1)** The Deputy Administrator is to exercise the powers and perform the duties and functions consistent with this Division that are assigned to him or her by the Administrator.
+
+**Administrator’s absence or incapacity**
+
+- **(2)** If the Administrator is absent or incapacitated or the office of Administrator is vacant, the Deputy Administrator has all the powers, duties and functions of the Administrator.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Resignation**
+
+**154** The resignation of an Administrator or Deputy Administrator becomes effective at the time that the Minister receives a written resignation from him or her or at the time specified in the resignation, whichever is later.
+> 1996, c. 10, s. 154; 2000, c. 16, s. 10; 2015, c. 31, s. 10.
+
+
+
+
+
+**Conflict of interest**
+
+**154.1** 
+
+- **(1)** The Administrator or Deputy Administrator shall not accept or hold any office or employment, or carry on any activity, that is inconsistent with his or her powers, duties and functions under this Division.
+
+**Effect of contravention**
+
+- **(2)** If the Administrator or Deputy Administrator contravenes subsection (1), his or her appointment is terminated on a day fixed by the Governor in Council that is not later than 30 days after the day on which the notice of the contravention is received by the Minister, but the contravention does not affect the validity of any act performed by the Administrator or Deputy Administrator, as the case may be, under this Division between the day on which the contravention occurred and the day on which the appointment is terminated.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Remuneration**
+
+**154.2** 
+
+- **(1)** The Administrator and the Deputy Administrator are to be paid, for the exercise of their powers and the performance of their duties and functions, the remuneration fixed by the Governor in Council.
+
+**Travelling, living and other expenses**
+
+- **(2)** The Administrator and the Deputy Administrator are to be paid, in accordance with Treasury Board directives, reasonable travel, living and other expenses incurred in exercising their powers or performing their duties and functions under this Division while absent from their ordinary place of work.
+
+**Payment out of Consolidated Revenue Fund**
+
+- **(3)** On the direction of the Minister of Finance, the remuneration and expenses referred to in subsections (1) and (2) and all other costs and expenses incurred by the Administrator and the Deputy Administrator in exercising their powers and performing their duties and functions under this Division are to be paid out of the Consolidated Revenue Fund and charged to the Fund as provided for by paragraph 153.4(3)(b).
+
+**Taxation**
+
+- **(4)** The Federal Court’s assessment officers may, at the Minister of Justice’s request, tax any account for costs and expenses, other than expenses referred to in subsection (2), incurred by the Administrator and the Deputy Administrator in exercising their powers or performing their duties and functions under this Division as if they were acting for Her Majesty in proceedings in that Court.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Assistance**
+
+**154.3** The Administrator may, for the purpose of exercising his or her powers or performing his or her duties and functions under this Division, obtain any professional, technical or other advice or assistance that he or she considers necessary.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+##### Claims
+
+
+
+**Right to file claim**
+
+**154.4** 
+
+- **(1)** A person who incurs a loss, damage, cost or expense described in subsection 153(1) as the result of a railway accident may file a claim with the Administrator for the amount of the loss, damage, cost or expense. The claim must be filed within a period of three years beginning on the day on which the loss, damage, cost or expense was incurred, but not after a period of six years beginning on the day on which the railway accident occurred.
+
+**Burden of proof**
+
+- **(2)** The claimant is not required to satisfy the Administrator that the loss, damage, cost or expense resulted from the railway accident, but the Administrator shall dismiss the claim if he or she is satisfied that the loss, damage, cost or expense did not result from the railway accident.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Interest**
+
+**154.5** 
+
+- **(1)** For the purposes of this Division, interest, in respect of the amount of an offer of compensation for a claim made under section 154.4 is deemed to have accrued, at the rate referred to in subsection (2), from the day on which the loss, damage, cost or expense to which the offer relates was incurred.
+
+**Rate**
+
+- **(2)** The rate for the purposes of subsection (1) is the rate prescribed under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) for amounts payable by the Minister of National Revenue as refunds of overpayments of tax under that Act.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Investigation and assessment**
+
+**154.6** 
+
+- **(1)** On receipt of a claim made under section 154.4, the Administrator shall investigate and assess it.
+
+**Factors to be considered**
+
+- **(2)** In investigating and assessing a claim, the Administrator shall consider whether the claim resulted wholly or partially from
+	- **(a)** an act done or omitted to be done by the claimant with the intent to incur a loss, damage, cost or expense; or
+	- **(b)** the claimant’s negligence.
+
+**When claimant at fault**
+
+- **(3)** The Administrator shall reduce or nullify any amount of a claim that he or she would have otherwise assessed in proportion to the degree to which he or she is satisfied that the claim resulted from
+	- **(a)** an act done or omitted to be done by the claimant with the intent to incur a loss, damage, cost or expense; or
+	- **(b)** the claimant’s negligence.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Offer of compensation — one railway company**
+
+**154.7** 
+
+- **(1)** If only one railway company is liable under subsection 152.7(1) for the losses, damages, costs or expenses described in subsection 153(1) that resulted from the railway accident to which a claim made under section 154.4 relates, the Administrator shall — if he or she is satisfied that the railway company has paid, in respect of all losses, damages, costs or expenses described in subsection 153(1) that resulted from the railway accident, an amount equal to or greater than the amount of the minimum liability insurance coverage that the railway company was required to maintain under paragraph 93.1(1)(b) for the operation of the railway involved in the railway accident — make an offer of compensation to the claimant for whatever portion of the claim that the Administrator finds to be established and for which the railway company has not provided compensation.
+
+**Offer of compensation — more than one railway company**
+
+- **(2)** If two or more railway companies are liable under subsection 152.7(1) for the losses, damages, costs or expenses described in subsection 153(1) that resulted from the railway accident to which a claim made under section 154.4 relates, the Administrator shall — if he or she is satisfied that the railway companies have paid, in respect of all losses, damages, costs or expenses described in subsection 153(1) that resulted from the railway accident, an amount equal to or greater than the sum that is equal to the total of the amount of the minimum liability insurance coverage that each of the railway companies was required to maintain under paragraph 93.1(1)(b) for the operation of its railway involved in the railway accident — make an offer of compensation to the claimant for whatever portion of the claim that the Administrator finds to be established and for which the railway companies have not provided compensation.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Administrator’s powers**
+
+**154.8** For the purpose of investigating and assessing a claim and determining the amount, if any, that a railway company has paid as compensation in relation to the railway accident to which the claim relates, the Administrator has the powers of a commissioner under Part I of the [Inquiries Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-11.md).
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Deemed refusal**
+
+**154.9** 
+
+- **(1)** If the Administrator makes an offer of compensation to a claimant and the claimant does not, within 60 days after receiving the offer, or any longer period that the Administrator allows, notify the Administrator whether they accept or reject it, the claimant is deemed to have refused the offer.
+
+**Appeal to Federal Court — adequacy**
+
+- **(2)** The claimant may, before the expiry of the applicable period under subsection (1), appeal the adequacy of the offer to the Federal Court.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Acceptance of offer**
+
+**155** 
+
+- **(1)** If a claimant accepts an offer of compensation from the Administrator, the Administrator shall without delay direct that payment be made to the claimant of the amount of the offer of compensation and an amount equal to the interest that is deemed to have accrued under subsection 154.5(1) in respect of that amount.
+
+**Effect of acceptance**
+
+- **(2)** If a claimant accepts an offer of compensation,
+	- **(a)** the claimant is precluded from pursuing any rights that they may have against any person in respect of the losses, damages, costs or expenses to which the offer of compensation relates;
+	- **(b)** the Administrator is, to the extent of the payment to the claimant, subrogated to any rights of the claimant in respect of those losses, damages, costs or expenses; and
+	- **(c)** the Administrator shall take reasonable measures to recover the amount of the payment from
+		- **(i)** the railway company — or from any railway company — that is liable under subsection 152.7(1) for those losses, damages, costs or expenses, if the limit of liability referred to in subsection 152.7(1) does not apply to the railway company by reason of subsection 152.7(3) or section 152.9, or
+		- **(ii)** any other person who is liable for those losses, damages, costs or expenses.
+
+**Commencement of action**
+
+- **(3)** The Administrator may, for the purpose of paragraph (2)(c), commence an action in the Administrator’s or the claimant’s name.
+
+**Clarification**
+
+- **(4)** If a railway company’s limit of liability for the railway accident to which the offer of compensation relates is, by reason of section 152.9, higher than its limit of liability under subsection 152.7(1), nothing in paragraph (2)(c) is to be construed as permitting the Administrator to recover from the railway company an amount that is greater than the difference between the two limits of liability.
+> 1996, c. 10, s. 155; 2000, c. 16, s. 10; 2015, c. 31, s. 10.
+
+
+
+
+
+**Appeal to Federal Court — notice of dismissal**
+
+**155.1** A claimant who has received a notification that the Administrator has dismissed their claim may, within 60 days after receiving the notification, appeal the dismissal to the Federal Court.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+##### Proceedings Against Railway Company
+
+
+
+**Proceedings against railway company**
+
+**155.2** 
+
+- **(1)** If proceedings are commenced against a railway company in respect of any loss, damage, cost or expense described in subsection 153(1) that resulted from a railway accident, the railway company shall as soon as feasible provide the Administrator with a copy of the document commencing the proceedings.
+
+**Administrator is party**
+
+- **(2)** The Administrator is a party to the proceedings referred to in subsection (1) and may appear for the purpose of taking any measure that he or she considers appropriate for the proper administration of the Fund.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+##### Levies
+
+
+
+**Levy — crude oil**
+
+**155.3** The levy for the carriage, on a railway, of crude oil is $1.65 per tonne in the year ending on March 31, 2016, adjusted annually in accordance with section 155.4.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Annual adjustment of levy**
+
+**155.4** 
+
+- **(1)** The levy for the carriage, on a railway, of crude oil is to be adjusted annually so that the levy in any following year is an amount equal to the product of
+	- **(a)** the levy that would have been payable in that following year if no adjustment had been made under this section with respect to that following year, and
+	- **(b)** the ratio that the Consumer Price Index for the calendar year next before that following year bears to the Consumer Price Index for the calendar year next before that calendar year.
+
+**Consumer Price Index**
+
+- **(2)** For the purposes of this section,
+	- **(a)** a reference to the Consumer Price Index for any 12-month period means the average of the Consumer Price Index for Canada, as published by Statistics Canada under the authority of the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md), for each month in that 12-month period;
+	- **(b)** if at any time the Consumer Price Index for Canada, as published by Statistics Canada under the authority of the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md), is adjusted to reflect a new time basis, a corresponding adjustment is to be made in the Consumer Price Index for any 12-month period that is used for the purpose of calculating the levy under this section; and
+	- **(c)** if at any time the Consumer Price Index for Canada, as published by Statistics Canada under the authority of the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md), is adjusted to reflect a new content basis, that adjustment does not affect the operation of this section.
+
+**Regulations**
+
+- **(3)** The Governor in Council may, on the recommendation of the Minister, make regulations respecting the manner in which the average of the Consumer Price Index for any 12-month period is to be determined and the manner of expressing any such average that is determined to be a fraction of a whole number.
+
+**Adjusted levy to be published**
+
+- **(4)** The Minister shall cause the levy for the carriage of crude oil that is adjusted in accordance with this section to be published in the Canada Gazette as soon as it is available, and the levy so published is admissible in any proceedings as conclusive proof of the levy for the year in question.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Levy — other traffic**
+
+**155.5** The levy for the carriage, on a railway, of any traffic, other than crude oil, that is specified in the regulations — or for the carriage of any traffic or any class of traffic, other than crude oil, that is specified in the regulations — is the amount specified in the regulations, or calculated in accordance with them.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Additional levy**
+
+**155.6** 
+
+- **(1)** If an amount is charged to the Consolidated Revenue Fund under section 153.6, the Minister may, by order, direct that every railway company that, on a railway, carries traffic for which there is a levy under section 155.3 or 155.5 pay, in accordance with the order, an additional levy in the amount specified in the order, or calculated in accordance with it.
+
+**Revocation**
+
+- **(2)** If such an order is made, the Minister shall revoke it as soon as feasible after an amount equal to the amount charged to the Consolidated Revenue Fund under section 153.6 has been credited to the Consolidated Revenue Fund out of amounts standing to the credit of the Fund and the Minister is satisfied that the terms and conditions in relation to the charging of that amount under that section have been met.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Obligation to pay**
+
+**155.7** 
+
+- **(1)** Every railway company that is the first to carry, at a rate other than an interswitching rate, traffic in respect of which there is a levy under section 155.3 or 155.5 after the traffic has been loaded — and every railway company that is directed by an order made under section 155.6 to pay a levy — shall pay to the Receiver General an amount equal to the amount of the levy, applicable to the traffic carried by it, or that is required to be paid under the order, as the case may be,
+	- **(a)** within 30 days after the expiry of the calendar quarter in which the levy became due; or
+	- **(b)** if a regulation made under paragraph 155.97(d) is in force, before the expiry of the period specified in or determined under that regulation.
+
+**When levy is due — sections 155.3 and 155.5**
+
+- **(2)** A levy under section 155.3 or 155.5 becomes due on the first day on which the traffic is carried, at a rate other than an interswitching rate, by the railway company that is the first to carry the traffic after it has been loaded.
+
+**When levy is due — section 155.6**
+
+- **(3)** A levy imposed by an order made under section 155.6 becomes due on the day provided for in the order.
+
+**Meaning of calendar quarter**
+
+- **(4)** In this section, ***calendar quarter*** means a three-month period that begins on the first day of January, April, July or October.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Interest on unpaid amounts**
+
+**155.8** If any portion of a levy is not paid by a railway company as required by subsection 155.7(1), the railway company shall pay to the Receiver General interest on that portion — calculated in the manner and at the rate that the Governor in Council may, by order, determine — from the time when the payment was required to be made.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Debt due to Her Majesty**
+
+**155.81** All amounts payable under subsection 155.7(1) and section 155.8 are debts due to Her Majesty in right of Canada and are recoverable in any court of competent jurisdiction from the railway company that is required to pay them.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Power to require information**
+
+**155.82** The Minister may direct that a railway company provide, in the specified form and within the specified period, information or documents that he or she considers necessary for the purposes of ensuring compliance with this Division.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Discontinuation and reimposition**
+
+**155.83** 
+
+- **(1)** The Minister may, by order, discontinue the application of subsections 113(2.1) and 155.7(1) in respect of the carriage of any traffic — indefinitely or until a time specified in the order — or, by order, reimpose the application of those subsections in respect of the carriage of that traffic if it has been discontinued indefinitely.
+
+**Annual adjustment of levy unaffected**
+
+- **(2)** The making of an order under subsection (1) does not affect the operation of section 155.4 in respect of any levy.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Records and books of account**
+
+**155.84** 
+
+- **(1)** Every railway company that is required to pay an amount under subsection 155.7(1) shall keep at their place of business in Canada, or at any other place in Canada that may be designated by the Minister, records and books of account that set out
+	- **(a)** the amount that is payable by the railway company under that subsection;
+	- **(b)** the type and quantity of the traffic in respect of which that amount is payable;
+	- **(c)** if the traffic to which that amount relates is traffic in respect of which there is a levy under section 155.3 or 155.5, the day on which the traffic was first carried, at a rate other than an interswitching rate, by the railway company after it was loaded and the place from which it was first carried by it after the loading; and
+	- **(d)** if the traffic to which that amount relates is traffic in respect of which there is a levy imposed by an order made under section 155.6, the day on which the traffic was carried by the railway company, the place from which it was carried and the place to which it was carried.
+
+**Disposal of records**
+
+- **(2)** Every railway company that is required by subsection (1) to keep records and books of account shall, unless otherwise authorized by the Minister, retain those records and books of account, and every account or voucher that is necessary to verify the information contained in them, until the expiry of six years after the end of the year to which the records or books of account relate.
+
+**Examination of records**
+
+- **(3)** Every railway company that is required by subsection (1) to keep records and books of account shall, at all reasonable times, make the records and books of account, and every account or voucher that is necessary to verify the information contained in them, available to any person designated under subsection 155.85(1) and give that person every facility that is necessary to examine them.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Designation**
+
+**155.85** 
+
+- **(1)** The Minister may designate persons or classes of persons for the purposes of the administration and enforcement of subsection 155.7(1) or section 155.84.
+
+**Certificate of designation**
+
+- **(2)** Every person who is designated under subsection (1) is to be provided with a certificate of their designation that must be produced, on request, to the owner, occupier or person in charge of any place referred to in subsection 155.86(1) when the designated person enters the place.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Inspection**
+
+**155.86** 
+
+- **(1)** A person who is designated under subsection 155.85(1) may, for a purpose related to verifying compliance with subsection 155.7(1) or section 155.84, enter any place in which they have reasonable grounds to believe there are any records, books of account, accounts, vouchers or other documents relating to amounts payable under subsection 155.7(1).
+
+**Powers on entry**
+
+- **(2)** The designated person may, for the purpose referred to in subsection (1),
+	- **(a)** examine anything in the place, including any document;
+	- **(b)** use any means of communication in the place, or cause it to be used;
+	- **(c)** use any computer system in the place, or cause it to be used, to examine data contained in or available to it, or reproduce the data, or cause it to be reproduced, in the form of a printout or other intelligible output and remove any printout or output for examination or copying;
+	- **(d)** prepare a document, or cause one to be prepared, based on the data;
+	- **(e)** use any copying equipment in the place, or cause it to be used;
+	- **(f)** take photographs or make recordings or sketches of anything in the place;
+	- **(g)** prohibit or limit access to all or part of the place or to anything in the place; and
+	- **(h)** remove anything from the place for the purpose of examination.
+
+**Persons accompanying designated person**
+
+- **(3)** The designated person may be accompanied by any person who they believe is necessary to help them exercise their powers or perform their duties or functions under this section.
+
+**Assistance**
+
+- **(4)** The owner or person in charge of the place and every person in the place shall give all assistance that is reasonably required to enable the designated person to exercise their powers or perform their duties or functions under this section and shall provide any documents or information, and access to any data, that is reasonably required.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Warrant to enter dwelling-house**
+
+**155.87** 
+
+- **(1)** If the place referred to in subsection 155.86(1) is a dwelling-house, the designated person may enter it without the occupant’s consent only under the authority of a warrant issued under subsection (2).
+
+**Authority to issue warrant**
+
+- **(2)** On *ex parte* application, a justice of the peace may issue a warrant authorizing the designated person to enter a dwelling-house, subject to any conditions specified in the warrant, if the justice is satisfied by information on oath that
+	- **(a)** the dwelling-house is a place referred to in subsection 155.86(1);
+	- **(b)** entry to the dwelling-house is necessary for the purpose of that subsection; and
+	- **(c)** entry was refused by the occupant or there are reasonable grounds to believe that entry will be refused by, or that consent to entry cannot be obtained from, the occupant.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Report to Minister**
+
+**155.88** On the conclusion of an inspection, the designated person shall provide a written report of their findings to the Minister.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Return of documents**
+
+**155.89** 
+
+- **(1)** A document that is removed under paragraph 155.86(2)(h) must be returned to the person from whose custody it is taken within 21 days after it is taken or within any longer period that is directed by a judge of a superior court or agreed to by a person who is entitled to its return.
+
+**Notice of application for extension of time**
+
+- **(2)** An application to a judge for a direction under subsection (1) may only be made on notice to the person from whose custody the document is removed.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Copies of documents**
+
+**155.9** A document purporting to be certified by the Minister to be a copy of a document made under subsection 155.86(2) is admissible in evidence in any prosecution for an offence in respect of a contravention of a provision of this Division or of a regulation made under this Division — or in respect of a contravention of an order made under this Division — and, in the absence of evidence to the contrary, is proof of its contents.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**False information, etc.**
+
+**155.91** 
+
+- **(1)** No person shall knowingly make any false or misleading statement, or knowingly provide false or misleading information, either orally or in writing, to a person who is exercising powers or performing duties or functions under section 155.86.
+
+**Obstruction**
+
+- **(2)** No person shall knowingly obstruct or hinder a person who is exercising powers or performing duties or functions under section 155.86.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+##### Administration of Fund
+
+
+
+**Books of account and systems**
+
+**155.92** 
+
+- **(1)** The Administrator shall cause
+	- **(a)** records and books of account to be kept in relation to the Fund; and
+	- **(b)** control and information systems and management practices, in respect of financial and management matters, to be maintained in relation to the Fund.
+
+**Administrator’s responsibility**
+
+- **(2)** The Administrator shall keep or maintain, as the case may be, the records, books, systems and practices in a manner that provides reasonable assurance that
+	- **(a)** the Administrator’s and Deputy Administrator’s powers, duties and functions under this Division are exercised and performed effectively and in accordance with this Division;
+	- **(b)** the assets used by them are safeguarded and controlled; and
+	- **(c)** the financial, human and physical resources used by them are managed economically and efficiently.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Annual report**
+
+**155.93** 
+
+- **(1)** The Administrator shall as soon as feasible, but in any case within three months after the end of each fiscal year, submit an annual report, in any form that the Minister may direct, on the Administrator’s activities in that year to the Minister, who shall cause a copy of the report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after he or she receives it.
+
+**Form and content**
+
+- **(2)** The annual report must include
+	- **(a)** a statement of the amounts charged and credited to the Fund during the fiscal year;
+	- **(b)** a statement of the costs and expenses incurred during the fiscal year by the Administrator and the Deputy Administrator in exercising their powers and performing their duties and functions under this Division;
+	- **(c)** a statement of the fees for services rendered by the Administrator and the Deputy Administrator during the fiscal year;
+	- **(d)** the auditor’s report with respect to the statements referred to in paragraphs (a) to (c); and
+	- **(e)** the costs of preparing the auditor’s report.
+
+**Definition of fiscal year**
+
+- **(3)** In this section, ***fiscal year*** means the period that begins on April 1 in one calendar year and that ends on March 31 in the next calendar year.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Special examination**
+
+**155.94** 
+
+- **(1)** The Administrator shall cause a special examination to be carried out in respect of the systems and practices referred to in paragraph 155.92(1)(b) to determine if they were, in the period under examination, maintained in a manner that provided reasonable assurance that the assets referred to in paragraph 155.92(2)(b) were safeguarded and controlled and that the resources referred to in paragraph 155.92(2)(c) were managed economically and efficiently.
+
+**Time for examination**
+
+- **(2)** A special examination must be carried out at least once every five years by the Administrator and at any other time that the Governor in Council or Minister may require.
+
+**Examiner**
+
+- **(3)** The Administrator shall appoint a person to act as examiner for the purpose of conducting a special examination. However, if a special examination is required by the Governor in Council or the Minister, the Governor in Council or the Minister, as the case may be, shall make the appointment.
+
+**Conflict of interest**
+
+- **(4)** The examiner shall not accept or hold any office or employment, or carry on any activity, that is inconsistent with their duties and functions under this section and section 155.95.
+
+**Plan**
+
+- **(5)** Before an examiner begins a special examination, they shall survey the systems and practices to be examined and submit to the Minister and the Administrator a plan for the examination, including a statement of the criteria to be applied in the examination.
+
+**Resolution of disagreements**
+
+- **(6)** Any disagreement between the examiner and the Administrator with respect to the plan is to be resolved by the Minister.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Report**
+
+**155.95** 
+
+- **(1)** On the conclusion of a special examination, the examiner shall provide a written report of their findings to the Minister and the Administrator.
+
+**Contents**
+
+- **(2)** The examiner’s report must include
+	- **(a)** a statement as to whether, in their opinion, with respect to the criteria established under subsection 155.94(5), there is reasonable assurance that there are no significant deficiencies in the systems and practices examined; and
+	- **(b)** a statement of the extent to which they relied on internal audits.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+**Right to information**
+
+**155.96** 
+
+- **(1)** If the examiner considers it necessary to enable them to prepare a report as required by this Division, they may direct that the present or any former Administrator or Deputy Administrator — or any present or former employee or agent or mandatary of the present or any former Administrator or Deputy Administrator — provide, to the extent that that person is reasonably able to do so, the examiner with
+	- **(a)** information and explanations; and
+	- **(b)** access to any records, books of account, accounts, vouchers and other documents related to the Fund.
+
+**Administrator’s responsibilities**
+
+- **(2)** At the examiner’s request, the Administrator shall
+	- **(a)** provide any information and explanations that the examiner considers necessary to enable the examiner to prepare any report that is required by this Division and that the Administrator is reasonably able to provide; and
+	- **(b)** obtain from any former Administrator or the present or any former Deputy Administrator — or from any present or any former employee or agent or mandatary of the present or former Administrator or Deputy Administrator — any information and explanations that the examiner considers necessary to enable the examiner to prepare any report that is required by this Division and that any of those persons are reasonably able to provide, and then provide the examiner with the information and explanations so obtained.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+#### Regulations
+
+
+
+**Governor in Council**
+
+**155.97** The Governor in Council may make regulations
+- **(a)** designating goods or classes of goods for the purpose of the definition ***designated good*** in section 152.5;
+- **(b)** setting out defences for the purpose of section 153.1;
+- **(c)** respecting traffic or any class of traffic for the purposes of section 155.5 and a levy for the carriage of that traffic or class of traffic, or a manner of calculating the levy;
+- **(d)** respecting a period for the purpose of subsection 155.7(1);
+- **(e)** respecting the keeping, by railway companies, of information in relation to their carriage of any traffic in respect of which there is a levy under section 155.3 or 155.5, or a levy imposed by an order made under section 155.6, and the filing of that information with the Minister;
+- **(f)** respecting a rate of interest for the purpose of section 155.8, or a manner of calculating the rate; and
+- **(g)** generally for carrying out the purposes and provisions of this Division.
+> 2015, c. 31, s. 10.
+
+
+
+
+
+#### General
+
+
+
+**Sections 26 and 37**
+
+**155.98** For the purposes of sections 26 and 37, this Division is deemed not to be a part of an Act of Parliament that is referred to in those sections.
+> 2015, c. 31, s. 10.
+
 
 
 
@@ -4863,10 +5823,18 @@ as a provision, requirement or condition the contravention of which may be proce
 		- **(i)** $5,000, in the case of an individual, and
 		- **(ii)** $25,000, in the case of a corporation.
 
+**Sections 93.1 or 94**
+
+- **(2.1)** The contravention of section 93.1 or 94 may be proceeded with as a violation in accordance with sections 179 and 180. The maximum amount payable for each violation is $100,000.
+
+**Subsections 155.7(1) or 155.84(1) to (3)**
+
+- **(2.2)** The contravention of subsection 155.7(1) or any of subsections 155.84(1) to (3) may be proceeded with as a violation in accordance with sections 179 and 180. The maximum amount payable for each violation is $100,000.
+
 **Subsection 116.2(1) or (4)**
 
 - **(3)** The contravention of subsection 116.2(1) or (4) may be proceeded with as a violation in accordance with sections 179 and 180. The maximum amount payable for each violation is $100,000.
-> 1996, c. 10, s. 177; 2007, c. 19, s. 49; 2013, c. 31, s. 12; 2014, c. 8, s. 9.
+> 1996, c. 10, s. 177; 2007, c. 19, s. 49; 2013, c. 31, s. 12; 2014, c. 8, s. 9; 2015, c. 31, s. 11.
 
 
 
@@ -4876,7 +5844,7 @@ as a provision, requirement or condition the contravention of which may be proce
 
 **178** 
 
-- **(1)** The Agency, in respect of a violation referred to in subsection 177(1) or (1.1), or the Minister, in respect of a violation referred to in subsection 177(2) or (3), may
+- **(1)** The Agency, in respect of a violation referred to in subsection 177(1), (1.1) or (2.1), or the Minister, in respect of a violation referred to in subsection 177(2), (2.2) or (3), may
 	- **(a)** designate persons, or classes of persons, as enforcement officers who are authorized to issue notices of violation; and
 	- **(b)** establish the form and content of notices of violation.
 
@@ -4895,7 +5863,7 @@ as a provision, requirement or condition the contravention of which may be proce
 **Assistance to enforcement officers**
 
 - **(5)** Any person from whom documents or data are requested pursuant to subsection (4) shall provide all such reasonable assistance as is in their power to enable the enforcement officer making the request to carry out the enforcement officer’s duties and shall furnish such information as the enforcement officer reasonably requires for the purposes of this Act.
-> 1996, c. 10, s. 178; 2007, c. 19, s. 50; 2013, c. 31, s. 13; 2014, c. 8, s. 10.
+> 1996, c. 10, s. 178; 2007, c. 19, s. 50; 2013, c. 31, s. 13; 2014, c. 8, s. 10; 2015, c. 31, s. 12.
 
 
 
@@ -5050,8 +6018,8 @@ as a provision, requirement or condition the contravention of which may be proce
 
 **Delegation by Minister**
 
-- **(2)** In the case of a violation referred to in subsection 177(2) or (3), the Minister may delegate to the Agency any power, duty or function conferred on him or her under this Part.
-> 2007, c. 19, s. 52; 2013, c. 31, s. 14; 2014, c. 8, s. 12.
+- **(2)** In the case of a violation referred to in subsection 177(2), (2.2) or (3), the Minister may delegate to the Agency any power, duty or function conferred on him or her under this Part.
+> 2007, c. 19, s. 52; 2013, c. 31, s. 14; 2014, c. 8, s. 12; 2015, c. 31, s. 13.
 
 
 
@@ -5936,8 +6904,53 @@ Wheat germ
 
 
 
-### **SCHEDULES III AND IV** 
-[Repealed, 2000, c. 16, s. 19]
+### SCHEDULE III** / ** ANNEXE III
+**(Definition of “TIH (Toxic Inhalation Hazard) material” / *définition de « matière toxique par inhalation »*)**
+## UN Numbers for Dangerous Goods / *Numéros ONU de marchandises dangereuses*
+1005, 1008, 1016, 1017, 1023, 1026, 1040, 1045, 1048, 1050, 1051, 1052, 1053, 1062, 1064, 1067, 1069, 1071, 1076, 1079, 1082, 1092, 1098, 1135, 1143, 1163, 1182, 1185, 1238, 1239, 1244, 1251, 1259, 1380, 1510, 1541, 1560, 1569, 1580, 1581, 1582, 1583, 1589, 1595, 1605, 1612, 1613, 1614, 1647, 1660, 1670, 1672, 1695, 1722, 1741, 1744, 1745, 1746, 1749, 1752, 1754, 1809, 1810, 1828, 1829, 1831, 1834, 1838, 1859, 1892, 1911, 1953, 1955, 1967, 1975, 1994, 2032, 2186, 2188, 2189, 2190, 2191, 2192, 2194, 2195, 2196, 2197, 2198, 2199, 2202, 2204, 2232, 2285, 2334, 2337, 2382, 2407, 2417, 2418, 2420, 2421, 2438, 2442, 2474, 2477, 2478, 2480, 2481, 2482, 2483, 2484, 2485, 2486, 2487, 2488, 2521, 2534, 2548, 2605, 2606, 2644, 2646, 2668, 2676, 2692, 2740, 2742, 2743, 2826, 2901, 2983, 3023, 3057, 3079, 3083, 3160, 3162, 3168, 3169, 3246, 3275, 3276, 3278, 3279, 3280, 3281, 3294, 3300, 3303, 3304, 3305, 3306, 3307, 3308, 3309, 3310, 3318, 3355, 3381, 3382, 3383, 3384, 3385, 3386, 3387, 3388, 3389, 3390, 3488, 3489, 3490, 3491, 3512, 3514, 3515, 3516, 3517, 3518, 3519, 3520, 3521, 3522, 3523, 3524, 3525, 3526
 
+
+> 1996, c. 10, Sch. III; 2000, c. 16, s. 19; 2015, c. 31, s. 14.
+
+
+
+
+### **SCHEDULE IV** 
+**(Paragraphs 92(1)(b) and (3)(b), subsection 92(4) and paragraph 93.1(1)(b))**
+<table>
+<h4>Minimum Liability Insurance Coverage</h4>
+<tr>
+<th></th>
+<th>Column I</th>
+<th>Column II</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>Class of Railway Operations</th>
+<th>Minimum Liability Insurance Coverage</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Operation of a railway other than one described in any of items 2 to 4</td>
+<td>$25 million per occurrence</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Operation of a railway that includes the carriage, per calendar year, of less than 4 000 tonnes of TIH (Toxic Inhalation Hazard) materials, of less than 100 000 tonnes of crude oil or of at least 40 000 tonnes of other dangerous goods as defined in section 2 of the [Transportation of Dangerous Goods Act, 1992](/en/Acts/Statutes%20of%20Canada/1992/c.%2034.md)</td>
+<td>$50 million per occurrence</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Operation of a railway that includes the carriage, per calendar year, of at least 4 000 tonnes but less than 50 000 tonnes of TIH (Toxic Inhalation Hazard) materials or of at least 100 000 tonnes but less than 1.5 million tonnes of crude oil</td>
+<td>$125 million per occurrence</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Operation of a railway that includes the carriage, per calendar year, of at least 50 000 tonnes of TIH (Toxic Inhalation Hazard) materials or of at least 1.5 million tonnes of crude oil</td>
+<td>$1 billion per occurrence</td>
+</tr>
+</table>
+
+> 1996, c. 10, Sch. IV; 2000, c. 16, s. 19; 2015, c. 31, s. 14.
 
 
