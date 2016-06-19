@@ -731,6 +731,21 @@ However, it does not include navigation or any other use connected with shipping
 
 
 
+**Notice — on Board’s initiative**
+
+**43.1** 
+
+- **(1)** The Board shall give notice of its intention to consider, on its own initiative, the amendment of a condition of a licence under subparagraph 43(1)(b)(ii) or (iii) or the cancellation of a licence under subparagraph 43(1)(c)(ii) or (iii), by publishing a notice on its Internet site, in the public registry, in the Canada Gazette or in a newspaper or other periodical that, in its opinion, has a large circulation in Nunavut.
+
+**Exception**
+
+- **(2)** Subsection (1) does not apply if the Board, with the consent of the Minister, declares the amendment or the cancellation to be required on an emergency basis.
+> 2015, c. 19, s. 42.
+
+
+
+
+
 **Assignment of licences**
 
 **44** 
@@ -748,9 +763,13 @@ However, it does not include navigation or any other use connected with shipping
 
 
 
-**Term**
+**Term of licence**
 
-**45** The term of a licence or any renewal shall not exceed twenty-five years.
+**45** The term of a licence or any renewal shall not exceed
+- **(a)** 25 years, in the case of a type A licence respecting a class of appurtenant undertakings that is prescribed by the regulations or in the case of a type B licence; or
+- **(b)** the anticipated duration of the appurtenant undertaking, in the case of a type A licence other than one described in paragraph (a).
+> 2002, c. 10, s. 45; 2015, c. 19, s. 43.
+
 
 
 
@@ -892,15 +911,109 @@ The Board shall take the representations into account.
 
 
 
+#### Time Limits
+
+
+
+##### Authority to Act
+
+
+
+**Authority and validity**
+
+**55.1** The failure of the Minister or the Board to exercise a power or perform a duty or function within a period provided for under this Part does not terminate their authority to do so nor does it invalidate any document prepared or submitted or any decision or action taken in the exercise or performance of their powers, duties or functions.
+> 2015, c. 19, s. 44.
+
+
+
+
+
+##### Decisions by Board and Approvals
+
+
+
+**Type A licence and type B licence if public hearing held**
+
+**55.2** In the case of an application for the issuance, renewal or amendment of a type A licence, or a type B licence in connection with which a public hearing is held, or in the case where the Board intends to consider, on its own initiative, the amendment of such a licence, the Board, subject to section 55.31, shall make a decision within a period of nine months after the day on which the application is made or on which notice of the Board’s intention is published under subsection 43.1(1).
+> 2015, c. 19, s. 44.
+
+
+
+
+
+**Day on which application is made**
+
+**55.3** An application is considered to be made on the day on which the Board is satisfied that the application meets all the requirements under subsections 48(1) and (2).
+> 2015, c. 19, s. 44.
+
+
+
+
+
+##### Calculation of Time Limit
+
+
+
+**Commencement of time limit**
+
+**55.31** If the Board is cooperating and coordinating with the Nunavut Planning Commission under subsection 36(2) or with the Nunavut Impact Review Board, a federal environmental assessment panel or a joint panel under subsection 37(1), the time limit referred to in section 55.2 does not begin to run until the Nunavut Planning Commission, Nunavut Impact Review Board, federal environmental assessment panel or joint panel, as the case may be, has completed its screening or review of the project.
+> 2015, c. 19, ss. 44, 55.
+
+
+
+
+
+**Excluded period — information or studies required**
+
+**55.4** If the Board requires an applicant or a licensee to provide information or studies, the period that, in the Board’s opinion, is taken by the applicant or licensee to comply with that requirement is not included in the calculation of the time limit under section 55.2 or its extension.
+> 2015, c. 19, s. 44.
+
+
+
+
+
+**Suspension of time limit**
+
+**55.5** The Board may suspend the time limit referred to in section 55.2 or its extension
+- **(a)** if the Board ceases to process or rejects an application under section 38 or 39, until it resumes processing the application;
+- **(b)** if the Board determines that an applicant is required to pay the compensation referred to in paragraph 58(b) or to enter into a compensation agreement referred to in paragraph 58(c), until the requirements of paragraph 58(b) or (c), as the case may be, are met;
+- **(c)** if the Board determines that an applicant is required to pay the compensation referred to in paragraph 60(1)(a) or to enter into a compensation agreement referred to in paragraph 60(1)(b), until the requirements of paragraph 60(1)(a) or (b), as the case may be, are met;
+- **(d)** if the Board determines that an applicant is required to enter into a compensation agreement referred to in paragraph 63(1)(a) or to pay the compensation referred to in paragraph 63(1)(b), until the requirements of paragraph 63(1)(a) or (b), as the case may be, are met; or
+- **(e)** if the Board receives notice under subsection 78(1) or 79.2(1) of the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md), until the requirements of subsection 78(3) or 79.2(3) of that Act, as the case may be, have been met.
+> 2015, c. 19, s. 44.
+
+
+
+
+
+##### Extensions
+
+
+
+**Extension of time limit by Minister**
+
+**55.6** 
+
+- **(1)** The Minister may, at the request of the Board, extend the time limit referred to in section 55.2 by a maximum of two months to take into account circumstances that are specific to the issuance, renewal or amendment of the licence.
+
+**Extension of time limit by Governor in Council**
+
+- **(2)** The Governor in Council may, by order, on the recommendation of the Minister, further extend the time limit any number of times by periods of any length.
+> 2015, c. 19, s. 44.
+
+
+
+
+
 #### Conditions of Issuance
 
 
 
-**Approval of issuance**
+**Referral to Minister for approval**
 
 **56** 
 
-- **(1)** The issuance, amendment, renewal and cancellation of a type A licence and, if a public hearing is held, a type B licence are subject to the approval of the Minister.
+- **(1)** The Board’s decision with respect to the issuance, amendment, renewal or cancellation of a type A licence or, if a public hearing is held, a type B licence is to be immediately referred to the Minister for approval.
 
 **Reasons**
 
@@ -925,6 +1038,8 @@ The Board shall take the representations into account.
 	- **(b)** to the applicant or licensee;
 	- **(c)** where the affected waters are ones in respect of which section 63 applies, to the designated Inuit organization; and
 	- **(d)** to any other person with a right to compensation under section 58 or 60.
+> 2002, c. 10, s. 56; 2015, c. 19, s. 45.
+
 
 
 
@@ -1348,6 +1463,28 @@ and the owner or interested person accepts the undertaking, the undertaking is d
 
 
 
+#### Cost Recovery
+
+
+
+**Obligation to pay costs**
+
+**81.1** 
+
+- **(1)** For the Minister to recover costs that are incurred in relation to the consideration of an application for a licence or for the renewal, amendment or cancellation of a licence, the applicant or a licensee shall pay to the Minister
+	- **(a)** any amounts that are prescribed by the regulations and that are related to the exercise of the powers and performance of the duties and functions of the Board or of its members;
+	- **(b)** any costs incurred by the Board for services that are prescribed by the regulations and that are provided to it by a third party; and
+	- **(c)** any amounts that are prescribed by the regulations and that are related to the exercise of the powers and performance of the duties and functions of the Minister.
+
+**Debt due to Her Majesty**
+
+- **(2)** The amounts and costs that the applicant or a licensee must pay under subsection (1) constitute a debt due to Her Majesty in right of Canada and may be recovered as such in any court of competent jurisdiction.
+> 2015, c. 19, s. 47.
+
+
+
+
+
 **DIVISION 3** 
 ### General
 
@@ -1373,6 +1510,7 @@ and the owner or interested person accepts the undertaking, the undertaking is d
 	- **(f)** on the advice of the Board or after consultation with the Board, exempting any class of applications in relation to licences from the requirement of a public hearing;
 	- **(g)** prescribing the criteria to be applied by the Board in determining, on an application for a licence, whether the proposed use of waters or deposit of waste requires a type A or a type B licence;
 	- **(h)** prescribing what constitutes a material conflict of interest for the purpose of subsection 23(1);
+	- **(h.1)** prescribing classes of appurtenant undertakings for the purposes of a type A licence described in paragraph 45(a);
 	- **(i)** in relation to the security referred to in subsection 76(1),
 		- **(i)** prescribing the form and nature of the security and the terms and conditions on which it is to be furnished and maintained, and
 		- **(ii)** prescribing the amount of the security or the manner of determining the amount of the security or authorizing the Board to fix that amount in accordance with the regulations;
@@ -1388,6 +1526,7 @@ and the owner or interested person accepts the undertaking, the undertaking is d
 	- **(p)** requiring persons who deposit waste in waters in Nunavut, except in a national park, to submit representative samples of the waste to the Board for analysis or to analyse representative samples and submit the results to the Board;
 	- **(q)** respecting the taking of representative samples of waters or waste and respecting the method of analysing those samples;
 	- **(r)** prescribing the form of the register to be maintained under section 78 and the information to be entered in it;
+	- **(r.1)** respecting the recovery of amounts and costs for the purposes of section 81.1, including prescribing amounts and services for the purposes of that section and exempting any class of applicants or licensees from the application of that section;
 	- **(s)** respecting the duties of persons designated as analysts under section 85; and
 	- **(t)** generally, for carrying out the purposes and provisions of this Part.
 
@@ -1402,6 +1541,8 @@ and the owner or interested person accepts the undertaking, the undertaking is d
 **Variation in regulations**
 
 - **(4)** Regulations made under subsection (1) may vary, among water management areas established under paragraph (1)(a), according to the use of waters, the purpose of that use and the quantity and rate of flow of waters used, and the quantities, concentrations and types of waste deposited or any other criteria.
+> 2002, c. 10, s. 82; 2015, c. 19, s. 48.
+
 
 
 
