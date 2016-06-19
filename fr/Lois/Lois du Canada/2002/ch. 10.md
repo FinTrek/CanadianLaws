@@ -716,6 +716,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Avis — initiative de l’Office**
+
+**43.1** 
+
+- **(1)** L’Office annonce son intention d’examiner, de sa propre initiative, la possibilité soit de modifier toute condition d’un permis en vertu des sous-alinéas 43(1)b)(ii) ou (iii), soit d’annuler un permis en vertu des sous-alinéas 43(1)c)(ii) ou (iii), par publication d’un avis sur son site Internet, dans le registre public, dans la Gazette du Canada ou dans un journal ou autre périodique qui, selon lui, jouit d’une vaste distribution au Nunavut.
+
+**Exception**
+
+- **(2)** Le paragraphe (1) ne s’applique pas lorsque l’Office déclare, avec le consentement du ministre, que la modification ou l’annulation est urgente et nécessaire.
+> 2015, ch. 19, art. 42.
+
+
+
+
+
 **Cession de permis**
 
 **44** 
@@ -733,9 +748,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Durée de validité**
+**Durée des permis**
 
-**45** La durée de validité d’un permis ou de chaque renouvellement ne peut excéder vingt-cinq ans.
+**45** La durée des permis ou de chacun de leur renouvellement ne peut excéder :
+- **a)** vingt-cinq ans, dans le cas des permis de type A à l’égard des catégories d’entreprises principales prévues par règlement et des permis de type B;
+- **b)** la durée prévue de l’entreprise principale en cause, dans le cas des autres permis de type A.
+> 2002, ch. 10, art. 45; 2015, ch. 19, art. 43.
+
 
 
 
@@ -877,23 +896,117 @@ Il tient compte des observations ainsi reçues.
 
 
 
+#### Délais
+
+
+
+##### Pouvoir d’agir
+
+
+
+**Mandat et validité des actes**
+
+**55.1** Le fait par le ministre ou l’Office de ne pas exercer ses attributions dans le délai prévu par la présente partie n’a pas pour effet de mettre fin à son mandat ni d’invalider les documents préparés ou présentés dans l’exercice de ses attributions ou les décisions et mesures prises dans le cadre de celles-ci.
+> 2015, ch. 19, art. 44.
+
+
+
+
+
+##### Décision de l’Office et approbation
+
+
+
+**Permis de type A et de type B en cas d’enquête publique**
+
+**55.2** Sous réserve de l’article 55.31, l’Office rend sa décision à l’égard d’une demande de délivrance, de renouvellement ou de modification d’un permis de type A ou d’un permis de type B qui fait l’objet d’une enquête publique ou de l’examen, de sa propre initiative, de la modification d’un tel permis, dans les neuf mois suivant la date de présentation de la demande ou de la publication de l’avis prévu au paragraphe 43.1(1).
+> 2015, ch. 19, art. 44.
+
+
+
+
+
+**Date de présentation réputée**
+
+**55.3** La demande est réputée présentée à la date à laquelle l’Office est convaincu qu’elle respecte les exigences prévues sous le régime des paragraphes 48(1) et (2).
+> 2015, ch. 19, art. 44.
+
+
+
+
+
+##### Calcul du délai
+
+
+
+**Début du délai**
+
+**55.31** Dans le cas où l’Office collabore avec une commission ou une formation en application des paragraphes 36(2) ou 37(1), le délai prévu à l’article 55.2 ne court pas tant qu’elle n’a pas terminé l’examen, l’examen préalable ou l’examen approfondi, selon le cas.
+> 2015, ch. 19, art. 44 et 55.
+
+
+
+
+
+**Période exclue du délai : fourniture de renseignements ou d’études**
+
+**55.4** Dans le cas où l’Office exige du demandeur ou du titulaire du permis qu’il lui fournisse des renseignements ou des études, la période prise, à son avis, par le demandeur ou le titulaire, pour remplir l’exigence n’est pas comprise dans le calcul du délai prévu à l’article 55.2 ou de sa prolongation.
+> 2015, ch. 19, art. 44.
+
+
+
+
+
+**Suspension du délai**
+
+**55.5** L’Office peut suspendre le délai prévu à l’article 55.2 ou sa prolongation :
+- **a)** dans le cas où il a cessé d’examiner une demande ou l’a rejetée en vertu des articles 38 ou 39, tant qu’il n’en a pas repris l’examen;
+- **b)** dans le cas où il décide que le demandeur est tenu de verser une indemnité au titre de l’alinéa 58b) ou de conclure un accord d’indemnisation au titre de l’alinéa 58c), tant que les conditions prévues à l’un ou l’autre de ces alinéas, selon le cas, ne sont pas remplies;
+- **c)** dans le cas où il décide que le demandeur est tenu de verser une indemnité au titre de l’alinéa 60(1)a) ou de conclure un accord d’indemnisation au titre de l’alinéa 60(1)b), tant que les conditions prévues à l’un ou l’autre de ces alinéas, selon le cas, ne sont pas remplies;
+- **d)** dans le cas où il décide que le demandeur est tenu de conclure un accord d’indemnisation au titre de l’alinéa 63(1)a) ou de verser une indemnité au titre de l’alinéa 63(1)b), tant que les conditions prévues à l’un ou l’autre de ces alinéas, selon le cas, ne sont pas remplies;
+- **e)** dans le cas où une notification lui a été faite en application des paragraphes 78(1) ou 79.2(1) de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md), tant que les conditions prévues aux paragraphes 78(3) ou 79.2(3) de cette loi ne sont pas remplies.
+> 2015, ch. 19, art. 44.
+
+
+
+
+
+##### Prolongation
+
+
+
+**Prolongation du délai par le ministre**
+
+**55.6** 
+
+- **(1)** Le ministre peut, sur demande de l’Office, prolonger d’au plus deux mois le délai prévu à l’article 55.2 pour tenir compte des circonstances particulières de la délivrance, du renouvellement ou de la modification du permis en cause.
+
+**Prolongation du délai par le gouverneur en conseil**
+
+- **(2)** Le gouverneur en conseil peut, par décret pris sur la recommandation du ministre, accorder une ou plusieurs prolongations supplémentaires de toute durée.
+> 2015, ch. 19, art. 44.
+
+
+
+
+
 #### Conditions de délivrance
 
 
 
-**Agrément**
+**Renvoi de la décision pour agrément**
 
 **56** 
 
-- **(1)** Sont subordonnés à l’agrément du ministre la délivrance, le renouvellement, la modification et l’annulation d’un permis de type A et, dans les cas où une enquête publique est tenue, de type B.
+- **(1)** La décision de l’Office de délivrer, renouveler, modifier ou annuler un permis de type A ou un permis de type B qui a fait l’objet d’une enquête publique est renvoyée immédiatement au ministre pour agrément.
 
 **Refus motivé**
 
 - **(2)** Une fois saisi de la question, le ministre rend sa décision dans un délai de quarante-cinq jours et, dans le cas d’un refus de donner son agrément, il le motive par écrit.
 
-**Prorogation du délai**
+**Prolongation du délai**
 
-- **(2.1)** Le ministre peut proroger de quarante-cinq jours le délai prévu au paragraphe (2), s’il avise l’Office de ce fait avant l’expiration de ce délai.
+- **(2.1)** Le ministre peut prolonger de quarante-cinq jours le délai prévu au paragraphe (2), s’il avise l’Office de ce fait avant l’expiration de ce délai.
 
 **Absence de décision**
 
@@ -910,6 +1023,8 @@ Il tient compte des observations ainsi reçues.
 	- **b)** au demandeur ou au titulaire du permis visé;
 	- **c)** lorsque l’article 63 s’applique aux eaux visées, à l’organisation inuit désignée;
 	- **d)** à toute personne ayant droit à une indemnité au titre des articles 58 ou 60.
+> 2002, ch. 10, art. 56; 2015, ch. 19, art. 45.
+
 
 
 
@@ -1333,6 +1448,28 @@ Il tient compte des observations ainsi reçues.
 
 
 
+#### Recouvrement des coûts
+
+
+
+**Obligation de paiement**
+
+**81.1** 
+
+- **(1)** Le demandeur ou le titulaire du permis est tenu de payer au ministre, afin de permettre à celui-ci de recouvrer les coûts liés à l’examen de la demande de délivrance, de renouvellement, de modification ou d’annulation de permis :
+	- **a)** les sommes réglementaires afférentes à l’exercice des attributions de l’Office ou de celles de ses membres;
+	- **b)** les frais engagés par l’Office pour les services réglementaires qui lui ont été fournis par des tiers;
+	- **c)** les sommes réglementaires afférentes à l’exercice des attributions du ministre.
+
+**Créances de Sa Majesté**
+
+- **(2)** Les frais et les sommes que l’intéressé est tenu de payer en application du paragraphe (1) constituent des créances de Sa Majesté du chef du Canada dont le recouvrement peut être poursuivi à ce titre devant tout tribunal compétent.
+> 2015, ch. 19, art. 47.
+
+
+
+
+
 **SECTION 3** 
 ### Dispositions générales
 
@@ -1358,6 +1495,7 @@ Il tient compte des observations ainsi reçues.
 	- **f)** sur la recommandation de l’Office ou après consultation de celui-ci, exempter une catégorie de demandes relatives aux permis de la tenue d’une enquête publique;
 	- **g)** déterminer les critères à suivre par l’Office pour décider si l’activité projetée requiert un permis de type A ou de type B;
 	- **h)** déterminer ce qui constitue un conflit d’intérêts important au sens du paragraphe 23(1);
+	- **h.1)** prévoir des catégories d’entreprises principales relativement aux permis de type A visés à l’alinéa 45a);
 	- **i)** déterminer la nature, les conditions et la forme de la sûreté prévue au paragraphe 76(1), et en régir le montant, notamment en habilitant l’Office à fixer celui-ci dans les limites réglementaires;
 	- **j)** fixer les normes de qualité des eaux pour le Nunavut — à l’exclusion des parcs nationaux;
 	- **k)** fixer les normes relatives aux effluents pour le Nunavut — à l’exclusion des parcs nationaux;
@@ -1371,6 +1509,7 @@ Il tient compte des observations ainsi reçues.
 	- **p)** enjoindre aux personnes qui rejettent des déchets dans les eaux du Nunavut — à l’exclusion des parcs nationaux — de fournir, pour analyse, des échantillons de ces déchets à l’Office ou d’en faire l’analyse elles-mêmes et d’en communiquer les résultats à celui-ci;
 	- **q)** régir le prélèvement et la méthode d’analyse d’échantillons d’eau ou de déchets;
 	- **r)** déterminer la forme du registre que doit tenir l’Office au titre de l’article 78 et les renseignements à y porter;
+	- **r.1)** régir le recouvrement des frais et des sommes pour l’application de l’article 81.1, notamment prévoir les sommes et les services pour l’application de cet article et soustraire à l’application de cet article toute catégorie de demandeurs ou de titulaires de permis;
 	- **s)** régir les pouvoirs et fonctions des analystes désignés au titre de l’article 85;
 	- **t)** d’une façon générale, prendre toute mesure nécessaire à l’application de la présente partie.
 
@@ -1385,6 +1524,8 @@ Il tient compte des observations ainsi reçues.
 **Variation des règlements**
 
 - **(4)** Les règlements pris en application du paragraphe (1) peuvent varier selon les zones de gestion des eaux constituées sous le régime de l’alinéa (1)a), en fonction de critères tels que la forme d’utilisation des eaux, le but de l’utilisation ou la quantité ou le régime utilisés, ou encore la quantité, la concentration et le type de déchets rejetés.
+> 2002, ch. 10, art. 82; 2015, ch. 19, art. 48.
+
 
 
 
