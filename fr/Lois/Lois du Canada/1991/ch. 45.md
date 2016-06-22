@@ -562,7 +562,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **20** 
 
-- **(1)** Sous réserve des paragraphes (2) et (4), les sociétés ne peuvent exercer leurs activités après la date du cinquième anniversaire de l’entrée en vigueur du présent article.
+- **(1)** Sous réserve des paragraphes (2) et (4), les sociétés ne peuvent exercer leurs activités après le 29 mars 2019.
 
 **Prorogation**
 
@@ -572,10 +572,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** Le décret n’est pas un règlement pour l’application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md). Toutefois, il doit être publié dans la partie II de la Gazette du Canada.
 
-**Exception**
+**Exception : dissolution**
 
-- **(4)** En cas de dissolution du Parlement à la date du cinquième anniversaire de l’entrée en vigueur du présent article, au cours des six mois qui la précèdent ou au cours de la période prévue au paragraphe (2), les sociétés peuvent exercer leurs activités jusqu’à cent quatre-vingts jours après le premier jour de la première session de la législature suivante.
-> 1991, ch. 45, art. 20; 1997, ch. 15, art. 341; 2001, ch. 9, art. 484; 2006, ch. 4, art. 202; 2007, ch. 6, art. 338; 2012, ch. 5, art. 163.
+- **(4)** En cas de dissolution du Parlement le 29 mars 2019, ou au cours des six mois qui précèdent cette date, ou au cours de la période prévue au paragraphe (2), les sociétés peuvent exercer leurs activités jusqu’au cent quatre-vingtième jour suivant le premier jour de la première session de la législature suivante.
+> 1991, ch. 45, art. 20; 1997, ch. 15, art. 341; 2001, ch. 9, art. 484; 2006, ch. 4, art. 202; 2007, ch. 6, art. 338; 2012, ch. 5, art. 163; 2016, ch. 7, art. 117.
 
 
 
@@ -11103,7 +11103,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 	- **a)** que le décret sera lié :
 		- **(i)** soit à l’acquisition, à la détention ou à la vente ou toute autre forme de disposition d’actions d’une société par Sa Majesté du chef du Canada ou par l’un de ses mandataires ou organismes, à toute autre forme de commerce par l’un de ceux-ci relativement à de telles actions ou au transfert ou à l’émission de telles actions à l’un de ceux-ci,
 		- **(ii)** soit à la conduite de l’activité commerciale et des affaires internes ou à la réglementation et à la supervision d’une société alors que Sa Majesté du chef du Canada ou l’un de ses mandataires ou organismes acquiert, détient ou vend des actions de cette société, en dispose autrement, en fait autrement le commerce ou en obtient le transfert ou l’émission;
-	- **b)** après avoir envisagé de prendre d’autres mesures que celles prévues à ce paragraphe et consulté le surintendant, le gouverneur de la Banque du Canada et le président de la Société d’assurance-dépôts du Canada, que le décret favorisera la stabilité du système financier au Canada.
+	- **b)** après avoir envisagé de prendre d’autres mesures que celles prévues à ce paragraphe et consulté le surintendant, le gouverneur de la Banque du Canada et le premier dirigeant de la Société d’assurance-dépôts du Canada, que le décret favorisera la stabilité du système financier au Canada.
 
 **Conditions**
 
@@ -11160,7 +11160,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Précision**
 
 - **(15)** Pour l’application du présent article, sont assimilés aux actions les privilèges de conversion ou d’échange et les options ou droits d’achat d’actions.
-> 2009, ch. 2, art. 292.
+> 2009, ch. 2, art. 292; 2016, ch. 7, art. 174.
 
 
 
