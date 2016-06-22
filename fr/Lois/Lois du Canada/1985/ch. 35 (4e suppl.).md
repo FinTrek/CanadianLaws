@@ -109,7 +109,7 @@
 	- **a)** [Abrogé, 2001, ch. 35, art. 1]
 	- **b)** des dispositions qui imposent des restrictions sur l’émission, le transfert et la propriété, ou copropriété, d’actions avec droit de vote de la Société afin d’empêcher des non-résidents d’être les détenteurs ou les véritables propriétaires ou d’avoir le contrôle, directement ou indirectement, autrement qu’à titre de garantie seulement, d’une quantité totale d’actions avec droit de vote qui confèrent plus de vingt-cinq pour cent — ou le pourcentage supérieur prévu par règlement du gouverneur en conseil — des droits de vote qui peuvent normalement être exercés pour l’élection des administrateurs de la Société, à l’exception des droits de vote pouvant être exercés par ou pour le ministre;
 	- **c)** des dispositions régissant le compte ou la répartition au prorata des votes exercés à une assemblée de ses actionnaires et attachés à ses actions avec droit de vote qui sont détenues ou contrôlées — directement ou indirectement — par des non-résidents ou qui sont la véritable propriété de ceux-ci, de manière à limiter la proportion de ces votes à vingt-cinq pour cent — ou le pourcentage supérieur prévu pour l’application de l’alinéa b) — du nombre total des votes exercés à cette assemblée;
-	- **d)** des dispositions l’obligeant à maintenir les centres d’entretien et de révision dans les villes de Winnipeg et Mississauga et dans la Communauté urbaine de Montréal;
+	- **d)** des dispositions l’obligeant à exercer ou à faire exercer des activités d’entretien d’aéronefs, notamment toute forme d’entretien relatif aux cellules, aux moteurs, aux éléments constitutifs, à l’équipement ou aux pièces, en Ontario, au Québec et au Manitoba;
 	- **e)** des dispositions fixant le siège social de la Société dans la Communauté urbaine de Montréal.
 
 **Mise en vigueur des restrictions**
@@ -123,7 +123,11 @@
 	- **b)** par un ou plusieurs souscripteurs à forfait uniquement dans le but de placer les actions dans le public;
 	- **c)** par toute personne agissant, à l’égard des actions, uniquement en sa qualité d’intermédiaire pour le paiement de fonds ou la délivrance de valeurs mobilières, ou les deux, relativement au commerce des valeurs mobilières et qui fournit des services centralisés pour la compensation des transactions en cette matière.
 
-- **(4) et (5)** [Abrogés, 2001, ch. 35, art. 1]
+**Activités d’entretien**
+
+- **(4)** Sans éliminer l’exercice d’activités d’entretien d’aéronefs en Ontario, au Québec ou au Manitoba, la Société peut, dans le cadre de l’exercice des activités visées à l’alinéa (1)d) dans chacune de ces provinces, modifier le type ou le volume d’une ou de plusieurs de ces activités dans chacune de ces provinces ainsi que le niveau d’emploi rattaché à ces activités.
+
+- **(5)** [Abrogé, 2001, ch. 35, art. 1]
 
 **Contrôle**
 
@@ -139,9 +143,11 @@
 
 - **(7)** Les définitions qui suivent s’appliquent au présent article.
 
-***action avec droit de vote*** Action conférant un droit de vote en tout état de cause ou en raison de la survenance d’un événement dont les effets demeurent, y compris la valeur mobilière immédiatement convertible en une telle action et les options ou droits susceptibles d’exercice immédiat et permettant d’acquérir cette action ou cette valeur.
+***action avec droit de vote*** Action conférant un droit de vote en tout état de cause ou en raison de la survenance d’un événement dont les effets demeurent, y compris la valeur mobilière immédiatement convertible en une telle action et les options ou droits susceptibles d’exercice immédiat et permettant d’acquérir cette action ou cette valeur. (*voting share*)
 
-***non-résident*** Selon le cas :
+***aéronef*** s’entend au sens du paragraphe 3(1) de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md). (*aircraft*)
+
+***non-résident*** Selon le cas :
 - **a)** un particulier, autre qu’un citoyen canadien, qui ne réside pas habituellement au Canada;
 - **b)** une société constituée, formée ou autrement organisée ailleurs qu’au Canada;
 - **c)** un gouvernement étranger ou ses mandataires;
@@ -151,14 +157,14 @@
 	- **(ii)** dont plus de cinquante pour cent de la propriété véritable appartient à des non-résidents au sens des alinéas a) à d);
 - **f)** une société contrôlée par la fiducie visée à l’alinéa e).
 
-La présente définition exclut la société mutuelle, au sens de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md), si son siège et son bureau principal sont situés au Canada et si au moins les trois quarts tant des membres de son conseil d’administration que des membres de chacun des comités de ce conseil sont des citoyens canadiens résidant habituellement au Canada. Elle exclut également la société qui est une filiale d’une institution étrangère ou d’une société étrangère — les termes ***société***, ***institution étrangère*** et ***société étrangère*** s’entendant au sens de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md) — qui acquiert des actions destinées à faire partie de l’actif d’une caisse séparée tenue aux termes des articles 451 ou 593 de cette loi et constituée à l’égard d’une ou plusieurs polices ou sommes pour la gestion d’un régime de pension bénéficiant à des personnes physiques qui sont en majorité des résidents.
+La présente définition exclut la société mutuelle, au sens de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md), si son siège et son bureau principal sont situés au Canada et si au moins les trois quarts tant des membres de son conseil d’administration que des membres de chacun des comités de ce conseil sont des citoyens canadiens résidant habituellement au Canada. Elle exclut également la société qui est une filiale d’une institution étrangère ou d’une société étrangère — les termes ***société***, ***institution étrangère*** et ***société étrangère*** s’entendant au sens de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md) — qui acquiert des actions destinées à faire partie de l’actif d’une caisse séparée tenue aux termes des articles 451 ou 593 de cette loi et constituée à l’égard d’une ou plusieurs polices ou sommes pour la gestion d’un régime de pension bénéficiant à des personnes physiques qui sont en majorité des résidents. (*non-resident*)
 
-***personne*** Sont compris parmi les personnes les particuliers ou sociétés et, en outre, les gouvernements ou leurs mandataires, fiduciaires, exécuteurs, administrateurs ou autres représentants légaux.
+***personne*** Sont compris parmi les personnes les particuliers ou sociétés et, en outre, les gouvernements ou leurs mandataires, fiduciaires, exécuteurs, administrateurs ou autres représentants légaux. (*person*)
 
-***résident*** Particulier ou société et, en outre, gouvernement ou ses mandataires, ou fiducie qui ne sont pas des non-résidents.
+***résident*** Particulier ou société et, en outre, gouvernement ou ses mandataires, ou fiducie qui ne sont pas des non-résidents. (*resident*)
 
-***société*** Sont compris parmi les sociétés les personnes morales, les sociétés de personnes et les organismes non dotés de la personnalité morale.
-> L.R. (1985), ch. 35 (4<sup>e</sup> suppl.), art. 6; 1993, ch. 34, art. 3; 1994, ch. 24, art. 34(F), ch. 47, art. 220; 2000, ch. 15, art. 17; 2001, ch. 35, art. 1.
+***société*** Sont compris parmi les sociétés les personnes morales, les sociétés de personnes et les organismes non dotés de la personnalité morale. (*corporation*)
+> L.R. (1985), ch. 35 (4<sup>e</sup> suppl.), art. 6; 1993, ch. 34, art. 3; 1994, ch. 24, art. 34(F), ch. 47, art. 220; 2000, ch. 15, art. 17; 2001, ch. 35, art. 1; 2016, ch. 8, art. 1.
 
 
 
