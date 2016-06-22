@@ -274,7 +274,7 @@ Sanctionnée sur le 26 juin 2011
 
 **Communication de renseignements, etc.**
 
-- **(3)** Le ministre et le surintendant peuvent échanger les livres, documents ou renseignements obtenus au titre du paragraphe (2) et les communiquer au gouverneur de la Banque du Canada, au président de la Société d’assurance-dépôts du Canada et au commissaire de l’Agence de la consommation en matière financière du Canada.
+- **(3)** Le ministre et le surintendant peuvent échanger les livres, documents ou renseignements obtenus au titre du paragraphe (2) et les communiquer au gouverneur de la Banque du Canada, au premier dirigeant de la Société d’assurance-dépôts du Canada et au commissaire de l’Agence de la consommation en matière financière du Canada.
 
 **Communication des conditions et engagements**
 
@@ -283,6 +283,8 @@ Sanctionnée sur le 26 juin 2011
 **Accessibilité au public**
 
 - **(5)** L’assureur hypothécaire agréé rend accessible au public les livres, documents et renseignements précisés par règlement.
+> 2011, ch. 15, art. 20 « 15 »; 2016, ch. 7, art. 179.
+
 
 
 
