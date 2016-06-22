@@ -590,6 +590,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+**Payments to Canada Place Corporation**
+
+**25.2** Despite section 25, the Minister of Canadian Heritage may make payments to Canada Place Corporation for Canada Day celebrations and for the celebrations marking the 150th anniversary of Confederation.
+> 2016, c. 7, s. 232.
+
+
+
+
+
 **No guarantee**
 
 **26** No guarantee may be given under the authority of Parliament by or on behalf of Her Majesty for the discharge of an obligation or liability of a port authority or a wholly-owned subsidiary of a port authority. This section applies even if the port authority or subsidiary is an agent of Her Majesty in right of Canada as provided under section 7.
