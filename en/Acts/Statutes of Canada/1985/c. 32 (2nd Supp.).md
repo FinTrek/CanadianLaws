@@ -73,6 +73,8 @@
 
 ***employment*** means the performance by an employee of work for remuneration for an employer under an express or implied contract of service or apprenticeship, and includes the tenure of an office; (*emploi*)
 
+***federal-provincial agreement*** means an agreement entered into under subsection 6.1(1); (*accord fédéral-provincial*)
+
 ***former member***, in relation to a pension plan, means
 - **(a)** except in sections 9.2 and 24 and paragraph 28(1)(b.1), a person who, on or after January 1, 1987, has either ceased membership in the plan or retired;
 - **(b)** in section 9.2 and paragraph 28(1)(b.1), a person who has either ceased membership in the plan or retired and has not, before the termination of the whole of the plan,
@@ -99,7 +101,7 @@
 
 ***multi-employer pension plan*** means a pension plan organized and administered for employees of two or more employers whose contributions to the pension plan are determined under an agreement between the participating employers or a collective agreement, statute or regulation, if the pension plan provides pension benefits that are determined by periods of employment with any or all of the participating employers, but does not include a pension plan where more than 95% of the plan members are employed by participating employers who are incorporated and are affiliates within the meaning of the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md); (*régime interentreprises*)
 
-***multilateral agreement*** means an agreement entered into under subsection 6.1(1); (*accord multilatéral*)
+***multilateral agreement***[Repealed, 2016, c. 7, s. 201]
 
 ***negotiated contribution plan*** means a multi-employer pension plan that includes at least one defined benefit provision and under which a participating employer’s contributions are limited to an amount determined in accordance with an agreement entered into by the participating employers or a collective agreement, statute or regulation, and which amount does not vary as a function of the prescribed tests and standards for solvency referred to in subsection 9(1); (*régime à cotisations négociées*)
 
@@ -121,7 +123,7 @@
 
 ***plan year***, in respect of a pension plan, means a calendar year, unless otherwise specified in the plan; (*exercice du régime*)
 
-***prescribed*** means prescribed by regulation;
+***prescribed*** means prescribed by regulation; (*Version anglaise seulement*)
 
 ***registered pension plan*** means a pension plan that is registered and in respect of which a certificate of registration has been issued by the Superintendent under this Act; (*régime agréé*)
 
@@ -167,7 +169,7 @@
 **Negotiated contribution plan**
 
 - **(5)** Even though a pension plan — established as a negotiated contribution plan — is no longer a negotiated contribution plan because it has only one participating employer or more than 95% of its members are employed by participating employers who are incorporated and are affiliates within the meaning of the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md), that pension plan is deemed to be a negotiated contribution plan for a period of one year after the day it is no longer a negotiated contribution plan, or for any longer period that may be specified by the Superintendent.
-> R.S., 1985, c. 32 (2nd Supp.), s. 2, c. 18 (3rd Supp.), s. 38; 1994, c. 24, s. 34(F); 1998, c. 12, s. 1; 2000, c. 12, s. 254; 2001, c. 34, s. 66; 2010, c. 12, ss. 1786, 1824(F), 1825(E), c. 25, s. 179.
+> R.S., 1985, c. 32 (2nd Supp.), s. 2, c. 18 (3rd Supp.), s. 38; 1994, c. 24, s. 34(F); 1998, c. 12, s. 1; 2000, c. 12, s. 254; 2001, c. 34, s. 66; 2010, c. 12, ss. 1786, 1824(F), 1825(E), c. 25, s. 179; 2016, c. 7, s. 201.
 
 
 
@@ -252,12 +254,12 @@
 	- **(a)** collect information to determine the extent to which inflation adjustments and other adjustments to pension benefits are provided;
 	- **(b)** conduct studies, surveys and research programs and compile statistical and other information relating to pension plans and their operation;
 	- **(c)** disclose information gathered under paragraph (a) or (b) or subsection 9.01(6) or filed under subsection 9.01(5) or section 10, 10.1 or 12 to any government agency or regulatory body; and
-	- **(d)** collect information from a pension supervisory authority of a designated province and disclose information to that authority for the purposes of implementing a multilateral agreement.
+	- **(d)** collect information from a pension supervisory authority of a designated province and disclose information to that authority for the purposes of implementing a federal-provincial agreement.
 
 **Terms and conditions**
 
 - **(3)** Any approval, authorization, consent or permission of the Superintendent given under this Act may be subject to terms and conditions.
-> R.S., 1985, c. 32 (2nd Supp.), s. 5; 1998, c. 12, s. 3; 2010, c. 12, s. 1788, c. 25, s. 180.
+> R.S., 1985, c. 32 (2nd Supp.), s. 5; 1998, c. 12, s. 3; 2010, c. 12, s. 1788, c. 25, s. 180; 2016, c. 7, s. 202.
 
 
 
@@ -266,30 +268,24 @@
 ## Agreements
 
 
-
-**Bilateral agreement**
-
-**6** The Minister may, with the approval of the Governor in Council, enter into a bilateral agreement with a designated province to
-- **(a)** authorize the pension supervisory authority of that province to exercise any of the Superintendent’s powers under this Act; and
-- **(b)** authorize the Superintendent to exercise any powers of that pension supervisory authority.
-> R.S., 1985, c. 32 (2nd Supp.), s. 6; 1998, c. 12, s. 4; 2010, c. 25, s. 181.
+**6** [Repealed, 2016, c. 7, s. 203]
 
 
 
 
-
-**Multilateral agreement**
+**One or more designated provinces**
 
 **6.1** 
 
-- **(1)** The Minister may, with the approval of the Governor in Council, enter into an agreement with two or more designated provinces respecting any matter relating to pension plans that are subject to the pension legislation of at least one designated province that is a party to the agreement.
+- **(1)** The Minister may, with the approval of the Governor in Council, enter into an agreement with one or more designated provinces respecting any matter relating to pension plans that are subject to the pension legislation of at least one designated province that is a party to the agreement.
 
 **Content of agreement**
 
-- **(2)** A multilateral agreement may, among other things,
+- **(2)** A federal-provincial agreement may, among other things,
 	- **(a)** limit the application of the pension legislation of a designated province that is a party to the agreement to a pension plan and adapt that legislation to that pension plan;
 	- **(b)** limit the application of this Act and the regulations to a pension plan and adapt them to that pension plan;
 	- **(c)** exempt a pension plan from the application of this Act and the regulations or the pension legislation of a designated province that is a party to the agreement;
+	- **(c.1)** make applicable, with respect to a pension plan, the pension legislation of a designated province that is a party to the agreement;
 	- **(d)** provide for the administration and enforcement of this Act, the regulations and the pension legislation of a designated province that is a party to the agreement;
 	- **(e)** authorize a pension supervisory authority of a designated province that is a party to the agreement or the association referred to in section 6.4 to exercise any of the Superintendent’s powers under this Act;
 	- **(f)** authorize the Superintendent to exercise any powers of a pension supervisory authority of a designated province that is a party to the agreement or the association referred to in section 6.4;
@@ -298,19 +294,19 @@
 
 **Tabling in Parliament**
 
-- **(3)** The Minister must cause to be tabled in each House of Parliament every multilateral agreement.
+- **(3)** The Minister must cause every federal-provincial agreement to be tabled in each House of Parliament.
 
 **Publication — Canada Gazette**
 
 - **(4)** The Minister must cause to be published in the Canada Gazette
-	- **(a)** every multilateral agreement and a notice of the date on which the agreement comes into effect with respect to pension plans;
-	- **(b)** every amendment to a multilateral agreement and a notice of the date on which the amendment comes into effect with respect to pension plans; and
-	- **(c)** a notice of the effective date of the Government of Canada’s withdrawal from the multilateral agreement or of the effective date of termination of that agreement, whichever comes first.
+	- **(a)** every federal-provincial agreement and a notice of the date on which the agreement comes into effect with respect to pension plans;
+	- **(b)** every amendment to a federal-provincial agreement and a notice of the date on which the amendment comes into effect with respect to pension plans; and
+	- **(c)** a notice of the effective date of the Government of Canada’s withdrawal from the federal-provincial agreement or of the effective date of termination of that agreement, whichever comes first.
 
 **Publication — other**
 
-- **(5)** In addition to the publishing requirements under subsection (4), the Minister must ensure that every multilateral agreement and every amendment to a multilateral agreement is accessible to the public through the Internet or by any other means that the Minister considers appropriate.
-> 2010, c. 25, s. 181.
+- **(5)** In addition to the publishing requirements under subsection (4), the Minister must ensure that every federal-provincial agreement and every amendment to a federal-provincial agreement is accessible to the public through the Internet or by any other means that the Minister considers appropriate.
+> 2010, c. 25, s. 181; 2016, c. 7, s. 204.
 
 
 
@@ -320,12 +316,12 @@
 
 **6.2** 
 
-- **(1)** The provisions of a multilateral agreement, other than those exempted from the application of this subsection by regulation, have the force of law during the period that the agreement is in effect with respect to pension plans and are enforceable during that period as if those provisions formed part of this Act.
+- **(1)** The provisions of a federal-provincial agreement, other than those exempted from the application of this subsection by regulation, have the force of law during the period that the agreement is in effect with respect to pension plans and are enforceable during that period as if those provisions formed part of this Act.
 
 **Inconsistency with agreement**
 
-- **(2)** The provisions of a multilateral agreement that have the force of law prevail over any provision of this Act and the regulations to the extent of any inconsistency or conflict between them.
-> 2010, c. 25, s. 181.
+- **(2)** The provisions of a federal-provincial agreement that have the force of law prevail over any provision of this Act and the regulations to the extent of any inconsistency or conflict between them.
+> 2010, c. 25, s. 181; 2016, c. 7, s. 205.
 
 
 
@@ -335,12 +331,12 @@
 
 **6.3** 
 
-- **(1)** A decision of a pension supervisory authority of a designated province that is made under the authority of a multilateral agreement and that relates to the application of this Act or the regulations is deemed to be a decision of a federal board, commission or other tribunal, as defined in subsection 2(1) of the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), and is subject to judicial review under that Act.
+- **(1)** A decision of a pension supervisory authority of a designated province that is made under the authority of a federal-provincial agreement and that relates to the application of this Act or the regulations is deemed to be a decision of a ***federal board, commission or other tribunal***, as defined in subsection 2(1) of the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), and is subject to judicial review under that Act.
 
 **No review by Federal Court**
 
-- **(2)** A decision of the Superintendent that is made under the authority of a multilateral agreement and that relates to the application of the pension legislation of a designated province is deemed to be a decision of the pension supervisory authority of that province and is not subject to judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md).
-> 2010, c. 25, s. 181.
+- **(2)** A decision of the Superintendent that is made under the authority of a federal-provincial agreement and that relates to the application of the pension legislation of a designated province is deemed to be a decision of the pension supervisory authority of that province and is not subject to judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md).
+> 2010, c. 25, s. 181; 2016, c. 7, s. 205.
 
 
 
@@ -348,8 +344,8 @@
 
 **Association of pension supervisory authorities**
 
-**6.4** The Minister may, with the approval of the Governor in Council, enter into an agreement with a designated province respecting the establishment and operation in Canada of an association of pension supervisory authorities.
-> 2010, c. 25, s. 181.
+**6.4** The Minister may, with the approval of the Governor in Council, enter into an agreement with one or more designated provinces respecting the establishment and operation in Canada of an association of pension supervisory authorities.
+> 2010, c. 25, s. 181; 2016, c. 7, s. 205.
 
 
 
@@ -2377,9 +2373,9 @@ is guilty of an offence.
 	- **(a)** respecting applications for registration of pension plans;
 	- **(a.1)** [Repealed, 2012, c. 16, s. 89]
 	- **(b)** respecting the fees that may be charged for the registration of pension plans and for the supervision, including inspection, of registered pension plans;
-	- **(b.1)** respecting the implementation of a multilateral agreement;
-	- **(b.2)** exempting a multilateral agreement or any provision of that agreement from the application of subsection 6.2(1);
-	- **(b.3)** respecting transitional matters in the event that the Government of Canada ceases to be a party to a multilateral agreement;
+	- **(b.1)** respecting the implementation of a federal-provincial agreement;
+	- **(b.2)** exempting a federal-provincial agreement or any provision of that agreement from the application of subsection 6.2(1);
+	- **(b.3)** respecting transitional matters in the event that the Government of Canada ceases to be a party to a federal-provincial agreement;
 	- **(c)** prescribing the conditions under which, on the cessation of a member’s membership in a pension plan or on the termination or winding-up of a pension plan, pension benefit credits may be held in trust by the administrator of the plan, or transferred to the administrator of another pension plan or to a registered retirement savings plan of the prescribed kind;
 	- **(c.1)** respecting the transfer of pension benefit credit of any person who cannot be located, as well as the assets relating to that credit to the entity designated under section 10.3, including the circumstances and conditions under which that credit and those assets may be transferred to that entity;
 	- **(c.2)** respecting the entity designated under section 10.3;
@@ -2441,7 +2437,7 @@ with
 **General or specific application**
 
 - **(3)** A regulation made for the purposes of subsection 8(4.1) or 9(1), sections 9.11 to 9.15 or subsection 10.1(2) may be made applicable generally to all pension plans or specifically to one or more pension plans.
-> R.S., 1985, c. 32 (2nd Supp.), s. 39; 1998, c. 12, s. 26; 2001, c. 34, s. 76; 2007, c. 35, s. 142; 2010, c. 12, s. 1820, c. 25, ss. 196, 198; 2012, c. 16, s. 89.
+> R.S., 1985, c. 32 (2nd Supp.), s. 39; 1998, c. 12, s. 26; 2001, c. 34, s. 76; 2007, c. 35, s. 142; 2010, c. 12, s. 1820, c. 25, ss. 196, 198; 2012, c. 16, s. 89; 2016, c. 7, s. 206.
 
 
 
