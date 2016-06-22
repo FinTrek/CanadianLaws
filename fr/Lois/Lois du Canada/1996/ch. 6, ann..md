@@ -204,7 +204,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Articles 39.15 et 39.152 de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md)**
 
-- **(3.1)** Malgré les paragraphes (1) à (3) et les règles applicables au règlement, aucune opération ne peut être accomplie relativement à un contrat financier admissible, au sens du paragraphe 39.15(9) de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md), si elle ne peut l’être aux termes des paragraphes 39.15(7.01), (7.1) ou (7.11) ou de l’article 39.152 de cette loi.
+- **(3.1)** Malgré les paragraphes (1) à (3) et les règles applicables au règlement :
+	- **a)** aucune opération ne peut être accomplie relativement à un ***contrat financier admissible***, au sens du paragraphe 39.15(9) de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md), si elle ne peut l’être aux termes des paragraphes 39.15(7.01), (7.1), (7.11), (7.12) ou (7.2) ou de l’article 39.152 de cette loi;
+	- **b)** une ***chambre de compensation***, au sens du paragraphe 39.15(9) de la même loi, doit se conformer au paragraphe 39.15(3.3) de cette loi et accomplir toute opération visée par le paragraphe 39.15(7.12) de cette loi mais ne peut accomplir aucune opération si celle-ci ne peut l’être aux termes de ce paragraphe.
 
 **Application du droit canadien**
 
@@ -213,7 +215,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Définition**
 
 - **(5)** Au présent article, ***règles applicables au règlement*** s’entend des règles, quel que soit le texte qui les établit, qui servent au calcul, au règlement ou à la compensation des obligations de paiement ou des obligations de délivrance, ou qui servent aux autres transferts de biens ou d’intérêts dans des biens, ou, au Québec, de droits relatifs à des biens, y compris les règles qui prévoient les mesures à prendre dans les cas où un établissement participant ne peut ou ne pourra vraisemblablement pas satisfaire à ses obligations envers la chambre de compensation, l’intermédiaire, les autres établissement participants ou la banque.
-> 1996, ch. 6, art. 162 (ann., art. 8); 1999, ch. 28, art. 132(A); 2012, ch. 31, art. 169.
+> 1996, ch. 6, art. 162 (ann., art. 8); 1999, ch. 28, art. 132(A); 2012, ch. 31, art. 169; 2016, ch. 7, art. 165.
 
 
 
@@ -315,32 +317,32 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Articles 39.15 et 39.152 de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md)**
 
-- **(1.2)** Malgré les paragraphes (1) et (1.1), aucune opération ne peut être accomplie relativement à un contrat financier admissible, au sens du paragraphe 39.15(9) de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md), si elle ne peut l’être aux termes des paragraphes 39.15(7.01), (7.1) ou (7.11) ou de l’article 39.152 de cette loi.
+- **(1.2)** Malgré les paragraphes (1) et (1.1), aucune opération ne peut être accomplie relativement à un ***contrat financier admissible***, au sens du paragraphe 39.15(9) de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md), si elle ne peut l’être aux termes des paragraphes 39.15(7.01), (7.1), (7.11), (7.12) ou (7.2) ou de l’article 39.152 de cette loi.
 
 **Définitions**
 
 - **(2)** Les définitions qui suivent s’appliquent au présent article.
 
-***accord de compensation*** Accord conclu entre des institutions financières, entre une ou plusieurs institutions financières et la banque ou entre un établissement participant et le client auquel il fournit un service de compensation et qui soit constitue un contrat financier admissible, soit porte compensation ou extinction des obligations de paiement, présentes ou futures, avec le droit, présent ou futur, de recevoir des paiements.
+***accord de compensation*** Accord conclu entre des institutions financières, entre une ou plusieurs institutions financières et la banque ou entre un établissement participant et le client auquel il fournit un service de compensation et qui soit constitue un contrat financier admissible, soit porte compensation ou extinction des obligations de paiement, présentes ou futures, avec le droit, présent ou futur, de recevoir des paiements. (*netting agreement*)
 
-***accord de transfert de titres pour obtention de crédit*** Accord aux termes duquel la propriété d’un bien est transférée en vue de garantir le paiement d’une somme ou l’exécution d’une obligation relativement à un contrat financier admissible.
+***accord de transfert de titres pour obtention de crédit*** Accord aux termes duquel la propriété d’un bien est transférée en vue de garantir le paiement d’une somme ou l’exécution d’une obligation relativement à un contrat financier admissible. (*title transfer credit support agreement*)
 
-***garantie financière*** S’il est assujetti soit à un intérêt ou, dans la province de Québec, à un droit garantissant le paiement d’une somme ou l’exécution d’une obligation relativement à un contrat financier admissible, soit à un accord de transfert de titres pour obtention de crédit, l’un ou l’autre des éléments suivants :
+***garantie financière*** S’il est assujetti soit à un intérêt ou, dans la province de Québec, à un droit garantissant le paiement d’une somme ou l’exécution d’une obligation relativement à un contrat financier admissible, soit à un accord de transfert de titres pour obtention de crédit, l’un ou l’autre des éléments suivants :
 - **a)** les sommes en espèces et les équivalents de trésorerie — notamment les effets négociables et dépôts à vue;
 - **b)** les titres, comptes de titres, droits intermédiés et droits d’acquérir des titres;
 - **c)** les contrats à terme ou comptes de contrats à terme;
 - **d)** les cessions de droits au paiement ou à la délivrance détenus à l’encontre d’une chambre de compensation;
-- **e)** toute autre garantie prévue par règlement.
+- **e)** toute autre garantie prévue par règlement. (*financial collateral*)
 
 ***institution financière***
 - **a)** Institution financière au sens de l’article 2 de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md);
 - **b)** toute autre entité, ou entité faisant partie d’une catégorie d’entités, désignée par le gouverneur en conseil pour l’application du présent article et dont l’activité principale est d’offrir des services financiers;
 - **c)** tout administrateur, fiduciaire ou gestionnaire d’une caisse de retraite versant des prestations aux termes d’un régime de pension agréé en vertu de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
 - **d)** l’Office d’investissement du régime de pensions du Canada;
-- **e)** l’Office d’investissement des régimes de pensions du secteur public.
+- **e)** l’Office d’investissement des régimes de pensions du secteur public. (*financial institution*)
 
-***reliquat net*** Le montant obtenu une fois la compensation opérée entre les parties à un accord de compensation, selon les modalités prévues à celui-ci.
-> 1996, ch. 6, art. 162 (ann., art. 13); 1997, ch. 40, art. 109; 1999, ch. 28, art. 133, ch. 34, art. 228; 2007, ch. 29, art. 111; 2012, ch. 31, art. 170.
+***reliquat net*** Le montant obtenu une fois la compensation opérée entre les parties à un accord de compensation, selon les modalités prévues à celui-ci. (*net termination value*)
+> 1996, ch. 6, art. 162 (ann., art. 13); 1997, ch. 40, art. 109; 1999, ch. 28, art. 133, ch. 34, art. 228; 2007, ch. 29, art. 111; 2012, ch. 31, art. 170; 2016, ch. 7, art. 166.
 
 
 
@@ -354,33 +356,33 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **13.1** 
 
-- **(1)** Aucune règle de droit portant sur la faillite ou l’insolvabilité ni aucune ordonnance judiciaire relative à une réorganisation, à un arrangement ou à une mise sous séquestre découlant d’une insolvabilité, même si elles relèvent du droit ou d’un tribunal étrangers, ne peuvent avoir pour effet :
+- **(1)** Aucune règle de droit portant sur la faillite ou l’insolvabilité ni aucune ordonnance judiciaire relative à une réorganisation, à un arrangement ou à une mise sous séquestre découlant d’une insolvabilité, même si elles relèvent du droit ou d’un tribunal étrangers, ne peuvent avoir pour effet :
 	- **a)** d’empêcher la chambre spécialisée soit de mettre fin à l’accord de compensation qu’elle a conclu avec le membre et de calculer le reliquat net conformément aux stipulations de l’accord, la partie qui a droit à ce reliquat devenant dès lors créancière de celle qui le doit, soit d’agir conformément à celles de ses règles qui lui servent à calculer le règlement ou la compensation des obligations de paiement ou de délivrance;
 	- **b)** d’entraver l’exercice des droits et recours de la chambre spécialisée à l’égard des garanties qui lui ont été consenties pour assurer l’exécution d’une obligation découlant des services de compensation et de règlement qu’elle fournit.
 
 **Articles 39.15 et 39.152 de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md)**
 
-- **(1.1)** Malgré le paragraphe (1), aucune opération ne peut être accomplie relativement à un contrat financier admissible, au sens du paragraphe 39.15(9) de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md), si elle ne peut l’être aux termes des paragraphes 39.15(7.01), (7.1) ou (7.11) ou de l’article 39.152 de cette loi.
+- **(1.1)** Malgré le paragraphe (1), aucune opération ne peut être accomplie relativement à un ***contrat financier admissible***, au sens du paragraphe 39.15(9) de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md), si elle ne peut l’être aux termes des paragraphes 39.15(7.01), (7.1), (7.11), (7.12) ou (7.2) ou de l’article 39.152 de cette loi.
 
 **Pouvoir de désignation**
 
-- **(2)** Pour l’application du présent article, le ministre peut, s’il croit qu’il est dans l’intérêt public de le faire, désigner à titre de « chambre spécialisée » toute entité, autre que celles visées aux alinéas a) à c) de la définition de ce terme au paragraphe (3), qui fournit des services de compensation et de règlement à ses membres dans les opérations sur valeurs mobilières ou sur instruments dérivés.
+- **(2)** Pour l’application du présent article, le ministre peut, s’il croit qu’il est dans l’intérêt public de le faire, désigner à titre de ***chambre spécialisée*** toute entité, autre que celles visées aux alinéas a) à c) de la définition de ce terme au paragraphe (3), qui fournit des services de compensation et de règlement à ses membres dans les opérations sur valeurs mobilières ou sur instruments dérivés.
 
 **Définitions**
 
 - **(3)** Les définitions qui suivent s’appliquent au présent article.
 
-***accord de compensation*** Accord conclu entre une chambre spécialisée et un membre et qui soit constitue un contrat financier admissible, soit porte compensation ou extinction des obligations de paiement ou de délivrance — actuelles ou futures — avec le droit — actuel ou futur — de recevoir paiement ou de prendre livraison.
+***accord de compensation*** Accord conclu entre une chambre spécialisée et un membre et qui soit constitue un contrat financier admissible, soit porte compensation ou extinction des obligations de paiement ou de délivrance — actuelles ou futures — avec le droit — actuel ou futur — de recevoir paiement ou de prendre livraison. (*netting agreement*)
 
-***chambre spécialisée*** Outre les entités désignées en vertu du paragraphe (2) :
+***chambre spécialisée*** Outre les entités désignées en vertu du paragraphe (2) :
 - **a)** la Corporation canadienne de compensation de produits dérivés, constituée en vertu de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md);
 - **b)** les Services de dépôt et de compensation CDS inc., constituée sous le régime de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md);
-- **c)** la WCE Clearing Corporation, constituée en vertu de la Loi sur les corporations, chapitre C225 des Lois réadoptées du Manitoba de 1987.
+- **c)** la WCE Clearing Corporation, constituée en vertu de la Loi sur les corporations, chapitre C225 des Lois réadoptées du Manitoba de 1987. (*securities and derivatives clearing house*)
 
-***membre*** Personne qui a recours aux services d’une chambre spécialisée.
+***membre*** Personne qui a recours aux services d’une chambre spécialisée. (*clearing member*)
 
-***reliquat net*** Le montant obtenu une fois la compensation opérée entre une chambre spécialisée et un membre, selon les modalités prévues par l’accord de compensation.
-> 2002, ch. 14, art. 1; 2007, ch. 6, art. 442, ch. 29, art. 112; 2012, ch. 31, art. 171.
+***reliquat net*** Le montant obtenu une fois la compensation opérée entre une chambre spécialisée et un membre, selon les modalités prévues par l’accord de compensation. (*net termination value*)
+> 2002, ch. 14, art. 1; 2007, ch. 6, art. 442, ch. 29, art. 112; 2012, ch. 31, art. 171; 2016, ch. 7, art. 167.
 
 
 
@@ -500,7 +502,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** à des fins liées à la réglementation, à une autorité administrative ou à un organisme chargés de réglementer, selon le cas :
 		- **(i)** des institutions financières au sens de l’article 2 de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md),
 		- **(ii)** des entités qui fournissent des services de compensation ou de règlement relatifs à des opérations en valeurs mobilières ou à des contrats financiers admissibles;
-	- **b)** au sous-ministre des Finances ou à tout fonctionnaire du ministère des Finances que celui-ci a délégué par écrit ou au président de la Société d’assurance-dépôts du Canada ou à tout fonctionnaire de cette société que celui-ci a délégué par écrit.
+	- **b)** au sous-ministre des Finances ou à tout fonctionnaire du ministère des Finances que celui-ci a délégué par écrit ou au premier dirigeant de la Société d’assurance-dépôts du Canada ou à tout autre fonctionnaire de cette société que celui-ci a délégué par écrit.
 
 **Exception**
 
@@ -509,7 +511,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Communication à l’extérieur du Canada**
 
 - **(4)** Avant qu’elle ne communique des renseignements à une autorité administrative ou à un organisme de réglementation se trouvant à l’extérieur du Canada, la banque est tenue de conclure avec lui un accord ou un arrangement portant sur les conditions de la communication.
-> 1996, ch. 6, art. 162 (ann., art. 18); 2012, ch. 5, art. 215; 2014, ch. 39, art. 372.
+> 1996, ch. 6, art. 162 (ann., art. 18); 2012, ch. 5, art. 215; 2014, ch. 39, art. 372; 2016, ch. 7, art. 178.
 
 
 
