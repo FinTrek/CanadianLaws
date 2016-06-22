@@ -10,44 +10,45 @@ Autorités habilitantes :
 ----------
 
 
+[Abrogé, DORS/2016-181, art. 3]
+
+
 
 ## Titre abrégé
+> [Abrogée, DORS/2016-181, art. 3]
 
 
-**1** Le présent règlement peut être cité sous le titre : Règlement sur les produits dangereux (bouilloires).
+
+**1** [Abrogé, DORS/2016-181, art. 3]
 
 
 
 
 ## Définition
+> [Abrogée, DORS/2016-181, art. 3]
 
 
-**2** La définition qui suit s'applique au présent règlement.
 
-***produit*** Bouilloire visée à l'article 28 de la partie II de l'annexe I de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md). (*product*) 
-> DORS/91-259, art. 2.
-
+**2** [Abrogé, DORS/2016-181, art. 3]
 
 
 
 
 ## Dispositions générales
+> [Abrogée, DORS/2016-181, art. 3]
 
 
-**3** La vente, l’importation et la publicité d’un produit sont autorisées à la condition que celui-ci ne libère pas de plomb en une quantité supérieure à 0,01 partie par million p/p lorsqu’il est mis à l’essai conformément à l’article 4.
-> DORS/91-259, art. 3(F); DORS/2010-37, art. 1.
 
+**3** [Abrogé, DORS/2016-181, art. 3]
 
 
 
 
 ## Méthode d'essai
+> [Abrogée, DORS/2016-181, art. 3]
 
 
-**4** Pour déterminer la quantité de plomb libérée par un produit,
-- **a)** le produit doit être préparé conformément aux instructions du fabricant;
-- **b)** un litre d'eau distillée et désionisée doit y être versée;
-- **c)** l'eau doit y être amenée à ébullition pendant une durée totale de 15 minutes; et
-- **d)** une fois que l'eau est revenue à la température ambiante, la teneur de l'eau en plomb doit être mesurée en parties par million p/p et cette mesure doit être calculée sur la base de un litre d'eau.
+
+**4** [Abrogé, DORS/2016-181, art. 3]
 
 
