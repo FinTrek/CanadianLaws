@@ -57,24 +57,26 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***acte constitutif*** Loi spéciale, lettres patentes, acte de prorogation ou tout autre acte — avec ses modifications ou mises à jour éventuelles — constituant ou prorogeant une personne morale.
+***acte constitutif*** Loi spéciale, lettres patentes, acte de prorogation ou tout autre acte — avec ses modifications ou mises à jour éventuelles — constituant ou prorogeant une personne morale. (*incorporating instrument*)
 
-***action avec droit de vote*** Action d’une personne morale comportant — quelle qu’en soit la catégorie — un droit de vote en tout état de cause ou en raison soit de la survenance d’un fait qui demeure, soit de la réalisation d’une condition.
+***action avec droit de vote*** Action d’une personne morale comportant — quelle qu’en soit la catégorie — un droit de vote en tout état de cause ou en raison soit de la survenance d’un fait qui demeure, soit de la réalisation d’une condition. (*voting share*)
 
-,  ou ,  or ***administrateur*** Indépendamment de son titre, la personne physique qui fait fonction d’administrateur d’une personne morale; ***conseil d’administration*** ou ***conseil*** s’entend de l’ensemble des administrateurs d’une personne morale.
+***administrateur*** Indépendamment de son titre, la personne physique qui fait fonction d’administrateur d’une personne morale; ***conseil d’administration*** ou ***conseil*** s’entend de l’ensemble des administrateurs d’une personne morale. (*director*, *board of directors* or *directors*)
 
 ***adresse enregistrée***
 - **a)** Dans le cas d’un actionnaire d’une banque ou d’une société de portefeuille bancaire, dernière adresse postale selon le registre central des valeurs mobilières de la banque ou de la société de portefeuille bancaire;
 - **a.1)** dans le cas d’un membre d’une coopérative de crédit fédérale, dernière adresse postale selon le registre des membres;
-- **b)** dans le cas de toute autre personne, en ce qui a trait à une banque, dernière adresse postale selon les livres de la succursale en cause.
+- **b)** dans le cas de toute autre personne, en ce qui a trait à une banque, dernière adresse postale selon les livres de la succursale en cause. (*recorded address*)
 
-***affaires internes*** Relations entre une banque, une banque étrangère autorisée ou une société de portefeuille bancaire et les entités de leur groupe et leurs actionnaires, membres, administrateurs et dirigeants, à l’exclusion de leur activité commerciale.
+***affaires internes*** Relations entre une banque, une banque étrangère autorisée ou une société de portefeuille bancaire et les entités de leur groupe et leurs actionnaires, membres, administrateurs et dirigeants, à l’exclusion de leur activité commerciale. (*affairs*)
 
-***Agence*** L’Agence de la consommation en matière financière du Canada constituée en application de l’article 3 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md).
+***Agence*** L’Agence de la consommation en matière financière du Canada constituée en application de l’article 3 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md). (*Agency*)
 
-***banque*** Banque figurant aux annexes I ou II.
+***banque*** Banque figurant aux annexes I ou II. (*bank*)
 
-***banque étrangère*** Sous réserve de l’article 12, toute entité constituée en personne morale ou formée sous le régime de la législation d’un pays étranger, qui, selon le cas :
+***banque d’importance systémique nationale*** Banque désignée à ce titre en vertu de l’article 484.1. (*domestic systemically important bank*)
+
+***banque étrangère*** Sous réserve de l’article 12, toute entité constituée en personne morale ou formée sous le régime de la législation d’un pays étranger, qui, selon le cas :
 - **a)** est une banque d’après la législation du pays étranger où elle exerce son activité;
 - **b)** exerce dans un pays étranger des activités qui, au Canada, seraient en totalité ou en majeure partie des opérations bancaires;
 - **c)** se livre, directement ou non, à la prestation de services financiers et adopte, pour désigner ou décrire son activité, une dénomination qui comprend l’un des mots « bank », « banque », « banking » ou « bancaire », employé seul ou combiné avec d’autres mots ou un ou plusieurs mots d’une autre langue que le français ou l’anglais, ayant un sens analogue;
@@ -83,73 +85,73 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **f)** contrôle une autre banque étrangère;
 - **g)** est une institution étrangère, autre qu’une banque étrangère au sens d’un des alinéas a) à f), qui contrôle une banque constituée ou formée sous le régime de la présente loi.
 
-Sont exclues de la présente définition les filiales des banques figurant à l’annexe I dans sa version antérieure à l’entrée en vigueur de l’article 184 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md), sauf si le ministre prend la décision d’exclure une ou plusieurs de ces banques de l’application du paragraphe 378(1).
+Sont exclues de la présente définition les filiales des banques figurant à l’annexe I dans sa version antérieure à l’entrée en vigueur de l’article 184 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md), sauf si le ministre prend la décision d’exclure une ou plusieurs de ces banques de l’application du paragraphe 378(1). (*foreign bank*)
 
-***banque étrangère autorisée*** Banque étrangère faisant l’objet de l’arrêté prévu au paragraphe 524(1).
+***banque étrangère autorisée*** Banque étrangère faisant l’objet de l’arrêté prévu au paragraphe 524(1). (*authorized foreign bank*)
 
-***banque étrangère d’un non-membre de l’OMC*** Banque étrangère qui n’est pas contrôlée par un résident d’un membre de l’OMC.
+***banque étrangère d’un non-membre de l’OMC*** Banque étrangère qui n’est pas contrôlée par un résident d’un membre de l’OMC. (*non-WTO Member foreign bank*)
 
-French version only***banque n’ayant pas fait appel au public*** S’entend d’une banque autre qu’une banque ayant fait appel au public.
+***banque n’ayant pas fait appel au public*** S’entend d’une banque autre qu’une banque ayant fait appel au public. (*French version only*)
 
-***biens immeubles*** Sont assimilés aux biens immeubles les droits découlant des baux immobiliers.
+***biens immeubles*** Sont assimilés aux biens immeubles les droits découlant des baux immobiliers. (*real property*)
 
-***bureau principal*** S’agissant de la banque étrangère autorisée, bureau qu’elle doit maintenir aux termes de l’article 535.
+***bureau principal*** S’agissant de la banque étrangère autorisée, bureau qu’elle doit maintenir aux termes de l’article 535. (*principal office*)
 
-***capital réglementaire*** Dans le cas d’une banque ou d’une société de portefeuille bancaire, s’entend au sens des règlements.
+***capital réglementaire*** Dans le cas d’une banque ou d’une société de portefeuille bancaire, s’entend au sens des règlements. (*regulatory capital*)
 
-***capitaux propres*** En ce qui concerne une banque ou une société de portefeuille bancaire, leurs capitaux propres déterminés de la façon prévue par règlement.
+***capitaux propres*** En ce qui concerne une banque ou une société de portefeuille bancaire, leurs capitaux propres déterminés de la façon prévue par règlement. (*equity*)
 
-***commissaire*** Le commissaire de l’Agence nommé en application de l’article 4 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md).
+***commissaire*** Le commissaire de l’Agence nommé en application de l’article 4 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md). (*Commissioner*)
 
-***conjoint de fait*** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an.
+***conjoint de fait*** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an. (*common-law partner*)
 
-***constitué en personne morale*** Sont assimilées aux personnes morales constituées sous le régime d’une loi fédérale ou provinciale les personnes morales prorogées sous le même régime.
+***constitué en personne morale*** Sont assimilées aux personnes morales constituées sous le régime d’une loi fédérale ou provinciale les personnes morales prorogées sous le même régime. (*incorporated*)
 
-***coopérative de crédit fédérale*** Banque qui, au sens de l’article 12.1, est organisée et exerce ses activités commerciales selon le principe coopératif.
+***coopérative de crédit fédérale*** Banque qui, au sens de l’article 12.1, est organisée et exerce ses activités commerciales selon le principe coopératif. (*federal credit union*)
 
-***cour d’appel*** La juridiction compétente pour juger les appels interjetés contre les décisions et ordonnances des tribunaux.
+***cour d’appel*** La juridiction compétente pour juger les appels interjetés contre les décisions et ordonnances des tribunaux. (*court of appeal*)
 
-***délégué*** Personne physique nommée ou élue pour représenter un membre à une assemblée des membres.
+***délégué*** Personne physique nommée ou élue pour représenter un membre à une assemblée des membres. (*delegate*)
 
-***détenteur*** L’actionnaire au sens de l’article 7, le membre visé à l’article 7.1 ou toute personne détenant un certificat de valeur mobilière délivré au porteur ou à son nom, ou endossé à son profit, ou encore en blanc.
+***détenteur*** L’actionnaire au sens de l’article 7, le membre visé à l’article 7.1 ou toute personne détenant un certificat de valeur mobilière délivré au porteur ou à son nom, ou endossé à son profit, ou encore en blanc. (*holder*)
 
-***dirigeant*** Toute personne physique désignée à ce titre par règlement administratif ou résolution du conseil d’administration ou des membres d’une entité, notamment, dans le cas d’une personne morale, le premier dirigeant, le président, le vice-président, le secrétaire, le contrôleur financier ou le trésorier.
+***dirigeant*** Toute personne physique désignée à ce titre par règlement administratif ou résolution du conseil d’administration ou des membres d’une entité, notamment, dans le cas d’une personne morale, le premier dirigeant, le président, le vice-président, le secrétaire, le contrôleur financier ou le trésorier. (*officer*)
 
-***dirigeant principal*** S’agissant de la banque étrangère autorisée, la personne nommée en vertu de l’article 536.
+***dirigeant principal*** S’agissant de la banque étrangère autorisée, la personne nommée en vertu de l’article 536. (*principal officer*)
 
-***disposition visant les consommateurs*** S’entend d’une disposition visée aux alinéas a) ou a.1) de la définition de ***disposition visant les consommateurs*** à l’article 2 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md).
+***disposition visant les consommateurs*** S’entend d’une disposition visée aux alinéas a) ou a.1) de la définition de ***disposition visant les consommateurs*** à l’article 2 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md). (*consumer provision*)
 
-***émetteur*** L’entité qui émet ou a émis des valeurs mobilières.
+***émetteur*** L’entité qui émet ou a émis des valeurs mobilières. (*issuer*)
 
-***entité*** Personne morale, fiducie, société de personnes, fonds, toute organisation ou association non dotée de la personnalité morale, Sa Majesté du chef du Canada ou d’une province et ses organismes et le gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques et ses organismes.
+***entité*** Personne morale, fiducie, société de personnes, fonds, toute organisation ou association non dotée de la personnalité morale, Sa Majesté du chef du Canada ou d’une province et ses organismes et le gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques et ses organismes. (*entity*)
 
-***entité canadienne*** Entité constituée en personne morale ou formée sous le régime d’une loi fédérale ou provinciale, ou formée autrement au Canada et qui exerce son activité commerciale au Canada.
+***entité canadienne*** Entité constituée en personne morale ou formée sous le régime d’une loi fédérale ou provinciale, ou formée autrement au Canada et qui exerce son activité commerciale au Canada. (*Canadian entity*)
 
-***envoyer*** A également le sens de remettre.
+***envoyer*** A également le sens de remettre. (*send*)
 
-***état annuel*** L’état établi conformément à l’article 601.
+***état annuel*** L’état établi conformément à l’article 601. (*annual return*)
 
-***fédération de sociétés coopératives de crédit*** Toute association régie par la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md) ou toute fédération, confédération ou personne morale constituée par une loi provinciale ou sous son régime et dont sont membres ou actionnaires au moins deux sociétés coopératives de crédit centrales.
+***fédération de sociétés coopératives de crédit*** Toute association régie par la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md) ou toute fédération, confédération ou personne morale constituée par une loi provinciale ou sous son régime et dont sont membres ou actionnaires au moins deux sociétés coopératives de crédit centrales. (*federation of cooperative credit societies*)
 
-***filiale*** Entité se trouvant dans la situation décrite à l’article 5.
+***filiale*** Entité se trouvant dans la situation décrite à l’article 5. (*subsidiary*)
 
 ***filiale de banque étrangère***[Abrogée, 2001, ch. 9, art. 35]
 
-***fondateur*** Toute personne qui a demandé la constitution de la banque ou de la société de portefeuille bancaire, selon le cas, par lettres patentes.
+***fondateur*** Toute personne qui a demandé la constitution de la banque ou de la société de portefeuille bancaire, selon le cas, par lettres patentes. (*incorporator*)
 
-***fondé de pouvoir*** Personne nommée par procuration pour représenter l’actionnaire aux assemblées des actionnaires.
+***fondé de pouvoir*** Personne nommée par procuration pour représenter l’actionnaire aux assemblées des actionnaires. (*proxyholder*)
 
-***formulaire de procuration*** Formulaire manuscrit, dactylographié ou imprimé qui, une fois rempli et signé par l’actionnaire ou pour son compte, constitue une procuration.
+***formulaire de procuration*** Formulaire manuscrit, dactylographié ou imprimé qui, une fois rempli et signé par l’actionnaire ou pour son compte, constitue une procuration. (*form of proxy*)
 
-***garantie*** S’entend notamment d’une lettre de crédit.
+***garantie*** S’entend notamment d’une lettre de crédit. (*guarantee*)
 
-***groupe*** L’ensemble des entités visées à l’article 6.
+***groupe*** L’ensemble des entités visées à l’article 6. (*affiliate*)
 
-***immeuble résidentiel*** Bien immeuble consistant en bâtiments dont au moins la moitié de la superficie habitable sert ou doit servir à des fins privées d’habitation.
+***immeuble résidentiel*** Bien immeuble consistant en bâtiments dont au moins la moitié de la superficie habitable sert ou doit servir à des fins privées d’habitation. (*residential property*)
 
-***institution étrangère*** Toute entité qui, n’étant pas constituée ni formée sous le régime d’une loi fédérale ou provinciale, se livre à des activités bancaires, à des activités fiduciaires, de prêt ou d’assurance, ou fait office de société coopérative de crédit ou fait le commerce des valeurs mobilières, ou encore, de toute autre manière, a pour activité principale la prestation de services financiers.
+***institution étrangère*** Toute entité qui, n’étant pas constituée ni formée sous le régime d’une loi fédérale ou provinciale, se livre à des activités bancaires, à des activités fiduciaires, de prêt ou d’assurance, ou fait office de société coopérative de crédit ou fait le commerce des valeurs mobilières, ou encore, de toute autre manière, a pour activité principale la prestation de services financiers. (*foreign institution*)
 
-***institution financière*** Selon le cas :
+***institution financière*** Selon le cas :
 - **a)** une banque ou une banque étrangère autorisée;
 - **b)** une personne morale régie par la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md);
 - **c)** une association régie par la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md) ou une coopérative de crédit centrale ayant fait l’objet de l’ordonnance prévue au paragraphe 473(1) de cette loi;
@@ -157,118 +159,118 @@ French version only***banque n’ayant pas fait appel au public*** S’entend d�
 - **e)** une société de fiducie, de prêt ou d’assurance constituée en personne morale par une loi provinciale;
 - **f)** une société coopérative de crédit constituée en personne morale et régie par une loi provinciale;
 - **g)** une entité constituée en personne morale ou formée sous le régime d’une loi fédérale ou provinciale et dont l’activité est principalement le commerce des valeurs mobilières, y compris la gestion de portefeuille et la fourniture de conseils en placement;
-- **h)** une institution étrangère.
+- **h)** une institution étrangère. (*financial institution*)
 
-***institution financière canadienne*** Institution financière constituée en personne morale ou formée sous le régime d’une loi fédérale ou provinciale.
+***institution financière canadienne*** Institution financière constituée en personne morale ou formée sous le régime d’une loi fédérale ou provinciale. (*Canadian financial institution*)
 
-***institution financière fédérale*** Selon le cas :
+***institution financière fédérale*** Selon le cas :
 - **a)** banque;
 - **b)** personne morale régie par la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md);
 - **c)** association régie par la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md) ou coopérative de crédit centrale ayant fait l’objet de l’ordonnance prévue au paragraphe 473(1) de cette loi;
-- **d)** société d’assurances ou société de secours mutuel constituée ou formée sous le régime de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md).
+- **d)** société d’assurances ou société de secours mutuel constituée ou formée sous le régime de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md). (*federal financial institution*)
 
-***intérêt de groupe financier*** Intérêt déterminé conformément à l’article 10.
+***intérêt de groupe financier*** Intérêt déterminé conformément à l’article 10. (*substantial investment*)
 
-***intérêt substantiel*** Intérêt déterminé conformément à l’article 8.
+***intérêt substantiel*** Intérêt déterminé conformément à l’article 8. (*significant interest*)
 
-***lettres patentes*** Lettres patentes en la forme agréée par le surintendant et dont la présente loi autorise la délivrance.
+***lettres patentes*** Lettres patentes en la forme agréée par le surintendant et dont la présente loi autorise la délivrance. (*letters patent*)
 
-***membre*** Par rapport à une coopérative de crédit fédérale, personne qui est membre de la coopérative en application du paragraphe 47.04(2).
+***membre*** Par rapport à une coopérative de crédit fédérale, personne qui est membre de la coopérative en application du paragraphe 47.04(2). (*member*)
 
-***mineur*** S’entend au sens des règles du droit provincial applicables ou, à défaut, au sens donné au mot « enfant » dans la Convention relative aux droits de l’enfant, adoptée par l’Assemblée générale des Nations Unies le 20 novembre 1989.
+***mineur*** S’entend au sens des règles du droit provincial applicables ou, à défaut, au sens donné au mot « enfant » dans la Convention relative aux droits de l’enfant, adoptée par l’Assemblée générale des Nations Unies le 20 novembre 1989. (*minor*)
 
-***ministre*** Le ministre des Finances.
+***ministre*** Le ministre des Finances. (*Minister*)
 
-***opération*** En matière de valeurs mobilières, toute aliénation à titre onéreux.
+***opération*** En matière de valeurs mobilières, toute aliénation à titre onéreux. (*trade*)
 
-***organisme externe de traitement des plaintes*** Organisation approuvée en application du paragraphe 455.01(1) ou désignée en vertu du paragraphe 455.1(1).
+***organisme externe de traitement des plaintes*** Organisation approuvée en application du paragraphe 455.01(1) ou désignée en vertu du paragraphe 455.1(1). (*external complaints body*)
 
-***parts sociales*** Dans le cas d’une coopérative de crédit fédérale, la participation à son actif qui confère les droits prévus au paragraphe 79.1(1).
+***parts sociales*** Dans le cas d’une coopérative de crédit fédérale, la participation à son actif qui confère les droits prévus au paragraphe 79.1(1). (*membership share*)
 
-***personne*** Personne physique, entité ou représentant personnel.
+***personne*** Personne physique, entité ou représentant personnel. (*person*)
 
-***personne morale*** Toute personne morale, indépendamment de son lieu ou mode de constitution.
+***personne morale*** Toute personne morale, indépendamment de son lieu ou mode de constitution. (*body corporate*)
 
-***plaignant*** En ce qui a trait à une banque ou à toute question la concernant :
+***plaignant*** En ce qui a trait à une banque ou à toute question la concernant :
 - **a)** soit le détenteur inscrit ou le véritable propriétaire, ancien ou actuel, de valeurs mobilières de la banque ou d’entités du même groupe;
 - **b)** soit tout administrateur ou dirigeant, ancien ou actuel, de la banque ou d’entités du même groupe;
 - **c)** soit toute autre personne qui, d’après le tribunal, a qualité pour présenter les demandes visées aux articles 334, 338 ou 989;
-- **d)** soit le membre, ancien ou actuel, d’une coopérative de crédit fédérale.
+- **d)** soit le membre, ancien ou actuel, d’une coopérative de crédit fédérale. (*complainant*)
 
-***porteur*** La personne en possession d’un titre au porteur ou endossé en blanc.
+***porteur*** La personne en possession d’un titre au porteur ou endossé en blanc. (*bearer*)
 
-***procuration*** Le formulaire de procuration rempli et signé par un actionnaire par lequel il nomme un fondé de pouvoir pour le représenter aux assemblées des actionnaires.
+***procuration*** Le formulaire de procuration rempli et signé par un actionnaire par lequel il nomme un fondé de pouvoir pour le représenter aux assemblées des actionnaires. (*proxy*)
 
-***rapport annuel*** Dans le cas d’une banque, le rapport financier annuel visé à l’alinéa 308(1)a) et, dans le cas d’une société de portefeuille bancaire, le rapport financier annuel visé à l’alinéa 840(1)a).
+***rapport annuel*** Dans le cas d’une banque, le rapport financier annuel visé à l’alinéa 308(1)a) et, dans le cas d’une société de portefeuille bancaire, le rapport financier annuel visé à l’alinéa 840(1)a). (*annual statement*)
 
- ou  or ***registre central des valeurs mobilières*** ou ***registre des valeurs mobilières*** Dans le cas d’une banque, le registre visé à l’article 248 et, dans le cas d’une société de portefeuille bancaire, le registre visé à l’article 825.
+***registre central des valeurs mobilières*** ou ***registre des valeurs mobilières*** Dans le cas d’une banque, le registre visé à l’article 248 et, dans le cas d’une société de portefeuille bancaire, le registre visé à l’article 825. (*central securities register* or *securities register*)
 
-***registre des membres*** Dans le cas d’une coopérative de crédit fédérale, le registre visé à l’article 254.1.
+***registre des membres*** Dans le cas d’une coopérative de crédit fédérale, le registre visé à l’article 254.1. (*members register*)
 
-***représentant*** Toute personne agissant à ce titre, notamment le représentant personnel d’une personne décédée.
+***représentant*** Toute personne agissant à ce titre, notamment le représentant personnel d’une personne décédée. (*fiduciary*)
 
-***représentant personnel*** Personne agissant en lieu et place d’une autre, notamment un fiduciaire, un exécuteur testamentaire, un administrateur, un comité, un tuteur, un curateur, un cessionnaire, un séquestre ou un mandataire; la présente définition ne vise toutefois pas le délégué.
+***représentant personnel*** Personne agissant en lieu et place d’une autre, notamment un fiduciaire, un exécuteur testamentaire, un administrateur, un comité, un tuteur, un curateur, un cessionnaire, un séquestre ou un mandataire; la présente définition ne vise toutefois pas le délégué. (*personal representative*)
 
-***résident canadien*** Selon le cas :
+***résident canadien*** Selon le cas :
 - **a)** le citoyen canadien résidant habituellement au Canada;
 - **b)** le citoyen canadien qui ne réside pas habituellement au Canada, mais fait partie d’une catégorie de personnes prévue par règlement;
-- **c)** le résident permanent, au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) qui réside habituellement au Canada, à l’exclusion de celui qui y a résidé de façon habituelle pendant plus d’un an après avoir acquis pour la première fois le droit de demander la citoyenneté canadienne.
+- **c)** le résident permanent, au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) qui réside habituellement au Canada, à l’exclusion de celui qui y a résidé de façon habituelle pendant plus d’un an après avoir acquis pour la première fois le droit de demander la citoyenneté canadienne. (*resident Canadian*)
 
-***résident d’un membre de l’OMC*** Résident d’un membre de l’OMC au sens de l’article 11.1.
+***résident d’un membre de l’OMC*** Résident d’un membre de l’OMC au sens de l’article 11.1. (*WTO Member resident*)
 
 ***résident d’un pays ALÉNA***[Abrogée, 1999, ch. 28, art. 1]
 
-***résolution extraordinaire*** Résolution adoptée aux deux tiers au moins des voix exprimées ou signée de toutes les personnes habiles à voter en l’occurrence.
+***résolution extraordinaire*** Résolution adoptée aux deux tiers au moins des voix exprimées ou signée de toutes les personnes habiles à voter en l’occurrence. (*special resolution*)
 
-***résolution ordinaire*** Résolution adoptée à la majorité des voix exprimées.
+***résolution ordinaire*** Résolution adoptée à la majorité des voix exprimées. (*ordinary resolution*)
 
-***ristourne*** Montant qu’une coopérative de crédit fédérale attribue à ses membres dans le cadre des opérations qu’ils effectuent avec elle ou par son intermédiaire.
+***ristourne*** Montant qu’une coopérative de crédit fédérale attribue à ses membres dans le cadre des opérations qu’ils effectuent avec elle ou par son intermédiaire. (*patronage allocation*)
 
-***série*** Subdivision d’une catégorie d’actions.
+***série*** Subdivision d’une catégorie d’actions. (*series*)
 
-***siège*** Dans le cas d’une banque, bureau maintenu en application de l’article 237 et, dans le cas d’une société de portefeuille bancaire, bureau maintenu en application de l’article 814.
+***siège*** Dans le cas d’une banque, bureau maintenu en application de l’article 237 et, dans le cas d’une société de portefeuille bancaire, bureau maintenu en application de l’article 814. (*head office*)
 
-***société coopérative de crédit centrale*** Personne morale fondée sur le principe coopératif, constituée par une loi provinciale ou sous son régime, dont l’un des objectifs principaux est de fournir des liquidités aux sociétés coopératives de crédit locales et, selon le cas, dont les membres sont exclusivement ou surtout des sociétés coopératives de crédit locales ou dont les administrateurs sont exclusivement ou surtout nommés ou élus par des sociétés coopératives de crédit locales.
+***société coopérative de crédit centrale*** Personne morale fondée sur le principe coopératif, constituée par une loi provinciale ou sous son régime, dont l’un des objectifs principaux est de fournir des liquidités aux sociétés coopératives de crédit locales et, selon le cas, dont les membres sont exclusivement ou surtout des sociétés coopératives de crédit locales ou dont les administrateurs sont exclusivement ou surtout nommés ou élus par des sociétés coopératives de crédit locales. (*central cooperative credit society*)
 
-***société coopérative de crédit locale*** Personne morale fondée sur le principe coopératif, constituée par une loi provinciale ou sous son régime, dont les sociétaires ou les actionnaires sont principalement des personnes physiques et dont l’objet principal est d’accepter leurs dépôts et de leur consentir des prêts.
+***société coopérative de crédit locale*** Personne morale fondée sur le principe coopératif, constituée par une loi provinciale ou sous son régime, dont les sociétaires ou les actionnaires sont principalement des personnes physiques et dont l’objet principal est d’accepter leurs dépôts et de leur consentir des prêts. (*local cooperative credit society*)
 
-***société de portefeuille bancaire*** Personne morale constituée ou formée sous le régime de la partie XV.
+***société de portefeuille bancaire*** Personne morale constituée ou formée sous le régime de la partie XV. (*bank holding company*)
 
-French version only***société de portefeuille bancaire n’ayant pas fait appel au public*** S’entend d’une société de portefeuille bancaire autre qu’une société de portefeuille bancaire ayant fait appel au public.
+***société de portefeuille bancaire n’ayant pas fait appel au public*** S’entend d’une société de portefeuille bancaire autre qu’une société de portefeuille bancaire ayant fait appel au public. (*French version only*)
 
-***société de portefeuille d’assurances*** Personne morale constituée ou formée sous le régime de la partie XVII de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md).
+***société de portefeuille d’assurances*** Personne morale constituée ou formée sous le régime de la partie XVII de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md). (*insurance holding company*)
 
-***société mère*** S’entend au sens de l’article 4.
+***société mère*** S’entend au sens de l’article 4. (*holding body corporate*)
 
-***souscripteur à forfait*** La personne qui, pour son propre compte, accepte d’acheter des valeurs mobilières en vue d’une mise en circulation ou qui, à titre de mandataire d’une personne ou d’une personne morale, offre en vente ou vend des valeurs mobilières dans le cadre d’une mise en circulation. La présente définition vise aussi les personnes qui participent, directement ou indirectement, à une telle mise en circulation, à l’exception de celles dont les intérêts se limitent à recevoir une commission de souscription ou de vente payable par le souscripteur à forfait.
+***souscripteur à forfait*** La personne qui, pour son propre compte, accepte d’acheter des valeurs mobilières en vue d’une mise en circulation ou qui, à titre de mandataire d’une personne ou d’une personne morale, offre en vente ou vend des valeurs mobilières dans le cadre d’une mise en circulation. La présente définition vise aussi les personnes qui participent, directement ou indirectement, à une telle mise en circulation, à l’exception de celles dont les intérêts se limitent à recevoir une commission de souscription ou de vente payable par le souscripteur à forfait. (*securities underwriter*)
 
 ***succursale***
 - **a)** En ce qui concerne une banque, tout bureau, y compris son siège et ses agences;
-- **b)** en ce qui concerne une banque étrangère autorisée, tout bureau, y compris son bureau principal et ses agences, où elle exerce ses activités au Canada.
+- **b)** en ce qui concerne une banque étrangère autorisée, tout bureau, y compris son bureau principal et ses agences, où elle exerce ses activités au Canada. (*branch*)
 
-***sûreté*** Droit ou charge — notamment hypothèque, privilège ou nantissement — grevant des biens pour garantir au créancier ou à la caution soit le paiement de dettes soit l’exécution d’obligations.
+***sûreté*** Droit ou charge — notamment hypothèque, privilège ou nantissement — grevant des biens pour garantir au créancier ou à la caution soit le paiement de dettes soit l’exécution d’obligations. (*security interest*)
 
-***surintendant*** Le surintendant des institutions financières nommé en application de la [Loi sur le Bureau du surintendant des institutions financières](/fr/Lois/Lois%20du%20Canada/1985/ch.%2018%20(3e%20suppl.),%20partie%20I.md).
+***surintendant*** Le surintendant des institutions financières nommé en application de la [Loi sur le Bureau du surintendant des institutions financières](/fr/Lois/Lois%20du%20Canada/1985/ch.%2018%20(3e%20suppl.),%20partie%20I.md). (*Superintendent*)
 
- ou ***titre*** ou ***valeur mobilière*** Dans le cas d’une personne morale, action de toute catégorie ou titre de créance sur cette dernière, ainsi que le bon de souscription correspondant, mais à l’exclusion des dépôts effectués auprès d’une institution financière ou des documents les attestant ou des parts sociales; dans le cas de toute autre entité, les titres de participation ou titres de créance y afférents.
+***titre*** ou ***valeur mobilière*** Dans le cas d’une personne morale, action de toute catégorie ou titre de créance sur cette dernière, ainsi que le bon de souscription correspondant, mais à l’exclusion des dépôts effectués auprès d’une institution financière ou des documents les attestant ou des parts sociales; dans le cas de toute autre entité, les titres de participation ou titres de créance y afférents. (*security*)
 
-***titre à ordre*** Titre de la nature précisée au paragraphe 83(3).
+***titre à ordre*** Titre de la nature précisée au paragraphe 83(3). (*order form*)
 
-***titre au porteur*** Titre de la nature précisée au paragraphe 83(2).
+***titre au porteur*** Titre de la nature précisée au paragraphe 83(2). (*bearer form*)
 
-***titre de créance*** Tout document attestant l’existence d’une créance sur une entité, avec ou sans sûreté, et notamment une obligation, une débenture ou un billet.
+***titre de créance*** Tout document attestant l’existence d’une créance sur une entité, avec ou sans sûreté, et notamment une obligation, une débenture ou un billet. (*debt obligation*)
 
-***titre nominatif*** Titre de la nature précisée au paragraphe 83(4).
+***titre nominatif*** Titre de la nature précisée au paragraphe 83(4). (*registered form*)
 
-***titre secondaire*** Titre de créance délivré par la banque et prévoyant qu’en cas d’insolvabilité ou de liquidation de celle-ci, le paiement de la créance prend rang après celui de tous les dépôts effectués auprès de la banque et celui de tous ses autres titres de créance, à l’exception de ceux dont le paiement, selon leurs propres termes, est de rang égal ou inférieur.
+***titre secondaire*** Titre de créance délivré par la banque et prévoyant qu’en cas d’insolvabilité ou de liquidation de celle-ci, le paiement de la créance prend rang après celui de tous les dépôts effectués auprès de la banque et celui de tous ses autres titres de créance, à l’exception de ceux dont le paiement, selon leurs propres termes, est de rang égal ou inférieur. (*subordinated indebtedness*)
 
-***transaction de fermeture*** S’entend au sens des règlements.
+***transaction de fermeture*** S’entend au sens des règlements. (*going-private transaction*)
 
-***transaction d’éviction*** De la part d’une banque n’ayant pas fait appel au public ou d’une société de portefeuille bancaire n’ayant pas fait appel au public, transaction qui nécessite la modification des règlements administratifs visés au paragraphe 217(1) et qui a pour résultat direct ou indirect la suppression de l’intérêt d’un détenteur d’actions d’une catégorie, sans le consentement de celui-ci et sans substitution d’un intérêt de valeur équivalente dans des actions émises par les personnes ci-après et conférant des droits et privilèges égaux ou supérieurs à ceux attachés aux actions de cette catégorie :
+***transaction d’éviction*** De la part d’une banque n’ayant pas fait appel au public ou d’une société de portefeuille bancaire n’ayant pas fait appel au public, transaction qui nécessite la modification des règlements administratifs visés au paragraphe 217(1) et qui a pour résultat direct ou indirect la suppression de l’intérêt d’un détenteur d’actions d’une catégorie, sans le consentement de celui-ci et sans substitution d’un intérêt de valeur équivalente dans des actions émises par les personnes ci-après et conférant des droits et privilèges égaux ou supérieurs à ceux attachés aux actions de cette catégorie :
 - **a)** dans le cas d’une transaction effectuée par une banque, la banque;
-- **b)** dans le cas d’une transaction effectuée par une société, la société.
+- **b)** dans le cas d’une transaction effectuée par une société, la société. (*squeeze-out transaction*)
 
-***transfert*** Tout transfert de valeurs mobilières, y compris par effet de la loi.
+***transfert*** Tout transfert de valeurs mobilières, y compris par effet de la loi. (*transfer*)
 
 ***tribunal***
 - **a)** La Cour supérieure de justice de l’Ontario;
@@ -276,10 +278,10 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 - **c) ** la Cour suprême de la Nouvelle-Écosse, de la Colombie-Britannique et de l’Île-du-Prince-Édouard;
 - **d)** la Cour du Banc de la Reine du Nouveau-Brunswick, du Manitoba, de la Saskatchewan ou de l’Alberta;
 - **e) ** la Section de première instance de la Cour suprême de Terre-Neuve-et-Labrador;
-- **f)** la Cour suprême du Yukon, la Cour suprême des Territoires du Nord-Ouest ou la Cour de justice du Nunavut.
+- **f)** la Cour suprême du Yukon, la Cour suprême des Territoires du Nord-Ouest ou la Cour de justice du Nunavut. (*court*)
 
- et ***véritable propriétaire*** Est considéré comme tel le propriétaire de valeurs mobilières inscrites au nom d’un ou de plusieurs intermédiaires, notamment d’un fiduciaire ou d’un mandataire; ***propriété effective*** s’entend du droit du véritable propriétaire.
-> 1991, ch. 46, art. 2 et 572, ch. 47, art. 756, ch. 48, art. 494; 1992, ch. 51, art. 29; 1993, ch. 34, art. 5(F), ch. 44, art. 22; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 14, ch. 28, art. 1; 2000, ch. 12, art. 3; 2001, ch. 9, art. 35, ch. 27, art. 206; 2002, ch. 7, art. 81(A); 2005, ch. 54, art. 1; 2007, ch. 6, art. 1; 2010, ch. 12, art. 1894, ch. 25, art. 146; 2012, ch. 5, art. 2 et 223; 2015, ch. 3, art. 5.
+***véritable propriétaire*** Est considéré comme tel le propriétaire de valeurs mobilières inscrites au nom d’un ou de plusieurs intermédiaires, notamment d’un fiduciaire ou d’un mandataire; ***propriété effective*** s’entend du droit du véritable propriétaire. (*beneficial ownership*)
+> 1991, ch. 46, art. 2 et 572, ch. 47, art. 756, ch. 48, art. 494; 1992, ch. 51, art. 29; 1993, ch. 34, art. 5(F), ch. 44, art. 22; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 14, ch. 28, art. 1; 2000, ch. 12, art. 3; 2001, ch. 9, art. 35, ch. 27, art. 206; 2002, ch. 7, art. 81(A); 2005, ch. 54, art. 1; 2007, ch. 6, art. 1; 2010, ch. 12, art. 1894, ch. 25, art. 146; 2012, ch. 5, art. 2 et 223; 2015, ch. 3, art. 5; 2016, ch. 7, art. 156.
 
 
 
@@ -860,7 +862,7 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 **21** 
 
-- **(1)** Sous réserve des paragraphes (2) et (4), les banques ne peuvent exercer leurs activités ni les banques étrangères autorisées leurs activités au Canada après la date du cinquième anniversaire de l’entrée en vigueur du présent article.
+- **(1)** Sous réserve des paragraphes (2) et (4), les banques ne peuvent exercer leurs activités ni les banques étrangères autorisées leurs activités au Canada après le 29 mars 2019.
 
 **Prorogation**
 
@@ -870,10 +872,10 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 - **(3)** Le décret n’est pas un règlement pour l’application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md). Toutefois, il doit être publié dans la partie II de la Gazette du Canada.
 
-**Exception**
+**Exception : dissolution**
 
-- **(4)** En cas de dissolution du Parlement à la date du cinquième anniversaire de l’entrée en vigueur du présent article, au cours des six mois qui la précèdent ou au cours de la période prévue au paragraphe (2), les banques peuvent exercer leurs activités et les banques étrangères autorisées leurs activités au Canada jusqu’à cent quatre-vingts jours après le premier jour de la première session de la législature suivante.
-> 1991, ch. 46, art. 21; 1997, ch. 15, art. 2; 1999, ch. 28, art. 9; 2001, ch. 9, art. 44; 2006, ch. 4, art. 199; 2007, ch. 6, art. 4; 2012, ch. 5, art. 3.
+- **(4)** En cas de dissolution du Parlement le 29 mars 2019, ou au cours des six mois qui précèdent cette date, ou au cours de la période prévue au paragraphe (2), les banques peuvent exercer leurs activités et les banques étrangères autorisées leurs activités au Canada jusqu’au cent quatre-vingtième jour suivant le premier jour de la première session de la législature suivante.
+> 1991, ch. 46, art. 21; 1997, ch. 15, art. 2; 1999, ch. 28, art. 9; 2001, ch. 9, art. 44; 2006, ch. 4, art. 199; 2007, ch. 6, art. 4; 2012, ch. 5, art. 3; 2016, ch. 7, art. 118.
 
 
 
@@ -1154,11 +1156,11 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 **35.1** 
 
-- **(1)** Le ministre peut, sous réserve des autres dispositions de la présente partie, délivrer des lettres patentes prorogeant comme coopérative de crédit fédérale la société coopérative de crédit locale qui en fait la demande aux termes du paragraphe 33(2) s’il estime qu’elle s’est conformée aux règlements relatifs aux exigences de notification et de divulgation.
+- **(1)** Sous réserve des autres dispositions de la présente partie, le ministre ne peut délivrer des lettres patentes prorogeant comme coopérative de crédit fédérale la société coopérative de crédit locale qui en fait la demande aux termes du paragraphe 33(2) que s’il estime qu’elle s’est conformée aux règlements relatifs aux exigences de notification et de divulgation.
 
 **Prorogation en vue d’une fusion**
 
-- **(2)** Le ministre peut, sous réserve des autres dispositions de la présente partie, délivrer des lettres patentes prorogeant comme coopérative de crédit fédérale la société coopérative de crédit locale qui en fait la demande aux termes des paragraphes 33(3) ou (4) si :
+- **(2)** Sous réserve des autres dispositions de la présente partie, le ministre ne peut délivrer des lettres patentes prorogeant comme coopérative de crédit fédérale la société coopérative de crédit locale qui en fait la demande aux termes des paragraphes 33(3) ou (4) que si :
 	- **a)** il estime que la société coopérative de crédit locale s’est conformée aux règlements relatifs aux exigences de notification et de divulgation;
 	- **b)** il estime que la coopérative de crédit fédérale qui sera issue de la fusion se conformera aux exigences en matière de constitution prévues par la présente loi;
 	- **c)** immédiatement après avoir délivré les lettres patentes de prorogation, il délivre des lettres patentes de fusion en vertu du paragraphe 229(1).
@@ -1166,7 +1168,11 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 **Règlements**
 
 - **(3)** Le gouverneur en conseil peut prendre des règlements relatifs aux exigences de notification et de divulgation visées aux paragraphes (1) et (2).
-> 2010, ch. 12, art. 1911; 2014, ch. 39, art. 272.
+
+**Exemption**
+
+- **(4)** Pour faciliter la prorogation comme coopérative de crédit fédérale d’une société coopérative de crédit locale, le ministre peut par arrêté, sur demande et sous réserve des modalités et conditions qu’il estime indiquées, exempter la société coopérative de crédit locale de toute exigence prévue par la présente partie ou par les règlements pris en vertu de celle-ci, s’il estime que la société a agi d’une façon qui répond pour l’essentiel à cette exigence.
+> 2010, ch. 12, art. 1911; 2014, ch. 39, art. 272; 2016, ch. 7, art. 123.
 
 
 
@@ -1261,6 +1267,30 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 - **(4)** Le ministre ne peut pas délivrer d’autorisation qui serait encore valable plus de dix ans après la date d’obtention par la banque de l’agrément de fonctionnement dans les cas visés aux alinéas (1)d) et e); dans les cas visés à l’alinéa (1)b), il ne peut le faire que s’il est convaincu, sur la foi de la déposition sous serment d’un dirigeant de la banque, que celle-ci sera dans l’incapacité juridique de racheter les titres de créance visés par l’autorisation encore en circulation à l’expiration de ce délai.
 > 1991, ch. 46, art. 39; 1994, ch. 47, art. 14; 1997, ch. 15, art. 3; 2007, ch. 6, art. 5; 2010, ch. 12, art. 1914.
+
+
+
+
+
+**Disposition transitoire — coopérative de crédit fédérale**
+
+**39.01** 
+
+- **(1)** Au moment où il délivre, en vertu du paragraphe 35(1), des lettres patentes prorogeant une société coopérative de crédit locale comme coopérative de crédit fédérale, le ministre peut par arrêté, sur demande et sous réserve des modalités et conditions qu’il estime indiquées, exempter la coopérative de crédit fédérale qui résulte de la prorogation de toute exigence relative au vote prévue par la partie VI ou par les règlements pris en vertu de la présente loi, s’il estime que la coopérative de crédit fédérale agira d’une façon qui réponde pour l’essentiel à cette exigence.
+
+**Durée de l’exemption**
+
+- **(2)** L’arrêté précise la période de l’exemption, laquelle se termine au plus tard au troisième anniversaire de la date de prise d’effet des lettres patentes.
+> 2016, ch. 7, art. 124.
+
+
+
+
+
+**Disposition transitoire — garantie d’emprunt**
+
+**39.02** Pour soutenir une coopérative de crédit fédérale pendant la période commençant à la date de prise d’effet des lettres patentes qui lui ont été délivrées en vertu du paragraphe 35(1) et se terminant au troisième anniversaire de cette date, le ministre peut, sous réserve des modalités et conditions qu’il estime indiquées et pour la période qu’il estime indiquée, garantir le remboursement de tout prêt qu’une institution financière fédérale octroie à la coopérative de crédit fédérale.
+> 2016, ch. 7, art. 124.
 
 
 
@@ -6323,7 +6353,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Exception**
 
-- **(1.1)** S’agissant de la requête de fusion faite au titre des paragraphes 223(1.2) ou (1.3), le ministre ne peut délivrer les lettres patentes de fusion à moins d’avoir, en vertu du paragraphe 35.1(2), délivré des lettres patentes de prorogation comme coopérative de crédit fédérale à chacun des requérants qui était une société coopérative de crédit locale.
+- **(1.1)** S’agissant de la requête de fusion faite au titre des paragraphes 223(1.2) ou (1.3), le ministre ne peut délivrer les lettres patentes de fusion à moins d’avoir, en vertu du paragraphe 35(1), délivré des lettres patentes de prorogation comme coopérative de crédit fédérale à chacun des requérants qui était une société coopérative de crédit locale.
 
 **Lettres patentes**
 
@@ -6332,7 +6362,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 **Publication d’un avis**
 
 - **(3)** Le surintendant fait publier dans la Gazette du Canada un avis de délivrance des lettres patentes.
-> 1991, ch. 46, art. 229; 2014, ch. 39, art. 276.
+> 1991, ch. 46, art. 229; 2014, ch. 39, art. 276; 2016, ch. 7, art. 125.
 
 
 
@@ -10342,16 +10372,20 @@ où :
 
 
 
-**Instruments dérivés  — règlements**
+**Instruments dérivés et contrats financiers admissibles — règlements**
 
 **415.2** 
 
-- **(1)** Le gouverneur en conseil peut prendre des règlements concernant les activités de la banque qui sont liées aux instruments dérivés.
+- **(1)** Le gouverneur en conseil peut prendre des règlements concernant les activités de la banque qui sont liées aux instruments dérivés et aux contrats financiers admissibles.
 
 **Définition de instrument dérivé**
 
 - **(2)** Au présent article, ***instrument dérivé*** s’entend d’une option, d’un swap, d’un contrat à terme, d’un contrat à livrer ou de tout autre contrat ou instrument, qu’il soit financier ou sur marchandises, dont le cours, la valeur ou les obligations de livraison, de paiement ou de règlement sont dérivés de tout élément sous-jacent  —  prix, taux, index, valeur, variable, événement, probabilité ou autre chose  —, calculés en fonction de cet élément ou fondés sur celui-ci.
-> 2014, ch. 20, art. 210.
+
+**Définition de contrat financier admissible**
+
+- **(3)** Au présent article, ***contrat financier admissible*** s’entend au sens du paragraphe 39.15(9) de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md).
+> 2014, ch. 20, art. 210; 2016, ch. 7, art. 157.
 
 
 
@@ -12630,6 +12664,29 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 
 
+**Banque d’importance systémique nationale**
+
+**484.1** 
+
+- **(1)** Le surintendant peut, par ordonnance, désigner une banque comme banque d’importance systémique nationale, sauf avis contraire du ministre fondé sur l’intérêt public.
+
+**Révocation**
+
+- **(2)** Le surintendant peut, par ordonnance, révoquer la désignation, sauf avis contraire du ministre fondé sur l’intérêt public.
+
+**Facteurs**
+
+- **(3)** Lorsqu’il fait la désignation ou la révoque, le surintendant tient compte des facteurs qu’il juge pertinents, notamment si les difficultés de la banque ou sa défaillance auraient des conséquences négatives importantes sur le système financier canadien.
+
+**Avis et publication**
+
+- **(4)** Lorsqu’une désignation est faite ou est révoquée, le surintendant en fait publier dès que possible un avis dans la Gazette du Canada et sur le site Web du Bureau du surintendant des institutions financières.
+> 2016, ch. 7, art. 159.
+
+
+
+
+
 **Capital et liquidités suffisants**
 
 **485** 
@@ -12652,6 +12709,15 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 - **(5)** Lorsque la valeur qu’il a déterminée pour un élément de l’actif de la banque ou de l’une de ses filiales comme étant sa juste valeur diffère de façon marquée de celle attribuée par la banque ou la filiale, le surintendant la notifie par écrit à la banque, à son ou à ses vérificateurs et à son comité de vérification.
 > 1991, ch. 46, art. 485; 1996, ch. 6, art. 7.
+
+
+
+
+
+**Restriction**
+
+**485.01** Le gouverneur en conseil peut prendre des règlements concernant les conditions que doivent remplir les banques d’importance systémique nationale pour l’émission, la création ou la modification d’actions et éléments du passif visés par règlement.
+> 2016, ch. 7, art. 161.
 
 
 
@@ -17711,7 +17777,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **670** 
 
-- **(1)** Sous réserve des paragraphes (2) et (4), les sociétés de portefeuille bancaires ne peuvent exercer leurs activités après la date du cinquième anniversaire de l’entrée en vigueur du présent article.
+- **(1)** Sous réserve des paragraphes (2) et (4), les sociétés de portefeuille bancaires ne peuvent exercer leurs activités après le 29 mars 2019.
 
 **Prorogation**
 
@@ -17721,10 +17787,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 - **(3)** Le décret n’est pas un règlement pour l’application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md). Toutefois, il doit être publié dans la partie II de la Gazette du Canada.
 
-**Exception**
+**Exception : dissolution**
 
-- **(4)** En cas de dissolution du Parlement à la date du cinquième anniversaire de l’entrée en vigueur du présent article, au cours des six mois qui la précèdent ou au cours de la période prévue au paragraphe (2), les sociétés de portefeuille bancaires peuvent exercer leurs activités jusqu’à cent quatre-vingts jours après le premier jour de la première session de la législature suivante.
-> 1999, ch. 28, art. 65; 2001, ch. 9, art. 183; 2006, ch. 4, art. 199.1; 2007, ch. 6, art. 105; 2012, ch. 5, art. 77.
+- **(4)** En cas de dissolution du Parlement le 29 mars 2019, ou au cours des six mois qui précèdent cette date, ou au cours de la période prévue au paragraphe (2), les sociétés de portefeuille bancaires peuvent exercer leurs activités jusqu’au cent quatre-vingtième jour suivant le premier jour de la première session de la législature suivante.
+> 1999, ch. 28, art. 65; 2001, ch. 9, art. 183; 2006, ch. 4, art. 199.1; 2007, ch. 6, art. 105; 2012, ch. 5, art. 77; 2016, ch. 7, art. 119.
 
 
 
@@ -23963,7 +24029,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 	- **a)** que le décret sera lié :
 		- **(i)** soit à l’acquisition, à la détention ou à la vente ou toute autre forme de disposition d’actions d’une banque par Sa Majesté du chef du Canada ou par l’un de ses mandataires ou organismes, à toute autre forme de commerce par l’un de ceux-ci relativement à de telles actions ou au transfert ou à l’émission de telles actions à l’un de ceux-ci,
 		- **(ii)** soit à la conduite de l’activité commerciale et des affaires internes ou à la réglementation et à la supervision d’une banque alors que Sa Majesté du chef du Canada ou l’un de ses mandataires ou organismes acquiert, détient ou vend des actions de cette banque, en dispose autrement, en fait autrement le commerce ou en obtient le transfert ou l’émission;
-	- **b)** après avoir envisagé de prendre d’autres mesures que celles prévues à ce paragraphe et consulté le surintendant, le gouverneur de la Banque du Canada et le président de la Société d’assurance-dépôts du Canada, que le décret favorisera la stabilité du système financier au Canada.
+	- **b)** après avoir envisagé de prendre d’autres mesures que celles prévues à ce paragraphe et consulté le surintendant, le gouverneur de la Banque du Canada et le premier dirigeant de la Société d’assurance-dépôts du Canada, que le décret favorisera la stabilité du système financier au Canada.
 
 **Conditions**
 
@@ -24024,7 +24090,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Société de portefeuille bancaire**
 
 - **(16)** Pour l’application du présent article, la mention d’une banque comprend celle d’une société de portefeuille bancaire et, s’agissant d’une telle société, le renvoi, aux alinéas (5)a) et b), à l’article 646.1 vaut renvoi à l’article 962.
-> 2009, ch. 2, art. 275; 2010, ch. 12, art. 2090.
+> 2009, ch. 2, art. 275; 2010, ch. 12, art. 2090; 2016, ch. 7, art. 175.
 
 
 
