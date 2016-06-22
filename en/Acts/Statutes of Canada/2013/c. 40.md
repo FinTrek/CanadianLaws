@@ -265,7 +265,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**59** [Amendments]
+**59** 
+
+- **(1)** [Repealed, 2016, c. 7. s. 61]
+
+- **(2) and (3)** [Amendments]
+
+- **(4)** [Repealed, 2016, c. 7. s. 61]
+
+- **(5)** [Amendment]
+
+- **(6) and (7)** [Repealed, 2016, c. 7. s. 61]
+
+- **(8) to (10)** [Amendments]
 
 
 
