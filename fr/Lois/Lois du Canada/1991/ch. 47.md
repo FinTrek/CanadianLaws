@@ -660,7 +660,7 @@ French version only***souscripteur*** Titulaire d’une police.
 
 **21** 
 
-- **(1)** Sous réserve des paragraphes (2) et (4), les sociétés ne peuvent exercer leurs activités ni les sociétés étrangères leurs activités au Canada après la date du cinquième anniversaire de l’entrée en vigueur du présent article.
+- **(1)** Sous réserve des paragraphes (2) et (4), les sociétés ne peuvent exercer leurs activités ni les sociétés étrangères leurs activités au Canada après le 29 mars 2019.
 
 **Prorogation**
 
@@ -668,12 +668,12 @@ French version only***souscripteur*** Titulaire d’une police.
 
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
-- **(3)** Le décret n’est pas un règlement pour l’application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md). Toutefois, il doit être publié dans la partie II de la Gazette du Canada.
+- **(3)** Le décret n’est pas un règlement pour l’application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md). Toutefois, il doit être publié dans la partie II de la Gazette du Canada.
 
-**Exception**
+**Exception : dissolution**
 
-- **(4)** En cas de dissolution du Parlement à la date du cinquième anniversaire de l’entrée en vigueur du présent article, au cours des six mois qui la précèdent ou au cours de la période prévue au paragraphe (2), les sociétés peuvent exercer leurs activités et les sociétés étrangères leurs activités au Canada jusqu’à cent quatre-vingts jours après le premier jour de la première session de la législature suivante.
-> 1991, ch. 47, art. 21; 1997, ch. 15, art. 168; 2001, ch. 9, art. 353; 2006, ch. 4, art. 201; 2007, ch. 6, art. 189; 2012, ch. 5, art. 123.
+- **(4)** En cas de dissolution du Parlement le 29 mars 2019, ou au cours des six mois qui précèdent cette date, ou au cours de la période prévue au paragraphe (2), les sociétés peuvent exercer leurs activités et les sociétés étrangères leurs activités au Canada jusqu’au cent quatre-vingtième jour suivant le premier jour de la première session de la législature suivante.
+> 1991, ch. 47, art. 21; 1997, ch. 15, art. 168; 2001, ch. 9, art. 353; 2006, ch. 4, art. 201; 2007, ch. 6, art. 189; 2012, ch. 5, art. 123; 2016, ch. 7, art. 120.
 
 
 
@@ -16192,7 +16192,7 @@ où :
 
 **707** 
 
-- **(1)** Sous réserve des paragraphes (2) et (4), les sociétés de portefeuille d’assurances ne peuvent exercer leurs activités après la date du cinquième anniversaire de l’entrée en vigueur du présent article.
+- **(1)** Sous réserve des paragraphes (2) et (4), les sociétés de portefeuille d’assurances ne peuvent exercer leurs activités après le 29 mars 2019.
 
 **Prorogation**
 
@@ -16200,12 +16200,12 @@ où :
 
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
-- **(3)** Le décret n’est pas un règlement pour l’application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md). Toutefois, il doit être publié dans la partie II de la Gazette du Canada.
+- **(3)** Le décret n’est pas un règlement pour l’application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md). Toutefois, il doit être publié dans la partie II de la Gazette du Canada.
 
-**Exception**
+**Exception : dissolution**
 
-- **(4)** En cas de dissolution du Parlement à la date du cinquième anniversaire de l’entrée en vigueur du présent article, au cours des six mois qui la précèdent ou au cours de la période prévue au paragraphe (2), les sociétés de portefeuille d’assurances peuvent exercer leurs activités jusqu’à cent quatre-vingts jours après le premier jour de la première session de la législature suivante.
-> 1991, ch. 47, art. 707; 1997, ch. 15, art. 332; 2001, ch. 9, art. 465; 2006, ch. 4, art. 201.1; 2007, ch. 6, art. 310; 2012, ch. 5, art. 154.
+- **(4)** En cas de dissolution du Parlement le 29 mars 2019, ou au cours des six mois qui précèdent cette date, ou au cours de la période prévue au paragraphe (2), les sociétés de portefeuille d’assurances peuvent exercer leurs activités jusqu’au cent quatre-vingtième jour suivant le premier jour de la première session de la législature suivante.
+> 1991, ch. 47, art. 707; 1997, ch. 15, art. 332; 2001, ch. 9, art. 465; 2006, ch. 4, art. 201.1; 2007, ch. 6, art. 310; 2012, ch. 5, art. 154; 2016, ch. 7, art. 121.
 
 
 
@@ -22770,11 +22770,11 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Recommandation du ministre**
 
-- **(2)** Le ministre ne peut faire de recommandation en application du paragraphe (1) que s’il est d’avis :
+- **(2)** Le ministre ne peut faire de recommandation en application du paragraphe (1) que s’il est d’avis :
 	- **a)** que le décret sera lié :
 		- **(i)** soit à l’acquisition, à la détention ou à la vente ou toute autre forme de disposition d’actions d’une société par Sa Majesté du chef du Canada ou par l’un de ses mandataires ou organismes, à toute autre forme de commerce par l’un de ceux-ci relativement à de telles actions ou au transfert ou à l’émission de telles actions à l’un de ceux-ci,
 		- **(ii)** soit à la conduite de l’activité commerciale et des affaires internes ou à la réglementation et à la supervision d’une société alors que Sa Majesté du chef du Canada ou l’un de ses mandataires ou organismes acquiert, détient ou vend des actions de cette société, en dispose autrement, en fait autrement le commerce ou en obtient le transfert ou l’émission;
-	- **b)** après avoir envisagé de prendre d’autres mesures que celles prévues à ce paragraphe et consulté le surintendant, le gouverneur de la Banque du Canada et le président de la Société d’assurance-dépôts du Canada, que le décret favorisera la stabilité du système financier au Canada.
+	- **b)** après avoir envisagé de prendre d’autres mesures que celles prévues à ce paragraphe et consulté le surintendant, le gouverneur de la Banque du Canada et le premier dirigeant de la Société d’assurance-dépôts du Canada, que le décret favorisera la stabilité du système financier au Canada.
 
 **Conditions**
 
@@ -22782,35 +22782,35 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Abrogation d’un décret pris en application du paragraphe (1)**
 
-- **(4)** Le ministre peut recommander l’abrogation d’un décret pris en application du paragraphe (1) sans égard au paragraphe (2).
+- **(4)** Le ministre peut recommander l’abrogation d’un décret pris en application du paragraphe (1) sans égard au paragraphe (2).
 
 **Conditions et engagements**
 
 - **(5)** Lorsque Sa Majesté du chef du Canada ou l’un de ses mandataires ou organismes fait l’acquisition d’actions d’une société, le ministre peut, par arrêté, imposer à la société les conditions et les engagements qu’il estime indiqués, et ce, à compter du moment de l’acquisition et jusqu’à celui de la vente ou autre disposition des actions, notamment à l’égard de ce qui suit :
-	- **a)** la rémunération de ses cadres dirigeants, au sens de l’article 678.01, et de ses administrateurs;
-	- **b)** la nomination ou la destitution de ses cadres dirigeants, au sens de l’article 678.01, et de ses administrateurs;
+	- **a)** la rémunération de ses cadres dirigeants, au sens de l’article 678.01, et de ses administrateurs;
+	- **b)** la nomination ou la destitution de ses cadres dirigeants, au sens de l’article 678.01, et de ses administrateurs;
 	- **c)** le versement de dividendes par la société;
 	- **d)** les politiques et pratiques de la société relatives aux prêts.
 
 **Acquisition**
 
-- **(6)** Malgré la partie X de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), le ministre ou l’un des mandataires ou organismes de Sa Majesté du chef du Canada peut, selon les conditions fixées en application du paragraphe (3), acquérir et détenir au nom de Sa Majesté, ou en fiducie pour celle-ci, des actions d’une société si, en raison d’un décret pris en application du paragraphe (1), la société peut inscrire à son registre des valeurs mobilières le transfert ou l’émission d’actions à Sa Majesté ou à l’un de ses mandataires ou organismes.
+- **(6)** Malgré la partie X de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), le ministre ou l’un des mandataires ou organismes de Sa Majesté du chef du Canada peut, selon les conditions fixées en application du paragraphe (3), acquérir et détenir au nom de Sa Majesté, ou en fiducie pour celle-ci, des actions d’une société si, en raison d’un décret pris en application du paragraphe (1), la société peut inscrire à son registre des valeurs mobilières le transfert ou l’émission d’actions à Sa Majesté ou à l’un de ses mandataires ou organismes.
 
 **Prélèvement sur le Trésor**
 
-- **(7)** Sur demande du ministre, peuvent être prélevés sur le Trésor les sommes que le ministre ou que l’un des mandataires ou organismes de Sa Majesté du chef du Canada est tenu de payer pour l’acquisition d’actions conformément au paragraphe (6) et les frais entraînés par leur acquisition, détention, vente ou autre disposition ou commerce.
+- **(7)** Sur demande du ministre, peuvent être prélevés sur le Trésor les sommes que le ministre ou que l’un des mandataires ou organismes de Sa Majesté du chef du Canada est tenu de payer pour l’acquisition d’actions conformément au paragraphe (6) et les frais entraînés par leur acquisition, détention, vente ou autre disposition ou commerce.
 
 **Inscription des actions**
 
-- **(8)** Les actions acquises conformément au paragraphe (6) par le ministre ou par l’un des mandataires ou organismes de Sa Majesté du chef du Canada sont inscrites au registre des valeurs mobilières de la société au nom de l’acquéreur si elles peuvent faire l’objet d’une inscription sur ce registre et sont détenues par lui au nom de Sa Majesté, ou en fiducie pour celle-ci.
+- **(8)** Les actions acquises conformément au paragraphe (6) par le ministre ou par l’un des mandataires ou organismes de Sa Majesté du chef du Canada sont inscrites au registre des valeurs mobilières de la société au nom de l’acquéreur si elles peuvent faire l’objet d’une inscription sur ce registre et sont détenues par lui au nom de Sa Majesté, ou en fiducie pour celle-ci.
 
 **Disposition par le ministre**
 
-- **(9)** Le ministre peut, en tout temps, vendre des actions acquises conformément au paragraphe (6) ou en disposer autrement. La [Loi sur les biens de surplus de la Couronne](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-27.md) ainsi que l’article 61 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ne s’appliquent pas à une telle vente ou disposition.
+- **(9)** Le ministre peut, en tout temps, vendre des actions acquises conformément au paragraphe (6) ou en disposer autrement. La [Loi sur les biens de surplus de la Couronne](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-27.md) ainsi que l’article 61 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ne s’appliquent pas à une telle vente ou disposition.
 
 **Disposition par l’un des mandataires ou organismes de Sa Majesté**
 
-- **(10)** À la demande du ministre, laquelle peut être faite en tout temps, l’un des mandataires ou organismes de Sa Majesté du chef du Canada vend des actions acquises conformément au paragraphe (6) ou en dispose autrement. La [Loi sur les biens de surplus de la Couronne](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-27.md) ainsi que l’article 61 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ne s’appliquent pas à une telle vente ou disposition.
+- **(10)** À la demande du ministre, laquelle peut être faite en tout temps, l’un des mandataires ou organismes de Sa Majesté du chef du Canada vend des actions acquises conformément au paragraphe (6) ou en dispose autrement. La [Loi sur les biens de surplus de la Couronne](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-27.md) ainsi que l’article 61 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ne s’appliquent pas à une telle vente ou disposition.
 
 **Effet de la détention d’actions**
 
@@ -22818,11 +22818,11 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Disposition obligatoire**
 
-- **(12)** S’il estime, aux termes du paragraphe (11), que la détention d’actions acquises conformément au paragraphe (6) ne favorise plus la stabilité du système financier au Canada, le ministre — ou, à sa demande, l’un des mandataires ou organismes de Sa Majesté du chef du Canada — prend les mesures qu’il juge indiquées dans les circonstances pour vendre les actions ou en disposer autrement. La [Loi sur les biens de surplus de la Couronne](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-27.md) ainsi que l’article 61 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ne s’appliquent pas à une telle vente ou disposition.
+- **(12)** S’il estime, aux termes du paragraphe (11), que la détention d’actions acquises conformément au paragraphe (6) ne favorise plus la stabilité du système financier au Canada, le ministre — ou, à sa demande, l’un des mandataires ou organismes de Sa Majesté du chef du Canada — prend les mesures qu’il juge indiquées dans les circonstances pour vendre les actions ou en disposer autrement. La [Loi sur les biens de surplus de la Couronne](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-27.md) ainsi que l’article 61 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ne s’appliquent pas à une telle vente ou disposition.
 
 **Pas une société d’État**
 
-- **(13)** Si l’acquisition des actions d’une société conformément au paragraphe (6) en ferait par ailleurs une société d’État, au sens du paragraphe 83(1) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), cette société n’est pas une telle société pour l’application de cette loi.
+- **(13)** Si l’acquisition des actions d’une société conformément au paragraphe (6) en ferait par ailleurs une société d’État, au sens du paragraphe 83(1) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), cette société n’est pas une telle société pour l’application de cette loi.
 
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
@@ -22832,12 +22832,12 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 - **(15)** Pour l’application du présent article, sont assimilés aux actions :
 	- **a)** les privilèges de conversion ou d’échange et les options ou droits d’achat d’actions;
-	- **b)** s’agissant d’une société, les actions participantes au sens de l’article 83.01.
+	- **b)** s’agissant d’une société, les actions participantes au sens de l’article 83.01.
 
 **Société de portefeuille d’assurances**
 
-- **(16)** Pour l’application du présent article, à l’exception de l’alinéa (15)b), la mention d’une société comprend celle d’une société de portefeuille d’assurances et, s’agissant d’une société de portefeuille d’assurances, le renvoi, aux alinéas (5)a) et b), à l’article 678.01 vaut renvoi à l’article 1005.
-> 2009, ch. 2, art. 287.
+- **(16)** Pour l’application du présent article, à l’exception de l’alinéa (15)b), la mention d’une société comprend celle d’une société de portefeuille d’assurances et, s’agissant d’une société de portefeuille d’assurances, le renvoi, aux alinéas (5)a) et b), à l’article 678.01 vaut renvoi à l’article 1005.
+> 2009, ch. 2, art. 287; 2016, ch. 7, art. 176.
 
 
 
