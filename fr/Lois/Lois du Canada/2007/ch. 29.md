@@ -970,9 +970,20 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Paiement maximal de 200 000 000 $**
+**Paiement maximal de 200 000 000 $**
 
-**143** À la demande du ministre de l’Environnement et du ministre des Ressources naturelles, peut être payée sur le Trésor à la Fondation du Canada pour l’appui technologique au développement durable, à son usage, une somme n’excédant pas deux cent millions de dollars.
+**143** À la demande du ministre de l’Industrie, peut être payée sur le Trésor à la Fondation du Canada pour l’appui technologique au développement durable, à son usage, une somme n’excédant pas deux cents millions de dollars.
+> 2007, ch. 29, art. 143; 2016, ch. 7, art. 238.
+
+
+
+
+
+**Précision – paiement maximal**
+
+**143.1** Malgré l’article 143, la somme qui peut être payée en vertu de cet article ne peut pas dépasser la différence entre deux cents millions de dollars et toute somme payée sur le Trésor à la Fondation du Canada pour l’appui technologique au développement durable, à la demande du ministre de l’Environnement et du ministre des Ressources naturelles, en vertu de l’article 143 dans sa version antérieure à la date d’entrée en vigueur du présent article.
+> 2016, ch. 7, art. 238.
+
 
 
 
