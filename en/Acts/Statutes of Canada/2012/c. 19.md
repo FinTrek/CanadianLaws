@@ -1228,6 +1228,33 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+**Acquisition of shares**
+
+**209.1** 
+
+- **(1)** For the purposes of paragraph 90(1)(b) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), the Minister of Infrastructure, Communities and Intergovernmental Affairs may acquire the shares of PPP Canada Inc.
+
+**Shares held by appropriate Minister**
+
+- **(2)** The appropriate Minister holds the shares acquired under subsection (1).
+
+**Appropriate Minister — other transactions**
+
+- **(3)** The appropriate Minister may, with the approval of the Governor in Council, conduct any transaction referred to in any of paragraphs 90(1)(c) to (e) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) in respect of PPP Canada Inc.
+
+**Authorization — parent Crown corporation**
+
+- **(4)** PPP Canada Inc. may, with the approval of the Governor in Council, sell or otherwise dispose of all or substantially all of its assets.
+
+**Authorization — wholly-owned subsidiaries**
+
+- **(5)** Any of the corporations that are part of the group of corporations that consists of PPP Canada Inc. and of all of its wholly-owned subsidiaries may, with the approval of the Governor in Council, sell or otherwise dispose of any of the assets of the corporations, even if the assets to be sold or otherwise disposed of constitute all or substantially all of the total assets of that group.
+> 2016, c. 7, s. 233.
+
+
+
+
+
 **Status of PPP Canada Inc.**
 
 **210** Except as provided in this Division, PPP Canada Inc., incorporated under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md), is not an agent of Her Majesty in right of Canada.
@@ -1239,8 +1266,20 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **211** PPP Canada Inc. is an agent of Her Majesty in right of Canada in relation to the following activities:
 - **(a)** assessing public-private partnership opportunities for departments and Crown corporations in accordance with criteria established by the Treasury Board;
-- **(b)** advising departments and Crown corporations on the implementation of public-private partnership projects; and
-- **(c)** acting as a source of expertise and advice for departments and Crown corporations on public-private partnership issues.
+- **(b)** advising departments and Crown corporations on the implementation of public-private partnership projects;
+- **(c)** acting as a source of expertise and advice for departments and Crown corporations on public-private partnership issues; and
+- **(d)** conducting any activity specified in an order made under section 211.1.
+> 2012, c. 19, s. 211; 2016, c. 7, s. 234.
+
+
+
+
+
+**Order in council**
+
+**211.1** The Governor in Council may, by order, specify any activity in relation to which PPP Canada Inc. is an agent of Her Majesty in right of Canada.
+> 2016, c. 7, s. 235.
+
 
 
 
@@ -1251,12 +1290,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-**Restrictions**
-
-**213** Neither PPP Canada Inc. nor its shareholders or directors are authorized, without the Governor in Council’s prior approval given on the recommendation of the appropriate Minister and the Treasury Board,
-- **(a)** to apply for continuance in another jurisdiction; or
-- **(b)** to apply for articles that would add to, or otherwise make a material change in, the objects or purposes for which PPP Canada Inc. was incorporated, or the restrictions on the businesses or activities that PPP Canada Inc. may carry on, as set out in its articles of incorporation.
+**213** [Repealed, 2016, c. 7, s. 236]
 
 
 
