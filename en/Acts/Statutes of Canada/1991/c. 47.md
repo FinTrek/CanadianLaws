@@ -701,7 +701,7 @@ and that is not discontinued under this Act.
 
 **21** 
 
-- **(1)** Subject to subsections (2) and (4), companies and societies shall not carry on business, and foreign companies shall not carry on business in Canada, after the day that is the fifth anniversary of the day on which this section comes into force.
+- **(1)** Subject to subsections (2) and (4), companies and societies shall not carry on business, and foreign companies shall not carry on business in Canada, after March 29, 2019.
 
 **Extension**
 
@@ -709,12 +709,12 @@ and that is not discontinued under this Act.
 
 **Order not a regulation**
 
-- **(3)** The order is not a regulation for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md). However, it shall be published in Part II of the Canada Gazette.
+- **(3)** The order is not a regulation for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md). However, it shall be published in Part II of the Canada Gazette.
 
-**Exception**
+**Exception — dissolution**
 
-- **(4)** If Parliament dissolves on the fifth anniversary of the day on which this section comes into force, on any day within the six-month period before that anniversary or on any day within an extension under subsection (2), companies and societies may continue to carry on business, and foreign companies may continue to carry on business in Canada, until the end of 180 days after the first day of the first session of the next Parliament.
-> 1991, c. 47, s. 21; 1997, c. 15, s. 168; 2001, c. 9, s. 353; 2006, c. 4, s. 201; 2007, c. 6, s. 189; 2012, c. 5, s. 123.
+- **(4)** If Parliament dissolves on March 29, 2019 or on any day within the six-month period before that date or on any day within an extension ordered under subsection (2), companies and societies may continue to carry on business, and foreign companies may continue to carry on business in Canada, until the end of the 180th day after the first day of the first session of the next Parliament.
+> 1991, c. 47, s. 21; 1997, c. 15, s. 168; 2001, c. 9, s. 353; 2006, c. 4, s. 201; 2007, c. 6, s. 189; 2012, c. 5, s. 123; 2016, c. 7, s. 120.
 
 
 
@@ -16551,7 +16551,7 @@ where
 
 **707** 
 
-- **(1)** Subject to subsections (2) and (4), insurance holding companies shall not carry on business after the day that is the fifth anniversary of the day on which this section comes into force.
+- **(1)** Subject to subsections (2) and (4), insurance holding companies shall not carry on business after March 29, 2019.
 
 **Extension**
 
@@ -16559,12 +16559,12 @@ where
 
 **Order not a regulation**
 
-- **(3)** The order is not a regulation for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md). However, it shall be published in Part II of the Canada Gazette.
+- **(3)** The order is not a regulation for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md). However, it shall be published in Part II of the Canada Gazette.
 
-**Exception**
+**Exception — dissolution**
 
-- **(4)** If Parliament dissolves on the fifth anniversary of the day on which this section comes into force, on any day within the six-month period before that anniversary or on any day within an extension under subsection (2), insurance holding companies may continue to carry on business until the end of 180 days after the first day of the first session of the next Parliament.
-> 1991, c. 47, s. 707; 1997, c. 15, s. 332; 2001, c. 9, s. 465; 2006, c. 4, s. 201.1; 2007, c. 6, s. 310; 2012, c. 5, s. 154.
+- **(4)** If Parliament dissolves on March 29, 2019 or on any day within the six-month period before that date or on any day within an extension ordered under subsection (2), insurance holding companies may continue to carry on business until the end of the 180th day after the first day of the first session of the next Parliament.
+> 1991, c. 47, s. 707; 1997, c. 15, s. 332; 2001, c. 9, s. 465; 2006, c. 4, s. 201.1; 2007, c. 6, s. 310; 2012, c. 5, s. 154; 2016, c. 7, s. 121.
 
 
 
@@ -23219,11 +23219,11 @@ together with such other information about the background, business record and e
 
 **Minister’s recommendation**
 
-- **(2)** The Minister may make a recommendation under subsection (1) only if the Minister
+- **(2)** The Minister may make a recommendation under subsection (1) only if the Minister
 	- **(a)** is of the opinion that the order would relate to
 		- **(i)** the acquisition, holding, sale or other disposition of, or other dealing with, shares of a company by, or the transfer or issue of shares of a company to, Her Majesty in right of Canada or Her Majesty’s agent or agency, or
 		- **(ii)** the management of the business and affairs or the regulation and supervision of a company during the time that Her Majesty or Her Majesty’s agent or agency is acquiring, holding, selling or otherwise disposing of, or otherwise dealing with, shares of the company, or during the time that shares of the company are transferred or issued to Her Majesty or Her Majesty’s agent or agency; and
-	- **(b)** is of the opinion — after considering measures other than an order under that subsection and after consulting with the Superintendent, the Governor of the Bank of Canada and the Chairperson of the Canada Deposit Insurance Corporation — that the order will promote the stability of the financial system in Canada.
+	- **(b)** is of the opinion — after considering measures other than an order under that subsection and after consulting with the Superintendent, the Governor of the Bank of Canada and the Chief Executive Officer of the Canada Deposit Insurance Corporation — that the order will promote the stability of the financial system in Canada.
 
 **Terms and conditions**
 
@@ -23231,35 +23231,35 @@ together with such other information about the background, business record and e
 
 **Repeal of order under subsection (1)**
 
-- **(4)** The Minister may recommend the repeal of an order made under subsection (1) without regard to subsection (2).
+- **(4)** The Minister may recommend the repeal of an order made under subsection (1) without regard to subsection (2).
 
 **Terms, conditions and undertakings**
 
 - **(5)** From the time that Her Majesty in right of Canada or an agent or agency of Her Majesty acquires shares of a company to the time that the shares are sold or otherwise disposed of, the Minister may, by order, impose any terms and conditions on — or require any undertaking from — the company that the Minister considers appropriate, including any terms and conditions or undertakings relating to
-	- **(a)** the remuneration of the company’s senior officers, as defined in section 678.01, and directors;
-	- **(b)** the appointment or removal of the company’s senior officers, as defined in section 678.01, and directors;
+	- **(a)** the remuneration of the company’s senior officers, as defined in section 678.01, and directors;
+	- **(b)** the appointment or removal of the company’s senior officers, as defined in section 678.01, and directors;
 	- **(c)** the payment of dividends by the company; and
 	- **(d)** the company’s lending policies and practices.
 
 **Acquisition**
 
-- **(6)** Despite Part X of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), the Minister or an agent or agency of Her Majesty in right of Canada may, on any terms and conditions imposed under subsection (3), acquire and hold shares of a company on behalf of or in trust for Her Majesty if, as a result of an order under subsection (1), the company may record in its securities register the transfer or issue of shares to Her Majesty or an agent or agency of Her Majesty.
+- **(6)** Despite Part X of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), the Minister or an agent or agency of Her Majesty in right of Canada may, on any terms and conditions imposed under subsection (3), acquire and hold shares of a company on behalf of or in trust for Her Majesty if, as a result of an order under subsection (1), the company may record in its securities register the transfer or issue of shares to Her Majesty or an agent or agency of Her Majesty.
 
 **Payment out of C.R.F.**
 
-- **(7)** On the requisition of the Minister, there may be paid out of the Consolidated Revenue Fund the amount that the Minister or an agent or agency of Her Majesty in right of Canada is required to pay for the acquisition of shares under subsection (6) and any costs and expenses incurred in connection with the acquisition, holding, sale or other disposition of, or other dealing with, the shares.
+- **(7)** On the requisition of the Minister, there may be paid out of the Consolidated Revenue Fund the amount that the Minister or an agent or agency of Her Majesty in right of Canada is required to pay for the acquisition of shares under subsection (6) and any costs and expenses incurred in connection with the acquisition, holding, sale or other disposition of, or other dealing with, the shares.
 
 **Registration of shares**
 
-- **(8)** Shares acquired under subsection (6) by the Minister or an agent or agency of Her Majesty in right of Canada shall be registered in the name of the Minister, agent or agency, as the case may be, in the company’s securities register if they are capable of being registered in it, and the shares shall be held by the Minister, agent or agency, as the case may be, on behalf of or in trust for Her Majesty.
+- **(8)** Shares acquired under subsection (6) by the Minister or an agent or agency of Her Majesty in right of Canada shall be registered in the name of the Minister, agent or agency, as the case may be, in the company’s securities register if they are capable of being registered in it, and the shares shall be held by the Minister, agent or agency, as the case may be, on behalf of or in trust for Her Majesty.
 
 **Disposition by Minister**
 
-- **(9)** The Minister may, at any time, sell or otherwise dispose of shares acquired under subsection (6). The [Surplus Crown Assets Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-27.md) and section 61 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) do not apply to the sale or disposition.
+- **(9)** The Minister may, at any time, sell or otherwise dispose of shares acquired under subsection (6). The [Surplus Crown Assets Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-27.md) and section 61 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) do not apply to the sale or disposition.
 
 **Disposition by agent or agency**
 
-- **(10)** An agent or agency of Her Majesty in right of Canada — at the request of the Minister, which may be made at any time — shall sell or otherwise dispose of shares acquired under subsection (6). The [Surplus Crown Assets Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-27.md) and section 61 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) do not apply to the sale or disposition.
+- **(10)** An agent or agency of Her Majesty in right of Canada — at the request of the Minister, which may be made at any time — shall sell or otherwise dispose of shares acquired under subsection (6). The [Surplus Crown Assets Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-27.md) and section 61 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) do not apply to the sale or disposition.
 
 **Consideration by Minister**
 
@@ -23267,11 +23267,11 @@ together with such other information about the background, business record and e
 
 **Mandatory disposition**
 
-- **(12)** If the Minister, under subsection (11), considers that holding shares acquired under subsection (6) no longer continues to promote the stability of the financial system in Canada, the Minister — or, at the request of the Minister, the agent or agency of Her Majesty in right of Canada — shall take the measures that the Minister considers practicable in the circumstances to sell or otherwise dispose of the shares. The [Surplus Crown Assets Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-27.md) and section 61 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) do not apply to the sale or disposition.
+- **(12)** If the Minister, under subsection (11), considers that holding shares acquired under subsection (6) no longer continues to promote the stability of the financial system in Canada, the Minister — or, at the request of the Minister, the agent or agency of Her Majesty in right of Canada — shall take the measures that the Minister considers practicable in the circumstances to sell or otherwise dispose of the shares. The [Surplus Crown Assets Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-27.md) and section 61 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) do not apply to the sale or disposition.
 
 **Not a Crown corporation**
 
-- **(13)** Even if the acquisition of a company’s shares under subsection (6) would otherwise cause the company to be a Crown corporation, as defined in subsection 83(1) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), the company is not a Crown corporation for the purposes of that Act.
+- **(13)** Even if the acquisition of a company’s shares under subsection (6) would otherwise cause the company to be a Crown corporation, as defined in subsection 83(1) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), the company is not a Crown corporation for the purposes of that Act.
 
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
@@ -23281,12 +23281,12 @@ together with such other information about the background, business record and e
 
 - **(15)** For the purposes of this section, ***shares*** includes
 	- **(a)** any conversion or exchange privilege, option or right to acquire shares; and
-	- **(b)** in reference to a company, participating shares, as defined in section 83.01.
+	- **(b)** in reference to a company, participating shares, as defined in section 83.01.
 
 **Insurance holding company**
 
-- **(16)** For the purposes of this section other than paragraph (15)(b), a reference to a “company” includes a reference to an “insurance holding company”, and the references to “section 678.01” in paragraphs (5)(a) and (b) are to be read, in relation to an insurance holding company, as references to “section 1005”.
-> 2009, c. 2, s. 287.
+- **(16)** For the purposes of this section other than paragraph (15)(b), a reference to a “company” includes a reference to an “insurance holding company”, and the references to “section 678.01” in paragraphs (5)(a) and (b) are to be read, in relation to an insurance holding company, as references to “section 1005”.
+> 2009, c. 2, s. 287; 2016, c. 7, s. 176.
 
 
 
