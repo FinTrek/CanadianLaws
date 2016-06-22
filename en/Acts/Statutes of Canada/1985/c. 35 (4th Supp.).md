@@ -109,7 +109,7 @@
 	- **(a)** [Repealed, 2001, c. 35, s. 1]
 	- **(b)** provisions imposing constraints on the issue, transfer and ownership, including joint ownership, of voting shares of the Corporation to prevent non-residents from holding, beneficially owning or controlling, directly or indirectly, otherwise than by way of security only, in the aggregate voting shares to which are attached more than 25%, or any higher percentage that the Governor in Council may by regulation specify, of the votes that may ordinarily be cast to elect directors of the Corporation, other than votes that may be so cast by or on behalf of the Minister;
 	- **(c)** provisions respecting the counting or prorating of votes cast at any meeting of shareholders of the Corporation and attached to voting shares of the Corporation that are held, beneficially owned or controlled, directly or indirectly, by non-residents so as to limit the counting of those votes to not more than 25%, or any higher percentage specified for the purposes of paragraph (b), of the total number of votes cast by shareholders at that meeting;
-	- **(d)** provisions requiring the Corporation to maintain operational and overhaul centres in the City of Winnipeg, the Montreal Urban Community and the City of Mississauga; and
+	- **(d)** provisions requiring the Corporation to carry out or cause to be carried out aircraft maintenance activities, including maintenance of any type relating to airframes, engines, components, equipment or parts, in Ontario, Quebec and Manitoba; and
 	- **(e)** provisions specifying that the head office of the Corporation is to be situated in the Montreal Urban Community.
 
 **Enforcement of constraint provisions**
@@ -123,7 +123,11 @@
 	- **(b)** by one or more underwriters solely for the purpose of distributing the shares to the public; or
 	- **(c)** by any person that is acting in relation to the shares solely in its capacity as an intermediary in the payment of funds or the delivery of securities, or both, in connection with trades in securities and that provides centralized facilities for the clearing of trades in securities.
 
-- **(4) and (5)** [Repealed, 2001, c. 35, s. 1]
+**Maintenance activities**
+
+- **(4)** For the purpose of carrying out or causing to be carried out the aircraft maintenance activities referred to in paragraph (1)(d) in Ontario, Quebec and Manitoba, the Corporation may, while not eliminating those activities in any of those provinces, change the type or volume of any or all of those activities in each of those provinces, as well as the level of employment in any or all of those activities.
+
+- **(5)** [Repealed, 2001, c. 35, s. 1]
 
 **Control**
 
@@ -139,11 +143,13 @@
 
 **Definitions**
 
-- **(7)** In this section,
+- **(7)** The following definitions apply in this section.
 
-***corporation*** includes a body corporate, partnership and unincorporated organization;
+***aircraft*** has the same meaning as in subsection 3(1) of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md). (*aéronef*) 
 
-***non-resident*** means
+***corporation*** includes a body corporate, partnership and unincorporated organization. (*société*)
+
+***non-resident*** means
 - **(a)** an individual, other than a Canadian citizen, who is not ordinarily resident in Canada,
 - **(b)** a corporation incorporated, formed or otherwise organized outside Canada,
 - **(c)** a foreign government or an agency thereof,
@@ -155,14 +161,14 @@
 
 but does not include
 - **(g)** a mutual company within the meaning of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md), if its head office and chief place of business are situated in Canada and at least three quarters of its board of directors and each committee of its directors are Canadian citizens who are ordinarily resident in Canada, or
-- **(h)** a company within the meaning of that Act that is a subsidiary of a foreign institution within the meaning of that Act or a foreign company within the meaning of that Act, where the company or the foreign company is acquiring shares to form part of the assets of a segregated fund maintained pursuant to section 451 or 593 of that Act that has been established with respect to one or more policies or amounts for the administration of a pension fund for the benefit of individuals a majority of whom are residents;
+- **(h)** a company within the meaning of that Act that is a subsidiary of a foreign institution within the meaning of that Act or a foreign company within the meaning of that Act, where the company or the foreign company is acquiring shares to form part of the assets of a segregated fund maintained pursuant to section 451 or 593 of that Act that has been established with respect to one or more policies or amounts for the administration of a pension fund for the benefit of individuals a majority of whom are residents. (*non-résident*)
 
-***person*** includes an individual, corporation, government or agency thereof, trustee, executor, administrator and other legal representative;
+***person*** includes an individual, corporation, government or agency thereof, trustee, executor, administrator and other legal representative. (*personne*)
 
-***resident*** means an individual, corporation, government or agency thereof or trust that is not a non-resident;
+***resident*** means an individual, corporation, government or agency thereof or trust that is not a non-resident. (*résident*)
 
-***voting share*** means a share carrying voting rights under all circumstances or under some circumstances that have occurred and are continuing, and includes a security currently convertible into such a share and currently exercisable options and rights to acquire such a share or such a convertible security.
-> R.S., 1985, c. 35 (4th Supp.), s. 6; 1993, c. 34, s. 3; 1994, c. 24, s. 34(F), c. 47, s. 220; 2000, c. 15, s. 17; 2001, c. 35, s. 1.
+***voting share*** means a share carrying voting rights under all circumstances or under some circumstances that have occurred and are continuing, and includes a security currently convertible into such a share and currently exercisable options and rights to acquire such a share or such a convertible security. (*action avec droit de vote*)
+> R.S., 1985, c. 35 (4th Supp.), s. 6; 1993, c. 34, s. 3; 1994, c. 24, s. 34(F), c. 47, s. 220; 2000, c. 15, s. 17; 2001, c. 35, s. 1; 2016, c. 8, s. 1.
 
 
 
