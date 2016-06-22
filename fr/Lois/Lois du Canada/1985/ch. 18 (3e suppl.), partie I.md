@@ -337,11 +337,11 @@ Il doit en outre faire rapport au ministre sur toutes questions y afférentes.
 
 **18** 
 
-- **(1)** Est constitué un comité formé des personnes suivantes :
+- **(1)** Est constitué un comité formé des personnes suivantes :
 	- **a)** le surintendant;
 	- **a.1)** le commissaire de l’Agence de la consommation en matière financière du Canada;
 	- **b)** le gouverneur de la Banque du Canada;
-	- **c)** le président de la Société d’assurance-dépôts du Canada;
+	- **c)** le premier dirigeant de la Société d’assurance-dépôts du Canada;
 	- **d)** le sous-ministre des Finances.
 
 **Président**
@@ -359,7 +359,7 @@ Il doit en outre faire rapport au ministre sur toutes questions y afférentes.
 **Désignation d’un substitut**
 
 - **(5)** L’information dont un membre du comité demande la communication à un autre membre peut être communiquée à toute personne désignée par le demandeur.
-> L.R. (1985), ch. 18 (3<sup>e</sup> suppl.), art. 18; 1996, ch. 6, art. 108(A); 2001, ch. 9, art. 469.
+> L.R. (1985), ch. 18 (3<sup>e</sup> suppl.), art. 18; 1996, ch. 6, art. 108(A); 2001, ch. 9, art. 469; 2016, ch. 7, art. 169.
 
 
 
