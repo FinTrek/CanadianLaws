@@ -4212,32 +4212,32 @@ and ending on the day on which the refund is paid to the person.
 
 - **(1)** The definitions in this subsection apply in this section.
 
-***aboriginal government*** means an aboriginal government as defined in subsection 2(1) of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md).
+***aboriginal government*** means an aboriginal government as defined in subsection 2(1) of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md). (*gouvernement autochtone*)
 
-***authorized person*** means a person who is engaged or employed, or who was formerly engaged or employed, by or on behalf of Her Majesty to assist in carrying out the provisions of this Act.
+***authorized person*** means a person who is engaged or employed, or who was formerly engaged or employed, by or on behalf of Her Majesty to assist in carrying out the provisions of this Act. (*personne autorisée*)
 
-***business number*** means the number (other than a Social Insurance Number) used by the Minister to identify
+***business number*** means the number (other than a Social Insurance Number) used by the Minister to identify
 - **(a)** a licensee or a registrant for the purposes of this Act; or
-- **(b)** an applicant for a refund under this Act.
+- **(b)** an applicant for a refund under this Act. (*numéro d’entreprise*)
 
-***confidential information*** means information of any kind and in any form that relates to one or more persons and that is
-- **(a)** obtained by or on behalf of the Minister for the purposes of this Act; 
+***confidential information*** means information of any kind and in any form that relates to one or more persons and that is
+- **(a)** obtained by or on behalf of the Minister for the purposes of this Act;
 - **(a.1)** obtained by or on behalf of the Minister of Public Safety and Emergency Preparedness for the purposes of section 68; or
 - **(b)** prepared from information referred to in paragraph (a) or (a.1).
 
-It excludes information that does not directly or indirectly reveal the identity of the person to whom it relates and, for the purposes of applying subsections (3), (8) and (9) to a representative of a government entity that is not an official, it includes only the information referred to in paragraph (6)(j).
+It excludes information that does not directly or indirectly reveal the identity of the person to whom it relates and, for the purposes of applying subsections (3), (8) and (9) to a representative of a government entity that is not an official, it includes only the information referred to in paragraph (6)(j). (*renseignement confidentiel*)
 
 ***contact information***, in respect of a holder of a business number, means the name, address, telephone number, facsimile number and preferred language of communication of the holder, or similar information as specified by the Minister in respect of the holder, and includes such information in respect of one or more
 - **(a)** trustees of the holder, if the holder is a trust;
 - **(b)** members of the holder, if the holder is a partnership;
 - **(c)** officers of the holder, if the holder is a corporation; or
-- **(d)** officers or members of the holder, in any other case.
+- **(d)** officers or members of the holder, in any other case. (*coordonnées*)
 
-***corporate information***, in respect of a holder of a business number that is a corporation, means the name (including the number assigned by the incorporating authority), date of incorporation, jurisdiction of incorporation and any information on the dissolution, reorganization, amalgamation, winding-up or revival of the corporation.
+***corporate information***, in respect of a holder of a business number that is a corporation, means the name (including the number assigned by the incorporating authority), date of incorporation, jurisdiction of incorporation and any information on the dissolution, reorganization, amalgamation, winding-up or revival of the corporation. (*renseignements d’entreprise*)
 
-***court of appeal*** has the same meaning as in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+***court of appeal*** has the same meaning as in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). (*cour d’appel*)
 
-***government entity*** means
+***government entity*** means
 - **(a)** a department or agency of the government of Canada or of a province;
 - **(b)** a municipality;
 - **(c)** an aboriginal government;
@@ -4246,11 +4246,11 @@ It excludes information that does not directly or indirectly reveal the identity
 	- **(ii)** Her Majesty in right of a province,
 	- **(iii)** a municipality, or
 	- **(iv)** a corporation described in this paragraph; or
-- **(e)** a board or commission, established by Her Majesty or Her Majesty in right of a province, that performs an administrative or regulatory function of government, or by a municipality, that performs an administrative or regulatory function of a municipality.
+- **(e)** a board or commission, established by Her Majesty or Her Majesty in right of a province, that performs an administrative or regulatory function of government, or by a municipality, that performs an administrative or regulatory function of a municipality. (*entité gouvernementale*)
 
-***municipality*** means an incorporated city, town, village, metropolitan authority, township, district, county or rural municipality or other incorporated municipal body however designated.
+***municipality*** means an incorporated city, town, village, metropolitan authority, township, district, county or rural municipality or other incorporated municipal body however designated. (*municipalité*)
 
-***official*** means a person who is employed in the service of, who occupies a position of responsibility in the service of, or who is engaged by or on behalf of, Her Majesty or Her Majesty in right of a province, or a person who was formerly so employed, who formerly occupied such a position or who formerly was so engaged.
+***official*** means a person who is employed in the service of, who occupies a position of responsibility in the service of, or who is engaged by or on behalf of, Her Majesty or Her Majesty in right of a province, or a person who was formerly so employed, who formerly occupied such a position or who formerly was so engaged. (*fonctionnaire*)
 
 ***registration information***, in respect of a holder of a business number, means
 - **(a)** any information pertaining to the legal form of the holder;
@@ -4260,9 +4260,9 @@ It excludes information that does not directly or indirectly reveal the identity
 	- **(ii)** the holder began activities,
 	- **(iii)** the holder ceased or resumed activities, or
 	- **(iv)** the business number assigned to the holder was changed; and
-- **(d)** the reasons for the cessation, resumption or change referred to in subparagraph (c)(iii) or (iv).
+- **(d)** the reasons for the cessation, resumption or change referred to in subparagraph (c)(iii) or (iv). (*renseignements relatifs à l’inscription*)
 
-***representative*** of a government entity means a person who is employed in the service of, who occupies a position of responsibility in the service of, or who is engaged by or on behalf of, a government entity, and includes, for the purposes of subsections (2), (3), (8) and (9), a person who was formerly so employed, who formerly occupied such a position or who formerly was so engaged.
+***representative*** of a government entity means a person who is employed in the service of, who occupies a position of responsibility in the service of, or who is engaged by or on behalf of, a government entity, and includes, for the purposes of subsections (2), (3), (8) and (9), a person who was formerly so employed, who formerly occupied such a position or who formerly was so engaged. (*représentant*)
 
 **Provision of information**
 
@@ -4292,17 +4292,22 @@ It excludes information that does not directly or indirectly reveal the identity
 	- **(b)** provide a person with confidential information that can reasonably be regarded as necessary for the purposes of determining any liability or obligation of the person or any refund or other payment to which the person is or may become entitled under this Act;
 	- **(c)** provide, allow to be provided, or allow inspection of or access to any confidential information to or by any person, or any person within a class of persons, that the Minister may authorize, subject to any conditions that the Minister may specify;
 	- **(d)** provide any person who is legally entitled under an Act of Parliament to confidential information with, or access to, that information, solely for the purposes for which the person is entitled to the information;
+	- **(d.1)** provide confidential information, or allow the inspection of or access to confidential information, as the case may be, under, and solely for the purpose of, paragraph 33.1(a) of the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md);
 	- **(e)** provide confidential information
 		- **(i)** to an official of the Department of Finance solely for the purpose of the formulation or evaluation of fiscal policy,
 		- **(ii)** to an official solely for the purpose of the initial implementation of a fiscal policy or for the purposes of the administration or enforcement of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), the Unemployment Insurance Act or an Act of Parliament that provides for the imposition or collection of a tax or duty,
 		- **(iii)** to an official solely for the purposes of the administration or enforcement of a law of a province that provides for the imposition or collection of a tax or duty,
 		- **(iv)** to an official of the government of a province solely for the purpose of the formulation or evaluation of fiscal policy,
+		- **(iv.1)** to an official solely for the purpose of the administration or enforcement of the [Canada Education Savings Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2026.md) or a ***designated provincial program***, as defined in subsection 146.1(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md),
+		- **(iv.2)** to an official solely for the purpose of the administration or enforcement of the [Canada Disability Savings Act](/en/Acts/Statutes%20of%20Canada/2007/c.%2035,%20s.%20136.md) or a ***designated provincial program***, as defined in subsection 146.4(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md),
 		- **(v)** to an official of a department or agency of the Government of Canada or of a province as to the name, address, telephone number, occupation, size or type of business of a person, solely for the purpose of enabling the department or agency to obtain statistical data for research and analysis,
+		- **(v.1)** to an official of the Department of Employment and Social Development solely for the purpose of the administration or enforcement of a program established under the authority of the [Department of Employment and Social Development Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2034.md) in respect of children who are deceased or missing as a result of an offence, or a probable offence, under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md),
 		- **(vi)** to an official solely for the purpose of setting off, against any sum of money that may be due or payable by Her Majesty, a debt due to
 			- **(A)** Her Majesty, or
 			- **(B)** Her Majesty in right of a province on account of taxes payable to the province, if an agreement exists between Canada and the province under which Canada is authorized to collect taxes on behalf of the province,
-		- **(vii)** to an official solely for the purposes of section 7.1 of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md), or
-		- **(viii)** to an official of the Financial Transactions and Reports Analysis Centre of Canada solely for the purpose of enabling the Centre to evaluate the usefulness of information provided by the Centre to the Canada Revenue Agency under the [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md);
+		- **(vii)** to an official solely for the purposes of section 7.1 of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md),
+		- **(viii)** to an official of the Financial Transactions and Reports Analysis Centre of Canada solely for the purpose of enabling the Centre to evaluate the usefulness of information provided by the Centre to the Canada Revenue Agency under the [Proceeds of Crime (Money Laundering) and Terrorist Financing Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2017.md), or
+		- **(ix)** to an official of the Agency solely for the purpose of the collection of amounts owing to Her Majesty in right of Canada or of a province under the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md), the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md), the [Merchant Seamen Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/M/M-6.md), the [Canada Student Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-23.md), the [Canada Student Financial Assistance Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2028.md), the [Postal Services Continuation Act, 1997](/en/Acts/Statutes%20of%20Canada/1997/c.%2034.md), the [Wage Earner Protection Program Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2047,%20s.%201.md), the [Apprentice Loans Act](/en/Acts/Statutes%20of%20Canada/2014/c.%2020,%20s.%20483.md) or a law of a province governing the granting of financial assistance to students at the post-secondary school level;
 	- **(f)** provide confidential information solely for the purposes of sections 23 to 25 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md);
 	- **(g)** use confidential information to compile information in a form that does not directly or indirectly reveal the identity of the person to whom the information relates;
 	- **(h)** use, or provide any person with, confidential information solely for a purpose relating to the supervision, evaluation or discipline of an authorized person by Her Majesty in respect of a period during which the authorized person was employed by or engaged by or on behalf of Her Majesty to assist in the administration or enforcement of this Act, to the extent that the information is relevant for that purpose;
@@ -4388,7 +4393,7 @@ It excludes information that does not directly or indirectly reveal the identity
 **Stay**
 
 - **(11)** An appeal shall stay the operation of the order or direction appealed from until judgment is pronounced.
-> 2002, c. 22, s. 211; 2005, c. 38, ss. 97, 145; 2007, c. 18, s. 117; 2009, c. 2, s. 120; 2014, c. 20, s. 75; 2015, c. 20, s. 8.
+> 2002, c. 22, s. 211; 2005, c. 38, ss. 97, 145; 2007, c. 18, s. 117; 2009, c. 2, s. 120; 2014, c. 20, s. 75; 2015, c. 20, s. 8; 2016, c. 7, s. 75.
 
 
 
