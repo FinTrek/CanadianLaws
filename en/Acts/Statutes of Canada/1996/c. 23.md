@@ -2032,9 +2032,10 @@ is to be considered to have worked or not worked a full working week;
 - **(z.2)** prescribing
 	- **(i)** the circumstances in which a claimant who leaves employment in accordance with an employer work-force reduction process that preserves the employment of coworkers may, notwithstanding section 30, be paid benefits, and
 	- **(ii)** what constitutes an employer work-force reduction process for the purposes of the regulations;
-- **(z.3)** reducing the special benefits payable when allowances, money or other benefits are payable to a claimant under a plan other than one established under a provincial law; and
+- **(z.3)** reducing the special benefits payable when allowances, money or other benefits are payable to a claimant under a plan other than one established under a provincial law;
+- **(z.31)** eliminating the special benefits payable to a claimant in respect of any period that constitutes, under a plan other than one established under a provincial law, an elimination period during which no benefit is payable to the claimant under the plan; and
 - **(z.4)** prescribing anything that by section 2 or this Part is to be prescribed.
-> 1996, c. 23, s. 54; 2003, c. 15, s. 20; 2009, c. 33, s. 9; 2012, c. 19, s. 608, c. 27, s. 19.
+> 1996, c. 23, s. 54; 2003, c. 15, s. 20; 2009, c. 33, s. 9; 2012, c. 19, s. 608, c. 27, s. 19; 2016, c. 7, s. 215.
 
 
 
@@ -2199,17 +2200,23 @@ is to be considered to have worked or not worked a full working week;
 
 **Insured participants**
 
-- **(2)** An agreement may be entered into under subsection (1) with a government even if the benefits provided by that government are provided only for an insured participant as defined in section 58 as it read immediately before the day on which this subsection comes into force.
-> 1996, c. 23, s. 63; 2015, c. 36, s. 154.
+- **(2)** An agreement may be entered into under subsection (1) with a government even if the benefits provided by that government are provided only for an ***insured participant*** as defined in section 58 as it read immediately before June 23, 2015, the text of which is set out in Schedule III.
+> 1996, c. 23, s. 63; 2015, c. 36, s. 154; 2016, c. 7, s. 217.
 
 
 
 
 
-**Transitional provision**
+**Payment of contributions — insured participants**
 
-**63.1** Contributions that are to be paid under an agreement that, before the day on which this section comes into force, was entered into with a government under section 63 to provide for the payment of contributions for all or a portion of the costs of benefits provided by the government that are similar to employment benefits under this Part shall be paid only for costs of benefits for an insured participant as defined in section 58 as it read immediately before that day.
-> 2015, c. 36, s. 155.
+**63.1** 
+
+- **(1)** If an agreement that is entered into with a government under section 63 provides for the payment of contributions for all or a portion of the costs of benefits provided by the government that are similar to employment benefits under this Part and the benefits to be provided by that government under the agreement are provided only for an ***insured participant*** as defined in section 58 as it read immediately before June 23, 2015, the text of which is set out in Schedule III, the contributions to be paid under the agreement shall be paid only for costs of benefits for an ***insured participant*** as defined in that section 58.
+
+**Application**
+
+- **(2)** Subsection (1) applies in respect of agreements entered into before, on or after the day on which this subsection comes into force.
+> 2015, c. 36, s. 155; 2016, c. 7, s. 218.
 
 
 
@@ -7439,5 +7446,30 @@ In addition, the person shall pay to the Receiver General, on or before the pers
 
 
 
+
+
+
+
+### **SCHEDULE III** 
+**(Subsections 63(2) and 63.1(1))**
+## Text of Section 58 as It Read Before June 23, 2015
+
+**Definition of insured participants**
+
+**58** 
+
+- **(1)** In this Part, ***insured participant*** means an insured person who requests assistance under employment benefits and, when requesting the assistance, is an unemployed person
+	- **(a)** for whom a benefit period is established or whose benefit period has ended within the previous 36 months; or
+	- **(b)** for whom a benefit period has been established in the previous 60 months and who
+		- **(i)** was paid special benefits under section 22 or 23 during the benefit period,
+		- **(ii)** subsequently withdrew from active participation in the labour force to care for one or more of their new-born children or one or more children placed with them for the purpose of adoption, and
+		- **(iii)** is seeking to re-enter the labour force.
+
+**Interpretation**
+
+- **(2)** For the purposes of subsection (1), ***benefit period*** includes a benefit period established under the Unemployment Insurance Act and ***special benefits*** includes benefits under sections 18 and 20 of that Act.
+
+
+> 2016, c. 7, s. 224.
 
 
