@@ -603,7 +603,7 @@ the acquisition is deemed to cause the person to increase a substantial investme
 
 **22** 
 
-- **(1)** Subject to subsections (2) and (4), associations shall not carry on business after the day that is the fifth anniversary of the day on which this section comes into force.
+- **(1)** Subject to subsections (2) and (4), associations shall not carry on business after March 29, 2019.
 
 **Extension**
 
@@ -613,10 +613,10 @@ the acquisition is deemed to cause the person to increase a substantial investme
 
 - **(3)** The order is not a regulation for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md). However, it shall be published in Part II of the Canada Gazette.
 
-**Exception**
+**Exception — dissolution**
 
-- **(4)** If Parliament dissolves on the fifth anniversary of the day on which this section comes into force, on any day within the six-month period before that anniversary or on any day within an extension under subsection (2), associations may continue to carry on business until the end of 180 days after the first day of the first session of the next Parliament.
-> 1991, c. 48, s. 22; 1997, c. 15, s. 116; 2001, c. 9, s. 254; 2006, c. 4, s. 200; 2007, c. 6, s. 138; 2012, c. 5, s. 105.
+- **(4)** If Parliament dissolves on March 29, 2019 or on any day within the six-month period before that date or on any day within an extension ordered under subsection (2), associations may continue to carry on business until the end of the 180th day after the first day of the first session of the next Parliament.
+> 1991, c. 48, s. 22; 1997, c. 15, s. 116; 2001, c. 9, s. 254; 2006, c. 4, s. 200; 2007, c. 6, s. 138; 2012, c. 5, s. 105; 2016, c. 7, s. 122.
 
 
 
@@ -10427,7 +10427,7 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 	- **(a)** is of the opinion that the order would relate to
 		- **(i)** the acquisition, holding, sale or other disposition of, or other dealing with, shares of an association by, or the transfer or issue of shares of an association to, Her Majesty in right of Canada or Her Majesty’s agent or agency, or
 		- **(ii)** the management of the business and affairs or the regulation and supervision of an association during the time that Her Majesty or Her Majesty’s agent or agency is acquiring, holding, selling or otherwise disposing of, or otherwise dealing with, shares of the association, or during the time that shares of the association are transferred or issued to Her Majesty or Her Majesty’s agent or agency; and
-	- **(b)** is of the opinion — after considering measures other than an order under that subsection and after consulting with the Superintendent, the Governor of the Bank of Canada and the Chairperson of the Canada Deposit Insurance Corporation — that the order will promote the stability of the financial system in Canada.
+	- **(b)** is of the opinion — after considering measures other than an order under that subsection and after consulting with the Superintendent, the Governor of the Bank of Canada and the Chief Executive Officer of the Canada Deposit Insurance Corporation — that the order will promote the stability of the financial system in Canada.
 
 **Terms and conditions**
 
@@ -10480,7 +10480,7 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 **Definition of shares**
 
 - **(14)** For the purposes of this section, ***shares*** includes membership shares and any conversion or exchange privilege, option or right to acquire shares or membership shares.
-> 2009, c. 2, s. 279.
+> 2009, c. 2, s. 279; 2016, c. 7, s. 177.
 
 
 
