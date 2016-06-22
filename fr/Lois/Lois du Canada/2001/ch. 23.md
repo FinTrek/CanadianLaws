@@ -199,8 +199,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Nomination des administrateurs**
 
 - **(2)** Sous réserve du paragraphe (4), le conseil se compose des personnes suivantes :
-	- **a)** le président, nommé par le gouverneur en conseil sur la recommandation du ministre, conformément à la proposition du ministre des Ressources naturelles et du ministre de l’Environnement, après consultation du ministre de l’Industrie;
-	- **b)** six personnes nommées par le gouverneur en conseil sur la recommandation du ministre, conformément à la proposition du ministre des Ressources naturelles et du ministre de l’Environnement, après consultation du ministre de l’Industrie;
+	- **a)** le président, nommé par le gouverneur en conseil sur la recommandation du ministre;
+	- **b)** six personnes nommées par le gouverneur en conseil sur la recommandation du ministre;
 	- **c)** huit personnes nommées par les membres en conformité avec le paragraphe 13(5) et les règlements administratifs de la Fondation.
 
 **Inadmissibilité**
@@ -226,7 +226,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Indépendance**
 
 - **(6)** La conduite des affaires de la Fondation dans les circonstances prévues au paragraphe (4) n’a pas pour effet de laisser entendre, malgré le paragraphe 83(2) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), que la Fondation, pour l’application de la partie X de cette loi ou à toute autre fin, appartient directement, à cent pour cent, à Sa Majesté du chef du Canada.
-> 2001, ch. 23, art. 9 et 38.
+> 2001, ch. 23, art. 9 et 38; 2016, ch. 7, art. 237.
 
 
 
