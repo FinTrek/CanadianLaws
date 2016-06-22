@@ -1228,6 +1228,33 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Acquisition des actions**
+
+**209.1** 
+
+- **(1)** Pour l’application de l’alinéa 90(1)b) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), le ministre de l’Infrastructure, des Collectivités et des Affaires intergouvernementales peut acquérir les actions de la société PPP Canada Inc.
+
+**Actions détenues par le ministre compétent**
+
+- **(2)** Le ministre compétent détient les actions acquises.
+
+**Ministre compétent — autres opérations**
+
+- **(3)** Le ministre compétent peut, avec l’approbation du gouverneur en conseil, effectuer toute opération visée à l’un des alinéas 90(1)c) à e) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) à l’égard de la société PPP Canada Inc.
+
+**Autorisation — société d’État mère**
+
+- **(4)** La société PPP Canada Inc. peut, avec l’approbation du gouverneur en conseil, vendre ou, d’une façon générale, céder la totalité ou la quasi-totalité de ses actifs.
+
+**Autorisation — filiales à cent pour cent**
+
+- **(5)** Toute personne morale, membre d’un groupement composé de la société PPP Canada Inc. et de ses filiales à cent pour cent, peut, avec l’approbation du gouverneur en conseil, vendre ou, d’une façon générale, céder les parties de ses actifs qui représentent la totalité ou la quasi-totalité des actifs du groupement.
+> 2016, ch. 7, art. 233.
+
+
+
+
+
 **Statut de la société PPP Canada Inc.**
 
 **210** Sous réserve des autres dispositions de la présente section, la société PPP Canada Inc., constituée sous le régime de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md), n’est pas mandataire de Sa Majesté du chef du Canada.
@@ -1240,7 +1267,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **211** La société PPP Canada Inc. est mandataire de Sa Majesté du chef du Canada à l’égard des activités suivantes :
 - **a)** évaluer des possibilités de partenariats public-privé pour le compte des ministères et sociétés d’État en conformité avec les critères établis par le Conseil du Trésor;
 - **b)** donner des conseils aux ministères et sociétés d’État sur l’exécution de projets de partenariats public-privé;
-- **c)** agir comme source d’aide et de conseils auprès des ministères et sociétés d’État relativement aux questions liées aux partenariats public-privé.
+- **c)** agir comme source d’aide et de conseils auprès des ministères et sociétés d’État relativement aux questions liées aux partenariats public-privé;
+- **d)** mener toute activité précisée par décret pris en vertu de l’article 211.1.
+> 2012, ch. 19, art. 211; 2016, ch. 7, art. 234.
+
+
+
+
+
+**Décret**
+
+**211.1** Le gouverneur en conseil peut, par décret, préciser toute activité à l’égard de laquelle la société PPP Canada Inc. est mandataire de Sa Majesté du chef du Canada.
+> 2016, ch. 7, art. 235.
+
 
 
 
@@ -1251,12 +1290,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Restrictions**
-
-**213** Ni la société PPP Canada Inc. ni ses actionnaires et administrateurs ne peuvent, sans l’approbation préalable du gouverneur en conseil donnée sur recommandation du ministre compétent et du Conseil du Trésor :
-- **a)** demander la prorogation de la société sous le régime d’une autre autorité législative;
-- **b)** demander des statuts qui modifieraient de façon importante, notamment par ajout, les buts pour lesquels la société PPP Canada Inc. a été constituée ou les restrictions à l’égard des activités qu’elle peut exercer, tels qu’ils figurent dans ses statuts.
+**213** [Abrogé, 2016, ch. 7, art. 236]
 
 
 
