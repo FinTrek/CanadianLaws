@@ -596,6 +596,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Sommes versées à la Corporation Place du Canada**
+
+**25.2** Malgré l’article 25, le ministre du Patrimoine canadien peut verser des sommes à la Corporation Place du Canada pour les célébrations de la fête du Canada et pour celles soulignant le 150<sup>e</sup> anniversaire de la Confédération.
+> 2016, ch. 7, art. 232.
+
+
+
+
+
 **Interdiction de garanties**
 
 **26** Il ne peut être accordé de garantie fournie avec l’approbation du Parlement, par Sa Majesté ou en son nom pour l’exécution d’une obligation d’une administration portuaire ou d’une filiale à cent pour cent d’une administration portuaire même si l’administration portuaire ou la filiale est mandataire de Sa Majesté du chef du Canada au titre de l’article 7.
