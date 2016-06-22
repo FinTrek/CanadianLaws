@@ -637,7 +637,11 @@ cet autre employeur est réputé être une société associée à l’employeur 
 
 **200** 
 
-- **(1)** Toute personne qui effectue un paiement visé au paragraphe 153(1) de la Loi, sauf un paiement de rente relatif à un intérêt dans un contrat de rente auquel s’applique le paragraphe 201(5), doit remplir une déclaration de renseignements selon le formulaire prescrit à l’égard de tout paiement ainsi effectué, à moins qu’une telle déclaration n’ait été remplie en application des articles 202, 214, 237 ou 238.
+- **(1)** Sous réserve du paragraphe (1.1), toute personne qui effectue un paiement visé au paragraphe 153(1) de la Loi (y compris une somme versée qui est visée au sous-alinéa 153(1)a)(ii) de la Loi) doit remplir une déclaration de renseignements selon le formulaire prescrit à l’égard de tout paiement effectué, à moins qu’une telle déclaration n’ait été remplie en application des articles 202, 214, 237 ou 238.
+
+- **(1.1)** Le paragraphe (1) ne s’applique pas relativement aux sommes suivantes :
+	- **a)** une somme versée à titre de paiement de rente relatif à un intérêt dans un contrat de rente auquel le paragraphe 201(5) s’applique;
+	- **b)** une somme qui est versée par un employeur non-résident admissible à un employé non-résident admissible et qui est visée par l’exception prévue au sous-alinéa 153(1)a)(ii) de la Loi, si l’employeur, après enquête sérieuse, n’a aucune raison de croire que le total du revenu imposable de l’employé gagné au Canada en vertu de la partie I de la Loi au cours de l’année civile qui comprend le moment de ce versement (y compris une somme visée à l’alinéa 110(1)f) de la Loi) dépasse 10 000 $.
 
 - **(2)** Une personne qui effectue un paiement à titre ou au titre, ou qui accorde un avantage ou attribue un montant sous la forme
 	- **a)** d’une bourse d’études, d’une bourse de perfectionnement (*fellowship*) ou d’une récompense couronnant une oeuvre remarquable réalisée dans le domaine d’activité habituel du bénéficiaire — à l’exclusion d’une récompense visée à l’article 7700 —,
@@ -664,7 +668,7 @@ doit remplir à l’égard de ce paiement ou de cet avantage une déclaration de
 - **(5)** Lorsqu’une personne admissible donnée (au sens du paragraphe 7(7) de la Loi) est convenue d’émettre ou de vendre l’un de ses titres (au sens du même paragraphe), ou un titre d’une personne admissible avec laquelle elle a un lien de dépendance, à un contribuable qui est l’un de ses employés ou un employé d’une personne admissible avec laquelle elle a un lien de dépendance et que le contribuable a acquis le titre aux termes de la convention dans les circonstances visées au paragraphe 7(8) de la Loi, la personne admissible donnée, la personne admissible dont le titre est acquis et la personne admissible qui est l’employeur du contribuable sont chacune tenues de remplir, pour l’année d’imposition donnée au cours de laquelle le titre est acquis, une déclaration de renseignements sur le formulaire prescrit concernant l’avantage tiré d’un emploi que le contribuable serait réputé avoir reçu au cours de l’année donnée relativement à l’acquisition du titre s’il n’était pas tenu compte du paragraphe 7(8) de la Loi. À cette fin, la déclaration de renseignements remplie par l’une des personnes admissibles relativement à l’acquisition du titre par le contribuable est réputée avoir été remplie par l’ensemble de ces personnes.
 
 - **(6)** La personne qui effectue un paiement à titre ou au titre d’un montant qui doit être inclus dans le calcul du revenu d’un contribuable en vertu du paragraphe 56(6) de la Loi doit remplir à l’égard de tout paiement une déclaration de renseignements selon le formulaire prescrit.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-909, art. 1; DORS/79-939, art. 1; DORS/81-936, art. 1; DORS/83-866, art. 1; DORS/83-867, art. 1; DORS/88-165, art. 31(F); DORS/89-473, art. 1; DORS/94-686, art. 79(F); DORS/95-298, art. 2; DORS/99-17, art. 6; DORS/99-22, art. 3; DORS/2003-5, art. 1; DORS/2003-328, art. 1; DORS/2011-188, art. 1(F); DORS/2015-170, art. 1.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-909, art. 1; DORS/79-939, art. 1; DORS/81-936, art. 1; DORS/83-866, art. 1; DORS/83-867, art. 1; DORS/88-165, art. 31(F); DORS/89-473, art. 1; DORS/94-686, art. 79(F); DORS/95-298, art. 2; DORS/99-17, art. 6; DORS/99-22, art. 3; DORS/2003-5, art. 1; DORS/2003-328, art. 1; DORS/2011-188, art. 1(F); DORS/2015-170, art. 1; 2016, ch. 7, art. 55.
 
 
 
@@ -1139,8 +1143,8 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 ### Renseignements sur les retenues d’impôt
 
 
-**210** Toute personne qui fait un paiement visé à l’article 153 de la Loi ou qui verse ou crédite une somme visée à cet article ou aux parties XIII ou XIII.2 de la Loi ou qui est réputée, en vertu des parties I, XIII ou XIII.2 de la Loi, avoir versé ou crédité une telle somme est tenue, sur demande formelle expédiée en recommandé par le ministre, de remplir une déclaration de renseignements selon le formulaire prescrit. Cette déclaration doit renfermer les renseignements qui y sont exigés et doit être présentée au ministre dans le délai raisonnable précisé dans la lettre recommandée.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/88-165, art. 31(F); DORS/2011-188, art. 3.
+**210** Toute personne qui fait un paiement visé à l’article 153 de la Loi (y compris une somme versée qui est visée au sous-alinéa 153(1)a)(ii) de la Loi) ou qui verse ou crédite une somme visée à ces dispositions ou aux parties XIII ou XIII.2 de la Loi ou qui est réputée, en vertu des parties I, XIII ou XIII.2 de la Loi, avoir versé ou crédité une telle somme est tenue, sur demande formelle expédiée en recommandé par le ministre, de remplir une déclaration de renseignements selon le formulaire prescrit. Cette déclaration doit renfermer les renseignements qui y sont exigés et doit être présentée au ministre dans le délai raisonnable précisé dans la lettre recommandée.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/88-165, art. 31(F); DORS/2011-188, art. 3; 2016, ch. 7, art. 56.
 
 
 
@@ -13584,8 +13588,8 @@ si la contrepartie totale à recevoir à la conversion ou à l’échange du tit
 
 
 
-**6701.1** Malgré l’article 6701, la société qui présente, après le 20 mars 2013, une demande d’agrément conformément à une loi provinciale figurant à cet article n’est pas une société à capital de risque de travailleurs visée pour l’application de la définition de ***action approuvée*** au paragraphe 127.4(1) de la Loi et de la définition de ***placement admissible*** au paragraphe 204.8(1) de la Loi.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2013, ch. 40, art. 113.
+**6701.1** [Abrogé, 2016, ch. 7, art. 57]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2013, ch. 40, art. 113; 2016, ch. 7, art. 57.
 
 
 
@@ -14785,14 +14789,14 @@ les règles suivantes s’appliquent :
 ### Établissements stables
 
 
-**8201** Pour l’application du paragraphe 16.1(1), de la définition de ***dettes impayées envers des non-résidents déterminés*** au paragraphe 18(5), des paragraphes 100(1.3) ou 112(2), de la définition de ***organisme de transport canadien admissible*** au paragraphe 118.02(1), des paragraphes 125.4(1) et 125.5(1), de la définition de ***fournisseur imposable*** au paragraphe 127(9), du sous-alinéa 128.1(4)b)(ii), des alinéas 181.3(5)a) et 190.14(2)b), de la définition de ***entreprise bancaire canadienne*** au paragraphe 248(1) et de l’alinéa 260(5)a) de la Loi, ***établissement stable*** d’une personne ou d’une société de personnes (appelées « personne » au présent article) s’entend de son lieu fixe d’affaires, y compris un bureau, une succursale, une mine, un puits de pétrole, une exploitation agricole, une terre à bois, une usine, un atelier ou un entrepôt ou, à défaut d’un tel lieu, de l’endroit principal où elle exerce ses activités. Toutefois :
+**8201** Pour l’application du paragraphe 16.1(1), de la définition de ***dettes impayées envers des non-résidents déterminés*** au paragraphe 18(5), des paragraphes 100(1.3) ou 112(2), de la définition de ***organisme de transport canadien admissible*** au paragraphe 118.02(1), des paragraphes 125.4(1) et 125.5(1), de la définition de ***fournisseur imposable*** au paragraphe 127(9), du sous-alinéa 128.1(4)b)(ii), des alinéas 181.3(5)a) et 190.14(2)b), des définitions de ***entreprise bancaire canadienne*** et ***investisseur indifférent relativement à l’impôt*** au paragraphe 248(1) et de l’alinéa 260(5)a) de la Loi, l’***établissement stable*** d’une personne ou d’une société de personnes (appelées ***personne*** au présent article) s’entend de son lieu fixe d’affaires, y compris un bureau, une succursale, une mine, un puits de pétrole, une exploitation agricole, une terre à bois, une usine, un atelier ou un entrepôt ou, à défaut d’un tel lieu, de l’endroit principal où elle exerce ses activités. Toutefois :
 - **a)** si la personne exploite une entreprise par l’intermédiaire d’un employé ou d’un mandataire, établi à un endroit donné, qui a l’autorisation générale de passer des contrats pour la personne ou qui dispose d’un stock de marchandises appartenant à celle-ci et à partir duquel il remplit régulièrement les commandes, son établissement stable est réputé situé à cet endroit;
 - **b)** si la personne est une compagnie d’assurance, elle est réputée avoir un établissement stable dans chaque pays où elle est enregistrée ou détient un permis d’exercice;
 - **c)** si la personne utilise des machines ou du matériel importants dans un endroit donné au cours d’une année d’imposition, son établissement stable est réputé situé à cet endroit;
 - **d)** le fait que la personne a des relations d’affaires par l’intermédiaire d’un agent à commission, d’un courtier ou d’un autre agent indépendant ou tient un bureau dans le seul but d’acheter des marchandises ne signifie pas en soi qu’elle a un établissement stable;
 - **e)** si la personne est une société, le fait qu’elle a une filiale contrôlée qui est située dans un endroit donné ou qui exploite un commerce ou une entreprise dans un endroit donné ne signifie pas en soi qu’elle exploite un établissement stable à cet endroit.
-Par ailleurs, si la personne réside dans un pays qui a conclu avec le Canada un traité fiscal dans lequel le terme « établissement stable » a un sens particulier, ce terme a ce sens.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-140, art. 15; DORS/94-686, art. 41(F); DORS/2000-62, art. 4; DORS/2005-264, art. 15; DORS/2010-93, art. 25; 2012, ch. 31, art. 68; 2013, ch. 34, art. 49 et 427.
+Par ailleurs, si la personne réside dans un pays qui a conclu avec le Canada un traité fiscal dans lequel le terme ***établissement stable*** a un sens particulier, ce terme a ce sens.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-140, art. 15; DORS/94-686, art. 41(F); DORS/2000-62, art. 4; DORS/2005-264, art. 15; DORS/2010-93, art. 25; 2012, ch. 31, art. 68; 2013, ch. 34, art. 49 et 427; 2016, ch. 7, art. 58.
 
 
 
@@ -19842,6 +19846,24 @@ où :
 - **b)** sont faits en contrepartie de services administratifs fournis à la fiducie ou à ses bénéficiaires, ou en leur nom, ou en remboursement de prestations aux employés versées au nom de la fiducie ou en prévision de son établissement;
 - **c)** d’après l’attestation écrite du bénéficiaire, seront inclus dans le calcul de son revenu pour l’année où ils sont à recevoir, dans la mesure où le bénéficiaire déduit au cours de l’année, ou a déduit au cours d’une année antérieure, dans le calcul de son revenu des sommes au titre des services ou des prestations visés à l’alinéa b).
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2010, ch. 25, art. 87.
+
+
+
+
+
+**PARTIE XCVI** 
+## Crédit d’impôt pour fournitures scolaires
+
+
+
+**Biens durables visés**
+
+**9600** Sont des biens durables visés pour l’application de la définition de ***fournitures scolaires*** au paragraphe 122.9(1) de la Loi les biens suivants :
+- **a)** des livres;
+- **b)** des jeux et casse-têtes;
+- **c)** des contenants (telles des boîtes en plastique ou des boîtes de rangement);
+- **d)** des logiciels de soutien éducatifs.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2016, ch. 7, art. 60.
 
 
 
