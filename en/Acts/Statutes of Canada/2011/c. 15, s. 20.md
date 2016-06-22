@@ -274,7 +274,7 @@ Assented to on 26 June 2011
 
 **Disclosure of information**
 
-- **(3)** The Minister and the Superintendent may disclose to each other any information or copies of any books or records received under subsection (2) and may also disclose them to the Governor of the Bank of Canada, the Chairperson of the Canada Deposit Insurance Corporation and the Commissioner of the Financial Consumer Agency of Canada.
+- **(3)** The Minister and the Superintendent may disclose to each other any information or copies of any books or records received under subsection (2) and may also disclose them to the Governor of the Bank of Canada, the Chief Executive Officer of the Canada Deposit Insurance Corporation and the Commissioner of the Financial Consumer Agency of Canada.
 
 **Disclosure of conditions and undertakings**
 
@@ -283,6 +283,8 @@ Assented to on 26 June 2011
 **Public information**
 
 - **(5)** An approved mortgage insurer must make available to the public prescribed books, records and information.
+> 2011, c. 15, s. 20 “15”; 2016, c. 7, s. 179.
+
 
 
 
