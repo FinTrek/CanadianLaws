@@ -265,7 +265,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**59** [Modifications]
+**59** 
+
+- **(1)** [Abrogé, 2016, ch. 7. art. 61]
+
+- **(2) et (3)** [Modifications]
+
+- **(4)** [Abrogé, 2016, ch. 7. art. 61]
+
+- **(5)** [Modification]
+
+- **(6) et (7)** [Abrogés, 2016, ch. 7. art. 61]
+
+- **(8) à (10)** [Modifications]
 
 
 
