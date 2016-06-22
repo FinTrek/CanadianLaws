@@ -35,7 +35,9 @@
 
 ***accord de sauvetage*** Accord établissant un calendrier de capitalisation approuvé par le ministre au titre de l’article 29.3. (*workout agreement*)
 
-***accord multilatéral*** Accord conclu en vertu du paragraphe 6.1(1). (*multilateral agreement*)
+***accord fédéral-provincial*** Accord conclu en vertu du paragraphe 6.1(1). (*federal-provincial agreement*) 
+
+***accord multilatéral***[Abrogée, 2016, ch. 7, art. 201]
 
 ***actuaire*** Fellow de l’Institut canadien des actuaires. (*actuary*)
 
@@ -124,7 +126,7 @@
 - **a)** celles qui portent sur les prestations de pension accumulées au titre d’un emploi avant la prise d’effet du régime;
 - **b)** celles qui assurent des prestations de pension minimales sans valeur additionnelle importante selon le surintendant. (*defined contribution plan*)
 
-***régime à cotisations négociées*** Régime interentreprises qui prévoit au moins une disposition à prestations déterminées et dans le cadre duquel, d’une part, les cotisations de l’employeur participant sont limitées à la somme fixée conformément à un accord entre les employeurs participants, à une convention collective, à une loi ou à un règlement et, d’autre part, cette somme ne varie pas en fonction des critères et normes de solvabilité réglementaires visés au paragraphe 9(1) . (*negotiated contribution plan*)
+***régime à cotisations négociées*** Régime interentreprises qui prévoit au moins une disposition à prestations déterminées et dans le cadre duquel, d’une part, les cotisations de l’employeur participant sont limitées à la somme fixée conformément à un accord entre les employeurs participants, à une convention collective, à une loi ou à un règlement et, d’autre part, cette somme ne varie pas en fonction des critères et normes de solvabilité réglementaires visés au paragraphe 9(1). (*negotiated contribution plan*)
 
 ***régime agréé*** Régime de pension dont l’agrément est constaté par certificat délivré par le surintendant au titre de la présente loi. (*registered pension plan*)
 
@@ -166,7 +168,7 @@
 **Régime à cotisations négociées**
 
 - **(5)** Est réputé demeurer un régime à cotisations négociées pour une période d’un an à compter de la date où il n’en est plus un, ou pour la période plus longue précisée par le surintendant, le régime de pension qui était un régime à cotisations négociées au moment de son institution mais qui n’en est plus un soit parce qu’il ne compte plus qu’un seul employeur participant, soit parce que plus de quatre-vingt-quinze pour cent des participants sont des salariés d’employeurs participants dotés de la personnalité morale et appartenant au même groupe au sens de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md).
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 2, ch. 18 (3<sup>e</sup> suppl.), art. 38; 1994, ch. 24, art. 34(F); 1998, ch. 12, art. 1; 2000, ch. 12, art. 254; 2001, ch. 34, art. 66; 2010, ch. 12, art. 1786, 1824(F) et 1825(A), ch. 25, art. 179.
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 2, ch. 18 (3<sup>e</sup> suppl.), art. 38; 1994, ch. 24, art. 34(F); 1998, ch. 12, art. 1; 2000, ch. 12, art. 254; 2001, ch. 34, art. 66; 2010, ch. 12, art. 1786, 1824(F) et 1825(A), ch. 25, art. 179; 2016, ch. 7, art. 201.
 
 
 
@@ -251,12 +253,12 @@
 	- **a)** recueillir les renseignements permettant d’apprécier les révisions, en particulier celles liées à l’inflation, apportées aux prestations de pension;
 	- **b)** procéder à des études, sondages ou recherches et recueillir des données statistiques ou autres relatives aux régimes de pension et à leur fonctionnement;
 	- **c)** communiquer les renseignements recueillis en application des alinéas a) ou b) ou du paragraphe 9.01(6) ou déposés au titre du paragraphe 9.01(5) ou des articles 10, 10.1 ou 12 à tout organisme public, notamment un organisme de réglementation;
-	- **d)** aux fins de mise en oeuvre d’un accord multilatéral, recueillir des renseignements auprès de l’autorité de surveillance des pensions d’une province désignée et lui en communiquer.
+	- **d)** aux fins de mise en oeuvre d’un accord fédéral-provincial, recueillir des renseignements auprès de l’autorité de surveillance des pensions d’une province désignée et lui en communiquer.
 
 **Conditions**
 
 - **(3)** Il peut assortir de conditions tout agrément qu’il donne en vertu du paragraphe 9.2(10) et tout consentement, autorisation ou approbation qu’il donne en vertu de la présente loi.
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 5; 1998, ch. 12, art. 3; 2010, ch. 12, art. 1788, ch. 25, art. 180.
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 5; 1998, ch. 12, art. 3; 2010, ch. 12, art. 1788, ch. 25, art. 180; 2016, ch. 7, art. 202.
 
 
 
@@ -265,30 +267,24 @@
 ## Accords
 
 
-
-**Accord bilatéral**
-
-**6** Le ministre peut, avec l’approbation du gouverneur en conseil, conclure un accord bilatéral avec toute province désignée afin d’autoriser :
-- **a)** l’autorité de surveillance des pensions de la province à exercer toute attribution que la présente loi confère au surintendant;
-- **b)** le surintendant à exercer toute attribution de cette autorité.
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 6; 1998, ch. 12, art. 4; 2010, ch. 25, art. 181.
+**6** [Abrogé, 2016, ch. 7, art. 203]
 
 
 
 
-
-**Accord multilatéral**
+**Une ou plusieurs provinces désignées**
 
 **6.1** 
 
-- **(1)** Le ministre peut, avec l’approbation du gouverneur en conseil, conclure avec plusieurs provinces désignées un accord concernant toute question liée aux régimes de pension qui sont assujettis à la législation sur les pensions d’au moins une province désignée qui est partie à l’accord.
+- **(1)** Le ministre peut, avec l’approbation du gouverneur en conseil, conclure avec une ou plusieurs provinces désignées un accord concernant toute question liée aux régimes de pension qui sont assujettis à la législation sur les pensions d’au moins une province désignée qui est partie à l’accord.
 
 **Contenu**
 
-- **(2)** L’accord multilatéral peut notamment :
+- **(2)** L’accord fédéral-provincial peut notamment :
 	- **a)** restreindre l’application de la législation sur les pensions d’une province désignée qui est partie à l’accord à un régime de pension et adapter cette législation à ce régime;
 	- **b)** restreindre l’application de la présente loi et des règlements à un régime de pension et les adapter à ce régime;
 	- **c)** soustraire un régime de pension à l’application de la présente loi et des règlements ou à la législation sur les pensions d’une province désignée qui est partie à l’accord;
+	- **c.1)** rendre applicable à l’égard d’un régime de pension la législation sur les pensions d’une province désignée qui est partie à l’accord;
 	- **d)** régir l’exécution et le contrôle d’application de la présente loi, des règlements et de la législation sur les pensions de toute province désignée qui est partie à l’accord;
 	- **e)** autoriser l’autorité de surveillance des pensions d’une province désignée qui est partie à l’accord ou l’association visée à l’article 6.4 à exercer toute attribution que la présente loi confère au surintendant;
 	- **f)** autoriser le surintendant à exercer toute attribution de l’autorité de surveillance des pensions d’une province désignée qui est partie à l’accord ou de l’association visée à l’article 6.4;
@@ -297,19 +293,19 @@
 
 **Dépôt au Parlement**
 
-- **(3)** Le ministre fait déposer devant chaque chambre du Parlement tout accord multilatéral.
+- **(3)** Le ministre fait déposer devant chaque chambre du Parlement tout accord fédéral-provincial.
 
 **Publication dans la Gazette du Canada**
 
-- **(4)** Le ministre fait publier dans la Gazette du Canada :
-	- **a)** l’accord multilatéral et un avis de la date de sa prise d’effet à l’égard des régimes de pension;
-	- **b)** toute modification apportée à l’accord multilatéral et un avis de la date de sa prise d’effet à l’égard des régimes de pension;
-	- **c)** un avis de la date de prise d’effet de la dénonciation, par le gouvernement du Canada, de l’accord multilatéral ou, si elle est antérieure, de sa résiliation.
+- **(4)** Le ministre fait publier dans la Gazette du Canada :
+	- **a)** l’accord fédéral-provincial et un avis de la date de sa prise d’effet à l’égard des régimes de pension;
+	- **b)** toute modification apportée à l’accord fédéral-provincial et un avis de la date de sa prise d’effet à l’égard des régimes de pension;
+	- **c)** un avis de la date de prise d’effet de la dénonciation, par le gouvernement du Canada, de l’accord fédéral-provincial ou, si elle est antérieure, de sa résiliation.
 
 **Accessibilité**
 
-- **(5)** En plus de les faire publier dans la Gazette du Canada, le ministre veille à ce que l’accord multilatéral et toute modification apportée à celui-ci soient accessibles au public par Internet ou par tout autre moyen qu’il estime indiqué.
-> 2010, ch. 25, art. 181.
+- **(5)** En plus de les faire publier dans la Gazette du Canada, le ministre veille à ce que l’accord fédéral-provincial et toute modification apportée à celui-ci soient accessibles au public par Internet ou par tout autre moyen qu’il estime indiqué.
+> 2010, ch. 25, art. 181; 2016, ch. 7, art. 204.
 
 
 
@@ -319,12 +315,12 @@
 
 **6.2** 
 
-- **(1)** Les dispositions de l’accord multilatéral — à l’exception de celles soustraites par règlement à l’application du présent paragraphe — ont force de loi pendant la période où l’accord s’applique à l’égard des régimes de pension et sont exécutoires, durant cette période, comme si elles faisaient partie de la présente loi.
+- **(1)** Les dispositions de l’accord fédéral-provincial — à l’exception de celles soustraites par règlement à l’application du présent paragraphe — ont force de loi pendant la période où l’accord s’applique à l’égard des régimes de pension et sont exécutoires, durant cette période, comme si elles faisaient partie de la présente loi.
 
 **Primauté de l’accord**
 
-- **(2)** En cas d’incompatibilité, les dispositions de l’accord multilatéral qui ont force de loi l’emportent sur les dispositions de la présente loi et des règlements.
-> 2010, ch. 25, art. 181.
+- **(2)** En cas d’incompatibilité, les dispositions de l’accord fédéral-provincial qui ont force de loi l’emportent sur les dispositions de la présente loi et des règlements.
+> 2010, ch. 25, art. 181; 2016, ch. 7, art. 205.
 
 
 
@@ -334,12 +330,12 @@
 
 **6.3** 
 
-- **(1)** La décision de l’autorité de surveillance des pensions d’une province désignée qui est rendue au titre d’un accord multilatéral et qui porte sur l’application de la présente loi ou des règlements est assimilée à celle d’un office fédéral au sens du paragraphe 2(1) de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md) et est susceptible de révision judiciaire au titre de cette loi.
+- **(1)** La décision de l’autorité de surveillance des pensions d’une province désignée qui est rendue au titre d’un accord fédéral-provincial et qui porte sur l’application de la présente loi ou des règlements est assimilée à celle d’un ***office fédéral*** au sens du paragraphe 2(1) de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md) et est susceptible de révision judiciaire au titre de cette loi.
 
 **Pas de compétence**
 
-- **(2)** La décision du surintendant qui est rendue au titre d’un accord multilatéral et qui porte sur l’application de la législation sur les pensions d’une province désignée est assimilée à celle de l’autorité de surveillance des pensions de cette province et n’est pas susceptible de révision judiciaire au titre de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md).
-> 2010, ch. 25, art. 181.
+- **(2)** La décision du surintendant qui est rendue au titre d’un accord fédéral-provincial et qui porte sur l’application de la législation sur les pensions d’une province désignée est assimilée à celle de l’autorité de surveillance des pensions de cette province et n’est pas susceptible de révision judiciaire au titre de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md).
+> 2010, ch. 25, art. 181; 2016, ch. 7, art. 205.
 
 
 
@@ -347,8 +343,8 @@
 
 **Association d’autorités de surveillance des pensions**
 
-**6.4** Le ministre peut, avec l’approbation du gouverneur en conseil, conclure avec toute province désignée un accord concernant la création et le fonctionnement au Canada d’une association d’autorités de surveillance des pensions.
-> 2010, ch. 25, art. 181.
+**6.4** Le ministre peut, avec l’approbation du gouverneur en conseil, conclure avec une ou plusieurs provinces désignées un accord concernant la création et le fonctionnement au Canada d’une association d’autorités de surveillance des pensions.
+> 2010, ch. 25, art. 181; 2016, ch. 7, art. 205.
 
 
 
@@ -2340,9 +2336,9 @@ L’administrateur prend sans délai les mesures voulues pour donner effet à l�
 	- **a)** régir les demandes d’agrément de régimes de pension;
 	- **a.1)** [Abrogé, 2012, ch. 16, art. 89]
 	- **b)** régir les droits à percevoir pour l’agrément de régimes de pension et pour la supervision, notamment l’inspection, des régimes de pension agréés;
-	- **b.1)** régir la mise en oeuvre d’un accord multilatéral;
-	- **b.2)** soustraire un accord multilatéral ou telle de ses dispositions à l’application du paragraphe 6.2(1);
-	- **b.3)** régir la transition à effectuer dans le cas où le gouvernement du Canada cesse d’être partie à un accord multilatéral;
+	- **b.1)** régir la mise en oeuvre d’un accord fédéral-provincial;
+	- **b.2)** soustraire un accord fédéral-provincial ou telle de ses dispositions à l’application du paragraphe 6.2(1);
+	- **b.3)** régir la transition à effectuer dans le cas où le gouvernement du Canada cesse d’être partie à un accord fédéral-provincial;
 	- **c)** prévoir les conditions dans lesquelles les droits à pension peuvent, si la participation du participant prend fin ou s’il y a cessation ou liquidation d’un régime, être détenus en fiducie par l’administrateur du régime ou transférés à l’administrateur d’un autre régime ou à un régime enregistré d’épargne-retraite prévu par règlement;
 	- **c.1)** régir le transfert de droits à pension de personnes introuvables et d’actifs liés à ces droits à l’entité désignée en vertu de l’article 10.3, notamment les circonstances où ils peuvent l’être et les conditions du transfert;
 	- **c.2)** régir l’entité désignée en vertu de l’article 10.3;
@@ -2403,7 +2399,7 @@ L’administrateur prend sans délai les mesures voulues pour donner effet à l�
 **Portée générale ou particulière**
 
 - **(3)** Les règlements d’application des paragraphes 8(4.1) et 9(1), des articles 9.11 à 9.15 et du paragraphe 10.1(2) peuvent être d’application générale ou viser plus spécifiquement un ou plusieurs régimes de pension.
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 39; 1998, ch. 12, art. 26; 2001, ch. 34, art. 76; 2007, ch. 35, art. 142; 2010, ch. 12, art. 1820, ch. 25, art. 196 et 198; 2012, ch. 16, art. 89.
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 39; 1998, ch. 12, art. 26; 2001, ch. 34, art. 76; 2007, ch. 35, art. 142; 2010, ch. 12, art. 1820, ch. 25, art. 196 et 198; 2012, ch. 16, art. 89; 2016, ch. 7, art. 206.
 
 
 
