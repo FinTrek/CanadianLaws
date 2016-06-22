@@ -1985,8 +1985,9 @@ plus de 13 %
 	- **(i)** d’une part, les circonstances dans lesquelles le prestataire qui quitte son emploi, dans le cadre d’une compression du personnel effectuée par l’employeur et ayant pour effet de protéger l’emploi d’autres employés, peut, malgré l’article 30, recevoir des prestations,
 	- **(ii)** d’autre part, en quoi consiste une compression du personnel pour l’application des règlements;
 - **z.3)** réduisant les prestations spéciales lorsque des allocations, prestations ou autres sommes sont payables à un prestataire en vertu d’un régime autre qu’un régime établi en vertu d’une loi provinciale;
+- **z.31)** supprimant les prestations spéciales devant être versées à un prestataire pour toute période qui constitue, au titre d’un régime autre qu’un régime établi en vertu d’une loi provinciale, un délai d’attente au cours duquel aucune prestation n’est à verser au prestataire dans le cadre du régime;
 - **z.4)** en vue de toute mesure d’ordre réglementaire prévue par l’article 2 ou la présente partie.
-> 1996, ch. 23, art. 54; 2003, ch. 15, art. 20; 2009, ch. 33, art. 9; 2012, ch. 19, art. 608, ch. 27, art. 19.
+> 1996, ch. 23, art. 54; 2003, ch. 15, art. 20; 2009, ch. 33, art. 9; 2012, ch. 19, art. 608, ch. 27, art. 19; 2016, ch. 7, art. 215.
 
 
 
@@ -2151,17 +2152,23 @@ plus de 13 %
 
 **Participants**
 
-- **(2)** Un accord peut être conclu en vertu du paragraphe (1) avec un gouvernement même si les prestations fournies par celui-ci le sont uniquement au bénéfice d’un participant au sens de l’article 58, dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
-> 1996, ch. 23, art. 63; 2015, ch. 36, art. 154.
+- **(2)** Un accord peut être conclu en vertu du paragraphe (1) avec un gouvernement même si les prestations fournies par celui-ci le sont uniquement au bénéfice d’un ***participant*** au sens de l’article 58, dans sa version antérieure au 23 juin 2015, dont le texte figure à l’annexe III.
+> 1996, ch. 23, art. 63; 2015, ch. 36, art. 154; 2016, ch. 7, art. 217.
 
 
 
 
 
-**Disposition transitoire**
+**Versement de contributions : participants**
 
-**63.1** La contribution à verser aux termes d’un accord conclu, avant la date d’entrée en vigueur du présent article, avec un gouvernement en vertu de l’article 63 et prévoyant le versement à celui-ci d’une contribution relative à tout ou partie des frais liés à des prestations similaires à celles prévues par la présente partie est versée uniquement pour les frais liés à des prestations qui sont au bénéfice d’un participant au sens de l’article 58, dans sa version antérieure à cette date.
-> 2015, ch. 36, art. 155.
+**63.1** 
+
+- **(1)** Lorsqu’un accord conclu avec un gouvernement en vertu de l’article 63 prévoit le versement à celui-ci d’une contribution relative à tout ou partie des frais liés à des prestations similaires à celles prévues par la présente partie et que les prestations à fournir par le gouvernement sont uniquement au bénéfice d’un ***participant*** au sens de l’article 58, dans sa version antérieure au 23 juin 2015, dont le texte figure à l’annexe III, la contribution est uniquement versée aux termes de l’accord pour les frais liés à des prestations qui sont au bénéfice du ***participant*** au sens de cet article 58.
+
+**Application**
+
+- **(2)** Le paragraphe (1) s’applique aux accords conclus avant ou après la date d’entrée en vigueur du présent paragraphe ou à cette date.
+> 2015, ch. 36, art. 155; 2016, ch. 7, art. 218.
 
 
 
@@ -7291,5 +7298,30 @@ Il est aussi tenu de verser au receveur général, au plus tard à la date d’e
 
 
 
+
+
+
+
+### **ANNEXE III** 
+**(paragraphes 63(2) et 63.1(1))**
+## Texte de l’article 58 dans sa version antérieure au 23 juin 2015
+
+**Définition de participant**
+
+**58** 
+
+- **(1)** Dans la présente partie, ***participant*** désigne l’assuré qui demande de l’aide dans le cadre d’une prestation d’emploi et qui, à la date de la demande, est un chômeur à l’égard de qui, selon le cas :
+	- **a)** une période de prestations a été établie ou a pris fin au cours des trente-six derniers mois;
+	- **b)** une période de prestations a été établie au cours des soixante derniers mois et qui :
+		- **(i)** a bénéficié de prestations spéciales, au titre de l’article 22 ou 23, au cours de la période de prestations,
+		- **(ii)** a subséquemment quitté le marché du travail pour prendre soin de son ou de ses nouveau-nés ou d’un ou plusieurs enfants placés chez lui en vue de leur adoption,
+		- **(iii)** tente de réintégrer le marché du travail.
+
+**Définition de période de prestations ou de prestations spéciales**
+
+- **(2)** Pour l’application du paragraphe (1), ***période de prestations*** s’entend en outre d’une période de prestations établie au titre de la Loi sur l’assurance-chômage et ***prestations spéciales*** s’entend en outre des prestations visées aux articles 18 ou 20 de cette loi.
+
+
+> 2016, ch. 7, art. 224.
 
 
