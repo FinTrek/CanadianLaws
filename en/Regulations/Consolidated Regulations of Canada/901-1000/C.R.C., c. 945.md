@@ -639,7 +639,11 @@ the other employer shall be deemed to be a corporation associated with the parti
 
 **200** 
 
-- **(1)** Every person who makes a payment described in subsection 153(1) of the Act (other than an annuity payment in respect of an interest in an annuity contract to which subsection 201(5) applies) shall make an information return in prescribed form in respect of the payment unless an information return in respect of the payment has been made under sections 202, 214, 237 or 238.
+- **(1)** Subject to subsection (1.1), every person who makes a payment described in subsection 153(1) of the Act (including an amount paid that is described in subparagraph 153(1)(a)(ii) of the Act) shall make an information return in prescribed form in respect of the payment unless an information return in respect of the payment has been made under sections 202, 214, 237 or 238.
+
+- **(1.1)** Subsection (1) does not apply in respect of
+	- **(a)** an annuity payment in respect of an interest in an annuity contract to which subsection 201(5) applies; or
+	- **(b)** an amount paid by a qualifying non-resident employer to a qualifying non-resident employee that is exempted under subparagraph 153(1)(a)(ii) of the Act if the employer, after reasonable inquiry, has no reason to believe that the employee’s total amount of taxable income earned in Canada under Part I of the Act during the calendar year that includes the time of this payment (including an amount described in paragraph 110(1)(f) of the Act) is more than $10,000.
 
 - **(2)** Every person who makes a payment as or on account of, or who confers a benefit or allocates an amount that is,
 	- **(a)** a scholarship, fellowship or bursary, or a prize for achievement in a field of endeavour ordinarily carried on by the recipient thereof (other than a prize prescribed by section 7700),
@@ -666,7 +670,7 @@ shall make an information return in prescribed form in respect of such payment o
 - **(5)** Where a particular qualifying person (within the meaning assigned by subsection 7(7) of the Act) has agreed to sell or issue a security (within the meaning assigned by that subsection) of the particular qualifying person (or of a qualifying person with which it does not deal at arm’s length) to a taxpayer who is an employee of the particular qualifying person (or of a qualifying person with which it does not deal at arm’s length) and the taxpayer has acquired the security under the agreement in circumstances to which subsection 7(8) of the Act applied, each of the particular qualifying person, the qualifying person of which the security is acquired and the qualifying person which is the taxpayer’s employer shall, for the particular taxation year in which the security is acquired, make an information return in the prescribed form in respect of the benefit from employment that the taxpayer would be deemed to have received in the particular taxation year in respect of the acquisition of the security if the Act were read without reference to subsection 7(8) and, for this purpose, an information return made by one of the qualifying persons in respect of the taxpayer’s acquisition of the security is deemed to have been made by each of the qualifying persons.
 
 - **(6)** Every person who makes a payment as or on account of an amount that is required by subsection 56(6) of the Act to be included in computing a taxpayer’s income shall make an information return in prescribed form in respect of that payment.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-909, s. 1; SOR/79-939, s. 1; SOR/81-936, s. 1; SOR/83-866, s. 1; SOR/83-867, s. 1; SOR/88-165, s. 31(F); SOR/89-473, s. 1; SOR/94-686, s. 79(F); SOR/95-298, s. 2; SOR/99-17, s. 6; SOR/99-22, s. 3; SOR/2003-5, s. 1; SOR/2003-328, s. 1; SOR/2011-188, s. 1(F); SOR/2015-170, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-909, s. 1; SOR/79-939, s. 1; SOR/81-936, s. 1; SOR/83-866, s. 1; SOR/83-867, s. 1; SOR/88-165, s. 31(F); SOR/89-473, s. 1; SOR/94-686, s. 79(F); SOR/95-298, s. 2; SOR/99-17, s. 6; SOR/99-22, s. 3; SOR/2003-5, s. 1; SOR/2003-328, s. 1; SOR/2011-188, s. 1(F); SOR/2015-170, s. 1; 2016, c. 7, s. 55.
 
 
 
@@ -1142,8 +1146,8 @@ shall, in addition to any other return required by the Act or these Regulations,
 ### Tax Deduction Information
 
 
-**210** Every person who makes a payment described in section 153 of the Act, or who pays or credits, or is deemed by any of Part I, XIII and XIII.2 of the Act to have paid or credited, an amount described in that section, Part XIII or XIII.2 of the Act, shall, on demand by registered letter from the Minister, make an information return in prescribed form containing the information required in the return and shall file the return with the Minister within such reasonable time as is stipulated in the registered letter.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/88-165, s. 31(F); SOR/2011-188, s. 3.
+**210** Every person who makes a payment described in section 153 of the Act (including an amount paid that is described in subparagraph 153(1)(a)(ii) of the Act), or who pays or credits, or is deemed by any of Part I, XIII and XIII.2 of the Act to have paid or credited, an amount described in that section, Part XIII or XIII.2 of the Act, shall, on demand by registered letter from the Minister, make an information return in prescribed form containing the information required in the return and shall file the return with the Minister within such reasonable time as is stipulated in the registered letter.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/88-165, s. 31(F); SOR/2011-188, s. 3; 2016, c. 7, s. 56.
 
 
 
@@ -13624,8 +13628,8 @@ is prescribed as a class of persons described in the laws of a province.
 
 
 
-**6701.1** Notwithstanding section 6701, a corporation that applies after March 20, 2013 for registration under a provincial act listed in that section is not a prescribed labour-sponsored venture capital corporation for the purposes of the definition ***approved share*** in subsection 127.4(1) of the Act and the definition ***eligible investment*** in subsection 204.8(1) of the Act.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2013, c. 40, s. 113.
+**6701.1** [Repealed, 2016, c. 7, s. 57]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2013, c. 40, s. 113; 2016, c. 7, s. 57.
 
 
 
@@ -14831,14 +14835,14 @@ the following rules apply:
 ### Permanent Establishments
 
 
-**8201** For the purposes of subsection 16.1(1), the definition ***outstanding debts to specified non-residents*** in subsection 18(5), subsections 100(1.3) and 112(2), the definition ***qualified Canadian transit organization*** in subsection 118.02(1), subsections 125.4(1) and 125.5(1), the definition ***taxable supplier*** in subsection 127(9), subparagraph 128.1(4)(b)(ii), paragraphs 181.3(5)(a) and 190.14(2)(b), the definition ***Canadian banking business*** in subsection 248(1) and paragraph 260(5)(a) of the Act, a ***permanent establishment*** of a person or partnership (either of whom is referred to in this section as the “person”) means a fixed place of business of the person, including an office, a branch, a mine, an oil well, a farm, a timberland, a factory, a workshop or a warehouse if the person has a fixed place of business and, where the person does not have any fixed place of business, the principal place at which the person’s business is conducted, and
+**8201** For the purposes of subsection 16.1(1), the definition ***outstanding debts to specified non-residents*** in subsection 18(5), subsections 100(1.3) and 112(2), the definition ***qualified Canadian transit organization*** in subsection 118.02(1), subsections 125.4(1) and 125.5(1), the definition ***taxable supplier*** in subsection 127(9), subparagraph 128.1(4)(b)(ii), paragraphs 181.3(5)(a) and 190.14(2)(b), the definitions ***Canadian banking business*** and ***tax-indifferent investor*** in subsection 248(1) and paragraph 260(5)(a) of the Act, a ***permanent establishment*** of a person or partnership (either of whom is referred to in this section as the ***person***) means a fixed place of business of the person, including an office, a branch, a mine, an oil well, a farm, a timberland, a factory, a workshop or a warehouse if the person has a fixed place of business and, where the person does not have any fixed place of business, the principal place at which the person’s business is conducted, and
 - **(a)** where the person carries on business through an employee or agent, established in a particular place, who has general authority to contract for the person or who has a stock of merchandise owned by the person from which the employee or agent regularly fills orders, the person shall be deemed to have a permanent establishment at that place,
 - **(b)** where the person is an insurance corporation, the person is deemed to have a permanent establishment in each country in which the person is registered or licensed to do business,
 - **(c)** where the person uses substantial machinery or equipment at a particular place at any time in a taxation year, the person shall be deemed to have a permanent establishment at that place,
 - **(d)** the fact that the person has business dealings through a commission agent, broker or other independent agent or maintains an office solely for the purchase of merchandise shall not of itself be held to mean that the person has a permanent establishment, and
 - **(e)** where the person is a corporation, the fact that the person has a subsidiary controlled corporation at a place or a subsidiary controlled corporation engaged in trade or business at a place shall not of itself be held to mean that the person is operating a permanent establishment at that place,
-except that, where the person is resident in a country with which the Government of Canada has concluded a tax treaty in which the expression “permanent establishment” is given a particular meaning, that meaning shall apply.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-140, s. 15; SOR/94-686, s. 41(F); SOR/2000-62, s. 4; SOR/2005-264, s. 15; SOR/2010-93, s. 25; 2012, c. 31, s. 68; 2013, c. 34, ss. 49, 427.
+except that, where the person is resident in a country with which the Government of Canada has concluded a tax treaty in which the expression ***permanent establishment*** is given a particular meaning, that meaning shall apply.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-140, s. 15; SOR/94-686, s. 41(F); SOR/2000-62, s. 4; SOR/2005-264, s. 15; SOR/2010-93, s. 25; 2012, c. 31, s. 68; 2013, c. 34, ss. 49, 427; 2016, c. 7, s. 58.
 
 
 
@@ -19942,6 +19946,24 @@ where
 - **(b)** are made as consideration for administrative services provided to or on behalf of the trust or its beneficiaries, or as reimbursement for employee benefit payments made on behalf of, or in contemplation of the establishment of, the trust; and
 - **(c)** the recipient acknowledges in writing shall be included in computing the recipient’s income in the year that they are receivable, to the extent that the recipient deducts in the year, or deducted in a prior year, in computing its income amounts in respect of the services or benefit payments described in paragraph (b).
 > [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2010, c. 25, s. 87.
+
+
+
+
+
+**PART XCVI** 
+## School Supplies Tax Credit
+
+
+
+**Prescribed durable goods**
+
+**9600** For the purpose of the definition ***teaching supplies*** in subsection 122.9(1) of the Act, the following are prescribed durable goods:
+- **(a)** books;
+- **(b)** games and puzzles;
+- **(c)** containers (such as plastic boxes or banker boxes); and
+- **(d)** educational support software.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2016, c. 7, s. 60.
 
 
 
