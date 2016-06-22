@@ -4181,13 +4181,13 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***coordonnées*** En ce qui concerne le détenteur d’un numéro d’entreprise, ses nom, adresse, numéro de téléphone, numéro de télécopieur et langue de communication préférée, ou tous renseignements semblables le concernant déterminés par le ministre, y compris les renseignements de cet ordre concernant l’une ou plusieurs des entités suivantes :
+***coordonnées*** En ce qui concerne le détenteur d’un numéro d’entreprise, ses nom, adresse, numéro de téléphone, numéro de télécopieur et langue de communication préférée, ou tous renseignements semblables le concernant déterminés par le ministre, y compris les renseignements de cet ordre concernant l’une ou plusieurs des entités suivantes :
 - **a)** ses fiduciaires, si le détenteur est une fiducie;
 - **b)** ses associés, s’il est une société de personnes;
 - **c)** ses cadres, s’il est une personne morale;
-- **d)** ses cadres ou membres, dans les autres cas.
+- **d)** ses cadres ou membres, dans les autres cas. (*contact information*)
 
-***cour d’appel*** S’entend au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+***cour d’appel*** S’entend au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*court of appeal*)
 
 ***entité gouvernementale***
 - **a)** Ministère ou agence du gouvernement du Canada ou d’une province;
@@ -4198,30 +4198,30 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 	- **(ii)** Sa Majesté du chef d’une province,
 	- **(iii)** une municipalité,
 	- **(iv)** une personne morale visée au présent alinéa;
-- **e)** conseil ou commission, établi par Sa Majesté ou Sa Majesté du chef d’une province ou par une municipalité, qui exerce une fonction gouvernementale ou municipale, selon le cas, d’ordre administratif ou réglementaire.
+- **e)** conseil ou commission, établi par Sa Majesté ou Sa Majesté du chef d’une province ou par une municipalité, qui exerce une fonction gouvernementale ou municipale, selon le cas, d’ordre administratif ou réglementaire. (*government entity*)
 
-***fonctionnaire*** Personne qui est ou a été employée par Sa Majesté ou Sa Majesté du chef d’une province, qui occupe ou a occupé une fonction de responsabilité à son service ou qui est ou a été engagée par elle ou en son nom.
+***fonctionnaire*** Personne qui est ou a été employée par Sa Majesté ou Sa Majesté du chef d’une province, qui occupe ou a occupé une fonction de responsabilité à son service ou qui est ou a été engagée par elle ou en son nom. (*official*)
 
-***gouvernement autochtone*** S’entend au sens du paragraphe 2(1) de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md).
+***gouvernement autochtone*** S’entend au sens du paragraphe 2(1) de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md). (*aboriginal government*)
 
-***municipalité*** Administration métropolitaine, ville, village, canton, district, comté ou municipalité rurale constitués en personne morale ou autre organisme municipal ainsi constitué quelle qu’en soit la désignation.
+***municipalité*** Administration métropolitaine, ville, village, canton, district, comté ou municipalité rurale constitués en personne morale ou autre organisme municipal ainsi constitué quelle qu’en soit la désignation. (*municipality*)
 
-***numéro d’entreprise*** Le numéro, sauf le numéro d’assurance sociale, utilisé par le ministre pour identifier :
+***numéro d’entreprise*** Le numéro, sauf le numéro d’assurance sociale, utilisé par le ministre pour identifier :
 - **a)** un titulaire de licence, d’agrément ou d’autorisation pour l’application de la présente loi;
-- **b)** une personne qui demande un remboursement en vertu de la présente loi.
+- **b)** une personne qui demande un remboursement en vertu de la présente loi. (*business number*)
 
-***personne autorisée*** Personne engagée ou employée, ou précédemment engagée ou employée, par Sa Majesté ou en son nom pour aider à l’application des dispositions de la présente loi.
+***personne autorisée*** Personne engagée ou employée, ou précédemment engagée ou employée, par Sa Majesté ou en son nom pour aider à l’application des dispositions de la présente loi. (*authorized person*)
 
-***renseignement confidentiel*** Renseignement de toute nature et sous toute forme concernant une ou plusieurs personnes et qui, selon le cas :
+***renseignement confidentiel*** Renseignement de toute nature et sous toute forme concernant une ou plusieurs personnes et qui, selon le cas :
 - **a)** est obtenu par le ministre ou en son nom pour l’application de la présente loi;
 - **a.1)** est obtenu par le ministre de la Sécurité publique et de la Protection civile ou en son nom pour l’application de l’article 68;
 - **b)** est tiré d’un renseignement visé à l’alinéa a) ou a.1).
 
-N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, même indirectement, l’identité de la personne en cause. Par ailleurs, pour l’application des paragraphes (3), (8) et (9) au représentant d’une entité gouvernementale qui n’est pas un fonctionnaire, le terme ne vise que les renseignements mentionnés à l’alinéa (6)j).
+N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, même indirectement, l’identité de la personne en cause. Par ailleurs, pour l’application des paragraphes (3), (8) et (9) au représentant d’une entité gouvernementale qui n’est pas un fonctionnaire, le terme ne vise que les renseignements mentionnés à l’alinéa (6)j). (*confidential information*)
 
-***renseignements d’entreprise*** En ce qui concerne le détenteur d’un numéro d’entreprise qui est une personne morale, sa dénomination sociale (y compris le numéro attribué par l’autorité constitutive), la date et le lieu de sa constitution ainsi que tout renseignement concernant sa dissolution, réorganisation, fusion, liquidation ou reconstitution.
+***renseignements d’entreprise*** En ce qui concerne le détenteur d’un numéro d’entreprise qui est une personne morale, sa dénomination sociale (y compris le numéro attribué par l’autorité constitutive), la date et le lieu de sa constitution ainsi que tout renseignement concernant sa dissolution, réorganisation, fusion, liquidation ou reconstitution. (*corporate information*)
 
-***renseignements relatifs à l’inscription*** En ce qui concerne le détenteur d’un numéro d’entreprise :
+***renseignements relatifs à l’inscription*** En ce qui concerne le détenteur d’un numéro d’entreprise :
 - **a)** tout renseignement concernant sa forme juridique;
 - **b)** le type d’activités qu’il exerce ou se propose d’exercer;
 - **c)** la date de chacun des événements suivants :
@@ -4229,9 +4229,9 @@ N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, 
 	- **(ii)** le début de ses activités,
 	- **(iii)** la cessation ou la reprise de ses activités,
 	- **(iv)** le remplacement de son numéro d’entreprise;
-- **d)** la raison de la cessation, de la reprise ou du remplacement visés aux sous-alinéas c)(iii) ou (iv).
+- **d)** la raison de la cessation, de la reprise ou du remplacement visés aux sous-alinéas c)(iii) ou (iv). (*registration information*)
 
-***représentant*** Est représentant d’une entité gouvernementale toute personne qui est employée par l’entité, qui occupe une fonction de responsabilité à son service ou qui est engagée par elle ou en son nom, y compris, pour l’application des paragraphes (2), (3), (8) et (9), toute personne qui a déjà été ainsi employée, a déjà occupé une telle fonction ou a déjà été ainsi engagée.
+***représentant*** Est représentant d’une entité gouvernementale toute personne qui est employée par l’entité, qui occupe une fonction de responsabilité à son service ou qui est engagée par elle ou en son nom, y compris, pour l’application des paragraphes (2), (3), (8) et (9), toute personne qui a déjà été ainsi employée, a déjà occupé une telle fonction ou a déjà été ainsi engagée. (*representative*)
 
 **Communication de renseignements**
 
@@ -4261,17 +4261,22 @@ N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, 
 	- **b)** fournir à une personne un renseignement confidentiel qu’il est raisonnable de considérer comme nécessaire à la détermination de toute somme dont la personne est redevable ou de tout remboursement ou autre paiement auquel elle a droit, ou pourrait avoir droit, en vertu de la présente loi;
 	- **c)** fournir, ou permettre que soit fourni, un renseignement confidentiel à toute personne autorisée par le ministre ou faisant partie d’une catégorie de personnes ainsi autorisée, sous réserve de conditions précisées par le ministre, ou lui en permettre l’examen ou l’accès;
 	- **d)** fournir un renseignement confidentiel à toute personne qui y a légalement droit par l’effet d’une loi fédérale, ou lui en permettre l’examen ou l’accès, mais uniquement aux fins auxquelles elle y a droit;
+	- **d.1)** fournir un renseignement confidentiel, ou en permettre l’examen ou l’accès, en conformité avec l’alinéa 33.1a) de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md), mais uniquement pour son application;
 	- **e)** fournir un renseignement confidentiel :
 		- **(i)** à un fonctionnaire du ministère des Finances, mais uniquement en vue de la formulation ou de l’évaluation de la politique fiscale,
 		- **(ii)** à un fonctionnaire, mais uniquement en vue de la mise à exécution de la politique fiscale ou en vue de l’exécution ou du contrôle d’application de la Loi sur l’assurance-chômage, du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md) ou d’une loi fédérale qui prévoit l’imposition ou la perception d’un impôt, d’une taxe ou d’un droit,
 		- **(iii)** à un fonctionnaire, mais uniquement en vue de l’exécution ou du contrôle d’application d’une loi provinciale qui prévoit l’imposition ou la perception d’un impôt, d’une taxe ou d’un droit,
 		- **(iv)** à un fonctionnaire provincial, mais uniquement en vue de la formulation ou de l’évaluation de la politique fiscale,
+		- **(iv.1)** à un fonctionnaire, mais uniquement en vue de l’application ou de l’exécution de la [Loi canadienne sur l’épargne-études](/fr/Lois/Lois%20du%20Canada/2004/ch.%2026.md) ou d’un ***programme provincial désigné*** au sens du paragraphe 146.1(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md),
+		- **(iv.2)** à un fonctionnaire, mais uniquement en vue de l’application ou de l’exécution de la [Loi canadienne sur l’épargne-invalidité](/fr/Lois/Lois%20du%20Canada/2007/ch.%2035,%20art.%20136.md) ou d’un ***programme provincial désigné*** au sens du paragraphe 146.4(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md),
 		- **(v)** à un fonctionnaire d’un ministère ou organisme fédéral ou provincial, quant aux nom, adresse, numéro de téléphone et profession d’une personne et à la taille et au genre de son entreprise, mais uniquement en vue de permettre à ce ministère ou à cet organisme de recueillir des données statistiques pour la recherche et l’analyse,
+		- **(v.1)** à un fonctionnaire du ministère de l’Emploi et du Développement social, mais uniquement en vue de l’application ou de l’exécution d’un programme établi sous le régime de la [Loi sur le ministère de l’Emploi et du Développement social](/fr/Lois/Lois%20du%20Canada/2005/ch.%2034.md) relativement à des enfants décédés ou disparus par suite d’une infraction, avérée ou probable, prévue au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md),
 		- **(vi)** à un fonctionnaire, mais uniquement en vue de procéder, par voie de compensation, à la retenue, sur toute somme due par Sa Majesté, de tout montant égal à une créance :
 			- **(A)** soit de Sa Majesté,
 			- **(B)** soit de Sa Majesté du chef d’une province s’il s’agit de taxes ou d’impôts provinciaux visés par une entente entre le Canada et la province aux termes de laquelle le Canada est autorisé à percevoir les impôts ou taxes à payer à la province,
 		- **(vii)** à un fonctionnaire, mais uniquement pour l’application de l’article 7.1 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md),
-		- **(viii)** à un fonctionnaire du Centre d’analyse des opérations et déclarations financières du Canada, mais uniquement en vue de permettre au Centre d’évaluer l’utilité des renseignements qu’il fournit à l’Agence du revenu du Canada en vertu de la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md);
+		- **(viii)** à un fonctionnaire du Centre d’analyse des opérations et déclarations financières du Canada, mais uniquement en vue de permettre au Centre d’évaluer l’utilité des renseignements qu’il fournit à l’Agence du revenu du Canada en vertu de la [Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes](/fr/Lois/Lois%20du%20Canada/2000/ch.%2017.md),
+		- **(ix)** à un fonctionnaire de l’Agence, mais uniquement en vue de la perception d’une somme due à Sa Majesté du chef du Canada ou d’une province aux termes de la [Loi sur l’indemnisation des agents de l’État](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-5.md), du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md), de la [Loi sur l’indemnisation des marins marchands](/fr/Lois/Lois%20révisées%20du%20Canada/M/M-6.md), de la [Loi fédérale sur les prêts aux étudiants](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-23.md), de la [Loi fédérale sur l’aide financière aux étudiants](/fr/Lois/Lois%20du%20Canada/1994/ch.%2028.md), de la [Loi de 1997 sur le maintien des services postaux](/fr/Lois/Lois%20du%20Canada/1997/ch.%2034.md), de la [Loi sur le Programme de protection des salariés](/fr/Lois/Lois%20du%20Canada/2005/ch.%2047,%20art.%201.md), de la [Loi sur les prêts aux apprentis](/fr/Lois/Lois%20du%20Canada/2014/ch.%2020,%20art.%20483.md) ou d’une loi provinciale régissant l’octroi d’aide financière aux étudiants de niveau postsecondaire;
 	- **f)** fournir un renseignement confidentiel, mais uniquement pour l’application des articles 23 à 25 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
 	- **g)** utiliser un renseignement confidentiel en vue de compiler des renseignements sous une forme qui ne révèle pas, même indirectement, l’identité de la personne en cause;
 	- **h)** utiliser ou fournir un renseignement confidentiel, mais uniquement à une fin liée à la surveillance ou à l’évaluation d’une personne autorisée, ou à des mesures disciplinaires prises à son endroit, par Sa Majesté relativement à une période au cours de laquelle la personne autorisée était soit employée par Sa Majesté, soit engagée par elle ou en son nom, pour aider à l’exécution ou au contrôle d’application de la présente loi, dans la mesure où le renseignement a rapport à cette fin;
@@ -4357,7 +4362,7 @@ N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, 
 **Sursis**
 
 - **(11)** L’application de l’ordonnance ou de la directive objet d’un appel est différée jusqu’au prononcé du jugement.
-> 2002, ch. 22, art. 211; 2005, ch. 38, art. 97 et 145; 2007, ch. 18, art. 117; 2009, ch. 2, art. 120; 2014, ch. 20, art. 75; 2015, ch. 20, art. 8.
+> 2002, ch. 22, art. 211; 2005, ch. 38, art. 97 et 145; 2007, ch. 18, art. 117; 2009, ch. 2, art. 120; 2014, ch. 20, art. 75; 2015, ch. 20, art. 8; 2016, ch. 7, art. 75.
 
 
 
