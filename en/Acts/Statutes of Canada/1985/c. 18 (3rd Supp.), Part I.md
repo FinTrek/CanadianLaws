@@ -345,7 +345,7 @@ the Superintendent shall examine and inquire into the carrying out of those acti
 	- **(a)** the Superintendent;
 	- **(a.1)** the Commissioner of the Financial Consumer Agency of Canada;
 	- **(b)** the Governor of the Bank of Canada;
-	- **(c)** the Chairperson of the Canada Deposit Insurance Corporation; and
+	- **(c)** the Chief Executive Officer of the Canada Deposit Insurance Corporation; and
 	- **(d)** the Deputy Minister of Finance.
 
 **Chairman**
@@ -363,7 +363,7 @@ the Superintendent shall examine and inquire into the carrying out of those acti
 **Designated person permitted**
 
 - **(5)** Information requested from one member of the committee by another member may be provided to any person designated by the member making the request.
-> R.S., 1985, c. 18 (3rd Supp.), s. 18; 1996, c. 6, s. 108(E); 2001, c. 9, s. 469.
+> R.S., 1985, c. 18 (3rd Supp.), s. 18; 1996, c. 6, s. 108(E); 2001, c. 9, s. 469; 2016, c. 7, s. 169.
 
 
 
