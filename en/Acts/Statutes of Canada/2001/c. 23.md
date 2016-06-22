@@ -198,9 +198,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Appointment of directors**
 
-- **(2)** Subject to subsection (4), the board consists of
-	- **(a)** the Chairperson of the board appointed by the Governor in Council on the recommendation of the Minister, as proposed by the Minister of Natural Resources and the Minister of the Environment, after consultation with the Minister of Industry;
-	- **(b)** six persons appointed by the Governor in Council on the recommendation of the Minister, as proposed by the Minister of Natural Resources and the Minister of the Environment, after consultation with the Minister of Industry; and
+- **(2)** Subject to subsection (4), the board consists of
+	- **(a)** the Chairperson of the board appointed by the Governor in Council on the Minister’s recommendation;
+	- **(b)** six persons appointed by the Governor in Council on the Minister’s recommendation; and
 	- **(c)** eight persons appointed by the members in accordance with subsection 13(5) and the by-laws of the Foundation.
 
 **Eligibility for directors**
@@ -209,11 +209,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** is a member of the Senate, the House of Commons or the legislature of a province;
 	- **(b)** is an employee or agent of Her Majesty in right of Canada or in right of a province;
 	- **(c)** does not ordinarily reside in Canada; or
-	- **(d)** is disqualified under subsection 105(1) of the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md).
+	- **(d)** is disqualified under subsection 105(1) of the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md).
 
 **Initial organization**
 
-- **(4)** If the Chairperson is appointed before directors have been appointed under paragraph (2)(c), the Chairperson and any other directors that may have been appointed under paragraph (2)(b) constitute the board until directors are appointed under paragraph (2)(c) and may
+- **(4)** If the Chairperson is appointed before directors have been appointed under paragraph (2)(c), the Chairperson and any other directors that may have been appointed under paragraph (2)(b) constitute the board until directors are appointed under paragraph (2)(c) and may
 	- **(a)** undertake the organization of the Foundation including the appointment of officers and employees;
 	- **(b)** make banking arrangements for the Foundation;
 	- **(c)** enact organizational by-laws for the Foundation; and
@@ -221,12 +221,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Limitation**
 
-- **(5)** Until directors are appointed under paragraph (2)(c), the Foundation shall not provide any funding from the funds of the Foundation or enter into any agreements or arrangements, or review any applications, for or in respect of funding to be provided from the funds of the Foundation.
+- **(5)** Until directors are appointed under paragraph (2)(c), the Foundation shall not provide any funding from the funds of the Foundation or enter into any agreements or arrangements, or review any applications, for or in respect of funding to be provided from the funds of the Foundation.
 
 **Foundation not owned by Crown**
 
-- **(6)** The operation of the Foundation under subsection (4) by the Chairperson and any directors appointed under paragraph (2)(b) shall not, despite subsection 83(2) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), result in the Foundation being considered, for the purposes of Part X of that Act or for any other purpose, to be wholly owned directly by Her Majesty in right of Canada.
-> 2001, c. 23, ss. 9, 38.
+- **(6)** The operation of the Foundation under subsection (4) by the Chairperson and any directors appointed under paragraph (2)(b) shall not, despite subsection 83(2) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), result in the Foundation being considered, for the purposes of Part X of that Act or for any other purpose, to be wholly owned directly by Her Majesty in right of Canada.
+> 2001, c. 23, ss. 9, 38; 2016, c. 7, s. 237.
 
 
 
