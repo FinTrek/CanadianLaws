@@ -975,7 +975,18 @@ by
 
 **Maximum payment of $200,000,000**
 
-**143** There may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of the Environment and the Minister of Natural Resources, a sum not exceeding two hundred million dollars to the Canada Foundation for Sustainable Development Technology for its use.
+**143** There may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of Industry, a sum not exceeding $200 million to the Canada Foundation for Sustainable Development Technology for its use.
+> 2007, c. 29, s. 143; 2016, c. 7, s. 238.
+
+
+
+
+
+**Clarification — maximum payment**
+
+**143.1** Despite section 143, the sum that may be paid out under that section is not to exceed the difference between $200 million and the sum paid out of the Consolidated Revenue Fund, on the requisition of the Minister of the Environment and the Minister of Natural Resources to the Canada Foundation for Sustainable Development Technology for its use, under section 143 as it read immediately before the day on which this section comes into force.
+> 2016, c. 7, s. 238.
+
 
 
 
