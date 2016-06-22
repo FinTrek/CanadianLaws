@@ -55,91 +55,93 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** In this Act,
 
-***affairs***, with respect to a bank, an authorized foreign bank or a bank holding company, means the relationships among the bank, authorized foreign bank or bank holding company and its affiliates and the shareholders, members, directors and officers of the bank, authorized foreign bank or bank holding company and its affiliates, but does not include the business of the bank, authorized foreign bank or bank holding company or any of its affiliates;
+***affairs***, with respect to a bank, an authorized foreign bank or a bank holding company, means the relationships among the bank, authorized foreign bank or bank holding company and its affiliates and the shareholders, members, directors and officers of the bank, authorized foreign bank or bank holding company and its affiliates, but does not include the business of the bank, authorized foreign bank or bank holding company or any of its affiliates; (*affaires internes*)
 
-***affiliate*** means an entity that is affiliated with another entity within the meaning of section 6;
+***affiliate*** means an entity that is affiliated with another entity within the meaning of section 6; (*groupe*)
 
-***Agency*** means the Financial Consumer Agency of Canada established under section 3 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md);
+***Agency*** means the Financial Consumer Agency of Canada established under section 3 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md); (*Agence*)
 
-***annual return*** means a return prepared in accordance with section 601;
+***annual return*** means a return prepared in accordance with section 601; (*état annuel*)
 
-***annual statement***, in relation to a bank, means the annual financial statement of the bank within the meaning of paragraph 308(1)(a) and, in relation to a bank holding company, means the annual financial statement of the bank holding company within the meaning of paragraph 840(1)(a);
+***annual statement***, in relation to a bank, means the annual financial statement of the bank within the meaning of paragraph 308(1)(a) and, in relation to a bank holding company, means the annual financial statement of the bank holding company within the meaning of paragraph 840(1)(a); (*rapport annuel*)
 
-***authorized foreign bank*** means a foreign bank that is the subject of an order under subsection 524(1);
+***authorized foreign bank*** means a foreign bank that is the subject of an order under subsection 524(1); (*banque étrangère autorisée*)
 
-***bank*** means a bank listed in Schedule I or II;
+***bank*** means a bank listed in Schedule I or II; (*banque*)
 
-***bank holding company*** means a body corporate that is incorporated or formed under Part XV;
+***bank holding company*** means a body corporate that is incorporated or formed under Part XV; (*société de portefeuille bancaire*)
 
-***bearer***, in relation to a security, means the person in possession of a security payable to bearer or endorsed in blank;
+***bearer***, in relation to a security, means the person in possession of a security payable to bearer or endorsed in blank; (*porteur*)
 
-***bearer form***, in respect of a security, means a security in bearer form as determined in accordance with subsection 83(2);
+***bearer form***, in respect of a security, means a security in bearer form as determined in accordance with subsection 83(2); (*titre au porteur*)
 
- et ***beneficial ownership*** includes ownership through one or more trustees, legal representatives, agents or other intermediaries;
+***beneficial ownership*** includes ownership through one or more trustees, legal representatives, agents or other intermediaries; (*véritable propriétaire* et *propriété effective*)
 
-***body corporate*** means an incorporated body wherever or however incorporated;
+***body corporate*** means an incorporated body wherever or however incorporated; (*personne morale*)
 
 ***branch***
 - **(a)** in respect of a bank, means an agency, the head office or any other office of the bank, and
-- **(b)** in respect of an authorized foreign bank, means an agency, the principal office or any other office of the authorized foreign bank in Canada at which is carried on the business in Canada of the authorized foreign bank;
+- **(b)** in respect of an authorized foreign bank, means an agency, the principal office or any other office of the authorized foreign bank in Canada at which is carried on the business in Canada of the authorized foreign bank; (*succursale*)
 
-***Canadian entity*** means an entity that is incorporated or formed by or under an Act of Parliament or of the legislature of a province, or otherwise formed in Canada, and that carries on business in Canada;
+***Canadian entity*** means an entity that is incorporated or formed by or under an Act of Parliament or of the legislature of a province, or otherwise formed in Canada, and that carries on business in Canada; (*entité canadienne*)
 
-***Canadian financial institution*** means a financial institution that is incorporated or formed by or under an Act of Parliament or of the legislature of a province;
+***Canadian financial institution*** means a financial institution that is incorporated or formed by or under an Act of Parliament or of the legislature of a province; (*institution financière canadienne*)
 
-***central cooperative credit society*** means a body corporate organized on cooperative principles by or under an Act of the legislature of a province, one of whose principal purposes is to receive deposits from and provide liquidity support to local cooperative credit societies, and
+***central cooperative credit society*** means a body corporate organized on cooperative principles by or under an Act of the legislature of a province, one of whose principal purposes is to receive deposits from and provide liquidity support to local cooperative credit societies, and
 - **(a)** whose membership consists solely or primarily of local cooperative credit societies, or
-- **(b)** whose directors are wholly or primarily persons elected or appointed by local cooperative credit societies;
+- **(b)** whose directors are wholly or primarily persons elected or appointed by local cooperative credit societies; (*société coopérative de crédit centrale*)
 
- or  ou ***central securities register*** or ***securities register***, in relation to a bank, means the register referred to in section 248 and, in relation to a bank holding company, means the register referred to in section 825;
+***central securities register*** or ***securities register***, in relation to a bank, means the register referred to in section 248 and, in relation to a bank holding company, means the register referred to in section 825; (*registre central des valeurs mobilières* ou *registre des valeurs mobilières*)
 
-***Commissioner*** means the Commissioner of the Financial Consumer Agency of Canada appointed under section 4 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md);
+***Commissioner*** means the Commissioner of the Financial Consumer Agency of Canada appointed under section 4 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md); (*commissaire*)
 
-***common-law partner***, in relation to an individual, means a person who is cohabiting with the individual in a conjugal relationship, having so cohabited for a period of at least one year;
+***common-law partner***, in relation to an individual, means a person who is cohabiting with the individual in a conjugal relationship, having so cohabited for a period of at least one year; (*conjoint de fait*)
 
 ***complainant***, in relation to a bank or any matter concerning a bank, means
 - **(a)** a registered holder or beneficial owner, and a former registered holder or beneficial owner, of a security of a bank or any of its affiliates,
 - **(b)** a director or an officer, or a former director or officer, of a bank or any of its affiliates,
 - **(c)** any other person who, in the discretion of a court, is a proper person to make an application under section 334, 338 or 989, or
-- **(d)** a member or a former member of a federal credit union;
+- **(d)** a member or a former member of a federal credit union; (*plaignant*)
 
-***consumer provision*** means a provision referred to in paragraph (a) or (a.1) of the definition ***consumer provision*** in section 2 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md);
+***consumer provision*** means a provision referred to in paragraph (a) or (a.1) of the definition ***consumer provision*** in section 2 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md); (*disposition visant les consommateurs*)
 
-***court*** means
+***court*** means
 - **(a)** in the Province of Ontario, the Superior Court of Justice,
 - **(b)** in the Province of Quebec, the Superior Court of the Province,
 - **(c)** in the Provinces of Nova Scotia, British Columbia and Prince Edward Island, the Supreme Court of the Province,
 - **(d)** in the Provinces of New Brunswick, Manitoba, Saskatchewan and Alberta, the Court of Queen’s Bench for the Province,
 - **(e)** in the Province of Newfoundland and Labrador, the Trial Division of the Supreme Court of the Province, and
-- **(f)** the Supreme Court of Yukon, the Supreme Court of the Northwest Territories and the Nunavut Court of Justice;
+- **(f)** the Supreme Court of Yukon, the Supreme Court of the Northwest Territories and the Nunavut Court of Justice; (*tribunal*)
 
-***court of appeal*** means the court to which an appeal lies from a decision or order of a court;
+***court of appeal*** means the court to which an appeal lies from a decision or order of a court; (*cour d’appel*)
 
-***debt obligation*** means a bond, debenture, note or other evidence of indebtedness of an entity, whether secured or unsecured;
+***debt obligation*** means a bond, debenture, note or other evidence of indebtedness of an entity, whether secured or unsecured; (*titre de créance*)
 
-***delegate*** means a natural person appointed or elected to represent a member of a federal credit union at a meeting of members;
+***delegate*** means a natural person appointed or elected to represent a member of a federal credit union at a meeting of members; (*délégué*)
 
-,  or ,  ou ***director*** means a natural person occupying the position of director, by whatever name called, of a body corporate, and ***board of directors*** or ***directors*** refers to the directors of a body corporate as a body;
+***director*** means a natural person occupying the position of director, by whatever name called, of a body corporate, and ***board of directors*** or ***directors*** refers to the directors of a body corporate as a body; (*administrateur*, *conseil d’administration* ou *conseil*)
 
-***entity*** means a body corporate, trust, partnership, fund, an unincorporated association or organization, Her Majesty in right of Canada or of a province, an agency of Her Majesty in either of such rights and the government of a foreign country or any political subdivision thereof and any agency thereof;
+***domestic systemically important bank*** means a bank that is designated as a domestic systemically important bank under section 484.1; (*banque d’importance systémique nationale*)
 
-***equity***, in respect of a bank or a bank holding company, means its equity as determined in accordance with the regulations;
+***entity*** means a body corporate, trust, partnership, fund, an unincorporated association or organization, Her Majesty in right of Canada or of a province, an agency of Her Majesty in either of such rights and the government of a foreign country or any political subdivision thereof and any agency thereof; (*entité*)
 
-***external complaints body*** means a body corporate approved under subsection 455.01(1) or designated under subsection 455.1(1).
+***equity***, in respect of a bank or a bank holding company, means its equity as determined in accordance with the regulations; (*capitaux propres*)
 
-***federal credit union*** means a bank that, within the meaning of section 12.1, is organized and carries on business on a cooperative basis;
+***external complaints body*** means a body corporate approved under subsection 455.01(1) or designated under subsection 455.1(1); (*organisme externe de traitement des plaintes*)
 
-***federal financial institution*** means
+***federal credit union*** means a bank that, within the meaning of section 12.1, is organized and carries on business on a cooperative basis; (*coopérative de crédit fédérale*)
+
+***federal financial institution*** means
 - **(a)** a bank,
 - **(b)** a body corporate to which the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md) applies,
 - **(c)** an association to which the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) applies or a central cooperative credit society for which an order has been made under subsection 473(1) of that Act, or
-- **(d)** an insurance company or a fraternal benefit society incorporated or formed under the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md);
+- **(d)** an insurance company or a fraternal benefit society incorporated or formed under the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md); (*institution financière fédérale*)
 
-***federation of cooperative credit societies*** means an association under the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) or a federation, league or corporation incorporated or organized by or under an Act of the legislature of a province, the membership or the shareholders of which include two or more central cooperative credit societies;
+***federation of cooperative credit societies*** means an association under the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) or a federation, league or corporation incorporated or organized by or under an Act of the legislature of a province, the membership or the shareholders of which include two or more central cooperative credit societies; (*fédération de sociétés coopératives de crédit*)
 
-***fiduciary*** means any person acting in a fiduciary capacity and includes a personal representative of a deceased person;
+***fiduciary*** means any person acting in a fiduciary capacity and includes a personal representative of a deceased person; (*représentant*)
 
-***financial institution*** means
+***financial institution*** means
 - **(a)** a bank or an authorized foreign bank,
 - **(b)** a body corporate to which the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md) applies,
 - **(c)** an association to which the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) applies or a central cooperative credit society for which an order has been made under subsection 473(1) of that Act,
@@ -147,7 +149,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(e)** a trust, loan or insurance corporation incorporated by or under an Act of the legislature of a province,
 - **(f)** a cooperative credit society incorporated and regulated by or under an Act of the legislature of a province,
 - **(g)** an entity that is incorporated or formed by or under an Act of Parliament or of the legislature of a province and that is primarily engaged in dealing in securities, including portfolio management and investment counselling, and
-- **(h)** a foreign institution;
+- **(h)** a foreign institution; (*institution financière*)
 
 ***foreign bank***, subject to section 12, means an entity incorporated or formed by or under the laws of a country other than Canada that
 - **(a)** is a bank according to the laws of any foreign country where it carries on business,
@@ -158,139 +160,139 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(f)** controls another foreign bank, or
 - **(g)** is a foreign institution, other than a foreign bank within the meaning of any of paragraphs (a) to (f), that controls a bank incorporated or formed under this Act,
 
-but does not include a subsidiary of a bank named in Schedule I as that Schedule read immediately before the day section 184 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md) comes into force, unless the Minister has specified that subsection 378(1) no longer applies to the bank;
+but does not include a subsidiary of a bank named in Schedule I as that Schedule read immediately before the day section 184 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md) comes into force, unless the Minister has specified that subsection 378(1) no longer applies to the bank; (*banque étrangère*)
 
 ***foreign bank subsidiary***[Repealed, 2001, c. 9, s. 35]
 
-***foreign institution*** means an entity that is
+***foreign institution*** means an entity that is
 - **(a)** engaged in the business of banking, the trust, loan or insurance business, the business of a cooperative credit society or the business of dealing in securities or is otherwise engaged primarily in the business of providing financial services, and
-- **(b)** incorporated or formed otherwise than by or under an Act of Parliament or of the legislature of a province;
+- **(b)** incorporated or formed otherwise than by or under an Act of Parliament or of the legislature of a province; (*institution étrangère*)
 
-***form of proxy*** means a written or printed form that, when completed and executed by or on behalf of a shareholder, constitutes a proxy;
+***form of proxy*** means a written or printed form that, when completed and executed by or on behalf of a shareholder, constitutes a proxy; (*formulaire de procuration*)
 
-***going-private transaction*** means a going-private transaction as defined in the regulations;
+***going-private transaction*** means a going-private transaction as defined in the regulations; (*transaction de fermeture*)
 
-***guarantee*** includes a letter of credit;
+***guarantee*** includes a letter of credit; (*garantie*)
 
-***head office***, in relation to a bank, means the office required to be maintained under section 237 and, in relation to a bank holding company, means the office required to be maintained under section 814;
+***head office***, in relation to a bank, means the office required to be maintained under section 237 and, in relation to a bank holding company, means the office required to be maintained under section 814; (*siège*)
 
-***holder*** means
+***holder*** means
 - **(a)** in respect of a security certificate, the person in possession of the certificate issued or endorsed to that person or to bearer or in blank,
 - **(b)** in respect of the ownership of a share, the shareholder of the share within the meaning of section 7, and
-- **(c)** in respect of the ownership of a membership share, the member who holds the membership share within the meaning of section 7.1;
+- **(c)** in respect of the ownership of a membership share, the member who holds the membership share within the meaning of section 7.1; (*détenteur*)
 
-***holding body corporate*** means a holding body corporate within the meaning of section 4;
+***holding body corporate*** means a holding body corporate within the meaning of section 4; (*société mère*)
 
-***incorporated***, when used with reference to a body corporate that is incorporated by or under an Act of Parliament or of the legislature of a province, also refers to a body corporate that is continued by or under any such Act;
+***incorporated***, when used with reference to a body corporate that is incorporated by or under an Act of Parliament or of the legislature of a province, also refers to a body corporate that is continued by or under any such Act; (*constitué en personne morale*)
 
-***incorporating instrument*** means the special Act, letters patent, instrument of continuance or other constating instrument by which a body corporate was incorporated or continued and includes any amendment to or restatement of the constating instrument;
+***incorporating instrument*** means the special Act, letters patent, instrument of continuance or other constating instrument by which a body corporate was incorporated or continued and includes any amendment to or restatement of the constating instrument; (*acte constitutif*)
 
-***incorporator***, in relation to a bank or a bank holding company, means a person who applied for letters patent to incorporate the bank or bank holding company, as the case may be;
+***incorporator***, in relation to a bank or a bank holding company, means a person who applied for letters patent to incorporate the bank or bank holding company, as the case may be; (*fondateur*)
 
-***insurance holding company*** means a body corporate that is incorporated or formed under Part XVII of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md);
+***insurance holding company*** means a body corporate that is incorporated or formed under Part XVII of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md); (*société de portefeuille d’assurances*)
 
-***issuer***, in respect of a security, means the entity that issues or issued the security;
+***issuer***, in respect of a security, means the entity that issues or issued the security; (*émetteur*)
 
-***letters patent***, in respect of an instrument authorized to be issued under this Act, means letters patent in a form approved by the Superintendent;
+***letters patent***, in respect of an instrument authorized to be issued under this Act, means letters patent in a form approved by the Superintendent; (*lettres patentes*)
 
-***local cooperative credit society*** means a body corporate organized on cooperative principles incorporated by or under an Act of the legislature of a province
+***local cooperative credit society*** means a body corporate organized on cooperative principles incorporated by or under an Act of the legislature of a province
 - **(a)** whose members or shareholders consist substantially of natural persons, and
-- **(b)** whose principal purpose is to receive deposits from and make loans to its members and shareholders;
+- **(b)** whose principal purpose is to receive deposits from and make loans to its members and shareholders; (*société coopérative de crédit locale*)
 
-***member***, in relation to a federal credit union, means a person who is one of the members of the federal credit union in accordance with subsection 47.04(2);
+***member***, in relation to a federal credit union, means a person who is one of the members of the federal credit union in accordance with subsection 47.04(2); (*membre*)
 
-***membership share***, in relation to a federal credit union, means an ownership interest in the federal credit union that confers the rights referred to in subsection 79.1(1);
+***membership share***, in relation to a federal credit union, means an ownership interest in the federal credit union that confers the rights referred to in subsection 79.1(1); (*parts sociales*)
 
-***members register***, in relation to a federal credit union, means the register referred to in section 254.1;
+***members register***, in relation to a federal credit union, means the register referred to in section 254.1; (*registre des membres*)
 
-***Minister*** means the Minister of Finance;
+***Minister*** means the Minister of Finance; (*ministre*)
 
-***minor*** has the same meaning as in the applicable provincial law and in the absence of any such law has the same meaning as the word “child” in the United Nations Convention on the Rights of the Child adopted in the United Nations General Assembly on November 20, 1989;
+***minor*** has the same meaning as in the applicable provincial law and in the absence of any such law has the same meaning as the word “child” in the United Nations Convention on the Rights of the Child adopted in the United Nations General Assembly on November 20, 1989; (*mineur*)
 
 ***NAFTA country resident***[Repealed, 1999, c. 28, s. 1]
 
-***non-WTO Member foreign bank*** means a foreign bank that is not controlled by a WTO Member resident;
+***non-WTO Member foreign bank*** means a foreign bank that is not controlled by a WTO Member resident; (*banque étrangère d’un non-membre de l’OMC*)
 
-***officer*** means
+***officer*** means
 - **(a)** in relation to a body corporate, a chief executive officer, president, vice-president, secretary, controller, treasurer and any other natural person designated as an officer of the body corporate by by-law or by resolution of the directors of the body corporate, and
-- **(b)** in relation to any other entity, any natural person designated as an officer of the entity by by-law, by resolution of the members thereof or otherwise;
+- **(b)** in relation to any other entity, any natural person designated as an officer of the entity by by-law, by resolution of the members thereof or otherwise; (*dirigeant*)
 
-***order form***, in respect of a security, means a security in order form as determined in accordance with subsection 83(3);
+***order form***, in respect of a security, means a security in order form as determined in accordance with subsection 83(3); (*titre à ordre*)
 
-***ordinary resolution*** means a resolution passed by a majority of the votes cast in respect of that resolution;
+***ordinary resolution*** means a resolution passed by a majority of the votes cast in respect of that resolution; (*résolution ordinaire*)
 
-***patronage allocation*** means an amount that a federal credit union allocates among its members based on the business done by them with or through the federal credit union;
+***patronage allocation*** means an amount that a federal credit union allocates among its members based on the business done by them with or through the federal credit union; (*ristourne*)
 
-***person*** means a natural person, an entity or a personal representative;
+***person*** means a natural person, an entity or a personal representative; (*personne*)
 
-***personal representative*** means a person who stands in place of and represents another person and, without limiting the generality of the foregoing, includes, as the circumstances require, a trustee, an executor, an administrator, a committee, a guardian, a tutor, a curator, an assignee, a receiver, an agent or an attorney of any person, but does not include a delegate;
+***personal representative*** means a person who stands in place of and represents another person and, without limiting the generality of the foregoing, includes, as the circumstances require, a trustee, an executor, an administrator, a committee, a guardian, a tutor, a curator, an assignee, a receiver, an agent or an attorney of any person, but does not include a delegate; (*représentant personnel*)
 
-Version anglaise seulement***prescribed*** means prescribed by regulation;
+***prescribed*** means prescribed by regulation; (*Version anglaise seulement*)
 
-***principal office*** means, in relation to an authorized foreign bank, the office required to be maintained under section 535;
+***principal office*** means, in relation to an authorized foreign bank, the office required to be maintained under section 535; (*bureau principal*)
 
-***principal officer*** in relation to an authorized foreign bank means the person appointed under section 536;
+***principal officer*** in relation to an authorized foreign bank means the person appointed under section 536; (*dirigeant principal*)
 
-***proxy*** means a completed and executed form of proxy by means of which a shareholder appoints a proxyholder to attend and act on the shareholder’s behalf at a meeting of shareholders;
+***proxy*** means a completed and executed form of proxy by means of which a shareholder appoints a proxyholder to attend and act on the shareholder’s behalf at a meeting of shareholders; (*procuration*)
 
-***proxyholder*** means the person appointed by proxy to attend and act on behalf of a shareholder at a meeting of shareholders;
+***proxyholder*** means the person appointed by proxy to attend and act on behalf of a shareholder at a meeting of shareholders; (*fondé de pouvoir*)
 
-***real property*** includes a leasehold interest in real property;
+***real property*** includes a leasehold interest in real property; (*biens immeubles*)
 
-***recorded address*** means
+***recorded address*** means
 - **(a)** in relation to a person who is a shareholder of a bank or a bank holding company, the latest postal address of the person according to its central securities register,
 - **(a.1)** in relation to a person who is a member of a federal credit union, the latest postal address of the person according to the members register, and
-- **(b)** in relation to a person in any other respect in relation to a bank, the latest postal address of the person according to the records of the branch concerned;
+- **(b)** in relation to a person in any other respect in relation to a bank, the latest postal address of the person according to the records of the branch concerned; (*adresse enregistrée*)
 
-***registered form***, in respect of a security, means a security in registered form as determined in accordance with subsection 83(4);
+***registered form***, in respect of a security, means a security in registered form as determined in accordance with subsection 83(4); (*titre nominatif*)
 
-***regulatory capital***, in respect of a bank or a bank holding company, has the meaning given that expression by the regulations;
+***regulatory capital***, in respect of a bank or a bank holding company, has the meaning given that expression by the regulations; (*capital réglementaire*)
 
-***resident Canadian*** means a natural person who is
+***resident Canadian*** means a natural person who is
 - **(a)** a Canadian citizen ordinarily resident in Canada,
 - **(b)** a Canadian citizen not ordinarily resident in Canada who is a member of a prescribed class of persons, or
-- **(c)** a permanent resident within the meaning of subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) and ordinarily resident in Canada, except a permanent resident who has been ordinarily resident in Canada for more than one year after the time at which the individual first became eligible to apply for Canadian citizenship;
+- **(c)** a permanent resident within the meaning of subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) and ordinarily resident in Canada, except a permanent resident who has been ordinarily resident in Canada for more than one year after the time at which the individual first became eligible to apply for Canadian citizenship; (*résident canadien*)
 
-***residential property*** means real property consisting of buildings that are used, or are to be used, to the extent of at least one half of the floor space thereof, as one or more private dwellings;
+***residential property*** means real property consisting of buildings that are used, or are to be used, to the extent of at least one half of the floor space thereof, as one or more private dwellings; (*immeuble résidentiel*)
 
-***securities underwriter*** means a person who, as principal, agrees to purchase securities with a view to the distribution of the securities or who, as agent for a body corporate or other person, offers for sale or sells securities in connection with a distribution of the securities, and includes a person who participates, directly or indirectly, in a distribution of securities, other than a person whose interest in the distribution of securities is limited to receiving a distributor’s or seller’s commission payable by a securities underwriter;
+***securities underwriter*** means a person who, as principal, agrees to purchase securities with a view to the distribution of the securities or who, as agent for a body corporate or other person, offers for sale or sells securities in connection with a distribution of the securities, and includes a person who participates, directly or indirectly, in a distribution of securities, other than a person whose interest in the distribution of securities is limited to receiving a distributor’s or seller’s commission payable by a securities underwriter; (*souscripteur à forfait*)
 
- ou ***security*** means
+***security*** means
 - **(a)** in relation to a body corporate, a share of any class of shares of the body corporate or a debt obligation of the body corporate, and includes a warrant of the body corporate, but does not include a deposit with a financial institution or any instrument evidencing such a deposit or, for greater certainty, a membership share, and
-- **(b)** in relation to any other entity, any ownership interest in or debt obligation of the entity;
+- **(b)** in relation to any other entity, any ownership interest in or debt obligation of the entity; (*titre* ou *valeur mobilière*)
 
-***security interest*** means an interest in or charge on property by way of mortgage, lien, pledge or otherwise taken by a creditor or guarantor to secure the payment or performance of an obligation;
+***security interest*** means an interest in or charge on property by way of mortgage, lien, pledge or otherwise taken by a creditor or guarantor to secure the payment or performance of an obligation; (*sûreté*)
 
-***send*** includes deliver;
+***send*** includes deliver; (*envoyer*)
 
-***series***, in respect of shares, means a division of a class of shares;
+***series***, in respect of shares, means a division of a class of shares; (*série*)
 
-Version anglaise seulement***share*** does not include a membership share;
+***share*** does not include a membership share; (*Version anglaise seulement*)
 
-***significant interest*** means a significant interest determined in accordance with section 8;
+***significant interest*** means a significant interest determined in accordance with section 8; (*intérêt substantiel*)
 
-***special resolution*** means a resolution passed by a majority of not less than two thirds of the votes cast in respect of that resolution or signed by all the persons who are entitled to vote on that resolution;
+***special resolution*** means a resolution passed by a majority of not less than two thirds of the votes cast in respect of that resolution or signed by all the persons who are entitled to vote on that resolution; (*résolution extraordinaire*)
 
-***squeeze-out transaction*** means a transaction by a bank that is not a distributing bank, or a bank holding company that is not a distributing bank holding company, that requires an amendment to a by-law referred to in subsection 217(1) and that would directly or indirectly result in the interest of a holder of shares of a class of shares being terminated without their consent and without substituting an interest of equivalent value in shares that are issued by the following persons and have rights and privileges equal to or greater than those of the shares of the affected class:
+***squeeze-out transaction*** means a transaction by a bank that is not a distributing bank, or a bank holding company that is not a distributing bank holding company, that requires an amendment to a by-law referred to in subsection 217(1) and that would directly or indirectly result in the interest of a holder of shares of a class of shares being terminated without their consent and without substituting an interest of equivalent value in shares that are issued by the following persons and have rights and privileges equal to or greater than those of the shares of the affected class:
 - **(a)** in the case of a bank, the bank, and
-- **(b)** in the case of a bank holding company, the bank holding company;
+- **(b)** in the case of a bank holding company, the bank holding company; (*transaction d’éviction*)
 
-***subordinated indebtedness*** means an instrument evidencing an indebtedness of a bank that by its terms provides that the indebtedness will, in the event of the insolvency or winding-up of the bank, be subordinate in right of payment to all deposit liabilities of the bank and all other liabilities of the bank except those that, by their terms, rank equally with or are subordinate to such indebtedness;
+***subordinated indebtedness*** means an instrument evidencing an indebtedness of a bank that by its terms provides that the indebtedness will, in the event of the insolvency or winding-up of the bank, be subordinate in right of payment to all deposit liabilities of the bank and all other liabilities of the bank except those that, by their terms, rank equally with or are subordinate to such indebtedness; (*titre secondaire*)
 
-***subsidiary*** means an entity that is a subsidiary of another entity as defined in section 5;
+***subsidiary*** means an entity that is a subsidiary of another entity as defined in section 5; (*filiale*)
 
-***substantial investment*** means a substantial investment determined in accordance with section 10;
+***substantial investment*** means a substantial investment determined in accordance with section 10; (*intérêt de groupe financier*)
 
-***Superintendent*** means the Superintendent of Financial Institutions appointed pursuant to the [Office of the Superintendent of Financial Institutions Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2018%20(3rd%20Supp.),%20Part%20I.md);
+***Superintendent*** means the Superintendent of Financial Institutions appointed pursuant to the [Office of the Superintendent of Financial Institutions Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2018%20(3rd%20Supp.),%20Part%20I.md); (*surintendant*)
 
-***trade***, in respect of securities, means any sale or disposition of securities for valuable consideration;
+***trade***, in respect of securities, means any sale or disposition of securities for valuable consideration; (*opération*)
 
-***transfer***, in respect of securities, includes a transmission by operation of law;
+***transfer***, in respect of securities, includes a transmission by operation of law; (*transfert*)
 
-***voting share*** means a share of any class of shares of a body corporate carrying voting rights under all circumstances or by reason of an event that has occurred and is continuing or by reason of a condition that has been fulfilled;
+***voting share*** means a share of any class of shares of a body corporate carrying voting rights under all circumstances or by reason of an event that has occurred and is continuing or by reason of a condition that has been fulfilled; (*action avec droit de vote*)
 
-***WTO Member resident*** means a WTO Member resident within the meaning of section 11.1.
-> 1991, c. 46, ss. 2, 572, c. 47, s. 756, c. 48, s. 494; 1992, c. 51, s. 29; 1993, c. 34, s. 5(F), c. 44, s. 22; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 14, c. 28, s. 1; 2000, c. 12, s. 3; 2001, c. 9, s. 35, c. 27, s. 206; 2002, c. 7, s. 81(E); 2005, c. 54, s. 1; 2007, c. 6, s. 1; 2010, c. 12, s. 1894, c. 25, s. 146; 2012, c. 5, ss. 2, 223; 2015, c. 3, s. 5.
+***WTO Member resident*** means a WTO Member resident within the meaning of section 11.1. (*résident d’un membre de l’OMC*)
+> 1991, c. 46, ss. 2, 572, c. 47, s. 756, c. 48, s. 494; 1992, c. 51, s. 29; 1993, c. 34, s. 5(F), c. 44, s. 22; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 14, c. 28, s. 1; 2000, c. 12, s. 3; 2001, c. 9, s. 35, c. 27, s. 206; 2002, c. 7, s. 81(E); 2005, c. 54, s. 1; 2007, c. 6, s. 1; 2010, c. 12, s. 1894, c. 25, s. 146; 2012, c. 5, ss. 2, 223; 2015, c. 3, s. 5; 2016, c. 7, s. 156.
 
 
 
@@ -896,7 +898,7 @@ Schedules I and II shall be amended accordingly.
 
 **21** 
 
-- **(1)** Subject to subsections (2) and (4), banks shall not carry on business, and authorized foreign banks shall not carry on business in Canada, after the day that is the fifth anniversary of the day on which this section comes into force.
+- **(1)** Subject to subsections (2) and (4), banks shall not carry on business, and authorized foreign banks shall not carry on business in Canada, after March 29, 2019.
 
 **Extension**
 
@@ -906,10 +908,10 @@ Schedules I and II shall be amended accordingly.
 
 - **(3)** The order is not a regulation for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md). However, it shall be published in Part II of the Canada Gazette.
 
-**Exception**
+**Exception — dissolution**
 
-- **(4)** If Parliament dissolves on the fifth anniversary of the day on which this section comes into force, on any day within the six-month period before that anniversary or on any day within an extension under subsection (2), banks may continue to carry on business, and authorized foreign banks may continue to carry on business in Canada, until the end of 180 days after the first day of the first session of the next Parliament.
-> 1991, c. 46, s. 21; 1997, c. 15, s. 2; 1999, c. 28, s. 9; 2001, c. 9, s. 44; 2006, c. 4, s. 199; 2007, c. 6, s. 4; 2012, c. 5, s. 3.
+- **(4)** If Parliament dissolves on March 29, 2019 or on any day within the six-month period before that date or on any day within an extension ordered under subsection (2), banks may continue to carry on business, and authorized foreign banks may continue to carry on business in Canada, until the end of the 180th day after the first day of the first session of the next Parliament.
+> 1991, c. 46, s. 21; 1997, c. 15, s. 2; 1999, c. 28, s. 9; 2001, c. 9, s. 44; 2006, c. 4, s. 199; 2007, c. 6, s. 4; 2012, c. 5, s. 3; 2016, c. 7, s. 118.
 
 
 
@@ -1202,7 +1204,11 @@ Schedules I and II shall be amended accordingly.
 **Regulations**
 
 - **(3)** The Governor in Council may make regulations respecting notice and disclosure requirements for the purpose of subsections (1) and (2).
-> 2010, c. 12, s. 1911; 2014, c. 39, s. 272.
+
+**Exemption**
+
+- **(4)** For the purpose of facilitating the continuance as a federal credit union of a local cooperative credit society, the Minister may, on application and by order, subject to any terms and conditions that he or she considers appropriate, exempt the local cooperative credit society from any requirement of this Part or of the regulations made under this Part, if he or she is of the opinion that it has acted in a manner that substantially complies with the requirement.
+> 2010, c. 12, s. 1911; 2014, c. 39, s. 272; 2016, c. 7, s. 123.
 
 
 
@@ -1299,6 +1305,30 @@ Schedules I and II shall be amended accordingly.
 	- **(a)** with respect to matters described in paragraph (1)(b), that purports to be effective more than ten years after the date of the approval for the bank to commence and carry on business, unless the Minister is satisfied on the basis of evidence on oath provided by an officer of the bank that the bank will not be able at law to redeem at the end of the ten years the outstanding debt obligations to which the permission relates; and
 	- **(b)** with respect to matters described in paragraphs (1)(d) and (e), that purports to be effective more than ten years after the date of the approval for the bank to commence and carry on business.
 > 1991, c. 46, s. 39; 1994, c. 47, s. 14; 1997, c. 15, s. 3; 2007, c. 6, s. 5; 2010, c. 12, s. 1914.
+
+
+
+
+
+**Transitional — federal credit unions**
+
+**39.01** 
+
+- **(1)** When the Minister issues letters patent continuing a local cooperative credit society as a federal credit union under subsection 35(1), he or she may, on application and by order, subject to any terms and conditions that he or she considers appropriate, exempt the federal credit union resulting from the continuance from any requirement of Part VI — or of the regulations made under this Act — relating to voting, if he or she is of the opinion that the federal credit union will act in a manner that substantially complies with the requirement.
+
+**Duration**
+
+- **(2)** The order shall specify the period of the exemption, which may not extend beyond the third anniversary of the effective date of the letters patent.
+> 2016, c. 7, s. 124.
+
+
+
+
+
+**Transitional — loan guarantee**
+
+**39.02** For the purpose of supporting a federal credit union during the period that begins on the effective date of the federal credit union’s letters patent issued under subsection 35(1) and ends on the third anniversary of that date, the Minister may, subject to any terms and conditions that he or she considers appropriate and for the period that he or she considers appropriate, guarantee the repayment of a loan that a federal financial institution makes to the federal credit union.
+> 2016, c. 7, s. 124.
 
 
 
@@ -6411,7 +6441,7 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 
 **Exception**
 
-- **(1.1)** In the case of an application made under subsection 223(1.2) or (1.3), the Minister shall not issue letters patent of amalgamation unless the Minister has issued, under subsection 35.1(2), letters patent continuing as a federal credit union each applicant that was a local cooperative credit society.
+- **(1.1)** In the case of an application made under subsection 223(1.2) or (1.3), the Minister shall not issue letters patent of amalgamation unless the Minister has issued, under subsection 35(1), letters patent continuing as a federal credit union each applicant that was a local cooperative credit society.
 
 **Letters patent**
 
@@ -6420,7 +6450,7 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 **Publication of notice**
 
 - **(3)** The Superintendent shall cause to be published in the Canada Gazette notice of the issuance of letters patent pursuant to subsection (1).
-> 1991, c. 46, s. 229; 2014, c. 39, s. 276.
+> 1991, c. 46, s. 229; 2014, c. 39, s. 276; 2016, c. 7, s. 125.
 
 
 
@@ -10463,16 +10493,20 @@ where
 
 
 
-**Derivatives  — regulations**
+**Derivatives and eligible financial contracts — regulations**
 
 **415.2** 
 
-- **(1)** The Governor in Council may make regulations respecting a bank’s activities in relation to derivatives.
+- **(1)** The Governor in Council may make regulations respecting a bank’s activities in relation to derivatives and eligible financial contracts.
 
 **Definition of derivative**
 
 - **(2)** In this section, ***derivative*** means an option, swap, futures contract, forward contract or other financial or commodity contract or instrument whose market price, value, delivery obligations, payment obligations or settlement obligations are derived from, referenced to or based on an underlying interest, including a price, rate, index, value, variable, event, probability or thing.
-> 2014, c. 20, s. 210.
+
+**Definition of eligible financial contract**
+
+- **(3)** In this section, ***eligible financial contract*** has the same meaning as in subsection 39.15(9) of the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md).
+> 2014, c. 20, s. 210; 2016, c. 7, s. 157.
 
 
 
@@ -12800,6 +12834,29 @@ But if the loan or investment would be precluded or limited by this Part, the am
 
 
 
+**Domestic systemically important bank**
+
+**484.1** 
+
+- **(1)** The Superintendent may, by order, designate a bank as a domestic systemically important bank unless the Minister advises the Superintendent that the Minister is of the opinion that it is not in the public interest to do so.
+
+**Revocation**
+
+- **(2)** The Superintendent may, by order, revoke the designation unless the Minister advises the Superintendent that the Minister is of the opinion that it is not in the public interest to do so.
+
+**Factors**
+
+- **(3)** In making the designation or revoking it, the Superintendent shall take into account all factors that he or she considers relevant, including whether the distress or failure of the bank could have a significant adverse impact on the financial system in Canada.
+
+**Notice and publication**
+
+- **(4)** If a designation is made or revoked, the Superintendent shall, as soon as feasible, cause a notice of the designation or revocation, as the case may be, to be published in the Canada Gazette and on the website of the Office of the Superintendent of Financial Institutions.
+> 2016, c. 7, s. 159.
+
+
+
+
+
 **Adequacy of capital and liquidity**
 
 **485** 
@@ -12827,6 +12884,15 @@ and shall comply with any regulations in relation thereto.
 
 - **(5)** Where an appraisal of any asset held by a bank or any of its subsidiaries has been made by the Superintendent and the value determined by the Superintendent to be the appropriate value of the asset varies materially from the value placed by the bank or subsidiary on the asset, the Superintendent shall send to the bank, the auditor or auditors of the bank and the audit committee of the bank a written notice of the appropriate value of the asset as determined by the Superintendent.
 > 1991, c. 46, s. 485; 1996, c. 6, s. 7.
+
+
+
+
+
+**Prescribed conditions**
+
+**485.01** The Governor in Council may make regulations respecting the conditions that domestic systemically important banks must meet in issuing, originating or amending prescribed shares or liabilities.
+> 2016, c. 7, s. 161.
 
 
 
@@ -18011,7 +18077,7 @@ together with such other information about the background, business record and e
 
 **670** 
 
-- **(1)** Subject to subsections (2) and (4), bank holding companies shall not carry on business after the day that is the fifth anniversary of the day on which this section comes into force.
+- **(1)** Subject to subsections (2) and (4), bank holding companies shall not carry on business after March 29, 2019.
 
 **Extension**
 
@@ -18021,10 +18087,10 @@ together with such other information about the background, business record and e
 
 - **(3)** The order is not a regulation for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md). However, it shall be published in Part II of the Canada Gazette.
 
-**Exception**
+**Exception — dissolution**
 
-- **(4)** If Parliament dissolves on the fifth anniversary of the day on which this section comes into force, on any day within the six-month period before that anniversary or on any day within an extension under subsection (2), bank holding companies may continue to carry on business until the end of 180 days after the first day of the first session of the next Parliament.
-> 1999, c. 28, s. 65; 2001, c. 9, s. 183; 2006, c. 4, s. 199.1; 2007, c. 6, s. 105; 2012, c. 5, s. 77.
+- **(4)** If Parliament dissolves on March 29, 2019 or on any day within the six-month period before that date or on any day within an extension ordered under subsection (2), bank holding companies may continue to carry on business until the end of the 180th day after the first day of the first session of the next Parliament.
+> 1999, c. 28, s. 65; 2001, c. 9, s. 183; 2006, c. 4, s. 199.1; 2007, c. 6, s. 105; 2012, c. 5, s. 77; 2016, c. 7, s. 119.
 
 
 
@@ -24334,7 +24400,7 @@ together with such other information about the background, business record and e
 	- **(a)** is of the opinion that the order would relate to
 		- **(i)** the acquisition, holding, sale or other disposition of, or other dealing with, shares of a bank by, or the transfer or issue of shares of a bank to, Her Majesty in right of Canada or Her Majesty’s agent or agency, or
 		- **(ii)** the management of the business and affairs or the regulation and supervision of a bank during the time that Her Majesty or Her Majesty’s agent or agency is acquiring, holding, selling or otherwise disposing of, or otherwise dealing with, shares of the bank, or during the time that shares of the bank are transferred or issued to Her Majesty or Her Majesty’s agent or agency; and
-	- **(b)** is of the opinion — after considering measures other than an order under that subsection and after consulting with the Superintendent, the Governor of the Bank of Canada and the Chairperson of the Canada Deposit Insurance Corporation — that the order will promote the stability of the financial system in Canada.
+	- **(b)** is of the opinion — after considering measures other than an order under that subsection and after consulting with the Superintendent, the Governor of the Bank of Canada and the Chief Executive Officer of the Canada Deposit Insurance Corporation — that the order will promote the stability of the financial system in Canada.
 
 **Terms and conditions**
 
@@ -24395,7 +24461,7 @@ together with such other information about the background, business record and e
 **Bank holding company**
 
 - **(16)** For the purposes of this section, a reference to a “bank” includes a reference to a “bank holding company”, and the references to “section 646.1” in paragraphs (5)(a) and (b) are to be read, in relation to a bank holding company, as references to “section 962”.
-> 2009, c. 2, s. 275; 2010, c. 12, s. 2090.
+> 2009, c. 2, s. 275; 2010, c. 12, s. 2090; 2016, c. 7, s. 175.
 
 
 
