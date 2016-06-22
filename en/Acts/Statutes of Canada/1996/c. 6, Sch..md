@@ -216,7 +216,9 @@ For greater certainty, it includes a system or arrangement for the clearing or s
 
 **Sections 39.15 and 39.152 of [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md)**
 
-- **(3.1)** Despite subsections (1) to (3) and the settlement rules, no action may be taken in respect of an eligible financial contract, as defined in subsection 39.15(9) of the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md), if it is prevented by subsection 39.15(7.01), (7.1) or (7.11) or section 39.152 of that Act.
+- **(3.1)** Despite subsections (1) to (3) and the settlement rules,
+	- **(a)** no action may be taken in respect of an ***eligible financial contract***, as defined in subsection 39.15(9) of the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md), if it is prevented by subsection 39.15(7.01), (7.1), (7.11), (7.12) or (7.2) or section 39.152 of that Act; and
+	- **(b)** a ***clearing house***, as defined in subsection 39.15(9) of the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md), shall comply with subsection 39.15(3.3) of that Act, shall take any action required by subsection 39.15(7.12) of that Act and shall not take any action prevented by that subsection 39.15(7.12).
 
 **Application of Canadian law**
 
@@ -225,7 +227,7 @@ For greater certainty, it includes a system or arrangement for the clearing or s
 **Interpretation**
 
 - **(5)** In this section, ***settlement rules*** means the rules, however established, that provide the basis on which payment obligations, delivery obligations or other transfers of property or interests in, or in Quebec rights to, property are made, calculated, netted or settled and includes rules for the taking of action in the event that a participant is unable or likely to become unable to meet its obligations to the clearing house, a central counter-party, other participants or the Bank.
-> 1996, c. 6, s. 162 (Sch., s. 8); 1999, c. 28, s. 132(E); 2012, c. 31, s. 169.
+> 1996, c. 6, s. 162 (Sch., s. 8); 1999, c. 28, s. 132(E); 2012, c. 31, s. 169; 2016, c. 7, s. 165.
 
 
 
@@ -332,34 +334,34 @@ For greater certainty, it includes a system or arrangement for the clearing or s
 
 **Sections 39.15 and 39.152 of [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md)**
 
-- **(1.2)** Despite subsections (1) and (1.1), no action may be taken in respect of an eligible financial contract, as defined in subsection 39.15(9) of the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md), if it is prevented by subsection 39.15(7.01), (7.1) or (7.11) or section 39.152 of that Act.
+- **(1.2)** Despite subsections (1) and (1.1), no action may be taken in respect of an ***eligible financial contract***, as defined in subsection 39.15(9) of the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md), if it is prevented by subsection 39.15(7.01), (7.1), (7.11), (7.12) or (7.2) or section 39.152 of that Act.
 
 **Interpretation**
 
 - **(2)** The following definitions apply in this section.
 
-***financial collateral*** means any of the following that is subject to an interest, or in the Province of Quebec a right, that secures payment or performance of an obligation in respect of an eligible financial contract or that is subject to a title transfer credit support agreement:
+***financial collateral*** means any of the following that is subject to an interest, or in the Province of Quebec a right, that secures payment or performance of an obligation in respect of an eligible financial contract or that is subject to a title transfer credit support agreement:
 - **(a)** cash or cash equivalents, including negotiable instruments and demand deposits,
 - **(b)** securities, a securities account, a securities entitlement or a right to acquire securities,
 - **(c)** a futures agreement or a futures account,
 - **(d)** an assignment of a right to payment or delivery against a clearing house, or
-- **(e)** any other collateral that is prescribed.
+- **(e)** any other collateral that is prescribed. (*garantie financière*)
 
-***financial institution*** means
+***financial institution*** means
 - **(a)** a financial institution within the meaning of section 2 of the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md),
 - **(b)** such other entity or entity within a class of entities engaged primarily in the business of providing financial services as may be designated by order of the Governor in Council to be a financial institution for the purposes of this section,
 - **(c)** a trustee, manager or administrator of a pension fund maintained to provide benefits under a pension plan registered under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md),
 - **(d)** the Canada Pension Plan Investment Board, or
-- **(e)** the Public Sector Pension Investment Board;
+- **(e)** the Public Sector Pension Investment Board. (*institution financière*)
 
-***net termination value*** means the net amount obtained after setting off or compensating or otherwise netting the obligations between the parties to a netting agreement in accordance with its provisions;
+***net termination value*** means the net amount obtained after setting off or compensating or otherwise netting the obligations between the parties to a netting agreement in accordance with its provisions. (*reliquat net*)
 
-***netting agreement*** means an agreement between two or more financial institutions, between the Bank and one or more financial institutions or between a participant and a customer to which the participant provides clearing services that is
+***netting agreement*** means an agreement between two or more financial institutions, between the Bank and one or more financial institutions or between a participant and a customer to which the participant provides clearing services that is
 - **(a)** an eligible financial contract; or
-- **(b)** an agreement that provides for the netting or set-off or compensation of present or future obligations to make payments against the present or future rights to receive payments.
+- **(b)** an agreement that provides for the netting or set-off or compensation of present or future obligations to make payments against the present or future rights to receive payments. (*accord de compensation*)
 
-***title transfer credit support agreement*** means an agreement under which title to property has been provided for the purpose of securing the payment or performance of an obligation in respect of an eligible financial contract;
-> 1996, c. 6, s. 162 (Sch., s. 13); 1997, c. 40, s. 109; 1999, c. 28, s. 133, c. 34, s. 228; 2007, c. 29, s. 111; 2012, c. 31, s. 170.
+***title transfer credit support agreement*** means an agreement under which title to property has been provided for the purpose of securing the payment or performance of an obligation in respect of an eligible financial contract. (*accord de transfert de titres pour obtention de crédit*)
+> 1996, c. 6, s. 162 (Sch., s. 13); 1997, c. 40, s. 109; 1999, c. 28, s. 133, c. 34, s. 228; 2007, c. 29, s. 111; 2012, c. 31, s. 170; 2016, c. 7, s. 166.
 
 
 
@@ -381,11 +383,11 @@ For greater certainty, it includes a system or arrangement for the clearing or s
 
 **Sections 39.15 and 39.152 of [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md)**
 
-- **(1.1)** Despite subsection (1), no action may be taken in respect of an eligible financial contract, as defined in subsection 39.15(9) of the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md), if it is prevented by subsection 39.15(7.01), (7.1) or (7.11) or section 39.152 of that Act.
+- **(1.1)** Despite subsection (1), no action may be taken in respect of an ***eligible financial contract***, as defined in subsection 39.15(9) of the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md), if it is prevented by subsection 39.15(7.01), (7.1), (7.11), (7.12) or (7.2) or section 39.152 of that Act.
 
 **Designation by Minister**
 
-- **(2)** For the purpose of this section, the Minister may designate an entity, other than one mentioned in paragraph (a), (b) or (c) of the definition “securities and derivatives clearing house” in subsection (3), as a securities and derivatives clearing house if
+- **(2)** For the purpose of this section, the Minister may designate an entity, other than one mentioned in paragraph (a), (b) or (c) of the definition ***securities and derivatives clearing house*** in subsection (3), as a securities and derivatives clearing house if
 	- **(a)** the Minister is of the opinion that it is in the public interest to do so; and
 	- **(b)** the entity provides clearing and settlement services to its clearing members in respect of transactions that involve securities or derivatives.
 
@@ -393,19 +395,19 @@ For greater certainty, it includes a system or arrangement for the clearing or s
 
 - **(3)** The definitions in this subsection apply in this section.
 
-***clearing member*** means a person who uses the services of a securities and derivatives clearing house.
+***clearing member*** means a person who uses the services of a securities and derivatives clearing house. (*membre*)
 
-***net termination value*** means the net amount obtained after setting off or compensating or otherwise netting the obligations between a securities and derivatives clearing house and a clearing member in accordance with the netting agreement.
+***net termination value*** means the net amount obtained after setting off or compensating or otherwise netting the obligations between a securities and derivatives clearing house and a clearing member in accordance with the netting agreement. (*reliquat net*)
 
-***netting agreement*** means an agreement between a securities and derivatives clearing house and a clearing member that is
+***netting agreement*** means an agreement between a securities and derivatives clearing house and a clearing member that is
 - **(a)** an eligible financial contract; or
-- **(b)** an agreement that provides for the netting or setting off or compensation of present or future obligations to make payments or deliveries against present or future rights to receive payments or take deliveries.
+- **(b)** an agreement that provides for the netting or setting off or compensation of present or future obligations to make payments or deliveries against present or future rights to receive payments or take deliveries. (*accord de compensation*)
 
-***securities and derivatives clearing house*** means, in addition to an entity designated under subsection (2),
+***securities and derivatives clearing house*** means, in addition to an entity designated under subsection (2),
 - **(a)** the Canadian Derivatives Clearing Corporation, incorporated under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md);
 - **(b)** the CDS Clearing and Depository Services Inc., a corporation incorporated under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md); or
-- **(c)** the WCE Clearing Corporation, incorporated under The Corporations Act, chapter C225 of the Re-enacted Statutes of Manitoba 1987.
-> 2002, c. 14, s. 1; 2007, c. 6, s. 442, c. 29, s. 112; 2012, c. 31, s. 171.
+- **(c)** the WCE Clearing Corporation, incorporated under The Corporations Act, chapter C225 of the Re-enacted Statutes of Manitoba 1987. (*chambre spécialisée*)
+> 2002, c. 14, s. 1; 2007, c. 6, s. 442, c. 29, s. 112; 2012, c. 31, s. 171; 2016, c. 7, s. 167.
 
 
 
@@ -525,7 +527,7 @@ For greater certainty, it includes a system or arrangement for the clearing or s
 	- **(a)** to any government authority or regulatory body charged with the regulation of
 		- **(i)** financial institutions, as defined in section 2 of the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md), for purposes related to that regulation, or
 		- **(ii)** entities that provide clearing or settlement services in connection with securities transactions or eligible financial contracts, for purposes related to that regulation; and
-	- **(b)** to the Deputy Minister of Finance or any officer of the Department of Finance authorized in writing by the Deputy Minister of Finance or to the Chairperson of the Canada Deposit Insurance Corporation or any officer of that Corporation authorized in writing by the Chairperson.
+	- **(b)** to the Deputy Minister of Finance or any officer of the Department of Finance authorized in writing by the Deputy Minister of Finance or to the Chief Executive Officer of the Canada Deposit Insurance Corporation or any other officer of that Corporation authorized in writing by the Chief Executive Officer.
 
 **Disclosure permitted**
 
@@ -534,7 +536,7 @@ For greater certainty, it includes a system or arrangement for the clearing or s
 **Disclosure outside Canada**
 
 - **(4)** Before the Bank discloses information to a government authority or regulatory body outside Canada, the Bank shall enter into an arrangement or agreement with the authority or body regarding the terms of the disclosure.
-> 1996, c. 6, s. 162 (Sch., s. 18); 2012, c. 5, s. 215; 2014, c. 39, s. 372.
+> 1996, c. 6, s. 162 (Sch., s. 18); 2012, c. 5, s. 215; 2014, c. 39, s. 372; 2016, c. 7, s. 178.
 
 
 
