@@ -5768,6 +5768,43 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 
 
+**Montant supérieur à 10 000 000 $ — caution**
+
+**286.1** 
+
+- **(1)** Le ministre peut, par avis envoyé à une personne, exiger que soit fournie sous une forme qu’il juge acceptable une caution d’un montant qui ne peut dépasser le montant qui correspond au plus élevé de 0 $ et du montant obtenu par la formule suivante :
+```
+(A/2) – B – 10 000 000 $
+```
+où :
+- **A** représente le total des montants dont chacun est :
+- **a)** soit une somme visée par une cotisation établie à l’égard de la personne en vertu de la présente loi et dont une partie demeure impayée,
+- **b)** soit une pénalité dont la personne est redevable en vertu de la présente loi et dont une partie demeure impayée;
+- **B** le plus élevé de 0 $ et du montant obtenu par la formule suivante :
+```
+C – (D/2)
+```
+où :
+- **C** représente le total des sommes que la personne a payées en réduction du montant correspondant à la valeur de l’élément A de la première formule figurant au présent paragraphe,
+- **D** la valeur de l’élément A de la première formule figurant au présent paragraphe.
+
+**Délai — caution**
+
+- **(2)** La caution exigée en vertu du paragraphe (1) doit être fournie au ministre dans un délai de 60 jours suivant la date à laquelle le ministre l’a exigée.
+
+**Types de cautions**
+
+- **(3)** Les types de cautions acceptables pour l’application du paragraphe (1) correspondent aux types de cautions acceptables pour l’application de l’alinéa 23(3)b).
+
+**Défaut de se conformer**
+
+- **(4)** Malgré les paragraphes 286(1) à (7), le ministre peut recouvrer une somme équivalant au montant de la caution exigée en vertu du paragraphe (1) si cette dernière ne lui est pas fournie conformément au présent article.
+> 2016, ch. 7, art. 76.
+
+
+
+
+
 **Recouvrement compromis**
 
 **287** 
