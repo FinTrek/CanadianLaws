@@ -120,7 +120,7 @@
 
 ***prestation variable*** Prestation de pension versée sous la forme de paiements variables faits sur le fonds de pension. (*variable benefit*)
 
-***province désignée*** Province où, selon les règlements, est en vigueur une loi dans une large mesure comparable à la présente loi. (*designated province*)
+***province désignée*** Province où, selon les règlements, est en vigueur une loi sur les pensions applicable aux régimes privés de retraite. (*designated province*) 
 
 ***régime à cotisations déterminées*** Régime de pension qui, à l’exception des dispositions à prestations déterminées suivantes, ne contient que des dispositions à cotisations déterminées :
 - **a)** celles qui portent sur les prestations de pension accumulées au titre d’un emploi avant la prise d’effet du régime;
