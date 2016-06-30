@@ -63,7 +63,7 @@
 - **(a)** contributions made by and on behalf of that member, and
 - **(b)** interest earnings and other gains and losses allocated to that member; (*disposition à cotisations déterminées*)
 
-***designated province*** means a province prescribed as a province in which there is in force a law substantially similar to this Act; (*province désignée*)
+***designated province*** means a province prescribed as a province in which there is in force pension legislation applicable to private superannuation plans; (*province désignée*)
 
 ***electronic document*** means any form of representation of information or of concepts fixed in any medium by electronic, optical or other similar means that can be read or perceived by a person or by any means; (*document électronique*)
 
