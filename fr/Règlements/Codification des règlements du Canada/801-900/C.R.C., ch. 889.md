@@ -4234,7 +4234,7 @@ TABLEAU 13
 <tr>
 <td>EC n<sup>o</sup> 4</td>
 <td>43</td>
-<td>92 % de gruau sain</td>
+<td>Couleur médiocre, 92 % de gruau sain</td>
 <td>1</td>
 <td>8</td>
 <td>8</td>
@@ -5021,7 +5021,7 @@ TABLEAU 54
 </tr>
 </table>
 
-> DORS/78-55, art. 5; DORS/79-543, art. 2; DORS/80-575, art. 1 et 2; DORS/81-559, art. 1; DORS/82-740, art. 1; DORS/83-628, art. 3; DORS/85-677, art. 8; DORS/87-391, art. 1; DORS/88-506, art. 1; DORS/89-364, art. 1; DORS/89-395, art. 2(F); DORS/90-324, art. 1(F), 2(F) et 3 à 5; DORS/91-282, art. 1 à 4; DORS/92-172, art. 1, 2(F), 3(F), 4, 5 et 6(F); DORS/93-362, art. 1 à 10; DORS/94-507, art. 1 à 3; DORS/95-336, art. 1 à 5; DORS/95-403, art. 1; DORS/96-300, art. 1 à 3; DORS/97-285, art. 1 à 4; DORS/97-356, art. 1; DORS/98-333, art. 1 à 5; DORS/99-303, art. 1 à 7; DORS/2000-213, art. 8; DORS/2000-276, art. 1 à 6; DORS/2001-242, art. 1 à 4; DORS/2002-286, art. 1 à 4, 5(A), 6, 7(A), 8, 9(F), 10(A), 11 à 13(F), 14 à 16 et 17(F); DORS/2003-285, art. 2 à 4, 5(F), 6, 7(F) et 8(F); DORS/2004-169, art. 1, 2, 3(F), 4, 5(F), 6 à 9, 10(F), 11, 12, 13(F) et 14; DORS/2005-225, art. 1 à 3(F), 4 et 5; DORS/2005-330, art. 1(A); DORS/2006-146, art. 1; DORS/2007-162, art. 1 et 2; DORS/2008-219, art. 1, 2(F), 3(F), 4(A), 5, 6(F), 7(A), 8(F), 9(A), 10, 11(A), 12, 13(A), 14, 15(F), 16(A), 17, 18(A), 19, 20(F), 21 à 23, 24(F), 25(A), 26 et 27, err., Vol. 142, n<sup>o</sup>o 15; DORS/2009-209, art. 1(A), 2 à 4(F), 5(A), 6, 7(F) et 8; DORS/2010-160, art. 1 et 2; DORS/2011-123, art. 1 et 2; DORS/2012-38, art. 1; DORS/2012-137, art. 1 à 3; DORS/2013-145, art. 1; DORS/2014-150, art. 1 à 4; DORS/2014-194, art. 1.
+> DORS/78-55, art. 5; DORS/79-543, art. 2; DORS/80-575, art. 1 et 2; DORS/81-559, art. 1; DORS/82-740, art. 1; DORS/83-628, art. 3; DORS/85-677, art. 8; DORS/87-391, art. 1; DORS/88-506, art. 1; DORS/89-364, art. 1; DORS/89-395, art. 2(F); DORS/90-324, art. 1(F), 2(F) et 3 à 5; DORS/91-282, art. 1 à 4; DORS/92-172, art. 1, 2(F), 3(F), 4, 5 et 6(F); DORS/93-362, art. 1 à 10; DORS/94-507, art. 1 à 3; DORS/95-336, art. 1 à 5; DORS/95-403, art. 1; DORS/96-300, art. 1 à 3; DORS/97-285, art. 1 à 4; DORS/97-356, art. 1; DORS/98-333, art. 1 à 5; DORS/99-303, art. 1 à 7; DORS/2000-213, art. 8; DORS/2000-276, art. 1 à 6; DORS/2001-242, art. 1 à 4; DORS/2002-286, art. 1 à 4, 5(A), 6, 7(A), 8, 9(F), 10(A), 11 à 13(F), 14 à 16 et 17(F); DORS/2003-285, art. 2 à 4, 5(F), 6, 7(F) et 8(F); DORS/2004-169, art. 1, 2, 3(F), 4, 5(F), 6 à 9, 10(F), 11, 12, 13(F) et 14; DORS/2005-225, art. 1 à 3(F), 4 et 5; DORS/2005-330, art. 1(A); DORS/2006-146, art. 1; DORS/2007-162, art. 1 et 2; DORS/2008-219, art. 1, 2(F), 3(F), 4(A), 5, 6(F), 7(A), 8(F), 9(A), 10, 11(A), 12, 13(A), 14, 15(F), 16(A), 17, 18(A), 19, 20(F), 21 à 23, 24(F), 25(A), 26 et 27, err., Vol. 142, n<sup>o</sup>o 15; DORS/2009-209, art. 1(A), 2 à 4(F), 5(A), 6, 7(F) et 8; DORS/2010-160, art. 1 et 2; DORS/2011-123, art. 1 et 2; DORS/2012-38, art. 1; DORS/2012-137, art. 1 à 3; DORS/2013-145, art. 1; DORS/2014-150, art. 1 à 4; DORS/2014-194, art. 1; DORS/2016-204, art. 9.
 
 
 
