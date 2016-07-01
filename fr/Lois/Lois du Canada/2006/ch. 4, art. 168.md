@@ -80,22 +80,22 @@ Sanctionnée sur le 22 juin 2006
 	- **a)** une prestation de 50 $, si le particulier admissible est un parent ayant la garde partagée à l’égard de la personne à charge;
 	- **b)** une prestation de 100 $, dans les autres cas.
 
-**Enfant de moins de six ans — 1<sup>er</sup> janvier 2015**
+**Enfants de moins de six ans — de janvier 2015 à juin 2016**
 
-- **(1.1)** Le ministre verse au particulier admissible, pour chaque mois — à compter du 1<sup>er</sup> janvier 2015 — au début duquel il a cette qualité, à l’égard de tout enfant qui, au début du mois, est une personne à charge admissible de celui-ci âgée de moins de six ans :
+- **(1.1)** Le ministre verse au particulier admissible, pour chaque mois — à compter du 1<sup>er</sup> janvier 2015 mais avant le 1<sup>er</sup> juillet 2016 — au début duquel il a cette qualité, à l’égard de tout enfant qui, au début du mois, est une personne à charge admissible de celui-ci âgée de moins de six ans :
 	- **a)** une prestation de 80 $, si le particulier admissible est un parent ayant la garde partagée à l’égard de la personne à charge;
 	- **b)** une prestation de 160 $, dans les autres cas.
 
-**Autres enfants — 1<sup>er</sup> janvier 2015**
+**Autres enfants — de janvier 2015 à juin 2016**
 
-- **(1.2)** Le ministre verse au particulier admissible, pour chaque mois — à compter du 1<sup>er</sup> janvier 2015 — au début duquel il a cette qualité, à l’égard de tout enfant qui, au début du mois, est une personne à charge admissible de celui-ci âgée de six ans ou plus :
+- **(1.2)** Le ministre verse au particulier admissible, pour chaque mois — à compter du 1<sup>er</sup> janvier 2015 mais avant le 1<sup>er</sup> juillet 2016 — au début duquel il a cette qualité, à l’égard de tout enfant qui, au début du mois, est une personne à charge admissible de celui-ci âgée de six ans ou plus :
 	- **a)** une prestation de 30 $, si le particulier admissible est un parent ayant la garde partagée à l’égard de la personne à charge;
 	- **b)** une prestation de 60 $, dans les autres cas.
 
 **Restriction**
 
 - **(2)** La prestation ne peut être versée à l’égard d’un mois antérieur à juillet 2006.
-> 2006, ch. 4, art. 168 « 4 »; 2010, ch. 25, art. 75; 2015, ch. 36, art. 37.
+> 2006, ch. 4, art. 168 « 4 »; 2010, ch. 25, art. 75; 2015, ch. 36, art. 37; 2016, ch. 7, art. 53.
 
 
 
