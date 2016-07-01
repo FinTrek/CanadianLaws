@@ -89,13 +89,13 @@ Sanctionnée sur le 1 janvier 1993
 - **(1)** Est ajouté à l’allocation spéciale mensuelle versée en vertu de l’article 3 pour un enfant qui, au début du mois donné, est âgé :
 	- **a)** de moins de six ans :
 		- **(i)** un supplément de 100 $, pour chaque mois antérieur au 1<sup>er</sup> janvier 2015,
-		- **(ii)** un supplément de 160 $, pour chaque mois à compter du 1<sup>er</sup> janvier 2015;
-	- **b)** de six ans ou plus, un supplément de 60 $, pour chaque mois à compter du 1<sup>er</sup> janvier 2015.
+		- **(ii)** un supplément de 160 $, pour chaque mois à compter du 1<sup>er</sup> janvier 2015 mais avant le 1<sup>er</sup> juillet 2016;
+	- **b)** de six ans ou plus, un supplément de 60 $, pour chaque mois à compter du 1<sup>er</sup> janvier 2015 mais avant le 1<sup>er</sup> juillet 2016.
 
 **Prélèvement sur le Trésor**
 
 - **(2)** Le supplément est prélevé sur le Trésor.
-> 2006, ch. 4, art. 170; 2015, ch. 36, art. 38.
+> 2006, ch. 4, art. 170; 2015, ch. 36, art. 38; 2016, ch. 7, art. 51.
 
 
 
@@ -163,22 +163,15 @@ Sanctionnée sur le 1 janvier 1993
 
 **8** 
 
-- **(1)** Le montant mensuel de l’allocation spéciale correspond au douzième de la somme des montants suivants :
-	- **a)
-** le montant exprimé en dollars à l’alinéa 
-a) de l’élément A de la formule figurant au paragraphe 122.61(1) de la 
-[Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
-	- **b)
-** le montant exprimé en dollars à l’alinéa 
-a) de l’élément F de la formule figurant à ce paragraphe;
-	- **c)
-** si un montant est déductible pour l’enfant en application de l’article 118.3 de cette loi, le montant exprimé en dollars à l’élément N de la formule figurant au paragraphe 122.61(1) de cette loi.
-Chacun de ces montants est rajusté et arrondi conformément aux paragraphes 122.61(5) et (7) de cette loi.
+- **(1)** Le montant mensuel de l’allocation spéciale correspond au douzième de la somme des montants suivants :
+	- **a)** si l’enfant n’a pas atteint six ans au début du mois, le montant applicable exprimé en dollars à l’alinéa a) de l’élément E de la formule figurant au paragraphe 122.61(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
+	- **b)** si l’enfant est âgé de six ans ou plus au début du mois, le montant exprimé en dollars à l’alinéa b) de l’élément E de la formule figurant au paragraphe 122.61(1) de cette loi;
+	- **c)** si un montant est déductible pour l’enfant en application de l’article 118.3 de cette loi pour l’année d’imposition qui comprend le mois, le montant exprimé en dollars à l’élément N de la formule figurant au paragraphe 122.61(1) de cette loi.
 
 **Arrondissement des montants**
 
 - **(2)** Dans les calculs visés au paragraphe (1), les résultats qui sont formés d’une fraction d’un cent sont arrondis à l’unité la plus proche ou, s’ils sont formés d’un demi-cent, à l’unité supérieure.
-> 1992, ch. 48, art. 23 (ann., art. 8); 1998, ch. 21, art. 98; 2003, ch. 15, art. 90.
+> 1992, ch. 48, art. 23 (ann., art. 8); 1998, ch. 21, art. 98; 2003, ch. 15, art. 90; 2016, ch. 7, art. 52.
 
 
 
