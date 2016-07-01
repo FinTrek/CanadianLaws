@@ -92,13 +92,13 @@ and who resides in an institution, a group foster home, the private home of fost
 - **(1)** There shall be added to a special allowance that is payable under section 3, for a child who, at the beginning of the month for which that allowance is payable,
 	- **(a)** is under six years of age,
 		- **(i)** a special allowance supplement in the amount of $100, in respect of every month before January 1, 2015, or
-		- **(ii)** a special allowance supplement in the amount of $160, in respect of every month as of January 1, 2015; and
-	- **(b)** is six years of age or older, a special allowance supplement in the amount of $60, in respect of every month as of January 1, 2015.
+		- **(ii)** a special allowance supplement in the amount of $160, in respect of every month as of January 1, 2015 but before July 1, 2016; and
+	- **(b)** is six years of age or older, a special allowance supplement in the amount of $60, in respect of every month as of January 1, 2015 but before July 1, 2016.
 
 **Payment out of Consolidated Revenue Fund**
 
 - **(2)** The supplement is to be paid out of the Consolidated Revenue Fund.
-> 2006, c. 4, s. 170; 2015, c. 36, s. 38.
+> 2006, c. 4, s. 170; 2015, c. 36, s. 38; 2016, c. 7, s. 51.
 
 
 
@@ -169,17 +169,15 @@ and who resides in an institution, a group foster home, the private home of fost
 
 **8** 
 
-- **(1)** The amount of special allowance to be paid in respect of a child for each month is one twelfth of the total of
-	- **(a)** the amount expressed in dollars in paragraph (a) of the description of A in subsection 122.61(1) of the 
-[Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md),
-	- **(b)** the amount expressed in dollars in paragraph (a) of the description of F in that subsection, and
-	- **(c)** if an amount may be deducted under section 118.3 of that Act in respect of the child, the amount expressed in dollars in the description of N in subsection 122.61(1) of that Act,
-each such amount being adjusted and rounded in accordance with subsections 122.61(5) and (7) of that Act.
+- **(1)** The amount of special allowance to be paid in respect of a child for a month is one twelfth of the total of
+	- **(a)** if the child has not reached the age of six years at the beginning of the month, the amount expressed in dollars in paragraph (a) of the description of E in subsection 122.61(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md),
+	- **(b)** if the child is six years of age or older at the beginning of the month, the amount expressed in dollars in paragraph (b) of the description of E in subsection 122.61(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), and
+	- **(c)** if an amount may be deducted under section 118.3 of the[Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) in respect of the child for the taxation year that includes the month, the amount expressed in dollars in the description of N in subsection 122.61(1) of that Act.
 
 **Rounding of amounts**
 
 - **(2)** In the event that an amount calculated pursuant to subsection (1) contains a fraction of a cent, the amount shall be rounded to the nearest whole cent or, if the result is equidistant from two whole cents, to the higher thereof.
-> 1992, c. 48, s. 23 (Sch., s. 8); 1998, c. 21, s. 98; 2003, c. 15, s. 90.
+> 1992, c. 48, s. 23 (Sch., s. 8); 1998, c. 21, s. 98; 2003, c. 15, s. 90; 2016, c. 7, s. 52.
 
 
 
