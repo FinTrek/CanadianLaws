@@ -39,65 +39,67 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***affidavit*** L’affidavit souscrit sous serment ou par affirmation solennelle devant un commissaire ou une autre personne autorisée à recevoir les affidavits.
+***affidavit*** L’affidavit souscrit sous serment ou par affirmation solennelle devant un commissaire ou une autre personne autorisée à recevoir les affidavits. (*affidavit*)
 
-***année*** Année civile.
+***année*** Année civile. (*year*)
 
-***arrêt de rémunération*** L’arrêt de la rémunération d’un assuré ou de toute personne à laquelle s’applique la partie VII.1 qui se produit dans les cas et aux moments déterminés par règlement.
+***arrêt de rémunération*** L’arrêt de la rémunération d’un assuré ou de toute personne à laquelle s’applique la partie VII.1 qui se produit dans les cas et aux moments déterminés par règlement. (*interruption of earnings*)
 
-***assuré*** Personne qui exerce ou a exercé un emploi assurable.
+***assuré*** Personne qui exerce ou a exercé un emploi assurable. (*insured person*)
 
-***Commission*** La Commission de l’assurance-emploi du Canada.
+***Commission*** La Commission de l’assurance-emploi du Canada. (*Commission*)
 
-***conflit collectif*** Conflit, entre employeurs et employés ou entre employés, qui se rattache à l’emploi ou aux modalités d’emploi de certaines personnes ou au fait qu’elles ne sont pas employées.
+***conflit collectif*** Conflit, entre employeurs et employés ou entre employés, qui se rattache à l’emploi ou aux modalités d’emploi de certaines personnes ou au fait qu’elles ne sont pas employées. (*labour dispute*)
 
-***conjoint de fait*** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an.
+***conjoint de fait*** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an. (*common-law partner*)
 
 ***conseil arbitral***[Abrogée, 2012, ch. 19, art. 240]
 
-***cotisation ouvrière*** La cotisation qu’une personne exerçant un emploi assurable est tenue de payer au titre de l’article 67.
+***cotisation ouvrière*** La cotisation qu’une personne exerçant un emploi assurable est tenue de payer au titre de l’article 67. (*employee’s premium*)
 
-***cotisation patronale*** La cotisation que l’employeur d’un assuré est tenu de payer au titre de l’article 68.
+***cotisation patronale*** La cotisation que l’employeur d’un assuré est tenu de payer au titre de l’article 68. (*employer’s premium*)
 
-***documents*** Sont compris parmi les documents les livres, les registres, les lettres, les télégrammes, les pièces justificatives, les factures, les comptes et les états, financiers ou non. Sont assimilés à des documents l’argent et les titres.
+***documents*** Sont compris parmi les documents les livres, les registres, les lettres, les télégrammes, les pièces justificatives, les factures, les comptes et les états, financiers ou non. Sont assimilés à des documents l’argent et les titres. (*documents*)
 
-***emploi*** Le fait d’employer ou l’état d’employé.
+***emploi*** Le fait d’employer ou l’état d’employé. (*employment*)
 
-***emploi assurable*** S’entend au sens de l’article 5.
+***emploi assurable*** S’entend au sens de l’article 5. (*insurable employment*)
 
-***employeur*** Sont assimilés à un employeur une personne qui a été employeur, de même que, du point de vue de la rémunération qu’il en tire, le particulier promoteur ou coordonnateur d’un projet visé à l’alinéa 5(1)e).
+***employeur*** Sont assimilés à un employeur une personne qui a été employeur, de même que, du point de vue de la rémunération qu’il en tire, le particulier promoteur ou coordonnateur d’un projet visé à l’alinéa 5(1)e). (*employer*)
 
 ***juge-arbitre***[Abrogée, 2012, ch. 19, art. 240]
 
-***loi provinciale*** Les dispositions d’une loi provinciale qui autorisent le paiement de prestations en vertu d’un régime établi sous le régime de cette loi ou qui rendent une personne admissible à un tel paiement.
+***loi provinciale*** Les dispositions d’une loi provinciale qui autorisent le paiement de prestations en vertu d’un régime établi sous le régime de cette loi ou qui rendent une personne admissible à un tel paiement. (*provincial law*)
 
-***maison d’habitation*** Tout ou partie de quelque bâtiment ou construction tenu ou occupé comme résidence permanente ou temporaire, y compris :
+***maison d’habitation*** Tout ou partie de quelque bâtiment ou construction tenu ou occupé comme résidence permanente ou temporaire, y compris :
 - **a)** un bâtiment qui se trouve dans la même enceinte qu’une maison d’habitation et qui y est relié par une baie de porte ou par un passage couvert et clos;
-- **b)** une unité conçue pour être mobile et pour être utilisée comme résidence permanente ou temporaire et qui est ainsi utilisée.
+- **b)** une unité conçue pour être mobile et pour être utilisée comme résidence permanente ou temporaire et qui est ainsi utilisée. (*dwelling-house*)
 
-***ministre*** Sauf aux parties IV et VII, le ministre de l’Emploi et du Développement social .
+***ministre*** Sauf aux parties IV et VII, le ministre de l’Emploi et du Développement social . (*Minister*)
 
-***période de prestations*** La période visée aux articles 9, 10, 152.1 et 152.11.
+***période de prestations*** La période visée aux articles 9, 10, 152.1 et 152.11. (*benefit period*)
 
-***prestataire*** Personne qui demande ou qui a demandé des prestations en vertu de la présente loi.
+***prestataire*** Personne qui demande ou qui a demandé des prestations en vertu de la présente loi. (*claimant*)
 
-***prestation*** Prestation de chômage à payer en application de la partie I, VII.1 ou VIII. En est exclue la prestation d’emploi.
+***prestation*** Prestation de chômage à payer en application de la partie I, VII.1 ou VIII. En est exclue la prestation d’emploi. (*benefits*)
 
-***prestation d’emploi*** Prestation prévue à l’article 59.
+***prestation d’emploi*** Prestation prévue à l’article 59. (*employment benefits*)
 
-***prestations régulières*** Prestations versées au titre de la partie I ou VIII, à l’exception des prestations spéciales ou en raison de l’article 24 ou 25.
+***prestations régulières*** Prestations versées au titre de la partie I ou VIII, à l’exception des prestations spéciales ou en raison de l’article 24 ou 25. (*regular benefits*)
 
-***prestations spéciales*** Prestations versées pour une raison mentionnée au paragraphe 12(3).
+***prestations spéciales*** Prestations versées pour une raison mentionnée au paragraphe 12(3). (*special benefits*)
 
-***rémunération assurable*** Le total de la rémunération d’un assuré, déterminé conformément à la partie IV, provenant de tout emploi assurable.
+***rémunération assurable*** Le total de la rémunération d’un assuré, déterminé conformément à la partie IV, provenant de tout emploi assurable. (*insurable earnings*)
 
-***semaine*** Période de sept jours consécutifs commençant le dimanche, de même que toute autre période prévue par règlement.
+***semaine*** Période de sept jours consécutifs commençant le dimanche, de même que toute autre période prévue par règlement. (*week*)
 
-***service de messagerie*** Service de courrier recommandé ou certifié, de même que tout autre service de messagerie fournissant une preuve de livraison.
+***service de messagerie*** Service de courrier recommandé ou certifié, de même que tout autre service de messagerie fournissant une preuve de livraison. (*confirmed delivery service*)
 
-***taux de chômage*** Le taux de chômage calculé de temps à autre au cours d’une année.
+***taux de chômage*** Le taux de chômage calculé de temps à autre au cours d’une année. (*rate of unemployment*)
 
-***versement excédentaire de prestations*** En est exclu un remboursement de prestations au sens de la partie VII.
+***travailleur de longue date*** S’entend du prestataire à qui ont été versées des prestations régulières pour moins de trente-six semaines au cours des deux cent soixante semaines précédant le début de sa période de prestations et qui, selon ses déclarations de revenus ayant fait l’objet d’un avis de cotisation de l’Agence du revenu du Canada, a versé au moins trente pour cent de la cotisation ouvrière maximale pour un an pendant sept des dix années précédant le début de sa période de prestations ou, si sa déclaration de revenus pour l’année précédant le début de cette période n’a pas encore été produite à l’Agence ou fait l’objet d’un avis de cotisation par celle-ci, pendant sept des dix années précédant cette année-là. (*long-tenured worker*)
+
+***versement excédentaire de prestations*** En est exclu un remboursement de prestations au sens de la partie VII. (*overpayment of benefits*)
 
 **Taux de chômage de Statistique Canada**
 
@@ -113,8 +115,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Semaines de prestations**
 
-- **(5)** Pour l’application du paragraphe 7(4.1) et de l’article 145 et en vue de tenir compte de toute déduction ou réduction afférente au calcul ou au versement des prestations, la Commission peut, avec l’agrément du gouverneur en conseil, prendre des règlements concernant la détermination du nombre de semaines à l’égard desquelles des prestations ont été versées au prestataire.
-> 1996, ch. 23, art. 2 et 189; 2000, ch. 12, art. 106; 2001, ch. 5, art. 1; 2003, ch. 15, art. 15; 2005, ch. 34, art. 80; 2009, ch. 33, art. 2; 2012, ch. 19, art. 240; 2013, ch. 40, art. 238.
+- **(5)** Pour l’application de l’article 145 et en vue de tenir compte de toute déduction ou réduction afférente au calcul ou au versement des prestations, la Commission peut, avec l’agrément du gouverneur en conseil, prendre des règlements concernant la détermination du nombre de semaines pour lesquelles des prestations ont été versées au prestataire.
+> 1996, ch. 23, art. 2 et 189; 2000, ch. 12, art. 106; 2001, ch. 5, art. 1; 2003, ch. 15, art. 15; 2005, ch. 34, art. 80; 2009, ch. 33, art. 2; 2012, ch. 19, art. 240; 2013, ch. 40, art. 238; 2016, ch. 7, art. 207.
 
 
 
@@ -302,7 +304,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Conditions requises**
 
-- **(2)** L’assuré autre qu’une personne qui devient ou redevient membre de la population active remplit les conditions requises si, à la fois :
+- **(2)** L’assuré remplit les conditions requises si, à la fois :
 	- **a)** il y a eu arrêt de la rémunération provenant de son emploi;
 	- **b)** il a, au cours de sa période de référence, exercé un emploi assurable pendant au moins le nombre d’heures indiqué au tableau qui suit en fonction du taux régional de chômage qui lui est applicable.
 #### TABLEAU
@@ -350,42 +352,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 </table>
 
 
-**Conditions différentes à l’égard de la personne qui devient ou redevient membre de la population active**
-
-- **(3)** L’assuré qui est une personne qui devient ou redevient membre de la population active remplit les conditions requises si, à la fois :
-	- **a)** il y a eu arrêt de la rémunération provenant de son emploi;
-	- **b)** il a, au cours de sa période de référence, exercé un emploi assurable pendant au moins neuf cent dix heures.
-
-**Personne qui devient ou redevient membre de la population active**
-
-- **(4)** La personne qui devient ou redevient membre de la population active est celle qui, au cours de la période de cinquante-deux semaines qui précède le début de sa période de référence, a cumulé, selon le cas :
-	- **a)** moins de quatre cent quatre-vingt-dix heures d’emploi assurable;
-	- **b)** moins de quatre cent quatre-vingt-dix heures au cours desquelles des prestations lui ont été payées ou lui étaient payables, chaque semaine de prestations se composant de trente-cinq heures;
-	- **c)** moins de quatre cent quatre-vingt-dix heures reliées à un emploi sur le marché du travail, tel qu’il est prévu par règlement;
-	- **d)** moins de quatre cent quatre-vingt-dix de l’une ou l’autre de ces heures.
-
-**Exception**
-
-- **(4.1)** L’assuré n’est pas une personne qui devient ou redevient membre de la population active dans le cas où une ou plusieurs semaines de prestations spéciales visées aux alinéas 12(3)a) ou b) lui ont été versées — ou dans celui où une ou plusieurs semaines de prestations visées aux alinéas 152.14(1)a) ou b) lui ont été versées à titre de travailleur indépendant au titre de la partie VII.1 — au cours de la période de deux cent huit semaines qui précède la période de cinquante-deux semaines précédant le début de sa période de référence, ou dans les autres cas prévus par règlement qui sont survenus au cours de cette période de deux cent huit semaines.
-
-**Calcul des heures**
-
-- **(5)** Pour l’application du paragraphe (4), une heure comptée au titre de l’un des alinéas (4)a) à c) ne peut l’être à nouveau au titre de l’un ou l’autre de ces alinéas.
+- **(3) à (5)** [Abrogés, 2016, ch. 7, art. 209]
 
 **Droit aux prestations : accord canado-américain**
 
 - **(6)** L’assuré ne remplit pas les conditions requises s’il est convenu, au titre de l’Article VI de l’Accord entre le Canada et les États-Unis d’Amérique concernant l’assurance-chômage signé les 6 et 12 mars 1942, qu’il doit d’abord épuiser ses droits de recevoir des prestations, ou y mettre fin, aux termes des lois de l’autre juridiction.
-> 1996, ch. 23, art. 7; 1999, ch. 31, art. 75(A); 2001, ch. 5, art. 4; 2009, ch. 33, art. 3.
+> 1996, ch. 23, art. 7; 1999, ch. 31, art. 75(A); 2001, ch. 5, art. 4; 2009, ch. 33, art. 3; 2016, ch. 7, art. 209.
 
 
 
 
 
-**Majoration du nombre d’heures d’emploi assurable requis**
+**Majoration du nombre d’heures requis**
 
 **7.1** 
 
-- **(1)** Le nombre d’heures d’emploi assurable requis au titre de l’article 7 est majoré conformément au tableau qui suit, en fonction du taux régional de chômage applicable, à l’égard de l’assuré autre qu’une personne qui devient ou redevient membre de la population active s’il est responsable d’une ou de plusieurs violations au cours des deux cent soixante semaines précédant sa demande initiale de prestations.
+- **(1)** Le nombre d’heures d’emploi assurable requis au titre de l’article 7 est majoré conformément au tableau qui suit, en fonction du taux régional de chômage applicable, à l’égard de l’assuré s’il est responsable d’une ou de plusieurs violations au cours des deux cent soixante semaines précédant sa demande initiale de prestations.
 #### *TABLE* / TABLEAU
 <table>
 <tr>
@@ -512,9 +494,7 @@ plus de 13 %
 </table>
 
 
-**Majoration du nombre d’heures d’emploi assurable requis**
-
-- **(2)** Le nombre d’heures d’emploi assurable requis au titre de l’article 7 à l’égard de la personne qui devient ou redevient membre de la population active est majoré respectivement à mille cent trente-huit heures, mille trois cent soixante-cinq heures ou mille quatre cents heures selon que, au cours des deux cent soixante semaines précédant sa demande initiale de prestations, elle s’est rendue responsable d’une violation mineure, grave ou très grave.
+- **(2)** [Abrogé, 2016, ch. 7, art. 210]
 
 **Assimilation : violation**
 
@@ -522,7 +502,7 @@ plus de 13 %
 
 **Violations prises en compte**
 
-- **(3)** Une violation dont un particulier s’est rendu responsable ne peut être prise en compte au titre des paragraphes (1) ou (2) à l’égard de plus de deux demandes initiales de prestations présentées par lui au titre de la présente loi s’il remplit les conditions requises pour recevoir des prestations dans le cadre de chacune de ces deux demandes, compte tenu des paragraphes (1) ou (2), du sous-alinéa 152.07(1)d)(ii) ou des règlements pris en vertu de la partie VIII, selon le cas.
+- **(3)** Une violation dont un particulier s’est rendu responsable ne peut être prise en compte au titre du paragraphe (1) à l’égard de plus de deux demandes initiales de prestations présentées par lui au titre de la présente loi s’il remplit les conditions requises pour recevoir des prestations dans le cadre de chacune de ces deux demandes, compte tenu du paragraphe (1), du sous-alinéa 152.07(1)d)(ii) ou des règlements pris en vertu de la partie VIII, selon le cas.
 
 **Violations**
 
@@ -546,7 +526,7 @@ plus de 13 %
 **Maximum**
 
 - **(7)** Le montant obtenu au titre de l’alinéa (6)b) ne peut excéder le montant des prestations auxquelles le prestataire aurait eu droit s’il n’avait pas été exclu ou déclaré inadmissible ou s’il avait rempli les conditions requises au titre de l’article 7.
-> 1996, ch. 23, art. 7.1; 2009, ch. 33, art. 4.
+> 1996, ch. 23, art. 7.1; 2009, ch. 33, art. 4; 2016, ch. 7, art. 210.
 
 
 
@@ -695,16 +675,46 @@ plus de 13 %
 
 - **(13)** Si, au cours de la période de prestations d’un prestataire, aucune prestation régulière ne lui a été versée, que des prestations pour plus d’une des raisons prévues aux alinéas 12(3)a) à e) lui ont été versées pour un nombre de semaines inférieur au nombre maximal applicable pour au moins une de ces raisons et que le nombre maximal total de semaines de prestations prévu pour celles-ci est supérieur à cinquante, la période de prestations est prolongée du nombre de semaines nécessaire pour que ce nombre maximal total soit atteint.
 
-- **(13.1) à (13.3)** [Abrogés, 2012, ch. 27, art. 13]
+**Prolongation de la période de prestations : dix-sept semaines supplémentaires**
 
-**Prolongation visée aux paragraphes (10) à (13) : durée maximale**
+- **(13.1)** La période de prestations d’un prestataire — qui n’a pas pris fin avant le 3 juillet 2016, ou qui débute à cette date ou après cette date — est prolongée de dix-sept semaines si le nombre de semaines pour lesquelles des prestations peuvent être versées au prestataire a été majoré au titre du paragraphe 12(2.1).
 
-- **(14)** Sous réserve du paragraphe (15), aucune prolongation au titre de l’un des paragraphes (10) à (13) ne peut avoir pour effet de porter la durée d’une période de prestations à plus de cent quatre semaines.
+**Période de prestations réputée ne pas avoir pris fin : dix-sept semaines supplémentaires**
+
+- **(13.2)** Sous réserve des paragraphes (13.7) et (14.1), la période de prestations d’un prestataire qui a pris fin avant le 3 juillet 2016 est, malgré le paragraphe (8), réputée ne pas avoir pris fin et est prolongée de dix-sept semaines à compter du 3 juillet 2016 si le nombre de semaines pour lesquelles des prestations peuvent être versées au prestataire a été majoré au titre du paragraphe 12(2.1).
+
+**Prolongation de la période de prestations : trente-sept semaines supplémentaires**
+
+- **(13.3)** La période de prestations d’un prestataire — qui n’a pas pris fin avant le 3 juillet 2016, ou qui débute à cette date ou après cette date — est prolongée de trente-sept semaines si le nombre de semaines pour lesquelles des prestations peuvent être versées au prestataire a été majoré au titre du paragraphe 12(2.3).
+
+**Période de prestations réputée ne pas avoir pris fin : trente-sept semaines supplémentaires**
+
+- **(13.4)** Sous réserve des paragraphes (13.7) et (14.1), la période de prestations d’un prestataire qui a pris fin avant le 3 juillet 2016 est, malgré le paragraphe (8), réputée ne pas avoir pris fin et est prolongée de trente-sept semaines à compter du 3 juillet 2016 si le nombre de semaines pour lesquelles des prestations peuvent être versées au prestataire a été majoré au titre du paragraphe 12(2.3).
+
+**Prolongation de la période de prestations : vingt-neuf semaines supplémentaires**
+
+- **(13.5)** La période de prestations d’un prestataire est prolongée de vingt-neuf semaines si le nombre de semaines pour lesquelles des prestations peuvent être versées au prestataire a été majoré au titre du paragraphe 12(2.5).
+
+**Prolongation de la période de prestations : vingt-deux semaines supplémentaires**
+
+- **(13.6)** La période de prestations d’un prestataire est prolongée de vingt-deux semaines si le nombre de semaines pour lesquelles des prestations peuvent être versées au prestataire a été majoré au titre du paragraphe 12(2.6).
+
+**Précision**
+
+- **(13.7)** La période de prestations qui est réputée ne pas avoir pris fin au titre des paragraphes (13.2) ou (13.4) exclut la période commençant le jour suivant celui où la période de prestations a pris fin et se terminant le 2 juillet 2016.
+
+**Prolongation visée aux paragraphes (10) à (13.6) : durée maximale**
+
+- **(14)** Sous réserve des paragraphes (14.1) et (15), aucune prolongation au titre de l’un des paragraphes (10) à (13.6) ne peut avoir pour effet de porter la durée d’une période de prestations à plus de cent quatre semaines.
+
+**Inclusion de la période exclue**
+
+- **(14.1)** La période exclue au titre du paragraphe (13.7) est incluse dans le calcul des cent quatre semaines pour l’application du paragraphe (14).
 
 **Prolongation visée au paragraphe (13) : durée maximale**
 
 - **(15)** À défaut de prolongation au titre de l’un des paragraphes (10) à (12.1), aucune prolongation au titre du paragraphe (13) ne peut avoir pour effet de porter la durée de la période de prestations à plus de la somme de deux semaines et du total du nombre maximal de semaines de prestations prévu au paragraphe 12(3) pour les prestations qui ont été versées pour une des raisons prévues aux alinéas 12(3)a) à e) pendant la période de prestations du prestataire avant la prolongation visée au paragraphe (13).
-> 1996, ch. 23, art. 10; 2002, ch. 9, art. 12; 2003, ch. 15, art. 16; 2009, ch. 30, art. 1, ch. 33, art. 5; 2010, ch. 9, art. 2; 2012, ch. 27, art. 13; 2013, ch. 35, art. 2.
+> 1996, ch. 23, art. 10; 2002, ch. 9, art. 12; 2003, ch. 15, art. 16; 2009, ch. 30, art. 1, ch. 33, art. 5; 2010, ch. 9, art. 2; 2012, ch. 27, art. 13; 2013, ch. 35, art. 2; 2016, ch. 7, art. 211.
 
 
 
@@ -743,9 +753,74 @@ plus de 13 %
 
 **Maximum**
 
-- **(2)** Le nombre maximal de semaines pendant lesquelles des prestations peuvent être versées au cours d’une période de prestations — à l’exception de celles qui peuvent être versées pour l’une des raisons prévues au paragraphe (3) — est déterminé selon le tableau de l’annexe I en fonction du taux régional de chômage applicable au prestataire et du nombre d’heures pendant lesquelles il a occupé un emploi assurable au cours de sa période de référence.
+- **(2)** Sous réserve des paragraphes (2.1) à (2.6), le nombre maximal de semaines pour lesquelles des prestations peuvent être versées au cours d’une période de prestations — à l’exception de celles qui peuvent être versées pour l’une des raisons prévues au paragraphe (3) — est déterminé selon le tableau de l’annexe I en fonction du taux régional de chômage applicable au prestataire et du nombre d’heures pendant lesquelles il a occupé un emploi assurable au cours de sa période de référence.
 
-- **(2.1) à (2.4)** [Abrogés, 2009, ch. 30, art. 2]
+**Majoration de cinq semaines**
+
+- **(2.1)** Sous réserve du paragraphe (2.7), le nombre de semaines de prestations figurant au tableau de l’annexe I qui est applicable au prestataire est réputé être le nombre de semaines qui lui serait par ailleurs applicable n’était le présent paragraphe, majoré de cinq, si les conditions suivantes sont réunies :
+	- **a)** le prestataire n’est pas un travailleur de longue date;
+	- **b)** sa période de prestations a débuté durant la période commençant le 4 janvier 2015 et se terminant le 8 juillet 2017;
+	- **c)** son lieu de résidence habituel, au moment où sa période de prestations a débuté, était situé dans une région visée au paragraphe (2.8);
+	- **d)** des prestations lui ont été versées ou devaient lui être versées en application du paragraphe (2) pour au moins une semaine au cours de la période de prestations.
+
+**Versement des prestations : paragraphe 10(13.2)**
+
+- **(2.2)** Si le paragraphe (2.1) s’applique à l’égard d’un prestataire dont la période de prestations est réputée ne pas avoir pris fin au titre du paragraphe 10(13.2) :
+	- **a)** il peut être versé au prestataire, pour les semaines commençant le 3 juillet 2016 ou après cette date, des prestations en application du paragraphe (2) pour, au plus, les cinq semaines supplémentaires visées au paragraphe (2.1);
+	- **b)** il ne peut être versé au prestataire ces cinq semaines supplémentaires de prestations pour toute semaine commençant avant le 3 juillet 2016.
+
+**Majoration de vingt-cinq semaines**
+
+- **(2.3)** Sous réserve du paragraphe (2.7), le nombre de semaines de prestations figurant au tableau de l’annexe I qui est applicable au prestataire est réputé être le nombre de semaines qui lui serait par ailleurs applicable n’était le présent paragraphe, majoré de vingt-cinq, si les conditions suivantes sont réunies :
+	- **a)** le prestataire est un travailleur de longue date;
+	- **b)** sa période de prestations a débuté durant la période commençant le 4 janvier 2015 et se terminant le 29 octobre 2016;
+	- **c)** son lieu de résidence habituel, au moment où sa période de prestations a débuté, était situé dans une région visée au paragraphe (2.8);
+	- **d)** des prestations lui ont été versées ou devaient lui être versées en application du paragraphe (2) pour au moins une semaine au cours de la période de prestations.
+
+**Versement des prestations : paragraphe 10(13.4)**
+
+- **(2.4)** Si le paragraphe (2.3) s’applique à l’égard d’un prestataire dont la période de prestations est réputée ne pas avoir pris fin au titre du paragraphe 10(13.4) :
+	- **a)** il peut être versé au prestataire, pour les semaines commençant le 3 juillet 2016 ou après cette date, des prestations en application du paragraphe (2) pour, au plus, les vingt-cinq semaines supplémentaires visées au paragraphe (2.3);
+	- **b)** il ne peut être versé au prestataire ces vingt-cinq semaines supplémentaires de prestations pour toute semaine commençant avant le 3 juillet 2016.
+
+**Majoration de dix-sept semaines**
+
+- **(2.5)** Le nombre de semaines de prestations figurant au tableau de l’annexe I qui est applicable au prestataire est réputé être le nombre de semaines qui lui serait par ailleurs applicable n’était le présent paragraphe, majoré de dix-sept, si les conditions suivantes sont réunies :
+	- **a)** le prestataire est un travailleur de longue date;
+	- **b)** sa période de prestations a débuté durant la période commençant le 30 octobre 2016 et se terminant le 25 février 2017;
+	- **c)** son lieu de résidence habituel, au moment où sa période de prestations a débuté, était situé dans une région visée au paragraphe (2.8);
+	- **d)** des prestations lui ont été versées ou devaient lui être versées en application du paragraphe (2) pour au moins une semaine au cours de la période de prestations.
+
+**Majoration de dix semaines**
+
+- **(2.6)** Le nombre de semaines de prestations figurant au tableau de l’annexe I qui est applicable au prestataire est réputé être le nombre de semaines qui lui serait par ailleurs applicable n’était le présent paragraphe, majoré de dix, si les conditions suivantes sont réunies :
+	- **a)** le prestataire est un travailleur de longue date;
+	- **b)** sa période de prestations a débuté durant la période commençant le 26 février 2017 et se terminant le 8 juillet 2017;
+	- **c)** son lieu de résidence habituel, au moment où sa période de prestations a débuté, était situé dans une région visée au paragraphe (2.8);
+	- **d)** des prestations lui ont été versées ou devaient lui être versées en application du paragraphe (2) pour au moins une semaine au cours de la période de prestations.
+
+**Application**
+
+- **(2.7)** Dans le cas où plus d’une période de prestations établie à l’égard d’un prestataire débute avant le 3 juillet 2016, le paragraphe (2.1) ou (2.3), selon le cas, ne s’applique que pour majorer le nombre de semaines de prestations durant la période de prestations débutant à la date la plus rapprochée de cette date.
+
+**Régions**
+
+- **(2.8)** Pour l’application des paragraphes (2.1) à (2.6), les régions visées sont les régions ci-après qui sont délimitées à l’annexe I du [Règlement sur l’assurance-emploi](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/332.md) :
+	- **a)** la région du nord de l’Ontario telle qu’elle est délimitée au paragraphe 2(3) de cette annexe;
+	- **b)** la région de Sudbury telle qu’elle est délimitée au paragraphe 2(14) de cette annexe;
+	- **c)** la région du nord du Manitoba telle qu’elle est délimitée au paragraphe 6(3) de cette annexe;
+	- **c.1)** la région du sud intérieur de la Colombie-Britannique telle qu’elle est délimitée au paragraphe 7(1) de cette annexe;
+	- **d)** la région du nord de la Colombie-Britannique telle qu’elle est délimitée au paragraphe 7(5) de cette annexe;
+	- **e)** la région de Saskatoon telle qu’elle est délimitée au paragraphe 9(2) de cette annexe;
+	- **e.1)** la région du sud de la Saskatchewan telle qu’elle est délimitée au paragraphe 9(3) de cette annexe;
+	- **f)** la région du nord de la Saskatchewan telle qu’elle est délimitée au paragraphe 9(4) de cette annexe;
+	- **g)** la région de Calgary telle qu’elle est délimitée au paragraphe 10(1) de cette annexe;
+	- **g.1)** la région d’Edmonton telle qu’elle est délimitée au paragraphe 10(2) de cette annexe;
+	- **h)** la région du sud de l’Alberta telle qu’elle est délimitée au paragraphe 10(3) de cette annexe;
+	- **i)** la région du nord de l’Alberta telle qu’elle est délimitée au paragraphe 10(4) de cette annexe;
+	- **j)** la région de Terre-Neuve/Labrador telle qu’elle est délimitée au paragraphe 11(2) de cette annexe;
+	- **k)** la région de Whitehorse telle qu’elle est délimitée au paragraphe 12(1) de cette annexe;
+	- **l)** la région du Nunavut telle qu’elle est délimitée au paragraphe 14(2) de cette annexe.
 
 **Maximum : prestations spéciales**
 
@@ -790,14 +865,14 @@ plus de 13 %
 
 **Cumul général**
 
-- **(6)** Sous réserve des maximums applicables dans chaque cas, des prestations peuvent être versées à la fois en application du paragraphe (2) et pour une ou plusieurs des raisons prévues au paragraphe (3); le cas échéant, le nombre total de semaines au cours desquelles des prestations peuvent être versées ne peut être supérieur à 50.
+- **(6)** Sous réserve des maximums applicables dans chaque cas, des prestations peuvent être versées à la fois en application du paragraphe (2) et pour une ou plusieurs des raisons prévues au paragraphe (3); le cas échéant, le nombre total de semaines pour lesquelles des prestations peuvent être versées ne peut être supérieur à cinquante ou, si le nombre maximal de semaines pour lesquelles des prestations peuvent être versées à un prestataire en application du paragraphe (2) est supérieur à quarante-cinq par application de l’un ou l’autre des paragraphes (2.1), (2.3), (2.5) et (2.6), au nombre qui correspond à ce nombre maximal de semaines, majoré de cinq.
 
 - **(7)** [Abrogé, 2000, ch. 14, art. 3]
 
 **Adoption**
 
 - **(8)** Pour l’application du présent article, le placement auprès d’un prestataire de la première catégorie, au même moment ou presque au même moment, de deux enfants ou plus en vue de leur adoption est considéré comme un seul placement d’un ou plusieurs enfants en vue de leur adoption.
-> 1996, ch. 23, art. 12; 2000, ch. 14, art. 3; 2002, ch. 9, art. 13; 2003, ch. 15, art. 17; 2009, ch. 30, art. 2, ch. 33, art. 6; 2012, ch. 27, art. 14; 2015, ch. 36, art. 74.
+> 1996, ch. 23, art. 12; 2000, ch. 14, art. 3; 2002, ch. 9, art. 13; 2003, ch. 15, art. 17; 2009, ch. 30, art. 2, ch. 33, art. 6; 2012, ch. 27, art. 14; 2015, ch. 36, art. 74; 2016, ch. 7, art. 212.
 
 
 
@@ -2055,10 +2130,8 @@ plus de 13 %
 
 **Définition de participant**
 
-**58** Dans la présente partie, ***participant*** désigne l’assuré qui demande de l’aide dans le cadre d’une prestation d’emploi et qui, à la date de la demande, est un chômeur, selon le cas :
-- **a)** à l’égard de qui une période de prestations a été établie ou a pris fin au cours des soixante derniers mois;
-- **b)** à l’égard de qui une période de prestations aurait été établie au cours des soixante derniers mois n’était le fait que le nombre d’heures qu’il a cumulées au cours de la période de cinquante-deux semaines qui précède le début de ce qui aurait été sa période de référence est inférieur à celui visé au paragraphe 7(4) et qui, au cours de ce qui aurait été sa période de référence, a exercé un emploi assurable pendant au moins le nombre d’heures indiqué au tableau figurant au paragraphe 7(2) ou 7.1(1) en fonction du taux régional de chômage qui lui est applicable.
-> 1996, ch. 23, art. 58; 2015, ch. 36, art. 153.
+**58** Dans la présente partie, ***participant*** désigne l’assuré qui demande de l’aide dans le cadre d’une prestation d’emploi et qui, à la date de la demande, est un chômeur à l’égard de qui une période de prestations a été établie ou a pris fin au cours des soixante derniers mois.
+> 1996, ch. 23, art. 58; 2015, ch. 36, art. 153; 2016, ch. 7, art. 216.
 
 
 
@@ -4713,8 +4786,8 @@ Est exclu de la présente définition tout particulier visé par les règlements
 
 **Violations prises en compte**
 
-- **(7)** Une violation dont un particulier s’est rendu responsable ne peut être prise en compte au titre de l’alinéa (1)d) à l’égard de plus de deux demandes initiales de prestations présentées par lui au titre de la présente loi s’il remplit les conditions requises pour recevoir des prestations dans le cadre de chacune de ces deux demandes, compte tenu du sous-alinéa (1)d)(ii), des paragraphes 7.1(1) ou (2) ou des règlements pris en vertu de la partie VIII, selon le cas.
-> 2009, ch. 33, art. 16.
+- **(7)** Une violation dont un particulier s’est rendu responsable ne peut être prise en compte au titre de l’alinéa (1)d) à l’égard de plus de deux demandes initiales de prestations présentées par lui au titre de la présente loi s’il remplit les conditions requises pour recevoir des prestations dans le cadre de chacune de ces deux demandes, compte tenu du sous-alinéa (1)d)(ii), du paragraphe 7.1(1) ou des règlements pris en vertu de la partie VIII, selon le cas.
+> 2009, ch. 33, art. 16; 2016, ch. 7, art. 220.
 
 
 
@@ -5685,9 +5758,9 @@ Il est aussi tenu de verser au receveur général, au plus tard à la date d’e
 
 
 ### **ANNEXE I** 
-**(paragraphe 12(2))**
-#### TABLEAU DES SEMAINES DE PRESTATIONS
+**(paragraphes 12(2), (2.1), (2.3), (2.5) et (2.6))**
 <table>
+<h4>Tableau des semaines de prestations</h4>
 <tr>
 <th></th>
 <th>*Taux régional de chômage*</th>
@@ -6324,7 +6397,7 @@ Il est aussi tenu de verser au receveur général, au plus tard à la date d’e
 </tr>
 </table>
 
-> 1996, ch. 23, ann. I; 2009, ch. 2, art. 224.
+> 1996, ch. 23, ann. I; 2009, ch. 2, art. 224; 2016, ch. 7, art. 222.
 
 
 
