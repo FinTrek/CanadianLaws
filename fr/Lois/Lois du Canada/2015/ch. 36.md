@@ -957,7 +957,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 #### Disposition transitoire
 
 
-**158** [Disposition transitoire]
+**158** [Abrogé, 2016, ch. 7, art. 230]
 
 
 
