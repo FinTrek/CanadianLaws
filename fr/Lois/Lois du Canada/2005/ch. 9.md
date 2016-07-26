@@ -2412,12 +2412,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ### **ANNEXE** 
 **(paragraphes 2(1) et (3))**
+- Acadia
 - Bande indienne Adams Lake
 - Première nation Aitchelitz
 - Première nation ?Akisq’nuk
 - Première Nation Algonquins de Pikwakanagan
 - Anishnaabeg de Naongashiing
 - Atikameksheng Anishnawbek
+- Beardy et Okemasis
 - Première Nation Bear River
 - Nation crie Beaver Lake
 - Beecher Bay
@@ -2440,8 +2442,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Bande indienne Coldwater
 - Conseil de la Première Nation Abitibiwinni
 - Conseil des Montagnais du Lac Saint-Jean
+- Cook’s Ferry
 - Première Nation Cowichan Tribes
 - Première Nation Cross Lake
+- Dakota Tipi
+- Première Nation de Doig River
 - Douglas
 - Ebb and Flow
 - Ehattesaht
@@ -2465,12 +2470,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Kanaka Bar
 - Première Nation The Key
 - Kingfisher
+- Nation saulteaux Kinistin
 - Première nation Kitselas
 - Première nation K’ómoks
 - Kwadacha
 - Première Nation Kwantlen
 - Première nation Kwaw-Kwaw Apilt
 - Bande indienne Lac La Ronge
+- Lake St. Martin
 - Lax Kw’alaams
 - Première nation Leq’á:mel
 - Lheidli T’enneh
@@ -2480,7 +2487,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Bande indienne Lower Kootenay
 - Bande indienne Lower Nicola
 - Lower Similkameen
+- Lytton
 - Première Nation Madawaska Maliseet
+- Première Nation de Makwa Sahgaiehcan
 - Première Nation Malahat
 - Première nation Matsqui
 - Première Nation M’Chigeeng
@@ -2489,6 +2498,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première Nation Metlakatla
 - Bande Millbrook
 - Nation crie Misipawistik
+- Première Nation des Mississaugas de Scugog Island
 - Mistawasis
 - Mohawks of Akwesasne
 - Mohawks of the Bay of Quinte
@@ -2507,12 +2517,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Bande indienne Neskonlith
 - Première Nation Nipissing
 - Nation crie Norway House
+- Nquatqua
 - Obashkaandagaang
 - Ochapowace
 - O’Chiese
 - Nation crie Onion Lake
 - Oromocto
 - Bande indienne Osoyoos
+- Nation micmaque Paqtnkek
 - Première Nation Pauingassi
 - Nation crie Peepeekisis no. 81
 - Peguis
@@ -2522,11 +2534,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Pheasant Rump Nakota
 - Pic Mobert
 - Première Nation Pictou Landing
+- Pine Creek
 - Première nation Popkum
+- Première Nation de Poplar River
 - Quatsino
+- Premières Nations Rainy River
 - Première Nation Red Sucker Lake
 - Première Nation Rolling River
+- Gouvernement de la Première Nation des Anishinabes Roseau River
 - Première Nation Saik’uz
+- Premières Nations Sakimay
+- Première Nation ojibwée de Sandy Bay
 - Saugeen
 - Premières Nations Saulteau
 - Première nation Saulteaux
@@ -2541,10 +2559,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première nation Shxw’ow’hamel
 - Nation Siksika
 - Première nation Simpcw
+- Sipeknekatik
 - Première nation Skawahlook
 - Bande indienne Skeetchestn
 - Première Nation Skidegate
 - Première nation Skowkale
+- Première Nation de Skownan
 - Skwah
 - Première nation Sliammon
 - Première nation Songhees
@@ -2589,6 +2609,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Xaxli’p
 - Première nation Yakweakwioose
 - Bande Yellow Quill
-> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176; DORS/2014-77, 208; DORS/2015-52, 94; DORS/2016-8.
+> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176; DORS/2014-77, 208; DORS/2015-52, 94; DORS/2016-8, 213.
 
 
