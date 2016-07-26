@@ -2415,12 +2415,14 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 ### **SCHEDULE** 
 **(Subsections 2(1) and (3))**
+- Acadia
 - Adams Lake Indian Band
 - Aitchelitz First Nation
 - ?Akisq’nuk First Nation
 - Algonquins of Pikwakanagan First Nation
 - Anishnaabeg of Naongashiing
 - Atikameksheng Anishnawbek
+- Beardy’s and Okemasis
 - Bear River First Nation
 - Beaver Lake Cree Nation
 - Beecher Bay
@@ -2443,8 +2445,11 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Coldwater Indian Band
 - Conseil de la Première Nation Abitibiwinni
 - Conseil des Montagnais du Lac Saint-Jean
+- Cook’s Ferry
 - Cowichan Tribes First Nation
 - Cross Lake First Nation
+- Dakota Tipi
+- Doig River First Nation
 - Douglas
 - Ebb and Flow
 - Ehattesaht
@@ -2468,12 +2473,14 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Kanaka Bar
 - The Key First Nation
 - Kingfisher
+- Kinistin Saulteaux Nation
 - Kitselas First Nation
 - K’ómoks First Nation
 - Kwadacha
 - Kwantlen First Nation
 - Kwaw-Kwaw-Apilt First Nation
 - Lac La Ronge Indian Band
+- Lake St. Martin
 - Lax Kw’alaams
 - Leq’á:mel First Nation
 - Lheidli T’enneh
@@ -2483,7 +2490,9 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Lower Kootenay Indian Band
 - Lower Nicola Indian Band
 - Lower Similkameen
+- Lytton
 - Madawaska Maliseet First Nation
+- Makwa Sahgaiehcan First Nation
 - Malahat First Nation
 - Matsqui First Nation
 - M’Chigeeng First Nation
@@ -2492,6 +2501,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Metlakatla First Nation
 - Millbrook Band
 - Misipawistik Cree Nation
+- Mississaugas of Scugog Island First Nation
 - Mistawasis
 - Mohawks of Akwesasne
 - Mohawks of the Bay of Quinte
@@ -2510,12 +2520,14 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Neskonlith Indian Band
 - Nipissing First Nation
 - Norway House Cree Nation
+- N’Quatqua
 - Obashkaandagaang
 - Ochapowace
 - O’Chiese
 - Onion Lake Cree Nation
 - Oromocto
 - Osoyoos Indian Band
+- Paqtnkek Mi’kmaw Nation
 - Pauingassi First Nation
 - Peepeekisis Cree Nation No. 81
 - Peguis
@@ -2525,11 +2537,17 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Pheasant Rump Nakota
 - Pic Mobert
 - Pictou Landing First Nation
+- Pine Creek
 - Popkum First Nation
+- Poplar River First Nation
 - Quatsino
+- Rainy River First Nations
 - Red Sucker Lake First Nation
 - Rolling River First Nation
+- Roseau River Anishinabe First Nation Government
 - Saik’uz First Nation
+- Sakimay First Nations
+- Sandy Bay Ojibway First Nation
 - Saugeen
 - Saulteau First Nations
 - Saulteaux First Nation
@@ -2544,10 +2562,12 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Shxw’ow’hamel First Nation
 - Siksika Nation
 - Simpcw First Nation
+- Sipekne’katik
 - Skawahlook First Nation
 - Skeetchestn Indian Band
 - Skidegate First Nation
 - Skowkale First Nation
+- Skownan First Nation
 - Skwah
 - Sliammon First Nation
 - Songhees First Nation
@@ -2592,6 +2612,6 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Xaxli’p
 - Yakweakwioose First Nation
 - Yellow Quill Band
-> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30, 122, 273; SOR/2013-59, 176; SOR/2014-77, 208; SOR/2015-52, 94; SOR/2016-8.
+> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30, 122, 273; SOR/2013-59, 176; SOR/2014-77, 208; SOR/2015-52, 94; SOR/2016-8, 213.
 
 
