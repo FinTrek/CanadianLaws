@@ -1409,6 +1409,18 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>3,8</td>
 <td>7,5</td>
 </tr>
+<tr>
+<td>Fourrager OC</td>
+<td>65</td>
+<td>Toute classe ou variété de blé autre que le blé dur ambré et que toute variété de la classe CWSP</td>
+<td>Aucun minimum</td>
+<td>Aucun minimum</td>
+<td>Odeur raisonnablement agréable, exclu des autres grades de blé en raison de grains endommagés</td>
+<td>1</td>
+<td>10</td>
+<td>10 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
+<td>10 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
+</tr>
 </table>
 
 #### TABLEAU 2
@@ -1473,6 +1485,17 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>3</td>
 <td>10</td>
 </tr>
+<tr>
+<td>Fourrager OC</td>
+<td>65</td>
+<td>Toute classe ou variété de blé autre que le blé dur ambré et que toute variété de la classe CWSP</td>
+<td>Aucun minimum</td>
+<td>Odeur raisonnablement agréable, exclu des autres grades de blé en raison de grains endommagés</td>
+<td>1</td>
+<td>10</td>
+<td>10 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
+<td>10 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
+</tr>
 </table>
 
 #### TABLEAU 3
@@ -1509,7 +1532,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>75</td>
 <td>Toute variété de la classe CWES désignée comme telle par arrêté de la Commission</td>
 <td>10</td>
-<td>Passablement bien mûri, peut être modérément délavé ou atteint par la gelée, raisonnablement exempt de grains fortement endommagés</td>
+<td>Passablement bien mûri, peut être modérément délavé ou atteint par la gelée, raisonnablement exempt de grains fortement endommagés</td>
 <td>0,2</td>
 <td>0,75</td>
 <td>1,5</td>
@@ -1520,11 +1543,22 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>73</td>
 <td>Toute variété de la classe CWES désignée comme telle par arrêté de la Commission</td>
 <td>Aucun minimum</td>
-<td>Peut être atteint par la gelée, immature ou abîmé par les intempéries, modérément exempt de grains fortement endommagés</td>
+<td>Peut être atteint par la gelée, immature ou abîmé par les intempéries, modérément exempt de grains fortement endommagés</td>
 <td>0,3</td>
 <td>1,5</td>
 <td>2,5</td>
 <td>5</td>
+</tr>
+<tr>
+<td>Fourrager OC</td>
+<td>65</td>
+<td>Toute classe ou variété de blé autre que le blé dur ambré et que toute variété de la classe CWSP</td>
+<td>Aucun minimum</td>
+<td>Odeur raisonnablement agréable, exclu des autres grades de blé en raison de grains endommagés</td>
+<td>1</td>
+<td>10</td>
+<td>10 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
+<td>10 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
 </tr>
 </table>
 
@@ -1580,43 +1614,20 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>3</td>
 <td>10</td>
 </tr>
-</table>
-
-#### TABLEAU 5
-<table>
-<h4>Blé fourrager, Ouest canadien (OC)</h4>
-<tr>
-<th>Nom de grade</th>
-<th>Norme de qualité</th>
-<th>Limites maximales</th>
-</tr>
-<tr>
-<th>Poids spécifique minimum</th>
-<th>Variété</th>
-<th>Condition</th>
-<th>Matières étrangères</th>
-<th>Blé dur ambré ou blé à des fins générales</th>
-</tr>
-<tr>
-<th>Matières autres que des céréales</th>
-<th>Total</th>
-</tr>
-<tr>
-<th>kg/hl</th>
-<th>%</th>
-<th>%</th>
-<th>%</th>
-</tr>
 <tr>
 <td>Fourrager OC</td>
 <td>65</td>
-<td>Toute classe ou variété de blé autre que le blé dur ambré et le blé à des fins générales</td>
+<td>Toute classe ou variété de blé autre que le blé dur ambré et que toute variété de la classe CWSP</td>
 <td>Odeur raisonnablement agréable, exclu des autres grades de blé en raison de grains endommagés</td>
 <td>1</td>
 <td>10</td>
-<td>10</td>
+<td>10 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
 </tr>
 </table>
+
+
+**TABLEAU 5** 
+## [Abrogé, DORS/2016-204, art. 5]
 
 #### TABLEAU 6
 <table>
@@ -1750,7 +1761,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>OC n<sup>o</sup> 1</td>
 <td>56</td>
-<td>Bonne couleur, 98 % de gruau sain</td>
+<td>Bonne couleur, 98 % de gruau sain</td>
 <td>Aucun</td>
 <td>0,1</td>
 <td>2</td>
@@ -1764,7 +1775,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>OC n<sup>o</sup> 2</td>
 <td>53</td>
-<td>Bonne couleur, 96 % de gruau sain</td>
+<td>Bonne couleur, 96 % de gruau sain</td>
 <td>0,1</td>
 <td>4</td>
 <td>4</td>
@@ -1778,7 +1789,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>OC n<sup>o</sup> 3</td>
 <td>51</td>
-<td>Couleur passable, 94 % de gruau sain</td>
+<td>Couleur passable, 94 % de gruau sain</td>
 <td>0,5</td>
 <td>6</td>
 <td>6</td>
@@ -1792,7 +1803,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>OC n<sup>o</sup> 4</td>
 <td>48</td>
-<td>92 % de gruau sain</td>
+<td>Couleur médiocre, 92 % de gruau sain</td>
 <td>1</td>
 <td><sup><a href='#fn_Ind19CB_hq_13714'>[*]</a></sup> Aucune limite</td>
 <td>8</td>
@@ -1875,7 +1886,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </table>
 
 
-<sup></sup>: Remarque : L’orge qui n’est pas sélectionnée pour le maltage est classée, selon sa qualité, dans l’un des grades « à des fins générales ».<br />
+<sup></sup>: Remarque : L’orge qui n’est pas sélectionnée pour le maltage est classée, selon sa qualité, dans l’un des grades « à des fins générales ».<br />
 #### TABLEAU 9
 <table>
 <h4>Orge à des fins générales, Ouest canadien (OC)</h4>
@@ -2003,7 +2014,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </table>
 
 
-<sup></sup>: Remarque : L’orge qui n’est pas sélectionnée pour la classe alimentaire est classée, selon sa qualité, dans l’un des grades « à des fins générales ».<br />
+<sup></sup>: Remarque : L’orge qui n’est pas sélectionnée pour la classe alimentaire est classée, selon sa qualité, dans l’un des grades « à des fins générales ».<br />
 #### TABLEAU 11
 <table>
 <h4>Seigle, Ouest canadien (OC)</h4>
@@ -2107,12 +2118,9 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </tr>
 </table>
 
-TABLEAU 13
 
-[Abrogé, DORS/2013-145, art. 1]
-
-
-
+**TABLEAU 13** 
+## [Abrogé, DORS/2013-145, art. 1]
 
 #### TABLEAU 14
 <table>
@@ -2334,6 +2342,16 @@ TABLEAU 13
 <td>5</td>
 <td>10</td>
 </tr>
+<tr>
+<td>Fourrager OC</td>
+<td>65</td>
+<td>Toute classe ou variété de blé autre que le blé dur ambré et que toute variété de la classe CWSP</td>
+<td>Odeur raisonnablement agréable, exclu des autres grades de blé en raison de grains endommagés</td>
+<td>1</td>
+<td>10</td>
+<td>10 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
+<td>10 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
+</tr>
 </table>
 
 #### TABLEAU 18
@@ -2383,6 +2401,16 @@ TABLEAU 13
 <td>1,5</td>
 <td>5</td>
 <td>10</td>
+</tr>
+<tr>
+<td>Fourrager OC</td>
+<td>65</td>
+<td>Toute classe ou variété de blé autre que le blé dur ambré et que toute variété de la classe CWSP</td>
+<td>Odeur raisonnablement agréable, exclu des autres grades de blé en raison de grains endommagés</td>
+<td>1</td>
+<td>10</td>
+<td>10 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
+<td>10 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
 </tr>
 </table>
 
@@ -2767,7 +2795,7 @@ TABLEAU 13
 </table>
 
 
-<sup></sup>: Remarque : La variété ou la couleur est ajoutée au nom de grade.<br />
+<sup></sup>: Remarque : La variété ou la couleur est ajoutée au nom de grade.<br />
 #### TABLEAU 25
 <table>
 <h4>Pois verts, Canada (Can)</h4>
@@ -3376,7 +3404,7 @@ TABLEAU 13
 </table>
 
 
-<sup></sup>: Remarque : Le nom de la classe est ajouté au nom de grade.<br />
+<sup></sup>: Remarque : Le nom de la classe est ajouté au nom de grade.<br />
 #### TABLEAU 32
 <table>
 <h4>Haricots autres que canneberge, dolique à oeil noir ou à oeil jaune ou haricots ronds blancs, Canada (Can)</h4>
@@ -3467,7 +3495,7 @@ TABLEAU 13
 </table>
 
 
-<sup></sup>: Remarque : Le nom de la classe est ajouté au nom de grade.<br />
+<sup></sup>: Remarque : Le nom de la classe est ajouté au nom de grade.<br />
 #### TABLEAU 33
 <table>
 <h4>Pois chiches, Ouest canadien (OC), Desi</h4>
@@ -4312,7 +4340,7 @@ TABLEAU 13
 </table>
 
 
-<sup></sup>: Remarque : L’orge qui n’est pas sélectionnée pour le maltage est classée, selon sa qualité, dans l’un des grades « à des fins générales ».<br />
+<sup></sup>: Remarque : L’orge qui n’est pas sélectionnée pour le maltage est classée, selon sa qualité, dans l’un des grades « à des fins générales ».<br />
 #### TABLEAU 47
 <table>
 <h4>Orge à des fins générales, Est canadien (EC)</h4>
@@ -4440,7 +4468,7 @@ TABLEAU 13
 </table>
 
 
-<sup></sup>: Remarque : L’orge qui n’est pas sélectionnée pour la classe alimentaire est classée, selon sa qualité, dans l’un des grades « à des fins générales ».<br />
+<sup></sup>: Remarque : L’orge qui n’est pas sélectionnée pour la classe alimentaire est classée, selon sa qualité, dans l’un des grades « à des fins générales ».<br />
 #### TABLEAU 49
 <table>
 <h4>Seigle, Est canadien (EC)</h4>
@@ -4718,14 +4746,22 @@ TABLEAU 13
 <td>2,5</td>
 <td>5</td>
 </tr>
+<tr>
+<td>Fourrager OC</td>
+<td>65</td>
+<td>Toute classe ou variété de blé autre que le blé dur ambré et que toute variété de la classe CWSP</td>
+<td>Aucun minimum</td>
+<td>Odeur raisonnablement agréable, exclu des autres grades de blé en raison de grains endommagés</td>
+<td>1</td>
+<td>10</td>
+<td>10 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
+<td>10 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
+</tr>
 </table>
 
-TABLEAU 54
 
-[Abrogé, DORS/2014-150, art. 3]
-
-
-
+**TABLEAU 54** 
+## [Abrogé, DORS/2014-150, art. 3]
 
 #### TABLEAU 55
 <table>
@@ -4812,7 +4848,7 @@ TABLEAU 54
 </tr>
 <tr>
 <th>Nom de grade</th>
-<th>Poids spécifique minimum </th>
+<th>Poids spécifique minimum</th>
 <th>Variété</th>
 <th>Pourcentage minimum de protéines</th>
 <th>Condition</th>
@@ -4872,6 +4908,19 @@ TABLEAU 54
 <td>0,06</td>
 <td>2,4</td>
 </tr>
+<tr>
+<td>Fourrager OC</td>
+<td>65</td>
+<td>Toute classe ou variété de blé autre que le blé dur ambré et que toute variété de la classe CWSP</td>
+<td>Aucun minimum</td>
+<td>Odeur raisonnablement agréable, exclu des autres grades de blé en raison de grains endommagés</td>
+<td>0,1</td>
+<td>0,03</td>
+<td>1</td>
+<td>0,1</td>
+<td>0,1</td>
+<td>10</td>
+</tr>
 </table>
 
 #### TABLEAU 57
@@ -4925,47 +4974,9 @@ TABLEAU 54
 </tr>
 </table>
 
-#### TABLEAU 58
-<table>
-<h4>Blé à des fins générales, Ouest canadien (CWGP)</h4>
-<tr>
-<th>Nom de grade</th>
-<th>Poids spécifique minimum</th>
-<th>Variété</th>
-<th>Limites maximales</th>
-</tr>
-<tr>
-<th>Échauffé</th>
-<th>Fusarié</th>
-<th>Excrétions</th>
-<th>Total, matières étrangères</th>
-</tr>
-<tr>
-<th>kg/hl</th>
-<th>%</th>
-<th>%</th>
-<th>%</th>
-<th>%</th>
-</tr>
-<tr>
-<td>OC n<sup>o</sup> 1</td>
-<td>72</td>
-<td>Toute variété de la classe de blé à des fins générales désignée comme telle par arrêté de la Commission</td>
-<td>2,5</td>
-<td>1</td>
-<td>0,03</td>
-<td>5</td>
-</tr>
-<tr>
-<td>OC n<sup>o</sup> 2</td>
-<td>65</td>
-<td>Toute variété de la classe de blé à des fins générales désignée comme telle par arrêté de la Commission</td>
-<td>2,5</td>
-<td>4</td>
-<td>0,03</td>
-<td>10</td>
-</tr>
-</table>
+
+**TABLEAU 58** 
+## [Abrogé, DORS/2016-204, art. 12]
 
 #### TABLEAU 59
 <table>
@@ -5021,7 +5032,124 @@ TABLEAU 54
 </tr>
 </table>
 
-> DORS/78-55, art. 5; DORS/79-543, art. 2; DORS/80-575, art. 1 et 2; DORS/81-559, art. 1; DORS/82-740, art. 1; DORS/83-628, art. 3; DORS/85-677, art. 8; DORS/87-391, art. 1; DORS/88-506, art. 1; DORS/89-364, art. 1; DORS/89-395, art. 2(F); DORS/90-324, art. 1(F), 2(F) et 3 à 5; DORS/91-282, art. 1 à 4; DORS/92-172, art. 1, 2(F), 3(F), 4, 5 et 6(F); DORS/93-362, art. 1 à 10; DORS/94-507, art. 1 à 3; DORS/95-336, art. 1 à 5; DORS/95-403, art. 1; DORS/96-300, art. 1 à 3; DORS/97-285, art. 1 à 4; DORS/97-356, art. 1; DORS/98-333, art. 1 à 5; DORS/99-303, art. 1 à 7; DORS/2000-213, art. 8; DORS/2000-276, art. 1 à 6; DORS/2001-242, art. 1 à 4; DORS/2002-286, art. 1 à 4, 5(A), 6, 7(A), 8, 9(F), 10(A), 11 à 13(F), 14 à 16 et 17(F); DORS/2003-285, art. 2 à 4, 5(F), 6, 7(F) et 8(F); DORS/2004-169, art. 1, 2, 3(F), 4, 5(F), 6 à 9, 10(F), 11, 12, 13(F) et 14; DORS/2005-225, art. 1 à 3(F), 4 et 5; DORS/2005-330, art. 1(A); DORS/2006-146, art. 1; DORS/2007-162, art. 1 et 2; DORS/2008-219, art. 1, 2(F), 3(F), 4(A), 5, 6(F), 7(A), 8(F), 9(A), 10, 11(A), 12, 13(A), 14, 15(F), 16(A), 17, 18(A), 19, 20(F), 21 à 23, 24(F), 25(A), 26 et 27, err., Vol. 142, n<sup>o</sup>o 15; DORS/2009-209, art. 1(A), 2 à 4(F), 5(A), 6, 7(F) et 8; DORS/2010-160, art. 1 et 2; DORS/2011-123, art. 1 et 2; DORS/2012-38, art. 1; DORS/2012-137, art. 1 à 3; DORS/2013-145, art. 1; DORS/2014-150, art. 1 à 4; DORS/2014-194, art. 1; DORS/2016-204, art. 9.
+#### TABLEAU 60
+<table>
+<h4>Blé de force rouge, Nord canadien (CNHR)</h4>
+<tr>
+<th>Nom de grade</th>
+<th>Norme de qualité</th>
+<th>Limites maximales</th>
+</tr>
+<tr>
+<th>Poids spécifique minimum</th>
+<th>Variété</th>
+<th>Pourcentage minimum de protéines %</th>
+<th>Condition</th>
+<th>Matières étrangères</th>
+<th>Blé d’autres classes ou variétés</th>
+</tr>
+<tr>
+<th>Matières autres que des céréales</th>
+<th>Total</th>
+<th>Classes contrastantes</th>
+<th>Total</th>
+</tr>
+<tr>
+<th>kg/hl</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+</tr>
+<tr>
+<td>CNHR n° 1</td>
+<td>75</td>
+<td>Toute variété de la classe CNHR désignée comme telle par arrêté de la Commission</td>
+<td>11</td>
+<td>Raisonnablement bien mûri, raisonnablement exempt de grains endommagés</td>
+<td>0,2</td>
+<td>0,6</td>
+<td>0,75</td>
+<td>2,3</td>
+</tr>
+<tr>
+<td>CNHR n° 2</td>
+<td>72</td>
+<td>Toute variété de la classe CNHR désignée comme telle par arrêté de la Commission</td>
+<td>Aucun minimum</td>
+<td>Passablement bien mûri, peut être modérément délavé ou atteint par la gelée, raisonnablement exempt de grains fortement endommagés</td>
+<td>0,3</td>
+<td>1,2</td>
+<td>2,3</td>
+<td>4,5</td>
+</tr>
+<tr>
+<td>CNHR n° 3</td>
+<td>69</td>
+<td>Toute variété de la classe CNHR désignée comme telle par arrêté de la Commission</td>
+<td>Aucun minimum</td>
+<td>Peut être atteint par la gelée, immature ou abîmé par les intempéries, modérément exempt de grains fortement endommagés</td>
+<td>0,5</td>
+<td>2,4</td>
+<td>3,8</td>
+<td>7,5</td>
+</tr>
+<tr>
+<td>Fourrager OC</td>
+<td>65</td>
+<td>Toute classe ou variété de blé autre que le blé dur ambré et que toute variété de la classe CWSP</td>
+<td>Aucun minimum</td>
+<td>Odeur raisonnablement agréable, exclu des autres grades de blé en raison de grains endommagés</td>
+<td>1</td>
+<td>10</td>
+<td>10 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
+<td>10 % de blé dur ambré ou de toute variété de la classe CWSP ou d’un mélange des deux</td>
+</tr>
+</table>
+
+#### TABLEAU 61
+<table>
+<h4>Blé à des fins spéciales, Ouest canadien (CWSP)</h4>
+<tr>
+<th>Nom de grade</th>
+<th>Poids spécifique minimum</th>
+<th>Variété</th>
+<th>Limites maximales</th>
+</tr>
+<tr>
+<th>Échauffé</th>
+<th>Fusarié</th>
+<th>Excrétions</th>
+<th>Total, matières étrangères</th>
+</tr>
+<tr>
+<th>kg/hl</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+</tr>
+<tr>
+<td>CWSP n° 1</td>
+<td>72</td>
+<td>Toute variété de la classe CWSP désignée comme telle par arrêté de la Commission</td>
+<td>2,5</td>
+<td>1</td>
+<td>0,03</td>
+<td>5</td>
+</tr>
+<tr>
+<td>CWSP n° 2</td>
+<td>65</td>
+<td>Toute variété de la classe CWSP désignée comme telle par arrêté de la Commission</td>
+<td>2,5</td>
+<td>4</td>
+<td>0,03</td>
+<td>10</td>
+</tr>
+</table>
+
+> DORS/78-55, art. 5; DORS/79-543, art. 2; DORS/80-575, art. 1 et 2; DORS/81-559, art. 1; DORS/82-740, art. 1; DORS/83-628, art. 3; DORS/85-677, art. 8; DORS/87-391, art. 1; DORS/88-506, art. 1; DORS/89-364, art. 1; DORS/89-395, art. 2(F); DORS/90-324, art. 1(F), 2(F) et 3 à 5; DORS/91-282, art. 1 à 4; DORS/92-172, art. 1, 2(F), 3(F), 4, 5 et 6(F); DORS/93-362, art. 1 à 10; DORS/94-507, art. 1 à 3; DORS/95-336, art. 1 à 5; DORS/95-403, art. 1; DORS/96-300, art. 1 à 3; DORS/97-285, art. 1 à 4; DORS/97-356, art. 1; DORS/98-333, art. 1 à 5; DORS/99-303, art. 1 à 7; DORS/2000-213, art. 8; DORS/2000-276, art. 1 à 6; DORS/2001-242, art. 1 à 4; DORS/2002-286, art. 1 à 4, 5(A), 6, 7(A), 8, 9(F), 10(A), 11 à 13(F), 14 à 16 et 17(F); DORS/2003-285, art. 2 à 4, 5(F), 6, 7(F) et 8(F); DORS/2004-169, art. 1, 2, 3(F), 4, 5(F), 6 à 9, 10(F), 11, 12, 13(F) et 14; DORS/2005-225, art. 1 à 3(F), 4 et 5; DORS/2005-330, art. 1(A); DORS/2006-146, art. 1; DORS/2007-162, art. 1 et 2; DORS/2008-219, art. 1, 2(F), 3(F), 4(A), 5, 6(F), 7(A), 8(F), 9(A), 10, 11(A), 12, 13(A), 14, 15(F), 16(A), 17, 18(A), 19, 20(F), 21 à 23, 24(F), 25(A), 26 et 27, err., Vol. 142, n<sup>o</sup> 15; DORS/2009-209, art. 1(A), 2 à 4(F), 5(A), 6, 7(F) et 8; DORS/2010-160, art. 1 et 2; DORS/2011-123, art. 1 et 2; DORS/2012-38, art. 1; DORS/2012-137, art. 1 à 3; DORS/2013-145, art. 1; DORS/2014-150, art. 1 à 4; DORS/2014-194, art. 1; DORS/2016-204, art. 1 à 13.
 
 
 
