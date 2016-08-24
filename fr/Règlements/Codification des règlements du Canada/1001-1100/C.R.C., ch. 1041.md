@@ -26,116 +26,124 @@ Autorités habilitantes :
 
 - **(1)** Dans le présent règlement,
 
-***ancien règlement concernant la marihuana***[Règlement sur l’accès à la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2001/227.md), pris par le décret C.P. 2001-1146 du 14 juin 2001 et portant le numéro d’enregistrement DORS/2001-227;
+***ancien règlement concernant la marihuana***[Abrogée, DORS/2016-230, art. 261]
 
-***annonce*** désigne toute représentation faite par quelque moyen que ce soit en vue de mousser directement ou indirectement la vente ou la façon de disposer d’un stupéfiant; (*advertisement*)
+***ancien Règlement sur l’accès à la marihuana à des fins médicales*** Le règlement pris par le décret C.P. 2001-1146 du 14 juin 2001 et portant le numéro d’enregistrement DORS/2001-227; (*former Marihuana Medical Access Regulations*)
 
-***autorité compétente*** Organisme public d’un pays étranger qui est habilité, aux termes des lois du pays, à consentir à l’importation ou à l’exportation de stupéfiants; (*competent authority*)
+***ancien Règlement sur la marihuana à des fins médicales*** Le règlement pris par le décret C.P. 2013-645 du 6 juin 2013 et portant le numéro d’enregistrement DORS/2013-119; (*former Marihuana for Medical Purposes Regulations*)
 
-***chanvre indien*** La substance inscrite à l’article 17 de l’annexe; (*cannabis*)
+***annonce*** désigne toute représentation faite par quelque moyen que ce soit en vue de mousser directement ou indirectement la vente ou la façon de disposer d’un stupéfiant; (*advertisement*)
+
+***autorité compétente*** Organisme public d’un pays étranger qui est habilité, aux termes des lois du pays, à consentir à l’importation ou à l’exportation de stupéfiants; (*competent authority*)
+
+***chanvre indien*** La substance inscrite à l’article 17 de l’annexe; (*cannabis*)
 
 ***commande écrite***[Abrogée, DORS/85-588, art. 1]
 
-***commande verbale*** désigne une commande donnée de vive voix; (*verbal order*)
+***commande verbale*** désigne une commande donnée de vive voix; (*verbal order*)
 
-***conjoint de fait*** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an; (*common-law partner*)
+***conjoint de fait*** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an; (*common-law partner*)
 
-***contenant immédiat*** Contenant qui est en contact direct avec le stupéfiant; (*immediate container*)
+***contenant immédiat*** Contenant qui est en contact direct avec le stupéfiant; (*immediate container*)
 
 ***diacétylmorphine (héroïne)***[Abrogée, DORS/2013-172, art. 3]
 
-***Directive en matière de sécurité*** La Directive sur les exigences en matière de sécurité physique pour les substances désignées (Exigences en matière de sécurité physique pour les substances désignées entreposées chez les distributeurs autorisés), publiée par le ministère, avec ses modifications successives; (*Security Directive*)
+***Directive en matière de sécurité*** La Directive sur les exigences en matière de sécurité physique pour les substances désignées (Exigences en matière de sécurité physique pour les substances désignées entreposées chez les distributeurs autorisés), publiée par le ministère, avec ses modifications successives; (*Security Directive*)
 
-***distributeur autorisé*** Le titulaire d’une licence délivrée en vertu de l’article 9.2; (*licensed dealer*)
+***distributeur autorisé*** Le titulaire d’une licence délivrée en vertu de l’article 9.2; (*licensed dealer*)
 
-***document médical concernant la marihuana*** S’entend au sens de ***document médical*** au paragraphe 1(1) du [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md); (*medical marihuana document*)
+***document médical concernant la marihuana***[Abrogée, DORS/2016-230, art. 261]
 
-***hôpital*** désigne :
+***document médical concernant le chanvre indien*** S’entend au sens de ***document médical*** au paragraphe 1(1) du [Règlement sur l’accès au cannabis à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2016/230.md); (*cannabis medical document*)
+
+***hôpital*** désigne :
 - **a)** une installation qui fait l’objet d’un permis délivré par la province ou qui a été approuvée ou désignée par elle, en conformité avec ses lois, en vue d’assurer des soins ou des traitements aux personnes ou aux animaux atteints d’une maladie ou d’une affection,
-- **b)** une installation qui assure des soins de santé et appartient au gouvernement du Canada ou d’une province ou est exploitée par lui; (*hospital*)
+- **b)** une installation qui assure des soins de santé et appartient au gouvernement du Canada ou d’une province ou est exploitée par lui; (*hospital*)
 
-***infirmier praticien*** S’entend au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md); (*nurse practitioner*)
+***huile de chanvre indien*** S’entend au sens du paragraphe 1(1) du [Règlement sur l’accès au cannabis à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2016/230.md); (*cannabis oil*)
 
-***infraction désignée en matière criminelle*** L’une ou l’autre des infractions suivantes :
+***infirmier praticien*** S’entend au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md); (*nurse practitioner*)
+
+***infraction désignée en matière criminelle*** L’une ou l’autre des infractions suivantes :
 - **a)** infraction relative au financement du terrorisme visée à l’un des articles 83.02 à 83.04 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
 - **b)** infraction de fraude visée à l’un des articles 380 à 382 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
 - **c)** infraction de recyclage des produits de la criminalité visée à l’article 462.31 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
 - **d)** infraction relative à une organisation criminelle visée à l’un des articles 467.11 à 467.13 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
-- **e)** le complot ou la tentative de commettre une infraction visée à l’un des alinéas a) à d), la complicité après le fait à son égard ou le fait de conseiller de la commettre; (*designated criminal offence*)
+- **e)** le complot ou la tentative de commettre une infraction visée à l’un des alinéas a) à d), la complicité après le fait à son égard ou le fait de conseiller de la commettre; (*designated criminal offence*)
 
-***infraction désignée en matière de drogue*** S’entend de l’une des infractions suivantes :
+***infraction désignée en matière de drogue*** S’entend de l’une des infractions suivantes :
 - **a)** toute infraction prévue aux articles 39, 44.2, 44.3, 48, 50.2 ou 50.3 de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md), dans leur version antérieure au 14 mai 1997;
 - **b)** toute infraction prévue aux articles 4, 5, 6, 19.1 ou 19.2 de la Loi sur les stupéfiants, dans leur version antérieure au 14 mai 1997;
 - **c)** toute infraction prévue à la partie I de la Loi, à l’exception du paragraphe 4(1);
-- **d)** le complot ou la tentative de commettre une infraction visée aux alinéas a) à c), la complicité après le fait à son égard ou le fait de conseiller de la commettre; (*designated drug offence*)
+- **d)** le complot ou la tentative de commettre une infraction visée aux alinéas a) à c), la complicité après le fait à son égard ou le fait de conseiller de la commettre; (*designated drug offence*)
 
 ***inspecteur***[Abrogée, DORS/97-227, art. 1]
 
 ***licence***[Abrogée, DORS/2004-237, art. 1]
 
-***Loi*** La [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md); (*Act*)
+***Loi*** La [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md); (*Act*)
 
-***marihuana*** La substance appelée cannabis (marihuana), inscrite au paragraphe 17(2) de l’annexe; (*marihuana*)
+***marihuana*** La substance appelée cannabis (marihuana), inscrite au paragraphe 17(2) de l’annexe; (*marihuana*)
 
-***marihuana séchée*** Marihuana qui a été récoltée et soumise à un processus de séchage; (*dried marihuana*)
+***marihuana fraîche*** S’entend au sens du paragraphe 1(1) du [Règlement sur l’accès au cannabis à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2016/230.md); (*fresh marihuana*)
 
-***méthadone*** comprend les sels de méthadone; (*methadone*)
+***marihuana séchée*** S’entend au sens du paragraphe 1(1) du [Règlement sur l’accès au cannabis à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2016/230.md); (*dried marihuana*)
+
+***méthadone*** comprend les sels de méthadone; (*methadone*)
 
 ***ministre***[Abrogée, DORS/97-227, art. 1]
 
-***nécessaire d’essai*** désigne un nécessaire
+***nécessaire d’essai*** désigne un nécessaire
 - **a)** contenant des réactifs, des substances-tampons, ou les deux,
 - **b)** employé au cours d’une opération chimique ou analytique effectuée à des fins médicales, expérimentales, industrielles, éducatives ou scientifiques, et
-- **c)** dont le contenu n’est pas destiné à être administré à des humains; (*test kit*)
+- **c)** dont le contenu n’est pas destiné à être administré à des humains; (*test kit*)
 
-***nom propre*** désigne, à l’égard d’un stupéfiant, le nom reconnu sur une base internationale pour ce stupéfiant, ou le nom assigné au stupéfiant dans la dernière édition d’une pharmacopée ou d’un répertoire des drogues reconnus généralement; (*proper name*)
+***nom propre*** désigne, à l’égard d’un stupéfiant, le nom reconnu sur une base internationale pour ce stupéfiant, ou le nom assigné au stupéfiant dans la dernière édition d’une pharmacopée ou d’un répertoire des drogues reconnus généralement; (*proper name*)
 
-***obligation internationale*** Toute obligation relative à un stupéfiant prévue par une convention, un traité ou un autre instrument multilatéral ou bilatéral que le Canada a ratifié ou auquel il adhère; (*international obligation*)
+***obligation internationale*** Toute obligation relative à un stupéfiant prévue par une convention, un traité ou un autre instrument multilatéral ou bilatéral que le Canada a ratifié ou auquel il adhère; (*international obligation*)
 
-***ordonnance*** À l’égard d’un stupéfiant, autorisation donnée par un praticien selon laquelle une quantité déterminée du stupéfiant doit être préparée à l’intention de la personne qui y est nommée; (*prescription*)
+***ordonnance*** À l’égard d’un stupéfiant, autorisation donnée par un praticien selon laquelle une quantité déterminée du stupéfiant doit être préparée à l’intention de la personne qui y est nommée; (*prescription*)
 
-***permis*** désigne un permis délivré en vertu de l’article 10; (*permit*)
+***permis*** désigne un permis délivré en vertu de l’article 10; (*permit*)
 
-***personne qualifiée responsable*** La personne physique qui, possédant les qualifications énoncées au paragraphe 8.3(2), est responsable de la supervision des opérations effectuées par le distributeur autorisé en vertu de sa licence, à l’installation qui y est spécifiée; (*qualified person in charge*)
+***personne qualifiée responsable*** La personne physique qui, possédant les qualifications énoncées au paragraphe 8.3(2), est responsable de la supervision des opérations effectuées par le distributeur autorisé en vertu de sa licence, à l’installation qui y est spécifiée; (*qualified person in charge*)
 
 ***pharmacien***
 - **a)** La personne autorisée, notamment par un permis d’exercice, en vertu des lois d’une province à exercer la profession de pharmacien et à exploiter ou diriger une pharmacie ou une officine, et qui, à la fois, dans cette province :
 	- **(i)** exerce la profession de pharmacien,
 	- **(ii)** exploite ou dirige une pharmacie ou une officine;
-- **b)** pour l’application du paragraphe 2(2), des articles 3 et 31 à 39, des paragraphes 44(1) et 45(1) et (2), de l’article 46 et des paragraphes 65(3) à (4), la personne autorisée, notamment par un permis d’exercice, en vertu des lois d’une province à exercer la profession de pharmacien et qui l’exerce dans cette province; (***pharmacist***)
+- **b)** pour l’application du paragraphe 2(2), des articles 3 et 31 à 39, des paragraphes 44(1) et 45(1) et (2), de l’article 46 et des paragraphes 65(3) à (4), la personne autorisée, notamment par un permis d’exercice, en vertu des lois d’une province à exercer la profession de pharmacien et qui l’exerce dans cette province; (***pharmacist***)
 
-***podiatre*** S’entend au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md); (*podiatrist*)
+***podiatre*** S’entend au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md); (*podiatrist*)
 
 ***praticien***[Abrogée, DORS/97-227, art. 1]
 
-***praticien de la santé*** S’entend, sauf à l’article 59, au sens du paragraphe 1(1) du [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md); (*health care practitioner*)
+***praticien de la santé*** S’entend, sauf à l’article 59, au sens du paragraphe 1(1) du [Règlement sur l’accès au cannabis à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2016/230.md); (*health care practitioner*)
 
-***producteur autorisé*** S’entend au sens du paragraphe 1(1) du [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md); (*licensed producer*)
+***producteur autorisé*** S’entend au sens du paragraphe 1(1) du [Règlement sur l’accès au cannabis à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2016/230.md); (*licensed producer*)
 
-***sage-femme*** S’entend au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md); (*midwife*)
+***sage-femme*** S’entend au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md); (*midwife*)
 
-***stupéfiant*** Sous réserve du paragraphe (2), selon le cas :
+***stupéfiant*** Sous réserve du paragraphe (2), selon le cas :
 - **a)** toute substance visée à l’annexe ou toute matière en contenant;
-- **b)** s’agissant d’une sage-femme, d’un infirmier praticien ou d’un podiatre, toute substance visée à l’annexe, ou toute matière en contenant, que ce praticien peut, aux termes des articles 3 et 4 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md), prescrire ou avoir en sa possession ou relativement à laquelle il peut, en vertu de ces articles, se livrer à toute autre opération; (*narcotic*)
+- **b)** s’agissant d’une sage-femme, d’un infirmier praticien ou d’un podiatre, toute substance visée à l’annexe, ou toute matière en contenant, que ce praticien peut, aux termes des articles 3 et 4 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md), prescrire ou avoir en sa possession ou relativement à laquelle il peut, en vertu de ces articles, se livrer à toute autre opération; (*narcotic*)
 
-***stupéfiant d’ordonnance verbale*** désigne un médicament
+***stupéfiant d’ordonnance verbale*** désigne un médicament
 - **a)** qui renferme, outre un stupéfiant, au moins deux ingrédients médicinaux qui ne sont pas des stupéfiants, en dose thérapeutique reconnue,
 - **b)** qui n’est pas destiné à l’administration parentérale, et
-- **c)** qui ne contient pas d’hydrocodone, de méthadone, d’oxycodone ni de pentazocine; (*verbal prescription narcotic*)
+- **c)** qui ne contient pas d’hydrocodone, de méthadone, d’oxycodone ni de pentazocine; (*verbal prescription narcotic*)
 
-***transférer*** Sauf au paragraphe 45(3), transférer, même indirectement, sans échange d’une contrepartie. (*transfer*)
+***transférer*** Sauf au paragraphe 45(3), transférer, même indirectement, sans échange d’une contrepartie. (*transfer*)
 
-- **(2)** Malgré le paragraphe 2(2) de l’annexe, ne sont pas des stupéfiants pour l’application de ce règlement :
-	- **a) ** toute drogue sous sa forme posologique, au sens du paragraphe C.01.005(3) du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md), qui contient de la cocaïne (ester méthylique de la benzoylecgonine) ou un de ses sels, sauf si une identification numérique lui est attribuée sous le régime du titre 1 de la partie C du même règlement, si la vente de la drogue est autorisée sous le régime du titre 5 de la partie C de ce même règlement ou si la drogue a fait l’objet d’une composition par un pharmacien conformément à une autorisation donnée par un praticien, ou en prévision de celle-ci, aux termes de laquelle une quantité déterminée de la drogue doit être dispensée à l’intention de la personne qui y est nommée ou qui y sera nommée;
-	- **b) ** la cocaïne (ester méthylique de la benzoylecgonine) ou un de ses sels, ou toute drogue qui n’est pas sous sa forme posologique et qui en contient, sauf si la cocaïne, le sel ou la drogue fera l’objet d’une composition par un pharmacien conformément à une autorisation donnée par un praticien, ou en prévision de celle-ci, aux termes de laquelle une quantité déterminée de la drogue doit être dispensée à l’intention de la personne qui y est nommée ou qui y sera nommée.
-> DORS/78-154, art. 1; DORS/81-361, art. 1; DORS/85-588, art. 1; DORS/85-930, art. 1; DORS/86-173, art. 1; DORS/88-279, art. 1(F); DORS/90-189, art. 1; DORS/97-227, art. 1; DORS/2003-134, art. 1; DORS/2004-237, art. 1; DORS/2010-221, art. 1; DORS/2012-230, art. 14; DORS/2013-119, art. 200; DORS/2013-172, art. 3; DORS/2015-132, art. 1.
-
-
+- **(2)** Malgré le paragraphe 2(2) de l’annexe, ne sont pas des stupéfiants pour l’application de ce règlement :
+	- **a)** toute drogue sous sa forme posologique, au sens du paragraphe C.01.005(3) du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md), qui contient de la cocaïne (ester méthylique de la benzoylecgonine) ou un de ses sels, sauf si une identification numérique lui est attribuée sous le régime du titre 1 de la partie C du même règlement, si la vente de la drogue est autorisée sous le régime du titre 5 de la partie C de ce même règlement ou si la drogue a fait l’objet d’une composition par un pharmacien conformément à une autorisation donnée par un praticien, ou en prévision de celle-ci, aux termes de laquelle une quantité déterminée de la drogue doit être dispensée à l’intention de la personne qui y est nommée ou qui y sera nommée;
+	- **b)** la cocaïne (ester méthylique de la benzoylecgonine) ou un de ses sels, ou toute drogue qui n’est pas sous sa forme posologique et qui en contient, sauf si la cocaïne, le sel ou la drogue fera l’objet d’une composition par un pharmacien conformément à une autorisation donnée par un praticien, ou en prévision de celle-ci, aux termes de laquelle une quantité déterminée de la drogue doit être dispensée à l’intention de la personne qui y est nommée ou qui y sera nommée.
+> DORS/78-154, art. 1; DORS/81-361, art. 1; DORS/85-588, art. 1; DORS/85-930, art. 1; DORS/86-173, art. 1; DORS/88-279, art. 1(F); DORS/90-189, art. 1; DORS/97-227, art. 1; DORS/2003-134, art. 1; DORS/2004-237, art. 1; DORS/2010-221, art. 1; DORS/2012-230, art. 14; DORS/2013-119, art. 200; DORS/2013-172, art. 3; DORS/2015-132, art. 1; DORS/2016-230, art. 261 et 278.
 
 
-**2.1** Dans le présent règlement, il est entendu que le fait de fournir comprend celui de transférer.
-> DORS/2013-119, art. 201.
 
+
+**2.1** [Abrogé, DORS/2016-230, art. 262]
 
 
 
@@ -156,7 +164,7 @@ Autorités habilitantes :
 		- **(i)** d’un praticien,
 		- **(ii)** en vertu d’une ordonnance qui n’est pas émise ou obtenue en violation du présent règlement,
 		- **(iii)** d’un pharmacien en vertu de l’article 36,
-		- **(iv)** en vertu d’un document médical concernant la marihuana qui n’est pas fourni ou obtenu en violation du [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md);
+		- **(iv)** en vertu d’un document médical concernant le chanvre indien qui n’est pas fourni ou obtenu en violation du [Règlement sur l’accès au cannabis à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2016/230.md);
 	- **e)** qu’elle est un praticien en médecine qui a reçu ledit stupéfiant en vertu du paragraphe 68(3) ou (5) et qui l’a en sa possession aux seules fins énoncées au paragraphe 68(4) ou (6);
 	- **f)** qu’elle est un représentant d’un praticien en médecine qui a reçu le stupéfiant en vertu du paragraphe 68(3) et qui l’a en sa possession à la seule fin de se conformer au paragraphe 68(5);
 	- **g)** qu’elle est employée à titre d’inspecteur, de membre de la Gendarmerie royale du Canada, d’agent de police, d’agent de la paix ou de membre du personnel technique ou scientifique de tout service du gouvernement du Canada, d’une province ou d’une université, et qu’elle a le stupéfiant en sa possession aux fins de ses fonctions ou en rapport avec elles;
@@ -170,7 +178,7 @@ Autorités habilitantes :
 	- **b)** d’autre part, la possession du stupéfiant a pour but d’aider cette dernière dans l’application ou l’exécution d’une loi ou d’un règlement.
 
 - **(3)** [Abrogé, DORS/2012-230, art. 15]
-> DORS/85-588, art. 2; DORS/85-930, art. 2; DORS/97-227, art. 2; DORS/99-124, art. 1; DORS/2012-230, art. 15; DORS/2013-119, art. 202; DORS/2013-172, art. 4.
+> DORS/85-588, art. 2; DORS/85-930, art. 2; DORS/97-227, art. 2; DORS/99-124, art. 1; DORS/2012-230, art. 15; DORS/2013-119, art. 202; DORS/2013-172, art. 4; DORS/2016-230, art. 263.
 
 
 
@@ -221,22 +229,22 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 
 **8** 
 
-- **(1)** Sous réserve des autres dispositions du présent règlement et des cas prévus dans le [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md), il est interdit à toute personne autre que le distributeur autorisé de produire, de fabriquer, d’assembler, d’importer, d’exporter, de vendre, de fournir, de transporter, d’expédier ou de livrer un stupéfiant.
+- **(1)** Sous réserve des autres dispositions du présent règlement et des cas prévus dans le [Règlement sur l’accès au cannabis à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2016/230.md), il est interdit à toute personne autre que le distributeur autorisé de produire, de fabriquer, d’assembler, d’importer, d’exporter, de vendre, de fournir, de transporter, d’expédier ou de livrer un stupéfiant.
 
 - **(2)** Il est interdit à tout distributeur autorisé d’importer ou d’exporter un stupéfiant sans un permis à cette fin.
 
 - **(3)** Il est interdit à tout distributeur autorisé de cultiver, de multiplier ou de récolter de la marihuana à des fins autres que scientifiques.
 
-- **(4)** Le paragraphe (3) ne s’applique pas à la marihuana produite par un distributeur autorisé aux termes d’un contrat avec Sa Majesté du chef du Canada.
+- **(4)** [Abrogé, DORS/2016-230, art. 264]
 
 - **(5)** Il est interdit à tout distributeur autorisé de cultiver, de multiplier ou de récolter du pavot à opium à des fins autres que scientifiques.
-> DORS/2004-237, art. 3; DORS/2013-119, art. 203; DORS/2016-123, art. 1.
+> DORS/2004-237, art. 3; DORS/2013-119, art. 203; DORS/2016-123, art. 1; DORS/2016-230, art. 264 et 278.
 
 
 
 
-**8.1** Un distributeur autorisé peut avoir un stupéfiant en sa possession, en vue de son exportation, s’il l’a obtenu conformément au présent règlement ou au [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md).
-> DORS/97-514, art. 1; DORS/2013-119, art. 204.
+**8.1** Un distributeur autorisé peut avoir un stupéfiant en sa possession, en vue de son exportation, s’il l’a obtenu conformément au présent règlement ou au [Règlement sur l’accès au cannabis à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2016/230.md).
+> DORS/97-514, art. 1; DORS/2013-119, art. 204; DORS/2016-230, art. 278.
 
 
 
@@ -253,7 +261,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 **8.3** 
 
 - **(1)** Le distributeur autorisé :
-	- **a)** désigne une seule personne qualifiée responsable — il peut lui-même exercer cette fonction s’il est une personne physique — qui doit travailler à l’installation visée par la licence et qui est à la fois chargée de superviser les opérations relatives aux stupéfiants visées par la licence et d’assurer la conformité de ces opérations avec le présent règlement et le [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md) au nom du distributeur;
+	- **a)** désigne une seule personne qualifiée responsable — il peut lui-même exercer cette fonction s’il est une personne physique — qui doit travailler à l’installation visée par la licence et qui est à la fois chargée de superviser les opérations relatives aux stupéfiants visées par la licence et d’assurer la conformité de ces opérations avec le présent règlement et le [Règlement sur l’accès au cannabis à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2016/230.md) au nom du distributeur;
 	- **b)** peut désigner une personne qualifiée responsable suppléante qui doit travailler à l’installation visée par la licence et qui est autorisée à remplacer la personne qualifiée responsable lorsque celle-ci est absente.
 
 - **(2)** La personne qualifiée responsable et, le cas échéant, la personne qualifiée responsable suppléante doivent se conformer aux exigences suivantes :
@@ -265,7 +273,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 		- **(i)** d’une infraction désignée en matière de drogue,
 		- **(ii)** d’une infraction désignée en matière criminelle,
 		- **(iii)** d’une infraction commise à l’étranger qui, commise au Canada, aurait constitué une infraction visée au sous-alinéa (i) ou (ii).
-> DORS/2004-237, art. 4; DORS/2010-221, art. 2; DORS/2012-230, art. 16; DORS/2013-119, art. 205; DORS/2014-260, art. 26(F).
+> DORS/2004-237, art. 4; DORS/2010-221, art. 2; DORS/2012-230, art. 16; DORS/2013-119, art. 205; DORS/2014-260, art. 26(F); DORS/2016-230, art. 278.
 
 
 
@@ -379,7 +387,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 	- **b)** le demandeur n’a pas fourni à l’inspecteur qui lui en a fait la demande l’occasion de procéder à une inspection aux termes de l’article 16;
 	- **c)** le demandeur a fourni des renseignements faux ou trompeurs dans sa demande ou des documents faux ou falsifiés à l’appui de celle-ci;
 	- **d)** l’une des opérations pour lesquelles la licence est demandée entraînerait le non-respect d’une obligation internationale;
-	- **d.1)** sauf dans le cas de la marihuana produite par un distributeur autorisé aux termes d’un contrat avec Sa Majesté du chef du Canada, l’une des opérations pour lesquelles la licence est demandée est la culture, la multiplication ou la récolte de la marihuana à des fins autres que scientifiques;
+	- **d.1)** l’une des opérations pour lesquelles la licence est demandée est la culture, la multiplication ou la récolte de la marihuana à des fins autres que scientifiques;
 	- **e)** les renseignements reçus d’une autorité compétente ou des Nations Unies laissent raisonnablement croire que le demandeur a participé au détournement d’un stupéfiant vers un marché ou un usage illicite ou qu’il s’est livré à des opérations qui ont entraîné le non-respect d’une obligation internationale;
 	- **f)** le demandeur n’a pas mis en oeuvre les mesures prévues dans la Directive en matière de sécurité à l’égard d’une opération pour laquelle il demande la licence;
 	- **g)** le demandeur contrevient ou a contrevenu au cours des dix dernières années :
@@ -395,8 +403,8 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 
 - **(2)** Sauf s’il est nécessaire de le faire en vue de protéger la sécurité ou la santé publiques, y compris en vue de prévenir le détournement d’un stupéfiant vers un marché ou un usage illicite, le ministre ne peut, dans les cas visés aux alinéas (1)c) ou g), refuser de délivrer, de modifier ou de renouveler la licence si le demandeur :
 	- **a)** d’une part, n’a pas d’antécédents quant à la contravention de la Loi et des règlements pris ou maintenus en vigueur en vertu de celle-ci;
-	- **b)** d’autre part, a pris les mesures correctives nécessaires pour assurer le respect de la Loi, du présent règlement et du [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md), ou a signé un engagement à cet effet.
-> DORS/2004-237, art. 4; DORS/2010-221, art. 5 et 18(F); DORS/2013-119, art. 206.
+	- **b)** d’autre part, a pris les mesures correctives nécessaires pour assurer le respect de la Loi, du présent règlement et du  Règlement sur l’accès au cannabis à des fins médicales, ou a signé un engagement à cet effet.
+> DORS/2004-237, art. 4; DORS/2010-221, art. 5 et 18(F); DORS/2013-119, art. 206; DORS/2016-230, art. 265 et 278.
 
 
 
@@ -494,8 +502,8 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 
 - **(2)** Sauf s’il est nécessaire de le faire en vue de protéger la sécurité ou la santé publiques, y compris en vue de prévenir le détournement d’un stupéfiant vers un marché ou un usage illicite, le ministre ne peut, dans les cas visés aux alinéas (1)a) ou b), révoquer la licence de distributeur autorisé si :
 	- **a)** d’une part, le distributeur n’a pas d’antécédents quant à la contravention de la Loi et des règlements pris ou maintenus en vigueur sous le régime de celle-ci;
-	- **b)** d’autre part, il a pris les mesures correctives nécessaires pour assurer le respect de la Loi, du présent règlement et du [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md), ou a signé un engagement à cet effet.
-> DORS/2004-237, art. 4; DORS/2010-221, art. 7 et 18(F); DORS/2013-119, art. 207; DORS/2014-260, art. 26(F) et 28(F).
+	- **b)** d’autre part, il a pris les mesures correctives nécessaires pour assurer le respect de la Loi, du présent règlement et du [Règlement sur l’accès au cannabis à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2016/230.md), ou a signé un engagement à cet effet.
+> DORS/2004-237, art. 4; DORS/2010-221, art. 7 et 18(F); DORS/2013-119, art. 207; DORS/2014-260, art. 26(F) et 28(F); DORS/2016-230, art. 278.
 
 
 
@@ -528,8 +536,8 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 
 
 
-**12** Toute licence ou tout permis délivrés en vertu du présent règlement sont soumis à la condition que le distributeur autorisé observera les dispositions du présent règlement et du [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md).
-> DORS/2013-119, art. 208.
+**12** Toute licence ou tout permis délivrés en vertu du présent règlement sont soumis à la condition que le distributeur autorisé observera les dispositions du présent règlement et du [Règlement sur l’accès au cannabis à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2016/230.md).
+> DORS/2013-119, art. 208; DORS/2016-230, art. 278.
 
 
 
@@ -660,7 +668,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 
 - **(1)** Il est interdit au distributeur autorisé de vendre ou de fournir des stupéfiants, sauf s’il se conforme aux dispositions du présent article et des articles 27 et 28.
 
-- **(2)** Sous réserve du paragraphe (2.2) et de l’article 25, le distributeur autorisé peut vendre ou fournir un stupéfiant autre que la méthadone à :
+- **(2)** Sous réserve de l’article 25, le distributeur autorisé peut vendre ou fournir un stupéfiant autre que la méthadone à :
 	- **a)** un autre distributeur autorisé;
 	- **b)** un pharmacien;
 	- **c)** un praticien;
@@ -670,7 +678,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 
 - **(2.1)** Pour l’application du paragraphe (2), il est entendu que le distributeur autorisé ne peut vendre ou fournir un stupéfiant à une sage-femme, à un infirmier praticien ou à un podiatre que si, aux termes des articles 3 et 4 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md), ce praticien peut prescrire ce stupéfiant, l’avoir en sa possession ou se livrer à toute autre opération relativement à celui-ci.
 
-- **(2.2)** Il est interdit au distributeur autorisé de vendre ou de fournir de la marihuana séchée à toute personne visée aux alinéas (2)b) à d), sauf s’il la produit au titre d’un contrat avec Sa Majesté du chef du Canada.
+- **(2.2)** Il est interdit au distributeur autorisé de vendre ou de fournir de la marihuana séchée à toute personne visée à l’un des alinéas (2)b) à d).
 
 - **(3)** Sous réserve de l’article 25, le distributeur autorisé peut vendre ou fournir de la méthadone à :
 	- **a)** un autre distributeur autorisé;
@@ -683,7 +691,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire d’
 - **(4)** [Abrogé, DORS/2013-172, art. 5]
 
 - **(5)** Le distributeur autorisé peut vendre ou fournir du chanvre indien au producteur autorisé.
-> DORS/78-154, art. 3; DORS/85-588, art. 5; DORS/85-930, art. 3; DORS/86-173, art. 2; DORS/99-124, art. 2; DORS/2004-237, art. 11; DORS/2010-221, art. 11; DORS/2012-230, art. 18; DORS/2013-119, art. 209; DORS/2013-172, art. 5; DORS/2014-260, art. 22.
+> DORS/78-154, art. 3; DORS/85-588, art. 5; DORS/85-930, art. 3; DORS/86-173, art. 2; DORS/99-124, art. 2; DORS/2004-237, art. 11; DORS/2010-221, art. 11; DORS/2012-230, art. 18; DORS/2013-119, art. 209; DORS/2013-172, art. 5; DORS/2014-260, art. 22; DORS/2016-230, art. 266.
 
 
 
@@ -777,20 +785,20 @@ qui précise le nom et la quantité du stupéfiant demandé.
 ## Pharmaciens
 
 
-**30** Le pharmacien qui reçoit un stupéfiant d’un distributeur autorisé ou de la marihuana séchée d’un producteur autorisé doit consigner immédiatement dans un cahier, un registre ou autre dossier réservé à cette fin, les données suivantes :
+**30** Le pharmacien qui reçoit un stupéfiant d’un distributeur autorisé ou de la marihuana fraîche ou séchée ou de l’huile de chanvre indien d’un producteur autorisé consigne immédiatement dans un cahier, un registre ou autre dossier réservé à cette fin, les données suivantes :
 - **a)** le nom et la quantité du stupéfiant qu’il a reçu;
 - **b)** la date à laquelle il l’a reçu; et
 - **c)** le nom et l’adresse de la personne de qui il a reçu ledit stupéfiant.
-> DORS/85-588, art. 8; DORS/2013-119, art. 211.
+> DORS/85-588, art. 8; DORS/2013-119, art. 211; DORS/2016-230, art. 267.
 
 
 
 
 **31** 
 
-- **(1)** Il est interdit au pharmacien de vendre ou de fournir un stupéfiant si ce n’est en conformité avec le présent article et les articles 34 à 36 et 45.
+- **(1)** Il est interdit au pharmacien de vendre ou de fournir un stupéfiant si ce n’est en conformité avec le présent article et les articles 34 à 36 et 45.
 
-- **(2)** Le pharmacien peut vendre ou fournir un stupéfiant autre que la méthadone ou la marihuana séchée aux personnes suivantes :
+- **(2)** Le pharmacien peut vendre ou fournir un stupéfiant — autre que la marihuana fraîche ou séchée ou l’huile de chanvre indien reçues d’un producteur autorisé ou la méthadone — aux personnes suivantes :
 	- **a)** toute personne qui bénéficie d’une exemption en vertu de l’article 56 de la Loi relativement à la possession de ce stupéfiant; ou
 	- **b)** toute personne, s’il a reçu, au préalable, une commande écrite ou une ordonnance à cet effet, lesquelles doivent être signées et datées par un praticien, et s’il a lui-même vérifié la signature du praticien lorsqu’il ne la connaît pas.
 
@@ -804,8 +812,8 @@ qui précise le nom et la quantité du stupéfiant demandé.
 	- **d)** une personne qui bénéficie d’une exemption aux termes de l’article 56 de la Loi relativement à la méthadone; ou
 	- **e)** une personne dont il a reçu une commande ou une ordonnance écrites à cet effet, signées et datées par un praticien en médecine qui bénéficie d’une exemption aux termes de l’article 56 de la Loi relativement à la méthadone.
 
-- **(4)** S’il est autorisé à le faire par la personne à qui est confiée la charge de l’hôpital, le pharmacien qui exerce dans un hôpital peut vendre, fournir ou retourner de la marihuana séchée en vertu des paragraphes 65(2.1) ou (3.1) ou de l’article 65.3.
-> DORS/81-361, art. 2; DORS/85-588, art. 9; DORS/99-124, art. 4; DORS/2004-237, art. 14; DORS/2012-230, art. 20; DORS/2013-119, art. 212; DORS/2014-51, art. 1.
+- **(4)** S’il est autorisé à le faire par la personne à qui est confiée la charge de l’hôpital, le pharmacien qui exerce dans un hôpital peut vendre, fournir ou retourner de la marihuana fraîche ou séchée ou de l’huile de chanvre indien reçues d’un producteur autorisé en vertu des paragraphes 65(2.1) ou (3.1) ou de l’article 65.3.
+> DORS/81-361, art. 2; DORS/85-588, art. 9; DORS/99-124, art. 4; DORS/2004-237, art. 14; DORS/2012-230, art. 20; DORS/2013-119, art. 212; DORS/2014-51, art. 1; DORS/2016-230, art. 268.
 
 
 
@@ -949,19 +957,19 @@ qui précise le nom et la quantité du stupéfiant demandé.
 
 
 
-**46** Le ministre communique par écrit à l’autorité provinciale attributive de licences en matière d’activités professionnelles responsable d’inscrire la personne ou d’autoriser cette dernière à exercer sa profession des renseignements factuels sur tout pharmacien obtenus sous le régime de la Loi, du présent règlement ou du [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md) :
+**46** Le ministre communique par écrit à l’autorité provinciale attributive de licences en matière d’activités professionnelles responsable d’inscrire la personne ou d’autoriser cette dernière à exercer sa profession des renseignements factuels sur tout pharmacien obtenus sous le régime de la Loi, du présent règlement ou du [Règlement sur l’accès au cannabis à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2016/230.md) :
 - **a)** soit dans la province où le pharmacien est inscrit ou habilité à exercer, dans l’un ou l’autre des cas suivants :
 	- **(i)** l’autorité soumet une demande écrite qui précise le nom et l’adresse du pharmacien, la nature des renseignements requis et une déclaration que les renseignements sont requis dans le but d’aider l’autorité à mener une enquête licite,
 	- **(ii)** le ministre a des motifs raisonnables de croire que le pharmacien a :
 		- **(A)** soit enfreint une règle de conduite établie par l’autorité,
-		- **(B)** soit été reconnu coupable par un tribunal d’une infraction désignée en matière de drogue ou d’une contravention au présent règlement ou au [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md),
-		- **(C)** soit commis un acte qui contrevient à une disposition du présent règlement ou du [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md);
+		- **(B)** soit été reconnu coupable par un tribunal d’une infraction désignée en matière de drogue ou d’une contravention au présent règlement ou au [Règlement sur l’accès au cannabis à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2016/230.md),
+		- **(C)** soit commis un acte qui contrevient à une disposition du présent règlement ou du [Règlement sur l’accès au cannabis à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2016/230.md);
 - **b)** soit dans une province où le pharmacien n’est pas inscrit ou habilité à exercer, si l’autorité soumet au ministre les éléments suivants :
 	- **(i)** une demande écrite de renseignements qui précise :
 		- **(A)** le nom et l’adresse du pharmacien,
 		- **(B)** la nature des renseignements requis,
 	- **(ii)** une documentation qui montre que le pharmacien a demandé à cette autorité l’autorisation d’exercer dans cette province.
-> DORS/86-882, art. 1; DORS/2003-134, art. 4; DORS/2010-221, art. 17; DORS/2013-119, art. 214.
+> DORS/86-882, art. 1; DORS/2003-134, art. 4; DORS/2010-221, art. 17; DORS/2013-119, art. 214; DORS/2016-230, art. 278.
 
 
 
@@ -977,7 +985,7 @@ qui précise le nom et la quantité du stupéfiant demandé.
 
 **48** 
 
-- **(1)** Dans les circonstances exposées au paragraphe (2), le ministre donne un avis aux personnes et aux autorités visées au paragraphe (3) les informant que les distributeurs autorisés, les pharmaciens qui exercent dans les pharmacies avisées et les producteurs autorisés ne doivent pas vendre ou fournir au pharmacien nommé dans l’avis l’un ou l’autre des stupéfiants ou préparations suivants :
+- **(1)** Dans les circonstances exposées au paragraphe (2), le ministre donne un avis aux personnes et aux autorités visées au paragraphe (3) les informant que les distributeurs autorisés, les pharmaciens qui exercent dans les pharmacies avisées et les producteurs autorisés ne doivent pas vendre ou fournir au pharmacien nommé dans l’avis l’un ou l’autre des stupéfiants ou préparations suivants :
 	- **a)** un stupéfiant, autre qu’un stupéfiant d’ordonnance verbale;
 	- **b)** un stupéfiant d’ordonnance verbale, autre qu’une préparation mentionnée à l’article 36;
 	- **c)** une préparation mentionnée à l’article 36.
@@ -985,7 +993,7 @@ qui précise le nom et la quantité du stupéfiant demandé.
 - **(2)** L’avis est donné si le pharmacien qui y est nommé se trouve dans l’une des circonstances suivantes :
 	- **a)** il a demandé au ministre de donner l’avis conformément à l’article 47;
 	- **b)** il a enfreint une règle de conduite établie par l’autorité provinciale attributive de licences en matière d’activités professionnelles de la province où il exerce et cette autorité a demandé par écrit au ministre de donner l’avis;
-	- **c)** il a été reconnu coupable par le tribunal d’une infraction désignée en matière de drogue ou d’une contravention au présent règlement ou au [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md).
+	- **c)** il a été reconnu coupable par le tribunal d’une infraction désignée en matière de drogue ou d’une contravention au présent règlement ou au [Règlement sur l’accès au cannabis à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2016/230.md).
 
 - **(3)** L’avis doit être donné aux personnes ou organismes suivants :
 	- **a)** tous les distributeurs autorisés;
@@ -1000,7 +1008,7 @@ qui précise le nom et la quantité du stupéfiant demandé.
 	- **c)** à plus d’une reprise, il s’est administré un stupéfiant d’ordonnance verbale autre qu’une préparation mentionnée à l’article 36 d’une façon non conforme aux pratiques pharmaceutiques reconnues;
 	- **d)** à plus d’une reprise, il a fourni ou administré un stupéfiant autre qu’un stupéfiant d’ordonnance verbale à son époux ou conjoint de fait, son père ou sa mère ou son enfant, y compris un enfant adopté de fait, d’une façon non conforme aux pratiques pharmaceutiques reconnues;
 	- **e)** à plus d’une reprise, il a fourni ou administré un stupéfiant d’ordonnance verbale autre qu’une préparation mentionnée à l’article 36 à son époux ou conjoint de fait, son père ou sa mère ou son enfant, y compris un enfant adopté de fait, d’une façon non conforme aux pratiques pharmaceutiques reconnues;
-	- **f)** il est dans l’impossibilité de rendre compte de la quantité de stupéfiant dont il était responsable aux termes du présent règlement ou du [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md).
+	- **f)** il est dans l’impossibilité de rendre compte de la quantité de stupéfiant dont il était responsable aux termes du présent règlement ou du [Règlement sur l’accès au cannabis à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2016/230.md).
 
 - **(5)** Dans les circonstances décrites au paragraphe (4), le ministre donne l’avis mentionné au paragraphe (1) aux conditions suivantes :
 	- **a)** il a consulté l’autorité provinciale attributive de licences en matière d’activités professionnelles de la province où le pharmacien en cause est inscrit ou habilité à exercer;
@@ -1008,7 +1016,7 @@ qui précise le nom et la quantité du stupéfiant demandé.
 	- **c)** il a pris en considération les éléments suivants :
 		- **(i)** les antécédents du pharmacien quant au respect de la Loi et des règlements pris ou maintenus en vigueur en vertu de celle-ci;
 		- **(ii)** la question de savoir si les actions du pharmacien risqueraient ou non de porter atteinte à la santé ou à la sécurité publiques, notamment en raison du risque de détournement du stupéfiant vers un marché ou un usage illicite.
-> DORS/2003-134, art. 4; DORS/2010-221, art. 17 et 18(F); DORS/2013-119, art. 215.
+> DORS/2003-134, art. 4; DORS/2010-221, art. 17 et 18(F); DORS/2013-119, art. 215; DORS/2016-230, art. 278.
 
 
 
@@ -1033,9 +1041,9 @@ qui précise le nom et la quantité du stupéfiant demandé.
 
 **53** 
 
-- **(1)** Il est interdit au praticien d’administrer un stupéfiant à une personne ou à un animal ou de le prescrire, le vendre ou le fournir, pour toute personne ou tout animal, sauf dans les cas prévus au présent article ou dans le [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md).
+- **(1)** Il est interdit au praticien d’administrer un stupéfiant à une personne ou à un animal ou de le prescrire, le vendre ou le fournir, pour toute personne ou tout animal, sauf dans les cas prévus au présent article ou dans le [Règlement sur l’accès au cannabis à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2016/230.md).
 
-- **(2)** Sous réserve des paragraphes (3) et (4), le praticien peut administrer un stupéfiant, autre que de la marihuana séchée, à une personne ou à un animal ou le prescrire, le vendre ou le fournir, pour toute personne ou tout animal si, à la fois :
+- **(2)** Sous réserve des paragraphes (3) et (4), le praticien peut administrer un stupéfiant — autre que de la marihuana fraîche ou séchée ou de l’huile de chanvre indien reçues d’un producteur autorisé — à une personne ou à un animal ou le prescrire, le vendre ou le fournir, pour toute personne ou tout animal si, à la fois :
 	- **a)** la personne ou l’animal est soumis à ses soins professionnels;
 	- **b)** le stupéfiant est nécessaire pour l’état pathologique de la personne ou de l’animal qui reçoit ses soins.
 
@@ -1043,22 +1051,22 @@ qui précise le nom et la quantité du stupéfiant demandé.
 
 - **(4)** [Abrogé, DORS/2013-172, art. 7]
 
-- **(5)** Le praticien de la santé peut administrer de la marihuana séchée à une personne ou en prescrire ou en transférer pour toute personne si, à la fois :
+- **(5)** Le praticien de la santé peut administrer de la marihuana fraîche ou séchée ou de l’huile de chanvre indien reçues d’un producteur autorisé à une personne ou en prescrire ou en transférer pour toute personne si, à la fois :
 	- **a)** la personne est soumise à ses soins professionnels;
-	- **b)** la marihuana séchée est nécessaire pour l’état pathologique de cette personne.
-> DORS/85-930, art. 7; DORS/99-124, art. 6; DORS/2001-227, art. 71; DORS/2004-237, art. 20; DORS/2012-230, art. 22; DORS/2013-119, art. 217; DORS/2013-172, art. 7.
+	- **b)** la substance est nécessaire en raison de l’état pathologique de cette personne.
+> DORS/85-930, art. 7; DORS/99-124, art. 6; DORS/2001-227, art. 71; DORS/2004-237, art. 20; DORS/2012-230, art. 22; DORS/2013-119, art. 217; DORS/2013-172, art. 7; DORS/2016-230, art. 269 et 278.
 
 
 
 
 **54** 
 
-- **(1)** Tout praticien qui vend ou fournit à une personne un stupéfiant, autre que de la marihuana séchée, qu’elle s’administrera ou qu’elle administrera à un animal doit, qu’il le facture ou non, tenir un registre indiquant le nom et la quantité du stupéfiant vendu ou fourni, les nom et adresse de la personne à laquelle il l’a été et la date de cette vente ou fourniture, s’il s’agit d’une quantité :
+- **(1)** Tout praticien qui vend ou fournit à une personne un stupéfiant — autre que de la marihuana fraîche ou séchée ou de l’huile de chanvre indien reçues d’un producteur autorisé — qu’elle s’administrera ou qu’elle administrera à un animal doit, qu’il le facture ou non, tenir un registre indiquant le nom et la quantité du stupéfiant vendu ou fourni, les nom et adresse de la personne à laquelle il l’a été et la date de cette vente ou fourniture, s’il s’agit d’une quantité :
 	- **a)** soit supérieure à trois fois la dose quotidienne maximum recommandée par le fabricant, le producteur ou l’assembleur de ce stupéfiant;
 	- **b)** soit supérieure à trois fois la dose thérapeutique quotidienne maximum généralement admise pour ce stupéfiant, si le fabricant, le producteur ou l’assembleur n’a pas spécifié de dose quotidienne maximum.
 
 - **(2)** Le praticien garde le registre en un endroit et le tient sous une forme et d’une manière qui permettent à un inspecteur de l’examiner et d’y trouver des renseignements avec facilité.
-> DORS/2004-237, art. 21; DORS/2013-119, art. 218.
+> DORS/2004-237, art. 21; DORS/2013-119, art. 218; DORS/2016-230, art. 270.
 
 
 
@@ -1067,14 +1075,14 @@ qui précise le nom et la quantité du stupéfiant demandé.
 - **a)** fournir au ministre tout renseignement que celui-ci peut exiger concernant :
 	- **(i)** l’usage qu’il fait des stupéfiants qu’il reçoit — y compris les cas où il les administre, les vend ou les fournit à une personne,
 	- **(ii)** les ordonnances de stupéfiants qu’il délivre,
-	- **(iii)** les documents médicaux concernant la marihuana qu’il fournit, s’il est un praticien de la santé;
+	- **(iii)** les documents médicaux concernant le chanvre indien qu’il fournit, s’il est un praticien de la santé;
 - **b)** présenter à un inspecteur, sur demande, tout registre que ce praticien est obligé de tenir en vertu du présent règlement;
 - **c)** permettre à un inspecteur de prendre copie de ces registres ou de noter des extraits desdits registres;
 - **d)** permettre à un inspecteur de vérifier tous les stocks de stupéfiants dans les locaux de ce praticien;
 - **e)** conserver en sa possession durant au moins deux ans tout registre qu’il est obligé de tenir en vertu du présent règlement;
 - **f)** prendre les mesures appropriées pour protéger les stupéfiants qu’il a en sa possession contre la perte ou le vol; et
 - **g)** signaler au ministre tout vol ou perte d’un stupéfiant au plus tard 10 jours après avoir constaté un tel vol ou une telle perte.
-> DORS/2004-237, art. 22; DORS/2013-119, art. 219.
+> DORS/2004-237, art. 22; DORS/2013-119, art. 219; DORS/2016-230, art. 271.
 
 
 
@@ -1085,41 +1093,35 @@ qui précise le nom et la quantité du stupéfiant demandé.
 
 **57** 
 
-- **(1)** Le ministre communique par écrit des renseignements factuels sur tout praticien, obtenus sous le régime de la Loi, du présent règlement, du [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md) ou de l’ancien règlement concernant la marihuana, à l’autorité provinciale attributive de licences en matière d’activités professionnelles qui est responsable d’inscrire les personnes ou de les autoriser à exercer la profession si les exigences ci-après sont respectées :
+- **(1)** Le ministre fournit par écrit des renseignements factuels sur tout praticien, obtenus sous le régime de la Loi, du présent règlement, du [Règlement sur l’accès au cannabis à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2016/230.md), de l’ancien [Règlement sur l’accès à la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2001/227.md) ou de l’ancien [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md), à l’autorité provinciale attributive de licences en matière d’activités professionnelles qui est responsable d’inscrire les personnes ou de les autoriser à exercer la profession si les exigences ci-après sont respectées :
 	- **a)** s’agissant d’une province où le praticien est ou était inscrit ou habilité à exercer :
 		- **(i)** soit l’autorité soumet au ministre une demande écrite comportant les nom et adresse du praticien, la nature des renseignements requis et une déclaration portant que les renseignements sont requis pour l’aider à mener une enquête licite,
 		- **(ii)** soit le ministre a des motifs raisonnables de croire que le praticien se trouve dans l’une des situations suivantes :
 			- **(A)** il a enfreint une règle de conduite établie par l’autorité,
-			- **(B)** il a été reconnu coupable par un tribunal d’une infraction désignée en matière de drogue ou d’une contravention au présent règlement ou au [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md),
-			- **(C)** il a contrevenu à une disposition du présent règlement ou du [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md);
+			- **(B)** il a été reconnu coupable par un tribunal d’une infraction désignée en matière de drogue ou d’une contravention au présent règlement, au [Règlement sur l’accès au cannabis à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2016/230.md) ou à l’ancien [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md),
+			- **(C)** il a contrevenu à une disposition du présent règlement, du [Règlement sur l’accès au cannabis à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2016/230.md) ou de l’ancien [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md);
 	- **b)** s’agissant d’une province où le praticien n’est pas inscrit ou habilité à exercer, l’autorité lui soumet les documents suivants :
 		- **(i)** une demande écrite qui précise les nom et adresse du praticien ainsi que la nature des renseignements requis,
 		- **(ii)** une documentation qui démontre :
 			- **(A)** soit que le praticien a demandé à cette autorité l’autorisation d’exercer dans cette province,
 			- **(B)** soit que cette autorité a des motifs raisonnables de croire que le praticien exerce dans cette province sans autorisation.
 
-- **(2)** Le ministre est autorisé à communiquer les renseignements ci-après, à l’égard du praticien en médecine qui a fourni une déclaration médicale sur le fondement de laquelle a été délivrée une autorisation de possession aux termes de l’ancien règlement concernant la marihuana, à l’autorité provinciale attributive de licences en matière d’activités professionnelles qui est responsable d’inscrire les personnes ou de les autoriser à exercer la médecine dans la province indiquée dans la déclaration comme étant celle où le praticien est autorisé à exercer :
+- **(2)** Le ministre est autorisé à fournir les renseignements ci-après, à l’égard du praticien en médecine qui a fourni une déclaration médicale sur le fondement de laquelle a été délivrée une autorisation de possession en vertu de l’ancien [Règlement sur l’accès à la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2001/227.md), à l’autorité provinciale attributive de licences en matière d’activités professionnelles qui est responsable d’inscrire les personnes ou de les autoriser à exercer la médecine dans la province indiquée dans la déclaration comme étant celle où le praticien est autorisé à exercer :
 	- **a)** les nom et adresse du praticien;
 	- **b)** son numéro d’autorisation d’exercice de la médecine.
-> DORS/86-882, art. 2; DORS/2003-134, art. 5; DORS/2010-221, art. 17; DORS/2013-119, art. 220; DORS/2015-132, art. 2.
+> DORS/86-882, art. 2; DORS/2003-134, art. 5; DORS/2010-221, art. 17; DORS/2013-119, art. 220; DORS/2015-132, art. 2; DORS/2016-230, art. 272.
 
 
 
 
-**58** Tout praticien peut demander par écrit au ministre d’envoyer aux pharmacies, aux distributeurs autorisés et aux producteurs autorisés l’avis, donné conformément à l’article 59, les informant de tout ou partie des exigences suivantes :
-- **a)
-** aucun stupéfiant, autre qu’un stupéfiant d’ordonnance verbale, ne doit lui être vendu ou fourni par les destinataires de cet avis;
-- **b)
-** aucun stupéfiant d’ordonnance verbale ne doit lui être vendu ou fourni par les destinataires de cet avis;
-- **c)
-** aucune ordonnance ou commande de stupéfiant, autre qu’un stupéfiant d’ordonnance verbale, écrite par lui, ne doit être remplie par des pharmaciens exerçant dans les pharmacies ayant reçu l’avis;
-- **d)
-** aucune de ses ordonnances ou commandes de stupéfiant d’ordonnance verbale ne doit être remplie par des pharmaciens exerçant dans les pharmacies ayant reçu l’avis;
-- **e)
-** s’il est un praticien de la santé, aucun de ses documents médicaux concernant la marihuana ne doit servir à des producteurs autorisés ayant reçu l’avis pour vendre ou fournir de la marihuana séchée.
-- **f) et g)
-** [Abrogés, DORS/2013-119, art. 221]
-> DORS/2003-134, art. 5; DORS/2013-119, art. 221.
+**58** Tout praticien peut demander par écrit au ministre d’envoyer aux pharmacies, aux distributeurs autorisés et aux producteurs autorisés l’avis, donné conformément à l’article 59, les informant de tout ou partie des exigences suivantes :
+- **a)** aucun stupéfiant, autre qu’un stupéfiant d’ordonnance verbale, ne doit lui être vendu ou fourni par les destinataires de cet avis;
+- **b)** aucun stupéfiant d’ordonnance verbale ne doit lui être vendu ou fourni par les destinataires de cet avis;
+- **c)** aucune ordonnance ou commande de stupéfiant, autre qu’un stupéfiant d’ordonnance verbale, écrite par lui, ne doit être remplie par des pharmaciens exerçant dans les pharmacies ayant reçu l’avis;
+- **d)** aucune de ses ordonnances ou commandes de stupéfiant d’ordonnance verbale ne doit être remplie par des pharmaciens exerçant dans les pharmacies ayant reçu l’avis;
+- **e)** s’il est un praticien de la santé, aucun de ses documents médicaux concernant le chanvre indien ne doit servir à des producteurs autorisés ayant reçu l’avis pour vendre ou fournir de la marihuana fraîche ou séchée ou de l’huile de chanvre indien.
+- **f) et g)** [Abrogés, DORS/2013-119, art. 221]
+> DORS/2003-134, art. 5; DORS/2013-119, art. 221; DORS/2016-230, art. 273.
 
 
 
@@ -1127,21 +1129,16 @@ qui précise le nom et la quantité du stupéfiant demandé.
 **59** 
 
 - **(1)** Dans les circonstances décrites au paragraphe (2), le ministre donne un avis aux personnes et aux autorités visées au paragraphe (3) les informant, selon le cas, que :
-	- **a)
-** les distributeurs autorisés et les pharmaciens qui exercent dans les pharmacies avisées ne doivent pas vendre ou fournir un praticien nommé dans l’avis tout stupéfiant autre qu’un stupéfiant d’ordonnance verbale, tout stupéfiant d’ordonnance verbale, ou les deux;
-	- **a.1)
-** si le praticien nommé dans l’avis est un praticien de la santé, les producteurs autorisés avisés ne doivent pas lui expédier de la marihuana séchée;
-	- **b)
-** les pharmaciens qui exercent dans les pharmacies avisées ne doivent pas remplir une ordonnance ou une commande, du praticien nommé dans l’avis, de stupéfiant autre qu’un stupéfiant d’ordonnance verbale, de stupéfiant d’ordonnance verbale, ou des deux;
-	- **c)
-** si le praticien nommé dans l’avis est un praticien de la santé, les producteurs autorisés avisés ne doivent pas vendre ou fournir de la marihuana séchée sur le fondement d’un document médical concernant la marihuana fourni par ce praticien.
-	- **d) et e)
-** [Abrogés, DORS/2013-119, art. 222]
+	- **a)** les distributeurs autorisés et les pharmaciens qui exercent dans les pharmacies avisées ne doivent pas vendre ou fournir un praticien nommé dans l’avis tout stupéfiant autre qu’un stupéfiant d’ordonnance verbale, tout stupéfiant d’ordonnance verbale, ou les deux;
+	- **a.1)** si le praticien nommé dans l’avis est un praticien de la santé, les producteurs autorisés avisés ne doivent pas lui expédier de la marihuana fraîche ou séchée ou de l’huile de chanvre indien;
+	- **b)** les pharmaciens qui exercent dans les pharmacies avisées ne doivent pas remplir une ordonnance ou une commande, du praticien nommé dans l’avis, de stupéfiant autre qu’un stupéfiant d’ordonnance verbale, de stupéfiant d’ordonnance verbale, ou des deux;
+	- **c)** si le praticien nommé dans l’avis est un praticien de la santé, les producteurs autorisés avisés ne doivent pas vendre ou fournir de la marihuana fraîche ou séchée ou de l’huile de chanvre indien sur le fondement d’un document médical concernant le chanvre indien fourni par ce praticien.
+	- **d) et e)** [Abrogés, DORS/2013-119, art. 222]
 
 - **(2)** L’avis est donné si le praticien nommé dans l’avis se trouve dans l’une des circonstances suivantes :
 	- **a)** il a demandé au ministre de donner l’avis conformément à l’article 58;
 	- **b)** il a enfreint une règle de conduite établie par l’autorité provinciale attributive de licences en matière d’activités professionnelles de la province où il exerce et cette autorité a demandé par écrit au ministre de donner l’avis;
-	- **c)** il a été reconnu coupable par le tribunal d’une infraction désignée en matière de drogue ou d’une contravention au présent règlement ou au [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md).
+	- **c)** il a été reconnu coupable par le tribunal d’une infraction désignée en matière de drogue ou d’une contravention au présent règlement ou au [Règlement sur l’accès au cannabis à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2016/230.md).
 
 - **(3)** L’avis doit être donné aux personnes ou organismes suivants :
 	- **a)** tous les distributeurs autorisés;
@@ -1153,13 +1150,13 @@ qui précise le nom et la quantité du stupéfiant demandé.
 
 - **(4)** Sous réserve du paragraphe (5), le ministre peut donner l’avis prévu au paragraphe (1) aux personnes et organismes mentionnés au paragraphe (3) s’il a des motifs raisonnables de croire que le praticien nommé dans l’avis a posé l’un des actes suivants :
 	- **a)** il a enfreint l’un des articles 53,54 ou 55 ou des alinéas 70a) et b);
-	- **a.1)** il a effectué une opération visée à l’article 128 du [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md) à l’égard d’une personne qui n’est pas soumise à ses soins professionnels;
-	- **a.2)** il a contrevenu aux articles 129 ou 130 de ce règlement;
+	- **a.1)** il a effectué une opération visée à l’article 128 du [Règlement sur l’accès au cannabis à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2016/230.md) à l’égard d’une personne qui n’est pas soumise à ses soins professionnels;
+	- **a.2)** il a contrevenu aux articles 129 ou 130 de ce règlement;
 	- **b)** à plus d’une reprise, il s’est administré un stupéfiant autre qu’un stupéfiant d’ordonnance verbale, obtenu sur ordonnance ou commande écrite par lui ou, à défaut d’une ordonnance ou commande, d’une façon non conforme aux pratiques médicales, dentaires ou vétérinaires reconnues;
 	- **c)** à plus d’une reprise, il s’est administré un stupéfiant d’ordonnance verbale, obtenu sur ordonnance ou commande écrite par lui ou, à défaut d’une ordonnance ou commande, d’une façon non conforme aux pratiques médicales, dentaires ou vétérinaires reconnues;
 	- **d)** à plus d’une reprise, il a prescrit, fourni ou administré un stupéfiant autre qu’un stupéfiant d’ordonnance verbale à son époux ou conjoint de fait, son père ou sa mère ou son enfant, y compris un enfant adopté de fait, d’une façon non conforme aux pratiques médicales, dentaires ou vétérinaires reconnues;
 	- **e)** à plus d’une reprise, il a prescrit, fourni ou administré un stupéfiant d’ordonnance verbale à son époux ou conjoint de fait, son père ou sa mère ou son enfant, y compris un enfant adopté de fait, d’une façon non conforme aux pratiques médicales, dentaires ou vétérinaires reconnues;
-	- **f)** il est dans l’impossibilité de rendre compte de la quantité de stupéfiant dont il était responsable en vertu du présent règlement ou du [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md).
+	- **f)** il est dans l’impossibilité de rendre compte de la quantité de stupéfiant dont il était responsable en vertu du présent règlement ou du [Règlement sur l’accès au cannabis à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2016/230.md).
 
 - **(5)** Dans les circonstances décrites au paragraphe (4), le ministre donne l’avis mentionné au paragraphe (1) aux conditions suivantes :
 	- **a)** il a consulté l’autorité provinciale attributive de licences en matière d’activités professionnelles de la province où le praticien en cause est inscrit ou habilité à exercer;
@@ -1170,8 +1167,8 @@ qui précise le nom et la quantité du stupéfiant demandé.
 
 - **(6)** Dans le présent article, ***praticien de la santé*** s’entend :
 	- **a)** soit de la personne qui, en vertu des lois d’une province, est agréée et autorisée à exercer la médecine dans cette province;
-	- **b)** soit de l’infirmier praticien, au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md), qui est autorisé à prescrire de la marihuana séchée dans la province où il exerce.
-> DORS/2003-134, art. 5; DORS/2010-221, art. 17 et 18(F); DORS/2013-119, art. 222.
+	- **b)** soit de l’infirmier praticien, au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md), qui est autorisé à prescrire de la marihuana fraîche ou séchée ou de l’huile de chanvre indien dans la province où il exerce.
+> DORS/2003-134, art. 5; DORS/2010-221, art. 17 et 18(F); DORS/2013-119, art. 222; DORS/2016-230, art. 274 et 278.
 
 
 
@@ -1203,12 +1200,12 @@ qui précise le nom et la quantité du stupéfiant demandé.
 	- **(v)** du nom du malade pour qui a été fourni un stupéfiant autre qu’un stupéfiant d’ordonnance verbale ou que du dextropropoxyphène,
 	- **(vi)** du nom du praticien qui commande ou prescrit un stupéfiant autre qu’un stupéfiant d’ordonnance verbale ou que du dextropropoxyphène, et
 	- **(vii)** de la date où un stupéfiant autre qu’un stupéfiant d’ordonnance verbale ou que du dextropropoxyphène est commandé ou prescrit, ainsi que de la forme et de la quantité en cause,
-	- **(viii)** du nom du praticien de la santé qui fournit le document médical concernant la marihuana, de la date de la signature de ce document ainsi que de la quantité quotidienne et de la période d’usage indiquées dans ce dernier,
-	- **(ix)** des détails concernant la marihuana séchée retournée au titre de l’alinéa 65.3a), à savoir la quantité retournée, les nom et adresse du producteur autorisé à qui elle l’a été ainsi que la date du retour,
-	- **(x)** des détails concernant la vente ou la fourniture de marihuana séchée pour qu’elle soit détruite au titre des alinéas 65.3b) ou c), à savoir la quantité vendue ou fournie, les nom et adresse du producteur autorisé ou du distributeur autorisé à qui elle l’a été ainsi que la date de la vente ou de la fourniture;
+	- **(viii)** du nom du praticien de la santé qui fournit le document médical concernant le chanvre indien, de la date de la signature de ce document ainsi que de la quantité quotidienne et de la période d’usage indiquées dans ce dernier,
+	- **(ix)** des détails concernant la marihuana fraîche ou séchée ou l’huile de chanvre indien retournée au titre de l’alinéa 65.3a), à savoir le nom de la substance, la quantité retournée, les nom et adresse du producteur autorisé à qui elle l’a été ainsi que la date du retour,
+	- **(x)** des détails concernant la vente ou la fourniture de marihuana fraîche ou séchée ou d’huile de chanvre indien pour qu’elle soit détruite au titre des alinéas 65.3b) ou c), à savoir le nom de la substance, la quantité vendue ou fournie, les nom et adresse du producteur autorisé ou du distributeur autorisé à qui elle l’a été ainsi que la date de la vente ou de la fourniture;
 - **b)** conserver les renseignements consignés dans une forme qui permettra de faire une vérification de temps à autre durant une période d’au moins deux ans à compter de la date où les renseignements ont été consignés;
 - **c)** prendre toutes les mesures nécessaires pour protéger les stupéfiants dans l’hôpital contre la perte et le vol, et signaler au ministre toute perte ou tout vol de stupéfiant, 10 jours au plus après en avoir fait la découverte.
-> DORS/82-1073, art. 2; DORS/85-588, art. 21(A); DORS/2004-237, art. 24; DORS/2013-119, art. 224.
+> DORS/82-1073, art. 2; DORS/85-588, art. 21(A); DORS/2004-237, art. 24; DORS/2013-119, art. 224; DORS/2016-230, art. 275.
 
 
 
@@ -1225,67 +1222,73 @@ qui précise le nom et la quantité du stupéfiant demandé.
 
 - **(1)** Il est interdit à la personne à qui est confiée la charge d’un hôpital de permettre qu’un stupéfiant soit vendu, fourni ou administré si ce n’est en conformité avec le présent article ou l’article 65.3.
 
-- **(2)** Sous réserve du paragraphe (5), la personne à qui est confiée la charge d’un hôpital peut, sur réception d’une ordonnance ou d’une commande écrite, signée et datée par un praticien, permettre qu’un stupéfiant, autre que la marihuana séchée, soit administré à une personne ou à un animal qui reçoit un traitement comme patient hospitalisé ou externe de cet hôpital ou soit vendu ou fourni pour cette même personne ou au responsable de l’animal.
+- **(2)** Sous réserve du paragraphe (5), la personne à qui est confiée la charge d’un hôpital peut, sur réception d’une ordonnance ou d’une commande écrite, signée et datée par un praticien, permettre qu’un stupéfiant — autre que la marihuana fraîche ou séchée ou l’huile de chanvre indien reçues d’un producteur autorisé — soit administré à une personne ou à un animal qui reçoit un traitement comme patient hospitalisé ou externe de cet hôpital ou soit vendu ou fourni pour cette dernière ou au responsable de l’animal.
 
-- **(2.1)** La personne à qui est confiée la charge d’un hôpital peut, sur réception d’une ordonnance, d’une commande écrite ou d’un document médical concernant la marihuana, signé et daté par un praticien de la santé, permettre que la marihuana séchée soit :
+- **(2.1)** La personne à qui est confiée la charge d’un hôpital peut, sur réception d’une ordonnance, d’une commande écrite ou d’un document médical concernant le chanvre indien, signé et daté par un praticien de la santé, permettre que la marihuana fraîche ou séchée ou l’huile de chanvre indien reçues d’un producteur autorisé soit :
 	- **a)** administrée à une personne qui reçoit un traitement comme patient hospitalisé ou externe de cet hôpital ou vendue ou fournie à cette même personne;
-	- **b)** vendue ou fournie à une personne physique responsable de cette même personne.
+	- **b)** vendue ou fournie à toute personne physique responsable de cette même personne.
 
-- **(3)** Sous réserve des paragraphes (5) et (5.1), la personne à qui est confiée la charge d’un hôpital peut permettre qu’un stupéfiant, autre que la marihuana séchée, soit fourni pour une urgence à un employé d’un autre hôpital ou à un praticien exerçant dans un autre hôpital, sur réception d’une commande écrite, signée et datée par le pharmacien de l’autre hôpital ou par le praticien autorisé par la personne à qui est confiée la charge de l’autre hôpital à signer une telle commande.
+- **(3)** Sous réserve des paragraphes (5) et (5.1), la personne à qui est confiée la charge d’un hôpital peut permettre qu’un stupéfiant — autre que la marihuana fraîche ou séchée ou l’huile de chanvre indien reçues d’un producteur autorisé — soit fourni pour une urgence à un employé d’un autre hôpital ou à un praticien exerçant dans un autre hôpital, sur réception d’une commande écrite, signée et datée par le pharmacien de l’autre hôpital ou par le praticien autorisé par la personne à qui est confiée la charge de l’autre hôpital à signer une telle commande.
 
-- **(3.1)** Sous réserve du paragraphe (5.2), la personne à qui est confiée la charge d’un hôpital peut permettre que la marihuana séchée soit fournie pour une urgence à un employé d’un autre hôpital ou à un praticien de la santé exerçant dans un autre hôpital, sur réception d’une commande écrite, signée et datée par le pharmacien de l’autre hôpital ou par le praticien de la santé autorisé par la personne à qui est confiée la charge de l’autre hôpital à signer une telle commande.
+- **(3.1)** Sous réserve du paragraphe (5.2), la personne à qui est confiée la charge d’un hôpital peut permettre que la marihuana fraîche ou séchée ou l’huile de chanvre indien reçues d’un producteur autorisé soit fournie pour une urgence à un employé d’un autre hôpital ou à un praticien de la santé exerçant dans un autre hôpital, sur réception d’une commande écrite, signée et datée par le pharmacien de l’autre hôpital ou par le praticien de la santé autorisé par la personne à qui est confiée la charge de l’autre hôpital à signer une telle commande.
 
-- **(4)** Sous réserve du paragraphe (5.1), la personne à qui est confiée la charge d’un hôpital peut permettre qu’un stupéfiant, autre que la marihuana séchée, soit vendu ou fourni à un pharmacien pour une urgence, sur réception d’une commande écrite, signée et datée par ce pharmacien.
+- **(4)** Sous réserve du paragraphe (5.1), la personne à qui est confiée la charge d’un hôpital peut permettre qu’un stupéfiant — autre que la marihuana fraîche ou séchée ou l’huile de chanvre indien reçues d’un producteur autorisé — soit vendu ou fourni à un pharmacien pour une urgence, sur réception d’une commande écrite, signée et datée par ce pharmacien.
 
 - **(5)** Il est interdit à la personne à qui est confiée la charge d’un hôpital de permettre que de la méthadone soit vendue, fournie ou administrée en vertu des paragraphes (2) ou (3), à moins que le praticien visé à ces paragraphes bénéficie d’une exemption aux termes de l’article 56 de la Loi relativement à la méthadone.
 
 - **(5.1)** Il est interdit à la personne à qui est confiée la charge d’un hôpital de permettre que soit vendu ou fourni le stupéfiant visé respectivement aux paragraphes (3) et (4) à moins que la personne qui vend ou fournit le stupéfiant reconnaisse ou sinon vérifie la signature du pharmacien de l’autre hôpital ou du praticien autorisé par la personne à qui est confiée la charge de l’autre hôpital à signer une commande.
 
-- **(5.2)** Il est interdit à la personne à qui est confiée la charge d’un hôpital de permettre que soit vendue ou fournie la marihuana séchée visée au paragraphe (3.1) à moins que la personne qui la vend ou la fournit reconnaisse ou sinon vérifie la signature du pharmacien de l’autre hôpital ou du praticien de la santé autorisé par la personne à qui est confiée la charge de l’autre hôpital à signer une commande.
+- **(5.2)** Il est interdit à la personne à qui est confiée la charge d’un hôpital de permettre que soit vendue ou fournie la marihuana fraîche ou séchée ou l’huile de chanvre indien visée au paragraphe (3.1) à moins que la personne qui la vend ou la fournit reconnaisse ou sinon vérifie la signature du pharmacien de l’autre hôpital ou du praticien de la santé autorisé par la personne à qui est confiée la charge de l’autre hôpital à signer une commande.
 
 - **(6)** Le responsable d’un hôpital peut permettre qu’un stupéfiant soit fourni à la personne qui bénéficie d’une exemption aux termes de l’article 56 de la Loi relativement à ce stupéfiant et qui est employée dans un laboratoire de recherche de cet hôpital à des fins de recherche.
 
 - **(7)** [Abrogé, DORS/2013-172, art. 8]
-> DORS/85-588, art. 22; DORS/85-930, art. 8; DORS/88-279, art. 2(F); DORS/99-124, art. 7; DORS/2004-237, art. 25; DORS/2012-230, art. 23; DORS/2013-119, art. 225; DORS/2013-172, art. 8; DORS/2014-51, art. 2.
+> DORS/85-588, art. 22; DORS/85-930, art. 8; DORS/88-279, art. 2(F); DORS/99-124, art. 7; DORS/2004-237, art. 25; DORS/2012-230, art. 23; DORS/2013-119, art. 225; DORS/2013-172, art. 8; DORS/2014-51, art. 2; DORS/2016-230, art. 276.
 
 
 
 
 **65.1** 
 
-- **(1)** La personne à qui est confiée la charge d’un hôpital, qui permet que la marihuana séchée soit vendue ou fournie en vertu du paragraphe 65(2.1) à un patient externe ou à une personne physique responsable de ce dernier, veille au respect des exigences suivantes :
-	- **a)** la quantité totale de marihuana séchée vendue ou fournie à cette personne n’excède pas, au cours de toute période de trente jours, trente fois la quantité quotidienne visée au sous-alinéa 65.2c)(iii);
-	- **b)** la quantité de marihuana séchée vendue ou fournie à cette personne n’excède pas 150 g à la fois.
+- **(1)** La personne à qui est confiée la charge d’un hôpital, qui permet que la marihuana fraîche ou séchée ou l’huile de chanvre indien soit vendue ou fournie en vertu du paragraphe 65(2.1) à un patient externe ou à toute personne physique responsable de ce dernier, veille au respect des exigences ci-après en tenant compte du facteur d’équivalence en marihuana séchée déterminé en application de l’article 79 du [Règlement sur l’accès au cannabis à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2016/230.md) :
+	- **a)** la quantité totale de substance vendue ou fournie à cette personne n’excède pas, au cours d’une période de trente jours, la quantité qui équivaut à trente fois la quantité quotidienne prévue au sous-alinéa 65.2c)(iii);
+	- **b)** la quantité de substance vendue ou fournie à cette personne n’excède pas, à tout moment, la quantité qui équivaut à 150 g de marihuana séchée.
 
-- **(2)** Lorsque la personne à qui la marihuana séchée est ainsi vendue ou fournie la retourne à l’hôpital, la personne à qui est confiée la charge de l’hôpital peut, sous réserve de l’alinéa (1)b), permettre que soit remplacée la même quantité que celle de la marihuana retournée.
+- **(2)** Pour l’application du paragraphe (1), ***période de trente jours*** s’entend de :
+	- **a)** la période de trente jours débutant à la date à laquelle la substance est vendue ou fournie au patient externe ou à la personne physique responsable pour la première fois;
+	- **b)** toute période de trente jours suivant celle prévue à l’alinéa a).
 
-- **(3)** La quantité de marihuana séchée ainsi remplacée ne compte pas dans le calcul de la quantité totale visée à l’alinéa (1)a).
-> DORS/2013-119, art. 226; DORS/2014-51, art. 3(A).
+- **(3)** Pour l’application du paragraphe (2), la première période de trente jours débute à la date à laquelle la substance est vendue ou fournie au patient externe ou à la personne physique responsable pour la première fois après l’entrée en vigueur de ce paragraphe, et ce, même si une substance leur a déjà été vendue ou fournie.
+
+- **(4)** Lorsque la personne à qui la substance est ainsi vendue ou fournie la retourne à l’hôpital, la personne à qui est confiée la charge de l’hôpital peut, sous réserve de l’alinéa (1)b), permettre que soit remplacée la même quantité que celle de la substance retournée.
+
+- **(5)** La quantité de substance ainsi remplacée ne compte pas dans le calcul de la quantité totale prévue à l’alinéa (1)a).
+> DORS/2013-119, art. 226; DORS/2014-51, art. 3(A); DORS/2016-230, art. 277.
 
 
 
 
-**65.2** La personne à qui est confiée la charge d’un hôpital, qui permet que la marihuana séchée soit vendue ou fournie en vertu du paragraphe 65(2.1) à un patient externe ou à une personne physique responsable de ce dernier, veille au respect des exigences suivantes :
-- **a)** la marihuana séchée est vendue ou fournie dans le contenant immédiat dans lequel le producteur autorisé l’a vendue ou fournie à l’employé de l’hôpital visé au sous-alinéa 12(4)a)(ii) du [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md);
-- **b)** le contenant immédiat porte l’étiquette visée à l’article 66 de ce règlement;
-- **c)** une étiquette distincte qui comporte les renseignements ci-après est apposée sur le contenant immédiat :
-	- **(i)** les nom, prénom et profession du praticien de la santé qui a signé et daté l’ordonnance, la commande écrite ou le document médical concernant la marihuana,
+**65.2** La personne à qui est confiée la charge d’un hôpital, qui permet que la marihuana fraîche ou séchée ou l’huile de chanvre indien soit vendue ou fournie en vertu du paragraphe 65(2.1) à un patient externe ou à toute personne physique responsable de ce dernier, veille au respect des exigences suivantes :
+- **a)** la substance est vendue ou fournie dans le contenant immédiat dans lequel le producteur autorisé l’a vendue ou fournie à l’employé de l’hôpital visé au sous-alinéa 22(4)a)(ii) du [Règlement sur l’accès au cannabis à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2016/230.md);
+- **b)** le contenant immédiat porte l’étiquette visée à l’article 84 de ce règlement;
+- **c)** une étiquette distincte qui comprend les renseignements ci-après est apposée sur le contenant immédiat :
+	- **(i)** les nom, prénom et profession du praticien de la santé qui a signé et daté l’ordonnance, la commande écrite ou le document médical concernant le chanvre indien,
 	- **(ii)** les nom et prénom du patient,
-	- **(iii)** la quantité quotidienne de marihuana séchée, en grammes, qui sera utilisée par le patient et qui est indiquée dans l’ordonnance, la commande écrite ou le document médical concernant la marihuana,
-	- **(iv)** la date à laquelle la marihuana séchée a été vendue ou fournie;
-- **d)** l’étiquette visée à l’alinéa c) ne couvre aucune portion de celle visée à l’alinéa b);
-- **e)** une copie à jour du document intitulé Renseignements sur l’usage de la marihuana à des fins médicales, publié par le ministère de la Santé, est fournie au patient;
-- **f)** un document distinct qui comporte les renseignements visés à l’alinéa c) est fourni au patient.
-> DORS/2013-119, art. 226.
+	- **(iii)** la quantité quotidienne de marihuana séchée, en grammes, qui est autorisée pour le patient et qui est indiquée dans l’ordonnance, la commande écrite ou le document médical concernant le chanvre indien,
+	- **(iv)** la date à laquelle la substance a été vendue ou fournie;
+- **d)** l’étiquette visée à l’alinéa c) ne couvre aucune portion de celle visée à l’alinéa b);
+- **e)** une copie à jour du document intitulé Renseignements pour le consommateur — Cannabis (marihuana, marijuana), publié par le ministère de la Santé, est fournie au patient;
+- **f)** un document distinct qui comprend les renseignements visés à l’alinéa c) est fourni au patient.
+> DORS/2013-119, art. 226; DORS/2016-230, art. 277.
 
 
 
 
-**65.3** La personne à qui est confiée la charge d’un hôpital peut, lorsqu’elle reçoit une commande écrite pour de la marihuana séchée, permettre qu’elle soit :
+**65.3** La personne à qui est confiée la charge d’un hôpital peut, lorsqu’elle reçoit une commande écrite pour de la marihuana fraîche ou séchée ou de l’huile de chanvre indien, permettre qu’elle soit :
 - **a)** retournée au producteur autorisé qui la lui a vendue ou fournie, si la commande est signée et datée par celui-ci;
-- **b)** vendue ou fournie, pour qu’elle soit détruite, au producteur autorisé qui a le droit de détruire de la marihuana séchée autre que celle qu’il produit, vend ou fournit, si la commande est signée et datée par celui-ci;
-- **c)** vendue ou fournie, pour qu’elle soit détruite, au distributeur autorisé qui a le droit de détruire de la marihuana séchée, si la commande est signée et datée par celui-ci.
-> DORS/2013-119, art. 226; DORS/2014-260, art. 25(A).
+- **b)** vendue ou fournie, pour qu’elle soit détruite, au producteur autorisé qui a le droit de détruire de la marihuana fraîche ou séchée ou de l’huile de chanvre indien autre que celle qu’il produit, vend ou fournit, si la commande est signée et datée par celui-ci;
+- **c)** vendue ou fournie, pour qu’elle soit détruite, au distributeur autorisé qui a le droit de détruire de la substance, si la commande est signée et datée par celui-ci.
+> DORS/2013-119, art. 226; DORS/2014-260, art. 25(A); DORS/2016-230, art. 277.
 
 
 
@@ -1368,14 +1371,14 @@ qui précise le nom et la quantité du stupéfiant demandé.
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***membre*** Toute personne inscrite, licenciée ou certifiée au tableau d’un organisme régissant la profession d’infirmier. (*member*)
+***membre*** Toute personne inscrite, licenciée ou certifiée au tableau d’un organisme régissant la profession d’infirmier. (*member*)
 
-***organisme régissant la profession d’infirmier*** Toute autorité provinciale attributive de licences en matière d’activités professionnelles autorisée, par les lois d’une province, à inscrire, licencier ou certifier une personne, lui donnant ainsi le droit d’exercer la profession d’infirmier. (*nursing statutory body*)
+***organisme régissant la profession d’infirmier*** Toute autorité provinciale attributive de licences en matière d’activités professionnelles autorisée, par les lois d’une province, à inscrire, licencier ou certifier une personne, lui donnant ainsi le droit d’exercer la profession d’infirmier. (*nursing statutory body*)
 
-- **(2)** Le ministre peut fournir à tout organisme régissant la profession d’infirmier toute information concernant un de ses membres obtenue en vertu de la Loi, du présent règlement ou du [Règlement sur la marihuana à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/119.md).
+- **(2)** Le ministre peut fournir à tout organisme régissant la profession d’infirmier toute information concernant un de ses membres obtenue en vertu de la Loi, du présent règlement ou du [Règlement sur l’accès au cannabis à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2016/230.md).
 
 - **(3)** Le paragraphe (2) ne s’applique pas à l’infirmier praticien.
-> DORS/82-121, art. 1; DORS/2010-221, art. 16; DORS/2012-230, art. 24; DORS/2013-119, art. 228.
+> DORS/82-121, art. 1; DORS/2010-221, art. 16; DORS/2012-230, art. 24; DORS/2013-119, art. 228; DORS/2016-230, art. 278.
 
 
 
@@ -1556,7 +1559,6 @@ qui précise le nom et la quantité du stupéfiant demandé.
 - mais non compris :
 - **(8)** graines de cannabis stériles — à l’exception des dérivés de ces graines
 - **(9)** tige de cannabis mature — à l’exception des branches, des feuilles, des fleurs et des graines — ainsi que les fibres obtenues de cette tige
-- **18** Tapentadol (3-[(1R,2R)-3-(diméthylamino)-1-éthyl-2-méthylpropyl]-phénol), ses sels, dérivés et isomères, ainsi que les sels de ses dérivés et isomères
 - **18** Agonistes de synthèse des récepteurs cannabinoïdes de type 1, leurs sels, leurs dérivés et leurs isomères ainsi que les sels de leurs dérivés et isomères — à l’exclusion de ((3S)-2,3-dihydro-5-méthyl-3-(4-morpholinylméthyl)pyrrolo[1,2,3-de]-1,4-benzoxazin-6-yl)-1-naphthalènyl-méthanone (WIN 55,212-3) et ses sels —, notamment ceux qui entrent dans les catégories de structure chimique de base suivantes :
 - **(1)** toute substance ayant une structure 2-(cyclohexyl)phénol substituée en position 1 du cycle benzénique par un groupe hydroxy, éther ou ester et substituée davantage en position 5 du cycle benzénique, qu’il y ait ou non davantage de substitution sur ce cycle dans quelque mesure que ce soit, et substituée en position 3’ du cycle cyclohexyle par un alkyle, un carbonyle, un hydroxyle, un éther ou un ester, qu’il y ait ou non davantage de substitution sur ce cycle dans quelque mesure que ce soit, notamment :
 - **(i)** nabilone ((±)-trans-3-(1,1-diméthylheptyl)-6,6a,7,8,10,10a-hexahydro-1-hydroxy-6,6-diméthyl-9H-dibenzo[b,d]pyran-9-one)
@@ -1603,6 +1605,7 @@ qui précise le nom et la quantité du stupéfiant demandé.
 - **(9)** toute substance ayant une structure 3-carboxamideindole substituée à l’atome d’azote du cycle indole, qu’il y ait ou non davantage de substitution sur ce cycle dans quelque mesure que ce soit et qu’il y ait ou non substitution au groupe carboxamide dans quelque mesure que ce soit, notamment :
 - **(i)** N-(adamantan-1-yl)-1-fluoropentylindole-3-carboxamide (STS-135)
 - **(ii)** N-(adamantan-1-yl)-1-pentylindole-3-carboxamide (APICA)
-> DORS/97-227, art. 5; DORS/98-158, art. 1; DORS/99-372, art. 1 et 2; DORS/2000-244, art. 1(A); DORS/2003-33, art. 1; DORS/2005-272, art. 1; DORS/2013-172, art. 9; DORS/2015-189, art. 1; DORS/2015-191, art. 1 et 2.
+- **18.1** Tapentadol (3-[(1R,2R)-3-(diméthylamino)-1-éthyl-2-méthylpropyl]-phénol), ses sels, dérivés et isomères, ainsi que les sels de ses dérivés et isomères
+> DORS/97-227, art. 5; DORS/98-158, art. 1; DORS/99-372, art. 1 et 2; DORS/2000-244, art. 1(A); DORS/2003-33, art. 1; DORS/2005-272, art. 1; DORS/2013-172, art. 9; DORS/2015-189, art. 1; DORS/2015-191, art. 1 et 2; DORS/2016-230, art. 279.
 
 
