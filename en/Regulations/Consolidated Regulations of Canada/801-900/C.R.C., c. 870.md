@@ -34994,13 +34994,13 @@ the Minister may issue a registration number for the test kit, which shall be a 
 - **20** Benzylpiperazine [BZP], namely 1-benzylpiperazine and its salts, isomers and salts of isomers
 - **21** Trifluoromethylphenylpiperazine [TFMPP], namely 1-(3-trifluoromethylphenyl)piperazine and its salts, isomers and salts of isomers
 - **22** Methylenedioxypyrovalerone (MDPV), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues
-- **23** Diacetylmorphine (heroin) and its salts
+- **23** [Repealed, SOR/2016-239, s. 1]
 
 **PART II** 
 
 - **1** Salvia divinorum (S. divinorum), its preparations and derivatives, including:
 - **(1)** Salvinorin A ((2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acetyloxy)-2-(3-furanyl)dodecahydro-6a,10b-dimethyl-4,10-dioxo-2H-naphtho[2,1-c]pyran-7-carboxylic acid methyl ester)
-> SOR/97-228, s. 25; SOR/2003-34, ss. 4, 5; SOR/2012-65, s. 1; SOR/2012-177, s. 1; SOR/2013-172, s. 2; SOR/2015-210, ss. 4 to 6.
+> SOR/97-228, s. 25; SOR/2003-34, ss. 4, 5; SOR/2012-65, s. 1; SOR/2012-177, s. 1; SOR/2013-172, s. 2; SOR/2015-210, ss. 4 to 6; SOR/2016-239, s. 1.
 
 
 
