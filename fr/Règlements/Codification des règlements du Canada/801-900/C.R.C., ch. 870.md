@@ -34959,13 +34959,13 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 - **20** Benzylpipérazine [BZP], à savoir 1-benzylpipérazine et ses sels, isomères et sels d’isomères
 - **21** Trifluorométhylphénylpipérazine [TFMPP], à savoir 1-(3-trifluorométhylphényl)pipérazine et ses sels, isomères et sels d’isomères
 - **22** Méthylènedioxypyrovalérone (MDPV), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues
-- **23** Diacétylmorphine (héroïne) et ses sels
+- **23** [Abrogé, DORS/2016-239, art. 1]
 
 **PARTIE II** 
 
 - **1** Salvia divinorum (S. divinorum), ses préparations et dérivés, notamment :
 - **(1)** Salvinorine A (ester méthylique de l’acide (2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acétyloxy)-2-(3-furanyl)dodécahydro-6a,10b-diméthyl-4,10-dioxo-2Hnaphto[2,1-c]pyran-7-carboxylique)
-> DORS/97-228, art. 25; DORS/2003-34, art. 4 et 5; DORS/2012-65, art. 1; DORS/2012-177, art. 1; DORS/2013-172, art. 2; DORS/2015-210, art. 4 à 6.
+> DORS/97-228, art. 25; DORS/2003-34, art. 4 et 5; DORS/2012-65, art. 1; DORS/2012-177, art. 1; DORS/2013-172, art. 2; DORS/2015-210, art. 4 à 6; DORS/2016-239, art. 1.
 
 
 
