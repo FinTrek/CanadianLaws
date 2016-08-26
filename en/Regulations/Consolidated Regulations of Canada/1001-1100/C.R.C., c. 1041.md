@@ -53,7 +53,7 @@ Enabling authorities:
 - **(c)** an offence under Part I of the Act, except subsection 4(1), or
 - **(d)** a conspiracy or an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence referred to in any of paragraphs (a) to (c); (*infraction désignée en matière de drogue*)
 
-***diacetylmorphine (heroin)***[Repealed, SOR/2013-172, s. 3]
+***diacetylmorphine (heroin)*** includes the salts of diacetylmorphine; (*diacétylmorphine (héroïne)*)
 
 ***dried marihuana*** has the same meaning as in subsection 1(1) of the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md); (*marihuana séchée*)
 
@@ -133,14 +133,14 @@ Enabling authorities:
 ***verbal prescription narcotic*** means medication that
 - **(a)** contains in addition to a narcotic two or more medicinal ingredients other than a narcotic in a recognized therapeutic dose,
 - **(b)** is not intended for parenteral administration, and
-- **(c)** does not contain hydrocodone, methadone, oxycodone or pentazocine. (*stupéfiant d’ordonnance verbale*)
+- **(c)** does not contain diacetylmorphine (heroin), hydrocodone, methadone, oxycodone or pentazocine. (*stupéfiant d’ordonnance verbale*)
 
 ***written order***[Repealed, SOR/85-588, s. 1]
 
 - **(2)** Despite subitem 2(2) of the schedule, the following are not narcotics for the purposes of these Regulations:
 	- **(a)** a drug in dosage form, as defined in subsection C.01.005(3) of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md), that contains cocaine (benzoylmethylecgonine) or any of its salts unless the drug has a drug identification number assigned to it under Division 1 of Part C of those Regulations, is authorized for sale under Division 5 of Part C of those Regulations or has been compounded by a pharmacist in accordance with or in anticipation of an authorization from a practitioner that a stated amount of the drug be dispensed for a person who is or will be named in the authorization; or
 	- **(b)** cocaine (benzoylmethylecgonine) or any of its salts, or any drug that is not in dosage form that contains such a substance, unless the cocaine, salt or drug is to be compounded by a pharmacist in accordance with or in anticipation of an authorization from a practitioner that a stated amount of the drug be dispensed for a person who is or will be named in the authorization.
-> SOR/78-154, s. 1; SOR/81-361, s. 1; SOR/85-588, s. 1; SOR/85-930, s. 1; SOR/86-173, s. 1; SOR/88-279, s. 1(F); SOR/90-189, s. 1; SOR/97-227, s. 1; SOR/2003-134, s. 1; SOR/2004-237, s. 1; SOR/2010-221, s. 1; SOR/2012-230, s. 14; SOR/2013-119, s. 200; SOR/2013-172, s. 3; SOR/2015-132, s. 1; SOR/2016-230, ss. 261, 278.
+> SOR/78-154, s. 1; SOR/81-361, s. 1; SOR/85-588, s. 1; SOR/85-930, s. 1; SOR/86-173, s. 1; SOR/88-279, s. 1(F); SOR/90-189, s. 1; SOR/97-227, s. 1; SOR/2003-134, s. 1; SOR/2004-237, s. 1; SOR/2010-221, s. 1; SOR/2012-230, s. 14; SOR/2013-119, s. 200; SOR/2013-172, s. 3; SOR/2015-132, s. 1; SOR/2016-230, ss. 261, 278; SOR/2016-239, s. 2.
 
 
 
@@ -162,7 +162,7 @@ Enabling authorities:
 		- **(iii)** a practitioner who is registered and entitled to practise in the province in which he has such possession;
 	- **(b)** is a practitioner who is registered and entitled to practise in a province other than the province in which he has such possession and such possession is for emergency medical purposes only;
 	- **(c)** is a hospital employee or a practitioner in a hospital;
-	- **(d)** has obtained the narcotic for his own use
+	- **(d)** has obtained the narcotic, other than diacetylmorphine (heroin), for his or her own use
 		- **(i)** from a practitioner,
 		- **(ii)** pursuant to a prescription that is not issued or obtained in contravention of these Regulations,
 		- **(iii)** from a pharmacist pursuant to section 36, or
@@ -180,7 +180,7 @@ Enabling authorities:
 	- **(b)** the possession of the narcotic is for the purpose of assisting that person in the enforcement or administration of an Act or regulation.
 
 - **(3)** [Repealed, SOR/2012-230, s. 15]
-> SOR/85-588, s. 2; SOR/85-930, s. 2; SOR/97-227, s. 2; SOR/99-124, s. 1; SOR/2012-230, s. 15; SOR/2013-119, s. 202; SOR/2013-172, s. 4; SOR/2016-230, s. 263.
+> SOR/85-588, s. 2; SOR/85-930, s. 2; SOR/97-227, s. 2; SOR/99-124, s. 1; SOR/2012-230, s. 15; SOR/2013-119, s. 202; SOR/2013-172, s. 4; SOR/2016-230, s. 263; SOR/2016-239, s. 3.
 
 
 
@@ -670,7 +670,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 
 - **(1)** No licensed dealer shall sell or provide a narcotic to any person except in accordance with this section and sections 27 and 28.
 
-- **(2)** Subject to section 25, a licensed dealer may sell or provide any narcotic other than methadone to
+- **(2)** Subject to section 25, a licensed dealer may sell or provide any narcotic other than diacetylmorphine (heroin) or methadone to
 	- **(a)** another licensed dealer;
 	- **(b)** a pharmacist;
 	- **(c)** a practitioner;
@@ -690,10 +690,14 @@ the Minister may issue a registration number for the test kit, which shall be a 
 	- **(d)** a person exempted under section 56 of the Act with respect to the possession of that narcotic; or
 	- **(e)** [Repealed, SOR/2010-221, s. 11]
 
-- **(4)** [Repealed, SOR/2013-172, s. 5]
+- **(4)** Subject to section 25, a licensed dealer may sell or provide diacetylmorphine (heroin) to
+	- **(a)** another licensed dealer;
+	- **(b)** a hospital employee, if that hospital provides care or treatment to persons;
+	- **(c)** if practising in a hospital, a practitioner of medicine or dentistry, if that hospital provides care or treatment to persons; or
+	- **(d)** a person exempted under section 56 of the Act with respect to the possession of that narcotic for a scientific purpose.
 
 - **(5)** A licensed dealer may sell or provide cannabis to a licensed producer.
-> SOR/78-154, s. 3; SOR/85-588, s. 5; SOR/85-930, s. 3; SOR/86-173, s. 2; SOR/99-124, s. 2; SOR/2004-237, s. 11; SOR/2010-221, s. 11; SOR/2012-230, s. 18; SOR/2013-119, s. 209; SOR/2013-172, s. 5; SOR/2014-260, s. 22; SOR/2016-230, s. 266.
+> SOR/78-154, s. 3; SOR/85-588, s. 5; SOR/85-930, s. 3; SOR/86-173, s. 2; SOR/99-124, s. 2; SOR/2004-237, s. 11; SOR/2010-221, s. 11; SOR/2012-230, s. 18; SOR/2013-119, s. 209; SOR/2013-172, s. 5; SOR/2014-260, s. 22; SOR/2016-230, s. 266; SOR/2016-239, s. 4.
 
 
 
@@ -719,15 +723,15 @@ the Minister may issue a registration number for the test kit, which shall be a 
 
 **27** 
 
-- **(1)** Subject to this section, a licensed dealer may, in accordance with the terms and conditions of their dealer’s licence, sell or provide a narcotic under subsections 24(2) to (5) if the licensed dealer has, on the premises specified in the licence, received
+- **(1)** Subject to this section, a licensed dealer may, in accordance with the terms and conditions of their dealer’s licence, sell or provide a narcotic under subsections 24(2) to (5) if the licensed dealer has, on the premises specified in the licence, received
 	- **(a)** a written order,
 	- **(b)** an order sent through a computer from a remote input device, or
 	- **(c)** a verbal order for verbal prescription narcotics
 that specifies the name and quantity of the narcotic to be supplied.
 
-- **(2)** A licensed dealer who has received an order referred to in paragraph (1)(a) may sell or provide a narcotic under subsections 24(2) to (5) if
+- **(2)** A licensed dealer who has received an order referred to in paragraph (1)(a) may sell or provide a narcotic under subsections 24(2) to (5) if
 	- **(a)** the order is signed and dated
-		- **(i)** if the narcotic is to be sold or provided to a person referred to in paragraph 24(2)(a), (b), (c) or (e), 24(3)(a), (b) or (d) or subsection 24(5), by that person, or
+		- **(i)** if the narcotic is to be sold or provided to a person referred to in paragraph 24(2)(a), (b), (c) or (e), 24(3)(a), (b), or (d) or 24(4)(a) or (d) or subsection 24(5), by that person, or
 		- **(ii)** if the narcotic is to be provided to a hospital employee or a practitioner in a hospital, by the pharmacist in charge of the dispensary of the hospital or by a practitioner authorized by the person in charge of the hospital to sign the order; and
 	- **(b)** the signature of the person referred to in paragraph (a), if unknown to the licensed dealer, has been verified.
 
@@ -764,7 +768,7 @@ that specifies the name and quantity of the narcotic to be supplied.
 - **(9)** If a licensed dealer has not obtained a receipt from a pharmacist or practitioner under subsection (8) within the time prescribed by that subsection, the licensed dealer shall not, until after obtaining the receipt, sell or provide a narcotic to the pharmacist or practitioner pursuant to any further
 	- **(a)** order sent through a computer from a remote input device referred to in paragraph (1)(b), or
 	- **(b)** verbal order referred to in paragraph (1)(c) from that pharmacist or practitioner who placed the order for which no receipt has been received.
-> SOR/78-154, s. 4; SOR/85-588, s. 7; SOR/85-930, s. 5; SOR/99-124, s. 3; SOR/2004-237, s. 12; SOR/2010-221, s. 12; SOR/2012-230, s. 19; SOR/2013-119, s. 210; SOR/2013-172, s. 6; SOR/2014-260, ss. 23(E), 26(F).
+> SOR/78-154, s. 4; SOR/85-588, s. 7; SOR/85-930, s. 5; SOR/99-124, s. 3; SOR/2004-237, s. 12; SOR/2010-221, s. 12; SOR/2012-230, s. 19; SOR/2013-119, s. 210; SOR/2013-172, s. 6; SOR/2014-260, ss. 23(E), 26(F); SOR/2016-239, s. 5.
 
 
 
@@ -1051,12 +1055,12 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 - **(3)** No practitioner shall administer methadone to a person or animal, or prescribe, sell or provide methadone for a person or animal, unless the practitioner is exempted under section 56 of the Act with respect to methadone.
 
-- **(4)** [Repealed, SOR/2013-172, s. 7]
+- **(4)** A practitioner of medicine, dentistry or veterinary medicine shall not administer diacetylmorphine (heroin) to an animal or to a person who is not an in-patient or out-patient of a hospital providing care or treatment to persons, and shall not prescribe, sell or provide diacetylmorphine (heroin) for an animal or such a person.
 
 - **(5)** A health care practitioner may administer fresh or dried marihuana or cannabis oil received from a licensed producer to a person or prescribe or transfer it for a person if
 	- **(a)** the person is a patient under their professional treatment; and
 	- **(b)** the substance is required for the condition for which the person is receiving treatment.
-> SOR/85-930, s. 7; SOR/99-124, s. 6; SOR/2001-227, s. 71; SOR/2004-237, s. 20; SOR/2012-230, s. 22; SOR/2013-119, s. 217; SOR/2013-172, s. 7; SOR/2016-230, ss. 269, 278.
+> SOR/85-930, s. 7; SOR/99-124, s. 6; SOR/2001-227, s. 71; SOR/2004-237, s. 20; SOR/2012-230, s. 22; SOR/2013-119, s. 217; SOR/2013-172, s. 7; SOR/2016-230, ss. 269, 278; SOR/2016-239, s. 6.
 
 
 
@@ -1224,7 +1228,7 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 - **(1)** No person in charge of a hospital shall permit a narcotic to be sold, provided or administered except in accordance with this section or section 65.3.
 
-- **(2)** Subject to subsection (5), on receipt of a prescription or a written order, signed and dated by a practitioner, the person in charge of a hospital may permit a narcotic — other than fresh or dried marihuana or cannabis oil received from a licensed producer — to be administered to a person or an animal under treatment as an in-patient or out-patient of the hospital, or to be sold or provided for the person or to the person in charge of the animal.
+- **(2)** Subject to subsection (5), on receipt of a prescription or a written order, signed and dated by a practitioner, the person in charge of a hospital may permit a narcotic — other than fresh or dried marihuana or cannabis oil received from a licensed producer or diacetylmorphine (heroin) — to be administered to a person or an animal under treatment as an in-patient or out-patient of the hospital, or to be sold or provided for the person or to the person in charge of the animal.
 
 - **(2.1)** On receipt of a prescription, a written order or a cannabis medical document, signed and dated by a health care practitioner, the person in charge of a hospital may permit fresh or dried marihuana or cannabis oil received from a licensed producer
 	- **(a)** to be administered to a person under treatment as an in-patient or out-patient of the hospital or to be sold or provided to that person; or
@@ -1234,7 +1238,7 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 - **(3.1)** Subject to subsection (5.2), the person in charge of a hospital may permit fresh or dried marihuana or cannabis oil received from a licensed producer to be provided, for emergency purposes, to a hospital employee or health care practitioner in another hospital on receipt of a written order signed and dated by a pharmacist in the other hospital or a health care practitioner authorized by the person in charge of the other hospital to sign the order.
 
-- **(4)** Subject to subsection (5.1), the person in charge of a hospital may permit a narcotic — other than fresh or dried marihuana or cannabis oil received from a licensed producer — to be sold or provided, for emergency purposes, to a pharmacist on receipt of a written order signed and dated by the pharmacist.
+- **(4)** Subject to subsection (5.1), the person in charge of a hospital may permit a narcotic — other than fresh or dried marihuana or cannabis oil received from a licensed producer or diacetylmorphine (heroin) — to be sold or provided, for emergency purposes, to a pharmacist on receipt of a written order signed and dated by the pharmacist.
 
 - **(5)** No person in charge of a hospital shall permit methadone to be sold, provided or administered under subsection (2) or (3) unless the prescribing or ordering practitioner is exempted under section 56 of the Act with respect to methadone.
 
@@ -1244,8 +1248,8 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 - **(6)** A person in charge of a hospital may permit a narcotic to be provided to a person who is exempted under section 56 of the Act with respect to the narcotic and who is employed in a research laboratory in the hospital for the purpose of research.
 
-- **(7)** [Repealed, SOR/2013-172, s. 8]
-> SOR/85-588, s. 22; SOR/85-930, s. 8; SOR/88-279, s. 2(F); SOR/99-124, s. 7; SOR/2004-237, s. 25; SOR/2012-230, s. 23; SOR/2013-119, s. 225; SOR/2013-172, s. 8; SOR/2014-51, s. 2; SOR/2016-230, s. 276.
+- **(7)** The person in charge of a hospital providing care or treatment to persons may permit diacetylmorphine (heroin) to be sold, provided or administered to a person under treatment as an in-patient or out-patient of the hospital on receipt of a prescription or a written order signed and dated by a practitioner of medicine or dentistry.
+> SOR/85-588, s. 22; SOR/85-930, s. 8; SOR/88-279, s. 2(F); SOR/99-124, s. 7; SOR/2004-237, s. 25; SOR/2012-230, s. 23; SOR/2013-119, s. 225; SOR/2013-172, s. 8; SOR/2014-51, s. 2; SOR/2016-230, s. 276; SOR/2016-239, s. 7.
 
 
 
@@ -1405,7 +1409,7 @@ that specifies the name and quantity of the narcotic to be supplied.
 - **(7)** Benzylmorphine (7,8-didehydro-4,5-epoxy-17-methyl-3-(phenylmethoxy) morphinan-6-ol)
 - **(8)** Codoxime (dihydrocodeinone O-(carboxymethyl)oxime)
 - **(9)** Desomorphine (dihydrodeoxymorphine)
-- **(10)** [Repealed, SOR/2013-172, s. 9]
+- **(10)** Diacetylmorphine (heroin)
 - **(11)** Dihydrocodeine (4,5-epoxy-3-methoxy-17-methylmorphinan-6-ol)
 - **(12)** Dihydromorphine (4,5-epoxy-17-methylmorphinan-3,6-diol)
 - **(13)** Ethylmorphine (7,8-didehydro-4,5-epoxy-3-ethoxy-17-methylmorphinan-6-ol)
@@ -1430,7 +1434,7 @@ that specifies the name and quantity of the narcotic to be supplied.
 - but not including
 - **(32)** Apomorphine (5,6,6a,7-tetrahydro-6-methyl-4H-dibenzo[de,g]-quinoline-10,11-diol)
 - **(33)** Cyprenorphine (N-(cyclopropylmethyl)-6,7,8,14-tetrahydro-7α-(1-hydroxy-1-methylethyl)-6,14-endo-ethenonororipavine)
-- **(33.1)** Diacetylmorphine (heroin) and its salts
+- **(33.1)** [Repealed, SOR/2016-239, s. 8]
 - **(34)** Nalmefene (17-(cyclopropylmethyl)-4,5α-epoxy-6-methylenemorphinan-3,14-diol)
 - **(34.1)** Naloxone (4,5α-epoxy-3,14-dihydroxy-17-(2-propenyl)morphinan-6-one)
 - **(34.2)** Naltrexone (17-(cyclopropylmethyl)-4,5α-epoxy-3,14-dihydroxymorphinan-6-one)
@@ -1608,6 +1612,6 @@ that specifies the name and quantity of the narcotic to be supplied.
 - **(i)** N-(adamantan-1-yl)-1-fluoropentylindole-3-carboxamide (STS-135)
 - **(ii)** N-(adamantan-1-yl)-1-pentylindole-3-carboxamide (APICA)
 - **18.1** Tapentadol (3-[(1R,2R)-3-(dimethylamino)-1-ethyl-2-methylpropyl]-phenol), its salts, derivatives and isomers and salts of derivatives and isomers
-> SOR/97-227, s. 5; SOR/98-158, s. 1; SOR/99-372, ss. 1, 2; SOR/2000-244, s. 1(E); SOR/2003-33, s. 1; SOR/2005-272, s. 1; SOR/2013-172, s. 9; SOR/2015-189, s. 1; SOR/2015-191, ss. 1, 2; SOR/2016-230, s. 279.
+> SOR/97-227, s. 5; SOR/98-158, s. 1; SOR/99-372, ss. 1, 2; SOR/2000-244, s. 1(E); SOR/2003-33, s. 1; SOR/2005-272, s. 1; SOR/2013-172, s. 9; SOR/2015-189, s. 1; SOR/2015-191, ss. 1, 2; SOR/2016-230, s. 279; SOR/2016-239, s. 8.
 
 
