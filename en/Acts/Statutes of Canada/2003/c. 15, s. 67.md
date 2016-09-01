@@ -791,6 +791,17 @@ where
 </td>
 </tr>
 <tr>
+<td>Déline First Nation
+
+</td>
+<td>Déline Got’ine Government
+
+</td>
+<td>Déline Lands, as defined in 22.1.1 of the Déline Final Self-Government Agreement that is approved, given effect and declared valid by the [Déline Final Self-Government Agreement Act](/en/Acts/Statutes%20of%20Canada/2015/c.%2024.md)
+
+</td>
+</tr>
+<tr>
 <td>Duncan’s First Nation
 
 </td>
@@ -940,7 +951,7 @@ where
 <td>Council of Lower Kootenay
 
 </td>
-<td>Reserves of Lower Kootenay, other than the reserve designated as St. Mary’s No. 1A.
+<td>Reserves of Lower Kootenay, other than the reserve designated as St. Mary’s No. 1A.
 
 </td>
 </tr>
@@ -1116,7 +1127,7 @@ where
 <td>Council of St. Mary’s
 
 </td>
-<td>Reserves of St. Mary’s, other than the reserve designated as St. Mary’s No. 1A.
+<td>Reserves of St. Mary’s, other than the reserve designated as St. Mary’s No. 1A.
 
 </td>
 </tr>
@@ -1276,7 +1287,7 @@ where
 </tr>
 </table>
 
-> 2003, c. 15, s. 67 “Sch.”; SOR/2004-281; 2005, c. 19, s. 11; SOR/2005-363; SOR/2006-201, 294; SOR/2007-111; SOR/2007-185, ss. 1, 2; SOR/2008-103, 234, 235; SOR/2009-281; SOR/2010-178, 179; SOR/2011-36, 213, 214, 266; SOR/2012-31; SOR/2013-14; SOR/2014-119, 157, 209; SOR/2015-28; SOR/2016-97, 127.
+> 2003, c. 15, s. 67 “Sch.”; SOR/2004-281; 2005, c. 19, s. 11; SOR/2005-363; SOR/2006-201, 294; SOR/2007-111; SOR/2007-185, ss. 1, 2; SOR/2008-103, 234, 235; SOR/2009-281; SOR/2010-178, 179; SOR/2011-36, 213, 214, 266; SOR/2012-31; SOR/2013-14; SOR/2014-119, 157, 209; 2015, c. 24, s. 41; SOR/2015-28; SOR/2016-97, 127.
 
 
 
