@@ -56,19 +56,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***accord de Deline*** L’accord définitif sur l’autonomie gouvernementale de Deline, conclu le 18 février 2015 entre la bande de la Première Nation de Deline, la société foncière de Deline et les gouvernements du Canada et des Territoires du Nord-Ouest, avec ses modifications éventuelles.
+***accord de Deline*** L’accord définitif sur l’autonomie gouvernementale de Deline, conclu le 18 février 2015 entre la bande de la Première Nation de Deline, la société foncière de Deline et les gouvernements du Canada et des Territoires du Nord-Ouest, avec ses modifications éventuelles. (*Déline Agreement*)
 
-***accord du Sahtu*** Entente au sens de l’article 2 de la [Loi sur le règlement de la revendication territoriale des Dénés et Métis du Sahtu](/fr/Lois/Lois%20du%20Canada/1994/ch.%2027.md).
+***accord du Sahtu*** Entente au sens de l’article 2 de la [Loi sur le règlement de la revendication territoriale des Dénés et Métis du Sahtu](/fr/Lois/Lois%20du%20Canada/1994/ch.%2027.md). (*Sahtu Agreement*)
 
-***accord sur le traitement fiscal de Deline*** L’accord sur le traitement fiscal visé au paragraphe 22.3.1 de l’accord de Deline, avec ses modifications éventuelles.
+***accord sur le traitement fiscal de Deline*** L’accord sur le traitement fiscal visé au paragraphe 22.3.1 de l’accord de Deline, avec ses modifications éventuelles. (*Déline Tax Treatment Agreement*)
 
-***bande de la Première Nation de Deline*** S’entend au sens du chapitre 1 de l’accord de Deline.
+***bande de la Première Nation de Deline*** S’entend au sens du chapitre 1 de l’accord de Deline. (*Déline First Nation Band*)
 
-***gouvernement Gotine de Deline*** Le gouvernement établi conformément au chapitre 3 de l’accord de Deline.
+***gouvernement Gotine de Deline*** Le gouvernement établi conformément au chapitre 3 de l’accord de Deline. (*Déline Got’ine Government*)
 
-***loi de Deline*** S’entend au sens de ***loi du GGD***, au chapitre 1 de l’accord de Deline.
+***loi de Deline*** S’entend au sens de ***loi du GGD***, au chapitre 1 de l’accord de Deline. (*Déline law*)
 
-***société foncière de Deline*** S’entend au sens du chapitre 1 de l’accord de Deline.
+***société foncière de Deline*** S’entend au sens du chapitre 1 de l’accord de Deline. (*Déline Land Corporation*)
 
 
 
@@ -395,8 +395,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Décret**
 
-<sup><a href='#fn_Ind3691_hq_15971'>[*]</a></sup>**43** Les dispositions de la présente loi, à l’exception des articles 19 et 42, entrent en vigueur à la date ou aux dates fixées par décret.
+<sup><a href='#fn_Ind3691_hq_15971'>[*]</a></sup>**43 ** Les dispositions de la présente loi, à l’exception des articles 19 et 42, entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind3691_hq_15971'><sup>*</sup></a>: [Note : Les dispositions de la présente loi, à l’exception des articles 19 et 42, non en vigueur.]<br />
+<a name='fn_Ind3691_hq_15971'><sup>*</sup></a>: [Note : Articles 1 à 18 et 20 à 41 en vigueur le 1<sup>er</sup> septembre 2016, *voir* TR/2016-22.]<br />
 
 
