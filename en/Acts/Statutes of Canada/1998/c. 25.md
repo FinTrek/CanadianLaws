@@ -48,63 +48,71 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **2** The definitions in this section apply in this Act.
 
-***deposit of waste*** means a deposit of waste in any waters in the Mackenzie Valley or in any other place under conditions in which the waste, or any other waste that results from the deposit of that waste, may enter any waters in the Mackenzie Valley.
+***Déline Agreement*** means the Déline Final Self-Government Agreement among the Déline First Nation Band, the Déline Land Corporation, the Government of Canada and the Government of the Northwest Territories, signed on February 18, 2015, including any amendments made to it, that is approved, given effect and declared valid by the [Déline Final Self-Government Agreement Act](/en/Acts/Statutes%20of%20Canada/2015/c.%2024.md). (*accord de Deline*)
 
-***environment*** means the components of the Earth and includes
+***Déline Got’ine Government*** means the government established in accordance with chapter 3 of the Déline Agreement. (*gouvernement Gotine de Deline*)
+
+***Déline lands*** means the lands whose title is vested in the Déline Got’ine Government in accordance with 21.2.1 of the Déline Agreement. (*terres de Deline*)
+
+***Déline law*** has the meaning assigned by the definition ***DGG Law*** in chapter 1 of the Déline Agreement. (*loi de Deline*)
+
+***deposit of waste*** means a deposit of waste in any waters in the Mackenzie Valley or in any other place under conditions in which the waste, or any other waste that results from the deposit of that waste, may enter any waters in the Mackenzie Valley. (*dépôt de déchets*)
+
+***environment*** means the components of the Earth and includes
 - **(a)** land, water and air, including all layers of the atmosphere;
 - **(b)** all organic and inorganic matter and living organisms; and
-- **(c)** the interacting natural systems that include components referred to in paragraphs (a) and (b).
+- **(c)** the interacting natural systems that include components referred to in paragraphs (a) and (b). (*environnement*)
 
-***federal Minister*** means the Minister of Indian Affairs and Northern Development.
+***federal Minister*** means the Minister of Indian Affairs and Northern Development. (*ministre fédéral*)
 
-***first nation*** means the Gwich’in First Nation, the Sahtu First Nation or bodies representing other Dene or Metis of the North Slave, South Slave or Deh Cho region of the Mackenzie Valley, but does not include the Tlicho First Nation or the Tlicho Government.
+***first nation*** means the Gwich’in First Nation, the Sahtu First Nation or bodies representing other Dene or Metis of the North Slave, South Slave or Deh Cho region of the Mackenzie Valley, but does not include the Tlicho First Nation or the Tlicho Government. (*première nation*)
 
-***Gwich’in Agreement*** means the Comprehensive Land Claim Agreement between Her Majesty the Queen in right of Canada and the Gwich’in as represented by the Gwich’in Tribal Council, signed on April 22, 1992 and approved, given effect and declared valid by the [Gwich’in Land Claim Settlement Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2053.md), as that Agreement is amended from time to time in accordance with its provisions.
+***Gwich’in Agreement*** means the Comprehensive Land Claim Agreement between Her Majesty the Queen in right of Canada and the Gwich’in as represented by the Gwich’in Tribal Council, signed on April 22, 1992 and approved, given effect and declared valid by the [Gwich’in Land Claim Settlement Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2053.md), as that Agreement is amended from time to time in accordance with its provisions. (*accord gwich’in*)
 
-***Gwich’in First Nation*** means the Gwich’in as represented by the Gwich’in Tribal Council referred to in the Gwich’in Agreement or by any successor to it.
+***Gwich’in First Nation*** means the Gwich’in as represented by the Gwich’in Tribal Council referred to in the Gwich’in Agreement or by any successor to it. (*première nation des Gwich’in*)
 
-***harvesting***, in relation to wildlife, means hunting, trapping or fishing activities carried on in conformity with a land claim agreement or, in respect of persons and places not subject to a land claim agreement, carried on pursuant to aboriginal or treaty rights.
+***harvesting***, in relation to wildlife, means hunting, trapping or fishing activities carried on in conformity with a land claim agreement or, in respect of persons and places not subject to a land claim agreement, carried on pursuant to aboriginal or treaty rights. (*exploitation*)
 
-***heritage resources*** means archaeological or historic sites, burial sites, artifacts and other objects of historical, cultural or religious significance, and historical or cultural records.
+***heritage resources*** means archaeological or historic sites, burial sites, artifacts and other objects of historical, cultural or religious significance, and historical or cultural records. (*ressources patrimoniales*)
 
-***land claim agreement*** means the Gwich’in Agreement, the Sahtu Agreement or the Tlicho Agreement.
+***land claim agreement*** means the Gwich’in Agreement, the Sahtu Agreement or the Tlicho Agreement. (*accord de revendication*)
 
-***local government*** means any local government established under the laws of the Northwest Territories, including a city, town, village, hamlet, charter community, settlement or government of a Tlicho community, whether incorporated or not, and includes the territorial government acting in the place of a local government pursuant to those laws.
+***local government*** means any local government established under the laws of the Northwest Territories, including a city, town, village, hamlet, charter community, settlement or government of a Tlicho community, whether incorporated or not, and includes the territorial government in the case where it is acting in the place of that local government in accordance with those laws. It also includes the Déline Got’ine Government in the case where it is exercising the jurisdiction and authority set out in 9.1 of the Déline Agreement. (*administration locale*)
 
-***Mackenzie Valley*** means that part of the Northwest Territories bounded on the south by the 60th parallel of latitude, on the west by Yukon, on the north by the Inuvialuit Settlement Region, as defined in the Agreement given effect by the [Western Arctic (Inuvialuit) Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1984/c.%2024.md) , and on the east by the Nunavut Settlement Area, as defined in the [Nunavut Land Claims Agreement Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2029.md) , but does not include Wood Buffalo National Park of Canada.
+***Mackenzie Valley*** means that part of the Northwest Territories bounded on the south by the 60th parallel of latitude, on the west by Yukon, on the north by the Inuvialuit Settlement Region, as defined in the Agreement given effect by the [Western Arctic (Inuvialuit) Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1984/c.%2024.md) , and on the east by the Nunavut Settlement Area, as defined in the [Nunavut Land Claims Agreement Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2029.md) , but does not include Wood Buffalo National Park of Canada. (*vallée du Mackenzie*)
 
-***Monfwi Gogha De Niitlee*** means the area described in part 1 of the appendix to chapter 1 of the Tlicho Agreement.
+***Monfwi Gogha De Niitlee*** means the area described in part 1 of the appendix to chapter 1 of the Tlicho Agreement. (*Monfwi gogha de niitlee*)
 
-***Sahtu Agreement*** means the Comprehensive Land Claim Agreement between Her Majesty the Queen in right of Canada and the Sahtu Dene and Metis as represented by the Sahtu Tribal Council, signed on September 6, 1993 and approved, given effect and declared valid by the [Sahtu Dene and Metis Land Claim Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2027.md), as that Agreement is amended from time to time in accordance with its provisions.
+***Sahtu Agreement*** means the Comprehensive Land Claim Agreement between Her Majesty the Queen in right of Canada and the Sahtu Dene and Metis as represented by the Sahtu Tribal Council, signed on September 6, 1993 and approved, given effect and declared valid by the [Sahtu Dene and Metis Land Claim Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2027.md), as that Agreement is amended from time to time in accordance with its provisions. (*accord du Sahtu*)
 
-***Sahtu First Nation*** means the Sahtu Dene and Metis as represented by The Sahtu Secretariat Incorporated, a corporation without share capital under Part II of the [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), chapter C-32 of the Revised Statutes of Canada, 1970, being the successor, for the purposes of this Act, to the Sahtu Tribal Council referred to in the Sahtu Agreement, or by any successor to that corporation.
+***Sahtu First Nation*** means the Sahtu Dene and Metis as represented by The Sahtu Secretariat Incorporated, a corporation without share capital under Part II of the [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), R.S.C. 1970, c. C-32, being the successor, for the purposes of this Act, to the Sahtu Tribal Council referred to in the Sahtu Agreement, or by any successor to that corporation. It also includes the Déline Got’ine Government in the case where The Sahtu Secretariat Incorporated or its successor has made a delegation or assignment to that government of any powers and functions conferred under this Act. (*première nation du Sahtu*)
 
-***settlement area*** means the area described in appendix A to the Gwich’in Agreement or in appendix A to the Sahtu Agreement.
+***settlement area*** means the area described in appendix A to the Gwich’in Agreement or in appendix A to the Sahtu Agreement. (*région désignée*)
 
-***settlement lands*** means lands referred to as settlement lands in the Gwich’in Agreement or the Sahtu Agreement.
+***settlement lands*** means lands referred to as settlement lands in the Gwich’in Agreement or the Sahtu Agreement. (*terres désignées*)
 
-***territorial government*** means the government of the Northwest Territories.
+***territorial government*** means the government of the Northwest Territories. (*gouvernement territorial*)
 
-***territorial law*** means any law of the Legislature of the Northwest Territories.
+***territorial law*** means any law of the Legislature of the Northwest Territories. (*règle de droit territoriale*)
 
-***territorial Minister***, in relation to any provision of this Act, means the minister of the territorial government designated by instrument of the Executive Council of the Northwest Territories for the purposes of that provision.
+***territorial Minister***, in relation to any provision of this Act, means the minister of the territorial government designated by instrument of the Executive Council of the Northwest Territories for the purposes of that provision. (*ministre territorial*)
 
-***Tlicho Agreement*** means the Land Claims and Self-Government Agreement among the Tlicho, the Government of the Northwest Territories and the Government of Canada, signed on August 25, 2003 and approved, given effect and declared valid by the [Tlicho Land Claims and Self-Government Act](/en/Acts/Statutes%20of%20Canada/2005/c.%201.md), as that Agreement is amended from time to time in accordance with its provisions.
+***Tlicho Agreement*** means the Land Claims and Self-Government Agreement among the Tlicho, the Government of the Northwest Territories and the Government of Canada, signed on August 25, 2003 and approved, given effect and declared valid by the [Tlicho Land Claims and Self-Government Act](/en/Acts/Statutes%20of%20Canada/2005/c.%201.md), as that Agreement is amended from time to time in accordance with its provisions. (*accord tlicho*)
 
-***Tlicho citizen*** means a person whose name is on the Register as defined in chapter 1 of the Tlicho Agreement.
+***Tlicho citizen*** means a person whose name is on the Register as defined in chapter 1 of the Tlicho Agreement. (*citoyen tlicho*)
 
-***Tlicho community*** means a community for which a community government is established in accordance with chapter 8 of the Tlicho Agreement.
+***Tlicho community*** means a community for which a community government is established in accordance with chapter 8 of the Tlicho Agreement. (*collectivité tlicho*)
 
-***Tlicho First Nation*** means the aboriginal people of Canada to whom section 35 of the Constitution Act, 1982 applies, consisting of all Tlicho citizens.
+***Tlicho First Nation*** means the aboriginal people of Canada to whom section 35 of the Constitution Act, 1982 applies, consisting of all Tlicho citizens. (*première nation tlicho*)
 
-***Tlicho Government*** means the government of the Tlicho First Nation established in accord­ance with chapter 7 of the Tlicho Agreement.
+***Tlicho Government*** means the government of the Tlicho First Nation established in accord­ance with chapter 7 of the Tlicho Agreement. (*gouvernement tlicho*)
 
-***Tlicho lands*** means Tlicho lands as defined in chapter 1 of the Tlicho Agreement.
+***Tlicho lands*** means Tlicho lands as defined in chapter 1 of the Tlicho Agreement. (*terres tlichos*)
 
-***Tlicho law*** means a law enacted by the Tlicho Government.
+***Tlicho law*** means a law enacted by the Tlicho Government. (*loi tlicho*)
 
-***Wekeezhii*** means the area described in part 2 of the appendix to chapter 1 of the Tlicho Agreement.
-> 1998, c. 25, s. 2; 2000, c. 32, s. 50; 2002, c. 7, s. 205(E); 2005, c. 1, s. 15; 2014, c. 2, s. 113.
+***Wekeezhii*** means the area described in part 2 of the appendix to chapter 1 of the Tlicho Agreement. (*Wekeezhii*)
+> 1998, c. 25, s. 2; 2000, c. 32, s. 50; 2002, c. 7, s. 205(E); 2005, c. 1, s. 15; 2014, c. 2, s. 113; 2015, c. 24, s. 22.
 
 
 
@@ -143,7 +151,15 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(b)** any department, agency or office of the federal or the territorial government;
 	- **(c)** a board or other public body established by or under an Act of Parliament or by a territorial law; or
 	- **(d)** a local government.
-> 1998, c. 25, s. 4; 2005, c. 1, s. 16; 2014, c. 2, s. 114.
+
+**Delegation by Déline Got’ine Government**
+
+- **(5)** The Déline Got’ine Government may, in conformity with the Déline Agreement, delegate any of its functions under this Act to
+	- **(a)** a body or office established by a Déline law;
+	- **(b)** a department, agency or office of the federal or the territorial government;
+	- **(c)** a board or other public body established by or under an Act of Parliament or by a territorial law; or
+	- **(d)** any other entity.
+> 1998, c. 25, s. 4; 2005, c. 1, s. 16; 2014, c. 2, s. 114; 2015, c. 24, s. 23.
 
 
 
@@ -153,11 +169,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **5** 
 
-- **(1)** Where there is any inconsistency or conflict between this Act and a land claim agreement, an Act giving effect to a land claim agreement or the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), the agreement, the Act or the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) prevails over this Act to the extent of the inconsistency or conflict.
+- **(1)** If there is any inconsistency or conflict between this Act and a land claim agreement, the Déline Agreement, an Act giving effect to any of those agreements or the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), then the land claim agreement, the Déline Agreement, the Act or the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) prevails over this Act to the extent of the inconsistency or conflict.
 
 **Aboriginal rights**
 
 - **(2)** For greater certainty, nothing in this Act shall be construed so as to abrogate or derogate from the protection provided for existing aboriginal or treaty rights of the aboriginal peoples of Canada by the recognition and affirmation of those rights in section 35 of the Constitution Act, 1982.
+> 1998, c. 25, s. 5; 2015, c. 24, s. 24.
+
 
 
 
@@ -245,12 +263,12 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **8** 
 
-- **(1)** The federal Minister shall consult the first nations and the Tlicho Government with respect to the amendment of this Act.
+- **(1)** The federal Minister shall consult the first nations, the Tlicho Government and the Déline Got’ine Government with respect to the amendment of this Act.
 
 **Review of Act**
 
 - **(2)** The federal Minister shall, in the course of any negotiations with a first nation relating to self-government, review the pertinent provisions of this Act in consultation with that first nation.
-> 1998, c. 25, s. 8; 2005, c. 1, s. 18.
+> 1998, c. 25, s. 8; 2005, c. 1, s. 18; 2015, c. 24, s. 25.
 
 
 
@@ -373,8 +391,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Status or entitlements under agreement**
 
-- **(2)** A member of a board is not placed in a material conflict of interest merely because of any status or entitlement conferred on the member under the Gwich’in Agreement, the Sahtu Agreement, the Tlicho Agreement or any other agreement between a first nation and Her Majesty in right of Canada for the settlement of a claim to lands.
-> 1998, c. 25, s. 16; 2005, c. 1, s. 23.
+- **(2)** A member of a board is not placed in a material conflict of interest merely because of any status or entitlement conferred on the member under the Gwich’in Agreement, the Sahtu Agreement, the Tlicho Agreement or any other agreement between a first nation and Her Majesty in right of Canada for the settlement of a claim to lands or under the Déline Agreement.
+> 1998, c. 25, s. 16; 2005, c. 1, s. 23; 2015, c. 24, s. 26.
 
 
 
@@ -445,8 +463,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Government information**
 
-**22** Subject to any other federal or territorial law and to any Tlicho law, a board may obtain from any department or agency of the federal or territorial government or the Tlicho Government any information in the possession of the department or agency or the Tlicho Government that the board requires for the performance of its functions.
-> 1998, c. 25, s. 22; 2005, c. 1, s. 25.
+**22** Subject to any other federal or territorial law and to any Tlicho law or Déline law, a board may obtain from any department or agency of the federal or territorial government, the Tlicho Government or the Déline Got’ine Government any information in the possession of the department, agency, Tlicho Government or Déline Got’ine Government that the board requires for the performance of its functions.
+> 1998, c. 25, s. 22; 2005, c. 1, s. 25; 2015, c. 24, s. 27.
 
 
 
@@ -577,7 +595,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **31** 
 
-- **(1)** Sections 3, 5 and 11 of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) do not apply in respect of rules under section 30, a land use plan or amendment to a land use plan under Part 2, rules under subsection 49(2), guidelines or policies under section 65, policy directions under subsection 50.1(1) or 83(1) or (2), directions under section 106, policy directions under section 109 or 109.1 or subsection 142.2(1) or guidelines under section 120.
+- **(1)** Sections 3, 5 and 11 of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) do not apply in respect of rules under section 30, a land use plan or amendment to a land use plan under Part 2, rules under subsection 49(2), guidelines or policies under section 65, policy directions under subsection 50.1(1) or 83(1), (2) or (2.1), directions under section 106, policy directions under section 109 or 109.1 or subsection 142.2(1) or guidelines under section 120.
 
 **Notice in Canada Gazette**
 
@@ -586,7 +604,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
 - **(3)** For greater certainty, licences and permits issued by a board under Part 3 or 4, either before or after the coming into force of this subsection, as enacted by subsection 128(3) of the Northwest Territories Devolution Act, are not statutory instruments as defined in the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
-> 1998, c. 25, s. 31; 2005, c. 1, s. 27; 2014, c. 2, s. 128.
+> 1998, c. 25, s. 31; 2005, c. 1, s. 27; 2014, c. 2, s. 128; 2015, c. 24, s. 28.
 
 
 
@@ -1239,7 +1257,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Consultation with Tlicho Government**
 
 - **(4)** The Wekeezhii Land and Water Board shall consult the Tlicho Government before issuing, amending or renewing any licence, permit or authorization for a use of Tlicho lands or waters on those lands or a deposit of waste on those lands or in those waters.
-> 1998, c. 25, s. 63; 2005, c. 1, s. 36.
+
+**Consultation with Déline Got’ine Government**
+
+- **(5)** The Sahtu Land and Water Board shall consult the Déline Got’ine Government before issuing, amending or renewing any licence, permit or authorization for a use of Déline lands or waters on those lands or a deposit of waste on those lands or in those waters.
+> 1998, c. 25, s. 63; 2005, c. 1, s. 36; 2015, c. 24, s. 29.
 
 
 
@@ -2209,9 +2231,17 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 - **(1)** The federal Minister may, after consultation with a board, give written policy directions that are binding on the board with respect to the exercise of any of its functions under this Act. The federal Minister shall also consult the Tlicho Government before giving such written policy directions to the Wekeezhii Land and Water Board.
 
+**Notice to Déline Got’ine Government**
+
+- **(1.1)** The federal Minister shall inform the Déline Got’ine Government, to the extent provided for in 2.7.1 of the Déline Agreement, of the Minister’s intention to give a written policy direction to the Sahtu Land and Water Board if the policy direction is in relation to the use of land or water or the deposit of waste in the area described in schedule A to the Déline Agreement.
+
 **Policy directions by the Tlicho Government to the Wekeezhii Board**
 
 - **(2)** The Tlicho Government may, after consultation with the Wekeezhii Land and Water Board and the federal Minister, give written policy directions with respect to the exercise of any of its functions under this Part in relation to the use of Tlicho lands. Policy directions shall be binding on the Board to the extent that compliance with them does not require the Board to exceed its approved budget.
+
+**Policy directions by Déline Got’ine Government**
+
+- **(2.1)** The Déline Got’ine Government may, after consultation with the Sahtu Land and Water Board and the federal Minister, give written policy directions to the Board with respect to the performance of any of the Board’s functions under this Part in relation to the use of Déline lands. Policy directions are binding on the Board to the extent that compliance with them does not require the Board to exceed its approved budget.
 
 **Limitation**
 
@@ -2223,12 +2253,12 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 **Conflict between policy directions**
 
-- **(5)** If there is a conflict between policy directions given by the federal Minister under subsection (1) and policy directions given by the Tlicho Government under subsection (2), the policy directions given under subsection (2) prevail to the extent of the conflict.
+- **(5)** If there is a conflict between policy directions given by the federal Minister under subsection (1) and policy directions given by the Tlicho Government under subsection (2) or by the Déline Got’ine Government under subsection (2.1), the policy directions given under subsection (2) or (2.1), as the case may be, prevail to the extent of the conflict.
 
 **Conflict between legislation and policy directions**
 
-- **(6)** If there is a conflict between policy directions given by the federal Minister or the Tlicho Government under this section and the provisions of any Act of Parliament, any regulations made under an Act of Parliament or any territorial law, those provisions prevail to the extent of the conflict.
-> 1998, c. 25, s. 83; 2005, c. 1, s. 47; 2014, c. 2, s. 175.
+- **(6)** If there is a conflict between policy directions given by the federal Minister, the Tlicho Government or the Déline Got’ine Government under this section and the provisions of any Act of Parliament, of any regulations made under an Act of Parliament or of any territorial law, those provisions prevail to the extent of the conflict.
+> 1998, c. 25, s. 83; 2005, c. 1, s. 47; 2014, c. 2, s. 175; 2015, c. 24, s. 30.
 
 
 
@@ -2298,7 +2328,11 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Notice to Tlicho Government**
 
 - **(5)** An inspector shall, if it is reasonable to do so, give the Tlicho Government prior notice of entry by the inspector on Tlicho lands.
-> 1998, c. 25, s. 85; 2005, c. 1, s. 48; 2014, c. 2, s. 177.
+
+**Notice to Déline Got’ine Government**
+
+- **(6)** An inspector shall, if it is reasonable to do so, give the Déline Got’ine Government prior notice of entry by the inspector on Déline lands.
+> 1998, c. 25, s. 85; 2005, c. 1, s. 48; 2014, c. 2, s. 177; 2015, c. 24, s. 31.
 
 
 
@@ -2491,10 +2525,28 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 
 
+**Prohibition  — Déline lands**
+
+**90.11** Even if the regulations do not require a permit or other authorization under Part 3 or 4 for a particular use of land, a person shall not use Déline lands without such a permit or authorization if one is required by a Déline law for uses of that type.
+> 2015, c. 24, s. 32.
+
+
+
+
+
 **Exception**
 
 **90.2** Despite the regulations, a permit or other authorization under Part 3 or 4 for a particular use of land in a Tlicho community is not required if the local government of that community has enacted a bylaw providing that one is not required for uses of that type.
 > 2005, c. 1, s. 51; 2014, c. 2, s. 182.
+
+
+
+
+
+**Exception**
+
+**90.21** Despite the regulations, a permit or other authorization under Part 3 or 4 for a particular use of lands in the Community of Déline, as described in schedule B to the Déline Agreement, is not required if a Déline law provides that one is not required for uses of that type.
+> 2015, c. 24, s. 33.
 
 
 
@@ -2829,8 +2881,8 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 **Fees**
 
-**95** Despite subsection 72.03(1) or any territorial law, the Gwich’in and Sahtu First Nations and the Tlicho Government are not required to pay any fee in respect of the use of waters or the deposit of waste for non-commercial purposes on their first nation lands or Tlicho lands, as the case may be.
-> 1998, c. 25, s. 95; 2005, c. 1, s. 54; 2014, c. 2, s. 192.
+**95** Despite subsection 72.03(1) or any territorial law, the Gwich’in and Sahtu First Nations, the Tlicho Government and the Déline Got’ine Government are not required to pay any fee in respect of the use of waters or the deposit of waste for non-commercial purposes on their first nation lands, Tlicho lands or Déline lands as the case may be.
+> 1998, c. 25, s. 95; 2005, c. 1, s. 54; 2014, c. 2, s. 192; 2015, c. 24, s. 34.
 
 
 
@@ -3060,9 +3112,10 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 - **(2)** The Board may make recommendations to
 	- **(a)** the Minister responsible for any Act of Parliament regarding the use of land or waters or the deposit of waste, with respect to the amendment of that Act or the making or amendment of any instrument under that Act;
 	- **(b)** the territorial Minister with respect to the amendment of territorial laws regarding the use of land or waters or the deposit of waste;
-	- **(c)** a local government with respect to the amendment of bylaws enacted by that government regarding the use of land or waters or the deposit of waste; and
-	- **(d)** the Tlicho Government with respect to the amendment of Tlicho laws regarding the use of Tlicho lands or waters on those lands or a deposit of waste on those lands or in those waters.
-> 2005, c. 1, s. 61; 2014, c. 2, s. 197.
+	- **(c)** a local government with respect to the amendment of bylaws enacted by that government regarding the use of land or waters or the deposit of waste;
+	- **(d)** the Tlicho Government with respect to the amendment of Tlicho laws regarding the use of Tlicho lands or waters on those lands or a deposit of waste on those lands or in those waters; and
+	- **(e)** the Déline Got’ine Government with respect to the amendment of any Déline law regarding the use of Déline lands or waters on those lands or regarding a deposit of waste on those lands or in those waters.
+> 2005, c. 1, s. 61; 2014, c. 2, s. 197; 2015, c. 24, s. 35.
 
 
 
@@ -3142,6 +3195,19 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 
 
+### Powers of Déline Got’ine Government
+
+
+
+**Policy directions by Déline Got’ine Government**
+
+**109.11** The Déline Got’ine Government may exercise the same powers and shall perform the same duties in relation to the Board and the regional panel of the Board referred to in subsection 99(2) as those that the Déline Got’ine Government has under section 83 in relation to the Sahtu Land and Water Board.
+> 2015, c. 24, s. 36.
+
+
+
+
+
 ### Precedence Relating to Policy Directions
 
 
@@ -3155,7 +3221,15 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 **Conflict between legislation and policy directions**
 
 - **(2)** If there is a conflict between policy directions given by the federal Minister under section 109 or by the Tlicho Government under section 109.1 and the provisions of any Act of Parliament, any regulations made under an Act of Parliament or any territorial law, those provisions prevail to the extent of the conflict.
-> 2005, c. 1, s. 63.
+
+**Conflict between policy directions**
+
+- **(3)** If there is a conflict between policy directions given by the federal Minister under section 109 and policy directions given by the Déline Got’ine Government under section 109.11, the policy directions given under section 109.11 prevail to the extent of the conflict.
+
+**Conflict between legislation and policy directions**
+
+- **(4)** If there is a conflict between policy directions given by the federal Minister under section 109 or by the Déline Got’ine Government under section 109.11 and the provisions of any Act of Parliament, of any regulations made under an Act of Parliament or of any territorial law, those provisions prevail to the extent of the conflict.
+> 2005, c. 1, s. 63; 2015, c. 24, s. 37.
 
 
 
@@ -3349,16 +3423,16 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 
 
-**Implementation of proposals**
+**Issuance of licence, permit or other authorization**
 
 **118** 
 
-- **(1)** No licence, permit or other authorization required for the carrying out of a development may be issued under any federal, territorial or Tlicho law unless the requirements of this Part have been complied with in relation to the development.
+- **(1)** A licence, permit or other authorization required for the carrying out of a development shall not be issued under any federal, territorial, Tlicho or Déline law unless the requirements of this Part have been complied with in relation to the development.
 
-**Implementation of proposals**
+**Requirements**
 
-- **(2)** Where the Gwich’in or Sahtu First Nation, the Tlicho Government, a local government or a department or agency of the federal or territorial government proposes to carry out a development that does not require a licence, permit or other authorization under any federal, territorial or Tlicho law, it shall comply with the requirements of this Part before taking any irrevocable action in relation to the development.
-> 1998, c. 25, s. 118; 2005, c. 1, s. 71.
+- **(2)** If the Gwich’in or Sahtu First Nation, the Tlicho Government, the Déline Got’ine Government, a local government or a department or agency of the federal or territorial government proposes to carry out a development that does not require a licence, permit or other authorization under any federal, territorial, Tlicho or Déline law, it shall comply with the requirements of this Part before taking any irrevocable action in relation to the development.
+> 1998, c. 25, s. 118; 2005, c. 1, s. 71; 2015, c. 24, s. 38.
 
 
 
@@ -3387,8 +3461,8 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 **Written reasons**
 
-**121** The Review Board, a review panel thereof, a review panel, or a joint panel, established jointly by the Review Board and any other person or body, the federal Minister, a responsible minister, a designated regulatory agency, a regulatory authority, a department or agency of the federal or territorial government, a local government, the Gwich’in or Sahtu First Nation or the Tlicho Government shall issue and make available to the public written reasons for any decision or recommendation made under the process established by this Part.
-> 1998, c. 25, s. 121; 2005, c. 1, s. 73.
+**121** The Review Board, a review panel of the Review Board, a review panel or a joint panel established jointly by the Review Board and any other person or body, the federal Minister, a responsible minister, a designated regulatory agency, a regulatory authority, a department or agency of the federal or territorial government, a local government, the Gwich’in or Sahtu First Nation, the Tlicho Government or the Déline Got’ine Government shall issue and make available to the public written reasons for any decision or recommendation made under the process established by this Part.
+> 1998, c. 25, s. 121; 2005, c. 1, s. 73; 2015, c. 24, s. 39.
 
 
 
@@ -3427,8 +3501,8 @@ would be likely to substantially alter the quality, quantity or rate of flow of 
 
 **Status or entitlements under agreement**
 
-- **(2)** A person is not in a material conflict of interest merely because of any status or entitlement conferred on the person under the Gwich’in Agreement, the Sahtu Agreement, the Tlicho Agreement or any other agreement between a first nation and Her Majesty in right of Canada for the settlement of a claim to lands.
-> 2005, c. 1, s. 74.
+- **(2)** A person is not placed in a material conflict of interest merely because of any status or entitlement conferred on the person under the Gwich’in Agreement, the Sahtu Agreement, the Tlicho Agreement or any other agreement between a first nation and Her Majesty in right of Canada for the settlement of a claim to lands or under the Déline Agreement.
+> 2005, c. 1, s. 74; 2015, c. 24, s. 40.
 
 
 
@@ -4157,7 +4231,7 @@ before the expiration of ten days after receiving the report of the Review Board
 
 
 
-###  Transregional and External Developments
+### Transregional and External Developments
 
 
 
