@@ -50,63 +50,71 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***accord de revendication*** L’accord gwich’in, l’accord du Sahtu ou l’accord tlicho.
+***accord de Deline*** L’accord définitif sur l’autonomie gouvernementale de Deline, conclu le 18 février 2015 entre la bande de la Première Nation de Deline, la société foncière de Deline et les gouvernements du Canada et des Territoires du Nord-Ouest, et approuvé, mis en vigueur et déclaré valide par la [Loi sur l’accord définitif sur l’autonomie gouvernementale de Deline](/fr/Lois/Lois%20du%20Canada/2015/ch.%2024.md), ainsi que les modifications qui peuvent lui être apportées. (*Déline Agreement*)
 
-***accord du Sahtu*** Entente sur la revendication territoriale globale des Dénés et Métis du Sahtu, conclue entre Sa Majesté la Reine du chef du Canada et ces derniers, représentés par le Conseil tribal du Sahtu, signée le 6 septembre 1993 et approuvée, mise en vigueur et déclarée valide par la [Loi sur le règlement de la revendication territoriale des Dénés et Métis du Sahtu](/fr/Lois/Lois%20du%20Canada/1994/ch.%2027.md), ainsi que les modifications qui peuvent lui être apportées conformément à ses dispositions.
+***accord de revendication*** L’accord gwich’in, l’accord du Sahtu ou l’accord tlicho. (*land claim agreement*)
 
-***accord gwich’in*** Entente sur la revendication territoriale globale des Gwich’in, conclue entre Sa Majesté la Reine du chef du Canada et ces derniers, représentés par le Conseil tribal des Gwich’in, signée le 22 avril 1992 et approuvée, mise en vigueur et déclarée valide par la [Loi sur le règlement de la revendication territoriale des Gwich’in](/fr/Lois/Lois%20du%20Canada/1992/ch.%2053.md), ainsi que les modifications qui peuvent lui être apportées conformément à ses dispositions.
+***accord du Sahtu*** Entente sur la revendication territoriale globale des Dénés et Métis du Sahtu, conclue entre Sa Majesté la Reine du chef du Canada et ces derniers, représentés par le Conseil tribal du Sahtu, signée le 6 septembre 1993 et approuvée, mise en vigueur et déclarée valide par la [Loi sur le règlement de la revendication territoriale des Dénés et Métis du Sahtu](/fr/Lois/Lois%20du%20Canada/1994/ch.%2027.md), ainsi que les modifications qui peuvent lui être apportées conformément à ses dispositions. (*Sahtu Agreement*)
 
-***accord tlicho*** L’accord sur les revendications territoriales et l’autonomie gouvernementale conclu entre le peuple tlicho, le gouvernement des Territoires du Nord-Ouest et le gouvernement du Canada, signé le 25 août 2003 et approuvé, mis en vigueur et déclaré valide par la [Loi sur les revendications territoriales et l’autonomie gouvernementale du peuple tlicho](/fr/Lois/Lois%20du%20Canada/2005/ch.%201.md), ainsi que les modifications qui peuvent lui être apportées conformément à ses dispositions.
+***accord gwich’in*** Entente sur la revendication territoriale globale des Gwich’in, conclue entre Sa Majesté la Reine du chef du Canada et ces derniers, représentés par le Conseil tribal des Gwich’in, signée le 22 avril 1992 et approuvée, mise en vigueur et déclarée valide par la [Loi sur le règlement de la revendication territoriale des Gwich’in](/fr/Lois/Lois%20du%20Canada/1992/ch.%2053.md), ainsi que les modifications qui peuvent lui être apportées conformément à ses dispositions. (*Gwich’in Agreement*)
 
-***administration locale*** Toute administration établie comme telle sous le régime des règles de droit des Territoires du Nord-Ouest, notamment les cités, villes, villages, hameaux, collectivités établies avec charte, localités ou administrations d’une collectivité tlicho, constitués en personne morale ou non. Y est assimilé le gouvernement territorial dans les cas où il exerce, sous le régime de ces règles de droit, les attributions d’une telle administration.
+***accord tlicho*** L’accord sur les revendications territoriales et l’autonomie gouvernementale conclu entre le peuple tlicho, le gouvernement des Territoires du Nord-Ouest et le gouvernement du Canada, signé le 25 août 2003 et approuvé, mis en vigueur et déclaré valide par la [Loi sur les revendications territoriales et l’autonomie gouvernementale du peuple tlicho](/fr/Lois/Lois%20du%20Canada/2005/ch.%201.md), ainsi que les modifications qui peuvent lui être apportées conformément à ses dispositions. (*Tlicho Agreement*)
 
-***citoyen tlicho*** Personne dont le nom figure au registre au sens du chapitre 1 de l’accord tlicho.
+***administration locale*** Toute administration établie comme telle sous le régime des règles de droit des Territoires du Nord-Ouest, notamment les cités, villes, villages, hameaux, collectivités établies avec charte, localités ou administrations d’une collectivité tlicho, constitués en personne morale ou non. Y est assimilé le gouvernement territorial dans les cas où il exerce, sous le régime de ces règles de droit, les attributions d’une telle administration, ainsi que le gouvernement Gotine de Deline dans les cas où il exerce les compétences législatives et les pouvoirs énoncés à l’article 9.1 de l’accord de Deline. (*local government*)
 
-***collectivité tlicho*** Collectivité à l’égard de laquelle une administration communautaire est constituée conformément au chapitre 8 de l’accord tlicho.
+***citoyen tlicho*** Personne dont le nom figure au registre au sens du chapitre 1 de l’accord tlicho. (*Tlicho citizen*)
 
-***dépôt de déchets*** Dépôt de déchets dans des eaux de la vallée du Mackenzie ainsi qu’en tout autre endroit dans des conditions qui permettent à ces déchets ou à ceux résultant de leur dépôt d’atteindre ces eaux.
+***collectivité tlicho*** Collectivité à l’égard de laquelle une administration communautaire est constituée conformément au chapitre 8 de l’accord tlicho. (*Tlicho community*)
 
-***environnement*** Ensemble des conditions et des éléments naturels de la Terre, notamment :
+***dépôt de déchets*** Dépôt de déchets dans des eaux de la vallée du Mackenzie ainsi qu’en tout autre endroit dans des conditions qui permettent à ces déchets ou à ceux résultant de leur dépôt d’atteindre ces eaux. (*deposit of waste*)
+
+***environnement*** Ensemble des conditions et des éléments naturels de la Terre, notamment :
 - **a)** le sol, l’eau et l’air, y compris toutes les couches de l’atmosphère;
 - **b)** toutes les matières organiques et inorganiques ainsi que les êtres vivants;
-- **c)** les systèmes naturels en interaction qui comprennent les éléments visés aux alinéas a) et b).
+- **c)** les systèmes naturels en interaction qui comprennent les éléments visés aux alinéas a) et b). (*environment*)
 
-***exploitation*** En ce qui touche les ressources fauniques, les activités de chasse, de piégeage ou de pêche exercées soit conformément à un accord de revendication, soit, dans les cas qui ne sont pas visés par un tel accord, en vertu de droits ancestraux ou issus de traités. « Récolte » dans l’accord de revendication.
+***exploitation*** En ce qui touche les ressources fauniques, les activités de chasse, de piégeage ou de pêche exercées soit conformément à un accord de revendication, soit, dans les cas qui ne sont pas visés par un tel accord, en vertu de droits ancestraux ou issus de traités. ***Récolte*** dans l’accord de revendication. (*harvesting*)
 
-***gouvernement territorial*** Le gouvernement des Territoires du Nord-Ouest.
+***gouvernement Gotine de Deline*** Le gouvernement établi conformément au chapitre 3 de l’accord de Deline. (*Déline Got’ine Government*)
 
-***gouvernement tlicho*** Le gouvernement de la première nation tlicho institué conformément au chapitre 7 de l’accord tlicho.
+***gouvernement territorial*** Le gouvernement des Territoires du Nord-Ouest. (*territorial government*)
 
-***loi tlicho*** Toute règle de droit établie par le gouvernement tlicho.
+***gouvernement tlicho*** Le gouvernement de la première nation tlicho institué conformément au chapitre 7 de l’accord tlicho. (*Tlicho Government*)
 
-***ministre fédéral*** Le ministre des Affaires indiennes et du Nord canadien.
+***loi de Deline*** S’entend au sens de ***loi du GGD***, au chapitre 1 de l’accord de Deline. (*Déline law*)
 
-***ministre territorial*** Le ministre du gouvernement territorial désigné, par acte du Conseil exécutif des Territoires du Nord-Ouest, pour l’application de telle disposition de la présente loi.
+***loi tlicho*** Toute règle de droit établie par le gouvernement tlicho. (*Tlicho law*)
 
-***Monfwi gogha de niitlee*** Le territoire décrit à la partie 1 de l’annexe du chapitre 1 de l’accord tlicho.
+***ministre fédéral*** Le ministre des Affaires indiennes et du Nord canadien. (*federal Minister*)
 
-***première nation*** La première nation des Gwich’in, celle du Sahtu ou tout organisme représentant d’autres Dénés ou Métis des régions de North Slave, South Slave ou Deh Cho de la vallée du Mackenzie, exception faite de la première nation tlicho et de son gouvernement.
+***ministre territorial*** Le ministre du gouvernement territorial désigné, par acte du Conseil exécutif des Territoires du Nord-Ouest, pour l’application de telle disposition de la présente loi. (*territorial Minister*)
 
-***première nation des Gwich’in*** Les Gwich’in, représentés soit par le Conseil tribal des Gwich’in mentionné dans l’accord gwich’in, soit par tout organisme succédant à ce conseil.
+***Monfwi gogha de niitlee*** Le territoire décrit à la partie 1 de l’annexe du chapitre 1 de l’accord tlicho. (*Monfwi Gogha De Niitlee*)
 
-***première nation du Sahtu*** Les Dénés et Métis du Sahtu, représentés soit par la société sans capital-actions constituée sous le nom « The Sahtu Secretariat Incorporated » en vertu de la partie II de la [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), S.R.C. 1970, ch. C-32, et succédant, pour l’application de la présente loi, au Conseil tribal du Sahtu mentionné dans l’accord du Sahtu, soit par tout organisme succédant à cette société.
+***première nation*** La première nation des Gwich’in, celle du Sahtu ou tout organisme représentant d’autres Dénés ou Métis des régions de North Slave, South Slave ou Deh Cho de la vallée du Mackenzie, exception faite de la première nation tlicho et de son gouvernement. (*first nation*)
 
-***première nation tlicho*** Le peuple autochtone du Canada composé de tous les citoyens tlichos et visé par l’article 35 de la Loi constitutionnelle de 1982.
+***première nation des Gwich’in*** Les Gwich’in, représentés soit par le Conseil tribal des Gwich’in mentionné dans l’accord gwich’in, soit par tout organisme succédant à ce conseil. (*Gwich’in First Nation*)
 
-***région désignée*** La région décrite à l’annexe A de l’accord gwich’in ou de l’accord du Sahtu.
+***première nation du Sahtu*** Les Dénés et Métis du Sahtu, représentés soit par la corporation sans capital-actions constituée sous le nom « *The Sahtu Secretariat Incorporated* » en vertu de la partie II de la [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), S.R.C. 1970, ch. C-32, et succédant, pour l’application de la présente loi, au Conseil tribal du Sahtu mentionné dans l’accord du Sahtu, soit par tout organisme succédant à cette corporation. Est également visé par la présente définition le gouvernement Gotine de Deline, dans le cas où la corporation ou l’organisme succédant à celle-ci lui a délégué ou transféré des attributions prévues sous le régime de la présente loi. (*Sahtu First Nation*)
 
-***règle de droit territoriale*** Loi de la Législature des Territoires du Nord-Ouest.
+***première nation tlicho*** Le peuple autochtone du Canada composé de tous les citoyens tlichos et visé par l’article 35 de la Loi constitutionnelle de 1982. (*Tlicho First Nation*)
 
-***ressources patrimoniales*** Les sites archéologiques ou historiques, les lieux de sépulture, les artéfacts et autres objets de valeur historique, culturelle ou religieuse, ainsi que les documents se rapportant à l’histoire ou à la culture.
+***région désignée*** La région décrite à l’annexe A de l’accord gwich’in ou de l’accord du Sahtu. (*settlement area*)
 
-***terres désignées*** Les terres désignées comme « terres visées par le règlement » par l’accord gwich’in ou l’accord du Sahtu.
+***règle de droit territoriale*** Loi de la Législature des Territoires du Nord-Ouest. (*territorial law*)
 
-***terres tlichos*** S’entend au sens du chapitre 1 de l’accord tlicho.
+***ressources patrimoniales*** Les sites archéologiques ou historiques, les lieux de sépulture, les artéfacts et autres objets de valeur historique, culturelle ou religieuse, ainsi que les documents se rapportant à l’histoire ou à la culture. (*heritage resources*)
 
-***vallée du Mackenzie*** La partie des Territoires du Nord-Ouest située au nord du soixantième parallèle, à l’est de la limite du Yukon, au sud de la limite de la région inuvialuit désignée — au sens de l’accord mis en vigueur par la [Loi sur le règlement des revendications des Inuvialuit de la région ouest de l’Arctique](/fr/Lois/Lois%20du%20Canada/1984/ch.%2024.md) — et à l’ouest de la limite de la région du Nunavut, au sens de la [Loi concernant l’Accord sur les revendications territoriales du Nunavut](/fr/Lois/Lois%20du%20Canada/1993/ch.%2029.md). Est exclu le parc national Wood Buffalo du Canada.
+***terres de Deline*** Les terres dont le titre de propriété est dévolu au gouvernement Gotine de Deline en vertu du paragraphe 21.2.1 de l’accord de Deline. (*Déline lands*)
 
-***Wekeezhii*** La zone décrite à la partie 2 de l’annexe du chapitre 1 de l’accord tlicho.
-> 1998, ch. 25, art. 2; 2000, ch. 32, art. 50; 2002, ch. 7, art. 205(A); 2005, ch. 1, art. 15; 2014, ch. 2, art. 113.
+***terres désignées*** Les terres désignées comme « terres visées par le règlement » par l’accord gwich’in ou l’accord du Sahtu. (*settlement lands*)
+
+***terres tlichos*** S’entend au sens du chapitre 1 de l’accord tlicho. (*Tlicho lands*)
+
+***vallée du Mackenzie*** La partie des Territoires du Nord-Ouest située au nord du soixantième parallèle, à l’est de la limite du Yukon, au sud de la limite de la région inuvialuit désignée — au sens de l’accord mis en vigueur par la [Loi sur le règlement des revendications des Inuvialuit de la région ouest de l’Arctique](/fr/Lois/Lois%20du%20Canada/1984/ch.%2024.md) — et à l’ouest de la limite de la région du Nunavut, au sens de la [Loi concernant l’Accord sur les revendications territoriales du Nunavut](/fr/Lois/Lois%20du%20Canada/1993/ch.%2029.md). Est exclu le parc national Wood Buffalo du Canada. (*Mackenzie Valley*)
+
+***Wekeezhii*** La zone décrite à la partie 2 de l’annexe du chapitre 1 de l’accord tlicho. (*Wekeezhii*)
+> 1998, ch. 25, art. 2; 2000, ch. 32, art. 50; 2002, ch. 7, art. 205(A); 2005, ch. 1, art. 15; 2014, ch. 2, art. 113; 2015, ch. 24, art. 22.
 
 
 
@@ -140,7 +148,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** tout ministère ou organisme administratif fédéral ou territorial;
 	- **c)** tout organisme public constitué sous le régime d’une loi fédérale ou d’une règle de droit territoriale;
 	- **d)** toute administration locale.
-> 1998, ch. 25, art. 4; 2005, ch. 1, art. 16; 2014, ch. 2, art. 114.
+
+**Délégation faite par le gouvernement Gotine de Deline**
+
+- **(5)** Le gouvernement Gotine de Deline peut, en conformité avec l’accord de Deline, déléguer aux organismes ci-après les attributions qui lui sont conférées sous le régime de la présente loi :
+	- **a)** tout organisme constitué par une loi de Deline;
+	- **b)** tout ministère ou organisme administratif fédéral ou territorial;
+	- **c)** tout organisme public constitué sous le régime d’une loi fédérale ou d’une règle de droit territoriale;
+	- **d)** toute autre entité.
+> 1998, ch. 25, art. 4; 2005, ch. 1, art. 16; 2014, ch. 2, art. 114; 2015, ch. 24, art. 23.
 
 
 
@@ -150,11 +166,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **5** 
 
-- **(1)** Les dispositions des accords de revendication, des lois qui les mettent en vigueur et de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) l’emportent sur les dispositions incompatibles de la présente loi.
+- **(1)** Les dispositions des accords de revendication, de l’accord de Deline, des lois qui les mettent en vigueur et de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) l’emportent sur toute disposition incompatible de la présente loi.
 
 **Droits des autochtones**
 
 - **(2)** Il est entendu que la présente loi ne porte pas atteinte à la protection des droits existants — ancestraux ou issus de traités — des peuples autochtones du Canada découlant de leur reconnaissance et de leur confirmation au titre de l’article 35 de la Loi constitutionnelle de 1982.
+> 1998, ch. 25, art. 5; 2015, ch. 24, art. 24.
+
 
 
 
@@ -242,12 +260,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **8** 
 
-- **(1)** Le ministre fédéral est tenu de consulter les premières nations et le gouvernement tlicho au sujet de toute modification de la présente loi.
+- **(1)** Le ministre fédéral est tenu de consulter les premières nations, le gouvernement tlicho et le gouvernement Gotine de Deline au sujet de toute modification de la présente loi.
 
 **Examen de la loi**
 
 - **(2)** Il est aussi tenu, dans le cadre des négociations relatives à l’autonomie gouvernementale de toute première nation, de procéder, en collaboration avec celle-ci, à l’examen des dispositions pertinentes de la présente loi.
-> 1998, ch. 25, art. 8; 2005, ch. 1, art. 18.
+> 1998, ch. 25, art. 8; 2005, ch. 1, art. 18; 2015, ch. 24, art. 25.
 
 
 
@@ -368,8 +386,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Statut et droits conférés par accord**
 
-- **(2)** N’ont pas pour effet de créer, à eux seuls, une situation de conflit d’intérêts sérieux le statut ou les droits conférés à une personne aux termes soit de l’accord gwich’in, de l’accord du Sahtu ou de l’accord tlicho, soit de tout autre accord relatif aux revendications territoriales conclu entre une première nation et Sa Majesté du chef du Canada.
-> 1998, ch. 25, art. 16; 2005, ch. 1, art. 23.
+- **(2)** N’ont pas pour effet de créer, à eux seuls, une situation de conflit d’intérêts sérieux le statut ou les droits conférés à une personne aux termes soit de l’accord gwich’in, de l’accord du Sahtu, de l’accord tlicho ou de tout autre accord relatif aux revendications territoriales conclu entre une première nation et Sa Majesté du chef du Canada, soit de l’accord de Deline.
+> 1998, ch. 25, art. 16; 2005, ch. 1, art. 23; 2015, ch. 24, art. 26.
 
 
 
@@ -440,8 +458,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Renseignements**
 
-**22** L’office peut, sous réserve de toute autre règle de droit fédérale ou territoriale et de toute loi tlicho, obtenir des ministères et organismes des gouvernements fédéral et territorial ou du gouvernement tlicho les renseignements qui sont en leur possession et dont il a besoin pour l’exercice de ses attributions.
-> 1998, ch. 25, art. 22; 2005, ch. 1, art. 25.
+**22** L’office peut, sous réserve de toute autre règle de droit fédérale ou territoriale, de toute loi tlicho et de toute loi de Deline, obtenir des ministères et organismes des gouvernements fédéral et territorial, du gouvernement tlicho ou du gouvernement Gotine de Deline, les renseignements qui sont en leur possession et dont il a besoin pour l’exercice de ses attributions.
+> 1998, ch. 25, art. 22; 2005, ch. 1, art. 25; 2015, ch. 24, art. 27.
 
 
 
@@ -572,7 +590,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **31** 
 
-- **(1)** Les articles 3, 5 et 11 de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’appliquent pas aux règles établies en vertu de l’article 30, au plan d’aménagement visé à la partie 2 et à ses modifications, aux règles établies au titre du paragraphe 49(2), aux principes directeurs et aux directives établis en vertu de l’article 65, aux instructions données en vertu des paragraphes 50.1(1) ou 83(1) ou (2), aux lignes directrices visées à l’article 106, aux instructions données en vertu des articles 109 ou 109.1 ou du paragraphe 142.2(1) et aux directives établies en vertu de l’article 120.
+- **(1)** Les articles 3, 5 et 11 de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’appliquent pas aux règles établies en vertu de l’article 30, au plan d’aménagement visé à la partie 2 et à ses modifications, aux règles établies au titre du paragraphe 49(2), aux principes directeurs et aux directives établis en vertu de l’article 65, aux instructions données en vertu des paragraphes 50.1(1) ou 83(1), (2) ou (2.1), aux lignes directrices visées à l’article 106, aux instructions données en vertu des articles 109 ou 109.1 ou du paragraphe 142.2(1) et aux directives établies en vertu de l’article 120.
 
 **Avis dans la Gazette du Canada**
 
@@ -581,7 +599,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
 - **(3)** Il est entendu que les permis d’utilisation des eaux et les permis d’utilisation des terres délivrés par un office sous le régime des parties 3 ou 4, avant ou après l’entrée en vigueur du présent paragraphe, dans sa version édictée par le paragraphe 128(3) de la Loi sur le transfert de responsabilités aux Territoires du Nord-Ouest, ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
-> 1998, ch. 25, art. 31; 2005, ch. 1, art. 27; 2014, ch. 2, art. 128.
+> 1998, ch. 25, art. 31; 2005, ch. 1, art. 27; 2014, ch. 2, art. 128; 2015, ch. 24, art. 28.
 
 
 
@@ -1219,7 +1237,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Consultation du gouvernement tlicho**
 
 - **(4)** L’Office des terres et des eaux du Wekeezhii consulte le gouvernement tlicho avant de délivrer, modifier ou renouveler un permis ou une autorisation relativement à l’utilisation des terres tlichos ou des eaux qui s’y trouvent ou au dépôt de déchets dans ces lieux.
-> 1998, ch. 25, art. 63; 2005, ch. 1, art. 36.
+
+**Consultation du gouvernement Gotine de Deline**
+
+- **(5)** L’Office des terres et des eaux du Sahtu consulte le gouvernement Gotine de Deline avant de délivrer, de modifier ou de renouveler un permis ou une autorisation relativement à l’utilisation des terres de Deline ou des eaux qui s’y trouvent ou au dépôt de déchets dans ces lieux.
+> 1998, ch. 25, art. 63; 2005, ch. 1, art. 36; 2015, ch. 24, art. 29.
 
 
 
@@ -2168,9 +2190,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Le ministre fédéral peut, après consultation de l’office, lui donner par écrit des instructions générales obligatoires relativement à l’exercice des attributions conférées à celui-ci par la présente loi. Le ministre consulte également le gouvernement tlicho avant de donner par écrit de telles instructions à l’Office des terres et des eaux du Wekeezhii.
 
+**Avis au gouvernement Gotine de Deline**
+
+- **(1.1)** Le ministre fédéral informe le gouvernement Gotine de Deline, dans la mesure prévue au paragraphe 2.7.1 de l’accord de Deline, de son intention de donner par écrit des instructions générales obligatoires à l’Office des terres et des eaux du Sahtu qui visent l’utilisation des terres ou des eaux ou le dépôt de déchets dans la région décrite à l’annexe A de cet accord.
+
 **Instructions du gouvernement tlicho**
 
 - **(2)** Le gouvernement tlicho peut, après consultation de l’Office des terres et des eaux du Wekeezhii et du ministre fédéral, donner par écrit à l’Office des instructions générales obligatoires relativement à l’exercice des attributions conférées à celui-ci par la présente partie en ce qui touche l’utilisation des terres tlichos. Ces instructions lient l’Office dans la mesure où elles ne l’obligent pas à dépasser le budget approuvé à son égard.
+
+**Instructions du gouvernement Gotine de Deline**
+
+- **(2.1)** Le gouvernement Gotine de Deline peut, après consultation de l’Office des terres et des eaux du Sahtu et du ministre fédéral, donner par écrit à l’Office des instructions générales obligatoires relativement à l’exercice des attributions conférées à celui-ci par la présente partie en ce qui touche l’utilisation des terres de Deline. Ces instructions lient l’Office dans la mesure où elles ne l’obligent pas à dépasser le budget approuvé à son égard.
 
 **Non-application**
 
@@ -2182,12 +2212,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Incompatibilité entre les instructions**
 
-- **(5)** Les instructions données par le gouvernement tlicho en vertu du paragraphe (2) l’emportent sur les instructions incompatibles données par le ministre fédéral en vertu du paragraphe (1).
+- **(5)** Les instructions données par le gouvernement tlicho en vertu du paragraphe (2) ou par le gouvernement Gotine de Deline en vertu du paragraphe (2.1) l’emportent sur les instructions incompatibles données par le ministre fédéral en vertu du paragraphe (1).
 
 **Incompatibilité entre la loi et les instructions**
 
 - **(6)** Les dispositions des lois fédérales, de leurs règlements et des règles de droit territoriales l’emportent sur les instructions incompatibles données en vertu du présent article.
-> 1998, ch. 25, art. 83; 2005, ch. 1, art. 47; 2014, ch. 2, art. 175.
+> 1998, ch. 25, art. 83; 2005, ch. 1, art. 47; 2014, ch. 2, art. 175; 2015, ch. 24, art. 30.
 
 
 
@@ -2257,7 +2287,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Préavis au gouvernement tlicho**
 
 - **(5)** Il donne au gouvernement tlicho, dans les cas où il est indiqué de le faire, un préavis de son intention de procéder à la visite des terres tlichos.
-> 1998, ch. 25, art. 85; 2005, ch. 1, art. 48; 2014, ch. 2, art. 177.
+
+**Préavis au gouvernement Gotine de Deline**
+
+- **(6)** Il donne au gouvernement Gotine de Deline, dans les cas où il est indiqué de le faire, un préavis de son intention de procéder à la visite des terres de Deline.
+> 1998, ch. 25, art. 85; 2005, ch. 1, art. 48; 2014, ch. 2, art. 177; 2015, ch. 24, art. 31.
 
 
 
@@ -2446,10 +2480,28 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Interdiction — terres de Deline**
+
+**90.11** Nul ne peut, même en l’absence d’exigence réglementaire à cet égard, utiliser les terres de Deline sans détenir un permis d’utilisation des terres ou une autre autorisation délivré sous le régime des parties 3 ou 4, selon le cas, si une loi de Deline l’exige.
+> 2015, ch. 24, art. 32.
+
+
+
+
+
 **Exception**
 
 **90.2** Malgré les règlements, l’obtention d’un permis d’utilisation des terres ou d’une autre autorisation d’utilisation des terres délivré sous le régime des parties 3 ou 4, selon le cas, n’est pas nécessaire si un règlement municipal établi par l’administration locale de la collectivité tlicho prévoit une exemption à l’égard du type d’utilisation projetée.
 > 2005, ch. 1, art. 51; 2014, ch. 2, art. 182.
+
+
+
+
+
+**Exception**
+
+**90.21** Malgré les règlements, l’obtention d’un permis d’utilisation des terres ou d’une autre autorisation d’utilisation des terres de la collectivité de Deline décrites à l’annexe B de l’accord de Deline, délivré sous le régime des parties 3 ou 4, selon le cas, n’est pas nécessaire si une loi de Deline prévoit une exemption à l’égard du type d’utilisation projetée.
+> 2015, ch. 24, art. 33.
 
 
 
@@ -2781,8 +2833,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Droits**
 
-**95** Malgré le paragraphe 72.03(1) et les règles de droit territoriales, les premières nations des Gwich’in et du Sahtu et le gouvernement tlicho ne sont pas tenus de payer de droits pour l’utilisation des eaux ou le dépôt de déchets, à des fins non commerciales, sur leurs terres ou les terres tlichos, selon le cas.
-> 1998, ch. 25, art. 95; 2005, ch. 1, art. 54; 2014, ch. 2, art. 192.
+**95** Malgré le paragraphe 72.03(1) et les règles de droit territoriales, les premières nations des Gwich’in et du Sahtu, le gouvernement tlicho et le gouvernement Gotine de Deline ne sont pas tenus de payer de droits pour l’utilisation des eaux ou le dépôt de déchets, à des fins non commerciales, sur leurs terres, les terres tlichos ou les terres de Deline, selon le cas.
+> 1998, ch. 25, art. 95; 2005, ch. 1, art. 54; 2014, ch. 2, art. 192; 2015, ch. 24, art. 34.
 
 
 
@@ -3005,8 +3057,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Recommandations à d’autres autorités**
 
-- **(2)** Il peut également, de sa propre initiative, faire des recommandations au ministre responsable, au ministre territorial et à toute administration locale respectivement, selon qu’il s’agit de la modification d’une loi fédérale — ou la prise ou la modification de ses textes d’application —, d’une règle de droit territoriale ou d’un règlement municipal régissant l’utilisation des terres ou des eaux ou le dépôt de déchets. Il peut en outre faire des recommandations au gouvernement tlicho concernant la modification d’une loi tlicho régissant l’utilisation des terres tlichos ou des eaux qui s’y trouvent ou le dépôt de déchets dans ces lieux.
-> 2005, ch. 1, art. 61; 2014, ch. 2, art. 197.
+- **(2)** Il peut également, de sa propre initiative, faire des recommandations au ministre responsable, au ministre territorial et à toute administration locale, respectivement, selon qu’il s’agit de la modification d’une loi fédérale — ou de la prise ou de la modification de ses textes d’application, — d’une règle de droit territoriale ou d’un règlement municipal régissant l’utilisation des terres ou des eaux ou le dépôt de déchets. Il peut en outre faire des recommandations au gouvernement tlicho concernant la modification d’une loi tlicho régissant l’utilisation des terres tlichos ou des eaux qui s’y trouvent ou le dépôt de déchets dans ces lieux et au gouvernement Gotine de Deline concernant la modification d’une loi de Deline régissant l’utilisation des terres de Deline ou des eaux qui s’y trouvent ou le dépôt de déchets dans ces lieux.
+> 2005, ch. 1, art. 61; 2014, ch. 2, art. 197; 2015, ch. 24, art. 35.
 
 
 
@@ -3086,6 +3138,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+### Pouvoirs du gouvernement Gotine de Deline
+
+
+
+**Instructions du gouvernement Gotine de Deline**
+
+**109.11** Le gouvernement Gotine de Deline exerce, en ce qui touche l’Office et la formation régionale visée au paragraphe 99(2), les attributions qui sont les siennes aux termes de l’article 83 relativement à l’Office des terres et des eaux du Sahtu.
+> 2015, ch. 24, art. 36.
+
+
+
+
+
 ### Règles applicables en cas d’incompatibilité
 
 
@@ -3099,7 +3164,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Incompatibilité entre la loi et les instructions**
 
 - **(2)** Les dispositions des lois fédérales, de leurs règlements et des règles de droit territoriales l’emportent sur les instructions incompatibles données par le ministre fédéral en vertu de l’article 109 ou le gouvernement tlicho en vertu de l’article 109.1.
-> 2005, ch. 1, art. 63.
+
+**Incompatibilité entre les instructions**
+
+- **(3)** Les instructions données par le gouvernement Gotine de Deline en vertu de l’article 109.11 l’emportent sur les instructions incompatibles données par le ministre fédéral en vertu de l’article 109.
+
+**Incompatibilité entre la loi et les instructions**
+
+- **(4)** Les dispositions des lois fédérales, de leurs règlements et des règles de droit territoriales l’emportent sur les instructions incompatibles données par le ministre fédéral en vertu de l’article 109 ou le gouvernement Gotine de Deline en vertu de l’article 109.11.
+> 2005, ch. 1, art. 63; 2015, ch. 24, art. 37.
 
 
 
@@ -3295,12 +3368,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **118** 
 
-- **(1)** La délivrance, au titre de toute règle de droit fédérale ou territoriale ou d’une loi tlicho, d’un permis ou de toute autre autorisation nécessaire à la réalisation d’un projet de développement n’a lieu qu’une fois remplies les exigences de la présente partie.
+- **(1)** La délivrance, au titre de toute règle de droit fédérale ou territoriale, d’une loi tlicho ou d’une loi de Deline, d’un permis ou de toute autre autorisation nécessaire à la réalisation d’un projet de développement n’a lieu qu’une fois remplies les exigences de la présente partie.
 
-**Prise de mesures irrévocables**
+**Exigences**
 
-- **(2)** Le promoteur — première nation des Gwich’in, première nation du Sahtu, gouvernement tlicho, administration locale, ministère ou organisme des gouvernements fédéral et territorial — d’un projet de développement pour lequel une telle autorisation n’est pas requise ne peut prendre aucune mesure irrévocable à son égard avant que n’aient été remplies ces exigences.
-> 1998, ch. 25, art. 118; 2005, ch. 1, art. 71.
+- **(2)** Le promoteur — première nation des Gwich’in, première nation du Sahtu, gouvernement tlicho, gouvernement Gotine de Deline, administration locale, ministère ou organisme des gouvernements fédéral et territorial — d’un projet de développement pour lequel un tel permis ou une telle autorisation n’est pas requis ne peut prendre aucune mesure irrévocable à son égard avant que n’aient été remplies ces exigences.
+> 1998, ch. 25, art. 118; 2005, ch. 1, art. 71; 2015, ch. 24, art. 38.
 
 
 
@@ -3329,8 +3402,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Publication des motifs**
 
-**121** Sont consignés et mis à la disposition du public les motifs des décisions et des recommandations formulées, dans le cadre du processus mis en place par la présente partie, par l’Office, ses formations, les formations conjointes et les commissions conjointes établies par l’Office et une autre autorité, le ministre fédéral, tout ministre compétent, les organismes administratifs désignés, les autorités administratives, les ministères et organismes fédéraux ou territoriaux, les administrations locales, la première nation des Gwich’in, celle du Sahtu ou le gouvernement tlicho.
-> 1998, ch. 25, art. 121; 2005, ch. 1, art. 73.
+**121** Sont consignés et mis à la disposition du public les motifs des décisions et des recommandations formulées, dans le cadre du processus mis en place par la présente partie, par l’Office, ses formations, les formations conjointes et les commissions conjointes établies par l’Office et une autre autorité, le ministre fédéral, tout ministre compétent, les organismes administratifs désignés, les autorités administratives, les ministères et organismes fédéraux ou territoriaux, les administrations locales, la première nation des Gwich’in, celle du Sahtu, le gouvernement tlicho ou le gouvernement Gotine de Deline.
+> 1998, ch. 25, art. 121; 2005, ch. 1, art. 73; 2015, ch. 24, art. 39.
 
 
 
@@ -3367,8 +3440,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Statut et droits conférés par accord**
 
-- **(2)** N’ont pas pour effet de créer, à eux seuls, une situation de conflit d’intérêts sérieux le statut ou les droits conférés à une personne aux termes soit de l’accord gwich’in, de l’accord du Sahtu ou de l’accord tlicho, soit de tout autre accord sur des revendications territoriales conclu entre une première nation et Sa Majesté du chef du Canada.
-> 2005, ch. 1, art. 74.
+- **(2)** N’ont pas pour effet de créer, à eux seuls, une situation de conflit d’intérêts sérieux le statut ou les droits conférés à une personne aux termes soit de l’accord gwich’in, de l’accord du Sahtu, de l’accord tlicho ou de tout autre accord sur des revendications territoriales conclu entre une première nation et Sa Majesté du chef du Canada, soit de l’accord de Deline.
+> 2005, ch. 1, art. 74; 2015, ch. 24, art. 40.
 
 
 
