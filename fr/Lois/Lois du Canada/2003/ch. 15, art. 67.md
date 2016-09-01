@@ -675,7 +675,7 @@ où :
 <td>Conseil de la Première Nation Akisqnuk
 
 </td>
-<td>Réserves de *Columbia Lake*, sauf la réserve désignée comme St. Mary’s No. 1A.
+<td>Réserves de *Columbia Lake*, sauf la réserve désignée comme St. Mary’s No. 1A.
 
 </td>
 </tr>
@@ -741,7 +741,7 @@ où :
 <td>*Assembly of the Carcross/Tagish First Nation*
 
 </td>
-<td>Terres visées par le règlement, au sens de l’entente définitive de la Première nation de Carcross/ Tagish, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
+<td>Terres visées par le règlement, au sens de l’entente définitive de la Première nation de Carcross/ Tagish, et appelées ***terres désignées*** dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
 
 </td>
 </tr>
@@ -763,7 +763,7 @@ où :
 <td>*First Nations Council of the Champagne and Aishihik First Nations*
 
 </td>
-<td>Terres visées par le règlement, au sens de l’accord définitif des premières nations de Champagne et de Aishihik, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
+<td>Terres visées par le règlement, au sens de l’accord définitif des premières nations de Champagne et de Aishihik, et appelées ***terres désignées*** dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
 
 </td>
 </tr>
@@ -786,6 +786,17 @@ où :
 
 </td>
 <td>Réserve de Cowichan
+
+</td>
+</tr>
+<tr>
+<td>Première Nation de Deline
+
+</td>
+<td>Gouvernement Gotine de Deline
+
+</td>
+<td>Terres de Deline, au sens du paragraphe 22.1.1 de l’accord définitif sur l’autonomie gouvernementale de Deline approuvé, mis en vigueur et déclaré valide par la [Loi sur l’accord définitif sur l’autonomie gouvernementale de Deline](/fr/Lois/Lois%20du%20Canada/2015/ch.%2024.md)
 
 </td>
 </tr>
@@ -829,7 +840,7 @@ où :
 <td>*Tribal Council of the Vuntut Gwitchin First Nation*
 
 </td>
-<td>Terres visées par le règlement, au sens de l’accord définitif de la première nation des Gwitchin Vuntut, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
+<td>Terres visées par le règlement, au sens de l’accord définitif de la première nation des Gwitchin Vuntut, et appelées ***terres désignées*** dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
 
 </td>
 </tr>
@@ -884,7 +895,7 @@ où :
 <td>*Council of the Kluane First Nation*
 
 </td>
-<td>Terres visées par le règlement, au sens de l’accord définitif de la première nation de Kluane, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
+<td>Terres visées par le règlement, au sens de l’accord définitif de la première nation de Kluane, et appelées ***terres désignées*** dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
 
 </td>
 </tr>
@@ -895,7 +906,7 @@ où :
 <td>Conseil de la Première nation des Kwanlin Dun
 
 </td>
-<td>Terres visées par le règlement, au sens de l’entente définitive de la Première nation des Kwanlin Dun, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
+<td>Terres visées par le règlement, au sens de l’entente définitive de la Première nation des Kwanlin Dun, et appelées ***terres désignées*** dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
 
 </td>
 </tr>
@@ -928,7 +939,7 @@ où :
 <td>*Assembly of the Little Salmon/Carmacks First Nation*
 
 </td>
-<td>Terres visées par le règlement, au sens de l’accord définitif de la première nation de Little Salmon/Carmacks, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
+<td>Terres visées par le règlement, au sens de l’accord définitif de la première nation de Little Salmon/Carmacks, et appelées ***terres désignées*** dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
 
 </td>
 </tr>
@@ -983,7 +994,7 @@ où :
 <td>*Assembly of the First Nation of Nacho Nyak Dun*
 
 </td>
-<td>Terres visées par le règlement, au sens de l’accord définitif de la première nation des Nacho Nyak Dun, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
+<td>Terres visées par le règlement, au sens de l’accord définitif de la première nation des Nacho Nyak Dun, et appelées ***terres désignées*** dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
 
 </td>
 </tr>
@@ -1013,10 +1024,10 @@ où :
 <td>Nation Nisga’a, au sens de l’Accord définitif nisga’a tel que ce terme est défini dans la [Loi sur l’Accord définitif nisga’a](/fr/Lois/Lois%20du%20Canada/2000/ch.%207.md), L.C. 2000, ch. 7
 
 </td>
-<td>Gouvernement Nisga’a Lisims, au sens de l’Accord définitif nisga’a tel que ce terme est défini dans la [Loi sur l’Accord définitif nisga’a](/fr/Lois/Lois%20du%20Canada/2000/ch.%207.md), L.C. 2000, ch. 7
+<td>Gouvernement Nisga’a Lisims, au sens de l’Accord définitif nisga’a tel que ce terme est défini dans la [Loi sur l’Accord définitif nisga’a](/fr/Lois/Lois%20du%20Canada/2000/ch.%207.md), L.C. 2000, ch. 7
 
 </td>
-<td>Terres Nisga’a, au sens de l’Accord définitif nisga’a tel que ce terme est défini dans la [Loi sur l’Accord définitif nisga’a](/fr/Lois/Lois%20du%20Canada/2000/ch.%207.md), L.C. 2000, ch. 7
+<td>Terres Nisga’a, au sens de l’Accord définitif nisga’a tel que ce terme est défini dans la [Loi sur l’Accord définitif nisga’a](/fr/Lois/Lois%20du%20Canada/2000/ch.%207.md), L.C. 2000, ch. 7
 
 </td>
 </tr>
@@ -1038,7 +1049,7 @@ où :
 <td>*Assembly of the Selkirk First Nation*
 
 </td>
-<td>Terres visées par le règlement, au sens de l’accord définitif de la première nation de Selkirk, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
+<td>Terres visées par le règlement, au sens de l’accord définitif de la première nation de Selkirk, et appelées ***terres désignées*** dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
 
 </td>
 </tr>
@@ -1126,7 +1137,7 @@ où :
 <td>*Council of St. Mary’s*
 
 </td>
-<td>Réserves de St. Mary’s, sauf la réserve désignée comme St.Â Mary’s No. 1A.Mary’s No. 1A.
+<td>Réserves de St. Mary’s, sauf la réserve désignée comme St.Â Mary’s No. 1A.Mary’s No. 1A.
 
 </td>
 </tr>
@@ -1137,7 +1148,7 @@ où :
 <td>*Board of Directors and Elders Council of the Ta’an Kwach’an Council*
 
 </td>
-<td>Terres visées par le règlement, au sens de l’accord définitif du conseil des Ta’an Kwach’an, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
+<td>Terres visées par le règlement, au sens de l’accord définitif du conseil des Ta’an Kwach’an, et appelées ***terres désignées*** dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
 
 </td>
 </tr>
@@ -1170,7 +1181,7 @@ où :
 <td>*General Council of the Teslin Tlingit Council*
 
 </td>
-<td>Terres visées par le règlement, au sens de l’accord définitif du conseil des Tlingits de Teslin, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
+<td>Terres visées par le règlement, au sens de l’accord définitif du conseil des Tlingits de Teslin, et appelées ***terres désignées*** dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
 
 </td>
 </tr>
@@ -1192,7 +1203,7 @@ où :
 <td>*General Assembly of the Tr’ondëk Hwëch’in*
 
 </td>
-<td>Terres visées par le règlement, au sens de l’accord définitif des Tr’ondëk Hwëch’in, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
+<td>Terres visées par le règlement, au sens de l’accord définitif des Tr’ondëk Hwëch’in, et appelées ***terres désignées*** dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
 
 </td>
 </tr>
@@ -1275,7 +1286,7 @@ où :
 </tr>
 </table>
 
-> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363; DORS/2006-201, 294; DORS/2007-111; DORS/2007-185, art. 1 et 2; DORS/2008-103, 234, 235; DORS/2009-281; DORS/2010-178, 179; DORS/2011-36, 213, 214, 266; DORS/2012-31; DORS/2013-14; DORS/2014-119, 157, 209; DORS/2015-28; DORS/2016-97, 127.
+> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363; DORS/2006-201, 294; DORS/2007-111; DORS/2007-185, art. 1 et 2; DORS/2008-103, 234, 235; DORS/2009-281; DORS/2010-178, 179; DORS/2011-36, 213, 214, 266; DORS/2012-31; DORS/2013-14; DORS/2014-119, 157, 209; 2015, ch. 24, art. 41; DORS/2015-28; DORS/2016-97, 127.
 
 
 
