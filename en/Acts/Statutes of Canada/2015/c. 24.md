@@ -54,19 +54,19 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **2** The following definitions apply in this Act.
 
-***Déline Agreement*** means the Déline Final Self-Government Agreement among the Déline First Nation Band, the Déline Land Corporation, the Government of Canada and the Government of the Northwest Territories, signed on February 18, 2015, including any amendments made to it.
+***Déline Agreement*** means the Déline Final Self-Government Agreement among the Déline First Nation Band, the Déline Land Corporation, the Government of Canada and the Government of the Northwest Territories, signed on February 18, 2015, including any amendments made to it. (*accord de Deline*)
 
-***Déline First Nation Band*** has the same meaning as in chapter 1 of the Déline Agreement.
+***Déline First Nation Band*** has the same meaning as in chapter 1 of the Déline Agreement. (*bande de la Première Nation de Deline*)
 
-***Déline Got’ine Government*** means the government established in accordance with chapter 3 of the Déline Agreement.
+***Déline Got’ine Government*** means the government established in accordance with chapter 3 of the Déline Agreement. (*gouvernement Gotine de Deline*)
 
-***Déline Land Corporation*** has the same meaning as in chapter 1 of the Déline Agreement.
+***Déline Land Corporation*** has the same meaning as in chapter 1 of the Déline Agreement. (*société foncière de Deline*)
 
-***Déline law*** has the meaning assigned by the definition ***DGG Law*** in chapter 1 of the Déline Agreement.
+***Déline law*** has the meaning assigned by the definition ***DGG Law*** in chapter 1 of the Déline Agreement. (*loi de Deline*)
 
-***Déline Tax Treatment Agreement*** means the tax treatment agreement referred to in 22.3.1 of the Déline Agreement, including any amendments made to it.
+***Déline Tax Treatment Agreement*** means the tax treatment agreement referred to in 22.3.1 of the Déline Agreement, including any amendments made to it. (*accord sur le traitement fiscal de Deline*)
 
-***Sahtu Agreement*** means the Agreement as defined in section 2 of the [Sahtu Dene and Metis Land Claim Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2027.md). 
+***Sahtu Agreement*** means the Agreement as defined in section 2 of the [Sahtu Dene and Metis Land Claim Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2027.md). (*accord du Sahtu*)
 
 
 
@@ -400,6 +400,6 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 <sup><a href='#fn_Ind7B53_hq_15970'>[*]</a></sup>**43** The provisions of this Act, other than sections 19 and 42, come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind7B53_hq_15970'><sup>*</sup></a>: [Note: The provisions of this Act, other than sections 19 and 42, not in force.]<br />
+<a name='fn_Ind7B53_hq_15970'><sup>*</sup></a>: [Note: Sections 1 to 18 and 20 to 41 in force September 1, 2016, *see* SI/2016-22.]<br />
 
 
