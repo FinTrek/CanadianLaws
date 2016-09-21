@@ -638,6 +638,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **20** Bande indienne des Musqueams
 - **21** Première Nation de Wuskwi Sipihk
 - **22** Première Nation de Skownan
-> 2014, ch. 5, ann.; DORS/2015-136, art. 1; DORS/2015-149, art. 1; DORS/2015-208, art. 1; DORS/2015-218, art. 1; DORS/2016-2, art. 1; DORS/2016-53, art. 1; DORS/2016-55, art.1; DORS/2016-57, art. 1; DORS/2016-110, art. 1; DORS/2016-112, art. 1; DORS/2016-114, art. 1; DORS/2016-116, art. 1; DORS/2016-118, art. 1; DORS/2016-215, art. 1; DORS/2016-217, art. 1; DORS/2016-219, art. 1; DORS/2016-221, art. 1; DORS/2016-223, art. 1; DORS/2016-225, art. 1; DORS/2016-237, art. 1.
+- **23** Tobique
+- **24** Première Nation Beaver
+- **25** Première Nation des Cris de Canoe Lake
+> 2014, ch. 5, ann.; DORS/2015-136, art. 1; DORS/2015-149, art. 1; DORS/2015-208, art. 1; DORS/2015-218, art. 1; DORS/2016-2, art. 1; DORS/2016-53, art. 1; DORS/2016-55, art.1; DORS/2016-57, art. 1; DORS/2016-110, art. 1; DORS/2016-112, art. 1; DORS/2016-114, art. 1; DORS/2016-116, art. 1; DORS/2016-118, art. 1; DORS/2016-215, art. 1; DORS/2016-217, art. 1; DORS/2016-219, art. 1; DORS/2016-221, art. 1; DORS/2016-223, art. 1; DORS/2016-225, art. 1; DORS/2016-237, art. 1; DORS/2016-246, art. 1; DORS/2016-248, art. 1; DORS/2016-250, art. 1.
 
 
