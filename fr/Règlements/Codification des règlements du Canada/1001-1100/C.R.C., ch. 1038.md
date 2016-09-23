@@ -1598,8 +1598,8 @@ Fait à Ottawa, le _________________________ 20_________________________
 
 ### **ANNEXE III** 
 **(paragraphes 2(1), 4(1) et 5(2))**
-#### NORMES DE SÉCURITÉ DES VÉHICULES AUTOMOBILES DU CANADA
 <table>
+<h4>Normes de sécurité des véhicules automobiles du Canada</h4>
 <tr>
 <th>Colonne I</th>
 <th>Colonne II</th>
@@ -2377,7 +2377,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 <tr>
 <td>214</td>
-<td>Résistance des portes latérales</td>
+<td>Protection en cas de collision latérale</td>
 <td>X</td>
 <td>X</td>
 <td></td>
@@ -2901,7 +2901,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 </table>
 
-> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4; DORS/2007-246, art. 1; DORS/2008-73, art. 2; DORS/2008-104, art. 7(F) et 8(F); DORS/2008-229, art. 2; DORS/2008-258, art. 5 et 6; DORS/2009-33, art. 1(F); DORS/2009-121, art. 1; DORS/2009-291, art. 2 et 3; DORS/2009-318, art. 4, 5(A), 6(F) et 7(F); DORS/2009-323, art. 1; DORS/2011-264, art. 3; DORS/2013-117, art. 4 et 5; DORS/2015-24, art. 2.
+> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4; DORS/2007-246, art. 1; DORS/2008-73, art. 2; DORS/2008-104, art. 7(F) et 8(F); DORS/2008-229, art. 2; DORS/2008-258, art. 5 et 6; DORS/2009-33, art. 1(F); DORS/2009-121, art. 1; DORS/2009-291, art. 2 et 3; DORS/2009-318, art. 4, 5(A), 6(F) et 7(F); DORS/2009-323, art. 1; DORS/2011-264, art. 3; DORS/2013-117, art. 4 et 5; DORS/2015-24, art. 2; DORS/2016-254, art. 1.
 
 
 
@@ -2918,50 +2918,39 @@ Fait à Ottawa, le _________________________ 20_________________________
 **PARTIE II** 
 
 
-### Commandes, témoins, indicateurs et sources d’éclairage (norme 101)
+### Commandes, témoins, indicateurs et sources d’éclairage (norme 101)
 
 
 #### Interprétation
 
 **101** 
 
-- **(1)** Pour l’application du présent article, ***commande*** s’entend au sens du Document de normes techniques no 101 — commandes, témoins, indicateurs et sources d’éclairage (DNT 101).
+- **(1)** Pour l’application du présent article, ***commande*** s’entend au sens du Document de normes techniques no 101 — commandes, témoins, indicateurs et sources d’éclairage (DNT 101).
 
 #### Disposition générale
 
 
-- **(2)** Tout véhicule pour lequel l’article 5 du présent règlement exige la conformité aux normes prévues au présent article doit, à l’égard des commandes, des témoins, des indicateurs et des sources d’éclairage qui sont installés dans l’habitacle, être conforme aux exigences du DNT 101, avec ses modifications successives.
+- **(2)** Tout véhicule pour lequel l’article 5 du présent règlement exige la conformité aux normes prévues au présent article doit, à l’égard des commandes, des témoins, des indicateurs et des sources d’éclairage qui sont installés dans l’habitacle, être conforme aux exigences du DNT 101, avec ses modifications successives.
 
 #### Document de normes techniques n<sup>o</sup> 101
 
 
-- **(3)** Malgré la disposition S5.2.1 du DNT 101 :
-	- **a)
-** si le feu de direction gauche et le feu de direction droit ont chacun leur commande ou leur témoin, les flèches du symbole exigé pour la commande ou le témoin des feux de direction peuvent être dissociées et chaque flèche peut être utilisée séparément comme symbole distinct;
-	- **b)
-** si le feu de direction gauche et le feu de direction droit ont chacun leur témoin et si les flèches du symbole exigé pour le témoin des feux de direction sont dissociées de sorte que chaque flèche est utilisée séparément comme symbole distinct, le clignotement simultané des témoins des feux de direction gauche et droit peut être utilisé comme témoin des feux de détresse;
-	- **c)
-** le moyen d’identification de l’une ou l’autre des commandes ci-après n’est pas exigé si elle est combinée au commutateur général d’éclairage :
+- **(3)** Malgré la disposition S5.2.1 du DNT 101 :
+	- **a)** si le feu de direction gauche et le feu de direction droit ont chacun leur commande ou leur témoin, les flèches du symbole exigé pour la commande ou le témoin des feux de direction peuvent être dissociées et chaque flèche peut être utilisée séparément comme symbole distinct;
+	- **b)** si le feu de direction gauche et le feu de direction droit ont chacun leur témoin et si les flèches du symbole exigé pour le témoin des feux de direction sont dissociées de sorte que chaque flèche est utilisée séparément comme symbole distinct, le clignotement simultané des témoins des feux de direction gauche et droit peut être utilisé comme témoin des feux de détresse;
+	- **c)** le moyen d’identification de l’une ou l’autre des commandes ci-après n’est pas exigé si elle est combinée au commutateur général d’éclairage :
 		- **(i)** la commande des feux arrière, des feux de stationnement, des lampes de plaque d’immatriculation, des feux de position latéraux, des feux d’identification et des feux de gabarit,
 		- **(ii)** la commande de faisceaux de croisement des projecteurs;
-	- **d)
-** si un témoin unique est utilisé pour indiquer plus d’une condition du système de freinage, seul le symbole exigé pour le mauvais fonctionnement du système de freinage doit être utilisé;
-	- **e)
-** le moyen d’identification de l’une ou l’autre des commandes ci-après n’est pas exigé si elle fait partie intégrante du système de verrouillage à clé du véhicule :
+	- **d)** si un témoin unique est utilisé pour indiquer plus d’une condition du système de freinage, seul le symbole exigé pour le mauvais fonctionnement du système de freinage doit être utilisé;
+	- **e)** le moyen d’identification de l’une ou l’autre des commandes ci-après n’est pas exigé si elle fait partie intégrante du système de verrouillage à clé du véhicule :
 		- **(i)** la commande de démarrage du moteur,
 		- **(ii)** la commande d’arrêt du moteur;
-	- **f)
-** le moyen d’identification exigé pour la position de marche avant de la boîte de vitesses automatique peut être remplacé par une lettre, un chiffre, une combinaison de lettres et de chiffres ou tout symbole ne figurant pas à la colonne 2 du tableau du présent article;
-	- **g)
-** le symbole exigé pour la commande de démarrage du moteur peut être remplacé par le mot « *start* »;
-	- **h)
-** le symbole exigé pour la commande d’arrêt du moteur peut être remplacé par le mot « *stop* »;
-	- **i)
-** le symbole exigé pour le témoin de mauvais fonctionnement du système de contrôle électronique de la stabilité peut être remplacé par l’abréviation « ESC »;
-	- **j)
-** le symbole exigé pour le témoin et la commande de désactivation du système de contrôle électronique de la stabilité peut être remplacé par l’abréviation « ESC OFF »;
-	- **k)
-** jusqu’au 31 août 2018, le symbole exigé pour la commande et le témoin de désactivation du sac gonflable du passager peut être remplacé par les mots « *passenger air bag off* » ou « *pass air bag off* ».
+	- **f)** le moyen d’identification exigé pour la position de marche avant de la boîte de vitesses automatique peut être remplacé par une lettre, un chiffre, une combinaison de lettres et de chiffres ou tout symbole ne figurant pas à la colonne 2 du tableau du présent article;
+	- **g)** le symbole exigé pour la commande de démarrage du moteur peut être remplacé par le mot « *start* »;
+	- **h)** le symbole exigé pour la commande d’arrêt du moteur peut être remplacé par le mot « *stop* »;
+	- **i)** le symbole exigé pour le témoin de mauvais fonctionnement du système de contrôle électronique de la stabilité peut être remplacé par l’abréviation « ESC »;
+	- **j)** le symbole exigé pour le témoin et la commande de désactivation du système de contrôle électronique de la stabilité peut être remplacé par l’abréviation « ESC OFF »;
+	- **k)** jusqu’au 31 août 2018, le symbole exigé pour la commande et le témoin de désactivation du sac gonflable du passager peut être remplacé par les mots « *passenger air bag off* » ou « *pass air bag off* ».
 
 #### Indicateurs de vitesse et odomètres
 
@@ -2972,30 +2961,26 @@ Fait à Ottawa, le _________________________ 20_________________________
 
 - **(6)** Tout odomètre ou tout totalisateur partiel doivent indiquer les distances en kilomètres ou en milles. Si les distances sont indiquées en milles, cette unité de mesure doit être indiquée à un endroit qui est adjacent à l’odomètre ou au totalisateur partiel.
 
-#### Témoin de désactivation du sac gonflable du passager
+#### Témoin de désactivation du sac gonflable du passager
 
 
-- **(7)** Le témoin de désactivation du sac gonflable du passager doit être installé à l’intérieur du véhicule :
-	- **a)
-** d’une part, devant et au-dessus du point de référence de chaque place assise désignée extérieure avant lorsque le siège est dans sa position la plus avancée;
-	- **b)
-** d’autre part, de manière à être visible, s’il est allumé, au conducteur et à tout passager avant lorsque ceux-ci sont retenus par leurs ceintures de sécurité ajustées conformément aux instructions du fabricant du véhicule.
+- **(7)** Le témoin de désactivation du sac gonflable du passager doit être installé à l’intérieur du véhicule :
+	- **a)** d’une part, devant et au-dessus du point de référence de chaque place assise désignée extérieure avant lorsque le siège est dans sa position la plus avancée;
+	- **b)** d’autre part, de manière à être visible, s’il est allumé, au conducteur et à tout passager avant lorsque ceux-ci sont retenus par leurs ceintures de sécurité ajustées conformément aux instructions du fabricant du véhicule.
 
-- **(8)** Malgré le paragraphe (7), le témoin de désactivation du sac gonflable du passager ne doit :
-	- **a)
-** être ni installé ni adjacent à un endroit qui peut servir à l’entreposage dans le cas où un objet entreposé à cet endroit empêchera le conducteur et tout passager avant de voir le témoin lorsque ceux-ci sont retenus par leurs ceintures de sécurité ajustées conformément aux instructions du fabricant du véhicule;
-	- **b)
-** pas être installé à un endroit où il ne sera pas complètement visible au conducteur lorsque celui-ci est retenu par sa ceinture de sécurité ajustée conformément aux instructions du fabricant du véhicule et qu’un ensemble de retenue pour enfant orienté vers l’arrière ou un ensemble de retenue pour bébé est installé à la place assise désignée extérieure située le plus à l’avant-droit.
+- **(8)** Malgré le paragraphe (7), le témoin de désactivation du sac gonflable du passager ne doit :
+	- **a)** être ni installé ni adjacent à un endroit qui peut servir à l’entreposage dans le cas où un objet entreposé à cet endroit empêchera le conducteur et tout passager avant de voir le témoin lorsque ceux-ci sont retenus par leurs ceintures de sécurité ajustées conformément aux instructions du fabricant du véhicule;
+	- **b)** pas être installé à un endroit où il ne sera pas complètement visible au conducteur lorsque celui-ci est retenu par sa ceinture de sécurité ajustée conformément aux instructions du fabricant du véhicule et qu’un ensemble de retenue pour enfant orienté vers l’arrière ou un ensemble de retenue pour bébé est installé à la place assise désignée extérieure située le plus à l’avant-droit.
 
 #### Manuel de l’usager
 
 
-- **(9)** Les versions française et anglaise du manuel de l’usager doivent contenir l’explication de tout symbole, mot, abréviation ou lettre qui est utilisé pour identifier une commande, un témoin ou un indicateur qui sont installés dans le véhicule et qui doivent être identifiés en application du présent article.
+- **(9)** Les versions française et anglaise du manuel de l’usager doivent contenir l’explication de tout symbole, mot, abréviation ou lettre qui est utilisé pour identifier une commande, un témoin ou un indicateur qui sont installés dans le véhicule et qui doivent être identifiés en application du présent article.
 
 #### Disposition transitoire
 
 
-- **(10)** Jusqu’au 1<sup>er</sup> septembre 2019, les véhicules visés au paragraphe (2) peuvent être conformes aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
+- **(10)** Jusqu’au 1<sup>er</sup> septembre 2019, les véhicules visés au paragraphe (2) peuvent être conformes aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
 
 - 
 #### TABLEAU
@@ -3573,32 +3558,28 @@ ou
 
 
 
-### Fonctions de la commande de la boîte de vitesses (norme 102)
+### Fonctions de la commande de la boîte de vitesses (norme 102)
 > [DORS/97-421, art. 3]
 
 
 **102** 
 
 - **(1)** En ce qui concerne toute boîte de vitesses automatique dont est muni un véhicule :
-	- **a)
-** les positions de la commande doivent être dans une séquence de manoeuvre telle que :
+	- **a)** les positions de la commande doivent être dans une séquence de manoeuvre telle que :
 		- **(i)** tout mouvement entre une position de marche avant et une position de marche arrière passe par un point mort,
 		- **(ii)** dans le cas d’une commande montée sur la colonne de direction, tout mouvement du point mort à une position de marche avant s’effectue uniquement dans le sens des aiguilles d’une montre,
 		- **(iii)** la position de stationnement, le cas échéant, se trouve à l’extrémité du sélecteur et soit adjacente à la position de marche arrière;
-	- **b)
-** une position de marche avant, dans le cas des véhicules munis d’une boîte de vitesses à plus d’un rapport de marche avant, donne un plus grand freinage moteur que le rapport de boîte de vitesses le plus élevé, aux vitesses inférieures à 40 km/h.
+	- **b)** une position de marche avant, dans le cas des véhicules munis d’une boîte de vitesses à plus d’un rapport de marche avant, donne un plus grand freinage moteur que le rapport de boîte de vitesses le plus élevé, aux vitesses inférieures à 40 km/h.
 
 - **(2)** Dans le cas des véhicules munis d’une boîte de vitesses automatique, le réglage du commutateur d’allumage dans la position de démarrage du moteur ne doit pas faire démarrer un moteur utilisé pour la propulsion du véhicule si la commande de la boîte de vitesses se trouve en position de marche avant ou arrière.
 
 - **(2.1)** Dans le cas de voitures de tourisme, de véhicules à trois roues, de véhicules de tourisme à usages multiples et de camions qui ont un PNBV d’au plus 4 536 kg et sont munis d’une boîte de vitesses avec position de stationnement, la commande de la boîte de vitesses ne doit pouvoir passer de la position de stationnement à la position de marche avant ou arrière — pendant qu’un moteur utilisé pour la propulsion du véhicule est en service — tant que la pédale des freins de service n’est pas actionnée ou que les freins de service ne sont pas appliqués d’une autre façon.
 
-- **(3)** Sous réserve du paragraphe (5), lorsque la commande de la boîte de vitesses comprend une position de stationnement, l’identification des positions de la commande et de la position choisie doit être affichée à au moins un endroit et à la vue du conducteur dans l’un ou l’autre des cas suivants :
-	- **a)
-** le commutateur d’allumage est dans la position qui permet d’enclencher la boîte de vitesses;
-	- **b)
-** la boîte de vitesses n’est pas à la position de stationnement.
+- **(3)** Sous réserve du paragraphe (5), lorsque la commande de la boîte de vitesses comprend une position de stationnement, l’identification des positions de la commande et de la position choisie doit être affichée à au moins un endroit et à la vue du conducteur dans l’un ou l’autre des cas suivants :
+	- **a)** le commutateur d’allumage est dans la position qui permet d’enclencher la boîte de vitesses;
+	- **b)** la boîte de vitesses n’est pas à la position de stationnement.
 
-- **(4)** Sous réserve du paragraphe (5), si la séquence de la commande de la boîte de vitesses ne comprend pas de position de stationnement, l’identification des positions de la commande et de la position choisie doit être affichée à au moins un endroit à la vue du conducteur lorsque le commutateur d’allumage est dans la position qui permet la mise en marche du moteur.
+- **(4)** Sous réserve du paragraphe (5), si la séquence de la commande de la boîte de vitesses ne comprend pas de position de stationnement, l’identification des positions de la commande et de la position choisie doit être affichée à au moins un endroit à la vue du conducteur lorsque le commutateur d’allumage est dans la position qui permet la mise en marche du moteur.
 
 - **(5)** Il n’est pas nécessaire que l’identification des positions de la commande soit affichée lorsque le commutateur d’allumage est dans la position de démarrage du véhicule.
 
@@ -3618,50 +3599,35 @@ ou
 
 - **(1)** Dans le présent article,
 
-***charge de route*** La puissance requise pour déplacer le véhicule à sa masse à vide plus 180 kg sur une surface plane, propre, sèche et lisse, en béton de ciment portland, ou sur toute autre surface ayant le même coefficient de frottement, à une vitesse donnée, dans une atmosphère immobile, à 20 °C et à une pression barométrique normalisée de 101,3 kPa, compte tenu du frottement dû aux mouvements de translation et de rotation et de la résistance de l’air. (*road load*)
+***charge de route*** La puissance requise pour déplacer le véhicule à sa masse à vide plus 180 kg sur une surface plane, propre, sèche et lisse, en béton de ciment portland, ou sur toute autre surface ayant le même coefficient de frottement, à une vitesse donnée, dans une atmosphère immobile, à 20 °C et à une pression barométrique normalisée de 101,3 kPa, compte tenu du frottement dû aux mouvements de translation et de rotation et de la résistance de l’air. (*road load*) 
 
+***dégivrer*** signifie faire fondre le givre ou la glace sur la surface intérieure ou extérieure d’un vitrage; (*defrost*) 
 
-***dégivrer*** signifie faire fondre le givre ou la glace sur la surface intérieure ou extérieure d’un vitrage; (*defrost*)
+***désembuer*** signifie faire disparaître la buée de la surface intérieure d’un vitrage; (*defog*) 
 
+***pare-brise tout entier*** désigne la zone A mentionnée à l’article 104 de la présente annexe; (*entire windshield*) 
 
-***désembuer*** signifie faire disparaître la buée de la surface intérieure d’un vitrage; (*defog*)
+***zone critique*** désigne la zone C mentionnée à l’article 104 de la présente annexe. (*critical area*) 
 
-
-***pare-brise tout entier*** désigne la zone A mentionnée à l’article 104 de la présente annexe; (*entire windshield*)
-
-
-***zone critique*** désigne la zone C mentionnée à l’article 104 de la présente annexe. (*critical area*)
-
-
-- **(2)** Sous réserve du paragraphe (2.1), tout véhicule doit être équipé d’un système de dégivrage et de désembuage du pare-brise.
+- **(2)** Sous réserve du paragraphe (2.1), tout véhicule doit être équipé d’un système de dégivrage et de désembuage du pare-brise.
 
 - **(2.1)** S’il est muni d’un pare-brise, tout véhicule à trois roues doit être équipé d’un système de dégivrage et de désembuage du pare-brise.
 
 - **(3)** Dans le cas d’une voiture de tourisme ou d’un véhicule à trois roues, le système de dégivrage et de désembuage du pare-brise doit :
-	- **a)
-** satisfaire aux dispositions de l’article 3 de la Pratique recommandée J902 de la SAE « *Passenger Car Windshield Defrosting Systems* » (août 1964), lorsqu’il est soumis à l’essai conformément à l’alinéa b), sauf que les zones intitulées dans cet article « zone critique » et « pare-brise tout entier » auront la définition qui leur est donnée au paragraphe (1) du présent article; et
-	- **b)
-** être soumis à l’essai conformément aux parties applicables des paragraphes 4.1 à 4.4.7 de la Pratique recommandée J902 (août 1964) de la SAE ou de la Pratique recommandée J902a (mars 1967) de la SAE.
+	- **a)** satisfaire aux dispositions de l’article 3 de la Pratique recommandée J902 de la SAE « *Passenger Car Windshield Defrosting Systems* » (août 1964), lorsqu’il est soumis à l’essai conformément à l’alinéa b), sauf que les zones intitulées dans cet article « zone critique » et « pare-brise tout entier » auront la définition qui leur est donnée au paragraphe (1) du présent article; et
+	- **b)** être soumis à l’essai conformément aux parties applicables des paragraphes 4.1 à 4.4.7 de la Pratique recommandée J902 (août 1964) de la SAE ou de la Pratique recommandée J902a (mars 1967) de la SAE.
 
-- **(4)** Par dérogation aux dispositions prévues au paragraphe (3) relatives aux conditions d’essai du système de dégivrage et de désembuage du pare-brise d’une voiture de tourisme ou d’un véhicule à trois roues, les conditions suivantes s’appliquent :
-	- **a)
-** pour les voitures de tourisme ou les véhicules à trois roues qui sont munis d’un circuit de chauffage autre que du type échangeur de chaleur qui utilise le liquide de refroidissement du moteur comme moyen de fournir la chaleur à l’échangeur de chaleur, la marche à suivre, pendant tout l’essai, est celle qui est précisée par le fabricant du véhicule pour un démarrage par temps froid, sauf que l’utilisation d’une source externe de puissance ou de chaleur au véhicule n’est pas permise;
-	- **b)
-** pour les autres voitures de tourisme et véhicules à trois roues :
-		- **(i)** soit, pendant tout l’essai, la vitesse de rotation du moteur ne doit pas dépasser 1 500 tours par minute au point mort ou la vitesse de rotation et la charge du moteur ne doivent pas dépasser la vitesse et la charge à 40 km/h (25 milles par heure) dans le rapport de transmission recommandé par le fabricant pour la charge de route,
-		- **(ii)** soit, doivent être suivies, pendant les 5 premières minutes de l’essai, la procédure de réchauffage recommandée par le fabricant du véhicule pour un démarrage par temps froid et, pendant les 35 dernières minutes de l’essai, la procédure visée au sous-alinéa (i);
-	- **c)
-** le changement de l’atmosphère ambiante 90 fois par heure n’est pas requis;
-	- **d)
-** les essuie-glaces peuvent être utilisés pendant l’épreuve si leur fonctionnement ne nécessite aucune intervention manuelle;
-	- **e)
-** une ou deux glaces peuvent être baissées de 25 mm au total;
-	- **f)
-** le ventilateur du dégivreur peut être mis en marche à n’importe quel moment;
-	- **g)
-** la vitesse du vent ne doit pas dépasser 3 km/h;
-	- **h)
-** la température de la chambre d’essai et la vitesse du vent sont mesurées après que le moteur ait été mis en marche, au point extrême de l’avant du véhicule ou à un point placé à 91,4 cm (36 po) de la base du pare-brise, si ce dernier point est situé plus à l’avant, à mi-distance entre l’extrémité supérieure et l’extrémité inférieure du pare-brise, sur l’axe du véhicule.
+- **(4)** Par dérogation aux dispositions prévues au paragraphe (3) relatives aux conditions d’essai du système de dégivrage et de désembuage du pare-brise d’une voiture de tourisme ou d’un véhicule à trois roues, les conditions suivantes s’appliquent :
+	- **a)** pour les voitures de tourisme ou les véhicules à trois roues qui sont munis d’un circuit de chauffage autre que du type échangeur de chaleur qui utilise le liquide de refroidissement du moteur comme moyen de fournir la chaleur à l’échangeur de chaleur, la marche à suivre, pendant tout l’essai, est celle qui est précisée par le fabricant du véhicule pour un démarrage par temps froid, sauf que l’utilisation d’une source externe de puissance ou de chaleur au véhicule n’est pas permise;
+	- **b)** pour les autres voitures de tourisme et véhicules à trois roues :
+		- **(i)** soit, pendant tout l’essai, la vitesse de rotation du moteur ne doit pas dépasser 1 500 tours par minute au point mort ou la vitesse de rotation et la charge du moteur ne doivent pas dépasser la vitesse et la charge à 40 km/h (25 milles par heure) dans le rapport de transmission recommandé par le fabricant pour la charge de route,
+		- **(ii)** soit, doivent être suivies, pendant les 5 premières minutes de l’essai, la procédure de réchauffage recommandée par le fabricant du véhicule pour un démarrage par temps froid et, pendant les 35 dernières minutes de l’essai, la procédure visée au sous-alinéa (i);
+	- **c)** le changement de l’atmosphère ambiante 90 fois par heure n’est pas requis;
+	- **d)** les essuie-glaces peuvent être utilisés pendant l’épreuve si leur fonctionnement ne nécessite aucune intervention manuelle;
+	- **e)** une ou deux glaces peuvent être baissées de 25 mm au total;
+	- **f)** le ventilateur du dégivreur peut être mis en marche à n’importe quel moment;
+	- **g)** la vitesse du vent ne doit pas dépasser 3 km/h;
+	- **h)** la température de la chambre d’essai et la vitesse du vent sont mesurées après que le moteur ait été mis en marche, au point extrême de l’avant du véhicule ou à un point placé à 91,4 cm (36 po) de la base du pare-brise, si ce dernier point est situé plus à l’avant, à mi-distance entre l’extrémité supérieure et l’extrémité inférieure du pare-brise, sur l’axe du véhicule.
 > DORS/97-264, art. 1; DORS/2003-272, art. 8; DORS/2008-104, art. 9..
 
 
@@ -3673,60 +3639,44 @@ ou
 
 - **(1)** Dans le présent article,
 
-***espace d’épaules*** désigne l’espage d’épaules prévu à l’avant, ou dimension W3, définie dans la partie E, « *Ground Vehicle Practice* », des *Aerospace-Automotive Drawing Standards* (septembre 1963) de la SAE; (*shoulder room dimension*)
+***espace d’épaules*** désigne l’espage d’épaules prévu à l’avant, ou dimension W3, définie dans la partie E, « *Ground Vehicle Practice* », des *Aerospace-Automotive Drawing Standards* (septembre 1963) de la SAE; (*shoulder room dimension*) 
 
+***largeur hors tout*** désigne la largeur maximale de la carrosserie, ou dimension W116, définie dans la partie E, « *Ground Vehicle Practice* », des *Aerospace-Automotive Drawing Standards* (septembre 1963) de la SAE; (*overall width*) 
 
-***largeur hors tout*** désigne la largeur maximale de la carrosserie, ou dimension W116, définie dans la partie E, « *Ground Vehicle Practice* », des *Aerospace-Automotive Drawing Standards* (septembre 1963) de la SAE; (*overall width*)
-
-
-***ligne de référence longitudinale*** désigne
-
-- **a)
-** dans un véhicule à banquette avant, une ligne parallèle à l’axe longitudinal du véhicule, située à une distance du centre du volant, vers l’extérieur, égale aux 15 centièmes de la différence entre la moitié de l’espace d’épaules et la distance entre l’axe longitudinal et le centre du volant, comme il est indiqué sur la figure 2 de la Pratique recommandée J903a (mai 1966) de la SAE, et
-- **b)
-** dans un véhicule à sièges avant individuels,
+***ligne de référence longitudinale*** désigne 
+- **a)** dans un véhicule à banquette avant, une ligne parallèle à l’axe longitudinal du véhicule, située à une distance du centre du volant, vers l’extérieur, égale aux 15 centièmes de la différence entre la moitié de l’espace d’épaules et la distance entre l’axe longitudinal et le centre du volant, comme il est indiqué sur la figure 2 de la Pratique recommandée J903a (mai 1966) de la SAE, et
+- **b)** dans un véhicule à sièges avant individuels,
 	- **(i)** une ligne parallèle à l’axe longitudinal du véhicule passant par le centre de la place assise désignée du conducteur, ou
 	- **(ii)** une ligne parallèle à l’axe longitudinal du véhicule située de manière que le centre géométrique des 95 pour cent du contour de portée visuelle se trouve sur l’axe longitudinal de la place assise désignée du conducteur; (*plan view reference line*)
 
-***ligne de référence de la surface vitrée*** L’intersection de la surface vitrée et d’un plan horizontal passant à 635 mm au-dessus du point de référence de position assise, comme l’indique la figure 1 de la pratique recommandée J903a de la SAE (mai 1966). (*glazing surface reference line*)
+***ligne de référence de la surface vitrée*** L’intersection de la surface vitrée et d’un plan horizontal passant à 635 mm au-dessus du point de référence de position assise, comme l’indique la figure 1 de la pratique recommandée J903a de la SAE (mai 1966). (*glazing surface reference line*) 
 
+***ouverture de jour*** désigne l’ouverture libre maximale de la surface vitrée, définie au paragraphe 2.3.12 de la partie E, « *Ground Vehicle Practice* », des *Aerospace-Automotive Drawing Standards* (septembre 1963) de la SAE; (*daylight opening*) 
 
-***ouverture de jour*** désigne l’ouverture libre maximale de la surface vitrée, définie au paragraphe 2.3.12 de la partie E, « *Ground Vehicle Practice* », des *Aerospace-Automotive Drawing Standards* (septembre 1963) de la SAE; (*daylight opening*)
+***zones A, B et C*** désigne les zones ainsi identifiées dans la colonne I des tableaux I, II, III et IV du présent article, établies selon les indications des figures 1 et 2 de la Pratique recommandée J903a de la SAE, « *Passenger Car Windshield Wiper Systems* », (mai 1966), et à l’aide des angles indiqués dans les colonnes III à VI des tableaux précités; (*areas A, B and C*) 
 
-
-***zones A, B et C*** désigne les zones ainsi identifiées dans la colonne I des tableaux I, II, III et IV du présent article, établies selon les indications des figures 1 et 2 de la Pratique recommandée J903a de la SAE, « *Passenger Car Windshield Wiper Systems* », (mai 1966), et à l’aide des angles indiqués dans les colonnes III à VI des tableaux précités; (*areas A, B and C*)
-
-
-***95 pour cent du contour de portée visuelle*** désigne le 95<sup>e</sup> percentile de limite tangentielle de visibilité, défini dans la Pratique recommandée J941a de la SAE, « *Passenger Car Driver’s Eye Range* » (août 1967). (*95 per cent eye range contour*)
-
+***95 pour cent du contour de portée visuelle*** désigne le 95<sup>e</sup> percentile de limite tangentielle de visibilité, défini dans la Pratique recommandée J941a de la SAE, « *Passenger Car Driver’s Eye Range* » (août 1967). (*95 per cent eye range contour*) 
 
 - **(2)** Pour l’application du présent article, dans le cadre de toute norme ou pratique recommandée de la SAE, les mentions « *manikin H-point* », « *manikin H-point with seat in rearmost position* » et « *H-point* » valent la mention « point de référence de position assise ».
 
-- **(3)** Sous réserve du paragraphe (3.1), tout véhicule doit être muni d’un système essuie-glace mécanisé qui a au moins deux fréquences ou vitesses et qui a, indépendamment de la vitesse de rotation et de la charge du moteur, les caractéristiques suivantes :
-	- **a)
-** une fréquence ou vitesse d’au moins 45 cycles à la minute;
-	- **b)
-** une différence d’au moins 15 cycles à la minute entre la fréquence ou la vitesse la plus élevée et l’une des vitesses ou fréquences inférieures;
-	- **c)
-** la fréquence ou vitesse inférieure mentionnée à l’alinéa b) étant d’au moins 20 cycles à la minute.
+- **(3)** Sous réserve du paragraphe (3.1), tout véhicule doit être muni d’un système essuie-glace mécanisé qui a au moins deux fréquences ou vitesses et qui a, indépendamment de la vitesse de rotation et de la charge du moteur, les caractéristiques suivantes :
+	- **a)** une fréquence ou vitesse d’au moins 45 cycles à la minute;
+	- **b)** une différence d’au moins 15 cycles à la minute entre la fréquence ou la vitesse la plus élevée et l’une des vitesses ou fréquences inférieures;
+	- **c)** la fréquence ou vitesse inférieure mentionnée à l’alinéa b) étant d’au moins 20 cycles à la minute.
 
-- **(3.1)** S’il est muni d’un pare-brise, tout véhicule à trois roues doit être équipé d’un système essuie-glace qui est conforme aux exigences du paragraphe (3).
+- **(3.1)** S’il est muni d’un pare-brise, tout véhicule à trois roues doit être équipé d’un système essuie-glace qui est conforme aux exigences du paragraphe (3).
 
-- **(4)** La conformité du système essuie-glace aux dispositions du paragraphe (3) doit être établie par des essais effectués dans les conditions spécifiées aux paragraphes 4.1.1 et 4.1.2 de la Pratique recommandée J903a (mai 1966) de la SAE.
+- **(4)** La conformité du système essuie-glace aux dispositions du paragraphe (3) doit être établie par des essais effectués dans les conditions spécifiées aux paragraphes 4.1.1 et 4.1.2 de la Pratique recommandée J903a (mai 1966) de la SAE.
 
-- **(5)** Dans le cas d’une voiture de tourisme ou d’un véhicule à trois roues, le système essuie-glace, lorsqu’il est mis à l’essai mouillé selon la pratique recommandée J903a de la SAE (mai 1966), doit balayer le pourcentage des zones A, B et C du pare-brise qui, à la fois :
-	- **a)
-** est spécifié dans la colonne II des tableaux I, II, III ou IV du présent article, selon le cas; et
-	- **b)
-** se trouve dans la zone délimitée par une ligne tracée sur la surface vitrée à 25 mm des limites de l’ouverture de jour.
+- **(5)** Dans le cas d’une voiture de tourisme ou d’un véhicule à trois roues, le système essuie-glace, lorsqu’il est mis à l’essai mouillé selon la pratique recommandée J903a de la SAE (mai 1966), doit balayer le pourcentage des zones A, B et C du pare-brise qui, à la fois :
+	- **a)** est spécifié dans la colonne II des tableaux I, II, III ou IV du présent article, selon le cas; et
+	- **b)** se trouve dans la zone délimitée par une ligne tracée sur la surface vitrée à 25 mm des limites de l’ouverture de jour.
 
-- **(6)** Sous réserve du paragraphe (7), tout véhicule doit être muni d’un système lave-glace conforme aux dispositions de la pratique recommandée J942 de la SAE, *Passenger Car Windshield Washer Systems* (novembre 1965), sauf que les mots « *the effective wipe pattern defined in SAE J903, paragraph 3.1.2* » (la forme réelle de la zone définie au paragraphe 3.1.2 de la pratique recommandée J903 de la SAE) à l’alinéa 3.1 de la pratique recommandée J942 de la SAE doivent être remplacés :
-	- **a)
-** dans le cas d’une voiture de tourisme ou d’un véhicule à trois roues, par les mots « *the areas established in accordance with the definition of areas A, B and C in subsection (1) of Canada Motor Vehicle Safety Standard No. 104* » (les zones établies conformément à la définition des zones A, B et C au paragraphe (1) de la norme de sécurité des véhicules automobiles du Canada n<sup>o</sup> 104);
-	- **b)
-** dans le cas d’un véhicule de tourisme à usages multiples, d’un camion ou d’un autobus, par les mots « *the pattern designed by the manufacturer for the windshield wiping system on the exterior surface of the windshield glazing* » (la forme établie par le fabricant pour la zone de balayage de la surface externe du pare-brise).
+- **(6)** Sous réserve du paragraphe (7), tout véhicule doit être muni d’un système lave-glace conforme aux dispositions de la pratique recommandée J942 de la SAE, *Passenger Car Windshield Washer Systems* (novembre 1965), sauf que les mots « *the effective wipe pattern defined in SAE J903, paragraph 3.1.2* » (la forme réelle de la zone définie au paragraphe 3.1.2 de la pratique recommandée J903 de la SAE) à l’alinéa 3.1 de la pratique recommandée J942 de la SAE doivent être remplacés :
+	- **a)** dans le cas d’une voiture de tourisme ou d’un véhicule à trois roues, par les mots « *the areas established in accordance with the definition of areas A, B and C in subsection (1) of Canada Motor Vehicle Safety Standard No. 104* » (les zones établies conformément à la définition des zones A, B et C au paragraphe (1) de la norme de sécurité des véhicules automobiles du Canada n<sup>o</sup> 104);
+	- **b)** dans le cas d’un véhicule de tourisme à usages multiples, d’un camion ou d’un autobus, par les mots « *the pattern designed by the manufacturer for the windshield wiping system on the exterior surface of the windshield glazing* » (la forme établie par le fabricant pour la zone de balayage de la surface externe du pare-brise).
 
-- **(7)** S’il est muni d’un pare-brise, tout véhicule à trois roues doit être équipé d’un système lave-glace qui est conforme aux exigences du paragraphe (6).
+- **(7)** S’il est muni d’un pare-brise, tout véhicule à trois roues doit être équipé d’un système lave-glace qui est conforme aux exigences du paragraphe (6).
 
 - 
 #### TABLEAU I
@@ -3742,7 +3692,7 @@ ou
 </tr>
 <tr>
 <th>Zone</th>
-<th>Pourcentage minimal devant être balayé</th>
+<th>Pourcentage minimal devant être balayé</th>
 <th>Angle, en degrés</th>
 </tr>
 <tr>
@@ -3790,7 +3740,7 @@ ou
 </tr>
 <tr>
 <th>Zone</th>
-<th>Pourcentage minimal devant être balayé</th>
+<th>Pourcentage minimal devant être balayé</th>
 <th>Angle, en degrés</th>
 </tr>
 <tr>
@@ -3838,7 +3788,7 @@ ou
 </tr>
 <tr>
 <th>Zone</th>
-<th>Pourcentage minimal devant être balayé</th>
+<th>Pourcentage minimal devant être balayé</th>
 <th>Angle, en degrés</th>
 </tr>
 <tr>
@@ -3886,7 +3836,7 @@ ou
 </tr>
 <tr>
 <th>Zone</th>
-<th>Pourcentage minimal devant être balayé</th>
+<th>Pourcentage minimal devant être balayé</th>
 <th>Angle, en degrés</th>
 </tr>
 <tr>
@@ -3926,15 +3876,15 @@ ou
 
 
 
-### Systèmes de freinage hydraulique et électrique (Norme 105)
+### Systèmes de freinage hydraulique et électrique (Norme 105)
 
 **105** 
 
-- **(1)** Sous réserve de l’article 135 de la présente annexe, les véhicules de tourisme à usages multiples, les camions et les autobus doivent être conformes aux exigences du Document de normes techniques no 105 — Systèmes de freinage hydraulique et électrique (DNT 105), avec ses modifications successives.
+- **(1)** Sous réserve de l’article 135 de la présente annexe, les véhicules de tourisme à usages multiples, les camions et les autobus doivent être conformes aux exigences du Document de normes techniques no 105 — Systèmes de freinage hydraulique et électrique (DNT 105), avec ses modifications successives.
 
 - **(2)** Le témoin lumineux visé à la disposition S5.3 du DNT 105 doit, lorsqu’il s’allume dans une situation prévue à la disposition S5.3.1 du DNT 105, afficher le symbole d’identification figurant au tableau de l’article 101 de la présente annexe qui correspond à cette situation, mais si le véhicule est muni d’un témoin lumineux commun, celui-ci doit afficher le symbole d’identification figurant au tableau de l’article 101 de la présente annexe qui correspond au mauvais fonctionnement d’un système de freinage.
 
-- **(3)** La mention qui figure à la disposition S5.4.3 du DNT 105 peut être remplacée par une autre mention au même effet.
+- **(3)** La mention qui figure à la disposition S5.4.3 du DNT 105 peut être remplacée par une autre mention au même effet.
 
 - **(4) à (6)** [Abrogés, DORS/2015-24, art. 4]
 > DORS/79-374, art. 3; DORS/80-637, art. 1; DORS/86-683, art. 3; DORS/86-976, art. 3; DORS/91-144, art. 1; DORS/96-89, art. 2; DORS/97-200, art. 4 et 6; DORS/97-421, art. 5; DORS/98-524, art. 4(F); DORS/99-357, art. 3; DORS/2001-35, art. 4; DORS/2005-42, art. 13; DORS/2008-104, art. 11; DORS/2009-79, art. 1; DORS/2009-318, art. 19(F); DORS/2011-238, art. 1; DORS/2015-24, art. 4..
@@ -3942,15 +3892,15 @@ ou
 
 
 
-### Boyaux de frein (Norme 106)
+### Boyaux de frein (Norme 106)
 > [DORS/93-561, art. 3; DORS/2011-238, art. 1]
 
 
 **106** 
 
-- **(1)** Les boyaux de frein, les ensembles de boyau de frein et les raccords d’extrémité de boyau de frein dont sont munis les voitures de tourisme, les véhicules de tourisme à usages multiples, les camions, les autobus, les véhicules à trois roues, les motocyclettes, les remorques et les chariots de conversion doivent être conformes aux exigences du Document de normes techniques no 106 — Boyaux de frein (DNT 106), avec ses modifications successives.
+- **(1)** Les boyaux de frein, les ensembles de boyau de frein et les raccords d’extrémité de boyau de frein dont sont munis les voitures de tourisme, les véhicules de tourisme à usages multiples, les camions, les autobus, les véhicules à trois roues, les motocyclettes, les remorques et les chariots de conversion doivent être conformes aux exigences du Document de normes techniques no 106 — Boyaux de frein (DNT 106), avec ses modifications successives.
 
-- **(2)** Toute mention dans le DNT 106 d’une norme publiée par l’ASTM qui figure à la colonne 1 du tableau du présent paragraphe vaut mention, selon le cas, de la norme indiquée en regard de cette norme à la colonne 2.
+- **(2)** Toute mention dans le DNT 106 d’une norme publiée par l’ASTM qui figure à la colonne 1 du tableau du présent paragraphe vaut mention, selon le cas, de la norme indiquée en regard de cette norme à la colonne 2.
 #### TABLEAU
 <table>
 <tr>
@@ -3965,10 +3915,8 @@ ou
 </tr>
 <tr>
 <td>2</td>
-<td>Norme D 471 – 98<sup>ε1
-</sup> de l’ASTM, *Standard Test Method for Rubber Property — Effect of Liquids*</td>
-<td>Norme D 471 – 06<sup>ε1
-</sup> de l’ASTM, *Standard Test Method for Rubber Property — Effect of Liquids*</td>
+<td>Norme D 471 – 98<sup>ε1</sup> de l’ASTM, *Standard Test Method for Rubber Property — Effect of Liquids*</td>
+<td>Norme D 471 – 06<sup>ε1</sup> de l’ASTM, *Standard Test Method for Rubber Property — Effect of Liquids*</td>
 </tr>
 <tr>
 <td>3</td>
@@ -3977,18 +3925,18 @@ ou
 </tr>
 <tr>
 <td>4</td>
-<td>Norme E 4 – 03 de l’ASTM, *Standard Practices for Force Verification of Testing Machines*</td>
+<td>Norme E 4 – 03 de l’ASTM, *Standard Practices for Force Verification of Testing Machines*</td>
 <td>Norme E 4 – 08 de l’ASTM, *Standard Practices for Force Verification of Testing Machines*</td>
 </tr>
 <tr>
 <td>5</td>
-<td>Norme G 151 – 97 de l’ASTM, *Standard Practice for Exposing Nonmetallic Materials in Accelerated Test Devices that Use Laboratory Light Sources*</td>
-<td>Norme G 151 – 06 de l’ASTM, *Standard Practice for Exposing Nonmetallic Materials in Accelerated Test Devices that Use Laboratory Light Sources*</td>
+<td>Norme G 151 – 97 de l’ASTM, *Standard Practice for Exposing Nonmetallic Materials in Accelerated Test Devices that Use Laboratory Light Sources*</td>
+<td>Norme G 151 – 06 de l’ASTM, *Standard Practice for Exposing Nonmetallic Materials in Accelerated Test Devices that Use Laboratory Light Sources*</td>
 </tr>
 <tr>
 <td>6</td>
-<td>Norme G 154 – 00 de l’ASTM, *Standard Practice for Operating Fluorescent Light Apparatus for UV Exposure of Nonmetallic Materials*</td>
-<td>Norme G 154 – 06 de l’ASTM, *Standard Practice for Operating Fluorescent Light Apparatus for UV Exposure of Nonmetallic Materials*</td>
+<td>Norme G 154 – 00 de l’ASTM, *Standard Practice for Operating Fluorescent Light Apparatus for UV Exposure of Nonmetallic Materials*</td>
+<td>Norme G 154 – 06 de l’ASTM, *Standard Practice for Operating Fluorescent Light Apparatus for UV Exposure of Nonmetallic Materials*</td>
 </tr>
 </table>
 
@@ -4002,90 +3950,84 @@ ou
 
 
 
-### Système d’éclairage et dispositifs rétroréfléchissants (Norme 108)
+### Système d’éclairage et dispositifs rétroréfléchissants (Norme 108)
 
 
 #### Dispositions générales
 
 **108** 
 
-- **(1)** Les voitures de tourisme, les véhicules de tourisme à usages multiples, les camions, les autobus, les motocyclettes et les remorques doivent être munis des feux, des dispositifs rétroréfléchissants et des pièces d’équipement complémentaires qui sont exigés par le Document de normes techniques no 108 — Feux, dispositifs réfléchissants et pièces d’équipement complémentaires (DNT 108), avec ses modifications successives.
+- **(1)** Les voitures de tourisme, les véhicules de tourisme à usages multiples, les camions, les autobus, les motocyclettes et les remorques doivent être munis des feux, des dispositifs rétroréfléchissants et des pièces d’équipement complémentaires qui sont exigés par le Document de normes techniques no 108 — Feux, dispositifs réfléchissants et pièces d’équipement complémentaires (DNT 108), avec ses modifications successives.
 
 - **(1.1)** Les véhicules à trois roues doivent être munis des feux, des dispositifs rétroréfléchissants et des pièces d’équipement complémentaires qui sont exigés par le DNT 108 pour les voitures de tourisme.
 
 - **(2)** Les motocyclettes à usage restreint doivent être munies des cataphotes exigés pour les motocyclettes aux termes de la disposition S5.1.1 du DNT 108.
 
-- **(3)** Les feux, les dispositifs rétroréfléchissants et les pièces d’équipement complémentaires qui sont exigés par le présent article doivent être conçus, installés et visibles conformément aux exigences du DNT 108, à l’exception des figures 11 à 14, 16, 18, 21 et 22.
+- **(3)** Les feux, les dispositifs rétroréfléchissants et les pièces d’équipement complémentaires qui sont exigés par le présent article doivent être conçus, installés et visibles conformément aux exigences du DNT 108, à l’exception des figures 11 à 14, 16, 18, 21 et 22.
 
 - **(4)** Les feux, les dispositifs rétroréfléchissants et les pièces d’équipement complémentaires d’un véhicule peuvent être conformes aux normes et pratiques recommandées applicables de la SAE contenues dans le *SAE Handbook* de 1994 plutôt qu’aux normes et pratiques recommandées applicables de la SAE qui sont mentionnées dans le présent article ou le DNT 108.
 
 - **(5)** Les renseignements relatifs à tout type d’ampoule et de bloc optique scellé utilisé pour le fonctionnement d’un système d’éclairage exigé par le présent article doivent :
-	- **a)
-** soit être spécifiés pour ce type d’ampoule ou de bloc optique scellé dans l’un des textes suivants :
+	- **a)** soit être spécifiés pour ce type d’ampoule ou de bloc optique scellé dans l’un des textes suivants :
 		- **(i)** une norme ou une pratique recommandée de la SAE,
 		- **(ii)** un règlement de la CEE,
 		- **(iii)** une norme de la Commission électrotechnique internationale (CEI);
-	- **b)
-** soit être communiqués par le fabricant du véhicule au ministre, à la demande de celui-ci.
+	- **b)** soit être communiqués par le fabricant du véhicule au ministre, à la demande de celui-ci.
 
-- **(6)** Le terme « filament » qui figure dans le présent article, le DNT 108 ou une norme ou pratique recommandée de la SAE vaut mention de « arc » lorsque l’exigence s’applique à un feu dans lequel la lumière est produite par un tube à décharge dans un gaz ou de « jonction de diode électroluminescente » lorsque l’exigence s’applique à un feu dans lequel la lumière est produite par une diode électroluminescente.
+- **(6)** Le terme ***filament*** qui figure dans le présent article, le DNT 108 ou une norme ou pratique recommandée de la SAE vaut mention de ***arc*** lorsque l’exigence s’applique à un feu dans lequel la lumière est produite par un tube à décharge dans un gaz ou de ***jonction de diode électroluminescente*** lorsque l’exigence s’applique à un feu dans lequel la lumière est produite par une diode électroluminescente.
 
-- **(7)** Pour l’application du présent article, le terme « vélomoteur » utilisé dans le DNT 108 vaut mention de « motocyclette à vitesse limitée ».
+- **(7)** Pour l’application du présent article, le terme ***vélomoteur*** utilisé dans le DNT 108 vaut mention de ***motocyclette à vitesse limitée***.
 
-### Document de normes techniques n<sup>o</sup> 108
-
-
-#### Dispositifs d’éclairage obligatoires — Disposition S5.1 du DNT 108
+### Document de normes techniques n<sup>o</sup> 108
 
 
-- **(8)** Malgré la disposition S5.1.1 du DNT 108, les feux et les dispositifs rétroréfléchissants qui font partie du même montage physique qu’un projecteur et respectent les exigences de la disposition S7.4(h) du DNT 108 en ce qui concerne la résistance à la corrosion, à la poussière et à l’humidité n’ont pas à être soumis aux essais de corrosion, d’exposition à la poussière et de teneur en eau exigés par les normes ou pratiques recommandées qui sont énumérées aux tableaux I et III du DNT 108.
+#### Dispositifs d’éclairage obligatoires — Disposition S5.1 du DNT 108
+
+
+- **(8)** Malgré la disposition S5.1.1 du DNT 108, les feux et les dispositifs rétroréfléchissants qui font partie du même montage physique qu’un projecteur et respectent les exigences de la disposition S7.4(h) du DNT 108 en ce qui concerne la résistance à la corrosion, à la poussière et à l’humidité n’ont pas à être soumis aux essais de corrosion, d’exposition à la poussière et de teneur en eau exigés par les normes ou pratiques recommandées qui sont énumérées aux tableaux I et III du DNT 108.
 
 - **(9)** [Réservé]
 
-- **(10)** Lorsqu’un matériau réfléchissant visé à la disposition S5.1.1.4 du DNT 108 est installé sur une surface non verticale, l’angle d’éclairage utilisé pour démontrer la conformité du matériau avec les normes d’efficacité prévues à cette disposition doit être est égal à la somme de l’angle d’éclairage spécifié aux tableaux 1 ou 1A de la norme J594f de la SAE, intitulée *Reflex Reflectors* (janvier 1977), et de l’angle, mesuré sur l’axe horizontal du matériau, entre la verticale et le matériau.
+- **(10)** Lorsqu’un matériau réfléchissant visé à la disposition S5.1.1.4 du DNT 108 est installé sur une surface non verticale, l’angle d’éclairage utilisé pour démontrer la conformité du matériau avec les normes d’efficacité prévues à cette disposition doit être est égal à la somme de l’angle d’éclairage spécifié aux tableaux 1 ou 1A de la norme J594f de la SAE, intitulée *Reflex Reflectors* (janvier 1977), et de l’angle, mesuré sur l’axe horizontal du matériau, entre la verticale et le matériau.
 
 - **(11)** Les dispositions S5.1.1.12 et S5.1.1.21 du DNT 108 ne s’appliquent pas.
 
 - **(12)** Malgré les dispositions S5.1.1 et S7.9 du DNT 108, les montages de projecteur de motocyclette doivent être conformes aux dispositions S7.8.2, S7.8.2.2, S7.8.3, S7.8.4 et S7.8.5.1(c) du DNT 108.
 
-- **(13)** Les autobus scolaires autres que les autobus multifonctions pour les activités scolaires doivent être munis d’un clignotant qui est conforme aux exigences de la pratique recommandée J1054 de la SAE, intitulée Warning Lamp Alternating Flashers (octobre 1989), et qui actionne les feux d’avertissement visés à la disposition S5.1.4 du DNT 108.
+- **(13)** Les autobus scolaires autres que les autobus multifonctions pour les activités scolaires doivent être munis d’un clignotant qui est conforme aux exigences de la pratique recommandée J1054 de la SAE, intitulée Warning Lamp Alternating Flashers (octobre 1989), et qui actionne les feux d’avertissement visés à la disposition S5.1.4 du DNT 108.
 
-#### Position de l’équipement obligatoire — Disposition S5.3 du DNT 108
+#### Position de l’équipement obligatoire — Disposition S5.3 du DNT 108
 
 
-- **(14)** Pour l’application de la disposition S5.3 et du tableau II du DNT 108, la position des feux d’identification arrière d’une semi-remorque fourgon munie de portes arrière à ouverture latérale doit être conforme à cette disposition lorsque les feux sont placés :
-	- **a)
-** au-dessus des portes arrière ou sur les portes arrière, le plus près possible du sommet du véhicule, dans le cas où la face verticale de la traverse supérieure se prolonge, sur l’axe central vertical du véhicule, d’au moins 25 mm au-dessus des portes arrière;
-	- **b)
-** au-dessus ou au-dessous des portes arrière ou sur les portes arrière, le plus près possible du sommet du véhicule, dans le cas où la face verticale de la traverse supérieure se prolonge, sur l’axe central vertical du véhicule, de moins de 25 mm au dessus des portes arrière.
+- **(14)** Pour l’application de la disposition S5.3 et du tableau II du DNT 108, la position des feux d’identification arrière d’une semi-remorque fourgon munie de portes arrière à ouverture latérale doit être conforme à cette disposition lorsque les feux sont placés :
+	- **a)** au-dessus des portes arrière ou sur les portes arrière, le plus près possible du sommet du véhicule, dans le cas où la face verticale de la traverse supérieure se prolonge, sur l’axe central vertical du véhicule, d’au moins 25 mm au-dessus des portes arrière;
+	- **b)** au-dessus ou au-dessous des portes arrière ou sur les portes arrière, le plus près possible du sommet du véhicule, dans le cas où la face verticale de la traverse supérieure se prolonge, sur l’axe central vertical du véhicule, de moins de 25 mm au dessus des portes arrière.
 
-- **(14.1)** Malgré la disposition S5.3 et le tableau IV du DNT 108, les feux arrière, les feux de freinage et les feux de stationnement d’un tricycle à moteur doivent être installés conformément aux exigences de la disposition S5.3 et du tableau IV du DNT 108 pour les feux arrière, les feux de freinage et les feux de stationnement qui sont installés sur les voitures de tourisme.
+- **(14.1)** Malgré la disposition S5.3 et le tableau IV du DNT 108, les feux arrière, les feux de freinage et les feux de stationnement d’un tricycle à moteur doivent être installés conformément aux exigences de la disposition S5.3 et du tableau IV du DNT 108 pour les feux arrière, les feux de freinage et les feux de stationnement qui sont installés sur les voitures de tourisme.
 
 - **(15)** [Réservé]
 
-#### Exigences spéciales relatives au câblage — Disposition S5.5 du DNT 108
+#### Exigences spéciales relatives au câblage — Disposition S5.5 du DNT 108
 
 
 - **(16)** Les dispositions S5.5.1 et S5.5.2 du DNT 108 ne s’appliquent pas aux motocyclettes qui sont munies d’un projecteur à un seul faisceau.
 
-- **(17)** Sous réserve du paragraphe (18), le projecteur, le feu arrière et la lampe de la plaque d’immatriculation des motocyclettes doivent demeurer continuellement allumés lorsque le moteur est en marche.
+- **(17)** Sous réserve du paragraphe (18), le projecteur, le feu arrière et la lampe de la plaque d’immatriculation des motocyclettes doivent demeurer continuellement allumés lorsque le moteur est en marche.
 
 - **(18)** Le projecteur, le feu arrière et la lampe de la plaque d’immatriculation des motocyclettes peuvent, après que le moteur a démarré, demeurer éteints jusqu’à ce que le véhicule soit mis en mouvement au moyen de son moteur pour la première fois.
 
 - **(19)** En plus de s’allumer conformément à la disposition S5.5.7 du DNT 108, les feux et les lampes visés à la disposition S5.5.7(a) du DNT 108 doivent s’allumer :
-	- **a)
-** lorsque les feux-brouillard avant du véhicule fonctionnent de façon continue sauf s’ils fonctionnent à titre de feu de jour;
-	- **b)
-** lorsque les feux-brouillard arrière du véhicule fonctionnent de façon continue.
+	- **a)** lorsque les feux-brouillard avant du véhicule fonctionnent de façon continue sauf s’ils fonctionnent à titre de feu de jour;
+	- **b)** lorsque les feux-brouillard arrière du véhicule fonctionnent de façon continue.
 
-- **(20)** Les exigences de la disposition S5.5.11 du DNT 108 sont remplacées par celles des paragraphes (44) à (65).
+- **(20)** Les exigences de la disposition S5.5.11 du DNT 108 sont remplacées par celles des paragraphes (44) à (65).
 
-#### Systèmes de perceptibilité — Disposition S5.7 du DNT 108
+#### Systèmes de perceptibilité — Disposition S5.7 du DNT 108
 
 
 - **(21)** Malgré la disposition S5.7 du DNT 108, le matériau rétroréfléchissant apposé dispositions S5.7.1.4.1(a) et S5.7.1.4.2 du DNT 108 peut être blanc, jaune, blanc et jaune ou blanc et rouge, en conformité avec la disposition S5.7.1.2 du DNT 108 ou les dispositions 3.1.3, 3.1.2 ou 3.1.1, respectivement, de la norme J578 de la SAE, intitulée *Color Specification* (mai 1998).
 
-- **(22)** Lorsque le matériau rétroréfléchissant visé à la disposition S5.7.1.2 du DNT 108 est apposé sur une surface non verticale, l’angle d’éclairage utilisé pour démontrer la conformité du matériau avec les exigences photométriques prévues à cette disposition doit être égal à la somme de l’angle d’éclairage spécifié dans la première colonne de la figure 29 du DNT 108 et de l’angle, mesuré sur l’axe horizontal du matériau, entre la verticale et le matériau.
+- **(22)** Lorsque le matériau rétroréfléchissant visé à la disposition S5.7.1.2 du DNT 108 est apposé sur une surface non verticale, l’angle d’éclairage utilisé pour démontrer la conformité du matériau avec les exigences photométriques prévues à cette disposition doit être égal à la somme de l’angle d’éclairage spécifié dans la première colonne de la figure 29 du DNT 108 et de l’angle, mesuré sur l’axe horizontal du matériau, entre la verticale et le matériau.
 
 - **(23)** Le matériau rétroréfléchissant apposé à l’arrière d’une remorque en conformité avec la disposition S5.7.1.4.1(c) du DNT 108 doit être placé à au plus 760 mm au dessus de la chaussée et à moins de 450 mm de chaque extrémité latérale de la remorque.
 
@@ -4192,15 +4134,13 @@ ou
 
 - **(32)** Malgré la disposition S7.4(a)(3) du DNT 108, les circuits des projecteurs de motocyclette n’ont pas à être munis du dispositif d’orientation intégré du véhicule (DOIV) spécifié à la disposition S7.8.5.2 du DNT 108.
 
-- **(33)** Malgré la disposition S7.5(g) du DNT 108, la lentille des projecteurs dont la seule source lumineuse remplaçable est de type HB1 doit porter des marques permanentes indiquant le type HB.
+- **(33)** Malgré la disposition S7.5(g) du DNT 108, la lentille des projecteurs dont la seule source lumineuse remplaçable est de type HB1 doit porter des marques permanentes indiquant le type HB.
 
 - **(34) à (39)** [Réservés]
 
 - **(40)** Les montages de feu-brouillard avant ou de feu auxiliaire avant d’une voiture de tourisme, d’un véhicule de tourisme à usages multiples, d’un camion, d’un autobus ou d’un véhicule à trois roues, qui peuvent être allumés en même temps que les projecteurs à faisceau-croisement, doivent être conformes aux dispositions suivantes :
-	- **a)
-** dans les cas où les montages sont munis d’un mécanisme de réglage d’orientation horizontale et verticale, aux dispositions S7.8.2, S7.8.2.2, S7.8.3, S7.8.4 et S7.8.5.1(c) du DNT 108;
-	- **b)
-** dans le cas où les montages ne sont munis que d’un mécanisme de réglage d’orientation verticale :
+	- **a)** dans les cas où les montages sont munis d’un mécanisme de réglage d’orientation horizontale et verticale, aux dispositions S7.8.2, S7.8.2.2, S7.8.3, S7.8.4 et S7.8.5.1(c) du DNT 108;
+	- **b)** dans le cas où les montages ne sont munis que d’un mécanisme de réglage d’orientation verticale :
 		- **(i)** à la disposition S7.8.2 du DNT 108, sauf qu’un mécanisme de réglage d’orientation horizontale n’est pas nécessaire,
 		- **(ii)** aux dispositions S7.8.2.2, S7.8.3 et S7.8.5.1(c) du DNT 108.
 
@@ -4210,7 +4150,7 @@ ou
 
 - **(43)** Le manuel de l’usager visé à la disposition S7.8.5.2(b) du DNT 108 doit être publié dans les deux langues officielles par le fabricant ou l’importateur du véhicule.
 
-- **(43.1)** Malgré la disposition S7.9.6.2 et le tableau IV du DNT 108, si le circuit de projecteurs installé sur un tricycle à moteur comporte deux projecteurs disposés horizontalement sur l’axe central vertical, il peut être installé conformément aux exigences de la disposition S5.3 et du tableau IV du DNT 108 relatives aux circuits de projecteurs des voitures de tourisme.
+- **(43.1)** Malgré la disposition S7.9.6.2 et le tableau IV du DNT 108, si le circuit de projecteurs installé sur un tricycle à moteur comporte deux projecteurs disposés horizontalement sur l’axe central vertical, il peut être installé conformément aux exigences de la disposition S5.3 et du tableau IV du DNT 108 relatives aux circuits de projecteurs des voitures de tourisme.
 
 ### Feux de jour
 
@@ -4224,81 +4164,63 @@ ou
 
 - **(46)** Le feu de jour qui n’est pas combiné optiquement avec un projecteur doit être conforme aux exigences de la pratique recommandée J575 de la SAE, intitulée *Tests for Motor Vehicle Lighting Devices and Components* (décembre 1988).
 
-- **(47)** Sous réserve du paragraphe (47.1), le feu de jour qui n’est pas combiné optiquement avec un autre feu ou qui est combiné optiquement avec un feu — sauf un feu-brouillard avant — non exigé par le présent article doit être conçu pour être conforme aux exigences de la pratique recommandée J2087 de la SAE, intitulée *Daytime Running Lamps For Use On Motor Vehicles* (août 1991), y compris les valeurs photométriques prévues au tableau 2 de cette pratique recommandée, sauf que :
-	- **a)
-** l’intensité lumineuse maximum est de 3 000 cd à tout point d’essai;
-	- **b)
-** le feu n’a pas à être conforme aux exigences de la disposition 6.2 de cette pratique recommandée;
-	- **c)
-** la surface lumineuse efficace de la lentille peut être inférieure à 40 cm<sup>2</sup>.
+- **(47)** Sous réserve du paragraphe (47.1), le feu de jour qui n’est pas combiné optiquement avec un autre feu ou qui est combiné optiquement avec un feu — sauf un feu-brouillard avant — non exigé par le présent article doit être conçu pour être conforme aux exigences de la pratique recommandée J2087 de la SAE, intitulée *Daytime Running Lamps For Use On Motor Vehicles* (août 1991), y compris les valeurs photométriques prévues au tableau 2 de cette pratique recommandée, sauf que :
+	- **a)** l’intensité lumineuse maximum est de 3 000 cd à tout point d’essai;
+	- **b)** le feu n’a pas à être conforme aux exigences de la disposition 6.2 de cette pratique recommandée;
+	- **c)** la surface lumineuse efficace de la lentille peut être inférieure à 40 cm<sup>2</sup>.
 
-- **(47.1)** Le feu de jour qui n’est pas combiné optiquement avec un autre feu peut être conforme aux exigences de la norme J583 de la SAE, intitulée *Front Fog Lamps* (juin 1993), ou à celles des paragraphes 3, 4.2, 4.3, 5 et 6 du Règlement n<sup>o</sup> 19 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des feux-brouillard avant pour véhicules automobiles, révision n<sup>o</sup> 3 (2 mars 1993).
+- **(47.1)** Le feu de jour qui n’est pas combiné optiquement avec un autre feu peut être conforme aux exigences de la norme J583 de la SAE, intitulée *Front Fog Lamps* (juin 1993), ou à celles des paragraphes 3, 4.2, 4.3, 5 et 6 du Règlement n<sup>o</sup> 19 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des feux-brouillard avant pour véhicules automobiles, révision n<sup>o</sup> 3 (2 mars 1993).
 
-- **(47.2)** Le feu de jour qui est combiné optiquement avec un indicateur de changement de direction avant ou un feu de stationnement doit être conforme aux exigences du paragraphe (47).
+- **(47.2)** Le feu de jour qui est combiné optiquement avec un indicateur de changement de direction avant ou un feu de stationnement doit être conforme aux exigences du paragraphe (47).
 
 - **(48)** Le feu de jour qui est combiné optiquement avec un projecteur doit :
-	- **a)
-** dans le cas où il est combiné avec un faisceau-croisement d’un projecteur conçu pour être conforme aux exigences photométriques du présent article, fonctionner, selon le cas :
+	- **a)** dans le cas où il est combiné avec un faisceau-croisement d’un projecteur conçu pour être conforme aux exigences photométriques du présent article, fonctionner, selon le cas :
 		- **(i)** à la tension de fonctionnement normale,
 		- **(ii)** s’il s’agit d’un système CC (courant continu), à au moins 75 % et à au plus 92 % de la tension de fonctionnement normale,
 		- **(iii)** s’il s’agit d’un système CA (courant alternatif) ou à voltage modulé, à la moyenne quadratique équivalente d’au moins 75 % et d’au plus 92 % de la tension de fonctionnement normale;
-	- **b)
-** dans le cas où il est combiné avec un faisceau-croisement d’un projecteur conçu pour être conforme aux exigences photométriques de l’article 108.1, fonctionner, selon le cas :
+	- **b)** dans le cas où il est combiné avec un faisceau-croisement d’un projecteur conçu pour être conforme aux exigences photométriques de l’article 108.1, fonctionner, selon le cas :
 		- **(i)** à la tension de fonctionnement normale,
 		- **(ii)** s’il s’agit d’un système CC (courant continu), à au moins 86 % et à au plus 92 % de la tension de fonctionnement normale,
 		- **(iii)** s’il s’agit d’un système CA (courant alternatif) ou à voltage modulé, à la moyenne quadratique équivalente d’au moins 86 % et d’au plus 92 % de la tension de fonctionnement normale;
-	- **c)
-** dans le cas où il est combiné avec un faisceau-route d’un projecteur, être conçu de façon à fournir une intensité lumineuse d’au moins 2 000 cd et d’au plus 7 000 cd au point d’essai H-V.
+	- **c)** dans le cas où il est combiné avec un faisceau-route d’un projecteur, être conçu de façon à fournir une intensité lumineuse d’au moins 2 000 cd et d’au plus 7 000 cd au point d’essai H-V.
 
-- **(49)** Aux fins d’établissement de la conformité d’un feu de jour avec le paragraphe (48), le feu de jour doit être mis à l’essai conformément à la disposition S11 du DNT 108.
+- **(49)** Aux fins d’établissement de la conformité d’un feu de jour avec le paragraphe (48), le feu de jour doit être mis à l’essai conformément à la disposition S11 du DNT 108.
 
-- **(50)** Le feu de jour combiné optiquement avec un projecteur ou des projecteurs qui exigent le fonctionnement simultané de deux filaments pour produire la fonction de feu de jour doit être conforme aux exigences photométriques de l’alinéa (48)c) lorsque :
-	- **a)
-** d’une part, le feu de jour est obtenu par l’un des moyens suivants :
+- **(50)** Le feu de jour combiné optiquement avec un projecteur ou des projecteurs qui exigent le fonctionnement simultané de deux filaments pour produire la fonction de feu de jour doit être conforme aux exigences photométriques de l’alinéa (48)c) lorsque :
+	- **a)** d’une part, le feu de jour est obtenu par l’un des moyens suivants :
 		- **(i)** le faisceau-route émis par deux filaments du projecteur,
 		- **(ii)** le faisceau-route et le faisceau-croisement du projecteur,
 		- **(iii)** le faisceau-route du projecteur et soit le faisceau-croisement, soit le faisceau-route d’un autre projecteur;
-	- **b)
-** d’autre part, les intensités lumineuses au point d’essai H-V des projecteurs mis à l’essai conformément à la disposition S10 du DNT 108 sont additionnées.
+	- **b)** d’autre part, les intensités lumineuses au point d’essai H-V des projecteurs mis à l’essai conformément à la disposition S10 du DNT 108 sont additionnées.
 
-- **(51)** Dans le cas où le projecteur avec lequel le feu de jour est combiné optiquement s’allume en position escamotée, le feu de jour doit être conforme aux paragraphes (47), (48) ou (50).
+- **(51)** Dans le cas où le projecteur avec lequel le feu de jour est combiné optiquement s’allume en position escamotée, le feu de jour doit être conforme aux paragraphes (47), (48) ou (50).
 
-- **(52)** Le feu de jour peut être combiné optiquement avec un feu-brouillard avant conforme aux exigences de la norme J583 de la SAE, intitulée *Front Fog Lamps* (juin 1993), ou à celles des paragraphes 3, 4.2, 4.3, 5 et 6 du Règlement n<sup>o</sup> 19 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des feux-brouillard avant pour véhicules automobiles, révision n<sup>o</sup> 3 (2 mars 1993).
+- **(52)** Le feu de jour peut être combiné optiquement avec un feu-brouillard avant conforme aux exigences de la norme J583 de la SAE, intitulée *Front Fog Lamps* (juin 1993), ou à celles des paragraphes 3, 4.2, 4.3, 5 et 6 du Règlement n<sup>o</sup> 19 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des feux-brouillard avant pour véhicules automobiles, révision n<sup>o</sup> 3 (2 mars 1993).
 
-- **(53)** Malgré les paragraphes (45) à (52), un véhicule peut être muni d’un système de feux de circulation de jour conforme aux exigences de la norme CAN/ CSA-D603-88, intitulée Systèmes de feux de circulation de jour et publiée par l’Association canadienne de normalisation (décembre 1989), sauf un système de type 4 et de type 5 (projecteurs à faisceau-route à tension réduite), visé au tableau 1 de cette norme, si :
-	- **a)
-** le système de feux de circulation de jour est installé conformément aux instructions visées à la disposition 8.2 de la norme;
-	- **b)
-** dans le cas où le véhicule est muni de projecteurs de faisceau-croisement à décharge dans un gaz, seul un système de type 1 (projecteur de faisceau-croisement à tension normale), de type 6 ou de type 7 (feux distincts autres que des projecteurs), visés au tableau 1 de la norme, est utilisé.
+- **(53)** Malgré les paragraphes (45) à (52), un véhicule peut être muni d’un système de feux de circulation de jour conforme aux exigences de la norme CAN/ CSA-D603-88, intitulée Systèmes de feux de circulation de jour et publiée par l’Association canadienne de normalisation (décembre 1989), sauf un système de type 4 et de type 5 (projecteurs à faisceau-route à tension réduite), visé au tableau 1 de cette norme, si :
+	- **a)** le système de feux de circulation de jour est installé conformément aux instructions visées à la disposition 8.2 de la norme;
+	- **b)** dans le cas où le véhicule est muni de projecteurs de faisceau-croisement à décharge dans un gaz, seul un système de type 1 (projecteur de faisceau-croisement à tension normale), de type 6 ou de type 7 (feux distincts autres que des projecteurs), visés au tableau 1 de la norme, est utilisé.
 
 #### Commutation
 
 
-- **(54)** Sous réserve des paragraphes (55) et (56), les feux de jour doivent être continuellement allumés lorsque le moteur est en marche et que le commutateur général d’éclairage n’est pas dans la position d’allumage des projecteurs.
+- **(54)** Sous réserve des paragraphes (55) et (56), les feux de jour doivent être continuellement allumés lorsque le moteur est en marche et que le commutateur général d’éclairage n’est pas dans la position d’allumage des projecteurs.
 
 - **(55)** Les feux de jour peuvent s’éteindre :
-	- **a)
-** pendant que la commande de la boîte de vitesses automatique est à la position de stationnement ou de point mort;
-	- **b)
-** pendant que le frein de stationnement est serré;
-	- **c)
-** après que le moteur a démarré, mais avant que le véhicule ne soit mis en mouvement pour la première fois.
+	- **a)** pendant que la commande de la boîte de vitesses automatique est à la position de stationnement ou de point mort;
+	- **b)** pendant que le frein de stationnement est serré;
+	- **c)** après que le moteur a démarré, mais avant que le véhicule ne soit mis en mouvement pour la première fois.
 
 - **(56)** Les feux de jour qui sont combinés optiquement avec un indicateur de changement de direction doivent s’éteindre pendant que l’indicateur de changement de direction est allumé à ce titre ou à titre de signal d’avertissement.
 
 - **(57)** Les feux de jour doivent s’éteindre :
-	- **a)
-** dès que le commutateur général d’éclairage est mis dans la position d’allumage des projecteurs;
-	- **b)
-** s’ils se trouvent sur un véhicule muni de projecteurs escamotables et si le commutateur général d’éclairage est mis dans la position d’allumage des projecteurs, dès que les projecteurs sont dans la position complètement ouverte.
+	- **a)** dès que le commutateur général d’éclairage est mis dans la position d’allumage des projecteurs;
+	- **b)** s’ils se trouvent sur un véhicule muni de projecteurs escamotables et si le commutateur général d’éclairage est mis dans la position d’allumage des projecteurs, dès que les projecteurs sont dans la position complètement ouverte.
 
 - **(58)** Les conditions ci-après doivent être respectées lorsque les faisceaux-croisement des projecteurs fonctionnant à la tension de fonctionnement normale servent de feux de jour :
-	- **a)
-** il doit être impossible d’allumer les faisceaux-route des projecteurs, sauf à des fins de signalisation;
-	- **b)
-** si un témoin à la vue du conducteur s’allume automatiquement lorsqu’il fait noir pour indiquer que les feux arrière, les lampes de la plaque d’immatriculation, les feux de position latéraux et les feux de stationnement sont éteints, ces feux et lampes ne doivent pas s’allumer automatiquement;
-	- **c)
-** si aucun témoin à la vue du conducteur ne s’allume automatiquement, les feux et lampes visés à l’alinéa b) doivent, selon le cas :
+	- **a)** il doit être impossible d’allumer les faisceaux-route des projecteurs, sauf à des fins de signalisation;
+	- **b)** si un témoin à la vue du conducteur s’allume automatiquement lorsqu’il fait noir pour indiquer que les feux arrière, les lampes de la plaque d’immatriculation, les feux de position latéraux et les feux de stationnement sont éteints, ces feux et lampes ne doivent pas s’allumer automatiquement;
+	- **c)** si aucun témoin à la vue du conducteur ne s’allume automatiquement, les feux et lampes visés à l’alinéa b) doivent, selon le cas :
 		- **(i)** s’allumer automatiquement et rester allumés dans toutes les conditions de luminosité ambiantes,
 		- **(ii)** s’allumer automatiquement lorsqu’il fait noir.
 
@@ -4314,14 +4236,11 @@ ou
 - **(62)** Le feu de jour doit être visible à partir de tout point de l’angle solide bordé par les plans verticaux qui se trouvent à 20° à gauche et à 20° à droite de l’axe H-V de ce feu et par les plans horizontaux qui se trouvent à 10° au-dessus et à 10° au-dessous de cet axe.
 
 - **(63)** Dans le cas où la distance, mesurée sur un plan vertical et transversal, à partir de l’axe H-V d’un indicateur de changement de direction avant jusqu’au bord exposé de la lentille d’un feu de jour non optiquement combiné avec l’indicateur de changement de direction, est inférieure à 100 mm, l’une des conditions suivantes doit être respectée :
-	- **a)
-** l’indicateur de changement de direction est conforme aux exigences photométriques du tableau 3 de la norme J588 de la SAE, intitulée *Turn Signal Lamps for Use on Motor Vehicles Less Than 2032 mm in Overall Width* (novembre 1984), établies au moyen d’un multiplicateur d’intensité lumineuse de 2,5;
-	- **b)
-** le feu de jour présente une intensité lumineuse d’au plus 2 600 cd à n’importe quel point dans le faisceau;
-	- **c)
-** le feu de jour s’éteint lorsque l’indicateur de changement de direction clignote.
+	- **a)** l’indicateur de changement de direction est conforme aux exigences photométriques du tableau 3 de la norme J588 de la SAE, intitulée *Turn Signal Lamps for Use on Motor Vehicles Less Than 2032 mm in Overall Width* (novembre 1984), établies au moyen d’un multiplicateur d’intensité lumineuse de 2,5;
+	- **b)** le feu de jour présente une intensité lumineuse d’au plus 2 600 cd à n’importe quel point dans le faisceau;
+	- **c)** le feu de jour s’éteint lorsque l’indicateur de changement de direction clignote.
 
-- **(64)** Il doit être possible d’accéder, sans l’aide d’outils spécialement conçus pour les véhicules, à la surface intérieure d’une pièce transparente à travers laquelle passe la lumière émise par un feu de jour visé au paragraphe (51) pour la nettoyer.
+- **(64)** Il doit être possible d’accéder, sans l’aide d’outils spécialement conçus pour les véhicules, à la surface intérieure d’une pièce transparente à travers laquelle passe la lumière émise par un feu de jour visé au paragraphe (51) pour la nettoyer.
 
 - **(65)** Les feux de jour doivent être conformes aux dispositions S5.1.3 et S5.3 du DNT 108.
 
@@ -4337,52 +4256,39 @@ ou
 
 **108.1** 
 
-- **(1)** Les voitures de tourisme, les véhicules de tourisme à usages multiples, les autobus et les camions peuvent être munis, à la place des projecteurs exigés par l’article 108 de la présente annexe, de projecteurs qui émettent une lumière blanche et :
-	- **a)
-** qui sont conformes, selon le cas :
-		- **(i)** au règlement n<sup>o</sup> 8 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des projecteurs pour véhicules automobiles émettant un faisceau-croisement asymétrique et/ou un faisceau-route et équipés de lampes à incandescence halogènes (H1, H2, H3, HB3, HB4, H7, H8, H9, HIR1, HIR2 et/ou H11), avec ses modifications successives,
-		- **(ii)** au règlement n<sup>o</sup> 20 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des projecteurs pour véhicules automobiles émettant un faisceau-croisement asymétrique et/ou un faisceau-route et équipés de lampes halogènes à incandescence (lampes H4), avec ses modifications successives,
-		- **(iii)** au règlement n<sup>o</sup> 31 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des projecteurs automobiles constitués par des blocs optiques halogènes (« sealed beam » unit) (bloc optique SBH) émettant un faisceau-croisement asymétrique et/ou un faisceau-route, avec ses modifications successives,
-		- **(iv)** du règlement n<sup>o</sup> 98 de la CEE, intitulé Dispositions uniformes concernant l’homologation des projecteurs de véhicules à moteur munis de sources lumineuses à décharge, avec ses modifications successives,
-		- **(v)** au règlement n<sup>o</sup> 112 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des projecteurs pour véhicules automobiles émettant un faisceau de croisement asymétrique ou un faisceau de route ou les deux à la fois et équipés de lampes à incandescence, avec ses modifications successives;
-	- **b)
-** qui, malgré les exigences des règlements de la CEE visés au présent article, sont réglés pour utilisation sur des véhicules conçus pour la circulation à droite de la route;
-	- **c)
-** émettent deux faisceaux-route et deux faisceaux-croisement;
-	- **d)
-** qui sont conformes :
+- **(1)** Les voitures de tourisme, les véhicules de tourisme à usages multiples, les autobus et les camions peuvent être munis, à la place des projecteurs exigés par l’article 108 de la présente annexe, de projecteurs qui émettent une lumière blanche et :
+	- **a)** qui sont conformes, selon le cas :
+		- **(i)** au règlement n<sup>o</sup> 8 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des projecteurs pour véhicules automobiles émettant un faisceau-croisement asymétrique et/ou un faisceau-route et équipés de lampes à incandescence halogènes (H1, H2, H3, HB3, HB4, H7, H8, H9, HIR1, HIR2 et/ou H11), avec ses modifications successives,
+		- **(ii)** au règlement n<sup>o</sup> 20 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des projecteurs pour véhicules automobiles émettant un faisceau-croisement asymétrique et/ou un faisceau-route et équipés de lampes halogènes à incandescence (lampes H4), avec ses modifications successives,
+		- **(iii)** au règlement n<sup>o</sup> 31 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des projecteurs automobiles constitués par des blocs optiques halogènes (« sealed beam » unit) (bloc optique SBH) émettant un faisceau-croisement asymétrique et/ou un faisceau-route, avec ses modifications successives,
+		- **(iv)** du règlement n<sup>o</sup> 98 de la CEE, intitulé Dispositions uniformes concernant l’homologation des projecteurs de véhicules à moteur munis de sources lumineuses à décharge, avec ses modifications successives,
+		- **(v)** au règlement n<sup>o</sup> 112 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des projecteurs pour véhicules automobiles émettant un faisceau de croisement asymétrique ou un faisceau de route ou les deux à la fois et équipés de lampes à incandescence, avec ses modifications successives;
+	- **b)** qui, malgré les exigences des règlements de la CEE visés au présent article, sont réglés pour utilisation sur des véhicules conçus pour la circulation à droite de la route;
+	- **c)** émettent deux faisceaux-route et deux faisceaux-croisement;
+	- **d)** qui sont conformes :
 		- **(i)** aux dispositions S5.1.2, S5.5.9, S7.4(g) et (h), S7.8.2, S7.8.2.1(a) et (b), S7.8.2.2, S7.8.3, S7.8.4 et S7.8.5.1(c) du DNT 108,
-		- **(ii)** aux paragraphes 108(29) et, s’il y a lieu, (30);
-	- **e)
-** sont conformes aux exigences des articles 5.1.2, 5.1.4 et, le cas échéant, 5.1.6 de la norme J580 de la SAE, « *Sealed Beam Headlamp Assembly* » (décembre 1986);
-	- **f)
-** qui sont munis d’un type d’ampoule conforme :
-		- **(i)** à l’un des textes visés à l’alinéa 108(5)a) ou aux renseignements communiqués en application de l’alinéa 108(5)b),
+		- **(ii)** aux paragraphes 108(29) et, s’il y a lieu, (30);
+	- **e)** sont conformes aux exigences des articles 5.1.2, 5.1.4 et, le cas échéant, 5.1.6 de la norme J580 de la SAE, « *Sealed Beam Headlamp Assembly* » (décembre 1986);
+	- **f)** qui sont munis d’un type d’ampoule conforme :
+		- **(i)** à l’un des textes visés à l’alinéa 108(5)a) ou aux renseignements communiqués en application de l’alinéa 108(5)b),
 		- **(ii)** à la disposition S7.7 du DNT 108, à l’exclusion de l’obligation de porter le symbole « DOT » visé aux dispositions S7.7(a) et (e)(7);
-	- **g)
-** qui, lorsqu’ils sont allumés de façon continue, sont dépourvus d’enjoliveurs ou autres éléments, comme un capot translucide ou une grille, devant les lentilles.
+	- **g)** qui, lorsqu’ils sont allumés de façon continue, sont dépourvus d’enjoliveurs ou autres éléments, comme un capot translucide ou une grille, devant les lentilles.
 
-- **(2)** À la place des projecteurs exigés par l’article 108, les motocyclettes peuvent être munies de projecteurs qui émettent une lumière blanche et qui, à la fois :
-	- **a)
-** émettent un faisceau-route et un faisceau-croisement, ou deux faisceaux-route et deux faisceaux-croisement;
-	- **b)
-** respectent, selon le cas :
-		- **(i)** les sous-alinéas (1)a)(i) à (iii) et (v) et les alinéas (1)b) et d) à f),
-		- **(ii)** le règlement n<sup>o</sup> 57 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des projecteurs pour motocycles et véhicules y assimilés, avec ses modifications successives,
-		- **(iii)** le règlement n<sup>o</sup> 72 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des projecteurs pour motocycles émettant un faisceau-croisement asymétrique et un faisceau-route et équipés de lampes halogènes (Lampes HS1), avec ses modifications successives,
-		- **(iv)** le règlement n<sup>o</sup> 113 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des projecteurs pour véhicules automobiles émettant un faisceau de croisement symétrique ou un faisceau de route ou les deux à la fois et équipés de lampes à incandescence, avec ses modifications successives;
-	- **c)
-** respectent les paragraphes 108(12), (29) et, s’il y a lieu, (30).
+- **(2)** À la place des projecteurs exigés par l’article 108, les motocyclettes peuvent être munies de projecteurs qui émettent une lumière blanche et qui, à la fois :
+	- **a)** émettent un faisceau-route et un faisceau-croisement, ou deux faisceaux-route et deux faisceaux-croisement;
+	- **b)** respectent, selon le cas :
+		- **(i)** les sous-alinéas (1)a)(i) à (iii) et (v) et les alinéas (1)b) et d) à f),
+		- **(ii)** le règlement n<sup>o</sup> 57 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des projecteurs pour motocycles et véhicules y assimilés, avec ses modifications successives,
+		- **(iii)** le règlement n<sup>o</sup> 72 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des projecteurs pour motocycles émettant un faisceau-croisement asymétrique et un faisceau-route et équipés de lampes halogènes (Lampes HS1), avec ses modifications successives,
+		- **(iv)** le règlement n<sup>o</sup> 113 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des projecteurs pour véhicules automobiles émettant un faisceau de croisement symétrique ou un faisceau de route ou les deux à la fois et équipés de lampes à incandescence, avec ses modifications successives;
+	- **c)** respectent les paragraphes 108(12), (29) et, s’il y a lieu, (30).
 
 - **(3)** Au lieu de se conformer aux exigences des règlements de la CEE visés au présent article, les projecteurs qui sont installés sur un véhicule peuvent émettre une lumière blanche conforme à celle décrite dans la norme J578 de la SAE, intitulée *Color Specification* (mai 1988).
 
-- **(4)** Pour l’application du présent article, les exigences suivantes des règlements de la CEE visées aux paragraphes (1) et (2) ne s’appliquent pas :
-	- **a)
-** toute exigence relative au processus d’homologation;
-	- **b)
-** toute exigence relative aux inscriptions sur les projecteurs homologués;
-	- **c)
-** toute exigence relative :
+- **(4)** Pour l’application du présent article, les exigences suivantes des règlements de la CEE visées aux paragraphes (1) et (2) ne s’appliquent pas :
+	- **a)** toute exigence relative au processus d’homologation;
+	- **b)** toute exigence relative aux inscriptions sur les projecteurs homologués;
+	- **c)** toute exigence relative :
 		- **(i)** à la conformité de la production de projecteurs au type homologué,
 		- **(ii)** aux sanctions pour non-conformité de la production,
 		- **(iii)** à la modification d’un type de projecteur et à l’extension de l’homologation.
@@ -4400,37 +4306,31 @@ ou
 
 
 
-### Sélection des pneus et des jantes pour les véhicules automobiles d’un pnbv de 4 536 kg ou moins (norme 110)
+### Sélection des pneus et des jantes pour les véhicules automobiles d’un pnbv de 4 536 kg ou moins (norme 110)
 
 
 #### Disposition générale
 
 **110** 
 
-- **(1)** Les véhicules automobiles d’un PNBV de 4 536 kg ou moins — à l’exception des motocyclettes autres que les tricycles à moteur munis de pneus pour voiture de tourisme, des motocyclettes à usage restreint, des véhicules à trois roues munis de pneus qui ne sont pas des pneus pour voiture de tourisme, des véhicules importés temporairement à des fins spéciales et des véhicules à basse vitesse — et les jantes de pneu fabriquées pour être utilisées sur ces véhicules doivent être conformes aux exigences du Document de normes techniques no 110 — Sélection des pneus et des jantes pour les véhicules automobiles d’un PNBV de 4 536 kg ou moins (DNT 110), avec ses modifications successives.
+- **(1)** Les véhicules automobiles d’un PNBV de 4 536 kg ou moins — à l’exception des motocyclettes autres que les tricycles à moteur munis de pneus pour voiture de tourisme, des motocyclettes à usage restreint, des véhicules à trois roues munis de pneus qui ne sont pas des pneus pour voiture de tourisme, des véhicules importés temporairement à des fins spéciales et des véhicules à basse vitesse — et les jantes de pneu fabriquées pour être utilisées sur ces véhicules doivent être conformes aux exigences du Document de normes techniques no 110 — Sélection des pneus et des jantes pour les véhicules automobiles d’un PNBV de 4 536 kg ou moins (DNT 110), avec ses modifications successives.
 
-#### Document de normes techniques n<sup>o</sup> 110
+#### Document de normes techniques n<sup>o</sup> 110
 
 
 - **(2)** Sauf dans les cas prévus aux paragraphes (3) et (4), les renseignements précisés aux dispositions S4.3 et S4.3.5 du DNT 110 doivent figurer, au choix du fabricant :
-	- **a) 
-** soit dans les deux langues officielles sur une seule plaque du véhicule, comme l’illustre la figure 3, ou, si le fabricant choisit d’utiliser une étiquette de pression de gonflage des pneus, sur une seule plaque et une seule étiquette, comme l’illustrent les figures 3 et 6;
-	- **b) 
-** soit dans chaque langue officielle sur deux plaques du véhicule, comme l’illustrent les figures 1 et 2, ou, si le fabricant choisit d’utiliser une étiquette de pression de gonflage des pneus, sur deux plaques et deux étiquettes, comme l’illustrent les figures 1, 2, 4 et 5, lesquelles plaques et étiquettes sont apposées au même endroit sur le véhicule mais de façon séparée.
+	- **a)** soit dans les deux langues officielles sur une seule plaque du véhicule, comme l’illustre la figure 3, ou, si le fabricant choisit d’utiliser une étiquette de pression de gonflage des pneus, sur une seule plaque et une seule étiquette, comme l’illustrent les figures 3 et 6;
+	- **b)** soit dans chaque langue officielle sur deux plaques du véhicule, comme l’illustrent les figures 1 et 2, ou, si le fabricant choisit d’utiliser une étiquette de pression de gonflage des pneus, sur deux plaques et deux étiquettes, comme l’illustrent les figures 1, 2, 4 et 5, lesquelles plaques et étiquettes sont apposées au même endroit sur le véhicule mais de façon séparée.
 
 - **(3)** Le renseignement qui est précisé à la disposition S4.3f) du DNT 110 et qui figure sur la plaque du véhicule et, au choix du fabricant, sur l’étiquette de pression de gonflage des pneus, conformément à l’alinéa (2)a), doit figurer, selon le cas :
-	- **a) 
-** dans la forme du symbole numéro N.03 pour le Manuel de l’utilisateur, mode d’emploi, figurant dans la norme internationale ISO 2575, intitulée Véhicules routiers — Symboles pour les commandes, indicateurs et témoins, 7<sup>e</sup> édition, 1<sup>er</sup> mai 2004;
-	- **b) 
-** dans les deux langues officielles sur une seule plaque, comme l’illustre la figure 3, ou sur une seule plaque et une seule étiquette, comme l’illustrent les figures 3 et 6.
+	- **a)** dans la forme du symbole numéro N.03 pour le Manuel de l’utilisateur, mode d’emploi, figurant dans la norme internationale ISO 2575, intitulée Véhicules routiers — Symboles pour les commandes, indicateurs et témoins, 7<sup>e</sup> édition, 1<sup>er</sup> mai 2004;
+	- **b)** dans les deux langues officielles sur une seule plaque, comme l’illustre la figure 3, ou sur une seule plaque et une seule étiquette, comme l’illustrent les figures 3 et 6.
 
 - **(4)** Le renseignement qui est précisé à la disposition S4.3f) du DNT 110 et qui figure sur la plaque du véhicule et, au choix du fabricant, sur l’étiquette de pression de gonflage des pneus, conformément à l’alinéa (2)b), doit figurer, selon le cas :
-	- **a) 
-** dans la forme du symbole numéro N.03 précisé à l’alinéa (3)a);
-	- **b) 
-** dans chaque langue officielle sur deux plaques, comme l’illustrent les figures 1 et 2, ou sur deux plaques et deux étiquettes, comme l’illustrent les figures 1, 2, 4 et 5, lesquelles plaques et étiquettes sont apposées au même endroit sur le véhicule mais de façon séparée.
+	- **a)** dans la forme du symbole numéro N.03 précisé à l’alinéa (3)a);
+	- **b)** dans chaque langue officielle sur deux plaques, comme l’illustrent les figures 1 et 2, ou sur deux plaques et deux étiquettes, comme l’illustrent les figures 1, 2, 4 et 5, lesquelles plaques et étiquettes sont apposées au même endroit sur le véhicule mais de façon séparée.
 
-- **(5)** La mention « Voir le manuel de l’usager pour plus de renseignements » de la version française du renseignement précisé à la disposition S4.3f) du DNT 110 peut être remplacée, au choix du fabricant, par la mention « Voir le guide du propriétaire pour plus de renseignements », « Voir le manuel du propriétaire pour plus de renseignements » ou « Voir le guide de l’automobiliste pour plus de renseignements ».
+- **(5)** La mention « Voir le manuel de l’usager pour plus de renseignements » de la version française du renseignement précisé à la disposition S4.3f) du DNT 110 peut être remplacée, au choix du fabricant, par la mention « Voir le guide du propriétaire pour plus de renseignements », « Voir le manuel du propriétaire pour plus de renseignements » ou « Voir le guide de l’automobiliste pour plus de renseignements ».
 
 - **(6)** Les renseignements précisés à la disposition S4.3.3 du DNT 110 doivent être dans les deux langues officielles.
 
@@ -4438,12 +4338,9 @@ ou
 
 ***base de jante*** Partie restante de la jante après l’enlèvement de tous les rebords, joues latérales et anneaux de verrouillage, en une ou plusieurs pièces, qui peuvent se détacher de la jante. (*rim base*) 
 
-
 ***charge nominale*** La charge maximale attribuée à un pneu pour une pression de gonflage donnée. (*load rating*) 
 
-
 ***limite de charge nominale*** La charge nominale d’un pneu à la pression maximale permise de gonflage de celui-ci. (*maximum load rating*) 
-
 
 #### Symbole d’identification de la limite de charge
 
@@ -4476,20 +4373,14 @@ ou
 **111** 
 
 - **(1)** Les miroirs visés au présent article qui sont installés sur ou dans un véhicule doivent :
-	- **a)
-** être installés sur un support stable;
-	- **b)
-** pouvoir être orientés tant en direction horizontale qu’en direction verticale;
-	- **c)
-** être des miroirs plans, sauf dans les cas prévus au paragraphe (6), à l’alinéa (13)b) et au paragraphe (16);
-	- **d)
-** être sans arêtes pointues et rebords tranchants susceptibles de blesser un occupant du véhicule ou un piéton;
-	- **e)
-** être installés de façon que le champ de visibilité du conducteur dans le miroir ne soit pas obstrué par la partie du pare-brise qui n’est pas balayée par les essuie-glaces ou une partie opaque de la structure du véhicule, sauf dans le cas d’un miroir du système B installé sur un autobus scolaire de type à cabine avancée;
-	- **f)
-** dans le cas de rétroviseurs extérieurs, être installés de façon que leur extension au-delà du périmètre du véhicule ne soit pas supérieure à ce qui est nécessaire pour satisfaire aux exigences relatives au champ de visibilité du miroir selon ce qui est prévu au présent article.
+	- **a)** être installés sur un support stable;
+	- **b)** pouvoir être orientés tant en direction horizontale qu’en direction verticale;
+	- **c)** être des miroirs plans, sauf dans les cas prévus au paragraphe (6), à l’alinéa (13)b) et au paragraphe (16);
+	- **d)** être sans arêtes pointues et rebords tranchants susceptibles de blesser un occupant du véhicule ou un piéton;
+	- **e)** être installés de façon que le champ de visibilité du conducteur dans le miroir ne soit pas obstrué par la partie du pare-brise qui n’est pas balayée par les essuie-glaces ou une partie opaque de la structure du véhicule, sauf dans le cas d’un miroir du système B installé sur un autobus scolaire de type à cabine avancée;
+	- **f)** dans le cas de rétroviseurs extérieurs, être installés de façon que leur extension au-delà du périmètre du véhicule ne soit pas supérieure à ce qui est nécessaire pour satisfaire aux exigences relatives au champ de visibilité du miroir selon ce qui est prévu au présent article.
 
-- **(2)** Le rétroviseur visé aux paragraphes (7) ou (11) ou à l’alinéa (26)a) doit être orientable à partir de l’intérieur de l’habitacle.
+- **(2)** Le rétroviseur visé aux paragraphes (7) ou (11) ou à l’alinéa (26)a) doit être orientable à partir de l’intérieur de l’habitacle.
 
 - **(3)** La réflectance moyenne des miroirs visés au présent article est déterminée aux termes de la norme J964 de la SAE, intitulée *Test Procedure for Determining Reflectivity of Rear View Mirrors*, (juin 1992).
 
@@ -4497,59 +4388,45 @@ ou
 
 - **(5)** Les miroirs visés au présent article qui ont un facteur de réflexion multiple doivent avoir un indice de réflectance de jour d’au moins 35 pour cent et un indice de réflectance de nuit d’au moins 4 pour cent. En cas de panne électrique, les miroirs à facteur de réflexion multiple doivent pouvoir être remis, soit manuellement, soit automatiquement, à un indice de réflectance d’au moins 35 pour cent.
 
-- **(6)** Le rétroviseur extérieur situé du côté opposé à celui du conducteur qui est visé à l’alinéa (7)b) ou aux paragraphes (26) ou (27) peut être convexe pourvu que les conditions suivantes soient respectées :
-	- **a)
-** la surface réfléchissante est au moins égale à celle que doit avoir un miroir plan aux termes de cet alinéa ou du paragraphe en question;
-	- **b)
-** le rayon de courbure moyen n’est pas inférieur à 890 mm (35 po) ni supérieur à 1 800 mm (71,5 po);
-	- **c)
-** le rayon de courbure en tout point ne varie pas de plus de 12,5 pour cent de la moyenne de cinq mesures de rayon de courbure prises sur la surface réfléchissante à au moins 6 mm (0,25 po) du contour de l’image réfléchie.
+- **(6)** Le rétroviseur extérieur situé du côté opposé à celui du conducteur qui est visé à l’alinéa (7)b) ou aux paragraphes (26) ou (27) peut être convexe pourvu que les conditions suivantes soient respectées :
+	- **a)** la surface réfléchissante est au moins égale à celle que doit avoir un miroir plan aux termes de cet alinéa ou du paragraphe en question;
+	- **b)** le rayon de courbure moyen n’est pas inférieur à 890 mm (35 po) ni supérieur à 1 800 mm (71,5 po);
+	- **c)** le rayon de courbure en tout point ne varie pas de plus de 12,5 pour cent de la moyenne de cinq mesures de rayon de courbure prises sur la surface réfléchissante à au moins 6 mm (0,25 po) du contour de l’image réfléchie.
 
 #### Voitures de tourisme et véhicules à trois roues
 > [DORS/2003-272, art. 13]
 
 
 
-- **(7)** Dans les voitures de tourisme ainsi que les véhicules à trois roues, un rétroviseur intérieur doit être installé et, dans les conditions prévues au paragraphe (8), doit :
-	- **a)
-** soit assurer au conducteur un champ de visibilité arrière qui :
+- **(7)** Dans les voitures de tourisme ainsi que les véhicules à trois roues, un rétroviseur intérieur doit être installé et, dans les conditions prévues au paragraphe (8), doit :
+	- **a)** soit assurer au conducteur un champ de visibilité arrière qui :
 		- **(i)** couvre un angle minimal de 20º mesuré horizontalement vers l’arrière à partir de la projection du point de vision,
 		- **(ii)** s’étend jusqu’à l’horizon et comprend un point de la chaussée situé à une distance d’au plus 60 m (200 pi) directement à l’arrière du véhicule;
-	- **b)
-** soit, dans le cas où le rétroviseur intérieur ne procure pas le champ de visibilité arrière exigé par l’alinéa a), être accompagné d’un rétroviseur extérieur, du côté opposé à celui du conducteur, dont la surface réfléchissante est d’au moins 90 pour cent de celle du miroir installé aux termes du paragraphe (11).
+	- **b)** soit, dans le cas où le rétroviseur intérieur ne procure pas le champ de visibilité arrière exigé par l’alinéa a), être accompagné d’un rétroviseur extérieur, du côté opposé à celui du conducteur, dont la surface réfléchissante est d’au moins 90 pour cent de celle du miroir installé aux termes du paragraphe (11).
 
-- **(8)** Pour l’application du paragraphe (7), les véhicules doivent reposer sur une surface au niveau et transporter, selon la moins lourde des charges suivantes et compte tenue que le conducteur et les autres occupants ont un poids individuel de 68 kg (150 lb) :
-	- **a)
-** un conducteur et quatre autres occupants;
-	- **b)
-** un occupant à chaque place assise désignée.
+- **(8)** Pour l’application du paragraphe (7), les véhicules doivent reposer sur une surface au niveau et transporter, selon la moins lourde des charges suivantes et compte tenue que le conducteur et les autres occupants ont un poids individuel de 68 kg (150 lb) :
+	- **a)** un conducteur et quatre autres occupants;
+	- **b)** un occupant à chaque place assise désignée.
 
-- **(9)** Le champ de visibilité arrière décrit à l’alinéa (7)a) peut être partiellement obstrué par les occupants assis de même que par les appuie-têtes.
+- **(9)** Le champ de visibilité arrière décrit à l’alinéa (7)a) peut être partiellement obstrué par les occupants assis de même que par les appuie-têtes.
 
-- **(10)** Le rétroviseur intérieur visé au paragraphe (7) ne peut pas, dans les cas où il est situé dans la région d’impact de la tête, s’incurver, s’enfoncer ou se briser de façon à laisser des arêtes pointues lorsqu’est appliquée, sur la surface réfléchissante de ce rétroviseur, une force de 400 N (90 lb), peu importe la direction d’application de cette force pourvu qu’elle soit à un angle d’au plus 45° de l’axe longitudinal avant.
+- **(10)** Le rétroviseur intérieur visé au paragraphe (7) ne peut pas, dans les cas où il est situé dans la région d’impact de la tête, s’incurver, s’enfoncer ou se briser de façon à laisser des arêtes pointues lorsqu’est appliquée, sur la surface réfléchissante de ce rétroviseur, une force de 400 N (90 lb), peu importe la direction d’application de cette force pourvu qu’elle soit à un angle d’au plus 45° de l’axe longitudinal avant.
 
 - **(11)** Un rétroviseur extérieur doit être installé sur les voitures de tourisme et les véhicules à trois roues, du côté du conducteur, de manière à assurer à ce dernier, sur une surface au niveau, un champ de visibilité arrière qui :
-	- **a)
-** peut être partiellement obstrué par la carrosserie ou l’aile arrière;
-	- **b)
-** s’étend jusqu’à l’horizon;
-	- **c)
-** comprend une ligne de 2,5 m (8 pi) tracée, vers l’extérieur et perpendiculairement à un plan vertical longitudinal tangent au côté du conducteur, à la partie la plus large du véhicule, à un point situé à l’arrière à 10,6 m (35 pi) des yeux du conducteur lorsqu’il est assis et que son siège est reculé au maximum.
+	- **a)** peut être partiellement obstrué par la carrosserie ou l’aile arrière;
+	- **b)** s’étend jusqu’à l’horizon;
+	- **c)** comprend une ligne de 2,5 m (8 pi) tracée, vers l’extérieur et perpendiculairement à un plan vertical longitudinal tangent au côté du conducteur, à la partie la plus large du véhicule, à un point situé à l’arrière à 10,6 m (35 pi) des yeux du conducteur lorsqu’il est assis et que son siège est reculé au maximum.
 
-- **(12)** Pour l’application des paragraphes (7), (9) et (11), le champ de visibilité arrière du conducteur est évalué à partir :
-	- **a)
-** soit de la position des points de référence des yeux du conducteur, compte tenu de la limite tangentielle du 95<sup>e</sup> percentile en conformité avec la pratique recommandée J941a de la SAE, intitulée *Passenger Car Driver’s Eye Range*, (août 1967);
-	- **b)
-** soit d’une position nominale des points de référence des yeux du conducteur, convenant à tout conducteur du 95<sup>e</sup> percentile adulte du sexe masculin.
+- **(12)** Pour l’application des paragraphes (7), (9) et (11), le champ de visibilité arrière du conducteur est évalué à partir :
+	- **a)** soit de la position des points de référence des yeux du conducteur, compte tenu de la limite tangentielle du 95<sup>e</sup> percentile en conformité avec la pratique recommandée J941a de la SAE, intitulée *Passenger Car Driver’s Eye Range*, (août 1967);
+	- **b)** soit d’une position nominale des points de référence des yeux du conducteur, convenant à tout conducteur du 95<sup>e</sup> percentile adulte du sexe masculin.
 
 #### Motocyclettes
 
 
 - **(13)** Les motocyclettes doivent être munies d’un des rétroviseurs suivants, installé de chaque côté de manière que le centre horizontal de chaque surface réfléchissante soit situé à au moins 280 mm (11 po) à l’extérieur de l’axe longitudinal de la motocyclette :
-	- **a)
-** un rétroviseur ayant une surface réfléchissante d’au moins 80 cm<sup>2</sup> (12,5 po<sup>2</sup>);
-	- **b)
-** un rétroviseur convexe ayant une surface réfléchissante d’au moins 64,5 cm<sup>2</sup> (10 po<sup>2</sup>) et un rayon de courbure moyen d’au moins 510 mm (20 po) et d’au plus 1 800 mm (71,5 po).
+	- **a)** un rétroviseur ayant une surface réfléchissante d’au moins 80 cm<sup>2</sup> (12,5 po<sup>2</sup>);
+	- **b)** un rétroviseur convexe ayant une surface réfléchissante d’au moins 64,5 cm<sup>2</sup> (10 po<sup>2</sup>) et un rayon de courbure moyen d’au moins 510 mm (20 po) et d’au plus 1 800 mm (71,5 po).
 
 #### Autobus scolaires
 
@@ -4557,135 +4434,102 @@ ou
 ##### Dispositions générales
 
 
-- **(14)** Pour l’application des paragraphes (16) à (25), la position de l’oeil du conducteur doit être représentée par les points de vision de gauche et de droite tels qu’ils sont définis dans la pratique recommandée J1050 de la SAE, intitulée *Describing and Measuring the Driver’s Field of View* (août 1994), et doit se trouver à n’importe quel endroit dans l’aire définie par l’« **eyellipse** » du 95<sup>e</sup> percentile conformément à la pratique recommandée J941 de la SAE, intitulée *Motor Vehicle Drivers’ Eye Locations* (juin 1997), compte tenu des adaptations suivantes :
-	- **a)
-** un ratio homme/femme de 50/50 doit être utilisé lorsqu’il est fait mention de « *male/female mix* »;
-	- **b)
-** le terme « *heel point* » visé dans cette pratique recommandée et dans toute autre publication qui y est mentionnée s’entend d’« *accelerator heel point (AHP)* », au sens de l’article 3.16.1 de la pratique recommandée J1100 de la SAE intitulée *Motor Vehicle Dimensions* (février 2001), et la position du *heel point* est celle établie par le fabricant.
-	- **c)
-** [Abrogé, DORS/2008-72, art. 2]
+- **(14)** Pour l’application des paragraphes (16) à (25), la position de l’oeil du conducteur doit être représentée par les points de vision de gauche et de droite tels qu’ils sont définis dans la pratique recommandée J1050 de la SAE, intitulée *Describing and Measuring the Driver’s Field of View* (août 1994), et doit se trouver à n’importe quel endroit dans l’aire définie par l’« *eyellipse* » du 95<sup>e</sup> percentile conformément à la pratique recommandée J941 de la SAE, intitulée *Motor Vehicle Drivers’ Eye Locations* (juin 1997), compte tenu des adaptations suivantes :
+	- **a)** un ratio homme/femme de 50/50 doit être utilisé lorsqu’il est fait mention de « *male/female mix* »;
+	- **b)** le terme « *heel point* » visé dans cette pratique recommandée et dans toute autre publication qui y est mentionnée s’entend d’« *accelerator heel point (AHP)* », au sens de l’article 3.16.1 de la pratique recommandée J1100 de la SAE intitulée *Motor Vehicle Dimensions* (février 2001), et la position du *heel point* est celle établie par le fabricant.
+	- **c)** [Abrogé, DORS/2008-72, art. 2]
 
-- **(15)** Pour l’application des paragraphes (16) à (25) :
-	- **a)
-** les cylindres A, D et E ont une hauteur de 0,305 m (1 pi) et un diamètre de 0,305 m (1 pi);
-	- **b)
-** les cylindres B et C ont une hauteur de 0,915 m (3 pi) et un diamètre de 0,305 m (1 pi);
-	- **c)
-** les cylindres A, B, C, D et E sont d’une couleur qui contraste nettement avec la chaussée sur laquelle l’autobus est stationné.
+- **(15)** Pour l’application des paragraphes (16) à (25) :
+	- **a)** les cylindres A, D et E ont une hauteur de 0,305 m (1 pi) et un diamètre de 0,305 m (1 pi);
+	- **b)** les cylindres B et C ont une hauteur de 0,915 m (3 pi) et un diamètre de 0,305 m (1 pi);
+	- **c)** les cylindres A, B, C, D et E sont d’une couleur qui contraste nettement avec la chaussée sur laquelle l’autobus est stationné.
 
 ##### Exigences
 
 
 - **(16)** Les autobus scolaires doivent être munis des deux systèmes de miroirs extérieurs suivants :
-	- **a)
-** le système A, qui est composé d’un miroir plan conforme au paragraphe (18) et d’un miroir convexe conforme au paragraphe (19), installés de chaque côté de l’autobus;
-	- **b)
-** le système B, qui est constitué d’un miroir convexe conforme aux paragraphes (20) à (24), installé de chaque côté de l’autobus.
+	- **a)** le système A, qui est composé d’un miroir plan conforme au paragraphe (18) et d’un miroir convexe conforme au paragraphe (19), installés de chaque côté de l’autobus;
+	- **b)** le système B, qui est constitué d’un miroir convexe conforme aux paragraphes (20) à (24), installé de chaque côté de l’autobus.
 
-- **(17)** Les miroirs des systèmes A et B doivent être conformes aux dispositions visées au paragraphe (16) à toute position de l’oeil du conducteur lorsqu’ils sont ajustés selon les recommandations du fabricant.
+- **(17)** Les miroirs des systèmes A et B doivent être conformes aux dispositions visées au paragraphe (16) à toute position de l’oeil du conducteur lorsqu’ils sont ajustés selon les recommandations du fabricant.
 
-- **(18)** Chaque miroir plan du système A doit comporter une surface réfléchissante qui ne peut être inférieure à 325 cm<sup>2</sup> (50 po<sup>2</sup>) et qui fournit, à la position de l’oeil du conducteur, un champ de visibilité comprenant une vue continue de la chaussée et du côté de l’autobus, vers l’arrière, laquelle vue ne peut pas commencer à plus de 60 m (200 pi) de la surface du miroir et doit s’étendre jusqu’à l’horizon lorsque l’autobus repose sur une surface au niveau (voir figure 1).
+- **(18)** Chaque miroir plan du système A doit comporter une surface réfléchissante qui ne peut être inférieure à 325 cm<sup>2</sup> (50 po<sup>2</sup>) et qui fournit, à la position de l’oeil du conducteur, un champ de visibilité comprenant une vue continue de la chaussée et du côté de l’autobus, vers l’arrière, laquelle vue ne peut pas commencer à plus de 60 m (200 pi) de la surface du miroir et doit s’étendre jusqu’à l’horizon lorsque l’autobus repose sur une surface au niveau (voir figure 1).
 
-- **(19)** Chaque miroir convexe du système A doit :
-	- **a)
-** fournir, à la position de l’oeil du conducteur, un champ de visibilité comprenant les vues continues et complètes suivantes (voir figure 1) :
+- **(19)** Chaque miroir convexe du système A doit :
+	- **a)** fournir, à la position de l’oeil du conducteur, un champ de visibilité comprenant les vues continues et complètes suivantes (voir figure 1) :
 		- **(i)** une vue vers l’arrière,
-		- **(ii)** une vue de la chaussée qui croise le champ de visibilité fourni par le miroir plan visé au paragraphe (18),
+		- **(ii)** une vue de la chaussée qui croise le champ de visibilité fourni par le miroir plan visé au paragraphe (18),
 		- **(iii)** une vue du côté de l’autobus,
-		- **(iv)** dans le cas du miroir situé du côté opposé à celui du conducteur, une vue des cylindres B et D placés conformément au paragraphe (25),
-		- **(v)** dans le cas du miroir situé du côté du conducteur, une vue des cylindres C et E placés conformément au paragraphe (25);
-	- **b)
-** avoir un rayon de courbure moyen d’au moins 482 mm (19 po);
-	- **c)
-** avoir un rayon de courbure qui en tout point ne varie pas de plus de 12,5 pour cent de la moyenne de cinq mesures de rayons de courbure prises à au moins 6 mm (0,25 po) du contour de la surface réfléchissante.
+		- **(iv)** dans le cas du miroir situé du côté opposé à celui du conducteur, une vue des cylindres B et D placés conformément au paragraphe (25),
+		- **(v)** dans le cas du miroir situé du côté du conducteur, une vue des cylindres C et E placés conformément au paragraphe (25);
+	- **b)** avoir un rayon de courbure moyen d’au moins 482 mm (19 po);
+	- **c)** avoir un rayon de courbure qui en tout point ne varie pas de plus de 12,5 pour cent de la moyenne de cinq mesures de rayons de courbure prises à au moins 6 mm (0,25 po) du contour de la surface réfléchissante.
 
 - **(20)** Chaque miroir du système B doit être installé de façon que :
-	- **a)
-** la distance entre la position de l’oeil du conducteur et le centre du miroir soit d’au moins 95,25 cm (37,5 po);
-	- **b)
-** la pente de la surface du miroir ne présente aucune discontinuité.
+	- **a)** la distance entre la position de l’oeil du conducteur et le centre du miroir soit d’au moins 95,25 cm (37,5 po);
+	- **b)** la pente de la surface du miroir ne présente aucune discontinuité.
 
-- **(21)** Chaque miroir du système B doit fournir, à la position de l’oeil du conducteur, un champ de visibilité comprenant les vues continues et complètes suivantes (voir figure 1) :
-	- **a)
-** une vue de la chaussée, à partir du pare-chocs avant vers l’avant, jusqu’à un point de vision directe;
-	- **b)
-** une vue de la chaussée et du côté de l’autobus, à partir du pare-chocs avant vers l’arrière, qui s’étend vers le champ de visibilité fourni par le miroir convexe du système A et qui le croise;
-	- **c)
-** dans le cas du miroir situé du côté opposé à celui du conducteur, une vue des cylindres A et B placés conformément au paragraphe (25);
-	- **d)
-** dans le cas du miroir situé du côté du conducteur, une vue des cylindres A et C placés conformément au paragraphe (25).
+- **(21)** Chaque miroir du système B doit fournir, à la position de l’oeil du conducteur, un champ de visibilité comprenant les vues continues et complètes suivantes (voir figure 1) :
+	- **a)** une vue de la chaussée, à partir du pare-chocs avant vers l’avant, jusqu’à un point de vision directe;
+	- **b)** une vue de la chaussée et du côté de l’autobus, à partir du pare-chocs avant vers l’arrière, qui s’étend vers le champ de visibilité fourni par le miroir convexe du système A et qui le croise;
+	- **c)** dans le cas du miroir situé du côté opposé à celui du conducteur, une vue des cylindres A et B placés conformément au paragraphe (25);
+	- **d)** dans le cas du miroir situé du côté du conducteur, une vue des cylindres A et C placés conformément au paragraphe (25).
 
-- **(22)** Les images des cylindres A, B et C, placés conformément au paragraphe (25), qui sont réfléchies par les miroirs du système B doivent respecter les exigences suivantes :
-	- **a)
-** la plus petite largeur angulaire de l’image ne doit pas être inférieure à 3 minutes d’arc, mesurée à l’aide de la formule suivante :
+- **(22)** Les images des cylindres A, B et C, placés conformément au paragraphe (25), qui sont réfléchies par les miroirs du système B doivent respecter les exigences suivantes :
+	- **a)** la plus petite largeur angulaire de l’image ne doit pas être inférieure à 3 minutes d’arc, mesurée à l’aide de la formule suivante :
 ```
 X/D ≥ 0,000873
 ```
 où :
 - **X** représente la largeur de l’image du cylindre sur la surface réfléchissante,
 - **D** la distance entre le point central de la position de l’oeil du conducteur et le centre de la surface réfléchissante,
-- **0,000873** la tangente de 3 minutes d’arc;
-	- **b)
-** la plus petite longueur angulaire de l’image ne doit pas être inférieure à 9 minutes d’arc, mesurée à l’aide de la formule suivante :
+- **0,000873** la tangente de 3 minutes d’arc;
+	- **b)** la plus petite longueur angulaire de l’image ne doit pas être inférieure à 9 minutes d’arc, mesurée à l’aide de la formule suivante :
 ```
 Y/D ≥ 0,002618
 ```
 où :
 - **Y** représente la longueur de l’image du cylindre sur la surface réfléchissante,
 - **D** la distance entre le point central de la position de l’oeil du conducteur et le centre de la surface réfléchissante,
-- **0,002618** la tangente de 9 minutes d’arc.
+- **0,002618** la tangente de 9 minutes d’arc.
 
-- **(23)** Pour l’application du paragraphe (22), un tableau de comparaison semblable à celui prévu par la figure 2 peut être utilisé pour mesurer la largeur et la longueur angulaire de l’image du cylindre lorsque :
-	- **a)
-** le tableau de comparaison est placé dans un plan vertical qui contient l’image à évaluer;
-	- **b)
-** le plan du tableau de comparaison est perpendiculaire à la ligne de vision;
-	- **c)
-** l’image du cylindre et le tableau de comparaison sont visibles dans l’objectif de l’appareil photographique ou la caméra vidéo;
-	- **d)
-** une photo est prise à la position de l’oeil du conducteur;
-	- **e)
-** l’image du cylindre est plus grande que les images de référence illustrées sur le tableau de comparaison.
+- **(23)** Pour l’application du paragraphe (22), un tableau de comparaison semblable à celui prévu par la figure 2 peut être utilisé pour mesurer la largeur et la longueur angulaire de l’image du cylindre lorsque :
+	- **a)** le tableau de comparaison est placé dans un plan vertical qui contient l’image à évaluer;
+	- **b)** le plan du tableau de comparaison est perpendiculaire à la ligne de vision;
+	- **c)** l’image du cylindre et le tableau de comparaison sont visibles dans l’objectif de l’appareil photographique ou la caméra vidéo;
+	- **d)** une photo est prise à la position de l’oeil du conducteur;
+	- **e)** l’image du cylindre est plus grande que les images de référence illustrées sur le tableau de comparaison.
 
-- **(24)** Les images réfléchies dans les miroirs du système B ne doivent pas être situées à moins de 3 minutes d’arc du bord de la surface réfléchissante, lorsqu’elles sont mesurées à la position de l’oeil du conducteur.
+- **(24)** Les images réfléchies dans les miroirs du système B ne doivent pas être situées à moins de 3 minutes d’arc du bord de la surface réfléchissante, lorsqu’elles sont mesurées à la position de l’oeil du conducteur.
 
 ##### Mise à l’essai
 
 
 - **(25)** Les miroirs des systèmes A et B doivent être mis à l’essai de la façon suivante :
-	- **a)
-** les cylindres A, B, C, D et E sont placés aux endroits suivants, les mesures étant prises à partir du centre du cylindre, vu d’en haut (voir figure 1) :
+	- **a)** les cylindres A, B, C, D et E sont placés aux endroits suivants, les mesures étant prises à partir du centre du cylindre, vu d’en haut (voir figure 1) :
 		- **(i)** le cylindre A est placé en avant de l’autobus de façon que son centre coïncide avec l’axe longitudinal de l’autobus et que le dessus soit directement visible, à travers la partie du pare-brise balayée par les essuie-glaces, de la position de l’oeil du conducteur,
-		- **(ii)** le cylindre B est placé du côté opposé à celui du conducteur, à un endroit où il est complètement visible par le miroir convexe des systèmes A et B situés sur ce côté, de façon que son centre passe par un plan vertical qui se trouve à 2 m (6,6 pi) à droite du plan vertical tangent à la surface la plus à l’extérieur de l’autobus et est perpendiculaire à ce plan,
-		- **(iii)** le cylindre C est placé du côté du conducteur, à un endroit où il est complètement visible par le miroir convexe des systèmes A et B situés de ce côté, de façon que son centre passe par un plan vertical qui se trouve à 2 m (6,6 pi) à gauche du plan vertical tangent à la surface la plus à l’extérieur de l’autobus et est perpendiculaire à ce plan,
+		- **(ii)** le cylindre B est placé du côté opposé à celui du conducteur, à un endroit où il est complètement visible par le miroir convexe des systèmes A et B situés sur ce côté, de façon que son centre passe par un plan vertical qui se trouve à 2 m (6,6 pi) à droite du plan vertical tangent à la surface la plus à l’extérieur de l’autobus et est perpendiculaire à ce plan,
+		- **(iii)** le cylindre C est placé du côté du conducteur, à un endroit où il est complètement visible par le miroir convexe des systèmes A et B situés de ce côté, de façon que son centre passe par un plan vertical qui se trouve à 2 m (6,6 pi) à gauche du plan vertical tangent à la surface la plus à l’extérieur de l’autobus et est perpendiculaire à ce plan,
 		- **(iv)** le cylindre D est placé du côté opposé à celui du conducteur, de façon que son centre passe par un plan vertical qui coïncide avec l’axe des essieux arrière de l’autobus et est à 2 m (6,6 pi) à droite de la surface la plus à l’extérieur de l’autobus,
 		- **(v)** le cylindre E est placé du côté du conducteur, de façon que son centre passe par un plan vertical qui coïncide avec l’axe des essieux arrière de l’autobus et est à 2 m (6,6 pi) à gauche de la surface la plus à l’extérieur de l’autobus;
-	- **b)
-** les miroirs sont réglés conformément aux recommandations du fabricant à la position de l’oeil du conducteur et ne peuvent être déplacés ou réglés au cours des essais visant cette position, mais ils peuvent être réglés au cours d’essais ultérieurs visant des positions de l’oeil différentes;
-	- **c)
-** un appareil photographique ou une caméra vidéo est placé de façon que son plan image soit situé au point de vision du conducteur de manière que la surface réfléchissante soit visible par l’appareil photographique ou la caméra vidéo à travers les fenêtres de l’autobus;
-	- **d)
-** les exigences des paragraphes (16) à (25) sont respectées à l’égard d’une position donnée de l’oeil du conducteur lorsque l’appareil photographique ou la caméra vidéo est placé du côté gauche ou du côté droit du point de vision;
-	- **e)
-** l’appareil photographique ou la caméra vidéo est supporté de façon à permettre la rotation suivante :
+	- **b)** les miroirs sont réglés conformément aux recommandations du fabricant à la position de l’oeil du conducteur et ne peuvent être déplacés ou réglés au cours des essais visant cette position, mais ils peuvent être réglés au cours d’essais ultérieurs visant des positions de l’oeil différentes;
+	- **c)** un appareil photographique ou une caméra vidéo est placé de façon que son plan image soit situé au point de vision du conducteur de manière que la surface réfléchissante soit visible par l’appareil photographique ou la caméra vidéo à travers les fenêtres de l’autobus;
+	- **d)** les exigences des paragraphes (16) à (25) sont respectées à l’égard d’une position donnée de l’oeil du conducteur lorsque l’appareil photographique ou la caméra vidéo est placé du côté gauche ou du côté droit du point de vision;
+	- **e)** l’appareil photographique ou la caméra vidéo est supporté de façon à permettre la rotation suivante :
 		- **(i)** sur les plans vertical et horizontal, son plan image ne dépasse pas les limites maximales permises de rotation de l’oeil précisées dans la pratique recommandée J1050 de la SAE, intitulée *Describing and Measuring the Driver’s Field of View* (août 1994),
 		- **(ii)** sur la plan horizontal, son plan image ne dépasse pas la limite maximale permise de rotation du cou précisée dans la pratique recommandée J1050 de la SAE, au point correspondant au point de pivotement du cou tel qu’il est précisé dans cette pratique recommandée, et ce, seulement après que les limites maximales de rotation de l’oeil ont été atteintes;
-	- **f)
-** les prises de vue de l’appareil photographique ou de la caméra vidéo sont faites quand la porte de service de l’autobus est fermée et le bras du signal d’arrêt est complètement rétracté;
-	- **g)
-** pour l’application du paragraphe (21), le pare-chocs avant corespond à la partie courbe la plus avancée du pare-chocs, à l’exclusion des dispositifs de fermeture, des butoirs de pare-chocs distincts en saillie et, le cas échéant, des accessoires fixés tels que les bras d’éloignement, qui doivent être enlevés avant les essais.
+	- **f)** les prises de vue de l’appareil photographique ou de la caméra vidéo sont faites quand la porte de service de l’autobus est fermée et le bras du signal d’arrêt est complètement rétracté;
+	- **g)** pour l’application du paragraphe (21), le pare-chocs avant corespond à la partie courbe la plus avancée du pare-chocs, à l’exclusion des dispositifs de fermeture, des butoirs de pare-chocs distincts en saillie et, le cas échéant, des accessoires fixés tels que les bras d’éloignement, qui doivent être enlevés avant les essais.
 
 #### Autres véhicules
 
 
 - **(26)** Les véhicules de tourisme à usages multiples, les camions et les autobus sauf les autobus scolaires, dont le PNBV est d’au plus 4 536 kg (10 000 lb), doivent être munis :
-	- **a)
-** soit des rétroviseurs suivants :
-		- **(i)** un rétroviseur intérieur conforme aux exigences des paragraphes (7), (9) et (10),
-		- **(ii)** du côté du conducteur, un rétroviseur extérieur dont le champ de visibilité est conforme aux exigences du paragraphe (11),
+	- **a)** soit des rétroviseurs suivants :
+		- **(i)** un rétroviseur intérieur conforme aux exigences des paragraphes (7), (9) et (10),
+		- **(ii)** du côté du conducteur, un rétroviseur extérieur dont le champ de visibilité est conforme aux exigences du paragraphe (11),
 		- **(iii)** du côté opposé à celui du conducteur, un rétroviseur extérieur dont la surface réfléchissante est d’au moins 90 pour cent de celle du rétroviseur extérieur installé du côté du conducteur;
-	- **b)
-** soit d’un rétroviseur extérieur, installé de chaque côté du véhicule, dont au moins 125 cm<sup>2</sup> (19,5 po<sup>2</sup>) de la surface réfléchissante sont situés de façon à assurer au conducteur une vue arrière le long de chaque côté du véhicule.
+	- **b)** soit d’un rétroviseur extérieur, installé de chaque côté du véhicule, dont au moins 125 cm<sup>2</sup> (19,5 po<sup>2</sup>) de la surface réfléchissante sont situés de façon à assurer au conducteur une vue arrière le long de chaque côté du véhicule.
 
 - **(27)** Les véhicules de tourisme à usages multiples, les camions et les autobus sauf les autobus scolaires, dont le PNBV est supérieur à 4 536 kg (10 000 lb) doivent, de chaque côté du véhicule, être munis d’un rétroviseur extérieur dont au moins 325 cm<sup>2</sup> (50 po<sup>2</sup>) de la surface réfléchissante sont situés de façon à assurer au conducteur une vue arrière le long de chaque côté du véhicule.
 
@@ -4698,7 +4542,7 @@ où :
 > Image: Diagramme montrant les champs de vision des miroirs du système A et du système B avec descriptions
 
 > Image: Diagramme montrant un tableau de comparaison entre 3 et 9 minutes d’arc
-NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES FORMULES VISÉES AU PARAGRAPHE 111(22)
+NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES FORMULES VISÉES AU PARAGRAPHE 111(22)
 
 
 > DORS/79-940, art. 7; DORS/80-439, art. 3; DORS/82-918, art. 1; DORS/87-658, art. 2; DORS/88-268, art. 6; DORS/95-147, art. 9; DORS/97-463, art. 2; DORS/2002-55, art. 13; DORS/2002-448, art. 1; DORS/2003-272, art. 14; DORS/2006-94, art. 4(A); DORS/2008-72, art. 2..
@@ -4726,11 +4570,11 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 
 
 
-### Protection contre le vol et immobilisation (norme 114)
+### Protection contre le vol et immobilisation (norme 114)
 
 **114** 
 
-- **(1)** À l’exception des fourgons à accès en position debout, les voitures de tourisme, les véhicules à trois roues, ainsi que les véhicules de tourisme à usages multiples et les camions ayant un PNBV de 4 536 kg ou moins, doivent être conformes aux exigences du Document de normes techniques no 114 — Protection contre le vol et immobilisation (DNT 114), avec ses modifications successives.
+- **(1)** À l’exception des fourgons à accès en position debout, les voitures de tourisme, les véhicules à trois roues, ainsi que les véhicules de tourisme à usages multiples et les camions ayant un PNBV de 4 536 kg ou moins, doivent être conformes aux exigences du Document de normes techniques no 114 — Protection contre le vol et immobilisation (DNT 114), avec ses modifications successives.
 
 - **(2)** Dans le DNT 114, la mention ***mis en mouvement*** s’entend du déplacement du véhicule par ses propres moyens.
 
@@ -4740,44 +4584,35 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 
 
 - **(4)** À l’exception des fourgons à accès en position debout et des véhicules de secours, les voitures de tourisme, les véhicules à trois roues, ainsi que les véhicules de tourisme à usages multiples et les camions ayant un PNBV de 4 536 kg ou moins, doivent être munis d’un système d’immobilisation conforme :
-	- **a)
-** soit à l’une des séries d’exigences suivantes, compte tenu des changements prévus aux paragraphes (22), (23) ou (24) :
-		- **(i)** les exigences du chapitre 3, de la section 4.3, des chapitres 6 à 10 et des sections 12.1, 12.2 et 12.16 de la norme nationale du Canada CAN/ULC-S338-98, intitulée Norme sur les systèmes et les appareillages de prévention du vol de véhicules automobiles : immobilisation électronique (mai 1998) et publiée par les Laboratoires des assureurs du Canada,
-		- **(ii)** les spécifications générales et particulières qui figurent dans la troisième partie du règlement n<sup>o</sup> 97 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des systèmes d’alarme pour véhicules (SAV) et des automobiles en ce qui concerne leurs systèmes d’alarme (SA), dans la version en vigueur le 8 août 2007,
-		- **(iii)** les spécifications générales et particulières qui figurent dans la quatrième partie du règlement n<sup>o</sup> 116 de la CEE, intitulé Prescriptions uniformes relatives à la protection des véhicules automobiles contre une utilisation non autorisée, dans la version en vigueur le 10 février 2009;
-	- **b)
-** soit aux exigences prévues aux paragraphes (8) à (21).
+	- **a)** soit à l’une des séries d’exigences suivantes, compte tenu des changements prévus aux paragraphes (22), (23) ou (24) :
+		- **(i)** les exigences du chapitre 3, de la section 4.3, des chapitres 6 à 10 et des sections 12.1, 12.2 et 12.16 de la norme nationale du Canada CAN/ULC-S338-98, intitulée Norme sur les systèmes et les appareillages de prévention du vol de véhicules automobiles : immobilisation électronique (mai 1998) et publiée par les Laboratoires des assureurs du Canada,
+		- **(ii)** les spécifications générales et particulières qui figurent dans la troisième partie du règlement n<sup>o</sup> 97 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des systèmes d’alarme pour véhicules (SAV) et des automobiles en ce qui concerne leurs systèmes d’alarme (SA), dans la version en vigueur le 8 août 2007,
+		- **(iii)** les spécifications générales et particulières qui figurent dans la quatrième partie du règlement n<sup>o</sup> 116 de la CEE, intitulé Prescriptions uniformes relatives à la protection des véhicules automobiles contre une utilisation non autorisée, dans la version en vigueur le 10 février 2009;
+	- **b)** soit aux exigences prévues aux paragraphes (8) à (21).
 
 - **(5)** Les renseignements ci-après doivent être fournis par écrit et accompagner les véhicules munis d’un système d’immobilisation :
-	- **a)
-** des instructions concernant l’utilisation et l’entretien du système;
-	- **b)
-** une mise en garde précisant de ne laisser dans le véhicule ni dispositif de désarmement ni combinaison permettant de désarmer le système.
+	- **a)** des instructions concernant l’utilisation et l’entretien du système;
+	- **b)** une mise en garde précisant de ne laisser dans le véhicule ni dispositif de désarmement ni combinaison permettant de désarmer le système.
 
 - **(6)** Les renseignements doivent être fournis en français, en anglais ou dans les deux langues officielles, selon la demande du premier usager du véhicule.
 
 - **(7)** Dans le présent article, ***dispositif de désarmement*** s’entend d’un dispositif physique qui contient ou transmet le code qui désarme le système d’immobilisation du véhicule.
 
-- **(8)** Sous réserve du paragraphe (9), le système d’immobilisation doit s’armer automatiquement dans une période d’au plus une minute qui suit le retrait du dispositif de désarmement du véhicule, lorsque le véhicule demeure dans un mode de fonctionnement autre qu’« accessoire » ou « contact » pendant toute cette période.
+- **(8)** Sous réserve du paragraphe (9), le système d’immobilisation doit s’armer automatiquement dans une période d’au plus une minute qui suit le retrait du dispositif de désarmement du véhicule, lorsque le véhicule demeure dans un mode de fonctionnement autre qu’« accessoire » ou « contact » pendant toute cette période.
 
 - **(9)** Si le dispositif de désarmement est un clavier ou un identificateur biométrique, le système d’immobilisation doit s’armer automatiquement dans une période d’au plus une minute qui suit l’arrêt des moteurs utilisés pour la propulsion du véhicule, lorsque le véhicule demeure dans un mode de fonctionnement autre qu’« accessoire » ou « contact » pendant toute cette période.
 
 - **(10)** Le système d’immobilisation doit s’armer automatiquement dans les deux minutes qui suivent son désarmement, sauf dans les cas suivants :
-	- **a)
-** une commande est donnée pour faire démarrer un ou plusieurs moteurs utilisés pour la propulsion du véhicule;
-	- **b)
-** son désarmement a nécessité l’utilisation de l’une des commandes suivantes : 
+	- **a)** une commande est donnée pour faire démarrer un ou plusieurs moteurs utilisés pour la propulsion du véhicule;
+	- **b)** son désarmement a nécessité l’utilisation de l’une des commandes suivantes :
 		- **(i)** la commande de démarrage du moteur ou du moteur électrique,
 		- **(ii)** la commande d’arrêt du moteur ou du moteur électrique,
 		- **(iii)** le commutateur d’allumage;
-	- **c)
-** son désarmement se produit automatiquement par la présence du dispositif de désarmement qui se trouve à l’intérieur du véhicule.
+	- **c)** son désarmement se produit automatiquement par la présence du dispositif de désarmement qui se trouve à l’intérieur du véhicule.
 
 - **(11)** S’il est armé, le système d’immobilisation :
-	- **a)
-** doit empêcher le véhicule de se déplacer sur plus de 3 m par ses propres moyens en gênant l’utilisation d’au moins une unité de commande électronique;
-	- **b)
-** ne doit avoir aucune incidence sur le système de freinage du véhicule, sauf s’il prévient le freinage à récupération ou le relâchement du contrôle du frein à main.
+	- **a)** doit empêcher le véhicule de se déplacer sur plus de 3 m par ses propres moyens en gênant l’utilisation d’au moins une unité de commande électronique;
+	- **b)** ne doit avoir aucune incidence sur le système de freinage du véhicule, sauf s’il prévient le freinage à récupération ou le relâchement du contrôle du frein à main.
 
 - **(12)** Lors du processus de désarmement, un code doit être envoyé à l’unité de commande électronique gênée pour permettre le déplacement du véhicule par ses propres moyens.
 
@@ -4786,78 +4621,51 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 - **(14)** Lorsque la procédure normale de démarrage requiert que le dispositif de désarmement s’insère mécaniquement dans une prise et que celui-ci ne fait pas partie intégrante de la clé du commutateur d’allumage, un ou plusieurs moteurs servant à propulser le véhicule ne démarreront qu’une fois le dispositif retiré de cette prise.
 
 - **(15)** Le système d’immobilisation doit être conforme aux exigences suivantes :
-	- **a)
-** il peut recevoir au moins 50 000 variantes de code;
-	- **b)
-** il ne peut être désarmé par un code pouvant désarmer tous les autres systèmes d’immobilisation de même marque et modèle;
-	- **c)
-** sous réserve du paragraphe (16), il ne peut traiter, en vingt-quatre heures, plus de 5 000 codes.
+	- **a)** il peut recevoir au moins 50 000 variantes de code;
+	- **b)** il ne peut être désarmé par un code pouvant désarmer tous les autres systèmes d’immobilisation de même marque et modèle;
+	- **c)** sous réserve du paragraphe (16), il ne peut traiter, en vingt-quatre heures, plus de 5 000 codes.
 
-- **(16)** Si le système d’immobilisation utilise des codes permutés ou cryptés, il peut se conformer aux exigences ci-après, au lieu de l’exigence indiquée à l’alinéa (15)c) :
-	- **a)
-** la probabilité de détection du code exact est d’au plus 4 % par vingt-quatre heures;
-	- **b)
-** il est impossible de désarmer le système au moyen de la retransmission, dans n’importe quel ordre, des cinq derniers codes d’immobilisation produits par le système.
+- **(16)** Si le système d’immobilisation utilise des codes permutés ou cryptés, il peut se conformer aux exigences ci-après, au lieu de l’exigence indiquée à l’alinéa (15)c) :
+	- **a)** la probabilité de détection du code exact est d’au plus 4 % par vingt-quatre heures;
+	- **b)** il est impossible de désarmer le système au moyen de la retransmission, dans n’importe quel ordre, des cinq derniers codes d’immobilisation produits par le système.
 
 - **(17)** Le système d’immobilisation doit être conçu de façon que, lorsqu’il est mis à l’essai tel qu’il est installé à bord du véhicule :
-	- **a)
-** ni le remplacement des pièces originales du système par des pièces de rechange du fabricant ni l’ajout de pièces du fabricant ne puissent être effectués sans le recours à un logiciel;
-	- **b)
-** le déplacement du véhicule par ses propres moyens soit impossible durant au moins cinq minutes après le début du remplacement ou de l’ajout de pièces visées à l’alinéa a).
+	- **a)** ni le remplacement des pièces originales du système par des pièces de rechange du fabricant ni l’ajout de pièces du fabricant ne puissent être effectués sans le recours à un logiciel;
+	- **b)** le déplacement du véhicule par ses propres moyens soit impossible durant au moins cinq minutes après le début du remplacement ou de l’ajout de pièces visées à l’alinéa a).
 
-- **(18)** La conformité du système d’immobilisation aux dispositions du paragraphe (17) doit être établie par des essais effectués sans endommager le véhicule.
+- **(18)** La conformité du système d’immobilisation aux dispositions du paragraphe (17) doit être établie par des essais effectués sans endommager le véhicule.
 
-- **(19)** L’alinéa (17)b) ne s’applique pas à l’ajout d’un dispositif de désarmement qui requiert l’utilisation d’un autre dispositif de désarmement validé par le système d’immobilisation.
+- **(19)** L’alinéa (17)b) ne s’applique pas à l’ajout d’un dispositif de désarmement qui requiert l’utilisation d’un autre dispositif de désarmement validé par le système d’immobilisation.
 
-- **(20)** Le système d’immobilisation doit être conçu de façon qu’il ne puisse ni être court-circuité ni rendu inopérant de manière à permettre le mouvement du véhicule par ses propres moyens, ni être désarmé, au moyen d’un ou plusieurs des outils ou de l’équipement figurant au paragraphe (21) :
-	- **a)
-** soit en moins de cinq minutes, lorsqu’il est mis à l’essai tel qu’il est installé à bord du véhicule;
-	- **b)
-** soit en moins de deux minutes et demie, lors d’un essai au banc effectué à l’extérieur du véhicule.
+- **(20)** Le système d’immobilisation doit être conçu de façon qu’il ne puisse ni être court-circuité ni rendu inopérant de manière à permettre le mouvement du véhicule par ses propres moyens, ni être désarmé, au moyen d’un ou plusieurs des outils ou de l’équipement figurant au paragraphe (21) :
+	- **a)** soit en moins de cinq minutes, lorsqu’il est mis à l’essai tel qu’il est installé à bord du véhicule;
+	- **b)** soit en moins de deux minutes et demie, lors d’un essai au banc effectué à l’extérieur du véhicule.
 
-- **(21)** Lors d’un essai visé au paragraphe (20), seuls les outils ou l’équipement suivants peuvent être utilisés :
-	- **a)
-** ciseaux, dénudeurs de fils, coupe-fils et fils électriques;
-	- **b)
-** marteau, extracteur à inertie, burin, clé anglaise, tournevis, poinçon et pince;
-	- **c)
-** tiges et pointes d’acier;
-	- **d)
-** scie à métaux;
-	- **e)
-** perceuse à piles;
-	- **f)
-** meuleuse d’angle à piles;
-	- **g)
-** scie sauteuse à piles.
+- **(21)** Lors d’un essai visé au paragraphe (20), seuls les outils ou l’équipement suivants peuvent être utilisés :
+	- **a)** ciseaux, dénudeurs de fils, coupe-fils et fils électriques;
+	- **b)** marteau, extracteur à inertie, burin, clé anglaise, tournevis, poinçon et pince;
+	- **c)** tiges et pointes d’acier;
+	- **d)** scie à métaux;
+	- **e)** perceuse à piles;
+	- **f)** meuleuse d’angle à piles;
+	- **g)** scie sauteuse à piles.
 
 - **(22)** L’application de la norme nationale du Canada CAN/ULC-S338-98 est assujettie aux changements suivants :
-	- **a)
-** les exigences relatives aux systèmes non-OEM, tels qu’ils sont définis au chapitre 2 de ce document et à la réglementation locale sur le bruit ne s’appliquent pas;
-	- **b)
-** la mention « fabricant du système d’immobilisation électronique » vaut mention de « fabricant »;
-	- **c)
-** la section 8.1 est ainsi libellée : Les transpondeurs et les télécommandes doivent être placés dans des boîtiers scellés conformes aux exigences des sections 12.1, Généralités, et 12.2, Fonctionnement normal.
+	- **a)** les exigences relatives aux systèmes non-OEM, tels qu’ils sont définis au chapitre 2 de ce document et à la réglementation locale sur le bruit ne s’appliquent pas;
+	- **b)** la mention « fabricant du système d’immobilisation électronique » vaut mention de « fabricant »;
+	- **c)** la section 8.1 est ainsi libellée : Les transpondeurs et les télécommandes doivent être placés dans des boîtiers scellés conformes aux exigences des sections 12.1, Généralités, et 12.2, Fonctionnement normal.
 
-- **(23)** L’application de la troisième partie du règlement n<sup>o</sup> 97 de la CEE est assujettie aux changements suivants :
-	- **a)
-** les exigences relatives aux systèmes d’immobilisation installés après la vente, à l’homologation de type et aux émissions radio ne s’appliquent pas;
-	- **b)
-** les renvois au paragraphe 33 ne s’appliquent pas;
-	- **c)
-** pour l’application du paragraphe 31.7, le mot ***rapidement*** s’entend d’une période de moins de cinq minutes et le mot ***longue***, d’une période d’au moins cinq minutes;
-	- **d)
-** malgré toute disposition contraire des paragraphes 31.10 et 31.11, le système d’immobilisation ne doit avoir aucune incidence sur le système de freinage du véhicule.
+- **(23)** L’application de la troisième partie du règlement n<sup>o</sup> 97 de la CEE est assujettie aux changements suivants :
+	- **a)** les exigences relatives aux systèmes d’immobilisation installés après la vente, à l’homologation de type et aux émissions radio ne s’appliquent pas;
+	- **b)** les renvois au paragraphe 33 ne s’appliquent pas;
+	- **c)** pour l’application du paragraphe 31.7, le mot ***rapidement*** s’entend d’une période de moins de cinq minutes et le mot ***longue***, d’une période d’au moins cinq minutes;
+	- **d)** malgré toute disposition contraire des paragraphes 31.10 et 31.11, le système d’immobilisation ne doit avoir aucune incidence sur le système de freinage du véhicule.
 
-- **(24)** L’application de la quatrième partie du règlement n<sup>o</sup> 116 de la CEE est assujettie aux changements suivants :
-	- **a)
-** les exigences relatives aux systèmes d’immobilisation installés après la vente, à l’homologation de type et aux émissions radio ne s’appliquent pas;
-	- **b)
-** pour l’application du paragraphe 8.2.7, le mot ***rapidement*** s’entend d’une période de moins de cinq minutes et le mot ***longue***, d’une période d’au moins cinq minutes;
-	- **c)
-** malgré toute disposition contraire des paragraphes 8.2.10 et 8.2.11, le système d’immobilisation ne doit avoir aucune incidence sur le système de freinage du véhicule;
-	- **d)
-** les renvois au paragraphe 8.4 ne s’appliquent pas.
+- **(24)** L’application de la quatrième partie du règlement n<sup>o</sup> 116 de la CEE est assujettie aux changements suivants :
+	- **a)** les exigences relatives aux systèmes d’immobilisation installés après la vente, à l’homologation de type et aux émissions radio ne s’appliquent pas;
+	- **b)** pour l’application du paragraphe 8.2.7, le mot ***rapidement*** s’entend d’une période de moins de cinq minutes et le mot ***longue***, d’une période d’au moins cinq minutes;
+	- **c)** malgré toute disposition contraire des paragraphes 8.2.10 et 8.2.11, le système d’immobilisation ne doit avoir aucune incidence sur le système de freinage du véhicule;
+	- **d)** les renvois au paragraphe 8.4 ne s’appliquent pas.
 > DORS/79-940, art. 7; DORS/95-164, art. 6; DORS/97-264, art. 3; DORS/97-421, art. 6; DORS/2005-45, art. 4; DORS/2007-246, art. 3; DORS/2008-104, art. 13; DORS/2009-32, art. 2; DORS/2009-330, art. 3; DORS/2011-69, art. 1; DORS/2014-82, art. 2; DORS/2014-307, art. 4..
 
 
@@ -4867,104 +4675,77 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 
 **115** 
 
-- **(1)** Tout véhicule doit avoir un numéro d’identification du véhicule et celui-ci ne peut être identique à celui d’un véhicule de l’année de modèle 1980 ou d’une année de modèle ultérieure fabriqué dans les 60 ans qui précèdent.
+- **(1)** Tout véhicule doit avoir un numéro d’identification du véhicule et celui-ci ne peut être identique à celui d’un véhicule de l’année de modèle 1980 ou d’une année de modèle ultérieure fabriqué dans les 60 ans qui précèdent.
 
 - **(1.1)** Le véhicule construit à partir d’un véhicule incomplet doit porter le numéro d’identification du véhicule attribué par le fabricant de véhicules incomplets.
 
 - **(1.2)** Lorsque le numéro d’identification du véhicule est spécifié sur l’étiquette de déclaration de conformité fixée au véhicule et que ce dernier est modifié, ce même numéro s’applique au véhicule modifié.
 
-- **(2)** Sous réserve du paragraphe (2.1), le numéro d’identification d’un véhicule doit :
-	- **a)
-** être composé de majuscules antiques;
-	- **b)
-** figurer clairement et de manière indélébile, en creux, en relief ou par impression et de manière à ce qu’il ne puisse être enlevé sans endommager ou abîmer la plaque, l’étiquette ou le véhicule à l’un des endroits suivants :
+- **(2)** Sous réserve du paragraphe (2.1), le numéro d’identification d’un véhicule doit :
+	- **a)** être composé de majuscules antiques;
+	- **b)** figurer clairement et de manière indélébile, en creux, en relief ou par impression et de manière à ce qu’il ne puisse être enlevé sans endommager ou abîmer la plaque, l’étiquette ou le véhicule à l’un des endroits suivants :
 		- **(i)** sur une partie intégrante ou structurale du véhicule, sauf le dessus ou le coussin du tablier,
 		- **(ii)** sur le tablier ou le dessus du tablier, s’il n’est pas conçu pour être remplacé à la suite du déploiement du sac gonflable,
-		- **(iii)** sur une plaque ou une étiquette distinctes fixées en permanence à un endroit visé aux sous-alinéas (i) ou (ii);
-	- **c)
-** dans le cas des véhicules à basse vitesse, véhicules de tourisme à usages multiples, voitures de tourisme, véhicules à trois roues et camions qui ont un PNBV d’au plus 4 536 kg :
+		- **(iii)** sur une plaque ou une étiquette distinctes fixées en permanence à un endroit visé aux sous-alinéas (i) ou (ii);
+	- **c)** dans le cas des véhicules à basse vitesse, véhicules de tourisme à usages multiples, voitures de tourisme, véhicules à trois roues et camions qui ont un PNBV d’au plus 4 536 kg :
 		- **(i)** être composé de caractères d’une hauteur minimum de 4 mm,
 		- **(ii)** être placé à l’intérieur de l’habitacle, et
 		- **(iii)** être lisible, sans qu’il soit nécessaire de déplacer une partie du véhicule, à travers le vitrage de ce dernier et à la lumière du jour par un observateur qui a une vision de 20/20, échelle Snellen, et dont le point de vision se trouve à l’extérieur du véhicule, à proximité du montant gauche du pare-brise.
 
 - **(2.1)** Le numéro d’identification d’une motoneige doit :
-	- **a)
-** être composé de majuscules antiques;
-	- **b)
-** figurer en creux, en relief, par impression ou être fixé en permanence sur la surface verticale extérieure droite du tunnel des chenilles;
-	- **c)
-** être difficile à enlever, à remplacer ou à modifier sans que cela soit visible;
-	- **d)
-** être composé de caractères d’une hauteur minimale de 4 mm;
-	- **e)
-** être lisible et indélébile;
-	- **f)
-** être lisible sans qu’il soit nécessaire d’enlever une partie du véhicule;
-	- **g)
-** être protégé contre la corrosion.
+	- **a)** être composé de majuscules antiques;
+	- **b)** figurer en creux, en relief, par impression ou être fixé en permanence sur la surface verticale extérieure droite du tunnel des chenilles;
+	- **c)** être difficile à enlever, à remplacer ou à modifier sans que cela soit visible;
+	- **d)** être composé de caractères d’une hauteur minimale de 4 mm;
+	- **e)** être lisible et indélébile;
+	- **f)** être lisible sans qu’il soit nécessaire d’enlever une partie du véhicule;
+	- **g)** être protégé contre la corrosion.
 
-- **(2.2)** Au choix du fabricant, le numéro d’identification du véhicule peut aussi figurer sous forme d’un code à barres, laquelle doit satisfaire aux exigences de l’article 5.6 de la ligne directrice AIAG B-10, *Trading Partner Labels Implementation Guideline* (février 2000), à l’exception des spécifications relatives aux dimensions et à la densité du code, qui doivent satisfaire aux exigences de l’article 4.1 de la norme AIAG B-2, Vehicle Identification Number Label Standard (juin 1988).
+- **(2.2)** Au choix du fabricant, le numéro d’identification du véhicule peut aussi figurer sous forme d’un code à barres, laquelle doit satisfaire aux exigences de l’article 5.6 de la ligne directrice AIAG B-10, *Trading Partner Labels Implementation Guideline* (février 2000), à l’exception des spécifications relatives aux dimensions et à la densité du code, qui doivent satisfaire aux exigences de l’article 4.1 de la norme AIAG B-2, Vehicle Identification Number Label Standard (juin 1988).
 
 - **(2.3)** Le numéro d’identification du véhicule sous forme d’un code à barres doit figurer :
-	- **a)
-** soit sur l’étiquette de conformité ou l’étiquette informative du véhicule;
-	- **b)
-** soit sur une étiquette distincte apposée à côté de l’étiquette de conformité ou de l’étiquette informative conformément aux alinéas 7a) et b) du présent règlement.
+	- **a)** soit sur l’étiquette de conformité ou l’étiquette informative du véhicule;
+	- **b)** soit sur une étiquette distincte apposée à côté de l’étiquette de conformité ou de l’étiquette informative conformément aux alinéas 7a) et b) du présent règlement.
 
-- **(2.4)** Si le numéro d’identification du véhicule figure sur une étiquette sous forme d’un code à barres, il n’est pas nécessaire, jusqu’au 1<sup>er</sup> septembre 2012, qu’il soit aussi apposé conformément à l’alinéa 115(2)b); il peut toutefois, au choix du fabricant, figurer clairement et de manière indélébile, en creux, en relief ou par impression :
-	- **a)
-** soit sur une partie du véhicule, autre que les vitrages, qui n’est pas conçue pour être enlevée, sauf pour réparation;
-	- **b)
-** soit sur une plaque ou une étiquette distinctes fixées en permanence sur une partie du véhicule visée à l’alinéa a).
+- **(2.4)** Si le numéro d’identification du véhicule figure sur une étiquette sous forme d’un code à barres, il n’est pas nécessaire, jusqu’au 1<sup>er</sup> septembre 2012, qu’il soit aussi apposé conformément à l’alinéa 115(2)b); il peut toutefois, au choix du fabricant, figurer clairement et de manière indélébile, en creux, en relief ou par impression :
+	- **a)** soit sur une partie du véhicule, autre que les vitrages, qui n’est pas conçue pour être enlevée, sauf pour réparation;
+	- **b)** soit sur une plaque ou une étiquette distinctes fixées en permanence sur une partie du véhicule visée à l’alinéa a).
 
-- **(3)** Le numéro d’identification du véhicule doit être alphanumérique et être composé de 17 caractères dont :
-	- **a)
-** les trois premiers caractères, dont le troisième ne doit pas être « 9 », désignent d’une manière exclusive le fabricant et la catégorie du véhicule, s’il s’agit d’un fabricant qui produit annuellement 1 000 véhicules ou plus d’une catégorie réglementaire;
-	- **a.1)
-** les trois premiers caractères, dont le troisième est obligatoirement « 9 », et les douzième au quatorzième caractères désignent d’une manière exclusive le fabricant et la catégorie du véhicule, s’il s’agit d’un fabricant qui produit annuellement moins de 1 000 véhicules d’une catégorie réglementaire;
-	- **b)
-** les quatrième au huitième caractères désignent de manière exclusive les renseignements déchiffrables sur le véhicule indiqués à la colonne II du tableau I, sauf que :
+- **(3)** Le numéro d’identification du véhicule doit être alphanumérique et être composé de 17 caractères dont :
+	- **a)** les trois premiers caractères, dont le troisième ne doit pas être « 9 », désignent d’une manière exclusive le fabricant et la catégorie du véhicule, s’il s’agit d’un fabricant qui produit annuellement 1 000 véhicules ou plus d’une catégorie réglementaire;
+	- **a.1)** les trois premiers caractères, dont le troisième est obligatoirement « 9 », et les douzième au quatorzième caractères désignent d’une manière exclusive le fabricant et la catégorie du véhicule, s’il s’agit d’un fabricant qui produit annuellement moins de 1 000 véhicules d’une catégorie réglementaire;
+	- **b)** les quatrième au huitième caractères désignent de manière exclusive les renseignements déchiffrables sur le véhicule indiqués à la colonne II du tableau I, sauf que :
 		- **(i)** dans le cas des véhicules de tourisme à usages multiples, voitures de tourisme, véhicules à trois roues et camions qui ont un PNBV d’au plus 4 536 kg, le septième caractère est alphabétique,
-		- **(ii)** sous réserve du sous-alinéa (i), le fabricant peut décider des caractères et de leur position,
-		- **(iii)** dans le cas d’un véhicule incomplet à achever sous forme de remorque, les renseignements déchiffrables exigés pour un véhicule incomplet et indiqués à la colonne II du tableau I sont ceux qu’il faut fournir sur une remorque;
-	- **c)
-** le neuvième caractère est l’unité de contrôle déterminée conformément aux paragraphes (7) et (8) après que tous les autres caractères ont été fixés par le fabricant;
-	- **d)
-** le dixième caractère désigne le code correspondant à l’année de modèle du véhicule, tel qu’il est indiqué au tableau II;
-	- **e)
-** le onzième caractère désigne l’usine où le véhicule a été fabriqué;
-	- **f)
-** les douzième au dix-septième caractères désignent le nombre que le fabricant a attribué par ordre séquentiel au cours de la production, s’il s’agit d’un fabricant qui produit annuellement 1 000 véhicules ou plus d’une catégorie réglementaire;
-	- **g)
-** les quinzième au dix-septième caractères désignent le nombre que le fabricant a attribué par ordre séquentiel au cours de la production, s’il s’agit d’un fabricant qui produit annuellement moins de 1 000 véhicules d’une catégorie réglementaire;
-	- **h)
-** les quatorzième au dix-septième caractères sont numériques pour tous les véhicules et le treizième caractère est numérique dans le cas des véhicules de tourisme à usages multiples, voitures de tourisme, véhicules à trois roues et camions qui ont un PNBV d’au plus 4 536 kg.
+		- **(ii)** sous réserve du sous-alinéa (i), le fabricant peut décider des caractères et de leur position,
+		- **(iii)** dans le cas d’un véhicule incomplet à achever sous forme de remorque, les renseignements déchiffrables exigés pour un véhicule incomplet et indiqués à la colonne II du tableau I sont ceux qu’il faut fournir sur une remorque;
+	- **c)** le neuvième caractère est l’unité de contrôle déterminée conformément aux paragraphes (7) et (8) après que tous les autres caractères ont été fixés par le fabricant;
+	- **d)** le dixième caractère désigne le code correspondant à l’année de modèle du véhicule, tel qu’il est indiqué au tableau II;
+	- **e)** le onzième caractère désigne l’usine où le véhicule a été fabriqué;
+	- **f)** les douzième au dix-septième caractères désignent le nombre que le fabricant a attribué par ordre séquentiel au cours de la production, s’il s’agit d’un fabricant qui produit annuellement 1 000 véhicules ou plus d’une catégorie réglementaire;
+	- **g)** les quinzième au dix-septième caractères désignent le nombre que le fabricant a attribué par ordre séquentiel au cours de la production, s’il s’agit d’un fabricant qui produit annuellement moins de 1 000 véhicules d’une catégorie réglementaire;
+	- **h)** les quatorzième au dix-septième caractères sont numériques pour tous les véhicules et le treizième caractère est numérique dans le cas des véhicules de tourisme à usages multiples, voitures de tourisme, véhicules à trois roues et camions qui ont un PNBV d’au plus 4 536 kg.
 
 - **(4)** [Abrogé, DORS/2004-250, art. 3]
 
-- **(5)** Tout caractère du numéro d’identification de véhicule doit être l’un des chiffres arabes ou l’une des lettres romaines précisés au tableau III.
+- **(5)** Tout caractère du numéro d’identification de véhicule doit être l’un des chiffres arabes ou l’une des lettres romaines précisés au tableau III.
 
 - **(6)** [Abrogé, DORS/88-535, art. 1]
 
-- **(7)** L’unité de contrôle mentionnée à l’alinéa (3)c) doit être déterminée de la façon suivante
-	- **a)
-** assigner à chaque nombre du numéro d’identification du véhicule sa valeur mathématique réelle;
-	- **b)
-** assigner à chaque lettre la valeur mathématique qui lui est attribuée au tableau IV;
-	- **c)
-** multiplier la valeur assignée à chaque caractère du numéro d’identification du véhicule par le facteur de pondération approprié, précisé au tableau V; et
-	- **d)
-** additionner les produits obtenus à l’alinéa c) et diviser la somme par 11.
+- **(7)** L’unité de contrôle mentionnée à l’alinéa (3)c) doit être déterminée de la façon suivante
+	- **a)** assigner à chaque nombre du numéro d’identification du véhicule sa valeur mathématique réelle;
+	- **b)** assigner à chaque lettre la valeur mathématique qui lui est attribuée au tableau IV;
+	- **c)** multiplier la valeur assignée à chaque caractère du numéro d’identification du véhicule par le facteur de pondération approprié, précisé au tableau V; et
+	- **d)** additionner les produits obtenus à l’alinéa c) et diviser la somme par 11.
 
-- **(8)** La fraction du quotient obtenu à l’alinéa (7)d), multipliée par onze, doit être l’unité de contrôle, sauf que si ce produit est 10, l’unité de contrôle doit être X.
+- **(8)** La fraction du quotient obtenu à l’alinéa (7)d), multipliée par onze, doit être l’unité de contrôle, sauf que si ce produit est 10, l’unité de contrôle doit être X.
 
 - **(9)** Le ministre peut exiger des fabricants des véhicules visés par le présent article qu’ils lui soumettent, pour chaque marque et catégorie de véhicules fabriqués, les caractères qui constituent l’identificateur distinctif de chaque véhicule, y compris, le cas échéant, les douzième au quatorzième caractères qui en font partie, ainsi que, dans tous les cas, les renseignements nécessaires pour déchiffrer les caractères des numéros d’identification de véhicule.
 
 - **(10)** Lorsqu’un caractère du numéro d’identification du véhicule représente la puissance nette du moteur, celle-ci ne doit pas s’écarter de plus de 10 % par rapport à la puissance nette réelle du moteur.
 
-- **(11)** Les fabricants des véhicules visés par le présent article doivent s’adresser à l’Association canadienne des constructeurs de véhicules pour obtenir les caractères visés aux alinéas (3)a) et *a.1*) qui désignent de manière exclusive le fabricant et la catégorie du véhicule.
+- **(11)** Les fabricants des véhicules visés par le présent article doivent s’adresser à l’Association canadienne des constructeurs de véhicules pour obtenir les caractères visés aux alinéas (3)a) et *a.1*) qui désignent de manière exclusive le fabricant et la catégorie du véhicule.
 
-- **(12)** Malgré les paragraphes (1) à (11), les véhicules de l’année de modèle 2009 et des années de modèle antérieures doivent être conformes aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
+- **(12)** Malgré les paragraphes (1) à (11), les véhicules de l’année de modèle 2009 et des années de modèle antérieures doivent être conformes aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
 
 - 
 #### TABLEAU I
@@ -5258,66 +5039,66 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 
 
-### Liquides de frein pour véhicules automobiles (Norme 116)
+### Liquides de frein pour véhicules automobiles (Norme 116)
 > [DORS/93-561, art. 5; DORS/97-421, art. 7(F); DORS/2011-238, art. 2]
 
 
 **116** 
 
-- **(1)** Le système de freinage hydraulique des voitures de tourisme, des véhicules de tourisme à usages multiples, des camions, des autobus, des véhicules à trois roues, des motocyclettes, des remorques et des chariots de conversion doit contenir du liquide de frein conforme aux exigences du Document de normes techniques no 116 — Liquides de frein pour véhicules automobiles (DNT 116), avec ses modifications successives.
+- **(1)** Le système de freinage hydraulique des voitures de tourisme, des véhicules de tourisme à usages multiples, des camions, des autobus, des véhicules à trois roues, des motocyclettes, des remorques et des chariots de conversion doit contenir du liquide de frein conforme aux exigences du Document de normes techniques no 116 — Liquides de frein pour véhicules automobiles (DNT 116), avec ses modifications successives.
 
-- **(2)** Toute mention dans le DNT 116 d’une norme publiée par l’ASTM qui figure à la colonne 1 du tableau du présent paragraphe vaut mention, selon le cas, de la norme indiquée en regard de cette norme à la colonne 2.
+- **(2)** Toute mention dans le DNT 116 d’une norme publiée par l’ASTM qui figure à la colonne 1 du tableau du présent paragraphe vaut mention, selon le cas, de la norme indiquée en regard de cette norme à la colonne 2.
 #### TABLEAU
 <table>
 <tr>
 <th>Article</th>
-<th>Colonne 1</th>
-<th>Colonne 2</th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
 </tr>
 <tr>
 <td>1</td>
-<td>Norme D 445 – 65 de l’ASTM, *Viscosity of Transparent and Opaque Liquids (Kinematic and Dynamic Viscosities)*</td>
-<td>Norme D 445 – 06 de l’ASTM, *Standard Test Method for Kinematic Viscosity of Transparent and Opaque Liquids (and Calculation of Dynamic Viscosity)*</td>
+<td>Norme D 445 – 65 de l’ASTM, *Viscosity of Transparent and Opaque Liquids (Kinematic and Dynamic Viscosities)*</td>
+<td>Norme D 445 – 06 de l’ASTM, *Standard Test Method for Kinematic Viscosity of Transparent and Opaque Liquids (and Calculation of Dynamic Viscosity)*</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Norme D 1121 – 67 de l’ASTM, *Standard Method of Test for Reserve Alkalinity of Engine Antifreezes and Antirusts*</td>
-<td>Norme D 1287 – 91 (approuvée de nouveau en 2002) de l’ASTM, *Standard Test Method for pH of Engine Coolants and Antirusts*</td>
+<td>Norme D 1121 – 67 de l’ASTM, *Standard Method of Test for Reserve Alkalinity of Engine Antifreezes and Antirusts*</td>
+<td>Norme D 1287 – 91 (approuvée de nouveau en 2002) de l’ASTM, *Standard Test Method for pH of Engine Coolants and Antirusts*</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Norme D 1123 – 59 de l’ASTM, *Standard Method of Test for Water in Concentrated Engine Antifreezes by the Iodine Reagent Method*</td>
-<td>Norme D 1123 – 99 (approuvée de nouveau en 2003) de l’ASTM, *Standard Test Methods for Water in Engine Coolant Concentrate by the Karl Fischer Reagent Method*</td>
+<td>Norme D 1123 – 59 de l’ASTM, *Standard Method of Test for Water in Concentrated Engine Antifreezes by the Iodine Reagent Method*</td>
+<td>Norme D 1123 – 99 (approuvée de nouveau en 2003) de l’ASTM, *Standard Test Methods for Water in Engine Coolant Concentrate by the Karl Fischer Reagent Method*</td>
 </tr>
 <tr>
 <td>4</td>
-<td>Norme D 1193 – 70 de l’ASTM, *Standard Specifications for Reagent Water*</td>
-<td>Norme D 1193 – 06 de l’ASTM, *Standard Specification for Reagent Water*</td>
+<td>Norme D 1193 – 70 de l’ASTM, *Standard Specifications for Reagent Water*</td>
+<td>Norme D 1193 – 06 de l’ASTM, *Standard Specification for Reagent Water*</td>
 </tr>
 <tr>
 <td>5</td>
-<td>Norme D 1415 – 68 de l’ASTM, *Standard Method of Test for International Hardness of Vulcanized Natural and Synthetic Rubbers*</td>
-<td>Norme D 1415 – 06 de l’ASTM, *Standard Test Method for Rubber Property  —  International Hardness*</td>
+<td>Norme D 1415 – 68 de l’ASTM, *Standard Method of Test for International Hardness of Vulcanized Natural and Synthetic Rubbers*</td>
+<td>Norme D 1415 – 06 de l’ASTM, *Standard Test Method for Rubber Property — International Hardness*</td>
 </tr>
 <tr>
 <td>6</td>
-<td>Norme D 2515 – 66 de l’ASTM, *Standard Specification for Kinematic Glass Viscometers*</td>
+<td>Norme D 2515 – 66 de l’ASTM, *Standard Specification for Kinematic Glass Viscometers*</td>
 <td>Norme D 446 – 07 de l’ASTM, *Standard Specifications and Operating Instructions for Glass Capillary Kinematic Viscometers*</td>
 </tr>
 <tr>
 <td>7</td>
-<td>Norme E 1 – 68 de l’ASTM, *Specifications for ASTM Thermometers*</td>
-<td>Norme E 1 – 05 de l’ASTM, *Standard Specification for ASTM Liquid-in-Glass Thermometers*</td>
+<td>Norme E 1 – 68 de l’ASTM, *Specifications for ASTM Thermometers*</td>
+<td>Norme E 1 – 05 de l’ASTM, *Standard Specification for ASTM Liquid-in-Glass Thermometers*</td>
 </tr>
 <tr>
 <td>8</td>
-<td>Norme E 77 – 66 de l’ASTM, *Verification and Calibration of Liquid-in-Glass Thermometers*</td>
-<td>Norme E 77 – 98 (approuvée de nouveau en 2003) de l’ASTM, *Standard Test Method for Inspection and Verification of Thermometers*</td>
+<td>Norme E 77 – 66 de l’ASTM, *Verification and Calibration of Liquid-in-Glass Thermometers*</td>
+<td>Norme E 77 – 98 (approuvée de nouveau en 2003) de l’ASTM, *Standard Test Method for Inspection and Verification of Thermometers*</td>
 </tr>
 <tr>
 <td>9</td>
-<td>Norme E 298 – 68 de l’ASTM, *Standard Methods for Assay of Organic Peroxides*</td>
-<td>Norme E 298 – 01 de l’ASTM, *Standard Test Methods for Assay of Organic Peroxides*</td>
+<td>Norme E 298 – 68 de l’ASTM, *Standard Methods for Assay of Organic Peroxides*</td>
+<td>Norme E 298 – 01 de l’ASTM, *Standard Test Methods for Assay of Organic Peroxides*</td>
 </tr>
 </table>
 
@@ -5328,13 +5109,13 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 
 
-### Systèmes de glace, de séparation et de toit ouvrant à commande électrique (Norme 118)
+### Systèmes de glace, de séparation et de toit ouvrant à commande électrique (Norme 118)
 
 **118** 
 
-- **(1)** Les systèmes de glace, de séparation et de toit ouvrant à commande électrique installés sur les voitures de tourisme, les véhicules à trois roues, les motocyclettes à habitacle fermé ou les véhicules de tourisme à usages multiples ou les camions d’un PNBV d’au plus 4 536 kg doivent être conformes aux exigences du Document de normes techniques no 118 — Systèmes de glace, de séparation et de toit ouvrant à commande électrique (DNT 118), avec ses modifications successives.
+- **(1)** Les systèmes de glace, de séparation et de toit ouvrant à commande électrique installés sur les voitures de tourisme, les véhicules à trois roues, les motocyclettes à habitacle fermé ou les véhicules de tourisme à usages multiples ou les camions d’un PNBV d’au plus 4 536 kg doivent être conformes aux exigences du Document de normes techniques no 118 — Systèmes de glace, de séparation et de toit ouvrant à commande électrique (DNT 118), avec ses modifications successives.
 
-- **(2)** Cependant, les véhicules construits avant le 1<sup>er</sup> octobre 2010 n’ont pas à être conformes aux exigences de la disposition S6 du DNT 118.
+- **(2)** Cependant, les véhicules construits avant le 1<sup>er</sup> octobre 2010 n’ont pas à être conformes aux exigences de la disposition S6 du DNT 118.
 
 - **(3)** [Abrogé, DORS/2014-307, art. 6]
 > DORS/79-940, art. 7; DORS/86-682, art. 2; DORS/95-164, art. 7; DORS/97-421, art. 8; DORS/98-524, art. 4(F); DORS/2003-272, art. 16; DORS/2006-94, art. 4(A); DORS/2007-180, art. 8; DORS/2011-238, art. 2; DORS/2014-307, art. 6..
@@ -5342,25 +5123,22 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 
 
-### Sélection des pneus et des jantes pour les véhicules automobiles d’un pnbv de plus de 4 536 kg (norme 120)
+### Sélection des pneus et des jantes pour les véhicules automobiles d’un pnbv de plus de 4 536 kg (norme 120)
 
 
 #### Disposition générale
 
 **120** 
 
-- **(1)** Les véhicules automobiles qui ont un PNBV de plus de 4 536 kg, à l’exception des véhicules importés temporairement à des fins spéciales, les véhicules à trois roues munis de pneus qui ne sont pas des pneus pour voiture de tourisme, les motocyclettes, à l’exception des tricycles à moteur munis de pneus pour voiture de tourisme, et les jantes de pneu fabriquées pour être utilisées sur ces véhicules doivent être conformes aux exigences du Document de normes techniques no 120 — Sélection des pneus et des jantes pour les véhicules automobiles d’un PNBV de plus de 4 536 kg (DNT 120), avec ses modifications successives.
+- **(1)** Les véhicules automobiles qui ont un PNBV de plus de 4 536 kg, à l’exception des véhicules importés temporairement à des fins spéciales, les véhicules à trois roues munis de pneus qui ne sont pas des pneus pour voiture de tourisme, les motocyclettes, à l’exception des tricycles à moteur munis de pneus pour voiture de tourisme, et les jantes de pneu fabriquées pour être utilisées sur ces véhicules doivent être conformes aux exigences du Document de normes techniques no 120 — Sélection des pneus et des jantes pour les véhicules automobiles d’un PNBV de plus de 4 536 kg (DNT 120), avec ses modifications successives.
 
 #### Document de normes techniques n<sup>o</sup> 120
 
 
 - **(2)** En plus d’être conformes aux exigences de la disposition S5.1.3 du DNT 120, les pneus usagés ou rechapés qui sont installés sur un autobus, une remorque, un chariot de conversion ou un camion doivent être conformes aux exigences suivantes :
-	- **a)
-** ils n’ont pas fait l’objet d’un avis de défaut;
-	- **b)
-** leur bande de roulement est d’une épaisseur de plus de 1,5 mm;
-	- **c)
-** ils ont été fabriqués à l’origine de manière à être conformes aux exigences des textes ci-après qui s’appliquaient au moment de la fabrication :
+	- **a)** ils n’ont pas fait l’objet d’un avis de défaut;
+	- **b)** leur bande de roulement est d’une épaisseur de plus de 1,5 mm;
+	- **c)** ils ont été fabriqués à l’origine de manière à être conformes aux exigences des textes ci-après qui s’appliquaient au moment de la fabrication :
 		- **(i)** dans le cas de pneus usagés, le [Règlement sur la sécurité des pneus de véhicule automobile](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/198.md) ou le [Règlement de 1995 sur la sécurité des pneus de véhicule automobile](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/95/148.md),
 		- **(ii)** dans le cas de pneus rechapés, l’article 4 du [Règlement sur la sécurité des pneus de véhicule automobile](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2013/198.md), l’annexe V du [Règlement de 1995 sur la sécurité des pneus de véhicule automobile](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/95/148.md), la Federal Motor Vehicle Safety Standard No. 119 des États-Unis ou la Japanese Industrial Standard JIS D4230.
 
@@ -5368,11 +5146,9 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(4)** Les définitions qui suivent s’appliquent au DNT 120.
 
-***charge nominale*** La charge maximale attribuée à un pneu pour une pression de gonflage donnée. (*load rating*)
+***charge nominale*** La charge maximale attribuée à un pneu pour une pression de gonflage donnée. (*load rating*) 
 
-
-***limite de charge nominale*** La charge nominale d’un pneu à la pression maximale permise de gonflage de celui-ci. (*maximum load rating*)
-
+***limite de charge nominale*** La charge nominale d’un pneu à la pression maximale permise de gonflage de celui-ci. (*maximum load rating*) 
 
 #### Symbole d’identification de la limite de charge
 
@@ -5385,35 +5161,28 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 
 
-### Systèmes de freinage à air comprimé (Norme 121)
+### Systèmes de freinage à air comprimé (Norme 121)
 
 **121** 
 
-- **(1)** Sous réserve du paragraphe (2), le présent article s’applique aux camions, aux autobus et aux remorques qui sont munis d’un système de freinage à air comprimé.
+- **(1)** Sous réserve du paragraphe (2), le présent article s’applique aux camions, aux autobus et aux remorques qui sont munis d’un système de freinage à air comprimé.
 
 - **(2)** Le présent article ne s’applique pas aux camions, aux autobus et aux remorques suivants :
-	- **a)
-** les remorques d’une largeur de plus de 2,6 m, quand leur pièce extensible est en position complètement rentrée, et qui sont munies de deux essieux à voie courte posés dans le sens de la largeur de la remorque;
-	- **b)
-** les camions, les autobus et les remorques qui sont munis d’un essieu dont le poids nominal brut sur l’essieu est de 13 154 kg ou plus;
-	- **c)
-** les camions et les autobus ayant une vitesse, à 3,2 km (2 milles), d’au plus 53,1 km/h;
-	- **d)
-** les camions ayant une vitesse, à 3,2 km (2 milles), d’au plus 72,3 km/h, ayant une masse du véhicule sans charge équivalente à au moins 95 pour cent de leur PNBV et n’ayant aucune place pour les occupants autres que le conducteur et l’équipe du véhicule;
-	- **e)
-** les remorques dont le PNBV est de plus de 54 432 kg et dont la carrosserie est conforme à celle mentionnée à la définition de ***remorque lourde*** au paragraphe 2(1) du présent règlement;
-	- **f)
-** les remorques dont la masse du véhicule sans charge est équivalente à au moins 95 pour cent de leur PNBV;
-	- **g)
-** les chariots de répartition de charge.
+	- **a)** les remorques d’une largeur de plus de 2,6 m, quand leur pièce extensible est en position complètement rentrée, et qui sont munies de deux essieux à voie courte posés dans le sens de la largeur de la remorque;
+	- **b)** les camions, les autobus et les remorques qui sont munis d’un essieu dont le poids nominal brut sur l’essieu est de 13 154 kg ou plus;
+	- **c)** les camions et les autobus ayant une vitesse, à 3,2 km (2 milles), d’au plus 53,1 km/h;
+	- **d)** les camions ayant une vitesse, à 3,2 km (2 milles), d’au plus 72,3 km/h, ayant une masse du véhicule sans charge équivalente à au moins 95 pour cent de leur PNBV et n’ayant aucune place pour les occupants autres que le conducteur et l’équipe du véhicule;
+	- **e)** les remorques dont le PNBV est de plus de 54 432 kg et dont la carrosserie est conforme à celle mentionnée à la définition de ***remorque lourde*** au paragraphe 2(1) du présent règlement;
+	- **f)** les remorques dont la masse du véhicule sans charge est équivalente à au moins 95 pour cent de leur PNBV;
+	- **g)** les chariots de répartition de charge.
 
-- **(3)** Les camions, les autobus et les remorques doivent être conformes aux exigences du Document de normes techniques no 121 — Systèmes de freinage à air comprimé (DNT 121), avec ses modifications successives.
+- **(3)** Les camions, les autobus et les remorques doivent être conformes aux exigences du Document de normes techniques no 121 — Systèmes de freinage à air comprimé (DNT 121), avec ses modifications successives.
 
 - **(4)** Dans les cas des camions et des autobus qui sont munis d’une soupape de limitation de pression dans les freins avant, celle-ci doit être automatique et fonctionner pendant le serrage des freins de service.
 
-- **(5)** Tout indicateur du mauvais fonctionnement du dispositif de frein antiblocage visé à la disposition S5.1.6.2 du DNT 121 doit être le témoin du mauvais fonctionnement du système de freinage antiblocage qui figure à l’article 101.
+- **(5)** Tout indicateur du mauvais fonctionnement du dispositif de frein antiblocage visé à la disposition S5.1.6.2 du DNT 121 doit être le témoin du mauvais fonctionnement du système de freinage antiblocage qui figure à l’article 101.
 
-- **(6)** L’essai qui concerne la force de freinage statique sur les freins de stationnement et qui est visé à la disposition S5.6.1 du DNT 121 doit être effectué dans les deux directions, vers l’avant et vers l’arrière.
+- **(6)** L’essai qui concerne la force de freinage statique sur les freins de stationnement et qui est visé à la disposition S5.6.1 du DNT 121 doit être effectué dans les deux directions, vers l’avant et vers l’arrière.
 
 - **(7)** [Abrogé, DORS/2014-307, art. 8]
 > DORS/78-351, art. 2; DORS/79-547, art. 1; DORS/79-940, art. 7; DORS/80-638, art. 2; DORS/92-250, art. 4; DORS/94-374, art. 5(F); DORS/94-670, art. 2(F); DORS/95-147, art. 15(F); DORS/96-89, art. 3 et 4(F); DORS/97-200, art. 6; DORS/97-421, art. 9(A) et 22(F); DORS/98-524, art. 4(F); DORS/99-357, art. 4; DORS/2002-55, art. 21; DORS/2005-42, art. 13; DORS/2008-104, art. 14; DORS/2009-79, art. 2; DORS/2009-318, art. 19(F); DORS/2013-220, art. 1; DORS/2014-307, art. 8..
@@ -5421,7 +5190,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 
 
-### Systèmes de freinage des motocyclettes (Norme 122)
+### Systèmes de freinage des motocyclettes (Norme 122)
 
 
 #### Dispositions générales
@@ -5429,31 +5198,26 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 **122** 
 
 - **(1)** Toute motocyclette doit être conforme :
-	- **a)
-** soit aux exigences du Document de normes techniques no 122 — Systèmes de freinage des motocyclettes (DNT 122), avec ses modifications successives;
-	- **b)
-** soit aux exigences prévues aux paragraphes 5 et 6 et à l’annexe 3 du règlement n<sup>o</sup> 78, Révision 1, de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des véhicules des catégories L1, L2, L3, L4 et L5 en ce qui concerne le freinage, dans la version en vigueur le 24 juin 2008, tel qu’il est modifié par tout amendement subséquent de la série 03 d’amendements (règlement n<sup>o</sup> 78 de la CEE).
+	- **a)** soit aux exigences du Document de normes techniques no 122 — Systèmes de freinage des motocyclettes (DNT 122), avec ses modifications successives;
+	- **b)** soit aux exigences prévues aux paragraphes 5 et 6 et à l’annexe 3 du règlement n<sup>o</sup> 78, Révision 1, de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des véhicules des catégories L1, L2, L3, L4 et L5 en ce qui concerne le freinage, dans la version en vigueur le 24 juin 2008, tel qu’il est modifié par tout amendement subséquent de la série 03 d’amendements (règlement n<sup>o</sup> 78 de la CEE).
 
 - **(2)** Toute motocyclette conçue pour fonctionner avec ou sans un side-car doit, dans chacune de ces configurations, être conforme aux exigences du paragraphe (1).
 
-- **(3)** Toute motocyclette doit porter une marque contenant le symbole « DOT », suivi de la mention du type de liquide pour frein recommandé par le fabricant.
+- **(3)** Toute motocyclette doit porter une marque contenant le symbole « DOT », suivi de la mention du type de liquide pour frein recommandé par le fabricant.
 
 - **(4)** La marque doit :
-	- **a)
-** être apposée de façon permanente et être d’une couleur contrastante par rapport à son arrière-plan ou être gravée en creux ou en relief;
-	- **b)
-** être placée, de façon à être visible sans obstacle, soit sur le bouchon de remplissage du réservoir de liquide pour frein, soit dans un rayon d’au plus 101,6 mm de celui-ci;
-	- **c)
-** avoir des lettres et des chiffres d’au moins 2,38 mm de hauteur.
+	- **a)** être apposée de façon permanente et être d’une couleur contrastante par rapport à son arrière-plan ou être gravée en creux ou en relief;
+	- **b)** être placée, de façon à être visible sans obstacle, soit sur le bouchon de remplissage du réservoir de liquide pour frein, soit dans un rayon d’au plus 101,6 mm de celui-ci;
+	- **c)** avoir des lettres et des chiffres d’au moins 2,38 mm de hauteur.
 
 - **(5)** Les versions française et anglaise du manuel de l’usager doivent contenir, respectivement, la version française ou anglaise de l’avertissement ci-après concernant le liquide pour frein :
-« AVERTISSEMENT : Nettoyer le bouchon de remplissage avant de l’enlever. Utiliser seulement du liquide [insérer ici les renseignements figurant sur la marque visée au paragraphe (3)] provenant d’un contenant scellé. »
+« AVERTISSEMENT : Nettoyer le bouchon de remplissage avant de l’enlever. Utiliser seulement du liquide [insérer ici les renseignements figurant sur la marque visée au paragraphe (3)] provenant d’un contenant scellé. »
 *“WARNING: Clean filler cap before removing. Use only [here insert the information contained on the mark referred to in subsection (3)] fluid from a sealed container.”*
 
 #### Document de normes techniques n<sup>o</sup> 122
 
 
-- **(6)** Pour l’application du DNT 122, les définitions de ***commande***, ***dispositif de frein antiblocage*** ou ***ABS***, ***distance d’arrêt*** et ***système de frein de service partagé***, au paragraphe 2(1) du présent règlement, et l’article 5.3 du présent règlement ne s’appliquent pas.
+- **(6)** Pour l’application du DNT 122, les définitions de ***commande***, ***dispositif de frein antiblocage*** ou ***ABS***, ***distance d’arrêt*** et ***système de frein de service partagé***, au paragraphe 2(1) du présent règlement, et l’article 5.3 du présent règlement ne s’appliquent pas.
 
 - **(7) à (11)** [Abrogés, DORS/2015–111, art. 2]
 
@@ -5461,16 +5225,11 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 
 - **(12)** Pour l’application du présent article :
-	- **a)
-** tout renvoi à la catégorie de véhicule « L<sub>1</sub> » dans le règlement n<sup>o</sup> 78 de la CEE constitue un renvoi à une motocyclette à vitesse limitée qui est conçue pour rouler sur deux roues en contact avec le sol et qui a une vitesse maximale de 50 km/h ou moins;
-	- **b)
-** tout renvoi à la catégorie de véhicule « L<sub>2</sub> » dans le règlement n<sup>o</sup> 78 de la CEE constitue un renvoi à une motocyclette à vitesse limitée qui est conçue pour rouler sur trois roues en contact avec le sol et qui a une vitesse maximale de 50 km/h ou moins;
-	- **c)
-** tout renvoi à la catégorie de véhicule « L<sub>3</sub> » dans le règlement n<sup>o</sup> 78 de la CEE constitue un renvoi à une motocyclette qui est conçue pour rouler sur deux roues en contact avec le sol, qui a une vitesse maximale supérieure à 50 km/h et qui n’est pas équipée d’un side-car;
-	- **d)
-** tout renvoi à la catégorie de véhicule « L<sub>4</sub> » dans le règlement n<sup>o</sup> 78 de la CEE constitue un renvoi à une motocyclette qui est conçue pour rouler sur deux roues en contact avec le sol et qui est équipée d’un side-car, et à une motocyclette qui est conçue pour rouler sur trois roues en contact avec le sol, lesquelles sont asymétriques par rapport à l’axe médian longitudinal;
-	- **e)
-** tout renvoi à la catégorie de véhicule « L<sub>5</sub> » dans le règlement n<sup>o</sup> 78 de la CEE constitue un renvoi à une motocyclette qui a une vitesse maximale supérieure à 50 km/h et qui est conçue pour rouler sur trois roues en contact avec le sol, lesquelles sont symétriques par rapport à l’axe médian longitudinal.
+	- **a)** tout renvoi à la catégorie de véhicule « L<sub>1</sub> » dans le règlement n<sup>o</sup> 78 de la CEE constitue un renvoi à une motocyclette à vitesse limitée qui est conçue pour rouler sur deux roues en contact avec le sol et qui a une vitesse maximale de 50 km/h ou moins;
+	- **b)** tout renvoi à la catégorie de véhicule « L<sub>2</sub> » dans le règlement n<sup>o</sup> 78 de la CEE constitue un renvoi à une motocyclette à vitesse limitée qui est conçue pour rouler sur trois roues en contact avec le sol et qui a une vitesse maximale de 50 km/h ou moins;
+	- **c)** tout renvoi à la catégorie de véhicule « L<sub>3</sub> » dans le règlement n<sup>o</sup> 78 de la CEE constitue un renvoi à une motocyclette qui est conçue pour rouler sur deux roues en contact avec le sol, qui a une vitesse maximale supérieure à 50 km/h et qui n’est pas équipée d’un side-car;
+	- **d)** tout renvoi à la catégorie de véhicule « L<sub>4</sub> » dans le règlement n<sup>o</sup> 78 de la CEE constitue un renvoi à une motocyclette qui est conçue pour rouler sur deux roues en contact avec le sol et qui est équipée d’un side-car, et à une motocyclette qui est conçue pour rouler sur trois roues en contact avec le sol, lesquelles sont asymétriques par rapport à l’axe médian longitudinal;
+	- **e)** tout renvoi à la catégorie de véhicule « L<sub>5</sub> » dans le règlement n<sup>o</sup> 78 de la CEE constitue un renvoi à une motocyclette qui a une vitesse maximale supérieure à 50 km/h et qui est conçue pour rouler sur trois roues en contact avec le sol, lesquelles sont symétriques par rapport à l’axe médian longitudinal.
 
 - **(13)** Pour l’application du présent article et malgré la définition de ***véhicules à trois roues*** figurant au paragraphe 2(1) du présent règlement, le terme ***véhicule à trois roues*** employé dans le règlement n<sup>o</sup> 78 de la CEE s’entend d’une motocyclette qui est conçue pour rouler sur deux roues en contact avec le sol et qui est équipée d’un side-car, et d’une motocyclette qui est conçue pour rouler sur trois roues en contact avec le sol.
 
@@ -5480,64 +5239,58 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(16)** Malgré la seconde phrase du paragraphe 5.1.6 du règlement n<sup>o</sup> 78 de la CEE, la présence d’un frein sur la roue du side-car n’est jamais exigée.
 
-- **(17)** Toute mention, au paragraphe 5.1.12 du règlement n<sup>o</sup> 78 de la CEE, d’une lampe témoin vaut mention du témoin de mauvais fonctionnement du système de freinage qui figure au tableau de l’article 101 de la présente annexe.
+- **(17)** Toute mention, au paragraphe 5.1.12 du règlement n<sup>o</sup> 78 de la CEE, d’une lampe témoin vaut mention du témoin de mauvais fonctionnement du système de freinage qui figure au tableau de l’article 101 de la présente annexe.
 
-- **(18)** Toute mention, au paragraphe 5.1.13 du règlement n<sup>o</sup> 78 de la CEE, d’une lampe témoin vaut mention du témoin de mauvais fonctionnement du système de freinage antiblocage qui figure au tableau de l’article 101 de la présente annexe.
+- **(18)** Toute mention, au paragraphe 5.1.13 du règlement n<sup>o</sup> 78 de la CEE, d’une lampe témoin vaut mention du témoin de mauvais fonctionnement du système de freinage antiblocage qui figure au tableau de l’article 101 de la présente annexe.
 
 #### Disposition transitoire
 
 
-- **(19)** Malgré les paragraphes (1) à (18), toute motocyclette peut, jusqu’au 1<sup>er</sup> septembre 2016, être conforme aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
+- **(19)** Malgré les paragraphes (1) à (18), toute motocyclette peut, jusqu’au 1<sup>er</sup> septembre 2016, être conforme aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
 > DORS/81-88, art. 3; DORS/88-268, art. 9; DORS/98-524, art. 4(F); DORS/2001-255, art. 1; DORS/2003-272, art. 18; DORS/2005-42, art. 3 et 4; DORS/2009-330, art. 4; DORS/2011-263, art. 3; DORS/2014-82, art. 4; DORS/2015-24, art. 5; DORS/2015-111, art. 2..
 
 
 
 
-### Commandes et affichages des motocyclettes (Norme 123)
+### Commandes et affichages des motocyclettes (Norme 123)
 > [DORS/93-31, art. 4; DORS/2007-180, art. 9; DORS/2011-238, art. 3]
 
 
 **123** 
 
-- **(1)** Les motocyclettes, sauf celles qui sont conçues pour les organismes chargés de l’application de la loi et vendues exclusivement pour leur utilisation, doivent être conformes aux exigences du Document de normes techniques no 123 — Commandes et affichages des motocyclettes (DNT 123), avec ses modifications successives.
+- **(1)** Les motocyclettes, sauf celles qui sont conçues pour les organismes chargés de l’application de la loi et vendues exclusivement pour leur utilisation, doivent être conformes aux exigences du Document de normes techniques no 123 — Commandes et affichages des motocyclettes (DNT 123), avec ses modifications successives.
 
 - **(2)** Les motocyclettes doivent être munies des commandes suivantes :
-	- **a)
-** un avertisseur;
-	- **b)
-** une vanne de fermeture du réservoir de carburant;
-	- **c)
-** une manette tournante des gaz;
-	- **d)
-** un frein de la roue avant;
-	- **e)
-** un frein de la roue arrière;
-	- **f)
-** un commutateur d’allumage.
+	- **a)** un avertisseur;
+	- **b)** une vanne de fermeture du réservoir de carburant;
+	- **c)** une manette tournante des gaz;
+	- **d)** un frein de la roue avant;
+	- **e)** un frein de la roue arrière;
+	- **f)** un commutateur d’allumage.
 
 - **(3)** Le commutateur d’allumage est facultatif dans le cas d’une motocyclette à vitesse limitée.
 
-- **(4)** L’article 12 du tableau 3 du DNT 123 ne s’applique qu’aux vannes de fermeture du réservoir de carburant manuelles.
+- **(4)** L’article 12 du tableau 3 du DNT 123 ne s’applique qu’aux vannes de fermeture du réservoir de carburant manuelles.
 
-- **(5)** Les commandes ou les affichages qui ne sont pas énumérés au tableau 3 du DNT 123 et pour lesquels aucune autre exigence relative à une forme d’identification n’est précisée dans le présent règlement doivent, s’ils sont identifiés, être indiqués par le symbole correspondant qui figure dans la norme internationale ISO 6727, intitulée Véhicules routiers — Motocycles — Symboles pour les commandes, indicateurs et témoins, avec ses modifications successives.
+- **(5)** Les commandes ou les affichages qui ne sont pas énumérés au tableau 3 du DNT 123 et pour lesquels aucune autre exigence relative à une forme d’identification n’est précisée dans le présent règlement doivent, s’ils sont identifiés, être indiqués par le symbole correspondant qui figure dans la norme internationale ISO 6727, intitulée Véhicules routiers — Motocycles — Symboles pour les commandes, indicateurs et témoins, avec ses modifications successives.
 
-- **(6)** Les commandes ou les affichages pour lesquels un symbole n’est pas précisé au tableau 3 du DNT 123 ni dans la norme internationale ISO 6727, intitulée Véhicules routiers — Motocycles — Symboles pour les commandes, indicateurs et témoins, avec ses modifications successives, peuvent être indiqués par un symbole conçu par le fabricant en conformité avec les principes précisés dans cette norme.
+- **(6)** Les commandes ou les affichages pour lesquels un symbole n’est pas précisé au tableau 3 du DNT 123 ni dans la norme internationale ISO 6727, intitulée Véhicules routiers — Motocycles — Symboles pour les commandes, indicateurs et témoins, avec ses modifications successives, peuvent être indiqués par un symbole conçu par le fabricant en conformité avec les principes précisés dans cette norme.
 
-- **(7)** Le terme ***motocycle*** qui est employé dans la norme internationale ISO 6727, intitulée Véhicules routiers — Motocycles — Symboles pour les commandes, indicateurs et témoins, avec ses modifications successives, s’entend au sens de « motocyclette » au paragraphe 2(1) du présent règlement.
+- **(7)** Le terme ***motocycle*** qui est employé dans la norme internationale ISO 6727, intitulée Véhicules routiers — Motocycles — Symboles pour les commandes, indicateurs et témoins, avec ses modifications successives, s’entend au sens de « motocyclette » au paragraphe 2(1) du présent règlement.
 
 - **(8)** Les mots et les abréviations dont l’affichage est exigé en application du présent article doivent être affichés dans les deux langues officielles. Cependant, s’il n’y a pas suffisamment d’espace pour afficher les mots ou les abréviations indiquant le commutateur d’allumage, le compte-tours ou la vanne de fermeture du réservoir de carburant de manière qu’ils soient facilement visibles dans les deux langues officielles, ceux-ci peuvent être affichés dans une seule des langues officielles.
 
 - **(9)** Les symboles et les abréviations utilisés pour indiquer les commandes et les affichages des motocyclettes doivent être reproduits dans les versions française et anglaise du manuel de l’usager et être accompagnés d’une explication complète.
 
-- **(10)** Malgré les exigences de l’article 8 du tableau 3 du DNT 123, l’indicateur de vitesse installé sur une motocyclette doit être calibré en kilomètres à l’heure ou en kilomètres et en milles à l’heure. Les indicateurs de vitesse numériques qui passent d’une unité de mesure à l’autre sont permis si l’unité de mesure est indiquée.
+- **(10)** Malgré les exigences de l’article 8 du tableau 3 du DNT 123, l’indicateur de vitesse installé sur une motocyclette doit être calibré en kilomètres à l’heure ou en kilomètres et en milles à l’heure. Les indicateurs de vitesse numériques qui passent d’une unité de mesure à l’autre sont permis si l’unité de mesure est indiquée.
 
-- **(11)** Si l’affichage de l’indicateur de vitesse est analogique, l’échelle des kilomètres doit augmenter dans le sens des aiguilles d’une montre. Les gradations et les chiffres importants doivent apparaître à des intervalles de 10 ou 20 kilomètres à l’heure et les gradations moins importantes à des intervalles de 5 ou 10 kilomètres à l’heure.
+- **(11)** Si l’affichage de l’indicateur de vitesse est analogique, l’échelle des kilomètres doit augmenter dans le sens des aiguilles d’une montre. Les gradations et les chiffres importants doivent apparaître à des intervalles de 10 ou 20 kilomètres à l’heure et les gradations moins importantes à des intervalles de 5 ou 10 kilomètres à l’heure.
 
 - **(12)** L’odomètre ou le totalisateur partiel installé sur une motocyclette à côté de l’indicateur de vitesse doit afficher les distances dans l’unité de mesure qui prédomine sur l’indicateur de vitesse. Si l’odomètre ou le totalisateur partiel n’est pas placé à côté de l’indicateur de vitesse ou s’il ne passe pas d’une unité de mesure à l’autre en même temps que l’indicateur de vitesse, l’odomètre ou le totalisateur partiel doit afficher les distances en kilomètres ou en milles et indiquer l’unité de mesure utilisée.
 
-- **(13)** La disposition S5.2.4 du DNT 123 ne s’applique pas aux tricycles à moteur.
+- **(13)** La disposition S5.2.4 du DNT 123 ne s’applique pas aux tricycles à moteur.
 
-- **(14)** Malgré la disposition S5.2.5 du DNT 123, il n’est pas nécessaire qu’un cale-pied pour le passager sur une motocyclette se rabatte vers l’arrière et vers le haut lorsqu’il n’est pas utilisé.
+- **(14)** Malgré la disposition S5.2.5 du DNT 123, il n’est pas nécessaire qu’un cale-pied pour le passager sur une motocyclette se rabatte vers l’arrière et vers le haut lorsqu’il n’est pas utilisé.
 
 - **(15)** L’affichage des feux de changement de direction installé sur une motocyclette doit être vert ou jaune.
 
@@ -5547,11 +5300,11 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 
 
-### Systèmes de commande d’accélération (Norme 124)
+### Systèmes de commande d’accélération (Norme 124)
 
 **124** 
 
-- **(1)** Les voitures de tourisme, les véhicules de tourisme à usages multiples, les camions, les autobus et les véhicules à trois roues doivent être conformes aux exigences du Document de normes techniques no 124 — Systèmes de commande d’accélération, avec ses modifications successives.
+- **(1)** Les voitures de tourisme, les véhicules de tourisme à usages multiples, les camions, les autobus et les véhicules à trois roues doivent être conformes aux exigences du Document de normes techniques no 124 — Systèmes de commande d’accélération, avec ses modifications successives.
 
 - **(2)** [Abrogé, DORS/2014-307, art. 10]
 > DORS/79-940, art. 7; DORS/2007-180, art. 10; DORS/2011-238, art. 3; DORS/2014-307, art. 10..
@@ -5559,11 +5312,11 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 
 
-### Systèmes de contrôle électronique de la stabilité (Norme 126)
+### Systèmes de contrôle électronique de la stabilité (Norme 126)
 
 **126** 
 
-- **(1)** Les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus d’un PNBV de 4 536 kg ou moins doivent être conformes aux exigences du Document de normes techniques n° 126 — Systèmes de contrôle électronique de la stabilité (DNT 126), avec ses modifications successives.
+- **(1)** Les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus d’un PNBV de 4 536 kg ou moins doivent être conformes aux exigences du Document de normes techniques n° 126 — Systèmes de contrôle électronique de la stabilité (DNT 126), avec ses modifications successives.
 
 - **(2)** [Abrogé, DORS/2014-307, art. 11]
 > DORS/2013-55, art. 1; DORS/2014-307, art. 11..
@@ -5571,13 +5324,13 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 
 
-### Dispositifs de sécurité pour les piétons à proximité des autobus scolaires (Norme 131)
+### Dispositifs de sécurité pour les piétons à proximité des autobus scolaires (Norme 131)
 
 **131** 
 
-- **(1)** Sous réserve du paragraphe (2), les autobus scolaires autres que les autobus multifonctions pour les activités scolaires doivent être munis d’un ou de deux signaux d’arrêt escamotables qui sont conformes aux exigences du Document de normes techniques no 131 — Dispositifs de sécurité pour les piétons à proximité des autobus scolaires (DNT 131), avec ses modifications successives.
+- **(1)** Sous réserve du paragraphe (2), les autobus scolaires autres que les autobus multifonctions pour les activités scolaires doivent être munis d’un ou de deux signaux d’arrêt escamotables qui sont conformes aux exigences du Document de normes techniques no 131 — Dispositifs de sécurité pour les piétons à proximité des autobus scolaires (DNT 131), avec ses modifications successives.
 
-- **(2)** Le mot « ARRÊT » peut figurer à la place du mot « *STOP* » ou avec celui-ci, de la manière précisée pour le mot « *STOP* » à la disposition S5.2.2 du DNT 131.
+- **(2)** Le mot « ARRÊT » peut figurer à la place du mot « *STOP* » ou avec celui-ci, de la manière précisée pour le mot « *STOP* » à la disposition S5.2.2 du DNT 131.
 
 - **(3)** [Abrogé, DORS/2014-307, art. 12]
 > DORS/96-366, art. 9; DORS/2001-116, art. 2; DORS/2005-42, art. 5 et 6; DORS/2009-79, art. 3; DORS/2011-238, art. 3; DORS/2014-307, art. 12; DORS/2015-23, art. 4..
@@ -5585,19 +5338,19 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 
 
-### Systèmes de freinage de véhicules légers (Norme 135)
+### Systèmes de freinage de véhicules légers (Norme 135)
 > [DORS/2001-35, art. 5; DORS/2011-238, art. 3]
 
 
 **135** 
 
-- **(1)** Les voitures de tourisme, les véhicules à trois roues ainsi que les véhicules de tourisme à usages multiples, camions et autobus d’un PNBV de 3 500 kg ou moins doivent être conformes aux exigences du Document de normes techniques no 135 — Systèmes de freinage de véhicules légers (DNT 135), avec ses modifications successives.
+- **(1)** Les voitures de tourisme, les véhicules à trois roues ainsi que les véhicules de tourisme à usages multiples, camions et autobus d’un PNBV de 3 500 kg ou moins doivent être conformes aux exigences du Document de normes techniques no 135 — Systèmes de freinage de véhicules légers (DNT 135), avec ses modifications successives.
 
-- **(2)** La mention figurant à la disposition S5.4.3 du DNT 135 peut être remplacée par une autre mention au même effet.
+- **(2)** La mention figurant à la disposition S5.4.3 du DNT 135 peut être remplacée par une autre mention au même effet.
 
 - **(3)** L’indicateur de fonctionnement du système de freinage visé à la disposition S5.5.5 du DNT 135 doit, lorsqu’il s’allume dans une situation prévue à la disposition S5.5.1 du DNT 135, afficher le symbole d’identification figurant au table de l’article 101 de la présente annexe qui correspond à cette situation, mais si le véhicule est muni d’un indicateur de fonctionnement de système de freinage commun, celui-ci doit afficher le symbole d’identification figurant au tableau de l’article 101 de la présente annexe qui correspond au mauvais fonctionnement d’un système de freinage.
 
-- **(4)** Le mot « car » employé dans les dispositions S6.3.6 et S6.3.7 de la version anglaise du DNT 135 vaut mention de « vehicle ».
+- **(4)** Le mot « car » employé dans les dispositions S6.3.6 et S6.3.7 de la version anglaise du DNT 135 vaut mention de « vehicle ».
 
 - **(5) à (7)** [Abrogés, DORS/2015-24, art. 6]
 > DORS/97-200, art. 5; DORS/99-357, art. 5; DORS/2001-35, art. 6; DORS/2003-272, art. 20; DORS/2005-42, art. 13; DORS/2006-94, art. 4(A); DORS/2008-104, art. 15; DORS/2009-79, art. 4; DORS/2009-318, art. 19(F); DORS/2011-238, art. 3; DORS/2015-24, art. 6..
@@ -5619,93 +5372,62 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 ***appareil de mesure*** Appareil ayant une tête factice sphérique d’un diamètre de 165 mm (6,5 po) fixée à un pivot, la distance entre le point d’articulation du pivot et le sommet de la tête factice étant réglable à tout point situé entre 740 mm (29 po) et 840 mm (33 po). (*measuring device*)
 
-
-***porte de compartiment intérieur*** désigne toute porte ou tout couvercle installés par le fabricant à l’intérieur d’un véhicule pour enfermer un espace de rangement normalement utilisé pour placer des effets personnels; (*interior compartment door*)
-
+***porte de compartiment intérieur*** désigne toute porte ou tout couvercle installés par le fabricant à l’intérieur d’un véhicule pour enfermer un espace de rangement normalement utilisé pour placer des effets personnels; (*interior compartment door*) 
 
 ***zone d’impact de la tête*** désigne les surfaces non vitrées de l’intérieur du véhicule avec lesquelles la tête factice d’un appareil de mesure peut entrer en contact d’après la méthode suivante ou sa représentation graphique :
-
-- **a)
-** à chaque place assise désignée, placer le pivot de l’appareil de mesure,
+- **a)** à chaque place assise désignée, placer le pivot de l’appareil de mesure,
 	- **(i)** pour les sièges réglables,
 		- **(A)** au point de référence de position assise, et
 		- **(B)** à un point situé à une distance horizontale de 130 mm (5 po) devant le point de référence de position assise, déplacé verticalement de 20 mm (0,75 po) ou jusqu’au niveau qu’il atteint lorsque le siège est avancé de 130 mm (5 po), et
 	- **(ii)** pour les sièges non réglables, au point de référence de position assise,
-- **b)
-** le pivot étant placé à chacune des distances du sommet de la tête permises à l’appareil de mesure par les dimensions intérieures du véhicule, déterminer tous les points de contact situés au-dessus de la limite inférieure de la surface vitrée du pare-brise et devant le point de référence de position assise, et
-- **c)
-** la tête factice de l’appareil de mesure étant placée à chaque point de contact mentionné à l’alinéa b) et l’appareil de mesure étant en position verticale s’il n’existe pas de point de contact pour un réglage particulier de la distance, faire pivoter l’appareil de mesure vers l’avant et vers le bas, lui faisant ainsi décrire tous les arcs possibles dans des plans verticaux de 90° de chaque côté du plan longitudinal passant par le point de référence de position assise, jusqu’à ce que la tête factice entre en contact avec une surface intérieure ou jusqu’à ce qu’elle soit tangente à un plan horizontal situé à 25 mm (1 pouce) au-dessus du point de référence de position assise, selon ce qui se produit en premier. (*head impact area*)
+- **b)** le pivot étant placé à chacune des distances du sommet de la tête permises à l’appareil de mesure par les dimensions intérieures du véhicule, déterminer tous les points de contact situés au-dessus de la limite inférieure de la surface vitrée du pare-brise et devant le point de référence de position assise, et
+- **c)** la tête factice de l’appareil de mesure étant placée à chaque point de contact mentionné à l’alinéa b) et l’appareil de mesure étant en position verticale s’il n’existe pas de point de contact pour un réglage particulier de la distance, faire pivoter l’appareil de mesure vers l’avant et vers le bas, lui faisant ainsi décrire tous les arcs possibles dans des plans verticaux de 90° de chaque côté du plan longitudinal passant par le point de référence de position assise, jusqu’à ce que la tête factice entre en contact avec une surface intérieure ou jusqu’à ce qu’elle soit tangente à un plan horizontal situé à 25 mm (1 pouce) au-dessus du point de référence de position assise, selon ce qui se produit en premier. (*head impact area*)
 
 ***zone d’impact pelvienne*** désigne la partie de la porte ou du panneau latéral intérieur de la carrosserie adjacent à n’importe laquelle des places assises désignées extérieures et délimitée par 
-
-- **a)
-** deux plans horizontaux situés à 180 mm (7 po) au-dessus et à 100 mm (4 po) au-dessous du point de référence de position assise, et
-- **b)
-** deux plans verticaux et transversaux, situés à 200 mm (8 po) devant et à 50 mm (2 po) derrière le point de référence de position assise. (*pelvic impact area*)
+- **a)** deux plans horizontaux situés à 180 mm (7 po) au-dessus et à 100 mm (4 po) au-dessous du point de référence de position assise, et
+- **b)** deux plans verticaux et transversaux, situés à 200 mm (8 po) devant et à 50 mm (2 po) derrière le point de référence de position assise. (*pelvic impact area*)
 
 - **(2)** Le présent article s’applique aux voitures de tourisme, ainsi qu’aux véhicules de tourisme à usages multiples, camions et autobus ayant un PNBV d’au plus 4 536 kg (10 000 lb).
 
-- **(3)** Sous réserve du paragraphe (3.2), le tableau de bord de tout véhicule doit être construit de façon que la décélération d’une tête factice sphérique, d’un poids de 6,8 kg (15 lb) et d’un diamètre de 165 mm (6,5 po), ne dépasse pas 80 g de façon continue pendant plus de 3 ms lorsque la partie du tableau de bord qui se trouve dans la zone d’impact de la tête est percutée conformément à la méthode d’essai visée au paragraphe (3.1) à une vitesse relative de :
-	- **a)
-** 19,3 km/h, s’il s’agit d’un véhicule muni, à la place assise désignée extérieure avant droite, d’un sac gonflable et d’une ceinture de sécurité manuelle de type 2, conformes à l’article 208;
-	- **b)
-** 24 km/h (15 mi/h), s’il s’agit d’un autre véhicule.
+- **(3)** Sous réserve du paragraphe (3.2), le tableau de bord de tout véhicule doit être construit de façon que la décélération d’une tête factice sphérique, d’un poids de 6,8 kg (15 lb) et d’un diamètre de 165 mm (6,5 po), ne dépasse pas 80 g de façon continue pendant plus de 3 ms lorsque la partie du tableau de bord qui se trouve dans la zone d’impact de la tête est percutée conformément à la méthode d’essai visée au paragraphe (3.1) à une vitesse relative de :
+	- **a)** 19,3 km/h, s’il s’agit d’un véhicule muni, à la place assise désignée extérieure avant droite, d’un sac gonflable et d’une ceinture de sécurité manuelle de type 2, conformes à l’article 208;
+	- **b)** 24 km/h (15 mi/h), s’il s’agit d’un autre véhicule.
 
 - **(3.1)** L’essai du tableau de bord doit être effectué conformément à la pratique recommandée de la SAE intitulée « *Motor Vehicle Instrument Panel Laboratory Impact Test Procedure — Head Area — SAE J921b* » (novembre 1971) au moyen des instruments dont le rendement est précisé dans la pratique recommandée de la SAE intitulée « *Instrumentation For Impact Tests — SAE J211* » (octobre 1988), exception faite de ce qui suit :
-	- **a)
-** l’origine de la ligne tangente à la surface du tableau de bord doit être en un point situé sur une ligne horizontale transversale passant par un point situé à 130 mm (5 po), sur le plan horizontal, devant le point de référence de position assise de la place assise désignée extérieure avant, déplacé verticalement de 19 mm (0,75 po) ou d’une distance égale au niveau qu’atteint le point de référence de position assise lorsque le siège est avancé de 130 mm (5 po);
-	- **b)
-** la direction de l’impact doit se trouver dans un plan vertical parallèle à l’axe longitudinal du véhicule ou dans un plan perpendiculaire à la surface au point de contact.
+	- **a)** l’origine de la ligne tangente à la surface du tableau de bord doit être en un point situé sur une ligne horizontale transversale passant par un point situé à 130 mm (5 po), sur le plan horizontal, devant le point de référence de position assise de la place assise désignée extérieure avant, déplacé verticalement de 19 mm (0,75 po) ou d’une distance égale au niveau qu’atteint le point de référence de position assise lorsque le siège est avancé de 130 mm (5 po);
+	- **b)** la direction de l’impact doit se trouver dans un plan vertical parallèle à l’axe longitudinal du véhicule ou dans un plan perpendiculaire à la surface au point de contact.
 
-- **(3.2)** Le paragraphe (3) ne s’applique pas :
-	- **a)
-** à la console;
-	- **b)
-** à toute surface qui se trouve à moins de 130 mm (5 po) de l’intersection du tableau de bord avec la partie latérale intérieure de la carrosserie;
-	- **c)
-** à toute surface qui se trouve plus proche de l’intersection du pare-brise avec le tableau de bord que toute surface avec laquelle peut entrer en contact la tête factice, lorsque le pare-brise est en place;
-	- **d)
-** à toute surface qui se trouve vers l’extérieur par rapport à tout point de la ligne de contact de la tête factice et du tableau de bord lorsque la tête factice est déplacée le long du côté intérieur d’un plan longitudinal vertical tangent au bord intérieur du volant;
-	- **e)
-** à toute surface qui se trouve au-dessous de tout point auquel une ligne verticale est tangente à la surface la plus arrière du tableau de bord.
+- **(3.2)** Le paragraphe (3) ne s’applique pas :
+	- **a)** à la console;
+	- **b)** à toute surface qui se trouve à moins de 130 mm (5 po) de l’intersection du tableau de bord avec la partie latérale intérieure de la carrosserie;
+	- **c)** à toute surface qui se trouve plus proche de l’intersection du pare-brise avec le tableau de bord que toute surface avec laquelle peut entrer en contact la tête factice, lorsque le pare-brise est en place;
+	- **d)** à toute surface qui se trouve vers l’extérieur par rapport à tout point de la ligne de contact de la tête factice et du tableau de bord lorsque la tête factice est déplacée le long du côté intérieur d’un plan longitudinal vertical tangent au bord intérieur du volant;
+	- **e)** à toute surface qui se trouve au-dessous de tout point auquel une ligne verticale est tangente à la surface la plus arrière du tableau de bord.
 
-- **(4)** Sous réserve du paragraphe (4.1), les sièges de tout véhicule doivent être construits de façon que la décélération d’une tête factice sphérique, d’un poids de 6,8 kg (15 lb) et d’un diamètre de 165 mm (6,5 po), ne dépasse pas 80 g de façon continue pendant plus de 3 ms lorsque la partie d’un dossier de siège se trouvant dans la zone d’impact de la tête est percutée à une vitesse relative de 24 km/h (15 mi/h), conformément à la pratique recommandée de la SAE intitulée « *Motor Vehicle Seatback Assembly Laboratory Impact Test Procedure — Head Area — SAE J346* » (juin 1971) au moyen des instruments dont le rendement est précisé dans la pratique recommandée de la SAE intitulée « *Instrumentation For Impact Tests — SAE J211* » (octobre 1988), exception faite de ce qui suit :
-	- **a)
-** l’origine de la ligne tangente à la pièce la plus élevée du cadre du dossier de siège doit être en un point situé sur une ligne horizontale transversale passant par le point de référence de position assise de la place assise désignée extérieure arrière appropriée, les sièges avant réglables étant dans leur position nominale de conduite la plus reculée et les dossiers inclinables des sièges avant étant dans leur position nominale normale;
-	- **b)
-** la direction de l’impact doit se trouver dans un plan vertical parallèle à l’axe longitudinal du véhicule ou dans un plan perpendiculaire à la surface au point de contact;
-	- **c)
-** dans le cas :
+- **(4)** Sous réserve du paragraphe (4.1), les sièges de tout véhicule doivent être construits de façon que la décélération d’une tête factice sphérique, d’un poids de 6,8 kg (15 lb) et d’un diamètre de 165 mm (6,5 po), ne dépasse pas 80 g de façon continue pendant plus de 3 ms lorsque la partie d’un dossier de siège se trouvant dans la zone d’impact de la tête est percutée à une vitesse relative de 24 km/h (15 mi/h), conformément à la pratique recommandée de la SAE intitulée « *Motor Vehicle Seatback Assembly Laboratory Impact Test Procedure — Head Area — SAE J346* » (juin 1971) au moyen des instruments dont le rendement est précisé dans la pratique recommandée de la SAE intitulée « *Instrumentation For Impact Tests — SAE J211* » (octobre 1988), exception faite de ce qui suit :
+	- **a)** l’origine de la ligne tangente à la pièce la plus élevée du cadre du dossier de siège doit être en un point situé sur une ligne horizontale transversale passant par le point de référence de position assise de la place assise désignée extérieure arrière appropriée, les sièges avant réglables étant dans leur position nominale de conduite la plus reculée et les dossiers inclinables des sièges avant étant dans leur position nominale normale;
+	- **b)** la direction de l’impact doit se trouver dans un plan vertical parallèle à l’axe longitudinal du véhicule ou dans un plan perpendiculaire à la surface au point de contact;
+	- **c)** dans le cas :
 		- **(i)** d’un siège sans appuie-têtes, chaque essai doit être effectué :
 			- **(A)** pour chaque dossier divisé ou dossier de siège baquet, entre deux points situés chacun à 100 mm (4 po) de chaque côté de l’axe du dossier,
 			- **(B)** pour chaque dossier unique de banquette, entre deux points situés chacun à 100 mm (4 po) de chaque côté de l’axe de chacune des places assises désignées extérieures,
 		- **(ii)** d’un siège muni d’appuie-têtes, chaque essai doit être effectué à un point de l’axe de chaque appuie-tête, celui-ci étant réglé à sa position la plus basse;
-	- **d)
-** dans le cas d’un type de siège qui est installé dans plusieurs styles de carrosserie, les essais effectués lorsque le siège est dans sa position la plus avancée et dans sa position la plus reculée, déterminée par application de l’alinéa a), sont réputés être concluants pour toutes les positions intermédiaires.
+	- **d)** dans le cas d’un type de siège qui est installé dans plusieurs styles de carrosserie, les essais effectués lorsque le siège est dans sa position la plus avancée et dans sa position la plus reculée, déterminée par application de l’alinéa a), sont réputés être concluants pour toutes les positions intermédiaires.
 
-- **(4.1)** Le paragraphe (4) ne s’applique pas :
-	- **a)
-** aux sièges installés dans un autobus scolaire qui est conforme aux exigences de l’article 222 lorsqu’il est soumis aux Méthodes d’essai de sécurité des véhicules automobiles, article 222, « Sièges pour passager d’autobus scolaire et protection en cas de collisions » (19 décembre 1983);
-	- **b)
-** aux sièges les plus proches de l’arrière du véhicule;
-	- **c)
-** aux sièges latéraux;
-	- **d)
-** aux sièges placés dossier contre dossier;
-	- **e)
-** aux strapontins;
-	- **f)
-** aux sièges temporaires.
+- **(4.1)** Le paragraphe (4) ne s’applique pas :
+	- **a)** aux sièges installés dans un autobus scolaire qui est conforme aux exigences de l’article 222 lorsqu’il est soumis aux Méthodes d’essai de sécurité des véhicules automobiles, article 222, « Sièges pour passager d’autobus scolaire et protection en cas de collisions » (19 décembre 1983);
+	- **b)** aux sièges les plus proches de l’arrière du véhicule;
+	- **c)** aux sièges latéraux;
+	- **d)** aux sièges placés dossier contre dossier;
+	- **e)** aux strapontins;
+	- **f)** aux sièges temporaires.
 
-- **(5)** Sous réserve du paragraphe (7), toute porte de compartiment intérieur qui se trouve dans le tableau de bord, la console, le dossier d’un siège ou le panneau latéral adjacent à une place assise désignée extérieure doit demeurer fermée :
-	- **a)
-** lorsque son système de fermeture est soumis à une force égale à une charge statique de 10 g en une direction horizontale transversale et à une charge statique de 10 g en une direction verticale, conformément à la pratique recommandée de la SAE intitulée « *Passenger Car Side Door Latch Systems — SAE J839* » (juillet 1982);
-	- **b)
-** lorsqu’un des essais suivants est effectué :
-		- **(i)** le véhicule, roulant à une vitesse longitudinale avant de 48 km/h (30 mi/h), est percuté à angle droit contre une barrière fixe pour essais de collision,
+- **(5)** Sous réserve du paragraphe (7), toute porte de compartiment intérieur qui se trouve dans le tableau de bord, la console, le dossier d’un siège ou le panneau latéral adjacent à une place assise désignée extérieure doit demeurer fermée :
+	- **a)** lorsque son système de fermeture est soumis à une force égale à une charge statique de 10 g en une direction horizontale transversale et à une charge statique de 10 g en une direction verticale, conformément à la pratique recommandée de la SAE intitulée « *Passenger Car Side Door Latch Systems — SAE J839* » (juillet 1982);
+	- **b)** lorsqu’un des essais suivants est effectué :
+		- **(i)** le véhicule, roulant à une vitesse longitudinale avant de 48 km/h (30 mi/h), est percuté à angle droit contre une barrière fixe pour essais de collision,
 		- **(ii)** le système de fermeture de la porte de compartiment intérieur est soumis à une force égale à une charge statique horizontale de 30 g en une direction longitudinale, conformément à la pratique recommandée de la SAE intitulée « *Passenger Car Side Door Latch Systems — SAE J839* » (juillet 1982);
-	- **c)
-** lorsque le tableau de bord ou le dossier d’un siège est mis à l’essai conformément aux paragraphes (3) ou (4), selon le cas.
+	- **c)** lorsque le tableau de bord ou le dossier d’un siège est mis à l’essai conformément aux paragraphes (3) ou (4), selon le cas.
 
 - **(6)** [Abrogé, DORS/92-689, art. 1]
 
@@ -5713,21 +5435,16 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(8)** Tout véhicule doit être muni, à chaque place assise désignée extérieure avant, d’un pare-soleil fait ou recouvert d’un matériau amortissant et monté de façon à ne présenter aucun bord en matériau rigide d’un rayon de courbure de moins de 3 mm (0,125 po) avec lequel peut entrer en contact, dans des conditions statiques, une tête factice sphérique d’un diamètre de 165 mm (6,5 po).
 
-- **(9)** Tout accoudoir, autre que celui mentionné au paragraphe (10), installé dans un véhicule doit satisfaire à au moins une des exigences de rendement suivantes :
-	- **a)
-** être fait d’un matériau amortissant qui fléchit latéralement d’au moins 50 mm (2 po) sans permettre de contact avec aucun matériau rigide se trouvant au-dessous;
-	- **b)
-** être :
+- **(9)** Tout accoudoir, autre que celui mentionné au paragraphe (10), installé dans un véhicule doit satisfaire à au moins une des exigences de rendement suivantes :
+	- **a)** être fait d’un matériau amortissant qui fléchit latéralement d’au moins 50 mm (2 po) sans permettre de contact avec aucun matériau rigide se trouvant au-dessous;
+	- **b)** être :
 		- **(i)** fait d’un matériau amortissant qui fléchit jusqu’à 32 mm (1,25 po) de la surface d’un panneau d’essai rigide, sans permettre de contact avec aucun matériau rigide,
 		- **(ii)** construit de façon que la hauteur verticale de tout matériau rigide se trouvant entre 13 mm (0,5 po) et 32 mm (1,25 po) de la surface du panneau est d’au moins 25 mm (1 po);
-	- **c)
-** lorsqu’il est mesuré verticalement, en élévation latérale, assurer une protection d’au moins 50 mm (2 po) dans la zone d’impact pelvienne sur au moins 50 mm (2 po) de sa longueur.
+	- **c)** lorsqu’il est mesuré verticalement, en élévation latérale, assurer une protection d’au moins 50 mm (2 po) dans la zone d’impact pelvienne sur au moins 50 mm (2 po) de sa longueur.
 
 - **(10)** Tout accoudoir escamotable dans le dossier du siège ou entre deux sièges doit
-	- **a)
-** être conforme aux prescriptions du paragraphe (9); ou
-	- **b)
-** être fait ou recouvert d’un matériau amortissant.
+	- **a)** être conforme aux prescriptions du paragraphe (9); ou
+	- **b)** être fait ou recouvert d’un matériau amortissant.
 > DORS/83-138, art. 2; DORS/86-453, art. 2; DORS/92-689, art. 1; DORS/94-374, art. 5(F); DORS/94-692, art. 2(F); DORS/97-447, art. 4; DORS/2006-94, art. 4(A)..
 
 
@@ -5735,7 +5452,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 ### Appuie-tête
 
-**202** Les véhicules de tourisme à usages multiples, autobus ou camions ayant un PNBV d’au plus 4 536 kg, les voitures de tourisme et les véhicules à trois roues doivent être conformes aux exigences du Document de normes techniques no 202 — Appuie-tête (DNT 202), avec ses modifications successives.
+**202** Les véhicules de tourisme à usages multiples, autobus ou camions ayant un PNBV d’au plus 4 536 kg, les voitures de tourisme et les véhicules à trois roues doivent être conformes aux exigences du Document de normes techniques no 202 — Appuie-tête (DNT 202), avec ses modifications successives.
 > DORS/95-60, art. 2; DORS/2003-272, art. 21; DORS/2006-94, art. 4(A); DORS/2007-180, art. 11; DORS/2008-72, art. 4(F); DORS/2009-122, art. 1; DORS/2014-82, art. 5; DORS/2014-307, art. 13..
 
 
@@ -5747,15 +5464,13 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(1)** Le système de commande de direction d’un véhicule doit être construit de façon que ni ses composantes ni ses pièces, notamment la commande de l’avertisseur, ne puissent retenir, lors des manoeuvres normales de conduite, ni les vêtements du conducteur ni ses bijoux, tels qu’une montre, une bague ou un bracelet, autre qu’un bracelet comportant des pièces lâches ou pendantes.
 
-- **(2)** Sous réserve du paragraphe (4), le système de commande de direction des voitures de tourisme, des véhicules à trois roues, ainsi que des véhicules de tourisme à usages multiples, autobus et camions, à l’exception des fourgons à accès en position debout, ayant un PNBV d’au plus 4 536 kg,  doit être mis à l’essai conformément à la pratique recommandée J944 de la SAE, intitulée *Steering Control System — Passenger Car — Laboratory Test Procedure* (juin 1980).
+- **(2)** Sous réserve du paragraphe (4), le système de commande de direction des voitures de tourisme, des véhicules à trois roues, ainsi que des véhicules de tourisme à usages multiples, autobus et camions, à l’exception des fourgons à accès en position debout, ayant un PNBV d’au plus 4 536 kg, doit être mis à l’essai conformément à la pratique recommandée J944 de la SAE, intitulée *Steering Control System — Passenger Car — Laboratory Test Procedure* (juin 1980).
 
-- **(3)** Les exigences ci-après relatives au système de commande de direction doivent être respectées durant la mise à l’essai visée au paragraphe (2) :
-	- **a)
-** le système subit un impact exercé par un bloc corporel à une vitesse relative de 24 km/h;
-	- **b)
-** la force d’impact exercée sur la poitrine du bloc corporel et transmise au système n’excède pas 11 120 N, sauf pendant des intervalles d’une durée cumulative d’au plus 3 ms.
+- **(3)** Les exigences ci-après relatives au système de commande de direction doivent être respectées durant la mise à l’essai visée au paragraphe (2) :
+	- **a)** le système subit un impact exercé par un bloc corporel à une vitesse relative de 24 km/h;
+	- **b)** la force d’impact exercée sur la poitrine du bloc corporel et transmise au système n’excède pas 11 120 N, sauf pendant des intervalles d’une durée cumulative d’au plus 3 ms.
 
-- **(4)** Les paragraphes (2) et (3) ne s’appliquent pas aux véhicules conformes aux exigences des dispositions S5 et S14 du Document de normes techniques no 208 — Protection des occupants en cas de collision (DNT 208), avec ses modifications successives.
+- **(4)** Les paragraphes (2) et (3) ne s’appliquent pas aux véhicules conformes aux exigences des dispositions S5 et S14 du Document de normes techniques no 208 — Protection des occupants en cas de collision (DNT 208), avec ses modifications successives.
 
 - **(5)** [Abrogé, DORS/2014-307, art. 14]
 > DORS/79-719, art. 2; DORS/83-138, art. 3; DORS/90-387, art. 3; DORS/94-291, art. 4; DORS/94-692, art. 2; DORS/97-201, art. 5; DORS/97-421, art. 17; DORS/2006-94, art. 4(A); DORS/2009-121, art. 2; DORS/2013-9, art. 3; DORS/2014-307, art. 14..
@@ -5767,11 +5482,11 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 **204** 
 
-- **(1)** Les voitures de tourisme, les véhicules à trois roues, ainsi que les véhicules de tourisme à usages multiples, les autobus et les camions, à l’exception des fourgons à accès en position debout, ayant un PNBV d’au plus 4 536 kg et une masse du véhicule sans charge d’au plus 2 495 kg doivent être conformes aux exigences du Document de normes techniques no 204 — Recul de la colonne de direction (DNT 204), avec ses modifications successives.
+- **(1)** Les voitures de tourisme, les véhicules à trois roues, ainsi que les véhicules de tourisme à usages multiples, les autobus et les camions, à l’exception des fourgons à accès en position debout, ayant un PNBV d’au plus 4 536 kg et une masse du véhicule sans charge d’au plus 2 495 kg doivent être conformes aux exigences du Document de normes techniques no 204 — Recul de la colonne de direction (DNT 204), avec ses modifications successives.
 
-- **(2)** Pour l’application du présent article, toute mention, dans le DNT 204, de ***voiture de tourisme*** vaut mention de ***voiture de tourisme et véhicule à trois roues***.
+- **(2)** Pour l’application du présent article, toute mention, dans le DNT 204, de ***voiture de tourisme*** vaut mention de ***voiture de tourisme et véhicule à trois roues***.
 
-- **(3)** Le paragraphe (1) ne s’applique pas aux véhicules conformes aux exigences des dispositions S5 et S14 du Document de normes techniques no 208 — Protection des occupants en cas de collision (DNT 208), avec ses modifications successives.
+- **(3)** Le paragraphe (1) ne s’applique pas aux véhicules conformes aux exigences des dispositions S5 et S14 du Document de normes techniques no 208 — Protection des occupants en cas de collision (DNT 208), avec ses modifications successives.
 
 - **(4)** [Abrogé, DORS/2014-307, art. 15]
 > DORS/80-440, art. 2; DORS/83-138, art. 4; DORS/90-387, art. 1; DORS/94-692, art. 2(F); DORS/97-201, art. 5; DORS/97-421, art. 22(F); DORS/2006-94, art. 4(A); DORS/2008-72, art. 5; DORS/2009-121, art. 2; DORS/2013-9, art. 4; DORS/2014-307, art. 15..
@@ -5783,59 +5498,52 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 **205** 
 
-- **(1)** Pour l’application du présent article, les termes *bus*, *motorhome*, *multipurpose passenger vehicle*, *passenger car*, *readily removable windows*, *trailer* et *truck* employés dans la norme de sécurité ANSI Z26 — 1996 s’entendent au sens de ***autobus***, ***autocaravane***, ***véhicule de tourisme à usages multiples***, ***voiture de tourisme***, ***fenêtre amovible***, ***remorque*** et ***camion*** au paragraphe 2(1) du présent règlement.
+- **(1)** Pour l’application du présent article, les termes *bus*, *motorhome*, *multipurpose passenger vehicle*, *passenger car*, *readily removable windows*, *trailer* et *truck* employés dans la norme de sécurité ANSI Z26 — 1996 s’entendent au sens de ***autobus***, ***autocaravane***, ***véhicule de tourisme à usages multiples***, ***voiture de tourisme***, ***fenêtre amovible***, ***remorque*** et ***camion*** au paragraphe 2(1) du présent règlement.
 
 - **(2)** Pour l’application du présent article, la définition de *motor vehicle* figurant dans la norme de sécurité ANSI Z26 — 1996 ne s’applique pas.
 
-- **(3)** Sous réserve des paragraphes (4) à (13), chaque pièce de vitrage destinée à être utilisée dans un véhicule, à l’exception d’une remorque autre qu’une remorque-autobus, doit être conforme aux exigences de la norme de sécurité ANSI Z16 — 1996.
+- **(3)** Sous réserve des paragraphes (4) à (13), chaque pièce de vitrage destinée à être utilisée dans un véhicule, à l’exception d’une remorque autre qu’une remorque-autobus, doit être conforme aux exigences de la norme de sécurité ANSI Z16 — 1996.
 
-- **(4)** Les exigences du tableau 1 de la norme de sécurité ANSI Z26 — 1996 qui s’appliquent aux articles de vitrage 1 à 16B l’emportent sur toute exigence incompatible de l’article 4.2 de cette norme.
+- **(4)** Les exigences du tableau 1 de la norme de sécurité ANSI Z26 — 1996 qui s’appliquent aux articles de vitrage 1 à 16B l’emportent sur toute exigence incompatible de l’article 4.2 de cette norme.
 
 - **(5)** Tout vitrage destiné à être utilisé dans un véhicule de tourisme à usages multiples doit être conforme aux exigences relatives aux vitrages de camion qui figurent dans la norme de sécurité ANSI Z26 — 1996.
 
 - **(5.1)** Tout vitrage destiné à être utilisé dans un véhicule à trois roues doit être conforme aux exigences relatives aux vitrages de voiture de tourisme de la norme de sécurité ANSI Z26 — 1996.
 
-- **(6)** Malgré l’article 6 de la norme de sécurité ANSI Z26 — 1996, les bords à nu des vitrages trempés installés dans les autobus scolaires n’ont pas à être bordés.
+- **(6)** Malgré l’article 6 de la norme de sécurité ANSI Z26 — 1996, les bords à nu des vitrages trempés installés dans les autobus scolaires n’ont pas à être bordés.
 
-- **(7)** Au lieu d’être efectués selon les méthodes prévues par la norme de sécurité ANSI Z26 — 1996 pour les essais 1 et 16 qui figurent dans cette norme, ces essais peuvent être effectués selon les méthodes prévues par le code de sécurité ANSI Z26 — 1990 pour les essais 1 et 16.
+- **(7)** Au lieu d’être efectués selon les méthodes prévues par la norme de sécurité ANSI Z26 — 1996 pour les essais 1 et 16 qui figurent dans cette norme, ces essais peuvent être effectués selon les méthodes prévues par le code de sécurité ANSI Z26 — 1990 pour les essais 1 et 16.
 
-- **(8)** Au lieu d’être effectués à l’aide d’un support en acier fabriqué conformément à la figure 1 de la norme de sécurité ANSI Z26 — 1996, les essais 6, 8 à 14, 26 et 29, qui exigent un tel support et qui figurent dans cette norme, peuvent être effectués à l’aide d’un support en érable ou en bois de feuillu similaire, fabriqué en conformité avec la figure 1 du code de sécurité ANSI Z26 — 1990.
+- **(8)** Au lieu d’être effectués à l’aide d’un support en acier fabriqué conformément à la figure 1 de la norme de sécurité ANSI Z26 — 1996, les essais 6, 8 à 14, 26 et 29, qui exigent un tel support et qui figurent dans cette norme, peuvent être effectués à l’aide d’un support en érable ou en bois de feuillu similaire, fabriqué en conformité avec la figure 1 du code de sécurité ANSI Z26 — 1990.
 
-- **(9)** au lieu de réaliser l’essai de fracture selon la méthode prévue par la norme de sécurité ANSI Z26 — 1996 pour l’essai 7 et de mettre à l’essai les éprouvettes qui y sont spécifiés, il est possible d’effectuer l’essai de fracture de la manière suivante :
-	- **a)
-** mettre à l’essai les éprouvettes qui restent après la réalisation de l’essai 6 prévu par la norme de sécurité ANSI Z26 — 1996 et qui ne sont pas craquelées ni brisées;
-	- **b)
-** continuer l’essai 6 en augmentant la hauteur de chute de 305 mm à la fois, à partir d’une hauteur de 3,35 m, jusqu’à ce que les éprouvettes se brisent;
-	- **c)
-** interpréter les résultats conformément à l’essai 7.
+- **(9)** au lieu de réaliser l’essai de fracture selon la méthode prévue par la norme de sécurité ANSI Z26 — 1996 pour l’essai 7 et de mettre à l’essai les éprouvettes qui y sont spécifiés, il est possible d’effectuer l’essai de fracture de la manière suivante :
+	- **a)** mettre à l’essai les éprouvettes qui restent après la réalisation de l’essai 6 prévu par la norme de sécurité ANSI Z26 — 1996 et qui ne sont pas craquelées ni brisées;
+	- **b)** continuer l’essai 6 en augmentant la hauteur de chute de 305 mm à la fois, à partir d’une hauteur de 3,35 m, jusqu’à ce que les éprouvettes se brisent;
+	- **c)** interpréter les résultats conformément à l’essai 7.
 
-- **(10)** Pour la réalisation des essais 9 et 12 prévus par la norme de sécurité ANSI Z26 — 1996, les éprouvettes des vitrages énumérés à l’article de vigrage 14 de l’article 4 de cette norme peuvent être pincées dans le cadre du support.
+- **(10)** Pour la réalisation des essais 9 et 12 prévus par la norme de sécurité ANSI Z26 — 1996, les éprouvettes des vitrages énumérés à l’article de vigrage 14 de l’article 4 de cette norme peuvent être pincées dans le cadre du support.
 
-- **(11)** Pour la réalisation de l’essai 26 prévu par la norme de sécurité ANSI Z26 — 1996, les éprouvettes des vitrages énumérés à l’article de vitrage 14 de l’article 4 de cette norme doivent être pincées dans le cadre du support.
+- **(11)** Pour la réalisation de l’essai 26 prévu par la norme de sécurité ANSI Z26 — 1996, les éprouvettes des vitrages énumérés à l’article de vitrage 14 de l’article 4 de cette norme doivent être pincées dans le cadre du support.
 
-- **(12)** Tout vitrage plastique conforme aux exigences énoncées à l’article de vitrage 7 de l’article 4 de la norme de sécurité ANSI Z26 — 1996, peut être utilisé dans la partie du pare-brise des motocyclettes qui se trouve au-dessous d’un plan horizontal imaginaire situé à 380 mm verticalement au-dessus de la position assise la plus basse.
+- **(12)** Tout vitrage plastique conforme aux exigences énoncées à l’article de vitrage 7 de l’article 4 de la norme de sécurité ANSI Z26 — 1996, peut être utilisé dans la partie du pare-brise des motocyclettes qui se trouve au-dessous d’un plan horizontal imaginaire situé à 380 mm verticalement au-dessus de la position assise la plus basse.
 
 - **(13)** Chaque pièce de vitrage installée dans un véhicule doit porter, d’une manière lisible et permanente :
-	- **a)
-** d’une part, la marque applicable exigée à l’article 7 de la norme de sécurité ANSI Z26 — 1996;
-	- **b)
-** d’autre part, une marque codée approuvée, laquelle est attribuée par le ministre au fabricant de vitrages, en lettres et en chiffres d’au moins 1,8 mm de hauteur.
+	- **a)** d’une part, la marque applicable exigée à l’article 7 de la norme de sécurité ANSI Z26 — 1996;
+	- **b)** d’autre part, une marque codée approuvée, laquelle est attribuée par le ministre au fabricant de vitrages, en lettres et en chiffres d’au moins 1,8 mm de hauteur.
 > DORS/82-656, art. 4; DORS/84-336, art. 1; DORS/86-161, art. 2; DORS/88-268, art. 11; DORS/93-5, art. 3(F); DORS/94-670, art. 2(F); DORS/94-717, art. 2; DORS/2002-55, art. 16; DORS/2002-187, art. 2; DORS/2003-272, art. 22; DORS/2004-250, art. 4; DORS/2006-94, art. 4(A)..
 
 
 
 
-### Serrures de porte et composants de retenue de porte (Norme 206)
+### Serrures de porte et composants de retenue de porte (Norme 206)
 
 **206** 
 
 - **(1)** Les autobus dont le PNBV est d’au plus 4 536 kg, les motocyclettes à habitacle fermé, les véhicules de tourisme à usages multiples, les véhicules à trois roues, les voitures de tourisme et les camions qui sont munis de portes latérales ou de portes arrière doivent l’être en conformité avec, selon le cas :
-	- **a)
-** les exigences du Document de normes techniques no 206 — Serrures de porte et composants de retenue de porte (DNT 206), avec ses modifications successives;
-	- **b)
-** les spécifications générales, les spécifications d’efficacité et les procédures d’essai qui figurent dans le règlement n<sup>o</sup> 11 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne les serrures et organes de fixation des portes, dans sa version au 11 juin 2007, tel qu’il est modifié après cette date par tout amendement de la série 03 d’amendements.
+	- **a)** les exigences du Document de normes techniques no 206 — Serrures de porte et composants de retenue de porte (DNT 206), avec ses modifications successives;
+	- **b)** les spécifications générales, les spécifications d’efficacité et les procédures d’essai qui figurent dans le règlement n<sup>o</sup> 11 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne les serrures et organes de fixation des portes, dans sa version au 11 juin 2007, tel qu’il est modifié après cette date par tout amendement de la série 03 d’amendements.
 
-- **(2)** Pour l’application du paragraphe 6.3.2 du règlement n<sup>o</sup> 11 de la CEE, le dispositif de verrouillage est celui visé aux alinéas 6.3.2.1a) ou b) de ce règlement.
+- **(2)** Pour l’application du paragraphe 6.3.2 du règlement n<sup>o</sup> 11 de la CEE, le dispositif de verrouillage est celui visé aux alinéas 6.3.2.1a) ou b) de ce règlement.
 
 - **(3)** [Abrogé, DORS/2014-307, art. 16]
 > DORS/97-14, art. 2; DORS/2001-116, art. 3; DORS/2002-55, art. 21; DORS/2003-272, art. 23; DORS/2005-42, art. 7 et 8; DORS/2006-94, art. 4(A); DORS/2008-73, art. 3; DORS/2009-34, art. 1; DORS/2013-220, art. 2; DORS/2014-307, art. 16..
@@ -5847,7 +5555,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 **207** 
 
-- **(1)** Les voitures de tourisme, les véhicules à trois roues, les camions, les autobus et les véhicules de tourisme à usages multiples doivent être conformes aux exigences du Document de normes techniques no 207 — Ancrage des sièges (DNT 207), avec ses modifications successives.
+- **(1)** Les voitures de tourisme, les véhicules à trois roues, les camions, les autobus et les véhicules de tourisme à usages multiples doivent être conformes aux exigences du Document de normes techniques no 207 — Ancrage des sièges (DNT 207), avec ses modifications successives.
 
 - **(2)** L’étiquette visée à la disposition S4.4 du DNT 207 doit être rédigée dans les deux langues officielles.
 
@@ -5859,7 +5567,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 
 
-### Protection des occupants en cas de collision frontale (Norme 208)
+### Protection des occupants en cas de collision frontale (Norme 208)
 > [DORS/2013-9, art. 5]
 
 
@@ -5868,204 +5576,174 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 **208** 
 
-- **(1)** Toute motocyclette à habitacle fermé doit être munie, à chaque place assise désignée, d’une ceinture de sécurité manuelle de type 2 qui :
-	- **a)
-** comporte une ceinture-baudrier qui ne peut se détacher de la ceinture sous-abdominale;
-	- **b)
-** est réglable au moyen d’un rétracteur à blocage d’urgence;
-	- **c)
-** ne peut se détacher d’aucun point d’ancrage.
+- **(1)** Toute motocyclette à habitacle fermé doit être munie, à chaque place assise désignée, d’une ceinture de sécurité manuelle de type 2 qui :
+	- **a)** comporte une ceinture-baudrier qui ne peut se détacher de la ceinture sous-abdominale;
+	- **b)** est réglable au moyen d’un rétracteur à blocage d’urgence;
+	- **c)** ne peut se détacher d’aucun point d’ancrage.
 
 - **(2)** Les voitures de tourisme, les véhicules à trois roues, ainsi que les véhicules de tourisme à usages multiples et les camions ayant un PNBV d’au plus 4 536 kg, doivent être munis :
-	- **a)
-** aux places assises désignées extérieures avant, à l’exception de celles visées à l’alinéa b), et aux places assises désignées arrière, à l’exception de celles visées aux alinéas c) et d), d’une ceinture de sécurité manuelle de type 2 qui :
+	- **a)** aux places assises désignées extérieures avant, à l’exception de celles visées à l’alinéa b), et aux places assises désignées arrière, à l’exception de celles visées aux alinéas c) et d), d’une ceinture de sécurité manuelle de type 2 qui :
 		- **(i)** comporte une ceinture-baudrier qui ne peut se détacher de la ceinture sous-abdominale,
 		- **(ii)** est réglable au moyen d’un rétracteur à blocage d’urgence,
 		- **(iii)** ne peut se détacher d’aucun point d’ancrage;
-	- **b)
-** aux places assises désignées extérieures avant conçues pour une personne handicapée, d’une ceinture de sécurité de type 2;
-	- **c)
-** aux places assises désignées arrière qui possèdent un siège conçu pour être facilement enlevé et remplacé au moyen d’un équipement installé à cette fin par le fabricant, ou qui sont adjacentes au passage situé entre le siège et le côté du véhicule et conçu pour permettre l’accès aux places assises plus à l’arrière, ou qui sont des places assises désignées intérieures qui possèdent un siège dont le dossier peut être incliné de façon qu’aucune partie du dossier ne s’étende au-dessus d’un plan horizontal situé à 250 mm au-dessus du point de référence de la position assise le plus élevé sur le siège, d’une ceinture de sécurité manuelle de type 2 conforme aux exigences de l’alinéa a) ou d’une ceinture de sécurité manuelle de type 2 qui :
+	- **b)** aux places assises désignées extérieures avant conçues pour une personne handicapée, d’une ceinture de sécurité de type 2;
+	- **c)** aux places assises désignées arrière qui possèdent un siège conçu pour être facilement enlevé et remplacé au moyen d’un équipement installé à cette fin par le fabricant, ou qui sont adjacentes au passage situé entre le siège et le côté du véhicule et conçu pour permettre l’accès aux places assises plus à l’arrière, ou qui sont des places assises désignées intérieures qui possèdent un siège dont le dossier peut être incliné de façon qu’aucune partie du dossier ne s’étende au-dessus d’un plan horizontal situé à 250 mm au-dessus du point de référence de la position assise le plus élevé sur le siège, d’une ceinture de sécurité manuelle de type 2 conforme aux exigences de l’alinéa a) ou d’une ceinture de sécurité manuelle de type 2 qui :
 		- **(i)** peut se détacher, à l’aide d’une clé ou d’un objet semblable, du point d’ancrage supérieur ou du point d’ancrage inférieur mais non des deux,
 		- **(ii)** est réglable au moyen d’un rétracteur à blocage d’urgence,
 		- **(iii)** comporte une ceinture-baudrier qui ne peut se détacher de la ceinture sous-abdominale;
-	- **d)
-** aux places assises désignées arrière qui possèdent un siège réglable permettant de changer la direction à laquelle il fait face, d’une ceinture de sécurité manuelle de type 2 conforme aux exigences de l’alinéa a) qui peut fonctionner quelle que soit la direction à laquelle le siège fait face ou d’une ceinture de sécurité manuelle de type 2 qui ne peut se détacher d’aucun point d’ancrage et qui comporte :
+	- **d)** aux places assises désignées arrière qui possèdent un siège réglable permettant de changer la direction à laquelle il fait face, d’une ceinture de sécurité manuelle de type 2 conforme aux exigences de l’alinéa a) qui peut fonctionner quelle que soit la direction à laquelle le siège fait face ou d’une ceinture de sécurité manuelle de type 2 qui ne peut se détacher d’aucun point d’ancrage et qui comporte :
 		- **(i)** d’une part, une ceinture sous-abdominale qui restreint le mouvement du bassin quelle que soit la direction à laquelle le siège fait face et qui est munie d’un rétracteur à blocage d’urgence,
 		- **(ii)** d’autre part, dans le cas où le siège peut être placé de manière à faire face à l’avant ou à l’arrière ou dans une fourchette d’angle de ± 30° dans l’une ou l’autre direction, une ceinture-baudrier qui :
 			- **(A)** peut se détacher de la ceinture sous-abdominale,
 			- **(B)** est réglable au moyen d’un rétracteur à blocage d’urgence,
 			- **(C)** est destinée à n’être utilisée qu’avec la ceinture sous-abdominale,
 			- **(D)** fonctionne lorsque le siège se trouve à l’un des angles de la fourchette;
-	- **e)
-** aux places assises désignées arrière qui possèdent un siège latéral et aux places assises désignées intérieures avant :
-		- **(i)** soit d’une ceinture de sécurité manuelle de type 2 conforme aux exigences de l’alinéa a),
-		- **(ii)** soit d’une ceinture de sécurité manuelle de type 2 qui :
+	- **e)** aux places assises désignées arrière qui possèdent un siège latéral et aux places assises désignées intérieures avant :
+		- **(i)** soit d’une ceinture de sécurité manuelle de type 2 conforme aux exigences de l’alinéa a),
+		- **(ii)** soit d’une ceinture de sécurité manuelle de type 2 qui :
 			- **(A)** comporte une ceinture sous-abdominale réglable au moyen d’un rétracteur à blocage d’urgence, d’un rétracteur autobloquant ou d’un dispositif de réglage manuel,
 			- **(B)** comporte une ceinture-baudrier réglable au moyen d’un rétracteur à blocage d’urgence ou d’un dispositif de réglage manuel,
 			- **(C)** ne peut se détacher d’aucun point d’ancrage,
-		- **(iii)** soit d’une ceinture de sécurité manuelle de type 1 qui :
+		- **(iii)** soit d’une ceinture de sécurité manuelle de type 1 qui :
 			- **(A)** est réglable au moyen d’un rétracteur à blocage d’urgence, d’un rétracteur autobloquant ou d’un dispositif de réglage manuel,
 			- **(B)** ne peut se détacher d’aucun point d’ancrage.
 
 - **(3)** Les véhicules de tourisme à usages multiples et les camions ayant un PNBV de plus de 4 536 kg doivent être munis à chaque place assise désignée :
-	- **a)
-** soit d’une ceinture de sécurité manuelle de type 2 qui :
+	- **a)** soit d’une ceinture de sécurité manuelle de type 2 qui :
 		- **(i)** comporte une ceinture-baudrier qui ne peut se détacher de la ceinture sous-abdominale,
 		- **(ii)** est réglable au moyen d’un rétracteur à blocage d’urgence ou d’un rétracteur autobloquant,
 		- **(iii)** ne peut se détacher d’aucun point d’ancrage;
-	- **b)
-** soit d’une ceinture de sécurité manuelle de type 1 qui :
+	- **b)** soit d’une ceinture de sécurité manuelle de type 1 qui :
 		- **(i)** est réglable au moyen d’un rétracteur à blocage d’urgence ou d’un rétracteur autobloquant,
 		- **(ii)** ne peut se détacher d’aucun point d’ancrage.
 
 - **(4)** Dans le cas des autocaravanes, le nombre de places assises désignées munies d’une ceinture de sécurité ne doit pas être inférieur à celui des places couchées.
 
 - **(5)** Les autobus, à l’exception des autobus scolaires, ayant un PNBV d’au plus 4 536 kg doivent être munis :
-	- **a)
-** aux places assises désignées extérieures avant et aux places assises désignées arrière, à l’exception de celles visées aux alinéas b) à d), d’une ceinture de sécurité manuelle de type 2 qui :
+	- **a)** aux places assises désignées extérieures avant et aux places assises désignées arrière, à l’exception de celles visées aux alinéas b) à d), d’une ceinture de sécurité manuelle de type 2 qui :
 		- **(i)** comporte une ceinture-baudrier qui ne peut se détacher de la ceinture sous-abdominale,
 		- **(ii)** est réglable au moyen d’un rétracteur à blocage d’urgence,
 		- **(iii)** ne peut se détacher d’aucun point d’ancrage;
-	- **b)
-** aux places assises désignées arrière qui possèdent un siège conçu pour être facilement enlevé et remplacé au moyen d’un équipement installé à cette fin par le fabricant, ou qui sont adjacentes au passage situé entre le siège et le côté du véhicule et conçu pour permettre l’accès aux places assises plus à l’arrière, ou qui sont des places assises désignées intérieures qui possèdent un siège dont le dossier peut être incliné de façon qu’aucune partie du dossier ne s’étende au-dessus d’un plan horizontal situé à 250 mm au-dessus du point de référence de position assise le plus élevé sur le siège, d’une ceinture de sécurité manuelle de type 2 conforme aux exigences de l’alinéa a) ou d’une ceinture de sécurité manuelle de type 2 qui :
+	- **b)** aux places assises désignées arrière qui possèdent un siège conçu pour être facilement enlevé et remplacé au moyen d’un équipement installé à cette fin par le fabricant, ou qui sont adjacentes au passage situé entre le siège et le côté du véhicule et conçu pour permettre l’accès aux places assises plus à l’arrière, ou qui sont des places assises désignées intérieures qui possèdent un siège dont le dossier peut être incliné de façon qu’aucune partie du dossier ne s’étende au-dessus d’un plan horizontal situé à 250 mm au-dessus du point de référence de position assise le plus élevé sur le siège, d’une ceinture de sécurité manuelle de type 2 conforme aux exigences de l’alinéa a) ou d’une ceinture de sécurité manuelle de type 2 qui :
 		- **(i)** peut se détacher, à l’aide d’une clé ou d’un objet semblable, du point d’ancrage supérieur ou du point d’ancrage inférieur mais non des deux,
 		- **(ii)** est réglable au moyen d’un rétracteur à blocage d’urgence,
 		- **(iii)** comporte une ceinture-baudrier qui ne peut se détacher de la ceinture sous-abdominale;
-	- **c)
-** aux places assises désignées arrière qui possèdent un siège réglable permettant de changer la direction à laquelle il fait face, d’une ceinture de sécurité manuelle de type 2 conforme aux exigences de l’alinéa a) qui peut fonctionner quelle que soit la direction à laquelle le siège fait face ou d’une ceinture de sécurité manuelle de type 2 qui ne peut se détacher d’aucun point d’ancrage et qui comporte :
+	- **c)** aux places assises désignées arrière qui possèdent un siège réglable permettant de changer la direction à laquelle il fait face, d’une ceinture de sécurité manuelle de type 2 conforme aux exigences de l’alinéa a) qui peut fonctionner quelle que soit la direction à laquelle le siège fait face ou d’une ceinture de sécurité manuelle de type 2 qui ne peut se détacher d’aucun point d’ancrage et qui comporte :
 		- **(i)** d’une part, une ceinture sous-abdominale qui restreint le mouvement du bassin quelle que soit la direction à laquelle le siège fait face et qui est munie d’un rétracteur à blocage d’urgence,
 		- **(ii)** d’autre part, dans le cas où le siège peut être placé de manière à faire face à l’avant ou à l’arrière ou dans une fourchette d’angle de ± 30º dans l’une ou l’autre direction, une ceinture-baudrier qui :
 			- **(A)** peut se détacher de la ceinture sous-abdominale,
 			- **(B)** est réglable au moyen d’un rétracteur à blocage d’urgence,
 			- **(C)** est destinée à n’être utilisée qu’avec la ceinture sous-abdominale,
 			- **(D)** fonctionne lorsque le siège se trouve à l’un des angles de la fourchette;
-	- **d)
-** aux places assises désignées arrière qui possèdent un siège latéral :
-		- **(i)** soit d’une ceinture de sécurité manuelle de type 2 conforme aux exigences de l’alinéa a),
-		- **(ii)** soit d’une ceinture de sécurité manuelle de type 2 qui :
+	- **d)** aux places assises désignées arrière qui possèdent un siège latéral :
+		- **(i)** soit d’une ceinture de sécurité manuelle de type 2 conforme aux exigences de l’alinéa a),
+		- **(ii)** soit d’une ceinture de sécurité manuelle de type 2 qui :
 			- **(A)** comporte une ceinture sous-abdominale réglable au moyen d’un rétracteur à blocage d’urgence, d’un rétracteur autobloquant ou d’un dispositif de réglage manuel,
 			- **(B)** ne peut se détacher ni de la ceinture sous-abdominale ni d’aucun point d’ancrage,
-		- **(iii)** soit d’une ceinture de sécurité manuelle de type 1 qui :
+		- **(iii)** soit d’une ceinture de sécurité manuelle de type 1 qui :
 			- **(A)** est réglable au moyen d’un rétracteur à blocage d’urgence, d’un rétracteur autobloquant ou d’un dispositif de réglage manuel,
 			- **(B)** ne peut se détacher d’aucun point d’ancrage.
 
 - **(6)** Les autobus ayant un PNBV de plus de 4 536 kg doivent être munis, à la place assise désignée du conducteur :
-	- **a)
-** soit d’une ceinture de sécurité manuelle de type 2 qui :
+	- **a)** soit d’une ceinture de sécurité manuelle de type 2 qui :
 		- **(i)** comporte une ceinture-baudrier qui ne peut se détacher de la ceinture sous-abdominale,
 		- **(ii)** est réglable au moyen d’un rétracteur à blocage d’urgence ou d’un rétracteur autobloquant,
 		- **(iii)** ne peut se détacher d’aucun point d’ancrage;
-	- **b)
-** soit d’une ceinture de sécurité manuelle de type 1 qui :
+	- **b)** soit d’une ceinture de sécurité manuelle de type 1 qui :
 		- **(i)** est réglable au moyen d’un rétracteur à blocage d’urgence ou d’un rétracteur autobloquant,
 		- **(ii)** ne peut se détacher d’aucun point d’ancrage.
 
-- **(7)** Les autobus scolaires ayant un PNBV d’au plus 4 536 kg doivent être munis, à la place assise désignée du conducteur, d’une ceinture de sécurité manuelle de type 2 qui :
-	- **a)
-** comporte une ceinture-baudrier qui ne peut se détacher de la ceinture sous-abdominale;
-	- **b)
-** est réglable au moyen d’un rétracteur à blocage d’urgence;
-	- **c)
-** ne peut se détacher d’aucun point d’ancrage.
+- **(7)** Les autobus scolaires ayant un PNBV d’au plus 4 536 kg doivent être munis, à la place assise désignée du conducteur, d’une ceinture de sécurité manuelle de type 2 qui :
+	- **a)** comporte une ceinture-baudrier qui ne peut se détacher de la ceinture sous-abdominale;
+	- **b)** est réglable au moyen d’un rétracteur à blocage d’urgence;
+	- **c)** ne peut se détacher d’aucun point d’ancrage.
 
 - **(8)** [Réservé]
 
-- **(9)** Le rétracteur autobloquant installé pour qu’une ceinture de sécurité soit conforme aux exigences des alinéas (2)e), (3)a) ou b) ou (5)d) ou du paragraphe (6) doit :
-	- **a)
-** s’enclencher à la prochaine position de blocage lorsqu’une longueur de sangle qui mesure entre 19 mm et 77 mm est rentrée dans le rétracteur, laquelle longueur est mesurée à partir d’une position initiale établie lorsque la sangle est tirée à 75 % de sa longueur hors du rétracteur;
-	- **b)
-** être fixé à la partie suspendue du siège du véhicule si celui-ci est muni d’une suspension.
+- **(9)** Le rétracteur autobloquant installé pour qu’une ceinture de sécurité soit conforme aux exigences des alinéas (2)e), (3)a) ou b) ou (5)d) ou du paragraphe (6) doit :
+	- **a)** s’enclencher à la prochaine position de blocage lorsqu’une longueur de sangle qui mesure entre 19 mm et 77 mm est rentrée dans le rétracteur, laquelle longueur est mesurée à partir d’une position initiale établie lorsque la sangle est tirée à 75 % de sa longueur hors du rétracteur;
+	- **b)** être fixé à la partie suspendue du siège du véhicule si celui-ci est muni d’une suspension.
 
 #### Ajustement des ceintures de sécurité
 
 
-- **(10)** La ceinture de sécurité manuelle de type 2 doit être fabriquée de façon que, lorsqu’un occupant du 50<sup>e</sup> percentile adulte du sexe masculin est retenu en place par la ceinture de sécurité, le point d’intersection de la ceinture-baudrier et de la ceinture sous-abdominale se situe à au moins 150 mm de l’axe vertical frontal de l’occupant, mesuré le long de la ligne médiane de la ceinture sous-abdominale, les conditions suivantes étant réunies :
-	- **a)
-** tout dispositif de réglage manuel de la ceinture-baudrier est réglé selon les instructions du fabricant;
-	- **b)
-** le siège du véhicule est reculé et abaissé au maximum;
-	- **c)
-** le dossier du siège est dans la position assise nominale recommandée par le fabricant.
+- **(10)** La ceinture de sécurité manuelle de type 2 doit être fabriquée de façon que, lorsqu’un occupant du 50<sup>e</sup> percentile adulte du sexe masculin est retenu en place par la ceinture de sécurité, le point d’intersection de la ceinture-baudrier et de la ceinture sous-abdominale se situe à au moins 150 mm de l’axe vertical frontal de l’occupant, mesuré le long de la ligne médiane de la ceinture sous-abdominale, les conditions suivantes étant réunies :
+	- **a)** tout dispositif de réglage manuel de la ceinture-baudrier est réglé selon les instructions du fabricant;
+	- **b)** le siège du véhicule est reculé et abaissé au maximum;
+	- **c)** le dossier du siège est dans la position assise nominale recommandée par le fabricant.
 
-- **(11)** Lorsque le dossier d’un siège du véhicule se trouve dans la position assise nominale recommandée par le fabricant, quelle que soit la position du siège, et que tout ancrage de ceinture de sécurité réglable se trouve dans la position nominale recommandée par le fabricant pour un occupant du 50<sup>e</sup> percentile adulte du sexe masculin, toute ceinture sous abdominale doit :
-	- **a)
-** à la place assise désignée du conducteur, s’ajuster au corps de tout occupant dont la taille est comprise dans la gamme allant du 5<sup>e</sup> percentile adulte du sexe féminin au 95<sup>e</sup> percentile adulte du sexe masculin;
-	- **b)
-** aux autres places assises désignées, s’ajuster au corps de tout occupant dont la taille est comprise dans la gamme allant du 50<sup>e</sup> percentile enfant de six ans au 95<sup>e</sup> percentile adulte du sexe masculin.
+- **(11)** Lorsque le dossier d’un siège du véhicule se trouve dans la position assise nominale recommandée par le fabricant, quelle que soit la position du siège, et que tout ancrage de ceinture de sécurité réglable se trouve dans la position nominale recommandée par le fabricant pour un occupant du 50<sup>e</sup> percentile adulte du sexe masculin, toute ceinture sous abdominale doit :
+	- **a)** à la place assise désignée du conducteur, s’ajuster au corps de tout occupant dont la taille est comprise dans la gamme allant du 5<sup>e</sup> percentile adulte du sexe féminin au 95<sup>e</sup> percentile adulte du sexe masculin;
+	- **b)** aux autres places assises désignées, s’ajuster au corps de tout occupant dont la taille est comprise dans la gamme allant du 50<sup>e</sup> percentile enfant de six ans au 95<sup>e</sup> percentile adulte du sexe masculin.
 
-- **(12)** Lorsque le dossier d’un siège du véhicule se trouve dans la position assise nominale recommandée par le fabricant, quelle que soit la position du siège, et que tout ancrage de ceinture de sécurité réglable se trouve dans la position nominale recommandée par le fabricant pour un occupant du 50<sup>e</sup> percentile adulte du sexe masculin, toute ceinture-baudrier doit s’ajuster au corps de tout occupant dont la taille est comprise dans la gamme allant du 5<sup>e</sup> percentile adulte du sexe féminin au 95<sup>e</sup> percentile adulte du sexe masculin.
+- **(12)** Lorsque le dossier d’un siège du véhicule se trouve dans la position assise nominale recommandée par le fabricant, quelle que soit la position du siège, et que tout ancrage de ceinture de sécurité réglable se trouve dans la position nominale recommandée par le fabricant pour un occupant du 50<sup>e</sup> percentile adulte du sexe masculin, toute ceinture-baudrier doit s’ajuster au corps de tout occupant dont la taille est comprise dans la gamme allant du 5<sup>e</sup> percentile adulte du sexe féminin au 95<sup>e</sup> percentile adulte du sexe masculin.
 
-#### Document de normes techniques n<sup>o</sup> 208
+#### Document de normes techniques n<sup>o</sup> 208
 
 
-- **(13)** Les voitures de tourisme, les véhicules à trois roues, les camions, les véhicules de tourisme à usages multiples et les autobus, ainsi que leur manuels de l’usager, doivent être conformes aux exigences du Document de normes techniques no 208 — Protection des occupants en cas de collision (DNT 208), avec ses modifications successives.
+- **(13)** Les voitures de tourisme, les véhicules à trois roues, les camions, les véhicules de tourisme à usages multiples et les autobus, ainsi que leur manuels de l’usager, doivent être conformes aux exigences du Document de normes techniques no 208 — Protection des occupants en cas de collision (DNT 208), avec ses modifications successives.
 
 - **(14)** Pour l’application du présent article,
-	- **a)
-** toute mention, dans le DNT 208, de ***voiture de tourisme*** vaut mention de ***voiture de tourisme et véhicule à trois roues***;
-	- **b)
-** toute mention, dans la version anglaise du DNT 208, de *dummy* vaut mention de *anthropomorphic test device*.
+	- **a)** toute mention, dans le DNT 208, de ***voiture de tourisme*** vaut mention de ***voiture de tourisme et véhicule à trois roues***;
+	- **b)** toute mention, dans la version anglaise du DNT 208, de *dummy* vaut mention de *anthropomorphic test device*.
 
-- **(15)** Malgré le paragraphe (13), les véhicules munis d’une place assise désignée extérieure avant conçue pour une personne handicapée peuvent, au lieu de répondre aux exigences des dispositions S5, S7.1, S7.2, S7.4 et S14 à S27 du DNT 208, porter une ou plusieurs étiquettes, affichées en permanence et à la vue des occupants des places assises désignées avant, sur lesquelles figure, en lettres d’au moins six points de hauteur, la mention suivante : « *The [here refer to the outboard designated seating position in the front row of designated seating positions that does not conform to the requirements set out in CMVSS 208] doe​s not conform to all of the requirements set out in CMVSS 208.* / La [insérer ici la place assise désignée extérieure de la première rangée de places assises désignées qui n’est pas conforme aux exigences prévues par la NSVAC 208] n’est pas conforme à toutes les exigences prévues par la NSVAC 208. »
+- **(15)** Malgré le paragraphe (13), les véhicules munis d’une place assise désignée extérieure avant conçue pour une personne handicapée peuvent, au lieu de répondre aux exigences des dispositions S5, S7.1, S7.2, S7.4 et S14 à S27 du DNT 208, porter une ou plusieurs étiquettes, affichées en permanence et à la vue des occupants des places assises désignées avant, sur lesquelles figure, en lettres d’au moins six points de hauteur, la mention suivante : « *The [here refer to the outboard designated seating position in the front row of designated seating positions that does not conform to the requirements set out in CMVSS 208] doe​s not conform to all of the requirements set out in CMVSS 208.* / La [insérer ici la place assise désignée extérieure de la première rangée de places assises désignées qui n’est pas conforme aux exigences prévues par la NSVAC 208] n’est pas conforme à toutes les exigences prévues par la NSVAC 208. »
 
-- **(16)** Malgré le paragraphe (13), les véhicules à trois roues doivent, au choix du fabricant, soit répondre aux exigences des dispositions S5 et S14 à S27 du DNT 208, soit porter une ou plusieurs étiquettes, affichées en permanence et à la vue des occupants des places assises désignées avant, sur lesquelles figure, en lettres d’au moins six points de hauteur, la mention suivante : « *This vehicle does not conform to the requirements of the dynamic or static tests set out in CMVSS 208.* / Ce véhicule n’est pas conforme aux exigences des essais dynamiques ou statiques prévues par la NSVAC 208. »
+- **(16)** Malgré le paragraphe (13), les véhicules à trois roues doivent, au choix du fabricant, soit répondre aux exigences des dispositions S5 et S14 à S27 du DNT 208, soit porter une ou plusieurs étiquettes, affichées en permanence et à la vue des occupants des places assises désignées avant, sur lesquelles figure, en lettres d’au moins six points de hauteur, la mention suivante : « *This vehicle does not conform to the requirements of the dynamic or static tests set out in CMVSS 208.* / Ce véhicule n’est pas conforme aux exigences des essais dynamiques ou statiques prévues par la NSVAC 208. »
 
-- **(17)** Si un véhicule porte l’une des étiquettes visées aux paragraphes (15) ou (16), les versions française et anglaise du manuel de l’usager doivent reproduire la mention figurant sur l’étiquette.
+- **(17)** Si un véhicule porte l’une des étiquettes visées aux paragraphes (15) ou (16), les versions française et anglaise du manuel de l’usager doivent reproduire la mention figurant sur l’étiquette.
 
-- **(18)** Les renseignements figurant sur l’étiquette visée à la disposition S4.5.1a) du DNT 208 doivent être dans les deux langues officielles.
+- **(18)** Les renseignements figurant sur l’étiquette visée à la disposition S4.5.1a) du DNT 208 doivent être dans les deux langues officielles.
 
-- **(19)** Malgré la disposition S4.5.4 du DNT 208, les voitures de tourisme, les véhicules à trois roues, les véhicules de tourisme à usages multiples, les autobus et les camions fabriqués le 1<sup>er</sup> septembre 2012 ou après cette date peuvent être munis d’un dispositif qui désactive le sac gonflable installé à la place assise désignée extérieure avant droite à bord du véhicule si toutes les conditions des dispositions S4.5.4.1 à S4.5.4.4 de ce DNT sont respectées.
+- **(19)** Malgré la disposition S4.5.4 du DNT 208, les voitures de tourisme, les véhicules à trois roues, les véhicules de tourisme à usages multiples, les autobus et les camions fabriqués le 1<sup>er</sup> septembre 2012 ou après cette date peuvent être munis d’un dispositif qui désactive le sac gonflable installé à la place assise désignée extérieure avant droite à bord du véhicule si toutes les conditions des dispositions S4.5.4.1 à S4.5.4.4 de ce DNT sont respectées.
 
-- **(20)** Malgré la disposition S6.4b) du DNT 208, le déplacement par compression du sternum de chaque dispositif anthropomorphe d’essai, par rapport à la colonne vertébrale dans la partie supérieure du thorax du dispositif, ne doit pas dépasser 55 mm.
+- **(20)** Malgré la disposition S6.4b) du DNT 208, le déplacement par compression du sternum de chaque dispositif anthropomorphe d’essai, par rapport à la colonne vertébrale dans la partie supérieure du thorax du dispositif, ne doit pas dépasser 55 mm.
 
-- **(21)** Les renseignements visés aux dispositions S4.5, S7.1.1.5 et S7.4.2 du DNT 208 doivent figurer dans les versions française et anglaise du manuel de l’usager.
+- **(21)** Les renseignements visés aux dispositions S4.5, S7.1.1.5 et S7.4.2 du DNT 208 doivent figurer dans les versions française et anglaise du manuel de l’usager.
 
-- **(22)** La disposition S14 du DNT 208 s’applique aux voitures de tourisme, ainsi qu’aux véhicules de tourisme à usages multiples, aux autobus, et aux camions, à l’exception des fourgons à accès en position debout, ayant un PNBV d’au plus 3 856 kg et une masse du véhicule sans charge d’au plus 2 495 kg.
+- **(22)** La disposition S14 du DNT 208 s’applique aux voitures de tourisme, ainsi qu’aux véhicules de tourisme à usages multiples, aux autobus, et aux camions, à l’exception des fourgons à accès en position debout, ayant un PNBV d’au plus 3 856 kg et une masse du véhicule sans charge d’au plus 2 495 kg.
 
-- **(23)** Malgré la disposition S15.3.4 du DNT 208, le déplacement par compression du sternum de chaque dispositif anthropomorphe d’essai, par rapport à la colonne vertébrale dans la partie supérieure du thorax du dispositif, ne doit pas dépasser 45 mm, dans le cas d’un véhicule mis à l’essai conformément aux dispositions S16.1a)(2) ou S18 du DNT 208.
+- **(23)** Malgré la disposition S15.3.4 du DNT 208, le déplacement par compression du sternum de chaque dispositif anthropomorphe d’essai, par rapport à la colonne vertébrale dans la partie supérieure du thorax du dispositif, ne doit pas dépasser 45 mm, dans le cas d’un véhicule mis à l’essai conformément aux dispositions S16.1a)(2) ou S18 du DNT 208.
 
 - **(24)** [Abrogé, DORS/2014-307, art. 18]
 
 #### Étiquette d’avertissement — sac gonflable
 
 
-- **(25)** Lorsque le véhicule est muni d’un sac gonflable à une place assise désignée extérieure avant, une ou plusieurs étiquettes doivent être apposées de façon permanente sur le pare-soleil de ces places assises désignées ou en évidence à un endroit adjacent au pare-soleil et elles doivent indiquer, dans les deux langues officielles, en lettres d’au moins 6 points de hauteur, les avertissements suivants :
-	- **a)
-** dans le cas d’une place assise désignée extérieure avant droite qui est équipée d’un sac gonflable qui peut être désactivé au moyen d’un interrupteur manuel :
+- **(25)** Lorsque le véhicule est muni d’un sac gonflable à une place assise désignée extérieure avant, une ou plusieurs étiquettes doivent être apposées de façon permanente sur le pare-soleil de ces places assises désignées ou en évidence à un endroit adjacent au pare-soleil et elles doivent indiquer, dans les deux langues officielles, en lettres d’au moins 6 points de hauteur, les avertissements suivants :
+	- **a)** dans le cas d’une place assise désignée extérieure avant droite qui est équipée d’un sac gonflable qui peut être désactivé au moyen d’un interrupteur manuel :
 		- **(i)** un avertissement de ne pas installer un ensemble de retenue pour bébé ou un ensemble de retenue pour enfant orienté vers l’arrière, à cette place assise désignée, à moins que le sac gonflable ne soit désactivé,
 		- **(ii)** un avertissement au sujet de la sécurité des enfants à proximité d’un sac gonflable;
-	- **b)
-** dans tout autre cas, un avertissement au sujet de la sécurité des enfants à proximité d’un sac gonflable.
+	- **b)** dans tout autre cas, un avertissement au sujet de la sécurité des enfants à proximité d’un sac gonflable.
 
 #### Disposition transitoire
 
 
-- **(26)** Jusqu’au 1<sup>er</sup> septembre 2015, les autobus, les camions, les motocyclettes à habitacle fermé, les véhicules de tourisme à usages multiples, les voitures de tourisme et les véhicules à trois roues peuvent être conformes aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
+- **(26)** Jusqu’au 1<sup>er</sup> septembre 2015, les autobus, les camions, les motocyclettes à habitacle fermé, les véhicules de tourisme à usages multiples, les voitures de tourisme et les véhicules à trois roues peuvent être conformes aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
 > DORS/78-80, art. 2; DORS/80-782, art. 2; DORS/87-578, art. 2; DORS/90-387, art. 3; DORS/93-5, art. 4; DORS/97-201, art. 5; DORS/97-447, art. 5; DORS/98-125, art. 6; DORS/98-524, art. 4(F); DORS/2002-55, art. 17; DORS/2003-272, art. 24; DORS/2006-94, art. 4(A); DORS/2007-180, art. 12; DORS/2008-72, art. 6; DORS/2008-104, art. 16(F); DORS/2013-9, art. 5 et 6; DORS/2014-307, art. 18..
 
 
 
 
-### Ceintures de sécurité (Norme 209)
+### Ceintures de sécurité (Norme 209)
 > [DORS/95-536, art. 7(F); DORS/2011-238, art. 4]
 
 
 **209** 
 
-- **(1)** Les voitures de tourisme, les véhicules de tourisme à usages multiples, les camions, les autobus, les véhicules à basse vitesse, les véhicules à trois roues et les motocyclettes à habitacle fermé doivent être munis de ceintures de sécurité qui sont conformes aux exigences du Document de normes techniques no 209 — Ceintures de sécurité (DNT 209), avec ses modifications successives.
+- **(1)** Les voitures de tourisme, les véhicules de tourisme à usages multiples, les camions, les autobus, les véhicules à basse vitesse, les véhicules à trois roues et les motocyclettes à habitacle fermé doivent être munis de ceintures de sécurité qui sont conformes aux exigences du Document de normes techniques no 209 — Ceintures de sécurité (DNT 209), avec ses modifications successives.
 
-- **(2)** La ceinture sous-abdominale d’une ceinture de sécurité manuelle de type 2 qui est munie d’une ceinture-baudrier détachable doit être conforme à toutes les exigences relatives à la ceinture de sécurité de type 1 qui figurent dans le présent règlement.
+- **(2)** La ceinture sous-abdominale d’une ceinture de sécurité manuelle de type 2 qui est munie d’une ceinture-baudrier détachable doit être conforme à toutes les exigences relatives à la ceinture de sécurité de type 1 qui figurent dans le présent règlement.
 
 - **(3) à (6)** [Abrogés, DORS/2013-117, art. 6]
 
-- **(7)** Toute mention dans le DNT 209 d’une norme publiée par l’ASTM ou l’AATCC qui figure à la colonne 1 du tableau du présent paragraphe vaut mention, selon le cas, de la norme indiquée en regard de cette norme à la colonne 2.
+- **(7)** Toute mention dans le DNT 209 d’une norme publiée par l’ASTM ou l’AATCC qui figure à la colonne 1 du tableau du présent paragraphe vaut mention, selon le cas, de la norme indiquée en regard de cette norme à la colonne 2.
 #### TABLEAU
 <table>
 <tr>
 <th>Article</th>
-<th>Colonne 1</th>
-<th>Colonne 2</th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
 </tr>
 <tr>
 <td>1</td>
@@ -6074,62 +5752,60 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 </tr>
 <tr>
 <td>2</td>
-<td>Norme B 117 – 73 de l’ASTM, *Standard Method of Salt Spray (Fog) Testing*</td>
-<td>Norme B 117 – 03 de l’ASTM, *Standard Practice for Operating Salt Spray (Fog) Apparatus*</td>
+<td>Norme B 117 – 73 de l’ASTM, *Standard Method of Salt Spray (Fog) Testing*</td>
+<td>Norme B 117 – 03 de l’ASTM, *Standard Practice for Operating Salt Spray (Fog) Apparatus*</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Norme B 456 – 79 de l’ASTM, *Standard Specification for Electrodeposited Coatings of Copper Plus Nickel Plus Chromium and Nickel Plus Chromium*</td>
-<td>Norme B 456 – 03 de l’ASTM, *Standard Specification for Electrodeposited Coatings of Copper Plus Nickel Plus Chromium and Nickel Plus Chromium*</td>
+<td>Norme B 456 – 79 de l’ASTM, *Standard Specification for Electrodeposited Coatings of Copper Plus Nickel Plus Chromium and Nickel Plus Chromium*</td>
+<td>Norme B 456 – 03 de l’ASTM, *Standard Specification for Electrodeposited Coatings of Copper Plus Nickel Plus Chromium and Nickel Plus Chromium*</td>
 </tr>
 <tr>
 <td>4</td>
-<td>Norme D 756 – 78 de l’ASTM, *Standard Practice for Determination of Weight and Shape Changes of Plastics Under Accelerated Service Conditions*</td>
-<td>Norme D 756 – 93 de l’ASTM, *Standard Practice for Determination of Weight and Shape Changes of Plastics Under Accelerated Service Conditions*</td>
+<td>Norme D 756 – 78 de l’ASTM, *Standard Practice for Determination of Weight and Shape Changes of Plastics Under Accelerated Service Conditions*</td>
+<td>Norme D 756 – 93 de l’ASTM, *Standard Practice for Determination of Weight and Shape Changes of Plastics Under Accelerated Service Conditions*</td>
 </tr>
 <tr>
 <td>5</td>
-<td>Norme E 4 – 79 de l’ASTM, *Standard Methods of Load Verification of Testing Machines*</td>
-<td>Norme E 4 – 07 de l’ASTM, *Standard Practices for Force Verification of Testing Machines*</td>
+<td>Norme E 4 – 79 de l’ASTM, *Standard Methods of Load Verification of Testing Machines*</td>
+<td>Norme E 4 – 07 de l’ASTM, *Standard Practices for Force Verification of Testing Machines*</td>
 </tr>
 <tr>
 <td>6</td>
-<td>Norme G 23 – 81 de l’ASTM, *Standard Practice for Operating Light-Exposure Apparatus (Carbon-Arc Type) With and Without Water for Exposure of Nonmetallic Materials*</td>
+<td>Norme G 23 – 81 de l’ASTM, *Standard Practice for Operating Light-Exposure Apparatus (Carbon-Arc Type) With and Without Water for Exposure of Nonmetallic Materials*</td>
 <td>Norme G 152 – 06 de l’ASTM, *Standard Practice for Operating Open Flame Carbon Arc Light Apparatus for Exposure of Nonmetallic Materials*</td>
 </tr>
 </table>
 
 
-- **(8)** Pour l’application de la disposition S4.1e) du DNT 209, il est fait abstraction de la mention « facilement accessibles à l’occupant afin qu’il puisse se libérer rapidement de la ceinture » dans la première phrase de la disposition.
+- **(8)** Pour l’application de la disposition S4.1e) du DNT 209, il est fait abstraction de la mention « facilement accessibles à l’occupant afin qu’il puisse se libérer rapidement de la ceinture » dans la première phrase de la disposition.
 
-- **(9)** Les dispositions S4.1g) et m), S4.5b) et S4.6 du DNT 209 ne s’appliquent pas.
+- **(9)** Les dispositions S4.1g) et m), S4.5b) et S4.6 du DNT 209 ne s’appliquent pas.
 
-- **(10)** Les instructions visées à la disposition S4.1l) du DNT 209 doivent figurer dans les versions française et anglaise du manuel de l’usager.
+- **(10)** Les instructions visées à la disposition S4.1l) du DNT 209 doivent figurer dans les versions française et anglaise du manuel de l’usager.
 
-- **(11)** Les exigences relatives au rétracteur sans blocage qui sont prévues aux dispositions S4.1l), S4.3h) et S5.2h) et k) du DNT 209 ne s’appliquent pas.
+- **(11)** Les exigences relatives au rétracteur sans blocage qui sont prévues aux dispositions S4.1l), S4.3h) et S5.2h) et k) du DNT 209 ne s’appliquent pas.
 
-- **(12)** La ceinture de sécurité de type 1 ou de type 2 qui inclut un limiteur de charge et n’est pas conforme aux exigences en matière d’allongement qui sont prévues aux dispositions S4.2c), S4.4a)(2) ou S4.4b)(4) ou (5) du DNT 209 ne peut être installée qu’à une place assise désignée extérieure avant qui est munie d’un sac gonflable frontal.
+- **(12)** La ceinture de sécurité de type 1 ou de type 2 qui inclut un limiteur de charge et n’est pas conforme aux exigences en matière d’allongement qui sont prévues aux dispositions S4.2c), S4.4a)(2) ou S4.4b)(4) ou (5) du DNT 209 ne peut être installée qu’à une place assise désignée extérieure avant qui est munie d’un sac gonflable frontal.
 
-- **(13)** Le présent article cesse d’avoir effet le 31 janvier 2016.
+- **(13)** Le présent article cesse d’avoir effet le 31 janvier 2016.
 > DORS/78-910, art. 2; DORS/87-154, art. 3; DORS/92-545, art. 4; DORS/97-447, art. 6; DORS/2007-180, art. 13; DORS/2009-318, art. 12; DORS/2011-238, art. 4; DORS/2013-117, art. 6..
 
 
 
 
-### Ancrages de ceinture de sécurité (Norme 210)
+### Ancrages de ceinture de sécurité (Norme 210)
 
 
 #### Dispositions générales
 
 **210** 
 
-- **(1)** Les ancrages de ceinture de sécurité ci-après doivent être installés pour chaque place assise désignée pour laquelle une ceinture de sécurité a été installée en application de l’article 208 :
-	- **a)
-** si une ceinture de sécurité de type 1 a été installée, des ancrages de ceinture de sécurité pour une ceinture sous-abdominale;
-	- **b)
-** si une ceinture de sécurité de type 2 a été installée, des ancrages de ceinture de sécurité pour une combinaison de ceinture sous-abdominale et de ceinture-baudrier.
+- **(1)** Les ancrages de ceinture de sécurité ci-après doivent être installés pour chaque place assise désignée pour laquelle une ceinture de sécurité a été installée en application de l’article 208 :
+	- **a)** si une ceinture de sécurité de type 1 a été installée, des ancrages de ceinture de sécurité pour une ceinture sous-abdominale;
+	- **b)** si une ceinture de sécurité de type 2 a été installée, des ancrages de ceinture de sécurité pour une combinaison de ceinture sous-abdominale et de ceinture-baudrier.
 
-- **(2)** Seules les exigences de l’essai de résistance prévues aux paragraphes (7) à (10) s’appliquent aux motocyclettes à habitacle fermé.
+- **(2)** Seules les exigences de l’essai de résistance prévues aux paragraphes (7) à (10) s’appliquent aux motocyclettes à habitacle fermé.
 
 - **(2.1)** [Abrogé, DORS/2008-72, art. 7]
 
@@ -6139,40 +5815,33 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 - **(3)** Les ancrages de ceinture de sécurité d’une ceinture sous-abdominale d’une ceinture de sécurité doivent être à une distance d’au moins 165 mm l’un de l’autre, mesurée transversalement à partir de l’axe vertical des trous de boulon ou, dans le cas d’un modèle d’ancrage utilisant un autre dispositif de fixation à la structure du véhicule, à partir du centroïde du dispositif.
 
 - **(4)** Toute ceinture de sécurité installée de la façon suivante doit respecter les conditions qui suivent :
-	- **a)
-** dans le cas où la ceinture passe à l’extérieur ou entre les coussins du siège sans porter sur la structure du siège, tel qu’il est illustré à la figure 1 de la pratique recommandée J383 de la SAE (juin 1995), la ligne allant du point de contact le plus proche de la ceinture avec l’ancrage de ceinture de sécurité jusqu’au point visé à l’un des sous-alinéas (i), (ii) ou (iii) forme, lorsqu’elle est prolongée vers le devant du siège à partir du point de contact, un angle d’au moins 30° et d’au plus 75° avec l’horizontale :
+	- **a)** dans le cas où la ceinture passe à l’extérieur ou entre les coussins du siège sans porter sur la structure du siège, tel qu’il est illustré à la figure 1 de la pratique recommandée J383 de la SAE (juin 1995), la ligne allant du point de contact le plus proche de la ceinture avec l’ancrage de ceinture de sécurité jusqu’au point visé à l’un des sous-alinéas (i), (ii) ou (iii) forme, lorsqu’elle est prolongée vers le devant du siège à partir du point de contact, un angle d’au moins 30° et d’au plus 75° avec l’horizontale :
 		- **(i)** dans le cas d’un siège qui ne peut être avancé ou reculé, le point de référence de position assise,
-		- **(ii)** dans le cas d’un siège dont l’intervalle de déplacement maximal pour utilisation par un occupant est d’au plus 70 mm, le point H lorsque le siège se trouve dans sa position la plus reculée dans l’intervalle,
+		- **(ii)** dans le cas d’un siège dont l’intervalle de déplacement maximal pour utilisation par un occupant est d’au plus 70 mm, le point H lorsque le siège se trouve dans sa position la plus reculée dans l’intervalle,
 		- **(iii)** dans le cas d’un siège dont l’intervalle de déplacement est de plus de 70 mm, un point situé à 64 mm en avant, et à 10 mm au-dessus, du point de référence de position assise;
-	- **b)
-** dans le cas où la ceinture porte sur la structure du siège, tel qu’il est illustré à la figure 3 de la pratique recommandée J383 de la SAE (juin 1995) :
+	- **b)** dans le cas où la ceinture porte sur la structure du siège, tel qu’il est illustré à la figure 3 de la pratique recommandée J383 de la SAE (juin 1995) :
 		- **(i)** l’ancrage de ceinture de sécurité se trouve à l’arrière du point de contact le plus reculé de la ceinture sur le bâti du siège lorsque le siège se trouve dans sa position la plus reculée,
 		- **(ii)** la ligne allant du point de référence de position assise jusqu’au point de contact le plus proche de la ceinture avec le bâti du siège forme, lorsqu’elle est prolongée vers le devant du siège à partir de ce point de contact, un angle d’au moins 30° et d’au plus 75° avec l’horizontale;
-	- **c)
-** dans le cas où l’ancrage de ceinture de sécurité se trouve sur la structure du siège, la ligne allant du point de référence de position assise jusqu’au point de contact le plus proche de la ceinture avec l’ancrage doit être prolongée vers le devant du siège à partir de ce point de contact en formant un angle d’au moins 30° et d’au plus 75° avec l’horizontale.
+	- **c)** dans le cas où l’ancrage de ceinture de sécurité se trouve sur la structure du siège, la ligne allant du point de référence de position assise jusqu’au point de contact le plus proche de la ceinture avec l’ancrage doit être prolongée vers le devant du siège à partir de ce point de contact en formant un angle d’au moins 30° et d’au plus 75° avec l’horizontale.
 
-- **(5)** Dans le cas où l’ancrage de ceinture de sécurité de l’extrémité supérieure d’une ceinture-baudrier n’est pas réglable, l’intersection de l’axe longitudinal du trou de boulon de l’ancrage et de la surface de la structure de fixation ou, dans le cas d’un modèle d’ancrage utilisant un autre dispositif de fixation à la structure du véhicule, le centroïde du dispositif doit être situé dans les limites indiquées à l’article 6.1 de la pratique recommandée J383 de la SAE intitulée *Motor Vehicle Seat Belt Anchorages — Design Recommendations* (juin 1995) par rapport au gabarit point H décrit à l’article 4.1 de la norme J826 de la SAE intitulée *Devices for Use in Defining and Measuring Vehicle Seating Accommodation* (juillet 1995) dont :
-	- **a)
-** d’une part, le point H du gabarit est situé à l’unique « *Design H-Point* » du siège, au sens de l’article 3.11.1 de la pratique recommandée J1100 de la SAE intitulée *Motor Vehicle Dimensions* (février 2001), lorsque le siège se trouve dans sa position la plus reculée et la plus basse;
-	- **b)
-** d’autre part, la ligne du torse forme le même angle, par rapport à la verticale, que le dossier du siège lorsque le siège se trouve dans sa position la plus reculée et la plus basse et le dossier, dans sa position la plus droite.
+- **(5)** Dans le cas où l’ancrage de ceinture de sécurité de l’extrémité supérieure d’une ceinture-baudrier n’est pas réglable, l’intersection de l’axe longitudinal du trou de boulon de l’ancrage et de la surface de la structure de fixation ou, dans le cas d’un modèle d’ancrage utilisant un autre dispositif de fixation à la structure du véhicule, le centroïde du dispositif doit être situé dans les limites indiquées à l’article 6.1 de la pratique recommandée J383 de la SAE intitulée *Motor Vehicle Seat Belt Anchorages — Design Recommendations* (juin 1995) par rapport au gabarit point H décrit à l’article 4.1 de la norme J826 de la SAE intitulée *Devices for Use in Defining and Measuring Vehicle Seating Accommodation* (juillet 1995) dont :
+	- **a)** d’une part, le point H du gabarit est situé à l’unique « *Design H-Point* » du siège, au sens de l’article 3.11.1 de la pratique recommandée J1100 de la SAE intitulée *Motor Vehicle Dimensions* (février 2001), lorsque le siège se trouve dans sa position la plus reculée et la plus basse;
+	- **b)** d’autre part, la ligne du torse forme le même angle, par rapport à la verticale, que le dossier du siège lorsque le siège se trouve dans sa position la plus reculée et la plus basse et le dossier, dans sa position la plus droite.
 
-- **(6)** Dans le cas où l’ancrage de ceinture de sécurité de l’extrémité supérieure d’une ceinture-baudrier est réglable, le point milieu de l’intervalle de réglage ou la position appropriée pour le 50<sup>e</sup> percentile adulte du sexe masculin, si cette position est précisée dans le manuel de l’usager, doit être situé dans les limites visées au paragraphe (5).
+- **(6)** Dans le cas où l’ancrage de ceinture de sécurité de l’extrémité supérieure d’une ceinture-baudrier est réglable, le point milieu de l’intervalle de réglage ou la position appropriée pour le 50<sup>e</sup> percentile adulte du sexe masculin, si cette position est précisée dans le manuel de l’usager, doit être situé dans les limites visées au paragraphe (5).
 
 #### Résistance des ancrages de ceinture de sécurité
 
 
-- **(7)** Les ancrages de ceinture de sécurité d’une ceinture de sécurité de type 1 et de la ceinture sous-abdominale d’une ceinture de sécurité de type 2 avec ceinture-baudrier détachable ne doivent pas se séparer complètement de la structure du véhicule ou de la structure du siège, lorsqu’ils sont soumis, conformément à la Méthode d’essai 210 — Ancrages de ceinture de sécurité (janvier 2010), à un essai de résistance par l’application d’une force de 22 241 N.
+- **(7)** Les ancrages de ceinture de sécurité d’une ceinture de sécurité de type 1 et de la ceinture sous-abdominale d’une ceinture de sécurité de type 2 avec ceinture-baudrier détachable ne doivent pas se séparer complètement de la structure du véhicule ou de la structure du siège, lorsqu’ils sont soumis, conformément à la Méthode d’essai 210 — Ancrages de ceinture de sécurité (janvier 2010), à un essai de résistance par l’application d’une force de 22 241 N.
 
-- **(8)** Les ancrages de ceinture de sécurité de la ceinture sous-abdominale et de la ceinture-baudrier d’une ceinture de sécurité de type 2 ne doivent pas se séparer complètement de la structure du véhicule ou de la structure du siège lorsqu’ils sont soumis, conformément à la Méthode d’essai 210 — Ancrages de ceinture de sécurité (janvier 2010), à un essai de résistance par l’application simultanée d’une force de 13 345 N.
+- **(8)** Les ancrages de ceinture de sécurité de la ceinture sous-abdominale et de la ceinture-baudrier d’une ceinture de sécurité de type 2 ne doivent pas se séparer complètement de la structure du véhicule ou de la structure du siège lorsqu’ils sont soumis, conformément à la Méthode d’essai 210 — Ancrages de ceinture de sécurité (janvier 2010), à un essai de résistance par l’application simultanée d’une force de 13 345 N.
 
 - **(9)** [Abrogé, DORS/2003-57, art. 1]
 
 - **(10)** Dans le cas de places assises désignées faisant face à la même direction, les ancrages de ceinture de sécurité doivent être mis à l’essai par l’application simultanée d’une charge sur les ceintures de sécurité fixées à ces ancrages, lorsque ceux-ci sont :
-	- **a)
-** soit communs à un même siège;
-	- **b)
-** soit latéralement adjacents mais non communs au même siège et que la distance entre au moins un des ancrages et l’ancrage pour la place assise adjacente est d’au plus 305 mm, mesurée à partir de l’axe vertical des trous de boulon ou, dans le cas d’un modèle d’ancrage utilisant un autre dispositif de fixation à la structure du véhicule, à partir du centroïde du dispositif.
+	- **a)** soit communs à un même siège;
+	- **b)** soit latéralement adjacents mais non communs au même siège et que la distance entre au moins un des ancrages et l’ancrage pour la place assise adjacente est d’au plus 305 mm, mesurée à partir de l’axe vertical des trous de boulon ou, dans le cas d’un modèle d’ancrage utilisant un autre dispositif de fixation à la structure du véhicule, à partir du centroïde du dispositif.
 
 #### Ensembles de retenue
 
@@ -6183,7 +5852,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 
 
-### Ancrages d’attache prêts à utiliser pour les ensembles de retenue et les sièges d’appoint (Norme 210.1)
+### Ancrages d’attache prêts à utiliser pour les ensembles de retenue et les sièges d’appoint (Norme 210.1)
 > [DORS/2013-117, art. 7]
 
 
@@ -6192,104 +5861,78 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 **210.1** 
 
-- **(1)** Sous réserve du paragraphe (2), le présent article s’applique aux véhicules suivants :
-	- **a)
-** les voitures de tourisme;
-	- **b)
-** les véhicules à trois roues;
-	- **c)
-** les véhicules à usages multiples et camions dont le PNBV est d’au plus 3 856 kg et dont le poids du véhicule sans charge est d’au plus 2 495 kg;
-	- **d)
-** les autobus scolaires;
-	- **e)
-** les autobus, autres que les autobus scolaires, dont le PNBV est d’au plus 4 536 kg.
+- **(1)** Sous réserve du paragraphe (2), le présent article s’applique aux véhicules suivants :
+	- **a)** les voitures de tourisme;
+	- **b)** les véhicules à trois roues;
+	- **c)** les véhicules à usages multiples et camions dont le PNBV est d’au plus 3 856 kg et dont le poids du véhicule sans charge est d’au plus 2 495 kg;
+	- **d)** les autobus scolaires;
+	- **e)** les autobus, autres que les autobus scolaires, dont le PNBV est d’au plus 4 536 kg.
 
 - **(2)** Le présent article ne s’applique pas :
-	- **a)
-** aux places assises désignées qui sont munies d’un ensemble intégré de retenue ne faisant pas partie d’un siège de véhicule amovible;
-	- **b)
-** aux corbillards.
+	- **a)** aux places assises désignées qui sont munies d’un ensemble intégré de retenue ne faisant pas partie d’un siège de véhicule amovible;
+	- **b)** aux corbillards.
 
 #### Dispositions générales
 
 
-- **(3)** Sous réserve des paragraphes (3.2) et (3.3), un ancrage d’attache prêt à utiliser doit être installé à bord des véhicules autres que les décapotables ou les véhicules de type ouvert :
-	- **a)
-** dans le cas des véhicules, autres que les autobus scolaires, ayant une seule rangée de places assises désignées faisant face à l’avant, à toutes les places assises désignées faisant face à l’avant autres que celle du conducteur;
-	- **b)
-** dans le cas des véhicules, autres que les autobus scolaires, ayant deux rangées ou plus de places assises désignées et au plus trois places assises désignées faisant face à l’avant qui sont situées à l’arrière de la première rangée de places assises désignées, à toutes les places assises désignées faisant face à l’avant qui sont situées à l’arrière de la première rangée de places assises désignées;
-	- **c)
-** dans le cas des véhicules, autres que les autobus scolaires, ayant deux rangées ou plus de places assises désignées et au moins quatre places assises désignées faisant face à l’avant qui sont situées à l’arrière de la première rangée de places assises désignées, à trois places assises désignées faisant face à l’avant qui sont situées à l’arrière de la première rangée de places assises désignées, au moins un ancrage d’attache prêt à utiliser devant être installé à une place assise désignée faisant face à l’avant dans la deuxième rangée de places assises désignées, et au moins un ancrage d’attache prêt à utiliser devant être installé à une place assise désignée intérieure faisant face à l’avant, s’il y en a une;
-	- **d)
-** dans le cas des autobus scolaires ayant au plus 24 places assises désignées pour passager et une seule place assise désignée faisant face à l’avant autre que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à cette place assise désignée faisant face à l’avant;
-	- **e)
-** dans le cas des autobus scolaires ayant au plus 24 places assises désignées pour passager et au moins 2 places assises désignées faisant face à l’avant autres que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à 2 de ces places assises désignées faisant face à l’avant;
-	- **f)
-** dans le cas des autobus scolaires ayant au moins 25 places assises désignées pour passager, mais au plus 65 places assises désignées pour passager et au plus 3 places assises désignées faisant face à l’avant autres que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à toutes ces places assises désignées faisant face à l’avant;
-	- **g)
-** dans le cas des autobus scolaires ayant au moins 25 places assises désignées pour passager, mais au plus 65 places assises désignées pour passager et au moins 4 places assises désignées faisant face à l’avant autres que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à 4 de ces places assises désignées faisant face à l’avant;
-	- **h)
-** dans le cas des autobus scolaires ayant au moins 66 places assises désignées pour passager et au plus 7 places assises désignées faisant face à l’avant autres que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à toute ces places assises désignées faisant face à l’avant;
-	- **i)
-** dans le cas des autobus scolaires ayant au moins 66 places assises désignées pour passager et au moins 8 places assises désignées faisant face à l’avant autres que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à 8 de ces places assises désignées faisant face à l’avant.
+- **(3)** Sous réserve des paragraphes (3.2) et (3.3), un ancrage d’attache prêt à utiliser doit être installé à bord des véhicules autres que les décapotables ou les véhicules de type ouvert :
+	- **a)** dans le cas des véhicules, autres que les autobus scolaires, ayant une seule rangée de places assises désignées faisant face à l’avant, à toutes les places assises désignées faisant face à l’avant autres que celle du conducteur;
+	- **b)** dans le cas des véhicules, autres que les autobus scolaires, ayant deux rangées ou plus de places assises désignées et au plus trois places assises désignées faisant face à l’avant qui sont situées à l’arrière de la première rangée de places assises désignées, à toutes les places assises désignées faisant face à l’avant qui sont situées à l’arrière de la première rangée de places assises désignées;
+	- **c)** dans le cas des véhicules, autres que les autobus scolaires, ayant deux rangées ou plus de places assises désignées et au moins quatre places assises désignées faisant face à l’avant qui sont situées à l’arrière de la première rangée de places assises désignées, à trois places assises désignées faisant face à l’avant qui sont situées à l’arrière de la première rangée de places assises désignées, au moins un ancrage d’attache prêt à utiliser devant être installé à une place assise désignée faisant face à l’avant dans la deuxième rangée de places assises désignées, et au moins un ancrage d’attache prêt à utiliser devant être installé à une place assise désignée intérieure faisant face à l’avant, s’il y en a une;
+	- **d)** dans le cas des autobus scolaires ayant au plus 24 places assises désignées pour passager et une seule place assise désignée faisant face à l’avant autre que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à cette place assise désignée faisant face à l’avant;
+	- **e)** dans le cas des autobus scolaires ayant au plus 24 places assises désignées pour passager et au moins 2 places assises désignées faisant face à l’avant autres que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à 2 de ces places assises désignées faisant face à l’avant;
+	- **f)** dans le cas des autobus scolaires ayant au moins 25 places assises désignées pour passager, mais au plus 65 places assises désignées pour passager et au plus 3 places assises désignées faisant face à l’avant autres que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à toutes ces places assises désignées faisant face à l’avant;
+	- **g)** dans le cas des autobus scolaires ayant au moins 25 places assises désignées pour passager, mais au plus 65 places assises désignées pour passager et au moins 4 places assises désignées faisant face à l’avant autres que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à 4 de ces places assises désignées faisant face à l’avant;
+	- **h)** dans le cas des autobus scolaires ayant au moins 66 places assises désignées pour passager et au plus 7 places assises désignées faisant face à l’avant autres que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à toute ces places assises désignées faisant face à l’avant;
+	- **i)** dans le cas des autobus scolaires ayant au moins 66 places assises désignées pour passager et au moins 8 places assises désignées faisant face à l’avant autres que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à 8 de ces places assises désignées faisant face à l’avant.
 
 - **(3.1)** Un ancrage d’attache prêt à utiliser doit pouvoir être utilisé en tout temps, sauf lorsque la place assise désignée à laquelle il est installé ne peut être utilisée parce que le siège du véhicule a été enlevé ou transformé en vue d’une autre utilisation telle que le transport de marchandises.
 
-- **(3.2)** Lorsqu’un dispositif universel d’ancrages d’attaches inférieurs est installé, en conformité avec le paragraphe 210.2(8), à une place assise désignée pour passager dans la première rangée de places assises désignées, un ancrage d’attache prêt à utiliser doit être installé à cette place assise désignée.
+- **(3.2)** Lorsqu’un dispositif universel d’ancrages d’attaches inférieurs est installé, en conformité avec le paragraphe 210.2(8), à une place assise désignée pour passager dans la première rangée de places assises désignées, un ancrage d’attache prêt à utiliser doit être installé à cette place assise désignée.
 
-- **(3.3)** Le nombre d’ancrages d’attache prêts à utiliser exigé aux alinéas (3)b) et c) peut être réduit de un si un ancrage d’attache prêt à utiliser est installé, en conformité avec le paragraphe (3.2), dans la première rangée de places assises désignées.
+- **(3.3)** Le nombre d’ancrages d’attache prêts à utiliser exigé aux alinéas (3)b) et c) peut être réduit de un si un ancrage d’attache prêt à utiliser est installé, en conformité avec le paragraphe (3.2), dans la première rangée de places assises désignées.
 
 - **(3.4)** [Abrogé, DORS/2013-117, art. 8]
 
-- **(4)** La partie de l’ancrage d’attache prêt à utiliser qui est conçue pour s’unir au crochet de la courroie d’attache doit être facilement accessible et, si elle est recouverte, le couvercle doit être indiqué par un des symboles, ou l’image symétrique d’un des symboles, illustrés à la figure 2 et doit pouvoir s’enlever sans l’aide d’outils.
+- **(4)** La partie de l’ancrage d’attache prêt à utiliser qui est conçue pour s’unir au crochet de la courroie d’attache doit être facilement accessible et, si elle est recouverte, le couvercle doit être indiqué par un des symboles, ou l’image symétrique d’un des symboles, illustrés à la figure 2 et doit pouvoir s’enlever sans l’aide d’outils.
 
 #### Positionnement de l’ancrage d’attache
 
 
-- **(5)** Sous réserve des paragraphes (5.1) et (7), la partie de l’ancrage d’attache prêt à utiliser qui est conçue pour s’unir au crochet de la courroie d’attache doit être située dans les limites de la zone ombrée — tel qu’il est indiqué aux figures 3 à 7 — de la place assise désignée pour laquelle elle est installée, par rapport au point H du gabarit décrit à l’article 4.1 de la norme J826 de la SAE intitulée *Devices for Use in Defining and Measuring Vehicle Seating Accommodation* (juillet 1995) :
-	- **a)
-** dont le point H est situé :
-		- **(i)** soit à l’unique « *Design H-Point* » de la place assise désignée, au sens de l’article 3.11.1 de la pratique recommandée J1100 de la SAE intitulée *Motor Vehicle Dimensions* (février 2001), lorsque celle-ci se trouve dans sa position la plus reculée et la plus basse,
+- **(5)** Sous réserve des paragraphes (5.1) et (7), la partie de l’ancrage d’attache prêt à utiliser qui est conçue pour s’unir au crochet de la courroie d’attache doit être située dans les limites de la zone ombrée — tel qu’il est indiqué aux figures 3 à 7 — de la place assise désignée pour laquelle elle est installée, par rapport au point H du gabarit décrit à l’article 4.1 de la norme J826 de la SAE intitulée *Devices for Use in Defining and Measuring Vehicle Seating Accommodation* (juillet 1995) :
+	- **a)** dont le point H est situé :
+		- **(i)** soit à l’unique « *Design H-Point* » de la place assise désignée, au sens de l’article 3.11.1 de la pratique recommandée J1100 de la SAE intitulée *Motor Vehicle Dimensions* (février 2001), lorsque celle-ci se trouve dans sa position la plus reculée et la plus basse,
 		- **(ii)** soit, dans le cas d’une place assise désignée possédant un dispositif universel d’ancrages d’attaches inférieurs, à mi-distance entre les deux barres du dispositif universel d’ancrages d’attaches inférieurs;
-	- **b)
-** dont la ligne de torse forme le même angle, par rapport au plan vertical, que le dossier du siège lorsque le siège se trouve dans sa position la plus reculée et la plus basse et le dossier, dans sa position la plus droite;
-	- **c)
-** qui se trouve dans le plan longitudinal vertical passant par le point H.
+	- **b)** dont la ligne de torse forme le même angle, par rapport au plan vertical, que le dossier du siège lorsque le siège se trouve dans sa position la plus reculée et la plus basse et le dossier, dans sa position la plus droite;
+	- **c)** qui se trouve dans le plan longitudinal vertical passant par le point H.
 
 - **(5.1)** Dans le cas d’un autobus, aucune partie d’un ancrage d’attache prêt à utiliser ne peut être située sur le plancher de l’autobus.
 
 - **(6)** [Abrogé, DORS/2008-72, art. 8]
 
-- **(7)** La partie de l’ancrage d’attache prêt à utiliser qui est conçue pour s’unir au crochet de la courroie d’attache peut se situer à l’extérieur des limites de la zone ombrée visée au paragraphe (5) lorsque aucune partie de la zone ombrée n’est accessible sans démontage d’un élément du siège du véhicule et que le véhicule est muni d’un dispositif d’acheminement :
-	- **a)
-** qui fait en sorte que la courroie d’attache fonctionne comme si la partie de l’ancrage qui est conçue pour s’unir au crochet de la courroie d’attache était située dans la zone ombrée;
-	- **b)
-** qui se trouve à 65 mm ou plus derrière la ligne de torse, dans le cas d’un dispositif d’acheminement de type à sangle flexible ou rétractable, ou à 100 mm ou plus derrière la ligne de torse, dans le cas d’un dispositif d’acheminement fixe et rigide;
-	- **c)
-** qui, lorsqu’il est mis à l’essai après avoir été installé conformément à l’usage auquel il est destiné, résiste avec l’ancrage d’attache prêt à utiliser à la force visée au paragraphe (8).
+- **(7)** La partie de l’ancrage d’attache prêt à utiliser qui est conçue pour s’unir au crochet de la courroie d’attache peut se situer à l’extérieur des limites de la zone ombrée visée au paragraphe (5) lorsque aucune partie de la zone ombrée n’est accessible sans démontage d’un élément du siège du véhicule et que le véhicule est muni d’un dispositif d’acheminement :
+	- **a)** qui fait en sorte que la courroie d’attache fonctionne comme si la partie de l’ancrage qui est conçue pour s’unir au crochet de la courroie d’attache était située dans la zone ombrée;
+	- **b)** qui se trouve à 65 mm ou plus derrière la ligne de torse, dans le cas d’un dispositif d’acheminement de type à sangle flexible ou rétractable, ou à 100 mm ou plus derrière la ligne de torse, dans le cas d’un dispositif d’acheminement fixe et rigide;
+	- **c)** qui, lorsqu’il est mis à l’essai après avoir été installé conformément à l’usage auquel il est destiné, résiste avec l’ancrage d’attache prêt à utiliser à la force visée au paragraphe (8).
 
 #### Résistance
 
 
-- **(8)** Sous réserve du paragraphe (10), chaque ancrage d’attache prêt à utiliser qui est installé dans une rangée de places assises désignées doit, lorsqu’il est mis à l’essai, résister à une force de 10 000 N qui, à la fois :
-	- **a)
-** est appliquée au moyen d’un des types de dispositifs d’essai suivants qui est installé comme un ensemble de retenue d’enfant le serait suivant les instructions du fabricant du véhicule :
-		- **(i)** un dispositif d’essai illustré aux figures 12 à 16,
-		- **(ii)** un dispositif d’essai illustré aux figures 7 et 8 de l’article 210.2, dans le cas d’une place assise désignée possédant un dispositif universel d’ancrages d’attaches inférieurs;
-	- **b)
-** est appliquée :
-		- **(i)** d’une part, dans le sens avant, parallèlement au plan longitudinal vertical du véhicule, en passant par le point X du dispositif d’essai,
+- **(8)** Sous réserve du paragraphe (10), chaque ancrage d’attache prêt à utiliser qui est installé dans une rangée de places assises désignées doit, lorsqu’il est mis à l’essai, résister à une force de 10 000 N qui, à la fois :
+	- **a)** est appliquée au moyen d’un des types de dispositifs d’essai suivants qui est installé comme un ensemble de retenue d’enfant le serait suivant les instructions du fabricant du véhicule :
+		- **(i)** un dispositif d’essai illustré aux figures 12 à 16,
+		- **(ii)** un dispositif d’essai illustré aux figures 7 et 8 de l’article 210.2, dans le cas d’une place assise désignée possédant un dispositif universel d’ancrages d’attaches inférieurs;
+	- **b)** est appliquée :
+		- **(i)** d’une part, dans le sens avant, parallèlement au plan longitudinal vertical du véhicule, en passant par le point X du dispositif d’essai,
 		- **(ii)** d’autre part, initialement, le long d’une ligne située au-dessus de la ligne horizontale et formant avec elle un angle de 10°± 5°;
-	- **c)
-** est atteinte en 30 secondes, l’application initiale de la force ne devant pas dépasser 135 000 N/s;
-	- **d)
-** est maintenue à 10 000 N pendant au moins une seconde.
+	- **c)** est atteinte en 30 secondes, l’application initiale de la force ne devant pas dépasser 135 000 N/s;
+	- **d)** est maintenue à 10 000 N pendant au moins une seconde.
 
 - **(9)** [Abrogé, DORS/2008-72, art. 8]
 
-- **(10)** Lorsque les zones de positionnement d’ancrages d’attache prêt à utiliser se chevauchent et si, dans le secteur de chevauchement, il est installé un ancrage d’attache prêt à utiliser conçu pour recevoir simultanément les crochets de courroies d’attache de deux ensembles de retenue ou sièges d’appoint, chaque partie de l’ancrage d’attache prêt à utiliser qui est conçue pour s’unir à un crochet de la courroie d’attache doit résister à la force visée au paragraphe (8) lorsqu’elle est appliquée simultanément aux deux parties.
+- **(10)** Lorsque les zones de positionnement d’ancrages d’attache prêt à utiliser se chevauchent et si, dans le secteur de chevauchement, il est installé un ancrage d’attache prêt à utiliser conçu pour recevoir simultanément les crochets de courroies d’attache de deux ensembles de retenue ou sièges d’appoint, chaque partie de l’ancrage d’attache prêt à utiliser qui est conçue pour s’unir à un crochet de la courroie d’attache doit résister à la force visée au paragraphe (8) lorsqu’elle est appliquée simultanément aux deux parties.
 
-- **(11)** Lorsqu’une banquette d’autobus ou une rangée de places assises désignées dans un autre véhicule compte plus d’un ancrage d’attache prêt à utiliser et qu’une distance de 400 mm ou plus, mesurée conformément à la figure 20, sépare les points milieux des places assises désignées adjacentes, la force visée aux paragraphes (8) ou (10), selon le cas, doit être appliquée simultanément à chacun des ancrages d’attache prêts à utiliser de la manière prévue au paragraphe pertinent.
+- **(11)** Lorsqu’une banquette d’autobus ou une rangée de places assises désignées dans un autre véhicule compte plus d’un ancrage d’attache prêt à utiliser et qu’une distance de 400 mm ou plus, mesurée conformément à la figure 20, sépare les points milieux des places assises désignées adjacentes, la force visée aux paragraphes (8) ou (10), selon le cas, doit être appliquée simultanément à chacun des ancrages d’attache prêts à utiliser de la manière prévue au paragraphe pertinent.
 
 - **(12)** Les essais de résistance doivent être effectués avec le siège ajusté dans sa position la plus reculée et la plus basse et le dossier, dans sa position la plus droite.
 
@@ -6302,7 +5945,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 > Image: Diagramme montrant un symbole servant à indiquer l’emplacement d’un ancrage d’attache prêt à utiliser qui est recouvert, avec une photo représentant une personne assise et comportant le système d’ancrage de la ceinture
 
 
-###### Remarques :
+###### Remarques :
 
 - **1** Les dimensions sont exprimées en mm.
 - **2** Le dessin n’est pas à l’échelle.
@@ -6319,15 +5962,15 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 > Image: Diagramme montrant la vue de côté, positionnement de l’ancrage d’attache prêt à utiliser avec mesures et descriptions
 
 
-###### Remarques :
+###### Remarques :
 
 - **1** Les dimensions sont exprimées en mm, sauf indication contraire.
 - **2** La partie de l’ancrage d’attache prêt à utiliser qui est conçue pour s’unir au crochet de la courroie d’attache doit être située dans les limites de la zone ombrée.
 - **3** Le dessin n’est pas à l’échelle.
-- **4** Point « R » : point de référence de l’épaule.
-- **5** Point « V » : point de référence V, à 350 mm verticalement vers le haut et à 175 mm horizontalement vers l’arrière par rapport au point « H ».
-- **6** Point « W » : point de référence W, à 50 mm verticalement vers le bas et à 50 mm horizontalement vers l’arrière par rapport au point « R ».
-- **7** Plan « M » : plan de référence M, à 1 000 mm horizontalement vers l’arrière par rapport au point « R ».
+- **4** Point « R » : point de référence de l’épaule.
+- **5** Point « V » : point de référence V, à 350 mm verticalement vers le haut et à 175 mm horizontalement vers l’arrière par rapport au point « H ».
+- **6** Point « W » : point de référence W, à 50 mm verticalement vers le bas et à 50 mm horizontalement vers l’arrière par rapport au point « R ».
+- **7** Plan « M » : plan de référence M, à 1 000 mm horizontalement vers l’arrière par rapport au point « R ».
 
 </td>
 </tr>
@@ -6339,15 +5982,15 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 > Image: Diagramme montrant la vue de côté agrandie de la zone d’enroulement de la courroie, positionnement de l’ancrage d’attache prêt à utiliser avec mesures et descriptions
 
 
-###### Remarques :
+###### Remarques :
 
 - **1** Les dimensions sont exprimées en mm, sauf indication contraire.
 - **2** La partie de l’ancrage d’attache prêt à utiliser qui est conçue pour s’unir au crochet de la courroie d’attache doit être située dans les limites de la zone ombrée.
 - **3** Le dessin n’est pas à l’échelle.
-- **4** Point « R » : point de référence de l’épaule.
-- **5** Point « V » : point de référence V, à 350 mm verticalement vers le haut et à 175 mm horizontalement vers l’arrière par rapport au point « H ».
-- **6** Point « W » : point de référence W, à 50 mm verticalement vers le bas et à 50 mm horizontalement vers l’arrière par rapport au point « R ».
-- **7** Plan « M » : plan de référence M, à 1 000 mm horizontalement vers l’arrière par rapport au point « R ».
+- **4** Point « R » : point de référence de l’épaule.
+- **5** Point « V » : point de référence V, à 350 mm verticalement vers le haut et à 175 mm horizontalement vers l’arrière par rapport au point « H ».
+- **6** Point « W » : point de référence W, à 50 mm verticalement vers le bas et à 50 mm horizontalement vers l’arrière par rapport au point « R ».
+- **7** Plan « M » : plan de référence M, à 1 000 mm horizontalement vers l’arrière par rapport au point « R ».
 
 </td>
 </tr>
@@ -6356,17 +5999,17 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 <table>
 <tr>
 <td>
-> Image: Diagramme montrant la vue en plan (coupe transversale du plan « R »), positionnement de l’ancrage d’attache prêt à utiliser avec mesures et descriptions
+> Image: Diagramme montrant la vue en plan (coupe transversale du plan « R »), positionnement de l’ancrage d’attache prêt à utiliser avec mesures et descriptions
 
 
-###### Remarques :
+###### Remarques :
 
 - **1** Les dimensions sont exprimées en mm, sauf indication contraire.
 - **2** La partie de l’ancrage d’attache prêt à utiliser qui est conçue pour s’unir au crochet de la courroie d’attache doit être située dans les limites de la zone ombrée.
 - **3** Le dessin n’est pas à l’échelle.
-- **4** Point « R » : point de référence de l’épaule.
-- **5** Point « V » : point de référence V, à 350 mm verticalement vers le haut et à 175 mm horizontalement vers l’arrière par rapport au point « H ».
-- **6** Point « W » : point de référence W, à 50 mm verticalement vers le bas et à 50 mm horizontalement vers l’arrière par rapport au point « R ».
+- **4** Point « R » : point de référence de l’épaule.
+- **5** Point « V » : point de référence V, à 350 mm verticalement vers le haut et à 175 mm horizontalement vers l’arrière par rapport au point « H ».
+- **6** Point « W » : point de référence W, à 50 mm verticalement vers le bas et à 50 mm horizontalement vers l’arrière par rapport au point « R ».
 
 </td>
 </tr>
@@ -6378,13 +6021,13 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 > Image: Diagramme montrant la vue de face, positionnement de l’ancrage d’attache prêt à utiliser avec mesures et descriptions
 
 
-###### Remarques :
+###### Remarques :
 
 - **1** La partie de l’ancrage d’attache prêt à utiliser qui est conçue pour s’unir au crochet de la courroie d’attache doit être située dans les limites de la zone ombrée.
 - **2** Le dessin n’est pas à l’échelle.
-- **3** Point « R » : point de référence de l’épaule.
-- **4** Point « V » : point de référence V, à 350 mm verticalement vers le haut et à 175 mm horizontalement vers l’arrière par rapport au point « H ».
-- **5** Point « W » : point de référence W, à 50 mm verticalement vers le bas et à 50 mm horizontalement vers l’arrière par rapport au point « R ».
+- **3** Point « R » : point de référence de l’épaule.
+- **4** Point « V » : point de référence V, à 350 mm verticalement vers le haut et à 175 mm horizontalement vers l’arrière par rapport au point « H ».
+- **5** Point « W » : point de référence W, à 50 mm verticalement vers le bas et à 50 mm horizontalement vers l’arrière par rapport au point « R ».
 
 </td>
 </tr>
@@ -6396,13 +6039,13 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 > Image: Diagramme montrant la vue schématique tridimensionnelle du positionnement de l’ancrage d’attache prêt à utiliser avec mesures et descriptions
 
 
-###### Remarques :
+###### Remarques :
 
 - **1** La partie de l’ancrage d’attache prêt à utiliser qui est conçue pour s’unir au crochet de la courroie d’attache doit être située dans les limites de la zone ombrée.
 - **2** Le dessin n’est pas à l’échelle.
-- **3** Point « R » : point de référence de l’épaule.
-- **4** Point « V » : point de référence V, à 350 mm verticalement vers le haut et à 175 mm horizontalement vers l’arrière par rapport au point « H ».
-- **5** Point « W » : point de référence W, à 50 mm verticalement vers le bas et à 50 mm horizontalement vers l’arrière par rapport au point « R ».
+- **3** Point « R » : point de référence de l’épaule.
+- **4** Point « V » : point de référence V, à 350 mm verticalement vers le haut et à 175 mm horizontalement vers l’arrière par rapport au point « H ».
+- **5** Point « W » : point de référence W, à 50 mm verticalement vers le bas et à 50 mm horizontalement vers l’arrière par rapport au point « R ».
 
 </td>
 </tr>
@@ -6418,9 +6061,9 @@ Figures 8 à 11 [Abrogées, DORS/2008-72, art. 8]
 > Image: Diagramme montrant la vue de côté du dispositif d’essai d’application de la force statique avec mesures et descriptions
 
 
-###### Remarques :
+###### Remarques :
 
-- **1** Matériau : Aluminum 6061-T6-910.
+- **1** Matériau : Aluminum 6061-T6-910.
 - **2** Les dimensions sont exprimées en mm, sauf indication contraire.
 - **3** Le dessin n’est pas à l’échelle.
 - **4** Arrondir toutes les saillies extérieures.
@@ -6435,9 +6078,9 @@ Figures 8 à 11 [Abrogées, DORS/2008-72, art. 8]
 > Image: Diagramme montrant la vue en plan du dispositif d’essai d’application de la force statique avec mesures et description
 
 
-###### Remarques :
+###### Remarques :
 
-- **1** Matériau : Aluminium 6061-T6-910.
+- **1** Matériau : Aluminium 6061-T6-910.
 - **2** Les dimensions sont exprimées en mm, sauf indication contraire.
 - **3** Le dessin n’est pas à l’échelle.
 - **4** Arrondir toutes les saillies extérieures et le pourtour des trous d’environ 1,5 mm.
@@ -6454,9 +6097,9 @@ Figures 8 à 11 [Abrogées, DORS/2008-72, art. 8]
 > Image: Diagramme montrant la vue de face du dispositif d’essai d’application de la force statique avec mesures et descriptions
 
 
-###### Remarques :
+###### Remarques :
 
-- **1** Matériau : Aluminium 6061-T6-910.
+- **1** Matériau : Aluminium 6061-T6-910.
 - **2** Les dimensions sont exprimées en mm, sauf indication contraire.
 - **3** Le dessin n’est pas à l’échelle.
 - **4** « B » = environ 0,8 mm.
@@ -6472,9 +6115,9 @@ Figures 8 à 11 [Abrogées, DORS/2008-72, art. 8]
 > Image: Diagramme montrant la barre transversale du dispositif d’essai d’application de la force statique avec mesures et descriptions
 
 
-###### Remarques :
+###### Remarques :
 
-- **1** Matériau : Acier.
+- **1** Matériau : Acier.
 - **2** Les dimensions sont exprimées en mm, sauf indication contraire.
 - **3** Le dessin n’est pas à l’échelle.
 - **4** Arrondir toutes les saillies extérieures d’environ 1,5 mm.
@@ -6517,7 +6160,7 @@ Figure 19 [Abrogée, DORS/2008-72, art. 8]
 
 
 
-### Dispositifs universels d’ancrages d’attaches inférieurs des ensembles de retenue et des sièges d’appoint (Norme 210.2)
+### Dispositifs universels d’ancrages d’attaches inférieurs des ensembles de retenue et des sièges d’appoint (Norme 210.2)
 > [DORS/2013-117, art. 9]
 
 
@@ -6526,75 +6169,51 @@ Figure 19 [Abrogée, DORS/2008-72, art. 8]
 
 **210.2** 
 
-- **(1)** Sous réserve du paragraphe (2), le présent article s’applique :
-	- **a)
-** aux voitures de tourisme;
-	- **a.1)
-** aux véhicules à trois roues;
-	- **b)
-** aux véhicules de tourisme à usages multiples et camions dont le PNBV est d’au plus 3 856 kg et dont le poids du véhicule sans charge est d’au plus 2 495 kg;
-	- **c)
-** aux autobus, autres que les autobus scolaires, dont le PNBV est d’au plus 4 536 kg;
-	- **d)
-** aux autobus scolaires.
+- **(1)** Sous réserve du paragraphe (2), le présent article s’applique :
+	- **a)** aux voitures de tourisme;
+	- **a.1)** aux véhicules à trois roues;
+	- **b)** aux véhicules de tourisme à usages multiples et camions dont le PNBV est d’au plus 3 856 kg et dont le poids du véhicule sans charge est d’au plus 2 495 kg;
+	- **c)** aux autobus, autres que les autobus scolaires, dont le PNBV est d’au plus 4 536 kg;
+	- **d)** aux autobus scolaires.
 
 - **(2)** Le présent article ne s’applique pas :
-	- **a)
-** aux camions de type fourgon à accès en position debout;
-	- **b)
-** aux autobus qui ne comportent, à l’arrière du siège du conducteur, qu’une rangée de places assises désignées faisant face à l’avant;
-	- **c)
-** aux véhicules non munis d’un interrupteur manuel pour désactiver le sac gonflable frontal installé à la place assise désignée extérieure avant droite lorsqu’un ensemble de retenue ou un siège d’appoint, quel qu’il soit, est installé, dans les cas suivants :
+	- **a)** aux camions de type fourgon à accès en position debout;
+	- **b)** aux autobus qui ne comportent, à l’arrière du siège du conducteur, qu’une rangée de places assises désignées faisant face à l’avant;
+	- **c)** aux véhicules non munis d’un interrupteur manuel pour désactiver le sac gonflable frontal installé à la place assise désignée extérieure avant droite lorsqu’un ensemble de retenue ou un siège d’appoint, quel qu’il soit, est installé, dans les cas suivants :
 		- **(i)** ils ne comportent qu’une rangée de places assises désignées faisant face à l’avant,
-		- **(ii)** en raison de l’emplacement des composants de la transmission ou de la suspension, les barres du dispositif universel d’ancrages d’attaches inférieurs ne peuvent être installées de façon que le dispositif de retenue pour enfant puisse y être fixé de la manière illustrée à la figure 1 à une place assise située à l’arrière de la première rangée de places assises,
-		- **(iii)** aucune des places assises qui sont situées à l’arrière de la première rangée de places assises ne peut recevoir le dispositif de retenue pour enfant illustré aux figures 2 à 4;
-	- **d)
-** aux corbillards.
+		- **(ii)** en raison de l’emplacement des composants de la transmission ou de la suspension, les barres du dispositif universel d’ancrages d’attaches inférieurs ne peuvent être installées de façon que le dispositif de retenue pour enfant puisse y être fixé de la manière illustrée à la figure 1 à une place assise située à l’arrière de la première rangée de places assises,
+		- **(iii)** aucune des places assises qui sont situées à l’arrière de la première rangée de places assises ne peut recevoir le dispositif de retenue pour enfant illustré aux figures 2 à 4;
+	- **d)** aux corbillards.
 
 #### Dispositions générales
 
 
 - **(3)** Le dispositif universel d’ancrages d’attaches inférieurs est composé de deux barres droites et horizontales qui sont conformes aux critères suivants :
-	- **a)
-** elles sont transversales par rapport à l’axe longitudinal du véhicule;
-	- **b)
-** elles ont un diamètre de 6mm ± 0,1 mm et une longueur, mesurée conformément à la figure 12, d’au moins 25 mm;
-	- **c)
-** elles sont parallèles, leurs axes longitudinaux controïdes étant colinéaires, et sont espacées latéralement de manière à permettre qu’y soient fixées les attaches inférieures du dispositif de retenue pour enfant illustré aux figures 2 à 4, sur toute la longueur des attaches inférieures;
-	- **d)
-** elles sont une partie intégrante et permanentes du siège, de l’ancrage de celui-ci ou de la structure du véhicule de manière qu’elles ne puissent être enlevées qu’à l’aide d’outils;
-	- **e)
-** elles sont fixées rigidement au siège, à l’ancrage de celui-ci ou à la structure du véhicule de manière que, le siège étant réglé dans le véhicule dans sa position la plus reculée et la plus basse et le dossier se trouvant dans la position assise nominale, elles ne puissent se déformer de plus de 5 mm lorsqu’elles sont assujetties à une force de 100 N dans une quelconque direction;
-	- **f)
-** elles permettent la fixation d’un dispositif de contrôle, sur toute la largeur de ce dispositif, l’espace entre la surface des barres et la ligne M, illustrée à la figure 5, étant inférieur à 1 mm.
+	- **a)** elles sont transversales par rapport à l’axe longitudinal du véhicule;
+	- **b)** elles ont un diamètre de 6mm ± 0,1 mm et une longueur, mesurée conformément à la figure 12, d’au moins 25 mm;
+	- **c)** elles sont parallèles, leurs axes longitudinaux controïdes étant colinéaires, et sont espacées latéralement de manière à permettre qu’y soient fixées les attaches inférieures du dispositif de retenue pour enfant illustré aux figures 2 à 4, sur toute la longueur des attaches inférieures;
+	- **d)** elles sont une partie intégrante et permanentes du siège, de l’ancrage de celui-ci ou de la structure du véhicule de manière qu’elles ne puissent être enlevées qu’à l’aide d’outils;
+	- **e)** elles sont fixées rigidement au siège, à l’ancrage de celui-ci ou à la structure du véhicule de manière que, le siège étant réglé dans le véhicule dans sa position la plus reculée et la plus basse et le dossier se trouvant dans la position assise nominale, elles ne puissent se déformer de plus de 5 mm lorsqu’elles sont assujetties à une force de 100 N dans une quelconque direction;
+	- **f)** elles permettent la fixation d’un dispositif de contrôle, sur toute la largeur de ce dispositif, l’espace entre la surface des barres et la ligne M, illustrée à la figure 5, étant inférieur à 1 mm.
 
-- **(4)** Sous réserve des paragraphes (7) et (8), un dispositif universel d’ancrages d’attaches inférieurs doit être installé à bord des véhicules :
-	- **a)
-** dans le cas des véhicules, autres que les autobus scolaires, ayant une seule rangée de places assises désignées faisant face à l’avant, à une place assise désignée faisant face à l’avant autre que celle du conducteur;
-	- **b)
-** dans le cas des véhicules, autres que les autobus scolaires, ayant deux rangées ou plus de places assises désignées et au plus deux places assises désignées faisant face à l’avant qui sont situées à l’arrière de la première rangée de places assises désignées, à toutes les places assises désignées faisant face à l’avant qui sont situées à l’arrière de la première rangée de places assises désignées;
-	- **c)
-** dans le cas des véhicules, autres que les autobus scolaires, ayant deux rangées ou plus de places assises désignées et au moins trois places assises désignées faisant face à l’avant qui sont situées à l’arrière de la première rangée de places assises désignées, à deux places assises désignées faisant face à l’avant qui sont situées à l’arrière de la première rangée de places assises désignées, au moins un dispositif universel d’ancrage d’attaches inférieurs devant être installé à une place assise désignée faisant face à l’avant dans la deuxième rangée de places assises désignées;
-	- **d)
-** dans le cas des autobus scolaires ayant au plus 24 places assises désignées pour passager et une seule place assise désignée faisant face à l’avant autre que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à cette place assise désignée faisant face à l’avant;
-	- **e)
-** dans le cas des autobus scolaires ayant au plus 24 places assises désignées pour passager et au moins 2 places assises désignées faisant face à l’avant autres que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à 2 de ces places assises désignées faisant face à l’avant;
-	- **f)
-** dans le cas des autobus scolaires ayant au moins 25 places assises désignées pour passager, mais au plus 65 places assises désignées pour passager et au plus 3 places assises désignées faisant face à l’avant autres que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à toutes ces places assises désignées faisant face à l’avant;
-	- **g)
-** dans le cas des autobus scolaires ayant au moins 25 places assises désignées pour passager, mais au plus 65 places assises désignées pour passager et au moins 4 places assises désignées faisant face à l’avant autres que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à 4 de ces places assises désignées faisant face à l’avant;
-	- **h)
-** dans le cas des autobus scolaires ayant au moins 66 places assises désignées pour passager et au plus 7 places assises désignées faisant face à l’avant autres que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à toute ces places assises désignées faisant face à l’avant;
-	- **i)
-** dans le cas des autobus scolaires ayant au moins 66 places assises désignées pour passager et au moins 8 places assises désignées faisant face à l’avant autres que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à 8 de ces places assises désignées faisant face à l’avant.
+- **(4)** Sous réserve des paragraphes (7) et (8), un dispositif universel d’ancrages d’attaches inférieurs doit être installé à bord des véhicules :
+	- **a)** dans le cas des véhicules, autres que les autobus scolaires, ayant une seule rangée de places assises désignées faisant face à l’avant, à une place assise désignée faisant face à l’avant autre que celle du conducteur;
+	- **b)** dans le cas des véhicules, autres que les autobus scolaires, ayant deux rangées ou plus de places assises désignées et au plus deux places assises désignées faisant face à l’avant qui sont situées à l’arrière de la première rangée de places assises désignées, à toutes les places assises désignées faisant face à l’avant qui sont situées à l’arrière de la première rangée de places assises désignées;
+	- **c)** dans le cas des véhicules, autres que les autobus scolaires, ayant deux rangées ou plus de places assises désignées et au moins trois places assises désignées faisant face à l’avant qui sont situées à l’arrière de la première rangée de places assises désignées, à deux places assises désignées faisant face à l’avant qui sont situées à l’arrière de la première rangée de places assises désignées, au moins un dispositif universel d’ancrage d’attaches inférieurs devant être installé à une place assise désignée faisant face à l’avant dans la deuxième rangée de places assises désignées;
+	- **d)** dans le cas des autobus scolaires ayant au plus 24 places assises désignées pour passager et une seule place assise désignée faisant face à l’avant autre que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à cette place assise désignée faisant face à l’avant;
+	- **e)** dans le cas des autobus scolaires ayant au plus 24 places assises désignées pour passager et au moins 2 places assises désignées faisant face à l’avant autres que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à 2 de ces places assises désignées faisant face à l’avant;
+	- **f)** dans le cas des autobus scolaires ayant au moins 25 places assises désignées pour passager, mais au plus 65 places assises désignées pour passager et au plus 3 places assises désignées faisant face à l’avant autres que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à toutes ces places assises désignées faisant face à l’avant;
+	- **g)** dans le cas des autobus scolaires ayant au moins 25 places assises désignées pour passager, mais au plus 65 places assises désignées pour passager et au moins 4 places assises désignées faisant face à l’avant autres que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à 4 de ces places assises désignées faisant face à l’avant;
+	- **h)** dans le cas des autobus scolaires ayant au moins 66 places assises désignées pour passager et au plus 7 places assises désignées faisant face à l’avant autres que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à toute ces places assises désignées faisant face à l’avant;
+	- **i)** dans le cas des autobus scolaires ayant au moins 66 places assises désignées pour passager et au moins 8 places assises désignées faisant face à l’avant autres que celle du conducteur et celles d’une banquette qui se trouve à proximité d’une issue de secours et qui compte un siège adjacent, à 8 de ces places assises désignées faisant face à l’avant.
 
 - **(5)** [Abrogé, DORS/2008-72, art. 9]
 
 - **(6)** Le dispositif universel d’ancrages d’attaches inférieurs doit être installé seulement à une place assise désignée munie d’un ancrage d’attache prêt à utiliser, sauf dans le cas des décapotables et des véhicules de type ouvert.
 
-- **(7)** Le nombre de dispositifs universels d’ancrages d’attaches inférieurs exigé dans un véhicule en vertu du paragraphe (4) peut être diminué du nombre d’ensembles intégrés de retenue qui y sont installés.
+- **(7)** Le nombre de dispositifs universels d’ancrages d’attaches inférieurs exigé dans un véhicule en vertu du paragraphe (4) peut être diminué du nombre d’ensembles intégrés de retenue qui y sont installés.
 
-- **(8)** Sauf dans le cas d’un autobus, si la distance entre la surface arrière du dossier du siège avant d’un véhicule et la surface avant du dossier du siège arrière est inférieure de celui-ci à 720 mm, mesurée conformément à la figure 6, et si le véhicule est muni de l’interrupteur manuel visé à l’alinéa (2)c), un dispositif universel d’ancrages d’attaches inférieurs peut être installé à une place assise désignée pour passager dans la première rangée de places assises désignées au lieu d’être installé aux places assises désignées situées à l’arrière de la première rangée de places assises désignées.
+- **(8)** Sauf dans le cas d’un autobus, si la distance entre la surface arrière du dossier du siège avant d’un véhicule et la surface avant du dossier du siège arrière est inférieure de celui-ci à 720 mm, mesurée conformément à la figure 6, et si le véhicule est muni de l’interrupteur manuel visé à l’alinéa (2)c), un dispositif universel d’ancrages d’attaches inférieurs peut être installé à une place assise désignée pour passager dans la première rangée de places assises désignées au lieu d’être installé aux places assises désignées situées à l’arrière de la première rangée de places assises désignées.
 
 - **(9)** Le véhicule muni d’un siège glissant latéralement ou pouvant être installé à toute autre place assise doit être conforme aux exigences énoncées dans le présent article, lorsque le siège est réglé à toute position du réglage.
 
@@ -6603,108 +6222,79 @@ Figure 19 [Abrogée, DORS/2008-72, art. 8]
 #### Positionnement du dispositif universel d’ancrages d’attaches inférieurs
 
 
-- **(11)** Chaque barre du dispositif universel d’ancrages d’attaches inférieurs est installée de façon que le dispositif de retenue pour enfant puisse être fixé au dispositif universel d’ancrages d’attaches inférieurs de la manière illustrée à la figure 1.
+- **(11)** Chaque barre du dispositif universel d’ancrages d’attaches inférieurs est installée de façon que le dispositif de retenue pour enfant puisse être fixé au dispositif universel d’ancrages d’attaches inférieurs de la manière illustrée à la figure 1.
 
-- **(12)** Pour l’application du paragraphe (11), le siège est réglé dans sa position la plus reculée et la plus basse, le dossier se trouvant dans la position assise nominale, et le dispositif de retenue pour enfant illustré aux figures 2 et 3 ou à la figure 4 est installé sur le siège.
+- **(12)** Pour l’application du paragraphe (11), le siège est réglé dans sa position la plus reculée et la plus basse, le dossier se trouvant dans la position assise nominale, et le dispositif de retenue pour enfant illustré aux figures 2 et 3 ou à la figure 4 est installé sur le siège.
 
 #### Résistance
 
 
 - **(13)** Lorsqu’il est mis à l’essai, le dispositif universel d’ancrages d’attaches inférieurs installé dans une rangée de places assises désignées ne doit se dégager complètement ni du siège du véhicule, ni de l’ancrage du siège, ni de la structure du véhicule, sous l’action :
-	- **a)
-** d’une part et sous réserve du paragraphe (15), d’une force de traction de 15 000 N, qui est, à la fois :
-		- **(i)** appliquée au moyen du dispositif d’essai illustré aux figures 7 et 8 qui est installé à l’aide de l’ancrage d’attache prêt à utiliser qui s’y rattache et du dispositif universel d’ancrages d’attaches inférieurs, comme un ensemble de retenue pour enfant le serait suivant les instructions du fabricant du véhicule,
+	- **a)** d’une part et sous réserve du paragraphe (15), d’une force de traction de 15 000 N, qui est, à la fois :
+		- **(i)** appliquée au moyen du dispositif d’essai illustré aux figures 7 et 8 qui est installé à l’aide de l’ancrage d’attache prêt à utiliser qui s’y rattache et du dispositif universel d’ancrages d’attaches inférieurs, comme un ensemble de retenue pour enfant le serait suivant les instructions du fabricant du véhicule,
 		- **(ii)** appliquée dans le sens avant, parallèlement au plan longitudinal vertical du véhicule, en passant par le point X du dispositif d’essai, à partir d’une pré-charge de 500 N,
 		- **(iii)** appliquée initialement, le long d’une ligne située au-dessus de la ligne horizontale et formant avec elle un angle de 10° ± 5°,
 		- **(iv)** atteinte en 30 secondes, l’application initiale de la force ne devant pas dépasser 135 000 N/s,
 		- **(v)** maintenue à 15 000 N pendant au moins une seconde;
-	- **b)
-** d’autre part, d’une force de traction de 5 000 N qui est, à la fois :
-		- **(i)** appliquée au moyen du dispositif d’essai illustré aux figures 7 et 8 qui est installé comme un ensemble de retenue pour enfant le serait suivant les instructions du fabricant du véhicule, soit à l’aide de l’ancrage d’attache prêt à utiliser et du dispositif universel d’ancrages d’attaches inférieurs, soit, au choix du fabricant, seulement à l’aide du dispositif universel d’ancrages d’attaches inférieurs,
+	- **b)** d’autre part, d’une force de traction de 5 000 N qui est, à la fois :
+		- **(i)** appliquée au moyen du dispositif d’essai illustré aux figures 7 et 8 qui est installé comme un ensemble de retenue pour enfant le serait suivant les instructions du fabricant du véhicule, soit à l’aide de l’ancrage d’attache prêt à utiliser et du dispositif universel d’ancrages d’attaches inférieurs, soit, au choix du fabricant, seulement à l’aide du dispositif universel d’ancrages d’attaches inférieurs,
 		- **(ii)** appliquée, en passant par le point X du dispositif d’essai, le long d’un plan longitudinal vertical formant un angle de 75° ± 5° de l’un ou l’autre côté d’un plan longitudinal vertical qui est parallèle à l’axe longitudinal du véhicule, à partir d’une pré-charge de 500 N,
 		- **(iii)** appliquée initialement, le long d’une ligne horizontale ou d’une ligne qui est située en dessous ou au-dessus de la ligne horizontale et qui forme avec celle-ci un angle ne dépassant pas 5°,
 		- **(iv)** atteinte en 30 secondes ou moins, l’application initiale de la force ne devant pas dépasser 135 000 N/s,
-		- **(v)** maintenue à 5 000 N pendant au moins 1 seconde.
+		- **(v)** maintenue à 5 000 N pendant au moins 1 seconde.
 
-- **(14)** Lorsqu’il est soumis à l’application d’une force de 5 000 N en conformité avec l’alinéa (13)b), le dispositif universel d’ancrages d’attaches inférieurs ne doit pas permettre au point X du dispositif d’essai d’effectuer un déplacement dans la direction de la force appliquée qui soit supérieur à 125 mm, s’il est installé dans une place assise désignée extérieure, ou à 150 mm, s’il est installé dans une place assise désignée intérieure.
+- **(14)** Lorsqu’il est soumis à l’application d’une force de 5 000 N en conformité avec l’alinéa (13)b), le dispositif universel d’ancrages d’attaches inférieurs ne doit pas permettre au point X du dispositif d’essai d’effectuer un déplacement dans la direction de la force appliquée qui soit supérieur à 125 mm, s’il est installé dans une place assise désignée extérieure, ou à 150 mm, s’il est installé dans une place assise désignée intérieure.
 
 - **(15)** Le dispositif universel d’ancrages d’attaches inférieurs installé à une place assise désignée qui n’est pas munie d’ancrage d’attache prêt à utiliser qui s’y rattache doit être soumis à l’application d’une force de 11 000 N qui est, à la fois :
-	- **a)
-** appliquée au moyen du dispositif d’essai illustré aux figures 7 et 8 qui est installé seulement à l’aide du dispositif universel d’ancrages d’attaches inférieurs;
-	- **b)
-** appliquée dans le sens avant, parallèlement au plan longitudinal vertical du véhicule, en passant par le point X du dispositif d’essai, à partir d’une pré-charge de 500 N;
-	- **c)
-** appliquée initialement, le long d’une ligne située au-dessus de la ligne horizontale et formant avec elle un angle de 10° ± 5°;
-	- **d)
-** atteinte en 30 secondes, l’application initiale de la force ne devant pas dépasser 135 000 N/s;
-	- **e)
-** maintenue à 11 000 N pendant au moins une seconde.
+	- **a)** appliquée au moyen du dispositif d’essai illustré aux figures 7 et 8 qui est installé seulement à l’aide du dispositif universel d’ancrages d’attaches inférieurs;
+	- **b)** appliquée dans le sens avant, parallèlement au plan longitudinal vertical du véhicule, en passant par le point X du dispositif d’essai, à partir d’une pré-charge de 500 N;
+	- **c)** appliquée initialement, le long d’une ligne située au-dessus de la ligne horizontale et formant avec elle un angle de 10° ± 5°;
+	- **d)** atteinte en 30 secondes, l’application initiale de la force ne devant pas dépasser 135 000 N/s;
+	- **e)** maintenue à 11 000 N pendant au moins une seconde.
 
 #### Exigences relatives aux essais
 
 
-- **(16)** Lorsqu’une banquette d’autobus ou une rangée de places assises désignées dans un autre véhicule compte plus d’un dispositif universel d’ancrages d’attaches inférieurs et qu’une distance de 400 mm ou plus, mesurée conformément à la figure 9, sépare les points milieux des places assises désignées adjacentes, la force visée aux paragraphes (13) ou (15), selon le cas, doit être appliquée simultanément à chacun des dispositifs de la manière prévue au paragraphe pertinent.
+- **(16)** Lorsqu’une banquette d’autobus ou une rangée de places assises désignées dans un autre véhicule compte plus d’un dispositif universel d’ancrages d’attaches inférieurs et qu’une distance de 400 mm ou plus, mesurée conformément à la figure 9, sépare les points milieux des places assises désignées adjacentes, la force visée aux paragraphes (13) ou (15), selon le cas, doit être appliquée simultanément à chacun des dispositifs de la manière prévue au paragraphe pertinent.
 
 - **(17)** Les essais de résistance sont effectués dans les conditions suivantes :
-	- **a)
-** le siège du véhicule est installé dans le véhicule;
-	- **b)
-** le siège du véhicule est réglé dans sa position la plus reculée et la plus basse;
-	- **c)
-** le dossier du siège du véhicule est réglé dans la position assise nominale;
-	- **d)
-** les appuie-tête, lorsqu’ils sont installés à une place assise désignée munie d’un dispositif universel d’ancrages d’attaches inférieurs, sont réglés selon les instructions du fabricant;
-	- **e)
-** une force de 135 N ± 15 N est appliquée dans le sens arrière au centre de la barre transversale inférieure avant du dispositif d’essai illustré aux figures 7 et 8 afin de bien l’appuyer sur le dossier du siège pendant que la position des attaches inférieures du dispositif d’essai est réglée pour supprimer le mou ou la tension.
+	- **a)** le siège du véhicule est installé dans le véhicule;
+	- **b)** le siège du véhicule est réglé dans sa position la plus reculée et la plus basse;
+	- **c)** le dossier du siège du véhicule est réglé dans la position assise nominale;
+	- **d)** les appuie-tête, lorsqu’ils sont installés à une place assise désignée munie d’un dispositif universel d’ancrages d’attaches inférieurs, sont réglés selon les instructions du fabricant;
+	- **e)** une force de 135 N ± 15 N est appliquée dans le sens arrière au centre de la barre transversale inférieure avant du dispositif d’essai illustré aux figures 7 et 8 afin de bien l’appuyer sur le dossier du siège pendant que la position des attaches inférieures du dispositif d’essai est réglée pour supprimer le mou ou la tension.
 
-- **(17.1)** Malgré le paragraphe (17), dans le cas d’un autobus, les essais de résistance peuvent être effectués lorsque le siège du véhicule n’est pas installé dans le véhicule si les conditions suivantes sont réunies :
-	- **a)
-** l’ancrage d’attache prêt à utiliser est installé sur le siège conformément aux exigences de l’article 210.1 relatives au positionnement des ancrages d’attache dans le cas d’une place assise désignée du véhicule;
-	- **b)
-** la structure sur laquelle le siège est installé, l’ancrage du siège et toutes les pièces qui s’y rattachent sont équivalentes à celles utilisées lorsque le siège est installé dans le véhicule;
-	- **c)
-** une force de 135 N ± 15 N est appliquée dans le sens arrière au centre de la barre transversale inférieure avant du dispositif d’essai illustré aux figures 7 et 8 afin de bien l’appuyer sur le dossier du siège pendant que la position des attaches inférieures du dispositif d’essai est réglée pour supprimer le mou ou la tension.
+- **(17.1)** Malgré le paragraphe (17), dans le cas d’un autobus, les essais de résistance peuvent être effectués lorsque le siège du véhicule n’est pas installé dans le véhicule si les conditions suivantes sont réunies :
+	- **a)** l’ancrage d’attache prêt à utiliser est installé sur le siège conformément aux exigences de l’article 210.1 relatives au positionnement des ancrages d’attache dans le cas d’une place assise désignée du véhicule;
+	- **b)** la structure sur laquelle le siège est installé, l’ancrage du siège et toutes les pièces qui s’y rattachent sont équivalentes à celles utilisées lorsque le siège est installé dans le véhicule;
+	- **c)** une force de 135 N ± 15 N est appliquée dans le sens arrière au centre de la barre transversale inférieure avant du dispositif d’essai illustré aux figures 7 et 8 afin de bien l’appuyer sur le dossier du siège pendant que la position des attaches inférieures du dispositif d’essai est réglée pour supprimer le mou ou la tension.
 
 #### Renseignements relatifs aux dispositifs universels d’ancrages d’attaches inférieurs
 
 
-- **(18)** Sous réserve des paragraphes (19) et (20), si le dispositif universel d’ancrages d’attaches inférieurs n’est pas visible le long d’une ligne située au-dessus de la ligne horizontale et formant avec celle-ci un angle de 30° ou plus, sans qu’il soit nécessaire de comprimer ni le coussin ni le dossier du siège de la place assise, la présence de chacune de ses barres est indiquée au moyen d’un symbole constitué d’un pictogramme sur un cercle, lequel est illustré à la figure 10 et est conforme aux conditions suivantes :
-	- **a)
-** le pictogramme contraste avec le fond du cercle;
-	- **b)
-** le cercle contraste avec le fond, soit le dossier ou le coussin du siège du véhicule;
-	- **c)
-** le centre du symbole est situé au plus de 25 mm du plan longitudinal vertical passant par le centre de chaque barre du dispositif;
-	- **d)
-** le symbole est apposé sur le dossier ou sur le coussin du siège du véhicule en conformité avec la figure 11;
-	- **e)
-** le symbole est apposé de façon permanente par tout moyen de manière qu’il soit impossible de l’enlever sans le détériorer ou le détruire.
+- **(18)** Sous réserve des paragraphes (19) et (20), si le dispositif universel d’ancrages d’attaches inférieurs n’est pas visible le long d’une ligne située au-dessus de la ligne horizontale et formant avec celle-ci un angle de 30° ou plus, sans qu’il soit nécessaire de comprimer ni le coussin ni le dossier du siège de la place assise, la présence de chacune de ses barres est indiquée au moyen d’un symbole constitué d’un pictogramme sur un cercle, lequel est illustré à la figure 10 et est conforme aux conditions suivantes :
+	- **a)** le pictogramme contraste avec le fond du cercle;
+	- **b)** le cercle contraste avec le fond, soit le dossier ou le coussin du siège du véhicule;
+	- **c)** le centre du symbole est situé au plus de 25 mm du plan longitudinal vertical passant par le centre de chaque barre du dispositif;
+	- **d)** le symbole est apposé sur le dossier ou sur le coussin du siège du véhicule en conformité avec la figure 11;
+	- **e)** le symbole est apposé de façon permanente par tout moyen de manière qu’il soit impossible de l’enlever sans le détériorer ou le détruire.
 
-- **(19)** Si le dispositif universel d’ancrages d’attaches inférieurs est repliable, sa présence est indiquée au moyen du symbole illustré à la figure 10 qui est soit apposé en conformité avec le paragraphe (18), soit apposé sur le mécanisme permettant de déplier chacune des barres de ce dispositif et visible à la jonction du coussin et du dossier du siège du véhicule lorsque les barres du dispositif sont repliées.
+- **(19)** Si le dispositif universel d’ancrages d’attaches inférieurs est repliable, sa présence est indiquée au moyen du symbole illustré à la figure 10 qui est soit apposé en conformité avec le paragraphe (18), soit apposé sur le mécanisme permettant de déplier chacune des barres de ce dispositif et visible à la jonction du coussin et du dossier du siège du véhicule lorsque les barres du dispositif sont repliées.
 
-- **(20)** Si le dispositif universel d’ancrages d’attaches inférieurs est recouvert par une ou plusieurs pièces mobiles, sa présence peut être indiquée sur chacune de ces pièces mobiles au moyen du symbole illustré à la figure 10 dans les cas suivants :
-	- **a)
-** la ou les pièces mobiles ne peuvent s’enlever complètement;
-	- **b)
-** le dispositif est visible en conformité avec le paragraphe (18) si la ou les pièces mobiles s’enlèvent complètement.
+- **(20)** Si le dispositif universel d’ancrages d’attaches inférieurs est recouvert par une ou plusieurs pièces mobiles, sa présence peut être indiquée sur chacune de ces pièces mobiles au moyen du symbole illustré à la figure 10 dans les cas suivants :
+	- **a)** la ou les pièces mobiles ne peuvent s’enlever complètement;
+	- **b)** le dispositif est visible en conformité avec le paragraphe (18) si la ou les pièces mobiles s’enlèvent complètement.
 
 - **(21)** [Abrogé, DORS/2008-72, art. 9]
 
 - **(22)** Dans le cas de tout véhicule muni d’un dispositif universel d’ancrages d’attaches inférieurs, les versions française et anglaise du manuel de l’usager contiennent les renseignements suivants :
-	- **a)
-** lorsque le symbole illustré à la figure 10 est apposé sur le dossier ou le coussin du siège du véhicule ou sur une partie mobile recouvrant le dispositif universel d’ancrages d’attaches inférieurs, la mention que ce symbole indique la présence du dispositif avec la reproduction du symbole;
-	- **b)
-** [Abrogé, DORS/2008-72, art. 9]
-	- **c)
-** l’indication, au moyen du symbole illustré à la figure 10 ou de toute autre marque utilisée pour indiquer la présence du dispositif universel d’ancrages d’attaches inférieurs, selon le cas, des places assises désignées munies de ce dispositif;
-	- **d)
-** lorsqu’il s’agit d’un dispositif repliable, des instructions sur la marche à suivre pour le déplier;
-	- **e)
-** lorsque des appuie-tête sont installés aux places assises munies d’un dispositif universel d’ancrages d’attaches inférieurs, des instructions sur la bonne façon de les régler pour permettre leur utilisation avec les ancrages d’attache prêts à utiliser;
-	- **f)
-** lorsque le véhicule compte plus d’une rangée de places assises désignées, la mention que les enfants et les bébés sont plus en sécurité lorsqu’ils sont retenus correctement dans des ensembles de retenue pour enfant, ou des ensembles de retenue pour bébé, assujettis à une place assise arrière;
-	- **g)
-** lorsque le véhicule est une décapotable ou un véhicule de type ouvert et qu’il n’a pas de place assise désignée munie d’un ancrage d’attache prêt à utiliser, la mention que ni un ensemble de retenue ni un siège d’appoint exigeant l’utilisation d’une courroie d’attache ne peuvent être convenablement assujettis à bord de ce véhicule.
+	- **a)** lorsque le symbole illustré à la figure 10 est apposé sur le dossier ou le coussin du siège du véhicule ou sur une partie mobile recouvrant le dispositif universel d’ancrages d’attaches inférieurs, la mention que ce symbole indique la présence du dispositif avec la reproduction du symbole;
+	- **b)** [Abrogé, DORS/2008-72, art. 9]
+	- **c)** l’indication, au moyen du symbole illustré à la figure 10 ou de toute autre marque utilisée pour indiquer la présence du dispositif universel d’ancrages d’attaches inférieurs, selon le cas, des places assises désignées munies de ce dispositif;
+	- **d)** lorsqu’il s’agit d’un dispositif repliable, des instructions sur la marche à suivre pour le déplier;
+	- **e)** lorsque des appuie-tête sont installés aux places assises munies d’un dispositif universel d’ancrages d’attaches inférieurs, des instructions sur la bonne façon de les régler pour permettre leur utilisation avec les ancrages d’attache prêts à utiliser;
+	- **f)** lorsque le véhicule compte plus d’une rangée de places assises désignées, la mention que les enfants et les bébés sont plus en sécurité lorsqu’ils sont retenus correctement dans des ensembles de retenue pour enfant, ou des ensembles de retenue pour bébé, assujettis à une place assise arrière;
+	- **g)** lorsque le véhicule est une décapotable ou un véhicule de type ouvert et qu’il n’a pas de place assise désignée munie d’un ancrage d’attache prêt à utiliser, la mention que ni un ensemble de retenue ni un siège d’appoint exigeant l’utilisation d’une courroie d’attache ne peuvent être convenablement assujettis à bord de ce véhicule.
 
 - 
 <table>
@@ -6713,7 +6303,7 @@ Figure 19 [Abrogée, DORS/2008-72, art. 8]
 > Image: Diagramme montrant le positionnement du dispositif universel d’ancrages d’attaches inférieurs avec mesures et descriptions
 
 
-###### Remarques :
+###### Remarques :
 
 - **1** Les dimensions sont exprimées en mm, sauf indication contraire.
 - **2** Le dessin n’est pas à l’échelle.
@@ -6730,7 +6320,7 @@ Figure 19 [Abrogée, DORS/2008-72, art. 8]
 > Image: Diagramme montrant les vues de côté, de l’arrière et de dessus du dispositif de retenue pour enfant avec mesures et descriptions
 
 
-###### Remarques :
+###### Remarques :
 
 - **1** Les dimensions sont exprimées en mm, sauf indication contraire.
 - **2** Le dessin n’est pas à l’échelle.
@@ -6745,7 +6335,7 @@ Figure 19 [Abrogée, DORS/2008-72, art. 8]
 > Image: Diagramme montrant les vues schématiques tridimensionnelles du dispositif de retenue pour enfant sans le dessus et sans les côtés avec mesures et descriptions
 
 
-###### Remarques :
+###### Remarques :
 
 - **1** Les dimensions sont exprimées en mm, sauf indication contraire.
 - **2** Le dessin n’est pas à l’échelle.
@@ -6760,7 +6350,7 @@ Figure 19 [Abrogée, DORS/2008-72, art. 8]
 > Image: Diagramme montrant la vue de l’arrière et de côté du dispositif de contrôle pour le dispositif universel d’ancrages d’attaches inférieurs — Dimensions de l’enveloppe avec mesures et descriptions
 
 
-###### Remarques :
+###### Remarques :
 
 - **1** Les dimensions sont exprimées en mm, sauf indication contraire.
 - **2** Le dessin n’est pas à l’échelle.
@@ -6775,18 +6365,18 @@ Figure 19 [Abrogée, DORS/2008-72, art. 8]
 > Image: Diagramme montrant la distance entre les rangées de places assises désignées avec mesures
 
 
-###### Légende :
+###### Légende :
 
 - **1** Point le plus élevé du coussin du siège arrière dans le plan longitudinal vertical passant par le centre du coussin du siège du conducteur, si le véhicule est muni de sièges-baquets avant, ou par le centre de la jante du volant, si le véhicule est muni d’une banquette avant
-- **2** Ligne longitudinale horizontale tangente au point 1, se prolongeant entre les points 3 et 4. La longueur de la ligne 2 correspond à L<sub>CR</sub>.
-- **3** Surface arrière du dossier du siège avant le long de la ligne 2
-- **4** Surface avant du dossier du siège arrière le long de la ligne 2
+- **2** Ligne longitudinale horizontale tangente au point 1, se prolongeant entre les points 3 et 4. La longueur de la ligne 2 correspond à L<sub>CR</sub>.
+- **3** Surface arrière du dossier du siège avant le long de la ligne 2
+- **4** Surface avant du dossier du siège arrière le long de la ligne 2
 - **5** L<sub>CR</sub> — La distance entre la surface arrière du dossier du siège avant et la surface avant du dossier du siège arrière
 
 ###### Notes
 
 - **1** Les sièges réglables sont dans la position de réglage à mi-distance entre la position la plus à l’avant et la position la plus à l’arrière; s’ils sont réglables individuellement vers le haut, ils sont dans la position la plus basse. S’il n’y a pas de position de réglage à midistance entre la position la plus à l’avant et la position la plus à l’arrière, la position la plus près de l’arrière par rapport au point milieu est utilisée.
-- **2** Placer les dossiers réglables des sièges dans la position assise nominale recommandée par le fabricant, de la manière indiquée par celui-ci. Placer tout ancrage réglable dans la position nominale recommandée par le fabricant pour un occupant du 50<sup>e</sup> percentile adulte de sexe masculin. Placer chaque appuie-tête réglable dans la position la plus haute. Les supports lombaires réglables sont placés de façon que le support lombaire soit dans la position la moins rigide.
+- **2** Placer les dossiers réglables des sièges dans la position assise nominale recommandée par le fabricant, de la manière indiquée par celui-ci. Placer tout ancrage réglable dans la position nominale recommandée par le fabricant pour un occupant du 50<sup>e</sup> percentile adulte de sexe masculin. Placer chaque appuie-tête réglable dans la position la plus haute. Les supports lombaires réglables sont placés de façon que le support lombaire soit dans la position la moins rigide.
 
 </td>
 </tr>
@@ -6798,13 +6388,13 @@ Figure 19 [Abrogée, DORS/2008-72, art. 8]
 > Image: Diagramme montrant les vues de côté, de l’arrière et de dessous du dispositif d’essai d’application de la force statique pour l’essai de résistance avec mesures et description
 
 
-###### Remarques :
+###### Remarques :
 
 - **1** Les dimensions sont exprimées en mm, sauf indication contraire.
 - **2** Le dessin n’est pas à l’échelle.
-- **3** Matériau : à moins d’indication contraire, acier, tube rectangulaire de 50 mm sur 75 mm en acier doux d’une épaisseur nominale de 3 mm, doté d’une plaque d’application de charge d’une épaisseur de 6 mm.
+- **3** Matériau : à moins d’indication contraire, acier, tube rectangulaire de 50 mm sur 75 mm en acier doux d’une épaisseur nominale de 3 mm, doté d’une plaque d’application de charge d’une épaisseur de 6 mm.
 - **4** Les pièces doivent être solidement soudées.
-- **5** Dimensions de la cheville : hauteur hors tout, 16 mm, hauteur du diamètre le plus petit, 6,75 mm, grand diamètre, 10 mm, petit diamètre, 8 mm.
+- **5** Dimensions de la cheville : hauteur hors tout, 16 mm, hauteur du diamètre le plus petit, 6,75 mm, grand diamètre, 10 mm, petit diamètre, 8 mm.
 
 </td>
 </tr>
@@ -6840,7 +6430,7 @@ Figure 19 [Abrogée, DORS/2008-72, art. 8]
 > Image: Diagramme montrant un symbole du dispositif universel d’ancrages d’attaches inférieurs avec mesures
 
 
-###### Remarques :
+###### Remarques :
 
 - **1** Le dessin n’est pas à l’échelle.
 - **2** L’image symétrique du symbole peut être utilisée.
@@ -6856,7 +6446,7 @@ Figure 19 [Abrogée, DORS/2008-72, art. 8]
 > Image: Diagramme montrant l’emplacement du symbole sur le dossier et le coussin du siège du véhicule avec mesures et descriptions
 
 
-###### Remarques :
+###### Remarques :
 
 - **1** Le dessin n’est pas à l’échelle.
 - **2** 50 mm ≤ a ≤ 100 mm.
@@ -6888,16 +6478,16 @@ Remarque : Le dessin n’est pas à l’échelle.
 
 **212** 
 
-- **(1)** Les voitures de tourisme, à l’exception des véhicules de type à cabine avancée et des véhicules de type ouvert pourvus d’un pare-brise rabattable ou amovible, doivent être conformes aux exigences du Document de normes techniques no 212 — Cadre de pare-brise (DNT 212), avec ses modifications successives.
+- **(1)** Les voitures de tourisme, à l’exception des véhicules de type à cabine avancée et des véhicules de type ouvert pourvus d’un pare-brise rabattable ou amovible, doivent être conformes aux exigences du Document de normes techniques no 212 — Cadre de pare-brise (DNT 212), avec ses modifications successives.
 
-- **(2)** Les véhicules de tourisme à usages multiples, autobus et camions d’un PNBV d’au plus 4 536 kg, à l’exception des fourgons à accès en position debout, des véhicules de type à cabine avancée et des véhicules de type ouvert pourvus d’un pare-brise rabattable ou amovible, doivent être conformes aux exigences du DNT 212, avec ses modifications successives.
+- **(2)** Les véhicules de tourisme à usages multiples, autobus et camions d’un PNBV d’au plus 4 536 kg, à l’exception des fourgons à accès en position debout, des véhicules de type à cabine avancée et des véhicules de type ouvert pourvus d’un pare-brise rabattable ou amovible, doivent être conformes aux exigences du DNT 212, avec ses modifications successives.
 
 - **(3)** [Abrogé, DORS/2014-307, art. 19]
 > DORS/80-282, art. 3; DORS/82-274, art. 1; DORS/90-387, art. 2(F); DORS/93-5, art. 6; DORS/94-692, art. 2(F); DORS/95-536, art. 7(F); DORS/97-201, art. 5; DORS/97-421, art. 17 et 22(F); DORS/2003-57, art. 2; DORS/2008-72, art. 10(F); DORS/2009-121, art. 3; DORS/2013-9, art. 7; DORS/2014-307, art. 19..
 
 
 
-**213. à 213.3** [Abrogés, DORS/98-160, art. 3]
+**213 à 213.3** [Abrogés, DORS/98-160, art. 3]
 
 
 
@@ -6907,59 +6497,44 @@ Remarque : Le dessin n’est pas à l’échelle.
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***DNT 209*** Le Document de normes techniques no 209 — Ceintures de sécurité, avec ses modifications successives. (*TSD 209*) 
+***DNT 209*** Le Document de normes techniques no 209 — Ceintures de sécurité, avec ses modifications successives. (*TSD 209*) 
 
+***Méthode d’essai 213.4*** La Méthode d’essai 213.4 — Ensembles intégrés de retenue et sièges d’appoint intégrés, dans sa version de novembre 2012. (*Test Method 213.4*) 
 
-***Méthode d’essai 213.4*** La Méthode d’essai 213.4 — Ensembles intégrés de retenue et sièges d’appoint intégrés, dans sa version de novembre 2012. (*Test Method 213.4*) 
+- **(2)** Pour l’application du présent article, toute mention, dans le DNT 209, d’une sangle, d’une attache de ceinture ou de leurs pièces de réglage qui font partie d’une ceinture de sécurité de type 1 vaut mention d’une sangle, d’une attache de ceinture ou de leurs pièces de réglage qui font partie d’un ensemble intégré de retenue.
 
+- **(3)** Tout ensemble intégré de retenue et tout siège d’appoint intégré doivent être faits uniquement de matériaux conformes aux exigences du Document de normes techniques no 302 — Inflammabilité des matériaux intérieurs, avec ses modifications successives.
 
-- **(2)** Pour l’application du présent article, toute mention, dans le DNT 209, d’une sangle, d’une attache de ceinture ou de leurs pièces de réglage qui font partie d’une ceinture de sécurité de type 1 vaut mention d’une sangle, d’une attache de ceinture ou de leurs pièces de réglage qui font partie d’un ensemble intégré de retenue.
-
-- **(3)** Tout ensemble intégré de retenue et tout siège d’appoint intégré doivent être faits uniquement de matériaux conformes aux exigences du Document de normes techniques no 302 — Inflammabilité des matériaux intérieurs, avec ses modifications successives.
-
-- **(4)** Tout ensemble intégré de retenue doit, lorsque le dispositif anthropomorphe d’essai est placé dans l’ensemble conformément au paragraphe 5.4 de la Méthode d’essai 213.4, assurer la retenue :
-	- **a)
-** du haut du torse :
+- **(4)** Tout ensemble intégré de retenue doit, lorsque le dispositif anthropomorphe d’essai est placé dans l’ensemble conformément au paragraphe 5.4 de la Méthode d’essai 213.4, assurer la retenue :
+	- **a)** du haut du torse :
 		- **(i)** soit au moyen de ceintures passant par-dessus chaque épaule,
-		- **(ii)** soit au moyen d’une surface fixe ou mobile conforme aux exigences du paragraphe (11);
-	- **b)
-** du bas du torse :
-		- **(i)** soit au moyen d’une ceinture formant un angle d’au moins 45° mais d’au plus 90° avec la surface assise de l’ensemble à la hauteur des points d’attache de la ceinture,
-		- **(ii)** soit au moyen d’une surface fixe ou mobile conforme aux exigences du paragraphe (11);
-	- **c)
-** du bassin :
-		- **(i)** soit au moyen d’une ceinture d’entrejambe qui peut être reliée à la ceinture visée au sous-alinéa b)(i), ou à la surface visée au sous-alinéa b)(ii),
-		- **(ii)** soit au moyen d’une surface fixe ou mobile conforme aux exigences du paragraphe (11).
+		- **(ii)** soit au moyen d’une surface fixe ou mobile conforme aux exigences du paragraphe (11);
+	- **b)** du bas du torse :
+		- **(i)** soit au moyen d’une ceinture formant un angle d’au moins 45° mais d’au plus 90° avec la surface assise de l’ensemble à la hauteur des points d’attache de la ceinture,
+		- **(ii)** soit au moyen d’une surface fixe ou mobile conforme aux exigences du paragraphe (11);
+	- **c)** du bassin :
+		- **(i)** soit au moyen d’une ceinture d’entrejambe qui peut être reliée à la ceinture visée au sous-alinéa b)(i), ou à la surface visée au sous-alinéa b)(ii),
+		- **(ii)** soit au moyen d’une surface fixe ou mobile conforme aux exigences du paragraphe (11).
 
-- **(5)** Toute ceinture qui fait partie d’un ensemble intégré de retenue et qui est conçue pour retenir une personne doit être réglable de façon à s’ajuster étroitement au corps d’une personne dont la masse et la taille se situent dans les limites indiquées dans la mention exigée à l’alinéa (19)a), lorsque cette personne est placée dans l’ensemble conformément aux instructions visées au paragraphe (21).
+- **(5)** Toute ceinture qui fait partie d’un ensemble intégré de retenue et qui est conçue pour retenir une personne doit être réglable de façon à s’ajuster étroitement au corps d’une personne dont la masse et la taille se situent dans les limites indiquées dans la mention exigée à l’alinéa (19)a), lorsque cette personne est placée dans l’ensemble conformément aux instructions visées au paragraphe (21).
 
-- **(6)** Les attaches de ceinture et leurs pièces de réglage qui font partie d’un ensemble intégré de retenue doivent être conformes aux exigences des dispositions S4.3a)(2), sauf l’exigence visant le dépôt de la corrosion, et S4.3b) du DNT 209.
+- **(6)** Les attaches de ceinture et leurs pièces de réglage qui font partie d’un ensemble intégré de retenue doivent être conformes aux exigences des dispositions S4.3a)(2), sauf l’exigence visant le dépôt de la corrosion, et S4.3b) du DNT 209.
 
 - **(7)** Les attaches de ceinture dont sont munies les ceintures conçues pour retenir une personne dans un ensemble intégré de retenue :
-	- **a)
-** dans les conditions prévues à l’article 4 de la Méthode d’essai 213.4 :
+	- **a)** dans les conditions prévues à l’article 4 de la Méthode d’essai 213.4 :
 		- **(i)** ne doivent pas s’ouvrir lorsque toute force de moins de 40 N est appliquée,
 		- **(ii)** doivent s’ouvrir lorsqu’une force d’au moins 40 N mais d’au plus 62 N est appliquée;
-	- **b)
-** dans les conditions prévues à l’article 6 de la Méthode d’essai 213.4, doivent s’ouvrir lorsqu’une force d’au plus 71 N est appliquée;
-	- **c)
-** doivent être conformes aux exigences de la disposition S4.3d)(2) du DNT 209, sauf que l’aire de la surface du bouton-poussoir des attaches de ceinture actionnées par un bouton-poussoir doit être d’au moins 385 mm<sup>2</sup>;
-	- **d)
-** ne doivent pas s’ouvrir lors des essais dynamiques précisés à l’article 5 de la Méthode d’essai 213.4.
+	- **b)** dans les conditions prévues à l’article 6 de la Méthode d’essai 213.4, doivent s’ouvrir lorsqu’une force d’au plus 71 N est appliquée;
+	- **c)** doivent être conformes aux exigences de la disposition S4.3d)(2) du DNT 209, sauf que l’aire de la surface du bouton-poussoir des attaches de ceinture actionnées par un bouton-poussoir doit être d’au moins 385 mm<sup>2</sup>;
+	- **d)** ne doivent pas s’ouvrir lors des essais dynamiques précisés à l’article 5 de la Méthode d’essai 213.4.
 
 - **(8)** Toute sangle conçue pour retenir une personne dans un ensemble intégré de retenue doit :
-	- **a)
-** lorsqu’elle est mise à l’essai conformément à la disposition S5.1b) du DNT 209 avant de subir les essais visés aux alinéas b) à d), avoir une résistance à la rupture d’au moins 11 000 N;
-	- **b)
-** lorsqu’elle est mise à l’essai conformément à la disposition S5.1b) du DNT 209 après avoir subi le traitement d’abrasion conformément à la disposition S5.1d) du DNT 209, avoir une résistance à la rupture d’au moins 75 % de la résistance à la rupture établie conformément à l’alinéa a);
-	- **c)
-** lorsqu’elle est mise à l’essai conformément à la disposition S5.1b) du DNT 209 après avoir subi le traitement d’abrasion de l’attache conformément à la disposition S5.3c) du DNT 209, avoir une résistance à la rupture d’au moins 75 % de la résistance à la rupture établie conformément à l’alinéa a);
-	- **d)
-** lorsqu’elle est mise à l’essai conformément à la disposition S5.1b) du DNT 209 après avoir subi l’exposition à la lumière conformément à la disposition S5.1e) du DNT 209, avoir une résistance à la rupture d’au moins 60 % de la résistance à la rupture établie conformément à l’alinéa a);
-	- **e)
-** lorsqu’elle est mise à l’essai conformément à la disposition S5.1b) du DNT 209 après avoir subi l’exposition aux micro-organismes conformément à la disposition S5.1f) du DNT 209, avoir une résistance à la rupture d’au moins 85 % de la résistance à la rupture établie conformément à l’alinéa a);
-	- **f)
-** si le torse d’un dispositif anthropomorphe d’essai peut toucher la sangle lorsque l’ensemble est soumis à un essai conformément à l’article 5 de la Méthode d’essai 213.4, avoir une largeur d’au moins 38 mm, mesurée conformément à la disposition S5.1a) du DNT 209.
+	- **a)** lorsqu’elle est mise à l’essai conformément à la disposition S5.1b) du DNT 209 avant de subir les essais visés aux alinéas b) à d), avoir une résistance à la rupture d’au moins 11 000 N;
+	- **b)** lorsqu’elle est mise à l’essai conformément à la disposition S5.1b) du DNT 209 après avoir subi le traitement d’abrasion conformément à la disposition S5.1d) du DNT 209, avoir une résistance à la rupture d’au moins 75 % de la résistance à la rupture établie conformément à l’alinéa a);
+	- **c)** lorsqu’elle est mise à l’essai conformément à la disposition S5.1b) du DNT 209 après avoir subi le traitement d’abrasion de l’attache conformément à la disposition S5.3c) du DNT 209, avoir une résistance à la rupture d’au moins 75 % de la résistance à la rupture établie conformément à l’alinéa a);
+	- **d)** lorsqu’elle est mise à l’essai conformément à la disposition S5.1b) du DNT 209 après avoir subi l’exposition à la lumière conformément à la disposition S5.1e) du DNT 209, avoir une résistance à la rupture d’au moins 60 % de la résistance à la rupture établie conformément à l’alinéa a);
+	- **e)** lorsqu’elle est mise à l’essai conformément à la disposition S5.1b) du DNT 209 après avoir subi l’exposition aux micro-organismes conformément à la disposition S5.1f) du DNT 209, avoir une résistance à la rupture d’au moins 85 % de la résistance à la rupture établie conformément à l’alinéa a);
+	- **f)** si le torse d’un dispositif anthropomorphe d’essai peut toucher la sangle lorsque l’ensemble est soumis à un essai conformément à l’article 5 de la Méthode d’essai 213.4, avoir une largeur d’au moins 38 mm, mesurée conformément à la disposition S5.1a) du DNT 209.
 
 - **(9)** Tout ensemble intégré de retenue et tout siège d’appoint intégré doivent comporter, pour soutenir le dos d’une personne, une surface continue plate ou concave d’au moins 54 800 mm<sup>2</sup>.
 
@@ -6968,136 +6543,101 @@ Remarque : Le dessin n’est pas à l’échelle.
 - **(11)** Toute coupe transversale horizontale d’une surface d’un ensemble intégré de retenue qui est conçue pour limiter le mouvement d’une personne vers l’avant doit être plate ou concave, et toute coupe transversale longitudinale verticale de cette surface doit être plate ou convexe avec un rayon de courbure de la structure sous-jacente d’au moins 50 mm.
 
 - **(12)** Les éléments d’armature rigides qui sont sous-jacents à une surface de contact de l’ensemble intégré de retenue ou du siège d’appoint intégré ne doivent présenter :
-	- **a)
-** une fois enlevé tout rembourrage ou matériel de revêtement souple, aucune protubérance de plus de 9,5 mm;
-	- **b)
-** aucun bord exposé d’un rayon de moins de 6,4 mm.
+	- **a)** une fois enlevé tout rembourrage ou matériel de revêtement souple, aucune protubérance de plus de 9,5 mm;
+	- **b)** aucun bord exposé d’un rayon de moins de 6,4 mm.
 
-- **(13)** Tout ensemble intégré de retenue et tout siège d’appoint intégré, lorsqu’ils sont soumis à l’essai conformément à l’article 5 de la Méthode d’essai 213.4, à n’importe quelle position où l’ensemble, le siège d’appoint ou le siège du véhicule peut être utilisé pendant que le véhicule est en mouvement, doivent être conformes aux exigences suivantes :
-	- **a)
-** ils ne présentent aucune séparation complète d’un élément d’armature porteur ni aucune séparation partielle exposant une surface qui, selon le cas :
-		- **(i)** présente des protubérances de plus de 9,5 mm,
-		- **(ii)** a un rayon de moins de 6,4 mm;
-	- **b)
-** ils gardent, au cours de l’essai, la même position de réglage qu’ils avaient immédiatement avant le début de l’essai;
-	- **c)
-** ils limitent, au moyen d’un dossier continu qui fait partie intégrante de l’ensemble ou du siège d’appoint, le mouvement de la tête du dispositif anthropomorphe d’essai vers l’arrière de l’ensemble ou du siège d’appoint;
-	- **d)
-** ils limitent, au moyen d’un dossier continu qui fait partie intégrante de l’ensemble ou du siège d’appoint, la rotation de la tête du dispositif anthropomorphe d’essai vers l’arrière de l’ensemble ou du siège d’appoint, dans le plan mi-sagittal de la tête, de manière que l’angle entre la tête et le torse ne soit, à aucun moment au cours de l’essai, supérieur à 45° par rapport à l’angle entre la tête et le torse immédiatement avant le début de l’essai;
-	- **e)
-** sauf dans le cas d’un ensemble ou d’un siège d’appoint mis à l’essai avec le dispositif anthropomorphe d’essai précisé aux sous-parties O ou S, partie 572, chapitre V, titre 49 du Code of Federal Regulations des États-Unis, dans sa version au 1<sup>er</sup> octobre 2012, ils limitent à au plus 60 g l’accélération résultante à l’emplacement de l’accéléromètre installé dans la partie supérieure du thorax du dispositif anthropomorphe d’essai, sauf pour des intervalles ne dépassant pas 3 ms;
-	- **f)
-** sauf dans le cas d’un ensemble ou d’un siège d’appoint mis à l’essai avec le dispositif anthropomorphe d’essai précisé aux sous-parties O ou S, partie 572, chapitre V, titre 49 du Code of Federal Regulations des États-Unis, dans sa version au 1<sup>er</sup> octobre 2012, ils limitent à au plus 80 g l’accélération résultante du centre de gravité de la tête du dispositif anthropomorphe d’essai, sauf pour des intervalles ne dépassant pas 3 ms, à moins qu’il ne soit établi que l’accélération résultante au-delà de 80 g est causée par une autre partie du dispositif anthropomorphe d’essai qui entre en contact avec la tête de celui-ci;
-	- **g)
-** ils ne présentent pas un angle entre la surface de l’ensemble ou du siège d’appoint destinée à soutenir le dos et leur surface assise qui soit inférieur à 45° à la fin de l’essai;
-	- **h)
-** sauf dans le cas d’un ensemble ou d’un siège d’appoint mis à l’essai avec le dispositif anthropomorphe d’essai précisé aux sous-parties O ou S, partie 572, chapitre V, titre 49 du Code of Federal Regulations des États-Unis, dans sa version au 1<sup>er</sup> octobre 2012, ils limitent, à tout moment pendant et immédiatement après l’essai, le déplacement de l’un ou l’autre des points d’articulation du genou de leur position avant l’essai à au plus 305 mm vers l’avant dans l’axe longitudinal.
+- **(13)** Tout ensemble intégré de retenue et tout siège d’appoint intégré, lorsqu’ils sont soumis à l’essai conformément à l’article 5 de la Méthode d’essai 213.4, à n’importe quelle position où l’ensemble, le siège d’appoint ou le siège du véhicule peut être utilisé pendant que le véhicule est en mouvement, doivent être conformes aux exigences suivantes :
+	- **a)** ils ne présentent aucune séparation complète d’un élément d’armature porteur ni aucune séparation partielle exposant une surface qui, selon le cas :
+		- **(i)** présente des protubérances de plus de 9,5 mm,
+		- **(ii)** a un rayon de moins de 6,4 mm;
+	- **b)** ils gardent, au cours de l’essai, la même position de réglage qu’ils avaient immédiatement avant le début de l’essai;
+	- **c)** ils limitent, au moyen d’un dossier continu qui fait partie intégrante de l’ensemble ou du siège d’appoint, le mouvement de la tête du dispositif anthropomorphe d’essai vers l’arrière de l’ensemble ou du siège d’appoint;
+	- **d)** ils limitent, au moyen d’un dossier continu qui fait partie intégrante de l’ensemble ou du siège d’appoint, la rotation de la tête du dispositif anthropomorphe d’essai vers l’arrière de l’ensemble ou du siège d’appoint, dans le plan mi-sagittal de la tête, de manière que l’angle entre la tête et le torse ne soit, à aucun moment au cours de l’essai, supérieur à 45° par rapport à l’angle entre la tête et le torse immédiatement avant le début de l’essai;
+	- **e)** sauf dans le cas d’un ensemble ou d’un siège d’appoint mis à l’essai avec le dispositif anthropomorphe d’essai précisé aux sous-parties O ou S, partie 572, chapitre V, titre 49 du Code of Federal Regulations des États-Unis, dans sa version au 1<sup>er</sup> octobre 2012, ils limitent à au plus 60 g l’accélération résultante à l’emplacement de l’accéléromètre installé dans la partie supérieure du thorax du dispositif anthropomorphe d’essai, sauf pour des intervalles ne dépassant pas 3 ms;
+	- **f)** sauf dans le cas d’un ensemble ou d’un siège d’appoint mis à l’essai avec le dispositif anthropomorphe d’essai précisé aux sous-parties O ou S, partie 572, chapitre V, titre 49 du Code of Federal Regulations des États-Unis, dans sa version au 1<sup>er</sup> octobre 2012, ils limitent à au plus 80 g l’accélération résultante du centre de gravité de la tête du dispositif anthropomorphe d’essai, sauf pour des intervalles ne dépassant pas 3 ms, à moins qu’il ne soit établi que l’accélération résultante au-delà de 80 g est causée par une autre partie du dispositif anthropomorphe d’essai qui entre en contact avec la tête de celui-ci;
+	- **g)** ils ne présentent pas un angle entre la surface de l’ensemble ou du siège d’appoint destinée à soutenir le dos et leur surface assise qui soit inférieur à 45° à la fin de l’essai;
+	- **h)** sauf dans le cas d’un ensemble ou d’un siège d’appoint mis à l’essai avec le dispositif anthropomorphe d’essai précisé aux sous-parties O ou S, partie 572, chapitre V, titre 49 du Code of Federal Regulations des États-Unis, dans sa version au 1<sup>er</sup> octobre 2012, ils limitent, à tout moment pendant et immédiatement après l’essai, le déplacement de l’un ou l’autre des points d’articulation du genou de leur position avant l’essai à au plus 305 mm vers l’avant dans l’axe longitudinal.
 
-- **(14)** Les ceintures qui font partie d’un ensemble intégré de retenue et qui sont conçues pour retenir une personne dans l’ensemble ne doivent pas imposer au dispositif anthropomorphe d’essai, lorsque l’ensemble est soumis à un essai dynamique conformément à l’article 5 de la Méthode d’essai 213.4, aucune charge provenant de la masse de l’ensemble ou de la masse de toute partie du véhicule auquel l’ensemble est intégré.
+- **(14)** Les ceintures qui font partie d’un ensemble intégré de retenue et qui sont conçues pour retenir une personne dans l’ensemble ne doivent pas imposer au dispositif anthropomorphe d’essai, lorsque l’ensemble est soumis à un essai dynamique conformément à l’article 5 de la Méthode d’essai 213.4, aucune charge provenant de la masse de l’ensemble ou de la masse de toute partie du véhicule auquel l’ensemble est intégré.
 
-- **(15)** Le dossier continu visé aux alinéas (13)c) et d) doit avoir :
-	- **a)
-** une hauteur :
+- **(15)** Le dossier continu visé aux alinéas (13)c) et d) doit avoir :
+	- **a)** une hauteur :
 		- **(i)** d’au moins 500 mm, dans le cas d’un ensemble intégré de retenue qui est recommandé par le fabricant pour utilisation que par une personne dont la masse est d’au plus 18 kg,
 		- **(ii)** d’au moins 560 mm, dans le cas d’un ensemble intégré de retenue qui est recommandé par le fabricant pour utilisation par une personne dont la masse est de plus de 18 kg;
-	- **b)
-** une largeur d’au moins 200 mm, mesurée dans le plan horizontal à une hauteur de 500 mm dans le cas d’un ensemble intégré de retenue visé au sous-alinéa a)(i) ou à une hauteur de 560 mm dans le cas d’un ensemble intégré de retenue visé au sous-alinéa a)(ii).
+	- **b)** une largeur d’au moins 200 mm, mesurée dans le plan horizontal à une hauteur de 500 mm dans le cas d’un ensemble intégré de retenue visé au sous-alinéa a)(i) ou à une hauteur de 560 mm dans le cas d’un ensemble intégré de retenue visé au sous-alinéa a)(ii).
 
-- **(16)** Le paragraphe (15) ne s’applique pas dans les cas suivants :
-	- **a)
-** un ensemble intégré de retenue qui est conçu pour accueillir un dispositif anthropomorphe d’essai ayant, sur chaque côté, un point cible qui est inférieur à un plan horizontal tangent à la partie supérieure du siège du véhicule, lorsque le dispositif anthropomorphe d’essai est placé dans l’ensemble intégré de retenue conformément à la Méthode d’essai 213.4;
-	- **b)
-** un ensemble intégré de retenue qui est conçu pour accueillir le dispositif anthropomorphe d’essai précisé à la sous-partie N, partie 572, chapitre V, titre 49 du Code of Federal Regulations des États-Unis, dans sa version au 1<sup>er</sup> octobre 2012, ou un dispositif anthropomorphe d’essai d’une taille supérieure.
+- **(16)** Le paragraphe (15) ne s’applique pas dans les cas suivants :
+	- **a)** un ensemble intégré de retenue qui est conçu pour accueillir un dispositif anthropomorphe d’essai ayant, sur chaque côté, un point cible qui est inférieur à un plan horizontal tangent à la partie supérieure du siège du véhicule, lorsque le dispositif anthropomorphe d’essai est placé dans l’ensemble intégré de retenue conformément à la Méthode d’essai 213.4;
+	- **b)** un ensemble intégré de retenue qui est conçu pour accueillir le dispositif anthropomorphe d’essai précisé à la sous-partie N, partie 572, chapitre V, titre 49 du Code of Federal Regulations des États-Unis, dans sa version au 1<sup>er</sup> octobre 2012, ou un dispositif anthropomorphe d’essai d’une taille supérieure.
 
-- **(17)** Pour l’application du paragraphe (15), la hauteur du dossier continu doit être mesurée, dans un plan parallèle à la surface du dossier de l’ensemble intégré de retenue et orthogonal au plan longitudinal vertical passant par l’axe longitudinal de l’ensemble, à partir du point le plus bas de la surface assise de l’ensemble auquel touchent les fesses du dispositif anthropomorphe d’essai en position assise.
+- **(17)** Pour l’application du paragraphe (15), la hauteur du dossier continu doit être mesurée, dans un plan parallèle à la surface du dossier de l’ensemble intégré de retenue et orthogonal au plan longitudinal vertical passant par l’axe longitudinal de l’ensemble, à partir du point le plus bas de la surface assise de l’ensemble auquel touchent les fesses du dispositif anthropomorphe d’essai en position assise.
 
-- **(18)** Malgré l’alinéa (15)b), s’il comporte des surfaces qui sont destinées à soutenir les côtés du torse et qui s’étendent d’au moins 100 mm vers l’avant de la surface rembourrée de la portion de l’ensemble intégré de retenue ou du siège d’appoint intégré servant au support de la tête du dispositif anthropomorphe d’essai, l’ensemble ou le siège d’appoint peut avoir un dossier continu d’une largeur d’au moins 150 mm.
+- **(18)** Malgré l’alinéa (15)b), s’il comporte des surfaces qui sont destinées à soutenir les côtés du torse et qui s’étendent d’au moins 100 mm vers l’avant de la surface rembourrée de la portion de l’ensemble intégré de retenue ou du siège d’appoint intégré servant au support de la tête du dispositif anthropomorphe d’essai, l’ensemble ou le siège d’appoint peut avoir un dossier continu d’une largeur d’au moins 150 mm.
 
 - **(19)** Tout ensemble intégré de retenue et tout siège d’appoint intégré doivent porter les renseignements ci-après piqués à même le tissu ou imprimés de façon indélébile, soit en creux ou en relief sur l’ensemble ou le siège d’appoint, soit sur une étiquette qui y est apposée de façon permanente :
-	- **a)
-** une mention indiquant :
+	- **a)** une mention indiquant :
 		- **(i)** les masses et tailles minimales et maximales — en unités basées sur le système international d’unités et les unités de mesure impériales — des personnes pour lesquelles le fabricant recommande l’ensemble ou le siège d’appoint,
 		- **(ii)** dans le cas d’un siège d’appoint, qu’il doit être utilisé par des personnes dont la masse est d’au moins 18 kg;
-	- **b)
-** un avertissement indiquant que :
+	- **b)** un avertissement indiquant que :
 		- **(i)** le fait de ne pas suivre les instructions du fabricant concernant l’utilisation de l’ensemble ou du siège d’appoint peut causer des blessures graves, voire mortelles,
 		- **(ii)** si l’ensemble est muni de ceintures pour retenir la personne, celles-ci doivent être ajustées étroitement au corps de celle-ci.
 
-- **(20)** Les renseignements visés au paragraphe (19) doivent être :
-	- **a)
-** dans les deux langues officielles et en caractères d’au moins 10 points;
-	- **b)
-** complètement visibles lorsque l’ensemble intégré de retenue ou le siège d’appoint intégré est configuré pour être utilisé.
+- **(20)** Les renseignements visés au paragraphe (19) doivent être :
+	- **a)** dans les deux langues officielles et en caractères d’au moins 10 points;
+	- **b)** complètement visibles lorsque l’ensemble intégré de retenue ou le siège d’appoint intégré est configuré pour être utilisé.
 
 - **(21)** Tout ensemble intégré de retenue et tout siège d’appoint intégré doivent être accompagnés d’instructions imprimées, dans les deux langues officielles, qui indiquent, notamment à l’aide de diagrammes, la marche à suivre détaillée pour :
-	- **a)
-** utiliser l’ensemble ou le siège d’appoint;
-	- **b)
-** placer une personne dans l’ensemble ou le siège d’appoint;
-	- **c)
-** ajuster toutes les parties de l’ensemble ou du siège d’appoint qui sont conçues pour retenir la personne.
+	- **a)** utiliser l’ensemble ou le siège d’appoint;
+	- **b)** placer une personne dans l’ensemble ou le siège d’appoint;
+	- **c)** ajuster toutes les parties de l’ensemble ou du siège d’appoint qui sont conçues pour retenir la personne.
 
-- **(22)** Les instructions visées au paragraphe (21) doivent :
-	- **a)
-** expliquer les principales conséquences du fait de ne pas tenir compte des avertissements visés à l’alinéa (19)b) ou des instructions visées au paragraphe (21);
-	- **b)
-** dans le cas d’un siège de véhicule qui peut être retiré de celui-ci grâce à un mécanisme de blocage et qui est muni d’un ensemble intégré de retenue ou d’un siège d’appoint intégré, préciser que le siège du véhicule, qu’il soit occupé ou non, doit être solidement assujetti au véhicule.
+- **(22)** Les instructions visées au paragraphe (21) doivent :
+	- **a)** expliquer les principales conséquences du fait de ne pas tenir compte des avertissements visés à l’alinéa (19)b) ou des instructions visées au paragraphe (21);
+	- **b)** dans le cas d’un siège de véhicule qui peut être retiré de celui-ci grâce à un mécanisme de blocage et qui est muni d’un ensemble intégré de retenue ou d’un siège d’appoint intégré, préciser que le siège du véhicule, qu’il soit occupé ou non, doit être solidement assujetti au véhicule.
 
 - **(23)** [Abrogé, DORS/2014-307, art. 20]
 
-- **(24)** Jusqu’au 1<sup>er</sup> septembre 2013, les ensembles intégrés de retenue et les sièges d’appoint intégrés peuvent être conformes aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
+- **(24)** Jusqu’au 1<sup>er</sup> septembre 2013, les ensembles intégrés de retenue et les sièges d’appoint intégrés peuvent être conformes aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
 > DORS/94-669, art. 6; DORS/2007-180, art. 16 et 21; DORS/2008-72, art. 11; DORS/2008-104, art. 18; DORS/2013-117, art. 11; DORS/2014-307, art. 20..
 
 
 
 
-### Résistance des portes latérales
+### Protection en cas de collision latérale (Norme 214)
+
+
+#### Dispositions générales
 
 **214** 
 
-- **(1)** Les définitions qui suivent s’appliquent au présent article.
+- **(1)** Les véhicules ci-après doivent être conformes aux exigences du Document de normes techniques no 214 — Protection en cas de collision latérale (DNT 214), avec ses modifications successives :
+	- **a)** les voitures de tourisme et les véhicules à trois roues;
+	- **b)** les véhicules ci-après qui ont un PNBV d’au plus 4 536 kg :
+		- **(i)** les autobus,
+		- **(ii)** les camions, à l’exception des fourgons à accès en position debout,
+		- **(iii)** les véhicules de tourisme à usages multiples.
 
-***résistance initiale à la déformation*** La force moyenne nécessaire pour produire une déformation initiale de 152 mm de profondeur dans la porte d’un véhicule. (*initial crush resistance*) 
+- **(2)** Toutefois, les dispositions S7 et S9 du DNT 214 ne s’appliquent pas à une place assise désignée extérieure qui est munie d’un siège ou d’une ceinture de sécurité pour personne handicapée si le véhicule répond aux exigences suivantes :
+	- **a)** il porte l’étiquette supplémentaire visée à l’alinéa 9(1)c);
+	- **b)** si la place assise désignée est une place assise désignée extérieure avant, il porte une ou plusieurs étiquettes, affichées en permanence et à la vue des occupants des places assises désignées avant, sur lesquelles figure en lettres d’au moins six points de hauteur, l’une ou l’autre des deux mentions suivantes :
+		- **(i)** s’il y a une seule place, « *The [indicate here the front outboard designated seating position that has been modified for a disabled person] has been modified for a disabled person, and the Moving Deformable Barrier and the Vehicle-To-Pole tests set out in CMVSS 214 — SIDE IMPACT PROTECTION do not apply to this seating position.* / La [indiquer ici la place assise désignée extérieure avant qui a été modifiée pour une personne handicapée] a été modifiée pour une personne handicapée, et les essais contre une barrière mobile profilée et contre un poteau qui figurent dans la NSVAC 214 — PROTECTION EN CAS DE COLLISION LATÉRALE ne lui sont pas applicables. »,
+		- **(ii)** s’il y a plusieurs places, « *The [indicate here the front outboard designated seating positions that have been modified for a disabled person] have been modified for a disabled person, and the Moving Deformable Barrier and the Vehicle-To-Pole tests set out in CMVSS 214 — SIDE IMPACT PROTECTION do not apply to these seating positions.* / Les [indiquer ici les places assises désignées extérieures avant qui ont été modifiées pour une personne handicapée] ont été modifiées pour une personne handicapée, et les essais contre une barrière mobile profilée et contre un poteau qui figurent dans la NSVAC 214 — PROTECTION EN CAS DE COLLISION LATÉRALE ne leur sont pas applicables. »;
+	- **c)** si la place assise désignée est une place assise désignée extérieure arrière, il porte une ou plusieurs étiquettes, affichées en permanence et à la vue de l’occupant de cette place assise désignée extérieure arrière, sur lesquelles figure, en lettres d’au moins six points de hauteur, la mention suivante : « *The [indicate here the rear outboard designated seating position that has been modified for a disabled person] has been modified for a disabled person, and the Moving Deformable Barrier test set out in CMVSS 214 — SIDE IMPACT PROTECTION does not apply to this seating position.* / La [indiquer ici la place assise désignée extérieure arrière qui a été modifiée pour une personne handicapée] a été modifiée pour une personne handicapée, et l’essai contre une barrière mobile profilée qui figure dans la NSVAC 214 — PROTECTION EN CAS DE COLLISION LATÉRALE ne lui est pas applicable. »
+
+- **(3)** Les mentions prévues aux sous-alinéas b)(i) et (ii) et à l’alinéa c) doivent être reproduites dans le manuel de l’usager.
+
+#### Document de normes techniques n<sup>o</sup> 214
 
 
-***résistance intermédiaire à la déformation*** La force moyenne nécessaire pour produire une déformation initiale de 305 mm de profondeur dans la porte d’un véhicule. (*intermediate crush resistance*) 
+- **(4)** Pour l’application du présent article :
+	- **a)** toute mention, dans le DNT 214, de « voiture de tourisme » vaut mention de « voiture de tourisme et véhicule à trois roues »;
+	- **b)** toute mention, dans la version anglaise du DNT 214, de *« anthropomorphic dummies », « anthropomorphic test dummies », « dummy », « dummies »* et *« test dummies »* vaut mention de *« anthropomorphic test device »*.
+
+#### Disposition transitoire
 
 
-***résistance maximale à la déformation*** La plus grande force nécessaire pour produire une déformation totale de 457 mm de profondeur dans la porte d’un véhicule. (*peak crush resistance*) 
-
-
-- **(2)** Les portes latérales qui sont conçues pour permettre la sortie des occupants d’un camion, véhicule de tourisme à usages multiples ou autobus ayant un PNBV d’au plus 4 536 kg, ou d’une voiture de tourisme ou d’un véhicule à trois roues doivent démontrer les résistances suivantes, calculées conformément à la Méthode d’essai 214 — Résistance des portes latérales, dans sa version du 14 novembre 1996, lors de leur mise à l’essai selon ces méthodes, avec ou sans les sièges, au choix du fabricant :
-	- **a)
-** dans le cas où les véhicules sont mis à l’essai sans les sièges :
-		- **(i)** une résistance initiale à la déformation d’au moins 10,01 kN,
-		- **(ii)** une résistance intermédiaire à la déformation d’au moins 15,57 kN,
-		- **(iii)** une résistance maximale à la déformation au moins égale au double de la masse à vide du véhicule, sans dépasser 31,14 kN;
-	- **b)
-** dans le cas où les véhicules sont mis à l’essai avec les sièges :
-		- **(i)** une résistance initiale à la déformation d’au moins 10,01 kN,
-		- **(ii)** une résistance intermédiaire à la déformation d’au moins 19,46 kN,
-		- **(iii)** une résistance maximale à la déformation au moins égale à trois fois et demie la masse à vide du véhicule, sans dépasser 53,38 kN.
-
-- **(3)** Pour l’application de l’alinéa (2)a), seul l’enlèvement des sièges qui peuvent avoir une influence sur la charge appliquée durant l’essai est obligatoire.
-
-- **(4)** Le paragraphe (2) ne s’applique pas aux portes suivantes :
-	- **a)
-** les portes latérales amovibles de tout véhicule conçu pour être utilisé sans portes latérales;
-	- **b)
-** les portes latérales d’un fourgon à accès en position debout;
-	- **c)
-** les portes latérales d’un véhicule lorsque, dans le cas où le gabarit point H décrit à l’article 4.1 de la norme J826 de la SAE intitulée *Devices for Use in Defining and Measuring Vehicle Seating Accommodation* (juillet 1995) est installé dans un siège, le siège est réglé à n’importe quelle position et le dossier de celui-ci est réglé conformément au paragraphe (6), l’une des conditions suivantes se réalise :
-		- **(i)** aucun point de la ligne longitudinale horizontale d’une longueur de 254 mm dont le point médian est le point H ne passe par la projection transversale horizontale de l’ouverture de la porte,
-		- **(ii)** aucun point du plan longitudinal vertical tangent à l’extrémité extérieure du côté du coussin n’est à moins de 254 mm du point se trouvant le plus à l’intérieur sur la surface intérieure de la porte, lequel point est situé verticalement entre le point H et le point de référence de l’épaule du gabarit et longitudinalement entre le bord avant du siège, réglé dans sa position la plus avancée, et le bord arrière du siège, réglé dans sa position la plus reculée, tel qu’illustré par la figure.
-
-- **(5)** Dans le cas où le véhicule est pourvu d’accessoires d’ancrage des sièges, les conditions prévues à l’alinéa (4)c) doivent être remplies lorsque tout siège recommandé par le fabricant est installé à une position pour laquelle il y a des accessoires d’ancrage.
-
-- **(6)** Pour l’application de l’alinéa (4)c), le dossier est réglé à la position nominale de conduite suivant la manière précisée par le fabricant ou, à défaut de précisions, est incliné vers l’arrière à la première détente qui se trouve à plus de 25° de la verticale, tout appuie-tête étant réglé à sa position la plus haute et tout support lombaire réglable étant mis à sa position d’ouverture complète.
-
-- 
-> Image: Diagramme montrant l’écart autour de la porte avec mesures et descriptions
-
-> DORS/82-275, art. 1; DORS/97-201, art. 3; DORS/2003-272, art. 28; DORS/2006-94, art. 4(A); DORS/2007-180, art. 17..
+- **(5)** Malgré les paragraphes (1) à (4), les véhicules visés au paragraphe (1) peuvent, jusqu’au 1<sup>er</sup> septembre 2018, être conformes aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
+> DORS/82-275, art. 1; DORS/97-201, art. 3; DORS/2003-272, art. 28; DORS/2006-94, art. 4(A); DORS/2007-180, art. 17; DORS/2016-254, art. 2..
 
 
 
@@ -7107,14 +6647,12 @@ Remarque : Le dessin n’est pas à l’échelle.
 **215** 
 
 - **(1)** Les voitures de tourisme doivent être munies de pare-chocs conformes :
-	- **a)
-** soit aux spécifications prévues à l’article 6 et à la procédure d’essai de choc à basse vitesse prévue à l’annexe 3, à l’exception du paragraphe 4 de cette annexe, qui figurent au règlement n<sup>o</sup> 42 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne leurs dispositifs de protection (pare-chocs, etc.) à l’avant et à l’arrière, dans sa version au 12 juin 2007, tel qu’il est modifié après cette date par tout amendement de la série 00 d’amendements;
-	- **b)
-** soit aux exigences, aux conditions et à la procédure d’essai qui figurent à la partie 581 du titre 49 du Code of Federal Regulations des États-Unis, dans sa version révisée au 1<sup>er</sup> octobre 2006.
+	- **a)** soit aux spécifications prévues à l’article 6 et à la procédure d’essai de choc à basse vitesse prévue à l’annexe 3, à l’exception du paragraphe 4 de cette annexe, qui figurent au règlement n<sup>o</sup> 42 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne leurs dispositifs de protection (pare-chocs, etc.) à l’avant et à l’arrière, dans sa version au 12 juin 2007, tel qu’il est modifié après cette date par tout amendement de la série 00 d’amendements;
+	- **b)** soit aux exigences, aux conditions et à la procédure d’essai qui figurent à la partie 581 du titre 49 du Code of Federal Regulations des États-Unis, dans sa version révisée au 1<sup>er</sup> octobre 2006.
 
 - **(2)** Jusqu’au 31 août 2009, les voitures de tourisme peuvent être conformes aux exigences du présent article dans sa version actuelle ou dans sa version antérieure à l’entrée en vigueur du présent règlement.
 
-- **(3)** À compter du 1<sup>er</sup> septembre 2009, les voitures de tourisme doivent être conformes aux exigences du présent article.
+- **(3)** À compter du 1<sup>er</sup> septembre 2009, les voitures de tourisme doivent être conformes aux exigences du présent article.
 > DORS/79-338, art. 1; DORS/79-940, art. 8; DORS/91-692, art. 5; DORS/94-692, art. 2(F); DORS/97-421, art. 22(F); DORS/2008-199, art. 1..
 
 
@@ -7124,9 +6662,9 @@ Remarque : Le dessin n’est pas à l’échelle.
 
 **216** 
 
-- **(1)** Les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV d’au plus 4 536 kg, à l’exception des camions fabriqués à partir d’un châssis tronqué qui ont un PNBV de plus de 2 722 kg, des autobus scolaires et des décapotables, doivent être conformes aux exigences du Document de normes techniques no 216 — Résistance du toit à l’écrasement (DNT 216), avec ses modifications successives.
+- **(1)** Les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV d’au plus 4 536 kg, à l’exception des camions fabriqués à partir d’un châssis tronqué qui ont un PNBV de plus de 2 722 kg, des autobus scolaires et des décapotables, doivent être conformes aux exigences du Document de normes techniques no 216 — Résistance du toit à l’écrasement (DNT 216), avec ses modifications successives.
 
-- **(2)** Les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV d’au plus 4 536 kg, qui sont fabriqués en deux étapes ou plus et qui ne sont pas fabriqués à partir d’un châssis-cabine, et les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV de plus de 2 722 kg et d’au plus 4 536 kg et qui sont munis d’un toit modifié doivent être conformes aux exigences du DNT 216 ou du DNT 220, lequel est mentionné à l’article 220 de la présente annexe.
+- **(2)** Les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV d’au plus 4 536 kg, qui sont fabriqués en deux étapes ou plus et qui ne sont pas fabriqués à partir d’un châssis-cabine, et les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV de plus de 2 722 kg et d’au plus 4 536 kg et qui sont munis d’un toit modifié doivent être conformes aux exigences du DNT 216 ou du DNT 220, lequel est mentionné à l’article 220 de la présente annexe.
 
 - **(3)** Jusqu’au 31 août 2016, les véhicules visés aux paragraphes (1) et (2) peuvent être conformes aux exigences du présent article dans sa version antérieure à la date à laquelle la présente version de l’article entre en vigueur.
 
@@ -7140,156 +6678,117 @@ Remarque : Le dessin n’est pas à l’échelle.
 
 **217** 
 
-- **(1)** Les paragraphes (2) et (2.1) ne s’appliquent pas à un pare-brise ou à une fenêtre dont la longueur de la plus petite corde longeant la surface du vitrage et passant par son centroïde est inférieure à 200 mm (8 po).
+- **(1)** Les paragraphes (2) et (2.1) ne s’appliquent pas à un pare-brise ou à une fenêtre dont la longueur de la plus petite corde longeant la surface du vitrage et passant par son centroïde est inférieure à 200 mm (8 po).
 
-- **(2)** Lorsque les fenêtres d’un autobus font l’objet de l’essai décrit au paragraphe (2.1), chacun des vitrages et des châssis de fenêtre doit demeurer encadré dans les parois de l’autobus de manière qu’il ne puisse se créer d’ouverture suffisamment grande pour laisser passer une sphère de 100 mm (4 pouces) de diamètre sous l’action d’une force de 22 N (5 livres), y compris le poids de la sphère.
+- **(2)** Lorsque les fenêtres d’un autobus font l’objet de l’essai décrit au paragraphe (2.1), chacun des vitrages et des châssis de fenêtre doit demeurer encadré dans les parois de l’autobus de manière qu’il ne puisse se créer d’ouverture suffisamment grande pour laisser passer une sphère de 100 mm (4 pouces) de diamètre sous l’action d’une force de 22 N (5 livres), y compris le poids de la sphère.
 
-- **(2.1)** Dans les conditions prévues aux paragraphes (24) et (25), une force croissante doit être appliquée de façon à faire mouvoir la forme de tête illustrée à la figure 4 du présent article à la vitesse de 51 mm à la minute (2 po à la minute) à partir du point, à l’intérieur du véhicule, qui est au centroïde du vitrage, dans une direction extérieure et perpendiculaire à la surface initiale du vitrage, jusqu’à ce que, selon le cas :
-	- **a)
-** la force croissante atteigne 5 300 N (1 200 lb);
-	- **b)
-** le vitrage présente des fêlures, d’une profondeur d’au moins 80 % de l’épaisseur du vitrage, atteignant le châssis de fenêtre en au moins deux points;
-	- **c)
-** le vitrage vole en éclats;
-	- **d)
-** la surface intérieure du vitrage au centroïde se soit déplacée perpendiculairement à sa surface initiale à une distance égale à la racine carrée de la longueur de la plus petite corde longeant la surface du vitrage et passant par son centroïde divisée par :
+- **(2.1)** Dans les conditions prévues aux paragraphes (24) et (25), une force croissante doit être appliquée de façon à faire mouvoir la forme de tête illustrée à la figure 4 du présent article à la vitesse de 51 mm à la minute (2 po à la minute) à partir du point, à l’intérieur du véhicule, qui est au centroïde du vitrage, dans une direction extérieure et perpendiculaire à la surface initiale du vitrage, jusqu’à ce que, selon le cas :
+	- **a)** la force croissante atteigne 5 300 N (1 200 lb);
+	- **b)** le vitrage présente des fêlures, d’une profondeur d’au moins 80 % de l’épaisseur du vitrage, atteignant le châssis de fenêtre en au moins deux points;
+	- **c)** le vitrage vole en éclats;
+	- **d)** la surface intérieure du vitrage au centroïde se soit déplacée perpendiculairement à sa surface initiale à une distance égale à la racine carrée de la longueur de la plus petite corde longeant la surface du vitrage et passant par son centroïde divisée par :
 		- **(i)** 1,25, lorsque la distance est mesurée en centimètres,
 		- **(ii)** 2, lorsque la distance est mesurée en pouces.
 
 - **(3)** Les autobus, autres que les autobus scolaires et ceux conçus pour le transport des détenus, doivent avoir des ouvertures non obstruées qui permettent la sortie des occupants en cas d’urgence et dont la superficie totale est,
-	- **a)
-** en centimètres carrés, au moins 430 fois le nombre de places assises désignées; ou
-	- **b)
-** en pouces carrés, au moins 67 fois ce nombre.
+	- **a)** en centimètres carrés, au moins 430 fois le nombre de places assises désignées; ou
+	- **b)** en pouces carrés, au moins 67 fois ce nombre.
 
-- **(4)** Au moins 40 % de la superficie totale des ouvertures non obstruées visées au paragraphe (3) doit se trouver de chaque côté de l’autobus.
+- **(4)** Au moins 40 % de la superficie totale des ouvertures non obstruées visées au paragraphe (3) doit se trouver de chaque côté de l’autobus.
 
 - **(5)** Dans le calcul de la superficie totale des ouvertures non obstruées d’un autobus, il ne peut être retenu plus de 3 450 cm<sup>2</sup> (536 po<sup>2</sup>) par issue de secours.
 
-- **(6)** Sous réserve du paragraphe (7), les ouvertures non obstruées visées au paragraphe (3) dont doit être muni tout autobus d’un PNBV supérieur à 4 536 kg (10 000 lb) sont les suivantes :
-	- **a)
-** soit au moins une porte latérale par trois places assises désignées;
-	- **b)
-** soit des issues latérales et au moins une issue de secours arrière conforme aux paragraphes (11) à (14) lorsque l’autobus est sur ses roues et lorsqu’il est renversé sur le côté et qu’un passager se tient debout face à l’issue de secours arrière.
+- **(6)** Sous réserve du paragraphe (7), les ouvertures non obstruées visées au paragraphe (3) dont doit être muni tout autobus d’un PNBV supérieur à 4 536 kg (10 000 lb) sont les suivantes :
+	- **a)** soit au moins une porte latérale par trois places assises désignées;
+	- **b)** soit des issues latérales et au moins une issue de secours arrière conforme aux paragraphes (11) à (14) lorsque l’autobus est sur ses roues et lorsqu’il est renversé sur le côté et qu’un passager se tient debout face à l’issue de secours arrière.
 
-- **(7)** Si la forme de l’autobus visé au paragraphe (6) ne permet pas l’installation d’une issue de secours arrière accessible, celui-ci doit être pourvu, dans sa moitié arrière, d’une issue de secours pratiquée dans le toit, laquelle est conforme aux exigences des paragraphes (11) à (14) lorsque l’autobus est renversé sur le côté et qu’un passager se tient debout face à l’issue.
+- **(7)** Si la forme de l’autobus visé au paragraphe (6) ne permet pas l’installation d’une issue de secours arrière accessible, celui-ci doit être pourvu, dans sa moitié arrière, d’une issue de secours pratiquée dans le toit, laquelle est conforme aux exigences des paragraphes (11) à (14) lorsque l’autobus est renversé sur le côté et qu’un passager se tient debout face à l’issue.
 
-- **(8)** Les ouvertures non obstruées visées au paragraphe (3) dont doit être muni tout autobus d’un PNBV d’au plus 4 536 kg (10 000 lb) peuvent se présenter sous l’une des formes suivantes :
-	- **a)
-** équipement visé aux paragraphes (11) à (14) sans utilisation de télécommande ni de système central de puissance motrice;
-	- **b)
-** fenêtres pouvant s’ouvrir manuellement de façon à présenter une ouverture assez grande pour permettre le libre passage d’un ellipsoïde dont le grand axe, parallèle à l’axe longitudinal des véhicules, est engendré par la rotation autour de son petit axe d’une ellipse ayant un grand axe de 500 mm (20 po) et un petit axe de 330 mm (13 po);
-	- **c)
-** portes.
+- **(8)** Les ouvertures non obstruées visées au paragraphe (3) dont doit être muni tout autobus d’un PNBV d’au plus 4 536 kg (10 000 lb) peuvent se présenter sous l’une des formes suivantes :
+	- **a)** équipement visé aux paragraphes (11) à (14) sans utilisation de télécommande ni de système central de puissance motrice;
+	- **b)** fenêtres pouvant s’ouvrir manuellement de façon à présenter une ouverture assez grande pour permettre le libre passage d’un ellipsoïde dont le grand axe, parallèle à l’axe longitudinal des véhicules, est engendré par la rotation autour de son petit axe d’une ellipse ayant un grand axe de 500 mm (20 po) et un petit axe de 330 mm (13 po);
+	- **c)** portes.
 
 - **(9)** Les autobus scolaires doivent être munis, au choix du fabricant :
-	- **a)
-** soit d’une porte de secours arrière s’ouvrant vers l’extérieur et montée sur le côté droit, pour les autobus d’un PNBV de plus de 4 536 kg (10 000 lb);
-	- **b)
-** soit d’au moins une porte de secours arrière s’ouvrant vers l’extérieur et montée sur l’un ou l’autre côté, pour les autobus dont le PNBV est d’au plus 4 536 kg (10 000 lb);
-	- **c)
-** soit des issues de secours suivantes :
+	- **a)** soit d’une porte de secours arrière s’ouvrant vers l’extérieur et montée sur le côté droit, pour les autobus d’un PNBV de plus de 4 536 kg (10 000 lb);
+	- **b)** soit d’au moins une porte de secours arrière s’ouvrant vers l’extérieur et montée sur l’un ou l’autre côté, pour les autobus dont le PNBV est d’au plus 4 536 kg (10 000 lb);
+	- **c)** soit des issues de secours suivantes :
 		- **(i)** une porte de secours :
 			- **(A)** à articulation avant,
 			- **(B)** se trouvant sur le côté gauche de l’autobus dans la moitié arrière de l’habitacle des passagers,
 		- **(ii)** une fenêtre basculante arrière qui :
 			- **(A)** offre une ouverture dont la grandeur minimale est de 400 mm (16 po) de hauteur et de 1 200 mm (48 po) de largeur,
-			- **(B)** peut être déclenchée au moyen d’au plus deux mécanismes se trouvant dans la zone d’accès à grande force illustrée à la figure 3C, lesquels mécanismes n’ont pas à être actionnés simultanément,
-			- **(C)** pour être déclenchée et ouverte, ne nécessite pas l’application, dans les directions spécifiées aux paragraphes (13) et (14), d’une force supérieure à 180 N (40 lb).
+			- **(B)** peut être déclenchée au moyen d’au plus deux mécanismes se trouvant dans la zone d’accès à grande force illustrée à la figure 3C, lesquels mécanismes n’ont pas à être actionnés simultanément,
+			- **(C)** pour être déclenchée et ouverte, ne nécessite pas l’application, dans les directions spécifiées aux paragraphes (13) et (14), d’une force supérieure à 180 N (40 lb).
 
 - **(10)** Les autobus scolaires doivent être munis de systèmes d’avertissement
-	- **a)
-** entrant en action lorsque le commutateur d’allumage est dans la position « *ON* » et, selon le cas :
+	- **a)** entrant en action lorsque le commutateur d’allumage est dans la position « *ON* » et, selon le cas :
 		- **(i)** qu’une issue de secours est bloquée de telle sorte que son mécanisme d’ouverture ne peut être actionné que par une personne munie d’un outil spécial, telle une clé, ou ayant certains renseignements, telle une combinaison,
 		- **(ii)** que le mécanisme de déclenchement d’une issue de secours n’est pas bien enclenché,
 		- **(iii)** qu’une ou plusieurs issues de secours ne sont pas bien fermées;
-	- **b)
-** produisant un signal sonore continu audible à la place assise du chauffeur et dans l’entourage immédiat de la porte de secours ou de la fenêtre basculante qui a déclenché l’alarme.
+	- **b)** produisant un signal sonore continu audible à la place assise du chauffeur et dans l’entourage immédiat de la porte de secours ou de la fenêtre basculante qui a déclenché l’alarme.
 
-- **(11)** Les fenêtres basculantes ou autres issues de secours d’autobus non prescrites par le paragraphe (9) doivent être munies de un ou de deux mécanismes d’ouverture situés dans les zones d’accès indiquées sur les figures 1, 2 ou 3.
+- **(11)** Les fenêtres basculantes ou autres issues de secours d’autobus non prescrites par le paragraphe (9) doivent être munies de un ou de deux mécanismes d’ouverture situés dans les zones d’accès indiquées sur les figures 1, 2 ou 3.
 
-- **(12)** Le bord inférieur de la zone d’accès à force modérée de la figure 1 et celui de la zone B de la zone d’accès à grande force de la figure 2 doivent être
-	- **a)
-** à 130 mm (5 po) au-dessus du siège adjacent, ou
-	- **b)
-** si le siège est pourvu d’un accoudoir, à 50 mm (2 po) au-dessus de ce dernier,
+- **(12)** Le bord inférieur de la zone d’accès à force modérée de la figure 1 et celui de la zone B de la zone d’accès à grande force de la figure 2 doivent être
+	- **a)** à 130 mm (5 po) au-dessus du siège adjacent, ou
+	- **b)** si le siège est pourvu d’un accoudoir, à 50 mm (2 po) au-dessus de ce dernier,
 celle de ces deux distances qui place le plus haut ces bords inférieurs, étant à retenir.
 
-- **(13)** Lors des essais effectués dans les conditions visées aux paragraphes (24) et (26), tant avant qu’après l’essai indiqué au paragraphe (2), les issues de secours non prescrites par le paragraphe (9) doivent pouvoir être ouvertes manuellement par un occupant qui applique, au choix du fabricant,
-	- **a)
-** une force modérée d’au plus 90 N (20 lb) dans un mouvement rectiligne ou rotatif, si le mécanisme d’ouverture de ces issues se trouve à l’endroit indiqué sur les figures 1 ou 3 du présent article; ou
-	- **b)
-** une grande force d’au plus 270 N (60 lb), dans un mouvement rectiligne perpendiculaire à la surface initiale de ces issues si leur mécanisme d’ouverture se trouve à l’endroit indiqué sur les figures 2 ou 3 du présent article.
+- **(13)** Lors des essais effectués dans les conditions visées aux paragraphes (24) et (26), tant avant qu’après l’essai indiqué au paragraphe (2), les issues de secours non prescrites par le paragraphe (9) doivent pouvoir être ouvertes manuellement par un occupant qui applique, au choix du fabricant,
+	- **a)** une force modérée d’au plus 90 N (20 lb) dans un mouvement rectiligne ou rotatif, si le mécanisme d’ouverture de ces issues se trouve à l’endroit indiqué sur les figures 1 ou 3 du présent article; ou
+	- **b)** une grande force d’au plus 270 N (60 lb), dans un mouvement rectiligne perpendiculaire à la surface initiale de ces issues si leur mécanisme d’ouverture se trouve à l’endroit indiqué sur les figures 2 ou 3 du présent article.
 
 - **(14)** Un mécanisme d’ouverture d’une issue de secours doit se déclencher sous l’action d’au plus deux forces, dont l’une doit s’exercer dans une direction différant de 90 à 180° de la direction du mouvement initial d’ouverture vers l’extérieur de cette issue.
 
-- **(15)** Dans les conditions prévues aux paragraphes (24) et (26), tant avant qu’après l’essai de résistance des fenêtres décrit au paragraphe (2.1), les portes d’issue de secours d’un autobus scolaire doivent pouvoir être déclenchées manuellement de l’intérieur et de l’extérieur de l’autobus par une seule personne exerçant une force d’au plus 180 N (40 lb), laquelle est appliquée, selon le cas :
-	- **a)
-** à l’intérieur de la zone d’accès à grande force illustrée à la figure 3B du présent article, dans le cas d’une porte d’issue de secours latérale, ou à la figure 3D du présent article, dans le cas d’une porte d’issue de secours arrière;
-	- **b)
-** dans n’importe quelle direction depuis l’extérieur de l’autobus;
-	- **c)
-** à l’intérieur de l’autobus suivant un mouvement ascendant.
+- **(15)** Dans les conditions prévues aux paragraphes (24) et (26), tant avant qu’après l’essai de résistance des fenêtres décrit au paragraphe (2.1), les portes d’issue de secours d’un autobus scolaire doivent pouvoir être déclenchées manuellement de l’intérieur et de l’extérieur de l’autobus par une seule personne exerçant une force d’au plus 180 N (40 lb), laquelle est appliquée, selon le cas :
+	- **a)** à l’intérieur de la zone d’accès à grande force illustrée à la figure 3B du présent article, dans le cas d’une porte d’issue de secours latérale, ou à la figure 3D du présent article, dans le cas d’une porte d’issue de secours arrière;
+	- **b)** dans n’importe quelle direction depuis l’extérieur de l’autobus;
+	- **c)** à l’intérieur de l’autobus suivant un mouvement ascendant.
 
 - **(16)** Les mécanismes d’ouverture de porte de secours d’un autobus scolaire doivent pouvoir se déclencher sans l’utilisation de télécommandes ni d’outils, et doivent fonctionner indépendamment de la source d’énergie du véhicule.
 
-- **(17)** Les issues de secours d’un autobus, autres que les portes de secours visées au paragraphe (9), doivent, une fois le mécanisme de déclenchement actionné, pouvoir être ouvertes manuellement vers l’extérieur par un occupant qui applique une force mentionnée au paragraphe (13), de façon à présenter une ouverture assez grande pour permettre le libre passage de l’ellipsoïde décrit à l’alinéa (8)b).
+- **(17)** Les issues de secours d’un autobus, autres que les portes de secours visées au paragraphe (9), doivent, une fois le mécanisme de déclenchement actionné, pouvoir être ouvertes manuellement vers l’extérieur par un occupant qui applique une force mentionnée au paragraphe (13), de façon à présenter une ouverture assez grande pour permettre le libre passage de l’ellipsoïde décrit à l’alinéa (8)b).
 
-- **(18)** Dans les conditions prévues aux paragraphes (24) et (26), tant avant qu’après l’essai de résistance des fenêtres décrit au paragraphe (2.1), les portes d’issue de secours d’un autobus scolaire doivent, une fois le mécanisme de déclenchement actionné, pouvoir être ouvertes manuellement vers l’extérieur par une personne de façon à présenter :
-	- **a)
-** dans le cas d’une porte d’issue de secours latérale, une ouverture d’au moins 1 143 mm (45 po) de hauteur et 610 mm (24 po) de largeur, située de manière à ce qu’un plan transversal et vertical faisant une tangente avec le point le plus reculé du dossier de siège le plus proche traverse l’extrémité avant de cette porte;
-	- **b)
-** dans le cas d’une porte d’issue de secours arrière, une ouverture d’au moins 610 mm (24 po) de largeur permettant le libre passage d’un parallélépipède rectangulaire d’une hauteur de 1 143 mm (45 po) et d’une largeur de 305 mm (12 po), dans le sens de la perpendiculaire aux côtés de l’autobus, et d’une profondeur de 610 mm (24 po), dans le sens de la parallèle aux côtés de l’autobus, et qui reste à 25 mm (1 po) au plus du plancher pendant tout le temps de son passage par l’ouverture.
+- **(18)** Dans les conditions prévues aux paragraphes (24) et (26), tant avant qu’après l’essai de résistance des fenêtres décrit au paragraphe (2.1), les portes d’issue de secours d’un autobus scolaire doivent, une fois le mécanisme de déclenchement actionné, pouvoir être ouvertes manuellement vers l’extérieur par une personne de façon à présenter :
+	- **a)** dans le cas d’une porte d’issue de secours latérale, une ouverture d’au moins 1 143 mm (45 po) de hauteur et 610 mm (24 po) de largeur, située de manière à ce qu’un plan transversal et vertical faisant une tangente avec le point le plus reculé du dossier de siège le plus proche traverse l’extrémité avant de cette porte;
+	- **b)** dans le cas d’une porte d’issue de secours arrière, une ouverture d’au moins 610 mm (24 po) de largeur permettant le libre passage d’un parallélépipède rectangulaire d’une hauteur de 1 143 mm (45 po) et d’une largeur de 305 mm (12 po), dans le sens de la perpendiculaire aux côtés de l’autobus, et d’une profondeur de 610 mm (24 po), dans le sens de la parallèle aux côtés de l’autobus, et qui reste à 25 mm (1 po) au plus du plancher pendant tout le temps de son passage par l’ouverture.
 
-- **(18.1)** La porte d’issue de secours arrière ou, lorsqu’il y a deux portes d’issue de secours arrière, les deux portes doivent, après le passage du parallélépipède rectangulaire décrit à l’alinéa (18)b), pouvoir être fermées et enclenchées.
+- **(18.1)** La porte d’issue de secours arrière ou, lorsqu’il y a deux portes d’issue de secours arrière, les deux portes doivent, après le passage du parallélépipède rectangulaire décrit à l’alinéa (18)b), pouvoir être fermées et enclenchées.
 
 - **(18.2)** L’autobus scolaire ayant un PNBV de moins de 4 536 kg (10 000 lb) et deux portes arrière qui servent de portes d’issue de secours doit :
-	- **a)
-** avoir un seul mécanisme de déclenchement qui ouvre simultanément les deux portes arrière de sorte qu’aucune d’elles n’empêche l’autre de s’ouvrir, quelles que soient les circonstances;
-	- **b)
-** avoir des gonds et des mécanismes d’enclenchement qui empêchent l’ouverture des portes arrière lorsqu’elles sont fermées et bien enclenchées et, dans les conditions prévues aux paragraphes (24) et (26), lorsqu’une force de 9 000 N (2 000 lb) est appliquée perpendiculairement à n’importe quelle partie de la porte, sauf le vitrage, à l’aide d’une plaque d’acier circulaire ayant un diamètre de 150 mm (6 po) et une épaisseur de 13 mm (½ po);
-	- **c)
-** avoir une seule poignée intérieure qui actionne les mécanismes d’enclenchement et qui est à moins de 150 mm (6 pouces) d’un plan vertical équidistant des deux côtés du couloir menant aux portes arrière lorsque celles-ci sont fermées et bien enclenchées.
+	- **a)** avoir un seul mécanisme de déclenchement qui ouvre simultanément les deux portes arrière de sorte qu’aucune d’elles n’empêche l’autre de s’ouvrir, quelles que soient les circonstances;
+	- **b)** avoir des gonds et des mécanismes d’enclenchement qui empêchent l’ouverture des portes arrière lorsqu’elles sont fermées et bien enclenchées et, dans les conditions prévues aux paragraphes (24) et (26), lorsqu’une force de 9 000 N (2 000 lb) est appliquée perpendiculairement à n’importe quelle partie de la porte, sauf le vitrage, à l’aide d’une plaque d’acier circulaire ayant un diamètre de 150 mm (6 po) et une épaisseur de 13 mm (½ po);
+	- **c)** avoir une seule poignée intérieure qui actionne les mécanismes d’enclenchement et qui est à moins de 150 mm (6 pouces) d’un plan vertical équidistant des deux côtés du couloir menant aux portes arrière lorsque celles-ci sont fermées et bien enclenchées.
 
-- **(18.3)** Les portes arrière d’un autobus scolaire visé au paragraphe (18.2) doivent, dans les conditions prévues aux paragraphes (24) et (26) et après avoir subi l’essai décrit à l’alinéa (18.2)b), être capables de s’ouvrir de l’extérieur et de l’intérieur par l’application d’une force d’au plus 180 N (40 livres).
+- **(18.3)** Les portes arrière d’un autobus scolaire visé au paragraphe (18.2) doivent, dans les conditions prévues aux paragraphes (24) et (26) et après avoir subi l’essai décrit à l’alinéa (18.2)b), être capables de s’ouvrir de l’extérieur et de l’intérieur par l’application d’une force d’au plus 180 N (40 livres).
 
-- **(19)** Les fenêtres basculantes ou autres issues de secours d’un autobus doivent être identifiées par une étiquette, située au plus à 150 mm (6 po) du mécanisme d’ouverture, indiquant, dans les deux langues officielles ou par un symbole approuvé, qu’il s’agit d’une issue de secours et donnant, également dans ces deux langues, de brèves instructions d’utilisation. Les issues de secours des autobus scolaires doivent être identifiées selon le paragraphe (23).
+- **(19)** Les fenêtres basculantes ou autres issues de secours d’un autobus doivent être identifiées par une étiquette, située au plus à 150 mm (6 po) du mécanisme d’ouverture, indiquant, dans les deux langues officielles ou par un symbole approuvé, qu’il s’agit d’une issue de secours et donnant, également dans ces deux langues, de brèves instructions d’utilisation. Les issues de secours des autobus scolaires doivent être identifiées selon le paragraphe (23).
 
-- **(20)** S’il n’y a pas de mécanisme de déclenchement dans l’espace d’occupant d’un siège adjacent, une étiquette indiquant, dans les deux langues officielles, l’emplacement du mécanisme de déclenchement le plus proche doit être placée dans cet espace et cette étiquette doit être conforme aux exigences du paragraphe (21).
+- **(20)** S’il n’y a pas de mécanisme de déclenchement dans l’espace d’occupant d’un siège adjacent, une étiquette indiquant, dans les deux langues officielles, l’emplacement du mécanisme de déclenchement le plus proche doit être placée dans cet espace et cette étiquette doit être conforme aux exigences du paragraphe (21).
 
-- **(21)** Les inscriptions visées aux paragraphes (19) et (20) doivent être lisibles par quelqu’un ayant une acuité visuelle corrigée correspondant à un coefficient Snellen de 20/40, et qui est visé
-	- **a)
-** aux alinéas (22)a), b) ou c), lorsque sont occupés les endroits visés aux alinéas d) et e);
-	- **b)
-** aux alinéas (22)d) ou e), lorsque la seule source de lumière est l’éclairage normal de nuit de l’intérieur de l’autobus et que l’occupant est une personne décrite au paragraphe (22).
+- **(21)** Les inscriptions visées aux paragraphes (19) et (20) doivent être lisibles par quelqu’un ayant une acuité visuelle corrigée correspondant à un coefficient Snellen de 20/40, et qui est visé
+	- **a)** aux alinéas (22)a), b) ou c), lorsque sont occupés les endroits visés aux alinéas d) et e);
+	- **b)** aux alinéas (22)d) ou e), lorsque la seule source de lumière est l’éclairage normal de nuit de l’intérieur de l’autobus et que l’occupant est une personne décrite au paragraphe (22).
 
-- **(22)** Les personnes visées au paragraphe (21) sont les suivantes :
-	- **a)
-** une personne assise sur le siège adjacent;
-	- **b)
-** une personne assise sur le siège placé juste à côté du siège adjacent;
-	- **c)
-** une personne se tenant debout dans la partie du couloir la plus proche du siège adjacent;
-	- **d)
-** une personne se tenant debout dans la partie du couloir la plus proche de l’issue de secours, s’il n’y a aucun siège adjacent à celle-ci; ou
-	- **e)
-** une personne couchée sur le dos contre la partie du plancher faisant face à l’issue de secours ménagée dans le toit, dans le cas d’une issue de secours de ce genre.
+- **(22)** Les personnes visées au paragraphe (21) sont les suivantes :
+	- **a)** une personne assise sur le siège adjacent;
+	- **b)** une personne assise sur le siège placé juste à côté du siège adjacent;
+	- **c)** une personne se tenant debout dans la partie du couloir la plus proche du siège adjacent;
+	- **d)** une personne se tenant debout dans la partie du couloir la plus proche de l’issue de secours, s’il n’y a aucun siège adjacent à celle-ci; ou
+	- **e)** une personne couchée sur le dos contre la partie du plancher faisant face à l’issue de secours ménagée dans le toit, dans le cas d’une issue de secours de ce genre.
 
-- **(23)** Les issues de secours dont un autobus scolaire est pourvu conformément au paragraphe (9) doivent :
-	- **a)
-** porter les mentions « *Emergency Door* » et « Porte de secours » ou les mentions « *Emergency Exit* » et « Issue de secours » ou « Sortie de secours », selon le cas, indiquées par des lettres d’au moins 50 mm (2 po) de hauteur et d’une couleur qui contraste avec le fond, lesquelles sont situées au sommet ou directement au-dessus de la porte ou de l’issue de secours, à la fois à l’intérieur et à l’extérieur de l’autobus;
-	- **b)
-** porter de brèves instructions d’utilisation décrivant le fonctionnement de la porte ou de l’issue de secours et, le cas échéant, les étapes visant à déclencher et ouvrir la porte ou l’issue de secours, indiquées par des lettres d’au moins 9,5 mm (3/8 po) de hauteur et d’une couleur qui contraste avec le fond, lesquelles sont situées au plus à 150 mm (6 po) du mécanisme de déclenchement se trouvant à l’intérieur de l’autobus.
+- **(23)** Les issues de secours dont un autobus scolaire est pourvu conformément au paragraphe (9) doivent :
+	- **a)** porter les mentions « *Emergency Door* » et « Porte de secours » ou les mentions « *Emergency Exit* » et « Issue de secours » ou « Sortie de secours », selon le cas, indiquées par des lettres d’au moins 50 mm (2 po) de hauteur et d’une couleur qui contraste avec le fond, lesquelles sont situées au sommet ou directement au-dessus de la porte ou de l’issue de secours, à la fois à l’intérieur et à l’extérieur de l’autobus;
+	- **b)** porter de brèves instructions d’utilisation décrivant le fonctionnement de la porte ou de l’issue de secours et, le cas échéant, les étapes visant à déclencher et ouvrir la porte ou l’issue de secours, indiquées par des lettres d’au moins 9,5 mm (3/8 po) de hauteur et d’une couleur qui contraste avec le fond, lesquelles sont situées au plus à 150 mm (6 po) du mécanisme de déclenchement se trouvant à l’intérieur de l’autobus.
 
-- **(24)** Lors des essais visés aux paragraphes (2), (13), (15), (17) et (18),
-	- **a)
-** le véhicule doit se trouver sur une surface horizontale plane; et
-	- **b)
-** les températures intérieure et extérieure doivent être maintenues entre 20 °C et 30 °C (70 °F et 85 °F) durant les quatre heures qui précèdent immédiatement les essais ainsi que lors de leur déroulement.
+- **(24)** Lors des essais visés aux paragraphes (2), (13), (15), (17) et (18),
+	- **a)** le véhicule doit se trouver sur une surface horizontale plane; et
+	- **b)** les températures intérieure et extérieure doivent être maintenues entre 20 °C et 30 °C (70 °F et 85 °F) durant les quatre heures qui précèdent immédiatement les essais ainsi que lors de leur déroulement.
 
-- **(25)** Aux fins du paragraphe (2), toutes les fenêtres installées dans un véhicule doivent être fermées et enclenchées de la façon dont elles le sont lors de l’usage normal de l’autobus si des mécanismes d’enclenchement y sont installés sauf que, pour l’essai des portes pliantes, il n’est pas nécessaire que ces portes soient installées sur le véhicule.
+- **(25)** Aux fins du paragraphe (2), toutes les fenêtres installées dans un véhicule doivent être fermées et enclenchées de la façon dont elles le sont lors de l’usage normal de l’autobus si des mécanismes d’enclenchement y sont installés sauf que, pour l’essai des portes pliantes, il n’est pas nécessaire que ces portes soient installées sur le véhicule.
 
-- **(26)** Lors des essais visés aux paragraphes (13), (15), (17) et (18), tous les sièges, accoudoirs et objets intérieurs proches des fenêtres doivent être placés de la façon habituelle, les dossiers de siège en position verticale.
+- **(26)** Lors des essais visés aux paragraphes (13), (15), (17) et (18), tous les sièges, accoudoirs et objets intérieurs proches des fenêtres doivent être placés de la façon habituelle, les dossiers de siège en position verticale.
 
 - 
 <table>
@@ -7298,7 +6797,7 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 > Image: Diagramme montrant la zone d’accès à force modérée pour les issues de secours avec sièges adjacents avec mesures et descriptions
 
 
-###### Remarques :
+###### Remarques :
 
 - **1** Les dimensions sont exprimées en mm
 - **2** Le dessin n’est pas à l’échelle
@@ -7315,7 +6814,7 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 > Image: Diagramme montrant la zone d’accès à grande force pour les issues de secours avec sièges adjacents avec mesures et descriptions
 
 
-###### Remarques :
+###### Remarques :
 
 - **1** Les dimensions sont exprimées en mm
 - **2** Le dessin n’est pas à l’échelle
@@ -7337,7 +6836,7 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 > Image: Diagramme montrant une issue de secours aménagée dans le toit avec mesures et descriptions
 
 
-###### Remarques :
+###### Remarques :
 
 - **1** Les dimensions sont exprimées en mm
 - **2** Le dessin n’est pas à l’échelle
@@ -7349,7 +6848,7 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 > Image: Diagramme montrant une issue de secours latérale avec mesures et descriptions
 
 
-###### Remarques :
+###### Remarques :
 
 - **1** Les dimensions sont exprimées en mm
 - **2** Le dessin n’est pas à l’échelle
@@ -7361,7 +6860,7 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 > Image: Diagramme montrant une issue de secours arrière avec obstacle arrière avec mesures et descriptions
 
 
-###### Remarques :
+###### Remarques :
 
 - **1** Les dimensions sont exprimées en mm
 - **2** Le dessin n’est pas à l’échelle
@@ -7374,7 +6873,7 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 > Image: Diagramme montrant une issue de secours arrière sans obstacle arrière avec mesures et descriptions
 
 
-###### Remarques :
+###### Remarques :
 
 - **1** Les dimensions sont exprimées en mm
 - **2** Le dessin n’est pas à l’échelle
@@ -7395,9 +6894,9 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 
 **219** 
 
-- **(1)** Les voitures de tourisme, à l’exception des véhicules de type à cabine avancée et des véhicules de type ouvert pourvus d’un pare-brise rabattable ou amovible, doivent être conformes aux exigences du Document de normes techniques no 219 — Pénétration de la zone du pare-brise (DNT 219), avec ses modifications successives.
+- **(1)** Les voitures de tourisme, à l’exception des véhicules de type à cabine avancée et des véhicules de type ouvert pourvus d’un pare-brise rabattable ou amovible, doivent être conformes aux exigences du Document de normes techniques no 219 — Pénétration de la zone du pare-brise (DNT 219), avec ses modifications successives.
 
-- **(2)** Les véhicules de tourisme à usages multiples, autobus et camions d’un PNBV d’au plus 4 536 kg, à l’exception des fourgons à accès en position debout, des véhicules de type à cabine avancée et des véhicules de type ouvert pourvus d’un pare-brise rabattable ou amovible, doivent être conformes aux exigences du DNT 219, avec ses modifications successives.
+- **(2)** Les véhicules de tourisme à usages multiples, autobus et camions d’un PNBV d’au plus 4 536 kg, à l’exception des fourgons à accès en position debout, des véhicules de type à cabine avancée et des véhicules de type ouvert pourvus d’un pare-brise rabattable ou amovible, doivent être conformes aux exigences du DNT 219, avec ses modifications successives.
 
 - **(3)** [Abrogé, DORS/2014-307, art. 22]
 > DORS/81-665, art. 2; DORS/97-201, art. 4; DORS/97-421, art. 17 et 22(F); DORS/2008-72, art. 12(F); DORS/2009-121, art. 4; DORS/2013-9, art. 8; DORS/2014-307, art. 22..
@@ -7411,7 +6910,7 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 
 - **(1)** Les autobus scolaires doivent être conformes aux exigences du Document de normes techniques no 220 — Protection contre les tonneaux (DNT 220), avec ses modifications successives.
 
-- **(2)** Les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV d’au plus 4 536 kg, qui sont fabriqués en deux étapes ou plus et qui ne sont pas fabriqués à partir d’un châssis-cabine, et les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV de plus de 2 722 kg et d’au plus 4 536 kg et qui sont munis d’un toit modifié doivent être conformes aux exigences du DNT 220 ou du DNT 216, lequel est mentionné à l’article 216 de la présente annexe.
+- **(2)** Les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV d’au plus 4 536 kg, qui sont fabriqués en deux étapes ou plus et qui ne sont pas fabriqués à partir d’un châssis-cabine, et les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV de plus de 2 722 kg et d’au plus 4 536 kg et qui sont munis d’un toit modifié doivent être conformes aux exigences du DNT 220 ou du DNT 216, lequel est mentionné à l’article 216 de la présente annexe.
 
 - **(3)** [Abrogé, DORS/2014-307, art. 23]
 > DORS/79-940, art. 9; DORS/2009-291, art. 5; DORS/2014-82, art. 7; DORS/2014-307, art. 23..
@@ -7419,53 +6918,42 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 
 
 
-### Résistance des joints de carrosserie d’un autobus scolaire (Norme 221)
+### Résistance des joints de carrosserie d’un autobus scolaire (Norme 221)
 
 **221** 
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***carrosserie d’autobus*** La partie de l’autobus qui délimite l’espace alloué aux occupants, y compris le plancher et le panneau de carrosserie qui sépare le compartiment moteur de l’espace alloué aux occupants. Sont exclus de la présente définition les pare-chocs et le châssis-cadre. (*bus body*)
+***carrosserie d’autobus*** La partie de l’autobus qui délimite l’espace alloué aux occupants, y compris le plancher et le panneau de carrosserie qui sépare le compartiment moteur de l’espace alloué aux occupants. Sont exclus de la présente définition les pare-chocs et le châssis-cadre. (*bus body*) 
 
+***élément de carrosserie*** Pièce de la carrosserie de l’autobus, y compris les panneaux de plancher, faite d’un seul morceau de matériau homogène ou d’un seul morceau de matériau hétérogène tel le contre-plaqué ou le plastique. (*body component*) 
 
-***élément de carrosserie*** Pièce de la carrosserie de l’autobus, y compris les panneaux de plancher, faite d’un seul morceau de matériau homogène ou d’un seul morceau de matériau hétérogène tel le contre-plaqué ou le plastique. (*body component*)
+***élément nécessitant de l’entretien*** Pièce de l’autobus, mécanique ou électrique, qui est expressément identifiée dans le manuel de l’usager ou le manuel d’entretien de l’usine comme nécessitant des travaux d’entretien courant à des intervalles d’un an ou moins. La tuyauterie, le filage et les harnais sont considérés comme des éléments nécessitant de l’entretien seulement à leur point d’attache. (*serviceable component*) 
 
+***joint de panneau de carrosserie*** La zone où sont joints, attachés ou rapprochés les bords d’un panneau de carrosserie et ceux d’un autre élément de carrosserie. (*body panel joint*) 
 
-***élément nécessitant de l’entretien*** Pièce de l’autobus, mécanique ou électrique, qui est expressément identifiée dans le manuel de l’usager ou le manuel d’entretien de l’usine comme nécessitant des travaux d’entretien courant à des intervalles d’un an ou moins. La tuyauterie, le filage et les harnais sont considérés comme des éléments nécessitant de l’entretien seulement à leur point d’attache. (*serviceable component*)
+***panneau d’accès pour l’entretien*** Panneau de carrosserie devant être déplacé ou enlevé pour permettre l’accès aux éléments nécessitant de l’entretien. (*maintenance access panel*) 
 
-
-***joint de panneau de carrosserie*** La zone où sont joints, attachés ou rapprochés les bords d’un panneau de carrosserie et ceux d’un autre élément de carrosserie. (*body panel joint*)
-
-
-***panneau d’accès pour l’entretien*** Panneau de carrosserie devant être déplacé ou enlevé pour permettre l’accès aux éléments nécessitant de l’entretien. (*maintenance access panel*)
-
-
-***panneau de carrosserie*** Élément de carrosserie utilisé sur la surface intérieure ou extérieure d’un autobus pour délimiter l’espace alloué aux occupants. (*body panel*)
-
+***panneau de carrosserie*** Élément de carrosserie utilisé sur la surface intérieure ou extérieure d’un autobus pour délimiter l’espace alloué aux occupants. (*body panel*) 
 
 - **(2)** Le présent article s’applique aux joints de panneau de carrosserie d’un autobus scolaire qui se trouvent à l’arrière du plan vertical transversal situé à 762 mm en avant du point de référence de position assise du siège pour passager le plus avancé, à l’exclusion de ceux qui sont joints ou attachés à l’un des éléments suivants ou sont rapprochés de celui-ci :
-	- **a)
-** les pièces telles les bandes de protection qui sont entièrement à l’extérieur des panneaux de carrosserie;
-	- **b)
-** les portes, les fenêtres, les panneaux de ventilation, les couvercles d’accès au moteur ou ceux qui recouvrent les affiches de destination;
-	- **c)
-** les garnitures et les pièces décoratives qui ne contribuent pas à la résistance des joints de panneaux de carrosserie;
-	- **d)
-** les panneaux d’accès pour l’entretien intérieurs qui ne dépassent pas 305 mm lorsqu’ils sont mesurés à deux points diamétralement opposés situés sur les deux côtés de l’ouverture;
-	- **e)
-** les panneaux d’accès pour l’entretien extérieurs.
+	- **a)** les pièces telles les bandes de protection qui sont entièrement à l’extérieur des panneaux de carrosserie;
+	- **b)** les portes, les fenêtres, les panneaux de ventilation, les couvercles d’accès au moteur ou ceux qui recouvrent les affiches de destination;
+	- **c)** les garnitures et les pièces décoratives qui ne contribuent pas à la résistance des joints de panneaux de carrosserie;
+	- **d)** les panneaux d’accès pour l’entretien intérieurs qui ne dépassent pas 305 mm lorsqu’ils sont mesurés à deux points diamétralement opposés situés sur les deux côtés de l’ouverture;
+	- **e)** les panneaux d’accès pour l’entretien extérieurs.
 
-- **(3)** Sous réserve du paragraphe (4), lors des essais effectués selon la Méthode d’essai 221 — Résistance des joints de carrosserie d’un autobus scolaire (20 octobre 2000), chacun des joints de panneau de carrosserie doit pouvoir supporter, sans qu’il y ait séparation, un effort de traction égal à 60 % de la résistance à la tension de la pièce du panneau la plus faible attachée par le joint.
+- **(3)** Sous réserve du paragraphe (4), lors des essais effectués selon la Méthode d’essai 221 — Résistance des joints de carrosserie d’un autobus scolaire (20 octobre 2000), chacun des joints de panneau de carrosserie doit pouvoir supporter, sans qu’il y ait séparation, un effort de traction égal à 60 % de la résistance à la tension de la pièce du panneau la plus faible attachée par le joint.
 
-- **(4)** Les joints de panneau de carrosserie pour lesquels une éprouvette ne peut être obtenue conformément à la Méthode d’essai 221 — Résistance des joints de carrosserie d’un autobus scolaire (20 octobre 2000) et ceux qui ne comportent qu’un élément de liaison distinct ou un point de soudure n’ont pas à être soumis aux essais.
+- **(4)** Les joints de panneau de carrosserie pour lesquels une éprouvette ne peut être obtenue conformément à la Méthode d’essai 221 — Résistance des joints de carrosserie d’un autobus scolaire (20 octobre 2000) et ceux qui ne comportent qu’un élément de liaison distinct ou un point de soudure n’ont pas à être soumis aux essais.
 
-- **(5)** Malgré le paragraphe (2), les panneaux d’accès pour l’entretien visés à l’alinéa (2)d) ne peuvent avoir, au niveau du joint, de segment non attaché d’une longueur de plus de 110 mm.
+- **(5)** Malgré le paragraphe (2), les panneaux d’accès pour l’entretien visés à l’alinéa (2)d) ne peuvent avoir, au niveau du joint, de segment non attaché d’une longueur de plus de 110 mm.
 
-- **(6)** Jusqu’au 14 janvier 2002, les autobus scolaires ayant un PNBV de plus de 4 536 kg peuvent être conformes au présent article ou à l’article 221, dans sa version antérieure à l’entrée en vigueur du présent article.
+- **(6)** Jusqu’au 14 janvier 2002, les autobus scolaires ayant un PNBV de plus de 4 536 kg peuvent être conformes au présent article ou à l’article 221, dans sa version antérieure à l’entrée en vigueur du présent article.
 
-- **(7)** Jusqu’au 14 janvier 2002, les autobus scolaires ayant un PNBV de 4 536 kg ou moins peuvent être conformes au présent article.
+- **(7)** Jusqu’au 14 janvier 2002, les autobus scolaires ayant un PNBV de 4 536 kg ou moins peuvent être conformes au présent article.
 
-- **(8)** Après le 14 janvier 2002, les autobus scolaires doivent être conformes au présent article.
+- **(8)** Après le 14 janvier 2002, les autobus scolaires doivent être conformes au présent article.
 > DORS/80-160, art. 2; DORS/97-421, art. 17; DORS/2001-36, art. 1..
 
 
@@ -7477,104 +6965,71 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 
 - **(1)** Dans le présent article,
 
-***siège pour passager d’autobus scolaire*** désigne un siège d’autobus scolaire, à l’exception du siège du conducteur, ou d’un siège installé en vue de recevoir un handicapé ou un convalescent, qui est orienté selon un angle de plus de 45° de chaque côté de l’axe longitudinal du véhicule; (*school bus passenger seat*)
+***siège pour passager d’autobus scolaire*** désigne un siège d’autobus scolaire, à l’exception du siège du conducteur, ou d’un siège installé en vue de recevoir un handicapé ou un convalescent, qui est orienté selon un angle de plus de 45° de chaque côté de l’axe longitudinal du véhicule; (*school bus passenger seat*) 
 
+***surface de contact*** désigne une surface située à l’intérieur de la zone de protection de la tête et avec laquelle une tête factice peut entrer en contact mais n’inclut pas la surface avant d’un dossier de siège ou d’une barrière de retenue, située au minimum à 76 mm (3 po) au-dessous de la partie supérieure du dossier du siège ou de la barrière de retenue; (*contactable surface*) 
 
-***surface de contact*** désigne une surface située à l’intérieur de la zone de protection de la tête et avec laquelle une tête factice peut entrer en contact mais n’inclut pas la surface avant d’un dossier de siège ou d’une barrière de retenue, située au minimum à 76 mm (3 po) au-dessous de la partie supérieure du dossier du siège ou de la barrière de retenue; (*contactable surface*)
-
-
-***W*** représente le nombre de places assises sur une banquette, égal au quotient obtenu en divisant la largeur de la banquette, mesurée en millimètres (pouces), par 381 mm (15 pouces), en arrondissant le quotient à l’entier supérieur pour des résultats de cinq dixièmes et plus, et à l’entier inférieur dans les autres cas. (*W*)
-
+***W*** représente le nombre de places assises sur une banquette, égal au quotient obtenu en divisant la largeur de la banquette, mesurée en millimètres (pouces), par 381 mm (15 pouces), en arrondissant le quotient à l’entier supérieur pour des résultats de cinq dixièmes et plus, et à l’entier inférieur dans les autres cas. (*W*) 
 
 ***zone de protection de la tête*** désigne l’espace devant chaque place prévue d’un siège pour passager d’autobus scolaire, qui n’est pas occupé par une paroi latérale ni par un cadre de fenêtre ou de porte, et qui, par rapport à ce même siège et à son point de référence de position assise, se trouve à l’intérieur des plans suivants :
+- **a)** les plans horizontaux situés à 300 mm (12 po) et à 1 016 mm (40 po) au-dessus du point de référence de position assise,
+- **b)** un plan longitudinal vertical tangent au rebord intérieur (côté de l’allée) du siège,
+- **c)** un plan longitudinal vertical situé à 83 mm (3,25 po) à l’intérieur du rebord extérieur du siège, et
+- **d)** des plans transversaux verticaux passant par le point de référence de position assise et situés à 760 mm (30 po) devant ce dernier; (*head protection zones*)
 
-- **a)
-** les plans horizontaux situés à 300 mm (12 po) et à 1 016 mm (40 po) au-dessus du point de référence de position assise,
-- **b)
-** un plan longitudinal vertical tangent au rebord intérieur (côté de l’allée) du siège,
-- **c)
-** un plan longitudinal vertical situé à 83 mm (3,25 po) à l’intérieur du rebord extérieur du siège, et
-- **d)
-** des plans transversaux verticaux passant par le point de référence de position assise et situés à 760 mm (30 po) devant ce dernier; (*head protection zones*)
+***zone de protection des jambes*** désigne la partie d’un dossier de siège pour passager d’autobus scolaire ou d’une barrière de retenue dans un autobus scolaire, qui est limitée par des plans horizontaux situés à 300 mm (12 po) au-dessus et à 100 mm (4 po) au-dessous du point de référence de position assise du siège pour passager d’autobus scolaire situé immédiatement derrière le dossier du siège ou de la barrière de retenue. (*leg protection zones*) 
 
-***zone de protection des jambes*** désigne la partie d’un dossier de siège pour passager d’autobus scolaire ou d’une barrière de retenue dans un autobus scolaire, qui est limitée par des plans horizontaux situés à 300 mm (12 po) au-dessus et à 100 mm (4 po) au-dessous du point de référence de position assise du siège pour passager d’autobus scolaire situé immédiatement derrière le dossier du siège ou de la barrière de retenue. (*leg protection zones*)
+- **(2)** Les autobus scolaires, lorsqu’ils sont soumis aux Méthodes d’essai de sécurité des véhicules automobiles, article 222, « Siège pour passager d’autobus scolaire et protection en cas de collision » (19 décembre 1983) doivent, pour les places assises désignées autres que le siège du conducteur, satisfaire aux exigences des paragraphes (6) à (12).
 
-
-- **(2)** Les autobus scolaires, lorsqu’ils sont soumis aux Méthodes d’essai de sécurité des véhicules automobiles, article 222, « Siège pour passager d’autobus scolaire et protection en cas de collision » (19 décembre 1983) doivent, pour les places assises désignées autres que le siège du conducteur, satisfaire aux exigences des paragraphes (6) à (12).
-
-- **(3)** Tout siège d’un autobus scolaire qui sert d’échantillon d’essai lorsque l’autobus scolaire est soumis aux méthodes d’essai visées au paragraphe (2) n’a pas à satisfaire à d’autres exigences s’il répond à celles :
-	- **a)
-** soit des paragraphes (6) et (9);
-	- **b)
-** soit des paragraphes (7), (8), (11) ou (12).
+- **(3)** Tout siège d’un autobus scolaire qui sert d’échantillon d’essai lorsque l’autobus scolaire est soumis aux méthodes d’essai visées au paragraphe (2) n’a pas à satisfaire à d’autres exigences s’il répond à celles :
+	- **a)** soit des paragraphes (6) et (9);
+	- **b)** soit des paragraphes (7), (8), (11) ou (12).
 
 - **(4)** Les sièges pour passagers d’autobus scolaire doivent tous être orientés directement vers l’avant ou vers l’arrière du véhicule.
 
-- **(5)** Le nombre de places assises d’une banquette doit être égal au quotient obtenu en divisant sa largeur, mesurée en millimètres ou en pouces, par 381 mm ou 15 po, ou en arrondissant ce quotient à l’entier supérieur pour des résultats de cinq dixième et plus, et à l’entier inférieur dans les autres cas.
+- **(5)** Le nombre de places assises d’une banquette doit être égal au quotient obtenu en divisant sa largeur, mesurée en millimètres ou en pouces, par 381 mm ou 15 po, ou en arrondissant ce quotient à l’entier supérieur pour des résultats de cinq dixième et plus, et à l’entier inférieur dans les autres cas.
 
 - **(6)** Les sièges pour passager d’autobus scolaire sont munis de dossiers
-	- **a)
-** dont la hauteur dépasse :
+	- **a)** dont la hauteur dépasse :
 		- **(i)** d’au moins 508 mm (20 po) le point de référence de la position assise lorsque les sièges sont orientés vers l’avant du véhicule,
 		- **(ii)** d’au moins 762 mm (30 po) le point de référence de la position assise lorsque les sièges sont orientés vers l’arrière du véhicule;
-	- **b)
-** dont la surface avant est égale à au moins 90 % du produit de la largeur de la banquette, mesurée en millimètres ou en pouces, par 508 mm ou 20 po, et qui se trouve entre
+	- **b)** dont la surface avant est égale à au moins 90 % du produit de la largeur de la banquette, mesurée en millimètres ou en pouces, par 508 mm ou 20 po, et qui se trouve entre
 		- **(i)** un plan horizontal imaginaire passant par le point de référence de position assise, et
-		- **(ii)** un autre plan horizontal imaginaire situé à 508 mm ou 20 po au-dessus de ce même point.
+		- **(ii)** un autre plan horizontal imaginaire situé à 508 mm ou 20 po au-dessus de ce même point.
 
-- **(7)** Lorsqu’un siège pour passager d’autobus scolaire, placé devant un autre, est soumis à une force de traction dirigée vers l’avant selon les essais de rendement prescrits dans les méthodes visées au paragraphe (2),
-	- **a)
-** la courbe force/flexion relative au dossier du siège doit être à l’intérieur de la zone indiquée dans la figure 1;
-	- **b)
-** la flexion du dossier du siège ne doit pas excéder 356 mm (14 po), déterminée selon la courbe force/flexion;
-	- **c)
-** les parties du siège, après sa flexion, doivent être distantes d’au moins 100 mm (4 po) d’un autre siège pour passager d’autobus scolaire ou d’une barrière de retenue, se trouvant dans leur position d’origine;
-	- **d)
-** le siège, à tous ses points d’attaches, doit demeurer fixé au véhicule;
-	- **e)
-** les éléments du siège ne doivent pas se séparer, même partiellement; et
-	- **f)
-** l’énergie utilisée pour déformer le dossier du siège ne doit pas être inférieure à 452 W m (4 000 W livres-pouces), déterminée selon la courbe force/flexion.
+- **(7)** Lorsqu’un siège pour passager d’autobus scolaire, placé devant un autre, est soumis à une force de traction dirigée vers l’avant selon les essais de rendement prescrits dans les méthodes visées au paragraphe (2),
+	- **a)** la courbe force/flexion relative au dossier du siège doit être à l’intérieur de la zone indiquée dans la figure 1;
+	- **b)** la flexion du dossier du siège ne doit pas excéder 356 mm (14 po), déterminée selon la courbe force/flexion;
+	- **c)** les parties du siège, après sa flexion, doivent être distantes d’au moins 100 mm (4 po) d’un autre siège pour passager d’autobus scolaire ou d’une barrière de retenue, se trouvant dans leur position d’origine;
+	- **d)** le siège, à tous ses points d’attaches, doit demeurer fixé au véhicule;
+	- **e)** les éléments du siège ne doivent pas se séparer, même partiellement; et
+	- **f)** l’énergie utilisée pour déformer le dossier du siège ne doit pas être inférieure à 452 W m (4 000 W livres-pouces), déterminée selon la courbe force/flexion.
 
-- **(7.1)** Au paragraphe (7), l’expression ***courbe force/flexion*** désigne :
-	- **a)
-** pour l’application des alinéas (7)a) et b), la force exercée au moyen de la barre de force supérieure et le déplacement vers l’avant du point de fixation du pivot de cette barre, selon la mesure qui en est prise à partir du point où la force initiale exercée atteint 44,5 N (10 lb);
-	- **b)
-** pour l’application de l’alinéa (7)f), la force exercée au moyen de la barre de force supérieure et le déplacement, tant vers l’avant que vers l’arrière, du point de fixation du pivot de cette barre, selon la mesure qui en est prise à partir du point où la force initiale exercée atteint 44,5 N (10 lb).
+- **(7.1)** Au paragraphe (7), l’expression ***courbe force/flexion*** désigne :
+	- **a)** pour l’application des alinéas (7)a) et b), la force exercée au moyen de la barre de force supérieure et le déplacement vers l’avant du point de fixation du pivot de cette barre, selon la mesure qui en est prise à partir du point où la force initiale exercée atteint 44,5 N (10 lb);
+	- **b)** pour l’application de l’alinéa (7)f), la force exercée au moyen de la barre de force supérieure et le déplacement, tant vers l’avant que vers l’arrière, du point de fixation du pivot de cette barre, selon la mesure qui en est prise à partir du point où la force initiale exercée atteint 44,5 N (10 lb).
 
-- **(8)** Lorsqu’un siège pour passager d’autobus scolaire, placé devant un autre, est soumis à une force de traction dirigée vers l’arrière selon les essais de rendement prescrits dans les Méthodes visées au paragraphe (2),
-	- **a)
-** la force exercée sur son dossier ne doit pas dépasser 9 786 N (2 200 lb), déterminée selon la courbe force/flexion;
-	- **b)
-** la flexion du dossier du siège ne doit pas excéder 250 mm (10 po), déterminée selon la courbe force/flexion;
-	- **c)
-** les parties du siège, après sa flexion, doivent être distantes d’au moins 100 mm (4 po) d’un autre siège pour passager d’autobus scolaire se trouvant dans sa position d’origine;
-	- **d)
-** le siège, à tous ses points d’attaches, doit demeurer fixé au véhicule;
-	- **e)
-** les éléments du siège ne doivent pas se séparer, même partiellement; et
-	- **f)
-** l’énergie utilisée pour déformer le dossier du siège ne doit pas être inférieure à 316,4 W Nm (2 800 W livres-pouces), telle que déterminée selon la courbe force/flexion.
+- **(8)** Lorsqu’un siège pour passager d’autobus scolaire, placé devant un autre, est soumis à une force de traction dirigée vers l’arrière selon les essais de rendement prescrits dans les Méthodes visées au paragraphe (2),
+	- **a)** la force exercée sur son dossier ne doit pas dépasser 9 786 N (2 200 lb), déterminée selon la courbe force/flexion;
+	- **b)** la flexion du dossier du siège ne doit pas excéder 250 mm (10 po), déterminée selon la courbe force/flexion;
+	- **c)** les parties du siège, après sa flexion, doivent être distantes d’au moins 100 mm (4 po) d’un autre siège pour passager d’autobus scolaire se trouvant dans sa position d’origine;
+	- **d)** le siège, à tous ses points d’attaches, doit demeurer fixé au véhicule;
+	- **e)** les éléments du siège ne doivent pas se séparer, même partiellement; et
+	- **f)** l’énergie utilisée pour déformer le dossier du siège ne doit pas être inférieure à 316,4 W Nm (2 800 W livres-pouces), telle que déterminée selon la courbe force/flexion.
 
-- **(8.1)** Au paragraphe (8), l’expression ***courbe force/flexion*** désigne :
-	- **a)
-** pour l’application des alinéas (8)a) et b), la force exercée au moyen de la barre de force et le déplacement vers l’arrière du point de fixation du pivot de cette barre, selon la mesure qui en est prise à partir du point où la force initiale exercée atteint 222,4 N (50 lb);
-	- **b)
-** pour l’application de l’alinéa (8)f), la force exercée au moyen de la barre de force et le déplacement, tant vers l’avant que vers l’arrière, du point de fixation du pivot de cette barre, selon la mesure qui en est prise à partir du point où la force initiale exercée atteint 222,4 N (50 lb).
+- **(8.1)** Au paragraphe (8), l’expression ***courbe force/flexion*** désigne :
+	- **a)** pour l’application des alinéas (8)a) et b), la force exercée au moyen de la barre de force et le déplacement vers l’arrière du point de fixation du pivot de cette barre, selon la mesure qui en est prise à partir du point où la force initiale exercée atteint 222,4 N (50 lb);
+	- **b)** pour l’application de l’alinéa (8)f), la force exercée au moyen de la barre de force et le déplacement, tant vers l’avant que vers l’arrière, du point de fixation du pivot de cette barre, selon la mesure qui en est prise à partir du point où la force initiale exercée atteint 222,4 N (50 lb).
 
 - **(9)** Les coussins de sièges pour passager d’autobus scolaire doivent, si les dispositifs les retenant sont dans la position prévue par le fabricant, demeurer en place même lorsqu’ils sont soumis à une force ascendante obtenue en un temps d’une à deux secondes, maintenue pendant cinq secondes, et égale à cinq fois leur poids.
 
 - **(10)** Devant chaque place assise désignée pour laquelle il n’y a pas de siège précédent ou pour laquelle le point de référence de position assise est situé horizontalement à plus de 610 mm (24 po) de la surface arrière du siège, une barrière de retenue doit être installée de manière que :
-	- **a)
-** la distance horizontale entre la surface arrière de la barrière de retenue et le point de référence de position assise du siège à l’égard duquel la barrière est exigée ne soit pas supérieure à 610 mm (24 po);
-	- **b)
-** la projection de son périmètre sur la surface du dossier du siège nécessitant une telle barrière, soit au moins égale à cette surface; et
-	- **c)
-** lorsque soumise à une force de traction avant, conformément aux méthodes d’essai visées au paragraphe (2), la barrière de retenue satisfasse aux exigences des alinéas (7)a), b), d), e) et f) qui ont trait aux sièges et que la déformation de la barrière ne gêne pas le fonctionnement normal de la porte.
+	- **a)** la distance horizontale entre la surface arrière de la barrière de retenue et le point de référence de position assise du siège à l’égard duquel la barrière est exigée ne soit pas supérieure à 610 mm (24 po);
+	- **b)** la projection de son périmètre sur la surface du dossier du siège nécessitant une telle barrière, soit au moins égale à cette surface; et
+	- **c)** lorsque soumise à une force de traction avant, conformément aux méthodes d’essai visées au paragraphe (2), la barrière de retenue satisfasse aux exigences des alinéas (7)a), b), d), e) et f) qui ont trait aux sièges et que la déformation de la barrière ne gêne pas le fonctionnement normal de la porte.
 
-- **(11)** Lorsque, selon les Méthodes visées au paragraphe (2), une surface de contact, située dans la zone de protection de la tête, subit un impact causé par une tête factice se déplaçant,
-	- **a)
-** à la vitesse de 6,7 m/s (22 pi/s),
+- **(11)** Lorsque, selon les Méthodes visées au paragraphe (2), une surface de contact, située dans la zone de protection de la tête, subit un impact causé par une tête factice se déplaçant,
+	- **a)** à la vitesse de 6,7 m/s (22 pi/s),
 		- **(i)** la valeur numérique de l’accélération axiale au centre de gravité de la tête factice, exprimée par la formule
 ```
 
@@ -7583,14 +7038,11 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 ```
 ne doit pas dépasser 1 000, « a » étant l’accélération axiale exprimée en multiples de « g » (l’accélération due à la gravité), et t<sub>1</sub> et t<sub>2</sub> représentant deux moments durant l’impact,
 		- **(ii)** l’énergie nécessaire pour faire fléchir le matériau qui a subi l’impact doit être d’au moins 4,52 Nm (40 po-lb), avant que la force exercée sur la tête factice ne dépasse 667 N (150 lb); et
-	- **b)
-** à la vitesse 1,5 m/s (5 pi/s) la surface de contact sur la tête factice doit être d’au moins 1 935 mm<sup>2</sup> (3 po<sup>2</sup>).
+	- **b)** à la vitesse 1,5 m/s (5 pi/s) la surface de contact sur la tête factice doit être d’au moins 1 935 mm<sup>2</sup> (3 po<sup>2</sup>).
 
-- **(12)** Lorsque, selon les Méthodes visées au paragraphe (2), un point sur la surface arrière d’un dossier de siège ou d’une barrière de retenue située dans une zone de protection des jambes subit un impact causé par un genou factice, se déplaçant à la vitesse de 4,88 m/s (16 pi/s),
-	- **a)
-** la force de résistance du matériau subissant l’impact ne doit pas dépasser 2 669 N (600 lb); et
-	- **b)
-** la surface de contact sur le genou factice doit être d’au moins 1 935 mm<sup>2</sup> (3 po<sup>2</sup>).
+- **(12)** Lorsque, selon les Méthodes visées au paragraphe (2), un point sur la surface arrière d’un dossier de siège ou d’une barrière de retenue située dans une zone de protection des jambes subit un impact causé par un genou factice, se déplaçant à la vitesse de 4,88 m/s (16 pi/s),
+	- **a)** la force de résistance du matériau subissant l’impact ne doit pas dépasser 2 669 N (600 lb); et
+	- **b)** la surface de contact sur le genou factice doit être d’au moins 1 935 mm<sup>2</sup> (3 po<sup>2</sup>).
 
 - **(13)** Les sièges pour passagers d’autobus scolaire doivent être fixés au plancher de l’autobus par des boulons ayant des écrous et des dispositifs indesserrables tels des rondelles-freins.
 
@@ -7602,7 +7054,7 @@ ne doit pas dépasser 1 000, « a » étant l’accélération axiale exprim�
 
 
 
-###  Dispositifs de protection arrière (Norme 223)
+### Dispositifs de protection arrière (Norme 223)
 
 
 #### Définitions
@@ -7611,73 +7063,52 @@ ne doit pas dépasser 1 000, « a » étant l’accélération axiale exprim�
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***coins arrondis*** Les points limites de la pièce horizontale du dispositif de protection arrière qui sont courbés vers le haut. (*rounded corners*)
+***coins arrondis*** Les points limites de la pièce horizontale du dispositif de protection arrière qui sont courbés vers le haut. (*rounded corners*) 
 
+***dispositif de protection arrière*** Dispositif monté sur l’arrière ou près de l’arrière d’une remorque de façon à limiter, lorsqu’elle est heurtée par l’arrière par un véhicule, la distance sur laquelle glisse sous son extrémité arrière l’avant du véhicule qui la heurte. (*rear impact guard*) 
 
-***dispositif de protection arrière*** Dispositif monté sur l’arrière ou près de l’arrière d’une remorque de façon à limiter, lorsqu’elle est heurtée par l’arrière par un véhicule, la distance sur laquelle glisse sous son extrémité arrière l’avant du véhicule qui la heurte. (*rear impact guard*)
+***dispositif de protection hydraulique*** Dispositif de protection arrière conçu pour utiliser les propriétés des fluides en vue de produire une force de résistance à la déformation. (*hydraulic guard*) 
 
+***extérieur*** À l’égard d’une remorque, qualifie ce qui est éloigné de l’axe central de la remorque et qui tend vers les extrémités latérales de celle-ci. (*outboard*) 
 
-***dispositif de protection hydraulique*** Dispositif de protection arrière conçu pour utiliser les propriétés des fluides en vue de produire une force de résistance à la déformation. (*hydraulic guard*)
+***extrémité arrière*** Le point le plus à l’arrière de la remorque qui se trouve au-dessus d’un plan horizontal situé au-dessus de la garde au sol et au-dessous d’un plan horizontal situé à 1 900 mm au-dessus du sol lorsque la remorque est configurée comme le prévoit le paragraphe (7) et lorsque les portes de chargement, le hayon et les autres structures permanentes de la remorque sont à la position qu’ils occupent normalement lorsque celle-ci est en mouvement. Cependant, toutes protubérances non structurales, notamment les protubérances ci-après, sont exclues dans le calcul du point le plus à l’arrière :
+- **a)** les feux arrière;
+- **b)** les pare-chocs en caoutchouc;
+- **c)** les charnières et les loquets;
+- **d)** les dispositifs aérodynamiques flexibles pouvant être pliés de façon à se trouver à moins de 305 mm du plan vertical transversal tangent à la surface la plus à l’arrière de la pièce horizontale et qui, lorsqu’ils sont à la position qu’ils occupent normalement lorsque la remorque est en mouvement, sont situés à l’avant du plan transversal qui est tangent au bord inférieur arrière de la pièce horizontale et qui croise un point situé à 1 210 mm à l’arrière de la surface la plus à l’arrière de la pièce horizontale et à 1 740 mm au-dessus du sol. (*rear extremity*)
 
+***extrémité latérale*** Le point le plus à l’extérieur du flanc d’une remorque qui se trouve au-dessus d’un plan horizontal situé au-dessus de la garde au sol, au-dessous d’un plan horizontal situé à 1 900 mm au-dessus du sol, et entre un plan vertical transversal tangent à l’extrémité arrière de la remorque et un plan vertical transversal situé à 305 mm à l’avant de ce plan, les protubérances non structurales, notamment les feux arrière, les parechocs en caoutchouc, les charnières et les loquets, étant exclues dans le calcul du point le plus à l’extérieur. (*side extremity*) 
 
-***extérieur*** À l’égard d’une remorque, qualifie ce qui est éloigné de l’axe central de la remorque et qui tend vers les extrémités latérales de celle-ci. (*outboard*)
+***garde au sol*** La distance verticale à partir du bord inférieur de la pièce horizontale jusqu’au sol. (*ground clearance*) 
 
+***largeur du dispositif de protection*** À l’égard d’un dispositif de protection arrière monté sur une remorque, la dimension horizontale maximale du dispositif de protection arrière qui est perpendiculaire au plan vertical longitudinal passant par l’axe longitudinal de la remorque. (*guard width*) 
 
-***extrémité arrière*** Le point le plus à l’arrière de la remorque qui se trouve au-dessus d’un plan horizontal situé au-dessus de la garde au sol et au-dessous d’un plan horizontal situé à 1 900 mm au-dessus du sol lorsque la remorque est configurée comme le prévoit le paragraphe (7) et lorsque les portes de chargement, le hayon et les autres structures permanentes de la remorque sont à la position qu’ils occupent normalement lorsque celle-ci est en mouvement. Cependant, toutes protubérances non structurales, notamment les protubérances ci-après, sont exclues dans le calcul du point le plus à l’arrière :
+***marchandises dangereuses*** S’entend au sens de l’article 2 de la [Loi de 1992 sur le transport des marchandises dangereuses](/fr/Lois/Lois%20du%20Canada/1992/ch.%2034.md). (*dangerous goods*) 
 
-- **a)
-** les feux arrière;
-- **b)
-** les pare-chocs en caoutchouc;
-- **c)
-** les charnières et les loquets;
-- **d)
-** les dispositifs aérodynamiques flexibles pouvant être pliés de façon à se trouver à moins de 305 mm du plan vertical transversal tangent à la surface la plus à l’arrière de la pièce horizontale et qui, lorsqu’ils sont à la position qu’ils occupent normalement lorsque la remorque est en mouvement, sont situés à l’avant du plan transversal qui est tangent au bord inférieur arrière de la pièce horizontale et qui croise un point situé à 1 210 mm à l’arrière de la surface la plus à l’arrière de la pièce horizontale et à 1 740 mm au-dessus du sol. (*rear extremity*)
+***pièce horizontale*** La pièce horizontale de charpente du dispositif de protection arrière. (*horizontal member*) 
 
-***extrémité latérale*** Le point le plus à l’extérieur du flanc d’une remorque qui se trouve au-dessus d’un plan horizontal situé au-dessus de la garde au sol, au-dessous d’un plan horizontal situé à 1 900 mm au-dessus du sol, et entre un plan vertical transversal tangent à l’extrémité arrière de la remorque et un plan vertical transversal situé à 305 mm à l’avant de ce plan, les protubérances non structurales, notamment les feux arrière, les parechocs en caoutchouc, les charnières et les loquets, étant exclues dans le calcul du point le plus à l’extérieur. (*side extremity*)
+***remorque à châssis surbaissé*** Remorque dont le châssis se prolonge derrière le point le plus à l’arrière des pneus arrière et qui possède une surface arrière inférieure conforme aux exigences de configuration visées aux paragraphes (6) à (8). (*lowchassis trailer*) 
 
+***remorque à roues arrières reculées*** Remorque dont l’essieu le plus à l’arrière est fixé en permanence et est situé de façon que la surface la plus à l’arrière des pneus arrière qui sont de la taille recommandée par le fabricant de la remorque, pour cet essieu, se trouve à au plus 305 mm de l’avant du plan vertical transversal tangent à l’extrémité arrière de la remorque. (*wheels back trailer*) 
 
-***garde au sol*** La distance verticale à partir du bord inférieur de la pièce horizontale jusqu’au sol. (*ground clearance*)
+***remorque-citerne*** Remorque qui est conçue exclusivement pour transporter des marchandises dangereuses et qui est conforme aux exigences sur la protection arrière de la norme nationale du Canada CAN/CSA-B620-98 intitulée Citernes routières et citernes amovibles pour le transport des marchandises dangereuses, (mai 1999), y compris les appendices A et B, modifiée en juillet 1999, en mars 2000, en septembre 2000, en octobre 2001, en novembre 2001 et en octobre 2002 et publiée par la CSA. (*tanker trailer*) 
 
-
-***largeur du dispositif de protection*** À l’égard d’un dispositif de protection arrière monté sur une remorque, la dimension horizontale maximale du dispositif de protection arrière qui est perpendiculaire au plan vertical longitudinal passant par l’axe longitudinal de la remorque. (*guard width*)
-
-
-***marchandises dangereuses*** S’entend au sens de l’article 2 de la [Loi de 1992 sur le transport des marchandises dangereuses](/fr/Lois/Lois%20du%20Canada/1992/ch.%2034.md). (*dangerous goods*)
-
-
-***pièce horizontale*** La pièce horizontale de charpente du dispositif de protection arrière. (*horizontal member*)
-
-
-***remorque à châssis surbaissé*** Remorque dont le châssis se prolonge derrière le point le plus à l’arrière des pneus arrière et qui possède une surface arrière inférieure conforme aux exigences de configuration visées aux paragraphes (6) à (8). (*lowchassis trailer*)
-
-
-***remorque à roues arrières reculées*** Remorque dont l’essieu le plus à l’arrière est fixé en permanence et est situé de façon que la surface la plus à l’arrière des pneus arrière qui sont de la taille recommandée par le fabricant de la remorque, pour cet essieu, se trouve à au plus 305 mm de l’avant du plan vertical transversal tangent à l’extrémité arrière de la remorque. (*wheels back trailer*)
-
-
-***remorque-citerne*** Remorque qui est conçue exclusivement pour transporter des marchandises dangereuses et qui est conforme aux exigences sur la protection arrière de la norme nationale du Canada CAN/CSA-B620-98 intitulée Citernes routières et citernes amovibles pour le transport des marchandises dangereuses, (mai 1999), y compris les appendices A et B, modifiée en juillet 1999, en mars 2000, en septembre 2000, en octobre 2001, en novembre 2001 et en octobre 2002 et publiée par la CSA. (*tanker trailer*)
-
-
-***remorque pour bois à pâte*** Remorque conçue exclusivement pour le transport de billes de bois coupées ou de bois à pâte et qui est construite avec un châssis-squelette n’ayant aucun dispositif permettant de fixer une plate-forme, une carrosserie ou un conteneur. (*pulpwood trailer*)
-
+***remorque pour bois à pâte*** Remorque conçue exclusivement pour le transport de billes de bois coupées ou de bois à pâte et qui est construite avec un châssis-squelette n’ayant aucun dispositif permettant de fixer une plate-forme, une carrosserie ou un conteneur. (*pulpwood trailer*) 
 
 ### Champ d’application
 
 
 - **(2)** Le présent article s’applique aux remorques d’un PNBV de 4 536 kg ou plus sauf :
-	- **a)
-** les remorques pour charges longues, les remorques pour bois à pâte, les remorques à roues arrière reculées ou les remorques conçues pour servir d’habitation temporaire;
-	- **b)
-** les remorques à châssis surbaissé;
-	- **c)
-** les remorques qui sont conçues pour interagir avec un équipement de travail ou qui sont dotées d’un tel équipement se trouvant ou se déplaçant dans l’aire qui serait occupée par une pièce horizontale qui est conforme aux exigences de configuration des paragraphes (6) à (8).
+	- **a)** les remorques pour charges longues, les remorques pour bois à pâte, les remorques à roues arrière reculées ou les remorques conçues pour servir d’habitation temporaire;
+	- **b)** les remorques à châssis surbaissé;
+	- **c)** les remorques qui sont conçues pour interagir avec un équipement de travail ou qui sont dotées d’un tel équipement se trouvant ou se déplaçant dans l’aire qui serait occupée par une pièce horizontale qui est conforme aux exigences de configuration des paragraphes (6) à (8).
 
 ### Dispositif de protection arrière obligatoire
 
 
-- **(3)** Les remorques doivent être dotées d’un dispositif de protection arrière qui est conforme aux exigences de configuration des paragraphes (5) à (8) de même qu’aux exigences de mise à l’essai applicables des paragraphes (9) à (12) lorsqu’il est mis à l’essai conformément à la Méthode d’essai 223 — Dispositif de protection arrière (décembre 2003).
+- **(3)** Les remorques doivent être dotées d’un dispositif de protection arrière qui est conforme aux exigences de configuration des paragraphes (5) à (8) de même qu’aux exigences de mise à l’essai applicables des paragraphes (9) à (12) lorsqu’il est mis à l’essai conformément à la Méthode d’essai 223 — Dispositif de protection arrière (décembre 2003).
 
-- **(4)** Jusqu’au 1<sup>er</sup> septembre 2007, au lieu d’être dotées d’un dispositif de protection arrière en conformité avec le paragraphe (3), les remorques peuvent, au choix du fabricant qui l’installe, être dotées d’un dispositif qui est installé conformément au Document de normes techniques no 224 — Protection en cas de collision arrière, avec ses modifications successives, et dont l’étiquetage est conforme à l’article 571.223 du titre 49 dans sa version révisée du 1<sup>er</sup> octobre 2000 du *Code of Federal Regulations* des États- Unis.
+- **(4)** Jusqu’au 1<sup>er</sup> septembre 2007, au lieu d’être dotées d’un dispositif de protection arrière en conformité avec le paragraphe (3), les remorques peuvent, au choix du fabricant qui l’installe, être dotées d’un dispositif qui est installé conformément au Document de normes techniques no 224 — Protection en cas de collision arrière, avec ses modifications successives, et dont l’étiquetage est conforme à l’article 571.223 du titre 49 dans sa version révisée du 1<sup>er</sup> octobre 2000 du *Code of Federal Regulations* des États- Unis.
 
 ### Exigences de configuration
 
@@ -7688,36 +7119,28 @@ ne doit pas dépasser 1 000, « a » étant l’accélération axiale exprim�
 
 - **(7)** Lorsque la remorque sans charge repose sur un terrain plat et est remplie à sa pleine capacité de carburant, que les pneus sont gonflés et que la suspension pneumatique, le cas échéant, est mise en pression conformément aux recommandations du fabricant, la garde au sol ne doit excéder 560 mm en aucun point de la largeur de la pièce horizontale. Cependant, les coins arrondis peuvent être courbés vers le haut à partir de 255 mm par rapport aux plans verticaux longitudinaux qui sont tangents aux extrémités latérales.
 
-- **(8)** Quelle que soit la hauteur au-dessus de la garde au sol, la surface la plus à l’arrière de la pièce horizontale doit être située aussi près que possible d’un plan vertical transversal tangent à l’extrémité arrière de la remorque, et à au plus 305 mm à l’avant de ce plan, comme l’indique la figure 1. Cependant, la pièce horizontale peut se prolonger à l’arrière du plan.
+- **(8)** Quelle que soit la hauteur au-dessus de la garde au sol, la surface la plus à l’arrière de la pièce horizontale doit être située aussi près que possible d’un plan vertical transversal tangent à l’extrémité arrière de la remorque, et à au plus 305 mm à l’avant de ce plan, comme l’indique la figure 1. Cependant, la pièce horizontale peut se prolonger à l’arrière du plan.
 
 ### Exigences de mise à l’essai
 
 
-- **(9)** Les dispositifs de protection arrière doivent démontrer une résistance aux forces suivantes aux points d’application P1 et P2 indiqués à la figure 2, sans fléchir de plus de 125 mm :
-	- **a)
-** 50 000 N au point d’application P1 du côté gauche ou du côté droit du dispositif de protection s’il est symétrique, mais les deux côtés doivent être mis à l’essai séparément si celui-ci est asymétrique;
-	- **b)
-** 50 000 N au point d’application P2.
+- **(9)** Les dispositifs de protection arrière doivent démontrer une résistance aux forces suivantes aux points d’application P1 et P2 indiqués à la figure 2, sans fléchir de plus de 125 mm :
+	- **a)** 50 000 N au point d’application P1 du côté gauche ou du côté droit du dispositif de protection s’il est symétrique, mais les deux côtés doivent être mis à l’essai séparément si celui-ci est asymétrique;
+	- **b)** 50 000 N au point d’application P2.
 
-- **(10)** Sous réserve du paragraphe (11), les dispositifs de protection arrière doivent :
-	- **a)
-** sans fléchir de plus de 125 mm, démontrer une résistance à une charge d’essai uniforme d’au moins 350 000 N, laquelle charge doit être appliquée uniformément d’un côté à l’autre de la pièce horizontale au moyen d’un support d’essai d’une charge uniforme mis au centre du dispositif, comme l’indique la figure 2 de la Méthode d’essai 223 — Dispositif de protection arrière (décembre 2003);
-	- **b)
-** absorber, par déformation plastique, au moins 20 000 J d’énergie, dans les 125 premiers millimètres de fléchissement, dans le cas des dispositifs, autres que les dispositifs de protection hydrauliques ou les dispositifs dont sont dotées les remorques- citernes, qui démontrent une résistance à une charge d’essai uniforme d’au plus 700 000 N;
-	- **c)
-** avoir une garde au sol d’au plus 560 mm, mesurée à chaque support auquel la pièce horizontale est fixée, comme l’indique la figure 3, après que l’essai d’absorption d’énergie est terminé ou, si cet essai n’est pas exigé, après que l’essai de charge uniforme est terminé.
+- **(10)** Sous réserve du paragraphe (11), les dispositifs de protection arrière doivent :
+	- **a)** sans fléchir de plus de 125 mm, démontrer une résistance à une charge d’essai uniforme d’au moins 350 000 N, laquelle charge doit être appliquée uniformément d’un côté à l’autre de la pièce horizontale au moyen d’un support d’essai d’une charge uniforme mis au centre du dispositif, comme l’indique la figure 2 de la Méthode d’essai 223 — Dispositif de protection arrière (décembre 2003);
+	- **b)** absorber, par déformation plastique, au moins 20 000 J d’énergie, dans les 125 premiers millimètres de fléchissement, dans le cas des dispositifs, autres que les dispositifs de protection hydrauliques ou les dispositifs dont sont dotées les remorques- citernes, qui démontrent une résistance à une charge d’essai uniforme d’au plus 700 000 N;
+	- **c)** avoir une garde au sol d’au plus 560 mm, mesurée à chaque support auquel la pièce horizontale est fixée, comme l’indique la figure 3, après que l’essai d’absorption d’énergie est terminé ou, si cet essai n’est pas exigé, après que l’essai de charge uniforme est terminé.
 
-- **(11)** Dans le cas d’un dispositif de protection arrière symétrique par rapport au plan vertical longitudinal passant par le centre de la pièce horizontale, la moitié du dispositif peut être mise à l’essai conformément au paragraphe (12) si celle-ci est complètement séparée du reste du dispositif qui n’est pas mis à l’essai.
+- **(11)** Dans le cas d’un dispositif de protection arrière symétrique par rapport au plan vertical longitudinal passant par le centre de la pièce horizontale, la moitié du dispositif peut être mise à l’essai conformément au paragraphe (12) si celle-ci est complètement séparée du reste du dispositif qui n’est pas mis à l’essai.
 
 - **(12)** Lorsqu’une moitié d’un dispositif de protection arrière est mise à l’essai, elle doit :
-	- **a)
-** sans fléchir de plus de 125 mm, démontrer une résistance à une charge d’essai d’au moins 175 000 N, laquelle charge doit être appliquée, selon le cas :
-		- **(i)** uniformément d’un côté à l’autre de la partie de la pièce horizontale qui est mise à l’essai, au moyen d’un support d’essai d’une charge uniforme mis au centre de cette partie, comme l’indique la figure 2 de la Méthode d’essai 223 — Dispositif de protection arrière (décembre 2003),
-		- **(ii)** à l’un des points d’application P3 de la partie de la pièce horizontale qui est mise à l’essai, au moyen d’une seule charge ponctuelle, comme l’indique la figure 2;
-	- **b)
-** absorber, par déformation plastique, au moins 10 000 J d’énergie, dans les 125 premiers millimètres de fléchissement, dans le cas d’une partie d’une pièce horizontale qui est mise à l’essai, autre qu’un dispositif de protection hydraulique ou un dispositif dont sont dotées les remorques-citernes, qui démontre une résistance à une charge d’essai d’au plus 350 000 N;
-	- **c)
-** avoir une garde au sol d’au plus 560 mm, mesurée à chaque support auquel la pièce horizontale est fixée, comme l’indique la figure 3, après que l’essai d’absorption d’énergie est terminé ou, si cet essai n’est pas exigé, après que l’essai de charge uniforme est terminé.
+	- **a)** sans fléchir de plus de 125 mm, démontrer une résistance à une charge d’essai d’au moins 175 000 N, laquelle charge doit être appliquée, selon le cas :
+		- **(i)** uniformément d’un côté à l’autre de la partie de la pièce horizontale qui est mise à l’essai, au moyen d’un support d’essai d’une charge uniforme mis au centre de cette partie, comme l’indique la figure 2 de la Méthode d’essai 223 — Dispositif de protection arrière (décembre 2003),
+		- **(ii)** à l’un des points d’application P3 de la partie de la pièce horizontale qui est mise à l’essai, au moyen d’une seule charge ponctuelle, comme l’indique la figure 2;
+	- **b)** absorber, par déformation plastique, au moins 10 000 J d’énergie, dans les 125 premiers millimètres de fléchissement, dans le cas d’une partie d’une pièce horizontale qui est mise à l’essai, autre qu’un dispositif de protection hydraulique ou un dispositif dont sont dotées les remorques-citernes, qui démontre une résistance à une charge d’essai d’au plus 350 000 N;
+	- **c)** avoir une garde au sol d’au plus 560 mm, mesurée à chaque support auquel la pièce horizontale est fixée, comme l’indique la figure 3, après que l’essai d’absorption d’énergie est terminé ou, si cet essai n’est pas exigé, après que l’essai de charge uniforme est terminé.
 
 - 
 <table>
@@ -7726,7 +7149,7 @@ ne doit pas dépasser 1 000, « a » étant l’accélération axiale exprim�
 > Image: Diagramme montrant une vue latérale de la remorque avec mesures et descriptions
 
 
-###### Remarque :
+###### Remarque :
 
 - **1** Le dessin n’est pas à l’échelle.
 
@@ -7740,7 +7163,7 @@ ne doit pas dépasser 1 000, « a » étant l’accélération axiale exprim�
 > Image: Diagramme montrant une vue arrière de la remorque avec mesures et descriptions
 
 
-###### Remarque :
+###### Remarque :
 
 - **1** Le dessin n’est pas à l’échelle.
 
@@ -7754,7 +7177,7 @@ ne doit pas dépasser 1 000, « a » étant l’accélération axiale exprim�
 > Image: Diagramme montrant l’application d’une charge d’essai avec descriptions
 
 
-###### Remarque :
+###### Remarque :
 
 - **1** Le dessin n’est pas à l’échelle.
 
@@ -7770,13 +7193,13 @@ ne doit pas dépasser 1 000, « a » étant l’accélération axiale exprim�
 **PARTIE IV** 
 
 
-### Étanchéité du circuit d’alimentation en carburant (Norme 301)
+### Étanchéité du circuit d’alimentation en carburant (Norme 301)
 
 **301** 
 
-- **(1)** Les voitures de tourisme ainsi que les véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV d’au plus 4 536 kg et qui sont munis d’un circuit d’alimentation en carburant utilisant comme source d’énergie pour sa propulsion un carburant dont le point d’ébullition est de 0° C ou plus doivent être conformes aux exigences du Document de normes techniques no 301 — Étanchéité du circuit d’alimentation en carburant (DNT 301), avec ses modifications successives et les constructeurs de ces véhicules doivent aussi s’y conformer.
+- **(1)** Les voitures de tourisme ainsi que les véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV d’au plus 4 536 kg et qui sont munis d’un circuit d’alimentation en carburant utilisant comme source d’énergie pour sa propulsion un carburant dont le point d’ébullition est de 0° C ou plus doivent être conformes aux exigences du Document de normes techniques no 301 — Étanchéité du circuit d’alimentation en carburant (DNT 301), avec ses modifications successives et les constructeurs de ces véhicules doivent aussi s’y conformer.
 
-- **(2)** Les autobus scolaires d’un PNBV de plus de 4 536 kg qui sont munis d’un circuit d’alimentation en carburant utilisant comme source d’énergie pour sa propulsion un carburant dont le point d’ébullition est de 0° C ou plus doivent être conformes aux exigences du DNT 301.
+- **(2)** Les autobus scolaires d’un PNBV de plus de 4 536 kg qui sont munis d’un circuit d’alimentation en carburant utilisant comme source d’énergie pour sa propulsion un carburant dont le point d’ébullition est de 0° C ou plus doivent être conformes aux exigences du DNT 301.
 
 - **(3)** [Abrogé, DORS/2014-307, art. 24]
 > DORS/80-158, art. 1; DORS/97-421, art. 17; DORS/2001-152, art. 2; DORS/2004-89, art. 1; DORS/2006-94, art. 4(A); DORS/2008-258, art. 10; DORS/2009-79, art. 5; DORS/2011-238, art. 5; DORS/2014-307, art. 24..
@@ -7784,44 +7207,37 @@ ne doit pas dépasser 1 000, « a » étant l’accélération axiale exprim�
 
 
 
-### Étanchéité du circuit d’alimentation en carburant de type GPL (Norme 301.1)
+### Étanchéité du circuit d’alimentation en carburant de type GPL (Norme 301.1)
 
 **301.1** 
 
-- **(1)** Sous réserve des paragraphes (3) et (3.1), tout véhicule qui est muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GPL pour sa propulsion doit être conforme aux exigences du paragraphe (2) lorsqu’il est soumis à un essai qui, conformément à la Méthode d’essai 301.1 — Étanchéité du circuit d’alimentation en carburant de type GPL (28 février 2004), consiste en ce qui suit :
-	- **a)
-** dans le cas d’un véhicule d’un PNBV d’au plus 4 536 kg :
+- **(1)** Sous réserve des paragraphes (3) et (3.1), tout véhicule qui est muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GPL pour sa propulsion doit être conforme aux exigences du paragraphe (2) lorsqu’il est soumis à un essai qui, conformément à la Méthode d’essai 301.1 — Étanchéité du circuit d’alimentation en carburant de type GPL (28 février 2004), consiste en ce qui suit :
+	- **a)** dans le cas d’un véhicule d’un PNBV d’au plus 4 536 kg :
 		- **(i)** le véhicule se déplace longitudinalement vers l’avant à une vitesse d’au plus 48 km/h et heurte une barrière fixe pour essais de collision, dans l’une ou l’autre direction, formant un angle d’au plus 30° avec une ligne perpendiculaire à l’axe de déplacement du véhicule,
 		- **(ii)** une barrière pour essais de collision qui se déplace à 48 km/h heurte l’arrière du véhicule,
 		- **(iii)** une barrière pour essais de collision qui se déplace à 32 km/h heurte l’un ou l’autre côté du véhicule;
-	- **b)
-** dans le cas d’un véhicule d’un PNBV de plus de 4 536 kg, une barrière mobile profilée qui se déplace à une vitesse pouvant atteindre 48 km/h heurte le véhicule sous n’importe quel angle et en n’importe quel point.
+	- **b)** dans le cas d’un véhicule d’un PNBV de plus de 4 536 kg, une barrière mobile profilée qui se déplace à une vitesse pouvant atteindre 48 km/h heurte le véhicule sous n’importe quel angle et en n’importe quel point.
 
-- **(1.1)** Au lieu d’être soumis à un essai conformément au sous-alinéa (1)a)(ii), le véhicule visé au paragraphe (1) peut être soumis à un essai conformément à la disposition S6.2(b) du DNT 301, sauf les exigences relatives à l’écoulement de carburant, dans les conditions applicables mentionnées aux dispositions 3.2 à 3.4 de la Méthode d’essai 301.1 — Étanchéité du circuit d’alimentation en carburant de type GPL (28 février 2004) et à la disposition S7.3(b) du DNT 301.
+- **(1.1)** Au lieu d’être soumis à un essai conformément au sous-alinéa (1)a)(ii), le véhicule visé au paragraphe (1) peut être soumis à un essai conformément à la disposition S6.2(b) du DNT 301, sauf les exigences relatives à l’écoulement de carburant, dans les conditions applicables mentionnées aux dispositions 3.2 à 3.4 de la Méthode d’essai 301.1 — Étanchéité du circuit d’alimentation en carburant de type GPL (28 février 2004) et à la disposition S7.3(b) du DNT 301.
 
-- **(1.2)** Au lieu d’être soumis à un essai conformément au sous-alinéa (1)a)(iii), le véhicule visé au paragraphe (1) peut être soumis à un essai conformément à la disposition S6.3(b) du DNT 301, sauf les exigences relatives à l’écoulement de carburant, dans les conditions applicables mentionnées aux dispositions 3.2 à 3.4 de la Méthode d’essai 301.1 — Étanchéité du circuit d’alimentation en carburant de type GPL (28 février 2004) et à la disposition S7.2(b) du DNT 301.
+- **(1.2)** Au lieu d’être soumis à un essai conformément au sous-alinéa (1)a)(iii), le véhicule visé au paragraphe (1) peut être soumis à un essai conformément à la disposition S6.3(b) du DNT 301, sauf les exigences relatives à l’écoulement de carburant, dans les conditions applicables mentionnées aux dispositions 3.2 à 3.4 de la Méthode d’essai 301.1 — Étanchéité du circuit d’alimentation en carburant de type GPL (28 février 2004) et à la disposition S7.2(b) du DNT 301.
 
 - **(1.3)** [Abrogé, DORS/2014-307, art. 25]
 
-- **(2)** Lorsque le véhicule est soumis à un essai conformément aux paragraphes (1), (1.1) ou (1.2), les conditions suivantes doivent être respectées :
-	- **a)
-** l’écoulement de carburant du circuit d’alimentation en carburant après chaque impact depuis le moment de celui-ci jusqu’à une demi-heure après l’immobilisation complète du véhicule ne doit pas excéder 142 g;
-	- **b)
-** la pression dans la partie haute pression du circuit d’alimentation en carburant, corrigée selon la température, ne tombe à moins de 95 pour cent de la pression initiale du circuit au cours de la demi-heure qui suit l’immobilisation complète du véhicule;
-	- **c)
-** le réservoir de carburant demeure fixé au véhicule à au moins un point de fixation.
+- **(2)** Lorsque le véhicule est soumis à un essai conformément aux paragraphes (1), (1.1) ou (1.2), les conditions suivantes doivent être respectées :
+	- **a)** l’écoulement de carburant du circuit d’alimentation en carburant après chaque impact depuis le moment de celui-ci jusqu’à une demi-heure après l’immobilisation complète du véhicule ne doit pas excéder 142 g;
+	- **b)** la pression dans la partie haute pression du circuit d’alimentation en carburant, corrigée selon la température, ne tombe à moins de 95 pour cent de la pression initiale du circuit au cours de la demi-heure qui suit l’immobilisation complète du véhicule;
+	- **c)** le réservoir de carburant demeure fixé au véhicule à au moins un point de fixation.
 
-- **(3)** Au lieu d’être conforme aux paragraphes (1) et (2), un véhicule, autre qu’un autobus scolaire, qui est muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GPL pour sa propulsion peut être conforme aux normes suivantes :
-	- **a)
-** la version de la norme nationale du Canada CAN/CGA-12.2, intitulée Composants du réseau d’alimentation en propane des véhicules routiers, qui, malgré toute disposition contraire y figurant, est en vigueur 24 mois avant la date de la dernière opération de fabrication indiquée sur l’étiquette informative du fabricant qui a installé le circuit d’alimentation ou la date de fabrication du véhicule complet indiquée sur l’étiquette de conformité, ou une version plus récente de cette norme;
-	- **b)
-** l’article 4, Installation des réservoirs et des systèmes d’alimentation en propane sur les véhicules routiers, de la version de la norme nationale du Canada CAN/CGA-B149.5, intitulée Code d’installation des réservoirs et des systèmes d’alimentation en propane sur les véhicules routiers, qui est en vigueur 24 mois avant la date de la dernière opération de fabrication indiquée sur l’étiquette informative du fabricant qui a installé le circuit d’alimentation ou la date de fabrication du véhicule complet indiquée sur l’étiquette de conformité, ou une version plus récente de cette norme, à l’exclusion des exigences suivantes :
+- **(3)** Au lieu d’être conforme aux paragraphes (1) et (2), un véhicule, autre qu’un autobus scolaire, qui est muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GPL pour sa propulsion peut être conforme aux normes suivantes :
+	- **a)** la version de la norme nationale du Canada CAN/CGA-12.2, intitulée Composants du réseau d’alimentation en propane des véhicules routiers, qui, malgré toute disposition contraire y figurant, est en vigueur 24 mois avant la date de la dernière opération de fabrication indiquée sur l’étiquette informative du fabricant qui a installé le circuit d’alimentation ou la date de fabrication du véhicule complet indiquée sur l’étiquette de conformité, ou une version plus récente de cette norme;
+	- **b)** l’article 4, Installation des réservoirs et des systèmes d’alimentation en propane sur les véhicules routiers, de la version de la norme nationale du Canada CAN/CGA-B149.5, intitulée Code d’installation des réservoirs et des systèmes d’alimentation en propane sur les véhicules routiers, qui est en vigueur 24 mois avant la date de la dernière opération de fabrication indiquée sur l’étiquette informative du fabricant qui a installé le circuit d’alimentation ou la date de fabrication du véhicule complet indiquée sur l’étiquette de conformité, ou une version plus récente de cette norme, à l’exclusion des exigences suivantes :
 		- **(i)** toute exigence relative à l’obtention d’une approbation auprès d’une autorité compétente ou d’un organisme d’inspection dans une province ou un territoire,
 		- **(ii)** toute exigence visant l’inspection ou une nouvelle homologation d’un circuit d’alimentation en carburant ou d’un contenant de carburant après la fin de l’assemblage principal du véhicule.
 
-- **(3.1)** Tout véhicule à trois roues qui est muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GPL pour sa propulsion doit être conforme aux normes visées au paragraphe (3).
+- **(3.1)** Tout véhicule à trois roues qui est muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GPL pour sa propulsion doit être conforme aux normes visées au paragraphe (3).
 
-- **(4)** Le fabricant d’un véhicule muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GPL pour sa propulsion doit remettre au ministre, sur demande, les renseignements concernant la version des normes visées au paragraphe (3) auxquelles le véhicule est conforme.
+- **(4)** Le fabricant d’un véhicule muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GPL pour sa propulsion doit remettre au ministre, sur demande, les renseignements concernant la version des normes visées au paragraphe (3) auxquelles le véhicule est conforme.
 
 - **(5)** [Abrogé, DORS/2004-89, art. 2]
 > DORS/82-754, art. 3; DORS/97-421, art. 17; DORS/2001-152, art. 2; DORS/2002-55, art. 18; DORS/2003-272, art. 29; DORS/2004-89, art. 2; DORS/2008-104, art. 20; DORS/2014-307, art. 25..
@@ -7829,31 +7245,27 @@ ne doit pas dépasser 1 000, « a » étant l’accélération axiale exprim�
 
 
 
-### Étanchéité du circuit d’alimentation en carburant de type GNC (Norme 301.2)
+### Étanchéité du circuit d’alimentation en carburant de type GNC (Norme 301.2)
 
 **301.2** 
 
-- **(1)** Sous réserve des paragraphes (3) et (3.1), tout véhicule qui est muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GNC pour sa propulsion doit être conforme aux exigences du paragraphe (2) lorsqu’il est soumis à un essai qui, conformément à la Méthode d’essai 301.2 — Étanchéité du circuit d’alimentation en gaz naturel comprimé (28 février 2004), consiste en ce qui suit :
-	- **a)
-** dans le cas d’un véhicule d’un PNBV d’au plus 4 536 kg :
+- **(1)** Sous réserve des paragraphes (3) et (3.1), tout véhicule qui est muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GNC pour sa propulsion doit être conforme aux exigences du paragraphe (2) lorsqu’il est soumis à un essai qui, conformément à la Méthode d’essai 301.2 — Étanchéité du circuit d’alimentation en gaz naturel comprimé (28 février 2004), consiste en ce qui suit :
+	- **a)** dans le cas d’un véhicule d’un PNBV d’au plus 4 536 kg :
 		- **(i)** le véhicule se déplace longitudinalement vers l’avant à une vitesse d’au plus 48 km/h et heurte une barrière fixe pour essais de collision, dans l’une ou l’autre direction, formant un angle d’au plus 30° avec une ligne perpendiculaire à l’axe de déplacement du véhicule,
 		- **(ii)** une barrière pour essais de collision qui se déplace à 48 km/h heurte l’arrière du véhicule,
 		- **(iii)** une barrière pour essais de collision qui se déplace à 32 km/h heurte l’un ou l’autre côté du véhicule;
-	- **b)
-** dans le cas d’un véhicule d’un PNBV de plus de 4 536 kg, une barrière profilée qui se déplace à une vitesse pouvant atteindre 48 km/h et heurte le véhicule sous n’importe quel angle et en n’importe quel point.
+	- **b)** dans le cas d’un véhicule d’un PNBV de plus de 4 536 kg, une barrière profilée qui se déplace à une vitesse pouvant atteindre 48 km/h et heurte le véhicule sous n’importe quel angle et en n’importe quel point.
 
-- **(1.1)** Au lieu d’être soumis à un essai conformément au sous-alinéa (1)a)(ii), le véhicule visé au paragraphe (1) peut être soumis à un essai conformément à la disposition S6.2(b) du DNT 301, sauf les exigences relatives à l’écoulement de carburant, dans les conditions applicables mentionnées aux dispositions 3.2 à 3.4 de la Méthode d’essai 301.2 — Étanchéité du circuit d’alimentation en gaz naturel comprimé (28 février 2004) et à la disposition S7.3(b) du DNT 301.
+- **(1.1)** Au lieu d’être soumis à un essai conformément au sous-alinéa (1)a)(ii), le véhicule visé au paragraphe (1) peut être soumis à un essai conformément à la disposition S6.2(b) du DNT 301, sauf les exigences relatives à l’écoulement de carburant, dans les conditions applicables mentionnées aux dispositions 3.2 à 3.4 de la Méthode d’essai 301.2 — Étanchéité du circuit d’alimentation en gaz naturel comprimé (28 février 2004) et à la disposition S7.3(b) du DNT 301.
 
-- **(1.2)** Au lieu d’être soumis à un essai conformément au sous-alinéa (1)a)(iii), le véhicule visé au paragraphe (1) peut être soumis à un essai conformément à la disposition S6.3(b) du DNT 301, sauf les exigences relatives à l’écoulement de carburant, dans les conditions applicables mentionnées aux dispositions 3.2 à 3.4 de la Méthode d’essai 301.2 — Étanchéité du circuit d’alimentation en gaz naturel comprimé (28 février 2004) et à la disposition S7.2(b) du DNT 301.
+- **(1.2)** Au lieu d’être soumis à un essai conformément au sous-alinéa (1)a)(iii), le véhicule visé au paragraphe (1) peut être soumis à un essai conformément à la disposition S6.3(b) du DNT 301, sauf les exigences relatives à l’écoulement de carburant, dans les conditions applicables mentionnées aux dispositions 3.2 à 3.4 de la Méthode d’essai 301.2 — Étanchéité du circuit d’alimentation en gaz naturel comprimé (28 février 2004) et à la disposition S7.2(b) du DNT 301.
 
 - **(1.3)** [Abrogé, DORS/2014-307, art. 26]
 
-- **(2)** Lorsque le véhicule est soumis à un essai conformément aux paragraphes (1), (1.1) ou (1.2), les conditions suivantes doivent être respectées :
-	- **a)
-** le réservoir de carburant demeure fixé au véhicule à au moins un point de fixation;
-	- **b)
-** lorsque la pression dans la partie haute pression du circuit d’alimentation en carburant correspond à la pression maximale de service ou à 20 680 kPa, selon la plus élevée de ces valeurs, cette pression ne subit pas, dans les 60 minutes suivant chaque impact, une diminution supérieure à la plus élevée des valeurs suivantes :
-		- **(i)** 1 062 kPa,
+- **(2)** Lorsque le véhicule est soumis à un essai conformément aux paragraphes (1), (1.1) ou (1.2), les conditions suivantes doivent être respectées :
+	- **a)** le réservoir de carburant demeure fixé au véhicule à au moins un point de fixation;
+	- **b)** lorsque la pression dans la partie haute pression du circuit d’alimentation en carburant correspond à la pression maximale de service ou à 20 680 kPa, selon la plus élevée de ces valeurs, cette pression ne subit pas, dans les 60 minutes suivant chaque impact, une diminution supérieure à la plus élevée des valeurs suivantes :
+		- **(i)** 1 062 kPa,
 		- **(ii)** le produit, exprimé en kPa, obtenu par la formule suivante :
 ```
 895 (T/V<sub>CA</sub>)
@@ -7862,21 +7274,17 @@ où :
 - **T** représente la température ambiante du gaz d’essai, en degrés Kelvin;
 - **V** <sub>CA</sub>représente le volume, en litres, de la partie haute pression du circuit d’alimentation en carburant.
 
-- **(3)** Au lieu d’être conforme au paragraphe (1), un véhicule, autre qu’un autobus scolaire, qui est muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GNC pour sa propulsion peut être conforme à l’article 4 de la version de la norme CSA B109, intitulée Code d’installation au gaz naturel pour véhicules, de l’Association canadienne de normalisation, qui est en vigueur 24 mois avant la date de la dernière opération de fabrication indiquée sur l’étiquette informative du fabricant qui a installé le circuit d’alimentation ou la date de fabrication du véhicule complet indiquée sur l’étiquette de conformité, ou à une version plus récente de cette norme, à l’exclusion des exigences suivantes :
-	- **a)
-** toute exigence relative à l’obtention d’une approbation auprès d’une autorité compétente ou de l’organisme d’inspection de chaudières et d’appareils sous pression dans une province ou un territoire, ou au fait d’agir sous la surveillance de ceux-ci;
-	- **b)
-** toute exigence visant l’inspection, l’entretien ou la réparation après la fin de l’assemblage principal du véhicule.
+- **(3)** Au lieu d’être conforme au paragraphe (1), un véhicule, autre qu’un autobus scolaire, qui est muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GNC pour sa propulsion peut être conforme à l’article 4 de la version de la norme CSA B109, intitulée Code d’installation au gaz naturel pour véhicules, de l’Association canadienne de normalisation, qui est en vigueur 24 mois avant la date de la dernière opération de fabrication indiquée sur l’étiquette informative du fabricant qui a installé le circuit d’alimentation ou la date de fabrication du véhicule complet indiquée sur l’étiquette de conformité, ou à une version plus récente de cette norme, à l’exclusion des exigences suivantes :
+	- **a)** toute exigence relative à l’obtention d’une approbation auprès d’une autorité compétente ou de l’organisme d’inspection de chaudières et d’appareils sous pression dans une province ou un territoire, ou au fait d’agir sous la surveillance de ceux-ci;
+	- **b)** toute exigence visant l’inspection, l’entretien ou la réparation après la fin de l’assemblage principal du véhicule.
 
-- **(3.1)** Tout véhicule à trois roues qui est muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GNC pour sa propulsion doit être conforme à la norme visée au paragraphe (3).
+- **(3.1)** Tout véhicule à trois roues qui est muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GNC pour sa propulsion doit être conforme à la norme visée au paragraphe (3).
 
 - **(4)** Seules les bouteilles à GNC marquées conformément aux exigences de marquage figurant dans l’une des normes suivantes pour indiquer qu’elles sont conformes à cette norme peuvent être installées dans un véhicule muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GNC pour sa propulsion :
-	- **a)
-** la version de la norme CSA B51, partie 2, intitulée *High-Pressure Cylinders for the Onboard Storage of Natural Gas as a Fuel for Automotive Vehicles*, de l’Association canadienne de normalisation, qui est en vigueur 24 mois avant la date de la dernière opération de fabrication indiquée sur l’étiquette informative du fabricant qui a installé le circuit d’alimentation ou la date de fabrication du véhicule complet indiquée sur l’étiquette de conformité, ou une version plus récente de cette norme;
-	- **b)
-** la version de la norme nationale américaine ANSI/AGA — NGV2, intitulée *Basic Requirements for Compressed Natural Gas Vehicle (NGV) Fuel Containers*, qui est en vigueur 24 mois avant la date de la dernière opération de fabrication indiquée sur l’étiquette informative du fabricant qui a installé le circuit d’alimentation ou la date de fabrication du véhicule complet indiquée sur l’étiquette de conformité, ou une version plus récente de cette norme.
+	- **a)** la version de la norme CSA B51, partie 2, intitulée *High-Pressure Cylinders for the Onboard Storage of Natural Gas as a Fuel for Automotive Vehicles*, de l’Association canadienne de normalisation, qui est en vigueur 24 mois avant la date de la dernière opération de fabrication indiquée sur l’étiquette informative du fabricant qui a installé le circuit d’alimentation ou la date de fabrication du véhicule complet indiquée sur l’étiquette de conformité, ou une version plus récente de cette norme;
+	- **b)** la version de la norme nationale américaine ANSI/AGA — NGV2, intitulée *Basic Requirements for Compressed Natural Gas Vehicle (NGV) Fuel Containers*, qui est en vigueur 24 mois avant la date de la dernière opération de fabrication indiquée sur l’étiquette informative du fabricant qui a installé le circuit d’alimentation ou la date de fabrication du véhicule complet indiquée sur l’étiquette de conformité, ou une version plus récente de cette norme.
 
-- **(5)** Le fabricant d’un véhicule muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GNC pour sa propulsion doit remettre au ministre, sur demande, les renseignements concernant la version des normes visées aux paragraphes (3) et (4) auxquelles le véhicule est conforme.
+- **(5)** Le fabricant d’un véhicule muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GNC pour sa propulsion doit remettre au ministre, sur demande, les renseignements concernant la version des normes visées aux paragraphes (3) et (4) auxquelles le véhicule est conforme.
 
 - **(6)** [Abrogé, DORS/2004-89, art. 3]
 > DORS/82-754, art. 3; DORS/95-77, art. 1; DORS/2001-152, art. 2; DORS/2002-55, art. 19; DORS/2003-272, art. 30; DORS/2004-89, art. 3; DORS/2005-342, art. 5; DORS/2008-104, art. 21; DORS/2013-220, art. 4; DORS/2014-307, art. 26..
@@ -7884,47 +7292,40 @@ où :
 
 
 
-### Étanchéité du circuit d’alimentation en carburant des véhicules à trois roues et des motocyclettes (Norme 301.3)
+### Étanchéité du circuit d’alimentation en carburant des véhicules à trois roues et des motocyclettes (Norme 301.3)
 
 **301.3** 
 
-- **(1)** Les véhicules à trois roues qui sont munis d’un circuit d’alimentation en carburant utilisant comme source d’énergie pour leur propulsion un carburant dont le point d’ébullition est de 0° C ou plus doivent être conformes aux exigences de la pratique recommandée J288 de la SAE, intitulée *Snowmobile Fuel Tanks*, dans sa version révisée de novembre 1983, à l’exclusion de l’article 1 de cette pratique.
+- **(1)** Les véhicules à trois roues qui sont munis d’un circuit d’alimentation en carburant utilisant comme source d’énergie pour leur propulsion un carburant dont le point d’ébullition est de 0° C ou plus doivent être conformes aux exigences de la pratique recommandée J288 de la SAE, intitulée *Snowmobile Fuel Tanks*, dans sa version révisée de novembre 1983, à l’exclusion de l’article 1 de cette pratique.
 
 - **(2)** Pour l’application du présent article :
-	- **a)
-** le mot « *should* » qui est employé aux articles 3.2, 3.3 et 4.3 ainsi qu’à la note en bas de la page 5 de la pratique recommandée J288 de la SAE doit être interprété comme exprimant une obligation;
-	- **b)
-** la mention « *snowmobile fuel* »qui est employée aux articles 3.2, 4.3 et 4.5 de la pratique recommandée J288 de la SAE s’entend de l’essence sans plomb;
-	- **c)
-** le mot « *snowmobile* » qui est employé aux articles 4.3 et 4.5 de la pratique recommandée J288 de la SAE vaut mention de « véhicule ».
+	- **a)** le mot « *should* » qui est employé aux articles 3.2, 3.3 et 4.3 ainsi qu’à la note en bas de la page 5 de la pratique recommandée J288 de la SAE doit être interprété comme exprimant une obligation;
+	- **b)** la mention « *snowmobile fuel* »qui est employée aux articles 3.2, 4.3 et 4.5 de la pratique recommandée J288 de la SAE s’entend de l’essence sans plomb;
+	- **c)** le mot « *snowmobile* » qui est employé aux articles 4.3 et 4.5 de la pratique recommandée J288 de la SAE vaut mention de « véhicule ».
 
-- **(3)** Sous réserve du paragraphe (5), les motocyclettes qui sont munies d’un circuit d’alimentation en carburant utilisant comme source d’énergie pour leur propulsion un carburant dont le point d’ébullition est de 0° C ou plus doivent être conformes aux exigences de la pratique recommandée J1241 de la SAE, intitulée *Fuel and Lubricant Tanks for Motorcycles*, dans sa version révisée de novembre 1999, à l’exclusion de l’article 1 de cette pratique.
+- **(3)** Sous réserve du paragraphe (5), les motocyclettes qui sont munies d’un circuit d’alimentation en carburant utilisant comme source d’énergie pour leur propulsion un carburant dont le point d’ébullition est de 0° C ou plus doivent être conformes aux exigences de la pratique recommandée J1241 de la SAE, intitulée *Fuel and Lubricant Tanks for Motorcycles*, dans sa version révisée de novembre 1999, à l’exclusion de l’article 1 de cette pratique.
 
 - **(4)** Pour l’application du présent article :
-	- **a)
-** la mention « *rated fuel capacity* » qui est employée dans la pratique recommandée J1241 de la SAE s’entend au sens de la définition de ***capacité du réservoir de carburant du véhicule*** au paragraphe 2(1) du présent règlement;
-	- **b)
-** la mention « *significant effect* » qui est employée aux articles 5.2.3 et 5.3.3 de la pratique recommandée J1241 de la SAE s’entend de tout effet entraînant la fissuration du réservoir ou une fuite.
+	- **a)** la mention « *rated fuel capacity* » qui est employée dans la pratique recommandée J1241 de la SAE s’entend au sens de la définition de ***capacité du réservoir de carburant du véhicule*** au paragraphe 2(1) du présent règlement;
+	- **b)** la mention « *significant effect* » qui est employée aux articles 5.2.3 et 5.3.3 de la pratique recommandée J1241 de la SAE s’entend de tout effet entraînant la fissuration du réservoir ou une fuite.
 
-- **(5)** Au lieu d’être conformes au paragraphe (3), les motocyclettes qui sont munies d’un circuit d’alimentation en carburant utilisant comme source d’énergie pour leur propulsion un carburant dont le point d’ébullition est de 0° C ou plus peuvent être conformes aux exigences des parties suivantes du chapitre 6 de la Directive 97/24/CE du Parlement européen et du Conseil du 17 juin 1997 relative à certains éléments ou caractéristiques des véhicules à moteur à deux ou trois roues, avec ses modifications successives :
-	- **a)
-** l’annexe I, à l’exclusion de l’article 1.0;
-	- **b)
-** l’appendice 1 de l’annexe I, à l’exclusion des articles 2.2 et 4 de cet appendice.
+- **(5)** Au lieu d’être conformes au paragraphe (3), les motocyclettes qui sont munies d’un circuit d’alimentation en carburant utilisant comme source d’énergie pour leur propulsion un carburant dont le point d’ébullition est de 0° C ou plus peuvent être conformes aux exigences des parties suivantes du chapitre 6 de la Directive 97/24/CE du Parlement européen et du Conseil du 17 juin 1997 relative à certains éléments ou caractéristiques des véhicules à moteur à deux ou trois roues, avec ses modifications successives :
+	- **a)** l’annexe I, à l’exclusion de l’article 1.0;
+	- **b)** l’appendice 1 de l’annexe I, à l’exclusion des articles 2.2 et 4 de cet appendice.
 
-- **(6)** Pour l’application du présent article, les mentions « *rated capacity* » et « *nominal capacity* » qui sont employées dans l’annexe I et l’appendice 1 de l’annexe I du chapitre 6 de la Directive 97/24/CE du Parlement européen et du Conseil du 17 juin 1997 relative à certains éléments ou caractéristiques des véhicules à moteur à deux ou trois roues s’entendent au sens de la définition de ***capacité du réservoir de carburant du véhicule*** au paragraphe 2(1) du présent règlement.
+- **(6)** Pour l’application du présent article, les mentions « *rated capacity* » et « *nominal capacity* » qui sont employées dans l’annexe I et l’appendice 1 de l’annexe I du chapitre 6 de la Directive 97/24/CE du Parlement européen et du Conseil du 17 juin 1997 relative à certains éléments ou caractéristiques des véhicules à moteur à deux ou trois roues s’entendent au sens de la définition de ***capacité du réservoir de carburant du véhicule*** au paragraphe 2(1) du présent règlement.
 
-- **(7)** Les motocyclettes construites avant le 1<sup>er</sup> septembre 2004 n’ont pas à être conformes au présent article.
+- **(7)** Les motocyclettes construites avant le 1<sup>er</sup> septembre 2004 n’ont pas à être conformes au présent article.
 > DORS/2003-272, art. 31..
 
 
 
 
-### Inflammabilité des matériaux intérieurs (Norme 302)
+### Inflammabilité des matériaux intérieurs (Norme 302)
 
 **302** 
 
-- **(1)** Les matériaux intérieurs des voitures de tourisme, des véhicules de tourisme à usages multiples, des camions, des autobus et des véhicules à trois roues doivent être conformes aux exigences du Document de normes techniques no 302 — Inflammabilité des matériaux intérieurs, avec ses modifications successives.
+- **(1)** Les matériaux intérieurs des voitures de tourisme, des véhicules de tourisme à usages multiples, des camions, des autobus et des véhicules à trois roues doivent être conformes aux exigences du Document de normes techniques no 302 — Inflammabilité des matériaux intérieurs, avec ses modifications successives.
 
 - **(2)** [Abrogé, DORS/2014-307, art. 27]
 > DORS/78-525, art. 2; DORS/79-262, art. 1(F); DORS/2007-180, art. 18; DORS/2011-238, art. 6; DORS/2014-307, art. 27..
@@ -7932,21 +7333,21 @@ où :
 
 
 
-### Déversement d’électrolyte et protection contre les décharges électriques (Norme 305)
+### Déversement d’électrolyte et protection contre les décharges électriques (Norme 305)
 > [DORS/2009-318, art. 13(F); DORS/2011-238, art. 6]
 
 
 **305** 
 
-- **(1)** Les voitures de tourisme et les véhicules à trois roues, ainsi que les véhicules de tourisme à usages multiples, camions et autobus d’un PNBV d’au plus 4 536 kg, qui utilisent pour leur propulsion une tension nominale de plus de 60 volts en courant continu (VCC) ou de plus de 30 volts en courant alternatif (VCA) et qui peuvent atteindre une vitesse supérieure à 40 km/h sur une distance de 1,6 km sur une surface asphaltée de niveau doivent être conformes aux exigences du Document de normes techniques no 305 — Déversement d’électrolyte et protection contre les décharges électriques (DNT 305), avec ses modifications successives.
+- **(1)** Les voitures de tourisme et les véhicules à trois roues, ainsi que les véhicules de tourisme à usages multiples, camions et autobus d’un PNBV d’au plus 4 536 kg, qui utilisent pour leur propulsion une tension nominale de plus de 60 volts en courant continu (VCC) ou de plus de 30 volts en courant alternatif (VCA) et qui peuvent atteindre une vitesse supérieure à 40 km/h sur une distance de 1,6 km sur une surface asphaltée de niveau doivent être conformes aux exigences du Document de normes techniques no 305 — Déversement d’électrolyte et protection contre les décharges électriques (DNT 305), avec ses modifications successives.
 
-- **(2)** Les dispositions S6.2, S6.3, S7.4 et S7.5 du DNT 305 ne s’appliquent pas aux véhicules à trois roues.
+- **(2)** Les dispositions S6.2, S6.3, S7.4 et S7.5 du DNT 305 ne s’appliquent pas aux véhicules à trois roues.
 
-- **(3)** Au lieu d’être conforme à la disposition S7.2.3 du DNT 305, la charge d’un véhicule à trois roues, y compris les dispositifs et les instruments d’essai, doit être celle du poids du véhicule sans charge, sauf que le réservoir d’essence du véhicule est rempli à au moins 90 % mais à au plus 95 % de sa capacité.
+- **(3)** Au lieu d’être conforme à la disposition S7.2.3 du DNT 305, la charge d’un véhicule à trois roues, y compris les dispositifs et les instruments d’essai, doit être celle du poids du véhicule sans charge, sauf que le réservoir d’essence du véhicule est rempli à au moins 90 % mais à au plus 95 % de sa capacité.
 
-- **(4)** Au lieu d’être soumis à un essai conformément à la disposition S6.2 du DNT 305, les véhicules visés au paragraphe (1), à l’exception des véhicules à trois roues, peuvent être soumis à un essai conformément aux exigences de la disposition S6.2(b) du DNT 301, sauf aux exigences relatives à l’écoulement de carburant, dans les conditions applicables prévues à la disposition S7.3(b) du DNT 301.
+- **(4)** Au lieu d’être soumis à un essai conformément à la disposition S6.2 du DNT 305, les véhicules visés au paragraphe (1), à l’exception des véhicules à trois roues, peuvent être soumis à un essai conformément aux exigences de la disposition S6.2(b) du DNT 301, sauf aux exigences relatives à l’écoulement de carburant, dans les conditions applicables prévues à la disposition S7.3(b) du DNT 301.
 
-- **(5)** Les véhicules qui sont soumis à un essai conformément au paragraphe (4) doivent être conformes aux exigences des dispositions S5.1, S5.2 et S5.3 du DNT 305.
+- **(5)** Les véhicules qui sont soumis à un essai conformément au paragraphe (4) doivent être conformes aux exigences des dispositions S5.1, S5.2 et S5.3 du DNT 305.
 
 - **(6)** [Abrogé, DORS/2014-307, art. 28]
 > DORS/2001-486, art. 2; DORS/2003-272, art. 32; DORS/2004-89, art. 4; DORS/2004-250, art. 5; DORS/2005-42, art. 9 et 10; DORS/2006-94, art. 4(A); DORS/2009-318, art. 13; DORS/2011-238, art. 6; DORS/2014-307, art. 28..
@@ -7954,15 +7355,15 @@ où :
 
 
 
-### Mécanisme de déverrouillage interne du coffre (Norme 401)
+### Mécanisme de déverrouillage interne du coffre (Norme 401)
 
 **401** 
 
-- **(1)** Les voitures de tourisme et les véhicules à trois roues doivent être conformes aux exigences applicables aux voitures de tourisme du Document de normes techniques no 401 — Mécanisme de déverrouillage interne du coffre (DNT 401), avec ses modifications successives.
+- **(1)** Les voitures de tourisme et les véhicules à trois roues doivent être conformes aux exigences applicables aux voitures de tourisme du Document de normes techniques no 401 — Mécanisme de déverrouillage interne du coffre (DNT 401), avec ses modifications successives.
 
-- **(2)** Cependant, les véhicules construits avant le 1<sup>er</sup> septembre 2010 n’ont pas à être munis d’un mécanisme de déverrouillage interne du coffre.
+- **(2)** Cependant, les véhicules construits avant le 1<sup>er</sup> septembre 2010 n’ont pas à être munis d’un mécanisme de déverrouillage interne du coffre.
 
-- **(3)** Le présent article ne s’applique pas aux véhicules munis d’une porte arrière. Pour l’application du présent paragraphe, ***porte arrière*** s’entend au sens du DNT 401.
+- **(3)** Le présent article ne s’applique pas aux véhicules munis d’une porte arrière. Pour l’application du présent paragraphe, ***porte arrière*** s’entend au sens du DNT 401.
 
 - **(4)** [Abrogé, DORS/2014-307, art. 29]
 > DORS/2007-180, art. 19; DORS/2008-73, art. 4; DORS/2009-318, art. 14; DORS/2011-238, art. 6; DORS/2014-307, art. 29..
@@ -7974,17 +7375,15 @@ où :
 
 **500** 
 
-- **(1)** Tout véhicule à basse vitesse doit être conforme aux exigences du Document de normes techniques no 500 — Véhicules à basse vitesse (DNT 500), avec ses modifications successives.
+- **(1)** Tout véhicule à basse vitesse doit être conforme aux exigences du Document de normes techniques no 500 — Véhicules à basse vitesse (DNT 500), avec ses modifications successives.
 
-- **(2)** Tout véhicule à basse vitesse doit être marqué de façon permanente d’un panneau indicateur de véhicule lent qui est conforme à l’article 6 de l’American National Standard ANSI/ASAE S276.6, intitulée *Slow Moving Vehicle Identification Emblem (SMV Emblem)* et publiée en janvier 2005 par l’American Society of Agricultural Engineers.
+- **(2)** Tout véhicule à basse vitesse doit être marqué de façon permanente d’un panneau indicateur de véhicule lent qui est conforme à l’article 6 de l’American National Standard ANSI/ASAE S276.6, intitulée *Slow Moving Vehicle Identification Emblem (SMV Emblem)* et publiée en janvier 2005 par l’American Society of Agricultural Engineers.
 
-- **(3)** Toutefois, l’article 6 de la norme ANSI/ASAE S276.6 est modifié de la façon suivante :
-	- **a)
-** les dimensions du panneau peuvent dépasser celles qui sont précisées à la figure 1 si elle sont augmentées proportionnellement pour qu’elles gardent entre elles le même rapport que celui des dimensions précisées à la figure;
-	- **b)
-** la recommandation figurant au paragraphe 6.2.6 est de force obligatoire.
+- **(3)** Toutefois, l’article 6 de la norme ANSI/ASAE S276.6 est modifié de la façon suivante :
+	- **a)** les dimensions du panneau peuvent dépasser celles qui sont précisées à la figure 1 si elle sont augmentées proportionnellement pour qu’elles gardent entre elles le même rapport que celui des dimensions précisées à la figure;
+	- **b)** la recommandation figurant au paragraphe 6.2.6 est de force obligatoire.
 
-- **(4)** Le panneau doit être installé conformément aux paragraphes 7.1.1 et 7.1.2 de la norme ANSI/ASAE S276.6. Il doit être installé dans l’axe du véhicule ou le plus près possible de cet axe, à gauche, à au moins 500 mm mais à au plus 1 500 mm de la chaussée.
+- **(4)** Le panneau doit être installé conformément aux paragraphes 7.1.1 et 7.1.2 de la norme ANSI/ASAE S276.6. Il doit être installé dans l’axe du véhicule ou le plus près possible de cet axe, à gauche, à au moins 500 mm mais à au plus 1 500 mm de la chaussée.
 
 - **(5)** Le panneau doit être apposé de sorte qu’il ne soit ni masqué ni obstrué par une partie du véhicule ou une pièce conçue pour y être attachée.
 
@@ -7998,21 +7397,18 @@ où :
 
 **505** 
 
-- **(1)** Sous réserve du paragraphe (2), la hauteur du centre de masse, illustrée à la figure 1, des véhicules à trois roues ou des tricycles à moteur ne doit pas être supérieure à une fois et demie la distance horizontale entre le centre de masse et l’axe de roulis le plus proche, illustrée à la figure 2.
+- **(1)** Sous réserve du paragraphe (2), la hauteur du centre de masse, illustrée à la figure 1, des véhicules à trois roues ou des tricycles à moteur ne doit pas être supérieure à une fois et demie la distance horizontale entre le centre de masse et l’axe de roulis le plus proche, illustrée à la figure 2.
 
-- **(2)** Le paragraphe (1) ne s’applique pas aux tricycles à moteur qui sont conçus de manière à s’incliner dans le sens du virage au cours d’une manoeuvre de virage.
+- **(2)** Le paragraphe (1) ne s’applique pas aux tricycles à moteur qui sont conçus de manière à s’incliner dans le sens du virage au cours d’une manoeuvre de virage.
 
 - **(3)** Le poids total d’un tricycle à moteur ou d’un véhicule à trois roues sur toutes ses roues avant, mesuré au point de contact pneu-sol, ne doit pas être inférieur à 25 pour cent ni supérieur à 70 pour cent du poids du véhicule chargé.
 
 - **(4)** Le poids du véhicule chargé d’un tricycle à moteur ou d’un véhicule à trois roues et la position du centre de sa masse sont déterminés dans les conditions suivantes :
-	- **a)
-** le réservoir de carburant est rempli dans une proportion de 90 à 95 pour cent de la capacité du réservoir de carburant du véhicule;
-	- **b)
-** un dispositif anthropomorphe d’essai représentant le 50<sup>e</sup> percentile adulte du sexe masculin ou une masse équivalente est situé à chaque place assise désignée extérieure avant; toutefois, si une masse équivalente est utilisée, le centre de cette masse doit coïncider, à 12 mm ou moins, tant à la verticale qu’à l’horizontale, avec un point se trouvant 6 mm sous le point H déterminé à l’aide du matériel et selon la marche à suivre prévus dans la norme J826 de la SAE intitulée *Devices for Use in Defining and Measuring Vehicle Seating Accommodation* (juillet 1995), sauf que la longueur de la jambe inférieure et celle de la cuisse de la machine point H doivent être réglées à 414 mm et à 401 mm, respectivement, plutôt que selon les valeurs qui figurent sous la rubrique « *50th percentile* » du tableau 1 de cette norme;
-	- **c)
-** les sièges réglables doivent être placés à mi-chemin entre leur position la plus avancée et leur position la plus reculée; s’ils se règlent séparément à la verticale, il faut les abaisser au maximum. S’il est impossible de les régler à mi-chemin entre la position la plus avancée et la position la plus reculée, il faut les placer le plus près possible à l’arrière de la position du milieu.
+	- **a)** le réservoir de carburant est rempli dans une proportion de 90 à 95 pour cent de la capacité du réservoir de carburant du véhicule;
+	- **b)** un dispositif anthropomorphe d’essai représentant le 50<sup>e</sup> percentile adulte du sexe masculin ou une masse équivalente est situé à chaque place assise désignée extérieure avant; toutefois, si une masse équivalente est utilisée, le centre de cette masse doit coïncider, à 12 mm ou moins, tant à la verticale qu’à l’horizontale, avec un point se trouvant 6 mm sous le point H déterminé à l’aide du matériel et selon la marche à suivre prévus dans la norme J826 de la SAE intitulée *Devices for Use in Defining and Measuring Vehicle Seating Accommodation* (juillet 1995), sauf que la longueur de la jambe inférieure et celle de la cuisse de la machine point H doivent être réglées à 414 mm et à 401 mm, respectivement, plutôt que selon les valeurs qui figurent sous la rubrique « *50th percentile* » du tableau 1 de cette norme;
+	- **c)** les sièges réglables doivent être placés à mi-chemin entre leur position la plus avancée et leur position la plus reculée; s’ils se règlent séparément à la verticale, il faut les abaisser au maximum. S’il est impossible de les régler à mi-chemin entre la position la plus avancée et la position la plus reculée, il faut les placer le plus près possible à l’arrière de la position du milieu.
 
-- **(5)** Dans le cas d’un tricycle à moteur ou d’un véhicule à trois roues qui ont une roue avant et deux roues arrière la distance horizontale entre le centre de masse et l’axe de roulis le plus proche, illustrée à la figure 2, est déterminée à l’aide de la formule suivante :
+- **(5)** Dans le cas d’un tricycle à moteur ou d’un véhicule à trois roues qui ont une roue avant et deux roues arrière la distance horizontale entre le centre de masse et l’axe de roulis le plus proche, illustrée à la figure 2, est déterminée à l’aide de la formule suivante :
 ```
 d = L sin (arctan (t / 2W))
 ```
@@ -8022,9 +7418,9 @@ où :
 - **t** est la distance entre les deux pneus sur l’essieu arrière,
 - **W** est l’empattement.
 
-- **(6)** La distance horizontale entre le centre de masse et l’axe de roulis le plus proche d’un tricycle à moteur ou d’un véhicule à trois roues qui ont deux roues avant et une roue arrière, illustrée à la figure 2, est déterminée à l’aide de la formule suivante :
+- **(6)** La distance horizontale entre le centre de masse et l’axe de roulis le plus proche d’un tricycle à moteur ou d’un véhicule à trois roues qui ont deux roues avant et une roue arrière, illustrée à la figure 2, est déterminée à l’aide de la formule suivante :
 ```
-d = (W – L) sin (arctan (t / 2W))
+d = (W – L) sin (arctan (t / 2W))
 ```
 où :
 - **d** est la distance horizontale entre le centre de masse et l’axe de roulis le plus proche,
@@ -8032,7 +7428,7 @@ où :
 - **L** est la distance longitudinale qui sépare le centre de masse du centre de l’essieu avant,
 - **t** est la distance entre les deux pneus sur l’essieu avant.
 
-- **(7)** Les tricycles à moteur construits avant le 1<sup>er</sup> septembre 2004 n’ont pas à être conformes au présent article.
+- **(7)** Les tricycles à moteur construits avant le 1<sup>er</sup> septembre 2004 n’ont pas à être conformes au présent article.
 
 - 
 <table>
@@ -8079,15 +7475,13 @@ où :
 - **(1)** Aucun essieu, ensemble d’essieu ni roue, pneumatique, pièce de suspension ou autre composante d’un ensemble d’essieu communément appelé train de roulement, conçu et fabriqué exclusivement pour être utilisé sur une maison roulante ou un autre véhicule ne faisant pas partie d’une catégorie visée par le règlement, ne doit être installé sur une remorque.
 
 - **(2)** Le poids nominal brut sur l’essieu pour chaque essieu d’une remorque ne peut,
-	- **a)
-** pour un véhicule muni de jantes amovibles et de roues à rayons, dépasser le poids total en charge
+	- **a)** pour un véhicule muni de jantes amovibles et de roues à rayons, dépasser le poids total en charge
 		- **(i)** des ressorts de suspension,
 		- **(ii)** de l’essieu,
 		- **(iii)** des roues à rayons,
 		- **(iv)** des jantes amovibles, ou
 		- **(v)** des pneumatiques; et,
-	- **b)
-** pour un véhicule équipé de roues à disque et de moyeux, dépasser le poids total en charge
+	- **b)** pour un véhicule équipé de roues à disque et de moyeux, dépasser le poids total en charge
 		- **(i)** des ressorts de suspension,
 		- **(ii)** de l’essieu,
 		- **(iii)** des moyeux,
@@ -8095,10 +7489,8 @@ où :
 		- **(v)** des pneumatiques.
 
 - **(3)** Le poids total en charge pour les pièces visées aux alinéas 2a) et b)
-	- **a)
-** doit être mesuré au point de contact pneu-sol; et
-	- **b)
-** à l’exception des remorques lourdes, doit correspondre au poids total en charge pour service continu, indiqué par les fabricants respectifs de ces pièces.
+	- **a)** doit être mesuré au point de contact pneu-sol; et
+	- **b)** à l’exception des remorques lourdes, doit correspondre au poids total en charge pour service continu, indiqué par les fabricants respectifs de ces pièces.
 > DORS/79-940, art. 10; DORS/97-421, art. 14(A)..
 
 
@@ -8112,127 +7504,96 @@ où :
 
 
 
-### Spécifications du chariot de conversion de type C
+### Spécifications du chariot de conversion de type C
 
 **903** 
 
-- **(1)** Le chariot de conversion de type C doit être équipé :
-	- **a)
-** d’un mécanisme de direction auto-directeur de type automobile ou à sellette;
-	- **b)
-** d’un moyen de ramener les roues à moins d’un degré de la position de marche en ligne droite lorsque la force de braquage appliquée sur les roues est éliminée;
-	- **c)
-** d’un dispositif de verrouillage automatique du mécanisme de direction dans la position de marche en ligne droite en cas de défaillance du moyen mentionné à l’alinéa b);
-	- **d)
-** d’un dispositif qui à la fois :
-		- **(i)** comporte un commutateur permettant au conducteur, lorsqu’il se trouve dans la position de conduite normale dans la cabine du camion qui remorque le chariot de conversion de type C, de verrouiller le mécanisme de direction dans la position de marche en ligne droite ou de le déverrouiller,
+- **(1)** Le chariot de conversion de type C doit être équipé :
+	- **a)** d’un mécanisme de direction auto-directeur de type automobile ou à sellette;
+	- **b)** d’un moyen de ramener les roues à moins d’un degré de la position de marche en ligne droite lorsque la force de braquage appliquée sur les roues est éliminée;
+	- **c)** d’un dispositif de verrouillage automatique du mécanisme de direction dans la position de marche en ligne droite en cas de défaillance du moyen mentionné à l’alinéa b);
+	- **d)** d’un dispositif qui à la fois :
+		- **(i)** comporte un commutateur permettant au conducteur, lorsqu’il se trouve dans la position de conduite normale dans la cabine du camion qui remorque le chariot de conversion de type C, de verrouiller le mécanisme de direction dans la position de marche en ligne droite ou de le déverrouiller,
 		- **(ii)** verrouille le mécanisme de direction dans la position de marche en ligne droite dans l’éventualité d’une panne du mécanisme de contrôle du dispositif ou de l’interruption du courant pour ce dispositif,
-		- **(iii)** fournit dans les deux langues officielles, sur le commutateur prévu au sous-alinéa (i) ou une étiquette apposée près de ce commutateur, les renseignements prévus aux sous-alinéas (12)b)(i) et (ii).
+		- **(iii)** fournit dans les deux langues officielles, sur le commutateur prévu au sous-alinéa (i) ou une étiquette apposée près de ce commutateur, les renseignements prévus aux sous-alinéas (12)b)(i) et (ii).
 
-- **(2)** Le chariot de conversion de type C doit avoir un PNBE de 9 100 kg.
+- **(2)** Le chariot de conversion de type C doit avoir un PNBE de 9 100 kg.
 
-- **(3)** La distance longitudinale entre la droite reliant le milieu de l’attelage du chariot de conversion de type C et le centre de son essieu ne doit pas dépasser 2 m.
+- **(3)** La distance longitudinale entre la droite reliant le milieu de l’attelage du chariot de conversion de type C et le centre de son essieu ne doit pas dépasser 2 m.
 
-- **(4)** Lorsque l’attelage du chariot de conversion de type C comprend une seule composante, il doit pouvoir résister à la fois :
-	- **a)
-** aux charges statiques suivantes :
+- **(4)** Lorsque l’attelage du chariot de conversion de type C comprend une seule composante, il doit pouvoir résister à la fois :
+	- **a)** aux charges statiques suivantes :
 		- **(i)** une charge de 800 kN appliquée dans la direction longitudinale,
 		- **(ii)** une charge de 80 kN appliquée dans la direction latérale;
-	- **b)
-** à un moment statique de 76,2 kN.m par rapport à l’axe longitudinal du chariot de conversion de type C.
+	- **b)** à un moment statique de 76,2 kN.m par rapport à l’axe longitudinal du chariot de conversion de type C.
 
-- **(5)** Lorsque l’attelage du chariot de conversion de type C comprend deux yeux de métal, ceux-ci doivent :
-	- **a)
-** être séparés latéralement par une distance de 762 mm ± 2 mm;
-	- **b)
-** être équidistants de l’axe longitudinal du chariot de conversion de type C;
-	- **c)
-** avoir une hauteur de montage de 900 mm ± 10 mm, lorsque le chariot de conversion de type C est vide;
-	- **d)
-** pouvoir résister chacun aux charges statiques suivantes :
+- **(5)** Lorsque l’attelage du chariot de conversion de type C comprend deux yeux de métal, ceux-ci doivent :
+	- **a)** être séparés latéralement par une distance de 762 mm ± 2 mm;
+	- **b)** être équidistants de l’axe longitudinal du chariot de conversion de type C;
+	- **c)** avoir une hauteur de montage de 900 mm ± 10 mm, lorsque le chariot de conversion de type C est vide;
+	- **d)** pouvoir résister chacun aux charges statiques suivantes :
 		- **(i)** une charge de 400 kN appliquée dans la direction longitudinale,
 		- **(ii)** une charge de 100 kN appliquée dans la direction verticale,
 		- **(iii)** une charge de 40 kN appliquée dans la direction latérale.
 
-- **(6)** Lorsque le chariot de conversion de type C est soumis à des essais conformément à la méthode intitulée Article 903 - Chariot de conversion de type C, des Méthodes d’essai de sécurité des véhicules automobiles, en date du 1<sup>er</sup> octobre 1992, publiées par le ministère des Transports :
-	- **a)
-** l’axe de rotation du mécanisme de direction à sellette ne doit pas dévier de plus de 0,5 degré de la verticale;
-	- **b)
-** les axes du pivot d’attelage du mécanisme de direction de type automobile ne doivent pas dévier de plus de 0,5 degré de la verticale;
-	- **c)
-** le mécanisme de direction ne doit pas braquer les roues à plus d’un degré de la position de marche en ligne droite lorsqu’il est soumis :
+- **(6)** Lorsque le chariot de conversion de type C est soumis à des essais conformément à la méthode intitulée Article 903 - Chariot de conversion de type C, des Méthodes d’essai de sécurité des véhicules automobiles, en date du 1<sup>er</sup> octobre 1992, publiées par le ministère des Transports :
+	- **a)** l’axe de rotation du mécanisme de direction à sellette ne doit pas dévier de plus de 0,5 degré de la verticale;
+	- **b)** les axes du pivot d’attelage du mécanisme de direction de type automobile ne doivent pas dévier de plus de 0,5 degré de la verticale;
+	- **c)** le mécanisme de direction ne doit pas braquer les roues à plus d’un degré de la position de marche en ligne droite lorsqu’il est soumis :
 		- **(i)** soit à une force latérale de 22 320 N appliquée à un point situé à une distance de 50 mm derrière le centre du point de contact du pneu,
-		- **(ii)** soit à une force longitudinale de 8 930 N appliquée à travers le centre d’un des pneus, dans le cas d’un chariot de conversion de type C muni d’un pneu de chaque côté, et à travers le centre du montage d’un des pneus et d’une des jantes jumelés, dans le cas d’un chariot de conversion de type C muni de deux pneus de chaque côté;
-	- **d)
-** le mécanisme de direction ne doit pas permettre à l’angle de braquage de dépasser un degré de la position de marche en ligne droite, sauf si le mécanisme de direction est soumis à des forces supérieures à celles qui sont mentionnées aux sous-alinéas c)(i) ou (ii).
+		- **(ii)** soit à une force longitudinale de 8 930 N appliquée à travers le centre d’un des pneus, dans le cas d’un chariot de conversion de type C muni d’un pneu de chaque côté, et à travers le centre du montage d’un des pneus et d’une des jantes jumelés, dans le cas d’un chariot de conversion de type C muni de deux pneus de chaque côté;
+	- **d)** le mécanisme de direction ne doit pas permettre à l’angle de braquage de dépasser un degré de la position de marche en ligne droite, sauf si le mécanisme de direction est soumis à des forces supérieures à celles qui sont mentionnées aux sous-alinéas c)(i) ou (ii).
 
-- **(7)** Lorsque le chariot de conversion de type C est équipé d’un système hydraulique ou pneumatique sous pression qui fournit le moyen décrit à l’alinéa (1)b), ce système doit :
-	- **a)
-** être indépendant du système de freinage du chariot;
-	- **b)
-** être équipé d’un manomètre qui indique à la fois :
-		- **(i)** la pression minimale requise pour satisfaire aux exigences des alinéas (1)b) et (6)c) et d),
+- **(7)** Lorsque le chariot de conversion de type C est équipé d’un système hydraulique ou pneumatique sous pression qui fournit le moyen décrit à l’alinéa (1)b), ce système doit :
+	- **a)** être indépendant du système de freinage du chariot;
+	- **b)** être équipé d’un manomètre qui indique à la fois :
+		- **(i)** la pression minimale requise pour satisfaire aux exigences des alinéas (1)b) et (6)c) et d),
 		- **(ii)** la pression interne du système;
-	- **c)
-** ne pas permettre de régler la force de braquage.
+	- **c)** ne pas permettre de régler la force de braquage.
 
-- **(8)** Le chariot de conversion de type C visé au paragraphe (7) doit porter une étiquette, dans les deux langues officielles, indiquant la pression minimale mentionnée à l’alinéa (7)b).
+- **(8)** Le chariot de conversion de type C visé au paragraphe (7) doit porter une étiquette, dans les deux langues officielles, indiquant la pression minimale mentionnée à l’alinéa (7)b).
 
-- **(9)** Le manomètre exigé au paragraphe (7) et, le cas échéant, les soupapes et interrupteurs manuels faisant partie du système visé à ce paragraphe, ainsi que l’étiquette visée au paragraphe (8), doivent être protégés contre les intempéries.
+- **(9)** Le manomètre exigé au paragraphe (7) et, le cas échéant, les soupapes et interrupteurs manuels faisant partie du système visé à ce paragraphe, ainsi que l’étiquette visée au paragraphe (8), doivent être protégés contre les intempéries.
 
-- **(10)** Lorsque le chariot de conversion de type C est soumis à un essai de torsion conformément à la méthode intitulée Article 903 - Chariot de conversion de type C, des Méthodes d’essai de sécurité des véhicules automobiles, en date du 1<sup>er</sup> octobre 1992, publiées par le ministère des Transports, sa rigidité en torsion doit être d’au moins 3 000 N.m/degré par rapport à la direction longitudinale et il doit pouvoir soutenir un couple d’au moins 45 000 N.m dans chaque direction sans subir de déformation permanente de plus de 0,5 degré.
+- **(10)** Lorsque le chariot de conversion de type C est soumis à un essai de torsion conformément à la méthode intitulée Article 903 - Chariot de conversion de type C, des Méthodes d’essai de sécurité des véhicules automobiles, en date du 1<sup>er</sup> octobre 1992, publiées par le ministère des Transports, sa rigidité en torsion doit être d’au moins 3 000 N.m/degré par rapport à la direction longitudinale et il doit pouvoir soutenir un couple d’au moins 45 000 N.m dans chaque direction sans subir de déformation permanente de plus de 0,5 degré.
 
-- **(11)** Lorsque le chariot de conversion de type C est doté d’un dispositif de verrouillage automatique du mécanisme de direction selon la vitesse du chariot de conversion de type C, ce dispositif doit :
-	- **a)
-** verrouiller le mécanisme de direction dans la position de marche en ligne droite lorsque le chariot de conversion de type C se déplace à une vitesse de 60 km/h et le garder verrouillé lorsque le chariot de conversion de type C se déplace à une vitesse supérieure à 60 km/h;
-	- **b)
-** déverrouiller le mécanisme de direction lorsque le chariot de conversion de type C se déplace à une vitesse de 50 km/h et le garder déverrouillé lorsque le chariot de conversion de type C se déplace à une vitesse inférieure à 50 km/h.
+- **(11)** Lorsque le chariot de conversion de type C est doté d’un dispositif de verrouillage automatique du mécanisme de direction selon la vitesse du chariot de conversion de type C, ce dispositif doit :
+	- **a)** verrouiller le mécanisme de direction dans la position de marche en ligne droite lorsque le chariot de conversion de type C se déplace à une vitesse de 60 km/h et le garder verrouillé lorsque le chariot de conversion de type C se déplace à une vitesse supérieure à 60 km/h;
+	- **b)** déverrouiller le mécanisme de direction lorsque le chariot de conversion de type C se déplace à une vitesse de 50 km/h et le garder déverrouillé lorsque le chariot de conversion de type C se déplace à une vitesse inférieure à 50 km/h.
 
-- **(12)** Le chariot de conversion de type C doit :
-	- **a)
-** avoir une surface plate qui est horizontale lorsqu’il est vide et que le centre de son attelage est maintenu à la hauteur de montage selon les plans et devis du fabricant;
-	- **b)
-** porter une étiquette, dans les deux langues officielles, indiquant :
-		- **(i)** d’une part, que le mécanisme de direction devrait être verrouillé lorsque le chariot de conversion de type C se déplace à une vitesse de 60 km/h ou plus sur une chaussée glissante ou non revêtue, et que le mécanisme de direction devrait être déverrouillé lorsque le chariot de conversion de type C se déplace à une vitesse de 50 km/h ou moins,
+- **(12)** Le chariot de conversion de type C doit :
+	- **a)** avoir une surface plate qui est horizontale lorsqu’il est vide et que le centre de son attelage est maintenu à la hauteur de montage selon les plans et devis du fabricant;
+	- **b)** porter une étiquette, dans les deux langues officielles, indiquant :
+		- **(i)** d’une part, que le mécanisme de direction devrait être verrouillé lorsque le chariot de conversion de type C se déplace à une vitesse de 60 km/h ou plus sur une chaussée glissante ou non revêtue, et que le mécanisme de direction devrait être déverrouillé lorsque le chariot de conversion de type C se déplace à une vitesse de 50 km/h ou moins,
 		- **(ii)** d’autre part, que le chariot de conversion ne doit pas être fixé à un camion porteur.
 
 - **(13)** La surface plate mentionnée à l’alinéa (12)a) doit :
-	- **a)
-** avoir une longueur d’au moins 30 cm, mesurée longitudinalement;
-	- **b)
-** avoir une largeur d’au moins 5 cm, mesurée latéralement;
-	- **c)
-** être accessible des deux côtés du chariot de conversion de type C;
-	- **d)
-** être à au plus 50 cm de l’attelage du chariot de conversion de type C.
+	- **a)** avoir une longueur d’au moins 30 cm, mesurée longitudinalement;
+	- **b)** avoir une largeur d’au moins 5 cm, mesurée latéralement;
+	- **c)** être accessible des deux côtés du chariot de conversion de type C;
+	- **d)** être à au plus 50 cm de l’attelage du chariot de conversion de type C.
 > DORS/93-146, art. 4; DORS/2008-104, art. 22..
 
 
 
 
-### Exigences pour l’attelage du chariot de conversion de type C
+### Exigences pour l’attelage du chariot de conversion de type C
 
 **904** 
 
-- **(1)** La remorque conçue pour tirer un chariot de conversion de type C doit être équipée d’un attelage qui sert à atteler celui-ci.
+- **(1)** La remorque conçue pour tirer un chariot de conversion de type C doit être équipée d’un attelage qui sert à atteler celui-ci.
 
-- **(2)** Lorsque l’attelage mentionné au paragraphe (1) comprend une seule composante, il doit pouvoir résister à la fois :
-	- **a)
-** aux charges statiques suivantes :
+- **(2)** Lorsque l’attelage mentionné au paragraphe (1) comprend une seule composante, il doit pouvoir résister à la fois :
+	- **a)** aux charges statiques suivantes :
 		- **(i)** une charge de 800 kN appliquée dans la direction longitudinale,
 		- **(ii)** une charge de 80 kN appliquée dans la direction latérale;
-	- **b)
-** à un moment statique de 76,2 kN.m par rapport à l’axe longitudinal du chariot de conversion de type C.
+	- **b)** à un moment statique de 76,2 kN.m par rapport à l’axe longitudinal du chariot de conversion de type C.
 
-- **(3)** Lorsque l’attelage mentionné au paragraphe (1) comprend deux boules d’attelage distinctes, celles-ci doivent :
-	- **a)
-** être séparés latéralement par une distance de 762 mm ± 2 mm;
-	- **b)
-** être équidistantes de l’axe longitudinal de la remorque;
-	- **c)
-** avoir une hauteur de montage de 900 mm ± 10 mm, lorsque la remorque est vide;
-	- **d)
-** pouvoir résister chacune aux charges statiques suivantes :
+- **(3)** Lorsque l’attelage mentionné au paragraphe (1) comprend deux boules d’attelage distinctes, celles-ci doivent :
+	- **a)** être séparés latéralement par une distance de 762 mm ± 2 mm;
+	- **b)** être équidistantes de l’axe longitudinal de la remorque;
+	- **c)** avoir une hauteur de montage de 900 mm ± 10 mm, lorsque la remorque est vide;
+	- **d)** pouvoir résister chacune aux charges statiques suivantes :
 		- **(i)** une charge de 400 kN appliquée dans la direction longitudinale,
 		- **(ii)** une charge de 100 kN appliquée dans la direction verticale,
 		- **(iii)** une charge de 40 kN appliquée dans la direction latérale.
@@ -8247,14 +7608,11 @@ où :
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***bourrelet de protection*** Bande de protection s’étendant horizontalement le long des parois d’une remorque et destinée à offrir une protection contre le frottement. (*rub rail*)
+***bourrelet de protection*** Bande de protection s’étendant horizontalement le long des parois d’une remorque et destinée à offrir une protection contre le frottement. (*rub rail*) 
 
+***cloison*** Structure fixe ou amovible placée en travers de la remorque en vue de limiter le déplacement des chargements pendant le transport. (*bulkhead*) 
 
-***cloison*** Structure fixe ou amovible placée en travers de la remorque en vue de limiter le déplacement des chargements pendant le transport. (*bulkhead*)
-
-
-***dispositif d’ancrage des chargements*** Point de fixation ou de raccord sur une remorque, autre que la cloison ou le bourrelet de protection, auquel est fixé un dispositif d’arrimage. (*cargo anchoring device*)
-
+***dispositif d’ancrage des chargements*** Point de fixation ou de raccord sur une remorque, autre que la cloison ou le bourrelet de protection, auquel est fixé un dispositif d’arrimage. (*cargo anchoring device*) 
 
 - **(2)** Le présent article s’applique aux remorques, conçues pour transporter des chargements, qui ont un PNBV égal ou supérieur à 10 000 kg, sont constituées d’un châssis porteur et d’une plate-forme de chargement et n’ont ni toit ni côtés permanents, telles que les remorques plateaux, les remorques lourdes, les remorques de manutention, les remorques porte-engins surbaissées et les remorques avec plancher surbaissé.
 
@@ -8266,7 +7624,7 @@ où :
 - **N** représente le nombre minimal de dispositifs d’ancrage des chargements, arrondi au nombre entier supérieur pair,
 - **M** la capacité de charge de la remorque, exprimée en kilogrammes, laquelle correspond à la différence entre le poids nominal brut du véhicule et la masse à vide du véhicule.
 
-- **(4)** Les dispositifs d’ancrage des chargements de remorque, correspondant au nombre minimal visé au paragraphe (3), doivent, lorsqu’ils sont mis à l’essai conformément à la Méthode d’essai 905 - Dispositifs d’ancrage des chargements de remorque (août 1998), résister à une force d’au moins 67 000 N appliquée verticalement vers le haut.
+- **(4)** Les dispositifs d’ancrage des chargements de remorque, correspondant au nombre minimal visé au paragraphe (3), doivent, lorsqu’ils sont mis à l’essai conformément à la Méthode d’essai 905 - Dispositifs d’ancrage des chargements de remorque (août 1998), résister à une force d’au moins 67 000 N appliquée verticalement vers le haut.
 > DORS/98-595, art. 2..
 
 
@@ -8275,10 +7633,8 @@ où :
 ### Remorques pour motoneige (Norme 906)
 
 **906** Toute remorque pour motoneige doit être munie, à la fois :
-- **a)
-** d’une ou de plusieurs barres de fixation transversales placées de manière à pouvoir fixer les skis d’autant de motoneiges que la remorque peut transporter;
-- **b)
-** de points d’attache auxquels chacune de ces motoneiges peut être attachée par des cordes ou des courroies et qui sont d’une résistance suffisante pour supporter une force de 2224,11 N (500 lb) appliquée séparément sur chacun des points dans n’importe quelle direction.
+- **a)** d’une ou de plusieurs barres de fixation transversales placées de manière à pouvoir fixer les skis d’autant de motoneiges que la remorque peut transporter;
+- **b)** de points d’attache auxquels chacune de ces motoneiges peut être attachée par des cordes ou des courroies et qui sont d’une résistance suffisante pour supporter une force de 2224,11 N (500 lb) appliquée séparément sur chacun des points dans n’importe quelle direction.
 > DORS/2003-359, art. 4.
 
 
