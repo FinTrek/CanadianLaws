@@ -347,8 +347,8 @@ Enabling authorities:
 ### Obligation and Security Reports
 
 
-**23** Every month, each licensed grain dealer, primary elevator operator and process elevator operator shall submit to the Commission, on the appropriate form supplied by the Commission or in an electronic format acceptable to it, a report respecting the licensee’s outstanding obligations for the payment of money or the delivery of grain to holders of elevator receipts, grain receipts and cash purchase tickets and the security amount available to meet those obligations at the end of the preceding month.
-> SOR/84-627, s. 2; SOR/89-376, ss. 12(F), 16(F); SOR/89-395, s. 2(F); SOR/96-508, s. 16; SOR/2000-213, s. 2; SOR/2002-255, s. 7; SOR/2008-314, s. 1.
+**23** No later than the 15th day of every month, each licensed grain dealer, primary elevator operator and process elevator operator shall submit to the Commission, on the appropriate form supplied by the Commission or in an electronic format acceptable to it, a report respecting the licensee’s outstanding obligations for the payment of money or the delivery of grain to holders of elevator receipts, grain receipts and cash purchase tickets and the security amount available to meet those obligations at the end of the preceding month.
+> SOR/84-627, s. 2; SOR/89-376, ss. 12(F), 16(F); SOR/89-395, s. 2(F); SOR/96-508, s. 16; SOR/2000-213, s. 2; SOR/2002-255, s. 7; SOR/2008-314, s. 1; SOR/2016-256, s. 1.
 
 
 
@@ -452,12 +452,12 @@ Enabling authorities:
 - **(1)** Any contract between a producer and a licensee for the purchase of grain within a delivery period must include a provision stating that, in the event that delivery of the kind and grade of grain indicated in the contract is not accepted by the licensee during the delivery period, a penalty is to be paid by the licensee to the producer.
 
 - **(2)** The contract must also include provisions stating that the penalty
-	- **(a)** is agreed on by the producer and the licensee in the contract and is either
-		- **(i)** based on a daily amount, in which case it is payable for each day during the period beginning on the first day after the day on which the delivery period expires and ending on the day on which the total amount of grain specified in the contract is accepted and received by the licensee, or on another day otherwise agreed upon by the producer and the licensee; or
-		- **(ii)** a lump sum;
+	- **(a)** is agreed on by the producer and the licensee in the contract;
 	- **(b)** applies to the remaining undelivered portion of grain that was contracted for but that was not accepted by the licensee during the delivery period; and
 	- **(c)** is payable either at the time that the delivery of grain is completed by the producer or on another day otherwise agreed on by the producer and the licensee.
-> SOR/2014-191, s. 1.
+
+- **(3)** If the penalty agreed on by the producer and the licensee is based on a daily amount, the penalty is payable for each day during the period beginning on the first day after the day on which the delivery period expires and ending on the day on which the total amount of grain specified in the contract is accepted and received by the licensee, or on another day otherwise agreed on by the producer and the licensee.
+> SOR/2014-191, s. 1; SOR/2016-256, s. 2.
 
 
 
@@ -5272,10 +5272,409 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/87-476, S. 2; SOR/89-395, S. 2(F); SOR/2004-19
 
 
 ### **FORM 14** 
+**(Subsection 68(1))**
+<table>
+<h4>Application for Producer to Obtain Railway Cars / *Demande du producteur pour se procurer des wagons*</h4>
+<tr>
+<td>**Section A - Producer Identification (please print) / Partie A - Identité du producteur (en lettres moulées)**</td>
+</tr>
+<tr>
+<td>**Principal Producer / Producteur principal**</td>
+<td></td>
+<td>Producer Identification Number
 
-> Image: Application for producer to obtain railway cars
+*N<sup>o</sup> d’identification du producteur*
+
+</td>
+</tr>
+<tr>
+<td>Name / *Nom*</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Address / *Adresse*</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>City / *Ville*_________________________ Province </td>
+<td></td>
+<td>Primary Delivery Point / *Point de livraison primaire*</td>
+</tr>
+<tr>
+<td>Postal Code / *Code postal*_________________________</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Telephone / *Téléphone*_________________________Fax / *Télécopieur*</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Email / *courriel*_________________________</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**Secondary Producers / Producteurs secondaires**</td>
+</tr>
+<tr>
+<td>Name
+
+*Nom*
+
+</td>
+<td>1
+
+</td>
+<td>2
+
+</td>
+<td>3
+
+</td>
+<td>4
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Producer ID Number
+
+*N<sup>o</sup> d’identification du producteur*
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**Section B - Application (please print) / Partie B - Demande (en lettre moulées)**</td>
+</tr>
+<tr>
+<td>Grain</td>
+<td>Number of Cars Required
+
+*Nombre de wagons demandés*
+
+</td>
+<td></td>
+<td>Week Preferred for Shipment
+
+*Choix de semaine d’expédition*
+
+</td>
+<td></td>
+</tr>
+<tr>
+<td>Grade Estimate
+
+*Grade estimatif*
+
+</td>
+<td></td>
+</tr>
+<tr>
+<td>Protein Level
+
+*Teneur de protéines*
+
+</td>
+<td></td>
+</tr>
+<tr>
+<td>Placement of Car
+
+*Emplacement des wagons*
+
+</td>
+<td>Shipping Point and Railway
+
+*Point d’expédition et voie ferrée*
+
+</td>
+</tr>
+<tr>
+<td>Precise Siding and Placement on Siding
+
+*Voie de service et endroit précis sur la voie*
+
+</td>
+</tr>
+<tr>
+<td>Destination of Shipment
+
+*Destination de l’expédition*
+
+</td>
+<td>City
+
+*Ville*
+
+</td>
+<td>Elevator
+
+*Installation*
+
+</td>
+</tr>
+<tr>
+<td>**Section C - Declaration / Partie C - Déclaration**</td>
+</tr>
+<tr>
+<td>I, the undersigned, do hereby solemnly declare that
+
+**(a)** I am a producer as defined in the [Canada Grain Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-10.md);
 
 
+
+**(b)** all of the information contained in sections A and B of this application is true and correct;
+
+
+
+**(c)** the grain can and will be loaded into the car(s) applied for within the limitations of my contract;
+
+
+
+**(d)** if the siding named in section B is not a public siding, I have obtained the permission of the owner to use the siding;
+
+
+
+**(e)** I am prepared to load either box cars or hopper cars;
+
+
+
+**(f)** the car(s) will not be loaded through a licensed elevator;
+
+
+
+**(g)** the car(s) will be loaded by the time the railway returns to pick it (them) up;
+
+
+
+**(h)** I will complete and return a Canadian Grain Commission shipping report;
+
+
+
+**(i)** the origin of the grain is_________________________
+
+
+
+</td>
+<td>*Je soussigné déclare solennellement que :*
+
+**a)** *je suis un producteur au sens de la Loi sur les grains du Canada;*
+
+
+
+**b)** *tous les renseignements fournis dans les parties A et B de cette demande sont exacts et véridiques;*
+
+
+
+**c)** *le grain peut être chargé et sera chargé dans le(s) wagon(s) qui a (ont) été demandé(s) dans le cadre de mon contrat;*
+
+
+
+**d)** *dans le cas où la voie de service nommée à la partie B n’est pas une voie publique, j’ai obtenu la permission du propriétaire de m’en servir;*
+
+
+
+**e)** *je suis prêt à charger le grain dans un wagon couvert ou un wagon-trémie;*
+
+
+
+**f)** *le(s) wagon(s) ne sera (seront) pas chargé(s) par l’entremise d’une installation agréée;*
+
+
+
+**g)** *le chargement du (des) wagon(s) sera terminé au moment où la compagnie de chemin de fer viendra reprendre le(s) wagon(s);*
+
+
+
+**h)** *je remplirai et remettrai un rapport d’expédition de la Commission canadienne des grains;*
+
+
+
+**i)** *l’origine du grain est*_________________________
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+____________________
+Applicant’s Signature / Date
+
+</td>
+<td>
+____________________
+*Signature du demandeur / Date*
+
+</td>
+</tr>
+<tr>
+<td>**Section D - Administrator and Consignee / Partie D - Administrateur et consignataire**</td>
+</tr>
+<tr>
+<td>
+____________________
+Name of Administrator / *Nom de l’administrateur*
+
+</td>
+<td>
+____________________
+Name of Consignee / *Nom du consignataire*
+
+</td>
+</tr>
+<tr>
+<td>
+____________________
+Authorized Signature / *Signature autorisée*
+
+</td>
+<td>
+____________________
+Authorized Signature / *Signature autorisée*
+
+</td>
+</tr>
+<tr>
+<td>The information in this document is required by the Canadian Grain Commission for the purpose of allocating railway cars to grain producers. Some information may be accessible or protected under the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md). Information that could cause you or your organization harm if released is protected from disclosure under section 20 of the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md).
+
+</td>
+<td>*Les renseignements demandés dans la présente formule visent à permettre à la Commission canadienne des grains d’affecter des wagons de chemin de fer aux producteurs de grain. Certains renseignements peuvent être accessibles ou protégés aux termes de la Loi sur l’accès à l’information. Les renseignements dont la divulgation pourrait porter préjudice à vous ou à votre organisme sont protégés aux termes de l’article 20 de la Loi sur l’accès à l’information.*
+
+</td>
+</tr>
+</table>
 
 
 
@@ -5324,7 +5723,7 @@ _________________________&nbsp;&nbsp;&nbsp;&nbsp;_________________________
 DATED: _________________________
 
 
-> SOR/78-55, s. 7; SOR/82-881, s. 2; SOR/83-628, s. 4; SOR/83-758, s. 4; SOR/84-627, s. 5; SOR/87-476, s. 2; SOR/89-376, ss. 10 to 12(F), 14 to 18(F), 20(F); SOR/89-395, s. 2(F); SOR/93-24, ss. 8, 9; SOR/93-25, s. 7; SOR/96-508, ss. 57 to 60; SOR/2000-213, ss. 9 to 26; SOR/2001-273, ss. 32, 33; SOR/2003-284, s. 35; SOR/2004-198, ss. 37 to 41, 42(E), 43 to 46; SOR/2005-217, s. 3; SOR/2005-361, s. 14(E); SOR/2006-206, s. 7(F); SOR/2008-314, s. 8(E); SOR/2011-45, ss. 3, 4; SOR/2012-153, ss. 2 to 4; SOR/2013-111, ss. 18, 19, 20(F).
+> SOR/78-55, s. 7; SOR/82-881, s. 2; SOR/83-628, s. 4; SOR/83-758, s. 4; SOR/84-627, s. 5; SOR/87-476, s. 2; SOR/89-376, ss. 10 to 12(F), 14 to 18(F), 20(F); SOR/89-395, s. 2(F); SOR/93-24, ss. 8, 9; SOR/93-25, s. 7; SOR/96-508, ss. 57 to 60; SOR/2000-213, ss. 9 to 26; SOR/2001-273, ss. 32, 33; SOR/2003-284, s. 35; SOR/2004-198, ss. 37 to 41, 42(E), 43 to 46; SOR/2005-217, s. 3; SOR/2005-361, s. 14(E); SOR/2006-206, s. 7(F); SOR/2008-314, s. 8(E); SOR/2011-45, ss. 3, 4; SOR/2012-153, ss. 2 to 4; SOR/2013-111, ss. 18, 19, 20(F); SOR/2016-256, s. 3.
 
 
 
