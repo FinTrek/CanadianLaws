@@ -347,8 +347,8 @@ Autorités habilitantes :
 ### Rapports sur les obligations et la garantie
 
 
-**23** Le négociant en grains, l’exploitant d’installation primaire et l’exploitant d’installation de transformation titulaires d’une licence doivent présenter chaque mois à la Commission, sur une formule appropriée fournie par la Commission ou sur tout support électronique accepté par celle-ci, un rapport sur leurs obligations en cours visant le paiement ou la livraison de grain envers les détenteurs de récépissés, d’accusés de réception ou de bons de paiement et sur le montant de la garantie disponible pour satisfaire à ces obligations à la fin du mois précédent.
-> DORS/84-627, art. 2; DORS/89-376, art. 12(F) et 16(F); DORS/89-395, art. 2(F); DORS/96-508, art. 16; DORS/2000-213, art. 2; DORS/2002-255, art. 7; DORS/2008-314, art. 1.
+**23** Le négociant en grains, l’exploitant d’installation primaire et l’exploitant d’installation de transformation titulaires d’une licence doivent, au plus tard le 15<sup>e</sup> jour de chaque mois, présenter à la Commission, sur une formule appropriée fournie par la Commission ou sur tout support électronique accepté par celle-ci, un rapport sur leurs obligations en cours visant le paiement ou la livraison de grain envers les détenteurs de récépissés, d’accusés de réception ou de bons de paiement et sur le montant de la garantie disponible pour satisfaire à ces obligations à la fin du mois précédent.
+> DORS/84-627, art. 2; DORS/89-376, art. 12(F) et 16(F); DORS/89-395, art. 2(F); DORS/96-508, art. 16; DORS/2000-213, art. 2; DORS/2002-255, art. 7; DORS/2008-314, art. 1; DORS/2016-256, art. 1.
 
 
 
@@ -452,12 +452,12 @@ Autorités habilitantes :
 - **(1)** Tout contrat d’achat de grain pour une période de livraison conclu entre un titulaire de licence et un producteur prévoit une disposition stipulant que, dans le cas où la livraison de grain — du type et du grade indiqués dans le contrat — n’est pas acceptée par le titulaire de licence au cours de cette période, ce dernier est tenu de verser au producteur une pénalité.
 
 - **(2)** Le contrat prévoit également que la pénalité :
-	- **a)** est convenue dans le contrat entre le titulaire de licence et le producteur et est :
-		- **(i)** soit la somme à payer pour chacun des jours de la période commençant le lendemain de l’expiration de la période de livraison et se terminant à la date de l’acceptation et de la réception par le titulaire de licence de la quantité totale de grain indiquée au contrat ou à toute autre date convenue entre le producteur et le titulaire de licence,
-		- **(ii)** soit une somme forfaitaire;
+	- **a)** est convenue dans le contrat entre le titulaire de licence et le producteur;
 	- **b)** est due à l’égard de la portion restante et non livrée du grain visé par le contrat mais qui n’a pas été accepté par le titulaire de licence au cours de la période de livraison;
 	- **c)** est exigible à la date de la livraison complète du grain par le producteur ou à toute autre date convenue entre le producteur et le titulaire de licence.
-> DORS/2014-191, art. 1.
+
+- **(3)** Dans le cas où le titulaire de licence et le producteur conviennent d’une pénalité quotidienne, la pénalité est exigible pour chacun des jours de la période commençant le lendemain de l’expiration de la période de livraison et se terminant à la date de l’acceptation et de la réception par le titulaire de licence de la quantité totale de grain indiquée au contrat ou à toute autre date convenue entre le titulaire de licence et le producteur.
+> DORS/2014-191, art. 1; DORS/2016-256, art. 2.
 
 
 
@@ -5283,10 +5283,409 @@ CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/87-476, ART. 2; DORS/89-395, ART. 2(
 
 
 ### **FORMULE 14** 
+**(paragraphe 68(1))**
+<table>
+<h4>*Application for Producer to Obtain Railway Cars* / Demande du producteur pour se procurer des wagons</h4>
+<tr>
+<td>**Section A - Producer Identification (please print) / Partie A - Identité du producteur (en lettres moulées)**</td>
+</tr>
+<tr>
+<td>**Principal Producer / Producteur principal**</td>
+<td></td>
+<td>*Producer Identification Number*
 
-> Image: Demande du producteur pour se procurer des wagons
+N<sup>o</sup> d’identification du producteur
+
+</td>
+</tr>
+<tr>
+<td>*Name* / Nom</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>*Address* / Adresse</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>*City* / Ville_________________________ Province </td>
+<td></td>
+<td>*Primary Delivery Point* / Point de livraison primaire</td>
+</tr>
+<tr>
+<td>*Postal Code* / Code postal_________________________</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>*Telephone* / Téléphone_________________________*Fax* / Télécopieur</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>*Email* / courriel_________________________</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**Secondary Producers / Producteurs secondaires**</td>
+</tr>
+<tr>
+<td>*Name*
+
+Nom
+
+</td>
+<td>1
+
+</td>
+<td>2
+
+</td>
+<td>3
+
+</td>
+<td>4
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>*Producer ID Number*
+
+N<sup>o</sup> d’identification du producteur
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**Section B - Application (please print) / Partie B - Demande (en lettre moulées)**</td>
+</tr>
+<tr>
+<td>Grain</td>
+<td>*Number of Cars Required*
+
+Nombre de wagons demandés
+
+</td>
+<td></td>
+<td>*Week Preferred for Shipment*
+
+Choix de semaine d’expédition
+
+</td>
+<td></td>
+</tr>
+<tr>
+<td>*Grade Estimate*
+
+Grade estimatif
+
+</td>
+<td></td>
+</tr>
+<tr>
+<td>*Protein Level*
+
+Teneur de protéines
+
+</td>
+<td></td>
+</tr>
+<tr>
+<td>*Placement of Car*
+
+Emplacement des wagons
+
+</td>
+<td>*Shipping Point and Railway*
+
+Point d’expédition et voie ferrée
+
+</td>
+</tr>
+<tr>
+<td>*Precise Siding and Placement on Siding*
+
+Voie de service et endroit précis sur la voie
+
+</td>
+</tr>
+<tr>
+<td>*Destination of Shipment*
+
+Destination de l’expédition
+
+</td>
+<td>*City*
+
+Ville
+
+</td>
+<td>*Elevator*
+
+Installation
+
+</td>
+</tr>
+<tr>
+<td>**Section C - Declaration / Partie C - Déclaration**</td>
+</tr>
+<tr>
+<td>*I, the undersigned, do hereby solemnly declare that*
+
+**(a)** *I am a producer as defined in the Canada Grain Act;*
 
 
+
+**(b)** *all of the information contained in sections A and B of this application is true and correct;*
+
+
+
+**(c)** *the grain can and will be loaded into the car(s) applied for within the limitations of my contract;*
+
+
+
+**(d)** *if the siding named in section B is not a public siding, I have obtained the permission of the owner to use the siding;*
+
+
+
+**(e)** *I am prepared to load either box cars or hopper cars;*
+
+
+
+**(f)** *the car(s) will not be loaded through a licensed elevator;*
+
+
+
+**(g)** *the car(s) will be loaded by the time the railway returns to pick it (them) up;*
+
+
+
+**(h)** *I will complete and return a Canadian Grain Commission shipping report;*
+
+
+
+**(i)** *the origin of the grain is*_________________________
+
+
+
+</td>
+<td>Je soussigné déclare solennellement que :
+
+**a)** je suis un producteur au sens de la [Loi sur les grains du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-10.md);
+
+
+
+**b)** tous les renseignements fournis dans les parties A et B de cette demande sont exacts et véridiques;
+
+
+
+**c)** le grain peut être chargé et sera chargé dans le(s) wagon(s) qui a (ont) été demandé(s) dans le cadre de mon contrat;
+
+
+
+**d)** dans le cas où la voie de service nommée à la partie B n’est pas une voie publique, j’ai obtenu la permission du propriétaire de m’en servir;
+
+
+
+**e)** je suis prêt à charger le grain dans un wagon couvert ou un wagon-trémie;
+
+
+
+**f)** le(s) wagon(s) ne sera (seront) pas chargé(s) par l’entremise d’une installation agréée;
+
+
+
+**g)** le chargement du (des) wagon(s) sera terminé au moment où la compagnie de chemin de fer viendra reprendre le(s) wagon(s);
+
+
+
+**h)** je remplirai et remettrai un rapport d’expédition de la Commission canadienne des grains;
+
+
+
+**i)** l’origine du grain est_________________________
+
+
+
+</td>
+</tr>
+<tr>
+<td>
+____________________
+*Applicant’s Signature / Date*
+
+</td>
+<td>
+____________________
+Signature du demandeur / Date
+
+</td>
+</tr>
+<tr>
+<td>**Section D - Administrator and Consignee / Partie D - Administrateur et consignataire**</td>
+</tr>
+<tr>
+<td>
+____________________
+*Name of Administrator* / Nom de l’administrateur
+
+</td>
+<td>
+____________________
+*Name of Consignee* / Nom du consignataire
+
+</td>
+</tr>
+<tr>
+<td>
+____________________
+*Authorized Signature* / Signature autorisée
+
+</td>
+<td>
+____________________
+*Authorized Signature* / Signature autorisée
+
+</td>
+</tr>
+<tr>
+<td>*The information in this document is required by the Canadian Grain Commission for the purpose of allocating railway cars to grain producers. Some information may be accessible or protected under the Access to Information Act. Information that could cause you or your organization harm if released is protected from disclosure under section 20 of the Access to Information Act.*
+
+</td>
+<td>Les renseignements demandés dans la présente formule visent à permettre à la Commission canadienne des grains d’affecter des wagons de chemin de fer aux producteurs de grain. Certains renseignements peuvent être accessibles ou protégés aux termes de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md). Les renseignements dont la divulgation pourrait porter préjudice à vous ou à votre organisme sont protégés aux termes de l’article 20 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md).
+
+</td>
+</tr>
+</table>
 
 
 
@@ -5335,7 +5734,7 @@ _________________________&nbsp;&nbsp;&nbsp;&nbsp;_________________________
 DATE : _________________________
 
 
-> DORS/78-55, art. 7; DORS/82-881, art. 2; DORS/83-628, art. 4; DORS/83-758, art. 4; DORS/84-627, art. 5; DORS/87-476, art. 2; DORS/89-376, art. 10 à 12(F), 14 à 18(F) et 20(F); DORS/89-395, art. 2(F); DORS/93-24, art. 8 et 9; DORS/93-25, art. 7; DORS/96-508, art. 57 à 60; DORS/2000-213, art. 9 à 26; DORS/2001-273, art. 32 et 33; DORS/2003-284, art. 35; DORS/2004-198, art. 37 à 41, 42(A), 43 à 46; DORS/2005-217, art. 3; DORS/2005-361, art. 14(A); DORS/2006-206, art. 7(F); DORS/2008-314, art. 8(A); DORS/2011-45, art. 3 et 4; DORS/2012-153, art. 2 à 4; DORS/2013-111, art. 18, 19 et 20(F).
+> DORS/78-55, art. 7; DORS/82-881, art. 2; DORS/83-628, art. 4; DORS/83-758, art. 4; DORS/84-627, art. 5; DORS/87-476, art. 2; DORS/89-376, art. 10 à 12(F), 14 à 18(F) et 20(F); DORS/89-395, art. 2(F); DORS/93-24, art. 8 et 9; DORS/93-25, art. 7; DORS/96-508, art. 57 à 60; DORS/2000-213, art. 9 à 26; DORS/2001-273, art. 32 et 33; DORS/2003-284, art. 35; DORS/2004-198, art. 37 à 41, 42(A), 43 à 46; DORS/2005-217, art. 3; DORS/2005-361, art. 14(A); DORS/2006-206, art. 7(F); DORS/2008-314, art. 8(A); DORS/2011-45, art. 3 et 4; DORS/2012-153, art. 2 à 4; DORS/2013-111, art. 18, 19 et 20(F); DORS/2016-256, art. 3.
 
 
 
