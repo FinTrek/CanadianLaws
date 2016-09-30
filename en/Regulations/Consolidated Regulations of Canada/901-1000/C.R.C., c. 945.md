@@ -5258,23 +5258,23 @@ applicable in respect of the property.
 
 ***application for a certificate of completion***, in respect of a film or video production, means an application by a prescribed taxable Canadian corporation in respect of the production, filed with the Minister of Canadian Heritage before the day (in this Division referred to as “the production’s application deadline”) that is the later of
 - **(a)** the day that is 24 months after the end of the corporation’s taxation year in which the production’s principal photography began, or
-- **(b)** the day that is 18 months after the day referred to in paragraph (a), if the corporation has filed, with the Canada Revenue Agency, and provided to the Minister of Canadian Heritage a copy of, a waiver described in subparagraph 152(4)(a)(ii) of the Act, within the normal reassessment period for the corporation in respect of the first and second taxation years ending after the production’s principal photography began.
+- **(b)** the day that is 18 months after the day referred to in paragraph (a), if the corporation has filed, with the Canada Revenue Agency, and provided to the Minister of Canadian Heritage a copy of, a waiver described in subparagraph 152(4)(a)(ii) of the Act, within the normal reassessment period for the corporation in respect of the first and second taxation years ending after the production’s principal photography began. (*demande de certificat d’achèvement*)
 
-***Canadian*** means a person that is
+***Canadian*** means a person that is
 - **(a)** an individual who is
 	- **(i)** a citizen, as defined in subsection 2(1) of the [Citizenship Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-29.md), of Canada, or
 	- **(ii)** a permanent resident, as defined in subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md), or
-- **(b)** a corporation that is a Canadian-controlled entity, as determined under sections 26 to 28 of the [Investment Canada Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2028%20(1st%20Supp.).md).
+- **(b)** a corporation that is a Canadian-controlled entity, as determined under sections 26 to 28 of the [Investment Canada Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2028%20(1st%20Supp.).md). (*Canadien*)
 
-***Canadian government film agency*** means a federal or provincial government agency whose mandate is related to the provision of assistance to film productions in Canada.
+***Canadian government film agency*** means a federal or provincial government agency whose mandate is related to the provision of assistance to film productions in Canada. (*agence cinématographique d’État*)
 
-***certificate of completion***, in respect of a film or video production of a corporation, means a certificate certifying that the production has been completed, issued by the Minister of Canadian Heritage before the day (in this Division referred to as “the production’s certification deadline”) that is six months after the production’s application deadline.
+***certificate of completion***, in respect of a film or video production of a corporation, means a certificate certifying that the production has been completed, issued by the Minister of Canadian Heritage before the day (in this Division referred to as “the production’s certification deadline”) that is six months after the production’s application deadline. (*certificat d’achèvement*)
 
 ***copyright owner***, of a film or video production, at any time means 
 - **(a)** the maker, as defined in section 2 of the [Copyright Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-42.md), who at that time owns copyright, in relation to the production, within the meaning of section 3 of that Act; or
-- **(b)** a person to whom that copyright has been assigned, under an assignment described in section 13 of the [Copyright Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-42.md), either wholly or partially, by the maker or by another owner to whom this paragraph applied before the assignment.
+- **(b)** a person to whom that copyright has been assigned, under an assignment described in section 13 of the [Copyright Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-42.md), either wholly or partially, by the maker or by another owner to whom this paragraph applied before the assignment. (*titulaire du droit d’auteur*)
 
-***excluded production*** means a film or video production, of a particular corporation that is a prescribed taxable Canadian corporation,
+***excluded production*** means a film or video production, of a particular corporation that is a prescribed taxable Canadian corporation,
 - **(a)** in respect of which
 	- **(i)** the particular corporation has not filed an application for a certificate of completion before the production’s application deadline,
 	- **(ii)** a certificate of completion has not been issued before the production’s certification deadline,
@@ -5287,7 +5287,7 @@ applicable in respect of the property.
 	- **(v)** distribution is made in Canada within the 2-year period that begins at the earliest time after the production was completed that it is commercially exploitable by a person that is not a Canadian, or
 - **(b)** that is
 	- **(i)** news, current events or public affairs programming, or a programme that includes weather or market reports,
-	- **(ii)** a talk show,
+	- **(ii)** [Repealed, SOR/2016-262, s. 1]
 	- **(iii)** a production in respect of a game, questionnaire or contest (other than a production directed primarily at minors),
 	- **(iv)** a sports event or activity,
 	- **(v)** a gala presentation or an awards show,
@@ -5296,16 +5296,16 @@ applicable in respect of the property.
 	- **(viii)** pornography,
 	- **(ix)** advertising,
 	- **(x)** a production produced primarily for industrial, corporate or institutional purposes, or
-	- **(xi)** a production, other than a documentary, all or substantially all of which consists of stock footage.
+	- **(xi)** a production, other than a documentary, all or substantially all of which consists of stock footage. (*production exclue*)
 
-***producer*** means a producer of a film or video production, except that it does not include a person unless the person is the individual who
+***producer*** means a producer of a film or video production, except that it does not include a person unless the person is the individual who
 - **(a)** controls and is the central decision maker in respect of the production;
 - **(b)** is directly responsible for the acquisition of the production story or screenplay and the development, creative and financial control and exploitation of the production; and
-- **(c)** is identified in the production as being the producer of the production.
+- **(c)** is identified in the production as being the producer of the production. (*producteur*)
 
-***remuneration*** means remuneration other than an amount determined by reference to profits or revenues.
+***remuneration*** means remuneration other than an amount determined by reference to profits or revenues. (*rémunération*)
 
-***twinning arrangement*** means the pairing of two distinct film or video productions, one of which is a Canadian film or video production and the other of which is a foreign film or video production.
+***twinning arrangement*** means the pairing of two distinct film or video productions, one of which is a Canadian film or video production and the other of which is a foreign film or video production. (*convention de jumelage*)
 
 #### Prescribed Taxable Canadian Corporation
 
@@ -5410,7 +5410,7 @@ applicable in respect of the property.
 - **(12)** For the purpose of the definition ***copyright owner*** in subsection (1),
 	- **(a)** the right of a person to share in the revenues from or proceeds of disposition of an interest or, for civil law, a right, in a film or video production is not, in and by itself, an interest or right as a copyright owner of the production; and
 	- **(b)** for greater certainty, a grant of an exclusive licence, within the meaning assigned by the [Copyright Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-42.md), is not an assignment of a copyright.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2005-126, s. 3; SOR/2010-96, s. 2; 2013, c. 34, s. 385; SOR/2015-61, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2005-126, s. 3; SOR/2010-96, s. 2; 2013, c. 34, s. 385; SOR/2015-61, s. 1; SOR/2016-262, s. 1.
 
 
 
