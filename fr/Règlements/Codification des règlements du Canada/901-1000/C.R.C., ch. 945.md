@@ -5239,28 +5239,28 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente section et à l’alinéa x) de la catégorie 10 de l’annexe II.
 
-***agence cinématographique d’État*** Agence fédérale ou provinciale dont le mandat est lié à l’octroi d’aide à la réalisation de productions cinématographiques au Canada.
+***agence cinématographique d’État*** Agence fédérale ou provinciale dont le mandat est lié à l’octroi d’aide à la réalisation de productions cinématographiques au Canada. (*Canadian government film agency*)
 
 ***Canadien***
 - **a)** Particulier qui est, selon le cas :
 	- **(i)** un citoyen au sens du paragraphe 2(1) de la [Loi sur la citoyenneté](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-29.md),
 	- **(ii)** un résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md);
-- **b)** société qui est une unité sous contrôle canadien, selon ce qui est prévu aux articles 26 à 28 de la [Loi sur Investissement Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2028%20(1er%20suppl.).md).
+- **b)** société qui est une unité sous contrôle canadien, selon ce qui est prévu aux articles 26 à 28 de la [Loi sur Investissement Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2028%20(1er%20suppl.).md). (*Canadian*)
 
-***certificat d’achèvement*** Certificat attestant l’achèvement d’une production cinématographique ou magnétoscopique d’une société, délivré par le ministre du Patrimoine canadien avant le jour (appelé « date limite d’attestation de la production » à la présente section) qui suit de six mois la date limite de demande relative à la production.
+***certificat d’achèvement*** Certificat attestant l’achèvement d’une production cinématographique ou magnétoscopique d’une société, délivré par le ministre du Patrimoine canadien avant le jour (appelé « date limite d’attestation de la production » à la présente section) qui suit de six mois la date limite de demande relative à la production. (*certificate of completion*)
 
-***convention de jumelage*** Convention qui consiste à réunir deux productions cinématographiques ou magnétoscopiques distinctes, l’une canadienne et l’autre étrangère.
+***convention de jumelage*** Convention qui consiste à réunir deux productions cinématographiques ou magnétoscopiques distinctes, l’une canadienne et l’autre étrangère. (*twinning arrangement*)
 
-***demande de certificat d’achèvement*** Demande relative à une production cinématographique ou magnétoscopique qu’une société canadienne imposable visée présente au ministre du Patrimoine canadien avant le jour (appelé « date limite de demande relative à la production » à la présente section) qui correspond au dernier en date des jours suivants :
+***demande de certificat d’achèvement*** Demande relative à une production cinématographique ou magnétoscopique qu’une société canadienne imposable visée présente au ministre du Patrimoine canadien avant le jour (appelé « date limite de demande relative à la production » à la présente section) qui correspond au dernier en date des jours suivants :
 - **a)** le jour qui suit de 24 mois la fin de l’année d’imposition de la société au cours de laquelle ont débuté les principaux travaux de prise de vue relatifs à la production;
-- **b)** le jour qui suit de 18 mois le jour visé à l’alinéa a), si la société a présenté à l’Agence du revenu du Canada la renonciation visée au sous-alinéa 152(4)a)(ii) de la Loi — et en a fourni une copie au ministre du Patrimoine canadien — au cours de la période normale de nouvelle cotisation qui lui est applicable pour les première et deuxième années d’imposition se terminant après le début des principaux travaux de prise de vue relatifs à la production.
+- **b)** le jour qui suit de 18 mois le jour visé à l’alinéa a), si la société a présenté à l’Agence du revenu du Canada la renonciation visée au sous-alinéa 152(4)a)(ii) de la Loi — et en a fourni une copie au ministre du Patrimoine canadien — au cours de la période normale de nouvelle cotisation qui lui est applicable pour les première et deuxième années d’imposition se terminant après le début des principaux travaux de prise de vue relatifs à la production. (*application for a certificate of completion*)
 
-***producteur*** Est le producteur d’une production cinématographique ou magnétoscopique le particulier qui, à la fois :
+***producteur*** Est le producteur d’une production cinématographique ou magnétoscopique le particulier qui, à la fois :
 - **a)** contrôle la production et en est le principal décideur;
 - **b)** est directement responsable de l’acquisition de l’intrigue ou du scénario de la production ainsi que de l’élaboration, du contrôle créatif et financier et de l’exploitation de la production;
-- **c)** est identifié dans la production comme en étant le producteur.
+- **c)** est identifié dans la production comme en étant le producteur. (*producer*)
 
-***production exclue*** Production cinématographique ou magnétoscopique d’une société canadienne imposable visée (appelée « société donnée » à la présente définition), qui, selon le cas :
+***production exclue*** Production cinématographique ou magnétoscopique d’une société canadienne imposable visée (appelée « société donnée » à la présente définition), qui, selon le cas :
 - **a)** est une production à l’égard de laquelle l’un des faits suivants se vérifie :
 	- **(i)** la société donnée n’a pas présenté de demande de certificat d’achèvement la concernant avant la date limite de demande relative à la production,
 	- **(ii)** aucun certificat d’achèvement la concernant n’a été délivré avant la date limite d’attestation de la production,
@@ -5273,7 +5273,7 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 	- **(v)** la production a été distribuée au Canada au cours de la période de deux ans qui commence dès qu’elle est exploitable commercialement, après son achèvement, par une personne qui n’a pas la qualité de Canadien;
 - **b)** est une production qui est, selon le cas :
 	- **(i)** une émission d’information, d’actualités ou d’affaires publiques ou une émission qui comprend des bulletins sur la météo ou les marchés boursiers,
-	- **(ii)** une interview-variétés,
+	- **(ii)** [Abrogé, DORS/2016-262, art. 1]
 	- **(iii)** une production comportant un jeu, un questionnaire ou un concours, sauf celle qui s’adresse principalement aux personnes mineures,
 	- **(iv)** la présentation d’une activité ou d’un événement sportif,
 	- **(v)** la présentation d’un gala ou d’une remise de prix,
@@ -5282,13 +5282,13 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 	- **(viii)** de la pornographie,
 	- **(ix)** de la publicité,
 	- **(x)** une production produite principalement à des fins industrielles ou institutionnelles,
-	- **(xi)** une production, sauf un documentaire, qui consiste en totalité ou en presque totalité en métrage d’archives.
+	- **(xi)** une production, sauf un documentaire, qui consiste en totalité ou en presque totalité en métrage d’archives. (*excluded production*)
 
-***rémunération*** Sont exclues de la rémunération les sommes déterminées en fonction des bénéfices ou des recettes.
+***rémunération*** Sont exclues de la rémunération les sommes déterminées en fonction des bénéfices ou des recettes. (*remuneration*)
 
-***titulaire du droit d’auteur*** Est titulaire du droit d’auteur sur une production cinématographique ou magnétoscopique à un moment donné :
+***titulaire du droit d’auteur*** Est titulaire du droit d’auteur sur une production cinématographique ou magnétoscopique à un moment donné :
 - **a)** le producteur, au sens de l’article 2 de la [Loi sur le droit d’auteur](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-42.md), qui, à ce moment, est titulaire du droit d’auteur, au sens de l’article 3 de cette loi, relativement à la production;
-- **b)** toute personne à laquelle ce droit d’auteur a été cédé en totalité ou en partie, dans le cadre d’une cession visée à l’article 13 de la [Loi sur le droit d’auteur](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-42.md), par le producteur ou par un autre titulaire auquel le présent alinéa s’appliquait avant la cession.
+- **b)** toute personne à laquelle ce droit d’auteur a été cédé en totalité ou en partie, dans le cadre d’une cession visée à l’article 13 de la [Loi sur le droit d’auteur](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-42.md), par le producteur ou par un autre titulaire auquel le présent alinéa s’appliquait avant la cession. (*copyright owner*)
 
 #### Société canadienne imposable visée
 
@@ -5393,7 +5393,7 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 - **(12)** Pour l’application de la définition de ***titulaire du droit d’auteur*** au paragraphe (1) :
 	- **a)** le droit d’une personne de recevoir une partie des revenus provenant d’une production cinématographique ou magnétoscopique ou une partie du produit de disposition d’un intérêt ou, pour l’application du droit civil, d’un droit sur une telle production ne constitue pas en soi un intérêt ou un droit à titre de titulaire du droit d’auteur sur la production;
 	- **b)** il est entendu que la concession d’une licence exclusive, au sens de la [Loi sur le droit d’auteur](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-42.md), ne constitue pas une cession du droit d’auteur.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2005-126, art. 3; DORS/2010-96, art. 2; 2013, ch. 34, art. 385; DORS/2015-61, art. 1.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2005-126, art. 3; DORS/2010-96, art. 2; 2013, ch. 34, art. 385; DORS/2015-61, art. 1; DORS/2016-262, art. 1.
 
 
 
