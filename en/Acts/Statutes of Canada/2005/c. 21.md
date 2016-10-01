@@ -433,13 +433,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **19** 
 
-- **(1)** Subject to the regulations, the monthly amount of the earnings loss benefit under section 
-18 that is payable to a veteran shall be determined in accordance with the formula
+- **(1)** Subject to the regulations, the monthly amount of the earnings loss benefit under section 18 that is payable to a veteran shall be determined in accordance with the formula
 ```
 A - B
 ```
 where
-- **A** is 75% of the veteran’s imputed income for a month; and
+- **A** is 90% of the veteran’s imputed income for a month; and
 - **B** is an amount that is payable to the veteran for a month from prescribed sources.
 
 **Regulations**
@@ -449,6 +448,8 @@ where
 	- **(b)** prescribing a minimum or a maximum amount of imputed income in respect of a class of veterans;
 	- **(c)** providing for the periodic adjustment of the value of A and B in subsection (1); and
 	- **(d)** respecting the determination, for the purpose of the value of B in subsection (1), of an amount payable to a veteran for a month.
+> 2005, c. 21, s. 19; 2016, c. 7, s. 82.
+
 
 
 
@@ -499,7 +500,7 @@ where
 
 **23** 
 
-- **(1)** Subject to the regulations, the monthly amount of an earnings loss benefit under section 22 that is payable in respect of a member or a veteran is 75% of the member’s or veteran’s imputed income for a month.
+- **(1)** Subject to the regulations, the monthly amount of an earnings loss benefit under section 22 that is payable in respect of a member or a veteran is 90% of the member’s or veteran’s imputed income for a month.
 
 **Division of benefit**
 
@@ -523,6 +524,8 @@ where
 	- **(b)** prescribing a minimum or a maximum amount of imputed income in respect of a class of members or veterans;
 	- **(c)** providing for the periodic adjustment of an earnings loss benefit calculated in accordance with subsection (1) and an amount determined for the purposes of subsection (3); and
 	- **(d)** respecting the determination, for the purpose of subsection (3), of an amount payable to a survivor for a month.
+> 2005, c. 21, s. 23; 2016, c. 7, s. 84.
+
 
 
 
