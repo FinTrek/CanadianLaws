@@ -425,7 +425,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 A - B
 ```
 où :
-- **A** représente soixante-quinze pour cent du revenu attribué du vétéran pour un mois;
+- **A** représente quatre-vingt-dix pour cent du revenu attribué du vétéran pour un mois;
 - **B** toute somme exigible d’une source réglementaire par le vétéran pour un mois.
 
 **Règlements**
@@ -435,6 +435,8 @@ où :
 	- **b)** prévoyant les montants maximum et minimum du revenu attribué à l’égard d’une catégorie de vétérans;
 	- **c)** prévoyant le rajustement périodique de la valeur des éléments A et B de la formule figurant au paragraphe (1);
 	- **d)** régissant la détermination, pour l’application de l’élément B de cette formule, de toute somme exigible par le vétéran pour un mois.
+> 2005, ch. 21, art. 19; 2016, ch. 7, art. 82.
+
 
 
 
@@ -482,7 +484,7 @@ où :
 
 **23** 
 
-- **(1)** Sous réserve des règlements, le montant de l’allocation pour perte de revenus exigible mensuellement au titre de l’article 22 correspond à soixante-quinze pour cent du revenu attribué du militaire ou vétéran pour un mois.
+- **(1)** Sous réserve des règlements, le montant de l’allocation pour perte de revenus exigible mensuellement au titre de l’article 22 correspond à quatre-vingt-dix pour cent du revenu attribué du militaire ou vétéran pour un mois.
 
 **Répartition de l’allocation**
 
@@ -506,6 +508,8 @@ où :
 	- **b)** prévoyant les montants maximum et minimum du revenu attribué à l’égard d’une catégorie de militaires ou vétérans;
 	- **c)** prévoyant le rajustement périodique du montant de l’allocation visé au paragraphe (1) et de la somme visée au paragraphe (3);
 	- **d)** régissant la détermination, pour l’application du paragraphe (3), de toute somme exigible par le survivant pour un mois.
+> 2005, ch. 21, art. 23; 2016, ch. 7, art. 84.
+
 
 
 
