@@ -5825,7 +5825,10 @@ to the extent that the expense exceeds the least of amounts, each of which was t
 	- **(v)** in respect of the performance of the service, or
 	- **(vi)** in respect of the materials, parts or supplies; (*frais généraux d’exploration et d’aménagement au Canada*)
 
-***Canadian oil and gas exploration expense*** of a taxpayer means an outlay or expense made or incurred after 1980 that would be a Canadian exploration expense of the taxpayer within the meaning assigned by paragraph 66.1(6)(a) of the Act if that paragraph were read without reference to subparagraphs (iii) and (iii.1) thereof and if the reference in subparagraphs (iv) and (v) thereof to “any of subparagraphs (i) to (iii.1)” were read as a reference to “any of subparagraphs (i) to (ii.2)”, other than an outlay or expense that was a Canadian exploration expense by virtue of clause 66.1(6)(a)(ii)(B) or (ii.1)(B) of the Act that was in respect of a qualified tertiary oil recovery project; (*frais d’exploration pétrolière et gazière au Canada*)
+***Canadian oil and gas exploration expense***, of a taxpayer, means an outlay or expense that is made or incurred after 1980 and that would be a Canadian exploration expense, as defined in subsection 66.1(6) of the Act, of the taxpayer (other than an outlay or expense in respect of a qualified tertiary oil recovery project that is a Canadian exploration expense of the taxpayer because of subparagraph (c)(ii) or (d)(ii) of that definition) if
+- **(a)** that definition were read without reference to its paragraphs (f) to (g.4),
+- **(b)** the reference in paragraph (h) of that definition to “any of paragraphs (a) to (d) and (f) to (g.4)” were read as “any of paragraphs (a) to (e)”, and
+- **(c)** the reference in paragraph (i) of that definition to “any of paragraphs (a) to (g)” were read as “any of paragraphs (a) to (e)”; (*frais d’exploration pétrolière et gazière au Canada*)
 
 ***coal mine operator*** means a person who undertakes all or substantially all of the activities involved in the production of coal from a resource; (*exploitant de mine de charbon*)
 
@@ -6029,7 +6032,7 @@ that the number of days in the taxation year during which the property was owned
 	- **(c)** a corporation, a commission or an association that is controlled by Her Majesty in right of Canada or of a province or by an agent of Her Majesty in right of Canada or of a province.
 
 - **(9)** [Repealed, SOR/2007-19, s. 4]
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ;  SOR/79-245, s. 5; SOR/80-418, s. 4; SOR/81-974, s. 7; SOR/85-174, s. 7; SOR/86-1092, s. 8; SOR/88-423, s. 1; SOR/90-113, s. 5; SOR/90-733, s. 4; SOR/91-79, s. 7; SOR/92-681, s. 3; SOR/94-686, ss. 12(F), 48, 58(F), 68(F), 78(F), 79(F), 81(F); SOR/96-199, s. 2; SOR/96-451, s. 4; SOR/99-179, s. 7; SOR/2000-327, s. 3; SOR/2007-19, s. 4.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-245, s. 5; SOR/80-418, s. 4; SOR/81-974, s. 7; SOR/85-174, s. 7; SOR/86-1092, s. 8; SOR/88-423, s. 1; SOR/90-113, s. 5; SOR/90-733, s. 4; SOR/91-79, s. 7; SOR/92-681, s. 3; SOR/94-686, ss. 12(F), 48, 58(F), 68(F), 78(F), 79(F), 81(F); SOR/96-199, s. 2; SOR/96-451, s. 4; SOR/99-179, s. 7; SOR/2000-327, s. 3; SOR/2007-19, s. 4; SOR/2016-276, s. 1.
 
 
 
