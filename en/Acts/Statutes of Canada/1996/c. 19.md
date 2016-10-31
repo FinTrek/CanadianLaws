@@ -1898,7 +1898,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **21** 2–Methylamino–1–phenyl–1–propanone and any salt thereof
 - **22** 1–[1–(Phenylmethyl)cyclohexyl]piperidine and any salt thereof
 - **23** 1–[1–(4–Methylphenyl)cyclohexyl]piperidine and any salt thereof
-- **24** 4–bromo–2,5–dimethoxybenzeneethanamine and any salt, isomer or salt of isomer thereof
+- **24** [Repealed, SOR/2016-73, s. 1]
 - **25 and 26** [Repealed, 2012, c. 1, s. 46]
 - **27** Aminorex (4,5-dihydro-5-phenyl-2-oxazolamine) and any salt thereof
 - **28** Etryptamine (3-(2-aminobutyl)indole) and any salt thereof
@@ -1908,7 +1908,13 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **32** Amineptine (7-[(10,11-dihydro-5H-dibenzo[a,d]cyclohepten-5-yl)amino]heptanoic acid) and any salt thereof
 - **33** Benzylpiperazine [BZP], namely 1-benzylpiperazine and its salts, isomers and salts of isomers
 - **34** Trifluoromethylphenylpiperazine [TFMPP], namely 1-(3-trifluoromethylphenyl)piperazine and its salts, isomers and salts of isomers
-> 1996, c. 19, Sch. III; SOR/97-230, ss. 7 to 10; SOR/98-173, s. 1; SOR/2000-220, s. 1; SOR/2003-32, ss. 2, 3, 4(F), 5; SOR/2003-412; SOR/2005-235, s. 2; 2012, c. 1, ss. 45, 46; SOR/2012-66.
+- **35** 2C-phenethylamines and their salts, derivatives, isomers and salts of derivatives and isomers that correspond to the following chemical description :
+- any substance that has a 1-amino-2-phenylethane structure substituted at the 2’ and 5’ or 2’ and 6’ positions of the benzene ring by an alkoxy or haloalkoxy group, or substituted at two adjacent carbon atoms of the benzene ring which results in the formation of a furan, dihydrofuran, pyran, dihydropyran or methylenedioxy group — whether or not further substituted on the benzene ring to any extent, whether or not substituted at the amino group by one or two, or a combination of, methyl, ethyl, propyl, isopropyl, hydroxyl, benzyl (or benzyl substituted to any extent) or benzylene (or benzylene substituted to any extent) groups and whether or not substituted at the 2-ethyl (beta carbon) position by a hydroxyl, oxo or alkoxy group — and its salts and derivatives and salts of derivatives, including
+- **(1)** 4-bromo-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine (25B-NBOMe)
+- **(2)** 4-chloro-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine (25C-NBOMe)
+- **(3)** 4-iodo-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine (25I-NBOMe)
+- **(4)** 4-bromo-2,5-dimethoxybenzeneethanamine (2C-B)
+> 1996, c. 19, Sch. III; SOR/97-230, ss. 7 to 10; SOR/98-173, s. 1; SOR/2000-220, s. 1; SOR/2003-32, ss. 2, 3, 4(F), 5; SOR/2003-412; SOR/2005-235, s. 2; 2012, c. 1, ss. 45, 46; SOR/2012-66; SOR/2016-73.
 
 
 
