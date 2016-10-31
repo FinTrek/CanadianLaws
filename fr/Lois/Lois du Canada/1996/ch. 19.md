@@ -1863,7 +1863,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **21** Méthylamino–2 phényl–1 propanone–1 et ses sels
 - **22** [Cyclohexyl (phénylméthyl)–1] pipéridine–1 et ses sels
 - **23** [Cyclohexyl (méthyl–4 phényl)–1] pipéridine–1 et ses sels
-- **24** bromo–4 diméthoxy–2,5 benzèneéthanamine, ses sels, isomères et sels d’isomères
+- **24** [Abrogé, DORS/2016-73, art. 1]
 - **25 et 26** [Abrogés, 2012, ch. 1 art. 46]
 - **27** Aminorex (dihydro-4,5 phényl-5 oxazolamine-2) et ses sels
 - **28** Étryptamine ((amino-2 butyl)-3 indole) et ses sels
@@ -1873,7 +1873,13 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **32** Amineptine [(dihydro-10,11 5H-dibenzo[a,d]cycloheptenyl-5) amino]-7 heptanoïque et ses sels
 - **33** Benzylpipérazine [BZP], à savoir 1-benzylpipérazine et ses sels, isomères et sels d’isomères
 - **34** Trifluorométhylphénylpipérazine [TFMPP], à savoir 1-(3-trifluorométhylphényl)pipérazine et ses sels, isomères et sels d’isomères
-> 1996, ch. 19, ann. III; DORS/97-230, art. 7 à 10; DORS/98-173, art. 1; DORS/2000-220, art. 1; DORS/2003-32, art. 2, 3, 4(F) et 5; DORS/2003-412; DORS/2005-235, art. 2; 2012, ch. 1, art. 45 et 46; DORS/2012-66.
+- **35** Les 2C-phénéthylamines, leurs sels, dérivés et isomères, ainsi que les sels de leurs dérivés et isomères, qui répondent à la description chimique suivante :
+- toute substance ayant une structure 1-amino-2-phényléthane substituée en positions 2’ et 5’ ou 2’ et 6’ du cycle benzénique par un groupe alcoxy ou halogénoalcoxy, ou substituée à deux atomes de carbone adjacents du cycle benzénique de façon à entraîner la formation d’un groupe furane, dihydrofurane, pyrane, dihydropyrane ou méthylènedioxy — qu’il y ait ou non davantage de substitution sur le cycle benzénique dans quelque mesure que ce soit, qu’il y ait ou non substitution au groupe amino par un ou deux groupes méthyle, éthyle, propyle, isopropyle, hydroxyle, benzyle (ou benzyle substitué dans quelque mesure que ce soit) ou benzylène (ou benzylène substitué dans quelque mesure que ce soit) ou par une combinaison de ceux-ci, et qu’il y ait ou non substitution en position 2-éthyle (carbone bêta) par un groupe hydroxyle, oxo ou alcoxy —, les sels et dérivés de cette substance ainsi que les sels de ses dérivés, notamment :
+- **(1)** 4-bromo-2,5-diméthoxy-N-(2-méthoxybenzyle)phénéthylamine (25B-NBOMe)
+- **(2)** 4-chloro-2,5-diméthoxy-N-(2-méthoxybenzyle)phénéthylamine (25C-NBOMe)
+- **(3)** 4-iodo-2,5-diméthoxy-N-(2-méthoxybenzyle)phénéthylamine (25I-NBOMe)
+- **(4)** 4-bromo-2,5-diméthoxybenzèneéthanamine (2C-B)
+> 1996, ch. 19, ann. III; DORS/97-230, art. 7 à 10; DORS/98-173, art. 1; DORS/2000-220, art. 1; DORS/2003-32, art. 2, 3, 4(F) et 5; DORS/2003-412; DORS/2005-235, art. 2; 2012, ch. 1, art. 45 et 46; DORS/2012-66; DORS/2016-73.
 
 
 
