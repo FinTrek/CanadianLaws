@@ -34995,12 +34995,18 @@ the Minister may issue a registration number for the test kit, which shall be a 
 - **21** Trifluoromethylphenylpiperazine [TFMPP], namely 1-(3-trifluoromethylphenyl)piperazine and its salts, isomers and salts of isomers
 - **22** Methylenedioxypyrovalerone (MDPV), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues
 - **23** [Repealed, SOR/2016-239, s. 1]
+- **24** 2C-phenethylamines and their salts, derivatives, isomers and salts of derivatives and isomers that correspond to the following chemical description:
+- any substance that has a 1-amino-2-phenylethane structure substituted at the 2’ and 5’ or 2’ and 6’ positions of the benzene ring by an alkoxy or haloalkoxy group, or substituted at two adjacent carbon atoms of the benzene ring which results in the formation of a furan, dihydrofuran, pyran, dihydropyran or methylenedioxy group — whether or not further substituted on the benzene ring to any extent, whether or not substituted at the amino group by one or two, or a combination of, methyl, ethyl, propyl, isopropyl, hydroxyl, benzyl (or benzyl substituted to any extent) or benzylene (or benzylene substituted to any extent) groups and whether or not substituted at the 2-ethyl (beta carbon) position by a hydroxyl, oxo or alkoxy group — and its salts and derivatives and salts of derivatives, including
+- **(1)** 4-bromo-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine (25B-NBOMe)
+- **(2)** 4-chloro-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine (25C-NBOMe)
+- **(3)** 4-iodo-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine (25I-NBOMe)
+- **(4)** 4-bromo-2,5-dimethoxybenzeneethanamine (2C-B)
 
 **PART II** 
 
 - **1** Salvia divinorum (S. divinorum), its preparations and derivatives, including:
 - **(1)** Salvinorin A ((2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acetyloxy)-2-(3-furanyl)dodecahydro-6a,10b-dimethyl-4,10-dioxo-2H-naphtho[2,1-c]pyran-7-carboxylic acid methyl ester)
-> SOR/97-228, s. 25; SOR/2003-34, ss. 4, 5; SOR/2012-65, s. 1; SOR/2012-177, s. 1; SOR/2013-172, s. 2; SOR/2015-210, ss. 4 to 6; SOR/2016-239, s. 1.
+> SOR/97-228, s. 25; SOR/2003-34, ss. 4, 5; SOR/2012-65, s. 1; SOR/2012-177, s. 1; SOR/2013-172, s. 2; SOR/2015-210, ss. 4 to 6; SOR/2016-72, s. 1; SOR/2016-239, s. 1.
 
 
 
