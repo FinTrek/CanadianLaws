@@ -728,9 +728,11 @@ Sont visés par la présente définition les musées. (*business*)
 
 - **(1)** Dès qu’il est informé d’un projet de cession d’une arme à feu, le directeur peut délivrer un nouveau certificat d’enregistrement de celle-ci conformément à la présente loi; le cas échéant, il révoque celui dont le cédant est titulaire.
 
-**Sa Majesté et les forces policières**
+**Cession d’arme à feu à Sa Majesté, à une force policière ou à une municipalité**
 
-- **(2)** Dès qu’il est informé de la cession d’une arme à feu à Sa Majesté du chef du Canada ou d’une province ou aux forces policières, le directeur révoque le certificat d’enregistrement y afférent.
+- **(2)** Dès qu’il est informé de la cession d’une arme à feu à Sa Majesté du chef du Canada ou d’une province, à une force policière ou à une municipalité, le directeur révoque le certificat d’enregistrement y afférent.
+> 1995, ch. 39, art. 31; 2003, ch. 8, art. 23
+
 
 
 
