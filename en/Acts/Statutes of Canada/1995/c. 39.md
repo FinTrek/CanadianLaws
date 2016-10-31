@@ -752,9 +752,11 @@ was continuously the holder of a registration certificate for one or more of tho
 	- **(a)** issue a new registration certificate for the firearm in accordance with this Act; and
 	- **(b)** revoke any registration certificate for the firearm held by the transferor.
 
-**Transfers of firearms to the Crown and to the police**
+**Transfers of firearms to the Crown, etc.**
 
-- **(2)** On being informed of a transfer of a firearm to Her Majesty in right of Canada or a province or to a police force, the Registrar shall revoke any registration certificate for the firearm.
+- **(2)** On being informed of a transfer of a firearm to Her Majesty in right of Canada or a province, to a police force or to a municipality, the Registrar shall revoke any registration certificate for the firearm.
+> 1995, c. 39, s. 31; 2003, c. 8, s. 23
+
 
 
 
