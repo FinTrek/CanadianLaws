@@ -418,15 +418,19 @@ si cette personne revient au Canada dans un délai de six mois après la fin de 
 	- **c)** d’une personne visée au paragraphe (5.2) qui réside au Canada et est assujettie aux lois d’un pays autre que le Canada,
 s’entend de son père, de sa mère, de son frère, de sa soeur, de son enfant ou de l’enfant dont elle a la garde à titre de parent nourricier, de même que du père, de la mère ou de l’enfant de son époux ou son conjoint de fait, selon le cas, ou encore de l’enfant dont son époux ou son conjoint de fait a la garde à titre de parent nourricier.
 
-- **(8)** Pour l’application de l’article 4.1 de la Loi en ce qui concerne la condition prévue au sous-alinéa 3(1)c)(iii) de la Loi, les renseignements sont ceux indiquant que, pendant tout ou partie de chaque année au cours d’une période d’au moins quarante ans :
-	- **a)** soit la personne a cumulé, au titre du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), des gains non ajustés ouvrant droit à pension supérieurs à son exemption de base pour l’année ou au titre de la Loi sur le régime des rentes du Québec, L.R.Q., ch. R-9, des gains admissibles non ajustés supérieurs à son exemption personnelle pour l’année;
-	- **b)** soit la personne a reçu une pension de retraite ou une pension d’invalidité au titre du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou une rente de retraite ou une rente d’invalidité au titre de la Loi sur le régime des rentes du Québec, L.R.Q., ch. R-9;
-	- **c)** soit au titre du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), une période a été exclue de la période cotisable de la personne du fait qu’elle était bénéficiaire d’une allocation familiale ou au titre de la Loi sur le régime des rentes du Québec L.R.Q., ch. R-9, une période a été exclue de la période cotisable de la personne du fait qu’elle était une personne qui recevait des prestations familiales.
+- **(8)** Pour l’application de l’article 4.1 de la Loi en ce qui concerne la condition prévue au sous-alinéa 3(1)c)(iii) de la Loi, les renseignements prévus sont les suivants :
+	- **a)** dans le cas où la personne reçoit une pension de retraite, d’invalidité ou de survivant au titre du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou une rente de retraite, d’invalidité ou de conjoint survivant au titre de la Loi sur le régime de rentes du Québec, RLRQ, ch. R-9, ou dans le cas où le versement d’une telle pension ou rente à la personne a été approuvé, les renseignements indiquant que, pendant tout ou partie de chaque année au cours d’une période d’au moins quarante ans :
+		- **(i)** soit elle a cumulé, au titre du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), des gains non ajustés ouvrant droit à pension supérieurs à son exemption de base pour l’année ou, au titre de la Loi sur le régime de rentes du Québec, des gains admissibles non ajustés supérieurs à son exemption personnelle pour l’année,
+		- **(ii)** soit elle a reçu une pension de retraite ou d’invalidité au titre du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou une rente de retraite ou d’invalidité au titre de la Loi sur le régime de rentes du Québec,
+		- **(iii)** soit, au titre du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), une période a été exclue de la période cotisable de la personne du fait qu’elle était bénéficiaire d’une allocation familiale ou, au titre de la Loi sur le régime de rentes du Québec, une période a été exclue de la période cotisable de la personne du fait qu’elle était une personne qui recevait des prestations familiales;
+	- **b)** dans le cas où la personne ne reçoit pas une pension de retraite, d’invalidité ou de survivant au titre du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou une rente de retraite, d’invalidité ou de conjoint survivant au titre de la Loi sur le régime de rentes du Québec, RLRQ, ch. R-9, et où le versement d’une telle pension ou rente à la personne n’a pas été approuvé, les renseignements indiquant qu’elle :
+		- **(i)** a satisfait aux exigences prévues aux sous-alinéas a)(i), (ii) ou (iii) pendant tout ou partie de chaque année au cours d’une période d’au moins quarante ans,
+		- **(ii)** a produit, en tant que résident du Canada, une déclaration de revenus auprès du ministre du Revenu national pour l’année civile la plus récente pour laquelle la date d’échéance de production est passée et pour au moins quarante des années visées au sous-alinéa i), sauf les années 1969, 1970 et 1971.
 
 - **(9)** Pour l’application du paragraphe (8) :
-	- **a)** s’agissant du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), ***exemption de base***, ***gains non ajustés ouvrant droit à pension*** et ***période cotisable*** s’entendent au sens du paragraphe 2(1) de cette loi et ***bénéficiaire d’une allocation familiale*** s’entend au sens du paragraphe 42(1) de cette loi;
-	- **b)** s’agissant de la Loi sur le régime des rentes du Québec, L.R.Q., ch. R-9, ***personne qui reçoit des prestations familiales***, ***exemption personnelle***, ***gains admissibles non ajustés*** et ***période cotisable*** s’entendent respectivement au sens du paragraphe v) de l’article 1 et des articles 43, 98 et 101 de cette loi.
-> DORS/81-285, art. 5; DORS/83-84, art. 2 et 3; DORS/89-269, art. 6; DORS/96-521, art. 9; DORS/2000-412, art. 9; DORS/2013-23, art. 6.
+	- **a)** s’agissant du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), exemption de base, gains non ajustés ouvrant droit à pension et période cotisable s’entendent au sens du paragraphe 2(1) de cette loi et bénéficiaire d’une allocation familiale s’entend au sens du paragraphe 42(1) de cette loi;
+	- **b)** s’agissant de la Loi sur le régime des rentes du Québec, L.R.Q., ch. R-9, personne qui reçoit des prestations familiales, exemption personnelle, gains admissibles non ajustés et période cotisable s’entendent respectivement au sens du paragraphe v) de l’article 1 et des articles 43, 98 et 101 de cette loi.
+> DORS/81-285, art. 5; DORS/83-84, art. 2 et 3; DORS/89-269, art. 6; DORS/96-521, art. 9; DORS/2000-412, art. 9; DORS/2013-23, art. 6; DORS/2016-274, art. 1.
 
 
 
@@ -437,7 +441,7 @@ s’entend de son père, de sa mère, de son frère, de sa soeur, de son enfant 
 
 **22** 
 
-- **(1)** Pour l’application des paragraphes 4(1), 19(2) et 21(2) de la Loi, ***résident légal*** s’entend d’une personne qui, le jour en cause visé aux alinéas a) ou b) de ces paragraphes :
+- **(1)** Pour l’application des paragraphes 4(1), 19(2) et 21(2) de la Loi, résident légal s’entend d’une personne qui, le jour en cause visé aux alinéas a) ou b) de ces paragraphes :
 	- **a)** soit se trouve légalement au Canada en conformité avec les lois canadiennes sur l’immigration alors en vigueur;
 	- **b)** soit est un résident du Canada et est absente du Canada, mais :
 		- **(i)** d’une part, est réputée, en application des paragraphes 21(4) ou (5) ou aux termes d’un accord conclu en vertu du paragraphe 40(1) de la Loi, ne pas avoir interrompu sa résidence au Canada durant la période d’absence,
@@ -445,9 +449,11 @@ s’entend de son père, de sa mère, de son frère, de sa soeur, de son enfant 
 	- **c)** soit n’est pas un résident du Canada mais est réputée, en vertu du paragraphe 21(3) ou aux termes d’un accord visé au paragraphe 40(1) de la Loi, être un résident du Canada.
 
 - **(2)** Pour l’application de l’article 4.1 de la Loi en ce qui concerne la condition prévue à l’alinéa 4(1)a) de la Loi, les renseignements sont, à la fois :
-	- **a)** une adresse résidentielle actuelle au Canada;
-	- **b)** les renseignements visés au paragraphe 21(8).
-> DORS/78-699, art. 1; DORS/81-285, art. 6; DORS/89-269, art. 7; DORS/90-813, art. 11; DORS/96-521, art. 10; DORS/2013-23, art. 8.
+	- **a)** une adresse actuelle au Canada;
+	- **b)** les renseignements visés à l’un ou l’autre des alinéas suivants :
+		- **(i)** l’alinéa 21(8)a), dans le cas où la personne reçoit une pension de retraite, d’invalidité ou de survivant au titre du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou une rente de retraite, d’invalidité ou de conjoint survivant au titre de la Loi sur le régime de rentes du Québec, RLRQ, ch. R-9, ou dans le cas où le versement d’une telle pension ou rente à la personne a été approuvé,
+		- **(ii)** l’alinéa 21(8)b), dans le cas où la personne ne reçoit pas une pension de retraite, d’invalidité ou de survivant au titre du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou une rente de retraite, d’invalidité ou de conjoint survivant au titre de la Loi sur le régime de rentes du Québec, RLRQ, ch. R-9, et où le versement d’une telle pension ou rente à la personne n’a pas été approuvé.
+> DORS/78-699, art. 1; DORS/81-285, art. 6; DORS/89-269, art. 7; DORS/90-813, art. 11; DORS/96-521, art. 10; DORS/2013-23, art. 8; DORS/2016-274, art. 2.
 
 
 
