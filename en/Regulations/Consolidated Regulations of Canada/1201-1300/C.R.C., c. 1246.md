@@ -418,15 +418,19 @@ if he returned to Canada within six months of the end of his employment or engag
 	- **(c)** with respect to a person referred to in subsection (5.2) who, while resident in Canada is subject to the legislation of a country other than Canada,
 that person’s father, mother, brother, sister, child or foster child or the father, mother, child or foster child of the person’s spouse or common-law partner.
 
-- **(8)** For the purposes of section 4.1 of the Act as it relates to the requirement of subparagraph 3(1)(c)(iii) of the Act, the prescribed information is information indicating that the person, for at least 40 years, for all or part of each of those years,
-	- **(a)** had unadjusted pensionable earnings under the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) that were above the person’s basic exemption for that year, or had unadjusted pensionable earnings under An Act respecting the Québec Pension Plan, R.S.Q., c. R-9 that were above the person’s personal exemption for that year;
-	- **(b)** received a retirement pension or disability pension under either the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) or An Act respecting the Québec Pension Plan, R.S.Q., c. R-9; or
-	- **(c)** had time excluded from a contributory period under the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) because the person was a family allowance recipient, or had time not included in a contributory period under An Act respecting the Québec Pension Plan, R.S.Q., c. R-9 because the person was a recipient of family benefits.
+- **(8)** For the purposes of section 4.1 of the Act as it relates to the requirement of subparagraph 3(1)(c)(iii) of the Act, the prescribed information is,
+	- **(a)** in the case of a person who is in receipt of or has been approved for a retirement, disability or survivor’s pension under the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) or a retirement, disability or surviving spouse’s pension under An Act respecting the Québec Pension Plan, CQLR, c. R-9, information indicating that the person, for at least 40 years, for all or part of each of those years,
+		- **(i)** had unadjusted pensionable earnings under the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) that were above the person’s basic exemption for that year, or had unadjusted pensionable earnings under An Act respecting the Québec Pension Plan that were above the person’s personal exemption for that year,
+		- **(ii)** received a retirement pension or disability pension under either the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) or An Act respecting the Québec Pension Plan, or
+		- **(iii)** had time excluded from a contributory period under the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) because the person was a family allowance recipient, or had time not included in a contributory period under An Act respecting the Québec Pension Plan because the person was a recipient of family benefits; or
+	- **(b)** in the case of a person who is not in receipt of and has not been approved for a retirement, disability or survivor’s pension under the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) or a retirement, disability or surviving spouse’s pension under An Act respecting the Québec Pension Plan, CQLR, c. R-9, information indicating that the person,
+		- **(i)** for at least 40 years, for all or part of each of those years, met the requirements set out in subparagraph (a)(i), (ii) or (iii), and
+		- **(ii)** for the most recent calendar year for which the filing due date has passed and for at least 40 of the years referred to in subparagraph (i), other than for 1969, 1970 and 1971, filed an income tax return as a resident of Canada with the Minister of National Revenue.
 
 - **(9)** For the purposes of subsection (8),
-	- **(a)** in relation to the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), ***basic exemption***, ***contributory period*** and ***unadjusted pensionable earnings*** have the same meaning as in subsection 2(1) of that Act and ***family allowance recipient*** has the same meaning as in subsection 42(1) of that Act; and
-	- **(b)** in relation to An Act respecting the Québec Pension Plan, R.S.Q., c. R-9, ***recipient of family benefits***, ***personal exemption***, ***unadjusted pensionable earnings*** and ***contributory period*** have the same meaning as in paragraph 1(v) and sections 43, 98 and 101 of that Act respectively.
-> SOR/81-285, s. 5; SOR/83-84, ss. 2, 3; SOR/89-269, s. 6; SOR/96-521, s. 9; SOR/2000-412, s. 9; SOR/2013-23, s. 6.
+	- **(a)** in relation to the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), basic exemption, contributory period and unadjusted pensionable earnings have the same meaning as in subsection 2(1) of that Act and family allowance recipient has the same meaning as in subsection 42(1) of that Act; and
+	- **(b)** in relation to An Act respecting the Québec Pension Plan, R.S.Q., c. R-9, recipient of family benefits, personal exemption, unadjusted pensionable earnings and contributory period have the same meaning as in paragraph 1(v) and sections 43, 98 and 101 of that Act respectively.
+> SOR/81-285, s. 5; SOR/83-84, ss. 2, 3; SOR/89-269, s. 6; SOR/96-521, s. 9; SOR/2000-412, s. 9; SOR/2013-23, s. 6; SOR/2016-274, s. 1.
 
 
 
@@ -437,7 +441,7 @@ that person’s father, mother, brother, sister, child or foster child or the fa
 
 **22** 
 
-- **(1)** For the purposes of subsections 4(1), 19(2) and 21(2) of the Act, ***legal residence***, with respect to a person described in any of those subsections, means that, on the applicable day specified in paragraph (a) or (b) of those subsections, that person
+- **(1)** For the purposes of subsections 4(1), 19(2) and 21(2) of the Act, legal residence, with respect to a person described in any of those subsections, means that, on the applicable day specified in paragraph (a) or (b) of those subsections, that person
 	- **(a)** is or was lawfully in Canada pursuant to the immigration laws of Canada in force on that day;
 	- **(b)** is or was a resident of Canada and is or was absent from Canada, but
 		- **(i)** is deemed, pursuant to subsection 21(4) or (5) or under the terms of an agreement entered into under subsection 40(1) of the Act, not to have interrupted the person’s residence in Canada during that absence, and
@@ -445,9 +449,11 @@ that person’s father, mother, brother, sister, child or foster child or the fa
 	- **(c)** is not or was not resident of Canada but is deemed, pursuant to subsection 21(3) or under the terms of an agreement entered into under subsection 40(1) of the Act, to be or to have been resident in Canada.
 
 - **(2)** For the purposes of section 4.1 of the Act as it relates to the requirement of paragraph 4(1)(a) of the Act, the prescribed information is both
-	- **(a)** a current residential address in Canada; and
-	- **(b)** the prescribed information that is referred to in subsection 21(8).
-> SOR/78-699, s. 1; SOR/81-285, s. 6; SOR/89-269, s. 7; SOR/90-813, s. 11; SOR/96-521, s. 10; SOR/2013-23, s. 8.
+	- **(a)** a current address in Canada; and
+	- **(b)** the information that is referred to in
+		- **(i)** paragraph 21(8)(a), in the case of a person who is in receipt of or has been approved for a retirement, disability or survivor’s pension under the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) or a retirement, disability or surviving spouse’s pension under An Act respecting the Québec Pension Plan, CQLR, c. R-9, or
+		- **(ii)** paragraph 21(8)(b), in the case of a person who is not in receipt of and has not been approved for a retirement, disability or survivor’s pension under the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) or a retirement, disability or surviving spouse’s pension under An Act respecting the Québec Pension Plan, CQLR, c. R-9.
+> SOR/78-699, s. 1; SOR/81-285, s. 6; SOR/89-269, s. 7; SOR/90-813, s. 11; SOR/96-521, s. 10; SOR/2013-23, s. 8; SOR/2016-274, s. 2.
 
 
 
