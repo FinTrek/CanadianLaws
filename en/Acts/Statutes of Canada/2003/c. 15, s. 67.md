@@ -1121,6 +1121,17 @@ where
 </td>
 </tr>
 <tr>
+<td>Squiala First Nation
+
+</td>
+<td>Council of the Squiala First Nation
+
+</td>
+<td>Each reserve of the Squiala First Nation that is not shared with another band
+
+</td>
+</tr>
+<tr>
 <td>St. Mary’s
 
 </td>
@@ -1287,7 +1298,7 @@ where
 </tr>
 </table>
 
-> 2003, c. 15, s. 67 “Sch.”; SOR/2004-281; 2005, c. 19, s. 11; SOR/2005-363; SOR/2006-201, 294; SOR/2007-111; SOR/2007-185, ss. 1, 2; SOR/2008-103, 234, 235; SOR/2009-281; SOR/2010-178, 179; SOR/2011-36, 213, 214, 266; SOR/2012-31; SOR/2013-14; SOR/2014-119, 157, 209; 2015, c. 24, s. 41; SOR/2015-28; SOR/2016-97, 127.
+> 2003, c. 15, s. 67 “Sch.”; SOR/2004-281; 2005, c. 19, s. 11; SOR/2005-363; SOR/2006-201, 294; SOR/2007-111; SOR/2007-185, ss. 1, 2; SOR/2008-103, 234, 235; SOR/2009-281; SOR/2010-178, 179; SOR/2011-36, 213, 214, 266; SOR/2012-31; SOR/2013-14; SOR/2014-119, 157, 209; 2015, c. 24, s. 41; SOR/2015-28; SOR/2016-97, 127, 301.
 
 
 
