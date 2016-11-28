@@ -34175,7 +34175,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 - **9** Aminorex (4,5-dihydro-5-phenyl-2-oxazolamine) and any salt thereof
 - **10** Fenetylline (d,l-3,7-dihydro-1,3-dimethyl-7-(2-[(1-methyl-2-phenethyl)amino]ethyl)-1H-purine-2,6-dione) and any salt thereof
 - **11** Glutethimide (2-ethyl-2-phenylglutarimide)
-- **12** Lefetamine ((-)-N,N-dimethyl-α-phenylbenzeneethanamine) and any salt thereof
+- **12** Lefetamine ((-)-N,N-dimethyl-α-phenylbenzeneethanamine), its salts, derivatives and isomers and salts of derivatives and isomers
 - **13** Mecloqualone (2-methyl-3-(2-chlorophenyl)-4(3H)-quinazolinone) and any salt thereof
 - **14** Mesocarb (3-(α-methylphenethyl)-N-(phenylcarbamoyl)sydnone imine) and any salt thereof
 - **15** Pemoline (2-amino-5-phenyl-oxazolin-4-one) and any salt thereof
@@ -34270,7 +34270,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 - **(42)** Tiomesterone (1α,7α-bis(acetylthio)-17ß-hydroxy-17-methylandrost-4-en-3-one)
 - **(43)** Trenbolone (17ß-hydroxyestra-4,9,11-trien-3-one)
 - **2** Zeranol (3,4,5,6,7,8,9,10,11,12-decahydro-7,14,16-trihydroxy-3-methyl-1H-2-benzoxacyclotetradecin-1-one)
-> SOR/78-427, s. 10; SOR/79-753, s. 1; SOR/81-84, s. 1; SOR/85-550, s. 14(F); SOR/86-678, s. 1; SOR/89-381, s. 1; SOR/92-386, s. 3; SOR/97-228, s. 21; SOR/99-425, s. 1; SOR/2003-34, ss. 2, 3; SOR/2003-413, s. 2; SOR/2015-210, s. 1.
+> SOR/78-427, s. 10; SOR/79-753, s. 1; SOR/81-84, s. 1; SOR/85-550, s. 14(F); SOR/86-678, s. 1; SOR/89-381, s. 1; SOR/92-386, s. 3; SOR/97-228, s. 21; SOR/99-425, s. 1; SOR/2003-34, ss. 2, 3; SOR/2003-413, s. 2; SOR/2015-210, s. 1; SOR/2016-106, s. 1.
 
 
 
@@ -35001,12 +35001,21 @@ the Minister may issue a registration number for the test kit, which shall be a 
 - **(2)** 4-chloro-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine (25C-NBOMe)
 - **(3)** 4-iodo-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine (25I-NBOMe)
 - **(4)** 4-bromo-2,5-dimethoxybenzeneethanamine (2C-B)
+- **25** AH-7921 (1-(3,4-dichlorobenzamidomethyl)cyclohexyldimethylamine), its salts, isomers and salts of isomers
+- **26** MT-45 (1-cyclohexyl-4-(1,2-diphenylethyl)piperazine), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues, including
+- **(1)** Diphenidine (DEP) (1-(1,2-diphenylethyl)piperidine)
+- **(2)** Methoxphenidine (2-MeO-Diphenidine, MXP) (1-[1-(2-methoxyphenyl)-2-phenylethyl]piperidine)
+- **(3)** Ephenidine (NEDPA, EPE) (N-ethyl-1,2-diphenylethylamine)
+- **(4)** Isophenidine (NPDPA) (N-isopropyl-1,2-diphenylethylamine)
+- but not including
+- **(5)** Lefetamine ((-)-N,N-dimethyl-α-phenylbenzeneethanamine), its salts, derivatives and isomers and salts of derivatives and isomers
+- **27** W-18 (4-chloro-N-[1-[2-(4-nitrophenyl)ethyl]-2-piperidinylidene]benzenesulfonamide), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues
 
 **PART II** 
 
 - **1** Salvia divinorum (S. divinorum), its preparations and derivatives, including:
 - **(1)** Salvinorin A ((2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acetyloxy)-2-(3-furanyl)dodecahydro-6a,10b-dimethyl-4,10-dioxo-2H-naphtho[2,1-c]pyran-7-carboxylic acid methyl ester)
-> SOR/97-228, s. 25; SOR/2003-34, ss. 4, 5; SOR/2012-65, s. 1; SOR/2012-177, s. 1; SOR/2013-172, s. 2; SOR/2015-210, ss. 4 to 6; SOR/2016-72, s. 1; SOR/2016-239, s. 1.
+> SOR/97-228, s. 25; SOR/2003-34, ss. 4, 5; SOR/2012-65, s. 1; SOR/2012-177, s. 1; SOR/2013-172, s. 2; SOR/2015-210, ss. 4 to 6; SOR/2016-72, s. 1; SOR/2016-106, s. 2; SOR/2016-239, s. 1.
 
 
 
