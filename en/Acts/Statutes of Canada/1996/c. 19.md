@@ -1804,7 +1804,16 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **20** Flunitrazepam (5-(o-fluorophenyl)-1,3-dihydro-1-methyl-7-nitro-2H-1,4-benzodiazepin-2-one) and any of its salts or derivatives
 - **21** 4-hydroxybutanoic acid (GHB) and any of its salts
 - **22** Tapentadol (3-[(1R,2R)-3-(dimethylamino)-1-ethyl-2-methylpropyl]-phenol), its salts, derivatives and isomers and salts of derivatives and isomers
-> 1996, c. 19, Sch. I; SOR/97-230, ss. 1 to 6; SOR/99-371, ss. 1, 2; SOR/99-421, s. 1(E); SOR/2005-235, s. 1; SOR/2005-271, 337; 2012, c. 1, s. 44; SOR/2012-176; SOR/2015-190.
+- **23** AH-7921 (1-(3,4-dichlorobenzamidomethyl)cyclohexyldimethylamine), its salts, isomers and salts of isomers
+- **24** MT-45 (1-cyclohexyl-4-(1,2-diphenylethyl)piperazine), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues, including
+- **(1)** Diphenidine (DEP) (1-(1,2-diphenylethyl)piperidine)
+- **(2)** Methoxphenidine (2-MeO-Diphenidine, MXP) (1-[1-(2-methoxyphenyl)-2-phenylethyl]piperidine)
+- **(3)** Ephenidine (NEDPA, EPE) (N-ethyl-1,2-diphenylethylamine)
+- **(4)** Isophenidine (NPDPA) (N-isopropyl-1,2-diphenylethylamine)
+- but not including
+- **(5)** Lefetamine ((-)-N,N-dimethyl-α-phenylbenzeneethanamine), its salts, derivatives and isomers and salts of derivatives and isomers
+- **25** W-18 (4-chloro-N-[1-[2-(4-nitrophenyl)ethyl]-2-piperidinylidene]benzenesulfonamide), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues
+> 1996, c. 19, Sch. I; SOR/97-230, ss. 1 to 6; SOR/99-371, ss. 1, 2; SOR/99-421, s. 1(E); SOR/2005-235, s. 1; SOR/2005-271, 337; 2012, c. 1, s. 44; SOR/2012-176; SOR/2015-190; SOR/2016-107, s. 1.
 
 
 
@@ -1902,7 +1911,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **25 and 26** [Repealed, 2012, c. 1, s. 46]
 - **27** Aminorex (4,5-dihydro-5-phenyl-2-oxazolamine) and any salt thereof
 - **28** Etryptamine (3-(2-aminobutyl)indole) and any salt thereof
-- **29** Lefetamine ((-)-N,N-dimethyl-α-phenylbenzeneethanamine) and any salt thereof
+- **29** Lefetamine ((-)-N,N-dimethyl-α-phenylbenzeneethanamine), its salts, derivatives and isomers and salts of derivatives and isomers
 - **30** Mesocarb (3-(α-methylphenethyl)-N-(phenylcarbamoyl)sydnone imine) and any salt thereof
 - **31** Zipeprol (4-(2-methoxy-2-phenylethyl)-α-(methoxyphenylmethyl)-1-piperazineethanol) and any salt thereof
 - **32** Amineptine (7-[(10,11-dihydro-5H-dibenzo[a,d]cyclohepten-5-yl)amino]heptanoic acid) and any salt thereof
@@ -1914,7 +1923,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **(2)** 4-chloro-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine (25C-NBOMe)
 - **(3)** 4-iodo-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine (25I-NBOMe)
 - **(4)** 4-bromo-2,5-dimethoxybenzeneethanamine (2C-B)
-> 1996, c. 19, Sch. III; SOR/97-230, ss. 7 to 10; SOR/98-173, s. 1; SOR/2000-220, s. 1; SOR/2003-32, ss. 2, 3, 4(F), 5; SOR/2003-412; SOR/2005-235, s. 2; 2012, c. 1, ss. 45, 46; SOR/2012-66; SOR/2016-73.
+> 1996, c. 19, Sch. III; SOR/97-230, ss. 7 to 10; SOR/98-173, s. 1; SOR/2000-220, s. 1; SOR/2003-32, ss. 2, 3, 4(F), 5; SOR/2003-412; SOR/2005-235, s. 2; 2012, c. 1, ss. 45, 46; SOR/2012-66; SOR/2016-73; SOR/2016-107, s. 2.
 
 
 
