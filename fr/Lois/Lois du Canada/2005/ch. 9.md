@@ -2456,6 +2456,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première Nation Flying Dust
 - Fort William
 - Gamblers
+- Première Nation Garden Hill
 - Première Nation George Gordon
 - Première Nation Gitga’at
 - Première nation Gitsegukla
@@ -2466,6 +2467,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première nation Indian Island
 - Innue Essipit
 - Bande des Innus de Pessamit
+- Première Nation de Jean Marie River
 - Première nation Kahkewistahaw
 - Kanaka Bar
 - Première Nation The Key
@@ -2483,6 +2485,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Lheidli T’enneh
 - Nation Lhtako Dene
 - Little Saskatchewan
+- Bande indienne de Little Shuswap Lake
 - Première Nation Long Plain
 - Bande indienne Lower Kootenay
 - Bande indienne Lower Nicola
@@ -2496,6 +2499,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première Nation Membertou
 - Nation Metepenagiag Mi’kmaq
 - Première Nation Metlakatla
+- Micmacs de Gesgapegiag
 - Bande Millbrook
 - Nation crie Misipawistik
 - Première Nation des Mississaugas de Scugog Island
@@ -2522,6 +2526,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Ochapowace
 - O’Chiese
 - Nation crie Onion Lake
+- Nation crie Opaskwayak
 - Oromocto
 - Bande indienne Osoyoos
 - Nation micmaque Paqtnkek
@@ -2560,6 +2565,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Nation Siksika
 - Première nation Simpcw
 - Sipeknekatik
+- Nations Skatin
 - Première nation Skawahlook
 - Bande indienne Skeetchestn
 - Première Nation Skidegate
@@ -2604,11 +2610,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Bande indienne Whispering Pines/Clinton
 - Première nation White Bear
 - Première Nation Whitecap Dakota
+- Première Nation Whitefish River
 - Williams Lake
 - Wunnumin
 - Xaxli’p
 - Première nation Yakweakwioose
 - Bande Yellow Quill
-> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176; DORS/2014-77, 208; DORS/2015-52, 94; DORS/2016-8, 213.
+> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176; DORS/2014-77, 208; DORS/2015-52, 94; DORS/2016-8, 213, 303.
 
 
