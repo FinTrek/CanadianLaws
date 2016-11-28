@@ -34140,7 +34140,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 - **9** Aminorex (dihydro-4,5 phényl-5 oxazolamine-2) et ses sels
 - **10** Fénétylline (d,l-dihydro-3,7 diméthyl-1,3 [[(méthyl-1 phényl-2 éthyl)amino]-2 éthyl]-7 1H-purinedione-2,6) et ses sels
 - **11** Glutéthimide (éthyl-2 phényl-2 glutarimide)
-- **12** Léfétamine ((-)-N,N-diméthyl-α-phénylbenzèneéthanamine) et ses sels
+- **12** Léfétamine ((-)-N,N-diméthyl-α-phénylbenzèneéthanamine), ses sels, dérivés et isomères, ainsi que les sels de ses dérivés et isomères
 - **13** Mécloqualone (méthyl-2(chloro-2 phényl)-3 (3H)-quinazolinone-4) et ses sels
 - **14** Mésocarbe ((α-méthylphénéthyl)-3 N-(phénylcarbamoyl)sydnone imine) et ses sels
 - **15** Pémoline (amino-2 phényl-5 oxazolinone-4) et ses sels
@@ -34235,7 +34235,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 - **(42)** tiomestérone (bis(acétylthio)-1α,7α hydroxy-17ß méthyl-17 androstène-4 one-3)
 - **(43)** trenbolone (hydroxy-17ßestratriène-4,9,11 one-3)
 - **2** Zéranol (trihydroxy-7,14,16 méthyl-3 décahydro-3,4,5,6,- 7,8,9,10,11,12 1H-benzoxa-2 cyclotétradécinone-1)
-> DORS/78-427, art. 10; DORS/79-753, art. 1; DORS/81-84, art. 1; DORS/85-550, art. 14(F); DORS/86-678, art. 1; DORS/89-381, art. 1; DORS/92-386, art. 3; DORS/97-228, art. 21; DORS/99-425, art. 1; DORS/2003-34, art. 2 et 3; DORS/2003-413, art. 2; DORS/2015-210, art. 1.
+> DORS/78-427, art. 10; DORS/79-753, art. 1; DORS/81-84, art. 1; DORS/85-550, art. 14(F); DORS/86-678, art. 1; DORS/89-381, art. 1; DORS/92-386, art. 3; DORS/97-228, art. 21; DORS/99-425, art. 1; DORS/2003-34, art. 2 et 3; DORS/2003-413, art. 2; DORS/2015-210, art. 1; DORS/2016-106, art. 1.
 
 
 
@@ -34966,12 +34966,21 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 - **(2)** 4-chloro-2,5-diméthoxy-N-(2-méthoxybenzyle)phénéthylamine (25C-NBOMe)
 - **(3)** 4-iodo-2,5-diméthoxy-N-(2-méthoxybenzyle)phénéthylamine (25I-NBOMe)
 - **(4)** 4-bromo-2,5-diméthoxybenzèneéthanamine (2C-B)
+- **25** AH-7921 ((dichloro-3,4 benzamide méthyl)-1 cyclohexyl diméthylamine), ses sels et isomères, ainsi que les sels de ses isomères
+- **26** MT-45 (cyclohexyl-1(diphényl-1,2 éthyl)-4 pipérazine), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues, notamment :
+- **(1)** diphénidine (DEP) (1-(1,2-diphényléthyl)pipéridine)
+- **(2)** méthoxphénidine (2-MeO-Diphénidine, MXP) (1- [1-(2-méthoxyphényl)-2-phényléthyl] pipéridine)
+- **(3)** éphénidine (NEDPA, EPE) (N-éthyl-1,2-diphényléthylamine)
+- **(4)** isophénidine (NPDPA) (N-isopropyl-1,2-diphényléthylamine)
+- mais non compris :
+- **(5)** léfétamine ((-)-N,N-diméthyl-α-phénylbenzèneéthanamine), ses sels, dérivés et isomères, ainsi que les sels de ses dérivés et isomères
+- **27** W-18 (4-chloro-N-[1- [2- (4-nitrophényl) éthyl] -2-pipéridinylidène] benzènesulfonamide), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues
 
 **PARTIE II** 
 
 - **1** Salvia divinorum (S. divinorum), ses préparations et dérivés, notamment :
 - **(1)** Salvinorine A (ester méthylique de l’acide (2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acétyloxy)-2-(3-furanyl)dodécahydro-6a,10b-diméthyl-4,10-dioxo-2Hnaphto[2,1-c]pyran-7-carboxylique)
-> DORS/97-228, art. 25; DORS/2003-34, art. 4 et 5; DORS/2012-65, art. 1; DORS/2012-177, art. 1; DORS/2013-172, art. 2; DORS/2015-210, art. 4 à 6; DORS/2016-72, art. 1; DORS/2016-239, art. 1.
+> DORS/97-228, art. 25; DORS/2003-34, art. 4 et 5; DORS/2012-65, art. 1; DORS/2012-177, art. 1; DORS/2013-172, art. 2; DORS/2015-210, art. 4 à 6; DORS/2016-72, art. 1; DORS/2016-106, art. 2; DORS/2016-239, art. 1.
 
 
 
