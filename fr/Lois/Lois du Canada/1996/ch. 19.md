@@ -1769,7 +1769,16 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **20** Flunitrazépam ((o-fluorophényl)-5 dihydro-1,3 méthyl-1 nitro-7 2H-benzodiazépine-1,4 one-2) ainsi que ses sels et dérivés
 - **21** Acide hydroxy-4 butanoïque et ses sels
 - **22** Tapentadol (3-[(1R,2R)-3-(diméthylamino)-1-éthyl-2-méthylpropyl]-phénol), ses sels, dérivés et isomères, ainsi que les sels de ses dérivés et isomères
-> 1996, ch. 19, ann. I; DORS/97-230, art. 1 à 6; DORS/99-371, art. 1 et 2; DORS/99-421, art. 1(A); DORS/2005-235, art. 1; DORS/2005-271, 337; 2012, ch. 1, art. 44; DORS/2012-176; DORS/2015-190.
+- **23** AH-7921 ((dichloro-3,4 benzamide méthyl)-1 cyclohexyl diméthylamine), ses sels et isomères, ainsi que les sels de ses isomères
+- **24** MT-45 (cyclohexyl-1(diphényl-1,2 éthyl)-4 pipérazine), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues, notamment :
+- **(1)** diphénidine (DEP) (1-(1,2-diphényléthyl)pipéridine)
+- **(2)** méthoxphénidine (2-MeO-Diphénidine, MXP) (1- [1-(2-méthoxyphényl)-2-phényléthyl] pipéridine)
+- **(3)** éphénidine (NEDPA, EPE) (N-éthyl-1,2-diphényléthylamine)
+- **(4)** isophénidine (NPDPA) (N-isopropyl-1,2-diphényléthylamine)
+- mais non compris :
+- **(5)** léfétamine ((-)-N,N-diméthyl-α-phénylbenzèneéthanamine), ses sels, dérivés et isomères, ainsi que les sels de ses dérivés et isomères
+- **25** W-18 (4-chloro-N-[1- [2- (4-nitrophényl) éthyl] -2-pipéridinylidène] benzènesulfonamide), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues
+> 1996, ch. 19, ann. I; DORS/97-230, art. 1 à 6; DORS/99-371, art. 1 et 2; DORS/99-421, art. 1(A); DORS/2005-235, art. 1; DORS/2005-271, 337; 2012, ch. 1, art. 44; DORS/2012-176; DORS/2015-190; DORS/2016-107, art. 1.
 
 
 
@@ -1867,7 +1876,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **25 et 26** [Abrogés, 2012, ch. 1 art. 46]
 - **27** Aminorex (dihydro-4,5 phényl-5 oxazolamine-2) et ses sels
 - **28** Étryptamine ((amino-2 butyl)-3 indole) et ses sels
-- **29** Léfétamine ((-)-N,N-diméthyl-α-phénylbenzèneéthanamine) et ses sels
+- **29** Léfétamine ((-)-N,N-diméthyl-α-phénylbenzèneéthanamine), ses sels, dérivés et isomères, ainsi que les sels de ses dérivés et isomères
 - **30** Mésocarbe ((α-méthylphénéthyl)-3 N-(phénylcarbamoyl)sydnone imine) et ses sels
 - **31** Zipéprol ((méthoxy-2 phényl-2 éthyl)-4 α-(méthoxyphénylméthyl)-1-pipérazineéthanol) et ses sels
 - **32** Amineptine [(dihydro-10,11 5H-dibenzo[a,d]cycloheptenyl-5) amino]-7 heptanoïque et ses sels
@@ -1879,7 +1888,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **(2)** 4-chloro-2,5-diméthoxy-N-(2-méthoxybenzyle)phénéthylamine (25C-NBOMe)
 - **(3)** 4-iodo-2,5-diméthoxy-N-(2-méthoxybenzyle)phénéthylamine (25I-NBOMe)
 - **(4)** 4-bromo-2,5-diméthoxybenzèneéthanamine (2C-B)
-> 1996, ch. 19, ann. III; DORS/97-230, art. 7 à 10; DORS/98-173, art. 1; DORS/2000-220, art. 1; DORS/2003-32, art. 2, 3, 4(F) et 5; DORS/2003-412; DORS/2005-235, art. 2; 2012, ch. 1, art. 45 et 46; DORS/2012-66; DORS/2016-73.
+> 1996, ch. 19, ann. III; DORS/97-230, art. 7 à 10; DORS/98-173, art. 1; DORS/2000-220, art. 1; DORS/2003-32, art. 2, 3, 4(F) et 5; DORS/2003-412; DORS/2005-235, art. 2; 2012, ch. 1, art. 45 et 46; DORS/2012-66; DORS/2016-73; DORS/2016-107, art. 2.
 
 
 
