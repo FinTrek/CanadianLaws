@@ -2086,6 +2086,12 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **22** Acide hydrophosphoreux et ses sels et dérivés
 - **23** Acide hydriodique
 - **24** Alpha-phénylacétoacétonitrile, ses sels, isomères et sels d’isomères
+- **25** Chlorure de propionyle
+- **26** Phénéthyl-1 pipéridone-4 et ses sels
+- **27** Pipéridone-4 et ses sels
+- **28** Norfentanyl (N-phényl-N-(pipéridinyl-4)propanamide) et ses sels
+- **29** N-(Phénéthyl-1 pipéridinylidene-4) phénylamine et ses sels
+- **30** N-Phényl pipéridinamine-4 et ses sels
 
 
 
@@ -2123,7 +2129,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **1** Toute préparation ou tout mélange qui contient l’un des précurseurs visés à la partie 1, à l’exception des articles 20 à 23, ou à la partie 2.
 
 
-> 1996, ch. 19, ann. VI; DORS/2002-361, art. 2; DORS/2005-364, art. 1, 2, 3(F) et 4; DORS/2016-13.
+> 1996, ch. 19, ann. VI; DORS/2002-361, art. 2; DORS/2005-364, art. 1, 2, 3(F) et 4; DORS/2016-13, 295.
 
 
 
