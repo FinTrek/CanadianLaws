@@ -2121,6 +2121,12 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **22** Hypophosphorous acid, its salts and derivatives
 - **23** Hydriodic acid
 - **24** Alpha-phenylacetoacetonitrile and its salts, isomers and salts of isomers
+- **25** Propionyl chloride
+- **26** 1-Phenethyl-4-piperidone and its salts
+- **27** 4-Piperidone and its salts
+- **28** Norfentanyl (N-phenyl-N-piperidin-4-ylpropanamide) and its salts
+- **29** 1-Phenethylpiperidin-4-ylidenephenylamine and its salts
+- **30** N-Phenyl-4-piperidinamine and its salts
 
 
 
@@ -2158,7 +2164,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **1** Any preparation or mixture that contains a precursor set out in Part 1, except items 20 to 23, or in Part 2.
 
 
-> 1996, c. 19, Sch. VI; SOR/2002-361, s. 2; 2005-364, ss. 1, 2, 3(F), 4; SOR/2016-13.
+> 1996, c. 19, Sch. VI; SOR/2002-361, s. 2; 2005-364, ss. 1, 2, 3(F), 4; SOR/2016-13, 295.
 
 
 
