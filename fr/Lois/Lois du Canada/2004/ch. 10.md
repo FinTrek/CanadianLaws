@@ -71,6 +71,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***délinquant sexuel*** Personne visée par une ordonnance ou assujettie à une obligation prévue aux articles 490.019 ou 490.02901 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), à l’article 227.06 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) ou à l’article 36.1 de la [Loi sur le transfèrement international des délinquants](/fr/Lois/Lois%20du%20Canada/2004/ch.%2021.md). (*sex offender*)
 
+***infraction sexuelle visant un enfant*** L’une ou l’autre des infractions suivantes :
+- **a)** infraction désignée au sens du paragraphe 490.011(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) qui est commise contre une personne âgée de moins de dix-huit ans et en conséquence de laquelle le contrevenant est tenu de se conformer à la présente loi;
+- **b)** infraction qui est commise à l’étranger contre une personne âgée de moins de dix-huit ans et en conséquence de laquelle le contrevenant est tenu de se conformer à la présente loi. (*sexual offence against a child*)
+
 ***loi ontarienne*** S’entend au sens du paragraphe 490.011(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*Ontario Act*)
 
 ***membre d’un service de police*** S’entend notamment :
@@ -94,7 +98,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Interprétation**
 
 - **(2)** Pour l’application de la présente loi, est un crime de nature sexuelle tout acte qui est de nature sexuelle ou qu’une personne commet avec l’intention de commettre un tel acte, et qui constitue une infraction.
-> 2004, ch. 10, art. 3; 2007, ch. 5, art. 32; 2010, ch. 17, art. 29.
+> 2004, ch. 10, art. 3; 2007, ch. 5, art. 32; 2010, ch. 17, art. 29; 2015, ch. 23, art. 21.
 
 
 
@@ -150,12 +154,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(1)** Le délinquant sexuel comparaît par la suite au bureau d’inscription visé à l’article 7.1 :
 	- **a)** au plus tard sept jours — sauf celui qui est tenu de comparaître au bureau d’inscription désigné en vertu de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), pour qui le délai est de quinze jours — après avoir changé de résidence principale ou secondaire;
 	- **b)** au plus tard sept jours — sauf celui qui est tenu de comparaître au bureau d’inscription désigné en vertu de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), pour qui le délai est de quinze jours — après avoir changé de nom ou de prénom;
+	- **b.1)** au plus tard sept jours — sauf celui qui est tenu de comparaître au bureau d’inscription désigné en vertu de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), pour qui le délai est de quinze jours — après avoir obtenu un permis de conduire;
+	- **b.2)** au plus tard sept jours — sauf celui qui est tenu de comparaître au bureau d’inscription désigné en vertu de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), pour qui le délai est de quinze jours — après avoir obtenu un passeport;
 	- **c)** au plus tôt onze mois mais au plus tard un an après la dernière fois qu’il s’y est présenté sous le régime de la présente loi.
 
 **Modalités de comparution**
 
 - **(2)** Le délinquant sexuel tenu de comparaître au bureau d’inscription désigné en vertu de la présente loi le fait en personne ou conformément à tout règlement pris en vertu de l’alinéa 18(1)a) ou du paragraphe 19(1); celui qui est tenu de comparaître au bureau d’inscription désigné en vertu de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) le fait en personne, à moins qu’un règlement soit pris en vertu de l’alinéa 227.2a) de cette loi, auquel cas il comparaît conformément à ce règlement.
-> 2004, ch. 10, art. 4.1; 2007, ch. 5, art. 34; 2010, ch. 17, art. 31.
+> 2004, ch. 10, art. 4.1; 2007, ch. 5, art. 34; 2010, ch. 17, art. 31; 2015, ch. 23, art. 22.
 
 
 
@@ -198,7 +204,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **e)** l’adresse de tout établissement d’enseignement où il est inscrit ou, s’il n’y a pas d’adresse, l’emplacement de cet établissement;
 	- **f)** le numéro de téléphone permettant de le joindre dans les lieux visés aux alinéas c) et d) et celui de tous ses téléphones mobiles ou téléavertisseurs;
 	- **g)** sa taille, son poids et la description de ses marques physiques distinctives;
-	- **h)** le numéro de la plaque d’immatriculation, la marque, le modèle, le type de carrosserie, l’année de fabrication et la couleur de tout véhicule à moteur immatriculé à son nom ou qu’il utilise régulièrement.
+	- **h)** le numéro de la plaque d’immatriculation, la marque, le modèle, le type de carrosserie, l’année de fabrication et la couleur de tout véhicule à moteur immatriculé à son nom ou qu’il utilise régulièrement;
+	- **i)** le numéro de tout permis de conduire dont il est titulaire et le nom du territoire d’où émane ce permis;
+	- **j)** le numéro de tout passeport dont il est titulaire et le nom du territoire d’où émane ce passeport.
 
 **Renseignements additionnels**
 
@@ -207,7 +215,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Autres renseignements**
 
 - **(3)** Le préposé peut en outre consigner toute caractéristique apparente permettant de l’identifier, dont la couleur de ses yeux et des cheveux, et lui demander de se soumettre à une séance de photographie.
-> 2004, ch. 10, art. 5; 2007, ch. 5, art. 37; 2010, ch. 17, art. 34.
+> 2004, ch. 10, art. 5; 2007, ch. 5, art. 37; 2010, ch. 17, art. 34; 2015, ch. 23, art. 23.
 
 
 
@@ -226,10 +234,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **6** 
 
-- **(1)** Sous réserve du paragraphe (1.1), le délinquant sexuel avise le préposé à la collecte du bureau d’inscription visé à l’article 7.1 :
-	- **a)** avant son départ, des dates prévues de départ et de retour et de toute adresse ou lieu au Canada où il entend séjourner, s’il entend s’absenter de sa résidence principale et de toutes ses résidences secondaires pendant au moins sept jours consécutifs;
-	- **b)** au plus tard sept jours après son départ, de la date prévue de son retour — et de toute adresse ou de tout lieu où il séjourne s’il est au Canada —, s’il décide, après son départ, de s’absenter pendant au moins sept jours consécutifs de sa résidence principale et de toutes ses résidences secondaires ou s’il n’a pas donné l’avis prévu à l’alinéa a) alors qu’il était tenu de le faire;
+- **(1)** Sous réserve du paragraphe (1.1), le délinquant sexuel autre que celui visé au paragraphe (1.01) avise le préposé à la collecte du bureau d’inscription visé à l’article 7.1 :
+	- **a)** avant son départ, des dates de départ et de retour et de toute adresse ou de tout lieu au Canada ou à l’étranger où il entend séjourner, s’il entend s’absenter de sa résidence principale et de toutes ses résidences secondaires pendant au moins sept jours consécutifs;
+	- **b)** au plus tard sept jours après son départ, de la date de son retour — et de toute adresse ou de tout lieu où il séjourne au Canada ou à l’étranger —, s’il décide, après son départ, de s’absenter pendant au moins sept jours consécutifs de sa résidence principale et de toutes ses résidences secondaires ou s’il n’a pas donné l’avis prévu à l’alinéa a) alors qu’il était tenu de le faire;
 	- **c)** avant son départ, de tout changement d’adresse, de lieu ou de date ou, si le changement est intervenu après son départ, dans les sept jours suivant la date du changement.
+
+**Délinquant sexuel déclaré coupable d’une infraction sexuelle visant un enfant**
+
+- **(1.01)** Sous réserve du paragraphe (1.1), le délinquant sexuel déclaré coupable d’une infraction sexuelle visant un enfant avise le préposé à la collecte du bureau d’inscription visé à l’article 7.1 :
+	- **a)** avant son départ, des dates de départ et de retour et de toute adresse ou de tout lieu au Canada où il entend séjourner, s’il entend s’absenter de sa résidence principale et de toutes ses résidences secondaires pendant au moins sept jours consécutifs;
+	- **b)** avant son départ, des dates de départ et de retour et de toute adresse ou de tout lieu à l’étranger où il entend séjourner;
+	- **c)** au plus tard sept jours après son départ, de la date de son retour — et de toute adresse ou de tout lieu où il séjourne au Canada —, s’il décide, après son départ, de s’absenter pendant au moins sept jours consécutifs de sa résidence principale et de toutes ses résidences secondaires ou s’il n’a pas donné l’avis prévu à l’alinéa a) alors qu’il était tenu de le faire;
+	- **d)** sans délai, après son départ, de la date de son retour — et de toute adresse ou de tout lieu où il séjourne à l’étranger —, s’il décide, après son départ, de s’absenter au-delà de la date de retour indiquée dans l’avis donné au titre de l’alinéa b) ou s’il n’a pas donné cet avis;
+	- **e)** avant son départ, de tout changement d’adresse, de lieu ou de date ou :
+		- **(i)** si le changement est intervenu après son départ et qu’il séjourne au Canada, dans les sept jours suivant la date du changement,
+		- **(ii)** si le changement est intervenu après son départ et qu’il séjourne à l’étranger, sans délai après cette date.
 
 **Forces canadiennes**
 
@@ -238,7 +257,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Modalités relatives à l’avis**
 
 - **(2)** Le délinquant sexuel tenu de fournir l’avis au bureau d’inscription désigné en vertu de la présente loi le fait par courrier recommandé ou conformément à tout règlement pris en vertu de l’alinéa 18(1)a) ou du paragraphe 19(1); celui qui est tenu de fournir l’avis au bureau d’inscription désigné en vertu de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) le fait par courrier recommandé, à moins qu’un règlement soit pris en vertu de l’alinéa 227.2a) de cette loi, auquel cas il fournit l’avis conformément à ce règlement.
-> 2004, ch. 10, art. 6; 2007, ch. 5, art. 38; 2010, ch. 17, art. 36.
+> 2004, ch. 10, art. 6; 2007, ch. 5, art. 38; 2010, ch. 17, art. 36; 2015, ch. 23, art. 24.
 
 
 
@@ -319,12 +338,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** les dates prévues ou réelles de toute absence provisoire du délinquant sexuel du pénitencier — au sens du paragraphe 2(1) de la [Loi sur le système correctionnel et la mise en liberté sous condition](/fr/Lois/Lois%20du%20Canada/1992/ch.%2020.md) — ou de l’établissement correctionnel provincial et l’adresse ou le lieu où il séjourne ou il est prévu qu’il séjournera au cours de cette période;
 	- **c)** la date à laquelle le délinquant sexuel est mis en liberté ou libéré.
 
+**Enregistrement de renseignements — Agence des services frontaliers du Canada**
+
+- **(5.1)** Le préposé à l’enregistrement pour le compte du commissaire de la Gendarmerie royale du Canada peut enregistrer dans la banque de données les renseignements communiqués au commissaire au titre du paragraphe 15.2(2).
+
 **Confidentialité et copie des renseignements**
 
 - **(6)** Il incombe au préposé à l’enregistrement :
 	- **a)** de veiller à ce que l’enregistrement des renseignements soit effectué d’une manière et dans des circonstances garantissant leur confidentialité;
 	- **b)** de transmettre, sur demande, au délinquant sexuel ou à la personne ayant reçu signification de l’avis en application de l’article 490.021 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), par courrier recommandé, sans frais et sans délai après l’enregistrement des renseignements, une copie de la transcription de tous les renseignements les concernant qui sont enregistrés dans la banque de données.
-> 2007, ch. 5, art. 41; 2010, ch. 17, art. 39.
+> 2007, ch. 5, art. 41; 2010, ch. 17, art. 39; 2015, ch. 23, art. 25.
 
 
 
@@ -512,7 +535,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-## Pouvoir de communiquer des renseignements
+## Pouvoir de recueillir et de communiquer des renseignements
 
 
 
@@ -544,6 +567,24 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Agence des services frontaliers du Canada — collecte de renseignements**
+
+**15.2** 
+
+- **(1)** L’Agence des services frontaliers du Canada peut prêter son concours aux membres, employés ou agents contractuels de services de police pour prévenir les crimes de nature sexuelle ou la perpétration d’infractions visées aux articles 490.031 ou 490.0311 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), pour enquêter sur de tels crimes ou de telles infractions ou pour porter des accusations à leur égard en recueillant les renseignements qui lui sont communiqués au titre des alinéas 16(4)j.2) ou j.3) ainsi que les renseignements ci-après à l’égard de tout délinquant sexuel visé par la communication faite au titre de ces alinéas :
+	- **a)** la date de son départ du Canada;
+	- **b)** la date de son retour au Canada;
+	- **c)** toute adresse ou tout lieu où il a séjourné alors qu’il était à l’étranger.
+
+**Agence des services frontaliers du Canada — communication de renseignements**
+
+- **(2)** Elle peut, dans l’exercice du pouvoir prévu au paragraphe (1), communiquer au commissaire de la Gendarmerie royale du Canada les renseignements recueillis au titre des alinéas (1)a) à c).
+> 2015, ch. 23, art. 27.
+
+
+
+
+
 ## Interdictions
 
 
@@ -570,6 +611,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(3)** Il est interdit à quiconque de comparer les renseignements recueillis au titre de la présente loi ou enregistrés dans la banque de données à d’autres renseignements, sauf dans les cas suivants :
 	- **a)** les renseignements ont été consultés au titre de l’alinéa (2)a) et sont comparés pour prévenir un crime de nature sexuelle ou pour enquêter sur un tel crime;
 	- **b)** les renseignements ont été consultés au titre des alinéas (2)b) ou b.1) et sont comparés pour vérifier si le délinquant sexuel s’est conformé à toute ordonnance ou à toute obligation prévue aux articles 490.019 ou 490.02901 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), à l’article 227.06 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) ou à l’article 36.1 de la [Loi sur le transfèrement international des délinquants](/fr/Lois/Lois%20du%20Canada/2004/ch.%2021.md), pour prévenir la perpétration d’une infraction visée aux articles 490.031, 490.0311 ou 490.0312 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) — ou visée à ces articles mais punissable en vertu de l’article 130 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) — ou à l’article 119.1 de cette loi, ou pour enquêter sur une telle infraction;
+	- **b.1)** les renseignements ont été recueillis en vertu du paragraphe 15.2(1) et sont comparés en vue d’aider un membre, un employé ou un agent contractuel d’un service de police à prévenir un crime de nature sexuelle ou la perpétration d’une infraction visée aux articles 490.031 ou 490.0311 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), à enquêter sur un tel crime ou une telle infraction ou à porter des accusations à son égard;
 	- **c)** les renseignements sont visés par une autorisation de comparer accordée en vertu de l’article 13.
 
 **Liaison et fusion de renseignements interdites**
@@ -578,6 +620,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** aux fins d’enregistrement en application des articles 8, 8.1 et 10, si les renseignements auxquels les renseignements enregistrés dans la banque de données sont reliés ou avec lesquels ils sont fusionnés proviennent du registre des délinquants sexuels établi par la loi ontarienne;
 	- **a.1)** si les renseignements ont été consultés au titre de l’alinéa (2)a) et sont reliés à des renseignements relatifs au contrôle d’application des lois, ou fusionnés avec de tels renseignements, pour prévenir un crime de nature sexuelle ou pour enquêter sur un tel crime;
 	- **a.2)** si les renseignements ont été consultés au titre des alinéas (2)b) ou b.1) et sont reliés à des renseignements relatifs au contrôle d’application des lois, ou fusionnés avec de tels renseignements, pour vérifier si le délinquant sexuel s’est conformé à toute ordonnance ou à toute obligation prévue aux articles 490.019 ou 490.02901 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), à l’article 227.06 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) ou à l’article 36.1 de la [Loi sur le transfèrement international des délinquants](/fr/Lois/Lois%20du%20Canada/2004/ch.%2021.md), ou pour prévenir la perpétration d’une infraction visée aux articles 490.031 ou 490.0311 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) — ou visée à ces articles mais punissable en vertu de l’article 130 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) — ou à l’article 119.1 de cette loi, ou pour enquêter sur une telle infraction;
+	- **a.3)** si les renseignements ont été recueillis en vertu du paragraphe 15.2(1) et sont fusionnés aux renseignements contenus dans des ordinateurs de l’Agence des services frontaliers du Canada en vue d’aider un membre, un employé ou un agent contractuel d’un service de police à prévenir un crime de nature sexuelle ou la perpétration d’une infraction visée aux articles 490.031 ou 490.0311 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), à enquêter sur un tel crime ou une telle infraction ou à porter des accusations à son égard;
 	- **b)** s’il le fait conformément à l’autorisation accordée en vertu de l’article 13.
 
 **Communication interdite**
@@ -601,12 +644,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **i)** soit faite à la personne qui en a besoin, dans le cadre d’une enquête sur tout fait visé au paragraphe 7(4.1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), menée par le service de police de l’État où le fait a été commis;
 	- **j)** soit faite à tout employé ou agent contractuel d’une personne visée à l’un des alinéas d) à i) autorisé par elle à en recevoir communication en son nom;
 	- **j.1)** soit faite à un membre, un employé ou un agent contractuel d’un service de police situé à l’étranger qui en a besoin pour prévenir un crime de nature sexuelle ou pour enquêter sur un tel crime;
+	- **j.2)** soit faite à l’Agence des services frontaliers du Canada, vise uniquement les renseignements mentionnés aux alinéas 5(1)a), b), i) et j) et soit nécessaire pour aider un membre, un employé ou un agent contractuel d’un service de police à prévenir un crime de nature sexuelle ou la perpétration d’une infraction visée aux articles 490.031 ou 490.0311 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), à enquêter sur un tel crime ou une telle infraction ou à porter des accusations à son égard;
+	- **j.3)** soit faite à l’Agence des services frontaliers du Canada, vise un délinquant sexuel déclaré coupable d’une infraction sexuelle visant un enfant et présentant un risque élevé de commettre un crime de nature sexuelle, vise uniquement les renseignements mentionnés aux alinéas 5(1)a), b), i) et j) et soit faite en vue d’aider un membre, un employé ou un agent contractuel d’un service de police à prévenir un crime de nature sexuelle ou la perpétration d’une infraction visée aux articles 490.031 ou 490.0311 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), à enquêter sur un tel crime ou une telle infraction ou à porter des accusations à son égard;
 	- **k)** soit faite, par la personne autorisée en vertu de l’article 13, pour des travaux de recherche ou de statistique, celle-ci ne pouvant toutefois être faite ou permise sous une forme qui risque vraisemblablement de permettre l’identification de tout individu que les renseignements concernent.
 
 **Utilisation interdite**
 
 - **(5)** Il est interdit à quiconque d’utiliser ou laisser utiliser les renseignements recueillis au titre de la présente loi ou enregistrés dans la banque de données à une fin autre que celle à laquelle ils ont été consultés, comparés, reliés, fusionnés ou communiqués au titre du présent article.
-> 2004, ch. 10, art. 16; 2007, ch. 5, art. 47; 2010, ch. 17, art. 44.
+> 2004, ch. 10, art. 16; 2007, ch. 5, art. 47; 2010, ch. 17, art. 44; 2015, ch. 23, art. 28.
 
 
 
