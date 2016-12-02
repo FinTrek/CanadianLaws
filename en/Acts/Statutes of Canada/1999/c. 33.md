@@ -8121,7 +8121,10 @@ For molecular formulae in this schedule, “n” = number of atoms.
 - **(z.16)** gases (petroleum), C<sub>3</sub>-C<sub>4</sub>, isobutane-rich (a complex combination of hydrocarbons — obtained from the distillation of saturated and unsaturated hydrocarbons having carbon numbers predominantly in the range of C<sub>3</sub> through C<sub>6</sub>, predominantly butane and isobutane — consisting of saturated and unsaturated hydrocarbons having carbon numbers in the range of C<sub>3</sub> through C<sub>4</sub>, predominantly isobutane);
 - **(z.17)** gases (petroleum), C<sub>4</sub>-rich (a complex combination of hydrocarbons — obtained from the distillation of products that result from a catalytic fractionation process — consisting of aliphatic hydrocarbons having carbon numbers in the range of C<sub>3</sub> through C<sub>5</sub>, predominantly C<sub>4</sub>); and
 - **(z.18)** hydrocarbons, C<sub>1</sub>-C<sub>4</sub>, debutanizer fraction (a complex combination of hydrocarbons — obtained from a debutanizing process — having carbon numbers in the range of C<sub>1</sub> through C<sub>4</sub>).
-> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194, 210; SOR/2011-25, 26, 34, 35, 140, 212, 286, 287; SOR/2012-40, 186, 187, 189, 219, 235; SOR/2013-188; SOR/2016-120, 150, 251.
+- **135** Hexanedioic acid, bis(2-ethylhexyl) ester, which has the molecular formula C<sub>22</sub>H<sub>42</sub>O<sub>4</sub>
+- **136** Reaction products of 2-propanone with diphenylamine
+- **137** 2-Naphthalenol, 1-[[4-(phenylazo)phenyl]azo]-, which has the molecular formula C<sub>22</sub>H<sub>16</sub>N<sub>4</sub>O
+> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194, 210; SOR/2011-25, 26, 34, 35, 140, 212, 286, 287; SOR/2012-40, 186, 187, 189, 219, 235; SOR/2013-188; SOR/2016-120, 150, 251, 308.
 
 
 
