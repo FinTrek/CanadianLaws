@@ -7839,7 +7839,10 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 - **z.16)** gaz en C<sub>3</sub>-C<sub>4</sub> (pétrole), riches en isobutane (une combinaison complexe d’hydrocarbures obtenue par distillation d’hydrocarbures saturés et insaturés dont le nombre de carbones se situe principalement dans la gamme C<sub>3</sub>-C<sub>6</sub>, principalement du butane et de l’isobutane, et composée d’hydrocarbures saturés et insaturés dont le nombre se situe dans la gamme C<sub>3</sub>-C<sub>4</sub>, principalement de l’isobutane);
 - **z.17)** gaz (pétrole), riches en C<sub>4</sub> (une combinaison complexe d’hydrocarbures obtenue par distillation des produits résultant d’un fractionnement catalytique et composée d’hydrocarbures aliphatiques dont le nombre de carbones se situe dans la gamme C<sub>3</sub>-C<sub>5</sub>, principalement en C<sub>4</sub>);
 - **z.18)** hydrocarbures en C<sub>1</sub>-C<sub>4</sub>, fraction débutanisée (une combinaison complexe d’hydrocarbures, obtenue par débutanisation, dont le nombre de carbones se situe dans la gamme C<sub>1</sub>-C<sub>4</sub>).
-> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262, 345; DORS/2006-329, 333; DORS/2010-98, 194, 210; DORS/2011-25, 26, 34, 35, 140, 212, 286, 287; DORS/2012-40, 186, 187, 189, 219, 235; DORS/2013-188; DORS/2016-120, 150, 251.
+- **135** Adipate de bis(2-éthylhexyle), dont la formule moléculaire est C<sub>22</sub>H<sub>42</sub>O<sub>4</sub>
+- **136** Produits de réaction entre l’acétone et la *N*-phénylaniline
+- **137** 1-[4-(Phénylazo)phénylazo]-2-naphtol, dont la formule moléculaire est C<sub>22</sub>H<sub>16</sub>N<sub>4</sub>O
+> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262, 345; DORS/2006-329, 333; DORS/2010-98, 194, 210; DORS/2011-25, 26, 34, 35, 140, 212, 286, 287; DORS/2012-40, 186, 187, 189, 219, 235; DORS/2013-188; DORS/2016-120, 150, 251, 308.
 
 
 
