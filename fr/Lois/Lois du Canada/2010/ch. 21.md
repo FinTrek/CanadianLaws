@@ -32,11 +32,7 @@ qu’il reconnaît que la mise en oeuvre de mesures efficaces pour encourager le
 
 
 
-
-
 Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
-
-
 
 
 
@@ -335,11 +331,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Désignation**
 
-- **(2)** Le ministre peut désigner tout individu à titre d’inspecteur pour l’exécution et le contrôle d’application de la présente loi et des règlements.
+- **(2)** Pour l’exécution et le contrôle d’application de toute disposition de la présente loi et des règlements, le ministre peut désigner tout individu — personnellement ou au titre de son appartenance à une catégorie donnée — à titre d’inspecteur pour exercer des attributions relativement à toute question mentionnée dans la désignation.
 
 **Production du certificat**
 
 - **(3)** Chaque inspecteur reçoit un certificat en la forme établie par le ministre. Le certificat atteste la qualité de l’inspecteur, qui le présente, sur demande, au responsable de tout lieu visité au titre du paragraphe 21(1).
+> 2010, ch. 21, art. 19; 2016, ch. 9, art. 63.
+
 
 
 
@@ -445,7 +443,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **26** 
 
 - **(1)** La chose saisie est, dans les cas ci-après, confisquée au profit de Sa Majesté du chef du Canada si elle en décide ainsi :
-	- **a)** le propriétaire ou la personne qui a droit à sa possession ne peuvent être identifiés dans les soixante jours suivant la saisie;
+	- **a)** le propriétaire ou la personne qui a droit à sa possession ne peuvent être identifiés, dans les soixante jours suivant la saisie, en conformité avec les éventuels règlements;
 	- **b)** le propriétaire ou cette personne ne la réclament pas dans les soixante jours suivant la date où ils sont informés de la mainlevée de la saisie.
 
 **Poursuites engagées**
@@ -455,6 +453,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Disposition**
 
 - **(3)** En cas de confiscation de la chose saisie, il peut en être disposé aux frais du propriétaire ou de la personne qui avait droit à sa possession au moment de la saisie.
+> 2010, ch. 21, art. 26; 2016, ch. 9, art. 64.
+
 
 
 
@@ -475,6 +475,39 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Confiscation sur consentement**
 
 **28** Le propriétaire de la chose saisie peut consentir à sa confiscation. Le cas échéant, la chose est confisquée au profit de Sa Majesté du chef du Canada et il peut en être disposé aux frais du propriétaire.
+
+
+
+
+## Retrait ou confiscation d’importations illégales
+
+
+
+**Importations illégales**
+
+**28.1** 
+
+- **(1)** S’il a des motifs raisonnables de croire qu’un produit de consommation importé n’est pas conforme aux exigences prévues par les règlements ou qu’il a été importé en contravention de toute disposition de la présente loi ou des règlements, l’inspecteur peut décider s’il accorde à l’intéressé  —  son propriétaire ou la personne qui l’a importé ou qui en a la possession, la responsabilité ou la charge  —  la possibilité de prendre une mesure à son égard.
+
+**Facteurs**
+
+- **(2)** Le cas échéant, pour prendre sa décision, l’inspecteur tient compte notamment :
+	- **a)** du danger pour la santé ou la sécurité humaines que présente le produit de consommation;
+	- **b)** de tout autre facteur réglementaire.
+
+**Devoir de l’inspecteur**
+
+- **(3)** S’il décide de ne pas accorder à l’intéressé la possibilité de prendre une mesure à l’égard du produit de consommation, l’inspecteur exerce à l’égard de celui-ci un des pouvoirs que lui confèrent les dispositions de la présente loi  —  à l’exception du présent article  —  ou des règlements.
+
+**Mesures pouvant être prises et avis**
+
+- **(4)** Toutefois, s’il décide d’accorder à l’intéressé une telle possibilité, l’inspecteur  —  ou tout autre inspecteur à qui la décision est communiquée  —  décide si l’intéressé peut soit retirer le produit de consommation du Canada à ses frais, soit consentir à sa confiscation, soit prendre l’une ou l’autre de ces mesures, et avise ou fait aviser l’intéressé que celui-ci peut prendre cette mesure dans le délai qu’il précise.
+
+**Confiscation**
+
+- **(5)** Si l’intéressé est avisé au titre du paragraphe (4) qu’il peut consentir à la confiscation du produit de consommation et y consent, il y a confiscation au profit de Sa Majesté du chef du Canada et il peut être disposé du produit, aux frais de l’intéressé, conformément aux instructions du ministre.
+> 2016, ch. 9, art. 65.
+
 
 
 
@@ -633,6 +666,42 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+## Frais
+
+
+
+**Recouvrement**
+
+**36.1** 
+
+- **(1)** Sa Majesté du chef du Canada peut recouvrer, à titre de créance de Sa Majesté du chef du Canada, les frais exposés par elle et liés aux mesures prises au titre des dispositions de la présente loi — à l’exception de l’article 64 — ou des règlements, notamment :
+	- **a)** l’entreposage, le déplacement ou la disposition d’une chose;
+	- **b)** les rappels faits ou les mesures prises en vertu de l’article 33.
+
+**Prescription**
+
+- **(2)** Le recouvrement en vertu du paragraphe (1) de toute créance de Sa Majesté du chef du Canada se prescrit par cinq ans à compter de la date à laquelle la créance est devenue exigible.
+> 2016, ch. 9, art. 66.
+
+
+
+
+
+**Certificat de non-paiement**
+
+**36.2** 
+
+- **(1)** Le ministre peut établir un certificat de non-paiement pour la partie impayée des créances dont le recouvrement peut être poursuivi en vertu du paragraphe 36.1(1).
+
+**Enregistrement en Cour fédérale**
+
+- **(2)** L’enregistrement à la Cour fédérale confère au certificat la valeur d’un jugement de cette juridiction pour la somme visée et les frais afférents.
+> 2016, ch. 9, art. 66.
+
+
+
+
+
 ## Règlements
 
 
@@ -657,6 +726,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **m)** régir le rappel de produits de consommation ou de catégories de produits de consommation;
 	- **n)** régir les mesures visées à l’article 32;
 	- **o)** régir la révision des ordres prévue à l’article 35;
+	- **o.1)** régir les frais liés aux mesures prises au titre des dispositions de la présente loi ou des règlements;
+	- **o.2)** régir la mise en oeuvre, en ce qui concerne les produits de consommation, des accords internationaux touchant ceux-ci;
 	- **p)** prendre toute mesure d’ordre réglementaire prévue par la présente loi.
 
 **Documents externes**
@@ -689,6 +760,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Interprétation**
 
 - **(7)** Il est entendu que les paragraphes (2) à (6) n’ont pas pour objet d’empêcher la prise de règlements incorporant par renvoi des documents autres que ceux visés à ces paragraphes.
+> 2010, ch. 21, art. 37; 2016, ch. 9, art. 67.
+
 
 
 
