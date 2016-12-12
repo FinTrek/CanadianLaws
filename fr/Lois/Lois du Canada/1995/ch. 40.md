@@ -73,11 +73,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **4** 
 
-- **(1)** Le ministre peut, par règlement :
-	- **a)** désigner comme violation punissable au titre de la présente loi la contravention — si elle constitue une infraction à une loi agroalimentaire :
+- **(1)** Le ministre peut, par règlement :
+	- **a)** désigner comme violation punissable au titre de la présente loi la contravention — si elle constitue une infraction à une loi agroalimentaire :
 		- **(i)** aux dispositions spécifiées d’une loi agroalimentaire ou de ses règlements,
 		- **(ii)** à tout arrêté spécifié pris par le ministre au titre de la [Loi sur la protection des végétaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2022.md), ou à toute catégorie de ces arrêtés,
-		- **(iii)** à toute obligation ou catégorie d’obligations spécifiée — par refus ou omission de l’accomplir — découlant de la [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md) ou de la [Loi sur la protection des végétaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2022.md);
+		- **(iii)** à toute obligation ou catégorie d’obligations spécifiée — par refus ou omission de l’accomplir — découlant de la [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md), de la [Loi sur la protection des végétaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2022.md) ou de la [Loi sur les produits antiparasitaires](/fr/Lois/Lois%20du%20Canada/2002/ch.%2028.md);
 	- **b)** qualifier les violations, selon le cas, de mineures, de graves ou de très graves;
 	- **b.1)** établir le sommaire caractérisant la violation dans les procès-verbaux;
 	- **c)** fixer le montant — notamment par barème — de la sanction applicable à chaque violation;
@@ -94,11 +94,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Critères**
 
-- **(3)** Figurent parmi les critères prévus par le ministre au titre de l’alinéa (1)d) notamment :
+- **(3)** Figurent parmi les critères prévus par le ministre au titre de l’alinéa (1)d) notamment :
 	- **a)** la nature de l’intention ou de la négligence du contrevenant;
 	- **b)** la gravité du tort causé par la violation;
 	- **c)** les antécédents du contrevenant relatifs aux violations d’une loi agroalimentaire ou aux condamnations pour infraction à une telle loi dans les cinq ans précédant la violation.
-> 1995, ch. 40, art. 4; 2015, ch. 2, art. 114.
+> 1995, ch. 40, art. 4; 2015, ch. 2, art. 114; 2016, ch. 9, art. 70.
 
 
 
@@ -137,7 +137,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Sommaire des droits**
 
 - **(3)** Figurent aussi au procès-verbal en langage clair un sommaire des droits et obligations du contrevenant prévus par la présente loi, notamment le droit de contester les faits reprochés auprès du ministre ou de la Commission et la procédure pour le faire.
-> 1995, ch. 40, art. 7; 2015, ch. 2, art. 116(A).
+> 1995, ch. 40, art. 7; 2015, ch. 2, art. 116(A); 2016, ch. 9, art. 71(A).
 
 
 
