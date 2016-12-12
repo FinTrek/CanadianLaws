@@ -2580,6 +2580,8 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 **Interdiction**
 
 **117** Il est interdit de fabriquer pour utilisation ou vente au Canada ou d’importer un produit de nettoyage ou un conditionneur d’eau qui contient une substance nutritive désignée par règlement en une concentration supérieure à celle qui est prévue par règlement.
+> 1999, ch. 33, art. 117; 2016, ch. 9, art. 30(A).
+
 
 
 
@@ -2588,18 +2590,30 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 **118** 
 
-- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut prendre tout règlement ayant pour objet d’empêcher ou de réduire la croissance de végétation aquatique due au rejet de substances nutritives dans l’eau qui peuvent perturber le fonctionnement d’un écosystème ou dégrader ou altérer, ou contribuer à dégrader ou à altérer un écosystème au détriment de l’utilisation de celui-ci par les humains, les animaux ou les plantes et visant notamment à :
+- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut prendre tout règlement ayant pour objet d’empêcher ou de réduire la croissance de végétation aquatique due au rejet de substances nutritives dans l’eau qui peuvent perturber le fonctionnement d’un écosystème ou dégrader ou altérer, ou contribuer à dégrader ou à altérer un écosystème au détriment de l’utilisation de celui-ci par les humains, les animaux ou les plantes et visant notamment à :
 	- **a)** établir la liste des substances nutritives;
 	- **b)** fixer le maximum de la concentration admissible, dans un produit de nettoyage ou un conditionneur d’eau, de toute substance nutritive désignée par règlement;
 	- **c)** régir les conditions, procédures d’essai et pratiques de laboratoire auxquelles il faut se conformer pour l’échantillonnage, l’analyse, l’essai, la mesure ou la surveillance des produits de nettoyage, conditionneurs d’eau ou substances nutritives;
-	- **d)** obliger quiconque les fabrique pour utilisation ou vente au Canada ou importe des produits de nettoyage ou des conditionneurs d’eau :
+	- **d)** obliger quiconque les fabrique pour utilisation ou vente au Canada ou importe des produits de nettoyage ou des conditionneurs d’eau :
 		- **(i)** à tenir les livres et registres nécessaires à l’application de la présente section et des règlements,
 		- **(ii)** à transmettre des échantillons du produit de nettoyage ou du conditionneur d’eau au ministre,
 		- **(iii)** à transmettre à l’un ou l’autre ministre les renseignements concernant tout produit de nettoyage ou conditionneur d’eau, ou ses ingrédients.
 
+**Exemption**
+
+- **(1.1)** Sur recommandation du ministre, le gouverneur en conseil peut prendre un règlement pour soustraire un produit de nettoyage ou un conditionneur d’eau à l’application de l’article 117.
+
+**Catégories de produits de nettoyage ou de conditionneurs d’eau**
+
+- **(1.2)** Les règlements pris au titre des paragraphes (1) ou (1.1) peuvent traiter différemment les catégories de produits de nettoyage ou de conditionneurs d’eau qu’ils établissent en fonction de tout critère, notamment ceux qui suivent :
+	- **a)** les propriétés physiques ou chimiques des produits ou des conditionneurs;
+	- **b)** les conditions de l’utilisation à laquelle les produits ou les conditionneurs sont destinés, ainsi que l’objet, les modalités ou le lieu d’une telle utilisation.
+
 **Limite**
 
 - **(2)** Le gouverneur en conseil ne peut prendre un règlement prévu au paragraphe (1) visant une substance nutritive, dans la mesure où cette substance ou un produit dans lequel se trouve cette substance est, selon lui, réglementé sous le régime d’une autre loi fédérale de manière à offrir une protection suffisante pour l’environnement.
+> 1999, ch. 33, art. 118; 2016, ch. 9, art. 31.
+
 
 
 
