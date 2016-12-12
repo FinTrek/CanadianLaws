@@ -30,11 +30,7 @@ And whereas the Parliament of Canada recognizes that the application of effectiv
 
 
 
-
-
 Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
-
-
 
 
 
@@ -341,11 +337,13 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Designation**
 
-- **(2)** The Minister may designate an individual as an inspector for the purpose of the administration and enforcement of this Act and the regulations.
+- **(2)** For the purposes of the administration and enforcement of the provisions of this Act and the regulations, the Minister may designate individuals or classes of individuals as inspectors to exercise powers or perform duties or functions in relation to any matter referred to in the designation.
 
 **Certificate to be produced**
 
 - **(3)** An inspector shall be given a certificate in a form established by the Minister attesting to the inspector’s designation and, on entering a place under subsection 21(1), the inspector shall, on request, produce the certificate to the person in charge of that place.
+> 2010, c. 21, s. 19; 2016, c. 9, s. 63.
+
 
 
 
@@ -453,7 +451,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 **26** 
 
 - **(1)** A seized thing is, at Her election, forfeited to Her Majesty in right of Canada if
-	- **(a)** within 60 days after the seizure, no person is identified as its owner or as a person who is entitled to possess it; or
+	- **(a)** within 60 days after the seizure, no person is identified, in accordance with the regulations, if any, as its owner or as the person who is entitled to possess it; or
 	- **(b)** the owner or person who is entitled to possess it, within 60 days after the day on which they are notified that the inspector has released the seized thing, does not claim it.
 
 **Proceedings instituted**
@@ -463,6 +461,8 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 **Disposal**
 
 - **(3)** A seized thing that is forfeited may be disposed of at the expense of its owner or the person who was entitled to possess it at the time of its seizure.
+> 2010, c. 21, s. 26; 2016, c. 9, s. 64.
+
 
 
 
@@ -483,6 +483,39 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 **Forfeiture — on consent**
 
 **28** If the owner of a seized thing consents to its forfeiture, the seized thing is forfeited to Her Majesty in right of Canada and may be disposed of at the expense of the owner.
+
+
+
+
+## Removal or Forfeiture of Unlawful Imports
+
+
+
+**Unlawful imports**
+
+**28.1** 
+
+- **(1)** An inspector who has reasonable grounds to believe that an imported consumer product does not meet the requirements of the regulations or was imported in contravention of a provision of this Act or the regulations may decide whether to give the owner or importer, or the person having possession, care or control of the product, the opportunity to take a measure in respect of it.
+
+**Factors**
+
+- **(2)** In making a decision under subsection (1), the inspector shall consider, among other factors
+	- **(a)** whether the consumer product is a danger to human health or safety; and
+	- **(b)** any other prescribed factors.
+
+**Duty of inspector**
+
+- **(3)** If the inspector decides under subsection (1) not to give the owner, importer or the person having possession, care or control of the consumer product the opportunity to take a measure in respect of it, the inspector shall exercise, in respect of the product, any of the powers conferred by the provisions of this Act, other than this section, or of the regulations.
+
+**Measures that may be taken and notice**
+
+- **(4)** However, if the inspector decides under subsection (1) to give the owner, importer or person having possession, care or control of the consumer product the opportunity to take a measure in respect of it, the inspector, or any other inspector who is informed of the decision, shall decide whether the owner, importer or person having possession, care or control of it may remove it from Canada at their expense, consent to its forfeiture or take either of these measures, and shall notify or cause to be notified the owner, importer or person having possession, care or control of the product that they may take that measure within the period specified by the inspector or other inspector, as the case may be.
+
+**Forfeiture**
+
+- **(5)** If a person is notified under subsection (4) that they may consent to the forfeiture of the consumer product and the person consents to its forfeiture, the product is forfeited to Her Majesty in right of Canada and may be disposed of, as the Minister may direct, at the person’s expense.
+> 2016, c. 9, s. 65.
+
 
 
 
@@ -645,6 +678,42 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
+## Costs
+
+
+
+**Recovery**
+
+**36.1** 
+
+- **(1)** Her Majesty in right of Canada may recover, as a debt due to Her Majesty in right of Canada, any costs incurred by Her Majesty in right of Canada in relation to anything required or authorized under the provisions of this Act, except section 64, or the regulations, including
+	- **(a)** the storage, movement or disposal of a thing; or
+	- **(b)** the recall or measure carried out under section 33.
+
+**Time limit**
+
+- **(2)** Proceedings to recover a debt due to Her Majesty in right of Canada under subsection (1) shall not be commenced later than five years after the debt became payable.
+> 2016, c. 9, s. 66.
+
+
+
+
+
+**Certificate of default**
+
+**36.2** 
+
+- **(1)** Any debt that may be recovered under subsection 36.1(1) in respect of which there is a default of payment, or the part of any such debt that has not been paid, may be certified by the Minister.
+
+**Judgment**
+
+- **(2)** On production to the Federal Court, a certificate made under subsection (1) shall be registered in that Court and, when registered, has the same force and effect, and all proceedings may be taken on the certificate, as if it were a judgment obtained in that Court for a debt of the amount specified in the certificate and all reasonable costs and charges attendant in the registration of the certificate.
+> 2016, c. 9, s. 66.
+
+
+
+
+
 ## Regulations
 
 
@@ -668,7 +737,9 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 	- **(l)** respecting the taking of samples or the seizure, detention, forfeiture or disposal of anything under this Act;
 	- **(m)** respecting the recall of a consumer product or class of consumer products;
 	- **(n)** respecting the measures referred to in section 32;
-	- **(o)** respecting the review of orders under section 35; and
+	- **(o)** respecting the review of orders under section 35;
+	- **(o.1)** respecting the costs in relation to anything required or authorized under the provisions of this Act or the regulations;
+	- **(o.2)** respecting the implementation, in relation to consumer products, of international agreements that affect those products; and
 	- **(p)** prescribing anything that by this Act is to be prescribed.
 
 **Externally produced material**
@@ -701,6 +772,8 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 **For greater certainty**
 
 - **(7)** Subsections (2) to (6) are for greater certainty and do not limit any authority to make regulations incorporating material by reference that exists apart from those subsections.
+> 2010, c. 21, s. 37; 2016, c. 9, s. 67.
+
 
 
 
