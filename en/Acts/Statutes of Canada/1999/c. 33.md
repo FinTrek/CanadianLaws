@@ -2681,7 +2681,9 @@ that a living organism is toxic or capable of becoming toxic, the Minister may e
 
 **Prohibition**
 
-**117** No person shall manufacture for use or sale in Canada or import a cleaning product or water conditioner that contains a prescribed nutrient in a concentration greater than the permissible concentration prescribed for that product.
+**117** No person shall manufacture for use or sale in Canada or import a cleaning product or water conditioner that contains a prescribed nutrient in a concentration greater than the permissible concentration prescribed for that product or conditioner.
+> 1999, c. 33, s. 117; 2016, c. 9, s. 30(E).
+
 
 
 
@@ -2699,9 +2701,21 @@ that a living organism is toxic or capable of becoming toxic, the Minister may e
 		- **(ii)** to submit samples of the cleaning product or water conditioner to the Minister, and
 		- **(iii)** to submit to either Minister information regarding cleaning products, water conditioners and their ingredients.
 
+**Exemption**
+
+- **(1.1)** The Governor in Council may, on the recommendation of the Minister, make regulations exempting a cleaning product or water conditioner from the application of section 117.
+
+**Class of cleaning product or water conditioner**
+
+- **(1.2)** Regulations made under subsection (1) or (1.1) may distinguish among classes of cleaning products or water conditioners that they may establish on the basis of any factor, including
+	- **(a)** the physical or chemical properties of the cleaning products or water conditioners; or
+	- **(b)** the conditions under which, the purposes for which or the manner or place in which the cleaning products or water conditioners are intended to be used.
+
 **Nutrients regulated under other Acts of Parliament**
 
 - **(2)** The Governor in Council shall not make a regulation under subsection (1) in respect of a nutrient to the extent that the nutrient, or a product in which the nutrient is contained, is, in the opinion of the Governor in Council, regulated by or under any other Act of Parliament in a manner that provides, in the opinion of the Governor in Council, sufficient protection to the environment.
+> 1999, c. 33, s. 118; 2016, c. 9, s. 31.
+
 
 
 
