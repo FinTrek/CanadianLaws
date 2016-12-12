@@ -11,10 +11,7 @@ Assented to on 12 December 2002
 
 
 
-
-**Preamble**
-
-WHEREAS the availability and use of pest control products pose potential risks, both directly and indirectly, to the health, safety and well-being of people in Canada and to the environment;
+WHEREAS the availability and use of pest control products pose potential risks, both directly and indirectly, to the health, safety and well-being of individuals in Canada and to the environment;
 
 WHEREAS pest management plays a significant role in diverse areas of the economy and other aspects of the quality of life throughout Canada;
 
@@ -22,15 +19,15 @@ WHEREAS pest control products of acceptable risk and value can contribute signif
 
 WHEREAS the goals of sustainable pest management are to meet society’s needs for human health protection, food and fibre production and resource utilization and to conserve or enhance natural resources and the quality of the environment for future generations, in an economically viable manner;
 
-WHEREAS Canada and the provinces and territories have traditionally administered complementary regulatory systems designed to protect people and the environment, including its biological diversity, from unacceptable risks posed by pest control products, and it is important that such an approach be continued in order to achieve mutually desired results efficiently, without regulatory conflict or duplication;
+WHEREAS Canada and the provinces and territories have traditionally administered complementary regulatory systems designed to protect individuals and the environment, including its biological diversity, from unacceptable risks posed by pest control products, and it is important that such an approach be continued in order to achieve mutually desired results efficiently, without regulatory conflict or duplication;
 
-WHEREAS it is in the national interest that the primary objective of the federal regulatory system be to prevent unacceptable risks to people and the environment from the use of pest control products,
+WHEREAS it is in the national interest that the primary objective of the federal regulatory system be to prevent unacceptable risks to individuals and the environment from the use of pest control products,
 
 the attainment of the objectives of the federal regulatory system continue to be pursued through a scientifically-based national registration system that addresses risks to human health and the environment both before and after registration and applies to the regulation of pest control products throughout Canada,
 
 pest control products of acceptable risk be registered for use only if it is shown that their use would be efficacious and if conditions of registration can be established to prevent adverse health impact or pollution of the environment,
 
-in assessing risks to humans, consideration be given to aggregate exposure to pest control products, cumulative effects of pest control products and the different sensitivities to pest control products of major identifiable subgroups, including pregnant women, infants, children, women and seniors,
+in assessing risks to individuals, consideration be given to aggregate exposure to pest control products, cumulative effects of pest control products and the different sensitivities to pest control products of major identifiable subgroups, including pregnant women, infants, children, women and seniors,
 
 pest control products be regulated in a manner that supports sustainable development, being development that meets the needs of the present without compromising the ability of future generations to meet their own needs,
 
@@ -40,7 +37,7 @@ applicable policies of the Government of Canada that are consistent with the obj
 
 there be cooperation among federal departments in the development of policies to pursue the attainment of the objectives of this Act, and that those policies take into account advice from diverse sources throughout the country,
 
-the provinces and territories and those whose interests and concerns are affected by the federal regulatory system be accorded a reasonable opportunity to participate in the regulatory system in ways that are consistent with the attainment of its objectives, and
+the provinces and territories and those persons whose interests and concerns are affected by the federal regulatory system be accorded a reasonable opportunity to parti­cipate in the regulatory system in ways that are consistent with the attainment of its objectives, and
 
 the federal regulatory system be administered efficiently and effectively in accordance with the foregoing principles and objectives and in a manner that recognizes the various interests and concerns affected and, where consistent with the primary objective of the system, minimizes the negative impact on economic viability and competitiveness;
 
@@ -50,6 +47,8 @@ AND WHEREAS Canada must be able to fulfil its international obligations in relat
 
 NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
+
+> 2002, c. 28, Preamble; 2016, c. 9, s. 32..
 
 
 
@@ -76,85 +75,95 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** The definitions in this subsection apply in this Act.
 
-***active ingredient*** means a component of a pest control product to which the intended effects of the product are attributed and includes a synergist but does not include a solvent, diluent, emulsifier or other component that is not primarily responsible for those effects.
+***active ingredient*** means a component of a pest control product to which the intended effects of the product are attributed and includes a synergist but does not include a solvent, diluent, emulsifier or other component that is not primarily responsible for those effects. (*principe actif*)
 
-***advertise*** includes making a representation by any means for the purpose of directly or indirectly promoting the distribution of a pest control product.
+***advertise*** includes making a representation by any means for the purpose of directly or indirectly promoting the distribution of a pest control product. (*publicité*)
 
-***analyst*** means a person who is appointed or designated as an analyst under section 45.
+***analyst*** means an individual who is appointed or designated as an analyst under section 45. (*analyste*)
 
-***biological diversity*** means the variability among living organisms from all sources, including, without limiting the generality of the foregoing, terrestrial and marine and other aquatic ecosystems and the ecological complexes of which they form a part and includes the diversity within and between species and of ecosystems.
+***biological diversity*** means the variability among living organisms from all sources, including, without limiting the generality of the foregoing, terrestrial and marine and other aquatic ecosystems and the ecological complexes of which they form a part and includes the diversity within and between species and of ecosystems. (*diversité biologique*)
 
-***biotechnology*** means the application of science and engineering in the direct or indirect use of living organisms or parts or products of living organisms in their natural or modified forms.
+***biotechnology*** means the application of science and engineering in the direct or indirect use of living organisms or parts or products of living organisms in their natural or modified forms. (*biotechnologie*)
 
-***conditions of registration*** means
+***conditions of registration*** means
 - **(a)** any conditions specified by the Minister under paragraph 8(1)(a) or subsection 8(2) or when amending the registration of a pest control product under this Act; and
-- **(b)** any other requirements stated by this Act or the regulations to be conditions of registration.
+- **(b)** any other requirements stated by this Act or the regulations to be conditions of registration. (*conditions d’homologation*)
 
-***confidential business information*** means information to which access may be refused under the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) and that meets the requirements of subsection 43(4) or (5).
+***confidential business information*** means information to which access may be refused under the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) and that meets the requirements of subsection 43(4) or (5). (*renseignements commerciaux confidentiels*)
 
-***confidential test data*** means test data to which access may be refused under the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md).
+***confidential test data*** means test data to which access may be refused under the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md). (*données d’essai confidentielles*)
 
-***distribute*** means distribute in any way, whether or not for consideration, and includes sell, offer for sale or distribution, and expose, display or advertise for sale or distribution.
+***distribute*** means distribute in any way, whether or not for consideration, and includes sell, offer for sale or distribution, and expose, display or advertise for sale or distribution. (*distribution*)
 
-***ecosystem*** means a dynamic complex of plant, animal and micro-organism communities and their non-living environment interacting as a functional unit.
+***document*** means anything on which information that is capable of being understood by a person, or read by a computer or other device, is recorded or marked. (*document*)
 
-***environment*** means the components of the Earth and includes
+***ecosystem*** means a dynamic complex of plant, animal and micro-organism communities and their non-living environment interacting as a functional unit. (*écosystème*)
+
+***environment*** means the components of the Earth and includes
 - **(a)** air, land and water;
 - **(b)** all layers of the atmosphere;
 - **(c)** all organic and inorganic matter and living organisms; and
-- **(d)** the interacting natural systems that include components referred to in paragraphs (a) to (c).
+- **(d)** the interacting natural systems that include components referred to in paragraphs (a) to (c). (*environnement*)
 
-***environmental risk***, in respect of a pest control product, means the possibility of harm to the environment, including its biological diversity, resulting from exposure to or use of the product, taking into account its conditions or proposed conditions of registration.
+***environmental risk***, in respect of a pest control product, means the possibility of harm to the environment, including its biological diversity, resulting from exposure to or use of the product, taking into account its conditions or proposed conditions of registration. (*risque environnemental*)
 
-***formulant*** means any component of a pest control product that is added intentionally to the product and that is not an active ingredient.
+***formulant*** means any component of a pest control product that is added intentionally to the product and that is not an active ingredient. (*formulant*)
 
-***government policy*** means the Toxic Substances Management Policy issued by the Government of Canada in June, 1995, as long as it remains in effect, and any other policies of the Government of Canada that are prescribed.
+***government policy*** means the Toxic Substances Management Policy issued by the Government of Canada in June, 1995, as long as it remains in effect, and any other policies of the Government of Canada that are prescribed. (*politique gouvernementale*)
 
-***health risk***, in respect of a pest control product, means the possibility of harm to human health resulting from exposure to or use of the product, taking into account its conditions or proposed conditions of registration.
+***health risk***, in respect of a pest control product, means the possibility of harm to human health resulting from exposure to or use of the product, taking into account its conditions or proposed conditions of registration. (*risque sanitaire*)
 
-***inspector*** means a person who is appointed or designated as an inspector under section 45.
+***inspector*** means an individual who is appointed or designated as an inspector under section 45. (*inspecteur*)
 
-***label***, in respect of a pest control product, means anything that conveys information that is required by this Act or the regulations to accompany the product.
+***label*** includes any written, printed or graphic matter
+- **(a)** that is or is to be applied or attached to or included in, or that accompanies or is to accompany, a pest control product or a package; or
+- **(b)** that belongs to a pest control product and is transmitted electronically, in accordance with the regulations. (*étiquette*)
 
-***manufacture*** includes produce, formulate, repackage and prepare for distribution or use.
+***manufacture*** includes produce, formulate, package, label and prepare for distribution or use. (*fabrication*)
 
-***Minister*** means the Minister of Health.
+***Minister*** means the Minister of Health. (*ministre*)
 
-***package*** includes a container, wrapping, covering or holder in which a pest control product is wholly or partly contained, placed or packed, including the label and anything else that accompanies the product and conveys information about it.
+***package*** includes a container, wrapping, covering or holder in which a pest control product is wholly or partly contained, placed or packed. (*emballage*)
 
-***penalty*** means an administrative monetary penalty imposed under the [Agriculture and Agri-Food Administrative Monetary Penalties Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2040.md) for a violation.
+***penalty*** means an administrative monetary penalty imposed under the [Agriculture and Agri-Food Administrative Monetary Penalties Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2040.md) for a violation. (*pénalité*)
 
-***pest*** means an animal, a plant or other organism that is injurious, noxious or troublesome, whether directly or indirectly, and an injurious, noxious or troublesome condition or organic function of an animal, a plant or other organism.
+***person*** means Her Majesty, an individual or an organization as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). (*personne*)
 
-***pest control product*** means
+***pest*** means an animal, a plant or other organism that is injurious, noxious or troublesome, whether directly or indirectly, and an injurious, noxious or troublesome condition or organic function of an animal, a plant or other organism. (*parasite*)
+
+***pest control product*** means
 - **(a)** a product, an organism or a substance, including a product, an organism or a substance derived through biotechnology, that consists of its active ingredient, formulants and contaminants, and that is manufactured, represented, distributed or used as a means for directly or indirectly controlling, destroying, attracting or repelling a pest or for mitigating or preventing its injurious, noxious or troublesome effects;
 - **(b)** an active ingredient that is used to manufacture anything described in paragraph (a); or
-- **(c)** any other thing that is prescribed to be a pest control product.
+- **(c)** any other thing that is prescribed to be a pest control product. (*produit antiparasitaire*)
 
-***place*** includes a means of transport.
+***place*** includes a means of transport. (*lieu*)
 
-Version anglaise seulement***prescribed*** means prescribed by regulation.
+***prescribed*** means prescribed by regulation. (*Version anglaise seulement*)
 
-***Register*** means the Register of Pest Control Products established and maintained under section 42.
+***Register*** means the Register of Pest Control Products established and maintained under section 42. (*Registre*)
 
-***registrant*** means a person in whose name a pest control product is registered.
+***registrant*** means a person in whose name a pest control product is registered. (*titulaire*)
 
-***test data*** means scientific or technical information respecting the health or environmental risks or the value of a pest control product.
+***test data*** means scientific or technical information respecting the health or environmental risks or the value of a pest control product. (*données d’essai*)
 
-***threshold effect***, in respect of a pest control product, means a harmful effect on human health for which the Minister is able to identify a level at which the product will not cause that effect.
+***threshold effect***, in respect of a pest control product, means a harmful effect on human health for which the Minister is able to identify a level at which the product will not cause that effect. (*effet de seuil*)
 
 ***value***, in respect of a pest control product, means the product’s actual or potential contribution to pest management, taking into account its conditions or proposed conditions of registration, and includes the product’s
 - **(a)** efficacy;
 - **(b)** effect on host organisms in connection with which it is intended to be used; and
-- **(c)** health, safety and environmental benefits and social and economic impact.
+- **(c)** health, safety and environmental benefits and social and economic impact. (*valeur*)
 
-***violation*** means a contravention of this Act or the regulations that may be proceeded with in accordance with the [Agriculture and Agri-Food Administrative Monetary Penalties Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2040.md).
+***violation*** means any of the following that may be proceeded with in accordance with the [Agriculture and Agri-Food Administrative Monetary Penalties Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2040.md):
+- **(a)** any contravention of any provision of this Act or of a regulation made under this Act; and
+- **(b)** any refusal or neglect to perform any duty imposed by or under this Act. (*violation*)
 
-***workplace*** means a place where a person works for remuneration.
+***workplace*** means a place where an individual works for remuneration. (*lieu de travail*)
 
 **Acceptable risks**
 
 - **(2)** For the purposes of this Act, the health or environmental risks of a pest control product are acceptable if there is reasonable certainty that no harm to human health, future generations or the environment will result from exposure to or use of the product, taking into account its conditions or proposed conditions of registration.
+> 2002, c. 28, s. 2; 2016, c. 9, s. 33.
+
 
 
 
@@ -178,7 +187,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **4** 
 
-- **(1)** In the administration of this Act, the Minister’s primary objective is to prevent unacceptable risks to people and the environment from the use of pest control products.
+- **(1)** In the administration of this Act, the Minister’s primary objective is to prevent unacceptable risks to individuals and the environment from the use of pest control products.
 
 **Ancillary objectives**
 
@@ -187,6 +196,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 	- **(b)** seek to minimize health and environmental risks posed by pest control products and encourage the development and implementation of innovative, sustainable pest management strategies by facilitating access to pest control products that pose lower risks and by other appropriate measures;
 	- **(c)** encourage public awareness in relation to pest control products by informing the public, facilitating public access to relevant information and public participation in the decision-making process; and
 	- **(d)** ensure that only those pest control products that are determined to be of acceptable value are approved for use in Canada.
+> 2002, c. 28, s. 4; 2016, c. 9, s. 34.
+
 
 
 
@@ -223,19 +234,17 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **6** 
 
-- **(1)** No person shall manufacture, possess, handle, store, transport, import, distribute or use a pest control product that is not registered under this Act, except as otherwise authorized under subsection 21(5) or 41(1), any of sections 53 to 59 or the regulations.
+- **(1)** No person shall manufacture, possess, handle, store, transport, import, distribute or use a pest control product that is not registered under this Act, except as otherwise authorized under subsection 21(5) or 41(1), section 48 or 51, any of sections 53 to 59 or the regulations.
 
 **Conditions of registration**
 
-- **(2)** No person shall manufacture, import, export or distribute a registered pest control product unless it conforms to the conditions of registration respecting its composition and the person complies with the other conditions of registration.
+- **(2)** Except as otherwise authorized under section 53.3 or 54, no person shall manufacture, import, export or distribute a registered pest control product unless it conforms to the conditions of registration respecting its composition and the person complies with the other conditions of registration.
 
-**Packaging of pest control products**
+**Packaging and labelling**
 
-- **(3)** No person shall store, import, export or distribute a pest control product that is not packaged in accordance with the regulations and the conditions of registration.
+- **(3)** Except as otherwise authorized under section 53, 53.3 or 54, no person shall store, import, export or distribute a pest control product that is not packaged and labelled in accordance with the regulations and, if it is registered, the conditions of registration.
 
-**Defence**
-
-- **(4)** A person shall not be found to have contravened subsection (3) if it is established that the person reasonably believed that the pest control product was packaged in accordance with the regulations and the conditions of registration.
+- **(4)** [Repealed, 2016, c. 9, s. 35]
 
 **Misuse of pest control products**
 
@@ -243,25 +252,37 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 	- **(a)** the regulations; or
 	- **(b)** if the product is registered, the directions on the label recorded in the Register, subject to the regulations.
 
-**Defence**
+- **(6)** [Repealed, 2016, c. 9, s. 35]
 
-- **(6)** A person shall not be found to have contravened subsection (5) if it is established that the person
-	- **(a)** reasonably believed that the directions on the label accompanying the pest control product complied with the regulations or, if the product is registered, with the directions on the label recorded in the Register; and
-	- **(b)** handled, stored, transported, used or disposed of the product in accordance with the directions on the label accompanying it.
+**Packaging, labelling and advertisement**
 
-**Packaging and advertisement of pest control products**
-
-- **(7)** No person shall package or advertise a pest control product in a way that is false, misleading or likely to create an erroneous impression regarding its character, value, quantity, composition, safety or registration.
+- **(7)** No person shall package, label or advertise a pest control product in a way that is false, misleading or likely to create an erroneous impression regarding its character, value, quantity, composition, safety or registration.
 
 **Activities that endanger health, etc.**
 
 - **(8)** No person shall manufacture, possess, handle, store, transport, distribute, use or dispose of a pest control product in a way that endangers human health or safety or the environment.
+
+**Alteration, destruction or falsification — required documents**
+
+- **(8.1)** No person shall alter, destroy or falsify a document that they are required under this Act to keep, maintain or provide.
+
+**Alteration, possession or use — official documents**
+
+- **(8.2)** It is prohibited for a person to
+	- **(a)** alter a document issued or made — or in any manner given — under this Act; or
+	- **(b)** have in their possession, or use, a document issued or made — or in any manner given — under this Act that has been altered.
+
+**Possession or use of documents that resemble official documents**
+
+- **(8.3)** It is prohibited for a person to have in their possession, or use, any document that has not been issued or made — or in any manner given — under this Act if the document so resembles a document issued or made — or in any manner given — under this Act that it is likely to be mistaken for such a document.
 
 **Offence and punishment**
 
 - **(9)** A person who contravenes any provision of this section is guilty of an offence and liable
 	- **(a)** on summary conviction, to a fine of not more than $200,000 or to imprisonment for a term of not more than six months, or to both; or
 	- **(b)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than three years, or to both.
+> 2002, c. 28, s. 6; 2016, c. 9, s. 35.
+
 
 
 
@@ -338,7 +359,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 **8** 
 
 - **(1)** If the Minister considers that the health and environmental risks and the value of the pest control product are acceptable after any required evaluations and consultations have been completed, the Minister shall register the product or amend its registration in accordance with the regulations, if any, by
-	- **(a)** specifying the conditions relating to its manufacture, handling, storage, transport, import, export, packaging, distribution, use or disposal, including conditions relating to its composition and, subject to subsection (2), its label;
+	- **(a)** specifying the conditions relating to its manufacture, handling, storage, transport, import, export, packaging, distribution, use or disposition, including conditions relating to its composition, and, subject to subsection (2), the conditions relating to its label;
 	- **(b)** assigning a registration number to the product in the case of a new registration and, where the Minister considers it appropriate, in the case of an amendment; and
 	- **(c)** specifying the period for which the registration or amended registration is valid, which period may be either finite or indefinite.
 
@@ -361,6 +382,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 **Former registrants**
 
 - **(6)** The obligation under subsection (5) to retain and report sales information in respect of a pest control product continues to apply to a former registrant after that product ceases to be registered.
+> 2002, c. 28, s. 8; 2016, c. 9, s. 36.
+
 
 
 
@@ -824,11 +847,19 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 - **(6)** The Minister shall give public notice of the authorization.
 
-**Offence and punishment**
+**Offence and punishment — subsection (2)**
 
-- **(7)** Every person who contravenes subsection (2) or who knowingly provides false or misleading information in connection with an authorization is guilty of an offence and liable
+- **(7)** Every person who contravenes subsection (2) is guilty of an offence and liable
 	- **(a)** on summary conviction, to a fine of not more than $200,000 or to imprisonment for a term of not more than six months, or to both; or
 	- **(b)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than three years, or to both.
+
+**Offence and punishment — false or misleading information**
+
+- **(8)** Every person who knowingly provides false or misleading information in connection with an authorization is guilty of an offence and liable
+	- **(a)** on summary conviction, to a fine of not more than $200,000 or to imprisonment for a term of not more than six months, or to both; or
+	- **(b)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than three years, or to both.
+> 2002, c. 28, s. 33; 2016, c. 9, s. 37.
+
 
 
 
@@ -873,7 +904,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **Establishment of review panel**
 
-- **(3)** After receiving a notice of objection, the Minister may, in accordance with the regulations, if any, establish a panel of one or more persons to review the decision and to recommend whether the decision should be confirmed, reversed or varied.
+- **(3)** After receiving a notice of objection, the Minister may, in accordance with the regulations, if any, establish a panel of one or more individuals to review the decision and to recommend whether the decision should be confirmed, reversed or varied.
 
 **Notice of review panel**
 
@@ -898,6 +929,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 **Information to be placed in Register**
 
 - **(9)** A review panel shall give the information submitted to it to the Minister, who shall place it in the Register.
+> 2002, c. 28, s. 35; 2016, c. 9, s. 38.
+
 
 
 
@@ -1135,7 +1168,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 - **(1)** The Minister may, in accordance with the regulations, if any, disclose confidential test data or confidential business information that has been provided under this Act or is in the Register to
 	- **(a)** any person who provides services to Her Majesty in right of Canada for the purpose of protecting human health or safety or the environment;
 	- **(b)** an international organization or the government of a province or a country that is a party to an agreement with Her Majesty in right of Canada or an agent of Her Majesty, relating to the exchange of information about pest control products;
-	- **(c)** a medical professional who requests the information for the purpose of making a medical diagnosis or giving medical treatment to a person;
+	- **(c)** a medical professional who requests the information for the purpose of making a medical diagnosis or giving medical treatment to an individual;
 	- **(d)** a department or an agency of the federal or a provincial government that requests the information in order to respond to a situation that endangers human health or safety or the environment;
 	- **(e)** a review panel established by the Minister under subsection 35(3); or
 	- **(f)** any other person or body, including an advisory council established under subsection 5(1), from whom the Minister requests advice for the purposes of this Act.
@@ -1167,11 +1200,13 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 - **(7)** Every person who contravenes subsection (6) is guilty of an offence and liable
 	- **(a)** on summary conviction, to a fine of not more than $200,000 or to imprisonment for a term of not more than six months, or to both; or
 	- **(b)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than three years, or to both.
+> 2002, c. 28, s. 44; 2016, c. 9, s. 40.
 
 
 
 
-## Enforcement
+
+## Administration and Enforcement
 
 
 
@@ -1187,13 +1222,15 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **Designation of inspectors and analysts**
 
-- **(2)** For the purposes of this Act, the Minister may designate qualified persons, either individually or as a class, to act as inspectors or analysts in relation to any matter referred to in the designation, but
-	- **(a)** no person who is employed in a department other than the Department of Health may be designated without the approval of the minister responsible for the department in which the person is employed; and
-	- **(b)** no person who is employed by the government of a province may be designated without the approval of that government.
+- **(2)** For the purposes of the administration and enforcement of this Act, the Minister may designate individuals or classes of individuals as inspectors or analysts to exercise powers or perform duties or functions in relation to any matter referred to in the designation, but
+	- **(a)** no individual who is employed in a department other than the Department of Health may be designated without the approval of the minister responsible for the department in which the individual is employed; and
+	- **(b)** no individual who is employed by the government of a province may be designated without the approval of that government.
 
 **Inspector’s certificate of designation**
 
 - **(3)** An inspector shall be provided with a certificate in a form established by the Minister certifying the inspector’s designation and, on entering any place under the authority of this Act, the inspector shall show the certificate to the person in charge of the place if the person requests proof of the designation.
+> 2002, c. 28, s. 45; 2016, c. 9, s. 42.
+
 
 
 
@@ -1202,7 +1239,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **46** 
 
-- **(1)** No person shall resist or wilfully obstruct an inspector or make a false or misleading statement either orally or in writing to an inspector who is carrying out duties or functions under this Act.
+- **(1)** No person shall resist or obstruct an inspector or make a false or misleading statement either orally or in writing to an inspector who is exercising powers or performing duties or functions under this Act.
 
 **Inspection of records**
 
@@ -1213,6 +1250,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 - **(3)** Every person who contravenes this section is guilty of an offence and liable
 	- **(a)** on summary conviction, to a fine of not more than $200,000 or to imprisonment for a term of not more than six months, or to both; or
 	- **(b)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than three years, or to both.
+> 2002, c. 28, s. 46; 2016, c. 9, s. 43.
+
 
 
 
@@ -1231,18 +1270,20 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 - **(2)** When making a report, the person may request that their identity and any information that could reasonably reveal their identity not be disclosed, and no person shall disclose or permit the disclosure of that identity or information unless the person who made the request authorizes the disclosure in writing.
 
-**Protection of person**
+**Protection of individual**
 
-- **(3)** Despite any other Act of Parliament, no person shall dismiss, suspend, demote, discipline, deny a benefit of employment to, harass or otherwise disadvantage a person for having
+- **(3)** Despite any other Act of Parliament, no person shall dismiss, suspend, demote, discipline, deny a benefit of employment to, harass or otherwise disadvantage an individual for having
 	- **(a)** made a report under subsection (1);
-	- **(b)** refused or stated an intention of refusing to do anything that the person reasonably believed was or would be a contravention under this Act; or
-	- **(c)** done or stated an intention of doing anything that the person reasonably believed was required by or under this Act.
+	- **(b)** refused or stated an intention of refusing to do anything that the individual reasonably believed was or would be a contravention under this Act; or
+	- **(c)** done or stated an intention of doing anything that the individual reasonably believed was required by or under this Act.
 
 **Offence and punishment**
 
 - **(4)** Every person who contravenes subsection (2) or (3) is guilty of an offence and liable
 	- **(a)** on summary conviction, to a fine of not more than $200,000 or to imprisonment for a term of not more than six months, or to both; or
 	- **(b)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than three years, or to both.
+> 2002, c. 28, s. 47; 2016, c. 9, s. 44.
+
 
 
 
@@ -1255,19 +1296,37 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **48** 
 
-- **(1)** For the purpose of ensuring compliance with this Act and the regulations, an inspector may
+- **(1)** For a purpose related to verifying compliance or preventing non-compliance with the provisions of this Act and the regulations, an inspector may
 	- **(a)** subject to section 49, at any reasonable time, enter and inspect any place, or stop any means of transport, in which the inspector believes on reasonable grounds there is a pest control product or other thing to which this Act or the regulations apply;
 	- **(b)** open and examine any receptacle, package or other thing that the inspector believes on reasonable grounds contains a pest control product or other thing to which this Act or the regulations apply and take samples from it;
-	- **(c)** require any person to present any pest control product or other thing for inspection in any manner and under any conditions that the inspector considers necessary to conduct an inspection;
-	- **(d)** require any person to produce for inspection or copying, in whole or in part, any record or other document that the inspector believes on reasonable grounds contains information relevant to the administration of this Act or the regulations; and
+	- **(c)** order any person to present any pest control product or other thing for inspection in any manner and under any conditions that the inspector considers necessary to conduct an inspection;
+	- **(d)** order the owner or person having possession, care or control of a means of transport that the inspector intends to enter, to move it to a place where the inspector can enter it;
+	- **(d.1)** examine or test, or take samples of, anything that is in the place being inspected;
+	- **(d.2)** examine a document that is in the place being inspected, make copies of it or take extracts from it;
+	- **(d.3)** order the owner or person having possession, care or control of a pest control product or other thing to which this Act or the regulations apply that is in the place being inspected to move it or, for any time that may be necessary, not to move it or to restrict its movement;
+	- **(d.4)** use or cause to be used a computer or other device that is in the place being inspected to examine data that is contained in or available to a computer system or reproduce it or cause it to be reproduced in the form of a printout or other intelligible output and remove the output for examination or copying;
+	- **(d.5)** use or cause to be used copying equipment that is in the place being inspected and remove the copies for examination;
+	- **(d.6)** take photographs or make recordings or sketches;
+	- **(d.7)** order any person in the place being inspected to establish their identity to the inspector’s satisfaction;
+	- **(d.8)** prohibit or limit access to all or part of the place being inspected or to anything that is in the place;
+	- **(d.9)** remove anything from the place being inspected for the purpose of examination, conducting tests or taking samples; and
 	- **(e)** conduct any tests or analyses or take any measurements.
 
-**Operation of data processing systems and copying equipment**
+**Persons accompanying inspector**
 
-- **(2)** In conducting an inspection at a place, an inspector may
-	- **(a)** use or cause to be used any data processing system at the place to examine any data contained in or available to the system;
-	- **(b)** reproduce any record or cause it to be reproduced from the data in the form of a print-out or other intelligible output and take the print-out or other output for examination or copying; and
-	- **(c)** use or cause to be used any copying equipment at the place to make copies of any record or other document.
+- **(2)** An inspector may be accompanied by any person that they believe is necessary to help them exercise their powers or perform their duties or functions under this section.
+
+**Entering private property**
+
+- **(3)** An inspector and any person accompanying them may enter and pass through private property, other than a dwelling house on that property, in order to gain entry to a place referred to in paragraph (1)(a).
+
+**Offence and punishment**
+
+- **(4)** Every person who fails to do anything the person was ordered to do by an inspector under paragraphs (1)(c), (d), (d.3) or (d.7) is guilty of an offence and liable
+	- **(a)** on summary conviction, to a fine of not more than $200,000 or to imprisonment for a term of not more than six months, or to both; or
+	- **(b)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than three years, or to both.
+> 2002, c. 28, s. 48; 2016, c. 9, s. 45.
+
 
 
 
@@ -1282,13 +1341,19 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 - **(2)** If on *ex parte* application a justice is satisfied by information on oath that
 	- **(a)** the conditions for entry described in section 48 exist in relation to a dwelling-place,
-	- **(b)** entry to the dwelling-place is necessary for a purpose relating to the administration of this Act or the regulations, and
+	- **(b)** entry to the dwelling-place is necessary for a purpose related to verifying compliance or preventing non-compliance with the provisions of this Act and the regulations, and
 	- **(c)** entry to the dwelling-place has been refused or there are reasonable grounds to believe that entry will be refused,
 the justice may at any time sign and issue a warrant authorizing the inspector named in it to enter and inspect the dwelling-place, subject to any conditions that may be specified in the warrant.
 
 **Use of force**
 
 - **(3)** An inspector who executes a warrant shall not use force unless he or she is accompanied by a peace officer and the use of force is specifically authorized in the warrant.
+
+**Telewarrant**
+
+- **(4)** If an inspector believes that it would be impracticable to appear personally to make an application for a warrant under subsection (2), a warrant may be issued by telephone or other means of telecommunication, on information submitted by telephone or other means of telecommunication, and section 487.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) applies for that purpose, with any necessary modifications.
+> 2002, c. 28, s. 49; 2016, c. 9, s. 46.
+
 
 
 
@@ -1297,32 +1362,34 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 
 **50** 
 
-- **(1)** The owner or the person in charge of a place entered by an inspector under section 48 or 49 or under a warrant issued under section 487 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) and any person found in the place shall
-	- **(a)** give the inspector all reasonable assistance in their power to enable the inspector to perform duties and functions under this Act or the regulations; and
-	- **(b)** provide the inspector with any information relevant to the administration of this Act or the regulations that the inspector may reasonably require.
+- **(1)** The owner or the person in charge of a place entered by an inspector under section 48 or 49 and any person found in the place shall
+	- **(a)** give the inspector all reasonable assistance in their power to enable the inspector to exercise powers or perform duties or functions under the provisions of this Act or the regulations; and
+	- **(b)** provide the inspector with any information relevant to the administration of the provisions of this Act or the regulations that the inspector may reasonably require.
 
 **Offence and punishment**
 
 - **(2)** Every person who contravenes subsection (1) is guilty of an offence and liable
 	- **(a)** on summary conviction, to a fine of not more than $200,000 or to imprisonment for a term of not more than six months, or to both; or
 	- **(b)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than three years, or to both.
+> 2002, c. 28, s. 50; 2016, c. 9, s. 47.
 
 
 
 
-### Searches
 
-
-
-**When warrant not necessary**
+**Production of documents, information or samples**
 
 **51** 
 
-- **(1)** For the purpose of ensuring compliance with this Act and the regulations, an inspector may exercise the powers of search and seizure provided for in section 487 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) without a warrant if the conditions for obtaining a warrant exist but, by reason of exigent circumstances, it would not be practical to obtain one.
+- **(1)** An inspector may, for a purpose related to verifying compliance or preventing non-compliance with the provisions of this Act and the regulations, order a person to provide, on the date, at the time and place and in the manner specified by the inspector, any document, information or sample specified by the inspector.
 
-**Additional powers during search**
+**Offence and punishment**
 
-- **(2)** In conducting a search under subsection (1) or under section 487 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), an inspector may exercise the powers described in section 48.
+- **(2)** Every person who fails to do anything the person was ordered to do by an inspector under subsection (1) is guilty of an offence and liable
+	- **(a)** on summary conviction, to a fine of not more than $200,000 or to imprisonment for a term of not more than six months, or to both; or
+	- **(b)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than three years, or to both.
+> 2002, c. 28, s. 51; 2016, c. 9, s. 48.
+
 
 
 
@@ -1333,63 +1400,178 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 
 **Inspector may seize**
 
-**52** 
-
-- **(1)** An inspector conducting an inspection under section 48, 49 or 51 may seize and detain any pest control product or other thing if he or she has reasonable grounds to believe that
-	- **(a)** it was involved in a contravention of this Act or the regulations; or
-	- **(b)** it will afford evidence in respect of a contravention of this Act or the regulations.
-
-**Communicate reasons**
-
-- **(2)** After seizing a pest control product or other thing, the inspector shall, as soon as practicable, take any measures that are necessary in the circumstances to advise the owner or the person in whose possession, care or control the product was at the time of the seizure, or the owner or person responsible for the place where it was seized, of the reason for the seizure and the place where the product is being stored.
+**52** An inspector may seize and detain any pest control product or other thing that the inspector has reasonable grounds to believe
+- **(a)** was used in a contravention of a provision of this Act or the regulations;
+- **(b)** is something in relation to which a provision of this Act or the regulations was contravened; or
+- **(c)** was obtained by the contravention of a provision of this Act or the regulations.
+> 2002, c. 28, s. 52; 2016, c. 9, s. 49.
 
 
 
 
-### Disposition of Things Seized
+
+### Dealing with Seized Things
 
 
 
-**Storage and removal**
+**Storage, movement and disposition**
 
 **53** 
 
-- **(1)** An inspector or any person designated by an inspector may
-	- **(a)** store a seized pest control product or other thing at the place where it was seized or remove it to another place for storage; or
-	- **(b)** require the owner of the product or other thing or the person in whose possession, care or control the product was at the time of the seizure, or the owner or person responsible for the place where it was seized, to remove the product to any other place for storage.
+- **(1)** An inspector may, in respect of a pest control product or other thing seized under this Act,
+	- **(a)** on notice to its owner or the person having possession, care or control of it at the time of its seizure or to the owner or person responsible for the place where it was seized, store it or move it at the expense of the person to whom the notice is given;
+	- **(b)** order its owner or the person having possession, care or control of it at the time of its seizure or the owner or person responsible for the place where it was seized to store it or move it at the expense of the person being so ordered;
+	- **(c)** if the pest control product or other thing is perishable, order its owner or the person having possession, care or control of it at the time of its seizure to dispose of it at the expense of the person being so ordered or, on notice to its owner or the person having possession, care or control of it at the time of its seizure, dispose of it at the expense of the person to whom the notice is given; or
+	- **(d)** if the inspector is of the opinion that the pest control product or other thing endangers human health or safety or the environment and that its disposition is necessary to respond to the danger, order its owner or the person having possession, care or control of it at the time of its seizure to dispose of it, despite subsection 6(8), at the expense of the person being so ordered or, on notice to its owner or the person having possession, care or control of it at the time of its seizure, dispose of it, despite subsection 6(8), at the expense of the person to whom the notice is given.
 
 **Notice**
 
-- **(2)** A requirement under paragraph (1)(b) shall be communicated by delivering a written notice to the owner or person and the notice
-	- **(a)** must include a statement of the reasons for the requirement; and
-	- **(b)** may specify the period within which and the manner in which the pest control product or other thing is to be removed and stored.
+- **(2)** An order under paragraph (1)(c) or (d) shall be communicated by delivering a written notice to the owner or person and the notice
+	- **(a)** must include a statement of the reasons for the order; and
+	- **(b)** may specify the period within which and the manner in which the pest control product or other thing is to be disposed.
 
 **Offence and punishment**
 
-- **(3)** Every person who fails to comply with a requirement in a notice delivered under subsection (2) is guilty of an offence and liable
+- **(3)** Every person who fails to do anything the person was ordered to do by an inspector under paragraph (1)(b), (c) or (d) is guilty of an offence and liable
 	- **(a)** on summary conviction, to a fine of not more than $200,000 or to imprisonment for a term of not more than six months, or to both; or
 	- **(b)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than three years, or to both.
 
 **Interference with seized things**
 
-- **(4)** Except as authorized in writing by an inspector, no person shall remove, alter or interfere in any way with a pest control product or other thing seized and detained by an inspector under this Act.
+- **(4)** Except with the authorization of an inspector, no person shall move, alter or interfere with a pest control product or other thing seized under this Act.
 
 **Offence and punishment**
 
 - **(5)** Every person who contravenes subsection (4) is guilty of an offence and liable
 	- **(a)** on summary conviction, to a fine of not more than $200,000 or to imprisonment for a term of not more than six months, or to both; or
 	- **(b)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than three years, or to both.
+> 2002, c. 28, s. 53; 2016, c. 9, s. 51.
 
 
 
 
-**Application of certain provisions of [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md)**
 
-**54** Subsections 489.1(2) and (3) and section 490 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) apply in respect of a pest control product or other thing seized by an inspector, except that
-- **(a)** the references in subsection 490(1) of that Act to “the prosecutor” shall be read as references to “the prosecutor or inspector”;
-- **(b)** the reference in subsection 490(2) of that Act to “a period of not more than three months” shall be read as a reference to “a period of not more than six months”;
-- **(c)** the references in section 490 of that Act to “proceedings” shall be read as references to “proceedings or proceedings in respect of violations”; and
-- **(d)** if proceedings relating to the seized thing are commenced in respect of a violation, the justice before whom the thing was brought or to whom its seizure was reported shall forward the seized thing to the Minister to be detained and disposed of under section 22 of the [Agriculture and Agri-Food Administrative Monetary Penalties Act](/en/Acts/Statutes%20of%20Canada/1995/c.%2040.md) or under subsection 55(3) of this Act.
+**Release of seized thing**
+
+**53.1** If an inspector is satisfied that the provisions of this Act and the regulations that apply with respect to a pest control product or other thing seized under this Act have been complied with, the product or thing must be released.
+> 2016, c. 9, s. 52.
+
+
+
+
+
+**Application for return**
+
+**53.2** 
+
+- **(1)** Subject to subsection 55(1), if proceedings are instituted in relation to a pest control product or other thing seized under this Act, its owner or the person having possession, care or control of it at the time of its seizure may apply, in the case of a violation, to the Review Tribunal continued by subsection 4.1(1) of the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md) or, in the case of an offence, to the court before which the proceedings are being held, for an order that the thing be returned.
+
+**Order for return**
+
+- **(2)** If the Review Tribunal or court, as the case may be, is satisfied that sufficient evidence exists or may reasonably be obtained without the continued detention of the pest control product or other thing, the Tribunal or court may order it to be returned to the applicant, subject to any conditions the Tribunal or court may impose to ensure that it is preserved for any purpose for which it may subsequently be required.
+> 2016, c. 9, s. 52.
+
+
+
+
+
+### Removal, Forfeiture or Destruction of Unlawful Imports
+
+
+
+**Unlawful imports**
+
+**53.3** 
+
+- **(1)** An inspector who has reasonable grounds to believe that an imported pest control product does not meet the requirements of the regulations or was imported in contravention of a provision of this Act or the regulations may decide whether to give the owner or importer, or the person having possession, care or control of the product, the opportunity to take a measure in respect of it.
+
+**Factors**
+
+- **(2)** In making a decision under subsection (1), the inspector shall consider, among other factors
+	- **(a)** whether the pest control product endangers human health or safety or the environment; and
+	- **(b)** any other prescribed factors.
+
+**Duty of inspector**
+
+- **(3)** If the inspector decides under subsection (1) not to give the owner or importer or the person having possession, care or control of the pest control product the opportunity to take a measure in respect of it, the inspector shall exercise, in respect of the product, any of the powers conferred by the provisions of this Act, other than this section, or of the regulations.
+
+**Measures that may be taken and notice**
+
+- **(4)** However, if the inspector decides under subsection (1) to give the owner or importer, or the person having possession, care or control of the pest control product the opportunity to take a measure in respect of it, the inspector, or any other inspector who is informed of the decision, shall decide whether the owner or importer, or the person having possession, care or control of it may remove it from Canada at their expense, consent to its forfeiture or take either of these measures, and shall notify or cause to be notified the owner or importer, or the person having possession, care or control of the product that they may take that measure within the period specified by the inspector or other inspector, as the case may be.
+
+**Forfeiture**
+
+- **(5)** If a person is notified under subsection (4) that they may consent to the forfeiture of the pest control product and the person consents to its forfeiture, the product is forfeited to Her Majesty in right of Canada and may be disposed of, as the Minister may direct, at the person’s expense.
+> 2016, c. 9, s. 52.
+
+
+
+
+
+**Removal or destruction of unlawful imports**
+
+**54** 
+
+- **(1)** An inspector who has reasonable grounds to believe that an imported pest control product does not meet the requirements of the regulations or was imported in contravention of a provision of this Act or the regulations may, by written notice, whether the pest control product is seized or not, order its owner or importer, or the person having possession, care or control of it, to remove it from Canada at their expense or, if removal is not possible, to destroy it at their expense.
+
+**Forfeiture**
+
+- **(2)** If the pest control product is not removed from Canada, or destroyed, within the period specified in the notice — or, if no period is specified, within 90 days after the day on which the notice was delivered — it is, despite section 53.1, forfeited to Her Majesty in right of Canada and may be disposed of, as the Minister may direct, at the expense of the person to whom the notice was delivered.
+
+**Suspension of application of subsection (2)**
+
+- **(3)** An inspector may, for the period specified by the inspector, suspend the application of subsection (2) if the inspector is satisfied that
+	- **(a)** the pest control product does not endanger human health or safety or the environment;
+	- **(b)** the pest control product will not be sold within that period;
+	- **(c)** the measures that should have been taken for the pest control product not to have been imported in contravention of a provision of this Act or the regulations will be taken within that period; and
+	- **(d)** if the pest control product does not meet the requirements of the regulations, it will be brought into compliance with those requirements within that period.
+
+**Cancellation**
+
+- **(4)** An inspector may cancel the notice if the inspector is satisfied that
+	- **(a)** the pest control product does not endanger human health or safety or the environment;
+	- **(b)** the pest control product has not been sold within the period referred to in subsection (5);
+	- **(c)** the measures referred to in paragraph (3)(c) were taken within that period; and
+	- **(d)** if the pest control product did not meet the requirements of the regulations when it was imported, it was brought into compliance with those requirements within that period.
+
+**Period**
+
+- **(5)** The period for the purposes of subsection (4) is
+	- **(a)** if the application of subsection (2) was suspended under subsection (3), the period of the suspension; and
+	- **(b)** if the application of subsection (2) was not suspended, the period specified in the notice or, if no period was specified, the period of 90 days after the day on which the notice was delivered.
+
+**Offence and punishment**
+
+- **(6)** Every person who fails to comply with an order in the notice is guilty of an offence and liable
+	- **(a)** on summary conviction, to a fine of not more than $200,000 or to imprisonment for a term of not more than six months, or to both; or
+	- **(b)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than three years, or to both.
+> 2002, c. 28, s. 54; 2016, c. 9, s. 52.
+
+
+
+
+
+### Forfeiture
+
+
+
+**Unclaimed pest control products or other things**
+
+**54.1** 
+
+- **(1)** A pest control product or other thing seized under this Act is, at the Minister’s election, forfeited to Her Majesty in right of Canada if
+	- **(a)** within 60 days after the seizure, no person is identified in accordance with the regulations, if any, as its owner or as the person who is entitled to possess it; or
+	- **(b)** its owner or the person having possession, care or control of it at the time of its seizure does not claim it within 60 days after the day on which they are notified that an inspector has released it.
+
+**Proceedings instituted**
+
+- **(2)** Subsection (1) does not apply if proceedings are instituted for a violation or an offence that relates to the seized pest control product or other thing.
+
+**Disposition**
+
+- **(3)** A seized pest control product or other thing that is forfeited under subsection (1) may be disposed of, as the Minister may direct, at the expense of its owner or the person having possession, care or control of it at the time of its seizure.
+> 2016, c. 9, s. 52.
+
 
 
 
@@ -1398,15 +1580,19 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 
 **55** 
 
-- **(1)** At the election of Her Majesty in right of Canada, a pest control product or other thing seized by an inspector is forfeited to Her Majesty in right of Canada if the owner consents in writing to its forfeiture.
+- **(1)** At the election of Her Majesty in right of Canada, a pest control product or other thing seized under this Act by an inspector is forfeited to Her Majesty in right of Canada if the owner consents to its forfeiture. The pest control product or other thing that is forfeited may be disposed of, as the Minister directs, at the owner’s expense.
 
 **Forfeiture by court order**
 
-- **(2)** If the Review Tribunal, continued by subsection 4.1(1) of the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md), decides that a person has committed a violation, or if an offender is convicted of an offence under this Act, the Tribunal or the court, as the case may be, may, in addition to imposing a penalty or punishment, order that a pest control product or other thing that was involved in the violation or offence be forfeited to Her Majesty in right of Canada, unless the product or thing has been returned to its owner or another person.
+- **(2)** If the Review Tribunal, continued by subsection 4.1(1) of the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md), decides that a person has committed a violation, or if an offender is convicted of an offence under this Act, the Tribunal or the court, as the case may be, may, in addition to imposing a penalty or punishment, order that the pest control product or other thing that was involved in the violation or offence be forfeited to Her Majesty in right of Canada, regardless of whether the product or thing was seized under this Act or not.
 
 **Directions of Minister**
 
-- **(3)** A pest control product or other thing that is forfeited under this section shall be disposed of as the Minister directs.
+- **(3)** A pest control product or other thing that is forfeited under subsection (2) may be disposed of as the Minister directs, at the expense of,
+	- **(a)** if it was not seized, its owner; or
+	- **(b)** if it was seized, its owner or the person having possession, care or control of it at the time of its seizure.
+> 2002, c. 28, s. 55; 2016, c. 9, s. 52.
+
 
 
 
@@ -1415,48 +1601,71 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 
 **56** 
 
-- **(1)** A seized pest control product or other thing shall be returned to its owner or the person who had the possession, care or control of the product at the time of its seizure if it has not been forfeited at the final conclusion of proceedings in respect of a violation or an offence under this Act.
+- **(1)** A seized pest control product or other thing shall be returned to its owner or the person having possession, care or control of the product or thing at the time of its seizure if it has not been forfeited at the final conclusion of proceedings in respect of a violation or an offence under this Act.
 
 **Exception**
 
 - **(2)** A seized pest control product or other thing may be
-	- **(a)** detained pending the payment of any fine or penalty imposed on its owner or the person who had the possession, care or control of it at the time of seizure; or
+	- **(a)** detained pending the payment of any fine or penalty imposed on its owner or the person having possession, care or control of it at the time of seizure; or
 	- **(b)** sold in satisfaction of the fine or penalty.
+> 2002, c. 28, s. 56; 2016, c. 9, s. 52.
 
 
 
 
-### Enforcement Measures
+
+**Forfeiture on application of inspector**
+
+**56.1** 
+
+- **(1)** A judge of a superior court of the province in which a pest control product or other thing is seized under this Act may, on the application of an inspector, order that the pest control product or other thing be forfeited to Her Majesty in right of Canada.
+
+**Notice and inquiry**
+
+- **(2)** The order may be made only if any notice to any persons that the judge directs was given and the judge finds, after making any inquiry that he or she considers necessary, that the pest control product or other thing is one by means of or in relation to which any of the provisions of this Act or the regulations have been contravened.
+
+**Disposition**
+
+- **(3)** A pest control product or other thing that is forfeited under subsection (1) may be disposed of, as the Minister may direct, at the expense of its owner or the person having possession, care or control of it at the time of its seizure.
+> 2016, c. 9, s. 52.
 
 
 
-**Inspector may require measures**
+
+
+### Compliance Measures
+
+
+
+**Inspector may order measures**
 
 **57** 
 
-- **(1)** If an inspector has reasonable grounds to believe that a person has contravened this Act or the regulations, he or she may require the person
+- **(1)** If an inspector has reasonable grounds to believe that a person has contravened this Act or the regulations, he or she may order the person
 	- **(a)** to stop or shut down any activity or thing involved in the contravention; and
 	- **(b)** to take any other measures that the inspector considers necessary to prevent further contravention, including
 		- **(i)** modifying a pest control product or its labelling or disposing of the product so as to comply with this Act and the regulations, and
-		- **(ii)** manufacturing, handling, storing, transporting, importing, exporting, packaging, distributing or using a registered pest control product in accordance with the conditions of registration.
+		- **(ii)** manufacturing, handling, storing, transporting, importing, exporting, packaging, labelling, distributing or using a registered pest control product in accordance with the conditions of registration.
 
-**Duration of requirement**
+**Validity period**
 
-- **(2)** A requirement under subsection (1) may apply for a specified period or until the inspector is satisfied that no further contravention is likely to take place.
+- **(2)** An order under subsection (1) may apply for a specified period or until the inspector is satisfied that no further contravention is likely to take place.
 
 **Notice**
 
-- **(3)** A requirement under subsection (1) shall be communicated by delivering a written notice to the registrant or, as the case may be, to the owner or person who has the possession, care or control of the pest control product, activity or thing that was involved in the contravention and the notice must be accompanied by a statement of the reasons for the requirement.
+- **(3)** An order under subsection (1) shall be communicated by delivering a written notice to the registrant or, as the case may be, to the owner or person having possession, care or control of the pest control product, activity or thing that was involved in the contravention and the notice must be accompanied by a statement of the reasons for the order.
 
 **Offence and punishment**
 
-- **(4)** Every person who fails to comply with a requirement in a notice delivered under subsection (3) is guilty of an offence and liable
+- **(4)** Every person who fails to comply with an order in a notice delivered under subsection (3) is guilty of an offence and liable
 	- **(a)** on summary conviction, to a fine of not more than $200,000 or to imprisonment for a term of not more than six months, or to both; or
 	- **(b)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than three years, or to both.
 
 **Prosecutions**
 
-- **(5)** A requirement under subsection (1) may be imposed whether or not the person has been charged with an offence relating to the contravention, but if the person is charged, the requirement may be confirmed, varied or rescinded by the court that tries the offence.
+- **(5)** An order under subsection (1) may be given whether or not the person has been charged with an offence relating to the contravention, but if the person is charged, the order may be confirmed, varied or rescinded by the court that tries the offence.
+> 2002, c. 28, s. 57; 2016, c. 9, ss. 54, 62(E).
+
 
 
 
@@ -1481,26 +1690,28 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **Measures**
 
 - **(2)** The inspector may
-	- **(a)** require an owner or a person who has the possession, care or control of the pest control product or other thing to dispose of the product or other thing or do anything else that the inspector considers necessary to reduce or eliminate the risks it poses;
-	- **(b)** confiscate or dispose of the product or other thing or do anything else that the inspector considers necessary to reduce or eliminate the risks it poses; or
+	- **(a)** order an owner or a person having possession, care or control of the pest control product or other thing to dispose of it or do anything else that the inspector considers necessary to reduce or eliminate the risks it poses;
+	- **(b)** dispose of the product or other thing or do anything else that the inspector considers necessary to reduce or eliminate the risks it poses, at the expense of its owner or the person having possession, care or control of the product or thing; or
 	- **(c)** authorize any other person to exercise the powers described in paragraph (b).
 
 **Notice**
 
-- **(3)** A requirement under paragraph (2)(a) shall be communicated by delivering a written notice to the owner or person who has the possession, care or control of the product or thing and the notice
-	- **(a)** must include a statement of the reasons for the requirement; and
+- **(3)** An order under paragraph (2)(a) shall be communicated by delivering a written notice to the owner or person having possession, care or control of the product or thing and the notice
+	- **(a)** must include a statement of the reasons for the order; and
 	- **(b)** may specify the period within which and the manner in which the required action must be taken.
 
 **Offence and punishment**
 
-- **(4)** Every person who fails to comply with a requirement in a notice delivered under subsection (3) is guilty of an offence and liable
+- **(4)** Every person who fails to comply with an order in a notice delivered under subsection (3) is guilty of an offence and liable
 	- **(a)** on summary conviction, to a fine of not more than $200,000 or to imprisonment for a term of not more than six months, or to both; or
 	- **(b)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than three years, or to both.
+> 2002, c. 28, s. 59; 2016, c. 9, ss. 55, 62(E).
 
 
 
 
-### Review of Inspectors’ Requirements
+
+### Review of Inspectors’ Orders
 
 
 
@@ -1508,7 +1719,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 
 **60** 
 
-- **(1)** Subject to this section, a requirement in respect of which notice has been delivered under subsection 53(2), 57(3) or 59(3) shall be reviewed on the written request of the person to whom the notice was delivered.
+- **(1)** Subject to this section, an order in respect of which notice has been delivered under subsection 53(2), 57(3) or 59(3) shall be reviewed on the written request of the person to whom the notice was delivered.
 
 **Contents of and time for making request**
 
@@ -1524,7 +1735,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 
 **Refusal in case of emergency**
 
-- **(5)** If the reasons in a notice referred to in subsection (1) include the existence of an emergency concerning risks to human health or safety or the environment, the reviewer may refuse to undertake the review until he or she is satisfied that there has been sufficient compliance with the requirement in the notice to address the emergency.
+- **(5)** If the reasons in a notice referred to in subsection (1) include the existence of an emergency concerning risks to human health or safety or the environment, the reviewer may refuse to undertake the review until he or she is satisfied that there has been sufficient compliance with the order in the notice to address the emergency.
 
 **Refusal not affected by inspector’s prior knowledge of emergency**
 
@@ -1536,7 +1747,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 
 **Review initiated by inspector**
 
-- **(8)** An inspector who delivers a notice referred to in subsection (1), or any other inspector or official assigned to do so, may review the requirement included in the notice regardless of whether a request has been made under that subsection.
+- **(8)** An inspector who delivers a notice referred to in subsection (1), or any other inspector or official assigned to do so, may review the order included in the notice regardless of whether a request has been made under that subsection.
 
 **Conduct of review**
 
@@ -1544,7 +1755,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 
 **Decision on completion of review**
 
-- **(10)** On completion of a review, the reviewer shall make a decision to confirm, amend, terminate or cancel the requirement.
+- **(10)** On completion of a review, the reviewer shall make a decision to confirm, amend, terminate or cancel the order.
 
 **Notice**
 
@@ -1552,14 +1763,16 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 
 **Delay in proceedings under section 61**
 
-- **(12)** An application shall not be made under section 61 in relation to a requirement until
+- **(12)** An application shall not be made under section 61 in relation to an order until
 	- **(a)** the expiry of the 10-day period referred to in subsection (2) without a review having been requested under subsection (1);
 	- **(b)** a request for a review has been refused under subsection (4) or (5); or
 	- **(c)** a review that has been requested under subsection (1) and has not been refused under subsection (4) or (5), or a review that has been undertaken under subsection (8), has been completed and action has been taken under subsection (10).
 
 **Effect of amendment**
 
-- **(13)** When the decision under subsection (10) is to amend a requirement, the notice of that decision under subsection (11) is deemed, for the purpose of section 61, to have been delivered under subsection 53(2), 57(3) or 59(3), as the case may be, and the amended requirement is subject to review under this section.
+- **(13)** When the decision under subsection (10) is to amend an order, the notice of that decision under subsection (11) is deemed, for the purpose of section 61, to have been delivered under subsection 53(2), 57(3) or 59(3), as the case may be, and the amended order is subject to review under this section.
+> 2002, c. 28, s. 60; 2016, c. 9, s. 62(E).
+
 
 
 
@@ -1570,7 +1783,9 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 
 **Application for court order**
 
-**61** If a person fails to comply with a requirement in respect of which notice has been delivered under subsection 53(2), 57(3) or 59(3), the Minister may apply to the Federal Court or any other court of competent jurisdiction for an order requiring the person to comply with the notice or authorizing an inspector to take any measures the court considers necessary to ensure compliance with the notice.
+**61** If a person fails to comply with an order in respect of which notice has been delivered under subsection 53(2), 57(3) or 59(3), the Minister may apply to the Federal Court or any other court of competent jurisdiction for an order requiring the person to comply with the notice or authorizing an inspector to take any measures the court considers necessary to ensure compliance with the notice.
+> 2002, c. 28, s. 61; 2016, c. 9, s. 62(E).
+
 
 
 
@@ -1583,7 +1798,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 
 **62** 
 
-- **(1)** Notices or other documents required or authorized to be delivered under this Act may be delivered by certified or registered mail or any other method that provides proof of delivery.
+- **(1)** Notices or other documents required or authorized to be delivered under this Act may be delivered by any method that provides proof of delivery or by any prescribed method.
 
 **Representative in Canada**
 
@@ -1606,6 +1821,8 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply**
 
 - **(6)** For greater certainty, the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply in respect of notices or other documents delivered under this Act.
+> 2002, c. 28, s. 62; 2016, c. 9, s. 57.
+
 
 
 
@@ -1616,25 +1833,44 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 
 **Recovery of fees**
 
-**63** Her Majesty in right of Canada may recover any fee or charge that applies in relation to the administration of this Act or the regulations.
+**63** Her Majesty in right of Canada may recover, as a debt due to Her Majesty in right of Canada, any fee or charge that applies in relation to the administration of the provisions of this Act or the regulations.
+> 2002, c. 28, s. 63; 2016, c. 9, s. 58.
 
 
 
 
-**Charges and costs for inspections, etc.**
 
-**64** 
+**Recovery of costs**
 
-- **(1)** Her Majesty in right of Canada may recover from any person referred to in subsection (2) any charges under this Act and any costs incurred by Her Majesty in relation to the administration of this Act or the regulations, including
-	- **(a)** the inspection, treatment, testing or analysis of a place, pest control product or other thing or the storage, removal, disposal or return of a pest control product or other thing, required or authorized by this Act or the regulations;
-	- **(b)** the seizure, detention, forfeiture or disposal of a pest control product or other thing under this Act or the regulations; and
-	- **(c)** any enforcement or risk-control measures taken by the Minister or an inspector under this Act or the regulations.
+**64** Her Majesty in right of Canada may recover, as a debt due to Her Majesty in right of Canada, any costs incurred by Her Majesty in right of Canada in relation to anything required or authorized under this Act, including
+- **(a)** the inspection, treatment, testing or analysis of a place, pest control product or other thing or the storage, movement, seizure, detention, forfeiture, disposition or return of a pest control product or other thing;
+- **(b)** any enforcement or risk-control measures taken by the Minister or an inspector under this Act.
+> 2002, c. 28, s. 64; 2016, c. 9, s. 58.
 
-**Persons liable**
 
-- **(2)** The following persons are jointly and severally liable or solidarily liable for the charges and costs relating to an action or measure referred to in subsection (1):
-	- **(a)** in the case of an action or measure in respect of a place, the owner and the occupier of that place; and
-	- **(b)** in the case of an action or measure in respect of a pest control product or other thing, the owner of that product or thing and the person who, immediately before the action or measure was taken, had the possession, care or control of that pest control product or thing.
+
+
+
+**Time limit**
+
+**64.1** Proceedings to recover a debt due to Her Majesty in right of Canada under this Act shall not be commenced later than five years after the debt became payable.
+> 2016, c. 9, s. 58.
+
+
+
+
+
+**Certificate of default**
+
+**64.2** 
+
+- **(1)** Any debt that may be recovered under section 63 or 64 in respect of which there is a default of payment, or the part of any such debt that has not been paid, may be certified by the Minister.
+
+**Judgment**
+
+- **(2)** On production to the Federal Court, a certificate made under subsection (1) shall be registered in that Court and, when registered, has the same force and effect, and all proceedings may be taken on the certificate, as if it were a judgment obtained in that Court for a debt of the amount specified in the certificate and all reasonable costs and charges attendant in the registration of the certificate.
+> 2016, c. 9, s. 58.
+
 
 
 
@@ -1705,29 +1941,42 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 	- **(l)** respecting the Register, including information that is to be included in the Register and public access to the information;
 	- **(m)** respecting the public disclosure of confidential test data;
 	- **(n)** prescribing information that is to be excluded in whole or in part from the application of subsection 43(5);
-	- **(o)** respecting the manufacture, possession, handling, storage, transport, import, export, distribution, use or disposal of pest control products;
+	- **(o)** respecting the manufacture, possession, handling, storage, transport, import, export, distribution, use or disposition of pest control products;
 	- **(p)** prescribing standards for pest control products, including standards relating to their form and composition;
 	- **(q)** respecting the measures to be taken to facilitate the recognition of pest control products by a change in colouration or other means;
-	- **(r)** respecting the packaging and advertising of pest control products;
-	- **(s)** respecting the provision of product safety information;
+	- **(r)** respecting the packaging, labelling and advertising of pest control products;
+	- **(s)** respecting pest control product safety information, including information related to product safety data sheets;
 	- **(t)** respecting the keeping of records by registrants, manufacturers, importers, exporters, distributors and users of pest control products in relation to the products that they manufacture, store, import, export, distribute, use or dispose of and the requirements for making those records available to the Minister;
 	- **(u)** respecting the recording by registrants of information on sales of pest control products, the retention and reporting to the Minister of such information by registrants and former registrants and the use of such information by the Minister;
 	- **(v)** respecting the taking of samples and the conduct of analyses for the purposes of this Act;
 	- **(w)** respecting the inspection and operation of establishments in which registered pest control products are manufactured;
-	- **(x)** respecting the preservation and detention of pest control products and any other things seized by an inspector;
+	- **(x)** respecting the preservation, detention and forfeiture of pest control products and any other things seized by an inspector;
 	- **(y)** respecting the destruction or disposition of pest control products or any other thing forfeited or authorized to be disposed of under this Act;
 	- **(z)** respecting reviews under section 60;
 	- **(z.1)** respecting the delivery or transmission of documents under this Act, including the transmission of documents in electronic form;
 	- **(z.2)** respecting fees and charges in relation to the administration of this Act or the regulations;
-	- **(z.3)** for the purpose of implementing, in relation to pest control products, international agreements that affect those products;
-	- **(z.4)** exempting pest control products, persons or activities from the application of all or any of the provisions of this Act or the regulations, and prescribing the conditions under which they are exempt
-		- **(i)** for the purpose of facilitating scientific research or dealing with emergency situations, or
-		- **(ii)** if the Governor in Council is satisfied that the exempted products, persons or activities are sufficiently regulated under another Act or that the purposes of this Act can be met without applying the provision; and
+	- **(z.21)** establishing classes of pest control products and any categories and subcategories of those classes;
+	- **(z.3)** respecting the implementation, in relation to pest control products, of international agreements that affect those products;
+	- **(z.4)** exempting persons, activities or pest control products, including products that are imported solely for the purpose of export, from the application of all or any of the provisions of this Act or the regulations, and prescribing the conditions under which they are exempt; and
 	- **(z.5)** prescribing anything that by this Act is to be prescribed and generally for carrying out the purposes and provisions of this Act.
 
 **Incorporation by reference**
 
 - **(2)** For greater certainty, regulations made under paragraph (1)(d) or (p) that incorporate a standard by reference may incorporate the standard as amended to a certain date or from time to time.
+
+**Jointly produced documents**
+
+- **(2.1)** A regulation made under this Act may incorporate by reference documents that the Minister produces jointly with another government for the purpose of harmonizing the regulation with other laws.
+
+**Internally produced standards**
+
+- **(2.2)** A regulation made under this Act may incorporate by reference technical or explanatory documents that the Minister produces, including
+	- **(a)** specifications, classifications, illustrations, graphs or other information of a technical nature; and
+	- **(b)** test methods, procedures, operational standards, safety standards or performance standards of a technical nature.
+
+**Scope of incorporation**
+
+- **(2.3)** Documents may be incorporated by reference as they exist on a particular date or as they are amended from time to time.
 
 **Regulations re NAFTA and WTO Agreement**
 
@@ -1737,9 +1986,11 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 
 - **(4)** The definitions in this subsection apply in subsection (3).
 
-***North American Free Trade Agreement*** has the same meaning as ***Agreement*** in subsection 2(1) of the [North American Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2044.md).
+***North American Free Trade Agreement*** has the same meaning as ***Agreement*** in subsection 2(1) of the [North American Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2044.md). (*Accord de libre-échange nord-américain*)
 
-***WTO Agreement*** has the same meaning as ***Agreement*** in subsection 2(1) of the [World Trade Organization Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2047.md).
+***WTO Agreement*** has the same meaning as ***Agreement*** in subsection 2(1) of the [World Trade Organization Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2047.md). (*Accord sur l’OMC*)
+> 2002, c. 28, s. 67; 2016, c. 9, s. 59.
+
 
 
 
@@ -1837,6 +2088,15 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 
 
 
+**Due diligence**
+
+**69.1** A person is not to be found guilty of an offence under this Act — other than an offence under section 30 or subsection 33(8), 40(1) or 44(7), an offence under subsection 47(4) as it relates to a contravention of subsection 47(3) or an offence under subsection 68(3) or 70(3) — if they establish that they exercised all due diligence to prevent the commission of the offence.
+> 2016, c. 9, s. 60.
+
+
+
+
+
 ### Related Provisions
 
 
@@ -1860,11 +2120,13 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 
 
 
-**Offence by employee or agent**
+**Offence by employee or agent or mandatary**
 
-**71** In a prosecution for an offence under this Act, it is sufficient proof of the offence to establish that it was committed by an employee or agent of the accused, whether or not the employee or agent is identified or has been prosecuted for the offence, unless the accused establishes that
+**71** In a prosecution for an offence under this Act — other than an offence under section 30 or subsection 33(8), 40(1) or 44(7), an offence under subsection 47(4) as it relates to a contravention of subsection 47(3) or an offence under subsection 68(3) or 70(3) — it is sufficient proof of the offence to establish that it was committed by an employee or agent or mandatary of the accused, whether or not the employee or agent or mandatary is identified or has been prosecuted for the offence, unless the accused establishes that
 - **(a)** the offence was committed without the knowledge or consent of the accused; and
 - **(b)** the accused exercised all due diligence to prevent its commission.
+> 2002, c. 28, s. 71; 2016, c. 9, s. 61.
+
 
 
 
