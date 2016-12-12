@@ -79,7 +79,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** designating as a violation that may be proceeded with in accordance with this Act
 		- **(i)** the contravention of any specified provision of an agri-food Act or of a regulation made under an agri-food Act,
 		- **(ii)** the contravention of any specified order, or class of orders, made by the Minister under the [Plant Protection Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2022.md), or
-		- **(iii)** the refusal or neglect to perform any specified duty, or class of duties, imposed by or under the [Plant Protection Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2022.md) or the [Health of Animals Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2021.md),
+		- **(iii)** the refusal or neglect to perform any specified duty, or class of duties, imposed by or under the [Plant Protection Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2022.md), the [Health of Animals Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2021.md) or the [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md);
 if the contravention, or the failure or neglect to perform the duty, as the case may be, is an offence under an agri-food Act;
 	- **(b)** classifying each violation as a minor violation, a serious violation or a very serious violation;
 	- **(b.1)** establishing, in respect of each violation, a short-form description to be used in notices of violation;
@@ -103,7 +103,7 @@ if the contravention, or the failure or neglect to perform the duty, as the case
 	- **(a)** the degree of intention or negligence on the part of the person who committed the violation;
 	- **(b)** the harm done by the violation; and
 	- **(c)** the history of the person who committed the violation of prior violations or convictions under agri-food Acts within the five year period immediately before the violation.
-> 1995, c. 40, s. 4; 2015, c. 2, s. 114.
+> 1995, c. 40, s. 4; 2015, c. 2, s. 114; 2016, c. 9, s. 70.
 
 
 
@@ -136,7 +136,7 @@ if the contravention, or the failure or neglect to perform the duty, as the case
 - **(1)** Every person who
 	- **(a)** contravenes any provision of an agri-food Act or of a regulation made under an agri-food Act,
 	- **(b)** contravenes any order made by the Minister under the [Plant Protection Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2022.md), or
-	- **(c)** refuses or neglects to perform any duty imposed by or under the [Plant Protection Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2022.md) or the [Health of Animals Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2021.md)
+	- **(c)** refuses or neglects to perform any duty imposed by or under the [Plant Protection Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2022.md), the [Health of Animals Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2021.md) or the [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md)
 the contravention of which, or the refusal or neglect of which, is designated to be a violation by a regulation made under paragraph 4(1)(a) commits a violation and is liable to a warning or to a penalty in accordance with this Act.
 
 **Issuance of notice of violation**
@@ -151,7 +151,7 @@ the contravention of which, or the refusal or neglect of which, is designated to
 **Summary of rights**
 
 - **(3)** A notice of violation must clearly summarize, in plain language, the rights and obligations under this Act of the person on whom it is served, including the right to have the facts of the violation reviewed by the Minister or the Tribunal, and the procedure for requesting such a review.
-> 1995, c. 40, s. 7; 2015, c. 2, s. 116(E).
+> 1995, c. 40, s. 7; 2015, c. 2, s. 116(E); 2016, c. 9, s. 71(E).
 
 
 
