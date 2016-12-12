@@ -14,9 +14,9 @@ Sanctionnée sur le 12 décembre 2002
 
 **Préambule**
 
-Attendu :
+Attendu :
 
-que les produits antiparasitaires et leur utilisation peuvent présenter, directement ou indirectement, des risques pour le bien-être des personnes au Canada, notamment pour leur santé et leur sécurité, ainsi que pour l’environnement;
+que les produits antiparasitaires et leur utilisation peuvent présenter, directement ou indirectement, des risques pour le bien-être des individus au Canada, notamment pour leur santé et leur sécurité, ainsi que pour l’environnement;
 
 que la lutte antiparasitaire joue un rôle important dans divers domaines de l’économie et d’autres aspects de la qualité de vie au Canada;
 
@@ -24,15 +24,15 @@ que les produits antiparasitaires présentant des risques et une valeur acceptab
 
 que la lutte antiparasitaire durable a pour but de répondre aux besoins de la société en matière de protection de la santé humaine, de production d’aliments et de fibres et d’utilisation des ressources, et de conserver ou de mettre en valeur les ressources naturelles et la qualité de l’environnement pour les générations futures, d’une façon économiquement viable;
 
-que le Canada et les provinces et territoires ont traditionnellement administré des systèmes de réglementation complémentaires conçus pour protéger les personnes et l’environnement, notamment la diversité biologique, contre les risques inacceptables que présentent les produits antiparasitaires, et qu’il est important de continuer de le faire pour atteindre de façon efficace les résultats souhaités, sans conflits ni recoupements;
+que le Canada et les provinces et territoires ont traditionnellement administré des systèmes de réglementation complémentaires conçus pour protéger les individus et l’environnement, notamment la diversité biologique, contre les risques inacceptables que présentent les produits antiparasitaires, et qu’il est important de continuer de le faire pour atteindre de façon efficace les résultats souhaités, sans conflits ni recoupements;
 
-qu’il est important, dans l’intérêt national : de faire en sorte que l’objectif premier du système fédéral de réglementation soit la prévention des risques inacceptables pour les personnes et l’environnement que présente l’utilisation des produits antiparasitaires,
+qu’il est important, dans l’intérêt national : de faire en sorte que l’objectif premier du système fédéral de réglementation soit la prévention des risques inacceptables pour les individus et l’environnement que présente l’utilisation des produits antiparasitaires,
 
 de continuer à poursuivre les objectifs du système fédéral de réglementation, par l’instauration d’un système d’homologation national reposant sur une base scientifique et abordant la question des risques sanitaires et environnementaux avant et après l’homologation, tout en réglementant les produits antiparasitaires au Canada,
 
 d’homologuer pour utilisation seulement les produits antiparasitaires présentant des risques acceptables lorsqu’il est démontré que celle-ci serait efficace et lorsqu’il peut être établi que les conditions d’homologation préviennent toute conséquence néfaste pour la santé ou la pollution de l’environnement,
 
-de tenir compte, lors de l’évaluation des risques pour les personnes, de l’exposition globale aux produits antiparasitaires, des effets cumulatifs des produits et des différentes sensibilités à ceux-ci éprouvées par les principaux sous-groupes identifiables, notamment les femmes enceintes, les nourrissons, les enfants, les femmes et les personnes âgées,
+de tenir compte, lors de l’évaluation des risques pour les individus, de l’exposition globale aux produits antiparasitaires, des effets cumulatifs des produits et des différentes sensibilités à ceux-ci éprouvées par les principaux sous-groupes identifiables, notamment les femmes enceintes, les nourrissons, les enfants, les femmes et les personnes âgées,
 
 de réglementer les produits antiparasitaires afin de promouvoir le développement durable, à savoir un développement qui permet de répondre aux besoins du présent sans compromettre la possibilité pour les générations futures de satisfaire les leurs,
 
@@ -50,8 +50,10 @@ que le Canada doit être en mesure de remplir ses obligations internationales li
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
+
+> 2002, ch. 28, préambule; 2016, ch. 9, art. 32..
 
 
 
@@ -78,83 +80,91 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***analyste*** Personne nommée ou désignée à ce titre en application de l’article 45.
+***analyste*** Individu nommé ou désigné à ce titre en application de l’article 45. (*analyst*)
 
-***biotechnologie*** Application des sciences ou de l’ingénierie à l’utilisation des organismes vivants ou de leurs parties ou produits, sous leur forme naturelle ou modifiée.
+***biotechnologie*** Application des sciences ou de l’ingénierie à l’utilisation des organismes vivants ou de leurs parties ou produits, sous leur forme naturelle ou modifiée. (*biotechnology*)
 
 ***conditions d’homologation***
 - **a)** Les conditions déterminées par le ministre aux termes de l’alinéa 8(1)a), du paragraphe 8(2) ou de toute autre disposition de la présente loi lui permettant de modifier l’homologation;
-- **b)** toutes autres obligations déclarées telles par la présente loi ou les règlements.
+- **b)** toutes autres obligations déclarées telles par la présente loi ou les règlements. (*conditions of registration*)
 
-***distribution*** La distribution sous toutes ses formes, que cette opération s’effectue contre rémunération ou non. Y sont assimilées la vente, l’offre de vente ou de distribution et l’exposition, la présentation ou la publicité en vue de la vente ou de la distribution.
+***distribution*** La distribution sous toutes ses formes, que cette opération s’effectue contre rémunération ou non. Y sont assimilées la vente, l’offre de vente ou de distribution et l’exposition, la présentation ou la publicité en vue de la vente ou de la distribution. (*distribute*)
 
-***diversité biologique*** Variabilité des organismes vivants de toute origine, notamment des écosystèmes terrestres et aquatiques — y compris marins — et des complexes écologiques dont ils font partie. Sont également visées par la présente définition la diversité au sein d’une espèce et entre espèces ainsi que celle des écosystèmes.
+***diversité biologique*** Variabilité des organismes vivants de toute origine, notamment des écosystèmes terrestres et aquatiques — y compris marins — et des complexes écologiques dont ils font partie. Sont également visées par la présente définition la diversité au sein d’une espèce et entre espèces ainsi que celle des écosystèmes. (*biological diversity*)
 
-***données d’essai*** Renseignements scientifiques ou techniques relatifs à la valeur d’un produit antiparasitaire ou aux risques sanitaires ou environnementaux qu’il présente.
+***document*** Tout support sur lequel sont enregistrés ou inscrits des éléments d’information pouvant être compris par une personne ou lus par un ordinateur ou tout autre dispositif. (*document*)
 
-***données d’essai confidentielles*** Les données d’essai dont la communication peut être refusée sous le régime de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md).
+***données d’essai*** Renseignements scientifiques ou techniques relatifs à la valeur d’un produit antiparasitaire ou aux risques sanitaires ou environnementaux qu’il présente. (*test data*)
 
-***écosystème*** Unité fonctionnelle constituée par le complexe dynamique résultant de l’interaction des communautés de plantes, d’animaux et de micro-organismes qui y vivent et de leur environnement non vivant.
+***données d’essai confidentielles*** Les données d’essai dont la communication peut être refusée sous le régime de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md). (*confidential test data*)
 
-***effet de seuil*** Effet nocif pour la santé humaine d’un produit antiparasitaire qui, en deçà d’un certain niveau identifiable par le ministre, ne cause pas cet effet.
+***écosystème*** Unité fonctionnelle constituée par le complexe dynamique résultant de l’interaction des communautés de plantes, d’animaux et de micro-organismes qui y vivent et de leur environnement non vivant. (*ecosystem*)
 
-***emballage*** Récipient, empaquetage ou autre conditionnement contenant tout ou partie d’un produit antiparasitaire, y compris tout ce qui accompagne le produit et fournit de l’information à son sujet, notamment l’étiquette.
+***effet de seuil*** Effet nocif pour la santé humaine d’un produit antiparasitaire qui, en deçà d’un certain niveau identifiable par le ministre, ne cause pas cet effet. (*threshold effect*)
 
-***environnement*** Ensemble des conditions et éléments naturels de la terre, notamment :
+***emballage*** S’entend notamment de tout récipient, empaquetage ou autre conditionnement contenant tout ou partie d’un produit antiparasitaire. (*package*)
+
+***environnement*** Ensemble des conditions et éléments naturels de la terre, notamment :
 - **a)** l’air, l’eau et le sol;
 - **b)** les couches de l’atmosphère;
 - **c)** les matières organiques et inorganiques ainsi que les êtres vivants;
-- **d)** les systèmes naturels en interaction qui comprennent les éléments visés aux alinéas a) à c).
+- **d)** les systèmes naturels en interaction qui comprennent les éléments visés aux alinéas a) à c). (*environment*)
 
-***étiquette*** Tout ce qui sert à transmettre l’information qui doit accompagner le produit au titre de la présente loi ou des règlements.
+***étiquette*** Sont assimilés aux étiquettes les textes écrits ou imprimés ou représentations graphiques :
+- **a)** qui sont placés ou à placer sur ou dans un emballage ou sur un produit antiparasitaire, qui les accompagnent ou sont destinés à les accompagner;
+- **b)** qui font partie d’un produit antiparasitaire et qui sont transmis électroniquement, en conformité avec les règlements. (*label*)
 
-***fabrication*** Y sont assimilés la production, la formulation, le réemballage et la préparation aux fins de distribution ou d’utilisation.
+***fabrication*** Sont assimilés à la fabrication la production, la formulation, l’emballage, l’étiquetage et la préparation aux fins de distribution ou d’utilisation. (*manufacture*)
 
-***formulant*** Composant d’un produit antiparasitaire qui y est ajouté intentionnellement et qui n’est pas un principe actif.
+***formulant*** Composant d’un produit antiparasitaire qui y est ajouté intentionnellement et qui n’est pas un principe actif. (*formulant*)
 
-***inspecteur*** Personne nommée ou désignée à ce titre en application de l’article 45.
+***inspecteur*** Individu nommé ou désigné à ce titre en application de l’article 45. (*inspector*)
 
-***lieu*** Y est assimilé tout moyen de transport.
+***lieu*** Y est assimilé tout moyen de transport. (*place*)
 
-***lieu de travail*** Tout lieu où une personne travaille contre rémunération.
+***lieu de travail*** Tout lieu où un individu travaille contre rémunération. (*workplace*)
 
-***ministre*** Le ministre de la Santé.
+***ministre*** Le ministre de la Santé. (*Minister*)
 
-***parasite*** Animal, plante ou autre organisme qui est, directement ou non, nuisible, nocif ou gênant, ainsi que toute fonction organique ou condition nuisible, nocive ou gênante d’un animal, d’une plante ou d’un autre organisme.
+***parasite*** Animal, plante ou autre organisme qui est, directement ou non, nuisible, nocif ou gênant, ainsi que toute fonction organique ou condition nuisible, nocive ou gênante d’un animal, d’une plante ou d’un autre organisme. (*pest*)
 
-***pénalité*** Sanction administrative pécuniaire infligée pour une violation au titre de la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md).
+***pénalité*** Sanction administrative pécuniaire infligée pour une violation au titre de la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md). (*penalty*)
 
-***politique gouvernementale*** La Politique de gestion des substances toxiques, publiée par le gouvernement du Canada en juin 1995, aussi longtemps qu’elle demeure en vigueur, et les autres politiques du gouvernement du Canada prévues par règlement.
+***personne*** Sa Majesté, un individu ou une organisation au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). Ces notions sont visées dans des formulations générales, impersonnelles ou comportant des pronoms ou adjectifs indéfinis. (*person*)
 
-***principe actif*** Composant d’un produit antiparasitaire auquel les effets recherchés sont attribués, y compris un synergiste. Ne sont pas visés par la présente définition les solvants, diluants, émulsifiants ou autres composants qui ne produisent pas principalement ces effets.
+***politique gouvernementale*** La Politique de gestion des substances toxiques, publiée par le gouvernement du Canada en juin 1995, aussi longtemps qu’elle demeure en vigueur, et les autres politiques du gouvernement du Canada prévues par règlement. (*government policy*)
+
+***principe actif*** Composant d’un produit antiparasitaire auquel les effets recherchés sont attribués, y compris un synergiste. Ne sont pas visés par la présente définition les solvants, diluants, émulsifiants ou autres composants qui ne produisent pas principalement ces effets. (*active ingredient*)
 
 ***produit antiparasitaire***
 - **a)** Produit, substance ou organisme — notamment ceux résultant de la biotechnologie — constitué d’un principe actif ainsi que de formulants et de contaminants et fabriqué, présenté, distribué ou utilisé comme moyen de lutte direct ou indirect contre les parasites par destruction, attraction ou répulsion, ou encore par atténuation ou prévention de leurs effets nuisibles, nocifs ou gênants;
 - **b)** tout principe actif servant à la fabrication de ces éléments;
-- **c)** toute chose désignée comme tel par règlement.
+- **c)** toute chose désignée comme tel par règlement. (*pest control product*)
 
-***publicité*** S’entend notamment de toute présentation faite en vue de stimuler directement ou indirectement la distribution des produits antiparasitaires.
+***publicité*** S’entend notamment de toute présentation faite en vue de stimuler directement ou indirectement la distribution des produits antiparasitaires. (*advertise*)
 
-***Registre*** Le Registre des produits antiparasitaires établi et tenu en application de l’article 42.
+***Registre*** Le Registre des produits antiparasitaires établi et tenu en application de l’article 42. (*Register*)
 
-***renseignements commerciaux confidentiels*** Renseignements dont la communication peut être refusée sous le régime de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md) et qui sont visés aux paragraphes 43(4) ou (5).
+***renseignements commerciaux confidentiels*** Renseignements dont la communication peut être refusée sous le régime de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md) et qui sont visés aux paragraphes 43(4) ou (5). (*confidential business information*)
 
-***risque environnemental*** Risque de dommage à l’environnement, notamment à sa diversité biologique, résultant de l’exposition au produit antiparasitaire ou de l’utilisation de celui-ci, compte tenu des conditions d’homologation proposées ou fixées.
+***risque environnemental*** Risque de dommage à l’environnement, notamment à sa diversité biologique, résultant de l’exposition au produit antiparasitaire ou de l’utilisation de celui-ci, compte tenu des conditions d’homologation proposées ou fixées. (*environmental risk*)
 
-***risque sanitaire*** Risque pour la santé humaine résultant de l’exposition au produit antiparasitaire ou de l’utilisation de celui-ci, compte tenu des conditions d’homologation proposées ou fixées.
+***risque sanitaire*** Risque pour la santé humaine résultant de l’exposition au produit antiparasitaire ou de l’utilisation de celui-ci, compte tenu des conditions d’homologation proposées ou fixées. (*health risk*)
 
-***titulaire*** La personne au nom de laquelle un produit antiparasitaire est homologué.
+***titulaire*** La personne au nom de laquelle un produit antiparasitaire est homologué. (*registrant*)
 
-***valeur*** L’apport réel ou potentiel d’un produit dans la lutte antiparasitaire, compte tenu des conditions d’homologation proposées ou fixées, notamment en fonction :
+***valeur*** L’apport réel ou potentiel d’un produit dans la lutte antiparasitaire, compte tenu des conditions d’homologation proposées ou fixées, notamment en fonction :
 - **a)** de son efficacité;
 - **b)** des conséquences de son utilisation sur l’hôte du parasite sur lequel le produit est destiné à être utilisé;
-- **c)** des conséquences de son utilisation sur l’économie et la société de même que de ses avantages pour la santé, la sécurité et l’environnement.
+- **c)** des conséquences de son utilisation sur l’économie et la société de même que de ses avantages pour la santé, la sécurité et l’environnement. (*value*)
 
-***violation*** Contravention à la présente loi ou aux règlements punissable sous le régime de la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md).
+***violation*** Toute contravention à une disposition de la présente loi ou des règlements, ou tout refus ou omission d’accomplir une obligation imposée sous le régime de la présente loi, punissables au titre de la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md). (*violation*)
 
 **Risques acceptables**
 
 - **(2)** Pour l’application de la présente loi, les risques sanitaires ou environnementaux d’un produit antiparasitaire sont acceptables s’il existe une certitude raisonnable qu’aucun dommage à la santé humaine, aux générations futures ou à l’environnement ne résultera de l’exposition au produit ou de l’utilisation de celui-ci, compte tenu des conditions d’homologation proposées ou fixées.
+> 2002, ch. 28, art. 2; 2016, ch. 9, art. 33.
+
 
 
 
@@ -178,7 +188,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **4** 
 
-- **(1)** Pour l’application de la présente loi, le ministre a comme objectif premier de prévenir les risques inacceptables pour les personnes et l’environnement que présente l’utilisation des produits antiparasitaires.
+- **(1)** Pour l’application de la présente loi, le ministre a comme objectif premier de prévenir les risques inacceptables pour les individus et l’environnement que présente l’utilisation des produits antiparasitaires.
 
 **Objectifs connexes**
 
@@ -187,6 +197,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** tenter de réduire au minimum les risques sanitaires et environnementaux que présentent les produits antiparasitaires et d’encourager le développement et la mise en oeuvre de stratégies de lutte antiparasitaire durables et innovatrices — en facilitant l’accès à des produits antiparasitaires à risque réduit — et d’autres mesures indiquées;
 	- **c)** sensibiliser le public aux produits antiparasitaires en l’informant, en favorisant son accès aux renseignements pertinents et en encourageant sa participation au processus de prise de décision;
 	- **d)** veiller à ce que seuls les produits antiparasitaires dont la valeur a été déterminée comme acceptable soient approuvés pour utilisation au Canada.
+> 2002, ch. 28, art. 4; 2016, ch. 9, art. 34.
+
 
 
 
@@ -219,23 +231,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Produits non homologués**
+**Produits antiparasitaires non homologués**
 
 **6** 
 
-- **(1)** Sauf dans les cas autorisés par les paragraphes 21(5) et 41(1), les articles 53 à 59 et les règlements, il est interdit de fabriquer, de posséder, de manipuler, de stocker, de transporter, d’importer, de distribuer ou d’utiliser un produit antiparasitaire non homologué en vertu de la présente loi.
+- **(1)** Sauf dans les cas autorisés par les paragraphes 21(5) et 41(1), les articles 48 et 51 et 53 à 59 et les règlements, il est interdit de fabriquer, de posséder, de manipuler, de stocker, de transporter, d’importer, de distribuer ou d’utiliser un produit antiparasitaire non homologué en vertu de la présente loi.
 
 **Conditions d’homologation**
 
-- **(2)** Il est interdit de fabriquer, d’importer, d’exporter ou de distribuer un produit antiparasitaire homologué s’il n’est pas conforme aux conditions d’homologation relatives à la composition du produit et si les autres conditions d’homologation ne sont pas respectées.
+- **(2)** Sauf dans les cas autorisés par les articles 53.3 et 54, il est interdit de fabriquer, d’importer, d’exporter ou de distribuer un produit antiparasitaire homologué s’il n’est pas conforme aux conditions d’homologation relatives à la composition du produit et si les autres conditions d’homologation ne sont pas respectées.
 
-**Emballage**
+**Emballage et étiquetage**
 
-- **(3)** Il est interdit de stocker, d’importer, d’exporter ou de distribuer un produit antiparasitaire s’il n’est pas emballé conformément aux règlements et aux conditions d’homologation.
+- **(3)** Sauf dans les cas autorisés par les articles 53, 53.3 et 54, il est interdit de stocker, d’importer, d’exporter ou de distribuer un produit antiparasitaire s’il n’est pas emballé et étiqueté conformément aux règlements et, dans le cas où il est homologué, aux conditions d’homologation.
 
-**Moyen de défense**
-
-- **(4)** Nul ne peut être condamné pour infraction au paragraphe (3) s’il est établi qu’il avait des motifs raisonnables de croire que le produit était emballé conformément aux règlements et aux conditions d’homologation.
+- **(4)** [Abrogé, 2016, ch. 9, art. 35]
 
 **Utilisation non conforme**
 
@@ -243,23 +253,37 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** soit aux règlements;
 	- **b)** soit, si le produit est homologué, aux instructions de l’étiquette figurant dans le Registre, sous réserve des règlements.
 
-**Moyen de défense**
+- **(6)** [Abrogé, 2016, ch. 9, art. 35]
 
-- **(6)** Nul ne peut être condamné pour infraction au paragraphe (5) s’il est établi qu’il a manipulé, stocké, transporté ou utilisé le produit, ou qu’il en a disposé, conformément aux instructions de l’étiquette qui l’accompagnait et qu’il avait des motifs raisonnables de croire que ces instructions étaient conformes aux règlements ou étaient celles de l’étiquette figurant dans le Registre, dans le cas où le produit est homologué.
+**Emballage, étiquetage et publicité**
 
-**Emballage et publicité**
-
-- **(7)** Il est interdit d’emballer un produit antiparasitaire ou d’en faire la publicité d’une manière qui est fausse, trompeuse ou susceptible de créer une fausse impression sur sa nature, sa valeur, sa quantité, sa composition, son innocuité ou son homologation.
+- **(7)** Il est interdit d’emballer ou d’étiqueter un produit antiparasitaire ou d’en faire la publicité d’une manière qui est fausse, trompeuse ou susceptible de créer une fausse impression sur sa nature, sa valeur, sa quantité, sa composition, son innocuité ou son homologation.
 
 **Activités présentant un danger**
 
 - **(8)** Il est interdit de fabriquer, de posséder, de manipuler, de stocker, de transporter, de distribuer ou d’utiliser un produit antiparasitaire, ou d’en disposer, d’une manière qui présente un danger pour la santé ou la sécurité humaines ou pour l’environnement.
+
+**Modification, destruction ou falsification de documents**
+
+- **(8.1)** Il est interdit à la personne qui doit conserver, tenir à jour, fournir ou transmettre des documents sous le régime de la présente loi de les modifier, de les détruire ou de les falsifier.
+
+**Modification, possession ou utilisation de documents officiels**
+
+- **(8.2)** Il est interdit :
+	- **a)** de modifier un document délivré, fait ou donné — ou remis de quelque façon que ce soit — sous le régime de la présente loi;
+	- **b)** d’avoir en sa possession ou d’utiliser un tel document qui a été modifié.
+
+**Possession ou utilisation de documents semblant officiels**
+
+- **(8.3)** Il est interdit d’avoir en sa possession ou d’utiliser un document qui n’est pas délivré, fait ou donné — ou remis de quelque façon que ce soit — sous le régime de la présente loi, s’il est susceptible d’être confondu avec un document ainsi délivré, fait, donné ou remis.
 
 **Infraction et peine**
 
 - **(9)** Quiconque contrevient à toute disposition du présent article commet une infraction et encourt, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, une amende maximale de 200 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines;
 	- **b)** par mise en accusation, une amende maximale de 500 000 $ et un emprisonnement maximal de trois ans, ou l’une de ces peines.
+> 2002, ch. 28, art. 6; 2016, ch. 9, art. 35.
+
 
 
 
@@ -335,8 +359,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **8** 
 
-- **(1)** Si, au terme des évaluations et des consultations requises, il conclut que la valeur du produit antiparasitaire ainsi que les risques sanitaires et environnementaux qu’il présente sont acceptables, le ministre homologue le produit ou apporte les modifications demandées, en conformité avec les éventuels règlements, et pour ce faire :
-	- **a)** il détermine les conditions relatives à la fabrication, à la manipulation, au stockage, au transport, à l’importation, à l’exportation, à l’emballage, à la distribution, à l’utilisation ou à la disposition du produit, notamment celles relatives à sa composition et, sous réserve du paragraphe (2), à son étiquette;
+- **(1)** Si, au terme des évaluations et des consultations requises, il conclut que la valeur du produit antiparasitaire ainsi que les risques sanitaires et environnementaux qu’il présente sont acceptables, le ministre homologue le produit ou apporte les modifications demandées, en conformité avec les éventuels règlements, et pour ce faire :
+	- **a)** il détermine les conditions relatives à la fabrication, à la manipulation, au stockage, au transport, à l’importation, à l’exportation, à l’emballage, à la distribution, à l’utilisation ou à la disposition du produit, notamment celles relatives à sa composition, et, sous réserve du paragraphe (2), les conditions relatives à son étiquette;
 	- **b)** il attribue au produit un numéro d’homologation, dans le cas d’une nouvelle homologation et, s’il le juge à propos, dans le cas d’une modification;
 	- **c)** il fixe la période de validité — déterminée ou non — de l’homologation ou de l’homologation modifiée.
 
@@ -359,6 +383,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Anciens titulaires**
 
 - **(6)** L’obligation visée au paragraphe (5) d’établir et de conserver un registre des renseignements sur les ventes d’un produit antiparasitaire et de transmettre un rapport sur ces renseignements continue de s’appliquer à un ancien titulaire après que ce produit cesse d’être homologué.
+> 2002, ch. 28, art. 8; 2016, ch. 9, art. 36.
+
 
 
 
@@ -808,11 +834,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(6)** Le ministre publie un avis de l’autorisation d’exportation.
 
-**Infraction et peine**
+**Infraction et peine — paragraphe (2)**
 
-- **(7)** Quiconque contrevient au paragraphe (2) ou fournit sciemment des renseignements faux ou trompeurs relativement à l’autorisation d’exportation commet une infraction et encourt, sur déclaration de culpabilité :
+- **(7)** Quiconque contrevient au paragraphe (2) commet une infraction et encourt, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, une amende maximale de 200 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines;
 	- **b)** par mise en accusation, une amende maximale de 500 000 $ et un emprisonnement maximal de trois ans, ou l’une de ces peines.
+
+**Infraction et peine — renseignements faux ou trompeurs**
+
+- **(8)** Quiconque fournit sciemment des renseignements faux ou trompeurs relativement à l’autorisation d’exportation commet une infraction et encourt, sur déclaration de culpabilité :
+	- **a)** par procédure sommaire, une amende maximale de 200 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines;
+	- **b)** par mise en accusation, une amende maximale de 500 000 $ et un emprisonnement maximal de trois ans, ou l’une de ces peines.
+> 2002, ch. 28, art. 33; 2016, ch. 9, art. 37.
+
 
 
 
@@ -857,7 +891,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Constitution d’une commission d’examen**
 
-- **(3)** Le ministre peut, après réception de l’avis d’opposition, constituer, en conformité avec les éventuels règlements, une commission d’examen, composée d’une ou de plusieurs personnes, chargée d’examiner la décision prise et de recommander soit sa confirmation, soit son annulation, soit encore sa modification.
+- **(3)** Le ministre peut, après réception de l’avis d’opposition, constituer, en conformité avec les éventuels règlements, une commission d’examen, composée d’un ou de plusieurs individus, chargée d’examiner la décision prise et de recommander soit sa confirmation, soit son annulation, soit encore sa modification.
 
 **Avis — commission d’examen**
 
@@ -882,6 +916,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Inscription au Registre**
 
 - **(9)** Les renseignements fournis à la commission sont remis au ministre, qui les verse au Registre.
+> 2002, ch. 28, art. 35; 2016, ch. 9, art. 38.
+
 
 
 
@@ -1113,7 +1149,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(1)** Le ministre peut, en conformité avec les éventuels règlements, communiquer les données d’essai confidentielles ou les renseignements commerciaux confidentiels qui lui ont été transmis sous le régime de la présente loi ou qui sont dans le Registre :
 	- **a)** à quiconque fournit des services à Sa Majesté du chef du Canada dans le cadre de la protection de la santé ou de la sécurité humaines ou de l’environnement;
 	- **b)** à une organisation internationale, au gouvernement d’une province ou à un gouvernement étranger signataire d’un accord avec Sa Majesté du chef du Canada ou avec un de ses mandataires portant sur l’échange de renseignements en matière de produits antiparasitaires;
-	- **c)** à un professionnel de la santé qui demande les renseignements pour faire un diagnostic ou prodiguer des soins médicaux à une personne;
+	- **c)** à un professionnel de la santé qui demande les renseignements pour faire un diagnostic ou prodiguer des soins médicaux à un individu;
 	- **d)** à un ministère ou organisme fédéral ou provincial qui demande les renseignements pour faire face à une situation qui présente un danger pour la santé ou la sécurité humaines ou pour l’environnement;
 	- **e)** à une commission d’examen constituée par lui en vertu du paragraphe 35(3);
 	- **f)** à toute autre personne ou à tout autre organisme, notamment un comité consultatif constitué par lui en vertu du paragraphe 5(1), auxquels il demande un avis lié à l’application de la présente loi.
@@ -1145,11 +1181,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(7)** Quiconque contrevient au paragraphe (6) commet une infraction et encourt, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, une amende maximale de 200 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines;
 	- **b)** par mise en accusation, une amende maximale de 500 000 $ et un emprisonnement maximal de trois ans, ou l’une de ces peines.
+> 2002, ch. 28, art. 44; 2016, ch. 9, art. 40.
 
 
 
 
-## Application de la loi
+
+## Exécution et contrôle d’application
 
 
 
@@ -1165,11 +1203,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Désignation**
 
-- **(2)** Pour l’application de la présente loi, le ministre peut, aux fins qu’il précise, désigner, individuellement ou au titre de son appartenance à une catégorie déterminée, toute personne qualifiée à titre d’inspecteur ou d’analyste; il doit toutefois, lorsque celle-ci travaille pour un autre ministère fédéral ou pour le gouvernement d’une province, obtenir l’approbation du ministre fédéral intéressé ou du gouvernement en question.
+- **(2)** Pour l’exécution et le contrôle d’application de la présente loi, le ministre peut désigner tout individu — personnellement ou au titre de son appartenance à une catégorie donnée — à titre d’inspecteur ou d’analyste pour exercer des attributions relativement à toute question mentionnée dans la désignation; il doit toutefois, lorsque l’individu travaille pour un ministère fédéral autre que le ministère de la Santé ou pour le gouvernement d’une province, obtenir l’approbation du ministre fédéral intéressé ou du gouvernement en question.
 
 **Certificat**
 
 - **(3)** L’inspecteur reçoit un certificat établi en la forme prévue par le ministre, attestant sa qualité; il est tenu de le présenter, sur demande, au responsable des lieux visités dans le cadre de la présente loi.
+> 2002, ch. 28, art. 45; 2016, ch. 9, art. 42.
+
 
 
 
@@ -1178,7 +1218,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **46** 
 
-- **(1)** Il est interdit d’entraver volontairement l’action de l’inspecteur dans l’exercice de ses fonctions sous le régime de la présente loi ou de lui faire, oralement ou par écrit, une déclaration fausse ou trompeuse.
+- **(1)** Il est interdit d’entraver l’action de l’inspecteur dans l’exercice de ses attributions sous le régime de la présente loi ou de lui faire, oralement ou par écrit, une déclaration fausse ou trompeuse.
 
 **Examen des dossiers**
 
@@ -1189,6 +1229,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(3)** Quiconque contrevient au présent article commet une infraction et encourt, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, une amende maximale de 200 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines;
 	- **b)** par mise en accusation, une amende maximale de 500 000 $ et un emprisonnement maximal de trois ans, ou l’une de ces peines.
+> 2002, ch. 28, art. 46; 2016, ch. 9, art. 43.
+
 
 
 
@@ -1209,16 +1251,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Mesure de protection**
 
-- **(3)** Malgré toute autre loi fédérale, il est interdit à quiconque de congédier une personne, de la suspendre, de la rétrograder, de la punir, de la harceler, de lui faire subir tout autre inconvénient ou de la priver d’un bénéfice de son emploi parce que celle-ci :
+- **(3)** Malgré toute autre loi fédérale, il est interdit de congédier un individu, de le suspendre, de le rétrograder, de le punir, de le harceler, de lui faire subir tout autre inconvénient ou de le priver d’un bénéfice de son emploi parce que celui-ci :
 	- **a)** a transmis des renseignements en vertu du paragraphe (1);
-	- **b)** en se fondant sur des motifs raisonnables, a refusé ou a fait part de son intention de refuser d’accomplir un acte qui constitue une contravention à la présente loi;
-	- **c)** en se fondant sur des motifs raisonnables, a accompli ou a fait part de son intention d’accomplir un acte qu’elle est tenue d’accomplir sous le régime de la présente loi.
+	- **b)** en se fondant sur des motifs raisonnables, a refusé ou a fait part de son intention de refuser d’accomplir un acte qui constitue ou constituerait une contravention à la présente loi;
+	- **c)** en se fondant sur des motifs raisonnables, a accompli ou a fait part de son intention d’accomplir un acte qu’il était tenu d’accomplir sous le régime de la présente loi.
 
 **Infraction et peine**
 
 - **(4)** Quiconque contrevient aux paragraphes (2) ou (3) commet une infraction et encourt, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, une amende maximale de 200 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines;
 	- **b)** par mise en accusation, une amende maximale de 500 000 $ et un emprisonnement maximal de trois ans, ou l’une de ces peines.
+> 2002, ch. 28, art. 47; 2016, ch. 9, art. 44.
+
 
 
 
@@ -1231,20 +1275,38 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **48** 
 
-- **(1)** En vue de faire observer la présente loi et les règlements, l’inspecteur peut :
+- **(1)** À toute fin liée à la vérification du respect ou à la prévention du non-respect des dispositions de la présente loi et des règlements, l’inspecteur peut :
 	- **a)** sous réserve de l’article 49, procéder, à toute heure convenable, à la visite de tout lieu et à l’immobilisation de tout moyen de transport où, à son avis, se trouve un produit antiparasitaire ou tout autre objet assujetti à l’application de la présente loi ou des règlements;
 	- **b)** ouvrir tout emballage où se trouvent, à son avis, de tels objets, les examiner et en prélever des échantillons;
-	- **c)** exiger la présentation, pour examen, de tels objets selon les modalités et les conditions qu’il estime nécessaires pour procéder à la visite;
-	- **d)** exiger, aux fins d’examen ou de reproduction totale ou partielle, la communication de tout document renfermant, à son avis, des renseignements utiles à l’application de la présente loi ou des règlements;
+	- **c)** ordonner la présentation, pour examen, de tels objets selon les modalités et les conditions qu’il estime nécessaires pour procéder à la visite;
+	- **d)** ordonner au propriétaire d’un moyen de transport dans lequel il entend entrer ou à la personne qui en a la possession, la responsabilité ou la charge de le conduire en tout lieu où il peut procéder à sa visite;
+	- **d.1)** examiner ou mettre à l’essai toute chose qui se trouve dans le lieu visité ou en prélever des échantillons;
+	- **d.2)** examiner tout document qui se trouve dans le lieu visité et en faire des copies ou en prendre des extraits;
+	- **d.3)** ordonner au propriétaire de tout objet visé à l’alinéa a) qui se trouve dans le lieu visité ou à la personne qui en a la possession, la responsabilité ou la charge de le déplacer, ou encore de ne pas le déplacer ou d’en limiter le déplacement aussi longtemps que nécessaire;
+	- **d.4)** utiliser ou faire utiliser tout ordinateur ou autre dispositif qui se trouve dans le lieu visité pour prendre connaissance des données que tout système informatique contient ou auxquelles il donne accès, reproduire ou faire reproduire ces données sous forme d’imprimé ou toute autre forme intelligible et emporter tout imprimé ou sortie de données pour examen ou reproduction;
+	- **d.5)** utiliser ou faire utiliser le matériel de reproduction qui se trouve dans le lieu visité et emporter les copies aux fins d’examen;
+	- **d.6)** prendre des photographies, effectuer des enregistrements et faire des croquis;
+	- **d.7)** ordonner à quiconque se trouve dans le lieu visité d’établir, à sa satisfaction, son identité;
+	- **d.8)** interdire ou limiter l’accès à tout ou partie du lieu visité ou à toute chose qui s’y trouve;
+	- **d.9)** emporter toute chose qui se trouve dans le lieu visité afin de l’examiner, de la mettre à l’essai ou d’en prélever des échantillons;
 	- **e)** effectuer des essais, des analyses et des mesures.
 L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
-**Système informatique et matériel de reprographie**
+**Personnes accompagnant l’inspecteur**
 
-- **(2)** Dans le cadre de sa visite, l’inspecteur peut :
-	- **a)** utiliser ou faire utiliser tout système informatique se trouvant sur place pour prendre connaissance des données qu’il contient ou auxquelles il donne accès;
-	- **b)** obtenir ces données sous forme d’imprimé ou toute autre forme intelligible et les emporter aux fins d’examen ou de reproduction;
-	- **c)** utiliser ou faire utiliser le matériel de reprographie se trouvant sur place pour faire des copies de tout dossier ou autre document.
+- **(2)** L’inspecteur peut être accompagné des personnes qu’il estime nécessaires pour l’aider dans l’exercice de ses attributions au titre du présent article.
+
+**Droit de passage sur une propriété privée**
+
+- **(3)** L’inspecteur et toute personne l’accompagnant peuvent, afin d’accéder au lieu visé à l’alinéa (1)a), pénétrer dans une propriété privée — à l’exclusion de toute maison d’habitation — et y circuler.
+
+**Infraction et peine**
+
+- **(4)** Quiconque ne fait pas ce que lui ordonne l’inspecteur en vertu des alinéas (1)c), d), d.3) ou d.7) commet une infraction et encourt, sur déclaration de culpabilité :
+	- **a)** par procédure sommaire, une amende maximale de 200 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines;
+	- **b)** par mise en accusation, une amende maximale de 500 000 $ et un emprisonnement maximal de trois ans, ou l’une de ces peines.
+> 2002, ch. 28, art. 48; 2016, ch. 9, art. 45.
+
 
 
 
@@ -1259,12 +1321,18 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 - **(2)** Sur demande *ex parte*, le juge de paix peut délivrer un mandat autorisant, sous réserve des conditions éventuellement fixées, l’inspecteur qui y est nommé à procéder à la visite d’un local d’habitation s’il est convaincu, sur la foi d’une dénonciation sous serment, que sont réunis les éléments suivants :
 	- **a)** les circonstances prévues à l’article 48 existent;
-	- **b)** la visite est nécessaire pour l’application de la présente loi ou des règlements;
+	- **b)** la visite est nécessaire à toute fin liée à la vérification du respect ou à la prévention du non-respect des dispositions de la présente loi et des règlements;
 	- **c)** un refus a été opposé à la visite ou il y a des motifs raisonnables de croire que tel sera le cas.
 
 **Usage de la force**
 
 - **(3)** L’inspecteur ne peut recourir à la force dans l’exécution du mandat que si celui-ci en autorise expressément l’usage et que si lui-même est accompagné d’un agent de la paix.
+
+**Télémandats**
+
+- **(4)** L’inspecteur qui considère qu’il serait peu commode de se présenter en personne devant le juge de paix pour y demander le mandat visé au paragraphe (2) peut demander qu’il lui soit décerné par téléphone ou à l’aide d’un autre moyen de télécommunication, sur le fondement d’une dénonciation transmise par l’un quelconque de ces moyens; l’article 487.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) s’applique alors avec les adaptations nécessaires.
+> 2002, ch. 28, art. 49; 2016, ch. 9, art. 46.
+
 
 
 
@@ -1273,30 +1341,32 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **50** 
 
-- **(1)** Le propriétaire ou le responsable du lieu visité en application des articles 48 et 49 ou en vertu d’un mandat délivré sous le régime de l’article 487 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), ainsi que quiconque s’y trouve, sont tenus de prêter à l’inspecteur toute l’assistance possible dans l’exercice de ses fonctions et de lui donner les renseignements qu’il peut valablement exiger dans le cadre de l’application de la présente loi et des règlements.
+- **(1)** Le propriétaire ou le responsable du lieu visité en application des articles 48 ou 49, ainsi que quiconque s’y trouve, sont tenus de prêter à l’inspecteur toute l’assistance possible dans l’exercice de ses attributions et de lui donner les renseignements qu’il peut valablement exiger dans le cadre de l’exécution des dispositions de la présente loi et des règlements.
 
 **Infraction et peine**
 
 - **(2)** Quiconque contrevient au paragraphe (1) commet une infraction et encourt, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, une amende maximale de 200 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines;
 	- **b)** par mise en accusation, une amende maximale de 500 000 $ et un emprisonnement maximal de trois ans, ou l’une de ces peines.
+> 2002, ch. 28, art. 50; 2016, ch. 9, art. 47.
 
 
 
 
-### Perquisitions
 
-
-
-**Perquisition sans mandat**
+**Fourniture de documents, de renseignements et d’échantillons**
 
 **51** 
 
-- **(1)** En vue de faire observer la présente loi ou les règlements, l’inspecteur peut exercer sans mandat les pouvoirs visés à l’article 487 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) lorsque l’urgence de la situation rend difficilement réalisable l’obtention du mandat, sous réserve que les conditions de délivrance de celui-ci soient réunies.
+- **(1)** L’inspecteur peut, à toute fin liée à la vérification du respect ou à la prévention du non-respect des dispositions de la présente loi et des règlements, ordonner à toute personne de lui fournir, aux date, heure et lieu et de la façon qu’il précise, les documents, renseignements ou échantillons qu’il précise.
 
-**Pouvoirs supplémentaires**
+**Infraction et peine**
 
-- **(2)** L’inspecteur peut, dans le cadre d’une perquisition effectuée en vertu du paragraphe (1) ou de l’article 487 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), exercer les pouvoirs mentionnés à l’article 48.
+- **(2)** Quiconque ne fait pas ce que lui ordonne l’inspecteur en vertu du paragraphe (1) commet une infraction et encourt, sur déclaration de culpabilité :
+	- **a)** par procédure sommaire, une amende maximale de 200 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines;
+	- **b)** par mise en accusation, une amende maximale de 500 000 $ et un emprisonnement maximal de trois ans, ou l’une de ces peines.
+> 2002, ch. 28, art. 51; 2016, ch. 9, art. 48.
+
 
 
 
@@ -1307,57 +1377,173 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **Pouvoir de saisie**
 
-**52** 
-
-- **(1)** Dans l’exercice des pouvoirs qui lui sont conférés par les articles 48, 49 et 51, l’inspecteur peut saisir et retenir tout produit antiparasitaire ou autre objet s’il a des motifs raisonnables de croire qu’il a servi ou donné lieu à une contravention à la présente loi ou aux règlements ou qu’il servira à prouver une telle contravention.
-
-**Motifs de la saisie**
-
-- **(2)** Dans les meilleurs délais, l’inspecteur qui procède à la saisie prend les mesures justifiées dans les circonstances pour aviser soit le propriétaire du produit antiparasitaire ou autre objet saisi ou la dernière personne à en avoir eu la possession ou la responsabilité, soit le propriétaire ou le responsable du lieu visité, des motifs de la saisie et de l’endroit où se trouvent ces objets.
+**52** L’inspecteur peut saisir et retenir tout produit antiparasitaire ou autre objet dont il a des motifs raisonnables de croire qu’il a servi ou est lié à une contravention de toute disposition de la présente loi ou des règlements ou qu’il a été obtenu dans le cadre d’une telle contravention.
+> 2002, ch. 28, art. 52; 2016, ch. 9, art. 49.
 
 
 
 
-### Mesures consécutives à la saisie
+
+### Mesures relatives aux choses saisies
 
 
 
-**Entreposage et transfert**
+**Stockage, déplacement et disposition**
 
 **53** 
 
-- **(1)** L’inspecteur — ou la personne désignée par lui — peut soit entreposer le produit antiparasitaire ou autre objet sur le lieu même de la saisie ou les transférer dans un autre lieu pour entreposage, soit ordonner à leur propriétaire, à la dernière personne à en avoir eu la possession ou la responsabilité ou au propriétaire ou au responsable du lieu visité de les transférer.
+- **(1)** L’inspecteur peut, relativement à tout produit antiparasitaire ou autre objet saisi en vertu de la présente loi :
+	- **a)** le stocker ou le déplacer, sur avis à l’intéressé — son propriétaire, la personne qui en avait la possession, la responsabilité ou la charge au moment de la saisie ou le propriétaire ou responsable du lieu visité où l’objet a été saisi — et aux frais de celui-ci;
+	- **b)** ordonner à l’intéressé visé à l’alinéa a) de le stocker ou de le déplacer à ses frais;
+	- **c)** si l’objet est périssable, en disposer, sur avis à l’intéressé — son propriétaire ou la personne qui en avait la possession, la responsabilité ou la charge au moment de la saisie — et aux frais de celui-ci, ou lui ordonner d’en disposer à ses frais;
+	- **d)** s’il est d’avis que l’objet présente un danger pour la santé ou la sécurité humaines ou pour l’environnement et qu’il est nécessaire d’en disposer pour parer à ce danger, en disposer malgré le paragraphe 6(8), sur avis à l’intéressé visé à l’alinéa c) et aux frais de celui-ci, ou lui ordonner d’en disposer à ses frais malgré ce paragraphe.
 
 **Avis**
 
-- **(2)** L’ordre de transfert est remis sous forme d’avis écrit précisant les motifs et, s’il y a lieu, le délai et les modalités d’exécution.
+- **(2)** L’ordre de disposition visé aux alinéas (1)c) ou d) est remis sous forme d’avis écrit précisant les motifs et, s’il y a lieu, le délai et les modalités d’exécution.
 
 **Infraction et peine**
 
-- **(3)** Quiconque contrevient à l’ordre qui lui a été remis commet une infraction et encourt, sur déclaration de culpabilité :
+- **(3)** Quiconque ne fait pas ce que lui ordonne l’inspecteur en vertu des alinéas (1)b), c) ou d) commet une infraction et encourt, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, une amende maximale de 200 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines;
 	- **b)** par mise en accusation, une amende maximale de 500 000 $ et un emprisonnement maximal de trois ans, ou l’une de ces peines.
 
 **Interdiction**
 
-- **(4)** Il est interdit, sans l’autorisation écrite de l’inspecteur, de transférer le produit antiparasitaire ou autre objet saisi et retenu en application de la présente loi ou d’en modifier l’état de quelque manière que ce soit.
+- **(4)** Il est interdit, sans l’autorisation de l’inspecteur, de déplacer ou de modifier le produit antiparasitaire ou autre objet saisi en vertu de la présente loi.
 
 **Infraction et peine**
 
 - **(5)** Quiconque contrevient au paragraphe (4) commet une infraction et encourt, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, une amende maximale de 200 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines;
 	- **b)** par mise en accusation, une amende maximale de 500 000 $ et un emprisonnement maximal de trois ans, ou l’une de ces peines.
+> 2002, ch. 28, art. 53; 2016, ch. 9, art. 51.
 
 
 
 
-**Application de dispositions du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md)**
 
-**54** Les paragraphes 489.1(2) et (3) et l’article 490 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) s’appliquent au produit antiparasitaire ou autre objet saisi par un inspecteur, avec les adaptations suivantes :
-- **a)** l’inspecteur à l’origine de la saisie est considéré comme un poursuivant au sens du paragraphe 490(1) de cette loi;
-- **b)** la période maximale de rétention prévue au paragraphe 490(2) de cette loi est de six mois;
-- **c)** la mention « procédure » à l’article 490 de cette loi vise aussi les poursuites pour violation;
-- **d)** en cas de poursuite pour violation, le juge de paix à qui l’objet saisi a été apporté ou à qui un rapport à son égard a été fait est tenu de le faire parvenir au ministre en vue de sa confiscation ou disposition aux termes de l’article 22 de la [Loi sur les sanctions administratives pécuniaires en matière d’agriculture et d’agroalimentaire](/fr/Lois/Lois%20du%20Canada/1995/ch.%2040.md) ou du paragraphe 55(3) de la présente loi.
+**Mainlevée de saisie**
+
+**53.1** Si l’inspecteur est convaincu que les dispositions de la présente loi et des règlements applicables au produit antiparasitaire ou autre objet saisi en vertu de la présente loi ont été respectées, il est donné mainlevée de la saisie.
+> 2016, ch. 9, art. 52.
+
+
+
+
+
+**Demande de restitution**
+
+**53.2** 
+
+- **(1)** Le propriétaire d’un produit antiparasitaire ou autre objet saisi en vertu de la présente loi qui a donné lieu à une poursuite, ou la personne qui en avait la possession, la responsabilité ou la charge au moment de la saisie, peut, sous réserve du paragraphe 55(1), demander à la Commission de révision prorogée par le paragraphe 4.1(1) de la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md) ou au tribunal chargé de l’affaire, selon qu’il s’agit d’une poursuite pour violation ou pour infraction, qu’il lui soit restitué.
+
+**Ordonnance de restitution**
+
+- **(2)** La juridiction peut faire droit à la demande si elle est convaincue qu’il existe ou qu’il peut être obtenu suffisamment d’éléments de preuve pour rendre inutile la rétention du produit antiparasitaire ou autre objet, sous réserve des conditions jugées utiles pour assurer sa conservation dans un but ultérieur.
+> 2016, ch. 9, art. 52.
+
+
+
+
+
+### Retrait, confiscation ou destruction d’importations illégales
+
+
+
+**Importations illégales**
+
+**53.3** 
+
+- **(1)** S’il a des motifs raisonnables de croire qu’un produit antiparasitaire importé n’est pas conforme aux exigences prévues par les règlements ou qu’il a été importé en contravention de toute disposition de la présente loi ou des règlements, l’inspecteur peut décider s’il accorde à l’intéressé — son propriétaire ou la personne qui l’a importé ou qui en a la possession, la responsabilité ou la charge — la possibilité de prendre une mesure à son égard.
+
+**Facteurs**
+
+- **(2)** Le cas échéant, pour prendre sa décision, l’inspecteur tient compte notamment :
+	- **a)** du danger pour la santé ou la sécurité humaines ou pour l’environnement que présente le produit antiparasitaire;
+	- **b)** de tout autre facteur réglementaire.
+
+**Devoir de l’inspecteur**
+
+- **(3)** S’il décide de ne pas accorder à l’intéressé la possibilité de prendre une mesure à l’égard du produit antiparasitaire, l’inspecteur exerce à l’égard de celui-ci un des pouvoirs que lui confèrent les dispositions de la présente loi — à l’exception du présent article — ou des règlements.
+
+**Mesures pouvant être prises et avis**
+
+- **(4)** Toutefois, s’il décide d’accorder à l’intéressé une telle possibilité, l’inspecteur — ou tout autre inspecteur à qui la décision est communiquée — décide si l’intéressé peut soit retirer le produit antiparasitaire du Canada à ses frais, soit consentir à sa confiscation, soit prendre l’une ou l’autre de ces mesures, et avise ou fait aviser l’intéressé que celui-ci peut prendre cette mesure dans le délai qu’il précise.
+
+**Confiscation**
+
+- **(5)** Si l’intéressé est avisé au titre du paragraphe (4) qu’il peut consentir à la confiscation du produit antiparasitaire et y consent, il y a confiscation au profit de Sa Majesté du chef du Canada et il peut être disposé du produit, aux frais de l’intéressé, conformément aux instructions du ministre.
+> 2016, ch. 9, art. 52.
+
+
+
+
+
+**Retrait ou destruction d’importations illégales**
+
+**54** 
+
+- **(1)** S’il a des motifs raisonnables de croire qu’un produit antiparasitaire importé n’est pas conforme aux exigences prévues par les règlements ou qu’il a été importé en contravention de toute disposition de la présente loi ou des règlements, l’inspecteur peut, par avis écrit, qu’il y ait eu ou non saisie du produit, ordonner à l’intéressé — son propriétaire ou la personne qui l’a importé ou qui en a la possession, la responsabilité ou la charge — de le retirer du Canada à ses frais ou, si le retrait est impossible, de le détruire à ses frais.
+
+**Confiscation**
+
+- **(2)** Malgré l’article 53.1, le produit antiparasitaire qui n’est pas retiré du Canada ou détruit dans le délai fixé dans l’avis ou, à défaut d’indication, dans les quatre-vingt-dix jours suivant la date où l’avis a été remis est confisqué au profit de Sa Majesté du chef du Canada; il peut dès lors en être disposé, aux frais de la personne à qui l’avis a été remis, conformément aux instructions du ministre.
+
+**Suspension de l’application du paragraphe (2)**
+
+- **(3)** Un inspecteur peut suspendre l’application du paragraphe (2) pour la période qu’il précise, s’il est convaincu que, à la fois :
+	- **a)** le produit antiparasitaire ne présente pas de danger pour la santé ou la sécurité humaines ou pour l’environnement;
+	- **b)** le produit antiparasitaire ne sera pas vendu pendant cette période;
+	- **c)** les mesures qui auraient dû être prises pour que le produit antiparasitaire ne soit pas importé en contravention de toute disposition de la présente loi ou des règlements seront prises au cours de cette période;
+	- **d)** dans le cas où le produit antiparasitaire n’est pas conforme aux exigences prévues par les règlements, il sera rendu conforme à ces exigences au cours de cette période.
+
+**Annulation**
+
+- **(4)** Un inspecteur peut annuler l’avis s’il est convaincu que, à la fois :
+	- **a)** le produit antiparasitaire ne présente pas de danger pour la santé ou la sécurité humaines ou pour l’environnement;
+	- **b)** le produit antiparasitaire n’a pas été vendu pendant la période visée au paragraphe (5);
+	- **c)** les mesures visées à l’alinéa (3)c) ont été prises au cours de cette période;
+	- **d)** dans le cas où le produit antiparasitaire n’était pas conforme aux exigences prévues par les règlements au moment où il a été importé, il a été rendu conforme à ces exigences au cours de cette période.
+
+**Période**
+
+- **(5)** Pour l’application du paragraphe (4), la période est la suivante :
+	- **a)** dans le cas où l’application du paragraphe (2) a été suspendue en vertu du paragraphe (3), la période de la suspension;
+	- **b)** dans le cas contraire, la période correspondant au délai fixé dans l’avis ou, à défaut d’indication, au délai de quatre-vingt-dix jours suivant la date où l’avis a été remis.
+
+**Infraction et peine**
+
+- **(6)** Quiconque contrevient à l’ordre qui lui a été remis sous forme d’avis commet une infraction et encourt, sur déclaration de culpabilité :
+	- **a)** par procédure sommaire, une amende maximale de 200 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines;
+	- **b)** par mise en accusation, une amende maximale de 500 000 $ et un emprisonnement maximal de trois ans, ou l’une de ces peines.
+> 2002, ch. 28, art. 54; 2016, ch. 9, art. 52.
+
+
+
+
+
+### Confiscation
+
+
+
+**Produits antiparasitaires ou autres objets saisis abandonnés**
+
+**54.1** 
+
+- **(1)** Le produit antiparasitaire ou autre objet saisi en vertu de la présente loi est, dans les cas ci-après, confisqué au profit de Sa Majesté du chef du Canada si le ministre en décide ainsi :
+	- **a)** le propriétaire de l’objet ou la personne qui a droit à sa possession ne peuvent être identifiés, dans les soixante jours suivant la saisie, en conformité avec les éventuels règlements;
+	- **b)** le propriétaire de l’objet ou la personne qui en avait la possession, la responsabilité ou la charge au moment de la saisie ne le réclament pas dans les soixante jours suivant la date où ils sont informés de la mainlevée de la saisie.
+
+**Poursuites engagées**
+
+- **(2)** Le paragraphe (1) ne s’applique pas si des poursuites sont engagées relativement à une violation ou une infraction liée à l’objet saisi.
+
+**Disposition**
+
+- **(3)** En cas de confiscation de l’objet saisi, il peut en être disposé, aux frais du propriétaire ou de la personne qui en avait la possession, la responsabilité ou la charge au moment de la saisie, conformément aux instructions du ministre.
+> 2016, ch. 9, art. 52.
+
 
 
 
@@ -1366,15 +1552,19 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **55** 
 
-- **(1)** Le propriétaire du produit antiparasitaire ou autre objet saisi peut consentir, par écrit, à sa confiscation. Le cas échéant, il y a confiscation au profit de Sa Majesté du chef du Canada si elle en décide ainsi.
+- **(1)** Le propriétaire du produit antiparasitaire ou autre objet saisi en vertu de la présente loi peut consentir à sa confiscation. Le cas échéant, il y a confiscation au profit de Sa Majesté du chef du Canada si elle en décide ainsi et, en cas de confiscation de l’objet, il peut être disposé de l’objet, aux frais du propriétaire, conformément aux instructions du ministre.
 
 **Confiscation par ordonnance**
 
-- **(2)** En cas de détermination de responsabilité pour violation ou de déclaration de culpabilité pour infraction à la présente loi, tout produit antiparasitaire ou autre objet saisi et non restitué qui a servi ou donné lieu à la violation ou à l’infraction en cause est, en sus de la pénalité ou de la peine infligée, confisqué au profit de Sa Majesté du chef du Canada, si, selon qu’il s’agit d’une violation ou d’une infraction, la Commission de révision prorogée par le paragraphe 4.1(1) de la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md) ou le tribunal l’ordonne.
+- **(2)** En cas de détermination de responsabilité pour violation ou de déclaration de culpabilité pour infraction à la présente loi, tout produit antiparasitaire ou autre objet — saisi ou non en vertu de la présente loi — qui a servi ou donné lieu à la violation ou à l’infraction en cause est, en sus de la pénalité ou de la peine infligée, confisqué au profit de Sa Majesté du chef du Canada, si, selon qu’il s’agit d’une violation ou d’une infraction, la Commission de révision prorogée par le paragraphe 4.1(1) de la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md) ou le tribunal l’ordonne.
 
 **Instructions du ministre**
 
-- **(3)** Il est disposé du produit antiparasitaire ou autre objet confisqué en vertu du présent article conformément aux instructions du ministre.
+- **(3)** Il peut être disposé du produit antiparasitaire ou autre objet confisqué en vertu du paragraphe (2), conformément aux instructions du ministre :
+	- **a)** à défaut de saisie, aux frais du propriétaire;
+	- **b)** en cas de saisie, aux frais du propriétaire ou de la personne qui en avait la possession, la responsabilité ou la charge au moment de la saisie.
+> 2002, ch. 28, art. 55; 2016, ch. 9, art. 52.
+
 
 
 
@@ -1383,11 +1573,32 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **56** 
 
-- **(1)** Lorsqu’une poursuite concernant une violation ou une infraction visée par la présente loi est conclue de façon définitive, le produit antiparasitaire ou autre objet saisi est restitué à son propriétaire ou à la dernière personne à en avoir eu la possession ou la responsabilité, sauf s’il a été confisqué.
+- **(1)** Lorsqu’une poursuite concernant une violation ou une infraction visée par la présente loi est conclue de façon définitive, le produit antiparasitaire ou autre objet saisi est restitué à son propriétaire ou à la personne qui en avait la possession, la responsabilité ou la charge au moment de la saisie, sauf s’il a été confisqué.
 
 **Exception**
 
-- **(2)** Le produit antiparasitaire ou autre objet saisi peut être retenu jusqu’au paiement de l’amende ou de la pénalité infligée au propriétaire de l’objet ou à la dernière personne à en avoir eu la possession ou la responsabilité, ou il peut être vendu et le produit de son aliénation affecté au paiement de l’amende ou de la pénalité.
+- **(2)** Le produit antiparasitaire ou autre objet saisi peut être retenu jusqu’au paiement de l’amende ou de la pénalité infligée au propriétaire de l’objet ou à la personne qui en avait la possession, la responsabilité ou la charge au moment de la saisie, ou il peut être vendu et le produit de la vente affecté au paiement de l’amende ou de la pénalité.
+> 2002, ch. 28, art. 56; 2016, ch. 9, art. 52.
+
+
+
+
+
+**Confiscation à la demande de l’inspecteur**
+
+**56.1** 
+
+- **(1)** Le juge d’une cour supérieure de la province où le produit antiparasitaire ou autre objet a été saisi en vertu de la présente loi peut, à la demande de l’inspecteur, ordonner que l’objet soit confisqué au profit de Sa Majesté du chef du Canada.
+
+**Préavis et examen**
+
+- **(2)** L’ordonnance est subordonnée à la transmission du préavis prescrit par le juge aux personnes qu’il désigne et à la constatation par lui, à l’issue de l’examen qu’il estime nécessaire, du fait que l’objet a servi ou donné lieu à une infraction à toute disposition de la présente loi ou des règlements.
+
+**Disposition**
+
+- **(3)** En cas de confiscation de l’objet, il peut en être disposé, conformément aux instructions du ministre, aux frais du propriétaire ou de la personne qui en avait la possession, la responsabilité ou la charge au moment de la saisie.
+> 2016, ch. 9, art. 52.
+
 
 
 
@@ -1404,7 +1615,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 	- **a)** d’une part, d’arrêter ou de cesser les activités ou choses qui font l’objet de la contravention;
 	- **b)** d’autre part, de prendre les correctifs qui, à son avis, sont nécessaires pour prévenir toute récidive, notamment :
 		- **(i)** modifier un produit antiparasitaire ou son étiquetage, ou en disposer, de façon à se conformer à la présente loi ou aux règlements,
-		- **(ii)** fabriquer, manipuler, stocker, transporter, importer, exporter, emballer, distribuer ou utiliser un produit homologué en conformité avec les conditions d’homologation.
+		- **(ii)** fabriquer, manipuler, stocker, transporter, importer, exporter, emballer, étiqueter, distribuer ou utiliser un produit homologué en conformité avec les conditions d’homologation.
 
 **Période de validité**
 
@@ -1412,7 +1623,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **Avis**
 
-- **(3)** L’ordre est remis, sous forme d’avis écrit précisant les motifs, au titulaire ou, s’il y a lieu, au propriétaire du produit antiparasitaire ou autre objet qui fait l’objet de la contravention ou à la personne qui en a la possession ou la responsabilité.
+- **(3)** L’ordre est remis, sous forme d’avis écrit précisant les motifs, au titulaire ou, s’il y a lieu, au propriétaire du produit antiparasitaire ou autre objet qui fait l’objet de la contravention ou à la personne qui en a la possession, la responsabilité ou la charge.
 
 **Infraction et peine**
 
@@ -1423,6 +1634,8 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **Poursuites**
 
 - **(5)** L’ordre peut être donné même si aucune inculpation n’a été formulée contre le contrevenant; en cas d’inculpation, le tribunal qui juge la contravention peut le confirmer, le modifier ou l’annuler.
+> 2002, ch. 28, art. 57; 2016, ch. 9, art. 54 et 62(A).
+
 
 
 
@@ -1447,8 +1660,8 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **Mesures pouvant être prises**
 
 - **(2)** Constitue une mesure de prévention visée au paragraphe (1) relativement aux objets qui y sont visés le fait pour l’inspecteur, selon le cas :
-	- **a)** d’ordonner au propriétaire ou à la personne qui en a la possession ou la responsabilité d’en disposer ou de faire toute autre chose qui, à son avis, est nécessaire pour réduire ou éliminer les risques qu’ils présentent;
-	- **b)** de les confisquer, d’en disposer ou de faire toute chose qui, à son avis, est nécessaire pour réduire ou éliminer les risques qu’ils présentent;
+	- **a)** d’ordonner au propriétaire ou à la personne qui en a la possession, la responsabilité ou la charge d’en disposer ou de faire toute autre chose qui, à son avis, est nécessaire pour réduire ou éliminer les risques qu’ils présentent;
+	- **b)** d’en disposer ou de faire toute chose qui, à son avis, est nécessaire pour réduire ou éliminer les risques qu’ils présentent, aux frais de leur propriétaire ou de la personne qui en a la possession, la responsabilité ou la charge;
 	- **c)** de déléguer à une autre personne les pouvoirs prévus à l’alinéa b).
 
 **Avis**
@@ -1460,6 +1673,8 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 - **(4)** Quiconque contrevient à l’ordre qui lui a été remis commet une infraction et encourt, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, une amende maximale de 200 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines;
 	- **b)** par mise en accusation, une amende maximale de 500 000 $ et un emprisonnement maximal de trois ans, ou l’une de ces peines.
+> 2002, ch. 28, art. 59; 2016, ch. 9, art. 55 et 62(A).
+
 
 
 
@@ -1524,6 +1739,8 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **Effet de la modification**
 
 - **(13)** Lorsque la décision mentionnée au paragraphe (10) modifie l’ordre, l’avis de la décision est réputé, pour l’application de l’article 61, avoir été remis conformément aux paragraphes 53(2), 57(3) ou 59(3), et l’ordre modifié est susceptible de révision conformément au présent article.
+> 2002, ch. 28, art. 60; 2016, ch. 9, art. 62(A).
+
 
 
 
@@ -1535,6 +1752,8 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **Demande**
 
 **61** Si la personne visée n’exécute pas l’ordre remis conformément aux paragraphes 53(2), 57(3) ou 59(3), le ministre peut demander à la Cour fédérale ou à tout autre tribunal compétent de lui ordonner de s’y soumettre ou d’autoriser l’inspecteur à prendre les mesures que le tribunal estime nécessaires à son respect.
+> 2002, ch. 28, art. 61; 2016, ch. 9, art. 62(A).
+
 
 
 
@@ -1547,7 +1766,7 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **62** 
 
-- **(1)** Les avis ou autres documents à remettre en application de la présente loi peuvent l’être par courrier recommandé ou certifié ou par tout autre moyen fournissant une preuve de livraison.
+- **(1)** Les avis ou autres documents à remettre en application de la présente loi peuvent l’être par tout moyen fournissant une preuve de livraison ou par tout moyen réglementaire.
 
 **Représentant canadien**
 
@@ -1568,6 +1787,8 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 **Non-application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
 - **(6)** Il est entendu que la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas aux avis et autres documents remis en application de la présente loi.
+> 2002, ch. 28, art. 62; 2016, ch. 9, art. 57.
+
 
 
 
@@ -1576,25 +1797,46 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 
 
-**Créances de Sa Majesté — services**
+**Recouvrement des droits**
 
-**63** Sa Majesté du chef du Canada peut recouvrer tout droit lié à l’application de la présente loi ou des règlements.
+**63** Sa Majesté du chef du Canada peut recouvrer, à titre de créance de Sa Majesté du chef du Canada, tout droit lié à l’application des dispositions de la présente loi ou des règlements.
+> 2002, ch. 28, art. 63; 2016, ch. 9, art. 58.
 
 
 
 
-**Créances de Sa Majesté — inspection**
 
-**64** 
+**Recouvrement des frais**
 
-- **(1)** Sa Majesté du chef du Canada peut également recouvrer, auprès de toute personne visée au paragraphe (2), les frais imposés sous le régime de la présente loi et les autres frais exposés par elle du fait de l’application de la présente loi ou des règlements, notamment en ce qui touche :
-	- **a)** l’inspection, le traitement, les essais ou les analyses d’un lieu, d’un produit antiparasitaire ou de tout autre objet, ou encore le stockage, le transfert, l’élimination ou la remise d’un produit ou d’un objet au titre de la présente loi ou des règlements;
-	- **b)** la saisie, la rétention, la confiscation ou l’élimination de tout objet en vertu de la présente loi ou des règlements;
-	- **c)** les mesures d’application ou de contrôle de risques prises par le ministre ou l’inspecteur en vertu de la présente loi ou des règlements.
+**64** Sa Majesté du chef du Canada peut également recouvrer, à titre de créance de Sa Majesté du chef du Canada, les frais exposés par elle et liés aux mesures prises sous le régime de la présente loi, notamment en ce qui touche :
+- **a)** l’inspection, le traitement, les essais ou les analyses d’un lieu, d’un produit antiparasitaire ou de tout autre objet, ou encore le stockage, le déplacement, la saisie, la rétention, la confiscation, la disposition ou la restitution d’un produit ou d’un objet;
+- **b)** les mesures d’application ou de contrôle de risques prises par le ministre ou l’inspecteur sous le régime de la présente loi.
+> 2002, ch. 28, art. 64; 2016, ch. 9, art. 58.
 
-**Débiteurs solidaires**
 
-- **(2)** Sont alors solidairement responsables de ces frais le propriétaire et l’occupant du lieu, le propriétaire du produit antiparasitaire ou de tout autre objet et la dernière personne à en avoir eu la possession ou la responsabilité avant la prise des mesures en cause.
+
+
+
+**Prescription**
+
+**64.1** Le recouvrement au titre de la présente loi de toute créance de Sa Majesté du chef du Canada se prescrit par cinq ans à compter de la date à laquelle la créance est devenue exigible.
+> 2016, ch. 9, art. 58.
+
+
+
+
+
+**Certificat de non-paiement**
+
+**64.2** 
+
+- **(1)** Le ministre peut établir un certificat de non-paiement pour la partie impayée des créances dont le recouvrement peut être poursuivi en vertu des articles 63 ou 64.
+
+**Enregistrement en Cour fédérale**
+
+- **(2)** L’enregistrement à la Cour fédérale confère au certificat la valeur d’un jugement de cette juridiction pour la somme visée et les frais afférents.
+> 2016, ch. 9, art. 58.
+
 
 
 
@@ -1668,26 +1910,39 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 	- **o)** concernant la fabrication, la possession, la manipulation, le stockage, le transport, l’importation, l’exportation, la distribution, l’utilisation et la disposition des produits antiparasitaires;
 	- **p)** établissant des normes relatives aux produits antiparasitaires, notamment quant à leur forme et leur composition;
 	- **q)** concernant les mesures à prendre en vue de faciliter l’identification des produits antiparasitaires, notamment par le changement de coloration;
-	- **r)** concernant l’emballage et la publicité des produits;
-	- **s)** concernant la transmission de renseignements en matière de sécurité relativement aux produits antiparasitaires;
+	- **r)** concernant l’emballage, l’étiquetage et la publicité des produits antiparasitaires;
+	- **s)** concernant les renseignements sur la sécurité des produits antiparasitaires, notamment ceux relatifs aux fiches de données de sécurité;
 	- **t)** concernant la tenue, par les titulaires, fabricants, importateurs, exportateurs, distributeurs et utilisateurs de produits antiparasitaires, de dossiers relatifs aux produits qu’ils fabriquent, stockent, importent, exportent, distribuent ou utilisent, ou dont ils disposent, et prévoyant leur mise à la disposition du ministre;
 	- **u)** concernant la tenue de registres, par les titulaires, des renseignements sur les ventes de produits antiparasitaires, la conservation et la transmission de ces renseignements au ministre par les titulaires et anciens titulaires ainsi que l’utilisation de ces renseignements par celui-ci;
 	- **v)** concernant le prélèvement d’échantillons et les analyses à effectuer pour l’application de la présente loi;
 	- **w)** concernant l’exploitation et l’inspection des établissements où sont fabriqués des produits antiparasitaires homologués;
-	- **x)** concernant les mesures de conservation et de rétention des objets saisis par un inspecteur;
+	- **x)** concernant la conservation, la rétention et la confiscation des objets saisis par un inspecteur;
 	- **y)** concernant les modalités de disposition — notamment par destruction — des objets confisqués ou dont la présente loi permet la disposition;
 	- **z)** concernant les révisions visées à l’article 60;
 	- **z.1)** concernant la remise ou la transmission de documents au titre de la présente loi, notamment la transmission sous forme électronique;
 	- **z.2)** concernant les droits et autres frais relatifs à l’application de la présente loi et des règlements;
-	- **z.3)** mettant en oeuvre, en ce qui concerne les produits antiparasitaires, les accords internationaux touchant de tels produits;
-	- **z.4)** soustrayant à l’application de tout ou partie de la présente loi ou des règlements des produits antiparasitaires, des personnes ou des activités, et fixant les conditions dans lesquelles ils y sont soustraits :
-		- **(i)** soit en vue de faciliter la recherche scientifique ou de faire face à des situations d’urgence,
-		- **(ii)** soit lorsque le gouverneur en conseil est convaincu que les produits, les personnes ou les activités visés sont réglementés comme il convient par une autre loi ou que l’objet de la présente loi peut être respecté malgré l’exemption;
+	- **z.21)** déterminant des catégories de produits antiparasitaires et des divisions et subdivisions de ces catégories;
+	- **z.3)** concernant la mise en oeuvre, en ce qui concerne les produits antiparasitaires, des accords internationaux touchant ceux-ci;
+	- **z.4)** soustrayant à l’application de tout ou partie des dispositions de la présente loi ou des règlements des personnes, des activités ou des produits antiparasitaires, notamment les produits antiparasitaires qui sont importés uniquement en vue de leur exportation, et fixant les conditions dans lesquelles ils y sont soustraits;
 	- **z.5)** prenant toute mesure d’ordre réglementaire prévue par la présente loi ainsi que toute autre mesure d’application de celle-ci.
 
 **Incorporation de normes**
 
 - **(2)** Il est entendu que les règlements pris en vertu des alinéas (1)d) ou p) qui incorporent des normes par renvoi peuvent prévoir qu’elles sont incorporées soit avec leurs modifications successives jusqu’à une date donnée, soit avec toutes leurs modifications successives.
+
+**Documents produits conjointement**
+
+- **(2.1)** Peut être incorporé par renvoi dans un règlement tout document produit conjointement par le ministre et toute autre administration en vue d’harmoniser le règlement avec d’autres règles de droit.
+
+**Normes techniques dans des documents internes**
+
+- **(2.2)** Peut être incorporé par renvoi dans un règlement tout document technique ou explicatif produit par le ministre, notamment :
+	- **a)** des spécifications, classifications, illustrations ou graphiques ou tout autre renseignement de nature technique;
+	- **b)** des méthodes d’essai, procédures ou normes d’exploitation, de rendement ou de sécurité, de nature technique.
+
+**Portée de l’incorporation**
+
+- **(2.3)** L’incorporation par renvoi peut viser le document à une date donnée ou avec ses modifications successives.
 
 **Règlements relatifs à l’Accord de libre-échange nord-américain et à l’Accord sur l’OMC**
 
@@ -1697,9 +1952,11 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 - **(4)** Les définitions qui suivent s’appliquent au paragraphe (3).
 
-***Accord de libre-échange nord-américain*** Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md).
+***Accord de libre-échange nord-américain*** Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md). (*North American Free Trade Agreement*)
 
-***Accord sur l’OMC*** Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord sur l’Organisation mondiale du commerce](/fr/Lois/Lois%20du%20Canada/1994/ch.%2047.md).
+***Accord sur l’OMC*** Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord sur l’Organisation mondiale du commerce](/fr/Lois/Lois%20du%20Canada/1994/ch.%2047.md). (*WTO Agreement*)
+> 2002, ch. 28, art. 67; 2016, ch. 9, art. 59.
+
 
 
 
@@ -1795,6 +2052,15 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 
 
+**Disculpation — précautions voulues**
+
+**69.1** Nul ne peut être déclaré coupable d’une infraction prévue par la présente loi — autre qu’une infraction prévue à l’article 30 ou aux paragraphes 33(8), 40(1) ou 44(7), une infraction prévue au paragraphe 47(4) en ce qui concerne une contravention au paragraphe 47(3) ou une infraction prévue aux paragraphes 68(3) ou 70(3) — s’il prouve qu’il a pris toutes les précautions voulues pour prévenir sa perpétration.
+> 2016, ch. 9, art. 60.
+
+
+
+
+
 ### Dispositions connexes
 
 
@@ -1820,7 +2086,9 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **Infraction commise par un employé ou un mandataire**
 
-**71** Dans les poursuites pour infraction à la présente loi, il suffit, pour prouver l’infraction, d’établir qu’elle a été commise par un employé ou un mandataire de l’accusé, que cet employé ou mandataire ait été ou non identifié ou poursuivi. L’accusé peut se disculper en prouvant que la perpétration a eu lieu à son insu ou sans son consentement et qu’il avait pris toutes les précautions voulues pour l’empêcher.
+**71** Dans les poursuites pour une infraction à la présente loi — autre qu’une infraction prévue à l’article 30 ou aux paragraphes 33(8), 40(1) ou 44(7), une infraction prévue au paragraphe 47(4) en ce qui concerne une contravention au paragraphe 47(3) ou une infraction prévue aux paragraphes 68(3) ou 70(3) —, il suffit, pour prouver l’infraction, d’établir qu’elle a été commise par un employé ou un mandataire de l’accusé, que cet employé ou mandataire ait été ou non identifié ou poursuivi. L’accusé peut se disculper en prouvant que la perpétration a eu lieu à son insu ou sans son consentement et qu’il avait pris toutes les précautions voulues pour l’empêcher.
+> 2002, ch. 28, art. 71; 2016, ch. 9, art. 61.
+
 
 
 
