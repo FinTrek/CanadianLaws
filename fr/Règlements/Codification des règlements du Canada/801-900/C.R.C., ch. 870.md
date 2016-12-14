@@ -406,18 +406,18 @@ la conception du contenant, les matériaux utilisés pour sa fabrication ou la p
 
 - **(1)** Dans la présente partie,
 
-***acides gras monoinsaturés***, ***graisses monoinsaturées***, ***gras monoinsaturés***, ***lipides monoinsaturés*** ou ***monoinsaturés*** Acides gras *cis*-monoinsaturés; (*monounsaturated fatty acids*, *monounsaturated fat*, *monounsaturates* or *monounsaturated*)
+***acides gras monoinsaturés***, ***graisses monoinsaturées***, ***gras monoinsaturés***, ***lipides monoinsaturés*** ou ***monoinsaturés*** Acides gras *cis*-monoinsaturés; (*monounsaturated fatty acids*, *monounsaturated fat*, *monounsaturates* or *monounsaturated*)
 
-***acides gras polyinsaturés***, ***graisses polyinsaturées***, ***gras polyinsaturés***, ***lipides polyinsaturés*** ou ***polyinsaturés*** Acides gras polyinsaturés à interruption *cis*-méthylénique; (*polyunsaturated fatty acids*, *polyunsaturated fat*, *polyunsaturates* or *polyunsaturated*)
+***acides gras polyinsaturés***, ***graisses polyinsaturées***, ***gras polyinsaturés***, ***lipides polyinsaturés*** ou ***polyinsaturés*** Acides gras polyinsaturés à interruption *cis*-méthylénique; (*polyunsaturated fatty acids*, *polyunsaturated fat*, *polyunsaturates* or *polyunsaturated*)
 
-***acides gras polyinsaturés oméga-3***, ***graisses polyinsaturées oméga-3***, ***gras polyinsaturés oméga-3***, ***lipides polyinsaturés oméga-3***, ***polyinsaturés oméga-3*** ou ***oméga-3*** Selon le cas :
+***acides gras polyinsaturés oméga-3***, ***graisses polyinsaturées oméga-3***, ***gras polyinsaturés oméga-3***, ***lipides polyinsaturés oméga-3***, ***polyinsaturés oméga-3*** ou ***oméga-3*** Selon le cas :
 - **a)** acide 9-*cis*, 12-*cis*, 15-*cis* octadécatriénoïque ou acide α-linolénique;
 - **b)** acide 8-*cis*, 11-*cis*, 14-*cis*, 17-*cis* éicosatétraénoïque;
 - **c)** acide 5-*cis*, 8-*cis*, 11-*cis*, 14-*cis*, 17-*cis* éicosapentaénoïque ou AEP;
 - **d)** acide 7-*cis*, 10-*cis*, 13-*cis*, 16-*cis*, 19-*cis* docosapentaénoïque;
 - **e)** acide 4-*cis*, 7-*cis*, 10-*cis*, 13-*cis*, 16-*cis*, 19-*cis* docosahexaénoïque ou ADH; (*omega-3 polyunsaturated fatty acids*, *omega-3 polyunsaturated fat*, *omega-3 polyunsaturates*, *omega-3 polyunsaturated* or *omega-3*)
 
-***acides gras polyinsaturés oméga-6***, ***graisses polyinsaturées oméga-6***, ***gras polyinsaturés oméga-6***, ***lipides polyinsaturés oméga-6***, ***polyinsaturés oméga-6*** ou ***oméga-6*** Selon le cas :
+***acides gras polyinsaturés oméga-6***, ***graisses polyinsaturées oméga-6***, ***gras polyinsaturés oméga-6***, ***lipides polyinsaturés oméga-6***, ***polyinsaturés oméga-6*** ou ***oméga-6*** Selon le cas :
 - **a)** acide 9-*cis*, 12-*cis* octadécadiénoïque ou acide linoléique;
 - **b)** acide 6-*cis*, 9-*cis*, 12-*cis* octadécatriénoïque;
 - **c)** acide 8-*cis*, 11-*cis*, 14-*cis* éicosatriénoïque ou acide di-homo-γ-linolénique;
@@ -425,9 +425,9 @@ la conception du contenant, les matériaux utilisés pour sa fabrication ou la p
 - **e)** acide 7-*cis*, 10-*cis*, 13-*cis*, 16-*cis* docosatétraénoïque;
 - **f)** acide 4-*cis*, 7-*cis*, 10-*cis*, 13-*cis*, 16-*cis* docosapentaénoïque; (*omega-6 polyunsaturated fatty acids*, *omega-6 polyunsaturated fat*, *omega-6 polyunsaturates*, *omega-6 polyunsaturated* or *omega-6*)
 
-***acides gras saturés***, ***graisses saturées***, ***gras saturés***, ***lipides saturés*** ou ***saturés*** Acides gras ne contenant aucune liaison double; (*saturated fatty acids*, *saturated fat*, *saturates**or**saturated*)
+***acides gras saturés***, ***graisses saturées***, ***gras saturés***, ***lipides saturés*** ou ***saturés*** Acides gras ne contenant aucune liaison double; (*saturated fatty acids*, *saturated fat*, *saturates**or**saturated*)
 
-***acides gras trans***, ***graisses trans***, ***gras trans***, ***lipides trans*** ou ***trans*** Acides gras insaturés qui contiennent une ou plusieurs liaisons doubles isolées ou non conjuguées de configuration *trans*; (*trans fatty acids*, *trans fat**or**trans* )
+***acides gras trans***, ***graisses trans***, ***gras trans***, ***lipides trans*** ou ***trans*** Acides gras insaturés qui contiennent une ou plusieurs liaisons doubles isolées ou non conjuguées de configuration *trans*; (*trans fatty acids*, *trans fat**or**trans* )
 
 ***additif alimentaire*** s’entend de toute substance dont l’emploi est tel ou peut vraisemblablement être tel que cette substance ou ses sous-produits sont intégrés à un aliment ou en modifient les caractéristiques, à l’exclusion de ce qui suit :
 - **a)** toute substance nutritive qui est employée, reconnue ou vendue couramment comme substance alimentaire ou comme ingrédient d’un aliment,
@@ -449,17 +449,17 @@ la conception du contenant, les matériaux utilisés pour sa fabrication ou la p
 
 ***apport nutritionnel recommandé pondéré*** Relativement à une vitamine ou à un minéral nutritif figurant à la colonne I du tableau II du titre 1 de la partie D ou à la colonne I du tableau II du titre 2 de cette partie, la quantité indiquée dans la colonne III; (*weighted recommended nutrient intake*)
 
-***apport quotidien recommandé*** Relativement à une vitamine ou à un minéral nutritif figurant à la colonne I du tableau I du titre 1 de la partie D ou à la colonne I du tableau I du titre 2 de cette partie :
-- **a)** dans le cas d’un produit préemballé destiné exclusivement aux enfants âgés de moins de deux ans, la quantité indiquée dans la colonne III;
-- **b)** dans les autres cas, la quantité indiquée dans la colonne II; (*recommended daily intake*)
+***apport quotidien recommandé***[Abrogée, DORS/2016-305, art. 1]
 
 ***à proximité***, appliqué au nom usuel, signifie adjacent au nom usuel sans qu’aucun texte imprimé ou écrit, ni aucun signe graphique, ne soit intercalé entre les deux; (*close proximity*)
+
+***autorisation de mise en marché*** Autorisation de mise en marché délivrée par le ministre en vertu du paragraphe 30.3(1) de la Loi; (*marketing authorization*)
 
 ***boeuf attendri mécaniquement*** Boeuf coupé solide non cuit conditionné de l’une des façons suivantes :
 - **a)** sa surface est affaiblie du fait qu’elle est perforée par des lames, des aiguilles ou tout autre instrument similaire;
 - **b)** une marinade ou toute autre solution attendrissante y est injectée; (*mechanically tenderized beef*)
 
-***colorant alimentaire*** désigne les matières colorantes que le titre 6 permet d’employer dans ou sur les produits alimentaires; (*food colour*)
+***colorant alimentaire*** Tout colorant visé à l’article 2 de l’[Autorisation de mise en marché d’additifs alimentaires comme colorants](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/204.md). (*food colour*) 
 
 ***constituant*** désigne une unité alimentaire alliée, en tant qu’élément alimentaire individuel, à une ou plusieurs autres unités alimentaires pour former un ingrédient; (*component*)
 
@@ -467,7 +467,7 @@ la conception du contenant, les matériaux utilisés pour sa fabrication ou la p
 
 ***durée de conservation*** désigne la période, commençant le jour de l’emballage pour la vente au détail, pendant laquelle un produit préemballé qui est en stockage dans des conditions qui conviennent audit produit, retiendra, sans détérioration appréciable, la nature saine, le caractère agréable au goût et la valeur nutritive que possède ordinairement ce produit, ainsi que toute autre qualité revendiquée par le fabricant; (*durable life*)
 
-***édulcorant*** Additif alimentaire désigné comme édulcorant au tableau IX de l’article B.16.100; (*sweetener*)
+***édulcorant*** Tout édulcorant visé à l’article 2 de l’[Autorisation de mise en marché d’additifs alimentaires comme édulcorants](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/210.md); (*sweetener*)
 
 ***emballage décoratif*** désigne un emballage sur lequel ne figure, sauf sur le dessous, aucune indication promotionnelle ou publicitaire autre qu’une marque de commerce ou un nom usuel et qui, à cause d’un dessin figurant sur sa surface ou à cause de sa forme ou de son apparence, semble être décoratif et est vendu à titre d’objet décoratif en plus d’être vendu comme emballage du produit; (*ornamental container*)
 
@@ -478,6 +478,11 @@ la conception du contenant, les matériaux utilisés pour sa fabrication ou la p
 
 ***ingrédient*** désigne une unité alimentaire alliée, en tant qu’élément alimentaire, à une ou plusieurs autres unités alimentaires pour former une denrée alimentaire intégrale vendue comme produit préemballé; (*ingredient*)
 
+***ingrédient à base de sucres*** À l’égard d’un produit préemballé :
+- **a)** l’ingrédient qui est un monosaccharide ou un disaccharide, ou une combinaison de ceux-ci;
+- **b)** l’ingrédient qui est un agent édulcorant autre que ceux visés à l’alinéa a);
+- **c)** tout autre ingrédient qui contient un ou plusieurs sucres et qui est ajouté au produit comme substitut fonctionnel d’un agent édulcorant; (*sugars-based ingredient*)
+
 ***Liste de contaminants et d’autres substances adultérantes dans les aliments*** La Liste de contaminants et d’autres substances adultérantes dans les aliments, publiée par le ministère de la Santé sur son site Web, avec ses modifications successives; (*List of Contaminants and Other Adulterating Substances in Foods*)
 
 ***nom usuel***, en ce qui a trait à un aliment, désigne
@@ -485,7 +490,7 @@ la conception du contenant, les matériaux utilisés pour sa fabrication ou la p
 - **b)** le nom prescrit par un autre règlement, ou
 - **c)** si le nom de l’aliment n’est pas ainsi imprimé ou prescrit, le nom sous lequel l’aliment est généralement connu; (*common name*)
 
-***norme de référence*** Relativement à un élément nutritif figurant à la colonne 1 du tableau de l’article B.01.001.1, la quantité indiquée dans la colonne 2; (*reference standard*)
+***norme de référence***[Abrogée, DORS/2016-305, art. 1]
 
 ***oeuf à jaune substitué*** désigne un aliment qui
 - **a)** ne contient pas de jaune d’oeuf mais qui contient de l’albumen d’oeuf liquide, en poudre ou congelé ou un mélange de ces trois formes,
@@ -494,9 +499,11 @@ la conception du contenant, les matériaux utilisés pour sa fabrication ou la p
 
 ***parties par million***[Abrogée, DORS/2010-94, art. 1]
 
-***parties par million*** ou ***p.p.m.*** S’entend de parties par million en poids, à moins d’indication contraire; (*parts per million or p.p.m.*)
+***parties par million*** ou ***p.p.m.*** S’entend de parties par million en poids, à moins d’indication contraire; (*parts per million or p.p.m.*)
 
-***pour cent*** ou ***%*** Pourcentage en poids, à moins d’indication contraire; (*per cent**ou**%*)
+***point*** Unité de mesure de la force du corps des caractères connu comme point PostScript et qui équivaut à 0,3527777778 mm; (*point*)
+
+***pour cent*** ou ***%*** Pourcentage en poids, à moins d’indication contraire; (*per cent**ou**%*)
 
 ***préparation aromatisante*** s’applique à tout aliment qui fait l’objet d’une norme du titre 10; (*flavouring preparation*)
 
@@ -520,7 +527,11 @@ la conception du contenant, les matériaux utilisés pour sa fabrication ou la p
 
 ***produit préemballé*** désigne un aliment contenu dans un emballage de manière à être normalement vendu, utilisé ou acheté par une personne; (*prepackaged product*)
 
-***quantité de référence*** Relativement à un aliment figurant à la colonne 1 de l’annexe M, la quantité de cet aliment indiquée dans la colonne 2; (*reference amount*)
+***produit préemballé à portion individuelle*** Produit préemballé dont la quantité nette de l’aliment contenu dans l’emballage correspond à la portion indiquée pour cet aliment, tel qu’il est prévu à l’alinéa B.01.002A(1)b); (*single-serving prepackaged product*)
+
+***produit préemballé à portions multiples*** Produit préemballé autre qu’un produit préemballé à portion individuelle; (*multiple-serving prepackaged product*)
+
+***quantité de référence*** S’agissant d’un aliment figurant à la colonne 1 du Tableau des quantités de référence, la quantité de cet aliment indiquée dans la colonne 2; (*reference amount*)
 
 ***ration quotidienne raisonnable***, appliquée à un aliment énuméré à un poste de la colonne I de l’annexe K, désigne la quantité de cet aliment indiquée dans la colonne II de ladite annexe; (*reasonable daily intake*)
 
@@ -528,11 +539,15 @@ la conception du contenant, les matériaux utilisés pour sa fabrication ou la p
 - **a)** une portion de viande, poisson, volaille, légumineuses, noix, graines, oeufs ou lait ou produits du lait autres que le beurre, la crème, la crème sure, la crème glacée, le lait glacé et le sorbet laitier;
 - **b)** une portion de légumes, fruits ou produits céréaliers; (*prepackaged meal*)
 
+***Répertoire des modèles de TVN*** Le document intitulé Étiquetage nutritionnel — Répertoire des modèles de tableaux de la valeur nutritive, publié par le gouvernement du Canada sur son site Web, avec ses modifications successives; (*Directory of NFT Formats*) 
+
 ***simili-produit de viande*** désigne un aliment qui ne contient aucun produit de viande, produit de volaille ni produit de poisson mais qui a l’apparence d’un produit de viande; (*simulated meat product*)
 
 ***simili-produit de volaille*** désigne un aliment qui ne contient aucun produit de volaille, produit de viande ni produit de poisson mais qui a l’apparence d’un produit de volaille; (*simulated poultry product*)
 
 ***substitut de repas*** Préparation alimentaire qui, à elle seule, peut remplacer au moins un repas quotidien; (*meal replacement*)
+
+***substitut fonctionnel d’un agent édulcorant*** À l’égard d’un produit préemballé, l’aliment — autre que l’édulcorant ou l’agent édulcorant, notamment les sucres — qui remplace un agent édulcorant et qui possède une ou plusieurs des fonctions de ce dernier en termes notamment de pouvoir édulcorant, épaississant, texturant ou caramélisant; (*functional substitute for a sweetening agent*)
 
 ***sucres*** désigne tous les monosaccharides et les disaccharides; (*sugars*)
 
@@ -552,78 +567,39 @@ Sont toutefois exclus :
 
 ***tableau de la valeur nutritive*** Tableau que porte l’étiquette d’un produit préemballé conformément au paragraphe B.01.401(1); (*nutrition facts table*)
 
+***Tableau des quantités de référence*** Le document intitulé Étiquetage nutritionnel — Tableau des quantités de référence pour aliments, publié par le gouvernement du Canada sur son site Web, avec ses modifications successives; (*Table of Reference Amounts*)
+
+***Tableau des valeurs quotidiennes*** Le document intitulé Étiquetage nutritionnel — Tableau des valeurs quotidiennes, publié par le gouvernement du Canada sur son site Web, avec ses modifications successives; (*Table of Daily Values*)
+
 ***valeur énergétique*** s’entend, dans le cas d’un aliment, de la quantité d’énergie que peut recevoir une personne lorsqu’elle ingère l’aliment et que les constituants chimiques de cet aliment, dont les protéines, les matières grasses, les glucides et l’alcool, sont métabolisés; (*energy value*)
 
-***valeur quotidienne*** Selon le cas :
-- **a)** relativement à une vitamine ou à un minéral nutritif mentionné dans la définition de ***apport quotidien recommandé***, l’apport quotidien recommandé de cette vitamine ou de ce minéral nutritif;
-- **b)** relativement à un élément nutritif mentionné dans la définition de ***norme de référence***, la norme de référence de cet élément. (*daily value*)
+***valeur quotidienne*** S’agissant d’un élément nutritif, la quantité applicable visée au paragraphe B.01.001.1(2). (*daily value*)
 
 - **(2)** Les termes ci-après sont définis comme il suit pour l’application de la Loi.
 
 ***additif alimentaire*** S’entend au sens du paragraphe (1). (*food additive*)
 
 ***produit chimique agricole*** S’entend au sens du paragraphe (1). (*agricultural chemical*)
-> DORS/78-403, art. 1(F); DORS/79-23, art. 1; DORS/81-83, art. 1; DORS/81-617, art. 1; DORS/88-336, art. 1; DORS/88-559, art. 1; DORS/89-175, art. 1; DORS/91-124, art. 1; DORS/91-527, art. 1; DORS/93-276, art. 1; DORS/95-474, art. 1; DORS/98-580, art. 1(F); DORS/2000-353, art. 3; DORS/2003-11, art. 1; err.(A), Vol. 137, n<sup>o</sup>o 5; DORS/2005-98, art. 1; DORS/2008-181, art. 1; DORS/2008-182, art. 1; DORS/2010-94, art. 1; DORS/2011-278, art. 1; DORS/2014-99, art. 1; DORS/2016-74, art. 1.
+> DORS/78-403, art. 1(F); DORS/79-23, art. 1; DORS/81-83, art. 1; DORS/81-617, art. 1; DORS/88-336, art. 1; DORS/88-559, art. 1; DORS/89-175, art. 1; DORS/91-124, art. 1; DORS/91-527, art. 1; DORS/93-276, art. 1; DORS/95-474, art. 1; DORS/98-580, art. 1(F); DORS/2000-353, art. 3; DORS/2003-11, art. 1; err.(A), Vol. 137, n<sup>o</sup> 5; DORS/2005-98, art. 1; DORS/2008-181, art. 1; DORS/2008-182, art. 1; DORS/2010-94, art. 1; DORS/2011-278, art. 1; DORS/2014-99, art. 1; DORS/2016-74, art. 1; DORS/2016-305, art. 1.
 
 
 
 
 **B.01.001.1** 
 
-- **(1)** Dans le présent article, ***lipides*** s’entend de tous les acides gras exprimés sous forme de triglycérides.
+- **(1)** Pour l’application du paragraphe (2), le terme lipides qui est utilisé dans le Tableau des valeurs quotidiennes s’entend de tous les acides gras exprimés sous forme de triglycérides.
 
-- **(2)** La norme de référence d’un élément nutritif figurant à la colonne 1 du tableau du présent article est la quantité indiquée dans la colonne 2.
-#### TABLEAU
-<table>
-<h4>Normes de référence</h4>
-<tr>
-<th></th>
-<th>Colonne 1</th>
-<th>Colonne 2</th>
-</tr>
-<tr>
-<th>Article</th>
-<th>Élément nutritif</th>
-<th>Quantité</th>
-</tr>
-<tr>
-<td>1</td>
-<td>Lipides</td>
-<td>65 g</td>
-</tr>
-<tr>
-<td>2</td>
-<td>La somme des acides gras saturés et des acides gras *trans*</td>
-<td>20 g</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Cholestérol</td>
-<td>300 mg</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Glucides</td>
-<td>300 g</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Fibres</td>
-<td>25 g</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Sodium</td>
-<td>2 400 mg</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Potassium</td>
-<td>3 500 mg</td>
-</tr>
-</table>
+- **(2)** La valeur quotidienne d’un élément nutritif contenu dans un aliment est :
+	- **a)** s’agissant d’un élément nutritif mentionné à la colonne 1 de la partie 1 du Tableau des valeurs quotidiennes, la quantité qui figure :
+		- **(i)** à la colonne 2, dans le cas d’un aliment destiné exclusivement aux enfants âgés d’au moins un an mais de moins de quatre ans,
+		- **(ii)** à la colonne 3, dans le cas d’un aliment destiné aux enfants âgés d’au moins un an mais de moins de quatre ans ou aux enfants âgés d’au moins quatre ans et aux adultes;
+	- **b)** s’agissant d’une vitamine ou d’un minéral nutritif mentionné à la colonne 1 de la partie 2 du Tableau des valeurs quotidiennes, la quantité de cette vitamine ou de ce minéral nutritif qui figure :
+		- **(i)** à la colonne 2, dans le cas d’un aliment destiné exclusivement aux bébés âgés d’au moins six mois mais de moins d’un an,
+		- **(ii)** à la colonne 3, dans le cas d’un aliment destiné aux bébés âgés d’au moins six mois mais de moins d’un an ou aux enfants âgés d’au moins un an mais de moins de quatre ans,
+		- **(iii)** à la colonne 4, dans les autres cas.
 
-> DORS/2003-11, art. 2.
+- **(3)** Le paragraphe (2) ne s’applique pas si l’aliment est un succédané de lait humain destiné exclusivement aux bébés âgés de moins de six mois.
+> DORS/2003-11, art. 2; DORS/2016-305, art. 2.
 
 
 
@@ -636,19 +612,21 @@ Sont toutefois exclus :
 
 **B.01.002A** 
 
-- **(1)** Pour l’application de la présente partie, toute portion déterminée d’un aliment est :
+- **(1)** Pour l’application de la présente partie, la portion indiquée d’un aliment est :
 	- **a)** établie en fonction de l’aliment tel qu’il est vendu;
-	- **b)** exprimée, selon le cas :
-		- **(i)** en grammes, dans l’un ou l’autre des cas suivants :
-			- **(A)** la quantité nette de l’aliment est mentionnée en poids ou en nombre sur l’étiquette,
-			- **(B)** l’aliment figure à la colonne 1 des articles 78, 149 ou 150 de l’annexe M,
-		- **(ii)** en millilitres, dans le cas où la quantité nette de l’aliment, autre qu’un aliment visé à la division (i)(B), est mentionnée en volume sur l’étiquette.
+	- **b)** dans l’un ou l’autre des cas ci-après, la quantité nette de l’aliment dans l’emballage lorsque :
+		- **(i)** cette quantité peut être raisonnablement consommée par une personne en une seule fois,
+		- **(ii)** l’emballage contient moins de 200 % de la quantité de référence de l’aliment;
+	- **c)** dans les autres cas, la quantité établie selon les critères énoncés à la colonne 3A du Tableau des quantités de référence pour cet aliment.
 
-- **(2)** Une portion déterminée est la quantité nette de l’aliment dans l’emballage, dans l’un ou l’autre des cas suivants :
-	- **a)** la quantité de l’aliment peut être raisonnablement consommée par une personne en une seule fois;
-	- **b)** la quantité de référence de l’aliment est inférieure à 100 g ou à 100 mL et l’emballage contient moins de 200 % de cette quantité;
-	- **c)** la quantité de référence de l’aliment est d’au moins 100 g ou 100 mL et l’emballage contient au plus 150 % de cette quantité.
-> DORS/88-559, art. 2; DORS/2003-11, art. 3.
+- **(2)** La portion indiquée d’un aliment est exprimée de la façon suivante :
+	- **a)** dans le cas d’un produit préemballé à portion individuelle auquel l’alinéa (1)b) s’applique, par emballage et selon les unités suivantes :
+		- **(i)** en grammes, lorsque la quantité nette de l’aliment est mentionnée en poids ou en nombre sur l’étiquette,
+		- **(ii)** en millilitres, lorsque la quantité nette de l’aliment est mentionnée en volume sur l’étiquette;
+	- **b)** dans le cas d’un produit préemballé à portions multiples auquel l’alinéa (1)c) s’applique, selon les unités ci-après indiquées à la colonne 3B du Tableau des quantités de référence et de la manière dont elles y sont présentées :
+		- **(i)** la mesure domestique applicable au produit,
+		- **(ii)** la mesure métrique applicable au produit.
+> DORS/88-559, art. 2; DORS/2003-11, art. 3; DORS/2016-305, art. 3.
 
 
 
@@ -779,37 +757,122 @@ Sont toutefois exclus :
 	- **f)** au bourbon et aux produits préemballés régis par les normes de composition énoncées au titre 2;
 	- **g)** aux produits préemballés régis par les normes de composition du titre 19.
 
-- **(3)** Les ingrédients d’un produit préemballé doivent figurer dans l’ordre décroissant de leurs proportions respectives dans le produit ou être indiqués avec mention du pourcentage de chacun par rapport au produit, l’ordre d’importance ou le pourcentage devant être celui des ingrédients avant qu’ils soient combinés pour former le produit préemballé.
+- **(3)** Malgré l’alinéa (1)b), les éléments ci-après n’ont pas à être indiqués sur l’étiquette d’un produit préemballé :
+	- **a)** les composés d’enduits de cire et leurs constituants utilisés comme ingrédients ou constituants des fruits ou légumes frais préemballés;
+	- **b)** les boyaux de saucisse utilisés comme ingrédients ou constituants des saucisses préemballées;
+	- **c)** l’hydrogène utilisé pour l’hydrogénation, comme ingrédient ou constituant des produits préemballés;
+	- **d)** les constituants des ingrédients d’un sandwich fait avec du pain.
 
-- **(4)** Nonobstant le paragraphe (3), les ingrédients ci-après peuvent figurer dans n’importe quel ordre s’ils sont indiqués immédiatement après les autres ingrédients :
+- **(4) à (10)** [Abrogés, DORS/2016-305, art. 4]
+> DORS/79-23, art. 5; DORS/88-559, art. 3; DORS/92-626, art. 7; DORS/93-145, art. 1; DORS/2003-11, art. 5; DORS/2011-28, art. 1; DORS/2016-305, art. 4.
+
+
+
+
+**B.01.008.1** 
+
+- **(1)** Les renseignements qui, aux termes des articles B.01.008.2 à B.01.010.4, figurent sur l’étiquette d’un produit préemballé sont indiqués en caractères :
+	- **a)** monochromes et équivalent visuellement à de l’imprimerie noire en aplat de 100 % sur un fond blanc ou de couleur de teinte neutre et uniforme d’au plus 5 %;
+	- **b)** normalisés, sans empattement, non décoratifs et inscrits de manière à ce qu’ils ne se touchent pas ni ne touchent à aucun élément de démarcation prévu au paragraphe B.01.008.2(2);
+	- **c)** de chasse normale ou étroite sans qu’elle soit réduite pour qu’ils prennent moins d’espace sur le plan horizontal, et, si un tableau de la valeur nutritive figure sur l’étiquette, les caractères sont d’une chasse égale à celle qui est exigée pour les caractères des éléments nutritifs figurant dans le tableau;
+	- **d)** ordinaires, sous réserve de l’alinéa B.01.008.2(1)b), du sous-alinéa B.01.010.3(1)a)(ii) et des alinéas B.01.010.3(1)c) et B.01.010.4(1)c) et d);
+	- **e)** d’une même hauteur, soit d’au moins 1,1 mm, avec un interligne identique d’au moins 2,5 mm.
+
+- **(2)** Malgré l’alinéa (1)a), la liste des ingrédients figurant sur l’étiquette des produits préemballés ci-après n’a pas à être sur un fond blanc ou de couleur de teinte neutre et uniforme d’au plus 5 % :
+	- **a)** tout produit préemballé qui est destiné uniquement à être utilisé comme ingrédient dans la fabrication d’autres produits préemballés destinés à être vendus au consommateur au niveau du commerce de détail ou comme ingrédient dans la préparation d’aliments par une entreprise commerciale ou industrielle ou une institution;
+	- **b)** tout produit préemballé à portions multiples prêt à servir destiné uniquement à être servi par une entreprise commerciale ou industrielle ou une institution.
+
+- **(3)** Malgré l’alinéa (1)e), si un tableau de la valeur nutritive figure sur l’étiquette d’un produit préemballé et que les éléments nutritifs qui y figurent sont présentés en caractères d’au moins 8 points, les renseignements qui figurent sur l’étiquette sont indiqués en caractères d’une même hauteur, soit d’au moins 1,4 mm, avec un interligne identique d’au moins 3,2 mm.
+
+- **(4)** Malgré l’alinéa (1)e), le titre utilisé pour identifier la liste des ingrédients, la mention des sources d’allergènes alimentaires ou de gluten et des sulfites ajoutés, au sens du paragraphe B.01.010.1(1), ou l’énoncé visé au paragraphe B.01.010.4(1) peut être en caractères d’une hauteur plus grande que celle des caractères utilisés pour les ingrédients dans la liste, les renseignements figurant dans la mention ou ceux figurant dans l’énoncé, selon le cas.
+
+- **(5)** Si plus d’un des titres visés au paragraphe (4) figure sur l’étiquette, les caractères de chacun de ces titres doivent être de la même hauteur.
+
+- **(6)** Pour l’application du présent article, la hauteur d’un caractère désigne la hauteur de la lettre minuscule « x ».
+> DORS/2016-305, art. 5.
+
+
+
+
+**B.01.008.2** 
+
+- **(1)** La liste des ingrédients est indiquée par un titre qui, à la fois :
+	- **a)** est formé de la mention :
+		- **(i)** « Ingrédients » ou « Ingrédients : », pour ce qui est de la version française de la liste,
+		- **(ii)** « *Ingredients* » ou « *Ingredients*: », pour ce qui est de la version anglaise de la liste;
+	- **b)** figure en caractères gras;
+	- **c)** figure sans qu’aucun texte imprimé ou écrit, ni aucun autre signe graphique ne soit intercalé entre le titre et le premier ingrédient mentionné à la liste.
+
+- **(2)** La liste des ingrédients est présentée de l’une des manières ci-après, ou des deux, de façon à ce qu’elle se démarque nettement sur l’étiquette :
+	- **a)** elle est encadrée par une bordure ou délimitée par une ou plusieurs lignes continues tracées immédiatement au-dessus, au-dessous ou aux extrémités de la liste, qui sont de la même couleur que celle des caractères utilisés pour indiquer les renseignements visés au paragraphe B.01.008.1(1);
+	- **b)** il y a un contraste entre la couleur de l’arrière-plan de la liste et celle de l’arrière-plan de l’espace qui lui est adjacent sur l’étiquette autre que l’espace où apparaissent la mention des sources d’allergènes alimentaires ou de gluten et des sulfites ajoutés, au sens du paragraphe B.01.010.1(1), l’énoncé visé au paragraphe B.01.010.4(1) et le tableau de la valeur nutritive.
+
+- **(3)** Les ingrédients figurent dans la liste des ingrédients :
+	- **a)** soit dans l’ordre décroissant de leurs proportions respectives dans le produit préemballé, soit avec mention du pourcentage de chacun dans le produit préemballé, l’ordre d’importance ou le pourcentage devant être celui des ingrédients avant qu’ils ne soient combinés pour former le produit préemballé;
+	- **b)** en lettres minuscules, sauf dans les cas ci-après où des lettres majuscules sont utilisées :
+		- **(i)** la première lettre de chacun des ingrédients ou, s’il s’agit d’un additif alimentaire indiqué — en tout ou en partie — par son acronyme, la totalité de l’acronyme,
+		- **(ii)** le descripteur alphabétique utilisé dans le nom usuel d’un additif alimentaire, d’une vitamine ou d’un microorganisme;
+	- **c)** séparés entre eux par une puce ou une virgule.
+
+- **(4)** Malgré l’alinéa (3)a), les ingrédients ci-après peuvent figurer dans n’importe quel ordre à la fin de la liste des ingrédients :
 	- **a)** épices, assaisonnements et fines herbes, sauf le sel;
-	- **b)** substances aromatisantes et substances aromatisantes artificielles;
+	- **b)** substances aromatisantes naturelles et substances aromatisantes artificielles;
 	- **c)** substances qui rehaussent le goût;
 	- **d)** additifs alimentaires, sauf les ingrédients de préparation d’additifs alimentaires ou les mélanges de substances devant être utilisés comme additifs alimentaires;
 	- **e)** vitamines;
 	- **f)** sels ou dérivés de vitamines;
-	- **g)** minéraux nutritifs; et
+	- **g)** minéraux nutritifs;
 	- **h)** sels de minéraux nutritifs.
 
-- **(5)** Les constituants doivent figurer
-	- **a)** immédiatement après l’ingrédient dont ils sont des constituants de manière à indiquer qu’ils en sont des constituants; cependant, dans le cas où, en application de l’alinéa B.01.010.1(8)a), une source d’allergène alimentaire ou de gluten doit figurer immédiatement à la suite de l’ingrédient, ils doivent plutôt figurer immédiatement après cette source; et
-	- **b)** dans l’ordre décroissant de leurs proportions respectives dans l’ingrédient.
+- **(5)** Les constituants d’un ingrédient figurent dans la liste des ingrédients :
+	- **a)** entre parenthèses, immédiatement après l’ingrédient sauf si une source d’allergène alimentaire ou de gluten est indiquée immédiatement après l’ingrédient, auquel cas les constituants de l’ingrédient figurent plutôt immédiatement après cette source;
+	- **b)** dans l’ordre décroissant de leurs proportions respectives dans l’ingrédient avant qu’ils ne soient combinés pour former l’ingrédient;
+	- **c)** en lettres minuscules, sauf dans les cas ci-après où des lettres majuscules sont utilisées :
+		- **(i)** s’il s’agit d’un additif alimentaire indiqué — en tout ou en partie — par son acronyme, la totalité de l’acronyme,
+		- **(ii)** le descripteur alphabétique utilisé dans le nom usuel d’un additif alimentaire, d’une vitamine ou d’un microorganisme;
+	- **d)** séparés entre eux par une virgule.
 
-- **(6)** Par dérogation à l’alinéa (1)b) et au paragraphe (5) et sous réserve de l’article B.01.009, dans les cas où le présent règlement exige l’indication d’un ou de plusieurs constituants d’un ingrédient dans la liste des ingrédients figurant sur l’étiquette d’un produit préemballé, le nom de cet ingrédient n’a pas à être inclus dans la liste si tous ses constituants y sont désignés par leur nom usuel avec les autres ingrédients du produit :
-	- **a)** dans l’ordre décroissant de leur proportion du produit, ou
-	- **b)** comme un pourcentage du produit,
-l’ordre ou le pourcentage, selon le cas, étant basé
-	- **c)** dans le cas des constituants, sur la quantité totale de chacun des constituants avant qu’ils soient combinés pour former les ingrédients du produit; et
-	- **d)** dans le cas des ingrédients, sur la quantité de chacun des ingrédients avant qu’ils soient combinés pour former le produit.
+- **(6)** Malgré l’alinéa B.01.008(1)b) et les alinéas (5)a) et b) et sous réserve de l’article B.01.009, dans les cas où le présent règlement exige l’indication d’un ou de plusieurs constituants d’un ingrédient dans la liste des ingrédients, le nom de cet ingrédient n’a pas à être inclus dans la liste si tous ses constituants y sont désignés par leur nom usuel et y figurent conformément au paragraphe (3) comme s’ils étaient des ingrédients.
 
-- **(7)** Par dérogation à l’alinéa (1)b), les composés d’enduits de cire et leurs constituants n’ont pas à être indiqués comme ingrédients ou constituants sur l’étiquette des fruits ou légumes frais préemballés.
+- **(7)** Dans le cas où une source d’allergène alimentaire ou de gluten figure à la liste des ingrédients, la source figure :
+	- **a)** immédiatement à la suite de l’ingrédient ou du constituant dont elle indique la source, conformément aux paragraphes B.01.010.1(8) et (10);
+	- **b)** en lettres minuscules uniquement;
+	- **c)** séparée par une virgule de toute autre source d’allergène alimentaire ou de gluten figurant pour un même ingrédient ou constituant.
 
-- **(8)** Par dérogation à l’alinéa (1)b), les boyaux de saucisse n’ont pas à être indiqués comme ingrédients ou constituants sur l’étiquette des saucisses préemballées.
+- **(8)** Lorsque les versions française et anglaise de la liste des ingrédients figurent sur l’étiquette, elles sont présentées sur un espace continu de la surface exposée disponible de l’étiquette mais n’ont pas à être présentées sur le même.
 
-- **(9)** Par dérogation à l’alinéa (1)b), l’hydrogène utilisé pour l’hydrogénation n’a pas à être indiqué comme ingrédient ou constituant sur l’étiquette des produits préemballés.
+- **(9)** Lorsque les versions anglaise et française de la liste des ingrédients sont présentées sur un même espace continu de l’étiquette, celle des versions qui suit l’autre ne doit pas débuter sur la même ligne que celle où se termine cette autre version, sauf s’il s’agit d’un produit préemballé dont la surface exposée disponible est de moins de 100 cm<sup>2</sup>.
+> DORS/2016-305, art. 5.
 
-- **(10)** Par dérogation à l’alinéa (1)b), les constituants des ingrédients d’un sandwich fait avec du pain n’ont pas à être indiqués comme ingrédients sur l’étiquette du sandwich.
-> DORS/79-23, art. 5; DORS/88-559, art. 3; DORS/92-626, art. 7; DORS/93-145, art. 1; DORS/2003-11, art. 5; DORS/2011-28, art. 1.
+
+
+
+**B.01.008.3** 
+
+- **(1)** Lorsqu’un produit préemballé contient un ou plusieurs ingrédients à base de sucres, ces ingrédients doivent, malgré l’ordre de présentation prévu à l’alinéa B.01.008.2(3)a), être regroupés dans la liste des ingrédients, entre parenthèses, immédiatement après la mention :
+	- **a)** « Sucres » pour ce qui est de la version française de la liste;
+	- **b)** « *Sugars* » pour ce qui est de la version anglaise de la liste.
+
+- **(2)** La mention « Sucres » visée au paragraphe (1) figure dans la liste des ingrédients :
+	- **a)** soit dans l’ordre décroissant de la proportion de tous les ingrédients à base de sucres dans le produit préemballé, soit avec mention du pourcentage de tous ces ingrédients dans le produit préemballé, l’ordre d’importance ou le pourcentage devant être celui de tous les ingrédients à base de sucres avant qu’ils ne soient combinés pour former le produit préemballé;
+	- **b)** séparée des autres ingrédients par une puce ou une virgule.
+
+- **(3)** Chaque ingrédient à base de sucres indiqué immédiatement après la mention « Sucres » figure :
+	- **a)** malgré l’alinéa B.01.008.2(3)b), uniquement en lettres minuscules;
+	- **b)** dans le cas où plus d’un de ces ingrédients sont indiqués :
+		- **(i)** dans l’ordre décroissant de sa proportion dans le produit préemballé, conformément au paragraphe B.01.008.2(3),
+		- **(ii)** séparé par une virgule.
+
+- **(4)** Les paragraphes (1) à (3) ne s’appliquent pas aux produits préemballés suivants :
+	- **a)** les agents édulcorants;
+	- **b)** les jus de fruit ou de légume ou les boissons de légumes qui ne contiennent aucun agent édulcorant, ou les mélanges de ces jus ou boissons, y compris :
+		- **(i)** ceux auxquels de la purée de fruit ou de légume, ou de fruits et de légumes, a été ajoutée,
+		- **(ii)** ceux reconstitués,
+		- **(iii)** les concentrés de ces jus ou boissons à diluer et à consommer sous forme de jus ou de boisson;
+	- **c)** les purées de fruit ou de légume qui ne contiennent aucun agent édulcorant y compris les mélanges de ces purées;
+	- **d)** les produits préemballés qui contiennent seulement un ingrédient à base de sucres dont le nom usuel contient le mot « sucre »;
+	- **e)** les succédanés de lait humain et les préparations pour régime liquide.
+> DORS/2016-305, art. 5.
 
 
 
@@ -1185,7 +1248,7 @@ l’ordre ou le pourcentage, selon le cas, étant basé
 </tr>
 </table>
 
-	- **b)** les ingrédients ou constituants d’un aliment qui figurent à la colonne I du tableau du présent alinéa peuvent être désignés collectivement, dans la liste des ingrédients, par le nom usuel indiqué à la colonne II, sauf dans les cas où l’un d’eux est désigné séparément dans la liste par son nom usuel :
+	- **b)** les ingrédients ou constituants d’un aliment qui figurent à la colonne I du tableau du présent alinéa peuvent être désignés collectivement, dans la liste des ingrédients, par le nom usuel indiqué à la colonne II, sauf dans les cas où l’un d’eux est désigné séparément dans la liste par son nom usuel :
 #### TABLEAU
 <table>
 <tr>
@@ -1210,8 +1273,7 @@ l’ordre ou le pourcentage, selon le cas, étant basé
 </tr>
 <tr>
 <td>3</td>
-<td>un ou plusieurs colorants compris dans le tableau III du titre 16, sauf le rocou lorsqu’il est utilisé conformément à l’alinéa B.14.031i) ou à la division B.14.032d)(xvi)(A) et sauf le rouge allura et le jaune soleil FCF lorsqu’ils sont utilisés conformément aux divisions B.14.032d)(xvi)(B) et (C) respectivement</td>
-<td>colorant</td>
+<td>[Abrogé, DORS/2016-305, art. 6]</td>
 </tr>
 <tr>
 <td>4</td>
@@ -1326,21 +1388,21 @@ l’ordre ou le pourcentage, selon le cas, étant basé
 </table>
 
 
-- **(4)** Nonobstant le paragraphe (2) et le paragraphe B.01.008(5), lorsqu’un aliment contient des ingrédients de la même catégorie, ceux-ci peuvent être indiqués par un nom de catégorie si
+- **(4)** Malgré le paragraphe (2) et le paragraphe B.01.008.2(5), lorsqu’un aliment contient des ingrédients de la même catégorie, ceux-ci peuvent être indiqués par un nom de catégorie si :
 	- **a)** ils sont formés de plus d’un constituant et ne sont pas énumérés au tableau du paragraphe B.01.009(1); et
 	- **b)** leurs constituants sont indiqués
 		- **(i)** immédiatement après le nom de catégorie des ingrédients dont ils sont des constituants de manière à indiquer qu’ils sont des constituants de ces ingrédients, et
 		- **(ii)** par ordre décroissant de leur proportion collective de ces ingrédients.
-> DORS/79-23, art. 7 et 8(F); DORS/79-529, art. 3; DORS/80-632, art. 1; DORS/84-300, art. 4(A) et 5(F); DORS/91-124, art. 2; DORS/92-626, art. 9; DORS/92-725, art. 1; DORS/93-243, art. 2(F); DORS/93-465, art. 2; DORS/95-548, art. 5(F); DORS/97-516, art. 1; DORS/98-458, art. 1 et 7(F) DORS/2005-98, art. 7; DORS/2007-302, art. 4(F); DORS/2011-28, art. 3.
+> DORS/79-23, art. 7 et 8(F); DORS/79-529, art. 3; DORS/80-632, art. 1; DORS/84-300, art. 4(A) et 5(F); DORS/91-124, art. 2; DORS/92-626, art. 9; DORS/92-725, art. 1; DORS/93-243, art. 2(F); DORS/93-465, art. 2; DORS/95-548, art. 5(F); DORS/97-516, art. 1; DORS/98-458, art. 1 et 7(F) DORS/2005-98, art. 7; DORS/2007-302, art. 4(F); DORS/2011-28, art. 3; DORS/2016-305, art. 6.
 
 
 
 
 **B.01.010.1** 
 
-- **(1)** Les définitions qui suivent s’appliquent au présent article et à l’article B.01.010.3.
+- **(1)** Les définitions ci-après s’appliquent au présent article et aux articles B.01.010.2 à B.01.010.4.
 
-***allergène alimentaire*** Toute protéine provenant d’un des aliments ci-après, ou toute protéine modifiée –– y compris toute fraction protéique — qui est dérivée d’un tel aliment : 
+***allergène alimentaire*** Toute protéine provenant d’un des aliments ci-après, ou toute protéine modifiée –– y compris toute fraction protéique — qui est dérivée d’un tel aliment :
 - **a)** amandes, noix du Brésil, noix de cajou, noisettes, noix de macadamia, pacanes, pignons, pistaches ou noix;
 - **b)** arachides;
 - **c)** graines de sésame;
@@ -1351,7 +1413,7 @@ l’ordre ou le pourcentage, selon le cas, étant basé
 - **h)** crustacés;
 - **i)** mollusques;
 - **j)** poissons;
-- **k)** graines de moutarde. (*food allergen*)
+- **k)** graines de moutarde. (*food allergen*)
 
 ***gluten***
 - **a)** Toute protéine de gluten provenant des grains d’une des céréales ci-après ou des grains d’une lignée hybride issue d’au moins une de ces céréales :
@@ -1360,17 +1422,19 @@ l’ordre ou le pourcentage, selon le cas, étant basé
 	- **(iii)** seigle,
 	- **(iv)** triticale,
 	- **(v)** blé;
-- **b)** toute protéine de gluten modifiée — y compris toute fraction protéique de gluten — qui est dérivée des grains d’une des céréales mentionnées à l’alinéa a) ou des grains d’une lignée hybride qui est visée à cet alinéa. (*gluten*)
+- **b)** toute protéine de gluten modifiée — y compris toute fraction protéique de gluten — qui est dérivée des grains d’une des céréales mentionnées à l’alinéa a) ou des grains d’une lignée hybride qui est visée à cet alinéa. (*gluten*)
+
+***mention des sources d’allergènes alimentaires ou de gluten et des sulfites ajoutés*** Toute mention figurant sur l’étiquette d’un produit préemballé qui indique les sources d’allergènes alimentaires ou de gluten présentes dans le produit et les sulfites qui y sont ajoutés et présents dans une quantité totale égale ou supérieure à 10 p.p.m. (*food allergen source, gluten source and added sulphites statement*)
 
 - **(2)** Dans le cas où un allergène alimentaire ou du gluten est présent dans un produit préemballé, la source de l’allergène alimentaire ou de gluten, selon le cas, figure sur l’étiquette du produit :
 	- **a)** soit dans la liste des ingrédients;
-	- **b)** soit sous la mention « Contient », auquel cas les exigences du paragraphe B.01.010.3(1) doivent être respectées.
+	- **b)** soit sous la mention des sources d’allergènes alimentaires ou de gluten et des sulfites ajoutés.
 
 - **(3)** Le paragraphe (2) ne s’applique pas à l’allergène alimentaire ou au gluten présent dans un produit préemballé par suite de contamination croisée.
 
-- **(4)** Le paragraphe (2) ne s’applique pas à l’allergène alimentaire ou au gluten présent dans un produit préemballé visé à l’un des alinéas B.01.008(2)a) à e), sauf si l’étiquette d’un tel produit porte une liste des ingrédients.
+- **(4)** Le paragraphe (2) ne s’applique pas à l’allergène alimentaire ou au gluten présent dans un produit préemballé visé à l’un des alinéas B.01.008(2)a) à e), sauf si l’étiquette d’un tel produit porte une liste des ingrédients.
 
-- **(5)** Le paragraphe (2) ne s’applique pas à l’allergène alimentaire ou au gluten présent dans un produit préemballé pour lequel une norme a été prescrite selon les articles B.02.130 ou B.02.131, sauf si l’étiquette d’un tel produit porte une liste des ingrédients.
+- **(5)** Le paragraphe (2) ne s’applique pas à l’allergène alimentaire ou au gluten présent dans un produit préemballé pour lequel une norme a été prescrite selon les articles B.02.130 ou B.02.131, sauf si l’étiquette d’un tel produit porte une liste des ingrédients.
 
 - **(6)** La source de l’allergène alimentaire devant figurer en application du paragraphe (2) est indiquée :
 	- **a)** s’agissant d’un allergène alimentaire provenant d’un aliment mentionné à l’un des alinéas a), b) et e) de la définition de ***allergène alimentaire***, au paragraphe (1), ou dérivé d’un tel aliment, par le nom de l’aliment tel qu’il est indiqué à l’alinéa applicable, écrit au singulier ou au pluriel;
@@ -1381,8 +1445,8 @@ l’ordre ou le pourcentage, selon le cas, étant basé
 	- **f)** s’agissant d’un allergène alimentaire provenant de l’aliment mentionné à l’alinéa k) de la même définition ou dérivé d’un tel aliment, par le nom « moutarde », « graine de moutarde » ou « graines de moutarde ».
 
 - **(7)** La source de gluten devant figurer en application du paragraphe (2) est indiquée :
-	- **a)** s’agissant du gluten provenant de grains d’une céréale mentionnée à l’un des sous-alinéas *a*)(i) à (v) de la définition de « gluten », au paragraphe (1), ou dérivé de tels grains, par le nom de la céréale tel qu’il est indiqué au sous-alinéa applicable;
-	- **b)** s’agissant du gluten provenant de grains d’une lignée hybride issue d’une ou de plusieurs céréales mentionnées aux sous-alinéas *a*)(i) à (v) de la même définition, ou dérivé de tels grains, par le nom de la ou des céréales tel qu’il est indiqué aux sous-alinéas applicables.
+	- **a)** s’agissant du gluten provenant de grains d’une céréale mentionnée à l’un des sous-alinéas a)(i) à (v) de la définition de gluten, au paragraphe (1), ou dérivé de tels grains, par le nom de la céréale tel qu’il est indiqué au sous-alinéa applicable;
+	- **b)** s’agissant du gluten provenant de grains d’une lignée hybride issue d’une ou de plusieurs céréales mentionnées aux sous-alinéas a)(i) à (v) de la même définition, ou dérivé de tels grains, par le nom de la ou des céréales tel qu’il est indiqué aux sous-alinéas applicables.
 
 - **(8)** Pour l’application de l’alinéa (2)a), la source de l’allergène alimentaire ou de gluten figure dans la liste des ingrédients entre parenthèses :
 	- **a)** immédiatement à la suite de l’ingrédient qui figure dans la liste des ingrédients si l’allergène alimentaire ou le gluten :
@@ -1391,74 +1455,102 @@ l’ordre ou le pourcentage, selon le cas, étant basé
 		- **(iii)** est un constituant de cet ingrédient, ou est présent dans un tel constituant, et le constituant ne figure pas dans la liste des ingrédients;
 	- **b)** immédiatement à la suite du constituant qui figure dans la liste des ingrédients si l’allergène alimentaire ou le gluten est ce constituant ou s’il est présent dans celui-ci.
 
-- **(9)** Malgré le paragraphe (2), la source de l’allergène alimentaire ou de gluten figure sur l’étiquette du produit sous la mention « Contient » si l’allergène alimentaire ou le gluten est, selon le cas :
+- **(9)** Malgré le paragraphe (2), la source de l’allergène alimentaire ou de gluten figure sur l’étiquette du produit sous la mention des sources d’allergènes alimentaires ou de gluten et des sulfites ajoutés si l’allergène alimentaire ou le gluten est, selon le cas :
 	- **a)** un ingrédient qui ne figure pas dans la liste des ingrédients, ou est présent dans un tel ingrédient mais n’en n’est pas un constituant ni n’est présent dans un de ses constituants;
 	- **b)** un constituant ou est présent dans un constituant et ni le constituant ni l’ingrédient dans lequel il est présent ne figurent dans la liste des ingrédients.
 
-- **(10)** Malgré le paragraphe (8), la source de l’allergène alimentaire ou du gluten n’a pas à figurer entre parenthèses immédiatement à la suite de l’ingrédient ou du constituant, selon le cas, si elle figure à l’un ou l’autre des endroits suivants :
+- **(10)** Malgré le paragraphe (8), la source de l’allergène alimentaire ou du gluten n’a pas à figurer entre parenthèses immédiatement à la suite de l’ingrédient ou du constituant, selon le cas, si elle figure à l’un ou l’autre des endroits suivants :
 	- **a)** dans la liste des ingrédients :
 		- **(i)** soit comme partie du nom usuel de l’ingrédient ou du constituant,
 		- **(ii)** soit entre parenthèses, immédiatement à la suite d’un autre ingrédient ou constituant, conformément au paragraphe (8);
-	- **b)** sous la mention « Contient ».
+	- **b)** sous la mention des sources d’allergènes alimentaires ou de gluten et des sulfites ajoutés.
 
 - **(11)** Il est entendu que le paragraphe (8) est sans effet sur la façon dont les ingrédients ou constituants peuvent être indiqués dans la liste des ingrédients en vertu de l’alinéa B.01.010(3)b).
-> DORS/2011-28, art. 4.
+> DORS/2011-28, art. 4; DORS/2016-305, art. 7 et 72.
 
 
 
 
 **B.01.010.2** 
 
-- **(1)** Au présent article et à l’article B.01.010.3, ***sulfites*** s’entend d’un ou de plusieurs additifs alimentaires qui figurent exclusivement dans la colonne I de l’article 21 du tableau de l’alinéa B.01.010(3)b), et qui sont présents dans un produit préemballé.
+- **(1)** Au présent article et aux articles B.01.010.3 et B.01.010.4, ***sulfites*** s’entend d’un ou de plusieurs additifs alimentaires qui figurent exclusivement dans la colonne I de l’article 21 du tableau de l’alinéa B.01.010(3)b), et qui sont présents dans un produit préemballé.
 
-- **(2)** Il est entendu que la définition de « sulfites » au paragraphe (1) ne vise que les sulfites dont la présence dans le produit préemballé est le résultat de leur ajout à celui-ci.
+- **(2)** Il est entendu que la définition de ***sulfites*** au paragraphe (1) ne vise que les sulfites dont la présence dans le produit préemballé est le résultat de leur ajout à celui-ci.
 
 - **(3)** Si des sulfites sont présents dans un produit préemballé en une quantité totale égale ou supérieure à 10 parties par million et qu’aucun n’a à être indiqué dans la liste des ingrédients en application des articles B.01.008 ou B.01.009, ils figurent sur l’étiquette du produit :
 	- **a)** soit dans la liste des ingrédients;
-	- **b)** soit sous la mention « Contient », auquel cas les exigences du paragraphe B.01.010.3(1) doivent être respectées.
+	- **b)** soit sous la mention des sources d’allergènes alimentaires ou de gluten et des sulfites ajoutés, auquel cas les exigences du paragraphe B.01.010.3(1) doivent être respectées.
 
 - **(4)** Le paragraphe (3) ne s’applique pas aux sulfites présents dans les produits préemballés visés aux alinéas B.01.008(2)a) à e), sauf si l’étiquette de ces produits porte une liste des ingrédients.
 
-- **(5)** Le paragraphe (3) ne s’applique pas aux sulfites présents dans un produit préemballé pour lequel une norme a été prescrite selon les articles B.02.130 ou B.02.131, sauf si l’étiquette de ce produit porte une liste des ingrédients.
+- **(5)** Le paragraphe (3) ne s’applique pas aux sulfites présents dans un produit préemballé pour lequel une norme a été prescrite selon les articles B.02.130 ou B.02.131, sauf si l’étiquette de ce produit porte une liste des ingrédients.
 
 - **(6)** Les sulfites devant figurer sur l’étiquette du produit en application du paragraphe (3) sont indiqués :
 	- **a)** s’ils figurent dans la liste des ingrédients :
-		- **(i)** soit par l’un des noms usuels « agents de sulfitage » ou « sulfites »,
-		- **(ii)** soit, individuellement, par celui des noms mentionnés à la colonne I de l’article 21 du tableau de l’alinéa B.01.010(3)b) qui s’applique, sauf lorsqu’il s’agit d’un des noms « dithionite de sodium », « anhydride sulfureux » ou « acide sulfureux » auquel cas ce nom doit être suivi, entre parenthèses, par l’un des noms usuels « agents de sulfitage » ou « sulfites »;
-	- **b)** s’ils figurent sous la mention « Contient », par l’un des noms usuels « agents de sulfitage » ou « sulfites ».
+		- **(i)** soit par l’un des noms usuels « agents de sulfitage » ou « sulfites »,
+		- **(ii)** soit, individuellement, par celui des noms mentionnés à la colonne I de l’article 21 du tableau de l’alinéa B.01.010(3)b) qui s’applique, sauf lorsqu’il s’agit d’un des noms « dithionite de sodium », « anhydride sulfureux » ou « acide sulfureux » auquel cas ce nom doit être suivi, entre parenthèses, par l’un des noms usuels « agents de sulfitage » ou « sulfites »;
+	- **b)** s’ils figurent sous la mention des sources d’allergènes alimentaires ou de gluten et des sulfites ajoutés, par l’un des noms usuels « agents de sulfitage » ou « sulfites ».
 
 - **(7)** Les sulfites figurant dans la liste des ingrédients en application de l’alinéa (6)a) sont indiqués :
-	- **a)** s’ils sont des constituants d’un ingrédient figurant dans la liste des ingrédients, soit entre parenthèses immédiatement à la suite de l’ingrédient, soit à la fin de la liste des ingrédients auquel cas ils peuvent figurer dans n’importe quel ordre avec les autres ingrédients indiqués à la fin de la liste aux termes du paragraphe B.01.008(4);
-	- **b)** dans tous les autres cas, à la fin de la liste des ingrédients où ils peuvent figurer dans n’importe quel ordre avec les autres ingrédients indiqués à la fin de la liste des ingrédients aux termes du paragraphe B.01.008(4).
+	- **a)** s’ils sont des constituants d’un ingrédient figurant dans la liste des ingrédients, soit entre parenthèses immédiatement à la suite de l’ingrédient, soit à la fin de la liste des ingrédients où ils peuvent figurer dans n’importe quel ordre avec les autres ingrédients indiqués à la fin de la liste des ingrédients aux termes du paragraphe B.01.008.2(4);
+	- **b)** dans les autres cas, à la fin de la liste des ingrédients où ils peuvent figurer dans n’importe quel ordre avec les autres ingrédients indiqués à la fin de la liste des ingrédients aux termes du paragraphe B.01.008.2(4).
 
-- **(8)** Si des sulfites sont présents dans un produit préemballé en une quantité totale égale ou supérieure à 10 parties par million et qu’un ou plusieurs d’entre eux, d’une part, doivent figurer dans la liste des ingrédients en application des articles B.01.008 ou B.01.009 et, d’autre part, y sont désignés individuellement par celui des noms « dithionite de sodium », « anhydride sulfureux » ou « acide sulfureux » qui s’applique, ce nom doit être suivi, entre parenthèses, de l’un des noms usuels « agents de sulfitage » ou « sulfites ».
+- **(8)** Si des sulfites sont présents dans un produit préemballé en une quantité totale égale ou supérieure à 10 parties par million et qu’un ou plusieurs d’entre eux, d’une part, doivent figurer dans la liste des ingrédients en application des articles B.01.008 ou B.01.009 et, d’autre part, y sont désignés individuellement par celui des noms « dithionite de sodium », « anhydride sulfureux » ou « acide sulfureux » qui s’applique, ce nom doit être suivi, entre parenthèses, de l’un des noms usuels « agents de sulfitage » ou « sulfites ».
 
-- **(9)** Si la quantité totale de sulfites présents dans le produit préemballé est égale ou supérieure à 10 parties par million, les sulfites qui doivent figurer dans la liste des ingrédients en application des articles B.01.008 ou B.01.009 peuvent en plus figurer sur l’étiquette du produit sous la mention « Contient », auquel cas les exigences du paragraphe B.01.010.3(1) doivent être respectées.
+- **(9)** Si la quantité totale de sulfites présents dans le produit préemballé est égale ou supérieure à 10 parties par million, les sulfites qui doivent figurer dans la liste des ingrédients en application des articles B.01.008 ou B.01.009 peuvent en plus figurer sur l’étiquette du produit sous la mention des sources d’allergènes alimentaires ou de gluten et des sulfites ajoutés, auquel cas les exigences du paragraphe B.01.010.3(1) doivent être respectées.
 
-- **(10)** Malgré le sous-alinéa (6)a)(ii) et le paragraphe (8), si des sulfites sont désignés individuellement dans la liste des ingrédients par l’un des noms « dithionite de sodium », « anhydride sulfureux » ou « acide sulfureux », ce nom n’a pas à être suivi, entre parenthèses, de l’un des noms usuels « agents de sulfitage » ou « sulfites » si, selon le cas :
+- **(10)** Malgré le sous-alinéa (6)a)(ii) et le paragraphe (8), si des sulfites sont désignés individuellement dans la liste des ingrédients par l’un des noms « dithionite de sodium », « anhydride sulfureux » ou « acide sulfureux », ce nom n’a pas à être suivi, entre parenthèses, de l’un des noms usuels « agents de sulfitage » ou « sulfites » si, selon le cas :
 	- **a)** dans la liste des ingrédients :
-		- **(i)** la mention « sulfite » figure dans le nom usuel d’un autre sulfite,
-		- **(ii)** l’un des noms usuels « agents de sulfitage » ou « sulfites » figure entre parenthèses à la suite d’un autre sulfite;
-	- **b)** sous la mention « Contient », l’un des noms usuels « agents de sulfitage » ou « sulfites » figure sur l’étiquette du produit.
-> DORS/2011-28, art. 4.
+		- **(i)** la mention « sulfite » figure dans le nom usuel d’un autre sulfite,
+		- **(ii)** l’un des noms usuels « agents de sulfitage » ou « sulfites » figure entre parenthèses à la suite d’un autre sulfite;
+	- **b)** sous la mention des sources d’allergènes alimentaires ou de gluten et des sulfites ajoutés, l’un des noms usuels « agents de sulfitage » ou « sulfites » figure sur l’étiquette du produit.
+> DORS/2011-28, art. 4; DORS/2016-305, art. 8 et 72.
 
 
 
 
 **B.01.010.3** 
 
-- **(1)** Si la mention « Contient » figure sur l’étiquette d’un produit préemballé en application de l’un ou de plusieurs des paragraphes B.01.010.1(2), B.01.010.1(9), B.01.010.2(3) ou B.01.010.2(9), les exigences ci-après doivent être respectées :
-	- **a)** la mention suit la liste des ingrédients du produit, le cas échéant, sans qu’aucun texte imprimé ou écrit ni aucun signe graphique ne soit intercalé;
-	- **b)** tous les renseignements ci-après figurent sous cette mention, que l’un ou plusieurs d’entre eux figurent ou non dans la liste des ingrédients du produit :
+- **(1)** La mention des sources d’allergènes alimentaires ou de gluten et des sulfites ajoutés qui figure sur l’étiquette d’un produit préemballé doit satisfaire aux exigences suivantes :
+	- **a)** elle est indiquée par un titre qui, à la fois :
+		- **(i)** est formé de la mention :
+			- **(A)** « Contient » ou « Contient : », pour ce qui est de la version française de la mention,
+			- **(B)** « *Contains* » ou « *Contains*: », pour ce qui est de la version anglaise de la mention,
+		- **(ii)** figure en caractères gras,
+		- **(iii)** figure sans qu’aucun texte imprimé ou écrit ni aucun signe graphique ne soit intercalé entre le titre et le premier des renseignements figurant dans la mention;
+	- **a.1)** elle suit, pour chaque version linguistique, la liste des ingrédients qui figure dans la même langue, sans qu’aucun texte imprimé ou écrit ni aucun signe graphique ne soit intercalé;
+	- **a.2)** elle est présentée sur le même espace continu que la liste des ingrédients :
+		- **(i)** sur un fond de même couleur que celui de la liste,
+		- **(ii)** si la liste est délimitée par un encadré ou des lignes conformément à l’alinéa B.01.008.2(2)a), à l’intérieur de l’encadré ou des lignes;
+	- **b)** elle inclut tous les renseignements ci-après, que l’un ou plusieurs d’entre eux figurent ou non dans la liste des ingrédients du produit :
 		- **(i)** la source de chacun des allergènes alimentaires présents dans le produit,
 		- **(ii)** chacune des sources de gluten présent dans le produit,
-		- **(iii)** l’un des noms usuels « agents de sulfitage » ou « sulfites », si la quantité totale de sulfites présents dans le produit est égale ou supérieure à 10 parties par million.
+		- **(iii)** l’un des noms usuels « agents de sulfitage » ou « sulfites », si la quantité totale de sulfites présents dans le produit est égale ou supérieure à 10 parties par million;
+	- **c)** elle indique les renseignements en caractères ordinaires ou gras, en lettres minuscules, sauf pour la première lettre de chacun des renseignements qui est majuscule, chacun des renseignements étant séparé des autres par une puce ou une virgule.
 
 - **(2)** Malgré l’alinéa (1)b), les renseignements ci-après n’ont à figurer qu’une seule fois sous la mention applicable :
 	- **a)** une même source d’allergène alimentaire;
 	- **b)** une même source de gluten;
 	- **c)** l’un des noms usuels « agents de sulfitage » ou « sulfites ».
-> DORS/2011-28, art. 4.
+
+- **(3)** Lorsque les versions anglaise et française de la mention sont présentées sur un même espace continu de l’étiquette, celle des versions qui suit l’autre ne doit pas débuter sur la même ligne que celle où se termine cette autre version, sauf s’il s’agit d’un produit préemballé dont la surface exposée disponible est de moins de 100 cm<sup>2</sup>.
+> DORS/2011-28, art. 4; DORS/2016-305, art. 9.
+
+
+
+
+**B.01.010.4** 
+
+- **(1)** Si l’étiquette du produit préemballé porte un énoncé visant à signaler au consommateur la présence possible, dans le produit, d’une source d’allergène alimentaire ou de gluten en raison d’un risque de contamination croisée, l’énoncé doit satisfaire aux exigences suivantes :
+	- **a)** il figure immédiatement après la mention des sources d’allergènes alimentaires ou de gluten et des sulfites ajoutés, ou en l’absence d’une telle mention, immédiatement après la liste des ingrédients et est présenté sur le même espace continu que la mention, le cas échéant, et la liste :
+		- **(i)** sur un fond de même couleur que celui de la liste,
+		- **(ii)** si la liste et, le cas échéant, la mention sont délimitées par un encadré ou des lignes continues conformément aux alinéas B.01.008.2(2)a) ou B.01.010.3(1)a.2), à l’intérieur de l’encadré ou des lignes;
+	- **b)** il figure sans qu’aucun texte imprimé ou écrit ni aucun signe graphique ne soit intercalé entre l’énoncé et, selon le cas, la liste des ingrédients ou la mention qui précède immédiatement l’énoncé, à l’exception d’une ligne continue pouvant apparaître avant l’énoncé lorsqu’il débute sur une ligne distincte de celle où se termine, selon le cas, la liste des ingrédients ou la mention qui précède immédiatement l’énoncé;
+	- **c)** il figure en caractères gras s’il débute sur la même ligne que celle où se termine, selon le cas, la liste des ingrédients ou la mention qui précède immédiatement l’énoncé et qu’il n’est pas indiqué par un titre;
+	- **d)** s’il débute sur la même ligne que celle où se termine, selon le cas, la liste des ingrédients ou la mention qui précède immédiatement l’énoncé et qu’il est indiqué par un titre, ce titre figure en caractères gras.
+
+- **(2)** Pour l’application du paragraphe (1), les sources d’un allergène alimentaire ou de gluten sont indiquées conformément aux paragraphes B.01.010.1(6) et (7) respectivement.
+> DORS/2016-305, art. 10.
 
 
 
@@ -1483,44 +1575,44 @@ la liste des ingrédients, pour la période de 12 mois à partir du moment où l
 
 - **(1)** Dans le présent article,
 
-***aliment spécial*** désigne un aliment qui est
+***aliment spécial*** désigne un aliment qui est
 - **a)** un aliment ayant un caractère religieux particulier et utilisé pour les cérémonies religieuses, ou
 - **b)** un aliment importé
 	- **(i)** dont l’usage n’est pas largement répandu chez la population du Canada en général, et
-	- **(ii)** dont il n’existe aucun succédané facilement accessible, qui soit fabriqué, transformé, produit ou emballé au Canada et qui soit généralement reconnu comme un succédané valable; (*specialty food*)
+	- **(ii)** dont il n’existe aucun succédané facilement accessible, qui soit fabriqué, transformé, produit ou emballé au Canada et qui soit généralement reconnu comme un succédané valable; (*specialty food*)
 
-***collectivité locale*** désigne une cité, un territoire d’un gouvernement métropolitain, une ville, un village, une municipalité ou tout autre territoire d’un gouvernement local mais ne comprend pas une collectivité locale située dans un district bilingue établi sous le régime de la [Loi sur les langues officielles](/fr/Lois/Lois%20du%20Canada/1985/ch.%2031%20(4e%20suppl.).md); (*local government unit*)
+***collectivité locale*** désigne une cité, un territoire d’un gouvernement métropolitain, une ville, un village, une municipalité ou tout autre territoire d’un gouvernement local mais ne comprend pas une collectivité locale située dans un district bilingue établi sous le régime de la [Loi sur les langues officielles](/fr/Lois/Lois%20du%20Canada/1985/ch.%2031%20(4e%20suppl.).md); (*local government unit*)
 
-***langue maternelle*** désigne la première langue qu’ont apprise dans leur enfance des personnes vivant dans une région du Canada et qu’elles comprennent encore, tel qu’il a été établi par le dernier recensement décennal qui a précédé la date à laquelle l’aliment visé au paragraphe (3) est vendu au consommateur; (*mother tongue*)
+***langue maternelle*** désigne la première langue qu’ont apprise dans leur enfance des personnes vivant dans une région du Canada et qu’elles comprennent encore, tel qu’il a été établi par le dernier recensement décennal qui a précédé la date à laquelle l’aliment visé au paragraphe (3) est vendu au consommateur; (*mother tongue*)
 
-***langues officielles*** désigne la langue française et la langue anglaise; (*official languages*)
+***langues officielles*** désigne la langue française et la langue anglaise; (*official languages*)
 
-***produit alimentaire d’essai*** désigne un aliment qui, avant la date de l’avis d’intention concernant cet aliment et dont il est question au paragraphe (5), n’était pas vendu au Canada et qui diffère considérablement de tout autre aliment vendu au Canada par sa composition, sa fonction, son état ou la forme de son emballage, et comprend un aliment visé à l’article B.01.054; (*test market food*)
+***produit alimentaire d’essai*** désigne un aliment qui, avant la date de l’avis d’intention concernant cet aliment et dont il est question au paragraphe (5), n’était pas vendu au Canada et qui diffère considérablement de tout autre aliment vendu au Canada par sa composition, sa fonction, son état ou la forme de son emballage, et comprend un aliment visé à l’article B.01.054; (*test market food*)
 
-***produit alimentaire local*** désigne un aliment qui est fabriqué, transformé, produit ou emballé dans une collectivité locale et vendu seulement
+***produit alimentaire local*** désigne un aliment qui est fabriqué, transformé, produit ou emballé dans une collectivité locale et vendu seulement
 - **a)** dans la collectivité locale où il est fabriqué, transformé, produit ou emballé,
 - **b)** dans une ou plusieurs collectivités locales situées dans le voisinage immédiat[ement] de la collectivité où il est fabriqué, transformé, produit ou emballé, ou
-- **c)** dans la collectivité locale où il est fabriqué, transformé, produit ou emballé et dans une ou plusieurs collectivités locales situées dans le voisinage immédiat de ladite collectivité. (*local food*)
+- **c)** dans la collectivité locale où il est fabriqué, transformé, produit ou emballé et dans une ou plusieurs collectivités locales situées dans le voisinage immédiat de ladite collectivité. (*local food*)
 
-- **(2)** Sous réserve des paragraphes (9), (10) et (11), tous les renseignements devant être indiqués sur l’étiquette d’un aliment en vertu du présent règlement doivent l’être dans les deux langues officielles.
+- **(2)** Sous réserve des paragraphes (9), (10) et (11), tous les renseignements devant être indiqués sur l’étiquette d’un aliment en vertu du présent règlement doivent l’être dans les deux langues officielles.
 
-- **(3)** Sous réserve des paragraphes (4) à (6), un produit alimentaire local ou un produit alimentaire d’essai est exempté de l’application des dispositions du paragraphe (2)
+- **(3)** Sous réserve des paragraphes (4) à (6), un produit alimentaire local ou un produit alimentaire d’essai est exempté de l’application des dispositions du paragraphe (2)
 	- **a)** s’il est vendu dans une collectivité locale où l’une des langues officielles est la langue maternelle de moins de 10 pour cent de la population résidente de la collectivité locale; et
 	- **b)** si les renseignements devant figurer sur l’étiquette d’un aliment aux termes du présent règlement sont indiqués dans la langue officielle qui est la langue maternelle d’au moins 10 pour cent de la population résidente de la collectivité locale.
 
-- **(4)** Lorsqu’une des langues officielles est la langue maternelle de moins de 10 pour cent de la population résidente de la collectivité locale et que l’autre langue officielle est la langue maternelle de moins de 10 pour cent de la population résidente de la même collectivité locale, le paragraphe (3) ne s’applique pas.
+- **(4)** Lorsqu’une des langues officielles est la langue maternelle de moins de 10 pour cent de la population résidente de la collectivité locale et que l’autre langue officielle est la langue maternelle de moins de 10 pour cent de la population résidente de la même collectivité locale, le paragraphe (3) ne s’applique pas.
 
 - **(5)** Le paragraphe (3) ne s’applique pas à un produit alimentaire d’essai, sauf si la personne qui a l’intention de sonder le marché du produit a déposé, auprès du président de l’Agence canadienne d’inspection des aliments, six semaines avant de sonder le marché, un avis d’intention établi en une forme que celui-ci juge acceptable.
 
-- **(6)** Aux fins de l’application du paragraphe (3), un produit alimentaire d’essai cesse d’en être un à la fin d’une période de 12 mois après la date à laquelle il a été pour la première fois offert en vente à titre de produit d’essai, mais un produit alimentaire d’essai acheté pour la revente par une autre personne que celle qui a déposé l’avis d’intention dont il est question au paragraphe (5), avant la fin de ladite période demeure un produit d’essai aux fins du paragraphe (3) jusqu’à ce qu’il soit vendu à un consommateur.
+- **(6)** Aux fins de l’application du paragraphe (3), un produit alimentaire d’essai cesse d’en être un à la fin d’une période de 12 mois après la date à laquelle il a été pour la première fois offert en vente à titre de produit d’essai, mais un produit alimentaire d’essai acheté pour la revente par une autre personne que celle qui a déposé l’avis d’intention dont il est question au paragraphe (5), avant la fin de ladite période demeure un produit d’essai aux fins du paragraphe (3) jusqu’à ce qu’il soit vendu à un consommateur.
 
-- **(7)** Un produit alimentaire spécial est exempté de l’application du paragraphe (2) si les renseignements devant figurer sur son étiquette selon ce règlement sont indiqués dans l’une des langues officielles.
+- **(7)** Un produit alimentaire spécial est exempté de l’application du paragraphe (2) si les renseignements devant figurer sur son étiquette selon ce règlement sont indiqués dans l’une des langues officielles.
 
 - **(8)** Lorsque l’étiquette d’un produit préemballé comporte une ou plusieurs surfaces qui sont de même dimension et de même importance que l’espace principal, les renseignements devant figurer dans l’espace principal, aux termes du présent règlement peuvent y figurer dans une langue officielle seulement s’ils figurent dans l’autre langue officielle sur l’une des autres surfaces.
 
 - **(9)** Le paragraphe (2) ne s’applique pas au nom et au principal établissement de la personne par ou pour qui l’aliment a été fabriqué, transformé, produit ou emballé pour la revente si ces renseignements sont indiqués dans l’une des langues officielles.
 
-- **(10)** Le paragraphe (2) ne s’applique pas aux noms usuels suivants si un de ceux-ci est indiqué de la manière suivante sur l’espace principal :
+- **(10)** Le paragraphe (2) ne s’applique pas aux noms usuels suivants si un de ceux-ci est indiqué de la manière suivante sur l’espace principal :
 - Scotch Whisky
 - *Irish Whisky*
 - *Highland Whisky*
@@ -1569,10 +1661,10 @@ la liste des ingrédients, pour la période de 12 mois à partir du moment où l
 - Manhattan
 - Martini
 
-- **(11)** Le paragraphe (2) ne s’applique pas à l’étiquette d’un contenant d’expédition destiné à une entreprise ou institution commerciale ou industrielle si
+- **(11)** Le paragraphe (2) ne s’applique pas à l’étiquette d’un contenant d’expédition destiné à une entreprise commerciale ou industrielle ou une institution si :
 	- **a)** le contenant d’expédition et son contenu ne sont pas revendus comme produit préemballé individuel à un consommateur au niveau du commerce de détail; et
 	- **b)** tous les renseignements devant être indiqués sur l’étiquette d’un aliment en vertu du présent règlement le sont dans l’une des langues officielles.
-> DORS/79-23, art. 9; DORS/79-529, art. 4; DORS/84-300, art. 6; DORS/93-603, art. 1; DORS/95-548, art. 5; DORS/2000-184, art. 62.
+> DORS/79-23, art. 9; DORS/79-529, art. 4; DORS/84-300, art. 6; DORS/93-603, art. 1; DORS/95-548, art. 5; DORS/2000-184, art. 62; DORS/2016-305, art. 11.
 
 
 
@@ -1587,66 +1679,66 @@ la liste des ingrédients, pour la période de 12 mois à partir du moment où l
 
 
 
-**B.01.014** L’étiquette d’un aliment autre qu’un édulcorant et qui contient de l’aspartame doit porter les renseignements suivants :
+**B.01.014** L’étiquette d’un aliment autre qu’un édulcorant et qui contient de l’aspartame doit porter les renseignements suivants :
 - **a)** sous réserve de l’alinéa b), une déclaration sur l’espace principal indiquant que l’aliment contient de l’aspartame ou est édulcoré avec de l’aspartame et ce, en caractères de dimensions au moins égales et aussi bien en vue que les caractères utilisés dans la portion numérique que la déclaration de la quantité nette, comme l’exige l’article 14 du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md);
 - **b)** dans le cas où d’autres édulcorants sont utilisés avec l’aspartame, une déclaration sur l’espace principal indiquant que l’aliment
 	- **(i)** contient de l’aspartame et (nom des autres édulcorants), ou
 	- **(ii)** est édulcoré avec de l’aspartame et (nom des autres édulcorants),
 et ce, en caractères de dimensions au moins égales et aussi bien en vue que les caractères utilisés dans la portion numérique de la déclaration de la quantité nette, comme l’exige l’article 14 du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md);
 - **c)** sur la surface de l’étiquette, une déclaration indiquant que l’aspartame contient de la phénylalanine; et
-- **d)** une déclaration indiquant la teneur en aspartame, exprimée en milligrammes, par portion déterminée.
-> DORS/81-617, art. 2; DORS/88-559, art. 5; DORS/2003-11, art. 6.
+- **d)** une déclaration indiquant la teneur en aspartame, exprimée en milligrammes, par portion indiquée.
+> DORS/81-617, art. 2; DORS/88-559, art. 5; DORS/2003-11, art. 6; DORS/2016-305, art. 75(F).
 
 
 
 
 **B.01.015** 
 
-- **(1)** L’étiquette d’un édulcorant qui contient de l’aspartame doit porter les renseignements suivants :
+- **(1)** L’étiquette d’un édulcorant qui contient de l’aspartame doit porter les renseignements suivants :
 	- **a)** une déclaration sur l’espace principal indiquant que l’aliment contient de l’aspartame ou est édulcoré avec de l’aspartame et ce, en caractères de dimensions au moins égales et aussi bien en vue que les caractères utilisés dans la portion numérique de la déclaration de la quantité nette, comme l’exige l’article 14 du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md);
 	- **b)** sur la surface de l’étiquette, une déclaration indiquant que l’aspartame contient de la phénylalanine;
 	- **c)** sur la surface de l’étiquette, une déclaration sur le pouvoir édulcorant d’une portion exprimé en fonction de la quantité de sucre requise pour produire un degré d’édulcoration équivalent; et
-	- **d)** une déclaration indiquant la teneur en aspartame, exprimée en milligrammes, par portion déterminée.
+	- **d)** une déclaration indiquant la teneur en aspartame, exprimée en milligrammes, par portion indiquée.
 
 - **(2)** [Abrogé, DORS/2007-176, art. 1]
-> DORS/81-617, art. 2; DORS/88-559, art. 6; DORS/2003-11, art. 7; DORS/2007-176, art. 1.
+> DORS/81-617, art. 2; DORS/88-559, art. 6; DORS/2003-11, art. 7; DORS/2007-176, art. 1; DORS/2016-305, art. 75(F).
 
 
 
 
-**B.01.016** L’étiquette d’un aliment, autre qu’un édulcorant de table, qui contient du sucralose doit porter les renseignements suivants :
+**B.01.016** L’étiquette d’un aliment, autre qu’un édulcorant de table, qui contient du sucralose doit porter les renseignements suivants :
 - **a)** sous réserve de l’alinéa b), une mention sur l’espace principal indiquant que l’aliment contient du sucralose ou est édulcoré avec du sucralose, en caractères de dimensions au moins égales et aussi bien en vue que les caractères utilisés dans les données numériques de la déclaration de quantité nette, conformément à l’article 14 du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md);
 - **b)** dans le cas où le sucralose est utilisé en combinaison avec un autre édulcorant ou un agent édulcorant, ou les deux, le nom de ceux-ci figurant dans une mention sur l’espace principal qui indique, en caractères conformes aux exigences de l’alinéa a), que l’aliment contient du sucralose et cet autre édulcorant ou cet agent édulcorant, ou les deux, selon le cas, ou est édulcoré avec ceux-ci;
-- **c)** une mention indiquant la teneur en sucralose, exprimée en milligrammes, par portion déterminée.
-> DORS/91-527, art. 2; DORS/94-625, art. 1; DORS/2003-11, art. 8.
+- **c)** une mention indiquant la teneur en sucralose, exprimée en milligrammes, par portion indiquée.
+> DORS/91-527, art. 2; DORS/94-625, art. 1; DORS/2003-11, art. 8; DORS/2016-305, art. 75(F).
 
 
 
 
 **B.01.017** 
 
-- **(1)** L’étiquette d’un aliment qui est un édulcorant de table contenant du sucralose doit porter les renseignements suivants :
+- **(1)** L’étiquette d’un aliment qui est un édulcorant de table contenant du sucralose doit porter les renseignements suivants :
 	- **a)** une mention sur l’espace principal indiquant que l’aliment contient du sucralose ou est édulcoré avec du sucralose, en caractères de dimensions au moins égales et aussi bien en vue que les caractères utilisés dans les données numériques de la déclaration de quantité nette, conformément à l’article 14 du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md);
 	- **b)** sur toute partie de l’étiquette, une mention de la capacité édulcorante d’une portion, exprimée en fonction de la quantité de sucre nécessaire pour produire un degré d’édulcoration équivalent;
-	- **c)** une mention indiquant la teneur en sucralose, exprimée en milligrammes, par portion déterminée.
+	- **c)** une mention indiquant la teneur en sucralose, exprimée en milligrammes, par portion indiquée.
 
 - **(2)** [Abrogé, DORS/2007-176, art. 2]
-> DORS/91-527, art. 2; DORS/94-625, art. 2; DORS/2003-11, art. 9; DORS/2007-176, art. 2.
+> DORS/91-527, art. 2; DORS/94-625, art. 2; DORS/2003-11, art. 9; DORS/2007-176, art. 2; DORS/2016-305, art. 75(F).
 
 
 
 
-**B.01.018** L’étiquette d’un aliment qui contient du polydextrose en indique la teneur, exprimée en grammes, par portion déterminée.
-> DORS/93-276, art. 2; DORS/94-779, art. 1; DORS/97-512, art. 1; DORS/2003-11, art. 10.
+**B.01.018** L’étiquette d’un aliment qui contient du polydextrose en indique la teneur, exprimée en grammes, par portion indiquée.
+> DORS/93-276, art. 2; DORS/94-779, art. 1; DORS/97-512, art. 1; DORS/2003-11, art. 10; DORS/2016-305, art. 75(F).
 
 
 
 
-**B.01.019** L’étiquette d’un aliment, autre qu’un édulcorant de table, qui contient de l’acésulfame-potassium doit porter les renseignements suivants :
+**B.01.019** L’étiquette d’un aliment, autre qu’un édulcorant de table, qui contient de l’acésulfame-potassium doit porter les renseignements suivants :
 - **a)** sous réserve de l’alinéa b), une mention sur l’espace principal indiquant que l’aliment contient de l’acésulfame- potassium ou est édulcoré avec de l’acésulfame-potassium, en caractères dont les dimensions sont au moins égales à celles des caractères utilisés pour les données numériques de la déclaration de quantité nette conformément à l’article 14 du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md), et qui sont aussi en évidence que ceux-ci;
 - **b)** dans le cas où l’acésulfame-potassium est utilisé en combinaison avec un autre édulcorant ou un agent édulcorant, ou les deux, le nom de ceux-ci figurant dans une mention sur l’espace principal qui indique, en caractères conformes aux exigences de l’alinéa a), que l’aliment contient de l’acésulfame-potassium et cet autre édulcorant ou cet agent édulcorant, ou les deux, selon le cas, ou est édulcoré avec ceux-ci;
-- **c)** une mention indiquant la teneur en acésulfame-potassium, exprimée en milligrammes, par portion déterminée.
-> DORS/94-625, art. 3; DORS/2003-11, art. 11.
+- **c)** une mention indiquant la teneur en acésulfame-potassium, exprimée en milligrammes, par portion indiquée.
+> DORS/94-625, art. 3; DORS/2003-11, art. 11; DORS/2016-305, art. 75(F).
 
 
 
@@ -1656,20 +1748,20 @@ et ce, en caractères de dimensions au moins égales et aussi bien en vue que le
 - **(1)** L’étiquette d’un aliment qui est un édulcorant de table contenant de l’acésulfame-potassium doit porter les renseignements suivants :
 	- **a)** une mention sur l’espace principal indiquant que l’aliment contient de l’acésulfame-potassium ou est édulcoré avec de l’acésulfame-potassium, en caractères dont les dimensions sont au moins égales à celles des caractères utilisés pour les données numériques de la déclaration de quantité nette conformément à l’article 14 du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md) et qui sont aussi en évidence que ceux-ci;
 	- **b)** sur toute partie de l’étiquette, une mention de la capacité édulcorante d’une portion, exprimée en fonction de la quantité de sucre nécessaire pour produire un degré d’édulcoration équivalent;
-	- **c)** une mention indiquant la teneur en acésulfame-potassium, exprimée en milligrammes, par portion déterminée.
+	- **c)** une mention indiquant la teneur en acésulfame-potassium, exprimée en milligrammes, par portion indiquée.
 
 - **(2)** [Abrogé, DORS/2007-176, art. 3]
-> DORS/94-625, art. 3; DORS/2003-11, art. 12; DORS/2007-176, art. 3.
+> DORS/94-625, art. 3; DORS/2003-11, art. 12; DORS/2007-176, art. 3; DORS/2016-305, art. 75(F).
 
 
 
 
 **B.01.021** 
 
-- **(1)** À moins qu’elle ne porte un tableau de la valeur nutritive, l’étiquette d’un aliment qui contient de l’érythritol doit porter une mention indiquant la teneur en érythritol de l’aliment, exprimée en grammes, par portion déterminée.
+- **(1)** À moins qu’elle ne porte un tableau de la valeur nutritive, l’étiquette d’un aliment qui contient de l’érythritol doit porter une mention indiquant la teneur en érythritol de l’aliment, exprimée en grammes, par portion indiquée.
 
 - **(2)** La mention indiquant la teneur en érythritol et celle indiquant la teneur en tout autre polyalcool et en polydextrose doivent être regroupées.
-> DORS/2004-261, art. 1.
+> DORS/2004-261, art. 1; DORS/2016-305, art. 75(F).
 
 
 
@@ -1679,12 +1771,12 @@ et ce, en caractères de dimensions au moins égales et aussi bien en vue que le
 - **b)** dans le cas où d’autres édulcorants ou des agents édulcorants sont utilisés en combinaison avec le néotame, une mention sur l’espace principal indiquant, en caractères de dimensions au moins égales et aussi bien en vue que les caractères prévus pour les données numériques de la déclaration de la quantité nette à l’article 14 du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md), que l’aliment, selon le cas :
 	- **(i)** contient du néotame et (noms des autres édulcorants et des agents édulcorants),
 	- **(ii)** est édulcoré avec du néotame et (noms des autres édulcorants et des agents édulcorants);
-- **c)** si l’étiquette de l’aliment porte un tableau de la valeur nutritive, une mention indiquant la teneur en néotame, exprimée en milligrammes, par portion déterminée;
-- **d)** si l’étiquette de l’aliment ne porte pas un tableau de la valeur nutritive, une mention indiquant, sur toute partie de l’étiquette, la valeur énergétique et les teneurs ci-après de l’aliment par portion déterminée, regroupées et en caractères d’égale importance :
+- **c)** si l’étiquette de l’aliment porte un tableau de la valeur nutritive, une mention indiquant la teneur en néotame, exprimée en milligrammes, par portion indiquée;
+- **d)** si l’étiquette de l’aliment ne porte pas un tableau de la valeur nutritive, une mention indiquant, sur toute partie de l’étiquette, la valeur énergétique et les teneurs ci-après de l’aliment par portion indiquée, regroupées et en caractères d’égale importance :
 	- **(i)** la valeur énergétique exprimée en Calories (Calories ou Cal) et en kilojoules (kilojoules ou kJ),
 	- **(ii)** la teneur en protéines, en matières grasses et en glucides, exprimée en grammes,
 	- **(iii)** la teneur en néotame exprimée en milligrammes.
-> DORS/2007-176, art. 4.
+> DORS/2007-176, art. 4; DORS/2016-305, art. 75(F).
 
 
 
@@ -1692,12 +1784,12 @@ et ce, en caractères de dimensions au moins égales et aussi bien en vue que le
 **B.01.023** L’étiquette d’un aliment qui est un édulcorant de table contenant du néotame doit porter les renseignements suivants :
 - **a)** une mention sur l’espace principal indiquant que l’aliment contient du néotame ou est édulcoré avec du néotame, et ce, en caractères de dimensions au moins égales et aussi bien en vue que les caractères prévus pour les données numériques de la déclaration de la quantité nette à l’article 14 du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md);
 - **b)** sur toute partie de l’étiquette, une mention sur le pouvoir édulcorant d’une portion exprimé en fonction de la quantité de sucre requise pour produire un degré d’édulcoration équivalent;
-- **c)** si l’étiquette de l’aliment porte un tableau de la valeur nutritive, une mention indiquant la teneur en néotame, exprimée en milligrammes, par portion déterminée;
-- **d)** si l’étiquette de l’aliment ne porte pas un tableau de la valeur nutritive, une mention indiquant, sur toute partie de l’étiquette, la valeur énergétique et les teneurs ci-après de l’aliment par portion déterminée, regroupées et en caractères d’égale importance :
+- **c)** si l’étiquette de l’aliment porte un tableau de la valeur nutritive, une mention indiquant la teneur en néotame, exprimée en milligrammes, par portion indiquée;
+- **d)** si l’étiquette de l’aliment ne porte pas un tableau de la valeur nutritive, une mention indiquant, sur toute partie de l’étiquette, la valeur énergétique et les teneurs ci-après de l’aliment par portion indiquée, regroupées et en caractères d’égale importance :
 	- **(i)** la valeur énergétique exprimée en Calories (Calories ou Cal) et en kilojoules (kilojoules ou kJ),
 	- **(ii)** la teneur en protéines, en matières grasses et en glucides, exprimée en grammes,
 	- **(iii)** la teneur en néotame exprimée en milligrammes.
-> DORS/2007-176, art. 4.
+> DORS/2007-176, art. 4; DORS/2016-305, art. 75(F).
 
 
 
@@ -1788,13 +1880,17 @@ et ce, en caractères de dimensions au moins égales et aussi bien en vue que le
 
 **B.01.045** Un additif alimentaire doit,
 - **a)** lorsque des spécifications sont énoncées pour cet additif dans la présente partie, répondre à ces spécifications;
-- **b)** lorsque des spécifications pour cet additif ne sont pas prévues dans la présente partie mais le sont dans la publication de la *National Academy of Sciences*, Washington, D.C., États-Unis, intitulée Food Chemicals Codex, quatrième édition, publiée en 1996, compte tenu de ses modifications successives, satisfaire à ces spécifications;
-- **c)** dans le cas du lactitol et du maltitol, satisfaire aux spécifications établies par le Comité mixte FAO/OMS d’experts des additifs alimentaires et énoncées dans la publication de l’Organisation des Nations Unies pour l’alimentation et l’agriculture, Rome, intitulée Specifications for identity and purity of certain food additives—FAO Food and Nutrition Paper 38, publiée en 1988;
+- **b)** lorsqu’aucune spécification n’est prévue pour cet additif dans la présente partie, mais que l’une des publications ci-après en prévoit, satisfaire à ces spécifications :
+	- **(i)** la publication de la *United States Pharmacopeial Convention*, Rockville, MD, États-Unis, intitulée Food Chemicals Codex, dixième édition, publiée en 2016, ou toute édition subséquente — y compris leurs suppléments —, avec leurs modifications successives,
+	- **(ii)** la publication de l’Organisation des Nations Unies pour l’alimentation et l’agriculture, préparée par le Comité mixte FAO/OMS d’experts des additifs alimentaires, et intitulée Répertoire des normes pour les additifs alimentaires, publiée sur le site Web de l’organisation, avec ses modifications successives;
+- **c)** dans le cas d’un colorant alimentaire pour lequel aucune spécification n’est prévue aux termes des alinéas a) ou b), renfermer au plus :
+	- **(i)** trois parties par million d’arsenic,
+	- **(ii)** dix parties par million de plomb.
 - **d)** [Abrogé, DORS/2010-142, art. 1]
 - **e)** [Abrogé, DORS/97-512, art. 2]
-- **f)** dans le cas de l’isomalt, satisfaire aux spécifications établies par le Comité mixte FAO/OMS d’experts sur les additifs alimentaires et énoncées dans la publication de l’Organisation des Nations Unies pour l’alimentation et l’agriculture, Rome, intitulée Compendium of food additive specifications, Addendum 4 — FAO Food and Nutrition Paper 52, publiée en 1996. 
+- **f)** [Abrogé, DORS/2016-305, art. 12]
 - **g)** [Abrogé, DORS/97-512, art. 2]
-> DORS/82-383, art. 1; DORS/91-527, art. 3; DORS/92-93, art. 1; DORS/92-551, art. 1; DORS/93-276, art. 3; DORS/94-625, art. 4; DORS/94-779, art. 2; DORS/95-172, art. 2; DORS/97-512, art. 2; DORS/2010-142, art. 1.
+> DORS/82-383, art. 1; DORS/91-527, art. 3; DORS/92-93, art. 1; DORS/92-551, art. 1; DORS/93-276, art. 3; DORS/94-625, art. 4; DORS/94-779, art. 2; DORS/95-172, art. 2; DORS/97-512, art. 2; DORS/2010-142, art. 1; DORS/2016-305, art. 12.
 
 
 
@@ -1857,12 +1953,12 @@ et ce, en caractères de dimensions au moins égales et aussi bien en vue que le
 
 
 
-**B.01.053** Il est interdit de vendre un produit présenté comme déjeuner prêt à manger ou déjeuner instantané, ou sous toute autre appellation semblable, à moins qu’il n’y ait dans chaque portion déterminée :
+**B.01.053** Il est interdit de vendre un produit présenté comme déjeuner prêt à manger ou déjeuner instantané, ou sous toute autre appellation semblable, à moins qu’il n’y ait dans chaque portion indiquée :
 - **a)** au moins 4,0 mg de fer;
 - **b)** de la vitamine A, de la thiamine, de la riboflavine, de la niacine ou de la niacinamide et de la vitamine C;
 - **c)** une bonne source alimentaire de protéines; et
-- **d)** si le produit est consommé de la façon indiquée, au moins 300 calories.
-> DORS/2003-11, art. 13.
+- **d)** si le produit est consommé de la façon indiquée, au moins 300 calories.
+> DORS/2003-11, art. 13; DORS/2016-305, art. 75(F).
 
 
 
@@ -1957,8 +2053,8 @@ et ce, en caractères de dimensions au moins égales et aussi bien en vue que le
 
 
 
-**B.01.091** L’étiquette de toute pièce de viande ou de toute pièce de viande de volaille à laquelle ont été ajoutés des sels de phosphate ou de l’eau, qui est non traitée par salaison et qui est préemballée chez le détaillant, indique les ingrédients de cet aliment conformément aux paragraphes B.01.008(3) à (5).
-> DORS/94-262, art. 1; DORS/2003-11, art. 14.
+**B.01.091** L’étiquette de toute pièce de viande ou de toute pièce de viande de volaille à laquelle ont été ajoutés des sels de phosphate ou de l’eau, qui est non traitée par salaison et qui est préemballée chez le détaillant, indique les ingrédients de cet aliment conformément aux paragraphes B.01.008.2(1) à (5) et (7).
+> DORS/94-262, art. 1; DORS/2003-11, art. 14; DORS/2016-305, art. 13.
 
 
 
@@ -2046,27 +2142,40 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **B.01.301** 
 
-- **(1)** Est interdite, sur l’étiquette ou dans l’annonce d’un aliment, ailleurs que dans le tableau de la valeur nutritive, le cas échéant, toute indication de la valeur énergétique de l’aliment ou de sa teneur en un élément nutritif, à moins qu’elle soit exprimée de la façon ci-après, par portion déterminée :
+- **(1)** Est interdite, sur l’étiquette ou dans l’annonce d’un aliment, ailleurs que dans le tableau de la valeur nutritive, le cas échéant, toute indication de la valeur énergétique de l’aliment ou de sa teneur en un élément nutritif, à moins qu’elle soit exprimée de la façon ci-après, par portion indiquée :
 	- **a)** dans le cas de la valeur énergétique, en Calories;
-	- **b)** dans le cas d’une vitamine figurant à la colonne I du tableau I du titre 1 de la partie D ou d’un minéral nutritif figurant à la colonne I du tableau I du titre 2 de cette partie, selon l’unité indiquée dans cette colonne;
-	- **c)** dans le cas du sodium, du potassium et du cholestérol, en milligrammes;
+	- **b)** dans le cas d’une vitamine mentionnée au paragraphe D.01.002(1), selon l’unité applicable indiquée au paragraphe D.01.003(1);
+	- **b.1)** dans le cas des minéraux nutritifs ci-après, selon l’unité suivante :
+		- **(i)** s’agissant du sodium, du potassium, du calcium, du phosphore, du magnésium, du fer, du zinc, du chlore, du cuivre et du manganèse, en milligrammes,
+		- **(ii)** s’agissant de l’iode, du chrome, du sélénium et du molybdène, en microgrammes;
+	- **c)** dans le cas du cholestérol, en milligrammes;
 	- **d)** dans le cas de la teneur en ions minéraux de l’eau ou de la glace préemballées, en parties par million;
 	- **e)** dans les autres cas, en grammes.
 
-- **(2)** Malgré le paragraphe (1), est permise, sur l’étiquette ou dans l’annonce d’un aliment, ailleurs que dans le tableau de la valeur nutritive, le cas échéant, toute indication du pourcentage de la valeur quotidienne d’un élément nutritif contenu dans l’aliment, si les conditions suivantes sont réunies :
+- **(2)** Malgré le paragraphe (1), est permise, sur l’étiquette ou dans l’annonce d’un aliment, ailleurs que dans le tableau de la valeur nutritive, le cas échéant, toute indication du pourcentage de la valeur quotidienne d’un élément nutritif contenu dans l’aliment, si les conditions suivantes sont réunies :
 	- **a)** l’élément nutritif figure à la colonne 1 du tableau de l’article B.01.401 ou du tableau de l’article B.01.402;
 	- **b)** le pourcentage de la valeur quotidienne de l’élément nutritif doit ou peut être déclaré dans le tableau de la valeur nutritive;
-	- **c)** le pourcentage de la valeur quotidienne de l’élément nutritif est déclaré par portion déterminée.
+	- **c)** le pourcentage de la valeur quotidienne de l’élément nutritif est déclaré par portion indiquée.
 
-- **(3)** Toute indication visée aux paragraphes (1) ou (2) paraissant sur l’étiquette d’un aliment figure :
+- **(3)** Toute indication visée aux paragraphes (1) ou (2) paraissant sur l’étiquette d’un aliment figure :
 	- **a)** soit en français et en anglais;
 	- **b)** soit dans l’une de ces langues, si, conformément aux paragraphes B.01.012(3) ou (7), les renseignements devant être indiqués sur l’étiquette de l’aliment aux termes du présent règlement peuvent l’être uniquement dans la langue en cause et qu’ils y figurent dans celle-ci.
-> DORS/88-559, art. 15; DORS/2003-11, art. 16.
+> DORS/88-559, art. 15; DORS/2003-11, art. 16; DORS/2016-305, art. 14 et 75(F).
 
 
 
 
-**B.01.302 à B.01.304** [Abrogés, DORS/2003-11, art. 17]
+**B.01.302** 
+
+- **(1)** Si l’étiquette d’un produit préemballé à portions multiples indique le nombre de portions que contient le produit, ou celui qui sera obtenu si l’aliment est préparé selon les instructions fournies dans ou sur l’emballage, ces renseignements doivent être déclarés sur le fondement de la portion indiquée figurant dans le tableau de la valeur nutritive du produit.
+
+- **(2)** Malgré le paragraphe (1), l’étiquette d’un produit préemballé à portions multiples ne peut indiquer les renseignements visés à ce paragraphe, si la portion indiquée dans le tableau de la valeur nutritive de ce produit est exprimée en tasses ou en cuillères à soupe.
+> DORS/2016-305, art. 15.
+
+
+
+
+**B.01.303 et B.01.304** [Abrogés, DORS/2003-11, art. 17]
 
 
 
@@ -2074,11 +2183,11 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 - **(1)** Est interdite, sur l’étiquette ou dans l’annonce d’un aliment, toute déclaration, expresse ou implicite, relativement aux protéines, à moins que l’aliment réponde aux critères mentionnés à la colonne 2 de l’article 8 du tableau suivant l’article B.01.513 en regard du sujet « source de protéines » visé à la colonne 1.
 
-- **(2)** Est interdite, sur l’étiquette ou dans l’annonce d’un aliment, toute déclaration, expresse ou implicite, relativement aux acides aminés, à moins que :
+- **(2)** Est interdite, sur l’étiquette ou dans l’annonce d’un aliment, toute déclaration, expresse ou implicite, relativement aux acides aminés, à moins que :
 	- **a)** l’aliment réponde aux critères mentionnés à la colonne 2 de l’article 8 du tableau suivant l’article B.01.513 en regard du sujet « source de protéines » visé à la colonne 1;
-	- **b)** sa teneur en histidine, en isoleucine, en leucine, en lysine, en méthionine, en phénylalanine, en thréonine, en tryptophane et en valine soit exprimée en grammes par portion déterminée sur l’étiquette ou dans l’annonce.
+	- **b)** sa teneur en histidine, en isoleucine, en leucine, en lysine, en méthionine, en phénylalanine, en thréonine, en tryptophane et en valine soit exprimée en grammes par portion indiquée sur l’étiquette ou dans l’annonce.
 
-- **(3)** Les paragraphes (1) et (2) ne s’appliquent pas :
+- **(3)** Les paragraphes (1) et (2) ne s’appliquent pas :
 	- **a)** à une préparation pour régime liquide, à un succédané de lait humain ou à un aliment présenté comme contenant un succédané de lait humain;
 	- **b)** à un aliment présenté comme étant destiné à un régime sans gluten, à teneur réduite en protéines, à faible teneur en (nom de l’acide aminé) ou sans (nom de l’acide aminé);
 	- **c)** au mot « protéines » utilisé dans le nom usuel d’un ingrédient dans la liste d’ingrédients;
@@ -2091,10 +2200,10 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 	- **j)** à une mention de la teneur en protéines d’un aliment tel que l’exigent l’alinéa B.24.103c), le sous-alinéa B.24.202a)(ii), les alinéas B.24.304b) ou B.25.057(1)a) ou les sous-alinéas B.25.057(2)c)(i) ou d)(i);
 	- **k)** à la déclaration selon laquelle un aliment n’est pas une source de protéines.
 
-- **(4)** Toute déclaration visée aux paragraphes (1) ou (2) paraissant sur l’étiquette d’un aliment figure :
+- **(4)** Toute déclaration visée aux paragraphes (1) ou (2) paraissant sur l’étiquette d’un aliment figure :
 	- **a)** soit en français et en anglais;
 	- **b)** soit dans l’une de ces langues, si, conformément aux paragraphes B.01.012(3) ou (7), les renseignements devant être indiqués sur l’étiquette de l’aliment aux termes du présent règlement peuvent l’être uniquement dans la langue en cause et qu’ils y figurent dans celle-ci.
-> DORS/88-559, art. 15; DORS/90-830, art. 3(F); DORS/2003-11, art. 18.
+> DORS/88-559, art. 15; DORS/90-830, art. 3(F); DORS/2003-11, art. 18; DORS/2016-305, art. 75(F).
 
 
 
@@ -2111,37 +2220,39 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 - **(3)** Sous réserve de l’article B.01.312, est permise, sur l’étiquette ou dans l’annonce d’un aliment, toute mention ou allégation indiquant que la valeur énergétique de l’aliment ou un de ses éléments nutritifs est généralement reconnu comme aidant à entretenir les fonctions de l’organisme nécessaires au maintien de la santé et à la croissance et au développement normaux.
 
-- **(4)** Si une mention ou allégation visée au paragraphe (3) porte sur un élément nutritif qui ne figure pas à la colonne 1 des tableaux des articles B.01.401 et B.01.402, la teneur de l’aliment en cet élément est indiquée sur l’étiquette, exprimée en grammes par portion déterminée.
+- **(4)** Si une mention ou allégation visée au paragraphe (3) porte sur un élément nutritif qui ne figure pas à la colonne 1 des tableaux des articles B.01.401 et B.01.402, la teneur de l’aliment en cet élément est indiquée sur l’étiquette, exprimée en grammes par portion indiquée.
 
-- **(5)** Toute mention ou allégation visée aux paragraphes (2) ou (3) paraissant sur l’étiquette d’un aliment figure :
+- **(5)** Toute mention ou allégation visée aux paragraphes (2) ou (3) paraissant sur l’étiquette d’un aliment figure :
 	- **a)** soit en français et en anglais;
 	- **b)** soit dans l’une de ces langues, si, conformément aux paragraphes B.01.012(3) ou (7), les renseignements devant être indiqués sur l’étiquette de l’aliment aux termes du présent règlement peuvent l’être uniquement dans la langue en cause et qu’ils y figurent dans celle-ci.
-> DORS/88-559, art. 15; DORS/2003-11, art. 20.
+> DORS/88-559, art. 15; DORS/2003-11, art. 20; DORS/2016-305, art. 75(F).
 
 
 
 
 **B.01.312** 
 
-- **(1)** Si une mention ou une allégation visée au paragraphe B.01.311(3) est faite sur l’étiquette ou dans l’annonce d’un aliment qui n’est pas un produit préemballé ou dans l’annonce d’un produit préemballé faite par une personne autre que le fabricant du produit ou une personne agissant sous ses ordres, l’étiquette ou l’annonce indique les renseignements ci-après qui font l’objet de la mention ou de l’allégation, par portion déterminée :
+- **(1)** Si une mention ou une allégation visée au paragraphe B.01.311(3) est faite sur l’étiquette ou dans l’annonce d’un aliment qui n’est pas un produit préemballé ou dans l’annonce d’un produit préemballé faite par une personne autre que le fabricant du produit ou une personne agissant sous ses ordres, l’étiquette ou l’annonce indique les renseignements ci-après qui font l’objet de la mention ou de l’allégation, par portion indiquée :
 	- **a)** la valeur énergétique;
 	- **b)** la teneur en l’élément nutritif.
 
-- **(2)** Si une mention ou une allégation est faite dans l’annonce d’un aliment, autre qu’une annonce radiophonique ou télévisée, les renseignements visés au paragraphe (1), à la fois :
+- **(1.1)** Le paragraphe (1) ne s’applique pas si la mention ou l’allégation est faite sur l’étiquette ou dans l’annonce d’un légume frais, d’un fruit frais ou d’un mélange quelconque de légumes frais ou de fruits frais sans ingrédient ajouté, d’une orange à laquelle un colorant alimentaire a été ajouté et d’un légume frais ou d’un fruit frais enrobé d’huile minérale, de paraffine, de vaseline ou de tout autre enduit protecteur.
+
+- **(2)** Si une mention ou une allégation est faite dans l’annonce d’un aliment, autre qu’une annonce radiophonique ou télévisée, les renseignements visés au paragraphe (1), à la fois :
 	- **a)** précèdent ou suivent, sans qu’aucun texte imprimé ou écrit ni aucun signe graphique ne soit intercalé, la mention ou l’allégation ne paraissant qu’une seule fois ou, si la mention ou l’allégation est répétée, celle qui est la plus en évidence;
 	- **b)** figurent en caractères d’une taille qui est au moins égale et aussi bien en vue que ceux de la mention ou de l’allégation ne paraissant qu’une seule fois ou, si la mention ou l’allégation est répétée, que ceux de celle qui est la plus en évidence.
 
 - **(3)** Si une mention ou une allégation est faite dans une annonce radiophonique ou dans la composante audio d’une annonce télévisée, les renseignements visés au paragraphe (1) précèdent ou suivent immédiatement la mention ou l’allégation.
 
-- **(4)** Si une mention ou une allégation est faite dans une annonce télévisée, les renseignements visés au paragraphe (1) sont communiqués, selon le cas :
+- **(4)** Si une mention ou une allégation est faite dans une annonce télévisée, les renseignements visés au paragraphe (1) sont communiqués, selon le cas :
 	- **a)** en mode audio, si la mention ou l’allégation fait partie uniquement de la composante audio de l’annonce ou, à la fois des composantes audio et visuelle de celle-ci;
 	- **b)** en mode audio ou en mode visuel, si la mention ou l’allégation fait partie uniquement de la composante visuelle de l’annonce.
 
-- **(5)** Les renseignements visés au paragraphe (1) qui sont communiqués en mode visuel dans une annonce télévisée, à la fois :
+- **(5)** Les renseignements visés au paragraphe (1) qui sont communiqués en mode visuel dans une annonce télévisée, à la fois :
 	- **a)** paraissent en même temps et pendant au moins la même durée que la mention ou l’allégation;
 	- **b)** précèdent ou suivent, sans qu’aucun texte imprimé ou écrit ni aucun signe graphique ne soit intercalé, la mention ou l’allégation ne paraissant qu’une seule fois ou, si la mention ou l’allégation est répétée, celle qui est la plus en évidence;
 	- **c)** figurent en caractères d’une taille qui est au moins égale et aussi bien en vue que ceux de la mention ou de l’allégation ne paraissant qu’une seule fois ou, si la mention ou l’allégation est répétée, que ceux de celle qui est la plus en évidence.
-> DORS/2003-11, art. 20.
+> DORS/2003-11, art. 20; DORS/2016-305, art. 16 et 75(F).
 
 
 
@@ -2150,12 +2261,12 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 #### Interprétation
 
 
-**B.01.400** Les définitions qui suivent s’appliquent aux articles B.01.401 à B.01.603.
+**B.01.400** 
 
-***lipides*** Tous les acides gras exprimés sous forme de triglycérides. (*fat*)
+- **(1)** Pour l’application des articles B.01.401 à B.01.603, lipides s’entend de tous les acides gras exprimés sous forme de triglycérides.
 
-***point*** Unité de mesure de la force du corps des caractères connu comme point anglo-américain et qui équivaut à 0,3514598 mm. (*point*)
-> DORS/2003-11, art. 20.
+- **(2)** Pour l’application des articles B.01.401 à B.01.603, la teneur en vitamines est déterminée conformément à l’article D.01.003.
+> DORS/2003-11, art. 20; DORS/2016-305, art. 17.
 
 
 
@@ -2170,13 +2281,17 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **B.01.401** 
 
-- **(1)** Sauf disposition contraire du présent article et des articles B.01.402 à B.01.406 et B.01.467, l’étiquette de tout produit préemballé porte un tableau de la valeur nutritive indiquant exclusivement les renseignements visés à la colonne 1 du tableau du présent article, exprimés au moyen de la nomenclature indiquée dans la colonne 2, de l’unité indiquée dans la colonne 3 et des règles d’écriture indiquées dans la colonne 4.
+- **(1)** Sauf disposition contraire du présent article et des articles B.01.402 à B.01.406 et B.01.467 à B.01.469, l’étiquette de tout produit préemballé porte un tableau de la valeur nutritive indiquant exclusivement les renseignements visés à la colonne 1 du tableau du présent article, exprimés au moyen de la nomenclature indiquée dans la colonne 2, de l’unité indiquée dans la colonne 3 et des règles d’écriture indiquées dans la colonne 4.
+
+- **(1.1)** Pour l’application du paragraphe (1), la portion indiquée qui est exprimée en unité métrique dans le tableau de la valeur nutritive d’un produit préemballé sert de fondement pour établir les renseignements relatifs à la valeur énergétique et aux éléments nutritifs qui figurent au tableau de la valeur nutritive du produit.
+
+- **(1.2)** Le pourcentage de la valeur quotidienne d’un minéral nutritif qui, aux termes du paragraphe (1), figure dans le tableau de la valeur nutritive d’un produit préemballé est établi sur la base de la teneur, en poids, du minéral nutritif dans le produit, par portion indiquée, une fois la teneur arrondie selon les règles d’écriture applicables prévues à la colonne 4 du tableau du présent article.
 
 - **(2)** Le paragraphe (1) ne s’applique pas à un produit préemballé dans les cas suivants :
-	- **a)** tous les renseignements visés à la colonne 1 du tableau du présent article, autres que l’article 1 (« portion déterminée »), peuvent être exprimés par « 0 » au tableau de la valeur nutritive conformément au présent article;
+	- **a)** tous les renseignements visés à la colonne 1 du tableau du présent article, autres que l’article 1 (« portion indiquée »), peuvent être exprimés par « 0 » au tableau de la valeur nutritive conformément au présent article;
 	- **b)** le produit est, selon le cas :
 		- **(i)** une boisson dont la teneur en alcool est de plus de 0,5 %,
-		- **(ii)** un légume frais, un fruit frais ou un mélange quelconque de légumes frais ou de fruits frais sans ingrédient ajouté ainsi qu’une orange à laquelle un colorant a été ajouté et un légume frais ou un fruit frais enrobé de paraffine ou de vaseline,
+		- **(ii)** [Abrogé, DORS/2016-305, art. 18]
 		- **(iii)** de la viande, un sous-produit de viande, de la viande de volaille ou un sous-produit de viande de volaille, cru et composé d’un seul ingrédient,
 		- **(iv)** un produit d’animaux marins ou d’animaux d’eau douce cru et composé d’un seul ingrédient,
 		- **(v)** un produit vendu uniquement dans l’établissement de détail où il est préparé et transformé à partir de ses ingrédients, y compris un pré-mélange si un ingrédient autre que de l’eau est ajouté au pré-mélange lors de la préparation et de la transformation du produit,
@@ -2184,18 +2299,18 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 		- **(vii)** une portion individuelle qui est vendue pour consommation immédiate et qui n’a fait l’objet d’aucun procédé pour en prolonger la durée de conservation, notamment l’utilisation d’un emballage spécial,
 		- **(viii)** un produit vendu uniquement dans l’établissement de détail où il est emballé, si l’étiquette du produit est un autocollant et que la surface exposée disponible du produit est de moins de 200 cm<sup>2</sup>;
 	- **c)** le produit est, selon le cas :
-		- **(i)** une confiserie préemballée, appelée couramment bonbon d’une bouchée, qui est vendue individuellement,
+		- **(i)** un légume frais, un fruit frais ou un mélange quelconque de légumes frais ou de fruits frais sans ingrédient ajouté, une orange à laquelle un colorant alimentaire a été ajouté et un légume frais ou un fruit frais enrobé d’huile minérale, de paraffine, de vaseline ou de tout autre enduit protecteur,
 		- **(ii)** une portion individuelle préemballée d’un aliment, destinée uniquement à être servie par un restaurant ou une autre entreprise commerciale avec les repas ou casse-croûte,
 		- **(iii)** du lait, du lait partiellement écrémé, du lait écrémé, du lait de chèvre, du lait de chèvre partiellement écrémé, du lait de chèvre écrémé, du lait (indication de l’arôme), du lait partiellement écrémé (indication de l’arôme), du lait écrémé (indication de l’arôme) ou de la crème, vendu dans un contenant réutilisable en verre.
 
-- **(3)** Malgré les alinéas (2)a) et b), le paragraphe (1) s’applique dans les cas suivants :
+- **(3)** Malgré les alinéas (2)a) et b), le paragraphe (1) s’applique dans les cas suivants :
 	- **a)** le produit contient une vitamine ou un minéral nutritif ajoutés;
 	- **b)** une vitamine ou un minéral nutritif est déclaré comme constituant d’un ingrédient du produit, sauf si l’ingrédient est de la farine;
 	- **c)** le produit contient de l’acésulfame-potassium, de l’aspartame, du néotame ou du sucralose ajoutés;
 	- **d)** le produit est de la viande, un sous-produit de viande, de la viande de volaille ou un sous-produit de viande de volaille hachés;
-	- **e)** l’étiquette du produit ou encore l’annonce faite par le fabricant du produit ou sous ses ordres comporte, selon le cas :
-		- **(i)** une mention de la valeur énergétique, d’un élément nutritif figurant à la colonne 1 du tableau du présent article ou à la colonne 1 du tableau de l’article B.01.402 ou une mention d’un composant de l’élément nutritif, autre qu’un renseignement prévu au titre 12 ou qu’une mention du nom usuel de l’ingrédient dans la liste des ingrédients du produit,
-		- **(ii)** une déclaration indiquant expressément ou implicitement que le produit a des propriétés particulières liées à la nutrition ou à la santé, notamment une mention ou une allégation figurant à la colonne 4 du tableau suivant l’article B.01.513, à la colonne 1 du tableau suivant l’article B.01.603 ou aux articles B.01.311, D.01.006 ou D.02.004,
+	- **e)** l’étiquette du produit ou encore l’annonce faite par le fabricant du produit ou sous ses ordres comporte, selon le cas :
+		- **(i)** une mention de la valeur énergétique, d’un élément nutritif figurant à la colonne 1 du tableau du présent article ou à la colonne 1 du tableau de l’article B.01.402 ou une mention d’un composant de l’élément nutritif, autre qu’un renseignement prévu au titre 12 ou qu’une mention du nom usuel de l’ingrédient dans la liste des ingrédients du produit,
+		- **(ii)** une déclaration indiquant expressément ou implicitement que le produit a des propriétés particulières liées à la nutrition ou à la santé, notamment une mention ou une allégation figurant à la colonne 4 du tableau suivant l’article B.01.513, à la colonne 1 du tableau suivant l’article B.01.603 ou aux articles B.01.311, D.01.006 ou D.02.004,
 		- **(iii)** un nom, une mention, un logo, un symbole, un sceau d’approbation ou toute autre marque concernant la santé,
 		- **(iv)** les expressions « valeur nutritive », « valeurs nutritives » ou « *nutrition facts* ».
 
@@ -2203,21 +2318,35 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 - **(5)** L’étiquette ou l’annonce d’une préparation pour régime liquide, d’un succédané de lait humain ou d’un aliment présenté comme contenant un succédané de lait humain, d’un substitut de repas, d’un supplément nutritif ou d’un aliment présenté comme étant conçu pour un régime à très faible teneur en énergie ne peut comporter un tableau de la valeur nutritive ou les expressions « valeur nutritive », « valeurs nutritives » ou « *nutrition facts* ».
 
-- **(6)** Si au moins sept des renseignements relatifs à la valeur énergétique et aux éléments nutritifs visés à la colonne 1 des articles 2 à 5 et 7 à 13 du tableau du présent article peuvent être exprimés, conformément au présent article, par « 0 » au tableau de la valeur nutritive d’un produit préemballé, autre qu’un produit destiné exclusivement aux enfants âgés de moins de deux ans, le tableau peut ne contenir que les renseignements suivants :
-	- **a)** la portion déterminée;
+- **(6)** Si au moins six des renseignements relatifs à la valeur énergétique et aux éléments nutritifs visés à la colonne 1 des articles 2 à 5 et 7 à 15 du tableau du présent article peuvent être exprimés, conformément au présent article, par « 0 » au tableau de la valeur nutritive d’un produit préemballé, autre qu’un produit destiné exclusivement aux bébés âgés d’au moins six mois mais de moins d’un an, le tableau peut ne contenir que les renseignements suivants :
+	- **a)** la portion indiquée;
 	- **b)** la valeur énergétique;
 	- **c)** la teneur en lipides;
 	- **d)** la teneur en glucides;
 	- **e)** la teneur en protéines;
-	- **f)** la teneur en tout élément nutritif qui fait l’objet d’une déclaration visée au sous-alinéa (3)e)(ii);
+	- **f)** la teneur en tout élément nutritif qui fait l’objet d’une déclaration visée au sous-alinéa (3)e)(ii);
 	- **g)** la teneur en un polyalcool, en une vitamine ou en un minéral nutritif ajoutés au produit, à l’exclusion de l’iodure ajouté à du sel de table ou à du sel d’usage domestique général et du fluorure ajouté à de l’eau ou à de la glace préemballées;
 	- **h)** la teneur en une vitamine ou en un minéral nutritif déclaré comme constituant d’un ingrédient du produit, à l’exclusion de la farine;
-	- **i)** la teneur en tout élément nutritif visé à la colonne 1 des articles 4, 5, 7, 8, 10, 11 et 13 du tableau du présent article qui ne peut être exprimée par « 0 » au tableau de la valeur nutritive;
+	- **i)** la teneur en tout élément nutritif visé à la colonne 1 des articles 4, 5, 7, 8, 10, 11 et 13 à 15 du tableau du présent article qui ne peut être exprimée par « 0 » au tableau de la valeur nutritive;
 	- **j)** la mention « Source négligeable de (désignation de tout élément nutritif omis conformément au présent paragraphe) » ou, si le produit remplit les conditions du paragraphe B.01.455(3), la mention « Source négligeable d’autres éléments nutritifs ».
 
+- **(6.1)** Le tableau de la valeur nutritive d’un produit préemballé à portion individuelle autre qu’un repas préemballé peut ne contenir que les renseignements suivants :
+	- **a)** la portion indiquée;
+	- **b)** la valeur énergétique;
+	- **c)** la teneur en lipides;
+	- **d)** la teneur en glucides;
+	- **e)** la teneur en protéines;
+	- **f)** la teneur en tout élément nutritif qui fait l’objet d’une déclaration visée au sous-alinéa (3)e)(ii);
+	- **g)** la teneur en un polyalcool, en une vitamine ou en un minéral nutritif ajoutés au produit, à l’exclusion de l’iodure ajouté à du sel de table ou à du sel d’usage domestique général et du fluorure ajouté à de l’eau ou à de la glace préemballées;
+	- **h)** la teneur en tout élément nutritif visé à la colonne 1 des articles 4 et 5 du tableau du présent article et la somme des acides gras saturés et des acides gras *trans* si l’une de ces teneurs ou cette somme ne peut être exprimée par « 0 » au tableau de la valeur nutritive;
+	- **i)** la teneur en tout élément nutritif visé à la colonne 1 des articles 8 et 11 du tableau du présent article qui ne peut être exprimée par « 0 » au tableau de la valeur nutritive;
+	- **j)** l’énoncé interprétatif du % de la valeur quotidienne.
+
 - **(7)** Le paragraphe (1) ne s’applique pas aux produits préemballés suivants :
-	- **a)** tout produit destiné uniquement à être utilisé comme ingrédient dans la fabrication d’autres produits préemballés destinés à être vendus au consommateur au niveau du commerce de détail ou comme ingrédient dans la préparation d’aliments par une entreprise ou une institution commerciale ou industrielle;
-	- **b)** tout produit à portion multiple prêt à servir destiné uniquement à être servi par une entreprise ou une institution commerciale ou industrielle.
+	- **a)** tout produit destiné uniquement à être utilisé comme ingrédient dans la fabrication d’autres produits préemballés destinés à être vendus au consommateur au niveau du commerce de détail ou comme ingrédient dans la préparation d’aliments par une entreprise commerciale ou industrielle ou une institution;
+	- **b)** tout produit à portion multiple prêt à servir destiné uniquement à être servi par une entreprise commerciale ou industrielle ou une institution.
+
+- **(8)** Le tableau de la valeur nutritive figurant sur l’étiquette d’un produit préemballé, s’il correspond à l’une des figures 6.5(B), 6.6(B), 6.5.1(B), 6.6.1(B), 7.3(B), 7.4(B), 7.3.1(B), 7.4.1(B), 17.2(F) et (A), 17.2.1(F) et (A), 24.1(F) et (A) à 24.6(F) et (A), 25.1(B) à 25.6(B), 26.1(B) à 26.4(B), 32.1(F) et (A) ou 32.2(F) et (A) du Répertoire des modèles de TVN, n’a pas à indiquer l’énoncé interprétatif du % de la valeur quotidienne visé à l’article 16 du tableau du présent article.
 #### TABLEAU
 <table>
 <h4>Renseignements principaux</h4>
@@ -2236,23 +2365,33 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 </tr>
 <tr>
 <td>1</td>
-<td>Portion déterminée</td>
-<td>« Portion (portion déterminée) », « pour (portion déterminée) » ou « par (portion déterminée) »</td>
-<td>**(1)** La portion est exprimée en l’une ou l’autre des unités suivantes :
+<td>Portion indiquée</td>
+<td>« Portion (portion indiquée) », « pour (portion indiquée) » ou « par (portion indiquée) »</td>
+<td>La portion est exprimée :
 
-**a)** dans le cas de l’aliment qui est habituellement séparé en morceaux tel du gâteau, de la tarte ou de la pizza, une fraction de l’aliment;
+**a)** s’agissant d’un produit préemballé à portion individuelle :
 
-
-
-**b)** dans le cas de l’aliment visé au paragraphe B.01.002A(2), le contenant;
+**(i)** par emballage,
 
 
 
-**c)** dans les autres cas, en unité courante dont la quantité est mesurable à l’oeil nu, telle que millilitre, tasse, cuillère à soupe ou « (nom de l’unité de l’aliment) ».
+**(ii)** en grammes ou en millilitres tel qu’il est prévu aux sous-alinéas B.01.002A(2)a)(i) et (ii);
 
 
 
-**(2)** La portion exprimée conformément au paragraphe (1) est suivie de la portion exprimée en grammes ou en millilitres, tel qu’il est prévu à l’alinéa B.01.002A(1)b).
+
+
+**b)** s’agissant d’un produit préemballé à portions multiples, selon les unités ci-après indiquées à la colonne 3B du Tableau des quantités de référence :
+
+**(i)** la mesure domestique applicable au produit,
+
+
+
+**(ii)** la mesure métrique applicable au produit.
+
+
+
+
 
 </td>
 <td>**(1)** La portion exprimée en unité métrique est arrondie :
@@ -2275,26 +2414,26 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>2</td>
 <td>Valeur énergétique</td>
 <td>« Calories » ou « Calories totales »</td>
-<td>La valeur est exprimée en Calories par portion déterminée.</td>
+<td>La valeur est exprimée en Calories par portion indiquée.</td>
 <td>La valeur est arrondie :
 
-**a)** lorsqu’elle est inférieure à 5 Calories :
+**a)** lorsqu’elle est inférieure à 5 Calories :
 
-**(i)** si le produit répond aux critères mentionnés à la colonne 2 de l’article 1 du tableau suivant l’article B.01.513 en regard du sujet « sans énergie » visé à la colonne 1 : à 0 Calorie,
-
-
-
-**(ii)** dans les autres cas : au plus proche multiple de 1 Calorie;
+**(i)** si le produit répond aux critères mentionnés à la colonne 2 de l’article 1 du tableau suivant l’article B.01.513 en regard du sujet « sans énergie » visé à la colonne 1 : à 0 Calorie,
 
 
 
+**(ii)** dans les autres cas : au plus proche multiple de 1 Calorie;
 
 
-**b)** lorsqu’elle est égale ou supérieure à 5 Calories sans dépasser 50 Calories : au plus proche multiple de 5 Calories;
 
 
 
-**c)** lorsqu’elle est supérieure à 50 Calories : au plus proche multiple de 10 Calories.
+**b)** lorsqu’elle est égale ou supérieure à 5 Calories sans dépasser 50 Calories : au plus proche multiple de 5 Calories;
+
+
+
+**c)** lorsqu’elle est supérieure à 50 Calories : au plus proche multiple de 10 Calories.
 
 
 
@@ -2306,11 +2445,11 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>« Lipides » ou « Total des lipides »</td>
 <td>La teneur est exprimée :
 
-**a)** en grammes par portion déterminée;
+**a)** en grammes par portion indiquée;
 
 
 
-**b)** en pourcentage de la valeur quotidienne par portion déterminée.
+**b)** en pourcentage de la valeur quotidienne par portion indiquée.
 
 
 
@@ -2353,12 +2492,12 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>4</td>
 <td>Teneur en acides gras saturés</td>
 <td>« Acides gras saturés », « Lipides saturés » ou « saturés »</td>
-<td>La teneur est exprimée en grammes par portion déterminée.</td>
+<td>La teneur est exprimée en grammes par portion indiquée.</td>
 <td>La teneur est arrondie :
 
 **a)** lorsqu’elle est inférieure à 0,5 g :
 
-**(i)** si le produit répond aux critères mentionnés à la colonne 2 de l’article 18 du tableau suivant l’article B.01.513 en regard du sujet « sans acides gras saturés » visé à la colonne 1 : à 0 g,
+**(i)** si le produit répond aux critères mentionnés à la colonne 2 de l’article 18 du tableau suivant l’article B.01.513 en regard du sujet « sans acides gras saturés » visé à la colonne 1 : à 0 g,
 
 
 
@@ -2382,7 +2521,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>5</td>
 <td>Teneur en acides gras *trans*</td>
 <td>« Acides gras trans », « Lipides trans » ou « trans »</td>
-<td>La teneur est exprimée en grammes par portion déterminée.</td>
+<td>La teneur est exprimée en grammes par portion indiquée.</td>
 <td>La teneur est arrondie :
 
 **a)** lorsqu’elle est inférieure à 0,5 g :
@@ -2411,7 +2550,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>6</td>
 <td>Somme des acides gras saturés et des acides gras *trans*</td>
 <td>« Acides gras saturés + acides gras trans », « Lipides saturés + lipides trans » ou « saturés + trans »</td>
-<td>La somme est exprimée en pourcentage de la valeur quotidienne par portion déterminée.</td>
+<td>La somme est exprimée en pourcentage de la valeur quotidienne par portion indiquée.</td>
 <td>Le pourcentage est arrondi :
 
 **a)** lorsque les teneurs en acides gras saturés et en acides gras *trans* déclarées sont « 0 g » : à 0 %;
@@ -2428,7 +2567,17 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>7</td>
 <td>Teneur en cholestérol</td>
 <td>« Cholestérol »</td>
-<td>La teneur est exprimée en milligrammes par portion déterminée et peut aussi être exprimée en pourcentage de la valeur quotidienne par portion déterminée.</td>
+<td>La teneur :
+
+**a)** est exprimée en milligrammes par portion indiquée;
+
+
+
+**b)** peut aussi être exprimée en pourcentage de la valeur quotidienne par portion indiquée.
+
+
+
+</td>
 <td>**(1)** La teneur est arrondie :
 
 **a)** si le produit répond aux critères mentionnés à la colonne 2 de l’article 27 du tableau suivant l’article B.01.513 en regard du sujet « sans cholestérol » visé à la colonne 1 : à 0 mg;
@@ -2457,11 +2606,11 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>« Sodium »</td>
 <td>La teneur est exprimée :
 
-**a)** en milligrammes par portion déterminée;
+**a)** en milligrammes par portion indiquée;
 
 
 
-**b)** en pourcentage de la valeur quotidienne par portion déterminée.
+**b)** en pourcentage de la valeur quotidienne par portion indiquée.
 
 
 
@@ -2470,7 +2619,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **a)** lorsqu’elle est inférieure à 5 mg :
 
-**(i)** si le produit répond aux critères mentionnés à la colonne 2 de l’article 31 du tableau suivant l’article B.01.513 en regard du sujet « sans sodium ou sans sel » visé à la colonne 1 : à 0 mg,
+**(i)** si le produit répond aux critères mentionnés à la colonne 2 de l’article 31 du tableau suivant l’article B.01.513 en regard du sujet « sans sodium ou sans sel » visé à la colonne 1 : à 0 mg,
 
 
 
@@ -2504,34 +2653,14 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>9</td>
 <td>Teneur en glucides</td>
 <td>« Glucides » ou « Total des glucides »</td>
-<td>La teneur est exprimée :
-
-**a)** en grammes par portion déterminée;
-
-
-
-**b)** en pourcentage de la valeur quotidienne par portion déterminée.
-
-
-
-</td>
-<td>**(1)** La teneur est arrondie :
+<td>La teneur est exprimée en grammes par portion indiquée.</td>
+<td>La teneur est arrondie :
 
 **a)** lorsqu’elle est inférieure à 0,5 g : à 0 g;
 
 
 
 **b)** lorsqu’elle est égale ou supérieure à 0,5 g : au plus proche multiple de 1 g.
-
-
-
-**(2)** Le pourcentage est arrondi :
-
-**a)** lorsque la teneur déclarée est « 0 g » : à 0 %;
-
-
-
-**b)** dans les autres cas : au plus proche multiple de 1 %.
 
 
 
@@ -2543,11 +2672,11 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>« Fibres » ou « Fibres alimentaires »</td>
 <td>La teneur est exprimée :
 
-**a)** en grammes par portion déterminée;
+**a)** en grammes par portion indiquée;
 
 
 
-**b)** en pourcentage de la valeur quotidienne par portion déterminée.
+**b)** en pourcentage de la valeur quotidienne par portion indiquée.
 
 
 
@@ -2578,8 +2707,18 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>11</td>
 <td>Teneur en sucres</td>
 <td>« Sucres »</td>
-<td>La teneur est exprimée en grammes par portion déterminée.</td>
-<td>La teneur est arrondie :
+<td>La teneur est exprimée :
+
+**a)** en grammes par portion indiquée;
+
+
+
+**b)** en pourcentage de la valeur quotidienne par portion indiquée.
+
+
+
+</td>
+<td>**(1)** La teneur est arrondie :
 
 **a)** lorsqu’elle est inférieure à 0,5 g : à 0 g;
 
@@ -2589,13 +2728,23 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
+**(2)** Le pourcentage est arrondi :
+
+**a)** lorsque la teneur déclarée est « 0 g » : à 0 %;
+
+
+
+**b)** dans les autres cas : au plus proche multiple de 1 %.
+
+
+
 </td>
 </tr>
 <tr>
 <td>12</td>
 <td>Teneur en protéines</td>
 <td>« Protéines »</td>
-<td>La teneur est exprimée en grammes par portion déterminée.</td>
+<td>La teneur est exprimée en grammes par portion indiquée.</td>
 <td>La teneur est arrondie :
 
 **a)** lorsqu’elle est inférieure à 0,5 g : au plus proche multiple de 0,1 g;
@@ -2610,66 +2759,149 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 </tr>
 <tr>
 <td>13</td>
-<td>Teneur en :
+<td>Teneur en potassium</td>
+<td>« Potassium »</td>
+<td>La teneur est exprimée :
 
-**a)** vitamine A
-
-
-
-**b)** vitamine B
+**a)** en milligrammes par portion indiquée;
 
 
 
-**c)** calcium
-
-
-
-**d)** fer
+**b)** en pourcentage de la valeur quotidienne par portion indiquée.
 
 
 
 </td>
-<td>**a)** « Vitamine A » ou « Vit A »
+<td>**(1)** La teneur est arrondie :
 
-**b)** « Vitamine C » ou « Vit C »
-
-**c)** « Calcium »
-
-**d)** « Fer »
-
-</td>
-<td>La teneur est exprimée en pourcentage de la valeur quotidienne par portion déterminée</td>
-<td>Le pourcentage est arrondi :
-
-**a)** lorsqu’il est inférieur à 2 % :
-
-**(i)** si le produit contient moins de 1 % de la valeur quotidienne par quantité de référence et par portion déterminée : à 0 %,
+**a)** lorsqu’elle est inférieure à 5 mg : à 0 mg;
 
 
 
-**(ii)** dans les autres cas : à 2 %;
+**b)** lorsqu’elle est égale ou supérieure à 5 mg mais moins de 50 mg : au plus proche multiple de 10 mg;
 
 
 
-
-
-**b)** lorsqu’il est égal ou supérieur à 2 % sans dépasser 10 % : au plus proche multiple de 2 %;
-
-
-
-**c)** lorsqu’il est supérieur à 10 % sans dépasser 50 % : au plus proche multiple de 5 %;
+**c)** lorsqu’elle est égale ou supérieure à 50 mg mais moins de 250 mg : au plus proche multiple de 25 mg;
 
 
 
-**d)** lorsqu’il est supérieur à 50 % : au plus proche multiple de 10 %.
+**d)** lorsqu’elle est égale ou supérieure à 250 mg : au plus proche multiple de 50 mg.
+
+
+
+**(2)** Le pourcentage est arrondi :
+
+**a)** lorsque la teneur déclarée est « 0 mg » : à 0 %;
+
+
+
+**b)** dans les autres cas : au plus proche multiple de 1 %.
 
 
 
 </td>
 </tr>
+<tr>
+<td>14</td>
+<td>Teneur en calcium</td>
+<td>« Calcium »</td>
+<td>La teneur est exprimée :
+
+**a)** en milligrammes par portion indiquée;
+
+
+
+**b)** en pourcentage de la valeur quotidienne par portion indiquée.
+
+
+
+</td>
+<td>**(1)** La teneur est arrondie :
+
+**a)** lorsqu’elle est inférieure à 5 mg : à 0 mg;
+
+
+
+**b)** lorsqu’elle est égale ou supérieure à 5 mg mais moins de 50 mg : au plus proche multiple de 10 mg;
+
+
+
+**c)** lorsqu’elle est égale ou supérieure à 50 mg mais moins de 250 mg : au plus proche multiple de 25 mg;
+
+
+
+**d)** lorsqu’elle est égale ou supérieure à 250 mg : au plus proche multiple de 50 mg.
+
+
+
+**(2)** Le pourcentage est arrondi :
+
+**a)** lorsque la teneur déclarée est « 0 mg » : à 0 %;
+
+
+
+**b)** dans les autres cas : au plus proche multiple de 1 %.
+
+
+
+</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Teneur en fer</td>
+<td>« Fer »</td>
+<td>La teneur est exprimée :
+
+**a)** en milligrammes par portion indiquée;
+
+
+
+**b)** en pourcentage de la valeur quotidienne par portion indiquée.
+
+
+
+</td>
+<td>**(1)** La teneur est arrondie :
+
+**a)** lorsqu’elle est inférieure à 0,05 mg : à 0 mg;
+
+
+
+**b)** lorsqu’elle est égale ou supérieure à 0,05 mg mais moins de 0,5 mg : au plus proche multiple de 0,1 mg;
+
+
+
+**c)** lorsqu’elle est égale ou supérieure à 0,5 mg mais moins de 2,5 mg : au plus proche multiple de 0,25 mg;
+
+
+
+**d)** lorsqu’elle est égale ou supérieure à 2,5 mg : au plus proche multiple de 0,5 mg.
+
+
+
+**(2)** Le pourcentage est arrondi :
+
+**a)** lorsque la teneur déclarée est « 0 mg » : à 0 %;
+
+
+
+**b)** dans les autres cas : au plus proche multiple de 1 %.
+
+
+
+</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Énoncé interprétatif du % de la valeur quotidienne</td>
+<td>« *5% ou moins c’est peu, 15% ou plus c’est beaucoup »</td>
+<td>[non-applicable]</td>
+<td>Le sous-titre « % valeur quotidienne » ou « % VQ » est suivi d’un astérisque qui signale l’énoncé interprétatif du % de la valeur quotidienne figurant au tableau de la valeur nutritive.</td>
+</tr>
 </table>
 
-> DORS/2003-11, art. 20; DORS/2007-176, art. 5.
+> DORS/2003-11, art. 20; DORS/2007-176, art. 5; DORS/2016-305, art. 18, 73 et 75(F).
 
 
 
@@ -2680,25 +2912,29 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **B.01.402** 
 
-- **(1)** Le tableau de la valeur nutritive peut également indiquer les renseignements visés à la colonne 1 du tableau du présent article.
+- **(1)** Le tableau de la valeur nutritive peut également indiquer les renseignements visés à la colonne 1 du tableau du présent article.
 
-- **(2)** Les renseignements visés à la colonne 1 du tableau du présent article qui sont présentés dans le tableau de la valeur nutritive sont exprimés au moyen de la nomenclature indiquée dans la colonne 2, de l’unité indiquée dans la colonne 3 et des règles d’écriture indiquées dans la colonne 4.
+- **(2)** Les renseignements visés à la colonne 1 du tableau du présent article qui sont présentés dans le tableau de la valeur nutritive sont exprimés au moyen de la nomenclature indiquée dans la colonne 2, de l’unité indiquée dans la colonne 3 et des règles d’écriture indiquées dans la colonne 4.
+
+- **(2.1)** Pour l’application du paragraphe (2), la portion indiquée qui est exprimée en unité métrique dans le tableau de la valeur nutritive d’un produit préemballé sert de fondement pour établir les renseignements relatifs à la valeur énergétique et aux éléments nutritifs qui figurent au tableau de la valeur nutritive du produit.
+
+- **(2.2)** Le pourcentage de la valeur quotidienne d’une vitamine ou d’un minéral nutritif qui, aux termes du paragraphe (2), figure dans le tableau de la valeur nutritive d’un produit préemballé est établi sur la base de la teneur en poids de la vitamine ou du minéral nutritif dans le produit, par portion indiquée, une fois la teneur arrondie selon les règles d’écriture applicables prévues à la colonne 4 du tableau du présent article.
 
 - **(3)** Le tableau de la valeur nutritive indique la teneur en acides gras polyinsaturés oméga-6, en polyinsaturés oméga-3 et en monoinsaturés dans l’un ou l’autre des cas suivants :
 	- **a)** la teneur en un de ces groupes d’acides gras ou la teneur en acides gras polyinsaturés est indiquée dans le tableau ou sur l’étiquette du produit préemballé ou encore dans l’annonce d’un tel produit faite par le fabricant du produit ou sous ses ordres;
 	- **b)** la teneur en un acide gras est indiquée sur l’étiquette du produit préemballé ou encore dans l’annonce d’un tel produit faite par le fabricant du produit ou sous ses ordres.
 
-- **(4)** Lorsqu’une déclaration expresse ou implicite incluant des renseignements visés à la colonne 1 du tableau du présent article est faite sur l’étiquette du produit préemballé ou encore dans l’annonce d’un tel produit faite par le fabricant du produit ou sous ses ordres, ces renseignements sont aussi mentionnés dans le tableau de la valeur nutritive.
+- **(4)** Lorsqu’une déclaration expresse ou implicite incluant des renseignements visés à la colonne 1 du tableau du présent article est faite sur l’étiquette du produit préemballé ou encore dans l’annonce d’un tel produit faite par le fabricant du produit ou sous ses ordres, ces renseignements sont aussi mentionnés dans le tableau de la valeur nutritive.
 
-- **(5)** Le tableau de la valeur nutritive du produit préemballé indique la teneur en potassium si le produit contient des sels de potassium ajoutés et si l’étiquette du produit ou encore l’annonce du produit faite par le fabricant du produit ou sous ses ordres contient une mention ou une allégation figurant à la colonne 4 des articles 31 à 36 du tableau suivant l’article B.01.513 en regard des sujets « sans sodium ou sans sel », « faible teneur en sodium ou en sel », « teneur réduite en sodium ou en sel », « moins de sodium ou de sel », « non additionné de sel ou de sodium » ou « légèrement salé » visés à la colonne 1.
+- **(5)** [Abrogé, DORS/2016-305, art. 19]
 
 - **(6)** Le tableau de la valeur nutritive du produit préemballé indique la teneur en un polyalcool, en une vitamine ou en un minéral nutritif ajoutés au produit préemballé, à l’exclusion de l’iodure ajouté à du sel de table ou d’usage domestique général et du fluorure ajouté à de l’eau ou à de la glace préemballées.
 
 - **(7)** Le tableau de la valeur nutritive de tout produit préemballé dont un ingrédient, autre que de la farine, contient une vitamine ou un minéral nutritif déclaré comme constituant de cet ingrédient en indique la teneur.
 
-- **(8)** Malgré le paragraphe (1) et l’article 1 du tableau du présent article, le tableau de la valeur nutritive ne peut contenir de renseignements concernant la quantité de portions par contenant si la portion déterminée est exprimée en tasses ou en cuillères à soupe.
+- **(8)** Malgré le paragraphe (1) et l’article 1 du tableau du présent article, le tableau de la valeur nutritive ne peut contenir de renseignements concernant le nombre de portions par emballage si la portion indiquée est exprimée en tasses ou en cuillères à soupe.
 
-- **(9)** Si les renseignements visés à la colonne 1 du tableau du présent article paraissent dans le tableau de la valeur nutritive, ils figurent :
+- **(9)** Si les renseignements visés à la colonne 1 du tableau du présent article paraissent dans le tableau de la valeur nutritive, ils figurent :
 	- **a)** soit en français et en anglais;
 	- **b)** soit dans l’une de ces langues, si, conformément aux paragraphes B.01.012(3) ou (7), les renseignements devant être indiqués sur l’étiquette du produit aux termes du présent règlement peuvent l’être uniquement dans la langue en cause et qu’ils y figurent dans celle-ci.
 #### TABLEAU
@@ -2719,8 +2955,8 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 </tr>
 <tr>
 <td>1</td>
-<td>Portions par contenant</td>
-<td>« Portions par contenant » ou « (nombre d’unités) par contenant »</td>
+<td>Portions par emballage</td>
+<td>« Portions par contenant », « (nombre d’unités) par contenant », « Portions par emballage », « (nombre d’unités) par emballage », « portions par (type d’emballage) » ou « (nombre d’unités) par (type d’emballage) »</td>
 <td>La quantité est exprimée en nombre de portions.</td>
 <td>**(1)** La quantité est arrondie :
 
@@ -2746,72 +2982,18 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>2</td>
 <td>Valeur énergétique</td>
 <td>« kilojoules » ou « kJ »</td>
-<td>La valeur est exprimée en kilojoules par portion déterminée.</td>
-<td>La valeur est arrondie au plus proche multiple de 10 kilojoules.</td>
+<td>La valeur est exprimée en kilojoules par portion indiquée.</td>
+<td>La valeur est arrondie au plus proche multiple de 10 kilojoules.</td>
 </tr>
 <tr>
-<td>3</td>
-<td>Valeur énergétique provenant des lipides</td>
-<td>« Calories provenant des lipides », « Calories provenant du total des lipides » ou « Calories des lipides »</td>
-<td>La valeur est exprimée en Calories par portion déterminée.</td>
-<td>La valeur est arrondie :
-
-**a)** lorsqu’elle est inférieure à 5 Calories :
-
-**(i)** si la teneur en lipides déclarée dans le tableau de la valeur nutritive est « 0 g » : à 0 Calorie,
-
-
-
-**(ii)** dans les autres cas : au plus proche multiple de 1 Calorie;
-
-
-
-
-
-**b)** lorsqu’elle est égale ou supérieure à 5 Calories sans dépasser 50 Calories : au plus proche multiple de 5 Calories;
-
-
-
-**c)** lorsqu’elle est supérieure à 50 Calories : au plus proche multiple de 10 Calories.
-
-
-
-</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Valeur énergétique provenant de la somme des acides gras saturés et des acides gras trans</td>
-<td>« Calories des acides gras saturés et trans », « Calories des lipides saturés et trans » ou « Calories des saturés et des trans »</td>
-<td>La valeur est exprimée en Calories par portion déterminée.</td>
-<td>La valeur est arrondie :
-
-**a)** lorsqu’elle est inférieure à 5 Calories :
-
-**(i)** si la teneur en acides gras saturés et en acides gras *trans* déclarée dans le tableau de la valeur nutritive est « 0 g » : à 0 Calorie,
-
-
-
-**(ii)** dans les autres cas : au plus proche multiple de 1 Calorie;
-
-
-
-
-
-**b)** lorsqu’elle est égale ou supérieure à 5 Calories sans dépasser 50 Calories : au plus proche multiple de 5 Calories;
-
-
-
-**c)** lorsqu’elle est supérieure à 50 Calories : au plus proche multiple de 10 Calories.
-
-
-
-</td>
+<td>3 et 4</td>
+<td>[Abrogés, DORS/2016-305, art. 19]</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Teneur en acides gras polyinsaturés</td>
 <td>« Acides gras polyinsaturés », « Lipides polyinsaturés » ou « polyinsaturés »</td>
-<td>La teneur est exprimée en grammes par portion déterminée.</td>
+<td>La teneur est exprimée en grammes par portion indiquée.</td>
 <td>La teneur est arrondie :
 
 **a)** lorsqu’elle est inférieure à 1 g : au plus proche multiple de 0,1 g;
@@ -2836,7 +3018,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 **(2)** Dans les autres cas : « Acides gras polyinsaturés oméga-6 », « Lipides polyinsaturés oméga-6 » ou « polyinsaturés oméga-6 »
 
 </td>
-<td>La teneur est exprimée en grammes par portion déterminée.</td>
+<td>La teneur est exprimée en grammes par portion indiquée.</td>
 <td>La teneur est arrondie :
 
 **a)** lorsqu’elle est inférieure à 1 g : au plus proche multiple de 0,1 g;
@@ -2861,7 +3043,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 **(2)** Dans les autres cas : « Acides gras polyinsaturés oméga-3 », « Lipides polyinsaturés oméga-3 » ou « polyinsaturés oméga-3 »
 
 </td>
-<td>La teneur est exprimée en grammes par portion déterminée.</td>
+<td>La teneur est exprimée en grammes par portion indiquée.</td>
 <td>La teneur est arrondie :
 
 **a)** lorsqu’elle est inférieure à 1 g : au plus proche multiple de 0,1 g;
@@ -2882,7 +3064,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>8</td>
 <td>Teneur en acides gras monoinsaturés</td>
 <td>« Acides gras monoinsaturés », « Lipides monoinsaturés » ou « monoinsaturés »</td>
-<td>La teneur est exprimée en grammes par portion déterminée.</td>
+<td>La teneur est exprimée en grammes par portion indiquée.</td>
 <td>La teneur est arrondie :
 
 **a)** lorsqu’elle est inférieure à 1 g : au plus proche multiple de 0,1 g;
@@ -2901,58 +3083,13 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 </tr>
 <tr>
 <td>9</td>
-<td>Teneur en potassium</td>
-<td>« Potassium »</td>
-<td>La teneur est exprimée :
-
-**a)** en milligrammes par portion déterminée;
-
-
-
-**b)** en pourcentage de la valeur quotidienne par portion déterminée.
-
-
-
-</td>
-<td>**(1)** La teneur est arrondie :
-
-**a)** lorsqu’elle est inférieure à 5 mg :
-
-**(i)** si le produit contient moins de 5 mg de potassium par quantité de référence et par portion déterminée : à 0 mg,
-
-
-
-**(ii)** dans les autres cas : au plus proche multiple de 1 mg;
-
-
-
-
-
-**b)** lorsqu’elle est égale ou supérieure à 5 mg sans dépasser 140 mg : au plus proche multiple de 5 mg;
-
-
-
-**c)** lorsqu’elle est supérieure à 140 mg : au plus proche multiple de 10 mg.
-
-
-
-**(2)** Le pourcentage est arrondi :
-
-**a)** lorsque la teneur déclarée est « 0 mg » : à 0 %;
-
-
-
-**b)** dans les autres cas : au plus proche multiple de 1 %.
-
-
-
-</td>
+<td>[Abrogé, DORS/2016-305, art. 19]</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Teneur en fibres solubles</td>
 <td>« Fibres solubles »</td>
-<td>La teneur est exprimée en grammes par portion déterminée.</td>
+<td>La teneur est exprimée en grammes par portion indiquée.</td>
 <td>La teneur est arrondie :
 
 **a)** lorsqu’elle est inférieure à 0,5 g : à 0 g;
@@ -2969,7 +3106,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>11</td>
 <td>Teneur en fibres insolubles</td>
 <td>« Fibres insolubles »</td>
-<td>La teneur est exprimée en grammes par portion déterminée.</td>
+<td>La teneur est exprimée en grammes par portion indiquée.</td>
 <td>La teneur est arrondie :
 
 **a)** lorsqu’elle est inférieure à 0,5 g : à 0 g;
@@ -2990,7 +3127,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 **(2)** Dans les autres cas : « Polyalcools » ou « Polyols »
 
 </td>
-<td>La teneur est exprimée en grammes par portion déterminée.</td>
+<td>La teneur est exprimée en grammes par portion indiquée.</td>
 <td>La teneur est arrondie :
 
 **a)** lorsqu’elle est inférieure à 0,5 g : à 0 g;
@@ -3007,7 +3144,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>13</td>
 <td>Teneur en amidon</td>
 <td>« Amidon »</td>
-<td>La teneur est exprimée en grammes par portion déterminée.</td>
+<td>La teneur est exprimée en grammes par portion indiquée.</td>
 <td>La teneur est arrondie :
 
 **a)** lorsqu’elle est inférieure à 0,5 g : à 0 g;
@@ -3022,160 +3159,44 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 </tr>
 <tr>
 <td>14</td>
-<td>Teneur en :
+<td>Teneur en vitamine A</td>
+<td>« Vitamine A » ou « Vit A »</td>
+<td>La teneur est exprimée :
 
-**a)** vitamine D
-
-
-
-**b)** vitamine E
+**a)** en microgrammes par portion indiquée;
 
 
 
-**c)** vitamine K
-
-
-
-**d)** thiamine
-
-
-
-**e)** riboflavine
-
-
-
-**f)** niacine
-
-
-
-**g)** vitamine B<sub>6</sub>
-
-
-
-**h)** folate
-
-
-
-**i)** vitamine B<sub>12</sub>
-
-
-
-**j)** biotine
-
-
-
-**k)** acide pantothénique
-
-
-
-**l)** phosphore
-
-
-
-**m)** iodure
-
-
-
-**n)** magnésium
-
-
-
-**o)** zinc
-
-
-
-**p)** sélénium
-
-
-
-**q)** Cuivre
-
-
-
-**r)** Manganèse
-
-
-
-**s)** Chrome
-
-
-
-**t)** Molybdène
-
-
-
-**u)** Chlorure
+**b)** en pourcentage de la valeur quotidienne par portion indiquée.
 
 
 
 </td>
-<td>**a)** « Vitamine D » ou « Vit D »
+<td>**(1)** La teneur est arrondie :
 
-**b)** « Vitamine E » ou « Vit E »
-
-**c)** « Vitamine K » ou « Vit K »
-
-**d)** « Thiamine », « Thiamine (vitamine B<sub>1</sub>) » ou « Thiamine (vit B<sub>1</sub>) »
-
-**e)** « Riboflavine », « Riboflavine (vitamine B<sub>2</sub>) » ou « Riboflavine (vit B<sub>2</sub>) »
-
-**f)** « Niacine »
-
-**g)** « Vitamine B<sub>6</sub> » ou « Vit B<sub>6</sub> »
-
-**h)** « Folate »
-
-**i)** « Vitamine B<sub>12</sub> » ou « Vit B<sub>12</sub> »
-
-**j)** « Biotine »
-
-**k)** « Acide pantothénique » ou « Pantothénate »
-
-**l)** « Phosphore »
-
-**m)** « Iodure » ou « Iode »
-
-**n)** « Magnésium »
-
-**o)** « Zinc »
-
-**p)** « Sélénium »
-
-**q)** « Cuivre »
-
-**r)** « Manganèse »
-
-**s)** « Chrome »
-
-**t)** « Molybdène »
-
-**u)** « Chlorure »
-
-</td>
-<td>La teneur est exprimée en pourcentage de la valeur quotidienne par portion déterminée.</td>
-<td>Le pourcentage est arrondi :
-
-**a)** lorsqu’il est inférieur à 2 % :
-
-**(i)** si le produit contient moins de 1 % de la valeur quotidienne par quantité de référence et par portion déterminée : à 0 %,
+**a)** lorsqu’elle est inférieure à 5 µg : à 0 µg;
 
 
 
-**(ii)** dans les autres cas : au plus proche multiple de 2 %;
+**b)** lorsqu’elle est égale ou supérieure à 5 µg mais moins de 50 µg : au plus proche multiple de 10 µg;
 
 
 
-
-
-**b)** lorsqu’il est égal ou supérieur à 2 % sans dépasser 10 % : au plus proche multiple de 2 %;
-
-
-
-**c)** lorsqu’il est supérieur à 10 % sans dépasser 50 % : au plus proche multiple de 5 %;
+**c)** lorsqu’elle est égale ou supérieure à 50 µg mais moins de 250 µg : au plus proche multiple de 50 µg;
 
 
 
-**d)** lorsqu’il est supérieur à 50 % : au plus proche multiple de 10 %.
+**d)** lorsqu’elle est égale ou supérieure à 250 µg : au plus proche multiple de 100 µg.
+
+
+
+**(2)** Le pourcentage est arrondi :
+
+**a)** lorsque la teneur déclarée est « 0 µg » : à 0 %;
+
+
+
+**b)** dans les autres cas : au plus proche multiple de 1 %.
 
 
 
@@ -3183,16 +3204,44 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 </tr>
 <tr>
 <td>15</td>
-<td>Base des pourcentages des valeurs quotidiennes</td>
-<td>Une des quatre notes complémentaires du sous-titre « Valeur quotidienne » dans les figures 18.1(F) et (A) de l’annexe L.</td>
-<td></td>
-<td>Dans la version de la note complémentaire qui énumère les éléments nutritifs :
+<td>Teneur en vitamine C</td>
+<td>« Vitamine C » ou « Vit C »</td>
+<td>La teneur est exprimée :
 
-**a)** la valeur quotidienne de potassium n’est indiquée que si la teneur en potassium est déclarée dans le tableau de la valeur nutritive;
-
+**a)** en milligrammes par portion indiquée;
 
 
-**b)** la valeur quotidienne de cholestérol n’est indiquée que si la teneur en cholestérol est déclarée dans le tableau de la valeur nutritive en pourcentage de la valeur quotidienne par portion déterminée.
+
+**b)** en pourcentage de la valeur quotidienne par portion indiquée.
+
+
+
+</td>
+<td>**(1)** La teneur est arrondie :
+
+**a)** lorsqu’elle est inférieure à 0,1 mg : à 0 mg;
+
+
+
+**b)** lorsqu’elle est égale ou supérieure à 0,1 mg mais moins de 1 mg : au plus proche multiple de 0,2 mg;
+
+
+
+**c)** lorsqu’elle est égale ou supérieure à 1 mg mais moins de 5 mg : au plus proche multiple de 0,5 mg;
+
+
+
+**d)** lorsqu’elle est égale ou supérieure à 5 mg : au plus proche multiple de 1 mg.
+
+
+
+**(2)** Le pourcentage est arrondi :
+
+**a)** lorsque la teneur déclarée est « 0 mg » : à 0 %;
+
+
+
+**b)** dans les autres cas : au plus proche multiple de 1 %.
 
 
 
@@ -3200,37 +3249,1003 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 </tr>
 <tr>
 <td>16</td>
-<td>Facteurs de conversion d’énergie</td>
-<td>« Calories par gramme », « Lipides 9 », « Glucides 4 » et « Protéines 4 »</td>
-<td></td>
-<td></td>
+<td>Teneur en vitamine D</td>
+<td>« Vitamine D » ou « Vit D »</td>
+<td>La teneur est exprimée :
+
+**a)** en microgrammes par portion indiquée;
+
+
+
+**b)** en pourcentage de la valeur quotidienne par portion indiquée.
+
+
+
+</td>
+<td>**(1)** La teneur est arrondie :
+
+**a)** lorsqu’elle est inférieure à 0,1 µg : à 0 µg;
+
+
+
+**b)** lorsqu’elle est égale ou supérieure à 0,1 µg mais moins de 1 µg : au plus proche multiple de 0,2 µg;
+
+
+
+**c)** lorsqu’elle est égale ou supérieure à 1 µg mais moins de 5 µg : au plus proche multiple de 0,5 µg;
+
+
+
+**d)** lorsqu’elle est égale ou supérieure à 5 µg : au plus proche multiple de 1 µg.
+
+
+
+**(2)** Le pourcentage est arrondi :
+
+**a)** lorsque la teneur déclarée est « 0 µg » : à 0 %;
+
+
+
+**b)** dans les autres cas : au plus proche multiple de 1 %.
+
+
+
+</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Teneur en vitamine E</td>
+<td>« Vitamine E » ou « Vit E »</td>
+<td>La teneur est exprimée :
+
+**a)** en milligrammes par portion indiquée;
+
+
+
+**b)** en pourcentage de la valeur quotidienne par portion indiquée.
+
+
+
+</td>
+<td>**(1)** La teneur est arrondie :
+
+**a)** lorsqu’elle est inférieure à 0,05 mg : à 0 mg;
+
+
+
+**b)** lorsqu’elle est égale ou supérieure à 0,05 mg mais moins de 0,5 mg : au plus proche multiple de 0,1 mg;
+
+
+
+**c)** lorsqu’elle est égale ou supérieure à 0,5 mg mais moins de 2,5 mg : au plus proche multiple de 0,25 mg;
+
+
+
+**d)** lorsqu’elle est égale ou supérieure à 2,5 mg : au plus proche multiple de 0,5 mg.
+
+
+
+**(2)** Le pourcentage est arrondi :
+
+**a)** lorsque la teneur déclarée est « 0 mg » : à 0 %;
+
+
+
+**b)** dans les autres cas : au plus proche multiple de 1 %.
+
+
+
+</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Teneur en vitamine K</td>
+<td>« Vitamine K » ou « Vit K »</td>
+<td>La teneur est exprimée :
+
+**a)** en microgrammes par portion indiquée;
+
+
+
+**b)** en pourcentage de la valeur quotidienne par portion indiquée.
+
+
+
+</td>
+<td>**(1)** La teneur est arrondie :
+
+**a)** lorsqu’elle est inférieure à 0,05 µg : à 0 µg;
+
+
+
+**b)** lorsqu’elle est égale ou supérieure à 0,05 µg mais moins de 0,5 µg : au plus proche multiple de 0,1 µg;
+
+
+
+**c)** lorsqu’elle est égale ou supérieure à 0,5 µg mais moins de 2,5 µg : au plus proche multiple de 0,25 µg;
+
+
+
+**d)** lorsqu’elle est égale ou supérieure à 2,5 µg : au plus proche multiple de 0,5 µg.
+
+
+
+**(2)** Le pourcentage est arrondi :
+
+**a)** lorsque la teneur déclarée est « 0 µg » : à 0 %;
+
+
+
+**b)** dans les autres cas : au plus proche multiple de 1 %.
+
+
+
+</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Teneur en thiamine</td>
+<td>« Thiamine », « Thiamine (vitamine B<sub>1</sub>) » ou « Thiamine (vit B<sub>1</sub>) »</td>
+<td>La teneur est exprimée :
+
+**a)** en milligrammes par portion indiquée;
+
+
+
+**b)** en pourcentage de la valeur quotidienne par portion indiquée.
+
+
+
+</td>
+<td>**(1)** La teneur est arrondie :
+
+**a)** lorsqu’elle est inférieure à 0,005 mg : à 0 mg;
+
+
+
+**b)** lorsqu’elle est égale ou supérieure à 0,005 mg mais moins de 0,05 mg : au plus proche multiple de 0,01 mg;
+
+
+
+**c)** lorsqu’elle est égale ou supérieure à 0,05 mg mais moins de 0,25 mg : au plus proche multiple de 0,025 mg;
+
+
+
+**d)** lorsqu’elle est égale ou supérieure à 0,25 mg : au plus proche multiple de 0,05 mg.
+
+
+
+**(2)** Le pourcentage est arrondi :
+
+**a)** lorsque la teneur déclarée est « 0 mg » : à 0 %;
+
+
+
+**b)** dans les autres cas : au plus proche multiple de 1 %.
+
+
+
+</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Teneur en riboflavine</td>
+<td>« Riboflavine », « Riboflavine (vitamine B<sub>2</sub>) » ou « Riboflavine (vit B<sub>2</sub>) »</td>
+<td>La teneur est exprimée :
+
+**a)** en milligrammes par portion indiquée;
+
+
+
+**b)** en pourcentage de la valeur quotidienne par portion indiquée.
+
+
+
+</td>
+<td>**(1)** La teneur est arrondie :
+
+**a)** lorsqu’elle est inférieure à 0,005 mg : à 0 mg;
+
+
+
+**b)** lorsqu’elle est égale ou supérieure à 0,005 mg mais moins de 0,05 mg : au plus proche multiple de 0,01 mg;
+
+
+
+**c)** lorsqu’elle est égale ou supérieure à 0,05 mg mais moins de 0,25 mg : au plus proche multiple de 0,025 mg;
+
+
+
+**d)** lorsqu’elle est égale ou supérieure à 0,25 mg : au plus proche multiple de 0,05 mg.
+
+
+
+**(2)** Le pourcentage est arrondi :
+
+**a)** lorsque la teneur déclarée est « 0 mg » : à 0 %;
+
+
+
+**b)** dans les autres cas : au plus proche multiple de 1 %.
+
+
+
+</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Teneur en niacine</td>
+<td>« Niacine »</td>
+<td>La teneur est exprimée :
+
+**a)** en milligrammes par portion indiquée;
+
+
+
+**b)** en pourcentage de la valeur quotidienne par portion indiquée.
+
+
+
+</td>
+<td>**(1)** La teneur est arrondie :
+
+**a)** lorsqu’elle est inférieure à 0,05 mg : à 0 mg;
+
+
+
+**b)** lorsqu’elle est égale ou supérieure à 0,05 mg mais moins de 0,5 mg : au plus proche multiple de 0,1 mg;
+
+
+
+**c)** lorsqu’elle est égale ou supérieure à 0,5 mg mais moins de 2,5 mg : au plus proche multiple de 0,25 mg;
+
+
+
+**d)** lorsqu’elle est égale ou supérieure à 2,5 mg : au plus proche multiple de 0,5 mg.
+
+
+
+**(2)** Le pourcentage est arrondi :
+
+**a)** lorsque la teneur déclarée est « 0 mg » : à 0 %;
+
+
+
+**b)** dans les autres cas : au plus proche multiple de 1 %.
+
+
+
+</td>
+</tr>
+<tr>
+<td>22</td>
+<td>Teneur en vitamine B<sub>6</sub></td>
+<td>« Vitamine B<sub>6</sub> » ou « Vit B<sub>6</sub> »</td>
+<td>La teneur est exprimée :
+
+**a)** en milligrammes par portion indiquée;
+
+
+
+**b)** en pourcentage de la valeur quotidienne par portion indiquée.
+
+
+
+</td>
+<td>**(1)** La teneur est arrondie :
+
+**a)** lorsqu’elle est inférieure à 0,005 mg : à 0 mg;
+
+
+
+**b)** lorsqu’elle est égale ou supérieure à 0,005 mg mais moins de 0,05 mg : au plus proche multiple de 0,01 mg;
+
+
+
+**c)** lorsqu’elle est égale ou supérieure à 0,05 mg mais moins de 0,25 mg : au plus proche multiple de 0,025 mg;
+
+
+
+**d)** lorsqu’elle est égale ou supérieure à 0,25 mg : au plus proche multiple de 0,05 mg.
+
+
+
+**(2)** Le pourcentage est arrondi :
+
+**a)** lorsque la teneur déclarée est « 0 mg » : à 0 %;
+
+
+
+**b)** dans les autres cas : au plus proche multiple de 1 %.
+
+
+
+</td>
+</tr>
+<tr>
+<td>23</td>
+<td>Teneur en folate</td>
+<td>« Folate »</td>
+<td>La teneur est exprimée :
+
+**a)** en microgrammes d’équivalents de folate alimentaire (ÉFA) par portion indiquée;
+
+
+
+**b)** en pourcentage de la valeur quotidienne par portion indiquée.
+
+
+
+</td>
+<td>**(1)** La teneur est arrondie :
+
+**a)** lorsqu’elle est inférieure à 1 µg ÉFA : à 0 µg ÉFA;
+
+
+
+**b)** lorsqu’elle est égale ou supérieure à 1 µg ÉFA mais moins de 10 µg ÉFA : au plus proche multiple de 2 µg ÉFA;
+
+
+
+**c)** lorsqu’elle est égale ou supérieure à 10 µg ÉFA mais moins de 50 µg ÉFA : au plus proche multiple de 5 µg ÉFA;
+
+
+
+**d)** lorsqu’elle est égale ou supérieure à 50 µg ÉFA : au plus proche multiple de 10 µg ÉFA.
+
+
+
+**(2)** Le pourcentage est arrondi :
+
+**a)** lorsque la teneur déclarée est « 0 µg ÉFA » : à 0 %;
+
+
+
+**b)** dans les autres cas : au plus proche multiple de 1 %.
+
+
+
+</td>
+</tr>
+<tr>
+<td>24</td>
+<td>Teneur en vitamine B<sub>12</sub></td>
+<td>« Vitamine B<sub>12</sub> » ou « Vit B<sub>12</sub> »</td>
+<td>La teneur est exprimée :
+
+**a)** en microgrammes par portion indiquée;
+
+
+
+**b)** en pourcentage de la valeur quotidienne par portion indiquée.
+
+
+
+</td>
+<td>**(1)** La teneur est arrondie :
+
+**a)** lorsqu’elle est inférieure à 0,005 µg : à 0 µg;
+
+
+
+**b)** lorsqu’elle est égale ou supérieure à 0,005 µg mais moins de 0,05 µg : au plus proche multiple de 0,01 µg;
+
+
+
+**c)** lorsqu’elle est égale ou supérieure à 0,05 µg mais moins de 0,25 µg : au plus proche multiple de 0,025 µg;
+
+
+
+**d)** lorsqu’elle est égale ou supérieure à 0,25 µg : au plus proche multiple de 0,05 µg.
+
+
+
+**(2)** Le pourcentage est arrondi :
+
+**a)** lorsque la teneur déclarée est « 0 µg » : à 0 %;
+
+
+
+**b)** dans les autres cas : au plus proche multiple de 1 %.
+
+
+
+</td>
+</tr>
+<tr>
+<td>25</td>
+<td>Teneur en biotine</td>
+<td>« Biotine »</td>
+<td>La teneur est exprimée :
+
+**a)** en microgrammes par portion indiquée;
+
+
+
+**b)** en pourcentage de la valeur quotidienne par portion indiquée.
+
+
+
+</td>
+<td>**(1)** La teneur est arrondie :
+
+**a)** lorsqu’elle est inférieure à 0,05 µg : à 0 µg;
+
+**b)** lorsqu’elle est égale ou supérieure à 0,05 µg mais moins de 0,5 µg : au plus proche multiple de 0,1 µg;
+
+**c)** lorsqu’elle est égale ou supérieure à 0,5 µg mais moins de 2,5 µg : au plus proche multiple de 0,25 µg;
+
+**d)** lorsqu’elle est égale ou supérieure à 2,5 µg : au plus proche multiple de 0,5 µg.
+
+**(2)** Le pourcentage est arrondi :
+
+**a)** lorsque la teneur déclarée est « 0 µg » : à 0 %;
+
+**b)** dans les autres cas : au plus proche multiple de 1 %.
+
+</td>
+</tr>
+<tr>
+<td>26</td>
+<td>Teneur en acide pantothénique</td>
+<td>« Acide pantothénique » ou « Pantothénate »</td>
+<td>La teneur est exprimée :
+
+**a)** en milligrammes par portion indiquée;
+
+**b)** en pourcentage de la valeur quotidienne par portion indiquée.
+
+</td>
+<td>**(1)** La teneur est arrondie :
+
+**a)** lorsqu’elle est inférieure à 0,01 mg : à 0 mg;
+
+
+
+**b)** lorsqu’elle est égale ou supérieure à 0,01 mg mais moins de 0,1 mg : au plus proche multiple de 0,02 mg;
+
+
+
+**c)** lorsqu’elle est égale ou supérieure à 0,1 mg mais moins de 0,5 mg : au plus proche multiple de 0,05 mg;
+
+
+
+**d)** lorsqu’elle est égale ou supérieure à 0,5 mg : au plus proche multiple de 0,1 mg.
+
+
+
+**(2)** Le pourcentage est arrondi :
+
+**a)** lorsque la teneur déclarée est « 0 mg » : à 0 %;
+
+
+
+**b)** dans les autres cas : au plus proche multiple de 1 %.
+
+
+
+</td>
+</tr>
+<tr>
+<td>27</td>
+<td>Teneur en choline</td>
+<td>« Choline »</td>
+<td>La teneur est exprimée :
+
+**a)** en milligrammes par portion indiquée;
+
+
+
+**b)** en pourcentage de la valeur quotidienne par portion indiquée.
+
+
+
+</td>
+<td>**(1)** La teneur est arrondie :
+
+**a)** lorsqu’elle est inférieure à 1 mg : à 0 mg;
+
+
+
+**b)** lorsqu’elle est égale ou supérieure à 1 mg mais moins de 10 mg : au plus proche multiple de 2 mg;
+
+
+
+**c)** lorsqu’elle est égale ou supérieure à 10 mg mais moins de 50 mg : au plus proche multiple de 5 mg;
+
+
+
+**d)** lorsqu’elle est égale ou supérieure à 50 mg : au plus proche multiple de 10 mg.
+
+
+
+**(2)** Le pourcentage est arrondi :
+
+**a)** lorsque la teneur déclarée est « 0 mg » : à 0 %;
+
+
+
+**b)** dans les autres cas : au plus proche multiple de 1 %.
+
+
+
+</td>
+</tr>
+<tr>
+<td>28</td>
+<td>Teneur en phosphore</td>
+<td>« Phosphore »</td>
+<td>La teneur est exprimée :
+
+**a)** en milligrammes par portion indiquée;
+
+
+
+**b)** en pourcentage de la valeur quotidienne par portion indiquée.
+
+
+
+</td>
+<td>**(1)** La teneur est arrondie :
+
+**a)** lorsqu’elle est inférieure à 5 mg : à 0 mg;
+
+
+
+**b)** lorsqu’elle est égale ou supérieure à 5 mg mais moins de 50 mg : au plus proche multiple de 10 mg;
+
+
+
+**c)** lorsqu’elle est égale ou supérieure à 50 mg mais moins de 250 mg : au plus proche multiple de 25 mg;
+
+
+
+**d)** lorsqu’elle est égale ou supérieure à 250 mg : au plus proche multiple de 50 mg.
+
+
+
+**(2)** Le pourcentage est arrondi :
+
+**a)** lorsque la teneur déclarée est « 0 mg » : à 0 %;
+
+
+
+**b)** dans les autres cas : au plus proche multiple de 1 %.
+
+
+
+</td>
+</tr>
+<tr>
+<td>29</td>
+<td>Teneur en iode</td>
+<td>« Iodure » ou « Iode »</td>
+<td>La teneur est exprimée :
+
+**a)** en microgrammes par portion indiquée;
+
+
+
+**b)** en pourcentage de la valeur quotidienne par portion indiquée.
+
+
+
+</td>
+<td>**(1)** La teneur est arrondie :
+
+**a)** lorsqu’elle est inférieure à 1 µg : à 0 µg;
+
+
+
+**b)** lorsqu’elle est égale ou supérieure à 1 µg mais moins de 10 µg : au plus proche multiple de 2 µg;
+
+
+
+**c)** lorsqu’elle est égale ou supérieure à 10 µg mais moins de 50 µg : au plus proche multiple de 5 µg;
+
+
+
+**d)** lorsqu’elle est égale ou supérieure à 50 µg : au plus proche multiple de 10 µg.
+
+
+
+**(2)** Le pourcentage est arrondi :
+
+**a)** lorsque la teneur déclarée est « 0 µg » : à 0 %;
+
+
+
+**b)** dans les autres cas : au plus proche multiple de 1 %.
+
+
+
+</td>
+</tr>
+<tr>
+<td>30</td>
+<td>Teneur en magnésium</td>
+<td>« Magnésium »</td>
+<td>La teneur est exprimée :
+
+**a)** en milligrammes par portion indiquée;
+
+
+
+**b)** en pourcentage de la valeur quotidienne par portion indiquée.
+
+
+
+</td>
+<td>**(1)** La teneur est arrondie :
+
+**a)** lorsqu’elle est inférieure à 1 mg : à 0 mg;
+
+
+
+**b)** lorsqu’elle est égale ou supérieure à 1 mg mais moins de 10 mg : au plus proche multiple de 2 mg;
+
+
+
+**c)** lorsqu’elle est égale ou supérieure à 10 mg mais moins de 50 mg : au plus proche multiple de 5 mg;
+
+
+
+**d)** lorsqu’elle est égale ou supérieure à 50 mg : au plus proche multiple de 10 mg.
+
+
+
+**(2)** Le pourcentage est arrondi :
+
+**a)** lorsque la teneur déclarée est « 0 mg » : à 0 %;
+
+
+
+**b)** dans les autres cas : au plus proche multiple de 1 %.
+
+
+
+</td>
+</tr>
+<tr>
+<td>31</td>
+<td>Teneur en zinc</td>
+<td>« Zinc »</td>
+<td>La teneur est exprimée :
+
+**a)** en milligrammes par portion indiquée;
+
+
+
+**b)** en pourcentage de la valeur quotidienne par portion indiquée.
+
+
+
+</td>
+<td>**(1)** La teneur est arrondie :
+
+**a)** lorsqu’elle est inférieure à 0,05 mg : à 0 mg;
+
+
+
+**b)** lorsqu’elle est égale ou supérieure à 0,05 mg mais moins de 0,5 mg : au plus proche multiple de 0,1 mg;
+
+
+
+**c)** lorsqu’elle est égale ou supérieure à 0,5 mg mais moins de 2,5 mg : au plus proche multiple de 0,25 mg;
+
+
+
+**d)** lorsqu’elle est égale ou supérieure à 2,5 mg : au plus proche multiple de 0,5 mg.
+
+
+
+**(2)** Le pourcentage est arrondi :
+
+**a)** lorsque la teneur déclarée est « 0 mg » : à 0 %;
+
+
+
+**b)** dans les autres cas : au plus proche multiple de 1 %.
+
+
+
+</td>
+</tr>
+<tr>
+<td>32</td>
+<td>Teneur en sélénium</td>
+<td>« Sélénium »</td>
+<td>La teneur est exprimée :
+
+**a)** en microgrammes par portion indiquée;
+
+
+
+**b)** en pourcentage de la valeur quotidienne par portion indiquée.
+
+
+
+</td>
+<td>**(1)** La teneur est arrondie :
+
+**a)** lorsqu’elle est inférieure à 0,1 µg : à 0 µg;
+
+
+
+**b)** lorsqu’elle est égale ou supérieure à 0,1 µg mais moins de 1 µg : au plus proche multiple de 0,2 µg;
+
+
+
+**c)** lorsqu’elle est égale ou supérieure à 1 µg mais moins de 5 µg : au plus proche multiple de 0,5 µg;
+
+
+
+**d)** lorsqu’elle est égale ou supérieure à 5 µg : au plus proche multiple de 1 µg.
+
+
+
+**(2)** Le pourcentage est arrondi :
+
+**a)** lorsque la teneur, déclarée est « 0 µg » : à 0 %;
+
+
+
+**b)** dans les autres cas : au plus proche multiple de 1 %.
+
+
+
+</td>
+</tr>
+<tr>
+<td>33</td>
+<td>Teneur en cuivre</td>
+<td>« Cuivre »</td>
+<td>La teneur est exprimée :
+
+**a)** en milligrammes par portion indiquée;
+
+
+
+**b)** en pourcentage de la valeur quotidienne par portion indiquée.
+
+
+
+</td>
+<td>**(1)** La teneur est arrondie :
+
+**a)** lorsqu’elle est inférieure à 0,0015 mg : à 0 mg;
+
+
+
+**b)** lorsqu’elle est égale ou supérieure à 0,0015 mg mais moins de 0,025 mg : au plus proche multiple de 0,002 mg;
+
+
+
+**c)** lorsqu’elle est égale ou supérieure à 0,025 mg mais moins de 0,05 mg : au plus proche multiple de 0,005 mg;
+
+
+
+**d)** lorsqu’elle est égale ou supérieure à 0,05 mg : au plus proche multiple de 0,01 mg.
+
+
+
+**(2)** Le pourcentage est arrondi :
+
+**a)** lorsque la teneur déclarée est « 0 mg » : à 0 %;
+
+
+
+**b)** dans les autres cas : au plus proche multiple de 1 %.
+
+
+
+</td>
+</tr>
+<tr>
+<td>34</td>
+<td>Teneur en manganèse</td>
+<td>« Manganèse »</td>
+<td>La teneur est exprimée :
+
+**a)** en milligrammes par portion indiquée;
+
+
+
+**b)** en pourcentage de la valeur quotidienne par portion indiquée.
+
+
+
+</td>
+<td>**(1)** La teneur est arrondie :
+
+**a)** lorsqu’elle est inférieure à 0,005 mg : à 0 mg;
+
+
+
+**b)** lorsqu’elle est égale ou supérieure à 0,005 mg mais moins de 0,05 mg : au plus proche multiple de 0,01 mg;
+
+
+
+**c)** lorsqu’elle est égale ou supérieure à 0,05 mg mais moins de 0,25 mg : au plus proche multiple de 0,025 mg;
+
+
+
+**d)** lorsqu’elle est égale ou supérieure à 0,25 mg : au plus proche multiple de 0,05 mg.
+
+
+
+**(2)** Le pourcentage est arrondi :
+
+**a)** lorsque la teneur déclarée est « 0 mg » : à 0 %;
+
+
+
+**b)** dans les autres cas : au plus proche multiple de 1 %.
+
+
+
+</td>
+</tr>
+<tr>
+<td>35</td>
+<td>Teneur en chrome</td>
+<td>« Chrome »</td>
+<td>La teneur est exprimée :
+
+**a)** en microgrammes par portion indiquée;
+
+
+
+**b)** en pourcentage de la valeur quotidienne par portion indiquée.
+
+
+
+</td>
+<td>**(1)** La teneur est arrondie :
+
+**a)** lorsqu’elle est inférieure à 0,05 µg : à 0 µg;
+
+
+
+**b)** lorsqu’elle est égale ou supérieure à 0,05 µg mais moins de 0,5 µg : au plus proche multiple de 0,1 µg;
+
+
+
+**c)** lorsqu’elle est égale ou supérieure à 0,5 µg mais moins de 2,5 µg : au plus proche multiple de 0,25 µg;
+
+
+
+**d)** lorsqu’elle est égale ou supérieure à 2,5 µg : au plus proche multiple de 0,5 µg.
+
+
+
+**(2)** Le pourcentage est arrondi :
+
+**a)** lorsque la teneur déclarée est « 0 µg » : à 0 %;
+
+
+
+**b)** dans les autres cas : au plus proche multiple de 1 %.
+
+
+
+</td>
+</tr>
+<tr>
+<td>36</td>
+<td>Teneur en molybdène</td>
+<td>« Molybdène »</td>
+<td>La teneur est exprimée :
+
+**a)** en microgrammes par portion indiquée;
+
+
+
+**b)** en pourcentage de la valeur quotidienne par portion indiquée.
+
+
+
+</td>
+<td>**(1)** La teneur est arrondie :
+
+**a)** lorsqu’elle est inférieure à 0,05 µg : à 0 µg;
+
+
+
+**b)** lorsqu’elle est égale ou supérieure à 0,05 µg mais moins de 0,5 µg : au plus proche multiple de 0,1 µg;
+
+
+
+**c)** lorsqu’elle est égale ou supérieure à 0,5 µg mais moins de 2,5 µg : au plus proche multiple de 0,25 µg;
+
+
+
+**d)** lorsqu’elle est égale ou supérieure à 2,5 µg : au plus proche multiple de 0,5 µg.
+
+
+
+**(2)** Le pourcentage est arrondi :
+
+**a)** lorsque la teneur déclarée est « 0 µg » : à 0 %;
+
+
+
+**b)** dans les autres cas : au plus proche multiple de 1 %.
+
+
+
+</td>
+</tr>
+<tr>
+<td>37</td>
+<td>Teneur en chlorure</td>
+<td>« Chlorure »</td>
+<td>La teneur est exprimée :
+
+**a)** en milligrammes par portion indiquée;
+
+
+
+**b)** en pourcentage de la valeur quotidienne par portion indiquée.
+
+
+
+</td>
+<td>**(1)** La teneur est arrondie :
+
+**a)** lorsqu’elle est inférieure à 5 mg : à 0 mg;
+
+
+
+**b)** lorsqu’elle est égale ou supérieure à 5 mg mais moins de 50 mg : au plus proche multiple de 10 mg;
+
+
+
+**c)** lorsqu’elle est égale ou supérieure à 50 mg mais moins de 250 mg : au plus proche multiple de 25 mg;
+
+
+
+**d)** lorsqu’elle est égale ou supérieure à 250 mg : au plus proche multiple de 50 mg.
+
+
+
+**(2)** Le pourcentage est arrondi :
+
+**a)** lorsque la teneur déclarée est « 0 mg » : à 0 %;
+
+
+
+**b)** dans les autres cas : au plus proche multiple de 1 %.
+
+
+
+</td>
 </tr>
 </table>
 
-> DORS/2003-11, art. 20; err., Vol. 137, n<sup>o</sup>o 5; DORS/2005-98, art. 2(F).
+> DORS/2003-11, art. 20; err., Vol. 137, n<sup>o</sup> 5; DORS/2005-98, art. 2(F); DORS/2016-305, art. 19 et 75(F).
 
 
 
 
 
-##### Aliments pour enfants âgés de moins de deux ans
+##### Aliments pour bébés âgés d’au moins six mois mais de moins d’un an
+> [DORS/2016-305, art. 20]
+
 
 
 **B.01.403** 
 
-- **(1)** Le présent article s’applique à tout produit préemballé destiné exclusivement aux enfants âgés de moins de deux ans.
+- **(1)** Le présent article s’applique à tout produit préemballé destiné exclusivement aux bébés âgés d’au moins six mois mais de moins d’un an.
 
-- **(2)** Le tableau de la valeur nutritive du produit préemballé ne peut indiquer les renseignements suivants :
-	- **a)** le pourcentage de la valeur quotidienne des lipides, du cholestérol, du sodium, du potassium, des glucides ou des fibres ou de la somme des acides gras saturés et des acides gras *trans*;
-	- **b)** la valeur énergétique provenant des lipides ou de la somme des acides gras saturés et des acides gras *trans*;
-	- **c)** toute note complémentaire du sous-titre « % valeur quotidienne » paraissant dans les figures 18.1(F) et (A) de l’annexe L.
+- **(2)** Le tableau de la valeur nutritive du produit préemballé ne peut indiquer le pourcentage de la valeur quotidienne des lipides, des fibres, des sucres, du cholestérol, du sodium ou de la somme des acides gras saturés et des acides gras *trans*.
 
 - **(3)** Les teneurs en acides gras saturés, en acides gras *trans* et en cholestérol peuvent être omises du tableau de la valeur nutritive.
 
 - **(4)** Malgré le paragraphe (3), le tableau de la valeur nutritive qui indique la teneur en cholestérol doit également indiquer la teneur en acides gras saturés et la teneur en acides gras *trans*.
 
-- **(5)** Si au moins six des renseignements relatifs à la valeur énergétique et aux éléments nutritifs visés à la colonne 1 des articles 2, 3 et 8 à 13 du tableau de l’article B.01.401 peuvent être exprimés, conformément à cet article, par « 0 » au tableau de la valeur nutritive du produit préemballé, le tableau peut ne contenir que les renseignements suivants :
-	- **a)** la portion déterminée;
+- **(5)** Si au moins cinq des renseignements relatifs à la valeur énergétique et aux éléments nutritifs visés à la colonne 1 des articles 2, 3 et 8 à 15 du tableau de l’article B.01.401 peuvent être exprimés, conformément à cet article, par « 0 » au tableau de la valeur nutritive du produit préemballé, le tableau peut ne contenir que les renseignements suivants :
+	- **a)** la portion indiquée;
 	- **b)** la valeur énergétique;
 	- **c)** la teneur en lipides;
 	- **d)** la teneur en glucides;
@@ -3238,10 +4253,10 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 	- **f)** la teneur en tout élément nutritif qui fait l’objet d’une des déclarations visées au sous-alinéa B.01.401(3)e)(ii);
 	- **g)** la teneur en un polyalcool, en une vitamine ou en un minéral nutritif ajoutés au produit, à l’exclusion du fluorure ajouté à de l’eau ou à de la glace préemballées;
 	- **h)** la teneur en une vitamine ou en un minéral nutritif déclaré comme constituant d’un ingrédient du produit, à l’exclusion de la farine;
-	- **i)** la teneur en tout élément nutritif visé à la colonne 1 des articles 8, 10, 11 et 13 du tableau de l’article B.01.401 qui ne peut être exprimée par « 0 » au tableau de la valeur nutritive;
+	- **i)** la teneur en tout élément nutritif visé à la colonne 1 des articles 8, 10, 11 et 13 à 15 du tableau de l’article B.01.401 qui ne peut être exprimée par « 0 » au tableau de la valeur nutritive;
 	- **j)** sauf dans le cas mentionné à l’alinéa k), la mention « Source négligeable de (désignation de tout élément nutritif omis conformément au présent paragraphe) »; la mention peut toutefois être omise en ce qui concerne les acides gras saturés, les acides gras *trans* et le cholestérol;
 	- **k)** si le produit remplit les conditions du paragraphe B.01.462(3), la mention « Source négligeable d’autres éléments nutritifs » ou la mention visée à l’alinéa j).
-> DORS/2003-11, art. 20.
+> DORS/2003-11, art. 20; DORS/2016-305, art. 21 et 75(F).
 
 
 
@@ -3252,23 +4267,23 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **B.01.404** 
 
-- **(1)** Le présent article s’applique à tout produit préemballé qui est destiné uniquement à être utilisé comme ingrédient dans la fabrication d’autres produits préemballés destinés à être vendus au consommateur au niveau du commerce de détail ou comme ingrédient dans la préparation d’aliments par une entreprise ou une institution commerciale ou industrielle.
+- **(1)** Le présent article s’applique à tout produit préemballé qui est destiné uniquement à être utilisé comme ingrédient dans la fabrication d’autres produits préemballés destinés à être vendus au consommateur au niveau du commerce de détail ou comme ingrédient dans la préparation d’aliments par une entreprise commerciale ou industrielle ou une institution.
 
 - **(2)** Il est interdit de vendre le produit préemballé à moins que des renseignements nutritionnels écrits concernant le produit l’accompagnent lors de sa livraison à l’acheteur.
 
-- **(3)** Les renseignements nutritionnels :
+- **(3)** Les renseignements nutritionnels :
 	- **a)** comprennent ceux que le tableau de la valeur nutritive indiquerait, n’eût été le paragraphe B.01.401(7), aux termes des articles B.01.401 et B.01.402;
 	- **b)** peuvent comprendre ceux que le tableau de la valeur nutritive peut indiquer aux termes de l’article B.01.402;
-	- **c)** sont présentés conformément aux articles B.01.401 et B.01.402, sous réserve des modifications suivantes :
-		- **(i)** les renseignements concernant les vitamines figurant à la colonne I du tableau I du titre 1 de la partie D et les minéraux nutritifs figurant à la colonne I du tableau I du titre 2 de cette partie sont exprimés au moyen de l’unité applicable indiquée dans cette colonne :
+	- **c)** sont présentés conformément aux articles B.01.401 et B.01.402, sous réserve des modifications suivantes :
+		- **(i)** les renseignements concernant les vitamines mentionnées au paragraphe D.01.002(1) sont exprimés au moyen de l’unité applicable indiquée au paragraphe D.01.003(1) et ceux concernant les minéraux nutritifs figurant aux alinéas D.02.001(1)a) à j), l) à n) et p) sont exprimés en milligrammes pour le sodium, le potassium, le calcium, le phosphore, le magnésium, le fer, le zinc, le chlore, le cuivre et le manganèse et en microgrammes pour l’iode, le chrome, le sélénium et le molybdène,
 			- **(A)** par gramme ou 100 grammes de l’aliment, dans le cas où la quantité nette de l’aliment est mentionnée en poids ou en nombre sur l’étiquette,
 			- **(B)** par millilitre ou 100 millilitres de l’aliment, dans le cas où la quantité nette de l’aliment est mentionnée en volume sur l’étiquette,
 		- **(ii)** les renseignements concernant les autres éléments nutritifs ainsi que la valeur énergétique, figurant à la colonne 1 des tableaux des articles B.01.401 ou B.01.402 sont exprimés au moyen d’une unité visée à la colonne 3 :
 			- **(A)** par gramme ou 100 grammes de l’aliment, dans le cas où la quantité nette de l’aliment est mentionnée en poids ou en nombre sur l’étiquette,
 			- **(B)** par millilitre ou 100 millilitres de l’aliment, dans le cas où la quantité nette de l’aliment est mentionnée en volume sur l’étiquette,
-		- **(iii)** le pourcentage de la valeur quotidienne et les renseignements concernant la portion déterminée peuvent être omis,
+		- **(iii)** le pourcentage de la valeur quotidienne et les renseignements concernant la portion indiquée peuvent être omis,
 		- **(iv)** les renseignements nutritionnels sont indiqués avec un degré de précision qui correspond à la précision des méthodes analytiques utilisées pour produire ces renseignements.
-> DORS/2003-11, art. 20.
+> DORS/2003-11, art. 20; DORS/2016-305, art. 22, 73 et 75(F).
 
 
 
@@ -3279,15 +4294,15 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **B.01.405** 
 
-- **(1)** Le présent article s’applique à tout produit préemballé à portion multiple prêt à servir destiné uniquement à être servi par une entreprise ou une institution commerciale ou industrielle.
+- **(1)** Le présent article s’applique à tout produit préemballé à portions multiples prêt à servir destiné uniquement à être servi par une entreprise commerciale ou industrielle ou une institution.
 
 - **(2)** Il est interdit de vendre le produit préemballé à moins que des renseignements nutritionnels écrits concernant le produit l’accompagnent lors de sa livraison à l’acheteur.
 
-- **(3)** Les renseignements nutritionnels :
+- **(3)** Les renseignements nutritionnels :
 	- **a)** comprennent ceux que le tableau de la valeur nutritive indiquerait, n’eût été le paragraphe B.01.401(7), aux termes des articles B.01.401 et B.01.402;
 	- **b)** peuvent comprendre ceux que le tableau de la valeur nutritive peut indiquer en vertu de l’article B.01.402;
 	- **c)** sont présentés conformément aux articles B.01.401 et B.01.402.
-> DORS/2003-11, art. 20.
+> DORS/2003-11, art. 20; DORS/2016-305, art. 23.
 
 
 
@@ -3302,39 +4317,40 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 - **(2)** Le tableau de la valeur nutritive de tout produit préemballé qui comprend des ingrédients ou des aliments emballés séparément et destinés à être consommés ensemble indique les renseignements en fonction soit de chaque ingrédient ou aliment, soit du produit dans son ensemble.
 
-- **(3)** Le tableau de la valeur nutritive de tout produit préemballé qui contient un assortiment d’aliments du même type et dont la portion typique ne comprend qu’un de ces aliments indique les renseignements en fonction :
+- **(3)** Le tableau de la valeur nutritive de tout produit préemballé qui contient un assortiment d’aliments du même type et dont la portion typique ne comprend qu’un de ces aliments indique les renseignements en fonction :
 	- **a)** de chaque aliment dans le produit, lorsque les renseignements nutritionnels figurant à la colonne 1 du tableau de l’article B.01.401 sont différents pour chaque aliment;
 	- **b)** d’un aliment dans le produit, lorsque les renseignements nutritionnels figurant à la colonne 1 du tableau de l’article B.01.401 sont les mêmes pour chaque aliment.
 
 - **(4)** Le tableau de la valeur nutritive de tout produit préemballé qui contient un assortiment d’aliments du même type et dont la portion typique comprend plus d’un de ces aliments indique les renseignements qui correspondent soit à la valeur de chaque aliment, soit à une valeur composée.
 
-- **(5)** Le tableau de la valeur nutritive de tout produit préemballé contenant un aliment à préparer selon des instructions fournies dans ou sur l’emballage, ou qui est normalement combiné avec d’autres ingrédients ou aliments ou cuit avant d’être consommé, peut également indiquer les renseignements en fonction de l’aliment une fois préparé, auquel cas :
-	- **a)** le tableau indique les renseignements ci-après en fonction de l’aliment préparé :
-		- **(i)** sauf dans le cas visé au sous-alinéa (ii), la quantité de l’aliment exprimée en une unité indiquée dans la colonne 3 des alinéas 1(1)a) ou c) du tableau de l’article B.01.401, soit « environ (la portion déterminée) » ou « environ (la portion déterminée) préparé », et, s’il y a lieu, au moyen des règles d’écriture indiquées dans la colonne 4 des paragraphes 1(1) et (2),
-		- **(ii)** si l’aliment est normalement combiné avec un autre aliment, la quantité de l’autre aliment exprimée en une unité indiquée dans la colonne 3 des alinéas 1(1)c) du tableau de l’article B.01.401 et, s’il y a lieu, au moyen des règles d’écriture indiquées dans la colonne 4 du paragraphe 1(1),
+- **(5)** Le tableau de la valeur nutritive de tout produit préemballé contenant un aliment à préparer selon des instructions fournies dans ou sur l’emballage, ou qui est normalement combiné avec d’autres ingrédients ou aliments ou cuit avant d’être consommé, peut également indiquer les renseignements en fonction de l’aliment une fois préparé, auquel cas :
+	- **a)** le tableau indique les renseignements ci-après en fonction de l’aliment préparé :
+		- **(i)** sauf dans le cas visé au sous-alinéa (ii), la quantité de l’aliment exprimée en l’unité visée à la colonne 3 du sous-alinéa 1b)(i) du tableau de l’article B.01.401, soit « environ (la portion indiquée) » ou « environ (la portion indiquée) préparé », et, s’il y a lieu, au moyen des règles d’écriture indiquées dans la colonne 4 des paragraphes 1(1) et (2),
+		- **(ii)** si l’aliment est normalement combiné avec un autre aliment, la quantité de l’autre aliment exprimée en l’unité visée à la colonne 3 du sous-alinéa 1b)(i) du tableau de l’article B.01.401,
 		- **(iii)** la valeur énergétique exprimée au moyen de la nomenclature indiquée dans la colonne 2 de l’article 2 du tableau de l’article B.01.401, de l’unité indiquée dans la colonne 3 et des règles d’écriture indiquées dans la colonne 4,
-		- **(iv)** si elle est déclarée dans le tableau de la valeur nutritive de l’aliment tel qu’il est vendu, la valeur énergétique provenant des lipides, exprimée au moyen de la nomenclature indiquée dans la colonne 2 de l’article 3 du tableau de l’article B.01.402, de l’unité indiquée dans la colonne 3 et des règles d’écriture indiquées dans la colonne 4,
-		- **(v)** les renseignements visés à la colonne 1 des articles 3, 6 à 10 et 13 du tableau de l’article B.01.401 et à la colonne 1 des articles 9 et 14 du tableau de l’article B.01.402 et qui sont indiqués en pourcentage de la valeur quotidienne dans le tableau de la valeur nutritive en fonction de l’aliment tel qu’il est vendu, exprimés au moyen de la nomenclature indiquée dans la colonne 2, en pourcentage de la valeur quotidienne par portion déterminée et au moyen des règles d’écriture indiquées dans la colonne 4;
-	- **b)** le tableau peut également indiquer les renseignements ci-après en fonction des ingrédients ajoutés ou de l’autre aliment, s’ils sont déclarés dans le tableau de la valeur nutritive de l’aliment tel qu’il est vendu :
-		- **(i)** les renseignements visés à la colonne 1 des articles 3 à 5 et 7 à 12 du tableau de l’article B.01.401, exprimés au moyen de la nomenclature indiquée dans la colonne 2, en milligrammes pour ceux visés à la colonne 1 des articles 7 et 8 et en grammes pour ceux visés à la colonne 1 des articles 3 à 5 et 9 à 12, et au moyen des règles d’écriture indiquées dans la colonne 4,
-		- **(ii)** les renseignements visés à la colonne 1 des articles 5 à 13 du tableau de l’article B.01.402, exprimés au moyen de la nomenclature indiquée dans la colonne 2, en milligrammes pour ceux visés à la colonne 1 de l’article 9 et en grammes pour ceux visés à la colonne 1 des articles 5 à 8 et 10 à 13, et au moyen des règles d’écriture indiquées dans la colonne 4.
+		- **(iv)** les renseignements visés à la colonne 1 des articles 3, 6 à 8, 11 et 13 à 15 du tableau de l’article B.01.401 et à la colonne 1 des articles 14 à 37 du tableau de l’article B.01.402 et qui sont indiqués en pourcentage de la valeur quotidienne dans le tableau de la valeur nutritive en fonction de l’aliment tel qu’il est vendu, exprimés au moyen de la nomenclature indiquée dans la colonne 2, en pourcentage de la valeur quotidienne par portion indiquée et au moyen des règles d’écriture indiquées dans la colonne 4;
+		- **(v)** [Abrogé, DORS/2016-305, art. 24]
+	- **b)** le tableau peut également indiquer les renseignements ci-après en fonction des ingrédients ajoutés ou de l’autre aliment, s’ils sont déclarés dans le tableau de la valeur nutritive de l’aliment tel qu’il est vendu :
+		- **(i)** les renseignements visés à la colonne 1 des articles 3 à 5 et 7 à 12 du tableau de l’article B.01.401, exprimés au moyen de la nomenclature indiquée dans la colonne 2, en milligrammes pour ceux visés à la colonne 1 des articles 7 et 8 et en grammes pour ceux visés à la colonne 1 des articles 3 à 5 et 9 à 12 et au moyen des règles d’écriture indiquées dans la colonne 4,
+		- **(ii)** les renseignements visés à la colonne 1 des articles 5 à 8 et 10 à 13 du tableau de l’article B.01.402, exprimés au moyen de la nomenclature indiquée dans la colonne 2, en grammes et au moyen des règles d’écriture indiquées dans la colonne 4,
+		- **(iii)** les renseignements visés à la colonne 1 de l’article 2 du tableau de l’article B.01.401, exprimés au moyen de la nomenclature indiquée dans la colonne 2, de l’unité indiquée dans la colonne 3, par portion indiquée de l’aliment préparé, et au moyen des règles d’écriture indiquées dans la colonne 4.
 
-- **(6)** Le paragraphe (5) ne s’applique pas aux produits préemballés destinés exclusivement aux enfants âgés de moins de deux ans.
+- **(6)** Le paragraphe (5) ne s’applique pas aux produits préemballés destinés exclusivement aux bébés âgés d’au moins six mois mais de moins d’un an.
 
-- **(7)** Sous réserve du paragraphe (8), le tableau de la valeur nutritive peut aussi indiquer les renseignements en fonction d’autres quantités de l’aliment qui correspondent à différents usages ou unités de mesure de l’aliment, auquel cas :
-	- **a)** le tableau indique les renseignements ci-après pour chacune des autres quantités de l’aliment :
-		- **(i)** la quantité exprimée au moyen d’une unité indiquée dans la colonne 3 du paragraphe 1(1) du tableau de l’article B.01.401 et, s’il y a lieu, des règles d’écriture indiquées dans la colonne 4 des paragraphes 1(1) et (2),
+- **(7)** Sous réserve du paragraphe (8), le tableau de la valeur nutritive peut aussi indiquer les renseignements en fonction d’autres quantités de l’aliment qui correspondent à différents usages ou unités de mesure de l’aliment, auquel cas :
+	- **a)** le tableau indique les renseignements ci-après pour chacune des autres quantités de l’aliment :
+		- **(i)** la quantité exprimée selon une mesure domestique et une mesure métrique et au moyen des règles d’écriture indiquées dans la colonne 4 du tableau de l’article B.01.401, aux paragraphes 1(1) et (2),
 		- **(ii)** la valeur énergétique, exprimée au moyen de la nomenclature indiquée dans la colonne 2 de l’article 2 du tableau de l’article B.01.401, de l’unité indiquée dans la colonne 3 et des règles d’écriture indiquées dans la colonne 4,
-		- **(iii)** si elle est déclarée dans le tableau de la valeur nutritive à l’égard de la première quantité d’aliment pour laquelle des renseignements sont déclarés, la valeur énergétique provenant des lipides, exprimée au moyen de la nomenclature indiquée dans la colonne 2 de l’article 3 du tableau de l’article B.01.402, de l’unité indiquée dans la colonne 3 et des règles d’écriture indiquées dans la colonne 4,
-		- **(iv)** les renseignements visés à la colonne 1 des articles 3, 6 à 10 et 13 du tableau de l’article B.01.401 et à la colonne 1 des articles 9 et 14 du tableau de l’article B.01.402 et qui sont indiqués en pourcentage de la valeur quotidienne dans le tableau de la valeur nutritive à l’égard de la première quantité d’aliment pour laquelle des renseignements sont déclarés, exprimés au moyen de la nomenclature indiquée dans la colonne 2, en pourcentage de la valeur quotidienne par portion déterminée et au moyen des règles d’écriture indiquées dans la colonne 4;
-	- **b)** si le tableau est présenté selon l’une des versions du modèle double prévu à l’article B.01.458, il peut également indiquer, pour chacune des autres quantités de l’aliment, la quantité exprimée en l’unité indiquée dans la colonne 3 du paragraphe 1(2) du tableau de l’article B.01.401 et selon les règles d’écriture indiquées dans la colonne 4 du paragraphe 1(1), si ces renseignements sont déclarés dans le tableau de la valeur nutritive à l’égard de la première quantité d’aliment pour laquelle des renseignements sont déclarés;
-	- **c)** si le tableau est présenté selon l’une des versions du modèle composé prévu aux articles B.01.459 ou B.01.464, il indique également les renseignements ci-après pour chacune des autres quantités de l’aliment, s’ils sont déclarés dans le tableau de la valeur nutritive à l’égard de la première quantité d’aliment pour laquelle des renseignements sont déclarés :
-		- **(i)** la quantité de l’aliment exprimée au moyen de l’unité indiquée dans la colonne 3 du paragraphe 1(2) du tableau de l’article B.01.401 et des règles d’écriture indiquées dans la colonne 4 du paragraphe 1(1),
+		- **(iii)** les renseignements visés à la colonne 1 des articles 3, 6 à 8, 11 et 13 à 15 du tableau de l’article B.01.401 et à la colonne 1 des articles 14 à 37 du tableau de l’article B.01.402 et qui sont indiqués en pourcentage de la valeur quotidienne dans le tableau de la valeur nutritive à l’égard de la première quantité d’aliment pour laquelle des renseignements sont déclarés, exprimés au moyen de la nomenclature indiquée dans la colonne 2, en pourcentage de la valeur quotidienne par portion indiquée et au moyen des règles d’écriture indiquées dans la colonne 4;
+		- **(iv)** [Abrogé, DORS/2016-305, art. 24]
+	- **b)** [Abrogé, DORS/2016-305, art. 24]
+	- **c)** si le tableau est présenté selon l’une des versions du modèle composé prévu aux articles B.01.459 ou B.01.464, il indique également les renseignements ci-après pour chacune des autres quantités de l’aliment, s’ils sont déclarés dans le tableau de la valeur nutritive à l’égard de la première quantité d’aliment pour laquelle des renseignements sont déclarés :
+		- **(i)** [Abrogé, DORS/2016-305, art. 24]
 		- **(ii)** les renseignements visés à la colonne 1 des articles 3 à 5 et 7 à 12 du tableau de l’article B.01.401, exprimés au moyen de la nomenclature indiquée dans la colonne 2, en milligrammes pour ceux visés à la colonne 1 des articles 7 et 8 et en grammes pour ceux visés à la colonne 1 des articles 3 à 5 et 9 à 12, et au moyen des règles d’écriture indiquées dans la colonne 4,
-		- **(iii)** les renseignements visés à la colonne 1 des articles 5 à 13 du tableau de l’article B.01.402, exprimés au moyen de la nomenclature indiquée dans la colonne 2, en milligrammes pour ceux visés à la colonne 1 de l’article 9 et en grammes pour ceux visés à la colonne 1 des articles 5 à 8 et 10 à 13, et au moyen des règles d’écriture indiquées dans la colonne 4.
+		- **(iii)** les renseignements visés à la colonne 1 des articles 5 à 8 et 10 à 13 du tableau de l’article B.01.402, exprimés au moyen de la nomenclature indiquée dans la colonne 2, en grammes et au moyen des règles d’écriture indiquées dans la colonne 4.
 
-- **(8)** Le tableau de la valeur nutritive d’un produit préemballé destiné exclusivement aux enfants âgés de moins de deux ans qui indique des renseignements conformément au paragraphe (7) indique les renseignements visés aux sous-alinéas (7)a) et c).
-> DORS/2003-11, art. 20.
+- **(8)** Le tableau de la valeur nutritive d’un produit préemballé destiné exclusivement aux bébés âgés d’au moins six mois mais de moins d’un an qui indique des renseignements conformément au paragraphe (7) indique les renseignements visés aux alinéas (7)a) et c).
+> DORS/2003-11, art. 20; DORS/2016-305, art. 24.
 
 
 
@@ -3348,20 +4364,22 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **B.01.450** 
 
-- **(1)** Sous réserve des paragraphes (2) à (6), le tableau de la valeur nutritive est présenté selon le modèle de la figure applicable de l’annexe L, compte tenu notamment de l’ordre de présentation, des dimensions, des espacements et de l’emploi des majuscules, des minuscules et des caractères gras.
+- **(1)** Sous réserve des paragraphes (2) à (6), le tableau de la valeur nutritive est présenté selon le modèle de la figure applicable du Répertoire des modèles de TVN, compte tenu notamment de l’ordre de présentation, des dimensions, des espacements et de l’emploi des majuscules, des minuscules et des caractères gras.
 
 - **(2)** Les caractères et les filets du tableau de la valeur nutritive sont monochromes et équivalent visuellement à de l’imprimerie noire en aplat de 100 % sur un fond blanc ou de couleur de teinte neutre et uniforme d’au plus 5 %.
 
-- **(3)** Les caractères dans le tableau de la valeur nutritive :
+- **(3)** Les caractères dans le tableau de la valeur nutritive :
 	- **a)** sont normalisés, sans empattement, non décoratifs et inscrits de manière à ce qu’ils ne se touchent pas et ne touchent pas les filets;
-	- **b)** peuvent être de dimensions plus grandes que ceux indiqués dans la figure applicable de l’annexe L si tous les caractères sont agrandis de façon uniforme.
+	- **b)** peuvent être de dimensions plus grandes que ceux indiqués dans la figure applicable du Répertoire des modèles de TVN si tous les caractères sont agrandis de façon uniforme.
 
-- **(4)** Un filet de un ou deux points visé à la figure applicable de l’annexe L peut avoir une force de corps plus grande dans le tableau de la valeur nutritive.
+- **(3.1)** La taille des caractères qui est indiquée entre parenthèses pour une version prévue à un tableau des articles B.01.454 à B.01.459 et B.01.461 à B.01.464 représente la taille minimale des caractères à utiliser, dans le tableau de la valeur nutritive, pour indiquer les éléments nutritifs figurant aux tableaux des articles B.01.401 et B.01.402 conformément à cette version.
+
+- **(4)** Un filet de un ou deux points visé à la figure applicable du Répertoire des modèles de TVN peut avoir une force de corps plus grande dans le tableau de la valeur nutritive.
 
 - **(5)** Le tableau de la valeur nutritive indique les renseignements conformément aux articles B.01.400 à B.01.403 et B.01.406.
 
-- **(6)** L’ordre de la langue indiqué dans la figure applicable de l’annexe L peut être inversé lorsque le tableau de la valeur nutritive est composé d’un tableau en français et en anglais.
-> DORS/2003-11, art. 20.
+- **(6)** L’ordre de la langue indiqué dans la figure applicable du Répertoire des modèles de TVN peut être inversé lorsque le tableau de la valeur nutritive est composé d’un tableau en français et en anglais.
+> DORS/2003-11, art. 20; DORS/2016-305, art. 25 et 74.
 
 
 
@@ -3405,10 +4423,10 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **B.01.453** 
 
-- **(1)** Les articles B.01.454 à B.01.460 s’appliquent aux produits préemballés autres que ceux destinés exclusivement aux enfants âgés de moins de deux ans.
+- **(1)** Les articles B.01.454 à B.01.460 s’appliquent aux produits préemballés autres que ceux destinés exclusivement aux bébés âgés d’au moins six mois mais de moins d’un an.
 
-- **(2)** Les articles B.01.461 à B.01.465 s’appliquent aux produits préemballés destinés exclusivement aux enfants âgés de moins de deux ans.
-> DORS/2003-11, art. 20.
+- **(2)** Les articles B.01.461 à B.01.465 s’appliquent aux produits préemballés destinés exclusivement aux bébés âgés d’au moins six mois mais de moins d’un an.
+> DORS/2003-11, art. 20; DORS/2016-305, art. 26.
 
 
 
@@ -3421,20 +4439,20 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 - **(1)** Le présent article s’applique à tout produit préemballé à moins que l’un des articles B.01.455 à B.01.459 s’y applique.
 
-- **(2)** Sous réserve du paragraphe (3), le tableau de la valeur nutritive du produit préemballé est présenté selon l’une des versions figurant à la colonne 1 du tableau du présent article, si la condition prévue à la colonne 2 est remplie.
+- **(2)** Sous réserve du paragraphe (3), le tableau de la valeur nutritive du produit préemballé est présenté selon l’une des versions figurant à la colonne 1 du tableau du présent article, si la condition prévue à la colonne 2 est remplie.
 
-- **(3)** Si le tableau de la valeur nutritive ne peut être présenté conformément au présent règlement sur 15 % ou moins de la surface exposée disponible du produit préemballé selon l’une ou l’autre des versions figurant à la colonne 1 du tableau du présent article, il est présenté de l’une des façons suivantes :
-	- **a)** selon le modèle standard bilingue prévu aux figures 3.5(B), 3.6(B) ou 3.7(B) de l’annexe L;
-	- **b)** selon le modèle horizontal bilingue prévu aux figures 4.3(B), 4.4(B) ou 4.5(B) de l’annexe L;
-	- **c)** selon le modèle linéaire prévu aux figures 16.1(F) et (A) ou 16.2(F) et (A) de l’annexe L;
-	- **d)** selon l’une des versions figurant à la colonne 1 du tableau du présent article, même si le tableau de la valeur nutritive devrait être présenté sur plus de 15 % de la surface exposée disponible;
+- **(3)** Si le tableau de la valeur nutritive ne peut être présenté conformément au présent règlement sur 15 % ou moins de la surface exposée disponible du produit préemballé selon l’une ou l’autre des versions figurant à la colonne 1 du tableau du présent article, il est présenté de l’une des façons suivantes :
+	- **a)** selon le modèle standard bilingue prévu aux figures 3.5(B), 3.6(B) ou 3.7(B) du Répertoire des modèles de TVN;
+	- **b)** selon le modèle horizontal bilingue prévu aux figures 4.3(B), 4.4(B) ou 4.5(B) du Répertoire des modèles de TVN;
+	- **c)** selon le modèle linéaire prévu aux figures 16.1(F) et (A) ou 16.2(F) et (A) du Répertoire des modèles de TVN;
+	- **d)** selon l’une des versions figurant à la colonne 1 du tableau du présent article, même si le tableau de la valeur nutritive devrait être présenté sur plus de 15 % de la surface exposée disponible;
 	- **e)** d’une façon prévue à l’article B.01.466.
 
 - **(4)** Pour l’application du présent article, afin d’établir si une version du tableau de la valeur nutritive ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible du produit préemballé, il n’est tenu compte, dans le tableau, que des renseignements exigés par le présent règlement.
 
-- **(5)** Malgré les paragraphes (2) et (3), si le produit préemballé, dont l’étiquette est un autocollant et dont la surface exposée disponible est de 200 cm<sup>2</sup> ou plus, est vendu uniquement dans l’établissement de détail où il est emballé, le tableau de la valeur nutritive est présenté selon l’une des versions figurant à la colonne 1 des articles 1 à 3 des parties 1 à 3 du tableau du présent article, sans égard à toute condition prévue à la colonne 2.
+- **(5)** Malgré les paragraphes (2) et (3), si le produit préemballé, dont l’étiquette est un autocollant et dont la surface exposée disponible est de 200 cm<sup>2</sup> ou plus, est vendu uniquement dans l’établissement de détail où il est emballé, le tableau de la valeur nutritive est présenté selon l’une des versions figurant à la colonne 1 des articles 1 à 3 des parties 1 à 3 du tableau du présent article, sans égard à toute condition prévue à la colonne 2.
 
-- **(6)** Malgré les paragraphes (2) et (3), si le tableau de la valeur nutritive du produit préemballé est placé sur une étiquette mobile attachée à un emballage décoratif ou sur une étiquette mobile attachée à un emballage sur lequel aucune étiquette ne peut être apposée ou sur lequel les renseignements ne peuvent être indiqués lisiblement et de façon que l’acheteur ou le consommateur puisse les voir aisément dans les conditions habituelles d’achat, il est présenté selon l’une des versions prévues aux alinéas (3)a), b) et c) ou selon l’une des versions figurant à la colonne 1 du tableau du présent article, sans égard à toute condition prévue à la colonne 2.
+- **(6)** Malgré les paragraphes (2) et (3), si le tableau de la valeur nutritive du produit préemballé est placé sur une étiquette mobile attachée à un emballage décoratif ou sur une étiquette mobile attachée à un emballage sur lequel aucune étiquette ne peut être apposée ou sur lequel les renseignements ne peuvent être indiqués lisiblement et de façon que l’acheteur ou le consommateur puisse les voir aisément dans les conditions habituelles d’achat, il est présenté selon l’une des versions prévues aux alinéas (3)a), b) et c) ou selon l’une des versions figurant à la colonne 1 du tableau du présent article, sans égard à toute condition prévue à la colonne 2.
 
 **TABLEAU** 
 
@@ -3447,7 +4465,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <th>Colonne 2</th>
 </tr>
 <tr>
-<th>Figure de l’annexe L (version)</th>
+<th>Figure du Répertoire des modèles de TVN (version)</th>
 <th>Condition d’utilisation</th>
 </tr>
 <tr>
@@ -3456,47 +4474,47 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td></td>
 </tr>
 <tr>
-<td>(caractères de 8 points avec interligne de 12 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>1.2(F) et (A)</td>
-<td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
 <td>1.3(F) et (A)</td>
-<td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>4</td>
 <td>1.4(F) et (A)</td>
-<td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>5</td>
 <td>1.5(F) et (A)</td>
-<td>Les versions des articles 1 à 4 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 à 4 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 <tr>
 <td>6</td>
 <td>1.6(F) et (A)</td>
-<td>Les versions des articles 1 à 5 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 à 5 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 9 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 </table>
 
@@ -3509,7 +4527,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <th>Colonne 2</th>
 </tr>
 <tr>
-<th>Figure de l’annexe L (version)</th>
+<th>Figure du Répertoire des modèles de TVN (version)</th>
 <th>Condition d’utilisation</th>
 </tr>
 <tr>
@@ -3518,31 +4536,31 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td></td>
 </tr>
 <tr>
-<td>(caractères de 8 points avec interligne de 12 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>2.2(F) et (A)</td>
-<td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
 <td>2.3(F) et (A)</td>
-<td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>4</td>
 <td>2.4(F) et (A)</td>
-<td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 </table>
 
@@ -3555,7 +4573,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <th>Colonne 2</th>
 </tr>
 <tr>
-<th>Figure de l’annexe L (version)</th>
+<th>Figure du Répertoire des modèles de TVN (version)</th>
 <th>Condition d’utilisation</th>
 </tr>
 <tr>
@@ -3564,31 +4582,31 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td></td>
 </tr>
 <tr>
-<td>(caractères de 8 points avec interligne de 12 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>3.2(B)</td>
-<td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
 <td>3.3(B)</td>
-<td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>4</td>
 <td>3.4(B)</td>
-<td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 </table>
 
@@ -3601,28 +4619,28 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <th>Colonne 2</th>
 </tr>
 <tr>
-<th>Figure de l’annexe L (version)</th>
+<th>Figure du Répertoire des modèles de TVN (version)</th>
 <th>Condition d’utilisation</th>
 </tr>
 <tr>
 <td>1</td>
 <td>4.1(B)</td>
-<td>Les versions des parties 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des parties 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>4.2(B)</td>
-<td>Les versions des parties 1 à 3 et de l’article 1 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des parties 1 à 3 et de l’article 1 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 </table>
 
-> DORS/2003-11, art. 20.
+> DORS/2003-11, art. 20; DORS/2016-305, art. 27 et 74.
 
 
 
@@ -3633,20 +4651,20 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **B.01.455** 
 
-- **(1)** Le présent article s'applique à tout produit préemballé qui remplit la condition du paragraphe B.01.401(6) et dont le tableau de la valeur nutritive ne contient que les renseignements visés aux alinéas B.01.401(6)a) à j).
+- **(1)** Le présent article s’applique à tout produit préemballé qui remplit la condition du paragraphe B.01.401(6) et dont le tableau de la valeur nutritive ne contient que les renseignements visés aux alinéas B.01.401(6)a) à j).
 
-- **(2)** Sous réserve du paragraphe (3), le tableau de la valeur nutritive du produit préemballé est présenté selon l'une des versions figurant à la colonne 1 du tableau du présent article, si la condition prévue à la colonne 2 est remplie.
+- **(2)** Sous réserve du paragraphe (3), le tableau de la valeur nutritive du produit préemballé est présenté selon l’une des versions figurant à la colonne 1 du tableau du présent article, si la condition prévue à la colonne 2 est remplie.
 
-- **(3)** Si le tableau de la valeur nutritive qui ne contient que les renseignements visés aux alinéas B.01.401(6)a) à j) ne peut être présenté conformément au présent règlement sur 15 % ou moins de la surface exposée disponible du produit préemballé selon l'une des versions figurant à la colonne 1 du tableau du présent article, il est présenté de l'une des façons suivantes :
-	- **a)** selon le modèle standard simplifié bilingue prévu aux figures 6.5(B) ou 6.6(B) de l'annexe L;
-	- **b)** selon le modèle horizontal simplifié bilingue prévu aux figures 7.3(B) ou 7.4(B) de l'annexe L;
-	- **c)** selon le modèle linéaire simplifié prévu aux figures 17.1(F) et (A) ou 17.2(F) et (A) de l'annexe L;
-	- **d)** selon l'une des versions figurant à la colonne 1 du tableau du présent article, même si le tableau de la valeur nutritive devrait être présenté sur plus de 15 % de la surface exposée disponible;
-	- **e)** d'une façon prévue à l'article B.01.466.
+- **(3)** Si le tableau de la valeur nutritive qui ne contient que les renseignements visés aux alinéas B.01.401(6)a) à j) ne peut être présenté conformément au présent règlement sur 15 % ou moins de la surface exposée disponible du produit préemballé selon l’une des versions figurant à la colonne 1 du tableau du présent article, il est présenté de l’une des façons suivantes :
+	- **a)** selon le modèle standard simplifié bilingue prévu aux figures 6.5(B) ou 6.6(B) du Répertoire des modèles de TVN;
+	- **b)** selon le modèle horizontal simplifié bilingue prévu aux figures 7.3(B) ou 7.4(B) du Répertoire des modèles de TVN;
+	- **c)** selon le modèle linéaire simplifié prévu aux figures 17.1(F) et (A) ou 17.2(F) et (A) du Répertoire des modèles de TVN;
+	- **d)** selon l’une des versions figurant à la colonne 1 du tableau du présent article, même si le tableau de la valeur nutritive devrait être présenté sur plus de 15 % de la surface exposée disponible;
+	- **e)** d’une façon prévue à l’article B.01.466.
 
-- **(4)** Malgré les paragraphes (2) et (3), si le produit préemballé, dont l'étiquette est un autocollant et dont la surface exposée disponible est de 200 cm<sup>2</sup> ou plus, est vendu uniquement dans l'établissement de détail où il est emballé, le tableau de la valeur nutritive est présenté selon l'une des versions figurant à la colonne 1 des articles 1 à 3 des parties 1 et 2 du tableau du présent article, sans égard à toute condition prévue à la colonne 2.
+- **(4)** Malgré les paragraphes (2) et (3), si le produit préemballé, dont l’étiquette est un autocollant et dont la surface exposée disponible est de 200 cm<sup>2</sup> ou plus, est vendu uniquement dans l’établissement de détail où il est emballé, le tableau de la valeur nutritive est présenté selon l’une des versions figurant à la colonne 1 des articles 1 à 3 des parties 1 et 2 du tableau du présent article, sans égard à toute condition prévue à la colonne 2.
 
-- **(5)** Malgré les paragraphes (2) et (3), si le tableau de la valeur nutritive du produit préemballé est placé sur une étiquette mobile attachée à un emballage décoratif ou sur une étiquette mobile attachée à un emballage sur lequel aucune étiquette ne peut être apposée ou sur lequel les renseignements ne peuvent être indiqués lisiblement et de façon que l'acheteur ou le consommateur puisse les voir aisément dans les conditions habituelles d'achat, il est présenté selon l'une des versions prévues aux alinéas (3)a), b) et c) ou selon l'une des versions figurant à la colonne 1 du tableau du présent article, sans égard à toute condition prévue à la colonne 2.
+- **(5)** Malgré les paragraphes (2) et (3), si le tableau de la valeur nutritive du produit préemballé est placé sur une étiquette mobile attachée à un emballage décoratif ou sur une étiquette mobile attachée à un emballage sur lequel aucune étiquette ne peut être apposée ou sur lequel les renseignements ne peuvent être indiqués lisiblement et de façon que l’acheteur ou le consommateur puisse les voir aisément dans les conditions habituelles d’achat, il est présenté selon l’une des versions prévues aux alinéas (3)a), b) et c) ou selon l’une des versions figurant à la colonne 1 du tableau du présent article, sans égard à toute condition prévue à la colonne 2.
 
 **TABLEAU** 
 
@@ -3660,8 +4678,8 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 </tr>
 <tr>
 <th>Article</th>
-<th>Figure de l'annexe L (version)</th>
-<th>Condition d'utilisation</th>
+<th>Figure du Répertoire des modèles de TVN (version)</th>
+<th>Condition d’utilisation</th>
 </tr>
 <tr>
 <td>1</td>
@@ -3669,47 +4687,47 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td></td>
 </tr>
 <tr>
-<td>(caractères de 8 points avec interligne de 12 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>5.2(F) et (A)</td>
-<td>La version de l'article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
 <td>5.3(F) et (A)</td>
-<td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>4</td>
 <td>5.4(F) et (A)</td>
-<td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>5</td>
 <td>5.5(F) et (A)</td>
-<td>Les versions des articles 1 à 4 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 à 4 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 <tr>
 <td>6</td>
 <td>5.6(F) et (A)</td>
-<td>Les versions des articles 1 à 5 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 à 5 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 9 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 </table>
 
@@ -3717,13 +4735,14 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <table>
 <h4>Modèle standard simplifié bilingue</h4>
 <tr>
-<th>Article</th>
+<th></th>
 <th>Colonne 1</th>
 <th>Colonne 2</th>
 </tr>
 <tr>
-<th>Figure de l'annexe L (version)</th>
-<th>Condition d'utilisation</th>
+<th>Article</th>
+<th>Figure du Répertoire des modèles de TVN (version)</th>
+<th>Condition d’utilisation</th>
 </tr>
 <tr>
 <td>1</td>
@@ -3731,31 +4750,31 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td></td>
 </tr>
 <tr>
-<td>(caractères de 8 points avec interligne de 12 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>6.2(B)</td>
-<td>La version de l'article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
 <td>6.3(B)</td>
-<td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>4</td>
 <td>6.4(B)</td>
-<td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 </table>
 
@@ -3763,33 +4782,138 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <table>
 <h4>Modèle horizontal simplifié bilingue</h4>
 <tr>
+<th></th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
+</tr>
+<tr>
+<th>Article</th>
+<th>Figure du Répertoire des modèles de TVN (version)</th>
+<th>Condition d’utilisation</th>
+</tr>
+<tr>
+<td>1</td>
+<td>7.1(B)</td>
+<td>Les versions des parties 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+</tr>
+<tr>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
+</tr>
+<tr>
+<td>2</td>
+<td>7.2(B)</td>
+<td>Les versions des parties 1 et 2 et de l’article 1 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+</tr>
+<tr>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
+</tr>
+</table>
+
+> DORS/2003-11, art. 20; DORS/2016-305, art. 28 et 74.
+
+
+
+
+
+##### Modèles simplifiés — produits préemballés à portion individuelle
+
+
+**B.01.455.1** 
+
+- **(1)** Le présent article s’applique à tout produit préemballé à portion individuelle autre qu’un repas préemballé dont le tableau de la valeur nutritive ne contient que les renseignements visés aux alinéas B.01.401(6.1)a) à j).
+
+- **(2)** Sous réserve du paragraphe (3), le tableau de la valeur nutritive du produit préemballé à portion individuelle est présenté selon l’une des versions figurant à la colonne 1 du tableau du présent article, si la condition prévue à la colonne 2 est remplie.
+
+- **(3)** Si le tableau de la valeur nutritive qui ne contient que les renseignements visés aux alinéas B.01.401(6.1)a) à j) ne peut être présenté conformément au présent règlement sur 15 % ou moins de la surface exposée disponible du produit préemballé à portion individuelle selon l’une des versions figurant à la colonne 1 du tableau du présent article, il est présenté de l’une des façons suivantes :
+	- **a)** selon le modèle standard simplifié bilingue prévu aux figures 6.5.1(B) ou 6.6.1(B) du Répertoire des modèles de TVN;
+	- **b)** selon le modèle horizontal simplifié bilingue prévu aux figures 7.3.1(B) ou 7.4.1(B) du Répertoire des modèles de TVN;
+	- **c)** selon le modèle linéaire simplifié prévu aux figures 17.1.1(F) et (A) ou 17.2.1(F) et (A) du Répertoire des modèles de TVN;
+	- **d)** selon l’une des versions figurant à la colonne 1 du tableau du présent article, même si le tableau de la valeur nutritive devrait être présenté sur plus de 15 % de la surface exposée disponible;
+	- **e)** d’une façon prévue à l’article B.01.466.
+
+- **(4)** Malgré les paragraphes (2) et (3), si le produit préemballé à portion individuelle, dont l’étiquette est un autocollant et dont la surface exposée disponible est de 200 cm<sup>2</sup> ou plus, est vendu uniquement dans l’établissement de détail où il est emballé, le tableau de la valeur nutritive est présenté selon l’une des versions figurant à la colonne 1 des articles 1 à 3 de la partie 1 du tableau du présent article, sans égard à toute condition prévue à la colonne 2.
+
+- **(5)** Malgré les paragraphes (2) et (3), si le tableau de la valeur nutritive du produit préemballé à portion individuelle est placé sur une étiquette mobile attachée à un emballage décoratif ou sur une étiquette mobile attachée à un emballage sur lequel aucune étiquette ne peut être apposée ou sur lequel les renseignements ne peuvent être indiqués lisiblement et de façon que l’acheteur ou le consommateur puisse les voir aisément dans les conditions habituelles d’achat, il est présenté selon l’une des versions prévues aux alinéas (3)a), b) et c) ou selon l’une des versions figurant à la colonne 1 du tableau du présent article, sans égard à toute condition prévue à la colonne 2.
+
+**TABLEAU** 
+
+#### PARTIE 1
+<table>
+<h4>Modèle standard simplifié bilingue — produits préemballés à portion individuelle</h4>
+<tr>
 <th>Article</th>
 <th>Colonne 1</th>
 <th>Colonne 2</th>
 </tr>
 <tr>
-<th>Figure de l'annexe L (version)</th>
-<th>Condition d'utilisation</th>
+<th>Figure du Répertoire des modèles de TVN (version)</th>
+<th>Condition d’utilisation</th>
 </tr>
 <tr>
 <td>1</td>
-<td>7.1(B)</td>
-<td>Les versions des parties 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>6.1.1(B)</td>
+<td></td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
-<td>7.2(B)</td>
-<td>Les versions des parties 1 et 2 et de l'article 1 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>6.2.1(B)</td>
+<td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 7 points)</td>
+</tr>
+<tr>
+<td>3</td>
+<td>6.3.1(B)</td>
+<td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+</tr>
+<tr>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
+</tr>
+<tr>
+<td>4</td>
+<td>6.4.1(B)</td>
+<td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+</tr>
+<tr>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 </table>
 
-> DORS/2003-11, art. 20.
+#### PARTIE 2
+<table>
+<h4>Modèle horizontal simplifié bilingue — produits préemballés à portion individuelle</h4>
+<tr>
+<th>Article</th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
+</tr>
+<tr>
+<th>Figure du Répertoire des modèles de TVN (version)</th>
+<th>Condition d’utilisation</th>
+</tr>
+<tr>
+<td>1</td>
+<td>7.1.1(B)</td>
+<td>Les versions de la partie 1 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+</tr>
+<tr>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
+</tr>
+<tr>
+<td>2</td>
+<td>7.2.1(B)</td>
+<td>Les versions de la partie 1 et de l’article 1 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+</tr>
+<tr>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
+</tr>
+</table>
+
+> DORS/2016-305, art. 29.
 
 
 
@@ -3800,15 +4924,15 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **B.01.456** 
 
-- **(1)** Sous réserve du paragraphe (2), le tableau de la valeur nutritive de tout produit préemballé qui indique les renseignements visés au paragraphe B.01.406(5) est présenté selon l’une des versions figurant à la colonne 1 du tableau du présent article, si la condition prévue à la colonne 2 est remplie.
+- **(1)** Sous réserve du paragraphe (2), le tableau de la valeur nutritive de tout produit préemballé qui indique les renseignements visés au paragraphe B.01.406(5) est présenté selon l’une des versions figurant à la colonne 1 du tableau du présent article, si la condition prévue à la colonne 2 est remplie.
 
-- **(2)** Si le tableau de la valeur nutritive ne peut être présenté conformément au présent règlement sur 15 % ou moins de la surface exposée disponible du produit préemballé selon l’une des versions figurant à la colonne 1 du tableau du présent article, il est présenté :
-	- **a)** soit selon le modèle double bilingue prévu aux figures 9.5(B) ou 9.6(B) de l’annexe L;
-	- **b)** soit selon l’une des versions figurant à la colonne 1 du tableau du présent article, même si le tableau de la valeur nutritive devrait être présenté sur plus de 15 % de la surface exposée disponible.
+- **(2)** Si le tableau de la valeur nutritive ne peut être présenté conformément au présent règlement sur 15 % ou moins de la surface exposée disponible du produit préemballé selon l’une des versions figurant à la colonne 1 du tableau du présent article, il est présenté :
+	- **a)** soit selon le modèle double bilingue prévu aux figures 9.5(B) ou 9.6(B) du Répertoire des modèles de TVN;
+	- **b)** soit selon l’une des versions figurant à la colonne 1 du tableau du présent article, même si le tableau de la valeur nutritive devrait être présenté sur plus de 15 % de la surface exposée disponible.
 
 - **(3)** Pour l’application du présent article, afin d’établir si une version du tableau de la valeur nutritive ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible du produit préemballé, il n’est tenu compte, dans le tableau, que des renseignements exigés par le présent règlement ainsi que des renseignements visés au paragraphe B.01.406(5).
 
-- **(4)** Malgré les paragraphes (1) et (2), si le tableau de la valeur nutritive du produit préemballé est placé sur une étiquette mobile attachée à un emballage décoratif ou sur une étiquette mobile attachée à un emballage sur lequel aucune étiquette ne peut être apposée ou sur lequel les renseignements ne peuvent être indiqués lisiblement et de façon que l’acheteur ou le consommateur puisse les voir aisément dans les conditions habituelles d’achat, il est présenté selon l’une des versions prévues à l’alinéa (2)a) ou selon l’une des versions figurant à la colonne 1 du tableau du présent article, sans égard à toute condition prévue à la colonne 2.
+- **(4)** Malgré les paragraphes (1) et (2), si le tableau de la valeur nutritive du produit préemballé est placé sur une étiquette mobile attachée à un emballage décoratif ou sur une étiquette mobile attachée à un emballage sur lequel aucune étiquette ne peut être apposée ou sur lequel les renseignements ne peuvent être indiqués lisiblement et de façon que l’acheteur ou le consommateur puisse les voir aisément dans les conditions habituelles d’achat, il est présenté selon l’une des versions prévues à l’alinéa (2)a) ou selon l’une des versions figurant à la colonne 1 du tableau du présent article, sans égard à toute condition prévue à la colonne 2.
 
 **TABLEAU** 
 
@@ -3821,7 +4945,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <th>Colonne 2</th>
 </tr>
 <tr>
-<th>Figure de l’annexe L (version)</th>
+<th>Figure du Répertoire des modèles de TVN (version)</th>
 <th>Condition d’utilisation</th>
 </tr>
 <tr>
@@ -3830,47 +4954,47 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td></td>
 </tr>
 <tr>
-<td>(caractères de 8 points avec interligne de 12 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>8.2(F) et (A)</td>
-<td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
 <td>8.3(F) et (A)</td>
-<td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>4</td>
 <td>8.4(F) et (A)</td>
-<td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>5</td>
 <td>8.5(F) et (A)</td>
-<td>Les versions des articles 1 à 4 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 à 4 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 <tr>
 <td>6</td>
 <td>8.6(F) et (A)</td>
-<td>Les versions des articles 1 à 5 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 à 5 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 9 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 </table>
 
@@ -3883,7 +5007,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <th>Colonne 2</th>
 </tr>
 <tr>
-<th>Figure de l’annexe L (version)</th>
+<th>Figure du Répertoire des modèles de TVN (version)</th>
 <th>Condition d’utilisation</th>
 </tr>
 <tr>
@@ -3892,35 +5016,35 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td></td>
 </tr>
 <tr>
-<td>(caractères de 8 points avec interligne de 12 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>9.2(B)</td>
-<td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
 <td>9.3(B)</td>
-<td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>4</td>
 <td>9.4(B)</td>
-<td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 </table>
 
-> DORS/2003-11, art. 20.
+> DORS/2003-11, art. 20; DORS/2016-305, art. 30 et 74.
 
 
 
@@ -3931,33 +5055,33 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **B.01.457** 
 
-- **(1)** Sous réserve du paragraphe (2), le tableau de la valeur nutritive de tout produit préemballé qui indique des renseignements distincts en fonction de chaque ingrédient ou aliment, tel qu’il est prévu au paragraphe B.01.406(2), à l’alinéa B.01.406(3)a) ou au paragraphe B.01.406(4), est présenté selon l’une des versions figurant à la colonne 1 du tableau du présent article, si la condition prévue à la colonne 2 est remplie.
+- **(1)** Sous réserve du paragraphe (2), le tableau de la valeur nutritive de tout produit préemballé qui indique des renseignements distincts en fonction de chaque ingrédient ou aliment, tel qu’il est prévu au paragraphe B.01.406(2), à l’alinéa B.01.406(3)a) ou au paragraphe B.01.406(4), est présenté selon l’une des versions figurant à la colonne 1 du tableau du présent article, si la condition prévue à la colonne 2 est remplie.
 
-- **(2)** Si le tableau de la valeur nutritive ne peut être présenté conformément au présent règlement sur 15 % ou moins de la surface exposée disponible du produit préemballé selon l’une des versions figurant à la colonne 1 du tableau du présent article, il est présenté :
-	- **a)** dans le cas de tout produit visé aux paragraphes B.01.406(2) ou (4) :
-		- **(i)** soit selon le modèle composé bilingue prévu aux figures 11.5(B) ou 11.6(B) de l’annexe L,
-		- **(ii)** soit selon l’une des versions figurant à la colonne 1 du tableau du présent article, même si le tableau de la valeur nutritive devrait être présenté sur plus de 15 % de la surface exposée disponible;
-	- **b)** dans le cas de tout produit visé à l’alinéa B.01.406(3)a) :
-		- **(i)** soit selon le modèle composé bilingue prévu aux figures 11.5(B) ou 11.6(B) de l’annexe L,
+- **(2)** Si le tableau de la valeur nutritive ne peut être présenté conformément au présent règlement sur 15 % ou moins de la surface exposée disponible du produit préemballé selon l’une des versions figurant à la colonne 1 du tableau du présent article, il est présenté :
+	- **a)** dans le cas de tout produit visé aux paragraphes B.01.406(2) ou (4) :
+		- **(i)** soit selon le modèle composé bilingue prévu aux figures 11.5(B) ou 11.6(B) du Répertoire des modèles de TVN,
+		- **(ii)** soit selon l’une des versions figurant à la colonne 1 du tableau du présent article, même si le tableau de la valeur nutritive devrait être présenté sur plus de 15 % de la surface exposée disponible;
+	- **b)** dans le cas de tout produit visé à l’alinéa B.01.406(3)a) :
+		- **(i)** soit selon le modèle composé bilingue prévu aux figures 11.5(B) ou 11.6(B) du Répertoire des modèles de TVN,
 		- **(ii)** soit selon l’une des versions figurant à la colonne 1 du tableau du présent article, même si le tableau de la valeur nutritive devrait être présenté sur plus de 15 % de la surface exposée disponible,
 		- **(iii)** soit d’une façon prévue à l’article B.01.466.
 
 - **(3)** Pour l’application du présent article, afin d’établir si une version du tableau de la valeur nutritive ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible du produit préemballé, il n’est tenu compte, dans le tableau, que des renseignements exigés par le présent règlement pour chaque ingrédient ou aliment pour lequel des renseignements distincts y sont indiqués.
 
-- **(4)** Malgré les paragraphes (1) et (2), si le tableau de la valeur nutritive du produit préemballé est placé sur une étiquette mobile attachée à un emballage décoratif ou sur une étiquette mobile attachée à un emballage sur lequel aucune étiquette ne peut être apposée ou sur lequel les renseignements ne peuvent être indiqués lisiblement et de façon que l’acheteur ou le consommateur puisse les voir aisément dans les conditions habituelles d’achat, il est présenté selon l’une des versions prévues au sous-alinéa (2)a)(i) ou selon l’une des versions figurant à la colonne 1 du tableau du présent article, sans égard à toute condition prévue à la colonne 2.
+- **(4)** Malgré les paragraphes (1) et (2), si le tableau de la valeur nutritive du produit préemballé est placé sur une étiquette mobile attachée à un emballage décoratif ou sur une étiquette mobile attachée à un emballage sur lequel aucune étiquette ne peut être apposée ou sur lequel les renseignements ne peuvent être indiqués lisiblement et de façon que l’acheteur ou le consommateur puisse les voir aisément dans les conditions habituelles d’achat, il est présenté selon l’une des versions prévues au sous-alinéa (2)a)(i) ou selon l’une des versions figurant à la colonne 1 du tableau du présent article, sans égard à toute condition prévue à la colonne 2.
 
 ## TABLEAU
 
 #### PARTIE 1
 <table>
-<h4>MODÈLE COMPOSÉ — DIFFÉRENTS TYPES D’ALIMENTS</h4>
+<h4>Modèle composé — différents types d’aliments</h4>
 <tr>
 <th>Article</th>
 <th>Colonne 1</th>
 <th>Colonne 2</th>
 </tr>
 <tr>
-<th>Figure de l’annexe L (version)</th>
+<th>Figure du Répertoire des modèles de TVN (version)</th>
 <th>Condition d’utilisation</th>
 </tr>
 <tr>
@@ -3966,60 +5090,60 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td></td>
 </tr>
 <tr>
-<td>(caractères de 8 points avec interligne de 12 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>10.2(F) et (A)</td>
-<td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
 <td>10.3(F) et (A)</td>
-<td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>4</td>
 <td>10.4(F) et (A)</td>
-<td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>5</td>
 <td>10.5(F) et (A)</td>
-<td>Les versions des articles 1 à 4 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 à 4 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 <tr>
 <td>6</td>
 <td>10.6(F) et (A)</td>
-<td>Les versions des articles 1 à 5 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 à 5 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 9 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 </table>
 
 #### PARTIE 2
 <table>
-<h4>MODÈLE COMPOSÉ BILINGUE — DIFFÉRENTS TYPES D’ALIMENTS</h4>
+<h4>Modèle composé bilingue — différents types d’aliments</h4>
 <tr>
 <th>Article</th>
 <th>Colonne 1</th>
 <th>Colonne 2</th>
 </tr>
 <tr>
-<th>Figure de l’annexe L (version)</th>
+<th>Figure du Répertoire des modèles de TVN (version)</th>
 <th>Condition d’utilisation</th>
 </tr>
 <tr>
@@ -4028,35 +5152,35 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td></td>
 </tr>
 <tr>
-<td>(caractères de 8 points avec interligne de 12 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>11.2(B)</td>
-<td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins de 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
 <td>11.3(B)</td>
-<td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>4</td>
 <td>11.4(B)</td>
-<td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 </table>
 
-> DORS/2003-11, art. 20.
+> DORS/2003-11, art. 20; DORS/2016-305, art. 31 et 74.
 
 
 
@@ -4067,28 +5191,28 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **B.01.458** 
 
-- **(1)** Sous réserve du paragraphe (2), le tableau de la valeur nutritive de tout produit préemballé qui indique des renseignements distincts en fonction de différentes quantités de l’aliment, tel qu’il est prévu à l’alinéa B.01.406(7)a), sans indiquer les renseignements visés au sous-alinéa B.01.406(7)c), est présenté selon l’une des versions figurant à la colonne 1 du tableau du présent article, si la condition prévue à la colonne 2 est remplie.
+- **(1)** Sous réserve du paragraphe (2), le tableau de la valeur nutritive de tout produit préemballé qui indique des renseignements distincts en fonction de différentes quantités de l’aliment, tel qu’il est prévu à l’alinéa B.01.406(7)a), sans indiquer les renseignements visés au sous-alinéa B.01.406(7)c), est présenté selon l’une des versions figurant à la colonne 1 du tableau du présent article, si la condition prévue à la colonne 2 est remplie.
 
-- **(2)** Si le tableau de la valeur nutritive ne peut être présenté conformément au présent règlement sur 15 % ou moins de la surface exposée disponible du produit préemballé selon l’une des versions figurant à la colonne 1 du tableau du présent article, il est présenté :
-	- **a)** soit selon le modèle double bilingue prévu aux figures 13.5(B) ou 13.6(B) de l’annexe L;
-	- **b)** soit selon l’une des versions figurant à la colonne 1 du tableau du présent article, même si le tableau de la valeur nutritive devrait être présenté sur plus de 15 % de la surface exposée disponible.
+- **(2)** Si le tableau de la valeur nutritive ne peut être présenté conformément au présent règlement sur 15 % ou moins de la surface exposée disponible du produit préemballé selon l’une des versions figurant à la colonne 1 du tableau du présent article, il est présenté :
+	- **a)** soit selon le modèle double bilingue prévu aux figures 13.5(B) ou 13.6(B) du Répertoire des modèles de TVN;
+	- **b)** soit selon l’une des versions figurant à la colonne 1 du tableau du présent article, même si le tableau de la valeur nutritive devrait être présenté sur plus de 15 % de la surface exposée disponible.
 
 - **(3)** Pour l’application du présent article, afin d’établir si une version du tableau de la valeur nutritive ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible du produit préemballé, il n’est tenu compte, dans le tableau, que des renseignements exigés par le présent règlement pour chaque quantité d’aliment pour laquelle des renseignements distincts y sont indiqués.
 
-- **(4)** Malgré les paragraphes (1) et (2), si le tableau de la valeur nutritive du produit préemballé est placé sur une étiquette mobile attachée à un emballage décoratif ou sur une étiquette mobile attachée à un emballage sur lequel aucune étiquette ne peut être apposée ou sur lequel les renseignements ne peuvent être indiqués lisiblement et de façon que l’acheteur ou le consommateur puisse les voir aisément dans les conditions habituelles d’achat, il est présenté selon l’une des versions prévues à l’alinéa (2)a) ou selon l’une des versions figurant à la colonne 1 du tableau du présent article, sans égard à toute condition prévue à la colonne 2.
+- **(4)** Malgré les paragraphes (1) et (2), si le tableau de la valeur nutritive du produit préemballé est placé sur une étiquette mobile attachée à un emballage décoratif ou sur une étiquette mobile attachée à un emballage sur lequel aucune étiquette ne peut être apposée ou sur lequel les renseignements ne peuvent être indiqués lisiblement et de façon que l’acheteur ou le consommateur puisse les voir aisément dans les conditions habituelles d’achat, il est présenté selon l’une des versions prévues à l’alinéa (2)a) ou selon l’une des versions figurant à la colonne 1 du tableau du présent article, sans égard à toute condition prévue à la colonne 2.
 
 ## TABLEAU
 
 #### PARTIE 1
 <table>
-<h4>MODÈLE DOUBLE — DIFFÉRENTES QUANTITÉS D’ALIMENTS</h4>
+<h4>Modèle double — différentes quantités d’aliments</h4>
 <tr>
 <th>Article</th>
 <th>Colonne 1</th>
 <th>Colonne 2</th>
 </tr>
 <tr>
-<th>Figure de l’annexe L (version)</th>
+<th>Figure du Répertoire des modèles de TVN (version)</th>
 <th>Condition d’utilisation</th>
 </tr>
 <tr>
@@ -4097,60 +5221,60 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td></td>
 </tr>
 <tr>
-<td>(caractères de 8 points avec interligne de 12 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>12.2(F) et (A)</td>
-<td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
 <td>12.3(F) et (A)</td>
-<td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>4</td>
 <td>12.4(F) et (A)</td>
-<td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>5</td>
 <td>12.5(F) et (A)</td>
-<td>Les versions des articles 1 à 4 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 à 4 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 <tr>
 <td>6</td>
 <td>12.6(F) et (A)</td>
-<td>Les versions des articles 1 à 5 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 à 5 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 9 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 </table>
 
 #### PARTIE 2
 <table>
-<h4>MODÈLE DOUBLE BILINGUE — DIFFÉRENTES QUANTITÉS D’ALIMENTS</h4>
+<h4>Modèle double bilingue — différentes quantités d’aliments</h4>
 <tr>
 <th>Article</th>
 <th>Colonne 1</th>
 <th>Colonne 2</th>
 </tr>
 <tr>
-<th>Figure de l’annexe L (version)</th>
+<th>Figure du Répertoire des modèles de TVN (version)</th>
 <th>Condition d’utilisation</th>
 </tr>
 <tr>
@@ -4159,35 +5283,35 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td></td>
 </tr>
 <tr>
-<td>(caractères de 8 points avec interligne de 12 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>13.2(B)</td>
-<td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
 <td>13.3(B)</td>
-<td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>4</td>
 <td>13.4(B)</td>
-<td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 </table>
 
-> DORS/2003-11, art. 20.
+> DORS/2003-11, art. 20; DORS/2016-305, art. 32 et 74.
 
 
 
@@ -4198,28 +5322,28 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **B.01.459** 
 
-- **(1)** Sous réserve du paragraphe (2), le tableau de la valeur nutritive de tout produit préemballé qui indique des renseignements distincts en fonction de différentes quantités de l’aliment, tel qu’il est prévu aux alinéas B.01.406(7)a) et c), est présenté selon l’une des versions figurant à la colonne 1 du tableau du présent article, si la condition prévue à la colonne 2 est remplie.
+- **(1)** Sous réserve du paragraphe (2), le tableau de la valeur nutritive de tout produit préemballé qui indique des renseignements distincts en fonction de différentes quantités de l’aliment, tel qu’il est prévu aux alinéas B.01.406(7)a) et c), est présenté selon l’une des versions figurant à la colonne 1 du tableau du présent article, si la condition prévue à la colonne 2 est remplie.
 
-- **(2)** Si le tableau de la valeur nutritive ne peut être présenté conformément au présent règlement sur 15 % ou moins de la surface exposée disponible du produit préemballé selon l’une des versions figurant à la colonne 1 du tableau du présent article, il est présenté :
-	- **a)** soit selon le modèle composé bilingue prévu aux figures 15.5(B) ou 15.6(B) de l’annexe L;
-	- **b)** soit selon l’une des versions figurant à la colonne 1 du tableau du présent article, même si le tableau de la valeur nutritive devrait être présenté sur plus de 15 % de la surface exposée disponible.
+- **(2)** Si le tableau de la valeur nutritive ne peut être présenté conformément au présent règlement sur 15 % ou moins de la surface exposée disponible du produit préemballé selon l’une des versions figurant à la colonne 1 du tableau du présent article, il est présenté :
+	- **a)** soit selon le modèle composé bilingue prévu aux figures 15.5(B) ou 15.6(B) du Répertoire des modèles de TVN;
+	- **b)** soit selon l’une des versions figurant à la colonne 1 du tableau du présent article, même si le tableau de la valeur nutritive devrait être présenté sur plus de 15 % de la surface exposée disponible.
 
 - **(3)** Pour l’application du présent article, afin d’établir si une version du tableau de la valeur nutritive ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible du produit préemballé, il n’est tenu compte, dans le tableau, que des renseignements exigés par le présent règlement pour chaque quantité d’aliment pour laquelle des renseignements distincts y sont indiqués.
 
-- **(4)** Malgré les paragraphes (1) et (2), si le tableau de la valeur nutritive du produit préemballé est placé sur une étiquette mobile attachée à un emballage décoratif ou sur une étiquette mobile attachée à un emballage sur lequel aucune étiquette ne peut être apposée ou sur lequel les renseignements ne peuvent être indiqués lisiblement et de façon que l’acheteur ou le consommateur puisse les voir aisément dans les conditions habituelles d’achat, il est présenté selon l’une des versions prévues à l’alinéa (2)a) ou selon l’une des versions figurant à la colonne 1 du tableau du présent article, sans égard à toute condition prévue à la colonne 2.
+- **(4)** Malgré les paragraphes (1) et (2), si le tableau de la valeur nutritive du produit préemballé est placé sur une étiquette mobile attachée à un emballage décoratif ou sur une étiquette mobile attachée à un emballage sur lequel aucune étiquette ne peut être apposée ou sur lequel les renseignements ne peuvent être indiqués lisiblement et de façon que l’acheteur ou le consommateur puisse les voir aisément dans les conditions habituelles d’achat, il est présenté selon l’une des versions prévues à l’alinéa (2)a) ou selon l’une des versions figurant à la colonne 1 du tableau du présent article, sans égard à toute condition prévue à la colonne 2.
 
 ## TABLEAU
 
 #### PARTIE 1
 <table>
-<h4>MODÈLE COMPOSÉ — DIFFÉRENTES QUANTITÉS D’ALIMENTS</h4>
+<h4>Modèle composé — différentes quantités d’aliments</h4>
 <tr>
 <th>Article</th>
 <th>Colonne 1</th>
 <th>Colonne 2</th>
 </tr>
 <tr>
-<th>Figure de l’annexe L (version)</th>
+<th>Figure du Répertoire des modèles de TVN (version)</th>
 <th>Condition d’utilisation</th>
 </tr>
 <tr>
@@ -4228,60 +5352,60 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td></td>
 </tr>
 <tr>
-<td>(caractères de 8 points avec interligne de 12 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>14.2(F) et (A)</td>
-<td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
 <td>14.3(F) et (A)</td>
-<td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>4</td>
 <td>14.4(F) et (A)</td>
-<td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>5</td>
 <td>14.5(F) et (A)</td>
-<td>Les versions des articles 1 à 4 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 à 4 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 <tr>
 <td>6</td>
 <td>14.6(F) et (A)</td>
-<td>Les versions des articles 1 à 5 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 à 5 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 9 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 </table>
 
 #### PARTIE 2
 <table>
-<h4>MODÈLE COMPOSÉ BILINGUE — DIFFÉRENTES QUANTITÉS D’ALIMENTS</h4>
+<h4>Modèle composé bilingue — différentes quantités d’aliments</h4>
 <tr>
 <th>Article</th>
 <th>Colonne 1</th>
 <th>Colonne 2</th>
 </tr>
 <tr>
-<th>Figure de l’annexe L (version)</th>
+<th>Figure du Répertoire des modèles de TVN (version)</th>
 <th>Condition d’utilisation</th>
 </tr>
 <tr>
@@ -4290,35 +5414,35 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td></td>
 </tr>
 <tr>
-<td>(caractères de 8 points avec interligne de 12 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>15.2(B)</td>
-<td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
 <td>15.3(B)</td>
-<td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>4</td>
 <td>15.4(B)</td>
-<td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
+<td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 </table>
 
-> DORS/2003-11, art. 20.
+> DORS/2003-11, art. 20; DORS/2016-305, art. 33 et 74.
 
 
 
@@ -4329,37 +5453,37 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **B.01.460** 
 
-- **(1)** Les renseignements visés à la colonne 1 du tableau de l’article B.01.402 qui sont indiqués dans la version du tableau de la valeur nutritive se composant d’un tableau en anglais et d’un tableau en français ou d’un tableau en anglais ou en français sont présentés :
-	- **a)** selon l’ordre, les retraits et les notes complémentaires indiqués aux figures 18.1(F) et (A) de l’annexe L;
-	- **b)** quant aux autres caractéristiques de présentation, selon le modèle prévu à la figure applicable de l’annexe L.
+- **(1)** Les renseignements visés à la colonne 1 du tableau de l’article B.01.402 qui sont indiqués dans la version du tableau de la valeur nutritive se composant d’un tableau en anglais et d’un tableau en français ou d’un tableau en anglais ou en français sont présentés :
+	- **a)** selon l’ordre, les retraits et les notes complémentaires indiqués aux figures 18.1(F) et (A) du Répertoire des modèles de TVN;
+	- **b)** quant aux autres caractéristiques de présentation, selon le modèle prévu à la figure applicable du Répertoire des modèles de TVN.
 
-- **(2)** Les renseignements visés à la colonne 1 du tableau de l’article B.01.402 indiqués dans la version du tableau de la valeur nutritive se composant d’un tableau en anglais et en français sont présentés :
-	- **a)** selon l’ordre, les retraits et les notes complémentaires indiqués à la figure 19.1(B) de l’annexe L;
-	- **b)** quant aux autres caractéristiques de présentation, selon le modèle prévu à la figure applicable de l’annexe L.
+- **(2)** Les renseignements visés à la colonne 1 du tableau de l’article B.01.402 indiqués dans la version du tableau de la valeur nutritive se composant d’un tableau en anglais et en français sont présentés :
+	- **a)** selon l’ordre, les retraits et les notes complémentaires indiqués à la figure 19.1(B) du Répertoire des modèles de TVN;
+	- **b)** quant aux autres caractéristiques de présentation, selon le modèle prévu à la figure applicable du Répertoire des modèles de TVN.
 
-- **(3)** Malgré l’alinéa (1)a), les retraits indiqués aux figures 18.1(F) et (A) de l’annexe L ne s’appliquent pas si les renseignements visés à la colonne 1 du tableau de l’article B.01.402 sont présentés selon le modèle linéaire visé à l’alinéa B.01.454(3)c) ou le modèle linéaire simplifié visé à l’alinéa B.01.455(3)c).
-> DORS/2003-11, art. 20.
-
-
+- **(3)** Malgré l’alinéa (1)a), les retraits indiqués aux figures 18.1(F) et (A) du Répertoire des modèles de TVN ne s’appliquent pas si les renseignements visés à la colonne 1 du tableau de l’article B.01.402 sont présentés selon le modèle linéaire visé à l’alinéa B.01.454(3)c) ou le modèle linéaire simplifié visé à l’alinéa B.01.455(3)c).
+> DORS/2003-11, art. 20; DORS/2016-305, art. 74.
 
 
 
-##### Modèles standard et horizontal — enfants âgés de moins de deux ans
-> [DORS/2003-11, art. 20; err.(A), Vol. 137, n<sup>o</sup> 5]
+
+
+##### Modèles standard et horizontal — bébés âgés d’au moins six mois mais de moins d’un an
+> [DORS/2003-11, art. 20; err.(A), Vol. 137, n<sup>o</sup> 5; DORS/2016-305, art. 34]
 
 
 
 **B.01.461** 
 
-- **(1)** Le présent article s’applique à tout produit préemballé destiné exclusivement aux enfants âgés de moins de deux ans, à moins que l’un des articles B.01.462, B.01.463 et B.01.464 s’y applique.
+- **(1)** Le présent article s’applique à tout produit préemballé destiné exclusivement aux bébés âgés d’au moins six mois mais de moins d’un an, sauf si l’un des articles B.01.462, B.01.463 et B.01.464 s’y applique.
 
-- **(2)** Sous réserve du paragraphe (3), le tableau de la valeur nutritive du produit préemballé est présenté selon l’une des versions figurant à la colonne 1 du tableau du présent article, si la condition prévue à la colonne 2 est remplie.
+- **(2)** Sous réserve du paragraphe (3), le tableau de la valeur nutritive du produit préemballé est présenté selon l’une des versions figurant à la colonne 1 du tableau du présent article, si la condition prévue à la colonne 2 est remplie.
 
-- **(3)** Si le tableau de la valeur nutritive ne peut être présenté conformément au présent règlement sur 15 % ou moins de la surface exposée disponible du produit préemballé selon l’une des versions figurant à la colonne 1 du tableau du présent article, il est présenté de l’une des façons suivantes :
-	- **a)** selon le modèle standard bilingue prévu aux figures 22.5(B), 22.6(B) ou 22.7(B) de l’annexe L;
-	- **b)** selon le modèle horizontal bilingue prévu aux figures 23.3(B) ou 23.4(B) de l’annexe L;
-	- **c)** selon le modèle linéaire prévu aux figures 31.1(F) et (A) ou 31.2(F) et (A) de l’annexe L;
-	- **d)** selon l’une des versions figurant à la colonne 1 du tableau du présent article, même si le tableau de la valeur nutritive devrait être présenté sur plus de 15 % de la surface exposée disponible;
+- **(3)** Si le tableau de la valeur nutritive ne peut être présenté conformément au présent règlement sur 15 % ou moins de la surface exposée disponible du produit préemballé selon l’une des versions figurant à la colonne 1 du tableau du présent article, il est présenté de l’une des façons suivantes :
+	- **a)** selon le modèle standard bilingue prévu aux figures 22.5(B), 22.6(B) ou 22.7(B) du Répertoire des modèles de TVN;
+	- **b)** selon le modèle horizontal bilingue prévu aux figures 23.3(B) ou 23.4(B) du Répertoire des modèles de TVN;
+	- **c)** selon le modèle linéaire prévu aux figures 31.1(F) et (A) ou 31.2(F) et (A) du Répertoire des modèles de TVN;
+	- **d)** selon l’une des versions figurant à la colonne 1 du tableau du présent article, même si le tableau de la valeur nutritive devrait être présenté sur plus de 15 % de la surface exposée disponible;
 	- **e)** d’une façon prévue à l’article B.01.466.
 
 - **(4)** Pour l’application du présent article, afin d’établir si une version du tableau de la valeur nutritive ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible du produit préemballé, il n’est tenu compte, dans le tableau, que des renseignements exigés par le présent règlement.
@@ -4368,14 +5492,14 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 #### PARTIE 1
 <table>
-<h4>MODÈLE STANDARD — ENFANTS ÂGÉS DE MOINS DE DEUX ANS</h4>
+<h4>Modèle standard — bébés âgés d’au moins six mois mais de moins d’un an</h4>
 <tr>
 <th>Article</th>
 <th>Colonne 1</th>
 <th>Colonne 2</th>
 </tr>
 <tr>
-<th>Figure de l’annexe L (version)</th>
+<th>Figure du Répertoire des modèles de TVN (version)</th>
 <th>Condition d’utilisation</th>
 </tr>
 <tr>
@@ -4384,7 +5508,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td></td>
 </tr>
 <tr>
-<td>(caractères de 8 points avec interligne de 12 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4392,7 +5516,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
@@ -4400,7 +5524,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>4</td>
@@ -4408,7 +5532,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>5</td>
@@ -4416,7 +5540,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Les versions des articles 1 à 4 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 <tr>
 <td>6</td>
@@ -4424,20 +5548,20 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Les versions des articles 1 à 5 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 9 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 </table>
 
 #### PARTIE 2
 <table>
-<h4>MODÈLE STANDARD ÉTROIT — ENFANTS ÂGÉS DE MOINS DE DEUX ANS</h4>
+<h4>Modèle standard étroit — bébés âgés d’au moins six mois mais de moins d’un an</h4>
 <tr>
 <th>Article</th>
 <th>Colonne 1</th>
 <th>Colonne 2</th>
 </tr>
 <tr>
-<th>Figure de l’annexe L (version)</th>
+<th>Figure du Répertoire des modèles de TVN (version)</th>
 <th>Condition d’utilisation</th>
 </tr>
 <tr>
@@ -4446,7 +5570,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td></td>
 </tr>
 <tr>
-<td>(caractères de 8 points avec interligne de 12 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4454,7 +5578,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
@@ -4462,7 +5586,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>4</td>
@@ -4470,20 +5594,20 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 </table>
 
 #### PARTIE 3
 <table>
-<h4>MODÈLE STANDARD BILINGUE — ENFANTS ÂGÉS DE MOINS DE DEUX ANS</h4>
+<h4>Modèle standard bilingue — bébés âgés d’au moins six mois mais de moins d’un an</h4>
 <tr>
 <th>Article</th>
 <th>Colonne 1</th>
 <th>Colonne 2</th>
 </tr>
 <tr>
-<th>Figure de l’annexe L (version)</th>
+<th>Figure du Répertoire des modèles de TVN (version)</th>
 <th>Condition d’utilisation</th>
 </tr>
 <tr>
@@ -4492,7 +5616,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td></td>
 </tr>
 <tr>
-<td>(caractères de 8 points avec interligne de 12 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4500,7 +5624,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
@@ -4508,7 +5632,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>4</td>
@@ -4516,20 +5640,20 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 </table>
 
 #### PARTIE 4
 <table>
-<h4>MODÈLE HORIZONTAL BILINGUE — ENFANTS ÂGÉS DE MOINS DE DEUX ANS</h4>
+<h4>Modèle horizontal bilingue — bébés âgés d’au moins six mois mais de moins d’un an</h4>
 <tr>
 <th>Article</th>
 <th>Colonne 1</th>
 <th>Colonne 2</th>
 </tr>
 <tr>
-<th>Figure de l’annexe L (version)</th>
+<th>Figure du Répertoire des modèles de TVN (version)</th>
 <th>Condition d’utilisation</th>
 </tr>
 <tr>
@@ -4538,7 +5662,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Les versions des parties 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4546,44 +5670,46 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Les versions des parties 1 à 3 et de l’article 1 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 </table>
 
-> DORS/2003-11, art. 20.
+> DORS/2003-11, art. 20; DORS/2016-305, art. 35 et 74.
 
 
 
 
 
-##### Modèles simplifiés — enfants âgés de moins de deux ans
+##### Modèles simplifiés — bébés âgés d’au moins six mois mais de moins d’un an
+> [DORS/2016-305, art. 36]
+
 
 
 **B.01.462** 
 
-- **(1)** Le présent article s’applique à tout produit préemballé destiné exclusivement aux enfants âgés de moins de deux ans qui remplit la condition du paragraphe B.01.403(5) et dont le tableau de la valeur nutritive ne contient que les renseignements visés aux alinéas B.01.403(5)a) à k).
+- **(1)** Le présent article s’applique à tout produit préemballé destiné exclusivement aux bébés âgés d’au moins six mois mais de moins d’un an qui remplit la condition du paragraphe B.01.403(5) et dont le tableau de la valeur nutritive ne contient que les renseignements visés aux alinéas B.01.403(5)a) à k).
 
-- **(2)** Sous réserve du paragraphe (3), le tableau de la valeur nutritive du produit préemballé est présenté selon l’une des versions figurant à la colonne 1 du tableau du présent article, si la condition prévue à la colonne 2 est remplie.
+- **(2)** Sous réserve du paragraphe (3), le tableau de la valeur nutritive du produit préemballé est présenté selon l’une des versions figurant à la colonne 1 du tableau du présent article, si la condition prévue à la colonne 2 est remplie.
 
-- **(3)** Si le tableau de la valeur nutritive qui ne contient que les renseignements visés aux alinéas B.01.403(5)a) à k) ne peut être présenté conformément au présent règlement sur 15 % ou moins de la surface exposée disponible du produit préemballé selon l’une des versions figurant à la colonne 1 du tableau du présent article, il est présenté de l’une ou l’autre des façons suivantes :
-	- **a)** selon le modèle standard simplifié bilingue prévu aux figures 25.5(B) ou 25.6(B) de l’annexe L;
-	- **b)** selon le modèle horizontal simplifié bilingue prévu aux figures 26.3(B) ou 26.4(B) de l’annexe L;
-	- **c)** selon le modèle linéaire simplifié prévu aux figures 32.1(F) et (A) ou 32.2(F) et (A) de l’annexe L;
-	- **d)** selon l’une des versions figurant à la colonne 1 du tableau du présent article, même si le tableau de la valeur nutritive devrait être présenté sur plus de 15 % de la surface exposée disponible;
+- **(3)** Si le tableau de la valeur nutritive qui ne contient que les renseignements visés aux alinéas B.01.403(5)a) à k) ne peut être présenté conformément au présent règlement sur 15 % ou moins de la surface exposée disponible du produit préemballé selon l’une des versions figurant à la colonne 1 du tableau du présent article, il est présenté de l’une ou l’autre des façons suivantes :
+	- **a)** selon le modèle standard simplifié bilingue prévu aux figures 25.5(B) ou 25.6(B) du Répertoire des modèles de TVN;
+	- **b)** selon le modèle horizontal simplifié bilingue prévu aux figures 26.3(B) ou 26.4(B) du Répertoire des modèles de TVN;
+	- **c)** selon le modèle linéaire simplifié prévu aux figures 32.1(F) et (A) ou 32.2(F) et (A) du Répertoire des modèles de TVN;
+	- **d)** selon l’une des versions figurant à la colonne 1 du tableau du présent article, même si le tableau de la valeur nutritive devrait être présenté sur plus de 15 % de la surface exposée disponible;
 	- **e)** d’une façon prévue à l’article B.01.466.
 
 ## TABLEAU
 
 #### PARTIE 1
 <table>
-<h4>MODÈLE STANDARD SIMPLIFIÉ — ENFANTS ÂGÉS DE MOINS DE DEUX ANS</h4>
+<h4>Modèle standard simplifié — bébés âgés d’au moins six mois mais de moins d’un an</h4>
 <tr>
 <th>Article</th>
 <th>Colonne 1</th>
 <th>Colonne 2</th>
 </tr>
 <tr>
-<th>Figure de l’annexe L (version)</th>
+<th>Figure du Répertoire des modèles de TVN (version)</th>
 <th>Condition d’utilisation</th>
 </tr>
 <tr>
@@ -4592,7 +5718,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td></td>
 </tr>
 <tr>
-<td>(caractères de 8 points avec interligne de 12 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4600,7 +5726,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
@@ -4608,7 +5734,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>4</td>
@@ -4616,7 +5742,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>5</td>
@@ -4624,7 +5750,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Les versions des articles 1 à 4 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 <tr>
 <td>6</td>
@@ -4632,20 +5758,20 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Les versions des articles 1 à 5 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 9 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 </table>
 
 #### PARTIE 2
 <table>
-<h4>MODÈLE STANDARD SIMPLIFIÉ BILINGUE — ENFANTS ÂGÉS DE MOINS DE DEUX ANS</h4>
+<h4>Modèle standard simplifié bilingue — bébés âgés d’au moins six mois mais de moins d’un an</h4>
 <tr>
 <th>Article</th>
 <th>Colonne 1</th>
 <th>Colonne 2</th>
 </tr>
 <tr>
-<th>Figure de l’annexe L (version)</th>
+<th>Figure du Répertoire des modèles de TVN (version)</th>
 <th>Condition d’utilisation</th>
 </tr>
 <tr>
@@ -4654,7 +5780,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td></td>
 </tr>
 <tr>
-<td>(caractères de 8 points avec interligne de 12 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4662,7 +5788,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
@@ -4670,7 +5796,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>4</td>
@@ -4678,20 +5804,20 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 </table>
 
 #### PARTIE 3
 <table>
-<h4>MODÈLE HORIZONTAL SIMPLIFIÉ BILINGUE — ENFANTS ÂGÉS DE MOINS DE DEUX ANS</h4>
+<h4>Modèle horizontal simplifié bilingue — bébés âgés d’au moins six mois mais de moins d’un an</h4>
 <tr>
 <th>Article</th>
 <th>Colonne 1</th>
 <th>Colonne 2</th>
 </tr>
 <tr>
-<th>Figure de l’annexe L (version)</th>
+<th>Figure du Répertoire des modèles de TVN (version)</th>
 <th>Condition d’utilisation</th>
 </tr>
 <tr>
@@ -4700,7 +5826,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Les versions des parties 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4708,30 +5834,32 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Les versions des parties 1 et 2 et de l’article 1 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 </table>
 
-> DORS/2003-11, art. 20.
+> DORS/2003-11, art. 20; DORS/2016-305, art. 37 et 74.
 
 
 
 
 
-##### Modèle composé — différents types d'aliments — enfants âgés de moins de deux ans
+##### Modèle composé — différents types d’aliments — bébés âgés d’au moins six mois mais de moins d’un an
+> [DORS/2016-305, art. 38]
+
 
 
 **B.01.463** 
 
-- **(1)** Sous réserve du paragraphe (2), le tableau de la valeur nutritive de tout produit préemballé destiné exclusivement aux enfants âgés de moins de deux ans qui indique des renseignements distincts en fonction de chaque ingrédient ou aliment, tel qu’il est prévu au paragraphe B.01.406(2), à l’alinéa B.01.406(3)a) ou au paragraphe B.01.406(4), est présenté selon l’une des versions figurant à la colonne 1 du tableau du présent article, si la condition prévue à la colonne 2 est remplie.
+- **(1)** Sous réserve du paragraphe (2), le tableau de la valeur nutritive de tout produit préemballé destiné exclusivement aux bébés âgés d’au moins six mois mais de moins d’un an qui indique des renseignements distincts en fonction de chaque ingrédient ou aliment, tel qu’il est prévu au paragraphe B.01.406(2), à l’alinéa B.01.406(3)a) ou au paragraphe B.01.406(4), est présenté selon l’une des versions figurant à la colonne 1 du tableau du présent article, si la condition prévue à la colonne 2 est remplie.
 
 - **(2)** Si le tableau de la valeur nutritive ne peut être présenté conformément au présent règlement sur 15 % ou moins de la surface exposée disponible du produit préemballé selon l’une des versions figurant à la colonne 1 du tableau du présent article, il est présenté :
 	- **a)** dans le cas de tout produit visé aux paragraphes B.01.406(2) ou (4) :
-		- **(i)** soit selon le modèle composé bilingue prévu aux figures 28.5(B) ou 28.6(B) de l’annexe L,
-		- **(ii)** soit selon l’une des versions figurant à la colonne 1 du tableau du présent article, même si le tableau de la valeur nutritive devrait être présenté sur plus de 15 % de la surface exposée disponible;
+		- **(i)** soit selon le modèle composé bilingue prévu aux figures 28.5(B) ou 28.6(B) du Répertoire des modèles de TVN,
+		- **(ii)** soit selon l’une des versions figurant à la colonne 1 du tableau du présent article, même si le tableau de la valeur nutritive devrait être présenté sur plus de 15 % de la surface exposée disponible;
 	- **b)** dans le cas de tout produit visé à l’alinéa B.01.406(3)a) :
-		- **(i)** soit selon le modèle composé bilingue prévu aux figures 28.5(B) ou 28.6(B) de l’annexe L,
-		- **(ii)** soit selon l’une des versions figurant à la colonne 1 du tableau du présent article, même si le tableau de la valeur nutritive devrait être présenté sur plus de 15 % de la surface exposée disponible;
+		- **(i)** soit selon le modèle composé bilingue prévu aux figures 28.5(B) ou 28.6(B) du Répertoire des modèles de TVN,
+		- **(ii)** soit selon l’une des versions figurant à la colonne 1 du tableau du présent article, même si le tableau de la valeur nutritive devrait être présenté sur plus de 15 % de la surface exposée disponible;
 		- **(iii)** soit d’une façon prévue à l’article B.01.466.
 
 - **(3)** Pour l’application du présent article, afin d’établir si une version du tableau de la valeur nutritive ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible du produit préemballé, il n’est tenu compte, dans le tableau, que des renseignements exigés par le présent règlement pour chaque ingrédient ou aliment pour lequel des renseignements distincts y sont indiqués.
@@ -4740,14 +5868,14 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 #### PARTIE 1
 <table>
-<h4>MODÈLE COMPOSÉ — DIFFÉRENTS TYPES D’ALIMENTS — ENFANTS ÂGÉS DE MOINS DE DEUX ANS</h4>
+<h4>Modèle composé — différents types d’aliments — bébés âgés d’au moins six mois mais de moins d’un an</h4>
 <tr>
 <th>Article</th>
 <th>Colonne 1</th>
 <th>Colonne 2</th>
 </tr>
 <tr>
-<th>Figure de l’annexe L (version)</th>
+<th>Figure du Répertoire des modèles de TVN (version)</th>
 <th>Condition d’utilisation</th>
 </tr>
 <tr>
@@ -4756,7 +5884,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td></td>
 </tr>
 <tr>
-<td>(caractères de 8 points avec interligne de 12 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4764,7 +5892,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
@@ -4772,7 +5900,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>4</td>
@@ -4780,7 +5908,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>5</td>
@@ -4788,7 +5916,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Les versions des articles 1 à 4 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 <tr>
 <td>6</td>
@@ -4796,20 +5924,20 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Les versions des articles 1 à 5 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 9 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 </table>
 
 #### PARTIE 2
 <table>
-<h4>MODÈLE COMPOSÉ BILINGUE — DIFFÉRENTS TYPES D’ALIMENTS — ENFANTS ÂGÉS DE MOINS DE DEUX ANS</h4>
+<h4>Modèle composé bilingue — différents types d’aliments — bébés âgés d’au moins six mois mais de moins d’un an</h4>
 <tr>
 <th>Article</th>
 <th>Colonne 1</th>
 <th>Colonne 2</th>
 </tr>
 <tr>
-<th>Figure de l’annexe L (version)</th>
+<th>Figure du Répertoire des modèles de TVN (version)</th>
 <th>Condition d’utilisation</th>
 </tr>
 <tr>
@@ -4818,7 +5946,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td></td>
 </tr>
 <tr>
-<td>(caractères de 8 points avec interligne de 12 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4826,7 +5954,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
@@ -4834,7 +5962,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>4</td>
@@ -4842,26 +5970,28 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 </table>
 
-> DORS/2003-11, art. 20.
+> DORS/2003-11, art. 20; DORS/2016-305, art. 39 et 74.
 
 
 
 
 
-##### Modèle composé — différentes quantités d'aliments — enfants âgés de moins de deux ans
+##### Modèle composé — différentes quantités d’aliments — bébés âgés d’au moins six mois mais de moins d’un an
+> [DORS/2016-305, art. 40]
+
 
 
 **B.01.464** 
 
-- **(1)** Sous réserve du paragraphe (2), le tableau de la valeur nutritive de tout produit préemballé destiné exclusivement aux enfants âgés de moins de deux ans qui indique les renseignements distincts en fonction de différentes quantités de l’aliment, tel qu’il est prévu au paragraphe B.01.406(8), est présenté selon l’une des versions figurant à la colonne 1 du tableau du présent article, si la condition prévue à la colonne 2 est remplie.
+- **(1)** Sous réserve du paragraphe (2), le tableau de la valeur nutritive de tout produit préemballé destiné exclusivement aux bébés âgés d’au moins six mois mais de moins d’un an qui indique les renseignements distincts en fonction de différentes quantités de l’aliment, tel qu’il est prévu au paragraphe B.01.406(8), est présenté selon l’une des versions figurant à la colonne 1 du tableau du présent article, si la condition prévue à la colonne 2 est remplie.
 
 - **(2)** Si le tableau de la valeur nutritive ne peut être présenté conformément au présent règlement sur 15 % ou moins de la surface exposée disponible du produit préemballé selon l’une des versions figurant à la colonne 1 du tableau du présent article, il est présenté :
-	- **a)** soit selon le modèle composé bilingue prévu aux figures 30.5(B) ou 30.6(B) de l’annexe L;
-	- **b)** soit selon l’une des versions figurant à la colonne 1 du tableau du présent article, même si le tableau de la valeur nutritive devrait être présenté sur plus de 15 % de la surface exposée disponible.
+	- **a)** soit selon le modèle composé bilingue prévu aux figures 30.5(B) ou 30.6(B) du Répertoire des modèles de TVN;
+	- **b)** soit selon l’une des versions figurant à la colonne 1 du tableau du présent article, même si le tableau de la valeur nutritive devrait être présenté sur plus de 15 % de la surface exposée disponible.
 
 - **(3)** Pour l’application du présent article, afin d’établir si une version du tableau de la valeur nutritive ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible du produit préemballé, il n’est tenu compte, dans le tableau, que des renseignements exigés par le présent règlement pour chaque quantité d’aliment pour laquelle des renseignements distincts y sont indiqués.
 
@@ -4869,14 +5999,14 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 #### PARTIE 1
 <table>
-<h4>MODÈLE COMPOSÉ — DIFFÉRENTES QUANTITÉS D’ALIMENTS — ENFANTS ÂGÉS DE MOINS DE DEUX ANS</h4>
+<h4>Modèle composé — différentes quantités d’aliments — bébés âgés d’au moins six mois mais de moins d’un an</h4>
 <tr>
 <th>Article</th>
 <th>Colonne 1</th>
 <th>Colonne 2</th>
 </tr>
 <tr>
-<th>Figure de l’annexe L (version)</th>
+<th>Figure du Répertoire des modèles de TVN (version)</th>
 <th>Condition d’utilisation</th>
 </tr>
 <tr>
@@ -4885,7 +6015,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td></td>
 </tr>
 <tr>
-<td>(caractères de 8 points avec interligne de 12 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4893,7 +6023,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
@@ -4901,7 +6031,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>4</td>
@@ -4909,7 +6039,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>5</td>
@@ -4917,7 +6047,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Les versions des articles 1 à 4 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 <tr>
 <td>6</td>
@@ -4925,20 +6055,20 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Les versions des articles 1 à 5 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 9 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 </table>
 
 #### PARTIE 2
 <table>
-<h4>MODÈLE COMPOSÉ BILINGUE — DIFFÉRENTES QUANTITÉS D’ALIMENTS — ENFANTS ÂGÉS DE MOINS DE DEUX ANS</h4>
+<h4>Modèle composé bilingue — différentes quantités d’aliments — bébés âgés d’au moins six mois mais de moins d’un an</h4>
 <tr>
 <th>Article</th>
 <th>Colonne 1</th>
 <th>Colonne 2</th>
 </tr>
 <tr>
-<th>Figure de l’annexe L (version)</th>
+<th>Figure du Répertoire des modèles de TVN (version)</th>
 <th>Condition d’utilisation</th>
 </tr>
 <tr>
@@ -4947,7 +6077,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td></td>
 </tr>
 <tr>
-<td>(caractères de 8 points avec interligne de 12 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4955,7 +6085,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>La version de l’article 1 ne peut être présentée conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
@@ -4963,7 +6093,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Les versions des articles 1 et 2 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 7 points avec interligne de 11 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 7 points)</td>
 </tr>
 <tr>
 <td>4</td>
@@ -4971,33 +6101,35 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Les versions des articles 1 à 3 ne peuvent être présentées conformément au présent règlement sur 15 % ou moins de la surface exposée disponible.</td>
 </tr>
 <tr>
-<td>(caractères étroits de 6 points avec interligne de 10 points)</td>
+<td>(éléments nutritifs figurant en caractères étroits d’au moins 6 points)</td>
 </tr>
 </table>
 
-> DORS/2003-11, art. 20.
+> DORS/2003-11, art. 20; DORS/2016-305, art. 41 et 74.
 
 
 
 
 
-##### Présentation des renseignements complémentaires — enfants âgés de moins de deux ans
+##### Présentation des renseignements complémentaires — bébés âgés d’au moins six mois mais de moins d’un an
+> [DORS/2016-305, art. 42]
+
 
 
 **B.01.465** 
 
-- **(1)** Le présent article s’applique à tout produit préemballé destiné exclusivement aux enfants âgés de moins de deux ans.
+- **(1)** Le présent article s’applique à tout produit préemballé destiné exclusivement aux bébés âgés d’au moins six mois mais de moins d’un an.
 
-- **(2)** Les renseignements visés à la colonne 1 du tableau de l’article B.01.402 qui sont indiqués dans une version du tableau de la valeur nutritive se composant d’un tableau en anglais et d’un tableau en français ou d’un tableau en anglais ou en français, sont présentés :
-	- **a)** selon l’ordre et les retraits indiqués aux figures 33.1(F) et (A) de l’annexe L;
-	- **b)** quant aux autres caractéristiques de présentation, selon le modèle prévu à la figure applicable de l’annexe L.
+- **(2)** Les renseignements visés à la colonne 1 du tableau de l’article B.01.402 qui sont indiqués dans une version du tableau de la valeur nutritive se composant d’un tableau en anglais et d’un tableau en français ou d’un tableau en anglais ou en français, sont présentés :
+	- **a)** selon l’ordre de présentation, les retraits et les notes complémentaires indiqués aux figures 33.1(F) et (A) du Répertoire des modèles de TVN;
+	- **b)** quant aux autres caractéristiques de présentation, selon le modèle prévu à la figure applicable du Répertoire des modèles de TVN.
 
-- **(3)** Les renseignements visés à la colonne 1 du tableau de l’article B.01.402 qui sont indiqués dans une version du tableau de la valeur nutritive se composant d’un tableau en anglais et en français sont présentés :
-	- **a)** selon l’ordre et les retraits indiqués à la figure 34.1(B) de l’annexe L;
-	- **b)** quant aux autres caractéristiques de présentation, selon le modèle prévu à la figure applicable de l’annexe L.
+- **(3)** Les renseignements visés à la colonne 1 du tableau de l’article B.01.402 qui sont indiqués dans une version du tableau de la valeur nutritive se composant d’un tableau en anglais et en français sont présentés :
+	- **a)** selon l’ordre de présentation, les retraits et les notes complémentaires indiqués à la figure 34.1(B) du Répertoire des modèles de TVN;
+	- **b)** quant aux autres caractéristiques de présentation, selon le modèle prévu à la figure applicable du Répertoire des modèles de TVN.
 
-- **(4)** Malgré l’alinéa (2)a), les retraits indiqués aux figures 33.1(F) et (A) de l’annexe L ne s’appliquent pas si les renseignements visés à la colonne 1 du tableau de l’article B.01.402 sont présentés selon le modèle linéaire visé à l’alinéa B.01.461(3)c) ou le modèle linéaire simplifié visé à l’alinéa B.01.462(3)c).
-> DORS/2003-11, art. 20.
+- **(4)** Malgré l’alinéa (2)a), les retraits indiqués aux figures 33.1(F) et (A) du Répertoire des modèles de TVN ne s’appliquent pas si les renseignements visés à la colonne 1 du tableau de l’article B.01.402 sont présentés selon le modèle linéaire visé à l’alinéa B.01.461(3)c) ou le modèle linéaire simplifié visé à l’alinéa B.01.462(3)c).
+> DORS/2003-11, art. 20; DORS/2016-305, art. 43 et 74.
 
 
 
@@ -5037,33 +6169,61 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 - **(1)** Malgré l’article A.01.016 et sous réserve du paragraphe (2), l’étiquette de tout produit préemballé dont la surface exposée disponible est de moins de 100 cm<sup>2</sup> peut ne pas porter le tableau de la valeur nutritive si son recto comporte des indications sur la manière dont l’acheteur ou le consommateur peut obtenir les renseignements qui devraient figurer dans le tableau.
 
-- **(2)** Le paragraphe (1) ne s’applique pas :
+- **(2)** Le paragraphe (1) ne s’applique pas :
 	- **a)** aux produits préemballés visés aux alinéas B.01.401(3)a), b), c) ou e);
 	- **b)** aux produits préemballés contenus dans un emballage sur lequel aucune étiquette ne peut être apposée ou sur lequel les renseignements ne peuvent être indiqués lisiblement et de façon que l’acheteur ou le consommateur puisse les voir aisément dans les conditions habituelles d’achat.
 
-- **(3)** Les indications visées au paragraphe (1) répondent aux critères suivants :
+- **(2.1)** Toutefois, le paragraphe (1) s’applique aux produits préemballés visés à la fois par l’alinéa B.01.401(3)c) et le sous-alinéa B.01.401(3)e)(ii) qui répondent aux critères mentionnés à la colonne 2 de l’article 37 du tableau suivant l’article B.01.513 en regard du sujet « sans sucre » figurant à la colonne 1 si les conditions ci-après sont réunies :
+	- **a)** les produits préemballés ne contiennent pas de vitamines ni de minéraux nutritifs ajoutés;
+	- **b)** la valeur énergétique exprimée en calories par portion indiquée et la teneur en polyalcools exprimée en grammes par portion indiquée figurent immédiatement après la liste des ingrédients ou la mention des sources d’allergènes alimentaires ou de gluten et des sulfites ajoutés, au sens du paragraphe B.01.010.1(1), ou l’énoncé visé au paragraphe B.01.010.4(1), si cette mention ou cet énoncé figure sur l’étiquette;
+	- **c)** s’agissant des produits visés au sous-alinéa B.01.401(3)e)(ii), toute mention ou allégation figurant à la colonne 4 de l’article 37 du tableau suivant l’article B.01.513 en regard du sujet « sans sucre » visé à la colonne 1 qui figure sur leur étiquette, à la fois :
+		- **(i)** est lisible sur l’espace principal,
+		- **(ii)** est en minuscules, à l’exception de la première lettre de chaque mot de la mention ou de l’allégation qui peut être majuscule,
+		- **(iii)** est en caractères de dimensions au moins égales et aussi bien en vue que les caractères utilisés dans la portion numérique de la déclaration de la quantité nette, comme l’exige l’article 14 du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md),
+		- **(iv)** est d’une couleur faisant contraste avec le fond de l’étiquette.
+
+- **(3)** Les indications visées au paragraphe (1) répondent aux critères suivants :
 	- **a)** elles sont présentées en caractères d’au moins 8 points;
 	- **b)** elles comportent une adresse postale ou un numéro de téléphone sans frais;
-	- **c)** elles figurent :
+	- **c)** elles figurent :
 		- **(i)** soit en français et en anglais,
 		- **(ii)** soit dans l’une de ces langues, si, conformément aux paragraphes B.01.012(3) ou (7), les renseignements devant être indiqués sur l’étiquette du produit aux termes du présent règlement peuvent l’être uniquement dans la langue en cause et qu’ils y figurent dans celle-ci.
 
-- **(4)** Le fabricant du produit préemballé fournit les renseignements visés au paragraphe (1) à l’acheteur ou au consommateur sur demande :
+- **(4)** Le fabricant du produit préemballé fournit les renseignements visés au paragraphe (1) à l’acheteur ou au consommateur sur demande :
 	- **a)** sans frais;
-	- **b)** de la façon suivante :
+	- **b)** de la façon suivante :
 		- **(i)** soit dans la langue officielle dans laquelle les renseignements sont demandés ou, à la demande de l’acheteur ou du consommateur, dans les deux langues officielles,
 		- **(ii)** soit dans l’une de ces langues, si, conformément aux paragraphes B.01.012(3) ou (7), les renseignements devant être indiqués sur l’étiquette du produit aux termes du présent règlement peuvent l’être uniquement dans la langue en cause et qu’ils y figurent dans celle-ci;
-	- **c)** sous forme d’un tableau de la valeur nutritive qui est présenté, à la fois :
+	- **c)** sous forme d’un tableau de la valeur nutritive qui est présenté, à la fois :
 		- **(i)** selon un modèle — autre qu’un modèle horizontal — qui est prévu à l’un des articles B.01.454 à B.01.459 et B.01.461 à B.01.464 et qui, autrement, figurerait sur l’étiquette du produit conformément au présent règlement,
 		- **(ii)** selon l’une des versions de ce modèle figurant à la colonne 1 de l’article 1 de toute partie du tableau de l’article applicable visé au sous-alinéa (i).
 
-- **(5)** Dans le présent article, *** langues officielles*** s’entend du français et de l’anglais.
-> DORS/2003-11, art. 20.
+- **(5)** Dans le présent article, ***langues officielles*** s’entend du français et de l’anglais.
+> DORS/2003-11, art. 20; DORS/2016-305, art. 44.
 
 
 
 
-[**B.01.468** à **B.01.499** réservés]
+**B.01.468** 
+
+- **(1)** Sous réserve du paragraphe (2), si un produit préemballé a une surface exposée disponible de moins de 100 cm<sup>2</sup> et porte un tableau de la valeur nutritive sur son étiquette, ce tableau peut ne contenir que les seuls renseignements suivants :
+	- **a)** la portion indiquée;
+	- **b)** la valeur énergétique et, sous réserve du paragraphe (2), la teneur en tout élément nutritif visé à la colonne 1 des articles 2 à 15 du tableau de l’article B.01.401 qui ne peut être exprimée par « 0 » au tableau de la valeur nutritive selon les règles d’écriture indiquées dans la colonne 4;
+	- **c)** la teneur en un polyalcool, en une vitamine ou en un minéral nutritif ajoutés au produit.
+
+- **(2)** Lorsqu’une déclaration expresse ou implicite incluant des renseignements visés à la colonne 1 des tableaux des articles B.01.401 ou B.01.402 est faite sur l’étiquette du produit préemballé ou encore dans l’annonce d’un tel produit faite par le fabricant du produit ou sous ses ordres, ces renseignements sont aussi mentionnés dans le tableau de la valeur nutritive.
+> DORS/2016-305, art. 45.
+
+
+
+
+**B.01.469** Malgré le paragraphe B.01.401(1), l’étiquette d’un produit préemballé dont la surface exposée disponible est de moins de 15 cm<sup>2</sup> peut ne pas porter de tableau de la valeur nutritive.
+> DORS/2016-305, art. 45.
+
+
+
+
+[**B.01.470** à **B.01.499** réservés]
 
 
 
@@ -5146,24 +6306,26 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **B.01.503** 
 
-- **(1)** Est permise, sur l’étiquette ou dans l’annonce d’un aliment, toute mention ou toute allégation figurant à la colonne 4 du tableau suivant l’article B.01.513 en regard de l’un des sujets figurant à la colonne 1, si les conditions suivantes sont réunies :
-	- **a)** l’aliment répond aux critères mentionnés à la colonne 2;
-	- **b)** s’il y a lieu, l’étiquette ou l’annonce de l’aliment répond aux critères mentionnés à la colonne 3 conformément aux articles B.01.504 à B.01.506;
-	- **c)** s’il s’agit d’un aliment qui n’est pas un produit préemballé ou d’un produit préemballé pour lequel une annonce est faite par une personne autre que le fabricant du produit ou une personne agissant sous ses ordres, l’étiquette ou l’annonce indique, par portion déterminée et, le cas échéant, conformément aux articles B.01.505 ou B.01.506 :
+- **(1)** Est permise, sur l’étiquette ou dans l’annonce d’un aliment, toute mention ou toute allégation figurant à la colonne 4 du tableau suivant l’article B.01.513 en regard de l’un des sujets figurant à la colonne 1, si les conditions suivantes sont réunies :
+	- **a)** l’aliment répond aux critères mentionnés à la colonne 2;
+	- **b)** s’il y a lieu, l’étiquette ou l’annonce de l’aliment répond aux critères mentionnés à la colonne 3 conformément aux articles B.01.504 à B.01.506;
+	- **c)** s’il s’agit d’un aliment qui n’est pas un produit préemballé ou d’un produit préemballé pour lequel une annonce est faite par une personne autre que le fabricant du produit ou une personne agissant sous ses ordres, l’étiquette ou l’annonce indique, par portion indiquée et, le cas échéant, conformément aux articles B.01.505 ou B.01.506 :
 		- **(i)** soit la valeur énergétique, si l’objet de la mention ou de l’allégation est la valeur énergétique,
 		- **(ii)** soit la teneur en l’élément nutritif en cause, si l’objet de la mention ou de l’allégation est un élément nutritif.
 
-- **(2)** Malgré le paragraphe (1), est interdite, sur l’étiquette ou dans l’annonce d’un aliment destiné exclusivement aux enfants âgés de moins de deux ans, toute mention ou toute allégation figurant à la colonne 4 du tableau suivant l’article B.01.513, sauf si la mention ou l’allégation est faite à l’égard de l’un des sujets ci-après figurant à la colonne 1 :
-	- **a)** « source de protéines » visé à l’article 8;
-	- **b)** « excellente source de protéines » visé à l’article 9;
-	- **c)** « plus de protéines » visé à l’article 10;
-	- **d)** « non additionné de sel ou de sodium » visé à l’article 35;
-	- **e)** « non additionné de sucres » visé à l’article 40.
+- **(2)** Malgré le paragraphe (1), est interdite, sur l’étiquette ou dans l’annonce d’un aliment destiné exclusivement aux enfants âgés de moins de deux ans, toute mention ou toute allégation figurant à la colonne 4 du tableau suivant l’article B.01.513, sauf si la mention ou l’allégation est faite à l’égard de l’un des sujets ci-après figurant à la colonne 1 :
+	- **a)** « source de protéines » visé à l’article 8;
+	- **b)** « excellente source de protéines » visé à l’article 9;
+	- **c)** « plus de protéines » visé à l’article 10;
+	- **d)** « non additionné de sel ou de sodium » visé à l’article 35;
+	- **e)** « non additionné de sucres » visé à l’article 40.
 
-- **(3)** Lorsqu’une mention ou une allégation figurant à la colonne 4 du tableau suivant l’article B.01.513 est faite sur l’étiquette ou dans l’annonce d’un aliment, tous les mots, chiffres, signes ou symboles constituant cette mention ou allégation ont la même taille et figurent aussi bien en vue les uns que les autres.
+- **(2.1)** Les renseignements requis par l’alinéa (1)c) n’ont pas à être indiqués sur l’étiquette ou dans l’annonce d’un légume frais, d’un fruit frais ou d’un mélange quelconque de légumes frais ou de fruits frais sans ingrédient ajouté, d’une orange à laquelle un colorant alimentaire a été ajouté et d’un légume frais ou d’un fruit frais enrobé d’huile minérale, de paraffine, de vaseline ou de tout autre enduit protecteur lorsqu’une mention ou une allégation figurant à la colonne 4 du tableau suivant l’article B.01.513 est faite sur l’étiquette ou dans l’annonce.
+
+- **(3)** Lorsqu’une mention ou une allégation figurant à la colonne 4 du tableau suivant l’article B.01.513 est faite sur l’étiquette ou dans l’annonce d’un aliment, tous les mots, chiffres, signes ou symboles constituant cette mention ou allégation ont la même taille et figurent aussi bien en vue les uns que les autres.
 
 - **(4)** Dans la version anglaise des mentions ou des allégations, le terme « *fibre* » peut aussi s’orthographier « *fiber* ».
-> DORS/2003-11, art. 20.
+> DORS/2003-11, art. 20; DORS/2016-305, art. 46 et 75(F).
 
 
 
@@ -5285,10 +6447,10 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 		- **(i)** précède ou suit, sans qu’aucun texte imprimé ou écrit ni aucun signe graphique ne soit intercalé :
 			- **(A)** la mention ou l’allégation ne paraissant qu’une seule fois,
 			- **(B)** si la mention ou l’allégation est répétée, celle qui est la plus en évidence sur l’espace principal ou, à défaut, celle qui est la plus en évidence ailleurs sur l’étiquette,
-		- **(ii)** figure en caractères d’une taille qui est au moins égale et aussi bien en vue que :
+		- **(ii)** figure en caractères d’une taille qui est au moins égale et aussi bien en vue que :
 			- **(A)** ceux de la mention ou de l’allégation ne paraissant qu’une seule fois,
 			- **(B)** si la mention ou l’allégation est répétée, ceux de celle qui est la plus en évidence sur l’espace principal ou, à défaut, ceux de celle qui est la plus en évidence ailleurs sur l’étiquette;
-	- **b)** si la mention ou l’allégation « léger » ou « *light* » est faite dans l’annonce d’un aliment autre qu’une annonce radiophonique ou télévisée, la caractéristique organoleptique, à la fois :
+	- **b)** si la mention ou l’allégation « léger » ou « *light* » est faite dans l’annonce d’un aliment autre qu’une annonce radiophonique ou télévisée, la caractéristique organoleptique, à la fois :
 		- **(i)** précède ou suit, sans qu’aucun texte imprimé ou écrit ni aucun signe graphique ne soit intercalé, la mention ou l’allégation ne paraissant qu’une seule fois ou, si une telle mention ou allégation est répétée, celle qui est la plus en évidence,
 		- **(ii)** figure en caractères d’une taille qui est au moins égale et aussi bien en vue que ceux de la mention ou de l’allégation ne paraissant qu’une seule fois ou, si la mention ou l’allégation est répétée, que ceux de celle qui est la plus en évidence;
 	- **c)** si la mention ou l’allégation « léger » ou « *light* » est faite dans une annonce radiophonique ou dans la composante audio d’une annonce télévisée, la caractéristique organoleptique précède ou suit immédiatement la mention ou l’allégation;
@@ -5318,7 +6480,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <tr>
 <td>1</td>
 <td>Sans énergie</td>
-<td>L’aliment fournit moins de 5 Calories ou 21 kilojoules par quantité de référence et par portion déterminée.</td>
+<td>L’aliment fournit moins de 5 Calories ou 21 kilojoules par quantité de référence et par portion indiquée.</td>
 <td></td>
 <td>« sans énergie », « 0 énergie », « zéro énergie », « aucune énergie », « ne fournit pas d’énergie », « sans Calories », « 0 Calorie », « zéro Calorie », « aucune Calorie » ou « ne fournit pas de Calories »</td>
 </tr>
@@ -5327,11 +6489,11 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Peu d’énergie</td>
 <td>L’aliment fournit, selon le cas :
 
-**a)** au plus 40 Calories ou 167 kilojoules par quantité de référence et par portion déterminée et, dans le cas d’un aliment autre qu’un édulcorant de table, par 50 g si la quantité de référence est 30 g ou 30 mL ou moins;
+**a)** au plus 40 Calories ou 167 kilojoules par quantité de référence et par portion indiquée et, dans le cas d’un aliment autre qu’un édulcorant de table, par 50 g si la quantité de référence est 30 g ou 30 mL ou moins;
 
 
 
-**b)** au plus 120 Calories ou 500 kilojoules par 100 g, si l’aliment est un repas préemballé.
+**b)** au plus 120 Calories ou 500 kilojoules par 100 g, si l’aliment est un repas préemballé.
 
 
 
@@ -5352,7 +6514,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**(2)** L’aliment de référence similaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 2 en regard du sujet « peu d’énergie » figurant à la colonne 1.
+**(2)** L’aliment de référence similaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 2 en regard du sujet « peu d’énergie » figurant à la colonne 1.
 
 </td>
 <td>Les renseignements suivants sont mentionnés :
@@ -5365,7 +6527,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**c)** la différence de valeur énergétique, par portion déterminée, exprimée en pourcentage, en fraction ou en Calories, par rapport à l’aliment de référence similaire.
+**c)** la différence de valeur énergétique, par portion indiquée, exprimée en pourcentage, en fraction ou en Calories, par rapport à l’aliment de référence similaire.
 
 
 
@@ -5385,7 +6547,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**(2)** L’aliment de référence du même groupe alimentaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 2 en regard du sujet « peu d’énergie » figurant à la colonne 1.
+**(2)** L’aliment de référence du même groupe alimentaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 2 en regard du sujet « peu d’énergie » figurant à la colonne 1.
 
 </td>
 <td>Les renseignements suivants sont mentionnés :
@@ -5398,7 +6560,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**c)** la différence de valeur énergétique, par portion déterminée, exprimée en pourcentage, en fraction ou en Calories, par rapport à l’aliment de référence du même groupe alimentaire.
+**c)** la différence de valeur énergétique, par portion indiquée, exprimée en pourcentage, en fraction ou en Calories, par rapport à l’aliment de référence du même groupe alimentaire.
 
 
 
@@ -5408,14 +6570,14 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <tr>
 <td>5</td>
 <td>Source d’énergie</td>
-<td>L’aliment fournit au moins 100 Calories ou 420 kilojoules par quantité de référence et par portion déterminée.</td>
+<td>L’aliment fournit au moins 100 Calories ou 420 kilojoules par quantité de référence et par portion indiquée.</td>
 <td></td>
 <td>« source d’énergie », « fournit de l’énergie », « source de Calories » ou « fournit des Calories »</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Plus d’énergie</td>
-<td>L’aliment fournit au moins 25 % plus d’énergie, soit au moins 100 Calories ou 420 kilojoules de plus, selon le cas :
+<td>L’aliment fournit au moins 25 % plus d’énergie, soit au moins 100 Calories ou 420 kilojoules de plus, selon le cas :
 
 **a)** par quantité de référence, par rapport à l’aliment de référence du même groupe alimentaire ou l’aliment de référence similaire;
 
@@ -5436,7 +6598,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**c)** la différence de valeur énergétique, par portion déterminée, exprimée en pourcentage, en fraction ou en Calories, par rapport à l’aliment de référence du même groupe alimentaire ou l’aliment de référence similaire.
+**c)** la différence de valeur énergétique, par portion indiquée, exprimée en pourcentage, en fraction ou en Calories, par rapport à l’aliment de référence du même groupe alimentaire ou l’aliment de référence similaire.
 
 
 
@@ -5453,7 +6615,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <tr>
 <td>8</td>
 <td>Source de protéines</td>
-<td>L’aliment a une cote protéique d’au moins 20, déterminée selon la méthode officielle FO-1 intitulée Détermination de cote protéique, du 15 octobre 1981, selon le cas :
+<td>L’aliment a une cote protéique d’au moins 20, déterminée selon la méthode officielle FO-1 intitulée Détermination de cote protéique, du 15 octobre 1981, selon le cas :
 
 **a)** par ration quotidienne raisonnable;
 
@@ -5470,7 +6632,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <tr>
 <td>9</td>
 <td>Excellente source de protéines</td>
-<td>L’aliment a une cote protéique d’au moins 40, déterminée selon la méthode officielle FO-1 intitulée Détermination de cote protéique, du 15 octobre 1981, selon le cas :
+<td>L’aliment a une cote protéique d’au moins 40, déterminée selon la méthode officielle FO-1 intitulée Détermination de cote protéique, du 15 octobre 1981, selon le cas :
 
 **a)** par ration quotidienne raisonnable;
 
@@ -5489,7 +6651,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Plus de protéines</td>
 <td>L’aliment a, à la fois :
 
-**a)** une cote protéique d’au moins 20, déterminée selon la méthode officielle FO-1, intitulée Détermination de cote protéique du 15 octobre 1981, selon le cas :
+**a)** une cote protéique d’au moins 20, déterminée selon la méthode officielle FO-1, intitulée Détermination de cote protéique du 15 octobre 1981, selon le cas :
 
 **(i)** par ration quotidienne raisonnable,
 
@@ -5516,7 +6678,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**c)** la différence de teneur en protéines, par portion déterminée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l’aliment de référence du même groupe alimentaire ou l’aliment de référence similaire.
+**c)** la différence de teneur en protéines, par portion indiquée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l’aliment de référence du même groupe alimentaire ou l’aliment de référence similaire.
 
 
 
@@ -5528,11 +6690,11 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Sans lipides</td>
 <td>L’aliment contient, selon le cas :
 
-**a)** moins de 0,5 g de lipides par quantité de référence et par portion déterminée;
+**a)** moins de 0,5 g de lipides par quantité de référence et par portion indiquée;
 
 
 
-**b)** moins de 0,5 g de lipides par portion déterminée, si l’aliment est un repas préemballé.
+**b)** moins de 0,5 g de lipides par portion indiquée, si l’aliment est un repas préemballé.
 
 
 
@@ -5545,7 +6707,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Faible teneur en lipides</td>
 <td>L’aliment contient, selon le cas :
 
-**a)** au plus 3 g de lipides par quantité de référence et par portion déterminée, et par 50 g si la quantité de référence est 30 g ou 30 mL ou moins;
+**a)** au plus 3 g de lipides par quantité de référence et par portion indiquée, et par 50 g si la quantité de référence est 30 g ou 30 mL ou moins;
 
 
 
@@ -5570,7 +6732,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**(2)** L’aliment de référence similaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 12 en regard du sujet « faible teneur en lipides » figurant à la colonne 1.
+**(2)** L’aliment de référence similaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 12 en regard du sujet « faible teneur en lipides » figurant à la colonne 1.
 
 </td>
 <td>Les renseignements suivants sont mentionnés :
@@ -5583,7 +6745,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**c)** la différence de teneur en lipides, par portion déterminée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l’aliment de référence similaire.
+**c)** la différence de teneur en lipides, par portion indiquée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l’aliment de référence similaire.
 
 
 
@@ -5603,7 +6765,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**(2)** L’aliment de référence du même groupe alimentaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 12 en regard du sujet « faible teneur en lipides » figurant à la colonne 1.
+**(2)** L’aliment de référence du même groupe alimentaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 12 en regard du sujet « faible teneur en lipides » figurant à la colonne 1.
 
 </td>
 <td>Les renseignements suivants sont mentionnés :
@@ -5616,7 +6778,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**c)** la différence de teneur en lipides, par portion déterminée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l’aliment de référence du même groupe alimentaire.
+**c)** la différence de teneur en lipides, par portion indiquée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l’aliment de référence du même groupe alimentaire.
 
 
 
@@ -5636,7 +6798,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**c)** répond aux critères mentionnés à la colonne 2 de l’article 11 en regard du sujet « sans lipides » figurant à la colonne 1.
+**c)** répond aux critères mentionnés à la colonne 2 de l’article 11 en regard du sujet « sans lipides » figurant à la colonne 1.
 
 
 
@@ -5647,16 +6809,16 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <tr>
 <td>16</td>
 <td>(Pourcentage) sans lipides</td>
-<td>L’aliment répond aux critères mentionnés à la colonne 2 de l’article 12 en regard du sujet « faible teneur en lipides » figurant à la colonne 1.</td>
+<td>L’aliment répond aux critères mentionnés à la colonne 2 de l’article 12 en regard du sujet « faible teneur en lipides » figurant à la colonne 1.</td>
 <td>L’une des mentions ou allégations ci-après est faite : « faible teneur en lipides », « faible teneur en matières grasses », « faible teneur en gras », « faible teneur en graisses », « pauvre en lipides », « pauvre en matières grasses », « pauvre en gras » ou « pauvre en graisses »</td>
 <td>« (pourcentage) sans lipides », « (pourcentage) sans matières grasses », « (pourcentage) sans gras » ou « (pourcentage) sans graisses »</td>
 </tr>
 <tr>
 <td>17</td>
 <td>Non additionné de matières grasses</td>
-<td>**(1)** Aucune graisse ou huile visée au titre 9, ni aucun beurre, ghee ou ingrédient additionné de graisse ou d’huile, de beurre ou de ghee n’a été ajouté à l’aliment.
+<td>**(1)** Aucune graisse ou huile visée au titre 9, ni aucun beurre, ghee ou ingrédient additionné de graisse ou d’huile, de beurre ou de ghee n’a été ajouté à l’aliment.
 
-**(2)** L’aliment de référence similaire est additionné de graisse ou d’huile visée au titre 9, de beurre ou de ghee.
+**(2)** L’aliment de référence similaire est additionné de graisse ou d’huile visée au titre 9, de beurre ou de ghee.
 
 </td>
 <td></td>
@@ -5667,11 +6829,11 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Sans acides gras saturés</td>
 <td>L’aliment contient, selon le cas :
 
-**a)** moins de 0,2 g d’acides gras saturés et moins de 0,2 g d’acides gras *trans* par quantité de référence et par portion déterminée;
+**a)** moins de 0,2 g d’acides gras saturés et moins de 0,2 g d’acides gras *trans* par quantité de référence et par portion indiquée;
 
 
 
-**b)** moins de 0,2 g d’acides gras saturés et moins de 0,2 g d’acides gras *trans* par portion déterminée si l’aliment est un repas préemballé.
+**b)** moins de 0,2 g d’acides gras saturés et moins de 0,2 g d’acides gras *trans* par portion indiquée si l’aliment est un repas préemballé.
 
 
 
@@ -5684,7 +6846,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Faible teneur en acides gras saturés</td>
 <td>**(1)** La somme des acides gras saturés et des acides gras *trans* que contient l’aliment n’excède pas 2 g, selon le cas :
 
-**a)** par quantité de référence et par portion déterminée;
+**a)** par quantité de référence et par portion indiquée;
 
 
 
@@ -5711,7 +6873,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**(2)** L’aliment de référence similaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
+**(2)** L’aliment de référence similaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
 
 </td>
 <td>Les renseignements suivants sont mentionnés :
@@ -5724,7 +6886,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**c)** la différence de teneur en acides gras saturés, par portion déterminée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l’aliment de référence similaire.
+**c)** la différence de teneur en acides gras saturés, par portion indiquée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l’aliment de référence similaire.
 
 
 
@@ -5744,7 +6906,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**(2)** L’aliment de référence du même groupe alimentaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
+**(2)** L’aliment de référence du même groupe alimentaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
 
 </td>
 <td>Les renseignements suivants sont mentionnés :
@@ -5757,7 +6919,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**c)** la différence de teneur en acides gras saturés, par portion déterminée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l’aliment de référence du même groupe alimentaire.
+**c)** la différence de teneur en acides gras saturés, par portion indiquée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l’aliment de référence du même groupe alimentaire.
 
 
 
@@ -5771,17 +6933,17 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **a)** contient moins de 0,2 g d’acides gras *trans*, selon le cas :
 
-**(i)** par quantité de référence et par portion déterminée,
+**(i)** par quantité de référence et par portion indiquée,
 
 
 
-**(ii)** par portion déterminée si l’aliment est un repas préemballé;
+**(ii)** par portion indiquée si l’aliment est un repas préemballé;
 
 
 
 
 
-**b)** répond aux critères mentionnés à la colonne 2 de l’article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
+**b)** répond aux critères mentionnés à la colonne 2 de l’article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
 
 
 
@@ -5802,7 +6964,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**(2)** L’aliment de référence similaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
+**(2)** L’aliment de référence similaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
 
 </td>
 <td>Les renseignements suivants sont mentionnés :
@@ -5815,7 +6977,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**c)** la différence de teneur en acides gras *trans*, par portion déterminée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l’aliment de référence similaire.
+**c)** la différence de teneur en acides gras *trans*, par portion indiquée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l’aliment de référence similaire.
 
 
 
@@ -5835,7 +6997,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**(2)** L’aliment de référence du même groupe alimentaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
+**(2)** L’aliment de référence du même groupe alimentaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
 
 </td>
 <td>Les renseignements suivants sont mentionnés :
@@ -5848,7 +7010,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**c)** la différence de teneur en acides gras *trans*, par portion déterminée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l’aliment de référence du même groupe alimentaire.
+**c)** la différence de teneur en acides gras *trans*, par portion indiquée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l’aliment de référence du même groupe alimentaire.
 
 
 
@@ -5860,7 +7022,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Source d’acides gras polyinsaturés oméga-3</td>
 <td>L’aliment contient, selon le cas :
 
-**a)** au moins 0,3 g d’acides gras polyinsaturés oméga-3 par quantité de référence et par portion déterminée;
+**a)** au moins 0,3 g d’acides gras polyinsaturés oméga-3 par quantité de référence et par portion indiquée;
 
 
 
@@ -5877,7 +7039,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Source d’acides gras polyinsaturés oméga-6</td>
 <td>L’aliment contient, selon le cas :
 
-**a)** au moins 2 g d’acides gras polyinsaturés oméga-6 par quantité de référence et par portion déterminée;
+**a)** au moins 2 g d’acides gras polyinsaturés oméga-6 par quantité de référence et par portion indiquée;
 
 
 
@@ -5896,17 +7058,17 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **a)** contient moins de 2 mg de cholestérol, selon le cas :
 
-**(i)** par quantité de référence et par portion déterminée,
+**(i)** par quantité de référence et par portion indiquée,
 
 
 
-**(ii)** par portion déterminée, si l’aliment est un repas préemballé;
+**(ii)** par portion indiquée, si l’aliment est un repas préemballé;
 
 
 
 
 
-**b)** répond aux critères mentionnés à la colonne 2 de l’article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
+**b)** répond aux critères mentionnés à la colonne 2 de l’article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
 
 
 
@@ -5921,7 +7083,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **a)** contient au plus 20 mg de cholestérol, selon le cas :
 
-**(i)** par quantité de référence et par portion déterminée, et par 50 g si la quantité de référence est 30 g ou 30 mL ou moins,
+**(i)** par quantité de référence et par portion indiquée, et par 50 g si la quantité de référence est 30 g ou 30 mL ou moins,
 
 
 
@@ -5931,7 +7093,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**b)** répond aux critères mentionnés à la colonne 2 de l’article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
+**b)** répond aux critères mentionnés à la colonne 2 de l’article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
 
 
 
@@ -5952,9 +7114,9 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**(2)** L’aliment de référence similaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 28 en regard du sujet « faible teneur en cholestérol » figurant à la colonne 1.
+**(2)** L’aliment de référence similaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 28 en regard du sujet « faible teneur en cholestérol » figurant à la colonne 1.
 
-**(3)** L’aliment répond aux critères mentionnés à la colonne 2 de l’article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
+**(3)** L’aliment répond aux critères mentionnés à la colonne 2 de l’article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
 
 </td>
 <td>Les renseignements suivants sont mentionnés :
@@ -5967,7 +7129,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**c)** la différence de teneur en cholestérol, par portion déterminée, exprimée en pourcentage, en fraction ou en milligrammes, par rapport à l’aliment de référence similaire.
+**c)** la différence de teneur en cholestérol, par portion indiquée, exprimée en pourcentage, en fraction ou en milligrammes, par rapport à l’aliment de référence similaire.
 
 
 
@@ -5987,9 +7149,9 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**(2)** L’aliment de référence du même groupe alimentaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 28 en regard du sujet « faible teneur en cholestérol » figurant à la colonne 1.
+**(2)** L’aliment de référence du même groupe alimentaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 28 en regard du sujet « faible teneur en cholestérol » figurant à la colonne 1.
 
-**(3)** L’aliment répond aux critères mentionnés à la colonne 2 de l’article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
+**(3)** L’aliment répond aux critères mentionnés à la colonne 2 de l’article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
 
 </td>
 <td>Les renseignements suivants sont mentionnés :
@@ -6002,7 +7164,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**c)** la différence de teneur en cholestérol, par portion déterminée, exprimée en pourcentage, en fraction ou en milligrammes, par rapport à l’aliment de référence du même groupe alimentaire.
+**c)** la différence de teneur en cholestérol, par portion indiquée, exprimée en pourcentage, en fraction ou en milligrammes, par rapport à l’aliment de référence du même groupe alimentaire.
 
 
 
@@ -6014,11 +7176,11 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Sans sodium ou sans sel</td>
 <td>L’aliment contient, selon le cas :
 
-**a)** moins de 5 mg de sodium par quantité de référence et par portion déterminée;
+**a)** moins de 5 mg de sodium par quantité de référence et par portion indiquée;
 
 
 
-**b)** moins de 5 mg de sodium par portion déterminée, si l’aliment est un repas préemballé.
+**b)** moins de 5 mg de sodium par portion indiquée, si l’aliment est un repas préemballé.
 
 
 
@@ -6031,7 +7193,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Faible teneur en sodium ou en sel</td>
 <td>L’aliment contient, selon le cas :
 
-**a)** au plus 140 mg de sodium par quantité de référence et par portion déterminée, et par 50 g si la quantité de référence est 30 g ou 30 mL ou moins;
+**a)** au plus 140 mg de sodium par quantité de référence et par portion indiquée, et par 50 g si la quantité de référence est 30 g ou 30 mL ou moins;
 
 
 
@@ -6056,7 +7218,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**(2)** L’aliment de référence similaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 32 en regard du sujet « faible teneur en sodium ou en sel » figurant à la colonne 1.
+**(2)** L’aliment de référence similaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 32 en regard du sujet « faible teneur en sodium ou en sel » figurant à la colonne 1.
 
 </td>
 <td>Les renseignements suivants sont mentionnés :
@@ -6069,7 +7231,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**c)** la différence de teneur en sodium, par portion déterminée, exprimée en pourcentage, en fraction ou en milligrammes, par rapport à l’aliment de référence similaire.
+**c)** la différence de teneur en sodium, par portion indiquée, exprimée en pourcentage, en fraction ou en milligrammes, par rapport à l’aliment de référence similaire.
 
 
 
@@ -6089,7 +7251,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**(2)** L’aliment de référence du même groupe alimentaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 32 en regard du sujet « faible teneur en sodium ou en sel » figurant à la colonne 1.
+**(2)** L’aliment de référence du même groupe alimentaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 32 en regard du sujet « faible teneur en sodium ou en sel » figurant à la colonne 1.
 
 </td>
 <td>Les renseignements suivants sont mentionnés :
@@ -6102,7 +7264,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**c)** la différence de teneur en sodium, par portion déterminée, exprimée en pourcentage, en fraction ou en milligrammes, par rapport à l’aliment de référence du même groupe alimentaire.
+**c)** la différence de teneur en sodium, par portion indiquée, exprimée en pourcentage, en fraction ou en milligrammes, par rapport à l’aliment de référence du même groupe alimentaire.
 
 
 
@@ -6125,7 +7287,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Légèrement salé</td>
 <td>**(1)** L’aliment présente une diminution d’au moins 50 % de la teneur en sodium ajouté par rapport à l’aliment de référence similaire.
 
-**(2)** L’aliment de référence similaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 32 en regard du sujet « faible teneur en sodium ou en sel » figurant à la colonne 1.
+**(2)** L’aliment de référence similaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 32 en regard du sujet « faible teneur en sodium ou en sel » figurant à la colonne 1.
 
 </td>
 <td>Les renseignements suivants sont mentionnés :
@@ -6138,7 +7300,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**c)** la différence de teneur en sodium, par portion déterminée, exprimée en pourcentage, en fraction ou en milligrammes, par rapport à l’aliment de référence similaire.
+**c)** la différence de teneur en sodium, par portion indiquée, exprimée en pourcentage, en fraction ou en milligrammes, par rapport à l’aliment de référence similaire.
 
 
 
@@ -6150,11 +7312,11 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Sans sucres</td>
 <td>L’aliment, à la fois :
 
-**a)** contient moins de 0,5 g de sucres par quantité de référence et par portion déterminée;
+**a)** contient moins de 0,5 g de sucres par quantité de référence et par portion indiquée;
 
 
 
-**b)** à l’exception de la gomme à mâcher, répond aux critères mentionnés à la colonne 2 de l’article 1 en regard du sujet « sans énergie » figurant à la colonne 1.
+**b)** à l’exception de la gomme à mâcher, répond aux critères mentionnés à la colonne 2 de l’article 1 en regard du sujet « sans énergie » figurant à la colonne 1.
 
 
 
@@ -6186,7 +7348,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**c)** la différence de teneur en sucres, par portion déterminée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l’aliment de référence similaire.
+**c)** la différence de teneur en sucres, par portion indiquée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l’aliment de référence similaire.
 
 
 
@@ -6217,7 +7379,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**c)** la différence de teneur en sucres, par portion déterminée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l’aliment de référence du même groupe alimentaire.
+**c)** la différence de teneur en sucres, par portion indiquée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l’aliment de référence du même groupe alimentaire.
 
 
 
@@ -6242,15 +7404,15 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Source de fibres</td>
 <td>**(1)** L’aliment contient au moins 2 g, selon le cas :
 
-**a)** de fibres par quantité de référence et par portion déterminée lorsque ni le type ni l’origine des fibres ne sont précisés dans la mention ou l’allégation;
+**a)** de fibres par quantité de référence et par portion indiquée lorsque ni le type ni l’origine des fibres ne sont précisés dans la mention ou l’allégation;
 
 
 
-**b)** de fibres de chaque type ou origine précisé, par quantité de référence et par portion déterminée, lorsque le type ou l’origine des fibres est précisé dans la mention ou l’allégation.
+**b)** de fibres de chaque type ou origine précisé, par quantité de référence et par portion indiquée, lorsque le type ou l’origine des fibres est précisé dans la mention ou l’allégation.
 
 
 
-**(2)** L’aliment contient au moins un ingrédient qui répond à l’un des critères mentionnés au paragraphe (1), si l’aliment est un repas préemballé.
+**(2)** L’aliment contient au moins un ingrédient qui répond à l’un des critères mentionnés au paragraphe (1), si l’aliment est un repas préemballé.
 
 </td>
 <td></td>
@@ -6261,15 +7423,15 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Source élevée de fibres</td>
 <td>**(1)** L’aliment contient au moins 4 g, selon le cas :
 
-**a)** de fibres par quantité de référence et par portion déterminée lorsque ni le type ni l’origine des fibres ne sont précisés dans la mention ou l’allégation;
+**a)** de fibres par quantité de référence et par portion indiquée lorsque ni le type ni l’origine des fibres ne sont précisés dans la mention ou l’allégation;
 
 
 
-**b)** de fibres de chaque type ou origine précisé, par quantité de référence et par portion déterminée, lorsque le type ou l’origine des fibres est précisé dans la mention ou l’allégation.
+**b)** de fibres de chaque type ou origine précisé, par quantité de référence et par portion indiquée, lorsque le type ou l’origine des fibres est précisé dans la mention ou l’allégation.
 
 
 
-**(2)** L’aliment contient au moins un ingrédient qui répond à l’un des critères mentionnés au paragraphe (1), si l’aliment est un repas préemballé.
+**(2)** L’aliment contient au moins un ingrédient qui répond à l’un des critères mentionnés au paragraphe (1), si l’aliment est un repas préemballé.
 
 </td>
 <td></td>
@@ -6280,11 +7442,11 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>Source très élevée de fibres</td>
 <td>**(1)** L’aliment contient au moins 6 g, selon le cas :
 
-**a)** de fibres par quantité de référence et par portion déterminée lorsque ni le type ni l’origine des fibres ne sont précisés dans la mention ou l’allégation;
+**a)** de fibres par quantité de référence et par portion indiquée lorsque ni le type ni l’origine des fibres ne sont précisés dans la mention ou l’allégation;
 
 
 
-**b)** de fibres de chaque type ou origine précisé, par quantité de référence et par portion déterminée, lorsque le type ou l’origine des fibres est précisé dans la mention ou l’allégation.
+**b)** de fibres de chaque type ou origine précisé, par quantité de référence et par portion indiquée, lorsque le type ou l’origine des fibres est précisé dans la mention ou l’allégation.
 
 
 
@@ -6309,11 +7471,11 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **(2)** L’aliment contient, selon le cas :
 
-**a)** au moins 2 g de fibres par quantité de référence et par portion déterminée, lorsque ni le type ni l’origine des fibres ne sont précisés dans la mention ou l’allégation, ou au moins 2 g de fibres de chaque type ou origine précisé par quantité de référence et par portion déterminée, lorsque le type ou l’origine des fibres est précisé dans la mention ou l’allégation;
+**a)** au moins 2 g de fibres par quantité de référence et par portion indiquée, lorsque ni le type ni l’origine des fibres ne sont précisés dans la mention ou l’allégation, ou au moins 2 g de fibres de chaque type ou origine précisé par quantité de référence et par portion indiquée, lorsque le type ou l’origine des fibres est précisé dans la mention ou l’allégation;
 
 
 
-**b)** au moins un ingrédient qui répond aux critères mentionnés à la colonne 2 de l’article 41 en regard du sujet « source de fibres » figurant à la colonne 1, si l’aliment est un repas préemballé.
+**b)** au moins un ingrédient qui répond aux critères mentionnés à la colonne 2 de l’article 41 en regard du sujet « source de fibres » figurant à la colonne 1, si l’aliment est un repas préemballé.
 
 
 
@@ -6328,7 +7490,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**c)** la différence de teneur en fibres, par portion déterminée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l’aliment de référence du même groupe alimentaire ou à l’aliment de référence similaire.
+**c)** la différence de teneur en fibres, par portion indiquée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l’aliment de référence du même groupe alimentaire ou à l’aliment de référence similaire.
 
 
 
@@ -6338,13 +7500,13 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <tr>
 <td>45</td>
 <td>Léger (énergie ou lipides)</td>
-<td>L’aliment répond aux critères mentionnés à la colonne 2 de l’un ou l’autre des articles suivants :
+<td>L’aliment répond aux critères mentionnés à la colonne 2 de l’un ou l’autre des articles suivants :
 
-**a)** l’article 3 en regard du sujet « énergie réduite » figurant à la colonne 1;
+**a)** l’article 3 en regard du sujet « énergie réduite » figurant à la colonne 1;
 
 
 
-**b)** l’article 13 en regard du sujet « teneur réduite en lipides » figurant à la colonne 1.
+**b)** l’article 13 en regard du sujet « teneur réduite en lipides » figurant à la colonne 1.
 
 
 
@@ -6359,7 +7521,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**c)** la différence de valeur énergétique ou de teneur en lipides, par portion déterminée, exprimée en pourcentage, en fraction, en Calories ou en grammes, par rapport à l’aliment de référence similaire.
+**c)** la différence de valeur énergétique ou de teneur en lipides, par portion indiquée, exprimée en pourcentage, en fraction, en Calories ou en grammes, par rapport à l’aliment de référence similaire.
 
 
 
@@ -6402,7 +7564,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 </tr>
 </table>
 
-> DORS/2003-11, art. 20; err.(F), Vol. 137, n<sup>o</sup>o 5; DORS/2007-176, art. 6.
+> DORS/2003-11, art. 20; err.(F), Vol. 137, n<sup>o</sup> 5; DORS/2007-176, art. 6; DORS/2016-305, art. 75(F).
 
 
 
@@ -6467,7 +7629,11 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**B.01.603** Il est entendu que toute mention ou allégation figurant à la colonne 1 du tableau suivant le présent article, faite sur l’étiquette ou dans l’annonce d’un aliment, ne peut être entrecoupée d’autres mots, chiffres, signes ou symboles, mais peut en être précédée ou suivie.
+**B.01.603** 
+
+- **(1)** Il est entendu que toute mention ou allégation figurant à la colonne 1 du tableau suivant le présent article, faite sur l’étiquette ou dans l’annonce d’un aliment, ne peut être entrecoupée d’autres mots, chiffres, signes ou symboles, mais peut en être précédée ou suivie.
+
+- **(2)** Si un aliment répond aux critères mentionnés à la colonne 2 du tableau suivant le présent article en regard de plusieurs articles de ce tableau, la répétition de l’élément commun, dans les mentions ou les allégations figurant à la colonne 1 faites sur l’étiquette ou dans l’annonce de l’aliment, n’est pas nécessaire et les éléments dissemblables peuvent être unis au moyen d’une conjonction ou d’un signe de ponctuation, selon le cas.
 #### TABLEAU
 <table>
 <tr>
@@ -6498,23 +7664,23 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 </td>
 <td>L’aliment :
 
-**a)** autre qu’un légume ou un fruit, ne répond pas aux critères mentionnés à la colonne 2 de l’article 2 du tableau suivant l’article B.01.513 en regard du sujet « peu d’énergie » visé à la colonne 1;
+**a)** autre qu’un légume ou un fruit, ne répond pas aux critères mentionnés à la colonne 2 de l’article 2 du tableau suivant l’article B.01.513 en regard du sujet « peu d’énergie » visé à la colonne 1;
 
 
 
 **b)** contient au moins 10 % de l’apport nutritionnel recommandé pondéré d’une vitamine ou d’un minéral nutritif, selon le cas :
 
-**(i)** par quantité de référence et portion déterminée,
+**(i)** par quantité de référence et portion indiquée,
 
 
 
-**(ii)** par portion déterminée, si l’aliment est un repas préemballé;
+**(ii)** par portion indiquée, si l’aliment est un repas préemballé;
 
 
 
 
 
-**c)** répond aux critères mentionnés à la colonne 2 de l’article 19 du tableau suivant l’article B.01.513 en regard du sujet « faible teneur en acides gras saturés » visé à la colonne 1;
+**c)** répond aux critères mentionnés à la colonne 2 de l’article 19 du tableau suivant l’article B.01.513 en regard du sujet « faible teneur en acides gras saturés » visé à la colonne 1;
 
 
 
@@ -6522,32 +7688,28 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**e)** dont l’étiquette ou l’annonce comporte les mentions ou allégations (1), (3) ou (5) figurant à la colonne 1 du présent article, répond aux critères mentionnés à la colonne 2 de l’article 31 du tableau suivant l’article B.01.513 en regard du sujet « sans sodium ou sans sel » visé à la colonne 1;
+**e)** dont l’étiquette ou l’annonce comporte les mentions ou allégations (1), (3) ou (5) figurant à la colonne 1 du présent article, répond aux critères mentionnés à la colonne 2 de l’article 31 du tableau suivant l’article B.01.513 en regard du sujet « sans sodium ou sans sel » visé à la colonne 1;
 
 
 
-**f)** dont l’étiquette ou l’annonce comporte les mentions ou allégations (2), (4) ou (6) figurant à la colonne 1 du présent article, répond aux critères mentionnés à la colonne 2 de l’article 32 du tableau suivant l’article B.01.513 en regard du sujet « faible teneur en sodium ou en sel » visé à la colonne 1;
+**f)** dont l’étiquette ou l’annonce comporte les mentions ou allégations (2), (4) ou (6) figurant à la colonne 1 du présent article, répond aux critères mentionnés à la colonne 2 de l’article 32 du tableau suivant l’article B.01.513 en regard du sujet « faible teneur en sodium ou en sel » visé à la colonne 1;
 
 
 
-**g)** dont l’étiquette ou l’annonce comporte les mentions ou allégations (3), (4), (5) ou (6) figurant à la colonne 1 du présent article, contient 350 mg ou plus de potassium, selon le cas :
+**g)** dont l’étiquette ou l’annonce comporte les mentions ou allégations (3), (4), (5) ou (6) figurant à la colonne 1 du présent article, contient 350 mg ou plus de potassium, selon le cas :
 
-**(i)** par quantité de référence et portion déterminée,
+**(i)** par quantité de référence et portion indiquée,
 
 
 
-**(ii)** par portion déterminée, si l’aliment est un repas préemballé.
+**(ii)** par portion indiquée, si l’aliment est un repas préemballé.
 
 
 
 
 
 </td>
-<td>**(1)** Si la mention ou l’allégation figure sur l’étiquette d’un produit préemballé ou encore dans l’annonce d’un tel produit faite par le fabricant du produit ou sous ses ordres, le tableau de la valeur nutritive indique la teneur en potassium, conformément au paragraphe B.01.402(2).
-
-**(2)** Si la mention ou l’allégation figure sur l’étiquette ou dans l’annonce d’un aliment qui n’est pas un produit préemballé ou dans l’annonce d’un produit préemballé faite par une personne autre que le fabricant du produit ou une personne agissant sous ses ordres, l’étiquette ou l’annonce indique la teneur en sodium et en potassium par portion déterminée et, le cas échéant, conformément à l’article B.01.602.
-
-</td>
+<td>Si la mention ou l’allégation est faite sur l’étiquette ou dans l’annonce d’un aliment qui n’est pas un produit préemballé ou dans l’annonce d’un produit préemballé faite par une personne autre que le fabricant du produit ou une personne agissant sous ses ordres, l’étiquette ou l’annonce indique la teneur en sodium et en potassium par portion indiquée et, le cas échéant, conformément à l’article B.01.602. Toutefois, cette exigence ne s’applique pas si la mention ou l’allégation est faite sur l’étiquette ou dans l’annonce d’un légume frais, d’un fruit frais ou d’un mélange quelconque de légumes frais ou de fruits frais sans ingrédient ajouté, d’une orange à laquelle un colorant alimentaire a été ajouté et d’un légume frais ou d’un fruit frais enrobé d’huile minérale, de paraffine, de vaseline ou de tout enduit protecteur.</td>
 </tr>
 <tr>
 <td>2</td>
@@ -6559,14 +7721,14 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **(4)** « Une alimentation saine comprenant une quantité adéquate de calcium et de vitamine D et une activité physique régulière favorisent la formation d’os solides et peuvent réduire le risque d’ostéoporose. (Nom de l’aliment) est une source très élevée de calcium. »
 
-**(5)** « Une alimentation saine comprenant une quantité adéquate de calcium et de vitamine D et une activité physique régulière favorisent la formation d’os solides et peuvent réduire le risque d’ostéoporose. (Nom de l’aliment) est une excellente source de calcium et de vitamine D. »
+**(5)** « Une alimentation saine comprenant une quantité adéquate de calcium et de vitamine D et une activité physique régulière favorisent la formation d’os solides et peuvent réduire le risque d’ostéoporose. (Nom de l’aliment) est une excellente source de calcium et de vitamine D. »
 
 **(6)** « Une alimentation saine comprenant une quantité adéquate de calcium et de vitamine D et une activité physique régulière favorisent la formation d’os solides et peuvent réduire le risque d’ostéoporose. (Nom de l’aliment) est une source très élevée de calcium et de vitamine D. »
 
 </td>
 <td>L’aliment :
 
-**a)** autre qu’un légume ou un fruit, ne répond pas aux critères mentionnés à la colonne 2 de l’article 2 du tableau suivant l’article B.01.513 en regard du sujet « peu d’énergie » visé à la colonne 1;
+**a)** autre qu’un légume ou un fruit, ne répond pas aux critères mentionnés à la colonne 2 de l’article 2 du tableau suivant l’article B.01.513 en regard du sujet « peu d’énergie » visé à la colonne 1;
 
 
 
@@ -6578,37 +7740,37 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**d)** dont l’étiquette ou l’annonce comporte les mentions ou allégations (1) ou (2) figurant à la colonne 1 du présent article, contient, selon le cas :
+**d)** dont l’étiquette ou l’annonce comporte les mentions ou allégations (1) ou (2) figurant à la colonne 1 du présent article, contient, selon le cas :
 
-**(i)** 200 mg ou plus de calcium par quantité de référence et par portion déterminée,
-
-
-
-**(ii)** 300 mg ou plus de calcium par portion déterminée, si l’aliment est un repas préemballé;
+**(i)** 200 mg ou plus de calcium par quantité de référence et par portion indiquée,
 
 
 
-
-
-**e)** dont l’étiquette ou l’annonce comporte les mentions ou allégations (3), (4), (5) ou (6) figurant à la colonne 1 du présent article, contient, selon le cas :
-
-**(i)** 275 mg ou plus de calcium par quantité de référence et par portion déterminée,
-
-
-
-**(ii)** 400 mg ou plus de calcium par portion déterminée, si l’aliment est un repas préemballé;
+**(ii)** 300 mg ou plus de calcium par portion indiquée, si l’aliment est un repas préemballé;
 
 
 
 
 
-**f)** dont l’étiquette ou l’annonce comporte les mentions ou allégations (5) ou (6) figurant à la colonne 1 du présent article, contient 1,25 µg ou plus de vitamine D, selon le cas :
+**e)** dont l’étiquette ou l’annonce comporte les mentions ou allégations (3), (4), (5) ou (6) figurant à la colonne 1 du présent article, contient, selon le cas :
 
-**(i)** par quantité de référence et portion déterminée,
+**(i)** 275 mg ou plus de calcium par quantité de référence et par portion indiquée,
 
 
 
-**(ii)** par portion déterminée, si l’aliment est un repas préemballé.
+**(ii)** 400 mg ou plus de calcium par portion indiquée, si l’aliment est un repas préemballé;
+
+
+
+
+
+**f)** dont l’étiquette ou l’annonce comporte les mentions ou allégations (5) ou (6) figurant à la colonne 1 du présent article, contient 1,25 µg ou plus de vitamine D, selon le cas :
+
+**(i)** par quantité de référence et portion indiquée,
+
+
+
+**(ii)** par portion indiquée, si l’aliment est un repas préemballé.
 
 
 
@@ -6617,7 +7779,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 </td>
 <td>**(1)** Si la mention ou l’allégation figure sur l’étiquette d’un produit préemballé ou encore dans l’annonce d’un tel produit faite par le fabricant du produit ou sous ses ordres, le tableau de la valeur nutritive indique la teneur en vitamine D et en phosphore, conformément au paragraphe B.01.402(2).
 
-**(2)** Si la mention ou l’allégation figure sur l’étiquette ou dans l’annonce d’un aliment qui n’est pas un produit préemballé ou dans l’annonce d’un produit préemballé faite par une personne autre que le fabricant du produit ou une personne agissant sous ses ordres, l’étiquette ou l’annonce indique la teneur en vitamine D, en calcium et en phosphore par portion déterminée et, le cas échéant, conformément à l’article B.01.602.
+**(2)** Si la mention ou l’allégation est faite sur l’étiquette ou dans l’annonce d’un aliment qui n’est pas un produit préemballé ou dans l’annonce d’un produit préemballé faite par une personne autre que le fabricant du produit ou une personne agissant sous ses ordres, l’étiquette ou l’annonce indique la teneur en vitamine D, en calcium et en phosphore par portion indiquée et, le cas échéant, conformément à l’article B.01.602. Toutefois, cette exigence ne s’applique pas si la mention ou l’allégation est faite sur l’étiquette ou dans l’annonce d’un légume frais, d’un fruit frais ou d’un mélange quelconque de légumes frais ou de fruits frais sans ingrédient ajouté, d’une orange à laquelle un colorant alimentaire a été ajouté et d’un légume frais ou d’un fruit frais enrobé d’huile minérale, de paraffine, de vaseline ou de tout enduit protecteur.
 
 </td>
 </tr>
@@ -6628,19 +7790,19 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 **(2)** « Une alimentation saine pauvre en graisses saturées et en graisses trans peut réduire le risque de maladie du coeur. (Nom de l’aliment) est pauvre en graisses saturées et en graisses trans. »
 
 </td>
-<td>L’aliment :
+<td>L’aliment :
 
-**a)** autre qu’un légume ou un fruit, ne répond pas aux critères mentionnés à la colonne 2 de l’article 2 du tableau suivant l’article B.01.513 en regard du sujet « peu d’énergie » visé à la colonne 1;
-
-
-
-**b)** contient au moins 10 % de l’apport nutritionnel recommandé pondéré d’une vitamine ou d’un minéral nutritif, selon le cas :
-
-**(i)** par quantité de référence et portion déterminée,
+**a)** autre qu’un légume ou un fruit, ne répond pas aux critères mentionnés à la colonne 2 de l’article 2 du tableau suivant l’article B.01.513 en regard du sujet « peu d’énergie » visé à la colonne 1;
 
 
 
-**(ii)** par portion déterminée, si l’aliment est un repas préemballé;
+**b)** contient au moins 10 % de l’apport nutritionnel recommandé pondéré d’une vitamine ou d’un minéral nutritif, selon le cas :
+
+**(i)** par quantité de référence et portion indiquée,
+
+
+
+**(ii)** par portion indiquée, si l’aliment est un repas préemballé;
 
 
 
@@ -6672,28 +7834,26 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **f)** contient, selon le cas :
 
-**(i)** au plus 480 mg de sodium par quantité de référence, par portion déterminée et, si la quantité de référence est d’au plus 30 g ou 30 mL, par 50 g,
+**(i)** au plus 480 mg de sodium par quantité de référence, par portion indiquée et, si la quantité de référence est d’au plus 30 g ou 30 mL, par 50 g,
 
 
 
-**(ii)** au plus 960 mg de sodium par portion déterminée, si l’aliment est un repas préemballé;
+**(ii)** au plus 960 mg de sodium par portion indiquée, si l’aliment est un repas préemballé;
 
 
 
 
 
-**g)** dont l’étiquette ou l’annonce comporte la mention ou l’allégation (1) figurant à la colonne 1 du présent article, répond aux critères mentionnés à la colonne 2 de l’article 18 du tableau suivant l’article B.01.513 en regard du sujet « sans acides gras saturés » visé à la colonne 1;
+**g)** dont l’étiquette ou l’annonce comporte la mention ou l’allégation (1) figurant à la colonne 1 du présent article, répond aux critères mentionnés à la colonne 2 de l’article 18 du tableau suivant l’article B.01.513 en regard du sujet « sans acides gras saturés » visé à la colonne 1;
 
 
 
-**h)** dont l’étiquette ou l’annonce comporte la mention ou l’allégation (2) figurant à la colonne 1 du présent article, répond aux critères mentionnés à la colonne 2 de l’article 19 du tableau suivant l’article B.01.513 en regard du sujet « faible teneur en acides gras saturés » visé à la colonne 1.
+**h)** dont l’étiquette ou l’annonce comporte la mention ou l’allégation (2) figurant à la colonne 1 du présent article, répond aux critères mentionnés à la colonne 2 de l’article 19 du tableau suivant l’article B.01.513 en regard du sujet « faible teneur en acides gras saturés » visé à la colonne 1.
 
 
 
 </td>
-<td>Si la mention ou l’allégation figure sur l’étiquette ou dans l’annonce d’un aliment qui n’est pas un produit préemballé ou dans l’annonce d’un produit préemballé faite par une personne autre que le fabricant du produit ou une personne agissant sous ses ordres, l’étiquette ou l’annonce indique la teneur en acides gras saturés et en acides gras *trans* par portion déterminée et, le cas échéant, conformément à l’article B.01.602.
-
-</td>
+<td>Si la mention ou l’allégation est faite sur l’étiquette ou dans l’annonce d’un aliment qui n’est pas un produit préemballé ou dans l’annonce d’un produit préemballé faite par une personne autre que le fabricant du produit ou une personne agissant sous ses ordres, l’étiquette ou l’annonce indique la teneur en acides gras saturés et en acides gras *trans* par portion indiquée et, le cas échéant, conformément à l’article B.01.602. Toutefois, cette exigence ne s’applique pas si la mention ou l’allégation est faite sur l’étiquette ou dans l’annonce d’un légume frais, d’un fruit frais ou d’un mélange quelconque de légumes frais ou de fruits frais sans ingrédient ajouté, d’une orange à laquelle un colorant alimentaire a été ajouté et d’un légume frais ou d’un fruit frais enrobé d’huile minérale, de paraffine, de vaseline ou de tout enduit protecteur.</td>
 </tr>
 <tr>
 <td>4</td>
@@ -6702,7 +7862,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 </td>
 <td>L’aliment :
 
-**a)** est un des légumes, fruits ou jus ci-après et ne peut contenir que des agents édulcorants, les additifs alimentaires permis par le présent règlement, du sel, des fines herbes, des épices, des assaisonnements ou de l’eau :
+**a)** est un des légumes, fruits ou jus ci-après et ne peut contenir que les additifs alimentaires visés à l’article 2 d’une autorisation de mise en marché, des agents édulcorants, du sel, des fines herbes, des épices, des assaisonnements et de l’eau :
 
 **(i)** un légume frais, congelé, en conserve ou déshydraté,
 
@@ -6754,6 +7914,76 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td></td>
 </tr>
 <tr>
+<td>4.1</td>
+<td>« Une alimentation saine comportant une grande variété de légumes et de fruits peut aider à réduire le risque de maladie du coeur. »
+
+</td>
+<td>L’aliment :
+
+**a)** est l’un des légumes ou fruits ci-après et ne peut contenir que les additifs alimentaires visés à l’article 2 d’une autorisation de mise en marché, du sel, des fines herbes, des épices, des assaisonnements ou de l’eau :
+
+**(i)** un légume frais, congelé, en conserve ou déshydraté,
+
+
+
+**(ii)** un fruit frais, congelé, en conserve ou sec,
+
+
+
+**(iii)** un jus de légumes ou une boisson aux légumes,
+
+
+
+**(iv)** une combinaison quelconque des aliments mentionnés aux sous-alinéas (i) à (iii);
+
+
+
+
+
+**b)** n’est pas ou ne contient pas l’un des aliments suivants :
+
+**(i)** une pomme de terre, une igname, du manioc, une banane plantain, une légumineuse mature ou leur jus,
+
+
+
+**(ii)** un légume ou un fruit utilisé comme condiment, garniture ou aromatisant, notamment une cerise au marasquin, un fruit glacé ou confit ou de l’oignon en flocons,
+
+
+
+**(iii)** une confiture ou une tartinade de type confiture, une marmelade, une conserve de fruit ou une gelée,
+
+
+
+**(iv)** une olive,
+
+
+
+**(v)** un jus de fruits ou une boisson aux fruits,
+
+
+
+**(vi)** un légume ou fruit en poudre,
+
+
+
+**(vii)** une graine d’un fruit connu comme un drupe, notamment une amande, une noix de cajou et de la noix de coco;
+
+
+
+
+
+**c)** contient au plus 0,5 % d’alcool;
+
+
+
+**d)** contient moins de 15 % de la valeur quotidienne de sodium par quantité de référence, par portion indiquée et, si la quantité de référence est d’au plus 30 g ou 30 ml, par 50 g.
+
+
+
+</td>
+<td></td>
+</tr>
+<tr>
 <td>5</td>
 <td>**(1)** « Ne cause pas la carie dentaire. »
 
@@ -6770,7 +8000,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**b)** il contient plus de 0,25 % de glucides fermentescibles et il ne réduit pas le pH de la plaque à moins de 5,7 par fermentation bactérienne pendant 30 minutes après avoir été consommé, le pH étant mesuré selon le test « *indwelling plaque pH* » décrit dans « *Identification of Low Caries Risk Dietary Components* », *Monographs in Oral Science, T.N. Imfeld*, Volume 11, 1983.
+**b)** il contient plus de 0,25 % de glucides fermentescibles et il ne réduit pas le pH de la plaque à moins de 5,7 par fermentation bactérienne pendant 30 minutes après avoir été consommé, le pH étant mesuré selon le test « *indwelling plaque pH* » décrit dans « *Identification of Low Caries Risk Dietary Components* », *Monographs in Oral Science, T.N. Imfeld*, Volume 11, 1983.
 
 
 
@@ -6781,7 +8011,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 </tr>
 </table>
 
-> DORS/2003-11, art. 20; err.(F), Vol. 137, n<sup>o</sup>o 5; DORS/2010-142, art. 2.
+> DORS/2003-11, art. 20; err.(F), Vol. 137, n<sup>o</sup> 5; DORS/2010-142, art. 2; DORS/2016-305, art. 47, 48 et 75(F).
 
 
 
@@ -7766,34 +8996,34 @@ et il doit contenir au moins sept pour cent d’alcool absolu en volume.
 
 **B.06.001** Dans le présent Titre,
 
-***colorant synthétique*** désigne un colorant organique, autre que le caramel, qui est produit par synthèse chimique, qui n’a pas son équivalent dans la nature et qui est assujetti à une norme prévue aux articles B.06.041 à B.06.053; (*synthetic colour*)
+***colorant synthétique*** Colorant alimentaire organique, autre que le caramel, qui est produit par synthèse chimique et qui n’a pas son équivalent dans la nature. (*synthetic colour*)
 
-***diluant*** désigne une substance, autre qu’un colorant synthétique, qui est présente dans une préparation colorante ou un mélange colorant; (*diluent*)
+***diluant*** désigne une substance, autre qu’un colorant synthétique, qui est présente dans une préparation colorante ou un mélange colorant; (*diluent*)
 
-***mélange*** désigne un mélange de deux colorants synthétiques ou plus, ou un mélange d’un ou de plusieurs colorants synthétiques avec un ou plusieurs diluants; (*mixture*)
+***mélange*** désigne un mélange de deux colorants synthétiques ou plus, ou un mélange d’un ou de plusieurs colorants synthétiques avec un ou plusieurs diluants; (*mixture*)
 
-***méthode officielle FO-7*** désigne la méthode officielle FO-7, Détermination de la teneur en pigment dans les colorants synthétiques pour aliments, 15 mars 1984; (*official method FO-7*)
+***méthode officielle FO-7***[Abrogée, DORS/2016-305, art. 49]
 
-***méthode officielle FO-8*** désigne la méthode officielle FO-8, Dosage des matières insolubles dans l’eau dans les colorants synthétiques pour aliments, 15 mars 1984; (*official method FO-8*)
+***méthode officielle FO-8***[Abrogée, DORS/2016-305, art. 49]
 
-***méthode officielle FO-9*** désigne la méthode officielle FO-9, Dosage des extraits d’éther réunis dans les colorants synthétiques pour aliments, 15 mars 1984; (*official method FO-9*)
+***méthode officielle FO-9***[Abrogée, DORS/2016-305, art. 49]
 
-***méthode officielle FO-10*** désigne la méthode officielle FO-10, Dosage des pigments accessoires dans les colorants synthétiques pour aliments, 15 mars 1984; (*official method FO-10*)
+***méthode officielle FO-10***[Abrogée, DORS/2016-305, art. 49]
 
-***méthode officielle FO-11*** désigne la méthode officielle FO-11, Dosage des composés intermédiaires dans les colorants synthétiques pour aliments, 15 mars 1984; (*official method FO-11*)
+***méthode officielle FO-11***[Abrogée, DORS/2016-305, art. 49]
 
-***méthode officielle FO-12*** désigne la méthode officielle FO-12, Dosage des matières volatiles dans le rouge citrin n<sup>o</sup> 2, 15 mars 1984; (*official method FO-12*)
+***méthode officielle FO-12***[Abrogée, DORS/2016-305, art. 49]
 
-***méthode officielle FO-13*** désigne la méthode officielle FO-13, Dosage des cendres sulfatées dans le rouge citrin n<sup>o</sup> 2, 15 mars 1984; (*official method FO-13*)
+***méthode officielle FO-13***[Abrogée, DORS/2016-305, art. 49]
 
-***méthode officielle FO-14*** désigne la méthode officielle FO-14, Dosage des matières solubles dans l’eau dans le rouge citrin n<sup>o</sup> 2, 15 mars 1984; (*official method FO-14*)
+***méthode officielle FO-14***[Abrogée, DORS/2016-305, art. 49]
 
-***méthode officielle FO-15*** désigne la méthode officielle FO-15, Dosage des matières insolubles dans le tétrachlorure de carbone dans le rouge citrin n<sup>o</sup> 2, 15 mars 1984; (*official method FO-15*)
+***méthode officielle FO-15***[Abrogée, DORS/2016-305, art. 49]
 
-***pigment*** désigne le pigment principal et tout pigment associé, isomère ou accessoire, présents dans un colorant synthétique; (*dye*)
+***pigment*** désigne le pigment principal et tout pigment associé, isomère ou accessoire, présents dans un colorant synthétique; (*dye*)
 
-***préparation*** désigne une préparation faite d’un ou de plusieurs colorants synthétiques, qui renferme moins de trois pour cent de pigment et est vendue pour usage domestique. (*preparation*)
-> DORS/80-500, art. 2; DORS/84-440, art. 1.
+***préparation*** désigne une préparation faite d’un ou de plusieurs colorants synthétiques, qui renferme moins de trois pour cent de pigment et est vendue pour usage domestique. (*preparation*)
+> DORS/80-500, art. 2; DORS/84-440, art. 1; DORS/2016-305, art. 49.
 
 
 
@@ -7808,35 +9038,19 @@ et il doit contenir au moins sept pour cent d’alcool absolu en volume.
 
 
 
-**B.06.003** Il est interdit de vendre un colorant pour aliments qui renferme
-- **a)** plus de trois parties par million d’arsenic, calculé en arsenic selon la méthode officielle FO-4, Détermination d’arsenic dans les colorants alimentaires, 15 octobre 1981;
-- **b)** plus de 10 parties par million de plomb, calculé en plomb selon la méthode officielle FO-5, Détermination de plomb dans les colorants alimentaires, 15 octobre 1981; ou
-- **c)** plus de 40 parties par million de métaux lourds, exception faite de l’oxyde de fer, du bioxyde de titane, de l’aluminium et de l’argent.
-> DORS/80-500, art. 2; DORS/82-768, art. 7.
+**B.06.003** [Abrogé, DORS/2016-305, art. 50]
 
 
 
-
-**B.06.004** Il est interdit de vendre un colorant synthétique pour aliments sans respecter les conditions suivantes :
-- **a)** l’étiquette doit porter le numéro de lot et le nom usuel du colorant synthétique et les mots « colorant pour aliments »;
-- **b)** le Directeur ou un organisme jugé compétent par ce dernier doit avoir certifié que chaque lot est conforme à l’article B.06.003 et répond à la norme prescrite pour le colorant aux articles B.06.041 à B.06.053; et
-- **c)** lorsque la certification est accordée par un organisme, une copie doit en être présentée au Directeur pour acceptation.
-> DORS/80-500, art. 2.
+**B.06.004** [Abrogé, DORS/2016-305, art. 50]
 
 
 
-
-**B.06.005** Il est interdit d’importer un colorant synthétique pour aliments sans respecter les conditions suivantes :
-- **a)** le Directeur ou un organisme jugé compétent par ce dernier doit avoir certifié que chaque lot est conforme à l’article B.06.003 et répond à la norme prescrite pour ce colorant aux articles B.06.041 à B.06.053; et
-- **b)** lorsque la certification est accordée par un organisme, une copie doit en être présentée au Directeur pour acceptation.
-> DORS/80-500, art. 2.
+**B.06.005** [Abrogé, DORS/2016-305, art. 50]
 
 
 
-
-**B.06.006** Il est interdit de vendre un mélange pour aliments s’il ne porte, sur son étiquette, le numéro de lot et les mots « colorant pour aliments ».
-> DORS/80-500, art. 2.
-
+**B.06.006** [Abrogé, DORS/2016-305, art. 50]
 
 
 
@@ -7848,11 +9062,7 @@ et il doit contenir au moins sept pour cent d’alcool absolu en volume.
 
 
 
-**B.06.008** Il est interdit d’importer ou de vendre un mélange ou une préparation pour aliments sans respecter les conditions suivantes :
-- **a)** le Directeur ou un organisme jugé compétent par ce dernier doit avoir certifié que les colorants synthétiques contenus sont conformes à l’article B.06.003 et répondent à la norme prescrite aux articles B.06.041 à B.06.053; ou
-- **b)** les colorants synthétiques contenus doivent avoir été certifiés et cette certification doit avoir été acceptée conformément aux articles B.06.004 et B.06.005.
-> DORS/80-500, art. 2.
-
+**B.06.008** [Abrogé, DORS/2016-305, art. 51]
 
 
 
@@ -7860,179 +9070,98 @@ et il doit contenir au moins sept pour cent d’alcool absolu en volume.
 
 
 
+**B.06.021** [Abrogé, DORS/2016-305, art. 52]
 
-#### Colorants naturels
 
 
-**B.06.021** **[N].** Le **rocou soluble dans l’huile,** le **rocou à colorer le beurre,** ou le **rocou à colorer la margarine,**
-- **a)** doit être un extrait des graines de *Bixa orellana*
-	- **(i)** dissous dans l’huile végétale, l’huile de ricin, les monoglycérides et les diglycérides, le propylèneglycol ou les monoesters et diesters de propylèneglycol et d’acides gras lipogènes, avec ou sans adjonction de un pour cent d’hydroxide de potassium, ou
-	- **(ii)** absorbé sur du sucre, du lactose, de l’amidon ou du silicate de calcium hydraté, avec ou sans phosphate de calcium, phosphate double d’aluminium et de potassium, bicarbonate de sodium ou sel ordinaire; et
-- **b)** doit renfermer au moins 0,30 pour cent de pigments totaux, calculés en bixine (*cis*) naturelle, et les pigments totaux doivent être de la bixine (*cis*) naturelle dans la proportion de 40 pour cent au moins.
+**B.06.022** [Abrogé, DORS/2016-305, art. 52]
 
 
 
-**B.06.022** **[N].** Le **ß-carotène** doit être le colorant alimentaire chimiquement connu comme ß-carotène et manufacturé synthétiquement et doit se conformer aux spécifications suivantes :
-- **a)** solution de un pour cent dans le chloroforme limpide;
-- **b)** perte de poids à la dessiccation au plus 0,2 pour cent;
-- **c)** cendre au plus 0,2 pour cent; et
-- **d)** dosage (spectrophotométrique) de 96 à 101 pour cent.
+**B.06.023** [Abrogé, DORS/2016-305, art. 52]
 
 
 
-**B.06.023** **[N].** Le **ß-Apo-8′-caroténal** doit être le colorant alimentaire chimiquement connu comme ß-apo-8′-caroténal et doit se conformer aux spécifications suivantes :
-- **a)** solution de un pour cent dans le chloroforme limpide;
-- **b)** point de fusion (décomposition) 136 °C à 140 °C (corrigé);
-- **c)** perte de poids à la dessiccation au plus 0,2 pour cent;
-- **d)** cendre au plus 0,2 pour cent; et
-- **e)** dosage (spectrophotométrique) de 96 à 101 pour cent.
+**B.06.024** [Abrogé, DORS/2016-305, art. 52]
 
 
 
-**B.06.024** **[N]. Canthaxanthine** doit être le colorant alimentaire chimiquement connu comme canthaxanthine et doit se conformer aux spécifications suivantes :
-- **a)** solution de un pour cent dans le chloroforme limpide;
-- **b)** perte de poids à la dessiccation au plus 0,2 pour cent;
-- **c)** analyse (spectrophotométrique) de 96 à 101 pour cent.
+**B.06.025** [Abrogé, DORS/2016-305, art. 52]
 
 
 
-**B.06.025** **[N].** L’**ester éthylique de l’acide ß-apo-8′-caroténoïque** doit être le colorant alimentaire chimiquement connu sous le nom d’ester éthylique de l’acide ß-apo-8′-caroténoïque et doit être conforme aux spécifications suivantes :
-- **a)** solution à un pour cent dans le chloroforme limpide;
-- **b)** perte de poids à la dessiccation au plus 0,2 pour cent; et
-- **c)** dosage (spectrophotométrique) 96 à 101 pour cent.
-> DORS/84-300, art. 19(F).
+**B.06.031** [Abrogé, DORS/2016-305, art. 52]
 
 
 
+**B.06.032** [Abrogé, DORS/2016-305, art. 52]
 
 
-#### Colorants non organiques
 
+**B.06.033** [Abrogé, DORS/2016-305, art. 52]
 
-**B.06.031** **[N].** Le **noir de fumée** doit être du carbone préparé à partir de gaz naturel par le procédé à l’impinger ou à la filière, et ne doit renfermer ni hydrocarbure aromatique supérieur ni matière bitumineuse, après analyse selon la méthode officielle FO-6, Détermination d’hydrocarbures aromatiques supérieurs et de matières bitumineuses dans le noir de fumée et le charbon de bois, 15 octobre 1981.
-> DORS/82-768, art. 8.
 
 
+**B.06.041** [Abrogé, DORS/2016-305, art. 53]
 
 
-**B.06.032** **[N].** Le **charbon de bois** doit être du carbone préparé par combustion incomplète de matière végétale et ne doit renfermer ni hydrocarbure aromatique supérieur ni matière bitumineuse, après analyse selon la méthode officielle FO-6, Détermination d’hydrocarbures aromatiques supérieurs et de matières bitumineuses dans le noir de fumée et le charbon de bois, 15 octobre 1981.
-> DORS/82-768, art. 8.
 
+**B.06.042** [Abrogé, DORS/2016-305, art. 53]
 
 
 
-**B.06.033** **[N].** Le **dioxyde de titane** doit être la substance chimique connue sous le nom de dioxyde de titane et ne doit pas contenir moins de 99 pour cent de dioxyde de titane et, nonobstant l’article B.06.006, ne doit pas contenir plus de 50 parties par million d’antimoine total exprimé en métal et déterminé selon une méthode acceptable.
+**B.06.043** **[N].** Le ponceau SX doit être le sel disodique de l’acide 2-(5-sulfo-2,4-xylylazo)-1-naphtol-4-sulfonique; il doit renfermer au moins 85 % de pigment et peut renfermer au plus :
+- **a)** 0,2 % de matière insoluble dans l’eau;
+- **b)** 0,2 % d’extraits d’éther réunis;
+- **c)** 1,0 % de pigments accessoires;
+- **d)** 0,5 % de composés intermédiaires;
+- **e)** trois parties par million d’arsenic;
+- **f)** dix parties par million de plomb.
+> DORS/82-768, art. 9; DORS/84-440, art. 3; DORS/2016-305, art. 54.
 
 
 
 
-#### Colorants synthétiques
+**B.06.044** [Abrogé, DORS/2016-305, art. 54]
 
 
-**B.06.041** **[N].** L’**amaranthe** doit être le sel trisodique de l’acide 1-(4-sulfo-1-naphtylazo)-2-naphtol-3,6-disulfonique; elle doit renfermer au moins 85 pour cent de pigment, déterminé selon la méthode officielle FO-7, et peut renfermer au plus
-- **a)** 0,2 pour cent de matière insoluble dans l’eau, déterminé selon la méthode officielle FO-8;
-- **b)** 0,2 pour cent d’extraits d’éther réunis, déterminé selon la méthode officielle FO-9;
-- **c)** quatre pour cent de pigments accessoires, déterminé selon la méthode officielle FO-10; et
-- **d)** 0,5 pour cent de composés intermédiaires, déterminé selon la méthode officielle FO-11.
-> DORS/82-768, art. 9; DORS/84-440, art. 3.
 
+**B.06.045** [Abrogé, DORS/2016-305, art. 54]
 
 
 
-**B.06.042** **[N].** L’**érythrosine** doit être le sel disodique de la 2,4,5,7-tétraiodofluorescéine; elle doit renfermer au moins 85 pour cent de pigment calculé en monohydrate selon la méthode officielle FO-7, et peut renfermer au plus
-- **a)** 0,2 pour cent de matière insoluble dans l’eau, déterminé selon la méthode officielle FO-8;
-- **b)** 0,2 pour cent d’extraits d’éther réunis, déterminé selon la méthode officielle FO-9;
-- **c)** cinq pour cent de pigments accessoires, déterminé selon la méthode officielle FO-10; et
-- **d)** 0,5 pour cent de composés intermédiaires, déterminé selon la méthode officielle FO-11.
-> DORS/82-768, art. 9; DORS/84-440, art. 3.
+**B.06.046** [Abrogé, DORS/2016-305, art. 54]
 
 
 
+**B.06.049** [Abrogé, DORS/2016-305, art. 54]
 
-**B.06.043** **[N].** Le **ponceau SX** doit être le sel disodique de l’acide 2-(5-sulfo-2,4-xylylazo)-1-naphtol-4-sulfonique; il doit renfermer au moins 85 pour cent de pigment, déterminé selon la méthode officielle FO-7, et peut renfermer au plus
-- **a)** 0,2 pour cent de matière insoluble dans l’eau, déterminé selon la méthode officielle FO-8;
-- **b)** 0,2 pour cent d’extraits d’éther réunis, déterminé selon la méthode officielle FO-9;
-- **c)** un pour cent de pigments accessoires, déterminé selon la méthode officielle FO-10; et
-- **d)** 0,5 pour cent de composés intermédiaires, déterminé selon la méthode officielle FO-11.
-> DORS/82-768, art. 9; DORS/84-440, art. 3.
 
 
+**B.06.050** [Abrogé, DORS/2016-305, art. 54]
 
 
-**B.06.044** **[N].** Le **rouge allura** doit être le sel disodique de l’acide 6-hydroxy-5-[(2-méthoxy-5-méthyl-4-sulfophényl) azo]-2-naphtalène sulfonique; il doit renfermer au moins 85 pour cent de pigment, déterminé selon la méthode officielle FO-7, et peut renfermer au plus
-- **a)** 0,2 pour cent de matière insoluble dans l’eau, déterminé selon la méthode officielle FO-8;
-- **b)** 0,2 pour cent d’extraits d’éther réunis, déterminé selon la méthode officielle FO-9;
-- **c)** quatre pour cent de pigments accessoires, déterminé selon la méthode officielle FO-10; et
-- **d)** 0,5 pour cent de composés intermédiaires, déterminé selon la méthode officielle FO-11.
-> DORS/84-440, art. 3.
 
+**B.06.051** [Abrogé, DORS/2016-305, art. 54]
 
 
 
-**B.06.045** **[N].** La **tartrazine** doit être le sel trisodique du 3-carboxy-5-hydroxy-1-p-sulfophényl-4-p-sulfophénylazopyrazole; elle doit renfermer au moins 85 pour cent de pigment, déterminé selon la méthode officielle FO-7, et peut renfermer au plus
-- **a)** 0,2 pour cent de matière insoluble dans l’eau, déterminé selon la méthode officielle FO-8;
-- **b)** 0,2 pour cent d’extraits d’éther réunis, déterminé selon la méthode officielle FO-9;
-- **c)** un pour cent de pigments accessoires, déterminé selon la méthode officielle FO-10; et
-- **d)** 0,5 pour cent de composés intermédiaires, déterminé selon la méthode officielle FO-11.
-> DORS/82-768, art. 10; DORS/84-440, art. 3.
+**B.06.053** **[N].** Le rouge citrin n<sup>o</sup> 2 doit être le 1-(2,5-diméthoxyphénylazo)-2-naphtol; il doit renfermer au moins 98 % de pigment et peut renfermer au plus :
+- **a)** 0,5 % de matières volatiles (à 100 °C);
+- **b)** 0,3 % de cendres sulfatées;
+- **c)** 0,3 % de matière soluble dans l’eau;
+- **d)** 0,5 % de matière insoluble dans le tétrachlorure de carbone;
+- **e)** 0,05 % de composés intermédiaires non combinés;
+- **f)** 2,0 % de pigments accessoires;
+- **g)** une partie par million d’arsenic;
+- **h)** dix parties par million de plomb.
+> DORS/82-768, art. 12; DORS/84-440, art. 3; DORS/2016-305, art. 55.
 
 
 
 
-**B.06.046** **[N].** Le **jaune soleil FCF** doit être le sel disodique de l’acide 1-p-sulfophénylazo-2-naphtol-6-sulfonique; il doit renfermer au moins 85 pour cent de pigment, déterminé selon la méthode officielle FO-7, et peut renfermer au plus
-- **a)** 0,2 pour cent de matière insoluble dans l’eau, déterminé selon la méthode officielle F6-8;
-- **b)** 0,2 pour cent d’extraits d’éther réunis, déterminé selon la méthode officielle FO-9;
-- **c)** cinq pour cent de pigments accessoires, déterminé selon la méthode officielle FO-10; et
-- **d)** 0,5 pour cent de composés intermédiaires, déterminé selon la méthode officielle FO-11.
-> DORS/82-768, art. 10; DORS/84-440, art. 3.
-
-
-
-
-**B.06.049** **[N].** Le **vert solide FCF** doit être le sel disodique du 4,4′-di(N-éthyl-m-sulfobenzylamino)-2″-sulfo-4″-hydroxy-triphénylméthanol anhydride; il doit renfermer au moins 85 pour cent de pigment, déterminé selon la méthode officielle FO-7, et peut renfermer au plus
-- **a)** 0,2 pour cent de matière insoluble dans l’eau, déterminé selon la méthode officielle FO-8;
-- **b)** 0,4 pour cent d’extraits d’éther réunis, déterminé selon la méthode officielle FO-9;
-- **c)** cinq pour cent de pigments accessoires, déterminé selon la méthode officielle FO-10; et
-- **d)** un pour cent de composés intermédiaires, déterminé selon la méthode officielle FO-11.
-> DORS/82-768, art. 11; DORS/84-440, art. 3.
-
-
-
-
-**B.06.050** **[N].** L’**indigotine** doit être le sel disodique de l’acide indigotine-5,5′-disulfonique; elle doit renfermer au moins 85 pour cent de pigment, déterminé selon la méthode officielle FO-7, et peut renfermer au plus
-- **a)** 0,2 pour cent de matière insoluble dans l’eau, déterminé selon la méthode officielle FO-8;
-- **b)** 0,4 pour cent d’extrait d’éther réunis, déterminé selon la méthode officielle FO-9;
-- **c)** un pour cent de pigments accessoires, déterminé selon la méthode officielle FO-10; et
-- **d)** 0,5 pour cent de composés intermédiaires, déterminé selon la méthode officielle FO-11.
-> DORS/82-768, art. 11; DORS/84-440, art. 3.
-
-
-
-
-**B.06.051** **[N].** Le **bleu brillant FCF** doit être le sel disodique du 4,4′-di(N-éthyl-m-sulfobenzylamino)-2″-sulfotriphénylméthanol anhydride; il doit renfermer au moins 85 pour cent de pigment, déterminé selon la méthode officielle FO-7, et peut renfermer au plus
-- **a)** 0,2 pour cent de matière insoluble dans l’eau, déterminé selon la méthode officielle FO-8;
-- **b)** 0,4 pour cent d’extraits d’éther réunis, déterminé selon la méthode officielle FO-9;
-- **c)** cinq pour cent de pigments accessoires, déterminé selon la méthode officielle FO-10; et
-- **d)** deux pour cent de composés intermédiaires, déterminé selon la méthode officielle FO-11.
-> DORS/82-768, art. 11; DORS/84-440, art. 3.
-
-
-
-
-**B.06.053** **[N].** Le **rouge citrin no 2** doit être le 1-(2,5-diméthoxyphénylazo)-2-naphtol; il doit renfermer au moins 98 pour cent de pigment, déterminé selon la méthode officielle FO-7, et peut renfermer au plus
-- **a)** 0,5 pour cent de matières volatiles (à 100 °C), déterminé selon la méthode officielle FO-12;
-- **b)** 0,3 pour cent de cendres sulfatées, déterminé selon la méthode officielle FO-13;
-- **c)** 0,3 pour cent de matière soluble dans l’eau, déterminé selon la méthode officielle FO-14;
-- **d)** 0,5 pour cent de matière insoluble dans le tétrachlorure de carbone, déterminé selon la méthode officielle FO-15;
-- **e)** 0,05 pour cent de composés intermédiaires non combinés; et
-- **f)** deux pour cent de pigments accessoires.
-> DORS/82-768, art. 12; DORS/84-440, art. 3.
-
-
-
-
-**B.06.061** La laque de tout colorant synthétique soluble dans l’eau pour lequel une norme est prévue aux articles B.06.041, B.06.042, B.06.043, B.06.044, B.06.045, B.06.046, B.06.049, B.06.050 ou B.06.051 doit être le sel de calcium ou d’aluminium du colorant en cause, absorbé sur alumine.
-> DORS/82-1071, art. 3; DORS/84-300, art. 20; DORS/87-640, art. 2.
+**B.06.061** La laque de tout colorant synthétique soluble dans l’eau qui est visé à l’article 2 de l’[Autorisation de mise en marché d’additifs alimentaires comme colorants](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/204.md) doit être le sel de calcium ou d’aluminium du colorant en cause, absorbé sur alumine.
+> DORS/82-1071, art. 3; DORS/84-300, art. 20; DORS/87-640, art. 2; DORS/2016-305, art. 56.
 
 
 
@@ -8882,8 +10011,8 @@ doit être indiqué sur l’espace principal suivi de l’expression « matièr
 	- **d)** la crème;
 	- **e)** la crème sure.
 
-- **(2)** En plus de la mention exigée au paragraphe (1), il peut être indiqué sur l’étiquette d’un aliment mentionné à ce paragraphe sa teneur en matières grasses exprimée en grammes par portion déterminée.
-> DORS/79-23, art. 10; DORS/88-559, art. 16; DORS/2010-94, art. 3(F).
+- **(2)** En plus de la mention exigée au paragraphe (1), il peut être indiqué sur l’étiquette d’un aliment mentionné à ce paragraphe sa teneur en matières grasses exprimée en grammes par portion indiquée.
+> DORS/79-23, art. 10; DORS/88-559, art. 16; DORS/2010-94, art. 3(F); DORS/2016-305, art. 75(F).
 
 
 
@@ -8969,8 +10098,8 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 
 - **(2)** Sous réserve du paragraphe (3), est interdite sur l’étiquette d’un aliment visé au paragraphe (1) toute mention expresse ou implicite de la teneur en matière grasse de lait ou de la teneur en humidité qui n’est pas conforme au paragraphe (1).
 
-- **(3)** En plus des mentions exigées au paragraphe (1), il peut être indiqué sur l’étiquette d’un aliment mentionné à ce paragraphe sa teneur en matières grasses exprimée en grammes par portion déterminée.
-> DORS/79-752, art. 2; DORS/88-559, art. 17; DORS/94-689, art. 2(A); DORS/2010-94, art. 8(A).
+- **(3)** En plus des mentions exigées au paragraphe (1), il peut être indiqué sur l’étiquette d’un aliment mentionné à ce paragraphe sa teneur en matières grasses exprimée en grammes par portion indiquée.
+> DORS/79-752, art. 2; DORS/88-559, art. 17; DORS/94-689, art. 2(A); DORS/2010-94, art. 8(A); DORS/2016-305, art. 75(F).
 
 
 
@@ -10253,8 +11382,8 @@ déterminés selon la méthode officielle MFO-2, Examen microbiologique de la cr
 	- **c)** le fromage cottage en crème,
 doit être indiqué sur l’espace principal et suivi de l’expression « matière grasse du lait » ou de l’abréviation « M.G. ».
 
-- **(2)** En plus de la mention exigée au paragraphe (1), il peut être indiqué sur l’étiquette d’un aliment mentionné à ce paragraphe sa teneur en matières grasses exprimée en grammes par portion déterminée.
-> DORS/88-559, art. 18.
+- **(2)** En plus de la mention exigée au paragraphe (1), il peut être indiqué sur l’étiquette d’un aliment mentionné à ce paragraphe sa teneur en matières grasses exprimée en grammes par portion indiquée.
+> DORS/88-559, art. 18; DORS/2016-305, art. 75(F).
 
 
 
@@ -10284,8 +11413,8 @@ doit être indiqué sur l’espace principal et suivi de l’expression « mati
 
 - **(1)** Le pourcentage de la matière grasse du lait contenue dans la crème en conserve doit être indiqué sur l’espace principal de l’étiquette et suivi de l’expression « matière grasse du lait » ou de l’abréviation « M.G. ».
 
-- **(2)** En plus de la mention exigée au paragraphe (1), il peut être indiqué sur l’étiquette de la crème en conserve sa teneur en matières grasses exprimée en grammes par portion déterminée.
-> DORS/88-559, art. 19.
+- **(2)** En plus de la mention exigée au paragraphe (1), il peut être indiqué sur l’étiquette de la crème en conserve sa teneur en matières grasses exprimée en grammes par portion indiquée.
+> DORS/88-559, art. 19; DORS/2016-305, art. 75(F).
 
 
 
@@ -12144,9 +13273,9 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 - **g)** dans le cas de jambons, d’épaules, de dos et de poitrines de porc fumés : de l’arôme artificiel d’érable;
 - **gg)** dans le cas des poitrines de porc de salaison : un arôme d’orange conforme à la norme prescrite à l’article B.10.005;
 - **h)** dans le cas des coupes de porc, de boeuf ou d’agneau de salaison préparées à l’aide de marinade, du phosphate disodique, du phosphate monosodique, de l’hexamétaphosphate de sodium, du tripolyphosphate de sodium, du pyrophosphate tétrasodique et du phyrophosphate acide de sodium, en telle quantité, calculée en phosphate disodique, que le produit fini renferme au plus 0,5 pour cent de phosphate ajouté;
-- **i)** dans le cas du tocino, du rocou en telle quantité que le produit fini renferme au plus 0,1 pour cent de rocou si la présence de rocou est indiquée dans la liste des ingrédients sur l’étiquette par « rocou »;
+- **i)** dans le cas du tocino, du rocou en telle quantité que le produit fini renferme au plus 0,1 % de rocou;
 - **j)** dans le cas de jambons cuits tranchés emballés sous vide : du *Carnobacterium maltaromaticum* CB1.
-> DORS/79-251, art. 6; DORS/80-13, art. 4; DORS/82-596, art. 2; DORS/84-300, art. 45(A); DORS/88-336, art. 2 et 3; DORS/92-725, art. 3; DORS/97-151, art. 24; DORS/2010-264, art. 2; DORS/2011-280, art. 2.
+> DORS/79-251, art. 6; DORS/80-13, art. 4; DORS/82-596, art. 2; DORS/84-300, art. 45(A); DORS/88-336, art. 2 et 3; DORS/92-725, art. 3; DORS/97-151, art. 24; DORS/2010-264, art. 2; DORS/2011-280, art. 2; DORS/2016-305, art. 57.
 
 
 
@@ -12168,23 +13297,23 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 	- **(x)** du liant à viande,
 	- **(xi)** du plasma sanguin de boeuf et de porc,
 	- **(xi.1)** un agent de conservation de la catégorie II,
-	- **(xii)** dans le cas de la viande hachée, en conserve : de l’arôme de fumée ou de l’arôme artificiel de fumée,
+	- **(xii)** dans le cas de la viande hachée, en conserve : de l’arôme de fumée ou de l’arôme artificiel de fumée,
 	- **(xiii)** si elle est cuite,
 		- **(A)** de la glucono-delta-lactone,
 		- **(B)** des tissus gras de boeuf ou de porc partiellement dégraissés, et
 		- **(C)** un produit de lait écrémé desséché obtenu du lait écrémé par la réduction de sa teneur en calcium et une augmentation correspondante de sa teneur en sodium, dans une proportion ne dépassant pas trois pour cent du produit fini,
-	- **(xiv)** dans le cas de la saucisse fraîche, crue : de l’arôme artificiel d’érable, et de la poudre de pomme comme aromatisant,
+	- **(xiv)** dans le cas de la saucisse fraîche, crue : de l’arôme artificiel d’érable, et de la poudre de pomme comme aromatisant,
 	- **(xv)** dans le cas de la saucisse sèche ou de la chair à saucisse sèche, de la glucono-delta-lactone,
-	- **(xvi)** dans le cas du longaniza :
-		- **(A)** du rocou en une quantité telle que le produit fini renferme au plus 1 000 parties par million de rocou, si la présence du rocou est indiquée par « rocou » dans la liste des ingrédients sur l’étiquette,
-		- **(B)** du rouge allura en une quantité telle que le produit fini renferme au plus 80 parties par million de rouge allura, si la présence du rouge allura est indiquée par « rouge allura » dans la liste des ingrédients sur l’étiquette,
-		- **(C)** du jaune soleil FCF en une quantité telle que le produit fini renferme au plus 20 parties par million de jaune soleil FCF, si la présence du jaune soleil FCF est indiquée par « jaune soleil FCF » dans la liste des ingrédients sur l’étiquette,
+	- **(xvi)** dans le cas du longaniza :
+		- **(A)** du rocou en une quantité telle que le produit fini renferme au plus 0,1 % de rocou,
+		- **(B)** du rouge allura en une quantité telle que le produit fini renferme au plus 80 parties par million de rouge allura,
+		- **(C)** du jaune soleil FCF en une quantité telle que le produit fini renferme au plus 20 parties par million de jaune soleil FCF,
 	- **(xvii)** dans le cas de la saucisse fumée emballée sous vide : du *Carnobacterium maltaromaticum* CB1,
 	- **(xviii)** dans le cas de la saucisse avec enrobage comestible, du chlorure de calcium ou du lactate de calcium;
-- **e)** doit contenir, dans le cas d’un produit vendu comme saucisse fraîche, au plus 40 pour cent de matières grasses, déterminé selon la méthode officielle FO-33, Détermination de matières grasses dans des produits de viande et des simili-produits de viande, 15 octobre 1981;
+- **e)** doit contenir, dans le cas d’un produit vendu comme saucisse fraîche, au plus 40 pour cent de matières grasses, déterminé selon la méthode officielle FO-33, Détermination de matières grasses dans des produits de viande et des simili-produits de viande, 15 octobre 1981;
 - **f)** doit avoir, si elle est cuite, une teneur totale en protéines d’au moins 11 pour cent;
 - **g)** doit avoir, dans le cas de la saucisse fraîche crue et de la chair ou viande à saucisse fraîche crue, une teneur totale en protéines d’au moins neuf pour cent.
-> DORS/80-13, art. 5; DORS/82-768, art. 42; DORS/88-336, art. 3; DORS/92-725, art. 4; DORS/97-151, art. 25; DORS/97-516, art. 3; DORS/2010-264, art. 3; DORS/2011-280, art. 3; DORS/2012-111, art. 1.
+> DORS/80-13, art. 5; DORS/82-768, art. 42; DORS/88-336, art. 3; DORS/92-725, art. 4; DORS/97-151, art. 25; DORS/97-516, art. 3; DORS/2010-264, art. 3; DORS/2011-280, art. 3; DORS/2012-111, art. 1; DORS/2016-305, art. 58.
 
 
 
@@ -22489,18 +23618,23 @@ ne soit un succédané complet du régime total en ce qu’il satisfait aux beso
 
 
 **B.24.202** L’étiquette d’un substitut de repas ou d’un supplément nutritif doit porter :
-- **a)** les renseignements suivants, par portion déterminée et par quantité spécifiée de l’aliment lorsque celui-ci est préparé selon le mode d’emploi :
+- **a)** les renseignements suivants, par portion indiquée et par quantité spécifiée de l’aliment lorsque celui-ci est préparé selon le mode d’emploi :
 	- **(i)** la valeur énergétique de l’aliment, exprimée en Calories (Calories ou Cal) et en kilojoules (kilojoules ou kJ),
 	- **(ii)** sa teneur en protéines, en matières grasses, en acide linoléique, en acide linolénique n-3, en acides gras saturés et en glucides, exprimée en grammes,
-	- **(iii)** sa teneur en vitamine A, en vitamine D, en vitamine E, en vitamine C, en thiamine ou vitamine B<sub>1</sub>, en riboflavine ou vitamine B<sub>2</sub>, en niacine, en vitamine B<sub>6</sub>, en vitamine B<sub>12</sub>, en folacine et en acide pantothénique ou pantothénate, exprimée, dans le cas du substitut de repas, en pourcentage de l’apport quotidien recommandé qui est indiqué à la colonne II du tableau du titre 1 de la partie D et, dans le cas du supplément nutritif, en équivalents de rétinol (ER) pour la vitamine A, en équivalents de niacine (EN) pour la niacine et en milligrammes pour la vitamine D, la vitamine E, la vitamine C, la thiamine ou vitamine B<sub>1</sub>, la riboflavine ou vitamine B<sub>2</sub>, la vitamine B<sub>6</sub>, la vitamine B<sub>12</sub>, la folacine et l’acide pantothénique ou pantothénate,
-	- **(iv)** sa teneur en calcium, en phosphore, en fer, en iode, en magnésium et en zinc, exprimée, dans le cas du substitut de repas, en pourcentage de l’apport quotidien recommandé qui est indiqué à la colonne II du tableau du titre 2 de la partie D et, dans le cas du supplément nutritif, en milligrammes,
-	- **(v)** sa teneur en biotine, en cuivre, en potassium, en sodium, en manganèse, en sélénium, en chrome et en molybdène, exprimée en milligrammes;
+	- **(iii)** sa teneur en vitamine A, en vitamine D, en vitamine E, en vitamine C, en thiamine ou vitamine B<sub>1</sub>, en riboflavine ou vitamine B<sub>2</sub>, en niacine, en vitamine B<sub>6</sub>, en vitamine B<sub>12</sub>, en folate et en acide pantothénique ou pantothénate, exprimée de la façon suivante :
+		- **(A)** dans le cas du substitut de repas, en pourcentage de la valeur quotidienne qui est indiquée à la colonne 4 de la partie 2 du Tableau des valeurs quotidiennes pour ces vitamines,
+		- **(B)** dans le cas du supplément nutritif, en l’unité applicable indiquée au paragraphe D.01.003(1),
+	- **(iv)** sa teneur en calcium, en phosphore, en fer, en iode, en magnésium et en zinc, exprimée de la façon suivante :
+		- **(A)** dans le cas du substitut de repas, en pourcentage de la valeur quotidienne qui est indiquée à la colonne 4 de la partie 2 du Tableau des valeurs quotidiennes,
+		- **(B)** dans le cas du supplément nutritif, en milligrammes pour le calcium, le phosphore, le fer, le magnésium et le zinc et en microgrammes pour l’iode,
+	- **(v)** sa teneur en cuivre, en potassium, en sodium et en manganèse exprimée en milligrammes,
+	- **(vi)** sa teneur en biotine, en sélénium, en chrome et en molybdène exprimée en microgrammes;
 - **b)** dans le cas du substitut de repas ou du supplément nutritif auquel il faut ajouter du lait, du lait partiellement écrémé ou du lait écrémé, une mention indiquant que la teneur nutritive de l’aliment a été établie compte tenu du lait, du lait partiellement écrémé ou du lait écrémé qui sera ajouté selon le mode d’emploi;
 - **c)** dans le cas du substitut de repas vendu ou annoncé comme étant le substitut de tous les repas de la journée dans un régime amaigrissant, le mode d’emploi qui assurera au consommateur un apport énergétique quotidien d’au moins 900 Kcal ou 3 780 kJ;
 - **d)** la date limite d’utilisation du substitut de repas ou du supplément nutritif;
 - **e)** dans le cas du substitut de repas pour régimes amaigrissants, la mention « UTILE POUR PERDRE DU POIDS SEULEMENT DANS LE CADRE D’UN RÉGIME À TENEUR RÉDUITE EN ÉNERGIE / *USEFUL IN WEIGHT REDUCTION ONLY AS PART OF AN ENERGY-REDUCED DIET* », inscrite bien en évidence dans l’espace principal de l’étiquette;
 - **f)** dans le cas du substitut de repas pour régimes amaigrissants qui n’est pas présenté comme étant le substitut de tous les repas de la journée, les renseignements requis à l’article B.24.204.
-> DORS/78-698, art. 9; DORS/88-559, art. 28; DORS/95-474, art. 5.
+> DORS/78-698, art. 9; DORS/88-559, art. 28; DORS/95-474, art. 5; DORS/2016-305, art. 59 et 75(F).
 
 
 
@@ -23164,19 +24298,19 @@ si seulement des acides aminés de forme L ont été ajoutés.
 
 
 
-**B.25.059** Est interdite, sur l’étiquette ou dans l’annonce d’un succédané de lait humain ou d’un aliment présenté comme contenant un succédané de lait humain, toute mention ou allégation relative à son contenu portant :
-- **a)** soit sur le pourcentage de la valeur quotidienne :
+**B.25.059** Est interdite, sur l’étiquette ou dans l’annonce d’un succédané de lait humain ou d’un aliment présenté comme contenant un succédané de lait humain, toute mention ou allégation relative à son contenu portant :
+- **a)** soit sur le pourcentage de la valeur quotidienne :
 	- **(i)** de lipides,
 	- **(ii)** d’acides gras saturés et d’acides gras *trans*,
 	- **(iii)** de sodium,
 	- **(iv)** de potassium,
-	- **(v)** de glucides,
+	- **(v)** de sucres,
 	- **(vi)** de fibres,
 	- **(vii)** de cholestérol;
-- **b)** soit sur le nombre de Calories provenant :
+- **b)** soit sur le nombre de Calories provenant :
 	- **(i)** des lipides,
 	- **(ii)** des acides gras saturés et des acides gras *trans*.
-> DORS/2003-11, art. 26.
+> DORS/2003-11, art. 26; DORS/2016-305, art. 60.
 
 
 
@@ -31824,42 +32958,59 @@ dans chaque forme posologique individuelle, s’il porte une étiquette indiquan
 
 - **(1)** Dans la présente partie,
 
-***apport nutritionnel recommandé pondéré*** Quantité d’une vitamine ou d’un minéral nutritif indiquée au tableau II du titre 1 et au tableau II du titre 2. (*weighted recommended nutrient intake*)
+***apport nutritionnel recommandé pondéré*** Quantité d’une vitamine ou d’un minéral nutritif indiquée au tableau II du titre 1 et au tableau II du titre 2; (*weighted recommended nutrient intake*)
 
-***apport quotidien recommandé*** Quantité d’une vitamine ou d’un minéral nutritif indiquée :
-- **a)** à la colonne II du tableau I du titre 1 et à la colonne II du tableau I du titre 2, dans le cas des aliments destinés aux personnes âgées d’au moins deux ans;
-- **b)** à la colonne III du tableau I du titre 1 et à la colonne III du tableau I du titre 2, dans le cas des aliments destinés aux nourrissons et aux enfants âgés de moins de deux ans. (*recommended daily intake*).
+***apport quotidien recommandé***[Abrogée, DORS/2016-305, art. 61]
 
-***faire de la publicité*** signifie faire de la publicité auprès du grand public; (*advertise*)
+***faire de la publicité*** signifie faire de la publicité auprès du grand public; (*advertise*)
 
-***marque nominative*** Dans le cas d’une drogue, le nom en français ou en anglais, avec ou sans le nom d’un fabricant, d’une personne morale, d’une société de personnes ou d’un particulier :
+***marque nominative*** Dans le cas d’une drogue, le nom en français ou en anglais, avec ou sans le nom d’un fabricant, d’une personne morale, d’une société de personnes ou d’un particulier :
 - **a)** qui lui a été attribué par le fabricant;
 - **b)** sous lequel elle est vendue ou fait l’objet de publicité;
-- **c)** qui sert à l’identifier. (*brand name*)
+- **c)** qui sert à l’identifier; (*brand name*)
 
-***nom usuel*** Dans le cas d’un sel ou d’un dérivé d’une vitamine, le nom en français ou en anglais sous lequel il est :
+***nom usuel*** Dans le cas d’un sel ou d’un dérivé d’une vitamine, le nom en français ou en anglais sous lequel il est :
 - **a)** généralement connu;
-- **b)** désigné dans des revues scientifiques ou techniques. (*common name*)
+- **b)** désigné dans des revues scientifiques ou techniques; (*common name*)
 
-***produit préemballé*** désigne un aliment contenu dans un emballage qui est celui dans lequel l’aliment est normalement vendu, utilisé ou acheté; (*prepackaged product*)
+***produit préemballé*** désigne un aliment contenu dans un emballage qui est celui dans lequel l’aliment est normalement vendu, utilisé ou acheté; (*prepackaged product*)
 
-***ration quotidienne normale***, lorsqu’il s’agit d’une substance alimentaire dont le nom figure à l’un des articles de l’annexe K à la colonne I, signifie la quantité de cette substance alimentaire précisée à la colonne II en regard de cet article; (*reasonable daily intake*)
+***ration quotidienne normale***, lorsqu’il s’agit d’une substance alimentaire dont le nom figure à l’un des articles de l’annexe K à la colonne I, signifie la quantité de cette substance alimentaire précisée à la colonne II en regard de cet article; (*reasonable daily intake*)
 
-***témoignage***, lorsqu’il s’agit d’un aliment ou d’une drogue présentée comme contenant une vitamine, un minéral nutritif ou un minéral, signifie n’importe quelle présentation orale, écrite ou en images, dramatisée ou non, quant à l’effet que produit, a produit ou peut produire l’addition, au régime alimentaire d’une personne, de cette vitamine, de ce minéral nutritif ou de ce minéral, selon le cas. (*testimonial*)
+***Tableau des quantités de référence*** S’entend au sens du paragraphe B.01.001(1); (*Table of Reference Amounts*)
 
-- **(2)** Pour l’application de la présente partie, toute portion déterminée d’un aliment est :
-	- **a)** fondée sur l’aliment tel qu’il est vendu;
-	- **b)** exprimée, selon le cas :
-		- **(i)** en grammes, dans l’un ou l’autre des cas suivants :
-			- **(A)** la quantité nette de l’aliment est mentionnée en poids ou en unités sur l’étiquette,
-			- **(B)** l’aliment figure à la colonne 1 des articles 78, 149 ou 150 de l’annexe M,
-		- **(ii)** en millilitres, dans le cas où la quantité nette de l’aliment, autre qu’un aliment visé à la division (i)(B), est mentionnée en volume sur l’étiquette.
+***Tableau des valeurs quotidiennes*** S’entend au sens du paragraphe B.01.001(1); (*Table of Daily Values*)
 
-- **(3)** La quantité nette de l’aliment dans l’emballage est une portion déterminée dans les cas suivants :
-	- **a)** la quantité de l’aliment peut être raisonnablement consommée par une personne en une seule fois;
-	- **b)** la quantité de référence, au sens de l’article B.01.001, de l’aliment est inférieure à 100 g ou 100 mL et l’emballage contient moins de 200 % de cette quantité;
-	- **c)** la quantité de référence, au sens de l’article B.01.001, de l’aliment est d’au moins 100 g ou 100 mL et l’emballage contient au plus 150 % de cette quantité.
-> DORS/88-559, art. 31; DORS/93-202, art. 31; DORS/96-259, art. 3; DORS/2003-11, art. 27.
+***témoignage***, lorsqu’il s’agit d’un aliment ou d’une drogue présentée comme contenant une vitamine, un minéral nutritif ou un minéral, signifie n’importe quelle présentation orale, écrite ou en images, dramatisée ou non, quant à l’effet que produit, a produit ou peut produire l’addition, au régime alimentaire d’une personne, de cette vitamine, de ce minéral nutritif ou de ce minéral, selon le cas. (*testimonial*)
+
+- **(2)** Pour l’application de la présente partie, la portion indiquée d’un aliment est :
+	- **a)** établie en fonction de l’aliment tel qu’il est vendu;
+	- **b)** dans l’un ou l’autre des cas ci-après, la quantité nette de l’aliment dans l’emballage lorsque :
+		- **(i)** cette quantité peut être raisonnablement consommée par une personne en une seule fois,
+		- **(ii)** l’emballage contient moins de 200 % de la quantité de référence de l’aliment;
+	- **c)** dans les autres cas, la quantité établie selon les critères énoncés à la colonne 3A du Tableau des quantités de référence pour cet aliment.
+
+- **(3)** La portion indiquée d’un aliment est exprimée de la façon suivante :
+	- **a)** dans le cas d’un produit préemballé à portion individuelle auquel l’alinéa (2)b) s’applique, par emballage et selon les unités suivantes :
+		- **(i)** en grammes, lorsque la quantité nette de l’aliment est mentionnée en poids ou en nombre sur l’étiquette,
+		- **(ii)** en millilitres, lorsque la quantité nette de l’aliment est mentionnée en volume sur l’étiquette;
+	- **b)** dans le cas d’un produit préemballé à portions multiples auquel l’alinéa (2)c) s’applique, selon les unités ci-après indiquées à la colonne 3B du Tableau des quantités de référence et de la manière dont elles y sont présentées :
+		- **(i)** la mesure domestique applicable au produit,
+		- **(ii)** la mesure métrique applicable au produit.
+> DORS/88-559, art. 31; DORS/93-202, art. 31; DORS/96-259, art. 3; DORS/2003-11, art. 27; DORS/2016-305, art. 61.
+
+
+
+
+**D.01.001.1** 
+
+- **(1)** La valeur quotidienne d’une vitamine ou d’un minéral nutritif figurant à la colonne 1 de la partie 2 du Tableau des valeurs quotidiennes est, à l’égard d’un aliment, la quantité de vitamine ou de minéral nutritif figurant :
+	- **a)** à la colonne 2, dans le cas d’un aliment destiné exclusivement aux bébés âgés d’au moins six mois mais de moins d’un an;
+	- **b)** à la colonne 3, dans le cas d’un aliment destiné aux bébés âgés d’au moins six mois mais de moins d’un an ou aux enfants âgés d’au moins un an mais de moins de quatre ans;
+	- **c)** à la colonne 4, dans les autres cas.
+
+- **(2)** Le paragraphe (1) ne s’applique pas si l’aliment est un succédané de lait humain destiné exclusivement aux bébés âgés de moins de six mois.
+> DORS/2016-305, art. 62.
 
 
 
@@ -31871,7 +33022,7 @@ dans chaque forme posologique individuelle, s’il porte une étiquette indiquan
 
 **D.01.002** 
 
-- **(1)** Dans le présent titre, ***vitamine*** désigne l’une des vitamines suivantes :
+- **(1)** Dans le présent titre, ***vitamine*** désigne l’une des vitamines suivantes :
 	- **a)** vitamine A;
 	- **b)** vitamine D;
 	- **c)** vitamine E;
@@ -31884,42 +33035,44 @@ dans chaque forme posologique individuelle, s’il porte une étiquette indiquan
 	- **j)** folacine ou folate;
 	- **k)** vitamine B<sub>12</sub>;
 	- **l)** acide pantothénique ou pantothénate;
-	- **m)** biotine. (*vitamin*)
+	- **m)** biotine;
+	- **n)** choline. (*vitamin*)
 
-- **(2)** Pour l’application du présent titre, il est interdit d’utiliser des désignations autres que celles prévues au paragraphe (1) pour la déclaration de la teneur en vitamines d’un aliment.
+- **(2)** Pour l’application du présent titre, il est interdit d’utiliser des désignations autres que celles prévues au paragraphe (1) pour la déclaration de la teneur en vitamines d’un aliment.
 
 - **(3)** Le présent titre ne s’applique qu’aux aliments présentés comme contenant une vitamine destinée à être utilisée dans l’alimentation humaine.
-> DORS/88-559, art. 32; DORS/2003-11, art. 28.
+> DORS/88-559, art. 32; DORS/2003-11, art. 28; DORS/2016-305, art. 63.
 
 
 
 
 **D.01.003** 
 
-- **(1)** Pour l’application du présent règlement, la teneur en vitamines d’un aliment, autre qu’une préparation pour régime liquide, un succédané du lait humain ou un aliment présenté comme contenant un succédané du lait humain, doit être déterminée :
-	- **a)** dans le cas de la vitamine A, en fonction de la teneur en rétinol et ses dérivés et en bêta-carotène, exprimée en équivalents de rétinol (ER) selon les équivalences suivantes :
-		- **(i)** 1 ER = 1 microgramme de rétinol,
-		- **(ii)** 1 ER = 6 microgrammes de bêta-carotène;
+- **(1)** Pour l’application du présent règlement, la teneur en vitamines d’un aliment, autre qu’une préparation pour régime liquide, un succédané du lait humain ou un aliment présenté comme contenant un succédané du lait humain, doit être déterminée :
+	- **a)** dans le cas de la vitamine A, en fonction de la teneur en rétinol et ses dérivés et en bêta-carotène, calculée en microgrammes d’équivalents d’activité de rétinol (ÉAR), et exprimée en microgrammes selon les équivalences suivantes :
+		- **(i)** 1 ÉAR = 1 microgramme de rétinol,
+		- **(ii)** 1 ÉAR = 12 microgrammes de bêta-carotène;
 	- **b)** dans le cas de la vitamine D, en fonction de la teneur en cholécalciférol et en ergocalciférol, exprimée en microgrammes;
-	- **c)** dans le cas de la vitamine E, en fonction de la teneur en d-alpha-tocophérol et en dl-alpha-tocophérol et leurs dérivés, exprimée en milligrammes selon les équivalences suivantes :
+	- **c)** dans le cas de la vitamine E, en fonction de la teneur en d-alpha-tocophérol et en dl-alpha-tocophérol et leurs dérivés, exprimée en milligrammes selon les équivalences suivantes :
 		- **(i)** 1 milligramme de d-alpha-tocophérol = 1 milligramme de vitamine E,
 		- **(ii)** 1 milligramme de dl-alpha-tocophérol = 0,74 milligramme de vitamine E;
 	- **d)** dans le cas de la vitamine K, en fonction de la teneur en phylloquinone et en ménaquinones, exprimée en microgrammes;
 	- **e)** dans le cas de la vitamine C, en fonction de la teneur en acide L-ascorbique et en acide L-déhydroascorbique et leurs dérivés, calculée en milligrammes d’équivalents d’acide L-ascorbique et exprimée en milligrammes;
 	- **f)** dans le cas de la thiamine ou vitamine B<sub>1</sub> et ses dérivés, en fonction de la teneur en thiamine, exprimée en milligrammes;
 	- **g)** dans le cas de la riboflavine ou vitamine B<sub>2</sub> et ses dérivés, en fonction de la teneur en riboflavine, exprimée en milligrammes;
-	- **h)** dans le cas de la niacine, en fonction de la teneur en niacine et ses dérivés, calculée en milligrammes d’acide nicotinique, plus la teneur en tryptophane, calculée en milligrammes et divisée par 60, le total étant exprimé en équivalents de niacine (EN);
+	- **h)** dans le cas de la niacine, en fonction de la teneur en niacine et ses dérivés, calculée en milligrammes d’acide nicotinique, plus la teneur en tryptophane, calculée en milligrammes et divisée par 60, le total en équivalent niacine (ÉN) étant exprimé en milligrammes;
 	- **i)** dans le cas de la vitamine B<sub>6</sub>, en fonction de la teneur en pyridoxine, en pyridoxal et en pyridoxamine et leurs dérivés, calculée en milligrammes d’équivalents de pyridoxine et exprimée en milligrammes;
-	- **j)** dans le cas de la folacine, en fonction de la teneur en acide folique (acide ptéroylmonoglutamique) et ses composés apparentés présentant l’activité biologique de l’acide folique, calculée en microgrammes d’équivalents d’acide folique et exprimée en microgrammes;
+	- **j)** dans le cas de la folacine ou folate, en fonction de la teneur en acide folique (acide ptéroylmonoglutamique) et ses composés apparentés présentant l’activité biologique de l’acide folique, calculée et exprimée en microgrammes d’équivalents de folate alimentaire (ÉFA);
 	- **k)** dans le cas de la vitamine B<sub>12</sub>, en fonction de la teneur en cyanocobalamine et ses composés apparentés présentant l’activité biologique de la cyanocobalamine, calculée en microgrammes d’équivalents de cyanocobalamine et exprimée en microgrammes;
 	- **l)** dans le cas de l’acide pantothénique ou pantothénate, en fonction de la teneur en acide d-pantothénique, exprimée en milligrammes;
-	- **m)** dans le cas de la biotine, en fonction de la teneur en biotine exprimée en milligrammes.
+	- **m)** dans le cas de la biotine, en fonction de la teneur en biotine, exprimée en microgrammes;
+	- **n)** dans le cas de la choline, en fonction de la teneur en choline, exprimée en milligrammes.
 
-- **(2)** Pour l’application de l’alinéa (1)h), la teneur en tryptophane peut être calculée comme étant équivalente à :
+- **(2)** Pour l’application de l’alinéa (1)h), la teneur en tryptophane peut être calculée comme étant équivalente à :
 	- **a)** 1,1 pour cent des protéines, lorsque celles-ci proviennent d’un aliment contenant des protéines de plus d’une source ou d’une source autre que le lait, la viande, la volaille, le poisson ou les oeufs;
 	- **b)** 1,3 pour cent des protéines, lorsque celles-ci proviennent du lait, de la viande, de la volaille ou du poisson;
 	- **c)** 1,5 pour cent des protéines, lorsque celles-ci proviennent des oeufs.
-> DORS/88-559, art. 32; DORS/90-830, art. 7.
+> DORS/88-559, art. 32; DORS/90-830, art. 7; DORS/2016-305, art. 64.
 
 
 
@@ -31927,12 +33080,14 @@ dans chaque forme posologique individuelle, s’il porte une étiquette indiquan
 **D.01.004** 
 
 - **(1)** Est interdite, sur l’étiquette ou dans l’annonce d’un aliment, autre qu’une préparation pour régime liquide, un succédané de lait humain ou un aliment présenté comme contenant un succédané de lait humain, toute mention ou allégation relative à sa teneur en une vitamine, à moins que les conditions suivantes soient réunies :
-	- **a)** il s’agit d’une vitamine figurant à la colonne I du tableau I du présent titre;
-	- **b)** le pourcentage de l’apport quotidien recommandé pour cette vitamine, par portion déterminée, est de 5 % ou plus;
-	- **c)** la teneur en cette vitamine est indiquée, sur l’étiquette ou dans l’annonce, en pourcentage de la valeur quotidienne, par portion déterminée.
+	- **a)** il s’agit d’une vitamine figurant à la colonne 1 de la partie 2 du Tableau des valeurs quotidiennes;
+	- **b)** le pourcentage de la valeur quotidienne pour cette vitamine, par portion indiquée, est de 5 % ou plus;
+	- **c)** la teneur en cette vitamine est indiquée, sur l’étiquette ou dans l’annonce, en pourcentage de la valeur quotidienne, par portion indiquée.
 
-- **(2)** Si la mention ou l’allégation visée au paragraphe (1) est faite dans l’annonce d’un aliment qui n’est pas un produit préemballé ou dans l’annonce d’un produit préemballé faite par une personne autre que le fabricant du produit ou une personne agissant sous ses ordres, le pourcentage de la valeur quotidienne, par portion déterminée, répond aux critères suivants :
-	- **a)** dans le cas d’une annonce autre qu’une annonce radiophonique ou télévisée :
+- **(1.1)** La condition visée à l’alinéa (1)c) n’a pas à être remplie si la mention ou l’allégation visée au paragraphe (1) est faite sur l’étiquette ou dans l’annonce d’un légume frais, d’un fruit frais ou d’un mélange quelconque de légumes frais ou de fruits frais sans ingrédient ajouté, d’une orange à laquelle un colorant alimentaire a été ajouté et d’un légume frais ou d’un fruit frais enrobé d’huile minérale, de paraffine, de vaseline ou de tout autre enduit protecteur.
+
+- **(2)** Si la mention ou l’allégation visée au paragraphe (1) est faite dans l’annonce d’un aliment qui n’est pas un produit préemballé ou dans l’annonce d’un produit préemballé faite par une personne autre que le fabricant du produit ou une personne agissant sous ses ordres, le pourcentage de la valeur quotidienne, par portion indiquée, répond aux critères suivants :
+	- **a)** dans le cas d’une annonce autre qu’une annonce radiophonique ou télévisée :
 		- **(i)** d’une part, il précède ou suit, sans qu’aucun texte imprimé ou écrit ni aucun signe graphique ne soit intercalé, la mention ou allégation ne paraissant qu’une seule fois ou, si la mention ou l’allégation est répétée, celle qui est la plus en évidence,
 		- **(ii)** d’autre part, il figure en caractères d’une taille au moins égale et aussi bien en vue que ceux de la mention ou de l’allégation ne paraissant qu’une seule fois ou, si la mention ou l’allégation est répétée, que ceux de celle qui est la plus en évidence;
 	- **b)** dans le cas d’une annonce radiophonique ou de la composante audio d’une annonce télévisée, il précède ou suit immédiatement la mention ou l’allégation;
@@ -31940,15 +33095,15 @@ dans chaque forme posologique individuelle, s’il porte une étiquette indiquan
 		- **(i)** en mode audio, si la mention ou l’allégation fait partie uniquement de la composante audio de l’annonce ou, à la fois, des composantes audio et visuelle de celle-ci,
 		- **(ii)** en mode audio ou en mode visuel, si la mention ou l’allégation fait partie uniquement de la composante visuelle de l’annonce.
 
-- **(3)** Le pourcentage de la valeur quotidienne, par portion déterminée, qui est communiqué en mode visuel dans une annonce télévisée conformément au sous-alinéa (2)c)(ii), à la fois :
+- **(3)** Le pourcentage de la valeur quotidienne, par portion indiquée, qui est communiqué en mode visuel dans une annonce télévisée conformément au sous-alinéa (2)c)(ii), à la fois :
 	- **a)** paraît en même temps et pendant au moins la même durée que la mention ou l’allégation;
 	- **b)** précède ou suit, sans qu’aucun texte imprimé ou écrit ni aucun signe graphique ne soit intercalé, la mention ou l’allégation ne paraissant qu’une seule fois ou, si la mention ou l’allégation est répétée, celle qui est la plus en évidence;
 	- **c)** figure en caractères d’une taille qui est au moins égale et aussi bien en vue que ceux de la mention ou de l’allégation ne paraissant qu’une seule fois ou, si la mention ou l’allégation est répétée, que ceux de celle qui est la plus en évidence.
 
 - **(4)** L’alinéa (1)b) ne s’applique pas à l’indication de la teneur en une vitamine dans tout tableau de la valeur nutritive.
 
-- **(5)** L’alinéa (1)c) ne s’applique pas à l’indication de la teneur en biotine exigée par le sous-alinéa B.24.202a)(v).
-> DORS/84-300, art. 57(A); DORS/88-559, art. 32; DORS/90-830, art. 8; DORS/96-259, art. 9; DORS/2003-11, art. 29.
+- **(5)** L’alinéa (1)c) ne s’applique pas à l’indication de la teneur en biotine exigée par le sous-alinéa B.24.202a)(vi).
+> DORS/84-300, art. 57(A); DORS/88-559, art. 32; DORS/90-830, art. 8; DORS/96-259, art. 9; DORS/2003-11, art. 29; DORS/2016-305, art. 65 et 75(F).
 
 
 
@@ -31968,11 +33123,11 @@ dans chaque forme posologique individuelle, s’il porte une étiquette indiquan
 **D.01.007** 
 
 - **(1)** Si un constituant d’un ingrédient d’un produit préemballé mentionné au tableau du paragraphe B.01.009(1) est une vitamine, est interdite, sur l’étiquette ou dans l’annonce de ce produit préemballé, toute mention ou allégation selon laquelle la vitamine est un constituant de cet ingrédient, à moins que les conditions suivantes soient réunies :
-	- **a)** malgré le paragraphe B.01.008(6), la vitamine est désignée par son nom usuel lequel figure juste après l’ingrédient de manière à indiquer que la vitamine est un constituant de cet ingrédient; cependant, dans le cas où, en application de l’alinéa B.01.010.1(8)a), une source d’allergène alimentaire ou de gluten doit figurer immédiatement à la suite de l’ingrédient, le nom usuel de la vitamine doit plutôt figurer immédiatement après cette source.
+	- **a)** malgré le paragraphe B.01.008.2(6), la vitamine est désignée par son nom usuel, lequel figure entre parenthèses immédiatement après l’ingrédient dont la vitamine est un constituant; cependant, dans le cas où, en application de l’alinéa B.01.010.1(8)a), une source d’allergène alimentaire ou de gluten doit figurer immédiatement après l’ingrédient, le nom usuel de la vitamine doit plutôt figurer immédiatement après cette source;
 	- **b)** tous les constituants de l’ingrédient sont indiqués.
 
-- **(2)** L’alinéa (1)b) ne s’applique pas à la farine utilisée comme ingrédient dans la fabrication de tout produit préemballé visé au paragraphe (1).
-> DORS/84-300, art. 59(A); DORS/88-559, art. 32; DORS/2003-11, art. 30; DORS/2011-28, art. 7.
+- **(2)** L’alinéa (1)b) ne s’applique pas à la farine utilisée comme ingrédient dans la fabrication de tout produit préemballé visé au paragraphe (1).
+> DORS/84-300, art. 59(A); DORS/88-559, art. 32; DORS/2003-11, art. 30; DORS/2011-28, art. 7; DORS/2016-305, art. 66.
 
 
 
@@ -32022,123 +33177,9 @@ dans chaque forme posologique individuelle, s’il porte une étiquette indiquan
 
 
 **D.01.013** [Abrogé, DORS/2003-11, art. 31]
-#### TABLEAU I
-<table>
-<h4>Apport quotidien recommandé</h4>
-<tr>
-<th>Article</th>
-<th>Colonne I</th>
-<th>Colonne II</th>
-<th>Colonne III</th>
-</tr>
-<tr>
-<th>Vitamine</th>
-<th>Unité<sup><a href='#noteD01013'>[*]</a></sup></th>
-<th>Apport pour personnes âgées d’au moins 2 ans</th>
-<th>Apport pour bébés et enfants de moins de 2 ans</th>
-</tr>
-<tr>
-<td>1</td>
-<td>Vitamine A</td>
-<td>(ER)</td>
-<td>1000</td>
-<td>400</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Vitamine D</td>
-<td>(µg)</td>
-<td>5</td>
-<td>10</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Vitamine E</td>
-<td>(mg)</td>
-<td>10</td>
-<td>3</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Vitamine C</td>
-<td>(mg)</td>
-<td>60</td>
-<td>20</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Thiamine ou vitamine B<sub>1</sub></td>
-<td>(mg)</td>
-<td>1,3</td>
-<td>0,45</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Riboflavine ou vitamine B<sub>2</sub></td>
-<td>(mg)</td>
-<td>1,6</td>
-<td>0,55</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Niacine</td>
-<td>(EN)</td>
-<td>23</td>
-<td>8</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Vitamine B<sub>6</sub></td>
-<td>(mg)</td>
-<td>1,8</td>
-<td>0,7</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Folacine ou folate</td>
-<td>(µg)</td>
-<td>220</td>
-<td>65</td>
-</tr>
-<tr>
-<td>10</td>
-<td>Vitamine B<sub>12</sub></td>
-<td>(µg)</td>
-<td>2</td>
-<td>0,3</td>
-</tr>
-<tr>
-<td>11</td>
-<td>Acide pantothénique ou pantothénate</td>
-<td>(mg)</td>
-<td>7</td>
-<td>2</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Vitamine K</td>
-<td>(µg)</td>
-<td>80</td>
-<td>30</td>
-</tr>
-<tr>
-<td>13</td>
-<td>Biotine</td>
-<td>(µg)</td>
-<td>30</td>
-<td>8</td>
-</tr>
-</table>
 
-
-<a name='noteD01013'><sup>*</sup></a>: ER = équivalent de rétinol 
-<br />
-mg = milligramme 
-<br />
-µg = microgramme 
-<br />
-EN = équivalent de niacine<br />
-> DORS/88-559, art. 33; DORS/96-259, art. 4; DORS/2003-11, art. 32 et 33..
+## TABLEAU I
+## [Abrogé, DORS/2016-305, art. 67)
 
 
 
@@ -32275,20 +33316,22 @@ EN = équivalent de niacine<br />
 **D.02.002** 
 
 - **(1)** Est interdite, sur l’étiquette ou dans l’annonce d’un aliment, autre que du sel de table ou d’usage domestique général contenant de l’iodure ajouté, de l’eau ou de la glace préemballées, une préparation pour régime liquide, un succédané de lait humain ou un aliment présenté comme contenant un succédané de lait humain, toute mention ou allégation relative à sa teneur en un minéral nutritif, à moins que les conditions suivantes soient réunies :
-	- **a)** il s’agit d’un minéral nutritif figurant à la colonne I du tableau I du présent titre;
-	- **b)** le pourcentage de l’apport quotidien recommandé pour ce minéral nutritif, par portion déterminée, est de 5 % ou plus;
-	- **c)** la teneur en ce minéral nutritif est indiquée, sur l’étiquette ou dans l’annonce, en pourcentage de la valeur quotidienne, par portion déterminée.
+	- **a)** il s’agit d’un minéral nutritif figurant à la colonne 1 de la partie 2 du Tableau des valeurs quotidiennes;
+	- **b)** le pourcentage de la valeur quotidienne pour ce minéral nutritif, par portion indiquée, est de 5 % ou plus;
+	- **c)** la teneur en ce minéral nutritif est indiquée, sur l’étiquette ou dans l’annonce, en pourcentage de la valeur quotidienne, par portion indiquée.
 
-- **(2)** Si la mention ou l’allégation visée au paragraphe (1) est faite dans l’annonce d’un aliment qui n’est pas un produit préemballé ou dans l’annonce d’un produit préemballé faite par une personne autre que le fabricant du produit ou une personne agissant sous ses ordres, le pourcentage de la valeur quotidienne, par portion déterminée, répond aux critères suivants :
-	- **a)** dans le cas d’une annonce autre qu’une annonce radiophonique ou télévisée :
+- **(1.1)** La condition visée à l’alinéa (1)c) n’a pas à être remplie si la mention ou l’allégation visée au paragraphe (1) est faite sur l’étiquette ou dans l’annonce d’un légume frais, d’un fruit frais ou d’un mélange quelconque de légumes frais ou de fruits frais sans ingrédient ajouté, d’une orange à laquelle un colorant alimentaire a été ajouté et d’un légume frais ou d’un fruit frais enrobé d’huile minérale, de paraffine, de vaseline ou de tout autre enduit protecteur.
+
+- **(2)** Si la mention ou l’allégation visée au paragraphe (1) est faite dans l’annonce d’un aliment qui n’est pas un produit préemballé ou dans l’annonce d’un produit préemballé faite par une personne autre que le fabricant du produit ou une personne agissant sous ses ordres, le pourcentage de la valeur quotidienne, par portion indiquée, répond aux critères suivants :
+	- **a)** dans le cas d’une annonce autre qu’une annonce radiophonique ou télévisée :
 		- **(i)** d’une part, il précède ou suit, sans qu’aucun texte imprimé ou écrit ni aucun signe graphique ne soit intercalé, la mention ou allégation ne paraissant qu’une seule fois ou, si la mention ou l’allégation est répétée, celle qui est la plus en évidence,
 		- **(ii)** d’autre part, il figure en caractères d’une taille au moins égale et aussi bien en vue que ceux de la mention ou de l’allégation ne paraissant qu’une seule fois ou, si la mention ou l’allégation est répétée, que ceux de celle qui est la plus en évidence;
 	- **b)** dans le cas d’une annonce radiophonique ou de la composante audio d’une annonce télévisée, il précède ou suit immédiatement la mention ou l’allégation;
-	- **c)** dans le cas d’une annonce télévisée, il est communiqué :
+	- **c)** dans le cas d’une annonce télévisée, il est communiqué :
 		- **(i)** en mode audio, si la mention ou l’allégation fait partie uniquement de la composante audio de l’annonce ou, à la fois, des composantes audio et visuelle de celle-ci,
 		- **(ii)** en mode audio ou en mode visuel, si la mention ou l’allégation fait partie uniquement de la composante visuelle de l’annonce.
 
-- **(3)** Le pourcentage de la valeur quotidienne, par portion déterminée, qui est communiqué en mode visuel dans une annonce télévisée conformément au sous-alinéa (2)c)(ii), à la fois :
+- **(3)** Le pourcentage de la valeur quotidienne, par portion indiquée, qui est communiqué en mode visuel dans une annonce télévisée conformément au sous-alinéa (2)c)(ii), à la fois :
 	- **a)** paraît en même temps et pendant au moins la même durée que la mention ou l’allégation;
 	- **b)** précède ou suit, sans qu’aucun texte imprimé ou écrit ni aucun signe graphique ne soit intercalé, la mention ou allégation ne paraissant qu’une seule fois ou, si la mention ou l’allégation est répétée, celle qui est la plus en évidence;
 	- **c)** figure en caractères d’une taille qui est au moins égale et aussi bien en vue que ceux de la mention ou de l’allégation ne paraissant qu’une seule fois ou, si la mention ou l’allégation est répétée, que ceux de celle qui est la plus en évidence.
@@ -32300,7 +33343,7 @@ EN = équivalent de niacine<br />
 - **(6)** L’alinéa (1)b) ne s’applique pas à l’indication de la teneur en un minéral nutritif dans tout tableau de la valeur nutritive.
 
 - **(7)** L’alinéa (1)c) ne s’applique pas à l’indication de la teneur en chrome, en cuivre, en manganèse, en molybdène et en sélénium exigée par le sous-alinéa B.24.202a)(v).
-> DORS/84-300, art. 60(A); DORS/88-559, art. 34; DORS/90-830, art. 10; DORS/96-259, art. 9; DORS/2003-11, art. 34.
+> DORS/84-300, art. 60(A); DORS/88-559, art. 34; DORS/90-830, art. 10; DORS/96-259, art. 9; DORS/2003-11, art. 34; DORS/2016-305, art. 68 et 75(F).
 
 
 
@@ -32320,11 +33363,11 @@ EN = équivalent de niacine<br />
 **D.02.005** 
 
 - **(1)** Si un constituant d’un ingrédient de tout produit préemballé mentionné au tableau du paragraphe B.01.009(1) est un minéral nutritif, est interdite, sur l’étiquette ou dans l’annonce de ce produit préemballé, toute mention ou allégation à l’égard du minéral nutritif comme constituant de cet ingrédient, à moins que les conditions suivantes soient réunies :
-	- **a)** malgré le paragraphe B.01.008(6), le minéral nutritif est désigné par son nom usuel lequel figure juste après l’ingrédient de manière à indiquer que le minéral nutritif est un constituant de cet ingrédient; cependant, dans le cas où, en application de l’alinéa B.01.010.1(8)a), une source d’allergène alimentaire ou de gluten doit figurer immédiatement à la suite de l’ingrédient, le nom usuel du minéral nutritif doit plutôt figurer immédiatement après cette source.
+	- **a)** malgré le paragraphe B.01.008.2(6), le minéral nutritif est désigné par son nom usuel lequel figure entre parenthèses immédiatement après l’ingrédient dont le minéral nutritif est un constituant; cependant, dans le cas où, en application de l’alinéa B.01.010.1(8)a), une source d’allergène alimentaire ou de gluten doit figurer immédiatement après l’ingrédient, le nom usuel du minéral nutritif doit plutôt figurer immédiatement après cette source;
 	- **b)** tous les constituants de l’ingrédient sont indiqués.
 
-- **(2)** L’alinéa (1)b) ne s’applique pas à la farine utilisée comme ingrédient dans la fabrication d’un produit préemballé visé au paragraphe (1).
-> DORS/88-559, art. 34; DORS/2003-11, art. 35; DORS/2011-28, art. 8.
+- **(2)** L’alinéa (1)b) ne s’applique pas à la farine utilisée comme ingrédient dans la fabrication d’un produit préemballé visé au paragraphe (1).
+> DORS/88-559, art. 34; DORS/2003-11, art. 35; DORS/2011-28, art. 8; DORS/2016-305, art. 69.
 
 
 
@@ -32368,118 +33411,15 @@ précisées dans le Food Chemicals Codex, troisième édition, 1981, publié par
 
 
 **D.02.011** Il est interdit à toute personne de vendre un aliment auquel a été ajouté du pyrophosphate de sodium et de fer en tant que source du minéral nutritif fer, à moins
-- **a)** que la biodisponibilité du fer dans l’aliment ne soit au moins égale à 50 pour cent de la biodisponibilité du sulfate ferreux, déterminée selon la méthode officielle FO-42, Détermination de la biodisponibilité du fer, 15 décembre 1982; et
-- **b)** que cette personne ne possède une preuve documentaire établissant que la biodisponibilité du fer dans l’aliment a été déterminée selon la méthode visée à l’alinéa a), et ne fournisse cette preuve au Directeur s’il en fait la demande.
+- **a)** que la biodisponibilité du fer dans l’aliment ne soit au moins égale à 50 pour cent de la biodisponibilité du sulfate ferreux, déterminée selon la méthode officielle FO-42, Détermination de la biodisponibilité du fer, 15 décembre 1982; et
+- **b)** que cette personne ne possède une preuve documentaire établissant que la biodisponibilité du fer dans l’aliment a été déterminée selon la méthode visée à l’alinéa a), et ne fournisse cette preuve au Directeur s’il en fait la demande.
 > DORS/84-303, art. 1..
 
 
 
-#### TABLEAU I
-<table>
-<h4>Apport quotidien recommandé</h4>
-<tr>
-<th>Article</th>
-<th>Colonne I</th>
-<th>Colonne II</th>
-<th>Colonne III</th>
-</tr>
-<tr>
-<th>Minéral nutritif</th>
-<th>Unité<sup><a href='#noteD02011'>[*]</a></sup></th>
-<th>Apport pour personnes âgées d’au moins 2 ans</th>
-<th>Apport pour bébés et enfants de moins de 2 ans</th>
-</tr>
-<tr>
-<td>1</td>
-<td>Calcium</td>
-<td>(mg)</td>
-<td>1 100</td>
-<td>500</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Phosphore</td>
-<td>(mg)</td>
-<td>1 100</td>
-<td>500</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Magnésium</td>
-<td>(mg)</td>
-<td>250</td>
-<td>55</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Fer</td>
-<td>(mg)</td>
-<td>14</td>
-<td>7</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Zinc</td>
-<td>(mg)</td>
-<td>9</td>
-<td>4</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Iode</td>
-<td>(µg)</td>
-<td>160</td>
-<td>55</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Sélénium</td>
-<td>(µg)</td>
-<td>50</td>
-<td>15</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Cuivre</td>
-<td>(mg)</td>
-<td>2</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Manganèse</td>
-<td>(mg)</td>
-<td>2</td>
-<td>1,2</td>
-</tr>
-<tr>
-<td>10</td>
-<td>Chrome</td>
-<td>(µg)</td>
-<td>120</td>
-<td>12</td>
-</tr>
-<tr>
-<td>11</td>
-<td>Molybdène</td>
-<td>(µg)</td>
-<td>75</td>
-<td>15</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Chlorure</td>
-<td>(mg)</td>
-<td>400</td>
-<td>1 000</td>
-</tr>
-</table>
 
-
-<a name='noteD02011'><sup>*</sup></a>: mg = milligramme 
-<br />
-µg = microgramme<br />
-> DORS/88-559, art. 34; DORS/96-259, art. 6; DORS/2003-11, art. 36..
+## TABLEAU I
+## [Abrogé, DORS/2016-305, art. 70]
 
 
 
@@ -35549,980 +36489,12 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 
 
 ### **ANNEXE L** 
-**(articles B.01.402, B.01.403, B.01.450 et B.01.454 à B.01.465)**
-## Modèles de tableau de la valeur nutritive
-CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR ERR., VOL. 137, N<sup>o</sup> 5
-
-> DORS/2003-11, art. 37; err., Vol. 137, n<sup>o</sup>o 5.
+[Abrogée, DORS/2016-305, art. 71]
 
 
 
 
 ### **ANNEXE M** 
-**(articles B.01.001, B.01.002A et D.01.001)**
-<table>
-<h4>Quantités de référence</h4>
-<tr>
-<th>Article</th>
-<th>Colonne 1</th>
-<th>Colonne 2</th>
-</tr>
-<tr>
-<th>Aliment</th>
-<th>Quantité de référence<sup><a href='#foottablefr1'>[1]</a></sup></th>
-</tr>
-<tr>
-<td></td>
-<td>**Produits de boulangerie**</td>
-<td></td>
-</tr>
-<tr>
-<td>1</td>
-<td>Pain, à l’exception des petits pains sucrés à cuisson rapide</td>
-<td>50 g</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Bagels, biscuits pour le thé, galettes écossaises, petits pains mollets, petits pains au lait, croissants, tortillas, bâtonnets de pain mollets, bretzels mollets et pain de maïs</td>
-<td>55 g</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Carrés au chocolat</td>
-<td>40 g</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Gâteau lourd : 10 g ou plus par cube de 2,5 cm, tel que gâteau au fromage, renversé aux ananas, gâteau contenant, à l’état fini, au moins 35 % en poids de fruits, de noix ou de légumes ou toute combinaison de ceux-ci</td>
-<td>125 g</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Gâteau mi-léger : 4 g ou plus par cube de 2,5 cm mais moins de 10 g par cube de 2,5 cm, tel que gâteau avec ou sans glaçage ou garniture, gâteau contenant, à l’état fini, moins de 35 % en poids de fruits, de noix ou de légumes ou toute combinaison de ceux-ci, léger avec glaçage, à la bostonnaise, petits gâteaux, éclairs et choux à la crème</td>
-<td>80 g</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Gâteau léger : moins de 4 g par cube de 2,5 cm tel que gâteau des anges, chiffon ou éponge sans glaçage ni garniture</td>
-<td>55 g</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Brioches, beignes, pâtisseries danoises, petits pains au lait sucrés, petits pains sucrés à cuisson rapide et muffins</td>
-<td>55 g</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Biscuits avec ou sans enrobage ou garniture et biscuits Graham</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Craquelins, bâtonnets de pain sec et biscottes Melba</td>
-<td>20 g</td>
-</tr>
-<tr>
-<td>10</td>
-<td>Pain sec, matzo et biscottes</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td>11</td>
-<td>Feuilletés avec ou sans garniture ou glaçage</td>
-<td>55 g</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Tartelettes à griller</td>
-<td>55 g</td>
-</tr>
-<tr>
-<td>13</td>
-<td>Cornets à crème glacée</td>
-<td>5 g</td>
-</tr>
-<tr>
-<td>14</td>
-<td>Croûtons</td>
-<td>7 g</td>
-</tr>
-<tr>
-<td>15</td>
-<td>Pain doré, crêpes et gaufres</td>
-<td>75 g</td>
-</tr>
-<tr>
-<td>16</td>
-<td>Tablettes et barres à base de céréales avec garniture ou enrobées en tout ou en partie</td>
-<td>40 g</td>
-</tr>
-<tr>
-<td>17</td>
-<td>Tablettes et barres à base de céréales sans garniture ni enrobage</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td>18</td>
-<td>Galettes de riz ou de maïs</td>
-<td>15 g</td>
-</tr>
-<tr>
-<td>19</td>
-<td>Tartes, tartelettes, pavés, chaussons et autres pâtisseries</td>
-<td>110 g</td>
-</tr>
-<tr>
-<td>20</td>
-<td>Croûte de tarte</td>
-<td>1/6 d’une croûte de 20 cm ou 1/8 d’une croûte de 23 cm</td>
-</tr>
-<tr>
-<td>21</td>
-<td>Croûte de pizza</td>
-<td>55 g</td>
-</tr>
-<tr>
-<td>22</td>
-<td>Coquilles à taco croustillantes</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td></td>
-<td>**Boissons**</td>
-<td></td>
-</tr>
-<tr>
-<td>23</td>
-<td>Boissons gazéifiées et non gazéifiées et panachés de vin</td>
-<td>355 mL</td>
-</tr>
-<tr>
-<td>24</td>
-<td>Boissons pour sportif et eau</td>
-<td>500 mL</td>
-</tr>
-<tr>
-<td>25</td>
-<td>Café : ordinaire, instantané et fin, notamment expresso, café au lait, aromatisé et sucré</td>
-<td>175 mL</td>
-</tr>
-<tr>
-<td>26</td>
-<td>Thé et tisane :</td>
-<td></td>
-</tr>
-<tr>
-<td>a) ordinaire et instantané (chaud)</td>
-<td>175 mL</td>
-</tr>
-<tr>
-<td>b) aromatisé et sucré, préparé à partir d’un mélange, tel que thé glacé</td>
-<td>250 mL</td>
-</tr>
-<tr>
-<td>c) aromatisé et sucré, prêt-à-boire, tel que thé glacé</td>
-<td>355 mL</td>
-</tr>
-<tr>
-<td>27</td>
-<td>Cacao et chocolat chaud</td>
-<td>175 mL</td>
-</tr>
-<tr>
-<td></td>
-<td>**Céréales et autres produits céréaliers**</td>
-<td></td>
-</tr>
-<tr>
-<td>28</td>
-<td>Céréales à déjeuner chaudes, telles que gruau d’avoine ou crème de blé</td>
-<td>40 g sèches</td>
-</tr>
-<tr>
-<td>250 mL une fois préparées</td>
-</tr>
-<tr>
-<td>29</td>
-<td>Céréales à déjeuner prêtes à consommer, soufflées et non enrobées (moins de 20 g par 250 mL)</td>
-<td>15 g</td>
-</tr>
-<tr>
-<td>30</td>
-<td>Céréales à déjeuner prêtes à consommer, soufflées et enrobées, en flocons, extrudées, sans fruits ni noix (20 g à 42 g par 250 mL) et céréales à teneur très élevée en fibres (avec 28 g ou plus de fibres par 100 g)</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td>31</td>
-<td>Céréales à déjeuner prêtes à consommer, avec fruits et noix, de type granola (43 g ou plus par 250 mL) et céréales de type biscuit</td>
-<td>55 g</td>
-</tr>
-<tr>
-<td>32</td>
-<td>Son et germe de blé</td>
-<td>15 g</td>
-</tr>
-<tr>
-<td>33</td>
-<td>Farines, y compris farine de maïs</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td>34</td>
-<td>Grains, tels que riz ou orge</td>
-<td>45 g secs</td>
-</tr>
-<tr>
-<td>140 g cuits</td>
-</tr>
-<tr>
-<td>35</td>
-<td>Pâtes alimentaires, sans sauce</td>
-<td>85 g sèches</td>
-</tr>
-<tr>
-<td>215 g cuites</td>
-</tr>
-<tr>
-<td>36</td>
-<td>Pâtes alimentaires, sèches et prêtes à consommer, telles que nouilles frites (chow mein) en conserve</td>
-<td>25 g</td>
-</tr>
-<tr>
-<td>37</td>
-<td>Fécules, telles que fécule de maïs, fécule de pomme de terre, tapioca ou amidon de blé</td>
-<td>10 g</td>
-</tr>
-<tr>
-<td>38</td>
-<td>Farce</td>
-<td>100 g</td>
-</tr>
-<tr>
-<td></td>
-<td>**Produits laitiers et succédanés**</td>
-<td></td>
-</tr>
-<tr>
-<td>39</td>
-<td>Fromage, y compris fromage à la crème et fromage à tartiner, sauf les variétés énumérées à un autre article</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td>40</td>
-<td>Fromage cottage</td>
-<td>125 g</td>
-</tr>
-<tr>
-<td>41</td>
-<td>Fromage utilisé comme ingrédient, tel que fromage blanc pressé ou ricotta</td>
-<td>55 g</td>
-</tr>
-<tr>
-<td>42</td>
-<td>Fromage à pâte dure râpé, tel que parmesan ou romano</td>
-<td>15 g</td>
-</tr>
-<tr>
-<td>43</td>
-<td>Quark, fromage frais et desserts laitiers frais</td>
-<td>100 g</td>
-</tr>
-<tr>
-<td>44</td>
-<td>Crème et succédané de crème sauf ceux énumérés à un autre article</td>
-<td>15 mL</td>
-</tr>
-<tr>
-<td>45</td>
-<td>Crème et succédané de crème, en poudre</td>
-<td>2 g</td>
-</tr>
-<tr>
-<td>46</td>
-<td>Crème et succédané de crème, fouettés ou en aérosol</td>
-<td>15 g</td>
-</tr>
-<tr>
-<td>47</td>
-<td>Lait de poule</td>
-<td>125 mL</td>
-</tr>
-<tr>
-<td>48</td>
-<td>Lait, évaporé ou condensé</td>
-<td>15 mL</td>
-</tr>
-<tr>
-<td>49</td>
-<td>Boissons végétales, lait, lait de beurre et boissons lactées, telles que lait chocolaté</td>
-<td>250 mL</td>
-</tr>
-<tr>
-<td>50</td>
-<td>Laits frappés et succédanés de lait frappé, tels que préparation pour lait frappé</td>
-<td>250 mL</td>
-</tr>
-<tr>
-<td>51</td>
-<td>Crème sure</td>
-<td>30 mL</td>
-</tr>
-<tr>
-<td>52</td>
-<td>Yogourt</td>
-<td>175 g</td>
-</tr>
-<tr>
-<td></td>
-<td>**Desserts**</td>
-<td></td>
-</tr>
-<tr>
-<td>53</td>
-<td>Crème glacée, lait glacé, yogourt glacé et sorbet</td>
-<td>125 mL</td>
-</tr>
-<tr>
-<td>54</td>
-<td>Desserts laitiers glacés, tels que gâteaux, barres, sandwiches ou cornets</td>
-<td>125 mL</td>
-</tr>
-<tr>
-<td>55</td>
-<td>Autres desserts glacés, tels que glaces et sucettes glacées aromatisées et sucrées, jus de fruits congelés en barres ou en coupes</td>
-<td>75 mL</td>
-</tr>
-<tr>
-<td>56</td>
-<td>Coupe glacée</td>
-<td>250 mL</td>
-</tr>
-<tr>
-<td>57</td>
-<td>Crème pâtissière, gélatine et crème-dessert (pouding)</td>
-<td>125 mL</td>
-</tr>
-<tr>
-<td></td>
-<td>**Nappages et garnitures à desserts**</td>
-<td></td>
-</tr>
-<tr>
-<td>58</td>
-<td>Nappages à desserts, telles que beurre d’érable et crème de guimauve</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td>59</td>
-<td>Glaces et glaçages à gâteau</td>
-<td>35 g</td>
-</tr>
-<tr>
-<td>60</td>
-<td>Garnitures pour tartes</td>
-<td>75 mL</td>
-</tr>
-<tr>
-<td></td>
-<td>**Oeufs et succédanés d’oeufs**</td>
-<td></td>
-</tr>
-<tr>
-<td>61</td>
-<td>Préparations aux oeufs, telles que foo young aux oeufs, oeufs brouillés ou omelette</td>
-<td>110 g</td>
-</tr>
-<tr>
-<td>62</td>
-<td>Oeufs</td>
-<td>50 g</td>
-</tr>
-<tr>
-<td>63</td>
-<td>Succédanés d’oeufs</td>
-<td>50 g</td>
-</tr>
-<tr>
-<td></td>
-<td>**Matières grasses**</td>
-<td></td>
-</tr>
-<tr>
-<td>64</td>
-<td>Beurre, margarine, graisse végétale et saindoux</td>
-<td>10 g</td>
-</tr>
-<tr>
-<td>65</td>
-<td>Huile végétale</td>
-<td>10 mL</td>
-</tr>
-<tr>
-<td>66</td>
-<td>Succédané de beurre en poudre</td>
-<td>2 g</td>
-</tr>
-<tr>
-<td>67</td>
-<td>Vinaigrettes</td>
-<td>30 mL</td>
-</tr>
-<tr>
-<td>68</td>
-<td>Mayonnaise, sauce à salade de type mayonnaise et tartinade à sandwich</td>
-<td>15 mL</td>
-</tr>
-<tr>
-<td>69</td>
-<td>Huile en pulvérisateur</td>
-<td>0,5 g</td>
-</tr>
-<tr>
-<td></td>
-<td>**Animaux marins et animaux d’eau douce**</td>
-<td></td>
-</tr>
-<tr>
-<td>70</td>
-<td>Anchois en conserve, pâte d’anchois et caviar</td>
-<td>15 g<sup><a href='#foottablefr2'>[2]</a></sup></td>
-</tr>
-<tr>
-<td>71</td>
-<td>Animaux marins et animaux d’eau douce en sauce, tels que poisson en sauce à la crème ou crevettes dans une sauce au homard</td>
-<td>140 g cuits</td>
-</tr>
-<tr>
-<td>72</td>
-<td>Animaux marins et animaux d’eau douce sans sauce, tels que poisson ou fruits de mer nature ou frits et croquettes de poisson ou de fruits de mer, enrobés ou non de chapelure ou de pâte à frire</td>
-<td>125 g crus</td>
-</tr>
-<tr>
-<td>100 g cuits</td>
-</tr>
-<tr>
-<td>73</td>
-<td>Animaux marins et animaux d’eau douce en conserve</td>
-<td>55 g<sup><a href='#foottablefr2'>[2]</a></sup></td>
-</tr>
-<tr>
-<td>74</td>
-<td>Animaux marins et animaux d’eau douce fumés, marinés ou à tartiner</td>
-<td>55 g<sup><a href='#foottablefr2'>[2]</a></sup></td>
-</tr>
-<tr>
-<td></td>
-<td>**Fruits et jus de fruits**</td>
-<td></td>
-</tr>
-<tr>
-<td>75</td>
-<td>Fruits frais, en conserve ou congelés, sauf ceux énumérés à un autre article</td>
-<td>140 g</td>
-</tr>
-<tr>
-<td>150 mL en conserve<sup><a href='#foottablefr2'>[2]</a></sup></td>
-</tr>
-<tr>
-<td>76</td>
-<td>Fruits, confits ou marinés</td>
-<td>30 g<sup><a href='#foottablefr2'>[2]</a></sup></td>
-</tr>
-<tr>
-<td>77</td>
-<td>Fruits secs, tels que raisins, dattes ou figues</td>
-<td>40 g</td>
-</tr>
-<tr>
-<td>78</td>
-<td>Fruits pour garnir ou aromatiser, tels que cerises au marasquin</td>
-<td>4 g<sup><a href='#foottablefr2'>[2]</a></sup></td>
-</tr>
-<tr>
-<td>79</td>
-<td>Achards (relish) de fruits</td>
-<td>60 mL</td>
-</tr>
-<tr>
-<td>80</td>
-<td>Avocat utilisé comme ingrédient</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td>81</td>
-<td>Canneberges, citron et limette utilisés comme ingrédients</td>
-<td>55 g</td>
-</tr>
-<tr>
-<td>82</td>
-<td>Melon d’eau, cantaloup, melon de miel et autres melons</td>
-<td>150 g</td>
-</tr>
-<tr>
-<td>83</td>
-<td>Jus, nectars et boissons aux fruits représentés comme succédanés des jus de fruits</td>
-<td>250 mL</td>
-</tr>
-<tr>
-<td>84</td>
-<td>Jus utilisés comme ingrédients, tels que jus de citron ou de limette</td>
-<td>5 mL</td>
-</tr>
-<tr>
-<td></td>
-<td>**Légumineuses**</td>
-<td></td>
-</tr>
-<tr>
-<td>85</td>
-<td>Caillé de soya (tofu) et tempeh</td>
-<td>85 g<sup><a href='#foottablefr2'>[2]</a></sup></td>
-</tr>
-<tr>
-<td>86</td>
-<td>Haricots, pois et lentilles, tels que haricots blancs, haricots rouges, haricots romains, fèves de soya ou pois chiches</td>
-<td>100 g secs</td>
-</tr>
-<tr>
-<td>250 mL cuits ou en conserve<sup><a href='#foottablefr2'>[2]</a></sup></td>
-</tr>
-<tr>
-<td></td>
-<td>**Viande, volaille, leurs produits et succédanés3**</td>
-<td></td>
-</tr>
-<tr>
-<td>87</td>
-<td>Couennes de porc et bacon</td>
-<td>54 g non cuites</td>
-</tr>
-<tr>
-<td>15 g cuites</td>
-</tr>
-<tr>
-<td>88</td>
-<td>Languettes de boeuf, de porc et de poulet à déjeuner</td>
-<td>30 g non cuites</td>
-</tr>
-<tr>
-<td>15 g cuites</td>
-</tr>
-<tr>
-<td>89</td>
-<td>Viande et volaille séchées, tels que jerky, boeuf séché ou jambon de Parme, saucissons dont l’activité de l’eau est égale ou inférieure à 0,90, tels que salami, saucisson de Thuringe sec ou cervelas sec</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td>90</td>
-<td>Viandes à sandwich, telles que saucisson de Bologne, boudin, roulé de viande barattée, saucisse de foie, mortadelle, pain de jambon et fromage ou tête fromagée; pâté; tartinade à sandwich; terrine; garnitures à taco; garnitures pour pâtés à la viande et cretons</td>
-<td>75 g non cuites</td>
-</tr>
-<tr>
-<td>55 g cuites</td>
-</tr>
-<tr>
-<td>91</td>
-<td>Saucisses, telles que saucisses en chapelet, saucisse viennoise, saucisse fumée, saucisse à déjeuner, saucisse de Francfort, saucisse de porc, saucisse bratwurst, saucisse kolbassa, saucisson polonais, saucisson d’été, saucisson fumé, saucisse fumée campagnarde, pepperoni, knackwurst, saucisson de Thuringe ou cervelas</td>
-<td>75 g non cuites</td>
-</tr>
-<tr>
-<td>55 g cuites</td>
-</tr>
-<tr>
-<td>92</td>
-<td>Morceaux de viande et de volaille sans sauce ou prêts à cuire, enrobés ou non de chapelure ou de pâte à frire, y compris morceaux de viande marinés, attendris et injectés</td>
-<td>125 g crus</td>
-</tr>
-<tr>
-<td>100 g cuits</td>
-</tr>
-<tr>
-<td>93</td>
-<td>Galettes de viande, escalopettes, chopettes, steakettes, boulettes, chair à saucisse et viande hachée, enrobées ou non de chapelure ou de pâte à frire</td>
-<td>100 g crues</td>
-</tr>
-<tr>
-<td>60 g cuites</td>
-</tr>
-<tr>
-<td>94</td>
-<td>Produits de salaison, tels que jambon salé, jambon salé à sec, bacon de dos, bacon de dos salé à sec, capicollo salé à sec, boeuf salé, pastrami, jambon campagnard, épaule de porc picnic salé, salaison de viande et de volaille, boeuf fumé ou viandes marinées</td>
-<td>85 g crus</td>
-</tr>
-<tr>
-<td>55 g cuits</td>
-</tr>
-<tr>
-<td>95</td>
-<td>Viande et volaille en conserve</td>
-<td>55 g<sup><a href='#foottablefr2'>[2]</a></sup></td>
-</tr>
-<tr>
-<td>96</td>
-<td>Viande et volaille en sauce, telles que viande en sauce barbecue ou dinde en sauce, à l’exclusion des plats composés</td>
-<td>140 g</td>
-</tr>
-<tr>
-<td></td>
-<td>**Divers**</td>
-<td></td>
-</tr>
-<tr>
-<td>97</td>
-<td>Poudre à pâte, bicarbonate de soude et pectine</td>
-<td>0,6 g</td>
-</tr>
-<tr>
-<td>98</td>
-<td>Décorations pour pâtisseries, telles que sucre de couleur ou perles pour biscuits</td>
-<td>4 g</td>
-</tr>
-<tr>
-<td>99</td>
-<td>Chapelure et préparations pour pâte à frire</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td>100</td>
-<td>Vin de cuisine</td>
-<td>30 mL</td>
-</tr>
-<tr>
-<td>101</td>
-<td>Cacao en poudre</td>
-<td>5 g</td>
-</tr>
-<tr>
-<td>102</td>
-<td>Préparations pour cocktail non alcoolisées, telles que préparations pour pina colada ou daïquiri</td>
-<td>250 mL</td>
-</tr>
-<tr>
-<td>103</td>
-<td>Gomme à mâcher</td>
-<td>3 g</td>
-</tr>
-<tr>
-<td>104</td>
-<td>Garnitures pour salade et pommes de terre, telles que garnitures croquantes ou croustillantes pour salade ou succédanés de miettes de bacon</td>
-<td>7 g</td>
-</tr>
-<tr>
-<td>105</td>
-<td>Sel, succédanés de sel et sel épicé, tel que sel d’ail</td>
-<td>1 g</td>
-</tr>
-<tr>
-<td>106</td>
-<td>Épices et fines herbes</td>
-<td>0,5 g</td>
-</tr>
-<tr>
-<td></td>
-<td>**Plats composés**</td>
-<td></td>
-</tr>
-<tr>
-<td>107</td>
-<td>Mets mesurables à la tasse, tels que mets en cocotte, hachis, macaroni au fromage avec ou sans viande, pâté à la viande et aux légumes, spaghetti avec sauce, sauté, viande ou volaille en cocotte, haricots au four ou haricots frits, haricots et saucisses fumées, chili à la viande, haricots au chili, émincé de boeuf à la crème, raviolis au boeuf ou au poulet en sauce, boeuf Stroganoff, timbales de volaille, ragoût américain, goulache, ragoût ou poutine</td>
-<td>250 mL</td>
-</tr>
-<tr>
-<td>108</td>
-<td>Mets non mesurables à la tasse, tels que burritos, pâtés impériaux (egg rolls), enchiladas, pizza, roulés de type pizza, friands, mets en croûte, cigares au chou, quiche, sandwiches, emballages de craquelins et de viande ou volaille, gyros, hamburgers, saucisses de Francfort avec pain, calzones, tacos, cachettes à la viande, lasagne, poulet cordon bleu, légumes farcis à la viande ou à la volaille, brochettes, empanadas, fajitas, souvlakis, pâté à la viande ou tourtière</td>
-<td>140 g sans sauce ou jus de viande</td>
-</tr>
-<tr>
-<td>195 g avec sauce ou jus de viande</td>
-</tr>
-<tr>
-<td>109</td>
-<td>Hors-d’oeuvre</td>
-<td>50 g</td>
-</tr>
-<tr>
-<td></td>
-<td>**Noix et graines**</td>
-<td></td>
-</tr>
-<tr>
-<td>110</td>
-<td>Noix et graines qui ne sont pas utilisées comme grignotines : entières, hachées, tranchées, effilées ou moulues</td>
-<td>30 g écalées</td>
-</tr>
-<tr>
-<td>111</td>
-<td>Beurres, pâtes et crèmes de noix et de graines, sauf beurre d’arachide</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td>112</td>
-<td>Beurre d’arachide</td>
-<td>15 g</td>
-</tr>
-<tr>
-<td>113</td>
-<td>Farines, telles que farine de noix de coco</td>
-<td>15 g</td>
-</tr>
-<tr>
-<td></td>
-<td>**Pommes de terre, patates douces et ignames**</td>
-<td></td>
-</tr>
-<tr>
-<td>114</td>
-<td>Pommes de terre frites ou rissolées et pelures ou galettes de pommes de terre</td>
-<td>85 g frites congelées</td>
-</tr>
-<tr>
-<td>70 g une fois préparées</td>
-</tr>
-<tr>
-<td>115</td>
-<td>En purée, glacées, farcies ou en sauce</td>
-<td>140 g</td>
-</tr>
-<tr>
-<td>116</td>
-<td>Nature, fraîches, en conserve ou congelées</td>
-<td>110 g fraîches ou congelées</td>
-</tr>
-<tr>
-<td>125 g emballées sous vide</td>
-</tr>
-<tr>
-<td>160 g en conserve<sup><a href='#foottablefr2'>[2]</a></sup></td>
-</tr>
-<tr>
-<td></td>
-<td>**Salades**</td>
-<td></td>
-</tr>
-<tr>
-<td>117</td>
-<td>Salades, telles que salades aux oeufs, au poisson, aux fruits de mer, aux haricots, aux fruits, aux légumes, à la viande, au jambon ou à la volaille, sauf celles énumérées à un autre article</td>
-<td>100 g</td>
-</tr>
-<tr>
-<td>118</td>
-<td>Salade en gelée</td>
-<td>120 g</td>
-</tr>
-<tr>
-<td>119</td>
-<td>Salade de pâtes alimentaires ou de pommes de terre</td>
-<td>140 g</td>
-</tr>
-<tr>
-<td></td>
-<td>**Sauces, trempettes, sauces au jus de viande et condiments**</td>
-<td></td>
-</tr>
-<tr>
-<td>120</td>
-<td>Sauces pour trempettes, telles que sauce barbecue, sauce hollandaise, sauce tartare, sauce à la moutarde et sauce aigre-douce</td>
-<td>30 mL</td>
-</tr>
-<tr>
-<td>121</td>
-<td>Trempettes, telles que trempettes à base de légumineuses ou de produits laitiers</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td>122</td>
-<td>Sauces pour plats principaux utilisées en grande quantité, telles que sauce à spaghetti</td>
-<td>125 mL</td>
-</tr>
-<tr>
-<td>123</td>
-<td>Sauces pour plats principaux utilisées en petite quantité, telles que sauce à pizza, sauce pesto et autres sauces utilisées comme garniture, telles que la sauce blanche, sauce au fromage, salsa, sauce à cocktail ou sauce au jus de viande</td>
-<td>60 mL</td>
-</tr>
-<tr>
-<td>124</td>
-<td>Condiments utilisés en grande quantité, tels que ketchup, sauce pour bifteck, sauce soya, vinaigre, sauce teriyaki ou marinades</td>
-<td>15 mL</td>
-</tr>
-<tr>
-<td>125</td>
-<td>Condiments utilisés en petite quantité, tels que raifort, sauce piquante, moutarde ou sauce Worcestershire</td>
-<td>5 mL</td>
-</tr>
-<tr>
-<td></td>
-<td>**Grignotines**</td>
-<td></td>
-</tr>
-<tr>
-<td>126</td>
-<td>Croustilles, bretzels, maïs éclaté, grignotines extrudées, grignotines mélangées à base de céréales et grignotines à base de fruits, telles que croustilles de fruits</td>
-<td>50 g</td>
-</tr>
-<tr>
-<td>127</td>
-<td>Noix et graines à grignoter</td>
-<td>50 g écalées</td>
-</tr>
-<tr>
-<td>128</td>
-<td>Bâtonnets à la viande ou à la volaille</td>
-<td>20 g</td>
-</tr>
-<tr>
-<td></td>
-<td>**Soupes**</td>
-<td></td>
-</tr>
-<tr>
-<td>129</td>
-<td>Toutes les sortes</td>
-<td>250 mL</td>
-</tr>
-<tr>
-<td></td>
-<td>**Sucres et sucreries**</td>
-<td></td>
-</tr>
-<tr>
-<td>130</td>
-<td>Friandises, y compris tablettes de chocolat et autres produits à base de chocolat, sauf ceux énumérés à un autre article</td>
-<td>40 g</td>
-</tr>
-<tr>
-<td>131</td>
-<td>Bonbons durs, sauf ceux énumérés à un autre article</td>
-<td>15 g</td>
-</tr>
-<tr>
-<td>132</td>
-<td>Confiseries à cuire, telles que brisures de chocolat</td>
-<td>15 g</td>
-</tr>
-<tr>
-<td>133</td>
-<td>Menthes</td>
-<td>2 g</td>
-</tr>
-<tr>
-<td>134</td>
-<td>Bonbons durs, en rouleaux ou miniaturisés en emballage distributeur</td>
-<td>5 g</td>
-</tr>
-<tr>
-<td>135</td>
-<td>Sucre à glacer</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td>136</td>
-<td>Tartinades, sauf celles énumérées à un autre article, miel et mélasse</td>
-<td>20 g</td>
-</tr>
-<tr>
-<td>137</td>
-<td>Confitures, gelées, marmelades, beurres de fruits et tartinades de fruits</td>
-<td>15 mL</td>
-</tr>
-<tr>
-<td>138</td>
-<td>Guimauves</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td>139</td>
-<td>Sucres, sauf ceux énumérés à un autre article</td>
-<td>4 g</td>
-</tr>
-<tr>
-<td>140</td>
-<td>Succédané de sucre</td>
-<td>quantité équivalant en pouvoir édulcorant à 4 g de sucre</td>
-</tr>
-<tr>
-<td>141</td>
-<td>Sirops, y compris sirop de chocolat, sirop d’érable et sirop de maïs</td>
-<td>30 mL utilisés comme ingrédients  60 mL autres usages</td>
-</tr>
-<tr>
-<td></td>
-<td>**Légumes**</td>
-<td></td>
-</tr>
-<tr>
-<td>142</td>
-<td>Légumes sans sauce, y compris le maïs en crème et les tomates étuvées, à l’exception des légumes sans sauce énumérés à un autre article</td>
-<td>85 g frais ou congelés,</td>
-</tr>
-<tr>
-<td>125 mL en conserve<sup><a href='#foottablefr2'>[2]</a></sup></td>
-</tr>
-<tr>
-<td>143</td>
-<td>Légumes en sauce</td>
-<td>110 g frais ou congelés</td>
-</tr>
-<tr>
-<td>125 mL en conserve</td>
-</tr>
-<tr>
-<td>144</td>
-<td>Légumes utilisés principalement comme garnitures ou aromatisants, frais, en conserve ou congelés, mais non déshydratés, tels que persil ou ail</td>
-<td>4 g</td>
-</tr>
-<tr>
-<td>145</td>
-<td>Piment rouge et oignon vert</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td>146</td>
-<td>Algues marines</td>
-<td>15 g</td>
-</tr>
-<tr>
-<td>147</td>
-<td>Laitue et graines germées</td>
-<td>65 g</td>
-</tr>
-<tr>
-<td>148</td>
-<td>Jus et boisson de légumes</td>
-<td>250 mL</td>
-</tr>
-<tr>
-<td>149</td>
-<td>Olives</td>
-<td>15 g<sup><a href='#foottablefr2'>[2]</a></sup></td>
-</tr>
-<tr>
-<td>150</td>
-<td>Marinades</td>
-<td>30 g<sup><a href='#foottablefr2'>[2]</a></sup></td>
-</tr>
-<tr>
-<td>151</td>
-<td>Achards (relish)</td>
-<td>15 mL</td>
-</tr>
-<tr>
-<td>152</td>
-<td>Pâtes de légumes, telles que pâte de tomate</td>
-<td>30 mL</td>
-</tr>
-<tr>
-<td>153</td>
-<td>Sauce ou purée de légumes, telle que sauce ou purée de tomate</td>
-<td>60 mL</td>
-</tr>
-</table>
-
-
-<a name='foottablefr1'><sup>1</sup></a>: Sauf indication contraire, la quantité de référence se rattache aux aliments prêts à servir ou presque prêts à servir. Si elle n’est pas mentionnée séparément, la quantité de référence pour les produits à préparer, tels que les mélanges secs, concentrés, pâte, pâte à frire et pâtes alimentaires fraîches ou congelées, est la quantité requise pour obtenir la quantité de référence du produit une fois préparé.<br />
-
-<a name='foottablefr2'><sup>2</sup></a>: Est exclu tout liquide dans lequel l’aliment solide est emballé ou mis en conserve, à moins qu’il soit habituellement consommé avec l’aliment.<br />
-
-<a name='foottablefr3'><sup>3</sup></a>: Les succédanés de viande et de volaille comprennent les produits de viande et de volaille avec allongeur et les simili-produits de viande et de volaille.<br />
-> DORS/2003-11, art. 37; DORS/2010-94, art. 7(F); DORS/2012-43, art. 47 et 48.
+[Abrogée, DORS/2016-305, art. 71]
 
 
