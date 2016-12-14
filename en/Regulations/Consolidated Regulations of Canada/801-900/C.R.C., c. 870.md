@@ -433,9 +433,9 @@ but does not include
 
 ***component*** means an individual unit of food that is combined as an individual unit of food with one or more other individual units of food to form an ingredient; (*constituant*)
 
-***daily value*** means
-- **(a)** in respect of a vitamin or mineral nutrient referred to in the definition ***recommended daily intake***, the recommended daily intake for that vitamin or mineral nutrient, and
-- **(b)** in respect of a nutrient referred to in the definition ***reference standard***, the reference standard for that nutrient; (*valeur quotidienne*)
+***daily value*** means, in respect of a nutrient, the quantity applicable to the nutrient according to subsection B.01.001.1(2); (*valeur quotidienne*)
+
+***Directory of NFT Formats*** means the document entitled Nutrition Labelling – Directory of Nutrition Facts Table Formats published by the Government of Canada on its website, as amended from time to time; (*Répertoire des modèles de TVN*)
 
 ***durable life*** means the period, commencing on the day on which a prepackaged product is packaged for retail sale, during which the product, when it is stored under conditions appropriate to that product, will retain, without any appreciable deterioration, its normal wholesomeness, palatability, nutritional value and any other qualities claimed for it by the manufacturer; (*durée de conservation*)
 
@@ -459,13 +459,17 @@ but does not include
 - **(e)** food packaging materials and components thereof; and
 - **(f)** drugs recommended for administration to animals that may be consumed as food; (*additif alimentaire*)
 
-***food colour*** means those colours permitted for use in or upon food by Division 6; (*colorant alimentaire*)
+***food colour*** means any colouring agent that is referred to in section 2 of the [Marketing Authorization for Food Additives That May Be Used as Colouring Agents](/en/Regulations/Statutory%20Orders%20and%20Regulations/2012/204.md); (*colorant alimentaire*)
+
+***functional substitute for a sweetening agent*** means, in respect of a prepackaged product, a food — other than any sweetener or sweetening agent, including any sugars — that replaces a sweetening agent and that has one or more of the functions of the sweetening agent including, sweetening, thickening, texturing or caramelizing; (*substitut fonctionnel d’un agent édulcorant*) 
 
 ***gelling agent*** means gelatin, agar and carrageenan; (*agent gélatinisant*)
 
 ***ingredient*** means an individual unit of food that is combined as an individual unit of food with one or more other individual units of food to form an integral unit of food that is sold as a prepackaged product; (*ingrédient*)
 
 ***List of Contaminants and Other Adulterating Substances in Foods*** means the List of Contaminants and Other Adulterating Substances in Foods, published by the Department of Health on its website, as amended from time to time; (*Liste de contaminants et d’autres substances adultérantes dans les aliments*)
+
+***marketing authorization*** means a marketing authorization issued by the Minister under subsection 30.3(1) of the Act; (*autorisation de mise en marché*)
 
 ***meal replacement*** means a formulated food that, by itself, can replace one or more daily meals; (*substitut de repas*)
 
@@ -477,20 +481,22 @@ but does not include
 - **(a)** the integrity of the surface of the beef is compromised by being pierced by blades, needles or other similar instruments; or
 - **(b)** the beef is injected with a marinade or other tenderizing solution; (*boeuf attendri mécaniquement*)
 
-***monounsaturated fatty acids***, ***monounsaturated fat***, ***monounsaturates*** or ***monounsaturated*** means *cis*-monounsaturated fatty acids; (*acides gras monoinsaturés*, *graisses monoinsaturées*, *gras monoinsaturés*, *lipides monoinsaturés* ou *monoinsaturés*)
+***monounsaturated fatty acids***, ***monounsaturated fat***, ***monounsaturates*** or ***monounsaturated*** means *cis*-monounsaturated fatty acids; (*acides gras monoinsaturés*, *graisses monoinsaturées*, *gras monoinsaturés*, *lipides monoinsaturés* ou *monoinsaturés*)
+
+***mutiple-serving prepackaged product*** means a prepackaged product other than a single-serving prepackaged product; (*produit préemballé à portions multiples*)
 
 ***nutritional supplement*** means a food sold or represented as a supplement to a diet that may be inadequate in energy and essential nutrients; (*supplément nutritif*)
 
 ***nutrition facts table*** means the nutrition facts table that is required by subsection B.01.401(1) to be carried on the label of a prepackaged product; (*tableau de la valeur nutritive*)
 
-***omega-3 polyunsaturated fatty acids***, ***omega-3 polyunsaturated fat***, ***omega-3 polyunsaturates***, ***omega-3 polyunsaturated*** or ***omega-3*** means
+***omega-3 polyunsaturated fatty acids***, ***omega-3 polyunsaturated fat***, ***omega-3 polyunsaturates***, ***omega-3 polyunsaturated*** or ***omega-3*** means
 - **(a)** 9-*cis*, 12-*cis*, 15-*cis* octadecatrienoic acid or α-linolenic acid,
 - **(b)** 8-*cis*, 11-*cis*, 14-*cis*, 17-*cis* eicosatetraenoic acid,
 - **(c)** 5-*cis*, 8-*cis*, 11-*cis*, 14-*cis*, 17-*cis* eicosapentaenoic acid or EPA,
 - **(d)** 7-*cis*, 10-*cis*, 13-*cis*, 16-*cis*, 19-*cis* docosapentaenoic acid, or
 - **(e)** 4-*cis*, 7-*cis*, 10-*cis*, 13-*cis*, 16-*cis*, 19-*cis* docosahexaenoic acid or DHA; (*acides gras polyinsaturés oméga-3*, *graisses polyinsaturées oméga-3*, *gras polyinsaturés oméga-3*, *lipides polyinsaturés oméga-3*, *polyinsaturés oméga-3* ou *oméga-3*)
 
-***omega-6 polyunsaturated fatty acids***, ***omega-6 polyunsaturated fat***, ***omega-6 polyunsaturates***, ***omega-6 polyunsaturated*** or ***omega-6*** means
+***omega-6 polyunsaturated fatty acids***, ***omega-6 polyunsaturated fat***, ***omega-6 polyunsaturates***, ***omega-6 polyunsaturated*** or ***omega-6*** means
 - **(a)** 9-*cis*, 12-*cis* octadecadienoic acid or linoleic acid,
 - **(b)** 6-*cis*, 9-*cis*, 12-*cis* octadecatrienoic acid,
 - **(c)** 8-*cis*, 11-*cis*, 14-*cis* eicosatrienoic acid or di-homo-γ-linolenic acid,
@@ -504,11 +510,13 @@ but does not include
 
 ***parts per million***[Repealed, SOR/2010-94, s. 1]
 
-***parts per million*** or ***p.p.m.*** means parts per million by weight unless otherwise stated; (*parties par million ou p.p.m.*)
+***parts per million*** or ***p.p.m.*** means parts per million by weight unless otherwise stated; (*parties par million ou p.p.m.*)
 
-***per cent*** or ***%*** means per cent by weight, unless otherwise stated; (*pour cent*)
+***per cent*** or ***%*** means per cent by weight, unless otherwise stated; (*pour cent*)
 
-***polyunsaturated fatty acids***, ***polyunsaturated fat***, ***polyunsaturates*** or ***polyunsaturated*** means *cis*-methylene interrupted polyunsaturated fatty acids; (*acides gras polyinsaturés*, *graisses polyinsaturées*, *gras polyinsaturés*, *lipides polyinsaturés* ou *polyinsaturés*)
+***point*** means the unit of measurement for type size that is known as a PostScript point and is equal to 0.3527777778 mm; (*point*)
+
+***polyunsaturated fatty acids***, ***polyunsaturated fat***, ***polyunsaturates*** or ***polyunsaturated*** means *cis*-methylene interrupted polyunsaturated fatty acids; (*acides gras polyinsaturés*, *graisses polyinsaturées*, *gras polyinsaturés*, *lipides polyinsaturés* ou *polyinsaturés*)
 
 ***poultry product*** means poultry meat, prepared poultry meat, poultry meat by-product or prepared poultry meat by-product; (*produit de volaille*)
 
@@ -527,27 +535,36 @@ but does not include
 
 ***reasonable daily intake***, in respect of a food set out in Column I of an item of Schedule K, means the amount of that food set out in Column II of that item; (*ration quotidienne raisonnable*)
 
-***recommended daily intake***, in respect of a vitamin or mineral nutrient set out in column I of Table I to Division 1 of Part D or in column I of Table I to Division 2 of Part D, means
-- **(a)** in the case of a prepackaged product intended solely for children under two years of age, the quantity set out in column III, and
-- **(b)** in any other case, the quantity set out in column II; (*apport quotidien recommandé*)
+***recommended daily intake***[Repealed, SOR/2016-305, s. 1]
 
-***reference amount***, in respect of a food set out in column 1 of Schedule M, means the amount of that food set out in column 2; (*quantité de référence*)
+***reference amount*** means, in respect of a food set out in column 1 of the Table of Reference Amounts, the amount of that food set out in column 2; (*quantité de référence*)
 
-***reference standard***, in respect of a nutrient set out in column 1 of the table to section B.01.001.1, means the amount set out in column 2; (*norme de référence*)
+***reference standard***[Repealed, SOR/2016-305, s. 1]
 
-***saturated fatty acids***, ***saturated fat***, ***saturates*** or ***saturated*** means all fatty acids that contain no double bonds; (*acides gras saturés, graisses saturées, gras saturés, lipides saturés* ou *saturés*)
+***saturated fatty acids***, ***saturated fat***, ***saturates*** or ***saturated*** means all fatty acids that contain no double bonds; (*acides gras saturés, graisses saturées, gras saturés, lipides saturés* ou *saturés*)
 
 ***simulated meat product*** means any food that does not contain any meat product, poultry product or fish product but that has the appearance of a meat product; (*simili-produit de viande*)
 
 ***simulated poultry product*** means any food that does not contain any poultry product, meat product or fish product but that has the appearance of a poultry product; (*simili-produit de volaille*)
 
+***single-serving prepackaged product*** means a prepackaged product in respect of which the net quantity of food in the package is the serving of stated size for the food as set out in paragraph B.01.002A(1)(b); (*produit préemballé à portion individuelle*)
+
 ***sugars*** means all monosaccharides and disaccharides; (*sucres*)
 
-***sweetener*** means any food additive listed as a sweetener in Table IX to section B.16.100; (*édulcorant*)
+***sugars-based ingredient*** means, in respect of a prepackaged product,
+- **(a)** an ingredient that is a monosaccharide or disaccharide or a combination of these;
+- **(b)** an ingredient that is a sweetening agent other than one referred to in paragraph (a); and
+- **(c)** any other ingredient that contains one or more sugars and that is added to the product as a functional substitute for a sweetening agent; (*ingrédient à base de sucres*)
+
+***sweetener*** means any sweetener that is referred to in section 2 of the [Marketing Authorization for Food Additives That May Be Used as Sweeteners](/en/Regulations/Statutory%20Orders%20and%20Regulations/2012/210.md); (*édulcorant*)
 
 ***sweetening agent*** includes any food for which a standard is provided in Division 18, but does not include those food additives listed in the tables to Division 16; (*agent édulcorant*)
 
-***trans fatty acids***, ***trans fat*** or ***trans*** means unsaturated fatty acids that contain one or more isolated or non-conjugated double bonds in a *trans*-configuration; (*acides gras trans*, *graisses trans*, *gras trans*, *lipides trans* ou *trans*)
+***Table of Daily Values*** means the document entitled Nutrition Labelling – Table of Daily Values published by the Government of Canada on its website, as amended from time to time; (*Tableau des valeurs quotidiennes*)
+
+***Table of Reference Amounts*** means the document entitled Nutrition Labelling – Table of Reference Amounts for Food published by the Government of Canada on its website, as amended from time to time; (*Tableau des quantités de référence*)
+
+***trans fatty acids***, ***trans fat*** or ***trans*** means unsaturated fatty acids that contain one or more isolated or non-conjugated double bonds in a *trans*-configuration; (*acides gras trans*, *graisses trans*, *gras trans*, *lipides trans* ou *trans*)
 
 ***unstandardized food*** means any food for which a standard is not prescribed in this Part; (*aliment non normalisé*)
 
@@ -563,67 +580,26 @@ but does not include
 ***agricultural chemical*** has the same meaning as in subsection (1). (*produit chimique agricole*)
 
 ***food additive*** has the same meaning as in subsection (1). (*additif alimentaire*)
-> SOR/78-403, s. 1(F); SOR/79-23, s. 1; SOR/81-83, s. 1; SOR/81-617, s. 1; SOR/88-336, s. 1; SOR/88-559, s. 1; SOR/89-175, s. 1; SOR/91-124, s. 1; SOR/91-527, s. 1; SOR/93-276, s. 1; SOR/95-474, s. 1; SOR/98-580, s. 1(F); SOR/2000-353, s. 3; SOR/2003-11, s. 1; err.(E), Vol. 137, No. 5; SOR/2005-98, s. 1; SOR/2008-181, s. 1; SOR/2008-182, s. 1; SOR/2010-94, s. 1; SOR/2011-278, s. 1; SOR/2014-99, s. 1; SOR/2016-74, s. 1.
+> SOR/78-403, s. 1(F); SOR/79-23, s. 1; SOR/81-83, s. 1; SOR/81-617, s. 1; SOR/88-336, s. 1; SOR/88-559, s. 1; SOR/89-175, s. 1; SOR/91-124, s. 1; SOR/91-527, s. 1; SOR/93-276, s. 1; SOR/95-474, s. 1; SOR/98-580, s. 1(F); SOR/2000-353, s. 3; SOR/2003-11, s. 1; err.(E), Vol. 137, No. 5; SOR/2005-98, s. 1; SOR/2008-181, s. 1; SOR/2008-182, s. 1; SOR/2010-94, s. 1; SOR/2011-278, s. 1; SOR/2014-99, s. 1; SOR/2016-74, s. 1; SOR/2016-305, s. 1.
 
 
 
 
 **B.01.001.1** 
 
-- **(1)** In this section, ***fat*** means all fatty acids expressed as triglycerides.
+- **(1)** For the purpose of subsection (2), the term fat used in the Table of Daily Values means all fatty acids expressed as triglycerides.
 
-- **(2)** The reference standard for a nutrient set out in column 1 of the table to this section is the amount set out in column 2.
-#### TABLE
-<table>
-<h4>Reference Standards</h4>
-<tr>
-<th></th>
-<th>Column 1</th>
-<th>Column 2</th>
-</tr>
-<tr>
-<th>Item</th>
-<th>Nutrient</th>
-<th>Amount</th>
-</tr>
-<tr>
-<td>1</td>
-<td>Fat</td>
-<td>65 g</td>
-</tr>
-<tr>
-<td>2</td>
-<td>The sum of saturated fatty acids and *trans* fatty acids</td>
-<td>20 g</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Cholesterol</td>
-<td>300 mg</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Carbohydrate</td>
-<td>300 g</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Fibre</td>
-<td>25 g</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Sodium</td>
-<td>2400 mg</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Potassium</td>
-<td>3500 mg</td>
-</tr>
-</table>
+- **(2)** The daily value for a nutrient in a food is
+	- **(a)** in the case of a nutrient set out in column 1 of Part 1 of the Table of Daily Values, the quantity
+		- **(i)** set out in column 2, if the food is intended solely for children one year of age or older but less than four years of age, and
+		- **(ii)** set out in column 3, if the food is intended for children one year of age or older but less than four years of age or for children four years of age or older and adults; and
+	- **(b)** in the case of a vitamin or mineral nutrient set out in column 1 of Part 2 of the Table of Daily Values, the quantity
+		- **(i)** set out in column 2, if the food is intended solely for infants six months of age or older but less than one year of age,
+		- **(ii)** set out in column 3, if the food is intended for infants six months of age or older but less than one year of age or for children one year of age or older but less than four years of age, and
+		- **(iii)** set out in column 4, in any other case.
 
-> SOR/2003-11, s. 2.
+- **(3)** Subsection (2) does not apply if the food is a human milk substitute intended solely for infants less than six months of age.
+> SOR/2003-11, s. 2; SOR/2016-305, s. 2.
 
 
 
@@ -637,18 +613,20 @@ but does not include
 **B.01.002A** 
 
 - **(1)** For the purposes of this Part, a serving of stated size of a food shall be
-	- **(a)** based on the food as offered for sale; and
-	- **(b)** expressed
-		- **(i)** in grams, if
-			- **(A)** the net quantity of the food is declared on the label by weight or by count, or
-			- **(B)** the food is set out in column 1 of item 78, 149 or 150 of Schedule M, and
-		- **(ii)** in millilitres, if the net quantity of the food is declared on the label by volume, except in the case of a food referred to in clause (i)(B).
+	- **(a)** based on the food as offered for sale;
+	- **(b)** in either of the following cases, the net quantity of the food in the package:
+		- **(i)** if the quantity of food in the package can reasonably be consumed by one person at a single eating occasion, or
+		- **(ii)** if the package contains less than 200% of the reference amount for the food; and
+	- **(c)** in all other cases, the amount indicated for the food according to the criteria set out in column 3A of the Table of Reference Amounts.
 
-- **(2)** A serving of stated size shall be the net quantity of the food in the package if
-	- **(a)** the quantity of food can reasonably be consumed by one person at a single eating occasion;
-	- **(b)** the reference amount of the food is less than 100 g or 100 mL and the package contains less than 200% of that reference amount; or
-	- **(c)** the reference amount of the food is 100 g or 100 mL or more and the package contains 150% or less of that reference amount. 
-> SOR/88-559, s. 2; SOR/2003-11, s. 3.
+- **(2)** A serving of stated size of a food shall be expressed as follows:
+	- **(a)** in the case of a single-serving prepackaged product to which paragraph (1)(b) applies, per package and using the following units:
+		- **(i)** in grams, if the net quantity of the food is shown on the label by weight or by count, and
+		- **(ii)** in millilitres, if the net quantity of the food is shown on the label by volume; and
+	- **(b)** in the case of a multiple-serving prepackaged product to which paragraph (1)(c) applies, according to the following units set out in column 3B of the Table of Reference Amounts and according to the manner set out in that column:
+		- **(i)** the household measure that applies to the product, and
+		- **(ii)** the metric measure that applies to the product.
+> SOR/88-559, s. 2; SOR/2003-11, s. 3; SOR/2016-305, s. 3.
 
 
 
@@ -779,11 +757,66 @@ but does not include
 	- **(f)** Bourbon whisky and prepackaged products subject to compositional standards in Division 2; or
 	- **(g)** prepackaged products subject to compositional standards in Division 19.
 
-- **(3)** Ingredients shall be shown in descending order of their proportion of the prepackaged product or as a percentage of the prepackaged product and the order or percentage shall be the order or percentage of the ingredients before they are combined to form the prepackaged product.
+- **(3)** Despite paragraph (1)(b), the following items are not required to be shown on the label of a prepackaged product:
+	- **(a)** wax coating compounds and their components, used as an ingredient or component of prepackaged fresh fruit or vegetables;
+	- **(b)** sausage casings, used as an ingredient or component of prepackaged sausages;
+	- **(c)** hydrogen, used as an ingredient or component of a prepackaged product if used for hydrogenation purposes; and
+	- **(d)** components of ingredients of a sandwich, if the sandwich is made with bread.
 
-- **(4)** Notwithstanding subsection (3), the following ingredients may be shown at the end of the list of ingredients in any order:
+- **(4) to (10)** [Repealed, SOR/2016-305, s. 4]
+> SOR/79-23, s. 5; SOR/88-559, s. 3; SOR/92-626, s. 7; SOR/93-145, s. 1; SOR/2003-11, s. 5; SOR/2011-28, s. 1; SOR/2016-305, s. 4.
+
+
+
+
+**B.01.008.1** 
+
+- **(1)** Information appearing on the label of a prepackaged product according to sections B.01.008.2 to B.01.010.4 shall be shown
+	- **(a)** in a single colour of type that is a visual equivalent of 100% solid black type on a white background or a uniform neutral background with a maximum 5% tint of colour;
+	- **(b)** in a single standard sans serif font that is not decorative and in a manner that the characters never touch each other or any differentiating feature under subsection B.01.008.2(2);
+	- **(c)** in type of normal or condensed width that is not scaled down so that the characters take up less space horizontally and, if a nutrition facts table appears on the label, the width of type must be the same as that required for the type used to show the nutrients that appear in the nutrition facts table;
+	- **(d)** in regular type, subject to paragraph B.01.008.2(1)(b), subparagraph B.01.010.3(1)(a)(ii) and paragraphs B.01.010.3(1)(c) and B.01.010.4(1)(c) and (d); and
+	- **(e)** in type that is the same height that is not less than 1.1 mm with identical leading of not less than 2.5 mm.
+
+- **(2)** Despite paragraph (1)(a), a list of ingredients appearing on the label of the following prepackaged products is not required to be shown on a white background or a uniform neutral background with a maximum 5% tint of colour:
+	- **(a)** a prepackaged product that is intended solely for use as an ingredient in the manufacture of other prepackaged products intended for sale to a consumer at the retail level or as an ingredient in the preparation of food by a commercial or industrial enterprise or an institution; and
+	- **(b)** a prepackaged product that is a ready-to-serve multiple-serving prepackaged product intended solely to be served in a commercial or industrial enterprise or an institution.
+
+- **(3)** Despite paragraph (1)(e), if a nutrition facts table appears on the label of a prepackaged product and the type size of the nutrients shown in the table is not less than 8 points, the information appearing on the label must appear in type that is the same height that is not less than 1.4 mm with identical leading of not less than 3.2 mm.
+
+- **(4)** Despite paragraph (1)(e), a title that introduces a list of ingredients, a food allergen source, gluten source and added sulphites statement, as defined in subsection B.01.010.1(1), or a declaration referred to in subsection B.01.010.4(1) may be shown in type that is of a height that is greater than the height of the type used to show the ingredients in the list, the information in the statement or the information in the declaration, as the case may be.
+
+- **(5)** If more than one of the titles referred to in subsection (4) appears on a label, the characters of each title must be of the same height.
+
+- **(6)** For the purpose of this section, the height of type means the height of the lower case letter “x”.
+> SOR/2016-305, s. 5.
+
+
+
+
+**B.01.008.2** 
+
+- **(1)** A list of ingredients shall be introduced by a title that shall
+	- **(a)** consist of the term
+		- **(i)** “Ingredients” or “Ingredients:” in the English version of the list, and
+		- **(ii)** “*Ingrédients*” or “*Ingrédients*:” in the French version of the list;
+	- **(b)** be shown in bold type; and
+	- **(c)** be shown without any intervening printed, written or graphic material appearing between the title and the first ingredient shown in the list.
+
+- **(2)** A list of ingredients shall be shown in a manner that clearly differentiates it on the label, by means of one or both of
+	- **(a)** graphics in the form of a solid-line border around the list or one or more solid lines appearing immediately above, below or at the sides of the list that are the same colour as that of the type used to show the information referred to in subsection B.01.008.1(1); and
+	- **(b)** a background colour that creates a contrast between the background colour of the list and the background colour used on the adjacent area of the label, other than the area used to display a food allergen source, gluten source and added sulphites statement, as defined in subsection B.01.010.1(1), a declaration referred to in subsection B.01.010.4(1) and a nutrition facts table.
+
+- **(3)** In a list of ingredients, ingredients shall be shown
+	- **(a)** in descending order of their proportion of the prepackaged product or as a percentage of the prepackaged product, and the order or percentage shall be the order or percentage of the ingredients before they are combined to form the product;
+	- **(b)** in lower case letters, except that upper case letters shall be used to show
+		- **(i)** the first letter of each ingredient or, in the case of a food additive shown in whole or in part by an acronym, the entire acronym, and
+		- **(ii)** the alpha-descriptor that forms a part of the common name for a food additive, vitamin or micro-organism; and
+	- **(c)** separated by a bullet point or a comma.
+
+- **(4)** Despite paragraph (3)(a), the following ingredients may be shown at the end of the list of ingredients, in any order:
 	- **(a)** spices, seasonings and herbs, except salt;
-	- **(b)** natural and artificial flavours;
+	- **(b)** natural flavours and artificial flavours;
 	- **(c)** flavour enhancers;
 	- **(d)** food additives, except ingredients of food additive preparations or mixtures of substances for use as a food additive;
 	- **(e)** vitamins;
@@ -791,25 +824,55 @@ but does not include
 	- **(g)** mineral nutrients; and
 	- **(h)** salts of mineral nutrients.
 
-- **(5)** Components shall be shown
-	- **(a)** immediately after the ingredient of which they are components in such a manner as to indicate that they are components of the ingredient, except that if a source of a food allergen or gluten is required by paragraph B.01.010.1(8)(a) to be shown immediately after that ingredient, they shall instead be shown immediately after that source; and
-	- **(b)** in descending order of their proportion of the ingredient.
+- **(5)** In a list of ingredients, the components of an ingredient shall be shown
+	- **(a)** in parentheses, immediately after the ingredient, unless the source of a food allergen or gluten is shown immediately after the ingredient, in which case components of the ingredient shall be shown immediately after that source;
+	- **(b)** in descending order of their proportion of the ingredient determined before the components are combined to form the ingredient;
+	- **(c)** in lower case letters, except that upper case letters shall be used to show
+		- **(i)** in the case of a food additive shown in whole or in part by an acronym, the entire acronym, and
+		- **(ii)** the alpha-descriptor that forms a part of the common name for a food additive, vitamin or micro-organism; and
+	- **(d)** separated by a comma.
 
-- **(6)** Notwithstanding paragraph (1)(b) and subsection (5), but subject to section B.01.009, where one or more components of an ingredient are required by these Regulations to be shown in the list of ingredients on the label of a prepackaged product, the ingredient that contains the components is not required to be shown in the list if all components of that ingredient are listed by their common names with the other ingredients of the product
-	- **(a)** in descending order of their proportion of the product, or
-	- **(b)** as a percentage of the product,
-the order or percentage, as the case may be, being based
-	- **(c)** in the case of components, on the total amount of each of the components before they are combined to form ingredients in the product; and
-	- **(d)** in the case of ingredients, on the amount of each of the ingredients before they are combined to form the product.
+- **(6)** Despite paragraph B.01.008(1)(b) and paragraphs (5)(a) and (b), but subject to section B.01.009, if one or more components of an ingredient are required by these Regulations to be shown in a list of ingredients, the ingredient is not required to be shown in the list if all components of the ingredient are shown in the list by their common names and in accordance with subsection (3) as if they were ingredients.
 
-- **(7)** Notwithstanding paragraph (1)(b), wax coating compounds and their components are not required to be shown on the label of a prepackaged fresh fruit or fresh vegetable as an ingredient or component thereof.
+- **(7)** In a list of ingredients, the source of a food allergen or gluten shall be shown
+	- **(a)** immediately after the ingredient or component to which it applies in accordance with subsections B.01.010.1(8) and (10);
+	- **(b)** entirely in lower case letters; and
+	- **(c)** separated by a comma from any other source of a food allergen or gluten that is shown for the same ingredient or component.
 
-- **(8)** Notwithstanding paragraph (1)(b), sausage casings are not required to be shown on the label of prepackaged sausages as an ingredient or component thereof.
+- **(8)** If the English and French versions of a list of ingredients appear on the label, they shall be displayed on a continuous surface of the label’s available display surface, but need not be on the same continuous surface of the label’s available display surface.
 
-- **(9)** Notwithstanding paragraph (1)(b), hydrogen, when used for hydrogenation purposes, is not required to be shown on the label of any prepackaged product as an ingredient or component thereof.
+- **(9)** If the English and French versions of a list of ingredients appear on the same continuous surface of the label, the version that follows the other version shall not begin on the same line as that on which the other version ends, except in the case of a prepackaged product that has an available display surface of less than 100 cm<sup>2</sup>.
+> SOR/2016-305, s. 5.
 
-- **(10)** Notwithstanding paragraph (1)(b), components of ingredients of a sandwich made with bread are not required to be shown in the list of ingredients on the label of the sandwich.
-> SOR/79-23, s. 5; SOR/88-559, s. 3; SOR/92-626, s. 7; SOR/93-145, s. 1; SOR/2003-11, s. 5; SOR/2011-28, s. 1.
+
+
+
+**B.01.008.3** 
+
+- **(1)** If a prepackaged product contains one or more sugars-based ingredients, despite the order of presentation referred to in paragraph B.01.008.2(3)(a), the sugars-based ingredient or ingredients shall be shown in the list of ingredients, in parentheses, immediately following the term
+	- **(a)** “Sugars” in the English version of the list; and
+	- **(b)** “*Sucres*” in the French version of the list.
+
+- **(2)** The term “Sugars” referred to in subsection (1) shall be shown in the list of ingredients
+	- **(a)** in descending order of the proportion of all the sugars-based ingredients in the prepackaged product or as a percentage of the prepackaged product, and the order or percentage shall be the order or percentage of all the sugars-based ingredients before they are combined to form the product; and
+	- **(b)** separated from other ingredients by a bullet point or a comma.
+
+- **(3)** Each sugars-based ingredient mentioned immediately following the term “Sugars” shall be shown,
+	- **(a)** despite paragraph B.01.008.2(3)(b), entirely in lower case letters; and
+	- **(b)** in the case of more than one sugars-based ingredient,
+		- **(i)** in descending order of its proportion of the prepackaged product as prescribed by subsection B.01.008.2(3), and
+		- **(ii)** separated by a comma.
+
+- **(4)** Subsections (1) to (3) do not apply to the following prepackaged products:
+	- **(a)** a sweetening agent;
+	- **(b)** fruit or vegetable juice or vegetable drink that does not contain any sweetening agent, as well as any mixture of those juices and drinks, including any of those juices and drinks
+		- **(i)** to which fruit or vegetable purée or any mixture of those purées has been added,
+		- **(ii)** that are reconstituted, or
+		- **(iii)** that are a concentrate intended for dilution and consumption as juice or drink;
+	- **(c)** fruit or vegetable purée that does not contain any sweetening agent as well as any mixture of those purées;
+	- **(d)** prepackaged products that contain only one sugars-based ingredient that contains the word “sugar” in its common name; and
+	- **(e)** human milk substitutes and formulated liquid diets.
+> SOR/2016-305, s. 5.
 
 
 
@@ -1210,8 +1273,7 @@ the order or percentage, as the case may be, being based
 </tr>
 <tr>
 <td>3</td>
-<td>one or more of the colours listed in Table III of Division 16, except annatto where used in accordance with paragraph B.14.031(i) or subparagraph B.14.032(d)(xvi)</td>
-<td>colour</td>
+<td>[Repealed, SOR/2016-305, s. 6]</td>
 </tr>
 <tr>
 <td>4</td>
@@ -1265,7 +1327,7 @@ the order or percentage, as the case may be, being based
 </tr>
 <tr>
 <td>12</td>
-<td>milk coagulating enzymes from *Aspergillus oryzae* RET-1 (pBoel777), *Endothia parasitica, Rhizomucor miehei * (Cooney and Emerson) (previous name: *Mucor miehei* (Cooney and Emerson))or *Mucor pusillus Lindt*</td>
+<td>milk coagulating enzymes from *Aspergillus oryzae* RET-1 (pBoel777), *Endothia parasitica, Rhizomucor miehei* (Cooney and Emerson) (previous name: *Mucor miehei* (Cooney and Emerson))or *Mucor pusillus Lindt*</td>
 <td>microbial enzyme</td>
 </tr>
 <tr>
@@ -1326,21 +1388,21 @@ the order or percentage, as the case may be, being based
 </table>
 
 
-- **(4)** Notwithstanding subsection (2) and subsection B.01.008(5), where a food contains ingredients of the same class, those ingredients may be shown by a class name if
+- **(4)** Despite subsection (2) and subsection B.01.008.2(5), if a food contains ingredients of the same class, those ingredients may be shown by a class name if
 	- **(a)** they consist of more than one component and are not listed in the table to subsection B.01.009(1); and
 	- **(b)** their components are shown
 		- **(i)** immediately after the class name of the ingredients of which they are components, in such a manner as to indicate that they are components of the ingredients, and
 		- **(ii)** in descending order of their collective proportion of those ingredients.
-> SOR/79-23, ss. 7, 8(F); SOR/79-529, s. 3; SOR/80-632, s. 1; SOR/84-300, ss. 4(E), 5(F); SOR/91-124, s. 2; SOR/92-626, s. 9; SOR/92-725, s. 1; SOR/93-243, s. 2(F); SOR/93-465, s. 2; SOR/95-548, s. 5(F); SOR/97-516, s. 1; SOR/98-458, ss. 1, 7(F); SOR/2005-98, s. 7; SOR/2007-302, s. 4(F); SOR/2011-28, s. 3.
+> SOR/79-23, ss. 7, 8(F); SOR/79-529, s. 3; SOR/80-632, s. 1; SOR/84-300, ss. 4(E), 5(F); SOR/91-124, s. 2; SOR/92-626, s. 9; SOR/92-725, s. 1; SOR/93-243, s. 2(F); SOR/93-465, s. 2; SOR/95-548, s. 5(F); SOR/97-516, s. 1; SOR/98-458, ss. 1, 7(F); SOR/2005-98, s. 7; SOR/2007-302, s. 4(F); SOR/2011-28, s. 3; SOR/2016-305, s. 6.
 
 
 
 
 **B.01.010.1** 
 
-- **(1)** The following definitions apply in this section and in section B.01.010.3.
+- **(1)** The following definitions apply in this section and in sections B.01.010.2 to B.01.010.4.
 
-***food allergen*** means any protein from any of the following foods, or any modified protein, including any protein fraction, that is derived from any of the following foods:
+***food allergen*** means any protein from any of the following foods, or any modified protein, including any protein fraction, that is derived from any of the following foods:
 - **(a)** almonds, Brazil nuts, cashews, hazelnuts, macadamia nuts, pecans, pine nuts, pistachios or walnuts;
 - **(b)** peanuts;
 - **(c)** sesame seeds;
@@ -1351,20 +1413,22 @@ the order or percentage, as the case may be, being based
 - **(h)** crustaceans;
 - **(i)** shellfish;
 - **(j)** fish; or
-- **(k)** mustard seeds. (*allergène alimentaire*)
+- **(k)** mustard seeds. (*allergène alimentaire*)
 
-***gluten*** means
+***food allergen source, gluten source and added sulphites statement*** means a statement appearing on the label of a prepackaged product that indicates the source of a food allergen or gluten that is present in the product or the presence in the product of added sulphites in a total amount of 10 p.p.m. or more. (*mention des sources d’allergènes alimentaires ou de gluten et des sulfites ajoutés*)
+
+***gluten*** means
 - **(a)** any gluten protein from the grain of any of the following cereals or from the grain of a hybridized strain that is created from at least one of the following cereals:
 	- **(i)** barley,
 	- **(ii)** oats,
 	- **(iii)** rye,
 	- **(iv)** triticale,
 	- **(v)** wheat; or
-- **(b)** any modified gluten protein, including any gluten protein fraction, that is derived from the grain of any of the cereals referred to in paragraph (a) or from the grain of a hybridized strain referred to in that paragraph. (*gluten*)
+- **(b)** any modified gluten protein, including any gluten protein fraction, that is derived from the grain of any of the cereals referred to in paragraph (a) or from the grain of a hybridized strain referred to in that paragraph. (*gluten*)
 
 - **(2)** If a food allergen or gluten is present in a prepackaged product, the source of the food allergen or gluten, as the case may be, must be shown on the label of the product in
 	- **(a)** the list of ingredients; or
-	- **(b)** in a statement entitled “Contains” that complies with the requirements of subsection B.01.010.3(1).
+	- **(b)** in a food allergen source, gluten source and added sulphites statement.
 
 - **(3)** Subsection (2) does not apply to a food allergen or gluten that is present in a prepackaged product as a result of cross-contamination.
 
@@ -1373,92 +1437,120 @@ the order or percentage, as the case may be, being based
 - **(5)** Subsection (2) does not apply to a food allergen or gluten that is present in a prepackaged product for which a standard is prescribed by section B.02.130 or B.02.131 unless a list of ingredients is shown on the product’s label.
 
 - **(6)** The source of a food allergen required to be shown under subsection (2) must be shown
-	- **(a)** for a food allergen from a food referred to in one of paragraphs (a), (b) and (e) of the definition ***food allergen*** in subsection (1) or derived from that food, by the name of the food as shown in the applicable paragraph, expressed in the singular or plural;
-	- **(b)** for a food allergen from the food referred to in paragraph (c) of the definition ***food allergen*** in subsection (1) or derived from that food, by the name “sesame”, “sesame seed” or “sesame seeds”;
-	- **(c)** for a food allergen from a food referred to in one of paragraphs (d) and (f) of the definition ***food allergen*** in subsection (1) or derived from that food, by the name of the food as shown in the applicable paragraph;
-	- **(d)** for a food allergen from the food referred to in paragraph (g) of the definition ***food allergen*** in subsection (1) or derived from that food, by the name “soy”, “soya”, “soybean” or “soybeans”;
-	- **(e)** for a food allergen from a food referred to in one of paragraphs (h) to (j) of the definition ***food allergen*** in subsection (1) or derived from that food, by the common name of the food referred to in column II of item 6, 23 or 24 of the table to paragraph B.01.010(3)(a), whichever is applicable; and
-	- **(f)** for a food allergen from the food referred to in paragraph (k) of the definition ***food allergen*** in subsection (1) or derived from that food, by the name “mustard”, “mustard seed” or “mustard seeds”.
+	- **(a)** for a food allergen from a food referred to in one of paragraphs (a), (b) and (e) of the definition ***food allergen*** in subsection (1) or derived from that food, by the name of the food as shown in the applicable paragraph, expressed in the singular or plural;
+	- **(b)** for a food allergen from the food referred to in paragraph (c) of the definition ***food allergen*** in subsection (1) or derived from that food, by the name “sesame”, “sesame seed” or “sesame seeds”;
+	- **(c)** for a food allergen from a food referred to in one of paragraphs (d) and (f) of the definition ***food allergen*** in subsection (1) or derived from that food, by the name of the food as shown in the applicable paragraph;
+	- **(d)** for a food allergen from the food referred to in paragraph (g) of the definition ***food allergen*** in subsection (1) or derived from that food, by the name “soy”, “soya”, “soybean” or “soybeans”;
+	- **(e)** for a food allergen from a food referred to in one of paragraphs (h) to (j) of the definition ***food allergen*** in subsection (1) or derived from that food, by the common name of the food referred to in column II of item 6, 23 or 24 of the table to paragraph B.01.010(3)(a), whichever is applicable; and
+	- **(f)** for a food allergen from the food referred to in paragraph (k) of the definition ***food allergen*** in subsection (1) or derived from that food, by the name “mustard”, “mustard seed” or “mustard seeds”.
 
-- **(7)** The source of gluten required to be shown under subsection (2) must be shown
-	- **(a)** for gluten from the grain of a cereal referred to in one of subparagraphs (a)(i) to (v) of the definition ***gluten*** in subsection (1) or derived from that grain, by the name of the cereal as shown in the applicable subparagraph; and
-	- **(b)** for gluten from the grain of a hybridized strain created from one or more of the cereals referred to in subparagraphs (a)(i) to (v) of the definition ***gluten*** in subsection (1) or derived from that grain, by the names of the cereals as shown in the applicable subparagraphs.
+- **(7)** The source of gluten required to be shown under subsection (2) must be shown
+	- **(a)** for gluten from the grain of a cereal referred to in one of subparagraphs (a)(i) to (v) of the definition ***gluten*** in subsection (1) or derived from that grain, by the name of the cereal as shown in the applicable subparagraph; and
+	- **(b)** for gluten from the grain of a hybridized strain created from one or more of the cereals referred to in subparagraphs (a)(i) to (v) of the definition ***gluten*** in subsection (1) or derived from that grain, by the names of the cereals as shown in the applicable subparagraphs.
 
-- **(8)** For the purpose of paragraph (2)(a), the source of the food allergen or gluten must be shown in the list of ingredients, in parentheses, as follows:
+- **(8)** For the purpose of paragraph (2)(a), the source of the food allergen or gluten must be shown in the list of ingredients, in parentheses, as follows:
 	- **(a)** immediately after the ingredient that is shown in that list, if the food allergen or gluten
 		- **(i)** is that ingredient,
 		- **(ii)** is present in that ingredient, but is not a component of or present in a component of that ingredient, or
 		- **(iii)** is, or is present in, a component of that ingredient and the component is not shown in the list of ingredients; or
 	- **(b)** immediately after the component that is shown in the list of ingredients, if the food allergen or gluten is that component or is present in that component.
 
-- **(9)** Despite subsection (2), the source of the food allergen or gluten must be shown on the label of the product in the “Contains” statement if the food allergen or gluten
+- **(9)** Despite subsection (2), the source of the food allergen or gluten must be shown on the label of the product in the food allergen source, gluten source and added sulphites statement if the food allergen or gluten
 	- **(a)** is, or is present in, an ingredient that is not shown in the list of ingredients, but is not a component of that ingredient or present in a component of that ingredient; or
 	- **(b)** is, or is present in, a component and neither the component nor the ingredient in which it is present is shown in the list of ingredients.
 
-- **(10)** Despite subsection (8), the source of the food allergen or gluten is not required to be shown in parentheses immediately after the ingredient or component, as the case may be, if the source of the food allergen or gluten appears
+- **(10)** Despite subsection (8), the source of the food allergen or gluten is not required to be shown in parentheses immediately after the ingredient or component, as the case may be, if the source of the food allergen or gluten appears
 	- **(a)** in the list of ingredients
 		- **(i)** as part of the common name of the ingredient or component, or
-		- **(ii)** in parentheses, under subsection (8), immediately after another ingredient or component; or
-	- **(b)** in the “Contains” statement.
+		- **(ii)** in parentheses, under subsection (8), immediately after another ingredient or component; or
+	- **(b)** in the food allergen source, gluten source and added sulphites statement.
 
-- **(11)** For greater certainty, nothing in subsection (8) affects how an ingredient or component may be shown in the list of ingredients under paragraph B.01.010(3)(b).
-> SOR/2011-28, s. 4.
+- **(11)** For greater certainty, nothing in subsection (8) affects how an ingredient or component may be shown in the list of ingredients under paragraph B.01.010(3)(b).
+> SOR/2011-28, s. 4; SOR/2016-305, ss. 7, 72.
 
 
 
 
 **B.01.010.2** 
 
-- **(1)** In this section and in section B.01.010.3, ***sulphites*** means one or more food additives that are listed exclusively in column I of item 21 of the table to paragraph B.01.010(3)(b) and are present in a prepackaged product.
+- **(1)** In this section and in sections B.01.010.3 and B.01.010.4, sulphites means one or more food additives that are listed exclusively in column I of item 21 of the table to paragraph B.01.010(3)(b) and are present in a prepackaged product.
 
-- **(2)** For greater certainty, the definition ***sulphites*** in subsection (1) includes only sulphites that are present in the prepackaged product as a result of being added.
+- **(2)** For greater certainty, the definition ***sulphites*** in subsection (1) includes only sulphites that are present in the prepackaged product as a result of being added.
 
 - **(3)** If sulphites are present in a prepackaged product in a total amount of 10 parts per million or more and none are required to be shown in the list of ingredients under section B.01.008 or B.01.009, the sulphites must be shown on the label of the product in
 	- **(a)** the list of ingredients; or
-	- **(b)** a statement entitled “Contains” that complies with the requirements of subsection B.01.010.3(1).
+	- **(b)** the food allergen source, gluten source and added sulphites statement that complies with the requirements of subsection B.01.010.3(1).
 
 - **(4)** Subsection (3) does not apply to sulphites present in the prepackaged products referred to in paragraphs B.01.008(2)(a) to (e) unless a list of ingredients is shown on the product’s label.
 
 - **(5)** Subsection (3) does not apply to sulphites present in a prepackaged product for which a standard is prescribed by section B.02.130 or B.02.131 unless a list of ingredients is shown on the product’s label.
 
-- **(6)** Sulphites that are shown on a label of the product under subsection (3) must be shown as follows:
+- **(6)** Sulphites that are shown on a label of the product under subsection (3) must be shown as follows:
 	- **(a)** if the sulphites are shown in the list of ingredients,
 		- **(i)** by one of the common names “sulfites”, “sulfiting agents”, “sulphites” or “sulphiting agents”, or
-		- **(ii)** individually by the applicable name set out in column I of item 21 of the table to paragraph B.01.010(3)(b), except that the name “sodium dithionite”, “sulphur dioxide” or “sulphurous acid” must be followed, in parentheses, by one of the common names “sulfites”, “sulfiting agents”, “sulphites” or “sulphiting agents”; or
-	- **(b)** if the sulphites are shown in a “Contains” statement, by one of the common names “sulfites”, “sulfiting agents”, “sulphites” or “sulphiting agents”.
+		- **(ii)** individually by the applicable name set out in column I of item 21 of the table to paragraph B.01.010(3)(b), except that the name “sodium dithionite”, “sulphur dioxide” or “sulphurous acid” must be followed, in parentheses, by one of the common names “sulfites”, “sulfiting agents”, “sulphites” or “sulphiting agents”; or
+	- **(b)** if the sulphites are shown in a food allergen source, gluten source and added sulphites statement, by one of the common names “sulfites”, “sulfiting agents”, “sulphites” or “sulphiting agents”.
 
-- **(7)** Sulphites that are shown in the list of ingredients under paragraph (6)(a) must be shown as follows:
-	- **(a)** sulphites that are a component of an ingredient that is shown in the list of ingredients must be shown either in parentheses immediately after the ingredient or at the end of that list where they may be shown in any order with the other ingredients that are shown at the end of that list under subsection B.01.008(4);
-	- **(b)** in all other cases, the sulphites must be shown at the end of the list of ingredients where they may be shown in any order with the other ingredients that are shown at the end of that list under subsection B.01.008(4).
+- **(7)** Sulphites that are shown in the list of ingredients under paragraph (6)(a) must be shown as follows:
+	- **(a)** sulphites that are a component of an ingredient that is shown in the list of ingredients must be shown either in parentheses immediately after the ingredient or at the end of that list where they may be shown in any order with the other ingredients that are shown at the end of that list in accordance with subsection B.01.008.2(4); and
+	- **(b)** in all other cases, the sulphites must be shown at the end of the list of ingredients where they may be shown in any order with the other ingredients that are shown at the end of that list in accordance with subsection B.01.008.2(4).
 
 - **(8)** If sulphites are present in a prepackaged product in a total amount of 10 parts per million or more and any of them are required to be shown in the list of ingredients under section B.01.008 or B.01.009, in the case of sulphites shown individually by the name “sodium dithionite”, “sulphur dioxide” or “sulphurous acid”, that name must be followed, in parentheses, by one of the common names “sulfites”, “sulfiting agents”, “sulphites” or “sulphiting agents”.
 
-- **(9)** If the total amount of sulphites present in the prepackaged product is 10 parts per million or more, sulphites that are required to be shown in a list of ingredients under section B.01.008 or B.01.009 may also be shown on the label of the product in a “Contains” statement that complies with the requirements of subsection B.01.010.3(1).
+- **(9)** If the total amount of sulphites present in the prepackaged product is 10 parts per million or more, sulphites that are required to be shown in a list of ingredients under section B.01.008 or B.01.009 may also be shown on the label of the product in a food allergen source, gluten source and added sulphites statement that complies with the requirements of subsection B.01.010.3(1).
 
-- **(10)** Despite subparagraph (6)(a)(ii) and subsection (8), if sulphites are shown individually in a list of ingredients, by the name “sodium dithionite”, “sulphur dioxide” or “sulphurous acid”, that name is not required to be followed, in parentheses, by one of the common names “sulfites”, “sulfiting agents”, “sulphites” or “sulphiting agents” if
+- **(10)** Despite subparagraph (6)(a)(ii) and subsection (8), if sulphites are shown individually in a list of ingredients, by the name “sodium dithionite”, “sulphur dioxide” or “sulphurous acid”, that name is not required to be followed, in parentheses, by one of the common names “sulfites”, “sulfiting agents”, “sulphites” or “sulphiting agents” if
 	- **(a)** in the list of ingredients,
 		- **(i)** the term “sulfite” or “sulphite” appears in the common name of another sulphite, or
 		- **(ii)** one of the common names “sulfites”, “sulfiting agents”, “sulphites” or “sulphiting agents” is shown in parentheses following another sulphite; or
-	- **(b)** one of the common names “sulfites”, “sulfiting agents”, “sulphites” or “sulphiting agents” is shown in a “Contains” statement on the label of the product.
-> SOR/2011-28, s. 4.
+	- **(b)** one of the common names “sulfites”, “sulfiting agents”, “sulphites” or “sulphiting agents” is shown in a food allergen source, gluten source and added sulphites statement on the label of the product.
+> SOR/2011-28, s. 4; SOR/2016-305, ss. 8, 72.
 
 
 
 
 **B.01.010.3** 
 
-- **(1)** If a “Contains” statement is included on the label of a prepackaged product under any of subsections B.01.010.1(2), B.01.010.1(9), B.01.010.2(3) or B.01.010.2(9), that statement must
-	- **(a)** appear after the list of ingredients for the product, if any, without any intervening printed, written or graphic material; and
+- **(1)** A food allergen source, gluten source and added sulphites statement on the label of a prepackaged product shall
+	- **(a)** be introduced by a title that shall
+		- **(i)** consist of the term
+			- **(A)** “Contains” or “Contains:” in the English version of the statement, and
+			- **(B)** “*Contient*” or “*Contient*:” in the French version of the statement,
+		- **(ii)** be shown in bold type, and
+		- **(iii)** be shown without any intervening printed, written or graphic material appearing between the title and the rest of the statement;
+	- **(a.1)** appear, in respect of each linguistic version, after the list of ingredients appearing in the same language, without any intervening printed, written or graphic material;
+	- **(a.2)** appear on the same continuous surface as the list of ingredients
+		- **(i)** against the same background colour as that of the list, and
+		- **(ii)** if the list of ingredients is differentiated by means of a solid-line border or lines in accordance with paragraph B.01.008.2(2)(a), within the border or the lines;
 	- **(b)** include all of the following information, even if all or part of that information is also shown in the list of ingredients for the product:
 		- **(i)** the source for each food allergen that is present in the product,
 		- **(ii)** each source for the gluten that is present in the product, and
-		- **(iii)** one of the common names “sulfites”, “sulfiting agents”, “sulphites” or “sulphiting agents”, if the total amount of sulphites present in the product is 10 parts per million or more.
+		- **(iii)** one of the common names “sulfites”, “sulfiting agents”, “sulphites” or “sulphiting agents”, if the total amount of sulphites present in the product is 10 parts per million or more; and
+	- **(c)** show information entries in regular or bold type, using lower case letters except for the first letter of each entry, which shall be an upper case letter, and shall use a bullet point or comma to separate each entry.
 
-- **(2)** Despite paragraph (1)(b), the following information is not required to be shown in the statement more than once:
+- **(2)** Despite paragraph (1)(b), the following information is not required to be shown in the statement more than once:
 	- **(a)** the same source of a food allergen;
 	- **(b)** the same source of gluten; and
 	- **(c)** one of the common names “sulfites”, “sulfiting agents”, “sulphites” or “sulphiting agents”.
-> SOR/2011-28, s. 4.
+
+- **(3)** If the English and French versions of the statement appear on the same continuous surface of the label, the version that follows the other version shall not begin on the same line as that on which the other version ends, except in the case of a prepackaged product that has an available display surface of less than 100 cm<sup>2</sup>.
+> SOR/2011-28, s. 4; SOR/2016-305, s. 9.
+
+
+
+
+**B.01.010.4** 
+
+- **(1)** If the label of a prepackaged product includes a declaration alerting consumers that, due to a risk of cross-contamination, the product may contain the source of a food allergen or gluten,
+	- **(a)** the declaration must be shown immediately after the food allergen source, gluten source and added sulphites statement or, if there is none, after the list of ingredients, and must appear on the same continuous surface as the statement, if any, and the list of ingredients
+		- **(i)** against the same background colour as that of the list, and
+		- **(ii)** if the list of ingredients and the statement, if any, are differentiated by means of a solid-line border or solid lines in accordance with paragraph B.01.008.2(2)(a) or B.01.010.3(1)(a.2), within the border or the lines;
+	- **(b)** the declaration must appear without any intervening printed, written or graphic material between it and the list of ingredients or statement that immediately precedes it, except that a solid line may appear before the declaration if the declaration begins on a different line than that on which the list of ingredients or the statement that immediately precedes it ends;
+	- **(c)** the declaration must appear in bold type if it begins on the same line as that on which the list of ingredients or the statement that immediately precedes it ends and it is not introduced by a title; and
+	- **(d)** the title that introduces the declaration, if any, must appear in bold type if the declaration begins on the same line as that on which the list of ingredients or the statement that immediately precedes it ends.
+
+- **(2)** For the purpose of subsection (1), the source of a food allergen or gluten must be shown in accordance with subsection B.01.010.1(6) or (7), respectively.
+> SOR/2016-305, s. 10.
 
 
 
@@ -1483,24 +1575,24 @@ the list of ingredients for the 12-month period commencing from the time the lab
 
 - **(1)** In this section,
 
-***local government unit*** means a city, metropolitan government area, town, village, municipality or other area of local government but does not include any local government unit situated within a bilingual district established under the [Official Languages Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2031%20(4th%20Supp.).md); (*collectivité locale*)
+***local government unit*** means a city, metropolitan government area, town, village, municipality or other area of local government but does not include any local government unit situated within a bilingual district established under the [Official Languages Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2031%20(4th%20Supp.).md); (*collectivité locale*)
 
-***local food*** means a food that is manufactured, processed, produced or packaged in a local government unit and sold only in
+***local food*** means a food that is manufactured, processed, produced or packaged in a local government unit and sold only in
 - **(a)** the local government unit in which it is manufactured, processed or packaged,
 - **(b)** one or more local government units that are immediately adjacent to the one in which it is manufactured, processed, produced or packaged, or
-- **(c)** the local government unit in which it is manufactured, processed, produced or packaged and in one or more local government units that are immediately adjacent to the one in which it is manufactured, processed, produced or packaged; (*produit alimentaire local*)
+- **(c)** the local government unit in which it is manufactured, processed, produced or packaged and in one or more local government units that are immediately adjacent to the one in which it is manufactured, processed, produced or packaged; (*produit alimentaire local*)
 
-***mother tongue*** means the language first learned in childhood by persons in any area of Canada and still understood by them as ascertained by the decennial census taken immediately preceding the date on which the food referred to in subsection (3) is sold to the consumer; (*langue maternelle*)
+***mother tongue*** means the language first learned in childhood by persons in any area of Canada and still understood by them as ascertained by the decennial census taken immediately preceding the date on which the food referred to in subsection (3) is sold to the consumer; (*langue maternelle*)
 
-***official languages*** means the English language and the French language; (*langues officielles*)
+***official languages*** means the English language and the French language; (*langues officielles*)
 
-***specialty food*** means a food that
+***specialty food*** means a food that
 - **(a)** has special religious significance and is used in religious ceremonies; or
 - **(b)** is an imported food
 	- **(i)** that is not widely used by the population as a whole in Canada, and
-	- **(ii)** for which there is no readily available substitute that is manufactured, processed, produced or packaged in Canada and that is generally accepted as being a comparable substitute; (*aliment spécial*)
+	- **(ii)** for which there is no readily available substitute that is manufactured, processed, produced or packaged in Canada and that is generally accepted as being a comparable substitute; (*aliment spécial*)
 
-***test market food*** means a food that, prior to the date of the notice of intention respecting that food referred to in subsection (5), was not sold in Canada in that form and that differs substantially from any other food sold in Canada with respect to its composition, function, state or packaging form and includes a food referred to in section B.01.054. (*produit alimentaire d’essai*)
+***test market food*** means a food that, prior to the date of the notice of intention respecting that food referred to in subsection (5), was not sold in Canada in that form and that differs substantially from any other food sold in Canada with respect to its composition, function, state or packaging form and includes a food referred to in section B.01.054. (*produit alimentaire d’essai*)
 
 - **(2)** Subject to subsections (9), (10) and (11), all information required by these Regulations to be shown on the label of a food shall be shown in both official languages.
 
@@ -1508,11 +1600,11 @@ the list of ingredients for the 12-month period commencing from the time the lab
 	- **(a)** it is sold in a local government unit in which one of the official languages is the mother tongue of less than 10 per cent of the total number of persons residing in the local government unit; and
 	- **(b)** the information required by these Regulations to be shown on the label of a food is shown in the official language that is the mother tongue of at least 10 per cent of the total number of persons residing in the local government unit.
 
-- **(4)** Where one of the official languages is the mother tongue of less than 10 per cent of the total number of persons residing in a local government unit and the other official language is the mother tongue of less than 10 per cent of the total number of persons residing in the same local government unit, subsection (3) does not apply.
+- **(4)** Where one of the official languages is the mother tongue of less than 10 per cent of the total number of persons residing in a local government unit and the other official language is the mother tongue of less than 10 per cent of the total number of persons residing in the same local government unit, subsection (3) does not apply.
 
 - **(5)** Subsection (3) does not apply to a test market food unless the person who intends to conduct the test marketing of the food has, six weeks prior to conducting the test marketing, filed with the President of the Canadian Food Inspection Agency a notice of intention in a form acceptable to the President.
 
-- **(6)** A test market food shall, for the purposes of subsection (3), cease to be a test market food upon the expiration of 12 cumulative months after the date on which it was first offered for sale as a test market food but any test market food that was acquired for resale by a person, other than the person who filed the notice of intention referred to in subsection (5), before the expiration of those 12 cumulative months, shall continue to be a test market food for the purposes of subsection (3) until it is sold.
+- **(6)** A test market food shall, for the purposes of subsection (3), cease to be a test market food upon the expiration of 12 cumulative months after the date on which it was first offered for sale as a test market food but any test market food that was acquired for resale by a person, other than the person who filed the notice of intention referred to in subsection (5), before the expiration of those 12 cumulative months, shall continue to be a test market food for the purposes of subsection (3) until it is sold.
 
 - **(7)** Subsection (2) does not apply to a specialty food if the information required by these Regulations to be shown on the label thereon is shown in one of the official languages.
 
@@ -1569,10 +1661,10 @@ the list of ingredients for the 12-month period commencing from the time the lab
 - Manhattan
 - Martini
 
-- **(11)** Subsection (2) does not apply to the label of a shipping container destined to a commercial or industrial enterprise or institution, if
+- **(11)** Subsection (2) does not apply to the label of a shipping container destined to a commercial or industrial enterprise or an institution, if
 	- **(a)** the shipping container and its contents are not resold as a one unit prepackaged product to a consumer at the retail level; and
 	- **(b)** all information required by these Regulations to be shown on a label of a food is shown in one of the official languages.
-> SOR/79-23, s. 9; SOR/79-529, s. 4; SOR/84-300, s. 6; SOR/93-603, s. 1; SOR/95-548, s. 5; SOR/2000-184, s. 62.
+> SOR/79-23, s. 9; SOR/79-529, s. 4; SOR/84-300, s. 6; SOR/93-603, s. 1; SOR/95-548, s. 5; SOR/2000-184, s. 62; SOR/2016-305, s. 11.
 
 
 
@@ -1594,8 +1686,8 @@ the list of ingredients for the 12-month period commencing from the time the lab
 	- **(ii)** is sweetened with aspartame and (naming the other sweeteners),
 in letters of at least the same size and prominence as the letters used in the numerical portion of the declaration of net quantity as required under section 14 of the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md);
 - **(c)** a statement on any part of the label to the effect that aspartame contains phenylalanine; and
-- **(d)** a statement setting out the aspartame content expressed in milligrams per serving of stated size. 
-> SOR/81-617, s. 2; SOR/88-559, s. 5; SOR/2003-11, s. 6.
+- **(d)** a statement setting out the aspartame content expressed in milligrams per serving of stated size.
+> SOR/81-617, s. 2; SOR/88-559, s. 5; SOR/2003-11, s. 6; SOR/2016-305, s. 75(F).
 
 
 
@@ -1609,7 +1701,7 @@ in letters of at least the same size and prominence as the letters used in the n
 	- **(d)** a statement setting out the aspartame content expressed in milligrams per serving of stated size.
 
 - **(2)** [Repealed, SOR/2007-176, s. 1]
-> SOR/81-617, s. 2; SOR/88-559, s. 6; SOR/2003-11, s. 7; SOR/2007-176, s. 1.
+> SOR/81-617, s. 2; SOR/88-559, s. 6; SOR/2003-11, s. 7; SOR/2007-176, s. 1; SOR/2016-305, s. 75(F).
 
 
 
@@ -1617,8 +1709,8 @@ in letters of at least the same size and prominence as the letters used in the n
 **B.01.016** The label of a food, other than a table-top sweetener, that contains sucralose shall carry the following information:
 - **(a)** subject to paragraph (b), a statement on the principal display panel to the effect that the food contains sucralose or is sweetened with sucralose, in letters of at least the same size and prominence as the letters used for showing the numerical quantity in the declaration of net quantity as required under section 14 of the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md);
 - **(b)** where sucralose is used in conjunction with another sweetener or a sweetening agent or both, the names thereof shown in a statement on the principal display panel to the effect that the food contains, or is sweetened with, sucralose and the other sweetener or the sweetening agent or both, as the case may be, in letters as described in paragraph (a); and
-- **(c)** a statement setting out the sucralose content expressed in milligrams per serving of stated size. 
-> SOR/91-527, s. 2; SOR/94-625, s. 1; SOR/2003-11, s. 8.
+- **(c)** a statement setting out the sucralose content expressed in milligrams per serving of stated size.
+> SOR/91-527, s. 2; SOR/94-625, s. 1; SOR/2003-11, s. 8; SOR/2016-305, s. 75(F).
 
 
 
@@ -1631,13 +1723,13 @@ in letters of at least the same size and prominence as the letters used in the n
 	- **(c)** a statement setting out the sucralose content expressed in milligrams per serving of stated size.
 
 - **(2)** [Repealed, SOR/2007-176, s. 2]
-> SOR/91-527, s. 2; SOR/94-625, s. 2; SOR/2003-11, s. 9; SOR/2007-176, s. 2.
+> SOR/91-527, s. 2; SOR/94-625, s. 2; SOR/2003-11, s. 9; SOR/2007-176, s. 2; SOR/2016-305, s. 75(F).
 
 
 
 
 **B.01.018** The label of a food that contains polydextrose shall indicate the amount of polydextrose expressed in grams per serving of stated size.
-> SOR/93-276, s. 2; SOR/94-779, s. 1; SOR/97-512, s. 1; SOR/2003-11, s. 10.
+> SOR/93-276, s. 2; SOR/94-779, s. 1; SOR/97-512, s. 1; SOR/2003-11, s. 10; SOR/2016-305, s. 75(F).
 
 
 
@@ -1646,7 +1738,7 @@ in letters of at least the same size and prominence as the letters used in the n
 - **(a)** subject to paragraph (b), a statement on the principal display panel to the effect that the food contains acesulfame-potassium or is sweetened with acesulfame-potassium, in letters of at least the same size and prominence as the characters used for showing the numerical quantity in the declaration of net quantity as required under section 14 of the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md);
 - **(b)** where acesulfame-potassium is used in conjunction with another sweetener or a sweetening agent or both, the names thereof shown in a statement on the principal display panel to the effect that the food contains, or is sweetened with, acesulfame-potassium and the other sweetener or the sweetening agent or both, as the case may be, in letters as described in paragraph (a); and
 - **(c)** a statement setting out the acesulfame-potassium content expressed in milligrams per serving of stated size.
-> SOR/94-625, s. 3; SOR/2003-11, s. 11.
+> SOR/94-625, s. 3; SOR/2003-11, s. 11; SOR/2016-305, s. 75(F).
 
 
 
@@ -1659,7 +1751,7 @@ in letters of at least the same size and prominence as the letters used in the n
 	- **(c)** a statement setting out the acesulfame-potassium content expressed in milligrams per serving of stated size.
 
 - **(2)** [Repealed, SOR/2007-176, s. 3]
-> SOR/94-625, s. 3; SOR/2003-11, s. 12; SOR/2007-176, s. 3.
+> SOR/94-625, s. 3; SOR/2003-11, s. 12; SOR/2007-176, s. 3; SOR/2016-305, s. 75(F).
 
 
 
@@ -1669,7 +1761,7 @@ in letters of at least the same size and prominence as the letters used in the n
 - **(1)** The label of a food that contains erythritol shall carry a statement indicating the amount of erythritol expressed in grams per serving of stated size unless the label carries a nutrition facts table.
 
 - **(2)** The statement of the amount of erythritol shall be grouped together with the statement of the amount of any other sugar alcohols and the amount of polydextrose.
-> SOR/2004-261, s. 1.
+> SOR/2004-261, s. 1; SOR/2016-305, s. 75(F).
 
 
 
@@ -1684,7 +1776,7 @@ in letters of at least the same size and prominence as the letters used in the n
 	- **(i)** the energy value, expressed in Calories (Calories or Cal) and kilojoules (kilojoules or kJ),
 	- **(ii)** the protein, fat and carbohydrate content, expressed in grams, and
 	- **(iii)** the neotame content, expressed in milligrams.
-> SOR/2007-176, s. 4.
+> SOR/2007-176, s. 4; SOR/2016-305, s. 75(F).
 
 
 
@@ -1697,7 +1789,7 @@ in letters of at least the same size and prominence as the letters used in the n
 	- **(i)** the energy value, expressed in Calories (Calories or Cal) and kilojoules (kilojoules or kJ),
 	- **(ii)** the protein, fat and carbohydrate content, expressed in grams, and
 	- **(iii)** the neotame content, expressed in milligrams.
-> SOR/2007-176, s. 4.
+> SOR/2007-176, s. 4; SOR/2016-305, s. 75(F).
 
 
 
@@ -1788,13 +1880,17 @@ in letters of at least the same size and prominence as the letters used in the n
 
 **B.01.045** A food additive shall,
 - **(a)** where specifications are set out in this Part for that additive, meet those specifications;
-- **(b)** where no specifications are set out in this Part for that additive but specifications are set out for it in the Food Chemicals Codex, Fourth Edition, 1996, published by the National Academy of Sciences, Washington, D.C., United States, as amended from time to time, meet those specifications;
-- **(c)** in the case of lactitol and maltitol, meet the specifications established by the Joint FAO/WHO Expert Committee on Food Additives as set out in the Specifications for identity and purity of certain food additives — FAO Food and Nutrition Paper 38, published in 1988 by the Food and Agriculture Organization of the United Nations, Rome;
+- **(b)** where no specifications are set out in this Part for the additive, meet the specifications for it, if any, set out in
+	- **(i)** the Food Chemicals Codex, tenth edition, 2016, published by the United States Pharmacopeial Convention, Rockville, MD, United States of America, as that or any subsequent edition, including their supplements, may be amended from time to time; or
+	- **(ii)** the Combined Compendium of Food Additive Specifications, prepared by the Joint FAO/WHO Expert Committee on Food Additives and published by the Food and Agriculture Organization of the United Nations, on the website of the Organization, as amended from time to time; and
+- **(c)** in the case of a food colour for which no specifications exist under paragraph (a) or (b), contain no more than
+	- **(i)** 3 parts per million of arsenic, and
+	- **(ii)** 10 parts per million of lead.
 - **(d)** [Repealed, SOR/2010-142, s. 1]
 - **(e)** [Repealed, SOR/97-512, s. 2]
-- **(f)** in the case of isomalt, meet the specifications established by the Joint FAO/WHO Expert Committee on Food Additives as set out in the Compendium of food additive specifications, Addendum 4 — FAO Food and Nutrition Paper 52, published in 1996 by the Food and Agriculture Organization of the United Nations, Rome.
+- **(f)** [Repealed, SOR/2016-305, s. 12]
 - **(g)** [Repealed, SOR/97-512, s. 2]
-> SOR/82-383, s. 1; SOR/91-527, s. 3; SOR/92-93, s. 1; SOR/92-551, s. 1; SOR/93-276, s. 3; SOR/94-625, s. 4; SOR/94-779, s. 2; SOR/95-172, s. 2; SOR/97-512, s. 2; SOR/2010-142, s. 1.
+> SOR/82-383, s. 1; SOR/91-527, s. 3; SOR/92-93, s. 1; SOR/92-551, s. 1; SOR/93-276, s. 3; SOR/94-625, s. 4; SOR/94-779, s. 2; SOR/95-172, s. 2; SOR/97-512, s. 2; SOR/2010-142, s. 1; SOR/2016-305, s. 12.
 
 
 
@@ -1859,10 +1955,10 @@ in letters of at least the same size and prominence as the letters used in the n
 
 **B.01.053** No person shall sell a product represented as a ready breakfast or instant breakfast or by any similar designation unless each serving of stated size of the product contains
 - **(a)** not less than 4.0 mg. iron;
-- **(b)** Vitamin A, thiamine, riboflavin, niacin or niacinamide and Vitamin C;
+- **(b)** Vitamin A, thiamine, riboflavin, niacin or niacinamide and Vitamin C;
 - **(c)** a good dietary source of protein; and
-- **(d)** where consumed as directed, not less than 300 calories.
-> SOR/2003-11, s. 13.
+- **(d)** where consumed as directed, not less than 300 calories.
+> SOR/2003-11, s. 13; SOR/2016-305, s. 75(F).
 
 
 
@@ -1957,8 +2053,8 @@ in letters of at least the same size and prominence as the letters used in the n
 
 
 
-**B.01.091** The label of any solid cut meat or solid cut poultry meat that has had phosphate salts or water added to it, that is not cured and that is prepackaged at retail shall contain a statement of the ingredients contained in the food in accordance with subsections B.01.008(3) to (5). 
-> SOR/94-262, s. 1; SOR/2003-11, s. 14.
+**B.01.091** The label of any solid cut meat or solid cut poultry meat that has had phosphate salts or water added to it, that is not cured and that is prepackaged at retail shall contain a statement of the ingredients contained in the food in accordance with subsections B.01.008.2(1) to (5) and (7).
+> SOR/94-262, s. 1; SOR/2003-11, s. 14; SOR/2016-305, s. 13.
 
 
 
@@ -2048,8 +2144,11 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 - **(1)** No person shall, on the label of or in any advertisement for a food, other than in the nutrition facts table, if any, include a declaration of the food’s energy value or the amount of a nutrient contained in the food unless it is declared in the following manner, per serving of stated size:
 	- **(a)** in the case of the energy value, in Calories;
-	- **(b)** in the case of a vitamin set out in column I of Table I to Division 1 of Part D or a mineral nutrient set out in column I of Table I to Division 2 of Part D, in the units specified in that column;
-	- **(c)** in the case of sodium, potassium or cholesterol, in milligrams;
+	- **(b)** in the case of a vitamin referred to in subsection D.01.002(1), in the applicable unit set out in subsection D.01.003(1);
+	- **(b.1)** in the case of the following mineral nutrients:
+		- **(i)** for sodium, potassium, calcium, phosphorus, magnesium, iron, zinc, chloride, copper and manganese, in milligrams, and
+		- **(ii)** for iodide, chromium, selenium and molybdenum, in micrograms;
+	- **(c)** in the case of cholesterol, in milligrams;
 	- **(d)** in the case of the mineral ion content of prepackaged water or ice, in parts per million; and
 	- **(e)** in any other case, in grams.
 
@@ -2061,12 +2160,22 @@ shall be shown on the principal display panel of the label of a simulated meat p
 - **(3)** A declaration referred to in subsection (1) or (2) that appears on the label of a food shall be
 	- **(a)** in English and French; or
 	- **(b)** in one of those languages, if in accordance with subsection B.01.012(3) or (7) the information that is required by these Regulations to be shown on the label of the food may be shown in that language only and is shown on the label in that language.
-> SOR/88-559, s. 15; SOR/2003-11, s. 16.
+> SOR/88-559, s. 15; SOR/2003-11, s. 16; SOR/2016-305, ss. 14, 75(F).
 
 
 
 
-**B.01.302 to B.01.304** [Repealed, SOR/2003-11, s. 17]
+**B.01.302** 
+
+- **(1)** If the label of a multiple-serving prepackaged product indicates that the product contains or, when prepared as directed in or on the package, provides a specified number of servings or portions, that information must be based on the serving of stated size set out in the nutrition facts table for the product.
+
+- **(2)** Despite subsection (1), the label of the multiple-serving prepackaged product shall not include the information referred to in that subsection if the serving of stated size set out in the nutrition facts table for the product is expressed in cups or tablespoons.
+> SOR/2016-305, s. 15.
+
+
+
+
+**B.01.303 and B.01.304** [Repealed, SOR/2003-11, s. 17]
 
 
 
@@ -2093,8 +2202,8 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 - **(4)** A representation referred to in subsection (1) or (2) that appears on the label of a food shall be
 	- **(a)** in English and French; or
-	- **(b)** in one of those languages, if in accordance with subsection B.01.012(3) or (7) the information that is required by these Regulations to be shown on the label of the food may be shown in that language only and is shown on the label in that language. 
-> SOR/88-559, s. 15; SOR/90-830, s. 3(F); SOR/2003-11, s. 18.
+	- **(b)** in one of those languages, if in accordance with subsection B.01.012(3) or (7) the information that is required by these Regulations to be shown on the label of the food may be shown in that language only and is shown on the label in that language.
+> SOR/88-559, s. 15; SOR/90-830, s. 3(F); SOR/2003-11, s. 18; SOR/2016-305, s. 75(F).
 
 
 
@@ -2116,7 +2225,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 - **(5)** A statement or claim referred to in subsection (2) or (3) that appears on the label of a food shall be
 	- **(a)** in English and French; or
 	- **(b)** in one of those languages, if in accordance with subsection B.01.012(3) or (7) the information that is required by these Regulations to be shown on the label of the food may be shown in that language only and is shown on the label in that language.
-> SOR/88-559, s. 15; SOR/2003-11, s. 20.
+> SOR/88-559, s. 15; SOR/2003-11, s. 20; SOR/2016-305, s. 75(F).
 
 
 
@@ -2126,6 +2235,8 @@ shall be shown on the principal display panel of the label of a simulated meat p
 - **(1)** If a statement or claim described in subsection B.01.311(3) is made on the label of or in an advertisement for a food that is not a prepackaged product or in an advertisement for a prepackaged product that is not made or placed by or on the direction of the manufacturer of the product, the label or advertisement shall include a declaration, per serving of stated size, of
 	- **(a)** the energy value, if the energy value is the subject of the statement or claim; or
 	- **(b)** the amount of the nutrient, if a nutrient is the subject of the statement or claim.
+
+- **(1.1)** Subsection (1) does not apply if the statement or claim is made on the label of or in the advertisement for a fresh vegetable or fruit or any combination of fresh vegetables or fruits without any added ingredients, an orange with added food colour or a fresh vegetable or fruit coated with mineral oil, paraffin wax, petrolatum or any other protective coating.
 
 - **(2)** If the statement or claim is made in an advertisement other than a radio or television advertisement, the declaration referred to in subsection (1) shall be
 	- **(a)** adjacent to, without any intervening printed, written or graphic material, the statement or claim, if the statement or claim is made only once, or the most prominent statement or claim, if the statement or claim is made more than once; and
@@ -2140,8 +2251,8 @@ shall be shown on the principal display panel of the label of a simulated meat p
 - **(5)** If the declaration referred to in subsection (1) is communicated in the visual mode of a television advertisement, it shall
 	- **(a)** appear concurrently with and for at least the same amount of time as the statement or claim;
 	- **(b)** be adjacent to, without any intervening printed, written or graphic material, the statement or claim, if the statement or claim is made only once, or the most prominent statement or claim, if the statement or claim is made more than once; and
-	- **(c)** be shown in letters of at least the same size and prominence as those of the statement or claim, if the statement or claim is made only once, or the most prominent statement or claim, if the statement or claim is made more than once. 
-> SOR/2003-11, s. 20.
+	- **(c)** be shown in letters of at least the same size and prominence as those of the statement or claim, if the statement or claim is made only once, or the most prominent statement or claim, if the statement or claim is made more than once.
+> SOR/2003-11, s. 20; SOR/2016-305, ss. 16, 75(F).
 
 
 
@@ -2150,12 +2261,12 @@ shall be shown on the principal display panel of the label of a simulated meat p
 #### Interpretation
 
 
-**B.01.400** The following definitions apply in sections B.01.401 to B.01.603.
+**B.01.400** 
 
-***fat*** means all fatty acids expressed as triglycerides. (*lipides*)
+- **(1)** For the purpose of sections B.01.401 to B.01.603, fat means all fatty acids expressed as triglycerides.
 
-***point*** means a unit of measurement for type size that is known as an Anglo-American point and is equal to 0.3514598 mm. (*point*) 
-> SOR/2003-11, s. 20.
+- **(2)** For the purpose of sections B.01.401 to B.01.603, the amount of vitamins shall be determined in accordance with section D.01.003.
+> SOR/2003-11, s. 20; SOR/2016-305, s. 17.
 
 
 
@@ -2170,13 +2281,17 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **B.01.401** 
 
-- **(1)** Except as otherwise provided in this section and sections B.01.402 to B.01.406 and B.01.467, the label of a prepackaged product shall carry a nutrition facts table that contains only the information set out in column 1 of the table to this section expressed using a description set out in column 2, in the unit set out in column 3 and in the manner set out in column 4.
+- **(1)** Except as otherwise provided in this section and sections B.01.402 to B.01.406 and B.01.467 to B.01.469, the label of a prepackaged product shall carry a nutrition facts table that contains only the information set out in column 1 of the table to this section, expressed using a description set out in column 2, in the unit set out in column 3 and in the manner set out in column 4.
+
+- **(1.1)** For the purpose of subsection (1), the serving of stated size set out in a nutrition facts table for a prepackaged product, as expressed in a metric unit, shall be used as the basis for determining the information appearing in the nutrition facts table in respect of the energy value and nutrient content of the product.
+
+- **(1.2)** The percentage of the daily value for a mineral nutrient shown in the nutrition facts table for a prepackaged product in accordance with subsection (1) shall be established on the basis of the amount, by weight, of the mineral nutrient per serving of stated size for the product, rounded off in the applicable manner set out in column 4 of the table to this section.
 
 - **(2)** Subsection (1) does not apply to a prepackaged product if
-	- **(a)** all the information set out in column 1 of the table to this section, other than in respect of item 1 (“Serving of stated size”), may be expressed as “0” in the nutrition facts table in accordance with this section;
+	- **(a)** all the information set out in column 1 of the table to this section, other than in respect of item 1 (“Serving of stated size”), may be expressed as “0” in the nutrition facts table in accordance with this section;
 	- **(b)** the product is
 		- **(i)** a beverage with an alcohol content of more than 0.5%,
-		- **(ii)** a fresh vegetable or fruit or any combination of fresh vegetables or fruits without any added ingredients, an orange with added food colour or a fresh vegetable or fruit coated with paraffin wax or petrolatum,
+		- **(ii)** [Repealed, SOR/2016-305, s. 18]
 		- **(iii)** a raw single ingredient meat, meat by-product, poultry meat or poultry meat by-product,
 		- **(iv)** a raw single ingredient marine or fresh water animal product,
 		- **(v)** sold only in the retail establishment where the product is prepared and processed from its ingredients, including from a pre-mix if an ingredient other than water is added to the pre-mix during the preparation and processing of the product,
@@ -2184,18 +2299,18 @@ shall be shown on the principal display panel of the label of a simulated meat p
 		- **(vii)** an individual serving that is sold for immediate consumption and that has not been subjected to a process to extend its durable life, including special packaging, or
 		- **(viii)** sold only in the retail establishment where the product is packaged, if the product is labelled by means of a sticker and has an available display surface of less than 200 cm<sup>2</sup>; or
 	- **(c)** the product is
-		- **(i)** a prepackaged confection, commonly known as a one bite confection, that is sold individually,
+		- **(i)** a fresh vegetable or fruit or any combination of fresh vegetables or fruits without any added ingredients, an orange with added food colour or a fresh vegetable or fruit coated with mineral oil, paraffin wax, petrolatum or any other protective coating,
 		- **(ii)** a prepackaged individual portion of food that is solely intended to be served by a restaurant or other commercial enterprise with meals or snacks, or
 		- **(iii)** milk, partly skimmed milk, skim milk, goat’s milk, partly skimmed goat’s milk, skimmed goat’s milk, (naming the flavour) milk, (naming the flavour) partly skimmed milk, (naming the flavour) skim milk or cream sold in a refillable glass container.
 
-- **(3)** Despite paragraphs (2)(a) and (b), subsection (1) applies to a prepackaged product if
+- **(3)** Despite paragraphs (2)(a) and (b), subsection (1) applies to a prepackaged product if
 	- **(a)** the product contains an added vitamin or mineral nutrient;
 	- **(b)** a vitamin or mineral nutrient is declared as a component of one of the product’s ingredients other than flour;
 	- **(c)** the product contains added acesulfame-potassium, aspartame, neotame or sucralose;
 	- **(d)** the product is a meat, meat by-product, poultry meat or poultry meat by-product that is ground; or
 	- **(e)** the label of the product, or any advertisement for the product that is made or placed by or on the direction of the manufacturer of the product, contains
-		- **(i)** a reference to the energy value, a nutrient set out in column 1 of the table to this section or in column 1 of the table to section B.01.402 or a constituent of such a nutrient, other than information required by Division 12 or a reference to the common name of an ingredient in the list of ingredients for the product,
-		- **(ii)** a representation that expressly or implicitly indicates that the product has particular nutritional or health-related properties, including any statement or claim set out in column 4 of the table following section B.01.513 or column 1 of the table following section B.01.603 or referred to in section B.01.311, D.01.006 or D.02.004,
+		- **(i)** a reference to the energy value, a nutrient set out in column 1 of the table to this section or in column 1 of the table to section B.01.402 or a constituent of such a nutrient, other than information required by Division 12 or a reference to the common name of an ingredient in the list of ingredients for the product,
+		- **(ii)** a representation that expressly or implicitly indicates that the product has particular nutritional or health-related properties, including any statement or claim set out in column 4 of the table following section B.01.513 or column 1 of the table following section B.01.603 or referred to in section B.01.311, D.01.006 or D.02.004,
 		- **(iii)** a health-related name, statement, logo, symbol, seal of approval or mark, or
 		- **(iv)** the phrase “nutrition facts”, “*valeur nutritive*” or “*valeurs nutritives*”.
 
@@ -2203,21 +2318,35 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 - **(5)** The label of or advertisement for a formulated liquid diet, a human milk substitute, a food represented as containing a human milk substitute, a meal replacement, a nutritional supplement or a food represented for use in a very low energy diet shall not contain a nutrition facts table or the phrase “nutrition facts”, “*valeur nutritive*” or “*valeurs nutritives*”.
 
-- **(6)** If, for a prepackaged product other than one intended solely for children under two years of age, the information in respect of seven or more of the energy value and nutrients referred to in column 1 of items 2 to 5 and 7 to 13 of the table to this section may be expressed as “0” in the nutrition facts table in accordance with this section, the nutrition facts table need only include the following information:
+- **(6)** If, for a prepackaged product other than one intended solely for infants six months of age or older but less than one year of age, the information in respect of six or more of the energy value and nutrients referred to in column 1 of items 2 to 5 and 7 to 15 of the table to this section may be expressed as “0” in the nutrition facts table in accordance with this section, the nutrition facts table need only include the following information:
 	- **(a)** the serving of stated size;
 	- **(b)** the energy value;
 	- **(c)** the amount of fat;
 	- **(d)** the amount of carbohydrate;
 	- **(e)** the amount of protein;
-	- **(f)** the amount of any nutrient that is the subject of a representation referred to in subparagraph (3)(e)(ii);
+	- **(f)** the amount of any nutrient that is the subject of a representation referred to in subparagraph (3)(e)(ii);
 	- **(g)** the amount of any sugar alcohol, vitamin or mineral nutrient added to the prepackaged product, other than iodide added to salt for table or general household use or fluoride added to prepackaged water or ice;
 	- **(h)** the amount of any vitamin or mineral nutrient that is declared as a component of one of the prepackaged product’s ingredients other than flour;
-	- **(i)** the amount of any nutrient referred to in column 1 of item 4, 5, 7, 8, 10, 11 or 13 of the table to this section that may not be expressed as “0” in the nutrition facts table; and
+	- **(i)** the amount of any nutrient referred to in column 1 of any of items 4, 5, 7, 8, 10, 11 and 13 to 15 of the table to this section that may not be expressed as “0” in the nutrition facts table; and
 	- **(j)** the statement “Not a significant source of (naming each nutrient that is omitted from the nutrition facts table in accordance with this subsection)” or, if the prepackaged product meets the condition specified in subsection B.01.455(3), the statement “Not a significant source of other nutrients”.
 
+- **(6.1)** The nutrition facts table of a single-serving prepackaged product, other than one that is a prepackaged meal, need only include the following information:
+	- **(a)** the serving of stated size;
+	- **(b)** the energy value;
+	- **(c)** the amount of fat;
+	- **(d)** the amount of carbohydrate;
+	- **(e)** the amount of protein;
+	- **(f)** the amount of any nutrient that is the subject of a representation referred to in subparagraph (3)(e)(ii);
+	- **(g)** the amount of any sugar alcohol, vitamin or mineral nutrient added to the prepackaged product, other than iodide added to salt for table or general household use or fluoride added to prepackaged water or ice;
+	- **(h)** the amount of any nutrient referred to in column 1 of item 4 or 5 of the table to this section and the sum of saturated fatty acids and *trans* fatty acids if any of the amounts or the sum may not be expressed as “0” in the nutrition facts table; and
+	- **(i)** the amount of any nutrient referred to in column 1 of item 8 or 11 of the table to this section that may not be expressed as “0” in the nutrition facts table;
+	- **(j)** the % Daily Value interpretative statement.
+
 - **(7)** Subsection (1) does not apply to a prepackaged product
-	- **(a)** that is intended solely for use as an ingredient in the manufacture of other prepackaged products intended for sale to a consumer at the retail level or as an ingredient in the preparation of food by a commercial or industrial enterprise or institution; or
-	- **(b)** that is a multiple-serving ready-to-serve prepackaged product intended solely to be served in a commercial or industrial enterprise or institution.
+	- **(a)** that is intended solely for use as an ingredient in the manufacture of other prepackaged products intended for sale to a consumer at the retail level or as an ingredient in the preparation of food by a commercial or industrial enterprise or an institution; or
+	- **(b)** that is a multiple-serving ready-to-serve prepackaged product intended solely to be served in a commercial or industrial enterprise or an institution.
+
+- **(8)** If the nutrition facts table on the label of a prepackaged product corresponds to Figure 6.5(B), 6.6(B), 6.5.1(B), 6.6.1(B), 7.3(B), 7.4(B), 7.3.1(B), 7.4.1(B), 17.2(E) and (F), 17.2.1(E) and (F), 24.1 (E) and (F) to 24.6(E) and (F), 25.1 (B) to 25.6(B), 26.1(B) to 26.4(B), 32.1(E) and (F) or 32.2(E) and (F) of the Directory of NFT Formats, the nutrition facts table is not required to show the % Daily Value interpretative statement referred to in item 16 of the table to this section.
 #### TABLE
 <table>
 <h4>Core Information</h4>
@@ -2238,24 +2367,34 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>1</td>
 <td>Serving of stated size</td>
 <td>“Serving Size (naming the serving size)”, “Serving (naming the serving size)” or “Per (naming the serving size)”</td>
-<td>**(1)** The size is expressed in one of the following units:
+<td>The size is expressed
 
-**(a)** in the case of a food that is usually divided into pieces before being consumed (such as cake, pie and pizza), a fraction of the entire food;
+**(a)** in the case of a single-serving prepackaged product,
 
-
-
-**(b)** in the case of a food described in subsection B.01.002A(2), the entire container; and
+**(i)** per package, and
 
 
 
-**(c)** in all other cases, in a commonly used unit in respect of which the quantity is visibly measurable, such as millilitres, cups, tablespoons or “(naming the unit of food)”.
+**(ii)** in grams or millilitres, in accordance with subparagraph B.01.002A(2)(a)(i) or (ii); and
 
 
 
-**(2)** The size expressed in accordance with subitem (1) is followed by the size expressed in grams or millilitres, as specified by paragraph B.01.002A(1)(b).
+
+
+**(b)** in the case of a multiple-serving prepackaged product, in the following units set out in column 3B of the Table of Reference Amounts:
+
+**(i)** the household measure that applies to the product, and
+
+
+
+**(ii)** the metric measure that applies to the product.
+
+
+
+
 
 </td>
-<td>**(1)** The size when expressed in metric units is rounded off
+<td>**(1)** The size when expressed in a metric unit is rounded off
 
 **(a)** if it is less than 10 g or 10 mL, to the nearest multiple of 0.1 g or 0.1 mL; and
 
@@ -2278,23 +2417,23 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The value is expressed in Calories per serving of stated size.</td>
 <td>The value is rounded off
 
-**(a)** if it is less than 5 Calories
+**(a)** if it is less than 5 Calories
 
-**(i)** if the product meets the conditions set out in column 2 of item 1 of the table following section B.01.513 for the subject” free of energy” set out in column 1, to “0” Calorie, and
-
-
-
-**(ii)** in all other cases, to the nearest multiple of 1 Calorie;
+**(i)** if the product meets the conditions set out in column 2 of item 1 of the table following section B.01.513 for the subject” free of energy” set out in column 1, to “0” Calorie, and
 
 
 
+**(ii)** in all other cases, to the nearest multiple of 1 Calorie;
 
 
-**(b)** if it is 5 Calories or more but not more than 50 Calories, to the nearest multiple of 5 Calories; and
 
 
 
-**(c)** if it is more than 50 Calories, to the nearest multiple of 10 Calories.
+**(b)** if it is 5 Calories or more but not more than 50 Calories, to the nearest multiple of 5 Calories; and
+
+
+
+**(c)** if it is more than 50 Calories, to the nearest multiple of 10 Calories.
 
 
 
@@ -2428,7 +2567,17 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>7</td>
 <td>Amount of cholesterol</td>
 <td>“Cholesterol”</td>
-<td>The amount is expressed in milligrams per serving of stated size and may also be expressed as a percentage of the daily value per serving of stated size.</td>
+<td>The amount
+
+**(a)** is expressed in milligrams per serving of stated size; and
+
+
+
+**(b)** may also be expressed as a percentage of the daily value per serving of stated size.
+
+
+
+</td>
 <td>**(1)** The amount is rounded off
 
 **(a)** if the product meets the conditions set out in column 2 of item 27 of the table following section B.01.513 for the subject “free of cholesterol” set out in column 1, to “0 mg”; and
@@ -2504,34 +2653,14 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>9</td>
 <td>Amount of carbohydrate</td>
 <td>“Carbohydrate”, “Total Carbohydrate” or “Carbohydrate, Total”</td>
-<td>The amount is expressed
-
-**(a)** in grams per serving of stated size; and
-
-
-
-**(b)** as a percentage of the daily value per serving of stated size.
-
-
-
-</td>
-<td>**(1)** The amount is rounded off
+<td>The amount is expressed in grams per serving of stated size.</td>
+<td>The amount is rounded off
 
 **(a)** if it is less than 0.5 g, to “0 g”; and
 
 
 
 **(b)** if it is 0.5 g or more, to the nearest multiple of 1 g.
-
-
-
-**(2)** The percentage is rounded off
-
-**(a)** if the amount is declared as “0 g”, to “0%”; and
-
-
-
-**(b)** in all other cases, to the nearest multiple of 1%.
 
 
 
@@ -2578,14 +2707,34 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>11</td>
 <td>Amount of sugars</td>
 <td>“Sugars”</td>
-<td>The amount is expressed in grams per serving of stated size.</td>
-<td>The amount is rounded off
+<td>The amount is expressed
+
+**(a)** in grams per serving of stated size; and
+
+
+
+**(b)** as a percentage of the daily value per serving of stated size.
+
+
+
+</td>
+<td>**(1)** The amount is rounded off
 
 **(a)** if it is less than 0.5 g, to “0 g”; and
 
 
 
 **(b)** if it is 0.5 g or more, to the nearest multiple of 1 g.
+
+
+
+**(2)** The percentage is rounded off
+
+**(a)** if the amount is declared as “0 g”, to “0%”; and
+
+
+
+**(b)** in all other cases, to the nearest multiple of 1%.
 
 
 
@@ -2598,7 +2747,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The amount is expressed in grams per serving of stated size.</td>
 <td>The amount is rounded off
 
-**(a)** if it is less than 0.5 g, to the nearest multiple of 0.1 g; an
+**(a)** if it is less than 0.5 g, to the nearest multiple of 0.1 g; and
 
 
 
@@ -2610,66 +2759,149 @@ shall be shown on the principal display panel of the label of a simulated meat p
 </tr>
 <tr>
 <td>13</td>
-<td>Amount of
+<td>Amount of potassium</td>
+<td>“Potassium”</td>
+<td>The amount is expressed
 
-**(a)** vitamin A
-
-
-
-**(b)** vitamin C
+**(a)** in milligrams per serving of stated size; and
 
 
 
-**(c)** calcium
-
-
-
-**(d)** iron
+**(b)** as a percentage of the daily value per serving of stated size.
 
 
 
 </td>
-<td>**(a)** “Vitamin A” or “Vit A”
+<td>**(1)** The amount is rounded off
 
-**(b)** “Vitamin C” or “Vit C”
-
-**(c)** “Calcium”
-
-**(d)** “Iron”
-
-</td>
-<td>The amount is expressed as a percentage of the daily value per serving of stated size.</td>
-<td>The percentage is rounded off
-
-**(a)** if it is less than 2%
-
-**(i)** if the product contains less than 1% of the daily value per reference amount and per serving of stated size, to “0 %”, and
+**(a)** if it is less than 5 mg, to “0 mg”;
 
 
 
-**(ii)** in all other cases, to “2%”;
+**(b)** if it is 5 mg or more but less than 50 mg, to the nearest multiple of 10 mg;
 
 
 
-
-
-**(b)** if it is 2% or more but not more than 10%, to the nearest multiple of 2%;
-
-
-
-**(c)** if it is more than 10% but not more than 50%, to the nearest multiple of 5%; and
+**(c)** if it is 50 mg or more but less than 250 mg, to the nearest multiple of 25 mg; and
 
 
 
-**(d)** if it is more than 50%, to the nearest multiple of 10%.
+**(d)** if it is 250 mg or more, to the nearest multiple of 50 mg.
+
+
+
+**(2)** The percentage is rounded off
+
+**(a)** if the amount is declared as 0 mg, to “0%”; and
+
+
+
+**(b)** in all other cases, to the nearest multiple of 1%.
 
 
 
 </td>
 </tr>
+<tr>
+<td>14</td>
+<td>Amount of calcium</td>
+<td>“Calcium”</td>
+<td>The amount is expressed
+
+**(a)** in milligrams per serving of stated size; and
+
+
+
+**(b)** as a percentage of the daily value per serving of stated size.
+
+
+
+</td>
+<td>**(1)** The amount is rounded off
+
+**(a)** if it is less than 5 mg, to “0 mg”;
+
+
+
+**(b)** if it is 5 mg or more but less than 50 mg, to the nearest multiple of 10 mg;
+
+
+
+**(c)** if it is 50 mg or more but less than 250 mg, to the nearest multiple of 25 mg; and
+
+
+
+**(d)** if it is 250 mg or more, to the nearest multiple of 50 mg.
+
+
+
+**(2)** The percentage is rounded off
+
+**(a)** if the amount is declared as 0 mg, to “0%”; and
+
+
+
+**(b)** in all other cases, to the nearest multiple of 1%.
+
+
+
+</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Amount of iron</td>
+<td>“Iron”</td>
+<td>The amount is expressed
+
+**(a)** in milligrams per serving of stated size; and
+
+
+
+**(b)** as a percentage of the daily value per serving of stated size.
+
+
+
+</td>
+<td>**(1)** The amount is rounded off
+
+**(a)** if it is less than 0.05 mg, to “0 mg”;
+
+
+
+**(b)** if it is 0.05 mg or more but less than 0.5 mg, to the nearest multiple of 0.1 mg;
+
+
+
+**(c)** if it is 0.5 mg or more but less than 2.5 mg, to the nearest multiple of 0.25 mg; and
+
+
+
+**(d)** if it is 2.5 mg or more, to the nearest multiple of 0.5 mg.
+
+
+
+**(2)** The percentage is rounded off
+
+**(a)** if the amount is declared as 0 mg, to “0%”; and
+
+
+
+**(b)** in all other cases, to the nearest multiple of 1%.
+
+
+
+</td>
+</tr>
+<tr>
+<td>16</td>
+<td>% Daily Value interpretative statement</td>
+<td>“*5% or less is a little, 15% or more is a lot”</td>
+<td>[not applicable]</td>
+<td>The “% Daily Value” or “% DV” subheading is followed by an asterisk in order to reference the % Daily Value interpretative statement shown in the nutrition facts table.</td>
+</tr>
 </table>
 
-> SOR/2003-11, s. 20; SOR/2007-176, s. 5.
+> SOR/2003-11, s. 20; SOR/2007-176, s. 5; SOR/2016-305, ss. 18, 73, 75(F).
 
 
 
@@ -2680,25 +2912,29 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **B.01.402** 
 
-- **(1)** The nutrition facts table may also contain information set out in column 1 of the table to this section.
+- **(1)** The nutrition facts table may also contain information set out in column 1 of the table to this section.
 
-- **(2)** If information set out in column 1 of the table to this section is included in the nutrition facts table, it shall be expressed using a description set out in column 2, in the unit set out in column 3 and in the manner set out in column 4.
+- **(2)** If information set out in column 1 of the table to this section is included in the nutrition facts table, it shall be expressed using a description set out in column 2, in the unit set out in column 3 and in the manner set out in column 4.
+
+- **(2.1)** For the purpose of subsection (2), the serving of stated size set out in a nutrition facts table for a prepackaged product, expressed in the metric unit, shall be used as the basis for determining the information appearing in the nutrition facts table in respect of the energy value and nutrient content of the product.
+
+- **(2.2)** The percentage of the daily value for a vitamin or mineral nutrient shown in the nutrition facts table for a prepackaged product in accordance with subsection (2) shall be established on the basis of the amount, by weight, of the vitamin or mineral nutrient per serving of stated size for the product, rounded off in the applicable manner set out in column 4 of the table to this section.
 
 - **(3)** The amount of omega-6 polyunsaturated fatty acids, omega-3 polyunsaturated fatty acids and monounsaturated fatty acids shall be in the nutrition facts table if
 	- **(a)** the amount of any of those groups of fatty acids or the amount of polyunsaturated fatty acids is in the nutrition facts table or is shown on the label of the prepackaged product or in any advertisement for the product that is made or placed by or on the direction of the manufacturer of the product; or
 	- **(b)** the amount of any specific fatty acid is shown on the label of the prepackaged product or in any advertisement for the product that is made or placed by or on the direction of the manufacturer of the product.
 
-- **(4)** If the label of a prepackaged product, or any advertisement for the product that is made or placed by or on the direction of the manufacturer of the product, contains a representation, express or implied, that includes information that is set out in column 1 of the table to this section, that information shall also be in the nutrition facts table.
+- **(4)** If the label of a prepackaged product, or any advertisement for the product that is made or placed by or on the direction of the manufacturer of the product, contains a representation, express or implied, that includes information that is set out in column 1 of the table to this section, that information shall also be in the nutrition facts table.
 
-- **(5)** The amount of potassium shall be in the nutrition facts table if the prepackaged product contains added potassium salts and the label of the product or any advertisement for the product that is made or placed by or on the direction of the manufacturer of the product contains a statement or claim referred to in column 4 of any of items 31 to 36 of the table following section B.01.513 for the subject “free of sodium or salt”, “low in sodium or salt”, “reduced in sodium or salt”, “lower in sodium or salt”, “no added sodium or salt” or “lightly salted” set out in column 1.
+- **(5)** [Repealed, SOR/2016-305, s. 19]
 
 - **(6)** The nutrition facts table shall show the amount of any sugar alcohol, vitamin or mineral nutrient added to the prepackaged product, except in the case of iodide added to salt for table or general household use or fluoride added to prepackaged water or ice.
 
 - **(7)** The nutrition facts table shall show the amount of any vitamin or mineral nutrient that is declared as a component of one of the prepackaged product’s ingredients other than flour.
 
-- **(8)** Despite subsection (1) and item 1 of the table to this section, the nutrition facts table shall not include information on servings per container if the serving of stated size is expressed in cups or tablespoons.
+- **(8)** Despite subsection (1) and item 1 of the table to this section, the nutrition facts table shall not include information on the number of servings per package if the serving of stated size is expressed in cups or tablespoons.
 
-- **(9)** If information set out in column 1 of the table to this section is included in the nutrition facts table, it shall be shown
+- **(9)** If information set out in column 1 of the table to this section is included in the nutrition facts table, it shall be shown
 	- **(a)** in English and French; or
 	- **(b)** in one of those languages, if in accordance with subsection B.01.012(3) or (7) the information that is required by these Regulations to be shown on the label of the product may be shown in that language only and is shown on the label in that language.
 #### TABLE
@@ -2719,8 +2955,8 @@ shall be shown on the principal display panel of the label of a simulated meat p
 </tr>
 <tr>
 <td>1</td>
-<td>Servings per container</td>
-<td>“Servings Per Container” or “(number of units) Per Container”</td>
+<td>Servings per package</td>
+<td>“Servings per Container”, “(number of units) per Container”, “Servings per Package”, “(number of units) per Package”, “Servings per (naming the package type)”, or “(number of units) per (naming the package type)”</td>
 <td>The quantity is expressed in number of servings.</td>
 <td>**(1)** The quantity is rounded off
 
@@ -2747,65 +2983,11 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>Energy value</td>
 <td>“kilojoules” or “kJ”</td>
 <td>The value is expressed in kilojoules per serving of stated size.</td>
-<td>The value is rounded off to the nearest multiple of 10 kilojoules.</td>
+<td>The value is rounded off to the nearest multiple of 10 kilojoules.</td>
 </tr>
 <tr>
-<td>3</td>
-<td>Energy value from fat</td>
-<td>“Calories from Fat” or “Calories from Total Fat”</td>
-<td>The value is expressed in Calories per serving of stated size.</td>
-<td>The value is rounded off
-
-**(a)** if it is less than 5 Calories
-
-**(i)** if the amount of fat is declared as “0 g” in the nutrition facts table, to “0” Calorie, and
-
-
-
-**(ii)** in all other cases, to the nearest multiple of 1 Calorie;
-
-
-
-
-
-**(b)** if it is 5 Calories or more but not more than 50 Calories, to the nearest multiple of 5 Calories; and
-
-
-
-**(c)** if it is more than 50 Calories, to the nearest multiple of 10 Calories.
-
-
-
-</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Energy value from the sum of saturated and *trans* fatty acids</td>
-<td>“Calories from Saturated + Trans Fat”, “Calories from Saturated + Trans Fatty Acids”, “Calories from Saturated + Trans” or “Calories from Saturates + Trans”</td>
-<td>The value is expressed in Calories per serving of stated size.</td>
-<td>The value is rounded off
-
-**(a)** if it is less than 5 Calories
-
-**(i)** if the amounts of saturated fatty acids and *trans* fatty acids are declared as “0 g” in the nutrition facts table, to “0” Calorie, and
-
-
-
-**(ii)** in all other cases, to the nearest multiple of Calorie;
-
-
-
-
-
-**(b)** if it is 5 Calories or more but not more than 50 Calories, to the nearest multiple of 5 Calories; and
-
-
-
-**(c)** if it is more than 50 Calories, to the nearest multiple of 10 Calories.
-
-
-
-</td>
+<td>3 and 4</td>
+<td>[Repealed, SOR/2016-305, s. 19]</td>
 </tr>
 <tr>
 <td>5</td>
@@ -2901,52 +3083,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 </tr>
 <tr>
 <td>9</td>
-<td>Amount of potassium</td>
-<td>“Potassium”</td>
-<td>The amount is expressed
-
-**(a)** in milligrams per serving of stated size; and
-
-
-
-**(b)** as a percentage of the daily value per serving of stated size.
-
-
-
-</td>
-<td>**(1)** The amount is rounded off
-
-**(a)** if it is less than 5 mg
-
-**(i)** if the product contains less than 5 mg of potassium per reference amount and per serving of stated size, to “0 mg”, and
-
-
-
-**(ii)** in all other cases, to the nearest multiple of 1 mg;
-
-
-
-
-
-**(b)** if it is 5 mg or more but not more than 140 mg, to the nearest multiple of 5 mg; and
-
-
-
-**(c)** if it is more than 140 mg, to the nearest multiple of 10 mg.
-
-
-
-**(2)** The percentage is rounded off
-
-**(a)** if the amount is declared as “0 mg”, to “0%”; or
-
-
-
-**(b)** in all other cases, to the nearest multiple of 1%.
-
-
-
-</td>
+<td>[Repealed, SOR/2016-305, s. 19]</td>
 </tr>
 <tr>
 <td>10</td>
@@ -3022,160 +3159,44 @@ shall be shown on the principal display panel of the label of a simulated meat p
 </tr>
 <tr>
 <td>14</td>
-<td>Amount of
+<td>Amount of vitamin A</td>
+<td>“Vitamin A” or “Vit A”</td>
+<td>The amount is expressed
 
-**(a)** vitamin D
-
-
-
-**(b)** vitamin E
+**(a)** in micrograms per serving of stated size; and
 
 
 
-**(c)** vitamin K
-
-
-
-**(d)** thiamine
-
-
-
-**(e)** riboflavin
-
-
-
-**(f)** niacin
-
-
-
-**(g)** vitamin B<sub>6</sub>
-
-
-
-**(h)** folate
-
-
-
-**(i)** vitamin B<sub>12</sub>
-
-
-
-**(j)** biotin
-
-
-
-**(k)** pantothenic acid
-
-
-
-**(l)** phosphorus
-
-
-
-**(m)** iodide
-
-
-
-**(n)** magnesium
-
-
-
-**(o)** zinc
-
-
-
-**(p)** selenium
-
-
-
-**(q)** copper
-
-
-
-**(r)** manganese
-
-
-
-**(s)** chromium
-
-
-
-**(t)** molybdenum
-
-
-
-**(u)** chloride
+**(b)** as a percentage of the daily value per serving of stated size.
 
 
 
 </td>
-<td>**(a)** “Vitamin D” or “Vit D”
+<td>**(1)** The amount is rounded off
 
-**(b)** “Vitamin E” or “Vit E”
-
-**(c)** “Vitamin K” or “Vit K”
-
-**(d)** “Thiamine”, “Thiamin”, “Thiamine (Vitamin B<sub>1</sub>)”, “Thiamine (Vit B<sub>1</sub>)”, “Thiamin (Vitamin B<sub>1</sub>)” or “Thiamin (Vit B<sub>1</sub>)”
-
-**(e)** “Riboflavin”, “Riboflavin (Vitamin B<sub>2</sub>)” or “Riboflavin (Vit B<sub>2</sub>)”
-
-**(f)** “Niacin”
-
-**(g)** “Vitamin B<sub>6</sub>” or “Vit B<sub>6</sub>“
-
-**(h)** “Folate”
-
-**(i)** “Vitamin B<sub>12</sub>“ or “Vit B<sub>12</sub>”
-
-**(j)** “Biotin”
-
-**(k)** “Pantothenic Acid” or “Pantothenate”
-
-**(l)** “Phosphorus”
-
-**(m)** “Iodide” or “Iodine”
-
-**(n)** “Magnesium”
-
-**(o)** “Zinc”
-
-**(p)** “Selenium”
-
-**(q)** “Copper”
-
-**(r)** “Manganese”
-
-**(s)** “Chromium”
-
-**(t)** “Molybdenum”
-
-**(u)** “Chloride”
-
-</td>
-<td>The amount is expressed as a percentage of the daily value per serving of stated size.</td>
-<td>The percentage is rounded off
-
-**(a)** if it is less than 2%
-
-**(i)** if the product contains less than 1% of the daily value per reference amount and per serving of stated size, to “0%”, and
+**(a)** if it is less than 5 µg, to “0 µg”;
 
 
 
-**(ii)** in all other cases, to the nearest multiple of 2%;
+**(b)** if it is 5 µg or more but less than 50 µg, to the nearest multiple of 10 µg;
 
 
 
-
-
-**(b)** if it is 2% or more but not more than 10%, to the nearest multiple of 2%;
-
-
-
-**(c)** if it is more than 10% but not more than 50%, to the nearest multiple of 5%; and
+**(c)** if it is 50 µg or more but less than 250 µg, to the nearest multiple of 50 µg; and
 
 
 
-**(d)** if it is more than 50%, to the nearest multiple of 10%.
+**(d)** if it is 250 µg or more, to the nearest multiple of 100 µg.
+
+
+
+**(2)** The percentage is rounded off
+
+**(a)** if the amount is declared as 0 µg, to “0%”; and
+
+
+
+**(b)** in all other cases, to the nearest multiple of 1%.
 
 
 
@@ -3183,16 +3204,44 @@ shall be shown on the principal display panel of the label of a simulated meat p
 </tr>
 <tr>
 <td>15</td>
-<td>Basis of the percent daily values</td>
-<td>One of the four footnotes to the subheading “% Daily Value” set out in Figures 18.1(E) and (F) of Schedule L</td>
-<td></td>
-<td>In the version of the footnote that refers to nutrients,
+<td>Amount of vitamin C</td>
+<td>“Vitamin C” or “Vit C”</td>
+<td>The amount is expressed
 
-**(a)** the daily value for potassium is included only if the amount of potassium is declared in the nutrition facts table; and
-
+**(a)** in milligrams per serving of stated size; and
 
 
-**(b)** the daily value for cholesterol is included only if the amount of cholesterol is declared in the nutrition facts table as a percentage of the daily value per serving of stated size.
+
+**(b)** as a percentage of the daily value per serving of stated size.
+
+
+
+</td>
+<td>**(1)** The amount is rounded off
+
+**(a)** if it is less than 0.1 mg, to “0 mg”;
+
+
+
+**(b)** if it is 0.1 mg or more but less than 1 mg, to the nearest multiple of 0.2 mg;
+
+
+
+**(c)** if it is 1 mg or more but less than 5 mg, to the nearest multiple of 0.5 mg; and
+
+
+
+**(d)** if it is 5 mg or more, to the nearest multiple of 1 mg.
+
+
+
+**(2)** The percentage is rounded off
+
+**(a)** if the amount is declared as 0 mg, to “0%”; and
+
+
+
+**(b)** in all other cases, to the nearest multiple of 1%.
 
 
 
@@ -3200,36 +3249,1018 @@ shall be shown on the principal display panel of the label of a simulated meat p
 </tr>
 <tr>
 <td>16</td>
-<td>Energy conversion factors</td>
-<td>“Calories per gram:”, “Fat 9”, “Carbohydrate 4” and “Protein 4”</td>
-<td></td>
-<td></td>
+<td>Amount of vitamin D</td>
+<td>“Vitamin D” or “Vit D”</td>
+<td>The amount is expressed
+
+**(a)** in micrograms per serving of stated size; and
+
+
+
+**(b)** as a percentage of the daily value per serving of stated size.
+
+
+
+</td>
+<td>**(1)** The amount is rounded off
+
+**(a)** if it is less than 0.1 µg, to “0 µg”;
+
+
+
+**(b)** if it is 0.1 µg or more but less than 1 µg, to the nearest multiple of 0.2 µg;
+
+
+
+**(c)** if it is 1 µg or more but less than 5 µg, to the nearest multiple of 0.5 µg; and
+
+
+
+**(d)** if it is 5 µg or more, to the nearest multiple of 1 µg.
+
+
+
+**(2)** The percentage is rounded off
+
+**(a)** if the amount is declared as 0 µg, to “0%”; and
+
+
+
+**(b)** in all other cases, to the nearest multiple of 1%.
+
+
+
+</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Amount of vitamin E</td>
+<td>“Vitamin E” or “Vit E”</td>
+<td>The amount is expressed
+
+**(a)** in milligrams per serving of stated size; and
+
+
+
+**(b)** as a percentage of the daily value per serving of stated size.
+
+
+
+</td>
+<td>**(1)** The amount is rounded off
+
+**(a)** if it is less than 0.05 mg, to “0 mg”;
+
+
+
+**(b)** if it is 0.05 mg or more but less than 0.5 mg, to the nearest multiple of 0.1 mg;
+
+
+
+**(c)** if it is 0.5 mg or more but less than 2.5 mg, to the nearest multiple of 0.25 mg; and
+
+
+
+**(d)** if it is 2.5 mg or more, to the nearest multiple of 0.5 mg.
+
+
+
+**(2)** The percentage is rounded off
+
+**(a)** if the amount is declared as 0 mg, to “0%”; and
+
+
+
+**(b)** in all other cases, to the nearest multiple of 1%.
+
+
+
+</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Amount of vitamin K</td>
+<td>“Vitamin K” or “Vit K”</td>
+<td>The amount is expressed
+
+**(a)** in micrograms per serving of stated size; and
+
+
+
+**(b)** as a percentage of the daily value per serving of stated size.
+
+
+
+</td>
+<td>**(1)** The amount is rounded off
+
+**(a)** if it is less than 0.05 µg, to “0 µg”;
+
+
+
+**(b)** if it is 0.05 µg or more but less than 0.5 µg, to the nearest multiple of 0.1 µg;
+
+
+
+**(c)** if it is 0.5 µg or more but less than 2.5 µg, to the nearest multiple of 0.25 µg; and
+
+
+
+**(d)** if it is 2.5 µg or more, to the nearest multiple of 0.5 µg.
+
+
+
+**(2)** The percentage is rounded off
+
+**(a)** if the amount is declared as 0 µg, to “0%”; and
+
+
+
+**(b)** in all other cases, to the nearest multiple of 1%.
+
+
+
+</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Amount of thiamine</td>
+<td>“Thiamine”, “Thiamin”, “Thiamine (Vitamin B<sub>1</sub>)”, “Thiamine (Vit B<sub>1</sub>)”, “Thiamin (Vitamin B<sub>1</sub>)” or “Thiamin (Vit B<sub>1</sub>)”</td>
+<td>The amount is expressed
+
+**(a)** in milligrams per serving of stated size; and
+
+
+
+**(b)** as a percentage of the daily value per serving of stated size.
+
+
+
+</td>
+<td>**(1)** The amount is rounded off
+
+**(a)** if it is less than 0.005 mg, to “0 mg”;
+
+
+
+**(b)** if it is 0.005 mg or more but less than 0.05 mg, to the nearest multiple of 0.01 mg;
+
+
+
+**(c)** if it is 0.05 mg or more but less than 0.25 mg, to the nearest multiple of 0.025 mg; and
+
+
+
+**(d)** if it is 0.25 mg or more, to the nearest multiple of 0.05 mg.
+
+
+
+**(2)** The percentage is rounded off
+
+**(a)** if the amount is declared as 0 mg, to “0%”; and
+
+
+
+**(b)** in all other cases, to the nearest multiple of 1%.
+
+
+
+</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Amount of riboflavin</td>
+<td>“Riboflavin”, “Riboflavin (Vitamin B<sub>2</sub>)” or “Riboflavin (Vit B<sub>2</sub>)”</td>
+<td>The amount is expressed
+
+**(a)** in milligrams per serving of stated size; and
+
+
+
+**(b)** as a percentage of the daily value per serving of stated size.
+
+
+
+</td>
+<td>**(1)** The amount is rounded off
+
+**(a)** if it is less than 0.005 mg, to “0 mg”;
+
+
+
+**(b)** if it is 0.005 mg or more but less than 0.05 mg, to the nearest multiple of 0.01 mg;
+
+
+
+**(c)** if it is 0.05 mg or more but less than 0.25 mg, to the nearest multiple of 0.025 mg; and
+
+
+
+**(d)** if it is 0.25 mg or more, to the nearest multiple of 0.05 mg.
+
+
+
+**(2)** The percentage is rounded off
+
+**(a)** if the amount is declared as 0 mg, to “0%”; and
+
+
+
+**(b)** in all other cases, to the nearest multiple of 1%.
+
+
+
+</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Amount of niacin</td>
+<td>“Niacin”</td>
+<td>The amount is expressed
+
+**(a)** in milligrams per serving of stated size; and
+
+
+
+**(b)** as a percentage of the daily value per serving of stated size.
+
+
+
+</td>
+<td>**(1)** The amount is rounded off
+
+**(a)** if it is less than 0.05 mg, to “0 mg”;
+
+
+
+**(b)** if it is 0.05 mg or more but less than 0.5 mg, to the nearest multiple of 0.1 mg;
+
+
+
+**(c)** if it is 0.5 mg or more but less than 2.5 mg, to the nearest multiple of 0.25 mg; and
+
+
+
+**(d)** if it is 2.5 mg or more, to the nearest multiple of 0.5 mg.
+
+
+
+**(2)** The percentage is rounded off
+
+**(a)** if the amount is declared as 0 mg, to “0%”; and
+
+
+
+**(b)** in all other cases, to the nearest multiple of 1%.
+
+
+
+</td>
+</tr>
+<tr>
+<td>22</td>
+<td>Amount of vitamin B<sub>6</sub></td>
+<td>“Vitamin B<sub>6</sub>” or “Vit B<sub>6</sub>”</td>
+<td>The amount is expressed
+
+**(a)** in milligrams per serving of stated size; and
+
+
+
+**(b)** as a percentage of the daily value per serving of stated size.
+
+
+
+</td>
+<td>**(1)** The amount is rounded off
+
+**(a)** if it is less than 0.005 mg, to “0 mg”;
+
+
+
+**(b)** if it is 0.005 mg or more but less than 0.05 mg, to the nearest multiple of 0.01 mg;
+
+
+
+**(c)** if it is 0.05 mg or more but less than 0.25 mg, to the nearest multiple of 0.025 mg; and
+
+
+
+**(d)** if it is 0.25 mg or more, to the nearest multiple of 0.05 mg.
+
+
+
+**(2)** The percentage is rounded off
+
+**(a)** if the amount is declared as 0 mg, to “0%”; and
+
+
+
+**(b)** in all other cases, to the nearest multiple of 1%.
+
+
+
+</td>
+</tr>
+<tr>
+<td>23</td>
+<td>Amount of folate</td>
+<td>“Folate”</td>
+<td>The amount is expressed
+
+**(a)** in micrograms of dietary folate equivalents (DFE) per serving of stated size; and
+
+
+
+**(b)** as a percentage of the daily value per serving of stated size.
+
+
+
+</td>
+<td>**(1)** The amount is rounded off
+
+**(a)** if it is less than 1 µg DFE, to “0 µg DFE”;
+
+
+
+**(b)** if it is 1 µg DFE or more but less than 10 µg DFE, to the nearest multiple of 2 µg DFE;
+
+
+
+**(c)** if it is 10 µg DFE or more but less than 50 µg DFE, to the nearest multiple of 5 µg DFE; and
+
+
+
+**(d)** if it is 50 µg DFE or more, to the nearest multiple of 10 µg DFE.
+
+
+
+**(2)** The percentage is rounded off
+
+**(a)** if the amount is declared as 0 µg DFE, to “0%”; and
+
+
+
+**(b)** in all other cases, to the nearest multiple of 1%.
+
+
+
+</td>
+</tr>
+<tr>
+<td>24</td>
+<td>Amount of vitamin B<sub>12</sub></td>
+<td>“Vitamin B<sub>12</sub>” or “Vit B<sub>12</sub>”</td>
+<td>The amount is expressed
+
+**(a)** in micrograms per serving of stated size; and
+
+
+
+**(b)** as a percentage of the daily value per serving of stated size.
+
+
+
+</td>
+<td>**(1)** The amount is rounded off
+
+**(a)** if it is less than 0.005 µg, to “0 µg”;
+
+
+
+**(b)** if it is 0.005 µg or more but less than 0.05 µg, to the nearest multiple of 0.01 µg;
+
+
+
+**(c)** if it is 0.05 µg or more but less than 0.25 µg, to the nearest multiple of 0.025 µg; and
+
+
+
+**(d)** if it is 0.25 µg or more, to the nearest multiple of 0.05 µg.
+
+
+
+**(2)** The percentage is rounded off
+
+**(a)** if the amount is declared as 0 µg, to “0%”; and
+
+
+
+**(b)** in all other cases, to the nearest multiple of 1%.
+
+
+
+</td>
+</tr>
+<tr>
+<td>25</td>
+<td>Amount of biotin</td>
+<td>“Biotin”</td>
+<td>The amount is expressed
+
+**(a)** in micrograms per serving of stated size; and
+
+
+
+**(b)** as a percentage of the daily value per serving of stated size.
+
+
+
+</td>
+<td>**(1)** The amount is rounded off
+
+**(a)** if it is less than 0.05 µg, to “0 µg”;
+
+
+
+**(b)** if it is 0.05 µg or more but less than 0.5 µg, to the nearest multiple of 0.1 µg;
+
+
+
+**(c)** if it is 0.5 µg or more but less than 2.5 µg, to the nearest multiple of 0.25 µg; and
+
+
+
+**(d)** if it is 2.5 µg or more, to the nearest multiple of 0.5 µg.
+
+
+
+**(2)** The percentage is rounded off
+
+**(a)** if the amount is declared as 0 µg, to “0%”; and
+
+
+
+**(b)** in all other cases, to the nearest multiple of 1%.
+
+
+
+</td>
+</tr>
+<tr>
+<td>26</td>
+<td>Amount of pantothenic acid</td>
+<td>“Pantothenic Acid” or “Pantothenate”</td>
+<td>The amount is expressed
+
+**(a)** in milligrams per serving of stated size; and
+
+
+
+**(b)** as a percentage of the daily value per serving of stated size.
+
+
+
+</td>
+<td>**(1)** The amount is rounded off
+
+**(a)** if it is less than 0.01 mg, to “0 mg”;
+
+
+
+**(b)** if it is 0.01 mg or more but less than 0.1 mg, to the nearest multiple of 0.02 mg;
+
+
+
+**(c)** if it is 0.1 mg or more but less than 0.5 mg, to the nearest multiple of 0.05 mg; and
+
+
+
+**(d)** if it is 0.5 mg or more, to the nearest multiple of 0.1 mg.
+
+
+
+**(2)** The percentage is rounded off
+
+**(a)** if the amount is declared as 0 mg, to “0%”; and
+
+
+
+**(b)** in all other cases, to the nearest multiple of 1%.
+
+
+
+</td>
+</tr>
+<tr>
+<td>27</td>
+<td>Amount of choline</td>
+<td>“Choline”</td>
+<td>The amount is expressed
+
+**(a)** in milligrams per serving of stated size; and
+
+
+
+**(b)** as a percentage of the daily value per serving of stated size.
+
+
+
+</td>
+<td>**(1)** The amount is rounded off
+
+**(a)** if it is less than 1 mg, to “0 mg”;
+
+
+
+**(b)** if it is 1 mg or more but less than 10 mg, to the nearest multiple of 2 mg;
+
+
+
+**(c)** if it is 10 mg or more but less than 50 mg, to the nearest multiple of 5 mg; and
+
+
+
+**(d)** if it is 50 mg or more, to the nearest multiple of 10 mg.
+
+
+
+**(2)** The percentage is rounded off
+
+**(a)** if the amount is declared as 0 mg, to “0%”; and
+
+
+
+**(b)** in all other cases, to the nearest multiple of 1%.
+
+
+
+</td>
+</tr>
+<tr>
+<td>28</td>
+<td>Amount of phosphorous</td>
+<td>“Phosphorus”</td>
+<td>The amount is expressed
+
+**(a)** in milligrams per serving of stated size; and
+
+
+
+**(b)** as a percentage of the daily value per serving of stated size.
+
+
+
+</td>
+<td>**(1)** The amount is rounded off
+
+**(a)** if it is less than 5 mg, to “0 mg”;
+
+
+
+**(b)** if it is 5 mg or more but less than 50 mg, to the nearest multiple of 10 mg;
+
+
+
+**(c)** if it is 50 mg or more but less than 250 mg, to the nearest multiple of 25 mg; and
+
+
+
+**(d)** if it is 250 mg or more, to the nearest multiple of 50 mg.
+
+
+
+**(2)** The percentage is rounded off
+
+**(a)** if the amount is declared as 0 mg, to “0%”; and
+
+
+
+**(b)** in all other cases, to the nearest multiple of 1%.
+
+
+
+</td>
+</tr>
+<tr>
+<td>29</td>
+<td>Amount of iodide</td>
+<td>“Iodide” or “Iodine”</td>
+<td>The amount is expressed
+
+**(a)** in micrograms per serving of stated size; and
+
+
+
+**(b)** as a percentage of the daily value per serving of stated size.
+
+
+
+</td>
+<td>**(1)** The amount is rounded off
+
+**(a)** if it is less than 1 µg, to “0 µg”;
+
+
+
+**(b)** if it is 1 µg or more but less than 10 µg, to the nearest multiple of 2 µg;
+
+
+
+**(c)** if it is 10 µg or more but less than 50 µg, to the nearest multiple of 5 µg; and
+
+
+
+**(d)** if it is 50 µg or more, to the nearest multiple of 10 µg.
+
+
+
+**(2)** The percentage is rounded off
+
+**(a)** if the amount is declared as 0 µg, to “0%”; and
+
+
+
+**(b)** in all other cases, to the nearest multiple of 1%.
+
+
+
+</td>
+</tr>
+<tr>
+<td>30</td>
+<td>Amount of magnesium</td>
+<td>“Magnesium”</td>
+<td>The amount is expressed
+
+**(a)** in milligrams per serving of stated size; and
+
+
+
+**(b)** as a percentage of the daily value per serving of stated size.
+
+
+
+</td>
+<td>**(1)** The amount is rounded off
+
+**(a)** if it is less than 1 mg, to “0 mg”;
+
+
+
+**(b)** if it is 1 mg or more but less than 10 mg, to the nearest multiple of 2 mg;
+
+
+
+**(c)** if it is 10 mg or more but less than 50 mg, to the nearest multiple of 5 mg; and
+
+
+
+**(d)** if it is 50 mg or more, to the nearest multiple of 10 mg.
+
+
+
+**(2)** The percentage is rounded off
+
+**(a)** if the amount is declared as 0 mg, to “0%”; and
+
+
+
+**(b)** in all other cases, to the nearest multiple of 1%.
+
+
+
+</td>
+</tr>
+<tr>
+<td>31</td>
+<td>Amount of zinc</td>
+<td>“Zinc”</td>
+<td>The amount is expressed
+
+**(a)** in milligrams per serving of stated size; and
+
+
+
+**(b)** as a percentage of the daily value per serving of stated size.
+
+
+
+</td>
+<td>**(1)** The amount is rounded off
+
+**(a)** if it is less than 0.05 mg, to “0 mg”;
+
+
+
+**(b)** if it is 0.05 mg or more but less than 0.5 mg, to the nearest multiple of 0.1 mg;
+
+
+
+**(c)** if it is 0.5 mg or more but less than 2.5 mg, to the nearest multiple of 0.25 mg; and
+
+
+
+**(d)** if it is 2.5 mg or more, to the nearest multiple of 0.5 mg.
+
+
+
+**(2)** The percentage is rounded off
+
+**(a)** if the amount is declared as 0 mg, to “0%”; and
+
+
+
+**(b)** in all other cases, to the nearest multiple of 1%.
+
+
+
+</td>
+</tr>
+<tr>
+<td>32</td>
+<td>Amount of selenium</td>
+<td>“Selenium”</td>
+<td>The amount is expressed
+
+**(a)** in micrograms per serving of stated size; and
+
+
+
+**(b)** as a percentage of the daily value per serving of stated size.
+
+
+
+</td>
+<td>**(1)** The amount is rounded off
+
+**(a)** if it is less than 0.1 µg, to “0 µg”;
+
+
+
+**(b)** if it is 0.1 µg or more but less than 1 µg, to the nearest multiple of 0.2 µg;
+
+
+
+**(c)** if it is 1 µg or more but less than 5 µg, to the nearest multiple of 0.5 µg; and
+
+
+
+**(d)** if it is 5 µg or more, to the nearest multiple of 1 µg.
+
+
+
+**(2)** The percentage is rounded off
+
+**(a)** if the amount is declared as 0 µg, to “0%”; and
+
+
+
+**(b)** in all other cases, to the nearest multiple of 1%.
+
+
+
+</td>
+</tr>
+<tr>
+<td>33</td>
+<td>Amount of copper</td>
+<td>“Copper”</td>
+<td>The amount is expressed
+
+**(a)** in milligrams per serving of stated size; and
+
+
+
+**(b)** as a percentage of the daily value per serving of stated size.
+
+
+
+</td>
+<td>**(1)** The amount is rounded off
+
+**(a)** if it is less than 0.0015 mg, to “0 mg”;
+
+
+
+**(b)** if it is 0.0015 mg or more but less than 0.025 mg, to the nearest multiple of 0.002 mg;
+
+
+
+**(c)** if it is 0.025 mg or more but less than 0.05 mg, to the nearest multiple of 0.005 mg; and
+
+
+
+**(d)** if it is 0.05 mg or more, to the nearest multiple of 0.01 mg.
+
+
+
+**(2)** The percentage is rounded off
+
+**(a)** if the amount is declared as 0 mg, to “0%”; and
+
+
+
+**(b)** in all other cases, to the nearest multiple of 1%.
+
+
+
+</td>
+</tr>
+<tr>
+<td>34</td>
+<td>Amount of manganese</td>
+<td>“Manganese”</td>
+<td>The amount is expressed
+
+**(a)** in milligrams per serving of stated size; and
+
+
+
+**(b)** as a percentage of the daily value per serving of stated size.
+
+
+
+</td>
+<td>**(1)** The amount is rounded off
+
+**(a)** if it is less than 0.005 mg, to “0 mg”;
+
+
+
+**(b)** if it is 0.005 mg or more but less than 0.05 mg, to the nearest multiple of 0.01 mg;
+
+
+
+**(c)** if it is 0.05 mg or more but less than 0.25 mg, to the nearest multiple of 0.025 mg; and
+
+
+
+**(d)** if it is 0.25 mg or more, to the nearest multiple of 0.05 mg.
+
+
+
+**(2)** The percentage is rounded off
+
+**(a)** if the amount is declared as 0 mg, to “0%”; and
+
+
+
+**(b)** in all other cases, to the nearest multiple of 1%.
+
+
+
+</td>
+</tr>
+<tr>
+<td>35</td>
+<td>Amount of chromium</td>
+<td>“Chromium”</td>
+<td>The amount is expressed
+
+**(a)** in micrograms per serving of stated size; and
+
+
+
+**(b)** as a percentage of the daily value per serving of stated size.
+
+
+
+</td>
+<td>**(1)** The amount is rounded off
+
+**(a)** if it is less than 0.05 µg, to “0 µg”;
+
+
+
+**(b)** if it is 0.05 µg or more but less than 0.5 µg, to the nearest multiple of 0.1 µg;
+
+
+
+**(c)** if it is 0.5 µg or more but less than 2.5 µg, to the nearest multiple of 0.25 µg; and
+
+
+
+**(d)** if it is 2.5 µg or more, to the nearest multiple of 0.5 µg.
+
+
+
+**(2)** The percentage is rounded off
+
+**(a)** if the amount is declared as 0 µg, to “0%”; and
+
+
+
+**(b)** in all other cases, to the nearest multiple of 1%.
+
+
+
+</td>
+</tr>
+<tr>
+<td>36</td>
+<td>Amount of molybdenum</td>
+<td>“Molybdenum”</td>
+<td>The amount is expressed
+
+**(a)** in micrograms per serving of stated size; and
+
+
+
+**(b)** as a percentage of the daily value per serving of stated size.
+
+
+
+</td>
+<td>**(1)** The amount is rounded off
+
+**(a)** if it is less than 0.05 µg, to “0 µg”;
+
+
+
+**(b)** if it is 0.05 µg or more but less than 0.5 µg, to the nearest multiple of 0.1 µg;
+
+
+
+**(c)** if it is 0.5 µg or more but less than 2.5 µg, to the nearest multiple of 0.25 µg; and
+
+
+
+**(d)** if it is 2.5 µg or more, to the nearest multiple of 0.5 µg.
+
+
+
+**(2)** The percentage is rounded off
+
+**(a)** if the amount is declared as 0 µg, to “0%”; and
+
+
+
+**(b)** in all other cases, to the nearest multiple of 1%.
+
+
+
+</td>
+</tr>
+<tr>
+<td>37</td>
+<td>Amount of chloride</td>
+<td>“Chloride”</td>
+<td>The amount is expressed
+
+**(a)** in milligrams per serving of stated size; and
+
+
+
+**(b)** as a percentage of the daily value per serving of stated size.
+
+
+
+</td>
+<td>**(1)** The amount is rounded off
+
+**(a)** if it is less than 5 mg, to “0 mg”;
+
+
+
+**(b)** if it is 5 mg or more but less than 50 mg, to the nearest multiple of 10 mg;
+
+
+
+**(c)** if it is 50 mg or more but less than 250 mg, to the nearest multiple of 25 mg; and
+
+
+
+**(d)** if it is 250 mg or more, to the nearest multiple of 50 mg.
+
+
+
+**(2)** The percentage is rounded off
+
+**(a)** if the amount is declared as 0 mg, to “0%”; and
+
+
+
+**(b)** in all other cases, to the nearest multiple of 1%.
+
+
+
+</td>
 </tr>
 </table>
 
-> SOR/2003-11, s. 20; err., Vol. 137, No. 5; SOR/2005-98, s. 2(F).
+> SOR/2003-11, s. 20; err., Vol. 137, No. 5; SOR/2005-98, s. 2(F); SOR/2016-305, ss. 19, 75(F).
 
 
 
 
 
-##### Foods for Children Under Two Years of Age
+##### Foods for Infants Six Months of Age or Older but Less Than One Year of Age
+> [SOR/2016-305, s. 20] 
+
 
 
 **B.01.403** 
 
-- **(1)** This section applies in respect of a prepackaged product intended solely for children under two years of age.
+- **(1)** This section applies to a prepackaged product that is intended solely for infants six months of age or older but less than one year of age.
 
-- **(2)** The nutrition facts table of the product shall not contain
-	- **(a)** the percentage of the daily value of fat, cholesterol, sodium, potassium, carbohydrate or fibre or of the sum of saturated fatty acids and *trans* fatty acids;
-	- **(b)** the energy value from fat or from the sum of saturated fatty acids and *trans* fatty acids; or
-	- **(c)** any of the footnotes to the subheading “% Daily Value” set out in Figures 18.1(E) and (F) in Schedule L.
+- **(2)** The nutrition facts table of the prepackaged product shall not contain the percentage of the daily value of fat, fibre, sugars, cholesterol or sodium or of the sum of saturated fatty acids and *trans* fatty acids.
 
 - **(3)** The nutrition facts table of the product may omit the amount of saturated fatty acids, *trans* fatty acids and cholesterol.
 
 - **(4)** Despite subsection (3), if the amount of cholesterol is in the nutrition facts table, the amounts of saturated fatty acids and *trans* fatty acids shall also be in the nutrition facts table.
 
-- **(5)** If the information in respect of six or more of the energy value and nutrients referred to in column 1 of items 2, 3 and 8 to 13 of the table to section B.01.401 may be expressed as “0” in the nutrition facts table of the product in accordance with that section, the nutrition facts table need only include the following information:
+- **(5)** If the information in respect of five or more of the energy value and nutrients referred to in column 1 of items 2, 3 and 8 to 15 of the table to section B.01.401 may be expressed as “0” in the nutrition facts table of the prepackaged product in accordance with that section, the nutrition facts table need only include the following information:
 	- **(a)** the serving of stated size;
 	- **(b)** the energy value;
 	- **(c)** the amount of fat;
@@ -3238,10 +4269,10 @@ shall be shown on the principal display panel of the label of a simulated meat p
 	- **(f)** the amount of any nutrient that is the subject of a representation referred to in subparagraph B.01.401(3)(e)(ii);
 	- **(g)** the amount of any sugar alcohol, vitamin or mineral nutrient added to the product, other than fluoride added to prepackaged water or ice;
 	- **(h)** the amount of any vitamin or mineral nutrient that is declared as a component of one of the product’s ingredients other than flour;
-	- **(i)** the amount of any nutrient referred to in column 1 of item 8, 10, 11 or 13 of the table to section B.01.401 that may not be expressed as “0” in the nutrition facts table;
+	- **(i)** the amount of any nutrient referred to in column 1 of any of items 8, 10 or 11 and 13 to 15 of the table to section B.01.401 that may not be expressed as “0” in the nutrition facts table;
 	- **(j)** except in the case described in paragraph (k), the statement “Not a significant source of (naming each nutrient that is omitted from the nutrition facts table in accordance with this subsection)”, but such a statement may be omitted in respect of saturated fatty acids, *trans* fatty acids and cholesterol; and
 	- **(k)** if the product meets the condition specified in subsection B.01.462(3), the statement “Not a significant source of other nutrients” or the statement referred to in paragraph (j).
-> SOR/2003-11, s. 20.
+> SOR/2003-11, s. 20; SOR/2016-305, ss. 21, 75(F).
 
 
 
@@ -3252,7 +4283,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **B.01.404** 
 
-- **(1)** This section applies to a prepackaged product that is intended solely for use as an ingredient in the manufacture of other prepackaged products intended for sale to a consumer at the retail level or as an ingredient in the preparation of food by a commercial or industrial enterprise or institution.
+- **(1)** This section applies to a prepackaged product that is intended solely for use as an ingredient in the manufacture of other prepackaged products intended for sale to a consumer at the retail level or as an ingredient in the preparation of food by a commercial or industrial enterprise or an institution.
 
 - **(2)** No person shall sell the product unless written nutrition information concerning the product accompanies the product when it is delivered to the purchaser.
 
@@ -3260,7 +4291,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 	- **(a)** shall include the information that would, but for subsection B.01.401(7), be required by sections B.01.401 and B.01.402 to be included in a nutrition facts table for the product;
 	- **(b)** may include other information that is permitted by section B.01.402 to be included in that nutrition facts table; and
 	- **(c)** shall be expressed in accordance with sections B.01.401 and B.01.402, subject to the following modifications, namely,
-		- **(i)** information for vitamins set out in column I of Table I to Division 1 of Part D and mineral nutrients set out in column I of Table I to Division 2 of that Part shall be expressed in the applicable units referred to in that column,
+		- **(i)** information for vitamins referred to in subsection D.01.002(1) shall be expressed in the applicable unit referred to in subsection D.01.003(1), and information for mineral nutrients referred to in paragraphs D.02.001(1)(a) to (j), (l) to (n) and (p) shall be expressed in milligrams for sodium, potassium, calcium, phosphorus, magnesium, iron, zinc, chloride, copper and manganese and in micrograms for iodide, chromium, selenium and molybdenum,
 			- **(A)** per gram or 100 grams of the food, if the net quantity of the food is declared on the label by weight or by count, or
 			- **(B)** per millilitre or 100 millilitres of the food, if the net quantity of the food is declared on the label by volume,
 		- **(ii)** information for other nutrients and the energy value set out in column 1 of the table to section B.01.401 or in column 1 of the table to section B.01.402 shall be expressed in the units referred to in column 3,
@@ -3268,7 +4299,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 			- **(B)** per millilitre or 100 millilitres of the food, if the net quantity of the food is declared on the label by volume,
 		- **(iii)** percentages of daily values and information on servings of stated size may be omitted, and
 		- **(iv)** the nutrition information shall be stated with a degree of precision that corresponds to the accuracy of the analytical methodology used to produce the information.
-> SOR/2003-11, s. 20.
+> SOR/2003-11, s. 20; SOR/2016-305, ss. 22, 73, 75(F).
 
 
 
@@ -3279,7 +4310,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **B.01.405** 
 
-- **(1)** This section applies to a prepackaged product that is a multiple-serving ready-to-serve prepackaged product intended solely to be served in a commercial or industrial enterprise or institution.
+- **(1)** This section applies to a prepackaged product that is a ready-to-serve multiple-serving prepackaged product intended solely to be served in a commercial or industrial enterprise or an institution.
 
 - **(2)** No person shall sell the product unless written nutrition information concerning the product accompanies the product when it is delivered to the purchaser.
 
@@ -3287,7 +4318,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 	- **(a)** shall include the information that would, but for subsection B.01.401(7), be required by sections B.01.401 and B.01.402 to be included in a nutrition facts table for the product;
 	- **(b)** may include other information that is permitted by section B.01.402 to be included in that nutrition facts table; and
 	- **(c)** shall be expressed in accordance with sections B.01.401 and B.01.402.
-> SOR/2003-11, s. 20.
+> SOR/2003-11, s. 20; SOR/2016-305, s. 23.
 
 
 
@@ -3310,31 +4341,32 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 - **(5)** If a prepackaged product contains a food that is to be prepared in accordance with directions provided in or on the package or that is commonly combined with other ingredients or another food or cooked before being consumed, the nutrition facts table may also set out information for the food as prepared, in which case
 	- **(a)** the nutrition facts table shall set out the following information for the food as prepared, namely,
-		- **(i)** except in the case described in subparagraph (ii), the amount of the food expressed in a unit specified in column 3 of paragraph 1(1)(a) or (c) of the table to section B.01.401 as “about (naming the serving size)” or “about (naming the serving size) prepared” and, if applicable, in the manner specified in column 4 of subitems 1(1) and (2),
-		- **(ii)** if the food is commonly served combined with another food, the amount of the other food expressed in a unit specified in column 3 of paragraph 1(1)(c) of the table to section B.01.401 and, if applicable, in the manner specified in column 4 of subitem 1(1),
-		- **(iii)** the energy value, expressed using a description set out in column 2 of item 2 of the table to section B.01.401, in the unit set out in column 3 and in the manner set out in column 4,
-		- **(iv)** if it is declared in the nutrition facts table for the food as sold, the energy value from fat, expressed using a description set out in column 2 of item 3 of the table to section B.01.402, in the unit set out in column 3 and in the manner set out in column 4, and
-		- **(v)** the information set out in column 1 of items 3, 6 to 10 and 13 of the table to section B.01.401 and in column 1 of items 9 and 14 of the table to section B.01.402 that is declared as a percentage of the daily value in the nutrition facts table for the food as sold, expressed using a description set out in column 2, as a percentage of the daily value per serving of stated size and in the manner specified in column 4; and
+		- **(i)** except in the case described in subparagraph (ii), the amount of the food expressed using the unit referred to in column 3 of subparagraph 1(b)(i) of the table to section B.01.401 as “about (naming the serving size)” or “about (naming the serving size) prepared” and, if applicable, in the manner specified in column 4 of subitems 1(1) and (2), and
+		- **(ii)** if the food is commonly served combined with another food, the amount of the other food expressed using the unit referred to in column 3 of subparagraph 1(b)(i) of the table to section B.01.401,
+		- **(iii)** the energy value, expressed using a description set out in column 2 of item 2 of the table to section B.01.401, in the unit set out in column 3 and in the manner set out in column 4, and
+		- **(iv)** the information set out in column 1 of items 3, 6 to 8, 11 and 13 to 15 of the table to section B.01.401 and in column 1 of items 14 to 37 of the table to section B.01.402 that is declared as a percentage of the daily value in the nutrition facts table for the food as sold, expressed using a description set out in column 2, as a percentage of the daily value per serving of stated size and in the manner specified in column 4; and
+		- **(v)** [Repealed, SOR/2016-305, s. 24]
 	- **(b)** the nutrition facts table may also set out the following information for the added ingredients or the other food, if it is declared in the nutrition facts table for the food as sold, namely,
-		- **(i)** the information set out in column 1 of items 3 to 5 and 7 to 12 of the table to section B.01.401, expressed using a description set out in column 2, in milligrams for the information set out in column 1 of items 7 and 8 and in grams for the information set out in column 1 of items 3 to 5 and 9 to 12 and in the manner specified in column 4, and
-		- **(ii)** the information set out in column 1 of items 5 to 13 of the table to section B.01.402, expressed using a description set out in column 2, in milligrams for the information set out in column 1 of item 9 and in grams for the information set out in column 1 of items 5 to 8 and 10 to 13 and in the manner specified in column 4.
+		- **(i)** the information set out in column 1 of items 3 to 5 and 7 to 12 of the table to section B.01.401, expressed using a description set out in column 2, in milligrams for the information set out in column 1 of items 7 and 8 and in grams for the information set out in column 1 of items 3 to 5 and 9 to 12 and in the manner specified in column 4,
+		- **(ii)** the information set out in column 1 of items 5 to 8 and 10 to 13 of the table to section B.01.402, expressed using a description set out in column 2, in grams and in the manner specified in column 4; and
+		- **(iii)** the information set out in column 1 of item 2 of the table to section B.01.401, expressed using a description set out in column 2, in the unit set out in column 3 per serving of stated size of the food as prepared, and in the manner specified in column 4.
 
-- **(6)** Subsection (5) does not apply in respect of a prepackaged product that is intended solely for children under two years of age.
+- **(6)** Subsection (5) does not apply in respect of a prepackaged product that is intended solely for infants six months of age or older but less than one year of age.
 
 - **(7)** Subject to subsection (8), the information in the nutrition facts table may also be set out on the basis of other amounts of a food that reflect different uses or different units of measurement of a food, in which case
 	- **(a)** the nutrition facts table shall set out the following information for each of the other amounts of food, namely,
-		- **(i)** the amount of the food expressed in a unit specified in column 3 of subitem 1(1) of the table to section B.01.401 and, if applicable, in the manner specified in column 4 of subitems 1(1) and (2),
-		- **(ii)** the energy value, expressed using a description set out in column 2 of item 2 of the table to section B.01.401, in the unit set out in column 3 and in the manner set out in column 4,
-		- **(iii)** if it is declared in the nutrition facts table for the first amount of food for which information is declared, the energy value from fat, expressed using a description set out in column 2 of item 3 of the table to section B.01.402, in the unit set out in column 3 and in the manner set out in column 4, and
-		- **(iv)** the information set out in column 1 of items 3, 6 to 10 and 13 of the table to section B.01.401 and in column 1 of items 9 and 14 of the table to section B.01.402 that is declared as a percentage of the daily value in the nutrition facts table for the first amount of food for which information is declared, expressed using a description set out in column 2, as a percentage of the daily value per serving of stated size and in the manner specified in column 4;
-	- **(b)** if the nutrition facts table is set out in a version of the dual format specified in section B.01.458, it may also set out the amount of each of the other amounts of food expressed in the unit specified in column 3 of subitem 1(2) of the table to section B.01.401 and in the manner specified in column 4 of subitem 1(1), if that information is declared in the nutrition facts table for the first amount of food for which information is declared; and
+		- **(i)** the amount of the food expressed in a household measure and a metric measure and in the manner specified in column 4 of subitems 1(1) and (2) of the table to section B.01.401,
+		- **(ii)** the energy value, expressed using a description set out in column 2 of item 2 of the table to section B.01.401, in the unit set out in column 3 and in the manner set out in column 4, and
+		- **(iii)** the information set out in column 1 of items 3, 6 to 8, 11 and 13 to 15 of the table to section B.01.401 and in column 1 of items 14 to 37 of the table to section B.01.402 that is declared as a percentage of the daily value in the nutrition facts table for the first amount of food for which information is declared, expressed using a description set out in column 2, as a percentage of the daily value per serving of stated size and in the manner specified in column 4; and
+		- **(iv)** [Repealed, SOR/2016-305, s. 24]
+	- **(b)** [Repealed, SOR/2016-305, s. 24]
 	- **(c)** if the nutrition facts table is set out in a version of the aggregate format specified in section B.01.459 or B.01.464, it shall also set out the following information for each of the other amounts of food, if that information is declared in the nutrition facts table for the first amount of food for which information is declared, namely,
-		- **(i)** the amount of the food expressed in the unit specified in column 3 of subitem 1(2) of the table to section B.01.401 and in the manner specified in column 4 of subitem 1(1),
+		- **(i)** [Repealed, SOR/2016-305, s. 24]
 		- **(ii)** the information set out in column 1 of items 3 to 5 and 7 to 12 of the table to section B.01.401, expressed using a description set out in column 2, in milligrams for the information set out in column 1 of items 7 and 8 and in grams for the information set out in column 1 of items 3 to 5 and 9 to 12 and in the manner specified in column 4, and
-		- **(iii)** the information set out in column 1 of items 5 to 13 of the table to section B.01.402, expressed using a description set out in column 2, in milligrams for the information set out in column 1 of item 9 and in grams for the information set out in column 1 of items 5 to 8 and 10 to 13 and in the manner specified in column 4.
+		- **(iii)** the information set out in column 1 of items 5 to 8 and 10 to 13 of the table to section B.01.402, expressed using a description set out in column 2, in grams and in the manner specified in column 4.
 
-- **(8)** If the nutrition facts table of a prepackaged product that is intended solely for children under two years of age sets out information in accordance with subsection (7), it shall set out the information referred to in paragraphs (7)(a) and (c).
-> SOR/2003-11, s. 20.
+- **(8)** If the nutrition facts table of a prepackaged product that is intended solely for infants six months of age or older but less than one year of age sets out information in accordance with subsection (7), it shall set out the information referred to in paragraphs (7)(a) and (c).
+> SOR/2003-11, s. 20; SOR/2016-305, s. 24.
 
 
 
@@ -3348,20 +4380,22 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **B.01.450** 
 
-- **(1)** Subject to subsections (2) to (6), the nutrition facts table shall be presented in accordance with the format specified in the applicable figure in Schedule L, having regard to matters such as order of presentation, dimensions, spacing and the use of upper and lower case letters and bold type.
+- **(1)** Subject to subsections (2) to (6), the nutrition facts table shall be presented in accordance with the format specified in the applicable figure in the Directory of NFT Formats, having regard to matters such as order of presentation, dimensions, spacing and the use of upper and lower case letters and bold type.
 
 - **(2)** The characters and rules in the nutrition facts table shall be displayed in a single colour that is a visual equivalent of 100% solid black type on a white background or on a uniform neutral background with a maximum 5% tint of colour.
 
 - **(3)** The characters in the nutrition facts table
 	- **(a)** shall be displayed in a single standard sans serif font that is not decorative and in such a manner that the characters never touch each other or the rules; and
-	- **(b)** may be displayed with larger dimensions than those specified in the applicable figure in Schedule L if all the characters in the table are enlarged in a uniform manner.
+	- **(b)** may be displayed with larger dimensions than those specified in the applicable figure in the Directory of NFT Formats if all the characters in the table are enlarged in a uniform manner.
 
-- **(4)** A rule that is specified in the applicable figure in Schedule L as being a 1 point rule or a 2 point rule may be displayed with larger dimensions in the nutrition facts table.
+- **(3.1)** The type size shown in parentheses for a version referred to in a table to sections B.01.454 to B.01.459 or sections B.01.461 to B.01.464 is the minimum type size that may be used in a nutrition facts table to show nutrients set out in the tables to sections B.01.401 and B.01.402 in accordance with that version.
+
+- **(4)** A rule that is specified in the applicable figure in the Directory of NFT Formats as being a 1 point rule or a 2 point rule may be displayed with larger dimensions in the nutrition facts table.
 
 - **(5)** The information in the nutrition facts table shall be in accordance with sections B.01.400 to B.01.403 and B.01.406.
 
-- **(6)** In a nutrition facts table consisting of a table in both English and French, the order of languages may be reversed from the order shown in the applicable figure in Schedule L.
-> SOR/2003-11, s. 20.
+- **(6)** In a nutrition facts table consisting of a table in both English and French, the order of languages may be reversed from the order shown in the applicable figure in the Directory of NFT Formats.
+> SOR/2003-11, s. 20; SOR/2016-305, ss. 25, 74.
 
 
 
@@ -3405,10 +4439,10 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **B.01.453** 
 
-- **(1)** Sections B.01.454 to B.01.460 apply to prepackaged products other than those that are intended solely for children under two years of age.
+- **(1)** Sections B.01.454 to B.01.460 apply to prepackaged products other than those that are intended solely for infants six months of age or older but less than one year of age.
 
-- **(2)** Sections B.01.461 to B.01.465 apply to prepackaged products that are intended solely for children under two years of age.
-> SOR/2003-11, s. 20.
+- **(2)** Sections B.01.461 to B.01.465 apply to prepackaged products that are intended solely for infants six months of age or older but less than one year of age.
+> SOR/2003-11, s. 20; SOR/2016-305, s. 26.
 
 
 
@@ -3421,20 +4455,20 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 - **(1)** This section applies to a prepackaged product unless any of sections B.01.455 to B.01.459 applies to the product.
 
-- **(2)** Subject to subsection (3), the nutrition facts table of the prepackaged product shall be set out in a version that is listed in column 1 of the table to this section and in respect of which the condition specified in column 2 is satisfied.
+- **(2)** Subject to subsection (3), the nutrition facts table of the prepackaged product shall be set out in a version that is listed in column 1 of the table to this section and in respect of which the condition specified in column 2 is satisfied.
 
-- **(3)** If it is not possible to display, in accordance with these Regulations on 15% or less of the available display surface of the prepackaged product, a nutrition facts table in any of the versions that is listed in column 1 of the table to this section, the nutrition facts table shall be set out in
-	- **(a)** the bilingual standard format in accordance with Figure 3.5(B), 3.6(B) or 3.7(B) of Schedule L;
-	- **(b)** the bilingual horizontal format in accordance with Figure 4.3(B), 4.4(B) or 4.5(B) of Schedule L;
-	- **(c)** the linear format in accordance with Figures 16.1(E) and (F) or 16.2(E) and (F) of Schedule L;
+- **(3)** If it is not possible to display, in accordance with these Regulations on 15% or less of the available display surface of the prepackaged product, a nutrition facts table in any of the versions that is listed in column 1 of the table to this section, the nutrition facts table shall be set out in
+	- **(a)** the bilingual standard format in accordance with Figure 3.5(B), 3.6(B) or 3.7(B) of the Directory of NFT Formats;
+	- **(b)** the bilingual horizontal format in accordance with Figure 4.3(B), 4.4(B) or 4.5(B) of the Directory of NFT Formats;
+	- **(c)** the linear format in accordance with Figures 16.1(E) and (F) or 16.2(E) and (F) of the Directory of NFT Formats;
 	- **(d)** a version that is listed in column 1 of the table to this section, even though more than 15% of the available display surface would be required to display the nutrition facts table; or
 	- **(e)** a manner described in section B.01.466.
 
 - **(4)** For the purpose of this section, in determining whether a version of a nutrition facts table cannot be displayed in accordance with these Regulations on 15% or less of the available display surface of the prepackaged product, the nutrition facts table shall include only the information that is required by these Regulations to be included in that table.
 
-- **(5)** Despite subsections (2) and (3), if the prepackaged product is sold only in the retail establishment where the product is packaged, is labelled by means of a sticker and has an available display surface of 200 cm<sup>2</sup> or more, its nutrition facts table shall be set out in a version that is listed in column 1 of items 1 to 3 of Parts 1 to 3 of the table to this section, without regard to any condition specified in column 2.
+- **(5)** Despite subsections (2) and (3), if the prepackaged product is sold only in the retail establishment where the product is packaged, is labelled by means of a sticker and has an available display surface of 200 cm<sup>2</sup> or more, its nutrition facts table shall be set out in a version that is listed in column 1 of items 1 to 3 of Parts 1 to 3 of the table to this section, without regard to any condition specified in column 2.
 
-- **(6)** Despite subsections (2) and (3), if the nutrition facts table of the prepackaged product is set out on a tag attached to an ornamental container or a tag attached to a package to which a label cannot be physically applied or on which information cannot be legibly set out and easily viewed by the purchaser or consumer under the customary conditions of purchase, it shall be set out in a version that is described in paragraph (3)(a), (b) or (c) or that is listed in column 1 of the table to this section, without regard to any condition specified in column 2.
+- **(6)** Despite subsections (2) and (3), if the nutrition facts table of the prepackaged product is set out on a tag attached to an ornamental container or a tag attached to a package to which a label cannot be physically applied or on which information cannot be legibly set out and easily viewed by the purchaser or consumer under the customary conditions of purchase, it shall be set out in a version that is described in paragraph (3)(a), (b) or (c) or that is listed in column 1 of the table to this section, without regard to any condition specified in column 2.
 
 **TABLE** 
 
@@ -3447,7 +4481,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <th>Column 2</th>
 </tr>
 <tr>
-<th>Figure in Schedule L (Version)</th>
+<th>Figure in Directory of NFT Formats (Version)</th>
 <th>Condition of use</th>
 </tr>
 <tr>
@@ -3456,47 +4490,47 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td></td>
 </tr>
 <tr>
-<td>(8 point type with 12 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>1.2(E) and (F)</td>
-<td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
 <td>1.3(E) and (F)</td>
-<td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>4</td>
 <td>1.4(E) and (F)</td>
-<td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>5</td>
 <td>1.5(E) and (F)</td>
-<td>The versions in items 1 to 4 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 to 4 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 <tr>
 <td>6</td>
 <td>1.6(E) and (F)</td>
-<td>The versions in items 1 to 5 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 to 5 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 9 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 </table>
 
@@ -3509,7 +4543,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <th>Column 2</th>
 </tr>
 <tr>
-<th>Figure in Schedule L (Version)</th>
+<th>Figure in Directory of NFT Formats (Version)</th>
 <th>Condition of use</th>
 </tr>
 <tr>
@@ -3518,31 +4552,31 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td></td>
 </tr>
 <tr>
-<td>(8 point type with 12 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>2.2(E) and (F)</td>
-<td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
 <td>2.3(E) and (F)</td>
-<td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>4</td>
 <td>2.4(E) and (F)</td>
-<td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 </table>
 
@@ -3555,7 +4589,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <th>Column 2</th>
 </tr>
 <tr>
-<th>Figure in Schedule L (Version)</th>
+<th>Figure in Directory of NFT Formats (Version)</th>
 <th>Condition of use</th>
 </tr>
 <tr>
@@ -3564,31 +4598,31 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td></td>
 </tr>
 <tr>
-<td>(8 point type with 12 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>3.2(B)</td>
-<td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
 <td>3.3(B)</td>
-<td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>4</td>
 <td>3.4(B)</td>
-<td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 </table>
 
@@ -3601,28 +4635,28 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <th>Column 2</th>
 </tr>
 <tr>
-<th>Figure in Schedule L (Version)</th>
+<th>Figure in Directory of NFT Formats (Version)</th>
 <th>Condition of use</th>
 </tr>
 <tr>
 <td>1</td>
 <td>4.1(B)</td>
-<td>The versions in Parts 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in Parts 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>2</td>
 <td>4.2(B)</td>
-<td>The versions in Parts 1 to 3 and in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in Parts 1 to 3 and in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 </table>
 
-> SOR/2003-11, s. 20.
+> SOR/2003-11, s. 20; SOR/2016-305, ss. 27, 74.
 
 
 
@@ -3635,18 +4669,18 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 - **(1)** This section applies to a prepackaged product if it satisfies the condition set out in subsection B.01.401(6) and its nutrition facts table includes only the information referred to in paragraphs B.01.401(6)(a) to (j).
 
-- **(2)** Subject to subsection (3), the nutrition facts table of the prepackaged product shall be set out in a version that is listed in column 1 of the table to this section and in respect of which the condition specified in column 2 is satisfied.
+- **(2)** Subject to subsection (3), the nutrition facts table of the prepackaged product shall be set out in a version that is listed in column 1 of the table to this section and in respect of which the condition specified in column 2 is satisfied.
 
-- **(3)** If it is not possible to display, in accordance with these Regulations on 15% or less of the available display surface of the prepackaged product, a nutrition facts table containing only the information referred to in paragraphs B.01.401(6)(a) to (j) in any of the versions that is listed in column 1 of the table to this section, the nutrition facts table shall be set out in
-	- **(a)** the bilingual simplified standard format in accordance with Figure 6.5(B) or 6.6(B) of Schedule L;
-	- **(b)** the bilingual simplified horizontal format in accordance with Figure 7.3(B) or 7.4(B) of Schedule L;
-	- **(c)** the simplified linear format in accordance with Figures 17.1(E) and (F) or 17.2(E) and (F) of Schedule L;
-	- **(d)** a version that is listed in column 1 of the table to this section, even though more than 15% of the available display surface would be required to display the nutrition facts table; or
+- **(3)** If it is not possible to display, in accordance with these Regulations on 15% or less of the available display surface of the prepackaged product, a nutrition facts table containing only the information referred to in paragraphs B.01.401(6)(a) to (j) in any of the versions that is listed in column 1 of the table to this section, the nutrition facts table shall be set out in
+	- **(a)** the bilingual simplified standard format in accordance with Figure 6.5(B) or 6.6(B) of the Directory of NFT Formats;
+	- **(b)** the bilingual simplified horizontal format in accordance with Figure 7.3(B) or 7.4(B) of the Directory of NFT Formats;
+	- **(c)** the simplified linear format in accordance with Figures 17.1(E) and (F) or 17.2(E) and (F) of the Directory of NFT Formats;
+	- **(d)** a version that is listed in column 1 of the table to this section, even though more than 15% of the available display surface would be required to display the nutrition facts table; or
 	- **(e)** a manner described in section B.01.466.
 
-- **(4)** Despite subsections (2) and (3), if the prepackaged product is sold only in the retail establishment where the product is packaged, is labelled by means of a sticker and has an available display surface of 200 cm<sup>2</sup> or more, its nutrition facts table shall be set out in a version that is listed in column 1 of items 1 to 3 of Parts 1 and 2 of the table to this section, without regard to any condition specified in column 2.
+- **(4)** Despite subsections (2) and (3), if the prepackaged product is sold only in the retail establishment where the product is packaged, is labelled by means of a sticker and has an available display surface of 200 cm<sup>2</sup> or more, its nutrition facts table shall be set out in a version that is listed in column 1 of items 1 to 3 of Parts 1 and 2 of the table to this section, without regard to any condition specified in column 2.
 
-- **(5)** Despite subsections (2) and (3), if the nutrition facts table of the prepackaged product is set out on a tag attached to an ornamental container or a tag attached to a package to which a label cannot be physically applied or on which information cannot be legibly set out and easily viewed by the purchaser or consumer under the customary conditions of purchase, it shall be set out in a version that is described in paragraph (3)(a), (b) or (c) or that is listed in column 1 of the table to this section, without regard to any condition specified in column 2.
+- **(5)** Despite subsections (2) and (3), if the nutrition facts table of the prepackaged product is set out on a tag attached to an ornamental container or a tag attached to a package to which a label cannot be physically applied or on which information cannot be legibly set out and easily viewed by the purchaser or consumer under the customary conditions of purchase, it shall be set out in a version that is described in paragraph (3)(a), (b) or (c) or that is listed in column 1 of the table to this section, without regard to any condition specified in column 2.
 
 **TABLE** 
 
@@ -3659,7 +4693,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <th>Column 2</th>
 </tr>
 <tr>
-<th>Figure in Schedule L (Version)</th>
+<th>Figure in Directory of NFT Formats (Version)</th>
 <th>Condition of use</th>
 </tr>
 <tr>
@@ -3668,47 +4702,47 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td></td>
 </tr>
 <tr>
-<td>(8 point type with 12 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>5.2(E) and (F)</td>
-<td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
 <td>5.3(E) and (F)</td>
-<td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>4</td>
 <td>5.4(E) and (F)</td>
-<td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>5</td>
 <td>5.5(E) and (F)</td>
-<td>The versions in items 1 to 4 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 to 4 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 <tr>
 <td>6</td>
 <td>5.6(E) and (F)</td>
-<td>The versions in items 1 to 5 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 to 5 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 9 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 </table>
 
@@ -3721,7 +4755,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <th>Column 2</th>
 </tr>
 <tr>
-<th>Figure in Schedule L (Version)</th>
+<th>Figure in Directory of NFT Formats (Version)</th>
 <th>Condition of use</th>
 </tr>
 <tr>
@@ -3730,31 +4764,31 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td></td>
 </tr>
 <tr>
-<td>(8 point type with 12 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>6.2(B)</td>
-<td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
 <td>6.3(B)</td>
-<td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>4</td>
 <td>6.4(B)</td>
-<td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 </table>
 
@@ -3767,28 +4801,132 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <th>Column 2</th>
 </tr>
 <tr>
-<th>Figure in Schedule L (Version)</th>
+<th>Figure in Directory of NFT Formats (Version)</th>
 <th>Condition of use</th>
 </tr>
 <tr>
 <td>1</td>
 <td>7.1(B)</td>
-<td>The versions in Parts 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in Parts 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>2</td>
 <td>7.2(B)</td>
-<td>The versions in Parts 1 and 2 and in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in Parts 1 and 2 and in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 </table>
 
-> SOR/2003-11, s. 20.
+> SOR/2003-11, s. 20; SOR/2016-305, ss. 28, 74.
+
+
+
+
+
+##### Simplified Formats — Single-serving Prepackaged Products
+
+
+**B.01.455.1** 
+
+- **(1)** This section applies to a single-serving prepackaged product, other than one that is a prepackaged meal, whose nutrition facts table includes only the information referred to in paragraphs B.01.401(6.1)(a) to (j).
+
+- **(2)** Subject to subsection (3), the nutrition facts table of the single-serving prepackaged product shall be set out in a version that is listed in column 1 of the table to this section and in respect of which the condition specified in column 2 is satisfied.
+
+- **(3)** If it is not possible to display, in accordance with these Regulations, on 15% or less of the available display surface of the single-serving prepackaged product a nutrition facts table containing only the information referred to in paragraphs B.01.401(6.1)(a) to (j) in any of the versions that is listed in column 1 of the table to this section, the nutrition facts table shall be set out in
+	- **(a)** the bilingual simplified standard format in accordance with Figure 6.5.1(B) or 6.6.1(B) of the Directory of NFT Formats;
+	- **(b)** the bilingual simplified horizontal format in accordance with Figure 7.3.1(B) or 7.4.1(B) of the Directory of NFT Formats;
+	- **(c)** the simplified linear format in accordance with Figures 17.1.1(E) and (F) or 17.2.1(E) and (F) of the Directory of NFT Formats;
+	- **(d)** a version that is listed in column 1 of the table to this section, even though more than 15% of the available display surface would be required to display the nutrition facts table; or
+	- **(e)** a manner described in section B.01.466.
+
+- **(4)** Despite subsections (2) and (3), if the single-serving prepackaged product is sold only in the retail establishment where the product is packaged, is labelled by means of a sticker and has an available display surface of 200 cm<sup>2</sup> or more, its nutrition facts table shall be set out in a version that is listed in column 1 of items 1 to 3 of Part 1 of the table to this section, without regard to any condition specified in column 2.
+
+- **(5)** Despite subsections (2) and (3), if the nutrition facts table of the single-serving prepackaged product is set out on a tag attached to an ornamental container or a tag attached to a package to which a label cannot be physically applied or on which information cannot be legibly set out and easily viewed by the purchaser or consumer under the customary conditions of purchase, it shall be set out in a version that is described in paragraph (3)(a), (b) or (c) or that is listed in column 1 of the table to this section, without regard to any condition specified in column 2.
+
+**TABLE** 
+
+#### PART 1
+<table>
+<h4>Bilingual Simplified Standard Format — Single-serving Prepackaged Products</h4>
+<tr>
+<th>Item</th>
+<th>Column 1</th>
+<th>Column 2</th>
+</tr>
+<tr>
+<th>Figure in Directory of NFT Formats (Version)</th>
+<th>Condition of use</th>
+</tr>
+<tr>
+<td>1</td>
+<td>6.1.1(B)</td>
+<td></td>
+</tr>
+<tr>
+<td>(nutrients to be shown in a type size of not less than 8 points)</td>
+</tr>
+<tr>
+<td>2</td>
+<td>6.2.1(B)</td>
+<td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+</tr>
+<tr>
+<td>(nutrients to be shown in a type size of not less than 7 points)</td>
+</tr>
+<tr>
+<td>3</td>
+<td>6.3.1(B)</td>
+<td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+</tr>
+<tr>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
+</tr>
+<tr>
+<td>4</td>
+<td>6.4.1(B)</td>
+<td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+</tr>
+<tr>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
+</tr>
+</table>
+
+#### PART 2
+<table>
+<h4>Bilingual Simplified Horizontal Format — Single-serving Prepackaged Products</h4>
+<tr>
+<th>Item</th>
+<th>Column 1</th>
+<th>Column 2</th>
+</tr>
+<tr>
+<th>Figure in Directory of NFT Formats (Version)</th>
+<th>Condition of use</th>
+</tr>
+<tr>
+<td>1</td>
+<td>7.1.1(B)</td>
+<td>The versions in Part 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+</tr>
+<tr>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
+</tr>
+<tr>
+<td>2</td>
+<td>7.2.1(B)</td>
+<td>The versions in Part 1 and in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+</tr>
+<tr>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
+</tr>
+</table>
+
+> SOR/2016-305, s. 29.
 
 
 
@@ -3799,15 +4937,15 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **B.01.456** 
 
-- **(1)** Subject to subsection (2), if the nutrition facts table of a prepackaged product includes information referred to in subsection B.01.406(5), the nutrition facts table shall be set out in a version that is listed in column 1 of the table to this section and in respect of which the condition specified in column 2 is satisfied.
+- **(1)** Subject to subsection (2), if the nutrition facts table of a prepackaged product includes information referred to in subsection B.01.406(5), the nutrition facts table shall be set out in a version that is listed in column 1 of the table to this section and in respect of which the condition specified in column 2 is satisfied.
 
-- **(2)** If it is not possible to display, in accordance with these Regulations on 15% or less of the available display surface of the prepackaged product, a nutrition facts table in any of the versions that is listed in column 1 of the table to this section, the nutrition facts table shall be set out in
-	- **(a)** the bilingual dual format in accordance with Figure 9.5(B) or 9.6(B) of Schedule L; or
-	- **(b)** a version that is listed in column 1 of the table to this section, even though more than 15% of the available display surface would be required to display the nutrition facts table.
+- **(2)** If it is not possible to display, in accordance with these Regulations on 15% or less of the available display surface of the prepackaged product, a nutrition facts table in any of the versions that is listed in column 1 of the table to this section, the nutrition facts table shall be set out in
+	- **(a)** the bilingual dual format in accordance with Figure 9.5(B) or 9.6(B) of the Directory of NFT Formats; or
+	- **(b)** a version that is listed in column 1 of the table to this section, even though more than 15% of the available display surface would be required to display the nutrition facts table.
 
 - **(3)** For the purpose of this section, in determining whether a version of a nutrition facts table cannot be displayed in accordance with these Regulations on 15% or less of the available display surface of the prepackaged product, the nutrition facts table shall include only the information that is required by these Regulations to be included in the table, together with the information referred to in subsection B.01.406(5).
 
-- **(4)** Despite subsections (1) and (2), if the nutrition facts table of the prepackaged product is set out on a tag attached to an ornamental container or a tag attached to a package to which a label cannot be physically applied or on which information cannot be legibly set out and easily viewed by the purchaser or consumer under the customary conditions of purchase, it shall be set out in a version that is described in paragraph (2)(a) or that is listed in column 1 of the table to this section, without regard to any condition specified in column 2.
+- **(4)** Despite subsections (1) and (2), if the nutrition facts table of the prepackaged product is set out on a tag attached to an ornamental container or a tag attached to a package to which a label cannot be physically applied or on which information cannot be legibly set out and easily viewed by the purchaser or consumer under the customary conditions of purchase, it shall be set out in a version that is described in paragraph (2)(a) or that is listed in column 1 of the table to this section, without regard to any condition specified in column 2.
 
 **TABLE** 
 
@@ -3820,7 +4958,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <th>Column 2</th>
 </tr>
 <tr>
-<th>Figure in Schedule L (Version)</th>
+<th>Figure in Directory of NFT Formats (Version)</th>
 <th>Condition of use</th>
 </tr>
 <tr>
@@ -3829,31 +4967,31 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td></td>
 </tr>
 <tr>
-<td>(8 point type with 12 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>8.2(E) and (F)</td>
-<td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
 <td>8.3(E) and (F)</td>
-<td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>4</td>
 <td>8.4(E) and (F)</td>
-<td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>5</td>
@@ -3861,7 +4999,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in items 1 to 4 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 <tr>
 <td>6</td>
@@ -3869,7 +5007,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in items 1 to 5 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 9 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 </table>
 
@@ -3882,7 +5020,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <th>Column 2</th>
 </tr>
 <tr>
-<th>Figure in Schedule L (Version)</th>
+<th>Figure in Directory of NFT Formats (Version)</th>
 <th>Condition of use</th>
 </tr>
 <tr>
@@ -3891,35 +5029,35 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td></td>
 </tr>
 <tr>
-<td>(8 point type with 12 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>9.2(B)</td>
-<td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
 <td>9.3(B)</td>
-<td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>4</td>
 <td>9.4(B)</td>
-<td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 </table>
 
-> SOR/2003-11, s. 20.
+> SOR/2003-11, s. 20; SOR/2016-305, ss. 30, 74.
 
 
 
@@ -3930,33 +5068,33 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **B.01.457** 
 
-- **(1)** Subject to subsection (2), if the nutrition facts table of a prepackaged product includes separate information for each food or ingredient as provided in subsection B.01.406(2), paragraph B.01.406(3)(a) or subsection B.01.406(4), the nutrition facts table shall be set out in a version that is listed in column 1 of the table to this section and in respect of which the condition specified in column 2 is satisfied.
+- **(1)** Subject to subsection (2), if the nutrition facts table of a prepackaged product includes separate information for each food or ingredient as provided in subsection B.01.406(2), paragraph B.01.406(3)(a) or subsection B.01.406(4), the nutrition facts table shall be set out in a version that is listed in column 1 of the table to this section and in respect of which the condition specified in column 2 is satisfied.
 
-- **(2)** If it is not possible to display, in accordance with these Regulations on 15% or less of the available display surface of the prepackaged product, a nutrition facts table in any of the versions that is listed in column 1 of the table to this section, the nutrition facts table shall be set out
+- **(2)** If it is not possible to display, in accordance with these Regulations on 15% or less of the available display surface of the prepackaged product, a nutrition facts table in any of the versions that is listed in column 1 of the table to this section, the nutrition facts table shall be set out
 	- **(a)** in the case of a product described in subsection B.01.406(2) or (4), in
-		- **(i)** the bilingual aggregate format in accordance with Figure 11.5(B) or 11.6(B) of Schedule L, or
+		- **(i)** the bilingual aggregate format in accordance with Figure 11.5(B) or 11.6(B) of the Directory of NFT Formats, or
 		- **(ii)** a version that is listed in column 1 of the table to this section, even though more than 15% of the available display surface would be required to display the nutrition facts table, or
 	- **(b)** in the case of a product described in paragraph B.01.406(3)(a), in
-		- **(i)** the bilingual aggregate format in accordance with Figure 11.5(B) or 11.6(B) of Schedule L,
-		- **(ii)** a version that is listed in column 1 of the table to this section, even though more than 15% of the available display surface would be required to display the nutrition facts table, or
+		- **(i)** the bilingual aggregate format in accordance with Figure 11.5(B) or 11.6(B) of the Directory of NFT Formats,
+		- **(ii)** a version that is listed in column 1 of the table to this section, even though more than 15% of the available display surface would be required to display the nutrition facts table, or
 		- **(iii)** a manner described in section B.01.466.
 
 - **(3)** For the purpose of this section, in determining whether a version of a nutrition facts table cannot be displayed in accordance with these Regulations on 15% or less of the available display surface of the prepackaged product, the nutrition facts table shall include only the information that is required by these Regulations to be included for each food or ingredient for which separate information is set out in the table.
 
-- **(4)** Despite subsections (1) and (2), if the nutrition facts table of the prepackaged product is set out on a tag attached to an ornamental container or a tag attached to a package to which a label cannot be physically applied or on which information cannot be legibly set out and easily viewed by the purchaser or consumer under the customary conditions of purchase, it shall be set out in a version that is described in subparagraph (2)(a)(i) or that is listed in column 1 of the table to this section, without regard to any condition specified in column 2.
+- **(4)** Despite subsections (1) and (2), if the nutrition facts table of the prepackaged product is set out on a tag attached to an ornamental container or a tag attached to a package to which a label cannot be physically applied or on which information cannot be legibly set out and easily viewed by the purchaser or consumer under the customary conditions of purchase, it shall be set out in a version that is described in subparagraph (2)(a)(i) or that is listed in column 1 of the table to this section, without regard to any condition specified in column 2.
 
 ## TABLE
 
 #### PART 1
 <table>
-<h4>AGGREGATE FORMAT — DIFFERENT KINDS OF FOODS</h4>
+<h4>Aggregate Format — Different Kinds of Foods</h4>
 <tr>
 <th>Item</th>
 <th>Column 1</th>
 <th>Column 2</th>
 </tr>
 <tr>
-<th>Figure in Schedule L (Version)</th>
+<th>Figure in Directory of NFT Formats (Version)</th>
 <th>Condition of use</th>
 </tr>
 <tr>
@@ -3965,60 +5103,60 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td></td>
 </tr>
 <tr>
-<td>(8 point type with 12 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>10.2(E) and (F)</td>
-<td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
 <td>10.3(E) and (F)</td>
-<td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>4</td>
 <td>10.4(E) and (F)</td>
-<td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>5</td>
 <td>10.5(E) and (F)</td>
-<td>The versions in items 1 to 4 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 to 4 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 <tr>
 <td>6</td>
 <td>10.6(E) and (F)</td>
-<td>The versions in items 1 to 5 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 to 5 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 9 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 </table>
 
 #### PART 2
 <table>
-<h4>BILINGUAL AGGREGATE FORMAT — DIFFERENT KINDS OF FOODS</h4>
+<h4>Bilingual Aggregate Format — Different Kinds of Foods</h4>
 <tr>
 <th>Item</th>
 <th>Column 1</th>
 <th>Column 2</th>
 </tr>
 <tr>
-<th>Figure in Schedule L (Version)</th>
+<th>Figure in Directory of NFT Formats (Version)</th>
 <th>Condition of use</th>
 </tr>
 <tr>
@@ -4027,35 +5165,35 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td></td>
 </tr>
 <tr>
-<td>(8 point type with 12 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>11.2(B)</td>
-<td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
 <td>11.3(B)</td>
-<td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>4</td>
 <td>11.4(B)</td>
-<td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 </table>
 
-> SOR/2003-11, s. 20.
+> SOR/2003-11, s. 20; SOR/2016-305, ss. 31, 74.
 
 
 
@@ -4066,28 +5204,28 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **B.01.458** 
 
-- **(1)** Subject to subsection (2), if the nutrition facts table of a prepackaged product includes separate information for different amounts of the food as provided in paragraph B.01.406(7)(a) without including the information referred to in paragraph B.01.406(7)(c), the nutrition facts table shall be set out in a version that is listed in column 1 of the table to this section and in respect of which the condition specified in column 2 is satisfied.
+- **(1)** Subject to subsection (2), if the nutrition facts table of a prepackaged product includes separate information for different amounts of the food as provided in paragraph B.01.406(7)(a) without including the information referred to in paragraph B.01.406(7)(c), the nutrition facts table shall be set out in a version that is listed in column 1 of the table to this section and in respect of which the condition specified in column 2 is satisfied.
 
-- **(2)** If it is not possible to display, in accordance with these Regulations on 15% or less of the available display surface of the prepackaged product, a nutrition facts table in any of the versions that is listed in column 1 of the table to this section, the nutrition facts table shall be set out in
-	- **(a)** the bilingual dual format in accordance with Figure 13.5(B) or 13.6(B) of Schedule L; or
-	- **(b)** a version that is listed in column 1 of the table to this section, even though more than 15% of the available display surface would be required to display the nutrition facts table.
+- **(2)** If it is not possible to display, in accordance with these Regulations on 15% or less of the available display surface of the prepackaged product, a nutrition facts table in any of the versions that is listed in column 1 of the table to this section, the nutrition facts table shall be set out in
+	- **(a)** the bilingual dual format in accordance with Figure 13.5(B) or 13.6(B) of the Directory of NFT Formats; or
+	- **(b)** a version that is listed in column 1 of the table to this section, even though more than 15% of the available display surface would be required to display the nutrition facts table.
 
 - **(3)** For the purpose of this section, in determining whether a version of a nutrition facts table cannot be displayed in accordance with these Regulations on 15% or less of the available display surface of the prepackaged product, the nutrition facts table shall include only the information that is required by these Regulations to be included for each amount of the food for which separate information is set out in the table.
 
-- **(4)** Despite subsections (1) and (2), if the nutrition facts table of the prepackaged product is set out on a tag attached to an ornamental container or a tag attached to a package to which a label cannot be physically applied or on which information cannot be legibly set out and easily viewed by the purchaser or consumer under the customary conditions of purchase, it shall be set out in a version that is described in paragraph (2)(a) or that is listed in column 1 of the table to this section, without regard to any condition specified in column 2.
+- **(4)** Despite subsections (1) and (2), if the nutrition facts table of the prepackaged product is set out on a tag attached to an ornamental container or a tag attached to a package to which a label cannot be physically applied or on which information cannot be legibly set out and easily viewed by the purchaser or consumer under the customary conditions of purchase, it shall be set out in a version that is described in paragraph (2)(a) or that is listed in column 1 of the table to this section, without regard to any condition specified in column 2.
 
 ## TABLE
 
 #### PART 1
 <table>
-<h4>DUAL FORMAT — DIFFERENT AMOUNTS OF FOOD</h4>
+<h4>Dual Format — Different Amounts of Food</h4>
 <tr>
 <th>Item</th>
 <th>Column 1</th>
 <th>Column 2</th>
 </tr>
 <tr>
-<th>Figure in Schedule L (Version)</th>
+<th>Figure in Directory of NFT Formats (Version)</th>
 <th>Condition of use</th>
 </tr>
 <tr>
@@ -4096,61 +5234,60 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td></td>
 </tr>
 <tr>
-<td>(8 point type with 12 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>12.2(E) and (F)</td>
-<td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
 <td>12.3(E) and (F)</td>
-<td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>4</td>
 <td>12.4(E) and (F)</td>
-<td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td></td>
-<td>(7 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>5</td>
 <td>12.5(E) and (F)</td>
-<td>The versions in items 1 to 4 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 to 4 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 <tr>
 <td>6</td>
 <td>12.6(E) and (F)</td>
-<td>The versions in items 1 to 5 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 to 5 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 9 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 </table>
 
 #### PART 2
 <table>
-<h4>BILINGUAL DUAL FORMAT — DIFFERENT AMOUNTS OF FOOD</h4>
+<h4>Bilingual Dual Format — Different Amounts of Food</h4>
 <tr>
 <th>Item</th>
 <th>Column 1</th>
 <th>Column 2</th>
 </tr>
 <tr>
-<th>Figure in Schedule L (Version)</th>
+<th>Figure in Directory of NFT Formats (Version)</th>
 <th>Condition of use</th>
 </tr>
 <tr>
@@ -4159,35 +5296,35 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td></td>
 </tr>
 <tr>
-<td>(8 point type with 12 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>13.2(B)</td>
-<td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
 <td>13.3(B)</td>
-<td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>4</td>
 <td>13.4(B)</td>
-<td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 </table>
 
-> SOR/2003-11, s. 20.
+> SOR/2003-11, s. 20; SOR/2016-305, ss. 32, 74.
 
 
 
@@ -4198,28 +5335,28 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **B.01.459** 
 
-- **(1)** Subject to subsection (2), if the nutrition facts table of a prepackaged product includes separate information for different amounts of the food as provided in paragraphs B.01.406(7)(a) and (c), the nutrition facts table shall be set out in a version that is listed in column 1 of the table to this section and in respect of which the condition specified in column 2 is satisfied.
+- **(1)** Subject to subsection (2), if the nutrition facts table of a prepackaged product includes separate information for different amounts of the food as provided in paragraphs B.01.406(7)(a) and (c), the nutrition facts table shall be set out in a version that is listed in column 1 of the table to this section and in respect of which the condition specified in column 2 is satisfied.
 
-- **(2)** If it is not possible to display, in accordance with these Regulations on 15% or less of the available display surface of the prepackaged product, a nutrition facts table in any of the versions that is listed in column 1 of the table to this section, the nutrition facts table shall be set out in
-	- **(a)** the bilingual aggregate format in accordance with Figure 15.5(B) or 15.6(B) of Schedule L; or
-	- **(b)** a version that is listed in column 1 of the table to this section, even though more than 15% of the available display surface would be required to display the nutrition facts table.
+- **(2)** If it is not possible to display, in accordance with these Regulations on 15% or less of the available display surface of the prepackaged product, a nutrition facts table in any of the versions that is listed in column 1 of the table to this section, the nutrition facts table shall be set out in
+	- **(a)** the bilingual aggregate format in accordance with Figure 15.5(B) or 15.6(B) of the Directory of NFT Formats; or
+	- **(b)** a version that is listed in column 1 of the table to this section, even though more than 15% of the available display surface would be required to display the nutrition facts table.
 
 - **(3)** For the purpose of this section, in determining whether a version of a nutrition facts table cannot be displayed in accordance with these Regulations on 15% or less of the available display surface of the prepackaged product, the nutrition facts table shall include only the information that is required by these Regulations to be included for each amount of the food for which separate information is set out in the table.
 
-- **(4)** Despite subsections (1) and (2), if the nutrition facts table of the prepackaged product is set out on a tag attached to an ornamental container or a tag attached to a package to which a label cannot be physically applied or on which information cannot be legibly set out and easily viewed by the purchaser or consumer under the customary conditions of purchase, it shall be set out in a version that is described in paragraph (2)(a) or that is listed in column 1 of the table to this section, without regard to any condition specified in column 2.
+- **(4)** Despite subsections (1) and (2), if the nutrition facts table of the prepackaged product is set out on a tag attached to an ornamental container or a tag attached to a package to which a label cannot be physically applied or on which information cannot be legibly set out and easily viewed by the purchaser or consumer under the customary conditions of purchase, it shall be set out in a version that is described in paragraph (2)(a) or that is listed in column 1 of the table to this section, without regard to any condition specified in column 2.
 
 ## TABLE
 
 #### PART 1
 <table>
-<h4>AGGREGATE FORMAT — DIFFERENT AMOUNTS OF FOOD</h4>
+<h4>Aggregate Format — Different Amounts of Food</h4>
 <tr>
 <th>Item</th>
 <th>Column 1</th>
 <th>Column 2</th>
 </tr>
 <tr>
-<th>Figure in Schedule L (Version)</th>
+<th>Figure in Directory of NFT Formats (Version)</th>
 <th>Condition of use</th>
 </tr>
 <tr>
@@ -4228,60 +5365,60 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td></td>
 </tr>
 <tr>
-<td>(8 point type with 12 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>14.2(E) and (F)</td>
-<td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
 <td>14.3(E) and (F)</td>
-<td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>4,</td>
 <td>14.4(E) and (F)</td>
-<td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>5</td>
 <td>14.5(E) and (F)</td>
-<td>The versions in items 1 to 4 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 to 4 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 <tr>
 <td>6</td>
 <td>14.6(E) and (F)</td>
-<td>The versions in items 1 to 5 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 to 5 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 9 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 </table>
 
 #### PART 2
 <table>
-<h4>BILINGUAL AGGREGATE FORMAT — DIFFERENT AMOUNTS OF FOOD</h4>
+<h4>Bilingual Aggregate Format — Different Amounts of Food</h4>
 <tr>
 <th>Item</th>
 <th>Column 1</th>
 <th>Column 2</th>
 </tr>
 <tr>
-<th>Figure in Schedule L (Version)</th>
+<th>Figure in Directory of NFT Formats (Version)</th>
 <th>Condition of use</th>
 </tr>
 <tr>
@@ -4290,35 +5427,35 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td></td>
 </tr>
 <tr>
-<td>(8 point type with 12 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>15.2(B)</td>
-<td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
 <td>15.3(B)</td>
-<td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>4</td>
 <td>15.4(B)</td>
-<td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
+<td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 </table>
 
-> SOR/2003-11, s. 20.
+> SOR/2003-11, s. 20; SOR/2016-305, ss. 33, 74.
 
 
 
@@ -4330,36 +5467,36 @@ shall be shown on the principal display panel of the label of a simulated meat p
 **B.01.460** 
 
 - **(1)** If information referred to in column 1 of the table to section B.01.402 is included in a nutrition facts table that is set out in a version consisting of a table in English and a table in French or a table in English or French, that information shall be displayed
-	- **(a)** in accordance with the order of presentation, the use of indents and the presentation of footnotes illustrated in Figures 18.1(E) and (F) of Schedule L; and
-	- **(b)** in respect of matters other than those referred to in paragraph (a), in accordance with the format that is specified in the applicable figure in Schedule L.
+	- **(a)** in accordance with the order of presentation, the use of indents and the presentation of footnotes illustrated in Figures 18.1(E) and (F) of the Directory of NFT Formats; and
+	- **(b)** in respect of matters other than those referred to in paragraph (a), in accordance with the format that is specified in the applicable figure in the Directory of NFT Formats.
 
 - **(2)** If information referred to in column 1 of the table to section B.01.402 is included in a nutrition facts table that is set out in a version consisting of a table in both English and French, that information shall be displayed
-	- **(a)** in accordance with the order of presentation, the use of indents and the presentation of footnotes illustrated in Figure 19.1(B) of Schedule L; and
-	- **(b)** in respect of matters other than those referred to in paragraph (a), in accordance with the format that is specified in the applicable figure in Schedule L.
+	- **(a)** in accordance with the order of presentation, the use of indents and the presentation of footnotes illustrated in Figure 19.1(B) of the Directory of NFT Formats; and
+	- **(b)** in respect of matters other than those referred to in paragraph (a), in accordance with the format that is specified in the applicable figure in the Directory of NFT Formats.
 
-- **(3)** Despite paragraph (1)(a), the use of indents illustrated in Figures 18.1(E) and (F) of Schedule L is not applicable if information referred to in column 1 of the table to section B.01.402 is set out in the linear format referred to in paragraph B.01.454(3)(c) or the simplified linear format referred to in paragraph B.01.455(3)(c).
-> SOR/2003-11, s. 20.
-
-
+- **(3)** Despite paragraph (1)(a), the use of indents illustrated in Figures 18.1(E) and (F) of the Directory of NFT Formats is not applicable if information referred to in column 1 of the table to section B.01.402 is set out in the linear format referred to in paragraph B.01.454(3)(c) or the simplified linear format referred to in paragraph B.01.455(3)(c).
+> SOR/2003-11, s. 20; SOR/2016-305, s. 74.
 
 
 
-##### Standard and Horizontal Formats — Children Under Two Years of Age
-> [SOR/2003-11, s. 20; err.(E), Vol. 137, No. 5]
+
+
+##### Standard and Horizontal Formats — Infants Six Months of Age or Older but Less Than One Year of Age
+> [SOR/2003-11, s. 20; err.(E), Vol. 137, No. 5; SOR/2016-305, s. 34]
 
 
 
 **B.01.461** 
 
-- **(1)** This section applies to a prepackaged product that is intended solely for children under two years of age unless section B.01.462, B.01.463 or B.01.464 applies to the product.
+- **(1)** This section applies to a prepackaged product that is intended solely for infants six months of age or older but less than one year of age unless section B.01.462, B.01.463 or B.01.464 applies to the product.
 
-- **(2)** Subject to subsection (3), the nutrition facts table of the prepackaged product shall be set out in a version that is listed in column 1 of the table to this section and in respect of which the condition specified in column 2 is satisfied.
+- **(2)** Subject to subsection (3), the nutrition facts table of the prepackaged product shall be set out in a version that is listed in column 1 of the table to this section and in respect of which the condition specified in column 2 is satisfied.
 
-- **(3)** If it is not possible to display, in accordance with these Regulations on 15% or less of the available display surface of the prepackaged product, a nutrition facts table in any of the versions that is listed in column 1 of the table to this section, the nutrition facts table shall be set out in
-	- **(a)** the bilingual standard format in accordance with Figure 22.5(B), 22.6(B) or 22.7(B) of Schedule L;
-	- **(b)** the bilingual horizontal format in accordance with Figure 23.3(B) or 23.4(B) of Schedule L;
-	- **(c)** the linear format in accordance with Figures 31.1(E) and (F) or 31.2(E) and (F) of Schedule L;
-	- **(d)** a version that is listed in column 1 of the table to this section, even though more than 15% of the available display surface would be required to display the nutrition facts table; or
+- **(3)** If it is not possible to display, in accordance with these Regulations on 15% or less of the available display surface of the prepackaged product, a nutrition facts table in any of the versions that is listed in column 1 of the table to this section, the nutrition facts table shall be set out in
+	- **(a)** the bilingual standard format in accordance with Figure 22.5(B), 22.6(B) or 22.7(B) of the Directory of NFT Formats;
+	- **(b)** the bilingual horizontal format in accordance with Figure 23.3(B) or 23.4(B) of the Directory of NFT Formats;
+	- **(c)** the linear format in accordance with Figures 31.1(E) and (F) or 31.2(E) and (F) of the Directory of NFT Formats;
+	- **(d)** a version that is listed in column 1 of the table to this section, even though more than 15% of the available display surface would be required to display the nutrition facts table; or
 	- **(e)** a manner described in section B.01.466.
 
 - **(4)** For the purpose of this section, in determining whether a version of a nutrition facts table cannot be displayed in accordance with these Regulations on 15% or less of the available display surface of the prepackaged product, the nutrition facts table shall include only the information that is required by these Regulations to be included in that table.
@@ -4368,14 +5505,14 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 #### PART 1
 <table>
-<h4>STANDARD FORMAT — CHILDREN UNDER TWO YEARS OF AGE</h4>
+<h4>Standard Format — Infants Six Months of Age or Older but Less Than One Year of Age</h4>
 <tr>
 <th>Item</th>
 <th>Column 1</th>
 <th>Column 2</th>
 </tr>
 <tr>
-<th>Figure in Schedule L (Version)</th>
+<th>Figure in Directory of NFT Formats (Version)</th>
 <th>Condition of use</th>
 </tr>
 <tr>
@@ -4384,7 +5521,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td></td>
 </tr>
 <tr>
-<td>(8 point type with 12 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4392,7 +5529,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
@@ -4400,7 +5537,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>4</td>
@@ -4408,7 +5545,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>5</td>
@@ -4416,7 +5553,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in items 1 to 4 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 <tr>
 <td>6</td>
@@ -4424,20 +5561,20 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in items 1 to 5 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 9 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 </table>
 
 #### PART 2
 <table>
-<h4>NARROW STANDARD FORMAT — CHILDREN UNDER TWO YEARS OF AGE</h4>
+<h4>Narrow Standard Format — Infants Six Months of Age or Older but Less Than One Year of Age</h4>
 <tr>
 <th>Item</th>
 <th>Column 1</th>
 <th>Column 2</th>
 </tr>
 <tr>
-<th>Figure in Schedule L (Version)</th>
+<th>Figure in Directory of NFT Formats (Version)</th>
 <th>Condition of use</th>
 </tr>
 <tr>
@@ -4446,7 +5583,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td></td>
 </tr>
 <tr>
-<td>(8 point type with 12 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4454,7 +5591,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
@@ -4462,7 +5599,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>4</td>
@@ -4470,20 +5607,20 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 </table>
 
 #### PART 3
 <table>
-<h4>BILINGUAL STANDARD FORMAT — CHILDREN UNDER TWO YEARS OF AGE</h4>
+<h4>Bilingual Standard Format — Infants Six Months of Age or Older but Less Than One Year of Age</h4>
 <tr>
 <th>Item</th>
 <th>Column 1</th>
 <th>Column 2</th>
 </tr>
 <tr>
-<th>Figure in Schedule L (Version)</th>
+<th>Figure in Directory of NFT Formats (Version)</th>
 <th>Condition of use</th>
 </tr>
 <tr>
@@ -4492,7 +5629,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td></td>
 </tr>
 <tr>
-<td>(8 point type with 12 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4500,7 +5637,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
@@ -4508,7 +5645,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>4</td>
@@ -4516,20 +5653,20 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 </table>
 
 #### PART 4
 <table>
-<h4>BILINGUAL HORIZONTAL FORMAT — CHILDREN UNDER TWO YEARS OF AGE</h4>
+<h4>Bilingual Horizontal Format — Infants Six Months of Age or Older but Less Than One Year of Age</h4>
 <tr>
 <th>Item</th>
 <th>Column 1</th>
 <th>Column 2</th>
 </tr>
 <tr>
-<th>Figure in Schedule L (Version)</th>
+<th>Figure in Directory of NFT Formats (Version)</th>
 <th>Condition of use</th>
 </tr>
 <tr>
@@ -4538,7 +5675,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in Parts 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4546,44 +5683,46 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in Parts 1 to 3 and in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 </table>
 
-> SOR/2003-11, s. 20.
+> SOR/2003-11, s. 20; SOR/2016-305, ss. 35, 74.
 
 
 
 
 
-##### Simplified Formats — Children Under Two Years of Age
+##### Simplified Formats — Infants Six Months of Age or Older but Less Than One Year of Age
+> [SOR/2016-305, s. 36]
+
 
 
 **B.01.462** 
 
-- **(1)** This section applies to a prepackaged product that is intended solely for children under two years of age if it satisfies the condition set out in subsection B.01.403(5) and its nutrition facts table includes only the information referred to in paragraphs B.01.403(5)(a) to (k).
+- **(1)** This section applies to a prepackaged product that is intended solely for infants six months of age or older but less than one year of age if it satisfies the condition set out in subsection B.01.403(5) and its nutrition facts table includes only the information referred to in paragraphs B.01.403(5)(a) to (k).
 
-- **(2)** Subject to subsection (3), the nutrition facts table of the prepackaged product shall be set out in a version that is listed in column 1 of the table to this section and in respect of which the condition specified in column 2 is satisfied.
+- **(2)** Subject to subsection (3), the nutrition facts table of the prepackaged product shall be set out in a version that is listed in column 1 of the table to this section and in respect of which the condition specified in column 2 is satisfied.
 
 - **(3)** If it is not possible to display, in accordance with these Regulations on 15% or less of the available display surface of the prepackaged product, a nutrition facts table containing only the information referred to in paragraphs B.01.403(5)(a) to (k) in any of the versions that is listed in column 1 of the table to this section, the nutrition facts table shall be set out in
-	- **(a)** the bilingual simplified standard format in accordance with Figure 25.5(B) or 25.6(B) of Schedule L;
-	- **(b)** the bilingual simplified horizontal format in accordance with Figure 26.3(B) or 26.4(B) of Schedule L;
-	- **(c)** the simplified linear format in accordance with Figures 32.1(E) and (F) or 32.2(E) and (F) of Schedule L;
-	- **(d)** a version that is listed in column 1 of the table to this section, even though more than 15% of the available display surface would be required to display the nutrition facts table; or
+	- **(a)** the bilingual simplified standard format in accordance with Figure 25.5(B) or 25.6(B) of the Directory of NFT Formats;
+	- **(b)** the bilingual simplified horizontal format in accordance with Figure 26.3(B) or 26.4(B) of the Directory of NFT Formats;
+	- **(c)** the simplified linear format in accordance with Figures 32.1(E) and (F) or 32.2(E) and (F) of the Directory of NFT Formats;
+	- **(d)** a version that is listed in column 1 of the table to this section, even though more than 15% of the available display surface would be required to display the nutrition facts table; or
 	- **(e)** a manner described in section B.01.466.
 
 ## TABLE
 
 #### PART 1
 <table>
-<h4>SIMPLIFIED STANDARD FORMAT — CHILDREN UNDER TWO YEARS OF AGE</h4>
+<h4>Simplified Standard Format — Infants Six Months of Age or Older but Less Than One Year of Age</h4>
 <tr>
 <th>Item</th>
 <th>Column 1</th>
 <th>Column 2</th>
 </tr>
 <tr>
-<th>Figure in Schedule L (Version)</th>
+<th>Figure in Directory of NFT Formats (Version)</th>
 <th>Condition of use</th>
 </tr>
 <tr>
@@ -4592,7 +5731,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td></td>
 </tr>
 <tr>
-<td>(8 point type with 12 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4600,7 +5739,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
@@ -4608,7 +5747,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>4</td>
@@ -4616,7 +5755,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>5</td>
@@ -4624,7 +5763,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in items 1 to 4 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 <tr>
 <td>6</td>
@@ -4632,20 +5771,20 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in items 1 to 5 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 9 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 </table>
 
 #### PART 2
 <table>
-<h4>BILINGUAL SIMPLIFIED STANDARD FORMAT — CHILDREN UNDER TWO YEARS OF AGE</h4>
+<h4>Bilingual Simplified Standard Format — Infants Six Months of Age or Older but Less Than One Year of Age</h4>
 <tr>
 <th>Item</th>
 <th>Column 1</th>
 <th>Column 2</th>
 </tr>
 <tr>
-<th>Figure in Schedule L (Version)</th>
+<th>Figure in Directory of NFT Formats (Version)</th>
 <th>Condition of use</th>
 </tr>
 <tr>
@@ -4654,7 +5793,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td></td>
 </tr>
 <tr>
-<td>(8 point type with 12 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4662,7 +5801,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
@@ -4670,7 +5809,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>4</td>
@@ -4678,20 +5817,20 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 </table>
 
 #### PART 3
 <table>
-<h4>BILINGUAL SIMPLIFIED HORIZONTAL FORMAT — CHILDREN UNDER TWO YEARS OF AGE</h4>
+<h4>Bilingual Simplified Horizontal Format — Infants Six Months of Age or Older but Less Than One Year of Age</h4>
 <tr>
 <th>Item</th>
 <th>Column 1</th>
 <th>Column 2</th>
 </tr>
 <tr>
-<th>Figure in Schedule L (Version)</th>
+<th>Figure in Directory of NFT Formats (Version)</th>
 <th>Condition of use</th>
 </tr>
 <tr>
@@ -4700,7 +5839,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in Parts 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4708,30 +5847,32 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in Parts 1 and 2 and in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 </table>
 
-> SOR/2003-11, s. 20.
+> SOR/2003-11, s. 20; SOR/2016-305, ss. 37, 74.
 
 
 
 
 
-##### Aggregate Format — Different Kinds of Foods — Children Under Two Years of Age
+##### Aggregate Format — Different Kinds of Foods — Infants Six Months of Age or Older but Less Than One Year of Age
+> [SOR/2016-305, s. 38]
+
 
 
 **B.01.463** 
 
-- **(1)** Subject to subsection (2), if the nutrition facts table of a prepackaged product that is intended solely for children under two years of age includes separate information for each food or ingredient as provided in subsection B.01.406(2), paragraph B.01.406(3)(a) or subsection B.01.406(4), the nutrition facts table shall be set out in a version that is listed in column 1 of the table to this section and in respect of which the condition specified in column 2 is satisfied.
+- **(1)** Subject to subsection (2), if the nutrition facts table of a prepackaged product that is intended solely for infants six months of age or older but less than one year of age includes separate information for each food or ingredient as provided in subsection B.01.406(2), paragraph B.01.406(3)(a) or subsection B.01.406(4), the nutrition facts table shall be set out in a version that is listed in column 1 of the table to this section and in respect of which the condition specified in column 2 is satisfied.
 
-- **(2)** If it is not possible to display, in accordance with these Regulations on 15% or less of the available display surface of the prepackaged product, a nutrition facts table in any of the versions that is listed in column 1 of the table to this section, the nutrition facts table shall be set out
+- **(2)** If it is not possible to display, in accordance with these Regulations on 15% or less of the available display surface of the prepackaged product, a nutrition facts table in any of the versions that is listed in column 1 of the table to this section, the nutrition facts table shall be set out
 	- **(a)** in the case of a product described in subsection B.01.406(2) or (4), in
-		- **(i)** the bilingual aggregate format in accordance with Figure 28.5(B) or 28.6(B) of Schedule L, or
+		- **(i)** the bilingual aggregate format in accordance with Figure 28.5(B) or 28.6(B) of the Directory of NFT Formats, or
 		- **(ii)** a version that is listed in column 1 of the table to this section, even though more than 15% of the available display surface would be required to display the nutrition facts table, or
 	- **(b)** in the case of a product described in paragraph B.01.406(3)(a), in
-		- **(i)** the bilingual aggregate format in accordance with Figure 28.5(B) or 28.6(B) of Schedule L,
-		- **(ii)** a version that is listed in column 1 of the table to this section, even though more than 15% of the available display surface would be required to display the nutrition facts table, or
+		- **(i)** the bilingual aggregate format in accordance with Figure 28.5(B) or 28.6(B) of the Directory of NFT Formats,
+		- **(ii)** a version that is listed in column 1 of the table to this section, even though more than 15% of the available display surface would be required to display the nutrition facts table, or
 		- **(iii)** a manner described in section B.01.466.
 
 - **(3)** For the purpose of this section, in determining whether a version of a nutrition facts table cannot be displayed in accordance with these Regulations on 15% or less of the available display surface of the prepackaged product, the nutrition facts table shall include only the information that is required by these Regulations to be included for each food or ingredient for which separate information is set out in the table.
@@ -4740,14 +5881,14 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 #### PART 1
 <table>
-<h4>AGGREGATE FORMAT — DIFFERENT KINDS OF FOODS — CHILDREN UNDER TWO YEARS OF AGE</h4>
+<h4>Aggregate Format — Different Kinds of Foods — Infants Six Months of Age or Older but Less Than One Year of Age</h4>
 <tr>
 <th>Item</th>
 <th>Column 1</th>
 <th>Column 2</th>
 </tr>
 <tr>
-<th>Figure in Schedule L (Version)</th>
+<th>Figure in Directory of NFT Formats (Version)</th>
 <th>Condition of use</th>
 </tr>
 <tr>
@@ -4756,7 +5897,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td></td>
 </tr>
 <tr>
-<td>(8 point type with 12 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4764,7 +5905,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
@@ -4772,7 +5913,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>4</td>
@@ -4780,7 +5921,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>5</td>
@@ -4788,7 +5929,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in items 1 to 4 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 <tr>
 <td>6</td>
@@ -4796,20 +5937,20 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in items 1 to 5 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 9 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 </table>
 
 #### PART 2
 <table>
-<h4>BILINGUAL AGGREGATE FORMAT — DIFFERENT KINDS OF FOODS — CHILDREN UNDER TWO YEARS OF AGE</h4>
+<h4>Bilingual Aggregate Format — Different Kinds of Foods — Infants Six Months of Age or Older but Less Than One Year of Age</h4>
 <tr>
 <th>Item</th>
 <th>Column 1</th>
 <th>Column 2</th>
 </tr>
 <tr>
-<th>Figure in Schedule L (Version)</th>
+<th>Figure in Directory of NFT Formats (Version)</th>
 <th>Condition of use</th>
 </tr>
 <tr>
@@ -4818,7 +5959,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td></td>
 </tr>
 <tr>
-<td>(8 point type with 12 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4826,7 +5967,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
@@ -4834,7 +5975,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>4</td>
@@ -4842,26 +5983,28 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 </table>
 
-> SOR/2003-11, s. 20.
+> SOR/2003-11, s. 20; SOR/2016-305, ss. 39, 74.
 
 
 
 
 
-##### Aggregate Format — Different Amounts of Food — Children Under Two Years of Age
+##### Aggregate Format — Different Amounts of Food — Infants Six Months of Age or Older but Less Than One Year of Age
+> [SOR/2016-305, s. 40]
+
 
 
 **B.01.464** 
 
-- **(1)** Subject to subsection (2), if the nutrition facts table of a prepackaged product that is intended solely for children under two years of age includes separate information for different amounts of the food as provided in subsection B.01.406(8), the nutrition facts table shall be set out in a version that is listed in column 1 of the table to this section and in respect of which the condition specified in column 2 is satisfied.
+- **(1)** Subject to subsection (2), if the nutrition facts table of a prepackaged product that is intended solely for infants six months of age or older but less than one year of age includes separate information for different amounts of the food as provided in subsection B.01.406(8), the nutrition facts table shall be set out in a version that is listed in column 1 of the table to this section and in respect of which the condition specified in column 2 is satisfied.
 
-- **(2)** If it is not possible to display, in accordance with these Regulations on 15% or less of the available display surface of the prepackaged product, a nutrition facts table in any of the versions that is listed in column 1 of the table to this section, the nutrition facts table shall be set out in
-	- **(a)** the bilingual aggregate format in accordance with Figure 30.5(B) or 30.6(B) of Schedule L; or
-	- **(b)** a version that is listed in column 1 of the table to this section, even though more than 15% of the available display surface would be required to display the nutrition facts table.
+- **(2)** If it is not possible to display, in accordance with these Regulations on 15% or less of the available display surface of the prepackaged product, a nutrition facts table in any of the versions that is listed in column 1 of the table to this section, the nutrition facts table shall be set out in
+	- **(a)** the bilingual aggregate format in accordance with Figure 30.5(B) or 30.6(B) of the Directory of NFT Formats; or
+	- **(b)** a version that is listed in column 1 of the table to this section, even though more than 15% of the available display surface would be required to display the nutrition facts table.
 
 - **(3)** For the purpose of this section, in determining whether a version of a nutrition facts table cannot be displayed in accordance with these Regulations on 15% or less of the available display surface of the prepackaged product, the nutrition facts table shall include only the information that is required by these Regulations to be included for each amount of the food for which separate information is set out in the table.
 
@@ -4869,14 +6012,14 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 #### PART 1
 <table>
-<h4>AGGREGATE FORMAT — DIFFERENT AMOUNTS OF FOOD — CHILDREN UNDER TWO YEARS OF AGE</h4>
+<h4>Aggregate Format — Different Amounts of Food — Infants Six Months of Age or Older but Less Than One Year of Age</h4>
 <tr>
 <th>Item</th>
 <th>Column 1</th>
 <th>Column 2</th>
 </tr>
 <tr>
-<th>Figure in Schedule L (Version)</th>
+<th>Figure in Directory of NFT Formats (Version)</th>
 <th>Condition of use</th>
 </tr>
 <tr>
@@ -4885,7 +6028,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td></td>
 </tr>
 <tr>
-<td>(8 point type with 12 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4893,7 +6036,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
@@ -4901,7 +6044,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>4</td>
@@ -4909,7 +6052,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>5</td>
@@ -4917,7 +6060,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in items 1 to 4 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 <tr>
 <td>6</td>
@@ -4925,20 +6068,20 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in items 1 to 5 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 9 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 </table>
 
 #### PART 2
 <table>
-<h4>BILINGUAL AGGREGATE FORMAT — DIFFERENT AMOUNTS OF FOOD — CHILDREN UNDER TWO YEARS OF AGE</h4>
+<h4>Bilingual Aggregate Format — Different Amounts of Food — Infants Six Months of Age or Older but Less Than One Year of Age</h4>
 <tr>
 <th>Item</th>
 <th>Column 1</th>
 <th>Column 2</th>
 </tr>
 <tr>
-<th>Figure in Schedule L (Version)</th>
+<th>Figure in Directory of NFT Formats (Version)</th>
 <th>Condition of use</th>
 </tr>
 <tr>
@@ -4947,7 +6090,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td></td>
 </tr>
 <tr>
-<td>(8 point type with 12 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 8 points)</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4955,7 +6098,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The version in item 1 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points)</td>
 </tr>
 <tr>
 <td>3</td>
@@ -4963,7 +6106,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in items 1 and 2 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(7 point condensed type with 11 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 7 points (condensed))</td>
 </tr>
 <tr>
 <td>4</td>
@@ -4971,33 +6114,35 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The versions in items 1 to 3 cannot be displayed in accordance with these Regulations on 15% or less of the available display surface.</td>
 </tr>
 <tr>
-<td>(6 point condensed type with 10 point leading)</td>
+<td>(nutrients to be shown in a type size of not less than 6 points (condensed))</td>
 </tr>
 </table>
 
-> SOR/2003-11, s. 20.
+> SOR/2003-11, s. 20; SOR/2016-305, ss. 41, 74.
 
 
 
 
 
-##### Presentation of Additional Information — Children Under Two Years of Age
+##### Presentation of Additional Information — Infants Six Months of Age or Older but Less Than One Year of Age
+> [SOR/2016-305, s. 42]
+
 
 
 **B.01.465** 
 
-- **(1)** This section applies to a prepackaged product that is intended solely for children under two years of age.
+- **(1)** This section applies to a prepackaged product that is intended solely for infants six months of age or older but less than one year of age.
 
 - **(2)** If information referred to in column 1 of the table to section B.01.402 is included in a nutrition facts table that is set out in a version consisting of a table in English and a table in French or a table in English or French, that information shall be displayed
-	- **(a)** in accordance with the order of presentation and the use of indents illustrated in Figures 33.1(E) and (F) of Schedule L; and
-	- **(b)** in respect of matters other than those referred to in paragraph (a), in accordance with the format that is specified in the applicable figure in Schedule L.
+	- **(a)** in accordance with the order of presentation, the use of indents and the presentation of footnotes illustrated in Figures 33.1(E) and (F) of the Directory of NFT Formats; and
+	- **(b)** in respect of matters other than those referred to in paragraph (a), in accordance with the format that is specified in the applicable figure in the Directory of NFT Formats.
 
 - **(3)** If information referred to in column 1 of the table to section B.01.402 is included in a nutrition facts table that is set out in a version consisting of a table in both English and French, that information shall be displayed
-	- **(a)** in accordance with the order of presentation and the use of indents illustrated in Figure 34.1(B) of Schedule L; and
-	- **(b)** in respect of matters other than those referred to in paragraph (a), in accordance with the format that is specified in the applicable figure in Schedule L.
+	- **(a)** in accordance with the order of presentation, the use of indents and the presentation of footnotes illustrated in Figure 34.1(B) of the Directory of NFT Formats; and
+	- **(b)** in respect of matters other than those referred to in paragraph (a), in accordance with the format that is specified in the applicable figure in the Directory of NFT Formats.
 
-- **(4)** Despite paragraph (2)(a), the use of indents illustrated in Figures 33.1(E) and (F) of Schedule L is not applicable if information referred to in column 1 of the table to section B.01.402 is set out in the linear format referred to in paragraph B.01.461(3)(c) or the simplified linear format referred to in paragraph B.01.462(3)(c).
-> SOR/2003-11, s. 20.
+- **(4)** Despite paragraph (2)(a), the use of indents illustrated in Figures 33.1(E) and (F) of the Directory of NFT Formats is not applicable if information referred to in column 1 of the table to section B.01.402 is set out in the linear format referred to in paragraph B.01.461(3)(c) or the simplified linear format referred to in paragraph B.01.462(3)(c).
+> SOR/2003-11, s. 20; SOR/2016-305, ss. 43, 74.
 
 
 
@@ -5041,6 +6186,15 @@ shall be shown on the principal display panel of the label of a simulated meat p
 	- **(a)** described in paragraph B.01.401(3)(a), (b), (c) or (e); or
 	- **(b)** contained in a package to which a label cannot be physically applied or on which information cannot be legibly set out and easily viewed by the purchaser or consumer under the customary conditions of purchase.
 
+- **(2.1)** However, subsection (1) applies to a prepackaged product that is referred to in paragraph B.01.401(3)(c) and subparagraph B.01.401(3)(e)(ii) and that meets the conditions set out in column 2 of item 37 of the table following section B.01.513 for the subject “Free of sugars” set out in column 1 if
+	- **(a)** the product does not contain an added vitamin or mineral nutrient;
+	- **(b)** the energy value expressed in Calories per serving of stated size and the amount of sugar alcohols expressed in grams per serving of stated size are shown immediately following the list of ingredients or the food allergen source, gluten source and added sulphites statement, as defined in subsection B.01.010.1(1), or the declaration referred to in subsection B.01.010.4(1), if that statement or declaration appears on the label; and
+	- **(c)** in the case of the product referred to in subparagraph B.01.401(3)(e)(ii), a statement or claim set out in column 4 of item 37 of the table following section B.01.513 for the subject “Free of sugars” set out in column 1 that appears on the label is
+		- **(i)** legibly set out on the principal display panel,
+		- **(ii)** in lower case letters except for the first letter of each word of the statement or claim, which may be an upper case letter,
+		- **(iii)** of at least the same size and prominence as the letters used in the numerical portion of the declaration of net quantity as required under section 14 of the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md), and
+		- **(iv)** displayed in a colour contrasting with the background of the label.
+
 - **(3)** An indication referred to in subsection (1)
 	- **(a)** shall be set out in a type size of not less than 8 points;
 	- **(b)** shall include a postal address or a toll-free telephone number; and
@@ -5058,12 +6212,31 @@ shall be shown on the principal display panel of the label of a simulated meat p
 		- **(ii)** in a version of that format that is listed in column 1 of item 1 of any Part of the table to the applicable section referred to in subparagraph (i).
 
 - **(5)** In this section, ***official languages*** means the English language and the French language.
-> SOR/2003-11, s. 20.
+> SOR/2003-11, s. 20; SOR/2016-305, s. 44.
 
 
 
 
-[**B.01.468** to **B.01.499** reserved]
+**B.01.468** 
+
+- **(1)** Subject to subsection (2), if a prepackaged product has an available display surface of less than 100 cm<sup>2</sup> and has a nutrition facts table on its label, the nutrition facts table need only include
+	- **(a)** the serving of stated size;
+	- **(b)** the energy value and, subject to subsection (2), the amount of nutrients referred to in column 1 of items 2 to 15 of the table to section B.01.401 if the amount shown in the nutrition facts table may not be expressed as “0” according to the manner set out in column 4; and
+	- **(c)** the amount of any sugar alcohol, vitamin or mineral nutrient added to the prepackaged product.
+
+- **(2)** If the label of a prepackaged product, or any advertisement for the product that is made or placed by or on the direction of the manufacturer of the product, contains a representation, express or implied, that includes information that is set out in column 1 of the table to section B.01.401 or B.01.402, that information shall also be in the nutrition facts table.
+> SOR/2016-305, s. 45.
+
+
+
+
+**B.01.469** Despite subsection B.01.401(1), the label of a prepackaged product that has an available display surface of less than 15 cm<sup>2</sup> need not carry a nutrition facts table.
+> SOR/2016-305, s. 45.
+
+
+
+
+[**B.01.470** to **B.01.499** reserved]
 
 
 
@@ -5160,10 +6333,12 @@ shall be shown on the principal display panel of the label of a simulated meat p
 	- **(d)** “no added sodium or salt”, set out in item 35; or
 	- **(e)** “no added sugars”, set out in item 40.
 
+- **(2.1)** The information required by paragraph (1)(c) need not be included on the label of or in any advertisement for a fresh vegetable or fruit or any combination of fresh vegetables or fruits without any added ingredients, an orange with added food colour or a fresh vegetable or fruit coated with mineral oil, paraffin wax, petrolatum or any other protective coating, if a statement or claim set out in column 4 of the table following section B.01.513 is made on the label or advertisement.
+
 - **(3)** If a statement or claim set out in column 4 of the table following section B.01.513 is made on the label of or in any advertisement for a food, all the words, numbers, signs or symbols that constitute the statement or claim shall be of the same size and prominence.
 
 - **(4)** In the English version of the statements or claims, the word “fibre” may be spelled as “fiber”.
-> SOR/2003-11, s. 20.
+> SOR/2003-11, s. 20; SOR/2016-305, ss. 46, 75(F).
 
 
 
@@ -5298,7 +6473,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 		- **(iii)** be shown in letters of at least the same size and prominence as those of the statement or claim, if the statement or claim is made only once, or the most prominent statement or claim, if the statement or claim is made more than once.
 
 - **(2)** Subsection (1) does not apply to
-	- **(a)** the English statement or claim “light” when used in accordance with subsection 12(1) of the [Maple Products Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/201-300/C.R.C.,%20c.%20289.md); or
+	- **(a)** the English statement or claim “light” when used in accordance with subsection 12(1) of the [Maple Products Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/201-300/C.R.C.,%20c.%20289.md); or
 	- **(b)** the statement or claim “light” or “*léger*” when used with respect to rum.
 #### TABLE
 <table>
@@ -5318,20 +6493,20 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <tr>
 <td>1</td>
 <td>Free of energy</td>
-<td>The food provides less than 5 Calories or 21 kilojoules per reference amount and serving of stated size.</td>
+<td>The food provides less than 5 Calories or 21 kilojoules per reference amount and serving of stated size.</td>
 <td></td>
-<td>“energy-free”, “free of energy”, “no energy”, “0 energy”, “zero energy”, “without energy”, “contains no energy”, “Calorie-free”, “free of Calories”, “no Calories”, “0 Calories”, “zero Calories”, “without Calories” or “contains no Calories”</td>
+<td>“energy-free”, “free of energy”, “no energy”, “0 energy”, “zero energy”, “without energy”, “contains no energy”, “Calorie-free”, “free of Calories”, “no Calories”, “0 Calories”, “zero Calories”, “without Calories” or “contains no Calories”</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Low in energy</td>
 <td>The food provides
 
-**(a)** 40 Calories or 167 kilojoules or less per reference amount and serving of stated size and, in the case of a food other than a table-top sweetener, if the reference amount is 30 g or 30 mL or less, per 50 g; or
+**(a)** 40 Calories or 167 kilojoules or less per reference amount and serving of stated size and, in the case of a food other than a table-top sweetener, if the reference amount is 30 g or 30 mL or less, per 50 g; or
 
 
 
-**(b)** 120 Calories or 500 kilojoules or less per 100 g, if the food is a prepackaged meal.
+**(b)** 120 Calories or 500 kilojoules or less per 100 g, if the food is a prepackaged meal.
 
 
 
@@ -5352,12 +6527,12 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**(2)** The similar reference food does not meet the conditions set out in column 2 of item 2 for the subject “low in energy” set out in column 1.
+**(2)** The similar reference food does not meet the conditions set out in column 2 of item 2 for the subject “low in energy” set out in column 1.
 
 </td>
 <td>The following are identified:
 
-**(a)** the similar reference food; 
+**(a)** the similar reference food;
 
 
 
@@ -5385,7 +6560,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**(2)** The reference food of the same food group does not meet the conditions set out in column 2 of item 2 for the subject “low in energy” set out in column 1.
+**(2)** The reference food of the same food group does not meet the conditions set out in column 2 of item 2 for the subject “low in energy” set out in column 1.
 
 </td>
 <td>The following are identified:
@@ -5408,7 +6583,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <tr>
 <td>5</td>
 <td>Source of energy</td>
-<td>The food provides at least 100 Calories or 420 kilojoules per reference amount and serving of stated size.</td>
+<td>The food provides at least 100 Calories or 420 kilojoules per reference amount and serving of stated size.</td>
 <td></td>
 <td>“source of energy”, “contains energy”, “provides energy”, “source of Calories”, “contains Calories” or “provides Calories”</td>
 </tr>
@@ -5453,7 +6628,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <tr>
 <td>8</td>
 <td>Source of protein</td>
-<td>The food has a protein rating of 20 or more, as determined by official method FO-1, Determination of Protein Rating, October 15, 1981,
+<td>The food has a protein rating of 20 or more, as determined by official method FO-1, Determination of Protein Rating, October 15, 1981,
 
 **(a)** per reasonable daily intake; or
 
@@ -5470,7 +6645,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <tr>
 <td>9</td>
 <td>Excellent source of protein</td>
-<td>The food has a protein rating of 40 or more, as determined by official method FO-1, Determination of Protein Rating, October 15, 1981,
+<td>The food has a protein rating of 40 or more, as determined by official method FO-1, Determination of Protein Rating, October 15, 1981,
 
 **(a)** per reasonable daily intake; or
 
@@ -5489,7 +6664,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>More protein</td>
 <td>The food
 
-**(a)** has a protein rating of 20 or more, as determined by official method FO-1, Determination of Protein Rating, October 15, 1981,
+**(a)** has a protein rating of 20 or more, as determined by official method FO-1, Determination of Protein Rating, October 15, 1981,
 
 **(i)** per reasonable daily intake, or
 
@@ -5538,7 +6713,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 </td>
 <td></td>
-<td>“fat-free”, “free of fat”, “no fat”, “0 fat”, “zero fat”, “without fat”, “contains no fat” or “non-fat”</td>
+<td>“fat-free”, “free of fat”, “no fat”, “0 fat”, “zero fat”, “without fat”, “contains no fat” or “non-fat”</td>
 </tr>
 <tr>
 <td>12</td>
@@ -5570,7 +6745,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**(2)** The similar reference food does not meet the conditions set out in column 2 of item 12 for the subject “low in fat” set out in column 1.
+**(2)** The similar reference food does not meet the conditions set out in column 2 of item 12 for the subject “low in fat” set out in column 1.
 
 </td>
 <td>The following are identified:
@@ -5603,7 +6778,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**(2)** The reference food of the same food group does not meet the conditions set out in column 2 of item 12 for the subject “low in fat” set out in column 1.
+**(2)** The reference food of the same food group does not meet the conditions set out in column 2 of item 12 for the subject “low in fat” set out in column 1.
 
 </td>
 <td>The following are identified:
@@ -5636,7 +6811,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**(c)** meets the conditions set out in column 2 of item 11 for the subject “free of fat” set out in column 1.
+**(c)** meets the conditions set out in column 2 of item 11 for the subject “free of fat” set out in column 1.
 
 
 
@@ -5647,16 +6822,16 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <tr>
 <td>16</td>
 <td>(Percentage) fat-free</td>
-<td>The food meets the conditions set out in column 2 of item 12 for the subject “low in fat” set out in column 1.</td>
+<td>The food meets the conditions set out in column 2 of item 12 for the subject “low in fat” set out in column 1.</td>
 <td>One of the following statements or claims is stated: “low fat” or “low in fat”.</td>
 <td>“(percentage) fat-free” or “(percentage) free of fat”</td>
 </tr>
 <tr>
 <td>17</td>
 <td>No added fat</td>
-<td>**(1)** The food contains no added fats or oils set out in Division 9, or added butter or ghee, or ingredients that contain added fats or oils, or butter or ghee.
+<td>**(1)** The food contains no added fats or oils set out in Division 9, or added butter or ghee, or ingredients that contain added fats or oils, or butter or ghee.
 
-**(2)** The similar reference food contains added fats or oils set out in Division 9, or added butter or ghee.
+**(2)** The similar reference food contains added fats or oils set out in Division 9, or added butter or ghee.
 
 </td>
 <td></td>
@@ -5711,7 +6886,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**(2)** The similar reference food does not meet the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
+**(2)** The similar reference food does not meet the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
 
 </td>
 <td>The following are identified:
@@ -5744,7 +6919,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**(2)** The reference food of the same food group does not meet the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
+**(2)** The reference food of the same food group does not meet the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
 
 </td>
 <td>The following are identified:
@@ -5781,7 +6956,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**(b)** meets the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
+**(b)** meets the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
 
 
 
@@ -5802,7 +6977,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**(2)** The similar reference food does not meet the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
+**(2)** The similar reference food does not meet the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
 
 </td>
 <td>The following are identified:
@@ -5835,7 +7010,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**(2)** The reference food of the same food group does not meet the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
+**(2)** The reference food of the same food group does not meet the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
 
 </td>
 <td>The following are identified:
@@ -5906,7 +7081,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**(b)** meets the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
+**(b)** meets the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
 
 
 
@@ -5931,7 +7106,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**(b)** meets the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
+**(b)** meets the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
 
 
 
@@ -5952,9 +7127,9 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**(2)** The similar reference food does not meet the conditions set out in column 2 of item 28 for the subject “low in cholesterol” set out in column 1.
+**(2)** The similar reference food does not meet the conditions set out in column 2 of item 28 for the subject “low in cholesterol” set out in column 1.
 
-**(3)** The food meets the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
+**(3)** The food meets the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
 
 </td>
 <td>The following are identified:
@@ -5987,9 +7162,9 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**(2)** The reference food of the same food group does not meet the conditions set out in column 2 of item 28 for the subject “low in cholesterol” set out in column 1.
+**(2)** The reference food of the same food group does not meet the conditions set out in column 2 of item 28 for the subject “low in cholesterol” set out in column 1.
 
-**(3)** The food meets the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
+**(3)** The food meets the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
 
 </td>
 <td>The following are identified:
@@ -6056,7 +7231,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**(2)** The similar reference food does not meet the conditions set out in column 2 of item 32 for the subject “low in sodium or salt” set out in column 1.
+**(2)** The similar reference food does not meet the conditions set out in column 2 of item 32 for the subject “low in sodium or salt” set out in column 1.
 
 </td>
 <td>The following are identified:
@@ -6089,7 +7264,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**(2)** The reference food of the same food group does not meet the conditions set out in column 2 of item 32 for the subject “low in sodium or salt” set out in column 1.
+**(2)** The reference food of the same food group does not meet the conditions set out in column 2 of item 32 for the subject “low in sodium or salt” set out in column 1.
 
 </td>
 <td>The following are identified:
@@ -6114,7 +7289,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>No added sodium or salt</td>
 <td>**(1)** The food contains no added salt, other sodium salts or ingredients that contain sodium that functionally substitute for added salt.
 
-**(2)** The similar reference food does not meet the conditions set out in column 2 of item 32 for the subject “low in sodium or salt” set out in column 1 and contains added salt or other sodium salts.
+**(2)** The similar reference food does not meet the conditions set out in column 2 of item 32 for the subject “low in sodium or salt” set out in column 1 and contains added salt or other sodium salts.
 
 </td>
 <td></td>
@@ -6125,7 +7300,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>Lightly salted</td>
 <td>**(1)** The food contains at least 50% less added sodium than the sodium added to the similar reference food.
 
-**(2)** The similar reference food does not meet the conditions set out in column 2 of item 32 for the subject “low in sodium or salt” set out in column 1.
+**(2)** The similar reference food does not meet the conditions set out in column 2 of item 32 for the subject “low in sodium or salt” set out in column 1.
 
 </td>
 <td>The following are identified:
@@ -6154,7 +7329,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**(b)** with the exception of chewing gum, meets the conditions set out in column 2 of item 1 for the subject “free of energy” set out in column 1.
+**(b)** with the exception of chewing gum, meets the conditions set out in column 2 of item 1 for the subject “free of energy” set out in column 1.
 
 
 
@@ -6250,7 +7425,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**(2)** The food contains at least one ingredient that meets one of the conditions set out in subsection (1), if the food is a prepackaged meal.
+**(2)** The food contains at least one ingredient that meets one of the conditions set out in subsection (1), if the food is a prepackaged meal.
 
 </td>
 <td></td>
@@ -6269,7 +7444,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**(2)** The food contains at least one ingredient that meets one of the conditions set out in subsection (1), if the food is a prepackaged meal.
+**(2)** The food contains at least one ingredient that meets one of the conditions set out in subsection (1), if the food is a prepackaged meal.
 
 </td>
 <td></td>
@@ -6288,7 +7463,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**(2)** The food contains at least one ingredient that meets one of the conditions set out in subsection (1), if the food is a prepackaged meal.
+**(2)** The food contains at least one ingredient that meets one of the conditions set out in subsection (1), if the food is a prepackaged meal.
 
 </td>
 <td></td>
@@ -6313,7 +7488,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**(b)** at least one ingredient that meets the conditions set out in column 2 of item 41 for the subject “source of fibre” set out in column 1, if the food is a prepackaged meal.
+**(b)** at least one ingredient that meets the conditions set out in column 2 of item 41 for the subject “source of fibre” set out in column 1, if the food is a prepackaged meal.
 
 
 
@@ -6338,13 +7513,13 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <tr>
 <td>45</td>
 <td>Light in energy or fat</td>
-<td>The food meets the conditions set out in column 2
+<td>The food meets the conditions set out in column 2
 
-**(a)** of item 3 for the subject “reduced in energy” set out in column 1; or
+**(a)** of item 3 for the subject “reduced in energy” set out in column 1; or
 
 
 
-**(b)** of item 13 for the subject “reduced in fat” set out in column 1.
+**(b)** of item 13 for the subject “reduced in fat” set out in column 1.
 
 
 
@@ -6402,7 +7577,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 </tr>
 </table>
 
-> SOR/2003-11, s. 20; err.(F), Vol. 137, No. 5; SOR/2007-176, s. 6.
+> SOR/2003-11, s. 20; err.(F), Vol. 137, No. 5; SOR/2007-176, s. 6; SOR/2016-305, s. 75(F).
 
 
 
@@ -6467,7 +7642,11 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**B.01.603** For greater certainty, a statement or claim set out in column 1 of the table following this section that is made on the label of or in any advertisement for a food may be preceded or followed by other words, numbers, signs or symbols, but none of those shall be interposed between the words, numbers, signs or symbols of the statement or claim.
+**B.01.603** 
+
+- **(1)** For greater certainty, a statement or claim set out in column 1 of the table following this section that is made on the label of or in any advertisement for a food may be preceded or followed by other words, numbers, signs or symbols, but none of those shall be interposed between the words, numbers, signs or symbols of the statement or claim.
+
+- **(2)** If a food meets the conditions set out in column 2 of the table following this section for more than one item of that table, it is not necessary to repeat the common element of the statements or claims set out in column 1 that are used on the label of or in the advertisement for the food, and the remaining elements may be joined by means of a conjunction or punctuation, as appropriate.
 #### TABLE
 <table>
 <tr>
@@ -6498,7 +7677,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 </td>
 <td>The food
 
-**(a)** other than a vegetable or fruit, does not meet the conditions set out in column 2 of item 2 of the table following section B.01.513 for the subject “low in energy” set out in column 1;
+**(a)** other than a vegetable or fruit, does not meet the conditions set out in column 2 of item 2 of the table following section B.01.513 for the subject “low in energy” set out in column 1;
 
 
 
@@ -6514,7 +7693,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**(c)** meets the conditions set out in column 2 of item 19 of the table following section B.01.513 for the subject “low in saturated fatty acids” set out in column 1;
+**(c)** meets the conditions set out in column 2 of item 19 of the table following section B.01.513 for the subject “low in saturated fatty acids” set out in column 1;
 
 
 
@@ -6522,15 +7701,15 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**(e)** meets the conditions set out in column 2 of item 31 of the table following section B.01.513 for the subject “free of sodium or salt” set out in column 1, if the label of or advertisement for the food carries statement or claim (1), (3) or (5) set out in column 1 of this item;
+**(e)** meets the conditions set out in column 2 of item 31 of the table following section B.01.513 for the subject “free of sodium or salt” set out in column 1, if the label of or advertisement for the food carries statement or claim (1), (3) or (5) set out in column 1 of this item;
 
 
 
-**(f)** meets the conditions set out in column 2 of item 32 of the table following section B.01.513 for the subject “low in sodium or salt” set out in column 1, if the label of or advertisement for the food carries statement or claim (2), (4) or (6) set out in column 1 of this item; and
+**(f)** meets the conditions set out in column 2 of item 32 of the table following section B.01.513 for the subject “low in sodium or salt” set out in column 1, if the label of or advertisement for the food carries statement or claim (2), (4) or (6) set out in column 1 of this item; and
 
 
 
-**(g)** contains 350 mg or more of potassium, if the label of or advertisement for the food carries statement or claim (3), (4), (5) or (6) set out in column 1 of this item,
+**(g)** contains 350 mg or more of potassium, if the label of or advertisement for the food carries statement or claim (3), (4), (5) or (6) set out in column 1 of this item,
 
 **(i)** per reference amount and per serving of stated size, or
 
@@ -6543,9 +7722,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 </td>
-<td>**(1)** If the statement or claim is made on the label of or in the advertisement for a prepackaged product, by or on the direction of the manufacturer of the product, the nutrition facts table shall include the amount of potassium, in accordance with subsection B.01.402(2).
-
-**(2)** If the statement or claim is made on the label of or in the advertisement for a food that is not a prepackaged product, or in the advertisement for a prepackaged product that is not made or placed by or on the direction of the manufacturer of the product, the label or advertisement shall include the amount of sodium and potassium per serving of stated size, in accordance with section B.01.602 if applicable.
+<td>If the statement or claim is made on the label of or in the advertisement for a food that is not a prepackaged product, or in the advertisement for a prepackaged product that is not made or placed by or on the direction of the manufacturer of the product, the label or advertisement shall include the amount of sodium and potassium per serving of stated size, in accordance with section B.01.602, if applicable. However, this requirement does not apply if the statement or claim is made on the label of or in the advertisement for a fresh vegetable or fruit or any combination of fresh vegetables or fruits without any added ingredients, an orange with added food colour or a fresh vegetable or fruit coated with mineral oil, paraffin wax, petrolatum or any other protective coating.
 
 </td>
 </tr>
@@ -6566,7 +7743,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 </td>
 <td>The food
 
-**(a)** other than a vegetable or fruit, does not meet the conditions set out in column 2 of item 2 of the table following section B.01.513 for the subject “low in energy” set out in column 1;
+**(a)** other than a vegetable or fruit, does not meet the conditions set out in column 2 of item 2 of the table following section B.01.513 for the subject “low in energy” set out in column 1;
 
 
 
@@ -6578,7 +7755,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**(d)** contains, if the label of or advertisement for the food carries statement or claim (1) or (2) set out in column 1 of this item,
+**(d)** contains, if the label of or advertisement for the food carries statement or claim (1) or (2) set out in column 1 of this item,
 
 **(i)** 200 mg or more of calcium per reference amount and per serving of stated size, or
 
@@ -6590,7 +7767,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**(e)** contains, if the label of or advertisement for the food carries statement or claim (3), (4), (5) or (6) set out in column 1 of this item,
+**(e)** contains, if the label of or advertisement for the food carries statement or claim (3), (4), (5) or (6) set out in column 1 of this item,
 
 **(i)** 275 mg or more of calcium per reference amount and per serving of stated size, or
 
@@ -6602,7 +7779,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**(f)** contains 1.25 µg or more of vitamin D, if the label of or advertisement for the food carries statement or claim (5) or (6) set out in column 1 of this item,
+**(f)** contains 1.25 µg or more of vitamin D, if the label of or advertisement for the food carries statement or claim (5) or (6) set out in column 1 of this item,
 
 **(i)** per reference amount and per serving of stated size, or
 
@@ -6617,7 +7794,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 </td>
 <td>**(1)** If the statement or claim is made on the label of or in the advertisement for a prepackaged product, by or on the direction of the manufacturer of the product, the nutrition facts table shall include the amount of vitamin D and phosphorus, in accordance with subsection B.01.402(2).
 
-**(2)** If the statement or claim is made on the label of or in the advertisement for a food that is not a prepackaged product, or in the advertisement for a prepackaged product that is not made or placed by or on the direction of the manufacturer of the product, the label or advertisement shall include the amount of vitamin D, calcium and phosphorus per serving of stated size, in accordance with section B.01.602 if applicable.
+**(2)** If the statement or claim is made on the label of or in the advertisement for a food that is not a prepackaged product, or in the advertisement for a prepackaged product that is not made or placed by or on the direction of the manufacturer of the product, the label or advertisement shall include the amount of vitamin D, calcium and phosphorus per serving of stated size, in accordance with section B.01.602, if applicable. However, this requirement does not apply if the statement or claim is made on the label of or in the advertisement for a fresh vegetable or fruit or any combination of fresh vegetables or fruits without any added ingredients, an orange with added food colour or a fresh vegetable or fruit coated with mineral oil, paraffin wax, petrolatum or any other protective coating.
 
 </td>
 </tr>
@@ -6630,7 +7807,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 </td>
 <td>The food
 
-**(a)** other than a vegetable or fruit, does not meet the conditions set out in column 2 of item 2 of the table following section B.01.513 for the subject “low in energy” set out in column 1;
+**(a)** other than a vegetable or fruit, does not meet the conditions set out in column 2 of item 2 of the table following section B.01.513 for the subject “low in energy” set out in column 1;
 
 
 
@@ -6656,11 +7833,11 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **(e)** if it is a fat or an oil, meets the conditions set out in
 
-**(i)** column 2 of item 25 of the table following section B.01.513 for the subject “source of omega-3 polyunsaturated fatty acids” set out in column 1,
+**(i)** column 2 of item 25 of the table following section B.01.513 for the subject “source of omega-3 polyunsaturated fatty acids” set out in column 1,
 
 
 
-**(ii)** column 2 of item 26 of the table following section B.01.513 for the subject “source of omega-6 polyunsaturated fatty acids” set out in column 1, or
+**(ii)** column 2 of item 26 of the table following section B.01.513 for the subject “source of omega-6 polyunsaturated fatty acids” set out in column 1, or
 
 
 
@@ -6682,16 +7859,16 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**(g)** meets the conditions set out in column 2 of item 18 of the table following section B.01.513 for the subject “free of saturated fatty acids” set out in column 1, if the label of or advertisement for the food carries statement or claim (1) set out in column 1 of this item; and
+**(g)** meets the conditions set out in column 2 of item 18 of the table following section B.01.513 for the subject “free of saturated fatty acids” set out in column 1, if the label of or advertisement for the food carries statement or claim (1) set out in column 1 of this item; and
 
 
 
-**(h)** meets the conditions set out in column 2 of item 19 of the table following section B.01.513 for the subject “low in saturated fatty acids” set out in column 1, if the label of or advertisement for the food carries statement or claim (2) set out in column 1 of this item.
+**(h)** meets the conditions set out in column 2 of item 19 of the table following section B.01.513 for the subject “low in saturated fatty acids” set out in column 1, if the label of or advertisement for the food carries statement or claim (2) set out in column 1 of this item.
 
 
 
 </td>
-<td>If the statement or claim is made on the label of or in the advertisement for a food that is not a prepackaged product, or in the advertisement for a prepackaged product that is not made or placed by or on the direction of the manufacturer of the product, the label or advertisement shall include the amount of saturated fatty acids and *trans* fatty acids per serving of stated size, in accordance with section B.01.602 if applicable.
+<td>If the statement or claim is made on the label of or in the advertisement for a food that is not a prepackaged product, or in the advertisement for a prepackaged product that is not made or placed by or on the direction of the manufacturer of the product, the label or advertisement shall include the amount of saturated fatty acids and *trans* fatty acids per serving of stated size, in accordance with section B.01.602, if applicable. However, this requirement does not apply if the statement or claim is made on the label of or in the advertisement for a fresh vegetable or fruit or any combination of fresh vegetables or fruits without any added ingredients, an orange with added food colour or a fresh vegetable or fruit coated with mineral oil, paraffin wax, petrolatum or any other protective coating.
 
 </td>
 </tr>
@@ -6702,7 +7879,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 </td>
 <td>The food
 
-**(a)** is one of the following vegetables, fruit, or juice, and may contain only sweetening agents, food additives as permitted by these Regulations, salt, herbs, spices, seasonings or water:
+**(a)** is one of the following vegetables, fruits or juices and may contain only food additives that are referred to in section 2 of a marketing authorization, sweetening agents, salt, herbs, spices, seasonings and water:
 
 **(i)** a fresh, frozen, canned or dried vegetable,
 
@@ -6754,6 +7931,76 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td></td>
 </tr>
 <tr>
+<td>4.1</td>
+<td>“A healthy diet rich in a variety of vegetables and fruit may help reduce the risk of heart disease.”
+
+</td>
+<td>The food
+
+**(a)** is one of the following vegetables or fruits and may contain only food additives that are referred to in section 2 of a marketing authorization, salt, herbs, spices, seasonings and water:
+
+**(i)** a fresh, frozen, canned or dried vegetable,
+
+
+
+**(ii)** a fresh, frozen, canned or dried fruit,
+
+
+
+**(iii)** a vegetable juice or vegetable drink, or
+
+
+
+**(iv)** a combination of the foods set out in any of subparagraphs (i) to (iii);
+
+
+
+
+
+**(b)** is not one of or does not contain any of the following:
+
+**(i)** potatoes, yams, cassava, plantain, mature legumes and their juices,
+
+
+
+**(ii)** vegetables or fruit used as condiments, garnishes or flavourings, including maraschino cherries, glacé fruit, candied fruit and onion flakes,
+
+
+
+**(iii)** jams or jam-type spreads, marmalades, preserves and jellies,
+
+
+
+**(iv)** olives,
+
+
+
+**(v)** a fruit juice or fruit drink,
+
+
+
+**(vi)** powdered vegetables or fruit, or
+
+
+
+**(vii)** the seed of a fruit known as a drupe, including almonds, cashews and coconuts;
+
+
+
+
+
+**(c)** contains 0.5% or less alcohol; and
+
+
+
+**(d)** contains less than 15% of the daily value of sodium per reference amount and per serving of stated size, and per 50 g if the reference amount is 30 g or 30 mL or less.
+
+
+
+</td>
+<td></td>
+</tr>
+<tr>
 <td>5</td>
 <td>**(1)** “Won’t cause cavities.”
 
@@ -6781,7 +8028,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 </tr>
 </table>
 
-> SOR/2003-11, s. 20; err.(F), Vol. 137, No. 5; SOR/2010-142, s. 2.
+> SOR/2003-11, s. 20; err.(F), Vol. 137, No. 5; SOR/2010-142, s. 2; SOR/2016-305, ss. 47, 48, 75(F).
 
 
 
@@ -7766,34 +9013,34 @@ and shall contain not less than seven per cent absolute alcohol by volume.
 
 **B.06.001** In this Division,
 
-***diluent*** means any substance other than a synthetic colour present in a colour mixture or preparation; (*diluant*)
+***diluent*** means any substance other than a synthetic colour present in a colour mixture or preparation; (*diluant*)
 
-***dye*** means the principal dye and associated subsidiary and isomeric dyes contained in a synthetic colour; (*pigment*)
+***dye*** means the principal dye and associated subsidiary and isomeric dyes contained in a synthetic colour; (*pigment*)
 
-***mixture*** means a mixture of two or more synthetic colours or a mixture of one or more synthetic colours with one or more diluents; (*mélange*)
+***mixture*** means a mixture of two or more synthetic colours or a mixture of one or more synthetic colours with one or more diluents; (*mélange*)
 
-***official method FO-7*** means official method FO-7, Determination of Dye Content of Synthetic Food Colours, March 15, 1984; (*(méthode officielle FO-7)*)
+***official method FO-7***[Repealed, SOR/2016-305, s. 49]
 
-***official method FO-8*** means official method FO-8, Determination of Water Insoluble Matter in Synthetic Food Colours, March 15, 1984; (*(méthode officielle FO-8)*)
+***official method FO-8***[Repealed, SOR/2016-305, s. 49]
 
-***official method FO-9*** means official method FO-9, Determination of Combined Ether Extracts in Synthetic Food Colours, March 15, 1984; (*(méthode officielle FO-9)*)
+***official method FO-9***[Repealed, SOR/2016-305, s. 49]
 
-***official method FO-10*** means official method FO-10, Determination of Subsidiary Dyes in Synthetic Food Colours, March 15, 1984; (*(méthode officielle FO-1003)*)
+***official method FO-10***[Repealed, SOR/2016-305, s. 49]
 
-***official method FO-11*** means official method FO-11, Determination of Intermediates in Synthetic Food Colours, March 15, 1984; (*(méthode officielle FO-11)*)
+***official method FO-11***[Repealed, SOR/2016-305, s. 49]
 
-***official method FO-12*** means official method FO-12, Determination of Volatile Matter in Citrus Red No. 2, March 15, 1984; (*(méthode officielle FO-12)*)
+***official method FO-12***[Repealed, SOR/2016-305, s. 49]
 
-***official method FO-13*** means official method FO-13, Determination of Sulphated Ash in Citrus Red No. 2, March 15, 1984; (*(méthode officielle FO-13)*)
+***official method FO-13***[Repealed, SOR/2016-305, s. 49]
 
-***official method FO-14*** means official method FO-14, Determination of Water Soluble Matter in Citrus Red No. 2, March 15, 1984; (*(méthode officielle FO-14)*)
+***official method FO-14***[Repealed, SOR/2016-305, s. 49]
 
-***official method FO-15*** means offical method FO-15, Determination of Carbon Tetrachloride Insoluble Matter in Citrus Red No. 2, March 15, 1984; (*(méthode officielle)*)
+***official method FO-15***[Repealed, SOR/2016-305, s. 49]
 
-***preparation*** means a preparation of one or more synthetic colours containing less than three per cent dye and sold for household use; (*préparation*)
+***preparation*** means a preparation of one or more synthetic colours containing less than three per cent dye and sold for household use; (*préparation*)
 
-***synthetic colour*** means any organic colour, other than caramel, that is produced by chemical synthesis and has no counterpart in nature and for which a standard is prescribed in sections B.06.041 to B.06.053. (*colorant synthétique*) 
-> SOR/80-500, s. 2; SOR/84-440, s. 1.
+***synthetic colour*** means any organic food colour, other than caramel, that is produced by chemical synthesis and that has no counterpart in nature. (*colorant synthétique*)
+> SOR/80-500, s. 2; SOR/84-440, s. 1; SOR/2016-305, s. 49.
 
 
 
@@ -7808,35 +9055,19 @@ and shall contain not less than seven per cent absolute alcohol by volume.
 
 
 
-**B.06.003** No person shall sell a colour for use in or upon food that contains more than
-- **(a)** three parts per million of arsenic, calculated as arsenic, as determined by official method FO-4, Determination of Arsenic in Food Colours, October 15, 1981;
-- **(b)** 10 parts per million of lead, calculated as lead, as determined by official method FO-5, Determination of Lead in Food Colours, October 15, 1981; or
-- **(c)** 40 parts per million of heavy metals, except in the case of iron oxide, titanium dioxide, aluminum metal and silver metal. 
-> SOR/80-500, s. 2; SOR/82-768, s. 7.
+**B.06.003** [Repealed, SOR/2016-305, s. 50]
 
 
 
-
-**B.06.004** No person shall sell a synthetic colour for use in or upon food unless
-- **(a)** the label carries the lot number and common name of the synthetic colour and the words “Food Colour”;
-- **(b)** the Director, or an agency acceptable to the Director, has certified that each lot meets the requirements of section B.06.003 and the standard for such colour as prescribed in sections B.06.041 to B.06.053; and
-- **(c)** where the synthetic colour is certified by an agency, a copy of the certificate has been submitted to and accepted by the Director.
-> SOR/80-500, s. 2.
+**B.06.004** [Repealed, SOR/2016-305, s. 50]
 
 
 
-
-**B.06.005** No person shall import a synthetic colour for use in or upon food unless
-- **(a)** the Director, or an agency acceptable to the Director, has certified that each lot meets the requirements of section B.06.003 and the standard for such colour as prescribed in sections B.06.041 to B.06.053; and
-- **(b)** where the synthetic colour is certified by an agency, a copy of the certificate has been submitted to and accepted by the Director.
-> SOR/80-500, s. 2.
+**B.06.005** [Repealed, SOR/2016-305, s. 50]
 
 
 
-
-**B.06.006** No person shall sell a mixture for use in or upon food unless the label carries the lot number of the mixture and the words “Food Colour”.
-> SOR/80-500, s. 2.
-
+**B.06.006** [Repealed, SOR/2016-305, s. 50]
 
 
 
@@ -7848,11 +9079,7 @@ and shall contain not less than seven per cent absolute alcohol by volume.
 
 
 
-**B.06.008** No person shall import or sell a mixture or preparation for use in or upon food unless
-- **(a)** the Director, or an agency acceptable to the Director, has certified that any synthetic colour contained therein meets the requirements of section B.06.003 and the standard for such colour as prescribed in sections B.06.041 to B.06.053; or
-- **(b)** any synthetic colour contained therein has been previously certified and the certificate has been accepted as required by sections B.06.004 and B.06.005.
-> SOR/80-500, s. 2.
-
+**B.06.008** [Repealed, SOR/2016-305, s. 51]
 
 
 
@@ -7860,179 +9087,98 @@ and shall contain not less than seven per cent absolute alcohol by volume.
 
 
 
+**B.06.021** [Repealed, SOR/2016-305, s. 52]
 
-#### Natural Colours
 
 
-**B.06.021** **[S]. Oil-soluble Annatto, Annatto Butter Colour,** or **Annatto Margarine Colour**
-- **(a)** shall be the extractives of *Bixa orellana* seeds
-	- **(i)** dissolved in vegetable oil, castor oil, monoglycerides and diglycerides, propylene glycol or propylene glycol monoesters and diesters of fat-forming fatty acids, with or without one per cent potassium hydroxide, or
-	- **(ii)** suspended upon sugar, lactose, starch or hydrated calcium silicate, with or without calcium phosphate, potassium aluminum sulphate, sodium bicarbonate or salt; and
-- **(b)** shall contain not less than 0.30 per cent total pigments calculated as natural (*cis*-) bixin, which pigments shall consist of not less than 40 per cent natural (*cis*-) bixin.
+**B.06.022** [Repealed, SOR/2016-305, s. 52]
 
 
 
-**B.06.022** **[S]. ß-Carotene** shall be the food colour chemically known as ß-carotene that is manufactured synthetically and shall conform to the following specifications:
-- **(a)** one per cent solution in chloroform clear;
-- **(b)** loss of weight on drying not more than 0.2 per cent;
-- **(c)** residue on ignition not more than 0.2 per cent; and
-- **(d)** assay (spectrophotometric) 96 to 101 per cent.
+**B.06.023** [Repealed, SOR/2016-305, s. 52]
 
 
 
-**B.06.023** **[S]. ß-Apo-8′-Carotenal** shall be the food colour chemically known as ß-apo-8′-carotenal and shall conform to the following specifications:
-- **(a)** one per cent solution in chloroform clear;
-- **(b)** melting point (decomposition) 136°C. to 140°C (corrected);
-- **(c)** loss of weight on drying not more than 0.2 per cent;
-- **(d)** residue on ignition not more than 0.2 per cent; and
-- **(e)** assay (spectrophotometric) 96 to 101 per cent.
+**B.06.024** [Repealed, SOR/2016-305, s. 52]
 
 
 
-**B.06.024** **[S]. Canthaxanthin** shall be the food colour chemically known as canthaxanthin and shall conform to the following specifications:
-- **(a)** one per cent solution in chloroform clear;
-- **(b)** loss of weight on drying not more than 0.2 per cent;
-- **(c)** assay (spectrophotometric) 96 to 101 per cent.
+**B.06.025** [Repealed, SOR/2016-305, s. 52]
 
 
 
-**B.06.025** **[S]. Ethyl ß-apo-8′-carotenoate** shall be the food colour chemically known as ethyl ß-apo-8′-carotenoate and shall conform to the following specifications:
-- **(a)** one per cent solution in chloroform clear
-- **(b)** loss of weight on drying not more than 0.2 per cent, and
-- **(c)** assay (spectrophotometric) 96 to 101 per cent. 
-> SOR/84-300, s. 19(F).
+**B.06.031** [Repealed, SOR/2016-305, s. 52]
 
 
 
+**B.06.032** [Repealed, SOR/2016-305, s. 52]
 
 
-#### Inorganic Colours
 
+**B.06.033** [Repealed, SOR/2016-305, s. 52]
 
-**B.06.031** **[S]. Carbon black** shall be carbon prepared from natural gas by the “channel” or “impingement” process and shall contain no higher aromatic hydrocarbons or tarry materials as determined by official method FO-6, Determination of Higher Aromatic Hydrocarbons or Tarry Materials in Carbon Black and Charcoal, October 15, 1981.
-> SOR/82-768, s. 8.
 
 
+**B.06.041** [Repealed, SOR/2016-305, s. 53]
 
 
-**B.06.032** **[S]. Charcoal** shall be carbon prepared by the incomplete combustion of vegetable matter and shall contain no higher aromatic hydrocarbons or tarry materials as determined by official method FO-6, Determination of Higher Aromatic Hydrocarbons or Tarry Materials in Carbon Black and Charcoal, October 15, 1981.
-> SOR/82-768, s. 8.
 
+**B.06.042** [Repealed, SOR/2016-305, s. 53]
 
 
 
-**B.06.033** **[S]. Titanium Dioxide** shall be the chemical substance known as titanium dioxide and shall contain not less than 99 per cent titanium dioxide, and notwithstanding section B.06.006, shall contain not more than 50 parts per million of total antimony expressed as the metal and as determined by an acceptable method.
+**B.06.043** **[S].** Ponceau SX shall be the disodium salt of 2-(5-sulpho-2,4-xylylazo)-1-naphthol-4-sulphonic acid, shall contain not less than 85% dye and may contain not more than
+- **(a)** 0.2% water insoluble matter;
+- **(b)** 0.2% combined ether extracts;
+- **(c)** 1.0% subsidiary dyes;
+- **(d)** 0.5% intermediates;
+- **(e)** 3 parts per million of arsenic; and
+- **(f)** 10 parts per million of lead.
+> SOR/82-768, s. 9; SOR/84-440, s. 3; SOR/2016-305, s. 54.
 
 
 
 
-#### Synthetic Colours
+**B.06.044** [Repealed, SOR/2016-305, s. 54]
 
 
-**B.06.041** **[S]. Amaranth** shall be the trisodium salt of 1-(4-sulpho-1-naphthylazo)-2-naphthol-3,6-disulphonic acid, shall contain not less than 85 per cent dye, as determined by official method FO-7, and may contain not more than
-- **(a)** 0.2 per cent water insoluble matter, as determined by official method FO-8;
-- **(b)** 0.2 per cent combined ether extracts, as determined by official method FO-9;
-- **(c)** 4.0 per cent subsidiary dyes, as determined by official method FO-10; and
-- **(d)** 0.5 per cent intermediates, as determined by official method FO-11. 
-> SOR/82-768, s. 9; SOR/84-440, s. 3.
 
+**B.06.045** [Repealed, SOR/2016-305, s. 54]
 
 
 
-**B.06.042** **[S]. Erythrosine** shall be the disodium salt of 2,4,5,7-tetraiodofluorescein, shall contain not less than 85 per cent dye calculated as the monohydrate, as determined by official method FO-7, and may contain not more than
-- **(a)** 0.2 per cent water insoluble matter, as determined by official method FO-8;
-- **(b)** 0.2 per cent combined ether extracts, as determined by official method FO-9;
-- **(c)** 5.0 per cent subsidiary dyes, as determined by official method FO-10; and
-- **(d)** 0.5 per cent intermediates, as determined by official method FO-11. 
-> SOR/82-768, s. 9; SOR/84-440, s. 3.
+**B.06.046** [Repealed, SOR/2016-305, s. 54]
 
 
 
+**B.06.049** [Repealed, SOR/2016-305, s. 54]
 
-**B.06.043** **[S]. Ponceau SX** shall be the disodium salt of 2-(5-sulpho-2,4-xylylazo)-1-naphthol-4-sulphonic acid, shall contain not less than 85 per cent dye, as determined by official method FO-7, and may contain not more than
-- **(a)** 0.2 per cent water insoluble matter, as determined by official method FO-8;
-- **(b)** 0.2 per cent combined ether extracts, as determined by official method FO-9;
-- **(c)** 1.0 per cent subsidiary dyes, as determined by official method FO-10; and
-- **(d)** 0.5 per cent intermediates, as determined by official method FO-11.
-> SOR/82-768, s. 9; SOR/84-440, s. 3.
 
 
+**B.06.050** [Repealed, SOR/2016-305, s. 54]
 
 
-**B.06.044** **[S]. Allura Red** shall be the disodium salt of 6-hydroxy-5-[(2-methoxy-5-methyl-4-sulphophenyl)azo]-2-naphthalene sulphonic acid, shall contain not less than 85 per cent dye, as determined by official method FO-7, and may contain not more than
-- **(a)** 0.2 per cent water insoluble matter, as determined by official method FO-8;
-- **(b)** 0.2 per cent combined ether extracts, as determined by official method FO-9;
-- **(c)** 4.0 per cent subsidiary dyes, as determined by official method FO-10; and
-- **(d)** 0.5 per cent intermediates, as determined by official method FO-11.
-> SOR/84-440, s. 3.
 
+**B.06.051** [Repealed, SOR/2016-305, s. 54]
 
 
 
-**B.06.045** **[S]. Tartrazine** shall be the trisodium salt of 3-carboxy-5-hydroxy-1-p-sulphophenyl-4-p-sulphophenyl-azopyrazole, shall contain not less than 85 per cent dye, as determined by official method FO-7, and may contain not more than
-- **(a)** 0.2 per cent water insoluble matter, as determined by official method FO-8;
-- **(b)** 0.2 per cent combined ether extracts, as determined by official method FO-9;
-- **(c)** 1.0 per cent subsidiary dyes, as determined by official method FO-10; and
-- **(d)** 0.5 per cent intermediates, as determined by official method FO-11.
-> SOR/82-768, s. 10; SOR/84-440, s. 3.
+**B.06.053** **[S].** Citrus Red No. 2 shall be 1-(2,5-dimethoxyphenylazo)-2-naphthol, shall contain not less than 98% dye and may contain not more than
+- **(a)** 0.5% volatile matter (at 100°C);
+- **(b)** 0.3% sulphated ash;
+- **(c)** 0.3% water soluble matter;
+- **(d)** 0.5% carbon tetrachloride insoluble matter;
+- **(e)** 0.05% uncombined intermediates;
+- **(f)** 2.0% subsidiary dyes;
+- **(g)** 1 part per million of arsenic; and
+- **(h)** 10 parts per million of lead.
+> SOR/82-768, s. 12; SOR/84-440, s. 3; SOR/2016-305, s. 55.
 
 
 
 
-**B.06.046** **[S]. Sunset Yellow FCF** shall be the disodium salt of 1-p-sulphophenylazo-2-naphthol-6-sulphonic acid, shall contain not less than 85 per cent dye, as determined by official method FO-7, and may contain not more than
-- **(a)** 0.2 per cent water insoluble matter, as determined by official method FO-8;
-- **(b)** 0.2 per cent combined ether extracts, as determined by official method FO-9;
-- **(c)** 5.0 per cent subsidiary dyes, as determined by official method FO-10; and
-- **(d)** 0.5 per cent intermediates, as determined by official method FO-11.
-> SOR/82-768, s. 10; SOR/84-440, s. 3.
-
-
-
-
-**B.06.049** **[S]. Fast Green FCF** shall be the disodium salt of 4,4′-di(N-ethyl-m-sulphobenzylamino)-2″-sulpho-4″-hydroxytriphenylmethanol anhydride, shall contain not less than 85 per cent dye, as determined by official method FO-7, and may contain not more than
-- **(a)** 0.2 per cent water insoluble matter, as determined by official method FO-8;
-- **(b)** 0.4 per cent combined ether extracts, as determined by official method FO-9;
-- **(c)** 5.0 per cent subsidiary dyes, as determined by official method FO-10; and
-- **(d)** 1.0 per cent intermediates, as determined by official method FO-11.
-> SOR/82-768, s. 11; SOR/84-440, s. 3.
-
-
-
-
-**B.06.050** **[S]. Indigotine** shall be the disodium salt of indigotine-5,5′-disulphonic acid, shall contain not less than 85 per cent dye, as determined by official method FO-7, and may contain not more than
-- **(a)** 0.2 per cent water insoluble matter, as determined by official method FO-8;
-- **(b)** 0.4 per cent combined ether extracts, as determined by official method FO-9;
-- **(c)** 1.0 per cent subsidiary dyes, as determined by official method FO-10; and
-- **(d)** 0.5 per cent intermediates, as determined by official method FO-11.
-> SOR/82-768, s. 11; SOR/84-440, s. 3.
-
-
-
-
-**B.06.051** **[S]. Brilliant Blue FCF** shall be the disodium salt of 4,4′-di (N-ethyl-m-sulphobenzylamino)-2″-sulphotriphenylmethanol anhydride, shall contain not less than 85 per cent dye, as determined by official method FO-7, and may contain not more than
-- **(a)** 0.2 per cent water insoluble matter, as determined by official method FO-8;
-- **(b)** 0.4 per cent combined ether extracts, as determined by official method FO-9;
-- **(c)** 5.0 per cent subsidiary dyes, as determined by official method FO-10; and
-- **(d)** 2.0 per cent intermediates, as determined by official method FO-11.
-> SOR/82-768, s. 11; SOR/84-440, s. 3.
-
-
-
-
-**B.06.053** **[S]. Citrus Red. No. 2** shall be 1-(2,5-dimethoxyphenylazo)-2-naphthol, shall contain not less than 98 per cent dye, as determined by official method FO-7, and may contain not more than
-- **(a)** 0.5 per cent volatile matter (at 100°C), as determined by official method FO-12;
-- **(b)** 0.3 per cent sulphated ash, as determined by official method FO-13;
-- **(c)** 0.3 per cent water soluble matter, as determined by official method FO-14;
-- **(d)** 0.5 per cent carbon tetrachloride insoluble matter, as determined by official method FO-15;
-- **(e)** 0.05 per cent uncombined intermediates; and
-- **(f)** 2.0 per cent subsidiary dyes.
-> SOR/82-768, s. 12; SOR/84-440, s. 3.
-
-
-
-
-**B.06.061** The lake of any water soluble synthetic colour for which a standard is provided in sections B.06.041, B.06.042, B.06.043, B.06.044, B.06.045, B.06.046, B.06.049, B.06.050 or B.06.051 shall be the calcium or aluminum salt of the respective colour extended on alumina.
-> SOR/82-1071, s. 3; SOR/84-300, s. 20; SOR/87-640, s. 2.
+**B.06.061** The lake of any water soluble synthetic colour that is referred to in section 2 of the [Marketing Authorization for Food Additives That May Be Used as Colouring Agents](/en/Regulations/Statutory%20Orders%20and%20Regulations/2012/204.md) shall be the calcium or aluminum salt of the respective colour extended on alumina.
+> SOR/82-1071, s. 3; SOR/84-300, s. 20; SOR/87-640, s. 2; SOR/2016-305, s. 56.
 
 
 
@@ -8884,7 +10030,7 @@ shall be shown on the principal display panel followed by the words “milk fat�
 shall be shown on the principal display panel followed by the words “milk fat” or the abbreviation “B.F.” or “M.F.”.
 
 - **(2)** In addition to the statement referred to in subsection (1), a person may, on the label of a food referred to in that subsection, make a declaration of the fat content of the food, expressed in grams per serving of stated size.
-> SOR/79-23, s. 10; SOR/88-559, s. 16; SOR/2010-94, s. 3(F).
+> SOR/79-23, s. 10; SOR/88-559, s. 16; SOR/2010-94, s. 3(F); SOR/2016-305, s. 75(F).
 
 
 
@@ -8969,7 +10115,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 - **(2)** Subject to subsection (3), no person shall make any direct or indirect reference on the label of a food referred to in subsection (1) to the milk fat content or moisture content of the food except as required by subsection (1).
 
 - **(3)** In addition to the statements referred to in subsection (1), a person may, on the label of a food referred to in that subsection, make a declaration of the fat content of the food, expressed in grams per serving of a stated size.
-> SOR/79-752, s. 2; SOR/88-559, s. 17; SOR/94-689, s. 2(E); SOR/2010-94, s. 8(E).
+> SOR/79-752, s. 2; SOR/88-559, s. 17; SOR/94-689, s. 2(E); SOR/2010-94, s. 8(E); SOR/2016-305, s. 75(F).
 
 
 
@@ -10253,7 +11399,7 @@ as determined by official method MFO-2, Microbiological Examination of Ice Cream
 shall be shown on the principal display panel followed by the words “milk fat” or the abbreviation “B.F.” or “M.F.”.
 
 - **(2)** In addition to the statement referred to in subsection (1), a person may, on the label of a food referred to in subsection (1), make a declaration of the fat content of the food, expressed in grams per serving of stated size.
-> SOR/88-559, s. 18.
+> SOR/88-559, s. 18; SOR/2016-305, s. 75(F).
 
 
 
@@ -10284,7 +11430,7 @@ shall be shown on the principal display panel followed by the words “milk fat�
 - **(1)** The percentage of milk fat contained in canned cream shall be shown on the principal display panel followed by the words “milk fat” or the abbreviation “B.F.” or “M.F.”.
 
 - **(2)** In addition to the statement referred to in subsection (1), a person may, on the label of canned cream, make a declaration of the fat content of the cream, expressed in grams per serving of stated size.
-> SOR/88-559, s. 19.
+> SOR/88-559, s. 19; SOR/2016-305, s. 75(F).
 
 
 
@@ -12142,9 +13288,9 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 - **(g)** in the case of cured pork hams, shoulders, backs and bellies, artificial maple flavour;
 - **(gg)** in the case of cured pork bellies, an added orange flavour that meets the standard prescribed in section B.10.005;
 - **(h)** in the case of cured pork, beef and lamb cuts prepared with the aid of pumping pickle, disodium phosphate, monosodium phosphate, sodium hexametaphosphate, sodium tripolyphosphate, tetrasodium pyrophosphate and sodium acid pyrophosphate in such amount calculated as disodium phosphate, as will result in the finished product containing not more than 0.5 per cent added phosphate;
-- **(i)** in the case of tocino, annatto in such amount as will result in the finished product containing not more that 0.1 per cent annatto, if annatto is shown, by the word “annatto”, in the list of ingredients on the label; and
+- **(i)** in the case of tocino, annatto in such amount as will result in the finished product containing not more than 0.1% annatto; and
 - **(j)** in the case of vacuum-packed sliced cooked ham, *Carnobacterium maltaromaticum* CB1.
-> SOR/79-251, s. 6; SOR/80-13, s. 4; SOR/82-596, s. 2; SOR/84-300, s. 45(E); SOR/88-336, ss. 2, 3; SOR/92-725, s. 3; SOR/97-151, s. 24; SOR/2010-264, s. 2; SOR/2011-280, s. 2.
+> SOR/79-251, s. 6; SOR/80-13, s. 4; SOR/82-596, s. 2; SOR/84-300, s. 45(E); SOR/88-336, ss. 2, 3; SOR/92-725, s. 3; SOR/97-151, s. 24; SOR/2010-264, s. 2; SOR/2011-280, s. 2; SOR/2016-305, s. 57.
 
 
 
@@ -12174,15 +13320,15 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 	- **(xiv)** in the case of fresh uncooked sausage, artificial maple flavour or apple powder as a flavouring ingredient,
 	- **(xv)** in the case of dry sausage or dry sausage meat, glucono delta lactone,
 	- **(xvi)** in the case of longaniza,
-		- **(A)** annatto in such amount as will result in the finished product containing not more than 1000 parts per million annatto, if annatto is shown, by the word “annatto”, in the list of ingredients on the label,
-		- **(B)** allura red in such amount as will result in the finished product containing not more than 80 parts per million allura red, if allura red is shown, by the words “allura red”, in the list of ingredients on the label, and
-		- **(C)** sunset yellow FCF in such amount as will result in the finished product containing not more than 20 parts per million sunset yellow FCF, if sunset yellow FCF is shown, by the words “sunset yellow FCF”, in the list of ingredients on the label,
+		- **(A)** annatto in such amount as will result in the finished product containing not more than 0.1% annatto,
+		- **(B)** allura red in such amount as will result in the finished product containing not more than 80 parts per million allura red, and
+		- **(C)** sunset yellow FCF in such amount as will result in the finished product containing not more than 20 parts per million sunset yellow FCF,
 	- **(xvii)** in the case of vacuum-packed wieners, *Carnobacterium maltaromaticum* CB1, and
 	- **(xviii)** in the case of sausage having an edible coating, calcium chloride or calcium lactate;
 - **(e)** shall contain, in the case of a product sold as fresh sausage, not more than 40 per cent fat, as determined by official method FO-33, Determination of Fat in Meat and Simulated Meat Products, October 15, 1981;
 - **(f)** shall have, if cooked, a total protein content of not less than 11 per cent;
 - **(g)** shall have, in the case of fresh uncooked sausage and fresh uncooked sausage meat, a total protein content of not less than nine per cent.
-> SOR/80-13, s. 5; SOR/82-768, s. 42; SOR/88-336, s. 3; SOR/92-725, s. 4; SOR/97-151, s. 25; SOR/97-516, s. 3; SOR/2010-264, s. 3; SOR/2011-280, s. 3; SOR/2012-111, s. 1.
+> SOR/80-13, s. 5; SOR/82-768, s. 42; SOR/88-336, s. 3; SOR/92-725, s. 4; SOR/97-151, s. 25; SOR/97-516, s. 3; SOR/2010-264, s. 3; SOR/2011-280, s. 3; SOR/2012-111, s. 1; SOR/2016-305, s. 58.
 
 
 
@@ -22495,15 +23641,20 @@ is a complete substitute for the total diet in meeting the nutritional requireme
 - **(a)** show the following information per serving of stated size and per stated quantity of food, when prepared according to the directions for use:
 	- **(i)** the energy value of the food, expressed in Calories (Calories or Cal) and kilojoules (kilojoules or kJ),
 	- **(ii)** the protein, fat, linoleic acid, n-3 linolenic acid, saturated fatty acid and carbohydrate contents of the food, expressed in grams,
-	- **(iii)** the vitamin A, vitamin D, vitamin E, vitamin C, thiamin or vitamin B<sub>1</sub>, riboflavin or vitamin B<sub>2</sub>, niacin, vitamin B<sub>6</sub>, vitamin B<sub>12</sub>, folacin and pantothenic acid or pantothenate contents of the food, expressed, in the case of a meal replacement, as a percentage of the recommended daily intake specified in column II of the table to Division 1 of Part D for that vitamin and, in the case of a nutritional supplement, in retinol equivalents (RE) for vitamin A, in niacin equivalents (NE) for niacin and in milligrams for vitamin D, vitamin E, vitamin C, thiamin or vitamin B<sub>1</sub>, riboflavin or vitamin B<sub>2</sub>, vitamin B<sub>6</sub>, vitamin B<sub>12</sub>, folacin and pantothenic acid or pantothenate,
-	- **(iv)** the calcium, phosphorus, iron, iodide, magnesium and zinc contents of the food, expressed, in the case of a meal replacement, as a percentage of the recommended daily intake specified for that mineral nutrient in column II of the table to Division 2 of Part D and, in the case of a nutritional supplement, expressed in milligrams, and
-	- **(v)** the biotin, copper, potassium, sodium, manganese, selenium, chromium and molybdenum contents of the food, expressed in milligrams;
+	- **(iii)** the vitamin A, vitamin D, vitamin E, vitamin C, thiamin or vitamin B<sub>1</sub>, riboflavin or vitamin B<sub>2</sub>, niacin, vitamin B<sub>6</sub>, vitamin B<sub>12</sub>, folate and pantothenic acid or pantothenate contents of the food, expressed
+		- **(A)** in the case of a meal replacement, as a percentage of the daily value specified in column 4 of Part 2 of the Table of Daily Values for that vitamin, and
+		- **(B)** in the case of a nutritional supplement, in the applicable unit referred to in subsection D.01.003(1),
+	- **(iv)** the calcium, phosphorus, iron, iodide, magnesium and zinc contents of the food, expressed
+		- **(A)** in the case of a meal replacement, as a percentage of the daily value specified in column 4 of Part 2 of the Table of Daily Values, and
+		- **(B)** in the case of a nutritional supplement, in milligrams for calcium, phosphorus, iron, magnesium and zinc and in micrograms for iodide,
+	- **(v)** the copper, potassium, sodium and manganese contents of the food, expressed in milligrams, and
+	- **(vi)** the biotin, selenium, chromium and molybdenum contents of the food, expressed in micrograms;
 - **(b)** in the case of a meal replacement or a nutritional supplement to which milk, partially skim milk or skim milk is to be added, carry a statement that the nutrient content of the food has been determined taking into consideration the milk, partially skim milk or skim milk that will be added according to the directions for use;
 - **(c)** in the case of a meal replacement that is sold or advertised as a replacement for all daily meals in a weight reduction diet, include directions for use that would result in a daily energy intake of at least 900 kcal or 3 780 kJ;
 - **(d)** include the expiration date of the meal replacement or nutritional supplement;
 - **(e)** in the case of a meal replacement for use in a weight reduction diet, carry the statement “USEFUL IN WEIGHT REDUCTION ONLY AS PART OF AN ENERGY-REDUCED DIET / *UTILE POUR PERDRE DU POIDS SEULEMENT DANS LE CADRE D’UN RÉGIME À TENEUR RÉDUITE EN ÉNERGIE*” prominently displayed on the principal display panel; and
 - **(f)** in the case of a meal replacement for use in a weight reduction diet that is not represented as a replacement for all daily meals in a diet, include the information required under section B.24.204.
-> SOR/78-698, s. 9; SOR/88-559, s. 28; SOR/95-474, s. 5.
+> SOR/78-698, s. 9; SOR/88-559, s. 28; SOR/95-474, s. 5; SOR/2016-305, ss. 59, 75(F).
 
 
 
@@ -23173,13 +24324,13 @@ and only the L forms of the amino acids have been added.
 	- **(ii)** saturated fatty acids and *trans* fatty acids,
 	- **(iii)** sodium,
 	- **(iv)** potassium,
-	- **(v)** carbohydrate,
+	- **(v)** sugars,
 	- **(vi)** fibre, or
 	- **(vii)** cholesterol; or
 - **(b)** the number of Calories from
 	- **(i)** fat, or
 	- **(ii)** saturated fatty acids and *trans* fatty acids.
-> SOR/2003-11, s. 26.
+> SOR/2003-11, s. 26; SOR/2016-305, s. 60.
 
 
 
@@ -31852,42 +33003,59 @@ per individual dosage form if it has a label that states that it is not a standa
 
 - **(1)** In this Part,
 
-***advertise*** means to advertise to the general public; (*faire de la publicité*)
+***advertise*** means to advertise to the general public; (*faire de la publicité*)
 
-***brand name*** means, with reference to a drug, the name, whether or not including the name of any manufacturer, corporation, partnership or individual, in English or French,
+***brand name*** means, with reference to a drug, the name, whether or not including the name of any manufacturer, corporation, partnership or individual, in English or French,
 - **(a)** that is assigned to the drug by its manufacturer,
 - **(b)** under which the drug is sold or advertised, and
-- **(c)** that is used to distinguish the drug; (*marque nominative*)
+- **(c)** that is used to distinguish the drug; (*marque nominative*)
 
-***common name*** means, with reference to a salt or derivative of a vitamin, the name in English or French by which the salt or derivative is
+***common name*** means, with reference to a salt or derivative of a vitamin, the name in English or French by which the salt or derivative is
 - **(a)** commonly known, and
-- **(b)** designated in scientific or technical journals; (*nom usuel*)
+- **(b)** designated in scientific or technical journals; (*nom usuel*)
 
-***prepackaged product*** means any food that is contained in a package in the manner in which it is ordinarily sold to, or used or purchased by, a person; (*produit préemballé*)
+***prepackaged product*** means any food that is contained in a package in the manner in which it is ordinarily sold to, or used or purchased by, a person; (*produit préemballé*)
 
-***reasonable daily intake***, in respect of a food named in an item in Column I of Schedule K, means the amount of that food set out in Column II of that item; (*ration quotidienne normale*)
+***reasonable daily intake***, in respect of a food named in an item in Column I of Schedule K, means the amount of that food set out in Column II of that item; (*ration quotidienne normale*)
 
-***recommended daily intake*** means, in respect of a vitamin or mineral nutrient, the amount of the vitamin or mineral nutrient set out in
-- **(a)** column II of Table I to Division 1 and column II of Table I to Division 2, for foods intended for persons 2 years of age or older, and
-- **(b)** column III of Table I to Division l and column III of Table I to Division 2, for foods intended for infants and children less than 2 years of age; (*apport quotidien recommandé*)
+***recommended daily intake***[Repealed, SOR/2016-305, s. 61]
 
-***testimonial***, with respect to a food or drug that is represented as containing a vitamin, mineral nutrient or mineral, means any dramatized or undramatized pictorial, written or oral representation as to the result that is, has been or may be produced by the addition to a person’s diet of that vitamin, mineral nutrient or mineral, as the case may be; (*témoignage*)
+***Table of Daily Values*** has the same meaning as in subsection B.01.001(1); (*Tableau des valeurs quotidiennes*)
 
-***weighted recommended nutrient intake*** means, in respect of a vitamin or mineral nutrient, the amount of the vitamin or mineral nutrient set out in Table II to Division 1 and Table II to Division 2. (*apport nutritionnel recommandé pondéré*)
+***Table of Reference Amounts*** has the same meaning as in subsection B.01.001(1); (*Tableau des quantités de référence*)
+
+***testimonial***, with respect to a food or drug that is represented as containing a vitamin, mineral nutrient or mineral, means any dramatized or undramatized pictorial, written or oral representation as to the result that is, has been or may be produced by the addition to a person’s diet of that vitamin, mineral nutrient or mineral, as the case may be; (*témoignage*)
+
+***weighted recommended nutrient intake*** means, in respect of a vitamin or mineral nutrient, the amount of the vitamin or mineral nutrient set out in Table II to Division 1 and Table II to Division 2. (*apport nutritionnel recommandé pondéré*)
 
 - **(2)** For the purposes of this Part, a serving of stated size of a food shall be
-	- **(a)** based on the food as offered for sale; and
-	- **(b)** expressed
-		- **(i)** in grams, if
-			- **(A)** the net quantity of the food is declared on the label by weight or by count, or
-			- **(B)** the food is set out in column 1 of item 78, 149 or 150 of Schedule M, and
-		- **(ii)** in millilitres, if the net quantity of the food is declared on the label by volume, except in the case of a food referred to in clause (i)(B).
+	- **(a)** based on the food as offered for sale;
+	- **(b)** in either of the following cases, the net quantity of the food in the package:
+		- **(i)** if the quantity of food in the package can reasonably be consumed by one person at a single eating occasion, or
+		- **(ii)** if the package contains less than 200% of the reference amount for the food; and
+	- **(c)** in all other cases, the amount indicated for the food according to the criteria set out in column 3A of the Table of Reference Amounts.
 
-- **(3)** A serving of stated size shall be the net quantity of the food in the package if
-	- **(a)** the quantity of food can reasonably be consumed by one person at a single eating occasion;
-	- **(b)** the reference amount, as defined in section B.01.001, of the food is less than 100 g or 100 mL and the package contains less than 200% of that amount; or
-	- **(c)** the reference amount, as defined in section B.01.001, of the food is 100 g or 100 mL or more and the package contains 150% or less of that amount. 
-> SOR/88-559, s. 31; SOR/93-202, s. 31; SOR/96-259, s. 3; SOR/2003-11, s. 27.
+- **(3)** A serving of stated size of a food shall be expressed as follows:
+	- **(a)** in the case of a single-serving prepackaged product to which paragraph (2)(b) applies, per package and using the following units:
+		- **(i)** in grams, if the net quantity of the food is shown on the label by weight or by count, and
+		- **(ii)** in millilitres, if the net quantity of the food is shown on the label by volume; and
+	- **(b)** in the case of a multiple-serving prepackaged product to which paragraph (2)(c) applies, according to the following units set out in column 3B of the Table of Reference Amounts and according to the manner set out in that column:
+		- **(i)** the household measure that applies to the product, and
+		- **(ii)** the metric measure that applies to the product.
+> SOR/88-559, s. 31; SOR/93-202, s. 31; SOR/96-259, s. 3; SOR/2003-11, s. 27; SOR/2016-305, s. 61.
+
+
+
+
+**D.01.001.1** 
+
+- **(1)** The daily value of a vitamin or mineral nutrient set out in column 1 of Part 2 of the Table of Daily Values is, in respect of a food, the quantity
+	- **(a)** set out in column 2, if the food is intended solely for infants six months of age or older but less than one year of age;
+	- **(b)** set out in column 3, if the food is intended for infants six months of age or older but less than one year of age or for children one year of age or older but less than four years of age, and
+	- **(c)** set out in column 4, in any other case.
+
+- **(2)** Subsection (1) does not apply if the food is a human milk substitute intended solely for infants less than six months of age.
+> SOR/2016-305, s. 62.
 
 
 
@@ -31911,13 +33079,14 @@ per individual dosage form if it has a label that states that it is not a standa
 	- **(i)** vitamin B<sub>6</sub>;
 	- **(j)** folacin or folate;
 	- **(k)** vitamin B<sub>12</sub>;
-	- **(l)** pantothenic acid or pantothenate; and
-	- **(m)** biotin. (*vitamin*)
+	- **(l)** pantothenic acid or pantothenate;
+	- **(m)** biotin; and
+	- **(n)** choline. (*vitamin*)
 
 - **(2)** For the purposes of this Division, no expression, other than an expression set out in subsection (1), shall be used to declare the vitamin content of a food.
 
-- **(3)** This Division applies only in respect of foods represented as containing a vitamin for use in human nutrition. 
-> SOR/88-559, s. 32; SOR/2003-11, s. 28.
+- **(3)** This Division applies only in respect of foods represented as containing a vitamin for use in human nutrition.
+> SOR/88-559, s. 32; SOR/2003-11, s. 28; SOR/2016-305, s. 63.
 
 
 
@@ -31925,9 +33094,9 @@ per individual dosage form if it has a label that states that it is not a standa
 **D.01.003** 
 
 - **(1)** For the purposes of these Regulations, the vitamin content of a food, other than a formulated liquid diet, a human milk substitute or a food represented as containing a human milk substitute, shall be determined
-	- **(a)** in the case of vitamin A, in terms of the content of retinol and its derivatives and beta-carotene, expressed as retinol equivalents (RE) on the basis of the following relationships:
-		- **(i)** 1 RE = 1 microgram retinol, and
-		- **(ii)** 1 RE = 6 micrograms beta-carotene;
+	- **(a)** in the case of vitamin A, in terms of the content of retinol and its derivatives and beta-carotene, calculated on the basis of micrograms of retinol activity equivalents (RAE) and expressed in micrograms on the basis of the following relationships:
+		- **(i)** 1 RAE = 1 microgram of retinol, and
+		- **(ii)** 1 RAE = 12 micrograms of beta-carotene;
 	- **(b)** in the case of vitamin D, in terms of the content of cholecalciferol and ergocalciferol, expressed in micrograms;
 	- **(c)** in the case of vitamin E, in terms of the content of d-alpha-tocopherol and dl-alpha-tocopherol and their derivatives, expressed in milligrams on the basis of the following relationships:
 		- **(i)** one milligram d-alpha-tocopherol = one milligram vitamin E, and
@@ -31936,18 +33105,19 @@ per individual dosage form if it has a label that states that it is not a standa
 	- **(e)** in the case of vitamin C, in terms of the content of L-ascorbic acid and L-dehydroascorbic acid and their derivatives, calculated in milligram equivalents of L-ascorbic acid and expressed in milligrams;
 	- **(f)** in the case of thiamin, thiamine or vitamin B<sub>1</sub>, and its derivatives, in terms of the content of thiamin, expressed in milligrams;
 	- **(g)** in the case of riboflavin or vitamin B<sub>2</sub> and its derivatives, in terms of the content of riboflavin, expressed in milligrams;
-	- **(h)** in the case of niacin, in terms of the content of niacin and its derivatives, calculated in milligrams of nicotinic acid, plus the content of tryptophan, calculated in milligrams and divided by 60, with the total expressed as niacin equivalents (NE);
+	- **(h)** in the case of niacin, in terms of the content of niacin and its derivatives, calculated in milligrams of nicotinic acid, plus the content of tryptophan, calculated in milligrams and divided by 60, with the total niacin equivalents (NE) expressed in milligrams;
 	- **(i)** in the case of vitamin B<sub>6</sub>, in terms of the content of pyridoxine, pyridoxal and pyridoxamine and their derivatives, calculated in milligram equivalents of pyridoxine and expressed in milligrams;
-	- **(j)** in the case of folacin, in terms of the content of folic acid (pteroylmonoglutamic acid) and related compounds exhibiting the biological activity of folic acid, calculated in microgram equivalents of folic acid and expressed in micrograms;
+	- **(j)** in the case of folate, in terms of the content of folic acid (pteroylmonoglutamic acid) and related compounds exhibiting the biological activity of folic acid, calculated and expressed in micrograms of dietary folate equivalents (DFE);
 	- **(k)** in the case of vitamin B<sub>12</sub>, in terms of the content of cyanocobalamin and related compounds exhibiting the biological activity of cyanocobalamin, calculated in microgram equivalents of cyanocobalamin and expressed in micrograms;
-	- **(l)** in the case of pantothenic acid or pantothenate, in terms of the content of d-pantothenic acid, expressed in milligrams; and
-	- **(m)** in the case of biotin, in terms of the content of biotin, expressed in milligrams.
+	- **(l)** in the case of pantothenic acid or pantothenate, in terms of the content of d-pantothenic acid, expressed in milligrams;
+	- **(m)** in the case of biotin, in terms of the content of biotin, expressed in micrograms; and
+	- **(n)** in the case of choline, in terms of the content of choline, expressed in milligrams.
 
 - **(2)** For the purpose of paragraph (1)(h), the content of tryptophan may be calculated
 	- **(a)** where the protein originates from a food that contains protein from more than one source or from a source other than milk, meat, poultry, fish or eggs, as constituting 1.1 per cent of the protein;
 	- **(b)** where the protein originates from milk, meat, poultry or fish, as constituting 1.3 per cent of the protein; and
-	- **(c)** where the protein originates from eggs, as constituting 1.5 per cent of the protein. 
-> SOR/88-559, s. 32; SOR/90-830, s. 7.
+	- **(c)** where the protein originates from eggs, as constituting 1.5 per cent of the protein.
+> SOR/88-559, s. 32; SOR/90-830, s. 7; SOR/2016-305, s. 64.
 
 
 
@@ -31955,9 +33125,11 @@ per individual dosage form if it has a label that states that it is not a standa
 **D.01.004** 
 
 - **(1)** No person shall, on the label of or in any advertisement for a food, other than a formulated liquid diet, a human milk substitute or a food represented as containing a human milk substitute, make a statement or claim concerning the vitamin content of the food unless
-	- **(a)** the vitamin is set out in column I of Table I to this Division;
-	- **(b)** the percentage of the recommended daily intake of the vitamin, per serving of stated size, is 5% or more; and
+	- **(a)** the vitamin is set out in column 1 of Part 2 of the Table of Daily Values;
+	- **(b)** the percentage of the daily value of the vitamin, per serving of stated size, is 5% or more; and
 	- **(c)** the vitamin content is declared on the label or in the advertisement as a percentage of the daily value, per serving of stated size.
+
+- **(1.1)** The condition set out in paragraph (1)(c) need not be met if the statement or claim described in subsection (1) is made on a label of or in any advertisement for a fresh vegetable or fruit or any combination of fresh vegetables or fruits without any added ingredients, an orange with added food colour or a fresh vegetable or fruit coated with mineral oil, paraffin wax, petrolatum or any other protective coating.
 
 - **(2)** If a statement or claim described in subsection (1) is made in an advertisement for a food that is not a prepackaged product or in an advertisement for a prepackaged product that is not made or placed by or on the direction of the manufacturer of the product, the percentage of the daily value, per serving of stated size, shall,
 	- **(a)** in the case of an advertisement, other than a radio or television advertisement, be
@@ -31975,8 +33147,8 @@ per individual dosage form if it has a label that states that it is not a standa
 
 - **(4)** Paragraph (1)(b) does not apply in respect of a declaration of the vitamin content in a nutrition facts table.
 
-- **(5)** Paragraph (1)(c) does not apply in respect of a declaration of the biotin content as required by subparagraph B.24.202(a)(v). 
-> SOR/84-300, s. 57(E); SOR/88-559, s. 32; SOR/90-830, s. 8; SOR/96-259, s. 9; SOR/2003-11, s. 29.
+- **(5)** Paragraph (1)(c) does not apply to a declaration of the biotin content as required by subparagraph B.24.202(a)(vi).
+> SOR/84-300, s. 57(E); SOR/88-559, s. 32; SOR/90-830, s. 8; SOR/96-259, s. 9; SOR/2003-11, s. 29; SOR/2016-305, ss. 65, 75(F).
 
 
 
@@ -31996,11 +33168,11 @@ per individual dosage form if it has a label that states that it is not a standa
 **D.01.007** 
 
 - **(1)** If a component of an ingredient of a prepackaged product set out in the table to subsection B.01.009(1) is a vitamin, no person shall, on the label of or in any advertisement for the prepackaged product, make a statement or claim concerning the vitamin as a component of that ingredient unless
-	- **(a)** despite subsection B.01.008(6), the vitamin is declared by its common name, and that common name is shown immediately after the ingredient in such a manner as to indicate that the vitamin is a component of that ingredient, except that if a source of a food allergen or gluten is required by paragraph B.01.010.1(8)(a) to be shown immediately after that ingredient, the common name of the vitamin is instead shown immediately after that source; and
+	- **(a)** despite subsection B.01.008.2(6), the vitamin is declared by its common name, and that common name is shown in parentheses immediately after the ingredient in respect of which it is a component, except that if a source of a food allergen or gluten is required by paragraph B.01.010.1(8)(a) to be shown immediately after that ingredient, the common name of the vitamin is instead shown immediately after that source; and
 	- **(b)** all components of the ingredient are declared.
 
-- **(2)** Paragraph (1)(b) does not apply to flour used as an ingredient in the manufacture of a prepackaged product referred to in subsection (1). 
-> SOR/84-300, s. 59(E); SOR/88-559, s. 32; SOR/2003-11, s. 30; SOR/2011-28, s. 7.
+- **(2)** Paragraph (1)(b) does not apply to flour used as an ingredient in the manufacture of a prepackaged product referred to in subsection (1).
+> SOR/84-300, s. 59(E); SOR/88-559, s. 32; SOR/2003-11, s. 30; SOR/2011-28, s. 7; SOR/2016-305, s. 66.
 
 
 
@@ -32050,124 +33222,9 @@ per individual dosage form if it has a label that states that it is not a standa
 
 
 **D.01.013** [Repealed, SOR/2003-11, s. 31]
-#### TABLE I
-<table>
-<h4>Recommended Daily Intake</h4>
-<tr>
-<th>Item</th>
-<th>Column I</th>
-<th></th>
-<th>Column II</th>
-<th>Column III</th>
-</tr>
-<tr>
-<th>Vitamin</th>
-<th>Units<sup><a href='#footnoteD01013'>[*]</a></sup></th>
-<th>Intake of persons 2 years of age or older</th>
-<th>Intake of infants or children less than 2 years of age</th>
-</tr>
-<tr>
-<td>1</td>
-<td>Vitamin A</td>
-<td>(RE)</td>
-<td>1000</td>
-<td>400</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Vitamin D</td>
-<td>(µg)</td>
-<td>5</td>
-<td>10</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Vitamin E</td>
-<td>(mg)</td>
-<td>10</td>
-<td>3</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Vitamin C</td>
-<td>(mg)</td>
-<td>60</td>
-<td>20</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Thiamin, thiamine or vitamin B<sub>1</sub></td>
-<td>(mg)</td>
-<td>1.3</td>
-<td>0.45</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Riboflavin or vitamin B<sub>2</sub></td>
-<td>(mg)</td>
-<td>1.6</td>
-<td>0.55</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Niacin</td>
-<td>(NE)</td>
-<td>23</td>
-<td>8</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Vitamin B<sub>6</sub></td>
-<td>(mg)</td>
-<td>1.8</td>
-<td>0.7</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Folacin or folate</td>
-<td>(µg)</td>
-<td>220</td>
-<td>65</td>
-</tr>
-<tr>
-<td>10</td>
-<td>Vitamin B<sub>12</sub></td>
-<td>(µg)</td>
-<td>2</td>
-<td>0.3</td>
-</tr>
-<tr>
-<td>11</td>
-<td>Pantothenic acid or pantothenate</td>
-<td>(mg)</td>
-<td>7</td>
-<td>2</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Vitamin K</td>
-<td>(µg)</td>
-<td>80</td>
-<td>30</td>
-</tr>
-<tr>
-<td>13</td>
-<td>Biotin</td>
-<td>(µg)</td>
-<td>30</td>
-<td>8</td>
-</tr>
-</table>
 
-
-<a name='footnoteD01013'><sup>*</sup></a>: RE = retinol equivalents 
-<br />
-mg = milligrams 
-<br />
-µg = micrograms 
-<br />
-NE = niacin equivalents<br />
-> SOR/88-559, s. 33; SOR/96-259, s. 4; SOR/2003-11, ss. 32, 33..
+## TABLE I
+## [Repealed, SOR/2016-305, s. 67]
 
 
 
@@ -32304,9 +33361,11 @@ NE = niacin equivalents<br />
 **D.02.002** 
 
 - **(1)** No person shall, on the label of or in any advertisement for a food, other than salt for table or general household use containing added iodide, prepackaged water and ice, a formulated liquid diet, a human milk substitute or a food represented as containing a human milk substitute, make a statement or claim concerning the mineral nutrient content of the food unless
-	- **(a)** the mineral nutrient is set out in column I of Table I to this Division;
-	- **(b)** the percentage of the recommended daily intake of the mineral nutrient, per serving of stated size, is 5% or more; and
+	- **(a)** the mineral nutrient is set out in column 1 of Part 2 of the Table of Daily Values;
+	- **(b)** the percentage of the daily value of the mineral nutrient, per serving of stated size, is 5% or more; and
 	- **(c)** the mineral nutrient content is declared on the label or in the advertisement as a percentage of the daily value, per serving of stated size.
+
+- **(1.1)** The condition set out in paragraph (1)(c) need not be met if the statement or claim described in subsection (1) is made on a label of or in any advertisement for a fresh vegetable or fruit or any combination of fresh vegetables or fruits without any added ingredients, an orange with added food colour or a fresh vegetable or fruit coated with mineral oil, paraffin wax, petrolatum or any other protective coating.
 
 - **(2)** If a statement or claim described in subsection (1) is made in an advertisement for a food that is not a prepackaged product or in an advertisement for a prepackaged product that is not made or placed by or on the direction of the manufacturer of the product, the percentage of the daily value, per serving of stated size, shall,
 	- **(a)** in the case of an advertisement, other than a radio or television advertisement, be
@@ -32328,8 +33387,8 @@ NE = niacin equivalents<br />
 
 - **(6)** Paragraph (1)(b) does not apply in respect of a declaration of the mineral nutrient content in a nutrition facts table.
 
-- **(7)** Paragraph (1)(c) does not apply in respect of a declaration of the chromium, copper, manganese, molybdenum and selenium content as required by subparagraph B.24.202(a)(v). 
-> SOR/84-300, s. 60(E); SOR/88-559, s. 34; SOR/90-830, s. 10; SOR/96-259, s. 9; SOR/2003-11, s. 34.
+- **(7)** Paragraph (1)(c) does not apply in respect of a declaration of the chromium, copper, manganese, molybdenum and selenium content as required by subparagraph B.24.202(a)(v).
+> SOR/84-300, s. 60(E); SOR/88-559, s. 34; SOR/90-830, s. 10; SOR/96-259, s. 9; SOR/2003-11, s. 34; SOR/2016-305, ss. 68, 75(F).
 
 
 
@@ -32349,11 +33408,11 @@ NE = niacin equivalents<br />
 **D.02.005** 
 
 - **(1)** If a component of an ingredient of a prepackaged product set out in the table to subsection B.01.009(1) is a mineral nutrient, no person shall, on the label of or in any advertisement for the prepackaged product, make a statement or claim concerning the mineral nutrient as a component of that ingredient unless
-	- **(a)** despite subsection B.01.008(6), the mineral nutrient is declared by its common name, and that common name is shown immediately after the ingredient in such a manner as to indicate that the mineral nutrient is a component of that ingredient, except that if a source of a food allergen or gluten is required by paragraph B.01.010.1(8)(a) to be shown immediately after that ingredient, the common name of the mineral nutrient is instead shown immediately after that source; and
+	- **(a)** despite subsection B.01.008.2(6), the mineral nutrient is declared by its common name, and that common name is shown in parentheses immediately after the ingredient in respect of which it is a component, except that if a source of a food allergen or gluten is required by paragraph B.01.010.1(8)(a) to be shown immediately after that ingredient, the common name of the mineral nutrient is instead shown immediately after that source; and
 	- **(b)** all components of the ingredient are declared.
 
-- **(2)** Paragraph (1)(b) does not apply to flour used as an ingredient in the manufacture of a prepackaged product referred to in subsection (1). 
-> SOR/88-559, s. 34; SOR/2003-11, s. 35; SOR/2011-28, s. 8.
+- **(2)** Paragraph (1)(b) does not apply to flour used as an ingredient in the manufacture of a prepackaged product referred to in subsection (1).
+> SOR/88-559, s. 34; SOR/2003-11, s. 35; SOR/2011-28, s. 8; SOR/2016-305, s. 69.
 
 
 
@@ -32403,113 +33462,9 @@ as set out in the Food Chemicals Codex, Third Edition, 1981, published by the Na
 
 
 
-#### TABLE I
-<table>
-<h4>Recommended Daily Intake</h4>
-<tr>
-<th>Item</th>
-<th>Column I</th>
-<th></th>
-<th>Column II</th>
-<th>Column III</th>
-</tr>
-<tr>
-<th>Mineral Nutrient</th>
-<th>Units<sup><a href='#footnoteD02011'>[*]</a></sup></th>
-<th>Intake of persons 2 years of age or older</th>
-<th>Intake of infants and children less than 2 years of age</th>
-</tr>
-<tr>
-<td>1</td>
-<td>Calcium</td>
-<td>(mg)</td>
-<td>1100</td>
-<td>500</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Phosphorus</td>
-<td>(mg)</td>
-<td>1100</td>
-<td>500</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Magnesium</td>
-<td>(mg)</td>
-<td>250</td>
-<td>55</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Iron</td>
-<td>(mg)</td>
-<td>14</td>
-<td>7</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Zinc</td>
-<td>(mg)</td>
-<td>9</td>
-<td>4</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Iodide</td>
-<td>(µg)</td>
-<td>160</td>
-<td>55</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Selenium</td>
-<td>(µg)</td>
-<td>50</td>
-<td>15</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Copper</td>
-<td>(mg)</td>
-<td>2</td>
-<td>0.5</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Manganese</td>
-<td>(mg)</td>
-<td>2</td>
-<td>1.2</td>
-</tr>
-<tr>
-<td>10</td>
-<td>Chromium</td>
-<td>(µg)</td>
-<td>120</td>
-<td>12</td>
-</tr>
-<tr>
-<td>11</td>
-<td>Molybdenum</td>
-<td>(µg)</td>
-<td>75</td>
-<td>15</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Chloride</td>
-<td>(mg)</td>
-<td>3400</td>
-<td>1000</td>
-</tr>
-</table>
 
-
-<a name='footnoteD02011'><sup>*</sup></a>: mg = milligrams 
-<br />
-µg = micrograms<br />
-> SOR/88-559, s. 34; SOR/96-259, s. 6; SOR/2003-11, s. 36..
+## TABLE I
+## [Repealed, SOR/2016-305, s. 70]
 
 
 
@@ -35586,983 +36541,12 @@ the Minister may issue a registration number for the test kit, which shall be a 
 
 
 ### **SCHEDULE L** 
-**(Sections B.01.402, B.01.403, B.01.450 and B.01.454 to B.01.465)**
-## Nutrition Facts Table Formats
-GRAPHICS ARE NOT DISPLAYED, SEE SOR/2003-11, S. 37; ERR., VOL. 137, NO. 5
-
-> SOR/2003-11, s. 37; err., Vol. 137, No. 5.
+[Repealed, SOR/2016-305, s. 71]
 
 
 
 
 ### **SCHEDULE M** 
-**(Sections B.01.001, B.01.002A and D.01.001)**
-<table>
-<h4>Reference Amounts</h4>
-<tr>
-<th>Item</th>
-<th>Column 1</th>
-<th>Column 2</th>
-</tr>
-<tr>
-<th>Food</th>
-<th>Reference amount<sup><a href='#tablefoot1'>[1]</a></sup></th>
-</tr>
-<tr>
-<td></td>
-<td>**Bakery Products**</td>
-<td></td>
-</tr>
-<tr>
-<td>1</td>
-<td>Bread, excluding sweet quick-type rolls</td>
-<td>50 g</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Bagels, tea biscuits, scones, rolls, buns, croissants, tortillas, soft bread sticks, soft pretzels and corn bread</td>
-<td>55 g</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Brownies</td>
-<td>40 g</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Heavy weight cake: 10 g or more per 2.5 cm cube, such as cheese cake, pineapple upside-down cake, cake with at least 35% of the finished weight as fruit, nuts or vegetables, or any of these combined</td>
-<td>125 g</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Medium weight cake: 4 g or more per 2.5 cm cube but less than 10 g per 2.5 cm cube, such as cake with or without icing or filling, cake with less than 35% of the finished weight as fruit, nuts or vegetables or any of these combined, light weight cake with icing, Boston cream pie, cupcakes, eclairs or cream puffs</td>
-<td>80 g</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Light weight cake: less than 4 g per 2.5 cm cube, such as angel food, chiffon or sponge cake, without icing or filling</td>
-<td>55 g</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Coffee cakes, doughnuts, danishes, sweet rolls, sweet quick-type breads and muffins</td>
-<td>55 g</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Cookies, with or without coating or filling, and graham wafers</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Crackers, hard bread sticks and melba toast</td>
-<td>20 g</td>
-</tr>
-<tr>
-<td>10</td>
-<td>Dry breads, matzo and rusks</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td>11</td>
-<td>Flaky type pastries, with or without filling or icing</td>
-<td>55 g</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Toaster pastries</td>
-<td>55 g</td>
-</tr>
-<tr>
-<td>13</td>
-<td>Ice cream cones</td>
-<td>5 g</td>
-</tr>
-<tr>
-<td>14</td>
-<td>Croutons</td>
-<td>7 g</td>
-</tr>
-<tr>
-<td>15</td>
-<td>French toast, pancakes and waffles</td>
-<td>75 g</td>
-</tr>
-<tr>
-<td>16</td>
-<td>Grain-based bars, with filling or partial or full coating</td>
-<td>40 g</td>
-</tr>
-<tr>
-<td>17</td>
-<td>Grain-based bars, without filling or coating</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td>18</td>
-<td>Rice cakes and corn cakes</td>
-<td>15 g</td>
-</tr>
-<tr>
-<td>19</td>
-<td>Pies, tarts, cobblers, turnovers and other pastries</td>
-<td>110 g</td>
-</tr>
-<tr>
-<td>20</td>
-<td>Pie crust</td>
-<td>1/6 of 20 cm crust or 1/8 of 23 cm crust</td>
-</tr>
-<tr>
-<td>21</td>
-<td>Pizza crust</td>
-<td>55 g</td>
-</tr>
-<tr>
-<td>22</td>
-<td>Taco shell, hard</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td></td>
-<td>**Beverages**</td>
-<td></td>
-</tr>
-<tr>
-<td>23</td>
-<td>Carbonated and non-carbonated beverages and wine coolers</td>
-<td>355 mL</td>
-</tr>
-<tr>
-<td>24</td>
-<td>Sports drinks and water</td>
-<td>500 mL</td>
-</tr>
-<tr>
-<td>25</td>
-<td>Coffee: regular, instant and specialty, including espresso, café au lait, flavoured and sweetened</td>
-<td>175 mL</td>
-</tr>
-<tr>
-<td>26</td>
-<td>Tea and herbal tea</td>
-<td></td>
-</tr>
-<tr>
-<td>(a) regular and instant (hot)</td>
-<td>175 mL</td>
-</tr>
-<tr>
-<td>(b) Flavoured and sweetened, prepared from mixes, such as iced tea</td>
-<td>250 mL</td>
-</tr>
-<tr>
-<td>(c) Flavoured and sweetened, ready-to-drink, such as iced tea</td>
-<td>355 mL</td>
-</tr>
-<tr>
-<td>27</td>
-<td>Cocoa and chocolate beverages (hot)</td>
-<td>175 mL</td>
-</tr>
-<tr>
-<td></td>
-<td>**Cereals and Other Grain Products**</td>
-<td></td>
-</tr>
-<tr>
-<td>28</td>
-<td>Hot breakfast cereals, such as oatmeal or cream of wheat</td>
-<td>40 g dry</td>
-</tr>
-<tr>
-<td>250 mL prepared</td>
-</tr>
-<tr>
-<td>29</td>
-<td>Ready-to-eat breakfast cereals, puffed and uncoated (less than 20 g per 250 mL)</td>
-<td>15 g</td>
-</tr>
-<tr>
-<td>30</td>
-<td>Ready-to-eat breakfast cereals, puffed and coated, flaked, extruded, without fruit or nuts (20 g to 42 g per 250 mL), very high fibre cereals (with 28 g or more fibre per 100 g)</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td>31</td>
-<td>Ready-to-eat breakfast cereals, fruit and nut type, granola (43 g or more per 250 mL) and biscuit type cereals</td>
-<td>55 g</td>
-</tr>
-<tr>
-<td>32</td>
-<td>Bran and wheat germ</td>
-<td>15 g</td>
-</tr>
-<tr>
-<td>33</td>
-<td>Flours, including cornmeal</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td>34</td>
-<td>Grains, such as rice or barley</td>
-<td>45 g dry</td>
-</tr>
-<tr>
-<td>140 g cooked</td>
-</tr>
-<tr>
-<td>35</td>
-<td>Pastas without sauce</td>
-<td>85 g dry</td>
-</tr>
-<tr>
-<td>215 g cooked</td>
-</tr>
-<tr>
-<td>36</td>
-<td>Pastas, dry and ready-to-eat, such as fried canned chow mein noodles</td>
-<td>25 g</td>
-</tr>
-<tr>
-<td>37</td>
-<td>Starch, such as cornstarch, potato starch, tapioca starch or wheat starch</td>
-<td>10 g</td>
-</tr>
-<tr>
-<td>38</td>
-<td>Stuffing</td>
-<td>100 g</td>
-</tr>
-<tr>
-<td></td>
-<td>**Dairy Products and Substitutes**</td>
-<td></td>
-</tr>
-<tr>
-<td>39</td>
-<td>Cheese, including cream cheese and cheese spread, except those listed as a separate item</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td>40</td>
-<td>Cottage cheese</td>
-<td>125 g</td>
-</tr>
-<tr>
-<td>41</td>
-<td>Cheese used as an ingredient, such as dry cottage cheese or ricotta cheese</td>
-<td>55 g</td>
-</tr>
-<tr>
-<td>42</td>
-<td>Hard cheese, grated, such as parmesan or romano</td>
-<td>15 g</td>
-</tr>
-<tr>
-<td>43</td>
-<td>Quark, fresh cheese and fresh dairy desserts</td>
-<td>100 g</td>
-</tr>
-<tr>
-<td>44</td>
-<td>Cream and cream substitute, except those listed as a separate item</td>
-<td>15 mL</td>
-</tr>
-<tr>
-<td>45</td>
-<td>Cream and cream substitute, powder</td>
-<td>2 g</td>
-</tr>
-<tr>
-<td>46</td>
-<td>Cream and cream substitute, aerosol or whipped</td>
-<td>15 g</td>
-</tr>
-<tr>
-<td>47</td>
-<td>Eggnog</td>
-<td>125 mL</td>
-</tr>
-<tr>
-<td>48</td>
-<td>Milk, evaporated or condensed</td>
-<td>15 mL</td>
-</tr>
-<tr>
-<td>49</td>
-<td>Plant-based beverages, milk, buttermilk and milk-based drinks, such as chocolate milk</td>
-<td>250 mL</td>
-</tr>
-<tr>
-<td>50</td>
-<td>Shakes and shake substitutes, such as dairy shake mix</td>
-<td>250 mL</td>
-</tr>
-<tr>
-<td>51</td>
-<td>Sour cream</td>
-<td>30 mL</td>
-</tr>
-<tr>
-<td>52</td>
-<td>Yogurt</td>
-<td>175 g</td>
-</tr>
-<tr>
-<td></td>
-<td>**Desserts**</td>
-<td></td>
-</tr>
-<tr>
-<td>53</td>
-<td>Ice cream, ice milk, frozen yogurt and sherbet</td>
-<td>125 mL</td>
-</tr>
-<tr>
-<td>54</td>
-<td>Dairy desserts, frozen, such as cakes, bars, sandwiches or cones</td>
-<td>125 mL</td>
-</tr>
-<tr>
-<td>55</td>
-<td>Non-dairy desserts, frozen, such as flavoured and sweetened ice or pops, or frozen fruit juices in bars or cups</td>
-<td>75 mL</td>
-</tr>
-<tr>
-<td>56</td>
-<td>Sundaes</td>
-<td>250 mL</td>
-</tr>
-<tr>
-<td>57</td>
-<td>Custard, gelatin and pudding</td>
-<td>125 mL</td>
-</tr>
-<tr>
-<td></td>
-<td>**Dessert Toppings and Fillings**</td>
-<td></td>
-</tr>
-<tr>
-<td>58</td>
-<td>Dessert toppings, such as maple butter and marshmallow cream</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td>59</td>
-<td>Cake frostings and icings</td>
-<td>35 g</td>
-</tr>
-<tr>
-<td>60</td>
-<td>Pie fillings</td>
-<td>75 mL</td>
-</tr>
-<tr>
-<td></td>
-<td>**Eggs and Egg Substitutes**</td>
-<td></td>
-</tr>
-<tr>
-<td>61</td>
-<td>Egg mixtures, such as egg foo young, scrambled eggs or omelets</td>
-<td>110 g</td>
-</tr>
-<tr>
-<td>62</td>
-<td>Eggs</td>
-<td>50 g</td>
-</tr>
-<tr>
-<td>63</td>
-<td>Egg substitutes</td>
-<td>50 g</td>
-</tr>
-<tr>
-<td></td>
-<td>**Fats and Oils**</td>
-<td></td>
-</tr>
-<tr>
-<td>64</td>
-<td>Butter, margarine, shortening and lard</td>
-<td>10 g</td>
-</tr>
-<tr>
-<td>65</td>
-<td>Vegetable oil</td>
-<td>10 mL</td>
-</tr>
-<tr>
-<td>66</td>
-<td>Butter replacement, powder</td>
-<td>2 g</td>
-</tr>
-<tr>
-<td>67</td>
-<td>Dressings for salad</td>
-<td>30 mL</td>
-</tr>
-<tr>
-<td>68</td>
-<td>Mayonnaise, sandwich spread and mayonnaise-type dressing</td>
-<td>15 mL</td>
-</tr>
-<tr>
-<td>69</td>
-<td>Oil, spray type</td>
-<td>0.5 g</td>
-</tr>
-<tr>
-<td></td>
-<td>**Marine and Fresh Water Animals**</td>
-<td></td>
-</tr>
-<tr>
-<td>70</td>
-<td>Canned anchovies, anchovy paste and caviar</td>
-<td>15 g<sup><a href='#tablefoot2'>[2]</a></sup></td>
-</tr>
-<tr>
-<td>71</td>
-<td>Marine and fresh water animals with sauce, such as fish with cream sauce or shrimp with lobster sauce</td>
-<td>140 g cooked</td>
-</tr>
-<tr>
-<td>72</td>
-<td>Marine and fresh water animals without sauce, such as plain or fried fish or shellfish, or fish or shellfish cakes, with or without breading or batter</td>
-<td>125 g raw</td>
-</tr>
-<tr>
-<td>100 g cooked</td>
-</tr>
-<tr>
-<td>73</td>
-<td>Marine and fresh water animals, canned</td>
-<td>55 g<sup><a href='#tablefoot2'>[2]</a></sup></td>
-</tr>
-<tr>
-<td>74</td>
-<td>Marine and fresh water animals, smoked or pickled, or spreads</td>
-<td>55 g<sup><a href='#tablefoot2'>[2]</a></sup></td>
-</tr>
-<tr>
-<td></td>
-<td>**Fruit and Fruit Juices**</td>
-<td></td>
-</tr>
-<tr>
-<td>75</td>
-<td>Fruit, fresh, canned or frozen, except those listed as a separate item</td>
-<td>140 g</td>
-</tr>
-<tr>
-<td>150 mL canned<sup><a href='#tablefoot2'>[2]</a></sup></td>
-</tr>
-<tr>
-<td>76</td>
-<td>Candied or pickled fruit</td>
-<td>30 g<sup><a href='#tablefoot2'>[2]</a></sup></td>
-</tr>
-<tr>
-<td>77</td>
-<td>Dried fruit, such as raisins, dates or figs</td>
-<td>40 g</td>
-</tr>
-<tr>
-<td>78</td>
-<td>Fruit for garnish or flavour, such as maraschino cherries</td>
-<td>4 g<sup><a href='#tablefoot2'>[2]</a></sup></td>
-</tr>
-<tr>
-<td>79</td>
-<td>Fruit relishes</td>
-<td>60 mL</td>
-</tr>
-<tr>
-<td>80</td>
-<td>Avocado, used as an ingredient</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td>81</td>
-<td>Cranberries, lemons and limes, used as ingredients</td>
-<td>55 g</td>
-</tr>
-<tr>
-<td>82</td>
-<td>Watermelon, cantaloupe, honeydew and other melons</td>
-<td>150 g</td>
-</tr>
-<tr>
-<td>83</td>
-<td>Juices, nectars and fruit drinks represented for use as substitutes for fruit juices</td>
-<td>250 mL</td>
-</tr>
-<tr>
-<td>84</td>
-<td>Juices, used as ingredients, such as lemon juice or lime juice</td>
-<td>5 mL</td>
-</tr>
-<tr>
-<td></td>
-<td>**Legumes**</td>
-<td></td>
-</tr>
-<tr>
-<td>85</td>
-<td>Bean curd (tofu) and tempeh</td>
-<td>85 g<sup><a href='#tablefoot2'>[2]</a></sup></td>
-</tr>
-<tr>
-<td>86</td>
-<td>Beans, peas and lentils, such as white beans, kidney beans, romano beans, soybeans or chick peas</td>
-<td>100 g dry</td>
-</tr>
-<tr>
-<td>250 mL cooked or canned<sup><a href='#tablefoot2'>[2]</a></sup></td>
-</tr>
-<tr>
-<td></td>
-<td>**Meat, Poultry, Their Products and Substitutes**</td>
-<td></td>
-</tr>
-<tr>
-<td>87</td>
-<td>Pork rinds and bacon</td>
-<td>54 g uncooked</td>
-</tr>
-<tr>
-<td>15 g cooked</td>
-</tr>
-<tr>
-<td>88</td>
-<td>Beef, pork and poultry breakfast strips</td>
-<td>30 g uncooked</td>
-</tr>
-<tr>
-<td>15 g cooked</td>
-</tr>
-<tr>
-<td>89</td>
-<td>Dried meat and poultry, such as jerky, dried beef or parma ham, as well as sausage products with a water activity of 0.90 or less, such as salami, dried thuringer or cervelat</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td>90</td>
-<td>Luncheon meats, such as bologna, blood pudding, minced luncheon roll, liver sausage, mortadella, ham and cheese loaf or headcheese; pâté; sandwich spread; potted meat food product; taco fillings; meat pie fillings and cretons</td>
-<td>75 g uncooked</td>
-</tr>
-<tr>
-<td>55 g cooked</td>
-</tr>
-<tr>
-<td>91</td>
-<td>Sausage products, such as linked sausage, Vienna sausage, wieners, breakfast sausage, frankfurters, pork sausage, bratwurst, kielbasa, Polish sausage, summer sausage, smoked sausage, smoked country sausage, pepperoni, knackwurst, thuringer or cervelat</td>
-<td>75 g uncooked</td>
-</tr>
-<tr>
-<td>55 g cooked</td>
-</tr>
-<tr>
-<td>92</td>
-<td>Cuts of meat and poultry without sauce, and ready-to-cook cuts, with or without breading or batter, including marinated, tenderized and injected cuts</td>
-<td>125 g raw</td>
-</tr>
-<tr>
-<td>100 g cooked</td>
-</tr>
-<tr>
-<td>93</td>
-<td>Patties, cutlettes, chopettes, steakettes, meatballs, sausage meat and ground meat, with or without breading or batter</td>
-<td>100 g raw</td>
-</tr>
-<tr>
-<td>60 g cooked</td>
-</tr>
-<tr>
-<td>94</td>
-<td>Cured meat products, such as cured ham, dry cured ham, back bacon, cured pork back, dry cured cappicolo, corned beef, pastrami, country ham, cured pork shoulder picnic, cured poultry ham products, smoked meat or pickled meat</td>
-<td>85 g raw</td>
-</tr>
-<tr>
-<td>55 g cooked</td>
-</tr>
-<tr>
-<td>95</td>
-<td>Canned meat and poultry</td>
-<td>55 g<sup><a href='#tablefoot2'>[2]</a></sup></td>
-</tr>
-<tr>
-<td>96</td>
-<td>Meat and poultry with sauce, such as meat in barbecue sauce or turkey with gravy, but excluding combination dishes</td>
-<td>140 g</td>
-</tr>
-<tr>
-<td></td>
-<td>**Miscellaneous**</td>
-<td></td>
-</tr>
-<tr>
-<td>97</td>
-<td>Baking powder, baking soda and pectin</td>
-<td>0.6 g</td>
-</tr>
-<tr>
-<td>98</td>
-<td>Baking decorations, such as coloured sugars or sprinkles for cookies</td>
-<td>4 g</td>
-</tr>
-<tr>
-<td>99</td>
-<td>Bread crumbs and batter mixes</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td>100</td>
-<td>Cooking wine</td>
-<td>30 mL</td>
-</tr>
-<tr>
-<td>101</td>
-<td>Cocoa powder</td>
-<td>5 g</td>
-</tr>
-<tr>
-<td>102</td>
-<td>Non-alcoholic drink mixers, such as pina colada or daiquiri</td>
-<td>250 mL</td>
-</tr>
-<tr>
-<td>103</td>
-<td>Chewing gum</td>
-<td>3 g</td>
-</tr>
-<tr>
-<td>104</td>
-<td>Salad and potato toppers, such as salad crunchies, salad crispins or substitutes for bacon bits</td>
-<td>7 g</td>
-</tr>
-<tr>
-<td>105</td>
-<td>Salt and salt substitutes, as well as seasoned salt, such as garlic salt</td>
-<td>1 g</td>
-</tr>
-<tr>
-<td>106</td>
-<td>Spices and herbs</td>
-<td>0.5 g</td>
-</tr>
-<tr>
-<td></td>
-<td>**Combination Dishes**</td>
-<td></td>
-</tr>
-<tr>
-<td>107</td>
-<td>Measurable with a cup, such as casserole, hash, macaroni and cheese with or without meat, pot pie, spaghetti with sauce, stir fry, meat or poultry casserole, baked or refried beans, wieners and beans, meat chili, chili with beans, creamed chipped beef, beef or poultry ravioli in sauce, beef stroganoff, poultry à la king, Brunswick stew, goulash, stew, ragout or poutine</td>
-<td>250 mL</td>
-</tr>
-<tr>
-<td>108</td>
-<td>Not measurable with a cup, such as burritos, egg rolls, enchiladas, pizza, pizza rolls, sausage rolls, pastry rolls, cabbage rolls, quiche, sandwiches, crackers and meat or poultry lunch-type packages, gyros, burger on a bun, frank on a bun, calzones, tacos, pockets stuffed with meat, lasagna, chicken cordon bleu, stuffed vegetables with meat or poultry, shish kabobs, empanadas, fajitas, souvlaki, meat pie or tourtière</td>
-<td>140 g without gravy or sauce</td>
-</tr>
-<tr>
-<td>195 g with gravy or sauce</td>
-</tr>
-<tr>
-<td>109</td>
-<td>Hors d’oeuvres</td>
-<td>50 g</td>
-</tr>
-<tr>
-<td></td>
-<td>**Nuts and Seeds**</td>
-<td></td>
-</tr>
-<tr>
-<td>110</td>
-<td>Nuts and seeds, not for use as snacks: whole, chopped, sliced, slivered or ground</td>
-<td>30 g shelled</td>
-</tr>
-<tr>
-<td>111</td>
-<td>Butters, pastes and creams, other than peanut butter</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td>112</td>
-<td>Peanut butter</td>
-<td>15 g</td>
-</tr>
-<tr>
-<td>113</td>
-<td>Flours, such as coconut flour</td>
-<td>15 g</td>
-</tr>
-<tr>
-<td></td>
-<td>**Potatoes, Sweet Potatoes and Yams**</td>
-<td></td>
-</tr>
-<tr>
-<td>114</td>
-<td>French fries, hash browns, skins and pancakes</td>
-<td>85 g frozen French fries</td>
-</tr>
-<tr>
-<td>70 g prepared</td>
-</tr>
-<tr>
-<td>115</td>
-<td>Mashed, candied, stuffed or with sauce</td>
-<td>140 g</td>
-</tr>
-<tr>
-<td>116</td>
-<td>Plain, fresh, canned or frozen</td>
-<td>110 g fresh or frozen</td>
-</tr>
-<tr>
-<td>125 g vacuum packed</td>
-</tr>
-<tr>
-<td>160 g canned<sup><a href='#tablefoot2'>[2]</a></sup></td>
-</tr>
-<tr>
-<td></td>
-<td>**Salads**</td>
-<td></td>
-</tr>
-<tr>
-<td>117</td>
-<td>Salads, such as egg, fish, shellfish, bean, fruit, vegetable, meat, ham or poultry salad, except those listed as a separate item</td>
-<td>100 g</td>
-</tr>
-<tr>
-<td>118</td>
-<td>Gelatin salad</td>
-<td>120 g</td>
-</tr>
-<tr>
-<td>119</td>
-<td>Pasta or potato salad</td>
-<td>140 g</td>
-</tr>
-<tr>
-<td></td>
-<td>**Sauces, Dips, Gravies and Condiments**</td>
-<td></td>
-</tr>
-<tr>
-<td>120</td>
-<td>Sauces for dipping, such as barbecue, hollandaise, tartar, mustard or sweet and sour sauce</td>
-<td>30 mL</td>
-</tr>
-<tr>
-<td>121</td>
-<td>Dips, such as legume or dairy-based</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td>122</td>
-<td>Major main entree sauce, such as spaghetti sauce</td>
-<td>125 mL</td>
-</tr>
-<tr>
-<td>123</td>
-<td>Minor main entree sauce, such as pizza sauce, pesto sauce or other sauces used as toppings, such as white sauce, cheese sauce, salsa, cocktail sauce or gravy</td>
-<td>60 mL</td>
-</tr>
-<tr>
-<td>124</td>
-<td>Major condiments, such as ketchup, steak sauce, soy sauce, vinegar, teriyaki sauce or marinades</td>
-<td>15 mL</td>
-</tr>
-<tr>
-<td>125</td>
-<td>Minor condiments, such as horseradish, hot sauce, mustard or worcestershire sauce</td>
-<td>5 mL</td>
-</tr>
-<tr>
-<td></td>
-<td>**Snacks**</td>
-<td></td>
-</tr>
-<tr>
-<td>126</td>
-<td>Chips, pretzels, popcorn, extruded snacks, grain-based snack mixes and fruit-based snacks, such as fruit chips</td>
-<td>50 g</td>
-</tr>
-<tr>
-<td>127</td>
-<td>Nuts or seeds for use as snacks</td>
-<td>50 g shelled</td>
-</tr>
-<tr>
-<td>128</td>
-<td>Meat or poultry snack food sticks</td>
-<td>20 g</td>
-</tr>
-<tr>
-<td></td>
-<td>**Soups**</td>
-<td></td>
-</tr>
-<tr>
-<td>129</td>
-<td>All varieties</td>
-<td>250 mL</td>
-</tr>
-<tr>
-<td></td>
-<td>**Sugars and Sweets**</td>
-<td></td>
-</tr>
-<tr>
-<td>130</td>
-<td>Candies, including chocolate bars and other chocolate products, except those listed as a separate item</td>
-<td>40 g</td>
-</tr>
-<tr>
-<td>131</td>
-<td>Hard candies, except those listed as a separate item</td>
-<td>15 g</td>
-</tr>
-<tr>
-<td>132</td>
-<td>Baking candies, such as chocolate chips</td>
-<td>15 g</td>
-</tr>
-<tr>
-<td>133</td>
-<td>Breath mints</td>
-<td>2 g</td>
-</tr>
-<tr>
-<td>134</td>
-<td>Roll-type hard candies and mini size hard candies in dispenser packages</td>
-<td>5 g</td>
-</tr>
-<tr>
-<td>135</td>
-<td>Confectioner’s or icing sugar</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td>136</td>
-<td>Bread spreads, except those listed as a separate item, honey and molasses</td>
-<td>20 g</td>
-</tr>
-<tr>
-<td>137</td>
-<td>Jams, jellies, marmalades, fruit butters and spreads</td>
-<td>15 mL</td>
-</tr>
-<tr>
-<td>138</td>
-<td>Marshmallows</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td>139</td>
-<td>Sugars, except those listed as a separate item</td>
-<td>4 g</td>
-</tr>
-<tr>
-<td>140</td>
-<td>Sugar substitute</td>
-<td>amount equivalent in sweetness to 4 g of sugar</td>
-</tr>
-<tr>
-<td>141</td>
-<td>Syrups, including chocolate, maple and corn syrup</td>
-<td>30 mL as ingredient</td>
-</tr>
-<tr>
-<td>60 mL other uses</td>
-</tr>
-<tr>
-<td></td>
-<td>**Vegetables**</td>
-<td></td>
-</tr>
-<tr>
-<td>142</td>
-<td>Vegetables without sauce, including cream style corn and stewed tomatoes, but not including vegetables without sauce listed as a separate item</td>
-<td>85 g fresh or frozen</td>
-</tr>
-<tr>
-<td>125 mL canned<sup><a href='#tablefoot2'>[2]</a></sup></td>
-</tr>
-<tr>
-<td>143</td>
-<td>Vegetables with sauce</td>
-<td>110 g fresh or frozen</td>
-</tr>
-<tr>
-<td>125 mL canned</td>
-</tr>
-<tr>
-<td>144</td>
-<td>Vegetables primarily used for garnish or flavouring, fresh, canned or frozen, but not dried, such as parsley or garlic</td>
-<td>4 g</td>
-</tr>
-<tr>
-<td>145</td>
-<td>Chili pepper and green onion</td>
-<td>30 g</td>
-</tr>
-<tr>
-<td>146</td>
-<td>Seaweed</td>
-<td>15 g</td>
-</tr>
-<tr>
-<td>147</td>
-<td>Lettuce and sprouts</td>
-<td>65 g</td>
-</tr>
-<tr>
-<td>148</td>
-<td>Vegetable juice and vegetable drink</td>
-<td>250 mL</td>
-</tr>
-<tr>
-<td>149</td>
-<td>Olives</td>
-<td>15 g<sup><a href='#tablefoot2'>[2]</a></sup></td>
-</tr>
-<tr>
-<td>150</td>
-<td>Pickles</td>
-<td>30 g<sup><a href='#tablefoot2'>[2]</a></sup></td>
-</tr>
-<tr>
-<td>151</td>
-<td>Relish</td>
-<td>15 mL</td>
-</tr>
-<tr>
-<td>152</td>
-<td>Vegetable pastes, such as tomato paste</td>
-<td>30 mL</td>
-</tr>
-<tr>
-<td>153</td>
-<td>Vegetable sauce or purée, such as tomato sauce or tomato purée</td>
-<td>60 mL</td>
-</tr>
-</table>
-
-
-<a name='tablefoot1'><sup>1</sup></a>: Unless otherwise noted, the reference amounts are for the ready-to-serve or almost ready-to-serve form of the food. If not listed separately, the reference amount for the unprepared form, such as dry mixes, concentrates, dough, batter, and fresh or frozen pasta, is the amount required to make one reference amount of the prepared form.<br />
-
-<a name='tablefoot2'><sup>2</sup></a>: Excludes any liquid in which the solid food may be packed or canned, unless the liquid is customarily consumed with the solid food.<br />
-
-<a name='tablefoot3'><sup>3</sup></a>: Meat and poultry substitutes include extended and simulated meat and poultry products.<br />
-> SOR/2003-11, s. 37; SOR/2010-94, s. 7(F); SOR/2012-43, ss. 47, 48.
+[Repealed, SOR/2016-305, s. 71]
 
 
