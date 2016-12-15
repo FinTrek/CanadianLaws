@@ -55,6 +55,15 @@ Sanctionnée sur le 19 juin 2013
 
 
 
+**Interprétation**
+
+**4.1** Pour l’application des dispositions de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), des [Règles concernant l’application de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%202%20(5e%20suppl.).md), de la [Loi sur l’interprétation des conventions en matière d’impôts sur le revenu](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-4.md) et du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md) relativement à l’accord, la mention de « pays » ou « État » vaut aussi mention, avec les adaptations nécessaires, de la Région administrative spéciale de Hong Kong de la République populaire de Chine.
+> 2016, ch. 13, art. 4.
+
+
+
+
+
 **Règlements**
 
 **5** Le ministre du Revenu national peut prendre les règlements nécessaires à l’exécution de tout ou partie de l’Accord.
