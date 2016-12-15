@@ -781,18 +781,20 @@ lorsque l’employé se conforme aux alinéas 29c) à f) à l’égard de l’a
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
+***allocation canadienne pour enfants*** S’entend du paiement en trop présumé qui est calculé conformément à l’article 122.61 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) à l’égard d’une personne à charge admissible âgée de moins de sept ans. (*Canada child benefit*)
+
 ***directeur***[Abrogée, DORS/96-522, art. 3]
 
-***prestation fiscale pour enfants*** S’entend du paiement en trop présumé qui est calculé conformément à l’article 122.61 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) à l’égard d’une personne à charge admissible âgée de moins de sept ans. (*Child Tax Benefit*)
+***prestation fiscale pour enfants***[Abrogée, 2016, ch. 12, art. 85]
 
-***représentant personnel*** L’exécuteur testamentaire, l’administrateur, l’héritier ou toute autre personne ayant la propriété ou le contrôle de la succession d’une personne décédée ou, à défaut de succession, le survivant de la personne décédée ou, à défaut de survivant, le plus proche parent de celle-ci. (*personal representative*)
+***représentant personnel*** L’exécuteur testamentaire, l’administrateur, l’héritier ou toute autre personne ayant la propriété ou le contrôle de la succession d’une personne décédée ou, à défaut de succession, le survivant de la personne décédée ou, à défaut de survivant, le plus proche parent de celle-ci. (*personal representative*)
 
 - **(2)** Pour l’application du paragraphe 60(2) de la Loi, une personne ayant droit de présenter une demande comprend une personne ou un organisme autorisé à recevoir une prestation en vertu de l’article 57 du présent règlement.
 
 - **(3)** Pour l’application du paragraphe 60(4) de la Loi, une personne ayant droit de recevoir des prestations comprend une personne ou un organisme autorisé à recevoir une prestation en vertu de l’article 57 du présent règlement.
 
 - **(4)** Pour l’application de la définition de ***fonctionnaire public*** au paragraphe 104(1) de la Loi, est désigné comme tel tout particulier employé dans une institution fédérale, ou dont les services sont requis par une institution fédérale, à titre occasionnel ou temporaire ou en vertu d’un programme d’embauche d’étudiants.
-> DORS/86-1133, art. 1; DORS/89-345, art. 1; DORS/90-829, art. 10; DORS/92-17, art. 2; DORS/93-11, art. 1; DORS/96-522, art. 3; DORS/99-192, art. 1; DORS/2000-411, art. 2.
+> DORS/86-1133, art. 1; DORS/89-345, art. 1; DORS/90-829, art. 10; DORS/92-17, art. 2; DORS/93-11, art. 1; DORS/96-522, art. 3; DORS/99-192, art. 1; DORS/2000-411, art. 2; 2016, ch. 12, art. 85.
 
 
 
@@ -1036,14 +1038,14 @@ lorsque l’employé se conforme aux alinéas 29c) à f) à l’égard de l’a
 
 
 **53** Pour déterminer si les mois pour lesquels un cotisant a bénéficié des prestations d’allocations familiales devraient être exclus de sa période de cotisation, le requérant doit, dans la demande ou par la suite et par écrit à la demande du ministre, fournir à celui-ci les renseignements ou preuves additionnels qui suivent :
-- **a)** le nom et la date de naissance de tous les enfants pour lesquels le cotisant a reçu des prestations d’allocations familiales ou des prestations fiscales pour enfants;
+- **a)** le nom et la date de naissance de tous les enfants pour lesquels le cotisant a reçu des prestations d’allocations familiales ou des allocations canadiennes pour enfants;
 - **b)** le numéro d’assurance sociale de chacun de ces enfants, le cas échéant;
-- **c)** les périodes au cours desquelles le cotisant a reçu, pour ces enfants, des prestations d’allocations familiales ou des prestations fiscales pour enfants;
-- **d)** la province où résidait le cotisant lorsqu’il recevait, pour ces enfants, des prestations d’allocations familiales ou des prestations fiscales pour enfants;
-- **e)** le numéro d’assurance sociale du cotisant à qui étaient versées, pour ces enfants, des prestations d’allocations familiales ou des prestations fiscales pour enfants;
-- **f)** s’ils sont connus, le nom et le numéro d’assurance sociale de toute autre personne qui a reçu, pour ces enfants, des prestations d’allocations familiales ou des prestations fiscales pour enfants;
+- **c)** les périodes au cours desquelles le cotisant a reçu, pour ces enfants, des prestations d’allocations familiales ou des allocations canadiennes pour enfants;
+- **d)** la province où résidait le cotisant lorsqu’il recevait, pour ces enfants, des prestations d’allocations familiales ou des allocations canadiennes pour enfants;
+- **e)** le numéro d’assurance sociale du cotisant à qui étaient versées, pour ces enfants, des prestations d’allocations familiales ou des allocations canadiennes pour enfants;
+- **f)** s’ils sont connus, le nom et le numéro d’assurance sociale de toute autre personne qui a reçu, pour ces enfants, des prestations d’allocations familiales ou des allocations canadiennes pour enfants;
 - **g)** les documents, déclarations ou dossiers additionnels en possession du requérant ou qu’il peut obtenir et qui pourraient aider le ministre à constater l’exactitude des renseignements et des preuves visés aux alinéas a) à f).
-> DORS/93-11, art. 2; DORS/96-522, art. 23.
+> DORS/93-11, art. 2; DORS/96-522, art. 23; 2016, ch. 12, art. 87.
 
 
 
@@ -1584,11 +1586,11 @@ d’une somme égale à ce paiement excédentaire.
 - **(1)** Pour l’application de la définition de ***bénéficiaire d’une allocation familiale*** au paragraphe 42(1) de la Loi, ce terme s’entend en outre :
 	- **a)** de l’époux, de l’ancien époux, du conjoint de fait ou de l’ancien conjoint de fait d’une personne qui, selon cette définition, reçoit ou a reçu une allocation ou une allocation familiale à l’égard d’un enfant pour toute période précédant le moment où l’enfant atteint l’âge de sept ans si, pendant cette période, l’époux, l’ancien époux, le conjoint de fait ou l’ancien conjoint de fait restait à la maison et était la principale personne qui s’occupait de l’enfant et que cette période n’a pas déjà été exclue ou déduite de la période cotisable de la personne aux fins de l’application de la partie II de la Loi ou ne peut l’être;
 	- **b)** du membre ou de son époux ou ancien époux, dans le cas d’un membre des Forces armées canadiennes qui était en poste à l’extérieur du Canada avant 1973, qui aurait reçu, n’eût été cette affectation, une allocation ou une allocation familiale pour un enfant âgé de moins de sept ans;
-	- **c)** de la personne qui, aux termes de l’article 122.62 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), est considérée comme un particulier admissible pour l’application de la sous-section a.1 de la section E de la partie I de cette loi (prestation fiscale pour enfants) à l’égard d’une personne à charge admissible âgée de moins de sept ans;
-	- **d)** de la personne qui aurait été considérée comme un particulier admissible pour l’application de la sous-section a.1 de la section E de la partie I de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) (prestation fiscale pour enfants) si elle avait présenté l’avis visé au paragraphe 122.62(1) de cette loi, lorsqu’aucune personne n’a été considérée comme un particulier admissible à l’égard de la même personne à charge admissible âgée de moins de sept ans.
+	- **c)** de la personne qui, aux termes de l’article 122.62 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), est considérée comme un particulier admissible pour l’application de la sous-section a.1 de la section E de la partie I de cette loi (allocation canadienne pour enfants) à l’égard d’une personne à charge admissible âgée de moins de sept ans;
+	- **d)** de la personne qui aurait été considérée comme un particulier admissible pour l’application de la sous-section a.1 de la section E de la partie I de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) (allocation canadienne pour enfants) si elle avait présenté l’avis visé au paragraphe 122.62(1) de cette loi, lorsqu’aucune personne n’a été considérée comme un particulier admissible à l’égard de la même personne à charge admissible âgée de moins de sept ans.
 
 - **(2)** [Abrogé, DORS/2010-45, art. 12]
-> DORS/86-1133, art. 16; DORS/89-345, art. 8; DORS/93-11, art. 3; DORS/96-522, art. 19; DORS/2000-411, art. 12; DORS/2010-45, art. 12.
+> DORS/86-1133, art. 16; DORS/89-345, art. 8; DORS/93-11, art. 3; DORS/96-522, art. 19; DORS/2000-411, art. 12; DORS/2010-45, art. 12; 2016, ch. 12, art. 87.
 
 
 
