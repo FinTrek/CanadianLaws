@@ -39,31 +39,31 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The definitions in this subsection apply in this Act.
 
-***Canada Learning Bond*** means the bond payable or paid under section 6.
+***Canada Learning Bond*** means the bond payable or paid under section 6. (*bon d’études*)
 
-***CES grant*** means a Canada Education Savings grant payable or paid under section 5 or under Part III.1 of the [Department of Human Resources Development Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2011.md), as it read immediately before the coming into force of section 19 of this Act.
+***CES grant*** means a Canada Education Savings grant payable or paid under section 5 or under Part III.1 of the [Department of Human Resources Development Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2011.md), as it read immediately before the coming into force of section 19 of this Act. (*subvention pour l’épargne-études*)
 
-***child tax benefit*** means a deemed overpayment under Subdivision a.1 of Division E of Part I of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
+***child tax benefit*** means a deemed overpayment under Subdivision a.1 of Division E of Part I of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md). (*prestation fiscale pour enfants*)
 
-***first threshold*** for a particular year means the dollar amount referred to in paragraph 117(2)(a) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), as adjusted under that Act for the particular year.
+***first threshold*** for a particular year means the dollar amount referred to in paragraph 117(2)(a) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), as adjusted under that Act for the particular year. (*premier seuil*)
 
-***national child benefit supplement*** means that portion of a child tax benefit determined under the description of C in subsection 122.61(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
+***national child benefit supplement***[Repealed, 2016, c. 12, s. 107]
 
-Version anglaise seulement***prescribed*** means prescribed by regulations.
+***prescribed*** means prescribed by regulations. (***Version anglaise seulement***)
 
-***primary caregiver*** means
-- **(a)** in the case of a beneficiary who is a qualified dependant in respect of whom a child tax benefit is payable, the eligible individual in respect of the beneficiary; and
-- **(b)** in the case of a beneficiary in respect of whom a special allowance is payable under the [Children’s Special Allowances Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2048,%20Sch..md), the department, agency or institution that maintains the beneficiary.
+***primary caregiver*** means
+- **(a)** in the case of a beneficiary who is a qualified dependant, the eligible individual in respect of the beneficiary; and
+- **(b)** in the case of a beneficiary in respect of whom a special allowance is payable under the [Children’s Special Allowances Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2048,%20Sch..md), the department, agency or institution that maintains the beneficiary. (*responsable*)
 
-***second threshold*** for a particular year means the higher dollar amount referred to in paragraph 117(2)(b) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), as adjusted under that Act for the particular year.
+***second threshold*** for a particular year means the higher dollar amount referred to in paragraph 117(2)(b) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), as adjusted under that Act for the particular year. (*deuxième seuil*)
 
 **[Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) expressions**
 
 - **(2)** Unless a contrary intention appears, in this Act
-	- **(a)** the expressions ***adjusted income***, ***eligible individual*** and ***qualified dependant*** have the meanings assigned by section 122.6 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md);
-	- **(b)** the expressions ***beneficiary***, ***contribution***, ***designated provincial program***, ***promoter***, ***registered education savings plan***, ***subscriber*** and ***trust*** have the meanings assigned by section 146.1 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md); and
+	- **(a)** the expressions adjusted income, eligible individual and qualified dependant have the meanings assigned by section 122.6 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md);
+	- **(b)** the expressions beneficiary, contribution, designated provincial program, promoter, registered education savings plan, subscriber and trust have the meanings assigned by section 146.1 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md); and
 	- **(c)** any other expression has the meaning assigned by the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
-> 2004, c. 26, s. 2; 2010, c. 12, s. 30.
+> 2004, c. 26, s. 2; 2010, c. 12, s. 30; 2016, c. 12, s. 107.
 
 
 
@@ -201,11 +201,16 @@ exceeds
 **Amount of bond**
 
 - **(2)** The amount of a Canada Learning Bond is equal to the sum of the following amounts:
-	- **(a)** $500 in respect of the first benefit year in which the beneficiary
-		- **(i)** is a person less than 15 years of age at the beginning of the month immediately before the benefit year, or
-		- **(ii)** is born during the benefit year or during the month immediately before it,
-and in respect of whom a national child benefit supplement, or a special allowance under the [Children’s Special Allowances Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2048,%20Sch..md), is payable for at least one month in that year, and
-	- **(b)** $100 in respect of any subsequent benefit year in which the beneficiary is a person less than 15 years of age at the beginning of the month immediately before the benefit year and in respect of whom a supplement or an allowance referred to in paragraph (a) is payable for at least one month in that year.
+	- **(a)** $500 in respect of the first benefit year in which the beneficiary is a person less than 15 years of age at the beginning of the month immediately before the benefit year, or is born during the benefit year or during the month immediately before it, and, for at least one month in that year,
+		- **(i)** is a qualified dependant of an eligible individual whose adjusted income, when used to determine the amount of a child tax benefit, results in that portion of a child tax benefit determined under the description of C in subsection 122.61(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) being more than $0, or
+		- **(ii)** is a person in respect of whom a special allowance under the [Children’s Special Allowances Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2048,%20Sch..md) is payable, and
+	- **(b)** $100 in respect of any subsequent benefit year in which the beneficiary is a person less than 15 years of age at the beginning of the month immediately before the benefit year and, for at least one month in that year, is a person to whom subparagraph (a)(i) or (ii) applies.
+
+**For greater certainty**
+
+- **(2.1)** For greater certainty, a Canada Learning Bond is, other than for the purposes of section 14 of the [Canada Education Savings Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2005/151.md), not to be paid in respect of any beneficiary
+	- **(a)** more than once in the beneficiary’s lifetime under paragraph 6(2)(a); and
+	- **(b)** more than once in respect of a benefit year under paragraph 6(2)(b).
 
 **Meaning of benefit year**
 
@@ -218,6 +223,8 @@ and in respect of whom a national child benefit supplement, or a special allowan
 **Additional payment**
 
 - **(5)** When the Minister pays the amount under paragraph (2)(a), the Minister may, in prescribed circumstances, pay into the trust an additional amount determined in accordance with the regulations in recognition of the cost of administering registered education savings plans.
+> 2004, c. 26, s. 6; 2016, c. 12, s. 109.
+
 
 
 
@@ -254,7 +261,9 @@ and in respect of whom a national child benefit supplement, or a special allowan
 
 **Restriction**
 
-- **(2)** Despite subsection (1), the Minister may not waive any requirement related to the determination of eligibility for a child tax benefit or a national child benefit supplement, or for a special allowance under the [Children’s Special Allowances Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2048,%20Sch..md).
+- **(2)** Despite subsection (1), the Minister may not waive any requirement related to the determination of eligibility for a child tax benefit or for a special allowance under the [Children’s Special Allowances Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2048,%20Sch..md).
+> 2004, c. 26, s. 9.1; 2016, c. 12, s. 110.
+
 
 
 
@@ -325,13 +334,22 @@ and in respect of whom a national child benefit supplement, or a special allowan
 
 
 
-## Transitional Provision
+## Transitional Provisions
 
 
 
 **Agreements**
 
 **14** Every agreement entered into under Part III.1 of the [Department of Human Resources Development Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2011.md) that is in force immediately before the coming into force of section 5 of this Act is deemed to be an agreement entered into under that section and continues in force until it terminates.
+
+
+
+
+**Applications for benefit years before July 1, 2016**
+
+**14.1** The provisions of this Act, of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) and of any regulations made under those Acts, as they read immediately before July 1, 2016, apply to an application for a Canada Learning Bond made in respect of any ***benefit year***, within the meaning of subsection 6(3) of this Act, before that date.
+> 2016, c. 12, s. 112.
+
 
 
 
