@@ -3635,8 +3635,9 @@ and ending on the day on which the refund is paid to the person.
 **Exception**
 
 - **(3)** Subsections (1) and (2) do not apply to a reassessment of a person made
-	- **(a)** to give effect to a decision on an objection or appeal; or
-	- **(b)** with the consent in writing of the person to dispose of an appeal.
+	- **(a)** to give effect to a decision on an objection or appeal;
+	- **(b)** with the consent in writing of the person to dispose of an appeal; or
+	- **(c)** to give effect to an alternative basis or argument advanced by the Minister under subsection (7).
 
 **No limitation on assessment if fraud, etc.**
 
@@ -3656,11 +3657,19 @@ and ending on the day on which the refund is paid to the person.
 
 - **(6)** If the result of a reassessment on an objection to, or a decision on an appeal from, an assessment is to reduce the amount of duty payable by a person and, by reason of the reduction, any refund or other payment claimed by the person for a reporting period, or in an application for a refund or other payment, should be decreased, the Minister may at any time assess or reassess that reporting period or that application only for the purpose of taking the reduction of duty into account in respect of the refund or other payment.
 
-**Alternative argument in support of assessment**
+**Alternative basis or argument**
 
-- **(7)** The Minister may advance an alternative argument in support of an assessment of a person at any time after the period otherwise limited by subsection (1) or (2) for making the assessment unless on an appeal under this Act
+- **(7)** The Minister may advance an alternative basis or argument in support of an assessment of a person, or in support of all or any portion of the total amount determined on assessment to be payable or remittable by a person under this Act, at any time after the period otherwise limited by subsection (1) or (2) for making the assessment unless on an appeal under this Act
 	- **(a)** there is relevant evidence that the person is no longer able to adduce without the leave of the court; and
 	- **(b)** it is not appropriate in the circumstances for the court to order that the evidence be adduced.
+
+**Limitation**
+
+- **(7.1)** If a reassessment of a person is made that gives effect to an alternative basis or argument advanced by the Minister under subsection (7) in support of a particular assessment of the person, the Minister shall not reassess for an amount that is greater than the total amount of the particular assessment.
+
+**Exception**
+
+- **(7.2)** Subsection (7.1) does not apply to any portion of an amount determined on reassessment that the Minister would be entitled to reassess under this Act at any time after the period otherwise limited by subsection (1) or (2) for making the reassessment if this Act were read without reference to subsection (7).
 
 **Waiver**
 
@@ -3669,7 +3678,7 @@ and ending on the day on which the refund is paid to the person.
 **Revoking waiver**
 
 - **(9)** Any person who files a waiver under subsection (8) may revoke it on six months notice to the Minister by filing with the Minister a notice of revocation of the waiver in the prescribed form and manner.
-> 2002, c. 22, s. 191; 2010, c. 25, s. 117.
+> 2002, c. 22, s. 191; 2010, c. 25, s. 117; 2016, c. 12, s. 100.
 
 
 
