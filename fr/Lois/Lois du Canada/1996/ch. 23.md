@@ -978,15 +978,17 @@ plus de 13 %
 
 **Critères**
 
-- **(2)** Les critères d’admissibilité liés au revenu familial peuvent comprendre des critères identiques ou semblables à ceux imposés pour bénéficier d’une prestation fiscale pour enfants.
+- **(2)** Les critères d’admissibilité liés au revenu familial peuvent comprendre des critères identiques ou semblables à ceux imposés pour bénéficier d’une allocation canadienne pour enfants.
 
-**Prestation fiscale pour enfants**
+**Allocation canadienne pour enfants**
 
-- **(3)** Pour l’application du paragraphe (2), une prestation fiscale pour enfants est un paiement en trop présumé au sens de la sous-section a.1 de la section E de la partie I de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
+- **(3)** Pour l’application du paragraphe (2), une allocation canadienne pour enfants est un paiement en trop présumé au sens de la sous-section a.1 de la section E de la partie I de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
 
 **Limite**
 
 - **(4)** Le montant de la majoration ne peut excéder le pourcentage, prévu par règlement, de la rémunération hebdomadaire assurable du prestataire ou, à défaut, vingt-cinq pour cent de cette rémunération.
+> 1996, ch. 23, art. 16; 2016, ch. 12, art. 86.
+
 
 
 
@@ -5058,11 +5060,11 @@ Est exclu de la présente définition tout particulier visé par les règlements
 
 **Critères**
 
-- **(2)** Les critères d’admissibilité liés au revenu familial peuvent comprendre des critères identiques ou semblables à ceux imposés pour bénéficier d’une prestation fiscale pour enfants.
+- **(2)** Les critères d’admissibilité liés au revenu familial peuvent comprendre des critères identiques ou semblables à ceux imposés pour bénéficier d’une allocation canadienne pour enfants .
 
-**Prestation fiscale pour enfants**
+**Allocation canadienne pour enfants **
 
-- **(3)** Pour l’application du paragraphe (2), une prestation fiscale pour enfants est un paiement en trop réputé se produire aux termes de la sous-section a.1 de la section E de la partie I de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
+- **(3)** Pour l’application du paragraphe (2), une allocation canadienne pour enfants  est un paiement en trop réputé se produire aux termes de la sous-section a.1 de la section E de la partie I de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
 
 **Limite**
 
@@ -5071,7 +5073,7 @@ Est exclu de la présente définition tout particulier visé par les règlements
 **Taux maximal de prestations hebdomadaires**
 
 - **(5)** Le taux maximal des prestations hebdomadaires qui peuvent être versées au titre du présent article est le montant obtenu par division de cinquante-cinq pour cent du maximum de la rémunération annuelle assurable, établi conformément à l’article 4, par cinquante-deux.
-> 2009, ch. 33, art. 16.
+> 2009, ch. 33, art. 16; 2016, ch. 12, art. 86.
 
 
 
