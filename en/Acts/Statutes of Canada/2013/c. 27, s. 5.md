@@ -55,6 +55,15 @@ Assented to on 19 June 2013
 
 
 
+**Interpretation**
+
+**4.1** For the purposes of applying the provisions of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), the [Income Tax Conventions Interpretation Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-4.md), the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md) and the [Income Tax Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/901-1000/C.R.C.,%20c.%20945.md) in respect of the Agreement, references to a “country” or a “state” are, with such modifications as the circumstances require, to be read as including the Hong Kong Special Administrative Region of the People’s Republic of China.
+> 2016, c. 13, s. 4.
+
+
+
+
+
 **Regulations**
 
 **5** The Minister of National Revenue may make any regulations that are necessary for carrying out the Agreement or for giving effect to any of its provisions.
