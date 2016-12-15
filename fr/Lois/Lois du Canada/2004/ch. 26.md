@@ -39,29 +39,29 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***bon d’études*** Bon versé ou à verser aux termes de l’article 6.
+***bon d’études*** Bon versé ou à verser aux termes de l’article 6. (*Canada Learning Bond*)
 
-***deuxième seuil*** S’entend, pour une année donnée, du montant en dollars le plus élevé visé à l’alinéa 117(2)b) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), rajusté en vertu de cette loi pour cette année.
+***deuxième seuil*** S’entend, pour une année donnée, du montant en dollars le plus élevé visé à l’alinéa 117(2)b) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), rajusté en vertu de cette loi pour cette année. (*second threshold*)
 
-***premier seuil*** S’entend, pour une année donnée, du montant en dollars visé à l’alinéa 117(2)a) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), rajusté en vertu de cette loi pour cette année.
+***premier seuil*** S’entend, pour une année donnée, du montant en dollars visé à l’alinéa 117(2)a) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), rajusté en vertu de cette loi pour cette année. (*first threshold*)
 
-***prestation fiscale pour enfants*** S’entend d’un paiement en trop présumé au sens de la sous-section a.1 de la section E de la partie I de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
+***prestation fiscale pour enfants*** S’entend d’un paiement en trop présumé au sens de la sous-section a.1 de la section E de la partie I de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md). (*child tax benefit*)
 
 ***responsable***
-- **a)** S’agissant du bénéficiaire qui est une personne à charge admissible pour qui une prestation fiscale pour enfants est à verser, le particulier admissible à son égard;
-- **b)** s’agissant du bénéficiaire pour qui une allocation spéciale est à verser au titre de la [Loi sur les allocations spéciales pour enfants](/fr/Lois/Lois%20du%20Canada/1992/ch.%2048,%20ann..md), le ministère, l’organisme ou l’établissement qui en a la charge.
+- **a)** S’agissant du bénéficiaire qui est une personne à charge admissible, le particulier admissible à son égard;
+- **b)** s’agissant du bénéficiaire pour qui une allocation spéciale est à verser au titre de la [Loi sur les allocations spéciales pour enfants](/fr/Lois/Lois%20du%20Canada/1992/ch.%2048,%20ann..md), le ministère, l’organisme ou l’établissement qui en a la charge. (*primary caregiver*)
 
-***subvention pour l’épargne-études*** Subvention versée ou à verser aux termes de l’article 5 de la présente loi ou de la partie III.1 de la [Loi sur le ministère du Développement des ressources humaines](/fr/Lois/Lois%20du%20Canada/1996/ch.%2011.md), dans sa version antérieure à l’entrée en vigueur de l’article 19 de la présente loi.
+***subvention pour l’épargne-études*** Subvention versée ou à verser aux termes de l’article 5 de la présente loi ou de la partie III.1 de la [Loi sur le ministère du Développement des ressources humaines](/fr/Lois/Lois%20du%20Canada/1996/ch.%2011.md), dans sa version antérieure à l’entrée en vigueur de l’article 19 de la présente loi. (*CES grant*)
 
-***supplément de la prestation nationale pour enfants*** La portion de la prestation fiscale pour enfants déterminée selon l’élément C de la formule figurant au paragraphe 122.61(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
+***supplément de la prestation nationale pour enfants***[Abrogée, 2016, ch. 12, art. 107]
 
 **Terminologie**
 
-- **(2)** Sauf indication contraire, dans la présente loi :
-	- **a)** les termes ***particulier admissible***, ***personne à charge admissible*** et ***revenu modifié*** s’entendent au sens de l’article 122.6 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
-	- **b)** les termes ***bénéficiaire***, ***cotisation***, ***fiducie***, ***programme provincial désigné***, ***promoteur***, ***régime enregistré d’épargne-études*** et ***souscripteur*** s’entendent au sens de l’article 146.1 de cette loi;
+- **(2)** Sauf indication contraire, dans la présente loi :
+	- **a)** les termes particulier admissible, personne à charge admissible et revenu modifié s’entendent au sens de l’article 122.6 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
+	- **b)** les termes bénéficiaire, cotisation, fiducie, programme provincial désigné, promoteur, régime enregistré d’épargne-études et souscripteur s’entendent au sens de l’article 146.1 de cette loi;
 	- **c)** les autres termes s’entendent au sens de cette loi.
-> 2004, ch. 26, art. 2; 2010, ch. 12, art. 30.
+> 2004, ch. 26, art. 2; 2010, ch. 12, art. 30; 2016, ch. 12, art. 107.
 
 
 
@@ -195,8 +195,16 @@ où :
 **Montant du bon**
 
 - **(2)** Le montant du bon d’études est égal au total des sommes suivantes :
-	- **a)** 500 $ à l’égard de la première année de référence au cours de laquelle le bénéficiaire né au cours de cette année ou au cours du dernier mois de l’année de référence précédente ou âgé de moins de quinze ans au début de ce mois est une personne pour qui est à verser, pour au moins l’un des mois de l’année, soit un supplément de la prestation nationale pour enfants, soit une allocation spéciale prévue par la [Loi sur les allocations spéciales pour enfants](/fr/Lois/Lois%20du%20Canada/1992/ch.%2048,%20ann..md);
-	- **b)** 100 $ à l’égard de chaque année de référence postérieure au cours de laquelle le bénéficiaire âgé de moins de quinze ans au début du dernier mois de l’année de référence précédente est une personne pour qui est à verser, pour au moins l’un des mois de l’année, le supplément ou l’allocation visés à l’alinéa a).
+	- **a)** 500 $ à l’égard de la première année de référence au cours de laquelle le bénéficiaire né au cours de cette année ou au cours du dernier mois de l’année de référence précédente ou âgé de moins de quinze ans au début de ce mois est, pour au moins l’un des mois de l’année :
+		- **(i)** soit une personne à charge admissible d’un particulier admissible dont le revenu modifié, lorsqu’il est utilisé pour calculer la prestation fiscale pour enfants, porte la portion de la prestation fiscale pour enfants déterminée selon l’élément C de la formule figurant au paragraphe 122.61(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) au-delà de 0 $,
+		- **(ii)** soit une personne pour qui est à verser une allocation spéciale prévue par la [Loi sur les allocations spéciales pour enfants](/fr/Lois/Lois%20du%20Canada/1992/ch.%2048,%20ann..md);
+	- **b)** 100 $ à l’égard de chaque année de référence postérieure au cours de laquelle le bénéficiaire âgé de moins de quinze ans au début du dernier mois de l’année de référence précédente est, pour au moins l’un des mois de l’année, une personne à l’égard de laquelle s’appliquent les sous-alinéas a)(i) ou (ii).
+
+**Précision**
+
+- **(2.1)** Il est entendu que, sauf pour l’application de l’article 14 du Règlement sur l’épargne-études, il ne peut être versé à l’égard d’un bénéficiaire :
+	- **a)** un bon d’études en vertu de l’alinéa 6(2)a) plus d’une fois au cours de sa vie;
+	- **b)** un bon d’études en vertu de l’alinéa 6(2)b) plus d’une fois à l’égard d’une année de référence.
 
 **Année de référence**
 
@@ -209,6 +217,8 @@ où :
 **Versement additionnel**
 
 - **(5)** Lorsqu’il verse la somme visée à l’alinéa (2)a), le ministre peut, dans les circonstances prévues par règlement, verser au fiduciaire au profit de la fiducie une somme additionnelle déterminée en conformité avec les règlements, pour tenir compte des frais administratifs des régimes enregistrés d’épargne-études.
+> 2004, ch. 26, art. 6; 2016, ch. 12, art. 109.
+
 
 
 
@@ -245,7 +255,9 @@ où :
 
 **Restriction**
 
-- **(2)** Il ne peut toutefois renoncer aux exigences liées à la détermination de l’admissibilité à la prestation fiscale pour enfants, au supplément de la prestation nationale pour enfants ou à l’allocation spéciale prévue par la [Loi sur les allocations spéciales pour enfants](/fr/Lois/Lois%20du%20Canada/1992/ch.%2048,%20ann..md).
+- **(2)** Il ne peut toutefois renoncer aux exigences liées à la détermination d’admissibilité à la prestation fiscale pour enfants ou à l’allocation spéciale prévue par la [Loi sur les allocations spéciales pour enfants](/fr/Lois/Lois%20du%20Canada/1992/ch.%2048,%20ann..md).
+> 2004, ch. 26, art. 9.1; 2016, ch. 12, art. 110.
+
 
 
 
@@ -316,13 +328,22 @@ où :
 
 
 
-## Disposition transitoire
+## Dispositions transitoires
 
 
 
 **Conventions**
 
 **14** Toute convention conclue en vertu de la partie III.1 de la [Loi sur le ministère du Développement des ressources humaines](/fr/Lois/Lois%20du%20Canada/1996/ch.%2011.md) qui est en vigueur à l’entrée en vigueur de l’article 5 de la présente loi est réputée avoir été conclue sous le régime de celle-ci et demeure en vigueur jusqu’à ce qu’elle prenne fin.
+
+
+
+
+**Demandes pour les années de référence antérieures au 1<sup>er</sup> juillet 2016**
+
+**14.1** Les dispositions de la présente loi et de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) ainsi que les dispositions des règlements pris en vertu de ces lois, dans leur version antérieure au 1<sup>er</sup> juillet 2016, s’appliquent à la demande de bon d’études présentée à l’égard d’une ***année de référence***, au sens du paragraphe 6(3) de la présente loi, précédant cette date.
+> 2016, ch. 12, art. 112.
+
 
 
 
