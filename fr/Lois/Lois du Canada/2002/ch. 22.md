@@ -3621,7 +3621,8 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 
 - **(3)** Les paragraphes (1) et (2) ne s’appliquent pas à la nouvelle cotisation établie à l’égard d’une personne :
 	- **a)** soit en vue d’exécuter la décision rendue par suite d’une opposition ou d’un appel;
-	- **b)** soit avec le consentement écrit de la personne visant le règlement d’un appel.
+	- **b)** soit avec le consentement écrit de la personne visant le règlement d’un appel;
+	- **c)** soit pour tenir compte d’un nouveau fondement ou d’un nouvel argument avancé par le ministre en vertu du paragraphe (7).
 
 **Exception en cas de négligence, fraude ou renonciation**
 
@@ -3638,11 +3639,19 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 
 - **(6)** Dans le cas où une nouvelle cotisation établie par suite d’une opposition à une cotisation ou d’une décision d’appel concernant une cotisation réduit les droits exigibles d’une personne et, de façon incidente, réduit le remboursement ou autre paiement demandé par la personne pour une période de déclaration ou dans une demande de remboursement ou d’autre paiement, le ministre peut, en tout temps, établir une cotisation ou une nouvelle cotisation pour cette période ou cette demande, mais seulement pour tenir compte de l’incidence de la réduction des droits.
 
-**Nouvel argument à l’appui d’une cotisation**
+**Nouveau fondement ou nouvel argument**
 
-- **(7)** Le ministre peut avancer un nouvel argument à l’appui d’une cotisation en tout temps après l’expiration du délai prévu par ailleurs aux paragraphes (1) ou (2) pour l’établissement de la cotisation, sauf si, sur appel interjeté en vertu de la présente loi :
+- **(7)** Le ministre peut avancer un nouveau fondement ou un nouvel argument à l’appui d’une cotisation établie à l’égard d’une personne, ou à l’appui de tout ou partie du montant total déterminé lors de l’établissement d’une cotisation comme étant à payer ou à verser par une personne en application de la présente loi, en tout temps après l’expiration du délai prévu par ailleurs aux paragraphes (1) ou (2) pour l’établissement de la cotisation, sauf si, sur appel interjeté en vertu de la présente loi :
 	- **a)** d’une part, il existe des éléments de preuve que la personne n’est plus en mesure de produire sans l’autorisation du tribunal;
 	- **b)** d’autre part, il ne convient pas que le tribunal ordonne la production des éléments de preuve dans les circonstances.
+
+**Restriction**
+
+- **(7.1)** Si une nouvelle cotisation est établie à l’égard d’une personne pour tenir compte d’un nouveau fondement ou d’un nouvel argument avancé par le ministre en vertu du paragraphe (7) à l’appui d’une cotisation donnée établie à l’égard de la personne, le ministre ne peut établir la nouvelle cotisation pour un montant supérieur au montant total de la cotisation donnée.
+
+**Exception**
+
+- **(7.2)** Le paragraphe (7.1) ne s’applique à aucune partie d’un montant déterminé lors de l’établissement d’une nouvelle cotisation à l’égard duquel le ministre pourrait établir une nouvelle cotisation en application de la présente loi en tout temps après l’expiration des délais prévus aux paragraphes (1) ou (2) pour l’établissement de la nouvelle cotisation s’il n’était pas tenu compte du paragraphe (7).
 
 **Renonciation**
 
@@ -3651,7 +3660,7 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 **Révocation de la renonciation**
 
 - **(9)** La renonciation est révocable à six mois d’avis au ministre en la forme et selon les modalités autorisées par celui-ci.
-> 2002, ch. 22, art. 191; 2010, ch. 25, art. 117.
+> 2002, ch. 22, art. 191; 2010, ch. 25, art. 117; 2016, ch. 12, art. 100.
 
 
 
