@@ -781,18 +781,20 @@ and ends on the day on which the amount is so refunded or applied.
 
 - **(1)** In this Part,
 
-***Child Tax Benefit*** means the deemed overpayment determined in accordance with section 122.61 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) in respect of a qualified dependant under seven years of age; (*prestation fiscale pour enfants*)
+***Canada child benefit*** means the deemed overpayment determined in accordance with section 122.61 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) in respect of a qualified dependant under seven years of age; (*allocation canadienne pour enfants*)
+
+***Child Tax Benefit***[Repealed, 2016, c. 12, s. 85]
 
 ***Director***[Repealed, SOR/96-522, s. 3]
 
-***personal representative*** means the executor, administrator, heir or other person having the ownership or control of property comprised in the estate of a deceased person or, where there is no estate, the survivor of the deceased person or, where there is no such survivor, the next of kin of the deceased person. (*représentant personnel*)
+***personal representative*** means the executor, administrator, heir or other person having the ownership or control of property comprised in the estate of a deceased person or, where there is no estate, the survivor of the deceased person or, where there is no such survivor, the next of kin of the deceased person. (*représentant personnel*)
 
 - **(2)** For the purposes of subsection 60(2) of the Act, a person entitled to make an application includes a person or agency authorized to receive a benefit under section 57 of these Regulations.
 
 - **(3)** For the purposes of subsection 60(4) of the Act, a person entitled to receive benefits includes a person or agency authorized to receive a benefit under section 57 of these Regulations.
 
 - **(4)** For the purpose of the definition ***public officer*** in subsection 104(1) of the Act, a prescribed individual is a person employed in a federal institution or whose services are required by a federal institution, on a casual or temporary basis or under a student employment program.
-> SOR/86-1133, s. 1; SOR/89-345, s. 1; SOR/90-829, s. 10; SOR/92-17, s. 2; SOR/93-11, s. 1; SOR/96-522, s. 3; SOR/99-192, s. 1; SOR/2000-411, s. 2.
+> SOR/86-1133, s. 1; SOR/89-345, s. 1; SOR/90-829, s. 10; SOR/92-17, s. 2; SOR/93-11, s. 1; SOR/96-522, s. 3; SOR/99-192, s. 1; SOR/2000-411, s. 2; 2016, c. 12, s. 85.
 
 
 
@@ -1036,14 +1038,14 @@ and ends on the day on which the amount is so refunded or applied.
 
 
 **53** For the purposes of determining whether any months during which a contributor was a family allowance recipient should not be included in his contributory period, the applicant shall, in the application or thereafter in writing when requested to do so by the Minister, set out or furnish the Minister with such of the following additional information or evidence as is applicable:
-- **(a)** the name and date of birth of all children in respect of whom the contributor received family allowance benefits or Child Tax Benefits;
+- **(a)** the name and date of birth of all children in respect of whom the contributor received family allowance benefits or Canada child benefits;
 - **(b)** the Social Insurance Number, if any, of each of those children;
-- **(c)** the periods during which the contributor received family allowance benefits or Child Tax Benefits in respect of those children;
-- **(d)** the province in which the contributor resided while in receipt of family allowance benefits or Child Tax Benefits in respect of those children;
-- **(e)** the Social Insurance Number of the contributor to whom family allowance benefits or Child Tax Benefits were paid in respect of those children;
-- **(f)** if known, the name and Social Insurance Number of any other person who received family allowance benefits or Child Tax Benefits in respect of those children; and
+- **(c)** the periods during which the contributor received family allowance benefits or Canada child benefits in respect of those children;
+- **(d)** the province in which the contributor resided while in receipt of family allowance benefits or Canada child benefits in respect of those children;
+- **(e)** the Social Insurance Number of the contributor to whom family allowance benefits or Canada child benefits were paid in respect of those children;
+- **(f)** if known, the name and Social Insurance Number of any other person who received family allowance benefits or Canada child benefits in respect of those children; and
 - **(g)** such additional documents, statements or records that are in the possession of the applicant or are obtainable by him that will assist the Minister in ascertaining the accuracy of the information and evidence referred to in paragraphs (a) to (f).
-> SOR/93-11, s. 2; SOR/96-522, s. 23.
+> SOR/93-11, s. 2; SOR/96-522, s. 23; 2016, c. 12, s. 87.
 
 
 
@@ -1584,11 +1586,11 @@ of an amount equal to the amount of the excess payment.
 - **(1)** For the purposes of the definition ***family allowance recipient*** in subsection 42(1) of the Act, family allowance recipient includes
 	- **(a)** the spouse, former spouse, common-law partner or former common-law partner of a person who is described in that definition as having received or being in receipt of an allowance or a family allowance in respect of a child for any period before the child reached the age of seven, if that spouse, former spouse, common-law partner or former common-law partner remained at home during that period as the child’s primary caregiver and that period has not already been or cannot be excluded or deducted from the person’s contributory period under Part II of the Act;
 	- **(b)** a member of the Canadian Armed Forces who, before 1973, was posted to serve outside Canada, or the spouse or former spouse of such a member, who, but for the posting, would have received an allowance or family allowance for a child under seven years of age;
-	- **(c)** the person who, under section 122.62 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), is considered to be an eligible individual for the purposes of subdivision a.1 of Division E of Part I of that Act (Child Tax Benefit) in respect of a qualified dependant under seven years of age; and
-	- **(d)** the person who would have been considered to be an eligible individual for the purposes of subdivision a.1 of Division E of Part I of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) (Child Tax Benefit) had a notice been filed under subsection 122.62(1) of that Act, where no person was considered to be an eligible individual in respect of the same qualified dependant under seven years of age.
+	- **(c)** the person who, under section 122.62 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), is considered to be an eligible individual for the purposes of subdivision a.1 of Division E of Part I of that Act (Canada child benefit) in respect of a qualified dependant under seven years of age; and
+	- **(d)** the person who would have been considered to be an eligible individual for the purposes of subdivision a.1 of Division E of Part I of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) (Canada child benefit) had a notice been filed under subsection 122.62(1) of that Act, where no person was considered to be an eligible individual in respect of the same qualified dependant under seven years of age.
 
 - **(2)** [Repealed, SOR/2010-45, s. 12]
-> SOR/86-1133, s. 16; SOR/89-345, s. 8; SOR/93-11, s. 3; SOR/96-522, s. 19; SOR/2000-411, s. 12; SOR/2010-45, s. 12.
+> SOR/86-1133, s. 16; SOR/89-345, s. 8; SOR/93-11, s. 3; SOR/96-522, s. 19; SOR/2000-411, s. 12; SOR/2010-45, s. 12; 2016, c. 12, s. 87.
 
 
 
