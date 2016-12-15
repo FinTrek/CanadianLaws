@@ -997,15 +997,17 @@ the benefit period is extended so that those benefits may be paid up to that max
 
 **Criteria**
 
-- **(2)** The criteria for low-income family eligibility may include criteria that are the same as or similar to the criteria for receiving a child tax benefit.
+- **(2)** The criteria for low-income family eligibility may include criteria that are the same as or similar to the criteria for receiving a Canada child benefit.
 
-**Child tax benefit**
+**Canada child benefit**
 
-- **(3)** For the purposes of subsection (2), a child tax benefit is a deemed overpayment under subdivision a.1 of Division E of Part I of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
+- **(3)** For the purposes of subsection (2), a Canada child benefit is a deemed overpayment under subdivision a.1 of Division E of Part I of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
 
 **Maximum increase**
 
 - **(4)** The amount of the increase in the claimant’s rate of weekly benefits shall not exceed the prescribed percentage of the claimant’s weekly insurable earnings or, if no percentage is prescribed, 25%.
+> 1996, c. 23, s. 16; 2016, c. 12, s. 86.
+
 
 
 
@@ -5188,11 +5190,11 @@ and
 
 **Criteria**
 
-- **(2)** The criteria for low-income family eligibility may include criteria that are the same as or similar to the criteria for receiving a child tax benefit.
+- **(2)** The criteria for low-income family eligibility may include criteria that are the same as or similar to the criteria for receiving a Canada child benefit.
 
-**Child tax benefit**
+**Canada child benefit**
 
-- **(3)** For the purposes of subsection (2), a child tax benefit is a deemed overpayment under subdivision a.1 of Division E of Part I of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
+- **(3)** For the purposes of subsection (2), a Canada child benefit is a deemed overpayment under subdivision a.1 of Division E of Part I of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
 
 **Maximum increase**
 
@@ -5201,7 +5203,7 @@ and
 **Maximum rate of weekly benefits**
 
 - **(5)** The maximum rate of weekly benefits that may be paid under this section is 55% of the maximum yearly insurable earnings, as calculated under section 4, divided by 52.
-> 2009, c. 33, s. 16.
+> 2009, c. 33, s. 16; 2016, c. 12, s. 86.
 
 
 
