@@ -457,7 +457,9 @@ shall give the farmer written notice of the creditor’s intention to do so, and
 
 **Time of notice**
 
-- **(2)** The notice referred to in subsection (1) must be given to the farmer in the prescribed manner at least fifteen business days before the doing of any act described in paragraph (1)(a) or (b).
+- **(2)** The notice must be given to the farmer and to an administrator, in the form established by the Minister and in accordance with the regulations, at least 15 business days before the doing of any act described in paragraph (1)(a) or (b).
+> 1997, c. 21, s. 21; 2015, c. 2, s. 148.
+
 
 
 
