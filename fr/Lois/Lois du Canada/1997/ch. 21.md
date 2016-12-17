@@ -428,7 +428,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Délai**
 
-- **(2)** Le préavis doit être donné à l’agriculteur, conformément aux règlements, au moins quinze jours ouvrables avant la prise par le créancier garanti de toute mesure visée au paragraphe (1).
+- **(2)** Le préavis doit être donné à l’agriculteur et à l’administrateur, au moyen du formulaire établi par le ministre et conformément aux règlements, au moins quinze jours ouvrables avant la prise par le créancier garanti de toute mesure visée au paragraphe (1).
+> 1997, ch. 21, art. 21; 2015, ch. 2, art. 148.
+
 
 
 
