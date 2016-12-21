@@ -7908,7 +7908,7 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 
 
 
-- **1** Mirex (dodécachloropentacyclo [5.3.0.0<sup>2,6</sup>.0<sup>3,9</sup>.0<sup>4,8</sup>] décane) (Chemical Abstracts Service (ci-après « CAS ») 2385-85-5)
+- **1** Le dodécachloropentacyclo [5.3.0.0<sup>2,6</sup>.0<sup>3,9</sup>.0<sup>4,8</sup>] décane (mirex) (Chemical Abstracts Service (ci-après « CAS ») 2385-85-5)
 - **2** Les biphényles polybromés dont la formule moléculaire est C<sub>12</sub>H<sub>(10-n)</sub>Br<sub>n</sub>, où « n » est plus grand que 2
 - **3** Les terphényles polychlorés dont la formule moléculaire est C<sub>18</sub>H<sub>(14-n)</sub>Cl<sub>n</sub>, où « n » est plus grand que 2
 - **4** Alachlore (chloro-2N-(diéthyl-2,6 phényl)N-méthoxyméthyl acétamide) (CAS 15972-60-8)
@@ -7948,7 +7948,7 @@ Note : Le sigle « CAS  » se rapporte au numéro du Service des résumés an
 - **9** Dinosèbe et ses sels et esters
 - **10** Dibromo-1,2 éthane (EDB) (CAS 106-93-4)
 - **11** Fluoroacétamide (CAS 640-19-7)
-- **12** [Abrogé, DORS/2012-164, art. 5]
+- **12** Les mélanges dont la concentration en mercure élémentaire (CAS 7439-97-6) est égale ou supérieure à 95 % en poids
 - **13** Heptachlore (CAS 76-44-8)
 - **14** Hexachlorobenzène (CAS 118-74-1)
 - **15** Lindane (CAS 58-89-9)
@@ -8018,7 +8018,7 @@ Note : Le sigle « CAS  » se rapporte au numéro du Service des résumés an
 - **19** Terbufos (CAS 13071-79-9)
 
 
-> 1999, ch. 33, ann. 3; DORS/2000-117, 118; DORS/2002-318; DORS/2003-100; DORS/2012-164; DORS/2013-99; DORS/2015-8.
+> 1999, ch. 33, ann. 3; DORS/2000-117, 118; DORS/2002-318; DORS/2003-100; DORS/2012-164; DORS/2013-99; DORS/2015-8; DORS/2016-327.
 
 
 
