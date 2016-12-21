@@ -8190,7 +8190,7 @@ For molecular formulae in this schedule, “n” = number of atoms.
 
 
 
-- **1** Mirex (Dodecachloropentacyclo [5.3.0.0<sup>2,6</sup>.0<sup>3,9</sup>.0<sup>4,8</sup>] decane) (Chemical Abstracts Service (hereinafter “CAS”) 2385-85-5)
+- **1** Dodecachloropentacyclo [5.3.0.0<sup>2,6</sup>.0<sup>3,9</sup>.0<sup>4,8</sup>] decane (Mirex) (Chemical Abstracts Service (CAS) 2385-85-5)
 - **2** Polybrominated biphenyls that have the molecular formula C<sub>12</sub>H<sub>(10-n)</sub>Br<sub>n</sub> in which “n” is greater than 2
 - **3** Polychlorinated terphenyls that have the molecular formula C<sub>18</sub>H<sub>(14-n)</sub>Cl<sub>n</sub> in which “n” is greater than 2
 - **4** Alachlor (2-chloro-2′, 6′-diethyl-N-methoxymethyl acetanilide) (CAS 15972-60-8)
@@ -8230,7 +8230,7 @@ Note: In this Part, “CAS” denotes Chemical Abstracts Service registry number
 - **9** Dinoseb and its salts and esters
 - **10** 1,2-dibromoethane (EDB) (CAS 106-93-4)
 - **11** Fluoroacetamide (CAS 640-19-7)
-- **12** [Repealed, SOR/2012-164, s. 5]
+- **12** Mixtures that contain elemental mercury (CAS 7439-97-6) at a concentration of 95% or more by weight
 - **13** Heptachlor (CAS 76-44-8)
 - **14** Hexachlorobenzene (CAS 118-74-1)
 - **15** Lindane (CAS 58-89-9)
@@ -8300,7 +8300,7 @@ Note: In this Part, “CAS” denotes Chemical Abstracts Service registry number
 - **19** Terbufos (CAS 13071-79-9)
 
 
-> 1999, c. 33, Sch. 3; SOR/2000-117, 118; SOR/2002-318; SOR/2003-100; SOR/2012-164; SOR/2013-99; SOR/2015-8.
+> 1999, c. 33, Sch. 3; SOR/2000-117, 118; SOR/2002-318; SOR/2003-100; SOR/2012-164; SOR/2013-99; SOR/2015-8; SOR/2016-327.
 
 
 
