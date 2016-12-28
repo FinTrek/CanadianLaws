@@ -2671,6 +2671,21 @@ continues to have effect as if it were a regulation made by the Governor in Coun
 	- **(l)** [Railway Prevention of Electric Sparks Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/82/1015.md); and
 	- **(m)** [Service Equipment Cars Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/86/922.md).
 
+**Regulations deemed made**
+
+- **(1.2)** Each of the following regulations is deemed to have been made by the Governor in Council under this Act and may be repealed by an order of the Governor in Council under subsection (5):
+	- **(a)** [Algoma Central Railway Traffic Rules and Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1301-1400/C.R.C.,%20c.%201375.md);
+	- **(b)** [Canadian National Railway Passenger Train Travel Rules and Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1301-1400/C.R.C.,%20c.%201376.md);
+	- **(c)** [Canadian Pacific Railway Traffic Rules and Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1301-1400/C.R.C.,%20c.%201377.md);
+	- **(d)** [Dominion Atlantic Railway Traffic Rules and Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1301-1400/C.R.C.,%20c.%201378.md);
+	- **(e)** [Grand River Railway Traffic Rules and Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1301-1400/C.R.C.,%20c.%201379.md);
+	- **(f)** [Lake Erie and Northern Railway Traffic Rules and Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1301-1400/C.R.C.,%20c.%201380.md);
+	- **(g)** [Quebec Central Railway Traffic Rules and Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1301-1400/C.R.C.,%20c.%201381.md);
+	- **(h)** [Railway Abandonment Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1301-1400/C.R.C.,%20c.%201382.md);
+	- **(i)** [Specification 112 and 114 Tank Cars Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/79/101.md);
+	- **(j)** [Details of Maps, Plans, Profiles, Drawings, Specifications and Books of Reference Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/80/482.md); and
+	- **(k)** [Railway Hygiene Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/85/192.md).
+
 **Regulations and orders applying to particular companies**
 
 - **(2)** Every regulation or order made by the Commission under section 230, 242, 304 or 305 of the Railway Act as it read on December 31, 1988 that
