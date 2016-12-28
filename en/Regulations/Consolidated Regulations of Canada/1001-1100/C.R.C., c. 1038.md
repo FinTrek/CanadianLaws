@@ -26,499 +26,499 @@ Enabling authorities:
 
 - **(1)** In these Regulations,
 
-***AATCC*** means the American Association of Textile Chemists and Colorists; (*AATCC*)
+***AATCC*** means the American Association of Textile Chemists and Colorists; (*AATCC*)
 
-***accessory mass***[Repealed, SOR/2008-258, s. 1]
+***accessory mass***[Repealed, SOR/2008-258, s. 1]
 
-***Act*** means the [Motor Vehicle Safety Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2016.md); (*Loi*)
+***Act*** means the [Motor Vehicle Safety Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2016.md); (*Loi*)
 
-***adjacent seat*** means a designated seating position so located that a portion of its occupant space is not more than 25.4 cm from an emergency exit for a distance of at least 38.1 cm measured horizontally and parallel to the emergency exit; (*siège adjacent*)
+***adjacent seat*** means a designated seating position so located that a portion of its occupant space is not more than 25.4 cm from an emergency exit for a distance of at least 38.1 cm measured horizontally and parallel to the emergency exit; (*siège adjacent*)
 
-***adjustment hardware*** means hardware designed for adjusting the size of a seat belt assembly to fit the user, including such hardware as may be integral with a buckle, a retractor or attachment hardware; (*pièces de réglage*)
+***adjustment hardware*** means hardware designed for adjusting the size of a seat belt assembly to fit the user, including such hardware as may be integral with a buckle, a retractor or attachment hardware; (*pièces de réglage*)
 
-***agricultural commodity trailer***[Repealed, SOR/99-357, s. 1]
+***agricultural commodity trailer***[Repealed, SOR/99-357, s. 1]
 
-***aiming reference plane***[Repealed, SOR/96-366, s. 1]
+***aiming reference plane***[Repealed, SOR/96-366, s. 1]
 
-***air bag*** means an inflatable automatic occupant protection system that may be deployed when a collision occurs; (*sac gonflable*)
+***air bag*** means an inflatable automatic occupant protection system that may be deployed when a collision occurs; (*sac gonflable*)
 
-***air brake system*** means a brake system that uses air as a medium for transmitting pressure or force from the driver control to the service brake, including an air-over-hydraulic brake subsystem, but does not include a system that uses compressed air or vacuum only to assist the driver in applying muscular force to hydraulic or mechanical components; (*système de freinage à air comprimé*)
+***air brake system*** means a brake system that uses air as a medium for transmitting pressure or force from the driver control to the service brake, including an air-over-hydraulic brake subsystem, but does not include a system that uses compressed air or vacuum only to assist the driver in applying muscular force to hydraulic or mechanical components; (*système de freinage à air comprimé*)
 
-***all-terrain vehicle*** means a wheeled or tracked vehicle, other than a snowmobile or work vehicle, designed primarily for recreational use or for the transportation of property or equipment exclusively on undeveloped road rights of way, marshland, open country or other unprepared surfaces; (*véhicule tout terrain*)
+***all-terrain vehicle*** means a wheeled or tracked vehicle, other than a snowmobile or work vehicle, designed primarily for recreational use or for the transportation of property or equipment exclusively on undeveloped road rights of way, marshland, open country or other unprepared surfaces; (*véhicule tout terrain*)
 
-***ambient temperature*** means the surrounding air temperature measured at such a distance from a vehicle under test that the temperature is not significantly affected by heat from the vehicle; (*température ambiante*)
+***ambient temperature*** means the surrounding air temperature measured at such a distance from a vehicle under test that the temperature is not significantly affected by heat from the vehicle; (*température ambiante*)
 
-***American specifications vehicle***[Repealed, SOR/95-147, s. 1]
+***American specifications vehicle***[Repealed, SOR/95-147, s. 1]
 
-***ANSI*** means the American National Standards Institute; (*ANSI*)
+***ANSI*** means the American National Standards Institute; (*ANSI*)
 
-***ANS Z26***[Repealed, SOR/94-717, s. 1]
+***ANS Z26***[Repealed, SOR/94-717, s. 1]
 
-***ANSI Z26 Safety Code — 1990*** means the American National Standard for Safety Glazing Materials for Glazing Motor Vehicles and Motor Vehicle Equipment Operating on Land Highways — Safety Code, Standard ANSI/SAE Z26.1 — 1990, published November 1990 and reprinted February 1992. (*code de sécurité ANSI Z26 — 1990*)
+***ANSI Z26 Safety Code — 1990*** means the American National Standard for Safety Glazing Materials for Glazing Motor Vehicles and Motor Vehicle Equipment Operating on Land Highways — Safety Code, Standard ANSI/SAE Z26.1 — 1990, published November 1990 and reprinted February 1992; (*code de sécurité ANSI Z26 — 1990*)
 
-***ANSI Z26 Safety Standard — 1996*** means the American National Standard for Safety Glazing Materials for Glazing Motor Vehicles and Motor Vehicle Equipment Operating on Land Highways — Safety Standard, Standard ANSI/SAE Z26.1-1996, published on August 11,1997. (*norme de sécurité ANSI Z26 — 1996*)
+***ANSI Z26 Safety Standard — 1996*** means the American National Standard for Safety Glazing Materials for Glazing Motor Vehicles and Motor Vehicle Equipment Operating on Land Highways — Safety Standard, Standard ANSI/SAE Z26.1-1996, published on August 11,1997; (*norme de sécurité ANSI Z26 — 1996*)
 
-***anthropomorphic test device*** means, except in section 202 of Schedule IV, a representation of a human being used in the measurement of the conditions that a human being would experience in a vehicle when the vehicle is subjected to approved test methods; (*dispositif anthropomorphe d’essai*)
+***anthropomorphic test device*** means, except in section 202 of Schedule IV, a representation of a human being used in the measurement of the conditions that a human being would experience in a vehicle when the vehicle is subjected to approved test methods; (*dispositif anthropomorphe d’essai*)
 
-***antilock brake system*** or ***ABS*** means the portion of a service brake system that automatically controls the degree of rotational wheel slip during braking by
+***antilock brake system*** or ***ABS*** means the portion of a service brake system that automatically controls the degree of rotational wheel slip during braking by
 - **(a)** sensing the rate of angular rotation of the wheels,
 - **(b)** transmitting signals regarding the rate of wheel angular rotation to one or more controlling devices that interpret those signals and generate responsive controlling output signals, and
-- **(c)** transmitting those controlling signals to one or more modulators that adjust brake actuating forces in response to those signals; (*dispositif de frein antiblocage** ou **ABS*)
+- **(c)** transmitting those controlling signals to one or more modulators that adjust brake actuating forces in response to those signals; (*dispositif de frein antiblocage**ou**ABS*)
 
-***antilock system***[Repealed, SOR/97-200, s. 1]
+***antilock system***[Repealed, SOR/97-200, s. 1]
 
-***antique reproduction vehicle*** means a vehicle that is designed to be a scaled reproduction of an antique vehicle and
+***antique reproduction vehicle*** means a vehicle that is designed to be a scaled reproduction of an antique vehicle and
 - **(a)** may contain contemporary design components,
 - **(b)** has a motor that produces 8 kW (10.73 bhp) or less,
 - **(c)** is intended for use exclusively in parades, exhibitions and demonstrations, and
-- **(d)** bears a label, permanently affixed in a conspicuous position, stating that the vehicle is not to be used for public transportation, but is intended for use in parades, exhibitions and demonstrations; (*réplique d’ancien modèle*)
+- **(d)** bears a label, permanently affixed in a conspicuous position, stating that the vehicle is not to be used for public transportation, but is intended for use in parades, exhibitions and demonstrations; (*réplique d’ancien modèle*)
 
-***antique vehicle*** means a vehicle more than 30 years old that, when restored to a condition comparable to that on the date of its manufacture, retains the original components or incorporates replacement components with original design characteristics; (*ancien modèle*)
+***antique vehicle*** means a vehicle more than 30 years old that, when restored to a condition comparable to that on the date of its manufacture, retains the original components or incorporates replacement components with original design characteristics; (*ancien modèle*)
 
-***approved*** means approved by the Minister; (*approuvé*)
+***approved*** means approved by the Minister; (*approuvé*)
 
-***armour***[Repealed, SOR/2007-180, s. 1]
+***armour***[Repealed, SOR/2007-180, s. 1]
 
-***assembler***[Repealed, SOR/95-147, s. 1]
+***assembler***[Repealed, SOR/95-147, s. 1]
 
-***ASTM*** means the American Society for Testing Materials; (*ASTM*)
+***ASTM*** means the American Society for Testing Materials; (*ASTM*)
 
-***attachment hardware*** means the hardware designed for securing the webbing of a seat belt assembly to a vehicle; (*pièces de fixation*)
+***attachment hardware*** means the hardware designed for securing the webbing of a seat belt assembly to a vehicle; (*pièces de fixation*)
 
-***automatic-locking retractor*** means a retractor incorporating adjustment hardware that has a positive self-locking mechanism that is capable, when locked, of withstanding restraint forces; (*rétracteur autobloquant*)
+***automatic-locking retractor*** means a retractor incorporating adjustment hardware that has a positive self-locking mechanism that is capable, when locked, of withstanding restraint forces; (*rétracteur autobloquant*)
 
-***automatic occupant protection system*** means a protective restraining system for an occupant of a vehicle that does not require any deliberate action on the part of the occupant to be activated where that occupant enters, occupies or leaves the vehicle; (*dispositif automatique de protection de l’occupant*)
+***automatic occupant protection system*** means a protective restraining system for an occupant of a vehicle that does not require any deliberate action on the part of the occupant to be activated where that occupant enters, occupies or leaves the vehicle; (*dispositif automatique de protection de l’occupant*)
 
-***auto transporter*** means a truck and a trailer designed for use in combination to transport motor vehicles where the truck is designed to carry cargo other than at the fifth wheel and that cargo is to be loaded only by means of the trailer; (*porte-autos*)
+***auto transporter*** means a truck and a trailer designed for use in combination to transport motor vehicles where the truck is designed to carry cargo other than at the fifth wheel and that cargo is to be loaded only by means of the trailer; (*porte-autos*)
 
-***back door*** means a door or door system on the back of a motor vehicle through which passengers can enter or leave the vehicle or cargo can be loaded or unloaded, but does not include
+***back door*** means a door or door system on the back of a motor vehicle through which passengers can enter or leave the vehicle or cargo can be loaded or unloaded, but does not include
 - **(a)** a trunk lid, or
-- **(b)** a door or window that is composed entirely of glazing material and whose latches or hinge systems are attached directly to the glazing material; (*porte arrière*)
+- **(b)** a door or window that is composed entirely of glazing material and whose latches or hinge systems are attached directly to the glazing material; (*porte arrière*)
 
-***backup system*** means a portion of a service brake system, such as a pump, that automatically supplies energy in the event of a primary brake power source failure; (*système de secours*)
+***backup system*** means a portion of a service brake system, such as a pump, that automatically supplies energy in the event of a primary brake power source failure; (*système de secours*)
 
-***battery charging indicator*** means a device showing whether the battery is being charged or discharged; (*indicateur de charge*)
+***battery charging indicator*** means a device showing whether the battery is being charged or discharged; (*indicateur de charge*)
 
-***battery charging tell-tale*** means a signal that, when alight, indicates that the battery is not being charged; (*témoin de charge*)
+***battery charging tell-tale*** means a signal that, when alight, indicates that the battery is not being charged; (*témoin de charge*)
 
-***beam contributor***[Repealed, SOR/96-366, s. 1]
+***beam contributor***[Repealed, SOR/96-366, s. 1]
 
-***blister***[Repealed, SOR/2007-180, s. 1]
+***blister***[Repealed, SOR/2007-180, s. 1]
 
-***body type*** means the general configuration or shape of a vehicle distinguished by the number of doors or windows, cargo carrying features, the roofline (e.g., sedan, fastback, hatchback) or other characteristics; (*type de carrosserie*)
+***body type*** means the general configuration or shape of a vehicle distinguished by the number of doors or windows, cargo carrying features, the roofline (e.g., sedan, fastback, hatchback) or other characteristics; (*type de carrosserie*)
 
-***bonded construction sealed beam headlamp***[Repealed, SOR/96-366, s. 1]
+***bonded construction sealed beam headlamp***[Repealed, SOR/96-366, s. 1]
 
-***booster cushion***[Repealed, SOR/98-160, s. 1]
+***booster cushion***[Repealed, SOR/98-160, s. 1]
 
-***booster seat*** has the same meaning as in subsection 100(1) of the [Motor Vehicle Restraint Systems and Booster Seats Safety Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2010/90.md); (*siège d’appoint*)
+***booster seat*** has the same meaning as in subsection 100(1) of the [Motor Vehicle Restraint Systems and Booster Seats Safety Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2010/90.md); (*siège d’appoint*)
 
-***brake fluid***[Repealed, SOR/2007-180, s. 1]
+***brake fluid***[Repealed, SOR/2007-180, s. 1]
 
-***brake hose***[Repealed, SOR/2007-180, s. 1]
+***brake hose***[Repealed, SOR/2007-180, s. 1]
 
-***brake hose assembly***[Repealed, SOR/2007-180, s. 1]
+***brake hose assembly***[Repealed, SOR/2007-180, s. 1]
 
-***brake hose end fitting***[Repealed, SOR/2007-180, s. 1]
+***brake hose end fitting***[Repealed, SOR/2007-180, s. 1]
 
-***brake power assist unit*** means a device installed in a hydraulic brake system that reduces the amount of muscular force that a driver must apply to actuate the system, and that, if inoperative, does not prevent the driver from braking the vehicle by a continued application of muscular force on the service brake control; (*unité d’assistance de frein*)
+***brake power assist unit*** means a device installed in a hydraulic brake system that reduces the amount of muscular force that a driver must apply to actuate the system, and that, if inoperative, does not prevent the driver from braking the vehicle by a continued application of muscular force on the service brake control; (*unité d’assistance de frein*)
 
-***brake power unit*** means a device installed in a brake system that provides the energy required to actuate the brakes, either directly or indirectly, through an auxiliary device, with driver action consisting only of modulating the energy application level; (*unité de servo-frein*)
+***brake power unit*** means a device installed in a brake system that provides the energy required to actuate the brakes, either directly or indirectly, through an auxiliary device, with driver action consisting only of modulating the energy application level; (*unité de servo-frein*)
 
-***braking interval*** means the distance measured from the point of initiation of one brake application to the point of initiation of the next brake application; (*intervalle de freinage*)
+***braking interval*** means the distance measured from the point of initiation of one brake application to the point of initiation of the next brake application; (*intervalle de freinage*)
 
-***buckle*** means a quick-release connector that secures a person in a seat belt assembly or a built-in restraint system; (*attache*)
+***buckle*** means a quick-release connector that secures a person in a seat belt assembly or a built-in restraint system; (*attache*)
 
 ***built-in booster cushion***[Repealed, SOR/2013-117, s. 1]
 
-***built-in booster seat*** means a device that
+***built-in booster seat*** means a device that
 - **(a)** is an integral part of a vehicle seat, and
-- **(b)** is designed to seat a person whose mass is at least 18 kg, to ensure that the seat belt assembly fits properly; (*siège d’appoint intégré*)
+- **(b)** is designed to seat a person whose mass is at least 18 kg, to ensure that the seat belt assembly fits properly; (*siège d’appoint intégré*)
 
 ***built-in child restraint system***[Repealed, SOR/2013-117, s. 1]
 
 ***built-in dual-purpose restraint system***[Repealed, SOR/2013-117, s. 1]
 
-***built-in restraint system*** means a device that
+***built-in restraint system*** means a device that
 - **(a)** is an integral part of a vehicle seat, and
-- **(b)** is designed to restrain only a person whose mass is more than 10 kg but not more than 41 kg; (*ensemble intégré de retenue*)
+- **(b)** is designed to restrain only a person whose mass is more than 10 kg but not more than 41 kg; (*ensemble intégré de retenue*)
 
-***bus*** means a vehicle having a designated seating capacity of more than 10, but does not include a trailer or a vehicle imported temporarily for special purposes; (*autobus*)
+***bus*** means a vehicle having a designated seating capacity of more than 10, but does not include a trailer or a vehicle imported temporarily for special purposes; (*autobus*)
 
-***bus trailer*** means a vehicle having a designated seating capacity of more than 10 and designed primarily to be drawn behind another vehicle; (*remorque-autobus*)
+***bus trailer*** means a vehicle having a designated seating capacity of more than 10 and designed primarily to be drawn behind another vehicle; (*remorque-autobus*)
 
-***C-dolly*** means a trailer converter dolly that is equipped with a single axle that is self-steering and with a coupling that is so designed that when the trailer converter dolly is coupled to a towing trailer, the trailer converter dolly cannot pivot horizontally with respect to the towing trailer; (*chariot de conversion de type C*)
+***C-dolly*** means a trailer converter dolly that is equipped with a single axle that is self-steering and with a coupling that is so designed that when the trailer converter dolly is coupled to a towing trailer, the trailer converter dolly cannot pivot horizontally with respect to the towing trailer; (*chariot de conversion de type C*)
 
-***cable reel trailer*** means a vehicle designed to be drawn behind another vehicle for the exclusive purpose of carrying a drum or reel of cable; (*chariot dérouleur*)
+***cable reel trailer*** means a vehicle designed to be drawn behind another vehicle for the exclusive purpose of carrying a drum or reel of cable; (*chariot dérouleur*)
 
-***cargo-carrying capacity*** means the mass that is equal to or less than the result obtained by subtracting from the gross vehicle weight rating the sum of
+***cargo-carrying capacity*** means the mass that is equal to or less than the result obtained by subtracting from the gross vehicle weight rating the sum of
 - **(a)** the unloaded vehicle mass,
 - **(b)** the product obtained by multiplying the designated seating capacity by 54 kg, in the case of a school bus, or by 68 kg, in any other case, and
-- **(c)** in the case of a vehicle having living or sanitary accommodations, the mass of its fresh water, hot water and propane tanks, but not its waste water tanks, when full; (*capacité de chargement*)
+- **(c)** in the case of a vehicle having living or sanitary accommodations, the mass of its fresh water, hot water and propane tanks, but not its waste water tanks, when full; (*capacité de chargement*)
 
-***chassis-cab*** means an incomplete vehicle, other than an incomplete trailer, with a completed occupant compartment that requires only the addition of a cargo-carrying surface, work-performing equipment or a load-bearing component to perform its intended functions. (*châssis-cabine*)
+***chassis-cab*** means an incomplete vehicle, other than an incomplete trailer, with a completed occupant compartment that requires only the addition of a cargo-carrying surface, work-performing equipment or a load-bearing component to perform its intended functions; (*châssis-cabine*)
 
-***check digit*** means a single number or the letter “X” used to verify the accuracy of the transcription of the vehicle identification number; (*unité de contrôle*)
+***check digit*** means a single number or the letter “X” used to verify the accuracy of the transcription of the vehicle identification number; (*unité de contrôle*)
 
-***child*** means a person whose mass is more than 10 kg and not more than 30 kg; (*enfant*)
+***child*** means a person whose mass is more than 10 kg and not more than 30 kg; (*enfant*)
 
-***child restraint system***[Repealed, SOR/98-160, s. 1]
+***child restraint system***[Repealed, SOR/98-160, s. 1]
 
-***chipping***[Repealed, SOR/2007-180, s. 1]
+***chipping***[Repealed, SOR/2007-180, s. 1]
 
-***CMVSS*** is an abbreviation for Canada Motor Vehicle Safety Standard; (*NSVAC*)
+***CMVSS*** is an abbreviation for Canada Motor Vehicle Safety Standard; (*NSVAC*)
 
-***competition car***[Repealed, SOR/2000-182, s. 1]
+***competition car***[Repealed, SOR/2000-182, s. 1]
 
-***competition motorcycle***[Repealed, SOR/2000-182, s. 1]
+***competition motorcycle***[Repealed, SOR/2000-182, s. 1]
 
-***competition snowmobile***[Repealed, SOR/2000-182, s. 1]
+***competition snowmobile***[Repealed, SOR/2000-182, s. 1]
 
-***competition vehicle*** means a vehicle that is designed for use exclusively in closed-course competition and
+***competition vehicle*** means a vehicle that is designed for use exclusively in closed-course competition and
 - **(a)** bears a label affixed by the manufacturer stating, in both official languages, that the vehicle is a competition vehicle and is for use exclusively in closed-course competition, or
-- **(b)** is accompanied by a signed declaration clearly indicating that the vehicle is a competition vehicle and is for use exclusively in closed-course competition; (*véhicule de compétition*)
+- **(b)** is accompanied by a signed declaration clearly indicating that the vehicle is a competition vehicle and is for use exclusively in closed-course competition; (*véhicule de compétition*)
 
-***completed vehicle*** means a vehicle that needs no further manufacturing operations to perform its intended function, other than the addition of readily attachable components, such as mirrors or tire and rim assemblies, or minor finishing operations such as painting; (*véhicule complet*)
+***completed vehicle*** means a vehicle that needs no further manufacturing operations to perform its intended function, other than the addition of readily attachable components, such as mirrors or tire and rim assemblies, or minor finishing operations such as painting; (*véhicule complet*)
 
-***compliance label*** means the label required to be applied to a completed vehicle under section 6 or 6.6; (*étiquette de conformité*)
+***compliance label*** means the label required to be applied to a completed vehicle under section 6 or 6.6; (*étiquette de conformité*)
 
-***compressed natural gas*** or ***CNG*** means natural gas, composed predominantly of methane, compressed at pressures up to 20 680 kPa (3,000 psi); (*gaz naturel comprimé** or **GNC*)
+***compressed natural gas*** or ***CNG*** means natural gas, composed predominantly of methane, compressed at pressures up to 20 680 kPa (3,000 psi); (*gaz naturel comprimé**or**GNC* )
 
-***contactable surface***[Repealed, SOR/98-160, s. 1]
+***contactable surface***[Repealed, SOR/98-160, s. 1]
 
-***control*** means the part of a device that enables the driver to bring about a change in the state or functioning of a vehicle or vehicle component; (*commande*)
+***control*** means the part of a device that enables the driver to bring about a change in the state or functioning of a vehicle or vehicle component; (*commande*)
 
-***convertible*** means a vehicle that has an A-pillar or windshield peripheral support, the upper portion of which is not joined by a fixed rigid structure to the B-pillar or other rear roof support to the rear of the B-pillar; (*décapotable*)
+***convertible*** means a vehicle that has an A-pillar or windshield peripheral support, the upper portion of which is not joined by a fixed rigid structure to the B-pillar or other rear roof support to the rear of the B-pillar; (*décapotable*)
 
-***CSA*** means the Canadian Standards Association; (*CSA*)
+***CSA*** means the Canadian Standards Association; (*CSA*)
 
-***curb mass*** means the mass of a vehicle with standard equipment and carrying its maximum capacity of fuel, oil and coolant and includes the mass of any air-conditioning equipment on the vehicle and the amount by which the mass of any optional engine with which the vehicle is equipped exceeds the mass of the standard engine; (*masse à vide*)
+***curb mass*** means the mass of a vehicle with standard equipment and carrying its maximum capacity of fuel, oil and coolant and includes the mass of any air-conditioning equipment on the vehicle and the amount by which the mass of any optional engine with which the vehicle is equipped exceeds the mass of the standard engine; (*masse à vide*)
 
-***curb weight*** means the weight of a vehicle with standard equipment and carrying its maximum capacity of fuel, oil and coolant and includes the weight of any air-conditioning equipment on the vehicle and the amount by which the weight of any optional engine with which the vehicle is equipped exceeds the weight of the standard engine; (*poids à vide*)
+***curb weight*** means the weight of a vehicle with standard equipment and carrying its maximum capacity of fuel, oil and coolant and includes the weight of any air-conditioning equipment on the vehicle and the amount by which the weight of any optional engine with which the vehicle is equipped exceeds the weight of the standard engine; (*poids à vide*)
 
-***custom restraint system for disabled persons***[Repealed, SOR/98-160, s. 1]
+***custom restraint system for disabled persons***[Repealed, SOR/98-160, s. 1]
 
-***cutaway chassis*** means an incomplete vehicle that has the back of the cab cut out for the intended installation of a structure that permits access from the driver’s area to the back of the vehicle; (*châssis tronqué*)
+***cutaway chassis*** means an incomplete vehicle that has the back of the cab cut out for the intended installation of a structure that permits access from the driver’s area to the back of the vehicle; (*châssis tronqué*)
 
-***daytime running lamp*** means, for the purposes of section 108 of Schedule IV, a lamp used to improve the visibility of a vehicle when the vehicle is viewed from the front in daylight; (*feu de jour*)
+***daytime running lamp*** means, for the purposes of section 108 of Schedule IV, a lamp used to improve the visibility of a vehicle when the vehicle is viewed from the front in daylight; (*feu de jour*)
 
-***demountable rim*** means a supporting member for a tire or tire and tube assembly, that does not have a permanently attached centre component; (*jante amovible*)
+***demountable rim*** means a supporting member for a tire or tire and tube assembly, that does not have a permanently attached centre component; (*jante amovible*)
 
-***designated seating capacity*** means the designated seating capacity determined in accordance with section 2.3; (*nombre désigné de places assises*)
+***designated seating capacity*** means the designated seating capacity determined in accordance with section 2.3; (*nombre désigné de places assises*)
 
-***designated seating position*** means a location in a vehicle that is likely to be used as a seating position and that has a seating surface width of at least 330 mm; (*place assise désignée*)
+***designated seating position*** means a location in a vehicle that is likely to be used as a seating position and that has a seating surface width of at least 330 mm; (*place assise désignée*)
 
-***disabled person*** means a person who, for orthopaedic reasons or because of the person’s build or other physical characteristics, requires a vehicle that has been adapted to accommodate their disability; (*personne handicapée*)
+***disabled person*** means a person who, for orthopaedic reasons or because of the person’s build or other physical characteristics, requires a vehicle that has been adapted to accommodate their disability; (*personne handicapée*)
 
-***disc wheel*** means a supporting member for a tire or tire and tube assembly, comprising a rim with a dish-shaped component that is permanently attached to the inner circumference of the rim; (*roue à disque*)
+***disc wheel*** means a supporting member for a tire or tire and tube assembly, comprising a rim with a dish-shaped component that is permanently attached to the inner circumference of the rim; (*roue à disque*)
 
-***display*** means, except in section 101 of Schedule IV, an indicator, a tell-tale or an alphanumeric readout, or a collection of indicators, tell-tales and alphanumeric readouts, on the instrument panel of a vehicle; (*affichage*)
+***display*** means, except in section 101 of Schedule IV, an indicator, a tell-tale or an alphanumeric readout, or a collection of indicators, tell-tales and alphanumeric readouts, on the instrument panel of a vehicle; (*affichage*)
 
-***distributor***[Repealed, SOR/95-147, s. 1]
+***distributor***[Repealed, SOR/95-147, s. 1]
 
-***driver*** means the occupant of a vehicle seated immediately behind the steering control system; (*conducteur*)
+***driver*** means the occupant of a vehicle seated immediately behind the steering control system; (*conducteur*)
 
-***driver-operated accelerator control system*** means all components of a vehicle, except the fuel metering device, that regulate engine speed in direct response to movement of the driver-operated control and that return the throttle to the idle position upon release of the driver-operated control; (*système de commande d’accélération actionné par le conducteur*)
+***driver-operated accelerator control system*** means all components of a vehicle, except the fuel metering device, that regulate engine speed in direct response to movement of the driver-operated control and that return the throttle to the idle position upon release of the driver-operated control; (*système de commande d’accélération actionné par le conducteur*)
 
-***ECE*** means the United Nations Economic Commission for Europe, Inland Transport Committee; (*CEE*)
+***ECE*** means the United Nations Economic Commission for Europe, Inland Transport Committee; (*CEE*)
 
-***effective projected luminous lens area***[Repealed, SOR/96-366, s. 1]
+***effective projected luminous lens area***[Repealed, SOR/96-366, s. 1]
 
-***emergency brake*** means a mechanism designed to stop a vehicle after a failure of the service brake system; (*frein de secours*)
+***emergency brake*** means a mechanism designed to stop a vehicle after a failure of the service brake system; (*frein de secours*)
 
-***emergency-locking retractor*** means a retractor incorporating adjustment hardware that has a locking mechanism that is activated by vehicle acceleration, webbing movement in relation to the vehicle or other automatic action during an emergency, and is capable, when locked, of withstanding restraint forces; (*rétracteur à blocage d’urgence*)
+***emergency-locking retractor*** means a retractor incorporating adjustment hardware that has a locking mechanism that is activated by vehicle acceleration, webbing movement in relation to the vehicle or other automatic action during an emergency, and is capable, when locked, of withstanding restraint forces; (*rétracteur à blocage d’urgence*)
 
-***emergency vehicle*** means any fire-fighting vehicle, ambulance, police vehicle or other vehicle that is used for the purpose of an emergency; (*véhicule de secours*)
+***emergency vehicle*** means any fire-fighting vehicle, ambulance, police vehicle or other vehicle that is used for the purpose of an emergency; (*véhicule de secours*)
 
-***enclosed motorcycle*** means a motorcycle that
+***enclosed motorcycle*** means a motorcycle that
 - **(a)** has steering handlebars that are completely constrained from rotating in relation to the axle of only one wheel in contact with the ground,
 - **(b)** is designed to travel on two wheels in contact with the ground,
 - **(c)** has a minimum driver’s seat height, when the vehicle is unladen, of 650 mm, and
-- **(d)** has a structure partially or fully enclosing the driver and passenger that is an integral part of the vehicle chassis; (*motocyclette à habitacle fermé*)
+- **(d)** has a structure partially or fully enclosing the driver and passenger that is an integral part of the vehicle chassis; (*motocyclette à habitacle fermé*)
 
-***engine coolant temperature indicator*** means a device that presents information concerning the temperature of the coolant; (*indicateur de température du liquide de refroidissement*)
+***engine coolant temperature indicator*** means a device that presents information concerning the temperature of the coolant; (*indicateur de température du liquide de refroidissement*)
 
-***engine coolant temperature tell-tale*** means a signal that, when alight, indicates that the temperature of the engine coolant is above the normal engine running temperature prescribed by the manufacturer; (*témoin de température du liquide de refroidissement*)
+***engine coolant temperature tell-tale*** means a signal that, when alight, indicates that the temperature of the engine coolant is above the normal engine running temperature prescribed by the manufacturer; (*témoin de température du liquide de refroidissement*)
 
-***engine type*** means a power source distinguished by the fuel utilized, number of cylinders, displacement, net power or other characteristics; (*type de moteur*)
+***engine type*** means a power source distinguished by the fuel utilized, number of cylinders, displacement, net power or other characteristics; (*type de moteur*)
 
-***ERBP***[Repealed, SOR/2007-180, s. 1]
+***ERBP***[Repealed, SOR/2007-180, s. 1]
 
-***final-stage manufacturer*** means a company that performs the manufacturing operations on an incomplete vehicle that turn the incomplete vehicle into a completed vehicle; (*fabricant à l’étape finale*)
+***final-stage manufacturer*** means a company that performs the manufacturing operations on an incomplete vehicle that turn the incomplete vehicle into a completed vehicle; (*fabricant à l’étape finale*)
 
-***fixed collision barrier*** means a device that
+***fixed collision barrier*** means a device that
 - **(a)** consists of
 	- **(i)** a structure with a flat, vertical, unyielding impact surface that is of a size sufficient to ensure that no portion of a vehicle striking the surface projects or passes beyond the surface, and
 	- **(ii)** a horizontal approach surface that does not impede vehicle motion during impact and that is of a size sufficient to ensure that a vehicle will be able to attain a stable attitude during its approach to the impact surface, and
-- **(b)** does not absorb any significant portion of the kinetic energy of a vehicle striking the impact surface; (*barrière fixe pour essais de collision*)
+- **(b)** does not absorb any significant portion of the kinetic energy of a vehicle striking the impact surface; (*barrière fixe pour essais de collision*)
 
-***flash*** means a cycle of automatic activation and deactivation of a lamp that continues until stopped either automatically or manually; (*clignotement*)
+***flash*** means a cycle of automatic activation and deactivation of a lamp that continues until stopped either automatically or manually; (*clignotement*)
 
-***forward control configuration*** means a configuration in which more than half of the engine length is rearward of the foremost point of the windshield base and the steering wheel hub is in the forward quarter of the vehicle length; (*type à cabine avancée*)
+***forward control configuration*** means a configuration in which more than half of the engine length is rearward of the foremost point of the windshield base and the steering wheel hub is in the forward quarter of the vehicle length; (*type à cabine avancée*)
 
-***free length***[Repealed, SOR/2007-180, s. 1]
+***free length***[Repealed, SOR/2007-180, s. 1]
 
-***front outboard designated seating position*** means the driver’s designated seating position and the forwardmost right outboard designated seating position, but does not include a school bus passenger designated seating position; (*place assise désignée extérieure avant*)
+***front outboard designated seating position*** means the driver’s designated seating position and the forwardmost right outboard designated seating position, but does not include a school bus passenger designated seating position; (*place assise désignée extérieure avant*)
 
-***fuel container*** means one or more fuel containers with integral valving, pressure relief devices, tubing, hoses and mounting brackets; (*réservoir de carburant*)
+***fuel container*** means one or more fuel containers with integral valving, pressure relief devices, tubing, hoses and mounting brackets; (*réservoir de carburant*)
 
-***fuel level indicator*** means a device that presents information concerning the amount of fuel in the tank; (*indicateur de niveau de carburant*)
+***fuel level indicator*** means a device that presents information concerning the amount of fuel in the tank; (*indicateur de niveau de carburant*)
 
-***fuel level tell-tale*** means a signal that, when alight, indicates that the fuel level is close to zero or that the vehicle is running on its fuel reserve; (*témoin de niveau de carburant*)
+***fuel level tell-tale*** means a signal that, when alight, indicates that the fuel level is close to zero or that the vehicle is running on its fuel reserve; (*témoin de niveau de carburant*)
 
-***fuel metering device*** means the carburetor, fuel injector, fuel distributor or fuel injection pump; (*dispositif de dosage du carburant*)
+***fuel metering device*** means the carburetor, fuel injector, fuel distributor or fuel injection pump; (*dispositif de dosage du carburant*)
 
-***fuel spillage*** means the fall, flow or run of fuel from a vehicle but does not include wetness resulting from capillary action; (*écoulement de carburant*)
+***fuel spillage*** means the fall, flow or run of fuel from a vehicle but does not include wetness resulting from capillary action; (*écoulement de carburant*)
 
-***fuel system*** means all components used to store fuel or supply fuel to a vehicle engine; (*circuit d’alimentation en carburant*)
+***fuel system*** means all components used to store fuel or supply fuel to a vehicle engine; (*circuit d’alimentation en carburant*)
 
-***full trailer***, for the purposes of Technical Standards Document No. 121, Air Brake Systems, means a trailer, except a pole trailer, that is equipped with two or more axles that support the entire weight of the trailer and its load; (*remorque complète*)
+***full trailer***, for the purposes of Technical Standards Document No. 121, Air Brake Systems, means a trailer, except a pole trailer, that is equipped with two or more axles that support the entire weight of the trailer and its load; (*remorque complète*)
 
-***gasoline***[Repealed, SOR/2002-187, s. 1]
+***gasoline***[Repealed, SOR/2002-187, s. 1]
 
-***glazing material manufacturer*** means a person engaged in the business of fabricating, laminating or tempering glazing material. (*fabricant de vitrages*)
+***glazing material manufacturer*** means a person engaged in the business of fabricating, laminating or tempering glazing material; (*fabricant de vitrages*)
 
-***grade***[Repealed, SOR/2007-180, s. 1]
+***grade***[Repealed, SOR/2007-180, s. 1]
 
-***gross axle weight rating*** or ***GAWR*** means the value specified by the vehicle manufacturer as the load-carrying capacity of a single axle system, as measured at the tire-ground interfaces; (*poids nominal brut sur l’essieu** or **PNBE*)
+***gross axle weight rating*** or ***GAWR*** means the value specified by the vehicle manufacturer as the load-carrying capacity of a single axle system, as measured at the tire-ground interfaces; (*poids nominal brut sur l’essieu**or**PNBE* )
 
-***gross vehicle weight rating*** or ***GVWR*** means the value specified by the vehicle manufacturer as the loaded weight of a single vehicle; (*poids nominal brut du véhicule** or **PNBV*)
+***gross vehicle weight rating*** or ***GVWR*** means the value specified by the vehicle manufacturer as the loaded weight of a single vehicle; (*poids nominal brut du véhicule**or**PNBV* )
 
-***H-point*** means the mechanically hinged hip point of a manikin that simulates the actual pivot centre of the human torso and thigh, described in SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995); (*point H*)
+***H-point*** means the mechanically hinged hip point of a manikin that simulates the actual pivot centre of the human torso and thigh, described in SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995); (*point H*)
 
-***H-V axis*** means the characteristic axis of the light pattern of a lamp, passing through the centre of the light source, used as the direction of reference (H = 0°, V = 0°) for photometric measurements and for the design of the installation of a lamp on a vehicle; (*axe H-V*)
+***H-V axis*** means the characteristic axis of the light pattern of a lamp, passing through the centre of the light source, used as the direction of reference (H = 0°, V = 0°) for photometric measurements and for the design of the installation of a lamp on a vehicle; (*axe H-V*)
 
-***hardware***, when used in relation to a seat belt assembly, means any metal or rigid plastic part; (*pièces*)
+***hardware***, when used in relation to a seat belt assembly, means any metal or rigid plastic part; (*pièces*)
 
-***head impact area*** means the area described in subsection 201(1) of Schedule IV; (*zone d’impact de la tête*)
+***head impact area*** means the area described in subsection 201(1) of Schedule IV; (*zone d’impact de la tête*)
 
-***headlamp*** means, for the purposes of sections 108 and 108.1 of Schedule IV, a lamp used to illuminate the road and objects on the road ahead of the vehicle, but does not include a fog lamp or a supplementary driving lamp; (*projecteur*)
+***headlamp*** means, for the purposes of sections 108 and 108.1 of Schedule IV, a lamp used to illuminate the road and objects on the road ahead of the vehicle, but does not include a fog lamp or a supplementary driving lamp; (*projecteur*)
 
-***headlamp assembly*** means an assembly that consists of one or more headlamps, aiming devices, headlamp retaining components, electrical connectors and mounting brackets, and which may include a housing and one or more bulbs; (*montage de projecteur*)
+***headlamp assembly*** means an assembly that consists of one or more headlamps, aiming devices, headlamp retaining components, electrical connectors and mounting brackets, and which may include a housing and one or more bulbs; (*montage de projecteur*)
 
-***head restraint*** means a device that limits rearward angular displacement of the occupant’s head relative to their torso line; (*appuie-tête*)
+***head restraint*** means a device that limits rearward angular displacement of the occupant’s head relative to their torso line; (*appuie-tête*)
 
-***hearse*** means a vehicle that contains only one row of occupant seats, is designed exclusively for transporting a body and casket and is equipped with features to secure a casket in place during the operation of the vehicle; (*corbillard*)
+***hearse*** means a vehicle that contains only one row of occupant seats, is designed exclusively for transporting a body and casket and is equipped with features to secure a casket in place during the operation of the vehicle; (*corbillard*)
 
-***heavy duty vehicle***[Repealed, SOR/2001-35, s. 1]
+***heavy duty vehicle***[Repealed, SOR/2001-35, s. 1]
 
-***heavy hauler trailer*** means a trailer that has
+***heavy hauler trailer*** means a trailer that has
 - **(a)** brake lines designed to adapt to separation or extension of the vehicle frame, or
-- **(b)** a body that consists of only a platform the primary cargo-carrying surface of which is not more than 101.6 cm (40 inches) above the ground in an unloaded condition, but may include sides that are designed for easy removal and a permanent front end structure; (*remorque lourde*)
+- **(b)** a body that consists of only a platform the primary cargo-carrying surface of which is not more than 101.6 cm (40 inches) above the ground in an unloaded condition, but may include sides that are designed for easy removal and a permanent front end structure; (*remorque lourde*)
 
-***high-pressure portion of the fuel system*** means, for a vehicle that uses LPG or CNG as a source of energy for its propulsion, all the components of the fuel system from and including the fuel container to, but not including, the first stage regulator; (*partie haute pression du circuit d’alimentation en carburant*)
+***high-pressure portion of the fuel system*** means, for a vehicle that uses LPG or CNG as a source of energy for its propulsion, all the components of the fuel system from and including the fuel container to, but not including, the first stage regulator; (*partie haute pression du circuit d’alimentation en carburant*)
 
-***hub*** means a rotating member that provides for mounting of disc wheels; (*moyeu*)
+***hub*** means a rotating member that provides for mounting of disc wheels; (*moyeu*)
 
-***hydraulic brake system*** means a system that uses hydraulic fluid as a medium for transmitting force from a service brake control to the service brake, and that may incorporate a brake power assist unit or a brake power unit; (*système de freinage hydraulique*)
+***hydraulic brake system*** means a system that uses hydraulic fluid as a medium for transmitting force from a service brake control to the service brake, and that may incorporate a brake power assist unit or a brake power unit; (*système de freinage hydraulique*)
 
-***hydraulic system mineral oil***[Repealed, SOR/2007-180, s. 1]
+***hydraulic system mineral oil***[Repealed, SOR/2007-180, s. 1]
 
-***idle position*** means the position of the throttle at which it first comes in contact with an engine idle speed control appropriate for existing conditions according to the manufacturers’ recommendations respecting engine speed adjustments for a cold engine, air conditioning, emission control and throttle setting devices; (*position de ralenti*)
+***idle position*** means the position of the throttle at which it first comes in contact with an engine idle speed control appropriate for existing conditions according to the manufacturers’ recommendations respecting engine speed adjustments for a cold engine, air conditioning, emission control and throttle setting devices; (*position de ralenti*)
 
-***imported used vehicle***[Repealed, SOR/92-173, s. 1]
+***imported used vehicle***[Repealed, SOR/92-173, s. 1]
 
-***importer***[Repealed, SOR/95-147, s. 1]
+***importer***[Repealed, SOR/95-147, s. 1]
 
-***incomplete trailer*** means a vehicle, other than a vehicle imported temporarily for special purposes, that is capable of being drawn and that consists, at a minimum, of a chassis structure and suspension system but needs further manufacturing operations performed on it to become a completed vehicle; (*remorque incomplète*)
+***incomplete trailer*** means a vehicle, other than a vehicle imported temporarily for special purposes, that is capable of being drawn and that consists, at a minimum, of a chassis structure and suspension system but needs further manufacturing operations performed on it to become a completed vehicle; (*remorque incomplète*)
 
-***incomplete vehicle*** means a vehicle
+***incomplete vehicle*** means a vehicle
 - **(a)** other than a vehicle imported temporarily for special purposes, that is capable of being driven and that consists, at a minimum, of a chassis structure, power train, steering system, suspension system and braking system in the state in which those systems are to be part of the completed vehicle, but requires further manufacturing operations to become a completed vehicle, or
-- **(b)** that is an incomplete trailer; (*véhicule incomplet*)
+- **(b)** that is an incomplete trailer; (*véhicule incomplet*)
 
-***incomplete vehicle manufacturer*** means a company that manufactures an incomplete vehicle by assembling components none of which, taken separately, constitutes an incomplete vehicle; (*fabricant de véhicules incomplets*)
+***incomplete vehicle manufacturer*** means a company that manufactures an incomplete vehicle by assembling components none of which, taken separately, constitutes an incomplete vehicle; (*fabricant de véhicules incomplets*)
 
-***indicator*** means the part of an instrument that shows the quantity of the physical characteristic that the instrument is designed to sense; (*indicateur*)
+***indicator*** means the part of an instrument that shows the quantity of the physical characteristic that the instrument is designed to sense; (*indicateur*)
 
-***infant*** means a person who is unable to walk unassisted and whose mass is not more than 10 kg; (*bébé*)
+***infant*** means a person who is unable to walk unassisted and whose mass is not more than 10 kg; (*bébé*)
 
-***infant restraint system***[Repealed, SOR/98-160, s. 1]
+***infant restraint system***[Repealed, SOR/98-160, s. 1]
 
-***information label*** means the label required to be applied to an incomplete vehicle under section 6.2 or 6.4; (*étiquette informative*)
+***information label*** means the label required to be applied to an incomplete vehicle under section 6.2 or 6.4; (*étiquette informative*)
 
-***information readout display***[Repealed, SOR/93-31, s. 1]
+***information readout display***[Repealed, SOR/93-31, s. 1]
 
-***initial brake temperature***[Repealed, SOR/99-357, s. 1]
+***initial brake temperature***[Repealed, SOR/99-357, s. 1]
 
-***inspector***[Repealed, SOR/95-147, s. 1]
+***inspector***[Repealed, SOR/95-147, s. 1]
 
-***integral headlamp aiming device***[Repealed, SOR/96-366, s. 1]
+***integral headlamp aiming device***[Repealed, SOR/96-366, s. 1]
 
-***intermediate manufacturer*** means a company, other than an incomplete vehicle manufacturer or final-stage manufacturer, that performs manufacturing operations on an incomplete vehicle; (*fabricant intermédiaire*)
+***intermediate manufacturer*** means a company, other than an incomplete vehicle manufacturer or final-stage manufacturer, that performs manufacturing operations on an incomplete vehicle; (*fabricant intermédiaire*)
 
-***IRHD***[Repealed, SOR/2007-180, s. 1]
+***IRHD***[Repealed, SOR/2007-180, s. 1]
 
-***leaded gasoline*** means gasoline that contains more than
-- **(a)** 0.06 grams of lead per Imperial gallon (0.013 grams per litre), or
-- **(b)** 0.006 grams of phosphorous per Imperial gallon (0.0013 grams per litre); (*essence au plomb*)
+***leaded gasoline*** means gasoline that contains more than
+- **(a)** 0.06 grams of lead per Imperial gallon (0.013 grams per litre), or
+- **(b)** 0.006 grams of phosphorous per Imperial gallon (0.0013 grams per litre); (*essence au plomb*)
 
-***light duty vehicle***[Repealed, SOR/2001-35, s. 1]
+***light duty vehicle***[Repealed, SOR/2001-35, s. 1]
 
-***lightly loaded vehicle weight***[Repealed, SOR/99-357, s. 1]
+***lightly loaded vehicle weight***[Repealed, SOR/99-357, s. 1]
 
-***light source***[Repealed, SOR/96-366, s. 1]
+***light source***[Repealed, SOR/96-366, s. 1]
 
-***light-truck tire*** or ***LT tire*** means a tire designated by its manufacturer as primarily intended for use on lightweight trucks or multi-purpose passenger vehicles; (*pneu pour camion léger*)
+***light-truck tire*** or ***LT tire*** means a tire designated by its manufacturer as primarily intended for use on lightweight trucks or multi-purpose passenger vehicles; (*pneu pour camion léger*)
 
-***limited-speed motorcycle*** means a motorcycle that
+***limited-speed motorcycle*** means a motorcycle that
 - **(a)** has steering handlebars that are completely constrained from rotating in relation to the axle of only one wheel in contact with the ground,
 - **(b)** has a maximum speed of 70 km/h or less,
 - **(c)** has a minimum driver’s seat height, when the vehicle is unladen, of 650 mm, and
-- **(d)** does not have a structure partially or fully enclosing the driver and passenger, other than that part of the vehicle forward of the driver’s torso and the seat backrest; (*motocyclette à vitesse limitée*)
+- **(d)** does not have a structure partially or fully enclosing the driver and passenger, other than that part of the vehicle forward of the driver’s torso and the seat backrest; (*motocyclette à vitesse limitée*)
 
-***line*** means the name that a manufacturer applies to a family of vehicles within a make that have a degree of commonality of body, chassis, cab type or other features of construction; (*ligne*)
+***line*** means the name that a manufacturer applies to a family of vehicles within a make that have a degree of commonality of body, chassis, cab type or other features of construction; (*ligne*)
 
-***liquefied petroleum gas*** or ***LPG*** means a hydrocarbon product that meets National Standard of Canada CAN/CGSB-3.14-M88, Liquefied Petroleum Gas (Propane) (August 1988). (*gaz de pétrole liquéfié** ou **GPL*)
+***liquefied petroleum gas*** or ***LPG*** means a hydrocarbon product that meets National Standard of Canada CAN/CGSB-3.14-M88, Liquefied Petroleum Gas (Propane) (August 1988). (*gaz de pétrole liquéfié**ou**GPL* )
 
-***load divider dolly*** means a trailer that consists of a trailer chassis and one or more axles, with no solid bed, body or container attached, and that is designed exclusively to support a portion of the load on a trailer or truck excluded from all the requirements of Technical Standards Document No. 121, Air Brake Systems; (*chariot de répartition de charge*)
+***load divider dolly*** means a trailer that consists of a trailer chassis and one or more axles, with no solid bed, body or container attached, and that is designed exclusively to support a portion of the load on a trailer or truck excluded from all the requirements of Technical Standards Document No. 121, Air Brake Systems; (*chariot de répartition de charge*)
 
-***load-limiter*** means a seat belt assembly component or seat belt assembly feature that controls tension on a seat belt to modulate the forces that are imparted to an occupant who is restrained by the seat belt assembly during a collision; (*limiteur de charge*)
+***load-limiter*** means a seat belt assembly component or seat belt assembly feature that controls tension on a seat belt to modulate the forces that are imparted to an occupant who is restrained by the seat belt assembly during a collision; (*limiteur de charge*)
 
 ***lower connector system***[Repealed, SOR/2013-117, s. 1]
 
-***lower universal anchorage system*** means a device, other than a vehicle seat belt, that is designed to secure the lower portion of a restraint system or booster seat to a vehicle and that transfers the load from the restraint system or booster seat and its occupant to the vehicle structure or a vehicle seat structure; (*dispositif universel d’ancrages d’attaches inférieurs*)
+***lower universal anchorage system*** means a device, other than a vehicle seat belt, that is designed to secure the lower portion of a restraint system or booster seat to a vehicle and that transfers the load from the restraint system or booster seat and its occupant to the vehicle structure or a vehicle seat structure; (*dispositif universel d’ancrages d’attaches inférieurs*)
 
-***low-speed vehicle*** means a vehicle, other than a restricted-use motorcycle or a vehicle imported temporarily for special purposes, that
+***low-speed vehicle*** means a vehicle, other than a restricted-use motorcycle or a vehicle imported temporarily for special purposes, that
 - **(a)** is designed for use primarily on streets and roads where access and the use of other classes of vehicles are controlled by law or agreement,
 - **(b)** travels on four wheels,
 - **(c)** is powered by an electric power train (an electric motor and, if present, a transmission) that is designed to allow the vehicle to attain a speed of 32 km/h but not more than 40 km/h in a distance of 1.6 km on a paved level surface,
 - **(d)** does not use fuel as an on-board source of energy, and
-- **(e)** has a GVWR of less than 1 361 kg; (*véhicule à basse vitesse*)
+- **(e)** has a GVWR of less than 1 361 kg; (*véhicule à basse vitesse*)
 
-***make*** means the name that a manufacturer applies to a group of vehicles; (*marque*)
+***make*** means the name that a manufacturer applies to a group of vehicles; (*marque*)
 
-***manual seat belt assembly*** means, with respect to a Type 1 or Type 2 seat belt assembly, an assembly that requires a deliberate action on the part of the occupant of a vehicle to be activated; (*ceinture de sécurité manuelle*)
+***manual seat belt assembly*** means, with respect to a Type 1 or Type 2 seat belt assembly, an assembly that requires a deliberate action on the part of the occupant of a vehicle to be activated; (*ceinture de sécurité manuelle*)
 
-***manufacturer***[Repealed, SOR/95-147, s. 1]
+***manufacturer***[Repealed, SOR/95-147, s. 1]
 
-***master lighting switch*** means a switch with one or more operational positions that controls the tail lamps, parking lamp, licence plate lamp, side marker lamps and headlamps and may control identification lamps and clearance lamps; (*commutateur général d’éclairage*)
+***master lighting switch*** means a switch with one or more operational positions that controls the tail lamps, parking lamp, licence plate lamp, side marker lamps and headlamps and may control identification lamps and clearance lamps; (*commutateur général d’éclairage*)
 
-***maximum load***[Repealed, SOR/2008-258, s. 1]
+***maximum load***[Repealed, SOR/2008-258, s. 1]
 
-***maximum loaded vehicle mass***[Repealed, SOR/2008-258, s. 1]
+***maximum loaded vehicle mass***[Repealed, SOR/2008-258, s. 1]
 
-***maximum speed*** means, with respect to a motorcycle, the speed specified by the manufacturer as the highest speed that the motorcycle is capable of attaining, measured in accordance with section 5.3; (*vitesse maximale*)
+***maximum speed*** means, with respect to a motorcycle, the speed specified by the manufacturer as the highest speed that the motorcycle is capable of attaining, measured in accordance with section 5.3; (*vitesse maximale*)
 
-***minibike***[Repealed, SOR/88-268, s. 1]
+***minibike***[Repealed, SOR/88-268, s. 1]
 
-***Minister*** means the Minister of Transport; (*ministre*)
+***Minister*** means the Minister of Transport; (*ministre*)
 
-***mobile home*** means a vehicle that is more than 102 inches in overall width and that is designed to be drawn behind another vehicle and to be used as a living or working accommodation unit; (*maison roulante*)
+***mobile home*** means a vehicle that is more than 102 inches in overall width and that is designed to be drawn behind another vehicle and to be used as a living or working accommodation unit; (*maison roulante*)
 
 ***mobility-impaired occupant***[Repealed, SOR/2013-117, s. 1]
 
-***model*** means the name that a manufacturer applies to a family of vehicles of the same class, make, line, series and body type; (*modèle*)
+***model*** means the name that a manufacturer applies to a family of vehicles of the same class, make, line, series and body type; (*modèle*)
 
-***model year*** means the year used to designate a discrete vehicle model irrespective of the calendar year in which the vehicle was actually produced, so long as the period of such production is less than two years; (*année de modèle*)
+***model year*** means the year used to designate a discrete vehicle model irrespective of the calendar year in which the vehicle was actually produced, so long as the period of such production is less than two years; (*année de modèle*)
 
-***moped***[Repealed, SOR/88-268, s. 1]
+***moped***[Repealed, SOR/88-268, s. 1]
 
-***motorcycle*** means a vehicle that is of the subclasses enclosed motorcycle, open motorcycle, limited-speed motorcycle or motor tricycle, and
+***motorcycle*** means a vehicle that is of the subclasses enclosed motorcycle, open motorcycle, limited-speed motorcycle or motor tricycle, and
 - **(a)** is designed to travel on not more than three wheels in contact with the ground,
 - **(b)** has a minimum wheel rim diameter of 250 mm, and
 - **(c)** has a minimum wheelbase of 1 016 mm,
 
-but does not include a power-assisted bicycle, a restricted-use motorcycle, a passenger car, a truck, a multi-purpose passenger vehicle, a competition vehicle, a vehicle imported temporarily for special purposes or a three-wheeled vehicle; (*motocyclette*)
+but does not include a power-assisted bicycle, a restricted-use motorcycle, a passenger car, a truck, a multi-purpose passenger vehicle, a competition vehicle, a vehicle imported temporarily for special purposes or a three-wheeled vehicle; (*motocyclette*)
 
-***motor driven cycle***[Repealed, SOR/88-268, s. 1]
+***motor driven cycle***[Repealed, SOR/88-268, s. 1]
 
-***motor home*** means a multi-purpose passenger vehicle that is designed to provide temporary residential accommodations, as evidenced by the presence of at least four of the following:
+***motor home*** means a multi-purpose passenger vehicle that is designed to provide temporary residential accommodations, as evidenced by the presence of at least four of the following:
 - **(a)** cooking facilities,
 - **(b)** a refrigerator or ice box,
 - **(c)** a self-contained toilet,
 - **(d)** a heating or air-conditioning system that can function independently of the vehicle engine,
 - **(e)** a potable water supply system that includes a faucet and sink, and
-- **(f)** a separate 110- to 125-V electric power supply or an LP gas supply; (*autocaravane*)
+- **(f)** a separate 110- to 125-V electric power supply or an LP gas supply; (*autocaravane*)
 
-***motor tricycle*** means a motorcycle, other than an antique reproduction vehicle, that
+***motor tricycle*** means a motorcycle, other than an antique reproduction vehicle, that
 - **(a)** is designed to travel on three wheels that are in contact with the ground and symmetrically arranged in relation to the longitudinal median plane,
 - **(b)** has seating on which the driver and passenger must sit astride,
 - **(c)** has not more than four designated seating positions,
 - **(d)** has a GVWR of 1 000 kg or less,
 - **(e)** has a maximum speed of more than 70 km/h, and
-- **(f)** does not have a structure partially or fully enclosing the driver and passenger, other than that part of the vehicle forward of the driver’s torso and the seat backrest; (*tricycle à moteur*)
+- **(f)** does not have a structure partially or fully enclosing the driver and passenger, other than that part of the vehicle forward of the driver’s torso and the seat backrest; (*tricycle à moteur*)
 
-***Motor Vehicle Safety Test Methods***[Repealed, SOR/97-141, s. 1]
+***Motor Vehicle Safety Test Methods***[Repealed, SOR/97-141, s. 1]
 
-***Motor Vehicle Safety Test Methods, section 106, “Brake Hoses”***[Repealed, SOR/2007-180, s. 1]
+***Motor Vehicle Safety Test Methods, section 106, “Brake Hoses”***[Repealed, SOR/2007-180, s. 1]
 
-***Motor Vehicle Safety Test Methods, section 116, “Hydraulic Brake Fluid”***[Repealed, SOR/95-536, s. 7]
+***Motor Vehicle Safety Test Methods, section 116, “Hydraulic Brake Fluid”***[Repealed, SOR/95-536, s. 7]
 
-***Motor Vehicle Safety Test Methods, section 116, “Hydraulic Brake Fluids”***[Repealed, SOR/2007-180, s. 1]
+***Motor Vehicle Safety Test Methods, section 116, “Hydraulic Brake Fluids”***[Repealed, SOR/2007-180, s. 1]
 
-***multifunction school activity bus*** means a school bus that is designed to pick up and drop off students under circumstances in which there is no need to control traffic. (*autobus multifonction pour les activités scolaires*)
+***multifunction school activity bus*** means a school bus that is designed to pick up and drop off students under circumstances in which there is no need to control traffic; (*autobus multifonction pour les activités scolaires*)
 
-***multiple compartment lamp***[Repealed, SOR/96-366, s. 1]
+***multiple compartment lamp***[Repealed, SOR/96-366, s. 1]
 
-***multiple lamp arrangement***[Repealed, SOR/96-366, s. 1]
+***multiple lamp arrangement***[Repealed, SOR/96-366, s. 1]
 
-***multi-purpose passenger vehicle*** means a vehicle having a designated seating capacity of 10 or less that is constructed either on a truck chassis or with special features for occasional off-road operation, but does not include an air cushion vehicle, an all-terrain vehicle, a golf cart, a low-speed vehicle, a passenger car, a three-wheeled vehicle, a truck or a vehicle imported temporarily for special purposes; (*véhicule de tourisme à usages multiples*)
+***multi-purpose passenger vehicle*** means a vehicle having a designated seating capacity of 10 or less that is constructed either on a truck chassis or with special features for occasional off-road operation, but does not include an air cushion vehicle, an all-terrain vehicle, a golf cart, a low-speed vehicle, a passenger car, a three-wheeled vehicle, a truck or a vehicle imported temporarily for special purposes; (*véhicule de tourisme à usages multiples*)
 
-***non-locking retractor*** means a retractor that does not have a locking mechanism, from which the webbing can be extended to substantially its full length by a small external force, that provides no adjustment for assembly length and that need not be capable of sustaining restraint forces at maximum webbing extension; (*rétracteur sans blocage*)
+***non-locking retractor*** means a retractor that does not have a locking mechanism, from which the webbing can be extended to substantially its full length by a small external force, that provides no adjustment for assembly length and that need not be capable of sustaining restraint forces at maximum webbing extension; (*rétracteur sans blocage*)
 
-***normal load***[Repealed, SOR/2008-258, s. 1]
+***normal load***[Repealed, SOR/2008-258, s. 1]
 
-***normal occupants’ mass***[Repealed, SOR/2008-258, s. 1]
+***normal occupants’ mass***[Repealed, SOR/2008-258, s. 1]
 
-***occupant*** means a person or manikin seated in a vehicle and, unless otherwise specified, means a person or manikin having the dimensions and weight of a 95th percentile adult male; (*occupant*)
+***occupant*** means a person or manikin seated in a vehicle and, unless otherwise specified, means a person or manikin having the dimensions and weight of a 95th percentile adult male; (*occupant*)
 
-***occupant compartment air space***[Repealed, SOR/2007-180, s. 1]
+***occupant compartment air space***[Repealed, SOR/2007-180, s. 1]
 
-***occupant distribution***[Repealed, SOR/2008-258, s. 1]
+***occupant distribution***[Repealed, SOR/2008-258, s. 1]
 
-***occupant space*** means the space directly above the seat and footwell, bounded vertically by the ceiling and horizontally by the normally positioned seat back and the nearest obstruction of occupant motion in the direction the seat faces; (*espace d’occupant*)
+***occupant space*** means the space directly above the seat and footwell, bounded vertically by the ceiling and horizontally by the normally positioned seat back and the nearest obstruction of occupant motion in the direction the seat faces; (*espace d’occupant*)
 
-***off-road motorcycle***[Repealed, SOR/88-268, s. 1]
+***off-road motorcycle***[Repealed, SOR/88-268, s. 1]
 
-***oil pressure indicator*** means a device that presents information concerning the pressure of the oil in the engine lubrication circuit; (*indicateur de pression d’huile*)
+***oil pressure indicator*** means a device that presents information concerning the pressure of the oil in the engine lubrication circuit; (*indicateur de pression d’huile*)
 
-***oil pressure tell-tale*** means a signal that, when alight, indicates that the oil pressure in the engine lubrication circuit is below the normal operating limit prescribed by the manufacturer; (*témoin de pression d’huile*)
+***oil pressure tell-tale*** means a signal that, when alight, indicates that the oil pressure in the engine lubrication circuit is below the normal operating limit prescribed by the manufacturer; (*témoin de pression d’huile*)
 
-***on-highway vehicle***[Repealed, SOR/2004-250, s. 1]
+***on-highway vehicle***[Repealed, SOR/2004-250, s. 1]
 
-***on-off-highway vehicle***[Repealed, SOR/2004-250, s. 1]
+***on-off-highway vehicle***[Repealed, SOR/2004-250, s. 1]
 
-***open-body type vehicle*** means a vehicle that has no top over the occupant compartment or that has a top over the occupant compartment that can be installed or removed by the operator of the vehicle; (*véhicule de type ouvert*)
+***open-body type vehicle*** means a vehicle that has no top over the occupant compartment or that has a top over the occupant compartment that can be installed or removed by the operator of the vehicle; (*véhicule de type ouvert*)
 
-***open motorcycle*** means a motorcycle that
+***open motorcycle*** means a motorcycle that
 - **(a)** has steering handlebars that are completely constrained from rotating in relation to the axle of only one wheel in contact with the ground,
 - **(b)** is designed to travel on two wheels in contact with the ground or, if the wheels are asymmetrically arranged in relation to the longitudinal median plane, three wheels in contact with the ground,
 - **(c)** has a minimum driver’s seat height, when the vehicle is unladen, of 650 mm,
 - **(d)** has a maximum speed of more than 70 km/h, and
-- **(e)** does not have a structure partially or fully enclosing the driver and passenger, other than that part of the vehicle forward of the driver’s torso and the seat backrest; (*motocyclette sans habitacle fermé*)
+- **(e)** does not have a structure partially or fully enclosing the driver and passenger, other than that part of the vehicle forward of the driver’s torso and the seat backrest; (*motocyclette sans habitacle fermé*)
 
-***optically combined lamps*** means, for the purposes of section 108 of Schedule IV, lamps that have
+***optically combined lamps*** means, for the purposes of section 108 of Schedule IV, lamps that have
 - **(a)** two or more separate light sources or a single light source that operates in different ways,
 - **(b)** one lens totally or partly in common, and
-- **(c)** a common lamp body; (*feux combinés optiquement*)
+- **(c)** a common lamp body; (*feux combinés optiquement*)
 
-***optional item***[Repealed, SOR/2008-258, s. 1]
+***optional item***[Repealed, SOR/2008-258, s. 1]
 
-***outboard designated seating position*** means a designated seating position where a longitudinal vertical plane tangent to the outboard side of the seat cushion is less than 305 mm from the innermost point on the inside surface of the vehicle, which point is located vertically between the seating reference point and the shoulder reference point and longitudinally between the front and rear edges of the seat cushion; (*place assise désignée extérieure*)
+***outboard designated seating position*** means a designated seating position where a longitudinal vertical plane tangent to the outboard side of the seat cushion is less than 305 mm from the innermost point on the inside surface of the vehicle, which point is located vertically between the seating reference point and the shoulder reference point and longitudinally between the front and rear edges of the seat cushion; (*place assise désignée extérieure*)
 
-***overall width*** means the nominal design dimension of the widest part of the vehicle with doors and windows closed and wheels in the straight ahead position, exclusive of signal lamps, marker lamps, outside rearview mirrors, flexible fender extensions and mud flaps; (*largeur hors tout*)
+***overall width*** means the nominal design dimension of the widest part of the vehicle with doors and windows closed and wheels in the straight ahead position, exclusive of signal lamps, marker lamps, outside rearview mirrors, flexible fender extensions and mud flaps; (*largeur hors tout*)
 
-***parking brake*** means a mechanism designed to prevent the movement of a stationary vehicle; (*frein de stationnement*)
+***parking brake*** means a mechanism designed to prevent the movement of a stationary vehicle; (*frein de stationnement*)
 
-***parking mechanism***[Repealed, SOR/99-357, s. 1]
+***parking mechanism***[Repealed, SOR/99-357, s. 1]
 
-***passenger car*** means a vehicle having a designated seating capacity of 10 or less, but does not include an all-terrain vehicle, a competition vehicle, a low-speed vehicle, a multi-purpose passenger vehicle, an antique reproduction vehicle, a motorcycle, a truck, a trailer, a vehicle imported temporarily for special purposes or a three-wheeled vehicle; (*voiture de tourisme*)
+***passenger car*** means a vehicle having a designated seating capacity of 10 or less, but does not include an all-terrain vehicle, a competition vehicle, a low-speed vehicle, a multi-purpose passenger vehicle, an antique reproduction vehicle, a motorcycle, a truck, a trailer, a vehicle imported temporarily for special purposes or a three-wheeled vehicle; (*voiture de tourisme*)
 
-***passenger car tire*** means a tire intended for use on passenger cars, multi-purpose passenger vehicles and trucks with a GVWR of 4 536 kg or less; (*pneu pour voiture de tourisme*)
+***passenger car tire*** means a tire intended for use on passenger cars, multi-purpose passenger vehicles and trucks with a GVWR of 4 536 kg or less; (*pneu pour voiture de tourisme*)
 
-***passive occupant protection***[Repealed, SOR/93-5, s. 1]
+***passive occupant protection***[Repealed, SOR/93-5, s. 1]
 
-***passive restraint system***[Repealed, SOR/93-5, s. 1]
+***passive restraint system***[Repealed, SOR/93-5, s. 1]
 
-***pelvic restraint*** means a seat belt assembly or portion thereof intended to restrain movement of the pelvis; (*ceinture sous-abdominale*)
+***pelvic restraint*** means a seat belt assembly or portion thereof intended to restrain movement of the pelvis; (*ceinture sous-abdominale*)
 
-***permanently attached hose end fitting***[Repealed, SOR/2007-180, s. 1]
+***permanently attached hose end fitting***[Repealed, SOR/2007-180, s. 1]
 
-***plant of manufacture*** means the plant at which the manufacturer affixes the vehicle identification number; (*usine de construction*)
+***plant of manufacture*** means the plant at which the manufacturer affixes the vehicle identification number; (*usine de construction*)
 
-***pole trailer*** means a vehicle designed to be drawn behind another vehicle by means of a reach or pole, or by being boomed or otherwise secured to the towing vehicle, for the purpose of transporting poles, pipes, structural members or other long or irregularly shaped loads capable generally of sustaining themselves as beams between the supporting connections; (*remorque pour charges longues*)
+***pole trailer*** means a vehicle designed to be drawn behind another vehicle by means of a reach or pole, or by being boomed or otherwise secured to the towing vehicle, for the purpose of transporting poles, pipes, structural members or other long or irregularly shaped loads capable generally of sustaining themselves as beams between the supporting connections; (*remorque pour charges longues*)
 
-***power-assisted bicycle*** means a vehicle that:
+***power-assisted bicycle*** means a vehicle that:
 - **(a)** has steering handlebars and is equipped with pedals,
 - **(b)** is designed to travel on not more than three wheels in contact with the ground,
 - **(c)** is capable of being propelled by muscular power,
@@ -530,239 +530,239 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a pa
 - **(e)** bears a label that is permanently affixed by the manufacturer and appears in a conspicuous location stating, in both official languages, that the vehicle is a power-assisted bicycle as defined in this subsection, and
 - **(f)** has one of the following safety features,
 	- **(i)** an enabling mechanism to turn the electric motor on and off that is separate from the accelerator controller and fitted in such a manner that it is operable by the driver, or
-	- **(ii)** a mechanism that prevents the motor from being engaged before the bicycle attains a speed of 3 km/h; (*bicyclette assistée*)
+	- **(ii)** a mechanism that prevents the motor from being engaged before the bicycle attains a speed of 3 km/h; (*bicyclette assistée*)
 
-***power-operated roof panel***[Repealed, SOR/2007-180, s. 1]
+***power-operated roof panel***[Repealed, SOR/2007-180, s. 1]
 
-***power-operated roof panel system*** means a panel or panels in the roof of a vehicle that move on slides or hinges, the opening or closing of which is operated by a power source within the vehicle, but does not include a convertible top system; (*système de toit ouvrant à commande électrique*)
+***power-operated roof panel system*** means a panel or panels in the roof of a vehicle that move on slides or hinges, the opening or closing of which is operated by a power source within the vehicle, but does not include a convertible top system; (*système de toit ouvrant à commande électrique*)
 
-***prescribed class*** means a class of vehicle listed in Schedule III or the class of incomplete vehicle prescribed under subsection 4(1.1); (*catégorie réglementaire*)
+***prescribed class*** means a class of vehicle listed in Schedule III or the class of incomplete vehicle prescribed under subsection 4(1.1); (*catégorie réglementaire*)
 
-***prime glazing material manufacturer***[Repealed, SOR/2002-187, s. 1]
+***prime glazing material manufacturer***[Repealed, SOR/2002-187, s. 1]
 
-***production options mass***[Repealed, SOR/2008-258, s. 1]
+***production options mass***[Repealed, SOR/2008-258, s. 1]
 
-***production restraint system for disabled persons***[Repealed, SOR/98-160, s. 1]
+***production restraint system for disabled persons***[Repealed, SOR/98-160, s. 1]
 
-***pulpwood trailer***[Repealed, SOR/99-357, s. 1]
+***pulpwood trailer***[Repealed, SOR/99-357, s. 1]
 
-***push-out window*** means a vehicle window designed to open outward to provide for emergency egress; (*fenêtre basculante*)
+***push-out window*** means a vehicle window designed to open outward to provide for emergency egress; (*fenêtre basculante*)
 
-***readily removable window*** means a window that can be quickly and completely removed from a vehicle without tools and, in the case of a bus having a GVWR of more than 4 535.9 kg (10,000 pounds), shall include a push-out window and a window mounted in an emergency exit that can be manually pushed out of its location in the vehicle without the use of tools, regardless of whether the window remains hinged at one side to the vehicle; (*fenêtre amovible*)
+***readily removable window*** means a window that can be quickly and completely removed from a vehicle without tools and, in the case of a bus having a GVWR of more than 4 535.9 kg (10,000 pounds), shall include a push-out window and a window mounted in an emergency exit that can be manually pushed out of its location in the vehicle without the use of tools, regardless of whether the window remains hinged at one side to the vehicle; (*fenêtre amovible*)
 
-***rear outboard designated seating position*** means any outboard designated seating position that is to the rear of a front outboard designated seating position, but does not include a designated seating position adjacent to a walkway located between the seat and the side of the vehicle interior that is designed to allow access to more rearward seating positions; (*place assise désignée extérieure arrière*)
+***rear outboard designated seating position*** means any outboard designated seating position that is to the rear of a front outboard designated seating position, but does not include a designated seating position adjacent to a walkway located between the seat and the side of the vehicle interior that is designed to allow access to more rearward seating positions; (*place assise désignée extérieure arrière*)
 
-***recreational trailer*** means a trailer designed to provide temporary living accommodation for travel, vacation or recreational use; (*remorque de camping*)
+***recreational trailer*** means a trailer designed to provide temporary living accommodation for travel, vacation or recreational use; (*remorque de camping*)
 
-***replaceable bulb headlamp***[Repealed, SOR/96-366, s. 1]
+***replaceable bulb headlamp***[Repealed, SOR/96-366, s. 1]
 
-***restraint system*** has the same meaning as in subsection 100(1) of the [Motor Vehicle Restraint Systems and Booster Seats Safety Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2010/90.md); (*ensemble de retenue*)
+***restraint system*** has the same meaning as in subsection 100(1) of the [Motor Vehicle Restraint Systems and Booster Seats Safety Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2010/90.md); (*ensemble de retenue*)
 
-***restraint system for disabled persons***[Repealed, SOR/98-160, s. 1]
+***restraint system for disabled persons***[Repealed, SOR/98-160, s. 1]
 
-***restricted-use motorcycle*** means a vehicle, excluding a power-assisted bicycle, a competition vehicle and a vehicle imported temporarily for special purposes, but including an all-terrain vehicle designed primarily for recreational use, that:
+***restricted-use motorcycle*** means a vehicle, excluding a power-assisted bicycle, a competition vehicle and a vehicle imported temporarily for special purposes, but including an all-terrain vehicle designed primarily for recreational use, that:
 - **(a)** has steering handlebars,
 - **(b)** is designed to travel on not more than four wheels in contact with the ground,
 - **(c)** does not have as an integral part of the vehicle a structure to enclose the driver and passenger, other than that part of the vehicle forward of the driver’s torso and the seat backrest, and
-- **(d)** bears a label, permanently affixed in a conspicuous location, stating, in both official languages, that the vehicle is a restricted-use motorcycle or an all-terrain vehicle and is not intended for use on public highways; (*motocyclette à usage restreint*)
+- **(d)** bears a label, permanently affixed in a conspicuous location, stating, in both official languages, that the vehicle is a restricted-use motorcycle or an all-terrain vehicle and is not intended for use on public highways; (*motocyclette à usage restreint*)
 
-***retractor*** means a device for storing part or all of the webbing in a seat belt assembly; (*rétracteur*)
+***retractor*** means a device for storing part or all of the webbing in a seat belt assembly; (*rétracteur*)
 
-***rim base***[Repealed, SOR/2008-258, s. 1]
+***rim base***[Repealed, SOR/2008-258, s. 1]
 
-***rim diameter*** means the nominal diameter of the bead seat; (*diamètre de jante*)
+***rim diameter*** means the nominal diameter of the bead seat; (*diamètre de jante*)
 
-***rim size designation***[Repealed, SOR/2008-258, s. 1]
+***rim size designation***[Repealed, SOR/2008-258, s. 1]
 
-***rim type designation***[Repealed, SOR/2008-258, s. 1]
+***rim type designation***[Repealed, SOR/2008-258, s. 1]
 
-***rim width***[Repealed, SOR/2008-258, s. 1]
+***rim width***[Repealed, SOR/2008-258, s. 1]
 
-***rupture***[Repealed, SOR/2007-180, s. 1]
+***rupture***[Repealed, SOR/2007-180, s. 1]
 
-***SAE*** means the Society of Automotive Engineers, Inc. (SAE International); (*SAE*)
+***SAE*** means the Society of Automotive Engineers, Inc. (SAE International); (*SAE*)
 
-***SAE Compatibility Fluid***[Repealed, SOR/2007-180, s. 1]
+***SAE Compatibility Fluid***[Repealed, SOR/2007-180, s. 1]
 
-***school bus*** means a bus designed or equipped primarily to carry students to and from school or to and from school-related events; (*autobus scolaire*)
+***school bus*** means a bus designed or equipped primarily to carry students to and from school or to and from school-related events; (*autobus scolaire*)
 
-***scuffing***[Repealed, SOR/2007-180, s. 1]
+***scuffing***[Repealed, SOR/2007-180, s. 1]
 
-***sealed beam headlamp*** means, for the purposes of sections 108 and 108.1 of Schedule IV, a headlamp comprising a reflector, a lens and one or more light sources, forming an integral whole which is indivisibly formed and cannot be dismantled without rendering the unit completely unusable; (*projecteur scellé*)
+***sealed beam headlamp*** means, for the purposes of sections 108 and 108.1 of Schedule IV, a headlamp comprising a reflector, a lens and one or more light sources, forming an integral whole which is indivisibly formed and cannot be dismantled without rendering the unit completely unusable; (*projecteur scellé*)
 
-***seat anchorage*** means any component that transfers a vehicle seat load to the vehicle structure; (*ancrage du siège*)
+***seat anchorage*** means any component that transfers a vehicle seat load to the vehicle structure; (*ancrage du siège*)
 
-***seat back retainer***[Repealed, SOR/2007-180, s. 1]
+***seat back retainer***[Repealed, SOR/2007-180, s. 1]
 
-***seat belt anchorage*** means any component of a vehicle, other than the webbing or straps, involved in transferring seat belt loads to the vehicle structure, including the attachment hardware, seat frames, seat pedestals, the vehicle structure and any part of the vehicle whose failure causes separation of the belt from the vehicle structure; (*ancrage de ceinture de sécurité*)
+***seat belt anchorage*** means any component of a vehicle, other than the webbing or straps, involved in transferring seat belt loads to the vehicle structure, including the attachment hardware, seat frames, seat pedestals, the vehicle structure and any part of the vehicle whose failure causes separation of the belt from the vehicle structure; (*ancrage de ceinture de sécurité*)
 
-***seat belt assembly*** means any strap, webbing or similar device designed to secure a person in a vehicle in order to mitigate the results of any accident, and includes all necessary buckles and other fasteners and all attachment hardware but does not include any strap, webbing or similar device that is part of a built-in restraint system; (*ceinture de sécurité*)
+***seat belt assembly*** means any strap, webbing or similar device designed to secure a person in a vehicle in order to mitigate the results of any accident, and includes all necessary buckles and other fasteners and all attachment hardware but does not include any strap, webbing or similar device that is part of a built-in restraint system; (*ceinture de sécurité*)
 
-***seating reference point*** means the unique Design H-Point, as defined in section 3.11.1 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), that
+***seating reference point*** means the unique Design H-Point, as defined in section 3.11.1 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), that
 - **(a)** establishes the rearmost normal design driving or riding position of each designated seating position, taking into account all modes of adjustment — horizontal, vertical and tilt — in a vehicle,
-- **(b)** has X, Y and Z coordinates, as defined in section 3.3 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), established relative to the designed vehicle structure,
+- **(b)** has X, Y and Z coordinates, as defined in section 3.3 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), established relative to the designed vehicle structure,
 - **(c)** simulates the position of the pivot centre of the human torso and thigh, and
-- **(d)** is the reference point employed to position the H-Point template with the 95th percentile leg, as described in section 4.1 of SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995), or, if that template cannot be positioned, the reference point when the seat is in its rearmost adjustment position; (*point de référence de position assise*)
+- **(d)** is the reference point employed to position the H-Point template with the 95th percentile leg, as described in section 4.1 of SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995), or, if that template cannot be positioned, the reference point when the seat is in its rearmost adjustment position; (*point de référence de position assise*)
 
-***seating surface width*** means the maximum width of a seating surface when it is measured in a zone extending from a transverse vertical plane that is 150 mm behind the front leading surface of that seating surface to a transverse vertical plane that is 250 mm behind that front leading surface, measured horizontally and longitudinally; (*largeur de la surface de siège*)
+***seating surface width*** means the maximum width of a seating surface when it is measured in a zone extending from a transverse vertical plane that is 150 mm behind the front leading surface of that seating surface to a transverse vertical plane that is 250 mm behind that front leading surface, measured horizontally and longitudinally; (*largeur de la surface de siège*)
 
 ***seat orientation reference line (SORL)***[Repealed, SOR/2013-117, s. 1]
 
-***semi-trailer*** means a trailer constructed in such a manner that a substantial part of its weight rests upon or is carried by another vehicle by means of a fifth-wheel or similar coupling, but does not include a pole trailer, or any trailer designed to be drawn behind a passenger car or multi-purpose passenger vehicle; (*semi-remorque*)
+***semi-trailer*** means a trailer constructed in such a manner that a substantial part of its weight rests upon or is carried by another vehicle by means of a fifth-wheel or similar coupling, but does not include a pole trailer, or any trailer designed to be drawn behind a passenger car or multi-purpose passenger vehicle; (*semi-remorque*)
 
-***series*** means the name that a manufacturer applies to a subdivision of a line denoting the price, size or weight identification and that is utilized by the manufacturer for marketing purposes; (*série*)
+***series*** means the name that a manufacturer applies to a subdivision of a line denoting the price, size or weight identification and that is utilized by the manufacturer for marketing purposes; (*série*)
 
-***service brake*** means the primary mechanism designed to stop a vehicle; (*frein de service*)
+***service brake*** means the primary mechanism designed to stop a vehicle; (*frein de service*)
 
-***shoulder reference point*** means the point 563 mm above the H-point along the torso line; (*point de référence de l’épaule*)
+***shoulder reference point*** means the point 563 mm above the H-point along the torso line; (*point de référence de l’épaule*)
 
-***sloughing***[Repealed, SOR/2007-180, s. 1]
+***sloughing***[Repealed, SOR/2007-180, s. 1]
 
-***snowmobile*** means a vehicle, excluding a competition vehicle and a vehicle imported temporarily for special purposes, but including a snowmobile conversion vehicle, that has a mass of not more than 450 kg, is designed primarily for travel on snow, has one or more steering skis and is driven by means of an endless belt or belts in contact with the ground; (*motoneige*)
+***snowmobile*** means a vehicle, excluding a competition vehicle and a vehicle imported temporarily for special purposes, but including a snowmobile conversion vehicle, that has a mass of not more than 450 kg, is designed primarily for travel on snow, has one or more steering skis and is driven by means of an endless belt or belts in contact with the ground; (*motoneige*)
 
-***snowmobile conversion vehicle*** means a vehicle designed to be capable of conversion to a snowmobile by the repositioning or addition of parts; (*véhicule convertible en motoneige*)
+***snowmobile conversion vehicle*** means a vehicle designed to be capable of conversion to a snowmobile by the repositioning or addition of parts; (*véhicule convertible en motoneige*)
 
-***snowmobile cutter*** means a sleigh designed to be drawn behind a snowmobile; (*traîneau de motoneige*)
+***snowmobile cutter***[Repealed, SOR/2016-318, s. 1]
 
-***snowmobile trailer*** means a trailer designed primarily for the transportation of snowmobiles or snowmobile cutters; (*remorque pour motoneige*)
+***snowmobile trailer*** means a trailer designed primarily for the transportation of snowmobiles; (*remorque pour motoneige*)
 
-***snub*** means the braking deceleration of a vehicle from a higher reference speed to a lower reference speed that is greater than zero; (*ralentissement*)
+***snub*** means the braking deceleration of a vehicle from a higher reference speed to a lower reference speed that is greater than zero; (*ralentissement*)
 
-***special driver accommodation*** includes a driver’s seat that is designed to be removable or that has extended adjustment capability to allow a person to transfer from a wheelchair to the driver’s seat; (*place du conducteur particulière*)
+***special driver accommodation*** includes a driver’s seat that is designed to be removable or that has extended adjustment capability to allow a person to transfer from a wheelchair to the driver’s seat; (*place du conducteur particulière*)
 
-***speed attainable in 1.6 km (1 mile)*** means the speed attainable by accelerating at maximum rate from a standing start for 1.6 km on a level surface; (*vitesse à 1,6 km (1 mille)*)
+***speed attainable in 1.6 km (1 mile)*** means the speed attainable by accelerating at maximum rate from a standing start for 1.6 km on a level surface; (*vitesse à 1,6 km (1 mille)*)
 
-***speed attainable in 3.2 km (2 miles)*** means the speed attainable by accelerating at maximum rate from a standing start for 3.2 km on a level surface; (*vitesse à 3,2 km (2 milles)*)
+***speed attainable in 3.2 km (2 miles)*** means the speed attainable by accelerating at maximum rate from a standing start for 3.2 km on a level surface; (*vitesse à 3,2 km (2 milles)*)
 
-***spike stop*** means a stop resulting from the application of 889.6 N (200 pounds) of force on the service brake control in 0.08 second; (*arrêt d’urgence*)
+***spike stop*** means a stop resulting from the application of 889.6 N (200 pounds) of force on the service brake control in 0.08 second; (*arrêt d’urgence*)
 
-***split service brake system*** means a brake system consisting of two or more subsystems actuated by a single control, designed so that a single failure in any subsystem (such as a leakage-type failure of a pressure component of a hydraulic subsystem, except for the structural failure of a housing that is common to two or more subsystems, or an electrical failure in an electrical subsystem) does not impair the operation of any other subsystem; (*système de frein de service partagé*)
+***split service brake system*** means a brake system consisting of two or more subsystems actuated by a single control, designed so that a single failure in any subsystem (such as a leakage-type failure of a pressure component of a hydraulic subsystem, except for the structural failure of a housing that is common to two or more subsystems, or an electrical failure in an electrical subsystem) does not impair the operation of any other subsystem; (*système de frein de service partagé*)
 
-***spoke wheel*** means a rotating member that provides for mounting and support of demountable rims; (*roue à rayons*)
+***spoke wheel*** means a rotating member that provides for mounting and support of demountable rims; (*roue à rayons*)
 
-***steering column*** means the structural housing that surrounds a steering shaft; (*colonne de direction*)
+***steering column*** means the structural housing that surrounds a steering shaft; (*colonne de direction*)
 
-***steering control system*** means the basic steering mechanism and its associated trim hardware including any portion of a steering column assembly that provides energy absorption upon impact; (*système de commande de la direction*)
+***steering control system*** means the basic steering mechanism and its associated trim hardware including any portion of a steering column assembly that provides energy absorption upon impact; (*système de commande de la direction*)
 
-***steering shaft*** means a component that transmits steering torque from the steering wheel to the steering gear; (*arbre de direction*)
+***steering shaft*** means a component that transmits steering torque from the steering wheel to the steering gear; (*arbre de direction*)
 
-***stickiness***[Repealed, SOR/2007-180, s. 1]
+***stickiness***[Repealed, SOR/2007-180, s. 1]
 
-***stopping distance*** means the distance travelled by a vehicle from the point at which force is applied to the brake control to the point at which the vehicle reaches a full stop; (*distance d’arrêt*)
+***stopping distance*** means the distance travelled by a vehicle from the point at which force is applied to the brake control to the point at which the vehicle reaches a full stop; (*distance d’arrêt*)
 
-***strap*** means a narrow band of non-woven material used in a seat belt assembly in place of webbing; (*courroie*)
+***strap*** means a narrow band of non-woven material used in a seat belt assembly in place of webbing; (*courroie*)
 
-***suspension spring*** means a leaf, coil, torsion bar, rubber, air bag, and every other type of spring used in vehicular suspensions; (*ressort de suspension*)
+***suspension spring*** means a leaf, coil, torsion bar, rubber, air bag, and every other type of spring used in vehicular suspensions; (*ressort de suspension*)
 
-***tell-tale*** means an optical signal that, when alight, indicates the activation or deactivation of a device, its correct or defective functioning or condition, or its failure to function; (*témoin*)
+***tell-tale*** means an optical signal that, when alight, indicates the activation or deactivation of a device, its correct or defective functioning or condition, or its failure to function; (*témoin*)
 
-***tether belt hook***[Repealed, SOR/98-457, s. 1]
+***tether belt hook***[Repealed, SOR/98-457, s. 1]
 
-***tether strap*** means a device that is fitted with a tether strap hook and secured to the rigid structure of a restraint system or booster seat, and that transfers the load from the restraint system or booster seat and its occupant to the user-ready tether anchorage; (*courroie d’attache*)
+***tether strap*** means a device that is fitted with a tether strap hook and secured to the rigid structure of a restraint system or booster seat, and that transfers the load from the restraint system or booster seat and its occupant to the user-ready tether anchorage; (*courroie d’attache*)
 
-***tether strap hook*** means a device that is used to attach a tether strap to a user-ready tether anchorage and that has an interface profile shown in Figure 1 of Schedule 7 to the [Motor Vehicle Restraint Systems and Booster Seats Safety Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2010/90.md) or, in the case of a device with integrated adjustment hardware, in Figure 2 of Schedule 7 to those Regulations; (*crochet de la courroie d’attache*)
+***tether strap hook*** means a device that is used to attach a tether strap to a user-ready tether anchorage and that has an interface profile shown in Figure 1 of Schedule 7 to the [Motor Vehicle Restraint Systems and Booster Seats Safety Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2010/90.md) or, in the case of a device with integrated adjustment hardware, in Figure 2 of Schedule 7 to those Regulations; (*crochet de la courroie d’attache*)
 
-***three-wheeled vehicle*** means a vehicle, other than a competition vehicle, an antique reproduction vehicle, a motorcycle, a restricted-use motorcycle, a trailer or a vehicle imported temporarily for special purposes, that
+***three-wheeled vehicle*** means a vehicle, other than a competition vehicle, an antique reproduction vehicle, a motorcycle, a restricted-use motorcycle, a trailer or a vehicle imported temporarily for special purposes, that
 - **(a)** is designed to travel on three wheels in contact with the ground,
 - **(b)** has no more than four designated seating positions, and
-- **(c)** has a GVWR of 1 000 kg or less; (*véhicule à trois roues*)
+- **(c)** has a GVWR of 1 000 kg or less; (*véhicule à trois roues*)
 
-***throttle*** means the component of the fuel metering device that
+***throttle*** means the component of the fuel metering device that
 - **(a)** connects to the driver-operated accelerator control system, and
-- **(b)** controls the engine speed; (*papillon des gaz*)
+- **(b)** controls the engine speed; (*papillon des gaz*)
 
-***torso line*** means the line connecting the H-point and the shoulder reference point, described in SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995); (*ligne de torse*)
+***torso line*** means the line connecting the H-point and the shoulder reference point, described in SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995); (*ligne de torse*)
 
-***trailer*** means a vehicle designed to carry or accommodate persons or property and to be drawn behind another vehicle, and includes a bus trailer, a pole trailer and a cable reel trailer, but does not include a mobile home, a trailer converter dolly or any earth-moving equipment, an implement of farm husbandry or a vehicle imported temporarily for special purposes; (*remorque*)
+***trailer*** means a vehicle designed to carry or accommodate persons or property and to be drawn behind another vehicle, and includes a bus trailer, a pole trailer and a cable reel trailer, but does not include a mobile home, a trailer converter dolly or any earth-moving equipment, an implement of farm husbandry or a vehicle imported temporarily for special purposes; (*remorque*)
 
-***trailer converter dolly*** means a conversion chassis that is equipped with one or more axles, a lower half of a fifth-wheel coupling and one or two drawbars, but does not include a vehicle imported temporarily for special purposes; (*chariot de conversion*)
+***trailer converter dolly*** means a conversion chassis that is equipped with one or more axles, a lower half of a fifth-wheel coupling and one or two drawbars, but does not include a vehicle imported temporarily for special purposes; (*chariot de conversion*)
 
-***transparent cover***[Repealed, SOR/96-366, s. 1]
+***transparent cover***[Repealed, SOR/96-366, s. 1]
 
-***truck*** means a vehicle designed primarily for the transportation of property or special-purpose equipment, but does not include a competition vehicle, a crawler-mounted vehicle, a three-wheeled vehicle, a trailer, a work vehicle, a vehicle imported temporarily for special purposes, a vehicle designed for operation exclusively off-road or a low-speed vehicle; (*camion*)
+***truck*** means a vehicle designed primarily for the transportation of property or special-purpose equipment, but does not include a competition vehicle, a crawler-mounted vehicle, a three-wheeled vehicle, a trailer, a work vehicle, a vehicle imported temporarily for special purposes, a vehicle designed for operation exclusively off-road or a low-speed vehicle; (*camion*)
 
-***truck tractor*** means a truck designed primarily for drawing other vehicles and not constructed for carrying any load other than a part of the weight of the vehicle and load drawn, and includes a vehicle designed to accept a fifth-wheel coupling but does not include a crane-equipped breakdown vehicle; (*camion-tracteur*)
+***truck tractor*** means a truck designed primarily for drawing other vehicles and not constructed for carrying any load other than a part of the weight of the vehicle and load drawn, and includes a vehicle designed to accept a fifth-wheel coupling but does not include a crane-equipped breakdown vehicle; (*camion-tracteur*)
 
-***Type 1***[Repealed, SOR/2007-180, s. 1]
+***Type 1***[Repealed, SOR/2007-180, s. 1]
 
-***type 1 headlamp***[Repealed, SOR/91-692, s. 1]
+***type 1 headlamp***[Repealed, SOR/91-692, s. 1]
 
-***Type 1 seat belt assembly*** means a pelvic restraint; (*ceinture de sécurité de type 1*)
+***Type 1 seat belt assembly*** means a pelvic restraint; (*ceinture de sécurité de type 1*)
 
-***Type 2***[Repealed, SOR/2007-180, s. 1]
+***Type 2***[Repealed, SOR/2007-180, s. 1]
 
-***type 2 headlamp***[Repealed, SOR/91-692, s. 1]
+***type 2 headlamp***[Repealed, SOR/91-692, s. 1]
 
-***Type 2 seat belt assembly*** means a combination pelvic and upper torso restraint; (*ceinture de sécurité de type 2*)
+***Type 2 seat belt assembly*** means a combination pelvic and upper torso restraint; (*ceinture de sécurité de type 2*)
 
-***Type 2A***[Repealed, SOR/2007-180, s. 1]
+***Type 2A***[Repealed, SOR/2007-180, s. 1]
 
 ***Type 2A shoulder belt***[Repealed, SOR/2013-9, s. 1]
 
-***unit magnification mirror*** means a plane or flat mirror with a reflective surface through which the angular height and width of the image of an object is equal to the angular height and width of the object when viewed directly at the same distance except for flaws that do not exceed normal manufacturing tolerances and includes a prismatic day-night adjustment rearview mirror that provides unit magnification in one of its positions; (*miroir plan*)
+***unit magnification mirror*** means a plane or flat mirror with a reflective surface through which the angular height and width of the image of an object is equal to the angular height and width of the object when viewed directly at the same distance except for flaws that do not exceed normal manufacturing tolerances and includes a prismatic day-night adjustment rearview mirror that provides unit magnification in one of its positions; (*miroir plan*)
 
-***unleaded gasoline*** means gasoline that contains not more than
-- **(a)** 0.06 grams of lead per Imperial gallon (0.013 grams per litre), or
-- **(b)** 0.006 grams of phosphorous per Imperial gallon (0.0013 grams per litre); (*essence sans plomb*)
+***unleaded gasoline*** means gasoline that contains not more than
+- **(a)** 0.06 grams of lead per Imperial gallon (0.013 grams per litre), or
+- **(b)** 0.006 grams of phosphorous per Imperial gallon (0.0013 grams per litre); (*essence sans plomb*)
 
-***unloaded vehicle mass*** means the mass of a vehicle equipped with the containers for the fluids necessary for the operation of the vehicle filled to their maximum capacity but without cargo or occupants; (*masse du véhicule sans charge*)
+***unloaded vehicle mass*** means the mass of a vehicle equipped with the containers for the fluids necessary for the operation of the vehicle filled to their maximum capacity but without cargo or occupants; (*masse du véhicule sans charge*)
 
-***unloaded vehicle weight*** means the weight of a vehicle equipped with the containers for the fluids necessary for the operation of the vehicle filled to their maximum capacity, but without cargo or occupants; (*poids du véhicule sans charge*)
+***unloaded vehicle weight*** means the weight of a vehicle equipped with the containers for the fluids necessary for the operation of the vehicle filled to their maximum capacity, but without cargo or occupants; (*poids du véhicule sans charge*)
 
-***upper torso restraint*** means a portion of a seat belt assembly intended to restrain movement of the chest and shoulder regions; (*ceinture-baudrier*)
+***upper torso restraint*** means a portion of a seat belt assembly intended to restrain movement of the chest and shoulder regions; (*ceinture-baudrier*)
 
-***used vehicle***[Repealed, SOR/91-425, s. 1]
+***used vehicle***[Repealed, SOR/91-425, s. 1]
 
-***user-ready tether anchorage*** means a device that transfers the tether strap load from a restraint system or booster seat and its occupant to the vehicle structure or a vehicle seat structure and that is designed to accept a tether strap hook directly, without requiring the installation of any other device; (*ancrage d’attache prêt à utiliser*)
+***user-ready tether anchorage*** means a device that transfers the tether strap load from a restraint system or booster seat and its occupant to the vehicle structure or a vehicle seat structure and that is designed to accept a tether strap hook directly, without requiring the installation of any other device; (*ancrage d’attache prêt à utiliser*)
 
-***vacuum tubing connector***[Repealed, SOR/2007-180, s. 1]
+***vacuum tubing connector***[Repealed, SOR/2007-180, s. 1]
 
-***variable brake proportioning system*** means a system that has one or more proportioning devices that automatically change the brake pressure ratio between any two or more wheels to compensate for changes in wheel loading resulting from static load changes or dynamic weight transfer, or from deceleration; (*compensateur de freinage*)
+***variable brake proportioning system*** means a system that has one or more proportioning devices that automatically change the brake pressure ratio between any two or more wheels to compensate for changes in wheel loading resulting from static load changes or dynamic weight transfer, or from deceleration; (*compensateur de freinage*)
 
-***variable proportioning brake system***[Repealed, SOR/97-200, s. 1]
+***variable proportioning brake system***[Repealed, SOR/97-200, s. 1]
 
-***vehicle***[Repealed, SOR/95-536, s. 7]
+***vehicle***[Repealed, SOR/95-536, s. 7]
 
-***vehicle capacity mass***[Repealed, SOR/2008-258, s. 1]
+***vehicle capacity mass***[Repealed, SOR/2008-258, s. 1]
 
-***vehicle fuel tank capacity*** means
+***vehicle fuel tank capacity*** means
 - **(a)** the volume of fuel left at the bottom of the tank when the fuel pump of the vehicle can no longer draw fuel from the tank
 
 plus
-- **(b)** the volume of fuel that can be pumped into the tank through the filler pipe when the vehicle is on a level surface and the volume of fuel referred to in paragraph (a) is already in the tank,
+- **(b)** the volume of fuel that can be pumped into the tank through the filler pipe when the vehicle is on a level surface and the volume of fuel referred to in paragraph (a) is already in the tank,
 
-except that the volume of fuel referred to in paragraph (b) does not include any volume of fuel that can be pumped into the fuel tank filler neck or into the space above the fuel tank filler neck; (*capacité du réservoir de carburant du véhicule*)
+except that the volume of fuel referred to in paragraph (b) does not include any volume of fuel that can be pumped into the fuel tank filler neck or into the space above the fuel tank filler neck; (*capacité du réservoir de carburant du véhicule*)
 
-***vehicle identification number*** means a number consisting of arabic numerals, roman letters, or both that the manufacturer assigns to the vehicle for identification purposes; (*numéro d’identification du véhicule*)
+***vehicle identification number*** means a number consisting of arabic numerals, roman letters, or both that the manufacturer assigns to the vehicle for identification purposes; (*numéro d’identification du véhicule*)
 
-***vehicle imported temporarily for special purposes*** means a vehicle imported into Canada for a period not longer than one year solely for the purpose of
+***vehicle imported temporarily for special purposes*** means a vehicle imported into Canada for a period not longer than one year solely for the purpose of
 - **(a)** undergoing further manufacturing prior to export, or
-- **(b)** conducting works or operations that require a specially designed vehicle for entertainment industry productions, civil engineering projects or similar works or operations; (*véhicule importé temporairement à des fins spéciales*)
+- **(b)** conducting works or operations that require a specially designed vehicle for entertainment industry productions, civil engineering projects or similar works or operations; (*véhicule importé temporairement à des fins spéciales*)
 
 ***vehicle manufactured for operation by persons with disabilities***[Repealed, SOR/2013-9, s. 1]
 
-***walk-in van*** means a van type of truck in which a person having a height of 1 700 mm can enter the occupant compartment in an upright position by a front door; (*fourgon à accès en position debout*)
+***walk-in van*** means a van type of truck in which a person having a height of 1 700 mm can enter the occupant compartment in an upright position by a front door; (*fourgon à accès en position debout*)
 
-***weather side***[Repealed, SOR/2008-258, s. 1]
+***weather side***[Repealed, SOR/2008-258, s. 1]
 
-***webbing*** means a narrow band of fabric woven with continuous filling yarns and finished selvages; (*sangle*)
+***webbing*** means a narrow band of fabric woven with continuous filling yarns and finished selvages; (*sangle*)
 
-***wet ERBP***[Repealed, SOR/2007-180, s. 1]
+***wet ERBP***[Repealed, SOR/2007-180, s. 1]
 
-***wheelchair location*** means a location in a vehicle that is designed to be used to secure an occupied wheelchair; (*emplacement pour fauteuil roulant*)
+***wheelchair location*** means a location in a vehicle that is designed to be used to secure an occupied wheelchair; (*emplacement pour fauteuil roulant*)
 
-***work vehicle*** means a vehicle designed primarily for the performance of work in the construction of works of civil engineering and in maintenance, that is not constructed on a truck-chassis or truck-type chassis, but does not include a tractor or any vehicle designed primarily to be drawn behind another vehicle. (*véhicule de travail*)
+***work vehicle*** means a vehicle designed primarily for the performance of work in the construction of works of civil engineering and in maintenance, that is not constructed on a truck-chassis or truck-type chassis, but does not include a tractor or any vehicle designed primarily to be drawn behind another vehicle; (*véhicule de travail*)
 
-***5th percentile adult female*** means a person having as physical characteristics a mass of 46.3 kg, height of 1499 mm, erect sitting height of 785 mm, normal sitting height of 752 mm, hip sitting breadth of 325 mm, hip sitting circumference of 925 mm, waist sitting circumference of 599 mm, chest depth of 191 mm, bust circumference of 775 mm, chest upper circumference of 757 mm, chest lower circumference of 676 mm, knee height of 455 mm, popliteal height of 356 mm, elbow rest height of 180 mm, thigh clearance height of 104 mm, buttock-to-knee length of 518 mm, buttock-to-poples length of 432 mm, elbow-to-elbow breadth of 312 mm and seat breadth of 312 mm; (*5<sup>e</sup> percentile adulte du sexe féminin*)
+***5th percentile adult female*** means a person having as physical characteristics a mass of 46.3 kg, height of 1499 mm, erect sitting height of 785 mm, normal sitting height of 752 mm, hip sitting breadth of 325 mm, hip sitting circumference of 925 mm, waist sitting circumference of 599 mm, chest depth of 191 mm, bust circumference of 775 mm, chest upper circumference of 757 mm, chest lower circumference of 676 mm, knee height of 455 mm, popliteal height of 356 mm, elbow rest height of 180 mm, thigh clearance height of 104 mm, buttock-to-knee length of 518 mm, buttock-to-poples length of 432 mm, elbow-to-elbow breadth of 312 mm and seat breadth of 312 mm; (*5<sup>e</sup> percentile adulte du sexe féminin*)
 
-***50th percentile adult male*** means a person having as physical characteristics a mass of 74.4 kg plus or minus 1.4 kg, erect sitting height of 907 mm plus or minus 3 mm, hip sitting breadth of 373 mm plus or minus 18 mm, hip sitting circumference of 1067 mm, waist sitting circumference of 813 mm plus or minus 15 mm, chest depth of 236 mm plus or minus 5 mm and chest circumference of 950 mm plus or minus 15 mm; (*50<sup>e</sup> percentile adulte du sexe masculin*)
+***50th percentile adult male*** means a person having as physical characteristics a mass of 74.4 kg plus or minus 1.4 kg, erect sitting height of 907 mm plus or minus 3 mm, hip sitting breadth of 373 mm plus or minus 18 mm, hip sitting circumference of 1067 mm, waist sitting circumference of 813 mm plus or minus 15 mm, chest depth of 236 mm plus or minus 5 mm and chest circumference of 950 mm plus or minus 15 mm; (*50<sup>e</sup> percentile adulte du sexe masculin*)
 
-***50th percentile six-year-old child*** means a person having as physical characteristics a mass of 21.5 kg, erect sitting height of 645 mm, hip sitting breadth of 213 mm, hip sitting circumference of 607 mm and waist sitting circumference of 528 mm; (*50<sup>e</sup> percentile enfant de six ans*)
+***50th percentile six-year-old child*** means a person having as physical characteristics a mass of 21.5 kg, erect sitting height of 645 mm, hip sitting breadth of 213 mm, hip sitting circumference of 607 mm and waist sitting circumference of 528 mm; (*50<sup>e</sup> percentile enfant de six ans*)
 
-***95th percentile adult male*** means a person having as physical characteristics a mass of 97.5 kg, height of 1849 mm, erect sitting height of 965 mm, normal sitting height of 930 mm, hip sitting breadth of 419 mm, hip sitting circumference of 1199 mm, waist sitting circumference of 1080 mm, chest depth of 267 mm, chest circumference of 1130 mm, knee height of 594 mm, popliteal height of 490 mm, elbow rest height of 295 mm, thigh clearance height of 175 mm, buttock-to-knee length of 640 mm, buttock-to-poples length of 549 mm, elbow-to-elbow breadth of 506 mm and seat breadth of 404 mm. (*95<sup>e</sup> percentile adulte du sexe masculin*)
+***95th percentile adult male*** means a person having as physical characteristics a mass of 97.5 kg, height of 1849 mm, erect sitting height of 965 mm, normal sitting height of 930 mm, hip sitting breadth of 419 mm, hip sitting circumference of 1199 mm, waist sitting circumference of 1080 mm, chest depth of 267 mm, chest circumference of 1130 mm, knee height of 594 mm, popliteal height of 490 mm, elbow rest height of 295 mm, thigh clearance height of 175 mm, buttock-to-knee length of 640 mm, buttock-to-poples length of 549 mm, elbow-to-elbow breadth of 506 mm and seat breadth of 404 mm. (*95<sup>e</sup> percentile adulte du sexe masculin*)
 
-- **(2)** [Repealed, SOR/2009-318, s. 1]
-> SOR/78-257, s. 1; SOR/78-351, s. 1; SOR/78-525, s. 1; SOR/79-306, s. 1; SOR/79-339, s. 1; SOR/79-340, s. 1; SOR/79-374, s. 1; SOR/79-677, s. 1; SOR/79-719, s. 1; SOR/79-940, s. 1; SOR/80-161, s. 1; SOR/80-282, s. 1; SOR/80-439, s. 1; SOR/80-440, s. 1; SOR/80-636, s. 1; SOR/80-638, s. 1; SOR/80-782, s. 1; SOR/81-88, s. 1; SOR/81-1033, s. 1; SOR/82-569, s. 1; SOR/82-656, s. 1; SOR/82-753, s. 1; SOR/82-754, s. 1; SOR/83-176, s. 1; SOR/83-859, s. 1; SOR/84-374, s. 1; SOR/84-812, s. 1; SOR/86-161, s. 1; SOR/86-683, s. 1; SOR/86-976, s. 1; SOR/86-977, s. 1; SOR/87-154, s. 1; SOR/87-497, s. 1; SOR/87-578, s. 1; SOR/87-660, s. 1; SOR/88-268, s. 1; SOR/89-384, s. 1; SOR/90-588, s. 1; SOR/90-805, s. 1; SOR/91-425, s. 1; SOR/91-692, s. 1; SOR/92-173, s. 1; SOR/92-250, s. 1; SOR/92-545, s. 1; SOR/93-5, s. 1; SOR/93-31, s. 1; SOR/93-146, s. 1; SOR/93-561, s. 1; SOR/94-291, s. 1; SOR/94-669, s. 1; SOR/94-670, s. 2(F); SOR/94-692, s. 2(F); SOR/94-717, s. 1; SOR/95-147, s. 1; SOR/95-164, s. 1; SOR/95-536, s. 7; SOR/96-366, s. 1; SOR/97-141, s. 1; SOR/97-200, s. 1; SOR/97-201, s. 1; SOR/97-421, ss. 1, 17, 22(F); SOR/97-447, s. 1; SOR/98-125, s. 1; SOR/98-160, s. 1; SOR/98-457, s. 1; SOR/98-524, s. 1(F); SOR/99-357, s. 1; SOR/2000-182, s. 1; SOR/2000-304, s. 1; SOR/2001-35, s. 1; SOR/2001-117, s. 1; SOR/2001-152, s. 1; SOR/2002-15, s. 25(F); SOR/2002-55, s. 1; SOR/2002-187, s. 1; SOR/2002-205, s. 1; SOR/2003-57, s. 3(F); SOR/2003-272, s. 1; SOR/2004-250, s. 1; SOR/2005-45, s. 1; SOR/2006-94, s. 4(E); SOR/2007-180, s. 1; SOR/2008-72, s. 1; SOR/2008-73, s. 1; SOR/2008-104, s. 1; SOR/2008-229, s. 1; SOR/2008-258, s. 1; SOR/2009-291, s. 1; SOR/2009-318, s. 1; SOR/2011-263, s. 1; SOR/2011-264, s. 1; SOR/2013-9, s. 1; SOR/2013-117, s. 1; SOR/2015-23, s. 1; SOR/2015-24, s. 1.
+- **(2)** In these Regulations, if a document that is available in both official languages is incorporated by reference as amended from time to time, an amendment to one language version of that document is not incorporated until the corresponding amendment is made to the other language version.
+> SOR/78-257, s. 1; SOR/78-351, s. 1; SOR/78-525, s. 1; SOR/79-306, s. 1; SOR/79-339, s. 1; SOR/79-340, s. 1; SOR/79-374, s. 1; SOR/79-677, s. 1; SOR/79-719, s. 1; SOR/79-940, s. 1; SOR/80-161, s. 1; SOR/80-282, s. 1; SOR/80-439, s. 1; SOR/80-440, s. 1; SOR/80-636, s. 1; SOR/80-638, s. 1; SOR/80-782, s. 1; SOR/81-88, s. 1; SOR/81-1033, s. 1; SOR/82-569, s. 1; SOR/82-656, s. 1; SOR/82-753, s. 1; SOR/82-754, s. 1; SOR/83-176, s. 1; SOR/83-859, s. 1; SOR/84-374, s. 1; SOR/84-812, s. 1; SOR/86-161, s. 1; SOR/86-683, s. 1; SOR/86-976, s. 1; SOR/86-977, s. 1; SOR/87-154, s. 1; SOR/87-497, s. 1; SOR/87-578, s. 1; SOR/87-660, s. 1; SOR/88-268, s. 1; SOR/89-384, s. 1; SOR/90-588, s. 1; SOR/90-805, s. 1; SOR/91-425, s. 1; SOR/91-692, s. 1; SOR/92-173, s. 1; SOR/92-250, s. 1; SOR/92-545, s. 1; SOR/93-5, s. 1; SOR/93-31, s. 1; SOR/93-146, s. 1; SOR/93-561, s. 1; SOR/94-291, s. 1; SOR/94-669, s. 1; SOR/94-670, s. 2(F); SOR/94-692, s. 2(F); SOR/94-717, s. 1; SOR/95-147, s. 1; SOR/95-164, s. 1; SOR/95-536, s. 7; SOR/96-366, s. 1; SOR/97-141, s. 1; SOR/97-200, s. 1; SOR/97-201, s. 1; SOR/97-421, ss. 1, 17, 22(F); SOR/97-447, s. 1; SOR/98-125, s. 1; SOR/98-160, s. 1; SOR/98-457, s. 1; SOR/98-524, s. 1(F); SOR/99-357, s. 1; SOR/2000-182, s. 1; SOR/2000-304, s. 1; SOR/2001-35, s. 1; SOR/2001-117, s. 1; SOR/2001-152, s. 1; SOR/2002-15, s. 25(F); SOR/2002-55, s. 1; SOR/2002-187, s. 1; SOR/2002-205, s. 1; SOR/2003-57, s. 3(F); SOR/2003-272, s. 1; SOR/2004-250, s. 1; SOR/2005-45, s. 1; SOR/2006-94, s. 4(E); SOR/2007-180, s. 1; SOR/2008-72, s. 1; SOR/2008-73, s. 1; SOR/2008-104, s. 1; SOR/2008-229, s. 1; SOR/2008-258, s. 1; SOR/2009-291, s. 1; SOR/2009-318, s. 1; SOR/2011-263, s. 1; SOR/2011-264, s. 1; SOR/2013-9, s. 1; SOR/2013-117, s. 1; SOR/2015-23, s. 1; SOR/2015-24, s. 1; SOR/2016-318, s. 1.
 
 
 
@@ -971,14 +971,14 @@ where
 
 **6** 
 
-- **(1)** Subject to subsections (1.1) and 6.6(1), a company that manufactures a vehicle of a prescribed class that is a completed vehicle and that meets the requirements of these Regulations shall ensure that the vehicle, unless it is a vehicle imported temporarily for special purposes, bears a compliance label displaying at least
+- **(1)** Subject to subsections (1.1) and 6.6(1), a company that manufactures a vehicle of a prescribed class that is a completed vehicle and that meets the requirements of these Regulations shall ensure that the vehicle, unless it is a vehicle imported temporarily for special purposes, bears a compliance label displaying at least
 	- **(a)** the name of the manufacturer of the completed vehicle;
 	- **(b)** the month and year the manufacture of the completed vehicle was complete;
-	- **(c)** a drawing at least 13 mm in diameter depicting the national safety mark, as set out in Schedule I, and showing in its centre, in figures at least 2 mm in height, the authorization number assigned by the Minister to the company pursuant to section 3;
+	- **(c)** a drawing at least 13 mm in diameter depicting the national safety mark, as set out in Schedule I, and showing in its centre, in figures at least 2 mm in height, the authorization number assigned by the Minister to the company pursuant to section 3;
 	- **(d)** the vehicle identification number;
 	- **(e)** in the case of a passenger car, multi-purpose passenger vehicle, low-speed vehicle, three-wheeled vehicle, truck, bus, trailer, trailer converter dolly or motorcycle,
 		- **(i)** the gross vehicle weight rating, expressed in kilograms, clearly identified by the words “Gross Vehicle Weight Rating” and “*Poids nominal brut du véhicule*” or the abbreviations “GVWR” and “PNBV”, and
-		- **(ii)** the gross axle weight rating, expressed in kilograms, for each axle of the vehicle listed in order from front to rear and clearly identified by the words “Gross Axle Weight Ratings” and “*Poids nominal brut sur l’essieu*” or the abbreviations “GAWR” and “PNBE”, unless the information is set out on the vehicle placard or on the tire inflation pressure label referred to in section S4.3 of Technical Standards Document No. 110, Tire Selection and Rims for Motor Vehicles With a GVWR of 4,536 kg or Less, or on the tire information label referred to in section S5.3(b) of Technical Standards Document No. 120, Tire Selection and Rims for Motor Vehicles With a GVWR of More Than 4,536 kg;
+		- **(ii)** the gross axle weight rating, expressed in kilograms, for each axle of the vehicle listed in order from front to rear and clearly identified by the words “Gross Axle Weight Ratings” and “*Poids nominal brut sur l’essieu*” or the abbreviations “GAWR” and “PNBE”, unless the information is set out on the vehicle placard or on the tire inflation pressure label referred to in section S4.3 of Technical Standards Document No. 110, Tire Selection and Rims for Motor Vehicles With a GVWR of 4,536 kg or Less, or on the tire information label referred to in section S5.3(b) of Technical Standards Document No. 120, Tire Selection and Rims for Motor Vehicles With a GVWR of More Than 4,536 kg;
 	- **(f)** the type of vehicle, in both official languages, or the word “TYPE” along with one of the following abbreviations, namely,
 		- **(i)** “AMB” to refer to an ambulance,
 		- **(i.1)** “AT/PA” to refer to an auto transporter,
@@ -1007,17 +1007,17 @@ where
 		- **(xxiii)** “MFSAB/AMAS” to refer to a multifunction school activity bus;
 	- **(g)** in the case of a C-dolly, the mounting height, expressed in both official languages, of the coupling when the C-dolly is not loaded; and
 	- **(h)** in the case of a trailer that is designed to tow a C-dolly, the mounting height, expressed in both official languages, of the coupling when the trailer is not loaded;
-	- **(i)** [Repealed, SOR/2002-55, s. 4]
+	- **(i)** [Repealed, SOR/2002-55, s. 4]
 
 - **(1.1)** If an incomplete vehicle manufacturer or an intermediate manufacturer assumes legal responsibility for the completed vehicle’s conformity to the requirements of these Regulations, the incomplete vehicle manufacturer or the intermediate manufacturer, as the case may be, shall ensure that a compliance label is applied to the completed vehicle in accordance with this section, except that
-	- **(a)** the name of the incomplete vehicle manufacturer or the intermediate manufacturer, as the case may be, shall appear on the compliance label instead of the name of the manufacturer referred to in paragraph (1)(a); and
+	- **(a)** the name of the incomplete vehicle manufacturer or the intermediate manufacturer, as the case may be, shall appear on the compliance label instead of the name of the manufacturer referred to in paragraph (1)(a); and
 	- **(b)** the date of manufacture of the completed vehicle may be no earlier than the date on which manufacturing operations on the vehicle are completed by the incomplete vehicle manufacturer and no later than the date on which manufacturing operations on the vehicle are completed by the final-stage manufacturer.
 
-- **(1.2)** If an incomplete vehicle manufacturer assumes legal responsibility for the completed vehicle’s conformity to the requirements of these Regulations, the provisions related to vehicles manufactured in stages set out in sections 6.1 to 6.6 do not apply.
+- **(1.2)** If an incomplete vehicle manufacturer assumes legal responsibility for the completed vehicle’s conformity to the requirements of these Regulations, the provisions related to vehicles manufactured in stages set out in sections 6.1 to 6.6 do not apply.
 
-- **(1.3)** If an intermediate manufacturer assumes legal responsibility for the completed vehicle’s conformity to the requirements of these Regulations, the provisions related to vehicles manufactured in stages set out in sections 6.3 to 6.6 do not apply.
+- **(1.3)** If an intermediate manufacturer assumes legal responsibility for the completed vehicle’s conformity to the requirements of these Regulations, the provisions related to vehicles manufactured in stages set out in sections 6.3 to 6.6 do not apply.
 
-- **(2)** The drawing referred to in paragraph (1)(c)
+- **(2)** The drawing referred to in paragraph (1)(c)
 	- **(a)** may be displayed on a label applied to the vehicle beside the compliance label; or
 	- **(b)** in the case of an imported vehicle, may be replaced by the following statement indicating that the vehicle conforms to the applicable standards prescribed under these Regulations at the time the main assembly of the vehicle was completed:
 
@@ -1032,13 +1032,13 @@ where
 - **(3)** The compliance label shall be applied
 	- **(a)** in the case of a bus, multi-purpose passenger vehicle, three-wheeled vehicle, passenger car, truck or low-speed vehicle,
 		- **(i)** to the hinge pillar, door latch post or the door edge that meets the door latch post next to the driver’s seating position,
-		- **(ii)** to the left side of the instrument panel or the inward-facing surface of the door next to the driver’s seating position, where it is impracticable to apply the label in accordance with subparagraph (i), or
-		- **(iii)** to a conspicuous and readily accessible location, where it is impracticable to apply the label in accordance with subparagraph (i) or (ii);
+		- **(ii)** to the left side of the instrument panel or the inward-facing surface of the door next to the driver’s seating position, where it is impracticable to apply the label in accordance with subparagraph (i), or
+		- **(iii)** to a conspicuous and readily accessible location, where it is impracticable to apply the label in accordance with subparagraph (i) or (ii);
 	- **(b)** in the case of a trailer, to the forward half of the left side of the trailer so that it is easily readable from outside the trailer without moving any part of the trailer;
 	- **(c)** in the case of a motorcycle or a restricted-use motorcycle, to a permanent part of the motorcycle as close as is practicable to the intersection of the steering post and the handlebars so that it is easily readable without moving any part of the motorcycle except the steering system; or
-	- **(d)** in the case of a snowmobile or a snowmobile cutter, to the rear half of the right side of the vehicle so that it is easily readable from outside the vehicle without moving any part of the vehicle.
+	- **(d)** in the case of a snowmobile, to the rear half of the right side of the vehicle so that it is easily readable from outside the vehicle without moving any part of the vehicle.
 
-- **(4) to (7)** [Repealed, SOR/2002-55, s. 4]
+- **(4) to (7)** [Repealed, SOR/2002-55, s. 4]
 
 - **(8)** In the case of a multi-purpose passenger vehicle or bus manufactured from a cutaway chassis, a motor home or a recreational trailer, the compliance label shall display the following information in both official languages:
 	- **(a)** the cargo-carrying capacity of the vehicle;
@@ -1048,18 +1048,18 @@ where
 		- **(i)** the mass of the fresh water, hot water and waste water tanks when full, and
 		- **(ii)** a statement that the displayed cargo-carrying capacity is determined with the fresh water and hot water tanks full and the waste water tanks empty.
 
-- **(8.1)** The information referred to in subsection (8) may be displayed on a separate label applied to the vehicle beside the compliance label or in a conspicuous or readily accessible location.
+- **(8.1)** The information referred to in subsection (8) may be displayed on a separate label applied to the vehicle beside the compliance label or in a conspicuous or readily accessible location.
 
 - **(9)** In the case of a limited-speed motorcycle and a low-speed vehicle, a statement in both official languages that the use of the vehicle may be restricted by provincial authorities to certain roads shall appear on the compliance label or on a separate label permanently applied to the vehicle in a conspicuous location.
 
-- **(10)** [Repealed, SOR/2000-182, s. 2]
+- **(10)** [Repealed, SOR/2000-182, s. 2]
 
 - **(11)** In the case of a model of vehicle in respect of which the Governor in Council has made an exemption order pursuant to section 9 of the Act, the compliance label or information label applied to the vehicle, as the case may be, shall also specify, in both official languages,
 	- **(a)** the number and title of the standard in respect of which the exemption has been granted; and
 	- **(b)** the short title of the exemption order.
 
-- **(12) and (13)** [Repealed, SOR/2000-182, s. 2]
-> SOR/79-940, s. 2; SOR/81-455, s. 1; SOR/82-482, s. 4; SOR/87-660, s. 2; SOR/88-268, s. 3; SOR/91-528, s. 1; SOR/93-146, s. 2; SOR/95-147, s. 2; SOR/98-125, s. 3; SOR/2000-182, s. 2; SOR/2000-304, s. 2; SOR/2002-55, ss. 4, 21; SOR/2003-272, s. 4; SOR/2004-250, s. 2; SOR/2005-342, s. 1; SOR/2006-94, s. 4(E); SOR/2008-258, s. 3; SOR/2015-23, s. 2.
+- **(12) and (13)** [Repealed, SOR/2000-182, s. 2]
+> SOR/79-940, s. 2; SOR/81-455, s. 1; SOR/82-482, s. 4; SOR/87-660, s. 2; SOR/88-268, s. 3; SOR/91-528, s. 1; SOR/93-146, s. 2; SOR/95-147, s. 2; SOR/98-125, s. 3; SOR/2000-182, s. 2; SOR/2000-304, s. 2; SOR/2002-55, ss. 4, 21; SOR/2003-272, s. 4; SOR/2004-250, s. 2; SOR/2005-342, s. 1; SOR/2006-94, s. 4(E); SOR/2008-258, s. 3; SOR/2015-23, s. 2; SOR/2016-318, s. 2.
 
 
 
@@ -1310,45 +1310,45 @@ where
 
 **12** 
 
-- **(1)** The company contracted to the Department of Transport to establish and operate the national program of vehicle inspection, certification and registration, to be known as the registrar of imported vehicles, is the person designated for the purposes of subsection 7(2) of the Act.
+- **(1)** The company contracted to the Department of Transport to establish and operate the national program of vehicle inspection, certification and registration, to be known as the registrar of imported vehicles, is the person designated for the purposes of subsection 7(2) of the Act.
 
-- **(2)** Subsection 7(2) of the Act does not apply to a person who is a company referred to in paragraph (a) or (b) of the definition ***company*** in section 2 of the Act.
+- **(2)** Subsection 7(2) of the Act does not apply to a person who is a company referred to in paragraph (a) or (b) of the definition ***company*** in section 2 of the Act.
 
-- **(3)** For the purposes of subsection 7(2) of the Act, a person may import into Canada a vehicle referred to in that subsection where the following conditions are met:
-	- **(a)** in the case of a vehicle other than a restricted-use motorcycle, a snowmobile or a snowmobile cutter, the vehicle was manufactured by a company to conform to the applicable United States federal laws on the date of manufacture, as shown on the American compliance labels on the vehicle or on a written statement from each company that manufactured the vehicle;
+- **(3)** For the purposes of subsection 7(2) of the Act, a person may import into Canada a vehicle referred to in that subsection where the following conditions are met:
+	- **(a)** in the case of a vehicle other than a restricted-use motorcycle or a snowmobile, the vehicle was manufactured by a company to conform to the applicable United States federal laws on the date of manufacture, as shown on the American compliance labels on the vehicle or on a written statement from each company that manufactured the vehicle;
 	- **(a.1)** in the case of a snowmobile, the vehicle was manufactured by a company to conform, on the date of manufacture, to the applicable safety standards of the Snowmobile Safety and Certification Committee, Inc., as shown on the certification label on the snowmobile or on a written statement from the company that manufactured the snowmobile;
 	- **(b)** any defect in the vehicle’s construction, design or functioning, or in the construction, design or functioning of its components, that was the subject of a notice of defect or nonconformity under United States federal laws was corrected;
-	- **(c)** in the case of an incomplete vehicle, truck, enclosed motorcycle, multi-purpose passenger vehicle, three-wheeled vehicle, passenger car or bus, the vehicle was manufactured by the company that completed the main assembly of the vehicle to conform to section 210 of Schedule IV;
-	- **(d)** in the case of a school bus, the vehicle was manufactured by the company that completed the main assembly of the vehicle to conform to section 222 of Schedule IV;
+	- **(c)** in the case of an incomplete vehicle, truck, enclosed motorcycle, multi-purpose passenger vehicle, three-wheeled vehicle, passenger car or bus, the vehicle was manufactured by the company that completed the main assembly of the vehicle to conform to section 210 of Schedule IV;
+	- **(d)** in the case of a school bus, the vehicle was manufactured by the company that completed the main assembly of the vehicle to conform to section 222 of Schedule IV;
 	- **(d.1)** in the case of a restricted-use motorcycle, the vehicle is designed to travel on two or four wheels;
-	- **(e)** where the person is importing the vehicle for sale or for any commercial, industrial, occupational, institutional or other like use, the vehicle is imported at a customs office designated in Schedule VIII; and
-	- **(f)** the person registers the vehicle with the registrar of imported vehicles, and makes a declaration, in the manner set out in subsection (6).
+	- **(e)** where the person is importing the vehicle for sale or for any commercial, industrial, occupational, institutional or other like use, the vehicle is imported at a customs office designated in Schedule VIII; and
+	- **(f)** the person registers the vehicle with the registrar of imported vehicles, and makes a declaration, in the manner set out in subsection (6).
 
-- **(4)** Notwithstanding paragraph (3)(c) a person may import a vehicle that does not comply with section 210 of Schedule IV if, before being certified by the registrar of imported vehicles, the vehicle can be made to conform to that section by changing a seat or the seat tracks for a seat or seat tracks that are used in vehicles of the same make and model that are manufactured for the Canadian market.
+- **(4)** Notwithstanding paragraph (3)(c) a person may import a vehicle that does not comply with section 210 of Schedule IV if, before being certified by the registrar of imported vehicles, the vehicle can be made to conform to that section by changing a seat or the seat tracks for a seat or seat tracks that are used in vehicles of the same make and model that are manufactured for the Canadian market.
 
-- **(4.1)** For the purposes of subsection 7(2) of the Act, a vehicle that has been sold at the retail level in the United States and that has not been certified by the manufacturer as conforming to subsection 114(4) of Schedule IV to these Regulations may be imported into Canada despite not being certified to conform to subsection 114(4) if
+- **(4.1)** For the purposes of subsection 7(2) of the Act, a vehicle that has been sold at the retail level in the United States and that has not been certified by the manufacturer as conforming to subsection 114(4) of Schedule IV to these Regulations may be imported into Canada despite not being certified to conform to subsection 114(4) if
 	- **(a)** the vehicle was fitted at the time of manufacture with an electronic immobilization system; or
 	- **(b)** the person importing the vehicle states in their declaration that the vehicle
 		- **(i)** will be fitted with an immobilization system that conforms to National Standard of Canada CAN/ULC-S338-98, entitled Automobile Theft Deterrent Equipment and Systems: Electronic Immobilization (May 1998), published by the Underwriters’ Laboratories of Canada, before it is presented for registration under the laws of a province, and
-		- **(ii)** will be taken, within 45 days after its importation, to an inspection station authorized by the registrar of imported vehicles to carry out an inspection function to determine that the vehicle has been made to conform to the standard.
+		- **(ii)** will be taken, within 45 days after its importation, to an inspection station authorized by the registrar of imported vehicles to carry out an inspection function to determine that the vehicle has been made to conform to the standard.
 
-- **(5)** The declaration referred to in paragraph (3)(f) shall be signed by the person importing the vehicle or that person’s duly authorized representative and set out
+- **(5)** The declaration referred to in paragraph (3)(f) shall be signed by the person importing the vehicle or that person’s duly authorized representative and set out
 	- **(a)** the class, make, model and vehicle identification number of the vehicle;
 	- **(b)** the date the vehicle is presented for importation;
 	- **(c)** the name and address of the company or individual importing the vehicle;
-	- **(d)** in the case of a vehicle other than a restricted-use motorcycle, a snowmobile or a snowmobile cutter, where the vehicle bears the compliance labels referred to in paragraph (3)(a), a statement that the vehicle bears those labels and, where required by United States federal laws, the vehicle emission control label applied by the company that manufactured the vehicle;
-	- **(d.1)** in the case of a snowmobile, where the snowmobile bears the certification label referred to in paragraph (3)(a.1), a statement that the vehicle bears that label;
-	- **(e)** where a vehicle referred to in paragraph (d) does not bear the labels referred to in that paragraph, a statement from each company that manufactured the vehicle or its duly authorized representative that, on the date of manufacture, the vehicle conformed to the applicable United States federal laws;
-	- **(e.1)** where a snowmobile does not bear the certification label referred to in paragraph (d.1), a statement from the company that manufactured the vehicle or its duly authorized representative that, on the date of manufacture, the vehicle conformed to the applicable safety standards of the Snowmobile Safety and Certification Committee, Inc.;
+	- **(d)** in the case of a vehicle other than a restricted-use motorcycle or a snowmobile, where the vehicle bears the compliance labels referred to in paragraph (3)(a), a statement that the vehicle bears those labels and, where required by United States federal laws, the vehicle emission control label applied by the company that manufactured the vehicle;
+	- **(d.1)** in the case of a snowmobile, where the snowmobile bears the certification label referred to in paragraph (3)(a.1), a statement that the vehicle bears that label;
+	- **(e)** where a vehicle referred to in paragraph (d) does not bear the labels referred to in that paragraph, a statement from each company that manufactured the vehicle or its duly authorized representative that, on the date of manufacture, the vehicle conformed to the applicable United States federal laws;
+	- **(e.1)** where a snowmobile does not bear the certification label referred to in paragraph (d.1), a statement from the company that manufactured the vehicle or its duly authorized representative that, on the date of manufacture, the vehicle conformed to the applicable safety standards of the Snowmobile Safety and Certification Committee, Inc.;
 	- **(f)** where an American compliance label is applied to the vehicle, the name of the company that manufactured the vehicle, as shown on the label;
 	- **(g)** the month and year during which the main assembly of the vehicle was completed, as shown on the American compliance label applied to the vehicle or on the statement by the company that completed the main assembly of the vehicle or by its duly authorized representative; and
-	- **(h)** a statement that the vehicle will be made to conform to all applicable standards prescribed under these Regulations for that class of vehicle and will be taken, within 45 days after its importation, to an inspection station authorized by the registrar of imported vehicles to carry out an inspection function to determine that a vehicle has been made to conform to the Canada motor vehicle safety standards.
+	- **(h)** a statement that the vehicle will be made to conform to all applicable standards prescribed under these Regulations for that class of vehicle and will be taken, within 45 days after its importation, to an inspection station authorized by the registrar of imported vehicles to carry out an inspection function to determine that a vehicle has been made to conform to the Canada motor vehicle safety standards.
 
 - **(6)** A declaration and registration shall be made using the form provided by the Minister:
-	- **(a)** in the case of a person referred to in paragraph (3)(e), at a designated customs office; and
+	- **(a)** in the case of a person referred to in paragraph (3)(e), at a designated customs office; and
 	- **(b)** in any other case, at the nearest customs office that is open for business.
 
-- **(7)** An authorized inspection station shall determine that a vehicle referred to in subsection 7(2) of the Act has been made to conform to the Canada motor vehicle safety standards.
+- **(7)** An authorized inspection station shall determine that a vehicle referred to in subsection 7(2) of the Act has been made to conform to the Canada motor vehicle safety standards.
 
 - **(8)** A vehicle that has been determined to conform to the standards prescribed under these Regulations and in respect of which a certificate of conformity has been issued by the registrar of imported vehicles, shall bear a label in both official languages that displays at least the following information:
 	- **(a)** the name and address of
@@ -1361,18 +1361,18 @@ where
 		- **(i)** the gross vehicle weight rating of the vehicle expressed in kilograms, and
 		- **(ii)** the gross axle weight rating for each axle of the vehicle, expressed in kilograms and listed in order from front to rear.
 
-- **(9)** The label referred to in subsection (8) shall
+- **(9)** The label referred to in subsection (8) shall
 	- **(a)** be permanently applied
-		- **(i)** to the same surface as that to which a compliance label referred to in paragraph (3)(a) is applied, or
-		- **(ii)** where none of the compliance labels referred to in paragraph (3)(a) is applied to the vehicle, in the appropriate location referred to in subsection 6(3);
+		- **(i)** to the same surface as that to which a compliance label referred to in paragraph (3)(a) is applied, or
+		- **(ii)** where none of the compliance labels referred to in paragraph (3)(a) is applied to the vehicle, in the appropriate location referred to in subsection 6(3);
 	- **(b)** be resistant to or protected against any weather condition to which the label may be exposed; and
 	- **(c)** have lettering that is
 		- **(i)** clear and indelible,
 		- **(ii)** indented, embossed or in a colour that contrasts with the background colour of the label, and
 		- **(iii)** in block capitals and numerals not less than 2 mm in height.
 
-- **(10)** Where any compliance label referred to in paragraph (3)(a) is not applied to the vehicle, a statement that indicates that the vehicle was manufactured to conform to the applicable United States federal laws on the date of manufacture shall be displayed on the label referred to in subsection (8) or on a label applied beside that compliance label.
-> SOR/80-441, s. 1; SOR/95-147, s. 2; SOR/96-90, s. 1; SOR/2000-304, s. 3; SOR/2002-55, s. 10; SOR/2003-272, s. 5; SOR/2006-94, s. 4(E); SOR/2007-307, s. 1.
+- **(10)** Where any compliance label referred to in paragraph (3)(a) is not applied to the vehicle, a statement that indicates that the vehicle was manufactured to conform to the applicable United States federal laws on the date of manufacture shall be displayed on the label referred to in subsection (8) or on a label applied beside that compliance label.
+> SOR/80-441, s. 1; SOR/95-147, s. 2; SOR/96-90, s. 1; SOR/2000-304, s. 3; SOR/2002-55, s. 10; SOR/2003-272, s. 5; SOR/2006-94, s. 4(E); SOR/2007-307, s. 1; SOR/2016-318, s. 3.
 
 
 
@@ -1615,7 +1615,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <th>Multi-purpose Passenger Vehicle</th>
 <th>Passenger Car</th>
 <th>Snow­mobile</th>
-<th>Snow­mobile Cutter</th>
 <th>Trailer</th>
 <th>Trailer Converter Dolly</th>
 <th>Truck</th>
@@ -1647,7 +1646,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -1664,7 +1662,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1687,7 +1684,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -1704,7 +1700,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1727,7 +1722,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -1744,7 +1738,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td>X</td>
 <td>X</td>
@@ -1764,7 +1757,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td>X</td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td>X</td>
 <td></td>
@@ -1787,7 +1779,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -1804,7 +1795,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td>X</td>
 <td>X</td>
@@ -1827,7 +1817,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -1844,7 +1833,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1867,7 +1855,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -1885,7 +1872,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td>X</td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td>X</td>
 <td>X</td>
 <td>X</td>
@@ -1904,7 +1890,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td>X</td>
 <td>X</td>
@@ -1927,7 +1912,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -1945,7 +1929,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td>X</td>
 <td>X</td>
 <td></td>
-<td></td>
 <td>X</td>
 <td>X</td>
 <td>X</td>
@@ -1957,7 +1940,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td>121</td>
 <td>Air Brake Systems</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1991,7 +1973,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>123</td>
@@ -2001,7 +1982,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td>X</td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2027,7 +2007,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -2047,7 +2026,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -2057,7 +2035,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td>131</td>
 <td>School Bus Pedestrian Safety Devices</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2087,7 +2064,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -2104,7 +2080,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2127,7 +2102,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -2144,7 +2118,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2167,7 +2140,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -2184,7 +2156,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td>X</td>
 <td></td>
@@ -2207,7 +2178,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -2227,7 +2197,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -2235,7 +2204,7 @@ Issued in Ottawa on _________________________, 20_________________________
 </tr>
 <tr>
 <td>208</td>
-<td>Occupant Restraint Systems in Frontal Impact</td>
+<td>Occupant Protection in Frontal Impacts</td>
 <td>X</td>
 <td>X</td>
 <td></td>
@@ -2244,7 +2213,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2267,7 +2235,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td></td>
 <td>X</td>
@@ -2284,7 +2251,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2307,7 +2273,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -2324,7 +2289,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2347,7 +2311,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -2367,7 +2330,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -2384,7 +2346,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2411,7 +2372,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>216</td>
@@ -2427,7 +2387,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -2437,7 +2396,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td>217</td>
 <td>Bus Window Retention, Release and Emergency Exits</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2467,7 +2425,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -2487,7 +2444,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -2497,7 +2453,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td>221</td>
 <td>School Bus Body Joint Strength</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2531,12 +2486,10 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>223</td>
 <td>Rear Impact Guards</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2567,7 +2520,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -2587,7 +2539,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -2604,7 +2555,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2630,7 +2580,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 </tr>
 <tr>
@@ -2644,7 +2593,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2664,7 +2612,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2690,13 +2637,11 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 </tr>
 <tr>
 <td>500</td>
 <td>Low-speed Vehicles</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2730,13 +2675,11 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 </tr>
 <tr>
 <td>901</td>
 <td>Axles</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2766,7 +2709,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -2776,7 +2718,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <tr>
 <td>904</td>
 <td>C-dolly Hitch Requirements</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2805,7 +2746,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -2816,7 +2756,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <tr>
 <td>906</td>
 <td>Snowmobile Trailers</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2847,7 +2786,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -2855,7 +2793,7 @@ Issued in Ottawa on _________________________, 20_________________________
 </tr>
 <tr>
 <td>1201</td>
-<td>Snowmobile Standards</td>
+<td>Snowmobiles</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2865,7 +2803,6 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td></td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2875,23 +2812,7 @@ Issued in Ottawa on _________________________, 20_________________________
 </tr>
 <tr>
 <td>1202</td>
-<td>Snowmobile Cutters</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>X</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>[Repealed, SOR/2016-318, s. 7]</td>
 </tr>
 <tr>
 <td>1207 to 1209</td>
@@ -2899,7 +2820,7 @@ Issued in Ottawa on _________________________, 20_________________________
 </tr>
 </table>
 
-> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F);SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1; SOR/2007-180, ss. 2 to 4; SOR/2007-246, s. 1; SOR/2008-73, s. 2; SOR/2008-104, ss. 7(F), 8(F); SOR/2008-229, s. 2; SOR/2008-258, ss. 5, 6; SOR/2009-33, s. 1(F); SOR/2009-121, s. 1; SOR/2009-291, ss. 2, 3; SOR/2009-318, ss. 4, 5(E), 6(F), 7(F); SOR/2009-323, s. 1; SOR/2011-264, s. 3; SOR/2013-117, ss. 4, 5; SOR/2015-24, s. 2; SOR/2016-254, s. 1.
+> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F);SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1; SOR/2007-180, ss. 2 to 4; SOR/2007-246, s. 1; SOR/2008-73, s. 2; SOR/2008-104, ss. 7(F), 8(F); SOR/2008-229, s. 2; SOR/2008-258, ss. 5, 6; SOR/2009-33, s. 1(F); SOR/2009-121, s. 1; SOR/2009-291, ss. 2, 3; SOR/2009-318, ss. 4, 5(E), 6(F), 7(F); SOR/2009-323, s. 1; SOR/2011-264, s. 3; SOR/2013-117, ss. 4, 5; SOR/2015-24, s. 2; SOR/2016-254, s. 1; SOR/2016-318, ss. 4, 5(F), 6 to 8.
 
 
 
@@ -3595,15 +3516,15 @@ or
 
 - **(1)** In this section,
 
-***critical area*** means area C as referred to in section 104 of this Schedule; (*zone critique*) 
+***critical area*** means area C as referred to in section 104 of this Schedule; (*zone critique*)
 
-***defog*** means to remove moisture from the inside surface of the glass; (*désembuer*) 
+***defog*** means to remove moisture from the inside surface of the glass; (*désembuer*)
 
-***defrost*** means to melt frost or ice on the inside or outside surface of the glass; (*dégivrer*) 
+***defrost*** means to melt frost or ice on the inside or outside surface of the glass; (*dégivrer*)
 
-***entire windshield*** means area A as referred to in section 104 of this Schedule; (*pare-brise tout entier*) 
+***entire windshield*** means area A as referred to in section 104 of this Schedule; (*pare-brise tout entier*)
 
-***road load*** means the power output required to move the vehicle at the curb mass plus 180 kg on level, clean, dry, smooth portland cement concrete pavement or other surface with an equivalent coefficient of surface friction at a specified speed through still air at 20°C and a standard barometric pressure of 101.3 kPa, and includes driveline friction, rolling friction and air resistance. (*charge de route*) 
+***road load*** means the power output required to move the vehicle at the curb mass plus 180 kg on level, clean, dry, smooth portland cement concrete pavement or other surface with an equivalent coefficient of surface friction at a specified speed through still air at 20°C and a standard barometric pressure of 101.3 kPa, and includes driveline friction, rolling friction and air resistance. (*charge de route*)
 
 - **(2)** Subject to subsection (2.1), every vehicle shall be equipped with a windshield defrosting and defogging system.
 
@@ -3635,23 +3556,23 @@ or
 
 - **(1)** In this section,
 
-***areas A, B and C*** means the areas referred to in Column I of Tables I, II, III and IV to this section when established as shown in Figures 1 and 2 of SAE Recommended Practice J903a Passenger Car Windshield Wiper Systems, (May 1966), using the angles specified in Columns III to VI of the above Tables; (*zones A, B et C*) 
+***areas A, B and C*** means the areas referred to in Column I of Tables I, II, III and IV to this section when established as shown in Figures 1 and 2 of SAE Recommended Practice J903a Passenger Car Windshield Wiper Systems, (May 1966), using the angles specified in Columns III to VI of the above Tables; (*zones A, B et C*)
 
-***daylight opening*** means the maximum unobstructed opening through the glazing surface as defined in paragraph 2.3.12 of Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*ouverture de jour*) 
+***daylight opening*** means the maximum unobstructed opening through the glazing surface as defined in paragraph 2.3.12 of Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*ouverture de jour*)
 
-***glazing surface reference line*** means the intersection of the glazing surface and a horizontal plane 635 mm above the seating reference point, as shown in Figure 1 of SAE Recommended Practice J903a (May 1966); (*ligne de référence de la surface vitrée*) 
+***glazing surface reference line*** means the intersection of the glazing surface and a horizontal plane 635 mm above the seating reference point, as shown in Figure 1 of SAE Recommended Practice J903a (May 1966); (*ligne de référence de la surface vitrée*)
 
-***overall width*** means the maximum overall body width dimension W116 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*largeur hors tout*) 
+***overall width*** means the maximum overall body width dimension W116 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*largeur hors tout*)
 
-***plan view reference line*** means, 
+***plan view reference line*** means,
 - **(a)** in respect of vehicles with a bench type front seat, a line parallel to the longitudinal centreline of the vehicle and outboard of the centre of the steering wheel by a distance equal to 0.15 times the difference between one-half the shoulder room dimension and the steering wheel centre offset, as shown in Figure 2 of SAE Recommended Practice J903a, (May 1966); and
 - **(b)** in respect of vehicles with individual front seats,
 	- **(i)** a line parallel to the longitudinal centreline of the vehicle which passes through the centre of the driver’s designated seating position, or
-	- **(ii)** a line parallel to the longitudinal centreline of the vehicle located so that the geometric centre of the 95 per cent eye range contour is positioned on the longitudinal centreline of the driver’s designated seating position; (*ligne de référence longitudinale*)
+	- **(ii)** a line parallel to the longitudinal centreline of the vehicle located so that the geometric centre of the 95 per cent eye range contour is positioned on the longitudinal centreline of the driver’s designated seating position; (*ligne de référence longitudinale*)
 
-***shoulder room dimension*** means the front shoulder room dimension W3 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*espace d’épaules*) 
+***shoulder room dimension*** means the front shoulder room dimension W3 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*espace d’épaules*)
 
-***95 per cent eye range contour*** means the 95th percentile tangential cut-off specified in SAE Recommended Practice J941a Passenger Car Driver’s Eye Range, (August 1967). (*95 pour cent du contour de portée visuelle*) 
+***95 per cent eye range contour*** means the 95th percentile tangential cut-off specified in SAE Recommended Practice J941a Passenger Car Driver’s Eye Range, (August 1967). (*95 pour cent du contour de portée visuelle*)
 
 - **(2)** For the purposes of this section, the expressions “manikin H-point”, “manikin H-point with seat in rearmost position”, and “H-point” used in an SAE Standard or SAE Recommended Practice mean “seating reference point”.
 
@@ -4332,11 +4253,11 @@ or
 
 - **(7)** The following definitions apply for the purposes of TSD 110.
 
-***load rating*** means the maximum load a tire is rated to carry at a given inflation pressure. (*charge nominale*) 
+***load rating*** means the maximum load a tire is rated to carry at a given inflation pressure. (*charge nominale*)
 
-***maximum load rating*** means the load rating at the maximum permissible inflation pressure for that tire. (*limite de charge nominale*) 
+***maximum load rating*** means the load rating at the maximum permissible inflation pressure for that tire. (*limite de charge nominale*)
 
-***rim base*** means that portion of a rim remaining after the removal of all split or continuous rim flanges, side rings, and locking rings that can be detached from the rim. (*base de jante*) 
+***rim base*** means that portion of a rim remaining after the removal of all split or continuous rim flanges, side rings, and locking rings that can be detached from the rim. (*base de jante*)
 
 #### Load Range Identification Symbol
 
@@ -5142,9 +5063,9 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(4)** The following definitions apply for the purposes of TSD 120.
 
-***load rating*** means the maximum load a tire is rated to carry at a given inflation pressure. (*charge nominale*) 
+***load rating*** means the maximum load a tire is rated to carry at a given inflation pressure. (*charge nominale*)
 
-***maximum load rating*** means the load rating at the maximum permissible inflation pressure for that tire. (*limite de charge nominale*) 
+***maximum load rating*** means the load rating at the maximum permissible inflation pressure for that tire. (*limite de charge nominale*)
 
 #### Load Range Identification Symbol
 
@@ -5366,22 +5287,22 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(1)** In this section,
 
-***head impact area*** means the non-glazed surfaces of the interior of the vehicle that are capable of being contacted statically by the head form of a measuring device in accordance with the following procedure or its graphic equivalent: 
+***head impact area*** means the non-glazed surfaces of the interior of the vehicle that are capable of being contacted statically by the head form of a measuring device in accordance with the following procedure or its graphic equivalent: 
 - **(a)** at each designated seating position, by placing the pivot point of the measuring device,
 	- **(i)** for seats that are adjustable fore and aft, at
 		- **(A)** the seating reference point, and
 		- **(B)** a point 130 mm (five inches) horizontally forward of the seating reference point displaced vertically 20 mm (0.75 inches) or a distance equal to the rise that results from a 130 mm (five inches) forward adjustment of the seat, and
 	- **(ii)** for seats that are not adjustable fore and aft, at the seating reference point,
 - **(b)** with the pivot point to top-of-head dimension at each adjustment allowed for the measuring device by the interior dimension of the vehicle, by determining all contact points above the lower windshield glass line and forward of the seating reference point, and
-- **(c)** beginning with the head form of the measuring device at each contact point referred to in paragraph (b) and with the measuring device in a vertical position if no contact point exists for a particular adjusted length, by pivoting the measuring device forward and downward through all arcs in vertical planes to 90° each side of the longitudinal plane through the seating reference point until the head form contacts an interior surface or until it is tangent to a horizontal plane 25 mm (1 inch) above the seating reference point, whichever occurs first; (*zone d’impact de la tête*)
+- **(c)** beginning with the head form of the measuring device at each contact point referred to in paragraph (b) and with the measuring device in a vertical position if no contact point exists for a particular adjusted length, by pivoting the measuring device forward and downward through all arcs in vertical planes to 90° each side of the longitudinal plane through the seating reference point until the head form contacts an interior surface or until it is tangent to a horizontal plane 25 mm (1 inch) above the seating reference point, whichever occurs first; (*zone d’impact de la tête*)
 
-***interior compartment door*** means any door in the interior of a vehicle installed by the manufacturer as a cover for storage space normally used for personal effects; (*porte de compartiment intérieur*) 
+***interior compartment door*** means any door in the interior of a vehicle installed by the manufacturer as a cover for storage space normally used for personal effects; (*porte de compartiment intérieur*)
 
-***measuring device*** means a device having a spherical head form with a diameter of 165 mm (6.5 inches) attached to a pivot, with the distance between the pivot point and the top of the head form being adjustable at any point between 740 mm (29 inches) and 840 mm (33 inches); (*appareil de mesure*) 
+***measuring device*** means a device having a spherical head form with a diameter of 165 mm (6.5 inches) attached to a pivot, with the distance between the pivot point and the top of the head form being adjustable at any point between 740 mm (29 inches) and 840 mm (33 inches); (*appareil de mesure*)
 
-***pelvic impact area*** means that area of the door or body side panel adjacent to any outboard designated seating position that is bounded by: 
+***pelvic impact area*** means that area of the door or body side panel adjacent to any outboard designated seating position that is bounded by: 
 - **(a)** horizontal planes 180 mm (seven inches) above and 100 mm (four inches) below the seating reference point, and
-- **(b)** vertical transverse planes 200 mm (eight inches) forward and 50 mm (two inches) rearward of the seating reference point. (*zone d’impact pelvienne*)
+- **(b)** vertical transverse planes 200 mm (eight inches) forward and 50 mm (two inches) rearward of the seating reference point. (*zone d’impact pelvienne*)
 
 - **(2)** This section applies to passenger cars and to multi-purpose passenger vehicles, trucks and buses with a GVWR of 4 536 kg (10,000 pounds) or less.
 
@@ -5555,10 +5476,10 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(2)** The label referred to in S4.4 of TSD 207 shall be in both official languages.
 
-- **(3)** In the case of a truck or multi-purpose passenger vehicle with a GVWR greater than 4 563 kg or a motor home, a seat that is labelled in accordance with S4.4 of TSD 207 is not considered to be a designated seating position.
+- **(3)** In the case of a truck or multi-purpose passenger vehicle with a GVWR greater than 4 536 kg or a motor home, a seat that is labelled in accordance with S4.4 of TSD 207 is not considered to be a designated seating position.
 
 - **(4)** [Repealed, SOR/2014-307, s. 17]
-> SOR/2011-264, s. 5; SOR/2014-307, s. 17..
+> SOR/2011-264, s. 5; SOR/2014-307, s. 17; SOR/2016-318, s. 9..
 
 
 
@@ -5604,14 +5525,23 @@ All spaces provided for in the vehicle identification number must be occupied by
 			- **(A)** can be adjusted by means of an emergency-locking retractor, an automatic-locking retractor or a manual adjusting device, and
 			- **(B)** cannot be detached from any anchorage point.
 
-- **(3)** Every truck and multi-purpose passenger vehicle with a GVWR greater than 4 536 kg shall be equipped at each designated seating position
-	- **(a)** with a Type 2 manual seat belt assembly that
-		- **(i)** has an upper torso restraint that cannot be detached from the pelvic restraint,
-		- **(ii)** can be adjusted by means of an emergency-locking retractor or an automatic-locking retractor, and
-		- **(iii)** cannot be detached from any anchorage point; or
-	- **(b)** with a Type 1 manual seat belt assembly that
-		- **(i)** can be adjusted by means of an emergency-locking retractor or an automatic-locking retractor, and
-		- **(ii)** cannot be detached from any anchorage point.
+- **(3)** Every truck and multi-purpose passenger vehicle with a GVWR greater than 4 536 kg shall be equipped
+	- **(a)** at each front outboard designated seating position
+		- **(i)** with a Type 2 manual seat belt assembly that
+			- **(A)** has an upper torso restraint that cannot be detached from the pelvic restraint,
+			- **(B)** can be adjusted by means of an emergency-locking retractor or an automatic-locking retractor, and
+			- **(C)** cannot be detached from any anchorage point, or
+		- **(ii)** with a Type 1 manual seat belt assembly that
+			- **(A)** can be adjusted by means of an emergency-locking retractor or an automatic-locking retractor, and
+			- **(B)** cannot be detached from any anchorage point; and
+	- **(b)** at each front inboard designated seating position and at each rear designated seating position
+		- **(i)** with a Type 2 manual seat belt assembly that
+			- **(A)** has an upper torso restraint that cannot be detached from the pelvic restraint,
+			- **(B)** can be adjusted by means of an emergency-locking retractor, an automatic-locking retractor or a manual adjusting device, and
+			- **(C)** cannot be detached from any anchorage point, or
+		- **(ii)** with a Type 1 manual seat belt assembly that
+			- **(A)** can be adjusted by means of an emergency-locking retractor, an automatic-locking retractor or a manual adjusting device, and
+			- **(B)** cannot be detached from any anchorage point.
 
 - **(4)** In the case of a motor home, the number of designated seating positions with seat belts shall not be less than the number of sleeping positions.
 
@@ -5716,7 +5646,7 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 
 - **(26)** Until September 1, 2015, trucks, buses, enclosed motorcycles, multi-purpose passenger vehicles, passenger cars and three-wheeled vehicles may conform to the requirements of this section as it read on the day before the day on which this subsection came into force.
-> SOR/78-80, s. 2; SOR/80-782, s. 2; SOR/87-578, s. 2; SOR/90-387, s. 3; SOR/93-5, s. 4; SOR/97-201, s. 5; SOR/97-447, s. 5; SOR/98-125, s. 6; SOR/98-524, s. 4(F); SOR/2002-55, s. 17; SOR/2003-272, s. 24; SOR/2006-94, s. 4(E); SOR/2007-180, s. 12; SOR/2008-72, s. 6; SOR/2008-104, s. 16(F); SOR/2013-9, ss. 5, 6; SOR/2014-307, s. 18..
+> SOR/78-80, s. 2; SOR/80-782, s. 2; SOR/87-578, s. 2; SOR/90-387, s. 3; SOR/93-5, s. 4; SOR/97-201, s. 5; SOR/97-447, s. 5; SOR/98-125, s. 6; SOR/98-524, s. 4(F); SOR/2002-55, s. 17; SOR/2003-272, s. 24; SOR/2006-94, s. 4(E); SOR/2007-180, s. 12; SOR/2008-72, s. 6; SOR/2008-104, s. 16(F); SOR/2013-9, ss. 5, 6; SOR/2014-307, s. 18; SOR/2016-318, s. 10..
 
 
 
@@ -5731,9 +5661,7 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(2)** The pelvic restraint of a Type 2 manual seat belt assembly that is equipped with a detachable upper torso restraint shall meet all requirements for a Type 1 seat belt assembly set out in these Regulations.
 
-- **(3) to (6)** [Repealed, SOR/2013-117, s. 6]
-
-- **(7)** A reference in TSD 209 to a standard published by ASTM or AATCC that is set out in column 1 of the table to this subsection may be read as a reference to the standard set out opposite that standard in column 2 of the table.
+- **(3)** A reference in TSD 209 to a standard published by ASTM or AATCC that is set out in column 1 of the table to this subsection may be read as a reference to the standard set out in column 2.
 #### TABLE
 <table>
 <tr>
@@ -5774,18 +5702,20 @@ All spaces provided for in the vehicle identification number must be occupied by
 </table>
 
 
-- **(8)** For the purposes of S4.1(e) of TSD 209, the first sentence of the section shall be read without reference to the words “readily accessible to the occupant to permit his easy and rapid removal from the assembly”.
+- **(4)** For the purposes of S4.1(e) of TSD 209, the first sentence of the section shall be read without reference to the words “readily accessible to the occupant to permit his easy and rapid removal from the assembly”.
 
-- **(9)** Sections S4.1(g) and (m), S4.5(b) and S4.6 of TSD 209 do not apply.
+- **(5)** S4.1(g) and (m), S4.5(b) and S4.6 of TSD 209 do not apply.
 
-- **(10)** The instructions referred to in S4.1(l) of TSD 209 shall be provided in the English and French versions of the owner’s manual.
+- **(6)** The instructions referred to in S4.1(l) of TSD 209 shall be provided in the English and French versions of the owner’s manual.
 
-- **(11)** The requirements relating to non-locking retractors provided in S4.1(l), S4.3(h) and S5.2(h) and (k) of TSD 209 do not apply.
+- **(7)** The requirements relating to non-locking retractors set out in S4.1(l), S4.3(h) and S5.2(h) and (k) of TSD 209 do not apply.
 
-- **(12)** A Type 1 or Type 2 seat belt assembly that includes a load-limiter and that does not meet the elongation requirements of S4.2(c), S4.4(a)(2) or S4.4(b)(4) or (5) of TSD 209 may be installed only at a front outboard seating position that is equipped with a frontal air bag.
+- **(8)** The requirements relating to colour retention set out in S4.2(e) of TSD 209 do not apply.
 
-- **(13)** This section expires on January 31, 2016.
-> SOR/78-910, s. 2; SOR/87-154, s. 3; SOR/92-545, s. 4; SOR/97-447, s. 6; SOR/2007-180, s. 13; SOR/2009-318, s. 12; SOR/2011-238, s. 4; SOR/2013-117, s. 6..
+- **(9)** The requirements relating to the transfer of corrosion set out in S4.3(a)(2) of TSD 209 do not apply.
+
+- **(10)** A Type 1 or Type 2 seat belt assembly that includes a load-limiter and that does not meet the elongation requirements set out in S4.2(c), S4.4(a)(2) or S4.4(b)(4) or (5) of TSD 209 may be installed only at a front outboard designated seating position that is equipped with a frontal air bag.
+> SOR/78-910, s. 2; SOR/87-154, s. 3; SOR/92-545, s. 4; SOR/97-447, s. 6; SOR/2007-180, s. 13; SOR/2009-318, s. 12; SOR/2011-238, s. 4; SOR/2013-117, s. 6; SOR/2016-318, s. 11..
 
 
 
@@ -6494,9 +6424,9 @@ Note: Drawing not to scale
 
 - **(1)** The following definitions apply in this section.
 
-***Test Method 213.4*** means Test Method 213.4 — Built-in Restraint Systems and Built-in Booster Seats (November 2012). (*Méthode d’essai 213.4*) 
+***Test Method 213.4*** means Test Method 213.4 — Built-in Restraint Systems and Built-in Booster Seats (November 2012). (*Méthode d’essai 213.4*)
 
-***TSD 209*** means Technical Standards Document No. 209, Seat Belt Assemblies, as amended from time to time. (*DNT 209*) 
+***TSD 209*** means Technical Standards Document No. 209, Seat Belt Assemblies, as amended from time to time. (*DNT 209*)
 
 - **(2)** For the purposes of this section, a reference in TSD 209 to webbing, a belt buckle or a related piece of adjustment hardware that is part of a Type 1 seat belt assembly is to be read as a reference to webbing, a belt buckle or a related piece of adjustment hardware that is part of a built-in restraint system.
 
@@ -6921,17 +6851,17 @@ whichever is the higher.
 
 - **(1)** The following definitions in this subsection apply in this section.
 
-***body component*** means a part of a bus body, including floor panels, made from a single piece of homogeneous material or from a single piece of composite material such as plywood or plastic. (*élément de carrosserie*) 
+***body component*** means a part of a bus body, including floor panels, made from a single piece of homogeneous material or from a single piece of composite material such as plywood or plastic. (*élément de carrosserie*)
 
-***body panel*** means a body component used on the exterior or interior surface of a bus to enclose the bus occupant space. (*panneau de carrosserie*) 
+***body panel*** means a body component used on the exterior or interior surface of a bus to enclose the bus occupant space. (*panneau de carrosserie*)
 
-***body panel joint*** means the area of contact, attachment or close proximity between the edges of a body panel and another body component. (*joint de panneau de carrosserie*) 
+***body panel joint*** means the area of contact, attachment or close proximity between the edges of a body panel and another body component. (*joint de panneau de carrosserie*)
 
-***bus body*** means the portion of a bus that encloses the bus occupant space, including the floor and the body panel separating the engine compartment from the occupant space, but excluding the bumpers and chassis frame. (*carrosserie d’autobus*) 
+***bus body*** means the portion of a bus that encloses the bus occupant space, including the floor and the body panel separating the engine compartment from the occupant space, but excluding the bumpers and chassis frame. (*carrosserie d’autobus*)
 
-***maintenance access panel*** means a body panel that must be moved or removed to provide access to serviceable components. (*panneau d’accès pour l’entretien*) 
+***maintenance access panel*** means a body panel that must be moved or removed to provide access to serviceable components. (*panneau d’accès pour l’entretien*)
 
-***serviceable component*** means any part of a bus, of either a mechanical or electrical nature, that is explicitly identified in the owner’s manual or factory service manual as requiring routine maintenance actions at intervals of one year or less. Tubing, wires and harnesses are considered to be serviceable components only at their attachments. (*élément nécessitant de l’entretien*) 
+***serviceable component*** means any part of a bus, of either a mechanical or electrical nature, that is explicitly identified in the owner’s manual or factory service manual as requiring routine maintenance actions at intervals of one year or less. Tubing, wires and harnesses are considered to be serviceable components only at their attachments. (*élément nécessitant de l’entretien*)
 
 - **(2)** This section applies in respect of all school bus body panel joints that lie rearward of the vertical transverse plane located 762 mm in front of the forward-most passenger seating reference point, except those that contact or are attached to or in close proximity to
 	- **(a)** components such as rub rails that are entirely outside of body panels;
@@ -6962,19 +6892,19 @@ whichever is the higher.
 
 - **(1)** In this section,
 
-***contactable surface*** means any surface within the head protection zone that is contactable from any direction by a head form test device, except any surface on the front of a seat back or restraining barrier 76 mm (three inches) or more below the top of the seat back or restraining barrier; (*surface de contact*) 
+***contactable surface*** means any surface within the head protection zone that is contactable from any direction by a head form test device, except any surface on the front of a seat back or restraining barrier 76 mm (three inches) or more below the top of the seat back or restraining barrier; (*surface de contact*)
 
-***head protection zones*** means the spaces in front of each school bus passenger seat that are not occupied by any sidewall, window or door structure and that, in relation to that seat and its seating reference point, are enclosed by the following planes: 
+***head protection zones*** means the spaces in front of each school bus passenger seat that are not occupied by any sidewall, window or door structure and that, in relation to that seat and its seating reference point, are enclosed by the following planes: 
 - **(a)** horizontal planes 300 mm (12 inches) and 1 016 mm (40 inches) above the seating reference point,
 - **(b)** a vertical longitudinal plane tangent to the inboard (aisle side) edge of the seat,
 - **(c)** a vertical longitudinal plane 83 mm (3.25 inches) inboard of the outboard edge of the seat, and
-- **(d)** vertical transverse planes through and 760 mm (30 inches) forward of the seating reference point; (*zone de protection de la tête*)
+- **(d)** vertical transverse planes through and 760 mm (30 inches) forward of the seating reference point; (*zone de protection de la tête*)
 
-***leg protection zones*** means those parts of a school bus passenger seat back or restraining barrier that are bounded by horizontal planes 300 mm (12 inches) above and 100 mm (four inches) below the seating reference point of the school bus passenger seat immediately behind the seat back or restraining barrier; (*zone de protection des jambes*) 
+***leg protection zones*** means those parts of a school bus passenger seat back or restraining barrier that are bounded by horizontal planes 300 mm (12 inches) above and 100 mm (four inches) below the seating reference point of the school bus passenger seat immediately behind the seat back or restraining barrier; (*zone de protection des jambes*)
 
-***school bus passenger seat*** means a seat in a school bus, other than the driver’s seat or a seat that is installed to accommodate a handicapped or convalescent passenger and is oriented in a direction that is more than 45 degrees to the left or right of the longitudinal centre-line of the vehicle. (*siège pour passager d’autobus scolaire*) 
+***school bus passenger seat*** means a seat in a school bus, other than the driver’s seat or a seat that is installed to accommodate a handicapped or convalescent passenger and is oriented in a direction that is more than 45 degrees to the left or right of the longitudinal centre-line of the vehicle; (*siège pour passager d’autobus scolaire*)
 
-***W*** means the number of seating positions in a bench seat when calculated as the bench width in millimetres (inches) divided by 381 mm (15 inches) with the quotient rounded to the nearest whole number or, if the quotient is equidistant from two whole numbers, to the higher thereof. (*W*) 
+***W*** means the number of seating positions in a bench seat when calculated as the bench width in millimetres (inches) divided by 381 mm (15 inches) with the quotient rounded to the nearest whole number or, if the quotient is equidistant from two whole numbers, to the higher thereof. (*W*)
 
 - **(2)** Every school bus shall, when subjected to Motor Vehicle Safety Test Methods, Section 222, School Bus Passenger Seating and Crash Protection, (December 19, 1983) meet, at all designated seating positions other than the driver’s seat, all the requirements of subsections (6) to (12).
 
@@ -7060,37 +6990,37 @@ shall not exceed 1,000, where “a” is the axial acceleration expressed as a m
 
 - **(1)** The definitions in this subsection apply in this section.
 
-***dangerous goods*** has the same meaning as in section 2 of the Transportation of Dangerous Goods Act, 1992. (*marchandises dangereuses*) 
+***dangerous goods*** has the same meaning as in section 2 of the Transportation of Dangerous Goods Act, 1992. (*marchandises dangereuses*)
 
-***ground clearance*** means the vertical distance from the bottom edge of a horizontal member to the ground. (*garde au sol*) 
+***ground clearance*** means the vertical distance from the bottom edge of a horizontal member to the ground. (*garde au sol*)
 
-***guard width*** means, in respect of a rear impact guard that is installed on a trailer, the maximum horizontal guard dimension that is perpendicular to the longitudinal vertical plane passing through the longitudinal centreline of the trailer. (*largeur du dispositif de protection*) 
+***guard width*** means, in respect of a rear impact guard that is installed on a trailer, the maximum horizontal guard dimension that is perpendicular to the longitudinal vertical plane passing through the longitudinal centreline of the trailer. (*largeur du dispositif de protection*)
 
-***horizontal member*** means the horizontal structural member of a rear impact guard. (*pièce horizontale*) 
+***horizontal member*** means the horizontal structural member of a rear impact guard. (*pièce horizontale*)
 
-***hydraulic guard*** means a rear impact guard designed to use fluid properties to provide a resistance force to deformation. (*dispositif de protection hydraulique*) 
+***hydraulic guard*** means a rear impact guard designed to use fluid properties to provide a resistance force to deformation. (*dispositif de protection hydraulique*)
 
-***low-chassis trailer*** means a trailer that has a chassis that extends behind the rearmost point of the rearmost tires and that has a lower rear surface that meets the configuration requirements of subsections (6) to (8). (*remorque à châssis surbaissé*) 
+***low-chassis trailer*** means a trailer that has a chassis that extends behind the rearmost point of the rearmost tires and that has a lower rear surface that meets the configuration requirements of subsections (6) to (8). (*remorque à châssis surbaissé*)
 
-***outboard*** means, in respect of a trailer, away from the trailer centreline and toward the side extremities of the trailer. (*extérieur*) 
+***outboard*** means, in respect of a trailer, away from the trailer centreline and toward the side extremities of the trailer. (*extérieur*)
 
-***pulpwood trailer*** means a trailer that is designed exclusively to carry harvested logs or pulpwood and that is constructed with a skeletal frame with no means for the attachment of a solid bed, body or container. (*remorque pour bois à pâte*) 
+***pulpwood trailer*** means a trailer that is designed exclusively to carry harvested logs or pulpwood and that is constructed with a skeletal frame with no means for the attachment of a solid bed, body or container. (*remorque pour bois à pâte*)
 
-***rear extremity*** means the rearmost point on a trailer that is above a horizontal plane located above the ground clearance and below a horizontal plane located 1 900 mm above the ground when the trailer is configured as specified in subsection (7) and when the trailer’s cargo doors, tailgate and other permanent structures are positioned as they normally are when the trailer is in motion. However, non-structural protrusions, including but not limited to the following, are excluded from the determination of the rearmost point: 
+***rear extremity*** means the rearmost point on a trailer that is above a horizontal plane located above the ground clearance and below a horizontal plane located 1 900 mm above the ground when the trailer is configured as specified in subsection (7) and when the trailer’s cargo doors, tailgate and other permanent structures are positioned as they normally are when the trailer is in motion. However, non-structural protrusions, including but not limited to the following, are excluded from the determination of the rearmost point:
 - **(a)** tail lamps;
 - **(b)** rubber bumpers;
 - **(c)** hinges and latches; and
-- **(d)** flexible aerodynamic devices that are capable of being folded to within 305 mm from the transverse vertical plane tangent to the rearmost surface of the horizontal member and that, while positioned as they normally are when the trailer is in motion, are located forward of the transverse plane that is tangent to the rear bottom edge of the horizontal member and that intersects a point located 1 210 mm rearward of the rearmost surface of the horizontal member and 1 740 mm above the ground. (*extrémité arrière*)
+- **(d)** flexible aerodynamic devices that are capable of being folded to within 305 mm from the transverse vertical plane tangent to the rearmost surface of the horizontal member and that, while positioned as they normally are when the trailer is in motion, are located forward of the transverse plane that is tangent to the rear bottom edge of the horizontal member and that intersects a point located 1 210 mm rearward of the rearmost surface of the horizontal member and 1 740 mm above the ground. (*extrémité arrière*)
 
-***rear impact guard*** means a device installed on or near the rear of a trailer so that, when the trailer is struck from the rear, the device limits the distance that the striking vehicle’s front end slides under the rear end of the trailer. (*dispositif de protection arrière*) 
+***rear impact guard*** means a device installed on or near the rear of a trailer so that, when the trailer is struck from the rear, the device limits the distance that the striking vehicle’s front end slides under the rear end of the trailer. (*dispositif de protection arrière*)
 
-***rounded corners*** means the outermost ends of a rear impact guard’s horizontal member that curve upward. (*coins arrondis*) 
+***rounded corners*** means the outermost ends of a rear impact guard’s horizontal member that curve upward. (*coins arrondis*)
 
-***side extremity*** means the outermost point on a trailer’s side that is above a horizontal plane located above the ground clearance, below a horizontal plane located 1 900 mm above the ground, and between a transverse vertical plane tangent to the rear extremity of the trailer and a transverse vertical plane located 305 mm forward of that plane, with non-structural protrusions such as tail lamps, rubber bumpers, hinges and latches excluded from the determination of the outermost point. (*extrémité latérale*) 
+***side extremity*** means the outermost point on a trailer’s side that is above a horizontal plane located above the ground clearance, below a horizontal plane located 1 900 mm above the ground, and between a transverse vertical plane tangent to the rear extremity of the trailer and a transverse vertical plane located 305 mm forward of that plane, with non-structural protrusions such as tail lamps, rubber bumpers, hinges and latches excluded from the determination of the outermost point. (*extrémité latérale*)
 
-***tanker trailer*** means a trailer that is designed exclusively to transport dangerous goods and that meets the rear impact protection requirements of National Standard of Canada CAN/CSA-B620-98, Highway Tanks and Portable Tanks for the Transportation of Dangerous Goods (August 1998), including Appendices A and B, as amended in April 1999, March 2000, July 2000, April 2001, November 2001 and May 2002, published by CSA. (*remorque-citerne*) 
+***tanker trailer*** means a trailer that is designed exclusively to transport dangerous goods and that meets the rear impact protection requirements of National Standard of Canada CAN/CSA-B620-98, Highway Tanks and Portable Tanks for the Transportation of Dangerous Goods (August 1998), including Appendices A and B, as amended in April 1999, March 2000, July 2000, April 2001, November 2001 and May 2002, published by CSA. (*remorque-citerne*)
 
-***wheels back trailer*** means a trailer whose rearmost axle is permanently fixed and located such that the rearmost surface of the rearmost tires of the size recommended by the trailer manufacturer for that axle is not more than 305 mm forward of the transverse vertical plane tangent to the rear extremity of the trailer. (*remorque à roues arrière reculées*) 
+***wheels back trailer*** means a trailer whose rearmost axle is permanently fixed and located such that the rearmost surface of the rearmost tires of the size recommended by the trailer manufacturer for that axle is not more than 305 mm forward of the transverse vertical plane tangent to the rear extremity of the trailer. (*remorque à roues arrière reculées*)
 
 ### Application
 
@@ -7226,18 +7156,17 @@ shall not exceed 1,000, where “a” is the axial acceleration expressed as a m
 	- **(b)** the temperature-corrected pressure in the high-pressure portion of the fuel system shall not decrease to less than 95 per cent of the initial system pressure during the one-half hour period after motion of the vehicle ceases; and
 	- **(c)** the fuel container shall remain attached to the vehicle at a minimum of one attachment point.
 
-- **(3)** Instead of complying with subsections (1) and (2), a vehicle, other than a school bus, that is equipped with a fuel system that uses LPG as a source of energy for its propulsion may comply with
-	- **(a)** the version of National Standard of Canada CAN/CGA-12.2, Propane Fuel System Components for Use on Highway Vehicles, that, despite any statement to the contrary in that Standard, is in effect 24 months before the date of the last manufacturing operation performed by the manufacturer who installed the fuel system, as shown on the manufacturer’s information label, or the date of manufacture of the completed vehicle, as shown on the compliance label, or a more recent version of that Standard; and
-	- **(b)** section 4, Installation of Propane Fuel Systems and Tanks on Highway Vehicles, of the version of National Standard of Canada CAN/CGA-B149.5, Installation Code for Propane Fuel Systems and Tanks on Highway Vehicles, that is in effect 24 months before the date of the last manufacturing operation performed by the manufacturer who installed the fuel system, as shown on the manufacturer’s information label, or the date of manufacture of the completed vehicle, as shown on the compliance label, or a more recent version of that Standard, except that the following requirements do not apply:
-		- **(i)** any requirement to obtain an approval from an authority having jurisdiction or an inspection authority of a province or territory, and
-		- **(ii)** any requirement for the inspection or requalification of a fuel system or tank after the main assembly of the vehicle has been completed.
+- **(3)** Instead of complying with subsections (1) and (2), a vehicle, other than a school bus, that is equipped with a fuel system that uses LPG as a source of energy for its propulsion may comply with the requirements respecting the approval of valves, components and accessories, and the requirements respecting the installation of propane fuel systems and tanks on highway vehicles, set out in the version of CSA Standard B149.5, Installation code for propane fuel systems and tanks on highway vehicles (CSA B149.5), that is in effect 48 months before the date of the last manufacturing operation performed by the manufacturer who installed the fuel system, as shown on the manufacturer’s information label, or the date of manufacture of the completed vehicle, as shown on the compliance label, or a more recent version of that Standard, except that the following requirements do not apply:
+	- **(a)** any requirement to obtain an approval from an authority responsible for the enforcement of CSA B149.5 or from an inspection agency of a province or territory;
+	- **(b)** any requirement for the inspection or re-qualification of a fuel system or tank after the main assembly of the vehicle has been completed; and
+	- **(c)** the requirements respecting the servicing, parking and display of vehicles indoors set out in CSA B149.5.
 
 - **(3.1)** A three-wheeled vehicle that is equipped with a fuel system that uses LPG as a source of energy for its propulsion shall comply with the standards referred to in subsection (3).
 
-- **(4)** A manufacturer of a vehicle that is equipped with a fuel system that uses LPG as a source of energy for its propulsion shall provide to the Minister, on request, information respecting the version of the standard referred to in subsection (3) with which the vehicle complies.
+- **(4)** A manufacturer of a vehicle that is equipped with a fuel system that uses LPG as a source of energy for its propulsion shall indicate to the Minister, on request, the version of the standard referred to in subsection (3) with which the vehicle complies.
 
 - **(5)** [Repealed, SOR/2004-89, s. 2]
-> SOR/82-754, s. 3; SOR/97-421, s. 17; SOR/2001-152, s. 2; SOR/2002-55, s. 18; SOR/2003-272, s. 29; SOR/2004-89, s. 2; SOR/2008-104, s. 20; SOR/2014-307, s. 25..
+> SOR/82-754, s. 3; SOR/97-421, s. 17; SOR/2001-152, s. 2; SOR/2002-55, s. 18; SOR/2003-272, s. 29; SOR/2004-89, s. 2; SOR/2008-104, s. 20; SOR/2014-307, s. 25; SOR/2016-318, s. 12..
 
 
 
@@ -7268,23 +7197,23 @@ shall not exceed 1,000, where “a” is the axial acceleration expressed as a m
 895 (T/V<sub>FS</sub>)
 ```
 where
-- **T** is the ambient temperature of the test gas in degrees Kelvin, and
+- **T** is the ambient temperature of the test gas in kelvins, and
 - **V** <sub>FS</sub>is the volume of the high-pressure portion of the fuel system in litres.
 
-- **(3)** Instead of complying with subsection (1), a vehicle, other than a school bus, that is equipped with a fuel system that uses CNG as a source of energy for its propulsion may comply with section 4 of the version of Canadian Standards Association Standard CSA B109, Natural Gas for Vehicles Installation Code, that is in effect 24 months before the date of the last manufacturing operation performed by the manufacturer who installed the fuel system, as shown on the manufacturer’s information label, or the date of manufacture of the completed vehicle, as shown on the compliance label, or a more recent version of that Standard, except that the following requirements do not apply:
-	- **(a)** any requirement to obtain an approval from, or to act under the supervision of, an authority having jurisdiction or the boiler and pressure vessel inspection authority of a province or territory; and
-	- **(b)** any requirement respecting inspection, service or repair after the main assembly of the vehicle has been completed.
+- **(3)** Instead of complying with subsection (1), a vehicle, other than a school bus, that is equipped with a fuel system that uses CNG as a source of energy for its propulsion may comply with the system requirements set out in the version of CSA Standard B109, Natural Gas for Vehicles Installation Code (CSA B109), that is in effect 48 months before the date of the last manufacturing operation performed by the manufacturer who installed the fuel system, as shown on the manufacturer’s information label, or the date of manufacture of the completed vehicle, as shown on the compliance label, or a more recent version of that Standard, except that the following requirements do not apply:
+	- **(a)** any requirement to obtain an approval from an authority responsible for the enforcement of CSA B109 or from an inspection agency of a province or territory; and
+	- **(b)** any requirement for the re-inspection or re-qualification of a fuel system or tank after the main assembly of the vehicle has been completed.
 
 - **(3.1)** A three-wheeled vehicle that is equipped with a fuel system that uses CNG as a source of energy for its propulsion shall comply with the standard referred to in subsection (3).
 
 - **(4)** Only a CNG cylinder that is marked in accordance with the marking requirements in one of the following standards to indicate that the cylinder complies with that standard may be installed on a vehicle that is equipped with a fuel system that uses CNG as a source of energy for its propulsion:
-	- **(a)** the version of Canadian Standards Association Standard CSA B51, Part 2, High-Pressure Cylinders for the Onboard Storage of Natural Gas as a Fuel for Automotive Vehicles, that is in effect 24 months before the date of the last manufacturing operation performed by the manufacturer who installed the fuel system, as shown on the manufacturer’s information label, or the date of manufacture of the completed vehicle, as shown on the compliance label, or a more recent version of that Standard; or
-	- **(b)** the version of American National Standard ANSI/AGA - NGV2, Basic Requirements for Compressed Natural Gas Vehicle (NGV) Fuel Containers, that is in effect 24 months before the date of the last manufacturing operation performed by the manufacturer who installed the fuel system, as shown on the manufacturer’s information label, or the date of manufacture of the completed vehicle, as shown on the compliance label, or a more recent version of that Standard.
+	- **(a)** the version of CSA Standard B51, Part 2, High pressure cylinders for the on-board storage of natural gas and hydrogen as fuels for automotive vehicles, that is in effect 48 months before the date of the last manufacturing operation performed by the manufacturer who installed the fuel system, as shown on the manufacturer’s information label, or the date of manufacture of the completed vehicle, as shown on the compliance label, or a more recent version of that Standard; or
+	- **(b)** the version of American National Standard ANSI NGV 2, Compressed Natural Gas Vehicle Fuel Containers, that is in effect 48 months before the date of the last manufacturing operation performed by the manufacturer who installed the fuel system, as shown on the manufacturer’s information label, or the date of manufacture of the completed vehicle, as shown on the compliance label, or a more recent version of that Standard.
 
-- **(5)** A manufacturer of a vehicle that is equipped with a fuel system that uses CNG as a source of energy for its propulsion shall provide to the Minister, on request, information respecting the version of the standards referred to in subsections (3) and (4) with which the vehicle complies.
+- **(5)** A manufacturer of a vehicle that is equipped with a fuel system that uses CNG as a source of energy for its propulsion shall indicate to the Minister, on request, the version of the standards referred to in subsections (3) and (4) with which the vehicle complies.
 
 - **(6)** [Repealed, SOR/2004-89, s. 3]
-> SOR/82-754, s. 3; SOR/95-77, s. 1; SOR/2001-152, s. 2; SOR/2002-55, s. 19; SOR/2003-272, s. 30; SOR/2004-89, s. 3; SOR/2005-342, s. 5; SOR/2008-104, s. 21; SOR/2013-220, s. 4; SOR/2014-307, s. 26..
+> SOR/82-754, s. 3; SOR/95-77, s. 1; SOR/2001-152, s. 2; SOR/2002-55, s. 19; SOR/2003-272, s. 30; SOR/2004-89, s. 3; SOR/2005-342, s. 5; SOR/2008-104, s. 21; SOR/2013-220, s. 4; SOR/2014-307, s. 26; SOR/2016-318, s. 13..
 
 
 
@@ -7605,11 +7534,11 @@ where
 
 - **(1)** The definitions in this subsection apply in this section.
 
-***bulkhead*** means a fixed or removable structure installed across the width of a trailer to restrict the movement of cargo during transport. (*cloison*) 
+***bulkhead*** means a fixed or removable structure installed across the width of a trailer to restrict the movement of cargo during transport. (*cloison*)
 
-***cargo anchoring device*** means a fitting or attachment point on a trailer, other than a bulkhead or rub rail, to which a tie-down assembly is attached. (*dispositif d’ancrage des chargements*) 
+***cargo anchoring device*** means a fitting or attachment point on a trailer, other than a bulkhead or rub rail, to which a tie-down assembly is attached. (*dispositif d’ancrage des chargements*)
 
-***rub rail*** means a protector strip extending horizontally along the sides of a trailer intended to provide protection from scuffing. (*bourrelet de protection*) 
+***rub rail*** means a protector strip extending horizontally along the sides of a trailer intended to provide protection from scuffing. (*bourrelet de protection*)
 
 - **(2)** This section applies to every trailer that is designed to carry cargo, with a GVWR of 10 000 kg or more, a load-carrying mainframe and loading deck and no permanent sides or roof, such as a flatbed trailer, heavy hauler trailer, industrial trailer, lowbed trailer or drop-centre trailer.
 
@@ -7647,69 +7576,55 @@ where
 
 ### **SCHEDULE V.1** 
 **(Section 5)**
-> [SOR/97-141, s. 4; SOR/97-421, s. 15.].
+## Noise Emissions (Standard 1106)
 
+### Interpretation
 
-### Noise Emissions (Standard 1106)
-
-
-#### Interpretation
-
-**1** The definitions in this section apply in this Schedule and in the documents referred to in this Schedule.
-
-***dBA*** means the A-weighted sound level in decibels, measured using a sound level meter or a sound data acquisition system referred to in Appendix A of Test Method 1106 — Noise Emission Tests (August 2005) that uses the values set out in Table 1 of that Appendix. (*dBA*)
-
-***decibel*** or ***dB*** means 20 times the logarithm to the base 10 of the ratio of the measured sound pressure relative to a reference sound pressure of 20 µPa. (*décibel** ou **dB*)
-
-***rated engine speed*** or ***maximum rated engine speed*** means the rotational speed of an engine in revolutions per minute (RPM) at which the maximum horsepower of the engine is attained. (*régime maximal nominal, rated engine speed** ou **maximum rated engine speed*)
-
-***sound level*** means the root-mean-square of the values measured in dBA that are recorded during testing conducted pursuant to this section. (*niveau sonore*)
-> SOR/2005-342, s. 6..
+**1** The term ***maximum rated engine speed*** in Test Method 1106 — Noise Emission Tests (August 2005) means the rotational speed of an engine in revolutions per minute (RPM) at which the maximum horsepower of the engine is attained.
 
 
 
+### Exterior Sound Level
 
-#### Exterior Sound Level
-
-**2** Every vehicle, other than a motorcycle or a vehicle referred to in section 4, shall be so constructed that
-- **(a)** where tested in accordance with Annex 3 to ECE Regulation No. 51, Uniform Provisions concerning the Approval of Motor Vehicles Having at Least Four Wheels with regard to Their Noise Emissions, dated March 11, 1996, excluding the requirements of paragraph 3.2 of that Annex, the vehicle conforms to section 6 of that Regulation; or
-- **(b)** where tested in accordance with
-	- **(i)** section 3 of Test Method 1106 — Noise Emission Tests (August 2005), the exterior sound level does not exceed 83 dBA when a value of 2 dBA is subtracted from the highest average sound level recorded during the test, in the case of a bus with a GVWR of more than 4 536 kg,
-	- **(ii)** SAE Recommended Practice J986, Sound Level for Passenger Cars and Light Trucks (August 1994), or SAE Standard J1470, Measurement of Noise Emitted by Accelerating Highway Vehicles (March 1992), the exterior sound level does not exceed 83 dBA when a value of 2 dBA is subtracted from the highest average sound level recorded during the test, in the case of a bus, multi-purpose passenger vehicle, truck or incomplete vehicle fitted with a cab with a GVWR of more than 2 722 kg and not more than 4 536 kg, and
-	- **(iii)** SAE Recommended Practice J986, Sound Level for Passenger Cars and Light Trucks (August 1994), or SAE Standard J1470, Measurement of Noise Emitted by Accelerating Highway Vehicles (March 1992), the exterior sound level does not exceed 80 dBA when a value of 2 dBA is subtracted from the highest average sound level recorded during the test, in the case of a passenger car regardless of its GVWR or any other vehicle with a GVWR of 2 722 kg or less.
-> SOR/2005-342, s. 6; SOR/2009-318, s. 15..
-
-
-
-**3** Every motorcycle shall be so constructed that
-- **(a)** where tested in accordance with Annex 3 to ECE Regulation No. 41, Uniform Provisions concerning the Approval of Motor Cycles with regard to Noise, dated January 19, 1981, as amended September 14, 1984, excluding the requirements of paragraph 3.2 of that Annex, the exterior sound level does not exceed
-	- **(i)** 77 dBA, in the case of a motorcycle with an engine displacement not exceeding 80 cm<sup>3</sup>,
-	- **(ii)** 80 dBA, in the case of a motorcycle with an engine displacement exceeding 80 cm<sup>3</sup> and not exceeding 175 cm<sup>3</sup>, and
-	- **(iii)** 82 dBA, in the case of a motorcycle with an engine displacement exceeding 175 cm<sup>3</sup>; or
-- **(b)** where tested in accordance with
-	- **(i)** Appendix I-2 to subparts D and E, part 205, chapter I, title 40 of the United States Code of Federal Regulations, as amended by Vol. 45, No. 252 of the Federal Register of the United States published on December 31, 1980, at pages 86727 and 86728, the exterior sound level does not exceed 70 dBA, in the case of a motorcycle with an engine displacement not exceeding 50 cm<sup>3</sup> and a maximum attainable speed of 48 km/h on a level paved surface, and
-	- **(ii)** Appendix I-1 to subparts D and E, part 205, chapter I, title 40 of the United States Code of Federal Regulations, as amended by Vol. 45, No. 252 of the Federal Register of the United States published on December 31, 1980, at pages 86726 and 86727, the exterior sound level does not exceed 80 dBA, in any other case.
-> SOR/2009-318, s. 16(F)..
+**2** Subject to section 5, every vehicle, other than a motorcycle or a vehicle referred to in section 4, shall be so constructed that
+- **(a)** when tested in accordance with
+	- **(i)** section 3 of Test Method 1106 — Noise Emission Tests (August 2005), the sound level does not exceed 83 dBA when a value of 2 dBA is subtracted from the reported vehicle sound level calculated in accordance with paragraph 3.3.3(c) of that Test Method, in the case of a bus with a GVWR of more than 4 536 kg,
+	- **(ii)** SAE Standard J1470, Measurement of Noise Emitted by Accelerating Highway Vehicles (June 1998), the sound level does not exceed 83 dBA when a value of 2 dBA is subtracted from the final reported value referred to in section 6.3 of that Standard, in the case of a bus, multi-purpose passenger vehicle, truck or chassis-cab with a GVWR of more than 2 722 kg and not more than 4 536 kg,
+	- **(iii)** SAE Standard J1470, Measurement of Noise Emitted by Accelerating Highway Vehicles (June 1998), the sound level does not exceed 80 dBA when a value of 2 dBA is subtracted from the final reported value referred to in section 6.3 of that Standard, in the case of a passenger car regardless of its GVWR or any other vehicle with a GVWR of 2 722 kg or less,
+	- **(iv)** International Organization for Standardization standard ISO 362-1:2015, Measurement of noise emitted by accelerating road vehicles — Engineering method — Part 1: M and N categories, the sound level does not exceed 80 dBA when a value of 2 dBA is subtracted from the final result L<sub>urban</sub>, calculated in accordance with section 8.4 of that Standard, in the case of a bus, multi-purpose passenger vehicle, truck or chassis-cab with a GVWR of more than 2 722 kg and not more than 4 536 kg, and
+	- **(v)** International Organization for Standardization standard ISO 362-1:2015, Measurement of noise emitted by accelerating road vehicles — Engineering method — Part 1: M and N categories, the sound level does not exceed 78 dBA when a value of 2 dBA is subtracted from the final result L<sub>urban</sub> calculated in accordance with section 8.4 of that Standard, in the case of a passenger car regardless of its GVWR or any other vehicle with a GVWR of 2 722 kg or less; or
+- **(b)** until September 1, 2019, when tested in accordance with SAE Recommended Practice J986, Sound Level for Passenger Cars and Light Trucks (August 1994), the sound level does not exceed
+	- **(i)** 83 dBA when a value of 2 dBA is subtracted from the reported sound level referred to in section 4.6 of that Recommended Practice, in the case of a bus, multi-purpose passenger vehicle, truck or chassis-cab with a GVWR of more than 2 722 kg and not more than 4 536 kg, and
+	- **(ii)** 80 dBA when a value of 2 dBA is subtracted from the reported sound level referred to in section 4.6 of that Recommended Practice, in the case of a passenger car regardless of its GVWR or any other vehicle with a GVWR of 2 722 kg or less.
 
 
+**3** 
 
-**4** Every multi-purpose passenger vehicle, truck or incomplete vehicle fitted with a cab, with a GVWR of more than 4 536 kg, shall be constructed so that
-- **(a)** where the vehicle is tested in accordance with Annex 3 to ECE Regulation No. 51, Uniform Provisions concerning the Approval of Motor Vehicles Having at Least Four Wheels with regard to Their Noise Emissions, dated March 11, 1996, excluding the requirements of paragraph 3.2 of that Annex, the exterior sound level does not exceed
-	- **(i)** 81 dBA, in the case of a vehicle with an engine that produces less than 75 kW,
-	- **(ii)** 83 dBA, in the case of a vehicle with an engine that produces at least 75 kW but less than 150 kW, and
-	- **(iii)** 84 dBA, in the case of a vehicle with an engine that produces 150 kW or more; or
-- **(b)** where the vehicle is tested in accordance with the low speed sound emission test procedures set out in section 205.54-1, subpart B, part 205, chapter I, title 40 of the United States Code of Federal Regulations (revised as of December 5, 1977), the exterior sound level does not exceed 80 dBA.
-> SOR/2002-55, s. 20; SOR/2009-318, s. 17..
+- **(1)** Every motorcycle shall be so constructed that
+	- **(a)** when tested in accordance with Annex 3 of ECE Regulation No. 41, Uniform provisions concerning the approval of motor cycles with regard to noise, in the version in effect on June 25, 2008, as amended by any subsequent amendment in the 03 series of amendments, excluding any requirement in respect of the testing of stationary motorcycles contained in that Annex, the sound level referred to in paragraph 1.5.4 of that Annex does not exceed the limits specified in Annex 6 of that Regulation;
+	- **(b)** when tested in accordance with Annex 3 and Annex 7 of ECE Regulation No. 41, Uniform provisions concerning the approval of motor cycles with regard to noise, in the version in effect on April 13, 2012, as amended by any subsequent amendment in the 04 series of amendments, excluding any requirement in respect of the testing of stationary motorcycles contained in Annex 3, the sound pressure level referred to in paragraph 1.4.6 of Annex 3 does not exceed the limits specified in Annex 6 of that Regulation; or
+	- **(c)** when tested in accordance with
+		- **(i)** Appendix I-2 to subparts D and E, part 205, subchapter G, chapter I, title 40 of the United States Code of Federal Regulations, as amended by Vol. 45, No. 252 of the Federal Register of the United States published on December 31, 1980, the reported noise level referred to in section (d)(3) of that Appendix does not exceed 70 dBA, in the case of a motorcycle with an engine displacement not exceeding 50 cm<sup>3</sup> and a maximum attainable speed of 48 km/h on a level paved surface, and
+		- **(ii)** Appendix I-1 to subparts D and E, part 205, subchapter G, chapter I, title 40 of the United States Code of Federal Regulations, as amended by Vol. 45, No. 252 of the Federal Register of the United States published on December 31, 1980, the reported noise level referred to in section (d)(3) of that Appendix in does not exceed 80 dBA, in any other case.
 
-
-
-
-#### Interior Sound Level
-
-**5** Every truck or bus with a GVWR of more than 4 536 kg shall be so constructed that, where tested in accordance with section 4 of Test Method 1106 — Noise Emission Tests (August 2005), the interior sound level at the driver’s seating position does not exceed 90 dBA when a value of 2 dBA is subtracted from the average sound level obtained in accordance with the test.
-> SOR/2005-342, s. 6; SOR/2009-318, s. 18.
+- **(2)** For the purposes of this section, the requirements of the ECE Regulations referred to in paragraphs (1)(a) and (b) respecting the type-approval process do not apply.
 
 
+**4** Subject to section 5, every multi-purpose passenger vehicle, truck or chassis-cab with a GVWR of more than 4 536 kg shall be constructed so that
+- **(a)** when tested in accordance with the low speed sound emission test procedures set out in section 205.54-1, subpart B, part 205, subchapter G, chapter I, title 40 of the United States Code of Federal Regulations (revised as of December 5, 1977), the reported sound level does not exceed 80 dBA when calculated in accordance with section (c)(3)(iii) of section 205.54-1; or
+- **(b)** when tested in accordance with International Organization for Standardization standard ISO 362-1:2015, Measurement of noise emitted by accelerating road vehicles — Engineering method — Part 1: M and N categories, the sound level does not exceed 81 dBA when a value of 2 dBA is subtracted from the final result L<sub>urban</sub> calculated in accordance with section 8.4 of that Standard.
+
+
+**5** 
+
+- **(1)** A vehicle referred to in sections 2 and 4 may be constructed so that
+	- **(a)** when tested in accordance with Annex 3 of ECE Regulation No. 51, Uniform provisions concerning the approval of motor vehicles having at least four wheels with regard to their noise emissions, in the version in effect on March 9, 2011, as amended by any subsequent amendment in the 02 series of amendments, excluding any requirement in respect of the testing of stationary vehicles contained in that Annex, the sound level referred to in paragraph 3.1.3 of that Annex does not exceed the limits specified in paragraph 6 of that Regulation; or
+	- **(b)** when tested in accordance with Annex 3 and Annex 7 of ECE Regulation No. 51, Uniform provisions concerning the approval of motor vehicles having at least four wheels with regard to their sound emissions, in the version in effect on January 20, 2016, as amended by any subsequent amendment in the 03 series of amendments, excluding any requirement in respect of the testing of stationary vehicles contained in Annex 3 the final result L<sub>urban</sub> referred to in paragraph 3.1.3 of Annex 3 does not exceed the limits specified in paragraph 6 of that Regulation.
+
+- **(2)** For the purposes of this section, the requirements of the ECE Regulations referred to in subsection (1) respecting the type-approval process do not apply.
+
+
+> SOR/97-141, s. 4; SOR/97-421, s. 15; SOR/2002-55, s. 20; SOR/2005-342, s. 6; SOR/2009-318, ss. 15, 16(F), 17, 18; SOR/2016-318, s. 14.
 
 
 
@@ -7722,68 +7637,41 @@ where
 
 
 
-### Snowmobile Standards
+### Snowmobiles (Standard 1201)
 
 **1201** 
 
-- **(1)** Every snowmobile shall be constructed so that it conforms to the requirements set out in the following standards:
-	- **(a)** the Safety Standards for Snowmobile Product Certification, SSCC/11, published by the Snowmobile Safety and Certification Committee, Inc., dated February 6, 2003, except that the following provisions do not apply:
-		- **(i)** section 13, respecting vehicle identification numbers,
-		- **(ii)** section 14, respecting certification markings of exhaust systems,
-		- **(iii)** Figures 4, 6 and 7, respecting labelling requirements, and
-		- **(iv)** subsection 12(c)(6), requiring a label stating that the use of children’s snowmobiles is prohibited on public trails; and
-	- **(b)** the Detailed Standards and Testing Specifications and Procedures, SSCC/11 Supplement, published by the Snowmobile Safety and Certification Committee, Inc., dated February 6, 2003, except that the following provisions do not apply:
-		- **(i)** section 3.1 of L-S-300A,
-		- **(ii)** subsection 4.3.3 and section 5 of L-S-300A, respecting packing requirements,
-		- **(iii)** subsection 6.2 of L-S-300A, respecting ordering information,
-		- **(iv)** section 6 of 62-GP-11P, respecting packing requirements, and
-		- **(v)** section 8.2 of 62-GP-11P, respecting ordering data.
+- **(1)** Every snowmobile shall be constructed so that it conforms to the requirements set out in the Detailed Standards and Testing Specifications and Procedures, SSCC/11 Supplement, published by the Snowmobile Safety and Certification Committee, Inc. (the Supplement), dated March, 2011, except that the following provisions do not apply:
+	- **(a)** the section entitled “Snowmobile Identification Numbering”; and
+	- **(b)** the section entitled “Snowmobile Exhaust System Identification”.
 
-- **(1.1)** When a snowmobile is tested, instead of using the version of the approved tests set out in the Supplement referred to in paragraph (1)(b), the manufacturer may use the version of those tests that is in effect on January 1 of the calendar year in which the snowmobile is manufactured.
+- **(2)** When a snowmobile is tested, the manufacturer may use, instead of the tests set out in the version of the Supplement, the tests set out in the version of the Supplement that is in effect on January 1 of the calendar year in which the snowmobile is manufactured.
 
-- **(1.2)** For the purposes of this section, the word “snowmobile” used in the Standards and Supplement referred to in subsection (1) has the same meaning as in subsection 2(1) of these Regulations.
+- **(3)** For the purposes of this section, the word ***snowmobile*** used in the Supplement has the same meaning as in subsection 2(1) of these Regulations.
 
-- **(2)** Notwithstanding the definition ***Designed or Designed to*** referred to in section 4 of the Standards referred to in subsection (1) and for the purposes of those Standards and the Supplement referred to in that subsection, ***Designed*** and ***Designed to*** shall mean designed and constructed in such a manner so as to conform to the performance requirements of those documents under normal conditions of operation.
+- **(4)** The words “designed” and “designed to” used in the Supplement mean designed and constructed in such a manner so as to conform, under normal conditions of operation, to the performance requirements of the Supplement.
 
-- **(3)** The use of the word “should” in paragraph 10c.(4) of the Standards referred to in subsection (1) and of the word “will” in those Standards and the Supplement referred to in that subsection shall be considered to create an obligation.
+- **(5)** The word “will” used in the Supplement shall be considered to create an obligation.
 
-- **(4)** The reference to the Supplement referred to in subsection (1) shall be interpreted as excluding the statements that set out a recommended practice or guideline by using, for example, the auxiliary “should”.
+- **(6)** The following shall be provided in both official languages:
+	- **(a)** information to be provided on a label or placard as required by the Supplement; and
+	- **(b)** any instructions that are provided with a snowmobile.
 
-- **(5)** The statement required pursuant to paragraph 12c.(2) of the Standards referred to in subsection (1), the information specified on the label or plaque that must be affixed to a snowmobile pursuant to paragraph 12c.(6) of those Standards and any instructions that are provided with a snowmobile shall be provided in both official languages.
-
-- **(6)** Every snowmobile shall be equipped with the emergency stop switch set out in the Standards referred to in subsection (1) and headlamps that are on continuously when the engine of the snowmobile is operating.
-> SOR/87-497, s. 3; SOR/87-660, s. 6; SOR/96-360, s. 2; SOR/97-532, s. 4; SOR/2000-182, s. 9; SOR/2003-359, s. 5..
+- **(7)** Every snowmobile shall be equipped with headlamps that are on continuously when the engine of the snowmobile is operating.
+> SOR/87-497, s. 3; SOR/87-660, s. 6; SOR/96-360, s. 2; SOR/97-532, s. 4; SOR/2000-182, s. 9; SOR/2003-359, s. 5; SOR/2016-318, s. 15.
 
 
 
-
-### Snowmobile Cutters (Standard 1202)
-
-**1202** 
-
-- **(1)** Every snowmobile cutter shall be equipped with a rigid tow bar that, when connected to a snowmobile, is
-	- **(a)** rigidly connected to the cutter so as to prevent yawing movement;
-	- **(b)** capable of 90 degrees of rolling movement in each direction in relation to the longitudinal vertical plane of the cutter; and
-	- **(c)** capable of allowing adequate pitching movement of the cutter.
-
-- **(2)** Snowmobile cutters shall be equipped with the following reflex reflectors, located not more than 760 mm above the ground measured to the centre of the reflex reflectors with the cutter at curb mass:
-	- **(a)** on the rear, the reflex reflectors referred to in SAE Recommended Practice J292, Snowmobile and Snowmobile Cutter Lamps, Reflective Devices and Associated Equipment (May 1995); and
-	- **(b)** on each side at the mid-point of the cutter,
-		- **(i)** the reflex reflectors referred to in SAE Recommended Practice J292, Snowmobile and Snowmobile Cutter Lamps, Reflective Devices and Associated Equipment (May 1995), or
-		- **(ii)** reflex reflectors that have a minimum area, as projected in side elevation, of 100 cm<sup>2</sup> and that are composed of Class 1 or 3 reflective materials, as specified in Canadian General Standards Board Standard CGSB 62-GP-11M, Marking Material, Retroreflective Enclosed Lens, Adhesive Backing (May 1978), of any colour or combination of colours set out in Table 1 of that Standard and with a reflective intensity value of Level 1 as specified in Table 2 of that Standard.
-
-- **(3)** The skis of a snowmobile cutter shall be capable of being clamped to a snowmobile trailer by means of a tie-down cross bar attached to the trailer and passing over or through the skis.
-> SOR/2003-359, s. 6.
+**1202** [Repealed, SOR/2016-318, s. 15]
 
 
-
-**1203. to 1206** [Repealed, SOR/87-660, s. 6]
-
-
-**1207. to 1209** [Repealed, SOR/2003-359, s. 7]
+**1203 to 1206** [Repealed, SOR/87-660, s. 6]
 
 
-**1210. and 1211** [Repealed, SOR/87-660, s. 8]
+**1207 to 1209** [Repealed, SOR/2003-359, s. 7]
+
+
+**1210 and 1211** [Repealed, SOR/87-660, s. 8]
 
 
 
