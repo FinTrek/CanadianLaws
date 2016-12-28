@@ -2517,6 +2517,21 @@ Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu l
 	- **l)** [Règlement sur la prévention des étincelles électriques sur les chemins de fer](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/82/1015.md);
 	- **m)** [Règlement sur les wagons de matériel de service](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/86/922.md).
 
+**Règlements réputés pris**
+
+- **(1.2)** Les règlements ci-après sont réputés avoir été pris par le gouverneur en conseil sous le régime de la présente loi et peuvent être abrogés par décret pris par le gouverneur en conseil en vertu du paragraphe (5) :
+	- **a)** [Règlement et Règles sur le trafic de l’Algoma Central Railway](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1301-1400/C.R.C.,%20ch.%201375.md);
+	- **b)** [Règlement et Règles sur les voyageurs des chemins de fer nationaux du Canada](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1301-1400/C.R.C.,%20ch.%201376.md);
+	- **c)** [Règlement et Règles sur le trafic du chemin de fer canadien du Pacifique](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1301-1400/C.R.C.,%20ch.%201377.md);
+	- **d)** [Règlement et Règles sur le trafic de la Dominion Atlantic Railway](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1301-1400/C.R.C.,%20ch.%201378.md);
+	- **e)** [Règlement et Règles de trafic de la Grand River Railway](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1301-1400/C.R.C.,%20ch.%201379.md);
+	- **f)** [Règlement et Règles sur le trafic de la Lake Erie and Northern Railway](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1301-1400/C.R.C.,%20ch.%201380.md);
+	- **g)** [Règlement et Règles sur le trafic de la Quebec Central Railway](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1301-1400/C.R.C.,%20ch.%201381.md);
+	- **h)** [Règlement sur l’abandon de lignes de chemin de fer](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1301-1400/C.R.C.,%20ch.%201382.md);
+	- **i)** [Règlement sur les spécifications 112 et 114 de la C.C.T. Wagons-citernes](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/79/101.md);
+	- **j)** [Règlement régissant les détails des cartes, plans, profils, dessins, devis et livres de renvoi](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/80/482.md);
+	- **k)** [Règlement sur l’hygiène ferroviaire](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/85/192.md).
+
 **Règlements, règles et ordonnances d’application particulière**
 
 - **(2)** Les règlements, ordonnances et règles d’application particulière pris par la Commission sous le régime des articles 230, 242, 304 ou 305 de la Loi sur les chemins de fer, dans sa version au 31 décembre 1988, en vigueur à cette date et n’ayant pas été révoqués ont, jusqu’à leur révocation par arrêté pris par le ministre, la même validité que des arrêtés pris par celui-ci sous le régime de la présente loi.
