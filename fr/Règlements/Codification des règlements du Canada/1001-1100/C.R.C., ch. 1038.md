@@ -26,71 +26,71 @@ Autorités habilitantes :
 
 - **(1)** Dans le présent règlement,
 
-***AATCC*** L’*American Association of Textile Chemists and Colorists*. (*AATCC*)
+***AATCC*** L’*American Association of Textile Chemists and Colorists*; (*AATCC*)
 
-***affichage*** Sauf à l’article 101 de l’annexe IV, s’entend d’un indicateur, d’un témoin ou d’une sortie alphanumérique, ou d’un ensemble d’indicateurs, de témoins et de sorties alphanumériques, sur le tableau de bord d’un véhicule. (*display*)
+***affichage*** Sauf à l’article 101 de l’annexe IV, s’entend d’un indicateur, d’un témoin ou d’une sortie alphanumérique, ou d’un ensemble d’indicateurs, de témoins et de sorties alphanumériques, sur le tableau de bord d’un véhicule; (*display*)
 
-***ampoule***[Abrogée, DORS/2007-180, art. 1]
+***ampoule***[Abrogée, DORS/2007-180, art. 1]
 
-***ancien modèle*** désigne un véhicule de plus de 30 ans qui, lorsqu’il est remis dans un état comparable à celui de sa date de fabrication, conserve les pièces originales ou est constitué de pièces de rechange dont les caractéristiques sont les mêmes que celles des pièces originales; (*antique vehicle*)
+***ancien modèle*** désigne un véhicule de plus de 30 ans qui, lorsqu’il est remis dans un état comparable à celui de sa date de fabrication, conserve les pièces originales ou est constitué de pièces de rechange dont les caractéristiques sont les mêmes que celles des pièces originales; (*antique vehicle*)
 
-***ancrage d’attache prêt à utiliser*** Dispositif qui transmet à la structure du véhicule ou à la structure d’un siège du véhicule les forces exercées sur la courroie d’attache par un ensemble de retenue ou un siège d’appoint et par l’occupant de l’un ou de l’autre et qui est conçu pour recevoir directement le crochet de la courroie d’attache sans nécessiter l’installation d’aucun autre dispositif. (*user-ready tether anchorage*)
+***ancrage d’attache prêt à utiliser*** Dispositif qui transmet à la structure du véhicule ou à la structure d’un siège du véhicule les forces exercées sur la courroie d’attache par un ensemble de retenue ou un siège d’appoint et par l’occupant de l’un ou de l’autre et qui est conçu pour recevoir directement le crochet de la courroie d’attache sans nécessiter l’installation d’aucun autre dispositif; (*user-ready tether anchorage*)
 
-***ancrage de ceinture de sécurité*** S’entend de toute pièce d’un véhicule — à l’exception d’une courroie ou d’une sangle —, notamment de toute pièce de fixation, du bâti et du socle des sièges, de la structure du véhicule et de tout élément du véhicule, qui sert à transmettre à la structure du véhicule les forces exercées sur une ceinture de sécurité et de tout élément du véhicule qui, s’il se rompt, cause la séparation de la ceinture de sécurité de la structure du véhicule. (*seat belt anchorage*)
+***ancrage de ceinture de sécurité*** S’entend de toute pièce d’un véhicule — à l’exception d’une courroie ou d’une sangle —, notamment de toute pièce de fixation, du bâti et du socle des sièges, de la structure du véhicule et de tout élément du véhicule, qui sert à transmettre à la structure du véhicule les forces exercées sur une ceinture de sécurité et de tout élément du véhicule qui, s’il se rompt, cause la séparation de la ceinture de sécurité de la structure du véhicule; (*seat belt anchorage*)
 
-***ancrage du siège*** Toute pièce qui transmet à la structure du véhicule les forces exercées sur le siège du véhicule. (*seat anchorage*)
+***ancrage du siège*** Toute pièce qui transmet à la structure du véhicule les forces exercées sur le siège du véhicule; (*seat anchorage*)
 
-***année de modèle*** désigne l’année utilisée pour désigner un modèle de véhicule distinct, indépendamment de l’année civile réelle de production du véhicule, dans la mesure où la période de production est inférieure à deux ans; (*model year*)
+***année de modèle*** désigne l’année utilisée pour désigner un modèle de véhicule distinct, indépendamment de l’année civile réelle de production du véhicule, dans la mesure où la période de production est inférieure à deux ans; (*model year*)
 
-***ANSI*** L’*American National Standards Institute*. (*ANSI*)
+***ANSI*** L’*American National Standards Institute*; (*ANSI*)
 
-***ANS Z26***[Abrogée, DORS/94-717, art. 1]
+***ANS Z26***[Abrogée, DORS/94-717, art. 1]
 
-***approuvé*** signifie approuvé par le ministre; (*approved*)
+***approuvé*** signifie approuvé par le ministre; (*approved*)
 
-***appuie-tête*** Dispositif restreignant le mouvement angulaire vers l’arrière de la tête de l’occupant par rapport à la ligne de son torse. (*head restraint*)
+***appuie-tête*** Dispositif restreignant le mouvement angulaire vers l’arrière de la tête de l’occupant par rapport à la ligne de son torse; (*head restraint*)
 
-***arbre de direction*** désigne une pièce qui transmet le couple de braquage du volant au démultiplicateur de direction; (*steering shaft*)
+***arbre de direction*** désigne une pièce qui transmet le couple de braquage du volant au démultiplicateur de direction; (*steering shaft*)
 
-***armure***[Abrogée, DORS/2007-180, art. 1]
+***armure***[Abrogée, DORS/2007-180, art. 1]
 
-***arrangement à feux multiples***[Abrogée, DORS/96-366, art. 1]
+***arrangement à feux multiples***[Abrogée, DORS/96-366, art. 1]
 
-***arrêt d’urgence*** désigne un arrêt résultant de l’application, en moins de 0,08 s, d’une force de 889,6 N (200 lb) sur la commande du frein de service; (*spike stop*)
+***arrêt d’urgence*** désigne un arrêt résultant de l’application, en moins de 0,08 s, d’une force de 889,6 N (200 lb) sur la commande du frein de service; (*spike stop*)
 
-***articles facultatifs***[Abrogée, DORS/2008-258, art. 1]
+***articles facultatifs***[Abrogée, DORS/2008-258, art. 1]
 
-***ASTM**** American Society for Testing Materials*. (*ASTM*)
+***ASTM****American Society for Testing Materials*; (*ASTM*)
 
-***attache*** Pièce de connexion à déblocage rapide qui permet de maintenir une personne dans une ceinture de sécurité ou un ensemble intégré de retenue. (*buckle*)
+***attache*** Pièce de connexion à déblocage rapide qui permet de maintenir une personne dans une ceinture de sécurité ou un ensemble intégré de retenue; (*buckle*)
 
-***autobus*** Véhicule ayant un nombre désigné de places assises supérieur à 10. Sont exclus de la présente définition les remorques et les véhicules importés temporairement à des fins spéciales. (*bus*)
+***autobus*** Véhicule ayant un nombre désigné de places assises supérieur à 10. Sont exclus de la présente définition les remorques et les véhicules importés temporairement à des fins spéciales; (*bus*)
 
-***autobus multifonction pour les activités scolaires*** Autobus scolaire qui est conçu pour faire monter et déposer des élèves dans des circonstances où le contrôle de la circulation n’est pas nécessaire. (*multifunction school activity bus*)
+***autobus multifonction pour les activités scolaires*** Autobus scolaire qui est conçu pour faire monter et déposer des élèves dans des circonstances où le contrôle de la circulation n’est pas nécessaire; (*multifunction school activity bus*)
 
-***autobus scolaire*** Autobus conçu ou équipé principalement pour le transport des élèves pour aller à l’école ou à des événements liés à celle-ci et en revenir. (*school bus*)
+***autobus scolaire*** Autobus conçu ou équipé principalement pour le transport des élèves pour aller à l’école ou à des événements liés à celle-ci et en revenir; (*school bus*)
 
-***autocaravane*** Véhicule de tourisme à usages multiples conçu pour servir de local d’habitation temporaire comme en témoigne la présence d’au moins quatre des éléments suivants :
+***autocaravane*** Véhicule de tourisme à usages multiples conçu pour servir de local d’habitation temporaire comme en témoigne la présence d’au moins quatre des éléments suivants :
 - **a)** une installation qui permet de faire la cuisine;
 - **b)** un réfrigérateur ou un compartiment à glace;
 - **c)** une toilette autonome;
 - **d)** un système de chauffage ou de climatisation qui peut fonctionner indépendamment du moteur du véhicule;
 - **e)** un système d’approvisionnement en eau potable qui comprend un robinet et un évier;
-- **f)** un système d’alimentation électrique de 110 à 125 V ou un circuit d’alimentation en gaz de pétrole liquéfié. (*motor home*)
+- **f)** un système d’alimentation électrique de 110 à 125 V ou un circuit d’alimentation en gaz de pétrole liquéfié; (*motor home*)
 
-***axe H-V*** L’axe caractérisant la distribution de la lumière d’une lampe, passant par le centre de la source lumineuse et utilisé comme direction repère (H = 0°, V = 0°) dans les mesures photométriques et pour la conception de l’installation d’un feu sur un véhicule. (*H-V axis*)
+***axe H-V*** L’axe caractérisant la distribution de la lumière d’une lampe, passant par le centre de la source lumineuse et utilisé comme direction repère (H = 0°, V = 0°) dans les mesures photométriques et pour la conception de l’installation d’un feu sur un véhicule; (*H-V axis*)
 
-***barrière fixe pour essais de collision*** Dispositif qui, à la fois :
+***barrière fixe pour essais de collision*** Dispositif qui, à la fois :
 - **a)** est composé :
 	- **(i)** d’une part, d’une construction à surface d’impact plane, verticale, rigide et assez grande pour qu’aucune partie du véhicule qui heurte la surface ne puisse en déborder,
 	- **(ii)** d’autre part, d’une surface d’approche horizontale qui ne gêne pas le mouvement du véhicule durant l’impact et qui est assez grande pour que le véhicule puisse atteindre une position stable lorsqu’il approche de la surface d’impact;
-- **b)** n’absorbe pas une partie importante de l’énergie cinétique du véhicule qui heurte la surface d’impact. (*fixed collision barrier*)
+- **b)** n’absorbe pas une partie importante de l’énergie cinétique du véhicule qui heurte la surface d’impact; (*fixed collision barrier*)
 
-***base de jante***[Abrogée, DORS/2008-258, art. 1]
+***base de jante***[Abrogée, DORS/2008-258, art. 1]
 
-***bébé*** Personne qui ne peut marcher sans aide et dont la masse est d’au plus 10 kg. (*infant*)
+***bébé*** Personne qui ne peut marcher sans aide et dont la masse est d’au plus 10 kg; (*infant*)
 
-***bicyclette assistée*** Véhicule qui répond aux conditions suivantes :
+***bicyclette assistée*** Véhicule qui répond aux conditions suivantes :
 - **a)** il a un guidon et est équipé de pédales;
 - **b)** il est conçu pour rouler sur au plus trois roues en contact avec le sol;
 - **c)** il peut être propulsé par l’effort musculaire;
@@ -102,669 +102,669 @@ Autorités habilitantes :
 - **e)** il porte une étiquette, apposée par le fabricant de façon inamovible et bien en évidence, qui précise dans les deux langues officielles, qu’il s’agit d’une bicyclette assistée au sens du présent paragraphe;
 - **f)** il est équipé de l’un des dispositifs de sécurité suivants :
 	- **(i)** un mécanisme marche-arrêt pour partir et arrêter le moteur électrique, lequel est distinct de la commande d’accélération et est installé de façon à pouvoir être actionné par le conducteur,
-	- **(ii)** un mécanisme qui empêche l’enclenchement du moteur avant que la bicyclette n’ait atteint la vitesse de 3 km/h. (*power-assisted bicycle*)
+	- **(ii)** un mécanisme qui empêche l’enclenchement du moteur avant que la bicyclette n’ait atteint la vitesse de 3 km/h; (*power-assisted bicycle*)
 
-***boyau de frein***[Abrogée, DORS/2007-180, art. 1]
+***boyau de frein***[Abrogée, DORS/2007-180, art. 1]
 
-***camion*** Véhicule conçu essentiellement pour le transport de biens ou d’équipements spécialisés. Sont exclus de la présente définition les véhicules sur chenilles, les remorques, les véhicules de travail, les véhicules importés temporairement à des fins spéciales, les véhicules de compétition, les véhicules conçus pour se déplacer exclusivement hors route, les véhicules à trois roues et les véhicules à basse vitesse. (*truck*)
+***camion*** Véhicule conçu essentiellement pour le transport de biens ou d’équipements spécialisés. Sont exclus de la présente définition les véhicules sur chenilles, les remorques, les véhicules de travail, les véhicules importés temporairement à des fins spéciales, les véhicules de compétition, les véhicules conçus pour se déplacer exclusivement hors route, les véhicules à trois roues et les véhicules à basse vitesse; (*truck*)
 
-***camion-tracteur*** désigne un camion conçu essentiellement pour remorquer d’autres véhicules et dont la construction ne permet pas d’autre charge qu’une partie du poids du véhicule et de la charge remorquée, ainsi que tout véhicule conçu pour accepter un attelage pivotant, à l’exclusion d’un véhicule de dépannage équipé d’une grue; (*truck tractor*)
+***camion-tracteur*** désigne un camion conçu essentiellement pour remorquer d’autres véhicules et dont la construction ne permet pas d’autre charge qu’une partie du poids du véhicule et de la charge remorquée, ainsi que tout véhicule conçu pour accepter un attelage pivotant, à l’exclusion d’un véhicule de dépannage équipé d’une grue; (*truck tractor*)
 
-***capacité de chargement*** Masse égale ou inférieure au résultat obtenu en soustrayant du poids nominal brut du véhicule la somme des éléments suivants :
+***capacité de chargement*** Masse égale ou inférieure au résultat obtenu en soustrayant du poids nominal brut du véhicule la somme des éléments suivants :
 - **a)** la masse du véhicule sans charge;
 - **b)** le produit du nombre désigné de places assises par 54 kg, dans le cas d’un autobus scolaire, ou par 68 kg, dans tout autre cas;
-- **c)** dans le cas d’un véhicule équipé pour servir de logement ou muni d’installations sanitaires, la masse de ses réservoirs d’eau douce, d’eau chaude et de propane remplis mais non des réservoirs d’eaux usées. (*cargo-carrying capacity*)
+- **c)** dans le cas d’un véhicule équipé pour servir de logement ou muni d’installations sanitaires, la masse de ses réservoirs d’eau douce, d’eau chaude et de propane remplis mais non des réservoirs d’eaux usées; (*cargo-carrying capacity*)
 
-***capacité du réservoir de carburant du véhicule*** désigne la somme :
+***capacité du réservoir de carburant du véhicule*** désigne la somme :
 - **a)** du volume de carburant laissé au fond du réservoir que la pompe d’alimentation du véhicule ne peut tirer du réservoir;
-- **b)** du volume de carburant qui peut être pompé dans le réservoir par le tuyau de remplissage lorsque le véhicule est sur un terrain plat et que le volume de carburant visé à l’alinéa a) est déjà dans le réservoir.
+- **b)** du volume de carburant qui peut être pompé dans le réservoir par le tuyau de remplissage lorsque le véhicule est sur un terrain plat et que le volume de carburant visé à l’alinéa a) est déjà dans le réservoir.
 
-Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de carburant qui peut être pompé dans le goulot de remplissage ou dans l’espace au-dessus du goulot de remplissage; (*vehicle fuel tank capacity*)
+Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de carburant qui peut être pompé dans le goulot de remplissage ou dans l’espace au-dessus du goulot de remplissage; (*vehicle fuel tank capacity*)
 
-***catégorie***[Abrogée, DORS/2007-180, art. 1]
+***catégorie***[Abrogée, DORS/2007-180, art. 1]
 
-***catégorie prescrite***[Abrogée, DORS/2002-55, art. 1(F)]
+***catégorie prescrite***[Abrogée, DORS/2002-55, art. 1(F)]
 
-***catégorie réglementaire*** Catégorie de véhicules figurant à l’annexe III ou la catégorie des véhicules incomplets visée au paragraphe 4(1.1). (*prescribed class*)
+***catégorie réglementaire*** Catégorie de véhicules figurant à l’annexe III ou la catégorie des véhicules incomplets visée au paragraphe 4(1.1); (*prescribed class*)
 
-***CEE*** désigne le Comité des transports intérieurs de la Commission économique pour l’Europe des Nations Unies; (*ECE*)
+***CEE*** désigne le Comité des transports intérieurs de la Commission économique pour l’Europe des Nations Unies; (*ECE*)
 
-***ceinture-baudrier*** S’entend de la partie d’une ceinture de sécurité qui a pour objet de restreindre le mouvement au niveau de la poitrine et des épaules. (*upper torso restraint*)
+***ceinture-baudrier*** S’entend de la partie d’une ceinture de sécurité qui a pour objet de restreindre le mouvement au niveau de la poitrine et des épaules; (*upper torso restraint*)
 
-***ceinture de sécurité*** Courroie, sangle ou dispositif semblable conçu pour attacher une personne dans un véhicule afin d’atténuer les conséquences d’un accident, y compris toutes les attaches et tous les autres dispositifs de fermeture nécessaires, et toutes les pièces de fixation. La présente définition exclut les courroies, sangles et dispositifs semblables qui font partie des ensembles intégrés de retenue. (*seat belt assembly*)
+***ceinture de sécurité*** Courroie, sangle ou dispositif semblable conçu pour attacher une personne dans un véhicule afin d’atténuer les conséquences d’un accident, y compris toutes les attaches et tous les autres dispositifs de fermeture nécessaires, et toutes les pièces de fixation. La présente définition exclut les courroies, sangles et dispositifs semblables qui font partie des ensembles intégrés de retenue; (*seat belt assembly*)
 
-***ceinture de sécurité de type 1*** S’entend d’une ceinture sous-abdominale. (*Type 1 seat belt assembly*)
+***ceinture de sécurité de type 1*** S’entend d’une ceinture sous-abdominale; (*Type 1 seat belt assembly*)
 
-***ceinture de sécurité de type 2*** S’entend d’une combinaison de ceinture sous-abdominale et de ceinture-baudrier. (*Type 2 seat belt assembly*)
+***ceinture de sécurité de type 2*** S’entend d’une combinaison de ceinture sous-abdominale et de ceinture-baudrier; (*Type 2 seat belt assembly*)
 
-***ceinture de sécurité manuelle*** Ceinture de sécurité de type 1 ou de type 2 qui exige, pour être actionnée, l’intervention délibérée de l’occupant du véhicule. (*manual seat belt assembly*)
+***ceinture de sécurité manuelle*** Ceinture de sécurité de type 1 ou de type 2 qui exige, pour être actionnée, l’intervention délibérée de l’occupant du véhicule; (*manual seat belt assembly*)
 
-***ceinture diagonale de type 2A***[Abrogée, DORS/2013-9, art. 1]
+***ceinture diagonale de type 2A***[Abrogée, DORS/2013-9, art. 1]
 
-***ceinture sous-abdominale*** S’entend de la ceinture de sécurité ou de la partie d’une ceinture de sécurité qui a pour objet de restreindre le mouvement du bassin. (*pelvic restraint*)
+***ceinture sous-abdominale*** S’entend de la ceinture de sécurité ou de la partie d’une ceinture de sécurité qui a pour objet de restreindre le mouvement du bassin; (*pelvic restraint*)
 
-***charge maximale***[Abrogée, DORS/2008-258, art. 1]
+***charge maximale***[Abrogée, DORS/2008-258, art. 1]
 
-***charge maximale du véhicule***[Abrogée, DORS/2008-258, art. 1]
+***charge maximale du véhicule***[Abrogée, DORS/2008-258, art. 1]
 
-***charge normale***[Abrogée, DORS/2008-258, art. 1]
+***charge normale***[Abrogée, DORS/2008-258, art. 1]
 
-***chariot de conversion*** Châssis de conversion équipé d’un ou de plusieurs essieux, de la partie inférieure d’une sellette d’attelage et d’un ou de deux timons. Sont exclus de la présente définition les véhicules importés temporairement à des fins spéciales. (*trailer converter dolly*)
+***chariot de conversion*** Châssis de conversion équipé d’un ou de plusieurs essieux, de la partie inférieure d’une sellette d’attelage et d’un ou de deux timons. Sont exclus de la présente définition les véhicules importés temporairement à des fins spéciales; (*trailer converter dolly*)
 
-***chariot de conversion de type C*** Chariot de conversion doté d’un seul essieu auto-directeur et d’un attelage qui est conçu de façon à ce que le chariot ne puisse pas pivoter horizontalement par rapport à la remorque à laquelle il est accouplé. (*C-dolly*)
+***chariot de conversion de type C*** Chariot de conversion doté d’un seul essieu auto-directeur et d’un attelage qui est conçu de façon à ce que le chariot ne puisse pas pivoter horizontalement par rapport à la remorque à laquelle il est accouplé; (*C-dolly*)
 
-***chariot de répartition de charge*** Remorque qui est munie d’un châssis de remorque et d’un ou de plusieurs essieux, sans plateau, caisse ou conteneur solide, et qui est conçue uniquement pour supporter une partie de la charge d’une remorque ou d’un camion exemptés des exigences du Document de normes techniques no 121 — Systèmes de freinage à air comprimé. (*load divider dolly*)
+***chariot de répartition de charge*** Remorque qui est munie d’un châssis de remorque et d’un ou de plusieurs essieux, sans plateau, caisse ou conteneur solide, et qui est conçue uniquement pour supporter une partie de la charge d’une remorque ou d’un camion exemptés des exigences du Document de normes techniques no 121 — Systèmes de freinage à air comprimé; (*load divider dolly*)
 
-***chariot dérouleur*** désigne un véhicule conçu pour être traîné par un autre véhicule et utilisé exclusivement pour le transport d’un tambour ou d’une bobine d’enroulement de câble; (*cable reel trailer*)
+***chariot dérouleur*** désigne un véhicule conçu pour être traîné par un autre véhicule et utilisé exclusivement pour le transport d’un tambour ou d’une bobine d’enroulement de câble; (*cable reel trailer*)
 
-***châssis-cabine*** Véhicule incomplet, autre qu’une remorque incomplète, ayant un habitacle complet qui nécessite seulement l’ajout d’une surface de chargement, d’un équipement de travail ou d’un élément porteur pour remplir ses fonctions caractéristiques. (*chassis-cab*)
+***châssis-cabine*** Véhicule incomplet, autre qu’une remorque incomplète, ayant un habitacle complet qui nécessite seulement l’ajout d’une surface de chargement, d’un équipement de travail ou d’un élément porteur pour remplir ses fonctions caractéristiques; (*chassis-cab*)
 
-***châssis tronqué*** Véhicule incomplet muni d’une cabine dont l’arrière est découpé exprès pour l’installation d’une structure permettant de passer du poste de conduite à l’arrière du véhicule. (*cutaway chassis*)
+***châssis tronqué*** Véhicule incomplet muni d’une cabine dont l’arrière est découpé exprès pour l’installation d’une structure permettant de passer du poste de conduite à l’arrière du véhicule; (*cutaway chassis*)
 
-***circuit d’alimentation en carburant*** Tous les composants pour emmagasiner du carburant ou approvisionner en carburant un moteur de véhicule. (*fuel system*)
+***circuit d’alimentation en carburant*** Tous les composants pour emmagasiner du carburant ou approvisionner en carburant un moteur de véhicule; (*fuel system*)
 
-***clignotement*** Un cycle d’actionnement et d’arrêt automatiques d’un feu commandé et se poursuivant jusqu’à ce qu’il soit arrêté automatiquement ou manuellement. (*flash*)
+***clignotement*** Un cycle d’actionnement et d’arrêt automatiques d’un feu commandé et se poursuivant jusqu’à ce qu’il soit arrêté automatiquement ou manuellement; (*flash*)
 
-***code de sécurité ANSI Z26 — 1990*** La norme ANSI/SAE Z26.1-1990 intitulée *American National Standard for Safety Glazing Materials for Glazing Motor Vehicles and Motor Vehicle Equipment Operating on Land Highways — Safety Code*, publiée en novembre 1990 et réimprimée en février 1992. (*ANSI Z26 Safety Code — 1990*)
+***code de sécurité ANSI Z26 — 1990*** La norme ANSI/SAE Z26.1-1990 intitulée *American National Standard for Safety Glazing Materials for Glazing Motor Vehicles and Motor Vehicle Equipment Operating on Land Highways — Safety Code*, publiée en novembre 1990 et réimprimée en février 1992; (*ANSI Z26 Safety Code — 1990*)
 
-***colonne de direction*** désigne l’enveloppe rigide qui entoure l’arbre de direction; (*steering column*)
+***colonne de direction*** désigne l’enveloppe rigide qui entoure l’arbre de direction; (*steering column*)
 
-***commande*** désigne la partie d’un dispositif qui permet au conducteur de modifier l’état ou le fonctionnement d’un véhicule ou d’une pièce de véhicule; (*control*)
+***commande*** désigne la partie d’un dispositif qui permet au conducteur de modifier l’état ou le fonctionnement d’un véhicule ou d’une pièce de véhicule; (*control*)
 
-***commutateur général d’éclairage*** désigne un commutateur à une ou plusieurs positions qui commande les feux arrière, les feux de stationnement, la lampe de plaque d’immatriculation, les feux de position latéraux et les projecteurs, et qui peut commander les feux d’identification et les feux de gabarit; (*master lighting switch*)
+***commutateur général d’éclairage*** désigne un commutateur à une ou plusieurs positions qui commande les feux arrière, les feux de stationnement, la lampe de plaque d’immatriculation, les feux de position latéraux et les projecteurs, et qui peut commander les feux d’identification et les feux de gabarit; (*master lighting switch*)
 
-***compensateur de freinage*** Système muni d’un ou de plusieurs dispositifs de compensation qui modifient automatiquement le rapport de pression de freinage entre deux roues ou plus de manière à compenser les changements de charge statique sur les essieux causés par des changements de charge statique ou un transfert de poids dynamique ou par la décélération. (*variable brake proportioning system*)
+***compensateur de freinage*** Système muni d’un ou de plusieurs dispositifs de compensation qui modifient automatiquement le rapport de pression de freinage entre deux roues ou plus de manière à compenser les changements de charge statique sur les essieux causés par des changements de charge statique ou un transfert de poids dynamique ou par la décélération; (*variable brake proportioning system*)
 
-***conducteur*** désigne l’occupant d’un véhicule qui est assis à l’appareil de commande; (*driver*)
+***conducteur*** désigne l’occupant d’un véhicule qui est assis à l’appareil de commande; (*driver*)
 
-***corbillard*** Véhicule qui compte une seule rangée de sièges pour les occupants, qui n’est conçu que pour le transport d’une dépouille dans un cercueil et qui est muni de dispositifs pour maintenir en place le cercueil lors de son utilisation. (*hearse*)
+***corbillard*** Véhicule qui compte une seule rangée de sièges pour les occupants, qui n’est conçu que pour le transport d’une dépouille dans un cercueil et qui est muni de dispositifs pour maintenir en place le cercueil lors de son utilisation; (*hearse*)
 
-***courroie*** Bande étroite non tissée utilisée dans une ceinture de sécurité à la place d’une sangle. (*strap*)
+***courroie*** Bande étroite non tissée utilisée dans une ceinture de sécurité à la place d’une sangle; (*strap*)
 
-***courroie d’attache*** Dispositif qui est muni d’un crochet de la courroie d’attache et fixé à la structure rigide d’un ensemble de retenue ou d’un siège d’appoint et qui transmet à l’ancrage d’attache prêt à utiliser les forces exercées par cet ensemble de retenue ou ce siège d’appoint et par l’occupant de l’un ou de l’autre. (*tether strap*)
+***courroie d’attache*** Dispositif qui est muni d’un crochet de la courroie d’attache et fixé à la structure rigide d’un ensemble de retenue ou d’un siège d’appoint et qui transmet à l’ancrage d’attache prêt à utiliser les forces exercées par cet ensemble de retenue ou ce siège d’appoint et par l’occupant de l’un ou de l’autre; (*tether strap*)
 
-***coussin d’appoint***[Abrogée, DORS/98-160, art. 1]
+***coussin d’appoint***[Abrogée, DORS/98-160, art. 1]
 
 ***coussin d’appoint intégré***[Abrogée, DORS/2013-117, art. 1]
 
-***couvercle transparent***[Abrogée, DORS/96-366, art. 1]
+***couvercle transparent***[Abrogée, DORS/96-366, art. 1]
 
-***crochet de la courroie d’attache*** Dispositif qui est utilisé pour attacher la courroie d’attache à l’ancrage d’attache prêt à utiliser et dont le profil d’interface est illustré à la figure 1 de l’annexe 7 du [Règlement sur la sécurité des ensembles de retenue et des sièges d’appoint (véhicules automobiles)](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2010/90.md) ou, s’il s’agit d’un dispositif muni d’un accessoire de réglage intégré, à la figure 2 de l’annexe 7 de ce règlement. (*tether strap hook*)
+***crochet de la courroie d’attache*** Dispositif qui est utilisé pour attacher la courroie d’attache à l’ancrage d’attache prêt à utiliser et dont le profil d’interface est illustré à la figure 1 de l’annexe 7 du [Règlement sur la sécurité des ensembles de retenue et des sièges d’appoint (véhicules automobiles)](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2010/90.md) ou, s’il s’agit d’un dispositif muni d’un accessoire de réglage intégré, à la figure 2 de l’annexe 7 de ce règlement; (*tether strap hook*)
 
-***crochet de la sangle d’attache***[Abrogée, DORS/98-457, art. 1]
+***crochet de la sangle d’attache***[Abrogée, DORS/98-457, art. 1]
 
-***CSA*** Sigle désignant l’Association canadienne de normalisation. (*CSA*)
+***CSA*** Sigle désignant l’Association canadienne de normalisation; (*CSA*)
 
-***cyclomoteur***[Abrogée, DORS/88-268, art. 1]
+***cyclomoteur***[Abrogée, DORS/88-268, art. 1]
 
-***décapotable*** Véhicule qui possède un montant latéral de pare-brise ou un cadre de pare-brise, dont la partie supérieure n’est pas reliée par une structure fixe rigide au montant central ou à l’appui arrière du toit situé à l’arrière du montant central. (*convertible*)
+***décapotable*** Véhicule qui possède un montant latéral de pare-brise ou un cadre de pare-brise, dont la partie supérieure n’est pas reliée par une structure fixe rigide au montant central ou à l’appui arrière du toit situé à l’arrière du montant central; (*convertible*)
 
-***désignation des dimensions de jante***[Abrogée, DORS/2008-258, art. 1]
+***désignation des dimensions de jante***[Abrogée, DORS/2008-258, art. 1]
 
-***désignation du type de jante***[Abrogée, DORS/2008-258, art. 1]
+***désignation du type de jante***[Abrogée, DORS/2008-258, art. 1]
 
-***diamètre de jante*** désigne le diamètre nominal du siège de talon; (*rim diameter*)
+***diamètre de jante*** désigne le diamètre nominal du siège de talon; (*rim diameter*)
 
-***dispositif anthropomorphe d’essai*** désigne, sauf à l’article 202 de l’annexe IV, une figure représentant un être humain utilisée pour déterminer les conditions qu’aurait à subir une personne se trouvant dans un véhicule soumis à des essais selon des méthodes approuvées; (*anthropomorphic test device*)
+***dispositif anthropomorphe d’essai*** désigne, sauf à l’article 202 de l’annexe IV, une figure représentant un être humain utilisée pour déterminer les conditions qu’aurait à subir une personne se trouvant dans un véhicule soumis à des essais selon des méthodes approuvées; (*anthropomorphic test device*)
 
-***dispositif antidérapant***[Abrogée, DORS/97-200, art. 1]
+***dispositif antidérapant***[Abrogée, DORS/97-200, art. 1]
 
-***dispositif automatique de protection de l’occupant*** Dispositif de protection et de retenue de l’occupant d’un véhicule qui n’exige aucune intervention délibérée de la part de l’occupant pour être actionné lorsqu’il monte dans le véhicule, l’occupe ou en descend. (*automatic occupant protection system*)
+***dispositif automatique de protection de l’occupant*** Dispositif de protection et de retenue de l’occupant d’un véhicule qui n’exige aucune intervention délibérée de la part de l’occupant pour être actionné lorsqu’il monte dans le véhicule, l’occupe ou en descend; (*automatic occupant protection system*)
 
-***dispositif de dosage du carburant*** désigne le carburateur, l’injecteur de carburant, le distributeur de carburant ou la pompe d’injection; (*fuel metering device*)
+***dispositif de dosage du carburant*** désigne le carburateur, l’injecteur de carburant, le distributeur de carburant ou la pompe d’injection; (*fuel metering device*)
 
-***dispositif de frein anti-blocage*** ou ***ABS***[Abrogée, DORS/2009-318, art. 1]
+***dispositif de frein anti-blocage*** ou ***ABS***[Abrogée, DORS/2009-318, art. 1]
 
-***dispositif de frein antiblocage*** ou ***ABS*** S’entend de la partie d’un système de frein de service qui contrôle automatiquement le niveau de glissement d’une ou de plusieurs roues lors du freinage de la manière suivante : 
+***dispositif de frein antiblocage*** ou ***ABS*** S’entend de la partie d’un système de frein de service qui contrôle automatiquement le niveau de glissement d’une ou de plusieurs roues lors du freinage de la manière suivante :
 - **a)** en détectant la vitesse angulaire de rotation des roues;
 - **b)** en transmettant des signaux relatifs à la vitesse angulaire de rotation des roues à un ou plusieurs dispositifs de commande qui interprètent ces signaux et produisent en réaction des signaux de commande;
-- **c)** en transmettant ces signaux de commande à un ou plusieurs modulateurs qui règlent l’énergie nécessaire pour activer les freins en réaction à ces signaux. (*antilock brake system** or **ABS*)
+- **c)** en transmettant ces signaux de commande à un ou plusieurs modulateurs qui règlent l’énergie nécessaire pour activer les freins en réaction à ces signaux; (*antilock brake system** or **ABS*)
 
-***dispositif de maintien du dossier***[Abrogée, DORS/2007-180, art. 1]
+***dispositif de maintien du dossier***[Abrogée, DORS/2007-180, art. 1]
 
-***dispositif de stationnement***[Abrogée, DORS/99-357, art. 1]
+***dispositif de stationnement***[Abrogée, DORS/99-357, art. 1]
 
-***dispositif d’orientation intégré***[Abrogée, DORS/96-366, art. 1]
+***dispositif d’orientation intégré***[Abrogée, DORS/96-366, art. 1]
 
-***dispositif universel d’ancrages d’attaches inférieurs*** Dispositif, autre qu’une ceinture de sécurité du véhicule, qui est conçu pour assujettir à un véhicule la partie inférieure d’un ensemble de retenue ou d’un siège d’appoint et qui transmet à la structure du véhicule ou à la structure d’un siège du véhicule les forces exercées par cet ensemble de retenue ou ce siège d’appoint et par l’occupant de l’un ou de l’autre. (*lower universal anchorage system*)
+***dispositif universel d’ancrages d’attaches inférieurs*** Dispositif, autre qu’une ceinture de sécurité du véhicule, qui est conçu pour assujettir à un véhicule la partie inférieure d’un ensemble de retenue ou d’un siège d’appoint et qui transmet à la structure du véhicule ou à la structure d’un siège du véhicule les forces exercées par cet ensemble de retenue ou ce siège d’appoint et par l’occupant de l’un ou de l’autre; (*lower universal anchorage system*)
 
-***distance d’arrêt*** désigne la distance parcourue par un véhicule entre le moment où la commande du frein est actionnée et l’arrêt complet; (*stopping distance*)
+***distance d’arrêt*** désigne la distance parcourue par un véhicule entre le moment où la commande du frein est actionnée et l’arrêt complet; (*stopping distance*)
 
-***distributeur***[Abrogée, DORS/95-147, art. 1]
+***distributeur***[Abrogée, DORS/95-147, art. 1]
 
-***ébréché***[Abrogée, DORS/2007-180, art. 1]
+***ébréché***[Abrogée, DORS/2007-180, art. 1]
 
-***écoulement de carburant*** désigne une perte ou un déversement de carburant du véhicule, mais ne comprend pas l’humidité due à la capillarité; (*fuel spillage*)
+***écoulement de carburant*** désigne une perte ou un déversement de carburant du véhicule, mais ne comprend pas l’humidité due à la capillarité; (*fuel spillage*)
 
-***emplacement pour fauteuil roulant*** Dans un véhicule, emplacement qui est conçu pour assujettir un fauteuil roulant occupé. (*wheelchair location*)
+***emplacement pour fauteuil roulant*** Dans un véhicule, emplacement qui est conçu pour assujettir un fauteuil roulant occupé; (*wheelchair location*)
 
-***encrassement***[Abrogée, DORS/2007-180, art. 1]
+***encrassement***[Abrogée, DORS/2007-180, art. 1]
 
-***enfant*** Personne dont la masse est de plus de 10 kg et d’au plus 30 kg. (*child*)
+***enfant*** Personne dont la masse est de plus de 10 kg et d’au plus 30 kg; (*child*)
 
-***ensemble de boyau de frein***[Abrogée, DORS/2007-180, art. 1]
+***ensemble de boyau de frein***[Abrogée, DORS/2007-180, art. 1]
 
-***ensemble de retenue*** S’entend au sens du paragraphe 100(1) du [Règlement sur la sécurité des ensembles de retenue et des sièges d’appoint (véhicules automobiles)](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2010/90.md). (*restraint system*)
+***ensemble de retenue*** S’entend au sens du paragraphe 100(1) du [Règlement sur la sécurité des ensembles de retenue et des sièges d’appoint (véhicules automobiles)](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2010/90.md); (*restraint system*)
 
-***ensemble de retenue de bébé***[Abrogée, DORS/98-160, art. 1]
+***ensemble de retenue de bébé***[Abrogée, DORS/98-160, art. 1]
 
-***ensemble de retenue d’enfant***[Abrogée, DORS/98-160, art. 1]
+***ensemble de retenue d’enfant***[Abrogée, DORS/98-160, art. 1]
 
-***ensemble de retenue de série pour personne handicapée***[Abrogée, DORS/98-160, art. 1]
+***ensemble de retenue de série pour personne handicapée***[Abrogée, DORS/98-160, art. 1]
 
-***ensemble de retenue pour personne handicapée***[Abrogée, DORS/98-160, art. 1]
+***ensemble de retenue pour personne handicapée***[Abrogée, DORS/98-160, art. 1]
 
-***ensemble de retenue sur mesure pour personne handicapée***[Abrogée, DORS/98-160, art. 1]
+***ensemble de retenue sur mesure pour personne handicapée***[Abrogée, DORS/98-160, art. 1]
 
-***ensemble intégré de retenue*** Dispositif qui, à la fois :
+***ensemble intégré de retenue*** Dispositif qui, à la fois :
 - **a)** fait partie intégrante d’un siège du véhicule;
-- **b)** est conçu pour retenir uniquement une personne dont la masse est de plus de 10 kg et d’au plus 41 kg. (*built-in restraint system*)
+- **b)** est conçu pour retenir uniquement une personne dont la masse est de plus de 10 kg et d’au plus 41 kg; (*built-in restraint system*)
 
 ***ensemble intégré de retenue à double usage***[Abrogée, DORS/2013-117, art. 1]
 
 ***ensemble intégré de retenue d’enfant***[Abrogée, DORS/2013-117, art. 1]
 
-***éraflure***[Abrogée, DORS/2007-180, art. 1]
+***éraflure***[Abrogée, DORS/2007-180, art. 1]
 
-***ERBP***[Abrogée, DORS/2007-180, art. 1]
+***ERBP***[Abrogée, DORS/2007-180, art. 1]
 
-***ERBP humide***[Abrogée, DORS/2007-180, art. 1]
+***ERBP humide***[Abrogée, DORS/2007-180, art. 1]
 
-***espace d’air de l’habitacle***[Abrogée, DORS/2007-180, art. 1]
+***espace d’air de l’habitacle***[Abrogée, DORS/2007-180, art. 1]
 
-***espace d’occupant*** désigne l’espace qui se trouve directement au-dessus du siège et des planchers, limité par le plafond et horizontalement par le dossier du siège en position normale et l’obstacle le plus proche qui restreigne le mouvement de l’occupant dans la direction à laquelle le siège fait face; (*occupant space*)
+***espace d’occupant*** désigne l’espace qui se trouve directement au-dessus du siège et des planchers, limité par le plafond et horizontalement par le dossier du siège en position normale et l’obstacle le plus proche qui restreigne le mouvement de l’occupant dans la direction à laquelle le siège fait face; (*occupant space*)
 
-***essence***[Abrogée, DORS/2002-187, art. 1]
+***essence***[Abrogée, DORS/2002-187, art. 1]
 
-***essence au plomb*** désigne de l’essence qui contient plus de
+***essence au plomb*** désigne de l’essence qui contient plus de
 - **a)** 0,06 de gramme de plomb par gallon britannique (0,013 de gramme par litre), ou
-- **b)** 0,006 de gramme de phosphore par gallon britannique (0,0013 de gramme par litre); (*leaded gasoline*)
+- **b)** 0,006 de gramme de phosphore par gallon britannique (0,0013 de gramme par litre); (*leaded gasoline*)
 
-***essence sans plomb*** désigne de l’essence qui ne contient pas plus de
+***essence sans plomb*** désigne de l’essence qui ne contient pas plus de
 - **a)** 0,06 de gramme de plomb par gallon britannique (0,013 de gramme par litre), ou
-- **b)** 0,006 de gramme de phosphore par gallon britannique (0,0013 de gramme par litre); (*unleaded gasoline*)
+- **b)** 0,006 de gramme de phosphore par gallon britannique (0,0013 de gramme par litre); (*unleaded gasoline*)
 
-***étiquette de conformité*** L’étiquette devant être apposée sur un véhicule complet en application des articles 6 ou 6.6. (*compliance label*)
+***étiquette de conformité*** L’étiquette devant être apposée sur un véhicule complet en application des articles 6 ou 6.6; (*compliance label*)
 
-***étiquette informative*** L’étiquette devant être apposée sur un véhicule incomplet en application des articles 6.2 ou 6.4. (*information label*)
+***étiquette informative*** L’étiquette devant être apposée sur un véhicule incomplet en application des articles 6.2 ou 6.4; (*information label*)
 
-***fabricant***[Abrogée, DORS/95-147, art. 1]
+***fabricant***[Abrogée, DORS/95-147, art. 1]
 
-***fabricant à l’étape finale*** Entreprise qui effectue sur un véhicule incomplet les opérations de fabrication qui en feront un véhicule complet. (*final-stage manufacturer*)
+***fabricant à l’étape finale*** Entreprise qui effectue sur un véhicule incomplet les opérations de fabrication qui en feront un véhicule complet; (*final-stage manufacturer*)
 
-***fabricant de véhicules incomplets*** Entreprise qui fabrique des véhicules incomplets par montage de pièces qui, séparément, ne forment pas un véhicule incomplet. (*incomplete vehicle manufacturer*)
+***fabricant de véhicules incomplets*** Entreprise qui fabrique des véhicules incomplets par montage de pièces qui, séparément, ne forment pas un véhicule incomplet; (*incomplete vehicle manufacturer*)
 
-***fabricant de vitrages*** Personne qui se livre à la fabrication, au feuilleté ou à la trempe de vitrages. (*glazing material manufacturer*)
+***fabricant de vitrages*** Personne qui se livre à la fabrication, au feuilleté ou à la trempe de vitrages; (*glazing material manufacturer*)
 
-***fabricant intermédiaire*** Entreprise, autre que le fabricant de véhicules incomplets et le fabricant à l’étape finale, qui effectue des opérations de fabrication sur un véhicule incomplet. (*intermediate manufacturer*)
+***fabricant intermédiaire*** Entreprise, autre que le fabricant de véhicules incomplets et le fabricant à l’étape finale, qui effectue des opérations de fabrication sur un véhicule incomplet; (*intermediate manufacturer*)
 
-***fenêtre amovible*** désigne une fenêtre qui peut rapidement et complètement être enlevée d’un véhicule, sans l’aide d’outils, et comprend, dans le cas d’un autobus dont le PNBV dépasse 4 535,9 kg (10 000 livres), une fenêtre basculante ou une fenêtre aménagée dans une issue de secours qui peut manuellement être sortie de son cadre sans l’aide d’outils, même si elle demeure fixée d’un côté au véhicule par une charnière; (*readily removable window*)
+***fenêtre amovible*** désigne une fenêtre qui peut rapidement et complètement être enlevée d’un véhicule, sans l’aide d’outils, et comprend, dans le cas d’un autobus dont le PNBV dépasse 4 535,9 kg (10 000 livres), une fenêtre basculante ou une fenêtre aménagée dans une issue de secours qui peut manuellement être sortie de son cadre sans l’aide d’outils, même si elle demeure fixée d’un côté au véhicule par une charnière; (*readily removable window*)
 
-***fenêtre basculante*** désigne une fenêtre de véhicule conçue pour s’ouvrir vers l’extérieur afin d’assurer une issue de secours; (*push-out window*)
+***fenêtre basculante*** désigne une fenêtre de véhicule conçue pour s’ouvrir vers l’extérieur afin d’assurer une issue de secours; (*push-out window*)
 
-***feu à compartiments multiples***[Abrogée, DORS/96-366, art. 1]
+***feu à compartiments multiples***[Abrogée, DORS/96-366, art. 1]
 
-***feu de jour*** désigne, pour l’application de l’article 108 de l’annexe IV, un feu servant à améliorer la visibilité d’un véhicule lorsque celui-ci est vu de l’avant à la lumière du jour; (*daytime running lamp*)
+***feu de jour*** désigne, pour l’application de l’article 108 de l’annexe IV, un feu servant à améliorer la visibilité d’un véhicule lorsque celui-ci est vu de l’avant à la lumière du jour; (*daytime running lamp*)
 
-***feux combinés optiquement*** désigne, pour l’application de l’article 108 de l’annexe IV, des feux qui ont :
+***feux combinés optiquement*** désigne, pour l’application de l’article 108 de l’annexe IV, des feux qui ont :
 - **a)** deux ou plusieurs sources lumineuses distinctes ou une même source lumineuse qui fonctionne de plusieurs façons,
 - **b)** une lentille commune ou partagée, et
-- **c)** un même boîtier; (*optically combined lamps*)
+- **c)** un même boîtier; (*optically combined lamps*)
 
-***fourgon à accès en position debout*** Camion de type fourgon dans lequel une personne d’une taille de 1 700 mm peut entrer en position debout dans l’habitacle par une porte avant. (*walk-in van*)
+***fourgon à accès en position debout*** Camion de type fourgon dans lequel une personne d’une taille de 1 700 mm peut entrer en position debout dans l’habitacle par une porte avant; (*walk-in van*)
 
-***frein de secours*** désigne un mécanisme conçu pour arrêter un véhicule lors d’une défaillance du frein de service; (*emergency brake*)
+***frein de secours*** désigne un mécanisme conçu pour arrêter un véhicule lors d’une défaillance du frein de service; (*emergency brake*)
 
-***frein de service*** désigne le mécanisme principal conçu pour arrêter un véhicule; (*service brake*)
+***frein de service*** désigne le mécanisme principal conçu pour arrêter un véhicule; (*service brake*)
 
-***frein de stationnement*** désigne un mécanisme conçu pour empêcher le mouvement d’un véhicule en stationnement; (*parking brake*)
+***frein de stationnement*** désigne un mécanisme conçu pour empêcher le mouvement d’un véhicule en stationnement; (*parking brake*)
 
-***gaz de pétrole liquéfié*** ou ***GPL*** Produit aux hydrocarbures qui est conforme aux exigences de la norme nationale du Canada CAN/CGSB-3.14-M88, intitulée Gaz de pétrole liquéfié (propane) (août 1988). (*liquefied petroleum gas** or **LPG*)
+***gaz de pétrole liquéfié*** ou ***GPL*** Produit aux hydrocarbures qui est conforme aux exigences de la norme nationale du Canada CAN/CGSB-3.14-M88, intitulée Gaz de pétrole liquéfié (propane) (août 1988); (*liquefied petroleum gas** or **LPG*)
 
-***gaz naturel comprimé*** ou ***GNC*** désigne du gaz naturel constitué principalement de méthane et comprimé sous des pressions allant jusqu’à 20 680 kPa (3 000 lb/po<sup>2</sup>); (*compressed natural gas** or **CNG*)
+***gaz naturel comprimé*** ou ***GNC*** désigne du gaz naturel constitué principalement de méthane et comprimé sous des pressions allant jusqu’à 20 680 kPa (3 000 lb/po<sup>2</sup>); (*compressed natural gas** or **CNG*)
 
-***gommage***[Abrogée, DORS/2007-180, art. 1]
+***gommage***[Abrogée, DORS/2007-180, art. 1]
 
-***huile minérale pour système hydraulique***[Abrogée, DORS/2007-180, art. 1]
+***huile minérale pour système hydraulique***[Abrogée, DORS/2007-180, art. 1]
 
-***importateur***[Abrogée, DORS/95-147, art. 1]
+***importateur***[Abrogée, DORS/95-147, art. 1]
 
-***indicateur*** Partie d’un instrument qui montre la quantité de la caractéristique physique que l’instrument est censé détecter. (*indicator*)
+***indicateur*** Partie d’un instrument qui montre la quantité de la caractéristique physique que l’instrument est censé détecter; (*indicator*)
 
-***indicateur de charge*** désigne un instrument indiquant si la batterie est en charge ou en décharge; (*battery charging indicator*)
+***indicateur de charge*** désigne un instrument indiquant si la batterie est en charge ou en décharge; (*battery charging indicator*)
 
-***indicateur de niveau de carburant*** désigne la jauge indiquant la quantité de carburant qui se trouve dans le réservoir; (*fuel level indicator*)
+***indicateur de niveau de carburant*** désigne la jauge indiquant la quantité de carburant qui se trouve dans le réservoir; (*fuel level indicator*)
 
-***indicateur de pression d’huile*** désigne un instrument fournissant des indications sur la pression de l’huile dans le système de graissage du moteur; (*oil pressure indicator*)
+***indicateur de pression d’huile*** désigne un instrument fournissant des indications sur la pression de l’huile dans le système de graissage du moteur; (*oil pressure indicator*)
 
-***indicateur de température du liquide de refroidissement*** désigne un instrument fournissant des indications sur la température du liquide de refroidissement; (*engine coolant temperature indicator*)
+***indicateur de température du liquide de refroidissement*** désigne un instrument fournissant des indications sur la température du liquide de refroidissement; (*engine coolant temperature indicator*)
 
-***inspecteur***[Abrogée, DORS/95-147, art. 1]
+***inspecteur***[Abrogée, DORS/95-147, art. 1]
 
-***intervalle de freinage*** désigne la distance parcourue entre deux applications de freins successives; (*braking interval*)
+***intervalle de freinage*** désigne la distance parcourue entre deux applications de freins successives; (*braking interval*)
 
-***IRHD***[Abrogée, DORS/2007-180, art. 1]
+***IRHD***[Abrogée, DORS/2007-180, art. 1]
 
-***jante amovible*** désigne la pièce où est monté le pneumatique ou l’ensemble pneumatique-chambre à air, lorsque la partie centrale n’en est pas fixée de façon permanente; (*demountable rim*)
+***jante amovible*** désigne la pièce où est monté le pneumatique ou l’ensemble pneumatique-chambre à air, lorsque la partie centrale n’en est pas fixée de façon permanente; (*demountable rim*)
 
-***largeur de jante***[Abrogée, DORS/2008-258, art. 1]
+***largeur de jante***[Abrogée, DORS/2008-258, art. 1]
 
-***largeur de la surface de siège*** Largeur maximale de la surface de siège, mesurée dans une zone partant d’un plan vertical transversal situé à 150 mm derrière la surface avant du bord de cette surface de siège jusqu’à un plan vertical transversal situé à 250 mm derrière cette surface avant du bord, mesurée horizontalement et longitudinalement. (*seating surface width*)
+***largeur de la surface de siège*** Largeur maximale de la surface de siège, mesurée dans une zone partant d’un plan vertical transversal situé à 150 mm derrière la surface avant du bord de cette surface de siège jusqu’à un plan vertical transversal situé à 250 mm derrière cette surface avant du bord, mesurée horizontalement et longitudinalement; (*seating surface width*)
 
-***largeur hors tout*** désigne la dimension nominale de la partie la plus large d’un véhicule dont les portes et les glaces sont fermées et les roues orientées parallèlement à son axe longitudinal, indépendamment des feux clignotants, des feux de position latéraux, des rétroviseurs extérieurs, des prolongements d’aile flexibles et des pare-boue; (*overall width*)
+***largeur hors tout*** désigne la dimension nominale de la partie la plus large d’un véhicule dont les portes et les glaces sont fermées et les roues orientées parallèlement à son axe longitudinal, indépendamment des feux clignotants, des feux de position latéraux, des rétroviseurs extérieurs, des prolongements d’aile flexibles et des pare-boue; (*overall width*)
 
-***ligne*** désigne le nom qu’un fabricant donne à la famille de véhicules d’une marque dont la carrosserie, le châssis, le type de cabine ou d’autres caractéristiques de construction se ressemblent dans une certaine mesure; (*line*)
+***ligne*** désigne le nom qu’un fabricant donne à la famille de véhicules d’une marque dont la carrosserie, le châssis, le type de cabine ou d’autres caractéristiques de construction se ressemblent dans une certaine mesure; (*line*)
 
-***ligne de torse*** La ligne joignant le point H au point de référence de l’épaule, décrite dans la norme SAE J826 intitulée *Devices for Use in Defining and Measuring Vehicle Seating Accommodation* (juillet 1995). (*torso line*)
+***ligne de torse*** La ligne joignant le point H au point de référence de l’épaule, décrite dans la norme SAE J826 intitulée *Devices for Use in Defining and Measuring Vehicle Seating Accommodation* (juillet 1995); (*torso line*)
 
 ***ligne repère d’orientation du siège (LROS)***[Abrogée, DORS/2013-117, art. 1]
 
-***limiteur de charge*** S’entend de l’élément ou de la caractéristique de la ceinture de sécurité qui maîtrise la tension de la ceinture de manière à contrôler les forces auxquelles est soumis l’usager de la ceinture au moment d’une collision. (*load-limiter*)
+***limiteur de charge*** S’entend de l’élément ou de la caractéristique de la ceinture de sécurité qui maîtrise la tension de la ceinture de manière à contrôler les forces auxquelles est soumis l’usager de la ceinture au moment d’une collision; (*load-limiter*)
 
-***liquide de compatibilité SAE***[Abrogée, DORS/2007-180, art. 1]
+***liquide de compatibilité SAE***[Abrogée, DORS/2007-180, art. 1]
 
-***liquide pour freins***[Abrogée, DORS/2007-180, art. 1]
+***liquide pour freins***[Abrogée, DORS/2007-180, art. 1]
 
-***Loi*** La [Loi sur la sécurité automobile](/fr/Lois/Lois%20du%20Canada/1993/ch.%2016.md). (*Act*)
+***Loi*** La [Loi sur la sécurité automobile](/fr/Lois/Lois%20du%20Canada/1993/ch.%2016.md); (*Act*)
 
-***longueur libre***[Abrogée, DORS/2007-180, art. 1]
+***longueur libre***[Abrogée, DORS/2007-180, art. 1]
 
-***maison roulante*** désigne un véhicule de plus de 102 pouces de largeur hors tout, conçu pour être traîné par un autre véhicule et servir d’habitation ou de lieu de travail; (*mobile home*)
+***maison roulante*** désigne un véhicule de plus de 102 pouces de largeur hors tout, conçu pour être traîné par un autre véhicule et servir d’habitation ou de lieu de travail; (*mobile home*)
 
-***marque*** désigne le nom qu’un fabricant donne à un groupe de véhicules; (*make*)
+***marque*** désigne le nom qu’un fabricant donne à un groupe de véhicules; (*make*)
 
-***masse à vide*** désigne la masse d’un véhicule à équipement standard et portant sa pleine capacité de carburant, d’huile et de liquide de refroidissement, y compris la masse de tout climatiseur adapté au véhicule ainsi que l’excédent de masse d’un moteur installé au choix, par rapport à la masse d’un moteur standard; (*curb mass*)
+***masse à vide*** désigne la masse d’un véhicule à équipement standard et portant sa pleine capacité de carburant, d’huile et de liquide de refroidissement, y compris la masse de tout climatiseur adapté au véhicule ainsi que l’excédent de masse d’un moteur installé au choix, par rapport à la masse d’un moteur standard; (*curb mass*)
 
-***masse des accessoires***[Abrogée, DORS/2008-258, art. 1]
+***masse des accessoires***[Abrogée, DORS/2008-258, art. 1]
 
-***masse des articles facultatifs de production courante***[Abrogée, DORS/2008-258, art. 1]
+***masse des articles facultatifs de production courante***[Abrogée, DORS/2008-258, art. 1]
 
-***masse du véhicule sans charge*** Masse d’un véhicule dont les réservoirs sont remplis à capacité des liquides nécessaires à son fonctionnement, mais sans chargement ni occupant. (*unloaded vehicle mass*)
+***masse du véhicule sans charge*** Masse d’un véhicule dont les réservoirs sont remplis à capacité des liquides nécessaires à son fonctionnement, mais sans chargement ni occupant; (*unloaded vehicle mass*)
 
-***masse maximale de véhicule chargé***[Abrogée, DORS/2008-258, art. 1]
+***masse maximale de véhicule chargé***[Abrogée, DORS/2008-258, art. 1]
 
-***masse normale des occupants***[Abrogée, DORS/2008-258, art. 1]
+***masse normale des occupants***[Abrogée, DORS/2008-258, art. 1]
 
-***Méthodes d’essai de sécurité des véhicules automobiles***[Abrogée, DORS/97-141, art. 1]
+***Méthodes d’essai de sécurité des véhicules automobiles***[Abrogée, DORS/97-141, art. 1]
 
-***Méthodes d’essai de sécurité des véhicules automobiles, article 106, « Boyaux de frein »***[Abrogée, DORS/2007-180, art. 1]
+***Méthodes d’essai de sécurité des véhicules automobiles, article 106, « Boyaux de frein »***[Abrogée, DORS/2007-180, art. 1]
 
-***Méthodes d’essai de sécurité des véhicules automobiles, article 116, « Fluide hydraulique des freins »***[Abrogée, DORS/95-536, art. 7]
+***Méthodes d’essai de sécurité des véhicules automobiles, article 116, « Fluide hydraulique des freins »***[Abrogée, DORS/95-536, art. 7]
 
-***Méthodes d’essai de sécurité des véhicules automobiles, article 116, « Liquides pour freins hydrauliques »***[Abrogée, DORS/2007-180, art. 1]
+***Méthodes d’essai de sécurité des véhicules automobiles, article 116, « Liquides pour freins hydrauliques »***[Abrogée, DORS/2007-180, art. 1]
 
-***minimoto***[Abrogée, DORS/88-268, art. 1]
+***minimoto***[Abrogée, DORS/88-268, art. 1]
 
-***ministre*** désigne le ministre des Transports; (*Minister*)
+***ministre*** désigne le ministre des Transports; (*Minister*)
 
-***miroir plan*** désigne un miroir ayant une surface plane ou plate réfléchissante sur laquelle la hauteur et la largeur angulaires de l’image d’un objet sont égales à sa hauteur et à sa largeur angulaires lorsqu’on le regarde directement à la même distance, sous réserve des défauts n’excédant pas les tolérances normales de fabrication; ce terme comprend un rétroviseur prismatique jour-nuit orientable qui présente une image à grossissement nul dans l’une de ses positions; (*unit magnification mirror*)
+***miroir plan*** désigne un miroir ayant une surface plane ou plate réfléchissante sur laquelle la hauteur et la largeur angulaires de l’image d’un objet sont égales à sa hauteur et à sa largeur angulaires lorsqu’on le regarde directement à la même distance, sous réserve des défauts n’excédant pas les tolérances normales de fabrication; ce terme comprend un rétroviseur prismatique jour-nuit orientable qui présente une image à grossissement nul dans l’une de ses positions; (*unit magnification mirror*)
 
-***modèle*** désigne le nom qu’un fabricant donne à une famille de véhicules de même genre, marque, ligne, série et type de carrosserie; (*model*)
+***modèle*** désigne le nom qu’un fabricant donne à une famille de véhicules de même genre, marque, ligne, série et type de carrosserie; (*model*)
 
-***montage de projecteur*** Montage qui consiste en un ou plusieurs projecteurs, dispositifs d’orientation, composants de retenue de projecteur, raccords électriques et supports et qui peut comprendre un boîtier et une ou plusieurs ampoules. (*headlamp assembly*)
+***montage de projecteur*** Montage qui consiste en un ou plusieurs projecteurs, dispositifs d’orientation, composants de retenue de projecteur, raccords électriques et supports et qui peut comprendre un boîtier et une ou plusieurs ampoules; (*headlamp assembly*)
 
-***monteur***[Abrogée, DORS/95-147, art. 1]
+***monteur***[Abrogée, DORS/95-147, art. 1]
 
-***motocyclette*** Véhicule qui appartient aux sous-catégories motocyclette à vitesse limitée, motocyclette à habitacle fermé, motocyclette sans habitacle fermé ou tricycle à moteur et qui, à la fois :
+***motocyclette*** Véhicule qui appartient aux sous-catégories motocyclette à vitesse limitée, motocyclette à habitacle fermé, motocyclette sans habitacle fermé ou tricycle à moteur et qui, à la fois :
 - **a)** est conçu pour rouler sur au plus trois roues en contact avec le sol;
 - **b)** a des roues dont le diamètre de jante minimal est de 250 mm;
 - **c)** a un empattement minimal de 1 016 mm.
 
-Sont exclus de la présente définition les bicyclettes assistées, les motocyclettes à usage restreint, les voitures de tourisme, les camions, les véhicules de tourisme à usages multiples, les véhicules de compétition, les véhicules importés temporairement à des fins spéciales et les véhicules à trois roues. (*motorcycle*)
+Sont exclus de la présente définition les bicyclettes assistées, les motocyclettes à usage restreint, les voitures de tourisme, les camions, les véhicules de tourisme à usages multiples, les véhicules de compétition, les véhicules importés temporairement à des fins spéciales et les véhicules à trois roues; (*motorcycle*)
 
-***motocyclette à habitacle fermé*** Motocyclette qui, à la fois : 
+***motocyclette à habitacle fermé*** Motocyclette qui, à la fois :
 - **a)** a un guidon dont la rotation se transmet sans intermédiaire à l’axe d’une seule roue en contact avec le sol;
 - **b)** est conçue pour rouler sur deux roues en contact avec le sol;
 - **c)** a un siège pour le conducteur d’une hauteur minimale, sans charge, de 650 mm;
-- **d)** comporte une structure qui fait partie intégrante du châssis du véhicule renfermant partiellement ou complètement le conducteur et son passager. (*enclosed motorcycle*)
+- **d)** comporte une structure qui fait partie intégrante du châssis du véhicule renfermant partiellement ou complètement le conducteur et son passager; (*enclosed motorcycle*)
 
-***motocyclette à usage restreint*** Véhicule, y compris un véhicule tout terrain conçu principalement pour les loisirs, à l’exclusion d’une bicyclette assistée, d’un véhicule de compétition et d’un véhicule importé temporairement à des fins spéciales, qui, à la fois :
+***motocyclette à usage restreint*** Véhicule, y compris un véhicule tout terrain conçu principalement pour les loisirs, à l’exclusion d’une bicyclette assistée, d’un véhicule de compétition et d’un véhicule importé temporairement à des fins spéciales, qui, à la fois :
 - **a)** a un guidon;
 - **b)** est conçu pour rouler sur au plus quatre roues en contact avec le sol;
 - **c)** ne comporte pas de partie intégrante du véhicule renfermant le conducteur et son passager, ceux-ci n’étant protégés que par la partie du véhicule située devant le torse du conducteur et par le dossier du siège;
-- **d)** porte une étiquette dans les deux langues officielles, apposée en permanence et bien en évidence, indiquant que le véhicule est une motocyclette à usage restreint ou un véhicule tout terrain et qu’il n’est pas destiné à être utilisé sur les chemins publics. (*restricted-use motorcycle*)
+- **d)** porte une étiquette dans les deux langues officielles, apposée en permanence et bien en évidence, indiquant que le véhicule est une motocyclette à usage restreint ou un véhicule tout terrain et qu’il n’est pas destiné à être utilisé sur les chemins publics; (*restricted-use motorcycle*)
 
-***motocyclette à vitesse limitée*** Motocyclette qui, à la fois : 
+***motocyclette à vitesse limitée*** Motocyclette qui, à la fois :
 - **a)** a un guidon dont la rotation se transmet sans intermédiaire à l’axe d’une seule roue en contact avec le sol;
 - **b)** a une vitesse maximale de 70 km/h ou moins;
 - **c)** a un siège pour le conducteur d’une hauteur minimale, sans charge, de 650 mm;
-- **d)** ne comporte pas de structure renfermant partiellement ou complètement le conducteur et son passager, autre que la partie du véhicule située devant le torse du conducteur et le dossier du siège. (*limited-speed motorcycle*)
+- **d)** ne comporte pas de structure renfermant partiellement ou complètement le conducteur et son passager, autre que la partie du véhicule située devant le torse du conducteur et le dossier du siège; (*limited-speed motorcycle*)
 
-***motocyclette de compétition***[Abrogée, DORS/2000-182, art. 1]
+***motocyclette de compétition***[Abrogée, DORS/2000-182, art. 1]
 
-***motocyclette sans habitacle fermé*** Motocyclette qui, à la fois : 
+***motocyclette sans habitacle fermé*** Motocyclette qui, à la fois :
 - **a)** a un guidon dont la rotation se transmet sans intermédiaire à l’axe d’une seule roue en contact avec le sol;
 - **b)** est conçue pour rouler sur deux roues en contact avec le sol ou sur trois roues en contact avec le sol, si elles sont asymétriques par rapport à l’axe médian longitudinal;
 - **c)** a un siège pour le conducteur d’une hauteur minimale, sans charge, de 650 mm;
 - **d)** a une vitesse maximale supérieure à 70 km/h;
-- **e)** ne comporte pas de structure renfermant partiellement ou complètement le conducteur et son passager, autre que la partie du véhicule située devant le torse du conducteur et le dossier du siège. (*open motorcycle*)
+- **e)** ne comporte pas de structure renfermant partiellement ou complètement le conducteur et son passager, autre que la partie du véhicule située devant le torse du conducteur et le dossier du siège; (*open motorcycle*)
 
-***motocyclette tout terrain***[Abrogée, DORS/88-268, art. 1]
+***motocyclette tout terrain***[Abrogée, DORS/88-268, art. 1]
 
-***motoneige*** Véhicule, y compris un véhicule convertible en motoneige, à l’exclusion d’un véhicule de compétition et d’un véhicule importé temporairement à des fins spéciales, qui a une masse d’au plus 450 kg, est conçu essentiellement pour se déplacer sur la neige, est muni d’un ou plusieurs skis de direction et est entraîné par une ou plusieurs chenilles en contact avec le sol. (*snowmobile*)
+***motoneige*** Véhicule, y compris un véhicule convertible en motoneige, à l’exclusion d’un véhicule de compétition et d’un véhicule importé temporairement à des fins spéciales, qui a une masse d’au plus 450 kg, est conçu essentiellement pour se déplacer sur la neige, est muni d’un ou plusieurs skis de direction et est entraîné par une ou plusieurs chenilles en contact avec le sol; (*snowmobile*)
 
-***motoneige de compétition***[Abrogée, DORS/2000-182, art. 1]
+***motoneige de compétition***[Abrogée, DORS/2000-182, art. 1]
 
-***moyeu*** désigne une pièce rotative produite pour monter une roue à disque; (*hub*)
+***moyeu*** désigne une pièce rotative produite pour monter une roue à disque; (*hub*)
 
-***nombre désigné de places assises*** Le nombre désigné de places assises déterminé conformément à l’article 2.3. (*designated seating capacity*)
+***nombre désigné de places assises*** Le nombre désigné de places assises déterminé conformément à l’article 2.3; (*designated seating capacity*)
 
-***norme de sécurité ANSI Z26 — 1996*** La norme ANSI/SAE Z26.1 — 1996 intitulée *American National Standard for Safety Glazing Materials for Glazing Motor Vehicles and Motor Vehicle Equipment Operating on Land Highways — Safety Standard*, publiée le 11 août 1997. (*ANSI Z26 Safety Standard — 1996*)
+***norme de sécurité ANSI Z26 — 1996*** La norme ANSI/SAE Z26.1 — 1996 intitulée *American National Standard for Safety Glazing Materials for Glazing Motor Vehicles and Motor Vehicle Equipment Operating on Land Highways — Safety Standard*, publiée le 11 août 1997; (*ANSI Z26 Safety Standard — 1996*)
 
-***NSVAC*** est le sigle pour Normes de sécurité des véhicules automobiles du Canada; (*CMVSS*)
+***NSVAC*** est le sigle pour Normes de sécurité des véhicules automobiles du Canada; (*CMVSS*)
 
-***numéro d’identification du véhicule*** désigne un numéro formé de chiffres arabes, de caractères romains ou des deux, que le fabricant attribue à un véhicule à des fins d’identification; (*vehicle identification number*)
+***numéro d’identification du véhicule*** désigne un numéro formé de chiffres arabes, de caractères romains ou des deux, que le fabricant attribue à un véhicule à des fins d’identification; (*vehicle identification number*)
 
-***occupant*** Personne ou mannequin assis dans un véhicule et dont les dimensions et la masse, à moins d’indication contraire, correspondent à ceux du 95<sup>e</sup> percentile adulte du sexe masculin. (*occupant*)
+***occupant*** Personne ou mannequin assis dans un véhicule et dont les dimensions et la masse, à moins d’indication contraire, correspondent à ceux du 95<sup>e</sup> percentile adulte du sexe masculin; (*occupant*)
 
 ***occupant à mobilité réduite***[Abrogée, DORS/2013-117, art. 1]
 
-***panneau du pavillon à servocommande***[Abrogée, DORS/2007-180, art. 1]
+***panneau du pavillon à servocommande***[Abrogée, DORS/2007-180, art. 1]
 
-***papillon des gaz*** désigne une pièce du dispositif de dosage du carburant
+***papillon des gaz*** désigne une pièce du dispositif de dosage du carburant
 - **a)** qui est rattachée au système de commande d’accélération actionné par le conducteur, et
-- **b)** qui commande le régime du moteur; (*throttle*)
+- **b)** qui commande le régime du moteur; (*throttle*)
 
-***partie haute pression du circuit d’alimentation en carburant*** Dans le cas d’un véhicule qui utilise du GPL ou du GNC comme source d’énergie pour sa propulsion, tous les composants du circuit d’alimentation en carburant, du réservoir de carburant, qui est inclus, au régulateur de première étape, qui est exclu. (*high-pressure portion of the fuel system*)
+***partie haute pression du circuit d’alimentation en carburant*** Dans le cas d’un véhicule qui utilise du GPL ou du GNC comme source d’énergie pour sa propulsion, tous les composants du circuit d’alimentation en carburant, du réservoir de carburant, qui est inclus, au régulateur de première étape, qui est exclu; (*high-pressure portion of the fuel system*)
 
-***personne handicapée*** Personne qui, pour des raisons orthopédiques ou à cause de sa conformation ou d’autres caractéristiques physiques, a besoin d’un véhicule adapté pour tenir compte de son handicap. (*disabled person*)
+***personne handicapée*** Personne qui, pour des raisons orthopédiques ou à cause de sa conformation ou d’autres caractéristiques physiques, a besoin d’un véhicule adapté pour tenir compte de son handicap; (*disabled person*)
 
-***pièces*** S’entend, relativement à une ceinture de sécurité, des pièces de métal ou de plastique rigide. (*hardware*)
+***pièces*** S’entend, relativement à une ceinture de sécurité, des pièces de métal ou de plastique rigide; (*hardware*)
 
-***pièces de fixation*** Les pièces conçues pour fixer les sangles d’une ceinture de sécurité à un véhicule. (*attachment hardware*)
+***pièces de fixation*** Les pièces conçues pour fixer les sangles d’une ceinture de sécurité à un véhicule; (*attachment hardware*)
 
-***pièces de réglage*** Les pièces conçues pour régler la longueur d’une ceinture de sécurité aux dimensions de l’utilisateur, y compris les pièces faisant partie de l’attache, du rétracteur et des pièces de fixation. (*adjustment hardware*)
+***pièces de réglage*** Les pièces conçues pour régler la longueur d’une ceinture de sécurité aux dimensions de l’utilisateur, y compris les pièces faisant partie de l’attache, du rétracteur et des pièces de fixation; (*adjustment hardware*)
 
-***place assise désignée*** Dans un véhicule, emplacement qui est susceptible de servir de place assise et dont la largeur de la surface de siège est d’au moins 330 mm. (*designated seating position*)
+***place assise désignée*** Dans un véhicule, emplacement qui est susceptible de servir de place assise et dont la largeur de la surface de siège est d’au moins 330 mm; (*designated seating position*)
 
-***place assise désignée extérieure*** Place assise désignée dont un plan vertical longitudinal tangent au côté extérieur du coussin du siège est à moins de 305 mm du point le plus rentré de la surface intérieure du véhicule, lequel point est situé verticalement entre le point de référence de position assise et le point de référence des épaules et longitudinalement entre le bord avant et le bord arrière du coussin de siège. (*outboard designated seating position*)
+***place assise désignée extérieure*** Place assise désignée dont un plan vertical longitudinal tangent au côté extérieur du coussin du siège est à moins de 305 mm du point le plus rentré de la surface intérieure du véhicule, lequel point est situé verticalement entre le point de référence de position assise et le point de référence des épaules et longitudinalement entre le bord avant et le bord arrière du coussin de siège; (*outboard designated seating position*)
 
-***place assise désignée extérieure arrière*** Place assise désignée extérieure qui est située à l’arrière d’une place assise désignée extérieure avant. Ne sont pas visées par la présente définition les places assises désignées adjacentes au passage qui est situé entre le siège et le côté intérieur du véhicule et qui est conçu pour permettre l’accès aux places assises plus à l’arrière. (*rear outboard designated seating position*)
+***place assise désignée extérieure arrière*** Place assise désignée extérieure qui est située à l’arrière d’une place assise désignée extérieure avant. Ne sont pas visées par la présente définition les places assises désignées adjacentes au passage qui est situé entre le siège et le côté intérieur du véhicule et qui est conçu pour permettre l’accès aux places assises plus à l’arrière; (*rear outboard designated seating position*)
 
-***place assise désignée extérieure avant*** La place assise désignée du conducteur et la place assise désignée extérieure située le plus à l’avant-droit. Ne sont pas visées par la présente définition les places assises désignées passager des autobus scolaires. (*front outboard designated seating position*)
+***place assise désignée extérieure avant*** La place assise désignée du conducteur et la place assise désignée extérieure située le plus à l’avant-droit. Ne sont pas visées par la présente définition les places assises désignées passager des autobus scolaires; (*front outboard designated seating position*)
 
-***place du conducteur particulière*** La place du conducteur particulière comprend un siège du conducteur qui est conçu pour être amovible et un siège du conducteur doté d’une capacité de réglage augmentée permettant à une personne de passer d’un fauteuil roulant au siège du conducteur. (*special driver accommodation*)
+***place du conducteur particulière*** La place du conducteur particulière comprend un siège du conducteur qui est conçu pour être amovible et un siège du conducteur doté d’une capacité de réglage augmentée permettant à une personne de passer d’un fauteuil roulant au siège du conducteur; (*special driver accommodation*)
 
-***plan d’orientation repère***[Abrogée, DORS/96-366, art. 1]
+***plan d’orientation repère***[Abrogée, DORS/96-366, art. 1]
 
-***pneu pour camion léger*** Pneu désigné par son fabricant comme étant destiné principalement à être utilisé sur des camions légers ou des véhicules de tourisme à usages multiples. (*light-truck tire** or **LT tire*)
+***pneu pour camion léger*** Pneu désigné par son fabricant comme étant destiné principalement à être utilisé sur des camions légers ou des véhicules de tourisme à usages multiples; (*light-truck tire** or **LT tire*)
 
-***pneu pour voiture de tourisme*** Pneu destiné à être utilisé sur des voitures de tourisme, véhicules de tourisme à usages multiples et camions dont le PNBV est de 4 536 kg ou moins. (*passenger car tire*)
+***pneu pour voiture de tourisme*** Pneu destiné à être utilisé sur des voitures de tourisme, véhicules de tourisme à usages multiples et camions dont le PNBV est de 4 536 kg ou moins; (*passenger car tire*)
 
-***poids à vide*** désigne le poids d’un véhicule à équipement standard et portant sa pleine capacité de carburant, d’huile et de liquide de refroidissement, y compris le poids de tout climatiseur adapté au véhicule ainsi que l’excédent de poids d’un moteur installé au choix, par rapport au poids d’un moteur standard; (*curb weight*)
+***poids à vide*** désigne le poids d’un véhicule à équipement standard et portant sa pleine capacité de carburant, d’huile et de liquide de refroidissement, y compris le poids de tout climatiseur adapté au véhicule ainsi que l’excédent de poids d’un moteur installé au choix, par rapport au poids d’un moteur standard; (*curb weight*)
 
-***poids du véhicule avec charge légère***[Abrogée, DORS/99-357, art. 1]
+***poids du véhicule avec charge légère***[Abrogée, DORS/99-357, art. 1]
 
-***poids du véhicule sans charge*** désigne le poids du véhicule dont les réservoirs sont remplis à pleine capacité de tous les liquides nécessaires à son fonctionnement, mais sans chargement ni occupants; (*unloaded vehicle weight*)
+***poids du véhicule sans charge*** désigne le poids du véhicule dont les réservoirs sont remplis à pleine capacité de tous les liquides nécessaires à son fonctionnement, mais sans chargement ni occupants; (*unloaded vehicle weight*)
 
-***poids nominal brut du véhicule*** ou ***PNBV*** désigne la valeur spécifiée par le fabricant comme poids d’un seul véhicule en charge; (*gross vehicle weight rating** or **GVWR*)
+***poids nominal brut du véhicule*** ou ***PNBV*** désigne la valeur spécifiée par le fabricant comme poids d’un seul véhicule en charge; (*gross vehicle weight rating** or **GVWR*)
 
-***poids nominal brut sur l’essieu*** ou ***PNBE*** désigne la valeur spécifiée par le fabricant d’un véhicule comme poids sur un seul essieu du véhicule en charge, mesuré à la surface entre le pneu et le sol; (*gross axle weight rating** or **GAWR*)
+***poids nominal brut sur l’essieu*** ou ***PNBE*** désigne la valeur spécifiée par le fabricant d’un véhicule comme poids sur un seul essieu du véhicule en charge, mesuré à la surface entre le pneu et le sol; (*gross axle weight rating** or **GAWR*)
 
-***point de référence de l’épaule*** S’entend du point situé à 563 mm au-dessus du point H le long de la ligne de torse. (*shoulder reference point*)
+***point de référence de l’épaule*** S’entend du point situé à 563 mm au-dessus du point H le long de la ligne de torse; (*shoulder reference point*)
 
-***point de référence de position assise*** L’unique « *Design H-Point* », au sens de l’article 3.11.1 de la pratique recommandée J1100 de la SAE intitulée *Motor Vehicle Dimensions* (février 2001), qui :
+***point de référence de position assise*** L’unique « *Design H-Point* », au sens de l’article 3.11.1 de la pratique recommandée J1100 de la SAE intitulée *Motor Vehicle Dimensions* (février 2001), qui :
 - **a)** établit la position nominale normale la plus reculée du conducteur ou d’un passager pour chacune des places assises désignées, compte tenu de tous les réglages possibles dans un véhicule, à l’horizontale, à la verticale et en inclinaison;
-- **b)** a des coordonnées X, Y et Z, au sens de l’article 3.3 de la pratique recommandée J1100 de la SAE intitulée *Motor Vehicle Dimensions* (février 2001), établies par rapport à la structure du véhicule conçu;
+- **b)** a des coordonnées X, Y et Z, au sens de l’article 3.3 de la pratique recommandée J1100 de la SAE intitulée *Motor Vehicle Dimensions* (février 2001), établies par rapport à la structure du véhicule conçu;
 - **c)** simule la position de l’articulation de la hanche humaine;
-- **d)** est le point de référence permettant de mettre en place le gabarit point H avec la jambe du 95<sup>e</sup> percentile, décrit à l’article 4.1 de la norme J826 de la SAE intitulée *Devices for Use in Defining and Measuring Vehicle Seating Accommodation* (juillet 1995) ou, si ce gabarit point H ne peut être mis en place, le point de référence lorsque le siège est dans sa position la plus reculée. (*seating reference point*)
+- **d)** est le point de référence permettant de mettre en place le gabarit point H avec la jambe du 95<sup>e</sup> percentile, décrit à l’article 4.1 de la norme J826 de la SAE intitulée *Devices for Use in Defining and Measuring Vehicle Seating Accommodation* (juillet 1995) ou, si ce gabarit point H ne peut être mis en place, le point de référence lorsque le siège est dans sa position la plus reculée; (*seating reference point*)
 
-***point H*** Le point d’articulation mécanique des hanches d’un mannequin qui simule le point d’articulation de la hanche humaine décrit dans la norme SAE J826 intitulée *Devices for Use in Defining and Measuring Vehicle Seating Accommodation* (juillet 1995). (*H-point*)
+***point H*** Le point d’articulation mécanique des hanches d’un mannequin qui simule le point d’articulation de la hanche humaine décrit dans la norme SAE J826 intitulée *Devices for Use in Defining and Measuring Vehicle Seating Accommodation* (juillet 1995); (*H-point*)
 
-***porte arrière*** Porte ou système de porte à l’arrière d’un véhicule automobile qui permet aux passagers d’y monter ou d’en descendre ou qui permet le chargement ou le déchargement de marchandises. Ne sont pas visés par la présente définition :
+***porte arrière*** Porte ou système de porte à l’arrière d’un véhicule automobile qui permet aux passagers d’y monter ou d’en descendre ou qui permet le chargement ou le déchargement de marchandises. Ne sont pas visés par la présente définition :
 - **a)** le couvercle de coffre;
-- **b)** la porte ou la fenêtre qui est faite entièrement de vitrage et dont les loquets ou les systèmes de charnières sont montés directement sur celui-ci. (*back door*)
+- **b)** la porte ou la fenêtre qui est faite entièrement de vitrage et dont les loquets ou les systèmes de charnières sont montés directement sur celui-ci; (*back door*)
 
-***porte-autos*** désigne un camion et une remorque conçus pour être utilisés en combinaison pour transporter des véhicules automobiles et pour que le véhicule tracteur puisse porter un chargement ailleurs que sur l’attelage pivotant et qu’il doive être chargé au moyen du véhicule tracté; (*auto transporter*)
+***porte-autos*** désigne un camion et une remorque conçus pour être utilisés en combinaison pour transporter des véhicules automobiles et pour que le véhicule tracteur puisse porter un chargement ailleurs que sur l’attelage pivotant et qu’il doive être chargé au moyen du véhicule tracté; (*auto transporter*)
 
-***position de ralenti*** désigne la position du papillon des gaz lorsque celui-ci entre en contact avec la commande du ralenti réglée selon les conditions existantes et conformément aux recommandations du fabricant concernant les réglages de régime du moteur pour le départ à froid, la climatisation et les dispositifs antipollution, ainsi que les dispositifs de réglage du papillon des gaz; (*idle position*)
+***position de ralenti*** désigne la position du papillon des gaz lorsque celui-ci entre en contact avec la commande du ralenti réglée selon les conditions existantes et conformément aux recommandations du fabricant concernant les réglages de régime du moteur pour le départ à froid, la climatisation et les dispositifs antipollution, ainsi que les dispositifs de réglage du papillon des gaz; (*idle position*)
 
-***projecteur*** désigne, aux fins des articles 108 et 108.1 de l’annexe IV, un phare servant à éclairer la route et les objets se trouvant sur la route, en avant du véhicule, à l’exclusion d’un projecteur antibrouillard et d’un projecteur de route supplémentaire; (*headlamp*)
+***projecteur*** désigne, aux fins des articles 108 et 108.1 de l’annexe IV, un phare servant à éclairer la route et les objets se trouvant sur la route, en avant du véhicule, à l’exclusion d’un projecteur antibrouillard et d’un projecteur de route supplémentaire; (*headlamp*)
 
-***projecteur à ampoule remplaçable***[Abrogée, DORS/96-366, art. 1]
+***projecteur à ampoule remplaçable***[Abrogée, DORS/96-366, art. 1]
 
-***projecteur contribuant***[Abrogée, DORS/96-366, art. 1]
+***projecteur contribuant***[Abrogée, DORS/96-366, art. 1]
 
-***projecteur de type 1***[Abrogée, DORS/91-692, art. 1]
+***projecteur de type 1***[Abrogée, DORS/91-692, art. 1]
 
-***projecteur de type 2***[Abrogée, DORS/91-692, art. 1]
+***projecteur de type 2***[Abrogée, DORS/91-692, art. 1]
 
-***projecteur scellé*** désigne, aux fins des articles 108 et 108.1 de l’annexe IV, un projecteur dont les éléments comprennent un réflecteur, une lentille et une ou plusieurs sources de lumière et constituent un ensemble scellé indivisible qui ne peut pas être démonté sans devenir complètement inutilisable; (*sealed beam headlamp*)
+***projecteur scellé*** désigne, aux fins des articles 108 et 108.1 de l’annexe IV, un projecteur dont les éléments comprennent un réflecteur, une lentille et une ou plusieurs sources de lumière et constituent un ensemble scellé indivisible qui ne peut pas être démonté sans devenir complètement inutilisable; (*sealed beam headlamp*)
 
-***projecteur scellé assemblé par collage***[Abrogée, DORS/96-366, art. 1]
+***projecteur scellé assemblé par collage***[Abrogée, DORS/96-366, art. 1]
 
-***protection passive de l’occupant***[Abrogée, DORS/93-5, art. 1]
+***protection passive de l’occupant***[Abrogée, DORS/93-5, art. 1]
 
-***raccord de canalisation à vide***[Abrogée, DORS/2007-180, art. 1]
+***raccord de canalisation à vide***[Abrogée, DORS/2007-180, art. 1]
 
-***raccord d’extrémité de boyau de frein***[Abrogée, DORS/2007-180, art. 1]
+***raccord d’extrémité de boyau de frein***[Abrogée, DORS/2007-180, art. 1]
 
-***raccord d’extrémité de boyau fixé en permanence***[Abrogée, DORS/2007-180, art. 1]
+***raccord d’extrémité de boyau fixé en permanence***[Abrogée, DORS/2007-180, art. 1]
 
-***ralentissement*** désigne toute réduction de vitesse, à l’exclusion d’un arrêt; (*snub*)
+***ralentissement*** désigne toute réduction de vitesse, à l’exclusion d’un arrêt; (*snub*)
 
-***remorque*** Véhicule, y compris une remorque-autobus, une remorque pour charges longues et un chariot dérouleur, qui est conçu pour transporter ou abriter des personnes ou des biens et être traîné par un autre véhicule. Sont exclus de la présente définition les maisons roulantes, les chariots de conversion, le matériel de terrassement, les instruments aratoires et les véhicules importés temporairement à des fins spéciales. (*trailer*)
+***remorque*** Véhicule, y compris une remorque-autobus, une remorque pour charges longues et un chariot dérouleur, qui est conçu pour transporter ou abriter des personnes ou des biens et être traîné par un autre véhicule. Sont exclus de la présente définition les maisons roulantes, les chariots de conversion, le matériel de terrassement, les instruments aratoires et les véhicules importés temporairement à des fins spéciales; (*trailer*)
 
-***remorque-autobus*** désigne un véhicule ayant un nombre désigné de places assises supérieur à 10, conçu pour être traîné par un autre véhicule; (*bus trailer*)
+***remorque-autobus*** désigne un véhicule ayant un nombre désigné de places assises supérieur à 10, conçu pour être traîné par un autre véhicule; (*bus trailer*)
 
-***remorque complète*** Aux fins du Document de normes techniques no 121 — Systèmes de freinage à air comprimé, remorque, à l’exception d’une remorque pour charges longues, qui est équipée de deux ou plusieurs essieux qui supportent la remorque en charge. (*full trailer*)
+***remorque complète*** Aux fins du Document de normes techniques no 121 — Systèmes de freinage à air comprimé, remorque, à l’exception d’une remorque pour charges longues, qui est équipée de deux ou plusieurs essieux qui supportent la remorque en charge; (*full trailer*)
 
-***remorque de camping*** Remorque conçue pour servir de logement temporaire en voyage, en vacances ou à des fins récréatives. (*recreational trailer*)
+***remorque de camping*** Remorque conçue pour servir de logement temporaire en voyage, en vacances ou à des fins récréatives; (*recreational trailer*)
 
-***remorque incomplète*** Véhicule, à l’exception d’un véhicule importé temporairement à des fins spéciales, qui peut être tiré et qui comprend au moins un châssis et la suspension, mais qui nécessite d’autres opérations de fabrication pour devenir un véhicule complet. (*incomplete trailer*)
+***remorque incomplète*** Véhicule, à l’exception d’un véhicule importé temporairement à des fins spéciales, qui peut être tiré et qui comprend au moins un châssis et la suspension, mais qui nécessite d’autres opérations de fabrication pour devenir un véhicule complet; (*incomplete trailer*)
 
-***remorque lourde*** désigne une remorque comportant
+***remorque lourde*** désigne une remorque comportant
 - **a)** des conduits de freins conçus pour s’adapter à une séparation ou à un allongement du châssis du véhicule, ou
-- **b)** une carrosserie composée exclusivement d’une plate-forme dont la surface de chargement n’est pas à plus de 101,6 cm (40 pouces) du sol, lorsque la remorque est vide; cette plate-forme peut toutefois être munie de ridelles conçues pour s’enlever facilement et avoir une structure permanente à l’avant; (*heavy hauler trailer*)
+- **b)** une carrosserie composée exclusivement d’une plate-forme dont la surface de chargement n’est pas à plus de 101,6 cm (40 pouces) du sol, lorsque la remorque est vide; cette plate-forme peut toutefois être munie de ridelles conçues pour s’enlever facilement et avoir une structure permanente à l’avant; (*heavy hauler trailer*)
 
-***remorque pour bois à pâte***[Abrogée, DORS/99-357, art. 1]
+***remorque pour bois à pâte***[Abrogée, DORS/99-357, art. 1]
 
-***remorque pour charges longues*** désigne un véhicule conçu pour être traîné par un autre véhicule au moyen d’une barre d’assemblage ou d’un timon ou pour être attaché ou autrement fixé au véhicule remorqueur, utilisé pour le transport de charges longues ou de forme irrégulière comme les poteaux, les tuyaux, les pièces de charpente et autres articles pouvant généralement se maintenir comme des poutres placées entre des points d’appui; (*pole trailer*)
+***remorque pour charges longues*** désigne un véhicule conçu pour être traîné par un autre véhicule au moyen d’une barre d’assemblage ou d’un timon ou pour être attaché ou autrement fixé au véhicule remorqueur, utilisé pour le transport de charges longues ou de forme irrégulière comme les poteaux, les tuyaux, les pièces de charpente et autres articles pouvant généralement se maintenir comme des poutres placées entre des points d’appui; (*pole trailer*)
 
-***remorque pour embarcation***[Abrogée, DORS/2008-104, art. 1]
+***remorque pour embarcation***[Abrogée, DORS/2008-104, art. 1]
 
-***remorque pour motoneige*** désigne une remorque conçue essentiellement pour le transport des motoneiges ou des traîneaux de motoneige; (*snowmobile trailer*)
+***remorque pour motoneige*** Remorque conçue essentiellement pour le transport des motoneiges; (*snowmobile trailer*)
 
-***remorque pour produits agricoles***[Abrogée, DORS/99-357, art. 1]
+***remorque pour produits agricoles***[Abrogée, DORS/99-357, art. 1]
 
-***répartition des occupants***[Abrogée, DORS/2008-258, art. 1]
+***répartition des occupants***[Abrogée, DORS/2008-258, art. 1]
 
-***réplique d’ancien modèle*** désigne un véhicule conçu de façon à être une réplique à l’échelle d’un ancien modèle et qui
+***réplique d’ancien modèle*** désigne un véhicule conçu de façon à être une réplique à l’échelle d’un ancien modèle et qui
 - **a)** peut être muni de pièces de conception actuelle,
-- **b)** est doté d’un moteur d’une puissance maximale de 8 kW (10,73 puissance au frein),
+- **b)** est doté d’un moteur d’une puissance maximale de 8 kW (10,73 puissance au frein),
 - **c)** est utilisé aux fins exclusives de défilé, d’exposition et de démonstration, et
-- **d)** porte, apposée de façon inamovible et bien en évidence, une étiquette spécifiant que le véhicule ne doit pas servir au transport sur les chemins publics en dehors des défilés, des expositions et des démonstrations; (*antique reproduction vehicle*)
+- **d)** porte, apposée de façon inamovible et bien en évidence, une étiquette spécifiant que le véhicule ne doit pas servir au transport sur les chemins publics en dehors des défilés, des expositions et des démonstrations; (*antique reproduction vehicle*)
 
-***réservoir de carburant*** Un ou plusieurs réservoirs de carburant munis d’une robinetterie intégrale, de dispositifs de dégagement de pression, de tubes, de boyaux et de supports de montage. (*fuel container*)
+***réservoir de carburant*** Un ou plusieurs réservoirs de carburant munis d’une robinetterie intégrale, de dispositifs de dégagement de pression, de tubes, de boyaux et de supports de montage; (*fuel container*)
 
-***ressort de suspension*** désigne tout genre de ressort (ressort à lame, hélicoïdal ou à boudin, à barre de torsion, en caoutchouc, à coussin d’air), utilisé dans les suspensions de véhicules; (*suspension spring*)
+***ressort de suspension*** désigne tout genre de ressort (ressort à lame, hélicoïdal ou à boudin, à barre de torsion, en caoutchouc, à coussin d’air), utilisé dans les suspensions de véhicules; (*suspension spring*)
 
-***rétracteur*** Dispositif permettant de ranger partiellement ou complètement les sangles d’une ceinture de sécurité. (*retractor*)
+***rétracteur*** Dispositif permettant de ranger partiellement ou complètement les sangles d’une ceinture de sécurité; (*retractor*)
 
-***rétracteur à blocage d’urgence*** Rétracteur auquel sont incorporées des pièces de réglage ayant un mécanisme de blocage qui est déclenché par l’accélération du véhicule, le mouvement des sangles par rapport au véhicule ou par toute autre action automatique se produisant en cas d’urgence, et qui peut, en position bloquée, supporter certaines forces de retenue. (*emergency-locking retractor*)
+***rétracteur à blocage d’urgence*** Rétracteur auquel sont incorporées des pièces de réglage ayant un mécanisme de blocage qui est déclenché par l’accélération du véhicule, le mouvement des sangles par rapport au véhicule ou par toute autre action automatique se produisant en cas d’urgence, et qui peut, en position bloquée, supporter certaines forces de retenue; (*emergency-locking retractor*)
 
-***rétracteur autobloquant*** Rétracteur auquel sont incorporées des pièces de réglage ayant un mécanisme autobloquant qui peut, en position bloquée, supporter certaines forces de retenue. (*automatic-locking retractor*)
+***rétracteur autobloquant*** Rétracteur auquel sont incorporées des pièces de réglage ayant un mécanisme autobloquant qui peut, en position bloquée, supporter certaines forces de retenue; (*automatic-locking retractor*)
 
-***rétracteur sans blocage*** Rétracteur n’ayant pas de mécanisme de blocage, dont il est possible de tirer les sangles pratiquement à leur longueur maximale par l’application d’une force extérieure minime, qui n’assure aucun réglage de la longueur de la ceinture et qui n’a pas à supporter de forces de retenue lorsque les sangles sont tirées à leur longueur maximale. (*non-locking retractor*)
+***rétracteur sans blocage*** Rétracteur n’ayant pas de mécanisme de blocage, dont il est possible de tirer les sangles pratiquement à leur longueur maximale par l’application d’une force extérieure minime, qui n’assure aucun réglage de la longueur de la ceinture et qui n’a pas à supporter de forces de retenue lorsque les sangles sont tirées à leur longueur maximale; (*non-locking retractor*)
 
-***roue à disque*** désigne une pièce où est monté le pneumatique ou l’ensemble pneumatique-chambre à air, comprenant une jante et une partie en forme de cuvette fixée de façon permanente à la circonférence intérieure de la jante; (*disc wheel*)
+***roue à disque*** désigne une pièce où est monté le pneumatique ou l’ensemble pneumatique-chambre à air, comprenant une jante et une partie en forme de cuvette fixée de façon permanente à la circonférence intérieure de la jante; (*disc wheel*)
 
-***roue à rayons*** désigne une pièce rotative produite pour monter et fixer des jantes amovibles; (*spoke wheel*)
+***roue à rayons*** désigne une pièce rotative produite pour monter et fixer des jantes amovibles; (*spoke wheel*)
 
-***roulotte-automobile***[Abrogée, DORS/93-5, art. 1(F)]
+***roulotte-automobile***[Abrogée, DORS/93-5, art. 1(F)]
 
-***rupture***[Abrogée, DORS/2007-180, art. 1]
+***rupture***[Abrogée, DORS/2007-180, art. 1]
 
-***sac gonflable*** Dispositif automatique de protection de l’occupant qui est gonflable et qui peut se déployer lors d’une collision. (*air bag*)
+***sac gonflable*** Dispositif automatique de protection de l’occupant qui est gonflable et qui peut se déployer lors d’une collision; (*air bag*)
 
-***SAE*** La *Society of Automotive Engineers, Inc. (SAE International)*. (*SAE*)
+***SAE*** La *Society of Automotive Engineers, Inc. (SAE International)*; (*SAE*)
 
-***sangle*** Bande étroite tissée de fils continus et ayant des bordures finies. (*webbing*)
+***sangle*** Bande étroite tissée de fils continus et ayant des bordures finies; (*webbing*)
 
-***semi-remorque*** Remorque construite de telle manière qu’une partie importante de son poids est supportée par un autre véhicule au moyen d’un attelage pivotant ou d’autre attelage semblable. Ne sont pas visées par la présente définition la remorque pour charges longues ni toute autre remorque conçue pour être traînée par une voiture de tourisme ou un véhicule de tourisme à usages multiples. (*semi-trailer*)
+***semi-remorque*** Remorque construite de telle manière qu’une partie importante de son poids est supportée par un autre véhicule au moyen d’un attelage pivotant ou d’autre attelage semblable. Ne sont pas visées par la présente définition la remorque pour charges longues ni toute autre remorque conçue pour être traînée par une voiture de tourisme ou un véhicule de tourisme à usages multiples; (*semi-trailer*)
 
-***série*** désigne le nom qu’un fabricant donne à une subdivision de ligne pour en indiquer le prix, la grosseur ou le poids et qu’il utilise à des fins de commercialisation; (*series*)
+***série*** désigne le nom qu’un fabricant donne à une subdivision de ligne pour en indiquer le prix, la grosseur ou le poids et qu’il utilise à des fins de commercialisation; (*series*)
 
-***siège adjacent*** Place assise désignée dont l’emplacement est tel qu’une partie quelconque de son espace d’occupant se trouve à 25,4 cm au plus d’une issue de secours, sur une distance d’au moins 38,1 cm mesurée horizontalement et parallèlement à l’issue de secours. (*adjacent seat*)
+***siège adjacent*** Place assise désignée dont l’emplacement est tel qu’une partie quelconque de son espace d’occupant se trouve à 25,4 cm au plus d’une issue de secours, sur une distance d’au moins 38,1 cm mesurée horizontalement et parallèlement à l’issue de secours; (*adjacent seat*)
 
-***siège d’appoint*** S’entend au sens du paragraphe 100(1) du [Règlement sur la sécurité des ensembles de retenue et des sièges d’appoint (véhicules automobiles)](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2010/90.md). (*booster seat*)
+***siège d’appoint*** S’entend au sens du paragraphe 100(1) du [Règlement sur la sécurité des ensembles de retenue et des sièges d’appoint (véhicules automobiles)](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2010/90.md); (*booster seat*)
 
-***siège d’appoint intégré*** Dispositif qui, à la fois :
+***siège d’appoint intégré*** Dispositif qui, à la fois :
 - **a)** fait partie intégrante d’un siège du véhicule;
-- **b)** est conçu pour asseoir une personne dont la masse est d’au moins 18 kg, de manière que la ceinture de sécurité soit bien ajustée. (*built-in booster seat*)
+- **b)** est conçu pour asseoir une personne dont la masse est d’au moins 18 kg, de manière que la ceinture de sécurité soit bien ajustée; (*built-in booster seat*)
 
-***source lumineuse***[Abrogée, DORS/96-366, art. 1]
+***source lumineuse***[Abrogée, DORS/96-366, art. 1]
 
-***surface de contact***[Abrogée, DORS/98-160, art. 1]
+***surface de contact***[Abrogée, DORS/98-160, art. 1]
 
-***surface exposée aux intempéries***[Abrogée, DORS/2008-258, art. 1]
+***surface exposée aux intempéries***[Abrogée, DORS/2008-258, art. 1]
 
-***surface lumineuse efficace d’une lentille***[Abrogée, DORS/96-366, art. 1]
+***surface lumineuse efficace d’une lentille***[Abrogée, DORS/96-366, art. 1]
 
 ***système d’attaches inférieures***[Abrogée, DORS/2013-117, art. 1]
 
-***système de commande d’accélération actionné par le conducteur*** désigne toutes les pièces d’un véhicule, à l’exception du dispositif de dosage du carburant, qui agissent sur le régime du moteur sous l’action directe de la commande actionnée par le conducteur et qui ramènent le papillon des gaz à la position de ralenti dès que le conducteur relâche cette commande; (*driver-operated accelerator control system*)
+***système de commande d’accélération actionné par le conducteur*** désigne toutes les pièces d’un véhicule, à l’exception du dispositif de dosage du carburant, qui agissent sur le régime du moteur sous l’action directe de la commande actionnée par le conducteur et qui ramènent le papillon des gaz à la position de ralenti dès que le conducteur relâche cette commande; (*driver-operated accelerator control system*)
 
-***système de commande de la direction*** désigne le mécanisme de base de la direction, les pièces décoratives qui s’y rattachent, ainsi que toute partie de la colonne de direction destinée à amortir les chocs lors d’un impact; (*steering control system*)
+***système de commande de la direction*** désigne le mécanisme de base de la direction, les pièces décoratives qui s’y rattachent, ainsi que toute partie de la colonne de direction destinée à amortir les chocs lors d’un impact; (*steering control system*)
 
-***système de frein de service partagé*** Système de freinage composé de deux ou plusieurs sous-systèmes actionnés à partir d’une commande unique, conçue de sorte qu’aucune défaillance dans un seul sous-système (comme une fuite dans un élément sous pression d’un sous-système hydraulique, autre qu’une défaillance provoquée par la rupture d’une enveloppe commune à au moins deux sous-systèmes, ou une panne électrique dans un sous-système électrique) ne nuise au bon fonctionnement d’un autre sous-système. (*split service brake system*)
+***système de frein de service partagé*** Système de freinage composé de deux ou plusieurs sous-systèmes actionnés à partir d’une commande unique, conçue de sorte qu’aucune défaillance dans un seul sous-système (comme une fuite dans un élément sous pression d’un sous-système hydraulique, autre qu’une défaillance provoquée par la rupture d’une enveloppe commune à au moins deux sous-systèmes, ou une panne électrique dans un sous-système électrique) ne nuise au bon fonctionnement d’un autre sous-système; (*split service brake system*)
 
-***système de freinage à air comprimé*** Système de freinage qui utilise de l’air comprimé pour transmettre au frein de service la pression ou la force exercée par le conducteur sur la commande, y compris un sous-système de freinage hydropneumatique, mais à l’exclusion d’un système qui utilise une pression ou une dépression d’air uniquement pour seconder la force musculaire exercée par le conducteur sur les éléments hydrauliques ou mécaniques. (*air brake system*)
+***système de freinage à air comprimé*** Système de freinage qui utilise de l’air comprimé pour transmettre au frein de service la pression ou la force exercée par le conducteur sur la commande, y compris un sous-système de freinage hydropneumatique, mais à l’exclusion d’un système qui utilise une pression ou une dépression d’air uniquement pour seconder la force musculaire exercée par le conducteur sur les éléments hydrauliques ou mécaniques; (*air brake system*)
 
-***système de freinage hydraulique*** désigne un système muni d’un dispositif qui transmet au frein de service, par l’intermédiaire d’un liquide, l’effort exercé sur la commande du frein et qui peut comporter une unité d’assistance de frein ou une unité de servo-frein; (*hydraulic brake system*)
+***système de freinage hydraulique*** désigne un système muni d’un dispositif qui transmet au frein de service, par l’intermédiaire d’un liquide, l’effort exercé sur la commande du frein et qui peut comporter une unité d’assistance de frein ou une unité de servo-frein; (*hydraulic brake system*)
 
-***système de retenue passive***[Abrogée, DORS/93-5, art. 1]
+***système de retenue passive***[Abrogée, DORS/93-5, art. 1]
 
-***système de secours*** S’entend de la partie des freins de service, telle une pompe, qui fournit automatiquement de l’énergie en cas de panne du circuit d’alimentation principale des freins. (*backup system*)
+***système de secours*** S’entend de la partie des freins de service, telle une pompe, qui fournit automatiquement de l’énergie en cas de panne du circuit d’alimentation principale des freins; (*backup system*)
 
-***système de toit ouvrant à commande électrique*** Un ou plusieurs panneaux qui se trouvent dans le toit d’un véhicule et qui s’ouvrent ou se ferment sur des glissières ou des charnières grâce à une source d’énergie située dans le véhicule. Ne sont pas visés par la présente définition les systèmes de toit décapotable. (*power-operated roof panel system*)
+***système de toit ouvrant à commande électrique*** Un ou plusieurs panneaux qui se trouvent dans le toit d’un véhicule et qui s’ouvrent ou se ferment sur des glissières ou des charnières grâce à une source d’énergie située dans le véhicule. Ne sont pas visés par la présente définition les systèmes de toit décapotable; (*power-operated roof panel system*)
 
-***tableau lumineux***[Abrogée, DORS/93-31, art. 1]
+***tableau lumineux***[Abrogée, DORS/93-31, art. 1]
 
-***témoin*** Signal optique qui s’allume pour indiquer soit l’entrée en action ou la désactivation d’un dispositif, soit un fonctionnement ou un état normal ou défectueux d’un dispositif, soit le non-fonctionnement d’un dispositif. (*tell-tale*)
+***témoin*** Signal optique qui s’allume pour indiquer soit l’entrée en action ou la désactivation d’un dispositif, soit un fonctionnement ou un état normal ou défectueux d’un dispositif, soit le non-fonctionnement d’un dispositif; (*tell-tale*)
 
-***témoin de charge*** désigne un voyant qui s’allume pour indiquer que la batterie est en décharge; (*battery charging tell-tale*)
+***témoin de charge*** désigne un voyant qui s’allume pour indiquer que la batterie est en décharge; (*battery charging tell-tale*)
 
-***témoin de niveau de carburant*** désigne un voyant qui s’allume pour indiquer que le niveau de carburant est bas, ou que le véhicule fonctionne en s’alimentant de sa réserve de carburant; (*fuel level tell-tale*)
+***témoin de niveau de carburant*** désigne un voyant qui s’allume pour indiquer que le niveau de carburant est bas, ou que le véhicule fonctionne en s’alimentant de sa réserve de carburant; (*fuel level tell-tale*)
 
-***témoin de pression d’huile*** désigne un voyant qui s’allume pour indiquer que la pression de l’huile dans le système de graissage du moteur est inférieure à la pression minimale de fonctionnement prescrite par le fabricant; (*oil pressure tell-tale*)
+***témoin de pression d’huile*** désigne un voyant qui s’allume pour indiquer que la pression de l’huile dans le système de graissage du moteur est inférieure à la pression minimale de fonctionnement prescrite par le fabricant; (*oil pressure tell-tale*)
 
-***témoin de température du liquide de refroidissement*** désigne un voyant qui s’allume pour indiquer que la température du liquide de refroidissement du moteur est supérieure à la température normale de fonctionnement du moteur, prescrite par le fabricant; (*engine coolant temperature tell-tale*)
+***témoin de température du liquide de refroidissement*** désigne un voyant qui s’allume pour indiquer que la température du liquide de refroidissement du moteur est supérieure à la température normale de fonctionnement du moteur, prescrite par le fabricant; (*engine coolant temperature tell-tale*)
 
-***température ambiante*** désigne la température de l’air environnant, mesurée à un point suffisamment éloigné du véhicule à l’essai pour n’être pas influencée de façon sensible par la chaleur que dégage ce véhicule; (*ambient temperature*)
+***température ambiante*** désigne la température de l’air environnant, mesurée à un point suffisamment éloigné du véhicule à l’essai pour n’être pas influencée de façon sensible par la chaleur que dégage ce véhicule; (*ambient temperature*)
 
-***température initiale des freins***[Abrogée, DORS/99-357, art. 1]
+***température initiale des freins***[Abrogée, DORS/99-357, art. 1]
 
-***traîneau de motoneige*** désigne un traîneau conçu pour être traîné par une motoneige; (*snowmobile cutter*)
+***traîneau de motoneige***[Abrogée, DORS/2016-318, art. 1]
 
-***tricycle à moteur*** Motocyclette, autre qu’une réplique d’ancien modèle, qui, à la fois : 
+***tricycle à moteur*** Motocyclette, autre qu’une réplique d’ancien modèle, qui, à la fois :
 - **a)** est conçue pour rouler sur trois roues qui sont symétriques par rapport à l’axe médian longitudinal et qui sont en contact avec le sol;
 - **b)** est muni de sièges que le conducteur et son passager doivent enfourcher;
 - **c)** a au plus quatre places assises désignées;
 - **d)** a un PNBV d’au plus 1 000 kg;
 - **e)** a une vitesse maximale supérieure à 70 km/h;
-- **f)** ne comporte pas de structure renfermant partiellement ou complètement le conducteur et son passager, autre que la partie du véhicule située devant le torse du conducteur et le dossier du siège. (*motor tricycle*)
+- **f)** ne comporte pas de structure renfermant partiellement ou complètement le conducteur et son passager, autre que la partie du véhicule située devant le torse du conducteur et le dossier du siège; (*motor tricycle*)
 
-***type 1***[Abrogée, DORS/2007-180, art. 1]
+***type 1***[Abrogée, DORS/2007-180, art. 1]
 
-***type 2***[Abrogée, DORS/2007-180, art. 1]
+***type 2***[Abrogée, DORS/2007-180, art. 1]
 
-***type 2A***[Abrogée, DORS/2007-180, art. 1]
+***type 2A***[Abrogée, DORS/2007-180, art. 1]
 
-***type à cabine avancée*** qualifie un véhicule dont plus de la moitié de la longueur du moteur se trouve en arrière du point le plus avancé de la base du pare-brise et dont le centre du volant se trouve dans le premier quart avant de la longueur du véhicule; (*forward control configuration*)
+***type à cabine avancée*** qualifie un véhicule dont plus de la moitié de la longueur du moteur se trouve en arrière du point le plus avancé de la base du pare-brise et dont le centre du volant se trouve dans le premier quart avant de la longueur du véhicule; (*forward control configuration*)
 
-***type de carrosserie*** désigne la configuration ou forme générale d’un véhicule distingué par le nombre de portières ou de fenêtres, sa capacité de transport de marchandises, le profil du toit (p. ex., berline, *fastback*, *minibreak*) ou d’autres caractéristiques; (*body type*)
+***type de carrosserie*** désigne la configuration ou forme générale d’un véhicule distingué par le nombre de portières ou de fenêtres, sa capacité de transport de marchandises, le profil du toit (p. ex., berline, *fastback*, *minibreak*) ou d’autres caractéristiques; (*body type*)
 
-***type de moteur*** Source d’énergie distinguée par le carburant utilisé, le nombre de cylindres, la cylindrée, la puissance nette ou d’autres caractéristiques. (*engine type*)
+***type de moteur*** Source d’énergie distinguée par le carburant utilisé, le nombre de cylindres, la cylindrée, la puissance nette ou d’autres caractéristiques; (*engine type*)
 
-***unité d’assistance de frein*** Dispositif monté sur un système de freinage hydraulique qui permet au conducteur d’exercer un effort musculaire moindre sur la commande de frein au moment du freinage mais qui, s’il est inopérant, n’empêche pas le conducteur d’arrêter le véhicule en exerçant un effort musculaire constant sur la commande de frein de service. (*brake power assist unit*)
+***unité d’assistance de frein*** Dispositif monté sur un système de freinage hydraulique qui permet au conducteur d’exercer un effort musculaire moindre sur la commande de frein au moment du freinage mais qui, s’il est inopérant, n’empêche pas le conducteur d’arrêter le véhicule en exerçant un effort musculaire constant sur la commande de frein de service; (*brake power assist unit*)
 
-***unité de contrôle*** désigne la lettre « X » ou un seul chiffre utilisé pour vérifier l’exactitude de la transcription de numéro d’identification du véhicule; (*check digit*)
+***unité de contrôle*** désigne la lettre « X » ou un seul chiffre utilisé pour vérifier l’exactitude de la transcription de numéro d’identification du véhicule; (*check digit*)
 
-***unité de servo-frein*** Dispositif monté sur un système de freinage pour fournir l’énergie nécessaire pour actionner les freins directement ou indirectement, au moyen d’un dispositif auxiliaire, le rôle du conducteur se limitant à doser l’effort exercé sur la commande de frein. (*brake power unit*)
+***unité de servo-frein*** Dispositif monté sur un système de freinage pour fournir l’énergie nécessaire pour actionner les freins directement ou indirectement, au moyen d’un dispositif auxiliaire, le rôle du conducteur se limitant à doser l’effort exercé sur la commande de frein; (*brake power unit*)
 
-***usine de construction*** désigne l’usine où le fabricant appose le numéro d’identification du véhicule; (*plant of manufacture*)
+***usine de construction*** désigne l’usine où le fabricant appose le numéro d’identification du véhicule; (*plant of manufacture*)
 
-***véhicule***[Abrogée, DORS/95-536, art. 7]
+***véhicule***[Abrogée, DORS/95-536, art. 7]
 
-***véhicule à basse vitesse*** Véhicule, autre qu’une motocyclette à usage restreint ou un véhicule importé temporairement à des fins spéciales, qui, à la fois :
+***véhicule à basse vitesse*** Véhicule, autre qu’une motocyclette à usage restreint ou un véhicule importé temporairement à des fins spéciales, qui, à la fois :
 - **a)** est conçu essentiellement pour rouler dans les rues et sur les routes où l’accès et l’usage d’autres catégories de véhicules sont régis par la loi ou un accord;
 - **b)** roule sur quatre roues;
 - **c)** est alimenté par un groupe motopropulseur — un moteur électrique et, s’il y a lieu, une transmission — conçu pour permettre au véhicule d’atteindre une vitesse de 32 km/h mais d’au plus 40 km/h sur une distance de 1,6 km sur une surface asphaltée plane;
 - **d)** n’utilise aucun carburant comme source d’énergie à bord du véhicule;
-- **e)** a un PNBV inférieur à 1 361 kg. (*low-speed vehicle*)
+- **e)** a un PNBV inférieur à 1 361 kg; (*low-speed vehicle*)
 
-***véhicule à trois roues*** Véhicule, autre qu’un véhicule de compétition, une réplique d’ancien modèle, une motocyclette, une motocyclette à usage restreint, une remorque ou un véhicule importé temporairement à des fins spéciales, qui, à la fois :
+***véhicule à trois roues*** Véhicule, autre qu’un véhicule de compétition, une réplique d’ancien modèle, une motocyclette, une motocyclette à usage restreint, une remorque ou un véhicule importé temporairement à des fins spéciales, qui, à la fois :
 - **a)** est conçu pour rouler sur trois roues en contact avec le sol;
 - **b)** a au plus quatre places assises désignées;
-- **c)** a un PNBV d’au plus 1 000 kg. (*three-wheeled vehicle*)
+- **c)** a un PNBV d’au plus 1 000 kg; (*three-wheeled vehicle*)
 
-***véhicule complet*** Véhicule qui ne nécessite pas d’autres opérations de fabrication pour remplir sa fonction caractéristique, à l’exception de l’adjonction de pièces à montage rapide, comme les rétroviseurs ou les pneus et leurs jantes, ou de travaux de finition mineurs comme la peinture. (*completed vehicle*)
+***véhicule complet*** Véhicule qui ne nécessite pas d’autres opérations de fabrication pour remplir sa fonction caractéristique, à l’exception de l’adjonction de pièces à montage rapide, comme les rétroviseurs ou les pneus et leurs jantes, ou de travaux de finition mineurs comme la peinture; (*completed vehicle*)
 
-***véhicule conforme aux normes américaines***[Abrogée, DORS/95-147, art. 1]
+***véhicule conforme aux normes américaines***[Abrogée, DORS/95-147, art. 1]
 
-***véhicule convertible en motoneige*** désigne un véhicule qui peut être converti en motoneige par le déplacement et l’addition de pièces; (*snowmobile conversion vehicle*)
+***véhicule convertible en motoneige*** désigne un véhicule qui peut être converti en motoneige par le déplacement et l’addition de pièces; (*snowmobile conversion vehicle*)
 
-***véhicule de compétition*** Véhicule conçu pour être utilisé exclusivement dans les courses en circuit fermé qui, selon le cas :
+***véhicule de compétition*** Véhicule conçu pour être utilisé exclusivement dans les courses en circuit fermé qui, selon le cas :
 - **a)** porte une étiquette dans les deux langues officielles, apposée par le fabricant, indiquant qu’il s’agit d’un véhicule de compétition destiné à être utilisé exclusivement dans les courses en circuit fermé;
-- **b)** est accompagné d’une déclaration signée indiquant clairement qu’il s’agit d’un véhicule de compétition destiné à être utilisé exclusivement dans les courses en circuit fermé. (*competition vehicle*)
+- **b)** est accompagné d’une déclaration signée indiquant clairement qu’il s’agit d’un véhicule de compétition destiné à être utilisé exclusivement dans les courses en circuit fermé; (*competition vehicle*)
 
-***véhicule de secours*** Véhicule de lutte contre l’incendie, ambulance, véhicule de police ou tout autre véhicule utilisé à des fins de secours. (*emergency vehicle*)
+***véhicule de secours*** Véhicule de lutte contre l’incendie, ambulance, véhicule de police ou tout autre véhicule utilisé à des fins de secours; (*emergency vehicle*)
 
-***véhicule de tourisme à usages multiples*** Véhicule ayant un nombre désigné de places assises de 10 ou moins, monté sur un châssis de camion ou ayant des éléments caractéristiques spéciaux pour rouler occasionnellement hors route. Sont exclus de la présente définition les véhicules à coussin d’air, les véhicules tout terrain, les voitures de golf, les véhicules à basse vitesse, les voitures de tourisme, les camions, les véhicules importés temporairement à des fins spéciales et les véhicules à trois roues. (*multipurpose passenger vehicle*)
+***véhicule de tourisme à usages multiples*** Véhicule ayant un nombre désigné de places assises de 10 ou moins, monté sur un châssis de camion ou ayant des éléments caractéristiques spéciaux pour rouler occasionnellement hors route. Sont exclus de la présente définition les véhicules à coussin d’air, les véhicules tout terrain, les voitures de golf, les véhicules à basse vitesse, les voitures de tourisme, les camions, les véhicules importés temporairement à des fins spéciales et les véhicules à trois roues; (*multipurpose passenger vehicle*)
 
-***véhicule de travail*** désigne un véhicule conçu principalement pour accomplir des travaux de génie civil et d’entretien et qui n’est monté ni sur un châssis de camion ni sur un châssis type camion, mais ne s’applique pas à un tracteur ni à d’autres véhicules conçus essentiellement pour être traînés par un autre véhicule; (*work vehicle*)
+***véhicule de travail*** désigne un véhicule conçu principalement pour accomplir des travaux de génie civil et d’entretien et qui n’est monté ni sur un châssis de camion ni sur un châssis type camion, mais ne s’applique pas à un tracteur ni à d’autres véhicules conçus essentiellement pour être traînés par un autre véhicule; (*work vehicle*)
 
-***véhicule de type ouvert*** Véhicule sans capote au-dessus de l’habitacle ou véhicule ayant, au-dessus de l’habitacle, une capote dont l’installation ou l’enlèvement peut être effectué par l’utilisateur du véhicule. (*open-body type vehicle*)
+***véhicule de type ouvert*** Véhicule sans capote au-dessus de l’habitacle ou véhicule ayant, au-dessus de l’habitacle, une capote dont l’installation ou l’enlèvement peut être effectué par l’utilisateur du véhicule; (*open-body type vehicle*)
 
-***véhicule d’occasion***[Abrogée, DORS/91-425, art. 1]
+***véhicule d’occasion***[Abrogée, DORS/91-425, art. 1]
 
-***véhicule d’occasion importé***[Abrogée, DORS/92-173, art. 1]
+***véhicule d’occasion importé***[Abrogée, DORS/92-173, art. 1]
 
 ***véhicule fabriqué pour être conduit par une personne handicapée***[Abrogée, DORS/2013-9, art. 1]
 
-***véhicule importé temporairement à des fins spéciales*** Véhicule qui n’est importé au Canada que pour l’une ou l’autre des fins suivantes, pour une période n’excédant pas un an :
+***véhicule importé temporairement à des fins spéciales*** Véhicule qui n’est importé au Canada que pour l’une ou l’autre des fins suivantes, pour une période n’excédant pas un an :
 - **a)** d’autres travaux de fabrication avant son exportation;
-- **b)** des travaux ou opérations qui exigent un véhicule spécialement conçu pour des productions de l’industrie du spectacle, des projets de génie civil ou des travaux, ou opérations semblables. (*vehicle imported temporarily for special purposes*)
+- **b)** des travaux ou opérations qui exigent un véhicule spécialement conçu pour des productions de l’industrie du spectacle, des projets de génie civil ou des travaux, ou opérations semblables; (*vehicle imported temporarily for special purposes*)
 
 ***véhicule incomplet***
 - **a)** Véhicule, à l’exception d’un véhicule importé temporairement à des fins spéciales, qui peut être conduit et qui comprend au moins un châssis, le groupe motopropulseur, la direction, la suspension et les freins dans l’état où ils sont destinés à faire partie du véhicule complet, mais qui nécessite d’autres opérations de fabrication pour devenir un véhicule complet;
-- **b)** remorque incomplète. (*incomplete vehicle*)
+- **b)** remorque incomplète; (*incomplete vehicle*)
 
-***véhicule léger***[Abrogée, DORS/2001-35, art. 1]
+***véhicule léger***[Abrogée, DORS/2001-35, art. 1]
 
-***véhicule lourd***[Abrogée, DORS/2001-35, art. 1]
+***véhicule lourd***[Abrogée, DORS/2001-35, art. 1]
 
-***véhicule routier***[Abrogée, DORS/2004-250, art. 1]
+***véhicule routier***[Abrogée, DORS/2004-250, art. 1]
 
-***véhicule route-chantier***[Abrogée, DORS/2004-250, art. 1]
+***véhicule route-chantier***[Abrogée, DORS/2004-250, art. 1]
 
-***véhicule tout terrain*** désigne un véhicule sur roues ou sur chenilles, autre qu’une motoneige ou un véhicule de travail, qui est conçu principalement pour les loisirs et aussi pour le transport de biens ou d’équipement, et qui est destiné à être utilisé exclusivement sur des emprises routières non aménagées, sur des terrains marécageux, en rase campagne ou sur toute autre surface non préparée; (*all-terrain vehicle*)
+***véhicule tout terrain*** désigne un véhicule sur roues ou sur chenilles, autre qu’une motoneige ou un véhicule de travail, qui est conçu principalement pour les loisirs et aussi pour le transport de biens ou d’équipement, et qui est destiné à être utilisé exclusivement sur des emprises routières non aménagées, sur des terrains marécageux, en rase campagne ou sur toute autre surface non préparée; (*all-terrain vehicle*)
 
-***vélomoteur***[Abrogée, DORS/88-268, art. 1]
+***vélomoteur***[Abrogée, DORS/88-268, art. 1]
 
-***vitesse à 1,6 km (1 mille)*** Vitesse que peut atteindre un véhicule après un parcours de 1,6 km à partir d’un point de départ arrêté, sur une surface en palier avec une accélération maximale. (*speed attainable in 1.6 km (1 mile)*)
+***vitesse à 1,6 km (1 mille)*** Vitesse que peut atteindre un véhicule après un parcours de 1,6 km à partir d’un point de départ arrêté, sur une surface en palier avec une accélération maximale; (*speed attainable in 1.6 km (1 mile)*)
 
-***vitesse à 3,2 km (2 milles)*** Vitesse que peut atteindre un véhicule après un parcours de 3,2 km à partir d’un point de départ arrêté, sur une surface en palier avec une accélération maximale. (*speed attainable in 3.2 km (2 miles)*)
+***vitesse à 3,2 km (2 milles)*** Vitesse que peut atteindre un véhicule après un parcours de 3,2 km à partir d’un point de départ arrêté, sur une surface en palier avec une accélération maximale; (*speed attainable in 3.2 km (2 miles)*)
 
-***vitesse maximale*** S’agissant d’une motocyclette, la vitesse spécifiée par le fabricant comme étant la vitesse la plus élevée, mesurée conformément à l’article 5.3, pouvant être atteinte par celle-ci. (*maximum speed*)
+***vitesse maximale*** S’agissant d’une motocyclette, la vitesse spécifiée par le fabricant comme étant la vitesse la plus élevée, mesurée conformément à l’article 5.3, pouvant être atteinte par celle-ci; (*maximum speed*)
 
-***voiture de compétition***[Abrogée, DORS/2000-182, art. 1]
+***voiture de compétition***[Abrogée, DORS/2000-182, art. 1]
 
-***voiture de tourisme*** Véhicule ayant un nombre désigné de places assises de 10 ou moins. Sont exclus de la présente définition les véhicules tout terrain, les véhicules de compétition, les véhicules à basse vitesse, les véhicules de tourisme à usages multiples, les répliques d’un ancien modèle, les motocyclettes, les camions, les remorques, les véhicules importés temporairement à des fins spéciales et les véhicules à trois roues. (*passenger car*)
+***voiture de tourisme*** Véhicule ayant un nombre désigné de places assises de 10 ou moins. Sont exclus de la présente définition les véhicules tout terrain, les véhicules de compétition, les véhicules à basse vitesse, les véhicules de tourisme à usages multiples, les répliques d’un ancien modèle, les motocyclettes, les camions, les remorques, les véhicules importés temporairement à des fins spéciales et les véhicules à trois roues; (*passenger car*)
 
-***zone d’impact de la tête*** La zone décrite au paragraphe 201(1) de l’annexe IV. (*head impact area*)
+***zone d’impact de la tête*** La zone décrite au paragraphe 201(1) de l’annexe IV; (*head impact area*)
 
-***5<sup>e</sup> percentile adulte du sexe féminin*** Personne ayant pour caractéristiques physiques une masse de 46,3 kg, une taille de 1 499 mm, une hauteur en position assise droite de 785 mm, une hauteur en position assise normale de 752 mm, une largeur de hanches en position assise de 325 mm, un tour de hanches en position assise de 925 mm, un tour de ceinture en position assise de 599 mm, une profondeur de poitrine de 191 mm, un tour de buste de 775 mm, un tour de poitrine supérieure de 757 mm, un tour de poitrine inférieure de 676 mm, une hauteur de genoux de 455 mm, une hauteur de jarret de 356 mm, une hauteur de coude en position assise de 180 mm, une épaisseur de cuisses de 104 mm, une distance fesse-genou de 518 mm, une distance fesse-jarret de 432 mm, un écart entre les coudes de 312 mm et une largeur de siège de 312 mm. (*5th percentile adult female*)
+***5<sup>e</sup> percentile adulte du sexe féminin*** Personne ayant pour caractéristiques physiques une masse de 46,3 kg, une taille de 1 499 mm, une hauteur en position assise droite de 785 mm, une hauteur en position assise normale de 752 mm, une largeur de hanches en position assise de 325 mm, un tour de hanches en position assise de 925 mm, un tour de ceinture en position assise de 599 mm, une profondeur de poitrine de 191 mm, un tour de buste de 775 mm, un tour de poitrine supérieure de 757 mm, un tour de poitrine inférieure de 676 mm, une hauteur de genoux de 455 mm, une hauteur de jarret de 356 mm, une hauteur de coude en position assise de 180 mm, une épaisseur de cuisses de 104 mm, une distance fesse-genou de 518 mm, une distance fesse-jarret de 432 mm, un écart entre les coudes de 312 mm et une largeur de siège de 312 mm; (*5th percentile adult female*)
 
-***50<sup>e</sup> percentile adulte du sexe masculin*** Personne ayant pour caractéristiques physiques une masse de 74,4 plus ou moins 1,4 kg, une hauteur en position assise droite de 907 plus ou moins 3 mm, une largeur de hanches en position assise de 373 plus ou moins 18 mm, un tour de hanches en position assise de 1 067 mm, un tour de taille en position assise de 813 plus ou moins 15 mm, une profondeur de poitrine de 236 plus ou moins 5 mm et un tour de poitrine de 950 plus ou moins 15 mm. (*50th percentile adult male*)
+***50<sup>e</sup> percentile adulte du sexe masculin*** Personne ayant pour caractéristiques physiques une masse de 74,4 plus ou moins 1,4 kg, une hauteur en position assise droite de 907 plus ou moins 3 mm, une largeur de hanches en position assise de 373 plus ou moins 18 mm, un tour de hanches en position assise de 1 067 mm, un tour de taille en position assise de 813 plus ou moins 15 mm, une profondeur de poitrine de 236 plus ou moins 5 mm et un tour de poitrine de 950 plus ou moins 15 mm; (*50th percentile adult male*)
 
-***50<sup>e</sup> percentile enfant de six ans*** Personne ayant pour caractéristiques physiques une masse de 21,5 kg, une hauteur en position assise droite de 645 mm, une largeur de hanches en position assise de 213 mm, un tour de hanches en position assise de 607 mm et un tour de taille en position assise de 528 mm. (*50th percentile six-year-old child*)
+***50<sup>e</sup> percentile enfant de six ans*** Personne ayant pour caractéristiques physiques une masse de 21,5 kg, une hauteur en position assise droite de 645 mm, une largeur de hanches en position assise de 213 mm, un tour de hanches en position assise de 607 mm et un tour de taille en position assise de 528 mm; (*50th percentile six-year-old child*)
 
-***95<sup>e</sup> percentile adulte du sexe masculin*** Personne ayant pour caractéristiques physiques une masse de 97,5 kg, une taille de 1 849 mm, une hauteur en position assise droite de 965 mm, une hauteur en position assise normale de 930 mm, une largeur de hanches en position assise de 419 mm, un tour de hanches en position assise de 1 199 mm, un tour de ceinture en position assise de 1 080 mm, une profondeur de poitrine de 267 mm, un tour de poitrine de 1 130 mm, une hauteur de genoux de 594 mm, une hauteur de jarret de 490 mm, une hauteur de coude en position assise de 295 mm, une épaisseur de cuisses de 175 mm, une distance fesse-genou de 640 mm, une distance fesse-jarret de 549 mm, un écart entre les coudes de 506 mm et une largeur de siège de 404 mm. (*95th percentile adult male*)
+***95<sup>e</sup> percentile adulte du sexe masculin*** Personne ayant pour caractéristiques physiques une masse de 97,5 kg, une taille de 1 849 mm, une hauteur en position assise droite de 965 mm, une hauteur en position assise normale de 930 mm, une largeur de hanches en position assise de 419 mm, un tour de hanches en position assise de 1 199 mm, un tour de ceinture en position assise de 1 080 mm, une profondeur de poitrine de 267 mm, un tour de poitrine de 1 130 mm, une hauteur de genoux de 594 mm, une hauteur de jarret de 490 mm, une hauteur de coude en position assise de 295 mm, une épaisseur de cuisses de 175 mm, une distance fesse-genou de 640 mm, une distance fesse-jarret de 549 mm, un écart entre les coudes de 506 mm et une largeur de siège de 404 mm. (*95th percentile adult male*)
 
-- **(2)** [Abrogé, DORS/2009-318, art. 1]
-> DORS/78-257, art. 1; DORS/78-351, art. 1; DORS/78-525, art. 1; DORS/79-306, art. 1; DORS/79-339, art. 1; DORS/79-340, art. 1; DORS/79-374, art. 1; DORS/79-677, art. 1; DORS/79-719, art. 1; DORS/79-940, art. 1; DORS/80-161, art. 1; DORS/80-282, art. 1; DORS/80-439, art. 1; DORS/80-440, art. 1; DORS/80-636, art. 1; DORS/80-638, art. 1; DORS/80-782, art. 1; DORS/81-88, art. 1; DORS/81-1033, art. 1; DORS/82-569, art. 1; DORS/82-656, art. 1; DORS/82-753, art. 1; DORS/82-754, art. 1; DORS/83-176, art. 1; DORS/83-859, art. 1; DORS/84-374, art. 1; DORS/84-812, art. 1; DORS/86-161, art. 1; DORS/86-683, art. 1; DORS/86-976, art. 1; DORS/86-977, art. 1; DORS/87-154, art. 1; DORS/87-497, art. 1; DORS/87-578, art. 1; DORS/87-660, art. 1; DORS/88-268, art. 1; DORS/89-384, art. 1; DORS/90-588, art. 1; DORS/90-805, art. 1; DORS/91-425, art. 1; DORS/91-692, art. 1; DORS/92-173, art. 1; DORS/92-250, art. 1; DORS/92-545, art. 1; DORS/93-5, art. 1; DORS/93-31, art. 1; DORS/93-146, art. 1; DORS/93-561, art. 1; DORS/94-291, art. 1; DORS/94-669, art. 1; DORS/94-670, art. 2(F); DORS/94-692, art. 2(F); DORS/94-717, art. 1; DORS/95-147, art. 1; DORS/95-164, art. 1; DORS/95-536, art. 7; DORS/96-366, art. 1; DORS/97-141, art. 1; DORS/97-200, art. 1; DORS/97-201, art. 1; DORS/97-421, art. 1, 17 et 22(F); DORS/97-447, art. 1; DORS/98-125, art. 1; DORS/98-160, art. 1; DORS/98-457, art. 1; DORS/98-524, art. 1(F); DORS/99-357, art. 1; DORS/2000-182, art. 1; DORS/2000-304, art. 1; DORS/2001-35, art. 1; DORS/2001-117, art. 1; DORS/2001-152, art. 1; DORS/2002-15, art. 25(F); DORS/2002-55, art. 1; DORS/2002-187, art. 1; DORS/2002-205, art. 1; DORS/2003-57, art. 3(F); DORS/2003-272, art. 1; DORS/2004-250, art. 1; DORS/2005-45, art. 1; DORS/2006-94, art. 4(A); DORS/2007-180, art. 1; DORS/2008-72, art. 1; DORS/2008-73, art. 1; DORS/2008-104, art. 1; DORS/2008-229, art. 1; DORS/2008-258, art. 1; DORS/2009-291, art. 1; DORS/2009-318, art. 1; DORS/2011-263, art. 1; DORS/2011-264, art. 1; DORS/2013-9, art. 1; DORS/2013-117, art. 1; DORS/2015-23, art. 1; DORS/2015-24, art. 1.
+- **(2)** Pour l’application du présent règlement, si un document disponible dans les deux langues officielles est incorporé par renvoi avec ses modifications successives, la modification apportée à ce document dans l’une des langues officielles n’est pas incorporée tant que la modification correspondante n’est pas apportée dans l’autre langue officielle.
+> DORS/78-257, art. 1; DORS/78-351, art. 1; DORS/78-525, art. 1; DORS/79-306, art. 1; DORS/79-339, art. 1; DORS/79-340, art. 1; DORS/79-374, art. 1; DORS/79-677, art. 1; DORS/79-719, art. 1; DORS/79-940, art. 1; DORS/80-161, art. 1; DORS/80-282, art. 1; DORS/80-439, art. 1; DORS/80-440, art. 1; DORS/80-636, art. 1; DORS/80-638, art. 1; DORS/80-782, art. 1; DORS/81-88, art. 1; DORS/81-1033, art. 1; DORS/82-569, art. 1; DORS/82-656, art. 1; DORS/82-753, art. 1; DORS/82-754, art. 1; DORS/83-176, art. 1; DORS/83-859, art. 1; DORS/84-374, art. 1; DORS/84-812, art. 1; DORS/86-161, art. 1; DORS/86-683, art. 1; DORS/86-976, art. 1; DORS/86-977, art. 1; DORS/87-154, art. 1; DORS/87-497, art. 1; DORS/87-578, art. 1; DORS/87-660, art. 1; DORS/88-268, art. 1; DORS/89-384, art. 1; DORS/90-588, art. 1; DORS/90-805, art. 1; DORS/91-425, art. 1; DORS/91-692, art. 1; DORS/92-173, art. 1; DORS/92-250, art. 1; DORS/92-545, art. 1; DORS/93-5, art. 1; DORS/93-31, art. 1; DORS/93-146, art. 1; DORS/93-561, art. 1; DORS/94-291, art. 1; DORS/94-669, art. 1; DORS/94-670, art. 2(F); DORS/94-692, art. 2(F); DORS/94-717, art. 1; DORS/95-147, art. 1; DORS/95-164, art. 1; DORS/95-536, art. 7; DORS/96-366, art. 1; DORS/97-141, art. 1; DORS/97-200, art. 1; DORS/97-201, art. 1; DORS/97-421, art. 1, 17 et 22(F); DORS/97-447, art. 1; DORS/98-125, art. 1; DORS/98-160, art. 1; DORS/98-457, art. 1; DORS/98-524, art. 1(F); DORS/99-357, art. 1; DORS/2000-182, art. 1; DORS/2000-304, art. 1; DORS/2001-35, art. 1; DORS/2001-117, art. 1; DORS/2001-152, art. 1; DORS/2002-15, art. 25(F); DORS/2002-55, art. 1; DORS/2002-187, art. 1; DORS/2002-205, art. 1; DORS/2003-57, art. 3(F); DORS/2003-272, art. 1; DORS/2004-250, art. 1; DORS/2005-45, art. 1; DORS/2006-94, art. 4(A); DORS/2007-180, art. 1; DORS/2008-72, art. 1; DORS/2008-73, art. 1; DORS/2008-104, art. 1; DORS/2008-229, art. 1; DORS/2008-258, art. 1; DORS/2009-291, art. 1; DORS/2009-318, art. 1; DORS/2011-263, art. 1; DORS/2011-264, art. 1; DORS/2013-9, art. 1; DORS/2013-117, art. 1; DORS/2015-23, art. 1; DORS/2015-24, art. 1; DORS/2016-318, art. 1.
 
 
 
@@ -973,10 +973,10 @@ où :
 
 **6** 
 
-- **(1)** Sous réserve des paragraphes (1.1) et 6.6(1), l’entreprise qui fabrique un véhicule d’une catégorie réglementaire qui est un véhicule complet répondant aux exigences du présent règlement doit veiller à ce que le véhicule, à moins qu’il ne s’agisse d’un véhicule importé temporairement à des fins spéciales, porte une étiquette de conformité sur laquelle figurent au moins :
+- **(1)** Sous réserve des paragraphes (1.1) et 6.6(1), l’entreprise qui fabrique un véhicule d’une catégorie réglementaire qui est un véhicule complet répondant aux exigences du présent règlement doit veiller à ce que le véhicule, à moins qu’il ne s’agisse d’un véhicule importé temporairement à des fins spéciales, porte une étiquette de conformité sur laquelle figurent au moins :
 	- **a)** le nom du fabricant du véhicule complet;
 	- **b)** le mois et l’année où la fabrication du véhicule complet a pris fin;
-	- **c)** un dessin d’un diamètre d’au moins 13 mm reproduisant la marque nationale de sécurité qui figure à l’annexe I et ayant au centre, en chiffres d’au moins 2 mm de hauteur, le numéro d’autorisation attribué par le ministre à l’entreprise en application de l’article 3;
+	- **c)** un dessin d’un diamètre d’au moins 13 mm reproduisant la marque nationale de sécurité qui figure à l’annexe I et ayant au centre, en chiffres d’au moins 2 mm de hauteur, le numéro d’autorisation attribué par le ministre à l’entreprise en application de l’article 3;
 	- **d)** le numéro d’identification du véhicule;
 	- **e)** dans le cas d’une voiture de tourisme, d’un véhicule de tourisme à usages multiples, d’un véhicule à basse vitesse, d’un véhicule à trois roues, d’un camion, d’un autobus, d’une remorque, d’un chariot de conversion ou d’une motocyclette :
 		- **(i)** le poids nominal brut du véhicule, exprimé en kilogrammes, clairement indiqué par les mentions « *Gross Vehicle Weight Rating* » et « Poids nominal brut du véhicule » ou « GVWR » et « PNBV »,
@@ -1007,19 +1007,19 @@ où :
 		- **(xxi)** « TWV/VTR » : véhicule à trois roues,
 		- **(xxii)** « SNO/MNG » : motoneige,
 		- **(xxiii)** « MFSAB/AMAS » : autobus multifonction pour les activités scolaires;
-	- **g)** dans le cas d’un chariot de conversion de type C, la hauteur de montage de l’attelage lorsque le chariot n’est pas chargé, dans les deux langues officielles;
-	- **h)** dans le cas d’une remorque conçue pour tirer un chariot de conversion de type C, la hauteur de montage de l’attelage lorsque la remorque n’est pas chargée, dans les deux langues officielles.
+	- **g)** dans le cas d’un chariot de conversion de type C, la hauteur de montage de l’attelage lorsque le chariot n’est pas chargé, dans les deux langues officielles;
+	- **h)** dans le cas d’une remorque conçue pour tirer un chariot de conversion de type C, la hauteur de montage de l’attelage lorsque la remorque n’est pas chargée, dans les deux langues officielles.
 	- **i)** [Abrogé, DORS/2002-55, art. 4]
 
 - **(1.1)** Le fabricant de véhicules incomplets ou le fabricant intermédiaire qui assume la responsabilité légale de la conformité du véhicule complet aux exigences du présent règlement doit veiller à ce qu’une étiquette de conformité soit apposée sur le véhicule complet en conformité avec le présent article, sauf que :
-	- **a)** son nom doit figurer sur cette étiquette au lieu de celui du fabricant visé à l’alinéa (1)a);
+	- **a)** son nom doit figurer sur cette étiquette au lieu de celui du fabricant visé à l’alinéa (1)a);
 	- **b)** la date de fabrication du véhicule complet ne peut être antérieure à la date à laquelle le fabricant de véhicules incomplets a effectué sa dernière opération de fabrication sur le véhicule ni postérieure à la date à laquelle le fabricant à l’étape finale a effectué sa dernière opération de fabrication sur le véhicule.
 
-- **(1.2)** Si le fabricant de véhicules incomplets assume la responsabilité légale de la conformité du véhicule complet aux exigences du présent règlement, les dispositions relatives aux véhicules construits par étapes prévues aux articles 6.1 à 6.6 ne s’appliquent pas.
+- **(1.2)** Si le fabricant de véhicules incomplets assume la responsabilité légale de la conformité du véhicule complet aux exigences du présent règlement, les dispositions relatives aux véhicules construits par étapes prévues aux articles 6.1 à 6.6 ne s’appliquent pas.
 
-- **(1.3)** Si le fabricant intermédiaire assume la responsabilité légale de la conformité du véhicule complet aux exigences du présent règlement, les dispositions relatives aux véhicules construits par étapes prévues aux articles 6.3 à 6.6 ne s’appliquent pas.
+- **(1.3)** Si le fabricant intermédiaire assume la responsabilité légale de la conformité du véhicule complet aux exigences du présent règlement, les dispositions relatives aux véhicules construits par étapes prévues aux articles 6.3 à 6.6 ne s’appliquent pas.
 
-- **(2)** Le dessin visé à l’alinéa (1)c) peut :
+- **(2)** Le dessin visé à l’alinéa (1)c) peut :
 	- **a)** figurer sur une étiquette qui est apposée sur le véhicule à côté de l’étiquette de conformité;
 	- **b)** dans le cas d’un véhicule importé, être remplacé par la mention suivante selon laquelle le véhicule est conforme aux normes — prévues par le présent règlement — qui lui sont applicables à la fin de son assemblage principal :
 
@@ -1034,13 +1034,13 @@ où :
 - **(3)** L’étiquette de conformité doit être apposée :
 	- **a)** dans le cas d’un autobus, d’un véhicule à trois roues, d’un véhicule de tourisme à usages multiples, d’un véhicule à basse vitesse, d’une voiture de tourisme ou d’un camion :
 		- **(i)** sur le pied d’auvent, le pied milieu ou l’extrémité de la porte correspondant au pied milieu, à côté de la place assise du conducteur,
-		- **(ii)** sur le côté gauche du tableau de bord ou la surface intérieure de la porte, à côté de la place assise du conducteur, s’il est impossible de se conformer au sous-alinéa (i),
-		- **(iii)** à un endroit bien en vue et d’accès facile, s’il est impossible de se conformer aux sous-alinéas (i) ou (ii);
+		- **(ii)** sur le côté gauche du tableau de bord ou la surface intérieure de la porte, à côté de la place assise du conducteur, s’il est impossible de se conformer au sous-alinéa (i),
+		- **(iii)** à un endroit bien en vue et d’accès facile, s’il est impossible de se conformer aux sous-alinéas (i) ou (ii);
 	- **b)** dans le cas d’une remorque, sur la moitié avant du côté gauche de la remorque, de sorte qu’il soit facile de lire l’étiquette de l’extérieur de la remorque sans déplacer aucune pièce;
 	- **c)** dans le cas d’une motocyclette ou d’une motocyclette à usage restreint, sur une pièce fixe de la motocyclette, aussi près que possible de l’intersection de la colonne de direction et du guidon, de sorte qu’il soit facile de lire l’étiquette sans déplacer aucune pièce, sauf le système de direction;
-	- **d)** dans le cas d’une motoneige ou d’un traîneau de motoneige, sur la moitié arrière du côté droit du véhicule, de sorte qu’il soit facile de lire l’étiquette de l’extérieur du véhicule sans déplacer aucune pièce.
+	- **d)** dans le cas d’une motoneige, sur la moitié arrière du côté droit du véhicule, de sorte qu’il soit facile de lire l’étiquette de l’extérieur du véhicule sans en déplacer aucune pièce.
 
-- **(4) à (7)** [Abrogés, DORS/2002-55, art. 4]
+- **(4) à (7)** [Abrogés, DORS/2002-55, art. 4]
 
 - **(8)** Dans le cas des autocaravanes, des remorques de camping et des véhicules de tourisme à usages multiples et autobus fabriqués à partir d’un châssis tronqué, l’étiquette de conformité doit porter les renseignements suivants, dans les deux langues officielles :
 	- **a)** la capacité de chargement du véhicule;
@@ -1050,18 +1050,18 @@ où :
 		- **(i)** d’une part, la masse des réservoirs d’eau douce, d’eau chaude et d’eaux usées lorsqu’ils sont remplis,
 		- **(ii)** d’autre part, la mention que la capacité de chargement indiquée est celle du véhicule lorsque les réservoirs d’eau douce et d’eau chaude sont remplis et que les réservoirs d’eaux usées sont vides.
 
-- **(8.1)** Les renseignements visés au paragraphe (8) peuvent figurer sur une étiquette distincte apposée sur le véhicule à côté de l’étiquette de conformité ou à un endroit bien en vue ou d’accès facile.
+- **(8.1)** Les renseignements visés au paragraphe (8) peuvent figurer sur une étiquette distincte apposée sur le véhicule à côté de l’étiquette de conformité ou à un endroit bien en vue ou d’accès facile.
 
 - **(9)** Dans le cas d’une motocyclette à vitesse limitée ou d’un véhicule à basse vitesse, l’étiquette de conformité ou une étiquette distincte apposée en permanence et bien en évidence sur le véhicule doit indiquer, dans les deux langues officielles, que les autorités provinciales peuvent limiter l’utilisation du véhicule à certaines routes.
 
-- **(10)** [Abrogé, DORS/2000-182, art. 2]
+- **(10)** [Abrogé, DORS/2000-182, art. 2]
 
-- **(11)** Dans le cas d’un modèle de véhicule à l’égard duquel le gouverneur en conseil a pris un décret de dispense en vertu de l’article 9 de la Loi, l’étiquette de conformité ou l’étiquette informative, selon le cas, doit aussi préciser, dans les deux langues officielles :
+- **(11)** Dans le cas d’un modèle de véhicule à l’égard duquel le gouverneur en conseil a pris un décret de dispense en vertu de l’article 9 de la Loi, l’étiquette de conformité ou l’étiquette informative, selon le cas, doit aussi préciser, dans les deux langues officielles :
 	- **a)** le numéro et le titre de la norme visée par la dispense;
 	- **b)** le titre abrégé du décret de dispense.
 
-- **(12) et (13)** [Abrogés, DORS/2000-182, art. 2]
-> DORS/79-940, art. 2; DORS/81-455, art. 1; DORS/82-482, art. 4; DORS/87-660, art. 2; DORS/88-268, art. 3; DORS/91-528, art. 1; DORS/93-146, art. 2; DORS/95-147, art. 2; DORS/98-125, art. 3; DORS/2000-182, art. 2; DORS/2000-304, art. 2; DORS/2002-55, art. 4 et 21; DORS/2003-272, art. 4; DORS/2004-250, art. 2; DORS/2005-342, art. 1; DORS/2006-94, art. 4(A); DORS/2008-258, art. 3; DORS/2015-23, art. 2.
+- **(12) et (13)** [Abrogés, DORS/2000-182, art. 2]
+> DORS/79-940, art. 2; DORS/81-455, art. 1; DORS/82-482, art. 4; DORS/87-660, art. 2; DORS/88-268, art. 3; DORS/91-528, art. 1; DORS/93-146, art. 2; DORS/95-147, art. 2; DORS/98-125, art. 3; DORS/2000-182, art. 2; DORS/2000-304, art. 2; DORS/2002-55, art. 4 et 21; DORS/2003-272, art. 4; DORS/2004-250, art. 2; DORS/2005-342, art. 1; DORS/2006-94, art. 4(A); DORS/2008-258, art. 3; DORS/2015-23, art. 2; DORS/2016-318, art. 2.
 
 
 
@@ -1312,45 +1312,45 @@ où :
 
 **12** 
 
-- **(1)** L’entreprise dont le ministère des Transports a retenu les services par contrat pour établir et réaliser le programme national d’inspection, d’attestation et d’enregistrement des véhicules, connue sous le nom de registraire des véhicules importés, est la personne désignée pour l’application du paragraphe 7(2) de la Loi.
+- **(1)** L’entreprise dont le ministère des Transports a retenu les services par contrat pour établir et réaliser le programme national d’inspection, d’attestation et d’enregistrement des véhicules, connue sous le nom de registraire des véhicules importés, est la personne désignée pour l’application du paragraphe 7(2) de la Loi.
 
-- **(2)** Ne sont pas visés pour l’application du paragraphe 7(2) de la Loi les importateurs qui sont des entreprises visées aux alinéas a) et b) de la définition d’***entreprise*** à l’article 2 de la Loi.
+- **(2)** Ne sont pas visés pour l’application du paragraphe 7(2) de la Loi les importateurs qui sont des entreprises visées aux alinéas a) et b) de la définition d’***entreprise*** à l’article 2 de la Loi.
 
-- **(3)** Pour l’application du paragraphe 7(2) de la Loi, il est permis d’importer au Canada un véhicule visé à ce paragraphe lorsque sont réunies les conditions suivantes :
-	- **a)** dans le cas d’un véhicule autre qu’une motocyclette à usage restreint, une motoneige ou un traîneau de motoneige, les entreprises ont fabriqué le véhicule en se conformant aux lois fédérales des États-Unis qui s’appliquaient à la date de sa fabrication, tel qu’indiqué sur les étiquettes de conformité américaines apposées sur le véhicule ou selon l’assurance écrite de chacune d’entre elles;
+- **(3)** Pour l’application du paragraphe 7(2) de la Loi, il est permis d’importer au Canada un véhicule visé à ce paragraphe lorsque sont réunies les conditions suivantes :
+	- **a)** dans le cas d’un véhicule autre qu’une motocyclette à usage restreint ou une motoneige, les entreprises ont fabriqué le véhicule en se conformant aux lois fédérales des États-Unis qui s’appliquaient à la date de sa fabrication, tel qu’il est indiqué sur les étiquettes de conformité américaines apposées sur le véhicule ou selon l’assurance écrite de chacune d’elles;
 	- **a.1)** dans le cas d’une motoneige, l’entreprise a fabriqué le véhicule en se conformant aux normes de sécurité du *Snowmobile Safety and Certification Committee, Inc.* qui s’appliquaient à la date de sa fabrication, tel qu’indiqué sur l’étiquette de certification apposée sur le véhicule ou selon l’assurance écrite de l’entreprise;
 	- **b)** tout défaut de conception, de fabrication ou de fonctionnement du véhicule ou de ses pièces qui faisait l’objet d’un avis de défaut ou de non-conformité sous le régime des lois fédérales des États-Unis a été corrigé;
-	- **c)** dans le cas d’un véhicule incomplet, d’un autobus, d’un véhicule de tourisme à usages multiples, d’une voiture de tourisme, d’un camion, d’une motocyclette à habitacle fermé ou d’un véhicule à trois roues, l’entreprise qui a procédé à l’assemblage principal du véhicule l’a fait en se conformant à l’article 210 de l’annexe IV;
-	- **d)** dans le cas d’un autobus scolaire, l’entreprise qui a procédé à l’assemblage principal du véhicule l’a fait en se conformant à l’article 222 de l’annexe IV;
+	- **c)** dans le cas d’un véhicule incomplet, d’un autobus, d’un véhicule de tourisme à usages multiples, d’une voiture de tourisme, d’un camion, d’une motocyclette à habitacle fermé ou d’un véhicule à trois roues, l’entreprise qui a procédé à l’assemblage principal du véhicule l’a fait en se conformant à l’article 210 de l’annexe IV;
+	- **d)** dans le cas d’un autobus scolaire, l’entreprise qui a procédé à l’assemblage principal du véhicule l’a fait en se conformant à l’article 222 de l’annexe IV;
 	- **d.1)** dans le cas d’une motocyclette à usage restreint, celle-ci est conçue pour rouler sur deux ou quatre roues;
-	- **e)** dans le cas où la personne qui importe un véhicule le fait en vue de sa vente ou d’usages industriel, professionnel, commercial ou collectif ou à d’autres fins analogues, le véhicule est importé via l’un des bureaux de douane désignés à l’annexe VIII;
-	- **f)** l’importateur enregistre le véhicule auprès du registraire des véhicules importés et fait une déclaration de la manière prévue au paragraphe (6).
+	- **e)** dans le cas où la personne qui importe un véhicule le fait en vue de sa vente ou d’usages industriel, professionnel, commercial ou collectif ou à d’autres fins analogues, le véhicule est importé via l’un des bureaux de douane désignés à l’annexe VIII;
+	- **f)** l’importateur enregistre le véhicule auprès du registraire des véhicules importés et fait une déclaration de la manière prévue au paragraphe (6).
 
-- **(4)** Malgré l’alinéa (3)c), il est permis d’importer un véhicule qui n’est pas conforme à l’article 210 de l’annexe IV si, avant d’être attesté par le registraire des véhicules importés, le véhicule peut être rendu conforme à cet article par le remplacement du siège ou des glissières par un siège ou des glissières utilisés pour un véhicule de la même marque et du même modèle qui est fabriqué pour le marché canadien.
+- **(4)** Malgré l’alinéa (3)c), il est permis d’importer un véhicule qui n’est pas conforme à l’article 210 de l’annexe IV si, avant d’être attesté par le registraire des véhicules importés, le véhicule peut être rendu conforme à cet article par le remplacement du siège ou des glissières par un siège ou des glissières utilisés pour un véhicule de la même marque et du même modèle qui est fabriqué pour le marché canadien.
 
-- **(4.1)** Pour l’application du paragraphe 7(2) de la Loi, tout véhicule qui a été vendu aux États-Unis et dont le constructeur n’a pas attesté la conformité au paragraphe 114(4) de l’annexe IV du présent règlement peut être importé au Canada dans l’un ou l’autre des cas ci-après, malgré que sa conformité au paragraphe 114(4) n’ait pas été attestée :
+- **(4.1)** Pour l’application du paragraphe 7(2) de la Loi, tout véhicule qui a été vendu aux États-Unis et dont le constructeur n’a pas attesté la conformité au paragraphe 114(4) de l’annexe IV du présent règlement peut être importé au Canada dans l’un ou l’autre des cas ci-après, malgré que sa conformité au paragraphe 114(4) n’ait pas été attestée :
 	- **a)** le véhicule était muni au moment de sa construction d’un système d’immobilisation électronique;
 	- **b)** l’importateur du véhicule fait une déclaration selon laquelle :
 		- **(i)** d’une part, le véhicule sera muni d’un système d’immobilisation qui est conforme à la norme nationale du Canada CAN/ULC-S338-98, intitulée Norme sur les systèmes et les appareillages de prévention du vol de véhicules automobiles : immobilisation électronique (mai 1998) et publiée par les Laboratoires des assureurs du Canada, avant sa présentation pour immatriculation sous le régime des lois d’une province,
-		- **(ii)** d’autre part, dans les 45 jours qui suivent son importation, le véhicule sera conduit à une station d’inspection autorisée par le registraire des véhicules importés à remplir la fonction d’inspection qui déterminera si le véhicule a été rendu conforme à la norme.
+		- **(ii)** d’autre part, dans les 45 jours qui suivent son importation, le véhicule sera conduit à une station d’inspection autorisée par le registraire des véhicules importés à remplir la fonction d’inspection qui déterminera si le véhicule a été rendu conforme à la norme.
 
-- **(5)** La déclaration visée à l’alinéa (3)f) est signée par l’importateur ou son représentant dûment autorisé et elle contient :
+- **(5)** La déclaration visée à l’alinéa (3)f) est signée par l’importateur ou son représentant dûment autorisé et elle contient :
 	- **a)** la catégorie, la marque, le modèle et le numéro d’identification du véhicule;
 	- **b)** la date de présentation du véhicule à l’importation;
 	- **c)** le nom et l’adresse de l’entreprise ou du particulier qui importe le véhicule;
-	- **d)** dans le cas d’un véhicule, autre qu’une motocyclette à usage restreint, une motoneige ou un traîneau de motoneige, qui porte les étiquettes de conformité visées à l’alinéa (3)a), une mention selon laquelle le véhicule porte ces étiquettes et, si les lois fédérales des États-Unis l’exigent, l’étiquette — contenant des renseignements sur le contrôle des gaz émis par le véhicule — qui a été apposée par l’entreprise qui a fabriqué le véhicule;
-	- **d.1)** dans le cas d’une motoneige qui porte l’étiquette visée à l’alinéa (3)a.1), une mention selon laquelle le véhicule porte cette étiquette;
-	- **e)** dans le cas où le véhicule mentionné à l’alinéa d) ne porte pas les étiquettes visées à cet alinéa, une mention de chaque entreprise qui a fabriqué le véhicule ou de son représentant dûment autorisé, indiquant que le véhicule était conforme aux lois fédérales des États-Unis qui lui étaient applicables à la date de sa fabrication;
-	- **e.1)** dans le cas où une motoneige ne porte pas l’étiquette visée à l’alinéa d.1), une mention de l’entreprise qui a fabriqué le véhicule ou de son représentant dûment autorisé, indiquant que le véhicule était conforme aux normes de sécurité du Snowmobile Safety and Certification Committee, Inc. qui lui étaient applicables à la date de sa fabrication;
+	- **d)** dans le cas d’un véhicule, autre qu’une motocyclette à usage restreint ou une motoneige, qui porte les étiquettes de conformité visées à l’alinéa (3)a), une mention selon laquelle le véhicule porte ces étiquettes et, si les lois fédérales des États-Unis l’exigent, l’étiquette — contenant des renseignements sur le contrôle des gaz émis par le véhicule — qui a été apposée par l’entreprise qui a fabriqué le véhicule;
+	- **d.1)** dans le cas d’une motoneige qui porte l’étiquette visée à l’alinéa (3)a.1), une mention selon laquelle le véhicule porte cette étiquette;
+	- **e)** dans le cas où le véhicule mentionné à l’alinéa d) ne porte pas les étiquettes visées à cet alinéa, une mention de chaque entreprise qui a fabriqué le véhicule ou de son représentant dûment autorisé, indiquant que le véhicule était conforme aux lois fédérales des États-Unis qui lui étaient applicables à la date de sa fabrication;
+	- **e.1)** dans le cas où une motoneige ne porte pas l’étiquette visée à l’alinéa d.1), une mention de l’entreprise qui a fabriqué le véhicule ou de son représentant dûment autorisé, indiquant que le véhicule était conforme aux normes de sécurité du Snowmobile Safety and Certification Committee, Inc. qui lui étaient applicables à la date de sa fabrication;
 	- **f)** si une étiquette de conformité américaine est apposée sur le véhicule, le nom de l’entreprise qui l’a fabriqué, tel qu’il figure sur l’étiquette;
 	- **g)** le mois et l’année où l’assemblage principal du véhicule a pris fin d’après l’étiquette de conformité américaine apposée sur le véhicule ou selon la mention de l’entreprise qui a procédé à l’assemblage principal ou de son représentant dûment autorisé;
-	- **h)** une mention indiquant que, dans les 45 jours qui suivent son importation, le véhicule sera rendu conforme à toutes les normes applicables à sa catégorie prévues par le présent règlement et conduit à une station d’inspection autorisée par le registraire des véhicules importés à remplir la fonction d’inspection; celle-ci déterminera si le véhicule a été rendu conforme aux normes de sécurité des véhicules automobiles du Canada.
+	- **h)** une mention indiquant que, dans les 45 jours qui suivent son importation, le véhicule sera rendu conforme à toutes les normes applicables à sa catégorie prévues par le présent règlement et conduit à une station d’inspection autorisée par le registraire des véhicules importés à remplir la fonction d’inspection; celle-ci déterminera si le véhicule a été rendu conforme aux normes de sécurité des véhicules automobiles du Canada.
 
 - **(6)** L’enregistrement et la déclaration sont faits à l’aide du formulaire fourni par le ministre, au bureau de douane suivant :
-	- **a)** dans le cas de l’importateur visé à l’alinéa (3)e), à un bureau de douane désigné;
+	- **a)** dans le cas de l’importateur visé à l’alinéa (3)e), à un bureau de douane désigné;
 	- **b)** dans tout autre cas, au bureau de douane le plus proche qui soit ouvert.
 
-- **(7)** La station d’inspection autorisée détermine la conformité de tout véhicule visé au paragraphe 7(2) de la Loi avec les normes de sécurité des véhicules automobiles du Canada.
+- **(7)** La station d’inspection autorisée détermine la conformité de tout véhicule visé au paragraphe 7(2) de la Loi avec les normes de sécurité des véhicules automobiles du Canada.
 
 - **(8)** Un véhicule qui a été déterminé conforme aux normes prévues par le présent règlement et pour lequel le registraire responsable de la conformité des véhicules importés a délivré une attestation de conformité, doit porter une étiquette indiquant au moins les renseignements suivants, dans les deux langues officielles :
 	- **a)** le nom et l’adresse :
@@ -1363,18 +1363,18 @@ où :
 		- **(i)** le poids nominal brut du véhicule, exprimé en kilogrammes,
 		- **(ii)** le poids nominal brut sur l’essieu, exprimé en kilogrammes, donné pour chaque essieu, de l’avant à l’arrière.
 
-- **(9)** L’étiquette visée au paragraphe (8) doit :
+- **(9)** L’étiquette visée au paragraphe (8) doit :
 	- **a)** être fixée en permanence :
-		- **(i)** soit sur la même surface que celle où se trouve une étiquette de conformité visée à l’alinéa (3)a),
-		- **(ii)** soit, si aucune des étiquettes de conformité visées à l’alinéa (3)a) n’est apposée sur le véhicule, à l’endroit approprié mentionné au paragraphe 6(3);
+		- **(i)** soit sur la même surface que celle où se trouve une étiquette de conformité visée à l’alinéa (3)a),
+		- **(ii)** soit, si aucune des étiquettes de conformité visées à l’alinéa (3)a) n’est apposée sur le véhicule, à l’endroit approprié mentionné au paragraphe 6(3);
 	- **b)** résister aux intempéries ou être à l’abri des intempéries;
 	- **c)** porter des inscriptions :
 		- **(i)** claires et indélébiles,
 		- **(ii)** en creux, en relief ou d’une couleur contrastant avec celle du fond de l’étiquette,
 		- **(iii)** en majuscules et en chiffres d’au moins 2 mm de haut.
 
-- **(10)** Si une des étiquettes de conformité visées à l’alinéa (3)a) n’est pas apposée sur le véhicule, une mention indiquant que le véhicule a été fabriqué conformément aux lois fédérales des États-Unis qui lui étaient applicables à la date de sa fabrication est apposée sur l’étiquette visée au paragraphe (8) ou sur une étiquette distincte à côté de celle-ci.
-> DORS/80-441, art. 1; DORS/95-147, art. 2; DORS/96-90, art. 1; DORS/2000-304, art. 3; DORS/2002-55, art. 10; DORS/2003-272, art. 5; DORS/2006-94, art. 4(A); DORS/2007-307, art. 1.
+- **(10)** Si une des étiquettes de conformité visées à l’alinéa (3)a) n’est pas apposée sur le véhicule, une mention indiquant que le véhicule a été fabriqué conformément aux lois fédérales des États-Unis qui lui étaient applicables à la date de sa fabrication est apposée sur l’étiquette visée au paragraphe (8) ou sur une étiquette distincte à côté de celle-ci.
+> DORS/80-441, art. 1; DORS/95-147, art. 2; DORS/96-90, art. 1; DORS/2000-304, art. 3; DORS/2002-55, art. 10; DORS/2003-272, art. 5; DORS/2006-94, art. 4(A); DORS/2007-307, art. 1; DORS/2016-318, art. 3.
 
 
 
@@ -1616,7 +1616,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <th>Motocyclette</th>
 <th>Motocy-clette à usage restreint</th>
 <th>Motoneige</th>
-<th>Traîneau de motoneige</th>
 <th>Chariot de conversion</th>
 <th>Remorque</th>
 <th>Véhicule de tourisme à usages multiples</th>
@@ -1648,7 +1647,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td>X</td>
 <td></td>
@@ -1660,7 +1658,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td>Fonctions de la commande de la boîte de vitesses</td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1688,7 +1685,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td>X</td>
 <td></td>
@@ -1700,7 +1696,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td>Système essuie-glace et lave-glace</td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1728,7 +1723,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -1744,7 +1738,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td>X</td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td>X</td>
@@ -1767,7 +1760,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td>X</td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td>X</td>
 <td>X</td>
@@ -1788,7 +1780,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td>X</td>
 <td></td>
@@ -1804,7 +1795,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td>X</td>
@@ -1828,7 +1818,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td>X</td>
 <td></td>
@@ -1841,7 +1830,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td>X</td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1868,7 +1856,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td>X</td>
 <td></td>
@@ -1886,7 +1873,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td>X</td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td>X</td>
 <td>X</td>
 <td>X</td>
@@ -1906,7 +1892,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td>X</td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td>X</td>
 <td>X</td>
@@ -1921,7 +1906,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1946,7 +1930,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td>X</td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td>X</td>
 <td>X</td>
@@ -1960,7 +1943,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td>Systèmes de freinage à air comprimé</td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1993,7 +1975,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>123</td>
@@ -2004,7 +1985,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td>X</td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2028,7 +2008,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td>X</td>
 <td></td>
@@ -2040,7 +2019,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td>Systèmes de contrôle électronique de la stabilité</td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2073,14 +2051,12 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>135</td>
 <td>Systèmes de freinage de véhicules légers</td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2108,7 +2084,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td>X</td>
 <td></td>
@@ -2120,7 +2095,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td>Appui-tête</td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2148,7 +2122,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td>X</td>
 <td></td>
@@ -2160,7 +2133,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td>Recul de la colonne de direction</td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2187,7 +2159,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td>X</td>
 <td>X</td>
@@ -2201,7 +2172,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td>X</td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2228,7 +2198,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td>X</td>
 <td></td>
@@ -2237,11 +2206,10 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 <tr>
 <td>208</td>
-<td>Systèmes de retenue des occupants en cas de collision frontale</td>
+<td>Protection des occupants en cas de collision frontale</td>
 <td>X</td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2268,7 +2236,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td>X</td>
 <td></td>
@@ -2288,7 +2255,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td>X</td>
 <td></td>
@@ -2300,7 +2266,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td>Ancrages d’attache prêts à utiliser pour les ensembles de retenue et les sièges d’appoint</td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2328,7 +2293,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td>X</td>
 <td></td>
@@ -2340,7 +2304,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td>Cadre de pare-brise</td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2368,7 +2331,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td>X</td>
 <td></td>
@@ -2380,7 +2342,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td>Protection en cas de collision latérale</td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2409,7 +2370,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -2420,7 +2380,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td>Résistance du toit à l’écrasement</td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2453,14 +2412,12 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>219</td>
 <td>Pénétration de la zone du pare-brise</td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2488,7 +2445,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td>X</td>
 <td></td>
@@ -2499,7 +2455,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td>221</td>
 <td>Résistance des joints de carrosserie d’autobus scolaire</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2533,12 +2488,10 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>223</td>
 <td>Dispositifs de protection arrière</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2568,7 +2521,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td>X</td>
 <td></td>
@@ -2577,10 +2529,9 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 <tr>
 <td>301.1</td>
-<td>Étanchéité du circuit d’alimentation en GPL</td>
+<td>Étanchéité du circuit d’alimentation en carburant de type GPL</td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2597,10 +2548,9 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 <tr>
 <td>301.2</td>
-<td>Étanchéité du circuit d’alimentation en GNC</td>
+<td>Étanchéité du circuit d’alimentation en carburant de type GNC</td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2632,7 +2582,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 </tr>
 <tr>
@@ -2640,7 +2589,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td>Inflammabilité des matériaux intérieurs</td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2660,7 +2608,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td>Déversement d’électrolyte et protection contre les décharges électriques</td>
 <td>X</td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2689,7 +2636,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -2698,7 +2644,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <tr>
 <td>500</td>
 <td>Véhicule à basse vitesse</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2732,13 +2677,11 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 </tr>
 <tr>
 <td>901</td>
 <td>Essieux</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2758,7 +2701,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <tr>
 <td>903</td>
 <td>Spécifications du chariot de conversion de type C</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2787,7 +2729,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -2807,7 +2748,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -2818,7 +2758,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <tr>
 <td>906</td>
 <td>Remorque pour motoneige</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2848,7 +2787,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
 <td>X</td>
 <td></td>
@@ -2857,7 +2795,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 <tr>
 <td>1201</td>
-<td>Normes régissant les motoneiges</td>
+<td>Motoneiges</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2866,7 +2804,6 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td>X</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2877,23 +2814,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 <tr>
 <td>1202</td>
-<td>Traîneau de motoneige</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>X</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>[Abrogé, DORS/2016-318, art. 7]</td>
 </tr>
 <tr>
 <td>1207 à 1209</td>
@@ -2901,7 +2822,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 </table>
 
-> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4; DORS/2007-246, art. 1; DORS/2008-73, art. 2; DORS/2008-104, art. 7(F) et 8(F); DORS/2008-229, art. 2; DORS/2008-258, art. 5 et 6; DORS/2009-33, art. 1(F); DORS/2009-121, art. 1; DORS/2009-291, art. 2 et 3; DORS/2009-318, art. 4, 5(A), 6(F) et 7(F); DORS/2009-323, art. 1; DORS/2011-264, art. 3; DORS/2013-117, art. 4 et 5; DORS/2015-24, art. 2; DORS/2016-254, art. 1.
+> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4; DORS/2007-246, art. 1; DORS/2008-73, art. 2; DORS/2008-104, art. 7(F) et 8(F); DORS/2008-229, art. 2; DORS/2008-258, art. 5 et 6; DORS/2009-33, art. 1(F); DORS/2009-121, art. 1; DORS/2009-291, art. 2 et 3; DORS/2009-318, art. 4, 5(A), 6(F) et 7(F); DORS/2009-323, art. 1; DORS/2011-264, art. 3; DORS/2013-117, art. 4 et 5; DORS/2015-24, art. 2; DORS/2016-254, art. 1; DORS/2016-318, art. 4, 5(F) et 6 à 8.
 
 
 
@@ -3599,15 +3520,15 @@ ou
 
 - **(1)** Dans le présent article,
 
-***charge de route*** La puissance requise pour déplacer le véhicule à sa masse à vide plus 180 kg sur une surface plane, propre, sèche et lisse, en béton de ciment portland, ou sur toute autre surface ayant le même coefficient de frottement, à une vitesse donnée, dans une atmosphère immobile, à 20 °C et à une pression barométrique normalisée de 101,3 kPa, compte tenu du frottement dû aux mouvements de translation et de rotation et de la résistance de l’air. (*road load*) 
+***charge de route*** La puissance requise pour déplacer le véhicule à sa masse à vide plus 180 kg sur une surface plane, propre, sèche et lisse, en béton de ciment portland, ou sur toute autre surface ayant le même coefficient de frottement, à une vitesse donnée, dans une atmosphère immobile, à 20 °C et à une pression barométrique normalisée de 101,3 kPa, compte tenu du frottement dû aux mouvements de translation et de rotation et de la résistance de l’air; (*road load*)
 
-***dégivrer*** signifie faire fondre le givre ou la glace sur la surface intérieure ou extérieure d’un vitrage; (*defrost*) 
+***dégivrer*** signifie faire fondre le givre ou la glace sur la surface intérieure ou extérieure d’un vitrage; (*defrost*)
 
-***désembuer*** signifie faire disparaître la buée de la surface intérieure d’un vitrage; (*defog*) 
+***désembuer*** signifie faire disparaître la buée de la surface intérieure d’un vitrage; (*defog*)
 
-***pare-brise tout entier*** désigne la zone A mentionnée à l’article 104 de la présente annexe; (*entire windshield*) 
+***pare-brise tout entier*** désigne la zone A mentionnée à l’article 104 de la présente annexe; (*entire windshield*)
 
-***zone critique*** désigne la zone C mentionnée à l’article 104 de la présente annexe. (*critical area*) 
+***zone critique*** désigne la zone C mentionnée à l’article 104 de la présente annexe. (*critical area*)
 
 - **(2)** Sous réserve du paragraphe (2.1), tout véhicule doit être équipé d’un système de dégivrage et de désembuage du pare-brise.
 
@@ -3639,23 +3560,23 @@ ou
 
 - **(1)** Dans le présent article,
 
-***espace d’épaules*** désigne l’espage d’épaules prévu à l’avant, ou dimension W3, définie dans la partie E, « *Ground Vehicle Practice* », des *Aerospace-Automotive Drawing Standards* (septembre 1963) de la SAE; (*shoulder room dimension*) 
+***espace d’épaules*** désigne l’espage d’épaules prévu à l’avant, ou dimension W3, définie dans la partie E, « *Ground Vehicle Practice* », des *Aerospace-Automotive Drawing Standards* (septembre 1963) de la SAE; (*shoulder room dimension*)
 
-***largeur hors tout*** désigne la largeur maximale de la carrosserie, ou dimension W116, définie dans la partie E, « *Ground Vehicle Practice* », des *Aerospace-Automotive Drawing Standards* (septembre 1963) de la SAE; (*overall width*) 
+***largeur hors tout*** désigne la largeur maximale de la carrosserie, ou dimension W116, définie dans la partie E, « *Ground Vehicle Practice* », des *Aerospace-Automotive Drawing Standards* (septembre 1963) de la SAE; (*overall width*)
 
-***ligne de référence longitudinale*** désigne 
+***ligne de référence longitudinale*** désigne 
 - **a)** dans un véhicule à banquette avant, une ligne parallèle à l’axe longitudinal du véhicule, située à une distance du centre du volant, vers l’extérieur, égale aux 15 centièmes de la différence entre la moitié de l’espace d’épaules et la distance entre l’axe longitudinal et le centre du volant, comme il est indiqué sur la figure 2 de la Pratique recommandée J903a (mai 1966) de la SAE, et
 - **b)** dans un véhicule à sièges avant individuels,
 	- **(i)** une ligne parallèle à l’axe longitudinal du véhicule passant par le centre de la place assise désignée du conducteur, ou
-	- **(ii)** une ligne parallèle à l’axe longitudinal du véhicule située de manière que le centre géométrique des 95 pour cent du contour de portée visuelle se trouve sur l’axe longitudinal de la place assise désignée du conducteur; (*plan view reference line*)
+	- **(ii)** une ligne parallèle à l’axe longitudinal du véhicule située de manière que le centre géométrique des 95 pour cent du contour de portée visuelle se trouve sur l’axe longitudinal de la place assise désignée du conducteur; (*plan view reference line*)
 
-***ligne de référence de la surface vitrée*** L’intersection de la surface vitrée et d’un plan horizontal passant à 635 mm au-dessus du point de référence de position assise, comme l’indique la figure 1 de la pratique recommandée J903a de la SAE (mai 1966). (*glazing surface reference line*) 
+***ligne de référence de la surface vitrée*** L’intersection de la surface vitrée et d’un plan horizontal passant à 635 mm au-dessus du point de référence de position assise, comme l’indique la figure 1 de la pratique recommandée J903a de la SAE (mai 1966); (*glazing surface reference line*)
 
-***ouverture de jour*** désigne l’ouverture libre maximale de la surface vitrée, définie au paragraphe 2.3.12 de la partie E, « *Ground Vehicle Practice* », des *Aerospace-Automotive Drawing Standards* (septembre 1963) de la SAE; (*daylight opening*) 
+***ouverture de jour*** désigne l’ouverture libre maximale de la surface vitrée, définie au paragraphe 2.3.12 de la partie E, « *Ground Vehicle Practice* », des *Aerospace-Automotive Drawing Standards* (septembre 1963) de la SAE; (*daylight opening*) 
 
-***zones A, B et C*** désigne les zones ainsi identifiées dans la colonne I des tableaux I, II, III et IV du présent article, établies selon les indications des figures 1 et 2 de la Pratique recommandée J903a de la SAE, « *Passenger Car Windshield Wiper Systems* », (mai 1966), et à l’aide des angles indiqués dans les colonnes III à VI des tableaux précités; (*areas A, B and C*) 
+***zones A, B et C*** désigne les zones ainsi identifiées dans la colonne I des tableaux I, II, III et IV du présent article, établies selon les indications des figures 1 et 2 de la Pratique recommandée J903a de la SAE, « *Passenger Car Windshield Wiper Systems* », (mai 1966), et à l’aide des angles indiqués dans les colonnes III à VI des tableaux précités; (*areas A, B and C*) 
 
-***95 pour cent du contour de portée visuelle*** désigne le 95<sup>e</sup> percentile de limite tangentielle de visibilité, défini dans la Pratique recommandée J941a de la SAE, « *Passenger Car Driver’s Eye Range* » (août 1967). (*95 per cent eye range contour*) 
+***95 pour cent du contour de portée visuelle*** désigne le 95<sup>e</sup> percentile de limite tangentielle de visibilité, défini dans la Pratique recommandée J941a de la SAE, « *Passenger Car Driver’s Eye Range* » (août 1967). (*95 per cent eye range contour*) 
 
 - **(2)** Pour l’application du présent article, dans le cadre de toute norme ou pratique recommandée de la SAE, les mentions « *manikin H-point* », « *manikin H-point with seat in rearmost position* » et « *H-point* » valent la mention « point de référence de position assise ».
 
@@ -4336,11 +4257,11 @@ ou
 
 - **(7)** Les définitions qui suivent s’appliquent au DNT 110.
 
-***base de jante*** Partie restante de la jante après l’enlèvement de tous les rebords, joues latérales et anneaux de verrouillage, en une ou plusieurs pièces, qui peuvent se détacher de la jante. (*rim base*) 
+***base de jante*** Partie restante de la jante après l’enlèvement de tous les rebords, joues latérales et anneaux de verrouillage, en une ou plusieurs pièces, qui peuvent se détacher de la jante. (*rim base*) 
 
-***charge nominale*** La charge maximale attribuée à un pneu pour une pression de gonflage donnée. (*load rating*) 
+***charge nominale*** La charge maximale attribuée à un pneu pour une pression de gonflage donnée. (*load rating*) 
 
-***limite de charge nominale*** La charge nominale d’un pneu à la pression maximale permise de gonflage de celui-ci. (*maximum load rating*) 
+***limite de charge nominale*** La charge nominale d’un pneu à la pression maximale permise de gonflage de celui-ci. (*maximum load rating*) 
 
 #### Symbole d’identification de la limite de charge
 
@@ -5146,9 +5067,9 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(4)** Les définitions qui suivent s’appliquent au DNT 120.
 
-***charge nominale*** La charge maximale attribuée à un pneu pour une pression de gonflage donnée. (*load rating*) 
+***charge nominale*** La charge maximale attribuée à un pneu pour une pression de gonflage donnée. (*load rating*) 
 
-***limite de charge nominale*** La charge nominale d’un pneu à la pression maximale permise de gonflage de celui-ci. (*maximum load rating*) 
+***limite de charge nominale*** La charge nominale d’un pneu à la pression maximale permise de gonflage de celui-ci. (*maximum load rating*) 
 
 #### Symbole d’identification de la limite de charge
 
@@ -5370,22 +5291,22 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(1)** Dans le présent article,
 
-***appareil de mesure*** Appareil ayant une tête factice sphérique d’un diamètre de 165 mm (6,5 po) fixée à un pivot, la distance entre le point d’articulation du pivot et le sommet de la tête factice étant réglable à tout point situé entre 740 mm (29 po) et 840 mm (33 po). (*measuring device*)
+***appareil de mesure*** Appareil ayant une tête factice sphérique d’un diamètre de 165 mm (6,5 po) fixée à un pivot, la distance entre le point d’articulation du pivot et le sommet de la tête factice étant réglable à tout point situé entre 740 mm (29 po) et 840 mm (33 po); (*measuring device*)
 
-***porte de compartiment intérieur*** désigne toute porte ou tout couvercle installés par le fabricant à l’intérieur d’un véhicule pour enfermer un espace de rangement normalement utilisé pour placer des effets personnels; (*interior compartment door*) 
+***porte de compartiment intérieur*** désigne toute porte ou tout couvercle installés par le fabricant à l’intérieur d’un véhicule pour enfermer un espace de rangement normalement utilisé pour placer des effets personnels; (*interior compartment door*)
 
-***zone d’impact de la tête*** désigne les surfaces non vitrées de l’intérieur du véhicule avec lesquelles la tête factice d’un appareil de mesure peut entrer en contact d’après la méthode suivante ou sa représentation graphique :
+***zone d’impact de la tête*** désigne les surfaces non vitrées de l’intérieur du véhicule avec lesquelles la tête factice d’un appareil de mesure peut entrer en contact d’après la méthode suivante ou sa représentation graphique :
 - **a)** à chaque place assise désignée, placer le pivot de l’appareil de mesure,
 	- **(i)** pour les sièges réglables,
 		- **(A)** au point de référence de position assise, et
 		- **(B)** à un point situé à une distance horizontale de 130 mm (5 po) devant le point de référence de position assise, déplacé verticalement de 20 mm (0,75 po) ou jusqu’au niveau qu’il atteint lorsque le siège est avancé de 130 mm (5 po), et
 	- **(ii)** pour les sièges non réglables, au point de référence de position assise,
 - **b)** le pivot étant placé à chacune des distances du sommet de la tête permises à l’appareil de mesure par les dimensions intérieures du véhicule, déterminer tous les points de contact situés au-dessus de la limite inférieure de la surface vitrée du pare-brise et devant le point de référence de position assise, et
-- **c)** la tête factice de l’appareil de mesure étant placée à chaque point de contact mentionné à l’alinéa b) et l’appareil de mesure étant en position verticale s’il n’existe pas de point de contact pour un réglage particulier de la distance, faire pivoter l’appareil de mesure vers l’avant et vers le bas, lui faisant ainsi décrire tous les arcs possibles dans des plans verticaux de 90° de chaque côté du plan longitudinal passant par le point de référence de position assise, jusqu’à ce que la tête factice entre en contact avec une surface intérieure ou jusqu’à ce qu’elle soit tangente à un plan horizontal situé à 25 mm (1 pouce) au-dessus du point de référence de position assise, selon ce qui se produit en premier. (*head impact area*)
+- **c)** la tête factice de l’appareil de mesure étant placée à chaque point de contact mentionné à l’alinéa b) et l’appareil de mesure étant en position verticale s’il n’existe pas de point de contact pour un réglage particulier de la distance, faire pivoter l’appareil de mesure vers l’avant et vers le bas, lui faisant ainsi décrire tous les arcs possibles dans des plans verticaux de 90° de chaque côté du plan longitudinal passant par le point de référence de position assise, jusqu’à ce que la tête factice entre en contact avec une surface intérieure ou jusqu’à ce qu’elle soit tangente à un plan horizontal situé à 25 mm (1 pouce) au-dessus du point de référence de position assise, selon ce qui se produit en premier; (*head impact area*)
 
-***zone d’impact pelvienne*** désigne la partie de la porte ou du panneau latéral intérieur de la carrosserie adjacent à n’importe laquelle des places assises désignées extérieures et délimitée par 
+***zone d’impact pelvienne*** désigne la partie de la porte ou du panneau latéral intérieur de la carrosserie adjacent à n’importe laquelle des places assises désignées extérieures et délimitée par 
 - **a)** deux plans horizontaux situés à 180 mm (7 po) au-dessus et à 100 mm (4 po) au-dessous du point de référence de position assise, et
-- **b)** deux plans verticaux et transversaux, situés à 200 mm (8 po) devant et à 50 mm (2 po) derrière le point de référence de position assise. (*pelvic impact area*)
+- **b)** deux plans verticaux et transversaux, situés à 200 mm (8 po) devant et à 50 mm (2 po) derrière le point de référence de position assise. (*pelvic impact area*)
 
 - **(2)** Le présent article s’applique aux voitures de tourisme, ainsi qu’aux véhicules de tourisme à usages multiples, camions et autobus ayant un PNBV d’au plus 4 536 kg (10 000 lb).
 
@@ -5559,10 +5480,10 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(2)** L’étiquette visée à la disposition S4.4 du DNT 207 doit être rédigée dans les deux langues officielles.
 
-- **(3)** Dans le cas des camions et véhicules de tourisme à usages multiples ayant un PNBV supérieur à 4 563 kg et des autocaravanes, n’est pas considéré comme étant une place assise désignée le siège étiqueté conformément à la disposition S4.4 du DNT 207.
+- **(3)** Dans le cas des camions et véhicules de tourisme à usages multiples ayant un PNBV supérieur à 4 536 kg et des autocaravanes, n’est pas considéré comme étant une place assise désignée le siège étiqueté conformément à la disposition S4.4 du DNT 207.
 
 - **(4)** [Abrogé, DORS/2014-307, art. 17]
-> DORS/2011-264, art. 5; DORS/2014-307, art. 17..
+> DORS/2011-264, art. 5; DORS/2014-307, art. 17; DORS/2016-318, art. 9..
 
 
 
@@ -5608,14 +5529,23 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 			- **(A)** est réglable au moyen d’un rétracteur à blocage d’urgence, d’un rétracteur autobloquant ou d’un dispositif de réglage manuel,
 			- **(B)** ne peut se détacher d’aucun point d’ancrage.
 
-- **(3)** Les véhicules de tourisme à usages multiples et les camions ayant un PNBV de plus de 4 536 kg doivent être munis à chaque place assise désignée :
-	- **a)** soit d’une ceinture de sécurité manuelle de type 2 qui :
-		- **(i)** comporte une ceinture-baudrier qui ne peut se détacher de la ceinture sous-abdominale,
-		- **(ii)** est réglable au moyen d’un rétracteur à blocage d’urgence ou d’un rétracteur autobloquant,
-		- **(iii)** ne peut se détacher d’aucun point d’ancrage;
-	- **b)** soit d’une ceinture de sécurité manuelle de type 1 qui :
-		- **(i)** est réglable au moyen d’un rétracteur à blocage d’urgence ou d’un rétracteur autobloquant,
-		- **(ii)** ne peut se détacher d’aucun point d’ancrage.
+- **(3)** Les véhicules de tourisme à usages multiples et camions ayant un PNBV de plus de 4 536 kg doivent être munis :
+	- **a)** aux places assises désignées extérieures avant :
+		- **(i)** soit d’une ceinture de sécurité manuelle de type 2 qui :
+			- **(A)** comporte une ceinture-baudrier qui ne peut se détacher de la ceinture sous-abdominale,
+			- **(B)** est réglable au moyen d’un rétracteur à blocage d’urgence ou d’un rétracteur autobloquant,
+			- **(C)** ne peut se détacher d’aucun point d’ancrage,
+		- **(ii)** soit d’une ceinture de sécurité manuelle de type 1 qui :
+			- **(A)** est réglable au moyen d’un rétracteur à blocage d’urgence ou d’un rétracteur autobloquant,
+			- **(B)** ne peut se détacher d’aucun point d’ancrage;
+	- **b)** aux places assises désignées intérieures avant et aux places assises désignées arrière :
+		- **(i)** soit d’une ceinture de sécurité manuelle de type 2 qui :
+			- **(A)** comporte une ceinture-baudrier qui ne peut se détacher de la ceinture sous-abdominale,
+			- **(B)** est réglable au moyen d’un rétracteur à blocage d’urgence, d’un rétracteur autobloquant ou d’un dispositif de réglage manuel,
+			- **(C)** ne peut se détacher d’aucun point d’ancrage,
+		- **(ii)** soit d’une ceinture manuelle de type 1 qui :
+			- **(A)** est réglable au moyen d’un rétracteur à blocage d’urgence, d’un rétracteur autobloquant ou d’un dispositif de réglage manuel,
+			- **(B)** ne peut se détacher d’aucun point d’ancrage.
 
 - **(4)** Dans le cas des autocaravanes, le nombre de places assises désignées munies d’une ceinture de sécurité ne doit pas être inférieur à celui des places couchées.
 
@@ -5720,7 +5650,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 
 - **(26)** Jusqu’au 1<sup>er</sup> septembre 2015, les autobus, les camions, les motocyclettes à habitacle fermé, les véhicules de tourisme à usages multiples, les voitures de tourisme et les véhicules à trois roues peuvent être conformes aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
-> DORS/78-80, art. 2; DORS/80-782, art. 2; DORS/87-578, art. 2; DORS/90-387, art. 3; DORS/93-5, art. 4; DORS/97-201, art. 5; DORS/97-447, art. 5; DORS/98-125, art. 6; DORS/98-524, art. 4(F); DORS/2002-55, art. 17; DORS/2003-272, art. 24; DORS/2006-94, art. 4(A); DORS/2007-180, art. 12; DORS/2008-72, art. 6; DORS/2008-104, art. 16(F); DORS/2013-9, art. 5 et 6; DORS/2014-307, art. 18..
+> DORS/78-80, art. 2; DORS/80-782, art. 2; DORS/87-578, art. 2; DORS/90-387, art. 3; DORS/93-5, art. 4; DORS/97-201, art. 5; DORS/97-447, art. 5; DORS/98-125, art. 6; DORS/98-524, art. 4(F); DORS/2002-55, art. 17; DORS/2003-272, art. 24; DORS/2006-94, art. 4(A); DORS/2007-180, art. 12; DORS/2008-72, art. 6; DORS/2008-104, art. 16(F); DORS/2013-9, art. 5 et 6; DORS/2014-307, art. 18; DORS/2016-318, art. 10..
 
 
 
@@ -5735,9 +5665,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(2)** La ceinture sous-abdominale d’une ceinture de sécurité manuelle de type 2 qui est munie d’une ceinture-baudrier détachable doit être conforme à toutes les exigences relatives à la ceinture de sécurité de type 1 qui figurent dans le présent règlement.
 
-- **(3) à (6)** [Abrogés, DORS/2013-117, art. 6]
-
-- **(7)** Toute mention dans le DNT 209 d’une norme publiée par l’ASTM ou l’AATCC qui figure à la colonne 1 du tableau du présent paragraphe vaut mention, selon le cas, de la norme indiquée en regard de cette norme à la colonne 2.
+- **(3)** Toute mention dans le DNT 209 d’une norme publiée par l’ASTM ou l’AATCC qui figure à la colonne 1 du tableau du présent paragraphe vaut mention de la norme indiquée en regard de cette norme à la colonne 2.
 #### TABLEAU
 <table>
 <tr>
@@ -5752,44 +5680,46 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 </tr>
 <tr>
 <td>2</td>
-<td>Norme B 117 – 73 de l’ASTM, *Standard Method of Salt Spray (Fog) Testing*</td>
-<td>Norme B 117 – 03 de l’ASTM, *Standard Practice for Operating Salt Spray (Fog) Apparatus*</td>
+<td>Norme B 117 – 73 de l’ASTM, *Standard Method of Salt Spray (Fog) Testing*</td>
+<td>Norme B 117 – 03 de l’ASTM, *Standard Practice for Operating Salt Spray (Fog) Apparatus*</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Norme B 456 – 79 de l’ASTM, *Standard Specification for Electrodeposited Coatings of Copper Plus Nickel Plus Chromium and Nickel Plus Chromium*</td>
-<td>Norme B 456 – 03 de l’ASTM, *Standard Specification for Electrodeposited Coatings of Copper Plus Nickel Plus Chromium and Nickel Plus Chromium*</td>
+<td>Norme B 456 – 79 de l’ASTM, *Standard Specification for Electrodeposited Coatings of Copper Plus Nickel Plus Chromium and Nickel Plus Chromium*</td>
+<td>Norme B 456 – 03 de l’ASTM, *Standard Specification for Electrodeposited Coatings of Copper Plus Nickel Plus Chromium and Nickel Plus Chromium*</td>
 </tr>
 <tr>
 <td>4</td>
-<td>Norme D 756 – 78 de l’ASTM, *Standard Practice for Determination of Weight and Shape Changes of Plastics Under Accelerated Service Conditions*</td>
-<td>Norme D 756 – 93 de l’ASTM, *Standard Practice for Determination of Weight and Shape Changes of Plastics Under Accelerated Service Conditions*</td>
+<td>Norme D 756 – 78 de l’ASTM, *Standard Practice for Determination of Weight and Shape Changes of Plastics Under Accelerated Service Conditions*</td>
+<td>Norme D 756 – 93 de l’ASTM, *Standard Practice for Determination of Weight and Shape Changes of Plastics Under Accelerated Service Conditions*</td>
 </tr>
 <tr>
 <td>5</td>
-<td>Norme E 4 – 79 de l’ASTM, *Standard Methods of Load Verification of Testing Machines*</td>
-<td>Norme E 4 – 07 de l’ASTM, *Standard Practices for Force Verification of Testing Machines*</td>
+<td>Norme E 4 – 79 de l’ASTM, *Standard Methods of Load Verification of Testing Machines*</td>
+<td>Norme E 4 – 07 de l’ASTM, *Standard Practices for Force Verification of Testing Machines*</td>
 </tr>
 <tr>
 <td>6</td>
-<td>Norme G 23 – 81 de l’ASTM, *Standard Practice for Operating Light-Exposure Apparatus (Carbon-Arc Type) With and Without Water for Exposure of Nonmetallic Materials*</td>
+<td>Norme G 23 – 81 de l’ASTM, *Standard Practice for Operating Light-Exposure Apparatus (Carbon-Arc Type) With and Without Water for Exposure of Nonmetallic Materials*</td>
 <td>Norme G 152 – 06 de l’ASTM, *Standard Practice for Operating Open Flame Carbon Arc Light Apparatus for Exposure of Nonmetallic Materials*</td>
 </tr>
 </table>
 
 
-- **(8)** Pour l’application de la disposition S4.1e) du DNT 209, il est fait abstraction de la mention « facilement accessibles à l’occupant afin qu’il puisse se libérer rapidement de la ceinture » dans la première phrase de la disposition.
+- **(4)** Pour l’application de la disposition S4.1e) du DNT 209, il est fait abstraction de la mention « facilement accessibles à l’occupant afin qu’il puisse se libérer rapidement de la ceinture » dans la première phrase de la disposition.
 
-- **(9)** Les dispositions S4.1g) et m), S4.5b) et S4.6 du DNT 209 ne s’appliquent pas.
+- **(5)** Les dispositions S4.1g) et m), S4.5b) et S4.6 du DNT 209 ne s’appliquent pas.
 
-- **(10)** Les instructions visées à la disposition S4.1l) du DNT 209 doivent figurer dans les versions française et anglaise du manuel de l’usager.
+- **(6)** Les instructions visées à la disposition S4.1l) du DNT 209 doivent figurer dans les versions française et anglaise du manuel de l’usager.
 
-- **(11)** Les exigences relatives au rétracteur sans blocage qui sont prévues aux dispositions S4.1l), S4.3h) et S5.2h) et k) du DNT 209 ne s’appliquent pas.
+- **(7)** Les exigences relatives aux rétracteurs sans blocage qui sont prévues aux dispositions S4.1l), S4.3h) et S5.2h) et k) du DNT 209 ne s’appliquent pas.
 
-- **(12)** La ceinture de sécurité de type 1 ou de type 2 qui inclut un limiteur de charge et n’est pas conforme aux exigences en matière d’allongement qui sont prévues aux dispositions S4.2c), S4.4a)(2) ou S4.4b)(4) ou (5) du DNT 209 ne peut être installée qu’à une place assise désignée extérieure avant qui est munie d’un sac gonflable frontal.
+- **(8)** Les exigences relatives à la solidité de la couleur qui sont prévues à la disposition S4.2e) du DNT 209 ne s’appliquent pas.
 
-- **(13)** Le présent article cesse d’avoir effet le 31 janvier 2016.
-> DORS/78-910, art. 2; DORS/87-154, art. 3; DORS/92-545, art. 4; DORS/97-447, art. 6; DORS/2007-180, art. 13; DORS/2009-318, art. 12; DORS/2011-238, art. 4; DORS/2013-117, art. 6..
+- **(9)** Les exigences relatives au dépôt de la corrosion qui sont prévues à la disposition S4.3a)(2) du DNT 209 ne s’appliquent pas.
+
+- **(10)** La ceinture de sécurité de type 1 ou de type 2 qui inclut un limiteur de charge et qui n’est pas conforme aux exigences en matière d’allongement qui sont prévues aux dispositions S4.2c), S4.4a)(2) ou S4.4b)(4) ou (5) du DNT 209 ne peut être installée qu’à une place assise désignée extérieure avant qui est munie d’un sac gonflable frontal.
+> DORS/78-910, art. 2; DORS/87-154, art. 3; DORS/92-545, art. 4; DORS/97-447, art. 6; DORS/2007-180, art. 13; DORS/2009-318, art. 12; DORS/2011-238, art. 4; DORS/2013-117, art. 6; DORS/2016-318, art. 11..
 
 
 
@@ -6497,9 +6427,9 @@ Remarque : Le dessin n’est pas à l’échelle.
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***DNT 209*** Le Document de normes techniques no 209 — Ceintures de sécurité, avec ses modifications successives. (*TSD 209*) 
+***DNT 209*** Le Document de normes techniques no 209 — Ceintures de sécurité, avec ses modifications successives. (*TSD 209*)
 
-***Méthode d’essai 213.4*** La Méthode d’essai 213.4 — Ensembles intégrés de retenue et sièges d’appoint intégrés, dans sa version de novembre 2012. (*Test Method 213.4*) 
+***Méthode d’essai 213.4*** La Méthode d’essai 213.4 — Ensembles intégrés de retenue et sièges d’appoint intégrés, dans sa version de novembre 2012. (*Test Method 213.4*)
 
 - **(2)** Pour l’application du présent article, toute mention, dans le DNT 209, d’une sangle, d’une attache de ceinture ou de leurs pièces de réglage qui font partie d’une ceinture de sécurité de type 1 vaut mention d’une sangle, d’une attache de ceinture ou de leurs pièces de réglage qui font partie d’un ensemble intégré de retenue.
 
@@ -6924,17 +6854,17 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***carrosserie d’autobus*** La partie de l’autobus qui délimite l’espace alloué aux occupants, y compris le plancher et le panneau de carrosserie qui sépare le compartiment moteur de l’espace alloué aux occupants. Sont exclus de la présente définition les pare-chocs et le châssis-cadre. (*bus body*) 
+***carrosserie d’autobus*** La partie de l’autobus qui délimite l’espace alloué aux occupants, y compris le plancher et le panneau de carrosserie qui sépare le compartiment moteur de l’espace alloué aux occupants. Sont exclus de la présente définition les pare-chocs et le châssis-cadre. (*bus body*) 
 
-***élément de carrosserie*** Pièce de la carrosserie de l’autobus, y compris les panneaux de plancher, faite d’un seul morceau de matériau homogène ou d’un seul morceau de matériau hétérogène tel le contre-plaqué ou le plastique. (*body component*) 
+***élément de carrosserie*** Pièce de la carrosserie de l’autobus, y compris les panneaux de plancher, faite d’un seul morceau de matériau homogène ou d’un seul morceau de matériau hétérogène tel le contre-plaqué ou le plastique. (*body component*) 
 
-***élément nécessitant de l’entretien*** Pièce de l’autobus, mécanique ou électrique, qui est expressément identifiée dans le manuel de l’usager ou le manuel d’entretien de l’usine comme nécessitant des travaux d’entretien courant à des intervalles d’un an ou moins. La tuyauterie, le filage et les harnais sont considérés comme des éléments nécessitant de l’entretien seulement à leur point d’attache. (*serviceable component*) 
+***élément nécessitant de l’entretien*** Pièce de l’autobus, mécanique ou électrique, qui est expressément identifiée dans le manuel de l’usager ou le manuel d’entretien de l’usine comme nécessitant des travaux d’entretien courant à des intervalles d’un an ou moins. La tuyauterie, le filage et les harnais sont considérés comme des éléments nécessitant de l’entretien seulement à leur point d’attache. (*serviceable component*) 
 
-***joint de panneau de carrosserie*** La zone où sont joints, attachés ou rapprochés les bords d’un panneau de carrosserie et ceux d’un autre élément de carrosserie. (*body panel joint*) 
+***joint de panneau de carrosserie*** La zone où sont joints, attachés ou rapprochés les bords d’un panneau de carrosserie et ceux d’un autre élément de carrosserie. (*body panel joint*) 
 
-***panneau d’accès pour l’entretien*** Panneau de carrosserie devant être déplacé ou enlevé pour permettre l’accès aux éléments nécessitant de l’entretien. (*maintenance access panel*) 
+***panneau d’accès pour l’entretien*** Panneau de carrosserie devant être déplacé ou enlevé pour permettre l’accès aux éléments nécessitant de l’entretien. (*maintenance access panel*) 
 
-***panneau de carrosserie*** Élément de carrosserie utilisé sur la surface intérieure ou extérieure d’un autobus pour délimiter l’espace alloué aux occupants. (*body panel*) 
+***panneau de carrosserie*** Élément de carrosserie utilisé sur la surface intérieure ou extérieure d’un autobus pour délimiter l’espace alloué aux occupants. (*body panel*) 
 
 - **(2)** Le présent article s’applique aux joints de panneau de carrosserie d’un autobus scolaire qui se trouvent à l’arrière du plan vertical transversal situé à 762 mm en avant du point de référence de position assise du siège pour passager le plus avancé, à l’exclusion de ceux qui sont joints ou attachés à l’un des éléments suivants ou sont rapprochés de celui-ci :
 	- **a)** les pièces telles les bandes de protection qui sont entièrement à l’extérieur des panneaux de carrosserie;
@@ -6965,19 +6895,19 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 
 - **(1)** Dans le présent article,
 
-***siège pour passager d’autobus scolaire*** désigne un siège d’autobus scolaire, à l’exception du siège du conducteur, ou d’un siège installé en vue de recevoir un handicapé ou un convalescent, qui est orienté selon un angle de plus de 45° de chaque côté de l’axe longitudinal du véhicule; (*school bus passenger seat*) 
+***siège pour passager d’autobus scolaire*** désigne un siège d’autobus scolaire, à l’exception du siège du conducteur, ou d’un siège installé en vue de recevoir un handicapé ou un convalescent, qui est orienté selon un angle de plus de 45° de chaque côté de l’axe longitudinal du véhicule; (*school bus passenger seat*)
 
-***surface de contact*** désigne une surface située à l’intérieur de la zone de protection de la tête et avec laquelle une tête factice peut entrer en contact mais n’inclut pas la surface avant d’un dossier de siège ou d’une barrière de retenue, située au minimum à 76 mm (3 po) au-dessous de la partie supérieure du dossier du siège ou de la barrière de retenue; (*contactable surface*) 
+***surface de contact*** désigne une surface située à l’intérieur de la zone de protection de la tête et avec laquelle une tête factice peut entrer en contact mais n’inclut pas la surface avant d’un dossier de siège ou d’une barrière de retenue, située au minimum à 76 mm (3 po) au-dessous de la partie supérieure du dossier du siège ou de la barrière de retenue; (*contactable surface*)
 
-***W*** représente le nombre de places assises sur une banquette, égal au quotient obtenu en divisant la largeur de la banquette, mesurée en millimètres (pouces), par 381 mm (15 pouces), en arrondissant le quotient à l’entier supérieur pour des résultats de cinq dixièmes et plus, et à l’entier inférieur dans les autres cas. (*W*) 
+***W*** représente le nombre de places assises sur une banquette, égal au quotient obtenu en divisant la largeur de la banquette, mesurée en millimètres (pouces), par 381 mm (15 pouces), en arrondissant le quotient à l’entier supérieur pour des résultats de cinq dixièmes et plus, et à l’entier inférieur dans les autres cas; (*W*)
 
-***zone de protection de la tête*** désigne l’espace devant chaque place prévue d’un siège pour passager d’autobus scolaire, qui n’est pas occupé par une paroi latérale ni par un cadre de fenêtre ou de porte, et qui, par rapport à ce même siège et à son point de référence de position assise, se trouve à l’intérieur des plans suivants :
+***zone de protection de la tête*** désigne l’espace devant chaque place prévue d’un siège pour passager d’autobus scolaire, qui n’est pas occupé par une paroi latérale ni par un cadre de fenêtre ou de porte, et qui, par rapport à ce même siège et à son point de référence de position assise, se trouve à l’intérieur des plans suivants :
 - **a)** les plans horizontaux situés à 300 mm (12 po) et à 1 016 mm (40 po) au-dessus du point de référence de position assise,
 - **b)** un plan longitudinal vertical tangent au rebord intérieur (côté de l’allée) du siège,
 - **c)** un plan longitudinal vertical situé à 83 mm (3,25 po) à l’intérieur du rebord extérieur du siège, et
-- **d)** des plans transversaux verticaux passant par le point de référence de position assise et situés à 760 mm (30 po) devant ce dernier; (*head protection zones*)
+- **d)** des plans transversaux verticaux passant par le point de référence de position assise et situés à 760 mm (30 po) devant ce dernier; (*head protection zones*)
 
-***zone de protection des jambes*** désigne la partie d’un dossier de siège pour passager d’autobus scolaire ou d’une barrière de retenue dans un autobus scolaire, qui est limitée par des plans horizontaux situés à 300 mm (12 po) au-dessus et à 100 mm (4 po) au-dessous du point de référence de position assise du siège pour passager d’autobus scolaire situé immédiatement derrière le dossier du siège ou de la barrière de retenue. (*leg protection zones*) 
+***zone de protection des jambes*** désigne la partie d’un dossier de siège pour passager d’autobus scolaire ou d’une barrière de retenue dans un autobus scolaire, qui est limitée par des plans horizontaux situés à 300 mm (12 po) au-dessus et à 100 mm (4 po) au-dessous du point de référence de position assise du siège pour passager d’autobus scolaire situé immédiatement derrière le dossier du siège ou de la barrière de retenue. (*leg protection zones*)
 
 - **(2)** Les autobus scolaires, lorsqu’ils sont soumis aux Méthodes d’essai de sécurité des véhicules automobiles, article 222, « Siège pour passager d’autobus scolaire et protection en cas de collision » (19 décembre 1983) doivent, pour les places assises désignées autres que le siège du conducteur, satisfaire aux exigences des paragraphes (6) à (12).
 
@@ -7063,37 +6993,37 @@ ne doit pas dépasser 1 000, « a » étant l’accélération axiale exprim�
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***coins arrondis*** Les points limites de la pièce horizontale du dispositif de protection arrière qui sont courbés vers le haut. (*rounded corners*) 
+***coins arrondis*** Les points limites de la pièce horizontale du dispositif de protection arrière qui sont courbés vers le haut. (*rounded corners*)
 
-***dispositif de protection arrière*** Dispositif monté sur l’arrière ou près de l’arrière d’une remorque de façon à limiter, lorsqu’elle est heurtée par l’arrière par un véhicule, la distance sur laquelle glisse sous son extrémité arrière l’avant du véhicule qui la heurte. (*rear impact guard*) 
+***dispositif de protection arrière*** Dispositif monté sur l’arrière ou près de l’arrière d’une remorque de façon à limiter, lorsqu’elle est heurtée par l’arrière par un véhicule, la distance sur laquelle glisse sous son extrémité arrière l’avant du véhicule qui la heurte. (*rear impact guard*)
 
-***dispositif de protection hydraulique*** Dispositif de protection arrière conçu pour utiliser les propriétés des fluides en vue de produire une force de résistance à la déformation. (*hydraulic guard*) 
+***dispositif de protection hydraulique*** Dispositif de protection arrière conçu pour utiliser les propriétés des fluides en vue de produire une force de résistance à la déformation. (*hydraulic guard*)
 
-***extérieur*** À l’égard d’une remorque, qualifie ce qui est éloigné de l’axe central de la remorque et qui tend vers les extrémités latérales de celle-ci. (*outboard*) 
+***extérieur*** À l’égard d’une remorque, qualifie ce qui est éloigné de l’axe central de la remorque et qui tend vers les extrémités latérales de celle-ci. (*outboard*)
 
-***extrémité arrière*** Le point le plus à l’arrière de la remorque qui se trouve au-dessus d’un plan horizontal situé au-dessus de la garde au sol et au-dessous d’un plan horizontal situé à 1 900 mm au-dessus du sol lorsque la remorque est configurée comme le prévoit le paragraphe (7) et lorsque les portes de chargement, le hayon et les autres structures permanentes de la remorque sont à la position qu’ils occupent normalement lorsque celle-ci est en mouvement. Cependant, toutes protubérances non structurales, notamment les protubérances ci-après, sont exclues dans le calcul du point le plus à l’arrière :
+***extrémité arrière*** Le point le plus à l’arrière de la remorque qui se trouve au-dessus d’un plan horizontal situé au-dessus de la garde au sol et au-dessous d’un plan horizontal situé à 1 900 mm au-dessus du sol lorsque la remorque est configurée comme le prévoit le paragraphe (7) et lorsque les portes de chargement, le hayon et les autres structures permanentes de la remorque sont à la position qu’ils occupent normalement lorsque celle-ci est en mouvement. Cependant, toutes protubérances non structurales, notamment les protubérances ci-après, sont exclues dans le calcul du point le plus à l’arrière :
 - **a)** les feux arrière;
 - **b)** les pare-chocs en caoutchouc;
 - **c)** les charnières et les loquets;
-- **d)** les dispositifs aérodynamiques flexibles pouvant être pliés de façon à se trouver à moins de 305 mm du plan vertical transversal tangent à la surface la plus à l’arrière de la pièce horizontale et qui, lorsqu’ils sont à la position qu’ils occupent normalement lorsque la remorque est en mouvement, sont situés à l’avant du plan transversal qui est tangent au bord inférieur arrière de la pièce horizontale et qui croise un point situé à 1 210 mm à l’arrière de la surface la plus à l’arrière de la pièce horizontale et à 1 740 mm au-dessus du sol. (*rear extremity*)
+- **d)** les dispositifs aérodynamiques flexibles pouvant être pliés de façon à se trouver à moins de 305 mm du plan vertical transversal tangent à la surface la plus à l’arrière de la pièce horizontale et qui, lorsqu’ils sont à la position qu’ils occupent normalement lorsque la remorque est en mouvement, sont situés à l’avant du plan transversal qui est tangent au bord inférieur arrière de la pièce horizontale et qui croise un point situé à 1 210 mm à l’arrière de la surface la plus à l’arrière de la pièce horizontale et à 1 740 mm au-dessus du sol. (*rear extremity*)
 
-***extrémité latérale*** Le point le plus à l’extérieur du flanc d’une remorque qui se trouve au-dessus d’un plan horizontal situé au-dessus de la garde au sol, au-dessous d’un plan horizontal situé à 1 900 mm au-dessus du sol, et entre un plan vertical transversal tangent à l’extrémité arrière de la remorque et un plan vertical transversal situé à 305 mm à l’avant de ce plan, les protubérances non structurales, notamment les feux arrière, les parechocs en caoutchouc, les charnières et les loquets, étant exclues dans le calcul du point le plus à l’extérieur. (*side extremity*) 
+***extrémité latérale*** Le point le plus à l’extérieur du flanc d’une remorque qui se trouve au-dessus d’un plan horizontal situé au-dessus de la garde au sol, au-dessous d’un plan horizontal situé à 1 900 mm au-dessus du sol, et entre un plan vertical transversal tangent à l’extrémité arrière de la remorque et un plan vertical transversal situé à 305 mm à l’avant de ce plan, les protubérances non structurales, notamment les feux arrière, les parechocs en caoutchouc, les charnières et les loquets, étant exclues dans le calcul du point le plus à l’extérieur. (*side extremity*)
 
-***garde au sol*** La distance verticale à partir du bord inférieur de la pièce horizontale jusqu’au sol. (*ground clearance*) 
+***garde au sol*** La distance verticale à partir du bord inférieur de la pièce horizontale jusqu’au sol. (*ground clearance*)
 
-***largeur du dispositif de protection*** À l’égard d’un dispositif de protection arrière monté sur une remorque, la dimension horizontale maximale du dispositif de protection arrière qui est perpendiculaire au plan vertical longitudinal passant par l’axe longitudinal de la remorque. (*guard width*) 
+***largeur du dispositif de protection*** À l’égard d’un dispositif de protection arrière monté sur une remorque, la dimension horizontale maximale du dispositif de protection arrière qui est perpendiculaire au plan vertical longitudinal passant par l’axe longitudinal de la remorque. (*guard width*)
 
-***marchandises dangereuses*** S’entend au sens de l’article 2 de la [Loi de 1992 sur le transport des marchandises dangereuses](/fr/Lois/Lois%20du%20Canada/1992/ch.%2034.md). (*dangerous goods*) 
+***marchandises dangereuses*** S’entend au sens de l’article 2 de la [Loi de 1992 sur le transport des marchandises dangereuses](/fr/Lois/Lois%20du%20Canada/1992/ch.%2034.md). (*dangerous goods*)
 
-***pièce horizontale*** La pièce horizontale de charpente du dispositif de protection arrière. (*horizontal member*) 
+***pièce horizontale*** La pièce horizontale de charpente du dispositif de protection arrière. (*horizontal member*)
 
-***remorque à châssis surbaissé*** Remorque dont le châssis se prolonge derrière le point le plus à l’arrière des pneus arrière et qui possède une surface arrière inférieure conforme aux exigences de configuration visées aux paragraphes (6) à (8). (*lowchassis trailer*) 
+***remorque à châssis surbaissé*** Remorque dont le châssis se prolonge derrière le point le plus à l’arrière des pneus arrière et qui possède une surface arrière inférieure conforme aux exigences de configuration visées aux paragraphes (6) à (8). (*lowchassis trailer*)
 
-***remorque à roues arrières reculées*** Remorque dont l’essieu le plus à l’arrière est fixé en permanence et est situé de façon que la surface la plus à l’arrière des pneus arrière qui sont de la taille recommandée par le fabricant de la remorque, pour cet essieu, se trouve à au plus 305 mm de l’avant du plan vertical transversal tangent à l’extrémité arrière de la remorque. (*wheels back trailer*) 
+***remorque à roues arrières reculées*** Remorque dont l’essieu le plus à l’arrière est fixé en permanence et est situé de façon que la surface la plus à l’arrière des pneus arrière qui sont de la taille recommandée par le fabricant de la remorque, pour cet essieu, se trouve à au plus 305 mm de l’avant du plan vertical transversal tangent à l’extrémité arrière de la remorque. (*wheels back trailer*)
 
-***remorque-citerne*** Remorque qui est conçue exclusivement pour transporter des marchandises dangereuses et qui est conforme aux exigences sur la protection arrière de la norme nationale du Canada CAN/CSA-B620-98 intitulée Citernes routières et citernes amovibles pour le transport des marchandises dangereuses, (mai 1999), y compris les appendices A et B, modifiée en juillet 1999, en mars 2000, en septembre 2000, en octobre 2001, en novembre 2001 et en octobre 2002 et publiée par la CSA. (*tanker trailer*) 
+***remorque-citerne*** Remorque qui est conçue exclusivement pour transporter des marchandises dangereuses et qui est conforme aux exigences sur la protection arrière de la norme nationale du Canada CAN/CSA-B620-98 intitulée Citernes routières et citernes amovibles pour le transport des marchandises dangereuses, (mai 1999), y compris les appendices A et B, modifiée en juillet 1999, en mars 2000, en septembre 2000, en octobre 2001, en novembre 2001 et en octobre 2002 et publiée par la CSA. (*tanker trailer*)
 
-***remorque pour bois à pâte*** Remorque conçue exclusivement pour le transport de billes de bois coupées ou de bois à pâte et qui est construite avec un châssis-squelette n’ayant aucun dispositif permettant de fixer une plate-forme, une carrosserie ou un conteneur. (*pulpwood trailer*) 
+***remorque pour bois à pâte*** Remorque conçue exclusivement pour le transport de billes de bois coupées ou de bois à pâte et qui est construite avec un châssis-squelette n’ayant aucun dispositif permettant de fixer une plate-forme, une carrosserie ou un conteneur. (*pulpwood trailer*)
 
 ### Champ d’application
 
@@ -7229,18 +7159,17 @@ ne doit pas dépasser 1 000, « a » étant l’accélération axiale exprim�
 	- **b)** la pression dans la partie haute pression du circuit d’alimentation en carburant, corrigée selon la température, ne tombe à moins de 95 pour cent de la pression initiale du circuit au cours de la demi-heure qui suit l’immobilisation complète du véhicule;
 	- **c)** le réservoir de carburant demeure fixé au véhicule à au moins un point de fixation.
 
-- **(3)** Au lieu d’être conforme aux paragraphes (1) et (2), un véhicule, autre qu’un autobus scolaire, qui est muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GPL pour sa propulsion peut être conforme aux normes suivantes :
-	- **a)** la version de la norme nationale du Canada CAN/CGA-12.2, intitulée Composants du réseau d’alimentation en propane des véhicules routiers, qui, malgré toute disposition contraire y figurant, est en vigueur 24 mois avant la date de la dernière opération de fabrication indiquée sur l’étiquette informative du fabricant qui a installé le circuit d’alimentation ou la date de fabrication du véhicule complet indiquée sur l’étiquette de conformité, ou une version plus récente de cette norme;
-	- **b)** l’article 4, Installation des réservoirs et des systèmes d’alimentation en propane sur les véhicules routiers, de la version de la norme nationale du Canada CAN/CGA-B149.5, intitulée Code d’installation des réservoirs et des systèmes d’alimentation en propane sur les véhicules routiers, qui est en vigueur 24 mois avant la date de la dernière opération de fabrication indiquée sur l’étiquette informative du fabricant qui a installé le circuit d’alimentation ou la date de fabrication du véhicule complet indiquée sur l’étiquette de conformité, ou une version plus récente de cette norme, à l’exclusion des exigences suivantes :
-		- **(i)** toute exigence relative à l’obtention d’une approbation auprès d’une autorité compétente ou d’un organisme d’inspection dans une province ou un territoire,
-		- **(ii)** toute exigence visant l’inspection ou une nouvelle homologation d’un circuit d’alimentation en carburant ou d’un contenant de carburant après la fin de l’assemblage principal du véhicule.
+- **(3)** Au lieu d’être conforme aux paragraphes (1) et (2), un véhicule, autre qu’un autobus scolaire, qui est muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GPL pour sa propulsion peut être conforme aux exigences relatives à l’approbation des robinets, des composants et des accessoires, et aux exigences relatives à l’installation des réservoirs et des systèmes d’alimentation en propane sur les véhicules routiers, qui sont prévues dans la version de la norme CSA B149.5, intitulée Code d’installation des réservoirs et des systèmes d’alimentation en propane sur les véhicules routiers (CSA B149.5), qui entre en vigueur 48 mois avant la date de la dernière opération de fabrication indiquée sur l’étiquette informative du fabricant qui a installé le circuit d’alimentation ou la date de fabrication du véhicule complet indiquée sur l’étiquette de conformité, ou dans une version plus récente de cette norme, à l’exclusion des exigences suivantes :
+	- **a)** toute exigence relative à l’obtention d’une approbation auprès d’une autorité responsable de la mise en application de CSA B149.5 ou d’un service d’inspection d’une province ou d’un territoire;
+	- **b)** toute exigence relative à l’inspection ou une nouvelle qualification d’un circuit d’alimentation en carburant ou d’un réservoir de carburant après l’assemblage principal du véhicule;
+	- **c)** les exigences relatives à l’entretien et au remisage des véhicules et des véhicules mis en montre à l’intérieur qui sont prévues dans CSA B149.5.
 
 - **(3.1)** Tout véhicule à trois roues qui est muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GPL pour sa propulsion doit être conforme aux normes visées au paragraphe (3).
 
-- **(4)** Le fabricant d’un véhicule muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GPL pour sa propulsion doit remettre au ministre, sur demande, les renseignements concernant la version des normes visées au paragraphe (3) auxquelles le véhicule est conforme.
+- **(4)** Le fabricant d’un véhicule muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GPL pour sa propulsion doit indiquer au ministre, sur demande, la version de la norme visée au paragraphe (3) à laquelle le véhicule est conforme.
 
 - **(5)** [Abrogé, DORS/2004-89, art. 2]
-> DORS/82-754, art. 3; DORS/97-421, art. 17; DORS/2001-152, art. 2; DORS/2002-55, art. 18; DORS/2003-272, art. 29; DORS/2004-89, art. 2; DORS/2008-104, art. 20; DORS/2014-307, art. 25..
+> DORS/82-754, art. 3; DORS/97-421, art. 17; DORS/2001-152, art. 2; DORS/2002-55, art. 18; DORS/2003-272, art. 29; DORS/2004-89, art. 2; DORS/2008-104, art. 20; DORS/2014-307, art. 25; DORS/2016-318, art. 12..
 
 
 
@@ -7271,23 +7200,23 @@ ne doit pas dépasser 1 000, « a » étant l’accélération axiale exprim�
 895 (T/V<sub>CA</sub>)
 ```
 où :
-- **T** représente la température ambiante du gaz d’essai, en degrés Kelvin;
+- **T** représente la température ambiante du gaz d’essai, en kelvins,
 - **V** <sub>CA</sub>représente le volume, en litres, de la partie haute pression du circuit d’alimentation en carburant.
 
-- **(3)** Au lieu d’être conforme au paragraphe (1), un véhicule, autre qu’un autobus scolaire, qui est muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GNC pour sa propulsion peut être conforme à l’article 4 de la version de la norme CSA B109, intitulée Code d’installation au gaz naturel pour véhicules, de l’Association canadienne de normalisation, qui est en vigueur 24 mois avant la date de la dernière opération de fabrication indiquée sur l’étiquette informative du fabricant qui a installé le circuit d’alimentation ou la date de fabrication du véhicule complet indiquée sur l’étiquette de conformité, ou à une version plus récente de cette norme, à l’exclusion des exigences suivantes :
-	- **a)** toute exigence relative à l’obtention d’une approbation auprès d’une autorité compétente ou de l’organisme d’inspection de chaudières et d’appareils sous pression dans une province ou un territoire, ou au fait d’agir sous la surveillance de ceux-ci;
-	- **b)** toute exigence visant l’inspection, l’entretien ou la réparation après la fin de l’assemblage principal du véhicule.
+- **(3)** Au lieu d’être conforme au paragraphe (1), un véhicule, autre qu’un autobus scolaire, qui est muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GNC pour sa propulsion peut être conforme aux exigences relatives au système qui sont prévues dans la version de la norme CSA B109, intitulée Code d’installation au gaz naturel pour véhicules (CSA B109), qui entre en vigueur 48 mois avant la date de la dernière opération de fabrication indiquée sur l’étiquette informative du fabricant qui a installé le circuit d’alimentation ou la date de fabrication du véhicule complet indiquée sur l’étiquette de conformité, ou dans une version plus récente de cette norme, à l’exclusion des exigences suivantes :
+	- **a)** toute exigence relative à l’obtention d’une approbation auprès d’une autorité responsable de la mise en application de CSA B109 ou d’un service d’inspection d’une province ou d’un territoire;
+	- **b)** toute exigence relative à une nouvelle inspection ou à une nouvelle qualification d’un circuit d’alimentation en carburant ou d’un réservoir de carburant après l’assemblage principal du véhicule.
 
 - **(3.1)** Tout véhicule à trois roues qui est muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GNC pour sa propulsion doit être conforme à la norme visée au paragraphe (3).
 
 - **(4)** Seules les bouteilles à GNC marquées conformément aux exigences de marquage figurant dans l’une des normes suivantes pour indiquer qu’elles sont conformes à cette norme peuvent être installées dans un véhicule muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GNC pour sa propulsion :
-	- **a)** la version de la norme CSA B51, partie 2, intitulée *High-Pressure Cylinders for the Onboard Storage of Natural Gas as a Fuel for Automotive Vehicles*, de l’Association canadienne de normalisation, qui est en vigueur 24 mois avant la date de la dernière opération de fabrication indiquée sur l’étiquette informative du fabricant qui a installé le circuit d’alimentation ou la date de fabrication du véhicule complet indiquée sur l’étiquette de conformité, ou une version plus récente de cette norme;
-	- **b)** la version de la norme nationale américaine ANSI/AGA — NGV2, intitulée *Basic Requirements for Compressed Natural Gas Vehicle (NGV) Fuel Containers*, qui est en vigueur 24 mois avant la date de la dernière opération de fabrication indiquée sur l’étiquette informative du fabricant qui a installé le circuit d’alimentation ou la date de fabrication du véhicule complet indiquée sur l’étiquette de conformité, ou une version plus récente de cette norme.
+	- **a)** la version de la norme CSA B51, partie 2, intitulée Bouteilles à haute pression pour le stockage à bord des véhicules automobiles du gaz naturel et de l’hydrogène utilisés comme carburants, qui entre en vigueur 48 mois avant la date de la dernière opération de fabrication indiquée sur l’étiquette informative du fabricant qui a installé le circuit d’alimentation ou la date de fabrication du véhicule complet indiquée sur l’étiquette de conformité, ou dans une version plus récente de cette norme;
+	- **b)** la version de l’*American National Standard* ANSI NGV 2, intitulée *Compressed Natural Gas Vehicle Fuel Containers*, qui entre en vigueur 48 mois avant la date de la dernière opération de fabrication indiquée sur l’étiquette informative du fabricant qui a installé le circuit d’alimentation ou la date de fabrication du véhicule complet indiquée sur l’étiquette de conformité, ou dans une version plus récente de cette norme.
 
-- **(5)** Le fabricant d’un véhicule muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GNC pour sa propulsion doit remettre au ministre, sur demande, les renseignements concernant la version des normes visées aux paragraphes (3) et (4) auxquelles le véhicule est conforme.
+- **(5)** Le fabricant d’un véhicule muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie du GNC pour sa propulsion doit indiquer au ministre, sur demande, la version des normes visées aux paragraphes (3) et (4) auxquelles le véhicule est conforme.
 
 - **(6)** [Abrogé, DORS/2004-89, art. 3]
-> DORS/82-754, art. 3; DORS/95-77, art. 1; DORS/2001-152, art. 2; DORS/2002-55, art. 19; DORS/2003-272, art. 30; DORS/2004-89, art. 3; DORS/2005-342, art. 5; DORS/2008-104, art. 21; DORS/2013-220, art. 4; DORS/2014-307, art. 26..
+> DORS/82-754, art. 3; DORS/95-77, art. 1; DORS/2001-152, art. 2; DORS/2002-55, art. 19; DORS/2003-272, art. 30; DORS/2004-89, art. 3; DORS/2005-342, art. 5; DORS/2008-104, art. 21; DORS/2013-220, art. 4; DORS/2014-307, art. 26; DORS/2016-318, art. 13..
 
 
 
@@ -7608,11 +7537,11 @@ où :
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***bourrelet de protection*** Bande de protection s’étendant horizontalement le long des parois d’une remorque et destinée à offrir une protection contre le frottement. (*rub rail*) 
+***bourrelet de protection*** Bande de protection s’étendant horizontalement le long des parois d’une remorque et destinée à offrir une protection contre le frottement. (*rub rail*)
 
-***cloison*** Structure fixe ou amovible placée en travers de la remorque en vue de limiter le déplacement des chargements pendant le transport. (*bulkhead*) 
+***cloison*** Structure fixe ou amovible placée en travers de la remorque en vue de limiter le déplacement des chargements pendant le transport. (*bulkhead*)
 
-***dispositif d’ancrage des chargements*** Point de fixation ou de raccord sur une remorque, autre que la cloison ou le bourrelet de protection, auquel est fixé un dispositif d’arrimage. (*cargo anchoring device*) 
+***dispositif d’ancrage des chargements*** Point de fixation ou de raccord sur une remorque, autre que la cloison ou le bourrelet de protection, auquel est fixé un dispositif d’arrimage. (*cargo anchoring device*)
 
 - **(2)** Le présent article s’applique aux remorques, conçues pour transporter des chargements, qui ont un PNBV égal ou supérieur à 10 000 kg, sont constituées d’un châssis porteur et d’une plate-forme de chargement et n’ont ni toit ni côtés permanents, telles que les remorques plateaux, les remorques lourdes, les remorques de manutention, les remorques porte-engins surbaissées et les remorques avec plancher surbaissé.
 
@@ -7650,69 +7579,55 @@ où :
 
 ### **ANNEXE V.1** 
 **(article 5)**
-> [DORS/97-141, art. 4; DORS/97-421, art. 15.].
+## Émission de bruit (Norme 1106)
 
+### Définitions
 
-### Émission de bruit (norme 1106)
-
-
-#### Définitions
-
-**1** Les définitions qui suivent s’appliquent à la présente annexe et aux documents auxquels elle renvoie.
-
-***dBA*** Les niveaux sonores mesurés en décibels dans la gamme de pondération A qui sont obtenus au moyen d’un sonomètre ou de l’appareillage d’acquisition de données sur les pressions sonores visé à l’annexe A de la Méthode d’essai 1106 — Essais relatifs à l’émission de bruit, dans sa version de août 2005, lequel appareillage utilise les données indiquées au tableau 1 de cette annexe. (*dBA*)
-
-***décibel*** ou ***dB*** Mesure qui correspond à 20 fois le logarithme décimal du rapport entre la pression sonore et la pression de référence de 20 µPa. (*decibel** ou **dB*)
-
-***niveau sonore*** Moyenne quadratique des valeurs, mesurées en dBA, qui sont enregistrées durant les essais effectués en application du présent article. (*sound level*)
-
-***régime maximal nominal***, ***rated engine speed*** ou ***maximum rated engine speed*** Vitesse de rotation du moteur, exprimée en révolutions par minute (RPM), à laquelle la puissance maximale est atteinte. (*rated engine speed** ou **maximum rated engine speed*)
-> DORS/2005-342, art. 6..
+**1** Le terme ***régime maximal nominal*** dans la Méthode d’essai 1106 — Essais relatifs à l’émission de bruit (août 2005) s’entend de la vitesse de rotation du moteur, exprimée en révolutions par minute (RPM), à laquelle la puissance maximale est atteinte.
 
 
 
+### Niveau sonore extérieur
 
-#### Niveau sonore extérieur
-
-**2** Les véhicules, sauf les motocyclettes et les véhicules visés à l’article 4, doivent être construits de façon à satisfaire à l’une des exigences suivantes :
-- **a)** lorsqu’ils sont soumis aux essais prévus à l’annexe 3 du règlement n<sup>o</sup> 51 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des automobiles ayant au moins quatre roues, en ce qui concerne le bruit, dans sa version du 11 mars 1996, à l’exclusion des exigences du paragraphe 3.2, ils sont conformes à l’article 6 de ce règlement;
-- **b)** lorsqu’ils sont soumis :
-	- **(i)** aux essais prévus à l’article 3 de la Méthode d’essai 1106 — Essais relatifs à l’émission de bruit (août 2005), le niveau sonore extérieur est d’au plus 83 dBA après soustraction d’une valeur de 2 dBA du niveau sonore moyen le plus élevé enregistré au cours des essais, dans le cas d’un autobus d’un PNBV supérieur à 4 536 kg,
-	- **(ii)** aux essais prévus à la pratique recommandée J986 de la SAE, intitulée *Sound Level for Passenger Cars and Light Trucks* (août 1994), ou à la norme J1470 de la SAE, intitulée *Measurement of Noise Emitted by Accelerating Highway Vehicles* (mars 1992), le niveau sonore extérieur est d’au plus 83 dBA après soustraction d’une valeur de 2 dBA du niveau sonore moyen le plus élevé enregistré au cours des essais, dans le cas d’un autobus, d’un véhicule de tourisme à usages multiples, d’un camion ou d’un véhicule incomplet sur lequel une cabine est installée qui ont un PNBV de plus de 2 722 kg mais d’au plus 4 536 kg,
-	- **(iii)** aux essais prévus à la pratique recommandée J986 de la SAE, intitulée *Sound Level for Passenger Cars and Light Trucks* (août 1994), ou à la norme J1470 de la SAE, intitulée *Measurement of Noise Emitted by Accelerating Highway Vehicles* (mars 1992), le niveau sonore extérieur est d’au plus 80 dBA après soustraction d’une valeur de 2 dBA du niveau sonore moyen le plus élevé enregistré au cours des essais, dans le cas d’une voiture de tourisme sans égard à son PNBV ou de tout autre véhicule d’un PNBV de 2 722 kg ou moins.
-> DORS/2005-342, art. 6; DORS/2009-318, art. 15..
-
-
-
-**3** Les motocyclettes doivent être construites de façon à satisfaire à l’une des exigences suivantes :
-- **a)** lorsqu’elles sont soumises aux essais prévus à l’annexe 3 du règlement n<sup>o</sup> 41 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des motocyclettes en ce qui concerne le bruit, daté du 14 mai 1980 et modifié le 14 septembre 1984, à l’exclusion des exigences du paragraphe 3.2, le niveau sonore extérieur :
-	- **(i)** dans le cas d’une motocyclette avec une cylindrée d’au plus 80 cm<sup>3</sup>, n’est pas supérieur à 77 dBA,
-	- **(ii)** dans le cas d’une motocyclette avec une cylindrée de plus de 80 cm<sup>3</sup> mais d’au plus 175 cm<sup>3</sup>, n’est pas supérieur à 80 dBA,
-	- **(iii)** dans le cas d’une motocyclette avec une cylindrée de plus de 175 cm<sup>3</sup>, n’est pas supérieur à 82 dBA;
-- **b)** lorsqu’elles sont soumises :
-	- **(i)** aux essais prévus à l’appendice I-2, sous-parties D et E, partie 205, chapitre I, titre 40 du *Code of Federal Regulations* des États-Unis, tel qu’il a été modifié par le vol. 45, n<sup>o</sup> 252, du *Federal Register* des États-Unis, publié le 31 décembre 1980, pages 86727 et 86728, le niveau sonore extérieur n’est pas supérieur à 70 dBA, dans le cas d’une motocyclette avec une cylindrée d’au plus 50 cm<sup>3</sup> et une vitesse maximale de 48 km/h sur une surface asphaltée plane,
-	- **(ii)** aux essais prévus à l’appendice I-1, sous-parties D et E, partie 205, chapitre I, titre 40 du *Code of Federal Regulations* des États-Unis, tel qu’il a été modifié par le vol. 45, n<sup>o</sup> 252, du *Federal Register* des États-Unis, publié le 31 décembre 1980, pages 86726 et 86727, le niveau sonore extérieur n’est pas supérieur à 80 dBA, dans les autres cas.
-> DORS/2009-318, art. 16(F)..
+**2** Sous réserve de l’article 5, les véhicules, sauf les motocyclettes et les véhicules visés à l’article 4, doivent être construits de façon à satisfaire à l’une des exigences suivantes :
+- **a)** lorsqu’ils sont soumis :
+	- **(i)** aux essais prévus à l’article 3 de la Méthode d’essai 1106 — Essais relatifs à l’émission de bruit (août 2005), le niveau sonore est d’au plus 83 dBA après soustraction d’une valeur de 2 dBA du niveau sonore retenu du véhicule calculé en conformité avec l’alinéa 3.3.3c) de cette méthode d’essai, dans le cas d’un autobus d’un PNBV supérieur à 4 536 kg,
+	- **(ii)** aux essais prévus dans la norme J1470 de la SAE, intitulée *Measurement of Noise Emitted by Accelerating Highway Vehicles* (juin 1998), le niveau sonore est d’au plus 83 dBA après soustraction d’une valeur de 2 dBA de la valeur finale retenue visée à l’article 6.3 de cette norme, dans le cas d’un autobus, d’un véhicule de tourisme à usages multiples, d’un camion ou d’un châssis-cabine qui ont un PNBV de plus de 2 722 kg mais d’au plus 4 536 kg,
+	- **(iii)** aux essais prévus dans la norme J1470 de la SAE, intitulée *Measurement of Noise Emitted by Accelerating Highway Vehicles* (juin 1998), le niveau sonore est d’au plus 80 dBA après soustraction d’une valeur de 2 dBA de la valeur finale retenue visée à l’article 6.3 de cette norme, dans le cas d’une voiture de tourisme sans égard à son PNBV ou de tout autre véhicule d’un PNBV d’au plus 2 722 kg,
+	- **(iv)** aux essais prévus dans la norme ISO 362-1:2015 de l’Organisation internationale de normalisation, intitulée Mesurage du bruit émis par les véhicules routiers en accélération — Méthode d’expertise — Partie 1: Catégories M et N, le niveau sonore est d’au plus 80 dBA après soustraction d’une valeur de 2 dBA du résultat final L<sub>urban</sub> calculé en conformité avec l’article 8.4 de cette norme, dans le cas d’un autobus, d’un véhicule de tourisme à usages multiples, d’un camion ou d’un châssis-cabine qui ont un PNBV de plus de 2 722 kg mais d’au plus 4 536 kg,
+	- **(v)** aux essais prévus dans la norme ISO 362-1:2015 de l’Organisation internationale de normalisation, intitulée Mesurage du bruit émis par les véhicules routiers en accélération — Méthode d’expertise — Partie 1 : Catégories M et N, le niveau sonore est d’au plus 78 dBA après soustraction d’une valeur de 2 dBA du résultat final L<sub>urban</sub> calculé en conformité avec l’article 8.4 de cette norme, dans le cas d’une voiture de tourisme sans égard à son PNBV ou de tout autre véhicule d’un PNBV d’au plus 2 722 kg;
+- **b)** jusqu’au 1<sup>er</sup> septembre 2019, lorsqu’ils sont soumis aux essais prévus à la pratique recommandée J986 de la SAE, intitulée *Sound Level for Passenger Cars and Light Trucks* (août 1994), le niveau sonore n’est pas supérieur aux niveaux suivants :
+	- **(i)** 83 dBA après soustraction d’une valeur de 2 dBA du niveau sonore retenu visé à l’article 4.6 de cette pratique recommandée, dans le cas d’un autobus, d’un véhicule de tourisme à usages multiples, d’un camion ou d’un châssis-cabine qui ont un PNBV de plus de 2 722 kg mais d’au plus 4 536 kg,
+	- **(ii)** 80 dBA après soustraction d’une valeur de 2 dBA du niveau sonore retenu visé à l’article 4.6 de cette pratique recommandée, dans le cas d’une voiture de tourisme sans égard à son PNBV ou de tout autre véhicule d’un PNBV d’au plus 2 722 kg.
 
 
+**3** 
 
-**4** Tout véhicule de tourisme à usages multiples, camion ou véhicule incomplet sur lequel une cabine est installée, dont le PNBV est supérieur à 4 536 kg, doit être construit de façon à être conforme à l’une des exigences suivantes :
-- **a)** lorsqu’il est soumis aux essais prévus à l’annexe 3 du règlement n<sup>o</sup> 51 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des automobiles ayant au moins quatre roues, en ce qui concerne le bruit, dans sa version du 11 mars 1996, à l’exclusion des exigences du paragraphe 3.2, le niveau sonore extérieur :
-	- **(i)** n’est pas supérieur à 81 dBA, dans le cas d’un véhicule dont le moteur produit moins de 75 kW,
-	- **(ii)** n’est pas supérieur à 83 dBA, dans le cas d’un véhicule dont le moteur produit au moins 75 kW mais moins de 150 kW,
-	- **(iii)** n’est pas supérieur à 84 dBA, dans le cas d’un véhicule dont le moteur produit 150 kW ou plus;
-- **b)** lorsqu’il est soumis à l’essai d’émission de bruit à basse vitesse prévu à l’article 205.54-1 de la sous-partie B, partie 205, chapitre I, titre 40 du *Code of Federal Regulations* des États-Unis, dans sa version du 5 décembre 1977, le niveau sonore extérieur n’est pas supérieur à 80 dBA.
-> DORS/2002-55, art. 20; DORS/2009-318, art. 17..
+- **(1)** Les motocyclettes doivent être construites de façon à satisfaire à l’une des exigences suivantes :
+	- **a)** lorsqu’elles sont soumises aux essais prévus à l’annexe 3 du règlement n<sup>o</sup> 41 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des motocycles en ce qui concerne le bruit, dans sa version en vigueur le 25 juin 2008, avec toute modification subséquente à la série d’amendements 03, à l’exclusion de toute exigence relative à la mise à l’essai de motocyclettes à l’arrêt qui figure à cette annexe, le niveau sonore visé au paragraphe 1.5.4 de cette annexe n’est pas supérieur aux niveaux précisés à l’annexe 6 de ce règlement;
+	- **b)** lorsqu’elles sont soumises aux essais prévus à l’annexe 3 et à l’annexe 7 du règlement n<sup>o</sup> 41 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des motocycles en ce qui concerne le bruit, dans sa version en vigueur le 13 avril 2012, avec toute modification subséquente à la série d’amendements 04, à l’exclusion de toute exigence relative à la mise à l’essai de motocyclettes à l’arrêt qui figure à l’annexe 3, le niveau de pression acoustique visé au paragraphe 1.4.6 de l’annexe 3 n’est pas supérieur aux niveaux précisés à l’annexe 6 de ce règlement;
+	- **c)** lorsqu’elles sont soumises :
+		- **(i)** aux essais prévus à l’appendice I-2 des sous-parties D et E, partie 205, section de chapitre G, chapitre I, titre 40 du Code of Federal Regulations des États-Unis, tel qu’il a été modifié par le vol. 45, n<sup>o</sup> 252, du *Federal Register* des États-Unis, publié le 31 décembre 1980, le niveau de bruit retenu visé à l’article (d)(3) de cet appendice n’est pas supérieur à 70 dBA, dans le cas d’une motocyclette avec une cylindrée d’au plus 50 cm<sup>3</sup> et une vitesse maximale de 48 km/h sur une surface asphaltée plane,
+		- **(ii)** aux essais prévus à l’appendice I-1 des sous-parties D et E, partie 205, section de chapitre G, chapitre I, titre 40 du Code of Federal Regulations des États-Unis, tel qu’il a été modifié par le vol. 45, n<sup>o</sup> 252, du *Federal Register* des États-Unis, publié le 31 décembre 1980, le niveau de bruit retenu visé à l’article (d)(3) de cet appendice n’est pas supérieur à 80 dBA, dans les autres cas.
 
-
-
-
-#### Niveau sonore intérieur
-
-**5** Les camions et autobus d’un PNBV supérieur à 4 536 kg doivent être construits de façon que, lorsqu’ils sont soumis aux essais prévus à l’article 4 de la Méthode d’essai 1106 — Essais relatifs à l’émission de bruit (août 2005), le niveau sonore intérieur à la place assise du conducteur soit d’au plus 90 dBA après soustraction d’une valeur de 2 dBA du niveau sonore moyen obtenu selon l’essai.
-> DORS/2005-342, art. 6; DORS/2009-318, art. 18.
+- **(2)** Pour l’application du présent article, les exigences du règlement de la CEE visé aux alinéas (1)a) et b) relatives au processus d’homologation ne s’appliquent pas.
 
 
+**4** Sous réserve de l’article 5, tout véhicule de tourisme à usages multiples, camion ou châssis-cabine dont le PNBV est supérieur à 4 536 kg doit être construit de façon à satisfaire à l’une des exigences suivantes :
+- **a)** lorsqu’il est soumis à l’essai d’émission de bruit à basse vitesse prévu à l’article 205.54-1 de la sous-partie B, partie 205, section de chapitre G, chapitre I, titre 40 du Code of Federal Regulations des États-Unis, dans sa version du 5 décembre 1977, le niveau sonore retenu n’est pas supérieur à 80 dBA lorsqu’il est calculé en conformité avec l’article (c)(3)(iii) de l’article 205.54-1;
+- **b)** lorsqu’il est soumis aux essais prévus dans la norme ISO 362-1:2015 de l’Organisation internationale de normalisation, intitulée Mesurage du bruit émis par les véhicules routiers en accélération — Méthode d’expertise — Partie 1 : Catégories M et N, le niveau sonore n’est pas supérieur à 81 dBA après soustraction d’une valeur de 2 dBA du résultat final L<sub>urban</sub> calculé en conformité avec l’article 8.4 de cette norme.
+
+
+**5** 
+
+- **(1)** Il est permis de construire tout véhicule visé aux articles 2 et 4 de façon à satisfaire aux exigences suivantes :
+	- **a)** lorsqu’il est soumis aux essais prévus à l’annexe 3 du règlement n<sup>o</sup> 51 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des automobiles ayant au moins quatre roues, en ce qui concerne le bruit, dans sa version en vigueur le 9 mars 2011, avec toute modification subséquente à la série d’amendements 02, à l’exclusion de toute exigence relative à la mise à l’essai des véhicules à l’arrêt qui figure à cette annexe, le niveau sonore visé au paragraphe 3.1.3 de cette annexe n’est pas supérieur aux niveaux précisés au paragraphe 6 de ce règlement;
+	- **b)** lorsqu’il est soumis aux essais prévus aux annexes 3 et 7 du règlement n<sup>o</sup> 51 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des véhicules à moteur ayant au moins quatre roues en ce qui concerne les émissions sonores, dans sa version en vigueur le 20 janvier 2016, avec toute modification subséquente à la série d’amendements 03, à l’exclusion de toute exigence relative à la mise à l’essai des véhicules à l’arrêt de l’annexe 3, le résultat final L<sub>urban</sub> visé au paragraphe 3.1.3 de l’annexe 3 n’est pas supérieur aux niveaux précisés au paragraphe 6 de ce règlement.
+
+- **(2)** Pour l’application du présent article, les exigences du règlement de la CEE visé au paragraphe (1) relatives au processus d’homologation ne s’appliquent pas.
+
+
+> DORS/97-141, art. 4; DORS/97-421, art. 15; DORS/2002-55, art. 20; DORS/2005-342, art. 6; DORS/2009-318, art. 15, 16(F), 17 et 18; DORS/2016-318, art. 14.
 
 
 
@@ -7721,72 +7636,45 @@ où :
 **(article 5)**
 > [DORS/95-147, art. 13].
 
-**1200** [Abrogé, DORS/96-360, art. 1]
+**1200** [Abrogé, DORS/96-360, art. 1]
 
 
 
-### Normes régissant les motoneiges
+### Motoneiges (Norme 1201)
 
 **1201** 
 
-- **(1)** Les motoneiges doivent être construites de manière qu’elles soient conformes aux exigences prévues dans les normes suivantes :
-	- **a)** les *Safety Standards for Snowmobile Product Certification*, SSCC/11, publiées par le *Snowmobile Safety and Certification Committee, Inc.*, et datées du 6 février 2003, sauf que les dispositions suivantes ne s’appliquent pas :
-		- **(i)** l’article 13, concernant le numéro d’identification du véhicule,
-		- **(ii)** l’article 14, concernant la marque de certification du système d’échappement,
-		- **(iii)** les figures 4, 6 et 7, concernant les exigences d’étiquetage,
-		- **(iv)** le paragraphe 12(c)(6), exigeant une étiquette indiquant qu’il est interdit d’utiliser les motoneiges pour enfants sur les sentiers publics;
-	- **b)** les *Detailed Standards and Testing Specification and Procedures*, supplément SSCC/11, publiées par le *Snowmobile Safety and Certification Committee, Inc.*, et datées du 6 février 2003, sauf que les dispositions suivantes ne s’appliquent pas :
-		- **(i)** l’article 3.1 du L-S-300A,
-		- **(ii)** le paragraphe 4.3.3 et l’article 5 du L-S-300A, concernant les exigences d’emballage,
-		- **(iii)** le paragraphe 6.2 du L-S-300A, concernant les renseignements sur la passation des commandes,
-		- **(iv)** l’article 6 du 62-GP-11P, concernant les exigences d’emballage,
-		- **(v)** l’article 8.2 du 62-GP-11P, concernant les données sur les commandes.
+- **(1)** Les motoneiges doivent être construites de manière à être conformes aux exigences prévues dans les *Detailed Standards and Testing Specifications and Procedures*, supplément SSCC/11, publiées par le *Snowmobile Safety and Certification Committee, Inc.* (le supplément), mars 2011, sauf que les dispositions suivantes ne s’appliquent pas :
+	- **a)** l’article intitulé « *Snowmobile Identification Numbering* »;
+	- **b)** l’article intitulé « *Snowmobile Exhaust System Identification* ».
 
-- **(1.1)** Lorsqu’une motoneige est soumise aux essais, le fabricant peut utiliser, au lieu de la version des essais approuvés qui sont prévus dans le supplément visé à l’alinéa (1)b), celle qui est en vigueur le 1<sup>er</sup> janvier de l’année civile où la motoneige est fabriquée.
+- **(2)** Lorsqu’une motoneige est soumise aux essais, le fabricant peut utiliser, au lieu des essais prévus dans la version du supplément, les essais prévus dans la version du supplément en vigueur le 1<sup>er</sup> janvier de l’année civile où la motoneige est fabriquée.
 
-- **(1.2)** Pour l’application du présent article, le terme « motoneige » utilisé dans les normes et le supplément visés au paragraphe (1) s’entend au sens du paragraphe 2(1) du présent règlement.
+- **(3)** Pour l’application du présent article, le terme « *snowmobile* » qui est employé dans le supplément s’entend au sens de ***motoneige*** au paragraphe 2(1) du présent règlement.
 
-- **(2)** Malgré la définition de *Designed or Designed to* prévue par l’article 4 de la norme visée au paragraphe (1) et pour l’application des documents visés à ce paragraphe, les termes *Designed* et *Designed to* s’entendent de ce qui est conçu et construit de façon à atteindre le niveau de performance prévu par ces documents, dans des conditions normales d’opération.
+- **(4)** Les termes « *designed* » et « *designed to* » qui sont employés dans le supplément s’entendent de ce qui est conçu et construit de façon à être conforme, dans des conditions normales d’opération, aux exigences de performance prévues dans le supplément.
 
-- **(3)** Le mot « should » qui est employé au paragraphe 10c.(4) de la norme visée au paragraphe (1) et le mot « will » qui est employé dans les documents visés à ce paragraphe sont interprétés comme exprimant une obligation.
+- **(5)** Le terme « *will* » qui est employé dans le supplément est interprété comme exprimant une obligation.
 
-- **(4)** Le renvoi au supplément visé au paragraphe (1) est interprété comme excluant les énoncés qui expriment une pratique recommandée ou une ligne directrice par l’emploi, notamment, du mot « should ».
+- **(6)** Les renseignements ci-après doivent être fournis dans les deux langues officielles :
+	- **a)** les renseignements qui doivent être inscrits sur une étiquette ou une plaque comme l’exige le supplément;
+	- **b)** les instructions qui sont fournies avec les motoneiges.
 
-- **(5)** La mention exigée aux termes du paragraphe 12c.(2) de la norme visée au paragraphe (1) et les renseignements mentionnés sur l’étiquette ou la plaque apposée sur les motoneiges en application du paragraphe 12c.(6) de cette norme ainsi que toutes instructions qui sont fournies avec les motoneiges doivent être dans les deux langues officielles.
-
-- **(6)** Les motoneiges doivent être munies de l’interrupteur pour arrêt d’urgence prévu par la norme visée au paragraphe (1) et de projecteurs qui demeurent allumés lorsque le moteur est en marche.
-> DORS/87-497, art. 3; DORS/87-660, art. 6; DORS/96-360, art. 2; DORS/97-532, art. 4; DORS/2000-182, art. 9; DORS/2003-359, art. 5..
+- **(7)** Les motoneiges doivent être munies de projecteurs qui demeurent allumés lorsque le moteur est en marche.
+> DORS/87-497, art. 3; DORS/87-660, art. 6; DORS/96-360, art. 2; DORS/97-532, art. 4; DORS/2000-182, art. 9; DORS/2003-359, art. 5; DORS/2016-318, art. 15.
 
 
 
-
-### Traîneau de motoneige (Norme 1202)
-
-**1202** 
-
-- **(1)** Tout traîneau de motoneige doit être muni d’une barre de remorque rigide qui, lorsqu’elle est accrochée à une motoneige, répond aux exigences suivantes :
-	- **a) ** elle est solidement attachée au traîneau pour empêcher les embardées;
-	- **b) ** elle peut pivoter de 90 degrés de chaque côté du plan vertical longitudinal passant par l’axe du traîneau;
-	- **c) ** elle peut laisser au traîneau un mouvement de tangage suffisant.
-
-- **(2)** Les traîneaux de motoneige doivent être munis de cataphotes suivants, placés à une hauteur d’au plus de 760 mm du sol, mesurée à partir du centre des cataphotes, le traîneau étant à sa masse à vide :
-	- **a) ** à l’arrière, les cataphotes visés dans la pratique recommandée J292 de la SAE, intitulée *Snowmobile and Snowmobile Cutter Lamps, Reflective Devices and Associated Equipment* (mai 1995);
-	- **b) ** au milieu de chaque côté du traîneau :
-		- **(i)** soit les cataphotes visés dans la pratique recommandée J292 de la SAE, intitulée *Snowmobile and Snowmobile Cutter Lamps, Reflective Devices and Associated Equipment* (mai 1995),
-		- **(ii)** soit des cataphotes qui couvrent une superficie minimale de 100 cm<sup>2</sup>, projetée en élévation latérale, et qui sont faits d’un matériau réfléchissant de catégorie 1 ou 3 selon la norme ONGC 62-GP-11M de l’Office des normes générales du Canada, intitulée Réflecteurs à microbilles de verre incorporées des adhésif (mai 1978), d’une couleur ou combinaison de couleurs prévues au tableau 1 de cette norme et d’une intensité réflectrice du niveau 1 selon le tableau 2 de cette norme.
-
-- **(3)** Les skis d’un traîneau de motoneige doivent pouvoir être fixés à une remorque pour motoneige au moyen d’une barre de fixation transversale attachée à la remorque et passant au-dessus des skis ou au travers de ceux-ci.
-> DORS/2003-359, art. 6.
+**1202** [Abrogé, DORS/2016-318, art. 15]
 
 
-
-**1203. à 1206** [Abrogés, DORS/87-660, art. 6]
-
-
-**1207. à 1209** [Abrogés, DORS/2003-359, art. 7]
+**1203 à 1206** [Abrogés, DORS/87-660, art. 6]
 
 
-**1210. et 1211** [Abrogés, DORS/87-660, art. 8]
+**1207 à 1209** [Abrogés, DORS/2003-359, art. 7]
+
+
+**1210 et 1211** [Abrogés, DORS/87-660, art. 8]
 
 
 
