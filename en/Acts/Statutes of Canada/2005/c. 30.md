@@ -873,7 +873,7 @@ Canada Emission Reduction Incentives Agency Act]
 
 
 
-**124** [Amendment]
+**124** [Repealed before coming into force, 2008, c. 20, s. 3]
 
 
 
@@ -886,7 +886,7 @@ Canada Emission Reduction Incentives Agency Act]
 
 <sup><a href='#B-9.854_e_s125'>[*]</a></sup>**125** This Part comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='B-9.854_e_s125'><sup>*</sup></a>: [Note: Part 18 not in force.]<br />
+<a name='B-9.854_e_s125'><sup>*</sup></a>: [Note: Section 124 repealed before coming into force, *see* 2008, c. 20, s. 3.]<br />
 
 
 
