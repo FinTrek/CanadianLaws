@@ -10,26 +10,35 @@ Enabling authorities:
 ----------
 
 
+[Repealed, SOR/2016-89, s. 1]
+
+
 
 ## Short Title
+> [Repealed, SOR/2016-89, s. 1]
 
 
-**1** These Rules may be cited as the Canada-United States Nuclear Liability Rules.
+
+**1** [Repealed, SOR/2016-89, s. 1]
 
 
 
 
 ## Liability in the United States
+> [Repealed, SOR/2016-89, s. 1]
 
 
-**2** Every operator is liable for injury or damage occasioned in the United States resulting from a nuclear incident that occurs in Canada.
+
+**2** [Repealed, SOR/2016-89, s. 1]
 
 
 
 
 ## Jurisdiction of Canadian Court
+> [Repealed, SOR/2016-89, s. 1]
 
 
-**3** Any court in Canada that, having regard to the parties, the nature of the action and the amount involved, has jurisdiction and that exercises jurisdiction in the place where the nuclear installation at or in relation to which a nuclear incident referred to in section 2 occurs, has the same jurisdiction to entertain any application or grant any relief or remedy arising out of or relating to injury or damage occasioned in the United States resulting from that nuclear incident as the court would have, under the [Nuclear Liability Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-28.md), in respect of that injury or damage if it had been occasioned in Canada.
+
+**3** [Repealed, SOR/2016-89, s. 1]
 
 
