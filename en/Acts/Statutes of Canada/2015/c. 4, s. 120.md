@@ -8,15 +8,15 @@
 Assented to on 26 February 2015
 
 ```
-[Enacted by section 120 of chapter 4 of the Statutes of Canada, 2015, not in force.]
+[Enacted by section 120 of chapter 4 of the Statutes of Canada, 2015, in force January 1, 2017, see SI/2016-23.]
 ```
 ----------
 
 
 
-[Enacted by section 120 of chapter 4 of the Statutes of Canada, 2015, section 1, the definitions ***approved insurer***, ***nuclear fuel***, ***nuclear incident***, ***nuclear installation*** — except for the words “other than in the definition ***Installation State*** and subparagraphs 9(1)(b.1)(i) and (b.2)(i) and 9(4)(b)(i) and (c)(i) of the English version” — ***nuclear material***, ***nuclear reactor***, ***operator***, ***radioactive products or waste*** and ***Tribunal*** in section 2, sections 3 to 8, paragraph 9(1)(a), subparagraphs 9(1)(b)(i) and (ii), paragraph 9(1)(c) — except when the combination is in relation to materials referred to in subparagraph 9(1)(b)(iii) or (iv) or paragraph 9(1)(b.1) or (b.2) — subsections 9(2) and (3), sections 10 to 18, 20 and 22 to 26, subsections 27(1) and (4), sections 28 to 33, subsections 34(1), (2) and (6), sections 35 to 40, subsections 41(1) and (2), sections 42 to 49 and 51 to 67, subsections 68(1) and (3), sections 69, 70 and 77, paragraphs 78(a), (b), (e) and (f) and sections 79 and 80 not in force.]
+[Enacted by section 120 of chapter 4 of the Statutes of Canada, 2015, section 1, the definitions ***approved insurer***, ***nuclear fuel***, ***nuclear incident***, ***nuclear installation*** — except for the words “other than in the definition ***Installation State*** and subparagraphs 9(1)(b.1)(i) and (b.2)(i) and 9(4)(b)(i) and (c)(i) of the English version” — ***nuclear material***, ***nuclear reactor***, ***operator***, ***radioactive products or waste*** and ***Tribunal*** in section 2, sections 3 to 8, paragraph 9(1)(a), subparagraphs 9(1)(b)(i) and (ii), paragraph 9(1)(c) — except when the combination is in relation to materials referred to in subparagraph 9(1)(b)(iii) or (iv) or paragraph 9(1)(b.1) or (b.2) — subsections 9(2) and (3), sections 10 to 18, 20 and 22 to 26, subsections 27(1) and (4), sections 28 to 33, subsections 34(1), (2) and (6), sections 35 to 40, subsections 41(1) and (2), sections 42 to 49 and 51 to 67, subsections 68(1) and (3), sections 69, 70 and 77, paragraphs 78(a), (b), (e) and (f) and sections 79 and 80 in force January 1, 2017, *see* SI/2016-23.]
 
-[The definitions ***Contracting State***, ***Convention***, ***Installation State***, the words “other than in the definition ***Installation State*** and subparagraphs 9(1)(b.1)(i) and (b.2)(i) and 9(4)(b)(i) and (c)(i) of the English version” in the definition ***nuclear installation*** and the definition ***public funds*** in section 2, subparagraphs 9(1)(b)(iii) and (iv), paragraphs 9(1)(b.1) to (c) — when the combination is in relation to materials referred to in subparagraph 9(1)(b)(iii) or (iv), paragraph 9(1)(b.1) or (b.2) — subsections 9(4) to (6), sections 19 and 21, subsections 27(2) and (3), 34(3) to (5) and 41(3), section 50, subsection 68(2), sections 71 to 76 and paragraphs 78(c) and (d) not in force.]
+[The definitions ***Contracting State***, ***Convention***, ***Installation State***, the words “other than in the definition ***Installation State*** and subparagraphs 9(1)(b.1)(i) and (b.2)(i) and 9(4)(b)(i) and (c)(i) of the English version” in the definition ***nuclear installation*** and the definition ***public funds*** in section 2, subparagraphs 9(1)(b)(iii) and (iv), paragraphs 9(1)(b.1) to (c) — when the combination is in relation to materials referred to in subparagraph 9(1)(b)(iii) or (iv), paragraph 9(1)(b.1) or (b.2) — subsections 9(4) to (6), sections 19 and 21, subsections 27(2) and (3), 34(3) to (5) and 41(3), section 50, subsection 68(2), sections 71 to 76 and paragraphs 78(c) and (d) in force January 1, 2017, *see* SI/2016-23.]
 
 
 
@@ -171,11 +171,11 @@ Assented to on 26 February 2015
 
 **9** 
 
-- **(1)** An operator — and no person other than an operator — is liable for damage that is caused within Canada or its exclusive economic zone by
+- **(1)** An operator — and no person other than an operator — is liable for damage that is caused within Canada or its exclusive economic zone by
 	- **(a)** ionizing radiation emitted from any source of radiation within, or released from, the operator’s nuclear installation;
 	- **(b)** ionizing radiation emitted from nuclear material being transported
 		- **(i)** from the operator’s nuclear installation until it is placed in another nuclear installation or until liability is assumed by the operator of that other nuclear installation, under the terms of a written contract,
-		- **(ii)** to the operator’s nuclear installation from outside Canada,
+		- **(ii)** [Repealed, 2015, c. 4, s. 121]
 		- **(iii)** from the operator’s nuclear installation to a person who is within the territory of a State that is not a Contracting State until it is unloaded from the means of transport by which it arrived in that State, or
 		- **(iv)** with the operator’s written consent, from a person who is within the territory of a State that is not a Contracting State to the operator’s installation, from the time that it is loaded on the means of transport by which it is to be carried from that State;
 	- **(b.1)** ionizing radiation emitted from nuclear material being transported from the operator’s nuclear installation
@@ -188,15 +188,13 @@ Assented to on 26 February 2015
 
 **Preventive measure — liability in Canada**
 
-- **(2)** An operatorand no person other than an operator — is liable for damage that is caused within Canada or its exclusive economic zone if the damage is caused by a preventive measure that is taken under subsection — 20(1) in relation to that operator’s nuclear installation or in relation to any transportation for which the operator is responsible.
+- **(2)** An operatorand no person other than an operator — is liable for damage that is caused within Canada or its exclusive economic zone if the damage is caused by a preventive measure that is taken under subsection — 20(1) in relation to that operator’s nuclear installation or in relation to any transportation for which the operator is responsible.
 
-**Liability — damage in reciprocating country**
+- **(3)** [Repealed, 2015, c. 4, s. 121]
 
-- **(3)** If provided for in regulations made under subsection 70(2) to implement an agreement between Canada and a reciprocating country, an operator — and no person other than an operator — is liable for damage that occurs in the reciprocating country or its exclusive economic zone and that results from the production, processing, transport, storage, use or disposition of the nuclear material for which the operator is responsible.
+**Additional liability — Contracting State other than Canada**
 
-**Additional liability — Contracting State other than Canada**
-
-- **(4)** An operator — and no person other than an operator — is liable for damage that is caused within a Contracting State other than Canada or within that State’s exclusive economic zone by
+- **(4)** An operator — and no person other than an operator — is liable for damage that is caused within a Contracting State other than Canada or within that State’s exclusive economic zone by
 	- **(a)** ionizing radiation emitted from any source of radiation within, or released from, the operator’s nuclear installation;
 	- **(b)** ionizing radiation emitted from nuclear material being transported from the operator’s nuclear installation
 		- **(i)** before liability is assumed, under the terms of a written contract, by a person who is within the territory of the Contracting State other than Canada and who is designated or recognized under the laws of that State as operating a nuclear installation as defined in Article 1.I(b) of the Annex to the Convention, or
@@ -208,15 +206,17 @@ Assented to on 26 February 2015
 
 **Preventive measure — liability in Contracting State other than Canada**
 
-- **(5)** An operator — and no person other than an operator — is liable for any damage that is caused within a Contracting State other than Canada or within that State’s exclusive economic zone if the damage is caused by a preventive measure that is taken under subsection 21(1) in relation to that operator’s nuclear installation or in relation to any transportation for which the operator is responsible.
+- **(5)** An operator — and no person other than an operator —  is liable for any damage that is caused within a Contracting State other than Canada or within that State’s exclusive economic zone if the damage is caused by a preventive measure that is taken under subsection 21(1) in relation to that operator’s nuclear installation or in relation to any transportation for which the operator is responsible.
 
 **Additional liability — transportation to or from non-contracting State**
 
-- **(6)** An operator — and no person other than an operator — is liable for damage that is caused within a Contracting State other than Canada or within that State’s exclusive economic zone by
+- **(6)** An operator — and no person other than an operator — is liable for damage that is caused within a Contracting State other than Canada or within that State’s exclusive economic zone by
 	- **(a)** ionizing radiation emitted from nuclear material being transported
 		- **(i)** from the operator’s nuclear installation to a person who is within the territory of a State that is not a Contracting State until it is unloaded from the means of transport by which it arrived in that State; or
 		- **(ii)** with the operator’s written consent, from a person who is within the territory of a State that is not a Contracting State to the operator’s nuclear installation, from the time it is loaded on the means of transport by which it is to be carried from that State; or
 	- **(b)** a combination of the radioactive properties and toxic, explosive or other hazardous properties of nuclear material referred to in paragraph (a).
+> 2015, c. 4, ss. 120 “9”, 121.
+
 
 
 
@@ -307,13 +307,13 @@ Assented to on 26 February 2015
 
 
 
-**Preventive measures — Canada**
+**Preventive measures — Canada**
 
 **20** 
 
-- **(1)** If an authority — acting under a nuclear emergency scheme established under federal or provincial legislation — has recommended that measures be taken in a specified area to prevent damage, the following costs and losses of persons who live in, carry on business in, work in or are present in the area are compensable:
+- **(1)** If an authority — acting under a nuclear emergency scheme established under federal or provincial legislation — has recommended that measures be taken in a specified area to prevent damage, the following costs and losses of persons who live in, carry on business in, work in or are present in the area are compensable:
 	- **(a)** the reasonable costs of the measures; and
-	- **(b)** the costs and economic loss — including lost wages — arising from the loss of use of property.
+	- **(b)** the costs and economic loss — including lost wages — arising from the loss of use of property.
 
 **Non-application**
 
@@ -326,9 +326,9 @@ Assented to on 26 February 2015
 
 **21** 
 
-- **(1)** If an authority — acting under an emergency scheme established under the laws of a Contracting State other than Canada — has recommended that, because of grave and imminent danger of damage, measures be taken in a specified area to prevent such damage, the following costs and losses of persons who live in, carry on business in, work in or are present in the area are compensable:
+- **(1)** If an authority — acting under an emergency scheme established under the laws of a Contracting State other than Canada — has recommended that, because of grave and imminent danger of damage, measures be taken in a specified area to prevent such damage, the following costs and losses of persons who live in, carry on business in, work in or are present in the area are compensable:
 	- **(a)** the reasonable costs of the measures; and
-	- **(b)** the costs and economic loss — including lost wages — arising from the loss of use of property.
+	- **(b)** the costs and economic loss — including lost wages — arising from the loss of use of property.
 
 **Non-application**
 
@@ -407,7 +407,7 @@ Assented to on 26 February 2015
 
 - **(1)** An operator, other than a department listed in Schedule I to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), must maintain, for each of the operator’s nuclear installations, financial security to compensate persons who suffer damage that is caused by a nuclear incident in an amount that is equal to the amount referred to in subsection 24(1) or, if the operator is subject to a regulation made under paragraph 24(2)(b), the amount set out in that regulation.
 
-**Foreign operator’s obligation — transporting nuclear material within Canada**
+**Foreign operator’s obligation — transporting nuclear material within Canada**
 
 - **(2)** The Minister may require an operator, as defined in Article 1.I(d) of the Annex to the Convention but who is not an operator as defined in section 2 of this Act, and who is transporting nuclear material within Canada to maintain financial security in an amount prescribed by regulation but not more than the amount referred to in subsection 24(1) to compensate persons who suffer damage that is caused by a nuclear incident.
 
@@ -463,13 +463,13 @@ Assented to on 26 February 2015
 
 
 
-**Indemnity agreements — general rule**
+**Indemnity agreements — general rule**
 
 **31** 
 
 - **(1)** The Minister may enter into an indemnity agreement with an operator under which Her Majesty in right of Canada covers any risks that, in the Minister’s opinion, would not be assumed by an approved insurer.
 
-**Indemnity agreements — operator subject to regulation made under paragraph 24(2)(b)**
+**Indemnity agreements — operator subject to regulation made under paragraph 24(2)(b)**
 
 - **(2)** If the nuclear damage is caused by an operator who is subject to a regulation made under paragraph 24(2)(b) and that damage exceeds that operator’s liability under that regulation, the indemnity agreement may also provide that Her Majesty in right of Canada must cover that operator for the difference between the operator’s liability under the regulation and the liability of any other operator under subsection 24(1). Despite the indemnity agreement, the operator remains liable for the damage.
 
@@ -941,7 +941,7 @@ Assented to on 26 February 2015
 **67** 
 
 - **(1)** When a declaration is made under subsection 36(1), the operator who is liable for the damage that is caused by a nuclear incident must pay to Her Majesty in right of Canada an amount that is equal to the lesser of
-	- **(a)** the amount set out in subsection 24(1) — or, if the operator is subject to a regulation made under paragraph 24(2)(b), the amount set out in that regulation — less the total amounts that were paid by the operator to compensate persons for damage arising from the nuclear incident before the declaration under subsection 36(1) is made, and
+	- **(a)** the amount set out in subsection 24(1) —  or, if the operator is subject to a regulation made under paragraph 24(2)(b), the amount set out in that regulation — less the total amounts that were paid by the operator to compensate persons for damage arising from the nuclear incident before the declaration under subsection 36(1) is made, and
 	- **(b)** the total of all amounts that are paid by the Minister under section 64.
 
 **Failure to pay**
@@ -979,7 +979,7 @@ Assented to on 26 February 2015
 
 - **(2)** Despite subsection (1), if the Minister makes a call for public funds under subsection 72(1), the Tribunal may award an additional amount of funds that are equal to the amount of public funds that are paid by Contracting States.
 
-**Further funds — Parliament**
+**Further funds — Parliament**
 
 - **(3)** If further funds are appropriated by Parliament to provide compensation for damage arising from the nuclear incident, the Tribunal may award those further funds for the damage.
 
@@ -1006,16 +1006,7 @@ Assented to on 26 February 2015
 ## Reciprocating Agreements
 
 
-
-**Reciprocating countries**
-
-**70** 
-
-- **(1)** If in the Governor in Council’s opinion satisfactory arrangements exist in any country for compensation in that country and in Canada for damage resulting from the production, processing, transport, storage, use or disposition of nuclear material, he or she may declare that country to be a reciprocating country for the purposes of this Act.
-
-**Regulations**
-
-- **(2)** The Governor in Council may, with respect to a reciprocating country, make any regulations that he or she considers necessary to implement any agreement between Canada and the reciprocating country relating to damage resulting from the production, processing, transport, storage, use or disposition of nuclear material.
+**70** [Repealed, 2015, c. 4, s. 122]
 
 
 
@@ -1031,7 +1022,7 @@ Assented to on 26 February 2015
 - **(1)** When a call for public funds is made under subsection 72(1), those funds are to be used to compensate the damage that is suffered, if it
 	- **(a)** occurs in the territory of a Contracting State;
 	- **(b)** occurs in or above the exclusive economic zone of a Contracting State or on the continental shelf of a Contracting State, and relates to the exploitation or exploration of the natural resources of that exclusive economic zone or continental shelf; or
-	- **(c)** occurs in or above the maritime areas beyond the territorial sea of a Contracting State — on board or by a ship flying the flag of a Contracting State, on board or by an aircraft registered in a Contracting State, on or by an artificial island, on or by an installation or a structure under a Contracting State’s jurisdiction or by a national of a Contracting State.
+	- **(c)** occurs in or above the maritime areas beyond the territorial sea of a Contracting State — on board or by a ship flying the flag of a Contracting State, on board or by an aircraft registered in a Contracting State, on or by an artificial island, on or by an installation or a structure under a Contracting State’s jurisdiction or by a national of a Contracting State.
 
 **Exception**
 
@@ -1097,7 +1088,7 @@ Assented to on 26 February 2015
 
 
 
-**Recognition of settlements — Contracting State other than Canada**
+**Recognition of settlements — Contracting State other than Canada**
 
 **75** The Minister must recognize a settlement by a Contracting State other than Canada that is made in accordance with the laws of that Contracting State and that is, in respect of the payment out of public funds, for compensation for the damage to which the Convention applies.
 
@@ -1150,7 +1141,7 @@ Assented to on 26 February 2015
 
 
 
-**Regulations — general**
+**Regulations — general**
 
 **78** The Governor in Council may make regulations
 - **(a)** fixing another percentage for the purpose of subsection 28(3);
@@ -1163,7 +1154,7 @@ Assented to on 26 February 2015
 
 
 
-**Regulations — Tribunal**
+**Regulations — Tribunal**
 
 **79** The Governor in Council may make regulations respecting the Tribunal, including regulations
 - **(a)** prescribing the terms and conditions of appointment of its members;
