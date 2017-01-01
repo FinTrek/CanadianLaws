@@ -10,26 +10,35 @@ Autorités habilitantes :
 ----------
 
 
+[Abrogées, DORS/2016-89, art. 1]
+
+
 
 ## Titre abrégé
+> [Abrogé, DORS/2016-89, art. 1]
 
 
-**1** Les présentes règles peuvent être citées sous le titre : Règles sur la responsabilité nucléaire Canada-États-Unis.
+
+**1** [Abrogé, DORS/2016-89, art. 1]
 
 
 
 
 ## Responsabilité aux états-unis
+> [Abrogé, DORS/2016-89, art. 1]
 
 
-**2** Chaque exploitant est responsable des blessures ou dommages occasionnés aux États-Unis à la suite d’un accident nucléaire qui survient au Canada.
+
+**2** [Abrogé, DORS/2016-89, art. 1]
 
 
 
 
 ## Compétence des tribunaux canadiens
+> [Abrogé, DORS/2016-89, art. 1]
 
 
-**3** N’importe quel tribunal au Canada qui, eu égard aux parties, à la nature de l’action et au montant de la demande, est compétent et siège au lieu où est située l’installation nucléaire dans laquelle ou relativement à laquelle survient l’accident nucléaire visé à l’article 2, a la même compétence, pour accueillir une demande ou accorder quelque réparation ou dédommagement procédant de blessures ou dommages occasionnés aux États-Unis à la suite de cet accident nucléaire, que celle qu’il aurait, en vertu de la [Loi sur la responsabilité nucléaire](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-28.md), si les dommages avaient été occasionnés au Canada.
+
+**3** [Abrogé, DORS/2016-89, art. 1]
 
 
