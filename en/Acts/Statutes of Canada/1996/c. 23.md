@@ -268,19 +268,19 @@ by
 
 - **(1)** In this Part,
 
-***disentitled*** means not entitled under section 13, 18, 21, 31, 32, 33, 36, 37, 49 or 50 or under the regulations;
+***disentitled*** means not entitled under section 13, 18, 21, 31, 32, 33, 36, 37, 49 or 50 or under the regulations; (*inadmissible*)
 
-***disqualified*** means disqualified under section 27 or 30;
+***disqualified*** means disqualified under section 27 or 30; (*exclu du bénéfice des prestations*)
 
-***initial claim for benefits*** means a claim made for the purpose of establishing a claimant’s benefit period;
+***initial claim for benefits*** means a claim made for the purpose of establishing a claimant’s benefit period; (*demande initiale de prestations*)
 
-***major attachment claimant*** means a claimant who qualifies to receive benefits and has 600 or more hours of insurable employment in their qualifying period;
+***major attachment claimant*** means a claimant who qualifies to receive benefits and has 600 or more hours of insurable employment in their qualifying period; (*prestataire de la première catégorie*)
 
-***minor attachment claimant*** means a claimant who qualifies to receive benefits and has fewer than 600 hours of insurable employment in their qualifying period;
+***minor attachment claimant*** means a claimant who qualifies to receive benefits and has fewer than 600 hours of insurable employment in their qualifying period; (*prestataire de la deuxième catégorie*)
 
-***qualifying period*** means the period described in section 8;
+***qualifying period*** means the period described in section 8; (*période de référence*)
 
-***waiting period*** means the two weeks of the benefit period described in section 13.
+***waiting period*** means the one week of the benefit period described in section 13. (*délai de carence*)
 
 **Rounding off percentages or fractions**
 
@@ -289,7 +289,7 @@ by
 **Hours of insurable employment**
 
 - **(3)** For the purposes of this Part, the number of hours of insurable employment that a claimant has in any period shall be established as provided under section 55, subject to any regulations made under paragraph 54(z.1) allocating the hours to the claimant’s qualifying period.
-> 1996, c. 23, s. 6; 2000, c. 14, s. 2.
+> 1996, c. 23, s. 6; 2000, c. 14, s. 2; 2016, c. 7, s. 208.
 
 
 
@@ -899,7 +899,9 @@ the benefit period is extended so that those benefits may be paid up to that max
 
 **Waiting period**
 
-**13** A claimant is not entitled to be paid benefits in a benefit period until, after the beginning of the benefit period, the claimant has served a two week waiting period that begins with a week of unemployment for which benefits would otherwise be payable.
+**13** A claimant is not entitled to be paid benefits in a benefit period until, after the beginning of the benefit period, the claimant has served a waiting period of one week of unemployment for which benefits would otherwise be payable.
+> 1996, c. 23, s. 13; 2016, c. 7, s. 213.
+
 
 
 
@@ -1136,7 +1138,7 @@ the benefit period is extended so that those benefits may be paid up to that max
 
 **Application of section 18**
 
-- **(4)** For the purposes of section 13, the provisions of section 18 do not apply to the two week period that immediately precedes the period described in subsection (2).
+- **(4)** For the purposes of section 13, the provisions of section 18 do not apply to the week that immediately precedes the period described in subsection (2).
 
 **Earnings deducted**
 
@@ -1149,6 +1151,8 @@ the benefit period is extended so that those benefits may be paid up to that max
 **Limitation**
 
 - **(7)** The extended period shall end no later than 52 weeks after the week of confinement.
+> 1996, c. 23, s. 22; 2016, c. 7, s. 214.
+
 
 
 
@@ -2393,13 +2397,7 @@ is to be considered to have worked or not worked a full working week;
 
 - **(1)** Subject to subsection (7) and section 66.32, the Commission shall set the premium rate for each year in order to generate just enough premium revenue to ensure that, at the end of the seven-year period that commences at the beginning of that year, the total of the amounts credited to the Employment Insurance Operating Account after December 31, 2008 is equal to the total of the amounts charged to that Account after that date.
 
-**Premium rate for 2015 and 2016**
-
-- **(1.1)** Despite subsection (1), the premium rate for the years 2015 and 2016 is 1.88%.
-
-**Application of sections 66.1 to 66.31**
-
-- **(1.2)** Sections 66.1 to 66.31 apply in the years 2014 and 2015 even though the premium rates for the years 2015 and 2016 are set under subsection (1.1).
+- **(1.1) and (1.2)** [Repealed, 2013, c. 40, s. 126]
 
 **Factors**
 
@@ -4495,31 +4493,31 @@ is admissible in evidence for all purposes for which the recorded document would
 
 - **(1)** The following definitions apply in this Part.
 
-***balance-due day*** of a self-employed person for a year means
+***balance-due day*** of a self-employed person for a year means
 - **(a)** if the person died after October in the year and before May in the immediately following year, the day that is 6 months after the day of death, and
-- **(b)** in any other case, April 30 in the immediately following year.
+- **(b)** in any other case, April 30 in the immediately following year. (*date d’exigibilité du solde*)
 
-***business*** includes a profession, calling, trade, manufacture or undertaking of any kind whatever, and includes an adventure or concern in the nature of trade but does not include an office or employment.
+***business*** includes a profession, calling, trade, manufacture or undertaking of any kind whatever, and includes an adventure or concern in the nature of trade but does not include an office or employment. (*entreprise*)
 
-***disentitled*** means not entitled under sections 49, 50, 152.03, 152.15 or 152.2 or under the regulations.
+***disentitled*** means not entitled under sections 49, 50, 152.03, 152.15 or 152.2 or under the regulations. (*inadmissible*)
 
 ***family member***, in relation to an individual, means
 - **(a)** a spouse or common-law partner of the individual;
 - **(b)** a child of the individual or a child of the individual’s spouse or common-law partner;
 - **(c)** a parent of the individual or a spouse or common-law partner of the parent; and
-- **(d)** any other person who is a member of a class of persons prescribed for the purposes of this definition.
+- **(d)** any other person who is a member of a class of persons prescribed for the purposes of this definition. (*membre de la famille*)
 
-***initial claim for benefits*** means a claim made for the purpose of establishing a self-employed person’s benefit period.
+***initial claim for benefits*** means a claim made for the purpose of establishing a self-employed person’s benefit period. (*demande initiale de prestations*)
 
-***qualifying period*** means the period described in section 152.08.
+***qualifying period*** means the period described in section 152.08. (*période de référence*)
 
-***self-employed person*** means an individual who
+***self-employed person*** means an individual who
 - **(a)** is or was engaged in a business; or
 - **(b)** is employed but does not have insurable employment by reason of paragraph 5(2)(b).
 
-However, individuals to whom regulations made under Part VIII apply, and individuals whose employment is included in insurable employment by a regulation made under paragraph 5(4)(c), are not included in this definition.
+However, individuals to whom regulations made under Part VIII apply, and individuals whose employment is included in insurable employment by a regulation made under paragraph 5(4)(c), are not included in this definition. (*travailleur indépendant*)
 
-***waiting period*** means the two weeks of the benefit period described in section 152.15.
+***waiting period*** means the one week of the benefit period described in section 152.15. (*délai de carence*)
 
 **Amount of self-employed earnings for a year**
 
@@ -4543,7 +4541,7 @@ However, individuals to whom regulations made under Part VIII apply, and individ
 **Rounding off percentages or fractions**
 
 - **(5)** A reference in this Part to an amount equal to a percentage or fraction of earnings or benefits in a period shall be rounded to the nearest multiple of one dollar or, if the amount is equidistant from two multiples of one dollar, to the higher multiple.
-> 2009, c. 33, s. 16.
+> 2009, c. 33, s. 16; 2016, c. 7, s. 219.
 
 
 
@@ -5158,8 +5156,8 @@ and
 
 **Waiting period**
 
-**152.15** A self-employed person is not entitled to be paid benefits in a benefit period until, after the beginning of the benefit period, the person has served a two week waiting period that begins with a week of unemployment for which benefits would otherwise be payable.
-> 2009, c. 33, s. 16.
+**152.15** A self-employed person is not entitled to be paid benefits in a benefit period until, after the beginning of the benefit period, the person has served a waiting period of one week of unemployment for which benefits would otherwise be payable.
+> 2009, c. 33, s. 16; 2016, c. 7, s. 221.
 
 
 
