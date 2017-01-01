@@ -694,15 +694,16 @@ shall make an information return in prescribed form in respect of such payment o
 		- **(v)** on an amount owing in respect of compensation for property expropriated,
 	- **(c)** a royalty payment in respect of the use of a work or invention or a right to take natural resources,
 	- **(d)** a payment referred to in subsection 16(1) of the Act that can reasonably be regarded as being in part a payment of interest or other payment of an income nature and in part a payment of a capital nature, where the payment is made by a corporation, association, organization or institution,
-	- **(e)** an amount paid from a person’s NISA Fund No. 2, or
-	- **(f)** an amount that is required by subsection 148.1(3) of the Act to be added in computing a person’s income for a taxation year
+	- **(e)** an amount paid from a person’s NISA Fund No. 2,
+	- **(f)** an amount that is required by subsection 148.1(3) of the Act to be added in computing a person’s income for a taxation year, or
+	- **(g)** the portion of the price for which a debt obligation was assigned or otherwise transferred that is deemed by subsection 20(14.2) of the Act to be interest that accrued on the debt obligation to which the transferee has become entitled to for a period commencing before the time of the transfer and ending at that particular time that is not payable until after that particular time if the payment is made by a person that is a ***financial company*** (whether acting as principal or as agent for the transferee) for the purposes of section 211
 shall make an information return in prescribed form in respect of the portion of such payment for which an information return has not previously been made under this section.
 
 - **(2)** Every person who receives as nominee or agent for a person resident in Canada a payment to which subsection (1) applies shall make an information return in prescribed form in respect of such payment.
 
 - **(3)** Where a person negotiates a bearer coupon, warrant or cheque representing interest or dividends referred to in subsection 234(1) of the Act for another person resident in Canada and the name of the beneficial owner of the interest or dividends is not disclosed on an ownership certificate completed pursuant to that subsection, the person negotiating the coupon, warrant or cheque, as the case may be, shall make an information return in prescribed form in respect of the payment received.
 
-- **(4)** A person or partnership that is indebted in a calendar year under a debt obligation in respect of which subsection 12(4) of the Act and paragraph (1)(b) apply with respect to a taxpayer shall make an information return in prescribed form in respect of the amount that would, if the year were a taxation year of the taxpayer, be included as interest in respect of the debt obligation in computing the taxpayer’s income for the year.
+- **(4)** A person or partnership that is indebted in a calendar year under a debt obligation in respect of which subsection 12(4) of the Act and paragraph (1)(b) apply with respect to a taxpayer shall make an information return in prescribed form in respect of the amount (other than an amount to which paragraph (1)(g) applies) that would, if the year were a taxation year of the taxpayer, be included as interest in respect of the debt obligation in computing the taxpayer’s income for the year.
 
 - **(4.1)** A person or partnership that is indebted in a calendar year under an indexed debt obligation in respect of which paragraph (1)(b) applies shall, for each taxpayer who holds an interest in the debt obligation at any time in the year, make an information return in prescribed form in respect of the amount that would, if the year were a taxation year of the taxpayer, be included as interest in respect of the debt obligation in computing the taxpayer’s income for the year.
 
@@ -714,7 +715,7 @@ that person or partnership shall make an information return in prescribed form i
 - **(5)** Every insurer, within the meaning assigned by paragraph 148(10)(a) of the Act, who is a party to a life insurance policy in respect of which an amount is to be included in computing a taxpayer’s income under subsection 12.2(1) or (5) of the Act shall make an information return in prescribed form in respect of that amount.
 
 - **(5.1)** Subsection (5) applies to an insurer in respect of an LIA policy in respect of a calendar year only if
-	- **(a)** the insurer is notified in writing  —  before the end of the calendar year and by, or on behalf, of the policyholder  —  that the policy is an LIA policy; or
+	- **(a)** the insurer is notified in writing — before the end of the calendar year and by, or on behalf, of the policyholder — that the policy is an LIA policy; or
 	- **(b)** it is reasonable to conclude that the insurer knew, or ought to have known, before the end of the calendar year, that the policy is an LIA policy.
 
 - **(6)** Every person who makes a payment to, or acts as a nominee or agent for, an individual resident in Canada in respect of the disposition or redemption of a debt obligation in bearer form shall make an information return in prescribed form in respect of the transaction indicating the proceeds of disposition or the redemption amount and such other information as may be required by the prescribed form.
@@ -723,7 +724,7 @@ that person or partnership shall make an information return in prescribed form i
 	- **(a)** a debt obligation that is redeemed for the amount for which the debt obligation was issued;
 	- **(b)** a debt obligation described in paragraph 7000(1)(b); and
 	- **(c)** a coupon, warrant or cheque referred to in subsection 207(1).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-939, s. 2; SOR/83-866, s. 2; SOR/83-867, s. 2; SOR/86-426, s. 1; SOR/86-1092, s. 1(F); SOR/88-165, s. 31(F); SOR/88-554, s. 1; SOR/91-123, s. 1; SOR/93-527, s. 1; SOR/94-686, ss. 1(F), 78(F), 79(F); SOR/96-283, s. 1; SOR/96-435, s. 1; SOR/2010-93, s. 1; 2013, c. 40, s. 96.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-939, s. 2; SOR/83-866, s. 2; SOR/83-867, s. 2; SOR/86-426, s. 1; SOR/86-1092, s. 1(F); SOR/88-165, s. 31(F); SOR/88-554, s. 1; SOR/91-123, s. 1; SOR/93-527, s. 1; SOR/94-686, ss. 1(F), 78(F), 79(F); SOR/96-283, s. 1; SOR/96-435, s. 1; SOR/2010-93, s. 1; 2013, c. 40, s. 96; 2016, c. 12, s. 74.
 
 
 
@@ -1569,13 +1570,13 @@ shall be filed on or before March 31, 1984.
 
 - **(1)** In this section,
 
-***publicly traded*** means, with respect to any security,
+***publicly traded*** means, with respect to any security,
 - **(a)** a security that is listed or posted for trading on a stock exchange, commodity exchange, futures exchange or any other exchange, or
-- **(b)** a security in respect of the sale and distribution of which a prospectus, registration statement or similar document has been filed with a public authority; (*négocié sur le marché*)
+- **(b)** a security in respect of the sale and distribution of which a prospectus, registration statement or similar document has been filed with a public authority; (*négocié sur le marché*)
 
-***sale*** includes the granting of an option and a short sale; (*vente*)
+***sale*** includes the granting of an option and a short sale; (*vente*)
 
-***security*** means
+***security*** means
 - **(a)** a publicly traded share of the capital stock of a corporation,
 - **(b)** a publicly traded debt obligation,
 - **(c)** a debt obligation of or guaranteed by
@@ -1584,14 +1585,15 @@ shall be filed on or before March 31, 1984.
 	- **(iii)** a municipality in Canada,
 	- **(iv)** a municipal or public body performing a function of government in Canada, or
 	- **(v)** the government of a foreign country or of a political subdivision of a foreign country or a local authority of such a government,
+- **(c.1)** a debt obligation that is, at any time, described in paragraph 7000(1)(d),
 - **(d)** a publicly traded interest in a trust,
 - **(e)** a publicly traded interest in a partnership,
 - **(f)** an option or contract in respect of any property described in any of paragraphs (a) to (e), or
-- **(g)** a publicly traded option or contract in respect of any property including any commodity, financial futures, foreign currency or precious metal or in respect of any index relating to any property; (*titre*)
+- **(g)** a publicly traded option or contract in respect of any property including any commodity, financial futures, foreign currency or precious metal or in respect of any index relating to any property; (*titre*)
 
-***trader or dealer in securities*** means
+***trader or dealer in securities*** means
 - **(a)** a person who is registered or licensed under the laws of a province to trade in securities, or
-- **(b)** a person who in the ordinary course of business makes sales of securities as agent on behalf of others. (*négociant ou courtier en valeurs*)
+- **(b)** a person who in the ordinary course of business makes sales of securities as agent on behalf of others. (*négociant ou courtier en valeurs*)
 
 - **(2)** Every trader or dealer in securities who, in a calendar year, purchases a security as principal or sells a security as agent for any vendor shall make an information return for the year in prescribed form in respect of the purchase or sale.
 
@@ -1616,7 +1618,7 @@ shall be filed on or before March 31, 1984.
 		- **(ii)** the redemption satisfies all of the issuer’s obligations in respect of the debt obligation,
 		- **(iii)** each person with an interest in the debt obligation is entitled in respect thereof to a proportion of all payments of principal equal to the proportion to which the person is entitled of all payments other than principal, and
 		- **(iv)** an information return is required under another section of this Part to be made as a result of the redemption in respect of each person with an interest in the debt obligation.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/89-519, s. 2; SOR/94-686, ss. 54(F), 78(F), 79(F); SOR/2003-5, s. 9.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/89-519, s. 2; SOR/94-686, ss. 54(F), 78(F), 79(F); SOR/2003-5, s. 9; 2016, c. 12, s. 75.
 
 
 
@@ -2807,10 +2809,10 @@ where
 
 **600** For the purposes of paragraphs 220(3.2)(a) and (b) of the Act, the following are prescribed provisions:
 - **(a)** section 21 of the Act;
-- **(b)** subsections 13(4), (7.4) and (29), 14(6), 20(24), 44(1) and (6), 45(2) and (3), 50(1), 53(2.1), 56.4(13), 70(6.2), (9.01), (9.11), (9.21) and (9.31), 72(2), 73(1), 80.1(1), 82(3), 83(2), 104(14), 107(2.001), 143(2), 146.01(7), 146.02(7), 164(6) and (6.1), 184(3), 251.2(6) and 256(9) of the Act;
+- **(b)** subsections 13(4), (7.4) and (29), 20(24), 44(1) and (6), 45(2) and (3), 50(1), 53(2.1), 56.4(13), 70(6.2), (9.01), (9.11), (9.21) and (9.31), 72(2), 73(1), 80.1(1), 82(3), 83(2), 104(14), 107(2.001), 143(2), 146.01(7), 146.02(7), 164(6) and (6.1), 184(3), 251.2(6) and 256(9) of the Act;
 - **(c)** paragraphs 12(2.2)(b), 66.7(7)(c), (d) and (e) and (8)(c), (d) and (e), 80.01(4)(c), 86.1(2)(f) and 128.1(4)(d), (6)(a) and (c), (7)(d) and (g) and (8)(c) of the Act;
 - **(d)** subsections 1103(1), (2) and (2d) and 5907(2.1) of these Regulations.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-265, s. 1; SOR/93-530, s. 1; SOR/95-367, s. 1; SOR/96-128, s. 1; SOR/97-471, s. 1; SOR/99-17, s. 7; SOR/2001-216, s. 2; SOR/2002-144, s. 1; SOR/2005-123, s. 3; SOR/2005-185, s. 3; SOR/2006-200, s. 1; SOR/2010-96, s. 1; 2013, c. 34, s. 382, c. 40, s. 98.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-265, s. 1; SOR/93-530, s. 1; SOR/95-367, s. 1; SOR/96-128, s. 1; SOR/97-471, s. 1; SOR/99-17, s. 7; SOR/2001-216, s. 2; SOR/2002-144, s. 1; SOR/2005-123, s. 3; SOR/2005-185, s. 3; SOR/2006-200, s. 1; SOR/2010-96, s. 1; 2013, c. 34, s. 382, c. 40, s. 98; 2016, c. 12, s. 76.
 
 
 
@@ -3012,13 +3014,13 @@ exceeds
 		- **(iii)** a Canadian resource property, or
 		- **(iv)** land the cost of which is or was deductible in computing the corporation’s income,
 	- **(b)** an amount equal to the aggregate of the cost amount to the corporation, immediately after the end of the year, of each depreciable property in Canada owned by it for the purpose of gaining or producing income from a business carried on by it in Canada,
-	- **(c)** an amount equal to 4/3 of the cumulative eligible capital of the corporation immediately after the end of the year in respect of each business carried on by it in Canada,
+	- **(c)** [Repealed, 2016, c. 12, s. 77]
 	- **(d)** where the corporation is not a principal-business corporation, within the meaning assigned by subsection 66(15) of the Act, an amount equal to the total of the corporation’s
 		- **(i)** Canadian exploration and development expenses incurred by the corporation before the end of the year, except to the extent that those expenses were deducted in computing the corporation’s income for the year or for a previous taxation year, and
 		- **(ii)** cumulative Canadian exploration expense, within the meaning assigned by subsection 66.1(6) of the Act, at the end of the year minus any deduction under subsection 66.1(3) of the Act in computing the corporation’s income for the year,
 	- **(d.1)** an amount equal to the corporation’s cumulative Canadian development expense, within the meaning assigned by subsection 66.2(5) of the Act, at the end of the year minus any deduction under subsection 66.2(2) of the Act in computing the corporation’s income for the year,
 	- **(d.2)** an amount equal to the corporation’s cumulative Canadian oil and gas property expense, within the meaning assigned by subsection 66.4(5) of the Act, at the end of the year minus any deduction under subsection 66.4(2) of the Act in computing the corporation’s income for the year,
-	- **(e)** an amount equal to the aggregate of the cost amount to the corporation at the end of the year of each debt owing to it, or any other right of the corporation to receive an amount, that was outstanding as a result of the disposition by it of property in respect of which an amount would be included, by virtue of paragraph (a), (b), (c) or (h), in its qualified investment in property in Canada at the end of the year if the property had not been disposed of by it before the end of that year,
+	- **(e)** an amount equal to the aggregate of the cost amount to the corporation at the end of the year of each debt owing to it, or any other right of the corporation to receive an amount, that was outstanding as a result of the disposition by it of property in respect of which an amount would be included, by virtue of paragraph (a), (b) or (h), in its qualified investment in property in Canada at the end of the year if the property had not been disposed of by it before the end of that year,
 	- **(f)** an amount equal to the aggregate of the cost amount to the corporation at the end of the year of each property, other than a Canadian resource property, that was described in the corporation’s inventory in respect of a business carried on by it in Canada,
 	- **(g)** an amount equal to the aggregate of the cost amount to the corporation at the end of the year of each debt (other than a debt referred to in paragraph (e) or a debt the amount of which was deducted under paragraph 20(1)(p) of the Act in computing the corporation’s income for the year) owing to it
 		- **(i)** in respect of any transaction by virtue of which an amount has been included in computing its income for the year or for a previous year from a business carried on by it in Canada, or
@@ -3030,8 +3032,8 @@ exceeds the aggregate of
 	- **(k)** an amount equal to the aggregate of all amounts each of which is an amount deducted by the corporation in the year under subparagraph 40(1)(a)(iii) or 44(1)(e)(iii) of the Act in respect of a debt referred to in paragraph (e);
 	- **(l)** an amount equal to the aggregate of each amount owing by the corporation at the end of the year on account of
 		- **(i)** the purchase price of property that is referred to in paragraph (a), (b) or (f) or that would be so referred to but for the fact that it has been disposed of before the end of the year,
-		- **(ii)** Canadian exploration and development expenses, Canadian exploration expense, Canadian development expense or Canadian oil and gas property expense,
-		- **(iii)** an eligible capital expenditure made or incurred by the corporation before the end of the year in respect of a business carried on by it in Canada, or
+		- **(ii)** Canadian exploration and development expenses, Canadian exploration expense, Canadian development expense or Canadian oil and gas property expense, or
+		- **(iii)** [Repealed, 2016, c. 12, s. 77]
 		- **(iv)** any other outlay or expense made or incurred by the corporation to the extent that it was deducted in computing its income for the year or for a previous taxation year from a business carried on by it in Canada;
 	- **(m)** an amount equal to the aggregate of all amounts each of which is an amount equal to that proportion of the amount owing (other than an amount owing on account of an outlay or expense referred to in paragraph (l)) by the corporation at the end of the year on account of an obligation outstanding at any time in the year in respect of which interest is stipulated to be payable by it that
 		- **(i)** the interest paid or payable on the obligation by the corporation in respect of the year that is deductible, or would be deductible but for subsection 18(2), (3.1) or (4) or section 21 of the Act, in computing its income for the year from a business carried on by it in Canada,
@@ -3134,7 +3136,7 @@ where
 				- **(II)** the amount claimed by the bank under clause 20.2(3)(b)(ii)(A) of the Act
 exceeds
 	- **(b)** the total of all amounts each of which is an amount that would be determined under paragraph (2)(j), (k), (n) or (o) if that provision applied to the bank for the year, except to the extent that the amount reflects a liability of the bank that has been included in the element L in the formulae in subsection 20.2(3) of the Act for the bank’s last calculation period for the year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-656, s. 2; SOR/84-948, s. 4; SOR/90-258, s. 1; SOR/91-78, s. 2; SOR/93-395, s. 1; SOR/94-686, ss. 8(F), 47, 58 to 61(F), 62, 63 to 65(F), 78(F), 79(F), 81(F); SOR/2009-302, s. 7; SOR/2010-93, s. 11.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-656, s. 2; SOR/84-948, s. 4; SOR/90-258, s. 1; SOR/91-78, s. 2; SOR/93-395, s. 1; SOR/94-686, ss. 8(F), 47, 58 to 61(F), 62, 63 to 65(F), 78(F), 79(F), 81(F); SOR/2009-302, s. 7; SOR/2010-93, s. 11; 2016, c. 12, s. 77.
 
 
 
@@ -3273,6 +3275,7 @@ in respect of which the election is made;
 		- **(x.1)** of Class 10.1, 30 per cent,
 		- **(xi)** of Class 11, 35 per cent,
 		- **(xii)** of Class 12, 100 per cent,
+		- **(xii.1)** of Class 14.1, 5 per cent,
 		- **(xiii)** of Class 16, 40 per cent,
 		- **(xiv)** of Class 17, 8 per cent,
 		- **(xv)** of Class 18, 60 per cent,
@@ -3310,8 +3313,8 @@ of the undepreciated capital cost to the taxpayer as of the end of the taxation 
 
 	- **(a.1)** where a separate class is prescribed by subsection 1101(5b.1) for a property of a taxpayer that is a building and at least 90 per cent of the floor space of the building is used at the end of the taxation year for the manufacturing or processing in Canada of goods for sale or lease, such amount as the taxpayer may claim not exceeding six per cent of the undepreciated capital cost to the taxpayer of the property of that class as of the end of the taxation year (before making any deduction under this subsection for the taxation year);
 	- **(a.2)** where a separate class is prescribed by subsection 1101(5b.1) for a property of a taxpayer that is a building, at least 90 per cent of the floor space of the building is used at the end of the taxation year for a non-residential use in Canada and an additional allowance is not allowed for the year under paragraph (a.1) in respect of the property, such amount as the taxpayer may claim not exceeding two per cent of the undepreciated capital cost to the taxpayer of the property of that class as of the end of the taxation year (before making any deduction under this subsection for the taxation year);
-	- **(a.3)** any additional amount that the taxpayer may claim in respect of property that is used as part of an eligible liquefaction facility for which a separate class is prescribed by subsection 1101(5b.2), not exceeding the lesser of
-		- **(i)** the income for the taxation year from the taxpayer’s eligible liquefaction activities in respect of the eligible liquefaction facility (taking into consideration any deduction under paragraph (yb) and before making any deduction under this paragraph), and
+	- **(a.3)** any additional amount that the taxpayer may claim in respect of property that is used as part of an eligible liquefaction facility for which a separate class is prescribed by subsection 1101(5b.2), not exceeding the lesser of
+		- **(i)** the income for the taxation year from the taxpayer’s eligible liquefaction activities in respect of the eligible liquefaction facility (taking into consideration any deduction under paragraph (yb) and before making any deduction under this paragraph), and
 		- **(ii)** 6% of the undepreciated capital cost to the taxpayer of property of that separate class as of the end of the taxation year (before making any deduction under this subsection for the taxation year);
 
 #### Class 13
@@ -3326,6 +3329,22 @@ and, for the purposes of this paragraph and Schedule III, the capital cost to a 
 	- **(c)** such amount as he may claim in respect of property of Class 14 in Schedule II not exceeding the lesser of
 		- **(i)** the aggregate of the amounts for the year obtained by apportioning the capital cost to him of each property over the life of the property remaining at the time the cost was incurred, and
 		- **(ii)** the undepreciated capital cost to him as of the end of the taxation year (before making any deduction under this subsection for the taxation year) of property of the class;
+
+#### Additional Allowances — Class 14.1
+
+	- **(c.1)** for a taxation year that ends before 2027, such additional amount as the taxpayer may claim in respect of property of Class 14.1 of Schedule II not exceeding
+		- **(i)** 2% of the particular amount by which the undepreciated capital cost of the class at the beginning of 2017 exceeds the total of all amounts each of which is
+			- **(A)** the amount of a deduction taken under paragraph 20(1)(a) of the Act in respect of the class for a preceding taxation year, and
+			- **(B)** equal to three times the amount of the capital cost of a property deemed by subsection 13(39) of the Act to be acquired by the taxpayer in the year or a preceding year, and
+		- **(ii)** the amount determined by the formula
+```
+A − B
+```
+where
+- **A** is the lesser of
+		- **(A)** $ 500, and
+		- **(B)** the undepreciated capital cost of the class to the taxpayer as of the end of the year (before making any deduction under paragraph 20(1)(a) of the Act in respect of the class for the year), and
+- **B** is the total of all amounts deductible for the year under paragraph 20(1)(a) of the Act in respect of the class because of subparagraph (i) or (a)(xii.1);
 
 #### In Lieu of Double Depreciation
 
@@ -3478,7 +3497,7 @@ and, for the purposes of subparagraph (iv), a property shall be deemed to have b
 
 #### Additional Allowances — Class 41.1
 
-	- **(y.1)** such additional amount as the taxpayer may claim in respect of property acquired for the purpose of gaining or producing income from a mine and for which a separate class is prescribed by subsection 1101(4e), not exceeding the amount determined by the formula
+	- **(y.1)** such additional amount as the taxpayer may claim in respect of property acquired for the purpose of gaining or producing income from a mine and for which a separate class is prescribed by subsection 1101(4e), not exceeding the amount determined by the formula
 ```
 A × B
 ```
@@ -3486,8 +3505,8 @@ where
 - **A** is the lesser of
 	- **(i)** the taxpayer’s income for the taxation year from the mine, before making any deduction under this paragraph, paragraph (x), (y), (y.2), (ya), (ya.1) or (ya.2), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
 	- **(ii)** the undepreciated capital cost to the taxpayer of property of that class as of the end of the taxation year computed
-	- **(A)** without reference to subsection (2),
-	- **(B)** after making any deduction under paragraph (a) for the taxation year, and
+	- **(A)** without reference to subsection (2),
+	- **(B)** after making any deduction under paragraph (a) for the taxation year, and
 	- **(C)** before making any deduction under this paragraph; and
 - **B** is the percentage that is the total of
 	- **(i)** that proportion of 100% that the number of days in the taxation year that are before 2011 is of the number of days in the taxation year,
@@ -3497,7 +3516,7 @@ where
 	- **(v)** that proportion of 30% that the number of days in the taxation year that are in 2014 is of the number of days in the taxation year, and
 	- **(vi)** 0%, if one or more days in the year are after 2014;
 
-#### Additional Allowances  —  Class 41.2  —  Single Mine Properties
+#### Additional Allowances — Class 41.2 — Single Mine Properties
 
 	- **(y.2)** such additional amount as the taxpayer may claim in respect of property acquired for the purpose of gaining or producing income from a mine and for which a separate class is prescribed by subsection 1101(4g), not exceeding the amount determined by the formula
 ```
@@ -3523,7 +3542,7 @@ where
 
 #### Additional Allowances — Class 41.1 — Multiple Mine Properties
 
-	- **(ya.1)** such additional amount as the taxpayer may claim in respect of property acquired for the purpose of gaining or producing income from more than one mine and for which a separate class is prescribed by subsection 1101(4f), not exceeding the amount determined by the formula
+	- **(ya.1)** such additional amount as the taxpayer may claim in respect of property acquired for the purpose of gaining or producing income from more than one mine and for which a separate class is prescribed by subsection 1101(4f), not exceeding the amount determined by the formula
 ```
 A × B
 ```
@@ -3531,8 +3550,8 @@ where
 - **A** is the lesser of
 	- **(i)** the taxpayer’s income for the taxation year from the mines, before making any deduction under this paragraph, paragraph (ya) or (ya.2), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
 	- **(ii)** the undepreciated capital cost to the taxpayer of property of that class as of the end of the taxation year computed
-	- **(A)** without reference to subsection (2),
-	- **(B)** after making any deduction under paragraph (a) for the taxation year, and
+	- **(A)** without reference to subsection (2),
+	- **(B)** after making any deduction under paragraph (a) for the taxation year, and
 	- **(C)** before making any deduction under this paragraph; and
 - **B** is the percentage that is the total of
 	- **(i)** that proportion of 100% that the number of days in the taxation year that are before 2011 is of the number of days in the taxation year,
@@ -3542,7 +3561,7 @@ where
 	- **(v)** that proportion of 30% that the number of days in the taxation year that are in 2014 is of the number of days in the taxation year, and
 	- **(vi)** 0%, if one or more days in the year are after 2014;
 
-#### Additional allowances Class 41.2  —  Multiple Mine Properties
+#### Additional allowances Class 41.2 — Multiple Mine Properties
 
 	- **(ya.2)** such additional amount as the taxpayer may claim in respect of a property acquired for the purpose of gaining or producing income from more than one mine and for which a separate class is prescribed by subsection 1101(4h), not exceeding the amount determined by the formula
 ```
@@ -3565,8 +3584,8 @@ where
 
 #### Additional Allowance — Class 47
 
-	- **(yb)** any additional amount as the taxpayer may claim in respect of property used as part of an eligible liquefaction facility for which a separate class is prescribed by subsection 1101(4i), not exceeding the lesser of
-		- **(i)** the income for the taxation year from the taxpayer’s eligible liquefaction activities in respect of the eligible liquefaction facility (taking into consideration any deduction under paragraph (a.3) and before making any deduction under this paragraph), and
+	- **(yb)** any additional amount as the taxpayer may claim in respect of property used as part of an eligible liquefaction facility for which a separate class is prescribed by subsection 1101(4i), not exceeding the lesser of
+		- **(i)** the income for the taxation year from the taxpayer’s eligible liquefaction activities in respect of the eligible liquefaction facility (taking into consideration any deduction under paragraph (a.3) and before making any deduction under this paragraph), and
 		- **(ii)** 22% of the undepreciated capital cost to the taxpayer of property of that separate class as of the end of the taxation year (before making any deduction under this subsection for the taxation year);
 
 #### Additional Allowances — Railway Cars
@@ -4075,7 +4094,7 @@ where the owner was
 that would otherwise be specified energy property of the taxpayer shall be deemed not to be specified energy property of the taxpayer if, immediately before it was so acquired by the taxpayer, it was not, by virtue of subsection (27), this subsection or subsection (29), specified energy property of the person from whom the property was so acquired.
 
 - **(29)** A property acquired by a taxpayer or partnership that is a replacement property (within the meaning assigned by subsection 13(4) of the Act), that would otherwise be specified energy property of the taxpayer or partnership, shall be deemed not to be specified energy property of the taxpayer or partnership if the property replaced, referred to in paragraph 13(4)(a) or (b) of the Act, was, by virtue of subsection (27), (28) or this subsection, not specified energy property of the taxpayer or partnership immediately before it was disposed of by the taxpayer or partnership.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 1; SOR/78-377, ss. 3 to 6; SOR/78-948, s. 1; SOR/79-427, s. 1; SOR/80-942, s. 1; SOR/81-470, s. 1; SOR/82-265, s. 1; SOR/83-340, s. 1; SOR/83-432, s. 1; SOR/84-454, s. 1; SOR/84-948, s. 5; SOR/85-13, s. 1; SOR/85-174, s. 1; SOR/86-254, s. 1; SOR/86-1092, ss. 3(F), 4(F); SOR/86-1136, s. 1; SOR/88-392, s. 1; SOR/89-27, s. 1; SOR/90-22, s. 1; SOR/90-257, s. 1; SOR/90-670, s. 1; SOR/91-196, s. 1; SOR/91-673, s. 1; SOR/92-681, s. 3; SOR/94-128, s. 1; SOR/94-140, s. 2; SOR/94-169, s. 1; SOR/94-170, s. 1; SOR/94-686, ss. 9(F), 48, 58(F), 78(F), 79(F), 81(F); SOR/95-244, s. 1; SOR/97-377, s. 1; SOR/99-179, s. 1; SOR/2000-248, s. 2; SOR/2005-126, s. 1; SOR/2005-371, s. 1; SOR/2005-414, s. 1; SOR/2006-117, s. 1; SOR/2007-19, s. 1; SOR/2009-115, s. 1; SOR/2009-126, s. 1; SOR/2010-93, s. 12; SOR/2011-9, s. 1; 2013, c. 34, s. 383, c. 40, s. 100; 2015, c. 36, s. 21; SOR/2015-117, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 1; SOR/78-377, ss. 3 to 6; SOR/78-948, s. 1; SOR/79-427, s. 1; SOR/80-942, s. 1; SOR/81-470, s. 1; SOR/82-265, s. 1; SOR/83-340, s. 1; SOR/83-432, s. 1; SOR/84-454, s. 1; SOR/84-948, s. 5; SOR/85-13, s. 1; SOR/85-174, s. 1; SOR/86-254, s. 1; SOR/86-1092, ss. 3(F), 4(F); SOR/86-1136, s. 1; SOR/88-392, s. 1; SOR/89-27, s. 1; SOR/90-22, s. 1; SOR/90-257, s. 1; SOR/90-670, s. 1; SOR/91-196, s. 1; SOR/91-673, s. 1; SOR/92-681, s. 3; SOR/94-128, s. 1; SOR/94-140, s. 2; SOR/94-169, s. 1; SOR/94-170, s. 1; SOR/94-686, ss. 9(F), 48, 58(F), 78(F), 79(F), 81(F); SOR/95-244, s. 1; SOR/97-377, s. 1; SOR/99-179, s. 1; SOR/2000-248, s. 2; SOR/2005-126, s. 1; SOR/2005-371, s. 1; SOR/2005-414, s. 1; SOR/2006-117, s. 1; SOR/2007-19, s. 1; SOR/2009-115, s. 1; SOR/2009-126, s. 1; SOR/2010-93, s. 12; SOR/2011-9, s. 1; 2013, c. 34, s. 383, c. 40, s. 100; 2015, c. 36, s. 21; SOR/2015-117, s. 1; 2016, c. 12, s. 78.
 
 
 
@@ -6325,8 +6344,8 @@ other than
 		- **(i)** for the acquisition of, or the use of or the right to use, land, except as provided by paragraph (1)(b), (c) or (d),
 		- **(ii)** for grading or levelling land or for landscaping, except as provided by paragraph (1)(b),
 		- **(iii)** payable to a non-resident person or a partnership other than a Canadian partnership (other than an expense described in paragraph (1)(g)),
-		- **(iv)** included in the capital cost of property that, but for this section, would be depreciable property, except as provided by paragraph (1)(b), (d), (e), (f) or (g),
-		- **(v)** an expenditure that, but for this section, would be an eligible capital expenditure, except as provided by any of paragraphs (1)(a) to (e),
+		- **(iv)** included in the capital cost of property that, but for this section, would be depreciable property (other than property that would be included in Class 14.1 of Schedule II), except as provided by paragraph (1)(b), (d), (e), (f), or (g),
+		- **(v)** included in the capital cost of property that, but for this section, would be property included in Class 14.1 of Schedule II, except as provided by any of paragraphs (1)(a) to (e),
 		- **(vi)** included in the cost of inventory of the taxpayer,
 		- **(vii)** an expenditure on or in respect of scientific research and experimental development,
 		- **(viii)** a Canadian development expense or a Canadian oil and gas property expense,
@@ -6355,7 +6374,7 @@ other than
 	- **(f)** no other wind energy conversion system is installed within 1500 metres of the device until the level of electrical energy produced from wind by the device has been tested for at least 120 calendar days.
 
 - **(4)** For greater certainty, a Canadian Renewable and Conservation Expense includes an expense incurred by a taxpayer to acquire a fixed location device that is a wind energy conversion system only if the device is described in paragraph (1)(g).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2000-327, s. 4; SOR/2005-266, s. 1; SOR/2006-117, s. 5; SOR/2007-116, s. 3; 2010, c. 25, s. 77.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2000-327, s. 4; SOR/2005-266, s. 1; SOR/2006-117, s. 5; SOR/2007-116, s. 3; 2010, c. 25, s. 77; 2016, c. 12, s. 79.
 
 
 
@@ -8393,8 +8412,8 @@ where
 - **(d)** all amounts that were or would be included in computing the insurer’s income for the year as gains from the disposition of such of the property as is not capital property or a specified debt obligation (as defined in subsection 142.2(1) of the Act),
 - **(e)** all amounts that were or would be included in computing the insurer’s income for the year under subsection 13(1) of the Act in respect of the property,
 - **(f)** all amounts that were or would be included in computing the insurer’s income for the year under paragraph 12(1)(d), (d.1) or (i) of the Act in respect of the property,
-- **(g)** all amounts that were or would be included in computing the insurer’s income for the year under subsection 59(3.2) or (3.3) of the Act in respect of the property,
-- **(h)** all amounts that were or would be included in computing the insurer’s income for the year under subsection 14(1) of the Act in respect of the property, and
+- **(g)** all amounts that were or would be included in computing the insurer’s income for the year under subsection 59(3.2) or (3.3) of the Act in respect of the property, and
+- **(h)** [Repealed, 2016, c. 12, s. 80]
 - **(i)** all other amounts that were or would be included in computing the insurer’s income for the year in respect of the property otherwise than because of subsection 142.4(4) of the Act; and
 - **B** is the total of the following amounts determined in respect of the property for the year, or that would be determined in respect of the property for the year if the property were designated insurance property of the insurer in respect of an insurance business in Canada for each taxation year in which the property was held by the insurer:
 - **(a)** all amounts that were or would be included in computing the insurer’s allowable capital losses for the year from the disposition of the property,
@@ -8404,8 +8423,8 @@ where
 - **(d)** all amounts that were or would be deductible in computing the insurer’s income for the year under paragraph 20(1)(a) of the Act in respect of the capital cost of the property or under paragraphs 20(1)(c) and (d) of the Act in respect of interest paid or payable on borrowed money used to acquire the property,
 - **(e)** where any such property is rental property or leasing property (within the meaning assigned by subsections 1100(14) and (17), respectively), all amounts that were or would be deductible in computing the insurer’s income for the year in respect of expenses directly related to the earning of rental income derived from the property,
 - **(f)** all amounts that were or would be deductible by the insurer in computing the insurer’s income for the year under paragraph 20(1)(l), (l.1) or (p) of the Act as a reserve or bad debt in respect of the property,
-- **(g)** all amounts that were deducted or would be deductible in computing the insurer’s income for the year under section 66, 66.1, 66.2 or 66.4 of the Act in respect of the property,
-- **(h)** all amounts that were or would be deductible in computing the insurer’s income for the year under paragraph 20(1)(b) of the Act in respect of the property, and
+- **(g)** all amounts that were deducted or would be deductible in computing the insurer’s income for the year under section 66, 66.1, 66.2 or 66.4 of the Act in respect of the property, and
+- **(h)** [Repealed, 2016, c. 12, s. 80]
 - **(i)** all amounts that were or would be deductible in computing the insurer’s income for the year in respect of other expenses directly related to the earning of gross investment revenue derived from the property.
 
 - **(4.1)** The positive or negative amount, as the case may be, determined under this subsection in respect of an insurer for a taxation year in respect of property disposed of by the insurer in the year or a preceding taxation year is the amount determined by the formula
@@ -8421,7 +8440,7 @@ where
 - **(6)** For the purposes of subsection (1), the balance of an insurer’s cumulative excess account at the end of a taxation year shall be determined as the amount, if any, by which
 	- **(a)** the aggregate of all amounts each of which is a positive amount, if any, determined in respect of each of such of its seven immediately preceding taxation years that began after June 17, 1987 and ended after 1987 by the formula
 ```
-B - A
+B - A
 ```
 
 where A and B are the amounts determined under subsection (1) in respect of the insurer for such immediately preceding taxation year,
@@ -8431,7 +8450,7 @@ exceeds
 - **(7)** [Repealed, SOR/2000-413, s. 6]
 
 - **(8)** For the purposes of this section, ***foreign investment property*** of an insurer means investment property of the insurer (unless the insurer is a non-resident insurer and it is established by the insurer that the investment property is not effectively connected with its Canadian insurance businesses) that is not Canadian investment property of the insurer.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/90-661, s. 10; SOR/92-681, s. 3(F); SOR/94-686, ss. 19(F), 69(F); SOR/2000-413, s. 6; SOR/2005-393, s. 1; SOR/2009-222, s. 4.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/90-661, s. 10; SOR/92-681, s. 3(F); SOR/94-686, ss. 19(F), 69(F); SOR/2000-413, s. 6; SOR/2005-393, s. 1; SOR/2009-222, s. 4; 2016, c. 12, s. 80.
 
 
 
@@ -14056,9 +14075,10 @@ but does not include payments under an indexed debt obligation where, at any tim
 	- **(iii)** owned by a corporation, all the shares of which are owned by aboriginal individuals or held in trust for the exclusive benefit of aboriginal individuals, or
 	- **(iv)** owned or held in a combination of ownership structures described in subparagraph (i), (ii) or (iii)
 and the purpose of the corporation is to provide loans, loan guarantees, bridge financing, venture capital, lease financing, surety bonding or other similar financing services to aboriginal enterprises;
-- **(b)** prescribed assistance within the meaning assigned by section 6702; or
-- **(c)** an amount that is the portion of a student loan forgiven under section 9.2 of the [Canada Student Financial Assistance Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2028.md) or under section 11.1 of the [Canada Student Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-23.md).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/86-1136, s. 12; SOR/88-312, s. 2; SOR/90-120, s. 1; SOR/91-276, s. 1; SOR/94-686, s. 79(F); 2011, c. 24, s. 88.
+- **(b)** prescribed assistance within the meaning assigned by section 6702;
+- **(c)** an amount that is the portion of a student loan forgiven under section 9.2 of the [Canada Student Financial Assistance Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2028.md) or under section 11.1 of the [Canada Student Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-23.md); or
+- **(d)** an emissions allowance issued to the taxpayer under the laws of Canada or a province.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/86-1136, s. 12; SOR/88-312, s. 2; SOR/90-120, s. 1; SOR/91-276, s. 1; SOR/94-686, s. 79(F); 2011, c. 24, s. 88; 2016, c. 12, s. 81.
 
 
 
@@ -19833,105 +19853,17 @@ where
 
 
 **PART XCIV** 
-## Prescribed Children’s Programs
-> [[NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ]
+## [Repealed, 2016, c. 7, s. 59]
+
+
+**9400** [Repealed, 2016, c. 7, s. 59]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2007, c. 35, s. 88; 2014, c. 39, s. 89; 2016, c. 7, s. 59.
 
 
 
 
-### Interpretation
-
-
-**9400** 
-
-- **(1)** The following definitions apply in this Part.
-
-***physical activity*** means a supervised activity suitable for children (other than an activity where a child rides on or in a motorized vehicle as an essential component of the activity) that
-- **(a)** in the case of a qualifying child in respect of whom an amount is deductible under section 118.3 of the Act in computing any person’s income for the taxation year, results in movement and in an observable expenditure of energy in a recreational context; and
-- **(b)** in the case of any other child, contributes to cardio-respiratory endurance and to one or more of the following:
-	- **(i)** muscular strength,
-	- **(ii)** muscular endurance,
-	- **(iii)** flexibility, and
-	- **(iv)** balance. (*activité physique*)
-
-***qualifying child*** has the meaning assigned by subsection 122.8(1) of the Act. (*enfant admissible*)
-
-### Prescribed Program of Physical Activity
-
-
-- **(2)** For the purpose of the definition ***eligible fitness expense*** in subsection 122.8(1) of the Act, a prescribed program of physical activity is
-	- **(a)** a weekly program, that is not part of a school’s curriculum, of a duration of eight or more consecutive weeks in which all or substantially all of the activities include a significant amount of physical activity;
-	- **(b)** a program, that is not part of a school’s curriculum, of a duration of five or more consecutive days of which more than 50% of the daily activities include a significant amount of physical activity;
-	- **(c)** a program, that is not part of a school’s curriculum, of a duration of eight or more consecutive weeks, offered to children by a club, association or similar organization (in this section referred to as an “organization”) in circumstances where a participant in the program may select amongst a variety of activities if
-		- **(i)** more than 50% of those activities offered to children by the organization are activities that include a significant amount of physical activity, or
-		- **(ii)** more than 50% of the time scheduled for activities offered to children in the program is scheduled for activities that include a significant amount of physical activity; or
-	- **(d)** a membership in an organization, that is not part of a school’s curriculum, of a duration of eight or more consecutive weeks if more than 50% of all the activities offered to children by the organization include a significant amount of physical activity.
-
-### Mixed-use Facility
-
-
-- **(3)** For the purpose of the definition ***eligible fitness expense*** in subsection 122.8(1) of the Act, a prescribed program of physical activity is that portion of a program, which program does not meet the requirements of paragraph (2)(c) and is not part of a school’s curriculum, of a duration of eight or more consecutive weeks, offered to children by an organization in circumstances where a participant in the program may select amongst a variety of activities
-	- **(a)** that is the percentage of those activities offered to children by the organization that are activities that include a significant amount of physical activity; or
-	- **(b)** that is the percentage of the time scheduled for activities in the program that is scheduled for activities that include a significant amount of physical activity.
-
-### Membership
-
-
-- **(4)** For the purpose of the definition ***eligible fitness expense*** in subsection 122.8(1) of the Act, a prescribed program of physical activity is that portion of a membership in an organization, which membership does not meet the requirements of paragraph (2)(d) and is not part of a school’s curriculum, of a duration of eight or more consecutive weeks that is the percentage of all the activities offered to children by the organization that are activities that include a significant amount of physical activity.
-
-### Horseback Riding
-
-
-- **(5)** For the purpose of the definition ***physical activity*** in subsection (1), horseback riding is deemed to be an activity that contributes to cardio-respiratory endurance and to one or more of muscular strength, muscular endurance, flexibility and balance.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2007, c. 35, s. 88; 2014, c. 39, s. 89.
-
-
-
-
-
-### Program of Artistic, Cultural, Recreational or Developmental Activity
-
-
-
-**Definition of artistic, cultural, recreational or developmental activity**
-
-**9401** 
-
-- **(1)** In this section, ***artistic, cultural, recreational or developmental activity*** means a supervised activity, including an activity adapted for children in respect of whom an amount is deductible under section 118.3 of the Act, suitable for children (other than a physical activity), that
-	- **(a)** is intended to contribute to a child’s ability to develop creative skills or expertise, acquire and apply knowledge, or improve dexterity or coordination, in an artistic or cultural discipline including
-		- **(i)** literary arts,
-		- **(ii)** visual arts,
-		- **(iii)** performing arts,
-		- **(iv)** music,
-		- **(v)** media,
-		- **(vi)** languages,
-		- **(vii)** customs, and
-		- **(viii)** heritage;
-	- **(b)** provides a substantial focus on wilderness and the natural environment;
-	- **(c)** assists with the development and use of intellectual skills;
-	- **(d)** includes structured interaction among children where supervisors teach or assist children to develop interpersonal skills; or
-	- **(e)** provides enrichment or tutoring in academic subjects.
-
-**Prescribed program of artistic, cultural, recreational or developmental activity**
-
-- **(2)** For the purpose of the definition ***eligible expense*** in subsection 118.031(1) of the Act, a prescribed program of artistic, cultural, recreational or developmental activity is
-	- **(a)** a weekly program, that is not part of a school’s curriculum, of a duration of eight or more consecutive weeks in which all or substantially all the activities include a significant amount of artistic, cultural, recreational or developmental activity;
-	- **(b)** a program, that is not part of a school’s curriculum, of a duration of five or more consecutive days of which more than 50% of the daily activities include a significant amount of artistic, cultural, recreational or developmental activity;
-	- **(c)** a program, that is not part of a school’s curriculum, of a duration of eight or more consecutive weeks, offered to children by a club, association or similar organization (in this section referred to as an “organization”) in circumstances where a participant in the program may select amongst a variety of activities if
-		- **(i)** more than 50% of those activities offered to children by the organization are activities that include a significant amount of artistic, cultural, recreational or developmental activity, or
-		- **(ii)** more than 50% of the time scheduled for activities offered to children in the program is scheduled for activities that include a significant amount of artistic, cultural, recreational or developmental activity; or
-	- **(d)** a membership in an organization, that is not part of a school’s curriculum, of a duration of eight or more consecutive weeks if more than 50% of all the activities offered to children by the organization include a significant amount of artistic, cultural, recreational or developmental activity.
-
-**Mixed-use facility**
-
-- **(3)** For the purpose of the definition ***eligible expense*** in subsection 118.031(1) of the Act, a prescribed program of artistic, cultural, recreational or developmental activity is that portion of a program, which program does not meet the requirements of paragraph (2)(c) and is not part of a school’s curriculum, of a duration of eight or more consecutive weeks, offered to children by an organization in circumstances where a participant in the program may select amongst a variety of activities
-	- **(a)** that is the percentage of those activities offered to children by the organization that are activities that include a significant amount of artistic, cultural, recreational or developmental activity; or
-	- **(b)** that is the percentage of the time scheduled for activities in the program that is scheduled for activities that include a significant amount of artistic, cultural, recreational or developmental activity.
-
-**Membership**
-
-- **(4)** For the purpose of the definition ***eligible expense*** in subsection 118.031(1) of the Act, a prescribed program of artistic, cultural, recreational or developmental activity is that portion of a membership in an organization, which membership does not meet the requirements of paragraph (2)(d) and is not part of a school’s curriculum, of a duration of eight or more consecutive weeks that is the percentage of all the activities offered to children by the organization that are activities that include a significant amount of artistic, cultural, recreational or developmental activity.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2011, c. 24, s. 99.
+**9401** [Repealed, 2016, c. 7, s. 59]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2011, c. 24, s. 99; 2016, c. 7, s. 59.
 
 
 
@@ -21131,15 +21063,15 @@ Property not included in any other class that is
 
 **(c)** a kitchen utensil costing less than
 
-**(i)** $100, if acquired before May 26, 1976,
+**(i)** $100, if acquired before May 26, 1976,
 
 
 
-**(ii)** $200, if acquired after May 25, 1976, and before May 2, 2006, or
+**(ii)** $200, if acquired after May 25, 1976, and before May 2, 2006, or
 
 
 
-**(iii)** $500, if acquired after May 1, 2006;
+**(iii)** $500, if acquired after May 1, 2006;
 
 
 
@@ -21151,15 +21083,15 @@ Property not included in any other class that is
 
 **(e)** a medical or dental instrument costing less than
 
-**(i)** $100, if acquired before May 26, 1976,
+**(i)** $100, if acquired before May 26, 1976,
 
 
 
-**(ii)** $200, if acquired after May 25, 1976, and before May 2, 2006, or
+**(ii)** $200, if acquired after May 25, 1976, and before May 2, 2006, or
 
 
 
-**(iii)** $500, if acquired after May 1, 2006;
+**(iii)** $500, if acquired after May 1, 2006;
 
 
 
@@ -21173,17 +21105,17 @@ Property not included in any other class that is
 
 
 
-**(h)** a tool (other than an electronic communication device or electronic data processing equipment that is acquired after May 1, 2006 and that can be used for a purpose other than any of measuring, locating and calculating) costing less than
+**(h)** a tool (other than an electronic communication device or electronic data processing equipment that is acquired after May 1, 2006 and that can be used for a purpose other than any of measuring, locating and calculating) costing less than
 
-**(i)** $100, if acquired before May 26, 1976,
-
-
-
-**(ii)** $200, if acquired after May 25, 1976, and before May 2, 2006, or
+**(i)** $100, if acquired before May 26, 1976,
 
 
 
-**(iii)** $500, if acquired after May 1, 2006;
+**(ii)** $200, if acquired after May 25, 1976, and before May 2, 2006, or
+
+
+
+**(iii)** $500, if acquired after May 1, 2006;
 
 
 
@@ -21301,6 +21233,59 @@ Property that is a patent, franchise, concession or licence for a limited period
 
 
 > [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/83-855, s. 2; SOR/94-170, s. 4..
+
+
+
+
+**CLASS 14.1** 
+## (5 per cent)
+
+Property of a taxpayer that, in respect of a business of the taxpayer,
+
+**(a)** is goodwill;
+
+
+
+**(b)** was eligible capital property of the taxpayer immediately before January 1, 2017 and is owned by the taxpayer at the beginning of that day; or
+
+
+
+**(c)** is acquired after 2016, other than
+
+**(i)** property that is tangible or, for civil law, corporeal property,
+
+
+
+**(ii)** property that is not acquired for the purpose of gaining or producing income from business,
+
+
+
+**(iii)** property in respect of which any amount is deductible (otherwise than as a result of being included in this class) in computing the taxpayer’s income from the business,
+
+
+
+**(iv)** property in respect of which any amount is not deductible in computing the taxpayer’s income from the business because of any provision of the Act (other than paragraph 18(1)(b)) or these Regulations,
+
+
+
+**(v)** an interest in a trust,
+
+
+
+**(vi)** an interest in a partnership,
+
+
+
+**(vii)** a share, bond, debenture, mortgage, hypothecary claim, note, bill or other similar property, or
+
+
+
+**(viii)** property that is an interest in, or for civil law a right in, or a right to acquire, a property described in any of subparagraphs (i) to (vii).
+
+
+
+
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] 2016, c. 12, s. 84..
 
 
 
@@ -22834,11 +22819,11 @@ and that was acquired by the taxpayer after 1987 other than property that was ac
 
 Oil sands property (other than specified oil sands property) that
 
-**(a)** is acquired by a taxpayer after March 18, 2007 and before 2016 and that if acquired before March 19, 2007, would be included in paragraphs (a), (a.1) or (a.2) of Class 41, or
+**(a)** is acquired by a taxpayer after March 18, 2007 and before 2016 and that if acquired before March 19, 2007, would be included in paragraphs (a), (a.1) or (a.2) of Class 41, or
 
 
 
-**(b)** is acquired by a taxpayer after 2015 and that if acquired before March 19, 2007 would be included in Class 41.
+**(b)** is acquired by a taxpayer after 2015 and that if acquired before March 19, 2007 would be included in Class 41.
 
 
 > [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/2011-9, s. 8..
