@@ -8,15 +8,15 @@
 Sanctionnée sur le 26 février 2015
 
 ```
-[Édictée par l’article 120 du chapitre 4 des Lois du Canada (2015), non en vigueur.]
+[Édictée par l’article 120 du chapitre 4 des Lois du Canada (2015), en vigueur le 1<sup>er</sup> janvier 2017, voir TR/2016-23.]
 ```
 ----------
 
 
 
-[Édictée par l’article 120 du chapitre 4 des Lois du Canada (2015), l’article 1, les définitions de ***accident nucléaire***, ***assureur agréé***, ***combustible nucléaire***, ***établissement nucléaire***à l’exception de l’expression « Sauf à la version anglaise de la définition de ***État où se trouve l’installation*** et des sous-alinéas 9(1)b.1)(i) et b.2)(i) et 9(4)b)(i) et c)(i) », ***exploitant***, ***matière nucléaire***, ***produit ou déchet radioactif***, ***réacteur nucléaire*** et ***Tribunal*** à l’article 2, les articles 3 à 8, l’alinéa 9(1)a), les sous-alinéas 9(1)b)(i) et (ii), l’alinéa 9(1)c) — sauf lorsque la combinaison porte sur des matières visées aux sous-alinéas 9(1)b)(iii) ou (iv) ou aux alinéas 9(1)b.1) ou b.2) —, les paragraphes 9(2) et (3), les articles 10 à 18, 20 et 22 à 26, les paragraphes 27(1) et (4), les articles 28 à 33, les paragraphes 34(1), (2) et (6), les articles 35 à 40, les paragraphes 41(1) et (2), les articles 42 à 49 et 51 à 67, les paragraphes 68(1) et (3), les articles 69, 70 et 77, les alinéas 78a), b), e) et f) et les articles 79 et 80 non en vigueur.]
+[Édictée par l’article 120 du chapitre 4 des Lois du Canada (2015), l’article 1, les définitions de ***accident nucléaire***, ***assureur agréé***, ***combustible nucléaire***, ***établissement nucléaire***à l’exception de l’expression « Sauf à la version anglaise de la définition de ***État où se trouve l’installation*** et des sous-alinéas 9(1)b.1)(i) et b.2)(i) et 9(4)b)(i) et c)(i) », ***exploitant***, ***matière nucléaire***, ***produit ou déchet radioactif***, ***réacteur nucléaire*** et ***Tribunal*** à l’article 2, les articles 3 à 8, l’alinéa 9(1)a), les sous-alinéas 9(1)b)(i) et (ii), l’alinéa 9(1)c) — sauf lorsque la combinaison porte sur des matières visées aux sous-alinéas 9(1)b)(iii) ou (iv) ou aux alinéas 9(1)b.1) ou b.2) —, les paragraphes 9(2) et (3), les articles 10 à 18, 20 et 22 à 26, les paragraphes 27(1) et (4), les articles 28 à 33, les paragraphes 34(1), (2) et (6), les articles 35 à 40, les paragraphes 41(1) et (2), les articles 42 à 49 et 51 à 67, les paragraphes 68(1) et (3), les articles 69, 70 et 77, les alinéas 78a), b), e) et f) et les articles 79 et 80 en vigueur le 1<sup>er</sup> janvier 2017, *voir* TR/2016-23.]
 
-[Les définitions de ***Convention***, ***État contractant*** et ***État où se trouve l’installation***, l’expression « Sauf à la version anglaise de la définition de ***État où se trouve l’installation*** et des sous-alinéas 9(1)b.1)(i) et b.2)(i) et 9(4)b)(i) et c)(i) » dans la définition de ***établissement nucléaire*** et la définition de ***fonds publics*** à l’article 2, les sous-alinéas 9(1)b)(iii) et (iv), les alinéas 9(1)b.1) à c) — lorsque la combinaison porte sur des matières visées aux sous-alinéas 9(1)b)(iii) ou (iv) ou aux alinéas 9(1)b.1) ou b.2) —, les paragraphes 9(4) à (6), les articles 19 et 21, les paragraphes 27(2) et (3), 34(3) à (5) et 41(3), l’article 50, le paragraphe 68(2), les articles 71 à 76 et les alinéas 78c) et d) non en vigueur.]
+[Les définitions de ***Convention***, ***État contractant*** et ***État où se trouve l’installation***, l’expression « Sauf à la version anglaise de la définition de ***État où se trouve l’installation*** et des sous-alinéas 9(1)b.1)(i) et b.2)(i) et 9(4)b)(i) et c)(i) » dans la définition de ***établissement nucléaire*** et la définition de ***fonds publics*** à l’article 2, les sous-alinéas 9(1)b)(iii) et (iv), les alinéas 9(1)b.1) à c) — lorsque la combinaison porte sur des matières visées aux sous-alinéas 9(1)b)(iii) ou (iv) ou aux alinéas 9(1)b.1) ou b.2) —, les paragraphes 9(4) à (6), les articles 19 et 21, les paragraphes 27(2) et (3), 34(3) à (5) et 41(3), l’article 50, le paragraphe 68(2), les articles 71 à 76 et les alinéas 78c) et d) en vigueur le 1<sup>er</sup> janvier 2017, *voir* TR/2016-23.]
 
 
 
@@ -175,7 +175,7 @@ Sanctionnée sur le 26 février 2015
 	- **a)** le rayonnement ionisant émis par toute source de radiation qui se trouve dans son établissement nucléaire ou s’en est échappée;
 	- **b)** le rayonnement ionisant émis par des matières nucléaires qui sont transportées :
 		- **(i)** de son établissement nucléaire vers un autre établissement nucléaire, auquel cas, il est responsable jusqu’à ce qu’elles y soient placées ou que la responsabilité soit assumée, aux termes d’un contrat écrit, par l’exploitant de cet autre établissement nucléaire,
-		- **(ii)** de l’étranger vers son établissement nucléaire,
+		- **(ii)** [Abrogé, 2015, ch. 4, art. 121]
 		- **(iii)** de son établissement nucléaire vers une personne se trouvant dans le territoire d’un État non contractant, auquel cas, il est responsable jusqu’à ce qu’elles soient déchargées du moyen de transport par lequel elles sont parvenues dans cet État,
 		- **(iv)** d’une personne se trouvant dans le territoire d’un État non contractant vers l’établissement nucléaire de l’exploitant, avec le consentement écrit de celui-ci, auquel cas, il est responsable à partir du moment où elles sont chargées sur le moyen de transport par lequel elles doivent quitter cet État;
 	- **b.1)** le rayonnement ionisant émis par des matières nucléaires qui sont transportées en provenance de son établissement nucléaire :
@@ -190,9 +190,7 @@ Sanctionnée sur le 26 février 2015
 
 - **(2)** L’exploitant est le seul responsable des dommages causés au Canada ou dans la zone économique exclusive du Canada par toute mesure de prévention prise au titre du paragraphe 20(1) relativement à son établissement nucléaire ou relativement à tout transport dont il est responsable.
 
-**Dommages dans un pays bénéficiant de la réciprocité**
-
-- **(3)** Si le règlement de mise en oeuvre d’un accord de réciprocité pris en vertu du paragraphe 70(2) le prévoit, l’exploitant est le seul responsable des dommages causés dans le pays en cause ou dans la zone économique exclusive de celui-ci par la production, la transformation, le transport, l’entreposage, l’utilisation ou la disposition de matières nucléaires dont il est responsable.
+- **(3)** [Abrogé, 2015, ch. 4, art. 121]
 
 **Responsabilité — État contractant autre que le Canada**
 
@@ -217,6 +215,8 @@ Sanctionnée sur le 26 février 2015
 		- **(i)** de son établissement nucléaire vers une personne qui est dans le territoire d’un État non contractant, auquel cas, il est responsable jusqu’à ce qu’elles soient déchargées du moyen de transport par lequel elles sont parvenues dans cet État,
 		- **(ii)** d’une personne qui est dans le territoire d’un État non contractant vers l’établissement nucléaire de l’exploitant, avec le consentement écrit de celui-ci, auquel cas, il est responsable à partir du moment où elles sont chargées sur le moyen de transport par lequel elles doivent quitter cet État;
 	- **b)** la combinaison de propriétés radioactives et de propriétés toxiques ou explosives ou autres propriétés dangereuses de matières nucléaires visées à l’alinéa a).
+> 2015, ch. 4, art. 120 « 9 » et 121.
+
 
 
 
@@ -993,16 +993,7 @@ Sanctionnée sur le 26 février 2015
 ## Accords de réciprocité
 
 
-
-**Pays bénéficiant de la réciprocité**
-
-**70** 
-
-- **(1)** S’il est d’avis que des arrangements satisfaisants existent dans un pays en vue de l’indemnisation des dommages causés, dans ce pays et au Canada, par la production, la transformation, le transport, l’entreposage, l’utilisation ou la disposition de matières nucléaires, le gouverneur en conseil peut déclarer que ce pays bénéficie de la réciprocité pour l’application de la présente loi.
-
-**Règlement de mise en oeuvre**
-
-- **(2)** Il peut, à l’égard de tout pays bénéficiant de la réciprocité, prendre les règlements qu’il estime nécessaires en vue de mettre en oeuvre tout accord conclu entre le Canada et ce pays, relativement aux dommages résultant des activités visées au paragraphe (1).
+**70** [Abrogé, 2015, ch. 4, art. 122]
 
 
 
