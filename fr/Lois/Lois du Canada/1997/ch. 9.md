@@ -843,9 +843,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Le paragraphe (1) n’a pas pour effet de porter atteinte aux recours que le propriétaire ou le responsable peut avoir contre des tiers.
 
-**Responsabilité au titre de la [Loi sur la responsabilité nucléaire](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-28.md)**
+**Responsabilité au titre de la [Loi sur la responsabilité et l’indemnisation en matière nucléaire](/fr/Lois/Lois%20du%20Canada/2015/ch.%204,%20art.%20120.md)**
 
-- **(3)** Le présent article n’a pas pour effet de porter atteinte à la responsabilité de l’exploitant découlant de la [Loi sur la responsabilité nucléaire](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-28.md).
+- **(3)** Le présent article n’a pas pour effet de porter atteinte à la responsabilité que la [Loi sur la responsabilité et l’indemnisation en matière nucléaire](/fr/Lois/Lois%20du%20Canada/2015/ch.%204,%20art.%20120.md) impose à l’exploitant.
+> 1997, ch. 9, art. 42; 2015, ch. 4, art. 124.
+
 
 
 
@@ -1260,11 +1262,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Application de la [Loi sur la responsabilité nucléaire](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-28.md)**
+**Application de la [Loi sur la responsabilité et l’indemnisation en matière nucléaire](/fr/Lois/Lois%20du%20Canada/2015/ch.%204,%20art.%20120.md)**
 
-**64** Les articles 58, 59, 60, 62 et 63 n’ont pas pour effet de porter atteinte :
-- **a)** aux droits, aux obligations ou à la responsabilité de toute personne découlant de la [Loi sur la responsabilité nucléaire](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-28.md);
-- **b)** à la compétence d’une commission de réparation des dommages nucléaires constituée sous le régime de la [Loi sur la responsabilité nucléaire](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-28.md).
+**64** Les articles 58, 59, 60, 62 et 63 n’ont pas pour effet de porter atteinte :
+- **a)** aux droits, aux obligations ou à la responsabilité découlant, pour toute personne, de la [Loi sur la responsabilité et l’indemnisation en matière nucléaire](/fr/Lois/Lois%20du%20Canada/2015/ch.%204,%20art.%20120.md);
+- **b)** à la compétence d’un tribunal d’indemnisation en matière nucléaire constitué sous le régime de cette loi.
+> 1997, ch. 9, art. 64; 2015, ch. 4, art. 125.
+
 
 
 
@@ -1761,10 +1765,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Installation nucléaire**
-
-**82** Une installation nucléaire désignée par la Commission de contrôle de l’énergie atomique pour l’application de la [Loi sur la responsabilité nucléaire](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-28.md) est réputée désignée par la Commission canadienne de sûreté nucléaire.
+**82** [Abrogé, 2015, ch. 4, art. 126]
 
 
 
