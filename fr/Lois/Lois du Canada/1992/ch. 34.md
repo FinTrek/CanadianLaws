@@ -604,7 +604,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **22** 
 
-- **(1)** Sa Majesté du chef du Canada peut recouvrer les frais et dépens entraînés par les mesures visées à l’article 17 ou 19.
+- **(1)** Sa Majesté du chef du Canada peut recouvrer les frais et dépens entraînés par les mesures visées à l’article 17 ou 19.
 
 **Personnes visées**
 
@@ -620,20 +620,20 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Recours contre des tiers**
 
-- **(5)** Le présent article ne limite pas les recours qu’une personne tenue responsable aux termes du paragraphe (1) peut avoir contre des tiers.
+- **(5)** Le présent article ne limite pas les recours qu’une personne tenue responsable aux termes du paragraphe (1) peut avoir contre des tiers.
 
 **Recours civils**
 
 - **(6)** Le simple fait qu’un acte ou une omission constitue une infraction à la présente loi ou entraîne la responsabilité prévue au présent article n’a aucun effet, suspensif ou autre, sur d’éventuels recours civils.
 
-**Responsabilité — [Loi sur la responsabilité nucléaire](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-28.md)**
+**Responsabilité — [Loi sur la responsabilité et l’indemnisation en matière nucléaire](/fr/Lois/Lois%20du%20Canada/2015/ch.%204,%20art.%20120.md)**
 
-- **(7)** Le présent article ne libère pas un exploitant, au sens de l’article 2 de la [Loi sur la responsabilité nucléaire](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-28.md), des obligations ou de la responsabilité que lui impose cette loi.
+- **(7)** Le présent article ne libère pas l’exploitant, au sens de l’article 2 de la [Loi sur la responsabilité et l’indemnisation en matière nucléaire](/fr/Lois/Lois%20du%20Canada/2015/ch.%204,%20art.%20120.md), des obligations ou de la responsabilité que lui impose cette loi.
 
 **Prescription**
 
 - **(8)** Les poursuites intentées en vertu du présent article se prescrivent par deux ans à compter de la date des faits en cause ou du moment où ils deviennent évidents.
-> 1992, ch. 34, art. 22; 2009, ch. 9, art. 21(F).
+> 1992, ch. 34, art. 22; 2009, ch. 9, art. 21(F); 2015, ch. 4, art. 123.
 
 
 
