@@ -225,7 +225,7 @@ shall be deemed to have been allowed to the taxpayer under regulations made unde
 
 **20** 
 
-- **(1)** Where the capital cost to a taxpayer of any depreciable property acquired by the taxpayer before 1972 and owned by the taxpayer without interruption from December 31, 1971 until such time after 1971 as the taxpayer disposed of it is less than the fair market value of the property on valuation day and less than the proceeds of disposition thereof otherwise determined,
+- **(1)** If the capital cost to a taxpayer of any depreciable property (other than a property that was, at any time, ***eligible capital property*** as defined in the amended Act at that time) acquired by the taxpayer before 1972 and owned by the taxpayer without interruption from December 31, 1971 until such time after 1971 as the taxpayer disposed of it is less than the fair market value of the property on valuation day and less than the proceeds of disposition thereof otherwise determined,
 	- **(a)** for the purposes of section 13 of the amended Act, subdivision c of Division B of Part I of that Act and any regulations made under paragraph 20(1)(a) of that Act, the taxpayer’s proceeds of disposition of the property shall be deemed to be an amount equal to the total of its capital cost to the taxpayer and the amount, if any, by which the proceeds of disposition thereof otherwise determined exceed the fair market value of the property on valuation day,
 	- **(b)** where the property has, by one or more transactions or events (other than the death of a taxpayer to which subsection 70(5) of the amended Act applies) between persons not dealing at arm’s length, become vested in another taxpayer
 		- **(i)** for the purposes of the amended Act (other than, where paragraph 13(7)(e) of that Act applies in determining the capital cost to that other taxpayer of the property, for the purposes of paragraphs 8(1)(j) and (p) and sections 13 and 20 of that Act), that other taxpayer shall be deemed to have acquired the property at a capital cost equal to the proceeds deemed to have been received for the property by the person from whom that other taxpayer acquired the property, and
@@ -256,15 +256,15 @@ except that where the spouse, common-law partner, trust, transferee or child, as
 
 **Transfers before 1972 not at arm’s length**
 
-- **(1.3)** Without restricting the generality of section 18, where any depreciable property has been transferred before 1972 in circumstances such that subsection 20(4) of the former Act would, if that provision applied to transfers of property made in the 1972 taxation year, apply, paragraph 69(1)(b) of the amended Act does not apply to the transfer and subsection 20(4) of the former Act applies thereto.
+- **(1.3)** Without restricting the generality of section 18, if any depreciable property (other than a property that was, at any time, ***eligible capital property*** as defined in the amended Act at that time) has been transferred before 1972 in circumstances such that subsection 20(4) of the former Act would, if that provision applied to transfers of property made in the 1972 taxation year, apply, paragraph 69(1)(b) of the amended Act does not apply to the transfer and subsection 20(4) of the former Act applies thereto.
 
 **Depreciable property received as dividend in kind**
 
-- **(1.4)** The capital cost to a taxpayer, as of any particular time after 1971, of any depreciable property (other than depreciable property referred to in subsection (1.3) or deemed by subparagraph (1)(b)(ii) to have been acquired by the taxpayer before 1972) acquired by the taxpayer before 1972 as, on account of, in lieu of payment of or in satisfaction of, a dividend payable in kind (other than a stock dividend) in respect of a share owned by the taxpayer of the capital stock of a corporation, shall be deemed to be the fair market value of that property at the time the property was so received.
+- **(1.4)** The capital cost to a taxpayer, as of any particular time after 1971, of any depreciable property (other than depreciable property referred to in subsection (1.3) or deemed by subparagraph (1)(b)(ii) to have been acquired by the taxpayer before 1972 or a property that was, at any time, ***eligible capital property*** as defined in the amended Act at that time) acquired by the taxpayer before 1972 as, on account of, in lieu of payment of or in satisfaction of, a dividend payable in kind (other than a stock dividend) in respect of a share owned by the taxpayer of the capital stock of a corporation, is deemed to be the fair market value of that property at the time the property was so received.
 
 **Recapture of capital cost allowances**
 
-- **(2)** In determining a taxpayer’s income for a taxation year from farming or fishing, subsection 13(1) of the amended Act does not apply in respect of the disposition by the taxpayer of property acquired by the taxpayer before 1972 unless the taxpayer has elected to make a deduction for that or a preceding taxation year, in respect of the capital cost of property acquired by the taxpayer before 1972, under regulations made under paragraph 20(1)(a) of that Act other than a regulation providing solely for an allowance for computing income from farming or fishing.
+- **(2)** In determining a taxpayer’s income for a taxation year from farming or fishing, subsection 13(1) of the amended Act does not apply in respect of the disposition by the taxpayer of property (other than a property that was, at any time, ***eligible capital property*** as defined in the amended Act at that time) acquired by the taxpayer before 1972 unless the taxpayer has elected to make a deduction for that or a preceding taxation year, in respect of the capital cost of property acquired by the taxpayer before 1972, under regulations made under paragraph 20(1)(a) of that Act other than a regulation providing solely for an allowance for computing income from farming or fishing.
 
 **Depreciable property of partnership of prescribed class**
 
@@ -289,16 +289,16 @@ and the amount determined under subparagraph (iv) is the capital cost to the par
 
 - **(4)** In subsection (3),
 
-***acquisition cost*** of a person who was a member of a partnership on December 31, 1971 in respect of depreciable property of a prescribed class that was partnership property of the partnership on December 31, 1971 means the total of the undepreciated capital cost to the person of property of that class as of December 31, 1971 and the total depreciation allowed to the person before 1972 in respect of property of that class;
+***acquisition cost*** of a person who was a member of a partnership on December 31, 1971 in respect of depreciable property of a prescribed class that was partnership property of the partnership on December 31, 1971 means the total of the undepreciated capital cost to the person of property of that class as of December 31, 1971 and the total depreciation allowed to the person before 1972 in respect of property of that class; (*coût d’acquisition*)
 
-***percentage*** of a member of a partnership in respect of any depreciable property of a prescribed class that was partnership property of the partnership on December 31, 1971 means the interest of the member of the partnership in property of that class, expressed as a percentage of the total of the interests of all members of the partnership in property of that class on that day;
+***percentage*** of a member of a partnership in respect of any depreciable property of a prescribed class that was partnership property of the partnership on December 31, 1971 means the interest of the member of the partnership in property of that class, expressed as a percentage of the total of the interests of all members of the partnership in property of that class on that day; (*pourcentage*)
 
-***undepreciated cost to the partnership*** of any class of depreciable property means an amount determined as follows:
+***undepreciated cost to the partnership*** of any class of depreciable property means an amount determined as follows:
 - **(a)** determine, for each person who, because of having been a member of the partnership on the later of June 18, 1971 and the day the partnership was created, and thereafter without interruption until December 31, 1971, can reasonably be regarded as having had an interest in property of that class on December 31, 1971, the amount, if any, by which the undepreciated capital cost to the person of property of that class as of December 31, 1971 exceeds the amount, if any, determined under subparagraph (3)(c)(i) for the person in respect of property of that class,
 - **(b)** determine, for each such person, the amount that is that proportion of the amount determined under paragraph (a) that 100% is of the person’s percentage in respect of property of that class, and
 - **(c)** select the amount determined under paragraph (b) for a person described therein that is not greater than any amount so determined for any other such person,
 
-and the amount selected under paragraph (c) is the undepreciated cost to the partnership of that class.
+and the amount selected under paragraph (c) is the undepreciated cost to the partnership of that class. (*fraction non amortie du coût, pour la société de personnes*)
 
 **Other depreciable property of partnership**
 
@@ -320,23 +320,19 @@ exceeds
 exceeds
 		- **(ii)** the total of all amounts deducted under this paragraph in computing the person’s income for preceding taxation years,
 and for the purposes of section 3 of the amended Act the amount so claimed shall be deemed to be a deduction permitted by subdivision e of Division B of Part I of that Act.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ;  R.S., 1985, c. 2 (5th Supp.), s. 20; 1995, c. 3, s. 56; 1998, c. 19, s. 248; 2000, c. 12, s. 147.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; R.S., 1985, c. 2 (5th Supp.), s. 20; 1995, c. 3, s. 56; 1998, c. 19, s. 248; 2000, c. 12, s. 147; 2016, c. 12, s. 72.
 
 
 
 
 
-**Goodwill and other nothings**
+**Government right**
 
 **21** 
 
-- **(1)** Where as a result of a disposition occurring after 1971 a taxpayer has or may become entitled to receive an amount (in this section referred to as the “actual amount”) in respect of a business carried on by the taxpayer throughout the period beginning January 1, 1972 and ending immediately after the disposition occurred, for the purposes of section 14 of the amended Act the amount that the taxpayer has or may become entitled to receive shall be deemed to be the total of
-	- **(a)** an amount equal to a percentage, equal to 40% plus the percentage (not exceeding 60%) obtained when 5% is multiplied by the number of full calendar years ending in the period and before the transaction occurred, of the amount, if any, by which the actual amount exceeds the portion thereof referred to in subparagraph (b)(i), and
-	- **(b)** an amount equal to the lesser of
-		- **(i)** the percentage, described in paragraph (a), of such portion, if any, of the actual amount as may reasonably be considered as being the consideration received by the taxpayer for the disposition of, or for allowing the expiration of, a government right, and
-		- **(ii)** the amount, if any, by which the portion described in subparagraph (i) exceeds the greater of
-			- **(A)** the total of all amounts each of which is an outlay or expenditure made or incurred by the taxpayer as a result of a transaction that occurred before 1972 for the purpose of acquiring the government right, or the taxpayer’s original right in respect of the government right, to the extend that the outlay or expenditure was not otherwise deducted in computing the income of the taxpayer for any taxation year and would, if made or incurred by the taxpayer as a result of a transaction that occurred after 1971, be an eligible capital expenditure of the taxpayer, and
-			- **(B)** the fair market value to the taxpayer as at December 31, 1971 of the taxpayers specified right in respect of the government right, if no outlay or expenditure was made or incurred by the taxpayer for the purpose of acquiring the right or, if an outlay or expenditure was made or incurred, if that outlay or expenditure would have been an eligible capital expenditure of the taxpayer if it had been made or incurred as a result of a transaction that occurred after 1971.
+- **(1)** If as a result of a disposition occurring after 1971 a taxpayer has or may become entitled to receive an amount (in this section referred to as the ***actual amount***) that may reasonably be considered to be consideration received by the taxpayer for the disposition of, or for allowing the expiration of, a government right, in respect of a business carried on by the taxpayer throughout the period beginning January 1, 1972 and ending immediately after the disposition occurred, for the purposes of the amended Act the amount that the taxpayer has or may become entitled to receive is deemed to be the amount, if any, by which the actual amount exceeds the greater of
+	- **(a)** the total of all amounts each of which is an outlay or expenditure made or incurred by the taxpayer as a result of a transaction that occurred before 1972 for the purpose of acquiring the government right, or the taxpayer’s original right in respect of the government right, to the extent that the outlay or expenditure was not otherwise deducted in computing the income of the taxpayer for any taxation year and would, if made or incurred by the taxpayer as a result of a transaction that occurred after 1971, be an eligible capital expenditure of the taxpayer; and
+	- **(b)** the fair market value to the taxpayer on December 31, 1971 of the taxpayer’s specified right in respect of the government right, if no outlay or expenditure was made or incurred by the taxpayer for the purpose of acquiring the right or, if an outlay or expenditure was made or incurred, if that outlay or expenditure would have been an eligible capital expenditure of the taxpayer if it had been made or incurred as a result of a transaction that occurred after 1971.
 
 **Idem**
 
@@ -347,7 +343,7 @@ and for the purposes of section 3 of the amended Act the amount so claimed shall
 - **(2.1)** Where after 1971 a taxpayer has acquired a particular government right referred to in subsection (1)
 	- **(a)** from a person with whom the taxpayer was not dealing at arm’s length, or
 	- **(b)** under an agreement with a person with whom the taxpayer was not dealing at arm’s length, if under the terms of the agreement that person allowed the right to expire so that the taxpayer could acquire a substantially similar right from the authority that had issued the right to that person,
-and an actual amount subsequently becomes payable to the taxpayer as consideration for the disposition by the taxpayer of, or for the taxpayer allowing the expiration of, the particular government right or any other government right acquired by the taxpayer for the purpose of effecting the continuation, without interruption, of rights that are substantially similar to the rights that the taxpayer had under the particular government right, for the purpose of section 14 of the amended Act, the amount that has so become payable to the taxpayer shall be deemed to be the amount that would, if that person and the taxpayer had at all times been the same person, be determined under subsection (1) to be the amount that would have become so payable to the taxpayer.
+and an actual amount subsequently becomes payable to the taxpayer as consideration for the disposition by the taxpayer of, or for the taxpayer allowing the expiration of, the particular government right or any other government right acquired by the taxpayer for the purpose of effecting the continuation, without interruption, of rights that are substantially similar to the rights that the taxpayer had under the particular government right, for the purpose of the amended Act, the amount that has so become payable to the taxpayer shall be deemed to be the amount that would, if that person and the taxpayer had at all times been the same person, be determined under subsection (1) to be the amount that would have become so payable to the taxpayer.
 
 **Amalgamations**
 
@@ -357,22 +353,24 @@ and an actual amount subsequently becomes payable to the taxpayer as considerati
 
 - **(3)** In this section,
 
-***government right*** of a taxpayer means a right or licence
+***government right*** of a taxpayer means a right or licence
 - **(a)** that enables the taxpayer to carry on a business activity in accordance with a law of Canada or of a province or Canadian municipality, to an extent to which the taxpayer would otherwise be unable to carry it on in accordance therewith,
 - **(b)** that was granted or issued by Her Majesty in right of Canada or a province or a Canadian municipality, or by a department, board, agency or any other body authorized by or under a law of Canada, a province or a Canadian municipality to grant or issue such a right or licence, and
 - **(c)** that was acquired by the taxpayer
 	- **(i)** as a result of a transaction that occurred before 1972, or
-	- **(ii)** at a particular time for the purpose of affecting the continuation, without interruption, of rights that are substantially similar to the rights that the taxpayer had under a government right held by the taxpayer before the particular time;
+	- **(ii)** at a particular time for the purpose of affecting the continuation, without interruption, of rights that are substantially similar to the rights that the taxpayer had under a government right held by the taxpayer before the particular time; (*droit gouvernemental*)
 
-***original right*** of a taxpayer in respect of a government right means a right or licence
+***original right*** of a taxpayer in respect of a government right means a right or licence
 - **(a)** described in the definition ***government right*** in this subsection, and
 - **(b)** acquired by the taxpayer as a result of a transaction that occurred before 1972 for a purpose other than the purpose described in subparagraph (c)(ii) of that definition,
 
-if the government right was acquired by the taxpayer for the purpose of effecting the continuation, without interruption, of rights that are substantially similar to the rights that the taxpayer had under the right or licence;
+if the government right was acquired by the taxpayer for the purpose of effecting the continuation, without interruption, of rights that are substantially similar to the rights that the taxpayer had under the right or licence; (*droit initial*)
 
-***specified right*** of a taxpayer in respect of a government right means a right owned by a taxpayer on December 31, 1971 that was
+***specified right*** of a taxpayer in respect of a government right means a right owned by a taxpayer on December 31, 1971 that was
 - **(a)** an original right, or
-- **(b)** a government right that was acquired by the taxpayer in substitution for the original right or that was one of a series of government rights acquired by the taxpayer for the purpose of effecting the continuation, without interruption, of rights that are substantially similar to the rights that the taxpayer had under the original right.
+- **(b)** a government right that was acquired by the taxpayer in substitution for the original right or that was one of a series of government rights acquired by the taxpayer for the purpose of effecting the continuation, without interruption, of rights that are substantially similar to the rights that the taxpayer had under the original right. (*droit particulier*)
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; R.S., 1985, c. 2 (5th Supp.), s. 21; 2016, c. 12, s. 73.
+
 
 
 
