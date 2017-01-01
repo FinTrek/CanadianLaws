@@ -265,19 +265,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***délai de carence*** Les deux semaines de la période de prestations que vise l’article 13.
+***délai de carence*** La semaine de la période de prestations que vise l’article 13. (*waiting period*)
 
-***demande initiale de prestations*** Demande formulée aux fins d’établir une période de prestations au profit du prestataire.
+***demande initiale de prestations*** Demande formulée aux fins d’établir une période de prestations au profit du prestataire. (*initial claim for benefits*)
 
-***exclu du bénéfice des prestations*** Exclu du bénéfice des prestations en vertu des articles 27 ou 30.
+***exclu du bénéfice des prestations*** Exclu du bénéfice des prestations en vertu des articles 27 ou 30. (*disqualified*)
 
-***inadmissible*** Qui n’est pas admissible au titre des articles 13, 18, 21, 31, 32, 33, 36, 37, 49 ou 50, ou au titre d’un règlement.
+***inadmissible*** Qui n’est pas admissible au titre des articles 13, 18, 21, 31, 32, 33, 36, 37, 49 ou 50, ou au titre d’un règlement. (*disentitled*)
 
-***période de référence*** La période que vise l’article 8.
+***période de référence*** La période que vise l’article 8. (*qualifying period*)
 
-***prestataire de la deuxième catégorie*** Prestataire qui remplit les conditions requises pour recevoir des prestations et qui a exercé un emploi assurable pendant moins de 600 heures au cours de sa période de référence.
+***prestataire de la deuxième catégorie*** Prestataire qui remplit les conditions requises pour recevoir des prestations et qui a exercé un emploi assurable pendant moins de 600 heures au cours de sa période de référence. (*minor attachment claimant*)
 
-***prestataire de la première catégorie*** Prestataire qui remplit les conditions requises pour recevoir des prestations et qui a exercé un emploi assurable pendant au moins 600 heures au cours de sa période de référence.
+***prestataire de la première catégorie*** Prestataire qui remplit les conditions requises pour recevoir des prestations et qui a exercé un emploi assurable pendant au moins 600 heures au cours de sa période de référence. (*major attachment claimant*)
 
 **Arrondissement des pourcentages ou fractions**
 
@@ -286,7 +286,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Heures d’emploi assurable**
 
 - **(3)** Pour l’application de la présente partie, le nombre d’heures d’emploi assurable d’un prestataire pour une période donnée s’établit, sous réserve des règlements pris au titre de l’alinéa 54z.1), au titre de l’article 55.
-> 1996, ch. 23, art. 6; 2000, ch. 14, art. 2.
+> 1996, ch. 23, art. 6; 2000, ch. 14, art. 2; 2016, ch. 7, art. 208.
 
 
 
@@ -880,7 +880,9 @@ plus de 13 %
 
 **Délai de carence**
 
-**13** Au cours d’une période de prestations, le prestataire n’est pas admissible au bénéfice des prestations tant qu’il ne s’est pas écoulé, à la suite de l’ouverture de cette période de prestations, un délai de carence de deux semaines qui débute par une semaine de chômage pour laquelle des prestations devraient sans cela être versées.
+**13** Au cours d’une période de prestations, le prestataire n’est pas admissible au bénéfice des prestations tant qu’il ne s’est pas écoulé, à la suite de l’ouverture de cette période de prestations, un délai de carence d’une semaine de chômage pour laquelle des prestations devraient sans cela être versées.
+> 1996, ch. 23, art. 13; 2016, ch. 7, art. 213.
+
 
 
 
@@ -1111,7 +1113,7 @@ plus de 13 %
 
 **Application de l’article 18**
 
-- **(4)** Pour l’application de l’article 13, l’article 18 ne s’applique pas à la période de deux semaines qui précède la période visée au paragraphe (2).
+- **(4)** Pour l’application de l’article 13, l’article 18 ne s’applique pas à la semaine qui précède la période visée au paragraphe (2).
 
 **Rémunération à déduire**
 
@@ -1124,6 +1126,8 @@ plus de 13 %
 **Restriction**
 
 - **(7)** La période prolongée en vertu du paragraphe (6) ne peut excéder les cinquante-deux semaines qui suivent la semaine de l’accouchement.
+> 1996, ch. 23, art. 22; 2016, ch. 7, art. 214.
+
 
 
 
@@ -2349,13 +2353,7 @@ plus de 13 %
 
 - **(1)** Sous réserve du paragraphe (7) et de l’article 66.32, pour chaque année, la Commission fixe le taux de cotisation de manière que le montant des cotisations à verser soit juste suffisant pour faire en sorte que, à la fin de la période de sept ans commençant au début de cette année, le total des sommes portées au crédit du Compte des opérations de l’assurance-emploi après le 31 décembre 2008 soit égal au total des sommes portées au débit de ce compte après cette date.
 
-**Taux de cotisation pour 2015 et 2016**
-
-- **(1.1)** Malgré le paragraphe (1), le taux de cotisation pour les années 2015 et 2016 est fixé à 1,88 %.
-
-**Application des articles 66.1 à 66.31**
-
-- **(1.2)** Les articles 66.1 à 66.31 s’appliquent au cours des années 2014 et 2015 malgré le fait que, pour les années 2015 et 2016, le taux de cotisation est fixé en vertu du paragraphe (1.1).
+- **(1.1) et (1.2)** [Abrogés, 2013, ch. 40, art. 126]
 
 **Éléments à prendre en compte**
 
@@ -4367,31 +4365,31 @@ et comme étant certifié par la Commission ou une personne employée en applica
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***date d’exigibilité du solde*** S’agissant de la date d’exigibilité du solde applicable à un travailleur indépendant pour une année :
+***date d’exigibilité du solde*** S’agissant de la date d’exigibilité du solde applicable à un travailleur indépendant pour une année :
 - **a)** s’il est décédé après le 31 octobre de l’année et avant le 1<sup>er</sup> mai de l’année suivante, le jour qui tombe six mois après son décès;
-- **b)** dans les autres cas, le 30 avril de l’année suivante.
+- **b)** dans les autres cas, le 30 avril de l’année suivante. (*balance-due day*)
 
-***délai de carence*** Les deux semaines de la période de prestations que vise l’article 152.15.
+***délai de carence*** La semaine de la période de prestations que vise l’article 152.15. (*waiting period*)
 
-***demande initiale de prestations*** Demande formulée aux fins d’établir une période de prestations au profit du travailleur indépendant.
+***demande initiale de prestations*** Demande formulée aux fins d’établir une période de prestations au profit du travailleur indépendant. (*initial claim for benefits*)
 
-***entreprise*** Sont assimilés à une entreprise une profession, un métier, un commerce, une industrie ou une activité de quelque genre que ce soit, y compris une spéculation ou affaire d’un caractère commercial. La présente définition exclut une charge ou un emploi.
+***entreprise*** Sont assimilés à une entreprise une profession, un métier, un commerce, une industrie ou une activité de quelque genre que ce soit, y compris une spéculation ou affaire d’un caractère commercial. La présente définition exclut une charge ou un emploi. (*business*)
 
-***inadmissible*** Qui n’est pas admissible au titre des articles 49, 50, 152.03, 152.15 ou 152.2, ou au titre d’un règlement.
+***inadmissible*** Qui n’est pas admissible au titre des articles 49, 50, 152.03, 152.15 ou 152.2, ou au titre d’un règlement. (*disentitled*)
 
-***membre de la famille*** S’entend, relativement à la personne en cause :
+***membre de la famille*** S’entend, relativement à la personne en cause :
 - **a)** de son époux ou conjoint de fait;
 - **b)** de son enfant ou de l’enfant de son époux ou conjoint de fait;
 - **c)** de son père ou de sa mère ou de l’époux ou conjoint de fait de ceux-ci;
-- **d)** de toute autre personne faisant partie d’une catégorie de personnes prévue par règlement pour l’application de la présente définition.
+- **d)** de toute autre personne faisant partie d’une catégorie de personnes prévue par règlement pour l’application de la présente définition. (*family member*)
 
-***période de référence*** La période que vise l’article 152.08.
+***période de référence*** La période que vise l’article 152.08. (*qualifying period*)
 
 ***travailleur indépendant***
 - **a)** Tout particulier qui exploite ou exploitait une entreprise;
 - **b)** tout employé qui n’exerce pas un emploi assurable par l’effet de l’alinéa 5(2)b).
 
-Est exclu de la présente définition tout particulier visé par les règlements pris en vertu de la partie VIII et tout particulier dont l’emploi est inclus par règlement dans les emplois assurables en vertu de l’alinéa 5(4)c).
+Est exclu de la présente définition tout particulier visé par les règlements pris en vertu de la partie VIII et tout particulier dont l’emploi est inclus par règlement dans les emplois assurables en vertu de l’alinéa 5(4)c). (*self-employed person*)
 
 **Montant de la rémunération pour une année : travailleur indépendant**
 
@@ -4415,7 +4413,7 @@ Est exclu de la présente définition tout particulier visé par les règlements
 **Arrondissement des pourcentages ou fractions**
 
 - **(5)** Pour l’application de toute disposition de la présente partie dans laquelle il est fait mention d’une somme correspondant à un pourcentage ou à une fraction d’une rémunération ou d’une prestation au cours d’une période, cette somme est arrondie au dollar supérieur dans le cas où elle comporte une partie d’un dollar égale ou supérieure à cinquante cents et au dollar inférieur dans tous les autres cas.
-> 2009, ch. 33, art. 16.
+> 2009, ch. 33, art. 16; 2016, ch. 7, art. 219.
 
 
 
@@ -5028,8 +5026,8 @@ Est exclu de la présente définition tout particulier visé par les règlements
 
 **Délai de carence**
 
-**152.15** Au cours d’une période de prestations, le travailleur indépendant n’est pas admissible au bénéfice des prestations tant qu’il ne s’est pas écoulé, à la suite de l’ouverture de cette période de prestations, un délai de carence de deux semaines qui débute par une semaine de chômage pour laquelle des prestations devraient sans cela être versées.
-> 2009, ch. 33, art. 16.
+**152.15** Au cours d’une période de prestations, le travailleur indépendant n’est pas admissible au bénéfice des prestations tant qu’il ne s’est pas écoulé, à la suite de l’ouverture de cette période de prestations, un délai de carence d’une semaine de chômage pour laquelle des prestations devraient sans cela être versées.
+> 2009, ch. 33, art. 16; 2016, ch. 7, art. 221.
 
 
 
