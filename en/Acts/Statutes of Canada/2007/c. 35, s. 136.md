@@ -39,11 +39,13 @@ Assented to on 14 December 2007
 
 - **(1)** The following definitions apply in this Act.
 
+***Canada child benefit*** means a deemed overpayment under Subdivision A.1 of Division E of Part I of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md). (*allocation canadienne pour enfants*)
+
 ***Canada Disability Savings Bond*** means the bond payable or paid under section 7. (*bon canadien pour l’épargne-invalidité*)
 
 ***Canada Disability Savings Grant*** means the grant payable or paid under section 6. (*subvention canadienne pour l’épargne-invalidité*)
 
-***child tax benefit*** means a deemed overpayment under Subdivision a.1 of Division E of Part 1 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md). (*prestation fiscale pour enfants*)
+***child tax benefit***[Repealed, 2016, c. 12, s. 114]
 
 ***contribution***[Repealed, 2010, c. 12, s. 26]
 
@@ -51,13 +53,15 @@ Assented to on 14 December 2007
 
 ***first threshold*** for a particular year means the dollar amount referred to in paragraph 117(2)(a) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), as adjusted under that Act for the particular year. (*premier seuil*)
 
-***phase-out income*** for a particular year means the amount determined by the formula
+***phase-out income*** for a particular year means
+- **(a)** if the particular year is before 2017, the amount determined by the formula
 ```
 A – (B/0.122)
 ```
 where
 - **A** is the first threshold for the particular year, and
-- **B** is the amount referred to in paragraph (a) of the description of F in subsection 122.61(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), as adjusted under that Act for the particular year. (*revenu de transition*)
+- **B** is the amount referred to in paragraph (a) of the description of F in subsection 122.61(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), as that subsection read on January 1, 2016, as adjusted under that Act for the particular year; or
+- **(b)** if the particular year is 2017 or any subsequent year, the dollar amount referred to in paragraph (a) of the description of Q in subsection 122.61(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), as adjusted under that Act for the particular year. (*revenu de transition*)
 
 ***second threshold*** for a particular year means the higher dollar amount referred to in paragraph 117(2)(b) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), as adjusted under the Act for the particular year. (*deuxième seuil*)
 
@@ -67,7 +71,7 @@ where
 	- **(a)** the expressions adjusted income, eligible individual and qualified dependant have the same meanings as in section 122.6 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md);
 	- **(b)** the expressions contribution, designated provincial program, DTC-eligible individual, holder, issuer, registered disability savings plan, specified year and specified disability savings plan have the same meanings as in section 146.4 of that Act; and
 	- **(c)** any other expression has the same meaning as in that Act.
-> 2007, c. 35, s. 136 “2”; 2010, c. 12, s. 26, c. 25, s. 166; 2011, c. 15, s. 4.
+> 2007, c. 35, s. 136 “2”; 2010, c. 12, s. 26, c. 25, s. 166; 2011, c. 15, s. 4; 2016, c. 12, s. 114.
 
 
 
@@ -117,7 +121,7 @@ where
 - **(2)** The amount of a Canada Disability Savings Grant that may be paid for a particular year is equal to
 	- **(a)** 300% of the part of the total contributions made in the particular year that is less than or equal to $500, and 200% of the part of those contributions that is more than $500 but less than or equal to $1,500, if the beneficiary is
 		- **(i)** an individual who is at least 18 years of age on December 31 of the year preceding the particular year and whose family income for the particular year is less than or equal to the second threshold for the particular year,
-		- **(ii)** a qualified dependant of an eligible individual whose adjusted income used to determine the amount of a child tax benefit in respect of January in the particular year is less than or equal to the second threshold for the particular year, or
+		- **(ii)** a qualified dependant of an eligible individual whose adjusted income used to determine the amount of a Canada child benefit in respect of January in the particular year is less than or equal to the second threshold for the particular year, or
 		- **(iii)** a person in respect of whom a special allowance under the [Children’s Special Allowances Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2048,%20Sch..md) is payable for at least one month in the particular year; or
 	- **(b)** 100% of the total contributions made in the particular year, up to a maximum of $1,000, in any other case.
 
@@ -150,7 +154,7 @@ where
 
 **No determination for January**
 
-- **(4)** If there has been no determination of eligibility for a child tax benefit in respect of January in a particular year, the adjusted income to be used for the purposes of subparagraph (2)(a)(ii) is the adjusted income used to determine the amount of a child tax benefit for the first month in the particular year in respect of which eligibility has been established.
+- **(4)** If there has been no determination of eligibility for a Canada child benefit in respect of January in a particular year, the adjusted income to be used for the purposes of subparagraph (2)(a)(ii) is the adjusted income used to determine the amount of a Canada child benefit for the first month in the particular year in respect of which eligibility has been established.
 
 **Beneficiary born in December**
 
@@ -169,7 +173,7 @@ where
 **Annual statement to plan holders**
 
 - **(9)** Once a year, the Minister shall cause each holder of a registered disability savings plan to be provided with a statement that sets out the amount of Canada Disability Savings Grants that may be paid for particular years on the basis of future contributions.
-> 2007, c. 35, s. 136 “6”; 2010, c. 12, s. 27, c. 25, s. 167; 2011, c. 15, s. 5.
+> 2007, c. 35, s. 136 “6”; 2010, c. 12, s. 27, c. 25, s. 167; 2011, c. 15, s. 5; 2016, c. 12, s. 115.
 
 
 
@@ -195,11 +199,11 @@ where
 - **(2)** The amount of a Canada Disability Savings Bond that may be paid for a particular year is
 	- **(a)** $1,000, if the beneficiary is
 		- **(i)** an individual who is at least 18 years of age on December 31 of the year preceding the particular year and whose family income for the particular year is less than or equal to the phase-out income for the particular year,
-		- **(ii)** a qualified dependant of an eligible individual whose adjusted income used to determine the amount of a child tax benefit in respect of January in the particular year is less than or equal to the phase-out income for the particular year, or
+		- **(ii)** a qualified dependant of an eligible individual whose adjusted income used to determine the amount of a Canada child benefit in respect of January in the particular year is less than or equal to the phase-out income for the particular year, or
 		- **(iii)** a person in respect of whom a special allowance under the [Children’s Special Allowances Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2048,%20Sch..md) is payable for at least one month in the particular year; or
 	- **(b)** the amount determined by the formula set out in subsection (4), if the beneficiary is
 		- **(i)** an individual who is at least 18 years of age on December 31 of the year preceding the particular year and whose family income for the particular year is more than the phase-out income for the particular year but less than the first threshold for the particular year, or
-		- **(ii)** a qualified dependant of an eligible individual whose adjusted income used to determine the amount of a child tax benefit in respect of January in the particular year is more than the phase-out income for the particular year but less than the first threshold for the particular year.
+		- **(ii)** a qualified dependant of an eligible individual whose adjusted income used to determine the amount of a Canada child benefit in respect of January in the particular year is more than the phase-out income for the particular year but less than the first threshold for the particular year.
 
 **Family income**
 
@@ -222,7 +226,7 @@ where
 
 **No determination for January**
 
-- **(6)** If there has been no determination of eligibility for a child tax benefit in respect of January in a particular year, the adjusted income to be used for the purposes of subparagraphs (2)(a)(ii) and (b)(ii) is the adjusted income used to determine the amount of a child tax benefit for the first month in the particular year in respect of which eligibility has been established.
+- **(6)** If there has been no determination of eligibility for a Canada child benefit in respect of January in a particular year, the adjusted income to be used for the purposes of subparagraphs (2)(a)(ii) and (b)(ii) is the adjusted income used to determine the amount of a Canada child benefit for the first month in the particular year in respect of which eligibility has been established.
 
 **Beneficiary born in December**
 
@@ -233,7 +237,7 @@ where
 **Lifetime cap**
 
 - **(9)** Not more than $20,000 in Canada Disability Savings Bonds may be paid in respect of a beneficiary during their lifetime.
-> 2007, c. 35, s. 136 “7”; 2010, c. 12, s. 28, c. 25, s. 168.
+> 2007, c. 35, s. 136 “7”; 2010, c. 12, s. 28, c. 25, s. 168; 2016, c. 12, s. 115.
 
 
 
