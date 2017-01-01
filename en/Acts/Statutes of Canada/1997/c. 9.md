@@ -852,9 +852,11 @@ and includes, where applicable, the land on which the facility is located, a bui
 
 - **(2)** Nothing in subsection (1) shall be construed to restrict the owner’s or person’s right of recourse against or indemnity from any other person in respect of the liability.
 
-**Liability under [Nuclear Liability Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-28.md)**
+**Liability under [Nuclear Liability and Compensation Act](/en/Acts/Statutes%20of%20Canada/2015/c.%204,%20s.%20120.md)**
 
-- **(3)** Nothing in this section shall be construed to affect the liability of an operator under the [Nuclear Liability Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-28.md).
+- **(3)** Nothing in this section shall be construed as limiting an operator’s liability under the [Nuclear Liability and Compensation Act](/en/Acts/Statutes%20of%20Canada/2015/c.%204,%20s.%20120.md).
+> 1997, c. 9, s. 42; 2015, c. 4, s. 124.
+
 
 
 
@@ -1274,11 +1276,13 @@ shall immediately notify the Commission or an appropriate authority of the locat
 
 
 
-**Application of [Nuclear Liability Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-28.md)**
+**Application of [Nuclear Liability and Compensation Act](/en/Acts/Statutes%20of%20Canada/2015/c.%204,%20s.%20120.md)**
 
 **64** Nothing in section 58, 59, 60, 62 or 63 shall be construed as restricting
-- **(a)** any right, obligation or liability of any person arising under the [Nuclear Liability Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-28.md); or
-- **(b)** the jurisdiction of a Nuclear Damage Claims Commission established under the [Nuclear Liability Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-28.md).
+- **(a)** any right, obligation or liability of any person arising under the [Nuclear Liability and Compensation Act](/en/Acts/Statutes%20of%20Canada/2015/c.%204,%20s.%20120.md); or
+- **(b)** the jurisdiction of a nuclear claims tribunal established under the [Nuclear Liability and Compensation Act](/en/Acts/Statutes%20of%20Canada/2015/c.%204,%20s.%20120.md).
+> 1997, c. 9, s. 64; 2015, c. 4, s. 125.
+
 
 
 
@@ -1775,10 +1779,7 @@ shall immediately notify the Commission or an appropriate authority of the locat
 
 
 
-
-**Nuclear installation**
-
-**82** A nuclear installation designated by the Atomic Energy Control Board for the purposes of the [Nuclear Liability Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-28.md) is deemed to have been designated for those purposes by the Canadian Nuclear Safety Commission.
+**82** [Repealed, 2015, c. 4, s. 126]
 
 
 
