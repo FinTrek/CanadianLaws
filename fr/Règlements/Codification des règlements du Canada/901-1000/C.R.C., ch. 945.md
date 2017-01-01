@@ -694,13 +694,14 @@ doit remplir à l’égard de ce paiement ou de cet avantage une déclaration de
 	- **d)** d’un paiement dont il est fait mention au paragraphe 16(1) de la Loi et qui peut raisonnablement être considéré, en partie comme un paiement d’intérêts ou comme tout autre paiement ayant un caractère de revenu et en partie comme un paiement ayant un caractère de capital, lorsqu’un tel paiement a été fait par une société, association, organisation ou institution,
 	- **e)** d’un paiement prélevé sur le second fonds du compte de stabilisation du revenu net d’une personne,
 	- **f)** d’un montant à inclure, en application du paragraphe 148.1(3) de la Loi, dans le calcul du revenu d’une personne pour une année d’imposition,
+	- **g)** de la partie du prix auquel une créance a été cédée ou autrement transférée qui est réputée par le paragraphe 20(14.2) de la Loi constituer un montant d’intérêts courus sur la créance auquel le cessionnaire a obtenu, pour une période commençant avant le moment du transfert et se terminant à ce moment, le droit et qui n’est payable qu’après ce moment si le paiement est effectué par une personne qui est une ***compagnie financière*** (à titre de principal ou de mandataire) au sens de l’article 211,
 doit remplir une déclaration de renseignements selon le formulaire prescrit à l’égard de la partie d’un tel paiement pour laquelle une déclaration de renseignements n’a pas déjà été remplie en vertu du présent article.
 
 - **(2)** Toute personne qui reçoit, à titre de mandataire ou d’agent d’une personne résidant au Canada, un versement auquel s’applique le paragraphe (1), doit remplir une déclaration de renseignements selon le formulaire prescrit à l’égard du versement ainsi reçu.
 
 - **(3)** Lorsqu’une personne négocie un coupon, un titre ou un chèque au porteur, représentant de l’intérêt ou des dividendes dont il est fait mention au paragraphe 234(1) de la Loi, pour une autre personne résidant au Canada et que le nom de la personne ayant la propriété effective de l’intérêt ou des dividendes n’est pas mentionné dans un certificat de propriété fourni conformément à ce paragraphe, la personne qui négocie le coupon, le titre ou le chèque, selon le cas, doit remplir une déclaration de renseignements selon le formulaire prescrit à l’égard du paiement reçu.
 
-- **(4)** La personne ou la société de personnes qui, au cours d’une année civile, est débitrice relativement à une créance à laquelle le paragraphe 12(4) de la Loi et l’alinéa (1)b) s’appliquent quant à un contribuable doit remplir, sur le formulaire prescrit, une déclaration de renseignements à l’égard du montant qui, si l’année en question était une année d’imposition du contribuable, serait inclus à titre d’intérêts sur la créance dans le calcul du revenu de celui-ci pour l’année.
+- **(4)** La personne ou la société de personnes qui, au cours d’une année civile, est débitrice relativement à une créance à laquelle le paragraphe 12(4) de la Loi et l’alinéa (1)b) s’appliquent quant à un contribuable doit remplir, sur le formulaire prescrit, une déclaration de renseignements à l’égard du montant (à l’exception d’un montant auquel l’alinéa (1)g) s’applique) qui, si l’année était une année d’imposition du contribuable, serait inclus à titre d’intérêts sur la créance dans le calcul du revenu de celui-ci pour l’année.
 
 - **(4.1)** La personne ou la société de personnes qui, au cours d’une année civile, est débitrice relativement à un titre de créance indexé auquel l’alinéa (1)b) s’applique doit remplir, sur le formulaire prescrit, pour chaque contribuable qui détient un intérêt dans la créance au cours de l’année, une déclaration de renseignements à l’égard du montant qui, si l’année en question était une année d’imposition du contribuable, serait inclus à titre d’intérêts sur la créance dans le calcul du revenu de celui-ci pour l’année.
 
@@ -720,7 +721,7 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit à 
 	- **a)** des titres de créance rachetés à leur prix d’émission;
 	- **b)** des créances visées à l’alinéa 7000(1)b);
 	- **c)** des coupons, titres ou chèques visés au paragraphe 207(1).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-939, art. 2; DORS/83-866, art. 2; DORS/83-867, art. 2; DORS/86-426, art. 1; DORS/86-1092, art. 1(F); DORS/88-165, art. 31(F); DORS/88-554, art. 1; DORS/91-123, art. 1; DORS/93-527, art. 1; DORS/94-686, art. 1(F), 78(F) et 79(F); DORS/96-283, art. 1; DORS/96-435, art. 1; DORS/2010-93, art. 1; 2013, ch. 40, art. 96.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-939, art. 2; DORS/83-866, art. 2; DORS/83-867, art. 2; DORS/86-426, art. 1; DORS/86-1092, art. 1(F); DORS/88-165, art. 31(F); DORS/88-554, art. 1; DORS/91-123, art. 1; DORS/93-527, art. 1; DORS/94-686, art. 1(F), 78(F) et 79(F); DORS/96-283, art. 1; DORS/96-435, art. 1; DORS/2010-93, art. 1; 2013, ch. 40, art. 96; 2016, ch. 12, art. 74.
 
 
 
@@ -1567,33 +1568,34 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 
 ***négociant ou courtier en valeurs***
 - **a)** Personne agréée ou titulaire d’un permis qui est autorisée par la législation d’une province à pratiquer le commerce de titres;
-- **b)** personne qui, dans le cours normal des activités de son entreprise, vend des titres en tant que mandataire. (*trader or dealer in securities*)
+- **b)** personne qui, dans le cours normal des activités de son entreprise, vend des titres en tant que mandataire. (*trader or dealer in securities*)
 
-***négocié sur le marché*** Se dit d’un titre :
+***négocié sur le marché*** Se dit d’un titre :
 - **a)** soit qui est coté ou négociable à une bourse, notamment une bourse de valeurs, une bourse de marchandises ou un marché à terme;
-- **b)** soit pour la vente et le placement duquel un prospectus, une déclaration d’enregistrement ou un document analogue a été produit auprès d’un organisme public. (*publicly traded*)
+- **b)** soit pour la vente et le placement duquel un prospectus, une déclaration d’enregistrement ou un document analogue a été produit auprès d’un organisme public. (*publicly traded*)
 
 ***titre***
 - **a)** Action, négociée sur le marché, du capital-actions d’une société;
 - **b)** titre de créance négocié sur le marché;
-- **c)** titre de créance émis ou garanti par :
+- **c)** titre de créance émis ou garanti par :
 	- **(i)** le gouvernement du Canada,
 	- **(ii)** le gouvernement d’une province ou son mandataire,
 	- **(iii)** une municipalité du Canada,
 	- **(iv)** un organisme municipal ou public qui exerce des fonctions gouvernementales au Canada,
 	- **(v)** le gouvernement d’un pays étranger ou une division politique ou administrative de ce pays;
+- **c.1)** un titre de créance qui est, à un moment donné, visé à l’alinéa 7000(1)d);
 - **d)** participation, négociée sur le marché, dans une fiducie;
 - **e)** participation, négociée sur le marché, dans une société de personnes;
 - **f)** option ou contrat concernant un bien visé à l’un des alinéas a) à e);
-- **g)** option ou contrat, négociés sur le marché, sur des biens, notamment des marchandises, des titres financiers à terme, des devises étrangères, des métaux précieux ou un indice sur des biens. (*security*)
+- **g)** option ou contrat, négociés sur le marché, sur des biens, notamment des marchandises, des titres financiers à terme, des devises étrangères, des métaux précieux ou un indice sur des biens. (*security*)
 
-***vente*** Sont assimilés à la vente l’octroi d’une option et la vente à découvert. (*sale*)
+***vente*** Sont assimilés à la vente l’octroi d’une option et la vente à découvert. (*sale*)
 
 - **(2)** Le négociant ou le courtier en valeurs qui, au cours de l’année civile, achète des titres en tant que souscripteur ou en vend en tant que mandataire est tenu de remplir, sur le formulaire prescrit, une déclaration de renseignements pour l’année concernant l’achat ou la vente.
 
 - **(3)** La personne — à l’exclusion du particulier qui n’est pas une fiducie — qui, au cours d’une année civile, rachète, acquiert ou annule de quelque façon que ce soit des titres qu’elle a émis doit remplir, sur le formulaire prescrit, une déclaration de renseignements pour l’année concernant chacune de ces opérations, à l’exception de celles auxquelles s’appliquent les articles 51, 51.1, 86 — dans le cas où de nouvelles actions sont la seule contrepartie à recevoir — ou 87 ou les paragraphes 98(3) ou (6) de la Loi.
 
-- **(4)** Le paragraphe (3) s’applique :
+- **(4)** Le paragraphe (3) s’applique :
 	- **a)** à Sa Majesté du chef du Canada ou d’une province;
 	- **b)** à un organisme municipal ou public qui exerce des fonctions gouvernementales au Canada;
 	- **c)** au mandataire de la personne visée aux alinéas a) ou b).
@@ -1602,17 +1604,17 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 
 - **(6)** La personne qui, agissant à titre d’agent ou de mandataire, effectue en son propre nom une vente ou toute autre opération visée aux paragraphes (2), (3) ou (5) et reçoit le produit résultant de la vente ou de l’opération, doit remplir, sur le formulaire prescrit, une déclaration de renseignements concernant la vente ou l’opération.
 
-- **(7)** Le présent article ne s’applique pas :
+- **(7)** Le présent article ne s’applique pas :
 	- **a)** à l’achat d’un titre par le négociant ou le courtier en valeurs d’un autre négociant ou courtier en valeurs (sauf un négociant ou courtier en valeurs non résidant);
 	- **b)** à la vente de devises ou de métaux précieux sous forme de bijoux, d’oeuvres d’art ou de pièces ayant une valeur numismatique;
 	- **c)** à la vente de métaux précieux par la personne qui, dans le cours normal des activités de son entreprise, produit ou vend des métaux précieux en vrac ou en quantités commerciales;
 	- **d)** à la vente de titres par le négociant ou le courtier en valeurs pour le compte d’une personne exonérée de l’impôt prévu à la partie I de la Loi;
-	- **e)** au rachat d’un titre de créance par l’émetteur ou son mandataire si, à la fois :
+	- **e)** au rachat d’un titre de créance par l’émetteur ou son mandataire si, à la fois :
 		- **(i)** le titre de créance a été émis pour un montant correspondant à son principal,
 		- **(ii)** le rachat permet à l’émetteur de remplir toutes ses obligations à l’égard du titre de créance,
 		- **(iii)** chaque personne qui a un droit sur le titre de créance a droit à des paiements de principal dans la même proportion que son droit à tout autre paiement,
 		- **(iv)** une déclaration de renseignements doit être remplie pour chaque personne qui, en application d’un autre article de la présente partie, a un droit sur le titre de créance.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/89-519, art. 2; DORS/94-686, art. 54(F), 78(F) et 79(F); DORS/2003-5, art. 9.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/89-519, art. 2; DORS/94-686, art. 54(F), 78(F) et 79(F); DORS/2003-5, art. 9; 2016, ch. 12, art. 75.
 
 
 
@@ -2803,10 +2805,10 @@ où :
 
 **600** Les dispositions visées aux alinéas 220(3.2)a) et b) de la Loi sont les suivantes :
 - **a)** l’article 21 de la Loi;
-- **b)** les paragraphes 13(4), (7.4) et (29), 14(6), 20(24), 44(1) et (6), 45(2) et (3), 50(1), 53(2.1), 56.4(13), 70(6.2), (9.01), (9.11), (9.21) et (9.31), 72(2), 73(1), 80.1(1), 82(3), 83(2), 104(14), 107(2.001), 143(2), 146.01(7), 146.02(7), 164(6) et (6.1), 184(3), 251.2(6) et 256(9) de la Loi;
+- **b)** les paragraphes 13(4), (7.4) et (29), 20(24), 44(1) et (6), 45(2) et (3), 50(1), 53(2.1), 56.4(13), 70(6.2), (9.01), (9.11), (9.21) et (9.31), 72(2), 73(1), 80.1(1), 82(3), 83(2), 104(14), 107(2.001), 143(2), 146.01(7), 146.02(7), 164(6) et (6.1), 184(3), 251.2(6) et 256(9) de la Loi;
 - **c)** les alinéas 12(2.2)b), 66.7(7)c), d) et e) et (8)c), d) et e), 80.01(4)c), 86.1(2)f) et 128.1(4)d), (6)a) et c), (7)d) et g) et (8)c) de la Loi;
 - **d)** les paragraphes 1103(1), (2) et (2d) et 5907(2.1) du présent règlement.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-265, art. 1; DORS/93-530, art. 1; DORS/95-367, art. 1; DORS/96-128, art. 1; DORS/97-471, art. 1; DORS/99-17, art. 7; DORS/2001-216, art. 2; DORS/2002-144, art. 1; DORS/2005-123, art. 3; DORS/2005-185, art. 3; DORS/2006-200, art. 1; DORS/2010-96, art. 1; 2013, ch. 34, art. 382, ch. 40, art. 98.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-265, art. 1; DORS/93-530, art. 1; DORS/95-367, art. 1; DORS/96-128, art. 1; DORS/97-471, art. 1; DORS/99-17, art. 7; DORS/2001-216, art. 2; DORS/2002-144, art. 1; DORS/2005-123, art. 3; DORS/2005-185, art. 3; DORS/2006-200, art. 1; DORS/2010-96, art. 1; 2013, ch. 34, art. 382, ch. 40, art. 98; 2016, ch. 12, art. 76.
 
 
 
@@ -3006,13 +3008,13 @@ que représente le rapport entre la quantité visée au sous-alinéa (iv) et cel
 		- **(iii)** des avoirs miniers canadiens, ou
 		- **(iv)** des terrains dont le coût est ou a été déductible lors du calcul du revenu de la société,
 	- **b)** un montant égal au total du coût indiqué, pour la société, immédiatement après la fin de l’année, de chaque bien amortissable qu’elle possède au Canada afin de tirer un revenu d’une entreprise exploitée par elle au Canada, ou de lui faire produire un revenu,
-	- **c)** un montant égal aux 4/3 du montant cumulatif des immobilisations admissibles de la société, immédiatement après la fin de l’année, au titre de chaque entreprise qu’elle exploite au Canada,
+	- **c)** [Abrogé, 2016, ch. 12, art. 77]
 	- **d)** lorsque la société n’est pas une société exploitant une entreprise principale, au sens du paragraphe 66(15) de la Loi, une somme égale au total des frais suivants :
 		- **(i)** les frais d’exploration et d’aménagement au Canada engagés par la société avant la fin de l’année, dans la mesure où ils n’ont pas été déduits dans le calcul du revenu de la société pour l’année ou pour une année d’imposition antérieure,
 		- **(ii)** les frais cumulatifs d’exploration au Canada, au sens du paragraphe 66.1(6) de la Loi, à la fin de l’année, moins toute somme déduite en application du paragraphe 66.1(3) de la Loi dans le calcul du revenu de la société pour l’année;
 	- **d.1)** une somme égale aux frais cumulatifs d’aménagement au Canada de la société, au sens du paragraphe 66.2(5) de la Loi, à la fin de l’année, moins toute somme déduite en application du paragraphe 66.2(2) de la Loi dans le calcul du revenu de la société pour l’année;
 	- **d.2)** une somme égale aux frais cumulatifs à l’égard de biens canadiens relatifs au pétrole et au gaz de la société, au sens du paragraphe 66.4(5) de la Loi, à la fin de l’année, moins toute somme déduite en application du paragraphe 66.4(2) de la Loi dans le calcul du revenu de la société pour l’année;
-	- **e)** un montant égal au total du coût indiqué, pour la société à la fin de l’année, de chaque créance à recouvrer par elle, ou de tout autre droit de la société de recevoir un montant, qui était impayé par la suite de la disposition par elle de biens à l’égard desquels un montant serait inclus, en vertu de l’alinéa a), b), c) ou h) dans ses investissements admissibles dans des biens situés au Canada, à la fin de l’année si les biens n’avaient pas fait l’objet d’une disposition par elle avant la fin de l’année,
+	- **e)** un montant égal au total du coût indiqué, pour la société à la fin de l’année, de chaque créance à recouvrer par elle, ou de tout autre droit de la société de recevoir un montant, qui était impayé par la suite de la disposition par elle de biens à l’égard desquels un montant serait inclus, en vertu de l’alinéa a), b) ou h) dans ses investissements admissibles dans des biens situés au Canada, à la fin de l’année si les biens n’avaient pas fait l’objet d’une disposition par elle avant la fin de l’année,
 	- **f)** un montant égal au total du coût indiqué, pour la société, à la fin de l’année, de chaque bien, autre que des avoirs miniers canadiens, qui figurait à l’inventaire de la société à l’égard d’une entreprise exploitée par elle au Canada,
 	- **g)** un montant égal au total du coût indiqué, pour la société, à la fin de l’année, de chaque créance (autre qu’une créance visée à l’alinéa e) ou une créance dont le montant a été déduit en vertu de l’alinéa 20(1)p) de la Loi lors du calcul du revenu de la société pour l’année) à recouvrer par elle
 		- **(i)** à l’égard de toute transaction en vertu de laquelle un montant a été inclus lors du calcul de son revenu pour l’année ou pour une année antérieure, d’une entreprise exploitée par elle au Canada, ou
@@ -3025,7 +3027,7 @@ qui est en sus du total obtenu en additionnant
 	- **l)** un montant égal au total de chaque montant que doit la société à la fin de l’année au titre
 		- **(i)** du prix d’achat de biens qui sont visés aux alinéas a), b) ou f) ou qui le seraient s’ils n’avaient pas fait l’objet d’une disposition avant la fin de l’année,
 		- **(ii)** de frais d’exploration et d’aménagement au Canada, de frais d’exploration au Canada, de frais d’aménagement au Canada ou de frais à l’égard de biens canadiens relatifs au pétrole et au gaz,
-		- **(iii)** de dépenses en capital admissible faite ou supportée par la société avant la fin de l’année à l’égard d’une entreprise exploitée par elle au Canada, ou
+		- **(iii)** [Abrogé, 2016, ch. 12, art. 77]
 		- **(iv)** de toute autre dépense engagée ou effectuée par la société dans la mesure où elle a été déduite lors du calcul de son revenu pour l’année ou pour une année d’imposition antérieure, tiré d’une entreprise exploitée par elle au Canada;
 	- **m)** un montant égal au total de tous les montants dont chacun est égal à la proportion du montant dû (sauf un montant dû au titre de dépenses visées à l’alinéa l)) par la société à la fin de l’année au titre d’un engagement en cours à un moment quelconque de l’année à l’égard duquel il est stipulé qu’elle doit payer l’intérêt qui équivaut au rapport entre
 		- **(i)** l’intérêt payé ou payable par la société sur l’engagement pour l’année et qui est déductible, ou le serait si ce n’était du paragraphe 18(2), (3.1) ou (4) ou de l’article 21 de la Loi, dans le calcul de son revenu pour l’année tiré d’une entreprise qu’elle exploite au Canada, et
@@ -3126,7 +3128,7 @@ où :
 - **AS** la valeur de l’élément AS des formules figurant au paragraphe 20.2(3) de la Loi pour la période,
 				- **(II)** la somme demandée par la banque selon la division 20.2(3)b)(ii)(A) de la Loi;
 	- **b)** le total des sommes représentant chacune une somme qui serait déterminée selon les alinéas (2)j), k), n) ou o) si ces dispositions s’appliquaient à la banque pour l’année, sauf dans la mesure où le montant correspond à une dette de la banque qui est incluse à l’élément D des formules figurant au paragraphe 20.2(3) de la Loi pour la dernière période de calcul de la banque pour l’année.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-656, art. 2; DORS/84-948, art. 4; DORS/90-258, art. 1; DORS/91-78, art. 2; DORS/93-395, art. 1; DORS/94-686, art. 8(F), 47, 58 à 61(F), 62, 63 à 65(F), 78(F), 79(F) et 81(F); DORS/2009-302, art. 7; DORS/2010-93, art. 11.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-656, art. 2; DORS/84-948, art. 4; DORS/90-258, art. 1; DORS/91-78, art. 2; DORS/93-395, art. 1; DORS/94-686, art. 8(F), 47, 58 à 61(F), 62, 63 à 65(F), 78(F), 79(F) et 81(F); DORS/2009-302, art. 7; DORS/2010-93, art. 11; 2016, ch. 12, art. 77.
 
 
 
@@ -3246,7 +3248,7 @@ et le produit de la multiplication faite aux termes de l’alinéa d) est le mon
 
 **1100** 
 
-- **(1)** Pour l’application des alinéas 8(1)j) et p) et de l’alinéa 20(1)a) de la Loi, un contribuable peut déduire dans le calcul de son revenu pour chaque année d’imposition des montants correspondant :
+- **(1)** Pour l’application des alinéas 8(1)j) et p) et de l’alinéa 20(1)a) de la Loi, un contribuable peut déduire dans le calcul de son revenu pour chaque année d’imposition des montants correspondant :
 
 #### Taux
 
@@ -3264,6 +3266,7 @@ et le produit de la multiplication faite aux termes de l’alinéa d) est le mon
 		- **(x.1)** de la catégorie 10.1, 30 pour cent,
 		- **(xi)** de la catégorie 11, 35 pour cent,
 		- **(xii)** de la catégorie 12, 100 pour cent,
+		- **(xii.1)** de la catégorie 14.1, 5 pour cent,
 		- **(xiii)** de la catégorie 16, 40 pour cent,
 		- **(xiv)** de la catégorie 17, 8 pour cent,
 		- **(xv)** de la catégorie 18, 60 pour cent,
@@ -3301,13 +3304,13 @@ de la fraction non amortie du coût en capital, pour lui, des biens de la catég
 
 	- **a.1)** lorsqu’un bien du contribuable qui est un bâtiment est compris dans une catégorie distincte par l’effet du paragraphe 1101(5b.1) et qu’au moins 90 pour cent de l’aire de plancher du bâtiment est utilisée, à la fin de l’année d’imposition, pour la fabrication ou la transformation au Canada de marchandises destinées à la vente ou à la location, à la somme qu’il demande jusqu’à concurrence de 6 pour cent de la fraction non amortie du coût en capital, pour lui, des biens de cette catégorie à la fin de l’année (avant toute déduction prévue par le présent paragraphe pour l’année);
 	- **a.2)** lorsqu’un bien du contribuable qui est un bâtiment est compris dans une catégorie distincte par l’effet du paragraphe 1101(5b.1), qu’au moins 90 pour cent de l’aire de plancher du bâtiment est utilisée, à la fin de l’année d’imposition, à une fin non résidentielle au Canada et que le bien ne donne pas droit pour l’année à la déduction additionnelle prévue à l’alinéa a.1), à la somme qu’il demande jusqu’à concurrence de 2 pour cent de la fraction non amortie du coût en capital, pour lui, des biens de cette catégorie à la fin de l’année (avant toute déduction prévue par le présent paragraphe pour l’année);
-	- **a.3)** au montant supplémentaire qu’il peut déduire à l’égard de biens qui sont utilisés à titre de partie d’une installation de liquéfaction admissible et qui, aux termes du paragraphe 1101(5b.2), font partie d’une catégorie distincte, sans dépasser le moins élevé des montants suivants :
-		- **(i)** son revenu pour l’année tiré de ses activités de liquéfaction admissibles relativement à l’installation de liquéfaction admissible (compte tenu de toute déduction prévue à l’alinéa yb) et avant toute déduction prévue au présent alinéa),
+	- **a.3)** au montant supplémentaire qu’il peut déduire à l’égard de biens qui sont utilisés à titre de partie d’une installation de liquéfaction admissible et qui, aux termes du paragraphe 1101(5b.2), font partie d’une catégorie distincte, sans dépasser le moins élevé des montants suivants :
+		- **(i)** son revenu pour l’année tiré de ses activités de liquéfaction admissibles relativement à l’installation de liquéfaction admissible (compte tenu de toute déduction prévue à l’alinéa yb) et avant toute déduction prévue au présent alinéa),
 		- **(ii)** 6 % de la fraction non amortie du coût en capital, pour lui, des biens de cette catégorie distincte à la fin de l’année (avant toute déduction prévue au présent paragraphe pour l’année);
 
 #### Catégorie 13
 
-	- **b)** au montant qu’il peut réclamer au titre du coût en capital, pour lui, d’un bien de la catégorie 13 de l’annexe II, sans dépasser :
+	- **b)** au montant qu’il peut réclamer au titre du coût en capital, pour lui, d’un bien de la catégorie 13 de l’annexe II, sans dépasser :
 		- **(i)** dans le cas où le coût en capital du bien, sauf un bien visé aux sous-alinéas (2)a)(v), (vi) ou (vii), a été engagé au cours de l’année d’imposition et après le 12 novembre 1981, 50 pour cent du montant calculé pour l’année en conformité avec l’annexe III,
 		- **(ii)** dans les autres cas, le montant calculé pour l’année en conformité avec l’annexe III,
 pour l’application du présent alinéa et de l’annexe III, le coût en capital d’un bien pour un contribuable est réputé avoir été engagé au moment où le bien est devenu prêt à être mis en service par le contribuable;
@@ -3317,6 +3320,22 @@ pour l’application du présent alinéa et de l’annexe III, le coût en capit
 	- **c)** au montant qu’il peut réclamer à l’égard de biens de la catégorie 14 de l’annexe II sans dépasser le moindre
 		- **(i)** de l’ensemble des montants obtenus pour l’année en répartissant ce que chacun des biens lui a coûté en capital sur la durée utile restant aux biens au moment où le coût a été encouru, et
 		- **(ii)** du coût en capital non déprécié, pour lui, des biens de la catégorie à la fin de l’année d’imposition (avant d’opérer quelque déduction en vertu du présent paragraphe pour l’année d’imposition);
+
+#### Déductions supplémentaires — catégorie 14.1
+
+	- **c.1)** pour les années d’imposition se terminant avant 2027, à la somme supplémentaire qu’il peut demander à l’égard de biens de la catégorie 14.1 de l’annexe II et qui n’est supérieure à aucune des sommes suivantes :
+		- **(i)** 2 % de l’excédent de la fraction non amortie du coût en capital des biens de la catégorie au début du 1<sup>er</sup> janvier 2017 sur le total des sommes dont chacune représente :
+			- **(A)** une déduction prise en application de l’alinéa 20(1)a) de la Loi relativement à la catégorie pour une année d’imposition antérieure,
+			- **(B)** le triple du coût en capital d’un bien réputé, par le paragraphe 13(39) de la Loi, être acquis par le contribuable au cours de l’année ou d’une année antérieure,
+		- **(ii)** la somme obtenue par la formule suivante :
+```
+A – B
+```
+où :
+- **A** représente la moins élevée des sommes suivantes :
+		- **(A)** 500 $,
+		- **(B)** la fraction non amortie du coût en capital des biens de la catégorie pour le contribuable à la fin de l’année (avant qu’une déduction ne soit prise en application de l’alinéa 20(1)a) de la Loi relativement à la catégorie pour l’année);
+- **B** le total des sommes déductibles pour l’année en application de l’alinéa 20(1)a) de la Loi relativement à la catégorie par l’effet des sous-alinéa (i) ou a)(xii.1);
 
 #### En remplacement de la double dépréciation
 
@@ -3349,7 +3368,7 @@ pour l’application du présent alinéa et de l’annexe III, le coût en capit
 
 #### Déductions supplémentaires — Productions portant visa
 
-	- **l)** au montant supplémentaire qu’il peut réclamer à l’égard de biens pour lesquels une catégorie distincte est prescrite par le paragraphe 1101(5k), ne dépassant pas le moins élevé des montants suivants :
+	- **l)** au montant supplémentaire qu’il peut réclamer à l’égard de biens pour lesquels une catégorie distincte est prescrite par le paragraphe 1101(5k), ne dépassant pas le moins élevé des montants suivants :
 		- **(i)** le total du revenu qu’il tire de ces biens et des biens visés à l’alinéa n) de la catégorie 12 de l’annexe II, calculé avant d’effectuer toute déduction en vertu du présent alinéa,
 		- **(ii)** la fraction non amortie du coût en capital, supporté par lui, des biens de cette catégorie distincte à la fin de l’année avant d’effectuer toute déduction en vertu du présent alinéa pour l’année;
 
@@ -3400,7 +3419,7 @@ mais l’ensemble des montants déductibles pour une année d’imposition à l�
 sans dépasser le moindre,
 		- **(iv)** lorsque les biens sont compris dans la catégorie 3, 22 pour cent de leur coût en capital, lorsque les biens sont compris dans la catégorie 6, 20 pour cent de leur coût en capital ou, lorsque les biens sont compris la catégorie 8,
 			- **(A)** 14 pour cent de leur coût en capital dans le cas de biens mentionnés à la disposition (i)(C), (D) ou (F), et
-			- **(B)** 14 pour cent de leur coût en capital ou 15 000 $ si ce dernier montant est inférieur, dans le cas de biens décrits dans la disposition (i)(E), et
+			- **(B)** 14 pour cent de leur coût en capital ou 15 000 $ si ce dernier montant est inférieur, dans le cas de biens décrits dans la disposition (i)(E), et
 		- **(v)** la fraction non amortie du coût en capital pour lui, à la fin de l’année d’imposition (avant d’opérer quelque déduction en vertu du présent alinéa pour l’année d’imposition), des biens de la catégorie;
 
 #### Catégories 24, 27, 29 et 34
@@ -3432,18 +3451,18 @@ et, aux fins du présent alinéa et de l’alinéa t), l’expression ***biens d
 		- **(iii)** les biens de la catégorie acquis par lui avant le 13 novembre 1981,
 		- **(iv)** les biens réputés être des biens désignés de la catégorie en vertu de l’alinéa (2.1)g) ou (2.2)j),
 		- **(v)** les biens visés aux sous-alinéas (2)a)(v), (vi) ou (vii),
-pour l’application du présent alinéa :
+pour l’application du présent alinéa :
 		- **(vi)** ***opération désignée*** s’entend d’une opération à laquelle s’appliquent les paragraphes 85(5), 87(1), 88(1), 97(4) ou 98(3) ou (5) de la Loi,
 		- **(vii)** sous réserve de l’alinéa (2.2)j), un bien est réputé avoir été acquis par un contribuable au moment où il est devenu prêt à être mis en service par celui-ci;
 	- **u)** [Abrogé, DORS/78-377, art. 3]
 
 #### Navires canadiens
 
-	- **v)** au montant qu’il peut réclamer relativement à un bien qui consiste en :
+	- **v)** au montant qu’il peut réclamer relativement à un bien qui consiste en :
 		- **(i)** un navire visé au paragraphe 1101(2a),
 		- **(ii)** un bien compris dans une catégorie prescrite distincte par l’effet du paragraphe 13(14) de la Loi,
 		- **(iii)** un bien qui a été constitué en catégorie prescrite en vertu du paragraphe 24(2) du chapitre 91 des Statuts du Canada de 1966-67,
-lequel montant ne peut toutefois dépasser le moins élevé des montants suivants :
+lequel montant ne peut toutefois dépasser le moins élevé des montants suivants :
 		- **(iv)** dans le cas d’un bien, sauf un bien visé aux sous-alinéas (2)a)(v), (vi) ou (vii), qui a été acquis au cours de l’année d’imposition et après le 12 novembre 1981, 16 2/3 pour cent du coût en capital du bien pour le contribuable; dans les autres cas, 33 1/3 pour cent de ce coût,
 		- **(v)** la fraction non amortie du coût en capital, pour le contribuable, des biens de la catégorie à la fin de l’année d’imposition avant d’opérer toute déduction en vertu du présent alinéa pour l’année,
 pour l’application du sous-alinéa (iv), un bien est réputé avoir été acquis par un contribuable au moment où il est devenu prêt à être mis en service par celui-ci pour l’application de la Loi;
@@ -3463,7 +3482,7 @@ pour l’application du sous-alinéa (iv), un bien est réputé avoir été acqu
 
 #### Déductions supplémentaires — Catégorie 41
 
-	- **y)** au montant supplémentaire qu’il peut réclamer à l’égard des biens acquis dans le but de tirer un revenu d’une mine et pour lesquels le paragraphe 1101(4c) prescrit une catégorie distincte, ne dépassant pas le moins élevé des deux montants suivants :
+	- **y)** au montant supplémentaire qu’il peut réclamer à l’égard des biens acquis dans le but de tirer un revenu d’une mine et pour lesquels le paragraphe 1101(4c) prescrit une catégorie distincte, ne dépassant pas le moins élevé des deux montants suivants :
 		- **(i)** son revenu pour l’année d’imposition tiré de la mine, déterminé avant toute déduction visée au présent alinéa, aux alinéas x), ya), ya.1) ou ya.2), aux articles 65, 66, 66.1, 66.2 ou 66.7 de la Loi ou à l’article 29 des [Règles concernant l’application de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%202%20(5e%20suppl.).md),
 		- **(ii)** la fraction non amortie du coût en capital, pour lui, des biens de cette catégorie à la fin de l’année d’imposition (calculée sans tenir compte du paragraphe (2) et avant d’effectuer toute déduction en vertu du présent alinéa pour l’année d’imposition);
 
@@ -3488,7 +3507,7 @@ où :
 	- **(v)** la proportion de 30 % que représente le rapport entre le nombre de jours de l’année d’imposition qui sont en 2014 et le nombre total de jours de l’année d’imposition,
 	- **(vi)** 0 % pour le ou les jours de l’année d’imposition qui sont postérieurs à 2014;
 
-#### Déductions supplémentaires  —  catégorie 41.2  —  biens relatifs à une seule mine
+#### Déductions supplémentaires — catégorie 41.2 — biens relatifs à une seule mine
 
 	- **y.2)** au montant supplémentaire qu’il peut déduire à l’égard de biens acquis dans le but de tirer un revenu d’une mine et qui, aux termes du paragraphe 1101(4g), font partie d’une catégorie distincte, ne dépassant pas la somme obtenue par la formule suivante :
 ```
@@ -3508,7 +3527,7 @@ où :
 	- **(iv)** la proportion de 60 % que représente le rapport entre le nombre de jours de l’année d’imposition qui sont en 2019 et le nombre total de jours de l’année d’imposition,
 	- **(v)** la proportion de 30 % que représente le rapport entre le nombre de jours de l’année d’imposition qui sont en 2020 et le nombre total de jours de l’année d’imposition,
 	- **(vi)** 0 % pour le ou les jours de l’année d’imposition qui sont postérieurs à 2020;
-	- **ya)** au montant supplémentaire qu’il peut réclamer à l’égard des biens acquis dans le but de tirer un revenu de plus d’une mine et pour lesquels le paragraphe 1101(4d) prescrit une catégorie distincte, ne dépassant pas le moins élevé des deux montants suivants :
+	- **ya)** au montant supplémentaire qu’il peut réclamer à l’égard des biens acquis dans le but de tirer un revenu de plus d’une mine et pour lesquels le paragraphe 1101(4d) prescrit une catégorie distincte, ne dépassant pas le moins élevé des deux montants suivants :
 		- **(i)** son revenu pour l’année tiré des mines, déterminé avant toute déduction visée au présent alinéa, aux articles 65, 66, 66.1, 66.2 ou 66.7 de la Loi ou à l’article 29 des [Règles concernant l’application de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%202%20(5e%20suppl.).md),
 		- **(ii)** la fraction non amortie du coût en capital, pour lui, des biens de cette catégorie à la fin de l’année d’imposition (calculée sans tenir compte du paragraphe (2) et avant d’effectuer toute déduction en vertu du présent alinéa pour l’année d’imposition);
 
@@ -3533,7 +3552,7 @@ où :
 	- **(v)** la proportion de 30 % que représente le rapport entre le nombre de jours de l’année d’imposition qui sont en 2014 et le nombre total de jours de l’année d’imposition,
 	- **(vi)** 0 % pour le ou les jours de l’année d’imposition qui sont postérieurs à 2014;
 
-#### Déductions supplémentaires  —  catégorie 41.2  —  biens relatifs à plusieurs mines
+#### Déductions supplémentaires — catégorie 41.2 — biens relatifs à plusieurs mines
 
 	- **ya.2)** au montant supplémentaire qu’il peut déduire à l’égard de biens acquis dans le but de tirer un revenu de plusieurs mines et qui, aux termes du paragraphe 1101(4h), font partie d’une catégorie distincte, ne dépassant pas la somme obtenue par la formule suivante :
 ```
@@ -3557,7 +3576,7 @@ où :
 #### Déduction supplémentaire — catégorie 47
 
 	- **yb)** au montant supplémentaire qu’il peut déduire à l’égard de biens qui sont utilisés à titre de partie d’une installation de liquéfaction admissible et qui, aux termes du paragraphe 1101(4i), font partie d’une catégorie distincte, sans dépasser le moins élevé des montants suivants :
-		- **(i)** son revenu pour l’année tiré de ses activités de liquéfaction admissibles relativement à l’installation de liquéfaction admissible (compte tenu de toute déduction prévue à l’alinéa a.3) et avant toute déduction prévue au présent alinéa),
+		- **(i)** son revenu pour l’année tiré de ses activités de liquéfaction admissibles relativement à l’installation de liquéfaction admissible (compte tenu de toute déduction prévue à l’alinéa a.3) et avant toute déduction prévue au présent alinéa),
 		- **(ii)** 22 % de la fraction non amortie du coût en capital, pour lui, des biens de cette catégorie distincte à la fin de l’année (avant toute déduction prévue au présent paragraphe pour l’année);
 
 #### Déductions supplémentaires — Voitures de chemin de fer
@@ -3569,10 +3588,10 @@ où :
 
 #### Déductions supplémentaires — Voies de chemin de fer et biens connexes
 
-	- **za)** au montant supplémentaire qu’il peut réclamer pour des biens pour lesquels une catégorie distincte est prescrite par le paragraphe 1101(5e) sans dépasser 4 % de la fraction non amortie du coût en capital qu’il a supporté pour les biens de cette catégorie à la fin de l’année d’imposition (avant d’effectuer pour l’année d’imposition toute déduction visée au présent paragraphe);
+	- **za)** au montant supplémentaire qu’il peut réclamer pour des biens pour lesquels une catégorie distincte est prescrite par le paragraphe 1101(5e) sans dépasser 4 % de la fraction non amortie du coût en capital qu’il a supporté pour les biens de cette catégorie à la fin de l’année d’imposition (avant d’effectuer pour l’année d’imposition toute déduction visée au présent paragraphe);
 	- **za.1)** lorsqu’il est, tout au long de l’année d’imposition, un voiturier public qui exploite un chemin de fer et en est propriétaire, au montant supplémentaire qu’il peut réclamer à l’égard de biens pour lesquels une catégorie distincte est prescrite par le paragraphe 1101(5e.1), sans dépasser 6 pour cent de la fraction non amortie du coût en capital, pour lui, des biens de cette catégorie à la fin de l’année avant d’opérer toute déduction en vertu du présent paragraphe pour l’année;
 	- **za.2)** lorsqu’il est, tout au long de l’année d’imposition, un voiturier public qui exploite un chemin de fer et en est propriétaire, au montant supplémentaire qu’il peut réclamer à l’égard de biens pour lesquels une catégorie distincte est prescrite par le paragraphe 1101(5e.2), sans dépasser 5 pour cent de la fraction non amortie du coût en capital, pour lui, des biens de cette catégorie à la fin de l’année avant d’opérer toute déduction en vertu du présent paragraphe pour l’année;
-	- **zb)** au montant supplémentaire qu’il peut réclamer pour des biens pour lesquels une catégorie distincte est prescrite par le paragraphe 1101(5f) sans dépasser 3 % de la fraction non amortie du coût en capital qu’il a supporté pour les biens de cette catégorie à la fin de l’année d’imposition (avant d’effectuer pour l’année d’imposition toute déduction visée au présent paragraphe);
+	- **zb)** au montant supplémentaire qu’il peut réclamer pour des biens pour lesquels une catégorie distincte est prescrite par le paragraphe 1101(5f) sans dépasser 3 % de la fraction non amortie du coût en capital qu’il a supporté pour les biens de cette catégorie à la fin de l’année d’imposition (avant d’effectuer pour l’année d’imposition toute déduction visée au présent paragraphe);
 
 #### Déductions supplémentaires — Prolongement et modernisation de chemins de fer et de biens connexes
 
@@ -3600,97 +3619,97 @@ qui est le moins élevé
 
 #### Catégorie 38
 
-	- **zd)** au montant qu’il peut réclamer à l’égard des biens visés à la catégorie 38 de l’annexe II, ne dépassant pas le pourcentage de la fraction non amortie du coût en capital, pour lui, des biens de cette catégorie à la fin de l’année d’imposition (calculée avant d’effectuer toute déduction en vertu du présent alinéa pour l’année d’imposition), qui correspond à la somme des produits suivants :
-		- **(i)** le produit de 40 % par le rapport entre le nombre de jours de l’année d’imposition qui sont en 1988 et le nombre de jours de l’année d’imposition qui sont postérieurs à 1987,
-		- **(ii)** le produit de 35 % par le rapport entre le nombre de jours de l’année d’imposition qui sont en 1989 et le nombre de jours de l’année d’imposition,
-		- **(iii)** le produit de 30 % par le rapport entre le nombre de jours de l’année d’imposition qui sont postérieurs à 1989 et le nombre de jours de l’année d’imposition;
+	- **zd)** au montant qu’il peut réclamer à l’égard des biens visés à la catégorie 38 de l’annexe II, ne dépassant pas le pourcentage de la fraction non amortie du coût en capital, pour lui, des biens de cette catégorie à la fin de l’année d’imposition (calculée avant d’effectuer toute déduction en vertu du présent alinéa pour l’année d’imposition), qui correspond à la somme des produits suivants :
+		- **(i)** le produit de 40 % par le rapport entre le nombre de jours de l’année d’imposition qui sont en 1988 et le nombre de jours de l’année d’imposition qui sont postérieurs à 1987,
+		- **(ii)** le produit de 35 % par le rapport entre le nombre de jours de l’année d’imposition qui sont en 1989 et le nombre de jours de l’année d’imposition,
+		- **(iii)** le produit de 30 % par le rapport entre le nombre de jours de l’année d’imposition qui sont postérieurs à 1989 et le nombre de jours de l’année d’imposition;
 
 #### Catégorie 39
 
-	- **ze)** au montant qu’il peut réclamer à l’égard des biens visés à la catégorie 39 de l’annexe II, ne dépassant pas le pourcentage de la fraction non amortie du coût en capital, pour lui, des biens de cette catégorie à la fin de l’année d’imposition (calculée avant d’effectuer toute déduction en vertu du présent alinéa pour l’année d’imposition), qui correspond à la somme des produits suivants :
-		- **(i)** le produit de 40 % par le rapport entre le nombre de jours de l’année d’imposition qui sont en 1988 et le nombre de jours de l’année d’imposition qui sont postérieurs à 1987,
-		- **(ii)** le produit de 35 % par le rapport entre le nombre de jours de l’année d’imposition qui sont en 1989 et le nombre de jours de l’année d’imposition,
-		- **(iii)** le produit de 30 % par le rapport entre le nombre de jours de l’année d’imposition qui sont en 1990 et le nombre de jours de l’année d’imposition,
-		- **(iv)** le produit de 25 % par le rapport entre le nombre de jours de l’année d’imposition qui sont postérieurs à 1990 et le nombre de jours de l’année d’imposition;
+	- **ze)** au montant qu’il peut réclamer à l’égard des biens visés à la catégorie 39 de l’annexe II, ne dépassant pas le pourcentage de la fraction non amortie du coût en capital, pour lui, des biens de cette catégorie à la fin de l’année d’imposition (calculée avant d’effectuer toute déduction en vertu du présent alinéa pour l’année d’imposition), qui correspond à la somme des produits suivants :
+		- **(i)** le produit de 40 % par le rapport entre le nombre de jours de l’année d’imposition qui sont en 1988 et le nombre de jours de l’année d’imposition qui sont postérieurs à 1987,
+		- **(ii)** le produit de 35 % par le rapport entre le nombre de jours de l’année d’imposition qui sont en 1989 et le nombre de jours de l’année d’imposition,
+		- **(iii)** le produit de 30 % par le rapport entre le nombre de jours de l’année d’imposition qui sont en 1990 et le nombre de jours de l’année d’imposition,
+		- **(iv)** le produit de 25 % par le rapport entre le nombre de jours de l’année d’imposition qui sont postérieurs à 1990 et le nombre de jours de l’année d’imposition;
 
 #### Catégorie 40
 
-	- **zf)** au montant qu’il peut réclamer à l’égard des biens visés à la catégorie 40 de l’annexe II, ne dépassant pas le pourcentage de la fraction non amortie du coût en capital, pour lui, des biens de cette catégorie à la fin de l’année d’imposition (calculée avant d’effectuer toute déduction en vertu du présent alinéa pour l’année d’imposition), qui correspond à la somme des produits suivants :
-		- **(i)** le produit de 40 % par le rapport entre le nombre de jours de l’année d’imposition qui sont en 1988 et le nombre de jours de l’année d’imposition qui sont postérieurs à 1987,
-		- **(ii)** le produit de 35 % par le rapport entre le nombre de jours de l’année d’imposition qui sont en 1989 et le nombre de jours de l’année d’imposition,
-		- **(iii)** le produit de 30 % par le rapport entre le nombre de jours de l’année d’imposition qui sont en 1990 et le nombre de jours de l’année d’imposition;
+	- **zf)** au montant qu’il peut réclamer à l’égard des biens visés à la catégorie 40 de l’annexe II, ne dépassant pas le pourcentage de la fraction non amortie du coût en capital, pour lui, des biens de cette catégorie à la fin de l’année d’imposition (calculée avant d’effectuer toute déduction en vertu du présent alinéa pour l’année d’imposition), qui correspond à la somme des produits suivants :
+		- **(i)** le produit de 40 % par le rapport entre le nombre de jours de l’année d’imposition qui sont en 1988 et le nombre de jours de l’année d’imposition qui sont postérieurs à 1987,
+		- **(ii)** le produit de 35 % par le rapport entre le nombre de jours de l’année d’imposition qui sont en 1989 et le nombre de jours de l’année d’imposition,
+		- **(iii)** le produit de 30 % par le rapport entre le nombre de jours de l’année d’imposition qui sont en 1990 et le nombre de jours de l’année d’imposition;
 
 #### Déduction supplémentaire — matériel informatique et logiciels d’exploitation liés au passage à l’an 2000
 
-	- **zg)** lorsque le contribuable, à la fois :
+	- **zg)** lorsque le contribuable, à la fois :
 		- **(i)** en fait le choix pour l’année selon les modalités réglementaires,
 		- **(ii)** n’était pas au cours de l’année une grande société, au sens du paragraphe 225.1(8) de la Loi, ni une société de personnes dont l’un des associés était une telle société au cours d’une année d’imposition comprenant un moment de l’exercice de la société de personnes,
-		- **(iii)** a acquis un bien compris à l’alinéa f) de la catégorie 10 de l’annexe II, à la fois :
+		- **(iii)** a acquis un bien compris à l’alinéa f) de la catégorie 10 de l’annexe II, à la fois :
 			- **(A)** au cours de l’année,
 			- **(B)** après 1997 et avant novembre 1999,
 			- **(C)** en remplacement d’un bien acquis avant 1998 et compris à cet alinéa ou à l’alinéa o) de la catégorie 12 de cette annexe qui présente un risque important de défaillance en raison du passage à l’an 2000,
-au montant supplémentaire qu’il déduit relativement à tous biens visés au sous-alinéa (iii), jusqu’à concurrence du moins élevé des montants suivants :
-		- **(iv)** l’excédent éventuel de 50 000 $ sur la somme des montants suivants :
+au montant supplémentaire qu’il déduit relativement à tous biens visés au sous-alinéa (iii), jusqu’à concurrence du moins élevé des montants suivants :
+		- **(iv)** l’excédent éventuel de 50 000 $ sur la somme des montants suivants :
 			- **(A)** le total des montants représentant chacun un montant qu’il a déduit en application du présent alinéa pour une année d’imposition antérieure,
 			- **(B)** le total des montants représentant chacun un montant qu’il a déduit en application de l’alinéa zh) pour l’année ou pour une année d’imposition antérieure,
 			- **(C)** le total des montants représentant chacun un montant qu’une société a déduit en application du présent alinéa ou de l’alinéa zh) pour une année d’imposition au cours de laquelle elle lui était associée,
-		- **(v)** le montant représentant 85 % du coût en capital, pour lui, de tous biens visés au sous-alinéa (iii),
+		- **(v)** le montant représentant 85 % du coût en capital, pour lui, de tous biens visés au sous-alinéa (iii),
 		- **(vi)** la fraction non amortie du coût en capital, pour lui à la fin de l’année, (calculée compte non tenu du paragraphe (2) et après toutes déductions demandées en application des autres dispositions du présent paragraphe pour l’année, mais avant toute déduction permise par le présent alinéa pour l’année) de biens compris dans la catégorie 10 de l’annexe II;
 
 #### Déduction supplémentaire — Logiciels liés au passage à l’an 2000
 
-	- **zh)** lorsque le contribuable, à la fois :
+	- **zh)** lorsque le contribuable, à la fois :
 		- **(i)** en fait le choix pour l’année selon les modalités réglementaires,
 		- **(ii)** n’était pas au cours de l’année une grande société, au sens du paragraphe 225.1(8) de la Loi, ni une société de personnes dont l’un des associés était une telle société au cours d’une année d’imposition comprenant un moment de l’exercice de la société de personnes,
-		- **(iii)** a acquis un bien compris à l’alinéa o) de la catégorie 12 de l’annexe II, à la fois :
+		- **(iii)** a acquis un bien compris à l’alinéa o) de la catégorie 12 de l’annexe II, à la fois :
 			- **(A)** au cours de l’année,
 			- **(B)** après 1997 et avant novembre 1999,
 			- **(C)** en remplacement d’un bien acquis avant 1998 et compris à l’alinéa f) de la catégorie 10 de l’annexe II ou à l’alinéa o) de la catégorie 12 de cette annexe qui présente un risque important de défaillance en raison du passage à l’an 2000,
-au montant supplémentaire qu’il déduit relativement à tous biens visés au sous-alinéa (iii), jusqu’à concurrence du moins élevé des montants suivants :
-		- **(iv)** l’excédent éventuel de 50 000 $ sur la somme des montants suivants :
+au montant supplémentaire qu’il déduit relativement à tous biens visés au sous-alinéa (iii), jusqu’à concurrence du moins élevé des montants suivants :
+		- **(iv)** l’excédent éventuel de 50 000 $ sur la somme des montants suivants :
 			- **(A)** le total des montants représentant chacun un montant qu’il a déduit en application du présent alinéa pour une année d’imposition antérieure,
 			- **(B)** le total des montants représentant chacun un montant qu’il a déduit en application de l’alinéa zg) pour l’année ou pour une année d’imposition antérieure,
 			- **(C)** le total des montants représentant chacun un montant qu’une société a déduit en application du présent alinéa ou de l’alinéa zg) pour une année d’imposition au cours de laquelle elle lui était associée,
-		- **(v)** le montant représentant 50 % du coût en capital, pour lui, de tous biens visés au sous-alinéa (iii),
+		- **(v)** le montant représentant 50 % du coût en capital, pour lui, de tous biens visés au sous-alinéa (iii),
 		- **(vi)** la fraction non amortie du coût en capital, pour lui à la fin de l’année, (calculée compte non tenu du paragraphe (2) et après toutes déductions demandées en application des autres dispositions du présent paragraphe pour l’année, mais avant toute déduction permise par le présent alinéa pour l’année) de biens compris dans la catégorie 12 de l’annexe II.
 
-- **(1.1)** Malgré les paragraphes (1) et (3), le montant déductible par un contribuable pour une année d’imposition relativement à un bien qui est un bien de location déterminé à la fin de l’année correspond au moins élevé des montants suivants :
-	- **a)** l’excédent éventuel du total des montants suivants :
-		- **(i)** les montants qui seraient considérés comme des remboursements, au cours de l’année ou d’une année antérieure, sur le principal d’un prêt consenti par le contribuable si, à la fois :
+- **(1.1)** Malgré les paragraphes (1) et (3), le montant déductible par un contribuable pour une année d’imposition relativement à un bien qui est un bien de location déterminé à la fin de l’année correspond au moins élevé des montants suivants :
+	- **a)** l’excédent éventuel du total des montants suivants :
+		- **(i)** les montants qui seraient considérés comme des remboursements, au cours de l’année ou d’une année antérieure, sur le principal d’un prêt consenti par le contribuable si, à la fois :
 			- **(A)** le contribuable avait consenti ce prêt au moment où le bien est devenu pour la dernière fois un bien de location déterminé et le principal du prêt était égal à la juste valeur marchande du bien à ce moment,
-			- **(B)** des intérêts, composés semestriellement et non à l’avance, avaient été imputés sur le principal du prêt impayé au taux, déterminé conformément à l’article 4302, applicable au premier en date des moments suivants :
+			- **(B)** des intérêts, composés semestriellement et non à l’avance, avaient été imputés sur le principal du prêt impayé au taux, déterminé conformément à l’article 4302, applicable au premier en date des moments suivants :
 				- **(I)** le moment éventuel, antérieur au moment visé à la subdivision (II), où le contribuable a conclu pour la dernière fois une convention pour la location du bien,
 				- **(II)** le moment où le bien est devenu pour la dernière fois un bien de location déterminé,(ou, lorsqu’un bail prévoit que le montant payé ou payable par le preneur du bien pour l’usage ou le droit d’usage du bien varie selon les taux d’intérêt applicables, et que le contribuable en fait le choix, à l’égard de tous les biens visés par le bail, dans sa déclaration de revenu produite en vertu de la partie I de la Loi pour son année d’imposition au cours de laquelle le bail est conclu, au taux, déterminé conformément à l’article 4302, applicable au début de la période pour laquelle les intérêts sont calculés),
 			- **(C)** les montants reçus ou à recevoir par le contribuable avant la fin de l’année pour l’usage ou le droit d’usage du bien avant la fin de l’année et après le moment où il est devenu pour la dernière fois un bien de location déterminé étaient des paiements de principal et d’intérêts réunis sur le prêt — calculés conformément à la division (B) — appliqués d’abord en réduction des intérêts sur le principal, ensuite en réduction des intérêts sur les intérêts impayés et enfin en réduction du principal,
-		- **(ii)** le montant qui aurait été déductible en application du présent article pour l’année d’imposition qui comprend le moment auquel le bien est devenu pour la dernière fois un bien de location déterminé du contribuable si, à la fois :
-			- **(A)** le bien avait été transféré à une catégorie prescrite distincte au dernier en date des moments suivants :
+		- **(ii)** le montant qui aurait été déductible en application du présent article pour l’année d’imposition qui comprend le moment auquel le bien est devenu pour la dernière fois un bien de location déterminé du contribuable si, à la fois :
+			- **(A)** le bien avait été transféré à une catégorie prescrite distincte au dernier en date des moments suivants :
 				- **(I)** le début de cette année,
 				- **(II)** le moment où le contribuable a acquis le bien,
 			- **(B)** cette même année s’était terminée immédiatement avant le moment où le bien est devenu pour la dernière fois un bien de location déterminé du contribuable,
 			- **(C)** dans le cas où le bien n’était pas un bien de location déterminé immédiatement avant le moment visé à la division (B) le paragraphe (3) s’était appliqué,
 sur
 		- **(iii)** le total des montants déduits par le contribuable pour le bien en application du présent paragraphe avant le début de l’année et après le moment où le bien est devenu pour la dernière fois un bien de location déterminé;
-	- **b)** l’excédent éventuel du total visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
+	- **b)** l’excédent éventuel du total visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
 		- **(i)** le total des montants que le contribuable aurait déduits pour le bien sous le régime de la présente partie en application de l’alinéa 20(1)a) de la Loi dans le calcul de son revenu pour l’année et les années d’imposition antérieures si le présent paragraphe et les paragraphes (11) et (15) ne s’étaient pas appliqués et si le contribuable, au cours de chacune de ces années, avait déduit en application de l’alinéa 20(1)a) de la Loi le montant maximal déductible pour le bien sous le régime de la présente partie, abstraction faite du présent paragraphe et des paragraphes (11) et (15),
 		- **(ii)** l’amortissement total accordé au contribuable pour le bien avant le début de l’année.
 
-- **(1.11)** Pour l’application du présent article et du paragraphe 1101(5n), ***bien de location déterminé*** d’un contribuable à un moment donné s’entend d’un bien amortissable, sauf un bien exclu, qui est à la fois :
+- **(1.11)** Pour l’application du présent article et du paragraphe 1101(5n), ***bien de location déterminé*** d’un contribuable à un moment donné s’entend d’un bien amortissable, sauf un bien exclu, qui est à la fois :
 	- **a)** utilisé à ce moment par le contribuable ou une personne avec laquelle il a un lien de dépendance, principalement en vue de gagner un revenu brut — loyer ou revenu de location —;
 	- **b)** visé à ce moment par un bail, d’une durée de plus d’un an au moment de sa conclusion, en faveur d’une personne avec laquelle le contribuable n’a aucun lien de dépendance;
-	- **c)** visé par un bail portant sur des biens, dont des biens corporels, sauf des biens exclus, ayant une juste valeur marchande globale de plus de 25 000 $ au moment de la conclusion du bail.
+	- **c)** visé par un bail portant sur des biens, dont des biens corporels, sauf des biens exclus, ayant une juste valeur marchande globale de plus de 25 000 $ au moment de la conclusion du bail.
 Il est entendu que les biens intangibles ou, pour l’application du droit civil, les biens incorporels, y compris les logiciels d’exploitation et les biens visés à l’alinéa w) de la catégorie 10 et à l’alinéa n) ou o) de la catégorie 12 de l’annexe II, ne sont pas des biens de location déterminés.
 
 - **(1.12)** Malgré les paragraphes (1) et (1.1), lorsqu’au cours d’une année d’imposition le contribuable a acquis un bien qu’il n’a utilisé à aucune fin pendant cette année et que le premier usage qu’il fait du bien est d’en faire l’objet d’un bail visé par le paragraphe (1.1) le montant déductible pour l’année par le contribuable en application du paragraphe (1) relativement au bien est réputé nul.
 
-- **(1.13)** Les règles suivantes s’appliquent au présent article :
-	- **a)** ***biens exclus*** s’entend des biens suivants :
-		- **(i)** le mobilier et l’équipement de bureau de nature générale inclus dans la catégorie 8 de l’annexe II (y compris l’équipement mobile tel les téléphones cellulaires et les téléavertisseurs) ainsi que le matériel électronique universel de traitement de l’information et le matériel auxiliaire visé à l’alinéa f) de la catégorie 10 de l’annexe II, à l’exclusion de toute pièce de ceux-ci dont le coût en capital, pour le contribuable, dépasse 1 000 000 $,
+- **(1.13)** Les règles suivantes s’appliquent au présent article :
+	- **a)** ***biens exclus*** s’entend des biens suivants :
+		- **(i)** le mobilier et l’équipement de bureau de nature générale inclus dans la catégorie 8 de l’annexe II (y compris l’équipement mobile tel les téléphones cellulaires et les téléavertisseurs) ainsi que le matériel électronique universel de traitement de l’information et le matériel auxiliaire visé à l’alinéa f) de la catégorie 10 de l’annexe II, à l’exclusion de toute pièce de ceux-ci dont le coût en capital, pour le contribuable, dépasse 1 000 000 $,
 		- **(i.1)** le matériel électronique universel de traitement de l’information et le matériel auxiliaire de traitement de l’information, compris dans les catégories 45, 50 ou 52 de l’annexe II, à l’exclusion de toute pièce de ceux-ci dont le coût en capital pour le contribuable excède 1 000 000 $,
 		- **(ii)** le mobilier, les appareils ménagers, les postes récepteurs de télévision et de radio, les téléphones, les chaudières, les chauffe-eau et autres biens semblables, destinés à un usage résidentiel,
 		- **(iii)** un bien qui est un véhicule à moteur principalement conçu ou aménagé pour le transport de particuliers sur les routes et dans les rues et comptant au maximum neuf places assises — y compris celle du conducteur — ou un véhicule à moteur de type pick-up ou fourgonnette ou d’un type analogue,
 		- **(iv)** un camion ou un tracteur conçus pour le transport routier de marchandises,
 		- **(v)** une remorque pour le transport routier de marchandises conçue pour être tirée, dans des conditions normales d’utilisation, par un camion ou un tracteur visés au sous-alinéa (iv),
-		- **(vi)** tout ou partie d’un bâtiment inclus dans les catégories 1, 3, 6, 20, 31 ou 32 de l’annexe II (y compris ses parties constituantes, notamment les fils électriques, la plomberie, les réseaux extincteurs, les installations de climatisation et de chauffage, les appareils d’éclairage, les ascenseurs et les escaliers mécaniques), à l’exclusion de tout ou partie d’un bâtiment loué principalement au preneur qui est :
+		- **(vi)** tout ou partie d’un bâtiment inclus dans les catégories 1, 3, 6, 20, 31 ou 32 de l’annexe II (y compris ses parties constituantes, notamment les fils électriques, la plomberie, les réseaux extincteurs, les installations de climatisation et de chauffage, les appareils d’éclairage, les ascenseurs et les escaliers mécaniques), à l’exclusion de tout ou partie d’un bâtiment loué principalement au preneur qui est :
 			- **(A)** soit une personne exonérée de l’impôt en vertu de l’article 149 de la Loi,
 			- **(B)** soit une personne qui utilise le bâtiment dans le cadre de l’exploitation d’une entreprise dont le revenu est, en vertu de toute disposition de la Loi, exonéré de l’impôt prévu par la partie I de la Loi,
 			- **(C)** soit un gouvernement canadien, une municipalité ou toute autre administration canadienne,qui était propriétaire de tout ou partie du bâtiment avant le début du bail, mais non au cours d’une période se terminant au plus tard un an après le dernier en date du jour de l’achèvement de la construction de tout ou partie du bâtiment et du jour de l’acquisition de tout ou partie du bâtiment par le preneur,
@@ -3703,12 +3722,12 @@ et pour l’application du sous-alinéa (i), lorsqu’un bien est la propriété
 		- **(iii)** un gouvernement canadien,
 		- **(iv)** une personne ne résidant pas au Canada, sauf si elle utilise le bien principalement dans le cadre de l’exploitation au Canada d’une entreprise qui n’est pas une entreprise protégée par traité;
 	- **a.2)** pour l’application de l’alinéa a.1), s’il est raisonnable de conclure, compte tenu des circonstances, que l’une des principales raisons de l’existence de plusieurs baux consiste à éviter l’application de l’alinéa a.1) du fait que chacun des baux porte sur des biens ayant une juste valeur marchande globale d’au plus 1 000 000 $ au moment de la conclusion du bail, chacun des baux est réputé porter sur des biens dont la juste valeur marchande globale dépassait 1 000 000 $ à ce moment;
-	- **b)** un bien est réputé visé par un bail d’une durée de plus d’un an à un moment donné si, à ce moment, selon le cas :
+	- **b)** un bien est réputé visé par un bail d’une durée de plus d’un an à un moment donné si, à ce moment, selon le cas :
 		- **(i)** le bien avait été pris à bail par le preneur, par une personne avec laquelle celui-ci a un lien de dépendance ou par une combinaison de ceux-ci, pour une période de plus d’un an se terminant à ce moment,
 		- **(ii)** il est raisonnable de conclure, compte tenu des circonstances, que le bailleur savait ou aurait dû savoir que le preneur, une personne avec laquelle il a un lien de dépendance ou une combinaison de ceux-ci, prendrait le bien à bail pendant plus d’un an;
-	- **c)** pour l’application de l’alinéa (1.11)c), dans le cas où il est raisonnable de conclure, compte tenu des circonstances, que l’un des principaux motifs de l’existence de deux ou plusieurs baux consiste à éviter l’application du paragraphe (1.1) du fait que chacun des baux porte sur des biens dont des biens corporels, sauf des biens exclus, ayant une juste valeur marchande globale d’au plus 25 000 $ au moment de la conclusion du bail, chacun des baux est réputé porter sur des biens corporels dont la juste valeur marchande globale, au moment de la conclusion du bail, dépassait 25 000 $.
+	- **c)** pour l’application de l’alinéa (1.11)c), dans le cas où il est raisonnable de conclure, compte tenu des circonstances, que l’un des principaux motifs de l’existence de deux ou plusieurs baux consiste à éviter l’application du paragraphe (1.1) du fait que chacun des baux porte sur des biens dont des biens corporels, sauf des biens exclus, ayant une juste valeur marchande globale d’au plus 25 000 $ au moment de la conclusion du bail, chacun des baux est réputé porter sur des biens corporels dont la juste valeur marchande globale, au moment de la conclusion du bail, dépassait 25 000 $.
 
-- **(1.14)** Pour l’application du paragraphe (1.11), malgré le paragraphe (1.13), lorsque le contribuable visé au paragraphe (16) en fait le choix dans sa déclaration de revenu en vertu de la partie I de la Loi pour une année d’imposition, à l’égard de l’année et de toutes les années d’imposition ultérieures, les biens du contribuable qui sont visés par des baux conclus au cours de ces années sont réputés ne pas être des biens exclus pour ces années et la juste valeur marchande globale des biens corporels qui sont visés par chacun de ces baux est réputée, au moment de la conclusion du bail, dépasser 25 000 $.
+- **(1.14)** Pour l’application du paragraphe (1.11), malgré le paragraphe (1.13), lorsque le contribuable visé au paragraphe (16) en fait le choix dans sa déclaration de revenu en vertu de la partie I de la Loi pour une année d’imposition, à l’égard de l’année et de toutes les années d’imposition ultérieures, les biens du contribuable qui sont visés par des baux conclus au cours de ces années sont réputés ne pas être des biens exclus pour ces années et la juste valeur marchande globale des biens corporels qui sont visés par chacun de ces baux est réputée, au moment de la conclusion du bail, dépasser 25 000 $.
 
 - **(1.15)** Sous réserve du paragraphe (1.16), pour l’application du paragraphe (1.11), le contribuable qui, à un moment donné, acquiert d’une personne avec laquelle il n’a aucun lien de dépendance un bien visé par un bail dont la durée non écoulée à ce moment est supérieure à un an est réputé avoir conclu, à ce moment, un bail d’une durée de plus d’un an.
 
@@ -3723,20 +3742,20 @@ et pour l’application du sous-alinéa (i), lorsqu’un bien est la propriété
 
 - **(1.18)** Pour l’application du paragraphe (1.1), lorsque, pour une période donnée, un montant qui aurait été reçu ou à recevoir par un contribuable au cours de cette période pour l’usage ou le droit d’usage d’un de ses biens pendant cette période n’est pas reçu ou à recevoir en raison d’une panne ou de défectuosités qu’a subies le bien au cours de cette période et avant la fin du bail, ce montant est réputé être un montant reçu ou à recevoir par lui.
 
-- **(1.19)** Pour l’application des paragraphes (1.1) et (1.11), dans le cas où, à un moment donné :
+- **(1.19)** Pour l’application des paragraphes (1.1) et (1.11), dans le cas où, à un moment donné :
 	- **a)** le bien (appelé « bien initial » au présent paragraphe) d’un contribuable, qui est un bien de location déterminé à ce moment, fait l’objet d’une addition ou d’une transformation (appelée « bien supplémentaire » au présent paragraphe),
 	- **b)** par suite de l’addition ou de la transformation, le montant total à recevoir par le contribuable après ce moment pour l’usage ou le droit d’usage du bien initial et du bien supplémentaire excède le montant ainsi à recevoir relativement au bien initial,
-les règles suivantes s’appliquent :
+les règles suivantes s’appliquent :
 	- **c)** le contribuable est réputé avoir donné le bien supplémentaire à bail au preneur à ce moment;
 	- **d)** la durée du bail visant le bien supplémentaire est réputée supérieure à un an;
 	- **e)** le taux prescrit applicable au bien supplémentaire à ce moment est réputé correspondre à celui applicable à ce moment au bail visant le bien initial;
 	- **f)** il n’est pas tenu compte de l’alinéa (1.11)c) en ce qui concerne le bien supplémentaire;
 	- **g)** l’excédent visé à l’alinéa b) est réputé être un montant à recevoir par le contribuable pour l’usage ou le droit d’usage du bien supplémentaire.
 
-- **(1.2)** Pour l’application des paragraphes (1.1) et (1.11), dans le cas où, à un moment donné :
+- **(1.2)** Pour l’application des paragraphes (1.1) et (1.11), dans le cas où, à un moment donné :
 	- **a)** le bail (appelé « bail initial » au présent paragraphe) visant un bien fait l’objet d’une renégociation de bonne foi,
 	- **b)** le montant payé ou payable, à la suite de la renégociation, par le preneur pour l’usage ou le droit d’usage du bien est modifié pour une période postérieure à ce moment (autrement qu’en raison d’une addition ou d’une transformation auxquelles le paragraphe (1.19) s’applique),
-les règles suivantes s’appliquent :
+les règles suivantes s’appliquent :
 	- **c)** le bail initial est réputé expiré et le bail renégocié est réputé être un nouveau bail visant le bien conclu à ce moment;
 	- **d)** l’alinéa (1.13)b) ne s’applique pas aux périodes antérieures à ce moment au cours desquelles le bien a été pris à bail par le preneur ou une personne avec laquelle celui-ci avait un lien de dépendance.
 
@@ -3764,9 +3783,9 @@ les règles suivantes s’appliquent :
 	- **b)** que lui-même ou une personne avec laquelle il avait un lien de dépendance a commencé la construction, la fabrication ou la production du bien avant le 13 novembre 1981 (ou, lorsque le bien est un bien visé à la catégorie 31 de l’annexe II, avant 1982),
 	- **c)** que lui-même ou une personne avec laquelle il avait un lien de dépendance a fait des arrangements, établis par écrit, pour la construction, la fabrication ou la production du bien, qui étaient suffisamment avancés avant le 13 novembre 1981, et que la construction, la fabrication ou la production avait débuté avant le 1<sup>er</sup> juin 1982, ou
 	- **d)** qu’il était tenu d’acquérir le bien en vertu des modalités d’une entente écrite conclue avant le 1<sup>er</sup> juin 1982 et que les arrangements, établis par écrit, pour l’acquisition ou la location du bien étaient suffisamment avancés avant le 13 novembre 1981,
-les règles suivantes s’appliquent :
+les règles suivantes s’appliquent :
 	- **e)** aucune somme ne peut être incluse en vertu de l’alinéa (2)a) à l’égard du bien;
-	- **f)** lorsque le bien est un bien auquel s’applique l’alinéa (1)b), cet alinéa doit, à l’égard du bien, être interprété comme suit : « au montant, sans dépasser le montant calculé pour l’année en conformité de l’annexe III, qu’il peut réclamer à l’égard du coût en capital, pour lui, d’un bien de la catégorie 13 de l’annexe II »;
+	- **f)** lorsque le bien est un bien auquel s’applique l’alinéa (1)b), cet alinéa doit, à l’égard du bien, être interprété comme suit : « au montant, sans dépasser le montant calculé pour l’année en conformité de l’annexe III, qu’il peut réclamer à l’égard du coût en capital, pour lui, d’un bien de la catégorie 13 de l’annexe II »;
 	- **g)** lorsque le bien est un bien d’une catégorie auquel s’applique l’alinéa (1)t) ou ta), le bien est réputé être un bien désigné de la catégorie, et
 	- **h)** lorsque le bien est un bien visé à l’alinéa (1)v), le sous-alinéa (iv) de cet alinéa doit, à l’égard du bien, être interprété comme s’il y était fait mention de « 33 1/3 pour cent du coût en capital du bien pour lui, ou ».
 
@@ -3780,27 +3799,27 @@ et
 		- **(ii)** le 12 novembre 1981,
 et se terminant à la date où il a été acquis par le contribuable, ou
 	- **g)** que les règles prévues au paragraphe (2.1) ou au présent paragraphe s’appliquent à l’égard du bien aux fins de l’établissement du montant visé au paragraphe (1) que la personne de qui le contribuable a acquis le bien avait le droit de déduire,
-les règles suivantes s’appliquent :
+les règles suivantes s’appliquent :
 	- **h)** aucune somme ne peut être incluse en vertu de l’alinéa (2)a) à l’égard du bien;
-	- **i)** lorsque le bien est un bien auquel s’applique l’alinéa (1)b), cet alinéa doit, à l’égard du bien, être interprété comme suit : « au montant, sans dépasser le montant calculé pour l’année en conformité de l’annexe III, qu’il peut réclamer à l’égard du coût en capital, pour lui, d’un bien de la catégorie 13 de l’annexe II »;
+	- **i)** lorsque le bien est un bien auquel s’applique l’alinéa (1)b), cet alinéa doit, à l’égard du bien, être interprété comme suit : « au montant, sans dépasser le montant calculé pour l’année en conformité de l’annexe III, qu’il peut réclamer à l’égard du coût en capital, pour lui, d’un bien de la catégorie 13 de l’annexe II »;
 	- **j)** s’il s’agit d’un bien d’une catégorie à laquelle l’alinéa (1)ta) s’applique, les règles suivantes s’appliquent :
 		- **(i)** le bien est réputé être un bien désigné de la catégorie,
-		- **(ii)** sauf pour l’application de l’alinéa f), le bien est réputé, aux fins du calcul des montants déterminés selon l’alinéa (1)ta) pour les années d’imposition du contribuable qui se terminent après qu’il a effectivement acquis le bien, avoir été acquis par le contribuable immédiatement après le début de sa première année d’imposition commençant après le premier en date des moments suivants :
+		- **(ii)** sauf pour l’application de l’alinéa f), le bien est réputé, aux fins du calcul des montants déterminés selon l’alinéa (1)ta) pour les années d’imposition du contribuable qui se terminent après qu’il a effectivement acquis le bien, avoir été acquis par le contribuable immédiatement après le début de sa première année d’imposition commençant après le premier en date des moments suivants :
 			- **(A)** le moment de la dernière acquisition du bien par le cédant,
-			- **(B)** dans le cas où le bien a été transféré dans le cadre d’une série de transferts auxquels le présent paragraphe s’applique, le moment de la dernière acquisition du bien par le premier cédant de la série,sauf si :
+			- **(B)** dans le cas où le bien a été transféré dans le cadre d’une série de transferts auxquels le présent paragraphe s’applique, le moment de la dernière acquisition du bien par le premier cédant de la série,sauf si :
 			- **(C)** en cas d’application de la division (A), le bien a été acquis par le contribuable avant la fin de l’année d’imposition du cédant qui comprend le moment où celui-ci a acquis le bien,
 			- **(D)** en cas d’application de la division (B), le bien a été acquis par le contribuable avant la fin de l’année d’imposition du premier cédant qui comprend le moment où celui-ci a acquis le bien,
-		- **(iii)** lorsque le contribuable est une société constituée ou autrement formée après la fin de l’année d’imposition du cédant ou du premier cédant, selon le cas, au cours de laquelle le cédant a acquis le bien la dernière fois :
+		- **(iii)** lorsque le contribuable est une société constituée ou autrement formée après la fin de l’année d’imposition du cédant ou du premier cédant, selon le cas, au cours de laquelle le cédant a acquis le bien la dernière fois :
 			- **(A)** le contribuable est réputé, pour l’application du sous-alinéa (ii), avoir existé tout au long de la période commençant immédiatement avant la fin de cette année et se terminant immédiatement après qu’il a été constitué ou autrement formé,
 			- **(B)** les exercices du contribuable tout au long de la période visée à la division (A) sont réputés, pour l’application du sous-alinéa (ii), avoir pris fin le jour où son premier exercice a pris fin,
-		- **(iv)** le bien est réputé être devenu prêt à être mis en service par le contribuable au premier en date des moments suivants :
+		- **(iv)** le bien est réputé être devenu prêt à être mis en service par le contribuable au premier en date des moments suivants :
 			- **(A)** le moment où il est devenu prêt à être mis en service par le contribuable,
-			- **(B)** selon le cas :
+			- **(B)** selon le cas :
 				- **(I)** le moment où il est devenu prêt à être mis en service par la personne de laquelle le contribuable l’a acquis, déterminé compte non tenu des alinéas 13(27)c) et (28)d) de la Loi,
 				- **(II)** le moment où il est devenu prêt à être mis en service par le premier cédant dans une série de transferts du même bien auquel le présent paragraphe s’applique, déterminé compte non tenu des alinéas 13(27)c) et (28)d) de la Loi;
 	- **k)** lorsque le bien est un bien visé à l’alinéa (1)v), le sous-alinéa (iv) de cet alinéa doit, à l’égard du bien, être interprété comme s’il y était fait mention de « 33 1/3 pour cent du coût en capital du bien pour lui, ou ».
 
-- **(2.21)** Dans le cas où un contribuable est réputé, par la Loi, avoir disposé d’un bien et l’avoir acquis ou acquis de nouveau, les règles suivantes s’appliquent :
+- **(2.21)** Dans le cas où un contribuable est réputé, par la Loi, avoir disposé d’un bien et l’avoir acquis ou acquis de nouveau, les règles suivantes s’appliquent :
 	- **a)** pour l’application de l’alinéa (2.2)e) et des paragraphes 1100(19), 1101(lad) et 1102(14) et (14.1), le bien est réputé avoir été acquis ou acquis de nouveau d’une personne avec laquelle le contribuable avait un lien de dépendance à la date de l’acquisition ou de la nouvelle acquisition;
 	- **b)** pour l’application des alinéas (2.2)f) et g), le contribuable est réputé être la personne de qui il a acquis ou acquis de nouveau le bien.
 
@@ -3808,7 +3827,7 @@ les règles suivantes s’appliquent :
 
 - **(2.4)** Aux fins du paragraphe (2), lorsqu’un contribuable a fait la disposition d’un bien visé à la catégorie 10 de l’annexe II, qui serait admissible à titre de bien visé à l’alinéa e) de la catégorie 16 de l’annexe II s’il avait été acquis après le 12 novembre 1981, le produit de la disposition du bien est réputé être le produit de la disposition d’un bien visé à la catégorie 16 de l’annexe II et non d’un bien visé à la catégorie 10 de l’annexe II.
 
-- **(2.5)** Lorsqu’un contribuable dispose, au cours d’une année d’imposition donnée, d’un bien compris dans la catégorie 10.1 de l’annexe II dont il était propriétaire à la fin de l’année d’imposition précédente, les règles suivantes s’appliquent :
+- **(2.5)** Lorsqu’un contribuable dispose, au cours d’une année d’imposition donnée, d’un bien compris dans la catégorie 10.1 de l’annexe II dont il était propriétaire à la fin de l’année d’imposition précédente, les règles suivantes s’appliquent :
 	- **a)** le montant qu’il peut déduire à l’égard du bien en application du paragraphe (1) dans le calcul de son revenu pour l’année donnée est calculé comme si le bien n’avait pas fait l’objet d’une disposition au cours de cette année et que le nombre de jours de l’année donnée correspondait à la moitié du nombre de jours de cette année déterminé par ailleurs;
 	- **b)** aucun montant n’est déduit à l’égard du bien en application du paragraphe (1) dans le calcul du revenu du contribuable pour une année d’imposition ultérieure.
 
@@ -3842,8 +3861,8 @@ les règles suivantes s’appliquent :
 		- **(ii)** du montant qui serait calculé en vertu du sous-alinéa (1)c)(i) si le coût en capital du brevet ne comprenait pas les montants établis d’après l’usage fait du brevet durant cette année-là et les années antérieures; et
 	- **b)** du coût en capital non déprécié pour lui, à la fin de l’année d’imposition des biens de la catégorie (avant d’opérer quelque déduction en vertu du présent paragraphe pour l’année d’imposition).
 
-- **(9.1)** Lorsque le coût en capital, pour un contribuable, d’un bien de la catégorie 44 de l’annexe II qui est un brevet ou un droit permettant l’utilisation de renseignements brevetés est établi en partie ou en totalité d’après l’usage qui en est fait, au lieu de la déduction allouée en vertu de l’alinéa (1)a), le contribuable peut déduire, dans le calcul du revenu qu’il a tiré d’une entreprise ou d’un bien pour une année d’imposition, un montant qu’il peut demander à l’égard des biens de la catégorie, sans dépasser le moins élevé des montants suivants :
-	- **a)** le total des montants suivants :
+- **(9.1)** Lorsque le coût en capital, pour un contribuable, d’un bien de la catégorie 44 de l’annexe II qui est un brevet ou un droit permettant l’utilisation de renseignements brevetés est établi en partie ou en totalité d’après l’usage qui en est fait, au lieu de la déduction allouée en vertu de l’alinéa (1)a), le contribuable peut déduire, dans le calcul du revenu qu’il a tiré d’une entreprise ou d’un bien pour une année d’imposition, un montant qu’il peut demander à l’égard des biens de la catégorie, sans dépasser le moins élevé des montants suivants :
+	- **a)** le total des montants suivants :
 		- **(i)** la partie du coût en capital établie d’après l’utilisation qui est faite du bien au cours de l’année,
 		- **(ii)** le montant qui serait déductible pour l’année en vertu de l’alinéa (1)a) relativement aux biens de la catégorie si le coût en capital de ces biens ne comprenait pas les montants établis en vertu du sous-alinéa (i) pour l’année et les années d’imposition antérieures;
 	- **b)** la fraction non amortie du coût en capital des biens de cette catégorie, pour le contribuable, à la fin de l’année d’imposition, compte non tenu de toute déduction prévue au présent paragraphe pour l’année.
@@ -3918,7 +3937,7 @@ lorsque ces biens sont la propriété du contribuable ou de la société de pers
 	- **b)** que le contribuable ou la société de personnes a d’abord utilisé principalement afin de gagner ou de produire un revenu brut constitué d’un loyer, d’une redevance ou d’un revenu de location,
 le bien est réputé avoir été utilisé, dans l’année d’imposition où il a été acquis, principalement afin de gagner ou de produire un revenu brut constitué d’un loyer, d’une redevance ou d’un revenu de location.
 
-- **(17.2)** Pour l’application des paragraphes (1.11) et (17), est considéré comme un loyer dérivé d’un bien au cours d’une année d’imposition le revenu brut dérivé, au cours de cette année :
+- **(17.2)** Pour l’application des paragraphes (1.11) et (17), est considéré comme un loyer dérivé d’un bien au cours d’une année d’imposition le revenu brut dérivé, au cours de cette année :
 	- **a)** du droit d’une personne ou société de personnes (à l’exclusion du propriétaire du bien) d’utiliser ou d’occuper le bien ou une partie de ce bien;
 	- **b)** de services offerts à une personne ou société de personnes qui sont accessoires à l’utilisation ou à l’occupation du bien ou d’une partie de ce bien par la personne ou société de personnes.
 
@@ -3963,25 +3982,25 @@ qui serait par ailleurs un bien donné en location à bail, possédé par le con
 #### Films et bandes magnétoscopiques portant visa
 
 
-- **(21)** Par dérogation au paragraphe (1), lorsqu’un contribuable — appelé « investisseur » au présent paragraphe et au paragraphe (22) — a acquis un bien des catégories 10 ou 12 de l’annexe II qui est un long métrage portant visa ou une production portant visa — appelés « film » ou « bande » au présent paragraphe et au paragraphe (22) —, la déduction relative aux biens de ces catégories accordée par ailleurs à l’investisseur en vertu du paragraphe (1) dans le calcul de son revenu pour une année d’imposition donnée ne doit en aucun cas dépasser le montant qui serait accordé si le coût en capital du film ou de la bande pour l’investisseur était réduit du total des montants suivants :
+- **(21)** Par dérogation au paragraphe (1), lorsqu’un contribuable — appelé « investisseur » au présent paragraphe et au paragraphe (22) — a acquis un bien des catégories 10 ou 12 de l’annexe II qui est un long métrage portant visa ou une production portant visa — appelés « film » ou « bande » au présent paragraphe et au paragraphe (22) —, la déduction relative aux biens de ces catégories accordée par ailleurs à l’investisseur en vertu du paragraphe (1) dans le calcul de son revenu pour une année d’imposition donnée ne doit en aucun cas dépasser le montant qui serait accordé si le coût en capital du film ou de la bande pour l’investisseur était réduit du total des montants suivants :
 	- **a)** lorsque les travaux principaux de prise de vue ou d’enregistrement du film ou de la bande ne sont pas terminés avant la fin de l’année d’imposition donnée, la fraction, si fraction il y a,
 		- **(i)** du coût en capital pour l’investisseur du film ou de la bande à la fin de l’année
 qui est en sus du total
 		- **(ii)** du montant qui peut raisonnablement être considéré comme la fraction proportionnelle des frais de production du film ou de la bande supportés par l’investisseur avant la fin de l’année, lorsque les travaux principaux de prise de vue ou d’enregistrement du film ou de la bande sont terminés dans les 60 jours qui suivent la fin de l’année,
-		- **(iii)** du montant qui, lorsque les travaux principaux de prise de vue ou d’enregistrement du film ou de la bande ne sont pas terminés dans les 60 jours qui suivent la fin de l’année, peut raisonnablement être considéré comme la fraction proportionnelle de la moins élevée des sommes suivantes supportées par l’investisseur :
+		- **(iii)** du montant qui, lorsque les travaux principaux de prise de vue ou d’enregistrement du film ou de la bande ne sont pas terminés dans les 60 jours qui suivent la fin de l’année, peut raisonnablement être considéré comme la fraction proportionnelle de la moins élevée des sommes suivantes supportées par l’investisseur :
 			- **(A)** les frais de production du film ou de la bande engagés avant la fin de l’année, et
 			- **(B)** la fraction des frais de production engagés à la date où les travaux principaux de prise de vue ou d’enregistrement sont terminés, qui correspond au pourcentage des travaux principaux de prise de vue ou d’enregistrement terminés avant la fin de l’année, comme il a été certifié par le ministre des Communications, et
 		- **(iv)** du total des montants déterminés en application des alinéas b) à e) à l’égard du film ou de la bande à la fin de l’année;
-	- **b)** le montant éventuel qu’il est raisonnable de considérer comme la fraction des recettes qui n’a pas été incluse dans le revenu de l’investisseur pour l’année d’imposition donnée ou pour une année d’imposition antérieure, lorsqu’une garantie de recettes (à l’exclusion d’une garantie de recettes portant le visa du ministre des Communications attestant qu’il s’agit d’une garantie aux termes de laquelle la personne qui convient de fournir les recettes est un radiodiffuseur titulaire d’une licence ou un distributeur véritable de films ou de bandes) est donnée à une date quelconque avant la date visée au sous-alinéa (i) ou (ii) relativement au film ou à la bande, aux termes de laquelle il est raisonnablement certain, compte tenu des circonstances, que l’investisseur touchera des recettes :
+	- **b)** le montant éventuel qu’il est raisonnable de considérer comme la fraction des recettes qui n’a pas été incluse dans le revenu de l’investisseur pour l’année d’imposition donnée ou pour une année d’imposition antérieure, lorsqu’une garantie de recettes (à l’exclusion d’une garantie de recettes portant le visa du ministre des Communications attestant qu’il s’agit d’une garantie aux termes de laquelle la personne qui convient de fournir les recettes est un radiodiffuseur titulaire d’une licence ou un distributeur véritable de films ou de bandes) est donnée à une date quelconque avant la date visée au sous-alinéa (i) ou (ii) relativement au film ou à la bande, aux termes de laquelle il est raisonnablement certain, compte tenu des circonstances, que l’investisseur touchera des recettes :
 		- **(i)** la date où les principaux travaux de prise de vue ou d’enregistrement du film ou de la bande sont terminés,
 		- **(ii)** la date où l’investisseur a acquis le film ou la bande, si cette date est postérieure;
 une garantie de recettes est donnée relativement au film ou à la bande, en vertu de laquelle il est raisonnablement certain, compte tenu des circonstances, que cet investisseur touchera des recettes aux termes de la garantie de recettes;
-	- **c)** dans le cas où, à un moment donné, une garantie de recettes, à l’exception :
+	- **c)** dans le cas où, à un moment donné, une garantie de recettes, à l’exception :
 		- **(i)** d’une garantie de recettes à laquelle s’applique l’alinéa b),
-		- **(ii)** d’une garantie de recettes au titre de laquelle la personne — appelée « garant » au présent paragraphe — qui accepte de verser les recettes aux termes de la garantie a un lien de dépendance avec l’investisseur ou avec la personne — appelée « vendeur » au présent paragraphe — auprès de laquelle l’investisseur a acquis le film ou la bande et qui porte le visa du ministre des Communications attestant que :
+		- **(ii)** d’une garantie de recettes au titre de laquelle la personne — appelée « garant » au présent paragraphe — qui accepte de verser les recettes aux termes de la garantie a un lien de dépendance avec l’investisseur ou avec la personne — appelée « vendeur » au présent paragraphe — auprès de laquelle l’investisseur a acquis le film ou la bande et qui porte le visa du ministre des Communications attestant que :
 			- **(A)** d’une part, le garant est un radiodiffuseur titulaire d’une licence ou un distributeur véritable de films ou de bandes,
 			- **(B)** d’autre part, le coût du film ou de la bande ne comprend aucun montant relatif à la garantie,
-est donnée relativement au film ou à la bande, le montant éventuel qu’il est raisonnable de considérer comme la fraction des recettes devant être versées à l’investisseur aux termes de la garantie de recettes qui n’a pas été incluse dans le revenu de l’investisseur pour l’année d’imposition donnée ou pour une année d’imposition antérieure, si, selon le cas :
+est donnée relativement au film ou à la bande, le montant éventuel qu’il est raisonnable de considérer comme la fraction des recettes devant être versées à l’investisseur aux termes de la garantie de recettes qui n’a pas été incluse dans le revenu de l’investisseur pour l’année d’imposition donnée ou pour une année d’imposition antérieure, si, selon le cas :
 		- **(iii)** le garant et l’investisseur ont un lien de dépendance,
 		- **(iv)** le vendeur et le garant ont un lien de dépendance,
 		- **(v)** le vendeur ou une personne ayant un lien de dépendance avec lui s’engage de quelque façon, directement ou indirectement, à s’acquitter d’une partie ou de l’ensemble des obligations du garant aux termes de la garantie de recettes;
@@ -4005,34 +4024,34 @@ qui est en sus
 #### Biens énergétiques déterminés
 
 
-- **(24)** Malgré le paragraphe (1), le total des déductions — représentant chacune une déduction pour des biens compris dans les catégories 34, 43.1, 43.2, 47 ou 48 de l’annexe II qui constituent des biens énergétiques déterminés appartenant à un contribuable — autrement accordées au contribuable en application du paragraphe (1) dans le calcul de son revenu pour une année d’imposition ne peut dépasser l’excédent éventuel du total visé à l’alinéa a) sur le total visé à l’alinéa b) :
-	- **a)** le total des montants représentant chacun, selon le cas :
-		- **(i)** le total des montants suivants :
+- **(24)** Malgré le paragraphe (1), le total des déductions — représentant chacune une déduction pour des biens compris dans les catégories 34, 43.1, 43.2, 47 ou 48 de l’annexe II qui constituent des biens énergétiques déterminés appartenant à un contribuable — autrement accordées au contribuable en application du paragraphe (1) dans le calcul de son revenu pour une année d’imposition ne peut dépasser l’excédent éventuel du total visé à l’alinéa a) sur le total visé à l’alinéa b) :
+	- **a)** le total des montants représentant chacun, selon le cas :
+		- **(i)** le total des montants suivants :
 			- **(A)** le montant qui représenterait le revenu du contribuable pour l’année tiré soit de biens compris dans les catégories 34, 43.1, 43.2, 47 ou 48 de l’annexe II, sauf des biens énergétiques déterminés, soit d’une entreprise qui consiste à vendre le produit de tels biens, si ce revenu était calculé après déduction de la somme maximale autorisée relativement aux biens pour l’année selon l’alinéa 20(1)a) de la Loi,
 			- **(B)** le revenu du contribuable pour l’année tiré de biens énergétiques déterminés ou d’une entreprise qui consiste à vendre le produit de tels biens, calculé compte non tenu de l’alinéa 20(1)a) de la Loi,
-		- **(ii)** le total des montants suivants :
+		- **(ii)** le total des montants suivants :
 			- **(A)** la part, revenant au contribuable, du montant qui représenterait le revenu d’une société de personnes pour l’année tiré soit de biens compris dans les catégories 34, 43.1, 43.2, 47 ou 48 de l’annexe II, sauf des biens énergétiques déterminés, soit d’une entreprise qui consiste à vendre le produit de tels biens, si ce revenu était calculé après déduction de la somme maximale autorisée relativement aux biens pour l’année selon l’alinéa 20(1)a) de la Loi,
 			- **(B)** le revenu d’une société de personnes pour l’année tiré de biens énergétiques déterminés ou d’une entreprise qui consiste à vendre le produit de tels biens dont la société de personnes est propriétaire, jusqu’à concurrence de la part de ce revenu qui revient au contribuable;
-	- **b)** le total des montants représentant chacun, selon le cas :
+	- **b)** le total des montants représentant chacun, selon le cas :
 		- **(i)** la perte du contribuable pour l’année découlant de biens énergétiques déterminés ou d’une entreprise qui consiste à vendre le produit de tels biens, calculée compte non tenu de l’alinéa 20(1)a) de la Loi,
 		- **(ii)** la perte d’une société de personnes pour l’année découlant de biens énergétiques déterminés ou d’une entreprise qui consiste à vendre le produit de tels biens dont la société de personnes est propriétaire, jusqu’à concurrence de la part de cette perte qui revient au contribuable.
 
 - **(25)** Pour l’application du présent article et de l’article 1101 mais sous réserve des paragraphes (27) à (29), ***bien énergétique déterminé*** d’un contribuable ou d’une société de personnes (appelés « propriétaire » au présent paragraphe) pour une année d’imposition s’entend d’un bien compris dans la catégorie 34 de l’annexe II que le propriétaire a acquis après le 9 février 1988 et d’un bien compris dans les catégories 43.1, 43.2, 47 ou 48 de cette annexe, à l’exclusion des biens suivants :
 	- **a)** le bien acquis pour être utilisé par le propriétaire principalement en vue de tirer un revenu d’une entreprise exploitée au Canada (à l’exception d’une entreprise qui consiste à vendre le produit de ce bien) ou d’un autre bien situé au Canada;
-	- **b)** le bien loué à bail au cours de l’année, dans le cours normal de l’exploitation d’une entreprise du propriétaire au Canada :
+	- **b)** le bien loué à bail au cours de l’année, dans le cours normal de l’exploitation d’une entreprise du propriétaire au Canada :
 		- **(i)** soit à une personne dont il est raisonnable de s’attendre à ce qu’elle utilise le bien principalement en vue de tirer un revenu d’une entreprise exploitée au Canada (à l’exception d’une entreprise qui consiste à vendre le produit de ce bien) ou d’un autre bien situé au Canada,
 		- **(ii)** soit à la société ou à la société de personnes visées au paragraphe (26),
-lorsque le propriétaire est :
-		- **(iii)** soit une société dont l’entreprise principale consiste à exercer, tout au long de l’année, l’une des activités suivantes :
+lorsque le propriétaire est :
+		- **(iii)** soit une société dont l’entreprise principale consiste à exercer, tout au long de l’année, l’une des activités suivantes :
 			- **(A)** louer, à bail ou non, des biens donnés en location à bail ou des biens qui seraient de tels biens s’il était fait abstraction des paragraphes (18), (19) ou (20),
 			- **(B)** louer, à bail ou non, les biens visés à la division (A) et faire la vente et l’entretien de biens du même type présentant les mêmes caractéristiques,
-			- **(C)** fabriquer des biens compris dans les catégories 34, 43.1, 43.2, 47 ou 48 de l’annexe II qu’il vend ou loue à bail,et dont le revenu brut pour l’année, tiré de cette entreprise, correspond à au moins 90 % de son revenu brut pour l’année provenant de toutes sources,
+			- **(C)** fabriquer des biens compris dans les catégories 34, 43.1, 43.2, 47 ou 48 de l’annexe II qu’il vend ou loue à bail,et dont le revenu brut pour l’année, tiré de cette entreprise, correspond à au moins 90 % de son revenu brut pour l’année provenant de toutes sources,
 		- **(iv)** soit une société de personnes dont chaque associé est :
 			- **(A)** soit une société visée au sous-alinéa (iii) ou à l’alinéa (26)a),
 			- **(B)** soit une autre société de personnes visée au présent sous-alinéa.
 
-- **(26)** Le paragraphe (24) ne s’applique pas au contribuable qui est, tout au long d’une année d’imposition :
-	- **a)** soit une société dont l’entreprise principale, tout au long de l’année, consiste à exercer l’une des activités suivantes :
+- **(26)** Le paragraphe (24) ne s’applique pas au contribuable qui est, tout au long d’une année d’imposition :
+	- **a)** soit une société dont l’entreprise principale, tout au long de l’année, consiste à exercer l’une des activités suivantes :
 		- **(i)** des activités de fabrication ou de transformation,
 		- **(ii)** des opérations minières,
 		- **(iii)** la vente, la distribution ou la production d’électricité, de gaz naturel, de pétrole, de vapeur, de chaleur ou une autre forme d’énergie ou d’énergie potentielle;
@@ -4040,24 +4059,24 @@ lorsque le propriétaire est :
 		- **(i)** soit une société visée à l’alinéa a),
 		- **(ii)** soit une autre société de personnes visée au présent alinéa.
 
-- **(27)** Ne sont pas des biens énergétiques déterminés d’une personne ou d’une société de personnes les biens acquis par elle après le 9 février 1988 et avant 1990 :
+- **(27)** Ne sont pas des biens énergétiques déterminés d’une personne ou d’une société de personnes les biens acquis par elle après le 9 février 1988 et avant 1990 :
 	- **a)** soit aux termes d’une obligation écrite contractée par elle avant le 10 février 1988;
 	- **b)** soit aux termes d’un prospectus, d’un prospectus provisoire, d’une déclaration d’enregistrement ou d’une notice d’offre produits avant le 10 février 1988 auprès d’un organisme public au Canada conformément à la législation provinciale sur les valeurs mobilières;
-	- **c)** soit aux termes d’une notice d’offre distribuée dans le cadre d’une offre de titres si, à la fois :
+	- **c)** soit aux termes d’une notice d’offre distribuée dans le cadre d’une offre de titres si, à la fois :
 		- **(i)** la notice d’offre contient une description complète, ou presque, des titres envisagés par l’offre ainsi que les conditions de l’offre,
 		- **(ii)** la notice d’offre a été distribuée avant le 10 février 1988,
 		- **(iii)** des sollicitations de vente des titres envisagés par l’offre ont été faites avant le 10 février 1988,
 		- **(iv)** la vente des titres est de façon générale conforme à la notice d’offre;
-	- **d)** soit dans le cadre d’un ouvrage si, avant le 10 février 1988 :
+	- **d)** soit dans le cadre d’un ouvrage si, avant le 10 février 1988 :
 		- **(i)** d’une part, une partie des machines ou du matériel à utiliser dans le cadre de l’ouvrage avait été acquise, ou des conventions écrites en vue d’une telle acquisition avaient été conclues, par la personne ou la société de personnes ou en son nom,
 		- **(ii)** d’autre part, la personne ou la société de personnes a obtenu ou a fait obtenir en son nom d’un organisme gouvernemental chargé de l’environnement, l’approbation de l’emplacement de l’ouvrage.
 
-- **(28)** Un bien qui serait par ailleurs un bien énergétique déterminé d’un contribuable est réputé ne pas être un tel bien si, avant son acquisition par le contribuable, le bien n’était pas, par application du paragraphe (27), du présent paragraphe ou du paragraphe (29), un bien énergétique déterminé de la personne qui en a disposé et que le bien a été acquis par le contribuable :
+- **(28)** Un bien qui serait par ailleurs un bien énergétique déterminé d’un contribuable est réputé ne pas être un tel bien si, avant son acquisition par le contribuable, le bien n’était pas, par application du paragraphe (27), du présent paragraphe ou du paragraphe (29), un bien énergétique déterminé de la personne qui en a disposé et que le bien a été acquis par le contribuable :
 	- **a)** soit dans le cadre d’une réorganisation à l’égard de laquelle tout dividende reçu par une société serait soustrait à l’application du paragraphe 55(2) de la Loi à cause de l’alinéa 55(3)b) de la Loi;
 	- **b)** soit d’une personne avec laquelle le contribuable avait un lien de dépendance, sauf en vertu d’un droit visé à l’alinéa 251(5)b) de la Loi, au moment de l’acquisition du bien.
 
 - **(29)** Un bien acquis par un contribuable ou une société de personnes qui est un bien de remplacement, au sens du paragraphe 13(4) de la Loi, et qui serait par ailleurs un bien énergétique déterminé du contribuable ou de la société de personnes est réputé ne pas être un tel bien si l’ancien bien, visé aux alinéas 13(4)a) ou b) de la Loi, n’était pas, par application des paragraphes (27) ou (28) ou du présent paragraphe, un bien énergétique déterminé du contribuable ou de la société de personnes avant que l’un ou l’autre en dispose.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 1; DORS/78-377, art. 3 à 6; DORS/78-948, art. 1; DORS/79-427, art. 1; DORS/80-942, art. 1; DORS/81-470, art. 1; DORS/82-265, art. 1; DORS/83-340, art. 1; DORS/83-432, art. 1; DORS/84-454, art. 1; DORS/84-948, art. 5; DORS/85-13, art. 1; DORS/85-174, art. 1; DORS/86-254, art. 1; DORS/86-1092, art. 3(F) et 4(F); DORS/86-1136, art. 1; DORS/88-392, art. 1; DORS/89-27, art. 1; DORS/90-22, art. 1; DORS/90-257, art. 1; DORS/90-670, art. 1; DORS/91-196, art. 1; DORS/91-673, art. 1; DORS/92-681, art. 3; DORS/94-128, art. 1; DORS/94-140, art. 2; DORS/94-169, art. 1; DORS/94-170, art. 1; DORS/94-686, art. 9(F), 48, 58(F), 78(F), 79(F) et 81(F); DORS/95-244, art. 1; DORS/97-377, art. 1; DORS/99-179, art. 1; DORS/2000-248, art. 2; DORS/2005-126, art. 1; DORS/2005-371, art. 1; DORS/2005-414, art. 1; DORS/2006-117, art. 1; DORS/2007-19, art. 1; DORS/2009-115, art. 1; DORS/2009-126, art. 1; DORS/2010-93, art. 12; DORS/2011-9, art. 1; 2013, ch. 34, art. 383, ch. 40, art. 100; 2015, ch. 36, art. 21; DORS/2015-117, art. 1.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 1; DORS/78-377, art. 3 à 6; DORS/78-948, art. 1; DORS/79-427, art. 1; DORS/80-942, art. 1; DORS/81-470, art. 1; DORS/82-265, art. 1; DORS/83-340, art. 1; DORS/83-432, art. 1; DORS/84-454, art. 1; DORS/84-948, art. 5; DORS/85-13, art. 1; DORS/85-174, art. 1; DORS/86-254, art. 1; DORS/86-1092, art. 3(F) et 4(F); DORS/86-1136, art. 1; DORS/88-392, art. 1; DORS/89-27, art. 1; DORS/90-22, art. 1; DORS/90-257, art. 1; DORS/90-670, art. 1; DORS/91-196, art. 1; DORS/91-673, art. 1; DORS/92-681, art. 3; DORS/94-128, art. 1; DORS/94-140, art. 2; DORS/94-169, art. 1; DORS/94-170, art. 1; DORS/94-686, art. 9(F), 48, 58(F), 78(F), 79(F) et 81(F); DORS/95-244, art. 1; DORS/97-377, art. 1; DORS/99-179, art. 1; DORS/2000-248, art. 2; DORS/2005-126, art. 1; DORS/2005-371, art. 1; DORS/2005-414, art. 1; DORS/2006-117, art. 1; DORS/2007-19, art. 1; DORS/2009-115, art. 1; DORS/2009-126, art. 1; DORS/2010-93, art. 12; DORS/2011-9, art. 1; 2013, ch. 34, art. 383, ch. 40, art. 100; 2015, ch. 36, art. 21; DORS/2015-117, art. 1; 2016, ch. 12, art. 78.
 
 
 
@@ -6305,8 +6324,8 @@ sont toutefois exclus du total des frais d’aménagement déterminés :
 		- **(i)** ont trait à l’acquisition ou à l’utilisation d’un fonds de terre ou au droit de l’utiliser, sauf dans le cas prévu aux alinéas (1)b), c) ou d),
 		- **(ii)** servent au nivellement ou à l’aménagement paysager d’un fonds de terre, sauf dans le cas prévu à l’alinéa (1)b),
 		- **(iii)** sont payables à une personne non-résidente ou à une société de personnes autre qu’une société de personnes canadienne (sauf s’il s’agit d’une dépense engagée à la fin visée à l’alinéa (1)g)),
-		- **(iv)** sont incluses dans le coût en capital d’un bien qui serait un bien amortissable si ce n’était le présent article, sauf dans le cas prévu aux alinéas (1)b), d), e), f) ou g),
-		- **(v)** sont des dépenses qui seraient des dépenses en capital admissibles si ce n’était le présent article, sauf dans le cas prévu à l’un des alinéas (1)a) à e),
+		- **(iv)** sont incluses dans le coût en capital d’un bien qui serait un bien amortissable (sauf un bien qui serait compris dans la catégorie 14.1 de l’annexe II) si ce n’était le présent article, sauf dans le cas prévu aux alinéas (1)b), d), e), f) ou g),
+		- **(v)** sont incluses dans le coût en capital d’un bien qui serait un bien compris dans la catégorie 14.1 de l’annexe II si ce n’était le présent article, sauf dans le cas prévu à l’un des alinéas (1)a) à e),
 		- **(vi)** sont incluses dans le coût de l’inventaire du contribuable,
 		- **(vii)** sont des dépenses relatives à des activités de recherche scientifique et de développement expérimental,
 		- **(viii)** sont des frais d’aménagement au Canada ou des frais à l’égard de biens canadiens relatifs au pétrole et au gaz,
@@ -6335,7 +6354,7 @@ sont toutefois exclus du total des frais d’aménagement déterminés :
 	- **f)** aucun autre système de conversion de l’énergie cinétique du vent n’est installé dans un périmètre de 1 500 mètres de l’installation tant que le niveau d’énergie électrique que celle-ci produit à partir du vent n’a pas été vérifié pendant un minimum de 120 jours civils.
 
 - **(4)** Il est entendu que les frais liés aux énergies renouvelables et à l’économie d’énergie au Canada comprennent les dépenses engagées par le contribuable pour acquérir une installation fixe consistant en un système de conversion de l’énergie cinétique du vent seulement si l’installation est visée à l’alinéa (1)g).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2000-327, art. 4; DORS/2005-266, art. 1; DORS/2006-117, art. 5; DORS/2007-116, art. 3; 2010, ch. 25, art. 77.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2000-327, art. 4; DORS/2005-266, art. 1; DORS/2006-117, art. 5; DORS/2007-116, art. 3; 2010, ch. 25, art. 77; 2016, ch. 12, art. 79.
 
 
 
@@ -8342,7 +8361,7 @@ où
 
 **2411** 
 
-- **(1)** Sous réserve du paragraphe (2), le montant prescrit au titre d’un assureur pour une année d’imposition pour l’application de l’alinéa 138(9)b) de la Loi est calculé selon la formule suivante :
+- **(1)** Sous réserve du paragraphe (2), le montant prescrit au titre d’un assureur pour une année d’imposition pour l’application de l’alinéa 138(9)b) de la Loi est calculé selon la formule suivante :
 ```
 A - (B + B.1 + C)
 ```
@@ -8354,13 +8373,13 @@ où
 
 - **(2)** Le montant calculé selon le paragraphe (1) au titre d’un assureur est réputé nul s’il est négatif.
 
-- **(3)** Le montant positif ou négatif, selon le cas, déterminé au titre d’un assureur pour une année d’imposition en application du présent paragraphe correspond au montant suivant :
-	- **a)** si la valeur pour l’année des biens de placement étrangers de l’assureur qui constituent des biens d’assurance désignés pour l’année est égale ou inférieure au montant représentant 5 % de la moyenne de son fonds de placement canadien pour l’année et s’il fait un choix en ce sens dans la déclaration de revenu qu’il produit pour l’année en vertu de la partie I de la Loi, le montant obtenu par la formule suivante :
+- **(3)** Le montant positif ou négatif, selon le cas, déterminé au titre d’un assureur pour une année d’imposition en application du présent paragraphe correspond au montant suivant :
+	- **a)** si la valeur pour l’année des biens de placement étrangers de l’assureur qui constituent des biens d’assurance désignés pour l’année est égale ou inférieure au montant représentant 5 % de la moyenne de son fonds de placement canadien pour l’année et s’il fait un choix en ce sens dans la déclaration de revenu qu’il produit pour l’année en vertu de la partie I de la Loi, le montant obtenu par la formule suivante :
 ```
 {[((A + A.1) / B) × (C + J)] + [(D × F) / E]}
 ```
 
-	- **b)** dans les autres cas, le montant obtenu par la formule suivante :
+	- **b)** dans les autres cas, le montant obtenu par la formule suivante :
 ```
 {[((A + A.1)/B) × C] +[(D × F)/E] + [((G + G.1)/H) × J]}
 ```
@@ -8378,35 +8397,35 @@ où
 - **H** la valeur globale pour l’année des biens de placement étrangers dont l’assureur est propriétaire à un moment de l’année, à l’exception des biens visés à l’alinéa e) de la définition de ***bien de placement*** au paragraphe 2400(1);
 - **J** la valeur globale pour l’année des biens de placement étrangers de l’assureur (sauf des biens visés à l’alinéa e) de la définition de ***bien de placement*** au paragraphe 2400(1)) qui comptent parmi ses biens d’assurance désignés pour l’année.
 
-- **(4)** Le montant positif ou négatif, selon le cas, calculé au titre d’un assureur pour une année d’imposition en application du présent paragraphe relativement à un bien est calculé selon la formule suivante :
+- **(4)** Le montant positif ou négatif, selon le cas, calculé au titre d’un assureur pour une année d’imposition en application du présent paragraphe relativement à un bien est calculé selon la formule suivante :
 ```
 A - B
 ```
 où 
-- **A** représente le total des montants suivants qui sont déterminés relativement au bien pour l’année, ou qui le seraient si le bien était un bien d’assurance désigné de l’assureur relativement à une entreprise d’assurance au Canada pour chaque année d’imposition pendant laquelle il l’a détenu :
+- **A** représente le total des montants suivants qui sont déterminés relativement au bien pour l’année, ou qui le seraient si le bien était un bien d’assurance désigné de l’assureur relativement à une entreprise d’assurance au Canada pour chaque année d’imposition pendant laquelle il l’a détenu :
 - **a)** les revenus bruts de placements de l’assureur pour l’année provenant du bien, à l’exception des dividendes imposables qui sont ou seraient déductibles en application de l’article 112 ou du paragraphe 138(6) de la Loi dans le calcul de son revenu imposable pour l’année,
 - **b)** [Abrogé, DORS/2009-222, art. 4]
 - **c)** les montants qui sont ou seraient inclus dans le calcul des gains en capital imposables de l’assureur pour l’année provenant de la disposition du bien,
-- **c.1) ** les sommes qui sont ou seraient incluses en application de l’alinéa 142.4(5)e) de la Loi au titre du bien dans le calcul du revenu de l’assureur pour l’année,
-- **d) ** les sommes qui sont ou seraient incluses dans le calcul du revenu de l’assureur pour l’année au titre des gains provenant de la disposition du bien, sauf s’il s’agit d’une immobilisation ou d’un titre de créance déterminé, au sens du paragraphe 142.2(1) de la Loi,
+- **c.1)** les sommes qui sont ou seraient incluses en application de l’alinéa 142.4(5)e) de la Loi au titre du bien dans le calcul du revenu de l’assureur pour l’année,
+- **d)** les sommes qui sont ou seraient incluses dans le calcul du revenu de l’assureur pour l’année au titre des gains provenant de la disposition du bien, sauf s’il s’agit d’une immobilisation ou d’un titre de créance déterminé, au sens du paragraphe 142.2(1) de la Loi,
 - **e)** les montants qui sont ou seraient inclus en application du paragraphe 13(1) de la Loi dans le calcul du revenu de l’assureur pour l’année au titre du bien,
 - **f)** les montants qui sont ou seraient inclus en application de l’alinéa 12(1)d), d.1) ou i) de la Loi dans le calcul du revenu de l’assureur pour l’année au titre du bien,
 - **g)** les montants qui sont ou seraient inclus en application du paragraphe 59(3.2) ou (3.3) de la Loi dans le calcul du revenu de l’assureur pour l’année au titre du bien,
-- **h)** les montants qui sont ou seraient inclus en application du paragraphe 14(1) de la Loi dans le calcul du revenu de l’assureur pour l’année au titre du bien,
-- **i) ** les autres sommes qui sont ou seraient incluses dans le calcul du revenu de l’assureur pour l’année au titre du bien, autrement que par l’effet du paragraphe 142.4(4) de la Loi;
+- **h)** [Abrogé, 2016, ch. 12, art. 80]
+- **i)** les autres sommes qui sont ou seraient incluses dans le calcul du revenu de l’assureur pour l’année au titre du bien, autrement que par l’effet du paragraphe 142.4(4) de la Loi;
 - **B** le total des sommes ci-après qui sont calculées relativement au bien pour l’année ou qui le seraient si le bien était un bien d’assurance désigné de l’assureur relativement à une entreprise d’assurance au Canada pour chaque année d’imposition pendant laquelle il l’a détenu :
 - **a)** les montants qui sont ou seraient inclus dans le calcul des pertes en capital déductibles de l’assureur pour l’année résultant de la disposition du bien,
-- **a.1) ** les sommes qui sont ou seraient déductibles en application de l’alinéa 142.4(5)f) de la Loi au titre du bien dans le calcul du revenu de l’assureur pour l’année,
-- **b) ** les sommes qui sont ou seraient déductibles dans le calcul du revenu de l’assureur pour l’année au titre des pertes résultant de la disposition du bien, sauf s’il s’agit d’une immobilisation ou d’un titre de créance déterminé, au sens du paragraphe 142.2(1) de la Loi,
+- **a.1)** les sommes qui sont ou seraient déductibles en application de l’alinéa 142.4(5)f) de la Loi au titre du bien dans le calcul du revenu de l’assureur pour l’année,
+- **b)** les sommes qui sont ou seraient déductibles dans le calcul du revenu de l’assureur pour l’année au titre des pertes résultant de la disposition du bien, sauf s’il s’agit d’une immobilisation ou d’un titre de créance déterminé, au sens du paragraphe 142.2(1) de la Loi,
 - **c)** [Abrogé, DORS/2009-222, art. 4]
 - **d)** les montants qui sont ou seraient déductibles dans le calcul du revenu de l’assureur pour l’année en application de l’alinéa 20(1)a) de la Loi au titre du coût en capital du bien ou en application des alinéas 20(1)c) et d) de la Loi au titre des intérêts payés ou payables sur de l’argent emprunté et utilisé pour acquérir le bien,
 - **e)** si le bien est un bien locatif ou un bien donné en location à bail, au sens des paragraphes 1100(14) et (17) respectivement, les montants qui sont ou seraient déductibles dans le calcul du revenu de l’assureur pour l’année au titre des dépenses qui sont directement liées au fait de tirer un revenu de location du bien,
 - **f)** les montants qui sont ou seraient déductibles en application des alinéas 20(1)l), l.1) ou p) de la Loi dans le calcul du revenu de l’assureur pour l’année au titre d’une provision ou d’une créance irrécouvrable relativement au bien,
 - **g)** les montants qui sont déduits ou seraient déductibles en application des articles 66, 66.1, 66.2 ou 66.4 de la Loi dans le calcul du revenu de l’assureur pour l’année au titre du bien,
-- **h)** les montants qui sont ou seraient déductibles en application de l’alinéa 20(1)b) de la Loi dans le calcul du revenu de l’assureur pour l’année au titre du bien,
+- **h)** [Abrogé, 2016, ch. 12, art. 80]
 - **i)** les montants qui sont ou seraient déductibles dans le calcul du revenu de l’assureur pour l’année au titre d’autres dépenses qui sont directement liées au fait de tirer des revenus bruts de placements du bien.
 
-- **(4.1)** Le montant positif ou négatif, selon le cas, déterminé au titre d’un assureur pour une année d’imposition en application du présent paragraphe, relativement à un bien dont il a disposé au cours de l’année ou d’une année d’imposition antérieure, correspond au montant obtenu par la formule suivante :
+- **(4.1)** Le montant positif ou négatif, selon le cas, déterminé au titre d’un assureur pour une année d’imposition en application du présent paragraphe, relativement à un bien dont il a disposé au cours de l’année ou d’une année d’imposition antérieure, correspond au montant obtenu par la formule suivante :
 ```
 A - B
 ```
@@ -8416,8 +8435,8 @@ où
 
 - **(5)** [Abrogé, DORS/2009-222, art. 4]
 
-- **(6)** Pour l’application du paragraphe (1), le solde du compte d’excédent cumulatif de l’assureur à la fin d’une année d’imposition correspond à l’excédent éventuel du total visé à l’alinéa a) sur le total visé à l’alinéa b) :
-	- **a)** le total des montants dont chacun représente un montant positif éventuel calculé selon la formule suivante pour chacune de celles de ses sept années d’imposition précédentes commençant après le 17 juin 1987 et se terminant après 1987 :
+- **(6)** Pour l’application du paragraphe (1), le solde du compte d’excédent cumulatif de l’assureur à la fin d’une année d’imposition correspond à l’excédent éventuel du total visé à l’alinéa a) sur le total visé à l’alinéa b) :
+	- **a)** le total des montants dont chacun représente un montant positif éventuel calculé selon la formule suivante pour chacune de celles de ses sept années d’imposition précédentes commençant après le 17 juin 1987 et se terminant après 1987 :
 ```
 B - A
 ```
@@ -8428,7 +8447,7 @@ où les éléments A et B correspondent aux montants calculés selon le paragrap
 - **(7)** [Abrogé, DORS/2000-413, art. 6]
 
 - **(8)** Pour l’application du présent article, les biens de placement étrangers d’un assureur, sauf s’il s’agit d’un assureur non résidant qui a établi que les biens de placement ne sont pas réellement rattachés à ses entreprises d’assurance au Canada, sont ceux de ses biens de placement qui ne constituent pas des biens de placement canadiens.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/90-661, art. 10; DORS/92-681, art. 3(F); DORS/94-686, art. 19(F) et 69(F); DORS/2000-413, art. 6; DORS/2005-393, art. 1; DORS/2009-222, art. 4.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/90-661, art. 10; DORS/92-681, art. 3(F); DORS/94-686, art. 19(F) et 69(F); DORS/2000-413, art. 6; DORS/2005-393, art. 1; DORS/2009-222, art. 4; 2016, ch. 12, art. 80.
 
 
 
@@ -14011,8 +14030,9 @@ Ne sont pas des paiements exclus les paiements prévus par un titre de créance 
 	- **(iii)** elles appartiennent à une société dont toutes les actions sont soit la propriété de particuliers autochtones, soit détenues en fiducie au profit exclusif de tels particuliers,
 	- **(iv)** elles appartiennent à des personnes mentionnées aux sous-alinéas (i), (ii) ou (iii) ou sont détenues par ces personnes dans le cadre d’un ensemble de mécanismes de propriété visés à ces sous-alinéas;
 - **b)** d’une aide prescrite au sens de l’article 6702;
-- **c)** d’une somme qui correspond à la partie d’un prêt d’études qui a fait l’objet d’une dispense de remboursement en vertu de l’article 9.2 de la [Loi fédérale sur l’aide financière aux étudiants](/fr/Lois/Lois%20du%20Canada/1994/ch.%2028.md) ou de l’article 11.1 de la [Loi fédérale sur les prêts aux étudiants](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-23.md).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/86-1136, art. 12; DORS/88-312, art. 2; DORS/90-120, art. 1; DORS/91-276, art. 1; DORS/94-686, art. 79(F); 2011, ch. 24, art. 88.
+- **c)** d’une somme qui correspond à la partie d’un prêt d’études qui a fait l’objet d’une dispense de remboursement en vertu de l’article 9.2 de la [Loi fédérale sur l’aide financière aux étudiants](/fr/Lois/Lois%20du%20Canada/1994/ch.%2028.md) ou de l’article 11.1 de la [Loi fédérale sur les prêts aux étudiants](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-23.md);
+- **d)** d’un droit d’émissions accordé au contribuable sous le régime d’une loi fédérale ou provinciale.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/86-1136, art. 12; DORS/88-312, art. 2; DORS/90-120, art. 1; DORS/91-276, art. 1; DORS/94-686, art. 79(F); 2011, ch. 24, art. 88; 2016, ch. 12, art. 81.
 
 
 
@@ -19733,105 +19753,17 @@ où :
 
 
 **PARTIE XCIV** 
-## Programmes pour enfants
-> [[NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ]
+## [Abrogée, 2016, ch. 7, art. 59]
+
+
+**9400** [Abrogé, 2016, ch. 7, art. 59]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2007, ch. 35, art. 88; 2014, ch. 39, art. 89; 2016, ch. 7, art. 59.
 
 
 
 
-### Définitions
-
-
-**9400** 
-
-- **(1)** Les définitions qui suivent s’appliquent à la présente partie.
-
-***activité physique*** Toute activité supervisée convenant aux enfants (à l’exception d’une activité dont l’une des composantes essentielles exige de l’enfant qu’il monte dans ou sur un véhicule à moteur) qui :
-- **a)** dans le cas d’un enfant admissible à l’égard duquel une somme est déductible en application de l’article 118.3 de la Loi dans le calcul du revenu d’une personne pour une année d’imposition, permet à l’enfant de bouger et de dépenser de l’énergie de façon visible dans un contexte récréatif;
-- **b)** dans le cas de tout autre enfant, contribue à l’endurance cardio-respiratoire et à la réalisation d’un ou de plusieurs des objectifs suivants :
-	- **(i)** la force musculaire,
-	- **(ii)** l’endurance musculaire,
-	- **(iii)** la souplesse,
-	- **(iv)** l’équilibre. (*physical activity*)
-
-***enfant admissible*** S’entend au sens du paragraphe 122.8(1) de la Loi. (*qualifying child*)
-
-### Programme d’activité physique
-
-
-- **(2)** Pour l’application de la définition de ***dépense admissible pour activités physiques*** au paragraphe 122.8(1) de la Loi, sont des programmes d’activités physiques :
-	- **a)** tout programme hebdomadaire, ne faisant pas partie du programme d’études d’une école, d’une durée d’au moins huit semaines consécutives dans le cadre duquel la totalité ou la presque totalité des activités comprennent une part importante d’activités physiques;
-	- **b)** tout programme, ne faisant pas partie du programme d’études d’une école, d’une durée d’au moins cinq jours consécutifs et dont plus de 50 % des activités quotidiennes comprennent une part importante d’activités physiques;
-	- **c)** tout programme, ne faisant pas partie du programme d’études d’une école, d’une durée d’au moins huit semaines consécutives qui est offert aux enfants par un club, une association ou une organisation semblable (appelés « organisation » au présent article) dans des circonstances où le participant au programme peut choisir parmi diverses activités si, selon le cas :
-		- **(i)** plus de 50 % des activités offertes aux enfants par l’organisation sont des activités qui comprennent une part importante d’activités physiques,
-		- **(ii)** plus de 50 % du temps prévu pour les activités offertes aux enfants dans le cadre du programme est réservé à des activités qui comprennent une part importante d’activités physiques;
-	- **d)** toute adhésion à une organisation, ne faisant pas partie du programme d’études d’une école, d’une durée d’au moins huit semaines consécutives si plus de 50 % des activités offertes aux enfants par l’organisation comprennent une part importante d’activités physiques.
-
-### Installation polyvalente
-
-
-- **(3)** Pour l’application de la définition de ***dépense admissible pour activités physiques*** au paragraphe 122.8(1) de la Loi, est un programme d’activités physiques la partie d’un programme — qui ne remplit pas les exigences de l’alinéa (2)c) et ne fait pas partie du programme d’études d’une école — d’une durée d’au moins huit semaines consécutives, offerte aux enfants par une organisation dans des circonstances où le participant au programme peut choisir parmi diverses activités qui représentent, selon le cas :
-	- **a)** le pourcentage des activités offertes aux enfants par l’organisation qui sont des activités comprenant une part importante d’activités physiques;
-	- **b)** le pourcentage du temps prévu pour les activités du programme qui est réservé à des activités comprenant une part importante d’activités physiques.
-
-### Adhésion
-
-
-- **(4)** Pour l’application de la définition de ***dépense admissible pour activités physiques*** au paragraphe 122.8(1) de la Loi, est un programme d’activités physiques la partie d’une adhésion à une organisation — qui ne remplit pas les exigences de l’alinéa (2)d) et ne fait pas partie du programme d’études d’une école — d’une durée d’au moins huit semaines consécutives qui représente le pourcentage des activités offertes aux enfants par l’organisation qui sont des activités comprenant une part importante d’activités physiques.
-
-### Équitation
-
-
-- **(5)** Pour l’application de la définition de ***activité physique*** au paragraphe (1), l’équitation est réputée être une activité qui contribue à l’endurance cardio-respiratoire et à la réalisation d’un ou de plusieurs des objectifs suivants : la force musculaire, l’endurance musculaire, la souplesse et l’équilibre.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2007, ch. 35, art. 88; 2014, ch. 39, art. 89.
-
-
-
-
-
-### Programmes d’activités artistiques, culturelles, récréatives ou d’épanouissement
-
-
-
-**Définition de activité artistique, culturelle, récréative ou d’épanouissement**
-
-**9401** 
-
-- **(1)** Au présent article, ***activité artistique, culturelle, récréative ou d’épanouissement*** s’entend de toute activité supervisée convenant aux enfants, y compris une activité adaptée à des enfants à l’égard desquels une somme est déductible en application de l’article 118.3 de la Loi, mais à l’exclusion d’une activité physique, qui, selon le cas :
-	- **a)** vise à accroître la capacité de l’enfant à développer sa créativité, à acquérir et à appliquer des connaissances ou à améliorer sa dextérité ou sa coordination dans une discipline artistique ou culturelle, notamment :
-		- **(i)** les arts littéraires,
-		- **(ii)** les arts visuels,
-		- **(iii)** les arts de la scène,
-		- **(iv)** la musique,
-		- **(v)** les médias,
-		- **(vi)** les langues,
-		- **(vii)** les coutumes,
-		- **(viii)** le patrimoine;
-	- **b)** est consacrée essentiellement aux milieux sauvage et naturel;
-	- **c)** aide à améliorer et à utiliser la capacité intellectuelle;
-	- **d)** comprend une interaction structurée entre enfants, dans le cadre de laquelle des surveillants leur enseignent à acquérir des habiletés interpersonnelles ou les aident à le faire;
-	- **e)** offre un enrichissement ou du tutorat dans des matières scolaires.
-
-**Programme d’activités artistiques, culturelles, récréatives ou d’épanouissement**
-
-- **(2)** Pour l’application de la définition de ***dépense admissible*** au paragraphe 118.031(1) de la Loi, sont visés les programmes d’activités artistiques, culturelles, récréatives ou d’épanouissement suivants :
-	- **a)** tout programme hebdomadaire, ne faisant pas partie du programme d’études d’une école, d’une durée d’au moins huit semaines consécutives dans le cadre duquel la totalité ou la presque totalité des activités comprennent une part importante d’activités artistiques, culturelles, récréatives ou d’épanouissement;
-	- **b)** tout programme, ne faisant pas partie du programme d’études d’une école, d’une durée d’au moins cinq jours consécutifs et dont plus de 50 % des activités quotidiennes comprennent une part importante d’activités artistiques, culturelles, récréatives ou d’épanouissement;
-	- **c)** tout programme, ne faisant pas partie du programme d’études d’une école, d’une durée d’au moins huit semaines consécutives qui est offert aux enfants par un club, une association ou une organisation semblable (appelés « organisation » au présent article) dans des circonstances où le participant au programme peut choisir parmi diverses activités si, selon le cas :
-		- **(i)** plus de 50 % des activités offertes aux enfants par l’organisation sont des activités qui comprennent une part importante d’activités artistiques, culturelles, récréatives ou d’épanouissement,
-		- **(ii)** plus de 50 % du temps prévu pour les activités offertes aux enfants dans le cadre du programme est réservé à des activités qui comprennent une part importante d’activités artistiques, culturelles, récréatives ou d’épanouissement;
-	- **d)** toute adhésion à une organisation, ne faisant pas partie du programme d’études d’une école, d’une durée d’au moins huit semaines consécutives si plus de 50 % des activités offertes aux enfants par l’organisation comprennent une part importante d’activités artistiques, culturelles, récréatives ou d’épanouissement.
-
-**Installation polyvalente**
-
-- **(3)** Pour l’application de la définition de *** dépense admissible***  au paragraphe 118.031(1) de la Loi, est également un programme d’activités artistiques, culturelles, récréatives ou d’épanouissement visé la partie d’un programme — qui ne remplit pas les exigences de l’alinéa (2)c) et ne fait pas partie du programme d’études d’une école — d’une durée d’au moins huit semaines consécutives, offerte aux enfants par une organisation dans des circonstances où le participant au programme peut choisir parmi diverses activités, qui représente, selon le cas :
-	- **a)** le pourcentage des activités offertes aux enfants par l’organisation qui sont des activités comprenant une part importante d’activités artistiques, culturelles, récréatives ou d’épanouissement;
-	- **b)** le pourcentage du temps prévu pour les activités du programme qui est réservé à des activités comprenant une part importante d’activités artistiques, culturelles, récréatives ou d’épanouissement.
-
-**Adhésion**
-
-- **(4)** Pour l’application de la définition de  ***dépense admissible***  au paragraphe 118.031(1) de la Loi, est également un programme d’activités artistiques, culturelles, récréatives ou d’épanouissement visé la partie d’une adhésion à une organisation — qui ne remplit pas les exigences de l’alinéa (2)d) et ne fait pas partie du programme d’études d’une école — d’une durée d’au moins huit semaines consécutives, qui représente le pourcentage des activités offertes aux enfants par l’organisation qui sont des activités comprenant une part importante d’activités artistiques, culturelles, récréatives ou d’épanouissement.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2011, ch. 24, art. 99.
+**9401** [Abrogé, 2016, ch. 7, art. 59]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2011, ch. 24, art. 99; 2016, ch. 7, art. 59.
 
 
 
@@ -19972,15 +19904,15 @@ Les biens non compris dans aucune autre catégorie constitués par
 
 
 
-**e)** une jetée acquise avant le 26 mai 1976;
+**e)** une jetée acquise avant le 26 mai 1976;
 
 
 
-**f)** un môle acquis avant le 26 mai 1976;
+**f)** un môle acquis avant le 26 mai 1976;
 
 
 
-**g)** un chemin, un trottoir, une piste d’envol, un parc de stationnement, une aire d’emmagasinage ou une semblable construction en surface, acquis avant le 26 mai 1976;
+**g)** un chemin, un trottoir, une piste d’envol, un parc de stationnement, une aire d’emmagasinage ou une semblable construction en surface, acquis avant le 26 mai 1976;
 
 
 
@@ -19990,17 +19922,17 @@ Les biens non compris dans aucune autre catégorie constitués par
 
 
 
-**(ii)** qui ont été acquis après le 25 mai 1976;
+**(ii)** qui ont été acquis après le 25 mai 1976;
 
 
 
 
 
-**i)** l’équipement de contrôle ou de signalisation du trafic ferroviaire acquis après le 25 mai 1976, y compris l’équipement d’aiguillage, de signalisation de cantonnement, d’enclenchement, de protection des passages à niveau, de détection, de contrôle de la vitesse ou de retardement, mais non les biens qui sont constitués principalement d’équipement électronique ou de logiciels d’exploitation pour cet équipement,
+**i)** l’équipement de contrôle ou de signalisation du trafic ferroviaire acquis après le 25 mai 1976, y compris l’équipement d’aiguillage, de signalisation de cantonnement, d’enclenchement, de protection des passages à niveau, de détection, de contrôle de la vitesse ou de retardement, mais non les biens qui sont constitués principalement d’équipement électronique ou de logiciels d’exploitation pour cet équipement,
 
 
 
-**j)** un passage souterrain ou un tunnel, acquis après le 25 mai 1976;
+**j)** un passage souterrain ou un tunnel, acquis après le 25 mai 1976;
 
 
 
@@ -20111,15 +20043,15 @@ acquis par le contribuable
 
 **h)** soit avant 1990 et, selon le cas :
 
-**(i)** qui est acquis conformément à une obligation écrite contractée par le contribuable avant le 18 juin 1987,
+**(i)** qui est acquis conformément à une obligation écrite contractée par le contribuable avant le 18 juin 1987,
 
 
 
-**(ii)** dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987,
+**(ii)** dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987,
 
 
 
-**(iii)** qui est une machine ou un équipement constituant une partie fixe et intégrante d’un bâtiment, d’une structure, d’une installation d’usine ou d’un autre bien dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987.
+**(iii)** qui est une machine ou un équipement constituant une partie fixe et intégrante d’un bâtiment, d’une structure, d’une installation d’usine ou d’un autre bien dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987.
 
 
 
@@ -20142,15 +20074,15 @@ Les biens non compris dans aucune autre catégorie constitués par
 
 **(ii)** soit avant 1990 et, selon le cas :
 
-**(A)** qui est acquis conformément à une obligation écrite contractée par le contribuable avant le 18 juin 1987,
+**(A)** qui est acquis conformément à une obligation écrite contractée par le contribuable avant le 18 juin 1987,
 
 
 
-**(B)** dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987,
+**(B)** dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987,
 
 
 
-**(C)** qui est une partie constituante d’un bâtiment dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987;
+**(C)** qui est une partie constituante d’un bâtiment dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987;
 
 
 
@@ -20178,19 +20110,19 @@ Les biens non compris dans aucune autre catégorie constitués par
 
 
 
-**g)** un rajout ou une modification fait après le 31 mars 1967 et avant 1988 à un bâtiment qui aurait été compris dans la présente catégorie pendant cette période s’il n’avait pas été compris dans la catégorie 20;
+**g)** un rajout ou une modification fait après le 31 mars 1967 et avant 1988 à un bâtiment qui aurait été compris dans la présente catégorie pendant cette période s’il n’avait pas été compris dans la catégorie 20;
 
 
 
-**h)** une jetée acquise après le 25 mai 1976;
+**h)** une jetée acquise après le 25 mai 1976;
 
 
 
-**i)** un môle acquis après le 25 mai 1976;
+**i)** un môle acquis après le 25 mai 1976;
 
 
 
-**j)** de l’équipement téléphonique, télégraphique ou de transmission de données qui consiste en des fils ou des câbles, acquis après le 25 mai 1976;
+**j)** de l’équipement téléphonique, télégraphique ou de transmission de données qui consiste en des fils ou des câbles, acquis après le 25 mai 1976;
 
 
 
@@ -20235,7 +20167,7 @@ dans la mesure où le coût total du rajout ou de la modification ne dépasse pa
 
 Les biens, qui seraient autrement compris dans une autre catégorie de la présente annexe, constitués par
 
-**a)** un réseau de chemin de fer ou une partie dudit réseau, sauf le matériel automobile non destiné à fonctionner sur rails dont l’acquisition est postérieure à la fin de l’année d’imposition 1958 du contribuable et antérieure au 26 mai 1976; ou
+**a)** un réseau de chemin de fer ou une partie dudit réseau, sauf le matériel automobile non destiné à fonctionner sur rails dont l’acquisition est postérieure à la fin de l’année d’imposition 1958 du contribuable et antérieure au 26 mai 1976; ou
 
 
 
@@ -20353,7 +20285,7 @@ l’installation de la semelle de l’édifice ou d’un autre genre d’appui e
 
 
 
-**f)** un wagon-citerne de chemin de fer acquis avant le 26 mai 1976;
+**f)** un wagon-citerne de chemin de fer acquis avant le 26 mai 1976;
 
 
 
@@ -20367,7 +20299,7 @@ l’installation de la semelle de l’édifice ou d’un autre genre d’appui e
 
 **i)** un rajout ou une modification fait
 
-(A) après le 31 mars 1967 et avant l’an 1979, ou
+(A) après le 31 mars 1967 et avant l’an 1979, ou
 
 
 
@@ -20381,7 +20313,7 @@ l’installation de la semelle de l’édifice ou d’un autre genre d’appui e
 
 
 
-**j)** une locomotive de chemin de fer qui est acquise après le 25 mai 1976 et avant le 26 février 2008 et qui n’est pas une voiture de chemin de fer automobile;
+**j)** une locomotive de chemin de fer qui est acquise après le 25 mai 1976 et avant le 26 février 2008 et qui n’est pas une voiture de chemin de fer automobile;
 
 
 
@@ -20434,7 +20366,7 @@ Les biens constitués par
 
 
 
-**h)** sous réserve du choix prévu au paragraphe 1103(2i), un bien acquis après le 27 février 2000 qui est :
+**h)** sous réserve du choix prévu au paragraphe 1103(2i), un bien acquis après le 27 février 2000 qui est :
 
 **(i)** soit un dispositif de suspension sur rails conçu pour transporter des remorques conçues pour être utilisées sur route ou sur rail,
 
@@ -20446,11 +20378,11 @@ Les biens constitués par
 
 
 
-**i)** un bien acquis après le 27 février 2000 (sauf un bien visé à l’alinéa y) de la catégorie 10) qui est une locomotive de chemin de fer, mais non une voiture de chemin de fer automobile;
+**i)** un bien acquis après le 27 février 2000 (sauf un bien visé à l’alinéa y) de la catégorie 10) qui est une locomotive de chemin de fer, mais non une voiture de chemin de fer automobile;
 
 
 
-**j)** le matériel de pompage ou de compression, y compris ses appareils auxiliaires, acquis après le 22 février 2005 si le matériel sert à pomper ou à comprimer le pétrole, le gaz naturel ou un hydrocarbure connexe en vue de le transporter :
+**j)** le matériel de pompage ou de compression, y compris ses appareils auxiliaires, acquis après le 22 février 2005 si le matériel sert à pomper ou à comprimer le pétrole, le gaz naturel ou un hydrocarbure connexe en vue de le transporter :
 
 **(i)** soit au moyen d’un pipeline de transport,
 
@@ -20466,7 +20398,7 @@ Les biens constitués par
 
 
 
-**k)** le matériel de pompage ou de compression acquis après le 25 février 2008, y compris ses appareils auxiliaires, qui fait partie d’un pipeline et qui sert à pomper ou à comprimer le dioxyde de carbone en vue de son transport au moyen du pipeline.
+**k)** le matériel de pompage ou de compression acquis après le 25 février 2008, y compris ses appareils auxiliaires, qui fait partie d’un pipeline et qui sert à pomper ou à comprimer le dioxyde de carbone en vue de son transport au moyen du pipeline.
 
 
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 13; DORS/2005-371, art. 8; DORS/2006-117, art. 9; DORS/2009-126, art. 6..
@@ -20503,11 +20435,11 @@ Les biens non compris dans les catégories 1, 2, 7, 9, 11, 17 ou 30 qui sont con
 
 
 
-**d)** un bâtiment ou une autre structure, acquis après le 19 février 1973, qui est conçu pour préserver le fourrage ensilé dans une ferme;
+**d)** un bâtiment ou une autre structure, acquis après le 19 février 1973, qui est conçu pour préserver le fourrage ensilé dans une ferme;
 
 
 
-**e)** un bâtiment ou une autre structure, acquis après le 19 février 1973,
+**e)** un bâtiment ou une autre structure, acquis après le 19 février 1973,
 
 **(i)** qui est conçu pour l’entreposage de fruits ou légumes frais à un degré contrôlé de température et d’humidité, et
 
@@ -20519,7 +20451,7 @@ Les biens non compris dans les catégories 1, 2, 7, 9, 11, 17 ou 30 qui sont con
 
 
 
-**f)** du matériel générateur électrique acquis après le 25 mai 1976, si
+**f)** du matériel générateur électrique acquis après le 25 mai 1976, si
 
 **(i)** le contribuable n’est pas une personne dont l’entreprise principale est la production d’énergie électrique destinée à être utilisée par d’autres ou à leur être distribuée,
 
@@ -20535,11 +20467,11 @@ Les biens non compris dans les catégories 1, 2, 7, 9, 11, 17 ou 30 qui sont con
 
 
 
-**g)** le matériel générateur électrique, acquis après le 25 mai 1976, dont le débit maximum ne dépasse pas 15 kilowatts;
+**g)** le matériel générateur électrique, acquis après le 25 mai 1976, dont le débit maximum ne dépasse pas 15 kilowatts;
 
 
 
-**h)** le matériel générateur électrique mobile acquis après le 25 mai 1976;
+**h)** le matériel générateur électrique mobile acquis après le 25 mai 1976;
 
 
 
@@ -20591,7 +20523,7 @@ Les biens non compris dans les catégories 1, 2, 7, 9, 11, 17 ou 30 qui sont con
 
 
 
-**j)** des biens non compris dans l’une ou l’autre des catégories qui constituent de l’équipement de radio-communication acquis après le 25 mai 1976;
+**j)** des biens non compris dans l’une ou l’autre des catégories qui constituent de l’équipement de radio-communication acquis après le 25 mai 1976;
 
 
 
@@ -20614,7 +20546,7 @@ Les biens non compris dans les catégories 1, 2, 7, 9, 11, 17 ou 30 qui sont con
 **CATÉGORIE 9** 
 ## (25 pour cent)
 
-Les biens acquis avant le 26 mai 1976, autres que des biens compris dans la catégorie 30, constitués par
+Les biens acquis avant le 26 mai 1976, autres que des biens compris dans la catégorie 30, constitués par
 
 **a)** du matériel générateur électrique si
 
@@ -20652,7 +20584,7 @@ Les biens acquis avant le 26 mai 1976, autres que des biens compris dans la cat
 
 
 
-et les biens acquis après le 25 mai 1976, constitués par
+et les biens acquis après le 25 mai 1976, constitués par
 
 
 
@@ -20677,7 +20609,7 @@ Les biens non compris dans aucune autre catégorie constitués par
 
 **a)** le matériel automobile, y compris un autobus à trolley, mais non
 
-**(i)** une voiture de chemin de fer automobile acquise après le 25 mai 1976,
+**(i)** une voiture de chemin de fer automobile acquise après le 25 mai 1976,
 
 
 
@@ -20691,7 +20623,7 @@ Les biens non compris dans aucune autre catégorie constitués par
 
 
 
-**b)** un outil portatif acquis après le 25 mai 1976 dans le but de tirer un revenu locatif à court terme, à l’heure, à la journée, à la semaine ou au mois, sauf un bien décrit dans la catégorie 12,
+**b)** un outil portatif acquis après le 25 mai 1976 dans le but de tirer un revenu locatif à court terme, à l’heure, à la journée, à la semaine ou au mois, sauf un bien décrit dans la catégorie 12,
 
 
 
@@ -20707,7 +20639,7 @@ Les biens non compris dans aucune autre catégorie constitués par
 
 
 
-**f)** du matériel électronique universel de traitement de l’information et les logiciels d’exploitation pour cet équipement, y compris le matériel auxiliaire de traitement de l’information, acquis après le 25 mai 1976 et avant le 23 mars 2004 (ou après le 22 mars 2004 et avant 2005 si les biens font l’objet du choix prévu au paragraphe 1101(5q)), mais à l’exclusion des biens qui se composent principalement ou servent principalement :
+**f)** du matériel électronique universel de traitement de l’information et les logiciels d’exploitation pour cet équipement, y compris le matériel auxiliaire de traitement de l’information, acquis après le 25 mai 1976 et avant le 23 mars 2004 (ou après le 22 mars 2004 et avant 2005 si les biens font l’objet du choix prévu au paragraphe 1101(5q)), mais à l’exclusion des biens qui se composent principalement ou servent principalement :
 
 **(i)** d’équipement de contrôle ou de surveillance du processus électronique,
 
@@ -20755,11 +20687,11 @@ et les biens (sauf ceux compris dans les catégories 41, 41.1 ou 41.2 et ceux co
 
 **(iv)** une affinerie acquise par le contribuable
 
-**(A)** avant le 8 novembre 1969, ou
+**(A)** avant le 8 novembre 1969, ou
 
 
 
-**(B)** après le 7 novembre 1969 et utilisée avant le 8 novembre 1969 par toute personne avec laquelle le contribuable avait un lien de dépendance;
+**(B)** après le 7 novembre 1969 et utilisée avant le 8 novembre 1969 par toute personne avec laquelle le contribuable avait un lien de dépendance;
 
 
 
@@ -20807,7 +20739,7 @@ et les biens (sauf ceux compris dans les catégories 41, 41.1 ou 41.2 et ceux co
 
 
 
-sauf les biens acquis avant le 9 mai 1972 en vue de tirer ou de produire un revenu du traitement de minerais après leur extraction d’une ressource minérale qui n’appartient pas au contribuable;
+sauf les biens acquis avant le 9 mai 1972 en vue de tirer ou de produire un revenu du traitement de minerais après leur extraction d’une ressource minérale qui n’appartient pas au contribuable;
 
 
 
@@ -20839,7 +20771,7 @@ mais à condition qu’il ne soit pas
 
 
 
-**m)** les biens acquis après le 31 mars 1977, principalement dans le but de tirer un revenu d’une mine ou pour lui faire produire un revenu, s’ils sont constitués
+**m)** les biens acquis après le 31 mars 1977, principalement dans le but de tirer un revenu d’une mine ou pour lui faire produire un revenu, s’ils sont constitués
 
 **(i)** par une voie et un remblai de chemin de fer, y compris les rails, le ballast, les traverses et autre matériel,
 
@@ -20899,11 +20831,11 @@ mais à condition qu’il ne soit pas
 
 
 
-**s)** un film cinématographique ou une bande magnétoscopique acquis après le 25 mai 1976, sauf un bien visé aux alinéas w) ou x) ou compris dans la catégorie 12;
+**s)** un film cinématographique ou une bande magnétoscopique acquis après le 25 mai 1976, sauf un bien visé aux alinéas w) ou x) ou compris dans la catégorie 12;
 
 
 
-**t)** des biens acquis après le 22 mai 1979 et destinés principalement aux fins
+**t)** des biens acquis après le 22 mai 1979 et destinés principalement aux fins
 
 **(i)** de déterminer l’existence, l’endroit, l’étendue ou la qualité des gisements de pétrole ou de gaz naturel,
 
@@ -20967,7 +20899,7 @@ autres que les biens compris dans une catégorie distincte prescrite par le para
 
 
 
-**y)** une locomotive de chemin de fer qui n’est pas une voiture de chemin de fer automobile et qui n’a pas été utilisée ni acquise en vue d’être utilisée par un contribuable avant le 26 février 2008.
+**y)** une locomotive de chemin de fer qui n’est pas une voiture de chemin de fer automobile et qui n’a pas été utilisée ni acquise en vue d’être utilisée par un contribuable avant le 26 février 2008.
 
 
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-137, art. 6; DORS/79-426, art. 4; DORS/80-99, art. 1 et 2; DORS/80-926, art. 4; DORS/81-974, art. 14; DORS/86-1136, art. 13; DORS/89-27, art. 4; DORS/90-22, art. 15; DORS/94-140, art. 20; DORS/94-169, art. 9; DORS/2005-126, art. 6; DORS/2005-414, art. 5; DORS/2009-126, art. 7; 2010, ch. 25, art. 88; DORS/2010-93, art. 28(F); DORS/2011-9, art. 6; 2013, ch. 40, art. 116..
@@ -20988,7 +20920,7 @@ Les biens — voitures de tourisme dont le coût individuel, pour le contribuabl
 
 Les biens non compris dans aucune autre catégorie, qui servent à gagner un revenu de location, et qui sont constitués par
 
-**a)** une enseigne de publicité lumineuse dont le fabricant a la propriété, acquise avant le 26 mai 1976; ou
+**a)** une enseigne de publicité lumineuse dont le fabricant a la propriété, acquise avant le 26 mai 1976; ou
 
 
 
@@ -21000,11 +20932,11 @@ Les biens non compris dans aucune autre catégorie, qui servent à gagner un rev
 
 **(ii)** soit avant 1990 et, selon le cas :
 
-**(A)** qui ont été acquis conformément à une obligation écrite contractée par le contribuable avant le 18 juin 1987,
+**(A)** qui ont été acquis conformément à une obligation écrite contractée par le contribuable avant le 18 juin 1987,
 
 
 
-**(B)** dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987.
+**(B)** dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987.
 
 
 
@@ -21031,15 +20963,15 @@ Les biens non compris dans aucune autre catégorie constitués par
 
 **c)** un ustensile de cuisine coûtant moins de
 
-**(i)** 100 $, s’il a été acquis avant le 26 mai 1976, ou
+**(i)** 100 $, s’il a été acquis avant le 26 mai 1976, ou
 
 
 
-**(ii)** 200 $, s’il a été acquis après le 25 mai 1976 et avant le 2 mai 2006,
+**(ii)** 200 $, s’il a été acquis après le 25 mai 1976 et avant le 2 mai 2006,
 
 
 
-**(iii)** 500 $, s’il a été acquis après le 1<sup>er</sup> mai 2006;
+**(iii)** 500 $, s’il a été acquis après le 1<sup>er</sup> mai 2006;
 
 
 
@@ -21051,15 +20983,15 @@ Les biens non compris dans aucune autre catégorie constitués par
 
 **e)** un instrument de médecin ou de dentiste coûtant moins de
 
-**(i)** 100 $, s’il a été acquis avant le 26 mai 1976, ou
+**(i)** 100 $, s’il a été acquis avant le 26 mai 1976, ou
 
 
 
-**(ii)** 200 $, s’il a été acquis après le 25 mai 1976 et avant le 2 mai 2006,
+**(ii)** 200 $, s’il a été acquis après le 25 mai 1976 et avant le 2 mai 2006,
 
 
 
-**(iii)** 500 $, s’il a été acquis après le 1<sup>er</sup> mai 2006;
+**(iii)** 500 $, s’il a été acquis après le 1<sup>er</sup> mai 2006;
 
 
 
@@ -21073,17 +21005,17 @@ Les biens non compris dans aucune autre catégorie constitués par
 
 
 
-**h)** un outil (sauf un dispositif électronique de communication ou un appareil électronique de traitement de données acquis après le 1<sup>er</sup> mai 2006 qui peut être utilisé autrement que pour mesurer, localiser ou calculer) coûtant moins de :
+**h)** un outil (sauf un dispositif électronique de communication ou un appareil électronique de traitement de données acquis après le 1<sup>er</sup> mai 2006 qui peut être utilisé autrement que pour mesurer, localiser ou calculer) coûtant moins de :
 
-**(i)** 100 $, s’il a été acquis avant le 26 mai 1976,
-
-
-
-**(ii)** 200 $, s’il a été acquis après le 25 mai 1976 et avant le 2 mai 2006,
+**(i)** 100 $, s’il a été acquis avant le 26 mai 1976,
 
 
 
-**(iii)** 500 $, s’il a été acquis après le 1<sup>er</sup> mai 2006;
+**(ii)** 200 $, s’il a été acquis après le 25 mai 1976 et avant le 2 mai 2006,
+
+
+
+**(iii)** 500 $, s’il a été acquis après le 1<sup>er</sup> mai 2006;
 
 
 
@@ -21101,7 +21033,7 @@ Les biens non compris dans aucune autre catégorie constitués par
 
 
 
-**l)** une bande magnétoscopique acquise avant le 26 mai 1976;
+**l)** une bande magnétoscopique acquise avant le 26 mai 1976;
 
 
 
@@ -21113,11 +21045,11 @@ Les biens non compris dans aucune autre catégorie constitués par
 
 
 
-**o)** un logiciel acquis après le 25 mai 1976, mais non un logiciel d’exploitation ou un bien figurant à l’alinéa s);
+**o)** un logiciel acquis après le 25 mai 1976, mais non un logiciel d’exploitation ou un bien figurant à l’alinéa s);
 
 
 
-**p)** une balance métrique ou facilement convertissable au système métrique, acquise après le 31 mars 1977 et avant 1984 pour être utilisée dans un commerce de détail et dont la capacité maximale est de 100 kg;
+**p)** une balance métrique ou facilement convertissable au système métrique, acquise après le 31 mars 1977 et avant 1984 pour être utilisée dans un commerce de détail et dont la capacité maximale est de 100 kg;
 
 
 
@@ -21125,7 +21057,7 @@ Les biens non compris dans aucune autre catégorie constitués par
 
 
 
-**r)** une vidéocassette, un vidéodisque laser ou un vidéodisque numérique, acquis en vue d’être loué et dont la période de location prévue, par personne, ne dépasse pas sept jours par période de 30 jours;
+**r)** une vidéocassette, un vidéodisque laser ou un vidéodisque numérique, acquis en vue d’être loué et dont la période de location prévue, par personne, ne dépasse pas sept jours par période de 30 jours;
 
 
 
@@ -21133,7 +21065,7 @@ ainsi que les biens qui seraient compris par ailleurs dans une autre catégorie 
 
 
 
-**s)** les biens suivants qu’un contribuable acquiert après le 8 août 1989 et avant 1993 en vue de leur utilisation dans une entreprise exploitée au Canada qui consiste à vendre des produits ou à fournir des services à des consommateurs ou de leur location à bail à un autre contribuable pour utilisation par celui-ci dans une telle entreprise :
+**s)** les biens suivants qu’un contribuable acquiert après le 8 août 1989 et avant 1993 en vue de leur utilisation dans une entreprise exploitée au Canada qui consiste à vendre des produits ou à fournir des services à des consommateurs ou de leur location à bail à un autre contribuable pour utilisation par celui-ci dans une telle entreprise :
 
 **(i)** le matériel électronique de lecture des codes barres conçu pour lire les codes barres apposés sur les produits mis en vente dans le cours normal des activités de l’entreprise,
 
@@ -21205,6 +21137,59 @@ Les biens constitués par un brevet, une concession ou un permis de durée limit
 
 
 
+**CATÉGORIE 14.1** 
+## (5 pour cent)
+
+Les biens d’un contribuable qui sont relatifs à une entreprise du contribuable et qui, selon le cas :
+
+**a)** représentent l’achalandage relatif à l’entreprise;
+
+
+
+**b)** étaient des immobilisations admissibles du contribuable immédiatement avant 2017 et lui appartiennent au début du 1<sup>er</sup> janvier 2017;
+
+
+
+**c)** sont acquis après 2016, sauf s’il s’agit des biens suivants :
+
+**(i)** les biens tangibles ou, pour l’application du droit civil, les biens corporels,
+
+
+
+**(ii)** les biens qui ne sont pas acquis en vue de tirer un revenu d’entreprise,
+
+
+
+**(iii)** les biens relativement auxquels une somme est déductible (autrement qu’en raison de leur inclusion dans la présente catégorie) dans le calcul du revenu du contribuable provenant de l’entreprise,
+
+
+
+**(iv)** les biens relativement auxquels une somme n’est pas déductible dans le calcul du revenu du contribuable provenant de l’entreprise par l’effet d’une disposition de la Loi (sauf son alinéa 18(1)b)) ou du présent règlement,
+
+
+
+**(v)** les participations dans les fiducies,
+
+
+
+**(vi)** les participations dans les sociétés de personnes,
+
+
+
+**(vii)** les actions, obligations, débentures, créances hypothécaires, billets, effets et autres biens semblables,
+
+
+
+**(viii)** les intérêts ou, pour l’application du droit civil, les droits, sur les biens visés aux sous-alinéas (i) à (vii), ou les droits d’acquérir de tels biens.
+
+
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] 2016, ch. 12, art. 84..
+
+
+
+
+
+
 **CATÉGORIE 15** 
 
 Les biens qui seraient compris par ailleurs dans une autre catégorie de la présente annexe et qui répondent aux conditions suivantes :
@@ -21236,7 +21221,7 @@ Sont exclus de la présente catégorie :
 **CATÉGORIE 16** 
 ## (40 pour cent)
 
-Les biens acquis avant le 26 mai 1976 constitués par
+Les biens acquis avant le 26 mai 1976 constitués par
 
 **a)** un avion,
 
@@ -21250,7 +21235,7 @@ Les biens acquis avant le 26 mai 1976 constitués par
 
 
 
-les biens acquis après le 25 mai 1976, constitués par
+les biens acquis après le 25 mai 1976, constitués par
 
 
 
@@ -21258,7 +21243,7 @@ les biens acquis après le 25 mai 1976, constitués par
 
 
 
-les biens acquis après le 12 novembre 1981, constitués par :
+les biens acquis après le 12 novembre 1981, constitués par :
 
 
 
@@ -21278,7 +21263,7 @@ les biens acquis après le 12 novembre 1981, constitués par :
 
 
 
-les biens acquis après le 15 février 1984, constitués par :
+les biens acquis après le 15 février 1984, constitués par :
 
 
 
@@ -21286,7 +21271,7 @@ les biens acquis après le 15 février 1984, constitués par :
 
 
 
-et les biens acquis après le 6 décembre 1991, constitués par :
+et les biens acquis après le 6 décembre 1991, constitués par :
 
 
 
@@ -21303,7 +21288,7 @@ et les biens acquis après le 6 décembre 1991, constitués par :
 
 Les biens qui autrement seraient compris dans une autre catégorie de la présente annexe et qui sont constitués par
 
-**a)** un réseau téléphonique ou télégraphique ou une partie dudit réseau, acquis avant le 26 mai 1976, sauf
+**a)** un réseau téléphonique ou télégraphique ou une partie dudit réseau, acquis avant le 26 mai 1976, sauf
 
 **(i)** un équipement de radiocommunication, ou
 
@@ -21315,7 +21300,7 @@ Les biens qui autrement seraient compris dans une autre catégorie de la présen
 
 
 
-**a.1)** un bien (sauf un bâtiment ou une autre construction) acquis après le 27 février 2000 qui n’a pas été utilisé à quelque fin que ce soit avant le 28 février 2000 et qui est :
+**a.1)** un bien (sauf un bâtiment ou une autre construction) acquis après le 27 février 2000 qui n’a pas été utilisé à quelque fin que ce soit avant le 28 février 2000 et qui est :
 
 **(i)** soit du matériel générateur d’électricité, sauf celui compris dans les catégories 8 (par l’effet de ses alinéas f) à h)), 43.1, 43.2 ou 48,
 
@@ -21327,7 +21312,7 @@ Les biens qui autrement seraient compris dans une autre catégorie de la présen
 
 
 
-ainsi que les biens ci-après qui ont été acquis après le 25 mai 1976 et ne sont compris dans aucune autre catégorie de la présente annexe :
+ainsi que les biens ci-après qui ont été acquis après le 25 mai 1976 et ne sont compris dans aucune autre catégorie de la présente annexe :
 
 
 
@@ -21354,7 +21339,7 @@ ainsi que les biens ci-après qui ont été acquis après le 25 mai 1976 et ne 
 **CATÉGORIE 18** 
 ## (60 pour cent)
 
-Les biens constitués d’un film cinématographique acquis avant le 26 mai 1976, sauf
+Les biens constitués d’un film cinématographique acquis avant le 26 mai 1976, sauf
 
 **a)** d’un message publicitaire pour la télévision;
 
@@ -21370,7 +21355,7 @@ Les biens constitués d’un film cinématographique acquis avant le 26 mai 197
 
 **CATÉGORIE 19** 
 
-Les biens acquis par le contribuable après le 13 juin 1963 et avant le 1<sup>er</sup> janvier 1967 qui seraient autrement compris dans la catégorie 8, si
+Les biens acquis par le contribuable après le 13 juin 1963 et avant le 1<sup>er</sup> janvier 1967 qui seraient autrement compris dans la catégorie 8, si
 
 **a)** dans l’année d’imposition où les biens ont été acquis
 
@@ -21448,7 +21433,7 @@ n’était pas inférieur aux 2/3 du montant par lequel le revenu brut tiré de 
 
 Les biens qui seraient autrement compris dans la catégorie 3 ou 6
 
-**a)** qui ont été acquis après le 5 décembre 1963 mais avant le 1<sup>er</sup> avril 1967, et qui sont constitués par
+**a)** qui ont été acquis après le 5 décembre 1963 mais avant le 1<sup>er</sup> avril 1967, et qui sont constitués par
 
 **(i)** un édifice,
 
@@ -21460,7 +21445,7 @@ Les biens qui seraient autrement compris dans la catégorie 3 ou 6
 
 
 
-**(B)** de 25 pour cent du coût en capital, pour le contribuable, de l’édifice au 5 décembre 1963, ou
+**(B)** de 25 pour cent du coût en capital, pour le contribuable, de l’édifice au 5 décembre 1963, ou
 
 
 
@@ -21508,7 +21493,7 @@ et qui, suivant l’attestation du ministre de l’Industrie, sur demande faite 
 
 Les biens qui seraient autrement compris dans la catégorie 8 ou 19
 
-**a)** qui ont été acquis après le 5 décembre 1963 mais avant le 1<sup>er</sup> avril 1967, et qui
+**a)** qui ont été acquis après le 5 décembre 1963 mais avant le 1<sup>er</sup> avril 1967, et qui
 
 **(i)** ont été acquis pour être utilisés dans une entreprise exercée par le contribuable dont le ministre de l’Industrie a attesté, aux fins de l’article 71A de l’ancienne Loi, (au sens attribué par l’alinéa 8b) des [Règles concernant l’application de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%202%20(5e%20suppl.).md)), qu’elle était une nouvelle entreprise de fabrication ou de transformation dans une région désignée pour l’exercice dans lequel les biens ont été acquis ou pour un exercice subséquent, et
 
@@ -21530,7 +21515,7 @@ Les biens qui seraient autrement compris dans la catégorie 8 ou 19
 
 **CATÉGORIE 22** 
 
-Les biens qui sont du matériel mobile à moteur conçu pour l’excavation, le déplacement, la mise en place ou le compactage de terre, de pierre, de béton ou d’asphalte — à l’exception des biens compris dans la catégorie 7 — acquis par le contribuable après le 16 mars 1964 et :
+Les biens qui sont du matériel mobile à moteur conçu pour l’excavation, le déplacement, la mise en place ou le compactage de terre, de pierre, de béton ou d’asphalte — à l’exception des biens compris dans la catégorie 7 — acquis par le contribuable après le 16 mars 1964 et :
 
 **a)** soit avant 1988;
 
@@ -21538,11 +21523,11 @@ Les biens qui sont du matériel mobile à moteur conçu pour l’excavation, le 
 
 **b)** soit avant 1990 et, selon le cas :
 
-**(i)** qui ont été acquis conformément à une obligation écrite contractée par le contribuable avant le 18 juin 1987,
+**(i)** qui ont été acquis conformément à une obligation écrite contractée par le contribuable avant le 18 juin 1987,
 
 
 
-**(ii)** dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987.
+**(ii)** dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987.
 
 
 
@@ -21557,19 +21542,19 @@ Les biens qui sont du matériel mobile à moteur conçu pour l’excavation, le 
 
 Les biens constitués par
 
-**a)** une tenure à bail ou une concession à l’égard d’un terrain concédé en vertu ou en conformité d’une convention conclue par écrit avec la Compagnie de l’exposition universelle canadienne de 1967, dans les cas où ladite tenure à bail ou concession doit expirer au plus tard le 15 juin 1968;
+**a)** une tenure à bail ou une concession à l’égard d’un terrain concédé en vertu ou en conformité d’une convention conclue par écrit avec la Compagnie de l’exposition universelle canadienne de 1967, dans les cas où ladite tenure à bail ou concession doit expirer au plus tard le 15 juin 1968;
 
 
 
-**b)** un bâtiment ou autre structure, y compris les parties constituantes, érigée sur le terrain faisant l’objet d’une tenure à bail ou d’une concession prévue à l’alinéa a), dans les cas où ledit bâtiment ou ladite structure, y compris les parties constituantes, a un caractère provisoire et devra, en vertu de la convention, être enlevée au plus tard le 15 juin 1968;
+**b)** un bâtiment ou autre structure, y compris les parties constituantes, érigée sur le terrain faisant l’objet d’une tenure à bail ou d’une concession prévue à l’alinéa a), dans les cas où ledit bâtiment ou ladite structure, y compris les parties constituantes, a un caractère provisoire et devra, en vertu de la convention, être enlevée au plus tard le 15 juin 1968;
 
 
 
-**c)** une tenure à bail ou un permis à l’égard d’un terrain concédé en vertu ou en conformité d’une convention conclue par écrit avec la société Expo 86 dans les cas où la tenure à bail ou le permis doit expirer au plus tard le 31 janvier 1987; ou
+**c)** une tenure à bail ou un permis à l’égard d’un terrain concédé en vertu ou en conformité d’une convention conclue par écrit avec la société Expo 86 dans les cas où la tenure à bail ou le permis doit expirer au plus tard le 31 janvier 1987; ou
 
 
 
-**d)** un bâtiment ou autre structure, y compris les parties constituantes, érigé sur le terrain faisant l’objet d’une tenure à bail ou d’un permis prévu à l’alinéa c), dans les cas où le bâtiment ou la structure, y compris les parties constituantes, a un caractère provisoire et devra, en vertu de la convention, être enlevé au plus tard le 31 janvier 1987.
+**d)** un bâtiment ou autre structure, y compris les parties constituantes, érigé sur le terrain faisant l’objet d’une tenure à bail ou d’un permis prévu à l’alinéa c), dans les cas où le bâtiment ou la structure, y compris les parties constituantes, a un caractère provisoire et devra, en vertu de la convention, être enlevé au plus tard le 31 janvier 1987.
 
 
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/85-13, art. 2; DORS/94-686, art. 79(F)..
@@ -21579,7 +21564,7 @@ Les biens constitués par
 
 **CATÉGORIE 24** 
 
-Les biens acquis après le 26 avril 1965 et avant 1971
+Les biens acquis après le 26 avril 1965 et avant 1971
 
 **a)** qui autrement seraient compris dans la catégorie 2, 3, 6 ou 8 et qui
 
@@ -21605,7 +21590,7 @@ par des déchets industriels, détritus ou eaux-vannes produits par des opérati
 
 
 
-à l’exclusion des biens acquis pour être utilisés dans la production de sous-produits ou la récupération de matériaux, à moins que les sous-produits ne proviennent ou que les matériaux ne soient récupérés de matériaux qui, après le 26 avril 1965,
+à l’exclusion des biens acquis pour être utilisés dans la production de sous-produits ou la récupération de matériaux, à moins que les sous-produits ne proviennent ou que les matériaux ne soient récupérés de matériaux qui, après le 26 avril 1965,
 
 **(iii)** étaient mis au rebut par le contribuable, ou
 
@@ -21659,7 +21644,7 @@ qui est imputable ou qui, si les biens n’avaient pas été acquis et utilisés
 
 
 
-ou qu’il a acquis après le 8 mai 1972 et qui autrement auraient été des biens visés au présent sous-alinéa, sauf qu’ils
+ou qu’il a acquis après le 8 mai 1972 et qui autrement auraient été des biens visés au présent sous-alinéa, sauf qu’ils
 
 **(F)** ont été acquis,
 
@@ -21718,15 +21703,15 @@ Pour l’application des alinéas a) et b) :
 
 Les biens qui autrement seraient compris dans une autre catégorie de la présente annexe et qui ont été acquis par le contribuable
 
-**a)** avant le 23 octobre 1968, ou
+**a)** avant le 23 octobre 1968, ou
 
 
 
-**b)** après le 22 octobre 1968 et avant 1974, lorsque l’acquisition des biens peut raisonnablement être considérée comme étant l’exécution d’un engagement pris dans une entente conclue par écrit avant le 23 octobre 1968 et ratifiée, confirmée ou adoptée par la législature d’une province au moyen d’une loi entrée en vigueur avant cette date-là,
+**b)** après le 22 octobre 1968 et avant 1974, lorsque l’acquisition des biens peut raisonnablement être considérée comme étant l’exécution d’un engagement pris dans une entente conclue par écrit avant le 23 octobre 1968 et ratifiée, confirmée ou adoptée par la législature d’une province au moyen d’une loi entrée en vigueur avant cette date-là,
 
 
 
-si le contribuable était, le 22 octobre 1968, une société, une commission ou une association à l’égard de laquelle, en présumant que le 22 octobre 1968 tombait dans son année d’imposition 1969, l’alinéa 62(1)c) de l’ancienne Loi (au sens attribué par l’alinéa 8b) des [Règles concernant l’application de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%202%20(5e%20suppl.).md)),
+si le contribuable était, le 22 octobre 1968, une société, une commission ou une association à l’égard de laquelle, en présumant que le 22 octobre 1968 tombait dans son année d’imposition 1969, l’alinéa 62(1)c) de l’ancienne Loi (au sens attribué par l’alinéa 8b) des [Règles concernant l’application de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%202%20(5e%20suppl.).md)),
 
 
 
@@ -21751,7 +21736,7 @@ Les biens constitués par
 
 
 
-**b)** l’eau enrichie au deutérium (communément appelée « l’eau lourde » acquis après le 22 mai 1979.
+**b)** l’eau enrichie au deutérium (communément appelée « l’eau lourde » acquis après le 22 mai 1979.
 
 
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/79-427, art. 3..
@@ -21771,7 +21756,7 @@ Les biens acquis avant 1999 qui seraient autrement compris dans une autre catég
 
 
 
-**c)** ont été acquis par le contribuable après le 12 mars 1970 principalement pour prévenir, réduire ou éliminer la pollution de l’air
+**c)** ont été acquis par le contribuable après le 12 mars 1970 principalement pour prévenir, réduire ou éliminer la pollution de l’air
 
 **(i)** en retirant les particules de substances toxiques ou délétères de la fumée ou du gaz, ou
 
@@ -21799,7 +21784,7 @@ qui sont, ou qui, si les biens n’avaient pas été acquis et utilisés, seraie
 
 
 
-ou qu’il a acquis après le 8 mai 1972 et qui autrement auraient été des biens visés au présent alinéa, sauf qu’ils
+ou qu’il a acquis après le 8 mai 1972 et qui autrement auraient été des biens visés au présent alinéa, sauf qu’ils
 
 **(vi)** ont été acquis,
 
@@ -21863,15 +21848,15 @@ Les biens situés au Canada qui seraient compris par ailleurs dans une autre cat
 
 **(ii)** soit avant 1990 et, selon le cas :
 
-**(A)** qui ont été acquis conformément à une obligation écrite contractée par le contribuable avant le 18 juin 1987,
+**(A)** qui ont été acquis conformément à une obligation écrite contractée par le contribuable avant le 18 juin 1987,
 
 
 
-**(B)** dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987,
+**(B)** dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987,
 
 
 
-**(C)** qui sont des machines ou de l’équipement constituant une partie fixe et intégrante d’un bâtiment, d’une structure, d’une installation d’usine ou d’un autre bien dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987,
+**(C)** qui sont des machines ou de l’équipement constituant une partie fixe et intégrante d’un bâtiment, d’une structure, d’une installation d’usine ou d’un autre bien dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987,
 
 
 
@@ -21885,11 +21870,11 @@ et d’autre part :
 
 **b)** ont été acquis par le contribuable principalement dans le but de tirer un revenu d’une ou plusieurs mines qu’il exploite, qui sont situées au Canada et dont chacune :
 
-**(i)** soit est entrée en production en quantités commerciales raisonnables après le 7 novembre 1969,
+**(i)** soit est entrée en production en quantités commerciales raisonnables après le 7 novembre 1969,
 
 
 
-**(ii)** soit a fait l’objet d’importants travaux d’expansion après le 7 novembre 1969 et, selon le cas :
+**(ii)** soit a fait l’objet d’importants travaux d’expansion après le 7 novembre 1969 et, selon le cas :
 
 **(A)** par suite des travaux, la capacité maximale projetée, mesurée selon le poids des entrées de minerai, de l’usine qui a traité le minerai provenant de la mine, au cours de l’année suivant les travaux, dépassait d’au moins 25 % la capacité maximale projetée de l’usine au cours de l’année précédant les travaux,
 
@@ -21921,7 +21906,7 @@ et d’autre part :
 
 **c)** ont été acquis par le contribuable, à la fois :
 
-**(i)** après le 7 novembre 1969,
+**(i)** après le 7 novembre 1969,
 
 
 
@@ -21955,7 +21940,7 @@ et d’autre part :
 
 
 
-ou qui seraient visés aux alinéas b), c), d) et e) si, à ces alinéas, la mention de « mine » valait mention de « mine située dans un gisement de sables bitumineux, de sables pétrolifères ou de schistes bitumineux dont des matières sont extraites » et la mention « après le 7 novembre 1969 » valait mention de « avant le 8 novembre 1969 ».
+ou qui seraient visés aux alinéas b), c), d) et e) si, à ces alinéas, la mention de « mine » valait mention de « mine située dans un gisement de sables bitumineux, de sables pétrolifères ou de schistes bitumineux dont des matières sont extraites » et la mention « après le 7 novembre 1969 » valait mention de « avant le 8 novembre 1969 ».
 
 
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-137, art. 8; DORS/80-926, art. 5; DORS/90-22, art. 18; DORS/94-140, art. 26; DORS/2000-327, art. 5..
@@ -21965,9 +21950,9 @@ ou qui seraient visés aux alinéas b), c), d) et e) si, à ces alinéas, la men
 
 **CATÉGORIE 29** 
 
-Les biens, sauf ceux qui ne sont compris dans la catégorie 41 que par l’effet de ses alinéas c) ou d) et ceux qui sont compris dans la catégorie 47 par l’effet de son alinéa b), qui seraient compris par ailleurs dans une autre catégorie de la présente annexe et qui remplissent les conditions suivantes :
+Les biens, sauf ceux qui ne sont compris dans la catégorie 41 que par l’effet de ses alinéas c) ou d) et ceux qui sont compris dans la catégorie 47 par l’effet de son alinéa b), qui seraient compris par ailleurs dans une autre catégorie de la présente annexe et qui remplissent les conditions suivantes :
 
-**a)** c’est-à-dire les biens fabriqués par le contribuable et dont la fabrication a été achevée après le 8 mai 1972, ou autres biens acquis par le contribuable après le 8 mai 1972,
+**a)** c’est-à-dire les biens fabriqués par le contribuable et dont la fabrication a été achevée après le 8 mai 1972, ou autres biens acquis par le contribuable après le 8 mai 1972,
 
 **(i)** et devant être utilisés directement ou indirectement par lui au Canada surtout pour la fabrication ou la transformation de marchandises en vue de la vente ou de la location, ou
 
@@ -21997,7 +21982,7 @@ Les biens, sauf ceux qui ne sont compris dans la catégorie 41 que par l’effet
 
 
 
-ou groupe une ou plusieurs des activités qui précèdent, à moins que l’utilisation de ces biens par le preneur n’ait commencé avant le 9 mai 1972;
+ou groupe une ou plusieurs des activités qui précèdent, à moins que l’utilisation de ces biens par le preneur n’ait commencé avant le 9 mai 1972;
 
 
 
@@ -22027,7 +22012,7 @@ ou groupe une ou plusieurs des activités qui précèdent, à moins que l’util
 
 **(vi)** les biens qui seraient visés à l’alinéa f) de la catégorie 10 si le passage de cet alinéa précédant le sous-alinéa (i) avait le libellé suivant :
 
-**« f)** du matériel électronique universel de traitement de l’information et les logiciels de systèmes connexes, y compris le matériel auxiliaire de traitement de l’information, acquis après le 18 mars 2007 et avant le 28 janvier 2009, mais à l’exclusion des biens qui se composent principalement ou servent principalement : »
+**« f)** du matériel électronique universel de traitement de l’information et les logiciels de systèmes connexes, y compris le matériel auxiliaire de traitement de l’information, acquis après le 18 mars 2007 et avant le 28 janvier 2009, mais à l’exclusion des biens qui se composent principalement ou servent principalement : »
 
 
 
@@ -22043,15 +22028,15 @@ ou groupe une ou plusieurs des activités qui précèdent, à moins que l’util
 
 **(ii)** soit avant 1990 et, selon le cas :
 
-**(A)** qui ont été acquis conformément à une obligation écrite contractée par le contribuable avant le 18 juin 1987,
+**(A)** qui ont été acquis conformément à une obligation écrite contractée par le contribuable avant le 18 juin 1987,
 
 
 
-**(B)** dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987,
+**(B)** dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987,
 
 
 
-**(C)** qui sont des machines ou de l’équipement constituant une partie fixe et intégrante d’un bâtiment, d’une structure, d’une installation d’usine ou d’un autre bien dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987,
+**(C)** qui sont des machines ou de l’équipement constituant une partie fixe et intégrante d’un bâtiment, d’une structure, d’une installation d’usine ou d’un autre bien dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987,
 
 
 
@@ -22136,11 +22121,11 @@ Un bien qui est un immeuble résidentiel à logements multiples au Canada, qui a
 
 **(i)** à l’égard d’un immeuble qui autrement serait compris dans la catégorie 3, l’installation de semelles ou de tout autre assise du bâtiment a débuté
 
-**(A)** après le 18 novembre 1974 et avant 1980, ou
+**(A)** après le 18 novembre 1974 et avant 1980, ou
 
 
 
-**(B)** après le 28 octobre 1980 et avant 1982,
+**(B)** après le 28 octobre 1980 et avant 1982,
 
 
 
@@ -22150,7 +22135,7 @@ selon le cas, et
 
 
 
-**(ii)** à l’égard d’un immeuble qui autrement serait compris dans la catégorie 6, l’installation des semelles ou de toute autre assise du bâtiment a débuté après le 31 décembre 1977 et avant 1979,
+**(ii)** à l’égard d’un immeuble qui autrement serait compris dans la catégorie 6, l’installation des semelles ou de toute autre assise du bâtiment a débuté après le 31 décembre 1977 et avant 1979,
 
 
 
@@ -22166,7 +22151,7 @@ et que selon les plans et devis du bâtiment, les logements autonomes et l’esp
 
 **c)** l’attestation visée à l’alinéa a) a été délivrée au plus tard à la dernière des deux dates suivantes :
 
-**(i)** le 31 décembre 1981, et
+**(i)** le 31 décembre 1981, et
 
 
 
@@ -22184,17 +22169,17 @@ et qui a été acquis par le contribuable :
 
 
 
-**e)** soit avant le 18 juin 1987;
+**e)** soit avant le 18 juin 1987;
 
 
 
-**f)** soit après le 17 juin 1987 conformément :
+**f)** soit après le 17 juin 1987 conformément :
 
-**(i)** à une obligation écrite contractée par le contribuable avant le 18 juin 1987, ou
+**(i)** à une obligation écrite contractée par le contribuable avant le 18 juin 1987, ou
 
 
 
-**(ii)** à un prospectus, à un prospectus provisoire, à une déclaration d’enregistrement, à une notice d’offre ou à un avis dont la production auprès d’un organisme public au Canada est exigée, produit auprès de celui-ci avant le 18 juin 1987.
+**(ii)** à un prospectus, à un prospectus provisoire, à une déclaration d’enregistrement, à une notice d’offre ou à un avis dont la production auprès d’un organisme public au Canada est exigée, produit auprès de celui-ci avant le 18 juin 1987.
 
 
 
@@ -22211,7 +22196,7 @@ Un bien qui est un immeuble résidentiel à logements multiples au Canada, qui a
 
 **a)** une attestation a été délivrée par la Société centrale d’hypothèques et de logement portant que
 
-**(i)** l’installation des semelles ou de toute autre assise du bâtiment a débuté après le 18 novembre 1974 et avant 1978, et que,
+**(i)** l’installation des semelles ou de toute autre assise du bâtiment a débuté après le 18 novembre 1974 et avant 1978, et que,
 
 
 
@@ -22264,7 +22249,7 @@ mais sans comprendre des édifices ou autres structures,
 
 
 
-**b)** qui ont été acquis par le contribuable après le 25 mai 1976,
+**b)** qui ont été acquis par le contribuable après le 25 mai 1976,
 
 
 
@@ -22282,7 +22267,7 @@ mais sans comprendre des édifices ou autres structures,
 
 **d)** qui sont des biens à l’égard desquels un certificat a été délivré
 
-**(i)** avant le 11 décembre 1979, par le ministre de l’Industrie et du Commerce, pour attester qu’ils faisaient partie d’un plan conçu pour
+**(i)** avant le 11 décembre 1979, par le ministre de l’Industrie et du Commerce, pour attester qu’ils faisaient partie d’un plan conçu pour
 
 **(A)** produire de la chaleur à partir principalement de déchets de bois ou de déchets provenant de municipalités,
 
@@ -22298,7 +22283,7 @@ mais sans comprendre des édifices ou autres structures,
 
 
 
-**(ii)** après le 10 décembre 1979, par le ministre de l’Énergie, des Mines et des Ressources, pour attester qu’ils faisaient partie d’un plan conçu pour
+**(ii)** après le 10 décembre 1979, par le ministre de l’Énergie, des Mines et des Ressources, pour attester qu’ils faisaient partie d’un plan conçu pour
 
 **(A)** produire de la chaleur à partir principalement de gaz naturel, de charbon, de gaz de houille, de lignite, de tourbe, de déchets de bois et de déchets provenant d’une municipalité, ou d’une combinaison de ces combustibles,
 
@@ -22316,7 +22301,7 @@ mais sans comprendre des édifices ou autres structures,
 
 
 
-et les biens qui ont été acquis par le contribuable après le 10 décembre 1979 (à l’exception des biens visés à l’alinéa a)) et qui seraient par ailleurs inclus dans une autre catégorie de la présente annexe,
+et les biens qui ont été acquis par le contribuable après le 10 décembre 1979 (à l’exception des biens visés à l’alinéa a)) et qui seraient par ailleurs inclus dans une autre catégorie de la présente annexe,
 
 
 
@@ -22328,7 +22313,7 @@ et les biens qui ont été acquis par le contribuable après le 10 décembre 19
 
 
 
-**(B)** servir au chauffage, lorsque ceux-ci sont installés dans un nouvel immeuble ou une autre structure nouvelle au moment de la construction initiale et que celle-ci a commencé après le 10 décembre 1979, ou
+**(B)** servir au chauffage, lorsque ceux-ci sont installés dans un nouvel immeuble ou une autre structure nouvelle au moment de la construction initiale et que celle-ci a commencé après le 10 décembre 1979, ou
 
 
 
@@ -22350,7 +22335,7 @@ et les biens qui ont été acquis par le contribuable après le 10 décembre 19
 
 
 
-**(v)** une installation fixe, acquise après le 25 février 1986, consistant en un système de conversion de l’énergie cinétique du vent destiné à produire de l’énergie électrique et composé d’une éolienne, d’un générateur et de l’équipement connexe, notamment le matériel de commande et de conditionnement, les supports, la centrale électrique avec le matériel auxiliaire, et le matériel de transmission, à l’exclusion du matériel de distribution et de stockage de l’énergie électrique et des biens déjà visés à la catégorie 10 ou 17,
+**(v)** une installation fixe, acquise après le 25 février 1986, consistant en un système de conversion de l’énergie cinétique du vent destiné à produire de l’énergie électrique et composé d’une éolienne, d’un générateur et de l’équipement connexe, notamment le matériel de commande et de conditionnement, les supports, la centrale électrique avec le matériel auxiliaire, et le matériel de transmission, à l’exclusion du matériel de distribution et de stockage de l’énergie électrique et des biens déjà visés à la catégorie 10 ou 17,
 
 
 
@@ -22384,23 +22369,23 @@ mais sans comprendre
 
 
 
-**j)** des biens acquis par le contribuable après le 21 février 1994, à l’exception des biens suivants :
+**j)** des biens acquis par le contribuable après le 21 février 1994, à l’exception des biens suivants :
 
 **(i)** les biens acquis par le contribuable et qui, selon le cas :
 
-**(A)** ont été acquis en conformité avec une convention d’achat-vente qu’il a conclue par écrit avant le 22 février 1994,
+**(A)** ont été acquis en conformité avec une convention d’achat-vente qu’il a conclue par écrit avant le 22 février 1994,
 
 
 
-**(B)** ont été acquis en exécution d’un engagement obligatoire de vendre de l’électricité à un service public d’électricité au Canada, qu’il a pris par écrit avant le 22 février 1994,
+**(B)** ont été acquis en exécution d’un engagement obligatoire de vendre de l’électricité à un service public d’électricité au Canada, qu’il a pris par écrit avant le 22 février 1994,
 
 
 
-**(C)** étaient en construction par le contribuable ou pour son compte le 22 février 1994,
+**(C)** étaient en construction par le contribuable ou pour son compte le 22 février 1994,
 
 
 
-**(D)** sont des machines ou du matériel constituant une partie fixe et intégrante d’un bâtiment, d’une construction ou d’un autre bien qui était en construction par le contribuable ou pour son compte le 22 février 1994,
+**(D)** sont des machines ou du matériel constituant une partie fixe et intégrante d’un bâtiment, d’une construction ou d’un autre bien qui était en construction par le contribuable ou pour son compte le 22 février 1994,
 
 
 
@@ -22410,7 +22395,7 @@ mais sans comprendre
 
 **(A)** une convention d’achat-vente conclue par écrit avant 1995 et prévoyant l’acquisition des biens auprès d’une personne ou d’une société de personnes, si, à la fois :
 
-**(I)** les biens font partie d’un ouvrage qui était en construction par la personne ou la société de personnes le 22 février 1994,
+**(I)** les biens font partie d’un ouvrage qui était en construction par la personne ou la société de personnes le 22 février 1994,
 
 
 
@@ -22420,7 +22405,7 @@ mais sans comprendre
 
 
 
-**(B)** une convention écrite que le contribuable a conclue avant 1995 avec une personne ou une société de personnes et dans le cadre de laquelle le contribuable convient d’assumer un engagement obligatoire de vendre de l’électricité à un service public d’électricité au Canada, que la personne ou la société de personnes a pris avant le 22 février 1994;
+**(B)** une convention écrite que le contribuable a conclue avant 1995 avec une personne ou une société de personnes et dans le cadre de laquelle le contribuable convient d’assumer un engagement obligatoire de vendre de l’électricité à un service public d’électricité au Canada, que la personne ou la société de personnes a pris avant le 22 février 1994;
 
 
 
@@ -22440,7 +22425,7 @@ mais sans comprendre
 
 Les biens non compris dans une autre catégorie qui sont :
 
-**a)** des voitures de chemin de fer acquises après le 25 mai 1976;
+**a)** des voitures de chemin de fer acquises après le 25 mai 1976;
 
 
 
@@ -22454,7 +22439,7 @@ Les biens non compris dans une autre catégorie qui sont :
 
 **CATÉGORIE 36** 
 
-Les biens acquis après le 11 décembre 1979 qui sont réputés être des biens amortissables en vertu de l’alinéa 13(5.2)c) de la Loi.
+Les biens acquis après le 11 décembre 1979 qui sont réputés être des biens amortissables en vertu de l’alinéa 13(5.2)c) de la Loi.
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/82-265, art. 6..
 
 
@@ -22519,7 +22504,7 @@ Les biens non compris dans la catégorie 22 mais qui seraient compris par ailleu
 
 **CATÉGORIE 39** 
 
-Les biens acquis après 1987 et avant le 26 février 1992 qui ne sont pas compris dans la catégorie 29, mais qui y seraient compris par ailleurs en l’absence de ses sous-alinéas b)(iii) et (v) et de son alinéa c).
+Les biens acquis après 1987 et avant le 26 février 1992 qui ne sont pas compris dans la catégorie 29, mais qui y seraient compris par ailleurs en l’absence de ses sous-alinéas b)(iii) et (v) et de son alinéa c).
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 23; DORS/94-169, art. 10..
 
 
@@ -22590,7 +22575,7 @@ où :
 
 
 
-**(B)** elle a fait l’objet d’importants travaux d’expansion après le 6 mars 1996,
+**(B)** elle a fait l’objet d’importants travaux d’expansion après le 6 mars 1996,
 
 
 
@@ -22602,7 +22587,7 @@ où :
 
 **(iii)** ont été acquis par le contribuable dans les conditions suivantes :
 
-**(A)** après le 6 mars 1996,
+**(A)** après le 6 mars 1996,
 
 
 
@@ -22650,19 +22635,19 @@ et qui ont été acquis par le contribuable après 1987, à l’exclusion des bi
 
 
 
-**(iii)** qui ont été acquis conformément à une obligation écrite contractée par le contribuable avant le 18 juin 1987,
+**(iii)** qui ont été acquis conformément à une obligation écrite contractée par le contribuable avant le 18 juin 1987,
 
 
 
-**(iv)** dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987,
+**(iv)** dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987,
 
 
 
-**(v)** qui sont des machines ou de l’équipement constituant une partie fixe et intégrante d’un bien dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987;
+**(v)** qui sont des machines ou de l’équipement constituant une partie fixe et intégrante d’un bien dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987;
 
 
 
-**c)** soit sont acquis par le contribuable après le 8 mai 1972 en vue d’être utilisés par lui, directement ou indirectement, au Canada principalement dans le cadre d’activités de traitement préliminaire au Canada, dans le cas où les biens seraient compris dans la catégorie 29 s’il n’était pas tenu compte des dispositions suivantes :
+**c)** soit sont acquis par le contribuable après le 8 mai 1972 en vue d’être utilisés par lui, directement ou indirectement, au Canada principalement dans le cadre d’activités de traitement préliminaire au Canada, dans le cas où les biens seraient compris dans la catégorie 29 s’il n’était pas tenu compte des dispositions suivantes :
 
 **(i)** dans la catégorie 29 :
 
@@ -22690,7 +22675,7 @@ et qui ont été acquis par le contribuable après 1987, à l’exclusion des bi
 
 
 
-**d)** soit sont acquis par le contribuable après le 5 décembre 1996, autrement que conformément à une convention écrite conclue avant le 6 décembre 1996, en vue d’être loués, dans le cours normal de l’exploitation d’une entreprise au Canada par le contribuable, à un preneur qui, selon ce à quoi il est raisonnable de s’attendre, les utilisera, directement ou indirectement, au Canada principalement dans le cadre de ses activités de traitement préliminaire au Canada, dans le cas où les biens seraient compris dans la catégorie 29 s’il n’était pas tenu compte des dispositions suivantes :
+**d)** soit sont acquis par le contribuable après le 5 décembre 1996, autrement que conformément à une convention écrite conclue avant le 6 décembre 1996, en vue d’être loués, dans le cours normal de l’exploitation d’une entreprise au Canada par le contribuable, à un preneur qui, selon ce à quoi il est raisonnable de s’attendre, les utilisera, directement ou indirectement, au Canada principalement dans le cadre de ses activités de traitement préliminaire au Canada, dans le cas où les biens seraient compris dans la catégorie 29 s’il n’était pas tenu compte des dispositions suivantes :
 
 **(i)** dans la catégorie 29 :
 
@@ -22758,7 +22743,7 @@ Les biens constitués par :
 
 
 
-**b)** de l’équipement téléphonique, télégraphique ou de transmission de données qui consiste en des fils ou des câbles, autre que des câbles de fibres optiques inclus dans la présente catégorie en vertu de l’alinéa a), acquis après le 22 février 2005, et qui n’ont pas été utilisés, ni achetés pour être utilisés, à quelque fin que ce soit avant le 23 février 2005.
+**b)** de l’équipement téléphonique, télégraphique ou de transmission de données qui consiste en des fils ou des câbles, autre que des câbles de fibres optiques inclus dans la présente catégorie en vertu de l’alinéa a), acquis après le 22 février 2005, et qui n’ont pas été utilisés, ni achetés pour être utilisés, à quelque fin que ce soit avant le 23 février 2005.
 
 
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/94-140, art. 28; DORS/2006-117, art. 11..
@@ -22768,7 +22753,7 @@ Les biens constitués par :
 
 **CATÉGORIE 43** 
 
-Les biens acquis après le 25 février 1992 qui, selon le cas :
+Les biens acquis après le 25 février 1992 qui, selon le cas :
 
 **a)** ne sont pas compris dans les catégories 29 ou 53, mais qui seraient compris dans la catégorie 29 si elle s’appliquait compte non tenu de ses sous-alinéas b)(iii) et (v) ni de son alinéa c);
 
@@ -22942,7 +22927,7 @@ ainsi que les biens, sauf le matériel remis en état ou remis à neuf, qui sera
 
 **(ii)** une installation hydro-électrique d’un producteur d’énergie hydro-électrique (sauf le matériel de distribution, les biens compris autrement dans la catégorie 10 et les biens qui seraient compris dans la catégorie 17 en l’absence de son sous-alinéa a.1)(i)) qui répond aux conditions suivantes :
 
-**(A)** elle a, si elle est acquise après le 21 février 1994 et avant le 11 décembre 2001, une production annuelle moyenne maximale de 15 mégawatts, une fois terminé l’aménagement du site, ou, si elle est acquise après le 10 décembre 2001, une capacité théorique maximale de 50 mégawatts au site même de l’installation,
+**(A)** elle a, si elle est acquise après le 21 février 1994 et avant le 11 décembre 2001, une production annuelle moyenne maximale de 15 mégawatts, une fois terminé l’aménagement du site, ou, si elle est acquise après le 10 décembre 2001, une capacité théorique maximale de 50 mégawatts au site même de l’installation,
 
 
 
@@ -22952,11 +22937,11 @@ ainsi que les biens, sauf le matériel remis en état ou remis à neuf, qui sera
 
 
 
-**(iii)** une adjonction ou une modification, acquise après le 21 février 1994 et avant le 11 décembre 2001 et donnant lieu à une augmentation de production, à une installation hydro-électrique qui est visée au sous-alinéa (ii) ou qui le serait si elle avait été acquise par le contribuable après le 21 février 1994, si la nouvelle production annuelle moyenne de l’installation ne dépasse pas 15 mégawatts,
+**(iii)** une adjonction ou une modification, acquise après le 21 février 1994 et avant le 11 décembre 2001 et donnant lieu à une augmentation de production, à une installation hydro-électrique qui est visée au sous-alinéa (ii) ou qui le serait si elle avait été acquise par le contribuable après le 21 février 1994, si la nouvelle production annuelle moyenne de l’installation ne dépasse pas 15 mégawatts,
 
 
 
-**(iii.1)** une adjonction ou une modification, acquise après le 10 décembre 2001 et donnant lieu à une augmentation de production, à une installation hydro-électrique qui est visée au sous-alinéa (ii) ou qui le serait si elle avait été acquise par le contribuable après le 21 février 1994, si la nouvelle capacité théorique maximale ne dépasse pas 50 mégawatts au site même de l’installation,
+**(iii.1)** une adjonction ou une modification, acquise après le 10 décembre 2001 et donnant lieu à une augmentation de production, à une installation hydro-électrique qui est visée au sous-alinéa (ii) ou qui le serait si elle avait été acquise par le contribuable après le 21 février 1994, si la nouvelle capacité théorique maximale ne dépasse pas 50 mégawatts au site même de l’installation,
 
 
 
@@ -23144,7 +23129,7 @@ ainsi que les biens, sauf le matériel remis en état ou remis à neuf, qui sera
 
 **CATÉGORIE 43.2** 
 
-Les biens acquis après le 22 février 2005 et avant 2020 (sauf les biens qui, avant leur acquisition, ont été inclus dans une autre catégorie par un contribuable) qui seraient compris par ailleurs dans la catégorie 43.1 :
+Les biens acquis après le 22 février 2005 et avant 2020 (sauf les biens qui, avant leur acquisition, ont été inclus dans une autre catégorie par un contribuable) qui seraient compris par ailleurs dans la catégorie 43.1 :
 
 **a)** si le passage « 6 000 BTU » à la division c)(i)(B) de cette catégorie était remplacé par « 4 750 BTU »;
 
@@ -23168,7 +23153,7 @@ Les biens constitués par un brevet ou par un droit permettant l’utilisation d
 
 **CATÉGORIE 45** 
 
-Les biens acquis après le 22 mars 2004 et avant le 19 mars 2007 (sauf ceux acquis avant 2005 qui font l’objet du choix prévu au paragraphe 1101(5q)) qui sont constitués de matériel électronique universel de traitement de l’information et de logiciels d’exploitation pour ce matériel, y compris le matériel auxiliaire de traitement de l’information, mais à l’exclusion des biens qui se composent principalement ou servent principalement :
+Les biens acquis après le 22 mars 2004 et avant le 19 mars 2007 (sauf ceux acquis avant 2005 qui font l’objet du choix prévu au paragraphe 1101(5q)) qui sont constitués de matériel électronique universel de traitement de l’information et de logiciels d’exploitation pour ce matériel, y compris le matériel auxiliaire de traitement de l’information, mais à l’exclusion des biens qui se composent principalement ou servent principalement :
 
 **a)** d’équipement de contrôle ou de surveillance du processus électronique;
 
@@ -23192,7 +23177,7 @@ Les biens acquis après le 22 mars 2004 et avant le 19 mars 2007 (sauf ceux ac
 
 **CATÉGORIE 46** 
 
-Les biens acquis après le 22 mars 2004 qui sont constitués de matériel d’infrastructure pour réseaux de données et de logiciels d’exploitation pour ce matériel et qui, en l’absence de la présente catégorie, seraient compris dans la catégorie 8 par l’effet de son alinéa i).
+Les biens acquis après le 22 mars 2004 qui sont constitués de matériel d’infrastructure pour réseaux de données et de logiciels d’exploitation pour ce matériel et qui, en l’absence de la présente catégorie, seraient compris dans la catégorie 8 par l’effet de son alinéa i).
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/2005-414, art. 6; DORS/2010-93, art. 36(F)..
 
 
@@ -23202,19 +23187,19 @@ Les biens acquis après le 22 mars 2004 qui sont constitués de matériel d’i
 
 Les biens ci-après :
 
-**a)** le matériel de transmission ou de distribution (pouvant comprendre, à cette fin, une construction) acquis après le 22 février 2005 qui sert à la transmission ou à la distribution d’énergie électrique, à l’exclusion :
+**a)** le matériel de transmission ou de distribution (pouvant comprendre, à cette fin, une construction) acquis après le 22 février 2005 qui sert à la transmission ou à la distribution d’énergie électrique, à l’exclusion :
 
 **(i)** des biens qui sont des bâtiments,
 
 
 
-**(ii)** des biens qui ont été utilisés ou acquis à une fin quelconque par un contribuable avant le 23 février 2005;
+**(ii)** des biens qui ont été utilisés ou acquis à une fin quelconque par un contribuable avant le 23 février 2005;
 
 
 
 
 
-**b)** le matériel acquis après le 18 mars 2007 qui fait partie d’une installation de gaz naturel liquéfié qui liquéfie ou regazéifie le gaz naturel, y compris les dispositifs de contrôle, le matériel de refroidissement, les compresseurs, les pompes, les réservoirs de stockage, les vaporisateurs et le matériel auxiliaire, les pipelines de chargement et de déchargement sur les lieux de l’installation qui servent à transporter le gaz naturel liquéfié entre les navires et l’installation et les constructions connexes, mais à l’exclusion des biens ci-après :
+**b)** le matériel acquis après le 18 mars 2007 qui fait partie d’une installation de gaz naturel liquéfié qui liquéfie ou regazéifie le gaz naturel, y compris les dispositifs de contrôle, le matériel de refroidissement, les compresseurs, les pompes, les réservoirs de stockage, les vaporisateurs et le matériel auxiliaire, les pipelines de chargement et de déchargement sur les lieux de l’installation qui servent à transporter le gaz naturel liquéfié entre les navires et l’installation et les constructions connexes, mais à l’exclusion des biens ci-après :
 
 **(i)** les biens acquis dans le but de produire de l’oxygène ou de l’azote,
 
@@ -23236,7 +23221,7 @@ Les biens ci-après :
 
 **CATÉGORIE 48** 
 
-Les biens acquis après le 22 février 2005 qui constituent des turbines de combustion (y compris les brûleurs et les compresseurs connexes) qui produisent de l’énergie électrique, à l’exclusion :
+Les biens acquis après le 22 février 2005 qui constituent des turbines de combustion (y compris les brûleurs et les compresseurs connexes) qui produisent de l’énergie électrique, à l’exclusion :
 
 **a)** du matériel générateur d’électricité visé à l’un des alinéas f) à h) de la catégorie 8;
 
@@ -23246,7 +23231,7 @@ Les biens acquis après le 22 février 2005 qui constituent des turbines de com
 
 
 
-**c)** des biens qui ont été utilisés ou acquis en vue d’être utilisés à une fin quelconque par un contribuable avant le 23 février 2005.
+**c)** des biens qui ont été utilisés ou acquis en vue d’être utilisés à une fin quelconque par un contribuable avant le 23 février 2005.
 
 
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/2006-117, art. 14..
@@ -23258,13 +23243,13 @@ Les biens acquis après le 22 février 2005 qui constituent des turbines de com
 
 Les biens qui constituent un pipeline, y compris les appareils de contrôle et de surveillance, les valves et les autres appareils auxiliaires du pipeline qui, selon le cas :
 
-**a)** sont acquis après le 22 février 2005 et servent au transport (mais non à la distribution) de pétrole, de gaz naturel ou d’hydrocarbures connexes, à l’exclusion :
+**a)** sont acquis après le 22 février 2005 et servent au transport (mais non à la distribution) de pétrole, de gaz naturel ou d’hydrocarbures connexes, à l’exclusion :
 
 **(i)** d’un pipeline visé au sous-alinéa l)(ii) de la catégorie 1,
 
 
 
-**(ii)** d’un bien qui a été utilisé ou acquis en vue d’être utilisé par un contribuable avant le 23 février 2005,
+**(ii)** d’un bien qui a été utilisé ou acquis en vue d’être utilisé par un contribuable avant le 23 février 2005,
 
 
 
@@ -23278,7 +23263,7 @@ Les biens qui constituent un pipeline, y compris les appareils de contrôle et d
 
 
 
-**b)** sont acquis après le 25 février 2008 et servent au transport de dioxyde de carbone, à l’exclusion :
+**b)** sont acquis après le 25 février 2008 et servent au transport de dioxyde de carbone, à l’exclusion :
 
 **(i)** du matériel compris dans la catégorie 7 par l’effet de son alinéa k),
 
@@ -23296,7 +23281,7 @@ Les biens qui constituent un pipeline, y compris les appareils de contrôle et d
 
 **CATÉGORIE 50** 
 
-Les biens acquis après le 18 mars 2007 qui sont constitués de matériel électronique universel de traitement de l’information et de logiciels d’exploitation pour ce matériel, y compris le matériel auxiliaire de traitement de l’information, mais à l’exclusion des biens qui se composent principalement ou servent principalement :
+Les biens acquis après le 18 mars 2007 qui sont constitués de matériel électronique universel de traitement de l’information et de logiciels d’exploitation pour ce matériel, y compris le matériel auxiliaire de traitement de l’information, mais à l’exclusion des biens qui se composent principalement ou servent principalement :
 
 **a)** d’équipement de contrôle ou de surveillance du processus électronique;
 
@@ -23320,13 +23305,13 @@ Les biens acquis après le 18 mars 2007 qui sont constitués de matériel élec
 
 **CATÉGORIE 51** 
 
-Les biens acquis après le 18 mars 2007 qui sont constitués par des pipelines, y compris les dispositifs de contrôle et de surveillance, les valves et les autres appareils auxiliaires du pipeline, qui servent à la distribution (mais non à la transmission) du gaz naturel, à l’exclusion des biens ci-après :
+Les biens acquis après le 18 mars 2007 qui sont constitués par des pipelines, y compris les dispositifs de contrôle et de surveillance, les valves et les autres appareils auxiliaires du pipeline, qui servent à la distribution (mais non à la transmission) du gaz naturel, à l’exclusion des biens ci-après :
 
 **a)** les pipelines visés au sous-alinéa l)(ii) de la catégorie 1 ou à la catégorie 49;
 
 
 
-**b)** les biens qui ont été utilisés ou acquis à une fin quelconque par un contribuable avant le 19 mars 2007;
+**b)** les biens qui ont été utilisés ou acquis à une fin quelconque par un contribuable avant le 19 mars 2007;
 
 
 
@@ -23340,7 +23325,7 @@ Les biens acquis après le 18 mars 2007 qui sont constitués par des pipelines,
 
 **CATÉGORIE 52** 
 
-Les biens acquis par un contribuable après le 27 janvier 2009 et avant février 2011 qui, à la fois :
+Les biens acquis par un contribuable après le 27 janvier 2009 et avant février 2011 qui, à la fois :
 
 **a)** sont constitués par du matériel électronique universel de traitement de l’information et des logiciels de systèmes connexes, y compris le matériel auxiliaire de traitement de l’information, mais à l’exclusion des biens qui se composent principalement ou servent principalement :
 
@@ -23390,11 +23375,11 @@ Les biens acquis par un contribuable après le 27 janvier 2009 et avant févrie
 
 Les biens acquis après 2015 et avant 2026 qui ne sont pas compris dans la catégorie 29, mais qui y seraient compris si, à la fois :
 
-**a)** le sous-alinéa a)(ii) de cette catégorie s’appliquait compte non tenu du passage « de ses activités de traitement préliminaire au Canada ou »; 
+**a)** le sous-alinéa a)(ii) de cette catégorie s’appliquait compte non tenu du passage « de ses activités de traitement préliminaire au Canada ou »;
 
 
 
-**b)** cette catégorie s’appliquait compte non tenu de ses sous-alinéas b)(iv) à (vi) ni de son alinéa c). 
+**b)** cette catégorie s’appliquait compte non tenu de ses sous-alinéas b)(iv) à (vi) ni de son alinéa c).
 
 
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2015, ch. 36, art. 26.
