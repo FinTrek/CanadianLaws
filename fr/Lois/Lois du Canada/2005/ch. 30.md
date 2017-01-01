@@ -871,7 +871,7 @@ Loi sur l’Agence canadienne pour l’incitation à la réduction des émission
 
 
 
-**124** [Modification]
+**124** [Abrogé avant d’entrer en vigueur, 2008, ch. 20, art. 3]
 
 
 
@@ -884,7 +884,7 @@ Loi sur l’Agence canadienne pour l’incitation à la réduction des émission
 
 <sup><a href='#B-9.854_f_s125'>[*]</a></sup>**125** La présente partie entre en vigueur à la date fixée par décret.
 
-<a name='B-9.854_f_s125'><sup>*</sup></a>: [Note : Partie 18 non en vigueur.]<br />
+<a name='B-9.854_f_s125'><sup>*</sup></a>: [Note : Article 124 abrogé avant d’entrer en vigueur, *voir* 2008, ch. 20, art. 3.]<br />
 
 
 
