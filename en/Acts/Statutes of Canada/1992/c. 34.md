@@ -609,7 +609,7 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 
 **22** 
 
-- **(1)** Her Majesty in right of Canada may recover the costs and expenses reasonably incurred while taking any measures under section 17 or 19.
+- **(1)** Her Majesty in right of Canada may recover the costs and expenses reasonably incurred while taking any measures under section 17 or 19.
 
 **Persons liable**
 
@@ -625,20 +625,20 @@ the justice may at any time sign and issue a warrant authorizing the inspector n
 
 **Recourse or indemnity**
 
-- **(5)** This section does not limit or restrict any right of recourse or indemnity that any person who is liable under subsection (1) may have against any other person.
+- **(5)** This section does not limit or restrict any right of recourse or indemnity that any person who is liable under subsection (1) may have against any other person.
 
 **Civil remedies**
 
 - **(6)** No civil remedy for any act or omission is suspended or affected by reason only that the act or omission is an offence under this Act or gives rise to liability under this section.
 
-**Operator’s liability under [Nuclear Liability Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-28.md)**
+**Operator’s liability under [Nuclear Liability and Compensation Act](/en/Acts/Statutes%20of%20Canada/2015/c.%204,%20s.%20120.md)**
 
-- **(7)** Nothing in this section relieves an operator, as defined in section 2 of the [Nuclear Liability Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-28.md), from any duty or liability imposed on the operator under that Act.
+- **(7)** Nothing in this section relieves an operator, as defined in section 2 of the [Nuclear Liability and Compensation Act](/en/Acts/Statutes%20of%20Canada/2015/c.%204,%20s.%20120.md), from any duty or liability imposed on them under that Act.
 
 **Limitation period**
 
 - **(8)** Proceedings in respect of a claim under this section may be instituted no later than two years after the day the events in respect of which the proceedings are instituted occurred or became evident.
-> 1992, c. 34, s. 22; 2009, c. 9, s. 21(F).
+> 1992, c. 34, s. 22; 2009, c. 9, s. 21(F); 2015, c. 4, s. 123.
 
 
 
