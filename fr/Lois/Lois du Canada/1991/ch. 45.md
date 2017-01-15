@@ -48,7 +48,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***action avec droit de vote*** Action d’une personne morale comportant — quelle qu’en soit la catégorie — un droit de vote en tout état de cause ou en raison soit de la survenance d’un fait qui demeure, soit de la réalisation d’une condition. (*voting share*)
 
-***administrateur*** Indépendamment de son titre, la personne physique qui fait fonction d’administrateur d’une personne morale; ***conseil d’administration*** ou ***conseil*** s’entend de l’ensemble des administrateurs d’une personne morale. (*director*, *board of directors* or *directors*)
+***administrateur*** Indépendamment de son titre, la personne physique qui fait fonction d’administrateur d’une personne morale; ***conseil d’administration*** ou ***conseil*** s’entend de l’ensemble des administrateurs d’une personne morale. (*director*, *board of directors* or *directors*)
 
 ***adresse enregistrée*** Dernière adresse postale selon le registre central des valeurs mobilières de la société, dans le cas d’un actionnaire, ou selon les livres du bureau en cause, dans le cas de toute autre personne. (*recorded address*)
 
@@ -86,7 +86,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***dirigeant*** Toute personne physique désignée à ce titre par règlement administratif ou résolution du conseil d’administration ou des membres d’une entité, notamment, dans le cas d’une personne morale, le premier dirigeant, le président, le vice-président, le secrétaire, le contrôleur financier ou le trésorier. (*officer*)
 
-***disposition visant les consommateurs*** S’entend d’une disposition visée aux alinéas d) ou d.1) de la définition de « disposition visant les consommateurs » à l’article 2 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md). (*consumer provision*)
+***disposition visant les consommateurs*** S’entend d’une disposition visée aux alinéas d) ou d.1) de la définition de disposition visant les consommateurs à l’article 2 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md). (*consumer provision*)
 
 ***émetteur*** L’entité qui émet ou a émis des valeurs mobilières. (*issuer*)
 
@@ -114,10 +114,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***institution étrangère d’un non-membre de l’OMC*** Institution étrangère qui n’est pas contrôlée par un résident d’un membre de l’OMC. (*non-WTO Member foreign institution*)
 
-***institution financière*** Selon le cas :
+***institution financière*** Selon le cas :
 - **a)** une société;
 - **b)** une banque ou une banque étrangère autorisée, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md);
-- **c)** une association régie par la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md) ou une coopérative de crédit centrale ayant fait l’objet de l’ordonnance prévue au paragraphe 473(1) de cette loi;
+- **c)** une association régie par la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md);
 - **d)** une société d’assurances ou une société de secours mutuel constituée ou formée sous le régime de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md);
 - **e)** une société de fiducie, de prêt ou d’assurance constituée en personne morale par une loi provinciale;
 - **f)** une société coopérative de crédit constituée en personne morale et régie par une loi provinciale;
@@ -126,10 +126,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***institution financière canadienne*** Institution financière constituée en personne morale ou formée sous le régime d’une loi fédérale ou provinciale. (*Canadian financial institution*)
 
-***institution financière fédérale*** Selon le cas :
+***institution financière fédérale*** Selon le cas :
 - **a)** société;
 - **b)** banque;
-- **c)** association régie par la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md) ou coopérative de crédit centrale ayant fait l’objet de l’ordonnance prévue au paragraphe 473(1) de cette loi;
+- **c)** association régie par la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md);
 - **d)** société d’assurances ou société de secours mutuel constituée ou formée sous le régime de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md). (*federal financial institution*)
 
 ***intérêt de groupe financier*** Intérêt déterminé conformément à l’article 10. (*substantial investment*)
@@ -140,7 +140,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***loi antérieure*** La Loi sur les sociétés de prêt ou la Loi sur les sociétés de fiducie. (*former Act*)
 
-***mineur*** S’entend au sens des règles du droit provincial applicables ou, à défaut, au sens donné au mot « enfant » dans la Convention relative aux droits de l’enfant, adoptée par l’Assemblée générale des Nations Unies le 20 novembre 1989. (*minor*)
+***mineur*** S’entend au sens des règles du droit provincial applicables ou, à défaut, au sens donné au mot « enfant » dans la Convention relative aux droits de l’enfant, adoptée par l’Assemblée générale des Nations Unies le 20 novembre 1989. (*minor*)
 
 ***ministre*** Le ministre des Finances. (*Minister*)
 
@@ -150,7 +150,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***personne morale*** Toute personne morale, indépendamment de son lieu ou mode de constitution. (*body corporate*)
 
-***plaignant*** En ce qui a trait à une société ou à toute question la concernant :
+***plaignant*** En ce qui a trait à une société ou à toute question la concernant :
 - **a)** soit le détenteur inscrit ou le véritable propriétaire, ancien ou actuel, de valeurs mobilières de la société ou d’entités du même groupe;
 - **b)** soit tout administrateur ou dirigeant, ancien ou actuel, de la société ou d’entités du même groupe;
 - **c)** soit toute autre personne qui, d’après le tribunal, a qualité pour présenter les demandes visées aux articles 339, 343 ou 538. (*complainant*)
@@ -167,7 +167,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***représentant personnel*** Personne agissant en lieu et place d’une autre, notamment un fiduciaire, un exécuteur testamentaire, un administrateur, un comité, un tuteur, un curateur, un cessionnaire, un séquestre ou un mandataire. (*personal representative*)
 
-***résident canadien*** Selon le cas :
+***résident canadien*** Selon le cas :
 - **a)** le citoyen canadien résidant habituellement au Canada;
 - **b)** le citoyen canadien qui ne réside pas habituellement au Canada, mais fait partie d’une catégorie de personnes prévue par règlement;
 - **c)** le résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) qui réside habituellement au Canada, à l’exclusion de celui qui y a résidé habituellement pour plus d’un an après la date à laquelle il est devenu admissible à la demande de la citoyenneté canadienne. (*resident Canadian*)
@@ -229,7 +229,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***vérificateur*** S’entend notamment d’un cabinet de comptables. (*auditor*)
 
 ***véritable propriétaire*** Est considéré comme tel le propriétaire de valeurs mobilières inscrites au nom d’un ou de plusieurs intermédiaires, notamment d’un fiduciaire ou d’un mandataire; ***propriété effective*** s’entend du droit du véritable propriétaire. (*beneficial ownership*)
-> 1991, ch. 45, art. 2, ch. 47, art. 753, ch. 48, art. 493; 1992, ch. 51, art. 66; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 84, ch. 28, art. 136; 2000, ch. 12, art. 298; 2001, ch. 9, art. 478, ch. 27, art. 272; 2002, ch. 7, art. 248(A); 2005, ch. 54, art. 368; 2010, ch. 12, art. 2123; 2012, ch. 5, art. 162; 2015, ch. 3, art. 157.
+> 1991, ch. 45, art. 2, ch. 47, art. 753, ch. 48, art. 493; 1992, ch. 51, art. 66; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 84, ch. 28, art. 136; 2000, ch. 12, art. 298; 2001, ch. 9, art. 478, ch. 27, art. 272; 2002, ch. 7, art. 248(A); 2005, ch. 54, art. 368; 2010, ch. 12, art. 2123; 2012, ch. 5, art. 162; 2014, ch. 39, art. 301; 2015, ch. 3, art. 157.
 
 
 
