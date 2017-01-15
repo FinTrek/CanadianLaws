@@ -91,7 +91,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(a)** whose membership consists solely or primarily of local cooperative credit societies, or
 - **(b)** whose directors are wholly or primarily persons elected or appointed by local cooperative credit societies; (*société coopérative de crédit centrale*)
 
-***central securities register*** or ***securities register***, in relation to a bank, means the register referred to in section 248 and, in relation to a bank holding company, means the register referred to in section 825; (*registre central des valeurs mobilières* ou *registre des valeurs mobilières*)
+***central securities register*** or ***securities register***, in relation to a bank, means the register referred to in section 248 and, in relation to a bank holding company, means the register referred to in section 825; (*registre central des valeurs mobilières* ou *registre des valeurs mobilières*)
 
 ***Commissioner*** means the Commissioner of the Financial Consumer Agency of Canada appointed under section 4 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md); (*commissaire*)
 
@@ -103,7 +103,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(c)** any other person who, in the discretion of a court, is a proper person to make an application under section 334, 338 or 989, or
 - **(d)** a member or a former member of a federal credit union; (*plaignant*)
 
-***consumer provision*** means a provision referred to in paragraph (a) or (a.1) of the definition ***consumer provision*** in section 2 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md); (*disposition visant les consommateurs*)
+***consumer provision*** means a provision referred to in paragraph (a) or (a.1) of the definition consumer provision in section 2 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md); (*disposition visant les consommateurs*)
 
 ***court*** means
 - **(a)** in the Province of Ontario, the Superior Court of Justice,
@@ -119,7 +119,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***delegate*** means a natural person appointed or elected to represent a member of a federal credit union at a meeting of members; (*délégué*)
 
-***director*** means a natural person occupying the position of director, by whatever name called, of a body corporate, and ***board of directors*** or ***directors*** refers to the directors of a body corporate as a body; (*administrateur*, *conseil d’administration* ou *conseil*)
+***director*** means a natural person occupying the position of director, by whatever name called, of a body corporate, and ***board of directors*** or ***directors*** refers to the directors of a body corporate as a body; (*administrateur*, *conseil d’administration* ou *conseil*)
 
 ***domestic systemically important bank*** means a bank that is designated as a domestic systemically important bank under section 484.1; (*banque d’importance systémique nationale*)
 
@@ -134,7 +134,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***federal financial institution*** means
 - **(a)** a bank,
 - **(b)** a body corporate to which the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md) applies,
-- **(c)** an association to which the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) applies or a central cooperative credit society for which an order has been made under subsection 473(1) of that Act, or
+- **(c)** an association to which the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) applies, or
 - **(d)** an insurance company or a fraternal benefit society incorporated or formed under the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md); (*institution financière fédérale*)
 
 ***federation of cooperative credit societies*** means an association under the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) or a federation, league or corporation incorporated or organized by or under an Act of the legislature of a province, the membership or the shareholders of which include two or more central cooperative credit societies; (*fédération de sociétés coopératives de crédit*)
@@ -144,7 +144,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***financial institution*** means
 - **(a)** a bank or an authorized foreign bank,
 - **(b)** a body corporate to which the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md) applies,
-- **(c)** an association to which the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) applies or a central cooperative credit society for which an order has been made under subsection 473(1) of that Act,
+- **(c)** an association to which the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) applies,
 - **(d)** an insurance company or a fraternal benefit society incorporated or formed under the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md),
 - **(e)** a trust, loan or insurance corporation incorporated by or under an Act of the legislature of a province,
 - **(f)** a cooperative credit society incorporated and regulated by or under an Act of the legislature of a province,
@@ -207,7 +207,7 @@ but does not include a subsidiary of a bank named in Schedule I as that Schedule
 
 ***Minister*** means the Minister of Finance; (*ministre*)
 
-***minor*** has the same meaning as in the applicable provincial law and in the absence of any such law has the same meaning as the word “child” in the United Nations Convention on the Rights of the Child adopted in the United Nations General Assembly on November 20, 1989; (*mineur*)
+***minor*** has the same meaning as in the applicable provincial law and in the absence of any such law has the same meaning as the word child in the United Nations Convention on the Rights of the Child adopted in the United Nations General Assembly on November 20, 1989; (*mineur*)
 
 ***NAFTA country resident***[Repealed, 1999, c. 28, s. 1]
 
@@ -227,7 +227,7 @@ but does not include a subsidiary of a bank named in Schedule I as that Schedule
 
 ***personal representative*** means a person who stands in place of and represents another person and, without limiting the generality of the foregoing, includes, as the circumstances require, a trustee, an executor, an administrator, a committee, a guardian, a tutor, a curator, an assignee, a receiver, an agent or an attorney of any person, but does not include a delegate; (*représentant personnel*)
 
-***prescribed*** means prescribed by regulation; (*Version anglaise seulement*)
+***prescribed*** means prescribed by regulation; (***Version anglaise seulement***)
 
 ***principal office*** means, in relation to an authorized foreign bank, the office required to be maintained under section 535; (*bureau principal*)
 
@@ -267,7 +267,7 @@ but does not include a subsidiary of a bank named in Schedule I as that Schedule
 
 ***series***, in respect of shares, means a division of a class of shares; (*série*)
 
-***share*** does not include a membership share; (*Version anglaise seulement*)
+***share*** does not include a membership share; (***Version anglaise seulement***)
 
 ***significant interest*** means a significant interest determined in accordance with section 8; (*intérêt substantiel*)
 
@@ -292,7 +292,7 @@ but does not include a subsidiary of a bank named in Schedule I as that Schedule
 ***voting share*** means a share of any class of shares of a body corporate carrying voting rights under all circumstances or by reason of an event that has occurred and is continuing or by reason of a condition that has been fulfilled; (*action avec droit de vote*)
 
 ***WTO Member resident*** means a WTO Member resident within the meaning of section 11.1. (*résident d’un membre de l’OMC*)
-> 1991, c. 46, ss. 2, 572, c. 47, s. 756, c. 48, s. 494; 1992, c. 51, s. 29; 1993, c. 34, s. 5(F), c. 44, s. 22; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 14, c. 28, s. 1; 2000, c. 12, s. 3; 2001, c. 9, s. 35, c. 27, s. 206; 2002, c. 7, s. 81(E); 2005, c. 54, s. 1; 2007, c. 6, s. 1; 2010, c. 12, s. 1894, c. 25, s. 146; 2012, c. 5, ss. 2, 223; 2015, c. 3, s. 5; 2016, c. 7, s. 156.
+> 1991, c. 46, ss. 2, 572, c. 47, s. 756, c. 48, s. 494; 1992, c. 51, s. 29; 1993, c. 34, s. 5(F), c. 44, s. 22; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 14, c. 28, s. 1; 2000, c. 12, s. 3; 2001, c. 9, s. 35, c. 27, s. 206; 2002, c. 7, s. 81(E); 2005, c. 54, s. 1; 2007, c. 6, s. 1; 2010, c. 12, s. 1894, c. 25, s. 146; 2012, c. 5, ss. 2, 223; 2014, c. 39, s. 269; 2015, c. 3, s. 5; 2016, c. 7, s. 156.
 
 
 
