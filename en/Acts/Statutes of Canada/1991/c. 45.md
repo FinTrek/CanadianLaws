@@ -81,7 +81,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(b)** a director or an officer, or a former director or officer, of a company or any of its affiliates, or
 - **(c)** any other person who, in the discretion of a court, is a proper person to make an application under section 339, 343 or 537; (*plaignant*)
 
-***consumer provision*** means a provision referred to in paragraph (d) or (d.1) of the definition ***consumer provision*** in section 2 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md);  (*disposition visant les consommateurs*)
+***consumer provision*** means a provision referred to in paragraph (d) or (d.1) of the definition consumer provision in section 2 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md); (*disposition visant les consommateurs*)
 
 ***court*** means
 - **(a)** in the Province of Ontario, the Superior Court of Justice,
@@ -112,7 +112,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***federal financial institution*** means
 - **(a)** a company,
 - **(b)** a bank,
-- **(c)** an association to which the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) applies or a central cooperative credit society for which an order has been made under subsection 473(1) of that Act, or
+- **(c)** an association to which the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) applies, or
 - **(d)** an insurance company or a fraternal benefit society incorporated or formed under the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md); (*institution financière fédérale*)
 
 ***fiduciary*** means any person acting in a fiduciary capacity and includes a personal representative of a deceased person; (*représentant*)
@@ -120,7 +120,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***financial institution*** means
 - **(a)** a company,
 - **(b)** a bank or an authorized foreign bank within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md),
-- **(c)** an association to which the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) applies or a central cooperative credit society for which an order has been made under subsection 473(1) of that Act,
+- **(c)** an association to which the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) applies,
 - **(d)** an insurance company or a fraternal benefit society incorporated or formed under the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md),
 - **(e)** a trust, loan or insurance corporation incorporated by or under an Act of the legislature of a province,
 - **(f)** a cooperative credit society incorporated and regulated by or under an Act of the legislature of a province,
@@ -181,7 +181,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***personal representative*** means a person who stands in place of and represents another person and, without limiting the generality of the foregoing, includes, as the circumstances require, a trustee, an executor, an administrator, a committee, a guardian, a tutor, a curator, an assignee, a receiver, an agent or an attorney of any person; (*représentant personnel*)
 
-***prescribed*** means prescribed by regulation;
+***prescribed*** means prescribed by regulation; (*Version anglaise seulement*)
 
 ***property***, in respect of a company that is a trust company pursuant to subsection 57(2), includes property held by the company in respect of guaranteed trust money; (*biens*)
 
@@ -210,7 +210,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***security*** means
 - **(a)** in relation to a body corporate, a share of any class of shares of the body corporate or a debt obligation of the body corporate, and includes a warrant of the body corporate, but does not include a deposit with a financial institution or any instrument evidencing such a deposit, and
-- **(b)** in relation to any other entity, any ownership interest in or debt obligation of the entity; (*titre » ou « valeur mobilière*)
+- **(b)** in relation to any other entity, any ownership interest in or debt obligation of the entity; (*titre* ou *valeur mobilière*)
 
 ***security interest*** means an interest in or charge on property by way of mortgage, lien, pledge or otherwise taken by a creditor or guarantor to secure the payment or performance of an obligation; (*sûreté*)
 
@@ -239,7 +239,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***voting share*** means a share of any class of shares of a body corporate carrying voting rights under all circumstances or by reason of an event that has occurred and is continuing or by reason of a condition that has been fulfilled; (*action avec droit de vote*)
 
 ***WTO Member resident*** means a WTO Member resident within the meaning of section 11.1. (*résident d’un membre de l’OMC*)
-> 1991, c. 45, s. 2, c. 47, s. 753, c. 48, s. 493; 1992, c. 51, s. 66; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 84, c. 28, s. 136; 2000, c. 12, s. 298; 2001, c. 9, s. 478, c. 27, s. 272; 2002, c. 7, s. 248(E); 2005, c. 54, s. 368; 2010, c. 12, s. 2123; 2012, c. 5, s. 162; 2015, c. 3, s. 157.
+> 1991, c. 45, s. 2, c. 47, s. 753, c. 48, s. 493; 1992, c. 51, s. 66; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 84, c. 28, s. 136; 2000, c. 12, s. 298; 2001, c. 9, s. 478, c. 27, s. 272; 2002, c. 7, s. 248(E); 2005, c. 54, s. 368; 2010, c. 12, s. 2123; 2012, c. 5, s. 162; 2014, c. 39, s. 301; 2015, c. 3, s. 157.
 
 
 
