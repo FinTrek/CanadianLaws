@@ -61,7 +61,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***action avec droit de vote*** Action d’une personne morale comportant — quelle qu’en soit la catégorie — un droit de vote en tout état de cause ou en raison soit de la survenance d’un fait qui demeure, soit de la réalisation d’une condition. (*voting share*)
 
-***administrateur*** Indépendamment de son titre, la personne physique qui fait fonction d’administrateur d’une personne morale; ***conseil d’administration*** ou ***conseil*** s’entend de l’ensemble des administrateurs d’une personne morale. (*director*, *board of directors* or *directors*)
+***administrateur*** Indépendamment de son titre, la personne physique qui fait fonction d’administrateur d’une personne morale; ***conseil d’administration*** ou ***conseil*** s’entend de l’ensemble des administrateurs d’une personne morale. (*director*, *board of directors* or *directors*)
 
 ***adresse enregistrée***
 - **a)** Dans le cas d’un actionnaire d’une banque ou d’une société de portefeuille bancaire, dernière adresse postale selon le registre central des valeurs mobilières de la banque ou de la société de portefeuille bancaire;
@@ -76,10 +76,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***banque d’importance systémique nationale*** Banque désignée à ce titre en vertu de l’article 484.1. (*domestic systemically important bank*)
 
-***banque étrangère*** Sous réserve de l’article 12, toute entité constituée en personne morale ou formée sous le régime de la législation d’un pays étranger, qui, selon le cas :
+***banque étrangère*** Sous réserve de l’article 12, toute entité constituée en personne morale ou formée sous le régime de la législation d’un pays étranger, qui, selon le cas :
 - **a)** est une banque d’après la législation du pays étranger où elle exerce son activité;
 - **b)** exerce dans un pays étranger des activités qui, au Canada, seraient en totalité ou en majeure partie des opérations bancaires;
-- **c)** se livre, directement ou non, à la prestation de services financiers et adopte, pour désigner ou décrire son activité, une dénomination qui comprend l’un des mots « bank », « banque », « banking » ou « bancaire », employé seul ou combiné avec d’autres mots ou un ou plusieurs mots d’une autre langue que le français ou l’anglais, ayant un sens analogue;
+- **c)** se livre, directement ou non, à la prestation de services financiers et adopte, pour désigner ou décrire son activité, une dénomination qui comprend l’un des mots « *bank* », « banque », « *banking* » ou « bancaire », employé seul ou combiné avec d’autres mots ou un ou plusieurs mots d’une autre langue que le français ou l’anglais, ayant un sens analogue;
 - **d)** effectue des opérations de prêt d’argent et accepte des dépôts cessibles par chèque ou autre effet;
 - **e)** se livre, directement ou non, à la prestation de services financiers et appartient au groupe d’une autre banque étrangère;
 - **f)** contrôle une autre banque étrangère;
@@ -119,7 +119,7 @@ Sont exclues de la présente définition les filiales des banques figurant à l�
 
 ***dirigeant principal*** S’agissant de la banque étrangère autorisée, la personne nommée en vertu de l’article 536. (*principal officer*)
 
-***disposition visant les consommateurs*** S’entend d’une disposition visée aux alinéas a) ou a.1) de la définition de ***disposition visant les consommateurs*** à l’article 2 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md). (*consumer provision*)
+***disposition visant les consommateurs*** S’entend d’une disposition visée aux alinéas a) ou a.1) de la définition de disposition visant les consommateurs à l’article 2 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md). (*consumer provision*)
 
 ***émetteur*** L’entité qui émet ou a émis des valeurs mobilières. (*issuer*)
 
@@ -151,10 +151,10 @@ Sont exclues de la présente définition les filiales des banques figurant à l�
 
 ***institution étrangère*** Toute entité qui, n’étant pas constituée ni formée sous le régime d’une loi fédérale ou provinciale, se livre à des activités bancaires, à des activités fiduciaires, de prêt ou d’assurance, ou fait office de société coopérative de crédit ou fait le commerce des valeurs mobilières, ou encore, de toute autre manière, a pour activité principale la prestation de services financiers. (*foreign institution*)
 
-***institution financière*** Selon le cas :
+***institution financière*** Selon le cas :
 - **a)** une banque ou une banque étrangère autorisée;
 - **b)** une personne morale régie par la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md);
-- **c)** une association régie par la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md) ou une coopérative de crédit centrale ayant fait l’objet de l’ordonnance prévue au paragraphe 473(1) de cette loi;
+- **c)** une association régie par la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md);
 - **d)** une société d’assurances ou une société de secours mutuel constituée ou formée sous le régime de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md);
 - **e)** une société de fiducie, de prêt ou d’assurance constituée en personne morale par une loi provinciale;
 - **f)** une société coopérative de crédit constituée en personne morale et régie par une loi provinciale;
@@ -163,10 +163,10 @@ Sont exclues de la présente définition les filiales des banques figurant à l�
 
 ***institution financière canadienne*** Institution financière constituée en personne morale ou formée sous le régime d’une loi fédérale ou provinciale. (*Canadian financial institution*)
 
-***institution financière fédérale*** Selon le cas :
+***institution financière fédérale*** Selon le cas :
 - **a)** banque;
 - **b)** personne morale régie par la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md);
-- **c)** association régie par la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md) ou coopérative de crédit centrale ayant fait l’objet de l’ordonnance prévue au paragraphe 473(1) de cette loi;
+- **c)** association régie par la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md);
 - **d)** société d’assurances ou société de secours mutuel constituée ou formée sous le régime de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md). (*federal financial institution*)
 
 ***intérêt de groupe financier*** Intérêt déterminé conformément à l’article 10. (*substantial investment*)
@@ -177,7 +177,7 @@ Sont exclues de la présente définition les filiales des banques figurant à l�
 
 ***membre*** Par rapport à une coopérative de crédit fédérale, personne qui est membre de la coopérative en application du paragraphe 47.04(2). (*member*)
 
-***mineur*** S’entend au sens des règles du droit provincial applicables ou, à défaut, au sens donné au mot « enfant » dans la Convention relative aux droits de l’enfant, adoptée par l’Assemblée générale des Nations Unies le 20 novembre 1989. (*minor*)
+***mineur*** S’entend au sens des règles du droit provincial applicables ou, à défaut, au sens donné au mot enfant dans la Convention relative aux droits de l’enfant, adoptée par l’Assemblée générale des Nations Unies le 20 novembre 1989. (*minor*)
 
 ***ministre*** Le ministre des Finances. (*Minister*)
 
@@ -191,7 +191,7 @@ Sont exclues de la présente définition les filiales des banques figurant à l�
 
 ***personne morale*** Toute personne morale, indépendamment de son lieu ou mode de constitution. (*body corporate*)
 
-***plaignant*** En ce qui a trait à une banque ou à toute question la concernant :
+***plaignant*** En ce qui a trait à une banque ou à toute question la concernant :
 - **a)** soit le détenteur inscrit ou le véritable propriétaire, ancien ou actuel, de valeurs mobilières de la banque ou d’entités du même groupe;
 - **b)** soit tout administrateur ou dirigeant, ancien ou actuel, de la banque ou d’entités du même groupe;
 - **c)** soit toute autre personne qui, d’après le tribunal, a qualité pour présenter les demandes visées aux articles 334, 338 ou 989;
@@ -211,7 +211,7 @@ Sont exclues de la présente définition les filiales des banques figurant à l�
 
 ***représentant personnel*** Personne agissant en lieu et place d’une autre, notamment un fiduciaire, un exécuteur testamentaire, un administrateur, un comité, un tuteur, un curateur, un cessionnaire, un séquestre ou un mandataire; la présente définition ne vise toutefois pas le délégué. (*personal representative*)
 
-***résident canadien*** Selon le cas :
+***résident canadien*** Selon le cas :
 - **a)** le citoyen canadien résidant habituellement au Canada;
 - **b)** le citoyen canadien qui ne réside pas habituellement au Canada, mais fait partie d’une catégorie de personnes prévue par règlement;
 - **c)** le résident permanent, au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) qui réside habituellement au Canada, à l’exclusion de celui qui y a résidé de façon habituelle pendant plus d’un an après avoir acquis pour la première fois le droit de demander la citoyenneté canadienne. (*resident Canadian*)
@@ -236,7 +236,7 @@ Sont exclues de la présente définition les filiales des banques figurant à l�
 
 ***société de portefeuille bancaire*** Personne morale constituée ou formée sous le régime de la partie XV. (*bank holding company*)
 
-***société de portefeuille bancaire n’ayant pas fait appel au public*** S’entend d’une société de portefeuille bancaire autre qu’une société de portefeuille bancaire ayant fait appel au public. (*French version only*)
+***société de portefeuille bancaire n’ayant pas fait appel au public*** S’entend d’une société de portefeuille bancaire autre qu’une société de portefeuille bancaire ayant fait appel au public. (***French version only***)
 
 ***société de portefeuille d’assurances*** Personne morale constituée ou formée sous le régime de la partie XVII de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md). (*insurance holding company*)
 
@@ -275,13 +275,13 @@ Sont exclues de la présente définition les filiales des banques figurant à l�
 ***tribunal***
 - **a)** La Cour supérieure de justice de l’Ontario;
 - **b)** la Cour supérieure du Québec;
-- **c) ** la Cour suprême de la Nouvelle-Écosse, de la Colombie-Britannique et de l’Île-du-Prince-Édouard;
+- **c)** la Cour suprême de la Nouvelle-Écosse, de la Colombie-Britannique et de l’Île-du-Prince-Édouard;
 - **d)** la Cour du Banc de la Reine du Nouveau-Brunswick, du Manitoba, de la Saskatchewan ou de l’Alberta;
-- **e) ** la Section de première instance de la Cour suprême de Terre-Neuve-et-Labrador;
+- **e)** la Section de première instance de la Cour suprême de Terre-Neuve-et-Labrador;
 - **f)** la Cour suprême du Yukon, la Cour suprême des Territoires du Nord-Ouest ou la Cour de justice du Nunavut. (*court*)
 
-***véritable propriétaire*** Est considéré comme tel le propriétaire de valeurs mobilières inscrites au nom d’un ou de plusieurs intermédiaires, notamment d’un fiduciaire ou d’un mandataire; ***propriété effective*** s’entend du droit du véritable propriétaire. (*beneficial ownership*)
-> 1991, ch. 46, art. 2 et 572, ch. 47, art. 756, ch. 48, art. 494; 1992, ch. 51, art. 29; 1993, ch. 34, art. 5(F), ch. 44, art. 22; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 14, ch. 28, art. 1; 2000, ch. 12, art. 3; 2001, ch. 9, art. 35, ch. 27, art. 206; 2002, ch. 7, art. 81(A); 2005, ch. 54, art. 1; 2007, ch. 6, art. 1; 2010, ch. 12, art. 1894, ch. 25, art. 146; 2012, ch. 5, art. 2 et 223; 2015, ch. 3, art. 5; 2016, ch. 7, art. 156.
+***véritable propriétaire*** Est considéré comme tel le propriétaire de valeurs mobilières inscrites au nom d’un ou de plusieurs intermédiaires, notamment d’un fiduciaire ou d’un mandataire; ***propriété effective*** s’entend du droit du véritable propriétaire. (*beneficial ownership*)
+> 1991, ch. 46, art. 2 et 572, ch. 47, art. 756, ch. 48, art. 494; 1992, ch. 51, art. 29; 1993, ch. 34, art. 5(F), ch. 44, art. 22; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 14, ch. 28, art. 1; 2000, ch. 12, art. 3; 2001, ch. 9, art. 35, ch. 27, art. 206; 2002, ch. 7, art. 81(A); 2005, ch. 54, art. 1; 2007, ch. 6, art. 1; 2010, ch. 12, art. 1894, ch. 25, art. 146; 2012, ch. 5, art. 2 et 223; 2014, ch. 39, art. 269; 2015, ch. 3, art. 5; 2016, ch. 7, art. 156.
 
 
 
