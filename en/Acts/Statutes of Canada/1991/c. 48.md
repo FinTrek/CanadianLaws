@@ -42,82 +42,84 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** In this Act,
 
-***affairs***, with respect to an association, means the relationships among the association and its affiliates and the members, shareholders, directors and officers of the association and its affiliates, but does not include the business of the association or any of its affiliates;
+***affairs***, with respect to an association, means the relationships among the association and its affiliates and the members, shareholders, directors and officers of the association and its affiliates, but does not include the business of the association or any of its affiliates; (*affaires internes*)
 
-***affiliate*** means an entity that is affiliated with another entity within the meaning of section 6;
+***affiliate*** means an entity that is affiliated with another entity within the meaning of section 6; (*groupe*)
 
-***Agency*** means the Financial Consumer Agency of Canada established under section 3 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md);
+***Agency*** means the Financial Consumer Agency of Canada established under section 3 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md); (*Agence*)
 
-***annual statement*** means the annual financial statement of an association within the meaning of paragraph 292(1)(a);
+***annual statement*** means the annual financial statement of an association within the meaning of paragraph 292(1)(a); (*rapport annuel*)
 
-***association*** means a body corporate referred to in section 14;
+***association*** means a body corporate referred to in section 14; (*association*)
 
-***auditor*** includes a firm of accountants;
+***auditor*** includes a firm of accountants; (*vérificateur*)
 
-***bearer***, in relation to a security, means the person in possession of a security payable to bearer or endorsed in blank;
+***bearer***, in relation to a security, means the person in possession of a security payable to bearer or endorsed in blank; (*porteur*)
 
-***bearer form***, in respect of a security, means a security in bearer form as determined in accordance with subsection 90(2);
+***bearer form***, in respect of a security, means a security in bearer form as determined in accordance with subsection 90(2); (*titre au porteur*)
 
- et ***beneficial ownership*** includes ownership through one or more trustees, legal representatives, agents or other intermediaries;
+***beneficial ownership*** includes ownership through one or more trustees, legal representatives, agents or other intermediaries; (*véritable propriétaire* et *propriété effective*)
 
-***body corporate*** means an incorporated body wherever or however incorporated;
+***body corporate*** means an incorporated body wherever or however incorporated; (*personne morale*)
 
-***branch***, in respect of an association, means an agency, the head office and any other office of the association;
+***branch***, in respect of an association, means an agency, the head office and any other office of the association; (*bureau*)
 
-***Canadian financial institution*** means a financial institution that is incorporated or formed by or under an Act of Parliament or of the legislature of a province;
+***Canadian financial institution*** means a financial institution that is incorporated or formed by or under an Act of Parliament or of the legislature of a province; (*institution financière canadienne*)
 
- ou ***central cooperative credit society*** means a cooperative credit society incorporated by or under an Act of the legislature of a province, one of whose principal purposes is to provide liquidity support to local cooperative credit societies, and
+***central cooperative credit society*** means a cooperative credit society incorporated by or under an Act of the legislature of a province, one of whose principal purposes is to provide liquidity support to local cooperative credit societies, and
 - **(a)** whose membership consists wholly or primarily of local cooperative credit societies, or
 - **(b)** whose directors are wholly or primarily persons elected or appointed by local cooperative credit societies,
 
-but does not include a deposit protection agency;
+but does not include a deposit protection agency; (*coopérative de crédit centrale* ou *centrale*)
 
- or  ou ***central securities register*** or ***securities register*** means the register referred to in section 245;
+***central securities register*** or ***securities register*** means the register referred to in section 245; (*registre central des valeurs mobilières* ou *registre des valeurs mobilières*)
 
-***Commissioner*** means the Commissioner of the Financial Consumer Agency of Canada appointed under section 4 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md);
+***Commissioner*** means the Commissioner of the Financial Consumer Agency of Canada appointed under section 4 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md); (*commissaire*)
 
-***common-law partner***, in relation to an individual, means a person who is cohabiting with the individual in a conjugal relationship, having so cohabited for a period of at least one year;
+***common-law partner***, in relation to an individual, means a person who is cohabiting with the individual in a conjugal relationship, having so cohabited for a period of at least one year; (*conjoint de fait*)
 
 ***complainant***, in relation to an association or any matter concerning an association, means
 - **(a)** a member or former member of an association,
 - **(b)** a registered holder or beneficial owner, and a former registered holder or beneficial owner, of a security of an association or any of its affiliates,
 - **(c)** a director or an officer, or a former director or officer, of an association or any of its affiliates, or
-- **(d)** any other person who, in the discretion of a court, is a proper person to make an application under section 318, 322 or 469;
+- **(d)** any other person who, in the discretion of a court, is a proper person to make an application under section 318, 322 or 469; (*plaignant*)
 
-***consumer provision*** means a provision referred to in paragraph (b) or (b.1) of the definition ***consumer provision*** in section 2 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md);
+***consumer provision*** means a provision referred to in paragraph (b) or (b.1) of the definition ***consumer provision*** in section 2 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md); (*disposition visant les consommateurs*)
 
-***cooperative credit society*** means a cooperative corporation one of whose principal purposes is to provide financial services to its members;
+***cooperative credit society*** means a cooperative corporation one of whose principal purposes is to provide financial services to its members; (*coopérative de crédit*)
 
-***cooperative corporation*** means a body corporate organized and operated on cooperative principles;
+***cooperative corporation*** means a body corporate organized and operated on cooperative principles; (*coopérative*)
 
-***court*** means
+***court*** means
 - **(a)** in the Province of Ontario, the Superior Court of Justice,
 - **(b)** in the Province of Quebec, the Superior Court of the Province,
 - **(c)** in the Provinces of Nova Scotia, British Columbia, and Prince Edward Island, the Supreme Court of the Province,
 - **(d)** in the Provinces of New Brunswick, Manitoba, Saskatchewan and Alberta, the Court of Queen’s Bench for the Province,
 - **(e)** in the Province of Newfoundland and Labrador, the Trial Division of the Supreme Court of the Province, and
-- **(f)** the Supreme Court of Yukon, the Supreme Court of the Northwest Territories and the Nunavut Court of Justice;
+- **(f)** the Supreme Court of Yukon, the Supreme Court of the Northwest Territories and the Nunavut Court of Justice; (*tribunal*)
 
-***court of appeal*** means the court to which an appeal lies from a decision or order of a court;
+***court of appeal*** means the court to which an appeal lies from a decision or order of a court; (*cour d’appel*)
 
-***debt obligation*** means a bond, debenture, note or other evidence of indebtedness of an entity, whether secured or unsecured;
+***debt obligation*** means a bond, debenture, note or other evidence of indebtedness of an entity, whether secured or unsecured; (*titre de créance*)
 
-***delegate*** means a natural person appointed or elected to represent a member of an association at a meeting of members;
+***delegate*** means a natural person appointed or elected to represent a member of an association at a meeting of members; (*délégué*)
 
-***deposit protection agency*** means an entity established
+***deposit protection agency*** means an entity established
 - **(a)** to provide or administer a stabilization or mutual aid fund for local cooperative credit societies,
 - **(b)** to assist in the payment of any losses incurred by the members of a local cooperative credit society in the liquidation of the society, or
-- **(c)** to provide deposit insurance for members of local cooperative credit societies;
+- **(c)** to provide deposit insurance for members of local cooperative credit societies; (*agence d’assurance-dépôts*)
 
-,  or ,  ou ***director*** means a natural person occupying the position of director, by whatever name called, of a body corporate, and ***board of directors*** or ***directors*** refers to the directors of a body corporate as a body;
+***director*** means a natural person occupying the position of director, by whatever name called, of a body corporate, and ***board of directors*** or ***directors*** refers to the directors of a body corporate as a body; (*administrateur*, *conseil d’administration* ou *conseil*)
 
-***entity*** means a body corporate, trust, partnership, fund, an unincorporated organization, Her Majesty in right of Canada or of a province, an agency of Her Majesty in either of such rights and the government of a foreign country or any political subdivision thereof and any agency thereof;
+***entity*** means a body corporate, trust, partnership, fund, an unincorporated organization, Her Majesty in right of Canada or of a province, an agency of Her Majesty in either of such rights and the government of a foreign country or any political subdivision thereof and any agency thereof; (*entité*)
 
-***federal credit union*** has the same meaning as in section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md);
+***federal credit union*** has the same meaning as in section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md); (*coopérative de crédit fédérale*)
 
-***fiduciary*** means any person acting in a fiduciary capacity, and includes a personal representative of a deceased person;
+***federal league*** means a cooperative corporation incorporated under an Act of Parliament whose membership consists wholly or primarily of federal credit unions and whose principal purpose is the provision of administrative, technical, research and consultative services, and goods related to those services, to any cooperative credit society or to persons intending to organize or operate such a society; (*confédération fédérale*)
 
-***financial institution*** means
+***fiduciary*** means any person acting in a fiduciary capacity, and includes a personal representative of a deceased person; (*représentant*)
+
+***financial institution*** means
 - **(a)** an association,
 - **(b)** a bank or an authorized foreign bank within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md),
 - **(c)** a body corporate to which the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md) applies,
@@ -125,129 +127,131 @@ but does not include a deposit protection agency;
 - **(e)** a trust, loan or insurance corporation incorporated by or under an Act of the legislature of a province,
 - **(f)** a cooperative credit society incorporated and regulated by or under an Act of the legislature of a province,
 - **(g)** an entity that is incorporated or formed by or under an Act of Parliament or of the legislature of a province and that is primarily engaged in dealing in securities, including portfolio management and investment counselling, and
-- **(h)** a foreign institution;
+- **(h)** a foreign institution; (*institution financière*)
 
-***foreign institution*** means an entity that is
+***foreign institution*** means an entity that is
 - **(a)** engaged in the business of banking, the trust, loan or insurance business, the business of a cooperative credit society or the business of dealing in securities or is otherwise engaged primarily in the business of providing financial services, and
-- **(b)** incorporated or formed otherwise than by or under an Act of Parliament or of the legislature of a province;
+- **(b)** incorporated or formed otherwise than by or under an Act of Parliament or of the legislature of a province; (*institution étrangère*)
 
-***former Act*** means the Cooperative Credit Associations Act, chapter C-41 of the Revised Statutes of Canada, 1985;
+***former Act*** means the Cooperative Credit Associations Act, chapter C-41 of the Revised Statutes of Canada, 1985; (*loi antérieure*)
 
-***former-Act association*** means the Canadian Co-operative Credit Society Limited, a corporation incorporated by chapter 58 of the Statutes of Canada, 1952-53;
+***former-Act association*** means the Canadian Co-operative Credit Society Limited, a corporation incorporated by chapter 58 of the Statutes of Canada, 1952-53; (*association antérieure*)
 
-***form of proxy*** means a written or printed form that, when completed and executed by or on behalf of a shareholder, constitutes a proxy;
+***form of proxy*** means a written or printed form that, when completed and executed by or on behalf of a shareholder, constitutes a proxy; (*formulaire de procuration*)
 
-***guarantee*** includes a letter of credit;
+***guarantee*** includes a letter of credit; (*garantie*)
 
-***head office*** means the office required to be maintained by an association pursuant to section 234;
+***head office*** means the office required to be maintained by an association pursuant to section 234; (*siège*)
 
-***holder*** means
+***holder*** means
 - **(a)** in respect of a security certificate, the person in possession of the certificate issued or endorsed to that person or to bearer or in blank,
 - **(b)** in respect of the ownership of a membership share, the person referred to in section 7, and
-- **(c)** in respect of the ownership of a share, the shareholder of the share within the meaning of section 8;
+- **(c)** in respect of the ownership of a share, the shareholder of the share within the meaning of section 8; (*détenteur*)
 
-***holding body corporate*** means a holding body corporate within the meaning of section 4;
+***holding body corporate*** means a holding body corporate within the meaning of section 4; (*société mère*)
 
- ou ***incorporated***, when used with reference to a body corporate that is incorporated by or under an Act of Parliament or of the legislature of a province, also refers to a body corporate that is continued by or under any such Act;
+***incorporated***, when used with reference to a body corporate that is incorporated by or under an Act of Parliament or of the legislature of a province, also refers to a body corporate that is continued by or under any such Act; (*constitué en personne morale* ou *constitué*)
 
-***incorporating instrument*** means the special Act, letters patent, instrument of continuance or other constating instrument by which a body corporate was incorporated or continued and includes any amendment to or restatement of the constating instrument;
+***incorporating instrument*** means the special Act, letters patent, instrument of continuance or other constating instrument by which a body corporate was incorporated or continued and includes any amendment to or restatement of the constating instrument; (*acte constitutif*)
 
-***incorporator***, in relation to an association, means a person who applied for letters patent to incorporate the association;
+***incorporator***, in relation to an association, means a person who applied for letters patent to incorporate the association; (*fondateur*)
 
-***issuer***, in respect of a security, means the entity that issues or issued the security;
+***issuer***, in respect of a security, means the entity that issues or issued the security; (*émetteur*)
 
-***league*** means a cooperative corporation incorporated by or under an Act of the legislature of a province whose membership consists wholly or primarily of local cooperative credit societies and whose principal purpose is the provision of administrative, technical, research and consultative services, and goods related to those services, to any cooperative credit society or to persons intending to organize or operate such a society;
+***league***[Repealed, 2014, c. 39, s. 278]
 
-***letters patent***, in respect of an instrument authorized to be issued under this Act, means letters patent in a form approved by the Superintendent;
+***letters patent***, in respect of an instrument authorized to be issued under this Act, means letters patent in a form approved by the Superintendent; (*lettres patentes*)
 
- ou ***local cooperative credit society*** means a cooperative credit society incorporated by or under an Act of the legislature of a province
+***local cooperative credit society*** means a cooperative credit society incorporated by or under an Act of the legislature of a province
 - **(a)** whose members consist substantially of individuals, and
-- **(b)** whose principal purpose is to receive deposits from, and make loans to, its members;
+- **(b)** whose principal purpose is to receive deposits from, and make loans to, its members; (*coopérative de crédit locale* ou *coopérative locale*)
 
-Version anglaise seulement***member***, in respect of an association, means a person who is a member of the association;
+***member***, in respect of an association, means a person who is a member of the association; (*Version anglaise seulement*)
 
-***members register*** means the register referred to in section 49;
+***members register*** means the register referred to in section 49; (*registre des associés*)
 
-***membership share*** means an interest in the equity of an association that confers the rights referred to in subsection 67(2);
+***membership share*** means an interest in the equity of an association that confers the rights referred to in subsection 67(2); (*parts sociales*)
 
-***Minister*** means the Minister of Finance;
+***Minister*** means the Minister of Finance; (*ministre*)
 
-***minor*** has the same meaning as in the applicable provincial law and in the absence of any such law has the same meaning as the word “child” in the United Nations Convention on the Rights of the Child adopted in the United Nations General Assembly on November 20, 1989;
+***minor*** has the same meaning as in the applicable provincial law and in the absence of any such law has the same meaning as the word “child” in the United Nations Convention on the Rights of the Child adopted in the United Nations General Assembly on November 20, 1989; (*mineur*)
 
-***officer*** means
+***officer*** means
 - **(a)** in relation to a body corporate, a chief executive officer, president, vice-president, secretary, controller, treasurer and any other natural person designated as an officer of the body corporate by by-law or by resolution of the directors of the body corporate, and
-- **(b)** in relation to any other entity, any natural person designated as an officer of the entity by by-law, by resolution of the members thereof or otherwise;
+- **(b)** in relation to any other entity, any natural person designated as an officer of the entity by by-law, by resolution of the members thereof or otherwise; (*dirigeant*)
 
-***order form***, in respect of a security, means a security in order form as determined in accordance with subsection 90(3);
+***order form***, in respect of a security, means a security in order form as determined in accordance with subsection 90(3); (*titre à ordre*)
 
-***ordinary resolution*** means a resolution passed by a majority of the votes cast by or on behalf of the members who voted in respect of the resolution;
+***ordinary resolution*** means a resolution passed by a majority of the votes cast by or on behalf of the members who voted in respect of the resolution; (*résolution ordinaire*)
 
-***patronage allocation*** means an amount that an association allocates among and credits or pays to its members or to its member and non-member patrons based on the business done by them with or through the association, and includes
+***patronage allocation*** means an amount that an association allocates among and credits or pays to its members or to its member and non-member patrons based on the business done by them with or through the association, and includes
 - **(a)** a patronage refund, and
-- **(b)** an allocation in proportion to borrowing;
+- **(b)** an allocation in proportion to borrowing; (*ristourne*)
 
-***person*** means a natural person, an entity or a personal representative;
+***person*** means a natural person, an entity or a personal representative; (*personne*)
 
-***personal representative*** means a person who stands in place of and represents another person and, without limiting the generality of the foregoing, includes, as the circumstances require, a trustee, an executor, an administrator, a committee, a guardian, a tutor, a curator, an assignee, a receiver, an agent or an attorney of any person, but does not include a delegate;
+***personal representative*** means a person who stands in place of and represents another person and, without limiting the generality of the foregoing, includes, as the circumstances require, a trustee, an executor, an administrator, a committee, a guardian, a tutor, a curator, an assignee, a receiver, an agent or an attorney of any person, but does not include a delegate; (*représentant personnel*)
 
-Version anglaise seulement***prescribed*** means prescribed by regulation;
+***prescribed*** means prescribed by regulation; (*Version anglaise seulement*)
 
-***proxy*** means a completed and executed form of proxy by means of which a shareholder appoints a proxyholder to attend and act on the shareholder’s behalf at a meeting of shareholders;
+***provincial league*** means a cooperative corporation incorporated under an Act of the legislature of a province whose membership consists wholly or primarily of local cooperative credit societies and whose principal purpose is the provision of administrative, technical, research and consultative services, and goods related to those services, to any cooperative credit society or to persons intending to organize or operate such a society; (*confédération provinciale*)
 
-***proxyholder*** means the person appointed by proxy to attend and act on behalf of a shareholder at a meeting of shareholders;
+***proxy*** means a completed and executed form of proxy by means of which a shareholder appoints a proxyholder to attend and act on the shareholder’s behalf at a meeting of shareholders; (*procuration*)
 
-***real property*** includes a leasehold interest in real property;
+***proxyholder*** means the person appointed by proxy to attend and act on behalf of a shareholder at a meeting of shareholders; (*fondé de pouvoir*)
 
-***recorded address*** means
+***real property*** includes a leasehold interest in real property; (*biens immeubles*)
+
+***recorded address*** means
 - **(a)** in relation to a member of an association, the latest postal address of the member according to the members register of the association,
 - **(b)** in relation to a shareholder of an association, the latest postal address of the person according to the central securities register of the association, and
-- **(c)** in relation to any other person in respect of a retail association, the latest postal address of the person according to the records of the branch concerned;
+- **(c)** in relation to any other person in respect of a retail association, the latest postal address of the person according to the records of the branch concerned; (*adresse enregistrée*)
 
-***registered form***, in respect of a security, means a security in registered form as determined in accordance with subsection 90(4);
+***registered form***, in respect of a security, means a security in registered form as determined in accordance with subsection 90(4); (*titre nominatif*)
 
-***regulatory capital***, in respect of an association, has the meaning given to that expression by the regulations;
+***regulatory capital***, in respect of an association, has the meaning given to that expression by the regulations; (*capital réglementaire*)
 
-***resident Canadian*** means a natural person who is
+***resident Canadian*** means a natural person who is
 - **(a)** a Canadian citizen ordinarily resident in Canada,
 - **(b)** a Canadian citizen not ordinarily resident in Canada who is a member of a prescribed class of persons, or
-- **(c)** a permanent resident within the meaning of subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) and ordinarily resident in Canada, except a permanent resident who has been ordinarily resident in Canada for more than one year after the time at which the individual first became eligible to apply for Canadian citizenship;
+- **(c)** a permanent resident within the meaning of subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) and ordinarily resident in Canada, except a permanent resident who has been ordinarily resident in Canada for more than one year after the time at which the individual first became eligible to apply for Canadian citizenship; (*résident canadien*)
 
-***residential property*** means real property consisting of buildings that are used, or are to be used, to the extent of at least one half of the floor space thereof, as one or more private dwellings;
+***residential property*** means real property consisting of buildings that are used, or are to be used, to the extent of at least one half of the floor space thereof, as one or more private dwellings; (*immeuble résidentiel*)
 
-***retail association***, for the purpose of any particular provision of this Act, means an association as defined in the regulations;
+***retail association***, for the purpose of any particular provision of this Act, means an association as defined in the regulations; (*association de détail*)
 
-***securities underwriter*** means a person who, as principal, agrees to purchase securities with a view to the distribution of the securities or who, as agent for a body corporate or other person, offers for sale or sells securities in connection with a distribution of the securities, and includes a person who participates, directly or indirectly, in a distribution of securities, other than a person whose interest in the distribution of securities is limited to receiving a distributor’s or seller’s commission payable by a securities underwriter;
+***securities underwriter*** means a person who, as principal, agrees to purchase securities with a view to the distribution of the securities or who, as agent for a body corporate or other person, offers for sale or sells securities in connection with a distribution of the securities, and includes a person who participates, directly or indirectly, in a distribution of securities, other than a person whose interest in the distribution of securities is limited to receiving a distributor’s or seller’s commission payable by a securities underwriter; (*souscripteur à forfait*)
 
- ou ***security*** means
+***security*** means
 - **(a)** in relation to a body corporate, a share of any class of shares of the body corporate or a debt obligation of the body corporate, and includes a warrant of the body corporate, but does not include a deposit with a financial institution or any instrument evidencing such a deposit or, for greater certainty, a membership share, and
-- **(b)** in relation to any other entity, any ownership interest in or debt obligation of the entity;
+- **(b)** in relation to any other entity, any ownership interest in or debt obligation of the entity; (*titre* ou *valeur mobilière*)
 
-***security interest*** means an interest in or charge on property by way of mortgage, lien, pledge or otherwise taken by a creditor or guarantor to secure the payment or performance of an obligation;
+***security interest*** means an interest in or charge on property by way of mortgage, lien, pledge or otherwise taken by a creditor or guarantor to secure the payment or performance of an obligation; (*sûreté*)
 
-***send*** includes deliver;
+***send*** includes deliver; (*envoyer*)
 
-***series***, in respect of shares, means a division of a class of shares;
+***series***, in respect of shares, means a division of a class of shares; (*série*)
 
-Version anglaise seulement***share*** does not include a membership share;
+***share*** does not include a membership share; (*Version anglaise seulement*)
 
-***significant interest*** means a significant interest determined in accordance with section 9;
+***significant interest*** means a significant interest determined in accordance with section 9; (*intérêt substantiel*)
 
-***special resolution*** means a resolution passed by a majority of not less than two thirds of the votes cast by or on behalf of the persons who voted in respect of that resolution;
+***special resolution*** means a resolution passed by a majority of not less than two thirds of the votes cast by or on behalf of the persons who voted in respect of that resolution; (*résolution extraordinaire*)
 
-***subordinated indebtedness*** means an instrument evidencing an indebtedness of an association that by its terms provides that the indebtedness will, in the event of the insolvency or winding-up of the association, be subordinate in right of payment to all deposit liabilities of the association and all other liabilities of the association except those that, by their terms, rank equally with or are subordinate to such indebtedness;
+***subordinated indebtedness*** means an instrument evidencing an indebtedness of an association that by its terms provides that the indebtedness will, in the event of the insolvency or winding-up of the association, be subordinate in right of payment to all deposit liabilities of the association and all other liabilities of the association except those that, by their terms, rank equally with or are subordinate to such indebtedness; (*titre secondaire*)
 
-***subsidiary*** means an entity that is a subsidiary of another entity within the meaning of section 5;
+***subsidiary*** means an entity that is a subsidiary of another entity within the meaning of section 5; (*filiale*)
 
-***substantial investment*** means a substantial investment determined in accordance with section 12;
+***substantial investment*** means a substantial investment determined in accordance with section 12; (*intérêt de groupe financier*)
 
-***Superintendent*** means the Superintendent of Financial Institutions appointed pursuant to the [Office of the Superintendent of Financial Institutions Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2018%20(3rd%20Supp.),%20Part%20I.md);
+***Superintendent*** means the Superintendent of Financial Institutions appointed pursuant to the [Office of the Superintendent of Financial Institutions Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2018%20(3rd%20Supp.),%20Part%20I.md); (*surintendant*)
 
-***trade***, in respect of securities, means any sale or disposition of securities for valuable consideration;
+***trade***, in respect of securities, means any sale or disposition of securities for valuable consideration; (*opération*)
 
-***transfer***, in respect of securities, includes a transmission by operation of law;
+***transfer***, in respect of securities, includes a transmission by operation of law; (*transfert*)
 
-***voting share*** means a share of any class of shares of a body corporate carrying voting rights under all circumstances or by reason of an event that has occurred and is continuing or by reason of a condition that has been fulfilled.
-> 1991, c. 48, ss. 2, 496, 497; 1992, c. 51, s. 31; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 24, c. 28, s. 115; 2000, c. 12, s. 84; 2001, c. 9, s. 248, c. 27, s. 234; 2002, c. 7, s. 136(E); 2005, c. 54, s. 140; 2007, c. 6, s. 135; 2010, c. 12, s. 2114; 2012, c. 5, s. 104; 2015, c. 3, s. 43.
+***voting share*** means a share of any class of shares of a body corporate carrying voting rights under all circumstances or by reason of an event that has occurred and is continuing or by reason of a condition that has been fulfilled. (*action avec droit de vote*)
+> 1991, c. 48, ss. 2, 496, 497; 1992, c. 51, s. 31; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 24, c. 28, s. 115; 2000, c. 12, s. 84; 2001, c. 9, s. 248, c. 27, s. 234; 2002, c. 7, s. 136(E); 2005, c. 54, s. 140; 2007, c. 6, s. 135; 2010, c. 12, s. 2114; 2012, c. 5, s. 104; 2014, c. 39, s. 278; 2015, c. 3, s. 43.
 
 
 
@@ -495,12 +499,7 @@ the acquisition is deemed to cause the person to increase a substantial investme
 
 
 
-
-**References in other Acts**
-
-**13.1** A reference in any other Act of Parliament to “an association to which the Cooperative Credit Associations Act applies” is to be construed as not including a central cooperative credit society for which an order has been made under subsection 473(1).
-> 2001, c. 9, s. 252.
-
+**13.1** [Repealed, 2014, c. 39, s. 279]
 
 
 
@@ -646,9 +645,10 @@ the acquisition is deemed to cause the person to increase a substantial investme
 - **(a)** an association; or
 - **(b)** persons who are entitled to be members of an association under Part IV that include at least
 	- **(i)** two central cooperative credit societies not all of which are incorporated under the laws of one province,
-	- **(ii)** two local cooperative credit societies not all of which are incorporated under the laws of one province, or
-	- **(iii)** two or more leagues not all of which are incorporated under the laws of one province.
-> 1991, c. 48, s. 24; 2001, c. 9, s. 256; 2007, c. 6, s. 139.
+	- **(ii)** two local cooperative credit societies not all of which are incorporated under the laws of one province,
+	- **(iii)** two or more provincial leagues not all of which are incorporated under the laws of one province, or
+	- **(iv)** a federal credit union or a federal league.
+> 1991, c. 48, s. 24; 2001, c. 9, s. 256; 2007, c. 6, s. 139; 2014, c. 39, s. 280.
 
 
 
@@ -701,9 +701,10 @@ the acquisition is deemed to cause the person to increase a substantial investme
 - **(d)** the character and integrity of the applicant or applicants or, if the applicant or any of the applicants is a body corporate, its reputation for being operated in a manner that is consistent with the standards of good character and integrity;
 - **(e)** whether the association will be operated responsibly by persons with the competence and experience suitable for involvement in the operation of a financial institution;
 - **(f)** the impact of any integration of the businesses and operations of the applicant or applicants with those of the association on the conduct of those businesses and operations;
-- **(g)** whether the association is to be operated in accordance with cooperative principles; and
+- **(g)** whether the association is to be operated in accordance with cooperative principles;
+- **(g.1)** the predominance of associations, federal credit unions or federal leagues, or any combination of them, as members within the association; and
 - **(h)** the best interests of the financial system in Canada and, in particular, the cooperative financial system in Canada.
-> 1991, c. 48, s. 27; 2001, c. 9, s. 257.
+> 1991, c. 48, s. 27; 2001, c. 9, s. 257; 2014, c. 39, s. 281.
 
 
 
@@ -987,12 +988,12 @@ except where the trade-mark or trade name is being changed or the body corporate
 
 **Name**
 
-**36** The name of an association shall include
-- **(a)** the word “cooperative” or “*coopérative*”, along with another word or expression indicating the financial nature of the association;
-- **(b)** the phrase “central credit union”, “credit union central” or “*fédération de caisses populaires*”;
+**36** The name of an association, other than the former-Act association, shall include
+- **(a)** the phrase “federal cooperative” or “*co­opérative fédérale*”, along with another word or expression indicating the financial nature of the association;
+- **(b)** the phrase “federal central credit union”, “federal credit union central” or “*fédération de caisses populaires fédérale*”;
 - **(c)** any combination or derivative of words and phrases referred to in paragraphs (a) and (b); or
 - **(d)** any word or phrase specified by the Minister.
-> 1991, c. 48, s. 36; 2001, c. 9, s. 260; 2007, c. 6, s. 143.
+> 1991, c. 48, s. 36; 2001, c. 9, s. 260; 2007, c. 6, s. 143; 2014, c. 39, s. 282.
 
 
 
@@ -1068,7 +1069,7 @@ that is prohibited by section 35, the Superintendent may, by order, direct the a
 
 **41** 
 
-- **(1)** Only a person that is an association, a central cooperative credit society, a local cooperative credit society, a cooperative corporation, a league, a deposit protection agency or an unincorporated organization consisting wholly of any of those entities may be admitted to membership in an association.
+- **(1)** Only a person that is an association, a federal credit union, a central cooperative credit society, a local cooperative credit society, a cooperative corporation, a federal or provincial league or an unincorporated organization consisting wholly of any of those entities may be admitted to membership in an association.
 
 **Condition for membership**
 
@@ -1081,7 +1082,7 @@ that is prohibited by section 35, the Superintendent may, by order, direct the a
 **Membership not transferable**
 
 - **(5)** No transfer of a membership is valid for any purpose.
-> 1991, c. 48, s. 41; 1994, c. 47, s. 50; 2001, c. 9, ss. 263, 264.
+> 1991, c. 48, s. 41; 1994, c. 47, s. 50; 2001, c. 9, ss. 263, 264; 2014, c. 39, s. 283.
 
 
 
@@ -1199,18 +1200,23 @@ that is prohibited by section 35, the Superintendent may, by order, direct the a
 
 **50** 
 
-- **(1)** The membership in an association must include at least
+- **(1)** The membership in a retail association and the former-Act association must include at least
 	- **(a)** an association;
 	- **(b)** two central cooperative credit societies not all of which are incorporated under the laws of one province;
-	- **(c)** two local cooperative credit societies not all of which are incorporated under the laws of one province; or
-	- **(d)** two or more leagues not all of which are incorporated under the laws of one province.
+	- **(c)** two local cooperative credit societies not all of which are incorporated under the laws of one province;
+	- **(d)** two provincial leagues not all of which are incorporated under the laws of one province; or
+	- **(e)** a federal credit union or a federal league.
 
-**Where minimum not attained**
+**Predominately federal membership**
 
-- **(2)** If, at any time, the membership in an association is not in accordance with subsection (1), the association shall without delay take the steps that are necessary to
+- **(1.1)** The membership of an association that is not a retail association or the former-Act association must be predominated by associations other than retail associations, by federal credit unions, by federal leagues or by any combination of them.
+
+**If minimum not attained**
+
+- **(2)** If, at any time, the membership in an association is not in accordance with subsection (1) or (1.1), as the case may be, the association shall without delay take the steps that are necessary to
 	- **(a)** apply for a certificate of continuation or letters patent referred to in subsection 32(1); or
 	- **(b)** liquidate and dissolve the association under Part VII.
-> 1991, c. 48, s. 50; 1998, c. 1, s. 384; 2001, c. 9, s. 265; 2007, c. 6, s. 144.
+> 1991, c. 48, s. 50; 1998, c. 1, s. 384; 2001, c. 9, s. 265; 2007, c. 6, s. 144; 2014, c. 39, s. 284.
 
 
 
@@ -4821,7 +4827,7 @@ is entitled to submit to the association a written statement giving the reasons 
 
 **233.1** 
 
-- **(1)** An association may sell all or substantially all of its assets to a financial institution incorporated by or under an Act of Parliament, a central cooperative credit society for which an order has been made under subsection 473(1), a bank holding company or an authorized foreign bank in respect of its business in Canada if the purchasing financial institution, central cooperative credit society, bank holding company or authorized foreign bank assumes all or substantially all of the liabilities of the association.
+- **(1)** An association may sell all or substantially all of its assets to a financial institution incorporated under an Act of Parliament, a bank holding company or an authorized foreign bank in respect of its business in Canada if the purchasing financial institution, bank holding company or authorized foreign bank assumes all or substantially all of the liabilities of the association.
 
 **Sale agreement**
 
@@ -4829,12 +4835,12 @@ is entitled to submit to the association a written statement giving the reasons 
 
 **Consideration**
 
-- **(3)** Despite anything in this Act, the consideration for a sale referred to in subsection (1) may be cash or fully paid securities of the purchasing financial institution, central cooperative credit society for which an order has been made under subsection 473(1), bank holding company or authorized foreign bank or in part cash and in part fully paid securities of the purchasing financial institution, central cooperative credit society, bank holding company or authorized foreign bank or any other consideration that is provided for in the sale agreement.
+- **(3)** Despite anything in this Act, the consideration for a sale referred to in subsection (1) may be cash or fully paid securities of the purchasing financial institution, bank holding company or authorized foreign bank or in part cash and in part fully paid securities of the purchasing financial institution, bank holding company or authorized foreign bank or any other consideration that is provided for in the sale agreement.
 
 **Meaning of authorized foreign bank and bank holding company**
 
 - **(4)** In this section, ***authorized foreign bank*** and ***bank holding company*** have the meaning assigned to those expressions by section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md).
-> 2001, c. 9, s. 289.
+> 2001, c. 9, s. 289; 2014, c. 39, s. 285.
 
 
 
@@ -7178,8 +7184,8 @@ of shares of that class of shares of the association, or of control of an entity
 
 **Restriction**
 
-- **(3)** Subject to any order that may be made by the Superintendent under section 61 or 62, an association shall not receive money on deposit from a local cooperative credit society, or a cooperative corporation, that is not a member of the association.
-> 1991, c. 48, s. 375; 1997, c. 15, s. 137; 2001, c. 9, s. 306.
+- **(3)** Subject to any order that may be made by the Superintendent under section 61 or 62, an association shall not receive money on deposit from a federal credit union, local cooperative credit society or cooperative corporation that is not a member of the association.
+> 1991, c. 48, s. 375; 1997, c. 15, s. 137; 2001, c. 9, s. 306; 2014, c. 39, s. 286.
 
 
 
@@ -7403,14 +7409,21 @@ where
 
 - **(2)** Paragraph (1)(a) does not apply where the person on whose behalf the association has undertaken to guarantee a payment or repayment is a subsidiary of the association.
 
-**Exception**
-
-- **(3)** Paragraph (1)(a) does not apply in respect of a guarantee given on behalf of a central, within the meaning of section 472, or a local cooperative credit society if the payment guaranteed represents the obligation of the central or the local cooperative credit society to settle for payment items in accordance with the by-laws and rules of the Canadian Payments Association.
+- **(3)** [Repealed, 2014, c. 39, s. 287]
 
 **Regulations**
 
 - **(4)** The Governor in Council may make regulations imposing terms and conditions in respect of guarantees permitted by this section.
-> 1991, c. 48, s. 379; 1997, c. 15, s. 139; 2001, c. 9, s. 310.
+> 1991, c. 48, s. 379; 1997, c. 15, s. 139; 2001, c. 9, s. 310; 2014, c. 39, s. 287.
+
+
+
+
+
+**Restriction — liquidity support**
+
+**379.1** An association shall not provide any prescribed form of liquidity support for central cooperative credit societies or local cooperative credit societies except in accordance with prescribed terms and conditions.
+> 2014, c. 39, s. 288.
 
 
 
@@ -9958,9 +9971,7 @@ together with such other information about the background, business record and e
 
 **Notice of proposed action**
 
-- **(1.2)** The Superintendent must notify
-	- **(a)** an association of any action proposed to be taken in respect of it under paragraph (1)(b) and of its right to make written representations to the Superintendent within the time specified in the notice, not exceeding ten days after it receives the notice; and
-	- **(b)** where the action proposed to be taken under subsection (1) is in respect of a central, within the meaning of Part XVI, the minister of the Crown in right of the province in which the central is incorporated who is responsible for the supervision of the central.
+- **(1.2)** The Superintendent must notify an association of any action proposed to be taken in respect of it under paragraph (1)(b) and of its right to make written representations to the Superintendent within the time specified in the notice, not exceeding 10 days after it receives the notice.
 
 **Objectives of Superintendent**
 
@@ -9973,7 +9984,7 @@ together with such other information about the background, business record and e
 	- **(b)** no director, officer or employee of the association shall have access to any cash or securities held by or under the administration of the association unless
 		- **(i)** a representative of the Superintendent accompanies the director, officer or employee, or
 		- **(ii)** the access is previously authorized by the Superintendent or the Superintendent’s representative.
-> 1991, c. 48, s. 442; 1996, c. 6, s. 60; 2001, c. 9, s. 335.
+> 1991, c. 48, s. 442; 1996, c. 6, s. 60; 2001, c. 9, s. 335; 2014, c. 39, s. 289.
 
 
 
@@ -10616,6 +10627,7 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 	- **(a)** prescribing anything that is required or authorized by this Act to be prescribed;
 	- **(a.1)** prescribing the way in which anything that is required or authorized by this Act to be prescribed shall be determined;
 	- **(b)** defining words and expressions to be defined for the purposes of this Act;
+	- **(b.1)** specifying what constitutes predominance for the purposes of paragraph 27(g.1) and subsection 50(1.1);
 	- **(c)** requiring the payment of a fee in respect of the filing, examining or issuing of any document or in respect of any action that the Superintendent is required or authorized to take under this Act, and fixing the amount thereof or the manner of determining the amount thereof;
 	- **(d)** respecting the regulatory capital and total assets of an association;
 	- **(e)** respecting the retention, in Canada, of assets of an association;
@@ -10634,7 +10646,7 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 **Incorporated material is not a regulation**
 
 - **(3)** Material does not become a regulation for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) because it is incorporated by reference.
-> 1991, c. 48, s. 463; 1997, c. 15, s. 160; 1999, c. 31, s. 58(F); 2001, c. 9, s. 339; 2005, c. 54, s. 208.
+> 1991, c. 48, s. 463; 1997, c. 15, s. 160; 1999, c. 31, s. 58(F); 2001, c. 9, s. 339; 2005, c. 54, s. 208; 2014, c. 39, s. 290.
 
 
 
@@ -10777,146 +10789,42 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 
 
 **PART XVI** 
-## Central Cooperative Credit Societies
+## [Repealed, 2014, c. 39, s. 291]
 
 
+**472** [Repealed, 2014, c. 39, s. 291]
 
-**Definition of central**
 
-**472** In the English version of this Part, ***central*** means a central cooperative credit society for which an order has been made under subsection 473(1).
-> 1991, c. 48, s. 472; 1993, c. 34, s. 56(F).
 
+**473** [Repealed, 2014, c. 39, s. 291]
 
 
 
+**474** [Repealed, 2014, c. 39, s. 291]
 
-**Application**
 
-**473** 
 
-- **(1)** On application by a central cooperative credit society, the Superintendent may, by order, apply this Part to the central.
+**475** [Repealed, 2014, c. 39, s. 291]
 
-**Contents of application**
 
-- **(2)** The application referred to in subsection (1) shall be filed together with
-	- **(a)** evidence satisfactory to the Superintendent that
-		- **(i)** the applicant is a cooperative credit society, and
-		- **(ii)** the applicant is a member of an association, or if not such a member, the applicant has applied for and will be accepted into membership in an association;
-	- **(b)** a copy of a special resolution of the applicant authorizing the application; and
-	- **(c)** such other information, material and evidence as the Superintendent may require.
 
+**476** [Repealed, 2014, c. 39, s. 291]
 
 
 
-**Effect of order**
+**477** [Repealed, 2014, c. 39, s. 291]
 
-**474** 
 
-- **(1)** Every central is deemed to be an association incorporated under this Act for the purposes of
-	- **(a)** subsections 16(1), (3) and (4),
-	- **(a.1)** paragraphs 167(2)(a) and (b),
-	- **(b)** sections 199 and 200,
-	- **(c)** sections 291 to 317, other than subsection 291(2), and
-	- **(d)** Parts IX to XV, other than subsection 375(3), section 375.1 and paragraph 442(1.1)(g), XVII and XVII.1,
-and, subject to subsections (3) and (4), is invested with all the powers, privileges and immunities conferred by, and is subject to the limitations and liabilities set out in, those provisions, with such modifications as the circumstances require.
 
-**No limitation on provincial powers, etc.**
+**478** [Repealed, 2014, c. 39, s. 291]
 
-- **(2)** Nothing in this Act prohibits a central from exercising any power, right or privilege conferred on it by any law of the province in which it is incorporated except as specifically prohibited by sections 379, 383 to 385 or any provision of Part X.
 
-**Prohibited powers, etc.**
 
-- **(3)** A central shall not exercise a power, right or privilege conferred on it by this Act if it is specifically prohibited or restricted from exercising the power, right, or privilege by any law of the province in which it is incorporated.
+**479** [Repealed, 2014, c. 39, s. 291]
 
-**Exception**
 
-- **(4)** Subsections 16(1), (3) and (4) and Part IX, other than sections 379 and 383 to 385, do not apply to a central that is incorporated in a province the laws of which do not empower the central to exercise the powers, privileges and immunities conferred by this Act.
 
-**Exception**
-
-- **(5)** Paragraph 390(4)(a) does not apply to the acquisition or increase of a substantial investment by a central in an association referred to in section 14.
-> 1991, c. 48, s. 474; 1997, c. 15, s. 163; 2001, c. 9, s. 342; 2005, c. 54, s. 211.
-
-
-
-
-
-**Additional powers**
-
-**475** 
-
-- **(1)** For the purposes of Part X, a central may make a deposit in or a loan to, invest in the debt obligations of, or purchase members’ shares issued by, a cooperative credit society, or a cooperative corporation, that is a member of that central, and any such loan, deposit, investment or purchase shall be deemed not to be a commercial loan.
-
-**Security interest**
-
-- **(2)** Notwithstanding section 383, a central may create a security interest in any of its property to secure an obligation of the central to
-	- **(a)** an association of which the central is a member; or
-	- **(b)** a deposit protection agency, or the government of the province in which the central is incorporated, if the agency or government is designated by the Minister.
-
-**Guarantees**
-
-- **(3)** Paragraph 379(1)(a) does not apply to a central where
-	- **(a)** the guarantee is given on behalf of a member of the central or on behalf of another central; and
-	- **(b)** the payment guaranteed represents the obligation of that member or other central to settle for payment items in accordance with the by-laws and rules of the Canadian Payments Association.
-
-
-
-
-**Terms and conditions**
-
-**476** 
-
-- **(1)** The Superintendent may impose such terms and conditions in respect of the making of an order under subsection 473(1) as the Superintendent deems necessary.
-
-**Variations**
-
-- **(2)** In respect of an order under subsection 473(1), the Superintendent may at any time, by further order,
-	- **(a)** make the order subject to such conditions or limitations that are consistent with this Act and that relate to the business of the central as the Superintendent deems expedient and necessary, or
-	- **(b)** amend or revoke any condition or limitation to which the order is subject,
-but before making any such further order the Superintendent shall provide the central with an opportunity to make representations regarding that further order.
-
-
-
-
-**Public notice**
-
-**477** On the making of an order under subsection 473(1), the central shall publish a notice of the making of the order in a newspaper in general circulation at or near the place where the head office of the central is located and the Superintendent shall cause such a notice to be published in the Canada Gazette.
-
-
-
-
-**Revocation of order**
-
-**478** 
-
-- **(1)** Subject to subsections (2) and (3), where a central ceases to be a member of an association or applies to the Superintendent to have the order under subsection 473(1) revoked, the Superintendent shall, by order, revoke the order.
-
-**Conditions**
-
-- **(2)** The Superintendent shall not revoke an order pursuant to subsection (1) on a central ceasing to be a member of an association, unless the Superintendent is satisfied that
-	- **(a)** the regulatory authorities in the province in which the central is incorporated have been duly notified by the central of the cessation of membership; and
-	- **(b)** the central is following standards of sound business and financial practice.
-
-**Idem**
-
-- **(3)** The Superintendent shall not revoke an order pursuant to subsection (1) on an application by a central, unless the Superintendent is satisfied that
-	- **(a)** the regulatory authorities in the province in which the central is incorporated have been duly notified by the central of its intention to apply for revocation;
-	- **(b)** the central has published in the Canada Gazette at least 30 days before making the application a notice of its intention to apply for revocation; and
-	- **(c)** the central is following standards of sound business and financial practice.
-
-
-
-
-**Effect of revocation**
-
-**479** On the day specified in the order under subsection 478(1), sections 474 and 475 cease to apply to the central.
-
-
-
-
-**Transitional**
-
-**480** For the purposes of this Act, a central cooperative credit society to which section 92 of the former Act applied immediately before the coming into force of this section is deemed to be a central cooperative credit society for which an order has been made under subsection 473(1).
+**480** [Repealed, 2014, c. 39, s. 291]
 
 
 
