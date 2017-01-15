@@ -42,88 +42,92 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***acte constitutif*** Loi spéciale, lettres patentes, acte de prorogation ou tout autre acte — avec ses modifications ou mises à jour éventuelles — constituant ou prorogeant une personne morale.
+***acte constitutif*** Loi spéciale, lettres patentes, acte de prorogation ou tout autre acte — avec ses modifications ou mises à jour éventuelles — constituant ou prorogeant une personne morale. (*incorporating instrument*)
 
-***action avec droit de vote*** Action d’une personne morale comportant — quelle qu’en soit la catégorie — un droit de vote en tout état de cause ou en raison soit de la survenance d’un fait qui demeure, soit de la réalisation d’une condition.
+***action avec droit de vote*** Action d’une personne morale comportant — quelle qu’en soit la catégorie — un droit de vote en tout état de cause ou en raison soit de la survenance d’un fait qui demeure, soit de la réalisation d’une condition. (*voting share*)
 
-,  ou ,  or ***administrateur*** Indépendamment de son titre, la personne physique qui fait fonction d’administrateur d’une personne morale; ***conseil d’administration*** ou ***conseil*** s’entend de l’ensemble des administrateurs d’une personne morale.
+***administrateur*** Indépendamment de son titre, la personne physique qui fait fonction d’administrateur d’une personne morale; ***conseil d’administration*** ou ***conseil*** s’entend de l’ensemble des administrateurs d’une personne morale. (*director*, *board of directors* or *directors*)
 
 ***adresse enregistrée***
 - **a)** Dans le cas de l’associé d’une association, dernière adresse postale selon le registre des associés de l’association;
 - **b)** dans le cas de l’actionnaire d’une association, dernière adresse postale selon le registre central des valeurs mobilières de l’association;
-- **c)** dans le cas de toute autre personne relativement à une association de détail, dernière adresse postale selon les livres du bureau en cause.
+- **c)** dans le cas de toute autre personne relativement à une association de détail, dernière adresse postale selon les livres du bureau en cause. (*recorded address*)
 
-***affaires internes*** Les relations entre une association, les entités de son groupe et leurs associés, actionnaires, administrateurs et dirigeants, à l’exclusion de leur activité commerciale.
+***affaires internes*** Les relations entre une association, les entités de son groupe et leurs associés, actionnaires, administrateurs et dirigeants, à l’exclusion de leur activité commerciale. (*affairs*)
 
-***Agence*** L’Agence de la consommation en matière financière du Canada constituée en application de l’article 3 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md).
+***Agence*** L’Agence de la consommation en matière financière du Canada constituée en application de l’article 3 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md). (*Agency*)
 
-***agence d’assurance-dépôts*** Entité établie en vue d’offrir un fonds de stabilisation ou d’aide mutuelle aux coopératives locales, ou de le gérer pour celles-ci, d’aider les associés de ces coopératives à supporter les pertes découlant de leur liquidation ou d’offrir à ceux-ci de l’assurance-dépôts.
+***agence d’assurance-dépôts*** Entité établie en vue d’offrir un fonds de stabilisation ou d’aide mutuelle aux coopératives locales, ou de le gérer pour celles-ci, d’aider les associés de ces coopératives à supporter les pertes découlant de leur liquidation ou d’offrir à ceux-ci de l’assurance-dépôts. (*deposit protection agency*)
 
-***association*** Personne morale visée à l’article 14.
+***association*** Personne morale visée à l’article 14. (*association*)
 
-***association antérieure*** La Canadian Co-operative Credit Society Limited constituée par le chapitre 58 des Statuts du Canada de 1952-53.
+***association antérieure*** La *Canadian Co-operative Credit Society Limited* constituée par le chapitre 58 des Statuts du Canada de 1952-53. (*former-Act association*)
 
-***association de détail*** Pour l’application de telle disposition de la présente loi, s’entend au sens des règlements.
+***association de détail*** Pour l’application de telle disposition de la présente loi, s’entend au sens des règlements. (*retail association*)
 
-French version only***association n’ayant pas fait appel au public*** S’entend d’une association autre qu’une association ayant fait appel au public.
+***association n’ayant pas fait appel au public*** S’entend d’une association autre qu’une association ayant fait appel au public. (*French version only*)
 
-***biens immeubles*** Sont assimilés aux biens immeubles les droits découlant des baux immobiliers.
+***biens immeubles*** Sont assimilés aux biens immeubles les droits découlant des baux immobiliers. (*real property*)
 
-***bureau*** Tout bureau d’une association, y compris son siège et ses agences.
+***bureau*** Tout bureau d’une association, y compris son siège et ses agences. (*branch*)
 
-***capital réglementaire*** Dans le cas d’une association, s’entend au sens des règlements.
+***capital réglementaire*** Dans le cas d’une association, s’entend au sens des règlements. (*regulatory capital*)
 
-***commissaire*** Le commissaire de l’Agence nommé en application de l’article 4 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md).
+***commissaire*** Le commissaire de l’Agence nommé en application de l’article 4 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md). (*Commissioner*)
 
-***confédération*** Coopérative constituée sous le régime d’une loi provinciale, dont les associés sont exclusivement ou surtout des coopératives locales et dont l’objectif principal est d’offrir des biens et services en matière de recherche et de consultation et des biens et services administratifs et techniques aux coopératives de crédit ou à quiconque se propose d’en fonder ou d’en exploiter une.
+***confédération***[Abrogée, 2014, ch. 39, art. 278]
 
-***conjoint de fait*** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an.
+***confédération fédérale*** Coopérative constituée sous le régime d’une loi fédérale, dont les associés sont exclusivement ou surtout des coopératives de crédit fédérales et dont l’objectif principal est d’offrir des biens et services en matière de recherche et de consultation et des biens et services administratifs et techniques aux coopératives de crédit ou à quiconque se propose d’en fonder ou d’en exploiter une. (*federal league*)
 
- ou ***constitué en personne morale*** ou ***constitué*** Sont assimilées aux personnes morales constituées sous le régime d’une loi fédérale ou provinciale les personnes morales prorogées sous le même régime.
+***confédération provinciale*** Coopérative constituée sous le régime d’une loi provinciale, dont les associés sont exclusivement ou surtout des coopératives locales et dont l’objectif principal est d’offrir des biens et services en matière de recherche et de consultation et des biens et services administratifs et techniques aux coopératives de crédit ou à quiconque se propose d’en fonder ou d’en exploiter une. (*provincial league*)
 
-***coopérative*** Personne morale fondée et exploitée selon la formule coopérative.
+***conjoint de fait*** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an. (*common-law partner*)
 
-***coopérative de crédit*** Coopérative dont l’un des objectifs principaux est de fournir des services financiers à ses associés.
+***constitué en personne morale*** ou ***constitué*** Sont assimilées aux personnes morales constituées sous le régime d’une loi fédérale ou provinciale les personnes morales prorogées sous le même régime. (*incorporated*)
 
- ou ***coopérative de crédit centrale*** ou ***centrale*** Coopérative de crédit, constituée sous le régime d’une loi provinciale, dont l’un des objectifs principaux est de fournir des liquidités aux coopératives locales et, selon le cas, dont les associés sont exclusivement ou surtout des coopératives locales ou dont les administrateurs sont exclusivement ou surtout nommés ou élus par des coopératives locales. La présente définition ne vise pas les agences d’assurance-dépôts.
+***coopérative*** Personne morale fondée et exploitée selon la formule coopérative. (*cooperative corporation*)
 
-***coopérative de crédit fédérale*** S’entend au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md).
+***coopérative de crédit*** Coopérative dont l’un des objectifs principaux est de fournir des services financiers à ses associés. (*cooperative credit society*)
 
- ou ***coopérative de crédit locale*** ou ***coopérative locale*** Coopérative de crédit, constituée sous le régime d’une loi provinciale, dont les associés sont principalement des personnes physiques et dont l’objectif principal est d’accepter leurs dépôts et de leur consentir des prêts.
+***coopérative de crédit centrale*** ou ***centrale*** Coopérative de crédit, constituée sous le régime d’une loi provinciale, dont l’un des objectifs principaux est de fournir des liquidités aux coopératives locales et, selon le cas, dont les associés sont exclusivement ou surtout des coopératives locales ou dont les administrateurs sont exclusivement ou surtout nommés ou élus par des coopératives locales. La présente définition ne vise pas les agences d’assurance-dépôts. (*central cooperative credit society*)
 
-***cour d’appel*** La juridiction compétente pour juger les appels interjetés contre les décisions et ordonnances des tribunaux.
+***coopérative de crédit fédérale*** S’entend au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md). (*federal credit union*)
 
-***délégué*** Personne physique nommée ou élue pour représenter l’associé aux assemblées des associés.
+***coopérative de crédit locale*** ou ***coopérative locale*** Coopérative de crédit, constituée sous le régime d’une loi provinciale, dont les associés sont principalement des personnes physiques et dont l’objectif principal est d’accepter leurs dépôts et de leur consentir des prêts. (*local cooperative credit society*)
 
-***détenteur*** Soit la personne visée à l’article 7, soit l’actionnaire au sens de l’article 8, soit toute personne détenant un certificat de valeur mobilière délivré au porteur ou à son nom, ou endossé à son profit, ou encore en blanc.
+***cour d’appel*** La juridiction compétente pour juger les appels interjetés contre les décisions et ordonnances des tribunaux. (*court of appeal*)
 
-***dirigeant*** Toute personne physique désignée à ce titre par règlement administratif ou résolution du conseil d’administration ou des membres d’une entité, notamment, dans le cas d’une personne morale, le premier dirigeant, le président, le vice-président, le secrétaire, le contrôleur financier ou le trésorier.
+***délégué*** Personne physique nommée ou élue pour représenter l’associé aux assemblées des associés. (*delegate*)
 
-***disposition visant les consommateurs*** S’entend d’une disposition visée aux alinéas b) ou b.1) de la définition de « disposition visant les consommateurs » à l’article 2 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md).
+***détenteur*** Soit la personne visée à l’article 7, soit l’actionnaire au sens de l’article 8, soit toute personne détenant un certificat de valeur mobilière délivré au porteur ou à son nom, ou endossé à son profit, ou encore en blanc. (*holder*)
 
-***émetteur*** L’entité qui émet ou a émis des valeurs mobilières.
+***dirigeant*** Toute personne physique désignée à ce titre par règlement administratif ou résolution du conseil d’administration ou des membres d’une entité, notamment, dans le cas d’une personne morale, le premier dirigeant, le président, le vice-président, le secrétaire, le contrôleur financier ou le trésorier. (*officer*)
 
-***entité*** Personne morale, fiducie, société de personnes, fonds, toute organisation non dotée de la personnalité morale, Sa Majesté du chef du Canada ou d’une province et ses organismes et le gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques et ses organismes.
+***disposition visant les consommateurs*** S’entend d’une disposition visée aux alinéas b) ou b.1) de la définition de « disposition visant les consommateurs » à l’article 2 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md). (*consumer provision*)
 
-***envoyer*** A également le sens de remettre.
+***émetteur*** L’entité qui émet ou a émis des valeurs mobilières. (*issuer*)
 
-***filiale*** Entité se trouvant dans la situation décrite à l’article 5.
+***entité*** Personne morale, fiducie, société de personnes, fonds, toute organisation non dotée de la personnalité morale, Sa Majesté du chef du Canada ou d’une province et ses organismes et le gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques et ses organismes. (*entity*)
 
-***fondateur*** Toute personne qui a demandé la constitution de l’association par lettres patentes.
+***envoyer*** A également le sens de remettre. (*send*)
 
-***fondé de pouvoir*** Personne nommée par procuration pour représenter l’actionnaire aux assemblées des actionnaires.
+***filiale*** Entité se trouvant dans la situation décrite à l’article 5. (*subsidiary*)
 
-***formulaire de procuration*** Formulaire manuscrit, dactylographié ou imprimé qui, une fois rempli et signé par l’actionnaire ou pour son compte, constitue une procuration.
+***fondateur*** Toute personne qui a demandé la constitution de l’association par lettres patentes. (*incorporator*)
 
-***garantie*** S’entend notamment d’une lettre de crédit.
+***fondé de pouvoir*** Personne nommée par procuration pour représenter l’actionnaire aux assemblées des actionnaires. (*proxyholder*)
 
-***groupe*** L’ensemble des entités visées à l’article 6.
+***formulaire de procuration*** Formulaire manuscrit, dactylographié ou imprimé qui, une fois rempli et signé par l’actionnaire ou pour son compte, constitue une procuration. (*form of proxy*)
 
-***immeuble résidentiel*** Bien immeuble consistant en bâtiments dont au moins la moitié de la superficie habitable sert ou doit servir à des fins privées d’habitation.
+***garantie*** S’entend notamment d’une lettre de crédit. (*guarantee*)
 
-***institution étrangère*** Toute entité qui, n’étant pas constituée — avec ou sans la personnalité morale — sous le régime d’une loi fédérale ou provinciale, se livre à des activités bancaires, fiduciaires, de prêt ou d’assurance, ou fait office de coopérative de crédit ou fait le commerce des valeurs mobilières, ou encore, de toute autre manière, a pour activité principale la prestation de services financiers.
+***groupe*** L’ensemble des entités visées à l’article 6. (*affiliate*)
 
-***institution financière*** Selon le cas :
+***immeuble résidentiel*** Bien immeuble consistant en bâtiments dont au moins la moitié de la superficie habitable sert ou doit servir à des fins privées d’habitation. (*residential property*)
+
+***institution étrangère*** Toute entité qui, n’étant pas constituée — avec ou sans la personnalité morale — sous le régime d’une loi fédérale ou provinciale, se livre à des activités bancaires, fiduciaires, de prêt ou d’assurance, ou fait office de coopérative de crédit ou fait le commerce des valeurs mobilières, ou encore, de toute autre manière, a pour activité principale la prestation de services financiers. (*foreign institution*)
+
+***institution financière*** Selon le cas :
 - **a)** une association;
 - **b)** une banque ou une banque étrangère autorisée, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md);
 - **c)** une personne morale régie par la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md);
@@ -131,86 +135,86 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 - **e)** une société de fiducie, de prêt ou d’assurance constituée en personne morale par une loi provinciale;
 - **f)** une coopérative de crédit constituée en personne morale et régie par une loi provinciale;
 - **g)** une entité constituée en personne morale ou formée sous le régime d’une loi fédérale ou provinciale et dont l’activité est principalement le commerce des valeurs mobilières, y compris la gestion de portefeuille et la fourniture de conseils en placement;
-- **h)** une institution étrangère.
+- **h)** une institution étrangère. (*financial institution*)
 
-***institution financière canadienne*** Institution financière constituée en personne morale ou formée sous le régime d’une loi fédérale ou provinciale.
+***institution financière canadienne*** Institution financière constituée en personne morale ou formée sous le régime d’une loi fédérale ou provinciale. (*Canadian financial institution*)
 
-***intérêt de groupe financier*** Intérêt déterminé conformément à l’article 12.
+***intérêt de groupe financier*** Intérêt déterminé conformément à l’article 12. (*substantial investment*)
 
-***intérêt substantiel*** Intérêt déterminé conformément à l’article 9.
+***intérêt substantiel*** Intérêt déterminé conformément à l’article 9. (*significant interest*)
 
-***lettres patentes*** Lettres patentes en la forme agréée par le surintendant et dont la présente loi autorise la délivrance.
+***lettres patentes*** Lettres patentes en la forme agréée par le surintendant et dont la présente loi autorise la délivrance. (*letters patent*)
 
-***loi antérieure*** La Loi sur les associations coopératives de crédit, chapitre C-41 des Lois révisées du Canada (1985).
+***loi antérieure*** La Loi sur les associations coopératives de crédit, chapitre C-41 des Lois révisées du Canada (1985). (*former Act*)
 
-***mineur*** S’entend au sens des règles du droit provincial applicables ou, à défaut, au sens donné au mot « enfant » dans la Convention relative aux droits de l’enfant, adoptée par l’Assemblée générale des Nations Unies le 20 novembre 1989.
+***mineur*** S’entend au sens des règles du droit provincial applicables ou, à défaut, au sens donné au mot « enfant » dans la Convention relative aux droits de l’enfant, adoptée par l’Assemblée générale des Nations Unies le 20 novembre 1989. (*minor*)
 
-***ministre*** Le ministre des Finances.
+***ministre*** Le ministre des Finances. (*Minister*)
 
-***opération*** En matière de valeurs mobilières, toute aliénation à titre onéreux.
+***opération*** En matière de valeurs mobilières, toute aliénation à titre onéreux. (*trade*)
 
-***parts sociales*** La participation à l’actif d’une association qui confère les droits prévus au paragraphe 67(2).
+***parts sociales*** La participation à l’actif d’une association qui confère les droits prévus au paragraphe 67(2). (*membership share*)
 
-***personne*** Personne physique, entité ou représentant personnel.
+***personne*** Personne physique, entité ou représentant personnel. (*person*)
 
-***personne morale*** Toute personne morale, indépendamment de son lieu ou mode de constitution.
+***personne morale*** Toute personne morale, indépendamment de son lieu ou mode de constitution. (*body corporate*)
 
-***plaignant*** En ce qui a trait à une association ou à toute question la concernant :
+***plaignant*** En ce qui a trait à une association ou à toute question la concernant :
 - **a)** soit tout associé ancien ou actuel;
 - **b)** soit le détenteur inscrit ou le véritable propriétaire, ancien ou actuel, de valeurs mobilières de l’association ou d’entités du même groupe;
 - **c)** soit tout administrateur ou dirigeant, ancien ou actuel, de l’association ou d’entités du même groupe;
-- **d)** soit toute autre personne qui, d’après le tribunal, a qualité pour présenter les demandes visées aux articles 318, 322 ou 469.
+- **d)** soit toute autre personne qui, d’après le tribunal, a qualité pour présenter les demandes visées aux articles 318, 322 ou 469. (*complainant*)
 
-***porteur*** La personne en possession d’un titre au porteur ou endossé en blanc.
+***porteur*** La personne en possession d’un titre au porteur ou endossé en blanc. (*bearer*)
 
-***procuration*** Le formulaire de procuration rempli et signé par un actionnaire par lequel il nomme un fondé de pouvoir pour le représenter aux assemblées où il est habile à voter.
+***procuration*** Le formulaire de procuration rempli et signé par un actionnaire par lequel il nomme un fondé de pouvoir pour le représenter aux assemblées où il est habile à voter. (*proxy*)
 
-***rapport annuel*** Le rapport financier annuel d’une association visé à l’alinéa 292(1)a).
+***rapport annuel*** Le rapport financier annuel d’une association visé à l’alinéa 292(1)a). (*annual statement*)
 
- ou  or ***registre central des valeurs mobilières*** ou ***registre des valeurs mobilières*** Le registre visé à l’article 245.
+***registre central des valeurs mobilières*** ou ***registre des valeurs mobilières*** Le registre visé à l’article 245. (*central securities register* or *securities register*)
 
-***registre des associés*** Le registre visé à l’article 49.
+***registre des associés*** Le registre visé à l’article 49. (*members register*)
 
-***représentant*** Toute personne agissant à ce titre, notamment le représentant personnel d’une personne décédée.
+***représentant*** Toute personne agissant à ce titre, notamment le représentant personnel d’une personne décédée. (*fiduciary*)
 
-***représentant personnel*** Personne agissant en lieu et place d’une autre, notamment un fiduciaire, un exécuteur testamentaire, un administrateur, un comité, un tuteur, un curateur, un cessionnaire, un séquestre ou un mandataire; la présente définition ne vise toutefois pas le délégué.
+***représentant personnel*** Personne agissant en lieu et place d’une autre, notamment un fiduciaire, un exécuteur testamentaire, un administrateur, un comité, un tuteur, un curateur, un cessionnaire, un séquestre ou un mandataire; la présente définition ne vise toutefois pas le délégué. (*personal representative*)
 
-***résident canadien*** Selon le cas :
+***résident canadien*** Selon le cas :
 - **a)** le citoyen canadien résidant habituellement au Canada;
 - **b)** le citoyen canadien qui ne réside pas habituellement au Canada, mais fait partie d’une catégorie de personnes prévue par règlement;
-- **c)** le résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) qui réside habituellement au Canada, à l’exclusion de celui qui y a résidé de façon habituelle pendant plus d’un an après avoir acquis pour la première fois le droit de demander la citoyenneté canadienne.
+- **c)** le résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) qui réside habituellement au Canada, à l’exclusion de celui qui y a résidé de façon habituelle pendant plus d’un an après avoir acquis pour la première fois le droit de demander la citoyenneté canadienne. (*resident Canadian*)
 
-***résolution extraordinaire*** Résolution adoptée aux deux tiers au moins des voix exprimées de toutes les personnes habiles à voter en l’occurrence.
+***résolution extraordinaire*** Résolution adoptée aux deux tiers au moins des voix exprimées de toutes les personnes habiles à voter en l’occurrence. (*special resolution*)
 
-***résolution ordinaire*** Résolution adoptée à la majorité des voix exprimées par les associés.
+***résolution ordinaire*** Résolution adoptée à la majorité des voix exprimées par les associés. (*ordinary resolution*)
 
-***ristourne*** Le montant qu’une association attribue ou verse à ses associés ou à ses clients, ou porte à leur crédit, dans le cadre des opérations qu’ils effectuent avec elle ou par son intermédiaire; vise également les primes et les allocations proportionnelles à leurs emprunts.
+***ristourne*** Le montant qu’une association attribue ou verse à ses associés ou à ses clients, ou porte à leur crédit, dans le cadre des opérations qu’ils effectuent avec elle ou par son intermédiaire; vise également les primes et les allocations proportionnelles à leurs emprunts. (*patronage allocation*)
 
-***série*** Subdivision d’une catégorie d’actions.
+***série*** Subdivision d’une catégorie d’actions. (*series*)
 
-***siège*** Le siège maintenu en application de l’article 234.
+***siège*** Le siège maintenu en application de l’article 234. (*head office*)
 
-***société mère*** S’entend au sens de l’article 4.
+***société mère*** S’entend au sens de l’article 4. (*holding body corporate*)
 
-***souscripteur à forfait*** La personne qui, pour son propre compte, accepte d’acheter des valeurs mobilières en vue d’une mise en circulation ou qui, à titre de mandataire d’une personne ou d’une personne morale, offre en vente ou vend des valeurs mobilières dans le cadre d’une mise en circulation. La présente définition vise aussi les personnes qui participent, directement ou indirectement, à une telle mise en circulation, à l’exception de celles dont les intérêts se limitent à recevoir une commission de souscription ou de vente payable par le souscripteur à forfait.
+***souscripteur à forfait*** La personne qui, pour son propre compte, accepte d’acheter des valeurs mobilières en vue d’une mise en circulation ou qui, à titre de mandataire d’une personne ou d’une personne morale, offre en vente ou vend des valeurs mobilières dans le cadre d’une mise en circulation. La présente définition vise aussi les personnes qui participent, directement ou indirectement, à une telle mise en circulation, à l’exception de celles dont les intérêts se limitent à recevoir une commission de souscription ou de vente payable par le souscripteur à forfait. (*securities underwriter*)
 
-***sûreté*** Droit ou charge — notamment hypothèque, privilège ou nantissement — grevant des biens pour garantir au créancier ou à la caution soit le paiement de dettes, soit l’exécution d’obligations.
+***sûreté*** Droit ou charge — notamment hypothèque, privilège ou nantissement — grevant des biens pour garantir au créancier ou à la caution soit le paiement de dettes, soit l’exécution d’obligations. (*security interest*)
 
-***surintendant*** Le surintendant des institutions financières nommé en application de la [Loi sur le Bureau du surintendant des institutions financières](/fr/Lois/Lois%20du%20Canada/1985/ch.%2018%20(3e%20suppl.),%20partie%20I.md).
+***surintendant*** Le surintendant des institutions financières nommé en application de la [Loi sur le Bureau du surintendant des institutions financières](/fr/Lois/Lois%20du%20Canada/1985/ch.%2018%20(3e%20suppl.),%20partie%20I.md). (*Superintendent*)
 
- ou ***titre*** ou ***valeur mobilière*** Dans le cas d’une personne morale, action de toute catégorie ou titre de créance sur cette dernière, ainsi que le bon de souscription correspondant, mais à l’exclusion des dépôts effectués auprès d’une institution financière ou des documents les attestant et des parts sociales; dans le cas de toute autre entité, les titres de participation ou titres de créance y afférents.
+***titre*** ou ***valeur mobilière*** Dans le cas d’une personne morale, action de toute catégorie ou titre de créance sur cette dernière, ainsi que le bon de souscription correspondant, mais à l’exclusion des dépôts effectués auprès d’une institution financière ou des documents les attestant et des parts sociales; dans le cas de toute autre entité, les titres de participation ou titres de créance y afférents. (*security*)
 
-***titre à ordre*** Titre de la nature précisée au paragraphe 90(3).
+***titre à ordre*** Titre de la nature précisée au paragraphe 90(3). (*order form*)
 
-***titre au porteur*** Titre de la nature précisée au paragraphe 90(2).
+***titre au porteur*** Titre de la nature précisée au paragraphe 90(2). (*bearer form*)
 
-***titre de créance*** Tout document attestant l’existence d’une créance sur une entité, avec ou sans sûreté, et notamment une obligation, une débenture ou un billet.
+***titre de créance*** Tout document attestant l’existence d’une créance sur une entité, avec ou sans sûreté, et notamment une obligation, une débenture ou un billet. (*debt obligation*)
 
-***titre nominatif*** Titre de la nature précisée au paragraphe 90(4).
+***titre nominatif*** Titre de la nature précisée au paragraphe 90(4). (*registered form*)
 
-***titre secondaire*** Titre de créance délivré par l’association et prévoyant qu’en cas d’insolvabilité ou de liquidation de celle-ci, le paiement de la créance prend rang après celui de tous les dépôts effectués auprès de l’association et celui de tous ses autres titres de créance, à l’exception de ceux dont le paiement, selon leurs propres termes, est de rang égal ou inférieur.
+***titre secondaire*** Titre de créance délivré par l’association et prévoyant qu’en cas d’insolvabilité ou de liquidation de celle-ci, le paiement de la créance prend rang après celui de tous les dépôts effectués auprès de l’association et celui de tous ses autres titres de créance, à l’exception de ceux dont le paiement, selon leurs propres termes, est de rang égal ou inférieur. (*subordinated indebtedness*)
 
-***transfert*** Tout transfert de valeurs mobilières, y compris par effet de la loi.
+***transfert*** Tout transfert de valeurs mobilières, y compris par effet de la loi. (*transfer*)
 
 ***tribunal***
 - **a)** La Cour supérieure de justice de l’Ontario;
@@ -218,12 +222,12 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 - **c)** la Cour suprême de la Nouvelle-Écosse, de la Colombie-Britannique et de l’Île-du-Prince-Édouard;
 - **d)** la Cour du Banc de la Reine du Nouveau-Brunswick, du Manitoba, de la Saskatchewan ou de l’Alberta;
 - **e)** la Section de première instance de la Cour suprême de Terre-Neuve-et-Labrador;
-- **f)** la Cour suprême du Yukon, la Cour suprême des Territoires du Nord-Ouest ou la Cour de justice du Nunavut.
+- **f)** la Cour suprême du Yukon, la Cour suprême des Territoires du Nord-Ouest ou la Cour de justice du Nunavut. (*court*)
 
-***vérificateur*** S’entend notamment d’un cabinet de comptables.
+***vérificateur*** S’entend notamment d’un cabinet de comptables. (*auditor*)
 
- et ***véritable propriétaire*** Est considéré comme tel le propriétaire de valeurs mobilières inscrites au nom d’un ou de plusieurs intermédiaires, notamment d’un fiduciaire ou d’un mandataire; ***propriété effective*** s’entend du droit du véritable propriétaire.
-> 1991, ch. 48, art. 2, 496 et 497; 1992, ch. 51, art. 31; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 24, ch. 28, art. 115; 2000, ch. 12, art. 84; 2001, ch. 9, art. 248, ch. 27, art. 234; 2002, ch. 7, art. 136(A); 2005, ch. 54, art. 140; 2007, ch. 6, art. 135; 2010, ch. 12, art. 2114; 2012, ch. 5, art. 104; 2015, ch. 3, art. 43.
+***véritable propriétaire*** Est considéré comme tel le propriétaire de valeurs mobilières inscrites au nom d’un ou de plusieurs intermédiaires, notamment d’un fiduciaire ou d’un mandataire; ***propriété effective*** s’entend du droit du véritable propriétaire. (*beneficial ownership*)
+> 1991, ch. 48, art. 2, 496 et 497; 1992, ch. 51, art. 31; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 24, ch. 28, art. 115; 2000, ch. 12, art. 84; 2001, ch. 9, art. 248, ch. 27, art. 234; 2002, ch. 7, art. 136(A); 2005, ch. 54, art. 140; 2007, ch. 6, art. 135; 2010, ch. 12, art. 2114; 2012, ch. 5, art. 104; 2014, ch. 39, art. 278; 2015, ch. 3, art. 43.
 
 
 
@@ -453,12 +457,7 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 
 
 
-
-**Renvois dans les autres lois**
-
-**13.1** N’est pas visée par la mention, dans une autre loi, d’une association régie par la Loi sur les associations coopératives de crédit la coopérative de crédit centrale ayant fait l’objet de l’ordonnance prévue au paragraphe 473(1).
-> 2001, ch. 9, art. 252.
-
+**13.1** [Abrogé, 2014, ch. 39, art. 279]
 
 
 
@@ -600,13 +599,14 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 
 **Demandeurs possibles**
 
-**24** La demande de constitution par lettres patentes ne peut être présentée que par :
+**24** La demande de constitution par lettres patentes ne peut être présentée que par :
 - **a)** soit une association;
-- **b)** soit des personnes à qui l’adhésion à l’association est réservée au titre de la partie IV et qui comportent au moins :
+- **b)** soit des personnes à qui l’adhésion à l’association est réservée au titre de la partie IV et qui comportent au moins :
 	- **(i)** ou bien deux centrales non constituées dans la même province,
 	- **(ii)** ou bien deux coopératives locales non constituées dans la même province,
-	- **(iii)** ou bien deux confédérations non constituées dans la même province.
-> 1991, ch. 48, art. 24; 2001, ch. 9, art. 256; 2007, ch. 6, art. 139.
+	- **(iii)** ou bien deux confédérations provinciales non constituées dans la même province,
+	- **(iv)** ou bien une coopérative de crédit fédérale ou une confédération fédérale.
+> 1991, ch. 48, art. 24; 2001, ch. 9, art. 256; 2007, ch. 6, art. 139; 2014, ch. 39, art. 280.
 
 
 
@@ -652,7 +652,7 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 
 **Facteurs à prendre en compte**
 
-**27** Avant de délivrer des lettres patentes, le ministre prend en compte tous les facteurs qu’il estime se rapporter à la demande, notamment :
+**27** Avant de délivrer des lettres patentes, le ministre prend en compte tous les facteurs qu’il estime se rapporter à la demande, notamment :
 - **a)** la nature et l’importance des moyens financiers du ou des demandeurs pour le soutien financier continu de l’association;
 - **b)** le sérieux et la faisabilité de leurs plans pour la conduite et l’expansion futures de l’activité de l’association;
 - **c)** leur expérience et leur dossier professionnel;
@@ -660,8 +660,9 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 - **e)** la compétence et l’expérience des personnes devant exploiter l’association, afin de déterminer si elles sont aptes à participer à l’exploitation d’une institution financière et à exploiter l’association de manière responsable;
 - **f)** les conséquences de toute intégration des activités et des entreprises du ou des demandeurs et de celles de l’association sur la conduite de ces activités et entreprises;
 - **g)** le respect, dans l’exploitation de l’association, du principe coopératif;
+- **g.1)** la prédominance d’associations, de coopératives de crédit fédérales ou de confédérations fédérales, ou de toute combinaison de celles-ci, parmi les associés;
 - **h)** l’intérêt du système financier canadien et notamment celui du système coopératif canadien.
-> 1991, ch. 48, art. 27; 2001, ch. 9, art. 257.
+> 1991, ch. 48, art. 27; 2001, ch. 9, art. 257; 2014, ch. 39, art. 281.
 
 
 
@@ -940,12 +941,12 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 
 **Dénomination**
 
-**36** La dénomination sociale d’une association doit comporter :
-- **a)** soit les termes « coopérative » ou « *cooperative* » et tout autre terme exprimant la nature financière de son activité;
-- **b)** soit les termes « fédération de caisses populaires », « *central credit union* » ou « *credit union central* »;
+**36** La dénomination sociale d’une association, autre que l’association antérieure, doit comporter :
+- **a)** soit les termes « coopérative fédérale » ou « *federal cooperative* » et tout autre terme exprimant la nature financière de son activité;
+- **b)** soit les termes « fédération de caisses populaires fédérale », « *federal central credit union* » ou « *federal credit union central* »;
 - **c)** soit toute combinaison de ces termes ou de dérivés de ceux-ci;
 - **d)** soit les termes spécifiés par le ministre.
-> 1991, ch. 48, art. 36; 2001, ch. 9, art. 260; 2007, ch. 6, art. 143.
+> 1991, ch. 48, art. 36; 2001, ch. 9, art. 260; 2007, ch. 6, art. 143; 2014, ch. 39, art. 282.
 
 
 
@@ -1018,7 +1019,7 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 
 **41** 
 
-- **(1)** L’adhésion à une association est réservée aux autres associations, aux coopératives centrales, aux coopératives locales et aux autres coopératives, aux confédérations ainsi qu’aux agences d’assurance-dépôts et aux organisations non dotées de la personnalité morale regroupant exclusivement de telles entités.
+- **(1)** L’adhésion à une association est réservée aux autres associations, aux centrales, aux coopératives de crédit fédérales ou locales, aux autres coopératives, aux confédérations fédérales ou provinciales et aux organisations non dotées de la personnalité morale regroupant exclusivement de telles entités.
 
 **Condition préalable**
 
@@ -1031,7 +1032,7 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 **Incessibilité**
 
 - **(5)** Le droit d’adhésion est en tout état de cause incessible.
-> 1991, ch. 48, art. 41; 1994, ch. 47, art. 50; 2001, ch. 9, art. 263 et 264.
+> 1991, ch. 48, art. 41; 1994, ch. 47, art. 50; 2001, ch. 9, art. 263 et 264; 2014, ch. 39, art. 283.
 
 
 
@@ -1147,16 +1148,21 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 
 **50** 
 
-- **(1)** L’effectif de l’association doit comporter :
+- **(1)** L’effectif de l’association de détail ou de l’association antérieure comporte :
 	- **a)** soit au moins une association;
 	- **b)** soit au moins deux centrales non constituées dans la même province;
 	- **c)** soit au moins deux coopératives locales non constituées dans la même province;
-	- **d)** soit au moins deux confédérations non constituées dans la même province.
+	- **d)** soit au moins deux confédérations provinciales non constituées dans la même province;
+	- **e)** soit au moins une coopérative de crédit fédérale ou une confédération fédérale.
 
-**Cas où l’effectif n’est pas conforme**
+**Prédominance d’associés fédéraux**
 
-- **(2)** Si son effectif n’est pas conforme au paragraphe (1), l’association prend sans délai les mesures nécessaires en vue soit de demander un certificat de prorogation dans le cadre du paragraphe 32(1), soit de procéder à sa dissolution ou liquidation sous le régime de la partie VII.
-> 1991, ch. 48, art. 50; 1998, ch. 1, art. 384; 2001, ch. 9, art. 265; 2007, ch. 6, art. 144.
+- **(1.1)** S’agissant d’une association qui n’est ni une association de détail ni l’association antérieure, il doit y avoir prédominance d’associations — autres que des associations de détail —, de coopératives de crédit fédérales ou de confédérations fédérales, ou de toute combinaison de celles-ci, parmi ses associés.
+
+**Non-conformité**
+
+- **(2)** Si elle ne se conforme pas aux paragraphes (1) ou (1.1), selon le cas, l’association prend sans délai les mesures nécessaires en vue soit de demander un certificat de prorogation dans le cadre du paragraphe 32(1), soit de procéder à sa dissolution ou liquidation sous le régime de la partie VII.
+> 1991, ch. 48, art. 50; 1998, ch. 1, art. 384; 2001, ch. 9, art. 265; 2007, ch. 6, art. 144; 2014, ch. 39, art. 284.
 
 
 
@@ -4721,7 +4727,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **233.1** 
 
-- **(1)** L’association peut vendre la totalité ou quasi-totalité de ses éléments d’actif à une institution financière constituée en personne morale sous le régime d’une loi fédérale, à une coopérative de crédit centrale ayant fait l’objet de l’ordonnance prévue au paragraphe 473(1), à une société de portefeuille bancaire ou à une banque étrangère autorisée dans le cadre des activités que celle-ci exerce au Canada à condition que l’institution, la coopérative de crédit, la société de portefeuille bancaire ou la banque acheteuse assume la totalité ou quasi-totalité des dettes de l’association.
+- **(1)** L’association peut vendre la totalité ou quasi-totalité de ses éléments d’actif à une institution financière constituée en personne morale sous le régime d’une loi fédérale, à une société de portefeuille bancaire ou à une banque étrangère autorisée dans le cadre des activités que celle-ci exerce au Canada, à condition que l’institution, la société de portefeuille bancaire ou la banque acheteuse assume la totalité ou quasi-totalité des dettes de l’association.
 
 **Convention de vente**
 
@@ -4729,12 +4735,12 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Contrepartie**
 
-- **(3)** Malgré les autres dispositions de la présente loi, la contrepartie de la vente des éléments d’actif peut être versée en numéraire ou en titres entièrement libérés de l’institution financière, de la coopérative de crédit centrale ayant fait l’objet de l’ordonnance prévue au paragraphe 473(1), de la société de portefeuille bancaire ou de la banque étrangère autorisée acheteuse, ou à la fois en numéraire et en de tels titres ou encore de toute autre manière prévue dans la convention de vente.
+- **(3)** Malgré les autres dispositions de la présente loi, la contrepartie de la vente des éléments d’actif peut être versée en numéraire ou en titres entièrement libérés de l’institution financière, de la société de portefeuille bancaire ou de la banque étrangère autorisée acheteuse, ou à la fois en numéraire et en de tels titres ou encore de toute autre manière prévue dans la convention de vente.
 
 **Définitions**
 
 - **(4)** Au présent article, « banque étrangère autorisée » et « société de portefeuille bancaire » s’entendent au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md).
-> 2001, ch. 9, art. 289.
+> 2001, ch. 9, art. 289; 2014, ch. 39, art. 285.
 
 
 
@@ -7017,8 +7023,8 @@ Le cas échéant, tout associé ou actionnaire peut demander au tribunal d’imp
 
 **375** 
 
-- **(1)** Sous réserve des autres dispositions de la présente loi, l’activité commerciale de l’association doit se rattacher à la prestation :
-	- **a)** de services financiers à :
+- **(1)** Sous réserve des autres dispositions de la présente loi, l’activité commerciale de l’association doit se rattacher à la prestation :
+	- **a)** de services financiers à :
 		- **(i)** un membre de l’association,
 		- **(ii)** une entité dans laquelle une association a un intérêt de groupe financier en vertu de l’article 390,
 		- **(ii.1)** une autre association,
@@ -7031,10 +7037,10 @@ Le cas échéant, tout associé ou actionnaire peut demander au tribunal d’imp
 
 - **(2)** Il est entendu que l’association peut agir à titre d’agent financier pour les personnes mentionnées à l’alinéa (1)a) et leur fournir des services de conseil en placement et de gestion de portefeuille.
 
-**Restriction : dépôts**
+**Restriction : dépôts**
 
-- **(3)** Sous réserve de toute ordonnance que peut prendre le surintendant en vertu des articles 61 ou 62, l’association ne peut recevoir des sommes en dépôt de coopératives locales ou d’autres coopératives qui ne sont pas de ses associés.
-> 1991, ch. 48, art. 375; 1997, ch. 15, art. 137; 2001, ch. 9, art. 306.
+- **(3)** Sous réserve de toute ordonnance que peut prendre le surintendant en vertu des articles 61 ou 62, l’association ne peut recevoir des sommes en dépôt de coopératives de crédit fédérales ou locales ou d’autres coopératives qui ne sont pas de ses associés.
+> 1991, ch. 48, art. 375; 1997, ch. 15, art. 137; 2001, ch. 9, art. 306; 2014, ch. 39, art. 286.
 
 
 
@@ -7235,7 +7241,7 @@ où :
 
 
 
-**Restriction : garanties**
+**Restriction : garanties**
 
 **379** 
 
@@ -7245,14 +7251,21 @@ où :
 
 - **(2)** Dans les cas où la personne visée au paragraphe (1) est une filiale de l’association garante, celle-ci peut garantir une somme qui n’est pas fixe.
 
-**Exception**
-
-- **(3)** L’obligation du paragraphe (1) relativement à la somme d’argent ne s’applique pas si la garantie est fournie au nom d’une centrale assujettie par ordonnance en application du paragraphe 473(1) ou d’une coopérative locale et si le paiement en cause représente l’obligation de cette centrale ou coopérative locale d’effectuer un remboursement conformément aux règlements et règles de l’Association canadienne des paiements.
+- **(3)** [Abrogé, 2014, ch. 39, art. 287]
 
 **Règlements**
 
 - **(4)** Le gouverneur en conseil peut, par règlement, imposer des conditions à l’égard des garanties autorisées au titre du paragraphe (1).
-> 1991, ch. 48, art. 379; 1997, ch. 15, art. 139; 2001, ch. 9, art. 310.
+> 1991, ch. 48, art. 379; 1997, ch. 15, art. 139; 2001, ch. 9, art. 310; 2014, ch. 39, art. 287.
+
+
+
+
+
+**Restriction — fourniture de liquidités**
+
+**379.1** Il est interdit à l’association de fournir aux coopératives de crédit centrales ou aux coopératives de crédit locales les formes de liquidités prévues par règlement, sauf en conformité avec les modalités réglementaires.
+> 2014, ch. 39, art. 288.
 
 
 
@@ -9306,7 +9319,7 @@ si l’opération avait pour effet de porter à plus de cinquante pour cent de s
 
 
 **PARTIE XIII** 
-## Réglementation des associations : surintendant
+## Réglementation des associations : surintendant
 
 
 
@@ -9696,13 +9709,13 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **442** 
 
-- **(1)** Sous réserve des autres dispositions de la présente loi, le surintendant peut, dans les circonstances visées au paragraphe (1.1) :
+- **(1)** Sous réserve des autres dispositions de la présente loi, le surintendant peut, dans les circonstances visées au paragraphe (1.1) :
 	- **a)** prendre le contrôle pendant au plus seize jours de l’actif d’une association et des autres éléments d’actif qu’elle administre;
 	- **b)** sauf avis contraire du ministre fondé sur l’intérêt public, en prendre le contrôle pour plus de seize jours, continuer d’en assumer le contrôle au-delà de ce terme ou prendre le contrôle de l’association.
 
 **Circonstances permettant la prise de contrôle**
 
-- **(1.1)** Le surintendant peut prendre le contrôle visé au paragraphe (1) à l’égard de l’association :
+- **(1.1)** Le surintendant peut prendre le contrôle visé au paragraphe (1) à l’égard de l’association :
 	- **a)** qui a omis de payer une dette exigible ou qui, à son avis, ne pourra payer ses dettes au fur et à mesure qu’elles deviendront exigibles;
 	- **b)** [Abrogé, 2001, ch. 9, art. 335]
 	- **c)** qui n’a pas un actif suffisant, à son avis, pour assurer une protection adéquate à ses déposants et ses créanciers;
@@ -9714,7 +9727,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Avis**
 
-- **(1.2)** Le surintendant avise l’association avant de prendre la mesure visée à l’alinéa (1)b) et lui fait part de son droit de faire valoir ses observations par écrit dans le délai qu’il fixe ou, au plus tard, dix jours après réception de l’avis. Il avise de même le ministre provincial responsable lorsque la mesure visée au paragraphe (1) est destinée à une centrale, au sens de la partie XVI, constituée en vertu des lois de cette province.
+- **(1.2)** Le surintendant avise l’association avant de prendre la mesure visée à l’alinéa (1)b) et lui fait part de son droit de faire valoir ses observations par écrit dans le délai qu’il fixe ou, au plus tard, dix jours après réception de l’avis.
 
 **Objectifs du surintendant**
 
@@ -9722,10 +9735,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Pouvoirs du surintendant**
 
-- **(3)** Lorsque le surintendant a le contrôle de l’actif de l’association visé au paragraphe (1) :
+- **(3)** Lorsque le surintendant a le contrôle de l’actif de l’association visé au paragraphe (1) :
 	- **a)** celle-ci ne peut consentir, acquérir ou céder de prêt, ni faire d’achat, de vente ou d’échange de parts sociales ou valeurs mobilières, ni procéder à des sorties ou virements de fonds de quelque sorte que ce soit, sans l’approbation préalable du surintendant ou de son délégué;
 	- **b)** aucun administrateur, dirigeant ou employé de l’association n’a accès à l’encaisse ou aux valeurs mobilières détenues par l’association ou dont elle a l’administration, à moins d’être accompagné d’un délégué du surintendant, ou d’y avoir été préalablement autorisé par le surintendant ou son délégué.
-> 1991, ch. 48, art. 442; 1996, ch. 6, art. 60; 2001, ch. 9, art. 335.
+> 1991, ch. 48, art. 442; 1996, ch. 6, art. 60; 2001, ch. 9, art. 335; 2014, ch. 39, art. 289.
 
 
 
@@ -9824,7 +9837,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 **PARTIE XIII.1** 
-## Réglementation des associations de détail : commissaire
+## Réglementation des associations de détail : commissaire
 
 
 
@@ -10359,10 +10372,11 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **463** 
 
-- **(1)** Le gouverneur en conseil peut, par règlement :
+- **(1)** Le gouverneur en conseil peut, par règlement :
 	- **a)** prendre toute mesure d’ordre réglementaire prévue par la présente loi;
 	- **a.1)** préciser la façon de déterminer ce qui peut ou doit l’objet d’une mesure réglementaire;
 	- **b)** définir certains termes pour l’application de la présente loi;
+	- **b.1)** préciser ce que constitue la prédominance pour l’application de l’alinéa 27g.1) et du paragraphe 50(1.1);
 	- **c)** exiger le paiement de droits pour le dépôt, l’examen ou la délivrance de documents, ou pour les mesures que peut ou doit prendre le surintendant aux termes de la présente loi, et en fixer soit le montant, soit les modalités de sa détermination;
 	- **d)** régir le capital réglementaire et l’actif total de l’association;
 	- **e)** régir la rétention, au Canada, de l’actif de l’association;
@@ -10380,8 +10394,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Nature du document incorporé**
 
-- **(3)** L’incorporation par renvoi d’un document dans un règlement ne lui confère pas, pour l’application de la  [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md), valeur de règlement.
-> 1991, ch. 48, art. 463; 1997, ch. 15, art. 160; 1999, ch. 31, art. 58(F); 2001, ch. 9, art. 339; 2005, ch. 54, art. 208.
+- **(3)** L’incorporation par renvoi d’un document dans un règlement ne lui confère pas, pour l’application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md), valeur de règlement.
+> 1991, ch. 48, art. 463; 1997, ch. 15, art. 160; 1999, ch. 31, art. 58(F); 2001, ch. 9, art. 339; 2005, ch. 54, art. 208; 2014, ch. 39, art. 290.
 
 
 
@@ -10524,126 +10538,42 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 **PARTIE XVI** 
-## Coopératives de crédit centrales
+## [Abrogée, 2014, ch. 39, art. 291]
 
 
+**472** [Abrogé, 2014, ch. 39, art. 291]
 
-**Définition de central**
 
-**472** Est édictée, dans la version anglaise, la disposition suivante : « *central* means a central cooperative credit society for which an order has been made under subsection 473(1) ».
-> 1991, ch. 48, art. 472; 1993, ch. 34, art. 56(F).
 
+**473** [Abrogé, 2014, ch. 39, art. 291]
 
 
 
+**474** [Abrogé, 2014, ch. 39, art. 291]
 
-**Ordonnance d’assujettissement**
 
-**473** 
 
-- **(1)** Par ordonnance, le surintendant peut, sur demande, assujettir une centrale à la présente partie.
+**475** [Abrogé, 2014, ch. 39, art. 291]
 
-**Contenu de la demande**
 
-- **(2)** Le dossier de la demande comprend :
-	- **a)** la preuve, dont le surintendant apprécie la valeur, que le demandeur est une coopérative de crédit et qu’il est un associé ou, sinon, qu’il a demandé d’adhérer à une association et y sera accepté;
-	- **b)** copie de la résolution extraordinaire autorisant la demande;
-	- **c)** tout autre renseignement, document ou justificatif que le surintendant peut exiger.
 
+**476** [Abrogé, 2014, ch. 39, art. 291]
 
 
 
-**Portée de l’ordonnance**
+**477** [Abrogé, 2014, ch. 39, art. 291]
 
-**474** 
 
-- **(1)** Sous réserve des paragraphes (3) et (4), l’ordonnance a pour effet d’assimiler la centrale à une association pour l’application des paragraphes 16(1), (3) et (4), des alinéas 167(2)a) et b), des articles 199, 200 et 291 à 317, à l’exception du paragraphe 291(2), des parties IX à XV, à l’exception du paragraphe 375(3), de l’article 375.1 et de l’alinéa 442(1.1)g), et des parties XVII et XVII.1. À ces fins et avec les adaptations nécessaires, elle lui confère les attributions mentionnées dans ces dispositions, tout en l’y assujettissant.
 
-**Précision**
+**478** [Abrogé, 2014, ch. 39, art. 291]
 
-- **(2)** La présente loi n’a pas pour effet d’interdire à une centrale d’exercer les attributions que lui confère la législation provinciale du lieu où elle est constituée autres que celles expressément interdites par les articles 379 ou 383 à 385 ou par la partie X.
 
-**Dérogation**
 
-- **(3)** La centrale ne peut toutefois exercer les attributions exclues par la législation provinciale du lieu où elle est constituée; le cas échéant, elle peut les exercer, mais uniquement dans les limites prescrites par cette législation.
+**479** [Abrogé, 2014, ch. 39, art. 291]
 
-**Exception**
 
-- **(4)** Les paragraphes 16(1), (3) et (4) et la partie IX, à l’exception des articles 379 et 383 à 385, ne s’appliquent pas à la centrale si les lois de la province où elle est constituée ne lui confèrent pas les attributions prévues par la présente loi.
 
-**Exception**
-
-- **(5)** L’alinéa 390(4)a) ne s’applique pas à l’acquisition ou à l’augmentation par une centrale d’un intérêt de groupe financier dans une association visée à l’article 14.
-> 1991, ch. 48, art. 474; 1997, ch. 15, art. 163; 2001, ch. 9, art. 342; 2005, ch. 54, art. 211.
-
-
-
-
-
-**Pouvoirs supplémentaires**
-
-**475** 
-
-- **(1)** Pour l’application de la partie X, la centrale peut consentir un prêt à toute coopérative de crédit ou autre coopérative qui est un de ses associés, y effectuer des dépôts, procéder à des placements dans leurs titres de créance ou acquérir de leurs parts sociales, ces opérations étant réputées ne pas constituer un prêt commercial.
-
-**Sûreté**
-
-- **(2)** Par dérogation à l’article 383, la centrale peut grever ses biens pour garantir l’exécution de ses obligations envers l’association dont elle est un associé, une agence d’assurance-dépôts ou le gouvernement de la province où elle est constituée, si l’agence ou le gouvernement sont agréés par le ministre.
-
-**Garanties**
-
-- **(3)** L’exigence du paiement d’une somme fixe avec ou sans intérêts prévue par le paragraphe 379(1) ne s’applique pas à la centrale si la garantie est donnée pour le compte d’un de ses associés ou d’une autre centrale et si le paiement en cause représente l’obligation de l’associé ou de l’autre centrale d’effectuer un remboursement conformément aux règlements et règles de l’Association canadienne des paiements.
-
-
-
-
-**Conditions**
-
-**476** 
-
-- **(1)** Le surintendant peut assortir l’ordonnance des conditions qu’il estime indiquées.
-
-**Modifications**
-
-- **(2)** Le surintendant peut à tout moment, toujours par ordonnance, modifier l’ordonnance en l’assortissant des conditions ou restrictions compatibles avec la présente loi qu’il estime nécessaires en ce qui a trait à l’activité commerciale de la centrale ou en modifiant ou annulant toute condition ou restriction y figurant. Il doit cependant auparavant donner à la centrale la possibilité de lui présenter ses observations à cet égard.
-
-
-
-
-**Publicité**
-
-**477** La centrale fait, dans les meilleurs délais, publier un avis de l’ordonnance d’assujettissement dans un journal à grand tirage au lieu de son siège ou près de celui-ci et le surintendant fait publier un avis de l’ordonnance dans la Gazette du Canada.
-
-
-
-
-**Révocation**
-
-**478** 
-
-- **(1)** Le surintendant peut, toujours par ordonnance, révoquer l’ordonnance d’assujettissement si la centrale soit cesse d’être l’associé d’une association soit lui en fait la demande.
-
-**Conditions**
-
-- **(2)** Dans le premier cas, il ne peut procéder à la révocation que s’il est convaincu que les autorités compétentes de la province où la centrale est constituée en ont été avisées par celle-ci et qu’elle applique des normes commerciales et financières acceptables.
-
-**Idem**
-
-- **(3)** Dans le second cas, le surintendant ne peut donner suite à la demande de la centrale que s’il est convaincu qu’elle a avisé ces mêmes autorités de son intention, a fait publier dans la Gazette du Canada un préavis d’au moins trente jours de cette intention et, en outre, applique des normes commerciales et financières acceptables.
-
-
-
-
-**Portée de la révocation**
-
-**479** Les articles 474 et 475 cessent de s’appliquer à la centrale à la date mentionnée dans l’ordonnance de révocation.
-
-
-
-
-**Disposition transitoire**
-
-**480** Pour l’application de la présente loi, la centrale assujettie à l’application de l’article 92 de la loi antérieure à l’entrée en vigueur du présent article est assimilée à la centrale assujettie par ordonnance en application du paragraphe 473(1).
+**480** [Abrogé, 2014, ch. 39, art. 291]
 
 
 
