@@ -31,29 +31,29 @@
 
 **3** In this Part,
 
-***bank holding company*** means a bank holding company as defined in section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md);
+***bank holding company*** means a bank holding company as defined in section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md); (*société de portefeuille bancaire*)
 
-***Deputy Superintendent*** means a Deputy Superintendent of Financial Institutions appointed pursuant to section 8;
+***Deputy Superintendent*** means a Deputy Superintendent of Financial Institutions appointed pursuant to section 8; (*surintendant adjoint*)
 
-***financial institution*** means
+***financial institution*** means
 - **(a)** a bank within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md),
 - **(a.1)** an authorized foreign bank within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md),
 - **(b)** a company to which the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md) applies,
-- **(c)** an association to which the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) applies or a central cooperative credit society for which an order has been made under subsection 473(1) of that Act,
+- **(c)** an association to which the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) applies,
 - **(d)** a company, society, foreign company or provincial company to which the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md) applies, and
-- **(e)** Green Shield Canada;
-- **(f)** [Repealed, 1996, c. 6, s. 104]
+- **(e)** Green Shield Canada; (*institution financière*)
+- **(f)** [Repealed, 1996, c. 6, s. 104] 
 
-***insurance holding company*** means an insurance holding company as defined in subsection 2(1) of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md);
+***insurance holding company*** means an insurance holding company as defined in subsection 2(1) of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md); (*société de portefeuille d’assurances*)
 
-***Minister*** means the Minister of Finance;
+***Minister*** means the Minister of Finance; (*ministre*)
 
-***Office*** means the Office of the Superintendent of Financial Institutions established pursuant to section 4;
+***Office*** means the Office of the Superintendent of Financial Institutions established pursuant to section 4; (*Bureau*)
 
-***pension plan*** has the same meaning as in subsection 2(1) of the [Pension Benefits Standards Act, 1985](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(2nd%20Supp.).md) or has the meaning assigned by the definition ***pooled registered pension plan*** in subsection 2(1) of the [Pooled Registered Pension Plans Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2016.md), as the case may be;
+***pension plan*** has the same meaning as in subsection 2(1) of the [Pension Benefits Standards Act, 1985](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(2nd%20Supp.).md) or has the meaning assigned by the definition pooled registered pension plan in subsection 2(1) of the [Pooled Registered Pension Plans Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2016.md), as the case may be; (*régime de pension*)
 
-***Superintendent*** means the Superintendent of Financial Institutions appointed pursuant to subsection 5(1).
-> R.S., 1985, c. 18 (3rd Supp.), s. 3; 1991, c. 45, s. 557, c. 47, s. 742; 1992, c. 1, s. 142, c. 56, s. 18; 1996, c. 6, s. 104; 1998, c. 12, s. 27; 1999, c. 28, s. 127; 2001, c. 9, s. 466; 2012, c. 16, s. 90.
+***Superintendent*** means the Superintendent of Financial Institutions appointed pursuant to subsection 5(1). (*surintendant*)
+> R.S., 1985, c. 18 (3rd Supp.), s. 3; 1991, c. 45, s. 557, c. 47, s. 742; 1992, c. 1, s. 142, c. 56, s. 18; 1996, c. 6, s. 104; 1998, c. 12, s. 27; 1999, c. 28, s. 127; 2001, c. 9, s. 466; 2012, c. 16, s. 90; 2014, c. 39, s. 300.
 
 
 
