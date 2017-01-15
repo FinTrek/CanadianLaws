@@ -44,228 +44,228 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***acte constitutif*** Loi spéciale, lettres patentes, acte de prorogation ou tout autre acte — avec ses modifications ou mises à jour éventuelles — constituant ou prorogeant une personne morale.
+***acte constitutif*** Loi spéciale, lettres patentes, acte de prorogation ou tout autre acte — avec ses modifications ou mises à jour éventuelles — constituant ou prorogeant une personne morale. (*incorporating instrument*)
 
-***actif au Canada*** Les éléments d’actif placés en fiducie pour une société étrangère sous le régime de la partie XIII.
+***actif au Canada*** Les éléments d’actif placés en fiducie pour une société étrangère sous le régime de la partie XIII. (*assets in Canada*)
 
-***actif total*** S’entend au sens des règlements, en ce qui touche la société, la société de secours, la société provinciale ou la société de portefeuille d’assurances.
+***actif total*** S’entend au sens des règlements, en ce qui touche la société, la société de secours, la société provinciale ou la société de portefeuille d’assurances. (*total assets*)
 
-***action avec droit de vote*** Action d’une personne morale comportant — quelle qu’en soit la catégorie — un droit de vote en tout état de cause ou en raison soit de la survenance d’un fait qui demeure, soit de la réalisation d’une condition.
+***action avec droit de vote*** Action d’une personne morale comportant — quelle qu’en soit la catégorie — un droit de vote en tout état de cause ou en raison soit de la survenance d’un fait qui demeure, soit de la réalisation d’une condition. (*voting share*)
 
-***actuaire****Fellow* de l’Institut canadien des actuaires.
+***actuaire****Fellow* de l’Institut canadien des actuaires. (*actuary*)
 
-,  ou ,  or ***administrateur*** Indépendamment de son titre, la personne physique qui fait fonction d’administrateur d’une personne morale; ***conseil d’administration*** ou ***conseil*** s’entend de l’ensemble des administrateurs d’une personne morale et, dans le cas d’une société de secours, de son conseil supérieur de direction.
+***administrateur*** Indépendamment de son titre, la personne physique qui fait fonction d’administrateur d’une personne morale; ***conseil d’administration*** ou ***conseil*** s’entend de l’ensemble des administrateurs d’une personne morale et, dans le cas d’une société de secours, de son conseil supérieur de direction. (*director*, *board of directors* or *directors*)
 
 ***adresse enregistrée***
 - **a)** Dans le cas d’un actionnaire d’une société ou d’une société de portefeuille d’assurances, dernière adresse postale selon le registre central des valeurs mobilières de la société ou de la société de portefeuille d’assurances;
-- **b)** dans le cas de toute autre personne, dernière adresse postale selon les livres de la société ou de la société de portefeuille d’assurances.
+- **b)** dans le cas de toute autre personne, dernière adresse postale selon les livres de la société ou de la société de portefeuille d’assurances. (*recorded address*)
 
-***affaires internes*** Les relations entre une société, les entités de son groupe et leurs actionnaires, souscripteurs, administrateurs et dirigeants, à l’exclusion de leur activité commerciale.
+***affaires internes*** Les relations entre une société, les entités de son groupe et leurs actionnaires, souscripteurs, administrateurs et dirigeants, à l’exclusion de leur activité commerciale. (*affairs*)
 
-***Agence*** L’Agence de la consommation en matière financière du Canada constituée en application de l’article 3 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md).
+***Agence*** L’Agence de la consommation en matière financière du Canada constituée en application de l’article 3 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md). (*Agency*)
 
-***biens immeubles*** Sont assimilés aux biens immeubles les droits découlant des baux immobiliers.
+***biens immeubles*** Sont assimilés aux biens immeubles les droits découlant des baux immobiliers. (*real property*)
 
-***branche*** Branche ou catégorie d’assurance établie en application de l’article 12.
+***branche*** Branche ou catégorie d’assurance établie en application de l’article 12. (*class*)
 
-***capital réglementaire*** Dans le cas d’une société, société de secours, société provinciale ou société de portefeuille d’assurances, s’entend au sens des règlements.
+***capital réglementaire*** Dans le cas d’une société, société de secours, société provinciale ou société de portefeuille d’assurances, s’entend au sens des règlements. (*regulatory capital*)
 
-***capitaux propres*** En ce qui concerne une société ou une société de portefeuille d’assurances, leurs capitaux propres déterminés de la façon prévue par règlement.
+***capitaux propres*** En ce qui concerne une société ou une société de portefeuille d’assurances, leurs capitaux propres déterminés de la façon prévue par règlement. (*equity*)
 
-***commissaire*** Le commissaire de l’Agence nommé en application de l’article 4 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md).
+***commissaire*** Le commissaire de l’Agence nommé en application de l’article 4 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md). (*Commissioner*)
 
-***conjoint de fait*** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an.
+***conjoint de fait*** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an. (*common-law partner*)
 
-***constitué en personne morale*** Sont assimilées aux personnes morales constituées sous le régime d’une loi fédérale ou provinciale les personnes morales prorogées sous le même régime.
+***constitué en personne morale*** Sont assimilées aux personnes morales constituées sous le régime d’une loi fédérale ou provinciale les personnes morales prorogées sous le même régime. (*incorporated*)
 
-***coopérative de crédit fédérale*** S’entend au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md).
+***coopérative de crédit fédérale*** S’entend au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md). (*federal credit union*)
 
-***cour d’appel*** La juridiction compétente pour juger les appels interjetés contre les décisions et ordonnances des tribunaux.
+***cour d’appel*** La juridiction compétente pour juger les appels interjetés contre les décisions et ordonnances des tribunaux. (*court of appeal*)
 
-***détenteur*** Soit l’actionnaire au sens de l’article 7, soit toute personne détenant un certificat de valeur mobilière délivré au porteur ou à son nom, ou endossé à son profit, ou encore en blanc.
+***détenteur*** Soit l’actionnaire au sens de l’article 7, soit toute personne détenant un certificat de valeur mobilière délivré au porteur ou à son nom, ou endossé à son profit, ou encore en blanc. (*holder*)
 
-***dirigeant*** Toute personne physique désignée à ce titre par règlement administratif ou résolution du conseil d’administration ou des membres d’une entité, notamment, dans le cas d’une personne morale, le premier dirigeant, le président, le vice-président, le secrétaire, le contrôleur financier ou le trésorier.
+***dirigeant*** Toute personne physique désignée à ce titre par règlement administratif ou résolution du conseil d’administration ou des membres d’une entité, notamment, dans le cas d’une personne morale, le premier dirigeant, le président, le vice-président, le secrétaire, le contrôleur financier ou le trésorier. (*officer*)
 
-***disposition visant les consommateurs*** S’entend d’une disposition visée aux alinéas c) ou c.1) de la définition de ***disposition visant les consommateurs*** à l’article 2 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md).
+***disposition visant les consommateurs*** S’entend d’une disposition visée aux alinéas c) ou c.1) de la définition de disposition visant les consommateurs à l’article 2 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md). (*consumer provision*)
 
-***émetteur*** L’entité qui émet ou a émis des valeurs mobilières.
+***émetteur*** L’entité qui émet ou a émis des valeurs mobilières. (*issuer*)
 
-***entité*** Personne morale, fiducie, société de personnes, fonds, toute organisation ou association non dotée de la personnalité morale, Sa Majesté du chef du Canada ou d’une province et ses organismes et le gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques et ses organismes.
+***entité*** Personne morale, fiducie, société de personnes, fonds, toute organisation ou association non dotée de la personnalité morale, Sa Majesté du chef du Canada ou d’une province et ses organismes et le gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques et ses organismes. (*entity*)
 
-***envoyer*** A également le sens de remettre.
+***envoyer*** A également le sens de remettre. (*send*)
 
-***état annuel*** L’état établi conformément aux paragraphes 665(1) ou (2).
+***état annuel*** L’état établi conformément aux paragraphes 665(1) ou (2). (*annual return*)
 
-***exercice*** L’année civile en ce qui concerne la société étrangère.
+***exercice*** L’année civile en ce qui concerne la société étrangère. (*financial year*)
 
-***filiale*** Entité se trouvant dans la situation décrite à l’article 5.
+***filiale*** Entité se trouvant dans la situation décrite à l’article 5. (*subsidiary*)
 
-***fondateur*** Toute personne qui a demandé la constitution de la société ou de la société de portefeuille d’assurances, selon le cas, par lettres patentes.
+***fondateur*** Toute personne qui a demandé la constitution de la société ou de la société de portefeuille d’assurances, selon le cas, par lettres patentes. (*incorporator*)
 
-***fondé de pouvoir*** Personne nommée par procuration pour représenter l’actionnaire ou le souscripteur, ou dans le cas d’une société de secours, le membre aux assemblées des actionnaires, des souscripteurs ou des membres.
+***fondé de pouvoir*** Personne nommée par procuration pour représenter l’actionnaire ou le souscripteur, ou dans le cas d’une société de secours, le membre aux assemblées des actionnaires, des souscripteurs ou des membres. (*proxyholder*)
 
-***formulaire de procuration*** Formulaire manuscrit, dactylographié ou imprimé qui, une fois rempli et signé par soit l’actionnaire ou le souscripteur, soit, dans le cas d’une société de secours, le membre, ou pour son compte, constitue une procuration.
+***formulaire de procuration*** Formulaire manuscrit, dactylographié ou imprimé qui, une fois rempli et signé par soit l’actionnaire ou le souscripteur, soit, dans le cas d’une société de secours, le membre, ou pour son compte, constitue une procuration. (*form of proxy*)
 
-***garantie*** S’entend notamment d’une lettre de crédit.
+***garantie*** S’entend notamment d’une lettre de crédit. (*guarantee*)
 
-***groupe*** L’ensemble des entités visées à l’article 6.
+***groupe*** L’ensemble des entités visées à l’article 6. (*affiliate*)
 
-***immeuble résidentiel*** Bien immeuble consistant en bâtiments dont au moins la moitié de la superficie habitable sert ou doit servir à des fins privées d’habitation.
+***immeuble résidentiel*** Bien immeuble consistant en bâtiments dont au moins la moitié de la superficie habitable sert ou doit servir à des fins privées d’habitation. (*residential property*)
 
-***institution étrangère*** Toute entité qui, n’étant pas constituée — avec ou sans la personnalité morale — sous le régime d’une loi fédérale ou provinciale, se livre à des activités bancaires, fiduciaires, de prêt ou d’assurances, ou fait office de société coopérative de crédit ou fait le commerce des valeurs mobilières, ou encore, de toute autre manière, a pour activité principale la prestation de services financiers.
+***institution étrangère*** Toute entité qui, n’étant pas constituée — avec ou sans la personnalité morale — sous le régime d’une loi fédérale ou provinciale, se livre à des activités bancaires, fiduciaires, de prêt ou d’assurances, ou fait office de société coopérative de crédit ou fait le commerce des valeurs mobilières, ou encore, de toute autre manière, a pour activité principale la prestation de services financiers. (*foreign institution*)
 
-***institution étrangère d’un non-membre de l’OMC*** Institution étrangère qui n’est pas contrôlée par un résident d’un membre de l’OMC.
+***institution étrangère d’un non-membre de l’OMC*** Institution étrangère qui n’est pas contrôlée par un résident d’un membre de l’OMC. (*non-WTO Member foreign institution*)
 
-***institution financière*** Selon le cas :
+***institution financière*** Selon le cas :
 - **a)** une société ou une société de secours;
-- **b)** une banque ou une banque étrangère autorisée, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md);
+- **b)** une banque ou une banque étrangère autorisée, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md);
 - **c)** une personne morale régie par la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md);
-- **d)** une association régie par la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md) ou une coopérative de crédit centrale ayant fait l’objet de l’ordonnance prévue au paragraphe 473(1) de cette loi;
+- **d)** une association régie par la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md);
 - **e)** une société de fiducie, de prêt ou d’assurances constituée en personne morale par une loi provinciale;
 - **f)** une société coopérative de crédit constituée en personne morale et régie par une loi provinciale;
 - **g)** une entité constituée en personne morale ou formée sous le régime d’une loi fédérale ou provinciale et dont l’activité est principalement le commerce des valeurs mobilières, y compris la gestion de portefeuille et la fourniture de conseils en placement;
-- **h)** une institution étrangère.
+- **h)** une institution étrangère. (*financial institution*)
 
-***institution financière canadienne*** Institution financière constituée en personne morale ou formée sous le régime d’une loi fédérale ou provinciale.
+***institution financière canadienne*** Institution financière constituée en personne morale ou formée sous le régime d’une loi fédérale ou provinciale. (*Canadian financial institution*)
 
-***institution financière fédérale*** Selon le cas :
+***institution financière fédérale*** Selon le cas :
 - **a)** société d’assurances ou société de secours;
 - **b)** banque;
 - **c)** personne morale régie par la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md);
-- **d)** association régie par la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md) ou coopérative de crédit centrale ayant fait l’objet de l’ordonnance prévue au paragraphe 473(1) de cette loi.
+- **d)** association régie par la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md). (*federal financial institution*)
 
-***intérêt de groupe financier*** Intérêt déterminé conformément à l’article 10.
+***intérêt de groupe financier*** Intérêt déterminé conformément à l’article 10. (*substantial investment*)
 
-***intérêt substantiel*** Intérêt déterminé conformément à l’article 8.
+***intérêt substantiel*** Intérêt déterminé conformément à l’article 8. (*significant interest*)
 
-***lettres patentes*** Lettres patentes en la forme agréée par le surintendant et dont la présente loi autorise la délivrance.
+***lettres patentes*** Lettres patentes en la forme agréée par le surintendant et dont la présente loi autorise la délivrance. (*letters patent*)
 
-***mineur*** S’entend au sens des règles du droit provincial applicables ou, à défaut, au sens donné au mot « enfant » dans la Convention relative aux droits de l’enfant, adoptée par l’Assemblée générale des Nations Unies le 20 novembre 1989.
+***mineur*** S’entend au sens des règles du droit provincial applicables ou, à défaut, au sens donné au mot « enfant » dans la Convention relative aux droits de l’enfant, adoptée par l’Assemblée générale des Nations Unies le 20 novembre 1989. (*minor*)
 
-***ministre*** Le ministre des Finances.
+***ministre*** Le ministre des Finances. (*Minister*)
 
-***opération*** En matière de valeurs mobilières, toute aliénation à titre onéreux.
+***opération*** En matière de valeurs mobilières, toute aliénation à titre onéreux. (*trade*)
 
-***personne*** Personne physique, entité ou représentant personnel.
+***personne*** Personne physique, entité ou représentant personnel. (*person*)
 
-***personne morale*** Toute personne morale, indépendamment de son lieu ou mode de constitution.
+***personne morale*** Toute personne morale, indépendamment de son lieu ou mode de constitution. (*body corporate*)
 
-***plaignant*** En ce qui a trait à une société ou à toute question la concernant :
+***plaignant*** En ce qui a trait à une société ou à toute question la concernant :
 - **a)** soit le détenteur inscrit ou le véritable propriétaire, ancien ou actuel, de valeurs mobilières de la société ou d’entités du même groupe;
 - **a.1)** soit le souscripteur habile à voter aux assemblées des souscripteurs ou des actionnaires et des souscripteurs de la société;
 - **b)** soit tout administrateur ou dirigeant, ancien ou actuel, de la société ou d’entités du même groupe;
-- **c)** soit toute autre personne qui, d’après le tribunal, a qualité pour présenter les demandes visées aux articles 371, 375 ou 1031.
+- **c)** soit toute autre personne qui, d’après le tribunal, a qualité pour présenter les demandes visées aux articles 371, 375 ou 1031. (*complainant*)
 
-***police*** Document écrit — en une seule ou plusieurs pièces — constatant le contrat d’assurance ou de réassurance ou, dans le cas d’une société de secours, le contrat d’assurance — attesté ou non par une pièce écrite — et tout certificat d’association se rattachant de quelque manière à l’assurance. Sont assimilés à la police le contrat de rente et le contrat d’assurance mixte.
+***police*** Document écrit — en une seule ou plusieurs pièces — constatant le contrat d’assurance ou de réassurance ou, dans le cas d’une société de secours, le contrat d’assurance — attesté ou non par une pièce écrite — et tout certificat d’association se rattachant de quelque manière à l’assurance. Sont assimilés à la police le contrat de rente et le contrat d’assurance mixte. (*policy*)
 
-***police ajustable*** S’entend au sens des règlements.
+***police ajustable*** S’entend au sens des règlements. (*adjustable policy*)
 
-***police à participation*** Police donnant droit à son souscripteur de participer aux bénéfices de la société.
+***police à participation*** Police donnant droit à son souscripteur de participer aux bénéfices de la société. (*participating policy*)
 
-***police au Canada***[Abrogée, 2007, ch. 6, art. 186]
+***police au Canada***[Abrogée, 2007, ch. 6, art. 186]
 
-***porteur*** La personne en possession d’un titre au porteur ou endossé en blanc.
+***porteur*** La personne en possession d’un titre au porteur ou endossé en blanc. (*bearer*)
 
-***procuration*** Formulaire de procuration rempli et signé par lequel soit l’actionnaire ou le souscripteur, soit, dans le cas d’une société de secours, le membre nomme un fondé de pouvoir pour le représenter aux assemblées des actionnaires, des souscripteurs ou des membres.
+***procuration*** Formulaire de procuration rempli et signé par lequel soit l’actionnaire ou le souscripteur, soit, dans le cas d’une société de secours, le membre nomme un fondé de pouvoir pour le représenter aux assemblées des actionnaires, des souscripteurs ou des membres. (*proxy*)
 
-***rapport annuel*** Dans le cas d’une société, le rapport financier annuel visé à l’alinéa 331(1)a) et, dans le cas d’une société de portefeuille d’assurances, le rapport financier annuel visé à l’alinéa 887(1)a).
+***rapport annuel*** Dans le cas d’une société, le rapport financier annuel visé à l’alinéa 331(1)a) et, dans le cas d’une société de portefeuille d’assurances, le rapport financier annuel visé à l’alinéa 887(1)a). (*annual statement*)
 
- ou  or ***registre central des valeurs mobilières*** ou ***registre des valeurs mobilières*** Dans le cas d’une société et d’une société de portefeuille d’assurances, le registre visé à l’article 271.
+***registre central des valeurs mobilières*** ou ***registre des valeurs mobilières*** Dans le cas d’une société et d’une société de portefeuille d’assurances, le registre visé à l’article 271. (*central securities register* or *securities register*)
 
-***représentant*** Toute personne agissant à ce titre, notamment le représentant personnel d’une personne décédée.
+***représentant*** Toute personne agissant à ce titre, notamment le représentant personnel d’une personne décédée. (*fiduciary*)
 
-***représentant personnel*** Personne agissant en lieu et place d’une autre, notamment un fiduciaire, un exécuteur testamentaire, un administrateur, un comité, un tuteur, un curateur, un cessionnaire, un séquestre ou un mandataire.
+***représentant personnel*** Personne agissant en lieu et place d’une autre, notamment un fiduciaire, un exécuteur testamentaire, un administrateur, un comité, un tuteur, un curateur, un cessionnaire, un séquestre ou un mandataire. (*personal representative*)
 
-***résident canadien*** Selon le cas :
+***résident canadien*** Selon le cas :
 - **a)** le citoyen canadien résidant habituellement au Canada;
 - **b)** le citoyen canadien qui ne réside pas habituellement au Canada, mais fait partie d’une catégorie de personnes prévue par règlement;
-- **c)** le résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) qui réside habituellement au Canada, à l’exclusion de celui qui y a résidé de façon habituelle pendant plus d’un an après avoir acquis pour la première fois le droit de demander la citoyenneté canadienne.
+- **c)** le résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) qui réside habituellement au Canada, à l’exclusion de celui qui y a résidé de façon habituelle pendant plus d’un an après avoir acquis pour la première fois le droit de demander la citoyenneté canadienne. (*resident Canadian*)
 
-***résident d’un membre de l’OMC*** Résident d’un membre de l’OMC au sens de l’article 11.1.
+***résident d’un membre de l’OMC*** Résident d’un membre de l’OMC au sens de l’article 11.1. (*WTO Member resident*)
 
-***résolution extraordinaire*** Résolution qui a été soit adoptée aux deux tiers au moins des voix exprimées par les actionnaires, les souscripteurs ou, dans le cas des sociétés de secours, les membres, soit signée par tous les actionnaires, souscripteurs ou membres habiles à voter en l’occurrence.
+***résolution extraordinaire*** Résolution qui a été soit adoptée aux deux tiers au moins des voix exprimées par les actionnaires, les souscripteurs ou, dans le cas des sociétés de secours, les membres, soit signée par tous les actionnaires, souscripteurs ou membres habiles à voter en l’occurrence. (*special resolution*)
 
-***résolution ordinaire*** Résolution adoptée à la majorité des voix exprimées par les actionnaires ou souscripteurs.
+***résolution ordinaire*** Résolution adoptée à la majorité des voix exprimées par les actionnaires ou souscripteurs. (*ordinary resolution*)
 
-***série*** Subdivision d’une catégorie d’actions.
+***série*** Subdivision d’une catégorie d’actions. (*series*)
 
-***siège*** Dans le cas d’une société, bureau maintenu en application de l’article 260, dans le cas d’une société de secours, bureau maintenu en application de l’article 544 et, dans le cas d’une société de portefeuille d’assurances, bureau maintenu en application de l’article 868.
+***siège*** Dans le cas d’une société, bureau maintenu en application de l’article 260, dans le cas d’une société de secours, bureau maintenu en application de l’article 544 et, dans le cas d’une société de portefeuille d’assurances, bureau maintenu en application de l’article 868. (*head office*)
 
-***société*** Toute personne morale visée au paragraphe 13(1).
+***société*** Toute personne morale visée au paragraphe 13(1). (*company*)
 
-***société antérieure*** Personne morale régie par une ou plusieurs dispositions des parties I, II, III, IV ou VI, ou des deux, et VII de la Loi sur les compagnies d’assurance canadiennes et britanniques à l’entrée en vigueur de l’article 13 et non dissoute par la présente loi.
+***société antérieure*** Personne morale régie par une ou plusieurs dispositions des parties I, II, III, IV ou VI, ou des deux, et VII de la Loi sur les compagnies d’assurance canadiennes et britanniques à l’entrée en vigueur de l’article 13 et non dissoute par la présente loi. (*former-Act company*)
 
-***société d’assurance maritime*** Société constituée à seule fin de garantir des risques dans la branche assurance maritime. 
+***société d’assurance maritime*** Société constituée à seule fin de garantir des risques dans la branche assurance maritime. (*marine company*)
 
-***société d’assurances multirisques*** Société ou société provinciale qui n’est pas une société d’assurance-vie ou une société d’assurance maritime.
+***société d’assurances multirisques*** Société ou société provinciale qui n’est pas une société d’assurance-vie ou une société d’assurance maritime. (*property and casualty company*)
 
-***société d’assurance-vie*** Société ou société provinciale autorisée à garantir des risques dans la branche assurance-vie, à l’exclusion de celle qui est également autorisée à garantir des risques dans toute branche autre que l’assurance accidents et maladie, l’assurance protection de crédit et les autres produits approuvés.
+***société d’assurance-vie*** Société ou société provinciale autorisée à garantir des risques dans la branche assurance-vie, à l’exclusion de celle qui est également autorisée à garantir des risques dans toute branche autre que l’assurance accidents et maladie, l’assurance protection de crédit et les autres produits approuvés. (*life company*)
 
-***société de portefeuille bancaire*** Personne morale constituée ou formée sous le régime de la partie XV de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md).
+***société de portefeuille bancaire*** Personne morale constituée ou formée sous le régime de la partie XV de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md). (*bank holding company*)
 
-***société de portefeuille d’assurances*** Personne morale constituée ou formée sous le régime de la partie XVII.
+***société de portefeuille d’assurances*** Personne morale constituée ou formée sous le régime de la partie XVII. (*insurance holding company*)
 
-French version only***société de portefeuille d’assurances n’ayant pas fait appel au public*** S’entend d’une société de portefeuille d’assurances autre qu’une société de portefeuille d’assurances ayant fait appel au public.
+***société de portefeuille d’assurances n’ayant pas fait appel au public*** S’entend d’une société de portefeuille d’assurances autre qu’une société de portefeuille d’assurances ayant fait appel au public. (*French version only*)
 
-***société de secours*** Personne morale visée au paragraphe 13(2) qui est une société de secours mutuel.
+***société de secours*** Personne morale visée au paragraphe 13(2) qui est une société de secours mutuel. (*society*)
 
-***société de secours antérieure*** Personne morale régie par une ou plusieurs dispositions des parties I et II, III — sauf l’article 77 —, IV — sauf les articles 123 à 130 et 153 à 158 —, V et VII de la Loi sur les compagnies d’assurance canadiennes et britanniques à l’entrée en vigueur de l’article 13 et non dissoute par la présente loi.
+***société de secours antérieure*** Personne morale régie par une ou plusieurs dispositions des parties I et II, III — sauf l’article 77 —, IV — sauf les articles 123 à 130 et 153 à 158 —, V et VII de la Loi sur les compagnies d’assurance canadiennes et britanniques à l’entrée en vigueur de l’article 13 et non dissoute par la présente loi. (*former-Act society*)
 
-***société de secours mutuel*** Personne morale sans capital social possédant un système représentatif de gouvernement, constituée à des fins de fraternité, de bienfaisance ou religieuses, entre autres, pour assurer exclusivement ses membres, leurs époux ou conjoints de fait ou leurs enfants.
+***société de secours mutuel*** Personne morale sans capital social possédant un système représentatif de gouvernement, constituée à des fins de fraternité, de bienfaisance ou religieuses, entre autres, pour assurer exclusivement ses membres, leurs époux ou conjoints de fait ou leurs enfants. (*fraternal benefit society*)
 
-***société étrangère*** Entité faisant l’objet de l’agrément prévu au paragraphe 574(1).
+***société étrangère*** Entité faisant l’objet de l’agrément prévu au paragraphe 574(1). (*foreign company*)
 
-***société mère*** S’entend au sens de l’article 4.
+***société mère*** S’entend au sens de l’article 4. (*holding body corporate*)
 
-***société mutuelle*** Selon le cas :
+***société mutuelle*** Selon le cas :
 - **a)** société constituée ou prorogée en société mutuelle sous le régime de la présente loi;
 - **b)** société antérieure qui, à l’entrée en vigueur du présent alinéa, n’a pas d’actions émises et en circulation;
-- **c)** société transformée en société mutuelle en vertu des articles 226 à 236.
+- **c)** société transformée en société mutuelle en vertu des articles 226 à 236.
 
-Est exclue de la présente définition la société mutuelle transformée en société avec actions ordinaires en vertu de la présente loi.
+Est exclue de la présente définition la société mutuelle transformée en société avec actions ordinaires en vertu de la présente loi. (*mutual company*)
 
-French version only***société n’ayant pas fait appel au public*** S’entend d’une société autre qu’une société ayant fait appel au public.
+***société n’ayant pas fait appel au public*** S’entend d’une société autre qu’une société ayant fait appel au public. (*French version only*)
 
-***société provinciale*** Sous réserve du paragraphe (1.1), les sociétés suivantes ou, si celles-ci changent de nom, les sociétés qui leur succèdent :
+***société provinciale*** Sous réserve du paragraphe (1.1), les sociétés suivantes ou, si celles-ci changent de nom, les sociétés qui leur succèdent :
 - **a)** [Abrogé, 2001, ch. 9, art. 345]
 - **b)** *Antigonish Farmers’ Mutual Fire Insurance Company*;
 - **c)** *Clare Mutual Insurance Company*;
 - **d)** La Compagnie d’assurance Halifax;
-- **e)** *Pictou County Farmers’ Mutual Fire Insurance Company*.
+- **e)** *Pictou County Farmers’ Mutual Fire Insurance Company*. (*provincial company*)
 
-***société transformée*** Société mutuelle transformée dans le cadre de la présente loi en société avec actions ordinaires.
+***société transformée*** Société mutuelle transformée dans le cadre de la présente loi en société avec actions ordinaires. (*converted company*)
 
-French version only***souscripteur*** Titulaire d’une police.
+***souscripteur*** Titulaire d’une police. (*French version only*)
 
-***souscripteur à forfait*** La personne qui, pour son propre compte, accepte d’acheter des valeurs mobilières en vue d’une mise en circulation ou qui, à titre de mandataire d’une personne ou d’une personne morale, offre en vente ou vend des valeurs mobilières dans le cadre d’une mise en circulation. La présente définition vise aussi les personnes qui participent, directement ou indirectement, à une telle mise en circulation, à l’exception de celles dont les intérêts se limitent à recevoir une commission de souscription ou de vente payable par le souscripteur à forfait.
+***souscripteur à forfait*** La personne qui, pour son propre compte, accepte d’acheter des valeurs mobilières en vue d’une mise en circulation ou qui, à titre de mandataire d’une personne ou d’une personne morale, offre en vente ou vend des valeurs mobilières dans le cadre d’une mise en circulation. La présente définition vise aussi les personnes qui participent, directement ou indirectement, à une telle mise en circulation, à l’exception de celles dont les intérêts se limitent à recevoir une commission de souscription ou de vente payable par le souscripteur à forfait. (*securities underwriter*)
 
-***souscripteur au Canada***[Abrogée, 2007, ch. 6, art. 186]
+***souscripteur au Canada***[Abrogée, 2007, ch. 6, art. 186]
 
-***souscripteur avec participation*** Titulaire d’une police à participation.
+***souscripteur avec participation*** Titulaire d’une police à participation. (*participating policyholder*)
 
-***sûreté*** Droit ou charge — notamment hypothèque, privilège ou nantissement — grevant des biens pour garantir au créancier ou à la caution soit le paiement de dettes soit l’exécution d’obligations.
+***sûreté*** Droit ou charge — notamment hypothèque, privilège ou nantissement — grevant des biens pour garantir au créancier ou à la caution soit le paiement de dettes soit l’exécution d’obligations. (*security interest*)
 
-***surintendant*** Le surintendant des institutions financières nommé en application de la [Loi sur le Bureau du surintendant des institutions financières](/fr/Lois/Lois%20du%20Canada/1985/ch.%2018%20(3e%20suppl.),%20partie%20I.md).
+***surintendant*** Le surintendant des institutions financières nommé en application de la [Loi sur le Bureau du surintendant des institutions financières](/fr/Lois/Lois%20du%20Canada/1985/ch.%2018%20(3e%20suppl.),%20partie%20I.md). (*Superintendent*)
 
- ou ***titre*** ou ***valeur mobilière*** Dans le cas d’une personne morale, action de toute catégorie ou titre de créance sur cette dernière, ainsi que le bon de souscription correspondant, mais à l’exclusion des dépôts effectués auprès d’une institution financière ou des documents les attestant; dans le cas de toute autre entité, les titres de participation ou titres de créance y afférents. La police est exclue de la présente définition.
+***titre*** ou ***valeur mobilière*** Dans le cas d’une personne morale, action de toute catégorie ou titre de créance sur cette dernière, ainsi que le bon de souscription correspondant, mais à l’exclusion des dépôts effectués auprès d’une institution financière ou des documents les attestant; dans le cas de toute autre entité, les titres de participation ou titres de créance y afférents. La police est exclue de la présente définition. (*security*)
 
-***titre à ordre*** Titre de la nature précisée au paragraphe 87(3).
+***titre à ordre*** Titre de la nature précisée au paragraphe 87(3). (*order form*)
 
-***titre au porteur*** Titre de la nature précisée au paragraphe 87(2).
+***titre au porteur*** Titre de la nature précisée au paragraphe 87(2). (*bearer form*)
 
-***titre de créance*** Tout document attestant l’existence d’une créance sur une entité, avec ou sans sûreté, et notamment une obligation, une débenture ou un billet.
+***titre de créance*** Tout document attestant l’existence d’une créance sur une entité, avec ou sans sûreté, et notamment une obligation, une débenture ou un billet. (*debt obligation*)
 
-***titre nominatif*** Titre de la nature précisée au paragraphe 87(4).
+***titre nominatif*** Titre de la nature précisée au paragraphe 87(4). (*registered form*)
 
-***titre secondaire*** Titre de créance délivré par la société et prévoyant que en cas d’insolvabilité ou de liquidation de celle-ci, le paiement de la créance prend rang après celui de toutes les dettes de police de la société et celui de tous ses autres titres de créance, à l’exception de ceux dont le paiement, selon leurs propres termes, est de rang égal ou inférieur.
+***titre secondaire*** Titre de créance délivré par la société et prévoyant que en cas d’insolvabilité ou de liquidation de celle-ci, le paiement de la créance prend rang après celui de toutes les dettes de police de la société et celui de tous ses autres titres de créance, à l’exception de ceux dont le paiement, selon leurs propres termes, est de rang égal ou inférieur. (*subordinated indebtedness*)
 
-***transaction de fermeture*** S’entend au sens des règlements.
+***transaction de fermeture*** S’entend au sens des règlements. (*going-private transaction*)
 
-***transaction d’éviction*** De la part d’une société n’ayant pas fait appel au public ou d’une société de portefeuille d’assurances n’ayant pas fait appel au public, transaction qui nécessite la modification des règlements administratifs visés au paragraphe 238(1) ou 851(1) et qui a pour résultat direct ou indirect la suppression de l’intérêt d’un détenteur d’actions d’une catégorie, sans le consentement de celui-ci et sans substitution d’un intérêt de valeur équivalente dans des actions émises par les personnes ci-après et conférant des droits et privilèges égaux ou supérieurs à ceux attachés aux actions de cette catégorie :
+***transaction d’éviction*** De la part d’une société n’ayant pas fait appel au public ou d’une société de portefeuille d’assurances n’ayant pas fait appel au public, transaction qui nécessite la modification des règlements administratifs visés au paragraphe 238(1) ou 851(1) et qui a pour résultat direct ou indirect la suppression de l’intérêt d’un détenteur d’actions d’une catégorie, sans le consentement de celui-ci et sans substitution d’un intérêt de valeur équivalente dans des actions émises par les personnes ci-après et conférant des droits et privilèges égaux ou supérieurs à ceux attachés aux actions de cette catégorie :
 - **a)** dans le cas d’une transaction effectuée par une société, la société;
-- **b)** dans le cas d’une transaction effectuée par une société de portefeuille d’assurances, la société de portefeuille d’assurances.
+- **b)** dans le cas d’une transaction effectuée par une société de portefeuille d’assurances, la société de portefeuille d’assurances. (*squeeze-out transaction*)
 
-***transfert*** Tout transfert de valeurs mobilières, y compris par effet de la loi.
+***transfert*** Tout transfert de valeurs mobilières, y compris par effet de la loi. (*transfer*)
 
 ***tribunal***
 - **a)** La Cour supérieure de justice de l’Ontario;
@@ -273,15 +273,15 @@ French version only***souscripteur*** Titulaire d’une police.
 - **c)** la Cour suprême de la Nouvelle-Écosse, de la Colombie-Britannique et de l’Île-du-Prince-Édouard;
 - **d)** la Cour du Banc de la Reine du Nouveau-Brunswick, du Manitoba, de la Saskatchewan ou de l’Alberta;
 - **e)** la Section de première instance de la Cour suprême de Terre-Neuve-et-Labrador;
-- **f)** la Cour suprême du Yukon, la Cour suprême des Territoires du Nord-Ouest ou la Cour de justice du Nunavut.
+- **f)** la Cour suprême du Yukon, la Cour suprême des Territoires du Nord-Ouest ou la Cour de justice du Nunavut. (*court*)
 
-***vérificateur*** S’entend notamment d’un cabinet de comptables.
+***vérificateur*** S’entend notamment d’un cabinet de comptables. (*auditor*)
 
- et ***véritable propriétaire*** Est considéré comme tel le propriétaire de valeurs mobilières inscrites au nom d’un ou de plusieurs intermédiaires, notamment d’un fiduciaire ou d’un mandataire; ***propriété effective*** s’entend du droit du véritable propriétaire.
+***véritable propriétaire*** Est considéré comme tel le propriétaire de valeurs mobilières inscrites au nom d’un ou de plusieurs intermédiaires, notamment d’un fiduciaire ou d’un mandataire; ***propriété effective*** s’entend du droit du véritable propriétaire. (*beneficial ownership*)
 
 **Changement de statut**
 
-- **(1.1)** Pour l’application de la présente loi, la société provinciale perd son statut dès révocation de l’ordonnance du surintendant prise aux termes du paragraphe 657(1).
+- **(1.1)** Pour l’application de la présente loi, la société provinciale perd son statut dès révocation de l’ordonnance du surintendant prise aux termes du paragraphe 657(1).
 
 **Prêts relatifs aux polices**
 
@@ -296,7 +296,7 @@ French version only***souscripteur*** Titulaire d’une police.
 **Participation multiple**
 
 - **(4)** Pour l’application de la présente loi, est à participation multiple la personne morale qui n’a aucun actionnaire important.
-> 1991, ch. 47, art. 2 et 758, ch. 48, art. 495; 1992, ch. 51, art. 55; 1996, ch. 6, art. 66; 1997, ch. 15, art. 165; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 70, ch. 28, art. 118; 2000, ch. 12, art. 153; 2001, ch. 9, art. 345, ch. 27, art. 255; 2002, ch. 7, art. 187(A); 2005, ch. 54, art. 214; 2007, ch. 6, art. 186; 2010, ch. 12, art. 2117; 2012, ch. 5, art. 122; 2015, ch. 3, art. 120.
+> 1991, ch. 47, art. 2 et 758, ch. 48, art. 495; 1992, ch. 51, art. 55; 1996, ch. 6, art. 66; 1997, ch. 15, art. 165; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 70, ch. 28, art. 118; 2000, ch. 12, art. 153; 2001, ch. 9, art. 345, ch. 27, art. 255; 2002, ch. 7, art. 187(A); 2005, ch. 54, art. 214; 2007, ch. 6, art. 186; 2010, ch. 12, art. 2117; 2012, ch. 5, art. 122; 2014, ch. 39, art. 302; 2015, ch. 3, art. 120.
 
 
 
