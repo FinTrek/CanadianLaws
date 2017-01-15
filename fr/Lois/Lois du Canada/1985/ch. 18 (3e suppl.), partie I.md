@@ -31,29 +31,29 @@
 
 **3** Les définitions qui suivent s’appliquent à la présente partie.
 
-***Bureau*** Le Bureau du surintendant des institutions financières constitué en vertu de l’article 4.
+***Bureau*** Le Bureau du surintendant des institutions financières constitué en vertu de l’article 4. (*Office*)
 
 ***institution financière***
 - **a)** Banque, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md);
 - **a.1)** banque étrangère autorisée, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md);
 - **b)** société régie par la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md);
-- **c)** association régie par la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md) ou coopérative de crédit centrale ayant fait l’objet de l’ordonnance prévue au paragraphe 473(1) de cette loi;
+- **c)** association régie par la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md);
 - **d)** société, société de secours, société étrangère ou société provinciale régie par la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md);
-- **e)** le Bouclier vert du Canada.
-- **f)** [Abrogé, 1996, ch. 6, art. 104]
+- **e)** le Bouclier vert du Canada. (*financial institution*)
+- **f)** [Abrogé, 1996, ch. 6, art. 104] 
 
-***ministre*** Le ministre des Finances.
+***ministre*** Le ministre des Finances. (*Minister*)
 
-***régime de pension*** S’entend, selon le cas, au sens du paragraphe 2(1) de la [Loi de 1985 sur les normes de prestation de pension](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(2e%20suppl.).md) ou au sens de ***régime de pension agréé collectif*** au paragraphe 2(1) de la [Loi sur les régimes de pension agréés collectifs](/fr/Lois/Lois%20du%20Canada/2012/ch.%2016.md).
+***régime de pension*** S’entend, selon le cas, au sens du paragraphe 2(1) de la [Loi de 1985 sur les normes de prestation de pension](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(2e%20suppl.).md) ou au sens de régime de pension agréé collectif au paragraphe 2(1) de la [Loi sur les régimes de pension agréés collectifs](/fr/Lois/Lois%20du%20Canada/2012/ch.%2016.md). (*pension plan*)
 
-***société de portefeuille bancaire*** S’entend au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md).
+***société de portefeuille bancaire*** S’entend au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md). (*bank holding company*)
 
-***société de portefeuille d’assurances*** S’entend au sens du paragraphe 2(1) de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md).
+***société de portefeuille d’assurances*** S’entend au sens du paragraphe 2(1) de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md). (*insurance holding company*)
 
-***surintendant*** Le surintendant des institutions financières nommé conformément au paragraphe 5(1).
+***surintendant*** Le surintendant des institutions financières nommé conformément au paragraphe 5(1). (*Superintendent*)
 
-***surintendant adjoint*** Surintendant adjoint des institutions financières nommé conformément à l’article 8.
-> L.R. (1985), ch. 18 (3<sup>e</sup> suppl.), art. 3; 1991, ch. 45, art. 557, ch. 47, art. 742; 1992, ch. 1, art. 142, ch. 56, art. 18; 1996, ch. 6, art. 104; 1998, ch. 12, art. 27; 1999, ch. 28, art. 127; 2001, ch. 9, art. 466; 2012, ch. 16, art. 90.
+***surintendant adjoint*** Surintendant adjoint des institutions financières nommé conformément à l’article 8. (*Deputy Superintendent*)
+> L.R. (1985), ch. 18 (3<sup>e</sup> suppl.), art. 3; 1991, ch. 45, art. 557, ch. 47, art. 742; 1992, ch. 1, art. 142, ch. 56, art. 18; 1996, ch. 6, art. 104; 1998, ch. 12, art. 27; 1999, ch. 28, art. 127; 2001, ch. 9, art. 466; 2012, ch. 16, art. 90; 2014, ch. 39, art. 300.
 
 
 
