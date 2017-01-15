@@ -44,258 +44,258 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** In this Act,
 
-***actuary*** means a Fellow of the Canadian Institute of Actuaries;
+***actuary*** means a Fellow of the Canadian Institute of Actuaries; (*actuaire*)
 
-***adjustable policy*** means an adjustable policy as defined in the regulations;
+***adjustable policy*** means an adjustable policy as defined in the regulations; (*police ajustable*)
 
-***affairs***, with respect to a company, means the relationships among the company and its affiliates and the shareholders, policyholders, directors and officers of the company and its affiliates, but does not include the business of the company or any of its affiliates;
+***affairs***, with respect to a company, means the relationships among the company and its affiliates and the shareholders, policyholders, directors and officers of the company and its affiliates, but does not include the business of the company or any of its affiliates; (*affaires internes*)
 
-***affiliate*** means an entity that is affiliated with another entity within the meaning of section 6;
+***affiliate*** means an entity that is affiliated with another entity within the meaning of section 6; (*groupe*)
 
-***Agency*** means the Financial Consumer Agency of Canada established under section 3 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md);
+***Agency*** means the Financial Consumer Agency of Canada established under section 3 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md); (*Agence*)
 
-***annual return*** means a return prepared in accordance with subsection 665(1) or (2);
+***annual return*** means a return prepared in accordance with subsection 665(1) or (2); (*état annuel*)
 
-***annual statement***, in relation to a company, means the annual financial statement of the company within the meaning of paragraph 331(1)(a) and, in relation to an insurance holding company, means the annual financial statement of the insurance holding company within the meaning of paragraph 887(1)(a);
+***annual statement***, in relation to a company, means the annual financial statement of the company within the meaning of paragraph 331(1)(a) and, in relation to an insurance holding company, means the annual financial statement of the insurance holding company within the meaning of paragraph 887(1)(a); (*rapport annuel*)
 
-***assets in Canada*** means the assets that have been vested in trust for a foreign company under Part XIII;
+***assets in Canada*** means the assets that have been vested in trust for a foreign company under Part XIII; (*actif au Canada*)
 
-***auditor*** includes a firm of accountants;
+***auditor*** includes a firm of accountants; (*vérificateur*)
 
-***bank holding company*** means a body corporate that is incorporated or formed under Part XV of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md);
+***bank holding company*** means a body corporate that is incorporated or formed under Part XV of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md); (*société de portefeuille bancaire*)
 
-***bearer***, in relation to a security, means the person in possession of a security payable to bearer or endorsed in blank;
+***bearer***, in relation to a security, means the person in possession of a security payable to bearer or endorsed in blank; (*porteur*)
 
-***bearer form***, in respect of a security, means a security in bearer form as determined in accordance with subsection 87(2);
+***bearer form***, in respect of a security, means a security in bearer form as determined in accordance with subsection 87(2); (*titre au porteur*)
 
- et ***beneficial ownership*** includes ownership through one or more trustees, legal representatives, agents or other intermediaries;
+***beneficial ownership*** includes ownership through one or more trustees, legal representatives, agents or other intermediaries; (*véritable propriétaire* et *propriété effective*)
 
-***body corporate*** means an incorporated body wherever or however incorporated;
+***body corporate*** means an incorporated body wherever or however incorporated; (*personne morale*)
 
-***Canadian financial institution*** means a financial institution that is incorporated or formed by or under an Act of Parliament or of the legislature of a province;
+***Canadian financial institution*** means a financial institution that is incorporated or formed by or under an Act of Parliament or of the legislature of a province; (*institution financière canadienne*)
 
- or  ou ***central securities register*** or ***securities register***, in relation to a company or an insurance holding company, means the register referred to in section 271;
+***central securities register*** or ***securities register***, in relation to a company or an insurance holding company, means the register referred to in section 271; (*registre central des valeurs mobilières* ou *registre des valeurs mobilières*)
 
-***class***, in respect of insurance or an insurance policy, means a class determined in accordance with section 12;
+***class***, in respect of insurance or an insurance policy, means a class determined in accordance with section 12; (*branche*)
 
-***Commissioner*** means the Commissioner of the Financial Consumer Agency of Canada appointed under section 4 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md);
+***Commissioner*** means the Commissioner of the Financial Consumer Agency of Canada appointed under section 4 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md); (*commissaire*)
 
-***common-law partner***, in relation to an individual, means a person who is cohabiting with the individual in a conjugal relationship, having so cohabited for a period of at least one year;
+***common-law partner***, in relation to an individual, means a person who is cohabiting with the individual in a conjugal relationship, having so cohabited for a period of at least one year; (*conjoint de fait*)
 
-***company*** means a body corporate referred to in subsection 13(1);
+***company*** means a body corporate referred to in subsection 13(1); (*société*)
 
 ***complainant***, in relation to a company or any matter concerning a company, means
 - **(a)** a registered holder or beneficial owner, and a former registered holder or beneficial owner, of a security of the company or any of its affiliates,
 - **(a.1)** a policyholder entitled to vote at a meeting of policyholders or shareholders and policyholders of the company,
 - **(b)** a director or an officer, or a former director or officer, of the company or any of its affiliates, or
-- **(c)** any other person who, in the discretion of a court, is a proper person to make an application under section 371, 375 or 1031;
+- **(c)** any other person who, in the discretion of a court, is a proper person to make an application under section 371, 375 or 1031; (*plaignant*)
 
-***consumer provision*** means a provision referred to in paragraph (c) or (c.1) of the definition ***consumer provision*** in section 2 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md);
+***consumer provision*** means a provision referred to in paragraph (c) or (c.1) of the definition consumer provision in section 2 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md); (*disposition visant les consommateurs*)
 
-***converted company*** means a mutual company that has been converted under this Act into a company with common shares;
+***converted company*** means a mutual company that has been converted under this Act into a company with common shares; (*société transformée*)
 
-***court*** means
+***court*** means
 - **(a)** in the Province of Ontario, the Superior Court of Justice,
 - **(b)** in the Province of Quebec, the Superior Court of the Province,
 - **(c)** in the Provinces of Nova Scotia, British Columbia and Prince Edward Island, the Supreme Court of the Province,
 - **(d)** in the Provinces of New Brunswick, Manitoba, Saskatchewan and Alberta, the Court of Queen’s Bench for the Province,
 - **(e)** in the Province of Newfoundland and Labrador, the Trial Division of the Supreme Court of the Province, and
-- **(f)** in Yukon and the Northwest Territories, the Supreme Court, and in Nunavut, the Nunavut Court of Justice;
+- **(f)** in Yukon and the Northwest Territories, the Supreme Court, and in Nunavut, the Nunavut Court of Justice; (*tribunal*)
 
-***court of appeal*** means the court to which an appeal lies from a decision or order of a court;
+***court of appeal*** means the court to which an appeal lies from a decision or order of a court; (*cour d’appel*)
 
-***debt obligation*** means a bond, debenture, note or other evidence of indebtedness of an entity, whether secured or unsecured;
+***debt obligation*** means a bond, debenture, note or other evidence of indebtedness of an entity, whether secured or unsecured; (*titre de créance*)
 
-,  or ,  ou ***director*** means a natural person occupying the position of director, by whatever name called, of a body corporate, and ***board of directors*** or ***directors*** refers to the directors of a body corporate as a body and, in the case of a society, refers to the supreme governing body of the society;
+***director*** means a natural person occupying the position of director, by whatever name called, of a body corporate, and ***board of directors*** or ***directors*** refers to the directors of a body corporate as a body and, in the case of a society, refers to the supreme governing body of the society; (*administrateur*, *conseil d’administration* ou *conseil*)
 
-***equity***, in respect of a company or an insurance holding company, means its equity as determined in accordance with the regulations;
+***equity***, in respect of a company or an insurance holding company, means its equity as determined in accordance with the regulations; (*capitaux propres*)
 
-***entity*** means a body corporate, trust, partnership, fund, an unincorporated association or organization, Her Majesty in right of Canada or of a province, an agency of Her Majesty in either of such rights and the government of a foreign country or any political subdivision thereof and any agency thereof;
+***entity*** means a body corporate, trust, partnership, fund, an unincorporated association or organization, Her Majesty in right of Canada or of a province, an agency of Her Majesty in either of such rights and the government of a foreign country or any political subdivision thereof and any agency thereof; (*entité*)
 
-***federal credit union*** has the same meaning as in section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md);
+***federal credit union*** has the same meaning as in section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md); (*coopérative de crédit fédérale*)
 
-***federal financial institution*** means
+***federal financial institution*** means
 - **(a)** a company or a society,
 - **(b)** a bank,
 - **(c)** a body corporate to which the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md) applies, or
-- **(d)** an association to which the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) applies or a central cooperative credit society for which an order has been made under subsection 473(1) of that Act;
+- **(d)** an association to which the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) applies; (*institution financière fédérale*)
 
-***fiduciary*** means any person acting in a fiduciary capacity and includes a personal representative of a deceased person;
+***fiduciary*** means any person acting in a fiduciary capacity and includes a personal representative of a deceased person; (*représentant*)
 
-***financial institution*** means
+***financial institution*** means
 - **(a)** a company or a society,
-- **(b)** a bank or an authorized foreign bank within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md),
+- **(b)** a bank or an authorized foreign bank within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md),
 - **(c)** a body corporate to which the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md) applies,
-- **(d)** an association to which the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) applies or a central cooperative credit society for which an order has been made under subsection 473(1) of that Act,
+- **(d)** an association to which the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) applies,
 - **(e)** a trust, loan or insurance corporation incorporated by or under an Act of the legislature of a province,
 - **(f)** a cooperative credit society incorporated and regulated by or under an Act of the legislature of a province,
 - **(g)** an entity that is incorporated or formed by or under an Act of Parliament or of the legislature of a province and that is primarily engaged in dealing in securities, including portfolio management and investment counselling, and
-- **(h)** a foreign institution;
+- **(h)** a foreign institution; (*institution financière*)
 
-***financial year***, in respect of a foreign company, means a calendar year;
+***financial year***, in respect of a foreign company, means a calendar year; (*exercice*)
 
-***foreign company*** means an entity that is the subject of an order made under subsection 574(1);
+***foreign company*** means an entity that is the subject of an order made under subsection 574(1); (*société étrangère*)
 
-***foreign institution*** means an entity that is
+***foreign institution*** means an entity that is
 - **(a)** engaged in the business of banking, the trust, loan or insurance business, the business of a cooperative credit society or the business of dealing in securities or is otherwise engaged primarily in the business of providing financial services, and
-- **(b)** incorporated or formed otherwise than by or under an Act of Parliament or of the legislature of a province;
+- **(b)** incorporated or formed otherwise than by or under an Act of Parliament or of the legislature of a province; (*institution étrangère*)
 
-***former-Act company*** means a body corporate referred to in paragraph 13(1)(b);
+***former-Act company*** means a body corporate referred to in paragraph 13(1)(b); (*société antérieure*)
 
-***former-Act society*** means a body corporate referred to in paragraph 13(2)(b);
+***former-Act society*** means a body corporate referred to in paragraph 13(2)(b); (*société de secours antérieure*)
 
-***form of proxy*** means a written or printed form that, when completed and executed by or on behalf of a shareholder or a policyholder, or, in the case of a fraternal benefit society, a member, constitutes a proxy;
+***form of proxy*** means a written or printed form that, when completed and executed by or on behalf of a shareholder or a policyholder, or, in the case of a fraternal benefit society, a member, constitutes a proxy; (*formulaire de procuration*)
 
-***fraternal benefit society*** means a body corporate
+***fraternal benefit society*** means a body corporate
 - **(a)** that is without share capital,
 - **(b)** that has a representative form of government, and
-- **(c)** that was incorporated for fraternal, benevolent or religious purposes, including the provision of insurance benefits solely to its members or the spouses, common-law partners or children of its members;
+- **(c)** that was incorporated for fraternal, benevolent or religious purposes, including the provision of insurance benefits solely to its members or the spouses, common-law partners or children of its members; (*société de secours mutuel*)
 
-***going-private transaction*** means a going-private transaction as defined in the regulations;
+***going-private transaction*** means a going-private transaction as defined in the regulations; (*transaction de fermeture*)
 
-***guarantee*** includes a letter of credit;
+***guarantee*** includes a letter of credit; (*garantie*)
 
-***head office*** means
-- **(a)** in relation to a company, the office required to be maintained by the company under section 260,
-- **(b)** in relation to a society, the office required to be maintained by the society under section 544, and
-- **(c)** in relation to an insurance holding company, the office required to be maintained by the insurance holding company under section 868;
+***head office*** means
+- **(a)** in relation to a company, the office required to be maintained by the company under section 260,
+- **(b)** in relation to a society, the office required to be maintained by the society under section 544, and
+- **(c)** in relation to an insurance holding company, the office required to be maintained by the insurance holding company under section 868; (*siège*)
 
-***holder*** means
+***holder*** means
 - **(a)** in respect of a security certificate, the person in possession of the certificate issued or endorsed to that person or to bearer or in blank, and
-- **(b)** in respect of the ownership of a share, the shareholder of the share within the meaning of section 7;
+- **(b)** in respect of the ownership of a share, the shareholder of the share within the meaning of section 7; (*détenteur*)
 
-***holding body corporate*** means a holding body corporate within the meaning of section 4;
+***holding body corporate*** means a holding body corporate within the meaning of section 4; (*société mère*)
 
-***incorporated***, when used with reference to a body corporate that is incorporated by or under an Act of Parliament or of the legislature of a province, also refers to a body corporate that is continued by or under any such Act;
+***incorporated***, when used with reference to a body corporate that is incorporated by or under an Act of Parliament or of the legislature of a province, also refers to a body corporate that is continued by or under any such Act; (*constitué en personne morale*)
 
-***incorporating instrument*** means the special Act, letters patent, instrument of continuance or other constating instrument by which a body corporate was incorporated or continued and includes any amendment to or restatement of the constating instrument;
+***incorporating instrument*** means the special Act, letters patent, instrument of continuance or other constating instrument by which a body corporate was incorporated or continued and includes any amendment to or restatement of the constating instrument; (*acte constitutif*)
 
-***incorporator***, in relation to a company or an insurance holding company, means a person who applied for letters patent to incorporate the company or insurance holding company, as the case may be;
+***incorporator***, in relation to a company or an insurance holding company, means a person who applied for letters patent to incorporate the company or insurance holding company, as the case may be; (*fondateur*)
 
-***insurance holding company*** means a body corporate that is incorporated or formed under Part XVII;
+***insurance holding company*** means a body corporate that is incorporated or formed under Part XVII; (*société de portefeuille d’assurances*)
 
-***issuer***, in respect of a security, means the entity that issues or issued the security;
+***issuer***, in respect of a security, means the entity that issues or issued the security; (*émetteur*)
 
-***letters patent***, in respect of an instrument authorized to be issued under this Act, means letters patent in a form approved by the Superintendent;
+***letters patent***, in respect of an instrument authorized to be issued under this Act, means letters patent in a form approved by the Superintendent; (*lettres patentes*)
 
-***life company*** means a company or a provincial company that is permitted to insure risks falling within the class of life insurance, other than a company or a provincial company that is also permitted to insure risks falling within any other class of insurance other than accident and sickness insurance, credit protection insurance and other approved products insurance;
+***life company*** means a company or a provincial company that is permitted to insure risks falling within the class of life insurance, other than a company or a provincial company that is also permitted to insure risks falling within any other class of insurance other than accident and sickness insurance, credit protection insurance and other approved products insurance; (*société d’assurance-vie*)
 
-***marine company*** means a company that is incorporated for the sole purpose of insuring risks within the class of marine insurance;
+***marine company*** means a company that is incorporated for the sole purpose of insuring risks within the class of marine insurance; (*société d’assurance maritime*)
 
-***Minister*** means the Minister of Finance;
+***Minister*** means the Minister of Finance; (*ministre*)
 
-***minor*** has the same meaning as in the applicable provincial law and in the absence of any such law has the same meaning as the word “child” in the United Nations Convention on the Rights of the Child adopted in the United Nations General Assembly on November 20, 1989;
+***minor*** has the same meaning as in the applicable provincial law and in the absence of any such law has the same meaning as the word “child” in the United Nations Convention on the Rights of the Child adopted in the United Nations General Assembly on November 20, 1989; (*mineur*)
 
-***mutual company*** means
+***mutual company*** means
 - **(a)** a company that is incorporated or continued as a mutual company under this Act,
 - **(b)** a former-Act company that, on the coming into force of this paragraph, has no issued and outstanding shares, or
-- **(c)** a company that is converted into a mutual company under sections 226 to 236,
+- **(c)** a company that is converted into a mutual company under sections 226 to 236,
 
-and that is not converted into a company with common shares under this Act;
+and that is not converted into a company with common shares under this Act; (*société mutuelle*)
 
-***non-WTO Member foreign institution*** means a foreign institution that is not controlled by a WTO Member resident;
+***non-WTO Member foreign institution*** means a foreign institution that is not controlled by a WTO Member resident; (*institution étrangère d’un non-membre de l’OMC*)
 
-***officer*** means
+***officer*** means
 - **(a)** in relation to a body corporate, a chief executive officer, president, vice-president, secretary, controller, treasurer and any other natural person designated as an officer of the body corporate by by-law or by resolution of the directors of the body corporate, and
-- **(b)** in relation to any other entity, any natural person designated as an officer of the entity by by-law, by resolution of the members thereof or otherwise;
+- **(b)** in relation to any other entity, any natural person designated as an officer of the entity by by-law, by resolution of the members thereof or otherwise; (*dirigeant*)
 
-***order form***, in respect of a security, means a security in order form as determined in accordance with subsection 87(3);
+***order form***, in respect of a security, means a security in order form as determined in accordance with subsection 87(3); (*titre à ordre*)
 
-***ordinary resolution*** means a resolution passed by a majority of the votes cast by or on behalf of the shareholders or policyholders who voted in respect of that resolution;
+***ordinary resolution*** means a resolution passed by a majority of the votes cast by or on behalf of the shareholders or policyholders who voted in respect of that resolution; (*résolution ordinaire*)
 
-***participating policy*** means a policy issued by a company that entitles its holder to participate in the profits of the company;
+***participating policy*** means a policy issued by a company that entitles its holder to participate in the profits of the company; (*police à participation*)
 
-***participating policyholder*** means the holder of a participating policy;
+***participating policyholder*** means the holder of a participating policy; (*souscripteur avec participation*)
 
-***person*** means a natural person, an entity or a personal representative;
+***person*** means a natural person, an entity or a personal representative; (*personne*)
 
-***personal representative*** means a person who stands in place of and represents another person and, without limiting the generality of the foregoing, includes, as the circumstances require, a trustee, an executor, an administrator, a committee, a guardian, a tutor, a curator, an assignee, a receiver, an agent or an attorney of any person;
+***personal representative*** means a person who stands in place of and represents another person and, without limiting the generality of the foregoing, includes, as the circumstances require, a trustee, an executor, an administrator, a committee, a guardian, a tutor, a curator, an assignee, a receiver, an agent or an attorney of any person; (*représentant personnel*)
 
-***policy*** means any written contract of insurance or reinsurance whether contained in one or more documents and, in the case of insurance in a fraternal benefit society, any contract of insurance whether evidenced by a written document or not and any certificate of membership relating in any way to insurance, and includes any annuity contract and any endowment insurance contract;
+***policy*** means any written contract of insurance or reinsurance whether contained in one or more documents and, in the case of insurance in a fraternal benefit society, any contract of insurance whether evidenced by a written document or not and any certificate of membership relating in any way to insurance, and includes any annuity contract and any endowment insurance contract; (*police*)
 
-***policy in Canada***[Repealed, 2007, c. 6, s. 186]
+***policy in Canada***[Repealed, 2007, c. 6, s. 186]
 
-***policyholder in Canada***[Repealed, 2007, c. 6, s. 186]
+***policyholder in Canada***[Repealed, 2007, c. 6, s. 186]
 
-Version anglaise seulement***prescribed*** means prescribed by regulation;
+***prescribed*** means prescribed by regulation; (*Version anglaise seulement*)
 
-***property and casualty company*** means a company or a provincial company that is not a life company or a marine company;
+***property and casualty company*** means a company or a provincial company that is not a life company or a marine company; (*société d’assurances multirisques*)
 
-***provincial company*** means, subject to subsection (1.1),
-- **(a)** [Repealed, 2001, c. 9, s. 345]
+***provincial company*** means, subject to subsection (1.1),
+- **(a)** [Repealed, 2001, c. 9, s. 345]
 - **(b)** Antigonish Farmers’ Mutual Fire Insurance Company,
 - **(c)** Clare Mutual Insurance Company,
 - **(d)** The Halifax Insurance Company, or
 - **(e)** Pictou County Farmers’ Mutual Fire Insurance Company,
 
-or, if the name of such company is changed, includes the successor company by its new name;
+or, if the name of such company is changed, includes the successor company by its new name; (*société provinciale*)
 
-***proxy*** means a completed and executed form of proxy by means of which a shareholder or policyholder or, in the case of a society, a member, appoints a proxyholder to attend and act on behalf of the shareholder, policyholder or member at a meeting of shareholders, policyholders or members;
+***proxy*** means a completed and executed form of proxy by means of which a shareholder or policyholder or, in the case of a society, a member, appoints a proxyholder to attend and act on behalf of the shareholder, policyholder or member at a meeting of shareholders, policyholders or members; (*procuration*)
 
-***proxyholder*** means the person appointed by proxy to attend and act on behalf of a shareholder or a policyholder or, in the case of a society, a member at a meeting of shareholders, policyholders or members;
+***proxyholder*** means the person appointed by proxy to attend and act on behalf of a shareholder or a policyholder or, in the case of a society, a member at a meeting of shareholders, policyholders or members; (*fondé de pouvoir*)
 
-***real property*** includes a leasehold interest in real property;
+***real property*** includes a leasehold interest in real property; (*biens immeubles*)
 
-***recorded address*** means
+***recorded address*** means
 - **(a)** in relation to a person who is a shareholder of a company or an insurance holding company, the latest postal address of the person according to the central securities register of the company or the insurance holding company, as the case may be, and
-- **(b)** in relation to a person in any other respect, the latest postal address of the person according to the records of the company or insurance holding company;
+- **(b)** in relation to a person in any other respect, the latest postal address of the person according to the records of the company or insurance holding company; (*adresse enregistrée*)
 
-***registered form***, in respect of a security, means a security in registered form as determined in accordance with subsection 87(4);
+***registered form***, in respect of a security, means a security in registered form as determined in accordance with subsection 87(4); (*titre nominatif*)
 
-***regulatory capital***, in respect of a company, a society, a provincial company or an insurance holding company, has the meaning given that expression by the regulations;
+***regulatory capital***, in respect of a company, a society, a provincial company or an insurance holding company, has the meaning given that expression by the regulations; (*capital réglementaire*)
 
-***resident Canadian*** means a natural person who is
+***resident Canadian*** means a natural person who is
 - **(a)** a Canadian citizen ordinarily resident in Canada,
 - **(b)** a Canadian citizen not ordinarily resident in Canada who is a member of a prescribed class of persons, or
-- **(c)** a permanent resident within the meaning of subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) and ordinarily resident in Canada, except a permanent resident who has been ordinarily resident in Canada for more than one year after the time at which the individual first became eligible to apply for Canadian citizenship;
+- **(c)** a permanent resident within the meaning of subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) and ordinarily resident in Canada, except a permanent resident who has been ordinarily resident in Canada for more than one year after the time at which the individual first became eligible to apply for Canadian citizenship; (*résident canadien*)
 
-***residential property*** means real property consisting of buildings that are used, or are to be used, to the extent of at least one half of the floor space thereof, as one or more private dwellings;
+***residential property*** means real property consisting of buildings that are used, or are to be used, to the extent of at least one half of the floor space thereof, as one or more private dwellings; (*immeuble résidentiel*)
 
-***securities underwriter*** means a person who, as principal, agrees to purchase securities with a view to the distribution of the securities or who, as agent for a body corporate or other person, offers for sale or sells securities in connection with a distribution of the securities, and includes a person who participates, directly or indirectly, in a distribution of securities, other than a person whose interest in the distribution of securities is limited to receiving a distributor’s or seller’s commission payable by a securities underwriter;
+***securities underwriter*** means a person who, as principal, agrees to purchase securities with a view to the distribution of the securities or who, as agent for a body corporate or other person, offers for sale or sells securities in connection with a distribution of the securities, and includes a person who participates, directly or indirectly, in a distribution of securities, other than a person whose interest in the distribution of securities is limited to receiving a distributor’s or seller’s commission payable by a securities underwriter; (*souscripteur à forfait*)
 
- ou ***security*** means
+***security*** means
 - **(a)** in relation to a body corporate, a share of any class of shares of the body corporate or a debt obligation of the body corporate, and includes a warrant of the body corporate, but does not include a deposit with a financial institution or any instrument evidencing such a deposit, and
 - **(b)** in relation to any other entity, any ownership interest in or debt obligation of the entity,
 
-but does not include a policy;
+but does not include a policy; (*titre* ou *valeur mobilière*)
 
-***security interest*** means an interest in or charge on property by way of mortgage, lien, pledge or otherwise taken by a creditor or guarantor to secure the payment or performance of an obligation;
+***security interest*** means an interest in or charge on property by way of mortgage, lien, pledge or otherwise taken by a creditor or guarantor to secure the payment or performance of an obligation; (*sûreté*)
 
-***send*** includes deliver;
+***send*** includes deliver; (*envoyer*)
 
-***series***, in respect of shares, means a division of a class of shares;
+***series***, in respect of shares, means a division of a class of shares; (*série*)
 
-***significant interest*** means a significant interest determined in accordance with section 8;
+***significant interest*** means a significant interest determined in accordance with section 8; (*intérêt substantiel*)
 
-***society*** means a body corporate referred to in subsection 13(2) that is a fraternal benefit society;
+***society*** means a body corporate referred to in subsection 13(2) that is a fraternal benefit society; (*société de secours*)
 
-***special resolution*** means a resolution passed by a majority of not less than two thirds of the votes cast by or on behalf of the shareholders and policyholders and, in the case of a fraternal benefit society, the members, who voted in respect of that resolution or signed by all the shareholders, policyholders and members entitled to vote on that resolution;
+***special resolution*** means a resolution passed by a majority of not less than two thirds of the votes cast by or on behalf of the shareholders and policyholders and, in the case of a fraternal benefit society, the members, who voted in respect of that resolution or signed by all the shareholders, policyholders and members entitled to vote on that resolution; (*résolution extraordinaire*)
 
-***squeeze-out transaction*** means a transaction by a company that is not a distributing company, or an insurance holding company that is not a distributing insurance holding company, that requires an amendment to a by-law referred to in subsection 238(1) or 851(1), as the case may be, and that would directly or indirectly result in the interest of a holder of shares of a class of shares being terminated without their consent and without substituting an interest of equivalent value in shares that are issued by the following persons and have rights and privileges equal to or greater than those of the shares of the affected class:
+***squeeze-out transaction*** means a transaction by a company that is not a distributing company, or an insurance holding company that is not a distributing insurance holding company, that requires an amendment to a by-law referred to in subsection 238(1) or 851(1), as the case may be, and that would directly or indirectly result in the interest of a holder of shares of a class of shares being terminated without their consent and without substituting an interest of equivalent value in shares that are issued by the following persons and have rights and privileges equal to or greater than those of the shares of the affected class:
 - **(a)** in the case of a company, the company, and
-- **(b)** in the case of an insurance holding company, the insurance holding company;
+- **(b)** in the case of an insurance holding company, the insurance holding company; (*transaction d’éviction*)
 
-***subordinated indebtedness*** means an instrument evidencing an indebtedness of a company that by its terms provides that the indebtedness will, in the event of the insolvency or winding-up of the company, be subordinate in right of payment to all policy liabilities of the company and all other liabilities of the company except those other liabilities that, by their terms, rank equally with or are subordinate to such indebtedness;
+***subordinated indebtedness*** means an instrument evidencing an indebtedness of a company that by its terms provides that the indebtedness will, in the event of the insolvency or winding-up of the company, be subordinate in right of payment to all policy liabilities of the company and all other liabilities of the company except those other liabilities that, by their terms, rank equally with or are subordinate to such indebtedness; (*titre secondaire*)
 
-***subsidiary*** means an entity that is a subsidiary of another entity within the meaning of section 5;
+***subsidiary*** means an entity that is a subsidiary of another entity within the meaning of section 5; (*filiale*)
 
-***substantial investment*** means a substantial investment determined in accordance with section 10;
+***substantial investment*** means a substantial investment determined in accordance with section 10; (*intérêt de groupe financier*)
 
-***Superintendent*** means the Superintendent of Financial Institutions appointed pursuant to the [Office of the Superintendent of Financial Institutions Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2018%20(3rd%20Supp.),%20Part%20I.md);
+***Superintendent*** means the Superintendent of Financial Institutions appointed pursuant to the [Office of the Superintendent of Financial Institutions Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2018%20(3rd%20Supp.),%20Part%20I.md); (*surintendant*)
 
-***total assets***, in respect of a company, society, provincial company or insurance holding company, has the meaning given that expression by the regulations;
+***total assets***, in respect of a company, society, provincial company or insurance holding company, has the meaning given that expression by the regulations; (*actif total*)
 
-***trade***, in respect of securities, means any sale or disposition of securities for valuable consideration;
+***trade***, in respect of securities, means any sale or disposition of securities for valuable consideration; (*opération*)
 
-***transfer***, in respect of securities, includes a transmission by operation of law;
+***transfer***, in respect of securities, includes a transmission by operation of law; (*transfert*)
 
-***voting share*** means a share of any class of shares of a body corporate carrying voting rights under all circumstances or by reason of an event that has occurred and is continuing or by reason of a condition that has been fulfilled;
+***voting share*** means a share of any class of shares of a body corporate carrying voting rights under all circumstances or by reason of an event that has occurred and is continuing or by reason of a condition that has been fulfilled; (*action avec droit de vote*)
 
-***WTO Member resident*** means a WTO Member resident within the meaning of section 11.1.
+***WTO Member resident*** means a WTO Member resident within the meaning of section 11.1. (*résident d’un membre de l’OMC*)
 
 **Provincial company status**
 
-- **(1.1)** A company referred to in the definition ***provincial company*** in subsection (1) ceases to be a provincial company for the purposes of this Act if the order made by the Superintendent under subsection 657(1) approving the commencement and carrying on of business by the company is revoked.
+- **(1.1)** A company referred to in the definition ***provincial company*** in subsection (1) ceases to be a provincial company for the purposes of this Act if the order made by the Superintendent under subsection 657(1) approving the commencement and carrying on of business by the company is revoked.
 
 **Policy loans**
 
@@ -310,7 +310,7 @@ but does not include a policy;
 **Widely held**
 
 - **(4)** For the purposes of this Act, a body corporate is widely held if it has no major shareholder.
-> 1991, c. 47, ss. 2, 758, c. 48, s. 495; 1992, c. 51, s. 55; 1996, c. 6, s. 66; 1997, c. 15, s. 165; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 70, c. 28, s. 118; 2000, c. 12, s. 153; 2001, c. 9, s. 345, c. 27, s. 255; 2002, c. 7, s. 187(E); 2005, c. 54, s. 214; 2007, c. 6, s. 186; 2010, c. 12, s. 2117; 2012, c. 5, s. 122; 2015, c. 3, s. 120.
+> 1991, c. 47, ss. 2, 758, c. 48, s. 495; 1992, c. 51, s. 55; 1996, c. 6, s. 66; 1997, c. 15, s. 165; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 70, c. 28, s. 118; 2000, c. 12, s. 153; 2001, c. 9, s. 345, c. 27, s. 255; 2002, c. 7, s. 187(E); 2005, c. 54, s. 214; 2007, c. 6, s. 186; 2010, c. 12, s. 2117; 2012, c. 5, s. 122; 2014, c. 39, s. 302; 2015, c. 3, s. 120.
 
 
 
