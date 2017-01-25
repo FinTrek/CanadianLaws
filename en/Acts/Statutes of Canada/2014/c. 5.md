@@ -648,6 +648,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **28** Fishing Lake First Nation
 - **29** Waywayseecappo First Nation
 - **30** Mistawasis Nehiyawak
-> 2014, c. 5, Sch.; SOR/2015-136, s. 1; SOR/2015-149, s. 1; SOR/2015-208, s. 1; SOR/2015-218, s. 1; SOR/2016-2, s. 1; SOR/2016-53, s. 1; SOR/2016-55, s. 1; SOR/2016-57, s. 1; SOR/2016-110, s. 1; SOR/2016-112, s. 1; SOR/2016-114, s. 1; SOR/2016-116, s. 1; SOR/2016-118, s. 1; SOR/2016-215, s. 1; SOR/2016-217, s. 1; SOR/2016-219, s. 1; SOR/2016-221, s. 1; SOR/2016-223, s. 1; SOR/2016-225, s. 1; SOR/2016-237, s. 1; SOR/2016-246, s. 1; SOR/2016-248, s. 1; SOR/2016-250, s. 1; SOR/2016-264, s. 1; SOR/2016-266, s. 1; SOR/2016-330, s. 1; SOR/2016-332, s. 1; SOR/2016-334, s. 1.
+- **31** Birdtail Sioux First Nation
+- **32** Tla-o-qui-aht First Nations
+> 2014, c. 5, Sch.; SOR/2015-136, s. 1; SOR/2015-149, s. 1; SOR/2015-208, s. 1; SOR/2015-218, s. 1; SOR/2016-2, s. 1; SOR/2016-53, s. 1; SOR/2016-55, s. 1; SOR/2016-57, s. 1; SOR/2016-110, s. 1; SOR/2016-112, s. 1; SOR/2016-114, s. 1; SOR/2016-116, s. 1; SOR/2016-118, s. 1; SOR/2016-215, s. 1; SOR/2016-217, s. 1; SOR/2016-219, s. 1; SOR/2016-221, s. 1; SOR/2016-223, s. 1; SOR/2016-225, s. 1; SOR/2016-237, s. 1; SOR/2016-246, s. 1; SOR/2016-248, s. 1; SOR/2016-250, s. 1; SOR/2016-264, s. 1; SOR/2016-266, s. 1; SOR/2016-330, s. 1; SOR/2016-332, s. 1; SOR/2016-334, s. 1; SOR/2017-3, s. 1; SOR/2017-5, s. 1.
 
 
