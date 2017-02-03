@@ -2701,9 +2701,7 @@ Paruline de Kirtland (*Dendroica kirtlandii*)<br />- <i>Warbler, Kirtland’s</i
 
 Paruline orangée (*Protonotaria citrea*)<br />- <i>Warbler, Prothonotary</i>
 
-Paruline polyglotte de la sous-espèce *auricollis* (*Icteria virens auricollis*) population de la Colombie-Britannique<br />- <i>*Chat auricollis* subspecies, Yellow-breasted British Columbia population</i>
-
-Petit-duc des montagnes de la sous-espèce *macfarlanei* (*Megascops kennicottii macfarlanei*)<br />- <i>Screech-owl *macfarlanei* subspecies, Western</i>
+Paruline polyglotte de la sous-espèce *auricollis* (*Icteria virens auricollis*) population des montagnes du Sud<br />- <i>Chat *auricollis* subspecies, Yellow-breasted Southern Mountain population</i>
 
 Pic à tête blanche (*Picoides albolarvatus*)<br />- <i>Woodpecker, White-headed</i>
 
@@ -2878,6 +2876,8 @@ Villeuse irisée (*Villosa iris*)<br />- <i>Mussel, Rainbow</i>
 
 ##### Arthropodes
 
+Asile de l’Okanagan (*Efferia okanagana*)<br />- <i>Efferia, Okanagan</i>
+
 Bleu insulaire (*Plebejus saepiolus insulanus*)<br />- <i>Blue, Island</i>
 
 Bourdon à tache rousse (*Bombus affinis*)<br />- <i>Bumble Bee, Rusty-patched</i>
@@ -2893,6 +2893,8 @@ Damier de Taylor (*Euphydryas editha taylori*)<br />- <i>Checkerspot, Taylor’s
 Fausse-teigne à cinq points du yucca (*Prodoxus quinquepunctellus*)<br />- <i>Moth, Five-spotted Bogus Yucca</i>
 
 Gomphe des rapides (*Gomphus quadricolor*)<br />- <i>Clubtail, Rapids</i>
+
+Gomphe olive (*Stylurus olivaceus*)<br />- <i>Clubtail, Olive</i>
 
 Héliotin blanc satiné (*Schinia bimatris*)<br />- <i>Flower Moth, White</i>
 
@@ -2915,6 +2917,8 @@ Noctuelle de l’abronie (*Copablepharon fuscum*)<br />- <i>Moth, Sand-verbena</
 Noctuelle sombre des dunes (*Copablepharon longipenne*)<br />- <i>Moth, Dusky Dune</i>
 
 Perce-tige d’Aweme (*Papaipema aweme*)<br />- <i>Borer, Aweme</i>
+
+Porte-queue de Behr (*Satyrium behrii*)<br />- <i>Hairstreak, Behr’s</i>
 
 Porte-queue demi-lune (*Satyrium semiluna*)<br />- <i>Hairstreak, Half-moon</i>
 
@@ -2976,8 +2980,6 @@ Collomia délicat (*Collomia tenella*)<br />- <i>Collomia, Slender</i>
 Coréopsis rose (*Coreopsis rosea*)<br />- <i>Coreopsis, Pink</i>
 
 Cornouiller fleuri (*Cornus florida*)<br />- <i>Dogwood, Eastern Flowering</i>
-
-Cryptanthe minuscule (*Cryptantha minima*)<br />- <i>Cryptantha, Tiny</i>
 
 Cypripède blanc (*Cypripedium candidum*)<br />- <i>Lady’s-slipper, Small White</i>
 
@@ -3105,7 +3107,7 @@ Trille à pédoncule incliné (*Trillium flexipes*)<br />- <i>Trillium, Drooping
 
 Triphore penché (*Triphora trianthophora*)<br />- <i>Pogonia, Nodding</i>
 
-Triphysaire versicolore (*Triphysaria versicolor* ssp. *versicolor*)<br />- <i>Owl-clover, Bearded</i>
+Triphysaire versicolore (*Triphysaria versicolor*)<br />- <i>Owl-clover, Bearded</i>
 
 Tritéléia de Howell (*Triteleia howellii*)<br />- <i>Triteleia, Howell’s</i>
 
@@ -3127,6 +3129,8 @@ Violette pédalée (*Viola pedata*)<br />- <i>Violet, Bird’s-foot</i>
 Érioderme mou (*Erioderma mollissimum*)<br />- <i>Lichen, Vole Ears</i>
 
 Hétérodermie maritime (*Heterodermia sitchensis*)<br />- <i>Lichen, Seaside Centipede</i>
+
+Leptoge à grosses spores (*Leptogium platynum*)<br />- <i>Lichen, Batwing Vinyl</i>
 
 Physconie pâle (*Physconia subpallida*)<br />- <i>Lichen, Pale-bellied Frost</i>
 
@@ -3222,6 +3226,10 @@ Paruline à capuchon (*Wilsonia citrina*)<br />- <i>Warbler, Hooded</i>
 Paruline du Canada (*Wilsonia canadensis*)<br />- <i>Warbler, Canada</i>
 
 Petit Blongios (*Ixobrychus exilis*)<br />- <i>Bittern, Least</i>
+
+Petit-duc des montagnes de la sous-espèce *kennicottii* (*Megascops kennicottii kennicottii*)<br />- <i>Screech-owl *kennicottii* subspecies, Western</i>
+
+Petit-duc des montagnes de la sous-espèce *macfarlanei* (*Megascops kennicottii macfarlanei*)<br />- <i>Screech-owl *macfarlanei* subspecies, Western</i>
 
 Petite Nyctale de la sous-espèce *brooksi* (*Aegolius acadicus brooksi*)<br />- <i>Owl *brooksi* subspecies, Northern Saw-whet</i>
 
@@ -3334,8 +3342,6 @@ Hespérie rurale (*Euphyes vestris*) population de l’Ouest<br />- <i>Skipper, 
 
 Mormon (*Apodemia mormo*) population des Prairies<br />- <i>Metalmark, Mormon Prairie population</i>
 
-Porte-queue de Colombie-Britannique (*Satyrium behrii columbia*)<br />- <i>Hairstreak, Behr’s (Columbia)</i>
-
 
 
 
@@ -3363,10 +3369,6 @@ Bartonie paniculée (*Bartonia paniculata* ssp. *paniculata*)<br />- <i>Bartonia
 
 Braya de Fernald (*Braya fernaldii*)<br />- <i>Braya, Fernald’s</i>
 
-Buchloé faux-dactyle (*Buchloë dactyloides*)<br />- <i>Buffalograss</i>
-
-Calochorte de Lyall (*Calochortus lyallii*)<br />- <i>Lilly, Lyall’s Mariposa</i>
-
 Camassie faux-scille (*Camassia scilloides*)<br />- <i>Hyacinth, Wild</i>
 
 Carex des sables (*Carex sabulosa*)<br />- <i>Sedge, Baikal</i>
@@ -3383,7 +3385,7 @@ Chénopode glabre (*Chenopodium subglabrum*)<br />- <i>Goosefoot, Smooth</i>
 
 Chicot févier (*Gymnocladus dioicus*)<br />- <i>Coffee-tree, Kentucky</i>
 
-Dalée velue (*Dalea villosa* var. *villosa*)<br />- <i>Prairie-clover, Hairy</i>
+Cryptanthe minuscule (*Cryptantha minima*)<br />- <i>Cryptantha, Tiny</i>
 
 Gentiane de Victorin (*Gentianopsis virgata* ssp. *victorinii*)<br />- <i>Gentian, Victorin’s</i>
 
@@ -3442,6 +3444,8 @@ Yucca glauque (*Yucca glauca*)<br />- <i>Soapweed</i>
 
 ##### Lichens
 
+Collème bâche (*Collema coniophilum*)<br />- <i>Lichen, Crumpled Tarpaper</i>
+
 Hypogymnie maritime (*Hypogymnia heterophylla*)<br />- <i>Bone, Seaside</i>
 
 Leptoge des terrains inondés (*Leptogium rivulare*)<br />- <i>Jellyskin, Flooded</i>
@@ -3496,6 +3500,8 @@ Otarie de Steller (*Eumetopias jubatus*)<br />- <i>Sea Lion, Steller</i>
 
 Ours blanc (*Ursus maritimus*)<br />- <i>Bear, Polar</i>
 
+Pica à collier (*Ochotona collaris*)<br />- <i>Pika, Collared</i>
+
 Rorqual commun (*Balaenoptera physalus*) population de l’Atlantique<br />- <i>Whale, Fin Atlantic population</i>
 
 Souris des moissons de la sous-espèce *megalotis* (*Reithrodontomys megalotis megalotis*)<br />- <i>Mouse *megalotis* subspecies, Western Harvest</i>
@@ -3513,6 +3519,10 @@ Arlequin plongeur (*Histrionicus histrionicus*) population de l’Est<br />- <i>
 
 Bécasseau maubèche de la sous-espèce *islandica* (*Calidris canutus islandica*)<br />- <i>Knot *islandica* subspecies, Red</i>
 
+Bécasseau roussâtre (*Tryngites subruficollis*)<br />- <i>Sandpiper, Buff-breasted</i>
+
+Bruant de Baird (*Ammodramus bairdii*)<br />- <i>Sparrow, Baird’s</i>
+
 Bruant de McCown (*Calcarius mccownii*)<br />- <i>Longspur, McCown’s</i>
 
 Bruant des prés de la sous-espèce *princeps* (*Passerculus sandwichensis princeps*)<br />- <i>Sparrow princeps subspecies, Savannah</i>
@@ -3529,6 +3539,8 @@ Garrot d’Islande (*Bucephala islandica*) population de l’Est<br />- <i>Golde
 
 Grand héron de la sous-espèce *fannini* (*Ardea herodias fannini*)<br />- <i>Heron *fannini* subspecies, Great Blue</i>
 
+Grèbe esclavon (*Podiceps auritus*) population de l’Ouest<br />- <i>Grebe, Horned Western population</i>
+
 Guillemot à cou blanc (*Synthliboramphus antiquus*)<br />- <i>Murrelet, Ancient</i>
 
 Hibou des marais (*Asio flammeus*)<br />- <i>Owl, Short-eared</i>
@@ -3538,8 +3550,6 @@ Paruline azurée (*Dendroica cerulea*)<br />- <i>Warbler, Cerulean</i>
 Paruline hochequeue (*Seiurus motacilla*)<br />- <i>Waterthrush, Louisiana</i>
 
 Paruline polyglotte de la sous-espèce *virens* (*Icteria virens virens*)<br />- <i>Chat virens subspecies, Yellow-breasted</i>
-
-Petit-duc des montagnes de la sous-espèce *kennicottii* (*Megascops kennicottii kennicottii*)<br />- <i>Screech-owl kennicottii subspecies, Western</i>
 
 Petit-duc nain (*Otus flammeolus*)<br />- <i>Owl, Flammulated</i>
 
@@ -3663,6 +3673,8 @@ Lampsile fasciolée (*Lampsilis fasciola*)<br />- <i>Lampmussel, Wavy-rayed</i>
 
 Lampsile jaune (*Lampsilis cariosa*)<br />- <i>Lampmussel, Yellow</i>
 
+Limace à grand manteau (*Magnipelta mycophaga*)<br />- <i>Mantleslug, Magnum</i>
+
 Limace-sauteuse glanduleuse (*Hemphillia glandulosa*)<br />- <i>Jumping-slug, Warty</i>
 
 Vertigo à crêtes fines (*Nearctula* sp.)<br />- <i>Vertigo, Threaded</i>
@@ -3677,6 +3689,8 @@ Amiral de Weidemeyer (*Limenitis weidemeyerii*)<br />- <i>Weidemeyer’s Admiral
 Hespérie du Sonora (*Polites sonora*)<br />- <i>Skipper, Sonora</i>
 
 Monarque (*Danaus plexippus*)<br />- <i>Monarch</i>
+
+Mouche tachinide des dunes (*Germaria angustata*)<br />- <i>Tachinid Fly, Dune</i>
 
 Noctuelle jaune pâle des dunes (*Copablepharon grandis*)<br />- <i>Moth, Pale Yellow Dune</i>
 
@@ -3697,9 +3711,15 @@ Aster rigide (*Sericocarpus rigidus*)<br />- <i>Aster, White-top</i>
 
 Astragale de Fernald (*Astragalus robbinsii* var. *fernaldii*)<br />- <i>Milk-vetch, Fernald’s</i>
 
+Buchloé faux-dactyle (*Bouteloua dactyloides*)<br />- <i>Buffalograss</i>
+
+Calochorte de Lyall (*Calochortus lyallii*)<br />- <i>Lily, Lyall’s Mariposa</i>
+
 Cicutaire de Victorin (*Cicuta maculata* var. *victorinii*)<br />- <i>Water-hemlock, Victorin’s</i>
 
 Clèthre à feuilles d’aulne (*Clethra alnifolia*)<br />- <i>Pepperbush, Sweet</i>
+
+Dalée velue (*Dalea villosa*)<br />- <i>Prairie-clover, Hairy</i>
 
 Deschampsie du bassin du Mackenzie (*Deschampsia mackenzieana*)<br />- <i>Hairgrass, Mackenzie</i>
 
@@ -3765,6 +3785,8 @@ Tortule à poils lisses (*Syntrichia laevipila*)<br />- <i>Moss, Twisted Oak</i>
 
 Érioderme boréal (*Erioderma pedicellatum*) population boréale<br />- <i>Lichen, Boreal Felt Boreal population</i>
 
+Leptoge à quatre spores (*Leptogium polycarpum*)<br />- <i>Lichen, Peacock Vinyl</i>
+
 Néphrome cryptique (*Nephroma occultum*)<br />- <i>Lichen, Cryptic Paw</i>
 
 Pseudocyphellie des forêts surannées (*Pseudocyphellaria rainierensis*)<br />- <i>Lichen, Oldgrowth Specklebelly</i>
@@ -3772,7 +3794,7 @@ Pseudocyphellie des forêts surannées (*Pseudocyphellaria rainierensis*)<br />-
 Sclérophore givré (*Sclerophora peronella*) population de la Nouvelle-Écosse<br />- <i>Glass-whiskers, Frosted Nova Scotia population</i>
 
 
-> 2002, ch. 29, ann. 1; DORS/2005-14, art. 1 à 53; DORS/2005-224, art. 1 à 32; DORS/2006-60, art. 1 et 2; DORS/2006-189, art. 1 à 22, 23(F) et 24 à 26; DORS/2007-284, DORS/2009-86; DORS/2010-32, 33; DORS/2011-8, 128, 233; DORS/2012-133; DORS/2013-34; DORS/2014-274.
+> 2002, ch. 29, ann. 1; DORS/2005-14, art. 1 à 53; DORS/2005-224, art. 1 à 32; DORS/2006-60, art. 1 et 2; DORS/2006-189, art. 1 à 22, 23(F) et 24 à 26; DORS/2007-284, DORS/2009-86; DORS/2010-32, 33; DORS/2011-8, 128, 233; DORS/2012-133; DORS/2013-34; DORS/2014-274; DORS/2017-10.
 
 
 
