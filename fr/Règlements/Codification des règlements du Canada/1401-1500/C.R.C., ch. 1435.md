@@ -967,7 +967,9 @@ et les puits qui y conduisent; *service spaces*
 
 **26** Tout bateau de pêche dont la construction a débuté après le 31 mai 1974 doit être muni d’un système d’étouffement par anhydride carbonique
 - **a)** qui se décharge dans la tranche des machines; et
-- **b)** qui est conforme aux prescriptions de l’article 3 de l’annexe III du [Règlement sur le matériel de détection et d’extinction d’incendie](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1401-1500/C.R.C.,%20ch.%201422.md).
+- **b)** qui est conforme aux prescriptions de l’article 3 de l’annexe III du [Règlement sur le matériel de détection et d’extinction d’incendie](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1401-1500/C.R.C.,%20ch.%201422.md), dans sa version antérieure à son abrogation.
+> DORS/2017-14, art. 408.
+
 
 
 
@@ -1375,7 +1377,7 @@ et pour faciliter l’inspection
 		- **(x)** pompes et tuyautages de cale et de ballast,
 		- **(xi)** soutes à mazout distinctes de la coque,
 		- **(xii)** disposition des appareils à gouverner principal et auxiliaire avec détails du secteur et de la barre,
-		- **(xiii)** plans du matériel fixe d’extinction d’incendie, comme il est indiqué à l’article 6 du [Règlement sur le matériel de détection et d’extinction d’incendie](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1401-1500/C.R.C.,%20ch.%201422.md),
+		- **(xiii)** plans du matériel fixe d’extinction d’incendie, tel qu’il est indiqué à l’article 6 du [Règlement sur le matériel de détection et d’extinction d’incendie](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1401-1500/C.R.C.,%20ch.%201422.md), dans sa version antérieure à son abrogation,
 		- **(xiv)** gouvernail,
 		- **(xv)** étrave, étambot ou cadre d’hélice,
 		- **(xvi)** épontilles et poutres,
@@ -1442,9 +1444,9 @@ et pour faciliter l’inspection
 **(6)** Propriétés physiques des principales pièces forgées et coulées.
 
 
->  DORS/80-249, art. 21 à 24.
 
 
+>  DORS/80-249, art. 21 à 24; DORS/2017-14, art. 409.
 
 
 
