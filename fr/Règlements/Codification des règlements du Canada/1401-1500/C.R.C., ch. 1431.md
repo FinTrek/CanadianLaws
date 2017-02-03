@@ -24,87 +24,81 @@ Autorités habilitantes :
 
 **2** Dans le présent règlement,
 
-***approuvé*** signifie approuvé par le Bureau d’inspection des navires à vapeur; (*approved*)
+***approuvé*** signifie approuvé par le Bureau d’inspection des navires à vapeur; (*approved*)
 
-***Bureau*** désigne le Bureau d’inspection des navires à vapeur; (*Board*)
+***Bureau*** désigne le Bureau d’inspection des navires à vapeur; (*Board*)
 
 ***cabine de radiotélégraphie***[Abrogée, DORS/2000-264, art. 1]
 
-***cloison type A*** signifie une cloison ou une partie de pont répondant aux prescriptions du paragraphe 41(1); (*“A” Class division*)
+***cloison type A***[Abrogée, DORS/2017-14, art. 400]
 
-***cloison type B*** signifie une cloison répondant aux prescriptions du paragraphe 41(2); (*“B” Class division*)
+***cloison type B***[Abrogée, DORS/2017-14, art. 400]
 
-***critérium***, appliqué à un navire, signifie le critérium d’un navire, déterminé suivant les dispositions de l’article 5 de l’annexe I; (*criterion numeral*)
+***critérium***, appliqué à un navire, signifie le critérium d’un navire, déterminé suivant les dispositions de l’article 5 de l’annexe I; (*criterion numeral*)
 
-***espace à passagers*** signifie un espace prévu pour l’usage des passagers; (*passenger space*)
+***espace à passagers*** signifie un espace prévu pour l’usage des passagers; (*passenger space*)
 
-***essai au feu standard*** signifie un essai au cours duquel, dans le four d’essai, on réalise les températures suivantes en fonction du temps :
-- **a)** au bout des cinq premières minutes — 538 °C,
-- **b)** au bout des 10 premières minutes — 704 °C,
-- **c)** au bout des 30 premières minutes — 843 °C,
-- **d)** au bout des 60 premières minutes — 927 °C; (*standard fire test*)
+***essai au feu standard***[Abrogée, DORS/2017-14, art. 400]
 
-***étanche***, appliqué à une structure, signifie propre à empêcher l’eau de passer à travers la structure dans un sens ou dans l’autre sous la pression d’une colonne d’eau s’élevant jusqu’à la ligne de surimmersion du navire; (*watertight*)
+***étanche***, appliqué à une structure, signifie propre à empêcher l’eau de passer à travers la structure dans un sens ou dans l’autre sous la pression d’une colonne d’eau s’élevant jusqu’à la ligne de surimmersion du navire; (*watertight*)
 
-***étanche aux intempéries***, appliqué à une structure, signifie propre à empêcher l’eau de mer de passer à travers la structure dans des conditions ordinaires de navigation; (*weathertight*)
+***étanche aux intempéries***, appliqué à une structure, signifie propre à empêcher l’eau de mer de passer à travers la structure dans des conditions ordinaires de navigation; (*weathertight*)
 
-***facteur de cloisonnement***, appliqué à un navire ou à l’une quelconque de ses parties, signifie le facteur de cloisonnement déterminé suivant les dispositions des articles 4 et 9 de l’annexe I applicables audit navire ou à ladite partie; (*factor of subdivision*)
+***facteur de cloisonnement***, appliqué à un navire ou à l’une quelconque de ses parties, signifie le facteur de cloisonnement déterminé suivant les dispositions des articles 4 et 9 de l’annexe I applicables audit navire ou à ladite partie; (*factor of subdivision*)
 
-***largeur du navire*** signifie la largeur hors membres au fort, mesurée à la ligne de charge maximum de compartimentage ou au-dessous de cette ligne; (*breadth of the ship*)
+***largeur du navire*** signifie la largeur hors membres au fort, mesurée à la ligne de charge maximum de compartimentage ou au-dessous de cette ligne; (*breadth of the ship*)
 
-***ligne de charge de compartimentage*** signifie la flottaison considérée dans la détermination du compartimentage du navire conformément au présent règlement; (*subdivision load water line*)
+***ligne de charge de compartimentage*** signifie la flottaison considérée dans la détermination du compartimentage du navire conformément au présent règlement; (*subdivision load water line*)
 
-***ligne de charge maximum de compartimentage*** signifie la flottaison qui correspond au tirant d’eau le plus élevé; (*deepest subdivision loadline*)
+***ligne de charge maximum de compartimentage*** signifie la flottaison qui correspond au tirant d’eau le plus élevé; (*deepest subdivision loadline*)
 
-***ligne de surimmersion*** signifie une ligne tracée sur le bordé à 76 mm au moins au-dessous de la surface supérieure du pont de cloisonnement et considérée dans la détermination de la longueur envahissable du navire; (*margin line*)
+***ligne de surimmersion*** signifie une ligne tracée sur le bordé à 76 mm au moins au-dessous de la surface supérieure du pont de cloisonnement et considérée dans la détermination de la longueur envahissable du navire; (*margin line*)
 
 ***locaux de machines***[Abrogée, DORS/90-240, art. 1]
 
-***locaux de machines*** ou ***tranche des machines*** désigne :
-- **a)** dans les parties III et V, l’espace où sont situés les machines de propulsion, les machines frigorifiques, les chaudières, les pompes, les ateliers des mécaniciens, les génératrices, les installations de ventilation ou de climatisation ou les postes de mazoutage, ainsi que les puits y aboutissant,
-- **b)** dans les parties autres que les parties IX et X, l’espace compris, d’une part, entre la partie supérieure de la quille et la ligne de surimmersion du navire et, d’autre part, entre les cloisons étanches transversales qui limitent l’espace occupé par les machines de propulsion principales et auxiliaires, par la chaudière et par les soutes à charbon permanentes; (*machinery space*)
+***locaux de machines*** ou ***tranche des machines*** désigne l’espace compris, d’une part, entre la partie supérieure de la quille et la ligne de surimmersion du navire et, d’autre part, entre les cloisons étanches transversales qui limitent l’espace occupé par les machines de propulsion principales et auxiliaires, par la chaudière et par les soutes à charbon permanentes; (*machinery space*)
 
-***locaux de réunion*** comprend les halls, les salles à manger, les bars, les fumoirs, les salons, les salles de récréation, les pièces réservées aux enfants et les bibliothèques; (*public rooms*)
+***locaux de réunion***[Abrogée, DORS/2017-14, art. 400]
 
-***locaux de service*** comprend les cuisines, les offices principaux, les buanderies, les magasins, les magasins à peinture, les soutes à bagages, les soutes à dépêches, les soutes à valeurs, les ateliers de menuiserie et de plomberie, ainsi que les entourages de descentes qui y conduisent; (*service space*)
+***locaux de service*** comprend les cuisines, les offices principaux, les buanderies, les magasins, les magasins à peinture, les soutes à bagages, les soutes à dépêches, les soutes à valeurs, les ateliers de menuiserie et de plomberie, ainsi que les entourages de descentes qui y conduisent; (*service space*)
 
-***locaux habités*** comprend
+***locaux habités*** comprend
 - **a)** les espaces à passagers,
 - **b)** les locaux affectés à l’équipage,
 - **c)** les bureaux,
 - **d)** les offices, et
-- **e)** les locaux similaires qui ne sont ni des locaux de service ni des espaces découverts sur les ponts; (*accommodation space*)
+- **e)** les locaux similaires qui ne sont ni des locaux de service ni des espaces découverts sur les ponts; (*accommodation space*)
 
-***longueur***, appliquée à un navire, désigne, sauf dans la partie VII, la distance horizontale mesurée entre des perpendiculaires tirées aux points extrêmes de la ligne de charge maximum de compartimentage de ce navire; (*length*)
+***longueur***, appliquée à un navire, désigne, sauf dans la partie VII, la distance horizontale mesurée entre des perpendiculaires tirées aux points extrêmes de la ligne de charge maximum de compartimentage de ce navire; (*length*)
 
-***longueur envahissable***, appliquée à une partie quelconque d’un navire quel que soit le tirant d’eau signifie la longueur maximum de la partie en cause ayant pour centre un point donné du navire et qui, dans les conditions de tirant d’eau et dans l’hypothèse des conditions de perméabilité données à l’annexe I comme s’appliquant dans les circonstances, peut être envahie par l’eau sans qu’aucune partie de la ligne de surimmersion du navire soit immergée si celui-ci n’a pas de bande; (*floodable length*)
+***longueur envahissable***, appliquée à une partie quelconque d’un navire quel que soit le tirant d’eau signifie la longueur maximum de la partie en cause ayant pour centre un point donné du navire et qui, dans les conditions de tirant d’eau et dans l’hypothèse des conditions de perméabilité données à l’annexe I comme s’appliquant dans les circonstances, peut être envahie par l’eau sans qu’aucune partie de la ligne de surimmersion du navire soit immergée si celui-ci n’a pas de bande; (*floodable length*)
 
-***matériau combustible*** signifie un matériau qui ne répond pas à la définition du matériau incombustible; (*combustible material*)
+***matériau combustible***[Abrogée, DORS/2017-14, art. 400]
 
-***matériau incombustible*** signifie un matériau qui, porté à une température de 750 °C, ne brûle pas ni n’émet de vapeurs inflammables en quantité suffisante pour s’enflammer au contact d’une flamme pilote; (*incombustible material*)
+***matériau incombustible***[Abrogée, DORS/2017-14, art. 400]
 
-***ministre*** désigne le ministre des Transports; (*Minister*)
+***ministre*** désigne le ministre des Transports; (*Minister*)
 
 ***navire***[Abrogée, DORS/95-254, art. 1]
 
-***navire à passagers*** signifie un navire qui transporte des passagers et ***navire à vapeur à passagers*** signifie un navire à vapeur transportant des passagers et, dans le cas d’un navire ressortissant à la Convention de sécurité, un navire à vapeur transportant plus de 12 passagers; (*passenger ship*)
+***navire à passagers*** signifie un navire qui transporte des passagers et ***navire à vapeur à passagers*** signifie un navire à vapeur transportant des passagers et, dans le cas d’un navire ressortissant à la Convention de sécurité, un navire à vapeur transportant plus de 12 passagers; (*passenger ship*)
 
-***navire à vapeur*** désigne un navire mû par des machines; (*steamship*)
+***navire à vapeur*** désigne un navire mû par des machines; (*steamship*)
 
-***navire existant*** signifie un navire qui n’est pas un navire neuf; (*existing ship*)
+***navire existant*** signifie un navire qui n’est pas un navire neuf; (*existing ship*)
 
-***navire-hôtel*** désigne un navire conçu pour le transport des passagers et dont les cabines peuvent être mises à la disposition de personnes à d’autres fins qu’un voyage; (*hotel ship*)
+***navire-hôtel***[Abrogée, DORS/2017-14, art. 400]
 
-***navire ressortissant à la Convention de sécurité*** signifie un navire auquel s’applique la Convention de sécurité; (*Safety Convention ship*)
+***navire ressortissant à la Convention de sécurité*** signifie un navire auquel s’applique la Convention de sécurité; (*Safety Convention ship*)
 
-***navire neuf*** désigne
+***navire neuf*** désigne
 - **a)** un navire ressortissant à la Convention de sécurité, dont la quille a été posée le 26 mai 1965 ou après cette date,
 - **b)** un navire, autre qu’un navire à passagers, qui a été transformé en navire à passagers ressortissant à la Convention de sécurité le 26 mai 1965 ou après cette date,
 - **c)** un navire, autre qu’un navire ressortissant à la Convention de sécurité, dont la quille a été posée le 7 février 1958 ou après cette date,
 - **d)** un navire qui a été transformé en navire à passagers ne ressortissant pas à la Convention de sécurité le 7 février 1958 ou après cette date, et
-- **e)** un navire qui a été transféré à l’immatriculation canadienne après le 7 février 1958; (*new ship*)
+- **e)** un navire qui a été transféré à l’immatriculation canadienne après le 7 février 1958; (*new ship*)
 
-***passager*** désigne toute personne transportée à bord d’un navire mais ne comprend
+***passager*** désigne toute personne transportée à bord d’un navire mais ne comprend
 - **a)** ni une personne transportée à bord d’un navire ressortissant à la Convention de sécurité et qui est
 	- **(i)** le capitaine ou un membre d’équipage ou une personne employée ou occupée à bord, en quelque qualité que ce soit, pour les besoins du navire, ou
 	- **(ii)** un enfant de moins d’un an,
@@ -113,35 +107,30 @@ Autorités habilitantes :
 	- **(ii)** le propriétaire ou l’affréteur du navire, un membre de sa famille ou un domestique à son service,
 	- **(iii)** un invité du propriétaire ou de l’affréteur du navire, si celui-ci est utilisé exclusivement à des fins d’agrément et si l’invité est transporté sur ce navire sans rémunération ou intention de profit, ou
 	- **(iv)** un enfant de moins d’un an,
-- **c)** ni une personne transportée sur un navire, soit en exécution de l’obligation qui incombe au capitaine de transporter des naufragés, des personnes en détresse ou d’autres personnes, soit par suite de circonstances que ni le capitaine ni le propriétaire ni l’affréteur (s’il en est) ne pouvaient empêcher ni prévenir; (*passenger*)
+- **c)** ni une personne transportée sur un navire, soit en exécution de l’obligation qui incombe au capitaine de transporter des naufragés, des personnes en détresse ou d’autres personnes, soit par suite de circonstances que ni le capitaine ni le propriétaire ni l’affréteur (s’il en est) ne pouvaient empêcher ni prévenir; (*passenger*)
 
-***perméabilité***, appliquée à un espace, signifie le pourcentage de cet espace, au-dessous de la ligne de surimmersion du navire, qui peut être envahi par l’eau, en supposant qu’il est employé aux fins auxquelles il est destiné; (*permeability*)
+***perméabilité***, appliquée à un espace, signifie le pourcentage de cet espace, au-dessous de la ligne de surimmersion du navire, qui peut être envahi par l’eau, en supposant qu’il est employé aux fins auxquelles il est destiné; (*permeability*)
 
-***pont de cloisonnement*** signifie le pont le plus élevé jusqu’auquel s’élèvent les cloisons étanches transversales; (*bulkhead deck*)
+***pont de cloisonnement*** signifie le pont le plus élevé jusqu’auquel s’élèvent les cloisons étanches transversales; (*bulkhead deck*)
 
-***poste de sécurité*** S’entend :
-- **a)** d’une salle radio;
-- **b)** de tout autre local fermé qui renferme, selon le cas :
-	- **(i)** un compas, un radiogoniomètre, de l’équipement radar, une roue de gouvernail ou autre appareil similaire utilisé en navigation,
-	- **(ii)** un indicateur central relié à un système de détection d’incendie ou de fumée,
-	- **(iii)** une génératrice de secours. (*control station*)
+***poste de sécurité***[Abrogée, DORS/2017-14, art. 400]
 
-***président*** désigne le président du Bureau d’inspection des navires à vapeur; (*Chairman*)
+***président*** désigne le président du Bureau d’inspection des navires à vapeur; (*Chairman*)
 
-***superstructure*** désigne, sauf dans la partie VIII, une construction pontée située au-dessus du pont de cloisonnement et
+***superstructure*** désigne, sauf dans la partie VIII, une construction pontée située au-dessus du pont de cloisonnement et
 - **a)** se prolongeant d’un bord à l’autre du navire, ou
-- **b)** dont le bordé de côté est situé en retrait du bordé de coque à une distance qui ne dépasse pas quatre pour cent de la largeur du navire; (*superstructure*)
+- **b)** dont le bordé de côté est situé en retrait du bordé de coque à une distance qui ne dépasse pas quatre pour cent de la largeur du navire; (*superstructure*)
 
-***tirant d’eau*** signifie la distance verticale du tracé de la quille hors membres, au milieu, à une ligne de charge de compartimentage; (*draught*)
+***tirant d’eau*** signifie la distance verticale du tracé de la quille hors membres, au milieu, à une ligne de charge de compartimentage; (*draught*)
 
 ***tranches des machines***[Abrogée, DORS/90-240, art. 1]
 
-***tranches verticales principales*** signifie les tranches verticales principales qui résultent de la division de la coque, de la superstructure et des roufs, opérée en conformité du paragraphe 42(2); (*main vertical zones*)
+***tranches verticales principales***[Abrogée, DORS/2017-14, art. 400]
 
-***transbordeur*** signifie tout navire aménagé pour le seul transport de passagers de pont et de véhicules, qui est utilisé sur un petit parcours suivant un horaire entre deux points sur la voie d’eau la plus directe, et offre un service public généralement assuré par un pont ou un tunnel; (*ferry vessel*)
+***transbordeur*** signifie tout navire aménagé pour le seul transport de passagers de pont et de véhicules, qui est utilisé sur un petit parcours suivant un horaire entre deux points sur la voie d’eau la plus directe, et offre un service public généralement assuré par un pont ou un tunnel; (*ferry vessel*)
 
-***voyage international court*** signifie un voyage international d’un port d’un pays à un port d’un autre pays, au cours duquel un navire ne se trouve pas à plus de 200 milles marins d’un port ou lieu où il serait possible de mettre en sûreté les passagers et l’équipage, et dont la longueur ne dépasse pas 600 milles marins entre le dernier port d’escale du pays où commence le voyage et le port final de destination. (*short international voyage*)
-> DORS/78-605, art. 1; DORS/81-86, art. 1; DORS/83-521, art. 1; DORS/90-240, art. 1; DORS/95-254, art. 1 et 32; DORS/2000-264, art. 1.
+***voyage international court*** signifie un voyage international d’un port d’un pays à un port d’un autre pays, au cours duquel un navire ne se trouve pas à plus de 200 milles marins d’un port ou lieu où il serait possible de mettre en sûreté les passagers et l’équipage, et dont la longueur ne dépasse pas 600 milles marins entre le dernier port d’escale du pays où commence le voyage et le port final de destination. (*short international voyage*)
+> DORS/78-605, art. 1; DORS/81-86, art. 1; DORS/83-521, art. 1; DORS/90-240, art. 1; DORS/95-254, art. 1 et 32; DORS/2000-264, art. 1; DORS/2017-14, art. 400.
 
 
 
@@ -158,50 +147,14 @@ Autorités habilitantes :
 	- **a)** aux navires neufs; et
 	- **b)** aux navires existants dans la mesure où le Bureau le juge raisonnable et possible.
 
-- **(3)** La partie III s’applique aux navires à passagers neufs et aux navires à passagers existants ressortissant à la Convention de sécurité et dont la quille a été posée le 19 novembre 1952 ou après cette date.
-
-- **(4)** La partie IV s’applique aux navires à passagers existants ressortissant à la Convention de sécurité, transportant plus de 36 passagers et dont la quille a été posée avant le 19 novembre 1952, ainsi qu’aux navires-hôtels.
-
-- **(5)** La partie V s’applique aux navires à passagers existants ne ressortissant pas à la Convention de sécurité et dont la quille a été posée avant le 7 février 1958.
-
-- **(6)** La partie VI s’applique aux navires ressortissant à la Convention de sécurité, transportant au plus 12 passagers et dont la quille a été posée le 26 mai 1965 ou après cette date.
-
-- **(6.1)** Nonobstant le paragraphe (6) et l’article 75, la partie VI ne s’applique pas aux navires auxquels les parties IX ou X s’appliquent.
+- **(3) à (6.1)** [Abrogés, DORS/2017-14, art. 401]
 
 - **(7)** La partie VII s’applique à tous les navires tant à passagers que non à passagers.
 
 - **(8)** La partie VIII s’applique à un navire à vapeur d’une jauge brute de plus de cinq tonneaux, construit ou transformé en vue du remorquage, mais ne s’applique pas à un tel navire qui sert au remorquage exclusivement en vue de récupérer des billes.
 
-- **(9)** Sous réserve des paragraphes (11) et (12), la partie IX s’applique
-	- **a)** à tout navire neuf, au sens de la partie IX, qui est un navire-citerne ou un transporteur mixte, au sens de la partie IX, d’une jauge brute égale ou supérieure à 500 tonneaux,
-	- **b)** à tout navire existant, au sens de la partie IX, qui est un navire-citerne ou un transporteur mixte, au sens de la partie IX, d’une jauge brute égale ou supérieure à 500 tonneaux,
-		- **(i)** dont la quille a été posée ou qui en était à un stade similaire de construction le 28 juillet 1978 ou après cette date,
-		- **(ii)** qui a été transformé en navire-citerne ou en transporteur mixte le 28 juillet 1978 ou après cette date, ou
-		- **(iii)** qui a initialement été immatriculé au Canada le 28 juillet 1978 ou après cette date, et
-	- **c)** à tout navire existant, au sens de la partie IX, qui est un navire-citerne ou un transporteur mixte, au sens de la partie IX, d’une jauge brute égale ou supérieure à 2 000 tonneaux,
-		- **(i)** dont la quille a été posée ou qui en était à un stade similaire de construction avant le 28 juillet 1978,
-		- **(ii)** qui a été transformé en navire-citerne ou en transporteur mixte avant le 28 juillet 1978, ou
-		- **(iii)** qui a initialement été immatriculé au Canada avant le 28 juillet 1978,
-qui transportent en vrac
-	- **d)** du pétrole brut,
-	- **e)** un produit pétrolier dont le point d’éclair en vase clos ne dépasse pas 60 °C et dont la tension de vapeur (Reid), déterminée au moyen du test intitulé Test No. D323-94, *Standard Test Method for Vapor Pressure of Petroleum Products (Reid Method)*, avec ses modifications successives, de l’American Society for Testing and Materials, est inférieure à la pression atmosphérique, ou
-	- **f)** un produit liquide dont le risque d’incendie est semblable à celui du produit décrit à l’alinéa e).
-
-- **(10)** Sous réserve des paragraphes (11) et (12), la partie X s’applique
-	- **a)** à tout navire neuf, au sens de la partie X, qui est un navire de charge d’une jauge brute égale ou supérieure à 500 tonneaux, mais qui n’est pas un navire-citerne ni un transporteur mixte, au sens de la partie IX; et
-	- **b)** à tout navire existant, au sens de la partie X, qui est un navire de charge d’une jauge brute égale ou supérieure à 2 000 tonneaux.
-
-- **(11)** Sauf dans les cas prévus au paragraphe (12), les navires existants d’une jauge brute égale ou supérieure à 2 000 tonneaux doivent satisfaire aux exigences des parties IX ou X, selon le cas, au plus tard le 1<sup>er</sup> avril 1985.
-
-- **(12)** Les navires existants d’une jauge brute égale ou supérieure à 2 000 tonneaux doivent, au plus tard le 1<sup>er</sup> juillet 1983, satisfaire aux exigences des parties IX ou X, selon le cas, en ce qui concerne
-	- **a)** la résistance au feu des cloisons et des ponts;
-	- **b)** la protection des escaliers et des cages d’ascenseur;
-	- **c)** les moyens d’évacuation;
-	- **d)** les dispositifs de détection des incendies et d’alerte;
-	- **e)** le matériel de lutte contre les incendies;
-	- **f)** l’entreposage de la peinture et des autres produits inflammables; et
-	- **g)** les systèmes d’alerte générale.
-> DORS/78-605, art. 2; DORS/83-521, art. 2; DORS/90-240, art. 2(A); DORS/95-254, art. 32(A); DORS/2002-220, art. 1.
+- **(9) à (12)** [Abrogés, DORS/2017-14, art. 401]
+> DORS/78-605, art. 2; DORS/83-521, art. 2; DORS/90-240, art. 2(A); DORS/95-254, art. 32(A); DORS/2002-220, art. 1; DORS/2017-14, art. 401.
 
 
 
@@ -692,591 +645,181 @@ sont applicables à tous les navires visés par la présente partie, à la rése
 
 
 **PARTIE III** 
-## Protection des navires à passagers contre l’incendie
+## [Abrogée, DORS/2017-14, art. 402]
 
 
+**38** [Abrogé, DORS/2017-14, art. 402]
 
-### Application de la présente partie
 
 
-**38** Sous réserve de l’article 42, la présente partie s’applique
-- **a)** aux navires des classes I et II dont la quille a été posée le 19 novembre 1952 ou après cette date;
-- **b)** aux navires des classes III à VIII qui sont autorisés à transporter
-	- **(i)** plus de 25 passagers avec couchette,
-	- **(ii)** plus de 50 passagers avec ou sans couchette, ou
-	- **(iii)** plus de 100 passagers sans couchette lorsque la longueur du voyage du point de départ au point le plus éloigné dépasse 15 milles marins ou que la distance qui sépare ces navires de la terre à un moment quelconque dépasse cinq milles marins; et
-- **c)** aux navires des classes III à VIII, autres que ceux qui sont visés par l’alinéa b), lorsque le Bureau est d’avis que l’existence de dangers particuliers motive l’application à un de ces navires de la présente partie ou de l’une quelconque de ses dispositions.
-> DORS/95-254, art. 32.
+**39** [Abrogé, DORS/2017-14, art. 402]
 
 
 
+**40** [Abrogé, DORS/2017-14, art. 402]
 
 
-### Exemption
 
+**41** [Abrogé, DORS/2017-14, art. 402]
 
-**39** Le Bureau pourra exempter de toute disposition des articles 44 à 51 et des articles 52 à 56 tout navire classe I ou classe II qui ne transporte pas plus de 36 passagers, s’il estime que ce navire est muni d’un système efficace de détection d’incendie répondant aux prescriptions de l’article 57, pouvant donner un signal avertisseur optique et sonore en un ou plusieurs points du navire de façon à attirer rapidement l’attention du capitaine et de l’équipage, et indiquant la présence et le lieu d’un incendie dans tout local habité ou de service, autre qu’un local qui, de l’avis du Bureau, ne comporte aucun risque important.
 
 
+**42** [Abrogé, DORS/2017-14, art. 402]
 
 
-### Affichage des plans
 
+**43** [Abrogé, DORS/2017-14, art. 402]
 
-**40** Sur tout navire, il y aura, pour la gouverne du capitaine, des plans faisant voir, pour chaque pont, les sections qui sont entourées par des cloisons type A et celles qui le sont par des cloisons type B, et montrant dans le détail les systèmes d’alerte et de détection d’incendie, les dispositifs d’extinction par pulvérisation d’eau et les extincteurs d’incendie, les moyens d’entrée et de sortie des divers compartiments et entreponts ainsi que le système de ventilation, y compris en particulier l’emplacement des registres et les numéros d’identité des ventilateurs desservant chaque section. Ces plans seront protégés par du verre ou autre matériau semblable et seront fixés à demeure à une cloison, une table ou un pupitre près du poste normal de navigation.
 
 
+**44** [Abrogé, DORS/2017-14, art. 402]
 
 
-### Cloisons des types A et B
 
+**45** [Abrogé, DORS/2017-14, art. 402]
 
-**41** 
 
-- **(1)** Toute cloison type A sera construite en acier ou autre matériau semblable, armaturée dans un cas comme dans l’autre de façon à pouvoir empêcher le passage de la fumée et des flammes pendant toute la durée d’un essai au feu standard de 60 minutes. Elle présentera un degré d’isolement suffisant, compte tenu de la nature des locaux contigus, et, si elle sépare des locaux dont l’un ou l’autre comporte des matériaux combustibles en contact avec elle, elle sera isolée de telle sorte que, si l’une ou l’autre de ses surfaces est soumise pendant 60 minutes à un essai au feu standard, la température moyenne de la surface non exposée n’augmente à aucun moment au cours de l’essai de plus de 139 °C au-dessus de la température initiale et que la température en un point quelconque ne s’élève pas de plus de 180 °C au-dessus de la température initiale.
 
-- **(2)** Toute cloison type B devra pouvoir empêcher le passage de la fumée et des flammes pendant toute la durée d’un essai au feu standard de 30 minutes. Elle devra présenter un degré d’isolement suffisant, compte tenu de la nature des locaux contigus. Elle sera construite de façon que, si l’une ou l’autre de ses surfaces est soumise à un essai au feu standard d’une durée de 30 minutes, la température moyenne de la surface non exposée n’augmente pas de plus de 139 °C au-dessus de la température initiale et que la température en un point quelconque ne s’élève pas de plus de 180 °C au-dessus de la température initiale. Toutefois, si elle est faite entièrement d’un matériau incombustible, elle ne sera tenue de répondre aux prescriptions susmentionnées relatives à l’élévation de la température que pendant les 15 premières minutes de l’essai au feu standard.
-> DORS/95-254, art. 32.
+**46** [Abrogé, DORS/2017-14, art. 402]
 
 
 
+**47** [Abrogé, DORS/2017-14, art. 402]
 
 
-### Structure du navire
 
+**48** [Abrogé, DORS/2017-14, art. 402]
 
-**42** 
 
-- **(1)** La coque, les superstructures, les cloisons de structure, les ponts et les roufs de tout navire seront construits en acier, mais le Bureau pourra exempter un navire, en tout ou en partie, des prescriptions du présent paragraphe s’il estime que le matériau employé à la construction de ces parties offre autant de résistance au feu que l’acier.
 
-- **(2)** La coque, les superstructures et les roufs seront divisés en tranches verticales principales par des cloisons du type A. La longueur moyenne de chaque tranche, au-dessus du pont de cloisonnement, ne dépassera pas 40 m. Toute baïonnette consistera en une cloison type A. Dans le cas des transbordeurs de wagons (ce qui ne comprend pas les navires transportant des automobiles), s’il est impossible de poser des cloisons résistant au feu sur le pont à wagons, ce dernier devra être complètement isolé des espaces à passagers par des cloisons, portes et ponts résistant au feu.
+**49** [Abrogé, DORS/2017-14, art. 402]
 
-- **(3)** Les navires des classes I à IV et des classes VI et VII qui sont autorisés à transporter plus de 12 passagers et qui ont des ponts à véhicules pour le transport des automobiles ou autres véhicules dont le réservoir renferme du carburant seront munis, sur chacun de ces ponts, d’un système de diffuseurs répondant aux prescriptions du [Règlement sur le matériel de détection et d’extinction d’incendie](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1401-1500/C.R.C.,%20ch.%201422.md).
 
-- **(4)** Si un système de diffuseurs est installé sur un pont à véhicules, des rideaux d’eau automatiques approuvés répondant aux prescriptions du [Règlement sur le matériel de détection et d’extinction d’incendie](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1401-1500/C.R.C.,%20ch.%201422.md) pourront être substitués aux cloisons du type A des tranches verticales principales.
 
-- **(5)** Toutes portions de ces cloisons qui se trouvent au-dessus du pont de cloisonnement seront, dans la mesure du possible, à l’aplomb des cloisons étanches de compartimentage situées juste au-dessous du pont de cloisonnement et s’étendront de pont à pont jusqu’au bordé extérieur du navire et, dans le cas d’un rouf, jusqu’au bordé extérieur de celui-ci. L’isolement de ces cloisons se prolongera sur une distance convenable, aux limites de la cloison, mais jamais sur moins de 380 mm.
+**50** [Abrogé, DORS/2017-14, art. 402]
 
-- **(6)** Il sera ménagé, dans les locaux limités par des cloisons résistant au feu, des échappées offrant un moyen de retraite qui n’exige pas la traversée des portes de ces cloisons et disposées de manière à ne pas aider à la propagation de l’incendie d’un pont à un autre. Ces échappées seront situées de façon que toutes les personnes logées dans de tels locaux puissent accéder à un pont découvert ou à des locaux à l’intérieur de compartiments conduisant à un tel pont ou à un lieu sûr.
-> DORS/95-254, art. 32.
 
 
+**51** [Abrogé, DORS/2017-14, art. 402]
 
 
 
-### Ouvertures dans les cloisons type A
+**52** [Abrogé, DORS/2017-14, art. 402]
 
 
-**43** 
 
-- **(1)** Si des cloisons type A sont percées pour le passage de câbles électriques, de tuyaux, de conduits, de carlingues ou de barrots ou pour toute autre raison, des dispositions seront prises pour que la résistance au feu de ces cloisons ne soit pas compromise.
+**53** [Abrogé, DORS/2017-14, art. 402]
 
-- **(2)** Si un conduit traverse une cloison type A,
-	- **a)** il sera installé, contingu à la cloison, un volet de fermeture automatique à élément fusible, l’élément fusible se trouvant à l’intérieur du conduit;
-	- **b)** le volet de fermeture devra pouvoir être manoeuvré des deux côtés de la cloison et les postes de manoeuvre seront d’accès facile et repérés en rouge de manière permanente;
-	- **c)** des indicateurs d’ouverture et de fermeture seront installés; et
-	- **d)** le conduit entre le volet et la cloison devra offrir au feu une résistance au moins égale à celle de la cloison.
 
-- **(3)** Toute ouverture dans une cloison type A sera munie d’un dispositif de fermeture fixé à demeure à la cloison et offrant au feu une résistance égale à celle de la cloison.
 
-- **(4)** Dans le cas d’un navire dont la quille a été posée avant le 22 mars 1967,
-	- **a)** toute porte dans une cloison sera construite de façon à pouvoir être ouverte ou fermée de chaque côté de la cloison par une seule personne et la porte et le dispositif permettant de la tenir fermée devront offrir au feu une résistance au moins égale à celle de la cloison, sauf qu’une porte étanche n’aura pas à être isolée; et
-	- **b)** si la cloison a été construite en tenant compte des prescriptions du paragraphe 42(2) et si elle a une porte qui n’est pas étanche, cette porte devra
-		- **(i)** avoir un dispositif de verrouillage du type boulon à trois branches ou un dispositif équivalent,
-		- **(ii)** pouvoir se fermer d’elle-même et être facilement dégagée du dispositif qui la maintient dans la position ouverte, et
-		- **(iii)** avoir un élément fusible dans le dispositif de déclenchement.
+**54** [Abrogé, DORS/2017-14, art. 402]
 
-- **(5)** Dans le cas d’un navire dont la quille a été posée après le 22 mars 1967,
-	- **a)** toute porte dans une cloison sera construite de façon à pouvoir être ouverte ou fermée de chaque côté de la cloison par une seule personne et la porte et le dispositif permettant de la tenir fermée devront offrir au feu une résistance au moins égale à celle de la cloison, sauf qu’une porte étanche n’aura pas à être isolée;
-	- **b)** les portes coupe-feu dans les cloisons des tranches principales verticales et les entourages d’escalier, autres que les portes coupe-feu qui sont normalement verrouillées, devront pouvoir se fermer d’elles-mêmes avec une inclinaison défavorable de 3 1/2 degrés;
-	- **c)** les portes coupe-feu dans les cloisons des tranches verticales principales et les entourages d’escalier, autres que les portes coupe-feu qui sont normalement fermées, devront avoir un dispositif d’échappement pouvant être déclenché d’un poste de sécurité, soit simultanément ou par groupes et aussi individuellement d’un point à la porte même, et le mécanisme de déclenchement sera disposé de façon que la porte se ferme automatiquement dans le cas d’un dérangement du système de commande;
-	- **d)** il ne sera pas posé de crochets de retenue dépourvus de dispositif d’échappement commandé du poste de sécurité; et
-	- **e)** les portes étanches à glissières manoeuvrées au moyen d’une source d’énergie et ayant été approuvées n’auront pas à être isolées et seront censées satisfaire aux prescriptions des alinéas b) et c).
 
-- **(6)** Si les portes coupe-feu visées à l’alinéa (5)c) sont des portes battantes à deux vantaux, elles seront munies d’un dispositif d’enclenchement qui sera automatiquement engagé par le fonctionnement du dispositif d’échappement de la porte.
 
+**55** [Abrogé, DORS/2017-14, art. 402]
 
 
 
-### Séparation des locaux habités des autres locaux fermés
+**56** [Abrogé, DORS/2017-14, art. 402]
 
 
-**44** Les cloisons et ponts qui séparent les locaux habités des autres locaux fermés (locaux de machines et locaux à marchandises compris) seront des cloisons type A.
 
-
-
-
-### Protection des escaliers
-
-
-**45** 
-
-- **(1)** Tout escalier situé à l’intérieur d’un local habité ou d’un local de service aura une charpente en acier et un entourage constitué par des cloisons type A. Toutefois,
-	- **a)** un escalier qui ne dessert que deux entreponts n’aura pas à être entouré de cloisons type A dans plus d’un entrepont; et
-	- **b)** un escalier situé dans un local de réunion n’aura pas à avoir un tel entourage s’il se trouve complètement dans ce local.
-
-- **(2)** Le Bureau pourra exempter tout navire, pour lequel a été adoptée la méthode II de protection contre l’incendie (au sens que lui donne l’article 52), des prescriptions du paragraphe (1) relativement à tout escalier qu’il juge être un escalier auxiliaire bien protégé par des dispositifs d’extinction par pulvérisation.
-
-- **(3)** Toute ouverture dans une cloison de l’entourage d’un escalier aura un dispositif de fermeture qui y sera fixé à demeure. Ce dispositif aura une résistance au feu aussi efficace que la cloison et devra pouvoir se fermer de lui-même, sauf s’il s’agit d’une porte étanche.
-
-- **(4)** Tout entourage d’escalier devra avoir une communication directe avec les coursives qui y sont contiguës et enclore une superficie suffisante pour empêcher l’embouteillage, compte tenu du nombre de personnes susceptibles d’utiliser l’escalier en cas d’urgence. Il devra prendre le moins possible, compte tenu des circonstances, de l’espace des locaux habités et des locaux de service.
-
-
-
-
-### Protection des ascenseurs et monte-charge et des puits d’éclairage et d’aération
-
-
-**46** 
-
-- **(1)** Sur tout navire, toute cage d’ascenseur ou de monte-charge et tout puits d’éclairage et d’aération ou autre puits semblable des locaux habités ou des locaux de service seront constitués de cloisons type A, mais une cage d’ascenseur ou de monte-charge située à l’intérieur d’un entourage d’escalier n’aura pas à être isolée. Toute porte d’une telle cage ou d’un tel puits devra être en acier ou autre matériau incombustible et présenter une résistance au feu aussi efficace que celle de la cage dans laquelle elle est installée.
-
-- **(2)** Toute cage d’ascenseur ou de monte-charge sera disposée de manière à empêcher la fumée et les flammes de passer d’un entrepont à un autre et sera munie de dispositifs de fermeture permettant de limiter le tirage et le passage des fumées.
-
-- **(3)** Si un puits d’éclairage et d’aération ou un puits semblable communique avec plus d’un entrepont et que les fumées et les flammes risquent de passer d’un entrepont à l’autre, des écrans contre la fumée seront installés de manière que chacun des locaux se trouve isolé en cas d’incendie.
-
-- **(4)** Tout autre conduit sera construit de façon à ne pas permettre à un incendie de se propager d’un entrepont ou d’un compartiment à un autre.
-
-
-
-
-### Protection des postes de sécurité
-
-
-**47** 
-
-- **(1)** Tout poste de sécurité sera séparé des autres régions du navire par des cloisons type A et des ponts constitués par des cloisons type A.
-
-- **(2)** La salle radio ne peut être située directement au-dessus d’un escalier et doit être située de manière à atténuer le risque de la propagation de l’incendie à celle-ci par les escaliers. Un moyen d’évacuation d’urgence, conduisant de préférence au pont découvert, doit être fourni.
-> DORS/2000-264, art. 2.
-
-
-
-
-
-### Protection des autres locaux
-
-
-**48** 
-
-- **(1)** Sur tout navire, les cloisons d’entourage qui séparent une cuisine, une soute à bagages, une soute à dépêches, un magasin à peinture ou autre, une lampisterie ou tout autre local similaire d’un autre local seront des cloisons type A.
-
-- **(2)** Les locaux propres à l’emmagasinage des objets ou matériaux éminemment inflammables seront construits et situés de manière à atténuer le danger pour les personnes à bord en cas d’incendie.
-
-
-
-
-### Revêtement des ponts
-
-
-**49** Sur tout navire, tout revêtement de pont permanent situé à l’intérieur d’un local habité, d’un local de service, d’un poste de sécurité, d’un escalier ou d’une coursive sera tel qu’il ne puisse s’enflammer facilement. Dans le cas des navires qui transportent des automobiles dans un local d’entrepont, le revêtement du pont de tout local habité situé au-dessus du local des automobiles sera fait d’un matériau incombustible.
-
-
-
-
-### Systèmes de ventilation
-
-
-**50** 
-
-- **(1)** Les orifices d’arrivée d’air frais et les orifices d’évacuation d’air vicié des systèmes de ventilation auront, sur tout navire, des dispositifs de fermeture d’accès facile pouvant être manoeuvrés en cas d’incendie. Si possible, le réseau de conduits de chaque ventilateur sera situé dans une seule tranche verticale principale.
-
-- **(2)** Tout navire sera muni de deux commandes principales, aussi éloignées que possible l’une de l’autre et pouvant l’une et l’autre arrêter tous les ventilateurs des systèmes de ventilation mécanique du navire, à l’exception de ceux des locaux de machines. Tout système de ventilation mécanique desservant des locaux de machines aura deux commandes principales, dont l’une pourra être manoeuvrée de l’extérieur de ces locaux. Les conduits d’évacuation des fourneaux de cuisine seront constitués par des cloisons type A qui seront isolées aux endroits où ces conduits traversent des locaux habités ou des locaux de service.
-
-- **(3)** Dans le cas d’un navire dont la quille a été posée après le 22 mars 1967, le conduit d’évacuation des fourneaux de cuisine sera muni
-	- **a)** d’un séparateur de graisse raccordé au conduit et pouvant s’enlever pour le nettoyage;
-	- **b)** d’un volet de fermeture d’incendie, placé au bas du conduit;
-	- **c)** d’un interrupteur de commande pouvant être manoeuvré de l’intérieur de la cuisine pour la fermeture du ventilateur d’évacuation; et
-	- **d)** d’un dispositif fixe d’extinction par étouffement pour l’extinction d’un incendie à l’intérieur du conduit.
-
-
-
-
-### Détails divers de la protection contre l’incendie
-
-
-**51** 
-
-- **(1)** Dans les locaux habités ou les locaux de service, toute lame d’air (ou espace vide) se trouvant derrière un vaigrage, lambrissage ou revêtement sera, afin d’éviter les tirages, divisée par des écrans bien ajustés, espacés d’au plus 14 m dans le sens longitudinal, et sera fermée à chaque pont.
-
-- **(2)** Les vaigrages, lambrissages, et revêtements mentionnés au paragraphe (1) seront construits de façon à permettre aux rondiers de découvrir toute fumée provenant d’espaces dissimulés ou inaccessibles, sans que l’efficacité de la protection contre l’incendie en soit diminuée. De petits trous dans les vaigrages, lambrissages et revêtements, protégés par une toile métallique, sont admissibles à cette fin.
-
-- **(3)** Les surfaces non apparentes des cloisons, revêtements, lambrissages, escaliers, lambourdages et autres structures à l’intérieur des locaux habités et des locaux de service devront présenter un faible pouvoir de propagation de la flamme.
-
-- **(4)** Les peintures, vernis ou autres substances analogues, à base de nitrocellulose, ainsi que les tissus renfermant de la nitrocellulose, ne seront pas employés.
-
-- **(5)** Les dalots extérieurs, les décharges sanitaires et autres conduits d’évacuation ne seront pas en plomb s’ils sont situés près de la ligne de charge ou dans des endroits où la fusion du plomb, en cas d’incendie, créerait des dangers d’envahissement.
-
-- **(6)** L’emploi du bois dans la construction de l’intérieur et de l’équipement des cuisines, des boulangeries et des offices principaux sera aussi restreint que possible.
-
-- **(7)** Les fenêtres ou hublots des locaux habités et des locaux de service auront des cadres en métal. Le vitrage y sera retenu par des anneaux ou couvre-joints métalliques. Dans le cas de fenêtres ou hublots situés de telle façon que la fusion des cadres, anneaux ou couvre-joints pourrait entraîner un danger d’envahissement, ces cadres, anneaux ou couvre-joints seront en un métal non susceptible de fondre en cas d’incendie. Les fenêtres et hublots d’un tel navire qui donnent sur des coursives ou escaliers devront présenter une résistance au feu aussi efficace que celle de la cloison dans laquelle ils sont ménagés.
-
-- **(8)** Les claires-voies des locaux de machines et des locaux de chaudières devront pouvoir être fermées de l’extérieur de ces locaux.
-
-- **(9)** Il ne sera pas utilisé de films sur supports de cellulose pour les appareils cinématographiques à bord des navires.
-> DORS/95-254, art. 32.
-
-
-
-
-
-### Méthodes de protection contre l’incendie
-
-
-**52** 
-
-- **(1)** Sous réserve du paragraphe (2), les locaux habités et les locaux de service de tout navire seront construits selon l’une des méthodes ci-après de protection contre l’incendie et répondront aux dispositions ci-après de la présente partie qui sont expressément applicables aux navires pour lesquels cette méthode a été adoptée :méthode I : construction dans les locaux habités et les locaux de service de cloisonnements divisionnaires intérieurs constitués par des cloisons type B, entre les cloisons des tranches verticales principales, avec un système automatique d’alerte et de détection d’incendie dans ces locaux;
-
-méthode II : installation d’un système automatique d’extinction par pulvérisation d’eau, de détection d’incendie et d’alerte dans les locaux habités et les locaux de service, sans aucune restriction quant au type de cloisonnements subdivisionnaires entre les cloisons des tranches verticales principales;
-
-méthode III : compartimentage des locaux habités et des locaux de service entre les cloisons des tranches verticales principales au moyen de cloisons des types A et B, avec aménagement d’un système automatique d’alerte et de détection d’incendie dans tous les locaux habités et les locaux de service et utilisation restreinte de matériaux combustibles dans ces locaux.
-
-
-
-- **(2)** Dans le cas des navires ci-après, seule la méthode I de protection contre l’incendie sera adoptée :
-	- **a)** les navires à passagers dont la quille est posée le 22 mars 1967 ou après cette date;
-	- **b)** les navires qui sont transformés en navires à passagers le 22 mars 1967 ou après cette date; et
-	- **c)** les navires à passagers qui sont transférés à l’immatriculation canadienne le 22 mars 1967 ou après cette date.
-
-
-
-
-### Cloisons situées à l’intérieur des tranches verticales principales (méthodes I et III)
-
-
-**53** 
-
-- **(1)** Les prescriptions suivantes sont applicables lorsque la méthode I est adoptée pour la protection contre l’incendie :
-	- **a)** les cloisons situées à l’intérieur des locaux habités ou des locaux de service d’un navire pour lequel la méthode I de protection contre l’incendie a été adoptée, qui ne sont pas des cloisons devant, aux termes du présent règlement, être des cloisons type A, seront les cloisons du type B; elles seront reliées de manière à assurer le maximum de résistance au feu. Si un tel navire transporte plus de 100 passagers, elles seront faites d’un matériau incombustible mais, sous réserve des dispositions de l’alinéa 56(1)b), elles pourront être revêtues d’un matériau combustible;
-	- **b)** les cloisons de ce genre s’étendront de pont à pont, mais toute cloison qui n’est pas une cloison de coursive pourra aboutir à un plafond fait d’un matériau incombustible;
-	- **c)** si le bordé extérieur du navire limite un local habité ou un local de service, les cloisons transversales adjacentes s’étendront jusqu’à ce bordé. Si le bordé extérieur d’un rouf limite un local habité ou un local de service, les cloisons transversales ou longitudinales adjacentes s’étendront jusqu’à ce bordé, à la réserve que toute cloison de ce genre, qui n’est pas une cloison de coursive, pourra aboutir à un revêtement fait d’un matériau incombustible; et
-	- **d)** toute ouverture de ventilation dans une cloison de coursive sera située dans la partie inférieure, s’il est possible, et sera munie d’un grillage incombustible.
-
-- **(2)** Les prescriptions suivantes sont applicables lorsque la méthode III a été adoptée pour la protection contre l’incendie :
-	- **a)** les cloisons situées à l’intérieur des locaux habités et des locaux de service de tout navire pour lequel la méthode III de protection contre l’incendie a été adoptée, qui ne sont pas des cloisons devant, aux termes du présent règlement, être des cloisons type A, seront des cloisons type B construites de manière à former un réseau continu de cloisons type B, ou avec les cloisons type A, un réseau continu de cloisons des types A et B; la superficie de tout compartiment constitué par un tel réseau ne devra pas dépasser 150 m<sup>2</sup> et même, si possible, 120 m<sup>2</sup>;
-	- **b)** tout local de réunion d’un tel navire, sans cloisonnements intérieurs, sera, sauf au bordé extérieur du navire ou au bordé extérieur d’un rouf, entouré de cloisons type B, à moins que ses cloisons d’entourage ne doivent, aux termes du présent règlement, être des cloisons type A;
-	- **c)** toute cloison de coursive d’un tel navire sera une cloison type B, à moins qu’elle ne doive, aux termes du présent règlement, être une cloison type A, et s’étendra de pont à pont; toutefois, des ouvertures de ventilation munies d’un grillage incombustible pourront être ménagées dans ces cloisons aux endroits où il n’y a pas de plafond au-dessus de la cloison ou lorsque les plafonds sont faits d’un matériau incombustible; et
-	- **d)** si un tel navire transporte plus de 100 passagers, toutes les cloisons type B établies en conformité du présent article seront faites d’un matériau incombustible mais, sous réserve des dispositions du paragraphe 56(2), pourront être revêtues d’un matériau combustible. Si un tel navire transporte 100 passagers ou moins, ces cloisons seront à âme incombustible ou seront composées, à l’intérieur, de couches de feuilles d’amiante ou de matériaux incombustibles analogues, et, dans l’un ou l’autre cas, répondront aux prescriptions du paragraphe 41(2) tout comme si elles étaient construites entièrement de matériaux combustibles.
-> DORS/95-254, art. 32.
-
-
-
-
-
-### Systèmes automatiques d’alerte et de détection d’incendie (méthodes I et III)
-
-
-**54** 
-
-- **(1)** Sur tout navire pour lequel la méthode I ou la méthode III de protection contre l’incendie a été adoptée, il sera installé un système d’alerte et de détection d’incendie, répondant aux prescriptions de l’article 57, qui découvrira la présence d’un incendie dans tout local habité ou local de service et en indiquera la présence et le lieu au moyen d’un signal donné en un ou plusieurs points de façon à attirer rapidement l’attention du capitaine et de l’équipage.
-
-- **(2)** Le Bureau pourra exempter tout navire des prescriptions du présent article dans la mesure où il estimera que les locaux habités et les locaux de service ne présentent pas de risques notables d’incendie.
-
-
-
-
-### Systèmes automatiques d’extinction par pulvérisation d’eau, d’alerte et de détection d’incendie (méthode II)
-
-
-**55** 
-
-- **(1)** Sur tout navire pour lequel la méthode II de protection contre l’incendie a été adoptée, il sera installé un système automatique d’extinction par pulvérisation d’eau, d’alerte et de détection répondant aux dispositions de l’annexe VI du [Règlement sur le matériel de détection et d’extinction d’incendie](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1401-1500/C.R.C.,%20ch.%201422.md), et disposé de façon à protéger tous les locaux habités et tous les locaux de service.
-
-- **(2)** Le Bureau pourra exempter tout navire des prescriptions du présent article,
-	- **a)** dans la mesure où il estimera que les locaux habités et les locaux de service ne présentent pas de risques notables d’incendie; et
-	- **b)** quant aux soutes à bagages ou aux magasins qu’il jugera munis de dispositifs suffisants pour la détection de l’incendie ou pour l’étouffement par le gaz ou la vapeur.
-
-
-
-
-### Utilisation restreinte des matériaux combustibles (méthodes I et III)
-
-
-**56** 
-
-- **(1)** Sur tout navire pour lequel la méthode I de protection contre l’incendie a été adoptée,
-	- **a)** tous les revêtements, semelles, lambourdages, plafonds et isolants seront de matériaux incombustibles, sauf dans les locaux à marchandises, les soutes à dépêches, les soutes à valeurs, les soutes à bagages et les chambres frigorifiques; toutefois, à bord des navires transportant au plus 100 passagers, les revêtements, semelles, lambourdages et plafonds pourront être faits de matériaux combustibles présentant au feu la même résistance que les matériaux des cloisons d’entourage des locaux dans lesquels ils sont situés; et
-	- **b)** le volume total des éléments combustibles, comme les revêtements, moulures, décorations et placages, de tout local habité ou local de service d’un navire transportant plus de 100 passagers, pour lequel la méthode I de protection contre l’incendie a été adoptée, ne dépassera pas un volume équivalent au volume d’un placage de 2,5 mm d’épaisseur, recouvrant la surface totale des parois et du plafond. Les revêtements, moulures, décorations et placages des coursives ou des entourages d’escalier d’un tel navire seront faits de matériaux incombustibles.
-
-- **(2)** Sur tout navire pour lequel la méthode III de protection contre l’incendie a été adoptée, l’emploi de matériaux combustibles pour les revêtements, semelles, lambourdages, plafonds, garnitures et ameublement de tout espace des locaux habités ou des locaux de service sera restreint au minimum compatible avec l’affectation de l’espace en question. Dans les salles de réunion d’un tel navire, les semelles et lambourdages et les supports des revêtements et plafonds seront construits en acier ou en un autre matériau présentant une résistance au feu aussi efficace. Toutes les surfaces exposées des locaux habités d’un tel navire, ainsi que leurs enduits ou revêtements, seront en un matériau présentant un faible pouvoir propagateur de flamme.
-> DORS/95-254, art. 32.
-
-
-
-
-**57** 
-
-- **(1)** Pour l’installation des systèmes d’alerte et de détection d’incendie prévus à l’article 39 dans le cas de certains navires qui transportent au plus 36 passagers, les locaux habités et les locaux de service seront partagés en groupes. Un groupe sera restreint à un pont et ne sera pas divisé par une cloison de tranche verticale principale ni par une cloison étanche. Au moins une tête de détecteur sera installée dans chaque cabine ou autre petit local mais il pourra être nécessaire d’en placer plus d’une dans les grands locaux. Toutes les têtes de détecteur d’un groupe seront reliées à un indicateur pour ce groupe et à un signal phonique d’alerte, commun à tous les groupes, à chaque poste central de sécurité.
-
-- **(2)** Pour l’installation des systèmes d’alerte et de détection prévus à l’article 54, les dispositions du paragraphe (1) du présent article sont applicables, de même que les suivantes :
-	- **a)** sur les navires pour lesquels la méthode I de protection contre l’incendie a été adoptée, les locaux de tribord et les locaux de bâbord seront groupés séparément et aucun groupe ne s’étendra sur plus de 19,8 m de la longueur du navire; et
-	- **b)** sur les navires pour lesquels la méthode III de protection contre l’incendie a été adoptée, chaque local de réunion sera, en règle générale, considéré comme formant un seul groupe. Les autres locaux habités et locaux de service seront groupés de façon que les locaux compris dans chaque compartiment formé par le réseau des cloisons des types A et B dont il est fait mention à l’alinéa 53(2)a) forment un seul groupe. Dans la mesure du possible, aucun groupe ne comprendra plus de 15 cabines.
-
-- **(3)** Les systèmes automatiques d’alerte et de détection d’incendie dont il est fait mention au présent article répondront aux prescriptions suivantes :
-	- **a)** ils seront construits de manière à indiquer au poste central de sécurité toute panne d’alimentation du système;
-	- **b)** il y aura au moins deux sources d’énergie dont chacune pourra faire fonctionner le système;
-	- **c)** il sera prévu des moyens permettant, à l’aide de boutons-poussoirs ou autres dispositifs convenables, de vérifier le fonctionnement des indicateurs et du signal d’alerte;
-	- **d)** les têtes de détecteur seront, en règle générale, installées au plafond des locaux et seront réglées pour fonctionner à une température de 68 °C ± 6,7 °C sauf dans les salles de séchage ou autres locaux semblables où un réglage plus élevé est admis;
-	- **e)** il ne se produira pas de retard excessif dans l’entrée en action du signal d’alerte et les inspecteurs devront s’assurer que le retard reste dans les limites raisonnables;
-	- **f)** il y aura à bord des têtes de détecteur de rechange dans la proportion d’au moins une tête par 50 que comprend l’installation, six au minimum;
-	- **g)** il sera affiché, près de l’armoire indicatrice au poste de sécurité, une liste donnant le numéro des armoires et indiquant les locaux de réunion et autres locaux compris dans chaque groupe ainsi que le pont sur lequel chaque groupe est situé;
-	- **h)** des instructions complètes quant au fonctionnement, à l’entretien et à la vérification accompagneront, à bord du navire, chaque système d’alerte et de détection; et
-	- **i)** en plus des systèmes d’alerte et de détection d’incendie visés à l’alinéa h), les navires à passagers de plus de 38,1 m de longueur, exception faite des navires non pontés, seront cotés de cloches d’alerte générale ou d’un klaxon, à la satisfaction d’un inspecteur de navires à vapeur.
-> DORS/95-254, art. 32.
-
+**57** [Abrogé, DORS/2017-14, art. 402]
 
 
 
 
 **PARTIE IV** 
-## Protection contre l’incendie des navires à passagers existants ressortissant à la convention de sécurité et dont la quille a été posée avant le 19 novembre 1952 et des navires-hôtels
+## [Abrogée, DORS/2017-14, art. 402]
 
 
+**58** [Abrogé, DORS/2017-14, art. 402]
 
-### Application de la présente partie
 
 
-**58** La présente partie s’applique aux navires à passagers ressortissant à la Convention de sécurité qui transportent plus de 36 passagers et dont la quille a été posée avant le 19 novembre 1952 et aux navires-hôtels.
+**59** [Abrogé, DORS/2017-14, art. 402]
 
 
 
+**60** [Abrogé, DORS/2017-14, art. 402]
 
-### Structure du navire
 
 
-**59** La coque, les superstructures, les cloisons de structure, les ponts et les roufs de tout navire seront construits en acier, mais le Bureau pourra exempter tout navire, en totalité ou en partie, des prescriptions du présent article s’il estime que les matériaux employés pour la construction de ces éléments offrent au feu une résistance au moins égale à celle de l’acier.
+**61** [Abrogé, DORS/2017-14, art. 402]
 
 
 
+**62** [Abrogé, DORS/2017-14, art. 402]
 
-### Tranches verticales principales
 
 
-**60** 
+**63** [Abrogé, DORS/2017-14, art. 402]
 
-- **(1)** La coque, les superstructures et les roufs seront divisés en tranches verticales principales par des cloisons type A dont la longueur moyenne au-dessus du pont de cloisonnement ne dépassera pas, en général, 40 m; si des baïonnettes sont nécessaires, elles seront constituées par des cloisons type A.
 
-- **(2)** Dans la mesure du possible, les parties des cloisons type A qui se trouvent au-dessus du pont du cloisonnement seront alignées avec les cloisons étanches de compartimentage situées immédiatement au-dessous du pont de cloisonnement et s’étendront de pont à pont, jusqu’au bordé extérieur ou autres entourages.
 
-- **(3)** À bord des navires destinés à des services spéciaux, tels que le transport d’automobiles et de wagons de chemin de fer, sur lesquels la construction de cloisons type A serait incompatible avec l’utilisation de ces navires des moyens équivalents permettant de maîtriser et de localiser un incendie seront admis en remplacement des dispositions réglementaires, avec l’approbation spéciale du Bureau.
-> DORS/95-254, art. 32.
+**64** [Abrogé, DORS/2017-14, art. 402]
 
 
 
+**65** [Abrogé, DORS/2017-14, art. 402]
 
 
-### Ouvertures pratiquées dans les cloisons type A
 
+**66** [Abrogé, DORS/2017-14, art. 402]
 
-**61** 
 
-- **(1)** Si des cloisons type A sont percées pour le passage de câbles électriques, de tuyaux, de conduits, d’hiloires, de barrots, ou pour d’autres raisons, des dispositions seront prises pour que leur résistance au feu ne soit pas compromise.
 
-- **(2)** Si un conduit traverse une cloison type A,
-	- **a)** il sera installé, contigu à la cloison, un volet de fermeture automatique a élément fusible, l’élément fusible se trouvant à l’intérieur du conduit;
-	- **b)** le volet de fermeture devra aussi pouvoir être manoeuvré des deux côtés de la cloison et les postes de manoeuvre seront d’accès facile et repérés en rouge de manière permanente;
-	- **c)** des indicateurs d’ouverture et de fermeture seront installés; et
-	- **d)** le conduit entre la cloison et le volet devra offrir au feu une résistance au moins égale à celle de la cloison.
+**67** [Abrogé, DORS/2017-14, art. 402]
 
-- **(3)** Toute ouverture dans une cloison sera munie d’un dispositif de fermeture fixé à demeure à la cloison et offrant au feu une résistance au moins égale à celle de la cloison.
 
-- **(4)** Toute porte dans une cloison type A sera d’un type approuvé et sera construite de façon à pouvoir être ouverte ou fermée de chaque côté de la cloison par une seule personne, et cette porte et le dispositif permettant de la tenir fermée devront offrir au feu une résistance au moins égale à celle de la cloison, sauf qu’une porte étanche n’aura pas à être isolée.
-> DORS/95-254, art. 6(A).
 
+**68** [Abrogé, DORS/2017-14, art. 402]
 
 
 
-
-### Séparation entre les locaux habités, d’une part, et les locaux de machines, les locaux à marchandises et les locaux de service, d’autre part
-
-
-**62** Les cloisons et les ponts qui séparent les locaux habités des locaux de machines, des locaux à marchandises et des locaux de service seront des cloisons type A, et ces cloisons et ponts devront avoir un degré d’isolation jugé satisfaisant par le Bureau, eu égard à la nature des locaux adjacents.
-
-
-
-
-### Utilisation restreinte des matériaux combustibles
-
-
-**63** Dans le cas d’un navire pour lequel la méthode II de protection contre l’incendie a été adoptée, le navire répondra aux prescriptions des articles 52 et 55, sauf que l’emploi de matériaux combustibles sera réduit autant qu’il sera raisonnable et pratiquement possible de le faire par l’emploi de matériaux incombustibles lorsque le remplacement de matériaux existants deviendra nécessaire à l’occasion de réparations ou de réaménagements.
-
-
-
-
-### Protection des escaliers
-
-
-**64** Les escaliers seront protégés de la manière prescrite à l’article 45.
-
-
-
-
-### Protection des ascenseurs et monte-charge et des puits d’éclairage et d’aération
-
-
-**65** Les ascenseurs et monte-charge et les puits d’éclairage et d’aération seront protégés de la manière prescrite à l’article 46.
-
-
-
-
-### Protection des postes de sécurité
-
-
-**66** Les postes de sécurité seront protégés de la manière prescrite à l’article 47.
-
-
-
-
-### Protection des magasins
-
-
-**67** Les magasins et autres locaux similaires seront protégés de la manière prescrite à l’article 48.
-
-
-
-
-### Systèmes de ventilation
-
-
-**68** Les systèmes de ventilation répondront aux prescriptions de l’article 50.
-
-
-
-
-### Détails concernant la protection contre l’incendie
-
-
-**69** 
-
-- **(1)** Toute lame d’air ou espace vide se trouvant derrière un vaigrage, lambris ou revêtement sera, pour éviter le tirage, divisée par des écrans bien ajustés, espacés d’au plus 14 m dans le sens longitudinal, et sera fermée à chaque pont.
-
-- **(2)** Les vaigrages, lambris et revêtements visés au paragraphe (1) seront construits de façon à permettre aux rondiers de découvrir toute fumée provenant d’espaces dissimulés ou inaccessibles, sans que l’efficacité de la protection contre l’incendie en soit diminuée.
-
-- **(3)** De petits trous dans les vaigrages, lambris et revêtements, protégés par une toile métallique sont censés satisfaire aux prescriptions du paragraphe (2).
-
-- **(4)** Il ne sera pas utilisé de films sur supports de cellulose pour les appareils cinématographiques à bord des navires.
-> DORS/95-254, art. 32.
-
+**69** [Abrogé, DORS/2017-14, art. 402]
 
 
 
 
 **PARTIE V** 
-## Protection contre l’incendie des navires existants ne ressortissant pas à la convention de sécurité
+## [Abrogée, DORS/2017-14, art. 402]
+
+
+**70** [Abrogé, DORS/2017-14, art. 402]
 
 
 
-### Application de la présente partie
-
-
-**70** Sous réserve de l’article 74, la présente partie s’applique aux navires à vapeur à passagers qui ne sont pas des navires ressortissant à la Convention de sécurité et dont la quille a été posée avant le 7 février 1958 et qui sont autorisés à transporter
-- **a)** plus de 25 passagers avec couchette ou plus de 50 passagers avec ou sans couchette; ou
-- **b)** plus de 100 passagers sans couchette dans des voyages au cours desquels
-	- **(i)** la distance entre les ports d’escale est supérieure à 15 milles marins, ou
-	- **(ii)** l’éloignement de la terre est, à un moment quelconque, de plus de 5 milles marins.
-> DORS/95-254, art. 32.
+**71** [Abrogé, DORS/2017-14, art. 402]
 
 
 
-
-
-### Aménagement et grandeur des locaux
-
-
-**71** 
-
-- **(1)** Les ponts, les côtés et les extrémités des locaux affectés aux passagers et à l’équipage seront aménagés de façon que l’incendie ne puisse se propager d’un pont à un autre.
-
-- **(2)** Les constructions en bois affectées aux passagers et à l’équipage seront revêtues de matériaux résistant au feu.
-
-- **(3)** Les cloisons résistant au feu s’étendront d’une muraille à l’autre du navire et seront continues depuis la coque principale jusqu’à la partie la plus élevée de la structure et, à l’intérieur des principaux locaux affectés aux passagers et à l’équipage, elles seront disposées de façon que la longueur de l’espace compris entre elles ne dépasse pas 40 m.
-
-- **(4)** Les ouvertures seront interdites dans les cloisons résistant au feu, sauf si elles sont nécessaires pour assurer un passage et, dans ce cas, elles seront munies de portes du type boulon automatique à trois branches ou d’un type équivalent, qui devront pouvoir résister au feu lorsqu’elles seront fermées. Ces portes seront disposées de façon à pouvoir s’ouvrir ou se fermer d’un côté ou de l’autre de la cloison. Elles devront pouvoir se fermer d’elles-mêmes et avoir un moyen facile de déclenchement du mécanisme qui les tient ouvertes ainsi qu’un élément de liaison fusible dans le dispositif de déclenchement. Elles devront pouvoir résister pendant une heure, d’un côté ou l’autre, sans gondoler, à un feu d’une intensité de 815 °C.
-
-- **(5)** Il sera présenté à l’approbation du Bureau des plans faisant voir la disposition des cloisons.
-
-- **(6)** Si des baïonnettes ou des niches sont nécessaires dans des cloisons résistant au feu, les ponts où se trouvent ces baïonnettes ou niches devront pouvoir résister au feu.
-
-- **(7)** Sur les navires qui transportent des automobiles dans les entreponts, l’espace où se trouvent les automobiles répondra aux dispositions du paragraphe (3) quant à la longueur.
-
-- **(8)** Dans le cas des transbordeurs de wagons, s’il est impossible de poser des cloisons résistant au feu sur le pont aux wagons, ce pont sera complètement isolé des espaces à passagers par des cloisons, portes et ponts résistant au feu.
-
-- **(9)** Il sera ménagé dans les locaux limités par des cloisons résistant au feu des échappées offrant un moyen de retraite qui n’exige pas la traversée des portes de ces cloisons et disposées de manière à ne pas aider à la propagation de l’incendie d’un pont à un autre. Ces échappées seront situées de façon que toutes les personnes logées dans de tels locaux puissent accéder à un pont découvert ou à des locaux à l’intérieur de compartiments conduisant à un tel pont ou à un lieu sûr.
-
-- **(10)** Les puits d’aération ouverts conduisant d’un pont à un autre sont interdits.
-
-- **(11)** Les navires dont la coque principale est faite de bois auront, au-dessous du pont principal, des cloisons résistant au feu pour séparer les locaux à marchandises des locaux de machines et des chaufferies.
-
-- **(12)** Si la coque est en acier, les cloisons situées au-dessous du pont de cloisonnement auront l’espacement prévu au paragraphe (3) pour les cloisons résistant au feu.
-
-- **(13)** La cuisine sera séparée des locaux habités par des cloisons résistant au feu. Les monte-plats ou ascenseurs seront entourés de cloisons et portes résistant au feu.
-
-- **(14)** Les entourages formant des conduits venant des locaux de machines et des chaufferies seront des entourages résistant au feu aux endroits où ils traversent des espaces à passagers.
-
-- **(15)** Les matériaux servant au revêtement des ponts, des côtés et des extrémités des espaces ou locaux seront des matériaux résistant au feu.
-
-- **(16)** Les cloisons en acier, convenablement armaturées, seront censées être des cloisons résistant au feu si elles ne sont pas revêtues de matériaux inflammables. Si ces cloisons sont en contact avec des matériaux inflammables ou en son très rapprochées, elles seront convenablement isolées vis-à-vis de ces matériaux.
-> DORS/95-254, art. 32.
+**72** [Abrogé, DORS/2017-14, art. 402]
 
 
 
-
-**72** Il sera installé un système automatique de pulvérisation d’eau et d’alerte pouvant protéger efficacement contre l’incendie toutes les parties fermées du navire.
-
-
-
-**73** Les peintures, vernis ou autres préparations de nature éminemment inflammable, comme celles qui sont à base de nitrocellulose, ne seront pas employés.
+**73** [Abrogé, DORS/2017-14, art. 402]
 
 
 
-**74** Dans le cas d’un navire qui était un navire à passagers existant le 12 avril 1950, le Bureau pourra, s’il est d’avis que le présent règlement ne devrait pas s’appliquer dans toute son intégrité, avec l’approbation du ministre et sous réserve des conditions qu’il pourra imposer, permettre une dérogation à une disposition quelconque dudit règlement s’il juge que le navire offrira toute garantie de sécurité lorsqu’il remplira ces conditions.
+**74** [Abrogé, DORS/2017-14, art. 402]
 
 
 
 
 **PARTIE VI** 
-## Protection contre l’incendie des navires non à passagers ressortissant à la convention de sécurité
+## [Abrogée, DORS/2017-14, art. 402]
+
+
+**75** [Abrogé, DORS/2017-14, art. 402]
 
 
 
-### Application de la présente partie
-
-
-**75** La présente partie s’applique aux navires ressortissant à la Convention de sécurité qui ne transportent pas plus de 12 passagers et dont la quille a été posée le 26 mai 1965 ou après cette date.
+**76** [Abrogé, DORS/2017-14, art. 402]
 
 
 
-
-### Matériaux utilisés
-
-
-**76** 
-
-- **(1)** Dans le cas des navires d’une jauge brute de 4 000 tonneaux ou plus,
-	- **a)** la coque, les superstructures, les cloisons de structure et les roufs seront construits en acier ou autre matériau équivalent;
-	- **b)** dans les locaux habités, les cloisons des coursives seront construites en acier ou seront constituées par des cloisons type B incombustibles;
-	- **c)** les revêtements permanents de pont à l’intérieur des locaux habités situés sur les ponts qui forment la partie supérieure des locaux de machines ou des locaux à marchandises seront d’un type ne s’enflammant pas facilement;
-	- **d)** les escaliers intérieurs, les cages des ascenseurs et des monte-charge et les autres puits de même nature dans les locaux habités seront construits en acier ou en un autre matériau équivalent;
-	- **e)** les cloisons d’entourage d’un local de génératrice de secours et les cloisons séparant les cuisines, les magasins à peinture, les lampisteries et les magasins du maître d’équipage des locaux habités seront construites en acier ou en un autre matériau équivalent;
-	- **f)** il ne sera pas utilisé de peintures, vernis ou autres substances analogues à base de cellulose ou de produits très inflammables dans les locaux habités, les locaux de machines et les postes de sécurité;
-	- **g)** les tuyautages d’huile ou de combustibles liquides seront en un matériau approuvé par le Bureau, compte tenu du risque d’incendie;
-	- **h)** les dalots extérieurs, les boîtes de décharges sanitaires ou les autres conduits d’évacuation ne seront pas construits en des matériaux susceptibles de défaillance en cas d’incendie, s’ils sont proches de la flottaison ou s’ils sont situés en des endroits où la défaillance de ces matériaux en cas d’incendie risquerait de provoquer un envahissement;
-	- **i)** les radiateurs électriques, s’il y en a à bord, seront fixés à demeure et construits de façon à réduire au minimum les risques d’incendie; on n’installera pas de radiateurs dont l’élément chauffant expose les vêtements, rideaux ou autres articles similaires à se carboniser ou à prendre feu au contact de la chaleur dégagée par cet élément;
-	- **j)** il ne sera pas utilisé de films sur supports de cellulose pour les appareils cinématographiques à bord des navires; et
-	- **k)** des dispositifs seront prévus pour l’arrêt des ventilateurs qui desservent les locaux de machines et les locaux à marchandises et pour la fermeture de toutes les portes, manches à air, espaces annulaires autour des cheminées et autres ouvertures conduisant à ces locaux; ces dispositifs devront pouvoir être mis en fonctionnement de l’extérieur de ces locaux en cas d’incendie.
-
-- **(2)** Aux fins du présent article, ***revêtement permanent de pont*** désigne un revêtement adhérant au pont, ou fixé à demeure au pont et comprend toute combinaison de matériaux de revêtement de pont, comme les sous-conclus et les matériaux de surface.
-> DORS/95-254, art. 32.
-
-
-
-
-**77** Dans le cas des navires d’une jauge brute de 500 tonneaux ou plus,
-- **a)** les claire-voies des locaux contenant les machines principales de propulsion, ou des chaudières à combustible liquide ou des machines auxiliaires à combustion interne d’une puissance totale égale ou supérieure à 746 kW (1 000 HP) devront pouvoir être fermées et, s’il est pratiquement possible, être ouvertes de l’extérieur du local en cas d’incendie et, si elles comportent des panneaux vitrés, ceux-ci seront de construction résistant au feu et en verre armé et auront des tapes extérieures fixées à demeure, en acier ou en un autre matériau équivalent;
-- **b)** il ne sera pas pratiqué de fenêtres dans les encaissements de machines, sauf dans les cas où le Bureau estime qu’elles sont nécessaires et qu’elles ne constituent pas un danger d’incendie; si de telles fenêtres sont pratiquées, elles seront du type fixe, de construction résistant au feu et en verre armé et elles auront des tapes extérieures fixées à demeure, en acier ou en un autre matériau équivalent; et
-- **c)** les prescriptions de l’article 40 relatives à l’affichage des plans s’appliqueront dans la mesure où elles visent les navires non à passagers.
-> DORS/95-254, art. 32.
-
+**77** [Abrogé, DORS/2017-14, art. 402]
 
 
 
@@ -1302,12 +845,8 @@ méthode III : compartimentage des locaux habités et des locaux de service ent
 ### Application de la présente partie
 
 
-**79** 
-
-- **(1)** Les articles 80, 81, 84 et 98 ne s’appliquent pas aux navires auxquels la partie VIII s’applique.
-
-- **(2)** L’article 84 ne s’applique pas aux navires auxquels les parties IX ou X s’appliquent.
-> DORS/83-521, art. 3.
+**79** Les articles 80, 81 et 98 ne s’appliquent pas aux navires auxquels la partie VIII s’applique.
+> DORS/83-521, art. 3; DORS/2017-14, art. 403.
 
 
 
@@ -1486,32 +1025,10 @@ le nombre requis de ces sabords de chargement et autres ouvertures correspond au
 
 
 
-### Échappées — Navires à passagers et navires de charge
+### Plans et inspections
 
 
-**84** 
-
-- **(1)** Sur tous les navires, sauf si l’on juge qu’il ne serait pas raisonnable de le faire, il y aura au moins deux échappées, entrée principale comprise, dans tous les locaux en général qui sont accessibles aux passagers ou dans lesquels l’équipage peut loger ou normalement être employé. Dans tous les locaux, au moins l’une des échappées n’exigera pas la traversée de portes étanches.
-
-- **(2)** Les deux échappées seront aussi éloignées que possible l’une de l’autre de façon à atténuer le risque de blocage des deux échappées lors d’un seul incident.
-
-- **(3)** Les échelles verticales et écoutillons ne seront pas, en règle générale, censés être des échappées satisfaisantes. Toutefois, s’il est démontré que l’installation d’un escalier est impossible, une échelle verticale pourra servir de seconde échappée.
-
-- **(4)** Les portes donnant accès à l’une ou l’autre des échappées exigées ne seront pas munies de dispositifs de verrouillage mais des portes de secours ou des dispositifs de verrouillage pouvant être facilement forcés en cas d’urgence pourront être employés à condition qu’il soit affiché à demeure et bien à la vue, des deux côtés de la porte, un avis à cet effet. Cette prescription ne vise pas les portes extérieures des roufs qui sont fermées à clé seulement et dont la clé est confiée à l’un des officers du navire.
-
-- **(5)** Les escaliers auront une largeur suffisante, compte tenu du nombre de personnes y ayant accès pour s’échapper. Dans le cas des navires à passagers, ils n’auront en aucun cas moins de 760 mm de largeur. S’ils ont une largeur de plus de 1,52 m, il y aura une rampe centrale. La largeur d’un escalier sera la largeur libre des marches ou la largeur libre entre les rampes.
-
-- **(6)** Les coursives sans issue ou les passages équivalents, qui ont une longueur de plus de 13 m, ne sont pas admis.
-
-- **(7)** Tous les locaux de réunion ayant une superficie de pont de plus de 28 m<sup>2</sup> auront au moins deux sorties. S’il est possible, ces sorties donneront sur des coursives, salles ou locaux différents pour atténuer le danger de blocage des deux sorties lors d’un même incident.
-
-- **(8)** Les escaliers, les coursives et les portes seront disposés de façon à permettre un accès facile et direct aux différents postes de rassemblement et aux zones d’embarquement sur les embarcations de sauvetage.
-
-- **(9)** Si une porte de cabine conduit directement dans une tranche des machines, la cabine aura une échappée distincte.
-
-- **(10)** Les portes qui donnent directement accès de la tranche des machines aux locaux habités seront de construction étanche aux gaz.
-> DORS/95-254, art. 32.
-
+**84** [Abrogé, DORS/2017-14, art. 404]
 
 
 
@@ -1626,90 +1143,24 @@ le nombre requis de ces sabords de chargement et autres ouvertures correspond au
 
 
 
+**94** [Abrogé, DORS/2017-14, art. 405]
 
-### Marquage du matériel d’incendie et autre équipement de secours
 
 
-**94** 
+**95** [Abrogé, DORS/2017-14, art. 405]
 
-- **(1)** Le marquage nécessaire à la gouverne des passagers, en cas d’urgence, sera effectué; dans des cas particuliers et spécialement pour les petits navires, le marquage prescrit pourra être modifié ou omis s’il est démontré à la satisfaction d’un inspecteur de navires à vapeur que ce marquage n’est pas nécessaire.
 
-- **(2)** Les affiches de cabine, les indications de direction et les autres avis semblables seront imprimés en anglais ou en français ainsi que dans d’autres langues si le service auquel le navire est affecté l’exige.
 
-- **(3)** Dans le cas où des lettres rouges sont prévues au présent article, l’emploi de lettres d’une couleur faisant contraste sur un fond rouge sera admissible.
+**96** [Abrogé, DORS/2017-14, art. 405]
 
-- **(4)** Le marquage suivant est applicable à tous les navires visés par les parties III et V et aux navires de charge d’une jauge brute de 500 tonneaux ou plus :
-	- **a)** le commutateur de la cloche d’alerte générale devra, dans la timonerie et dans le poste de sécurité, s’il y en a à ce dernier endroit, être indiqué en caractères indélébiles, faciles à lire, par une inscription sur une plaque métallique ou par un écriteau en lettres rouges sur fond convenable, se lisant ainsi : « ALERTE GÉNÉRALE »;
-	- **b)** les cloches d’alerte générale seront indiquées par une inscription en lettres rouges d’au moins 13 mm de hauteur, se lisant ainsi : « ALERTE GÉNÉRALE — DÈS QUE LA CLOCHE SONNE, RENDEZ-VOUS À VOTRE POSTE »;
-	- **c)** toutes les alertes CO<sub>2</sub> seront clairement indiquées, ainsi : « DÈS QUE L’ALERTE SONNE, QUITTER LES LIEUX, CO<sub>2</sub> MIS EN LIBERTÉ »;
-	- **d)** les armoires ou locaux de commande renfermant les soupapes ou les collecteurs des différents systèmes d’extinction d’incendie porteront, en lettres rouges bien visibles d’au moins 50 mm de hauteur, une inscription facile à lire ainsi conçue : « EXTINCTION PAR LA VAPEUR », « EXTINCTION PAR LE CO<sub>2</sub> », « EXTINCTION PAR LA MOUSSE » ou « EXTINCTION PAR PULVÉRISATION D’EAU », selon le cas;
-	- **e)** chaque bouche d’incendie sera indiquée par une inscription en caractères de couleur rouge d’au moins 50 mm de hauteur, se lisant ainsi : « POSTE D’INCENDIE N<sup>o</sup> 1 », « 2 », « 3 », etc., selon le cas. Si la manche n’est pas placée en un lieu ouvert ou sous verre de façon à être aperçue facilement, l’inscription sera placée de manière à être facilement aperçue d’une certaine distance;
-	- **f)** les armoires ou espaces renfermant des appareils respiratoires autonomes, des casques à fumée ou des masques à fumée porteront l’inscription : « APPAREILS RESPIRATOIRES AUTONOMES », « CASQUES À FUMÉE » ou « MASQUES À FUMÉE », selon le cas;
-	- **g)** chaque extincteur portatif à main portera un numéro et le lieu d’arrimage portera un numéro correspondant en caractère d’au moins 13 mm de hauteur. S’il n’est utilisé qu’un seul type et une seule grosseur d’extincteur portatif à main, le numérotage pourra être omis;
-	- **h)** tous les feux de secours porteront la lettre « S », laquelle aura au moins, 13 mm de hauteur;
-	- **i)** il sera affiché dans la chambre de l’appareil à gouverner des instructions en lettres et chiffres d’au moins 13 mm, donnant point par point la marche à suivre pour passer à l’appareil à gouverner de secours. Chaque embrayage, roue d’engrenage, levier, soupape ou commutateur qui est utilisé au cours du changement portera des chiffres ou des lettres gravés sur une plaque métallique ou peints de façon que ces inscriptions puissent être reconnues d’une distance convenable. Les instructions indiqueront chaque embrayage ou goupille à engager ou désengager et chaque soupape ou commutateur à ouvrir ou fermer pour passer à tout appareil à gouverner dont le navire est muni. Il y aura aussi des instructions sur l’alignement de toutes les roues directrices et du gouvernail, au milieu du navire, avant le passage d’un appareil à un autre.
 
-- **(5)** Le marquage suivant vise tous les navires à passagers :
-	- **a)** les boîtes d’alerte à commande manuelle porteront, en caractères indélébiles faciles à lire, l’inscription « BRISER LA VITRE EN CAS D’INCENDIE », ou une inscription équivalente suivant le type de boîte. Toutes les boîtes d’alerte à commande manuelle seront numérotées en rouge sur la cloison adjacente, en chiffres d’au moins 13 mm. Le numéro concordera avec le numéro de la zone;
-	- **b)** dans la chambre des machines, les cloches des dispositifs de détection d’incendie, des dispositifs automatiques de pulvérisation d’eau (alarme manuelle) et des dispositifs de détection de fumée seront indiquées en lettres rouges d’au moins 25 mm par une inscription se lisant ainsi : « AVERTISSEUR D’INCENDIE », « AVERTISSEUR DE PULVÉRISATION D’EAU » ou « AVERTISSEUR DE DÉTECTION DE FUMÉE », selon le cas. Sur la passerelle et aux postes de sécurité, si ces dispositifs d’alerte ne font pas partie d’une armoire d’alerte facilement reconnaissable, les cloches porteront des indications convenables, comme ci-dessus;
-	- **c)** toutes les portes d’incendie des cloisons des tranches verticales principales ou des entourages d’escalier, à l’exception de celles des locaux particuliers comme les cabines, locaux de ventilateur, armoires de service, etc., porteront des lettres et chiffres, en caractères bien visibles d’au moins 10 mm gravés sur une plaque, ou inscrits de façon équivalente, l’indication se lisant ainsi : « P.I. 1 », « 2 », « 3 », et tout autre chiffre approprié. Si un avis au stencil ou autre avis semblable est utilisé, les caractères auront au moins 25 mm de hauteur. Le numéro devra être bien visible lorsque la porte est ouverte;
-	- **d)** toutes les portes étanches des cloisons de compartimentage porteront de chaque côté des lettres et chiffres bien visibles, d’au moins 10 mm, gravés sur une plaque, ou inscrits de façon équivalente, l’indication se lisant ainsi : « P.E. 1 », « 2 », « 3 », etc. Si un avis au stencil ou autre avis semblable est utilisé, les caractères auront au moins 25 mm de hauteur. Si la construction ne permet pas de voir le numéro lorsque la porte est ouverte, le numéro sera également placé sur le cadre ou en un autre lieu adjacent à la porte. Tous les postes de télécommande des portes étanches seront marqués de la même manière et, en outre, la direction dans laquelle fonctionne le levier ou la roue pour ouvrir ou fermer la porte sera marquée de façon bien visible;
-	- **e)** des indications éclairées portant le mot « SORTIE » en lettres rouges seront placées sur tout le navire de façon que, de toute partie normalement accessible aux passagers ou à l’équipage, sauf la tranche des machines, les magasins et autres espaces semblables où les membres de l’équipage ne travaillent pas d’ordinaire, la direction à suivre pour s’échapper vers le pont découvert soit apparente lorsque toutes les portes d’incendie des entourages d’escalier et des cloisons de tranches verticales principales et toutes les portes étanches sont fermées. Les portes des cabines et autres petits locaux semblables n’auront pas à avoir de telles indications si, lorsqu’on sort, la direction à suivre pour s’échapper est apparente. Les petits locaux ou espaces dotés d’une échappée secondaire qui n’est pas clairement apparente auront, pour indiquer cette échappée, une indication convenable en lettres rouges se lisant ainsi : « SORTIE DE SECOURS ».
-> DORS/95-254, art. 32.
+
+**97** [Abrogé, DORS/2017-14, art. 405]
 
 
 
 
-
-### Indications de direction des postes de rassemblement
-
-
-**95** 
-
-- **(1)** Des indications de direction en nombre suffisant seront installées dans les coursives, escaliers, etc., d’un bout à l’autre des navires à passagers de façon que, de toute partie du navire normalement accessible aux passagers ou à l’équipage, le plus court chemin à suivre pour atteindre les postes de rassemblement soit apparent lorsque toutes les portes d’incendie des entourages d’escalier et des cloisons des tranches verticales principales et toutes les portes étanches des cloisons de compartimentage sont fermées. L’indication, écrite en lettres d’au moins 25 mm et accompagnée d’une flèche de dimensions appropriées, sera la suivante :POSTES DE RASSEMBLEMENT
-> Image: Longue flèche pointant vers la droite.
-
-
-
-
-- **(2)** Les indications placées près des sorties menant au pont des embarcations seront semblables aux précédentes et indiqueront les postes de rassemblement les plus proches de la sortie. Elles se liront ainsi :POSTES DE RASSEMBLEMENT N<sup>OS</sup> 1, 3, 5
-
-(ou 2, 4, 6, etc.)
-
-
-> Image: Longue flèche pointant vers la droite.
-
-
-
-
-- **(3)** Toute réunion de flèches et de caractères de 25 mm qui indiquera la direction à suivre sera acceptable.
-> DORS/95-254, art. 32.
-
-
-
-
-
-### Avis de cabine
-
-
-**96** Il sera affiché bien à la vue dans les cabines des passagers des avis encadrés qui donneront les signaux d’urgence suivants, ceux-ci pouvant être établis séparément ou ensemble :SIGNAUX D’URGENCE
-
-ABANDON DU NAVIRE (OU DES POSTES DE RASSEMBLEMENT) — PLUS DE SIX SONS BREFS ET UN SON PROLONGÉ DU SIFFLET AVEC EN OUTRE LE MÊME SIGNAL PAR LES CLOCHES D’ALERTE GÉNÉRALE.
-
-LES OCCUPANTS DE CETTE PIÈCE SE RENDENT AU POSTE DE RASSEMBLEMENT N<sup>o</sup> ____________ TOUS LES PASSAGERS SONT TENUS DE METTRE UN GILET DE SAUVETAGE ET DE SE RENDRE À LEUR POSTE DE RASSEMBLEMENT DÈS QUE SONNENT LES CLOCHES D’ALERTE GÉNÉRALE.
-
-
-
-
-
-
-### Registres automatiques de ventilation
-
-
-**97** L’emplacement des commandes manuelles des registres automatiques d’incendie des conduits de ventilation qui traversent des cloisons de tranches verticales principales sera indiqué par une inscription en lettres rouges d’au moins 13 mm de hauteur, se lisant ainsi : « REGISTRE D’INCENDIE »; en outre, leur position ouverte et leur position fermée seront indiquées par une inscription semblable.
-> DORS/95-254, art. 32.
-
-
+### Fenêtres de la timonerie
 
 
 **98** 
@@ -2371,2383 +1822,471 @@ doit être situé de manière que la partie inférieure de l’ouverture, si le 
 
 
 **PARTIE IX** 
-## Protection contre l’incendie des navires-citernes et des transporteurs mixtes
+## [Abrogée, DORS/2017-14, art. 407]
 
 
+**144** [Abrogé, DORS/2017-14, art. 407]
 
-### Définitions
 
 
-**144** Dans la présente partie,
+**145** [Abrogé, DORS/2017-14, art. 407]
 
-***acier ou matériau équivalent*** désigne l’acier ou tout matériau qui, de lui-même ou par isolation, possède du point de vue de la résistance mécanique et thermique des propriétés équivalentes à celles de l’acier; (*steel or an equivalent material*)
 
-***Bureau***[Abrogée, DORS/90-240, art. 3]
 
-***cage d’escalier*** désigne une enceinte qui protège en permanence contre l’incendie un escalier qui traverse plus d’un pont; (*stairtower*)
+**146** [Abrogé, DORS/2017-14, art. 407]
 
-***chambre de pompes à cargaison*** désigne le compartiment où se trouvent les pompes utilisées pour charger, décharger ou transférer les cargaisons liquides; (*cargo pump room*)
 
-***cloisonnement de type A*** désigne un cloisonnement formé par une cloison ou un pont
-- **a)** construits en acier ou en un matériau équivalent, et
-- **b)** renforcés de manière à pouvoir empêcher le passage de la fumée et des flammes quand ils sont soumis pendant 60 minutes à l’essai au feu standard; (*“A” Class division*)
 
-***cloisonnement de type A-0*** désigne un cloisonnement de type A qui n’est pas isolé de la façon prescrite dans la définition de ***cloisonnement de type A-60***, ***cloisonnement de type A-30*** et ***cloisonnement de type A-15***; (*“A-0” Class division*)
+**147** [Abrogé, DORS/2017-14, art. 407]
 
-***cloisonnement de type A-60***, ***cloisonnement de type A-30*** et ***cloisonnement de type A-15*** désignent un cloisonnement de type A isolé au moyen de matériaux non combustibles de sorte que, si une face du cloisonnement est soumise à l’essai au feu standard, la température moyenne de l’autre face du cloisonnement ne dépasse pas de plus de 139 °C la température initiale et la température en un point quelconque, joints compris, ne dépasse pas de plus de 180 °C la température initiale pendant :
-- **a)** les 60 premières minutes de l’essai, dans le cas d’un cloisonnement de type A-60,
-- **b)** les 30 premières minutes de l’essai, dans le cas d’un cloisonnement de type A-30,
-- **c)** les 15 premières minutes de l’essai, dans le cas d’un cloisonnement de type A-15; (*“A-60” Class division*, *“A-30” Class division**and**“A-15” Class division*)
 
-***cloisonnement de type B*** désigne un cloisonnement formé par une cloison, un vaigrage ou un lambrissage construits de manière à empêcher le passage des flammes quand ils sont soumis pendant 30 minutes à l’essai au feu standard; (*“B” Class division*)
 
-***cloisonnement de type B-0*** désigne un cloisonnement de type B qui n’est pas isolé de la façon prescrite dans la définition de ***cloisonnement de type B-15***; (*“B-0” Class division*)
+**148** [Abrogé, DORS/2017-14, art. 407]
 
-***cloisonnement de type B-15*** désigne un cloisonnement de type B construit de matériaux non combustibles de sorte que, si une face du cloisonnement est soumise à l’essai au feu standard, la température moyenne de l’autre face du cloisonnement ne dépasse pas de plus de 139 °C la température initiale et la température en un point quelconque, joints compris, ne dépasse pas de plus de 225 °C la température initiale pendant les 15 premières minutes de l’essai; (*“B-15” Class division*)
 
-***cloisonnement de type C*** désigne un cloisonnement construit de matériaux non combustibles; (*“C” Class division*)
 
-***coursive sans issue*** désigne une coursive ou une partie de coursive dotée d’une seule issue; (*dead-end corridor*)
+**149** [Abrogé, DORS/2017-14, art. 407]
 
-***creux sur quille*** désigne le creux sur quille défini à l’article 3 de l’annexe I du [Règlement sur les lignes de charge (navires de mer)](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1401-1500/C.R.C.,%20ch.%201441.md); (*moulded depth*)
 
-***difficilement inflammable*** Dans le cas d’un revêtement de pont, qualifie un matériau qui est conforme aux exigences de la norme TP 439 intitulée Normes de protection contre l’incendie, à la construction : Essais et procédures d’homologation, publiée par le ministère des Transports, avec ses modifications successives. (*not readily ignitable*)
 
-***espace à cargaison*** désigne un espace utilisé pour les marchandises et comprend les citernes destinées aux hydrocarbures, ainsi que les puits qui y aboutissent; (*cargo space*)
+**150** [Abrogé, DORS/2017-14, art. 407]
 
-***faible pouvoir propagateur des flammes*** Dans le cas d’une surface ou d’un matériau appliqué, qualifie une surface ou un matériau qui empêche la propagation des flammes telle qu’elle est déterminée conformément à la norme TP 439 intitulée Normes de protection contre l’incendie, à la construction : Essais et procédures d’homologation, publiée par le ministère des Transports, avec ses modifications successives. (*low flame spread characteristics*)
 
-***groupe de traitement du mazout*** désigne l’équipement qui sert à préparer le mazout destiné à alimenter une chaudière ou le mazout préchauffé destiné à un moteur à combustion interne et, lorsque la pression du mazout est supérieure à 180 kPa, comprend les pompes de mise sous pression de mazout, les filtres et les réchauffeurs; (*oil fuel unit*)
 
-***indice de résistance au feu de type A-60***, ***indice de résistance au feu de type A-30***, ***indice de résistance au feu de type A-15*** et ***indice de résistance au feu de type A-0*** désignent les prescriptions de température et de résistance contenues dans les définitions de ***cloisonnement de type A-60***, ***cloisonnement de type A-30*** et ***cloisonnement de type A-15*** et de ***cloisonnement de type A-0***, selon le cas; (*“A-60” Class fire rating*, *“A-30” Class fire rating*, *“A-15” Class fire rating**and**“A-0” Class fire rating*)
+**151** [Abrogé, DORS/2017-14, art. 407]
 
-***indice de résistance au feu de type B-15*** et ***indice de résistance au feu de type B-0*** désignent les exigences de température et de résistance contenues dans la définition de ***cloisonnement de type B-15*** et de ***cloisonnement de type B-0***, selon le cas; (*“B-15” Class fire rating**and**“B-0” Class fire rating*)
 
-***local de réunion*** comprend les salles à manger, les salons et autres locaux de même nature entourés de cloisonnements permanents; (*public space*)
 
-***local de service*** comprend les cuisines, les offices contenant des appareils de cuisson, les buanderies, les armoires, les magasins, les ateliers qui ne sont pas situés dans les locaux des machines et tous les autres locaux de même nature, ainsi que les puits qui y aboutissent; (*service space*)
+**152** [Abrogé, DORS/2017-14, art. 407]
 
-***local des machines*** désigne un local des machines de la catégorie A et tout autre espace contenant les chaudières, les groupes de traitement du mazout, les machines à vapeur ou les moteurs à combustion interne, les génératrices, les machines électriques principales, les postes de mazoutage, les machines frigorifiques, les appareils de stabilisation, les installations de ventilation et de climatisation ou les machines de propulsion et tout autre local semblable, et comprend les puits aboutissant au local des machines; (*machinery space*)
 
-***local des machines de la catégorie A*** désigne un espace contenant
-- **a)** des moteurs à combustion interne servant de machines de propulsion principales ou à une autre fin semblable, dont la puissance globale n’est pas inférieure à 373 kW, ou
-- **b)** une chaudière au mazout ou un groupe de traitement du mazout,
 
-et comprend les puits aboutissant à un local des machines de la catégorie A; (*machinery space of Category A*)
+**153** [Abrogé, DORS/2017-14, art. 407]
 
-***local d’habitation*** comprend les locaux de réunion, les coursives, les locaux sanitaires, les cabines, les bureaux, les locaux affectés à l’équipage, l’hôpital, le cinéma, les salles de jeux et de loisir, les offices ne contenant pas d’appareil de cuisson et les autres locaux semblables; (*accommodation space*)
 
-***matériau non combustible*** S’entend d’un matériau qui est conforme aux exigences de la norme TP 439 intitulée Normes de protection contre l’incendie, à la construction : Essais et procédures d’homologation, publiée par le ministère des Transports, avec ses modifications successives. (*non-combustible material*)
 
-***navire-citerne*** désigne un navire à vapeur construit ou adapté pour le transport en vrac de cargaisons liquides de nature inflammable; (*tanker*)
+**154** [Abrogé, DORS/2017-14, art. 407]
 
-***navire existant*** désigne un navire qui n’est pas un navire neuf; (*existing ship*)
 
-***navire neuf*** désigne un navire
-- **a)** dont la quille a été posée ou qui en était à un stade similaire de construction le 1<sup>er</sup> janvier 1982 ou après cette date,
-- **b)** qui a été transformé en navire-citerne ou en transporteur mixte et dont la transformation a débuté le 1<sup>er</sup> janvier 1982 ou après cette date, ou
-- **c)** qui a été construit à l’extérieur du Canada et qui a été ultérieurement immatriculé au Canada le 1<sup>er</sup> janvier 1982 ou après cette date,
 
-sauf qu’un navire visé aux alinéas a) ou b) doit être considéré comme un navire existant si le contrat concernant sa construction ou sa transformation a été adjugé avant le 1<sup>er</sup> janvier 1982 et que sa construction ou sa transformation a débuté au cours de la période commençant le 1<sup>er</sup> janvier 1982 et se terminant le 31 décembre 1982; (*new ship*)
+**155** [Abrogé, DORS/2017-14, art. 407]
 
-***poids lège*** désigne la masse d’eau, en tonnes métriques, de densité relative de 1,025 déplacée par un navire sans les marchandises, le combustible, l’huile de graissage, le lest d’eau, l’eau douce ou l’eau d’alimentation contenue dans les citernes, les approvisionnements, les passagers, les membres d’équipage et les effets des passagers et des membres d’équipage; (*lightweight*)
 
-***port en lourd*** désigne la différence, en tonnes métriques, entre la masse d’eau de densité relative de 1,025 déplacée par un navire chargé jusqu’à la ligne de charge selon son franc-bord d’été assigné, à la masse d’eau déplacée par le navire à l’état lège; (*deadweight*)
 
-***poste de commande de la cargaison*** désigne l’endroit d’où une personne peut diriger le chargement, le déchargement ou le transfert d’une cargaison liquide; (*cargo control station*)
+**156** [Abrogé, DORS/2017-14, art. 407]
 
-***poste de sécurité*** comprend
-- **a)** tout local contenant les sources d’alimentation électrique et d’éclairage de secours,
-- **b)** la timonerie, la chambre des cartes et tout espace contenant le matériel principal de navigation,
-- **c)** tout local contenant le matériel radio du navire,
-- **d)** tout poste de lutte contre l’incendie et tout poste de détection d’incendie,
-- **e)** le poste de commande des machines de propulsion s’il est situé à l’extérieur du local affecté à ces machines,
-- **f)** tout local où est centralisé le matériel d’alerte, et
-- **g)** tout local où sont centralisés les systèmes de sonorisation d’urgence ou le matériel d’urgence; (*control station*)
 
-***revêtement primaire de pont*** désigne un matériau recouvrant en permanence la surface supérieure du pont; (*primary deck covering*)
 
-***tension de vapeur (Reid)***[Abrogée, DORS/2002-220, art. 5]
+**157** [Abrogé, DORS/2017-14, art. 407]
 
-***transporteur mixte*** désigne un navire à vapeur conçu pour transporter en vrac tantôt des hydrocarbures, tantôt des marchandises solides; (*combination carrier*)
 
-***vaigrage continu de type B*** ou ***lambrissage continu de type B*** désigne un vaigrage ou un lambrissage construits selon les normes prescrites pour un cloisonnement de type B et qui ne se terminent qu’à un cloisonnement de type A ou à un cloisonnement de type B. (*continuous “B” Class ceiling*or*continuous “B” Class lining*)
-> DORS/78-605, art. 3; DORS/83-521, art. 4; DORS/90-240, art. 3; DORS/2002-220, art. 5.
 
+**158** [Abrogé, DORS/2017-14, art. 407]
 
 
 
+**159** [Abrogé, DORS/2017-14, art. 407]
 
-### Emplacement et séparation des locaux
 
 
-**145** 
+**160** [Abrogé, DORS/2017-14, art. 407]
 
-- **(1)** Sous réserve des paragraphes (2) et (3), tout local des machines de catégorie A doit être
-	- **a)** placé à l’arrière des citernes à cargaison et des caisses de décantation;
-	- **b)** isolé des citernes à cargaison et des caisses de décantation par un cofferdam, une chambre de pompes à cargaison ou une soute à mazout; et
-	- **c)** placé à l’arrière des chambres de pompes à cargaison et des cofferdams lorsque ceux-ci servent à isoler le local d’une citerne à cargaison ou d’une caisse de décantation.
 
-- **(2)** Sous réserve du paragraphe (3), la partie inférieure d’une chambre de pompes à cargaison peut former une niche dans un local des machines de la catégorie A pour recevoir les pompes, à la condition que la hauteur de la niche ne dépasse pas le tiers du creux sur quille.
 
-- **(3)** La partie inférieure d’une chambre de pompes à cargaison peut former, dans un local des machines de la catégorie A, une niche d’une hauteur supérieure à celle prévue au paragraphe (2) si les conditions suivantes sont réunies :
-	- **a)** une telle hauteur est requise pour assurer l’accès et la mise en place d’une tuyauterie adéquate;
-	- **b)** la hauteur de la niche ne dépasse pas la moitié du creux sur quille;
-	- **c)** il s’agit de la chambre de pompes à cargaison d’un navire dont le port en lourd ne dépasse pas 25 000 tonnes métriques.
+**161** [Abrogé, DORS/2017-14, art. 407]
 
-- **(4)** Sous réserve du paragraphe (5), les locaux d’habitation, les postes de commande de la cargaison, les postes de sécurité et les locaux de service autres que les armoires de service isolées contenant le matériel nécessaire à la manutention de la cargaison, doivent être placés à l’arrière
-	- **a)** des citernes à cargaison et des caisses de décantation; et
-	- **b)** des chambres de pompes à cargaison et des cofferdams qui, conformément au paragraphe (1), isolent les citernes à cargaison ou les caisses de décantation des locaux des machines de la catégorie A.
 
-- **(5)** Le Bureau peut permettre qu’un local d’habitation, un poste de sécurité, un local des machines autre qu’un local des machines de la catégorie A, ou un local de service soient placés en avant des citernes à cargaison, des caisses de décantation, des chambres de pompes à cargaison et des cofferdams, s’il est d’avis
-	- **a)** que cette disposition respecte une norme de sécurité équivalente à celle qui est visée au paragraphe (4); et
-	- **b)** que le matériel approprié d’extinction des incendies est prévu.
 
-- **(6)** Un poste de navigation installé au-dessus de la tranche des citernes à cargaison doit
-	- **a)** servir uniquement aux fins de la navigation;
-	- **b)** être séparé du pont des citernes à cargaison par un espace ouvert d’une hauteur minimale de 2 m; et
-	- **c)** être protégé contre l’incendie de la même manière qu’un poste de sécurité.
+**162** [Abrogé, DORS/2017-14, art. 407]
 
-- **(7)** Lorsqu’un pont sur lequel des déversements d’hydrocarbures peuvent survenir comprend un local d’habitation ou un local de service, le pont doit être doté d’un surbau continu s’étendant d’un bord à l’autre du navire, ou d’un autre dispositif approprié empêchant les hydrocarbures répandus de pénétrer dans les locaux en question.
 
-- **(8)** Toute ouverture dans la tranche des citernes à cargaison ou dans les parois d’une superstructure ou d’un rouf doit être disposée de manière
-	- **a)** à empêcher le plus possible l’introduction de gaz dans un espace fermé contenant une source d’inflammation; et
-	- **b)** à empêcher des gaz de s’accumuler aux environs d’une machine ou d’un appareil de pont qui peut constituer un danger d’inflammation.
 
-- **(9)** Toute source d’inflammation, comme un appareil électrique, doit être disposée de manière à écarter les risques d’explosion.
-> DORS/78-605, art. 3; DORS/83-521, art. 4; DORS/90-240, art. 4.
+**163** [Abrogé, DORS/2017-14, art. 407]
 
 
 
+**164** [Abrogé, DORS/2017-14, art. 407]
 
 
-### Structure principale
 
+**165** [Abrogé, DORS/2017-14, art. 407]
 
-**146** 
 
-- **(1)** Sous réserve des paragraphes (2) et (3), la coque, les cloisons de structure, les ponts, les superstructures et les roufs doivent être construits en acier ou en un matériau équivalent.
 
-- **(2)** Les plafonds et les tambours des locaux des machines de la catégorie A doivent être en acier.
+**166** [Abrogé, DORS/2017-14, art. 407]
 
-- **(3)** Lorsqu’une partie de la structure principale est faite d’un alliage d’aluminium,
-	- **a)** l’isolation des éléments en alliage d’aluminium des cloisonnements de type A, à l’exception de ceux qui ne soutiennent pas de charge, doit être telle que la température de l’âme ne puisse s’élever de plus de 200 °C par rapport à la température ambiante à n’importe quel moment au cours des 60 premières minutes de l’essai au feu standard;
-	- **b)** l’isolation des éléments en alliage d’aluminium des cloisonnements de type B, à l’exception de ceux qui ne soutiennent pas de charge, doit être telle que la température de l’âme ne puisse s’élever de plus de 200 °C par rapport à la température ambiante à n’importe quel moment pendant les 30 premières minutes de l’essai au feu standard; et
-	- **c)** l’isolation des éléments en alliage d’aluminium faisant partie des colonnes, des épontilles et d’autres éléments de structure servant à soutenir les zones d’arrimage et de mise à l’eau des embarcations et des radeaux de sauvetage et les zones d’embarquement, et à soutenir les cloisonnements de type A ou les cloisonnements de type B, doivent,
-		- **(i)** dans le cas des éléments de structure qui soutiennent les zones d’arrimage et de mise à l’eau des embarcations et des radeaux de sauvetage et les zones d’embarquement, ainsi que les cloisonnements de type A, respecter la limite d’élévation de température spécifiée à l’alinéa a), et
-		- **(ii)** dans le cas des éléments de structure qui soutiennent les cloisonnements de type B, respecter la limite d’élévation de température spécifiée à l’alinéa b).
-> DORS/78-605, art. 3; DORS/83-521, art. 4.
 
 
+**167** [Abrogé, DORS/2017-14, art. 407]
 
 
 
-### Résistance thermique des cloisonnements
+**168** [Abrogé, DORS/2017-14, art. 407]
 
 
-**147** 
 
-- **(1)** Toute cloison et tout pont séparant d’un local d’habitation, d’un local de service ou d’un poste de sécurité une chambre de pompes à cargaison, l’entrée de cette chambre ou un local des machines de la catégorie A doivent être des cloisonnements de type A-60.
+**169** [Abrogé, DORS/2017-14, art. 407]
 
-- **(2)** Les parois extérieures suivantes d’une superstructure ou d’un rouf enfermant un local d’habitation ou un local de service doivent être isolées selon les mêmes normes que celles applicables à un cloisonnement de type A-60 :
-	- **a)** toute la paroi faisant face aux citernes à cargaison;
-	- **b)** les côtés situés à moins de 3 m de la paroi faisant face aux citernes à cargaison; et
-	- **c)** lorsque le point de la superstructure ou du rouf surplombe le pont principal, la partie du pont en encorbellement qui se trouve à moins de 3 m de la paroi visée à l’alinéa a).
 
-- **(3)** [Abrogé, DORS/90-240, art. 5]
-> DORS/78-605, art. 3; DORS/83-521, art. 4; DORS/90-240, art. 5.
 
+**170** [Abrogé, DORS/2017-14, art. 407]
 
 
 
+**171** [Abrogé, DORS/2017-14, art. 407]
 
-### Résistance thermique des cloisons et des ponts
 
 
-**148** 
+**172** [Abrogé, DORS/2017-14, art. 407]
 
-- **(1)** La résistance thermique des cloisons et des ponts doit être conforme aux exigences de la présente partie et,
-	- **a)** lorsqu’une cloison sépare un espace visé à la colonne I du tableau I du présent article d’un espace indiqué à l’une ou l’autre des colonnes II à XI du même tableau, la cloison doit avoir l’indice minimal applicable de résistance au feu prescrit aux colonnes II à XI; et
-	- **b)** lorsqu’un pont sépare un espace visé à la colonne I du tableau II du présent article d’un espace indiqué à l’une ou l’autre des colonnes II à XI du même tableau, le pont doit avoir l’indice minimal applicable de résistance au feu prescrit aux colonnes II à XI.
 
-- **(2)** Aux fins des tableaux I et II du présent article, lorsqu’une cloison ou un pont devant avoir au moins l’indice A de résistance au feu sont dotés de lambrissages continus de type B ou de vaigrages continus de type B, le Bureau peut établir que ces lambrissages ou ces vaigrages contribuent, en tout ou en partie, à l’indice A de résistance au feu prescrit pour la cloison ou le pont.
 
-- **(3)** Aux fins des tableaux I et II du présent article,
+**173** [Abrogé, DORS/2017-14, art. 407]
 
-***autre local des machines*** désigne un local des machines défini à l’article 144, mais ne comprend pas un local des machines de la catégorie A; (*other machinery space*)
 
-***chambre de pompes à cargaison*** a le même sens qu’à l’article 144; (*cargo pump room*)
 
-***coursive*** comprend les vestibules; (*corridor*)
+**174** [Abrogé, DORS/2017-14, art. 407]
 
-***escalier*** comprend un escalier intérieur, un montecharge, un escalier mécanique qui n’est pas complètement à l’intérieur d’un local des machines ainsi que leurs enceintes; un escalier intérieur qui n’est fermé qu’à un niveau est considéré comme faisant partie de l’espace auquel il mène et dont il n’est pas séparé par une porte coupe-feu; (*stairway*)
 
-***local de service (risque élevé)*** comprend la cuisine, un office renfermant des appareils de cuisson, un local contenant de la peinture, une lampisterie, une armoire et un magasin dont la surface est égale ou supérieure à 2 m<sup>2</sup>, ainsi que les ateliers ne faisant pas partie d’un local des machines; (*service space (high risk)*)
 
-***local de service (faible risque)*** comprend les armoires et les magasins dont la surface est inférieure à 2 m<sup>2</sup>, le séchoir et la buanderie; (*service space (low risk)*)
+**175** [Abrogé, DORS/2017-14, art. 407]
 
-***local des machines de la catégorie A*** a le même sens qu’à l’article 144; (*machinery space of Category A*)
 
-***local d’habitation*** comprend un local d’habitation défini à l’article 144, à l’exclusion d’une coursive; (*accommodation space*)
 
-***pont découvert*** comprend les espaces découverts sur un pont, les promenades fermées qui ne présentent pas de risque d’incendie et les espaces situés à l’extérieur de la superstructure ou d’un rouf; (*open deck*)
+**176** [Abrogé, DORS/2017-14, art. 407]
 
-***poste de sécurité*** comprend
-- **a)** tout local contenant les sources d’alimentation électrique et d’éclairage de secours,
-- **b)** la timonerie et la chambre des cartes,
-- **c)** tout local contenant le matériel radio du navire,
-- **d)** tout local de lutte contre l’incendie, poste de commande et poste de détection des incendies,
-- **e)** le poste de commande des machines de propulsion s’il est situé à l’extérieur du local affecté à ces machines, et
-- **f)** tout local où sont centralisés les avertisseurs d’incendie. (*control station*)
-#### TABLEAU I
-<table>
-<h4>INDICE MINIMAL DE RÉSISTANCE AU FEU DES CLOISONS SÉPARANT DES ESPACES ADJACENTS</h4>
-<tr>
-<th>Colonne I</th>
-<th>Colonne II</th>
-<th>Colonne III</th>
-<th>Colonne IV</th>
-<th>Colonne V</th>
-<th>Colonne VI</th>
-<th>Colonne VII</th>
-<th>Colonne VIII</th>
-<th>Colonne IX</th>
-<th>Colonne X</th>
-<th>Colonne XI</th>
-</tr>
-<tr>
-<th>Espace</th>
-<th>Poste de sécurité</th>
-<th>Coursive</th>
-<th>Local d’habitation</th>
-<th>Escalier</th>
-<th>Local de service (faible risque)</th>
-<th>Local des machines de la catégorie A</th>
-<th>Autre local des machines</th>
-<th>Chambre de pompes à cargaison</th>
-<th>Local de service (risque élevé)</th>
-<th>Pont découvert</th>
-</tr>
-<tr>
-<td>Poste de sécurité</td>
-<td>A-0<sup><a href='#t1f1'>[1]</a></sup></td>
-<td>A-0</td>
-<td>A-60</td>
-<td>A-0</td>
-<td>A-15</td>
-<td>A-60</td>
-<td>A-15</td>
-<td>A-60</td>
-<td>A-60</td>
-<td><sup><a href='#t1fstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Coursive</td>
-<td></td>
-<td>C</td>
-<td>B-0</td>
-<td>B-0
-
-A-0<sup><a href='#t1f2'>[2]</a></sup>
-
-</td>
-<td>B-0</td>
-<td>A-60</td>
-<td>A-0</td>
-<td>A-60</td>
-<td>A-0</td>
-<td><sup><a href='#t1fstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Local d’habi­tation</td>
-<td></td>
-<td></td>
-<td>C</td>
-<td>B-0
-
-A-0<sup><a href='#t1f2'>[2]</a></sup>
-
-</td>
-<td>B-0</td>
-<td>A-60</td>
-<td>A-0</td>
-<td>A-60</td>
-<td>A-0</td>
-<td><sup><a href='#t1fstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Escalier</td>
-<td></td>
-<td></td>
-<td></td>
-<td>B-0
-
-A-0<sup><a href='#t1f2'>[2]</a></sup>
-
-</td>
-<td>B-0
-
-A-0<sup><a href='#t1f2'>[2]</a></sup>
-
-</td>
-<td>A-60</td>
-<td>A-0</td>
-<td>A-60</td>
-<td>A-0</td>
-<td><sup><a href='#t1fstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Local de service (faible risque)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>C</td>
-<td>A-60</td>
-<td>A-0</td>
-<td>A-60</td>
-<td>A-0</td>
-<td><sup><a href='#t1fstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Local des machines de la catégorie A</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><sup><a href='#t1fstar'>[*]</a></sup></td>
-<td>A-0</td>
-<td>A-0<sup><a href='#t1f3'>[3]</a></sup></td>
-<td>A-60</td>
-<td><sup><a href='#t1fstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Autre local des machines</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>A-0<sup><a href='#t1f4'>[4]</a></sup></td>
-<td>A-0</td>
-<td>A-0</td>
-<td><sup><a href='#t1fstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Chambre de pompes à cargaison</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><sup><a href='#t1fstar'>[*]</a></sup></td>
-<td>A-60</td>
-<td><sup><a href='#t1fstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Local de service (risque élevé)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>A-0<sup><a href='#t1f4'>[4]</a></sup></td>
-<td><sup><a href='#t1fstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Pont découvert</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>—</td>
-</tr>
-</table>
-
-
-## Notes
-
-
-<a name='t1f1'><sup>1.</sup></a>: Les cloisons qui séparent les uns des autres la timonerie, la chambre des cartes et le local radio peuvent avoir un indice de résistance au feu de type B-0.<br />
-
-<a name='t1f2'><sup>2.</sup></a>: Consulter les articles 170 et 171 pour connaître les exigences particulières.<br />
-
-<a name='t1f3'><sup>3.</sup></a>: Les cloisons séparant les chambres de pompes à cargaison et les locaux des machines de la catégorie A peuvent être traversées par des presse-étoupe d’arbres de pompes à cargaison et par d’autres ouvertures du même genre munies de presse-étoupe, si des joints étanches au gaz et bien graissés ou disposant d’un autre moyen pour garantir la permanence de l’étanchéité sont installés au droit de la cloison.<br />
-
-<a name='t1f4'><sup>4.</sup></a>: Une cloison correspondant à l’indice indiqué n’est nécessaire que si l’espace adjacent sert à des fins différentes. Par exemple, une cuisine adjacente à une cuisine n’est pas tenue d’avoir une cloison de type A-0, mais une cuisine adjacente à un local contenant de la peinture est tenue d’avoir une cloison de type A-0.<br />
-
-<a name='t1fstar'><sup>*</sup></a>: Lorsqu’un astérisque figure au tableau, la cloison doit être construite en acier ou en un matériau équivalent, mais elle n’est pas tenue d’avoir un indice de résistance au feu de type A.<br />
-#### TABLEAU II
-<table>
-<h4>INDICE MINIMAL DE RÉSISTANCE AU FEU DES CLOISONS SÉPARANT DES ESPACES ADJACENTS</h4>
-<tr>
-<th>Colonne I</th>
-<th>Colonne II</th>
-<th>Colonne III</th>
-<th>Colonne IV</th>
-<th>Colonne V</th>
-<th>Colonne VI</th>
-<th>Colonne VII</th>
-<th>Colonne VIII</th>
-<th>Colonne IX</th>
-<th>Colonne X</th>
-<th>Colonne XI</th>
-</tr>
-<tr>
-<th>Espace</th>
-<th>Poste de sécurité</th>
-<th>Coursive</th>
-<th>Local d’habitation</th>
-<th>Escalier</th>
-<th>Local de service (faible risque)</th>
-<th>Local des machines de la catégorie A</th>
-<th>Autre local des machines</th>
-<th>Chambre de pompes à cargaison</th>
-<th>Local de service (risque élevé)</th>
-<th>Pont découvert</th>
-</tr>
-<tr>
-<td>Poste de sécurité</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-60</td>
-<td>A-0</td>
-<td>—</td>
-<td>A-0</td>
-<td><sup><a href='#t2fstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Coursive</td>
-<td>A-0</td>
-<td><sup><a href='#t2fstar'>[*]</a></sup></td>
-<td><sup><a href='#t2fstar'>[*]</a></sup></td>
-<td>A-0</td>
-<td><sup><a href='#t2fstar'>[*]</a></sup></td>
-<td>A-60</td>
-<td>A-0</td>
-<td>—</td>
-<td>A-0</td>
-<td><sup><a href='#t2fstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Local d’habitation</td>
-<td>A-60</td>
-<td>A-0</td>
-<td><sup><a href='#t2fstar'>[*]</a></sup></td>
-<td>A-0</td>
-<td><sup><a href='#t2fstar'>[*]</a></sup></td>
-<td>A-60</td>
-<td>A-0</td>
-<td>—</td>
-<td>A-0</td>
-<td><sup><a href='#t2fstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Escalier</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-60</td>
-<td>A-0</td>
-<td>—</td>
-<td>A-0</td>
-<td><sup><a href='#t2fstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Local de service (faible risque)</td>
-<td>A-15</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-60</td>
-<td>A-0</td>
-<td>—</td>
-<td>A-0</td>
-<td><sup><a href='#t2fstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Local des machines de la catégorie A</td>
-<td>A-60</td>
-<td>A-60</td>
-<td>A-60</td>
-<td>A-60</td>
-<td>A-60</td>
-<td><sup><a href='#t2fstar'>[*]</a></sup></td>
-<td>A-60</td>
-<td>A-0</td>
-<td>A-60</td>
-<td><sup><a href='#t2fstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Autre local des machines</td>
-<td>A-15</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td><sup><a href='#t2fstar'>[*]</a></sup></td>
-<td>A-0</td>
-<td>A-0</td>
-<td><sup><a href='#t2fstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Chambre de pompes à cargaison</td>
-<td>—</td>
-<td>—</td>
-<td>—</td>
-<td>—</td>
-<td>—</td>
-<td>A-0<sup><a href='#t2f1'>[1]</a></sup></td>
-<td>A-0</td>
-<td><sup><a href='#t2fstar'>[*]</a></sup></td>
-<td>—</td>
-<td><sup><a href='#t2fstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Local de service (risque élevé)</td>
-<td>A-60</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-60</td>
-<td>A-0</td>
-<td>—</td>
-<td>A-0<sup><a href='#t2f2'>[2]</a></sup></td>
-<td><sup><a href='#t2fstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Pont découvert</td>
-<td><sup><a href='#t2fstar'>[*]</a></sup></td>
-<td><sup><a href='#t2fstar'>[*]</a></sup></td>
-<td><sup><a href='#t2fstar'>[*]</a></sup></td>
-<td><sup><a href='#t2fstar'>[*]</a></sup></td>
-<td><sup><a href='#t2fstar'>[*]</a></sup></td>
-<td><sup><a href='#t2fstar'>[*]</a></sup></td>
-<td><sup><a href='#t2fstar'>[*]</a></sup></td>
-<td><sup><a href='#t2fstar'>[*]</a></sup></td>
-<td><sup><a href='#t2fstar'>[*]</a></sup></td>
-<td>—</td>
-</tr>
-</table>
-
-
-## Notes
-
-
-<a name='t2f1'><sup>1.</sup></a>: Les ponts séparant les chambres de pompes à cargaison et les locaux des machines de la catégorie A peuvent être traversés par des presse-étoupe d’arbres de pompes à cargaison et par d’autres ouvertures du même genre munies de presse-étoupe, si des joints étanches au gaz et bien graissés ou disposant d’un autre moyen pour garantir la permanence de l’étanchéité sont installés au droit du pont.<br />
-
-<a name='t2f2'><sup>2.</sup></a>: Un pont correspondant à l’indice indiqué n’est nécessaire que si l’espace adjacent sert à des fins différentes. Par exemple, une cuisine adjacente à une cuisine n’est pas tenue d’avoir un pont de type A-0, mais une cuisine adjacente à un local contenant de la peinture est tenue d’avoir un pont de type A-0.<br />
-
-<a name='t2fstar'><sup>*</sup></a>: Lorsqu’un astérisque figure au tableau, le pont doit être construit en acier ou en un matériau équivalent, mais il n’est pas tenu d’avoir un indice de résistance au feu de type A.<br />
-> DORS/78-605, art. 3; DORS/83-521, art. 4.
-
-
-
-
-**149** 
-
-- **(1)** Les cloisons qui, aux termes du tableau I de l’article 148, sont tenues d’avoir un indice de résistance au feu de type B-0 doivent s’étendre d’un pont à un autre et jusqu’au bordé extérieur ou jusqu’à une autre limite, à moins que la cloison ne s’arrête à un vaigrage continu de type B ou à un lambrissage continu de type B.
-
-- **(2)** Les cloisonnements extérieurs de la coque et des superstructures qui, aux termes du paragraphe 146(1), doivent être construits en acier ou en un matériau équivalent, mais qui ne sont pas tenus d’avoir un indice de résistance au feu de type A, peuvent être percés en vue de l’installation de portes, de fenêtres et de hublots.
-
-- **(3)** Afin d’empêcher tout échange thermique aux intersections et aux extrémités des couches isolantes, l’isolation de la cloison ou du pont ayant l’indice de résistance au feu le plus élevé doit être prolongée
-	- **a)** d’au moins 380 mm au-delà de l’intersection ou de l’extrémité, dans le cas d’une cloison ou d’un pont en acier; ou
-	- **b)** d’au moins 450 mm au-delà de l’intersection ou de l’extrémité, dans le cas d’une cloison ou d’un pont en aluminium.
-> DORS/78-605, art. 3; DORS/83-521, art. 4; DORS/90-240, art. 6.
-
-
-
-
-
-### Exigences relatives à la construction
-
-
-**150** 
-
-- **(1)** Les lambrissages, les vaigrages, les écrans destinés à éviter le tirage ainsi que le lambourdage correspondant doivent, dans les locaux d’habitation, les locaux de service et les postes de sécurité, être faits de matériaux non combustibles.
-
-- **(2)** Sous réserve des paragraphes (3) et (4), les matériaux isolants doivent être des matériaux non combustibles.
 
-- **(3)** Les matériaux isolants des espaces à cargaison ou des compartiments réfrigérés des locaux de service peuvent être des matériaux combustibles.
-
-- **(4)** Les revêtements anticondensation et les produits adhésifs utilisés pour l’isolation des systèmes de distribution de fluide froid, ainsi que les matériaux isolants de la tuyauterie, peuvent être faits de matériaux combustibles, à la condition qu’ils soient en quantité aussi limitée que possible et que les surfaces apparentes aient un faible pouvoir propagateur des flammes.
-> DORS/78-605, art. 3; DORS/80-438, art. 2; DORS/83-521, art. 4; DORS/90-240, art. 7.
 
+**177** [Abrogé, DORS/2017-14, art. 407]
 
 
 
-**151** 
+**178** [Abrogé, DORS/2017-14, art. 407]
 
-- **(1)** Sous réserve du paragraphe (2), les cloisons, les lambrissages ou les vaigrages non combustibles installés dans les locaux d’habitation ou les locaux de service ne peuvent avoir un placage combustible de plus de 2 mm d’épaisseur.
 
-- **(2)** Les cloisons, les lambrissages ou les vaigrages non combustibles situés dans une coursive, une enceinte d’escalier ou un poste de sécurité ne peuvent avoir un placage combustible de plus de 1,5 mm d’épaisseur.
-> DORS/78-605, art. 3; DORS/83-521, art. 4.
 
+**179** [Abrogé, DORS/2017-14, art. 407]
 
 
 
-**152** Les espaces vides situés derrière les vaigrages, les boiseries et les lambrissages d’un local d’habitation, d’un local de service ou d’un poste de sécurité doivent
-- **a)** être divisés par des écrans destinés à éviter le tirage qui sont bien ajustés et dont l’écartement ne dépasse pas 14 m; et
-- **b)** être fermés verticalement à chaque pont.
-> DORS/78-605, art. 3; DORS/83-521, art. 4.
+**180** [Abrogé, DORS/2017-14, art. 407]
 
 
 
+**181** [Abrogé, DORS/2017-14, art. 407]
 
-**153** 
 
-- **(1)** Les surfaces, y compris les lambourdes, des espaces dissimulés ou inaccessibles des locaux d’habitation, des locaux de service et des postes de sécurité, les surfaces apparentes des coursives et des enceintes d’escalier, ainsi que les surfaces apparentes des vaigrages des locaux d’habitation, des locaux de service et des postes de sécurité, doivent avoir un faible pouvoir propagateur des flammes.
 
-- **(2)** Les peintures, les vernis et les autres produits utilisés sur les surfaces intérieures des locaux d’habitation, des locaux de service, des postes de sécurité ou des locaux des machines doivent avoir un faible pouvoir propagateur des flammes et ne doivent pas, lorsqu’ils brûlent, dégager des quantités excessives de fumée ou de vapeurs toxiques.
+**182** [Abrogé, DORS/2017-14, art. 407]
 
-- **(3)** La surface de l’isolant du cloisonnement intérieur d’un local des machines de la catégorie A doit être étanche aux hydrocarbures et aux vapeurs d’hydrocarbures.
-> DORS/78-605, art. 3; DORS/80-438, art. 3; DORS/83-521, art. 4.
 
 
+**183** [Abrogé, DORS/2017-14, art. 407]
 
 
-**154** 
 
-- **(1)** Les radiateurs électriques doivent être fixes et contruits de manière à réduire au minimum les risques d’incendie.
+**184** [Abrogé, DORS/2017-14, art. 407]
 
-- **(2)** Les éléments d’un radiateur électrique doivent être installés de manière qu’aucune partie des éléments ne puisse roussir des vêtements, des rideaux ou d’autres articles semblables ni y mettre le feu.
-> DORS/78-605, art. 3; DORS/83-521, art. 4.
 
 
+**185** [Abrogé, DORS/2017-14, art. 407]
 
 
-**155** Il est interdit d’utiliser des films sur supports nitrocellulosiques pour les appareils cinématographiques.
-> DORS/78-605, art. 3; DORS/83-521, art. 4.
 
+**186** [Abrogé, DORS/2017-14, art. 407]
 
 
 
-**156** Les revêtements primaires de pont utilisés dans les locaux d’habitation, les locaux de service et les postes de sécurité doivent être conformes aux Normes de protection contre l’incendie, à la construction : Essais et procédures d’homologation, TP 439, avec leurs modifications successives, et être difficilement inflammables.
-> DORS/78-605, art. 3; DORS/80-438, art. 4; DORS/83-521, art. 4; DORS/95-254, art. 16.
+**187** [Abrogé, DORS/2017-14, art. 407]
 
 
 
+**188** [Abrogé, DORS/2017-14, art. 407]
 
-**157** Lorsque des cloisonnements de type A ou des cloisonnements de type B sont percés pour le passage de câbles électriques, de tuyaux, de puits ou de conduits ou pour l’installation de bouches d’aération, d’appareils d’éclairage et d’autres dispositifs similaires, des mesures doivent être prises pour garantir que la résistance au feu de ces cloisonnements ne soit pas compromise et que les dispositifs installés soient conformes aux exigences de l’annexe D de la publication TP 2237, Normes équivalentes de protection contre l’incendie des navires à passagers, publiée en 1979 par la direction de la Sécurité des navires du ministère des Transports.
-> DORS/78-605, art. 3; DORS/83-521, art. 4.
 
 
+**189** [Abrogé, DORS/2017-14, art. 407]
 
 
-**158** 
 
-- **(1)** Les portes d’un cloisonnement de type A ou d’un cloisonnement de type B doivent être conformes aux Normes de protection contre l’incendie, à la construction : essais et procédures d’homologation, TP 439, avec leurs modifications successives, et avoir un indice de résistance au feu au moins égal à celui du cloisonnement où elles sont installées.
+**190** [Abrogé, DORS/2017-14, art. 407]
 
-- **(2)** Toute porte d’un local des machines qui donne directement accès à un local d’habitation doit être une porte à fermeture automatique et étanche au gaz.
 
-- **(3)** Les portes à fermeture automatique exigées par la présente partie ne doivent pas être munies de crochets de retenue; elles peuvent cependant être dotées de dispositifs de retenue à sécurité positive qui sont actionnés à la porte ou à partir de la timonerie.
 
-- **(4)** Les portes installées dans les cloisons de coursive et ayant un indice de résistance au feu de type B peuvent comporter des ouvertures de ventilation; de telles ouvertures sont cependant interdites dans les portes donnant sur les enceintes d’escalier.
-> DORS/78-605, art. 3; DORS/83-521, art. 4; DORS/95-254, art. 17.
+**191** [Abrogé, DORS/2017-14, art. 407]
 
 
 
+**192** [Abrogé, DORS/2017-14, art. 407]
 
-**159** Tous les escaliers intérieurs, à l’exception de ceux des locaux des machines, doivent avoir une largeur minimale de 760 mm et une inclinaison maximale de 50 degrés.
-> DORS/78-605, art. 3; DORS/83-521, art. 4.
 
 
+**193** [Abrogé, DORS/2017-14, art. 407]
 
 
 
-### Protection des ouvertures dans les cloisons coupe-feu
+**194** [Abrogé, DORS/2017-14, art. 407]
 
 
-**160** Les articles 161 à 164 s’appliquent aux ouvertures pratiquées dans les parties suivantes d’une superstructure ou d’un rouf :
-- **a)** la cloison faisant face aux citernes à cargaison; et
-- **b)** les cloisons latérales situées en deçà de 5 m de la cloison faisant face aux citernes à cargaison.
-> DORS/78-605, art. 3; DORS/83-521, art. 4.
 
+**195** [Abrogé, DORS/2017-14, art. 407]
 
 
 
-**161** Il est interdit d’installer des portes aux endroits visés à l’article 160, à moins qu’il ne s’agisse de portes
-- **a)** destinées à des locaux qui ne donnent pas accès à des locaux d’habitation, à des locaux de service ou à des postes de sécurité et dont les cloisons sont isolées conformément aux normes applicables à un cloisonnement de type A-60; ou
-- **b)** destinées à la passerelle de navigation et conçues de manière à pouvoir rendre rapidement la passerelle bien étanche aux gaz et aux vapeurs.
-> DORS/78-605, art. 3; DORS/83-521, art. 4.
+**196** [Abrogé, DORS/2017-14, art. 407]
 
 
 
+**197** [Abrogé, DORS/2017-14, art. 407]
 
-**162** Il est interdit d’installer des fenêtres sur la timonerie aux endroits visés à l’article 160, à moins que ces fenêtres ne soient conçues de manière à rendre rapidement la timonerie bien étanche aux gaz et aux vapeurs.
-> DORS/78-605, art. 3; DORS/83-521, art. 4.
 
 
+**198** [Abrogé, DORS/2017-14, art. 407]
 
 
-**163** 
 
-- **(1)** Les fenêtres et les hublots installés à un endroit visé à l’article 160, à l’exception de la timonerie, doivent être d’un type fixe.
+**199** [Abrogé, DORS/2017-14, art. 407]
 
-- **(2)** Les hublots du premier niveau du pont principal installés à un endroit visé à l’article 160 doivent être munis d’une tape intérieure construite en acier ou en un matériau équivalent.
-> DORS/78-605, art. 3; DORS/83-521, art. 4.
 
 
+**200** [Abrogé, DORS/2017-14, art. 407]
 
 
-**164** Il est permis d’installer, aux endroits visés à l’article 160, des plaques boulonnées pour la dépose des machines.
-> DORS/78-605, art. 3; DORS/83-521, art. 4.
 
+**201** [Abrogé, DORS/2017-14, art. 407]
 
 
 
-**165** 
+**202** [Abrogé, DORS/2017-14, art. 407]
 
-- **(1)** Toute ouverture dans une cloison ou un pont séparant un local des machines de la catégorie A d’une chambre de pompes à cargaison doit être aménagée de façon que sa résistance au feu soit au moins équivalente à celle d’un cloisonnement de type A-0.
 
-- **(2)** Les portes installées dans la cloison d’encaissement d’un local des machines de la catégorie A doivent être des portes à fermeture automatique.
-> DORS/78-605, art. 3; DORS/83-521, art. 4.
 
-
-
-
-**166** Les boîtiers d’appareils d’éclairage permanents installés dans une chambre de pompes à cargaison doivent être étanches aux gaz et assurer la résistance au feu de la cloison.
-> DORS/78-605, art. 3; DORS/83-521, art. 4; DORS/95-254, art. 18.
-
-
-
-
-**167** Les claires-voies d’un local des machines de la catégorie A ou d’une chambre de pompes à cargaison doivent être en acier et doivent pouvoir être facilement fermées de l’extérieur du local ou de la chambre où elles se trouvent.
-> DORS/78-605, art. 3; DORS/83-521, art. 4.
-
-
-
-
-**168** 
-
-- **(1)** Il est interdit d’installer des fenêtres dans les parois d’un local des machines de la catégorie A ou d’une chambre de pompes à cargaison.
-
-- **(2)** Sauf pour la timonerie, il est interdit d’installer des fenêtres dans une cloison fermant un poste de sécurité, à moins que le poste ne soit entièrement situé à l’intérieur d’un local des machines.
-> DORS/78-605, art. 3; DORS/83-521, art. 4.
-
-
-
-
-**169** Il est interdit d’installer des fenêtres ou des hublots dans une claire-voie qui se trouve dans un local des machines de la catégorie A ou dans une chambre de pompes à cargaison.
-> DORS/78-605, art. 3; DORS/83-521, art. 4.
-
-
-
-
-
-### Protection des escaliers et des cages d’ascenseur situés dans les locaux d’habitation, les locaux de service et les postes de sécurité
-
-
-**170** 
-
-- **(1)** Les escaliers situés dans un local d’habitation, un local de service ou un poste de sécurité et qui ne traversent qu’un seul pont doivent être protégés à un niveau par des cloisonnements ayant au moins un indice de résistance au feu de type B-0 et par des portes coupe-feu à fermeture automatique.
-
-- **(2)** Les escaliers situés dans un local d’habitation, un local de service ou un poste de sécurité et qui traversent plus d’un pont doivent être situés dans une cage d’escalier ayant au moins un indice de résistance au feu de type A-0 et être dotés à tous les niveaux de portes coupe-feu à fermeture automatique; la cage d’escalier peut toutefois avoir un indice de résistance au feu de type B-0,
-	- **a)** s’il existe au moins deux issues donnant directement accès au pont découvert à chaque niveau des locaux d’habitation; et
-	- **b)** si les locaux d’habitation du navire sont prévus pour au plus 12 personnes.
-
-- **(3)** Les escaliers, y compris les limons, les marches et les contremarches, situés dans des locaux d’habitation, les locaux de service et les postes de sécurité doivent être construits en acier.
-> DORS/78-605, art. 3; DORS/83-521, art. 4.
-
-
-
-
-**171** Les cages d’ascenseur situées dans les locaux d’habitation, les locaux de service et les postes de sécurité doivent avoir au moins un indice de résistance au feu de type A-0 et être dotées à chaque niveau de portes coupe-feu à fermeture automatique.
-> DORS/83-521, art. 4.
-
-
-
-
-**172** Les portes donnant sur une cage d’escalier ou une cage d’ascenseur desservant un local d’habitation, un local de service ou un poste de sécurité doivent être conformes aux Normes de protection contre l’incendie, à la construction : Essais et procédures d’homologation, TP 439, avec leurs modifications successives, et avoir un indice de résistance au feu au moins égal à celui de la cloison où elles sont installées.
-> DORS/83-521, art. 4; DORS/95-254, art. 19.
-
-
-
-
-
-### Moyens d’évacuation
-
-
-**173** 
-
-- **(1)** Les locaux d’habitation et les locaux où l’équipage est normalement appelé à travailler, à l’exception des locaux des machines, doivent comporter au niveau de chaque pont au moins deux moyens distincts d’évacuation conformes aux exigences suivantes :
-	- **a)** les deux moyens d’évacuation doivent être séparés le plus possible l’un de l’autre afin d’empêcher qu’ils soient bloqués tous les deux en même temps au moment d’un incident;
-	- **b)** au moins un des moyens d’évacuation ne doit pas exiger le passage par des portes étanches;
-	- **c)** au-dessous du pont continu le plus élevé, l’un des moyens d’évacuation doit être un escalier et l’autre doit être soit un puits, soit un escalier, et les deux moyens doivent donner directement accès à un autre moyen sur le pont situé au-dessus;
-	- **d)** au-dessus du pont continu le plus élevé et sur ce pont, chaque moyen d’évacuation doit être un escalier, une porte ou une combinaison des deux, et il doit donner directement accès à un pont découvert et, de là, aux embarcations ou aux radeaux de sauvetage; et
-	- **e)** lorsque des escaliers font partie du moyen d’évacuation, ils doivent être suffisamment larges pour convenir au nombre de personnes qui les empruntent en cas d’urgence.
-
-- **(2)** Nonobstant le paragraphe (1), il est permis d’utiliser comme deuxième moyen d’évacuation une échelle verticale à la place d’un escalier si l’on démontre au Bureau que l’installation d’un escalier est impossible.
-
-- **(3)** Les ascenseurs ne doivent faire partie de ni l’un ni l’autre des deux moyens d’évacuation visés au paragraphe (1).
-> DORS/83-521, art. 4.
-
-
-
-
-**174** 
-
-- **(1)** Sous réserve des paragraphes (2) et (3), il est interdit de poser des dispositifs de verrouillage sur les portes donnant accès à l’un ou à l’autre des deux moyens d’évacuation visés au paragraphe 173(1).
-
-- **(2)** Il est permis de doter une porte donnant accès à l’un ou à l’autre des deux moyens d’évacuation visés au paragraphe 173(1) de panneaux de sortie de secours ou de dispositifs de verrouillage pouvant être forcés facilement en cas d’urgence, si un avis bien visible décrivant la façon d’ouvrir la porte est fixé en permanence de chaque côté de la porte.
-
-- **(3)** Il est permis de doter d’une serrure la porte extérieure d’un rouf, si la clé est gardée par l’un des officiers du navire.
-> DORS/83-521, art. 4.
-
-
-
-
-**175** Les coursives sans issue ne doivent pas mesurer plus de 7 m de longueur.
-> DORS/83-521, art. 4.
-
-
-
-
-**176** Un local radio sans accès direct à un pont découvert doit disposer d’au moins deux entrées ou sorties de dimensions suffisantes pour servir d’issue de secours, mais une seule d’entre elles peut être un hublot ou une fenêtre.
-> DORS/83-521, art. 4.
-
-
-
-
-**177** Aucune cabine ne doit communiquer directement avec un local des machines.
-> DORS/83-521, art. 4.
-
-
-
-
-**178** Tout local de réunion d’une surface supérieure à 28 m<sup>2</sup> doit comporter au moins deux issues donnant, si possible, sur des coursives, des chambres ou des locaux différents, de manière à empêcher que les deux issues soient bloquées en même temps au moment d’un incident.
-> DORS/83-521, art. 4.
-
-
-
-
-**179** 
-
-- **(1)** Dans un local d’habitation situé dans la dunette ou un gaillard d’avant fermés et dont l’entrée est située à une extrémité, une écoutille de secours doit être prévue à l’autre extrémité du local afin de permettre l’accès à un pont découvert situé au-dessus.
-
-- **(2)** Les écoutilles et les hublots prévus comme issues de secours doivent être marqués à cet effet, peints de couleur orange et utilisables des deux côtés.
-> DORS/83-521, art. 4.
-
-
-
-
-**180** 
-
-- **(1)** Tous les parcours intérieurs d’évacuation doivent être clairement marqués à cet effet.
-
-- **(2)** Les coursives et les cages d’escalier servant de parcours d’évacuation et menant à des sorties, à des écoutilles ou à des hublots de secours doivent être munies d’un dispositif d’éclairage de secours.
-
-- **(3)** Il faut afficher en permanence à un endroit bien en vue près de la sortie de chaque cabine, de chaque réfectoire, de chaque salon et de chaque local où l’équipage est normalement appelé à travailler, un plan illustrant clairement tous les parcours d’évacuation menant au pont découvert ainsi que l’emplacement du matériel de lutte contre les incendies de la zone immédiate.
-> DORS/83-521, art. 4.
-
-
-
-
-**181** 
-
-- **(1)** Tout local des machines autre qu’un local des machines de la catégorie A doit disposer d’au moins deux moyens distincts d’évacuation
-	- **a)** consistant en deux échelles d’acier séparées le plus possible l’une de l’autre; et
-	- **b)** menant à des portes séparées de la même manière dans la partie supérieure du local des machines, qui communiquent avec un pont découvert ou avec un moyen d’évacuation sur le pont situé au-dessus.
-
-- **(2)** Tout local des machines de la catégorie A doit disposer d’au moins deux moyens distincts d’évacuation consistant
-	- **a)** en deux échelles d’acier, dont l’une est située dans un abri continu en acier ayant un indice de résistance au feu de type A-60 et doté à son extrémité inférieure d’une porte coupe-feu à fermeture automatique, lesquelles échelles
-		- **(i)** sont éloignées le plus possible l’une de l’autre, et
-		- **(ii)** conduisent à des portes séparées de la même manière dans la partie supérieure du local des machines, qui communiquent avec un pont découvert; ou
-	- **b)** en une échelle d’acier menant à une porte située dans la partie supérieure du local des machines et communiquant avec un pont découvert, et en une porte d’acier située dans la partie inférieure du local des machines et placée bien à l’écart de l’échelle, qui
-		- **(i)** peut être ouverte des deux côtés, et
-		- **(ii)** communique avec un moyen d’évacuation sûr menant à un pont découvert.
-> DORS/83-521, art. 4.
-
-
-
-
-
-### Systèmes de ventilation
-
-
-**182** 
-
-- **(1)** Sous réserve du paragraphe (2), les conduits de ventilation doivent être faits de matériaux non combustibles.
-
-- **(2)** Un conduit de ventilation peut être fait de matériaux combustibles qui présentent un faible risque d’incendie, conformes aux Normes de protection contre l’incendie, à la construction : Essais et procédures d’homologation, TP 439, avec leurs modifications successives, si le conduit :
-	- **a)** ne dépasse pas 2 m de longueur et 200 cm<sup>2</sup> de section;
-	- **b)** est situé à une distance d’au moins 600 mm d’une ouverture pratiquée dans un cloisonnement de type A ou un cloisonnement de type B ou dans un vaigrage de type A ou B, mesurée depuis la partie du conduit située le plus près de l’ouverture; et
-	- **c)** n’est utilisé qu’à l’extrémité du système de ventilation dont il fait partie.
-> DORS/83-521, art. 4; DORS/90-240, art. 8; DORS/95-254, art. 20.
-
-
-
-
-**183** 
-
-- **(1)** Lorsqu’un conduit de ventilation dont la section dépasse 0,075 m<sup>2</sup> traverse un cloisonnement de type A, le conduit doit être doté d’un volet d’incendie
-	- **a)** à fermeture automatique et à sécurité positive;
-	- **b)** pouvant être fermé manuellement des deux côtés du cloisonnement; et
-	- **c)** muni d’un indicateur d’ouverture ou de fermeture.
-
-- **(2)** Lorsqu’un conduit de ventilation traverse un local fermé par des cloisonnements de type A sans le desservir et que le conduit n’a pas un indice de résistance au feu au moins égal à celui du cloisonnement qu’il traverse, le conduit doit, à chaque endroit où il traverse le cloisonnement, être muni du volet d’incendie prévu au paragraphe (1).
-> DORS/83-521, art. 4.
-
-
-
-
-**184** 
-
-- **(1)** Sous réserve du paragraphe (2), un conduit servant à la ventilation d’un local des machines de la catégorie A ou d’une cuisine ne doit pas traverser un local d’habitation, un local de service ou un poste de sécurité, à moins
-	- **a)** d’être construit en acier
-		- **(i)** d’une épaisseur minimale de 3 mm, dans le cas d’un conduit dont le diamètre ou la largeur est égal ou inférieur à 300 mm,
-		- **(ii)** d’une épaisseur minimale de 5 mm, dans le cas d’un conduit dont le diamètre ou la largeur est supérieur à 760 mm, ou
-		- **(iii)** dont l’épaisseur est déterminée par interpolation, dans le cas d’un conduit dont le diamètre ou la largeur se situe entre 300 mm et 760 mm;
-	- **b)** d’être soutenu et renforcé de façon appropriée; et
-	- **c)** d’être isolé pour offrir un indice de résistance au feu de type A-60 partout à l’intérieur du local d’habitation, du local de service ou du poste de sécurité.
-
-- **(2)** Un conduit servant à la ventilation d’un local des machines de la catégorie A ou d’une cuisine peut traverser un local d’habitation, un local de service ou un poste de sécurité s’il est
-	- **a)** construit en acier;
-	- **b)** muni près de chaque cloisonnement qu’il traverse d’un volet d’incendie
-		- **(i)** à fermeture automatique et à sécurité positive, et
-		- **(ii)** pouvant être actionné manuellement des deux côtés du cloisonnement; et
-	- **c)** isolé pour offrir un indice de résistance au feu de type A-60 depuis le local des machines ou la cuisine jusqu’à au moins 5 m au-delà de chaque volet d’incendie.
-> DORS/83-521, art. 4.
-
-
-
-
-**185** 
-
-- **(1)** Sous réserve du paragraphe (2), un conduit servant à la ventilation d’un local d’habitation, d’un local de service ou d’un poste de sécurité ne doit pas traverser un local des machines de la catégorie A ou une cuisine, à moins
-	- **a)** d’être construit en acier conformément aux exigences du paragraphe 184(1);
-	- **b)** d’être soutenu et renforcé de façon appropriée; et
-	- **c)** d’être muni près de chaque cloisonnement qu’il traverse, d’un volet d’incendie
-		- **(i)** à fermeture automatique et à sécurité positive, et
-		- **(ii)** pouvant être actionné manuellement des deux côtés du cloisonnement.
-
-- **(2)** Un conduit servant à la ventilation d’un local d’habitation, d’un local de service ou d’un poste de sécurité peut traverser un local des machines de la catégorie A ou une cuisine, s’il est
-	- **a)** construit en acier; et
-	- **b)** isolé pour offrir un indice de résistance au feu de type A-60 dans le local des machines ou la cuisine.
-> DORS/83-521, art. 4.
-
-
-
-
-**186** Un conduit d’évacuation des fourneaux de cuisine qui traverse un local d’habitation ou un local contenant des matériaux combustibles doit être isolé pour offrir un indice de résistance au feu de type A et doit être muni
-- **a)** d’un filtre à graisse pouvant être facilement enlevé pour le nettoyage;
-- **b)** d’un volet d’incendie situé à l’extrémité inférieure du conduit;
-- **c)** d’un dispositif permettant d’arrêter depuis la cuisine le ventilateur d’évacuation; et
-- **d)** d’une installation fixe permettant d’éteindre un incendie à l’intérieur du conduit.
-> DORS/83-521, art. 4.
-
-
-
-
-**187** 
-
-- **(1)** Sous réserve du paragraphe (4), chaque poste de sécurité doit disposer d’une ventilation adéquate de sorte que, s’il y a un incendie à l’extérieur du poste de sécurité, les appareils qu’il contient puissent continuer de fonctionner efficacement et d’être surveillés.
-
-- **(2)** Sous réserve du paragraphe (4), les postes de sécurité situés sous les ponts et à l’extérieur des locaux des machines doivent disposer d’un système de ventilation composé d’au moins deux moyens distincts d’alimentation en air, dont les arrivées sont placées de manière à réduire au minimum le risque d’introduction simultanée de fumée.
-
-- **(3)** Le système de ventilation visé au paragraphe (2) doit être doté de dispositifs permettant de fermer de l’intérieur du poste de sécurité chaque ventilateur.
-
-- **(4)** Les paragraphes (1) à (3) ne s’appliquent pas aux postes de sécurité situés et donnant sur un pont découvert, ni aux cas où des dispositifs de fermeture situés au niveau des arrivées assurent une aussi grande efficacité que celle visée à ces paragraphes.
-> DORS/83-521, art. 4.
-
-
-
-
-**188** 
-
-- **(1)** Les principales entrées et sorties d’air de tous les systèmes de ventilation doivent pouvoir être fermées de l’extérieur des locaux desservis.
-
-- **(2)** Sous réserve du paragraphe (3), le système de ventilation mécanique des locaux d’habitation, des locaux de service, des espaces à cargaison, des postes de sécurité et des locaux des machines doit pouvoir être arrêté de l’extérieur du local desservi, à partir d’au moins un pont facilement accessible qui risque peu d’être bloqué en cas d’incendie dans le local en cause.
-
-- **(3)** Les dispositifs d’arrêt du système de ventilation mécanique des locaux des machines doivent être bien distincts des dispositifs d’arrêt du système de ventilation mécanique des autres locaux.
-> DORS/83-521, art. 4.
-
-
-
-
-**189** 
-
-- **(1)** Sous réserve du paragraphe (2), les entrées et les sorties d’air de la superstructure ou d’un rouf ou celles d’un local des machines doivent être situées aussi loin à l’arrière que possible.
-
-- **(2)** Lorsqu’un navire a été conçu pour charger ou décharger sa cargaison par l’arrière, les entrées et les sorties d’air visées au paragraphe (1) doivent être situées à un endroit jugé satisfaisant par le Bureau.
-> DORS/83-521, art. 4.
-
-
-
-
-**190** 
-
-- **(1)** Les chambres de pompes à cargaison doivent être dotées d’un système de ventilation mécanique à aspiration
-	- **a)** qui a une capacité suffisante pour renouveler l’air au 20 fois par heure sur la base du volume brut de la chambre de pompes à cargaison et pour réduire au minimum les risques d’accumulation de vapeurs inflammables à l’intérieur de la chambre;
-	- **b)** qui est disposé de manière à aérer efficacement toute la chambre et à aspirer l’air au voisinage des fonds de la chambre des pompes, immédiatement au-dessus des varangues ou des lisses de fonds;
-	- **c)** qui comporte une prise d’air de secours
-		- **(i)** située dans le conduit de ventilation à environ 2 m au-dessus de la plate-forme inférieure de la chambre, et
-		- **(ii)** dotée d’un volet d’incendie pouvant être ouvert ou fermé depuis le pont supérieur ou depuis la plate-forme inférieure de la chambre;
-	- **d)** qui permet aux gaz de circuler librement à travers la plate-forme inférieure jusqu’aux prises d’air; et
-	- **e)** qui est construit et disposé de manière à empêcher la production d’étincelles.
-
-- **(2)** L’air, les gaz et les vapeurs aspirés de la chambre des pompes à cargaison par le système de ventilation visé au paragraphe (1) doivent aboutir sur un pont découvert, en un endroit qui ne présente aucun danger.
-> DORS/83-521, art. 4.
-
-
-
-
-**191** 
-
-- **(1)** Les ouvertures ménagées dans le pont des citernes à cargaison et par lesquelles des gaz risquent de se dégager doivent être disposées de manière à empêcher autant que possible
-	- **a)** les gaz de se rassembler au voisinage des machines et des appareils de pont qui peuvent constituer une source d’inflammation; et
-	- **b)** les gaz de pénétrer dans des locaux fermés contenant une source d’inflammation.
-
-- **(2)** Aux fins du paragraphe (1), la hauteur de l’ouverture par rapport au pont et les vitesses de sortie des gaz sont déterminées en fonction de la distance séparant une sortie de l’ouverture d’un rouf ou d’une source d’inflammation.
-> DORS/83-521, art. 4.
-
-
-
-
-
-### Tuyauterie
-
-
-**192** 
-
-- **(1)** Les tuyaux qui traversent les cloisonnements de type A ou les cloisonnements de type B et les tuyaux contenant des liquides combustibles doivent être construits en acier ou en un matériau équivalent.
-
-- **(2)** Les dalots extérieurs, les tuyaux de décharge sanitaire et les conduits d’évacuation situés près de la ligne de flottaison doivent être faits de matériaux que la chaleur n’affecte pas facilement et dont la défaillance ne risque pas de provoquer d’envahissement en cas d’incendie.
-> DORS/83-521, art. 4; DORS/90-240, art. 9.
-
-
-
-
-
-### Système automatique de détection et d’alerte d’incendie
-
-
-**193** Un navire-citerne et un transporteur mixte visés au paragraphe 3(9) doivent être dotés d’un système automatique de détection et d’alerte d’incendie pouvant détecter une température anormale de l’air ou une concentration anormale de fumée.
-> DORS/83-521, art. 4.
-
-
-
-
-**194** 
-
-- **(1)** Les cabines, les coursives, les escaliers et les locaux de service doivent être dotés d’un détecteur d’incendie réagissant à une concentration anormale de fumée.
-
-- **(2)** Les locaux de réunion, les cuisines et les offices contenant des appareils de cuisson doivent être dotés d’un détecteur d’incendie réagissant à une température anormale de l’air.
-
-- **(3)** Les détecteurs d’incendie visés aux paragraphes (1) et (2) doivent être conformes au [Règlement sur le matériel de détection et d’extinction d’incendie](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1401-1500/C.R.C.,%20ch.%201422.md).
-> DORS/83-521, art. 4.
-
-
-
-
-
-### Entreposage des agents extincteurs d’incendie
-
-
-**195** 
-
-- **(1)** Lorsqu’un agent extincteur d’incendie est entreposé à l’extérieur du local qu’il doit protéger, il doit être rangé dans un lieu sûr, d’accès facile et bien aéré.
-
-- **(2)** Tous les accès au local d’entreposage visé au paragraphe (1) doivent être indépendants du local à protéger et doivent donner sur le pont découvert.
-
-- **(3)** Les portes d’accès au local d’entreposage visé au paragraphe (1) doivent s’ouvrir vers l’extérieur.
-
-- **(4)** Les cloisons, les ponts et les portes et les autres dispositifs de fermeture qui constituent des limites entre le local d’entreposage visé au paragraphe (1) et les espaces fermés adjacents doivent être étanches aux gaz.
-
-- **(5)** Aux fins de l’application des tableaux I et II de l’article 148, le local d’entreposage visé au paragraphe (1) est considéré comme un poste de sécurité.
-> DORS/83-521, art. 4.
-
-
-
-
-
-### Dispositions spéciales applicables aux locaux des machines
-
-
-**196** 
-
-- **(1)** Le nombre de claires-voies, de trappes de cheminées, de portes et de manches à air servant à la ventilation d’un local des machines doit se limiter au minimum requis pour assurer une ventilation suffisante ainsi que le fonctionnement normal et sûr du navire.
-
-- **(2)** Les claires-voies installées dans les locaux des machines doivent être en acier et ne doivent comporter ni hublot ni fenêtre.
-
-- **(3)** Il est interdit d’installer des fenêtres dans les cloisons qui limitent les locaux des machines, mais il est permis d’en doter les postes de commande situés dans les locaux des machines.
-
-- **(4)** Des dispositifs de commande doivent être prévus pour
-	- **a)** l’ouverture et la fermeture des claires-voies;
-	- **b)** la fermeture des trappes de cheminées permettant normalement l’évacuation de l’air;
-	- **c)** la fermeture des volets de manches à air;
-	- **d)** la fermeture des ouvertures permettant l’évacuation de la fumée; et
-	- **e)** l’arrêt des ventilateurs.
-
-- **(5)** Les dispositifs de commande visés au paragraphe (4) doivent être situés à l’extérieur du local des machines desservi de façon à demeurer accessibles en cas d’incendie dans ce local.
-> DORS/83-521, art. 4.
-
-
-
-
-
-### Disposition des citernes à mazout
-
-
-**197** 
-
-- **(1)** Les citernes à mazout doivent, si possible, faire partie de la structure du navire, mais elles ne doivent être situées ni à côté ni à l’intérieur des locaux des machines de la catégorie A.
-
-- **(2)** [Abrogé, DORS/2002-220, art. 6]
-> DORS/83-521, art. 4; DORS/95-254, art. 21; DORS/2002-220, art. 6.
-
-
-
-
-
-### Plans de lutte contre l’incendie
-
-
-**198** 
-
-- **(1)** Il doit y avoir à bord de tout navire
-	- **a)** un plan de lutte contre l’incendie affiché en permanence, à l’intention des officiers du navire, près du poste habituel de navigation et
-		- **(i)** montrant clairement pour chaque pont, l’emplacement
-			- **(A)** des cloisonnements de type A et des cloisonnements de type B,
-			- **(B)** des postes de sécurité,
-			- **(C)** des portes coupe-feu, des portes étanches et des autres entrées et sorties des espaces fermés, et
-			- **(D)** des appareils d’extinction d’incendie, et
-		- **(ii)** donnant pour chaque pont, le détail
-			- **(A)** des systèmes d’alerte et de détection et des installations fixes d’extinction d’incendie, et
-			- **(B)** des systèmes de ventilation, notamment l’emplacement des ventilateurs et de leurs commandes, l’emplacement des volets et le numéro d’identification des ventilateurs desservant chaque section; ou
-	- **b)** un livret de lutte contre l’incendie contenant les renseignements précisés aux sous-alinéas a)(i) et (ii), dont un exemplaire doit
-		- **(i)** toujours se trouver à la passerelle de navigation ou à un autre poste de sécurité adéquat, et
-		- **(ii)** être fourni à chacun des officiers du navire.
-
-- **(2)** Le plan ou le livret de lutte contre l’incendie visé au paragraphe (1) doit être tenu à jour et indiquer toutes les modifications apportées au navire.
-
-- **(3)** Un exemplaire du plan ou du livret de lutte contre l’incendie préparé pour le navire doit être fourni au Bureau et, si des modifications sont apportées au navire et que le plan ou le livret est révisé, un exemplaire de la version révisée doit immédiatement être remis au Bureau.
-> DORS/83-521, art. 4.
-
-
-
-
-**199** Il doit toujours y avoir à la passerelle de navigation ou à un autre poste de sécurité approprié du navire un livret d’instructions relatives à l’entretien et au fonctionnement du matériel et des installations de lutte contre l’incendie.
-> DORS/83-521, art. 4.
-
-
-
-
-
-### Entreposage de la peinture et des autres produits inflammables
-
-
-**200** 
-
-- **(1)** Sous réserve du paragraphe (2), la peinture et tout autre produit inflammable du même genre transportés à bord d’un navire pour y être utilisés doivent être entreposés dans une armoire
-	- **a)** construite en acier;
-	- **b)** isolée conformément à l’article 148; et
-	- **c)** située à l’extérieur des locaux d’habitation.
-
-- **(2)** Lorsqu’une armoire visée au paragraphe (1) est adjacente à un local d’habitation, l’accès à l’armoire doit se faire depuis le pont découvert.
-
-- **(3)** Chaque armoire à peinture ou local du même genre doit comporter une installation fixe d’extinction par le gaz.
-> DORS/83-521, art. 4.
-
-
-
-
-
-### Système d’alerte générale, système d’alerte à commande manuelle et système de sonorisation
-
-
-**201** Chaque navire doit être doté d’un système d’alerte générale
-- **a)** qui fait entendre un signal d’alerte assez fort pour être bien entendu partout sur le navire et qui, à bord des navires où le bruit est élevé dans certains locaux, y active des feux clignotants; et
-- **b)** qui est conforme aux exigences de la TP 127, Normes d’électricité régissant les navires, publiée en 1982 par la direction de la Sécurité des navires du ministère des Transports.
-> DORS/83-521, art. 4.
-
-
-
-
-**202** Les coursives, les locaux d’habitation et les autres locaux du navire qu’occupe normalement l’équipage doivent être dotés d’un système d’alerte à commande manuelle
-- **a)** qui indique à la timonerie l’endroit du navire d’où provient l’alerte; et
-- **b)** qui est conforme aux exigences du [Règlement sur le matériel de détection et d’extinction d’incendie](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1401-1500/C.R.C.,%20ch.%201422.md).
-> DORS/83-521, art. 4.
-
-
-
-
-**203** Tout navire doit être doté d’un système de sonorisation permettant la communication avec les locaux d’habitation, les locaux de service, les locaux des machines et les postes de sécurité du navire, qui est conforme aux exigences de la TP 127, Normes d’électricité régissant les navires, publiée en 1982 par la direction de la Sécurité des navires du ministère des Transports.
-> DORS/83-521, art. 4.
-
+**203** [Abrogé, DORS/2017-14, art. 407]
 
 
 
 
 **PARTIE X** 
-## Protection contre l’incendie des navires de charge d’une jauge brute de 500 tonneaux ou plus
+## [Abrogée, DORS/2017-14, art. 407]
 
 
+**204** [Abrogé, DORS/2017-14, art. 407]
 
-### Définitions
 
 
-**204** Dans la présente partie,
+**205** [Abrogé, DORS/2017-14, art. 407]
 
-***acier ou matériau équivalent*** désigne l’acier ou tout matériau qui, de lui-même ou par isolation, possède du point de vue de la résistance mécanique et thermique des propriétés équivalentes à celles de l’acier; (*steel or an equivalent material*)
 
-***Bureau***[Abrogée, DORS/90-240, art. 10]
 
-***cage d’escalier*** désigne une enceinte qui protège en permanence contre l’incendie un escalier qui traverse plus d’un pont; (*stairtower*)
+**206** [Abrogé, DORS/2017-14, art. 407]
 
-***cloisonnement de type A*** désigne un cloisonnement formé par une cloison ou un pont
-- **a)** construits en acier ou en un matériau équivalent, et
-- **b)** renforcés de manière à pouvoir empêcher le passage de la fumée et des flammes quand ils sont soumis pendant 60 minutes à l’essai au feu standard; (*“A” Class division*)
 
-***cloisonnement de type A-0*** désigne un cloisonnement de type A qui n’est pas isolé de la façon prescrite dans la définition de ***cloisonnement de type A-60***, ***cloisonnement de type A-30*** et ***cloisonnement de type A-15***; (*“A-0” Class division*)
 
-***cloisonnement de type A-60***, ***cloisonnement de type A-30*** et ***cloisonnement de type A-15*** désignent un cloisonnement de type A isolé au moyen de matériaux non combustibles de sorte que, si une face du cloisonnement est soumise à l’essai au feu standard, la température moyenne de l’autre face du cloisonnement ne dépasse pas de plus de 139 °C la température initiale et la température en un point quelconque, joints compris, ne dépasse pas de plus de 180 °C la température initiale pendant :
-- **a)** les 60 premières minutes de l’essai, dans le cas d’un cloisonnement de type A-60,
-- **b)** les 30 premières minutes de l’essai, dans le cas d’un cloisonnement de type A-30,
-- **c)** les 15 premières minutes de l’essai, dans le cas d’un cloisonnement de type A-15; (*“A-60” Class division*, *“A-30” Class division**and**“A-15” Class division*)
+**207** [Abrogé, DORS/2017-14, art. 407]
 
-***cloisonnement de type B*** désigne un cloisonnement formé par une cloison, un vaigrage ou un lambrissage construits de manière à empêcher le passage des flammes quand ils sont soumis pendant 30 minutes à l’essai au feu standard; (*“B” Class division*)
 
-***cloisonnement de type B-0*** désigne un cloisonnement de type B qui n’est pas isolé de la façon prescrite dans la définition de ***cloisonnement de type B-15***; (*“B-0” Class division*)
 
-***cloisonnement de type B-15*** désigne un cloisonnement de type B construit de matériaux non combustibles de sorte que, si une face du cloisonnement est soumise à l’essai au feu standard, la température moyenne de l’autre face du cloisonnement ne dépasse pas de plus de 139 °C la température initiale et la température en un point quelconque, joints compris, ne dépasse pas de plus de 225 °C la température initiale pendant les 15 premières minutes de l’essai; (*“B-15” Class division*)
+**208** [Abrogé, DORS/2017-14, art. 407]
 
-***cloisonnement de type C*** désigne un cloisonnement construit de matériaux non combustibles; (*“C” Class division*)
 
-***coursive sans issue*** désigne une coursive ou une partie de coursive dotée d’une seule issue; (*dead-end corridor*)
 
-***difficilement inflammable*** Dans le cas d’un revêtement de pont, qualifie un matériau qui est conforme aux exigences de la norme TP 439 intitulée Normes de protection contre l’incendie, à la construction : Essais et procédures d’homologation, publiée par le ministère des Transports, avec ses modifications successives. (*not readily ignitable*)
+**209** [Abrogé, DORS/2017-14, art. 407]
 
-***espace à cargaison*** désigne un espace utilisé pour les marchandises et comprend les citernes destinées aux hydrocarbures, ainsi que les puits qui y aboutissent; (*cargo space*)
 
-***faible pouvoir propagateur des flammes*** Dans le cas d’une surface ou d’un matériau appliqué, qualifie une surface ou un matériau qui empêche la propagation des flammes telle qu’elle est déterminée conformément à la norme TP 439 intitulée Normes de protection contre l’incendie, à la construction : Essais et procédures d’homologation, publiée par le ministère des Transports, avec ses modifications successives. (*low flame spread characteristics*)
 
-***groupe de traitement du mazout*** désigne l’équipement qui sert à préparer le mazout destiné à alimenter une chaudière ou le mazout préchauffé destiné à un moteur à combustion interne et, lorsque la pression du mazout est supérieure à 180 kPa, comprend les pompes de mise sous pression de mazout, les filtres et les réchauffeurs; (*oil fuel unit*)
+**210** [Abrogé, DORS/2017-14, art. 407]
 
-***indice de résistance au feu de type A-60***, ***indice de résistance au feu de type A-30***, ***indice de résistance au feu de type A-15*** et ***indice de résistance au feu de type A-0*** désignent les prescriptions de température et de résistance contenues dans les définitions de ***cloisonnement de type A-60***, ***cloisonnement de type A-30*** et ***cloisonnement de type A-15*** et de ***cloisonnement de type A-0***, selon le cas; (*“A-60” Class fire rating*, *“A-30” Class fire rating*, *“A-15” Class fire rating**and**“A-0” Class fire rating*)
 
-***indice de résistance au feu de type B-15*** et ***indice de résistance au feu de type B-0*** désignent les exigences de température et de résistance contenues dans la définition de ***cloisonnement de type B-15*** et de ***cloisonnement de type B-0***, selon le cas; (*“B-15” Class fire rating**and**“B-0” Class fire rating*)
 
-***local de réunion*** comprend les salles à manger, les salons et autres locaux de même nature entourés de cloisonnements permanents; (*public space*)
+**211** [Abrogé, DORS/2017-14, art. 407]
 
-***local de service*** comprend les cuisines, les offices contenant des appareils de cuisson, les buanderies, les armoires, les magasins, les ateliers qui ne sont pas situés dans les locaux des machines et tous les autres locaux de même nature, ainsi que les puits qui y aboutissent; (*service space*)
 
-***local des machines*** désigne un local des machines de la catégorie A et tout autre espace contenant les chaudières, les groupes de traitement du mazout, les machines à vapeur ou les moteurs à combustion interne, les génératrices, les machines électriques principales, les postes de mazoutage, les machines frigorifiques, les appareils de stabilisation, les installations de ventilation et de climatisation ou les machines de propulsion et tout autre local semblable, et comprend les puits aboutissant au local des machines; (*machinery space*)
 
-***local des machines de la catégorie A*** désigne un espace contenant
-- **a)** des moteurs à combustion interne servant de machines de propulsion principales ou à une autre fin semblable, dont la puissance globale n’est pas inférieure à 373 kW, ou
-- **b)** une chaudière au mazout ou un groupe de traitement du mazout,
+**212** [Abrogé, DORS/2017-14, art. 407]
 
-et comprend les puits aboutissant à un local des machines de la catégorie A; (*machinery space of Category A*)
 
-***local d’habitation*** comprend les locaux de réunion, les coursives, les locaux sanitaires, les cabines, les bureaux, les locaux affectés à l’équipage, l’hôpital, le cinéma, les salles de jeux et de loisir, les offices ne contenant pas d’appareils de cuisson et les autres locaux semblables; (*accommodation space*)
 
-***matériau non combustible*** S’entend d’un matériau qui est conforme aux exigences de la norme TP 439 intitulée Normes de protection contre l’incendie, à la construction : Essais et procédures d’homologation, publiée par le ministère des Transports, avec ses modifications successives. (*non-combustible material*)
+**213** [Abrogé, DORS/2017-14, art. 407]
 
-***navire existant*** désigne un navire qui n’est pas un navire neuf; (*existing ship*)
 
-***navire neuf*** désigne un navire
-- **a)** dont la quille a été posée ou qui en était à un stade similaire de construction le 1<sup>er</sup> janvier 1982 ou après cette date, ou
-- **b)** qui a été construit à l’extérieur du Canada et qui a été ultérieurement immatriculé au Canada le 1<sup>er</sup> janvier 1982 ou après cette date,
 
-sauf qu’un navire visé à l’alinéa a) doit être considéré comme un navire existant si le contrat concernant sa construction a été adjugé avant le 1<sup>er</sup> janvier 1982 et que sa construction a débuté au cours de la période commençant le 1<sup>er</sup> janvier 1982 et se terminant le 31 décembre 1982; (*new ship*)
+**214** [Abrogé, DORS/2017-14, art. 407]
 
-***poste de sécurité*** comprend
-- **a)** tout local contenant les sources d’alimentation électrique et d’éclairage de secours,
-- **b)** la timonerie, la chambre des cartes et tout espace contenant le matériel principal de navigation,
-- **c)** tout local contenant le matériel radio du navire,
-- **d)** tout poste de lutte contre l’incendie et tout poste de détection d’incendie,
-- **e)** le poste de commande des machines de propulsion s’il est situé à l’extérieur du local affecté à ces machines,
-- **f)** tout local où est centralisé le matériel d’alerte, et
-- **g)** tout local où sont centralisés les sytèmes de sonorisation d’urgence ou le matériel d’urgence; (*control station*)
 
-***revêtement primaire de pont*** désigne un matériau recouvrant en permanence la surface supérieure du pont; (*primary deck covering*)
 
-***vaigrage continu de type B*** ou ***lambrissage continu de type B*** désigne un vaigrage ou un lambrissage construits selon les normes prescrites pour un cloisonnement de type B et qui ne se terminent qu’à un cloisonnement de type A ou à un cloisonnement de type B. (*continuous “B” Class ceiling*or*continuous “B” Class lining*)
-> DORS/83-521, art. 4; DORS/90-240, art. 10; DORS/2002-220, art. 7.
+**215** [Abrogé, DORS/2017-14, art. 407]
 
 
 
+**216** [Abrogé, DORS/2017-14, art. 407]
 
 
-### Protection contre l’incendie
 
+**217** [Abrogé, DORS/2017-14, art. 407]
 
-**205** 
 
-- **(1)** Les locaux d’habitation et les locaux de service d’un navire de charge mentionné au paragraphe 3(10) doivent être construits conformément à l’une des méthodes suivantes de protection contre l’incendie et doivent satisfaire aux exigences de la présente partie qui s’appliquent aux navires pour lesquels cette méthode a été adoptée :
-	- **a)** méthode IC : les locaux d’habitation et les locaux de service comportent des cloisons intérieures correspondant à des cloisonnements de type A, des cloisonnements de type B ou des cloisonnements de type C, ainsi qu’un système automatique de détection et d’alerte d’incendie;
-	- **b)** méthode IIC : les locaux d’habitation et les locaux de service comprennent un système automatique de gicleurs et un système automatique de détection et d’alerte d’incendie, et leurs cloisons intérieures ne sont soumises à aucune restriction; et
-	- **c)** méthode IIIC : les locaux d’habitation et les locaux de service sont dotés d’un système automatique de détection et d’alerte d’incendie et leurs cloisons intérieures ne sont soumises à aucune restriction, sauf que la superficie des locaux d’habitation ou des groupes de locaux limités par un cloisonnement de type A ou un cloisonnement de type B ne peut dépasser 50 m<sup>2</sup>.
 
-- **(2)** Les exigences énoncées dans la présente partie relativement à l’emploi de matériaux non combustibles pour la construction et l’isolation des cloisons d’entourage des locaux des machines et des postes de sécurité ainsi que pour la protection des cages d’escaliers et des coursives s’appliquent aux navires pour lesquels la méthode IC, la méthode IIC ou la méthode IIIC a été adoptée.
-> DORS/83-521, art. 4; DORS/90-240, art. 11.
+**218** [Abrogé, DORS/2017-14, art. 407]
 
 
 
+**219** [Abrogé, DORS/2017-14, art. 407]
 
 
-### Structure principale
 
+**220** [Abrogé, DORS/2017-14, art. 407]
 
-**206** 
 
-- **(1)** Sous réserve des paragraphes (2) et (3), la coque, les cloisons de structure, les ponts, les superstructures et les roufs doivent être construits en acier ou en un matériau équivalent.
 
-- **(2)** Les plafonds et les tambours des locaux des machines de la catégorie A doivent être en acier.
+**221** [Abrogé, DORS/2017-14, art. 407]
 
-- **(3)** Lorsqu’une partie de la structure principale est faite d’un alliage d’aluminium,
-	- **a)** l’isolation des éléments en alliage d’aluminium des cloisonnements de type A, à l’exception de ceux qui ne soutiennent pas de charge, doit être telle que la température de l’âme ne puisse s’élever de plus de 200 °C par rapport à la température ambiante à n’importe quel moment au cours des 60 premières minutes de l’essai au feu standard;
-	- **b)** l’isolation des éléments en alliage d’aluminium des cloisonnements de type B, à l’exception de ceux qui ne soutiennent pas de charge, doit être telle que la température de l’âme ne puisse s’élever de plus de 200 °C par rapport à la température ambiante à n’importe quel moment pendant les 30 premières minutes de l’essai au feu standard; et
-	- **c)** l’isolation des éléments en alliage d’aluminium faisant partie des colonnes, des épontilles et d’autres éléments de structure servant à soutenir les zones d’arrimage et de mise à l’eau des embarcations et des radeaux de sauvetage et les zones d’embarquement, et à soutenir les cloisonnements de type A ou les cloisonnements de type B, doivent,
-		- **(i)** dans le cas des éléments de structure qui soutiennent les zones d’arrimage et de mise à l’eau des embarcations et des radeaux de sauvetage et les zones d’embarquement, ainsi que les cloisonnements de type A, respecter la limite d’élévation de température spécifiée à l’alinéa a), et
-		- **(ii)** dans le cas des éléments de structure qui soutiennent les cloisonnements de type B, respecter la limite d’élévation de température spécifiée à l’alinéa b).
-> DORS/83-521, art. 4.
 
 
+**222** [Abrogé, DORS/2017-14, art. 407]
 
 
 
-### Résistance thermique des cloisons et des ponts
-
-
-**207** 
+**223** [Abrogé, DORS/2017-14, art. 407]
 
-- **(1)** La résistance thermique des cloisons et des ponts doit être conforme aux exigences de la présente partie et,
-	- **a)** lorsqu’une cloison sépare un espace visé à la colonne I du tableau I du présent article d’un espace indiqué à l’une ou l’autre des colonnes II à XI du même tableau, la cloison doit avoir l’indice minimal applicable de résistance au feu prescrit aux colonnes II à XI; et
-	- **b)** lorsqu’un pont sépare un espace visé à la colonne I du tableau II du présent article d’un espace indiqué à l’une ou l’autre des colonnes II à XI du même tableau, le pont doit avoir l’indice minimal applicable de résistance au feu prescrit aux colonnes II à XI.
 
-- **(2)** Aux fins des tableaux I et II du présent article, lorsqu’une cloison ou un pont devant avoir au moins l’indice A de résistance au feu sont dotés de lambrissages continus de type B ou de vaigrages continus de type B, le Bureau peut établir que ces lambrissages ou ces vaigrages contribuent, en tout ou en partie, à l’indice A de résistance au feu prescrit pour la cloison ou le pont.
-
-- **(3)** Aux fins des tableaux I et II du présent article,
-
-***autre local des machines*** désigne un local des machines défini à l’article 204, mais ne comprend pas un local des machines de la catégorie A; (*other machinery space*)
-
-***coursive*** comprend les vestibules; (*corridor*)
-
-***escalier*** comprend un escalier intérieur, un monte-charge, un escalier mécanique qui n’est pas complètement à l’intérieur d’un local des machines ainsi que leurs enceintes; un escalier intérieur qui n’est fermé qu’à un niveau est considéré comme faisant partie de l’espace auquel il mène et dont il n’est pas séparé par une porte coupe-feu; (*stairway*)
-
-***espace à cargaison*** comprend tous les espaces utilisés pour les marchandises, les citernes destinées aux hydrocarbures, les puits et les écoutilles aboutissant aux espaces en question; (*cargo space*)
-
-***local de service (risque élevé)*** comprend la cuisine, un office renfermant des appareils de cuisson, un local contenant de la peinture, une lampisterie, une armoire et un magasin dont la surface est égale ou supérieure à 2 m<sup>2</sup>, ainsi que les ateliers ne faisant pas partie d’un local des machines; (*service space (high risk)*)
-
-***local de service (faible risque)*** comprend les armoires et les magasins dont la surface est inférieure à 2 m<sup>2</sup>, le séchoir et la buanderie; (*service space (low risk)*)
-
-***local des machines de la catégorie A*** a le même sens qu’à l’article 204; (*machinery space of Category A*)
-
-***local d’habitation*** comprend un local d’habitation défini à l’article 204, à l’exclusion d’une coursive; (*accommodation space*)
-
-***pont découvert*** comprend les espaces découverts sur un pont, les promenades fermées qui ne présentent pas de risque d’incendie et les espaces situés à l’extérieur de la superstructure ou d’un rouf; (*open deck*)
-
-***poste de sécurité*** comprend
-- **a)** tout local contenant les sources d’alimentation électrique et d’éclairage de secours,
-- **b)** la timonerie et la chambre des cartes,
-- **c)** tout local contenant le matériel radio du navire,
-- **d)** tout local de lutte contre l’incendie, poste de commande et poste de détection des incendies,
-- **e)** le poste de commande des machines de propulsion s’il est situé à l’extérieur du local affecté à ces machines, et
-- **f)** tout local où sont centralisés les avertisseurs d’incendie. (*control station*)
-#### TABLEAU I
-<table>
-<h4>INDICE MINIMAL DE RÉSISTANCE AU FEU DES CLOISONS SÉPARANT DES ESPACES ADJACENTS</h4>
-<tr>
-<th>Colonne I</th>
-<th>Colonne II</th>
-<th>Colonne III</th>
-<th>Colonne IV</th>
-<th>Colonne V</th>
-<th>Colonne VI</th>
-<th>Colonne VII</th>
-<th>Colonne VIII</th>
-<th>Colonne IX</th>
-<th>Colonne X</th>
-<th>Colonne XI</th>
-</tr>
-<tr>
-<th>Espace</th>
-<th>Poste de sécurité</th>
-<th>Coursive</th>
-<th>Local d’habitation</th>
-<th>Escalier</th>
-<th>Local de service (faible risque)</th>
-<th>Local des machines de la catégorie A</th>
-<th>Autre local des machines</th>
-<th>Espace à cargaison</th>
-<th>Local de service (risque élevé)</th>
-<th>Pont découvert</th>
-</tr>
-<tr>
-<td>Poste de sécurité</td>
-<td>A-0<sup><a href='#t11fn1'>[1]</a></sup></td>
-<td>A-0</td>
-<td>A-60</td>
-<td>A-0</td>
-<td>A-15</td>
-<td>A-60</td>
-<td>A-15</td>
-<td>A-60</td>
-<td>A-60</td>
-<td><sup><a href='#t11fnstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Coursive</td>
-<td></td>
-<td>C</td>
-<td>B-0</td>
-<td>B-0
-
-A-0<sup><a href='#t11fn2'>[2]</a></sup>
-
-</td>
-<td>B-0</td>
-<td>A-60</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td><sup><a href='#t11fnstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Local d’habitation</td>
-<td></td>
-<td></td>
-<td>C<sup><a href='#t11fn3'>[3]</a></sup><sup>,</sup><sup><a href='#t11fn4'>[4]</a></sup></td>
-<td>B-0
-
-A-0<sup><a href='#t11fn2'>[2]</a></sup>
-
-</td>
-<td>B-0</td>
-<td>A-60</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td><sup><a href='#t11fnstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Escalier</td>
-<td></td>
-<td></td>
-<td></td>
-<td>B-0
-
-A-0<sup><a href='#t11fn2'>[2]</a></sup>
-
-</td>
-<td>B-0
-
-A-0<sup><a href='#t11fn2'>[2]</a></sup>
-
-</td>
-<td>A-60</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td><sup><a href='#t11fnstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Local de service (faible risque)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>C</td>
-<td>A-60</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td><sup><a href='#t11fnstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Local des machines de la catégorie A</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><sup><a href='#t11fnstar'>[*]</a></sup></td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-60</td>
-<td><sup><a href='#t11fnstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Autre local des machines</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>A-0<sup><a href='#t11fn5'>[5]</a></sup></td>
-<td>A-0</td>
-<td>A-0</td>
-<td><sup><a href='#t11fnstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Espaces à cargaison</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><sup><a href='#t11fnstar'>[*]</a></sup></td>
-<td>A-0</td>
-<td><sup><a href='#t11fnstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Local de service (risque élevé)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>A-0<sup><a href='#t11fn5'>[5]</a></sup></td>
-<td><sup><a href='#t11fnstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Pont découvert</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>—</td>
-</tr>
-</table>
-
-
-## Notes
-
-
-<a name='t11fn1'><sup>1.</sup></a>: Les cloisons qui séparent les uns des autres la timonerie, la chambre des cartes et le local radio peuvent avoir un indice de résistance au feu de type B-0.<br />
-
-<a name='t11fn2'><sup>2.</sup></a>: Consulter les articles 222 et 223 pour connaître les exigences particulières.<br />
-
-<a name='t11fn3'><sup>3.</sup></a>: Aucune restriction particulière ne s’applique si l’on recourt à la méthode IIC ou la méthode IIIC.<br />
-
-<a name='t11fn4'><sup>4.</sup></a>: Si l’on recourt à la méthode IIIC, il faut installer des cloisons de type B ayant un indice de résistance au feu de type B-0 entre les locaux ou les groupes de locaux d’une surface égale ou supérieure à 50 m<sup>2</sup>.<br />
-
-<a name='t11fn5'><sup>5.</sup></a>: Une cloison correspondant à l’indice indiqué n’est nécessaire que si l’espace adjacent sert à des fins différentes. Par exemple, une cuisine adjacente à une cuisine n’est pas tenue d’avoir une cloison de type A-0, mais une cuisine adjacente à un local contenant de la peinture est tenue d’avoir une cloison de type A-0.<br />
-
-<a name='t11fnstar'><sup>*</sup></a>: Lorsqu’un astérisque figure au tableau, la cloison doit être construite en acier ou en un matériau équivalent, mais elle n’est pas tenue d’avoir un indice de résistance au feu de type A.<br />
-#### TABLEAU II
-<table>
-<h4>INDICE MINIMAL DE RÉSISTANCE AU FEU DES CLOISONS SÉPARANT DES ESPACES ADJACENTS</h4>
-<tr>
-<th>Colonne I</th>
-<th>Colonne II</th>
-<th>Colonne III</th>
-<th>Colonne IV</th>
-<th>Colonne V</th>
-<th>Colonne VI</th>
-<th>Colonne VII</th>
-<th>Colonne VIII</th>
-<th>Colonne IX</th>
-<th>Colonne X</th>
-<th>Colonne XI</th>
-</tr>
-<tr>
-<th>Espace</th>
-<th>Poste de sécurité</th>
-<th>Coursive</th>
-<th>Local d’habitation</th>
-<th>Escalier</th>
-<th>Local de service (faible risque)</th>
-<th>Local des machines de la catégorie A</th>
-<th>Autre local des machines</th>
-<th>Espace à cargaison</th>
-<th>Local de service (risque élevé)</th>
-<th>Pont découvert</th>
-</tr>
-<tr>
-<td>Poste de sécurité</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-60</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td><sup><a href='#t12fnstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Coursive</td>
-<td>A-0</td>
-<td><sup><a href='#t12fnstar'>[*]</a></sup></td>
-<td><sup><a href='#t12fnstar'>[*]</a></sup></td>
-<td>A-0</td>
-<td><sup><a href='#t12fnstar'>[*]</a></sup></td>
-<td>A-60</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td><sup><a href='#t12fnstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Local d’habitation</td>
-<td>A-60</td>
-<td>A-0</td>
-<td><sup><a href='#t12fnstar'>[*]</a></sup></td>
-<td>A-0</td>
-<td><sup><a href='#t12fnstar'>[*]</a></sup></td>
-<td>A-60</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td><sup><a href='#t12fnstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Escalier</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td><sup><a href='#t12fnstar'>[*]</a></sup></td>
-<td>A-0</td>
-<td>A-60</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td><sup><a href='#t12fnstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Local de service (faible risque)</td>
-<td>A-15</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td><sup><a href='#t12fnstar'>[*]</a></sup></td>
-<td>A-60</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td><sup><a href='#t12fnstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Local des machines de la catégorie A</td>
-<td>A-60</td>
-<td>A-60</td>
-<td>A-60</td>
-<td>A-60</td>
-<td>A-60</td>
-<td><sup><a href='#t12fnstar'>[*]</a></sup></td>
-<td>A-60</td>
-<td>A-30</td>
-<td>A-60</td>
-<td><sup><a href='#t12fnstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Autre local des machines</td>
-<td>A-15</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td><sup><a href='#t12fnstar'>[*]</a></sup></td>
-<td>A-0</td>
-<td>A-0</td>
-<td><sup><a href='#t12fnstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Espace à cargaison</td>
-<td>A-60</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td><sup><a href='#t12fnstar'>[*]</a></sup></td>
-<td>A-0</td>
-<td><sup><a href='#t12fnstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Local de service (risque élevé)</td>
-<td>A-60</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0</td>
-<td>A-0<sup><a href='#t12fn1'>[1]</a></sup></td>
-<td><sup><a href='#t12fnstar'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>Pont découvert</td>
-<td><sup><a href='#t12fnstar'>[*]</a></sup></td>
-<td><sup><a href='#t12fnstar'>[*]</a></sup></td>
-<td><sup><a href='#t12fnstar'>[*]</a></sup></td>
-<td><sup><a href='#t12fnstar'>[*]</a></sup></td>
-<td><sup><a href='#t12fnstar'>[*]</a></sup></td>
-<td><sup><a href='#t12fnstar'>[*]</a></sup></td>
-<td><sup><a href='#t12fnstar'>[*]</a></sup></td>
-<td><sup><a href='#t12fnstar'>[*]</a></sup></td>
-<td><sup><a href='#t12fnstar'>[*]</a></sup></td>
-<td>—</td>
-</tr>
-</table>
-
-
-## Notes
-
-
-<a name='t12fn1'><sup>1.</sup></a>: Un pont correspondant à l’indice indiqué n’est nécessaire que si l’espace adjacent sert à des fins différentes. Par exemple, une cuisine adjacente à une cuisine n’est pas tenue d’avoir un pont de type A-0, mais une cuisine adjacente à un local contenant de la peinture est tenue d’avoir un pont de type A-0.<br />
-
-<a name='t12fnstar'><sup>*</sup></a>: Lorsqu’un astérisque figure au tableau, le pont doit être construit en acier ou en un matériau équivalent, mais il n’est pas tenu d’avoir un indice de résistance au feu de type A.<br />
-> DORS/83-521, art. 4.
-
-
-
-
-**208** 
-
-- **(1)** Les cloisonnements extérieurs de la coque et des superstructures qui, aux termes du paragraphe 206(1), doivent être construits en acier ou en un matériau équivalent, mais qui ne sont pas tenus d’avoir un indice de résistance au feu de type A, peuvent être percés en vue de l’installation de portes, de fenêtres et de hublots.
-
-- **(2)** Afin d’empêcher tout échange thermique aux intersections et aux extrémités des couches isolantes, l’isolation de la cloison ou du pont ayant l’indice de résistance au feu le plus élevé doit être prolongée
-	- **a)** d’au moins 380 mm au-delà de l’intersection ou de l’extrémité, dans le cas d’une cloison ou d’un pont en acier;
-	- **b)** d’au moins 450 mm au-delà de l’intersection ou de l’extrémité, dans le cas d’une cloison ou d’un pont en aluminium.
-> DORS/83-521, art. 4; DORS/90-240, art. 12.
-
-
-
-
-
-### Cloisons situées à l’intérieur des locaux d’habitation et des locaux de service
-
-
-**209** 
-
-- **(1)** Les cloisons qui, selon le tableau I de l’article 207, doivent avoir un indice de résistance au feu de type B, doivent s’étendre de pont à pont et jusqu’au bordé extérieur ou jusqu’à une autre limite, à moins que la cloison ne s’arrête à un vaigrage continu de type B ou à un lambrissage continu de type B.
-
-- **(2)** Lorsque la méthode IC est adoptée, les cloisons qui, selon le tableau I de l’article 207, ne sont pas tenues d’avoir un indice de résistance au feu de type A ou un indice de résistance au feu de type B, doivent être au moins du type C.
-
-- **(3)** Lorsque la méthode IIC est adoptée, aucune restriction ne s’applique à la construction des cloisons qui, selon le tableau I de l’article 207, ne sont pas tenues d’avoir un indice de résistance au feu de type A ou un indice de résistance au feu de type B ou d’être de type C.
-
-- **(4)** Lorsque la méthode IIIC est adoptée, aucune restriction ne s’applique à la construction des cloisons qui, selon le tableau I de l’article 207, ne sont pas tenues d’avoir un indice de résistance au feu de type A ou un indice de résistance au feu de type B ou d’être des cloisonnements de type C, mais la superficie des locaux d’habitation ou des groupes de locaux limités par des cloisonnements de type A ou des cloisonnements de type B qui sont continus ne doit pas dépasser 50 m<sup>2</sup>.
-> DORS/83-521, art. 4; DORS/90-240, art. 13.
-
-
-
-
-
-### Exigences relatives à la construction
-
-
-**210** 
-
-- **(1)** Si la méthode IC est adoptée, les lambrissages, les vaigrages, les écrans destinés à éviter le tirage ainsi que le lambourdage correspondant doivent, dans les locaux d’habitation, les locaux de service et les postes de sécurité, être faits de matériaux non combustibles.
-
-- **(2)** Si la méthode IIC ou la méthode IIIC est adoptée, les lambrissages, les vaigrages, les écrans destinés à éviter le tirage ainsi que le lambourdage correspondant doivent, dans les coursives et les cages d’escalier desservant les locaux d’habitation, les locaux de service ou les postes de sécurité, être faits de matériaux non combustibles.
-> DORS/83-521, art. 4; DORS/90-240, art. 14.
-
-
-
-
-**211** Les articles 212 à 221 s’appliquent lorsque l’une des méthodes IC, IIC ou IIIC est adoptée.
-> DORS/83-521, art. 4.
-
-
 
+**224** [Abrogé, DORS/2017-14, art. 407]
 
-**212** 
-
-- **(1)** Sous réserve des paragraphes (2) et (3), les matériaux isolants doivent être des matériaux non combustibles.
 
-- **(2)** Les matériaux isolants des espaces à cargaison ou des compartiments réfrigérés des locaux de service peuvent être des matériaux combustibles.
 
-- **(3)** Les revêtements anticondensation et les produits adhésifs utilisés pour l’isolation des systèmes de distribution de fluide froid, ainsi que les matériaux isolants de la tuyauterie, peuvent être faits de matériaux combustibles, à la condition qu’ils soient en quantité aussi limitée que possible et que les surfaces apparentes aient un faible pouvoir propagateur des flammes.
-> DORS/83-521, art. 4; DORS/90-240, art. 15.
+**225** [Abrogé, DORS/2017-14, art. 407]
 
 
 
+**226** [Abrogé, DORS/2017-14, art. 407]
 
-**213** 
 
-- **(1)** Sous réserve du paragraphe (2), les cloisons, les lambrissages ou les vaigrages non combustibles installés dans les locaux d’habitation ou les locaux de service ne peuvent avoir un placage combustible de plus de 2 mm d’épaisseur.
 
-- **(2)** Les cloisons, les lambrissages ou les vaigrages non combustibles situés dans une coursive, une enceinte d’escalier ou un poste de sécurité ne peuvent avoir un placage combustible de plus de 1,5 mm d’épaisseur.
-> DORS/83-521, art. 4.
+**227** [Abrogé, DORS/2017-14, art. 407]
 
 
 
+**228** [Abrogé, DORS/2017-14, art. 407]
 
-**214** Les espaces vides situés derrière les vaigrages, les boiseries et les lambrissages d’un local d’habitation, d’un local de service ou d’un poste de sécurité doivent
-- **a)** être divisés par des écrans destinés à éviter le tirage qui sont bien ajustés et dont l’écartement ne dépasse pas 14 m; et
-- **b)** être fermés verticalement à chaque pont.
-> DORS/83-521, art. 4.
 
 
+**229** [Abrogé, DORS/2017-14, art. 407]
 
 
-**215** 
 
-- **(1)** Les surfaces, y compris les lambourdes, des espaces dissimulés ou inaccessibles des locaux d’habitation, des locaux de service et des postes de sécurité, les surfaces apparentes des coursives et des enceintes d’escalier, ainsi que les surfaces apparentes des vaigrages des locaux d’habitation, des locaux de service et des postes de sécurité, doivent avoir un faible pouvoir propagateur des flammes.
+**230** [Abrogé, DORS/2017-14, art. 407]
 
-- **(2)** Les peintures, les vernis et les autres produits utilisés sur les surfaces intérieures des locaux d’habitation, des locaux de service, des postes de sécurité ou des locaux des machines doivent avoir un faible pouvoir propagateur des flammes et ne doivent pas, lorsqu’ils brûlent, dégager des quantités excessives de fumée ou de vapeurs toxiques.
 
-- **(3)** La surface de l’isolant du cloisonnement intérieur d’un local des machines de la catégorie A doit être étanche aux hydrocarbures et aux vapeurs d’hydrocarbures.
-> DORS/83-521, art. 4.
 
+**231** [Abrogé, DORS/2017-14, art. 407]
 
 
 
-**216** 
+**232** [Abrogé, DORS/2017-14, art. 407]
 
-- **(1)** Les radiateurs électriques doivent être fixes et construits de manière à réduire au minimum les risques d’incendie.
 
-- **(2)** Les éléments d’un radiateur électrique doivent être installés de manière qu’aucune partie des éléments ne puisse roussir des vêtements, des rideaux ou d’autres articles semblables ni y mettre le feu.
-> DORS/83-521, art. 4.
 
+**233** [Abrogé, DORS/2017-14, art. 407]
 
 
 
-**217** Il est interdit d’utiliser des films sur supports nitrocellulosiques pour les appareils cinématographiques.
-> DORS/83-521, art. 4.
+**234** [Abrogé, DORS/2017-14, art. 407]
 
 
 
+**235** [Abrogé, DORS/2017-14, art. 407]
 
-**218** Les revêtements d’apprêt de pont utilisés dans les locaux d’habitation, les locaux de service et les postes de sécurité doivent être conformes aux Normes de protection contre l’incendie, à la construction : Essais et procédures d’homologation, TP 439, avec leurs modifications successives, et être difficilement inflammables.
-> DORS/83-521, art. 4; DORS/95-254, art. 22.
 
 
+**236** [Abrogé, DORS/2017-14, art. 407]
 
 
-**219** Lorsque des cloisonnements de type A ou des cloisonnements de type B sont percés pour le passage de câbles électriques, de tuyaux, de puits ou de conduits ou pour l’installation de bouches d’aération, d’appareils d’éclairage et d’autres dispositifs similaires, des mesures doivent être prises pour garantir que la résistance au feu de ces cloisonnements ne soit pas compromis et que les dispositifs installés soient conformes aux exigences de l’annexe D de la publication TP 2237, Normes équivalentes de protection contre l’incendie des navires à passagers, publiée en 1979 par la direction de la Sécurité des navires du ministère des Transports.
-> DORS/83-521, art. 4.
 
+**237** [Abrogé, DORS/2017-14, art. 407]
 
 
 
-**220** 
+**238** [Abrogé, DORS/2017-14, art. 407]
 
-- **(1)** Les portes d’un cloisonnement de type A ou d’un cloisonnement de type B doivent être conformes aux Normes de protection contre l’incendie, à la construction : Essais et procédures d’homologation, TP 439, avec leurs modifications successives, et avoir un indice de résistance au feu au moins égal à celui du cloisonnement où elles sont installées.
 
-- **(2)** Toute porte d’un local des machines qui donne directement accès à un local d’habitation doit être une porte à fermeture automatique et étanche au gaz.
 
-- **(3)** Les portes à fermeture automatique exigées par la présente partie ne doivent pas être munies de crochets de retenue; elles peuvent cependant être dotées de dispositifs de retenue à sécurité positive qui sont actionnés à la porte ou à partir de la timonerie.
+**239** [Abrogé, DORS/2017-14, art. 407]
 
-- **(4)** Les portes installées dans les cloisons de coursive et ayant un indice de résistance au feu de type B peuvent comporter des ouvertures de ventilation; de telles ouvertures sont cependant interdites dans les portes donnant sur les enceintes d’escalier.
-> DORS/83-521, art. 4; DORS/95-254, art. 23.
 
 
+**240** [Abrogé, DORS/2017-14, art. 407]
 
 
-**221** Tous les escaliers intérieurs, à l’exception de ceux des locaux des machines, doivent avoir une largeur minimale de 760 mm et une inclinaison maximale de 50 degrés.
-> DORS/83-521, art. 4.
 
+**241** [Abrogé, DORS/2017-14, art. 407]
 
 
 
+**242** [Abrogé, DORS/2017-14, art. 407]
 
-### Protection des escaliers et des cages d’ascenseur situés dans les locaux d’habitation, les locaux de service et les postes de sécurité
 
 
-**222** 
+**243** [Abrogé, DORS/2017-14, art. 407]
 
-- **(1)** Les escaliers situés dans un local d’habitation, un local de service ou un poste de sécurité et qui ne traversent qu’un seul pont doivent être protégés à un niveau par des cloisonnements ayant au moins un indice de résistance au feu de type B-0 et par des portes coupe-feu à fermeture automatique.
 
-- **(2)** Les escaliers situés dans un local d’habitation, un local de service ou un poste de sécurité et qui traversent plus d’un pont doivent être situés dans une cage d’escalier ayant au moins un indice de résistance au feu de type A-0 et être dotés à tous les niveaux de portes coupe-feu à fermeture automatique; la cage d’escalier peut toutefois avoir un indice de résistance au feu de type B-0,
-	- **a)** s’il existe au moins deux issues donnant directement accès au pont découvert à chaque niveau des locaux d’habitation; et
-	- **b)** si les locaux d’habitation du navire sont prévus pour au plus 12 personnes.
 
-- **(3)** Les escaliers, y compris les limons, les marches et les contremarches, situés dans des locaux d’habitation, les locaux de service et les postes de sécurité doivent être construits en acier.
-> DORS/83-521, art. 4.
+**244** [Abrogé, DORS/2017-14, art. 407]
 
 
 
+**245** [Abrogé, DORS/2017-14, art. 407]
 
-**223** Les cages d’ascenseur situées dans les locaux d’habitation, les locaux de service et les postes de sécurité doivent avoir au moins un indice de résistance au feu de type A-0 et être dotées à chaque niveau de portes coupe-feu à fermeture automatique.
-> DORS/83-521, art. 4.
 
 
+**246** [Abrogé, DORS/2017-14, art. 407]
 
 
 
-### Moyens d’évacuation
+**247** [Abrogé, DORS/2017-14, art. 407]
 
 
-**224** 
 
-- **(1)** Les locaux d’habitation et les locaux où l’équipage est normalement appelé à travailler, à l’exception des locaux des machines, doivent comporter au niveau de chaque pont au moins deux moyens distincts d’évacuation conformes aux exigences suivantes :
-	- **a)** les deux moyens d’évacuation doivent être séparés le plus possible l’un de l’autre afin d’empêcher qu’ils soient bloqués tous les deux en même temps au moment d’un incident;
-	- **b)** au moins un des moyens d’évacuation ne doit pas exiger le passage par des portes étanches;
-	- **c)** au-dessous du pont continu le plus élevé, l’un des moyens d’évacuation doit être un escalier et l’autre doit être soit un puits, soit un escalier, et les deux moyens doivent donner directement accès à un autre moyen sur le pont situé au-dessus;
-	- **d)** au-dessus du pont continu le plus élevé et sur ce pont, chaque moyen d’évacuation doit être un escalier, une porte ou une combinaison des deux, et il doit donner directement accès à un pont découvert et, de là, aux embarcations ou aux radeaux de sauvetage; et
-	- **e)** lorsque des escaliers font partie du moyen d’évacuation, ils doivent être suffisamment larges pour convenir au nombre de personnes qui les empruntent en cas d’urgence.
+**248** [Abrogé, DORS/2017-14, art. 407]
 
-- **(2)** Nonobstant le paragraphe (1), il est permis d’utiliser comme deuxième moyen d’évacuation une échelle verticale à la place d’un escalier si l’on démontre au Bureau que l’installation d’un escalier est impossible.
 
-- **(3)** Les ascenseurs ne doivent faire partie de ni l’un ni l’autre des deux moyens d’évacuation visés au paragraphe (1).
-> DORS/83-521, art. 4.
 
+**249** [Abrogé, DORS/2017-14, art. 407]
 
 
 
-**225** 
+**250** [Abrogé, DORS/2017-14, art. 407]
 
-- **(1)** Sous réserve des paragraphes (2) et (3), il est interdit de poser des dispositifs de verrouillage sur les portes donnant accès à l’un ou à l’autre des deux moyens d’évacuation visés au paragraphe 224(1).
 
-- **(2)** Il est permis de doter une porte donnant accès à l’un ou à l’autre des deux moyens d’évacuation visés au paragraphe 224(1) de panneaux de sortie de secours ou de dispositifs de verrouillage pouvant être forcés facilement en cas d’urgence, si un avis bien visible décrivant la façon d’ouvrir la porte est fixé en permanence de chaque côté de la porte.
 
-- **(3)** Il est permis de doter d’une serrure la porte extérieure d’un rouf, si la clé est gardée par l’un des officiers du navire.
-> DORS/83-521, art. 4.
+**251** [Abrogé, DORS/2017-14, art. 407]
 
 
 
+**252** [Abrogé, DORS/2017-14, art. 407]
 
-**226** Les coursives sans issue ne doivent pas mesurer plus de 7 m de longueur.
-> DORS/83-521, art. 4.
 
 
+**253** [Abrogé, DORS/2017-14, art. 407]
 
 
-**227** Un local radio sans accès direct à un pont découvert doit disposer d’au moins deux entrées ou sorties de dimensions suffisantes pour servir d’issue de secours, mais une seule d’entre elles peut être un hublot ou une fenêtre.
-> DORS/83-521, art. 4.
 
+**254** [Abrogé, DORS/2017-14, art. 407]
 
 
 
-**228** Aucune cabine ne doit communiquer directement avec un local des machines.
-> DORS/83-521, art. 4.
+**255** [Abrogé, DORS/2017-14, art. 407]
 
 
 
+**256** [Abrogé, DORS/2017-14, art. 407]
 
-**229** Tout local de réunion d’une surface supérieure à 28 m<sup>2</sup> doit comporter au moins deux issues donnant, si possible, sur des coursives, des chambres ou des locaux différents, de manière à empêcher que les deux issues soient bloquées en même temps au moment d’un incident.
-> DORS/83-521, art. 4.
 
 
+**257** [Abrogé, DORS/2017-14, art. 407]
 
 
-**230** 
 
-- **(1)** Dans un local d’habitation situé dans la dunette ou un gaillard d’avant fermés et dont l’entrée est située à une extrémité, une écoutille de secours doit être prévue à l’autre extrémité du local afin de permettre l’accès à un pont découvert situé au-dessus.
-
-- **(2)** Les écoutilles et les hublots prévus comme issues de secours doivent être marqués à cet effet, peints de couleur orange et utilisables des deux côtés.
-> DORS/83-521, art. 4.
-
-
-
-
-**231** 
-
-- **(1)** Tous les parcours intérieurs d’évacuation doivent être clairement marqués à cet effet.
-
-- **(2)** Les coursives et les cages d’escalier servant de parcours d’évacuation et menant à des sorties, à des écoutilles ou à des hublots de secours doivent être munies d’un dispositif d’éclairage de secours.
-
-- **(3)** Il faut afficher en permanence à un endroit bien en vue près de la sortie de chaque cabine, de chaque réfectoire, de chaque salon et de chaque local où l’équipage est normalement appelé à travailler, un plan illustrant clairement tous les parcours d’évacuation menant au pont découvert ainsi que l’emplacement du matériel de lutte contre les incendies de la zone immédiate.
-> DORS/83-521, art. 4.
-
-
-
-
-**232** 
-
-- **(1)** Tout local des machines autre qu’un local des machines de la catégorie A doit disposer d’au moins deux moyens distincts d’évacuation
-	- **a)** consistant en deux échelles d’acier séparées le plus possible l’une de l’autre; et
-	- **b)** menant à des portes séparées de la même manière dans la partie supérieure du local des machines, qui communiquent avec un pont découvert ou avec un moyen d’évacuation sur le pont situé au-dessus.
-
-- **(2)** Tout local des machines de la catégorie A doit disposer d’au moins deux moyens distincts d’évacuation consistant
-	- **a)** en deux échelles d’acier, dont l’une est située dans un abri continu en acier ayant un indice de résistance au feu de type A-60 et doté à son extrémité inférieure d’une porte coupe-feu à fermeture automatique, lesquelles échelles
-		- **(i)** sont éloignées le plus possible l’une de l’autre, et
-		- **(ii)** conduisent à des portes séparées de la même manière dans la partie supérieure du local des machines, qui communiquent avec un pont découvert; ou
-	- **b)** en une échelle d’acier menant à une porte située dans la partie supérieure du local des machines et communiquant avec un pont découvert, et en une porte d’acier située dans la partie inférieure du local des machines et placée bien à l’écart de l’échelle, qui
-		- **(i)** peut être ouverte des deux côtés, et
-		- **(ii)** communique avec un parcours d’évacuation sûr menant à un pont découvert.
-> DORS/83-521, art. 4.
-
-
-
-
-
-### Systèmes de ventilation
-
-
-**233** 
-
-- **(1)** Sous réserve du paragraphe (2), les conduits de ventilation doivent être faits de matériaux non combustibles.
-
-- **(2)** Un conduit de ventilation peut être fait de matériaux combustibles qui présentent un faible risque d’incendie, conformes aux Normes de protection contre l’incendie, à la construction : Essais et procédures d’homologation, TP 439, avec leurs modifications successives, s’il :
-	- **a)** ne dépasse pas 2 m de longueur et 200 cm<sup>2</sup> de section;
-	- **b)** est situé à une distance d’au moins 600 mm d’une ouverture pratiquée dans un cloisonnement de type A ou un cloisonnement de type B ou dans un vaigrage de type A ou B, mesurée depuis la partie du conduit située le plus près de l’ouverture; et
-	- **c)** n’est utilisé qu’à l’extrémité du système de ventilation dont il fait partie.
-> DORS/83-521, art. 4; DORS/90-240, art. 16; DORS/95-254, art. 24.
-
-
-
-
-**234** 
-
-- **(1)** Lorsqu’un conduit de ventilation dont la section dépasse 0,075 m<sup>2</sup> traverse un cloisonnement de type A, le conduit doit être doté d’un volet d’incendie
-	- **a)** à fermeture automatique et à sécurité positive;
-	- **b)** pouvant être fermé manuellement des deux côtés du cloisonnement; et
-	- **c)** muni d’un indicateur d’ouverture ou de fermeture.
-
-- **(2)** Lorsqu’un conduit de ventilation traverse un local fermé par des cloisonnements de type A sans le desservir et que le conduit n’a pas un indice de résistance au feu au moins égal à celui du cloisonnement qu’il traverse, le conduit doit, à chaque endroit où il traverse le cloisonnement, être muni du volet d’incendie prévu au paragraphe (1).
-> DORS/83-521, art. 4.
-
-
-
-
-**235** 
-
-- **(1)** Sous réserve du paragraphe (2), un conduit servant à la ventilation d’un local des machines de la catégorie A, d’une cuisine ou d’un local d’entreposage de véhicules ne doit pas traverser un local d’habitation, un local de service ou un poste de sécurité, à moins
-	- **a)** d’être construit en acier
-		- **(i)** d’une épaisseur minimale de 3 mm, dans le cas d’un conduit dont le diamètre ou la largeur est égal ou inférieur à 300 mm,
-		- **(ii)** d’une épaisseur minimale de 5 mm, dans le cas d’un conduit dont le diamètre ou la largeur est supérieur à 760 mm, ou
-		- **(iii)** dont l’épaisseur est déterminée par interpolation, dans le cas d’un conduit dont le diamètre ou la largeur se situe entre 300 mm et 760 mm;
-	- **b)** d’être soutenu et renforcé de façon appropriée; et
-	- **c)** d’être isolé pour offrir un indice de résistance au feu de type A-60 partout à l’intérieur du local d’habitation, du local de service ou du poste de sécurité.
-
-- **(2)** Un conduit servant à la ventilation d’un local des machines de la catégorie A, d’une cuisine ou d’un local d’entreposage de véhicules peut traverser un local d’habitation, un local de service ou un poste de sécurité s’il est
-	- **a)** construit en acier;
-	- **b)** muni près de chaque cloisonnement qu’il traverse d’un volet d’incendie
-		- **(i)** à fermeture automatique et à sécurité positive, et
-		- **(ii)** pouvant être actionné manuellement des deux côtés du cloisonnement; et
-	- **c)** isolé pour offrir un indice de résistance au feu de type A-60 depuis le local des machines, la cuisine ou le local d’entreposage de véhicules jusqu’à au moins 5 m au-delà de chaque volet d’incendie.
-> DORS/83-521, art. 4.
-
-
-
-
-**236** 
-
-- **(1)** Sous réserve du paragraphe (2), un conduit servant à la ventilation d’un local d’habitation, d’un local de service ou d’un poste de sécurité ne doit pas traverser un local des machines de la catégorie A, une cuisine ou un local d’entreposage de véhicules, à moins
-	- **a)** d’être construit en acier conformément aux exigences du paragraphe 235(1);
-	- **b)** d’être soutenu et renforcé de façon appropriée; et
-	- **c)** d’être muni près de chaque cloisonnement qu’il traverse, d’un volet d’incendie
-		- **(i)** à fermeture automatique et à sécurité positive, et
-		- **(ii)** pouvant être actionné manuellement des deux côtés du cloisonnement.
-
-- **(2)** Un conduit servant à la ventilation d’un local d’habitation, d’un local de service ou d’un poste de sécurité peut traverser un local des machines de la catégorie A, une cuisine ou un local d’entreposage de véhicules, s’il est
-	- **a)** construit en acier; et
-	- **b)** isolé pour offrir un indice de résistance au feu de type A-60 dans le local des machines, la cuisine ou le local d’entreposage de véhicules.
-> DORS/83-521, art. 4.
-
-
-
-
-**237** Un conduit d’évacuation des fourneaux de cuisine qui traverse un local d’habitation ou un local contenant des matériaux combustibles doit être isolé pour offrir un indice de résistance au feu de type A et doit être muni
-- **a)** d’un filtre à graisse pouvant être facilement enlevé pour le nettoyage;
-- **b)** d’un volet d’incendie situé à l’extrémité inférieure du conduit;
-- **c)** d’un dispositif permettant d’arrêter depuis la cuisine le ventilateur d’évacuation; et
-- **d)** d’une installation fixe permettant d’éteindre un incendie à l’intérieur du conduit.
-> DORS/83-521, art. 4.
-
-
-
-
-**238** 
-
-- **(1)** Sous réserve du paragraphe (4), chaque poste de sécurité doit disposer d’une ventilation adéquate de sorte que, s’il y a un incendie à l’extérieur du poste de sécurité, les appareils qu’il contient puissent continuer de fonctionner efficacement et d’être surveillés.
-
-- **(2)** Sous réserve du paragraphe (4), les postes de sécurité situés sous les ponts et à l’extérieur des locaux des machines doivent disposer d’un système de ventilation composé d’au moins deux moyens distincts d’alimentation en air, dont les arrivées sont placées de manière à réduire au minimum le risque d’introduction simultanée de fumée.
-
-- **(3)** Le système de ventilation visé au paragraphe (2) doit être doté de dispositifs permettant de fermer de l’intérieur du poste de sécurité chaque ventilateur.
-
-- **(4)** Les paragraphes (1) à (3) ne s’appliquent pas aux postes de sécurité situés et donnant sur un pont découvert, ni aux cas où des dispositifs de fermeture situés au niveau des arrivées assurent une aussi grande efficacité que celle visée à ces paragraphes.
-> DORS/83-521, art. 4.
-
-
-
-
-**239** 
-
-- **(1)** Les principales entrées et sorties d’air de tous les systèmes de ventilation doivent pouvoir être fermées de l’extérieur des locaux desservis.
-
-- **(2)** Sous réserve du paragraphe (3), le système de ventilation mécanique des locaux d’habitation, des locaux de service, des espaces à cargaison, des postes de sécurité et des locaux des machines doit pouvoir être arrêté de l’extérieur du local desservi, à partir d’au moins un point facilement accessible qui risque peu d’être bloqué en cas d’incendie dans le local en cause.
-
-- **(3)** Les dispositifs d’arrêt du système de ventilation mécanique des locaux des machines doivent être bien distincts des dispositifs d’arrêt du système de ventilation mécanique des autres locaux.
-> DORS/83-521, art. 4.
-
-
-
-
-
-### Tuyauterie
-
-
-**240** 
-
-- **(1)** Les tuyaux qui traversent les cloisonnements de type A ou les cloisonnements de type B et les tuyaux contenant des liquides combustibles doivent être construits en acier ou en un autre matériau équivalent.
-
-- **(2)** Les dalots extérieurs, les tuyaux de décharge sanitaire et les conduits d’évacuation situés près de la ligne de flottaison doivent être faits de matériaux que la chaleur n’affecte pas facilement et dont la défaillance ne risque pas de provoquer d’envahissement en cas d’incendie.
-> DORS/83-521, art. 4; DORS/90-240, art. 17.
-
-
-
-
-
-### Système automatique de gicleurs et de détection et d’alerte d’incendie (Méthode IIC)
-
-
-**241** 
-
-- **(1)** Lorsque la méthode IIC est adoptée à bord d’un navire de charge visé au paragraphe 3(10), le navire doit être doté d’un système automatique de gicleurs et de détection et d’alerte d’incendie destiné à protéger les locaux d’habitation, les cuisines et les autres locaux de service du navire, à l’exception des locaux qui ne présentent pas un risque notable d’incendie, comme les espaces vides et les locaux sanitaires.
-
-- **(2)** Le système prescrit au paragraphe (1) doit être conforme au [Règlement sur le matériel de détection et d’extinction d’incendie](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1401-1500/C.R.C.,%20ch.%201422.md).
-> DORS/83-521, art. 4.
-
-
-
-
-
-### Système automatique de détection et d’alerte d’incendie (Méthodes IC, IIC et IIIC)
-
-
-**242** Sous réserve de l’article 243, un navire de charge visé au paragraphe 3(10) doit être doté d’un système automatique de détection et d’alerte d’incendie pouvant détecter une température anormale de l’air ou une concentration anormale de fumée.
-> DORS/83-521, art. 4.
-
-
-
-
-**243** 
-
-- **(1)** Les cabines, les coursives, les escaliers et les locaux de service doivent être dotés d’un détecteur d’incendie réagissant à une concentration anormale de fumée.
-
-- **(2)** Les locaux de réunion, les cuisines et les offices contenant des appareils de cuisson doivent être dotés d’un détecteur d’incendie réagissant à une température anormale de l’air.
-
-- **(3)** Les détecteurs d’incendie visés aux paragraphes (1) et (2) doivent être conformes au [Règlement sur le matériel de détection et d’extinction d’incendie](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1401-1500/C.R.C.,%20ch.%201422.md).
-> DORS/83-521, art. 4.
-
-
-
-
-
-### Entreposage des agents extincteurs d’incendie
-
-
-**244** 
-
-- **(1)** Lorsqu’un agent extincteur d’incendie est entreposé à l’extérieur du local qu’il doit protéger, il doit être rangé dans un lieu sûr, d’accès facile et bien aéré.
-
-- **(2)** Tous les accès au local d’entreposage visé au paragraphe (1) doivent être indépendants du local à protéger et doivent donner sur le pont découvert.
-
-- **(3)** Les portes d’accès au local d’entreposage visé au paragraphe (1) doivent s’ouvrir vers l’extérieur.
-
-- **(4)** Les cloisons, les ponts et les portes et les autres dispositifs de fermeture qui constituent des limites entre le local d’entreposage visé au paragraphe (1) et les espaces fermés adjacents doivent être étanches au gaz.
-
-- **(5)** Aux fins de l’application des tableaux I et II de l’article 207, le local d’entreposage visé au paragraphe (1) est considéré comme un poste de sécurité.
-> DORS/83-521, art. 4.
-
-
-
-
-
-### Dispositions spéciales applicables aux locaux des machines
-
-
-**245** 
-
-- **(1)** Le nombre de claires-voies, de trappes de cheminées, de portes et de manches à air servant à la ventilation d’un local des machines doit se limiter au minimum requis pour assurer une ventilation suffisante ainsi que le fonctionnement normal et sûr du navire.
-
-- **(2)** Les claires-voies installées dans les locaux des machines doivent être en acier et ne doivent comporter ni hublot ni fenêtre.
-
-- **(3)** Il est interdit d’installer des fenêtres dans les cloisons qui limitent les locaux des machines, mais il est permis d’en doter les postes de commande situés dans les locaux des machines.
-
-- **(4)** Des dispositifs de commande doivent être prévus pour
-	- **a)** l’ouverture et la fermeture des claires-voies;
-	- **b)** la fermeture des trappes de cheminées permettant normalement l’évacuation de l’air;
-	- **c)** la fermeture des volets de manches à air;
-	- **d)** la fermeture des ouvertures permettant l’évacuation de la fumée; et
-	- **e)** l’arrêt des ventilateurs.
-
-- **(5)** Les dispositifs de commande visés au paragraphe (4) doivent être situés à l’extérieur du local des machines desservi de façon à demeurer accessibles en cas d’incendie dans ce local.
-> DORS/83-521, art. 4.
-
-
-
-
-
-### Disposition des citernes à mazout
-
-
-**246** 
-
-- **(1)** Les citernes à mazout doivent, si possible, faire partie de la structure du navire, mais elles ne doivent être situées ni à côté ni à l’intérieur des locaux des machines de la catégorie A.
-
-- **(2)** [Abrogé, DORS/2002-220, art. 8]
-> DORS/83-521, art. 4; DORS/95-254, art. 25; DORS/2002-220, art. 8.
-
-
-
-
-
-### Plans de lutte contre l’incendie
-
-
-**247** 
-
-- **(1)** Il doit y avoir à bord de tout navire
-	- **a)** un plan de lutte contre l’incendie affiché en permanence, à l’intention des officiers du navire, près du poste habituel de navigation et
-		- **(i)** montrant clairement pour chaque pont, l’emplacement
-			- **(A)** des cloisonnements de type A et des cloisonnements de type B,
-			- **(B)** des postes de sécurité,
-			- **(C)** des portes coupe-feu, des portes étanches et des autres entrées et sorties des espaces fermés, et
-			- **(D)** des appareils d’extinction d’incendie, et
-		- **(ii)** donnant pour chaque pont, le détail
-			- **(A)** des systèmes d’alerte et de détection et des installations fixes d’extinction d’incendie, et
-			- **(B)** des systèmes de ventilation, notamment l’emplacement des ventilateurs et de leurs commandes, l’emplacement des volets et le numéro d’identification des ventilateurs desservant chaque section; ou
-	- **b)** un livret de lutte contre l’incendie contenant les renseignements précisés aux sous-alinéas a)(i) et (ii), dont un exemplaire doit
-		- **(i)** toujours se trouver à la passerelle de navigation ou à un autre poste de sécurité adéquat, et
-		- **(ii)** être fourni à chacun des officiers du navire.
-
-- **(2)** Le plan ou le livret de lutte contre l’incendie visé au paragraphe (1) doit être tenu à jour et indiquer toutes les modifications apportées au navire.
-
-- **(3)** Un exemplaire du plan ou du livret de lutte contre l’incendie préparé pour le navire doit être fourni au Bureau et, si des modifications sont apportées au navire et que le plan ou le livret est révisé, un exemplaire de la version révisée doit immédiatement être remis au Bureau.
-> DORS/83-521, art. 4.
-
-
-
-
-**248** Il doit toujours y avoir à la passerelle de navigation ou à un autre poste de sécurité approprié du navire un livret d’instructions relatives à l’entretien et au fonctionnement du matériel et des installations de lutte contre l’incendie.
-> DORS/83-521, art. 4.
-
-
-
-
-
-### Entreposage de la peinture et des autres produits inflammables
-
-
-**249** 
-
-- **(1)** Sous réserve du paragraphe (2), la peinture et tout autre produit inflammable du même genre transportés à bord d’un navire pour y être utilisés doivent être entreposés dans une armoire
-	- **a)** construite en acier;
-	- **b)** isolée conformément à l’article 207; et
-	- **c)** située à l’extérieur des locaux d’habitation.
-
-- **(2)** Lorsqu’une armoire visée au paragraphe (1) est adjacente à un local d’habitation, l’accès à l’armoire doit se faire depuis le pont découvert.
-
-- **(3)** Chaque armoire à peinture ou local du même genre doit comporter une installation fixe d’extinction par le gaz.
-> DORS/83-521, art. 4.
-
-
-
-
-
-### Système d’alerte générale, système d’alerte à commande manuelle et système de sonorisation
-
-
-**250** Chaque navire doit être doté d’un système d’alerte générale
-- **a)** qui fait entendre un signal d’alerte assez fort pour être bien entendu partout sur le navire et qui, à bord des navires où le bruit est élevé dans certains locaux, y active des feux clignotants; et
-- **b)** qui est conforme aux exigences de la TP 127, Normes d’électricité régissant les navires, publiée en 1982 par la direction de la sécurité des navires du ministère des Transports.
-> DORS/83-521, art. 4.
-
-
-
-
-**251** Les coursives, les locaux d’habitation et les autres locaux du navire qu’occupe normalement l’équipage doivent être dotés d’un système d’alerte à commande manuelle
-- **a)** qui indique à la timonerie l’endroit du navire d’où provient l’alerte; et
-- **b)** qui est conforme aux exigences du [Règlement sur le matériel de détection et d’extinction d’incendie](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1401-1500/C.R.C.,%20ch.%201422.md).
-> DORS/83-521, art. 4.
-
-
-
-
-**252** Tout navire doit être doté d’un système de sonorisation permettant la communication avec les locaux d’habitation, les locaux de service, les locaux des machines et les postes de sécurité du navire, qui est conforme aux exigences de la TP 127, Normes d’électricité régissant les navires, publiée en 1982 par la direction de la Sécurité des navires du ministère des Transports.
-> DORS/83-521, art. 4.
-
-
-
-
-
-### Espaces à cargaison
-
-
-**253** 
-
-- **(1)** Sous réserve du paragraphe (2), chaque espace à cargaison d’un navire d’une jauge brute égale ou supérieure à 2 000 tonneaux doit être protégé par
-	- **a)** une installation fixe d’extinction par le gaz conforme au [Règlement sur le matériel de détection et d’extinction d’incendie](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1401-1500/C.R.C.,%20ch.%201422.md); ou
-	- **b)** par un système d’extinction assurant une protection équivalente à celle du système visé à l’alinéa a).
-
-- **(2)** Le paragraphe (1) ne s’applique pas aux espaces à cargaison d’un navire
-	- **a)** destinés uniquement au transport du minerai, des céréales, du bois vert ou des cargaisons qui présentent un faible risque d’incendie; et
-	- **b)** dotés de panneaux d’écoutille en acier et de dispositifs permettant de fermer efficacement toutes les manches de ventilation et les autres ouvertures communiquant avec les espaces à cargaison.
-> DORS/83-521, art. 4; DORS/90-240, art. 18.
-
-
-
-
-
-### Espaces à cargaison destinés au transport des véhicules automobiles dont le réservoir contient le carburant nécessaire à leur propre propulsion
-
-
-**254** 
-
-- **(1)** Chaque espace à cargaison destiné au transport de véhicules automobiles dont le réservoir contient le carburant nécessaire à leur propre propulsion doit être doté
-	- **a)** d’un système de détection et d’alerte d’incendie;
-	- **b)** d’une installation fixe d’extinction des incendies conforme au [Règlement sur le matériel de détection et d’extinction d’incendie](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1401-1500/C.R.C.,%20ch.%201422.md).
-
-- **(2)** Les espaces à cargaison visés au paragraphe (1) doivent être dotés d’un système de ventilation mécanique
-	- **a)** d’une capacité suffisante pour renouveler l’air au moins six fois par heure, compte tenu du volume d’une cale vide;
-	- **b)** entièrement distinct des autres systèmes de ventilation; et
-	- **c)** conçu pour empêcher la stratification de l’air et la formation de poches d’air dans l’espace à cargaison.
-> DORS/83-521, art. 4; DORS/95-254, art. 26.
-
-
-
-
-**255** 
-
-- **(1)** Sous réserve du paragraphe (2), le système de ventilation mécanique visé au paragraphe 254(2) doit fonctionner continuellement lorsque des véhicules automobiles sont à bord d’un navire.
-
-- **(2)** S’il n’est pas possible de faire fonctionner continuellement le système de ventilation mécanique visé au paragraphe 254(2) lorsque des véhicules automobiles sont à bord d’un navire, il faut le faire fonctionner un certain temps chaque jour, si les conditions atmosphériques le permettent, ainsi qu’avant le déchargement, pendant une période suffisamment longue pour garantir qu’il n’y a pas de gaz sur le pont.
-
-- **(3)** Si le système de ventilation mécanique visé au paragraphe 254(2) ne fonctionne pas continuellement lorsque des véhicules automobiles sont présents à bord, il faut garder à bord du navire un ou plusieurs détecteurs portatifs de gaz combustible et les utiliser pour vérifier la présence de gaz avant le déchargement des véhicules automobiles.
-> DORS/83-521, art. 4.
-
-
-
-
-**256** La passerelle de navigation doit être dotée d’un dispositif qui signale tout arrêt ou tout ralentissement du système de ventilation visé au paragraphe 254(2).
-> DORS/83-521, art. 4.
-
-
-
-
-**257** Le matériel et le câblage électriques installés dans un espace à cargaison visé au paragraphe 254(1) doivent être conformes aux exigences de la TP 127, Normes d’électricité régissant les navires, publiée en 1982 par la direction de la Sécurité des navires du ministère des Transports.
-> DORS/83-521, art. 4.
-
-
-
-
-**258** Les dalots des espaces à cargaison visés au paragraphe 254(1) ne doivent pas communiquer avec des locaux des machines ou avec d’autres locaux où une source d’inflammation peut exister.
-> DORS/83-521, art. 4.
-
+**258** [Abrogé, DORS/2017-14, art. 407]
 
 
 
