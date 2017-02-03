@@ -2668,7 +2668,7 @@ Wolverine (*Gulo gulo*) Eastern population<br />- <i>Carcajou population de l’
 
 Bobwhite, Northern (*Colinus virginianus*)<br />- <i>Colin de Virginie</i>
 
-Chat *auricollis* subspecies, Yellow-breasted (*Icteria virens auricollis*) British Columbia population<br />- <i>Paruline polyglotte de la sous-espèce auricollis population de la Colombie-Britannique</i>
+Chat *auricollis* subspecies, Yellow-breasted (*Icteria virens auricollis*) Southern Mountain population<br />- <i>Paruline polyglotte de la sous-espèce auricollis population des montagnes du Sud</i>
 
 Crane, Whooping (*Grus americana*)<br />- <i>Grue blanche</i>
 
@@ -2703,8 +2703,6 @@ Rail, King (*Rallus elegans*)<br />- <i>Râle élégant</i>
 Sage-Grouse *urophasianus* subspecies, Greater (*Centrocercus urophasianus urophasianus*)<br />- <i>Tétras des armoises de la sous-espèce urophasianus</i>
 
 Sapsucker, Williamson’s (*Sphyrapicus thyroideus*)<br />- <i>Pic de Williamson</i>
-
-Screech-owl *macfarlanei* subspecies, Western (*Megascops kennicottii macfarlanei*)<br />- <i>Petit-duc des montagnes de la sous-espèce macfarlanei</i>
 
 Shrike *migrans* subspecies, Loggerhead (*Lanius ludovicianus migrans*)<br />- <i>Pie-grièche migratrice de la sous-espèce migrans</i>
 
@@ -2887,15 +2885,21 @@ Bumble Bee, Rusty-patched (*Bombus affinis*)<br />- <i>Bourdon à tache rousse</
 
 Checkerspot, Taylor’s (*Euphydryas editha taylori*)<br />- <i>Damier de Taylor</i>
 
+Clubtail, Olive (*Stylurus olivaceus*)<br />- <i>Gomphe olive</i>
+
 Clubtail, Rapids (*Gomphus quadricolor*)<br />- <i>Gomphe des rapides</i>
 
 Diving Beetle, Bert’s Predaceous (*Sanfilippodytes bertae*)<br />- <i>Hydropore de Bertha</i>
 
 Duskywing, Eastern Persius (*Erynnis persius persius*)<br />- <i>Hespérie Persius de l’Est</i>
 
+Efferia, Okanagan (*Efferia okanagana*)<br />- <i>Asile de l’Okanagan</i>
+
 Flower Moth, White (*Schinia bimatris*)<br />- <i>Héliotin blanc satiné</i>
 
 Gold-edged Gem (*Schinia avemensis*)<br />- <i>Héliotin d’Aweme</i>
+
+Hairstreak, Behr’s (*Satyrium behrii*)<br />- <i>Porte-queue de Behr</i>
 
 Hairstreak, Half-moon (*Satyrium semiluna*)<br />- <i>Porte-queue demi-lune</i>
 
@@ -2976,8 +2980,6 @@ Columbo, American (*Frasera caroliniensis*)<br />- <i>Frasère de Caroline</i>
 
 Coreopsis, Pink (*Coreopsis rosea*)<br />- <i>Coréopsis rose</i>
 
-Cryptantha, Tiny (*Cryptantha minima*)<br />- <i>Cryptanthe minuscule</i>
-
 Dogwood, Eastern Flowering (*Cornus florida*)<br />- <i>Cornouiller fleuri</i>
 
 Evening-primrose, Contorted-pod (*Camissonia contorta*)<br />- <i>Onagre à fruits tordus</i>
@@ -3026,7 +3028,7 @@ Mountain-mint, Hoary (*Pycnanthemum incanum*)<br />- <i>Pycnanthème gris</i>
 
 Mulberry, Red (*Morus rubra*)<br />- <i>Mûrier rouge</i>
 
-Owl-clover, Bearded (*Triphysaria versicolor* ssp. *versicolor*)<br />- <i>Triphysaire versicolore</i>
+Owl-clover, Bearded (*Triphysaria versicolor*)<br />- <i>Triphysaire versicolore</i>
 
 Owl-clover, Grand Coulee (*Orthocarpus barbatus*)<br />- <i>Orthocarpe barbu</i>
 
@@ -3121,6 +3123,8 @@ Woolly-heads, Dwarf (*Psilocarphus brevissimus*) Southern Mountain population<br
 
 ##### Lichens
 
+Lichen, Batwing Vinyl (*Leptogium platynum*)<br />- <i>Leptoge à grosses spores</i>
+
 Lichen, Boreal Felt (*Erioderma pedicellatum*) Atlantic population<br />- <i>Érioderme boréal population de l’Atlantique</i>
 
 Lichen, Pale-bellied Frost (*Physconia subpallida*)<br />- <i>Physconie pâle</i>
@@ -3213,6 +3217,10 @@ Nighthawk, Common (*Chordeiles minor*)<br />- <i>Engoulevent d’Amérique</i>
 Owl *brooksi* subspecies, Northern Saw-whet (*Aegolius acadicus brooksi*)<br />- <i>Petite Nyctale de la sous-espèce brooksi</i>
 
 Pipit, Sprague’s (*Anthus spragueii*)<br />- <i>Pipit de Sprague</i>
+
+Screech-owl *kennicottii* subspecies, Western (*Megascops kennicottii kennicottii*)<br />- <i>Petit-duc des montagnes de la sous-espèce kennicottii</i>
+
+Screech-owl *macfarlanei* subspecies, Western (*Megascops kennicottii macfarlanei*)<br />- <i>Petit-duc des montagnes de la sous-espèce macfarlanei</i>
 
 Shearwater, Pink-footed (*Puffinus creatopus*)<br />- <i>Puffin à pieds roses</i>
 
@@ -3323,8 +3331,6 @@ Mussel, Mapleleaf (*Quadrula quadrula*) Great Lakes – Western St. Lawrence pop
 
 ##### Arthropods
 
-Hairstreak, Behr’s (Columbia) (*Satyrium behrii columbia*)<br />- <i>Porte-queue de Colombie-Britannique</i>
-
 Flower Moth, Verna’s (*Schinia verna*)<br />- <i>Héliotin de Verna</i>
 
 Metalmark, Mormon (*Apodemia mormo*) Prairie population<br />- <i>Mormon population des Prairies</i>
@@ -3358,11 +3364,11 @@ Blazing Star, Dense (*Liatris spicata*)<br />- <i>Liatris à épi</i>
 
 Braya, Fernald’s (*Braya fernaldii*)<br />- <i>Braya de Fernald</i>
 
-Buffalograss (*Buchloë dactyloides*)<br />- <i>Buchloé faux-dactyle</i>
-
 Coffee-tree, Kentucky (*Gymnocladus dioicus*)<br />- <i>Chicot févier</i>
 
 Colicroot (*Aletris farinosa*)<br />- <i>Alétris farineux</i>
+
+Cryptantha, Tiny (*Cryptantha minima*)<br />- <i>Cryptanthe minuscule</i>
 
 Daisy, Lakeside (*Hymenoxys herbacea*)<br />- <i>Hyménoxys herbacé</i>
 
@@ -3396,8 +3402,6 @@ Iris, Dwarf Lake (*Iris lacustris*)<br />- <i>Iris lacustre</i>
 
 Jacob’s-ladder, Van Brunt’s (*Polemonium vanbruntiae*)<br />- <i>Polémoine de Van Brunt</i>
 
-Lily, Lyall’s Mariposa (*Calochortus lyallii*)<br />- <i>Calochorte de Lyall</i>
-
 Meadowfoam, Macoun’s (*Limnanthes macounii*)<br />- <i>Limnanthe de Macoun</i>
 
 Mosquito-fern, Mexican (*Azolla mexicana*)<br />- <i>Azolle du Mexique</i>
@@ -3411,8 +3415,6 @@ Paintbrush, Cliff (*Castilleja rupicola*)<br />- <i>Castilléjie des rochers</i>
 Phlox, Showy (*Phlox speciosa* ssp. *occidentalis*)<br />- <i>Phlox de l’Ouest</i>
 
 Popcornflower, Slender (*Plagiobothrys tenellus*)<br />- <i>Plagiobothryde délicate</i>
-
-Prairie-clover, Hairy (*Dalea villosa* var. *villosa*)<br />- <i>Dalée velue</i>
 
 Quillwort, Bolander’s (*Isoetes bolanderi*)<br />- <i>Isoète de Bolander</i>
 
@@ -3444,6 +3446,8 @@ Woodsia, Blunt-lobed (*Woodsia obtusa*)<br />- <i>Woodsie à lobes arrondis</i>
 Bone, Seaside (*Hypogymnia heterophylla*)<br />- <i>Hypogymnie maritime</i>
 
 Jellyskin, Flooded (*Leptogium rivulare*)<br />- <i>Leptoge des terrains inondés</i>
+
+Lichen, Crumpled Tarpaper (*Collema coniophilum*)<br />- <i>Collème bâche</i>
 
 
 
@@ -3482,6 +3486,8 @@ Mole, Eastern (*Scalopus aquaticus*)<br />- <i>Taupe à queue glabre</i>
 Mouse *megalotis* subspecies, Western Harvest (*Reithrodontomys megalotis megalotis*)<br />- <i>Souris des moissons de la sous-espèce *megalotis*</i>
 
 Otter, Sea (*Enhydra lutris*)<br />- <i>Loutre de mer</i>
+
+Pika, Collared (*Ochotona collaris*)<br />- <i>Pica à collier</i>
 
 Porpoise, Harbour (*Phocoena phocoena*) Pacific Ocean population<br />- <i>Marsouin commun population de l’océan Pacifique</i>
 
@@ -3522,6 +3528,8 @@ Falcon *pealei* subspecies, Peregrine (*Falco peregrinus pealei*)<br />- <i>Fauc
 
 Goldeneye, Barrow’s (*Bucephala islandica*) Eastern population<br />- <i>Garrot d’Islande population de l’Est</i>
 
+Grebe, Horned (*Podiceps auritus*) Western population<br />- <i>Grèbe esclavon population de l’Ouest</i>
+
 Heron *fannini* subspecies, Great Blue (*Ardea herodias fannini*)<br />- <i>Grand héron de la sous-espèce *fannini*</i>
 
 Knot *islandica* subspecies, Red (*Calidris canutus islandica*)<br />- <i>Bécasseau maubèche de la sous-espèce *islandica*</i>
@@ -3540,7 +3548,9 @@ Pigeon, Band-tailed (*Patagioenas fasciata*)<br />- <i>Pigeon à queue barrée</
 
 Rail, Yellow (*Coturnicops noveboracensis*)<br />- <i>Râle jaune</i>
 
-Screech-owl *kennicottii* subspecies, Western (*Megascops kennicottii kennicottii*)<br />- <i>Petit-duc des montagnes de la sous-espèce kennicottii</i>
+Sandpiper, Buff-breasted (*Tryngites subruficollis*)<br />- <i>Bécasseau roussâtre</i>
+
+Sparrow, Baird’s (*Ammodramus bairdii*)<br />- <i>Bruant de Baird</i>
 
 Sparrow *princeps* subspecies, Savannah (*Passerculus sandwichensis princeps*)<br />- <i>Bruant des prés de la sous-espèce princeps</i>
 
@@ -3660,6 +3670,8 @@ Lampmussel, Wavy-rayed (*Lampsilis fasciola*)<br />- <i>Lampsile fasciolée</i>
 
 Lampmussel, Yellow (*Lampsilis cariosa*)<br />- <i>Lampsile jaune</i>
 
+Mantleslug, Magnum (*Magnipelta mycophaga*)<br />- <i>Limace à grand manteau</i>
+
 Mussel, Rocky Mountain Ridged (*Gonidea angulata*)<br />- <i>Gonidée des Rocheuses</i>
 
 Oyster, Olympia (*Ostrea lurida*)<br />- <i>Huître plate du Pacifique</i>
@@ -3679,6 +3691,8 @@ Skipper, Sonora (*Polites sonora*)<br />- <i>Hespérie du Sonora</i>
 
 Snaketail, Pygmy (*Ophiogomphus howei*)<br />- <i>Ophiogomphe de Howe</i>
 
+Tachinid Fly, Dune (*Germaria angustata*)<br />- <i>Mouche tachinide des dunes</i>
+
 Weidemeyer’s Admiral (*Limenitis weidemeyerii*)<br />- <i>Amiral de Weidemeyer</i>
 
 
@@ -3694,6 +3708,8 @@ Beggarticks, Vancouver Island (*Bidens amplissima*)<br />- <i>Grand bident</i>
 
 Blue Flag, Western (*Iris missouriensis*)<br />- <i>Iris du Missouri</i>
 
+Buffalograss (*Bouteloua dactyloides*)<br />- <i>Buchloé faux-dactyle</i>
+
 Fern, American Hart’s-tongue (*Asplenium scolopendrium*)<br />- <i>Scolopendre d’Amérique</i>
 
 Fern, Coastal Wood (*Dryopteris arguta*)<br />- <i>Dryoptéride côtière</i>
@@ -3708,6 +3724,8 @@ Indian-plantain, Tuberous (*Arnoglossum plantagineum*)<br />- <i>Arnoglosse plan
 
 Lilaeopsis, Eastern (*Lilaeopsis chinensis*)<br />- <i>Liléopsis de l’Est</i>
 
+Lily, Lyall’s Mariposa (*Calochortus lyallii*)<br />- <i>Calochorte de Lyall</i>
+
 Milk-vetch, Fernald’s (*Astragalus robbinsii* var. *fernaldii*)<br />- <i>Astragale de Fernald</i>
 
 Pepperbush, Sweet (*Clethra alnifolia*)<br />- <i>Clèthre à feuilles d’aulne</i>
@@ -3715,6 +3733,8 @@ Pepperbush, Sweet (*Clethra alnifolia*)<br />- <i>Clèthre à feuilles d’aulne
 Pinweed, Beach (*Lechea maritima*)<br />- <i>Léchéa maritime</i>
 
 Pondweed, Hill’s (*Potamogeton hillii*)<br />- <i>Potamot de Hill</i>
+
+Prairie-clover, Hairy (*Dalea villosa*)<br />- <i>Dalée velue</i>
 
 Quillwort, Prototype (*Isoetes prototypus*)<br />- <i>Isoète prototype</i>
 
@@ -3770,8 +3790,10 @@ Lichen, Cryptic Paw (*Nephroma occultum*)<br />- <i>Néphrome cryptique</i>
 
 Lichen, Oldgrowth Specklebelly (*Pseudocyphellaria rainierensis*)<br />- <i>Pseudocyphellie des forêts surannées</i>
 
+Lichen, Peacock Vinyl (*Leptogium polycarpum*)<br />- <i>Leptoge à quatre spores</i>
 
-> 2002, c. 29, Sch. 1; SOR/2005-14, ss. 1 to 53; SOR/2005-224, ss. 1 to 32; SOR/2006-60, ss. 1, 2; SOR/2006-189, ss. 1 to 22, 23(F), 24 to 26; SOR/2007-284; SOR/2009-86; SOR/2010-32, 33; SOR/2011-8, 128, 233; SOR/2012-133; SOR/2013-34; SOR/2014-274.
+
+> 2002, c. 29, Sch. 1; SOR/2005-14, ss. 1 to 53; SOR/2005-224, ss. 1 to 32; SOR/2006-60, ss. 1, 2; SOR/2006-189, ss. 1 to 22, 23(F), 24 to 26; SOR/2007-284; SOR/2009-86; SOR/2010-32, 33; SOR/2011-8, 128, 233; SOR/2012-133; SOR/2013-34; SOR/2014-274; SOR/2017-10.
 
 
 
