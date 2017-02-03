@@ -968,7 +968,9 @@ and includes trunks to any such spaces. *locaux de service*
 
 **26** Every vessel, the construction of which is commenced after May 31, 1974, shall be fitted with a carbon dioxide smothering system that
 - **(a)** discharges into the machinery space; and
-- **(b)** complies with the requirements of section 3 of Schedule III to the [Fire Detection and Extinguishing Equipment Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1401-1500/C.R.C.,%20c.%201422.md).
+- **(b)** complies with the requirements of section 3 of Schedule III to the [Fire Detection and Extinguishing Equipment Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1401-1500/C.R.C.,%20c.%201422.md), as they read immediately before being repealed.
+> SOR/2017-14, s. 408.
+
 
 
 
@@ -1376,7 +1378,7 @@ and to facilitate the inspection
 		- **(x)** bilge and ballast pumping and piping,
 		- **(xi)** fuel oil tanks separate from hull,
 		- **(xii)** main and auxiliary steering arrangements with details of quadrant and tiller,
-		- **(xiii)** fixed fire extinguishing equipment as outlined in section 6 of the [Fire Detection and Extinguishing Equipment Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1401-1500/C.R.C.,%20c.%201422.md),
+		- **(xiii)** fixed fire extinguishing equipment as outlined in section 6 of the [Fire Detection and Extinguishing Equipment Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1401-1500/C.R.C.,%20c.%201422.md), as they read immediately before being repealed,
 		- **(xiv)** rudder,
 		- **(xv)** stem, sternpost or sternframe,
 		- **(xvi)** pillars and girders,
@@ -1443,9 +1445,9 @@ and to facilitate the inspection
 **(6)** Physical properties of principal forgings and castings.
 
 
->  SOR/80-249, ss. 21 to 24.
 
 
+> SOR/80-249, ss. 21 to 24; SOR/2017-14, s. 409.
 
 
 
