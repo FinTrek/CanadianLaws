@@ -771,12 +771,8 @@ qui précise le nom et la quantité du stupéfiant demandé.
 
 
 
-**28** 
-
-- **(1)** Il est interdit au distributeur autorisé de vendre ou de fournir tout stupéfiant qui n’est pas une drogue au sens de l’article 2 de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md) sauf si le stupéfiant est étiqueté conformément au [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md).
-
-- **(2)** Il est interdit au distributeur autorisé de vendre ou de fournir un stupéfiant autre qu’une préparation décrite à l’article 36, à moins que ce stupéfiant ne soit solidement emballé et que son contenant immédiat ne soit scellé de telle manière qu’il soit impossible de l’ouvrir sans briser le sceau.
-> DORS/80-547, art. 1; DORS/2004-237, art. 13; DORS/2010-221, art. 13.
+**28** Il est interdit au distributeur autorisé de vendre ou de fournir un stupéfiant autre qu’une préparation visée à l’article 36, à moins que ce stupéfiant ne soit solidement emballé et que son contenant immédiat ne soit scellé de telle manière qu’il soit impossible de l’ouvrir sans briser le sceau.
+> DORS/80-547, art. 1; DORS/2004-237, art. 13; DORS/2010-221, art. 13; DORS/2017-18, art. 24.
 
 
 
@@ -1154,8 +1150,8 @@ qui précise le nom et la quantité du stupéfiant demandé.
 
 - **(4)** Sous réserve du paragraphe (5), le ministre peut donner l’avis prévu au paragraphe (1) aux personnes et organismes mentionnés au paragraphe (3) s’il a des motifs raisonnables de croire que le praticien nommé dans l’avis a posé l’un des actes suivants :
 	- **a)** il a enfreint l’un des articles 53,54 ou 55 ou des alinéas 70a) et b);
-	- **a.1)** il a effectué une opération visée à l’article 128 du [Règlement sur l’accès au cannabis à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2016/230.md) à l’égard d’une personne qui n’est pas soumise à ses soins professionnels;
-	- **a.2)** il a contrevenu aux articles 129 ou 130 de ce règlement;
+	- **a.1)** il a effectué une opération visée à l’article 7 du [Règlement sur l’accès au cannabis à des fins médicales](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2016/230.md) à l’égard d’une personne qui n’est pas soumise à ses soins professionnels;
+	- **a.2)** il a contrevenu aux articles 8 ou 9 de ce règlement;
 	- **b)** à plus d’une reprise, il s’est administré un stupéfiant autre qu’un stupéfiant d’ordonnance verbale, obtenu sur ordonnance ou commande écrite par lui ou, à défaut d’une ordonnance ou commande, d’une façon non conforme aux pratiques médicales, dentaires ou vétérinaires reconnues;
 	- **c)** à plus d’une reprise, il s’est administré un stupéfiant d’ordonnance verbale, obtenu sur ordonnance ou commande écrite par lui ou, à défaut d’une ordonnance ou commande, d’une façon non conforme aux pratiques médicales, dentaires ou vétérinaires reconnues;
 	- **d)** à plus d’une reprise, il a prescrit, fourni ou administré un stupéfiant autre qu’un stupéfiant d’ordonnance verbale à son époux ou conjoint de fait, son père ou sa mère ou son enfant, y compris un enfant adopté de fait, d’une façon non conforme aux pratiques médicales, dentaires ou vétérinaires reconnues;
@@ -1172,7 +1168,7 @@ qui précise le nom et la quantité du stupéfiant demandé.
 - **(6)** Dans le présent article, ***praticien de la santé*** s’entend :
 	- **a)** soit de la personne qui, en vertu des lois d’une province, est agréée et autorisée à exercer la médecine dans cette province;
 	- **b)** soit de l’infirmier praticien, au sens de l’article 1 du [Règlement sur les nouvelles catégories de praticiens](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2012/230.md), qui est autorisé à prescrire de la marihuana fraîche ou séchée ou de l’huile de chanvre indien dans la province où il exerce.
-> DORS/2003-134, art. 5; DORS/2010-221, art. 17 et 18(F); DORS/2013-119, art. 222; DORS/2016-230, art. 274 et 278.
+> DORS/2003-134, art. 5; DORS/2010-221, art. 17 et 18(F); DORS/2013-119, art. 222; DORS/2016-230, art. 274 et 278; DORS/2017-18, art. 25.
 
 
 
