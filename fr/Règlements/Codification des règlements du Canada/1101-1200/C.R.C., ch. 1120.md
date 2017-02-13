@@ -322,23 +322,33 @@ Autorités habilitantes :
 
 **10** 
 
-- **(1)** Il est interdit, au cours d’une même journée, dans les eaux de parc mentionnées à la colonne I de la partie I de l’annexe III, de prendre et de garder du poisson d’une espèce visée à la colonne II dont :
-	- **a)** la quantité dépasse la limite quotidienne de prise et de possession indiquée à la colonne III;
+- **(1)** Il est interdit, au cours d’une même journée, de prendre dans les eaux de parcs mentionnées à la colonne I de la partie I de l’annexe III et de garder du poisson d’une espèce visée à la colonne II dont :
+	- **a)** la quantité dépasse :
+		- **(i)** dans le cas des eaux de parcs mentionnées aux articles 1 à 26, la limite de prises quotidiennes et de possession indiquée à la colonne III,
+		- **(ii)** dans le cas des eaux de parc mentionnées à l’article 27, la limite de prises quotidiennes indiquée à la colonne III;
 	- **b)** la longueur totale est supérieure ou inférieure, selon le cas, à celle indiquée à la colonne III.
 
 - **(2)** Il est interdit d’avoir en sa possession, dans un parc mentionné à la colonne I de la partie I de l’annexe III, du poisson d’une espèce visée à la colonne II dont :
-	- **a)** la quantité dépasse la limite quotidienne de prise et de possession indiquée à la colonne III;
+	- **a)** la quantité dépasse :
+		- **(i)** dans le cas d’un parc mentionné aux articles 1 à 26, la limite de prises quotidiennes et de possession indiquée à la colonne III,
+		- **(ii)** dans le cas du parc mentionné à l’article 27, la limite de possession indiquée à la colonne III;
 	- **b)** la longueur totale est supérieure ou inférieure, selon le cas, à celle indiquée à la colonne III.
-> DORS/80-51, art. 5(F); DORS/93-33, art. 5(F); DORS/94-314, art. 6; DORS/96-245, art. 8.
+> DORS/80-51, art. 5(F); DORS/93-33, art. 5(F); DORS/94-314, art. 6; DORS/96-245, art. 8; DORS/2017-21, art. 1.
 
 
 
 
 **11** Il est interdit :
-- **a)** au cours d’une même journée, dans les eaux de parc mentionnées à la colonne I de la partie II de l’annexe III, de prendre et de garder du poisson des espèces visées à la colonne II en une quantité supérieure à la limite quotidienne globale de prise et de possession indiquée à la colonne III;
-- **b)** d’avoir en sa possession, dans un parc mentionné à la colonne I de la partie II de l’annexe III, du poisson des espèces visées à la colonne II en une quantité supérieure à la limite quotidienne globale de prise et de possession indiquée à la colonne III;
-- **c)** au cours d’une même journée, de pêcher après avoir pris et gardé, dans les eaux de parc mentionnées à la colonne I de la partie II de l’annexe III, du poisson des espèces visées à la colonne II en une quantité égale à la limite quotidienne globale de prise et de possession indiquée à la colonne III.
-> DORS/90-4, art. 6(F); DORS/93-33, art. 6; DORS/94-314, art. 6; DORS/96-245, art. 8; DORS/98-268, art. 3(A); DORS/99-352, art. 11.
+- **a)** au cours d’une même journée, de prendre dans les eaux de parcs mentionnées à la colonne I de la partie II de l’annexe III et de garder du poisson des espèces visées à la colonne II en une quantité supérieure à :
+	- **(i)** dans le cas des eaux de parcs mentionnées aux articles 1 à 25, la limite globale de prises quotidiennes et de possession indiquée à la colonne III,
+	- **(ii)** dans le cas des eaux de parc mentionnées à l’article 26, la limite globale de prises quotidiennes indiquée à la colonne III;
+- **b)** d’avoir en sa possession, dans un parc mentionné à la colonne I de la partie II de l’annexe III, du poisson des espèces visées à la colonne II en une quantité supérieure à :
+	- **(i)** dans le cas d’un parc mentionné aux articles 1 à 25, la limite globale de prises quotidiennes et de possession indiquée à la colonne III,
+	- **(ii)** dans le cas du parc mentionné à l’article 26, la limite globale de possession indiquée à la colonne III;
+- **c)** au cours d’une même journée, de pêcher dans les eaux de parc mentionnées à la colonne I de la partie II de l’annexe III, après avoir, au cours de la même journée, pris dans ces eaux et gardé du poisson des espèces visées à la colonne II en une quantité égale à :
+	- **(i)** dans le cas des eaux de parcs mentionnées aux articles 1 à 25, la limite globale de prises quotidiennes et de possession indiquée à la colonne III,
+	- **(ii)** dans le cas des eaux de parc mentionnées à l’article 26, la limite globale de possession indiquée à la colonne III.
+> DORS/90-4, art. 6(F); DORS/93-33, art. 6; DORS/94-314, art. 6; DORS/96-245, art. 8; DORS/98-268, art. 3(A); DORS/99-352, art. 11; DORS/2017-21, art. 2.
 
 
 
@@ -351,8 +361,8 @@ Autorités habilitantes :
 
 
 
-**12.1** Lorsque la longueur totale et les limites quotidiennes de prise et de possession prévues à la colonne III de la partie I de l’annexe III sont de 0, le pêcheur qui capture un poisson de l’une des espèces prévues à la colonne II doit immédiatement le décrocher et le remettre à l’eau en évitant le plus possible de le blesser.
-> DORS/98-268, art. 4.
+**12.1** Lorsque la longueur totale et la limite de prises quotidiennes et de possession prévues à la colonne III de la partie I de l’annexe III sont de 0, la personne qui prend un poisson de l’une des espèces prévues à la colonne II doit immédiatement le décrocher et le remettre à l’eau en évitant le plus possible de le blesser.
+> DORS/98-268, art. 4; DORS/2017-21, art. 3.
 
 
 
@@ -1522,7 +1532,7 @@ Autorités habilitantes :
 **(articles 10, 11, 12, 12.1, 12.2 et 12.3)**
 #### PARTIE I
 <table>
-<h4>Longueur totale et limites quotidiennes de prise et de possession</h4>
+<h4>Longueur totale et limites relatives à la prise et à la possession</h4>
 <tr>
 <th></th>
 <th>Colonne I</th>
@@ -1533,7 +1543,7 @@ Autorités habilitantes :
 <th>Article</th>
 <th>Eaux de parcs nationaux du Canada</th>
 <th>Espèces de poisson</th>
-<th>Prises quotidiennes, limite de possession et, le cas échéant, longueur totale</th>
+<th>Longueur totale, le cas échéant, et limite de prises quotidiennes et de possession ou limite de prises quotidiennes et limite de possession</th>
 </tr>
 <tr>
 <td>1(1)</td>
@@ -2235,19 +2245,27 @@ Autorités habilitantes :
 <td>**a)** Truite et omble chevalier
 
 </td>
-<td>12 poissons, ou 2,2 kg plus 1 poisson, selon la première limite atteinte</td>
+<td>**(i)** La limite de prises quotidiennes est de 12 poissons, ou de 2,2 kg plus 1 poisson, selon la première limite atteinte
+
+**(ii)** La limite de possession est de 24 poissons, ou de 4,4 kg plus 1 poisson, selon la première limite atteinte
+
+</td>
 </tr>
 <tr>
 <td>**b)** Saumon
 
 </td>
-<td>2 poissons (longueur à la fourche supérieure à 30 cm mais inférieure à 63 cm, mesurée en ligne droite de l’extrémité de la tête à la fourche de la queue)</td>
+<td>**(i)** La limite de prises quotidiennes est de 2 poissons (longueur à la fourche supérieure à 30 cm mais inférieure à 63 cm, mesurée en ligne droite de l’extrémité de la tête à la fourche de la queue)
+
+**(ii)** La limite de possession équivaut à deux fois la limite de prises quotidiennes (longueur à la fourche supérieure à 30 cm mais inférieure à 63 cm, mesurée en ligne droite de l’extrémité de la tête à la fourche de la queue)
+
+</td>
 </tr>
 </table>
 
 #### PARTIE II
 <table>
-<h4>Limites quotidiennes globales de prise et de possession</h4>
+<h4>Limites globales relatives à la prise et à la possession</h4>
 <tr>
 <th></th>
 <th>Colonne I</th>
@@ -2258,7 +2276,7 @@ Autorités habilitantes :
 <th>Article</th>
 <th>Eaux de parcs nationaux du Canada</th>
 <th>Espèces de poisson</th>
-<th>Limites quotidiennes globales de prise et de possession</th>
+<th>Limite globale de prises quotidiennes et de possession ou limite globale de prises quotidiennes et limite globale de possession</th>
 </tr>
 <tr>
 <td>1</td>
@@ -2544,17 +2562,25 @@ Autorités habilitantes :
 <td>**a)** Truite et omble chevalier
 
 </td>
-<td>24 poissons, ou 4,4 kg plus 1 poisson, selon la première limite atteinte</td>
+<td>**(i)** La limite globale de prises quotidiennes est de 12 poissons, ou de 2,2 kg plus 1 poisson, selon la première limite atteinte
+
+**(ii)** La limite globale de possession est de 24 poissons, ou de 4,4 kg plus 1 poisson, selon la première limite atteinte
+
+</td>
 </tr>
 <tr>
 <td>**b)** Saumon
 
 </td>
-<td>La limite de possession équivaut à deux fois la limite quotidienne de prise et de possession</td>
+<td>**(i)** La limite globale de prises quotidiennes est 2 de poissons
+
+**(ii)** La limite globale de possession équivaut à deux fois la limite globale de prises quotidiennes
+
+</td>
 </tr>
 </table>
 
-> DORS/79-333, art. 3; DORS/80-51, art. 11; DORS/82-523, art. 2; DORS/83-280, art. 4; DORS/86-378, art. 18; DORS/90-4, art. 25 à 34; DORS/91-402, art. 7 à 17; DORS/93-33, art. 18 à 30; DORS/94-314, art. 13 à 16, 20(A) et 21(F); DORS/96-245, art. 30; DORS/98-268, art. 13 à 26; DORS/99-352, art. 23(F) et 24 à 28; DORS/2003-54, art. 45 à 56; DORS/2005-206, art. 6 et 7; DORS/2009-322, art. 7(A) et 9(F).
+> DORS/79-333, art. 3; DORS/80-51, art. 11; DORS/82-523, art. 2; DORS/83-280, art. 4; DORS/86-378, art. 18; DORS/90-4, art. 25 à 34; DORS/91-402, art. 7 à 17; DORS/93-33, art. 18 à 30; DORS/94-314, art. 13 à 16, 20(A) et 21(F); DORS/96-245, art. 30; DORS/98-268, art. 13 à 26; DORS/99-352, art. 23(F) et 24 à 28; DORS/2003-54, art. 45 à 56; DORS/2005-206, art. 6 et 7; DORS/2009-322, art. 7(A) et 9(F); DORS/2017-21, art. 4 à 9.
 
 
 
