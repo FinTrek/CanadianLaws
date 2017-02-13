@@ -320,23 +320,33 @@ Enabling authorities:
 
 **10** 
 
-- **(1)** No person shall, on any day, catch in the park waters set out in column I of an item of Part I of Schedule III, a number of fish of a species set out in column II of that item, or retain a number of fish of that species
-	- **(a)** in excess of the daily catch and possession limit set out in column III of that item; or
+- **(1)** No person shall, on any day, catch in the park waters set out in column I of Part I of Schedule III and retain in respect of a species of fish set out in column II, fish that are
+	- **(a)** in total, a number in excess of
+		- **(i)** in the case of the park waters set out in items 1 to 26, the daily catch and possession limit set out in column III, and
+		- **(ii)** in the case of the park waters set out in item 27, the daily catch limit set out in column III; or
 	- **(b)** of an overall length in excess of or less than, as the case may be, the overall length, if any, set out in column III of that item.
 
-- **(2)** No person shall at any time have in possession within the boundaries of a park set out in column I of an item of Part I of Schedule III a number of fish of a species set out in column II of that item
-	- **(a)** in excess of the daily catch and possession limit set out in column III of that item; or
+- **(2)** No person shall have in possession within the boundaries of a park referred to in column I of Part I of Schedule III in respect of a species of fish set out in column II, fish that are
+	- **(a)** in total, a number in excess of
+		- **(i)** in the case of a park referred to in items 1 to 26, the daily catch and possession limit set out in column III, and
+		- **(ii)** in the case of the park referred to in item 27, the possession limit set out in column III; or
 	- **(b)** of an overall length in excess of or less than, as the case may be, the overall length, if any, set out in column III of that item.
-> SOR/80-51, s. 5(F); SOR/93-33, s. 5(F); SOR/94-314, s. 6; SOR/96-245, s. 8.
+> SOR/80-51, s. 5(F); SOR/93-33, s. 5(F); SOR/94-314, s. 6; SOR/96-245, s. 8; SOR/2017-21, s. 1.
 
 
 
 
-**11** No person shall
-- **(a)** on any day, catch in the park waters set out in column I of an item of Part II of Schedule III, a number of fish of the species set out in column II of that item, or retain a number of fish of those species, in excess of the aggregate daily catch and possession limit set out in column III of that item;
-- **(b)** at any time, have in possession within the boundaries of a park set out in column I of an item of Part II of Schedule III, a number of fish of the species set out in column II of that item in excess of the aggregate daily catch and possession limit set out in column III of that item; or
-- **(c)** fish on any day after having, on that day, caught in park waters set out in column I of an item of Part II of Schedule III, a number of fish of the species set out in column II of that item and retained the aggregate daily catch and possession limit set out in column III of that item.
-> SOR/90-4, s. 6(F); SOR/93-33, s. 6; SOR/94-314, s. 6; SOR/96-245, s. 8; SOR/98-268, s. 3(E); SOR/99-352, s. 11.
+**11** No person shall,
+- **(a)** on any day, catch in the park waters set out in column I of Part II of Schedule III and retain a number of fish of the species set out in column II, that is in excess of
+	- **(i)** in the case of the park waters set out in items 1 to 25, the aggregate daily catch and possession limit set out in column III, and
+	- **(ii)** in the case of the park waters set out in item 26, the aggregate daily catch limit set out in column III;
+- **(b)** have in possession within the boundaries of a park referred to in column I of Part II of Schedule III, a number of fish of the species set out in column II that is in excess of
+	- **(i)** in the case of a park referred to in items 1 to 25, the aggregate daily catch and possession limit set out in column III, and
+	- **(ii)** in the case of the park referred to in item 26, the aggregate possession limit set out in column III; or
+- **(c)** fish in park waters set out in column I of Part II of Schedule III, on any day after having, on that day, caught in those waters and retained a number of fish of the species set out in column II that is
+	- **(i)** in the case of the park waters set out in items 1 to 25, the aggregate daily catch and possession limit set out in column III, and
+	- **(ii)** in the case of the park waters set out in item 26, the aggregate possession limit set out in column III.
+> SOR/90-4, s. 6(F); SOR/93-33, s. 6; SOR/94-314, s. 6; SOR/96-245, s. 8; SOR/98-268, s. 3(E); SOR/99-352, s. 11; SOR/2017-21, s. 2.
 
 
 
@@ -349,8 +359,8 @@ Enabling authorities:
 
 
 
-**12.1** Where the daily catch and possession limit and overall length set out in column III of an item of Part I of Schedule III are 0, any person who catches a fish of a species set out in column II of that item shall immediately unhook the fish and return it to the water with as little damage to the fish as possible.
-> SOR/98-268, s. 4.
+**12.1** If the daily catch and possession limit and overall length set out in column III of Part I of Schedule III are 0, any person who catches a fish of a species set out in column II shall immediately unhook the fish and return it to the water with as little damage to the fish as possible.
+> SOR/98-268, s. 4; SOR/2017-21, s. 3.
 
 
 
@@ -1520,7 +1530,7 @@ Enabling authorities:
 **(Sections 10, 11, 12, 12.1, 12.2 and 12.3)**
 #### PART I
 <table>
-<h4>Daily Catch, Possession and Overall Length Limits</h4>
+<h4>Overall Length and Limits on Catch and Possession</h4>
 <tr>
 <th></th>
 <th>Column I</th>
@@ -1531,7 +1541,7 @@ Enabling authorities:
 <th>Item</th>
 <th>National Park of Canada Waters</th>
 <th>Species of Fish</th>
-<th>Daily Catch and Possession Limit and Overall Length (where applicable)</th>
+<th>Overall Length (where applicable) and Daily Catch and Possession Limit or Daily Catch Limit and Possession Limit</th>
 </tr>
 <tr>
 <td>1(1)</td>
@@ -2233,19 +2243,27 @@ Enabling authorities:
 <td>**(a)** Trout and Arctic charr
 
 </td>
-<td>12 fish, or 2.2 kg plus 1 fish, whichever comes first</td>
+<td>**(i)** Daily catch limit is 12 fish, or 2.2 kg plus 1 fish, whichever is reached first
+
+**(ii)** Possession limit is 24 fish, or 4.4 kg plus 1 fish, whichever is reached first
+
+</td>
 </tr>
 <tr>
 <td>**(b)** Salmon
 
 </td>
-<td>2 fish, greater than 30 cm fork length but less than 63 cm fork length, when measured in a straight line from the tip of the nose to the fork of the tail</td>
+<td>**(i)** Daily catch limit is 2 fish, with overall length greater than 30 cm fork length but less than 63 cm fork length, when measured in a straight line from the tip of the nose to the fork of the tail
+
+**(ii)** Possession limit is twice the daily catch limit, with overall length greater than 30 cm fork length but less than 63 cm fork length, when measured in a straight line from the tip of the nose to the fork of the tail
+
+</td>
 </tr>
 </table>
 
 #### PART II
 <table>
-<h4>Aggregate Daily Catch and Possession Limits</h4>
+<h4>Aggregate Limits on Catch and Possession</h4>
 <tr>
 <th></th>
 <th>Column I</th>
@@ -2256,7 +2274,7 @@ Enabling authorities:
 <th>Item</th>
 <th>National Park of Canada Waters</th>
 <th>Species of Fish</th>
-<th>Aggregate Daily Catch and Possession Limit</th>
+<th>Aggregate Daily Catch and Possession Limit or Aggregate Daily Catch Limit and Aggregate Possession Limit</th>
 </tr>
 <tr>
 <td>1</td>
@@ -2542,17 +2560,25 @@ Enabling authorities:
 <td>**(a)** Trout and Arctic charr
 
 </td>
-<td>24 fish, or 4.4 kg plus 1 fish, whichever comes first</td>
+<td>**(i)** Aggregate daily catch limit is 12 fish, or 2.2 kg plus 1 fish, whichever is reached first
+
+**(ii)** Aggregate possession limit is 24 fish, or 4.4 kg plus 1 fish, whichever is reached first
+
+</td>
 </tr>
 <tr>
 <td>**(b)** Salmon
 
 </td>
-<td>Possession limit is two times the daily catch and possession limit</td>
+<td>**(i)** Aggregate daily catch limit is 2 fish
+
+**(ii)** Aggregate possession limit is twice the aggregate daily catch limit
+
+</td>
 </tr>
 </table>
 
-> SOR/79-333, s. 3; SOR/80-51, s. 11; SOR/82-523, s. 2; SOR/83-280, s. 4; SOR/86-378, s. 18; SOR/90-4, ss. 25 to 34; SOR/91-402, ss. 7 to 17; SOR/93-33, ss. 18 to 30; SOR/94-314, ss. 13 to 16, 20(E), 21(F); SOR/96-245, s. 30; SOR/98-268, ss. 13 to 26; SOR/99-352, ss. 23(F), 24 to 28; SOR/2003-54, ss. 45 to 56; SOR/2005-206, ss. 6, 7; SOR/2009-322, ss. 7(E), 9(F).
+> SOR/79-333, s. 3; SOR/80-51, s. 11; SOR/82-523, s. 2; SOR/83-280, s. 4; SOR/86-378, s. 18; SOR/90-4, ss. 25 to 34; SOR/91-402, ss. 7 to 17; SOR/93-33, ss. 18 to 30; SOR/94-314, ss. 13 to 16, 20(E), 21(F); SOR/96-245, s. 30; SOR/98-268, ss. 13 to 26; SOR/99-352, ss. 23(F), 24 to 28; SOR/2003-54, ss. 45 to 56; SOR/2005-206, ss. 6, 7; SOR/2009-322, ss. 7(E), 9(F); SOR/2017-21, ss. 4 to 9.
 
 
 
