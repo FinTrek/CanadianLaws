@@ -1451,10 +1451,12 @@ the trader shall, within five days after the date of the installation, make a re
 
 
 **81** Weights shall be constructed to represent
-- **(a)** multiples or submultiples of the kilogram, gram or milligram having values equal to 1, 2 or 5 × 10<sup>n</sup> units, where n is a positive or negative whole number or zero;
+- **(a)** multiples or submultiples of the kilogram, gram or milligram having values equal to 1, 2 or 5 × 10<sup>n</sup> units, where “n” represents a whole number, whether positive, negative or equal to zero;
 - **(b)** multiples or decimal submultiples of the pound or troy ounce;
 - **(c)** multiples or binary submultiples of the pound or ounce; or
 - **(d)** multiples or decimal submultiples of the grain.
+> SOR/2017-17, s. 1.
+
 
 
 
@@ -2978,18 +2980,20 @@ the trader shall, within five days after the date of the installation, make a re
 
 **150** The following definitions apply in this Division.
 
-***continuous totalizing weighing machine*** means a machine used for continuously weighing a bulk product on a conveyor belt, without systematic subdivision of the mass and without interruption of the movement of the conveyor belt. (*appareil de pesage totalisateur en continu*)
+***continuous totalizing weighing machine*** means a machine used for continuously weighing a bulk product on a conveyor belt, without systematic subdivision of the mass and without interruption of the movement of the conveyor belt. (*appareil de pesage totalisateur en continu*)
 
-***electronic machine*** means a machine, other than a continuous totalizing weighing machine, for use in trade that operates with electronic components and is equipped with a digital means of indication. (*appareil électronique*)
+***electronic computing machine*** means an electronic machine that calculates the monetary value equal to the product of the weight indication multiplied by the unit price. (*appareil calculateur électronique*)
 
-***known test load*** means a load consisting of local standards or any other load the weight of which has been determined in relation to local standards. (*charge connue*)
+***electronic machine*** means a machine, other than a continuous totalizing weighing machine, that operates with electronic components and is equipped with a digital means of indication. (*appareil électronique*)
 
-***machine*** means an automatic weighing machine for use in trade that weighs without the intervention of an operator and follows a predetermined program of automatic processes characteristic of the machine. (*appareil*)
+***known test load*** means a load consisting of local standards or any other load the weight of which has been determined in relation to local standards. (*charge connue*)
 
-***registration*** includes both visual indication and printed representation of quantity, unit price or monetary value. (*enregistrement*) 
+***machine*** means an automatic weighing machine for use in trade that weighs without the intervention of an operator and follows a predetermined program of automatic processes characteristic of the machine. (*appareil*)
 
-***tare function*** in respect of a machine, means a process, mechanism or feature that allows it to utilize tare. (*fonction tare*)
-> SOR/90-118, s. 20; SOR/98-115, s. 12; SOR/2005-130, s. 8; SOR/2012-28, s. 4.
+***registration*** includes both visual indication and printed representation of quantity, unit price or monetary value. (*enregistrement*) 
+
+***tare function*** in respect of a machine, means a process, mechanism or feature that allows it to utilize tare. (*fonction tare*)
+> SOR/90-118, s. 20; SOR/98-115, s. 12; SOR/2005-130, s. 8; SOR/2012-28, s. 4; SOR/2017-17, s. 2.
 
 
 
@@ -3019,16 +3023,16 @@ the trader shall, within five days after the date of the installation, make a re
 - **(3)** The weight indication of an electronic machine shall be stable, in accordance with subsections (1) and (2), for at least 0.4 of a second before registering a weight value.
 
 - **(4)** The zero-setting mechanism and the zero-tracking mechanism circuits of an electronic machine shall be interlocked with the motion detector so that these mechanisms are inoperative while motion is being detected.
-> SOR/2012-28, s. 5.
+> SOR/2012-28, s. 5; SOR/2017-17, s. 20(F).
 
 
 
 
-**153** The registration of monetary value determined by an electronic computing machine shall equal the product of the weight indication multiplied by the unit price. It is to be rounded to the nearest cent as follows:
+**153** The registration of monetary value calculated by an electronic computing machine is to be rounded to the nearest cent as follows:
 - **(a)** when the digit next beyond the second decimal is less than 5, the second decimal is to be kept unchanged;
 - **(b)** when the digit next beyond the second decimal is greater than 5, or is 5 followed by one or more digits other than zeros, the second decimal is to be increased by one; and
 - **(c)** when the digit next beyond the second decimal is 5 and is followed by no other digits or by one or more zeros, the second decimal is to be kept unchanged if it is even and be increased by one if it is odd.
-> SOR/2012-28, s. 5.
+> SOR/2012-28, s. 5; SOR/2017-17, s. 3.
 
 
 
@@ -3058,7 +3062,7 @@ the trader shall, within five days after the date of the installation, make a re
 - **(11)** If an electronic machine, other than an electronic computing machine, displays only one weight value at a time, there shall be visual indication on or adjacent to the weight display that indicates that the tare function is in operation.
 
 - **(12)** If an electronic machine, other than an electronic computing machine, is capable of registering gross, net or tare weight, the weight values shall be clearly identified.
-> SOR/2012-28, s. 5.
+> SOR/2012-28, s. 5; SOR/2017-17, ss. 4(F), 20(F).
 
 
 
@@ -3082,7 +3086,7 @@ the trader shall, within five days after the date of the installation, make a re
 - **(2)** The overall range of the zero-tracking mechanism of an electronic machine shall not exceed four per cent of the machine’s rated capacity.
 
 - **(3)** The zero-tracking mechanism of an electronic machine shall not be operator-controlled and the maximum weight value corrected at any one time by the zero-tracking mechanism shall not exceed 0.6 times the value of the minimum increment of registration.
-> SOR/2012-28, s. 6.
+> SOR/2012-28, s. 6; SOR/2017-17, s. 20(F).
 
 
 
@@ -3130,7 +3134,7 @@ the trader shall, within five days after the date of the installation, make a re
 - **(1)** An electronic machine, other than an electronic computing machine, shall not register or print any value when the load exceeds 105 per cent of the rated capacity of the machine.
 
 - **(2)** An electronic computing machine shall not register or print any value when the load exceeds the rated capacity of the machine by more than 10 times the value of the minimum increment of registration.
-> SOR/2012-28, s. 7.
+> SOR/2012-28, s. 7; SOR/2017-17, ss. 5(F), 20(F).
 
 
 
@@ -3138,14 +3142,14 @@ the trader shall, within five days after the date of the installation, make a re
 **171** A machine equipped with an electronic digital means of registration shall be capable of giving visual confirmation that it has been returned to zero-load within a range equivalent to the greater of
 - **(a)** ¼ of the value of the minimum increment of registration, and
 - **(b)** 0.01 per cent of the capacity of the machine.
-> SOR/90-118, s. 21.
+> SOR/90-118, s. 21; SOR/2017-17, s. 20(F).
 
 
 
 
 **172** 
 
-- **(1)** The value of the minimum increment of registration on a machine shall not be greater than 10 kg or 20 pounds unless the capacity of the machine exceeds 100 000 kg or 200,000 pounds, in which case the value of the minimum increment of registration shall not be greater than 20 kg or 50 pounds.
+- **(1)** Subject to subsections (2) to (6), the value of the minimum increment of registration on a machine shall not be greater than 10 kg, if the machine measures in kilograms, or 20 pounds, if the machine measures in pounds, unless the capacity of the machine exceeds 100 000 kg or 200,000 pounds, in which case the value of the minimum increment of registration shall not be greater than 20 kg or 50 pounds, respectively.
 
 - **(2)** The value of the minimum increment of registration on a tank scale that is designed for weighing alcohol or on a hopper scale that is designed for weighing grain in a terminal or transfer elevator shall not be greater than
 	- **(a)** 5 kg or 10 pounds, if the capacity of the scale is equal to or less than 100 000 kg or 200,000 pounds;
@@ -3409,7 +3413,7 @@ the trader shall, within five days after the date of the installation, make a re
 1 × 10<sup>n</sup>, 2 × 10<sup>n</sup> or 5 × 10<sup>n</sup>,
 ```
 where “n” represents a whole number, whether positive, negative or equal to zero.
-> SOR/90-118, s. 21; SOR/2012-28, s. 8.
+> SOR/90-118, s. 21; SOR/2012-28, s. 8; SOR/2017-17, s. 6.
 
 
 
@@ -3862,7 +3866,7 @@ where “n” represents a whole number, whether positive, negative or equal to 
 - **(2)** The variation on returning to zero after the removal of a load which has remained on an electronic machine for half an hour may not exceed one half the value of the minimum increment of registration.
 
 - **(3)** The weight indication at zero or near zero on an electronic machine shall not vary by more than the value of the minimum increment of registration for a difference in ambient temperature of 5°C.
-> SOR/2012-28, s. 9.
+> SOR/2012-28, s. 9; SOR/2017-17, ss. 7(F), 20(F).
 
 
 
@@ -3875,23 +3879,22 @@ where “n” represents a whole number, whether positive, negative or equal to 
 
 
 
-**181** When a machine that is of the self-indicating or semi-self-indicating type is tested by
-- **(a)** the removal of a known test load, in the case of a machine that is normally used for weighing following the addition of load, or
-- **(b)** the addition of a known test load, in the case of a machine that is normally used for weighing following the subtraction of load,
-the acceptance and in-service limits of error are 1.5 times the limits of error set out in the tables to sections 176 and 177 and set out in sections 188 and 192.
-> SOR/89-570, s. 6(F).
+**181** When a machine that is equipped with a self-indicating or semi-self-indicating means of registration is tested by one of the following methods, the acceptance limits of error and in-service limits of error are 1.5 times the limits of error set out in the tables to sections 176 and 177 and set out in sections 188 and 192:
+- **(a)** the removal of a known test load, in the case of a machine that is normally used for weighing following the addition of load; or
+- **(b)** the addition of a known test load, in the case of a machine that is normally used for weighing following the subtraction of load.
+> SOR/89-570, s. 6(F); SOR/2017-17, s. 8.
 
 
 
 
 **182** 
 
-- **(1)** Subject to subsections (2) and (3) and sections 188 and 192, the minimum limit of error when a machine is tested for acceptance or in-service limits of error is a weight equivalent to 0.05 per cent at the capacity of the machine or one minimum increment of registration, whichever is the lesser.
+- **(1)** Subject to subsections (2) and (3) and sections 188 and 192, the minimum limit of error when a machine is tested for acceptance limits of error or in-service limits of error is a weight equivalent to the lesser of 0.05 per cent at the capacity of the machine and one minimum increment of registration.
 
 - **(2)** The minimum limit of error for a railway track scale used exclusively in weighing railway cars is the greater of 15 kg or 30 pounds, and the value of the minimum increment of registration.
 
 - **(3)** In a strain test at a heavy duty scale, there shall be no minimum limit of error in respect of the known test load that is added to the strain load and the limit of error for a machine with digital registration shall not be increased as described in section 184.
-> SOR/89-570, s. 6(F); SOR/90-118, s. 23; SOR/93-234, s. 2(F).
+> SOR/89-570, s. 6(F); SOR/90-118, s. 23; SOR/93-234, s. 2(F); SOR/2017-17, ss. 9, 20(F).
 
 
 
@@ -3899,13 +3902,13 @@ the acceptance and in-service limits of error are 1.5 times the limits of error 
 **183** On removal of all load from a machine, the means of registration of the machine shall immediately return to zero registration within a range equivalent to the greater of
 - **(a)** ¼ of the value of the minimum increment of registration, and
 - **(b)** 0.01 per cent of the capacity of the machine.
-> SOR/90-118, s. 24.
+> SOR/90-118, s. 24; SOR/2017-17, s. 20(F).
 
 
 
 
-**184** Subject to subsection 182(3), where a machine has digital increments of registration, the acceptance and in-service limits of error applicable to the digital registrations of the machine shall be increased beyond the limits of error otherwise applicable to the digital registrations of the machine by the equivalent of one-half the finest digital increment of registration.
-> SOR/89-570, s. 6(F).
+**184** Subject to subsection 182(3), if a machine has digital increments of registration, the acceptance limits of error and in-service limits of error applicable to the digital registrations of the machine shall be increased beyond the limits of error otherwise applicable to the digital registrations of the machine by the equivalent of one-half the minimum increment of registration.
+> SOR/89-570, s. 6(F); SOR/2017-17, s. 10.
 
 
 
@@ -3935,7 +3938,7 @@ the acceptance and in-service limits of error are 1.5 times the limits of error 
 **188** Where a hopper scale or a tank scale referred to in subsection 172(2) has a capacity equal to or greater than 15 000 kg or 35,000 pounds,
 - **(a)** the acceptance limits of error for that scale are the greater of 0.05 per cent of the known test load and the value of the minimum increment of registration; and
 - **(b)** the in-service limits of error for that scale are the greater of 0.10 per cent of the known test load and the value of the minimum increment of registration.
-> SOR/89-570, s. 6(F); SOR/90-118, s. 25.
+> SOR/89-570, s. 6(F); SOR/90-118, s. 25; SOR/2017-17, s. 20(F).
 
 
 
@@ -4003,8 +4006,8 @@ the acceptance and in-service limits of error are 1.5 times the limits of error 
 
 
 
-**192** Where a crane scale is designed for use in the weighing of freight to determine freight or shipping charges thereon, the acceptance and in-service of error are 0.5 per cent of the known test load, but not less than 0.125 per cent of the capacity of the scale.
-> SOR/89-570, s. 6(F).
+**192** When a crane scale is used in the weighing of freight to determine freight or shipping charges, the acceptance limit of error and in-service limit of error are 0.5 per cent of the known test load, but not less than 0.125 per cent of the capacity of the scale.
+> SOR/89-570, s. 6(F); SOR/2017-17, s. 11.
 
 
 
@@ -4022,7 +4025,7 @@ the acceptance and in-service limits of error are 1.5 times the limits of error 
 
 
 **196** The load discrimination of a machine equipped with a self-indicating or semi-self-indicating means of registration of either the analogue or the digital type shall be such that for the purpose of determining compliance with the acceptance limits of error or in-service limits of error for the machine and at any load from zero to maximum capacity, the addition to or removal from the load-receiving element of a weight corresponding to 1.4 times the value of the minimum increment of registration shall cause a change in registration equal to or greater than the value of the minimum increment of registration.
-> SOR/89-570, s. 6(F); SOR/90-118, s. 26.
+> SOR/89-570, s. 6(F); SOR/90-118, s. 26; SOR/2017-17, s. 12(F).
 
 
 
@@ -4364,7 +4367,7 @@ the acceptance and in-service limits of error are 1.5 times the limits of error 
 </tr>
 </table>
 
-> SOR/89-570, s. 6(F).
+> SOR/89-570, s. 6(F); SOR/2017-17, s. 13(F).
 
 
 
@@ -4401,7 +4404,7 @@ the acceptance and in-service limits of error are 1.5 times the limits of error 
 </tr>
 </table>
 
-> SOR/89-570, s. 6(F).
+> SOR/89-570, s. 6(F); SOR/2017-17, s. 14(F).
 
 
 
@@ -4445,8 +4448,8 @@ the acceptance and in-service limits of error are 1.5 times the limits of error 
 
 
 
-**224** When a machine is tested in relation to a relevant local standard for either acceptance or in-service limits of error by measurement of a known area on a surface representative of the kind of material for which the machine is designed, the machine is within both the acceptance and in-service limits of error in respect of that area and that kind of material if the area registered does not differ from the known area by more than 0.006 square metres or 1.5 per cent of the known area, whichever is greater, and, in the case of a machine measuring in Canadian units of measurement, 1/16 square foot or 1.5 per cent of the known area, whichever is greater.
-> SOR/89-570, s. 6(F).
+**224** When a machine is tested in relation to a relevant local standard for either acceptance limits of error or in-service limits of error by measurement of a known area on a surface that is representative of the kind of material for which the machine is designed, the machine is within both the acceptance limit of error and the in-service limit of error in respect of that area and that kind of material if the area registered does not differ from the known area by more than 0.006 square metres or 1.5 per cent of the known area, whichever is greater, and, in the case of a machine measuring in Canadian units of measurement, 1/16 square foot or 1.5 per cent of the known area, whichever is greater.
+> SOR/89-570, s. 6(F); SOR/2017-17, s. 15.
 
 
 
@@ -5118,10 +5121,10 @@ the acceptance and in-service limits of error are 1.5 times the limits of error 
 </table>
 
 
-- **(4)** The acceptance and in-service limits of error set out in the tables to subsections (2) and (3) apply to known test quantities equal to or greater than that delivered by the meter in one minute at the maximum operating rate.
+- **(4)** The acceptance limits of error and in-service limits of error set out in the tables to subsections (2) and (3) apply to known test quantities equal to or greater than that delivered by the meter in one minute at the maximum operating rate.
 
 - **(5)** The acceptance limits of error set out in Column II of the tables to subsections (2) and (3) apply only to tests made under controlled conditions such as bench tests and, for tests for acceptance limits of error under other conditions, the limits of error set out in Column III of those tables shall apply.
-> SOR/89-570, s. 6(F).
+> SOR/89-570, s. 6(F); SOR/2017-17, s. 16.
 
 
 
@@ -5178,10 +5181,10 @@ the acceptance and in-service limits of error are 1.5 times the limits of error 
 </table>
 
 
-- **(4)** The acceptance and in-service limits of error set out in the tables to subsections (2) and (3) apply to known test quantities equal to or greater than quantities delivered by the meter in one minute at maximum operating rate.
+- **(4)** The acceptance limits of error and in-service limits of error set out in the tables to subsections (2) and (3) apply to known test quantities equal to or greater than that delivered by the meter in one minute at maximum operating rate.
 
 - **(5)** The acceptance limits of error set out in Column II of the tables to subsections (2) and (3) apply only to tests under controlled conditions such as bench tests, and for tests for acceptance limits of error under other conditions, the limits of error set out in Column III of those tables shall apply.
-> SOR/89-570, s. 6(F).
+> SOR/89-570, s. 6(F); SOR/2017-17, s. 17.
 
 
 
@@ -7038,11 +7041,13 @@ if, in the preceding year, total retail sales of gasoline and diesel fuel of tha
 
 - **(6)** A payment referred to in any of subsections (1) to (5) is to be made in one of the following manners, as set out in the applicable notice:
 	- **(a)** by means of a certified cheque or money order made payable to the Receiver General for Canada and submitted to a Measurement Canada office
-		- **(i)** by regular mail,
+		- **(i)** [Repealed, SOR/2017-17, s. 18]
 		- **(ii)** by registered mail, or
 		- **(iii)** by courier; or
 	- **(b)** by electronic means.
-> SOR/2014-112, s. 1.
+
+- **(7)** The date of payment is the day on which it is sent.
+> SOR/2014-112, s. 1; SOR/2017-17, s. 18.
 
 
 
@@ -7053,22 +7058,19 @@ if, in the preceding year, total retail sales of gasoline and diesel fuel of tha
 
 **352** 
 
-- **(1)** A request under paragraph 22.12(2)(a) or (b) of the Act shall, within 30 days after the day on which the person is provided with the notice of violation, be submitted in writing to a Measurement Canada office in one of the following manners, as set out in the notice:
-	- **(a)** in person;
-	- **(b)** by registered mail or courier; or
-	- **(c)** by electronic means.
-
-- **(2)** The request shall set out
-	- **(a)** the notice of violation number;
+- **(1)** A request under paragraph 22.12(2)(a) or (b) of the Act shall be made, as set out in the notice, by submitting the following information in writing to a Measurement Canada office in person, by registered mail or courier or by electronic means within 30 days after the day on which the person is provided with the notice of violation:
+	- **(a)** the notice of violation number, as set out in the notice;
 	- **(b)** the person’s name, mailing address, email address, telephone number, facsimile number and contact person, if any;
 	- **(c)** an indication of whether the person prefers to communicate in English or French;
 	- **(d)** in the case of a request made under paragraph 22.12(2)(a) of the Act, a proposal detailing the corrective action that will be taken to ensure the person’s compliance with the provision to which the violation relates; and
 	- **(e)** in the case of a request made under paragraph 22.12(2)(b) of the Act, the person’s reasons for requesting the review.
 
+- **(2)** [Repealed, SOR/2017-17, s. 19]
+
 - **(3)** The date of the request is
 	- **(a)** the day on which it is submitted, if it is submitted in person; or
 	- **(b)** the day on which it is sent, if it is sent by registered mail, courier or electronic means.
-> SOR/2014-112, s. 1.
+> SOR/2014-112, s. 1; SOR/2017-17, s. 19.
 
 
 
