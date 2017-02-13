@@ -173,12 +173,14 @@ Enabling authorities:
 
 
 
-**A.01.042** Where an inspector examines or takes a sample of a food or drug pursuant to section A.01.041, he may submit the food or drug or sample to an analyst for analysis or examination.
+**A.01.042** If an inspector examines or takes a sample of a food or drug under section A.01.041, the inspector may submit it to an analyst for analysis or examination.
+> SOR/2017-18, s. 1(E).
 
 
 
-**A.01.043** Where an inspector, upon examination of a food or drug or sample thereof or on receipt of a report of an analyst of the result of an analysis or examination of the food or drug or sample, is of the opinion that the sale of the food or drug in Canada would constitute a violation of the Act or these Regulations, the inspector shall so notify in writing the collector of customs concerned and the importer. 
-> SOR/84-300, s. 2(E).
+
+**A.01.043** If an inspector, on examination of a sample of a food or drug or on receipt of a report of an analyst of the result of an analysis or examination of the sample, is of the opinion that the sale of the food or drug in Canada would constitute a violation of the Act or these Regulations, the inspector shall so notify in writing the collector of customs concerned and the importer.
+> SOR/84-300, s. 2(E); SOR/2017-18, s. 2.
 
 
 
@@ -10775,7 +10777,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
 - **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/91-409, s. 1.
+> SOR/79-752, s. 2; SOR/91-409, s. 1; SOR/2017-18, s. 18(F).
 
 
 
@@ -10820,7 +10822,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
 - **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/91-409, s. 2; SOR/92-400, s. 5; SOR/2010-94, s. 4(E); SOR/2011-278, s. 4.
+> SOR/79-752, s. 2; SOR/91-409, s. 2; SOR/92-400, s. 5; SOR/2010-94, s. 4(E); SOR/2011-278, s. 4; SOR/2017-18, s. 18(F).
 
 
 
@@ -10858,7 +10860,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
 - **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/91-409, s. 3; SOR/92-400, s. 6; SOR/2007-302, s. 4(F).
+> SOR/79-752, s. 2; SOR/91-409, s. 3; SOR/92-400, s. 6; SOR/2007-302, s. 4(F); SOR/2017-18, s. 18(F).
 
 
 
@@ -10900,7 +10902,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
 - **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/91-409, s. 4; SOR/92-400, s. 7; SOR/2007-302, s. 4(F); SOR/2011-278, s. 5.
+> SOR/79-752, s. 2; SOR/91-409, s. 4; SOR/92-400, s. 7; SOR/2007-302, s. 4(F); SOR/2011-278, s. 5; SOR/2017-18, s. 18(F).
 
 
 
@@ -10938,7 +10940,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
 - **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/82-1071, s. 4; SOR/91-409, s. 5; SOR/2007-302, s. 4(F).
+> SOR/79-752, s. 2; SOR/82-1071, s. 4; SOR/91-409, s. 5; SOR/2007-302, s. 4(F); SOR/2017-18, s. 18(F).
 
 
 
@@ -10980,7 +10982,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
 - **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/82-1071, s. 5; SOR/91-409, s. 6; SOR/2007-302, s. 4(F); SOR/2011-278, s. 6.
+> SOR/79-752, s. 2; SOR/82-1071, s. 5; SOR/91-409, s. 6; SOR/2007-302, s. 4(F); SOR/2011-278, s. 6; SOR/2017-18, s. 18(F).
 
 
 
@@ -11015,7 +11017,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
 - **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/92-400, s. 8.
+> SOR/79-752, s. 2; SOR/92-400, s. 8; SOR/2017-18, s. 18(F).
 
 
 
@@ -11054,7 +11056,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
 - **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/92-400, s. 9; SOR/2010-94, s. 5(E); SOR/2011-278, s. 7.
+> SOR/79-752, s. 2; SOR/92-400, s. 9; SOR/2010-94, s. 5(E); SOR/2011-278, s. 7; SOR/2017-18, s. 18(F).
 
 
 
@@ -11089,7 +11091,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
 - **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/2007-302, s. 4(F).
+> SOR/79-752, s. 2; SOR/2007-302, s. 4(F); SOR/2017-18, s. 18(F).
 
 
 
@@ -11128,7 +11130,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
 - **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/2007-302, s. 4(F); SOR/2011-278, s. 8.
+> SOR/79-752, s. 2; SOR/2007-302, s. 4(F); SOR/2011-278, s. 8; SOR/2017-18, s. 18(F).
 
 
 
@@ -13092,7 +13094,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 - **(b)** where sold for use in prepared meat or meat by-product in which a gelling agent is a permitted ingredient, may contain a gelling agent;
 - **(c)** where sold for use in fresh, uncooked sausage, may contain artificial maple flavour; and
 - **(d)** may contain an anticaking agent.
-> SOR/80-13, s. 1; SOR/82-913, s. 1; SOR/86-875, s. 2(F); SOR/2010-143, s. 9.
+> SOR/80-13, s. 1; SOR/82-913, s. 1; SOR/86-875, s. 2(F); SOR/2010-143, s. 9; SOR/2017-18, s. 3(F).
 
 
 
@@ -13115,7 +13117,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 - **(i)** in the case of pumping pickle
 	- **(i)** for cured pork hams, shoulders and backs, artificial maple flavour, and
 	- **(ii)** for cured pork bellies, artificial maple flavour and an orange flavour that meets the standard prescribed in section B.10.005.
-> SOR/79-251, s. 4; SOR/80-13, s. 2; SOR/82-596, s. 1; SOR/88-336, s. 3; SOR/94-567, s. 1; SOR/2010-143, s. 10(F).
+> SOR/79-251, s. 4; SOR/80-13, s. 2; SOR/82-596, s. 1; SOR/88-336, s. 3; SOR/94-567, s. 1; SOR/2010-143, s. 10(F); SOR/2017-18, s. 4(F).
 
 
 
@@ -13290,7 +13292,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 - **(h)** in the case of cured pork, beef and lamb cuts prepared with the aid of pumping pickle, disodium phosphate, monosodium phosphate, sodium hexametaphosphate, sodium tripolyphosphate, tetrasodium pyrophosphate and sodium acid pyrophosphate in such amount calculated as disodium phosphate, as will result in the finished product containing not more than 0.5 per cent added phosphate;
 - **(i)** in the case of tocino, annatto in such amount as will result in the finished product containing not more than 0.1% annatto; and
 - **(j)** in the case of vacuum-packed sliced cooked ham, *Carnobacterium maltaromaticum* CB1.
-> SOR/79-251, s. 6; SOR/80-13, s. 4; SOR/82-596, s. 2; SOR/84-300, s. 45(E); SOR/88-336, ss. 2, 3; SOR/92-725, s. 3; SOR/97-151, s. 24; SOR/2010-264, s. 2; SOR/2011-280, s. 2; SOR/2016-305, s. 57.
+> SOR/79-251, s. 6; SOR/80-13, s. 4; SOR/82-596, s. 2; SOR/84-300, s. 45(E); SOR/88-336, ss. 2, 3; SOR/92-725, s. 3; SOR/97-151, s. 24; SOR/2010-264, s. 2; SOR/2011-280, s. 2; SOR/2016-305, s. 57; SOR/2017-18, s. 5(F).
 
 
 
@@ -13353,7 +13355,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 
 
 **B.14.033** **[S]. Potted Meat, Meat Paste** or **Meat Spread** shall be fresh or preserved meat that is comminuted and cooked, and may contain meat binder, salt, sweetening agents, spices, other seasonings, a gelling agent, sodium acetate and sodium diacetate and shall have a total protein content of not less than 9%.
-> SOR/80-13, s. 6; SOR/2011-280, s. 4.
+> SOR/80-13, s. 6; SOR/2011-280, s. 4; SOR/2017-18, s. 19(F).
 
 
 
@@ -13367,7 +13369,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 
 
 **B.14.035** **[S]. Meat Loaf, Meat Roll, Meat Lunch** or **Luncheon Meat** shall be fresh or preserved meat that is comminuted, cooked and pressed into shape, and may contain a dried skim milk product obtained from skim milk by the reduction of its calcium content and a corresponding increase in its sodium content, in an amount not exceeding 3% of the finished food, as well as filler, meat binder, salt, sweetening agents, glucono delta lactone, spices, other seasonings, milk, eggs, a gelling agent, sodium acetate, sodium diacetate and partially defatted beef fatty tissue or partially defatted pork fatty tissue, and shall have a total protein content of not less than 11%.
-> SOR/80-13, s. 8; SOR/2011-280, s. 5.
+> SOR/80-13, s. 8; SOR/2011-280, s. 5; SOR/2017-18, s. 19(F).
 
 
 
@@ -13389,7 +13391,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 		- **(ii)** a Class II preservative.
 
 - **(2)** For the purpose of subsection (1), scalps and snouts are considered to be head meat.
-> SOR/80-500, s. 5; SOR/2011-280, s. 6.
+> SOR/80-500, s. 5; SOR/2011-280, s. 6; SOR/2017-18, s. 19(F).
 
 
 
@@ -22426,7 +22428,7 @@ and shall have
 	- **(ii)** a mixture of sodium hexametaphosphate and sodium carbonate;
 - **(b)** if frozen, have a glaze consisting of water, acetylated monoglycerides, calcium chloride, sodium alginate, sodium carboxymethyl cellulose, sodium phosphate (dibasic), corn syrup, dextrose, glucose, glucose solids, ascorbic acid or its sodium salt or erythorbic acid or its sodium salt; and
 - **(c)** if frozen minced, contain sodium tripolyphosphate, sodium hexametaphosphate, ascorbic acid or its sodium salt, citric acid, erythorbic acid or its sodium salt, or a combination of sodium tripolyphosphate, sodium acid pyrophosphate and sodium pyrophosphate tetrabasic.
-> SOR/84-300, s. 53; SOR/88-534, s. 7; SOR/91-149, s. 4; SOR/97-562, s. 2; SOR/2000-353, s. 9(F).
+> SOR/84-300, s. 53; SOR/88-534, s. 7; SOR/91-149, s. 4; SOR/97-562, s. 2; SOR/2000-353, s. 9(F); SOR/2017-18, s. 6(F).
 
 
 
@@ -22443,10 +22445,12 @@ and shall have
 	- **(i)** sorbic acid or its salts in dried fish that has been smoked or salted, and in cold processed smoked and salted fish paste, and
 	- **(ii)** benzoic acid or its salts, methyl-p-hydroxy benzoate and propyl-p-hydroxy benzoate in marinated or similar cold-processed, packaged fish and meat products; and
 - **(c)** food colour except as provided for in this Division.
+> SOR/2017-18, ss. 7(F), 20(F).
 
 
 
-**B.21.006** **[S].** Prepared fish or prepared meat shall be the whole or comminuted food prepared from fresh or preserved fish or meat respectively, may be canned or cooked, and may,
+
+**B.21.006** Prepared fish or prepared meat shall be the whole or minced food prepared from fresh or preserved fish or meat respectively, may be canned or cooked, and may,
 - **(a)** in the case of lobster paste and fish roe (caviar), contain food colour;
 - **(b)** in the case of canned shellfish, canned spring mackerel and frozen cooked shrimp, contain citric acid or lemon juice;
 - **(c)** in the case of fish paste, contain filler, fish binder, monoglycerides or mono and diglycerides;
@@ -22465,14 +22469,16 @@ and shall have
 - **(p)** in the case of frozen crustaceans and molluscs, contain calcium oxide and sodium hydroxide;
 - **(q)** in the case of frozen pre-cooked battered or breaded fish products, contain citric acid at a level of use not exceeding 0.1 per cent;
 - **(r)** in the case of canned clams, contain sodium erythorbate at a level of use not exceeding 350 parts per million;
-- **(s)** in the case of comminuted products, other than lumpfish caviar, contain tragacanth gum at a level of use not exceeding 0.75 per cent; and
+- **(s)** in the case of minced products, other than lumpfish caviar, contain tragacanth gum at a level of use not exceeding 0.75 per cent; and
 - **(t)** contain a Class II preservative.
-> SOR/80-13, s. 9; SOR/81-60, s. 12; SOR/84-602, s. 4; SOR/86-1020, s. 2; SOR/89-197, s. 2; SOR/92-344, s. 6; SOR/93-276, s. 13; SOR/94-141, s. 2; SOR/94-567, s. 3; SOR/94-689, s. 2(E); SOR/97-151, s. 27; SOR/97-562, s. 3; SOR/2005-316, s. 12; SOR/2007-76, s. 4; SOR/2011-280, s. 9; SOR/2012-43, s. 46.
+> SOR/80-13, s. 9; SOR/81-60, s. 12; SOR/84-602, s. 4; SOR/86-1020, s. 2; SOR/89-197, s. 2; SOR/92-344, s. 6; SOR/93-276, s. 13; SOR/94-141, s. 2; SOR/94-567, s. 3; SOR/94-689, s. 2(E); SOR/97-151, s. 27; SOR/97-562, s. 3; SOR/2005-316, s. 12; SOR/2007-76, s. 4; SOR/2011-280, s. 9; SOR/2012-43, s. 46; SOR/2017-18, ss. 8, 9(F), 17.
 
 
 
 
 **B.21.007** **[S]. Fish binder** for use in or upon prepared fish or prepared meat shall be filler with any combination of salt, sugar, dextrose, glucose, spices and other seasonings.
+> SOR/2017-18, s. 10(F).
+
 
 
 
@@ -22493,7 +22499,7 @@ and shall have
 **B.21.020** No person shall sell prepared fish or prepared meat that contains more than
 - **(a)** that amount of filler, fish binder or other ingredients that is represented by four per cent reducing sugars, calculated as dextrose, as determined by official method FO-32, Determination of Fillers, Binders and Dextrose Equivalent, October 15, 1981; and
 - **(b)** 70 per cent moisture where such prepared fish contains filler.
-> SOR/82-768, s. 63.
+> SOR/82-768, s. 63; SOR/2017-18, s. 20(F).
 
 
 
@@ -22503,8 +22509,8 @@ and shall have
 - **(b)** smoked fish may contain food colour;
 - **(c)** packaged fish and meat products that are marinated or otherwise cold-processed may contain saunderswood (sandalwood), benzoic acid or its salts, methyl-p-hydroxy benzoate and propyl-p-hydroxy benzoate;
 - **(d)** salted anchovy, salted scad and salted shrimp may contain erythrosine in such amount as will result in the finished product containing not more than 125 parts per million of erythrosine; and
-- **(e)** comminuted products may contain tragacanth gum at a level of use not exceeding 0.75 per cent.
-> SOR/95-493, s. 2; SOR/97-562, s. 4(F); SOR/2007-76, s. 5; SOR/2011-280, s. 10.
+- **(e)** minced products may contain tragacanth gum at a level of use not exceeding 0.75 per cent.
+> SOR/95-493, s. 2; SOR/97-562, s. 4(F); SOR/2007-76, s. 5; SOR/2011-280, s. 10; SOR/2017-18, ss. 11(F), 17, 20(F).
 
 
 
@@ -22717,7 +22723,7 @@ and shall have
 - **(d)** vinegar;
 - **(e)** in the case of cured poultry or poultry meat prepared by means of injection or cover solution, disodium phosphate, monosodium phosphate, sodium hexametaphosphate, sodium tripolyphosphate, tetrasodium pyrophosphate and sodium acid pyrophosphate, in such amount calculated as disodium phosphate, as will result in the finished product containing not more than 0.5 per cent added phosphate; and
 - **(f)** in the case of vacuum-packed sliced cooked turkey, *Carnobacterium maltaromaticum* CB1.
-> SOR/80-13, s. 13; SOR/82-596, s. 10; SOR/94-567, s. 5; SOR/2010-264, s. 6; SOR/2011-280, s. 12.
+> SOR/80-13, s. 13; SOR/82-596, s. 10; SOR/94-567, s. 5; SOR/2010-264, s. 6; SOR/2011-280, s. 12; SOR/2017-18, s. 12(F).
 
 
 
@@ -25781,12 +25787,14 @@ and only the L forms of the amino acids have been added.
 
 
 
-**C.01.009** Where by any statute of the Parliament of Canada or any regulation made thereunder a standard or grade is prescribed for a drug and that standard is given a name or designation by such statute or regulation, no person shall on a label of or in any advertisement for that drug use that name or designation unless the drug conforms with the standard or grade.
+**C.01.009** If any Act of Parliament or any of its regulations prescribes a standard or grade for a drug and that standard or grade is given a name or designation in the Act or regulation, no person shall, on a label of or in any advertisement for that drug, use that name or designation unless the drug conforms with the standard or grade.
+> SOR/2017-18, s. 13.
+
 
 
 
 **C.01.010** If it is necessary to provide adequate directions for the safe use of a parenteral drug or prescription drug that is used in the treatment or prevention of any disease, disorder or abnormal physical state mentioned in Schedule A to the Act, the disease, disorder or abnormal physical state may be mentioned on the drug’s labels, including any package insert and any document that is provided on request and that sets out supplementary information on the use of the drug, and, in that respect, the drug is exempt from subsections 3(1) and (2) of the Act.
-> SOR/2013-122, s. 6; SOR/2014-158, s. 6.
+> SOR/2013-122, s. 6; SOR/2014-158, s. 6; SOR/2017-18, s. 21(F).
 
 
 
@@ -26018,10 +26026,10 @@ he may refuse to issue the document referred to in subsection (1).
 
 - **(2)** The report shall contain a concise, critical analysis of the adverse drug reactions and serious adverse drug reactions to the drug, as well as case reports of all or specified adverse drug reactions and serious adverse drug reactions to the drug that are known to the manufacturer in respect of the issue that the Minister directs the manufacturer to analyze in the report.
 
-- **(3)** The Minister shall, after giving the manufacturer an opportunity to be heard, specify a period for the submission of the report that is reasonable in the circumstances. The Minister may specify a period that is shorter than 30 days if the Minister needs the information in the report to determine whether the drug poses a serious and imminent risk to human health.
+- **(3)** The Minister shall, after giving the manufacturer an opportunity to be heard, specify a period for the submission of the report that is reasonable in the circumstances. The Minister may only specify a period that is less than 30 days if the Minister needs the information in the report to determine whether the drug poses a serious and imminent risk to human health.
 
 - **(4)** The manufacturer shall submit the report within the specified period.
-> SOR/2011-31, s. 1.
+> SOR/2011-31, s. 1; SOR/2017-18, s. 14.
 
 
 
@@ -27149,7 +27157,7 @@ ZINC OXIDE (C.I. No. 77947);
 	- **(ii)** to monitor a disease, disorder or abnormal physical state, or its symptoms, in respect of which the drug is recommended for use, or to monitor the use of the drug;
 - **(b)** the level of uncertainty respecting the drug, its use or its effects justifies supervision by a practitioner; or
 - **(c)** use of the drug can cause harm to human or animal health or a risk to public health and the harm or the risk can be mitigated by a practitioner’s supervision.
-> SOR/2013-122, s. 10.
+> SOR/2013-122, s. 10; SOR/2017-18, s. 21(F).
 
 
 
@@ -28283,9 +28291,9 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 
 **C.01A.013** Every person who holds an establishment licence shall notify the Minister in writing within 15 days after
-- **(a)** there is any change to the information referred to in any of paragraphs C.01A.005(a),(b),(e),(f),(h) and (i), and subparagraphs C.01A.005(g)(i) and (ii); or
+- **(a)** there is any change to the information referred to in any of paragraphs C.01A.005(a), (b), and (e) to (i); or
 - **(b)** an event occurs that results in their being in contravention of any of the applicable requirements of Divisions 2 to 4, where it may affect the quality, safety or efficacy of a drug fabricated, packaged/labelled, tested as required under Division 2 or stored by them.
-> SOR/97-12, s. 5.
+> SOR/97-12, s. 5; SOR/2017-18, s. 15.
 
 
 
@@ -31784,8 +31792,8 @@ and if unpurified anterior pituitary extract
 
 - **(2)** The sponsor shall, within eight days after having informed the Minister under paragraph (1)(b), submit to the Minister a complete report in respect of that information that includes an assessment of the importance and implication of any findings made.
 
-- **(3)** Sections C.01.016 and C.01.017 do not apply to drugs used for the purposes of a clinical trial. 
-> SOR/2001-203, s. 4.
+- **(3)** Sections C.01.016 to C.01.020 do not apply to drugs used for the purposes of a clinical trial.
+> SOR/2001-203, s. 4; SOR/2017-18, s. 16.
 
 
 
