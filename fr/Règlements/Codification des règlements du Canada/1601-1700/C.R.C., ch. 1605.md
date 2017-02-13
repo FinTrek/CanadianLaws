@@ -1454,10 +1454,12 @@ le commerçant doit, dans les cinq jours qui suivent la date d’installation, d
 
 
 **81** Les poids doivent être construits pour représenter
-- **a)** des multiples ou sous-multiples du kilogramme, du gramme ou du milligramme dont les valeurs sont égales à 1, 2 ou 5 × 10<sup>n</sup> unités, n’étant un nombre entier positif ou négatif, ou égal à zéro;
+- **a)** des multiples ou sous-multiples du kilogramme, du gramme ou du milligramme dont les valeurs sont égales à 1, 2 ou 5 × 10<sup>n</sup> unités, où « n » représente un nombre entier, positif, négatif ou égal à zéro;
 - **b)** des multiples ou sous-multiples décimaux de la livre ou de l’once troy;
 - **c)** des multiples ou sous-multiples binaires de la livre ou de l’once; ou
 - **d)** des multiples ou sous-multiples décimaux du grain.
+> DORS/2017-17, art. 1.
+
 
 
 
@@ -2972,18 +2974,20 @@ le commerçant doit, dans les cinq jours qui suivent la date d’installation, d
 
 **150** Les définitions qui suivent s’appliquent à la présente section.
 
-***appareil*** Appareil de pesage à fonctionnement automatique qui est destiné à être utilisé dans le commerce et qui effectue des pesées sans l’intervention d’un opérateur et selon un programme prédéterminé de processus automatiques qui sont propres à l’appareil. (*machine*)
+***appareil*** Appareil de pesage à fonctionnement automatique qui est destiné à être utilisé dans le commerce et qui effectue des pesées sans l’intervention d’un opérateur et selon un programme prédéterminé de processus automatiques qui sont propres à l’appareil. (*machine*)
 
-***appareil de pesage totalisateur en continu*** Appareil utilisé pour le pesage en continu d’un produit en vrac sur une bande transporteuse, sans subdivision systématique de la masse et sans interruption du mouvement de la bande. (*continuous totalizing weighing machine*)
+***appareil calculateur électronique*** Appareil électronique qui calcule la valeur monétaire correspondant au produit de l’indication pondérale par le prix à l’unité. (*electronic computing machine*)
 
-***appareil électronique*** Appareil destiné à être utilisé dans le commerce, fonctionnant avec des composants électroniques et muni d’un dispositif indicateur numérique. Ne sont pas visés les appareils de pesage totalisateurs en continu. (*electronic machine*)
+***appareil de pesage totalisateur en continu*** Appareil utilisé pour le pesage en continu d’un produit en vrac sur une bande transporteuse, sans subdivision systématique de la masse et sans interruption du mouvement de la bande. (*continuous totalizing weighing machine*)
 
-***charge connue*** désigne une charge composée d’étalons locaux ou toute autre charge dont le poids a été déterminé d’après des étalons locaux. (*known test load*)
+***appareil électronique*** Appareil fonctionnant avec des composants électroniques et muni d’un dispositif indicateur numérique. Ne sont pas visés les appareils de pesage totalisateurs en continu. (*electronic machine*)
 
-***enregistrement*** désigne toute indication visuelle ou imprimée représentant une quantité, un prix à l’unité ou une valeur monétaire. (*registration*) 
+***charge connue*** désigne une charge composée d’étalons locaux ou toute autre charge dont le poids a été déterminé d’après des étalons locaux. (*known test load*)
 
-***fonction tare*** S’entend du processus, du mécanisme ou de la caractéristique permettant à un appareil d’utiliser la tare. (*tare function*)
-> DORS/90-118, art. 20; DORS/98-115, art. 12; DORS/2005-130, art. 8; DORS/2012-28, art. 4.
+***enregistrement*** désigne toute indication visuelle ou imprimée représentant une quantité, un prix à l’unité ou une valeur monétaire. (*registration*) 
+
+***fonction tare*** S’entend du processus, du mécanisme ou de la caractéristique permettant à un appareil d’utiliser la tare. (*tare function*)
+> DORS/90-118, art. 20; DORS/98-115, art. 12; DORS/2005-130, art. 8; DORS/2012-28, art. 4; DORS/2017-17, art. 2.
 
 
 
@@ -3005,41 +3009,41 @@ le commerçant doit, dans les cinq jours qui suivent la date d’installation, d
 **152** 
 
 - **(1)** Un appareil électronique doit être muni d’un détecteur automatique de mouvement empêchant l’enregistrement des valeurs pondérales, tant que l’indication pondérale n’est pas stabilisée à :
-	- **a)** plus ou moins une fois la valeur du plus petit échelon du dispositif enregistreur, dans le cas d’un appareil électronique d’une portée de 2 000 kg ou moins;
-	- **b)** plus ou moins trois fois la valeur du plus petit échelon du dispositif enregistreur, dans le cas d’un appareil électronique d’une portée de plus de 2 000 kg.
+	- **a)** plus ou moins une fois la valeur du plus petit échelon d’enregistrement de l’appareil, dans le cas d’un appareil électronique d’une portée de 2 000 kg ou moins;
+	- **b)** plus ou moins trois fois la valeur du plus petit échelon d’enregistrement de l’appareil, dans le cas d’un appareil électronique d’une portée de plus de 2 000 kg.
 
-- **(2)** Tout appareil calculateur électronique doit être muni d’un détecteur automatique de mouvement empêchant l’enregistrement des valeurs pondérales tant que l’indication pondérale n’est pas stabilisée à plus ou moins une fois la valeur du plus petit échelon du dispositif enregistreur.
+- **(2)** Tout appareil calculateur électronique doit être muni d’un détecteur automatique de mouvement empêchant l’enregistrement des valeurs pondérales tant que l’indication pondérale n’est pas stabilisée à plus ou moins une fois la valeur du plus petit échelon d’enregistrement de l’appareil.
 
 - **(3)** L’indication pondérale d’un appareil électronique doit être stable, conformément aux paragraphes (1) et (2), au moins 0,4 seconde avant l’enregistrement d’une valeur pondérale.
 
 - **(4)** Les circuits du dispositif de mise à zéro et du dispositif de maintien du zéro d’un appareil électronique doivent être synchronisés avec le détecteur de mouvement afin d’empêcher le fonctionnement de ces dispositifs lorsqu’un mouvement est détecté.
-> DORS/2012-28, art. 5.
+> DORS/2012-28, art. 5; DORS/2017-17, art. 20(F).
 
 
 
 
-**153** L’enregistrement de la valeur monétaire déterminée par un appareil calculateur électronique doit correspondre au produit de la valeur pondérale par le prix à l’unité arrondi au cent près, de la façon suivante :
+**153** L’enregistrement de la valeur monétaire calculée par un appareil calculateur électronique est arrondi au cent près de la façon suivante :
 - **a)** lorsque le chiffre suivant la seconde décimale est inférieur à 5, la seconde décimale demeure inchangée;
 - **b)** lorsque le chiffre suivant la seconde décimale est supérieur à 5, ou est 5 suivi d’un ou plusieurs chiffres différents de zéro, la seconde décimale est augmentée d’une unité;
 - **c)** lorsque le chiffre suivant la seconde décimale est 5 et qu’il n’est pas suivi d’autres chiffres, ou qu’il est suivi d’un ou de plusieurs zéros, la seconde décimale demeure inchangée si elle est paire et est augmentée d’une unité si elle est impaire.
-> DORS/2012-28, art. 5.
+> DORS/2012-28, art. 5; DORS/2017-17, art. 3.
 
 
 
 
 **154** 
 
-- **(1)** La fonction tare d’un appareil électronique est utilisée uniquement en mode négatif par rapport à zéro.
+- **(1)** La fonction tare d’un appareil électronique fonctionne uniquement en mode négatif par rapport à zéro.
 
 - **(2)** Le mécanisme de commande de la fonction tare d’un appareil électronique doit être marqué du mot « TARE », des lettres « TR » ou de mots ou lettres véhiculant le même sens.
 
 - **(3)** Un appareil électronique peut être muni d’une tare dont la valeur égale à sa portée totale, toutefois, le poids brut ne doit pas excéder la portée nominale de cet appareil, selon les limites prévues à l’article 170.
 
-- **(4)** La valeur du plus petit échelon de la tare d’un appareil électronique doit être égale à celle du plus petit échelon du dispositif enregistreur.
+- **(4)** La valeur du plus petit échelon de la tare d’un appareil électronique doit être égale à celle du plus petit échelon d’enregistrement de l’appareil.
 
 - **(5)** L’entrée en mémoire de la tare dans un appareil électronique doit empêcher l’utilisation de tout dispositif de conversion d’unités de mesure (par exemple l’interrupteur livre/kg), à moins que ce dispositif ne convertisse toutes les valeurs pondérales d’enregistrement lorsqu’il est activé.
 
-- **(6)** La fonction tare d’un appareil calculateur électronique doit s’annuler automatiquement de sorte que, lorsqu’un poids net est ajouté à la tare, le total est calculé et lorsque le poids brut est enlevé de l’appareil, l’affichage du poids revient à zéro conformément à l’article 183, à moins que l’appareil ne soit en mode préemballage.
+- **(6)** La fonction tare d’un appareil calculateur électronique doit s’annuler automatiquement de sorte que, lorsqu’un poids net est ajouté à la tare, le total est calculé et lorsque le poids brut est enlevé de l’appareil, l’indication pondérale revient à zéro conformément à l’article 183, à moins que l’appareil ne soit en mode préemballage.
 
 - **(7)** La tare d’un appareil calculateur électronique ne doit s’effacer automatiquement de la mémoire de l’appareil que lorsque l’opération de pesage est terminée; l’entrée d’un autre prix par unité de poids, l’emploi d’un dispositif d’annulation ou de toute autre séquence d’entrée, ne doit pas influer sur la tare.
 
@@ -3052,7 +3056,7 @@ le commerçant doit, dans les cinq jours qui suivent la date d’installation, d
 - **(11)** Lorsqu’un appareil électronique, autre qu’un appareil calculateur électronique, n’indique qu’une seule valeur pondérale à la fois, une indication visuelle confirmant l’utilisation de la fonction tare doit paraître sur l’affichage du poids ou à proximité de celui-ci.
 
 - **(12)** Lorsqu’un appareil électronique, autre qu’un appareil calculateur électronique, peut enregistrer le poids brut, le poids net ou la tare, ces valeurs pondérales doivent être identifiées clairement.
-> DORS/2012-28, art. 5.
+> DORS/2012-28, art. 5; DORS/2017-17, art. 4(F) et 20(F).
 
 
 
@@ -3075,8 +3079,8 @@ le commerçant doit, dans les cinq jours qui suivent la date d’installation, d
 
 - **(2)** La plage totale du dispositif de maintien du zéro d’un appareil électronique ne doit pas excéder 4 pour cent de la portée nominale de l’appareil.
 
-- **(3)** Le dispositif de maintien du zéro d’un appareil électronique ne doit pas être commandé par l’opérateur et la valeur pondérale maximale corrigée en une fois par le dispositif ne peut dépasser 0,6 fois la valeur du plus petit échelon du dispositif enregistreur.
-> DORS/2012-28, art. 6.
+- **(3)** Le dispositif de maintien du zéro d’un appareil électronique ne doit pas être commandé par l’opérateur et la valeur pondérale maximale corrigée en une fois par le dispositif ne peut dépasser 0,6 fois la valeur du plus petit échelon d’enregistrement de l’appareil.
+> DORS/2012-28, art. 6; DORS/2017-17, art. 20(F).
 
 
 
@@ -3121,36 +3125,36 @@ le commerçant doit, dans les cinq jours qui suivent la date d’installation, d
 
 **170** 
 
-- **(1)** Un appareil électronique, autre qu’un appareil calculateur électronique, ne doit enregistrer ni imprimer de valeur lorsque la charge excède la portée nominale de l’appareil de plus de 105 pour cent.
+- **(1)** Un appareil électronique, autre qu’un appareil calculateur électronique, ne doit ni enregistrer ni imprimer de valeur lorsque la charge excède 105 pour cent de la portée nominale de l’appareil.
 
-- **(2)** Un appareil calculateur électronique ne doit enregistrer ni imprimer de valeur lorsque la charge excède la portée nominale de l’appareil de plus de dix fois la valeur du plus petit échelon du dispositif enregistreur.
-> DORS/2012-28, art. 7.
+- **(2)** Un appareil calculateur électronique ne doit enregistrer ni imprimer de valeur lorsque la charge excède la portée nominale de l’appareil de plus de dix fois la valeur du plus petit échelon d’enregistrement de l’appareil.
+> DORS/2012-28, art. 7; DORS/2017-17, art. 5(F) et 20(F).
 
 
 
 
 **171** L’appareil comportant un dispositif indicateur numérique électronique doit être capable d’indiquer visuellement qu’il a été ramené à la charge zéro, dans la limite du plus grand des écarts suivants :
-- **a)** ¼ de la valeur du plus petit échelon du dispositif indicateur;
+- **a)** ¼ de la valeur du plus petit échelon d’enregistrement de l’appareil;
 - **b)** 0,01 pour cent de la portée de l’appareil.
-> DORS/90-118, art. 21.
+> DORS/90-118, art. 21; DORS/2017-17, art. 20(F).
 
 
 
 
 **172** 
 
-- **(1)** La valeur du plus petit échelon du dispositif enregistreur d’un appareil ne peut dépasser 10 kg ou 20 livres, à moins que la portée de l’appareil ne soit supérieure à 100 000 kg ou à 200 000 livres, auquel cas la valeur du plus petit échelon ne peut dépasser 20 kg ou 50 livres.
+- **(1)** Sous réserve des paragraphes (2) à (6), la valeur du plus petit échelon d’enregistrement d’un appareil ne peut dépasser 10 kg, si l’appareil mesure en kilogrammes, ou 20 livres, si l’appareil mesure en livres, à moins que la portée de l’appareil ne soit supérieure à 100 000 kg ou à 200 000 livres, auquel cas la valeur du plus petit échelon d’enregistrement ne peut dépasser respectivement 20 kg ou 50 livres.
 
-- **(2)** La valeur du plus petit échelon du dispositif enregistreur d’une balance-réservoir conçue pour le pesage de l’alcool ou d’une bascule à trémie conçue pour peser le grain dans une installation terminale ou de transbordement ne peut dépasser :
+- **(2)** La valeur du plus petit échelon d’enregistrement d’une balance-réservoir conçue pour le pesage de l’alcool ou d’une bascule à trémie conçue pour peser le grain dans une installation terminale ou de transbordement ne peut dépasser :
 	- **a)** 5 kg ou 10 livres, si la portée de l’appareil est égale ou inférieure à 100 000 kg ou à 200 000 livres;
 	- **b)** 10 kg ou 20 livres, si la portée de l’appareil est supérieure à 100 000 kg ou à 200 000 livres sans dépasser 200 000 kg ou 400 000 livres;
 	- **c)** 20 kg ou 50 livres, si la portée de l’appareil est supérieure à 200 000 kg ou à 400 000 livres.
 
-- **(3)** La valeur du plus petit échelon du dispositif enregistreur d’un appareil de pesage totalisateur en continu ne peut dépasser 100 kg ou 200 livres.
+- **(3)** La valeur du plus petit échelon d’enregistrement d’un appareil de pesage totalisateur en continu ne peut dépasser 100 kg ou 200 livres.
 
-- **(4)** La valeur du plus petit échelon du dispositif enregistreur d’un appareil calculateur électronique ne peut dépasser 10 grammes ou 0,01 livre.
+- **(4)** La valeur du plus petit échelon d’enregistrement d’un appareil calculateur électronique ne peut dépasser 10 grammes ou 0,01 livre.
 
-- **(5)** La valeur maximale du plus petit échelon du dispositif enregistreur permise pour un appareil électronique, autre qu’un appareil calculateur électronique, est indiquée dans les tableaux suivants :
+- **(5)** La valeur maximale du plus petit échelon d’enregistrement permise pour un appareil électronique, autre qu’un appareil calculateur électronique, est indiquée dans les tableaux suivants :
 #### TABLEAU 1
 <table>
 <tr>
@@ -3306,7 +3310,7 @@ le commerçant doit, dans les cinq jours qui suivent la date d’installation, d
 </table>
 
 
-- **(6)** La valeur du plus petit échelon du dispositif enregistreur d’un appareil électronique autre qu’un appareil calculateur électronique ne peut, lors de sa conversion du système canadien d’unités au système international d’unités, dépasser la valeur convertie indiquée dans le tableau suivant :
+- **(6)** La valeur du plus petit échelon d’enregistrement d’un appareil électronique autre qu’un appareil calculateur électronique ne peut, lors de sa conversion du système canadien d’unités au système international d’unités, dépasser la valeur convertie indiquée dans le tableau suivant :
 #### TABLEAU
 <table>
 <tr>
@@ -3398,12 +3402,12 @@ le commerçant doit, dans les cinq jours qui suivent la date d’installation, d
 </table>
 
 
-- **(7)** La valeur du plus petit échelon du dispositif enregistreur d’un appareil électronique doit être égale au nombre de kilogrammes ou de livres calculé selon l’une des formules suivantes :
+- **(7)** La valeur du plus petit échelon d’enregistrement d’un appareil électronique doit être égale au nombre de kilogrammes ou de livres calculé selon l’une des formules suivantes :
 ```
 1 × 10<sup>n</sup>, 2 × 10<sup>n</sup> ou 5 × 10<sup>n</sup>,
 ```
 où « n » représente un nombre entier, positif, négatif ou égal à zéro.
-> DORS/90-118, art. 21; DORS/2012-28, art. 8.
+> DORS/90-118, art. 21; DORS/2012-28, art. 8; DORS/2017-17, art. 6.
 
 
 
@@ -3852,10 +3856,10 @@ où « n » représente un nombre entier, positif, négatif ou égal à zéro.
 
 - **(1)** Lorsqu’une charge demeure sur l’appareil électronique, la différence entre l’affichage obtenu au moment où la charge est appliquée et l’affichage obtenu huit heures plus tard ne doit pas excéder la marge de tolérance à l’acceptation permise pour la charge appliquée.
 
-- **(2)** La tolérance permise au retour à zéro, après l’enlèvement d’une charge qui est demeurée sur l’appareil électronique pendant une demi-heure, ne doit pas excéder la moitié de la valeur du plus petit échelon du dispositif enregistreur.
+- **(2)** La tolérance permise au retour à zéro, après l’enlèvement d’une charge qui est demeurée sur l’appareil électronique pendant une demi-heure, ne doit pas excéder la moitié de la valeur du plus petit échelon d’enregistrement de l’appareil.
 
-- **(3)** L’indication à zéro ou près de zéro d’un appareil électronique ne doit pas varier de plus de la valeur du plus petit échelon du dispositif enregistreur pour une différence de température ambiante de 5 °C.
-> DORS/2012-28, art. 9.
+- **(3)** L’indication pondérale à zéro ou près de zéro d’un appareil électronique ne doit pas varier de plus de la valeur du plus petit échelon d’enregistrement de l’appareil pour une différence de température ambiante de 5 °C.
+> DORS/2012-28, art. 9; DORS/2017-17, art. 7(F) et 20(F).
 
 
 
@@ -3868,37 +3872,36 @@ où « n » représente un nombre entier, positif, négatif ou égal à zéro.
 
 
 
-**181** Lorsqu’un appareil de type automatique ou semi-automatique est soumis à un essai qui consiste
-- **a)** à enlever une charge de contrôle connue dans le cas d’un appareil servant habituellement à mesurer à la suite d’une addition de charge, ou
-- **b)** à ajouter une charge de contrôle connue dans le cas d’un appareil servant habituellement à mesurer à la suite d’un retrait de charge,
-les marges de tolérance à l’acceptation et en service sont 1,5 fois celles indiquées dans les tableaux des articles 176 et 177 et des articles 188 et 192. 
-> DORS/89-570, art. 6(F).
+**181** La marge de tolérance à l’acceptation et la marge de tolérance en service sont 1,5 fois celles indiquées dans les tableaux des articles 176 et 177 et des articles 188 et 192 lorsqu’un appareil muni d’un dispositif indicateur à équilibre automatique ou semi-automatique est soumis à l’un des essais suivants :
+- **a)** l’enlèvement d’une charge de contrôle connue dans le cas d’un appareil servant habituellement à peser à la suite d’une addition de charge;
+- **b)** l’ajout une charge de contrôle connue dans le cas d’un appareil servant habituellement à peser à la suite d’un retrait de charge.
+> DORS/89-570, art. 6(F); DORS/2017-17, art. 8.
 
 
 
 
 **182** 
 
-- **(1)** Sous réserve des paragraphes (2) et (3) et des articles 188 et 192, lors de l’essai d’un appareil pour déterminer les marges de tolérance à l’acceptation et en service, la marge de tolérance minimum doit être équivalente à 0,05 pour cent de la portée de l’appareil ou la plus petite indication ou graduation, selon le chiffre moindre.
+- **(1)** Sous réserve des paragraphes (2) et (3) et des articles 188 et 192, lors de l’essai d’un appareil visant à déterminer la marge de tolérance à l’acceptation et la marge de tolérance en service, la marge de tolérance minimum doit être équivalente à 0,05 pour cent de la portée de l’appareil ou au plus petit échelon d’enregistrement de l’appareil, selon le moins élevé de ces chiffres.
 
-- **(2)** La marge de tolérance minimale applicable à un pont-bascule ferroviaire utilisé exclusivement pour peser les wagons est la plus élevée des valeurs suivantes : soit 15 kg ou 30 livres, soit la valeur du plus petit échelon du dispositif indicateur.
+- **(2)** La marge de tolérance minimale applicable à un pont-bascule ferroviaire utilisé exclusivement pour peser les wagons est la plus élevée des valeurs suivantes : soit 15 kg ou 30 livres, soit la valeur du plus petit échelon d’enregistrement de l’appareil.
 
-- **(3)** Pour l’essai d’un pont-bascule de grande portée en fonction de la charge maximale, il n’y aura pas de marge de tolérance minimum par rapport à la charge de contrôle connue qui est ajoutée à la charge maximale et la marge de tolérance pour un appareil à enregistrement numérique ne sera pas augmentée comme il est indiqué à l’article 184. 
-> DORS/89-570, art. 6(F); DORS/90-118, art. 23; DORS/93-234, art. 2(F).
+- **(3)** Pour l’essai d’un pont-bascule de grande portée en fonction de la charge maximale, il n’y aura pas de marge de tolérance minimum par rapport à la charge de contrôle connue qui est ajoutée à la charge maximale et la marge de tolérance pour un appareil à enregistrement numérique ne sera pas augmentée comme il est indiqué à l’article 184.
+> DORS/89-570, art. 6(F); DORS/90-118, art. 23; DORS/93-234, art. 2(F); DORS/2017-17, art. 9 et 20(F).
 
 
 
 
 **183** Le dispositif indicateur de tout appareil doit, après que la charge en a été enlevée, revenir immédiatement à l’indication zéro, dans la limite du plus grand des deux écarts suivants :
-- **a)** ¼ de la valeur du plus petit échelon du dispositif indicateur;
+- **a)** ¼ de la valeur du plus petit échelon d’enregistrement de l’appareil;
 - **b)** 0,01 pour cent de la portée de l’appareil.
-> DORS/90-118, art. 24.
+> DORS/90-118, art. 24; DORS/2017-17, art. 20(F).
 
 
 
 
-**184** Sous réserve du paragraphe 182(3), dans le cas d’un appareil à enregistrement numérique, les marges de tolérance à l’acceptation et en service qui s’appliquent aux enregistrements de l’appareil sont augmentées de la moitié de la plus petite indication numérique par rapport aux marges de tolérance prévues ailleurs. 
-> DORS/89-570, art. 6(F).
+**184** Sous réserve du paragraphe 182(3), dans le cas d’un appareil à enregistrement numérique, la marge de tolérance à l’acceptation et la marge de tolérance en service qui s’appliquent aux enregistrements de l’appareil sont augmentées de la moitié du plus petit échelon d’enregistrement de l’appareil par rapport aux marges de tolérance autrement prévues.
+> DORS/89-570, art. 6(F); DORS/2017-17, art. 10.
 
 
 
@@ -3926,9 +3929,9 @@ les marges de tolérance à l’acceptation et en service sont 1,5 fois celles i
 
 
 **188** Lorsqu’une bascule à trémie ou une balance-réservoir mentionnée au paragraphe 172(2) a une portée égale ou supérieure à 15 000 kg ou à 35 000 livres :
-- **a)** la marge de tolérance à l’acceptation qui s’y applique correspond à la plus élevée des valeurs suivantes : 0,05 pour cent de la charge connue ou la valeur du plus petit échelon du dispositif indicateur;
-- **b)** la marge de tolérance en service qui s’y applique correspond à la plus élevée des valeurs suivantes : 0,10 pour cent de la charge connue ou la valeur du plus petit échelon du dispositif indicateur. 
-> DORS/89-570, art. 6(F); DORS/90-118, art. 25.
+- **a)** la marge de tolérance à l’acceptation qui s’y applique correspond à la plus élevée des valeurs suivantes : 0,05 pour cent de la charge connue ou la valeur du plus petit échelon d’enregistrement de l’appareil;
+- **b)** la marge de tolérance en service qui s’y applique correspond à la plus élevée des valeurs suivantes : 0,10 pour cent de la charge connue ou la valeur du plus petit échelon d’enregistrement de l’appareil.
+> DORS/89-570, art. 6(F); DORS/90-118, art. 25; DORS/2017-17, art. 20(F).
 
 
 
@@ -3996,8 +3999,8 @@ les marges de tolérance à l’acceptation et en service sont 1,5 fois celles i
 
 
 
-**192** Lorsqu’une balance de grues est utilisée pour le pesage des marchandises en vue d’établir les frais d’expédition, les marges de tolérance à l’acceptation et en service sont de 0,5 pour cent de la charge de contrôle connue, mais pas moins de 0,125 pour cent de la portée de la balance. 
-> DORS/89-570, art. 6(F).
+**192** Lorsqu’une balance de grues est utilisée pour le pesage des marchandises en vue d’établir les frais de transport ou d’expédition, la marge de tolérance à l’acceptation et la marge de tolérance en service sont de 0,5 pour cent de la charge de contrôle connue mais pas moins de 0,125 pour cent de la portée de la balance.
+> DORS/89-570, art. 6(F); DORS/2017-17, art. 11.
 
 
 
@@ -4014,8 +4017,8 @@ les marges de tolérance à l’acceptation et en service sont 1,5 fois celles i
 
 
 
-**196** La mobilité d’un appareil comportant un dispositif indicateur à équilibre automatique ou semi-automatique de type analogique ou numérique doit être telle que, lors de la vérification du respect de la marge de tolérance à l’acceptation ou de la marge de tolérance en service de l’appareil, à n’importe quelle charge allant de zéro à la portée maximale, le fait d’ajouter à l’élément qui reçoit la charge, ou d’en enlever, un poids correspondant à 1,4 fois la valeur du plus petit échelon du dispositif provoque une variation de la valeur indiquée au moins égale à la valeur du plus petit échelon du dispositif indicateur. 
-> DORS/89-570, art. 6(F); DORS/90-118, art. 26.
+**196** La mobilité d’un appareil muni d’un dispositif indicateur à équilibre automatique ou semi-automatique de type analogique ou numérique doit être telle que, lors de la vérification du respect de la marge de tolérance à l’acceptation ou de la marge de tolérance en service de l’appareil, à n’importe quelle charge allant de zéro à la portée maximale, le fait d’ajouter à l’élément qui reçoit la charge, ou d’en enlever, un poids correspondant à 1,4 fois la valeur du plus petit échelon d’enregistrement de l’appareil provoque une variation de la valeur indiquée au moins égale à la valeur du plus petit échelon d’enregistrement de l’appareil.
+> DORS/89-570, art. 6(F); DORS/90-118, art. 26; DORS/2017-17, art. 12(F).
 
 
 
@@ -4353,11 +4356,11 @@ les marges de tolérance à l’acceptation et en service sont 1,5 fois celles i
 <td>25 mm plus 1 % de la longueur connue</td>
 <td>13 mm plus ½ % de la longueur connue</td>
 <td>25 mm plus 1 % de la longueur connue</td>
-<td>13 mm plus 1½ % de la longueur connue</td>
+<td>13 mm plus ½ % de la longueur connue</td>
 </tr>
 </table>
 
-> DORS/89-570, art. 6(F).
+> DORS/89-570, art. 6(F); DORS/2017-17, art. 13(F).
 
 
 
@@ -4379,10 +4382,10 @@ les marges de tolérance à l’acceptation et en service sont 1,5 fois celles i
 </tr>
 <tr>
 <th>Longueur de contrôle connue</th>
-<th>Au-dessous de la longueur connue</th>
-<th>Au-dessus de la longueur connue</th>
-<th>Au-dessous de la longueur connue</th>
-<th>Au-dessus de la longueur connue</th>
+<th>Au-dessous de la longueur enregistrée</th>
+<th>Au-dessus de la longueur enregistrée</th>
+<th>Au-dessous de la longueur enregistrée</th>
+<th>Au-dessus de la longueur enregistrée</th>
 </tr>
 <tr>
 <td>1</td>
@@ -4394,7 +4397,7 @@ les marges de tolérance à l’acceptation et en service sont 1,5 fois celles i
 </tr>
 </table>
 
-> DORS/89-570, art. 6(F).
+> DORS/89-570, art. 6(F); DORS/2017-17, art. 14(F).
 
 
 
@@ -4438,8 +4441,8 @@ les marges de tolérance à l’acceptation et en service sont 1,5 fois celles i
 
 
 
-**224** Lors d’un essai portant sur les marges de tolérance à l’acceptation ou en service comparativement à un étalon local, et qui consiste à mesurer une superficie connue sur une surface correspondant au type de matière que l’appareil est censé mesurer, l’appareil est considéré conforme aux marges de tolérance à l’acceptation et en service en fonction de la superficie et de la longueur données si la surface mesurée ne diffère pas de la surface connue par plus de 0,006 mètre carré ou de 1,5 pour cent de la surface connue, selon l’écart le plus important, et si l’appareil mesure en unités canadiennes de superficie, 1/16 de pied carré ou 1,5 pour cent de la surface connue, selon l’écart le plus important.
-> DORS/89-570, art. 6(F).
+**224** Lors d’un essai portant sur la marge de tolérance à l’acceptation ou sur la marge de tolérance en service comparativement à un étalon local, qui consiste à mesurer une superficie connue sur une surface correspondant au type de matière que l’appareil est censé mesurer, l’appareil est considéré conforme à la marge de tolérance à l’acceptation et à la marge de tolérance en service en fonction de la superficie et du type de matière si la surface mesurée ne diffère pas de la superficie connue par plus de 0,006 mètre carré ou de 1,5 pour cent de la superficie connue, selon l’écart le plus important, et si l’appareil mesure en unités canadiennes de superficie, 1/16 de pied carré ou 1,5 pour cent de la superficie connue, selon l’écart le plus important.
+> DORS/89-570, art. 6(F); DORS/2017-17, art. 15.
 
 
 
@@ -5078,8 +5081,8 @@ les marges de tolérance à l’acceptation et en service sont 1,5 fois celles i
 <tr>
 <td>1</td>
 <td>Un volume de 225 à 900 litres ou de 50 à 200 gallons</td>
-<td>3/16 % de la quantité de contrôle connue</td>
-<td>¼ % de la quantité de contrôle connue</td>
+<td>3/16 % de la quantité de contrôle connue</td>
+<td>¼ % de la quantité de contrôle connue</td>
 </tr>
 </table>
 
@@ -5107,10 +5110,10 @@ les marges de tolérance à l’acceptation et en service sont 1,5 fois celles i
 </table>
 
 
-- **(4)** Les marges de tolérance à l’acceptation et en service indiquées dans les tableaux des paragraphes (2) et (3) s’appliquent aux quantités de contrôle connues équivalentes ou supérieures au débit du compteur en une minute, au régime maximal.
+- **(4)** La marge de tolérance à l’acceptation et la marge de tolérance en service indiquées dans les tableaux des paragraphes (2) et (3) s’appliquent aux quantités de contrôle connues équivalentes ou supérieures au débit du compteur en une minute, au régime maximal.
 
 - **(5)** Les marges de tolérance à l’acceptation indiquées dans la colonne II des tableaux des paragraphes (2) et (3) s’appliquent uniquement aux essais réalisés sous contrôle, comme les bancs d’essai, et pour les essais réalisés dans d’autres conditions, les marges de tolérance à l’acceptation applicables sont celles qui figurent dans la colonne III de ces tableaux.
-> DORS/89-570, art. 6(F).
+> DORS/89-570, art. 6(F); DORS/2017-17, art. 16.
 
 
 
@@ -5165,10 +5168,10 @@ les marges de tolérance à l’acceptation et en service sont 1,5 fois celles i
 </table>
 
 
-- **(4)** Les marges de tolérance à l’acceptation et en service indiquées dans les tableaux des paragraphes (2) et (3) s’appliquent aux quantités de contrôle connues équivalentes ou supérieures au débit du compteur en une minute, à plein régime.
+- **(4)** La marge de tolérance à l’acceptation et la marge de tolérance en service indiquées dans les tableaux des paragraphes (2) et (3) s’appliquent aux quantités de contrôle connues équivalentes ou supérieures au débit du compteur en une minute, à plein régime.
 
 - **(5)** Les marges de tolérance à l’acceptation indiquées dans la colonne II des tableaux des paragraphes (2) et (3) s’appliquent uniquement aux essais réalisés sous contrôle, comme les bancs d’essai et, quant aux essais réalisés dans d’autres conditions, les marges de tolérance à l’acceptation applicables sont celles qui figurent dans la colonne III des tableaux.
-> DORS/89-570, art. 6(F).
+> DORS/89-570, art. 6(F); DORS/2017-17, art. 17.
 
 
 
@@ -7007,11 +7010,13 @@ l’installation doit comporter des dispositifs automatiques permettant au compt
 
 - **(6)** Tout paiement visé aux paragraphes (1) à (5) est effectué selon l’une des modalités ci-après que le procès-verbal, l’avis ou la décision applicable précise :
 	- **a)** par chèque certifié ou mandat libellé à l’ordre du receveur général du Canada et transmis à un bureau de Mesures Canada de l’une des façons suivantes :
-		- **(i)** par courrier ordinaire,
+		- **(i)** [Abrogé, DORS/2017-17, art. 18]
 		- **(ii)** par courrier recommandé,
 		- **(iii)** par messagerie;
 	- **b)** par moyen électronique.
-> DORS/2014-112, art. 1.
+
+- **(7)** La date de paiement correspond à celle de son envoi.
+> DORS/2014-112, art. 1; DORS/2017-17, art. 18.
 
 
 
@@ -7022,22 +7027,19 @@ l’installation doit comporter des dispositifs automatiques permettant au compt
 
 **352** 
 
-- **(1)** Toute demande ou contestation prévue à l’alinéa 22.12(2)a) ou b) de la Loi est, dans les trente jours suivant la date de notification du procès-verbal, transmise par écrit à un bureau de Mesures Canada selon l’une des modalités ci-après que le procès-verbal précise :
-	- **a)** par remise en mains propres;
-	- **b)** par courrier recommandé ou messagerie;
-	- **c)** par moyen électronique.
-
-- **(2)** La demande ou la contestation comprend les renseignements suivants :
-	- **a)** le numéro du procès-verbal;
-	- **b)** le nom de l’intéressé, ses adresses postale et électronique, numéro de téléphone et de télécopieur ainsi que le nom d’une personne-ressource s’il y a lieu;
+- **(1)** Toute demande ou contestation prévue à l’alinéa 22.12(2)a) ou b) de la Loi doit, conformément à ce qui est mentionné dans le procès-verbal, être transmise par écrit, avec les renseignements ci-après, à un bureau de Mesures Canada par remise en mains propres, par courrier recommandé, par messagerie ou par moyen électronique dans les trente jours suivant la date de notification du procès-verbal :
+	- **a)** le numéro du procès-verbal, tel qu’il est indiqué sur celui-ci;
+	- **b)** le nom de l’intéressé, ses adresses postale et électronique, ses numéros de téléphone et de télécopieur ainsi que le nom d’une personne-ressource s’il y a lieu;
 	- **c)** la langue de communication — anglais ou français — que choisit l’intéressé;
 	- **d)** dans le cas d’une demande, une proposition détaillant les mesures correctives qui seront prises pour prévenir toute récidive de la violation;
 	- **e)** dans le cas d’une contestation, les motifs de la contestation.
 
+- **(2)** [Abrogé, DORS/2017-17, art. 19]
+
 - **(3)** La date de la demande ou de la contestation correspond :
 	- **a)** à celle de sa remise, si elle est remise en mains propres;
 	- **b)** à celle de son envoi, si elle est envoyée par courrier recommandé, messagerie ou moyen électronique.
-> DORS/2014-112, art. 1.
+> DORS/2014-112, art. 1; DORS/2017-17, art. 19.
 
 
 
