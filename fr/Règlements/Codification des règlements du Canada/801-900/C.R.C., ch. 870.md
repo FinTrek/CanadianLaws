@@ -174,11 +174,13 @@ Autorités habilitantes :
 
 
 **A.01.042** L’inspecteur peut référer à un analyste, pour examen, les échantillons des aliments ou drogues examinés ou prélevés en vertu de l’article A.01.041.
+> DORS/2017-18, art. 1(A).
 
 
 
-**A.01.043** L’inspecteur qui estime, après examen d’un échantillon de l’aliment ou de la drogue ou réception du rapport de l’analyste que la vente de l’aliment, de la drogue ou du cosmétique serait contraire à la Loi ou au présent règlement, doit en notifier par écrit le percepteur des douanes ainsi que l’importateur. 
-> DORS/84-300, art. 2(A).
+
+**A.01.043** L’inspecteur qui estime, après examen d’un échantillon de l’aliment ou de la drogue ou réception du rapport de l’analyste, que la vente de l’aliment ou de la drogue au Canada serait contraire à la Loi ou au présent règlement en avise par écrit le percepteur des douanes ainsi que l’importateur.
+> DORS/84-300, art. 2(A); DORS/2017-18, art. 2.
 
 
 
@@ -10720,8 +10722,8 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 
 - **(1)** **[N].** Le **fromage fondu (indication de la variété)**
 	- **a)** doit
-		- **(i)** sous réserve du sous-alinéa (ii), être le produit du mélange et du malaxage, à l’aide d’une source de chaleur, des variétés de fromage nommées, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
-		- **(ii)** dans le cas du fromage cheddar fondu, être le produit du mélange et du malaxage, à l’aide d’une source de chaleur, des fromages suivants en vue de former une masse homogène :
+		- **(i)** sous réserve du sous-alinéa (ii), être le produit du râpage et du mélange, à l’aide d’une source de chaleur, des variétés de fromage nommées, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
+		- **(ii)** dans le cas du fromage cheddar fondu, être le produit du râpage et du mélange, à l’aide d’une source de chaleur, des fromages suivants en vue de former une masse homogène :
 			- **(A)** fromage cheddar,
 			- **(B)** fromage à caillé brassé,
 			- **(C)** fromage à caillé granuleux, ou
@@ -10759,7 +10761,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 - **(2)** L’étiquette d’un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
 - **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l’espace principal de l’étiquette.
-> DORS/79-752, art. 2; DORS/91-409, art. 1.
+> DORS/79-752, art. 2; DORS/91-409, art. 1; DORS/2017-18, art. 18(F).
 
 
 
@@ -10768,7 +10770,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 
 - **(1)** **[N].** Le **fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés)**
 	- **a)** doit
-		- **(i)** être le produit du mélange et du malaxage, à l’aide d’une source de chaleur, des variétés de fromage nommées, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
+		- **(i)** être le produit du râpage et du mélange, à l’aide d’une source de chaleur, des variétés de fromage nommées, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
 		- **(ii)** contenir, en quantité suffisante pour pouvoir se distinguer du fromage fondu (indication de la variété), tout en conservant la nature fondamentale, les ingrédients suivants :
 			- **(A)** des préparations aromatisantes autres que celles qui ressemblent à l’arôme des variétés de fromage utilisées,
 			- **(B)** des assaisonnements, du chocolat, des condiments ou des épices,
@@ -10804,7 +10806,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 - **(2)** L’étiquette d’un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
 - **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l’espace principal de l’étiquette.
-> DORS/79-752, art. 2; DORS/91-409, art. 2; DORS/92-400, art. 5; DORS/2010-94, art. 4(A); DORS/2011-278, art. 4.
+> DORS/79-752, art. 2; DORS/91-409, art. 2; DORS/92-400, art. 5; DORS/2010-94, art. 4(A); DORS/2011-278, art. 4; DORS/2017-18, art. 18(F).
 
 
 
@@ -10813,7 +10815,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 
 - **(1)** **[N].** Une **préparation de fromage fondu**
 	- **a)** doit
-		- **(i)** être le produit du mélange et du malaxage, à l’aide d’une source de chaleur, d’une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène, et
+		- **(i)** être le produit du râpage et du mélange, à l’aide d’une source de chaleur, d’une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène, et
 		- **(ii)** contenir
 			- **(A)** du lait ou des produits du lait ajoutés,
 			- **(B)** au moins 51 pour cent de fromage,
@@ -10842,7 +10844,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 - **(2)** L’étiquette d’un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
 - **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l’espace principal de l’étiquette.
-> DORS/79-752, art. 2; DORS/91-409, art. 3; DORS/92-400, art. 6; DORS/2007-302, art. 4(F).
+> DORS/79-752, art. 2; DORS/91-409, art. 3; DORS/92-400, art. 6; DORS/2007-302, art. 4(F); DORS/2017-18, art. 18(F).
 
 
 
@@ -10851,7 +10853,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 
 - **(1)** **[N].** Une **préparation de fromage fondu (avec indication des ingrédients ajoutés)**
 	- **a)** doit
-		- **(i)** être le produit du mélange et du malaxage, à l’aide d’une source de chaleur, d’une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
+		- **(i)** être le produit du râpage et du mélange, à l’aide d’une source de chaleur, d’une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
 		- **(ii)** contenir, en quantité suffisante pour pouvoir se distinguer de la préparation de fromage fondu, tout en conservant sa nature fondamentale, les ingrédients suivants :
 			- **(A)** des assaisonnements, du chocolat, des condiments, des épices ou des préparations aromatisantes,
 			- **(B)** des achards, des cornichons, des fruits, des légumes ou des noix,
@@ -10884,7 +10886,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 - **(2)** L’étiquette d’un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
 - **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l’espace principal de l’étiquette.
-> DORS/79-752, art. 2; DORS/91-409, art. 4; DORS/92-400, art. 7; DORS/2007-302, art. 4(F); DORS/2011-278, art. 5.
+> DORS/79-752, art. 2; DORS/91-409, art. 4; DORS/92-400, art. 7; DORS/2007-302, art. 4(F); DORS/2011-278, art. 5; DORS/2017-18, art. 18(F).
 
 
 
@@ -10893,7 +10895,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 
 - **(1)** **[N].** Le **fromage fondu à tartiner**
 	- **a)** doit
-		- **(i)** être le produit du mélange et du malaxage, à l’aide d’une source de chaleur, d’une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène, et
+		- **(i)** être le produit du râpage et du mélange, à l’aide d’une source de chaleur, d’une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène, et
 		- **(ii)** contenir
 			- **(A)** du lait ou des produits du lait ajoutés,
 			- **(B)** au moins 51 pour cent de fromage,
@@ -10922,7 +10924,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 - **(2)** L’étiquette d’un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
 - **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l’espace principal de l’étiquette.
-> DORS/79-752, art. 2; DORS/82-1071, art. 4; DORS/91-409, art. 5; DORS/2007-302, art. 4(F).
+> DORS/79-752, art. 2; DORS/82-1071, art. 4; DORS/91-409, art. 5; DORS/2007-302, art. 4(F); DORS/2017-18, art. 18(F).
 
 
 
@@ -10931,7 +10933,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 
 - **(1)** **[N]**. Le **fromage fondu à tartiner (avec indication des ingrédients ajoutés)**
 	- **a)** doit
-		- **(i)** être le produit du mélange et du malaxage, à l'aide d'une source de chaleur, d'une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
+		- **(i)** être le produit du râpage et du mélange, à l'aide d'une source de chaleur, d'une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
 		- **(ii)** contenir, en quantité suffisante pour pouvoir se distinguer du fromage fondu à tartiner, tout en conservant sa nature fondamentale, les ingrédients suivants :
 			- **(A)** des assaisonnements, du chocolat, des condiments, des épices ou des préparations aromatisantes,
 			- **(B)** des achards, des cornichons, des fruits, des légumes ou des noix,
@@ -10964,7 +10966,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 - **(2)** L'étiquette d'un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
 - **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l'espace principal de l'étiquette.
-> DORS/79-752, art. 2; DORS/82-1071, art. 5; DORS/91-409, art. 6; DORS/2007-302, art. 4(F); DORS/2011-278, art. 6.
+> DORS/79-752, art. 2; DORS/82-1071, art. 5; DORS/91-409, art. 6; DORS/2007-302, art. 4(F); DORS/2011-278, art. 6; DORS/2017-18, art. 18(F).
 
 
 
@@ -10973,8 +10975,8 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 
 - **(1)** **[N].** Le **fromage conditionné à froid (indication de la variété)**
 	- **a)** doit
-		- **(i)** sous réserve du sous-alinéa (ii), être le produit du mélange et du malaxage, sans l'aide d'une source de chaleur, des variétés de fromage nommées, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
-		- **(ii)** dans le cas du fromage cheddar conditionné à froid, être le produit du mélange et du malaxage, sans l'aide d'une source de chaleur, des fromages suivants, en vue de former une masse homogène :
+		- **(i)** sous réserve du sous-alinéa (ii), être le produit du râpage et du mélange, sans l'aide d'une source de chaleur, des variétés de fromage nommées, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
+		- **(ii)** dans le cas du fromage cheddar conditionné à froid, être le produit du râpage et du mélange, sans l'aide d'une source de chaleur, des fromages suivants, en vue de former une masse homogène :
 			- **(A)** fromage cheddar,
 			- **(B)** fromage à caillé brassé,
 			- **(C)** fromage à caillé granuleux, ou
@@ -10999,7 +11001,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 - **(2)** L'étiquette d'un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
 - **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l'espace principal de l'étiquette.
-> DORS/79-752, art. 2; DORS/92-400, art. 8.
+> DORS/79-752, art. 2; DORS/92-400, art. 8; DORS/2017-18, art. 18(F).
 
 
 
@@ -11008,7 +11010,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 
 - **(1)** **[N].** Le **fromage conditionné à froid (indication de la variété) (avec indication des ingrédients ajoutés)**
 	- **a)** doit
-		- **(i)** être le produit du mélange et du malaxage, sans l'aide d'une source de chaleur, des variétés de fromage nommées, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
+		- **(i)** être le produit du râpage et du mélange, sans l'aide d'une source de chaleur, des variétés de fromage nommées, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
 		- **(ii)** contenir, en quantité suffisante pour pouvoir se distinguer du fromage conditionné à froid (indication de la variété), tout en conservant sa nature fondamentale, les ingrédients suivants :
 			- **(A)** des préparations aromatisantes autres que celles qui ressemblent à l'arôme des variétés de fromage utilisées dans le produit,
 			- **(B)** des assaisonnements, du chocolat, des condiments ou des épices,
@@ -11038,7 +11040,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 - **(2)** L'étiquette d'un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
 - **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l'espace principal de l'étiquette.
-> DORS/79-752, art. 2; DORS/92-400, art. 9; DORS/2010-94, art. 5(A); DORS/2011-278, art. 7.
+> DORS/79-752, art. 2; DORS/92-400, art. 9; DORS/2010-94, art. 5(A); DORS/2011-278, art. 7; DORS/2017-18, art. 18(F).
 
 
 
@@ -11047,7 +11049,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 
 - **(1)** **[N].** Une **préparation de fromage conditionné à froid**
 	- **a)** doit
-		- **(i)** être le produit du mélange et du malaxage, sans l'aide d'une source de chaleur, d'une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
+		- **(i)** être le produit du râpage et du mélange, sans l'aide d'une source de chaleur, d'une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
 		- **(ii)** contenir
 			- **(A)** du lait ou des produits du lait ajoutés,
 			- **(B)** au moins 51 pour cent de fromage,
@@ -11073,7 +11075,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 - **(2)** L'étiquette d'un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
 - **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l'espace principal de l'étiquette.
-> DORS/79-752, art. 2; DORS/2007-302, art. 4(F).
+> DORS/79-752, art. 2; DORS/2007-302, art. 4(F); DORS/2017-18, art. 18(F).
 
 
 
@@ -11082,7 +11084,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 
 - **(1)** **[N].** Une **préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés)**
 	- **a)** doit
-		- **(i)** être le produit du mélange et du malaxage, sans l'aide d'une source de chaleur, d'une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
+		- **(i)** être le produit du râpage et du mélange, sans l'aide d'une source de chaleur, d'une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
 		- **(ii)** contenir, en quantité suffisante pour pouvoir se distinguer de la préparation de fromage conditionné à froid, tout en conservant sa nature fondamentale, les ingrédients suivants :
 			- **(A)** des assaisonnements, du chocolat, des condiments, des épices ou des préparations aromatisantes,
 			- **(B)** des achards, des cornichons, des fruits, des légumes ou des noix,
@@ -11112,7 +11114,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 - **(2)** L'étiquette d'un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
 - **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l'espace principal de l'étiquette.
-> DORS/79-752, art. 2; DORS/2007-302, art. 4(F); DORS/2011-278, art. 8.
+> DORS/79-752, art. 2; DORS/2007-302, art. 4(F); DORS/2011-278, art. 8; DORS/2017-18, art. 18(F).
 
 
 
@@ -13073,11 +13075,11 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 
 
 **B.14.007** **[N].** Le **liant à viande** ou le **liant à (désignation du produit de viande)** est un agent de remplissage contenant une combinaison quelconque de sel, d’agents édulcorants, d’épices ou d’autres condiments (sauf la tomate), d’oeufs, de blancs d’oeufs, et
-- **a)** lorsqu’il est vendu pour servir dans les viandes conditionnées ou conservées et dans les sous-produits de viande conditionnés ou conservés, il peut renfermer de l’acide ascorbique, de l’acide érythorbique, de l’acide isoascorbique, de l’ascorbate de calcium, de l’ascorbate de sodium, du carbonate de sodium, de l’érythorbate de sodium, de l’iso-ascorbate de sodium, du nitrate de potassium, du nitrite de potassium, du nitrate de sodium ou du nitrite de sodium, pourvu que ces nitrates et nitrites, le cas échéant, soient emballés séparément des épices et condiments;
-- **b)** lorsque le liant est vendu pour servir dans la viande conditionnée ou dans les sous-produits de viande conditionnée dans lesquels il est permis d’ajouter un agent gélatinisant, il peut renfermer un tel agent gélatinisant;
+- **a)** lorsqu’il est vendu pour servir dans les viandes conservées et dans les sous-produits de viande conservés, il peut renfermer de l’acide ascorbique, de l’acide érythorbique, de l’acide isoascorbique, de l’ascorbate de calcium, de l’ascorbate de sodium, du carbonate de sodium, de l’érythorbate de sodium, de l’iso-ascorbate de sodium, du nitrate de potassium, du nitrite de potassium, du nitrate de sodium ou du nitrite de sodium, pourvu que ces nitrates et nitrites, le cas échéant, soient emballés séparément des épices et condiments;
+- **b)** lorsqu’il est vendu pour servir dans la viande préparée ou dans les sous-produits de viande dans lesquels il est permis d’ajouter un agent gélatinisant, il peut renfermer un tel agent gélatinisant;
 - **c)** lorsque le liant est vendu pour servir dans la saucisse fraîche, crue, il peut contenir un arôme artificiel d’érable; et
 - **d)** peut contenir un agent anti-agglomérant.
-> DORS/80-13, art. 1; DORS/82-913, art. 1; DORS/86-875, art. 2(F); DORS/2010-143, art. 9.
+> DORS/80-13, art. 1; DORS/82-913, art. 1; DORS/86-875, art. 2(F); DORS/2010-143, art. 9; DORS/2017-18, art. 3(F).
 
 
 
@@ -13088,7 +13090,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 
 
 
-**B.14.009** **[N].** La marinade, la saumure et le mélange de salaison à sec employés dans le marinage des viandes conditionnées ou conservées et des sous-produits de viande conditionnés ou conservés peuvent renfermer
+**B.14.009** La marinade, la saumure et le mélange de salaison à sec employés dans le marinage des viandes conservées et des sous-produits de viande conservés peuvent renfermer
 - **a)** des agents de conservation de la catégorie I, si les nitrates ou les nitrites, ou les deux, d’une part, et les épices et condiments, d’autre part, sont emballés séparément;
 - **b)** de l’acide citrique, du citrate de sodium ou du vinaigre;
 - **c)** des agents édulcorants, y compris le sucre d’érable et le sirop d’érable;
@@ -13100,7 +13102,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 - **i)** dans le cas de la marinade servant à la salaison
 	- **(i)** de jambon, d’épaules et de dos de porc, de l’arôme artificiel d’érable, et
 	- **(ii)** de poitrines de porc : de l’arôme artificiel d’érable, et un arôme d’orange conforme à la norme prescrite à l’article B.10.005.
-> DORS/79-251, art. 4; DORS/80-13, art. 2; DORS/82-596, art. 1; DORS/88-336, art. 3; DORS/94-567, art. 1; DORS/2010-143, art. 10(F).
+> DORS/79-251, art. 4; DORS/80-13, art. 2; DORS/82-596, art. 1; DORS/88-336, art. 3; DORS/94-567, art. 1; DORS/2010-143, art. 10(F); DORS/2017-18, art. 4(F).
 
 
 
@@ -13262,7 +13264,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 
 
 
-**B.14.031** **[N].** La **viande conditionnée** ou **conservée** et les **sous-produits de viande conditionnés** ou **conservés** sont faits de viande crue ou cuite ou d’un sous-produit de viande crue ou cuite, qui ont été salés, asséchés, marinés, saumurés ou fumés et peuvent être garnis d’une glace et renfermer
+**B.14.031** La **viande conservée** et les **sous-produits de viande conservés** sont faits de viande crue ou cuite ou d’un sous-produit de viande crue ou cuite, qui ont été salés, asséchés, marinés, saumurés ou fumés et peuvent être garnis d’une glace et renfermer
 - **a)** un agent de conservation de la catégorie I;
 - **a.1)** un agent de conservation de la catégorie II;
 - **b)** des agents édulcorants;
@@ -13275,7 +13277,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 - **h)** dans le cas des coupes de porc, de boeuf ou d’agneau de salaison préparées à l’aide de marinade, du phosphate disodique, du phosphate monosodique, de l’hexamétaphosphate de sodium, du tripolyphosphate de sodium, du pyrophosphate tétrasodique et du phyrophosphate acide de sodium, en telle quantité, calculée en phosphate disodique, que le produit fini renferme au plus 0,5 pour cent de phosphate ajouté;
 - **i)** dans le cas du tocino, du rocou en telle quantité que le produit fini renferme au plus 0,1 % de rocou;
 - **j)** dans le cas de jambons cuits tranchés emballés sous vide : du *Carnobacterium maltaromaticum* CB1.
-> DORS/79-251, art. 6; DORS/80-13, art. 4; DORS/82-596, art. 2; DORS/84-300, art. 45(A); DORS/88-336, art. 2 et 3; DORS/92-725, art. 3; DORS/97-151, art. 24; DORS/2010-264, art. 2; DORS/2011-280, art. 2; DORS/2016-305, art. 57.
+> DORS/79-251, art. 6; DORS/80-13, art. 4; DORS/82-596, art. 2; DORS/84-300, art. 45(A); DORS/88-336, art. 2 et 3; DORS/92-725, art. 3; DORS/97-151, art. 24; DORS/2010-264, art. 2; DORS/2011-280, art. 2; DORS/2016-305, art. 57; DORS/2017-18, art. 5(F).
 
 
 
@@ -13337,8 +13339,8 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 
 
 
-**B.14.033** **[N].** La **viande en pot**, le **pâté de viande** ou la **viande à tartiner** sont faits de viande fraîche ou conservée, hachée finement et cuite; ils peuvent renfermer un liant à viande, du sel, des agents édulcorants, des épices ou d’autres condiments, un agent gélatinisant, de l’acétate de sodium et du diacétate de sodium; leur teneur totale en protéines doit être d’au moins 9 pour cent.
-> DORS/80-13, art. 6; DORS/2011-280, art. 4.
+**B.14.033** **[N].** La **viande en pot**, le **pâté de viande** ou la **viande à tartiner** sont faits de viande fraîche ou conservée, hachée et cuite; ils peuvent renfermer un liant à viande, du sel, des agents édulcorants, des épices ou d’autres condiments, un agent gélatinisant, de l’acétate de sodium et du diacétate de sodium; leur teneur totale en protéines doit être d’au moins 9 pour cent.
+> DORS/80-13, art. 6; DORS/2011-280, art. 4; DORS/2017-18, art. 19(F).
 
 
 
@@ -13351,8 +13353,8 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 
 
 
-**B.14.035** **[N].** Le **pain de viande**, la **viande en pain**, la **viande en brique** ou **en rouleau** et la **viande à lunch** sont faits de viande fraîche ou conservée, hachée finement, cuite et pressée; ils peuvent renfermer, dans une proportion d’au plus trois pour cent du produit fini, un produit de lait écrémé desséché obtenu du lait écrémé par la réduction de la quantité de calcium à laquelle est substituée une quantité égale de sodium, et contenir un agent de remplissage, un liant à viande, du sel, des agents édulcorants, de la glucono-delta-lactone, des épices ou d’autres condiments, du lait, des œufs, un agent gélatinisant, de l’acétate de sodium et du diacétate de sodium, des tissus gras de bœuf ou de porc partiellement dégraissés; leur teneur totale en protéines doit être d’au moins onze pour cent.
-> DORS/80-13, art. 8; DORS/2011-280, art. 5.
+**B.14.035** **[N].** Le **pain de viande**, la **viande en pain**, la **viande en brique** ou **en rouleau** et la **viande à lunch** sont faits de viande fraîche ou conservée, hachée, cuite et pressée; ils peuvent renfermer, dans une proportion d’au plus trois pour cent du produit fini, un produit de lait écrémé desséché obtenu du lait écrémé par la réduction de la quantité de calcium à laquelle est substituée une quantité égale de sodium, et contenir un agent de remplissage, un liant à viande, du sel, des agents édulcorants, de la glucono-delta-lactone, des épices ou d’autres condiments, du lait, des œufs, un agent gélatinisant, de l’acétate de sodium et du diacétate de sodium, des tissus gras de bœuf ou de porc partiellement dégraissés; leur teneur totale en protéines doit être d’au moins onze pour cent.
+> DORS/80-13, art. 8; DORS/2011-280, art. 5; DORS/2017-18, art. 19(F).
 
 
 
@@ -13364,7 +13366,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 **B.14.037** 
 
 - **(1)** **[N].** La **tête en fromage** ou **tête fromagée**
-	- **a)** doit être de la viande cuite hachée finement, ou de la viande conservée cuite et hachée finement,
+	- **a)** doit être de la viande cuite hachée, ou de la viande conservée cuite et hachée,
 	- **b)** ne doit pas renfermer
 		- **(i)** moins de 50 pour cent de viande de tête, ni
 		- **(ii)** aucune peau autre que celle qui adhère naturellement à la viande de porc employée,
@@ -13374,7 +13376,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 		- **(ii)** un agent de conservation de la catégorie II.
 
 - **(2)** Pour l’application du paragraphe (1), la peau de tête et le groin sont considérés comme de la viande de tête.
-> DORS/80-500, art. 5; DORS/2011-280, art. 6.
+> DORS/80-500, art. 5; DORS/2011-280, art. 6; DORS/2017-18, art. 19(F).
 
 
 
@@ -22401,12 +22403,12 @@ il doit présenter les caractéristiques suivantes :
 
 
 **B.21.003** **[N].** Le poisson doit consister en sa partie comestible, propre et habillée, avec ou sans sel ou condiment, et peut
-- **a)** dans le cas de filets congelés, contenir de l’acide ascorbique ou son sel de sodium, de l’acide citrique ou de l’acide érythorbique ou son sel de sodium, ainsi que :
+- **a)** dans le cas de filets congelés, contenir de l’acide ascorbique ou son sel de sodium, de l’acide citrique ou de l’acide érythorbique ou son sel de sodium, ainsi que :
 	- **(i)** du tripolyphosphate de sodium, de l’hexamétaphosphate de sodium ou une combinaison de tripolyphosphate de sodium, de pyrophosphate acide de sodium et de pyrophosphate tétrasodique, ou
 	- **(ii)** un mélange d’hexamétaphosphate de sodium et de carbonate de sodium;
-- **b)** s’il est congelé, être enrobé d’un lustre se composant d’eau, de monoglycérides acétyles, de chlorure de calcium, d’alginate de sodium, de carboxyméthycellulose de sodium, de phosphate disodique, de sirop de maïs de dextrose, de glucose, de solides du glucose, d’acide ascorbique ou de son sel de sodium, ou d’acide érythorbique ou de son sel de sodium; et
+- **b)** s’il est congelé, être enrobé d’une glaçure se composant d’eau, de monoglycérides acétyles, de chlorure de calcium, d’alginate de sodium, de carboxyméthycellulose de sodium, de phosphate disodique, de sirop de maïs, de dextrose, de glucose, de solides du glucose, d’acide ascorbique ou de son sel de sodium, ou d’acide érythorbique ou de son sel de sodium;
 - **c)** s’il est haché et congelé, contenir du tripolyphosphate de sodium, de l’hexamétaphosphate de sodium, de l’acide ascorbique ou son sel de sodium, de l’acide citrique, de l’acide érythorbique ou son sel de sodium, ou une combinaison de tripolyphosphate de sodium, de pyrophosphate acide de sodium et de pyrophosphate trétrasodique.
-> DORS/84-300, art. 53; DORS/88-534, art. 7; DORS/91-149, art. 4; DORS/97-562, art. 2; DORS/2000-353, art. 9(F).
+> DORS/84-300, art. 53; DORS/88-534, art. 7; DORS/91-149, art. 4; DORS/97-562, art. 2; DORS/2000-353, art. 9(F); DORS/2017-18, art. 6(F).
 
 
 
@@ -22417,16 +22419,18 @@ il doit présenter les caractéristiques suivantes :
 
 
 
-**B.21.005** Le poisson, à l’exception des protéines de poisson, la chair d’animaux marins ou d’animaux d’eau douce ou leurs préparations sont falsifiées si l’une des substances ci-dessous ou une substance de l’une des catégories suivantes s’y trouve ou y a été ajoutée :
+**B.21.005** Le poisson, à l’exception des protéines de poisson, les produits de chair ou leurs préparations sont falsifiées si l’une des substances ci-après ou une substance de l’une des catégories ci-après s’y trouve ou y a été ajoutée :
 - **a)** muqueuses, tout organe ou toute partie de l’appareil génital, ou tout organe ou toute partie d’un animal marin ou d’un animal d’eau douce qui ne se vend par d’ordinaire comme article d’alimentation;
 - **b)** un agent de conservation autre que ceux qui sont prévus au présent titre, sauf
 	- **(i)** l’acide sorbique ou ses sels, dans le poisson desséché qui a été salé ou fumé et dans la pâte de poisson fumé et salé conditionnée à froid, et
-	- **(ii)** l’acide benzoïque ou ses sels, le benzoate de p-hydroxyméthyle et le benzoate de p-hydroxypropyle, dans les produits de poisson ou de chair de poisson empaquetés, marinés ou conditionnés à froid par une autre méthode; et
+	- **(ii)** l’acide benzoïque ou ses sels, le benzoate de p-hydroxyméthyle et le benzoate de p-hydroxypropyle, dans les produits de poisson ou de chair empaquetés, marinés ou conditionnés à froid par une autre méthode; et
 - **c)** un colorant pour aliments autre que ceux qui sont prévus au présent titre.
+> DORS/2017-18, art. 7(F) et 20(F).
 
 
 
-**B.21.006** **[N].** Le poisson et la viande préparés doivent être l’aliment entier ou déchiqueté préparé à partir du poisson ou de la viande, selon le cas, frais ou en conserve; ils peuvent être cuits ou en conserve et peuvent,
+
+**B.21.006** Le poisson et la chair préparés doivent être l’aliment entier ou haché préparé à partir du poisson ou de la chair, selon le cas, frais ou conservé; ils peuvent être cuits ou en conserve et peuvent,
 - **a)** dans le cas de pâte de homard et d’oeufs de poisson (caviar), contenir un colorant pour aliments;
 - **b)** dans le cas des crevettes cuites congelées, des crustacés en conserve, des maquereaux en conserve et des mollusques en conserve, contenir de l’acide citrique ou du jus de citron;
 - **c)** dans le cas de pâte de poisson, contenir un remplissage, un liant à poisson, des monoglycérides ou des mono et diglycérides;
@@ -22440,19 +22444,21 @@ il doit présenter les caractéristiques suivantes :
 - **k)** dans le cas des clams en conserve, des escargots en conserve et des limaces de mer en conserve, contenir de l’éthylènediaminetétraacétate de calcium disodique;
 - **l)** dans le cas de miettes de thon en conserve, contenir du sulfite de sodium;
 - **m)** dans le cas du caviar de lompe, contenir de la gomme adragante;
-- **n)** dans le cas d’un mélange de poisson et de viande préparés qui a l’apparence et le goût de la chair d’animaux marins ou d’animaux d’eau douce, contenir du remplissage, un liant à poisson, de l’oeuf entier, du blanc d’oeuf, du jaune d’oeuf, un colorant alimentaire, des agents gélatinisants ou stabilisants, des agents modifiant la texture, des préparations aromatisantes naturelles, des préparations aromatisantes artificielles, des agents rajusteurs du pH, de l’édulcorant et, dans une proportion ne dépassant pas deux pour cent du mélange, des légumineuses;
+- **n)** dans le cas d’un mélange de poisson et de chair préparés qui a l’apparence et le goût de la chair d’animaux marins ou d’animaux d’eau douce, contenir du remplissage, un liant à poisson, de l’oeuf entier, du blanc d’oeuf, du jaune d’oeuf, un colorant alimentaire, des agents gélatinisants ou stabilisants, des agents modifiant la texture, des préparations aromatisantes naturelles, des préparations aromatisantes artificielles, des agents rajusteurs du pH, de l’édulcorant et, dans une proportion ne dépassant pas deux pour cent du mélange, des légumineuses;
 - **o)** dans le cas des crustacés, contenir du bisulfite de potassium, du bisulfite de sodium, du dithionite de sodium, du métabisulfite de potassium, du métabisulfite de sodium, du sulfite de sodium ou de l’anhydride sulfureux;
 - **p)** dans le cas des crustacés et mollusques congelés, contenir de l’oxyde de calcium et de l’hydroxyde de sodium;
 - **q)** dans le cas de produits congelés de poisson pré-cuit pané, contenir de l’acide citrique en une quantité n’excédant pas la limite de tolérance de 0,1 pour cent;
 - **r)** dans le cas des clams en conserve, contenir de l’érythorbate de sodium en une quantité n’excédant pas la limite de tolérance de 350 parties par million;
-- **s)** dans le cas des produits déchiquetés, sauf le caviar de lompe, contenir de la gomme adragante en une quantité n’excédant pas la limite de tolérance de 0,75 pour cent;
+- **s)** dans le cas des produits hachés, sauf le caviar de lompe, contenir de la gomme adragante en une quantité n’excédant pas la limite de tolérance de 0,75 pour cent;
 - **t)** contenir un agent de conservation de la catégorie II.
-> DORS/80-13, art. 9; DORS/81-60, art. 12; DORS/84-602, art. 4; DORS/86-1020, art. 2; DORS/89-197, art. 2; DORS/92-344, art. 6; DORS/93-276, art. 13; DORS/94-141, art. 2; DORS/94-567, art. 3; DORS/94-689, art. 2(A); DORS/97-151, art. 27; DORS/97-562, art. 3; DORS/2005-316, art. 12; DORS/2007-76, art. 4; DORS/2011-280, art. 9; DORS/2012-43, art. 46.
+> DORS/80-13, art. 9; DORS/81-60, art. 12; DORS/84-602, art. 4; DORS/86-1020, art. 2; DORS/89-197, art. 2; DORS/92-344, art. 6; DORS/93-276, art. 13; DORS/94-141, art. 2; DORS/94-567, art. 3; DORS/94-689, art. 2(A); DORS/97-151, art. 27; DORS/97-562, art. 3; DORS/2005-316, art. 12; DORS/2007-76, art. 4; DORS/2011-280, art. 9; DORS/2012-43, art. 46; DORS/2017-18, art. 8, 9(F) et 17.
 
 
 
 
-**B.21.007** **[N].** Le **liant à poisson** devant servir dans ou sur le poisson ou la viande conditionnés doit être du remplissage auquel on a ajouté n'importe quel mélange de sel, de sucre, de dextrose, de glucose, d'épices ou d'autres condiments.
+**B.21.007** Le **liant à poisson** devant servir dans ou sur le poisson ou la chair préparés doit être du remplissage auquel on a ajouté n’importe quel mélange de sel, de sucre, de dextrose, de glucose, d’épices ou d’autres condiments.
+> DORS/2017-18, art. 10(F).
+
 
 
 
@@ -22470,21 +22476,21 @@ il doit présenter les caractéristiques suivantes :
 #### Poisson préparé
 
 
-**B.21.020** Est interdite la vente de poisson préparé ou de chair de poisson préparée qui renferme
+**B.21.020** Est interdite la vente de poisson préparé ou de chair préparée qui renferme
 - **a)** plus que la quantité de remplissage, de liant à poisson, ou d’autres ingrédients, que représente quatre pour cent de sucres réducteurs, calculés en dextrose selon la méthode officielle FO-32, Détermination des remplissages, des liants et de l’équivalent de dextrose, 15 octobre 1981; et
 - **b)** plus de 70 pour cent d’humidité, lorsque ledit poisson préparé contient du remplissage.
-> DORS/82-768, art. 63.
+> DORS/82-768, art. 63; DORS/2017-18, art. 20(F).
 
 
 
 
-**B.21.021** **[N].** Le poisson de salaison et la chair de poisson de salaison doivent être du poisson ou de la chair de poisson, à l’état cru ou cuit, qui ont été desséchés, salés, marinés, saumurés ou fumés; ils peuvent renfermer un agent de conservation de la catégorie I, un agent de conservation de la catégorie II, du dextrose, du glucose, des épices, du sucre et du vinaigre, et :
+**B.21.021** Le poisson conservé et la chair conservée doivent être du poisson ou de la chair, à l’état cru ou cuit, qui ont été desséchés, salés, marinés, saumurés ou fumés; ils peuvent renfermer un agent de conservation de la catégorie I, un agent de conservation de la catégorie II, du dextrose, du glucose, des épices, du sucre et du vinaigre, et :
 - **a)** le poisson desséché qui a été salé ou fumé et la pâte de poisson fumé et salé conditionnée à froid peuvent renfermer de l'acide sorbique et ses sels;
 - **b)** le poisson fumé peut renfermer un colorant pour aliments;
-- **c)** les produits de poisson ou de chair de poisson emballés, marinés ou conditionnés à froid par une autre méthode peuvent renfermer du bois de santal, de l'acide benzoïque ou ses sels, du méthyl-p-hydroxy-bensoate et du propyl-p-hydroxy-bensoate;
+- **c)** les produits de poisson ou de chair emballés, marinés ou conditionnés à froid par une autre méthode peuvent renfermer du bois de santal, de l'acide benzoïque ou ses sels, du méthyl-p-hydroxy-bensoate et du propyl-p-hydroxy-bensoate;
 - **d)** l'anchois salé, le chinchard salé et la crevette salée peuvent contenir de l'érythrosine en telle quantité que le produit fini renferme au plus 125 parties par million d'érythrosine;
-- **e)** les produits déchiquetés peuvent contenir de la gomme adragante en une quantité n’excédant pas la limite de tolérance de 0,75 pour cent.
-> DORS/95-493, art. 2; DORS/97-562, art. 4(F); DORS/2007-76, art. 5; DORS/2011-280, art. 10.
+- **e)** les produits hachés peuvent contenir de la gomme adragante en une quantité n’excédant pas la limite de tolérance de 0,75 pour cent.
+> DORS/95-493, art. 2; DORS/97-562, art. 4(F); DORS/2007-76, art. 5; DORS/2011-280, art. 10; DORS/2017-18, art. 11(F), 17 et 20(F).
 
 
 
@@ -22689,7 +22695,7 @@ il doit présenter les caractéristiques suivantes :
 
 
 
-**B.22.021** **[N].** La viande de volaille conditionnée ou conservée et les sous-produits de viande de volaille conditionnée ou conservée sont la viande de volaille ou des sous-produits de viande de volaille crus ou cuits, qui ont été salés ou fumés et qui peuvent renfermer
+**B.22.021** La viande de volaille conservée et les sous-produits de viande de volaille conservés sont de la viande de volaille ou des sous-produits de viande de volaille crus ou cuits, qui ont été salés ou fumés et qui peuvent renfermer :
 - **a)** un agent de conservation de la catégorie I;
 - **a.1)** un agent de conservation de la catégorie II;
 - **b)** un arôme de fumée liquide, un arôme de fumée liquide concentré ou des épices;
@@ -22697,7 +22703,7 @@ il doit présenter les caractéristiques suivantes :
 - **d)** du vinaigre;
 - **e)** dans le cas de la volaille et de la viande de volaille de salaison préparées à l’aide d’une solution d’injection ou d’immersion, du phosphate disodique, du phosphate monosodique, de l’hexamétaphosphate de sodium, du tripolyphosphate de sodium, du pyrophosphate tétrasodique et du pyrophosphate acide de sodium, en telle quantité calculée en phosphate disodique, que le produit fini renferme au plus 0,5 pour cent de phosphate ajouté;
 - **f)** dans le cas de la dinde cuite tranchée emballée sous vide, du *Carnobacterium maltaromaticum* CB1.
-> DORS/80-13, art. 13; DORS/82-596, art. 10; DORS/94-567, art. 5; DORS/2010-264, art. 6; DORS/2011-280, art. 12.
+> DORS/80-13, art. 13; DORS/82-596, art. 10; DORS/94-567, art. 5; DORS/2010-264, art. 6; DORS/2011-280, art. 12; DORS/2017-18, art. 12(F).
 
 
 
@@ -25761,12 +25767,14 @@ si seulement des acides aminés de forme L ont été ajoutés.
 
 
 
-**C.01.009** Lorsqu’un statut du Parlement du Canada ou un règlement édicté en vertu d’un tel statut fixe pour une drogue une norme de composition ou de qualité et que ledit statut ou règlement donne à la norme un nom ou une désignation, il est interdit de faire figurer ledit nom ou ladite désignation sur l’étiquette ou dans la publicité de ladite drogue, à moins que celle-ci ne soit conforme à ladite norme de composition ou de qualité.
+**C.01.009** Lorsqu’une loi fédérale ou un de ses règlements fixe une norme de composition ou de qualité pour une drogue et y donne un nom ou une désignation, il est interdit de faire figurer ce nom ou cette désignation sur l’étiquette ou dans la publicité de la drogue, à moins que celle-ci ne soit conforme à la norme de composition ou de qualité.
+> DORS/2017-18, art. 13.
 
 
 
-**C.01.010** S’il y a lieu de fournir le mode d’emploi approprié et sûr d’une drogue à usage parentéral ou d’une drogue sur ordonnance qui sert au traitement ou à la prophylaxie d’une maladie, d’un trouble ou d’un état physique anormal mentionnés à l’annexe A de la Loi, les étiquettes de la drogue, notamment tout feuillet inséré dans son emballage et toute documentation supplémentaire sur l’emploi de la drogue qui est fournie sur demande, peuvent faire mention de cette maladie, de ce trouble ou de cet état, et la drogue est exemptée à cet égard de l’application des paragraphes 3(1) et (2) de la Loi.
-> DORS/2013-122, art. 6; DORS/2014-158, art. 6.
+
+**C.01.010** S’il y a lieu de fournir le mode d’emploi approprié et sûr d’une drogue à usage parentéral ou d’une drogue sur ordonnance qui sert au traitement ou à la prophylaxie d’une maladie, d’un désordre ou d’un état physique anormal mentionnés à l’annexe A de la Loi, les étiquettes de la drogue, notamment tout feuillet inséré dans son emballage et toute documentation supplémentaire sur l’emploi de la drogue qui est fournie sur demande, peuvent faire mention de cette maladie, de ce désordre ou de cet état, et la drogue est exemptée à cet égard de l’application des paragraphes 3(1) et (2) de la Loi.
+> DORS/2013-122, art. 6; DORS/2014-158, art. 6; DORS/2017-18, art. 21(F).
 
 
 
@@ -25995,12 +26003,12 @@ indiqués pour cette drogue dans les publications mentionnées à l’annexe B 
 
 - **(1)** Le ministre peut, aux fins d’évaluation de l’innocuité et de l’efficacité de la drogue, demander par écrit au fabricant de lui présenter un rapport de synthèse relatif à un sujet de préoccupation.
 
-- **(2)** Le rapport comprend une analyse critique et concise des réactions indésirables à la drogue et des réactions indésirables graves à la drogue, ainsi que les fiches d’observation portant sur tout ou partie des réactions indésirables à la drogue et réactions indésirables graves à la drogue connues du fabricant et associées au sujet de préoccupation que le ministre a demandé à celui-ci d’analyser dans le rapport.
+- **(2)** Le rapport comprend une analyse critique et concise des réactions indésirables à la drogue et des réactions indésirables graves à la drogue, ainsi que les fiches d’observation portant sur toutes les réactions indésirables à la drogue et les réactions indésirables graves à la drogue — ou celles qui sont précisées par le ministre — qui sont connues du fabricant et qui sont associées au sujet de préoccupation que le ministre a demandé à celui-ci d’analyser dans le rapport.
 
-- **(3)** Après avoir donné au fabricant la possibilité de se faire entendre, le ministre précise un délai raisonnable, selon les circonstances, pour la présentation du rapport. Ce délai peut être de moins de trente jours si le ministre a besoin des renseignements contenus dans le rapport pour établir si la drogue présente un risque grave et imminent pour la santé humaine.
+- **(3)** Après avoir donné au fabricant la possibilité de se faire entendre, le ministre précise un délai raisonnable, selon les circonstances, pour la présentation du rapport. Ce délai ne peut être de moins de trente jours que si le ministre a besoin des renseignements contenus dans le rapport pour établir si la drogue présente un risque grave et imminent pour la santé humaine.
 
 - **(4)** Le fabricant présente le rapport dans le délai imparti.
-> DORS/2011-31, art. 1.
+> DORS/2011-31, art. 1; DORS/2017-18, art. 14.
 
 
 
@@ -27094,11 +27102,11 @@ VIOLET DE MANGANÈSE (C.I. n<sup>o</sup> 77742);
 
 **C.01.040.3** Pour décider s’il convient de modifier la Liste des drogues sur ordonnance en ce qui concerne une drogue, notamment par l’ajout ou le retrait de celle-ci, le ministre vérifie si l’un des critères ci-après s’applique à la drogue :
 - **a)** la surveillance d’un praticien est nécessaire :
-	- **(i)** pour diagnostiquer, traiter, atténuer ou prévenir une maladie, un trouble ou un état physique anormal, ou leurs symptômes, à l’égard desquels l’utilisation de la drogue est recommandée,
-	- **(ii)** pour faire le suivi d’une maladie, d’un trouble ou d’un état physique anormal, ou de leurs symptômes, à l’égard desquels l’utilisation de la drogue est recommandée, ou faire le suivi de l’utilisation de la drogue;
+	- **(i)** pour diagnostiquer, traiter, atténuer ou prévenir une maladie, un désordre ou un état physique anormal, ou leurs symptômes, à l’égard desquels l’utilisation de la drogue est recommandée,
+	- **(ii)** pour faire le suivi d’une maladie, d’un désordre ou d’un état physique anormal, ou de leurs symptômes, à l’égard desquels l’utilisation de la drogue est recommandée, ou faire le suivi de l’utilisation de la drogue;
 - **b)** le degré d’incertitude que suscite la drogue, son utilisation ou ses effets justifie une telle surveillance;
 - **c)** l’utilisation de la drogue peut causer un préjudice pour la santé humaine ou animale, ou poser un risque pour la santé publique, que la surveillance d’un praticien peut atténuer.
-> DORS/2013-122, art. 10.
+> DORS/2013-122, art. 10; DORS/2017-18, art. 21(F).
 
 
 
@@ -28236,9 +28244,9 @@ L’expression « vendre en gros » a un sens correspondant. (*wholesaler*)
 
 
 **C.01A.013** Le titulaire d’une licence d’établissement doit aviser, par écrit, le ministre au plus tard le 15<sup>e</sup> jour suivant, selon le cas :
-- **a)** la modification des renseignements visés aux alinéas C.01A.005a), b), e), f), h) et i) ou aux sous-alinéas C.01A.005g)(i) ou (ii);
+- **a)** la modification des renseignements visés aux alinéas C.01A.005a), b) et e) à i);
 - **b)** la survenance d’un fait susceptible d’avoir un effet sur la qualité, l’innocuité ou l’efficacité d’une drogue manufacturée, emballée-étiquetée, analysée conformément au titre 2 ou entreposée par lui qui entraîne le non-respect des exigences visées aux titres 2 à 4.
-> DORS/97-12, art. 5.
+> DORS/97-12, art. 5; DORS/2017-18, art. 15.
 
 
 
@@ -31739,8 +31747,8 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 
 - **(2)** Dans les huit jours suivant la communication de l’information au ministre conformément à l’alinéa (1)b), le promoteur lui remet un rapport exhaustif à ce sujet, y compris une analyse de l’importance et des répercussions des constatations.
 
-- **(3)** Les articles C.01.016 et C.01.017 ne s’appliquent pas aux drogues destinées à un essai clinique.
-> DORS/2001-203, art. 4.
+- **(3)** Les articles C.01.016 à C.01.020 ne s’appliquent pas aux drogues destinées à un essai clinique.
+> DORS/2001-203, art. 4; DORS/2017-18, art. 16.
 
 
 
