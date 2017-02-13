@@ -773,12 +773,8 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 
 
-**28** 
-
-- **(1)** No licensed dealer shall sell or provide a narcotic that is not a drug within the meaning of section 2 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md), unless the narcotic is labelled in accordance with the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md).
-
-- **(2)** No licensed dealer shall sell or provide a narcotic, other than a preparation described in section 36, unless the narcotic is securely packed in its immediate container. The container shall be sealed in such a manner that it cannot be opened without breaking the seal.
-> SOR/80-547, s. 1; SOR/2004-237, s. 13; SOR/2010-221, s. 13.
+**28** A licensed dealer must not sell or provide a narcotic, other than a preparation described in section 36, unless the narcotic is securely packed in its immediate container. The container must be sealed in such a manner that it cannot be opened without breaking the seal.
+> SOR/80-547, s. 1; SOR/2004-237, s. 13; SOR/2010-221, s. 13; SOR/2017-18, s. 24.
 
 
 
@@ -1156,8 +1152,8 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 - **(4)** Subject to subsection (5), the Minister may issue the notice described in subsection (1) to the persons and authorities specified in subsection (3), if the Minister, on reasonable grounds, believes that the practitioner named in the notice
 	- **(a)** has contravened any of the provisions of section 53, 54 or 55 or paragraphs 70(a) and (b);
-	- **(a.1)** has performed an activity referred to in section 128 of the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md) in regard to a person who is not under their professional treatment;
-	- **(a.2)** has contravened section 129 or 130 of those Regulations;
+	- **(a.1)** has performed an activity referred to in section 7 of the [Access to Cannabis for Medical Purposes Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/230.md) in regard to a person who is not under their professional treatment;
+	- **(a.2)** has contravened section 8 or 9 of those Regulations;
 	- **(b)** has, on more than one occasion, self-administered a narcotic, other than a verbal prescription narcotic, under a self-directed prescription or order or, in the absence of a prescription or order, contrary to accepted medical, dental or veterinary practice;
 	- **(c)** has, on more than one occasion, self-administered a verbal prescription narcotic under a self-directed prescription or order or, in the absence of a prescription or order, contrary to accepted medical, dental or veterinary practice;
 	- **(d)** has, on more than one occasion, prescribed, provided or administered a narcotic, other than a verbal prescription narcotic, to a person who is a spouse, common-law partner, parent or child of the practitioner, including a child adopted in fact, contrary to accepted medical, dental or veterinary practice;
@@ -1174,7 +1170,7 @@ that specifies the name and quantity of the narcotic to be supplied.
 - **(6)** In this section, ***health care practitioner*** means
 	- **(a)** a person who is registered and entitled under the laws of a province to practise medicine in that province; or
 	- **(b)** a nurse practitioner within the meaning of section 1 of the [New Classes of Practitioners Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2012/230.md) who is permitted to prescribe fresh or dried marihuana or cannabis oil in the province in which they practise.
-> SOR/2003-134, s. 5; SOR/2010-221, ss. 17, 18(F); SOR/2013-119, s. 222; SOR/2016-230, ss. 274, 278.
+> SOR/2003-134, s. 5; SOR/2010-221, ss. 17, 18(F); SOR/2013-119, s. 222; SOR/2016-230, ss. 274, 278; SOR/2017-18, s. 25.
 
 
 
