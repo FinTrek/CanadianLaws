@@ -2470,6 +2470,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Indian Island First Nation
 - Innue Essipit
 - Bande des Innus de Pessamit
+- Iskatewizaagegan #39 Independent First Nation
 - Jean Marie River First Nation
 - Kahkewistahaw First Nation
 - Kanaka Bar
@@ -2481,6 +2482,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Kwadacha
 - Kwantlen First Nation
 - Kwaw-Kwaw-Apilt First Nation
+- Kwikwetlem First Nation
 - Lac La Ronge Indian Band
 - Lake St. Martin
 - Lax Kw’alaams
@@ -2547,6 +2549,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Poplar River First Nation
 - Quatsino
 - Rainy River First Nations
+- Red Pheasant Cree Nation
 - Red Sucker Lake First Nation
 - Rolling River First Nation
 - Roseau River Anishinabe First Nation Government
@@ -2562,6 +2565,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Serpent River First Nation
 - Seton Lake
 - Shackan First Nation
+- Sheshegwaning First Nation
 - Shuswap First Nation
 - Shxwhá:y Village First Nation
 - Shxw’ow’hamel First Nation
@@ -2572,6 +2576,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Skawahlook First Nation
 - Skeetchestn Indian Band
 - Skidegate First Nation
+- Skin Tyee Nation
 - Skowkale First Nation
 - Skownan First Nation
 - Skwah
@@ -2606,6 +2611,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Tzeachten First Nation
 - Upper Nicola Indian Band
 - Wahgoshig
+- Wasagamack First Nation
 - Wasauksing First Nation
 - Waywayseecappo First Nation Treaty 4-1874
 - Wet’suwet’en First Nation
@@ -2616,9 +2622,10 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Whitefish River First Nation
 - Williams Lake
 - Wunnumin
+- Wuskwi Sipihk First Nation
 - Xaxli’p
 - Yakweakwioose First Nation
 - Yellow Quill Band
-> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30, 122, 273; SOR/2013-59, 176; SOR/2014-77, 208; SOR/2015-52, 94; SOR/2016-8, 213, 303.
+> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30, 122, 273; SOR/2013-59, 176; SOR/2014-77, 208; SOR/2015-52, 94; SOR/2016-8, 213, 303; SOR/2017-23.
 
 
