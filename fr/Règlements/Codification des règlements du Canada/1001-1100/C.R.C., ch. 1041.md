@@ -1426,14 +1426,16 @@ qui précise le nom et la quantité du stupéfiant demandé.
 - **(30)** pholcodine ([morpholinyl-4)-2 éthyl]-3 morphine)
 - **(31)** thébacone (acétyldihydrocodéinone)
 - mais non compris :
-- **(32)** apomorphine (tétrahydro-5,6,6a,7 méthyl-6 4H-dibenzo[de,g]quinoline diol-10,11)
-- **(33)** cyprénorphine (N-(cyclopropylméthyl) tétrahydro-6,7,8,14 (hydroxy-1 méthyl-1 éthyl)-7α endo-6,14 éthénonororipavine)
+- **(32)** apomorphine (tétrahydro-5,6,6a,7 méthyl-6 4H-dibenzo[de,g]quinoline diol-10,11) et ses sels
+- **(33)** cyprénorphine (N-(cyclopropylméthyl) tétrahydro-6,7,8,14 (hydroxy-1 méthyl-1 éthyl)-7α endo-6,14 éthénonororipavine) et ses sels
 - **(33.1)** [Abrogé, DORS/2016-239, art. 8]
-- **(34)** nalméfène ((cyclopropylméthyl)-17 époxy-4,5α méthylènemorphinan-6 diol-3,14)
-- **(34.1)** naloxone (époxy–4,5α dihydroxy–3,14 (propényl–2)–17 morphinanone–6)
-- **(34.2)** naltrexone ((cyclopropylméthyl)–17 époxy-4,5α dihydroxy-3,14 morphinanone–6)
-- **(35)** narcotine (diméthoxy-6,7 (tétrahydro-5,6,7,8 méthoxy-4 méthyl-6 dioxolo-1,3[4,5-g]isoquinolinyl-5)-3 1(3H)-isobenzofuranone)
-- **(36)** papavérine ([(diméthoxy-3,4 phényl) méthyl]-1 diméthoxy-6,7 isoquinoline)
+- **(34)** nalméfène ((cyclopropylméthyl)-17 époxy-4,5α méthylènemorphinan-6 diol-3,14) et ses sels
+- **(34.1)** naloxone (époxy-4,5α dihydroxy-3,14 (propényl-2)-17 morphinanone-6) et ses sels
+- **(34.2)** naltrexone ((cyclopropylméthyl)-17 époxy-4,5α dihydroxy-3,14 morphinanone-6) et ses sels
+- **(34.3)** méthylnaltrexone ((cyclopropylméthyl)-17 époxy-4,5α dihydroxy-3,14-méthyl-17-oxomorphinanium-6) et ses sels
+- **(34.4)** naloxégol (époxy-4,5α-(heptaoxadocos-3,6,9,12,15,18,21-yloxy-1)-6(propényl-2)-17-morphinane-diol-3,14) et ses sels
+- **(35)** narcotine (diméthoxy-6,7 (tétrahydro-5,6,7,8 méthoxy-4 méthyl-6 dioxolo-1,3[4,5-g]isoquinolinyl-5)-3 1(3H)-isobenzofuranone) et ses sels
+- **(36)** papavérine ([(diméthoxy-3,4 phényl) méthyl]-1 diméthoxy-6,7 isoquinoline) et ses sels
 - **(37)** graine de pavot
 - **2** Coca (érythroxylone), ainsi que ses préparations, dérivés, alcaloïdes et sels, notamment :
 - **(1)** feuilles de coca
@@ -1463,14 +1465,14 @@ qui précise le nom et la quantité du stupéfiant demandé.
 - **(21)** trimépéridine (triméthyl-1,2,5 phényl-4 propionoxy-4 pipéridine)
 - **(22)** péthidine intermédiaire C (l’acide méthyl-1 phényl-4 pipéridine carboxylique-4)
 - mais non compris :
-- **(23)** carbaméthidine (ester éthylique de l’acide (carbaméthyl-2 phényl)-4 pipéridine carboxylique-4)
-- **(24)** oxphénéridine (ester éthylique de l’acide (hydroxy-2 phényléthyl-2) phényl-4 pipéridine carboxylique-4)
+- **(23)** carpéridine (ester éthylique de l’acide (carbamyléthyl-2 phényl)-4 pipéridine carboxylique-4) et ses sels
+- **(24)** oxphénéridine (ester éthylique de l’acide (hydroxy-2 phényléthyl-2) phényl-4 pipéridine carboxylique-4) et ses sels
 - **4** Phénazépines, leurs sels et dérivés, ainsi que les sels de leurs dérivés, notamment :
 - **(1)** proheptazine (diméthyl-1,3 phényl-4 propionoxy-4 azacycloheptane)
 - mais non compris :
-- **(2)** éthoheptazine (ester éthylique de l’acide méthyl-1 phényl-4 azépine carboxylique-4)
-- **(3)** météthoheptazine (ester éthylique de l’acide (hexahydro-1,2) phényl-4 pipéridine carboxylique-4 diméthyl-1,3
-- **(4)** métheptazine (ester éthylique de l’acide hexahydro diméthyl-1,2 phénylazépine-4 carboxylique-4)
+- **(2)** éthoheptazine (ester éthylique de l’acide méthyl-1 phényl-4 azépine carboxylique-4) et ses sels
+- **(3)** météthoheptazine (ester éthylique de l’acide (hexahydro-1,2) phényl-4 pipéridine carboxylique-4 diméthyl-1,3) et ses sels
+- **(4)** métheptazine (ester éthylique de l’acide hexahydro diméthyl-1,2 phénylazépine-4 carboxylique-4) et ses sels
 - **5** Amidones, leurs sels, intermédiaires et dérivés, ainsi que les sels de leurs intermédiaires et dérivés, notamment :
 - **(1)** diméthylaminodiphénylbutanonitrile (cyano-4 diméthylamino-2 diphénylbutane-4,4)
 - **(2)** dipipanone (diphényl-4,4 pipéridino-6 heptanone-3)
@@ -1511,18 +1513,18 @@ qui précise le nom et la quantité du stupéfiant demandé.
 - **(8)** racéméthorphane (d,1-méthoxy-3 méthyl-17 morphinane)
 - **(9)** racémorphane (d,1-hydroxy-3 méthyl-17 morphinane)
 - mais non compris :
-- **(10)** dextrométhorphane (d-méthoxy-3 N-méthyl-morphinane)
-- **(11)** dextrorphane (d-hydroxy-3 N-méthylmorphinane)
-- **(12)** lévallorphane (1-hydroxy-3 N-allylmorphinane)
-- **(13)** lévargorphane (1-hydroxy-3 N-propargylmorphinane)
-- **(14)** butorphanol ((cyclobutylméthyl)-17 morphinanediol-3,14)
-- **(15)** nalbuphine ((cyclobutylméthyl)-17 époxy-4,5α morphinanetriol-3, 6α, 14)
+- **(10)** dextrométhorphane (*d*-méthoxy-3 N-méthylmorphinane) et ses sels
+- **(11)** dextrorphane (*d*-hydroxy-3 N-méthylmorphinane) et ses sels
+- **(12)** lévallorphane (*l*-hydroxy-3 N-allylmorphinane) et ses sels
+- **(13)** lévargorphane (*l*-hydroxy-3 N-propargylmorphinane) et ses sels
+- **(14)** butorphanol (*l*–N-cyclobutylméthyl dihydroxy-3,14 morphinane) et ses sels
+- **(15)** nalbuphine (N-cyclobutylméthyl époxy-4,5 morphinanetriol-3,6,14) et ses sels
 - **11** Benzazocines, leurs sels et dérivés, ainsi que les sels de leurs dérivés, notamment :
 - **(1)** phénazocine (hexahydro-1,2,3,4,5,6 diméthyl-6,11 phénéthyl-3 méthano-2,6 benzazocin-3 ol-8)
 - **(2)** métazocine (hexahydro-1,2,3,4,5,6 triméthyl-3,6,11 méthano-2,6 benzazocin-3 ol-8)
 - **(3)** pentazocine (hexahydro-1,2,3,4,5,6 diméthyl-6,11 (méthyl-3 butényl-2)-3 méthano-2,6 benzazocin-3 ol-8)
 - mais non compris :
-- **(4)** cyclazocine (hexahydro-1,2,3,4,5,6 diméthyl-6,11 (cyclopropylméthyl)-3 méthano-2,6 benzazocin-3 ol-8)
+- **(4)** cyclazocine (hexahydro-1,2,3,4,5,6 diméthyl-6,11 (cyclopropylméthyl)-3 méthano-2,6 benzazocin-3 ol-8) et ses sels
 - **12** Ampromides, leurs sels et dérivés, ainsi que les sels de leurs dérivés, notamment :
 - **(1)** diampromide (N-[(méthylphénéthylamino)-2 propyl] propionanilide)
 - **(2)** phénampromide (N-(méthyl-1 pipéridino-2 éthyl) propionanilide)
@@ -1606,6 +1608,6 @@ qui précise le nom et la quantité du stupéfiant demandé.
 - **(i)** N-(adamantan-1-yl)-1-fluoropentylindole-3-carboxamide (STS-135)
 - **(ii)** N-(adamantan-1-yl)-1-pentylindole-3-carboxamide (APICA)
 - **18.1** Tapentadol (3-[(1R,2R)-3-(diméthylamino)-1-éthyl-2-méthylpropyl]-phénol), ses sels, dérivés et isomères, ainsi que les sels de ses dérivés et isomères
-> DORS/97-227, art. 5; DORS/98-158, art. 1; DORS/99-372, art. 1 et 2; DORS/2000-244, art. 1(A); DORS/2003-33, art. 1; DORS/2005-272, art. 1; DORS/2013-172, art. 9; DORS/2015-189, art. 1; DORS/2015-191, art. 1 et 2; DORS/2016-230, art. 279; DORS/2016-239, art. 8.
+> DORS/97-227, art. 5; DORS/98-158, art. 1; DORS/99-372, art. 1 et 2; DORS/2000-244, art. 1(A); DORS/2003-33, art. 1; DORS/2005-272, art. 1; DORS/2013-172, art. 9; DORS/2015-189, art. 1; DORS/2015-191, art. 1 et 2; DORS/2016-230, art. 279; DORS/2016-239, art. 8; DORS/2017-12, art. 5 à 9.
 
 
