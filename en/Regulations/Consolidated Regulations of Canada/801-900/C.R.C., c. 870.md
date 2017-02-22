@@ -1820,16 +1820,16 @@ in letters of at least the same size and prominence as the letters used in the n
 
 **B.01.035** 
 
-- **(1)** Subject to subsection (8), where an irradiated food referred to in Column I of the table to Division 26 is offered for sale as a prepackaged product, the principal display panel of the label applied to the package shall carry the symbol described in subsection (5).
+- **(1)** Subject to subsection (8), where an irradiated food referred to in column 1 of the table to Division 26 is offered for sale as a prepackaged product, the principal display panel of the label applied to the package shall carry the symbol described in subsection (5).
 
-- **(2)** Where an irradiated food referred to in Column I of the table to Division 26 is not a prepackaged product and is offered for sale, a sign that carries the symbol described in subsection (5) shall be displayed immediately next to the food.
+- **(2)** Where an irradiated food referred to in column 1 of the table to Division 26 is not a prepackaged product and is offered for sale, a sign that carries the symbol described in subsection (5) shall be displayed immediately next to the food.
 
 - **(3)** The symbol required pursuant to subsection (1) or (2) shall appear in close proximity on the principal display panel referred to in subsection (1) or on the sign referred to in subsection (2) to one of the following statements or a written statement that has the same meaning:
 	- **(a)** “treated with radiation”;
 	- **(b)** “treated by irradiation”; or
 	- **(c)** “irradiated”.
 
-- **(4)** No person shall sell a food referred to in Column I of the table to Division 26 that has been irradiated in the manner set out in subsection B.26.003(2) unless the requirements of subsections (1) to (3) are met.
+- **(4)** No person shall sell a food referred to in column 1 of the table to Division 26 that has been irradiated in the manner set out in subsection B.26.003(2) unless the requirements of subsections (1) to (3) are met.
 
 - **(5)** For the purposes of subsections (1) to (3), the symbol that indicates the irradiated food shall
 	- **(a)** have an outer diameter
@@ -1839,16 +1839,16 @@ in letters of at least the same size and prominence as the letters used in the n
 > Image: Symbol for irradiated food consisting of a plant in a circle in which the top half of the circle is dashed.
 
 
-- **(6)** Notwithstanding subsection B.01.009(1), any food referred to in Column I of the table to Division 26 that is an ingredient or component of a prepackaged product and that has been irradiated shall, if the food constitutes 10 per cent or more of the prepackaged product, be included in the list of ingredients and preceded by the statement “irradiated”.
+- **(6)** Notwithstanding subsection B.01.009(1), any food referred to in column 1 of the table to Division 26 that is an ingredient or component of a prepackaged product and that has been irradiated shall, if the food constitutes 10 per cent or more of the prepackaged product, be included in the list of ingredients and preceded by the statement “irradiated”.
 
-- **(7)** The label attached to a shipping container containing any food referred to in Column I of the table to Division 26 that has been subjected to the maximum permitted absorbed dose set out in Column IV of that table shall carry the statement required by subsection (3) and the statement “Do not irradiate again”.
+- **(7)** The label attached to a shipping container that contains a food set out in column 1 of the table to Division 26 that has been subjected to the maximum absorbed dose set out in column 5 shall carry the statement that is required by subsection (3) and the statement “Do not irradiate again.”.
 
 - **(8)** Where a shipping container constitutes the package of the prepackaged product, the label attached to the shipping container shall carry the statement required by subsection (7) but need not carry the symbol required by subsection (5).
 
-- **(9)** Any advertising of an irradiated food referred to in Column I of the table to Division 26 shall identify the food as having been irradiated.
+- **(9)** Any advertising of an irradiated food referred to in column 1 of the table to Division 26 shall identify the food as having been irradiated.
 
 - **(10)** The statements referred to in subsections (3) and (6) to (8) shall be in both official languages in accordance with subsection B.01.012(2).
-> SOR/89-172, s. 1.
+> SOR/89-172, s. 1; SOR/2017-16, s. 1.
 
 
 
@@ -24609,17 +24609,12 @@ and only the L forms of the amino acids have been added.
 
 
 #### Interpretation
+> [SOR/2017-16, s. 2(F)]
 
 
-**B.26.001** In this Division,
 
-***ionizing radiation*** means
-- **(a)** gamma-radiation from a Cobalt-60 or Cesium-137 source,
-- **(b)** X-rays generated from a machine source operated at or below an energy level of 5 MeV, and
-- **(c)** electrons generated from a machine source operated at or below an energy level of 10 MeV; (*rayonnement ionisant*)
-
-***irradiation*** means treatment with ionizing radiation. (*irradiation*)
-> SOR/89-175, s. 3.
+**B.26.001** In this Division, ***irradiation*** means treatment with ionizing radiation.
+> SOR/89-175, s. 3; SOR/2017-16, s. 3.
 
 
 
@@ -24642,10 +24637,10 @@ and only the L forms of the amino acids have been added.
 
 - **(1)** Subject to subsection (2), no person shall sell a food that has been irradiated.
 
-- **(2)** A food set out in Column I of an item of the table to this Division that has been irradiated may be sold if
-	- **(a)** the food was irradiated from a source set out in Column II of that item for the purpose set out in Column III of that item; and
-	- **(b)** the dose of ionizing radiation absorbed by the food is within the permitted absorbed dose set out in Column IV of that item.
-> SOR/89-175, s. 3.
+- **(2)** A food that is set out in column 1 of the table to this Division that has been irradiated may be sold if both of the following requirements are met:
+	- **(a)** the ionizing radiation is of a type and from a source set out in column 2 for the purpose of irradiation set out in column 3; and
+	- **(b)** the ionizing radiation that is absorbed by the food is either within the range set out in columns 4 and 5 or, if there is no minimum absorbed dose set out in column 4, is not more than the maximum absorbed dose set out in column 5.
+> SOR/89-175, s. 3; SOR/2017-16, s. 4.
 
 
 
@@ -24656,16 +24651,16 @@ and only the L forms of the amino acids have been added.
 
 **B.26.004** 
 
-- **(1)** A manufacturer who sells a food that has been irradiated shall keep on his premises, for at least two years after the date of the irradiation, a record containing the following information:
-	- **(a)** the food irradiated and the quantity and lot numbers of the food;
+- **(1)** A manufacturer who sells a food that has been irradiated shall keep on their premises, for at least two years after the date of the irradiation, a record that contains all of the following information:
+	- **(a)** the name of the food that was irradiated and the quantity and lot numbers of the food;
 	- **(b)** the purpose of the irradiation;
 	- **(c)** the date of the irradiation;
-	- **(d)** the dose of ionizing radiation absorbed by the food;
-	- **(e)** the source of the ionizing radiation; and
-	- **(f)** a statement indicating whether the food was irradiated prior to the irradiation by the manufacturer and, if so, the information referred to in paragraphs (a) to (e) in respect of that prior irradiation.
+	- **(d)** the dose of ionizing radiation that was absorbed by the food;
+	- **(e)** the type and source of the ionizing radiation;
+	- **(f)** a statement that indicates whether the food was previously irradiated and, if it was previously irradiated, the information referred to in paragraphs (a) to (e) in respect of that previous irradiation.
 
-- **(2)** Every person who imports a food that is intended for sale in Canada that has been irradiated shall keep on his premises a record of the information referred to in subsection (1) for at least two years after the date of importation.
-> SOR/89-175, s. 3.
+- **(2)** A person who imports a food for sale in Canada that has been irradiated shall keep on their premises, for at least two years after the date of importation, a record of the information required by subsection (1).
+> SOR/89-175, s. 3; SOR/2017-16, s. 5.
 
 
 
@@ -24675,7 +24670,7 @@ and only the L forms of the amino acids have been added.
 
 
 **B.26.005** A request that a food be added or a change made to the table to this Division shall be accompanied by a submission to the Director containing the following information:
-- **(a)** the purpose and details of the proposed irradiation, including the source of ionizing radiation and the proposed frequency of and minimum and maximum dose of ionizing radiation;
+- **(a)** the purpose and details of the proposed irradiation — including the type and source of the ionizing radiation — and the proposed number of treatments and the minimum and maximum absorbed doses of the ionizing radiation;
 - **(b)** data indicating that the minimum dose of ionizing radiation proposed to be used accomplishes the intended purpose of the irradiation and the maximum dose of ionizing radiation proposed does not exceed the amount required to accomplish the purpose of the irradiation;
 - **(c)** information on the nature of the dosimeter used, the frequency of the dosimetry on the food and data pertaining to the dosimetry and phantoms used to assure that the dosimetry readings reflect the dose absorbed by the food during irradiation;
 - **(d)** data indicating the effects, if any, on the nutritional quality of the food, raw and ready-to-serve, under the proposed conditions of irradiation and any other processes that are combined with the irradiation;
@@ -24688,48 +24683,244 @@ and only the L forms of the amino acids have been added.
 <table>
 <tr>
 <th>Item</th>
-<th>Column I</th>
-<th>Column II</th>
-<th>Column III</th>
-<th>Column IV</th>
+<th>Column 1</th>
+<th>Column 2</th>
+<th>Column 3</th>
+<th>Column 4</th>
+<th>Column 5</th>
 </tr>
 <tr>
 <th>Food</th>
-<th>Permitted Sources of Ionizing Radiation</th>
-<th>Purpose of Treatment</th>
-<th>Permitted Absorbed Dose</th>
+<th>Type and Source of Ionizing Radiation</th>
+<th>Purpose of Irradiation</th>
+<th>Minimum Absorbed Dose (kGy)</th>
+<th>Maximum Absorbed Dose (kGy)</th>
 </tr>
 <tr>
 <td>1</td>
-<td>Potatoes (*Solanum tuberosum L.*)</td>
-<td>Cobalt-60</td>
+<td>Potatoes (*Solanum tuberosum* L.)</td>
+<td>Gamma radiation from cobalt-60</td>
 <td>To inhibit sprouting during storage</td>
-<td>0.15 kGy max.</td>
+<td></td>
+<td>0.15</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Onions (*Allium cepa*)</td>
-<td>Cobalt-60</td>
+<td>Gamma radiation from cobalt-60</td>
 <td>To inhibit sprouting during storage</td>
-<td>0.15 kGy max.</td>
+<td></td>
+<td>0.15</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Wheat, Flour, Whole Wheat Flour (*Triticum sp.*)</td>
-<td>Cobalt-60</td>
+<td>Wheat, flour, whole wheat flour (*Triticum* spp.)</td>
+<td>Gamma radiation from cobalt-60</td>
 <td>To control insect infestation in stored food</td>
-<td>0.75 kGy max.</td>
+<td></td>
+<td>0.75</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Whole or ground spices and dehydrated seasoning preparations</td>
-<td>Cobalt-60, Cesium-137, or electrons from machine sources (3 MeV max.)</td>
-<td>To reduce microbial load</td>
-<td>10.00 kGy max. total overall average dose</td>
+<td>**(1)** Gamma radiation from cobalt-60
+
+</td>
+<td>**(1)** To reduce microbial load
+
+</td>
+<td></td>
+<td>**(1)** 10.0 (total overall average dose)
+
+</td>
+</tr>
+<tr>
+<td>**(2)** Gamma radiation from cesium-137
+
+</td>
+<td>**(2)** To reduce microbial load
+
+</td>
+<td></td>
+<td>**(2)** 10.0 (total overall average dose)
+
+</td>
+</tr>
+<tr>
+<td>**(3)** Electrons from machine sources operated at or below 3 MeV
+
+</td>
+<td>**(3)** To reduce microbial load
+
+</td>
+<td></td>
+<td>**(3)** 10.0 (total overall average dose)
+
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Fresh raw ground beef</td>
+<td>**(1)** Gamma radiation from cobalt-60
+
+</td>
+<td>**(1)** To reduce microbial load, including pathogens
+
+</td>
+<td>**(1)** 1.0
+
+</td>
+<td>**(1)** 4.5
+
+</td>
+</tr>
+<tr>
+<td>**(2)** Gamma radiation from cesium-137
+
+</td>
+<td>**(2)** To reduce microbial load, including pathogens
+
+</td>
+<td>**(2)** 1.0
+
+</td>
+<td>**(2)** 4.5
+
+</td>
+</tr>
+<tr>
+<td>**(3)** Electrons from machine sources operated at or below 10 MeV
+
+</td>
+<td>**(3)** To reduce microbial load, including pathogens
+
+</td>
+<td>**(3)** 1.0
+
+</td>
+<td>**(3)** 4.5
+
+</td>
+</tr>
+<tr>
+<td>**(4)** X-rays from machine sources operated at or below one of the following:
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(a)** 7.5 MeV when the target material is tantalum or gold;
+
+</td>
+<td>**(a)** To reduce microbial load, including pathogens;
+
+</td>
+<td>**(a)** 1.0
+
+</td>
+<td>**(a)** 4.5
+
+</td>
+</tr>
+<tr>
+<td>**(b)** 5 MeV in any other case.
+
+</td>
+<td>**(b)** To reduce microbial load, including pathogens.
+
+</td>
+<td>**(b)** 1.0
+
+</td>
+<td>**(b)** 4.5
+
+</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Frozen raw ground beef</td>
+<td>**(1)** Gamma radiation from cobalt-60
+
+</td>
+<td>**(1)** To reduce microbial load, including pathogens
+
+</td>
+<td>**(1)** 1.5
+
+</td>
+<td>**(1)** 7.0
+
+</td>
+</tr>
+<tr>
+<td>**(2)** Gamma radiation from cesium-137
+
+</td>
+<td>**(2)** To reduce microbial load, including pathogens
+
+</td>
+<td>**(2)** 1.5
+
+</td>
+<td>**(2)** 7.0
+
+</td>
+</tr>
+<tr>
+<td>**(3)** Electrons from machine sources operated at or below 10 MeV
+
+</td>
+<td>**(3)** To reduce microbial load, including pathogens
+
+</td>
+<td>**(3)** 1.5
+
+</td>
+<td>**(3)** 7.0
+
+</td>
+</tr>
+<tr>
+<td>**(4)** X-rays from machine sources operated at or below one of the following:
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(a)** 7.5 MeV when the target material is tantalum or gold;
+
+</td>
+<td>**(a)** To reduce microbial load, including pathogens;
+
+</td>
+<td>**(a)** 1.5
+
+</td>
+<td>**(a)** 7.0
+
+</td>
+</tr>
+<tr>
+<td>**(b)** 5 MeV in any other case.
+
+</td>
+<td>**(b)** To reduce microbial load, including pathogens.
+
+</td>
+<td>**(b)** 1.5
+
+</td>
+<td>**(b)** 7.0
+
+</td>
 </tr>
 </table>
 
-> SOR/89-175, s. 3; SOR/98-458, s. 7(F).
+> SOR/89-175, s. 3; SOR/98-458, s. 7(F); SOR/2017-16, ss. 6, 7.
 
 
 
@@ -35147,13 +35338,13 @@ the Minister may issue a registration number for the test kit, which shall be a 
 
 **PART II** 
 
-- **1** Barbiturates, their salts and derivatives, excluding the substances set out in items 6 and 7 of Part I but including:
+- **1** Barbiturates, their salts and derivatives, excluding the substances set out in items 6 and 7 of Part I of this schedule, as well as barbituric acid (2,4,6(1H,3H,5H)-pyrimidinetrione) and its salts and 1,3-dimethylbarbituric acid (1,3-dimethyl-2,4,6(1H,3H,5H)-pyrimidinetrione) and its salts, but including
 - **(1)** Allobarbital (5,5-diallylbarbituric acid)
 - **(2)** Alphenal (5-allyl-5-phenylbarbituric acid)
 - **(3)** Amobarbital (5-ethyl-5-(3-methylbutyl)barbituric acid)
 - **(4)** Aprobarbital (5-allyl-5-isopropylbarbituric acid)
 - **(5)** Barbital (5,5-diethylbarbituric acid)
-- **(6)** Barbituric Acid (2,4,6(1H,3H,5H)-pyrimidinetrione)
+- **(6)** [Repealed, SOR/2017-12, s. 1]
 - **(7)** Butabarbital (5-sec-butyl-5-ethylbarbituric acid)
 - **(8)** Butalbital (5-allyl-5-isobutylbarbituric acid)
 - **(9)** Butallylonal (5-(2-bromoallyl)-5-sec-butylbarbituric acid)
@@ -35182,7 +35373,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 - **3** Chlorphentermine (1-(p-chlorophenyl)-2-methyl-2-aminopropane) and any salt thereof
 - **4** Diethylpropion (2-(diethylamino)propiophenone) and any salt thereof
 - **5** Phentermine (α,α-dimethylbenzeneethanamine) and any salt thereof
-- **6** Butorphanol (1-N-cyclobutylmethyl-3,14-dihydroxy-morphinan) and any salt thereof
+- **6** Butorphanol (1-N-cyclobutylmethyl-3,14-dihydroxymorphinan) and its salts
 - **7** Nalbuphine (N-cyclobutylmethyl-4,5-epoxy-morphinan-3,6,14-triol) and any salt thereof
 - **8** Pyrovalerone (4′-methyl-2-(1-pyrrolidinyl)valerophenone) and any salt thereof
 
@@ -35233,7 +35424,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 - **(42)** Tiomesterone (1α,7α-bis(acetylthio)-17ß-hydroxy-17-methylandrost-4-en-3-one)
 - **(43)** Trenbolone (17ß-hydroxyestra-4,9,11-trien-3-one)
 - **2** Zeranol (3,4,5,6,7,8,9,10,11,12-decahydro-7,14,16-trihydroxy-3-methyl-1H-2-benzoxacyclotetradecin-1-one)
-> SOR/78-427, s. 10; SOR/79-753, s. 1; SOR/81-84, s. 1; SOR/85-550, s. 14(F); SOR/86-678, s. 1; SOR/89-381, s. 1; SOR/92-386, s. 3; SOR/97-228, s. 21; SOR/99-425, s. 1; SOR/2003-34, ss. 2, 3; SOR/2003-413, s. 2; SOR/2015-210, s. 1; SOR/2016-106, s. 1.
+> SOR/78-427, s. 10; SOR/79-753, s. 1; SOR/81-84, s. 1; SOR/85-550, s. 14(F); SOR/86-678, s. 1; SOR/89-381, s. 1; SOR/92-386, s. 3; SOR/97-228, s. 21; SOR/99-425, s. 1; SOR/2003-34, ss. 2, 3; SOR/2003-413, s. 2; SOR/2015-210, s. 1; SOR/2016-106, s. 1; SOR/2017-12, ss. 1, 2(E).
 
 
 
@@ -35957,7 +36148,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 - **20** Benzylpiperazine [BZP], namely 1-benzylpiperazine and its salts, isomers and salts of isomers
 - **21** Trifluoromethylphenylpiperazine [TFMPP], namely 1-(3-trifluoromethylphenyl)piperazine and its salts, isomers and salts of isomers
 - **22** Methylenedioxypyrovalerone (MDPV), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues
-- **23** [Repealed, SOR/2016-239, s. 1]
+- **23** Cathinone ((-)-α-aminopropiophenone) and its salts
 - **24** 2C-phenethylamines and their salts, derivatives, isomers and salts of derivatives and isomers that correspond to the following chemical description:
 - any substance that has a 1-amino-2-phenylethane structure substituted at the 2’ and 5’ or 2’ and 6’ positions of the benzene ring by an alkoxy or haloalkoxy group, or substituted at two adjacent carbon atoms of the benzene ring which results in the formation of a furan, dihydrofuran, pyran, dihydropyran or methylenedioxy group — whether or not further substituted on the benzene ring to any extent, whether or not substituted at the amino group by one or two, or a combination of, methyl, ethyl, propyl, isopropyl, hydroxyl, benzyl (or benzyl substituted to any extent) or benzylene (or benzylene substituted to any extent) groups and whether or not substituted at the 2-ethyl (beta carbon) position by a hydroxyl, oxo or alkoxy group — and its salts and derivatives and salts of derivatives, including
 - **(1)** 4-bromo-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine (25B-NBOMe)
@@ -35978,7 +36169,11 @@ the Minister may issue a registration number for the test kit, which shall be a 
 
 - **1** Salvia divinorum (S. divinorum), its preparations and derivatives, including:
 - **(1)** Salvinorin A ((2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acetyloxy)-2-(3-furanyl)dodecahydro-6a,10b-dimethyl-4,10-dioxo-2H-naphtho[2,1-c]pyran-7-carboxylic acid methyl ester)
-> SOR/97-228, s. 25; SOR/2003-34, ss. 4, 5; SOR/2012-65, s. 1; SOR/2012-177, s. 1; SOR/2013-172, s. 2; SOR/2015-210, ss. 4 to 6; SOR/2016-72, s. 1; SOR/2016-106, s. 2; SOR/2016-239, s. 1.
+- **2** *Catha edulis* Forsk, its preparations, derivatives, alkaloids and salts, including 
+- **(1)** Cathine (*d*-threo-2-amino-1-hydroxy-1-phenylpropane)
+- but not including
+- **(2)** Cathinone ((-)-α-aminopropiophenone) and its salts
+> SOR/97-228, s. 25; SOR/2003-34, ss. 4, 5; SOR/2012-65, s. 1; SOR/2012-177, s. 1; SOR/2013-172, s. 2; SOR/2015-210, ss. 4 to 6; SOR/2016-72, s. 1; SOR/2016-106, s. 2; SOR/2016-239, s. 1; SOR/2017-12, ss. 3, 4.
 
 
 
