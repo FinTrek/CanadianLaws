@@ -1654,13 +1654,15 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **(30)** Pholcodine (3–[2–(4–morpholinyl)ethyl]morphine)
 - **(31)** Thebacon (acetyldihydrocodeinone)
 - but not including
-- **(32)** Apomorphine (5,6,6a,7–tetrahydro–6–methyl–4H–dibenzo[de,g]quinoline–10,11–diol)
-- **(33)** Cyprenorphine (N–(cyclopropylmethyl)–6,7,8,14–tetrahydro–7α–(1–hydroxy–1–methylethyl)–6,14–endo–ethenonororipavine)
-- **(34)** Nalmefene (17-(cyclopropylmethyl)-4,5α-epoxy-6-methylenemorphinan-3,14-diol)
-- **(34.1)** Naloxone (4,5α-epoxy-3,14-dihydroxy-17-(2-propenyl)morphinan-6-one)
-- **(34.2)** Naltrexone (17-(cyclopropylmethyl)-4,5α-epoxy-3,14-dihydroxymorphinan-6-one)
-- **(35)** Narcotine (6,7–dimethoxy–3–(5,6,7,8–tetra-hydro–4–methoxy–6–methyl–1,3–dioxolos [4,5–g]isoquinolin–5–yl)–1(3H)–isobenzofuranone)
-- **(36)** Papaverine (1–[(3,4–dimethoxyphenyl)methyl]–6,7–dimethoxyisoquinoline)
+- **(32)** Apomorphine (5,6,6a,7-tetrahydro-6-methyl-4H-dibenzo[de,g]quinoline-10,11-diol) and its salts
+- **(33)** Cyprenorphine (N-(cyclopropylmethyl)-6,7,8,14-tetrahydro-7α-(1-hydroxy-1-methylethyl)-6,14-endo-ethenonororipavine) and its salts
+- **(34)** Nalmefene (17-(cyclopropylmethyl)-4,5α-epoxy-6-methylenemorphinan-3,14-diol) and its salts
+- **(34.1)** Naloxone (4,5α-epoxy-3,14-dihydroxy-17-(2-propenyl)morphinan-6-one) and its salts
+- **(34.2)** Naltrexone (17-(cyclopropylmethyl)-4,5α-epoxy-3,14-dihydroxymorphinan-6-one) and its salts
+- **(34.3)** Methylnaltrexone (17-(cyclopropylmethyl)-4,5α-epoxy-3,14-dihydroxy-17-methyl-6-oxomorphinanium) and its salts
+- **(34.4)** Naloxegol (4,5α-epoxy-6α-(3,6,9,12,15,18,21-heptaoxadocos-1-yloxy)-17-(2-propenyl)morphinan-3,14-diol) and its salts
+- **(35)** Narcotine (6,7-dimethoxy-3-(5,6,7,8-tetrahydro-4-methoxy-6-methyl-1,3-dioxolo [4,5-g]isoquinolin-5-yl)-1(3H)-isobenzofuranone) and its salts
+- **(36)** Papaverine (1-[(3,4-dimethoxyphenyl)methyl]-6,7-dimethoxyisoquinoline) and its salts
 - **(37)** Poppy seed
 - **2** Coca (Erythroxylon), its preparations, derivatives, alkaloids and salts, including:
 - **(1)** Coca leaves
@@ -1690,14 +1692,14 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **(21)** Trimeperidine (1,2,5–trimethyl–4–phenyl–4–piperidinol propionate)
 - **(22)** Pethidine Intermediate C (1–methyl–4–phenylpiperidine–4–carboxylate)
 - but not including
-- **(23)** Carbamethidine (ethyl 1–(2–carbamylethyl)–4–phenylpiperidine–4–carboxylate)
-- **(24)** Oxpheneridine (ethyl 1–(2–hydroxy–2–phenylethyl)–4–phenylpiperidine–4–carboxylate)
+- **(23)** Carperidine (ethyl 1-(2-carbamylethyl)-4-phenylpiperidine-4-carboxylate) and its salts
+- **(24)** Oxpheneridine (ethyl 1-(2-hydroxy-2-phenylethyl)-4-phenylpiperidine-4-carboxylate) and its salts
 - **4** Phenazepines, their salts, derivatives and salts of derivatives including:
 - **(1)** Proheptazine (hexahydro–1,3–dimethyl–4–phenyl–1H–azepin–4–ol propionate)
 - but not including
-- **(2)** Ethoheptazine (ethyl hexahydro–1–methyl–4–phenyl–azepine–4–carboxylate)
-- **(3)** Metethoheptazine (ethyl hexahydro–1,3–dimethyl–4–phenylazepine–4–carboxylate)
-- **(4)** Metheptazine (ethyl hexahydro–1,2–dimethyl–4–phenylazepine–4–carboxylate)
+- **(2)** Ethoheptazine (ethyl hexahydro-1-methyl-4-phenylazepine-4-carboxylate) and its salts
+- **(3)** Metethoheptazine (ethyl hexahydro-1,3-dimethyl-4-phenylazepine-4-carboxylate) and its salts
+- **(4)** Metheptazine (methylhexahydro-1,2-dimethyl-4-phenylazepine-4-carboxylate) and its salts
 - **5** Amidones, their intermediates, salts, derivatives and salts of intermediates and derivatives including:
 - **(1)** Dimethylaminodiphenylbutanonitrile (4–cyano–2–dimethylamino–4,4–diphenylbutane)
 - **(2)** Dipipanone (4,4–diphenyl–6–piperidino–3–heptanone)
@@ -1738,18 +1740,18 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **(8)** Racemethorphan (d,1–3–methoxy–17–methylmorphinan)
 - **(9)** Racemorphan (*d,l*–3–hydroxy–N–methylmorphinan)
 - but not including
-- **(10)** Dextromethorphan (d–1,2,3,9,10,10a–hexahydro–6–methoxy–11–methyl–4H–10,4a–iminoethano–phenanthren)
-- **(11)** Dextrorphan (d–1,2,3,9,10,10a–hexahydro–11–methyl–4H–10,4a–iminoethanophenanthren–6–ol)
-- **(12)** Levallorphan (l–11–allyl–1,2,3,9,10,10a–hexahydro–4H–10,4a–iminoethanophenanthren–6–ol)
-- **(13)** Levargorphan (l–11–propargyl–1,2,3,9,10,10a–hexahydro–4H–10,4a–iminoethanophenanthren–6–ol)
-- **(14)** Butorphanol (17–(cyclobutylmethyl)morphinan–3,14–diol)
-- **(15)** Nalbuphine (17–(cyclobutylmethyl)–4,5α–epoxymorphinan–3,6α, 14–triol)
+- **(10)** Dextromethorphan (*d*-1,2,3,9,10, 10a-hexahydro-6-methoxy-11-methyl-4H-10,4a-iminoethanophenanthren) and its salts
+- **(11)** Dextrorphan (*d*-1,2,3,9,10,10a-hexahydro-11-methyl-4H-10,4a-iminoethanophenanthren-6-ol) and its salts
+- **(12)** Levallorphan (*l*-11-allyl-1,2,3,9,10,10a-hexahydro-4H-10,4a-iminoethanophenanthren-6-ol) and its salts
+- **(13)** Levargorphan (*l*-11-propargyl-1,2,3,9,10,10a-hexahydro-4H-10,4a-iminoethanophenanthren-6-ol) and its salts
+- **(14)** Butorphanol (*l*-N-cyclobutylmethyl-3,14-dihydroxymorphinan) and its salts
+- **(15)** Nalbuphine (N-cyclobutylmethyl-4,5-epoxy-morphinan-3,6,14-triol) and its salts
 - **11** Benzazocines, their salts, derivatives and salts of derivatives including:
 - **(1)** Phenazocine (1,2,3,4,5,6–hexahydro–6,11–dimethyl–3–phenethyl–2,6–methano–3–benzazocin–8–ol)
 - **(2)** Metazocine (1,2,3,4,5,6–hexahydro–3,6,11–trimethyl–2,6–methano–3–benzazocin–8–ol)
 - **(3)** Pentazocine (1,2,3,4,5,6–hexahydro–6,11–dimethyl–3–(3–methyl–2–butenyl)–2,6–methano–3–benzazocin–8–ol)
 - but not including
-- **(4)** Cyclazocine (1,2,3,4,5,6–hexahydro–6,11–dimethyl–3–(cyclopropylmethyl)–2,6–methano–3–benzazocin–8–ol)
+- **(4)** Cyclazocine (1,2,3,4,5,6-hexahydro-6,11-dimethyl-3-(cyclopropylmethyl)-2,6-methano-3-benzazocin-8-ol) and its salts
 - **12** Ampromides, their salts, derivatives and salts of derivatives including:
 - **(1)** Diampromide (N–[2–(methylphenethylamino)propyl] propionanilide)
 - **(2)** Phenampromide (N–(1–methyl–2–piperidino) ethyl) propionanilide)
@@ -1813,7 +1815,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - but not including
 - **(5)** Lefetamine ((-)-N,N-dimethyl-α-phenylbenzeneethanamine), its salts, derivatives and isomers and salts of derivatives and isomers
 - **25** W-18 (4-chloro-N-[1-[2-(4-nitrophenyl)ethyl]-2-piperidinylidene]benzenesulfonamide), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues
-> 1996, c. 19, Sch. I; SOR/97-230, ss. 1 to 6; SOR/99-371, ss. 1, 2; SOR/99-421, s. 1(E); SOR/2005-235, s. 1; SOR/2005-271, 337; 2012, c. 1, s. 44; SOR/2012-176; SOR/2015-190; SOR/2016-107, s. 1.
+> 1996, c. 19, Sch. I; SOR/97-230, ss. 1 to 6; SOR/99-371, ss. 1, 2; SOR/99-421, s. 1(E); SOR/2005-235, s. 1; SOR/2005-271, 337; 2012, c. 1, s. 44; SOR/2012-176; SOR/2015-190; SOR/2016-107, s. 1; SOR/2017-13, ss. 1 to 5.
 
 
 
@@ -1902,7 +1904,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **16** Rolicyclidine (1-(1-phenylcyclohexyl) pyrrolidine) and any salt thereof
 - **17** Mescaline (3,4,5–trimethoxybenzeneethanamine) and any salt thereof, but not peyote (lophophora)
 - **18** 4–Methylaminorex (4,5–dihydro–4–methyl–5–phenyl–2–oxazolamine) and any salt thereof
-- **19** Cathinone ((–)–α–aminopropiophenone) and any salt thereof
+- **19** Cathinone ((-)-α-aminopropiophenone) and its salts
 - **20** Fenetylline (d,l–3,7–dihydro–1,3–dimethyl–7–(2–[(1–methyl–2–phenethyl)amino]ethyl)–1H–purine–2, 6–dione) and any salt thereof
 - **21** 2–Methylamino–1–phenyl–1–propanone and any salt thereof
 - **22** 1–[1–(Phenylmethyl)cyclohexyl]piperidine and any salt thereof
@@ -1923,7 +1925,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **(2)** 4-chloro-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine (25C-NBOMe)
 - **(3)** 4-iodo-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine (25I-NBOMe)
 - **(4)** 4-bromo-2,5-dimethoxybenzeneethanamine (2C-B)
-> 1996, c. 19, Sch. III; SOR/97-230, ss. 7 to 10; SOR/98-173, s. 1; SOR/2000-220, s. 1; SOR/2003-32, ss. 2, 3, 4(F), 5; SOR/2003-412; SOR/2005-235, s. 2; 2012, c. 1, ss. 45, 46; SOR/2012-66; SOR/2016-73; SOR/2016-107, s. 2.
+> 1996, c. 19, Sch. III; SOR/97-230, ss. 7 to 10; SOR/98-173, s. 1; SOR/2000-220, s. 1; SOR/2003-32, ss. 2, 3, 4(F), 5; SOR/2003-412; SOR/2005-235, s. 2; 2012, c. 1, ss. 45, 46; SOR/2012-66; SOR/2016-73; SOR/2016-107, s. 2; SOR/2017-13, s. 6.
 
 
 
@@ -1936,7 +1938,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **(3)** Amobarbital (5–ethyl–5–(3–methylbutyl)barbituric acid)
 - **(4)** Aprobarbital (5–allyl–5–isopropylbarbituric acid)
 - **(5)** Barbital (5,5–diethylbarbituric acid)
-- **(6)** Barbituric Acid (2,4,6(1H,3H,5H)–pyrimidinetrione)
+- **(6)** [Repealed, SOR/2017-13, s. 7]
 - **(7)** Butabarbital (5–sec–butyl–5–ethylbarbituric acid)
 - **(8)** Butalbital (5–allyl–5–isobutylbarbituric acid)
 - **(9)** Butallylonal (5–(2–bromoallyl)–5–sec–butylbarbituric acid)
@@ -1959,6 +1961,9 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **(26)** Talbutal (5–allyl–5–sec–butylbarbituric acid)
 - **(27)** Vinbarbital (5–ethyl–5–(1–methyl–1–butenyl)barbituric acid)
 - **(28)** Vinylbital (5–(1–methylbutyl)–5–vinylbarbituric acid)
+- but not including
+- **(29)** Barbituric Acid (2,4,6(1H,3H,5H)-pyrimidinetrione) and its salts
+- **(30)** 1,3-dimethylbarbituric acid (1,3-dimethyl-2,4,6(1H,3H,5H)-pyrimidinetrione) and its salts
 - **2** Thiobarbiturates, their salts and derivatives including:
 - **(1)** Thialbarbital (5–allyl–5–(2–cyclohexen–1–yl)–2–thiobarbituric acid)
 - **(2)** Thiamylal (5–allyl–5–(1–methylbutyl)–2–thiobarbituric acid)
@@ -1968,10 +1973,10 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **4** Diethylpropion (2–(diethylamino)propiophenone) and any salt thereof
 - **5** Phendimetrazine (d–3,4–dimethyl–2–phenylmorpholine) and any salt thereof
 - **6** Phenmetrazine (3–methyl–2–phenylmorpholine) and any salt thereof
-- **7** Pipradol (α,α–diphenyl–2–piperidinemethanol) and any salt thereof
+- **7** Pipradrol (α,α-diphenyl-2-piperidinemethanol) and its salts
 - **8** Phentermine (α,α–dimethylbenzeneethanamine) and any salt thereof
-- **9** Butorphanol (l–N–cyclobutylmethyl–3,14–dihydroxymorphinan) and any salt thereof
-- **10** Nalbuphine (N–cyclobutylmethyl–4,5–epoxy–morphinan–3,6,14–triol) and any salt thereof
+- **9** Butorphanol (*l*-N-cyclobutylmethyl-3,14-dihydroxymorphinan) and its salts
+- **10** Nalbuphine (N-cyclobutylmethyl-4,5-epoxy-morphinan-3,6,14-triol) and its salts
 - **11** Glutethimide (2–ethyl–2–phenylglutarimide)
 - **12** Clotiazepam (5–(o–chlorophenyl)–7–ethyl–1,3–dihydro–1–methyl–2H–thieno[2,3–e]–1,4–diazepin–2–one) and any salt thereof
 - **13** Ethchlorvynol (ethyl–2–chlorovinyl ethynyl carbinol)
@@ -2019,7 +2024,8 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **(32.1)** Clozapine (8-chloro-11-(4-methyl-1-piperazinyl)-5H-dibenzo[b,e][1,4]diazepine) and any salt thereof
 - **(33)** Flunitrazepam (5-(o-fluorophenyl)-1,3-dihydro-1-methyl-7-nitro-2H-1,4-benzodiazepin-2-one) and any salts or derivatives thereof
 - **(34)** Olanzapine (2-methyl-4-(4-methyl-1-piperazinyl)-10H-thieno[2,3-b][1,5]benzodiazepine) and its salts
-- **19** Catha edulis Forsk., its preparations, derivatives, alkaloids and salts, including:
+- **(35)** Clozapine N-oxide (8-chloro-11-(4-methyl-4-oxido-1-piperazinyl)-5H-dibenzo[b,e][1,4]diazepine) and its salts
+- **19** *Catha edulis* Forsk, its preparations, derivatives, alkaloids and salts, including:
 - **(1)** Cathine (d–threo–2–amino–1–hydroxy–1–phenylpropane)
 - **20** Fencamfamin (d,l–N–ethyl–3–phenylbicyclo[2,2,1] heptan–2–amine) and any salt thereof
 - **21** Fenproporex (d,l–3–[(α–methylphenethyl)amino]propionitrile) and any salt thereof
@@ -2074,7 +2080,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **26** Pyrovalerone (4′-methyl-2-(1-pyrrolidinyl)valerophenone) and any salt thereof
 - **27** Salvia divinorum (S. divinorum), its preparations and derivatives, including:
 - **(1)** Salvinorin A ((2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acetyloxy)-2-(3-furanyl)dodecahydro-6a,10b-dimethyl-4,10-dioxo-2H-naphtho[2,1-c]pyran-7-carboxylic acid methyl ester)
-> 1996, c. 19, Sch. IV; SOR/97-230, ss. 11 to 15; SOR/98-173, s. 2; SOR/99-371, s. 3; SOR/99-421, s. 2(E); SOR/2000-220, s. 2; SOR/2003-32, s. 6; SOR/2003-37; SOR/2015-209.
+> 1996, c. 19, Sch. IV; SOR/97-230, ss. 11 to 15; SOR/98-173, s. 2; SOR/99-371, s. 3; SOR/99-421, s. 2(E); SOR/2000-220, s. 2; SOR/2003-32, s. 6; SOR/2003-37; SOR/2015-209; SOR/2017-13, ss. 7 to 9, 10(E), 11, 12.
 
 
 
