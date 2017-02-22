@@ -1820,35 +1820,35 @@ et ce, en caractères de dimensions au moins égales et aussi bien en vue que le
 
 **B.01.035** 
 
-- **(1)** Sous réserve du paragraphe (8), dans le cas d’un aliment irradié visé à la colonne I du tableau du titre 26 qui est un produit préemballé offert en vente, l’espace principal de l’étiquette apposée sur l’emballage doit porter le symbole prévu au paragraphe (5).
+- **(1)** Sous réserve du paragraphe (8), dans le cas d’un aliment irradié visé à la colonne 1 du tableau du titre 26 qui est un produit préemballé offert en vente, l’espace principal de l’étiquette apposée sur l’emballage doit porter le symbole prévu au paragraphe (5).
 
-- **(2)** Dans le cas d’un aliment irradié visé à la colonne I du tableau du titre 26, autre qu’un produit préemballé, qui est offert pour la vente, un écriteau portant le symbole prévu au paragraphe (5) doit être placé à côté de l’aliment.
+- **(2)** Dans le cas d’un aliment irradié visé à la colonne 1 du tableau du titre 26, autre qu’un produit préemballé, qui est offert pour la vente, un écriteau portant le symbole prévu au paragraphe (5) doit être placé à côté de l’aliment.
 
-- **(3)** Le symbole devant, selon les paragraphes (1) ou (2), figurer sur l’espace principal de l’étiquette ou sur un écriteau doit être accompagné de l’une des mentions suivantes ou d’une mention ayant le même sens :
+- **(3)** Le symbole devant, selon les paragraphes (1) ou (2), figurer sur l’espace principal de l’étiquette ou sur un écriteau doit être accompagné de l’une des mentions suivantes ou d’une mention ayant le même sens :
 	- **a)** « traité par radiation »;
 	- **b)** « traité par irradiation »;
 	- **c)** « irradié ».
 
-- **(4)** Il est interdit de vendre un aliment visé à la colonne I du tableau du titre 26 qui a été irradié de la façon prévue au paragraphe B.26.003(2) à moins que les exigences des paragraphes (1) à (3) ne soient respectées.
+- **(4)** Il est interdit de vendre un aliment visé à la colonne 1 du tableau du titre 26 qui a été irradié de la façon prévue au paragraphe B.26.003(2) à moins que les exigences des paragraphes (1) à (3) ne soient respectées.
 
-- **(5)** Pour l’application des paragraphes (1) à (3), le symbole désignant l’aliment irradié doit :
-	- **a)** avoir un diamètre extérieur :
+- **(5)** Pour l’application des paragraphes (1) à (3), le symbole désignant l’aliment irradié doit :
+	- **a)** avoir un diamètre extérieur :
 		- **(i)** dans le cas visé au paragraphe (1), égal ou supérieur à la hauteur des données numériques de la déclaration de quantité nette visée à l’article 14 du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md),
-		- **(ii)** dans le cas visé au paragraphe (2), d’au moins 5 cm;
+		- **(ii)** dans le cas visé au paragraphe (2), d’au moins 5 cm;
 	- **b)** revêtir la forme suivante :
 > Image: Symbole pour aliments irradiés qui consiste en une plante à l’intérieur d’un cercle dont la moitié supérieure est en pointillés.
 
 
-- **(6)** Nonobstant le paragraphe B.01.009(1), tout aliment visé à la colonne I du tableau du titre 26 qui sert d’ingrédient ou de constituant dans un produit préemballé et qui a été irradié doit, s’il représente 10 pour cent ou plus de ce produit, figurer dans la liste des ingrédients avec la mention « irradié ».
+- **(6)** Nonobstant le paragraphe B.01.009(1), tout aliment visé à la colonne 1 du tableau du titre 26 qui sert d’ingrédient ou de constituant dans un produit préemballé et qui a été irradié doit, s’il représente 10 pour cent ou plus de ce produit, figurer dans la liste des ingrédients avec la mention « irradié ».
 
-- **(7)** L’étiquette apposée sur le contenant d’expédition de tout aliment visé à la colonne I du tableau du titre 26 et irradié selon la dose absorbée permise maximale indiquée à la colonne IV de ce tableau doit porter la mention exigée par le paragraphe (3) ainsi que la mention « Ne pas irradier de nouveau ».
+- **(7)** L’étiquette apposée sur le contenant d’expédition de tout aliment visé à la colonne 1 du tableau du titre 26 et irradié selon la dose absorbée maximale prévue à la colonne 5 de ce tableau doit porter la mention exigée par le paragraphe (3) ainsi que la mention « Ne pas irradier de nouveau. ».
 
 - **(8)** Dans le cas où le contenant d’expédition constitue l’emballage du produit préemballé, l’étiquette qui y est apposée doit porter les mentions visées au paragraphe (7); le symbole prévu au paragraphe (5) n’est pas obligatoire.
 
-- **(9)** Toute annonce concernant un aliment irradié visé à la colonne I du tableau du titre 26 doit indiquer que cet aliment a été irradié.
+- **(9)** Toute annonce concernant un aliment irradié visé à la colonne 1 du tableau du titre 26 doit indiquer que cet aliment a été irradié.
 
 - **(10)** Les mentions visées aux paragraphes (3) et (6) à (8) doivent figurer dans les deux langues officielles, conformément au paragraphe B.01.012(2).
-> DORS/89-172, art. 1.
+> DORS/89-172, art. 1; DORS/2017-16, art. 1.
 
 
 
@@ -24588,18 +24588,13 @@ si seulement des acides aminés de forme L ont été ajoutés.
 
 
 
-#### Définitions
+#### Interprétation
+> [DORS/2017-16, art. 2(F)]
 
 
-**B.26.001** Les définitions qui suivent s’appliquent au présent titre.
 
-***irradiation*** Le traitement au moyen d’un rayonnement ionisant. (*irradiation*)
-
-***rayonnement ionisant*** Selon le cas :
-- **a)** rayons gamma provenant d’une source de cobalt 60 ou de césium 137;
-- **b)** rayons X provenant d’un appareil radiogène fonctionnant à un niveau d’énergie égal ou inférieur à 5 MeV;
-- **c)** électrons provenant d’un appareil radiogène fonctionnant à un niveau d’énergie égal ou inférieur à 10 MeV. (*ionizing radiation*)
-> DORS/89-175, art. 3.
+**B.26.001** Au présent titre, ***irradiation*** s’entend du traitement au moyen d’un rayonnement ionisant.
+> DORS/89-175, art. 3; DORS/2017-16, art. 3.
 
 
 
@@ -24622,10 +24617,10 @@ si seulement des acides aminés de forme L ont été ajoutés.
 
 - **(1)** Sous réserve du paragraphe (2), il est interdit de vendre un aliment qui a été irradié.
 
-- **(2)** Il est permis de vendre un aliment irradié dont le nom figure à la colonne I du tableau du présent titre si les conditions suivantes sont réunies :
-	- **a)** l’aliment a été irradié sous l’action d’un rayonnement provenant d’une source mentionnée à la colonne II aux fins précisées à la colonne III de ce tableau;
-	- **b)** la dose de rayonnement ionisant absorbée par l’aliment ne dépasse pas la dose absorbée permise indiquée à la colonne IV de ce tableau.
-> DORS/89-175, art. 3.
+- **(2)** Il est permis de vendre un aliment qui a été irradié et qui est visé à la colonne 1 du tableau du présent titre si les exigences ci-après sont remplies :
+	- **a)** le rayonnement ionisant est d’un type et d’une source mentionnés à la colonne 2 et a été fait pour atteindre le but de l’irradiation visé à la colonne 3;
+	- **b)** le rayonnement ionisant absorbé par l’aliment est conforme aux doses prévues aux colonnes 4 et 5 ou, dans le cas où la colonne 4 ne prévoit aucune dose absorbée minimale, n’excède pas la dose absorbée maximale prévue à la colonne 5.
+> DORS/89-175, art. 3; DORS/2017-16, art. 4.
 
 
 
@@ -24636,16 +24631,16 @@ si seulement des acides aminés de forme L ont été ajoutés.
 
 **B.26.004** 
 
-- **(1)** Le fabricant qui vend un aliment irradié doit conserver à son établissement, pour une période d’au moins deux ans après la date d’irradiation, un registre contenant les renseignements suivants :
-	- **a)** l’aliment irradié ainsi que la quantité et les numéros de lot de celui-ci;
-	- **b)** l’irradiation;
+- **(1)** Le fabricant qui vend un aliment qui a été irradié doit conserver à son établissement, pendant au moins deux ans après la date d’irradiation, un registre contenant les renseignements suivants :
+	- **a)** le nom de l’aliment irradié ainsi que la quantité et les numéros de lot de l’aliment;
+	- **b)** le but de l’irradiation;
 	- **c)** la date de l’irradiation;
 	- **d)** la dose de rayonnement ionisant absorbée par l’aliment;
-	- **e)** la source du rayonnement ionisant;
-	- **f)** une mention indiquant si l’aliment a été irradié ou non avant l’irradiation faite par le fabricant et, dans l’affirmative, tous les renseignements visés aux alinéas a) à e) à l’égard de cette irradiation préalable.
+	- **e)** le type et la source du rayonnement ionisant;
+	- **f)** une mention indiquant si l’aliment a déjà été irradié et, dans l’affirmative, les renseignements visés aux alinéas a) à e) à l’égard de cette irradiation précédente.
 
-- **(2)** Quiconque importe, pour la vente au Canada, un aliment qui a été irradié doit conserver le registre visé au paragraphe (1) à son établissement, pour une période d’au moins deux ans après la date d’importation.
-> DORS/89-175, art. 3.
+- **(2)** Quiconque importe, pour la vente au Canada, un aliment qui a été irradié doit conserver à son établissement, pendant au moins deux ans après la date d’importation, le registre prévu au paragraphe (1).
+> DORS/89-175, art. 3; DORS/2017-16, art. 5.
 
 
 
@@ -24654,8 +24649,8 @@ si seulement des acides aminés de forme L ont été ajoutés.
 #### Modification du tableau
 
 
-**B.26.005** Toute demande visant la modification du tableau du présent titre ou l’adjonction d’un aliment à celui-ci doit être accompagnée d’une présentation au Directeur contenant les renseignements suivants :
-- **a)** le but et le détail de l’irradiation proposée, notamment la source du rayonnement ionisant et la fréquence proposée des doses minimale et maximale du rayonnement ionisant;
+**B.26.005** Toute demande visant la modification du tableau du présent titre ou l’adjonction d’un aliment à celui-ci doit être accompagnée d’une présentation au Directeur contenant les renseignements suivants :
+- **a)** le but et le détail de l’irradiation proposée, notamment le type et la source du rayonnement ionisant, le nombre proposé de traitements et les doses minimale et maximale absorbées du rayonnement ionisant;
 - **b)** les données indiquant que la dose minimale du rayonnement ionisant proposé permettra d’atteindre le but visé par l’irradiation et que la dose maximale du rayonnement ionisant proposé n’excédera pas le niveau approprié à cette fin;
 - **c)** les renseignements sur la nature du dosimètre utilisé, la fréquence de la dosimétrie de l’aliment ainsi que des données relatives à la dosimétrie et aux fantômes utilisés afin de garantir que les relevés dosimétriques correspondent activement à la dose absorbée par l’aliment durant l’irradiation;
 - **d)** les données relatives aux effets, le cas échéant, dans les conditions envisagées, de l’irradiation et de tout autre traitement qui y est combiné sur la qualité nutritive de l’aliment, cru et prêt à servir;
@@ -24668,48 +24663,244 @@ si seulement des acides aminés de forme L ont été ajoutés.
 <table>
 <tr>
 <th>Article</th>
-<th>Colonne I</th>
-<th>Colonne II</th>
-<th>Colonne III</th>
-<th>Colonne IV</th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
+<th>Colonne 3</th>
+<th>Colonne 4</th>
+<th>Colonne 5</th>
 </tr>
 <tr>
 <th>Aliment</th>
-<th>Sources permises de rayonnement ionisant</th>
+<th>Type et source de rayonnement ionisant</th>
 <th>But de l’irradiation</th>
-<th>Dose absorbée permise</th>
+<th>Dose absorbée minimale (kGy)</th>
+<th>Dose absorbée maximale (kGy)</th>
 </tr>
 <tr>
 <td>1</td>
-<td>Pommes de terre (*Solanum tuberosum L.*)</td>
-<td>Cobalt 60</td>
+<td>Pommes de terre (*Solanum tuberosum* L.)</td>
+<td>Rayons gamma provenant du cobalt 60</td>
 <td>Inhibition de la germination durant l’emmagasinage</td>
-<td>au plus 0,15 kGy</td>
+<td></td>
+<td>0,15</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Oignons (*Allium cepa*)</td>
-<td>Cobalt 60</td>
+<td>Rayons gamma provenant du cobalt 60</td>
 <td>Inhibition de la germination durant l’emmagasinage</td>
-<td>au plus 0,15 kGy</td>
+<td></td>
+<td>0,15</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Blé, farine, farine de blé entier (*Triticum sp.*)</td>
-<td>Cobalt 60</td>
+<td>Blé, farine, farine de blé entier (*Triticum* spp.)</td>
+<td>Rayons gamma provenant du cobalt 60</td>
 <td>Prévention de l’infestation par des insectes dans l’aliment emmagasiné</td>
-<td>au plus 0,75 kGy</td>
+<td></td>
+<td>0,75</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Épices entières ou moulues et assaisonnements déshydratés</td>
-<td>Cobalt 60, Césium 137 ou électrons provenant de sources radiogènes (au plus 3 MeV)</td>
-<td>Réduction de la charge microbienne</td>
-<td>au plus 10 kGy, dose globale moyenne totale</td>
+<td>**(1)** Rayons gamma provenant du cobalt 60
+
+</td>
+<td>**(1)** Réduction de la charge microbienne
+
+</td>
+<td></td>
+<td>**(1)** 10,0 (dose globale moyenne totale)
+
+</td>
+</tr>
+<tr>
+<td>**(2)** Rayons gamma provenant du césium 137
+
+</td>
+<td>**(2)** Réduction de la charge microbienne
+
+</td>
+<td></td>
+<td>**(2)** 10,0 (dose globale moyenne totale)
+
+</td>
+</tr>
+<tr>
+<td>**(3)** Électrons provenant d’un appareil radiogène fonctionnant à au plus 3 MeV
+
+</td>
+<td>**(3)** Réduction de la charge microbienne
+
+</td>
+<td></td>
+<td>**(3)** 10,0 (dose globale moyenne totale)
+
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Boeuf haché cru frais</td>
+<td>**(1)** Rayons gamma provenant du cobalt 60
+
+</td>
+<td>**(1)** Réduction de la charge microbienne, y compris les agents pathogènes
+
+</td>
+<td>**(1)** 1,0
+
+</td>
+<td>**(1)** 4,5
+
+</td>
+</tr>
+<tr>
+<td>**(2)** Rayons gamma provenant du césium 137
+
+</td>
+<td>**(2)** Réduction de la charge microbienne, y compris les agents pathogènes
+
+</td>
+<td>**(2)** 1,0
+
+</td>
+<td>**(2)** 4,5
+
+</td>
+</tr>
+<tr>
+<td>**(3)** Électrons provenant d’un appareil radiogène fonctionnant à au plus 10 MeV
+
+</td>
+<td>**(3)** Réduction de la charge microbienne, y compris les agents pathogènes
+
+</td>
+<td>**(3)** 1,0
+
+</td>
+<td>**(3)** 4,5
+
+</td>
+</tr>
+<tr>
+<td>**(4)** Rayons X provenant d’un appareil radiogène fonctionnant à au plus :
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**a)** 7,5 MeV, lorsque la matière cible est du tantale ou de l’or;
+
+</td>
+<td>**a)** Réduction de la charge microbienne, y compris les agents pathogènes;
+
+</td>
+<td>**a)** 1,0
+
+</td>
+<td>**a)** 4,5
+
+</td>
+</tr>
+<tr>
+<td>**b)** 5 MeV, dans les autres cas.
+
+</td>
+<td>**b)** Réduction de la charge microbienne, y compris les agents pathogènes.
+
+</td>
+<td>**b)** 1,0
+
+</td>
+<td>**b)** 4,5
+
+</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Boeuf haché cru congelé</td>
+<td>**(1)** Rayons gamma provenant du cobalt 60
+
+</td>
+<td>**(1)** Réduction de la charge microbienne, y compris les agents pathogènes
+
+</td>
+<td>**(1)** 1,5
+
+</td>
+<td>**(1)** 7,0
+
+</td>
+</tr>
+<tr>
+<td>**(2)** Rayons gamma provenant du césium 137
+
+</td>
+<td>**(2)** Réduction de la charge microbienne, y compris les agents pathogènes
+
+</td>
+<td>**(2)** 1,5
+
+</td>
+<td>**(2)** 7,0
+
+</td>
+</tr>
+<tr>
+<td>**(3)** Électrons provenant d’un appareil radiogène fonctionnant à au plus 10 MeV
+
+</td>
+<td>**(3)** Réduction de la charge microbienne, y compris les agents pathogènes
+
+</td>
+<td>**(3)** 1,5
+
+</td>
+<td>**(3)** 7,0
+
+</td>
+</tr>
+<tr>
+<td>**(4)** Rayons X provenant d’un appareil radiogène fonctionnant à au plus :
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**a)** 7,5 MeV, lorsque la matière cible est du tantale ou de l’or;
+
+</td>
+<td>**a)** Réduction de la charge microbienne, y compris les agents pathogènes;
+
+</td>
+<td>**a)** 1,5
+
+</td>
+<td>**a)** 7,0
+
+</td>
+</tr>
+<tr>
+<td>**b)** 5 MeV, dans les autres cas.
+
+</td>
+<td>**b)** Réduction de la charge microbienne, y compris les agents pathogènes.
+
+</td>
+<td>**b)** 1,5
+
+</td>
+<td>**b)** 7,0
+
+</td>
 </tr>
 </table>
 
-> DORS/89-175, art. 3; DORS/98-458, art. 7(F).
+> DORS/89-175, art. 3; DORS/98-458, art. 7(F); DORS/2017-16, art. 6 et 7.
 
 
 
@@ -35095,15 +35286,15 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 - **16** Zipéprol ((méthoxy-2 phényl-2 éthyl)-4 α-(méthoxyphénylméthyl)-1-pipérazineéthanol) et ses sels
 - **17** Amineptine [(dihydro-10,11 5H-dibenzo[a,d]cycloheptenyl-5)amino]-7 heptanoïque et ses sels
 
-**PARTIE II ** 
+**PARTIE II** 
 
-- **1** Barbituriques, ainsi que leurs sels et dérivés, sauf ceux mentionnés aux articles 6 et 7 de la partie I de la présente annexe. Sont compris :
+- **1** Barbituriques, ainsi que leurs sels et dérivés, sauf ceux mentionnés aux articles 6 et 7 de la partie I de la présente annexe ainsi que l’acide barbiturique ((1H,3H,5H)-pyrimidinetrione-2,4,6) et ses sels et l’acide 1,3-diméthylbarbiturique (1,3-diméthyl-2,4,6(1H,3H,5H)-pyrimidinetrione) et ses sels. Sont compris :
 - **(1)** allobarbital (acide diallyl-5,5 barbiturique)
 - **(2)** alphénal (acide allyl-5 phényl-5 barbiturique)
 - **(3)** amobarbital (acide éthyl-5 (méthyl-3 butyl)-5 barbiturique)
 - **(4)** aprobarbital (acide allyl-5 isopropyl-5 barbiturique)
 - **(5)** barbital (acide diéthyl-5,5 barbiturique)
-- **(6)** acide barbiturique ((1H,3H,5H)-pyrimidinetrione-2,4,6)
+- **(6)** [Abrogé, DORS/2017-12, art. 1]
 - **(7)** butabarbital (acide sec-butyl-5 éthyl-5 barbiturique)
 - **(8)** butalbital (acide allyl-5 isobutyl-5 barbiturique)
 - **(9)** butallylonal (acide (bromo-2 allyl)-5 sec-butyl-5 barbiturique)
@@ -35183,7 +35374,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 - **(42)** tiomestérone (bis(acétylthio)-1α,7α hydroxy-17ß méthyl-17 androstène-4 one-3)
 - **(43)** trenbolone (hydroxy-17ßestratriène-4,9,11 one-3)
 - **2** Zéranol (trihydroxy-7,14,16 méthyl-3 décahydro-3,4,5,6,- 7,8,9,10,11,12 1H-benzoxa-2 cyclotétradécinone-1)
-> DORS/78-427, art. 10; DORS/79-753, art. 1; DORS/81-84, art. 1; DORS/85-550, art. 14(F); DORS/86-678, art. 1; DORS/89-381, art. 1; DORS/92-386, art. 3; DORS/97-228, art. 21; DORS/99-425, art. 1; DORS/2003-34, art. 2 et 3; DORS/2003-413, art. 2; DORS/2015-210, art. 1; DORS/2016-106, art. 1.
+> DORS/78-427, art. 10; DORS/79-753, art. 1; DORS/81-84, art. 1; DORS/85-550, art. 14(F); DORS/86-678, art. 1; DORS/89-381, art. 1; DORS/92-386, art. 3; DORS/97-228, art. 21; DORS/99-425, art. 1; DORS/2003-34, art. 2 et 3; DORS/2003-413, art. 2; DORS/2015-210, art. 1; DORS/2016-106, art. 1; DORS/2017-12, art. 1, 2(A).
 
 
 
@@ -35907,7 +36098,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 - **20** Benzylpipérazine [BZP], à savoir 1-benzylpipérazine et ses sels, isomères et sels d’isomères
 - **21** Trifluorométhylphénylpipérazine [TFMPP], à savoir 1-(3-trifluorométhylphényl)pipérazine et ses sels, isomères et sels d’isomères
 - **22** Méthylènedioxypyrovalérone (MDPV), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues
-- **23** [Abrogé, DORS/2016-239, art. 1]
+- **23** Cathinone (*l*-α-aminopropiophénone) et ses sels
 - **24** Les 2C-phénéthylamines, leurs sels, dérivés et isomères, ainsi que les sels de leurs dérivés et isomères, qui répondent à la description chimique suivante :
 - toute substance ayant une structure 1-amino-2-phényléthane substituée en positions 2’ et 5’ ou 2’ et 6’ du cycle benzénique par un groupe alcoxy ou halogénoalcoxy, ou substituée à deux atomes de carbone adjacents du cycle benzénique de façon à entraîner la formation d’un groupe furane, dihydrofurane, pyrane, dihydropyrane ou méthylènedioxy — qu’il y ait ou non davantage de substitution sur le cycle benzénique dans quelque mesure que ce soit, qu’il y ait ou non substitution au groupe amino par un ou deux groupes méthyle, éthyle, propyle, isopropyle, hydroxyle, benzyle (ou benzyle substitué dans quelque mesure que ce soit) ou benzylène (ou benzylène substitué dans quelque mesure que ce soit) ou par une combinaison de ceux-ci, et qu’il y ait ou non substitution en position 2-éthyle (carbone bêta) par un groupe hydroxyle, oxo ou alcoxy —, les sels et dérivés de cette substance ainsi que les sels de ses dérivés, notamment :
 - **(1)** 4-bromo-2,5-diméthoxy-N-(2-méthoxybenzyle)phénéthylamine (25B-NBOMe)
@@ -35928,7 +36119,11 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 
 - **1** Salvia divinorum (S. divinorum), ses préparations et dérivés, notamment :
 - **(1)** Salvinorine A (ester méthylique de l’acide (2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acétyloxy)-2-(3-furanyl)dodécahydro-6a,10b-diméthyl-4,10-dioxo-2Hnaphto[2,1-c]pyran-7-carboxylique)
-> DORS/97-228, art. 25; DORS/2003-34, art. 4 et 5; DORS/2012-65, art. 1; DORS/2012-177, art. 1; DORS/2013-172, art. 2; DORS/2015-210, art. 4 à 6; DORS/2016-72, art. 1; DORS/2016-106, art. 2; DORS/2016-239, art. 1.
+- **2** *Catha edulis* Forsk, ses préparations, dérivés, alcaloïdes et sels, notamment :
+- **(1)** cathine (*d*-thréo-amino-2 hydroxy-1 phényl-1 propane)
+- mais non compris :
+- **(2)** cathinone (*l*-α-aminopropiophénone) et ses sels
+> DORS/97-228, art. 25; DORS/2003-34, art. 4 et 5; DORS/2012-65, art. 1; DORS/2012-177, art. 1; DORS/2013-172, art. 2; DORS/2015-210, art. 4 à 6; DORS/2016-72, art. 1; DORS/2016-106, art. 2; DORS/2016-239, art. 1; DORS/2017-12, art. 3 et 4.
 
 
 
