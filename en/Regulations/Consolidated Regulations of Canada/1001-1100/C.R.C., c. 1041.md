@@ -1428,14 +1428,16 @@ that specifies the name and quantity of the narcotic to be supplied.
 - **(30)** Pholcodine (3-[2-(4-morpholinyl)ethyl]morphine)
 - **(31)** Thebacon (acetyldihydrocodeinone)
 - but not including
-- **(32)** Apomorphine (5,6,6a,7-tetrahydro-6-methyl-4H-dibenzo[de,g]-quinoline-10,11-diol)
-- **(33)** Cyprenorphine (N-(cyclopropylmethyl)-6,7,8,14-tetrahydro-7α-(1-hydroxy-1-methylethyl)-6,14-endo-ethenonororipavine)
+- **(32)** Apomorphine (5,6,6a,7-tetrahydro-6-methyl-4H-dibenzo[de,g]quinoline-10,11-diol) and its salts
+- **(33)** Cyprenorphine (N-(cyclopropylmethyl)-6,7,8,14-tetrahydro-7α-(1-hydroxy-1-methylethyl)-6,14-endo-ethenonororipavine) and its salts
 - **(33.1)** [Repealed, SOR/2016-239, s. 8]
-- **(34)** Nalmefene (17-(cyclopropylmethyl)-4,5α-epoxy-6-methylenemorphinan-3,14-diol)
-- **(34.1)** Naloxone (4,5α-epoxy-3,14-dihydroxy-17-(2-propenyl)morphinan-6-one)
-- **(34.2)** Naltrexone (17-(cyclopropylmethyl)-4,5α-epoxy-3,14-dihydroxymorphinan-6-one)
-- **(35)** Narcotine (6,7-dimethoxy-3-(5,6,7,8-tetrahydro-4-methoxy-6-methyl-1,3-dioxolos[4,5-g]isoquinolin-5-yl)-1(3H)-isobenzofuranone)
-- **(36)** Papaverine (1-[(3,4-dimethoxyphenyl)methyl]-6,7- dimethoxyisoquinoline)
+- **(34)** Nalmefene (17-(cyclopropylmethyl)-4,5α-epoxy-6-methylenemorphinan-3,14-diol) and its salts
+- **(34.1)** Naloxone (4,5α-epoxy-3,14-dihydroxy-17-(2-propenyl)morphinan-6-one) and its salts
+- **(34.2)** Naltrexone (17-(cyclopropylmethyl)-4,5α-epoxy-3,14-dihydroxymorphinan-6-one) and its salts
+- **(34.3)** Methylnaltrexone (17-(cyclopropylmethyl)-4,5α-epoxy-3,14-dihydroxy-17-methyl-6-oxomorphinanium) and its salts
+- **(34.4)** Naloxegol (4,5α-epoxy-6α-(3,6,9,12,15,18,21-heptaoxadocos-1-yloxy)-17-(2-propenyl)morphinan-3,14-diol) and its salts
+- **(35)** Narcotine (6,7-dimethoxy-3-(5,6,7,8-tetrahydro-4-methoxy-6-methyl-1,3-dioxolo [4,5-g]isoquinolin-5-yl)-1(3H)-isobenzofuranone) and its salts
+- **(36)** Papaverine (1-[(3,4-dimethoxyphenyl)methyl]-6,7-dimethoxyisoquinoline) and its salts
 - **(37)** Poppy seed
 - **2** Coca (Erythroxylon), its preparations, derivatives, alkaloids and salts, including:
 - **(1)** Coca leaves
@@ -1465,14 +1467,14 @@ that specifies the name and quantity of the narcotic to be supplied.
 - **(21)** Trimeperidine (1,2,5-trimethyl-4-phenyl-4-piperidinol propionate)
 - **(22)** Pethidine Intermediate C (1-methyl-4-phenylpiperidine-4-carboxylate)
 - but not including
-- **(23)** Carbamethidine (ethyl 1-(2-carbamylethyl)-4-phenylpiperidine-4-carboxylate)
-- **(24)** Oxpheneridine (ethyl 1-(2-hydroxy-2-phenylethyl)-4-phenylpiperidine-4-carboxylate)
+- **(23)** Carperidine (ethyl 1-(2-carbamylethyl)-4-phenylpiperidine-4-carboxylate) and its salts
+- **(24)** Oxpheneridine (ethyl 1-(2-hydroxy-2-phenylethyl)-4-phenylpiperidine-4-carboxylate) and its salts
 - **4** Phenazepines, their salts, derivatives and salts of derivatives including:
 - **(1)** Proheptazine (hexahydro-1,3-dimethyl-4-phenyl-1Hazepin-4-ol propionate)
 - but not including
-- **(2)** Ethoheptazine (ethyl hexahydro-1-methyl-4-phenylazepine-4-carboxylate)
-- **(3)** Metethoheptazine (ethyl hexahydro-1,3-dimethyl-4-phenylazepine-4-carboxylate)
-- **(4)** Metheptazine (ethyl hexahydro-1,2-dimethyl-4-phenylazepine-4-carboxylate)
+- **(2)** Ethoheptazine (ethyl hexahydro-1-methyl-4-phenylazepine-4-carboxylate) and its salts
+- **(3)** Metethoheptazine (ethyl hexahydro-1,3-dimethyl-4-phenylazepine-4-carboxylate) and its salts
+- **(4)** Metheptazine (methylhexahydro-1,2-dimethyl-4-phenylazepine-4-carboxylate) and its salts
 - **5** Amidones, their intermediates, salts, derivatives and salts of intermediates and derivatives, including:
 - **(1)** Dimethylaminodiphenylbutanonitrile (4-cyano-2-dimethylamino-4,4-diphenylbutane)
 - **(2)** Dipipanone (4,4-diphenyl-6-piperidino-3-heptanone)
@@ -1513,18 +1515,18 @@ that specifies the name and quantity of the narcotic to be supplied.
 - **(8)** Racemethorphan (d,1-3-methoxy-17-methylmorphinan)
 - **(9)** Racemorphan (d, l-3-hydroxy-N-methylmorphinan)
 - but not including
-- **(10)** Dextromethorphan (d-1,2,3,9,10,10a-hexahydro-6- methoxy-11-methyl-4H-10,4a-iminoethanophenanthren)
-- **(11)** Dextrorphan (d-1,2,3,9,10,10a-hexahydro-11-methyl-4H-10,4a-iminoethanophenanthren-6-ol)
-- **(12)** Levallorphan (l-11-allyl-1,2,3,9,10,10a-hexahydro-4H-10,4a-iminoethanophenanthren-6-ol)
-- **(13)** Levargorphan (l-11-propargyl-1,2,3,9,10,10a-hexahydro-4H-10,4a-iminoethanophenanthren-6-ol)
-- **(14)** Butorphanol (17-(cyclobutylmethyl)morphinan-3,14-diol)
-- **(15)** Nalbuphine (17-(cyclobutylmethyl)-4,5α-epoxymorphinan-3,6α,14-triol)
+- **(10)** Dextromethorphan (*d*-1,2,3,9,10,10a-hexahydro-6-methoxy-11-methyl-4H-10,4a-iminoethanophenanthren) and its salts
+- **(11)** Dextrorphan (*d*-1,2,3,9,10,10a-hexahydro-11-methyl-4H-10,4a-iminoethanophenanthren-6-ol) and its salts
+- **(12)** Levallorphan (*l*-11-allyl-1,2,3,9,10,10a-hexahydro-4H-10,4a-iminoethanophenanthren-6-ol) and its salts
+- **(13)** Levargorphan (*l*-11-propargyl-1,2,3,9,10,10a-hexahydro-4H-10,4a-iminoethanophenanthren-6-ol) and its salts
+- **(14)** Butorphanol (*l*-N-cyclobutylmethyl-3,14-dihydroxymorphinan) and its salts
+- **(15)** Nalbuphine (N-cyclobutylmethyl-4,5-epoxy-morphinan-3,6,14-triol) and its salts
 - **11** Benzazocines, their salts, derivatives and salts of derivatives, including:
 - **(1)** Phenazocine (1,2,3,4,5,6-hexahydro-6,11-dimethyl- 3-phenethyl-2,6-methano-3-benzazocin-8-ol)
 - **(2)** Metazocine (1,2,3,4,5,6-hexahydro-3,6,11-trimethyl-2,6-methano-3-benzazocin-8-ol)
 - **(3)** Pentazocine (1,2,3,4,5,6-hexahydro-6,11-dimethyl-3-(3-methyl-2-butenyl)-2,6-methano-3-benzazocin-8-ol)
 - but not including
-- **(4)** Cyclazocine (1,2,3,4,5,6-hexahydro-6,11-dimethyl-3-(cyclopropylmethyl)-2,6-methano-3-benzazocin-8-ol)
+- **(4)** Cyclazocine (1,2,3,4,5,6-hexahydro-6,11-dimethyl-3-(cyclopropylmethyl)-2,6-methano-3-benzazocin-8-ol) and its salts
 - **12** Ampromides, their salts, derivatives and salts of derivatives, including:
 - **(1)** Diampromide (N-[2-(methylphenethylamino)propyl]propionanilide)
 - **(2)** Phenampromide (N-(1-methyl-2-piperidino)ethyl)propionanilide)
@@ -1608,6 +1610,6 @@ that specifies the name and quantity of the narcotic to be supplied.
 - **(i)** N-(adamantan-1-yl)-1-fluoropentylindole-3-carboxamide (STS-135)
 - **(ii)** N-(adamantan-1-yl)-1-pentylindole-3-carboxamide (APICA)
 - **18.1** Tapentadol (3-[(1R,2R)-3-(dimethylamino)-1-ethyl-2-methylpropyl]-phenol), its salts, derivatives and isomers and salts of derivatives and isomers
-> SOR/97-227, s. 5; SOR/98-158, s. 1; SOR/99-372, ss. 1, 2; SOR/2000-244, s. 1(E); SOR/2003-33, s. 1; SOR/2005-272, s. 1; SOR/2013-172, s. 9; SOR/2015-189, s. 1; SOR/2015-191, ss. 1, 2; SOR/2016-230, s. 279; SOR/2016-239, s. 8.
+> SOR/97-227, s. 5; SOR/98-158, s. 1; SOR/99-372, ss. 1, 2; SOR/2000-244, s. 1(E); SOR/2003-33, s. 1; SOR/2005-272, s. 1; SOR/2013-172, s. 9; SOR/2015-189, s. 1; SOR/2015-191, ss. 1, 2; SOR/2016-230, s. 279; SOR/2016-239, s. 8; SOR/2017-12, ss. 5 to 9.
 
 
