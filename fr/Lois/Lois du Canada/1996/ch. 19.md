@@ -1619,13 +1619,15 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **(30)** pholcodine ([morpholinyl–4)–2 éthyl]–3 morphine)
 - **(31)** thébacone (acétyldihydrocodéinone)
 - mais non compris :
-- **(32)** apomorphine (tétrahydro–5,6,6a,7 méthyl–6 4H–dibenzo[de,g]quinoline diol–10,11)
-- **(33)** cyprénorphine (N–(cyclopropylméthyl) tétrahydro–6,7,8,14 (hydroxy–1 méthyl–1 éthyl)–7α endo–6,14 éthénonororipavine)
-- **(34)** nalméfène ((cyclopropylméthyl)-17 époxy-4,5α méthylènemorphinan-6 diol-3,14)
-- **(34.1)** naloxone (époxy–4,5α dihydroxy–3,14 (propényl–2)–17 morphinanone–6)
-- **(34.2)** naltrexone ((cyclopropylméthyl)–17 époxy-4,5α dihydroxy-3,14 morphinanone–6)
-- **(35)** narcotine (diméthoxy–6,7 (tétrahydro–5,6,7,8 méthoxy–4 méthyl–6 dioxolo–1,3[4,5–g]isoquinolinyl–5)–3 1(3H)–isobenzofuranone)
-- **(36)** papavérine ([(diméthoxy–3,4 phényl) méthyl]–1 diméthoxy–6,7 isoquinoline)
+- **(32)** apomorphine (tétrahydro-5,6,6a,7 méthyl-6 4H-dibenzo[de,g]quinoline diol-10,11) et ses sels
+- **(33)** cyprénorphine (N-(cyclopropylméthyl) tétrahydro-6,7,8,14 (hydroxy-1 méthyl-1 éthyl)-7α endo-6,14 éthénonororipavine) et ses sels
+- **(34)** nalméfène ((cyclopropylméthyl)-17 époxy-4,5α méthylènemorphinan-6 diol-3,14) et ses sels
+- **(34.1)** naloxone (époxy-4,5α dihydroxy-3,14 (propényl-2)-17 morphinanone-6) et ses sels
+- **(34.2)** naltrexone ((cyclopropylméthyl)-17 époxy-4,5α dihydroxy-3,14 morphinanone-6) et ses sels
+- **(34.3)** méthylnaltrexone ((cyclopropylméthyl)-17 époxy-4,5α dihydroxy-3,14-méthyl-17-oxomorphinanium-6) et ses sels
+- **(34.4)** naloxégol (époxy-4,5α-(heptaoxadocos-3,6,9,12,15,18,21-yloxy-1)-6-(propényl-2)-17-morphinane-diol-3,14) et ses sels
+- **(35)** narcotine (diméthoxy-6,7 (tétrahydro-5,6,7,8 méthoxy-4 méthyl-6 dioxolo-1,3[4,5-g]isoquinolinyl-5)-3 1(3H)-isobenzofuranone) et ses sels
+- **(36)** papavérine ([(diméthoxy-3,4 phényl) méthyl]-1 diméthoxy-6,7 isoquinoline) et ses sels
 - **(37)** graine de pavot
 - **2** Coca (érythroxylone), ainsi que ses préparations, dérivés, alcaloïdes et sels, notamment :
 - **(1)** feuilles de coca
@@ -1655,14 +1657,14 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **(21)** trimépéridine (triméthyl–1,2,5 phényl–4 propionoxy–4 pipéridine)
 - **(22)** péthidine intermédiaire C (l’acide méthyl–1 phényl–4 pipéridine carboxylique–4)
 - mais non compris :
-- **(23)** carbaméthidine (ester éthylique de l’acide (carbaméthyl–2 phényl)–4 pipéridine carboxylique–4)
-- **(24)** oxphénéridine (ester éthylique de l’acide (hydroxy–2 phényléthyl–2) phényl–4 pipéridine carboxylique–4)
+- **(23)** carpéridine (ester éthylique de l’acide (carbamyléthyl-2 phényl)-4 pipéridine carboxylique-4) et ses sels
+- **(24)** oxphénéridine (ester éthylique de l’acide (hydroxy-2 phényléthyl-2) phényl-4 pipéridine carboxylique-4) et ses sels
 - **4** Phénazépines, leurs sels et dérivés, ainsi que les sels de leurs dérivés, notamment :
 - **(1)** proheptazine (diméthyl–1,3 phényl–4 propionoxy–4 azacycloheptane)
 - mais non compris :
-- **(2)** éthoheptazine (ester éthylique de l’acide méthyl–1 phényl–4 azépine carboxylique–4)
-- **(3)** météthoheptazine (ester éthylique de l’acide (hexahydro–1,2) phényl–4 pipéridine carboxylique–4 diméthyl–1,3)
-- **(4)** métheptazine (ester éthylique de l’acide hexahydro diméthyl–1,2 phénylazépine–4 carboxylique–4)
+- **(2)** éthoheptazine (ester éthylique de l’acide méthyl-1 phényl-4 azépine carboxylique-4) et ses sels
+- **(3)** météthoheptazine (ester éthylique de l’acide (hexahydro-1,2) phényl-4 pipéridine carboxylique-4 diméthyl-1,3) et ses sels
+- **(4)** métheptazine (ester éthylique de l’acide hexahydro diméthyl-1,2 phénylazépine-4 carboxylique-4) et ses sels
 - **5** Amidones, leurs sels, intermédiaires et dérivés, ainsi que les sels de leurs intermédiaires et dérivés, notamment :
 - **(1)** diméthylaminodiphénylbutanonitrile (cyano–4 diméthylamino–2 diphénylbutane–4,4)
 - **(2)** dipipanone (diphényl–4,4 pipéridino–6 heptanone–3)
@@ -1703,18 +1705,18 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **(8)** racéméthorphane (d,1–méthoxy–3 méthyl–17 morphinane)
 - **(9)** racémorphane (d,1–hydroxy–3 méthyl–17 morphinane)
 - mais non compris :
-- **(10)** dextrométhorphane (d–méthoxy–3 N–méthylmorphinane)
-- **(11)** dextrorphane (d–hydroxy–3 N–méthylmorphinane)
-- **(12)** lévallorphane (1–hydroxy–3 N–allylmorphinane)
-- **(13)** lévargorphane (1–hydroxy–3 N–propargylmorphinane)
-- **(14)** butorphanol ((cyclobutylméthyl)–17 morphinanediol–3,14)
-- **(15)** nalbuphine ((cyclobutylméthyl)–17 époxy–4,5α morphinanetriol–3, 6α, 14)
+- **(10)** dextrométhorphane (*d*-méthoxy-3 N-méthylmorphinane) et ses sels
+- **(11)** dextrorphane (*d*-hydroxy-3 N-méthylmorphinane) et ses sels
+- **(12)** lévallorphane (*l*-hydroxy-3 N-allylmorphinane) et ses sels
+- **(13)** lévargorphane (*l*-hydroxy-3 N-propargylmorphinane) et ses sels
+- **(14)** butorphanol (*l*–N-cyclobutylméthyl dihydroxy-3,14 morphinane) et ses sels
+- **(15)** nalbuphine (N-cyclobutylméthyl époxy-4,5 morphinanetriol-3,6,14) et ses sels
 - **11** Benzazocines, leurs sels et dérivés, ainsi que les sels de leurs dérivés, notamment :
 - **(1)** phénazocine (hexahydro–1,2,3,4,5,6 diméthyl–6,11 phénéthyl–3 méthano–2,6 benzazocin–3 ol–8)
 - **(2)** métazocine (hexahydro–1,2,3,4,5,6 triméthyl–3,6,11 méthano–2,6 benzazocin–3 ol–8)
 - **(3)** pentazocine (hexahydro–1,2,3,4,5,6 diméthyl–6,11 (méthyl–3 butényl–2)–3 méthano–2,6 benzazocin–3 ol–8)
 - mais non compris :
-- **(4)** cyclazocine (hexahydro–1,2,3,4,5,6 diméthyl–6,11 (cyclopropylméthyl)–3 méthano–2,6 benzazocin–3 ol–8)
+- **(4)** cyclazocine (hexahydro-1,2,3,4,5,6 diméthyl-6,11 (cyclopropylméthyl)-3 méthano-2,6 benzazocin-3 ol-8) et ses sels
 - **12** Ampromides, leurs sels et dérivés, ainsi que les sels de leurs dérivés, notamment :
 - **(1)** diampromide (N–[(méthylphénéthylamino)–2 propyl] propionanilide)
 - **(2)** phénampromide (N–(méthyl–1 pipéridino–2 éthyl) propionanilide)
@@ -1778,7 +1780,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - mais non compris :
 - **(5)** léfétamine ((-)-N,N-diméthyl-α-phénylbenzèneéthanamine), ses sels, dérivés et isomères, ainsi que les sels de ses dérivés et isomères
 - **25** W-18 (4-chloro-N-[1- [2- (4-nitrophényl) éthyl] -2-pipéridinylidène] benzènesulfonamide), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues
-> 1996, ch. 19, ann. I; DORS/97-230, art. 1 à 6; DORS/99-371, art. 1 et 2; DORS/99-421, art. 1(A); DORS/2005-235, art. 1; DORS/2005-271, 337; 2012, ch. 1, art. 44; DORS/2012-176; DORS/2015-190; DORS/2016-107, art. 1.
+> 1996, ch. 19, ann. I; DORS/97-230, art. 1 à 6; DORS/99-371, art. 1 et 2; DORS/99-421, art. 1(A); DORS/2005-235, art. 1; DORS/2005-271, 337; 2012, ch. 1, art. 44; DORS/2012-176; DORS/2015-190; DORS/2016-107, art. 1; DORS/2017-13, art. 1 à 5.
 
 
 
@@ -1867,7 +1869,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **16** Rolicyclidine ((phényl-1 cyclohexyl)-1 pyrrolidine) et ses sels
 - **17** Mescaline (triméthoxy–3,4,5 benzèneéthanamine) et ses sels, sauf le peyote (lophophora)
 - **18** Méthyl–4 aminorex (dihydro–4,5 méthyl–4 phényl–5 oxazolamine–2) et ses sels
-- **19** Cathinone (1–α–aminopropiophénone) et ses sels
+- **19** Cathinone (*l*-α-aminopropiophénone) et ses sels
 - **20** Fénétylline (d,l-dihydro-3,7 diméthyl-1,3 [[(méthyl-1 phényl-2 éthyl)amino]-2 éthyl]-7 1H-purinedione-2,6) et ses sels
 - **21** Méthylamino–2 phényl–1 propanone–1 et ses sels
 - **22** [Cyclohexyl (phénylméthyl)–1] pipéridine–1 et ses sels
@@ -1888,7 +1890,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **(2)** 4-chloro-2,5-diméthoxy-N-(2-méthoxybenzyle)phénéthylamine (25C-NBOMe)
 - **(3)** 4-iodo-2,5-diméthoxy-N-(2-méthoxybenzyle)phénéthylamine (25I-NBOMe)
 - **(4)** 4-bromo-2,5-diméthoxybenzèneéthanamine (2C-B)
-> 1996, ch. 19, ann. III; DORS/97-230, art. 7 à 10; DORS/98-173, art. 1; DORS/2000-220, art. 1; DORS/2003-32, art. 2, 3, 4(F) et 5; DORS/2003-412; DORS/2005-235, art. 2; 2012, ch. 1, art. 45 et 46; DORS/2012-66; DORS/2016-73; DORS/2016-107, art. 2.
+> 1996, ch. 19, ann. III; DORS/97-230, art. 7 à 10; DORS/98-173, art. 1; DORS/2000-220, art. 1; DORS/2003-32, art. 2, 3, 4(F) et 5; DORS/2003-412; DORS/2005-235, art. 2; 2012, ch. 1, art. 45 et 46; DORS/2012-66; DORS/2016-73; DORS/2016-107, art. 2; DORS/2017-13, art. 6.
 
 
 
@@ -1901,7 +1903,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **(3)** amobarbital (acide éthyl–5 (méthyl–3 butyl)–5 barbiturique)
 - **(4)** aprobarbital (acide allyl–5 isopropyl–5 barbiturique)
 - **(5)** barbital (acide diéthyl–5,5 barbiturique)
-- **(6)** acide barbiturique ((1H,3H,5H)–pyrimidinetrione–2,4,6)
+- **(6)** [Abrogé, DORS/2017-13, art. 7]
 - **(7)** butabarbital (acide sec–butyl–5 éthyl–5 barbiturique)
 - **(8)** butalbital (acide allyl–5 isobutyl–5 barbiturique)
 - **(9)** butallylonal (acide (bromo–2 allyl)–5 sec–butyl–5 barbiturique)
@@ -1924,6 +1926,9 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **(26)** talbutal (acide allyl–5 sec–butyl–5 barbiturique)
 - **(27)** vinbarbital (acide éthyl–5 (méthyl–1 butényl–1)–5 barbiturique)
 - **(28)** vinylbital (acide (méthyl–1 butyl)–5 vinyl–5 barbiturique)
+- mais non compris :
+- **(29)** acide barbiturique ((1H,3H,5H)-pyrimidinetrione–2,4,6) et ses sels
+- **(30)** acide 1,3-diméthylbarbiturique (1,3-diméthyl-2,4,6(1H,3H,5H)-pyrimidinetrione) et ses sels
 - **2** Thiobarbituriques, ainsi que leurs sels et dérivés, notamment :
 - **(1)** thialbarbital (acide allyl–5 (cyclohexène–2 yl–1)–5 thio–2 barbiturique)
 - **(2)** thiamylal (acide allyl–5 (méthyl–1 butyl)–5 thio–2 barbiturique)
@@ -1933,9 +1938,9 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **4** Diéthylpropion ((diéthylamino)–2 propiophenone) et ses sels
 - **5** Phendimétrazine (d–diméthyl–3,4 phényl–2 morpholine) et ses sels
 - **6** Phenmétrazine (méthyl–3 phényl–2 morpholine) et ses sels
-- **7** Pipradol (α,α–diphényl (pipéridyl–2)–1 méthanol) et ses sels
+- **7** Pipradrol (α,α-diphényl (pipéridyl-2)-1 méthanol) et ses sels
 - **8** Phentermine (α,α–diméthylbenzèneéthanamine) et ses sels
-- **9** Butorphanol (1–N–cyclobutylméthyl dihydroxy–3,14 morphinane) et ses sels
+- **9** butorphanol (*l*-N-cyclobutylméthyl dihydroxy-3,14 morphinane) et ses sels
 - **10** Nalbuphine (N–cyclobutylméthyl époxy–4,5 morphinanetriol–3,6,14) et ses sels
 - **11** Glutéthimide (éthyl–2 phényl–2 glutarimide)
 - **12** Clotiazépam ((o–chlorophényl)–5 éthyl–7 dihydro–1,3 méthyl–1 2H–thiéno[2,3–e]diazépine–1,4 one–2) et ses sels
@@ -1984,7 +1989,8 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **(32.1)** Clozapine (chloro-8 (méthyl-4 pipérazinyl-1)-11 5H-diabenzo[b,e]diazépine-1,4) ainsi que ses sels
 - **(33)** Flunitrazépam ((o-fluorophényl)-5 dihydro-1,3 méthyl-1 nitro-7 2H-benzodiazépine-1,4 one-2), ainsi que ses sels et dérivés
 - **(34)** olanzapine (méthyl-2 (méthyl-4 pipérazinyl-1)-4 10H-thieno[2,3-b]benzodiazépine-1,5) et ses sels
-- **19** Catha edulis Forsk., ses préparations, dérivés, alcaloïdes et sels, notamment :
+- **(35)** N-oxyde de clozapine (8-chloro-11-(4-méthyl-4-oxydo-1-pipérazinyl)-5H-dibenzo[b,e][1,4]diazépine) et ses sels
+- **19** *Catha edulis* Forsk, ses préparations, dérivés, alcaloïdes et sels, notamment :
 - **(1)** cathine (d–thréo–amino–2 hydroxy–1 phényl–1 propane)
 - **20** Fencamfamine (*d,l*–N–éthyl phényl–3 bicyclo[2,2,1]heptanamine–2) et ses sels
 - **21** Fenproporex (d,l–[(α–méthylphénéthyl)amino]–3 propionitrile) et ses sels
@@ -2039,7 +2045,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **26** Pyrovalérone (méthyl-4′(pyrrolidinyl-1)-2 valérophénone) et ses sels
 - **27** Salvia divinorum (S. divinorum), ses préparations et dérivés, notamment :
 - **(1)** Salvinorine A (ester méthylique de l’acide (2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acétyloxy)-2-(3-furanyl)dodécahydro-6a,10b-diméthyl-4,10-dioxo-2Hnaphto[2,1-c]pyran-7-carboxylique)
-> 1996, ch. 19, ann. IV; DORS/97-230, art. 11 à 15; DORS/98-173, art. 2; DORS/99-371, art. 3; DORS/99-421, art. 2(A); DORS/2000-220, art. 2; DORS/2003-32, art. 6; DORS/2003-37; DORS/2015-209.
+> 1996, ch. 19, ann. IV; DORS/97-230, art. 11 à 15; DORS/98-173, art. 2; DORS/99-371, art. 3; DORS/99-421, art. 2(A); DORS/2000-220, art. 2; DORS/2003-32, art. 6; DORS/2003-37; DORS/2015-209; DORS/2017-13, art. 7 à 9, 10(A), 11 et 12.
 
 
 
