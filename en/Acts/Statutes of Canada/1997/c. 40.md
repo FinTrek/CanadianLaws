@@ -131,9 +131,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **5** The objects of the Board are
 - **(a)** to assist the Canada Pension Plan in meeting its obligations to contributors and beneficiaries under the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md);
-- **(b)** to manage any amounts transferred to it under section 108.1 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), and its right, title or interest in any designated securities, in the best interests of the contributors and beneficiaries under that Act; and
+- **(b)** to manage any amounts transferred to it under sections 108.1 and 108.3 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), and its right, title or interest in any designated securities, in the best interests of the contributors and beneficiaries under that Act; and
 - **(c)** to invest its assets with a view to achieving a maximum rate of return, without undue risk of loss, having regard to the factors that may affect the funding of the Canada Pension Plan and the ability of the Canada Pension Plan to meet its financial obligations on any given business day.
-> 1997, c. 40, s. 5; 2003, c. 5, s. 13.
+> 1997, c. 40, s. 5; 2003, c. 5, s. 13; 2016, c. 14, s. 57.
 
 
 
@@ -832,6 +832,12 @@ except where the person has knowledge that the facts asserted are true.
 
 - **(7)** The board of directors shall approve the annual financial statements of the Board and of each of its subsidiaries and that approval shall be evidenced by the signature of at least one director of the Board.
 
+**Jointly and separately**
+
+- **(8)** The financial statements required to be prepared under this section shall be prepared, as one set of statements, jointly and separately in relation to amounts managed by the Board for the purposes of the base Canada Pension Plan and the additional Canada Pension Plan, as defined in section 91 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md).
+> 1997, c. 40, s. 39; 2016, c. 14, s. 58.
+
+
 
 
 
@@ -1213,28 +1219,47 @@ except where the person has knowledge that the facts asserted are true.
 
 
 
-## Canada Pension Plan Account
+## Canada Pension Plan Account and Additional Canada Pension Plan Account
 
 
 
-**Duty of Board**
+**Duty of Board — Canada Pension Plan Account**
 
 **56** 
 
-- **(1)** The Board shall pay into the Consolidated Revenue Fund, for credit to the Canada Pension Plan Account established under subsection 108(1) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), any amount required under subsection 108.1(2) or 113(1.1) of that Act.
+- **(1)** The Board shall pay into the Consolidated Revenue Fund, for credit to the Canada Pension Plan Account established under subsection 108(1) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md),
+	- **(a)** any amount required under subsection 108.1(2) of that Act; and
+	- **(b)** any amount required under subsection 113(1.1) of that Act in relation to the base Canada Pension Plan, as defined in section 91 of that Act.
+
+**Duty of Board — Additional Canada Pension Plan Account**
+
+- **(1.1)** The Board shall pay into the Consolidated Revenue Fund, for credit to the Additional Canada Pension Plan Account established under subsection 108.2(1) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md),
+	- **(a)** any amount required under subsection 108.3(2) of that Act; and
+	- **(b)** any amount required under subsection 113(1.1) of that Act in relation to the additional Canada Pension Plan, as defined in section 91 of that Act.
 
 **Transfer of securities**
 
 - **(2)** The Board shall transfer to the Minister any designated securities of a province or of Canada that the Minister requires under subsection 113(1.1) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md).
-> 1997, c. 40, s. 56; 2003, c. 5, s. 18.
+> 1997, c. 40, s. 56; 2003, c. 5, s. 18; 2016, c. 14, s. 60.
 
 
 
 
 
-**Costs**
+**Administration costs — Canada Pension Plan Account**
 
-**57** Where the Minister is of the opinion that the Board cannot pay its administration costs, the Minister shall pay those costs out of the Consolidated Revenue Fund and any such payment shall be charged to the Canada Pension Plan Account established under subsection 108(1) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md).
+**57** If the Minister is of the opinion that the Board cannot pay its administration costs in relation to the base Canada Pension Plan, as defined in section 91 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), the Minister shall pay those costs out of the Consolidated Revenue Fund and the payment shall be charged to the Canada Pension Plan Account established under subsection 108(1) of that Act.
+> 1997, c. 40, s. 57; 2016, c. 14, s. 61.
+
+
+
+
+
+**Administration costs — Additional Canada Pension Plan Account**
+
+**57.1** If the Minister is of the opinion that the Board cannot pay its administration costs in relation to the additional Canada Pension Plan, as defined in section 91 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), the Minister shall pay those costs out of the Consolidated Revenue Fund and the payment shall be charged to the Additional Canada Pension Plan Account established under subsection 108.2(1) of that Act.
+> 2016, c. 14, s. 61.
+
 
 
 
