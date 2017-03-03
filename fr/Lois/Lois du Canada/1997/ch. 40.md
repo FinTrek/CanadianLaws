@@ -11,7 +11,7 @@ Sanctionnée sur le 18 décembre 1997
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -127,9 +127,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **5** L’Office a pour mission :
 - **a)** d’aider le Régime de pensions du Canada à s’acquitter de ses obligations envers les cotisants et les bénéficiaires que lui impose le [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md);
-- **b)** de gérer les sommes transférées en application de l’article 108.1 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), ainsi que ses droit, titre ou intérêt dans les titres désignés, dans l’intérêt des cotisants et des bénéficiaires de ce régime;
+- **b)** de gérer les sommes transférées en application des articles 108.1 et 108.3 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), ainsi que ses droit, titre ou intérêt dans les titres désignés, dans l’intérêt des cotisants et des bénéficiaires de ce régime;
 - **c)** de placer son actif en vue d’un rendement maximal tout en évitant des risques de perte indus et compte tenu des facteurs pouvant avoir un effet sur le financement du Régime de pensions du Canada ainsi que sur son aptitude à s’acquitter, chaque jour ouvrable, de ses obligations financières.
-> 1997, ch. 40, art. 5; 2003, ch. 5, art. 13.
+> 1997, ch. 40, art. 5; 2003, ch. 5, art. 13; 2016, ch. 14, art. 57.
 
 
 
@@ -816,6 +816,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(7)** Le conseil d’administration de l’Office doit approuver ses états financiers annuels ainsi que ceux de ses filiales, l’approbation étant attestée par la signature d’au moins un administrateur de l’Office.
 
+**Conjointement et séparément**
+
+- **(8)** Les états financiers établis en application du présent article sont présentés dans le même ensemble d’états et sont établis conjointement et séparément à l’égard des sommes administrées par l’Office pour l’application du régime de pensions de base du Canada et du régime de pensions supplémentaire du Canada, au sens de l’article 91 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md).
+> 1997, ch. 40, art. 39; 2016, ch. 14, art. 58.
+
+
 
 
 
@@ -1195,28 +1201,47 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-## Compte du Régime de pensions du Canada
+## Compte du régime de pensions du Canada et compte supplémentaire du régime de pensions du Canada
 
 
 
-**Responsabilité de l’Office**
+**Responsabilité de l’Office — compte du régime de pensions du Canada**
 
 **56** 
 
-- **(1)** L’Office verse au Trésor les sommes exigées en vertu des paragraphes 108.1(2) et 113(1.1) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md). Ces sommes sont portées au crédit du compte du régime de pensions du Canada ouvert en application du paragraphe 108(1) de cette loi.
+- **(1)** L’Office verse au Trésor les sommes mentionnées ci-après qui sont portées au crédit du compte du régime de pensions du Canada ouvert en application du paragraphe 108(1) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) :
+	- **a)** toute somme exigée en vertu du paragraphe 108.1(2) de cette loi;
+	- **b)** toute somme exigée en vertu du paragraphe 113(1.1) de cette loi relativement au régime de pensions de base du Canada, au sens de l’article 91 de cette loi.
+
+**Responsabilité de l’Office — compte supplémentaire du régime de pensions du Canada**
+
+- **(1.1)** L’Office verse au Trésor les sommes mentionnées ci-après qui sont portées au crédit du compte supplémentaire du régime de pensions du Canada ouvert en application du paragraphe 108.2(1) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) :
+	- **a)** toute somme exigée en vertu du paragraphe 108.3(2) de cette loi;
+	- **b)** toute somme exigée en vertu du paragraphe 113(1.1) de cette loi relativement au régime de pensions supplémentaire du Canada, au sens de l’article 91 de cette loi.
 
 **Transfert des titres**
 
 - **(2)** L’Office transfère au ministre les titres désignés d’une province ou du Canada que celui-ci exige en vertu du paragraphe 113(1.1) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md).
-> 1997, ch. 40, art. 56; 2003, ch. 5, art. 18.
+> 1997, ch. 40, art. 56; 2003, ch. 5, art. 18; 2016, ch. 14, art. 60.
 
 
 
 
 
-**Frais d’administration**
+**Frais d’administration — compte du régime de pensions du Canada**
 
-**57** Lorsqu’il est d’avis que l’Office n’a pas les fonds nécessaires pour payer ses frais d’administration, le ministre les prélève sur le Trésor et les porte au débit du compte du régime de pensions du Canada ouvert en vertu du paragraphe 108(1) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md).
+**57** Lorsque le ministre est d’avis que l’Office n’a pas les fonds nécessaires pour payer ses frais d’administration relativement au régime de pensions de base du Canada, au sens de l’article 91 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), le ministre les prélève sur le Trésor et les porte au débit du compte du régime de pensions du Canada ouvert en application du paragraphe 108(1) de cette loi.
+> 1997, ch. 40, art. 57; 2016, ch. 14, art. 61.
+
+
+
+
+
+**Frais d’administration — compte supplémentaire du régime de pensions du Canada**
+
+**57.1** Lorsque le ministre est d’avis que l’Office n’a pas les fonds nécessaires pour payer ses frais d’administration relativement au régime de pensions supplémentaire du Canada, au sens de l’article 91 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), il les prélève sur le Trésor et les porte au débit du compte supplémentaire du régime de pensions du Canada ouvert en application du paragraphe 108.2(1) de cette loi.
+> 2016, ch. 14, art. 61.
+
 
 
 
