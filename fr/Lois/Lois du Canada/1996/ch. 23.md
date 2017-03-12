@@ -286,7 +286,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Heures d’emploi assurable**
 
 - **(3)** Pour l’application de la présente partie, le nombre d’heures d’emploi assurable d’un prestataire pour une période donnée s’établit, sous réserve des règlements pris au titre de l’alinéa 54z.1), au titre de l’article 55.
-> 1996, ch. 23, art. 6; 2000, ch. 14, art. 2; 2016, ch. 7, art. 208.
+
+**Emploi non convenable**
+
+- **(4)** Pour l’application des alinéas 18(1)a) et 27(1)a) à c) et du paragraphe 50(8), un emploi n’est pas un emploi convenable pour un prestataire s’il s’agit :
+	- **a)** soit d’un emploi inoccupé du fait d’un arrêt de travail dû à un conflit collectif;
+	- **b)** soit d’un emploi dans le cadre de son occupation ordinaire à un taux de rémunération plus bas ou à des conditions moins favorables que le taux ou les conditions appliqués par convention entre employeurs et employés ou, à défaut de convention, admis par les bons employeurs;
+	- **c)** soit d’un emploi d’un genre différent de celui qu’il exerce dans le cadre de son occupation ordinaire, à un taux de rémunération plus bas ou à des conditions moins favorables que le taux ou les conditions qu’il pourrait raisonnablement s’attendre à obtenir, eu égard aux conditions qui lui étaient habituellement faites dans l’exercice de son occupation ordinaire ou qui lui auraient été faites s’il avait continué à exercer un tel emploi.
+
+**Délai raisonnable**
+
+- **(5)** Après un délai raisonnable à partir de la date à laquelle un assuré s’est trouvé en chômage, l’alinéa (4)c) ne s’applique pas à l’emploi qui y est visé s’il s’agit d’un emploi à un taux de rémunération qui n’est pas plus bas et à des conditions qui ne sont pas moins favorables que le taux ou les conditions appliqués par convention entre employeurs et employés ou, à défaut de convention, admis par les bons employeurs.
+> 1996, ch. 23, art. 6; 2000, ch. 14, art. 2; 2016, ch. 7, art. 208, ch. 12, art. 101.
 
 
 
@@ -1444,12 +1455,10 @@ plus de 13 %
 		- **(ii)** le prestataire, sans motif valable, a abandonné le cours, le programme ou l’activité,
 		- **(iii)** le prestataire a fait l’objet d’une expulsion par l’organisme responsable du cours, du programme ou de l’activité en cause.
 
-**Emploi non convenable**
-
-- **(2)** Pour l’application du présent article, un emploi n’est pas un emploi convenable pour un prestataire s’il s’agit d’un emploi inoccupé du fait d’un arrêt de travail dû à un conflit collectif.
+- **(2)** [Abrogé, 2016, ch. 12, art. 102]
 
 - **(3)** [Abrogé, 2012, ch. 19, art. 605]
-> 1996, ch. 23, art. 27; 2001, ch. 34, art. 41(A); 2012, ch. 19, art. 605.
+> 1996, ch. 23, art. 27; 2001, ch. 34, art. 41(A); 2012, ch. 19, art. 605; 2016, ch. 12, art. 102.
 
 
 
