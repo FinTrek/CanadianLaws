@@ -289,7 +289,18 @@ by
 **Hours of insurable employment**
 
 - **(3)** For the purposes of this Part, the number of hours of insurable employment that a claimant has in any period shall be established as provided under section 55, subject to any regulations made under paragraph 54(z.1) allocating the hours to the claimant’s qualifying period.
-> 1996, c. 23, s. 6; 2000, c. 14, s. 2; 2016, c. 7, s. 208.
+
+**Employment not suitable**
+
+- **(4)** For the purposes of paragraphs 18(1)(a) and 27(1)(a) to (c) and subsection 50(8), employment is not suitable employment for a claimant if
+	- **(a)** it arises in consequence of a work stoppage attributable to a labour dispute;
+	- **(b)** it is in the claimant’s usual occupation and is either at a lower rate of earnings or on conditions less favourable than those observed by agreement between employers and employees or, in the absence of any such agreement, than those recognized by good employers; or
+	- **(c)** it is not in the claimant’s usual occupation and is either at a lower rate of earnings or on conditions less favourable than those that the claimant might reasonably expect to obtain, having regard to the conditions that the claimant usually obtained in their usual occupation, or would have obtained if they had continued to be so employed.
+
+**Reasonable interval**
+
+- **(5)** After a lapse of a reasonable interval from the date on which an insured person becomes unemployed, paragraph (4)(c) does not apply to the employment described in that paragraph if it is employment at a rate of earnings not lower and on conditions not less favourable than those observed by agreement between employers and employees or, in the absence of any such agreement, than those recognized by good employers.
+> 1996, c. 23, s. 6; 2000, c. 14, s. 2; 2016, c. 7, s. 208, c. 12, s. 101.
 
 
 
@@ -1476,12 +1487,10 @@ the period referred to in subsection (2) is extended so that benefits may be pai
 		- **(ii)** without good cause, the claimant has withdrawn from the course, program or employment activity, or
 		- **(iii)** the organization providing the course, program or employment activity has expelled the claimant.
 
-**Employment not suitable**
-
-- **(2)** For the purposes of this section, employment is not suitable employment for a claimant if it arises in consequence of a stoppage of work attributable to a labour dispute.
+- **(2)** [Repealed, 2016, c. 12, s. 102]
 
 - **(3)** [Repealed, 2012, c. 19, s. 605]
-> 1996, c. 23, s. 27; 2001, c. 34, s. 41(E); 2012, c. 19, s. 605.
+> 1996, c. 23, s. 27; 2001, c. 34, s. 41(E); 2012, c. 19, s. 605; 2016, c. 12, s. 102.
 
 
 
