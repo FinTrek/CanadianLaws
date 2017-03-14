@@ -25084,88 +25084,94 @@ and only the L forms of the amino acids have been added.
 
 - **(1)** In this Part
 
-***acetaminophen product*** has the same meaning as in Division 9; (*produit d’acétaminophène*)
+***acetaminophen product*** has the same meaning as in Division 9; (*produit d’acétaminophène*)
 
-***adult standard dosage unit*** has, with reference to a drug, the same meaning as in Division 9; (*dose normale pour adultes*)
+***adult standard dosage unit*** has, with reference to a drug, the same meaning as in Division 9; (*dose normale pour adultes*)
 
-***adverse drug reaction*** means a noxious and unintended response to a drug, which occurs at doses normally used or tested for the diagnosis, treatment or prevention of a disease or the modification of an organic function; (*réaction indésirable à une drogue*)
+***adverse drug reaction*** means a noxious and unintended response to a drug, which occurs at doses normally used or tested for the diagnosis, treatment or prevention of a disease or the modification of an organic function; (*réaction indésirable à une drogue*)
 
-***antibiotic*** means any drug or combination of drugs such as those named in C.01.410 to C.01.592 which is prepared from certain micro-organisms, or which formerly was prepared from micro-organisms but is now made synthetically and which possesses inhibitory action on the growth of other micro-organisms; (*antibiotique*)
+***antibiotic*** means any drug or combination of drugs such as those named in C.01.410 to C.01.592 which is prepared from certain micro-organisms, or which formerly was prepared from micro-organisms but is now made synthetically and which possesses inhibitory action on the growth of other micro-organisms; (*antibiotique*)
 
-***brand name*** means, with reference to a drug, the name, whether or not including the name of any manufacturer, corporation, partnership or individual, in English or French,
+***authorization holder*** means, in respect of a drug,
+- **(a)** the person to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for the drug; and
+- **(b)** in the case of a drug that is listed in Schedule C to the Act, the manufacturer to whom a notice of compliance in respect of the drug was issued under section C.08.004 or C.08.004.01. (*titulaire de l’autorisation*)
+
+***brand name*** means, with reference to a drug, the name, whether or not including the name of any manufacturer, corporation, partnership or individual, in English or French,
 - **(a)** that is assigned to the drug by its manufacturer,
 - **(b)** under which the drug is sold or advertised, and
-- **(c)** that is used to distinguish the drug; (*marque nominative*)
+- **(c)** that is used to distinguish the drug; (*marque nominative*)
 
-***case report*** means a detailed record of all relevant data associated with the use of a drug in a subject; (*fiche d’observation*)
+***case report*** means a detailed record of all relevant data associated with the use of a drug in a subject; (*fiche d’observation*)
 
-***children’s standard dosage unit*** has, with reference to a drug, the same meaning as in Division 9; (*dose normale pour enfants*)
+***children’s standard dosage unit*** has, with reference to a drug, the same meaning as in Division 9; (*dose normale pour enfants*)
 
-***child resistant package*** means a package that meets the requirements of subsection (2); (*emballage protège-enfants*)
+***child resistant package*** means a package that meets the requirements of subsection (2); (*emballage protège-enfants*)
 
-***common name*** means, with reference to a drug, the name in English or French by which the drug is
+***common name*** means, with reference to a drug, the name in English or French by which the drug is
 - **(a)** commonly known, and
-- **(b)** designated in scientific or technical journals, other than the publications referred to in Schedule B to the Act; (*nom usuel*)
+- **(b)** designated in scientific or technical journals, other than the publications referred to in Schedule B to the Act; (*nom usuel*)
 
-***expiration date*** means
+***discontinue*** means, in respect of the sale of a drug by the authorization holder for the drug, to permanently cease the sale of the drug. (*cesser*)
+
+***expiration date*** means
 - **(a)** in the case of a drug in dosage form, the earlier of the following dates, expressed at minimum as a year and month:
 	- **(i)** the date up to and including which the drug maintains its labelled potency, purity and physical characteristics, and
 	- **(ii)** the date after which the manufacturer recommends that the drug not be used; and
 - **(b)** in the case of an active ingredient, whichever of the following dates is applicable, expressed at minimum as a year and month:
 	- **(i)** the retest date, or
-	- **(ii)** the date after which the manufacturer recommends that the active ingredient not be used. (*date limite d’utilisation*)
+	- **(ii)** the date after which the manufacturer recommends that the active ingredient not be used. (*date limite d’utilisation*)
 
-***flavour*** means a non-medicinal ingredient or combination of non-medicinal ingredients added to a drug solely to produce or mask a particular taste. It does not include an ingredient or combination of ingredients that impart only a sweet taste to the drug; (*saveur*)
+***flavour*** means a non-medicinal ingredient or combination of non-medicinal ingredients added to a drug solely to produce or mask a particular taste. It does not include an ingredient or combination of ingredients that impart only a sweet taste to the drug; (*saveur*)
 
-***fragrance*** means a non-medicinal ingredient or combination of non-medicinal ingredients added to a drug to produce or mask a particular odour; (*parfum*) 
+***fragrance*** means a non-medicinal ingredient or combination of non-medicinal ingredients added to a drug to produce or mask a particular odour; (*parfum*) 
 
-***immediate container*** means the receptacle that is in direct contact with a drug; (*récipient immédiat*)
+***immediate container*** means the receptacle that is in direct contact with a drug; (*récipient immédiat*)
 
-***internal use*** means ingestion by mouth or application for systemic effect to any part of the body in which the drug comes into contact with mucous membrane; (*usage interne*)
+***internal use*** means ingestion by mouth or application for systemic effect to any part of the body in which the drug comes into contact with mucous membrane; (*usage interne*)
 
-***non-medicinal ingredient*** means a substance — other than the pharmacologically active drug — that is added during the manufacturing process and that is present in the finished drug product; (*ingrédient non médicinal*)
+***non-medicinal ingredient*** means a substance — other than the pharmacologically active drug — that is added during the manufacturing process and that is present in the finished drug product; (*ingrédient non médicinal*)
 
-***official drug*** means any drug
+***official drug*** means any drug
 - **(a)** for which a standard is provided in these Regulations, or
-- **(b)** for which no standard is provided in these Regulations but for which a standard is provided in any of the publications mentioned in Schedule B to the Act; (*drogue officielle*)
+- **(b)** for which no standard is provided in these Regulations but for which a standard is provided in any of the publications mentioned in Schedule B to the Act; (*drogue officielle*)
 
-***parenteral use*** means administration of a drug by means of a hypodermic syringe, needle or other instrument through or into the skin or mucous membrane; (*usage parentéral*)
+***parenteral use*** means administration of a drug by means of a hypodermic syringe, needle or other instrument through or into the skin or mucous membrane; (*usage parentéral*)
 
-***per cent*** means per cent by weight unless otherwise stated; (*pour cent*)
+***per cent*** means per cent by weight unless otherwise stated; (*pour cent*)
 
-***pharmaceutical ink*** means a non-medicinal ingredient or combination of non-medicinal ingredients used to imprint the drug with marks or symbols; (*encre pharmaceutique*)
+***pharmaceutical ink*** means a non-medicinal ingredient or combination of non-medicinal ingredients used to imprint the drug with marks or symbols; (*encre pharmaceutique*)
 
-***pharmacist*** means a person who 
+***pharmacist*** means a person who 
 - **(a)** is registered or otherwise entitled under the laws of a province to practise pharmacy, and
-- **(b)** is practising pharmacy in that province; (*pharmacien*)
+- **(b)** is practising pharmacy in that province; (*pharmacien*)
 
-***pharmacy technician*** means a person who 
+***pharmacy technician*** means a person who 
 - **(a)** is registered or otherwise entitled under the laws of a province to practise as a pharmacy technician; and
-- **(b)** is practising as a pharmacy technician in that province; (*technicien en pharmacie*)
+- **(b)** is practising as a pharmacy technician in that province; (*technicien en pharmacie*)
 
-***practitioner*** means a person who
+***practitioner*** means a person who
 - **(a)** is entitled under the laws of a province to treat patients with a prescription drug, and
-- **(b)** is practising their profession in that province; (*praticien*)
+- **(b)** is practising their profession in that province; (*praticien*)
 
-***prescription*** means an order given by a practitioner directing that a stated amount of any drug or mixture of drugs specified therein be dispensed for the person named in the order; (*ordonnance*)
+***prescription*** means an order given by a practitioner directing that a stated amount of any drug or mixture of drugs specified therein be dispensed for the person named in the order; (*ordonnance*)
 
-***proper name*** means, with reference to a drug, the name in English or French
+***proper name*** means, with reference to a drug, the name in English or French
 - **(a)** assigned to the drug in section C.01.002,
 - **(b)** that appears in bold-face type for the drug in these Regulations and, where the drug is dispensed in a form other than that described in this Part, the name of the dispensing form,
 - **(c)** specified in the Canadian licence in the case of drugs included in Schedule C or Schedule D to the Act, or
-- **(d)** assigned in any of the publications mentioned in Schedule B to the Act in the case of drugs not included in paragraph (a), (b) or (c); (*nom propre*)
+- **(d)** assigned in any of the publications mentioned in Schedule B to the Act in the case of drugs not included in paragraph (a), (b) or (c); (*nom propre*)
 
-***salicylate product*** has the same meaning as in Division 9; (*produit de salicylate*)
+***salicylate product*** has the same meaning as in Division 9; (*produit de salicylate*)
 
-***serious adverse drug reaction*** means a noxious and unintended response to a drug that occurs at any dose and that requires in-patient hospitalization or prolongation of existing hospitalization, causes congenital malformation, results in persistent or significant disability or incapacity, is life-threatening or results in death; (*réaction indésirable grave à une drogue*)
+***serious adverse drug reaction*** means a noxious and unintended response to a drug that occurs at any dose and that requires in-patient hospitalization or prolongation of existing hospitalization, causes congenital malformation, results in persistent or significant disability or incapacity, is life-threatening or results in death; (*réaction indésirable grave à une drogue*)
 
-***serious unexpected adverse drug reaction*** means a serious adverse drug reaction that is not identified in nature, severity or frequency in the risk information set out on the label of the drug; (*réaction indésirable grave et imprévue à une drogue*)
+***serious unexpected adverse drug reaction*** means a serious adverse drug reaction that is not identified in nature, severity or frequency in the risk information set out on the label of the drug; (*réaction indésirable grave et imprévue à une drogue*)
 
-***teaspoon*** means, for the purpose of calculation of dosage, a volume of 5 cubic centimetres; (*cuillerée à thé*)
+***teaspoon*** means, for the purpose of calculation of dosage, a volume of 5 cubic centimetres; (*cuillerée à thé*)
 
-***test group*** means a group that meets the requirements of subsection (3); (*groupe d’essai*)
+***test group*** means a group that meets the requirements of subsection (3); (*groupe d’essai*)
 
-***withdrawal period*** means the length of time between the last administration of a drug to an animal and the time when tissues or products collected from the treated animal for consumption as food contain a level of residue of the drug that would not likely cause injury to human health. (*délai d’attente*)
+***withdrawal period*** means the length of time between the last administration of a drug to an animal and the time when tissues or products collected from the treated animal for consumption as food contain a level of residue of the drug that would not likely cause injury to human health. (*délai d’attente*)
 
 - **(2)** A child resistant package is a package that
 	- **(a)** when tested in accordance with an acceptable method,
@@ -25180,7 +25186,7 @@ and only the L forms of the amino acids have been added.
 		- **(ii)** European Standard EN 28317:1992, entitled Child-resistant packaging—Requirements and testing procedures for reclosable packages, as adopted by the European Committee for Standardization on October 30, 1992, recognized by the British Standards Institution, and effective February 15, 1993 and by the Association française de normalisation, and effective December 20, 1992, and which reiterates fully the international standard ISO 8317:1989, as amended from time to time, and
 		- **(iii)** Code of Federal Regulations (United States), Title 16, Section 1700.15, entitled Poison prevention packaging standards, as amended from time to time.
 
-- **(3)** For the purposes of this section, ***test group*** means
+- **(3)** For the purposes of this section, test group means
 	- **(a)** in relation to children, a group of at least 200 children who
 		- **(i)** are healthy and have no obvious physical or mental disability,
 		- **(ii)** are between 42 and 51 months of age, and
@@ -25191,7 +25197,7 @@ and only the L forms of the amino acids have been added.
 		- **(iii)** represent evenly, within plus or minus 10 per cent, each yearly age between 18 and 45 years calculated to the nearest year.
 
 - **(4)** For the purpose of this section, an amendment from time to time to a standard referred to in paragraph (2)(b) becomes effective 18 months after the date designated by the competent authority as the effective date for the amendment.
-> SOR/80-543, s. 1; SOR/85-966, s. 1; SOR/86-93, s. 1; SOR/87-484, s. 1; SOR/92-654, s. 1; SOR/93-202, s. 1; SOR/95-411, s. 1; SOR/95-521, s. 1; SOR/96-399, s. 1; SOR/96-240, s. 1; SOR/97-543, s. 5; SOR/2010-105, s. 1; SOR/2013-74, s. 1; SOR/2013-122, s. 3.
+> SOR/80-543, s. 1; SOR/85-966, s. 1; SOR/86-93, s. 1; SOR/87-484, s. 1; SOR/92-654, s. 1; SOR/93-202, s. 1; SOR/95-411, s. 1; SOR/95-521, s. 1; SOR/96-399, s. 1; SOR/96-240, s. 1; SOR/97-543, s. 5; SOR/2010-105, s. 1; SOR/2013-74, s. 1; SOR/2013-122, s. 3; SOR/2016-139, s. 1.
 
 
 
@@ -26106,7 +26112,7 @@ he may refuse to issue the document referred to in subsection (1).
 - **(b)** in the case of a change in the subject matter of any of the information referred to in paragraphs C.01.014.1(2)(g) to (k)
 	- **(i)** that occurs prior to the sale of the drug, the particulars of the change shall be submitted with the return of the document referred to in section C.01.014.3, or
 	- **(ii)** that occurs after the sale of the drug, the person to whom the drug identification number in respect of that drug was issued shall, within 30 days of the change, inform the Director of the change.
-> SOR/81-248, s. 2; SOR/92-230, s. 2; SOR/98-423, s. 6.
+> SOR/81-248, s. 2; SOR/92-230, s. 2; SOR/98-423, s. 6; SOR/2016-139, s. 2(F).
 
 
 
@@ -26120,20 +26126,113 @@ he may refuse to issue the document referred to in subsection (1).
 **C.01.014.6** 
 
 - **(1)** The Director shall cancel the assignment of a drug identification number for a drug where
-	- **(a)** the person to whom the number was assigned advises that the sale or import of the drug has been discontinued;
+	- **(a)** the person to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for the drug advises under section C.01.014.7 that they have discontinued the sale of the drug;
 	- **(b)** the drug is a new drug in respect of which the notice of compliance has been suspended pursuant to section C.08.006; or
 	- **(c)** it has been determined that the product in respect of which the number was assigned is not a drug.
 
 - **(2)** The Director may cancel the assignment of a drug identification number for a drug where
 	- **(a)** the manufacturer of the drug has failed to comply with section C.01.014.5; or
 	- **(b)** the manufacturer to whom the number was assigned has been notified pursuant to section C.01.013 that the evidence he submitted in respect of the drug is insufficient.
-> SOR/81-248, s. 2.
+> SOR/81-248, s. 2; SOR/2016-139, s. 3.
 
 
 
 
-**C.01.014.7** Where a person who has been assigned a drug identification number for a drug discontinues sale of the drug in Canada, he shall, within 30 days of such discontinuation, inform the Director that he is no longer selling the drug.
-> SOR/81-248, s. 2.
+
+#### Shortages of Drugs and Interruption and Discontinuation of Sale of Drugs
+
+
+**C.01.014.7** The person to whom a document was issued under subsection C.01.014.2(1) that sets out the drug identification number assigned for a drug shall, within 30 days after the day on which they discontinue the sale of the drug, submit the following information to the Minister:
+- **(a)** the drug identification number assigned for the drug under that subsection;
+- **(b)** the date on which the person discontinued the sale of the drug; and
+- **(c)** the latest expiration date of the drug that the person sold and the lot number of that drug.
+> SOR/81-248, s. 2; SOR/2016-139, s. 5.
+
+
+
+
+**C.01.014.8** The following definitions apply in this section and in sections C.01.014.9 to C.01.014.12.
+
+***drug*** means
+- **(a)** any of the following drugs for human use in respect of which a drug identification number was assigned under subsection C.01.014.2(1):
+	- **(i)** drugs included in Schedule I, II, III, IV or V to the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md),
+	- **(ii)** prescription drugs,
+	- **(iii)** drugs that are listed in Schedule D to the Act, and
+	- **(iv)** drugs that are permitted to be sold without a prescription but that are administered only under the supervision of a practitioner; or
+- **(b)** a drug that is listed in Schedule C to the Act. (*drogue*)
+
+***shortage*** means a situation in which an authorization holder for a drug is unable to meet the demand for the drug. (*pénurie*)
+> SOR/2016-139, s. 5.
+
+
+
+
+**C.01.014.9** 
+
+- **(1)** If a shortage of a drug exists or is likely to occur, the authorization holder for the drug shall post the following information in English and French on a website that is operated by a party for that purpose with whom Her Majesty in right of Canada has entered into a contract to make that information available to the public:
+	- **(a)** the authorization holder’s name and their telephone number, email address, website address, postal address or any other information that enables communication with them;
+	- **(b)** the drug identification number assigned for the drug under subsection C.01.014.2(1), if applicable;
+	- **(c)** the drug’s brand name and proper name or, if it does not have a proper name, its common name;
+	- **(d)** the proper names of the drug’s medicinal ingredients or, if they do not have proper names, their common names;
+	- **(e)** the drug’s therapeutic classification according to the Anatomical Therapeutic Chemical classification system (ATC), established by the World Health Organization Collaborating Centre for Drug Statistics Methodology — namely the level 3 description of, and level 4 code for, the drug;
+	- **(f)** the drug’s strength;
+	- **(g)** the drug’s dosage form;
+	- **(h)** the quantity of the drug contained in its package;
+	- **(i)** the drug’s route of administration;
+	- **(j)** the date when the shortage began or is anticipated to begin;
+	- **(k)** the anticipated date when the authorization holder will be able to meet the demand for the drug, if the authorization holder can anticipate that date; and
+	- **(l)** the actual or anticipated reason for the shortage.
+
+- **(2)** The authorization holder shall post the information
+	- **(a)** if they anticipate that a shortage will begin in more than six months, at least six months before the day on which they anticipate it to begin;
+	- **(b)** if they anticipate that a shortage will begin in six months or less, within five days after the day on which they anticipate it; or
+	- **(c)** if they did not anticipate the shortage, within five days after the day on which they become aware of it.
+
+- **(3)** If any of the information that was posted by an authorization holder changes, they shall update that information on the website within two days after the day on which they make or become aware of the change.
+
+- **(4)** Within two days after the day on which the authorization holder is able to meet the demand for the drug, they shall post information on the website to that effect.
+> SOR/2016-139, s. 5.
+
+
+
+
+**C.01.014.10** 
+
+- **(1)** If an authorization holder for a drug decides to discontinue the sale of the drug, they shall post the following information in English and French on the website referred to in subsection C.01.014.9(1):
+	- **(a)** the authorization holder’s name and their telephone number, email address, website address, postal address or any other information that enables communication with them;
+	- **(b)** the drug identification number assigned for that drug under subsection C.01.014.2(1), if applicable;
+	- **(c)** the drug’s brand name and proper name or, if it does not have a proper name, its common name;
+	- **(d)** the proper names of the drug’s medicinal ingredients or, if they do not have proper names, their common names;
+	- **(e)** the drug’s therapeutic classification according to the Anatomical Therapeutic Chemical classification system (ATC), established by the World Health Organization Collaborating Centre for Drug Statistics Methodology — namely the level 3 description of, and level 4 code for, the drug;
+	- **(f)** the drug’s strength;
+	- **(g)** the drug’s dosage form;
+	- **(h)** the quantity of the drug contained in its package;
+	- **(i)** the drug’s route of administration;
+	- **(j)** the date on which the authorization holder will discontinue the sale of the drug; and
+	- **(k)** the reason for the discontinuation of sale.
+
+- **(2)** The authorization holder shall post the information
+	- **(a)** if they decide to discontinue the sale of the drug in more than six months, at least six months before the day on which they will discontinue its sale; and
+	- **(b)** if they decide to discontinue the sale of the drug in six months or less, within five days after the day on which that decision is made.
+
+- **(3)** If any of the information that was posted by an authorization holder changes, they shall update that information on the website within two days after the day on which they make or become aware of the change.
+> SOR/2016-139, s. 5.
+
+
+
+
+**C.01.014.11** The Minister shall maintain a hyperlink to the website referred to in subsection C.01.014.9(1) on the Department of Health website.
+> SOR/2016-139, s. 5.
+
+
+
+
+**C.01.014.12** 
+
+- **(1)** If a period of 12 months has elapsed since an authorization holder for a drug last sold the drug, they shall notify the Minister of that fact within 30 days after the day on which that period ends.
+
+- **(2)** The authorization holder shall, within 30 days after the day on which they resume the sale of the drug, notify the Minister of that fact.
+> SOR/2016-139, s. 5.
 
 
 
