@@ -25064,9 +25064,11 @@ si seulement des acides aminés de forme L ont été ajoutés.
 
 - **(1)** Dans la présente partie,
 
-***antibiotique*** désigne toute drogue ou tout mélange de drogues, tels que ceux qui figurent aux articles C.01.410 à C.01.592, lesquels sont préparés à partir de certains microorganismes, ou l’ont été antérieurement, mais sont maintenant fabriqués par synthèse, et sont doués de propriétés inhibitrices de la croissance d’autres microorganismes; (*antibiotic*)
+***antibiotique*** désigne toute drogue ou tout mélange de drogues, tels que ceux qui figurent aux articles C.01.410 à C.01.592, lesquels sont préparés à partir de certains microorganismes, ou l’ont été antérieurement, mais sont maintenant fabriqués par synthèse, et sont doués de propriétés inhibitrices de la croissance d’autres microorganismes; (*antibiotic*)
 
-***cuillerée à thé*** désigne, aux fins du calcul d’une dose, un volume de cinq centimètres cubes; (*teaspoon*)
+***cesser*** S’entend, à l’égard de la vente d’une drogue par le titulaire de l’autorisation relative à cette drogue, du fait d’abandonner définitivement la vente de la drogue; (*discontinue*)
+
+***cuillerée à thé*** désigne, aux fins du calcul d’une dose, un volume de cinq centimètres cubes; (*teaspoon*)
 
 ***date limite d’utilisation*** :
 - **a)** S’agissant d’une drogue sous forme posologique, celles des dates ci-après qui est antérieure à l’autre, indiquée au moins par l’année et le mois :
@@ -25074,78 +25076,82 @@ si seulement des acides aminés de forme L ont été ajoutés.
 	- **(ii)** la date après laquelle le fabricant recommande de ne plus utiliser la drogue;
 - **b)** s’agissant d’un ingrédient actif, celle des dates ci-après qui s’applique, indiquée au moins par l’année et le mois :
 	- **(i)** la date de nouvelle analyse,
-	- **(ii)** la date après laquelle le fabricant recommande de ne plus utiliser l’ingrédient actif. (*expiration date*)
+	- **(ii)** la date après laquelle le fabricant recommande de ne plus utiliser l’ingrédient actif; (*expiration date*)
 
-***délai d’attente*** Intervalle entre le moment de la dernière administration d’une drogue à un animal et le moment où la concentration de tout résidu de la drogue présent dans les tissus ou les produits prélevés chez l’animal pour servir d’aliment ne présente vraisemblablement plus de risques pour la santé de l’être humain. (*withdrawal period*)
+***délai d’attente*** Intervalle entre le moment de la dernière administration d’une drogue à un animal et le moment où la concentration de tout résidu de la drogue présent dans les tissus ou les produits prélevés chez l’animal pour servir d’aliment ne présente vraisemblablement plus de risques pour la santé de l’être humain; (*withdrawal period*)
 
-***dose normale pour adultes*** désigne, dans le cas d’une drogue, la dose prescrite au titre 9; (*adult standard dosage unit*)
+***dose normale pour adultes*** désigne, dans le cas d’une drogue, la dose prescrite au titre 9; (*adult standard dosage unit*)
 
-***dose normale pour enfants*** désigne, dans le cas d’une drogue, la dose prescrite au titre 9; (*children’s standard dosage unit*)
+***dose normale pour enfants*** désigne, dans le cas d’une drogue, la dose prescrite au titre 9; (*children’s standard dosage unit*)
 
-***drogue officielle*** désigne toute drogue
+***drogue officielle*** désigne toute drogue
 - **a)** pour laquelle une norme est fixée dans le présent règlement, ou
-- **b)** pour laquelle une norme est fixée dans l’une des publications mentionnées à l’annexe B de la Loi, et non dans le présent règlement; (*official drug*)
+- **b)** pour laquelle une norme est fixée dans l’une des publications mentionnées à l’annexe B de la Loi, et non dans le présent règlement; (*official drug*)
 
-***emballage protège-enfants*** désigne un emballage qui répond aux exigences du paragraphe (2); (*child resistant package*)
+***emballage protège-enfants*** désigne un emballage qui répond aux exigences du paragraphe (2); (*child resistant package*)
 
-***encre pharmaceutique*** Ingrédient non médicinal ou mélange d’ingrédients non médicinaux utilisé pour imprimer des marques ou des symboles sur la drogue. (*pharmaceutical ink*)
+***encre pharmaceutique*** Ingrédient non médicinal ou mélange d’ingrédients non médicinaux utilisé pour imprimer des marques ou des symboles sur la drogue; (*pharmaceutical ink*)
 
-***fiche d’observation*** Rapport détaillé renfermant les données pertinentes concernant l’utilisation d’une drogue chez un sujet. (*case report*)
+***fiche d’observation*** Rapport détaillé renfermant les données pertinentes concernant l’utilisation d’une drogue chez un sujet; (*case report*)
 
-***groupe d’essai*** désigne un groupe qui répond aux exigences du paragraphe (3); (*test group*)
+***groupe d’essai*** désigne un groupe qui répond aux exigences du paragraphe (3); (*test group*)
 
-***ingrédient non médicinal*** Substance, autre qu’une drogue pharmacologiquement active, ajoutée à la drogue au cours de la fabrication et présente dans le produit fini. (*non-medicinal ingredient*)
+***ingrédient non médicinal*** Substance, autre qu’une drogue pharmacologiquement active, ajoutée à la drogue au cours de la fabrication et présente dans le produit fini; (*non-medicinal ingredient*)
 
-***marque nominative*** Dans le cas d’une drogue, le nom en français ou en anglais, avec ou sans le nom d’un fabricant, d’une personne morale, d’une société de personnes ou d’un particulier :
+***marque nominative*** Dans le cas d’une drogue, le nom en français ou en anglais, avec ou sans le nom d’un fabricant, d’une personne morale, d’une société de personnes ou d’un particulier :
 - **a)** qui lui a été attribué par le fabricant;
 - **b)** sous lequel elle est vendue ou fait l’objet de publicité;
-- **c)** qui sert à l’identifier. (*brand name*)
+- **c)** qui sert à l’identifier; (*brand name*)
 
-***nom propre*** désigne, à l’égard d’une drogue, le nom en anglais ou en français
+***nom propre*** désigne, à l’égard d’une drogue, le nom en anglais ou en français
 - **a)** attribué à ladite drogue à l’article C.01.002,
 - **b)** figurant en caractères gras dans le présent règlement lorsqu’il est question de ladite drogue et, lorsque la drogue est distribuée sous une forme autre que celle qui est décrite dans la présente partie, le nom de la forme sous laquelle ladite drogue est distribuée,
 - **c)** spécifié dans la licence canadienne, dans le cas des drogues comprises à l’annexe C ou à l’annexe D de la Loi, ou
-- **d)** attribué, dans l’une des publications mentionnées à l’annexe B de la Loi, dans le cas des drogues non comprises aux alinéas a), b) ou c); (*proper name*)
+- **d)** attribué, dans l’une des publications mentionnées à l’annexe B de la Loi, dans le cas des drogues non comprises aux alinéas a), b) ou c); (*proper name*)
 
-***nom usuel*** Dans le cas d’une drogue, le nom en français ou en anglais sous lequel elle est :
+***nom usuel*** Dans le cas d’une drogue, le nom en français ou en anglais sous lequel elle est :
 - **a)** généralement connue;
-- **b)** désignée dans des revues scientifiques ou techniques autres que les publications dont le nom figure à l’annexe B de la Loi. (*common name*)
+- **b)** désignée dans des revues scientifiques ou techniques autres que les publications dont le nom figure à l’annexe B de la Loi; (*common name*)
 
-***ordonnance*** désigne un ordre délivré par un praticien, spécifiant une quantité donnée de quelque drogue ou mélange de drogues à dispenser à la personne nommée dans ladite ordonnance; (*prescription*)
+***ordonnance*** désigne un ordre délivré par un praticien, spécifiant une quantité donnée de quelque drogue ou mélange de drogues à dispenser à la personne nommée dans ladite ordonnance; (*prescription*)
 
-***parfum*** Ingrédient non médicinal ou mélange d’ingrédients non médicinaux ajouté à la drogue pour produire ou masquer une odeur. (*fragrance*) 
+***parfum*** Ingrédient non médicinal ou mélange d’ingrédients non médicinaux ajouté à la drogue pour produire ou masquer une odeur; (*fragrance*) 
 
-***pharmacien*** Personne qui : 
+***pharmacien*** Personne qui :
 - **a)** d’une part, est autorisée, notamment par un permis d’exercice, en vertu des lois d’une province à exercer la profession de pharmacien;
-- **b)** d’autre part, exerce la profession de pharmacien dans cette province. (*pharmacist*)
+- **b)** d’autre part, exerce la profession de pharmacien dans cette province; (*pharmacist*)
 
-***pour cent*** désigne le pourcentage en poids, à moins de précision contraire; (*per cent*)
+***pour cent*** désigne le pourcentage en poids, à moins de précision contraire; (*per cent*)
 
-***praticien*** Personne qui :
+***praticien*** Personne qui :
 - **a)** d’une part, est autorisée en vertu des lois d’une province à traiter les patients au moyen d’une drogue sur ordonnance;
-- **b)** d’autre part, exerce sa profession dans cette province. (*practitioner*)
+- **b)** d’autre part, exerce sa profession dans cette province; (*practitioner*)
 
-***produit d’acétaminophène*** s’entend au sens du titre 9; (*acetaminophen product*)
+***produit d’acétaminophène*** s’entend au sens du titre 9; (*acetaminophen product*)
 
-***produit de salicylate*** s’entend au sens du titre 9; (*salicylate product*)
+***produit de salicylate*** s’entend au sens du titre 9; (*salicylate product*)
 
-***réaction indésirable à une drogue*** Réaction nocive et non intentionnelle à une drogue qui survient lorsque la drogue est utilisée selon les doses normales ou selon des doses expérimentales, aux fins du diagnostic, du traitement ou de la prévention d’une maladie ou de la modification d’une fonction organique. (*adverse drug reaction*)
+***réaction indésirable à une drogue*** Réaction nocive et non intentionnelle à une drogue qui survient lorsque la drogue est utilisée selon les doses normales ou selon des doses expérimentales, aux fins du diagnostic, du traitement ou de la prévention d’une maladie ou de la modification d’une fonction organique; (*adverse drug reaction*)
 
-***réaction indésirable grave à une drogue*** Réaction nocive et non intentionnelle à une drogue qui est provoquée par toute dose de celle-ci et qui nécessite ou prolonge l’hospitalisation, entraîne une malformation congénitale ou une invalidité ou incapacité persistante ou importante, met la vie en danger ou entraîne la mort. (*serious adverse drug reaction*)
+***réaction indésirable grave à une drogue*** Réaction nocive et non intentionnelle à une drogue qui est provoquée par toute dose de celle-ci et qui nécessite ou prolonge l’hospitalisation, entraîne une malformation congénitale ou une invalidité ou incapacité persistante ou importante, met la vie en danger ou entraîne la mort; (*serious adverse drug reaction*)
 
-***réaction indésirable grave et imprévue à une drogue*** Réaction indésirable grave à une drogue, dont la nature, la gravité ou la fréquence n’est pas indiquée dans les mentions de risque figurant sur l’étiquette de la drogue. (*serious unexpected adverse drug reaction*)
+***réaction indésirable grave et imprévue à une drogue*** Réaction indésirable grave à une drogue, dont la nature, la gravité ou la fréquence n’est pas indiquée dans les mentions de risque figurant sur l’étiquette de la drogue; (*serious unexpected adverse drug reaction*)
 
-***récipient immédiat*** Récipient qui est en contact direct avec la drogue. (*immediate container*)
+***récipient immédiat*** Récipient qui est en contact direct avec la drogue; (*immediate container*)
 
-***saveur*** Ingrédient non médicinal ou mélange d’ingrédients non médicinaux ajouté à la drogue pour produire ou masquer une saveur, à l’exclusion de ceux qui lui confèrent uniquement un goût sucré. (*flavour*) 
+***saveur*** Ingrédient non médicinal ou mélange d’ingrédients non médicinaux ajouté à la drogue pour produire ou masquer une saveur, à l’exclusion de ceux qui lui confèrent uniquement un goût sucré; (*flavour*) 
 
-***technicien en pharmacie*** Personne qui :
+***technicien en pharmacie*** Personne qui :
 - **a)** d’une part, est autorisée, notamment par un permis d’exercice, en vertu des lois d’une province à exercer la profession de technicien en pharmacie;
-- **b)** d’autre part, exerce la profession de technicien en pharmacie dans cette province. (*pharmacy technician*)
+- **b)** d’autre part, exerce la profession de technicien en pharmacie dans cette province; (*pharmacy technician*)
 
-***usage interne*** signifie l’absorption par la bouche ou l’application, en vue d’une action fonctionnelle, à toute partie du corps dans laquelle ladite drogue vient en contact avec une muqueuse; (*internal use*)
+***titulaire de l’autorisation*** S’entend, à l’égard d’une drogue :
+- **a)** de la personne à qui est remis le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à la drogue;
+- **b)** dans le cas d’une drogue visée à l’annexe C de la Loi, du fabricant auquel un avis de conformité a été délivré à l’égard de la drogue en application des articles C.08.004 ou C.08.004.01; (*authorization holder*)
 
-***usage parentéral*** signifie l’administration d’une drogue au moyen d’une seringue hypodermique, d’une aiguille ou de quelque autre instrument, à travers ou dans la peau ou une muqueuse. (*parenteral use*)
+***usage interne*** signifie l’absorption par la bouche ou l’application, en vue d’une action fonctionnelle, à toute partie du corps dans laquelle ladite drogue vient en contact avec une muqueuse; (*internal use*)
+
+***usage parentéral*** signifie l’administration d’une drogue au moyen d’une seringue hypodermique, d’une aiguille ou de quelque autre instrument, à travers ou dans la peau ou une muqueuse. (*parenteral use*)
 
 - **(2)** L’emballage protège-enfants est un emballage qui :
 	- **a)** soit, lorsqu’il est soumis à un essai selon une méthode acceptable, répond aux exigences suivantes :
@@ -25171,7 +25177,7 @@ si seulement des acides aminés de forme L ont été ajoutés.
 		- **(iii)** représentent dans une égale proportion, avec une marge de plus ou moins 10 pour cent, les divers âges, exprimés en années, de 18 à 45 ans, calculés à l’année près.
 
 - **(4)** Pour l’application du présent article, les modifications successives des normes visées à l’alinéa (2)b) entrent en vigueur à l’expiration du délai de 18 mois suivant la date désignée par l’autorité compétente comme étant celle de leur entrée en vigueur.
-> DORS/80-543, art. 1; DORS/85-966, art. 1; DORS/86-93, art. 1; DORS/87-484, art. 1; DORS/92-654, art. 1; DORS/93-202, art. 1; DORS/95-411, art. 1; DORS/95-521, art. 1; DORS/96-399, art. 1; DORS/96-240, art. 1; DORS/97-543, art. 5; DORS/2010-105, art. 1; DORS/2013-74, art. 1; DORS/2013-122, art. 3.
+> DORS/80-543, art. 1; DORS/85-966, art. 1; DORS/86-93, art. 1; DORS/87-484, art. 1; DORS/92-654, art. 1; DORS/93-202, art. 1; DORS/95-411, art. 1; DORS/95-521, art. 1; DORS/96-399, art. 1; DORS/96-240, art. 1; DORS/97-543, art. 5; DORS/2010-105, art. 1; DORS/2013-74, art. 1; DORS/2013-122, art. 3; DORS/2016-139, art. 1.
 
 
 
@@ -26081,11 +26087,11 @@ indiqués pour cette drogue dans les publications mentionnées à l’annexe B 
 **C.01.014.4** Dans le cas où les renseignements visés au paragraphe C.01.014.1(2) ne sont plus exacts :
 - **a)** en raison de la modification des renseignements visés aux alinéas C.01.014.1(2)a) à f) :
 	- **(i)** qui se produit avant la mise en marché de la drogue, une nouvelle demande doit être présentée, ou
-	- **(ii)** qui se produit après la mise en marché de la drogue, la vente doit être discontinuée jusqu’à ce qu’une nouvelle demande d’identification numérique soit présentée et qu’un numéro soit attribué; et
+	- **(ii)** qui se produit après la mise en marché de la drogue, la vente doit être interrompue jusqu’à ce qu’une nouvelle demande d’identification numérique soit présentée et qu’une nouvelle identification numérique soit attribuée à l’égard de la drogue;
 - **b)** en raison de la modification des renseignements visés aux alinéas C.01.014.1(2)g) à k) :
 	- **(i)** qui se produit avant la mise en marché de la drogue, tous les détails de la modification doivent être présentés en même temps que le document visé à l’article C.01.014.3, ou
 	- **(ii)** qui se produit après la mise en marché de la drogue, la personne à qui l’identification numérique de la drogue a été attribuée doit en informer le Directeur dans les 30 jours suivant la modification.
-> DORS/81-248, art. 2; DORS/92-230, art. 2; DORS/98-423, art. 6.
+> DORS/81-248, art. 2; DORS/92-230, art. 2; DORS/98-423, art. 6; DORS/2016-139, art. 2(F).
 
 
 
@@ -26099,20 +26105,113 @@ indiqués pour cette drogue dans les publications mentionnées à l’annexe B 
 **C.01.014.6** 
 
 - **(1)** Le Directeur annule l’identification numérique d’une drogue
-	- **a)** si la personne à qui il l’a attribuée l’informe que la vente ou l’importation de la drogue concernée a été discontinuée;
+	- **a)** si la personne à qui est remis le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à la drogue signale, en application de l’article C.01.014.7, qu’elle a cessé la vente de la drogue;
 	- **b)** si la drogue est une drogue nouvelle pour laquelle l’avis de conformité a été suspendu conformément à l’article C.08.006; ou
 	- **c)** s’il a été décidé que le produit faisant l’objet de l’identification numérique n’est pas une drogue.
 
 - **(2)** Le Directeur peut annuler l’identification numérique d’une drogue
 	- **a)** si le fabricant de la drogue ne s’est pas conformé à l’article C.01.014.5; ou
 	- **b)** si le fabricant à qui l’identification numérique a été attribuée a été avisé, selon l’article C.01.013, que les preuves présentées au sujet de la drogue sont insuffisantes.
-> DORS/81-248, art. 2.
+> DORS/81-248, art. 2; DORS/2016-139, art. 3.
 
 
 
 
-**C.01.014.7** Lorsqu’une personne à qui l’identification numérique d’une drogue a été attribuée en discontinue la vente au Canada, elle doit informer le Directeur dans les 30 jours suivant la discontinuation.
-> DORS/81-248, art. 2.
+
+#### Pénuries de drogues et interruption et cessation de la vente de drogues
+
+
+**C.01.014.7** La personne à qui est remis le document prévu au paragraphe C.01.014.2(1) qui indique l’identification numérique attribuée à une drogue fournit au ministre, dans les trente jours suivant la cessation de la vente de cette drogue, les renseignements suivants :
+- **a)** l’identification numérique attribuée à la drogue en application de ce paragraphe;
+- **b)** la date à laquelle elle a cessé la vente de la drogue;
+- **c)** la date limite d’utilisation la plus tardive attribuée à la drogue qu’elle a vendue et le numéro de lot de celle-ci.
+> DORS/81-248, art. 2; DORS/2016-139, art. 5.
+
+
+
+
+**C.01.014.8** Les définitions qui suivent s’appliquent au présent article et aux articles C.01.014.9 à C.01.014.12.
+
+***drogue*** S’entend :
+- **a)** soit de l’une des drogues pour usage humain ci-après auxquelles une identification numérique a été attribuée en application du paragraphe C.01.014.2(1) :
+	- **(i)** les drogues inscrites aux annexes I, II, III, IV ou V de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md),
+	- **(ii)** les drogues sur ordonnance,
+	- **(iii)** les drogues visées à l’annexe D de la Loi,
+	- **(iv)** les drogues qui peuvent être vendues sans ordonnance mais qui sont administrées uniquement sous la surveillance d’un praticien;
+- **b)** soit de l’une des drogues visées à l’annexe C de la Loi. (*drug*)
+
+***pénurie*** Situation où le titulaire de l’autorisation relative à une drogue est incapable de répondre à la demande pour cette drogue. (*shortage*)
+> DORS/2016-139, art. 5.
+
+
+
+
+**C.01.014.9** 
+
+- **(1)** S’il y a pénurie ou probabilité de pénurie d’une drogue, le titulaire de l’autorisation relative à la drogue affiche les renseignements ci-après, en français et en anglais, sur un site Web exploité à cette fin par un contractant avec lequel Sa Majesté du chef du Canada a conclu un contrat pour rendre cette information disponible au public :
+	- **a)** son nom et son numéro de téléphone, son adresse électronique, son adresse de site Web, son adresse postale ou tout autre renseignement permettant de communiquer avec lui;
+	- **b)** l’identification numérique attribuée à la drogue en application du paragraphe C.01.014.2(1), s’il y a lieu;
+	- **c)** la marque nominative de la drogue et son nom propre ou, à défaut, son nom usuel;
+	- **d)** le nom propre des ingrédients médicinaux de la drogue ou, à défaut, leur nom usuel;
+	- **e)** la classification thérapeutique de la drogue dans le système de classification anatomique, thérapeutique et chimique (ATC), établi par le Centre collaborateur de l’Organisation mondiale de la Santé pour la méthodologie sur l’établissement des statistiques concernant les produits médicamenteux, à savoir sa description de niveau 3 et son code de niveau 4;
+	- **f)** la concentration de la drogue;
+	- **g)** la forme posologique de la drogue;
+	- **h)** la quantité de drogue contenue dans l’emballage;
+	- **i)** la voie d’administration de la drogue;
+	- **j)** la date réelle ou prévue du début de la pénurie;
+	- **k)** la date à laquelle il est prévu que le titulaire de l’autorisation sera capable de répondre à la demande pour la drogue, dans la mesure où ce dernier peut prévoir une telle date;
+	- **l)** la raison réelle ou prévue de la pénurie.
+
+- **(2)** Le titulaire de l’autorisation affiche les renseignements :
+	- **a)** s’il prévoit que la pénurie débutera dans plus de six mois, au moins six mois avant la date à laquelle il prévoit que la pénurie débutera;
+	- **b)** s’il prévoit que la pénurie débutera dans six mois ou moins, dans les cinq jours qui suivent la date où il établit cette prévision;
+	- **c)** s’il n’a pas prévu la pénurie, dans les cinq jours qui suivent la date où il en constate l’existence.
+
+- **(3)** Si les renseignements affichés changent, le titulaire de l’autorisation les met à jour sur le site Web dans les deux jours qui suivent la date à laquelle il fait ou constate le changement.
+
+- **(4)** Dans les deux jours qui suivent la date à laquelle il est capable de répondre à la demande pour la drogue, le titulaire de l’autorisation le signale sur le site Web.
+> DORS/2016-139, art. 5.
+
+
+
+
+**C.01.014.10** 
+
+- **(1)** Si le titulaire de l’autorisation relative à une drogue décide de cesser la vente de cette drogue, il affiche les renseignements ci-après, en français et en anglais, sur le site Web visé au paragraphe C.01.014.9(1) :
+	- **a)** son nom et son numéro de téléphone, son adresse électronique, son adresse de site Web, son adresse postale ou tout autre renseignement permettant de communiquer avec lui;
+	- **b)** l’identification numérique attribuée à la drogue en application du paragraphe C.01.014.2(1), s’il y a lieu;
+	- **c)** la marque nominative de la drogue et son nom propre ou, à défaut, son nom usuel;
+	- **d)** le nom propre des ingrédients médicinaux de la drogue ou, à défaut, leur nom usuel;
+	- **e)** la classification thérapeutique de la drogue dans le système de classification anatomique, thérapeutique et chimique (ATC), établi par le Centre collaborateur de l’Organisation mondiale de la Santé pour la méthodologie sur l’établissement des statistiques concernant les produits médicamenteux, à savoir sa description de niveau 3 et son code de niveau 4;
+	- **f)** la concentration de la drogue;
+	- **g)** la forme posologique de la drogue;
+	- **h)** la quantité de drogue contenue dans l’emballage;
+	- **i)** la voie d’administration de la drogue;
+	- **j)** la date à laquelle le titulaire de l’autorisation cessera la vente de la drogue;
+	- **k)** la raison de la cessation de la vente.
+
+- **(2)** Le titulaire de l’autorisation affiche les renseignements :
+	- **a)** s’il décide de cesser la vente de la drogue dans plus de six mois, au moins six mois avant la date de la cessation;
+	- **b)** s’il décide de cesser la vente de la drogue dans six mois ou moins, dans les cinq jours qui suivent la date à laquelle il prend cette décision.
+
+- **(3)** Si les renseignements affichés changent, le titulaire de l’autorisation les met à jour sur le site Web dans les deux jours qui suivent la date à laquelle il fait ou constate le changement.
+> DORS/2016-139, art. 5.
+
+
+
+
+**C.01.014.11** Le ministre maintient sur le site Web du ministère de la Santé un hyperlien actualisé menant au site Web visé au paragraphe C.01.014.9(1).
+> DORS/2016-139, art. 5.
+
+
+
+
+**C.01.014.12** 
+
+- **(1)** Si douze mois se sont écoulés depuis la date de la dernière vente d’une drogue par le titulaire de l’autorisation relative à cette drogue, ce dernier en avise le ministre dans les trente jours qui suivent la fin de cette période.
+
+- **(2)** S’il recommence à vendre la drogue, le titulaire de l’autorisation en avise le ministre dans les trente jours suivant le début de la vente.
+> DORS/2016-139, art. 5.
 
 
 
