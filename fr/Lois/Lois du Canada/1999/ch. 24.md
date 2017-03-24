@@ -1642,8 +1642,48 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 <td>Odanak</td>
 <td></td>
 </tr>
+<tr>
+<td>120</td>
+<td>Kitsumkalum</td>
+<td></td>
+</tr>
+<tr>
+<td>121</td>
+<td>Première Nation de Lake Cowichan</td>
+<td></td>
+</tr>
+<tr>
+<td>122</td>
+<td>Première Nation Namgis</td>
+<td></td>
+</tr>
+<tr>
+<td>123</td>
+<td>Okanagan</td>
+<td></td>
+</tr>
+<tr>
+<td>124</td>
+<td>Sts’ailes</td>
+<td></td>
+</tr>
+<tr>
+<td>125</td>
+<td>Première Nation des Tsartlips</td>
+<td></td>
+</tr>
+<tr>
+<td>126</td>
+<td>Première Nation de Fort Nelson</td>
+<td></td>
+</tr>
+<tr>
+<td>127</td>
+<td>Brunswick House</td>
+<td></td>
+</tr>
 </table>
 
-> 1999, ch. 24, ann.; DORS/2003-178; DORS/2006-216; 2008, ch. 32, art. 27; DORS/2008-51, 267; 2012, ch. 19, art. 637 à 651; DORS/2012-217, 291; 2014, ch. 11, art. 25; DORS/2014-89, 268; DORS/2016-27, 67.
+> 1999, ch. 24, ann.; DORS/2003-178; DORS/2006-216; 2008, ch. 32, art. 27; DORS/2008-51, 267; 2012, ch. 19, art. 637 à 651; DORS/2012-217, 291; 2014, ch. 11, art. 25; DORS/2014-89, 268; DORS/2016-27, 67; DORS/2017-46.
 
 
