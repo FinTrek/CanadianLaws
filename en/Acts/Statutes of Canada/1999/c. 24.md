@@ -1650,8 +1650,48 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 <td>Odanak</td>
 <td></td>
 </tr>
+<tr>
+<td>120</td>
+<td>Kitsumkalum</td>
+<td></td>
+</tr>
+<tr>
+<td>121</td>
+<td>Lake Cowichan First Nation</td>
+<td></td>
+</tr>
+<tr>
+<td>122</td>
+<td>Namgis First Nation</td>
+<td></td>
+</tr>
+<tr>
+<td>123</td>
+<td>Okanagan</td>
+<td></td>
+</tr>
+<tr>
+<td>124</td>
+<td>Sts’ailes</td>
+<td></td>
+</tr>
+<tr>
+<td>125</td>
+<td>Tsartlip First Nation</td>
+<td></td>
+</tr>
+<tr>
+<td>126</td>
+<td>Fort Nelson First Nation</td>
+<td></td>
+</tr>
+<tr>
+<td>127</td>
+<td>Brunswick House</td>
+<td></td>
+</tr>
 </table>
 
-> 1999, c. 24, Sch.; SOR/2003-178; SOR/2006-216; 2008, c. 32, s. 27; SOR/2008-51, 267; 2012, c. 19, ss. 637 to 651; SOR/2012-217, 291; 2014, c. 11, s. 25; SOR/2014-89, 268; SOR/2016-27, 67.
+> 1999, c. 24, Sch.; SOR/2003-178; SOR/2006-216; 2008, c. 32, s. 27; SOR/2008-51, 267; 2012, c. 19, ss. 637 to 651; SOR/2012-217, 291; 2014, c. 11, s. 25; SOR/2014-89, 268; SOR/2016-27, 67; SOR/2017-46.
 
 
