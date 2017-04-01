@@ -56,7 +56,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***Forces canadiennes*** Les forces armées visées à l’article 14 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), ainsi que les forces navales, les forces de l’armée ou les forces aériennes du Canada ou de Terre-Neuve qui les ont précédées. (*Canadian Forces*)
 
-***indemnisation*** Allocation pour perte de revenus, prestation de retraite supplémentaire, allocation de soutien du revenu, allocation pour déficience permanente, allocation de sécurité du revenu de retraite, indemnité pour blessure grave, indemnité d’invalidité, indemnité de décès, allocation vestimentaire, indemnité de captivité ou allocation pour relève d’un aidant familial prévues par la présente loi. (*compensation*)
+***indemnisation*** Allocation pour perte de revenus, prestation de retraite supplémentaire, allocation de soutien du revenu, allocation pour incidence sur la carrière, allocation de sécurité du revenu de retraite, indemnité pour blessure grave, indemnité d’invalidité, indemnité de décès, allocation vestimentaire, indemnité de captivité ou allocation pour relève d’un aidant familial prévues par la présente loi. (*compensation*)
 
 ***invalidité*** La perte ou l’amoindrissement de la faculté de vouloir et de faire normalement des actes d’ordre physique ou mental. (*disability*)
 
@@ -124,7 +124,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Présomption — aide médicale à mourir**
 
 - **(7)** Pour l’application de la présente loi, le militaire ou le vétéran qui a reçu l’aide médicale à mourir est réputé être décédé en raison de la maladie, de l’affection ou du handicap pour lequel il a été jugé admissible à cette aide au titre de l’alinéa 241.2(3)a) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
-> 2005, ch. 21, art. 2; 2015, ch. 36, art. 206; 2016, ch. 3, art. 9.
+> 2005, ch. 21, art. 2; 2015, ch. 36, art. 206; 2016, ch. 3, art. 9, ch. 7, art. 97.
 
 
 
@@ -295,11 +295,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Le ministre peut, sur demande, fournir des services de réadaptation et de l’assistance professionnelle à l’époux ou conjoint de fait du vétéran si, à la fois :
 	- **a)** il a approuvé la demande de services de réadaptation présentée par le vétéran;
-	- **b)** il constate, en se fondant sur l’évaluation des besoins du vétéran, que celui-ci ne tirerait aucun avantage de la réadaptation professionnelle du fait que le problème de santé physique ou mentale à l’origine de la demande de services de réadaptation a entraîné son incapacité totale et permanente.
+	- **b)** il constate, en se fondant sur l’évaluation des besoins du vétéran, que celui-ci ne tirerait aucun avantage de la réadaptation professionnelle du fait que le problème de santé physique ou mentale à l’origine de la demande de services de réadaptation a entraîné une diminution de sa capacité de gain.
 
 **Continuation**
 
 - **(2)** Dans le cas où le vétéran décède après l’approbation de la demande présentée au titre du paragraphe (1), le survivant continue d’être admissible aux services de réadaptation et à l’assistance professionnelle.
+> 2005, ch. 21, art. 11; 2016, ch. 7, art. 80.
+
 
 
 
@@ -405,12 +407,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** celui où le programme est annulé;
 	- **c)** celui où le vétéran atteint l’âge de soixante-cinq ans.
 
-**Continuation**
+**Continuation de l’allocation**
 
-- **(4)** Si le ministre est d’avis que le vétéran présente un problème de santé physique ou mentale pour lequel un programme de réadaptation a été élaboré et que ce problème de santé entraîne son incapacité totale et permanente à occuper un emploi rémunérateur et convenable, l’allocation continue d’être versée même si le vétéran a terminé le programme ou si celui-ci a été annulé, et ce jusqu’au premier en date des jours suivants :
-	- **a)** celui où le ministre est d’avis que le vétéran ne présente plus le problème de santé qui a entraîné son incapacité totale et permanente à occuper un emploi rémunérateur et convenable;
+- **(4)** Si le ministre est d’avis que le vétéran présente un problème de santé physique ou mentale pour lequel un programme de réadaptation a été élaboré et que ce problème de santé entraîne une diminution de sa capacité de gain, l’allocation continue d’être versée même si le vétéran a terminé le programme ou si celui-ci a été annulé, et ce jusqu’au premier en date des jours suivants :
+	- **a)** celui où le ministre est d’avis que le vétéran ne présente plus le problème de santé qui a entraîné la diminution de sa capacité de gain;
 	- **b)** celui où le vétéran atteint l’âge de soixante-cinq ans.
-> 2005, ch. 21, art. 18; 2015, ch. 36, art. 208.
+> 2005, ch. 21, art. 18; 2015, ch. 36, art. 208; 2016, ch. 7, art. 81.
 
 
 
@@ -445,11 +447,13 @@ où :
 
 **20** 
 
-- **(1)** Le ministre peut exiger du vétéran qui, en raison d’une incapacité totale et permanente, reçoit — ou recevrait n’était le niveau de son revenu — l’allocation pour perte de revenus au titre de l’article 18 que celui-ci subisse un examen médical ou une évaluation par la personne que le ministre précise dans le but d’établir si le vétéran a encore droit au versement de l’allocation.
+- **(1)** Le ministre peut exiger du vétéran qui, en raison d’une diminution de sa capacité de gain, reçoit — ou recevrait n’était le niveau de son revenu — l’allocation pour perte de revenus au titre de l’article 18 que celui-ci subisse un examen médical ou une évaluation par la personne que le ministre précise dans le but d’établir si le vétéran a encore droit au versement de l’allocation.
 
 **Défaut**
 
 - **(2)** Si le vétéran omet sans raison de se présenter à l’examen médical ou à l’évaluation, le ministre peut annuler l’allocation.
+> 2005, ch. 21, art. 20; 2016, ch. 7, art. 83.
+
 
 
 
@@ -700,7 +704,7 @@ où :
 
 
 
-### Allocation pour déficience permanente
+### Allocation pour incidence sur la carrière
 
 
 
@@ -708,24 +712,24 @@ où :
 
 **38** 
 
-- **(1)** Le ministre peut, sur demande, verser une allocation pour déficience permanente au vétéran qui présente un ou plusieurs problèmes de santé physique ou mentale lui occasionnant une déficience grave et permanente si, à la fois, à l’égard de chacun des problèmes de santé :
+- **(1)** Le ministre peut, sur demande, verser une allocation pour incidence sur la carrière au vétéran qui présente un ou plusieurs problèmes de santé physique ou mentale lui occasionnant une déficience grave et permanente si, à la fois, à l’égard de chacun des problèmes de santé :
 	- **a)** une demande de services de réadaptation a déjà été approuvée;
 	- **b)** soit il a reçu l’indemnité d’invalidité prévue à la partie 3 ou la pension pour invalidité prévue par la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md), soit il l’aurait reçue mais ne la reçoit pas parce que, selon le cas :
 		- **(i)** le total de ses degrés d’invalidité estimés ou réputés excède cent pour cent,
-		- **(ii)** l’indemnité n’est pas encore exigible, le ministre étant d’avis que l’invalidité n’est pas stabilisée.
+		- **(ii)** aux termes de l’article 53, l’indemnité n’est pas encore exigible.
 
 **Inadmissibilité : allocation d’incapacité exceptionnelle**
 
-- **(1.1)** Le vétéran qui a reçu ou reçoit l’allocation d’incapacité exceptionnelle prévue par la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md) ne peut recevoir l’allocation pour déficience permanente.
+- **(1.1)** Le vétéran qui a reçu ou reçoit l’allocation d’incapacité exceptionnelle prévue par la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md) ne peut recevoir l’allocation pour incidence sur la carrière.
 
 **Montant de l’allocation**
 
-- **(2)** Le ministre fixe le montant de l’allocation à verser au cours d’une année selon les minimum et maximum prévus à la colonne 2 de l’annexe 2 en regard respectivement des articles 1 et 2.
+- **(2)** Le ministre fixe le montant de l’allocation à verser au cours d’une année selon les minimum et maximum prévus à la colonne 2 de l’annexe 2 en regard respectivement des articles 1 et 2 et en tenant compte des incidences que la déficience grave et permanente pourrait avoir sur les possibilités d’avancement de carrière du vétéran.
 
-**Incapacité totale et permanente**
+**Diminution de la capacité de gain**
 
-- **(3)** Le ministre peut, sur demande, augmenter le montant de l’allocation pour déficience permanente à verser au vétéran de la somme figurant à la colonne 2 de l’annexe 2 en regard de l’article 2.1 s’il conclut que le vétéran présente une incapacité totale et permanente.
-> 2005, ch. 21, art. 38; 2011, ch. 12, art. 8.
+- **(3)** Le ministre peut, sur demande, augmenter le montant de l’allocation pour incidence sur la carrière à verser au vétéran de la somme figurant à la colonne 2 de l’annexe 2 en regard de l’article 2.1 s’il constate une diminution de la capacité de gain du vétéran.
+> 2005, ch. 21, art. 38; 2011, ch. 12, art. 8; 2016, ch. 7, art. 85 et 97.
 
 
 
@@ -733,11 +737,11 @@ où :
 
 **Début des versements**
 
-**39** L’allocation pour déficience permanente prévue au paragraphe 38(2) et l’augmentation de celle-ci prévue au paragraphe 38(3) sont exigibles à compter du dernier en date des moments suivants :
+**39** L’allocation pour incidence sur la carrière prévue au paragraphe 38(2) et l’augmentation de celle-ci prévue au paragraphe 38(3) sont exigibles à compter du dernier en date des moments suivants :
 - **a)** le jour où la demande d’allocation ou d’augmentation de celle-ci, selon le cas, a été présentée;
 - **b)** un an avant l’approbation de la demande en question;
 - **c)** le lendemain de la libération du militaire des Forces canadiennes.
-> 2005, ch. 21, art. 39; 2011, ch. 12, art. 9; 2015, ch. 36, art. 209.
+> 2005, ch. 21, art. 39; 2011, ch. 12, art. 9; 2015, ch. 36, art. 209; 2016, ch. 7, art. 97.
 
 
 
@@ -747,11 +751,13 @@ où :
 
 **40** 
 
-- **(1)** Le ministre peut exiger du vétéran qui reçoit l’allocation pour déficience permanente que celui-ci subisse un examen médical ou une évaluation par la personne que le ministre précise dans le but d’établir si le vétéran a encore droit au versement de l’allocation.
+- **(1)** Le ministre peut exiger du vétéran qui reçoit l’allocation pour incidence sur la carrière que celui-ci subisse un examen médical ou une évaluation par la personne que le ministre précise dans le but d’établir si le vétéran a encore droit au versement de l’allocation.
 
 **Défaut**
 
 - **(2)** Si le vétéran omet sans raison de se présenter à l’examen médical ou à l’évaluation, le ministre peut annuler l’allocation.
+> 2005, ch. 21, art. 40; 2016, ch. 7, art. 86(A) et 97.
+
 
 
 
@@ -787,7 +793,7 @@ où :
 ```
 où : 
 - **A** représente soixante-dix pour cent de l’allocation pour perte de revenus à laquelle le vétéran aurait droit pour le mois de son soixante-cinquième anniversaire si cette allocation était exigible pour tout ce mois et si les sommes exigibles par le vétéran des sources réglementaires visées au paragraphe 19(1) n’étaient pas prises en compte;
-- **B** soixante-dix pour cent de l’allocation pour déficience permanente, augmentée, le cas échéant, au titre du paragraphe 38(3), exigible pour le mois de son soixante-cinquième anniversaire;
+- **B** soixante-dix pour cent de l’allocation pour incidence sur la carrière, augmentée, le cas échéant, au titre du paragraphe 38(3), exigible pour le mois de son soixante-cinquième anniversaire;
 - **C** le total des sommes exigibles de sources réglementaires par lui pour un mois.
 
 **Règlements**
@@ -795,7 +801,7 @@ où :
 - **(5)** Le gouverneur en conseil peut prendre des règlements :
 	- **a)** prévoyant le rajustement périodique du montant obtenu par l’addition des éléments A et B de la formule figurant au paragraphe (4);
 	- **b)** régissant la détermination, pour l’application de l’élément C de cette formule, de toute somme exigible par le vétéran pour un mois.
-> 2015, ch. 36, art. 210.
+> 2015, ch. 36, art. 210; 2016, ch. 7, art. 97.
 
 
 
@@ -828,7 +834,7 @@ où :
 ```
 où : 
 - **A** représente soixante-dix pour cent de l’allocation pour perte de revenus à laquelle le vétéran, s’il avait présenté une demande, aurait eu droit pour le mois de son soixante-cinquième anniversaire si cette allocation était exigible pour tout ce mois et si les sommes exigibles par le vétéran des sources réglementaires visées au paragraphe 19(1) n’étaient pas prises en compte;
-- **B** soixante-dix pour cent de l’allocation pour déficience permanente, augmentée, le cas échéant, au titre du paragraphe 38(3), exigible pour le mois de son soixante-cinquième anniversaire;
+- **B** soixante-dix pour cent de l’allocation pour incidence sur la carrière, augmentée, le cas échéant, au titre du paragraphe 38(3), exigible pour le mois de son soixante-cinquième anniversaire;
 - **C** le total des sommes exigibles de sources réglementaires par lui pour un mois.
 
 **Règlements**
@@ -836,7 +842,7 @@ où :
 - **(5)** Le gouverneur en conseil peut prendre des règlements :
 	- **a)** prévoyant le rajustement périodique du montant obtenu par l’addition des éléments A et B de la formule figurant au paragraphe (4);
 	- **b)** régissant la détermination, pour l’application de l’élément C de cette formule, de toute somme exigible par le vétéran pour un mois.
-> 2015, ch. 36, art. 210.
+> 2015, ch. 36, art. 210; 2016, ch. 7, art. 97.
 
 
 
@@ -920,7 +926,7 @@ où :
 
 **40.5** 
 
-- **(1)** Le ministre peut dispenser le vétéran ou le survivant de l’obligation de présenter la demande d’allocation de sécurité du revenu de retraite, s’il est convaincu que le vétéran ou le survivant, s’il présentait une demande, serait admissible à cette allocation d’après les renseignements que le ministre a obtenus dans l’exercice de ses attributions relativement à l’allocation pour perte de revenus, à l’allocation pour déficience permanente ou à l’indemnité d’invalidité ou relativement à la pension pour invalidité au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md).
+- **(1)** Le ministre peut dispenser le vétéran ou le survivant de l’obligation de présenter la demande d’allocation de sécurité du revenu de retraite, s’il est convaincu que le vétéran ou le survivant, s’il présentait une demande, serait admissible à cette allocation d’après les renseignements que le ministre a obtenus dans l’exercice de ses attributions relativement à l’allocation pour perte de revenus, à l’allocation pour incidence sur la carrière ou à l’indemnité d’invalidité ou relativement à la pension pour invalidité au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md).
 
 **Notification**
 
@@ -937,7 +943,7 @@ où :
 **Levée de la dispense**
 
 - **(5)** Le fait que le ministre entend accorder la dispense ne l’empêche pas d’obliger le vétéran ou le survivant à présenter une demande; le cas échéant, le ministre l’en avise par écrit.
-> 2015, ch. 36, art. 210.
+> 2015, ch. 36, art. 210; 2016, ch. 7, art. 97.
 
 
 
@@ -960,13 +966,13 @@ où :
 
 **41** Le gouverneur en conseil peut prendre des règlements :
 - **a)** prévoyant, dans le cas de toute personne qui reçoit l’allocation pour perte de revenus, l’allocation de soutien du revenu ou l’allocation de sécurité du revenu de retraite, la procédure de notification au ministre de toute modification du revenu, des avantages ou de la somme exigible d’une source réglementaire visée aux paragraphes 19(1), 23(3), 40.1(4), 40.2(4), 40.3(4) ou 40.4(4), ainsi que les répercussions de la modification sur le calcul de l’indemnisation, et exigeant la présentation d’un relevé estimatif sur le revenu, les avantages ou la somme exigible;
-- **b)** définissant ce qui constitue un emploi rémunérateur et convenable, une entrave à la réinsertion dans la vie civile et l’incapacité totale et permanente;
-- **c)** définissant, pour l’application de l’article 37, ***année civile de base***, ***période de paiement*** et ***revenu***;
+- **b)** concernant ce qui constitue une entrave à la réinsertion dans la vie civile et une diminution de la capacité de gain;
+- **c)** définissant, pour l’application de l’article 37, année civile de base, période de paiement et revenu;
 - **d)** prévoyant le rajustement des taux prévus à la colonne 2 de l’annexe 1 en cas d’augmentation du montant de la pension ou du supplément, au sens de l’article 2 de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md), apportée par une modification de cette loi;
 - **e)** prévoyant le paiement de frais entraînés par la participation à un programme de réadaptation ou d’assistance professionnelle;
 - **f)** précisant, pour l’application des articles 33 et 34, ce qui constitue la résidence et les intervalles d’absence du Canada qui sont réputés ne pas interrompre la résidence au Canada;
-- **g)** précisant, pour l’application de l’article 38, ce qui constitue une déficience grave et permanente et la méthode pour établir l’existence et l’ampleur d’une telle déficience chez le vétéran.
-> 2005, ch. 21, art. 41; 2015, ch. 36, art. 211.
+- **g)** concernant, pour l’application de l’article 38, ce qui constitue une déficience grave et permanente et la méthode pour établir l’existence et l’ampleur d’une telle déficience chez le vétéran.
+> 2005, ch. 21, art. 41; 2015, ch. 36, art. 211; 2016, ch. 7, art. 87.
 
 
 
@@ -1190,9 +1196,7 @@ A - B
 ```
 où :
 - **A** représente la somme prévue à la colonne 3 de l’annexe 3 en regard du degré d’invalidité visé à la colonne 2 qui correspond au total des degrés d’invalidité estimés ou réputés à l’égard du militaire ou vétéran au titre de la présente loi;
-- **B** la somme prévue à la colonne 3 de l’annexe 3 en regard du degré d’invalidité visé à la colonne 2 qui correspond à l’excédent éventuel du total des degrés visé à l’alinéa a) sur le degré visé à l’alinéa b) :
-- **a)** le total des degrés d’invalidité estimés ou réputés à l’égard du militaire ou vétéran au titre de la présente loi,
-- **b)** le degré d’invalidité estimé ou réputé à l’égard du militaire ou vétéran pour lequel l’indemnité d’invalidité est exigible.
+- **B** la somme prévue à la colonne 3 de l’annexe 3 en regard du degré d’invalidité visé à la colonne 2 qui correspond à ce qui était le total des degrés d’invalidité estimés ou réputés à l’égard du militaire ou vétéran au titre de la présente loi immédiatement avant le moment où l’indemnité d’invalidité devient exigible.
 
 **Fraction**
 
@@ -1201,6 +1205,8 @@ où :
 **Réduction**
 
 - **(3)** Le ministre peut retrancher la somme prévue par règlement de l’indemnité d’invalidité exigible en raison du décès ou de l’invalidité du militaire ou vétéran par toute personne qui, pour la même raison, a reçu ou est en droit de recevoir des sommes d’une source réglementaire.
+> 2005, ch. 21, art. 52; 2016, ch. 7, art. 88.
+
 
 
 
@@ -1258,9 +1264,13 @@ où :
 
 
 
-**Versement de l’indemnité**
+**Exigibilité de l’indemnité**
 
-**53** L’indemnité d’invalidité visée aux articles 45, 47 ou 48 devient exigible lorsque le ministre est d’avis que l’invalidité est stabilisée.
+**53** L’indemnité d’invalidité visée aux articles 45, 47 ou 48 devient exigible au moment où les conditions ci-après sont réunies :
+- **a)** l’invalidité est, de l’avis du ministre, stabilisée;
+- **b)** l’estimation du degré d’invalidité a été effectuée.
+> 2005, ch. 21, art. 53; 2016, ch. 7, art. 89.
+
 
 
 
@@ -1846,12 +1856,12 @@ où :
 
 **Indemnisation erronée**
 
-- **(4)** Malgré les autres dispositions de la présente loi, le ministre peut continuer de verser à la personne, bien que celle-ci n’y ait pas droit, tout ou partie de l’allocation pour perte de revenus, de l’allocation de soutien du revenu, de l’allocation pour déficience permanente, de l’allocation de sécurité du revenu de retraite, de l’allocation vestimentaire ou de l’allocation pour relève d’un aidant familial dont le montant résulte d’une erreur, d’un retard ou d’un oubli de la part d’un cadre ou fonctionnaire de l’administration publique fédérale et a fait l’objet d’une remise au motif prévu à l’alinéa (3)d), s’il estime que le versement, fait depuis au moins cinq ans, ne résulte pas d’une déclaration trompeuse ou de la dissimulation de faits importants de la part de cette personne et que son annulation ou sa réduction lui causerait un préjudice abusif.
+- **(4)** Malgré les autres dispositions de la présente loi, le ministre peut continuer de verser à la personne, bien que celle-ci n’y ait pas droit, tout ou partie de l’allocation pour perte de revenus, de l’allocation de soutien du revenu, de l’allocation pour incidence sur la carrière, de l’allocation de sécurité du revenu de retraite, de l’allocation vestimentaire ou de l’allocation pour relève d’un aidant familial dont le montant résulte d’une erreur, d’un retard ou d’un oubli de la part d’un cadre ou fonctionnaire de l’administration publique fédérale et a fait l’objet d’une remise au motif prévu à l’alinéa (3)d), s’il estime que le versement, fait depuis au moins cinq ans, ne résulte pas d’une déclaration trompeuse ou de la dissimulation de faits importants de la part de cette personne et que son annulation ou sa réduction lui causerait un préjudice abusif.
 
 **Recouvrement**
 
 - **(5)** Le montant de l’indemnisation versé après le décès du militaire ou vétéran alors que celui-ci n’y était plus admissible peut être déduit de toute indemnisation accordée à la personne qui l’a retenu.
-> 2005, ch. 21, art. 88; 2015, ch. 36, art. 221.
+> 2005, ch. 21, art. 88; 2015, ch. 36, art. 221; 2016, ch. 7, art. 97.
 
 
 
@@ -1929,7 +1939,7 @@ où :
 - **b)** prévoyant les modalités — de temps ou autres — de versement de toute indemnisation;
 - **c)** prévoyant le rajustement périodique des sommes prévues aux annexes 1 à 3;
 - **d)** prévoyant le paiement ou remboursement de frais associés aux services de conseillers financiers;
-- **e)** concernant la communication de tout renseignement, déclaration ou document au ministre par toute personne qui demande ou reçoit des services de réorientation professionnelle, des services de réadaptation, de l’assistance professionnelle, l’allocation pour perte de revenus, l’allocation de soutien du revenu, l’allocation pour déficience permanente, l’allocation de sécurité du revenu de retraite, l’allocation vestimentaire ou l’allocation pour relève d’un aidant familial au titre de la présente loi, et autorisant le ministre à suspendre la fourniture des services ou de l’assistance ou le versement de l’allocation dans l’attente du renseignement, de la déclaration ou du document;
+- **e)** concernant la communication de tout renseignement, déclaration ou document au ministre par toute personne qui demande ou reçoit des services de réorientation professionnelle, des services de réadaptation, de l’assistance professionnelle, l’allocation pour perte de revenus, l’allocation de soutien du revenu, l’allocation pour incidence sur la carrière, l’allocation de sécurité du revenu de retraite, l’allocation vestimentaire ou l’allocation pour relève d’un aidant familial au titre de la présente loi, et autorisant le ministre à suspendre la fourniture des services ou de l’assistance ou le versement de l’allocation dans l’attente du renseignement, de la déclaration ou du document;
 - **f)** prévoyant les modalités de suspension ou d’annulation des services de réadaptation, de l’assistance professionnelle ou de toute indemnisation;
 - **g)** concernant la révision de toute décision prise au titre des parties 2 ou 3.1 ou de l’article 83 et prévoyant notamment les motifs ouvrant droit à la révision, les pouvoirs de révision et le nombre de révisions;
 - **h)** prévoyant les modalités — de temps ou autres — de présentation de la demande de révision au titre des articles 83 ou 84;
@@ -1939,7 +1949,18 @@ où :
 - **j)** concernant toute mesure d’ordre réglementaire prévue par la présente loi;
 - **j.1)** précisant la façon de déterminer ce qui peut ou doit faire l’objet d’une mesure réglementaire;
 - **k)** concernant toute autre mesure d’application de la présente loi.
-> 2005, ch. 21, art. 94; 2011, ch. 12, art. 17; 2015, ch. 36, art. 222.
+> 2005, ch. 21, art. 94; 2011, ch. 12, art. 17; 2015, ch. 36, art. 222; 2016, ch. 7, art. 97.
+
+
+
+
+
+**Dispositions transitoires du 1<sup>er</sup> avril 2017**
+
+**94.01** Le gouverneur en conseil peut prendre des règlements :
+- **a)** concernant la communication de renseignements ou de documents au ministre par toute personne qui pourrait avoir droit à une somme au titre de l’un des articles 100 à 103 de la Loi no 1 d’exécution du budget de 2016;
+- **b)** prévoyant le remboursement de frais associés aux services que fournit un conseiller financier à une personne relativement à une somme versée ou à verser à cette personne au titre de l’un des articles 100 à 103 de cette loi.
+> 2016, ch. 7, art. 90.
 
 
 
@@ -1983,20 +2004,7 @@ où :
 
 
 
-
-**Rajustement de l’annexe 1**
-
-**98** 
-
-- **(1)** À l’entrée en vigueur du présent article, les taux prévus à la colonne 2 de l’annexe 1 sont rajustés en conformité avec les articles 19 à 22 de la [Loi sur les allocations aux anciens combattants](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-3.md), pour la période commençant le 1<sup>er</sup> avril 2005 et se terminant à la date d’entrée en vigueur du présent article, comme s’ils étaient prévus à la colonne II de l’annexe de cette loi.
-
-**Rajustement de l’annexe 2**
-
-- **(2)** À l’entrée en vigueur du présent article, le taux prévu à la colonne 2 de l’annexe 2 en regard de l’article 4 est rajusté en conformité avec les articles 74 à 77 de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md), pour la période commençant le 1<sup>er</sup> avril 2005 et se terminant à la date d’entrée en vigueur du présent article, comme s’il était prévu à l’annexe III de cette loi.
-
-**Rajustement des catégories 21 à 24 de l’annexe 3**
-
-- **(3)** À l’entrée en vigueur du présent article, les sommes prévues à la colonne 3 de l’annexe 3 en regard des catégories 21 à 24 sont rajustées en conformité avec les articles 74 à 77 de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md), pour la période commençant le 1<sup>er</sup> avril 2005 et se terminant à la date d’entrée en vigueur du présent article, comme si elles étaient prévues à l’annexe I de cette loi.
+**98** [Abrogé, 2016, ch. 7, art. 91]
 
 
 
@@ -2127,7 +2135,7 @@ où :
 
 
 ### **ANNEXE 1** 
-**(article 37, alinéas 41d) et 94c) et paragraphe 98(1))**
+**(article 37 et alinéas 41d) et 94c))**
 <table>
 <h4>Allocation de soutien du revenu</h4>
 <tr>
@@ -2169,11 +2177,13 @@ où :
 </tr>
 </table>
 
+> 2005, ch. 21, ann. 1; 2016, ch. 7, art. 92.
+
 
 
 
 ### **ANNEXE 2** 
-**(paragraphes 38(2) et (3), article 44.2, paragraphe 58(1), articles 61 et 65.2, alinéa 94c) et paragraphe 98(2))**
+**(paragraphes 38(2) et (3), article 44.2, paragraphe 58(1), articles 61 et 65.2 et alinéa 94c))**
 <table>
 <h4>Allocations et indemnité</h4>
 <tr>
@@ -2188,17 +2198,17 @@ où :
 </tr>
 <tr>
 <td>1</td>
-<td>Montant minimum de l’allocation pour déficience permanente</td>
+<td>Montant minimum de l’allocation pour incidence sur la carrière</td>
 <td>6 000,00 (annuel)</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Montant maximum de l’allocation pour déficience permanente</td>
+<td>Montant maximum de l’allocation pour incidence sur la carrière</td>
 <td>18 000,00 (annuel)</td>
 </tr>
 <tr>
 <td>2.1</td>
-<td>Supplément à l’allocation pour déficience permanente en cas d’incapacité totale et permanente</td>
+<td>Supplément à l’allocation pour incidence sur la carrière en cas de diminution de la capacité de gain</td>
 <td>12 000,00 (annuel)</td>
 </tr>
 <tr>
@@ -2209,7 +2219,7 @@ où :
 <tr>
 <td>3</td>
 <td>Indemnité de décès</td>
-<td>250 000,00 (forfaitaire)</td>
+<td>360 000,00 (forfaitaire)</td>
 </tr>
 <tr>
 <td>4</td>
@@ -2223,13 +2233,13 @@ où :
 </tr>
 </table>
 
-> 2005, ch. 21, ann. 2; 2011, ch. 12, art. 18 et 19; 2015, ch. 36, art. 224 et 225.
+> 2005, ch. 21, ann. 2; 2011, ch. 12, art. 18 et 19; 2015, ch. 36, art. 224 et 225; 2016, ch. 7, art. 93 à 95 et 97.
 
 
 
 
 ### **ANNEXE 3** 
-**(paragraphe 52(1), alinéa 94c) et paragraphe 98(3))**
+**(paragraphe 52(1) et alinéa 94c))**
 <table>
 <h4>Indemnité d’invalidité</h4>
 <tr>
@@ -2238,7 +2248,9 @@ où :
 <th>Colonne 3</th>
 </tr>
 <tr>
-<th>Catégorie</th>
+<th>Taux d’indemnité(%)
+
+</th>
 <th>Degré d’invalidité(%)
 
 </th>
@@ -2247,125 +2259,127 @@ où :
 </th>
 </tr>
 <tr>
-<td>1</td>
+<td>100</td>
 <td>98-100</td>
-<td>250 000,00</td>
+<td>360 000,00</td>
 </tr>
 <tr>
-<td>2</td>
+<td>95</td>
 <td>93-97</td>
-<td>237 500,00</td>
+<td>342 000,00</td>
 </tr>
 <tr>
-<td>3</td>
+<td>90</td>
 <td>88-92</td>
-<td>225 000,00</td>
+<td>324 000,00</td>
 </tr>
 <tr>
-<td>4</td>
+<td>85</td>
 <td>83-87</td>
-<td>212 500,00</td>
+<td>306 000,00</td>
 </tr>
 <tr>
-<td>5</td>
+<td>80</td>
 <td>78-82</td>
-<td>200 000,00</td>
+<td>288 000,00</td>
 </tr>
 <tr>
-<td>6</td>
+<td>75</td>
 <td>73-77</td>
-<td>187 500,00</td>
+<td>270 000,00</td>
 </tr>
 <tr>
-<td>7</td>
+<td>70</td>
 <td>68-72</td>
-<td>175 000,00</td>
+<td>252 000,00</td>
 </tr>
 <tr>
-<td>8</td>
+<td>65</td>
 <td>63-67</td>
-<td>162 500,00</td>
+<td>234 000,00</td>
 </tr>
 <tr>
-<td>9</td>
+<td>60</td>
 <td>58-62</td>
-<td>150 000,00</td>
+<td>216 000,00</td>
 </tr>
 <tr>
-<td>10</td>
+<td>55</td>
 <td>53-57</td>
-<td>137 500,00</td>
+<td>198 000,00</td>
 </tr>
 <tr>
-<td>11</td>
+<td>50</td>
 <td>48-52</td>
-<td>125 000,00</td>
+<td>180 000,00</td>
 </tr>
 <tr>
-<td>12</td>
+<td>45</td>
 <td>43-47</td>
-<td>112 500,00</td>
+<td>162 000,00</td>
 </tr>
 <tr>
-<td>13</td>
+<td>40</td>
 <td>38-42</td>
-<td>100 000,00</td>
+<td>144 000,00</td>
 </tr>
 <tr>
-<td>14</td>
+<td>35</td>
 <td>33-37</td>
-<td>87 500,00</td>
+<td>126 000,00</td>
 </tr>
 <tr>
-<td>15</td>
+<td>30</td>
 <td>28-32</td>
-<td>75 000,00</td>
+<td>108 000,00</td>
 </tr>
 <tr>
-<td>16</td>
+<td>25</td>
 <td>23-27</td>
-<td>62 500,00</td>
-</tr>
-<tr>
-<td>17</td>
-<td>18-22</td>
-<td>50 000,00</td>
-</tr>
-<tr>
-<td>18</td>
-<td>13-17</td>
-<td>37 500,00</td>
-</tr>
-<tr>
-<td>19</td>
-<td>8-12</td>
-<td>25 000,00</td>
+<td>90 000,00</td>
 </tr>
 <tr>
 <td>20</td>
+<td>18-22</td>
+<td>72 000,00</td>
+</tr>
+<tr>
+<td>15</td>
+<td>13-17</td>
+<td>54 000,00</td>
+</tr>
+<tr>
+<td>10</td>
+<td>8-12</td>
+<td>36 000,00</td>
+</tr>
+<tr>
+<td>5</td>
 <td>5-7</td>
-<td>12 500,00</td>
+<td>18 000,00</td>
 </tr>
 <tr>
-<td>21</td>
 <td>4</td>
-<td>2 617,96</td>
+<td>4</td>
+<td>14 400,00</td>
 </tr>
 <tr>
-<td>22</td>
 <td>3</td>
-<td>1 963,48</td>
+<td>3</td>
+<td>10 800,00</td>
 </tr>
 <tr>
-<td>23</td>
 <td>2</td>
-<td>1 308,97</td>
+<td>2</td>
+<td>7 200,00</td>
 </tr>
 <tr>
-<td>24</td>
 <td>1</td>
-<td>654,49</td>
+<td>1</td>
+<td>3 600,00</td>
 </tr>
 </table>
+
+> 2005, ch. 21, ann. 3; 2016, ch. 7, art. 96.
 
 
