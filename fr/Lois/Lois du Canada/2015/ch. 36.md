@@ -1325,7 +1325,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 #### Disposition de coordination
 
 
-**228** [Modification]
+**228** [Abrogé, 2016, ch. 7, art. 115]
 
 
 
