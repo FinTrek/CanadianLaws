@@ -24799,7 +24799,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 ### **ANNEXE I** 
 **(article 14)**
 <table>
-<h4>au 31 décembre 2015</h4>
+<h4>au 31 décembre 2016</h4>
 <tr>
 <th>Dénomination sociale de la banque</th>
 <th>Siège</th>
@@ -24821,6 +24821,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Alberta</td>
 </tr>
 <tr>
+<td>Caisse populaire acadiennne ltée</td>
+<td>Nouveau-Brunswick</td>
+</tr>
+<tr>
 <td>Banque Canadienne Impériale de Commerce</td>
 <td>Ontario</td>
 </tr>
@@ -24833,8 +24837,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Alberta</td>
 </tr>
 <tr>
-<td>Banque CFF</td>
-<td>Alberta</td>
+<td>Banque Cidel du Canada</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Banque Citizens du Canada</td>
@@ -24857,6 +24861,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
+<td>Banque de change du Canada</td>
+<td>Ontario</td>
+</tr>
+<tr>
 <td>Banque des Premières Nations du Canada</td>
 <td>Saskatchewan</td>
 </tr>
@@ -24873,6 +24881,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
+<td>Banque Home</td>
+<td>Ontario</td>
+</tr>
+<tr>
 <td>Banque Laurentienne du Canada</td>
 <td>Québec</td>
 </tr>
@@ -24883,10 +24895,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <tr>
 <td>Banque Nationale du Canada</td>
 <td>Québec</td>
-</tr>
-<tr>
-<td>Banque Pacifique et de l’ouest du Canada</td>
-<td>Ontario</td>
 </tr>
 <tr>
 <td>Banque le Choix du Président</td>
@@ -24913,12 +24921,16 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
+<td>VersaBank</td>
+<td>Ontario</td>
+</tr>
+<tr>
 <td>Banque Zag</td>
 <td>Alberta</td>
 </tr>
 </table>
 
-> 1991, ch. 46, ann. I; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du CanadaGazette du Canada Partie I, volume 150, page 650.
+> 1991, ch. 46, ann. I; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du CanadaGazette du Canada Partie I, volume 151, page 1500.
 
 
 
@@ -24926,7 +24938,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 ### **ANNEXE II** 
 **(article 14)**
 <table>
-<h4>au 31 décembre 2015</h4>
+<h4>au 31 décembre 2016</h4>
 <tr>
 <th>Dénomination sociale de la banque</th>
 <th>Siège</th>
@@ -24950,10 +24962,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <tr>
 <td>Banque Un Canada</td>
 <td>Ontario</td>
-</tr>
-<tr>
-<td>BNP Paribas (Canada)</td>
-<td>Québec</td>
 </tr>
 <tr>
 <td>Banque BofA Canada</td>
@@ -25012,7 +25020,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Québec</td>
 </tr>
 <tr>
-<td>Banque Nationale de l’Inde (Canada)</td>
+<td>Banque SBI Canada</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -25029,7 +25037,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 </table>
 
-> 1991, ch. 46, ann. II; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du CanadaGazette du Canada Partie I, volume 150, page 650.
+> 1991, ch. 46, ann. II; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du CanadaGazette du Canada Partie I, volume 151, page 1500.
 
 
 
@@ -25037,7 +25045,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 ### **ANNEXE III** 
 **(article 14.1)**
 <table>
-<h4>au 31 décembre 2015</h4>
+<h4>au 31 décembre 2016</h4>
 <tr>
 <th>Dénomination sociale de la banque étrangère autorisée</th>
 <th>Dénomination sous laquelle elle est autorisée à exercer ses activités au Canada</th>
@@ -25051,8 +25059,20 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
+<td>Bank of China Limited</td>
+<td>Banque de Chine, succursale de Toronto</td>
+<td>Services complets</td>
+<td>Ontario</td>
+</tr>
+<tr>
 <td>Bank of New York Mellon (The)</td>
 <td>Bank of New York Mellon (The)</td>
+<td>Services complets</td>
+<td>Ontario</td>
+</tr>
+<tr>
+<td>Bank of Tokyo-Mitsubishi UFJ, Ltd. (The)</td>
+<td>Banque de Tokyo-Mitsubishi UFJ Ltée, succursale canadienne (La)</td>
 <td>Services complets</td>
 <td>Ontario</td>
 </tr>
@@ -25093,8 +25113,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Coöperatieve Centrale Raiffeisen-Boerenleenbank B.A.</td>
-<td>Rabobank Nederland</td>
+<td>Coöperatieve Rabobank U.A.</td>
+<td>Rabobank Canada</td>
 <td>Services complets</td>
 <td>Ontario</td>
 </tr>
@@ -25177,12 +25197,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Royal Bank of Scotland N.V. (The)</td>
-<td>Banque RBS N.V. (La)</td>
-<td>Services complets</td>
-<td>Ontario</td>
-</tr>
-<tr>
 <td>Royal Bank of Scotland plc (The)</td>
 <td>Banque RBS plc (La)</td>
 <td>Services complets</td>
@@ -25197,6 +25211,12 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <tr>
 <td>State Street Bank and Trust Company</td>
 <td>State Street</td>
+<td>Services complets</td>
+<td>Ontario</td>
+</tr>
+<tr>
+<td>Sumitomo Mitsui Banking Corporation</td>
+<td>Banque Sumitomo Mitsui, succursale canadienne</td>
 <td>Services complets</td>
 <td>Ontario</td>
 </tr>
@@ -25227,7 +25247,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </table>
 
 
-<a name='B-1.01_annIII_f'><sup>*</sup></a>: Une SBE dont l’ordonnance est assujettie aux restrictions et aux exigences visées au paragraphe 524(2) de la Loi sur les banques est appelée une succursale de « prêt ».<br />
-> 1999, ch. 28, art. 75; 2005, ch. 54, art. 139; Gazette du CanadaGazette du Canada Partie I, volume 150, page 650.
+<a name='B-1.01_annIII_f'><sup>*</sup></a>: Une SBE dont l’ordonnance est assujettie aux restrictions et aux exigences visées au paragraphe 524(2) de la Loi sur les banques est appelée une succursale de « prêt ».<br />
+> 1999, ch. 28, art. 75; 2005, ch. 54, art. 139; Gazette du CanadaGazette du Canada Partie I, volume 151, page 1500.
 
 
