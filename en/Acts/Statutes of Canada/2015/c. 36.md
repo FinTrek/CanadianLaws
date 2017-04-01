@@ -1325,7 +1325,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 #### Coordinating Amendment
 
 
-**228** [Amendment]
+**228** [Repealed, 2016, c. 7, s. 115]
 
 
 
