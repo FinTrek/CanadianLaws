@@ -49,7 +49,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***common-law partner***, in relation to a member or a veteran, means a person who is cohabiting with the member or veteran in a conjugal relationship, having so cohabited for a period of at least one year. (*conjoint de fait*)
 
-***compensation*** means any of the following benefits under this Act, namely, an earnings loss benefit, a supplementary retirement benefit, a Canadian Forces income support benefit, a permanent impairment allowance, a retirement income security benefit, a critical injury benefit, a disability award, a death benefit, a clothing allowance, a detention benefit or a family caregiver relief benefit. (*indemnisation*)
+***compensation*** means any of the following benefits under this Act, namely, an earnings loss benefit, a supplementary retirement benefit, a Canadian Forces income support benefit, a career impact allowance, a retirement income security benefit, a critical injury benefit, a disability award, a death benefit, a clothing allowance, a detention benefit or a family caregiver relief benefit. (*indemnisation*)
 
 ***dependent child***, in relation to a member or a veteran, means their child, or a child of their spouse or common-law partner who is ordinarily residing in the member’s or veteran’s household, who is 
 - **(a)** under the age of 18 years;
@@ -130,7 +130,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Deeming — medical assistance in dying**
 
 - **(7)** For the purposes of this Act, if a member or a veteran receives medical assistance in dying, that member or veteran is deemed to have died as a result of the illness, disease or disability for which they were determined to be eligible to receive that assistance, in accordance with paragraph 241.2(3)(a) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
-> 2005, c. 21, s. 2; 2015, c. 36, s. 206; 2016, c. 3, s. 9.
+> 2005, c. 21, s. 2; 2015, c. 36, s. 206; 2016, c. 3, s. 9, c. 7, s. 97.
 
 
 
@@ -303,12 +303,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The Minister may, on application, provide rehabilitation services and vocational assistance to a veteran’s spouse or common-law partner if the Minister
 	- **(a)** has approved an application for rehabilitation services made by or on behalf of the veteran; and
-	- **(b)** has determined, based on an assessment of the veteran under subsection 
-10(1), that the veteran would not benefit from vocational rehabilitation as a result of being totally and permanently incapacitated by the physical or mental health problem in respect of which the rehabilitation services were approved.
+	- **(b)** has determined, based on an assessment of the veteran under subsection 10(1), that the veteran would not benefit from vocational rehabilitation as a result of their having a diminished earning capacity that is due to the physical or mental health problem in respect of which the rehabilitation services were approved.
 
 **Continuation**
 
 - **(2)** If a veteran dies after an application made under subsection (1) has been approved, the survivor continues to be eligible to receive rehabilitation services and vocational assistance under that subsection.
+> 2005, c. 21, s. 11; 2016, c. 7, s. 80.
+
 
 
 
@@ -420,10 +421,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Continuation of benefit**
 
-- **(4)** If the Minister determines that the veteran is unable to engage in suitable gainful employment as a result of being totally and permanently incapacitated by the physical or mental health problem for which the rehabilitation plan was developed, the earnings loss benefit continues to be payable to the veteran after the plan has been completed or cancelled until the earlier of
-	- **(a)** the day on which the Minister determines that the veteran is no longer unable to engage in suitable gainful employment as a result of being totally and permanently incapacitated by that health problem, and
+- **(4)** If the Minister determines that the veteran has a diminished earning capacity that is due to the physical or mental health problem for which the rehabilitation plan was developed, the earnings loss benefit continues to be payable to the veteran after the plan has been completed or cancelled until the earlier of
+	- **(a)** the day on which the Minister determines that the veteran no longer has a diminished earning capacity that is due to that health problem, and
 	- **(b)** the day on which the veteran attains the age of 65 years.
-> 2005, c. 21, s. 18; 2015, c. 36, s. 208.
+> 2005, c. 21, s. 18; 2015, c. 36, s. 208; 2016, c. 7, s. 81.
 
 
 
@@ -458,12 +459,13 @@ where
 
 **20** 
 
-- **(1)** The Minister may, for the purpose of determining whether a veteran may continue to receive an earnings loss benefit, require a veteran who, as a result of a determination of total and permanent incapacity, is in receipt of an earnings loss benefit under section 
-18 — or would, but for their level of income, be in receipt of it — to undergo a medical examination or an assessment by a person specified by the Minister.
+- **(1)** The Minister may, for the purpose of determining whether a veteran may continue to receive an earnings loss benefit, require a veteran who, as a result of a determination that they have a diminished earning capacity, is in receipt of an earnings loss benefit under section 18 — or would, but for their level of income, be in receipt of it — to undergo a medical examination or an assessment by a person specified by the Minister.
 
 **Non-compliance**
 
 - **(2)** If a veteran who is required by the Minister to undergo a medical examination or an assessment fails without reasonable excuse to do so, the Minister may cancel the earnings loss benefit.
+> 2005, c. 21, s. 20; 2016, c. 7, s. 83.
+
 
 
 
@@ -722,7 +724,7 @@ where
 
 
 
-### Permanent Impairment Allowance
+### Career Impact Allowance
 
 
 
@@ -730,24 +732,24 @@ where
 
 **38** 
 
-- **(1)** The Minister may, on application, pay a permanent impairment allowance to a veteran who has one or more physical or mental health problems that are creating a permanent and severe impairment if the veteran, in respect of each of those health problems,
+- **(1)** The Minister may, on application, pay a career impact allowance to a veteran who has one or more physical or mental health problems that are creating a permanent and severe impairment if the veteran, in respect of each of those health problems,
 	- **(a)** has had an application for rehabilitation services approved under this Part; and
 	- **(b)** has received a disability award under Part 3 or a pension for disability under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md), or would have received such an award or pension but has not because
 		- **(i)** the aggregate of all of the veteran’s disability assessments and deemed disability assessments exceeds 100%, or
-		- **(ii)** the disability award is not yet payable because, in the opinion of the Minister, the disability has not stabilized.
+		- **(ii)** the disability award is not yet payable in accordance with section 53.
 
 **Ineligibility — exceptional incapacity allowance**
 
-- **(1.1)** A veteran who has received or is receiving an exceptional incapacity allowance under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md) is not eligible to be paid a permanent impairment allowance.
+- **(1.1)** A veteran who has received or is receiving an exceptional incapacity allowance under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md) is not eligible to be paid a career impact allowance.
 
 **Amount of allowance**
 
-- **(2)** The Minister shall determine the amount of the permanent impairment allowance that may be paid to the veteran in a year. The minimum permanent impairment allowance shall be the amount set out in column 2 of item 1 of Schedule 2, and the maximum permanent impairment allowance shall be the amount set out in column 2 of item 2 of that Schedule.
+- **(2)** The Minister shall determine the amount of the career impact allowance that may be paid to the veteran in a year, taking into account the potential impact of the permanent and severe impairment on the veteran’s career advancement opportunities. The minimum career impact allowance shall be the amount set out in item 1, column 2, of Schedule 2, and the maximum career impact allowance shall be the amount set out in item 2, column 2.
 
-**Total and permanent incapacitation**
+**Diminished earning capacity**
 
-- **(3)** The Minister may, on application, increase the permanent impairment allowance that may be paid under subsection (2) by the amount set out in item 2.1, column 2, of Schedule 2, if the Minister determines that the veteran is totally and permanently incapacitated.
-> 2005, c. 21, s. 38; 2011, c. 12, s. 8.
+- **(3)** The Minister may, on application, increase the career impact allowance that may be paid under subsection (2) by the amount set out in item 2.1, column 2, of Schedule 2, if the Minister determines that the veteran has a diminished earning capacity.
+> 2005, c. 21, s. 38; 2011, c. 12, s. 8; 2016, c. 7, ss. 85, 97.
 
 
 
@@ -755,11 +757,11 @@ where
 
 **When allowance payable**
 
-**39** The permanent impairment allowance under subsection 38(2) and an increase to the permanent impairment allowance under subsection 38(3) begin to be payable on the latest of
+**39** The career impact allowance under subsection 38(2) and an increase to the career impact allowance under subsection 38(3) begin to be payable on the latest of
 - **(a)** the day on which the application for the allowance or increase, as the case may be, is made;
 - **(b)** the day that is one year prior to the day on which the application for the allowance or increase, as the case may be, is approved; and
 - **(c)** the day after the day on which the member is released from the Canadian Forces.
-> 2005, c. 21, s. 39; 2011, c. 12, s. 9; 2015, c. 36, s. 209.
+> 2005, c. 21, s. 39; 2011, c. 12, s. 9; 2015, c. 36, s. 209; 2016, c. 7, s. 97.
 
 
 
@@ -769,11 +771,13 @@ where
 
 **40** 
 
-- **(1)** The Minister may, for the purpose of determining whether a veteran may continue to receive a permanent impairment allowance, require the veteran to undergo a medical examination or an assessment by a person specified by the Minister.
+- **(1)** The Minister may, for the purpose of determining whether a veteran may continue to receive a career impact allowance, require the veteran to undergo a medical examination or an assessment by a person specified by the Minister.
 
 **Non-compliance**
 
-- **(2)** If a veteran who is required by the Minister to undergo a medical examination or an assessment fails without reasonable excuse to do so, the Minister may cancel the permanent impairment allowance.
+- **(2)** If a veteran who is required by the Minister to undergo a medical examination or an assessment fails without reasonable excuse to do so, the Minister may cancel the career impact allowance.
+> 2005, c. 21, s. 40; 2016, c. 7, ss. 86(E), 97.
+
 
 
 
@@ -809,7 +813,7 @@ where
 ```
 where
 - **A** is 70% of the earnings loss benefit to which the veteran would be entitled for the month in which they attain the age of 65 years, calculated as if the benefit were payable for that entire month and not taking into account amounts that are payable to the veteran from prescribed sources referred to in subsection 19(1);
-- **B** is 70% of the permanent impairment allowance, including any increase to it under subsection 38(3), payable to the veteran for the month in which they attain the age of 65 years; and
+- **B** is 70% of the career impact allowance, including any increase to it under subsection 38(3), payable to the veteran for the month in which they attain the age of 65 years; and
 - **C** is the total amount that is payable to the veteran for a month from prescribed sources.
 
 **Regulations**
@@ -817,7 +821,7 @@ where
 - **(5)** The Governor in Council may make regulations
 	- **(a)** providing for the periodic adjustment of the total value of A and B in subsection (4); and
 	- **(b)** respecting the determination, for the purpose of the value of C in subsection (4), of an amount payable to a veteran for a month.
-> 2015, c. 36, s. 210.
+> 2015, c. 36, s. 210; 2016, c. 7, s. 97.
 
 
 
@@ -850,7 +854,7 @@ where
 ```
 where
 - **A** is 70% of the earnings loss benefit to which the veteran would have been entitled, had the veteran applied, for the month in which they attain the age of 65 years, calculated as if the benefit were payable for that entire month and not taking into account amounts that would have been payable to the veteran from prescribed sources referred to in subsection 19(1);
-- **B** is 70% of the permanent impairment allowance, including any increase to it under subsection 38(3), payable to the veteran for the month in which they attain the age of 65 years; and
+- **B** is 70% of the career impact allowance, including any increase to it under subsection 38(3), payable to the veteran for the month in which they attain the age of 65 years; and
 - **C** is the total amount that is payable to the veteran for a month from prescribed sources.
 
 **Regulations**
@@ -858,7 +862,7 @@ where
 - **(5)** The Governor in Council may make regulations
 	- **(a)** providing for the periodic adjustment of the total value of A and B in subsection (4); and
 	- **(b)** respecting the determination, for the purpose of the value of C in subsection (4), of an amount payable to a veteran for a month.
-> 2015, c. 36, s. 210.
+> 2015, c. 36, s. 210; 2016, c. 7, s. 97.
 
 
 
@@ -942,7 +946,7 @@ where
 
 **40.5** 
 
-- **(1)** The Minister may waive the requirement for an application for the retirement income security benefit if the Minister is satisfied that the veteran or survivor would be eligible for the benefit if they were to apply for it based on information that has been collected or obtained by the Minister in the exercise of the Minister’s powers or the performance of the Minister’s duties and functions in respect of the earnings loss benefit, permanent impairment allowance or disability award or in respect of the disability pension under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md).
+- **(1)** The Minister may waive the requirement for an application for the retirement income security benefit if the Minister is satisfied that the veteran or survivor would be eligible for the benefit if they were to apply for it based on information that has been collected or obtained by the Minister in the exercise of the Minister’s powers or the performance of the Minister’s duties and functions in respect of the earnings loss benefit, career impact allowance or disability award or in respect of the disability pension under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md).
 
 **Notice of intent**
 
@@ -959,7 +963,7 @@ where
 **Cancellation of waiver**
 
 - **(5)** Even if the Minister intends to waive the requirement for an application, the Minister may require that the veteran or the survivor make an application for the retirement income security benefit and, in that case, the Minister shall notify the veteran or survivor in writing of that requirement.
-> 2015, c. 36, s. 210.
+> 2015, c. 36, s. 210; 2016, c. 7, s. 97.
 
 
 
@@ -982,13 +986,13 @@ where
 
 **41** The Governor in Council may make regulations
 - **(a)** providing for the notification of the Minister, by persons who are in receipt of an earnings loss benefit, a Canadian Forces income support benefit or a retirement income security benefit, of any changes in income or benefits, or in an amount payable for a month from a prescribed source for the purposes of subsection 19(1), 23(3), 40.1(4), 40.2(4), 40.3(4) or 40.4(4), requiring the provision of statements of estimated income, benefits or amounts payable and providing for the effect of those changes on the calculation of the amount of the compensation payable;
-- **(b)** respecting the determination of what constitutes suitable gainful employment, a barrier to re-establishment in civilian life and total and permanent incapacity;
-- **(c)** defining “base calendar year”, “income” and “payment period” for the purposes of section 37;
+- **(b)** respecting what constitutes a barrier to re-establishment in civilian life and a diminished earning capacity;
+- **(c)** defining base calendar year, income and payment period for the purposes of section 37;
 - **(d)** providing for the increase of any amount set out in column 2 of Schedule 1 in case of any increase in the amount of a pension or a supplement, as those terms are defined in section 2 of the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md), as a result of amendments to that Act;
 - **(e)** respecting the payment of expenses arising out of a person’s participation in a rehabilitation plan or a vocational assistance plan;
 - **(f)** defining residence and defining intervals of absence from Canada that shall be deemed not to have interrupted residence in Canada for the purposes of sections 33 and 34; and
 - **(g)** respecting, for the purposes of section 38, what constitutes a permanent and severe impairment, the manner of determining whether a veteran has a permanent and severe impairment and the extent of the permanent and severe impairment.
-> 2005, c. 21, s. 41; 2015, c. 36, s. 211.
+> 2005, c. 21, s. 41; 2015, c. 36, s. 211; 2016, c. 7, s. 87.
 
 
 
@@ -1206,16 +1210,13 @@ where
 
 **52** 
 
-- **(1)** Subject to section 
-54, the amount of a disability award payable in respect of a member or a veteran shall be determined by the formula
+- **(1)** Subject to section 54, the amount of a disability award payable in respect of a member or a veteran shall be determined by the formula
 ```
 A - B
 ```
 where
 - **A** is the amount set out in column 3 of Schedule 3 that corresponds to the member’s or veteran’s extent of disability, as set out in column 2 of that Schedule, in respect of the aggregate of all of the member’s or veteran’s disability assessments and deemed disability assessments under this Act; and
-- **B** is the amount set out in column 3 of Schedule 3 in respect of the extent of disability set out in column 2 of that Schedule that corresponds to the difference, if any, between
-- **(a)** the member’s or veteran’s extent of disability, in respect of the aggregate of all of the member’s or veteran’s disability assessments or deemed disability assessments under this Act,and
-- **(b)** the member’s or veteran’s extent of disability for which the disability award is to be paid.
+- **B** is the amount set out in column 3 of Schedule 3 that corresponds to what was, immediately before the disability award becomes payable, the member’s or veteran’s extent of disability, as set out in column 2 of that Schedule, in respect of the aggregate of all of the member’s or veteran’s disability assessments and deemed disability assessments under this Act.
 
 **Fraction**
 
@@ -1224,6 +1225,8 @@ where
 **Reduction of award**
 
 - **(3)** If an amount is paid or payable to a person from a prescribed source in respect of a death or disability for which a disability award is payable, the Minister may reduce the disability award payable to the person by a prescribed amount.
+> 2005, c. 21, s. 52; 2016, c. 7, s. 88.
+
 
 
 
@@ -1283,8 +1286,11 @@ where
 
 **When award payable**
 
-**53** A disability award under section 
-45, 47 or 48 becomes payable whenever, in the opinion of the Minister, the disability has stabilized.
+**53** A disability award under section 45, 47 or 48 becomes payable when both of the following conditions are met:
+- **(a)** in the opinion of the Minister, the disability has stabilized;
+- **(b)** an assessment of the extent of the disability has been made.
+> 2005, c. 21, s. 53; 2016, c. 7, s. 89.
+
 
 
 
@@ -1891,7 +1897,7 @@ where
 
 **Erroneous payments of benefits or allowances**
 
-- **(4)** Despite anything in this Act, the Minister may continue the payment of an earnings loss benefit, a Canadian Forces income support benefit, a permanent impairment allowance, a retirement income security benefit, a clothing allowance or a family caregiver relief benefit, in whole or in part, to a person who is not entitled to it, or not entitled to a portion of it, if
+- **(4)** Despite anything in this Act, the Minister may continue the payment of an earnings loss benefit, a Canadian Forces income support benefit, a career impact allowance, a retirement income security benefit, a clothing allowance or a family caregiver relief benefit, in whole or in part, to a person who is not entitled to it, or not entitled to a portion of it, if
 	- **(a)** the amount paid to the person to which the person was not entitled is the result of an administrative error, a delay or an oversight on the part of an officer or employee of the federal public administration and has been remitted under paragraph (3)(d);
 	- **(b)** no part of the amount paid to the person to which the person was not entitled was the result of a misrepresentation or of concealment of a material fact on the part of the person, in the opinion of the Minister;
 	- **(c)** the cancellation or reduction of the benefit or allowance would, in the opinion of the Minister, cause undue hardship to the person; and
@@ -1900,7 +1906,7 @@ where
 **Recovery of overpayments**
 
 - **(5)** If a person retains any amount of a member’s or a veteran’s compensation paid after the member’s or veteran’s death and to which the member or veteran was not entitled, that amount may be deducted from any compensation paid to that person.
-> 2005, c. 21, s. 88; 2015, c. 36, s. 221.
+> 2005, c. 21, s. 88; 2015, c. 36, s. 221; 2016, c. 7, s. 97.
 
 
 
@@ -1978,7 +1984,7 @@ where
 - **(b)** respecting the time and manner of payment of compensation under this Act;
 - **(c)** providing for the periodic adjustment of the amounts set out in Schedules 1 to 3;
 - **(d)** providing for the payment or the reimbursement of fees for financial advice;
-- **(e)** respecting the provision of any information, declaration or document to the Minister by any person who applies for or is in receipt of career transition services, rehabilitation services, vocational assistance, an earnings loss benefit, a Canadian Forces income support benefit, a permanent impairment allowance, a retirement income security benefit, a clothing allowance or a family caregiver relief benefit under this Act, and authorizing the Minister to suspend delivery of the services or assistance or payment of the benefit or allowance until the information, declaration or document is provided;
+- **(e)** respecting the provision of any information, declaration or document to the Minister by any person who applies for or is in receipt of career transition services, rehabilitation services, vocational assistance, an earnings loss benefit, a Canadian Forces income support benefit, a career impact allowance, a retirement income security benefit, a clothing allowance or a family caregiver relief benefit under this Act, and authorizing the Minister to suspend delivery of the services or assistance or payment of the benefit or allowance until the information, declaration or document is provided;
 - **(f)** respecting the procedure to be followed by the Minister in suspending or cancelling rehabilitation services, vocational assistance or payment of compensation;
 - **(g)** providing for a review of any decisions made under Part 2 or 3.1 or under section 83, including the grounds for review, the powers on review and the number of reviews;
 - **(h)** respecting the time and manner of making an application for a review under sections 83 and 84;
@@ -1988,7 +1994,18 @@ where
 - **(j)** prescribing any matter required or authorized by this Act to be prescribed;
 - **(j.1)** prescribing the way in which anything that is required or authorized by this Act to be prescribed is to be determined; and
 - **(k)** generally, for carrying out the purposes and provisions of this Act.
-> 2005, c. 21, s. 94; 2011, c. 12, s. 17; 2015, c. 36, s. 222.
+> 2005, c. 21, s. 94; 2011, c. 12, s. 17; 2015, c. 36, s. 222; 2016, c. 7, s. 97.
+
+
+
+
+
+**Transitional provisions — April 1, 2017**
+
+**94.01** The Governor in Council may make regulations
+- **(a)** respecting the provision of information or documents to the Minister by a person who may be entitled to an amount under any of sections 100 to 103 of the Budget Implementation Act, 2016, No. 1; and
+- **(b)** providing for the reimbursement of fees for financial advice obtained by a person in relation to an amount that is paid or payable to them under any of sections 100 to 103 of that Act.
+> 2016, c. 7, s. 90.
 
 
 
@@ -2032,20 +2049,7 @@ where
 
 
 
-
-**Adjustment of Schedule 1**
-
-**98** 
-
-- **(1)** On the coming into force of this section, the amounts set out in column 2 of Schedule 1 to this Act shall be adjusted in accordance with sections 19 to 22 of the  [War Veterans Allowance Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-3.md), for the period beginning on April 1, 2005 and ending on the day on which this section comes into force, as if they were amounts set out in column II of the schedule to that Act.
-
-**Adjustment of Schedule 2**
-
-- **(2)** On the coming into force of this section, the amount set out in column 2 of item 4 of Schedule 2 to this Act shall be adjusted in accordance with sections 74 to 77 of the  [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md), for the period beginning on April 1, 2005 and ending on the day on which this section comes into force, as if it were an amount set out in Schedule III to that Act.
-
-**Adjustment of classes 21 to 24 of Schedule 3**
-
-- **(3)** On the coming into force of this section, the amounts set out in column 3 of Schedule 3 to this Act in respect of classes 21 to 24 shall be adjusted in accordance with sections 74 to 77 of the  [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md), for the period beginning on April 1, 2005 and ending on the day on which this section comes into force, as if they were amounts set out in Schedule I to that Act.
+**98** [Repealed, 2016, c. 7, s. 91]
 
 
 
@@ -2176,7 +2180,7 @@ where
 
 
 ### **SCHEDULE 1** 
-**(Section 37, paragraphs 41(d) and 94(c) and subsection 98(1))**
+**(Section 37 and paragraphs 41(d) and 94(c))**
 <table>
 <h4>Canadian Forces Income Support Benefit</h4>
 <tr>
@@ -2218,11 +2222,13 @@ where
 </tr>
 </table>
 
+> 2005, c. 21, Sch. 1; 2016, c. 7, s. 92.
+
 
 
 
 ### **SCHEDULE 2** 
-**(Subsections 38(2) and (3), section 44.2, subsection 58(1), sections 61 and 65.2, paragraph 94(c) and subsection 98(2))**
+**(Subsections 38(2) and (3), section 44.2, subsection 58(1), sections 61 and 65.2 and paragraph 94(c))**
 <table>
 <h4>Allowances and Benefits</h4>
 <tr>
@@ -2237,17 +2243,17 @@ where
 </tr>
 <tr>
 <td>1</td>
-<td>Minimum permanent impairment allowance</td>
+<td>Minimum career impact allowance</td>
 <td>6,000.00 (yearly)</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Maximum permanent impairment allowance</td>
+<td>Maximum career impact allowance</td>
 <td>18,000.00 (yearly)</td>
 </tr>
 <tr>
 <td>2.1</td>
-<td>Permanent impairment allowance supplement for total and permanent incapacitation</td>
+<td>Career impact allowance supplement for diminished earning capacity</td>
 <td>12,000.00 (yearly)</td>
 </tr>
 <tr>
@@ -2258,7 +2264,7 @@ where
 <tr>
 <td>3</td>
 <td>Death benefit</td>
-<td>250,000.00 (lump sum)</td>
+<td>360,000.00 (lump sum)</td>
 </tr>
 <tr>
 <td>4</td>
@@ -2272,13 +2278,13 @@ where
 </tr>
 </table>
 
-> 2005, c. 21, Sch. 2; 2011, c. 12, ss. 18, 19; 2015, c. 36, ss. 224, 225.
+> 2005, c. 21, Sch. 2; 2011, c. 12, ss. 18, 19; 2015, c. 36, ss. 224, 225; 2016, c. 7, ss. 93 to 95, 97.
 
 
 
 
 ### **SCHEDULE 3** 
-**(Subsection 52(1), paragraph 94(c) and subsection 98(3))**
+**(Subsection 52(1) and paragraph 94(c))**
 <table>
 <h4>Disability Award</h4>
 <tr>
@@ -2287,7 +2293,9 @@ where
 <th>Column 3</th>
 </tr>
 <tr>
-<th>Class</th>
+<th>Rate of Award(%)
+
+</th>
 <th>Extent of Disability(%)
 
 </th>
@@ -2296,125 +2304,127 @@ where
 </th>
 </tr>
 <tr>
-<td>1</td>
+<td>100</td>
 <td>98-100</td>
-<td>250,000.00</td>
+<td>360,000.00</td>
 </tr>
 <tr>
-<td>2</td>
+<td>95</td>
 <td>93-97</td>
-<td>237,500.00</td>
+<td>342,000.00</td>
 </tr>
 <tr>
-<td>3</td>
+<td>90</td>
 <td>88-92</td>
-<td>225,000.00</td>
+<td>324,000.00</td>
 </tr>
 <tr>
-<td>4</td>
+<td>85</td>
 <td>83-87</td>
-<td>212,500.00</td>
+<td>306,000.00</td>
 </tr>
 <tr>
-<td>5</td>
+<td>80</td>
 <td>78-82</td>
-<td>200,000.00</td>
+<td>288,000.00</td>
 </tr>
 <tr>
-<td>6</td>
+<td>75</td>
 <td>73-77</td>
-<td>187,500.00</td>
+<td>270,000.00</td>
 </tr>
 <tr>
-<td>7</td>
+<td>70</td>
 <td>68-72</td>
-<td>175,000.00</td>
+<td>252,000.00</td>
 </tr>
 <tr>
-<td>8</td>
+<td>65</td>
 <td>63-67</td>
-<td>162,500.00</td>
+<td>234,000.00</td>
 </tr>
 <tr>
-<td>9</td>
+<td>60</td>
 <td>58-62</td>
-<td>150,000.00</td>
+<td>216,000.00</td>
 </tr>
 <tr>
-<td>10</td>
+<td>55</td>
 <td>53-57</td>
-<td>137,500.00</td>
+<td>198,000.00</td>
 </tr>
 <tr>
-<td>11</td>
+<td>50</td>
 <td>48-52</td>
-<td>125,000.00</td>
+<td>180,000.00</td>
 </tr>
 <tr>
-<td>12</td>
+<td>45</td>
 <td>43-47</td>
-<td>112,500.00</td>
+<td>162,000.00</td>
 </tr>
 <tr>
-<td>13</td>
+<td>40</td>
 <td>38-42</td>
-<td>100,000.00</td>
+<td>144,000.00</td>
 </tr>
 <tr>
-<td>14</td>
+<td>35</td>
 <td>33-37</td>
-<td>87,500.00</td>
+<td>126,000.00</td>
 </tr>
 <tr>
-<td>15</td>
+<td>30</td>
 <td>28-32</td>
-<td>75,000.00</td>
+<td>108,000.00</td>
 </tr>
 <tr>
-<td>16</td>
+<td>25</td>
 <td>23-27</td>
-<td>62,500.00</td>
-</tr>
-<tr>
-<td>17</td>
-<td>18-22</td>
-<td>50,000.00</td>
-</tr>
-<tr>
-<td>18</td>
-<td>13-17</td>
-<td>37,500.00</td>
-</tr>
-<tr>
-<td>19</td>
-<td>8-12</td>
-<td>25,000.00</td>
+<td>90,000.00</td>
 </tr>
 <tr>
 <td>20</td>
+<td>18-22</td>
+<td>72,000.00</td>
+</tr>
+<tr>
+<td>15</td>
+<td>13-17</td>
+<td>54,000.00</td>
+</tr>
+<tr>
+<td>10</td>
+<td>8-12</td>
+<td>36,000.00</td>
+</tr>
+<tr>
+<td>5</td>
 <td>5-7</td>
-<td>12,500.00</td>
+<td>18,000.00</td>
 </tr>
 <tr>
-<td>21</td>
 <td>4</td>
-<td>2,617.96</td>
+<td>4</td>
+<td>14,400.00</td>
 </tr>
 <tr>
-<td>22</td>
 <td>3</td>
-<td>1,963.48</td>
+<td>3</td>
+<td>10,800.00</td>
 </tr>
 <tr>
-<td>23</td>
 <td>2</td>
-<td>1,308.97</td>
+<td>2</td>
+<td>7,200.00</td>
 </tr>
 <tr>
-<td>24</td>
 <td>1</td>
-<td>654.49</td>
+<td>1</td>
+<td>3,600.00</td>
 </tr>
 </table>
+
+> 2005, c. 21, Sch. 3; 2016, c. 7, s. 96.
 
 
