@@ -1,6 +1,6 @@
 > [Go to French version](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20413.md)
 
-# Regulations Respecting the Protection of the Coastal Fisheries of Canada
+# Coastal Fisheries Protection Regulations
 
 **C.R.C., c. 413**
 
@@ -10,11 +10,7 @@ Enabling authorities:
 ----------
 
 
-
-## Short Title
-
-
-**1** These Regulations may be cited as the Coastal Fisheries Protection Regulations.
+**1** [Repealed, SOR/2017-58, s. 42]
 
 
 
@@ -215,17 +211,14 @@ the application shall be signed by the charterer who shall, in respect of that v
 
 - **(2)** [Repealed, SOR/85-527, s. 6]
 
-- **(3)** The Minister may
-	- **(a)** on receipt of an application from the representative designated pursuant to paragraph 7(f), or
-	- **(b)** on his own initiative, where an error has been made in a licence,
-amend any provision set out in the licence.
+- **(3)** The Minister may amend any provision in the licence on receipt of an application from the person referred to in paragraph 7(f) or, if an error has been made in the licence, on his or her own initiative.
 
 - **(4)** An application referred to in subsection (3) shall be filed not less than 14 days prior to the first day on which the amendment is required except that the Minister may, in order to prevent hardship, accept an application at any time.
 
 - **(5)** An amendment referred to in subsection (3) is not binding on the master of the vessel to which the licence applies until it is received by the representative in Canada designated pursuant to paragraph 7(f).
 
 - **(6)** The fees payable for amendment of a licence issued pursuant to subsection (3) are set out in Schedule I.
-> SOR/79-713, s. 6; SOR/80-186, s. 4; SOR/85-527, s. 6; SOR/94-362, s. 4(F).
+> SOR/79-713, s. 6; SOR/80-186, s. 4; SOR/85-527, s. 6; SOR/94-362, s. 4(F); SOR/2017-58, s. 43.
 
 
 
@@ -255,16 +248,16 @@ amend any provision set out in the licence.
 - **(1)** Every licence in respect of a foreign fishing vessel is subject to the following terms and conditions:
 	- **(a)** [Repealed, SOR/85-527, s. 8]
 	- **(b)** the vessel and its crew shall engage only in the activities that are authorized by the licence;
-	- **(c)** the activities authorized by the licence shall be carried out only at the times and in the areas of Canadian fisheries waters or ports set out in the licence;
+	- **(c)** the activities authorized by the licence shall be carried out only at the times and in the areas of Canadian fisheries waters or ports specified in the licence;
 	- **(d)** where fishing is authorized by the licence
 		- **(i)** the crew of the vessel shall fish only for a species of fish specified in the licence,
-		- **(ii)** the crew of the vessel shall not catch and retain any fish of a species, size or age set out in the licence as prohibited catches, and where such fish are caught they shall be returned to the water, alive if possible,
+		- **(ii)** the crew of the vessel shall not catch and retain any fish of a species, size or age specified in the licence as prohibited catch and any prohibited catch shall be returned to the water, alive if possible,
 		- **(iii) and (iv)** [Repealed, SOR/79-713, s. 8]
-		- **(v)** the crew of the vessel shall fish only by means of fishing equipment and gear of a kind set out in the licence, and
-		- **(vi)** where a quantity of gear and equipment is set out in a licence, the crew of the vessel shall not fish with a quantity of gear and equipment that exceeds the quantity set out in the licence;
+		- **(v)** the crew of the vessel shall fish only by means of fishing equipment and gear of a type specified in the licence, and
+		- **(vi)** if a quantity of gear and equipment is specified in the licence, the crew of the vessel shall not fish with a quantity of gear and equipment that exceeds that specified quantity;
 	- **(e)** where the transporting of fish from fishing grounds is authorized by the licence
-		- **(i)** only the species and quantities of fish set out in the licence shall be taken on board the vessel for that purpose,
-		- **(ii)** the fish may be taken on board only from vessels of a class set out in the licence, and
+		- **(i)** only the species and quantities of fish specified in the licence shall be taken on board the vessel for that purpose,
+		- **(ii)** the fish may be taken on board only from vessels of a class specified in the licence, and
 		- **(iii)** the master of the vessel shall cause written records to be maintained on a daily basis of the fish taken on board the vessel for transportation;
 	- **(f) and (g)** [Repealed, SOR/85-527, s. 8]
 	- **(h)** the vessel shall have on board at all times during the period it is in Canadian fisheries waters equipment and gear, including communications equipment, described in the licence as “required equipment”;
@@ -275,8 +268,8 @@ amend any provision set out in the licence.
 	- **(n) to (t)** [Repealed, SOR/85-527, s. 8]
 	- **(u)** the master or crew of the vessel shall not carry out any activity in any area of Canadian fisheries waters that is contrary to the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md) or regulations made under that Act.
 
-- **(2)** The master of a foreign vessel in respect of which a licence has been issued shall not contravene or fail to comply with any condition set out in that licence.
-> SOR/79-713, s. 8; SOR/82-289, s. 1; SOR/85-527, s. 8; SOR/94-362, ss. 4(F), 5(F).
+- **(2)** The master of a foreign vessel in respect of which a licence has been issued shall not contravene or fail to comply with any condition of that licence.
+> SOR/79-713, s. 8; SOR/82-289, s. 1; SOR/85-527, s. 8; SOR/94-362, ss. 4(F), 5(F); SOR/2017-58, s. 44.
 
 
 
@@ -323,11 +316,11 @@ amend any provision set out in the licence.
 	- **(k)** send the original of the log book required to be completed under paragraph (j)
 		- **(i)** upon request, to a protection officer or a Regional Director-General as soon as the request is made, or
 		- **(ii)** where a request has not been made under subparagraph (i), to the Regional Director-General designated in the licence not later than 60 days after the expiration date of the licence;
-	- **(l)** cause reports to be made containing such information, at such times, to such persons and by such means as are set out in the licence;
+	- **(l)** cause reports to be made containing the information specified, at the times specified, to the persons specified and by the means specified in the licence;
 	- **(m)** while in Canadian fisheries waters, at the request of a Regional Director-General or a protection officer proceed forthwith to the place at sea or the port specified in the request for the purpose of inspection; and
 	- **(n)** ensure that the vessel at all times while in Canadian fisheries waters is flying the flag of its flag state.
 
-- **(2)** The master of a foreign fishing vessel in respect of which a licence has been issued shall not operate or cause to be operated that vessel for fishing unless the side number set out in the licence is painted on the vessel or affixed permanently to the vessel by some other means and
+- **(2)** The master of a foreign fishing vessel in respect of which a licence has been issued shall not operate that vessel for fishing or cause it to be operated for fishing unless the side number specified in the licence is painted on the vessel or affixed permanently to the vessel by some other means and
 	- **(a)** is legible and visible from an aircraft in flight, another vessel or the shore;
 	- **(b)** is in solid block Arabic numerals without ornamentation;
 	- **(c)** is white on a black background or black on a white background;
@@ -375,7 +368,7 @@ amend any provision set out in the licence.
 
 
 <a name='fn_1e'><sup>*</sup></a>: Space between extremities of numerals and the outer edge of the black or white background, where the part of the vessel on which the number is located is not painted black or white.<br />
-> SOR/78-795, s. 2; SOR/81-976, s. 1; SOR/85-527, s. 9; SOR/86-939, s. 4; SOR/89-29, s. 1; SOR/94-362, ss. 4(F), 5(F), 7(F); SOR/96-390, s. 1(F); SOR/2003-137, s. 1.
+> SOR/78-795, s. 2; SOR/81-976, s. 1; SOR/85-527, s. 9; SOR/86-939, s. 4; SOR/89-29, s. 1; SOR/94-362, ss. 4(F), 5(F), 7(F); SOR/96-390, s. 1(F); SOR/2003-137, s. 1; SOR/2017-58, s. 45.
 
 
 
@@ -401,7 +394,7 @@ amend any provision set out in the licence.
 
 
 **13** The Minister may, at the request of the owner or master of a Canadian fishing vessel, issue a licence authorizing the master to bring into Canadian fisheries waters fish, of a species and quantity specified in the licence, received outside Canadian fisheries waters from a foreign fishing vessel.
-> SOR/85-527, s. 9; SOR/94-362, ss. 4(F), 5(F).
+> SOR/85-527, s. 9; SOR/94-362, ss. 4(F), 5(F); SOR/2017-58, s. 46(F).
 
 
 
@@ -497,8 +490,8 @@ amend any provision set out in the licence.
 ## Use of Force
 
 
-**19.3** A protection officer may use force under section 8.1 of the Act only if the protection officer is proceeding lawfully and in accordance with the manner set out in sections 19.4 and 19.5 to arrest the master or other person in command of a foreign fishing vessel for the commission of an offence under section 3, paragraph 4(1)(a) or section 5.2 or 5.5 of the Act or of an offence set out in subparagraph 17(1)(a)(ii) of the Act.
-> SOR/94-362, s. 2; SOR/2014-149, s. 4.
+**19.3** A protection officer may use force under section 8.1 of the Act to arrest the master or other person in command of a foreign fishing vessel for the commission of an offence under section 3, paragraph 4(1)(a), section 5.2 or 5.5 or subparagraph 17(1)(a)(ii) of the Act.
+> SOR/94-362, s. 2; SOR/2014-149, s. 4; SOR/2017-58, s. 47.
 
 
 
@@ -525,8 +518,8 @@ amend any provision set out in the licence.
 ## Return of Prohibited Species
 
 
-**20** The master of a foreign fishing vessel in respect of which a licence has been issued shall, where fish of a species, size or age set out in the licence as prohibited species is caught from the vessel, cause forthwith the return of that fish to the water in a manner that causes the least possible harm to that fish.
-> SOR/85-527, s. 14; SOR/94-362, s. 4(F).
+**20** The master of a foreign fishing vessel in respect of which a licence has been issued shall, if any fish of a species, size or age specified in the licence as prohibited catch is caught from the vessel, cause that fish to be immediately returned to the water in a manner that causes the least possible harm to that fish.
+> SOR/85-527, s. 14; SOR/94-362, s. 4(F); SOR/2017-58, s. 48.
 
 
 
@@ -551,11 +544,11 @@ amend any provision set out in the licence.
 	- **(d)** in respect of a foreign fishing vessel of a class prescribed by subparagraph (b)(iii), the measures set out in Table V to this section are prescribed conservation and management measures.
 
 **TABLE I** 
-## STRADDLING STOCKS LOCATED IN DIVISION 3L, DIVISION 3N OR DIVISION 3O
+## Straddling Stocks Located in Division 3L, Division 3N or Division 3O
 
 #### PART A
 <table>
-<h4>GROUNDFISH</h4>
+<h4>Groundfish</h4>
 <tr>
 <th></th>
 <th>Column I</th>
@@ -675,7 +668,7 @@ amend any provision set out in the licence.
 
 #### PART B
 <table>
-<h4>FISH OTHER THAN GROUNDFISH</h4>
+<h4>Fish Other than Groundfish</h4>
 <tr>
 <th></th>
 <th>Column I</th>
@@ -725,7 +718,7 @@ amend any provision set out in the licence.
 
 #### TABLE II
 <table>
-<h4>STRADDLING STOCKS IN DIVISION 3M</h4>
+<h4>Straddling Stocks in Division 3M</h4>
 <tr>
 <th></th>
 <th>Column I</th>
@@ -745,7 +738,7 @@ amend any provision set out in the licence.
 
 #### TABLE III
 <table>
-<h4>STATES</h4>
+<h4>States</h4>
 <tr>
 <th>Item</th>
 <th>States</th>
@@ -758,7 +751,7 @@ amend any provision set out in the licence.
 
 #### TABLE IV
 <table>
-<h4>STATES</h4>
+<h4>States</h4>
 <tr>
 <th>Item</th>
 <th>States</th>
@@ -771,7 +764,7 @@ amend any provision set out in the licence.
 
 #### TABLE V
 <table>
-<h4>PRESCRIBED CONSERVATION AND MANAGEMENT MEASURES</h4>
+<h4>Prescribed Conservation and Management Measures</h4>
 <tr>
 <th>Item</th>
 <th>Measure</th>
@@ -862,7 +855,7 @@ amend any provision set out in the licence.
 </tr>
 </table>
 
-> SOR/94-362, s. 3; SOR/95-136, s. 2; SOR/95-222, s. 1; SOR/99-313, s. 3; SOR/2014-149, s. 5.
+> SOR/94-362, s. 3; SOR/95-136, s. 2; SOR/95-222, s. 1; SOR/99-313, s. 3; SOR/2014-149, s. 5; SOR/2017-58, s. 49(F).
 
 
 
@@ -1012,7 +1005,7 @@ amend any provision set out in the licence.
 - **(b)** established by the International Commission for the Conservation of Atlantic Tunas for the conservation or management of a highly migratory fish stock set out in the table to this section.
 #### TABLE
 <table>
-<h4>HIGHLY MIGRATORY FISH STOCKS</h4>
+<h4>Highly Migratory Fish Stocks</h4>
 <tr>
 <th>Item</th>
 <th>Species</th>
@@ -1059,7 +1052,7 @@ amend any provision set out in the licence.
 </tr>
 </table>
 
-> SOR/99-313, s. 4.
+> SOR/99-313, s. 4; SOR/2017-58, s. 50(F).
 
 
 
@@ -1116,7 +1109,7 @@ amend any provision set out in the licence.
 	- **(c)** any other foreign fishing vessel, except a foreign fishing vessel of a state that is set out in Table III or IV to section 21, if the master of the vessel consents to the protection officer exercising those enforcement powers.
 
 - **(2)** The protection officer may exercise those enforcement powers in Canadian fisheries waters with respect to a foreign fishing vessel referred to in paragraph (1)(a) or (b).
-> SOR/2014-149, s. 8.
+> SOR/2014-149, s. 8; SOR/2017-58, s. 51(F).
 
 
 
