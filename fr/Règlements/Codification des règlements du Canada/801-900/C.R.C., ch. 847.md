@@ -1089,7 +1089,7 @@ La partie du delta du fleuve Mackenzie bornée :
 <th>Espèces</th>
 <th>Maillage (en millimètres)</th>
 <th>Périodes de fermeture</th>
-<th>Contingent (poids brut en kilogrammes)</th>
+<th>Contingent (poids brut en kilogrammes)</th>
 </tr>
 <tr>
 <td>RÉGION I — DELTA DU MACKENZIE</td>
@@ -1327,7 +1327,7 @@ La partie du delta du fleuve Mackenzie bornée :
 <tr>
 <td>barbotte et grand brochet</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 mai au 15 juin</td>
 <td>4 600</td>
 </tr>
 <tr>
@@ -5454,7 +5454,8 @@ jonction avec la riv. Satah
 <td>11 400</td>
 </tr>
 <tr>
-<td>20. et 21. [Abrogés, DORS/91-428, art. 5]</td>
+<td>20 et 21</td>
+<td>[Abrogés, DORS/91-428, art. 5]</td>
 </tr>
 <tr>
 <td>21.1</td>
@@ -5903,7 +5904,8 @@ jonction avec la riv. Satah
 <td>2 300</td>
 </tr>
 <tr>
-<td>54. à 58. [Abrogés, DORS/91-428, art. 5]</td>
+<td>54 à 58</td>
+<td>[Abrogés, DORS/91-428, art. 5]</td>
 </tr>
 <tr>
 <td>59</td>
@@ -5943,7 +5945,7 @@ jonction avec la riv. Satah
 
 > Image: Carte montrant six régions de pêche commerciale.
 
-> DORS/78-720, art. 2; DORS/81-468, art. 11; DORS/91-428, art. 5; DORS/98-388, art. 2; DORS/2011-194, art. 1 à 18.
+> DORS/78-720, art. 2; DORS/81-468, art. 11; DORS/91-428, art. 5; DORS/98-388, art. 2; DORS/2011-194, art. 1 à 18; DORS/2017-58, art. 4.
 
 
 
