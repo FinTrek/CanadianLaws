@@ -1327,7 +1327,7 @@ That portion of the Mackenzie River Delta bounded:
 <tr>
 <td>Burbot and Northern pike</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>May 15 to June 15</td>
 <td>4,600</td>
 </tr>
 <tr>
@@ -5454,7 +5454,8 @@ Junction of Satah R.
 <td>11,400</td>
 </tr>
 <tr>
-<td>20 and 21 [Revoked, SOR/91-428, s. 5]</td>
+<td>20 and 21</td>
+<td>[Revoked, SOR/91-428, s. 5]</td>
 </tr>
 <tr>
 <td>21.1</td>
@@ -5903,7 +5904,8 @@ Junction of Satah R.
 <td>2,300</td>
 </tr>
 <tr>
-<td>54 to 58 [Revoked, SOR/91-428, s. 5]</td>
+<td>54 to 58</td>
+<td>[Revoked, SOR/91-428, s. 5]</td>
 </tr>
 <tr>
 <td>59</td>
@@ -5943,7 +5945,7 @@ Junction of Satah R.
 
 > Image: Map displaying six commercial fishing regions.
 
-> SOR/78-720, s. 2; SOR/81-468, s. 11; SOR/91-428, s. 5; SOR/98-388, s. 2; SOR/2011-194, ss. 1 to 18.
+> SOR/78-720, s. 2; SOR/81-468, s. 11; SOR/91-428, s. 5; SOR/98-388, s. 2; SOR/2011-194, ss. 1 to 18; SOR/2017-58, s. 4.
 
 
 
