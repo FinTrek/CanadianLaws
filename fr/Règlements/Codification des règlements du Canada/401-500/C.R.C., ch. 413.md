@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20413.md)
 
-# Règlement concernant la protection des pêcheries côtières du Canada
+# Règlement sur la protection des pêches côtières
 
 **C.R.C., ch. 413**
 
@@ -10,11 +10,7 @@ Autorités habilitantes :
 ----------
 
 
-
-## Titre abrégé
-
-
-**1** Le présent règlement peut être cité sous le titre : Règlement sur la protection des pêcheries côtières.
+**1** [Abrogé, DORS/2017-58, art. 42]
 
 
 
@@ -210,21 +206,19 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 
 - **(1)** Une licence
 	- **a)** s’applique uniquement au bateau de pêche étranger qui y est désigné et, s’il y a lieu, aux membres de son équipage;
-	- **b)** est valide uniquement pour la période qui y est stipulée; et
+	- **b)** est valide uniquement pour la période qui y est indiquée;
 	- **c)** cesse d’être valide aussitôt qu’il y a changement d’État du pavillon ou changement de propriétaire du bateau de pêche étranger désigné dans la licence.
 
 - **(2)** [Abrogé, DORS/85-527, art. 6]
 
-- **(3)** Le ministre peut modifier toute disposition énoncée dans la licence,
-	- **a)** sur réception d’une demande du représentant visé à l’alinéa 7f), ou
-	- **b)** de sa propre initiative en cas d’erreur.
+- **(3)** Le ministre peut modifier toute disposition énoncée dans la licence, en cas d’erreur ou à la demande de la personne visée à l’alinéa 7f).
 
 - **(4)** Les demandes de modification de licence doivent être présentées au moins 14 jours avant la date à laquelle la modification est demandée. Cependant le ministre peut, pour que soient évités des inconvénients graves, ne pas tenir compte de ce délai.
 
 - **(5)** Une modification selon le paragraphe (3) lie le capitaine du bateau de pêche auquel elle s’applique, dès sa réception par le représentant visé à l’alinéa 7f).
 
 - **(6)** Les droits exigés pour modifier une licence conformément au paragraphe (3) sont prévus à l’annexe I.
-> DORS/79-713, art. 6; DORS/80-186, art. 4; DORS/85-527, art. 6; DORS/94-362, art. 4(F).
+> DORS/79-713, art. 6; DORS/80-186, art. 4; DORS/85-527, art. 6; DORS/94-362, art. 4(F); DORS/2017-58, art. 43.
 
 
 
@@ -256,14 +250,14 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 	- **b)** le bateau de pêche et son équipage ne doivent s’adonner qu’aux activités autorisées en vertu de la licence;
 	- **c)** les activités autorisées en vertu de la licence ne doivent avoir lieu qu’aux moments et dans les secteurs des eaux de pêche canadiennes ou dans les ports indiqués sur la licence;
 	- **d)** dans les secteurs où la pêche est autorisée par la licence
-		- **(i)** les membres de l’équipage du bateau de pêche ne doivent pêcher que les espèces de poissons spécifiées dans la licence,
-		- **(ii)** l’équipage du bateau de pêche ne peut pas prendre ou garder de poisson d’une espèce, de la taille ou de l’âge indiqués sur la licence comme prises interdites et, lorsque du poisson de cette nature est pris, il doit être rejeté à l’eau, vivant si possible,
+		- **(i)** les membres de l’équipage du bateau de pêche ne doivent pêcher que les espèces de poissons indiquées dans la licence,
+		- **(ii)** l’équipage du bateau de pêche ne peut ni prendre ni garder de poisson d’une espèce, de la taille ou de l’âge indiqués sur la licence comme prises interdites et, lorsque du poisson de cette nature est pris, il doit être rejeté à l’eau, vivant si possible,
 		- **(iii) et (iv)** [Abrogés, DORS/79-713, art. 8]
 		- **(v)** l’équipage du bateau de pêche ne doit pêcher qu’au moyen du matériel et des engins de pêche indiqués sur la licence, et
-		- **(vi)** les membres de l’équipage du bateau de pêche ne doivent pas utiliser pour la pêche une quantité d’engins et d’équipement de pêche supérieure à celle prévue, le cas échéant, dans la licence;
+		- **(vi)** les membres de l’équipage du bateau de pêche ne doivent pas utiliser pour la pêche une quantité d’engins et d’équipement de pêche supérieure à celle indiquée, le cas échéant, dans la licence;
 	- **e)** lorsque le transport de poisson à partir des zones de pêche est autorisé par la licence
 		- **(i)** le bateau de pêche ne doit embarquer à cette fin que les espèces et les quantités de poisson indiquées sur la licence,
-		- **(ii)** le poisson ne doit être embarqué qu’à partir de bateau de pêche d’une catégorie indiquée sur la licence, et
+		- **(ii)** le poisson ne doit être embarqué qu’à partir de bateaux de pêche d’une catégorie indiquée sur la licence,
 		- **(iii)** le capitaine du bateau de pêche doit veiller à faire enregistrer quotidiennement et par écrit les données relatives au poisson ainsi embarqué à bord du bateau de pêche en vue du transport;
 	- **f) et g)** [Abrogés, DORS/85-527, art. 8]
 	- **h)** le bateau de pêche doit toujours avoir à son bord pendant la période où il se trouve dans les eaux de pêche canadiennes le matériel et les engins, y compris le matériel de communication, décrit sur la licence comme « matériel obligatoire »;
@@ -275,7 +269,7 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 	- **u)** le capitaine ou l’équipage du navire ne doivent se livrer à aucune activité, dans un secteur quelconque des eaux de pêche canadiennes, qui irait à l’encontre de la Loi sur les pêcheries ou des règlements établis en vertu de cette loi.
 
 - **(2)** Il est interdit au capitaine d’un bateau de pêche étranger faisant l’objet d’une licence de déroger aux conditions de la licence.
-> DORS/79-713, art. 8; DORS/82-289, art. 1; DORS/85-527, art. 8; DORS/94-362, art. 4(F) et 5(F).
+> DORS/79-713, art. 8; DORS/82-289, art. 1; DORS/85-527, art. 8; DORS/94-362, art. 4(F) et 5(F); DORS/2017-58, art. 44.
 
 
 
@@ -301,8 +295,8 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 	- **b)** si la licence autorise l’entrée dans un port canadien, aviser le directeur général régional, au moins 24 heures à l’avance, des heures prévues pour l’entrée du bateau de pêche dans le port et sa sortie du même port;
 	- **c)** si le bateau de pêche se trouve dans les eaux de pêche canadiennes, aviser le directeur général régional, au moins 72 heures à l’avance ou dans un délai plus court si ce dernier l’autorise, de l’heure prévue pour le départ du bateau de pêche de ces eaux;
 	- **d)** si, à un moment donné, le bateau de pêche se trouve dans un secteur des eaux de pêche canadiennes où la licence n’autorise pas la pêche à ce moment-là, veiller à ce que tous les engins de pêche à bord du bateau soient rangés sous le pont ou soient enlevés de l’endroit où ils sont normalement utilisés pour la pêche et mis dans un endroit où ils ne sont pas facilement accessibles pour servir à la pêche;
-	- **e)** recevoir à bord du bateau, à la demande du directeur général régional, des observateurs au moment et pour la période mentionnés dans la demande, afin que ceux-ci puissent faire des constatations, recueillir des données scientifiques ou prélever des échantillons;
-	- **f)** embarquer ou débarquer des observateurs au moment et à l’endroit mentionnés sur la demande visée à l’alinéa e);
+	- **e)** recevoir à bord du bateau, à la demande du directeur général régional, des observateurs au moment et pour la période indiqués dans la demande, afin que ceux-ci puissent faire des constatations, recueillir des données scientifiques ou prélever des échantillons;
+	- **f)** embarquer ou débarquer des observateurs au moment et à l’endroit indiqués dans la demande visée à l’alinéa e);
 	- **g)** prendre toutes les précautions raisonnables pour assurer la sécurité des gardes-pêche ou des observateurs qui montent à bord ou débarquent du bateau de pêche en mer, y compris le respect des pratiques navales appropriées et, au besoin, l’installation d’une échelle de pilote sur le flanc du bateau de pêche;
 	- **h)** si un garde-pêche ou un observateur demeure à bord du bateau de pêche pendant plus de quatre heures consécutives, lui offrir des privilèges de gîte et de couvert équivalents à ceux dont jouissent les officiers du bateau de pêche;
 	- **i)** fournir au garde-pêche ou à l’observateur qui se trouve à bord du bateau de pêche une aide raisonnable pour lui permettre de s’acquitter de ses fonctions, notamment,
@@ -322,11 +316,11 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 	- **k)** envoyer l’original du livre de bord rempli conformément à l’alinéa j)
 		- **(i)** au garde-pêche ou au directeur général régional dès qu’il lui en fait la demande, ou
 		- **(ii)** lorsqu’une demande n’a pas été faite, conformément au sous-alinéa (i), au directeur général régional désigné dans la licence, au plus tard 60 jours après la date d’expiration de la licence;
-	- **l)** voir à l’établissement des rapports devant être présentés dans les délais, aux personnes et de la manière indiqués sur la licence et contenant les renseignements qui y sont précisés;
+	- **l)** veiller à ce que des rapports soient présentés en la forme, dans les délais et aux personnes indiqués dans la licence et contiennent les renseignements indiqués dans celle-ci;
 	- **m)** s’il se trouve dans les eaux de pêche canadiennes, se diriger sur-le-champ vers l’endroit en mer ou le port que désigne le directeur général régional ou le garde-pêche qui lui en fait la demande pour fins d’inspection; et
 	- **n)** s’assurer que le bateau de pêche porte un drapeau aux couleurs de l’État du pavillon, tant qu’il se trouve dans les eaux de pêche canadiennes.
 
-- **(2)** Le capitaine d’un bateau de pêche étranger faisant l’objet d’une licence ne doit pas utiliser ni permettre à une autre personne d’utiliser le bateau de pêche dans le cadre de la pêche, sauf si le numéro latéral mentionné sur la licence est peint ou autrement fixé en permanence sur le bateau de pêche et qu’il est
+- **(2)** Le capitaine d’un bateau de pêche étranger faisant l’objet d’une licence ne doit pas utiliser ni faire utiliser le bateau dans le cadre de la pêche, sauf si le numéro latéral indiqué dans la licence est peint ou autrement fixé en permanence sur le bateau de pêche et qu’il est :
 	- **a)** lisible et visible à partir d’un aéronef en vol, d’un autre bateau de pêche ou de la rive;
 	- **b)** inscrit en chiffres arabes pleins, sans fioritures;
 	- **c)** blanc sur un fond noir ou noir sur un fond blanc;
@@ -335,7 +329,7 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 #### TABLEAU
 <table>
 <tr>
-<th></th>
+<th>Article</th>
 <th>Colonne I</th>
 <th>Colonne II</th>
 <th>Colonne III</th>
@@ -344,12 +338,11 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 <th>Cononne VI</th>
 </tr>
 <tr>
-<th>Article</th>
 <th>Longueur hors tout du bateau de pêche</th>
 <th>Hauteur des chiffres et des lettres</th>
 <th>Largeur des chiffres et des lettres</th>
 <th>Épaisseur des chiffres et des lettres</th>
-<th>Espace entre les chiffres et les lettres et largeur du cadre<sup><a href='#nbp_1f'>[*]</a></sup></th>
+<th>Espace entre les chiffres et les lettres et largeur du cadre<sup><a href='#nbp_1f'>[*]</a></sup></th>
 <th>Emplacement sur le bateau de pêche</th>
 </tr>
 <tr>
@@ -374,7 +367,7 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 
 
 <a name='nbp_1f'><sup>*</sup></a>: Le cadre est l’espace entre l’extrémité des chiffres et le pourtour du fond noir ou blanc. (Ne s’applique qu’aux cas où la partie du bateau sur laquelle figure le numéro est peinte en une couleur autre que le noir ou le blanc.)<br />
-> DORS/78-795, art. 2; DORS/81-976, art. 1; DORS/85-527, art. 9; DORS/86-939, art. 4; DORS/89-29, art. 1; DORS/94-362, art. 4(F), 5(F) et 7(F); DORS/96-390, art. 1(F); DORS/2003-137, art. 1.
+> DORS/78-795, art. 2; DORS/81-976, art. 1; DORS/85-527, art. 9; DORS/86-939, art. 4; DORS/89-29, art. 1; DORS/94-362, art. 4(F), 5(F) et 7(F); DORS/96-390, art. 1(F); DORS/2003-137, art. 1; DORS/2017-58, art. 45.
 
 
 
@@ -399,8 +392,8 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 
 
 
-**13** Le ministre peut, à la demande du propriétaire ou du capitaine d’un bateau de pêche canadien, délivrer une licence autorisant le capitaine à apporter dans les eaux de pêche canadiennes l’espèce et la quantité de poisson spécifiées dans la licence, qu’il reçoit d’un bateau de pêche étranger en dehors desdites eaux.
-> DORS/85-527, art. 9; DORS/94-362, art. 4(F) et 5(F).
+**13** Le ministre peut, à la demande du propriétaire ou du capitaine d’un bateau de pêche canadien, délivrer une licence autorisant le capitaine à apporter dans les eaux de pêche canadiennes l’espèce et la quantité de poisson indiquées dans la licence qu’il reçoit d’un bateau de pêche étranger en dehors de ces eaux.
+> DORS/85-527, art. 9; DORS/94-362, art. 4(F) et 5(F); DORS/2017-58, art. 46(F).
 
 
 
@@ -496,8 +489,8 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 ## Usage de la force
 
 
-**19.3** Le garde-pêche ne peut employer la force en application de l’article 8.1 de la Loi que lorsqu’il procède légalement et de la manière prévue aux articles 19.4 et 19.5 à l’arrestation du capitaine ou du responsable d’un bateau de pêche étranger à l’égard d’une infraction à l’article 3, à l’alinéa 4(1)a), aux articles 5.2 ou 5.5 ou au sous-alinéa 17(1)a)(ii) de la Loi.
-> DORS/94-362, art. 2; DORS/2014-149, art. 4.
+**19.3** Le garde-pêche peut employer la force en application de l’article 8.1 de la Loi lorsqu’il procède à l’arrestation du capitaine ou du responsable d’un bateau de pêche étranger à l’égard d’une infraction prévue à l’article 3, à l’alinéa 4(1)a), aux articles 5.2 ou 5.5 ou au sous-alinéa 17(1)a)(ii) de la Loi.
+> DORS/94-362, art. 2; DORS/2014-149, art. 4; DORS/2017-58, art. 47.
 
 
 
@@ -524,8 +517,8 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 ## Remise à l’eau des espèces interdites
 
 
-**20** Le capitaine d’un bateau de pêche étranger faisant l’objet d’une licence doit faire remettre immédiatement à l’eau, de façon qu’il soit blessé le moins possible, tout poisson pris à partir du bateau de pêche et appartenant, en raison de son espèce, de sa taille ou de son âge, à une espèce interdite désignée dans la licence.
-> DORS/85-527, art. 14; DORS/94-362, art. 4(F).
+**20** Le capitaine d’un bateau de pêche étranger faisant l’objet d’une licence doit faire remettre immédiatement à l’eau tout poisson pris à partir du bateau dont la prise n’est pas autorisée par la licence en raison de son espèce, de sa taille ou de son âge, et ce, de façon que le poisson soit blessé le moins possible.
+> DORS/85-527, art. 14; DORS/94-362, art. 4(F); DORS/2017-58, art. 48.
 
 
 
@@ -541,27 +534,26 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 - **(2)** Pour l’application de l’article 5.2 de la Loi :
 	- **a)** constituent des stocks chevauchants :
 		- **(i)** dans la division 3L, la division 3N et la division 3O, les stocks de poissons figurant au tableau I du présent article,
-		- **(ii)** dans la division 3M, les stocks de poissons mentionnés au tableau II du présent article;
+		- **(ii)** dans la division 3M, les stocks de poissons figurant au tableau II du présent article;
 	- **b)** les classes réglementaires de bateaux de pêche étrangers sont :
 		- **(i)** [Abrogé, DORS/99-313, art. 3]
-		- **(ii)** les bateaux de pêche étrangers qui naviguent sous le pavillon d’un État visé au tableau III du présent article,
-		- **(iii)** les bateaux de pêche étrangers qui naviguent sous le pavillon d’un État visé au tableau IV du présent article;
+		- **(ii)** les bateaux de pêche étrangers qui naviguent sous le pavillon d’un État figurant au tableau III du présent article,
+		- **(iii)** les bateaux de pêche étrangers qui naviguent sous le pavillon d’un État figurant au tableau IV du présent article;
 	- **c)** en ce qui concerne les bateaux de pêche étrangers de la classe visée au sous-alinéa b)(ii), l’interdiction de pêcher des stocks chevauchants figurant aux tableaux I ou II du présent article, l’interdiction de se préparer à les pêcher et l’interdiction de les prendre et de les garder constituent des mesures de conservation et de gestion;
-	- **d)** en ce qui concerne les bateaux de pêche étrangers de la classe visée au sous-alinéa b)(iii), constituent des mesures de conservation et de gestion les mesures visées au tableau V du présent article.
+	- **d)** en ce qui concerne les bateaux de pêche étrangers de la classe visée au sous-alinéa b)(iii), constituent des mesures de conservation et de gestion les mesures figurant au tableau V du présent article.
 
 **TABLEAU I** 
-## STOCKS CHEVAUCHANTS DANS LA DIVISION 3L, LA DIVISION 3N OU LA DIVISION 3O
+## Stocks chevauchants dans la division 3L, la division 3N ou la division 3O
 
 #### PARTIE A
 <table>
-<h4>POISSONS DE FOND</h4>
+<h4>Poissons de fond</h4>
 <tr>
-<th></th>
+<th>Article</th>
 <th>Colonne I</th>
 <th>Colonne II</th>
 </tr>
 <tr>
-<th>Article</th>
 <th>Nom commun</th>
 <th>Nom scientifique</th>
 </tr>
@@ -674,14 +666,13 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 
 #### PARTIE B
 <table>
-<h4>POISSONS AUTRES QUE LES POISSONS DE FOND</h4>
+<h4>Poissons autres que les poissons de fond</h4>
 <tr>
-<th></th>
+<th>Article</th>
 <th>Colonne I</th>
 <th>Colonne II</th>
 </tr>
 <tr>
-<th>Article</th>
 <th>Nom commun</th>
 <th>Nom scientifique</th>
 </tr>
@@ -724,14 +715,13 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 
 #### TABLEAU II
 <table>
-<h4>STOCKS CHEVAUCHANTS DANS LA DIVISION 3M</h4>
+<h4>Stocks chevauchants dans la division 3M</h4>
 <tr>
-<th></th>
+<th>Article</th>
 <th>Colonne I</th>
 <th>Colonne II</th>
 </tr>
 <tr>
-<th>Article</th>
 <th>Nom commun</th>
 <th>Nom scientifique</th>
 </tr>
@@ -744,7 +734,7 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 
 #### TABLEAU III
 <table>
-<h4>ÉTATS</h4>
+<h4>États</h4>
 <tr>
 <th>Article</th>
 <th>État</th>
@@ -757,20 +747,20 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 
 #### TABLEAU IV
 <table>
-<h4>ÉTATS</h4>
+<h4>États</h4>
 <tr>
 <th>Article</th>
 <th>États</th>
 </tr>
 <tr>
-<td>1. et 2.</td>
+<td>1 et 2</td>
 <td>[Abrogés, DORS/95-222, art. 1]</td>
 </tr>
 </table>
 
 #### TABLEAU V
 <table>
-<h4>MESURES DE CONSERVATION ET DE GESTION</h4>
+<h4>Mesures de conservation et de gestion</h4>
 <tr>
 <th>Article</th>
 <th>Mesure</th>
@@ -861,7 +851,7 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 </tr>
 </table>
 
-> DORS/94-362, art. 3; DORS/95-136, art. 2; DORS/95-222, art. 1; DORS/99-313, art. 3; DORS/2014-149, art. 5.
+> DORS/94-362, art. 3; DORS/95-136, art. 2; DORS/95-222, art. 1; DORS/99-313, art. 3; DORS/2014-149, art. 5; DORS/2017-58, art. 49(F).
 
 
 
@@ -1008,10 +998,10 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 
 **42** Le ministre peut autoriser un État assujetti à l’accord à prendre des mesures d’exécution à l’égard d’un bateau de pêche canadien s’il y a des motifs raisonnables de croire que le bateau a enfreint une mesure établie :
 - **a)** soit par l’OPAN pour conserver ou gérer des stocks de poissons chevauchants;
-- **b)** soit par la Commission internationale pour la conservation des thonidés de l’Atlantique pour conserver ou gérer des stocks de poissons grands migrateurs mentionnés au tableau du présent article.
+- **b)** soit par la Commission internationale pour la conservation des thonidés de l’Atlantique pour conserver ou gérer des stocks de poissons grands migrateurs figurant au tableau du présent article.
 #### TABLEAU
 <table>
-<h4>STOCKS DE POISSONS GRANDS MIGRATEURS</h4>
+<h4>Stocks de poissons grands migrateurs</h4>
 <tr>
 <th>Article</th>
 <th>Espèce</th>
@@ -1034,7 +1024,7 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 </tr>
 <tr>
 <td>5</td>
-<td>Thon ventru (*Thunnus obesus*)</td>
+<td>Thon obèse (*Thunnus obesus*)</td>
 </tr>
 <tr>
 <td>6</td>
@@ -1058,7 +1048,7 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 </tr>
 </table>
 
-> DORS/99-313, art. 4.
+> DORS/99-313, art. 4; DORS/2017-58, art. 50(F).
 
 
 
@@ -1112,10 +1102,10 @@ la demande doit être signée par l’affréteur du bateau de pêche qui est con
 - **(1)** Le garde-pêche, agissant dans l’exercice de ses fonctions en application de la Convention de l’OPAN, peut exercer les pouvoirs de contrôle qui lui sont conférés au titre des mesures de l’OPAN dans la zone de réglementation de l’OPAN, à l’égard de tout :
 	- **a)** bateau de pêche étranger partie à cette convention;
 	- **b)** bateau de pêche étranger autorisé à pêcher dans cette zone en vertu d’une entente conforme aux mesures de l’OPAN;
-	- **c)** autre bateau de pêche étranger, à l’exception de celui d’un État visé aux tableaux III ou IV de l’article 21, à la condition qu’il ait l’autorisation du capitaine du bateau.
+	- **c)** autre bateau de pêche étranger, à l’exception de celui d’un État figurant aux tableaux III ou IV de l’article 21, à la condition qu’il ait l’autorisation du capitaine du bateau.
 
 - **(2)** Il peut exercer les mêmes pouvoirs dans les eaux de pêche canadiennes à l’égard de tout bateau de pêche visé aux alinéas (1)a) ou b).
-> DORS/2014-149, art. 8.
+> DORS/2014-149, art. 8; DORS/2017-58, art. 51(F).
 
 
 
