@@ -2628,6 +2628,8 @@ Baleine noire de l’Atlantique Nord (*Eubalaena glacialis*)<br />- <i>Whale, No
 
 Baleine noire du Pacifique Nord (*Eubalaena japonica*)<br />- <i>Whale, North Pacific Right</i>
 
+Béluga (*Delphinapterus leucas*) population de l’estuaire du Saint-Laurent<br />- <i>Whale, Beluga St. Lawrence Estuary population</i>
+
 Blaireau d’Amérique de la sous-espèce *jacksoni* (*Taxidea taxus jacksoni*)<br />- <i>Badger jacksoni subspecies, American</i>
 
 Blaireau d’Amérique de la sous-espèce *jeffersonii* (*Taxidea taxus jeffersonii*)<br />- <i>Badger jeffersonii subspecies, American</i>
@@ -2647,6 +2649,8 @@ Marmotte de l’île Vancouver (*Marmota vancouverensis*)<br />- <i>Marmot, Vanc
 Musaraigne de Bendire (*Sorex bendirii*)<br />- <i>Shrew, Pacific Water</i>
 
 Petite chauve-souris brune (*Myotis lucifugus*)<br />- <i>Myotis, Little Brown</i>
+
+Phoque commun de la sous-espèce des Lacs des Loups Marins (*Phoca vitulina mellonae*)<br />- <i>Seal Lacs des Loups Marins subspecies, Harbour</i>
 
 Pipistrelle de l’Est (*Perimyotis subflavus*)<br />- <i>Bat, Tri-coloured</i>
 
@@ -2769,7 +2773,11 @@ Scinque des Prairies (*Plestiodon septentrionalis*)<br />- <i>Skink, Prairie</i>
 
 Scinque pentaligne (*Plestiodon fasciatus*) population carolinienne<br />- <i>Skink, Five-lined Carolinian population</i>
 
-Tortue luth (*Dermochelys coriacea*)<br />- <i>Sea Turtle, Leatherback</i>
+Tortue caouanne (*Caretta caretta*)<br />- <i>Sea Turtle, Loggerhead</i>
+
+Tortue luth (*Dermochelys coriacea*) population de l’Atlantique<br />- <i>Sea Turtle, Leatherback Atlantic population</i>
+
+Tortue luth (*Dermochelys coriacea*) population du Pacifique<br />- <i>Sea Turtle, Leatherback Pacific population</i>
 
 Tortue mouchetée (*Emydoidea blandingii*) population de la Nouvelle-Écosse<br />- <i>Turtle, Blanding’s Nova Scotia population</i>
 
@@ -2822,13 +2830,13 @@ Lamproie de l’ouest (*Lampetra richardsoni*) population du ruisseau Morrison<b
 
 Méné camus (*Notropis anogenus*)<br />- <i>Shiner, Pugnose</i>
 
+Méné long (*Clinostomus elongatus*)<br />- <i>Dace, Redside</i>
+
 Meunier de Salish (*Catostomus catostomus* ssp.)<br />- <i>Sucker, Salish</i>
 
 Naseux de la Nooksack (*Rhinichthys cataractae* ssp.)<br />- <i>Dace, Nooksack</i>
 
 Naseux moucheté (*Rhinichthys osculus*)<br />- <i>Dace, Speckled</i>
-
-Omble Aurora (*Salvelinus fontinalis timagamiensis*)<br />- <i>Trout, Aurora</i>
 
 Pèlerin (*Cetorhinus maximus*) population du Pacifique<br />- <i>Shark, Basking Pacific population</i>
 
@@ -3162,7 +3170,7 @@ Scoulérie à feuilles marginées (*Scouleria marginata*)<br />- <i>Moss, Margin
 
 ##### Mammifères
 
-Béluga (*Delphinapterus leucas*) population de l’estuaire du Saint-Laurent<br />- <i>Whale, Beluga St. Lawrence Estuary population</i>
+Béluga (*Delphinapterus leucas*) population de la baie Cumberland<br />- <i>Whale, Beluga Cumberland Sound population</i>
 
 Bison des bois (*Bison bison athabascae*)<br />- <i>Bison, Wood</i>
 
@@ -3314,6 +3322,8 @@ Loup tacheté (*Anarhichas minor*)<br />- <i>Wolffish, Spotted</i>
 
 Méné d’argent de l’Ouest (*Hybognathus argyritis*)<br />- <i>Minnow, Western Silvery</i>
 
+Meunier des montagnes (*Catostomus platyrhynchus*) populations de la rivière Milk<br />- <i>Sucker, Mountain Milk River populations</i>
+
 Tête carminée (*Notropis percobromus*)<br />- <i>Shiner, Carmine</i>
 
 Truite fardée versant de l’Ouest (*Oncorhynchus clarkii lewisi*) population de l’Alberta<br />- <i>Trout, Westslope Cutthroat Alberta population</i>
@@ -3326,6 +3336,8 @@ Truite fardée versant de l’Ouest (*Oncorhynchus clarkii lewisi*) population d
 Limace-sauteuse dromadaire (*Hemphillia dromedarius*)<br />- <i>Jumping-slug, Dromedary</i>
 
 Mulette feuille d’érable (*Quadrula quadrula*) population des Grands Lacs – Ouest du Saint-Laurent<br />- <i>Mussel, Mapleleaf Great Lakes – Western St. Lawrence population</i>
+
+Pholade tronquée (*Barnea truncata*)<br />- <i>Atlantic Mud-piddock</i>
 
 
 
@@ -3614,11 +3626,15 @@ Chabot à tête courte (*Cottus confusus*)<br />- <i>Sculpin, Shorthead</i>
 
 Chabot de profondeur (*Myoxocephalus thompsonii*) populations des Grands Lacs - Ouest du Saint-Laurent<br />- <i>Sculpin, Deepwater Great Lakes - Western St. Lawrence populations</i>
 
+Chabot des montagnes Rocheuses (*Cottus sp.*) populations du versant ouest<br />- <i>Sculpin, Rocky Mountain Westslope populations</i>
+
 Chabot du Columbia (*Cottus hubbsi*)<br />- <i>Sculpin, Columbia</i>
 
 Chevalier de rivière (*Moxostoma carinatum*)<br />- <i>Redhorse, River</i>
 
 Crapet sac-à-lait (*Lepomis gulosus*)<br />- <i>Warmouth</i>
+
+Dolly Varden (*Salvelinus malma malma*) populations de l’ouest de l’Arctique<br />- <i>Dolly Varden Western Arctic populations</i>
 
 Esturgeon à museau court (*Acipenser brevirostrum*)<br />- <i>Sturgeon, Shortnose</i>
 
@@ -3637,6 +3653,8 @@ Loup Atlantique (*Anarhichas lupus*)<br />- <i>Wolffish, Atlantic</i>
 Méné à grandes écailles (*Macrhybopsis storeriana*)<br />- <i>Chub, Silver</i>
 
 Méné d’herbe (*Notropis bifrenatus*)<br />- <i>Shiner, Bridle</i>
+
+Meunier des montagnes (*Catostomus platyrhynchus*) populations du Pacifique<br />- <i>Sucker, Mountain Pacific populations</i>
 
 Meunier tacheté (*Minytrema melanops*)<br />- <i>Sucker, Spotted</i>
 
@@ -3794,7 +3812,7 @@ Pseudocyphellie des forêts surannées (*Pseudocyphellaria rainierensis*)<br />-
 Sclérophore givré (*Sclerophora peronella*) population de la Nouvelle-Écosse<br />- <i>Glass-whiskers, Frosted Nova Scotia population</i>
 
 
-> 2002, ch. 29, ann. 1; DORS/2005-14, art. 1 à 53; DORS/2005-224, art. 1 à 32; DORS/2006-60, art. 1 et 2; DORS/2006-189, art. 1 à 22, 23(F) et 24 à 26; DORS/2007-284, DORS/2009-86; DORS/2010-32, 33; DORS/2011-8, 128, 233; DORS/2012-133; DORS/2013-34; DORS/2014-274; DORS/2017-10.
+> 2002, ch. 29, ann. 1; DORS/2005-14, art. 1 à 53; DORS/2005-224, art. 1 à 32; DORS/2006-60, art. 1 et 2; DORS/2006-189, art. 1 à 22, 23(F) et 24 à 26; DORS/2007-284, DORS/2009-86; DORS/2010-32, 33; DORS/2011-8, 128, 233; DORS/2012-133; DORS/2013-34; DORS/2014-274; DORS/2017-10; DORS/2017-59.
 
 
 
