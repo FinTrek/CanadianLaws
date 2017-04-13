@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20815.md)
 
-# Règlement concernant la pêche par les bâtiments de pêche étrangers dans les eaux des pêcheries canadiennes
+# Règlement sur les bâtiments de pêche étrangers
 
 **C.R.C., ch. 815**
 
@@ -10,11 +10,7 @@ Autorités habilitantes :
 ----------
 
 
-
-## Titre abrégé
-
-
-**1** Le présent règlement peut être cité sous le titre : Règlement sur les bâtiments de pêche étrangers.
+**1** [Abrogé, DORS/2017-58, art. 2]
 
 
 
@@ -183,18 +179,18 @@ Autorités habilitantes :
 
 **6** 
 
-- **(1)** Sous réserve des paragraphes (2) et (3), il est interdit d’avoir en sa possession un thon à nageoires jaunes ou un thon ventru qui pèse moins de 3,2 kg.
+- **(1)** Sous réserve des paragraphes (2) et (3), il est interdit d’avoir en sa possession un thon obèse ou un thon à nageoires jaunes qui pèse moins de 3,2 kg.
 
-- **(2)** Le paragraphe (1) ne s’applique pas à une personne qui pêche le thon à nageoires jaunes à partir d’un bâtiment de pêche étranger en vertu d’un permis lorsque :
+- **(2)** Le paragraphe (1) ne s’applique pas à une personne qui pêche le thon obèse à partir d’un bâtiment de pêche étranger en vertu d’un permis lorsque :
+	- **a)** d’une part, le thon obèse pesant moins de 3,2 kg a été pris accidentellement avec d’autres thons obèses plus gros;
+	- **b)** d’autre part, le nombre de thons obèses pesant moins de 3,2 kg qui sont gardés durant l’expédition de pêche ne dépasse pas un contingent égal à 15 pour cent du nombre de thons obèses plus gros gardés durant la même expédition.
+
+- **(3)** Le paragraphe (1) ne s’applique pas à une personne qui pêche le thon à nageoires jaunes à partir d’un bâtiment de pêche étranger en vertu d’un permis lorsque :
 	- **a)** d’une part, le thon à nageoires jaunes pesant moins de 3,2 kg a été pris accidentellement avec d’autres thons à nageoires jaunes plus gros;
-	- **b)** d’autre part, le nombre de thons à nageoires jaunes pesant moins de 3,2 kg qui sont gardés durant l’expédition de pêche ne dépasse pas un contingent égal à 15 pour cent du nombre de thons à nageoires jaunes plus gros pris durant la même expédition.
-
-- **(3)** Le paragraphe (1) ne s’applique pas à une personne qui pêche à partir d’un bâtiment de pêche étranger en vertu d’un permis lorsque :
-	- **a)** d’une part, le thon ventru pesant moins de 3,2 kg a été pris accidentellement avec d’autres thons ventrus plus gros;
-	- **b)** d’autre part, le nombre de thons ventrus pesant moins de 3,2 kg qui sont gardés durant l’expédition de pêche ne dépasse pas un contingent égal à 15 pour cent du nombre de thons ventrus plus gros pris durant la même expédition.
+	- **b)** d’autre part, le nombre de thons à nageoires jaunes pesant moins de 3,2 kg qui sont gardés durant l’expédition de pêche ne dépasse pas un contingent égal à 15 pour cent du nombre de thons à nageoires jaunes plus gros gardés durant la même expédition.
 
 - **(4)** Il est interdit d’avoir en sa possession un thon rouge qui pèse moins de 30 kg.
-> DORS/80-631, art. 1; DORS/87-185, art. 3; DORS/93-62, art. 4; DORS/94-293, art. 3.
+> DORS/80-631, art. 1; DORS/87-185, art. 3; DORS/93-62, art. 4; DORS/94-293, art. 3; DORS/2017-58, art. 3(F).
 
 
 
