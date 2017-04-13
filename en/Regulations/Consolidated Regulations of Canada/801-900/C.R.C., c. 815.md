@@ -1,6 +1,6 @@
 > [Go to French version](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20815.md)
 
-# Regulations Respecting Fishing in Canadian Fisheries Waters by Foreign Fishing Vessels
+# Foreign Vessel Fishing Regulations
 
 **C.R.C., c. 815**
 
@@ -10,11 +10,7 @@ Enabling authorities:
 ----------
 
 
-
-## Short Title
-
-
-**1** These Regulations may be cited as the Foreign Vessel Fishing Regulations.
+**1** [Repealed, SOR/2017-58, s. 2]
 
 
 
@@ -194,7 +190,7 @@ Enabling authorities:
 	- **(b)** the number of yellowfin tuna weighing less than 3.2 kg that are retained during any one fishing trip does not exceed a fishing quota of 15 per cent of the number of larger yellowfin tuna that are retained during that fishing trip.
 
 - **(4)** No person shall be in possession of any bluefin tuna that weighs less than 30 kg.
-> SOR/80-631, s. 1; SOR/87-185, s. 3; SOR/93-62, s. 4; SOR/94-293, s. 3.
+> SOR/80-631, s. 1; SOR/87-185, s. 3; SOR/93-62, s. 4; SOR/94-293, s. 3; SOR/2017-58, s. 3(F).
 
 
 
