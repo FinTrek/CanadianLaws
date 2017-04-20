@@ -3535,7 +3535,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ### Administrations portuaires initiales
 
 
-**1** Administration portuaire du fleuve Fraser
+**1** [DORS/2017-68, art. 1]
 
 
 
@@ -3555,7 +3555,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**6** Administration portuaire du North-Fraser
+**6** [DORS/2017-68, art. 2]
 
 
 
@@ -3599,7 +3599,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**17** Administration portuaire de Vancouver
+**17** [DORS/2017-68, art. 3]
 
 
 
@@ -3618,6 +3618,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **2** Administration portuaire d’Oshawa
 
 
-> 1998, ch. 10, ann.; DORS/2000-125; 2008, ch. 21, art. 59(A) et 60(F); DORS/2013-29.
+
+**3** Administration portuaire de Vancouver Fraser
+
+
+> 1998, ch. 10, ann.; DORS/2000-125; 2008, ch. 21, art. 59(A) et 60(F); DORS/2013-29; DORS/2017-68.
 
 
