@@ -3550,7 +3550,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ### Initial Port Authorities
 
 
-**1** Fraser River Port Authority
+**1** [Repealed, SOR/2017-68, s. 1]
 
 
 
@@ -3570,7 +3570,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**6** North Fraser Port Authority
+**6** [Repealed, SOR/2017-68, s. 2]
 
 
 
@@ -3614,7 +3614,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**17** Vancouver Port Authority
+**17** [Repealed, SOR/2017-68, s. 3]
 
 
 
@@ -3633,6 +3633,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **2** Oshawa Port Authority
 
 
-> 1998, c. 10, Sch.; SOR/2000-125; 2008, c. 21, ss. 59(E), 60(F); SOR/2013-29.
+
+**3** Vancouver Fraser Port Authority
+
+
+> 1998, c. 10, Sch.; SOR/2000-125; 2008, c. 21, ss. 59(E), 60(F); SOR/2013-29; SOR/2017-68.
 
 
