@@ -24,36 +24,36 @@ Enabling authorities:
 
 **2** In these Regulations,
 
-***Agency*** means the Canadian Turkey Marketing Agency; (*Office*)
+***Agency*** means the Canadian Turkey Marketing Agency; (*Office*)
 
-***consumer*** means any person who buys turkey for consumption by him or his household; (*consommateur*)
+***consumer*** means any person who buys turkey for consumption by him or his household; (*consommateur*)
 
-***control period*** means the 12 month period beginning on the first day of May in a year and ending on the thirtieth day of April in the following year; (*période réglementée*)
+***control period*** means the period set out in the heading of the schedule to the [Canadian Turkey Marketing Quota Regulations, 1990](/en/Regulations/Statutory%20Orders%20and%20Regulations/90/231.md); (*période réglementée*)
 
-***dealer*** means any person other than a processor or retailer who buys turkeys for resale; (*négociant*)
+***dealer*** means any person other than a processor or retailer who buys turkeys for resale; (*négociant*)
 
-***hatcheryman*** means any person engaged in the hatching of turkey eggs; (*accouveur*)
+***hatcheryman*** means any person engaged in the hatching of turkey eggs; (*accouveur*)
 
-***inspector*** means an inspector appointed pursuant to section 34 of the Act; (*inspecteur*)
+***inspector*** means an inspector appointed pursuant to section 34 of the Act; (*inspecteur*)
 
-***licence*** means
+***licence*** means
 - **(a)** a document issued by the Agency to a person certifying that he is a licensee, or
-- **(b)** a list issued by the Agency to a person containing his name and the names of other persons and certifying that each person is a licensee; (*permis*)
+- **(b)** a list issued by the Agency to a person containing his name and the names of other persons and certifying that each person is a licensee; (*permis*)
 
-***marketing*** in relation to turkeys, means selling and offering for sale and buying, pricing, assembling, packing, processing, transporting, storing and reselling, whether in whole or in processed form, and includes marketing by or on behalf of a producer; (*commercialisation*)
+***marketing*** in relation to turkeys, means selling and offering for sale and buying, pricing, assembling, packing, processing, transporting, storing and reselling, whether in whole or in processed form, and includes marketing by or on behalf of a producer; (*commercialisation*)
 
-***processing*** means changing the nature, size, quality or condition of turkeys by mechanical means or otherwise and includes killing; (*transformation*)
+***processing*** means changing the nature, size, quality or condition of turkeys by mechanical means or otherwise and includes killing; (*transformation*)
 
-***processor*** means any person engaged in the business of processing turkeys or who packs, markets, grades, offers for sale, sells, stores, or transports the packed, processed or manufactured turkey product; (*transformateur*)
+***processor*** means any person engaged in the business of processing turkeys or who packs, markets, grades, offers for sale, sells, stores, or transports the packed, processed or manufactured turkey product; (*transformateur*)
 
-***producer*** means any person engaged in the production of turkeys in Canada; (*producteur*)
+***producer*** means any person engaged in the production of turkeys in Canada; (*producteur*)
 
-***producer-vendor*** means any person who produces and markets, offers for sale, sells or stores all or any portion of the turkeys produced by him; (*producteur-vendeur*)
+***producer-vendor*** means any person who produces and markets, offers for sale, sells or stores all or any portion of the turkeys produced by him; (*producteur-vendeur*)
 
-***retailer*** means any person who sells or offers for sale turkey directly and exclusively to consumers; (*détaillant*)
+***retailer*** means any person who sells or offers for sale turkey directly and exclusively to consumers; (*détaillant*)
 
-***turkey*** means any turkey, male or female, live or slaughtered, of any size and includes any part of any turkey. (*dindon*)
-> SOR/91-250, s. 1.
+***turkey*** means any turkey, male or female, live or slaughtered, of any size and includes any part of any turkey. (*dindon*)
+> SOR/91-250, s. 1; SOR/2017-70, s. 1.
 
 
 
