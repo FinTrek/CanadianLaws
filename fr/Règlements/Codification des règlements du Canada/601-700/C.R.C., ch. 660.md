@@ -24,36 +24,36 @@ Autorités habilitantes :
 
 **2** Dans le présent règlement,
 
-***accouveur*** désigne une personne qui pratique la technique consistant à provoquer et contrôler l’éclosion des oeufs de dindons; (*hatcheryman*)
+***accouveur*** désigne une personne qui pratique la technique consistant à provoquer et contrôler l’éclosion des oeufs de dindons; (*hatcheryman*)
 
-***commercialisation***, en ce qui concerne les dindons, désigne la vente, la mise en vente, l’achat, la fixation des prix, l’assemblage, l’emballage, la transformation, le transport, l’entreposage et la revente, soit entiers ou transformés, et comprend la commercialisation par un producteur ou pour son compte; (*marketing*)
+***commercialisation***, en ce qui concerne les dindons, désigne la vente, la mise en vente, l’achat, la fixation des prix, l’assemblage, l’emballage, la transformation, le transport, l’entreposage et la revente, soit entiers ou transformés, et comprend la commercialisation par un producteur ou pour son compte; (*marketing*)
 
-***consommateur*** désigne une personne qui achète des dindons pour sa consommation personnelle ou celle de sa maisonnée; (*consumer*)
+***consommateur*** désigne une personne qui achète des dindons pour sa consommation personnelle ou celle de sa maisonnée; (*consumer*)
 
-***détaillant*** désigne une personne qui ne vend, ou ne met en vente, des dindons qu’aux consommateurs, sans intermédiaire; (*retailer*)
+***détaillant*** désigne une personne qui ne vend, ou ne met en vente, des dindons qu’aux consommateurs, sans intermédiaire; (*retailer*)
 
-***dindon*** désigne tout dindon, mâle ou femelle, vivant ou abattu, de n’importe quelle taille, y compris une partie d’un dindon; (*turkey*)
+***dindon*** désigne tout dindon, mâle ou femelle, vivant ou abattu, de n’importe quelle taille, y compris une partie d’un dindon; (*turkey*)
 
-***inspecteur*** désigne un inspecteur nommé en vertu de l’article 34 de la Loi; (*inspector*)
+***inspecteur*** désigne un inspecteur nommé en vertu de l’article 34 de la Loi; (*inspector*)
 
-***négociant*** désigne toute personne, autre qu’un transformateur ou qu’un détaillant, qui achète des dindons en vue de les revendre; (*dealer*)
+***négociant*** désigne toute personne, autre qu’un transformateur ou qu’un détaillant, qui achète des dindons en vue de les revendre; (*dealer*)
 
-***Office*** désigne l’Office canadien de commercialisation des dindons; (*Agency*)
+***Office*** désigne l’Office canadien de commercialisation des dindons; (*Agency*)
 
-***période réglementée*** Période de 12 mois commençant le 1<sup>er</sup> mai d’une année et se terminant le 30 avril de l’année suivante. (*control period*)
+***période réglementée*** Période indiquée dans le titre de l’annexe du [Règlement canadien sur le contingentement de la commercialisation du dindon (1990)](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/90/231.md). (*control period*)
 
-***permis*** désigne
+***permis*** désigne
 - **a)** un document délivré par l’Office certifiant que la personne possédant le document est détenteur d’un permis, ou
-- **b)** une liste délivrée par l’Office à une personne contenant son nom et celui d’autres personnes et certifiant que chaque personne est détenteur d’un permis; (*licence*)
+- **b)** une liste délivrée par l’Office à une personne contenant son nom et celui d’autres personnes et certifiant que chaque personne est détenteur d’un permis; (*licence*)
 
-***producteur*** désigne une personne qui se livre à la production des dindons au Canada; (*producer*)
+***producteur*** désigne une personne qui se livre à la production des dindons au Canada; (*producer*)
 
-***producteur-vendeur*** désigne une personne qui produit et commercialise, met en vente, vend ou entrepose la totalité ou une partie des dindons qu’elle produit; (*producer-vendor*)
+***producteur-vendeur*** désigne une personne qui produit et commercialise, met en vente, vend ou entrepose la totalité ou une partie des dindons qu’elle produit; (*producer-vendor*)
 
-***transformateur*** désigne une personne qui s’adonne à la transformation des dindons ou qui emballe, commercialise, classe, met en vente, vend, entrepose ou transporte des dindons emballés, transformés ou conditionnés; (*processor*)
+***transformateur*** désigne une personne qui s’adonne à la transformation des dindons ou qui emballe, commercialise, classe, met en vente, vend, entrepose ou transporte des dindons emballés, transformés ou conditionnés; (*processor*)
 
-***transformation*** désigne une modification de la nature, de la grosseur, de la qualité ou de l’état des dindons par des moyens mécaniques ou autres, y compris l’abattage. (*processing*)
-> DORS/91-250, art. 1.
+***transformation*** désigne une modification de la nature, de la grosseur, de la qualité ou de l’état des dindons par des moyens mécaniques ou autres, y compris l’abattage. (*processing*)
+> DORS/91-250, art. 1; DORS/2017-70, art. 1.
 
 
 
