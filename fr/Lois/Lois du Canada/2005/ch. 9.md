@@ -2471,6 +2471,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première Nation de Jean Marie River
 - Première nation Kahkewistahaw
 - Kanaka Bar
+- Nation crie Kehewin
 - Première Nation The Key
 - Kingfisher
 - Nation saulteaux Kinistin
@@ -2518,6 +2519,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Muskowekwan
 - Bande Nadleh Whut’en
 - Nak’azdli
+- Première Nation Namgis
 - Première nation Nanoose
 - Première Nation Nazko
 - Bande indienne Neskonlith
@@ -2552,6 +2554,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Gouvernement de la Première Nation des Anishinabes Roseau River
 - Première Nation Saik’uz
 - Premières Nations Sakimay
+- Première Nation de Salt River n<sup>o</sup> 195
 - Première Nation ojibwée de Sandy Bay
 - Saugeen
 - Premières Nations Saulteau
@@ -2591,6 +2594,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Première nation Sumas
 - Sweetgrass
 - Première Nation Taku River Tlingit
+- Nation Taykwa Tagamou
 - Première nation Thunderchild
 - Première Nation Timiskaming
 - T’it’q’et
@@ -2623,6 +2627,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Xaxli’p
 - Première nation Yakweakwioose
 - Bande Yellow Quill
-> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176; DORS/2014-77, 208; DORS/2015-52, 94; DORS/2016-8, 213, 303; DORS/2017-23.
+> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122, 273; DORS/2013-59, 176; DORS/2014-77, 208; DORS/2015-52, 94; DORS/2016-8, 213, 303; DORS/2017-23, 74.
 
 
