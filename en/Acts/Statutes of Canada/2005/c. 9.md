@@ -2474,6 +2474,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Jean Marie River First Nation
 - Kahkewistahaw First Nation
 - Kanaka Bar
+- Kehewin Cree Nation
 - The Key First Nation
 - Kingfisher
 - Kinistin Saulteaux Nation
@@ -2521,6 +2522,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Muskowekwan
 - Nadleh Whut’en Band
 - Nak’azdli
+- Namgis First Nation
 - Nanoose First Nation
 - Nazko First Nation
 - Neskonlith Indian Band
@@ -2555,6 +2557,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Roseau River Anishinabe First Nation Government
 - Saik’uz First Nation
 - Sakimay First Nations
+- Salt River First Nation #195
 - Sandy Bay Ojibway First Nation
 - Saugeen
 - Saulteau First Nations
@@ -2594,6 +2597,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Sumas First Nation
 - Sweetgrass
 - Taku River Tlingit First Nation
+- Taykwa Tagamou Nation
 - Thunderchild First Nation
 - Timiskaming First Nation
 - T’it’q’et
@@ -2626,6 +2630,6 @@ the Commission shall conduct a review of the matter in accordance with the regul
 - Xaxli’p
 - Yakweakwioose First Nation
 - Yellow Quill Band
-> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30, 122, 273; SOR/2013-59, 176; SOR/2014-77, 208; SOR/2015-52, 94; SOR/2016-8, 213, 303; SOR/2017-23.
+> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30, 122, 273; SOR/2013-59, 176; SOR/2014-77, 208; SOR/2015-52, 94; SOR/2016-8, 213, 303; SOR/2017-23, 74.
 
 
