@@ -865,8 +865,8 @@ where
 ## National Safety Marks
 
 
-**3** Any company that intends to apply a national safety mark to a vehicle shall apply to the Minister to obtain an authorization in the form set out in Schedule II.
-> SOR/79-491, s. 1; SOR/82-482, s. 2; SOR/95-147, s. 2.
+**3** For the purposes of subsection 3(2) of the Act, on request from a company, the Minister may authorize, in the form set out in Schedule II, the company to apply the national safety mark.
+> SOR/79-491, s. 1; SOR/82-482, s. 2; SOR/95-147, s. 2; SOR/2017-57, s. 1.
 
 
 
@@ -2844,7 +2844,7 @@ Issued in Ottawa on _________________________, 20_________________________
 
 **101** 
 
-- **(1)** For the purposes of this section, ***control*** has the same meaning as in Technical Standards Document No. 101, Controls, Tell-tales, Indicators and Sources of Illumination (TSD 101).
+- **(1)** For the purposes of this section, control has the same meaning as in Technical Standards Document No. 101, Controls, Tell-tales, Indicators and Sources of Illumination (TSD 101).
 
 #### General
 
@@ -3516,15 +3516,15 @@ or
 
 - **(1)** In this section,
 
-***critical area*** means area C as referred to in section 104 of this Schedule; (*zone critique*)
+***critical area*** means area C as referred to in section 104 of this Schedule; (*zone critique*) 
 
-***defog*** means to remove moisture from the inside surface of the glass; (*désembuer*)
+***defog*** means to remove moisture from the inside surface of the glass; (*désembuer*) 
 
-***defrost*** means to melt frost or ice on the inside or outside surface of the glass; (*dégivrer*)
+***defrost*** means to melt frost or ice on the inside or outside surface of the glass; (*dégivrer*) 
 
-***entire windshield*** means area A as referred to in section 104 of this Schedule; (*pare-brise tout entier*)
+***entire windshield*** means area A as referred to in section 104 of this Schedule; (*pare-brise tout entier*) 
 
-***road load*** means the power output required to move the vehicle at the curb mass plus 180 kg on level, clean, dry, smooth portland cement concrete pavement or other surface with an equivalent coefficient of surface friction at a specified speed through still air at 20°C and a standard barometric pressure of 101.3 kPa, and includes driveline friction, rolling friction and air resistance. (*charge de route*)
+***road load*** means the power output required to move the vehicle at the curb mass plus 180 kg on level, clean, dry, smooth portland cement concrete pavement or other surface with an equivalent coefficient of surface friction at a specified speed through still air at 20°C and a standard barometric pressure of 101.3 kPa, and includes driveline friction, rolling friction and air resistance. (*charge de route*) 
 
 - **(2)** Subject to subsection (2.1), every vehicle shall be equipped with a windshield defrosting and defogging system.
 
@@ -3556,23 +3556,23 @@ or
 
 - **(1)** In this section,
 
-***areas A, B and C*** means the areas referred to in Column I of Tables I, II, III and IV to this section when established as shown in Figures 1 and 2 of SAE Recommended Practice J903a Passenger Car Windshield Wiper Systems, (May 1966), using the angles specified in Columns III to VI of the above Tables; (*zones A, B et C*)
+***areas A, B and C*** means the areas referred to in Column I of Tables I, II, III and IV to this section when established as shown in Figures 1 and 2 of SAE Recommended Practice J903a Passenger Car Windshield Wiper Systems, (May 1966), using the angles specified in Columns III to VI of the above Tables; (*zones A, B et C*) 
 
-***daylight opening*** means the maximum unobstructed opening through the glazing surface as defined in paragraph 2.3.12 of Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*ouverture de jour*)
+***daylight opening*** means the maximum unobstructed opening through the glazing surface as defined in paragraph 2.3.12 of Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*ouverture de jour*) 
 
-***glazing surface reference line*** means the intersection of the glazing surface and a horizontal plane 635 mm above the seating reference point, as shown in Figure 1 of SAE Recommended Practice J903a (May 1966); (*ligne de référence de la surface vitrée*)
+***glazing surface reference line*** means the intersection of the glazing surface and a horizontal plane 635 mm above the seating reference point, as shown in Figure 1 of SAE Recommended Practice J903a (May 1966); (*ligne de référence de la surface vitrée*) 
 
-***overall width*** means the maximum overall body width dimension W116 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*largeur hors tout*)
+***overall width*** means the maximum overall body width dimension W116 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*largeur hors tout*) 
 
-***plan view reference line*** means,
+***plan view reference line*** means, 
 - **(a)** in respect of vehicles with a bench type front seat, a line parallel to the longitudinal centreline of the vehicle and outboard of the centre of the steering wheel by a distance equal to 0.15 times the difference between one-half the shoulder room dimension and the steering wheel centre offset, as shown in Figure 2 of SAE Recommended Practice J903a, (May 1966); and
 - **(b)** in respect of vehicles with individual front seats,
 	- **(i)** a line parallel to the longitudinal centreline of the vehicle which passes through the centre of the driver’s designated seating position, or
 	- **(ii)** a line parallel to the longitudinal centreline of the vehicle located so that the geometric centre of the 95 per cent eye range contour is positioned on the longitudinal centreline of the driver’s designated seating position; (*ligne de référence longitudinale*)
 
-***shoulder room dimension*** means the front shoulder room dimension W3 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*espace d’épaules*)
+***shoulder room dimension*** means the front shoulder room dimension W3 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*espace d’épaules*) 
 
-***95 per cent eye range contour*** means the 95th percentile tangential cut-off specified in SAE Recommended Practice J941a Passenger Car Driver’s Eye Range, (August 1967). (*95 pour cent du contour de portée visuelle*)
+***95 per cent eye range contour*** means the 95th percentile tangential cut-off specified in SAE Recommended Practice J941a Passenger Car Driver’s Eye Range, (August 1967). (*95 pour cent du contour de portée visuelle*) 
 
 - **(2)** For the purposes of this section, the expressions “manikin H-point”, “manikin H-point with seat in rearmost position”, and “H-point” used in an SAE Standard or SAE Recommended Practice mean “seating reference point”.
 
@@ -3893,7 +3893,7 @@ or
 
 - **(6)** Wherever the word “filament” appears in this section, TSD 108 or an SAE standard or recommended practice, it may be read as “arc” if the requirement applies to a lamp in which light is produced by a gaseous discharge tube, or as “light-emitting diode junction” if the requirement applies to a lamp in which light is produced by a light-emitting diode.
 
-- **(7)** For the purposes of this section, the expression ***motor driven cycle*** used in TSD 108 means ***limited-speed motorcycle***.
+- **(7)** For the purposes of this section, the expression motor driven cycle used in TSD 108 means limited-speed motorcycle.
 
 ### Technical Standards Document No. 108
 
@@ -4253,11 +4253,11 @@ or
 
 - **(7)** The following definitions apply for the purposes of TSD 110.
 
-***load rating*** means the maximum load a tire is rated to carry at a given inflation pressure. (*charge nominale*)
+***load rating*** means the maximum load a tire is rated to carry at a given inflation pressure. (*charge nominale*) 
 
-***maximum load rating*** means the load rating at the maximum permissible inflation pressure for that tire. (*limite de charge nominale*)
+***maximum load rating*** means the load rating at the maximum permissible inflation pressure for that tire. (*limite de charge nominale*) 
 
-***rim base*** means that portion of a rim remaining after the removal of all split or continuous rim flanges, side rings, and locking rings that can be detached from the rim. (*base de jante*)
+***rim base*** means that portion of a rim remaining after the removal of all split or continuous rim flanges, side rings, and locking rings that can be detached from the rim. (*base de jante*) 
 
 #### Load Range Identification Symbol
 
@@ -4345,6 +4345,12 @@ or
 	- **(a)** a rearview mirror with not less than 80 cm<sup>2</sup> (12.5 square inches) of reflective surface area; or
 	- **(b)** a convex rearview mirror with not less than 64.5 cm<sup>2</sup> (10 square inches) of reflective surface area and an average radius of curvature that is not less than 510 mm (20 inches) and not greater than 1 800 mm (71.5 inches).
 
+- **(13.1)** As an alternative to the rearview mirrors required by subsection (13), a motorcycle may be equipped with rearview mirrors that conform to paragraph 16 of United Nations Regulation No. 81, Uniform Provisions Concerning the Approval of Rear-view Mirrors of Two-wheeled Power-driven Vehicles with or without Side Car, with Regard to the Installation of Rear-view Mirrors on Handlebars (United Nations Regulation No. 81), as amended by any amendment prior to the 01 series of amendments.
+
+- **(13.2)** Despite paragraph 16.2.1 of United Nations Regulation No. 81, all two-wheeled vehicles with a maximum speed of 50 km/h or less shall be equipped with two rearview mirrors.
+
+- **(13.3)** For the purposes of subsections (13.1) and (13.2), a reference in United Nations Regulation No. 81 to “two-wheeled vehicle” or “three-wheeled vehicle” is to be read as a reference to “motorcycle”, and a reference to “maximum designed speed” is to be read as a reference to “maximum speed”.
+
 #### School Buses
 
 
@@ -4353,7 +4359,7 @@ or
 
 - **(14)** For the purposes of subsections (16) to (25), a driver’s eye position shall be represented by the left and right eye points as defined in SAE Recommended Practice J1050, Describing and Measuring the Driver’s Field of View (August 1994), and shall be at any place within the area defined by a 95th percentile eyellipse in accordance with SAE Recommended Practice J941, Motor Vehicle Drivers’ Eye Locations (June 1997), with the following adaptations:
 	- **(a)** a 50/50 male-to-female ratio must be used for the male/female mix; and
-	- **(b)** ***heel point*** referred to in that Recommended Practice and in other documents referenced in that Recommended Practice means the ***accelerator heel point (AHP)*** as defined in section 3.16.1 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), and the position of the heel point is that determined by the manufacturer.
+	- **(b)** ***heel point*** referred to in that Recommended Practice and in other documents referenced in that Recommended Practice means the accelerator heel point (AHP) as defined in section 3.16.1 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), and the position of the heel point is that determined by the manufacturer.
 	- **(c)** [Repealed, SOR/2008-72, s. 2]
 
 - **(15)** For the purposes of subsections (16) to (25),
@@ -4462,7 +4468,7 @@ where
 NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN SUBSECTION 111(2)
 
 
-> SOR/79-940, s. 7; SOR/80-439, s. 3; SOR/82-918, s. 1; SOR/87-658, s. 2; SOR/88-268, s. 6; SOR/95-147, s. 9; SOR/97-463, s. 2; SOR/2002-55, s. 13; SOR/2002-448, s. 1; SOR/2003-272, s. 14; SOR/2006-94, s. 4(E); SOR/2008-72, s. 2..
+> SOR/79-940, s. 7; SOR/80-439, s. 3; SOR/82-918, s. 1; SOR/87-658, s. 2; SOR/88-268, s. 6; SOR/95-147, s. 9; SOR/97-463, s. 2; SOR/2002-55, s. 13; SOR/2002-448, s. 1; SOR/2003-272, s. 14; SOR/2006-94, s. 4(E); SOR/2008-72, s. 2; SOR/2017-57, s. 2..
 
 
 
@@ -4503,8 +4509,8 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 - **(4)** With the exception of a walk-in van and an emergency vehicle, every passenger car, every three-wheeled vehicle, and every multi-purpose passenger vehicle and truck with a GVWR of 4 536 kg or less shall be equipped with an immobilization system that conforms to
 	- **(a)** one of the following sets of requirements as modified by subsection (22), (23) or (24):
 		- **(i)** the requirements of section 3, subsection 4.3, sections 6 to 10 and subsections 12.1, 12.2 and 12.16 of National Standard of Canada CAN/ULC-S338-98, entitled Automobile Theft Deterrent Equipment and Systems: Electronic Immobilization (May 1998), published by the Underwriters’ Laboratories of Canada,
-		- **(ii)** the general and particular specifications that are set out in Part III of ECE Regulation No. 97, entitled Uniform Provisions Concerning the Approval of Vehicle Alarm Systems (VAS) and of Motor Vehicles with Regard to Their Alarm Systems (AS), in the version in effect on August 8, 2007, or
-		- **(iii)** the general and particular specifications that are set out in Part IV of ECE Regulation No. 116, entitled Uniform Provisions Concerning the Protection of Motor Vehicles Against Unauthorized Use, in the version in effect on February 10, 2009; or
+		- **(ii)** the general and particular specifications that are set out in Part III of United Nations Regulation No. 97, entitled Uniform Provisions Concerning the Approval of Vehicle Alarm Systems (VAS) and of Motor Vehicles with Regard to Their Alarm Systems (AS), in the version in effect on August 8, 2007, or
+		- **(iii)** the general and particular specifications that are set out in Part IV of United Nations Regulation No. 116, entitled Uniform Provisions Concerning the Protection of Motor Vehicles Against Unauthorized Use, in the version in effect on February 10, 2009; or
 	- **(b)** the requirements set out in subsections (8) to (21).
 
 - **(5)** A vehicle equipped with an immobilization system shall be accompanied by the following written information:
@@ -4572,18 +4578,18 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 	- **(b)** a reference to a “manufacturer of the electronic immobilization system” is to be read as a reference to a “manufacturer”; and
 	- **(c)** subsection 8.1 is to be read as follows: “Transponders and remote controls shall be in sealed enclosures that conform to the requirements of Subsections 12.1, General, and 12.2, Normal Operation.”
 
-- **(23)** The requirements set out in Part III of ECE Regulation No. 97 are modified as follows:
+- **(23)** The requirements set out in Part III of United Nations Regulation No. 97 are modified as follows:
 	- **(a)** the aftermarket, type approval and radio transmission requirements do not apply;
 	- **(b)** all references to paragraph 33 do not apply;
 	- **(c)** for the purposes of paragraph 31.7, the word ***rapidly*** means less than 5 minutes and the words ***time consuming*** mean at least 5 minutes; and
 	- **(d)** despite any statement to the contrary in paragraphs 31.10 and 31.11, the immobilization system shall not have any impact on the vehicle’s brake system.
 
-- **(24)** The requirements set out in Part IV of ECE Regulation No. 116 are modified as follows:
+- **(24)** The requirements set out in Part IV of United Nations Regulation No. 116 are modified as follows:
 	- **(a)** the aftermarket, type approval and radio transmission requirements do not apply;
 	- **(b)** for the purposes of paragraph 8.2.7, the word ***rapidly*** means less than 5 minutes and the expression ***time consuming*** means at least 5 minutes;
 	- **(c)** despite any statement to the contrary in paragraphs 8.2.10 and 8.2.11, the immobilization system shall not have any impact on the vehicle’s brake system; and
 	- **(d)** all references to paragraph 8.4 do not apply.
-> SOR/79-940, s. 7; SOR/95-164, s. 6; SOR/97-264, s. 3; SOR/97-421, s. 6; SOR/2005-45, s. 4; SOR/2007-246, s. 3; SOR/2008-104, s. 13; SOR/2009-32, s. 2; SOR/2009-330, s. 3; SOR/2011-69, s. 1; SOR/2014-82, s. 2; SOR/2014-307, s. 4..
+> SOR/79-940, s. 7; SOR/95-164, s. 6; SOR/97-264, s. 3; SOR/97-421, s. 6; SOR/2005-45, s. 4; SOR/2007-246, s. 3; SOR/2008-104, s. 13; SOR/2009-32, s. 2; SOR/2009-330, s. 3; SOR/2011-69, s. 1; SOR/2014-82, s. 2; SOR/2014-307, s. 4; SOR/2017-57, s. 8..
 
 
 
@@ -5063,9 +5069,9 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(4)** The following definitions apply for the purposes of TSD 120.
 
-***load rating*** means the maximum load a tire is rated to carry at a given inflation pressure. (*charge nominale*)
+***load rating*** means the maximum load a tire is rated to carry at a given inflation pressure. (*charge nominale*) 
 
-***maximum load rating*** means the load rating at the maximum permissible inflation pressure for that tire. (*limite de charge nominale*)
+***maximum load rating*** means the load rating at the maximum permissible inflation pressure for that tire. (*limite de charge nominale*) 
 
 #### Load Range Identification Symbol
 
@@ -5089,7 +5095,7 @@ All spaces provided for in the vehicle identification number must be occupied by
 	- **(b)** a truck, bus or trailer that is equipped with an axle that has a gross axle weight rating of 13 154 kg or more;
 	- **(c)** a truck or bus that has a speed attainable in 3.2 km (2 miles) of not more than 53.1 km/h;
 	- **(d)** a truck that has a speed attainable in 3.2 km (2 miles) of not more than 72.3 km/h, an unloaded vehicle mass of not less than 95% of its GVWR, and no capacity to carry occupants other than the driver and the operating crew;
-	- **(e)** a trailer that has a GVWR of more than 54 432 kg and whose body conforms to that described in the definition ***heavy hauler trailer*** in subsection 2(1) of these Regulations;
+	- **(e)** a trailer that has a GVWR of more than 54 432 kg and whose body conforms to that described in the definition heavy hauler trailer in subsection 2(1) of these Regulations;
 	- **(f)** a trailer that has an unloaded vehicle mass of not less than 95% of its GVWR; and
 	- **(g)** a load divider dolly.
 
@@ -5116,7 +5122,7 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(1)** Every motorcycle shall conform to
 	- **(a)** the requirements of Technical Standards Document No. 122, Motorcycle Brake Systems (TSD 122), as amended from time to time; or
-	- **(b)** the requirements set out in paragraphs 5 and 6 and Annex 3 of ECE Regulation No. 78, Revision 1, Uniform Provisions Concerning the Approval of Vehicles of Categories L1, L2, L3, L4 and L5 with Regard to Braking, in the version in effect on June 24, 2008, as amended by any subsequent amendments in the 03 series of amendments (ECE Regulation No. 78).
+	- **(b)** the requirements set out in paragraphs 5 and 6 and Annex 3 of United Nations Regulation No. 78, Revision 1, Uniform Provisions Concerning the Approval of Vehicles of Categories L1, L2, L3, L4 and L5 with Regard to Braking, in the version in effect on June 24, 2008, as amended by any subsequent amendments in the 03 series of amendments (United Nations Regulation No. 78).
 
 - **(2)** If a motorcycle is designed to operate with or without a sidecar, it shall conform to the requirements of subsection (1) in each of those configurations.
 
@@ -5134,37 +5140,37 @@ All spaces provided for in the vehicle identification number must be occupied by
 #### Technical Standards Document No. 122
 
 
-- **(6)** For the purposes of TSD 122, the definitions ***antilock brake system*** or ***ABS***, ***control***, ***split service brake system*** and ***stopping distance*** in subsection 2(1) of these Regulations, and section 5.3 of these Regulations, do not apply.
+- **(6)** For the purposes of TSD 122, the definitions antilock brake system or ABS, control, split service brake system and stopping distance in subsection 2(1) of these Regulations, and section 5.3 of these Regulations, do not apply.
 
 - **(7) to (11)** [Repealed, SOR/2015-111, s. 2]
 
-#### ECE Regulation No. 78
+#### United Nations Regulation No. 78
 
 
 - **(12)** For the purposes of this section,
-	- **(a)** a reference to vehicle category “L<sub>1</sub>” in ECE Regulation No. 78 is a reference to a limited-speed motorcycle that is designed to travel on two wheels in contact with the ground and that has a maximum speed of 50 km/h or less;
-	- **(b)** a reference to vehicle category “L<sub>2</sub>” in ECE Regulation No. 78 is a reference to a limited-speed motorcycle that is designed to travel on three wheels in contact with the ground and that has a maximum speed of 50 km/h or less;
-	- **(c)** a reference to vehicle category “L<sub>3</sub>” in ECE Regulation No. 78 is a reference to a motorcycle that is designed to travel on two wheels in contact with the ground, that has a maximum speed of more than 50 km/h and that is not equipped with a sidecar;
-	- **(d)** a reference to vehicle category “L<sub>4</sub>” in ECE Regulation No. 78 is a reference to a motorcycle that is designed to travel on two wheels in contact with the ground and that is equipped with a sidecar, and to a motorcycle that is designed to travel on three wheels in contact with the ground that are asymmetrically arranged in relation to the longitudinal median plane; and
-	- **(e)** a reference to vehicle category “L<sub>5</sub>” in ECE Regulation No. 78 is a reference to a motorcycle that has a maximum speed of more than 50 km/h and that is designed to travel on three wheels in contact with the ground that are symmetrically arranged in relation to the longitudinal median plane.
+	- **(a)** a reference to vehicle category “L<sub>1</sub>” in United Nations Regulation No. 78 is a reference to a limited-speed motorcycle that is designed to travel on two wheels in contact with the ground and that has a maximum speed of 50 km/h or less;
+	- **(b)** a reference to vehicle category “L<sub>2</sub>” in United Nations Regulation No. 78 is a reference to a limited-speed motorcycle that is designed to travel on three wheels in contact with the ground and that has a maximum speed of 50 km/h or less;
+	- **(c)** a reference to vehicle category “L<sub>3</sub>” in United Nations Regulation No. 78 is a reference to a motorcycle that is designed to travel on two wheels in contact with the ground, that has a maximum speed of more than 50 km/h and that is not equipped with a sidecar;
+	- **(d)** a reference to vehicle category “L<sub>4</sub>” in United Nations Regulation No. 78 is a reference to a motorcycle that is designed to travel on two wheels in contact with the ground and that is equipped with a sidecar, and to a motorcycle that is designed to travel on three wheels in contact with the ground that are asymmetrically arranged in relation to the longitudinal median plane; and
+	- **(e)** a reference to vehicle category “L<sub>5</sub>” in United Nations Regulation No. 78 is a reference to a motorcycle that has a maximum speed of more than 50 km/h and that is designed to travel on three wheels in contact with the ground that are symmetrically arranged in relation to the longitudinal median plane.
 
-- **(13)** For the purposes of this section and despite the definition ***three-wheeled vehicle*** in subsection 2(1) of these Regulations, the term ***three-wheeled vehicle*** used in ECE Regulation No. 78 means a motorcycle that is designed to travel on two wheels in contact with the ground and that is equipped with a sidecar, and a motorcycle that is designed to travel on three wheels in contact with the ground.
+- **(13)** For the purposes of this section and despite the definition three-wheeled vehicle in subsection 2(1) of these Regulations, the term ***three-wheeled vehicle*** used in United Nations Regulation No. 78 means a motorcycle that is designed to travel on two wheels in contact with the ground and that is equipped with a sidecar, and a motorcycle that is designed to travel on three wheels in contact with the ground.
 
-- **(14)** For the purposes of paragraph 1.1.3 of Annex 3 of ECE Regulation No. 78, the peak braking coefficient shall be measured in accordance with paragraph 1.1.3(a) of that Regulation.
+- **(14)** For the purposes of paragraph 1.1.3 of Annex 3 of United Nations Regulation No. 78, the peak braking coefficient shall be measured in accordance with paragraph 1.1.3(a) of that Regulation.
 
-- **(15)** For the purposes of paragraph 2.4 of Annex 3 of ECE Regulation No. 78, the brake temperature shall be measured in accordance with paragraph 2.4(b) of that Regulation.
+- **(15)** For the purposes of paragraph 2.4 of Annex 3 of United Nations Regulation No. 78, the brake temperature shall be measured in accordance with paragraph 2.4(b) of that Regulation.
 
-- **(16)** Despite the second sentence of paragraph 5.1.6 of ECE Regulation No. 78, sidecar wheels are never required to be equipped with a brake.
+- **(16)** Despite the second sentence of paragraph 5.1.6 of United Nations Regulation No. 78, sidecar wheels are never required to be equipped with a brake.
 
-- **(17)** A reference to a warning lamp in paragraph 5.1.12 of ECE Regulation No. 78 shall be read as a reference to the tell-tale for a brake system malfunction set out in the table to section 101 of this Schedule.
+- **(17)** A reference to a warning lamp in paragraph 5.1.12 of United Nations Regulation No. 78 shall be read as a reference to the tell-tale for a brake system malfunction set out in the table to section 101 of this Schedule.
 
-- **(18)** A reference to a warning lamp in paragraph 5.1.13 of ECE Regulation No. 78 shall be read as a reference to the tell-tale for an antilock brake system malfunction set out in the table to section 101 of this Schedule.
+- **(18)** A reference to a warning lamp in paragraph 5.1.13 of United Nations Regulation No. 78 shall be read as a reference to the tell-tale for an antilock brake system malfunction set out in the table to section 101 of this Schedule.
 
 #### Transitional Provision
 
 
 - **(19)** Despite subsections (1) to (18), a motorcycle may, until September 1, 2016, conform to the requirements of this section as it read immediately before the day on which this subsection comes into force.
-> SOR/81-88, s. 3; SOR/88-268, s. 9; SOR/98-524, s. 4(F); SOR/2001-255, s. 1; SOR/2003-272, s. 18; SOR/2005-42, ss. 3, 4; SOR/2009-330, s. 4; SOR/2011-263, s. 3; SOR/2014-82, s. 4; SOR/2015-24, s. 5; SOR/2015-111, s. 2..
+> SOR/81-88, s. 3; SOR/88-268, s. 9; SOR/98-524, s. 4(F); SOR/2001-255, s. 1; SOR/2003-272, s. 18; SOR/2005-42, ss. 3, 4; SOR/2009-330, s. 4; SOR/2011-263, s. 3; SOR/2014-82, s. 4; SOR/2015-24, s. 5; SOR/2015-111, s. 2; SOR/2017-57, s. 8..
 
 
 
@@ -5173,46 +5179,63 @@ All spaces provided for in the vehicle identification number must be occupied by
 > [SOR/93-31, s. 4; SOR/2007-180, s. 9; SOR/2011-238, s. 3]
 
 
+
+#### General
+
 **123** 
 
 - **(1)** Every motorcycle, except those designed and sold exclusively for use by law enforcement agencies, shall conform to the requirements of Technical Standards Document No. 123, Motorcycle Controls and Displays (TSD 123), as amended from time to time.
 
-- **(2)** Every motorcycle shall be equipped with the following controls:
-	- **(a)** a horn;
-	- **(b)** a fuel tank shutoff valve;
-	- **(c)** a twist-grip throttle;
-	- **(d)** a front wheel brake;
-	- **(e)** a rear wheel brake; and
-	- **(f)** an ignition switch.
+- **(2)** Instead of conforming to subsection (1), motorcycles, except those designed and sold exclusively for use by law enforcement agencies, may conform to the requirements of paragraph 5 of United Nations Regulation No. 60, Uniform Provisions Concerning the Approval of Two-Wheeled Motor Cycles and Mopeds with Regard to Driver-Operated Controls Including the Identification of Controls, Tell-Tales and Indicators (United Nations Regulation No. 60), as amended by any amendment prior to the 01 series of amendments.
 
-- **(3)** The ignition switch is optional in the case of a limited-speed motorcycle.
+- **(3)** Every motorcycle shall be equipped with a horn.
 
-- **(4)** Item 12 of Table 3 to TSD 123 applies to manual fuel tank shutoff valves only.
+- **(4)** The symbols and abbreviations used to identify the controls and displays of a motorcycle shall be provided in the English and French versions of the owner’s manual, accompanied by a full explanation.
 
-- **(5)** Any control or display that is not listed in Table 3 to TSD 123 and for which no other identification requirements are specified in these Regulations shall, if identified, be identified by the corresponding symbol set out in International Standard ISO 6727, Road vehicles — Motorcycles — Symbols for controls, indicators and telltales, as amended from time to time.
+- **(5)** In the case of analogue speedometer displays, the kilometre-per-hour scale shall increase in a clockwise direction. Major graduations and numerals shall appear at 10 or 20 km/h intervals and minor graduations at 5 or 10 km/h intervals.
 
-- **(6)** Any control or display for which a symbol is not specified in Table 3 to TSD 123 or in International Standard ISO 6727, Road vehicles — Motorcycles — Symbols for controls, indicators and telltales, as amended from time to time, may be identified by a symbol designed by the manufacturer in compliance with the principles specified in that Standard.
+- **(6)** An odometer or trip odometer installed on a motorcycle adjacent to the speedometer shall display distances in the same unit of measure as that of the predominant speedometer scale. If the odometer or trip odometer is not adjacent to the speedometer or switches between kilometres and miles independently of the speedometer, the odometer or trip odometer shall display distances in kilometres or miles and shall identify the unit of measure used.
 
-- **(7)** Wherever the term “motorcycle” is used in International Standard ISO 6727, Road vehicles — Motorcycles — Symbols for controls, indicators and telltales, as amended from time to time, it shall have the same meaning as “motorcycle” in subsection 2(1) of these Regulations.
+- **(7)** A turn signal lamp display fitted on a motorcycle shall be green or yellow.
 
-- **(8)** The words and abbreviations that must be displayed under this section shall be displayed in both official languages. However, if there is insufficient space to display the words or abbreviations identifying the ignition, tachometer or fuel tank shutoff valve in both official languages in a readily visible manner, they may be displayed in one official language only.
+- **(8)** For the purposes of subsections (10), (11), (16) and (17), wherever the term “motorcycle” is used in International Standard ISO 6727, Road vehicles — Motorcycles — Symbols for controls, indicators and tell-tales (ISO 6727), as amended from time to time, it has the same meaning as motorcycle in subsection 2(1) of these Regulations.
 
-- **(9)** The symbols and abbreviations used to identify the controls and displays of a motorcycle shall be provided in writing in the English and French versions of the owner’s manual, accompanied by a full explanation.
+#### TSD 123
 
-- **(10)** Despite the requirements of item 8 of Table 3 to TSD 123, a speedometer fitted on a motorcycle shall be calibrated in kilometres per hour or in kilometres per hour and miles per hour. Digital speedometers that switch between kilometres per hour and miles per hour are permitted if the unit of measure is identified.
 
-- **(11)** In the case of analogue speedometer displays, the kilometre-per-hour scale on the speedometer shall increase in a clockwise direction. Major graduations and numerals shall appear at 10- or 20-kilometre-per-hour intervals and minor graduations at 5- or 10-kilometre-per-hour intervals.
+- **(9)** Item 12 of Table 3 to TSD 123 applies to manual fuel tank shutoff valves only.
 
-- **(12)** An odometer or trip odometer installed on a motorcycle adjacent to the speedometer shall display distances in the same unit of measure as that of the predominant speedometer scale. If the odometer or trip odometer is not adjacent to the speedometer or switches between kilometres and miles independently of the speedometer, the odometer or trip odometer shall display distances in kilometres or miles and shall identify the unit of measure used.
+- **(10)** Any control or display that is not listed in Table 3 to TSD 123 and for which no other identification requirements are specified in these Regulations shall, if identified, be identified by the corresponding symbol set out in ISO 6727.
 
-- **(13)** S5.2.4 of TSD 123 does not apply to motor tricycles.
+- **(11)** Any control or display for which a symbol is not specified in Table 3 to TSD 123 or in ISO 6727 may be identified by a symbol designed by the manufacturer in compliance with the principles specified in ISO 6727.
 
-- **(14)** Despite S5.2.5 of TSD 123, it is not necessary for a footrest for a passenger on a motorcycle to fold rearward and upward when not in use.
+- **(12)** Despite the requirements of item 8 of Table 3 to TSD 123, a speedometer fitted on a motorcycle shall be calibrated in kilometres per hour or in kilometres per hour and miles per hour. Digital speedometers that switch between kilometres per hour and miles per hour are permitted if the unit of measure is identified.
 
-- **(15)** A turn signal lamp display fitted on a motorcycle shall be green or yellow.
+- **(13)** Despite S5.2.3(c) of TSD 123, the words and abbreviations that are required to be displayed under this section shall be displayed in both official languages. However, if there is insufficient space to display the words or abbreviations identifying the ignition, tachometer or fuel tank shutoff valve in both official languages in a readily visible manner, they may be displayed in one official language only.
 
-- **(16)** [Repealed, SOR/2014-307, s. 9]
-> SOR/79-306, s. 5; SOR/79-940, s. 7; SOR/82-656, s. 3; SOR/88-268, s. 10; SOR/93-31, s. 5; SOR/94-374, s. 5(F); SOR/95-536, s. 7; SOR/96-366, s. 8; SOR/97-421, ss. 10, 11(F), 12(F), 22(F); SOR/98-524, s. 4(F); SOR/2003-272, s. 19; SOR/2007-180, s. 10; SOR/2009-318, s. 11; SOR/2011-238, s. 3; SOR/2014-307, s. 9..
+- **(14)** S5.2.4 of TSD 123 does not apply to motor tricycles.
+
+- **(15)** Despite S5.2.5 of TSD 123, it is not necessary for a footrest for a passenger on a motorcycle to fold rearward and upward when not in use.
+
+#### United Nations Regulation No. 60
+
+
+- **(16)** Despite the second paragraph of paragraph 5.1 of United Nations Regulation No. 60, any control, tell-tale or indicator for which a symbol is not identified in Table 1 of United Nations Regulation No. 60 and for which no other identification requirements are specified in these regulations, shall, if identified, be identified by the corresponding symbol set out in ISO 6727.
+
+- **(17)** Despite the second paragraph of paragraph 5.1 of United Nations Regulation No. 60, any control, tell-tale or indicator for which a symbol is not specified in Table 1 of United Nations Regulation No. 60 or in ISO 6727 may be identified by a symbol designed by the manufacturer in compliance with the principles specified in ISO 6727.
+
+- **(18)** For the purposes of paragraph 5 of United Nations Regulation No. 60, if words or abbreviations are used, they shall be displayed in both official languages. However, if there is insufficient space to display the words or abbreviations identifying the ignition, tachometer or fuel tank shutoff valve in both official languages in a readily visible manner, they may be displayed in one official language only.
+
+- **(19)** In addition to meeting the requirement set out in the column under the heading “Operation” opposite 10 in the column under the heading “No” of Table 1 of United Nations Regulation No. 60, a speedometer fitted on a motorcycle shall be calibrated in kilometres per hour or in kilometres per hour and miles per hour. Digital speedometers that switch between kilometres per hour and miles per hour are permitted if the unit of measure is identified.
+
+- **(20)** Despite the second paragraphs set out in the column under the heading “Location” opposite each of 11 to 13 in the column under the heading “No” of Table 1 of United Nations Regulation No. 60, the controls for the audible warning device, driving beam and passing beam shall only comply with the requirements of the first paragraph of each number.
+
+- **(21)** Despite the third paragraph set out in the column under the heading “Operation” opposite 32 in the column under the heading “No” of Table 1 of United Nations Regulation No. 60, the foot selector manual gear shift control on vehicles with an engine capacity of less than 200 cubic centimetres shall comply with the requirements of the second paragraph of that column.
+
+- **(22)** For the purposes of subsections (16) to (21):
+	- **(a)** references to “audible warning device”, “driving-beam” and “passing-beam” in the English version of United Nations Regulation No. 60 are to be read as references to “horn”, “upper beam” and “lower beam”, respectively; and
+	- **(b)** references to “*compteur de vitesse*” in the French version of United Nations Regulation No. 60 are to be read as references to “*indicateur de vitesse*”.
+> SOR/79-306, s. 5; SOR/79-940, s. 7; SOR/82-656, s. 3; SOR/88-268, s. 10; SOR/93-31, s. 5; SOR/94-374, s. 5(F); SOR/95-536, s. 7; SOR/96-366, s. 8; SOR/97-421, ss. 10, 11(F), 12(F), 22(F); SOR/98-524, s. 4(F); SOR/2003-272, s. 19; SOR/2007-180, s. 10; SOR/2009-318, s. 11; SOR/2011-238, s. 3; SOR/2014-307, s. 9; SOR/2017-57, s. 3..
 
 
 
@@ -5235,8 +5258,13 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(1)** Every passenger car, multi-purpose passenger vehicle, truck and bus with a GVWR of 4 536 kg or less shall conform to the requirements of Technical Standards Document No. 126, Electronic Stability Control Systems (TSD 126), as amended from time to time.
 
-- **(2)** [Repealed, SOR/2014-307, s. 11]
-> SOR/2013-55, s. 1; SOR/2014-307, s. 11..
+- **(2)** Instead of conforming to the requirements of subsection (1), every passenger car, multi-purpose passenger vehicle, truck and bus with a GVWR of 4 536 kg or less, may comply with the requirements set out in Annex 9 of United Nations Regulation No. 13H, Uniform provisions concerning the approval of passenger cars with regard to braking, as amended by any amendment prior to the 01 series of amendments, with the following adaptations:
+	- **(a)** paragraph 3.3.1 of that Annex is to be read as allowing the lateral displacement to only be calculated using the double integration formula;
+	- **(b)** paragraph 3.5.1.1 of that Annex is to be read as requiring that the additional gear reduction be of at least 2.0;
+	- **(c)** paragraph 4.1.1 of that Annex is to be read as requiring the ambient temperature to be between 7°C and 40°C;
+	- **(d)** paragraph 4.2.2.2 of that Annex does not apply; and
+	- **(e)** the tires referred to in paragraph 4.3.3 of that Annex shall be the tires installed on the vehicle before it is sold to the first retail purchaser.
+> SOR/2013-55, s. 1; SOR/2014-307, s. 11; SOR/2017-57, s. 4..
 
 
 
@@ -5296,9 +5324,9 @@ All spaces provided for in the vehicle identification number must be occupied by
 - **(b)** with the pivot point to top-of-head dimension at each adjustment allowed for the measuring device by the interior dimension of the vehicle, by determining all contact points above the lower windshield glass line and forward of the seating reference point, and
 - **(c)** beginning with the head form of the measuring device at each contact point referred to in paragraph (b) and with the measuring device in a vertical position if no contact point exists for a particular adjusted length, by pivoting the measuring device forward and downward through all arcs in vertical planes to 90° each side of the longitudinal plane through the seating reference point until the head form contacts an interior surface or until it is tangent to a horizontal plane 25 mm (1 inch) above the seating reference point, whichever occurs first; (*zone d’impact de la tête*)
 
-***interior compartment door*** means any door in the interior of a vehicle installed by the manufacturer as a cover for storage space normally used for personal effects; (*porte de compartiment intérieur*)
+***interior compartment door*** means any door in the interior of a vehicle installed by the manufacturer as a cover for storage space normally used for personal effects; (*porte de compartiment intérieur*) 
 
-***measuring device*** means a device having a spherical head form with a diameter of 165 mm (6.5 inches) attached to a pivot, with the distance between the pivot point and the top of the head form being adjustable at any point between 740 mm (29 inches) and 840 mm (33 inches); (*appareil de mesure*)
+***measuring device*** means a device having a spherical head form with a diameter of 165 mm (6.5 inches) attached to a pivot, with the distance between the pivot point and the top of the head form being adjustable at any point between 740 mm (29 inches) and 840 mm (33 inches); (*appareil de mesure*) 
 
 ***pelvic impact area*** means that area of the door or body side panel adjacent to any outboard designated seating position that is bounded by: 
 - **(a)** horizontal planes 180 mm (seven inches) above and 100 mm (four inches) below the seating reference point, and
@@ -5401,7 +5429,7 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(1)** Every passenger car and three-wheeled vehicle, and every truck, bus and multi-purpose passenger vehicle — other than a walk-in van — with a GVWR of 4 536 kg or less and an unloaded vehicle mass of 2 495 kg or less, shall conform to the requirements of Technical Standards Document No. 204, Steering Control Rearward Displacement (TSD 204), as amended from time to time.
 
-- **(2)** For the purposes of this section, the words ***passenger car*** used in TSD 204 mean ***passenger car and three-wheeled vehicle***.
+- **(2)** For the purposes of this section, the words passenger car used in TSD 204 mean passenger car and three-wheeled vehicle.
 
 - **(3)** Subsection (1) does not apply to a vehicle that conforms to the requirements of S5 and S14 of Technical Standards Document No. 208, Occupant Crash Protection (TSD 208), as amended from time to time.
 
@@ -5415,9 +5443,9 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 **205** 
 
-- **(1)** For the purposes of this section, ***bus***, ***motorhome***, ***multi-purpose passenger vehicle***, ***passenger car***, ***readily removable windows***, ***trailer***, and ***truck*** in the ANSI Z26 Safety Standard — 1996 shall have the same meaning as in subsection 2(1) of these Regulations.
+- **(1)** For the purposes of this section, bus, motorhome, multi-purpose passenger vehicle, passenger car, readily removable windows, trailer, and truck in the ANSI Z26 Safety Standard — 1996 shall have the same meaning as in subsection 2(1) of these Regulations.
 
-- **(2)** For the purposes of this section, the definition ***motor vehicle*** in the ANSI Z26 Safety Standard — 1996 does not apply.
+- **(2)** For the purposes of this section, the definition motor vehicle in the ANSI Z26 Safety Standard — 1996 does not apply.
 
 - **(3)** Subject to subsections (4) to (13), each piece of glazing material for use in a vehicle, except a trailer other than a bus trailer, shall meet the requirements of the ANSI Z26 Safety Standard — 1996.
 
@@ -5447,7 +5475,7 @@ All spaces provided for in the vehicle identification number must be occupied by
 - **(13)** Each piece of glazing material installed in a vehicle shall be legibly and permanently marked with
 	- **(a)** the appropriate marking required by section 7 of the ANSI Z26 Safety Standard — 1996; and
 	- **(b)** an approved code mark, assigned by the Minister to the glazing material manufacturer, in letters and numbers not less than 1.8 mm in height.
-> SOR/82-656, s. 4; SOR/84-336, s. 1; SOR/86-161, s. 2; SOR/88-268, s. 11; SOR/93-5, s. 3(F); SOR/94-670, s. 2(F); SOR/94-717, s. 2; SOR/2002-55, s. 16; SOR/2002-187, s. 2; SOR/2003-272, s. 22; SOR/2004-250, s. 4; SOR/2006-94, s. 4(E)..
+> SOR/82-656, s. 4; SOR/84-336, s. 1; SOR/86-161, s. 2; SOR/88-268, s. 11; SOR/93-5, s. 3(F); SOR/94-670, s. 2(F); SOR/94-717, s. 2; SOR/2002-55, s. 16; SOR/2002-187, s. 2; SOR/2003-272, s. 22; SOR/2004-250, s. 4; SOR/2006-94, s. 4(E); SOR/2017-57, s. 5(F)..
 
 
 
@@ -5458,12 +5486,12 @@ All spaces provided for in the vehicle identification number must be occupied by
 
 - **(1)** Every bus with a GVWR of 4 536 kg or less, enclosed motorcycle, multi-purpose passenger vehicle, three-wheeled vehicle, passenger car and truck that is equipped with side doors or back doors shall be so equipped in accordance with either
 	- **(a)** the requirements of Technical Standards Document No. 206, Door Locks and Door Retention Components (TSD 206), as amended from time to time; or
-	- **(b)** the general requirements, performance requirements and test procedures set out in ECE Regulation No. 11, entitled Uniform Provisions Concerning the Approval of Vehicles with regard to Door Latches and Door Retention Components, in the version dated June 11, 2007, as amended from time to time after that date by any amendment in the 03 series of amendments.
+	- **(b)** the general requirements, performance requirements and test procedures set out in United Nations Regulation No. 11, Uniform Provisions Concerning the Approval of Vehicles with regard to Door Latches and Door Retention Components (United Nations Regulation No. 11), as amended from time to time by any amendment in the 03 or 04 series of amendments.
 
-- **(2)** For the purposes of paragraph 6.3.2 of ECE Regulation No. 11, the locking device shall be the device referred to in paragraph 6.3.2.1(a) or (b) of that Regulation.
+- **(2)** For the purposes of paragraph 6.3.2 of United Nations Regulation No. 11, the locking device shall be the device referred to in paragraph 6.3.2.1(a) or (b) of that Regulation.
 
 - **(3)** [Repealed, SOR/2014-307, s. 16]
-> SOR/97-14, s. 2; SOR/2001-116, s. 3; SOR/2002-55, s. 21; SOR/2003-272, s. 23; SOR/2005-42, ss. 7, 8; SOR/2006-94, s. 4(E); SOR/2008-73, s. 3; SOR/2009-34, s. 1; SOR/2013-220, s. 2; SOR/2014-307, s. 16..
+> SOR/97-14, s. 2; SOR/2001-116, s. 3; SOR/2002-55, s. 21; SOR/2003-272, s. 23; SOR/2005-42, ss. 7, 8; SOR/2006-94, s. 4(E); SOR/2008-73, s. 3; SOR/2009-34, s. 1; SOR/2013-220, s. 2; SOR/2014-307, s. 16; SOR/2017-57, ss. 6, 8..
 
 
 
@@ -5610,8 +5638,8 @@ All spaces provided for in the vehicle identification number must be occupied by
 - **(13)** Every passenger car, multi-purpose passenger vehicle, truck, bus and three-wheeled vehicle, and their owner’s manuals, shall conform to the requirements of Technical Standards Document No. 208, Occupant Crash Protection (TSD 208), as amended from time to time.
 
 - **(14)** For the purposes of this section,
-	- **(a)** the words ***passenger car*** used in TSD 208 mean ***passenger car and three-wheeled vehicle***; and
-	- **(b)** the word ***dummy*** used in the English version of TSD 208 means ***anthropomorphic test device***.
+	- **(a)** the words passenger car used in TSD 208 mean passenger car and three-wheeled vehicle; and
+	- **(b)** the word dummy used in the English version of TSD 208 means anthropomorphic test device.
 
 - **(15)** Despite subsection (13), every vehicle with a front outboard designated seating position that is designed for a disabled person may, instead of conforming to the requirements of S5, S7.1, S7.2, S7.4 and S14 to S27 of TSD 208, display the following statement on one or more labels, permanently affixed in view of the occupants of the front designated seating positions, in letters of not less than six points in height: “The [here refer to the outboard designated seating position in the front row of designated seating positions that does not conform to the requirements set out in CMVSS 208] does not conform to all of the requirements set out in CMVSS 208. / *La [insérer ici la place assise désignée extérieure de la première rangée de places assises designées qui n’est pas conforme aux exigences prévues par la NSVAC 208] n’est pas conforme à toutes les exigences prévues par la NSVAC 208*.”
 
@@ -6424,9 +6452,9 @@ Note: Drawing not to scale
 
 - **(1)** The following definitions apply in this section.
 
-***Test Method 213.4*** means Test Method 213.4 — Built-in Restraint Systems and Built-in Booster Seats (November 2012). (*Méthode d’essai 213.4*)
+***Test Method 213.4*** means Test Method 213.4 — Built-in Restraint Systems and Built-in Booster Seats (November 2012). (*Méthode d’essai 213.4*) 
 
-***TSD 209*** means Technical Standards Document No. 209, Seat Belt Assemblies, as amended from time to time. (*DNT 209*)
+***TSD 209*** means Technical Standards Document No. 209, Seat Belt Assemblies, as amended from time to time. (*DNT 209*) 
 
 - **(2)** For the purposes of this section, a reference in TSD 209 to webbing, a belt buckle or a related piece of adjustment hardware that is part of a Type 1 seat belt assembly is to be read as a reference to webbing, a belt buckle or a related piece of adjustment hardware that is part of a built-in restraint system.
 
@@ -6574,13 +6602,13 @@ Note: Drawing not to scale
 **215** 
 
 - **(1)** A passenger car shall be equipped with bumpers that conform to either
-	- **(a)** the requirements set out in paragraph 6, and the low-speed-impact test procedure set out in Annex 3 — except for paragraph 4 of that Annex, of ECE Regulation No. 42 — Uniform Provisions Concerning the Approval of Vehicles with Regard to Their Front and Rear Protective Devices (Bumpers, etc.), in the version dated June 12, 2007, as amended after that date by any amendment in the 00 series of amendments; or
+	- **(a)** the requirements set out in paragraph 6, and the low-speed-impact test procedure set out in Annex 3 — except for paragraph 4 of that Annex, of United Nations Regulation No. 42 — Uniform Provisions Concerning the Approval of Vehicles with Regard to Their Front and Rear Protective Devices (Bumpers, etc.), in the version dated June 12, 2007, as amended after that date by any amendment in the 00 series of amendments; or
 	- **(b)** the requirements, conditions and test procedures set out in title 49, part 581, of the Code of Federal Regulations of the United States (revised as of October 1, 2006).
 
 - **(2)** Until August 31, 2009, a passenger car may conform either to the requirements of this section in its current version or as it read before the coming into force of these Regulations.
 
 - **(3)** A passenger car shall conform to the requirements of this section as of September 1, 2009.
-> SOR/79-338, s. 1; SOR/79-940, s. 8; SOR/91-692, s. 5; SOR/94-692, s. 2(F); SOR/97-421, s. 22(F); SOR/2008-199, s. 1..
+> SOR/79-338, s. 1; SOR/79-940, s. 8; SOR/91-692, s. 5; SOR/94-692, s. 2(F); SOR/97-421, s. 22(F); SOR/2008-199, s. 1; SOR/2017-57, s. 8..
 
 
 
@@ -6851,17 +6879,17 @@ whichever is the higher.
 
 - **(1)** The following definitions in this subsection apply in this section.
 
-***body component*** means a part of a bus body, including floor panels, made from a single piece of homogeneous material or from a single piece of composite material such as plywood or plastic. (*élément de carrosserie*)
+***body component*** means a part of a bus body, including floor panels, made from a single piece of homogeneous material or from a single piece of composite material such as plywood or plastic. (*élément de carrosserie*) 
 
-***body panel*** means a body component used on the exterior or interior surface of a bus to enclose the bus occupant space. (*panneau de carrosserie*)
+***body panel*** means a body component used on the exterior or interior surface of a bus to enclose the bus occupant space. (*panneau de carrosserie*) 
 
-***body panel joint*** means the area of contact, attachment or close proximity between the edges of a body panel and another body component. (*joint de panneau de carrosserie*)
+***body panel joint*** means the area of contact, attachment or close proximity between the edges of a body panel and another body component. (*joint de panneau de carrosserie*) 
 
-***bus body*** means the portion of a bus that encloses the bus occupant space, including the floor and the body panel separating the engine compartment from the occupant space, but excluding the bumpers and chassis frame. (*carrosserie d’autobus*)
+***bus body*** means the portion of a bus that encloses the bus occupant space, including the floor and the body panel separating the engine compartment from the occupant space, but excluding the bumpers and chassis frame. (*carrosserie d’autobus*) 
 
-***maintenance access panel*** means a body panel that must be moved or removed to provide access to serviceable components. (*panneau d’accès pour l’entretien*)
+***maintenance access panel*** means a body panel that must be moved or removed to provide access to serviceable components. (*panneau d’accès pour l’entretien*) 
 
-***serviceable component*** means any part of a bus, of either a mechanical or electrical nature, that is explicitly identified in the owner’s manual or factory service manual as requiring routine maintenance actions at intervals of one year or less. Tubing, wires and harnesses are considered to be serviceable components only at their attachments. (*élément nécessitant de l’entretien*)
+***serviceable component*** means any part of a bus, of either a mechanical or electrical nature, that is explicitly identified in the owner’s manual or factory service manual as requiring routine maintenance actions at intervals of one year or less. Tubing, wires and harnesses are considered to be serviceable components only at their attachments. (*élément nécessitant de l’entretien*) 
 
 - **(2)** This section applies in respect of all school bus body panel joints that lie rearward of the vertical transverse plane located 762 mm in front of the forward-most passenger seating reference point, except those that contact or are attached to or in close proximity to
 	- **(a)** components such as rub rails that are entirely outside of body panels;
@@ -6892,7 +6920,7 @@ whichever is the higher.
 
 - **(1)** In this section,
 
-***contactable surface*** means any surface within the head protection zone that is contactable from any direction by a head form test device, except any surface on the front of a seat back or restraining barrier 76 mm (three inches) or more below the top of the seat back or restraining barrier; (*surface de contact*)
+***contactable surface*** means any surface within the head protection zone that is contactable from any direction by a head form test device, except any surface on the front of a seat back or restraining barrier 76 mm (three inches) or more below the top of the seat back or restraining barrier; (*surface de contact*) 
 
 ***head protection zones*** means the spaces in front of each school bus passenger seat that are not occupied by any sidewall, window or door structure and that, in relation to that seat and its seating reference point, are enclosed by the following planes: 
 - **(a)** horizontal planes 300 mm (12 inches) and 1 016 mm (40 inches) above the seating reference point,
@@ -6900,11 +6928,11 @@ whichever is the higher.
 - **(c)** a vertical longitudinal plane 83 mm (3.25 inches) inboard of the outboard edge of the seat, and
 - **(d)** vertical transverse planes through and 760 mm (30 inches) forward of the seating reference point; (*zone de protection de la tête*)
 
-***leg protection zones*** means those parts of a school bus passenger seat back or restraining barrier that are bounded by horizontal planes 300 mm (12 inches) above and 100 mm (four inches) below the seating reference point of the school bus passenger seat immediately behind the seat back or restraining barrier; (*zone de protection des jambes*)
+***leg protection zones*** means those parts of a school bus passenger seat back or restraining barrier that are bounded by horizontal planes 300 mm (12 inches) above and 100 mm (four inches) below the seating reference point of the school bus passenger seat immediately behind the seat back or restraining barrier; (*zone de protection des jambes*) 
 
-***school bus passenger seat*** means a seat in a school bus, other than the driver’s seat or a seat that is installed to accommodate a handicapped or convalescent passenger and is oriented in a direction that is more than 45 degrees to the left or right of the longitudinal centre-line of the vehicle; (*siège pour passager d’autobus scolaire*)
+***school bus passenger seat*** means a seat in a school bus, other than the driver’s seat or a seat that is installed to accommodate a handicapped or convalescent passenger and is oriented in a direction that is more than 45 degrees to the left or right of the longitudinal centre-line of the vehicle; (*siège pour passager d’autobus scolaire*) 
 
-***W*** means the number of seating positions in a bench seat when calculated as the bench width in millimetres (inches) divided by 381 mm (15 inches) with the quotient rounded to the nearest whole number or, if the quotient is equidistant from two whole numbers, to the higher thereof. (*W*)
+***W*** means the number of seating positions in a bench seat when calculated as the bench width in millimetres (inches) divided by 381 mm (15 inches) with the quotient rounded to the nearest whole number or, if the quotient is equidistant from two whole numbers, to the higher thereof. (*W*) 
 
 - **(2)** Every school bus shall, when subjected to Motor Vehicle Safety Test Methods, Section 222, School Bus Passenger Seating and Crash Protection, (December 19, 1983) meet, at all designated seating positions other than the driver’s seat, all the requirements of subsections (6) to (12).
 
@@ -6990,37 +7018,37 @@ shall not exceed 1,000, where “a” is the axial acceleration expressed as a m
 
 - **(1)** The definitions in this subsection apply in this section.
 
-***dangerous goods*** has the same meaning as in section 2 of the Transportation of Dangerous Goods Act, 1992. (*marchandises dangereuses*)
+***dangerous goods*** has the same meaning as in section 2 of the Transportation of Dangerous Goods Act, 1992. (*marchandises dangereuses*) 
 
-***ground clearance*** means the vertical distance from the bottom edge of a horizontal member to the ground. (*garde au sol*)
+***ground clearance*** means the vertical distance from the bottom edge of a horizontal member to the ground. (*garde au sol*) 
 
-***guard width*** means, in respect of a rear impact guard that is installed on a trailer, the maximum horizontal guard dimension that is perpendicular to the longitudinal vertical plane passing through the longitudinal centreline of the trailer. (*largeur du dispositif de protection*)
+***guard width*** means, in respect of a rear impact guard that is installed on a trailer, the maximum horizontal guard dimension that is perpendicular to the longitudinal vertical plane passing through the longitudinal centreline of the trailer. (*largeur du dispositif de protection*) 
 
-***horizontal member*** means the horizontal structural member of a rear impact guard. (*pièce horizontale*)
+***horizontal member*** means the horizontal structural member of a rear impact guard. (*pièce horizontale*) 
 
-***hydraulic guard*** means a rear impact guard designed to use fluid properties to provide a resistance force to deformation. (*dispositif de protection hydraulique*)
+***hydraulic guard*** means a rear impact guard designed to use fluid properties to provide a resistance force to deformation. (*dispositif de protection hydraulique*) 
 
-***low-chassis trailer*** means a trailer that has a chassis that extends behind the rearmost point of the rearmost tires and that has a lower rear surface that meets the configuration requirements of subsections (6) to (8). (*remorque à châssis surbaissé*)
+***low-chassis trailer*** means a trailer that has a chassis that extends behind the rearmost point of the rearmost tires and that has a lower rear surface that meets the configuration requirements of subsections (6) to (8). (*remorque à châssis surbaissé*) 
 
-***outboard*** means, in respect of a trailer, away from the trailer centreline and toward the side extremities of the trailer. (*extérieur*)
+***outboard*** means, in respect of a trailer, away from the trailer centreline and toward the side extremities of the trailer. (*extérieur*) 
 
-***pulpwood trailer*** means a trailer that is designed exclusively to carry harvested logs or pulpwood and that is constructed with a skeletal frame with no means for the attachment of a solid bed, body or container. (*remorque pour bois à pâte*)
+***pulpwood trailer*** means a trailer that is designed exclusively to carry harvested logs or pulpwood and that is constructed with a skeletal frame with no means for the attachment of a solid bed, body or container. (*remorque pour bois à pâte*) 
 
-***rear extremity*** means the rearmost point on a trailer that is above a horizontal plane located above the ground clearance and below a horizontal plane located 1 900 mm above the ground when the trailer is configured as specified in subsection (7) and when the trailer’s cargo doors, tailgate and other permanent structures are positioned as they normally are when the trailer is in motion. However, non-structural protrusions, including but not limited to the following, are excluded from the determination of the rearmost point:
+***rear extremity*** means the rearmost point on a trailer that is above a horizontal plane located above the ground clearance and below a horizontal plane located 1 900 mm above the ground when the trailer is configured as specified in subsection (7) and when the trailer’s cargo doors, tailgate and other permanent structures are positioned as they normally are when the trailer is in motion. However, non-structural protrusions, including but not limited to the following, are excluded from the determination of the rearmost point: 
 - **(a)** tail lamps;
 - **(b)** rubber bumpers;
 - **(c)** hinges and latches; and
 - **(d)** flexible aerodynamic devices that are capable of being folded to within 305 mm from the transverse vertical plane tangent to the rearmost surface of the horizontal member and that, while positioned as they normally are when the trailer is in motion, are located forward of the transverse plane that is tangent to the rear bottom edge of the horizontal member and that intersects a point located 1 210 mm rearward of the rearmost surface of the horizontal member and 1 740 mm above the ground. (*extrémité arrière*)
 
-***rear impact guard*** means a device installed on or near the rear of a trailer so that, when the trailer is struck from the rear, the device limits the distance that the striking vehicle’s front end slides under the rear end of the trailer. (*dispositif de protection arrière*)
+***rear impact guard*** means a device installed on or near the rear of a trailer so that, when the trailer is struck from the rear, the device limits the distance that the striking vehicle’s front end slides under the rear end of the trailer. (*dispositif de protection arrière*) 
 
-***rounded corners*** means the outermost ends of a rear impact guard’s horizontal member that curve upward. (*coins arrondis*)
+***rounded corners*** means the outermost ends of a rear impact guard’s horizontal member that curve upward. (*coins arrondis*) 
 
-***side extremity*** means the outermost point on a trailer’s side that is above a horizontal plane located above the ground clearance, below a horizontal plane located 1 900 mm above the ground, and between a transverse vertical plane tangent to the rear extremity of the trailer and a transverse vertical plane located 305 mm forward of that plane, with non-structural protrusions such as tail lamps, rubber bumpers, hinges and latches excluded from the determination of the outermost point. (*extrémité latérale*)
+***side extremity*** means the outermost point on a trailer’s side that is above a horizontal plane located above the ground clearance, below a horizontal plane located 1 900 mm above the ground, and between a transverse vertical plane tangent to the rear extremity of the trailer and a transverse vertical plane located 305 mm forward of that plane, with non-structural protrusions such as tail lamps, rubber bumpers, hinges and latches excluded from the determination of the outermost point. (*extrémité latérale*) 
 
-***tanker trailer*** means a trailer that is designed exclusively to transport dangerous goods and that meets the rear impact protection requirements of National Standard of Canada CAN/CSA-B620-98, Highway Tanks and Portable Tanks for the Transportation of Dangerous Goods (August 1998), including Appendices A and B, as amended in April 1999, March 2000, July 2000, April 2001, November 2001 and May 2002, published by CSA. (*remorque-citerne*)
+***tanker trailer*** means a trailer that is designed exclusively to transport dangerous goods and that meets the rear impact protection requirements of National Standard of Canada CAN/CSA-B620-98, Highway Tanks and Portable Tanks for the Transportation of Dangerous Goods (August 1998), including Appendices A and B, as amended in April 1999, March 2000, July 2000, April 2001, November 2001 and May 2002, published by CSA. (*remorque-citerne*) 
 
-***wheels back trailer*** means a trailer whose rearmost axle is permanently fixed and located such that the rearmost surface of the rearmost tires of the size recommended by the trailer manufacturer for that axle is not more than 305 mm forward of the transverse vertical plane tangent to the rear extremity of the trailer. (*remorque à roues arrière reculées*)
+***wheels back trailer*** means a trailer whose rearmost axle is permanently fixed and located such that the rearmost surface of the rearmost tires of the size recommended by the trailer manufacturer for that axle is not more than 305 mm forward of the transverse vertical plane tangent to the rear extremity of the trailer. (*remorque à roues arrière reculées*) 
 
 ### Application
 
@@ -7232,17 +7260,15 @@ where
 - **(3)** Subject to subsection (5), a motorcycle that is equipped with a fuel system that uses a fuel with a boiling point of 0°C or higher as a source of energy for its propulsion shall meet the requirements of SAE Recommended Practice J1241, Fuel and Lubricant Tanks for Motorcycles (revised version of November 1999), except that section 1 of that Practice does not apply.
 
 - **(4)** For the purposes of this section,
-	- **(a)** the words “rated fuel capacity” in SAE Recommended Practice J1241 shall have the same meaning as ***vehicle fuel tank capacity*** as defined in subsection 2(1) of these Regulations; and
+	- **(a)** the words rated fuel capacity in SAE Recommended Practice J1241 shall have the same meaning as vehicle fuel tank capacity as defined in subsection 2(1) of these Regulations; and
 	- **(b)** the words “significant effect” in sections 5.2.3 and 5.3.3 of SAE Recommended Practice J1241 shall be read as “any effect resulting in the cracking or leaking of the tank”.
 
-- **(5)** Instead of complying with subsection (3), a motorcycle that is equipped with a fuel system that uses a fuel with a boiling point of 0°C or higher as a source of energy for its propulsion may meet the requirements of the following parts of Chapter 6 of Directive 97/24/EC of the European Parliament and of the Council of June 17, 1997 on certain components and characteristics of two or three-wheel motor vehicles, as amended from time to time,
-	- **(a)** Annex I, except that section 1.0 does not apply; and
-	- **(b)** Appendix 1 to Annex I, except that sections 2.2 and 4 of that Appendix do not apply.
+- **(5)** Instead of complying with subsection (3), a motorcycle that is equipped with a fuel system that uses a fuel with a boiling point of 0°C or higher as a source of energy for its propulsion may meet the requirements of Annex IX of Commission Delegated Regulation (EU) No. 44/2014 of November 21, 2013, supplementing Regulation (EU) No. 168/2013 of the European Parliament and of the Council with regard to the vehicle construction and general requirements for the approval of two- or three-wheeled vehicles and quadricycles, as amended from time to time.
 
-- **(6)** For the purposes of this section, the words “rated capacity” and “nominal capacity” in Annex I and Appendix 1 to Annex I of Chapter 6 of Directive 97/24/EC of the European Parliament and of the Council of June 17, 1997 on certain components and characteristics of two or three-wheel motor vehicles shall have the same meaning as ***vehicle fuel tank capacity*** as defined in subsection 2(1) of these Regulations.
+- **(6)** [Repealed, SOR/2017-57, s. 7]
 
 - **(7)** Motorcycles that are manufactured before September 1, 2004 need not comply with this section.
-> SOR/2003-272, s. 31..
+> SOR/2003-272, s. 31; SOR/2017-57, s. 7..
 
 
 
@@ -7289,7 +7315,7 @@ where
 
 - **(2)** However, vehicles manufactured before September 1, 2010, need not be equipped with an interior trunk release.
 
-- **(3)** This section does not apply to vehicles equipped with a back door. For the purposes of this subsection, ***back door*** has the same meaning as in TSD 401.
+- **(3)** This section does not apply to vehicles equipped with a back door. For the purposes of this subsection, back door has the same meaning as in TSD 401.
 
 - **(4)** [Repealed, SOR/2014-307, s. 29]
 > SOR/2007-180, s. 19; SOR/2008-73, s. 4; SOR/2009-318, s. 14; SOR/2011-238, s. 6; SOR/2014-307, s. 29..
@@ -7534,11 +7560,11 @@ where
 
 - **(1)** The definitions in this subsection apply in this section.
 
-***bulkhead*** means a fixed or removable structure installed across the width of a trailer to restrict the movement of cargo during transport. (*cloison*)
+***bulkhead*** means a fixed or removable structure installed across the width of a trailer to restrict the movement of cargo during transport. (*cloison*) 
 
-***cargo anchoring device*** means a fitting or attachment point on a trailer, other than a bulkhead or rub rail, to which a tie-down assembly is attached. (*dispositif d’ancrage des chargements*)
+***cargo anchoring device*** means a fitting or attachment point on a trailer, other than a bulkhead or rub rail, to which a tie-down assembly is attached. (*dispositif d’ancrage des chargements*) 
 
-***rub rail*** means a protector strip extending horizontally along the sides of a trailer intended to provide protection from scuffing. (*bourrelet de protection*)
+***rub rail*** means a protector strip extending horizontally along the sides of a trailer intended to provide protection from scuffing. (*bourrelet de protection*) 
 
 - **(2)** This section applies to every trailer that is designed to carry cargo, with a GVWR of 10 000 kg or more, a load-carrying mainframe and loading deck and no permanent sides or roof, such as a flatbed trailer, heavy hauler trailer, industrial trailer, lowbed trailer or drop-centre trailer.
 
@@ -7601,13 +7627,13 @@ where
 **3** 
 
 - **(1)** Every motorcycle shall be so constructed that
-	- **(a)** when tested in accordance with Annex 3 of ECE Regulation No. 41, Uniform provisions concerning the approval of motor cycles with regard to noise, in the version in effect on June 25, 2008, as amended by any subsequent amendment in the 03 series of amendments, excluding any requirement in respect of the testing of stationary motorcycles contained in that Annex, the sound level referred to in paragraph 1.5.4 of that Annex does not exceed the limits specified in Annex 6 of that Regulation;
-	- **(b)** when tested in accordance with Annex 3 and Annex 7 of ECE Regulation No. 41, Uniform provisions concerning the approval of motor cycles with regard to noise, in the version in effect on April 13, 2012, as amended by any subsequent amendment in the 04 series of amendments, excluding any requirement in respect of the testing of stationary motorcycles contained in Annex 3, the sound pressure level referred to in paragraph 1.4.6 of Annex 3 does not exceed the limits specified in Annex 6 of that Regulation; or
+	- **(a)** when tested in accordance with Annex 3 of United Nations Regulation No. 41, Uniform provisions concerning the approval of motor cycles with regard to noise, in the version in effect on June 25, 2008, as amended by any subsequent amendment in the 03 series of amendments, excluding any requirement in respect of the testing of stationary motorcycles contained in that Annex, the sound level referred to in paragraph 1.5.4 of that Annex does not exceed the limits specified in Annex 6 of that Regulation;
+	- **(b)** when tested in accordance with Annex 3 and Annex 7 of United Nations Regulation No. 41, Uniform provisions concerning the approval of motor cycles with regard to noise, in the version in effect on April 13, 2012, as amended by any subsequent amendment in the 04 series of amendments, excluding any requirement in respect of the testing of stationary motorcycles contained in Annex 3, the sound pressure level referred to in paragraph 1.4.6 of Annex 3 does not exceed the limits specified in Annex 6 of that Regulation; or
 	- **(c)** when tested in accordance with
 		- **(i)** Appendix I-2 to subparts D and E, part 205, subchapter G, chapter I, title 40 of the United States Code of Federal Regulations, as amended by Vol. 45, No. 252 of the Federal Register of the United States published on December 31, 1980, the reported noise level referred to in section (d)(3) of that Appendix does not exceed 70 dBA, in the case of a motorcycle with an engine displacement not exceeding 50 cm<sup>3</sup> and a maximum attainable speed of 48 km/h on a level paved surface, and
 		- **(ii)** Appendix I-1 to subparts D and E, part 205, subchapter G, chapter I, title 40 of the United States Code of Federal Regulations, as amended by Vol. 45, No. 252 of the Federal Register of the United States published on December 31, 1980, the reported noise level referred to in section (d)(3) of that Appendix in does not exceed 80 dBA, in any other case.
 
-- **(2)** For the purposes of this section, the requirements of the ECE Regulations referred to in paragraphs (1)(a) and (b) respecting the type-approval process do not apply.
+- **(2)** For the purposes of this section, the requirements of the United Nations Regulations referred to in paragraphs (1)(a) and (b) respecting the type-approval process do not apply.
 
 
 **4** Subject to section 5, every multi-purpose passenger vehicle, truck or chassis-cab with a GVWR of more than 4 536 kg shall be constructed so that
@@ -7618,13 +7644,13 @@ where
 **5** 
 
 - **(1)** A vehicle referred to in sections 2 and 4 may be constructed so that
-	- **(a)** when tested in accordance with Annex 3 of ECE Regulation No. 51, Uniform provisions concerning the approval of motor vehicles having at least four wheels with regard to their noise emissions, in the version in effect on March 9, 2011, as amended by any subsequent amendment in the 02 series of amendments, excluding any requirement in respect of the testing of stationary vehicles contained in that Annex, the sound level referred to in paragraph 3.1.3 of that Annex does not exceed the limits specified in paragraph 6 of that Regulation; or
-	- **(b)** when tested in accordance with Annex 3 and Annex 7 of ECE Regulation No. 51, Uniform provisions concerning the approval of motor vehicles having at least four wheels with regard to their sound emissions, in the version in effect on January 20, 2016, as amended by any subsequent amendment in the 03 series of amendments, excluding any requirement in respect of the testing of stationary vehicles contained in Annex 3 the final result L<sub>urban</sub> referred to in paragraph 3.1.3 of Annex 3 does not exceed the limits specified in paragraph 6 of that Regulation.
+	- **(a)** when tested in accordance with Annex 3 of United Nations Regulation No. 51, Uniform provisions concerning the approval of motor vehicles having at least four wheels with regard to their noise emissions, in the version in effect on March 9, 2011, as amended by any subsequent amendment in the 02 series of amendments, excluding any requirement in respect of the testing of stationary vehicles contained in that Annex, the sound level referred to in paragraph 3.1.3 of that Annex does not exceed the limits specified in paragraph 6 of that Regulation; or
+	- **(b)** when tested in accordance with Annex 3 and Annex 7 of United Nations Regulation No. 51, Uniform provisions concerning the approval of motor vehicles having at least four wheels with regard to their sound emissions, in the version in effect on January 20, 2016, as amended by any subsequent amendment in the 03 series of amendments, excluding any requirement in respect of the testing of stationary vehicles contained in Annex 3 the final result L<sub>urban</sub> referred to in paragraph 3.1.3 of Annex 3 does not exceed the limits specified in paragraph 6 of that Regulation.
 
-- **(2)** For the purposes of this section, the requirements of the ECE Regulations referred to in subsection (1) respecting the type-approval process do not apply.
+- **(2)** For the purposes of this section, the requirements of the United Nations Regulations referred to in subsection (1) respecting the type-approval process do not apply.
 
 
-> SOR/97-141, s. 4; SOR/97-421, s. 15; SOR/2002-55, s. 20; SOR/2005-342, s. 6; SOR/2009-318, ss. 15, 16(F), 17, 18; SOR/2016-318, s. 14.
+> SOR/97-141, s. 4; SOR/97-421, s. 15; SOR/2002-55, s. 20; SOR/2005-342, s. 6; SOR/2009-318, ss. 15, 16(F), 17, 18; SOR/2016-318, s. 14; SOR/2017-57, s. 8.
 
 
 
