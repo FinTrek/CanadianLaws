@@ -867,8 +867,8 @@ où :
 ## Marques nationales de sécurité
 
 
-**3** L’entreprise qui prévoit apposer une marque nationale de sécurité sur un véhicule doit soumettre au ministre une demande pour obtenir une autorisation en la forme indiquée à l’annexe II.
-> DORS/79-491, art. 1; DORS/82-482, art. 2; DORS/95-147, art. 2.
+**3** Pour l’application du paragraphe 3(2) de la Loi, le ministre peut, sur demande d’une entreprise, autoriser celle-ci au moyen du formulaire prévu à l’annexe II, à apposer la marque nationale de sécurité.
+> DORS/79-491, art. 1; DORS/82-482, art. 2; DORS/95-147, art. 2; DORS/2017-57, art. 1.
 
 
 
@@ -2846,7 +2846,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 
 **101** 
 
-- **(1)** Pour l’application du présent article, ***commande*** s’entend au sens du Document de normes techniques no 101 — commandes, témoins, indicateurs et sources d’éclairage (DNT 101).
+- **(1)** Pour l’application du présent article, commande s’entend au sens du Document de normes techniques no 101 — commandes, témoins, indicateurs et sources d’éclairage (DNT 101).
 
 #### Disposition générale
 
@@ -3895,9 +3895,9 @@ ou
 		- **(iii)** une norme de la Commission électrotechnique internationale (CEI);
 	- **b)** soit être communiqués par le fabricant du véhicule au ministre, à la demande de celui-ci.
 
-- **(6)** Le terme ***filament*** qui figure dans le présent article, le DNT 108 ou une norme ou pratique recommandée de la SAE vaut mention de ***arc*** lorsque l’exigence s’applique à un feu dans lequel la lumière est produite par un tube à décharge dans un gaz ou de ***jonction de diode électroluminescente*** lorsque l’exigence s’applique à un feu dans lequel la lumière est produite par une diode électroluminescente.
+- **(6)** Le terme ***filament*** qui figure dans le présent article, le DNT 108 ou une norme ou pratique recommandée de la SAE vaut mention de arc lorsque l’exigence s’applique à un feu dans lequel la lumière est produite par un tube à décharge dans un gaz ou de jonction de diode électroluminescente lorsque l’exigence s’applique à un feu dans lequel la lumière est produite par une diode électroluminescente.
 
-- **(7)** Pour l’application du présent article, le terme ***vélomoteur*** utilisé dans le DNT 108 vaut mention de ***motocyclette à vitesse limitée***.
+- **(7)** Pour l’application du présent article, le terme vélomoteur utilisé dans le DNT 108 vaut mention de motocyclette à vitesse limitée.
 
 ### Document de normes techniques n<sup>o</sup> 108
 
@@ -4349,6 +4349,12 @@ ou
 	- **a)** un rétroviseur ayant une surface réfléchissante d’au moins 80 cm<sup>2</sup> (12,5 po<sup>2</sup>);
 	- **b)** un rétroviseur convexe ayant une surface réfléchissante d’au moins 64,5 cm<sup>2</sup> (10 po<sup>2</sup>) et un rayon de courbure moyen d’au moins 510 mm (20 po) et d’au plus 1 800 mm (71,5 po).
 
+- **(13.1)** Les motocyclettes peuvent être munies, à la place des rétroviseurs exigés par le paragraphe (13), de rétroviseurs qui sont conformes au paragraphe 16 du règlement n<sup>o</sup> 81 des Nations Unies intitulé Prescriptions uniformes relatives à l’homologation des rétroviseurs des véhicules à moteur à deux roues, avec ou sans side-car, en ce qui concerne le montage des rétroviseurs sur les guidons (règlement n<sup>o</sup> 81 des Nations Unies), tel qu’il est modifié par tout amendement antérieur à la série 01 d’amendements.
+
+- **(13.2)** Malgré le paragraphe 16.2.1 du règlement n<sup>o</sup> 81 des Nations Unies, tous les véhicules à deux roues dont la vitesse maximale ne dépasse pas 50 km/h doivent être munis de deux rétroviseurs.
+
+- **(13.3)** Pour l’application des paragraphes (13.1) et (13.2), dans le règlement n<sup>o</sup> 81 des Nations Unies, les mentions « véhicules à deux roues » et « véhicules à trois roues » valent mention de « motocyclette » et la mention « vitesse maximale par construction » vaut mention de « vitesse maximale ».
+
 #### Autobus scolaires
 
 
@@ -4466,7 +4472,7 @@ où :
 NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES FORMULES VISÉES AU PARAGRAPHE 111(22)
 
 
-> DORS/79-940, art. 7; DORS/80-439, art. 3; DORS/82-918, art. 1; DORS/87-658, art. 2; DORS/88-268, art. 6; DORS/95-147, art. 9; DORS/97-463, art. 2; DORS/2002-55, art. 13; DORS/2002-448, art. 1; DORS/2003-272, art. 14; DORS/2006-94, art. 4(A); DORS/2008-72, art. 2..
+> DORS/79-940, art. 7; DORS/80-439, art. 3; DORS/82-918, art. 1; DORS/87-658, art. 2; DORS/88-268, art. 6; DORS/95-147, art. 9; DORS/97-463, art. 2; DORS/2002-55, art. 13; DORS/2002-448, art. 1; DORS/2003-272, art. 14; DORS/2006-94, art. 4(A); DORS/2008-72, art. 2; DORS/2017-57, art. 2..
 
 
 
@@ -4507,8 +4513,8 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES 
 - **(4)** À l’exception des fourgons à accès en position debout et des véhicules de secours, les voitures de tourisme, les véhicules à trois roues, ainsi que les véhicules de tourisme à usages multiples et les camions ayant un PNBV de 4 536 kg ou moins, doivent être munis d’un système d’immobilisation conforme :
 	- **a)** soit à l’une des séries d’exigences suivantes, compte tenu des changements prévus aux paragraphes (22), (23) ou (24) :
 		- **(i)** les exigences du chapitre 3, de la section 4.3, des chapitres 6 à 10 et des sections 12.1, 12.2 et 12.16 de la norme nationale du Canada CAN/ULC-S338-98, intitulée Norme sur les systèmes et les appareillages de prévention du vol de véhicules automobiles : immobilisation électronique (mai 1998) et publiée par les Laboratoires des assureurs du Canada,
-		- **(ii)** les spécifications générales et particulières qui figurent dans la troisième partie du règlement n<sup>o</sup> 97 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des systèmes d’alarme pour véhicules (SAV) et des automobiles en ce qui concerne leurs systèmes d’alarme (SA), dans la version en vigueur le 8 août 2007,
-		- **(iii)** les spécifications générales et particulières qui figurent dans la quatrième partie du règlement n<sup>o</sup> 116 de la CEE, intitulé Prescriptions uniformes relatives à la protection des véhicules automobiles contre une utilisation non autorisée, dans la version en vigueur le 10 février 2009;
+		- **(ii)** les spécifications générales et particulières qui figurent dans la troisième partie du règlement n<sup>o</sup> 97 des Nations Unies, intitulé Prescriptions uniformes relatives à l’homologation des systèmes d’alarme pour véhicules (SAV) et des automobiles en ce qui concerne leurs systèmes d’alarme (SA), dans la version en vigueur le 8 août 2007,
+		- **(iii)** les spécifications générales et particulières qui figurent dans la quatrième partie du règlement n<sup>o</sup> 116 des Nations Unies, intitulé Prescriptions uniformes relatives à la protection des véhicules automobiles contre une utilisation non autorisée, dans la version en vigueur le 10 février 2009;
 	- **b)** soit aux exigences prévues aux paragraphes (8) à (21).
 
 - **(5)** Les renseignements ci-après doivent être fournis par écrit et accompagner les véhicules munis d’un système d’immobilisation :
@@ -4576,18 +4582,18 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES 
 	- **b)** la mention « fabricant du système d’immobilisation électronique » vaut mention de « fabricant »;
 	- **c)** la section 8.1 est ainsi libellée : Les transpondeurs et les télécommandes doivent être placés dans des boîtiers scellés conformes aux exigences des sections 12.1, Généralités, et 12.2, Fonctionnement normal.
 
-- **(23)** L’application de la troisième partie du règlement n<sup>o</sup> 97 de la CEE est assujettie aux changements suivants :
+- **(23)** L’application de la troisième partie du règlement n<sup>o</sup> 97 des Nations Unies est assujettie aux changements suivants :
 	- **a)** les exigences relatives aux systèmes d’immobilisation installés après la vente, à l’homologation de type et aux émissions radio ne s’appliquent pas;
 	- **b)** les renvois au paragraphe 33 ne s’appliquent pas;
 	- **c)** pour l’application du paragraphe 31.7, le mot ***rapidement*** s’entend d’une période de moins de cinq minutes et le mot ***longue***, d’une période d’au moins cinq minutes;
 	- **d)** malgré toute disposition contraire des paragraphes 31.10 et 31.11, le système d’immobilisation ne doit avoir aucune incidence sur le système de freinage du véhicule.
 
-- **(24)** L’application de la quatrième partie du règlement n<sup>o</sup> 116 de la CEE est assujettie aux changements suivants :
+- **(24)** L’application de la quatrième partie du règlement n<sup>o</sup> 116 des Nations Unies est assujettie aux changements suivants :
 	- **a)** les exigences relatives aux systèmes d’immobilisation installés après la vente, à l’homologation de type et aux émissions radio ne s’appliquent pas;
 	- **b)** pour l’application du paragraphe 8.2.7, le mot ***rapidement*** s’entend d’une période de moins de cinq minutes et le mot ***longue***, d’une période d’au moins cinq minutes;
 	- **c)** malgré toute disposition contraire des paragraphes 8.2.10 et 8.2.11, le système d’immobilisation ne doit avoir aucune incidence sur le système de freinage du véhicule;
 	- **d)** les renvois au paragraphe 8.4 ne s’appliquent pas.
-> DORS/79-940, art. 7; DORS/95-164, art. 6; DORS/97-264, art. 3; DORS/97-421, art. 6; DORS/2005-45, art. 4; DORS/2007-246, art. 3; DORS/2008-104, art. 13; DORS/2009-32, art. 2; DORS/2009-330, art. 3; DORS/2011-69, art. 1; DORS/2014-82, art. 2; DORS/2014-307, art. 4..
+> DORS/79-940, art. 7; DORS/95-164, art. 6; DORS/97-264, art. 3; DORS/97-421, art. 6; DORS/2005-45, art. 4; DORS/2007-246, art. 3; DORS/2008-104, art. 13; DORS/2009-32, art. 2; DORS/2009-330, art. 3; DORS/2011-69, art. 1; DORS/2014-82, art. 2; DORS/2014-307, art. 4; DORS/2017-57, art. 8..
 
 
 
@@ -5093,7 +5099,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 	- **b)** les camions, les autobus et les remorques qui sont munis d’un essieu dont le poids nominal brut sur l’essieu est de 13 154 kg ou plus;
 	- **c)** les camions et les autobus ayant une vitesse, à 3,2 km (2 milles), d’au plus 53,1 km/h;
 	- **d)** les camions ayant une vitesse, à 3,2 km (2 milles), d’au plus 72,3 km/h, ayant une masse du véhicule sans charge équivalente à au moins 95 pour cent de leur PNBV et n’ayant aucune place pour les occupants autres que le conducteur et l’équipe du véhicule;
-	- **e)** les remorques dont le PNBV est de plus de 54 432 kg et dont la carrosserie est conforme à celle mentionnée à la définition de ***remorque lourde*** au paragraphe 2(1) du présent règlement;
+	- **e)** les remorques dont le PNBV est de plus de 54 432 kg et dont la carrosserie est conforme à celle mentionnée à la définition de remorque lourde au paragraphe 2(1) du présent règlement;
 	- **f)** les remorques dont la masse du véhicule sans charge est équivalente à au moins 95 pour cent de leur PNBV;
 	- **g)** les chariots de répartition de charge.
 
@@ -5120,7 +5126,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(1)** Toute motocyclette doit être conforme :
 	- **a)** soit aux exigences du Document de normes techniques no 122 — Systèmes de freinage des motocyclettes (DNT 122), avec ses modifications successives;
-	- **b)** soit aux exigences prévues aux paragraphes 5 et 6 et à l’annexe 3 du règlement n<sup>o</sup> 78, Révision 1, de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des véhicules des catégories L1, L2, L3, L4 et L5 en ce qui concerne le freinage, dans la version en vigueur le 24 juin 2008, tel qu’il est modifié par tout amendement subséquent de la série 03 d’amendements (règlement n<sup>o</sup> 78 de la CEE).
+	- **b)** soit aux exigences prévues aux paragraphes 5 et 6 et à l’annexe 3 du règlement n<sup>o</sup> 78, Révision 1, des Nations Unies, intitulé Prescriptions uniformes relatives à l’homologation des véhicules des catégories L1, L2, L3, L4 et L5 en ce qui concerne le freinage, dans la version en vigueur le 24 juin 2008, tel qu’il est modifié par tout amendement subséquent de la série 03 d’amendements (règlement n<sup>o</sup> 78 des Nations Unies).
 
 - **(2)** Toute motocyclette conçue pour fonctionner avec ou sans un side-car doit, dans chacune de ces configurations, être conforme aux exigences du paragraphe (1).
 
@@ -5138,37 +5144,37 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 #### Document de normes techniques n<sup>o</sup> 122
 
 
-- **(6)** Pour l’application du DNT 122, les définitions de ***commande***, ***dispositif de frein antiblocage*** ou ***ABS***, ***distance d’arrêt*** et ***système de frein de service partagé***, au paragraphe 2(1) du présent règlement, et l’article 5.3 du présent règlement ne s’appliquent pas.
+- **(6)** Pour l’application du DNT 122, les définitions de commande, dispositif de frein antiblocage ou ABS, distance d’arrêt et système de frein de service partagé, au paragraphe 2(1) du présent règlement, et l’article 5.3 du présent règlement ne s’appliquent pas.
 
 - **(7) à (11)** [Abrogés, DORS/2015–111, art. 2]
 
-#### Règlement n<sup>o</sup> 78 de la CEE
+#### Règlement n<sup>o</sup> 78 des Nations Unies
 
 
 - **(12)** Pour l’application du présent article :
-	- **a)** tout renvoi à la catégorie de véhicule « L<sub>1</sub> » dans le règlement n<sup>o</sup> 78 de la CEE constitue un renvoi à une motocyclette à vitesse limitée qui est conçue pour rouler sur deux roues en contact avec le sol et qui a une vitesse maximale de 50 km/h ou moins;
-	- **b)** tout renvoi à la catégorie de véhicule « L<sub>2</sub> » dans le règlement n<sup>o</sup> 78 de la CEE constitue un renvoi à une motocyclette à vitesse limitée qui est conçue pour rouler sur trois roues en contact avec le sol et qui a une vitesse maximale de 50 km/h ou moins;
-	- **c)** tout renvoi à la catégorie de véhicule « L<sub>3</sub> » dans le règlement n<sup>o</sup> 78 de la CEE constitue un renvoi à une motocyclette qui est conçue pour rouler sur deux roues en contact avec le sol, qui a une vitesse maximale supérieure à 50 km/h et qui n’est pas équipée d’un side-car;
-	- **d)** tout renvoi à la catégorie de véhicule « L<sub>4</sub> » dans le règlement n<sup>o</sup> 78 de la CEE constitue un renvoi à une motocyclette qui est conçue pour rouler sur deux roues en contact avec le sol et qui est équipée d’un side-car, et à une motocyclette qui est conçue pour rouler sur trois roues en contact avec le sol, lesquelles sont asymétriques par rapport à l’axe médian longitudinal;
-	- **e)** tout renvoi à la catégorie de véhicule « L<sub>5</sub> » dans le règlement n<sup>o</sup> 78 de la CEE constitue un renvoi à une motocyclette qui a une vitesse maximale supérieure à 50 km/h et qui est conçue pour rouler sur trois roues en contact avec le sol, lesquelles sont symétriques par rapport à l’axe médian longitudinal.
+	- **a)** tout renvoi à la catégorie de véhicule « L<sub>1</sub> » dans le règlement n<sup>o</sup> 78 des Nations Unies constitue un renvoi à une motocyclette à vitesse limitée qui est conçue pour rouler sur deux roues en contact avec le sol et qui a une vitesse maximale de 50 km/h ou moins;
+	- **b)** tout renvoi à la catégorie de véhicule « L<sub>2</sub> » dans le règlement n<sup>o</sup> 78 des Nations Unies constitue un renvoi à une motocyclette à vitesse limitée qui est conçue pour rouler sur trois roues en contact avec le sol et qui a une vitesse maximale de 50 km/h ou moins;
+	- **c)** tout renvoi à la catégorie de véhicule « L<sub>3</sub> » dans le règlement n<sup>o</sup> 78 des Nations Unies constitue un renvoi à une motocyclette qui est conçue pour rouler sur deux roues en contact avec le sol, qui a une vitesse maximale supérieure à 50 km/h et qui n’est pas équipée d’un side-car;
+	- **d)** tout renvoi à la catégorie de véhicule « L<sub>4</sub> » dans le règlement n<sup>o</sup> 78 des Nations Unies constitue un renvoi à une motocyclette qui est conçue pour rouler sur deux roues en contact avec le sol et qui est équipée d’un side-car, et à une motocyclette qui est conçue pour rouler sur trois roues en contact avec le sol, lesquelles sont asymétriques par rapport à l’axe médian longitudinal;
+	- **e)** tout renvoi à la catégorie de véhicule « L<sub>5</sub> » dans le règlement n<sup>o</sup> 78 des Nations Unies constitue un renvoi à une motocyclette qui a une vitesse maximale supérieure à 50 km/h et qui est conçue pour rouler sur trois roues en contact avec le sol, lesquelles sont symétriques par rapport à l’axe médian longitudinal.
 
-- **(13)** Pour l’application du présent article et malgré la définition de ***véhicules à trois roues*** figurant au paragraphe 2(1) du présent règlement, le terme ***véhicule à trois roues*** employé dans le règlement n<sup>o</sup> 78 de la CEE s’entend d’une motocyclette qui est conçue pour rouler sur deux roues en contact avec le sol et qui est équipée d’un side-car, et d’une motocyclette qui est conçue pour rouler sur trois roues en contact avec le sol.
+- **(13)** Pour l’application du présent article et malgré la définition de véhicules à trois roues figurant au paragraphe 2(1) du présent règlement, le terme ***véhicule à trois roues*** employé dans le règlement n<sup>o</sup> 78 des Nations Unies s’entend d’une motocyclette qui est conçue pour rouler sur deux roues en contact avec le sol et qui est équipée d’un side-car, et d’une motocyclette qui est conçue pour rouler sur trois roues en contact avec le sol.
 
-- **(14)** Pour l’application du paragraphe 1.1.3 de l’annexe 3 du règlement n<sup>o</sup> 78 de la CEE, le coefficient de freinage maximal doit être mesuré conformément au paragraphe 1.1.3 a) de ce règlement.
+- **(14)** Pour l’application du paragraphe 1.1.3 de l’annexe 3 du règlement n<sup>o</sup> 78 des Nations Unies, le coefficient de freinage maximal doit être mesuré conformément au paragraphe 1.1.3 a) de ce règlement.
 
-- **(15)** Pour l’application du paragraphe 2.4 de l’annexe 3 du règlement n<sup>o</sup> 78 de la CEE, la température des freins doit être mesurée conformément au paragraphe 2.4 b) de ce règlement.
+- **(15)** Pour l’application du paragraphe 2.4 de l’annexe 3 du règlement n<sup>o</sup> 78 des Nations Unies, la température des freins doit être mesurée conformément au paragraphe 2.4 b) de ce règlement.
 
-- **(16)** Malgré la seconde phrase du paragraphe 5.1.6 du règlement n<sup>o</sup> 78 de la CEE, la présence d’un frein sur la roue du side-car n’est jamais exigée.
+- **(16)** Malgré la seconde phrase du paragraphe 5.1.6 du règlement n<sup>o</sup> 78 des Nations Unies, la présence d’un frein sur la roue du side-car n’est jamais exigée.
 
-- **(17)** Toute mention, au paragraphe 5.1.12 du règlement n<sup>o</sup> 78 de la CEE, d’une lampe témoin vaut mention du témoin de mauvais fonctionnement du système de freinage qui figure au tableau de l’article 101 de la présente annexe.
+- **(17)** Toute mention, au paragraphe 5.1.12 du règlement n<sup>o</sup> 78 des Nations Unies, d’une lampe témoin vaut mention du témoin de mauvais fonctionnement du système de freinage qui figure au tableau de l’article 101 de la présente annexe.
 
-- **(18)** Toute mention, au paragraphe 5.1.13 du règlement n<sup>o</sup> 78 de la CEE, d’une lampe témoin vaut mention du témoin de mauvais fonctionnement du système de freinage antiblocage qui figure au tableau de l’article 101 de la présente annexe.
+- **(18)** Toute mention, au paragraphe 5.1.13 du règlement n<sup>o</sup> 78 des Nations Unies, d’une lampe témoin vaut mention du témoin de mauvais fonctionnement du système de freinage antiblocage qui figure au tableau de l’article 101 de la présente annexe.
 
 #### Disposition transitoire
 
 
 - **(19)** Malgré les paragraphes (1) à (18), toute motocyclette peut, jusqu’au 1<sup>er</sup> septembre 2016, être conforme aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
-> DORS/81-88, art. 3; DORS/88-268, art. 9; DORS/98-524, art. 4(F); DORS/2001-255, art. 1; DORS/2003-272, art. 18; DORS/2005-42, art. 3 et 4; DORS/2009-330, art. 4; DORS/2011-263, art. 3; DORS/2014-82, art. 4; DORS/2015-24, art. 5; DORS/2015-111, art. 2..
+> DORS/81-88, art. 3; DORS/88-268, art. 9; DORS/98-524, art. 4(F); DORS/2001-255, art. 1; DORS/2003-272, art. 18; DORS/2005-42, art. 3 et 4; DORS/2009-330, art. 4; DORS/2011-263, art. 3; DORS/2014-82, art. 4; DORS/2015-24, art. 5; DORS/2015-111, art. 2; DORS/2017-57, art. 8..
 
 
 
@@ -5177,46 +5183,63 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 > [DORS/93-31, art. 4; DORS/2007-180, art. 9; DORS/2011-238, art. 3]
 
 
+
+#### Généralités
+
 **123** 
 
 - **(1)** Les motocyclettes, sauf celles qui sont conçues pour les organismes chargés de l’application de la loi et vendues exclusivement pour leur utilisation, doivent être conformes aux exigences du Document de normes techniques no 123 — Commandes et affichages des motocyclettes (DNT 123), avec ses modifications successives.
 
-- **(2)** Les motocyclettes doivent être munies des commandes suivantes :
-	- **a)** un avertisseur;
-	- **b)** une vanne de fermeture du réservoir de carburant;
-	- **c)** une manette tournante des gaz;
-	- **d)** un frein de la roue avant;
-	- **e)** un frein de la roue arrière;
-	- **f)** un commutateur d’allumage.
+- **(2)** Au lieu d’être conformes au paragraphe (1), les motocyclettes, sauf celles qui sont conçues pour les organismes chargés de l’application de la loi et vendues exclusivement pour leur utilisation, peuvent être conformes aux exigences du paragraphe 5 du règlement n<sup>o</sup> 60 des Nations Unies intitulé Prescriptions uniformes relatives à l’homologation des motocycles et des cyclomoteurs (à deux roues) en ce qui concerne les commandes actionnées par le conducteur, y compris l’identification des commandes, témoins et indicateurs (règlement n<sup>o</sup> 60 des Nations Unies), tel qu’il est modifié par tout amendement antérieur à la série 01 d’amendements.
 
-- **(3)** Le commutateur d’allumage est facultatif dans le cas d’une motocyclette à vitesse limitée.
+- **(3)** Les motocyclettes doivent être munies d’un avertisseur sonore.
 
-- **(4)** L’article 12 du tableau 3 du DNT 123 ne s’applique qu’aux vannes de fermeture du réservoir de carburant manuelles.
+- **(4)** Les symboles et les abréviations utilisés pour indiquer les commandes et les affichages des motocyclettes doivent être reproduits dans les versions française et anglaise du manuel de l’usager et être accompagnés d’une explication complète.
 
-- **(5)** Les commandes ou les affichages qui ne sont pas énumérés au tableau 3 du DNT 123 et pour lesquels aucune autre exigence relative à une forme d’identification n’est précisée dans le présent règlement doivent, s’ils sont identifiés, être indiqués par le symbole correspondant qui figure dans la norme internationale ISO 6727, intitulée Véhicules routiers — Motocycles — Symboles pour les commandes, indicateurs et témoins, avec ses modifications successives.
+- **(5)** Si l’affichage de l’indicateur de vitesse est analogique, l’échelle des kilomètres doit augmenter dans le sens des aiguilles d’une montre. Les gradations et les chiffres importants doivent apparaître à des intervalles de 10 ou 20 km/h et les gradations moins importantes à des intervalles de 5 ou 10 km/h.
 
-- **(6)** Les commandes ou les affichages pour lesquels un symbole n’est pas précisé au tableau 3 du DNT 123 ni dans la norme internationale ISO 6727, intitulée Véhicules routiers — Motocycles — Symboles pour les commandes, indicateurs et témoins, avec ses modifications successives, peuvent être indiqués par un symbole conçu par le fabricant en conformité avec les principes précisés dans cette norme.
+- **(6)** L’odomètre ou le totalisateur partiel installé sur une motocyclette à côté de l’indicateur de vitesse doit afficher les distances dans l’unité de mesure qui prédomine sur l’indicateur de vitesse. Si l’odomètre ou le totalisateur partiel n’est pas placé à côté de l’indicateur de vitesse ou s’il ne passe pas d’une unité de mesure à l’autre en même temps que l’indicateur de vitesse, l’odomètre ou le totalisateur partiel doit afficher les distances en kilomètres ou en milles et indiquer l’unité de mesure utilisée.
 
-- **(7)** Le terme ***motocycle*** qui est employé dans la norme internationale ISO 6727, intitulée Véhicules routiers — Motocycles — Symboles pour les commandes, indicateurs et témoins, avec ses modifications successives, s’entend au sens de « motocyclette » au paragraphe 2(1) du présent règlement.
+- **(7)** L’affichage des feux de changement de direction installé sur une motocyclette doit être vert ou jaune.
 
-- **(8)** Les mots et les abréviations dont l’affichage est exigé en application du présent article doivent être affichés dans les deux langues officielles. Cependant, s’il n’y a pas suffisamment d’espace pour afficher les mots ou les abréviations indiquant le commutateur d’allumage, le compte-tours ou la vanne de fermeture du réservoir de carburant de manière qu’ils soient facilement visibles dans les deux langues officielles, ceux-ci peuvent être affichés dans une seule des langues officielles.
+- **(8)** Pour l’application des paragraphes (10), (11), (16) et (17), le terme « *motorcycle* » qui est employé dans la norme internationale ISO 6727 intitulée Véhicules routiers — Motocycles — Symboles pour les commandes, indicateurs et témoins (ISO 6727), avec ses modifications successives, s’entend au sens de motocyclette au paragraphe 2(1) du présent règlement.
 
-- **(9)** Les symboles et les abréviations utilisés pour indiquer les commandes et les affichages des motocyclettes doivent être reproduits dans les versions française et anglaise du manuel de l’usager et être accompagnés d’une explication complète.
+#### DNT 123
 
-- **(10)** Malgré les exigences de l’article 8 du tableau 3 du DNT 123, l’indicateur de vitesse installé sur une motocyclette doit être calibré en kilomètres à l’heure ou en kilomètres et en milles à l’heure. Les indicateurs de vitesse numériques qui passent d’une unité de mesure à l’autre sont permis si l’unité de mesure est indiquée.
 
-- **(11)** Si l’affichage de l’indicateur de vitesse est analogique, l’échelle des kilomètres doit augmenter dans le sens des aiguilles d’une montre. Les gradations et les chiffres importants doivent apparaître à des intervalles de 10 ou 20 kilomètres à l’heure et les gradations moins importantes à des intervalles de 5 ou 10 kilomètres à l’heure.
+- **(9)** L’article 12 du tableau 3 du DNT 123 ne s’applique qu’aux vannes de fermeture du réservoir de carburant manuelles.
 
-- **(12)** L’odomètre ou le totalisateur partiel installé sur une motocyclette à côté de l’indicateur de vitesse doit afficher les distances dans l’unité de mesure qui prédomine sur l’indicateur de vitesse. Si l’odomètre ou le totalisateur partiel n’est pas placé à côté de l’indicateur de vitesse ou s’il ne passe pas d’une unité de mesure à l’autre en même temps que l’indicateur de vitesse, l’odomètre ou le totalisateur partiel doit afficher les distances en kilomètres ou en milles et indiquer l’unité de mesure utilisée.
+- **(10)** Les commandes ou les affichages qui ne sont pas énumérés au tableau 3 du DNT 123 et pour lesquels aucune autre exigence relative à une forme d’identification n’est précisée dans le présent règlement doivent, s’ils sont identifiés, être indiqués par le symbole correspondant qui figure dans la norme ISO 6727.
 
-- **(13)** La disposition S5.2.4 du DNT 123 ne s’applique pas aux tricycles à moteur.
+- **(11)** Les commandes ou les affichages pour lesquels un symbole n’est pas précisé au tableau 3 du DNT 123 ni dans la norme ISO 6727 peuvent être indiqués par un symbole conçu par le fabricant en conformité avec les principes précisés dans cette norme.
 
-- **(14)** Malgré la disposition S5.2.5 du DNT 123, il n’est pas nécessaire qu’un cale-pied pour le passager sur une motocyclette se rabatte vers l’arrière et vers le haut lorsqu’il n’est pas utilisé.
+- **(12)** Malgré les exigences de l’article 8 du tableau 3 du DNT 123, l’indicateur de vitesse installé sur une motocyclette doit être calibré en kilomètres à l’heure ou en kilomètres et en milles à l’heure. Les indicateurs de vitesse numériques qui passent d’une unité de mesure à l’autre sont permis si l’unité de mesure est indiquée.
 
-- **(15)** L’affichage des feux de changement de direction installé sur une motocyclette doit être vert ou jaune.
+- **(13)** Malgré la disposition S5.2.3c) du DNT 123, les mots et les abréviations dont l’affichage est exigé en application du présent article doivent être affichés dans les deux langues officielles. Cependant, s’il n’y a pas suffisamment d’espace pour afficher les mots ou les abréviations indiquant le commutateur d’allumage, le compte-tours ou la vanne de fermeture du réservoir de carburant de manière qu’ils soient facilement visibles dans les deux langues officielles, ceux-ci peuvent être affichés dans une seule des langues officielles.
 
-- **(16)** [Abrogé, DORS/2014-307, art. 9]
-> DORS/79-306, art. 5; DORS/79-940, art. 7; DORS/82-656, art. 3; DORS/88-268, art. 10; DORS/93-31, art. 5; DORS/94-374, art. 5(F); DORS/95-536, art. 7; DORS/96-366, art. 8; DORS/97-421, art. 10, 11(F), 12(F) et 22(F); DORS/98-524, art. 4(F); DORS/2003-272, art. 19; DORS/2007-180, art. 10; DORS/2009-318, art. 11; DORS/2011-238, art. 3; DORS/2014-307, art. 9..
+- **(14)** La disposition S5.2.4 du DNT 123 ne s’applique pas aux tricycles à moteur.
+
+- **(15)** Malgré la disposition S5.2.5 du DNT 123, il n’est pas nécessaire qu’un cale-pied pour le passager sur une motocyclette se rabatte vers l’arrière et vers le haut lorsqu’il n’est pas utilisé.
+
+#### Règlement n<sup>o</sup> 60 des Nations Unies
+
+
+- **(16)** Malgré le deuxième alinéa du paragraphe 5.1 du règlement n<sup>o</sup> 60 des Nations Unies, les commandes, témoins ou indicateurs pour lesquels un symbole n’est pas précisé au tableau 1 du règlement n<sup>o</sup> 60 des Nations Unies et pour lesquels aucune autre exigence relative à une forme d’identification n’est précisée dans le présent règlement doivent, s’ils sont identifiés, être indiqués par le symbole correspondant qui figure dans la norme ISO 6727.
+
+- **(17)** Malgré le deuxième alinéa du paragraphe 5.1 du règlement n<sup>o</sup> 60 des Nations Unies, les commandes, témoins ou indicateurs pour lesquels un symbole n’est pas précisé au tableau 1 du règlement n<sup>o</sup> 60 des Nations Unies ni dans la norme ISO 6727, peuvent être indiqués par un symbole conçu par le fabricant en conformité avec les principes précisés dans cette norme.
+
+- **(18)** Pour l’application du paragraphe 5 du règlement n<sup>o</sup> 60 des Nations Unies, si des mots ou des abréviations sont utilisés, ceux-ci doivent être affichés dans les deux langues officielles. Cependant, s’il n’y a pas suffisamment d’espace pour afficher les mots ou les abréviations indiquant le commutateur d’allumage, le compte-tours ou la vanne de fermeture du réservoir de carburant de manière qu’ils soient facilement visibles dans les deux langues officielles, ceux-ci peuvent être affichés dans une seule des langues officielles.
+
+- **(19)** En plus d’être conforme à l’exigence figurant dans la colonne intitulée « fonctionnement » en regard du numéro 10 dans la colonne intitulée « N<sup>o</sup> » du tableau 1 du règlement n<sup>o</sup> 60 des Nations Unies, l’indicateur de vitesse installé sur une motocyclette doit être calibré en kilomètres à l’heure ou en kilomètres et en milles à l’heure. Les indicateurs de vitesse numériques qui passent d’une unité de mesure à l’autre sont permis si l’unité de mesure est indiquée.
+
+- **(20)** Malgré le deuxième paragraphe figurant dans la colonne intitulée « emplacement » en regard des numéros 11 à 13 dans la colonne intitulée « N<sup>o</sup> » du tableau 1 du règlement n<sup>o</sup> 60 des Nations Unies, les commandes pour l’avertisseur sonore, le feu de route et le feu de croisement doivent être conformes uniquement au premier paragraphe.
+
+- **(21)** Malgré le troisième paragraphe figurant dans la colonne intitulée « fonctionnement » en regard du numéro 32 dans la colonne intitulée « N<sup>o</sup> » du tableau 1 du règlement n<sup>o</sup> 60 des Nations Unies, les motocycles d’une cylindrée inférieure à 200 centimètres cubes qui sont équipées d’un sélecteur au pied, boîte mécanique, doivent être conformes aux exigences prévues au deuxième paragraphe de cette colonne.
+
+- **(22)** Pour l’application des paragraphes (16) à (21) :
+	- **a)** dans la version anglaise du règlement n<sup>o</sup> 60 des Nations Unies, les mentions « *audible warning device* », « *driving-beam* » et « *passing-beam* » valent respectivement mention de « *horn* », « *upper beam* » et « *lower beam* »;
+	- **b)** dans la version française du règlement n<sup>o</sup> 60 des Nations Unies, toute mention de « compteur de vitesse » vaut mention de « indicateur de vitesse ».
+> DORS/79-306, art. 5; DORS/79-940, art. 7; DORS/82-656, art. 3; DORS/88-268, art. 10; DORS/93-31, art. 5; DORS/94-374, art. 5(F); DORS/95-536, art. 7; DORS/96-366, art. 8; DORS/97-421, art. 10, 11(F), 12(F) et 22(F); DORS/98-524, art. 4(F); DORS/2003-272, art. 19; DORS/2007-180, art. 10; DORS/2009-318, art. 11; DORS/2011-238, art. 3; DORS/2014-307, art. 9; DORS/2017-57, art. 3..
 
 
 
@@ -5239,8 +5262,13 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(1)** Les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus d’un PNBV de 4 536 kg ou moins doivent être conformes aux exigences du Document de normes techniques n° 126 — Systèmes de contrôle électronique de la stabilité (DNT 126), avec ses modifications successives.
 
-- **(2)** [Abrogé, DORS/2014-307, art. 11]
-> DORS/2013-55, art. 1; DORS/2014-307, art. 11..
+- **(2)** Au lieu d’être conformes au paragraphe (1), les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus d’un PNBV de 4 536 kg ou moins peuvent être conformes aux exigences de l’annexe 9 du règlement n<sup>o</sup> 13-H des Nations Unies intitulé Prescriptions uniformes relatives à l’homologation des voitures particulières en ce qui concerne le freinage, tel qu’il est modifié par tout amendement antérieur à la série 01 d’amendements avec les adaptations suivantes :
+	- **a)** le paragraphe 3.3.1 de cette annexe doit être lu de manière à permettre le calcul du déplacement latéral uniquement au moyen de la formule par double intégration;
+	- **b)** le paragraphe 3.5.1.1 de cette annexe doit être lu de manière à ce que la démultiplication supplémentaire soit d’au moins 2,0;
+	- **c)** le paragraphe 4.1.1 de cette annexe doit être lu comme exigeant que la température ambiante soit comprise entre 7 et 40 °C;
+	- **d)** le paragraphe 4.2.2.2 de cette annexe ne s’applique pas;
+	- **e)** les pneumatiques mentionnés au paragraphe 4.3.3 de cette annexe sont ceux installés sur le véhicule avant sa vente au premier usager.
+> DORS/2013-55, art. 1; DORS/2014-307, art. 11; DORS/2017-57, art. 4..
 
 
 
@@ -5405,7 +5433,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(1)** Les voitures de tourisme, les véhicules à trois roues, ainsi que les véhicules de tourisme à usages multiples, les autobus et les camions, à l’exception des fourgons à accès en position debout, ayant un PNBV d’au plus 4 536 kg et une masse du véhicule sans charge d’au plus 2 495 kg doivent être conformes aux exigences du Document de normes techniques no 204 — Recul de la colonne de direction (DNT 204), avec ses modifications successives.
 
-- **(2)** Pour l’application du présent article, toute mention, dans le DNT 204, de ***voiture de tourisme*** vaut mention de ***voiture de tourisme et véhicule à trois roues***.
+- **(2)** Pour l’application du présent article, toute mention, dans le DNT 204, de voiture de tourisme vaut mention de voiture de tourisme et véhicule à trois roues.
 
 - **(3)** Le paragraphe (1) ne s’applique pas aux véhicules conformes aux exigences des dispositions S5 et S14 du Document de normes techniques no 208 — Protection des occupants en cas de collision (DNT 208), avec ses modifications successives.
 
@@ -5419,11 +5447,11 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 **205** 
 
-- **(1)** Pour l’application du présent article, les termes *bus*, *motorhome*, *multipurpose passenger vehicle*, *passenger car*, *readily removable windows*, *trailer* et *truck* employés dans la norme de sécurité ANSI Z26 — 1996 s’entendent au sens de ***autobus***, ***autocaravane***, ***véhicule de tourisme à usages multiples***, ***voiture de tourisme***, ***fenêtre amovible***, ***remorque*** et ***camion*** au paragraphe 2(1) du présent règlement.
+- **(1)** Pour l’application du présent article, les termes bus, motorhome, multipurpose passenger vehicle, passenger car, readily removable windows, trailer et truck employés dans la norme de sécurité ANSI Z26 — 1996 s’entendent au sens de autobus, autocaravane, véhicule de tourisme à usages multiples, voiture de tourisme, fenêtre amovible, remorque et camion au paragraphe 2(1) du présent règlement.
 
-- **(2)** Pour l’application du présent article, la définition de *motor vehicle* figurant dans la norme de sécurité ANSI Z26 — 1996 ne s’applique pas.
+- **(2)** Pour l’application du présent article, la définition de motor vehicle figurant dans la norme de sécurité ANSI Z26 — 1996 ne s’applique pas.
 
-- **(3)** Sous réserve des paragraphes (4) à (13), chaque pièce de vitrage destinée à être utilisée dans un véhicule, à l’exception d’une remorque autre qu’une remorque-autobus, doit être conforme aux exigences de la norme de sécurité ANSI Z16 — 1996.
+- **(3)** Sous réserve des paragraphes (4) à (13), chaque pièce de vitrage destinée à être utilisée dans un véhicule, à l’exception d’une remorque autre qu’une remorque-autobus, doit être conforme aux exigences de la norme de sécurité ANSI Z26 — 1996.
 
 - **(4)** Les exigences du tableau 1 de la norme de sécurité ANSI Z26 — 1996 qui s’appliquent aux articles de vitrage 1 à 16B l’emportent sur toute exigence incompatible de l’article 4.2 de cette norme.
 
@@ -5451,7 +5479,7 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 - **(13)** Chaque pièce de vitrage installée dans un véhicule doit porter, d’une manière lisible et permanente :
 	- **a)** d’une part, la marque applicable exigée à l’article 7 de la norme de sécurité ANSI Z26 — 1996;
 	- **b)** d’autre part, une marque codée approuvée, laquelle est attribuée par le ministre au fabricant de vitrages, en lettres et en chiffres d’au moins 1,8 mm de hauteur.
-> DORS/82-656, art. 4; DORS/84-336, art. 1; DORS/86-161, art. 2; DORS/88-268, art. 11; DORS/93-5, art. 3(F); DORS/94-670, art. 2(F); DORS/94-717, art. 2; DORS/2002-55, art. 16; DORS/2002-187, art. 2; DORS/2003-272, art. 22; DORS/2004-250, art. 4; DORS/2006-94, art. 4(A)..
+> DORS/82-656, art. 4; DORS/84-336, art. 1; DORS/86-161, art. 2; DORS/88-268, art. 11; DORS/93-5, art. 3(F); DORS/94-670, art. 2(F); DORS/94-717, art. 2; DORS/2002-55, art. 16; DORS/2002-187, art. 2; DORS/2003-272, art. 22; DORS/2004-250, art. 4; DORS/2006-94, art. 4(A); DORS/2017-57, art. 5(F)..
 
 
 
@@ -5462,12 +5490,12 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 
 - **(1)** Les autobus dont le PNBV est d’au plus 4 536 kg, les motocyclettes à habitacle fermé, les véhicules de tourisme à usages multiples, les véhicules à trois roues, les voitures de tourisme et les camions qui sont munis de portes latérales ou de portes arrière doivent l’être en conformité avec, selon le cas :
 	- **a)** les exigences du Document de normes techniques no 206 — Serrures de porte et composants de retenue de porte (DNT 206), avec ses modifications successives;
-	- **b)** les spécifications générales, les spécifications d’efficacité et les procédures d’essai qui figurent dans le règlement n<sup>o</sup> 11 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne les serrures et organes de fixation des portes, dans sa version au 11 juin 2007, tel qu’il est modifié après cette date par tout amendement de la série 03 d’amendements.
+	- **b)** les spécifications générales, les spécifications d’efficacité et les procédures d’essai qui figurent dans le règlement n<sup>o</sup> 11 des Nations Unies intitulé Prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne les serrures et organes de fixation des portes (règlement n<sup>o</sup> 11 des Nations Unies), tel qu’il est modifié par tout amendement de la série 03 ou 04 d’amendements.
 
-- **(2)** Pour l’application du paragraphe 6.3.2 du règlement n<sup>o</sup> 11 de la CEE, le dispositif de verrouillage est celui visé aux alinéas 6.3.2.1a) ou b) de ce règlement.
+- **(2)** Pour l’application du paragraphe 6.3.2 du règlement n<sup>o</sup> 11 des Nations Unies, le dispositif de verrouillage est celui visé aux alinéas 6.3.2.1a) ou b) de ce règlement.
 
 - **(3)** [Abrogé, DORS/2014-307, art. 16]
-> DORS/97-14, art. 2; DORS/2001-116, art. 3; DORS/2002-55, art. 21; DORS/2003-272, art. 23; DORS/2005-42, art. 7 et 8; DORS/2006-94, art. 4(A); DORS/2008-73, art. 3; DORS/2009-34, art. 1; DORS/2013-220, art. 2; DORS/2014-307, art. 16..
+> DORS/97-14, art. 2; DORS/2001-116, art. 3; DORS/2002-55, art. 21; DORS/2003-272, art. 23; DORS/2005-42, art. 7 et 8; DORS/2006-94, art. 4(A); DORS/2008-73, art. 3; DORS/2009-34, art. 1; DORS/2013-220, art. 2; DORS/2014-307, art. 16; DORS/2017-57, art. 6 et 8..
 
 
 
@@ -5614,8 +5642,8 @@ Tous les espaces prévus dans le numéro d’identification de véhicule doivent
 - **(13)** Les voitures de tourisme, les véhicules à trois roues, les camions, les véhicules de tourisme à usages multiples et les autobus, ainsi que leur manuels de l’usager, doivent être conformes aux exigences du Document de normes techniques no 208 — Protection des occupants en cas de collision (DNT 208), avec ses modifications successives.
 
 - **(14)** Pour l’application du présent article,
-	- **a)** toute mention, dans le DNT 208, de ***voiture de tourisme*** vaut mention de ***voiture de tourisme et véhicule à trois roues***;
-	- **b)** toute mention, dans la version anglaise du DNT 208, de *dummy* vaut mention de *anthropomorphic test device*.
+	- **a)** toute mention, dans le DNT 208, de voiture de tourisme vaut mention de voiture de tourisme et véhicule à trois roues;
+	- **b)** toute mention, dans la version anglaise du DNT 208, de dummy vaut mention de anthropomorphic test device.
 
 - **(15)** Malgré le paragraphe (13), les véhicules munis d’une place assise désignée extérieure avant conçue pour une personne handicapée peuvent, au lieu de répondre aux exigences des dispositions S5, S7.1, S7.2, S7.4 et S14 à S27 du DNT 208, porter une ou plusieurs étiquettes, affichées en permanence et à la vue des occupants des places assises désignées avant, sur lesquelles figure, en lettres d’au moins six points de hauteur, la mention suivante : « *The [here refer to the outboard designated seating position in the front row of designated seating positions that does not conform to the requirements set out in CMVSS 208] doe​s not conform to all of the requirements set out in CMVSS 208.* / La [insérer ici la place assise désignée extérieure de la première rangée de places assises désignées qui n’est pas conforme aux exigences prévues par la NSVAC 208] n’est pas conforme à toutes les exigences prévues par la NSVAC 208. »
 
@@ -6577,13 +6605,13 @@ Remarque : Le dessin n’est pas à l’échelle.
 **215** 
 
 - **(1)** Les voitures de tourisme doivent être munies de pare-chocs conformes :
-	- **a)** soit aux spécifications prévues à l’article 6 et à la procédure d’essai de choc à basse vitesse prévue à l’annexe 3, à l’exception du paragraphe 4 de cette annexe, qui figurent au règlement n<sup>o</sup> 42 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne leurs dispositifs de protection (pare-chocs, etc.) à l’avant et à l’arrière, dans sa version au 12 juin 2007, tel qu’il est modifié après cette date par tout amendement de la série 00 d’amendements;
+	- **a)** soit aux spécifications prévues à l’article 6 et à la procédure d’essai de choc à basse vitesse prévue à l’annexe 3, à l’exception du paragraphe 4 de cette annexe, qui figurent au règlement n<sup>o</sup> 42 des Nations Unies, intitulé Prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne leurs dispositifs de protection (pare-chocs, etc.) à l’avant et à l’arrière, dans sa version au 12 juin 2007, tel qu’il est modifié après cette date par tout amendement de la série 00 d’amendements;
 	- **b)** soit aux exigences, aux conditions et à la procédure d’essai qui figurent à la partie 581 du titre 49 du Code of Federal Regulations des États-Unis, dans sa version révisée au 1<sup>er</sup> octobre 2006.
 
 - **(2)** Jusqu’au 31 août 2009, les voitures de tourisme peuvent être conformes aux exigences du présent article dans sa version actuelle ou dans sa version antérieure à l’entrée en vigueur du présent règlement.
 
 - **(3)** À compter du 1<sup>er</sup> septembre 2009, les voitures de tourisme doivent être conformes aux exigences du présent article.
-> DORS/79-338, art. 1; DORS/79-940, art. 8; DORS/91-692, art. 5; DORS/94-692, art. 2(F); DORS/97-421, art. 22(F); DORS/2008-199, art. 1..
+> DORS/79-338, art. 1; DORS/79-940, art. 8; DORS/91-692, art. 5; DORS/94-692, art. 2(F); DORS/97-421, art. 22(F); DORS/2008-199, art. 1; DORS/2017-57, art. 8..
 
 
 
@@ -7235,17 +7263,15 @@ où :
 - **(3)** Sous réserve du paragraphe (5), les motocyclettes qui sont munies d’un circuit d’alimentation en carburant utilisant comme source d’énergie pour leur propulsion un carburant dont le point d’ébullition est de 0° C ou plus doivent être conformes aux exigences de la pratique recommandée J1241 de la SAE, intitulée *Fuel and Lubricant Tanks for Motorcycles*, dans sa version révisée de novembre 1999, à l’exclusion de l’article 1 de cette pratique.
 
 - **(4)** Pour l’application du présent article :
-	- **a)** la mention « *rated fuel capacity* » qui est employée dans la pratique recommandée J1241 de la SAE s’entend au sens de la définition de ***capacité du réservoir de carburant du véhicule*** au paragraphe 2(1) du présent règlement;
-	- **b)** la mention « *significant effect* » qui est employée aux articles 5.2.3 et 5.3.3 de la pratique recommandée J1241 de la SAE s’entend de tout effet entraînant la fissuration du réservoir ou une fuite.
+	- **a)** la mention rated fuel capacity qui est employée dans la pratique recommandée J1241 de la SAE s’entend au sens de la définition de capacité du réservoir de carburant du véhicule au paragraphe 2(1) du présent règlement;
+	- **b)** la mention significant effect qui est employée aux articles 5.2.3 et 5.3.3 de la pratique recommandée J1241 de la SAE s’entend de tout effet entraînant la fissuration du réservoir ou une fuite.
 
-- **(5)** Au lieu d’être conformes au paragraphe (3), les motocyclettes qui sont munies d’un circuit d’alimentation en carburant utilisant comme source d’énergie pour leur propulsion un carburant dont le point d’ébullition est de 0° C ou plus peuvent être conformes aux exigences des parties suivantes du chapitre 6 de la Directive 97/24/CE du Parlement européen et du Conseil du 17 juin 1997 relative à certains éléments ou caractéristiques des véhicules à moteur à deux ou trois roues, avec ses modifications successives :
-	- **a)** l’annexe I, à l’exclusion de l’article 1.0;
-	- **b)** l’appendice 1 de l’annexe I, à l’exclusion des articles 2.2 et 4 de cet appendice.
+- **(5)** Au lieu d’être conformes au paragraphe (3), les motocyclettes qui sont munies d’un circuit d’alimentation en carburant utilisant comme source d’énergie pour leur propulsion un carburant dont le point d’ébullition est de 0 °C ou plus peuvent être conformes aux exigences de l’annexe IX du Règlement délégué (UE) No 44/2014 de la Commission du 21 novembre 2013 complétant le règlement (UE) no 168/2013 du Parlement européen et du Conseil en ce qui concerne la construction des véhicules et les exigences générales relatives à la réception des véhicules à deux ou trois roues et des quadricycles, avec ses modifications successives.
 
-- **(6)** Pour l’application du présent article, les mentions « *rated capacity* » et « *nominal capacity* » qui sont employées dans l’annexe I et l’appendice 1 de l’annexe I du chapitre 6 de la Directive 97/24/CE du Parlement européen et du Conseil du 17 juin 1997 relative à certains éléments ou caractéristiques des véhicules à moteur à deux ou trois roues s’entendent au sens de la définition de ***capacité du réservoir de carburant du véhicule*** au paragraphe 2(1) du présent règlement.
+- **(6)** [Abrogé, DORS/2017-57, art. 7]
 
 - **(7)** Les motocyclettes construites avant le 1<sup>er</sup> septembre 2004 n’ont pas à être conformes au présent article.
-> DORS/2003-272, art. 31..
+> DORS/2003-272, art. 31; DORS/2017-57, art. 7..
 
 
 
@@ -7292,7 +7318,7 @@ où :
 
 - **(2)** Cependant, les véhicules construits avant le 1<sup>er</sup> septembre 2010 n’ont pas à être munis d’un mécanisme de déverrouillage interne du coffre.
 
-- **(3)** Le présent article ne s’applique pas aux véhicules munis d’une porte arrière. Pour l’application du présent paragraphe, ***porte arrière*** s’entend au sens du DNT 401.
+- **(3)** Le présent article ne s’applique pas aux véhicules munis d’une porte arrière. Pour l’application du présent paragraphe, porte arrière s’entend au sens du DNT 401.
 
 - **(4)** [Abrogé, DORS/2014-307, art. 29]
 > DORS/2007-180, art. 19; DORS/2008-73, art. 4; DORS/2009-318, art. 14; DORS/2011-238, art. 6; DORS/2014-307, art. 29..
@@ -7604,13 +7630,13 @@ où :
 **3** 
 
 - **(1)** Les motocyclettes doivent être construites de façon à satisfaire à l’une des exigences suivantes :
-	- **a)** lorsqu’elles sont soumises aux essais prévus à l’annexe 3 du règlement n<sup>o</sup> 41 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des motocycles en ce qui concerne le bruit, dans sa version en vigueur le 25 juin 2008, avec toute modification subséquente à la série d’amendements 03, à l’exclusion de toute exigence relative à la mise à l’essai de motocyclettes à l’arrêt qui figure à cette annexe, le niveau sonore visé au paragraphe 1.5.4 de cette annexe n’est pas supérieur aux niveaux précisés à l’annexe 6 de ce règlement;
-	- **b)** lorsqu’elles sont soumises aux essais prévus à l’annexe 3 et à l’annexe 7 du règlement n<sup>o</sup> 41 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des motocycles en ce qui concerne le bruit, dans sa version en vigueur le 13 avril 2012, avec toute modification subséquente à la série d’amendements 04, à l’exclusion de toute exigence relative à la mise à l’essai de motocyclettes à l’arrêt qui figure à l’annexe 3, le niveau de pression acoustique visé au paragraphe 1.4.6 de l’annexe 3 n’est pas supérieur aux niveaux précisés à l’annexe 6 de ce règlement;
+	- **a)** lorsqu’elles sont soumises aux essais prévus à l’annexe 3 du règlement n<sup>o</sup> 41 des Nations Unies, intitulé Prescriptions uniformes relatives à l’homologation des motocycles en ce qui concerne le bruit, dans sa version en vigueur le 25 juin 2008, avec toute modification subséquente à la série d’amendements 03, à l’exclusion de toute exigence relative à la mise à l’essai de motocyclettes à l’arrêt qui figure à cette annexe, le niveau sonore visé au paragraphe 1.5.4 de cette annexe n’est pas supérieur aux niveaux précisés à l’annexe 6 de ce règlement;
+	- **b)** lorsqu’elles sont soumises aux essais prévus à l’annexe 3 et à l’annexe 7 du règlement n<sup>o</sup> 41 des Nations Unies, intitulé Prescriptions uniformes relatives à l’homologation des motocycles en ce qui concerne le bruit, dans sa version en vigueur le 13 avril 2012, avec toute modification subséquente à la série d’amendements 04, à l’exclusion de toute exigence relative à la mise à l’essai de motocyclettes à l’arrêt qui figure à l’annexe 3, le niveau de pression acoustique visé au paragraphe 1.4.6 de l’annexe 3 n’est pas supérieur aux niveaux précisés à l’annexe 6 de ce règlement;
 	- **c)** lorsqu’elles sont soumises :
 		- **(i)** aux essais prévus à l’appendice I-2 des sous-parties D et E, partie 205, section de chapitre G, chapitre I, titre 40 du Code of Federal Regulations des États-Unis, tel qu’il a été modifié par le vol. 45, n<sup>o</sup> 252, du *Federal Register* des États-Unis, publié le 31 décembre 1980, le niveau de bruit retenu visé à l’article (d)(3) de cet appendice n’est pas supérieur à 70 dBA, dans le cas d’une motocyclette avec une cylindrée d’au plus 50 cm<sup>3</sup> et une vitesse maximale de 48 km/h sur une surface asphaltée plane,
 		- **(ii)** aux essais prévus à l’appendice I-1 des sous-parties D et E, partie 205, section de chapitre G, chapitre I, titre 40 du Code of Federal Regulations des États-Unis, tel qu’il a été modifié par le vol. 45, n<sup>o</sup> 252, du *Federal Register* des États-Unis, publié le 31 décembre 1980, le niveau de bruit retenu visé à l’article (d)(3) de cet appendice n’est pas supérieur à 80 dBA, dans les autres cas.
 
-- **(2)** Pour l’application du présent article, les exigences du règlement de la CEE visé aux alinéas (1)a) et b) relatives au processus d’homologation ne s’appliquent pas.
+- **(2)** Pour l’application du présent article, les exigences du règlement des Nations Unies visé aux alinéas (1)a) et b) relatives au processus d’homologation ne s’appliquent pas.
 
 
 **4** Sous réserve de l’article 5, tout véhicule de tourisme à usages multiples, camion ou châssis-cabine dont le PNBV est supérieur à 4 536 kg doit être construit de façon à satisfaire à l’une des exigences suivantes :
@@ -7621,13 +7647,13 @@ où :
 **5** 
 
 - **(1)** Il est permis de construire tout véhicule visé aux articles 2 et 4 de façon à satisfaire aux exigences suivantes :
-	- **a)** lorsqu’il est soumis aux essais prévus à l’annexe 3 du règlement n<sup>o</sup> 51 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des automobiles ayant au moins quatre roues, en ce qui concerne le bruit, dans sa version en vigueur le 9 mars 2011, avec toute modification subséquente à la série d’amendements 02, à l’exclusion de toute exigence relative à la mise à l’essai des véhicules à l’arrêt qui figure à cette annexe, le niveau sonore visé au paragraphe 3.1.3 de cette annexe n’est pas supérieur aux niveaux précisés au paragraphe 6 de ce règlement;
-	- **b)** lorsqu’il est soumis aux essais prévus aux annexes 3 et 7 du règlement n<sup>o</sup> 51 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des véhicules à moteur ayant au moins quatre roues en ce qui concerne les émissions sonores, dans sa version en vigueur le 20 janvier 2016, avec toute modification subséquente à la série d’amendements 03, à l’exclusion de toute exigence relative à la mise à l’essai des véhicules à l’arrêt de l’annexe 3, le résultat final L<sub>urban</sub> visé au paragraphe 3.1.3 de l’annexe 3 n’est pas supérieur aux niveaux précisés au paragraphe 6 de ce règlement.
+	- **a)** lorsqu’il est soumis aux essais prévus à l’annexe 3 du règlement n<sup>o</sup> 51 des Nations Unies, intitulé Prescriptions uniformes relatives à l’homologation des automobiles ayant au moins quatre roues, en ce qui concerne le bruit, dans sa version en vigueur le 9 mars 2011, avec toute modification subséquente à la série d’amendements 02, à l’exclusion de toute exigence relative à la mise à l’essai des véhicules à l’arrêt qui figure à cette annexe, le niveau sonore visé au paragraphe 3.1.3 de cette annexe n’est pas supérieur aux niveaux précisés au paragraphe 6 de ce règlement;
+	- **b)** lorsqu’il est soumis aux essais prévus aux annexes 3 et 7 du règlement n<sup>o</sup> 51 des Nations Unies, intitulé Prescriptions uniformes relatives à l’homologation des véhicules à moteur ayant au moins quatre roues en ce qui concerne les émissions sonores, dans sa version en vigueur le 20 janvier 2016, avec toute modification subséquente à la série d’amendements 03, à l’exclusion de toute exigence relative à la mise à l’essai des véhicules à l’arrêt de l’annexe 3, le résultat final L<sub>urban</sub> visé au paragraphe 3.1.3 de l’annexe 3 n’est pas supérieur aux niveaux précisés au paragraphe 6 de ce règlement.
 
-- **(2)** Pour l’application du présent article, les exigences du règlement de la CEE visé au paragraphe (1) relatives au processus d’homologation ne s’appliquent pas.
+- **(2)** Pour l’application du présent article, les exigences du règlement des Nations Unies visé au paragraphe (1) relatives au processus d’homologation ne s’appliquent pas.
 
 
-> DORS/97-141, art. 4; DORS/97-421, art. 15; DORS/2002-55, art. 20; DORS/2005-342, art. 6; DORS/2009-318, art. 15, 16(F), 17 et 18; DORS/2016-318, art. 14.
+> DORS/97-141, art. 4; DORS/97-421, art. 15; DORS/2002-55, art. 20; DORS/2005-342, art. 6; DORS/2009-318, art. 15, 16(F), 17 et 18; DORS/2016-318, art. 14; DORS/2017-57, art. 8.
 
 
 
