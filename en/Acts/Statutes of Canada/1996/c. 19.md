@@ -196,6 +196,33 @@ from a practitioner, unless the person discloses to the practitioner particulars
 
 
 
+**Definition of overdose**
+
+**4.1** 
+
+- **(1)** For the purposes of this section, ***overdose*** means a physiological event induced by the introduction of a controlled substance into the body of a person that results in a life-threatening situation and that a reasonable person would believe requires emergency medical or law enforcement assistance.
+
+**Exemption from possession of substance charges**
+
+- **(2)** No one who seeks emergency medical or law enforcement assistance because that person, or another person, is suffering from an overdose is to be charged or convicted under subsection 4(1) if the evidence in support of that offence was obtained or discovered as a result of that person having sought assistance or having remained at the scene.
+
+**Precision**
+
+- **(3)** The exemption under subsection (2) also applies to any person, including the person suffering from the overdose, who is at the scene upon the arrival of the emergency medical or law enforcement assistance.
+
+**Exemption — violation of conditions or orders**
+
+- **(4)** No one who seeks emergency medical or law enforcement assistance because that person, or another person, is suffering from an overdose, or who is at the scene upon the arrival of the assistance, is to be charged with an offence concerning a violation of a pre-trial release, probation order, conditional sentence or parole relating to an offence under subsection 4(1) if the evidence in support of that offence was obtained or discovered as a result of that person having sought assistance or having remained at the scene.
+
+**Precision**
+
+- **(5)** Any condition of a person’s pre-trial release, probation order, conditional sentence or parole relating to an offence under subsection 4(1) that may be violated as a result of the person seeking emergency medical or law enforcement assistance for their, or another person’s, overdose, or as a result of having been at the scene upon the arrival of the assistance, is deemed not to be violated.
+> 2017, c. 4, s. 2.
+
+
+
+
+
 **Trafficking in substance**
 
 **5** 
