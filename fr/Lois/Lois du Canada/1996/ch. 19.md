@@ -179,6 +179,33 @@ Y est assimilée l’offre de produire.
 
 
 
+**Définition de surdose**
+
+**4.1** 
+
+- **(1)** Pour l’application du présent article, ***surdose*** s’entend d’un phénomène physiologique attribuable à l’introduction d’une substance désignée dans le corps d’une personne qui met la vie de celle-ci en danger et à l’égard duquel il y a des motifs raisonnables de croire que l’intervention de professionnels de la santé ou d’agents d’application de la loi est nécessaire de toute urgence.
+
+**Exemption — accusation de possession de substances**
+
+- **(2)** Quiconque demande, de toute urgence, l’intervention de professionnels de la santé ou d’agents d’application de la loi parce que lui-même ou une autre personne est victime d’une surdose ne peut être accusé ou déclaré coupable d’une infraction prévue au paragraphe 4(1) si la preuve à l’appui de cette infraction a été obtenue ou découverte du fait qu’il a demandé de l’aide ou est resté sur les lieux.
+
+**Précision**
+
+- **(3)** L’exemption prévue au paragraphe (2) s’applique aussi à toute personne qui se trouve sur les lieux à l’arrivée des professionnels de la santé ou des agents d’application de la loi, y compris la personne victime de la surdose.
+
+**Exemption — violation de conditions ou d’ordonnances**
+
+- **(4)** La personne qui demande, de toute urgence, l’intervention de professionnels de la santé ou d’agents d’application de la loi parce qu’elle-même ou une autre personne est victime d’une surdose ou qui se trouve sur les lieux à l’arrivée des secours ne peut être accusée d’une infraction en lien avec la violation de conditions de mise en liberté provisoire, d’une ordonnance de probation, d’une ordonnance de sursis ou des modalités d’une libération conditionnelle relativement à une infraction prévue au paragraphe 4(1) si la preuve à l’appui de cette infraction a été obtenue ou révélée parce que cette personne a demandé du secours ou est restée sur les lieux.
+
+**Précision**
+
+- **(5)** Est réputée n’avoir jamais eu lieu la violation, relativement à une infraction visée au paragraphe 4(1), de conditions de mise en liberté provisoire, d’une ordonnance de probation, d’une ordonnance de sursis ou des modalités d’une libération conditionnelle qui résulte du fait que la personne a demandé, de toute urgence, l’intervention de professionnels de la santé ou d’agents d’application de la loi parce qu’elle-même ou une autre personne était victime d’une surdose ou est restée sur les lieux à l’arrivée des secours.
+> 2017, ch. 4, art. 2.
+
+
+
+
+
 **Trafic de substances**
 
 **5** 
