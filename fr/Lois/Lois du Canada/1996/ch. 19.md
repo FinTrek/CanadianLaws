@@ -1879,7 +1879,15 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 ### **ANNEXE III** 
 **(articles 2 à 7, 29, 55 et 60)**
 - **1** [Abrogé, 2012, ch. 1 art. 45]
-- **2** Méthylphénidate (ester méthylique de l’acide α–phénylpipéridine–2 acétique) et ses sels
+- **2** Méthylphénidate (méthyl 2-phényl-2-(pipéridin-2-yl)acétate), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues, notamment :
+- **(1)** Éthylphénidate (éthyl 2-phényl-2-(pipéridin-2-yl)acétate)
+- **(2)** Isopropylphénidate (isopropyl 2-phényl-2-(pipéridin-2-yl)acétate)
+- **(3)** Propylphénidate (propyl 2-phényl-2-(pipéridin-2-yl)acétate)
+- **(4)** 3,4-Dichlorométhylphénidate (méthyl 2-(3,4-dichlorophényl)-2-(pipéridin-2-yl)acétate)
+- **(5)** 4-Méthylméthylphénidate (méthyl 2-(4-méthylphényl)-2-(pipéridin-2-yl)acétate)
+- **(6)** 4-Fluorométhylphénidate (méthyl 2-(4-fluorophényl)-2-(pipéridin-2-yl)acétate)
+- **(7)** Méthylnaphthidate (méthyl 2-(naphthalén-2-yl)-2-(pipéridin-2-yl)acétate)
+- **(8)** Éthylnaphthidate (éthyl 2-(naphthalén-2-yl)-2-(pipéridin-2-yl)acétate)
 - **3** Méthaqualone (méthyl–2 (méthyl–2 phényl)–3 (3H)–quinazolinone–4) et ses sels
 - **4** Mécloqualone (méthyl–2 (chloro–2 phényl)–3 (3H)–quinazolinone–4) et ses sels
 - **5** Diéthylamide de l’acide lysergique (LSD) (N,N–diéthyllysergamide) et ses sels
@@ -1917,7 +1925,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **(2)** 4-chloro-2,5-diméthoxy-N-(2-méthoxybenzyle)phénéthylamine (25C-NBOMe)
 - **(3)** 4-iodo-2,5-diméthoxy-N-(2-méthoxybenzyle)phénéthylamine (25I-NBOMe)
 - **(4)** 4-bromo-2,5-diméthoxybenzèneéthanamine (2C-B)
-> 1996, ch. 19, ann. III; DORS/97-230, art. 7 à 10; DORS/98-173, art. 1; DORS/2000-220, art. 1; DORS/2003-32, art. 2, 3, 4(F) et 5; DORS/2003-412; DORS/2005-235, art. 2; 2012, ch. 1, art. 45 et 46; DORS/2012-66; DORS/2016-73; DORS/2016-107, art. 2; DORS/2017-13, art. 6.
+> 1996, ch. 19, ann. III; DORS/97-230, art. 7 à 10; DORS/98-173, art. 1; DORS/2000-220, art. 1; DORS/2003-32, art. 2, 3, 4(F) et 5; DORS/2003-412; DORS/2005-235, art. 2; 2012, ch. 1, art. 45 et 46; DORS/2012-66; DORS/2016-73; DORS/2016-107, art. 2; DORS/2017-13, art. 6; DORS/2017-44.
 
 
 
