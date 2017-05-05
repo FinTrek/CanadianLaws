@@ -35368,7 +35368,15 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 - **(1)** amphétamine (α-méthylbenzèneéthanamine)
 - **(2)** méthamphétamine (N,α-diméthylbenzèneéthanamine)
 - **(3)** benzphétamine (N-benzyl N,α-diméthylbenzèneéthanamine)
-- **2** Méthylphénidate (ester méthylique de l’acide α-phénylpipéridine-2 acétique) et ses sels
+- **2** Méthylphénidate (méthyl 2-phényl-2-(pipéridin-2-yl)acétate), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues, notamment :
+- **(1)** Éthylphénidate (éthyl 2-phényl-2-(pipéridin-2-yl)acétate)
+- **(2)** Isopropylphénidate (isopropyl 2-phényl-2-(pipéridin-2-yl)acétate)
+- **(3)** Propylphénidate (propyl 2-phényl-2-(pipéridin-2-yl)acétate)
+- **(4)** 3,4-Dichlorométhylphénidate (méthyl 2-(3,4-dichlorophényl)-2-(pipéridin-2-yl)acétate)
+- **(5)** 4-Méthylméthylphénidate (méthyl 2-(4-méthylphényl)-2-(pipéridin-2-yl)acétate)
+- **(6)** 4-Fluorométhylphénidate (méthyl 2-(4-fluorophényl)-2-(pipéridin-2-yl)acétate)
+- **(7)** Méthylnaphthidate (méthyl 2-(naphthalén-2-yl)-2-(pipéridin-2-yl)acétate)
+- **(8)** Éthylnaphthidate (éthyl 2-(naphthalén-2-yl)-2-(pipéridin-2-yl)acétate)
 - **3** Méthaqualone (méthyl-2 (méthyl-2 phényl)-3(3H)-quinazolinone-4) et ses sels
 - **4** Phendimétrazine (d-diméthyl-3,4 phényl-2 morpholine) et ses sels
 - **5** Phenmétrazine (méthyl-3 phényl-2 morpholine) et ses sels
@@ -35473,7 +35481,7 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 - **(42)** tiomestérone (bis(acétylthio)-1α,7α hydroxy-17ß méthyl-17 androstène-4 one-3)
 - **(43)** trenbolone (hydroxy-17ßestratriène-4,9,11 one-3)
 - **2** Zéranol (trihydroxy-7,14,16 méthyl-3 décahydro-3,4,5,6,- 7,8,9,10,11,12 1H-benzoxa-2 cyclotétradécinone-1)
-> DORS/78-427, art. 10; DORS/79-753, art. 1; DORS/81-84, art. 1; DORS/85-550, art. 14(F); DORS/86-678, art. 1; DORS/89-381, art. 1; DORS/92-386, art. 3; DORS/97-228, art. 21; DORS/99-425, art. 1; DORS/2003-34, art. 2 et 3; DORS/2003-413, art. 2; DORS/2015-210, art. 1; DORS/2016-106, art. 1; DORS/2017-12, art. 1, 2(A).
+> DORS/78-427, art. 10; DORS/79-753, art. 1; DORS/81-84, art. 1; DORS/85-550, art. 14(F); DORS/86-678, art. 1; DORS/89-381, art. 1; DORS/92-386, art. 3; DORS/97-228, art. 21; DORS/99-425, art. 1; DORS/2003-34, art. 2 et 3; DORS/2003-413, art. 2; DORS/2015-210, art. 1; DORS/2016-106, art. 1; DORS/2017-12, art. 1, 2(A); DORS/2017-43, art. 1.
 
 
 
