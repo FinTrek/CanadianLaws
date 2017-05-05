@@ -1914,7 +1914,15 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 ### **SCHEDULE III** 
 **(Sections 2 to 7, 29, 55 and 60)**
 - **1** [Repealed, 2012, c. 1, s. 45]
-- **2** Methylphenidate (α–phenyl–2–piperidineacetic acid methyl ester) and any salt thereof
+- **2** Methylphenidate (methyl 2-phenyl-2-(piperidin-2-yl)acetate), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues, including
+- **(1)** Ethylphenidate (ethyl 2-phenyl-2-(piperidin-2-yl)acetate)
+- **(2)** Isopropylphenidate (isopropyl 2-phenyl-2-(piperidin-2-yl)acetate)
+- **(3)** Propylphenidate (propyl 2-phenyl-2-(piperidin-2-yl)acetate)
+- **(4)** 3,4-Dichloromethylphenidate (methyl 2-(3,4-dichlorophenyl)-2-(piperidin-2-yl)acetate)
+- **(5)** 4-Methylmethylphenidate (methyl 2-(4-methylphenyl)-2-(piperidin-2-yl)acetate)
+- **(6)** 4-Fluoromethylphenidate (methyl 2-(4-fluorophenyl)-2-(piperidin-2-yl)acetate)
+- **(7)** Methylnaphthidate (methyl 2-(naphthalen-2-yl)-2-(piperidin-2-yl)acetate)
+- **(8)** Ethylnaphthidate (ethyl 2-(naphthalen-2-yl)-2-(piperidin-2-yl)acetate)
 - **3** Methaqualone (2–methyl–3–(2–methylphenyl)–4(3H)–quinazolinone) and any salt thereof
 - **4** Mecloqualone (2–methyl–3–(2–chlorophenyl)–4(3H)–quinazolinone) and any salt thereof
 - **5** Lysergic acid diethylamide (LSD) (N,N–diethyllysergamide) and any salt thereof
@@ -1952,7 +1960,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **(2)** 4-chloro-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine (25C-NBOMe)
 - **(3)** 4-iodo-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine (25I-NBOMe)
 - **(4)** 4-bromo-2,5-dimethoxybenzeneethanamine (2C-B)
-> 1996, c. 19, Sch. III; SOR/97-230, ss. 7 to 10; SOR/98-173, s. 1; SOR/2000-220, s. 1; SOR/2003-32, ss. 2, 3, 4(F), 5; SOR/2003-412; SOR/2005-235, s. 2; 2012, c. 1, ss. 45, 46; SOR/2012-66; SOR/2016-73; SOR/2016-107, s. 2; SOR/2017-13, s. 6.
+> 1996, c. 19, Sch. III; SOR/97-230, ss. 7 to 10; SOR/98-173, s. 1; SOR/2000-220, s. 1; SOR/2003-32, ss. 2, 3, 4(F), 5; SOR/2003-412; SOR/2005-235, s. 2; 2012, c. 1, ss. 45, 46; SOR/2012-66; SOR/2016-73; SOR/2016-107, s. 2; SOR/2017-13, s. 6; SOR/2017-44.
 
 
 
