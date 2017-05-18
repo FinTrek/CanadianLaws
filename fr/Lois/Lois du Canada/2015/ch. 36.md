@@ -559,7 +559,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_IndCB27_hq_16038'>[*]</a></sup>**86** La présente section entre en vigueur à la date fixée par décret.
 
-<a name='fn_IndCB27_hq_16038'><sup>*</sup></a>: [Note : Section 6 non en vigueur.]<br />
+<a name='fn_IndCB27_hq_16038'><sup>*</sup></a>: [Note : Section 6 en vigueur le 18 mai 2017, *voir* TR/2017-27.]<br />
 
 
 
