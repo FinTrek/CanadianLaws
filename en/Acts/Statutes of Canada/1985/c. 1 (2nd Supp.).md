@@ -4201,18 +4201,12 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 	- **(e)** where the officer suspects on reasonable grounds that this Act or the regulations or any other Act of Parliament administered or enforced by him or any regulations thereunder have been or might be contravened in respect of any goods, examine the goods and open or cause to be opened any package or container thereof; or
 	- **(f)** where the officer suspects on reasonable grounds that this Act or the regulations or any other Act of Parliament administered or enforced by him or any regulations thereunder have been or might be contravened in respect of any conveyance or any goods thereon, stop, board and search the conveyance, examine any goods thereon and open or cause to be opened any package or container thereof and direct that the conveyance be moved to a customs office or other suitable place for any such search, examination or opening.
 
-**Exception for mail**
-
-- **(2)** An officer may not open or cause to be opened any mail that is being imported or exported and that weighs thirty grams or less unless the person to whom it is addressed consents or the person who sent it has completed and attached to the mail a label in accordance with article RE 601 of the Letter Post Regulations of the Universal Postal Convention.
-
-**Exception for mail**
-
-- **(3)** An officer may cause imported mail, or mail that is being exported, that weighs thirty grams or less to be opened in his or her presence by the person to whom it is addressed, the person who sent it or a person authorized by either of those persons.
+- **(2) and (3)** [Repealed, 2017, c. 7, s. 52]
 
 **Samples**
 
 - **(4)** Samples taken pursuant to subsection (1) shall be disposed of in such manner as the Minister may direct.
-> R.S., 1985, c. 1 (2nd Supp.), s. 99; 1988, c. 65, s. 79; 2001, c. 25, s. 59.
+> R.S., 1985, c. 1 (2nd Supp.), s. 99; 1988, c. 65, s. 79; 2001, c. 25, s. 59; 2017, c. 7, s. 52.
 
 
 
