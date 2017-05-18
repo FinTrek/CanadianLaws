@@ -938,14 +938,8 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 
 - **(1)** An officer may examine any mail that is being imported or exported and open or cause to be opened any such mail that the officer suspects on reasonable grounds contains currency or monetary instruments of a value equal to or greater than the amount prescribed for the purpose of subsection 12(1).
 
-**Exception**
-
-- **(2)** An officer may not open or cause to be opened any mail that weighs 30 grams or less unless the person to whom it is addressed consents or the person who sent it consents or has completed and attached to the mail a label in accordance with article 116 of the Detailed Regulations of the Universal Postal Convention.
-
-**Opening of mail in officer’s presence**
-
-- **(3)** An officer may cause mail that weighs 30 grams or less to be opened in the officer’s presence by the person to whom it is addressed, the person who sent it or a person authorized by either of those persons.
-> 2000, c. 17, s. 17; 2001, c. 41, s. 57.
+- **(2) and (3)** [Repealed, 2017, c. 7, s. 53]
+> 2000, c. 17, s. 17; 2001, c. 41, s. 57; 2017, c. 7, s. 53.
 
 
 
