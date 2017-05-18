@@ -39,47 +39,51 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***analogue*** Qualifie toute substance dont la structure chimique est essentiellement la même que celle d’une substance désignée.
+***analogue*** Qualifie toute substance dont la structure chimique est essentiellement la même que celle d’une substance désignée. (*analogue*)
 
-***analyste*** Personne désignée à ce titre en application de l’article 44.
+***analyste*** Personne désignée à ce titre en application de l’article 44. (*analyst*)
 
-***arbitre*** Personne nommée ou employée sous le régime de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) et exerçant à ce titre les attributions prévues par la présente loi et ses règlements.
+***arbitre*** Personne nommée ou employée sous le régime de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) et exerçant à ce titre les attributions prévues par la présente loi et ses règlements. (*adjudicator*)
 
-***bien infractionnel*** Bien situé au Canada ou à l’extérieur du Canada, à l’exception des substances désignées, qui sert ou donne lieu à la perpétration d’une infraction désignée ou qui est utilisé de quelque manière dans la perpétration d’une telle infraction, ou encore qui est destiné à servir à une telle fin.
+***bien infractionnel*** Bien situé au Canada ou à l’extérieur du Canada, à l’exception des substances désignées, qui sert ou donne lieu à la perpétration d’une infraction désignée ou qui est utilisé de quelque manière dans la perpétration d’une telle infraction, ou encore qui est destiné à servir à une telle fin. (*offence-related property*)
 
-***fournir*** Procurer, même indirectement et notamment par don ou transfert, en échange ou non d’une contrepartie.
+***bureau de douane*** S’entend au sens du paragraphe 2(1) de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md). (*customs office*)
 
-***infraction désignée*** Soit toute infraction prévue par la partie I, à l’exception du paragraphe 4(1), soit le complot ou la tentative de commettre une telle infraction, la complicité après le fait à son égard ou le fait de conseiller de la commettre.
+***fournir*** Procurer, même indirectement et notamment par don ou transfert, en échange ou non d’une contrepartie. (*provide*)
 
-***inspecteur*** Personne désignée à ce titre en application de l’article 30.
+***infraction désignée*** Soit toute infraction prévue par la partie I, à l’exception du paragraphe 4(1), soit le complot ou la tentative de commettre une telle infraction, la complicité après le fait à son égard ou le fait de conseiller de la commettre. (*designated substance offence*)
 
-***juge*** Juge au sens de l’article 552 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou tout juge d’une cour supérieure de compétence criminelle.
+***inspecteur*** Personne désignée à ce titre en application de l’article 30. (*inspector*)
 
-***juge de paix*** S’entend au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+***instrument désigné*** Instrument inscrit à l’annexe IX. (*designated device*)
 
-***ministre*** Le ministre de la Santé.
+***juge*** Juge au sens de l’article 552 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou tout juge d’une cour supérieure de compétence criminelle. (*judge*)
 
-***possession*** S’entend au sens du paragraphe 4(3) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+***juge de paix*** S’entend au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*justice*)
 
-***praticien*** Personne qui, en vertu des lois d’une province, est agréée et est autorisée à exercer dans cette province la profession de médecin, de dentiste ou de vétérinaire. Y sont assimilées toute autre personne ou catégorie de personnes désignées par règlement.
+***ministre*** Le ministre de la Santé. (*Minister*)
 
-***précurseur*** Substance inscrite à l’annexe VI.
+***possession*** S’entend au sens du paragraphe 4(3) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*possession*)
+
+***praticien*** Personne qui est autorisée à exercer dans une province la profession de médecin, de dentiste ou de vétérinaire en vertu des lois de la province et est inscrite sous le régime de ces lois. Y sont assimilées toute autre personne ou catégorie de personnes désignées par règlement. (*practitioner*)
+
+***précurseur*** Substance inscrite à l’annexe VI. (*precursor*)
 
 ***procureur général***
 - **a)** Le procureur général du Canada et son substitut légitime;
-- **b)** à l’égard des poursuites intentées à la demande du gouvernement d’une province et menées par ce dernier ou en son nom, le procureur général de cette province et son substitut légitime.
+- **b)** à l’égard des poursuites intentées à la demande du gouvernement d’une province et menées par ce dernier ou en son nom, le procureur général de cette province et son substitut légitime. (*Attorney General*)
 
-***production*** Relativement à une substance inscrite à l’une ou l’autre des annexes I à IV, le fait de l’obtenir par quelque méthode que ce soit, et notamment par :
+***production*** Relativement à une substance inscrite à l’une ou l’autre des annexes I à V, le fait de l’obtenir par quelque méthode que ce soit, et notamment par :
 - **a)** la fabrication, la synthèse ou tout autre moyen altérant ses propriétés physiques ou chimiques;
 - **b)** la culture, la multiplication ou la récolte de la substance ou d’un organisme vivant dont il peut être extrait ou provenir de toute autre façon.
 
-Y est assimilée l’offre de produire.
+Y est assimilée l’offre de produire. (*produce*)
 
-***substance désignée*** Substance inscrite à l’une ou l’autre des annexes I, II, III, IV ou V.
+***substance désignée*** Substance inscrite à l’une ou l’autre des annexes I, II, III, IV ou V. (*controlled substance*)
 
-***trafic*** Relativement à une substance inscrite à l’une ou l’autre des annexes I à IV, toute opération de vente — y compris la vente d’une autorisation visant son obtention —, d’administration, de don, de cession, de transport, d’expédition ou de livraison portant sur une telle substance — ou toute offre d’effectuer l’une de ces opérations — qui sort du cadre réglementaire.
+***trafic*** Relativement à une substance inscrite à l’une ou l’autre des annexes I à V, toute opération de vente — y compris la vente d’une autorisation visant son obtention —, d’administration, de don, de transfert, de transport, d’expédition ou de livraison portant sur une telle substance — ou toute offre d’effectuer l’une de ces opérations — qui sort du cadre réglementaire. (*traffic*)
 
-***vente*** Y est assimilé le fait de mettre en vente, d’exposer ou d’avoir en sa possession pour la vente ou de distribuer, que la distribution soit faite ou non à titre onéreux.
+***vente*** Y est assimilé le fait de mettre en vente, d’exposer ou d’avoir en sa possession pour la vente ou de distribuer, que la distribution soit faite ou non à titre onéreux. (*sell*)
 
 **Interprétation**
 
@@ -92,7 +96,7 @@ Y est assimilée l’offre de produire.
 **Interprétation**
 
 - **(3)** Pour l’application de la présente loi, les substances figurant expressément dans l’une ou l’autre des annexes I à VI sont réputées exclues de celles de ces annexes dans lesquelles elles ne figurent pas expressément.
-> 1996, ch. 8, art. 35, ch. 19, art. 2; 2001, ch. 32, art. 47.
+> 1996, ch. 8, art. 35, ch. 19, art. 2; 2001, ch. 32, art. 47; 2017, ch. 7, art. 1.
 
 
 
@@ -210,11 +214,11 @@ Y est assimilée l’offre de produire.
 
 **5** 
 
-- **(1)** Il est interdit de faire le trafic de toute substance inscrite aux annexes I, II, III ou IV ou de toute substance présentée ou tenue pour telle par le trafiquant.
+- **(1)** Il est interdit de faire le trafic de toute substance inscrite aux annexes I, II, III, IV ou V ou de toute substance présentée ou tenue pour telle par le trafiquant.
 
 **Possession en vue du trafic**
 
-- **(2)** Il est interdit d’avoir en sa possession, en vue d’en faire le trafic, toute substance inscrite aux annexes I, II, III ou IV.
+- **(2)** Il est interdit d’avoir en sa possession, en vue d’en faire le trafic, toute substance inscrite aux annexes I, II, III, IV ou V.
 
 **Peine**
 
@@ -232,7 +236,7 @@ Y est assimilée l’offre de produire.
 			- **(B)** a commis l’infraction à l’intérieur d’une prison au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou sur le terrain d’un tel établissement,
 			- **(C)** a eu recours aux services d’une personne de moins de dix-huit ans pour la perpétration de l’infraction ou l’y a mêlée;
 	- **a.1)** dans le cas de substances inscrites à la fois à l’annexe II et à l’annexe VII, et ce, pourvu que la quantité en cause n’excède pas celle mentionnée à cette dernière annexe, un acte criminel passible d’un emprisonnement maximal de cinq ans moins un jour;
-	- **b)** dans le cas de substances inscrites à l’annexe III :
+	- **b)** dans le cas de substances inscrites aux annexes III ou V :
 		- **(i)** soit un acte criminel passible d’un emprisonnement maximal de dix ans,
 		- **(ii)** soit une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois;
 	- **c)** dans le cas de substances inscrites à l’annexe IV :
@@ -243,12 +247,12 @@ Y est assimilée l’offre de produire.
 
 **Interprétation**
 
-- **(5)** Dans le cadre de l’application du paragraphe (3) à l’égard d’une infraction prévue au paragraphe (1), la mention d’une substance inscrite aux annexes I, II, III ou IV vaut également mention de toute substance présentée ou tenue pour telle.
+- **(5)** Dans le cadre de l’application du paragraphe (3) à l’égard d’une infraction prévue au paragraphe (1), la mention d’une substance inscrite aux annexes I, II, III, IV ou V vaut également mention de toute substance présentée ou tenue pour telle.
 
 **Définition de quantité**
 
 - **(6)** Pour l’application de l’alinéa (3)a.1) et de l’annexe VII, ***quantité*** s’entend du poids total de tout mélange, substance ou plante dans lequel on peut déceler la présence de la substance en cause.
-> 1996, ch. 19, art. 5; 2012, ch. 1, art. 39.
+> 1996, ch. 19, art. 5; 2012, ch. 1, art. 39; 2017, ch. 7, art. 3.
 
 
 
@@ -272,23 +276,23 @@ Y est assimilée l’offre de produire.
 		- **(ii)** la personne, en perpétrant l’infraction, a commis un abus de confiance ou un abus d’autorité,
 		- **(iii)** la personne avait accès à une zone réservée aux personnes autorisées et a utilisé cet accès pour perpétrer l’infraction;
 	- **a.1)** dans le cas de substances inscrites à l’annexe I, et ce, pourvu que la quantité en cause excède 1 kg, un acte criminel passible de l’emprisonnement à perpétuité, la durée de l’emprisonnement ne pouvant être inférieure à deux ans;
-	- **b)** dans le cas de substances inscrites aux annexes III ou VI :
+	- **b)** dans le cas de substances inscrites aux annexes III, V ou VI :
 		- **(i)** soit un acte criminel passible d’un emprisonnement maximal de dix ans,
 		- **(ii)** soit une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois;
-	- **c)** dans le cas de substances inscrites aux annexes IV ou V :
+	- **c)** dans le cas de substances inscrites à l’annexe IV :
 		- **(i)** soit un acte criminel passible d’un emprisonnement maximal de trois ans,
 		- **(ii)** soit une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal d’un an.
-> 1996, ch. 19, art. 6; 2012, ch. 1, art. 40.
+> 1996, ch. 19, art. 6; 2012, ch. 1, art. 40; 2017, ch. 7, art. 4.
 
 
 
 
 
-**Production**
+**Production de substance**
 
 **7** 
 
-- **(1)** Sauf dans les cas autorisés aux termes des règlements, la production de toute substance inscrite aux annexes I, II, III ou IV est interdite.
+- **(1)** Sauf dans les cas autorisés aux termes des règlements, la production de toute substance inscrite aux annexes I, II, III, IV ou V est interdite.
 
 **Peine**
 
@@ -304,7 +308,7 @@ Y est assimilée l’offre de produire.
 		- **(iv)** à dix-huit mois, si le nombre de plantes en cause est supérieur à 200 mais inférieur à 501 et que l’infraction est commise dans l’une ou l’autre des circonstances prévues au paragraphe (3),
 		- **(v)** à deux ans, si le nombre de plantes en cause est supérieur à 500,
 		- **(vi)** à trois ans, si le nombre de plantes en cause est supérieur à 500 et que l’infraction est commise dans l’une ou l’autre des circonstances prévues au paragraphe (3);
-	- **c)** dans le cas de substances inscrites à l’annexe III :
+	- **c)** dans le cas de substances inscrites aux annexes III ou V :
 		- **(i)** soit un acte criminel passible d’un emprisonnement maximal de dix ans,
 		- **(ii)** soit une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois;
 	- **d)** dans le cas de substances inscrites à l’annexe IV :
@@ -318,22 +322,30 @@ Y est assimilée l’offre de produire.
 	- **b)** la production a créé un risque d’atteinte à la santé ou à la sécurité de personnes de moins de dix-huit ans présentes dans le lieu où l’infraction a été commise ou à proximité;
 	- **c)** la production a créé un risque d’atteinte à la sécurité publique dans un secteur résidentiel;
 	- **d)** la personne a mis, dans le lieu où l’infraction a été commise ou à proximité, des trappes, appareils ou autres choses susceptibles de causer la mort ou des lésions corporelles à autrui ou a permis que de telles choses y soient mises ou y demeurent.
-> 1996, ch. 19, art. 7; 2012, ch. 1, art. 41.
+> 1996, ch. 19, art. 7; 2012, ch. 1, art. 41; 2017, ch. 7, art. 5.
 
 
 
 
 
-**Possession etc., pour utilisation dans la production ou le trafic**
+**Possession, vente, etc., pour utilisation dans la production ou le trafic**
 
 **7.1** 
 
-- **(1)** Il est interdit d’avoir en sa possession, de produire, de vendre ou d’importer toute chose sachant qu’elle sera utilisée pour la production d’une substance inscrite à l’article 18 de l’annexe I ou au paragraphe 1(9) de l’annexe III ou pour faire le trafic d’une telle substance.
+- **(1)** Il est interdit d’avoir en sa possession, de produire, de vendre, d’importer ou de transporter toute chose dans l’intention qu’elle soit utilisée à l’une des fins suivantes :
+	- **a)** pour la production d’une substance désignée, sauf autorisation légitime de la produire;
+	- **b)** pour faire le trafic d’une substance désignée.
 
 **Peine**
 
-- **(2)** Quiconque contrevient au paragraphe (1) commet un acte criminel passible d’un emprisonnement maximal de dix ans moins un jour.
-> 2011, ch. 14, art. 1.
+- **(2)** Quiconque contrevient au paragraphe (1) commet :
+	- **a)** dans le cas de substances inscrites aux annexes I, II, III ou V :
+		- **(i)** soit un acte criminel passible d’un emprisonnement maximal de dix ans,
+		- **(ii)** soit une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois;
+	- **b)** dans le cas de substances inscrites à l’annexe IV :
+		- **(i)** soit un acte criminel passible d’un emprisonnement maximal de trois ans,
+		- **(ii)** soit une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal d’un an.
+> 2011, ch. 14, art. 1; 2017, ch. 7, art. 6.
 
 
 
@@ -387,8 +399,8 @@ Y est assimilée l’offre de produire.
 	- **a)** relativement à la perpétration de cette infraction :
 		- **(i)** soit portait ou a utilisé ou menacé d’utiliser une arme,
 		- **(ii)** soit a eu recours ou a menacé de recourir à la violence,
-		- **(iii)** soit a fait le trafic d’une substance inscrite aux annexes I, II, III ou IV — ou l’a eue en sa possession en vue d’en faire le trafic — à l’intérieur d’une école, sur le terrain d’une école ou près de ce terrain ou dans tout autre lieu public normalement fréquenté par des personnes de moins de dix-huit ans ou près d’un tel lieu,
-		- **(iv)** soit a fait le trafic d’une substance inscrite aux annexes I, II, III ou IV — ou l’a eue en sa possession en vue d’en faire le trafic — auprès d’une personne de moins de dix-huit ans;
+		- **(iii)** soit a fait le trafic d’une substance inscrite aux annexes I, II, III, IV ou V — ou l’a eue en sa possession en vue d’en faire le trafic — à l’intérieur d’une école ou près de celle-ci, sur le terrain d’une école ou près de ce terrain ou dans tout autre lieu public normalement fréquenté par des personnes de moins de dix-huit ans ou près d’un tel lieu,
+		- **(iv)** soit a fait le trafic d’une substance inscrite aux annexes I, II, III, IV ou V — ou l’a eue en sa possession en vue d’en faire le trafic — auprès d’une personne de moins de dix-huit ans;
 	- **b)** a déjà été reconnue coupable d’une infraction désignée;
 	- **c)** a eu recours aux services d’une personne de moins de dix-huit ans pour la perpétration de l’infraction ou l’y a mêlée.
 
@@ -405,7 +417,7 @@ Y est assimilée l’offre de produire.
 **Peine minimale**
 
 - **(5)** Le tribunal n’est pas tenu d’infliger une peine minimale d’emprisonnement à la personne qui termine avec succès un programme visé au paragraphe (4).
-> 1996, ch. 19, art. 10; 1999, ch. 5, art. 49; 2012, ch. 1, art. 43.
+> 1996, ch. 19, art. 10; 1999, ch. 5, art. 49; 2012, ch. 1, art. 43; 2017, ch. 7, art. 7.
 
 
 
@@ -440,7 +452,7 @@ Y est assimilée l’offre de produire.
 
 **Effet du visa**
 
-- **(4)** Le visa confère à tout agent de la paix à qui le mandat était adressé en premier lieu, ainsi qu’à ceux de la circonscription territoriale en cause, tant le pouvoir d’exécuter le mandat que celui de disposer, selon le droit applicable, des biens saisis.
+- **(4)** Le visa confère à tout agent de la paix à qui le mandat était adressé en premier lieu, ainsi qu’à ceux de la circonscription territoriale en cause, tant le pouvoir d’exécuter le mandat que celui de disposer, conformément au droit applicable, des choses saisies.
 
 **Fouilles et saisies**
 
@@ -461,7 +473,7 @@ Y est assimilée l’offre de produire.
 **Saisie d’autres choses**
 
 - **(8)** L’agent de la paix qui exécute le mandat ou qui exerce les pouvoirs visés aux paragraphes (5) ou (7) peut, en plus des choses mentionnées au mandat et au paragraphe (6), saisir toute chose dont il a des motifs raisonnables de croire qu’elle a été obtenue ou utilisée dans le cadre de la perpétration d’une infraction ou qu’elle servira de preuve à l’égard de celle-ci.
-> 1996, ch. 19, art. 11; 2005, ch. 44, art. 13.
+> 1996, ch. 19, art. 11; 2005, ch. 44, art. 13; 2017, ch. 7, art. 9.
 
 
 
@@ -897,10 +909,10 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 - **(1)** Le ministre peut, conformément aux règlements pris aux termes de l’alinéa 55(1)n), désigner quiconque à titre d’inspecteur pour l’application de la présente loi et de ses règlements.
 
-**Production du certificat**
+**Certificat**
 
-- **(2)** L’inspecteur reçoit un certificat réglementaire attestant sa qualité, qu’il produit, sur demande, au responsable du lieu visé au paragraphe 31(1) ou d’un site visé à l’un des paragraphes 31(1.1) ou (1.2).
-> 1996, ch. 19, art. 30; 2015, ch. 22, art. 2.
+- **(2)** L’inspecteur reçoit un certificat, en la forme établie par le ministre, attestant sa qualité, qu’il présente, sur demande, au responsable du lieu dans lequel il entre au titre du paragraphe 31(1).
+> 1996, ch. 19, art. 30; 2015, ch. 22, art. 2; 2017, ch. 7, art. 25.
 
 
 
@@ -910,35 +922,56 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 **31** 
 
-- **(1)** L’inspecteur peut, pour assurer l’application des règlements, procéder, à toute heure convenable, à la visite de tout lieu où il a des motifs raisonnables de croire que le titulaire d’une autorisation ou d’une licence réglementaire — l’habilitant à se livrer à des opérations à l’égard de substances désignées ou de précurseurs — exerce son activité commerciale ou professionnelle. Il peut alors à cette fin :
-	- **a)** ouvrir et examiner tout emballage ou autre contenant trouvé sur les lieux et pouvant contenir une substance désignée ou un précurseur;
-	- **b)** examiner toute chose trouvée sur les lieux et servant — ou susceptible de servir — à la production, à la conservation, à l’emballage ou au stockage d’une substance désignée ou d’un précurseur;
-	- **c)** examiner le matériel d’étiquetage ou publicitaire, les livres, les registres, les données électroniques et tous autres documents trouvés sur les lieux et se rapportant à une substance désignée ou à un précurseur, à l’exception des dossiers sur l’état de santé de personnes, et les reproduire en tout ou en partie;
+- **(1)** Sous réserve du paragraphe (2), l’inspecteur peut, à toute fin liée à la vérification du respect ou à la prévention du non-respect des dispositions de la présente loi ou de ses règlements, entrer dans tout lieu — y compris un moyen de transport — visé au paragraphe (1.1). Il peut alors à cette fin :
+	- **a)** ouvrir et examiner tout emballage ou autre contenant trouvé sur les lieux et pouvant contenir une substance désignée, un précurseur ou un instrument désigné;;
+	- **b)** examiner toute chose trouvée sur les lieux et servant — ou susceptible de servir — à la production, à la conservation, à l’emballage ou à l’entreposage d’une substance désignée ou d’un précurseur;
+	- **c)** examiner le matériel d’étiquetage ou publicitaire, les livres, les registres, les données électroniques et tous autres documents trouvés sur les lieux et se rapportant à une substance désignée, à un précurseur ou à un instrument désigné, à l’exception des dossiers sur l’état de santé de personnes, et les reproduire en tout ou en partie;
 	- **d)** utiliser ou voir à ce que soit utilisé, pour examen des données électroniques visées à l’alinéa c), tout système informatique se trouvant sur les lieux;
 	- **e)** reproduire ou faire reproduire, notamment sous forme d’imprimé, tout document contenu dans ces données;
 	- **f)** emporter, pour examen ou reproduction, tout document visé à l’alinéa c), de même que tout document tiré des données électroniques conformément à l’alinéa e);
 	- **g)** utiliser ou voir à ce que soit utilisé, pour reproduction de documents, tout appareil de reproduction se trouvant sur les lieux;
+	- **g.1)** prendre des photographies, effectuer des enregistrements et faire des croquis;
 	- **h)** examiner toute substance trouvée sur les lieux et en prélever, en tant que de besoin, des échantillons pour analyse;
-	- **i)** saisir et retenir, conformément à la présente partie, toute substance désignée ou tout précurseur dont il juge, pour des motifs raisonnables, la saisie et la rétention nécessaire.
+	- **i)** saisir et retenir, conformément à la présente partie, toute substance désignée, tout précurseur, tout instrument désigné ou tout moyen de transport qui se trouve sur les lieux dont il a des motifs raisonnables de croire que la saisie et la rétention sont nécessaires;
+	- **j)** ordonner au propriétaire de toute substance désignée, de tout précurseur, de tout instrument désigné ou de toute autre chose visée par les dispositions de la présente loi ou de ses règlements qui se trouve sur les lieux ou à la personne qui en a la possession, la responsabilité ou la charge de le déplacer, ou encore de ne pas le déplacer ou d’en limiter le déplacement aussi longtemps que nécessaire;
+	- **k)** ordonner au propriétaire de tout moyen de transport qui se trouve sur les lieux et dont l’inspecteur a des motifs raisonnables de croire qu’il contient une substance désignée, un précurseur ou un instrument désigné, ou à la personne qui en a la possession, la responsabilité ou la charge d’arrêter le moyen de transport, de le déplacer, ou encore de ne pas le déplacer ou d’en limiter le déplacement aussi longtemps que nécessaire;
+	- **l)** ordonner à quiconque se trouve sur les lieux d’établir, à sa satisfaction, son identité;
+	- **m)** ordonner à quiconque exerce, sur les lieux, une activité à laquelle s’appliquent les dispositions de la présente loi ou de ses règlements d’arrêter de l’exercer ou de la reprendre.
 
-**Pouvoirs des inspecteurs — visite des sites de consommation supervisée**
+**Lieu**
 
-- **(1.1)** L’inspecteur peut, lorsqu’une demande d’exemption pour des raisons médicales présentée au ministre au titre du paragraphe 56.1(2) vise à permettre l’exercice de certaines activités dans un site de consommation supervisée, au sens du paragraphe 56.1(1), procéder, à toute heure convenable, à la visite de ce site pour vérifier tout renseignement relatif à cette demande. Il peut alors, à cette fin, exercer les pouvoirs prévus aux alinéas (1)a) à i).
+- **(1.1)** Pour l’application du paragraphe (1), l’inspecteur ne peut entrer dans un lieu que s’il a des motifs raisonnables de croire, selon le cas :
+	- **a)** que s’y trouve une substance désignée, un précurseur, un instrument désigné ou un document relatif à l’application de la présente loi et de ses règlements;
+	- **b)** qu’une opération pourrait y être effectuée en vertu d’une licence, d’un permis, d’une autorisation ou d’une exemption dont la délivrance est à l’étude par le ministre;
+	- **c)** qu’y est effectuée une opération à laquelle s’appliquent les dispositions de la présente loi ou de ses règlements;
+	- **d)** qu’avant l’échéance ou la révocation de toute licence, tout permis, toute autorisation ou toute exemption, une opération autorisée par celui-ci y a été effectuée, l’inspecteur n’étant toutefois autorisé à entrer dans ce lieu que dans les quarante-cinq jours suivant la date d’échéance ou de révocation.
 
-**Pouvoirs des inspecteurs — visite des sites de consommation supervisée**
+**Moyens de télécommunication**
 
-- **(1.2)** L’inspecteur peut procéder, à toute heure convenable, à la visite de tout site de consommation supervisée, au sens du paragraphe 56.1(1), pour toute fin liée à la vérification du respect des dispositions de la présente loi ou de ses règlements, ou des conditions fixées par le ministre dans une exemption accordée en vertu du paragraphe 56.1(2), ou à la prévention de leur non-respect. Il peut alors, à l’une ou l’autre de ces fins, exercer les pouvoirs prévus aux alinéas (1)a) à i).
+- **(1.2)** Pour l’application des paragraphes (1) et (1.1), est considéré comme une entrée dans un lieu le fait d’y entrer à distance à l’aide d’un moyen de télécommunication.
 
-**Perquisition d’un local d’habitation**
+**Limites au droit d’accès à l’aide de moyens de télécommunication**
 
-- **(2)** Dans le cas d’un local d’habitation, l’inspecteur ne peut toutefois procéder à la visite sans le consentement de l’un de ses occupants que s’il est muni du mandat prévu au paragraphe (3).
+- **(1.3)** L’inspecteur qui entre à distance, à l’aide d’un moyen de télécommunication, dans un lieu non accessible au public le fait à la connaissance du propriétaire ou du responsable du lieu et limite la durée de sa visite à ce qui est nécessaire à toute fin prévue au paragraphe (1).
+
+**Accompagnateurs de l’inspecteur**
+
+- **(1.4)** L’inspecteur peut être accompagné des personnes qu’il estime nécessaires pour l’aider dans l’exercice de ses attributions au titre du présent article.
+
+**Droit de passage sur une propriété privée**
+
+- **(1.5)** L’inspecteur et toute personne l’accompagnant peuvent, afin d’accéder au lieu visé au paragraphe (1.1), pénétrer dans une propriété privée — à l’exclusion de toute maison d’habitation — et y circuler.
+
+**Mandat pour maison d’habitation**
+
+- **(2)** Dans le cas d’une maison d’habitation, l’inspecteur ne peut toutefois entrer dans le lieu sans le consentement de l’un de ses occupants que s’il est muni du mandat prévu au paragraphe (3).
 
 **Délivrance du mandat**
 
-- **(3)** Sur demande *ex parte*, le juge de paix peut, s’il est convaincu sur la foi d’une dénonciation faite sous serment que sont réunis les éléments énumérés ci-dessous, délivrer un mandat autorisant, sous réserve des conditions éventuellement fixées, l’inspecteur qui y est nommé à procéder à la visite et à exercer les pouvoirs mentionnés aux alinéas (1)a) à i) :
-	- **a)** le lieu est un local d’habitation, mais remplit par ailleurs les conditions de visite visées aux paragraphes (1) ou (1.2);
-	- **b)** il est nécessaire de procéder à la visite pour assurer l’application des règlements;
-	- **c)** un refus a été opposé à la visite ou il y a des motifs raisonnables de croire que tel sera le cas.
+- **(3)** Sur demande *ex parte*, le juge de paix peut, s’il est convaincu sur la foi d’une dénonciation sous serment que sont réunis les éléments énumérés ci-après, délivrer un mandat autorisant, sous réserve des conditions éventuellement fixées, l’inspecteur qui y est nommé à entrer dans un lieu et à exercer les pouvoirs mentionnés aux alinéas (1)a) à m) :
+	- **a)** le lieu est une maison d’habitation, mais remplit par ailleurs les conditions d’entrée visées aux paragraphes (1) et (1.1);
+	- **b)** l’entrée est nécessaire à toute fin liée à la vérification du respect ou à la prévention du non-respect des dispositions de la présente loi ou de ses règlements;
+	- **c)** un refus a été opposé à l’entrée ou il y a des motifs raisonnables de croire que tel sera le cas.
 
 **Usage de la force**
 
@@ -946,24 +979,24 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 **Assistance à l’inspecteur**
 
-- **(5)** Le propriétaire ou le responsable du lieu visité, ainsi que quiconque s’y trouve, sont tenus de prêter à l’inspecteur toute l’assistance raisonnable et de lui donner les renseignements qu’il peut valablement exiger.
+- **(5)** Le propriétaire ou le responsable du lieu, ainsi que quiconque s’y trouve, sont tenus de prêter à l’inspecteur toute l’assistance raisonnable et de lui donner les renseignements qu’il peut valablement exiger.
 
 **Entreposage**
 
-- **(6)** Les substances désignées ou les précurseurs qui ont été saisis et retenus par l’inspecteur peuvent, à son appréciation, être entreposés sur les lieux mêmes de la saisie; ils peuvent également, sur ses ordres, être transférés dans un autre lieu convenable.
+- **(6)** Les choses saisies et retenues par l’inspecteur en vertu du présent article peuvent, à son appréciation, être entreposées sur les lieux mêmes de la saisie ou, sur ses ordres, être transférées dans un autre lieu convenable.
 
 **Avis**
 
-- **(7)** L’inspecteur qui procède à la saisie de substances désignées ou de précurseurs prend les mesures justifiées dans les circonstances pour aviser le propriétaire ou le responsable du lieu visité de la saisie et de l’endroit où se trouvent les biens saisis.
+- **(7)** L’inspecteur qui procède à la saisie de choses en vertu du présent article prend toute mesure raisonnable dans les circonstances pour aviser le propriétaire ou le responsable du lieu qu’une saisie a été effectuée et de l’endroit où se trouvent les choses saisies.
 
-**Restitution des biens saisis**
+**Restitution des choses saisies**
 
-- **(8)** L’inspecteur qui juge que la rétention des substances désignées ou des précurseurs saisis par lui aux termes de l’alinéa (1)i) n’est plus nécessaire pour assurer l’application des règlements ou le respect des conditions fixées par le ministre dans une exemption accordée en vertu du paragraphe 56.1(2) en avise par écrit le propriétaire ou le responsable du lieu de la saisie, selon le cas, et, sur remise d’un reçu à cet effet, lui restitue les biens.
+- **(8)** L’inspecteur qui juge que la rétention des choses saisies par lui en vertu du présent article n’est plus nécessaire pour la vérification du respect ou la prévention du non-respect des dispositions de la présente loi ou de ses règlements en avise par écrit le propriétaire ou le responsable du lieu de la saisie et, sur remise d’un reçu à cet effet, lui restitue les choses.
 
 **Restitution ou disposition par le ministre**
 
-- **(9)** Indépendamment des articles 24, 25 et 27, les substances désignées ou précurseurs qui ont été saisis aux termes de l’alinéa (1)i) et qui n’ont pas, dans les cent vingt jours suivant leur saisie, été restitués par l’inspecteur aux termes du paragraphe (8) doivent, selon les instructions du ministre, être restitués ou faire l’objet d’une autre forme de disposition, conformément aux règlements applicables.
-> 1996, ch. 19, art. 31; 2015, ch. 22, art. 3.
+- **(9)** Malgré les articles 24, 25 et 27, les choses saisies en vertu du présent article qui n’ont pas, dans les cent vingt jours suivant la date de leur saisie, été restituées en application du paragraphe (8) doivent, conformément aux règlements ou, à défaut, de la manière prévue par le ministre, être restituées ou faire l’objet d’une disposition.
+> 1996, ch. 19, art. 31; 2015, ch. 22, art. 3; 2017, ch. 7, art. 26.
 
 
 
@@ -973,7 +1006,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 **32** 
 
-- **(1)** Lorsque l’inspecteur agit dans l’exercice de ses fonctions, il est interdit d’entraver, même par omission, son action.
+- **(1)** Lorsque l’inspecteur agit dans l’exercice de ses attributions, il est interdit d’entraver, même par omission, son action.
 
 **Fausses déclarations**
 
@@ -981,7 +1014,9 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 **Interdiction**
 
-- **(3)** Il est interdit, sans l’autorisation de l’inspecteur, de déplacer les biens saisis, retenus ou emportés en application de l’article 31 ou d’en modifier l’état de quelque manière que ce soit.
+- **(3)** Il est interdit, sans l’autorisation de l’inspecteur, de déplacer les choses saisies, retenues ou emportées en application de l’article 31 ou d’en modifier l’état de quelque manière que ce soit.
+> 1996, ch. 19, art. 32; 2017, ch. 7, art. 27.
+
 
 
 
@@ -1158,15 +1193,177 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 
 
+### Arrêtés du ministre
+
+
+
+**Fourniture de renseignements**
+
+**45.1** Le ministre peut, par arrêté, ordonner à une personne qui est autorisée sous le régime de la présente loi à effectuer des opérations relativement à des substances désignées ou à des précurseurs ou qui importe des instruments désignés de lui fournir, dans le délai et de la manière qu’il précise, tout renseignement relatif à ces opérations ou importations qu’il estime nécessaire aux fins suivantes :
+- **a)** vérifier le respect ou prévenir le non-respect des dispositions de la présente loi ou de ses règlements;
+- **b)** régler une question en matière de sécurité ou de santé publiques.
+> 2017, ch. 7, art. 30.
+
+
+
+
+
+**Mesures**
+
+**45.2** Le ministre peut, par arrêté, ordonner à une personne qui est autorisée sous le régime de la présente loi à effectuer des opérations relativement à des substances désignées ou à des précurseurs de prendre, dans le délai et de la manière qu’il précise, toute mesure visant à prévenir le non-respect des dispositions de la présente loi ou de ses règlements ou, s’il a des motifs raisonnables de croire qu’il y a un tel non-respect, visant à y remédier.
+> 2017, ch. 7, art. 30.
+
+
+
+
+
+**Réviseurs**
+
+**45.3** Le ministre peut désigner à titre de réviseur — personnellement ou au titre de son appartenance à une catégorie donnée — tout individu compétent pour procéder aux révisions prévues à l’article 45.4.
+> 2017, ch. 7, art. 30.
+
+
+
+
+
+**Demande de révision**
+
+**45.4** 
+
+- **(1)** Sous réserve des autres dispositions du présent article, l’arrêté pris en vertu des articles 45.1 ou 45.2 ne peut être révisé que sur des questions de fait ou des questions mixtes de fait et de droit, et ce, par un réviseur — autre que l’individu qui l’a pris — sur demande écrite de son destinataire.
+
+**Contenu de la demande et délai pour la déposer**
+
+- **(2)** La demande est motivée, elle énonce les éléments de preuve à son appui — notamment la preuve n’ayant pas été prise en considération par l’individu qui a pris l’arrêté — ainsi que la décision demandée et elle est déposée auprès du ministre dans les sept jours suivant la date de la communication de l’arrêté.
+
+**Refus**
+
+- **(3)** La révision est refusée si la demande ne satisfait pas aux exigences du paragraphe (2) ou si elle est frivole, vexatoire ou entachée de mauvaise foi.
+
+**Motifs du refus**
+
+- **(4)** Le refus est communiqué sans délai par écrit au demandeur, motifs à l’appui.
+
+**Révision à l’initiative du réviseur**
+
+- **(5)** Tout réviseur — autre que l’individu qui a pris l’arrêté — peut procéder à la révision même en l’absence de la demande prévue au paragraphe (1).
+
+**Absence de suspension**
+
+- **(6)** À moins que le réviseur n’en décide autrement, la révision n’a pas pour effet de suspendre la mise en oeuvre de l’arrêté.
+
+**Délai de la révision**
+
+- **(7)** Le réviseur termine la révision dans les trente jours suivant la date à laquelle la demande a été déposée.
+
+**Prolongation**
+
+- **(8)** Il pourra toutefois prolonger le délai de révision d’au plus trente jours chaque fois s’il estime qu’il ne pourra terminer la révision dans le délai prévu. Le délai peut être prolongé plus d’une fois.
+
+**Motifs**
+
+- **(9)** La prolongation est communiquée sans délai par écrit au demandeur, motifs à l’appui.
+
+**Issue de la révision**
+
+- **(10)** Au terme de la révision, le réviseur confirme, modifie, révoque ou annule l’arrêté.
+
+**Avis écrit**
+
+- **(11)** Un avis écrit et motivé de la décision prise au titre du paragraphe (10) est communiqué sans délai au demandeur ou, à défaut de demande, au destinataire de l’arrêté.
+
+**Effet de la modification**
+
+- **(12)** L’arrêté modifié est susceptible de révision conformément au présent article.
+> 2017, ch. 7, art. 30.
+
+
+
+
+
+**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+**45.5** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas aux arrêtés pris en application des articles 45.1 ou 45.2.
+> 2017, ch. 7, art. 30.
+
+
+
+
+
 ### Infraction et peine
 
 
 
 **Peine**
 
-**46** Quiconque contrevient à une disposition de la présente loi pour laquelle aucune peine n’est spécifiquement prévue ou à un règlement — à l’exception des règlements spéciaux visés à la partie V — commet :
+**46** Quiconque contrevient à une disposition de la présente loi pour laquelle aucune peine n’est spécifiquement prévue, à une disposition d’un règlement ou à un arrêté pris en vertu des articles 45.1 ou 45.2 commet :
 - **a)** soit un acte criminel passible d’une amende maximale de cinq mille dollars et d’un emprisonnement maximal de trois ans, ou de l’une de ces peines;
 - **b)** soit une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’une amende maximale de mille dollars et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
+> 1996, ch. 19, art. 46; 2017, ch. 7, art. 33.
+
+
+
+
+
+### Interdictions
+
+
+
+**Déclarations fausses ou trompeuses**
+
+**46.1** Nul ne peut sciemment, dans un livre, registre, rapport ou autre document — quel que soit son support matériel — à établir aux termes de la présente loi ou de ses règlements, faire ou consentir à ce que soit faite une déclaration fausse ou trompeuse, participer à une telle déclaration ou y acquiescer.
+> 2017, ch. 7, art. 34.
+
+
+
+
+
+**Respect des conditions**
+
+**46.2** Le titulaire d’une licence, d’un permis, d’une autorisation ou d’une exemption est tenu de se conformer à toute condition dont ceux-ci sont assortis.
+> 2017, ch. 7, art. 34.
+
+
+
+
+
+**Importation d’instruments désignés**
+
+**46.3** 
+
+- **(1)** L’importation d’un instrument désigné est interdite sauf lorsqu’elle est enregistrée par le ministre.
+
+**Renseignements aux fins de l’enregistrement**
+
+- **(2)** Les renseignements ci-après sont fournis au ministre aux fins de l’enregistrement de l’importation de l’instrument désigné :
+	- **a)** le nom de la personne qui importe l’instrument désigné ou, s’il s’agit d’une personne morale, sa dénomination sociale et tout autre nom enregistré auprès d’une province sous lequel elle poursuit ses activités ou s’identifie;
+	- **b)** l’adresse de cette personne ou, s’il s’agit d’une personne morale, l’adresse de son principal établissement au Canada;
+	- **c)** une description de l’instrument désigné, notamment, son numéro de modèle et numéro de série, ainsi que le nom commercial ou la marque de commerce qui y est associé, le cas échéant;
+	- **d)** l’adresse de livraison de l’instrument désigné ainsi que l’adresse municipale de l’établissement où il sera utilisé par la personne qui l’importe;
+	- **e)** le nom du bureau de douane où est prévue l’importation;
+	- **f)** la date prévue de l’importation.
+
+**Enregistrement**
+
+- **(3)** Après avoir reçu les renseignements, le ministre enregistre l’importation de l’instrument désigné et il fournit la preuve de l’enregistrement à la personne qui importe l’instrument désigné.
+
+**Preuve de l’enregistrement**
+
+- **(4)** La personne qui importe l’instrument désigné fournit la preuve de l’enregistrement de son importation au bureau de douane au moment prévu par les règlements ou, à défaut, au moment de l’importation.
+
+**Refus ou révocation**
+
+- **(5)** Le ministre peut refuser l’enregistrement de l’importation d’un instrument désigné ou le révoquer s’il a des motifs raisonnables de croire que l’enregistrement a été fait sur la base de renseignements faux ou trompeurs ou qu’il est nécessaire de le faire pour protéger la sécurité ou la santé publiques ou pour toute raison réglementaire.
+
+**Communication des renseignements : instruments désignés**
+
+- **(6)** À toute fin liée à la vérification du respect des dispositions de la présente loi et de ses règlements, le ministre est autorisé à communiquer à l’Agence des services frontaliers du Canada ou à un agent, au sens du paragraphe 2(1) de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), les renseignements fournis au titre du paragraphe (2).
+
+**Communication des renseignements : corps policiers**
+
+- **(7)** Le ministre est autorisé à communiquer les renseignements fournis au titre du paragraphe (2) à tout corps policier canadien ou à tout membre d’un tel corps policier qui en fait la demande dans le cadre d’une enquête en application de la présente loi.
+> 2017, ch. 7, art. 34.
+
 
 
 
@@ -1179,11 +1376,13 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 **47** 
 
-- **(1)** Les poursuites par procédure sommaire pour infraction aux paragraphes 4(2) ou 32(2), à l’article 43 ou aux règlements se prescrivent par un an à compter de la perpétration.
+- **(1)** Les poursuites par procédure sommaire pour infraction aux paragraphes 4(2) ou 32(2) ou aux règlements ou pour une contravention à un arrêté pris en vertu des articles 45.1 ou 45.2 se prescrivent par un an à compter de la perpétration ou de la contravention.
 
 **Ressort**
 
-- **(2)** Toute infraction à la présente loi ou à ses règlements peut être poursuivie au lieu de sa perpétration, au lieu où a pris naissance l’objet de la poursuite, au lieu où l’accusé est appréhendé ou en tout lieu où il se trouve.
+- **(2)** Toute infraction à une disposition de la présente loi ou de ses règlements peut être poursuivie au lieu de sa perpétration ou, dans le cas d’une contravention à un arrêté pris en vertu des articles 45.1 ou 45.2, au lieu de la contravention, au lieu où a pris naissance l’objet de la poursuite, au lieu où l’accusé est appréhendé ou en tout lieu où il se trouve.
+> 1996, ch. 19, art. 47; 2017, ch. 7, art. 37.
+
 
 
 
@@ -1233,19 +1432,19 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 
 
-**Certificat de l’analyste**
+**Certificat ou rapport de l’analyste**
 
 **51** 
 
-- **(1)** Sous réserve des autres dispositions du présent article, le certificat ou le rapport établi par l’analyste aux termes du paragraphe 45(2) est admissible en preuve dans le cadre d’une poursuite pour infraction à la présente loi ou à ses règlements ou à toute autre loi fédérale et, sauf preuve contraire, fait foi de son contenu sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire.
+- **(1)** Le certificat ou le rapport établi par l’analyste aux termes du paragraphe 45(2) est admissible en preuve dans le cadre d’une poursuite pour infraction à la présente loi ou à toute autre loi fédérale et, sauf preuve contraire, fait foi de son contenu sans qu’il soit nécessaire de prouver l’authenticité de la signature ni la qualité officielle du signataire.
 
 **Présence de l’analyste**
 
 - **(2)** La partie contre laquelle est produit le certificat ou le rapport peut, avec l’autorisation du tribunal, exiger la présence de l’analyste pour contre-interrogatoire.
 
-**Préavis**
+- **(3)** [Abrogé, 2017, ch. 7, art. 38]
+> 1996, ch. 19, art. 51; 2017, ch. 7, art. 38.
 
-- **(3)** Sauf ordonnance contraire du tribunal, le certificat ou le rapport n’est reçu en preuve que si, avant de le produire au procès, la partie qui a l’intention de le produire contre une autre en donne à celle-ci un préavis suffisant, en y joignant une copie.
 
 
 
@@ -1283,7 +1482,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 
 
-### Règlements, exemptions et interdictions
+### Règlements et exemptions
 
 
 
@@ -1291,67 +1490,70 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 **55** 
 
-- **(1)** Le gouverneur en conseil peut, par règlement, prendre les mesures nécessaires à l’application de la présente loi, y compris en matière d’exécution et de mesures de contrainte ainsi qu’en matière d’applications médicales, scientifiques et industrielles et de distribution des substances désignées et des précurseurs, et notamment :
+- **(1)** Le gouverneur en conseil peut, par règlement, prendre les mesures nécessaires à l’application de la présente loi, y compris en matière d’exécution et de mesures de contrainte, ainsi qu’en matière d’applications médicales, scientifiques et industrielles et de distribution des substances désignées et des précurseurs, et en matière d’instruments désignés, et notamment :
 	- **a)** régir, autoriser, contrôler ou restreindre l’importation et l’exportation, la production, l’emballage, l’expédition, le transport, la livraison, la vente, la fourniture, l’administration, la possession ou l’obtention de substances désignées ou de précurseurs, ou d’une de leurs catégories, ainsi que toutes autres opérations portant sur ceux-ci;
-	- **b)** prévoir les circonstances et les conditions dans lesquelles peuvent se faire ces opérations et le mode d’autorisation de celles-ci, ainsi que les personnes ou catégories de personnes pouvant s’y livrer ou habilitées à les autoriser;
-	- **c)** régir, aux conditions précisées, la délivrance, la suspension, la révocation et la durée de toute catégorie de licences d’importation, d’exportation, de production, d’emballage, de fourniture, d’administration ou de vente de substances inscrites aux annexes I, II, III, IV, V ou VI, ou d’une de leurs catégories;
-	- **d)** régir, aux conditions précisées, la délivrance, la suspension, la révocation et la durée des permis d’importation, d’exportation ou de production en quantité limitée de substances inscrites aux annexes I, II, III, IV, V ou VI, ou d’une de leurs catégories;
-	- **e)** fixer les droits exigibles pour la délivrance des licences et permis prévus aux alinéas c) et d);
-	- **f)** régir les méthodes de production, la conservation, l’essai, l’emballage ou le stockage de toute substance désignée ou de tout précurseur, ou d’une de leurs catégories;
+	- **b)** régir les circonstances et les conditions dans lesquelles peuvent se faire les opérations visées à l’alinéa a), le mode d’autorisation de celles-ci, ainsi que les personnes ou catégories de personnes pouvant s’y livrer ou habilitées à les autoriser;
+	- **c)** régir la délivrance, la suspension, la révocation et la durée de toute licence ou catégorie de licences d’importation, d’exportation, de production, d’emballage, de fourniture, d’administration ou de vente de substances inscrites aux annexes I, II, III, IV, V ou VI, ou d’une de leurs catégories, ainsi que les conditions applicables à ces licences ou catégories de licences;
+	- **d)** régir la délivrance, la suspension, la révocation et la durée de tout permis d’importation, d’exportation ou de production de substances inscrites aux annexes I, II, III, IV, V ou VI, ou d’une de leurs catégories, ainsi que les conditions applicables à ces permis et la quantité de ces substances — ou d’une de leurs catégories — qui peut être importée, exportée ou produite aux termes d’un tel permis;
+	- **d.1)** autoriser le ministre à assortir de conditions toute licence ou tout permis, y compris les licences ou permis en cours de validité, et à modifier ces conditions;
+	- **e)** fixer les droits exigibles pour la demande de délivrance des licences et permis;
+	- **f)** régir les méthodes de production, la conservation, l’essai, l’emballage ou l’entreposage de toute substance désignée ou de tout précurseur, ou d’une de leurs catégories;
 	- **g)** régir les procédés ou conditions de production ou de vente des substances désignées, ou d’une de leurs catégories, ainsi que les locaux servant à ces fins, et établir leur acceptabilité au regard des règlements;
-	- **h)** régir les qualifications requises des personnes qui, sous la supervision du titulaire d’une licence réglementaire délivrée à cette fin, s’adonnent à toute opération — notamment production, conservation, essai, emballage, stockage, vente ou fourniture — portant sur toute substance désignée ou tout précurseur, ou sur une de leurs catégories;
+	- **h)** régir les compétences requises des personnes qui, sous la supervision du titulaire d’une licence réglementaire délivrée à cette fin, s’adonnent à toute opération — notamment la production, la conservation, l’essai, l’emballage, l’entreposage, la vente ou la fourniture — portant sur toute substance désignée ou tout précurseur, ou sur une de leurs catégories;
 	- **i)** fixer les normes de composition, teneur, concentration, puissance, pureté ou qualité ou toute autre propriété de toute substance désignée ou tout précurseur;
 	- **j)** régir les caractéristiques des emballages servant aux opérations — notamment importation et exportation, expédition, transport, livraison, vente ou fourniture — portant sur les substances inscrites aux annexes I, II, III, IV, V ou VI, ou sur une de leurs catégories, notamment en ce qui touche l’emballage, l’étiquetage, les dimensions et le remplissage;
 	- **k)** régir la distribution d’échantillons de substances inscrites aux annexes I, II, III, IV, V ou VI, ou d’une de leurs catégories;
 	- **l)** contrôler ou restreindre la publicité se rapportant à la vente de toute substance désignée ou tout précurseur, ou d’une de leurs catégories;
-	- **m)** régir les livres, registres, données électroniques ou autres documents que doivent tenir, établir ou fournir, en rapport avec les substances désignées ou les précurseurs, toute personne ou catégorie de personnes qui se livrent à quelque opération — notamment importation et exportation, production, emballage, expédition, transport, livraison, vente, fourniture, administration, possession ou obtention — portant sur les substances désignées ou les précurseurs ou sur une de leurs catégories;
-	- **n)** régir les compétences des inspecteurs ainsi que les pouvoirs et fonctions de ceux-ci relativement à l’exécution et au contrôle d’application des règlements ou au respect des conditions fixées par le ministre dans une exemption accordée en vertu du paragraphe 56.1(2);
+	- **m)** régir les registres, rapports, données électroniques ou autres documents que doit tenir, établir ou fournir toute personne ou catégorie de personnes relativement aux substances désignées, aux précurseurs ou aux instruments désignés;
+	- **n)** régir les compétences des inspecteurs ainsi que les attributions de ceux-ci relativement à la vérification du respect ou à la prévention du non-respect des dispositions de la présente loi ou de ses règlements;
 	- **o)** régir les qualifications ainsi que les pouvoirs et fonctions des analystes;
-	- **p)** régir la rétention et la disposition des substances désignées;
-	- **q)** régir la disposition des précurseurs;
+	- **p)** régir la rétention et la disposition des substances désignées, des précurseurs, des instruments désignés, des biens infractionnels ou des moyens de transport;
+	- **q)** [Abrogé, 2017, ch. 7, art. 40]
 	- **r)** régir le prélèvement d’échantillons aux termes de l’alinéa 31(1)h);
-	- **s)** régir la communication, à toute autorité provinciale attributive de licences en matière d’activités professionnelles ou à toute personne, ou catégorie de personnes, que le gouverneur en conseil estime nécessaire d’aviser pour l’application ou l’exécution de la présente loi ou de ses règlements, de renseignements fournis sous leur régime par une personne ou catégorie de personnes — ou relativement à elles — autorisées — ou pouvant l’être — à effectuer quelque opération — notamment importation et exportation, production, emballage, expédition, transport, livraison, vente, fourniture, administration, possession ou obtention — portant sur des substances désignées ou des précurseurs, ou sur une de leurs catégories;
-	- **t)** prévoir les modalités d’établissement, de signification ou de dépôt des notifications, avis, ordonnances, rapports ou autres documents prévus par la présente loi ou ses règlements ainsi que les modalités de preuve de leur signification;
-	- **u)** préciser les cas de révocation, aux termes du paragraphe 42(4), des ordonnances ministérielles prises aux termes du paragraphe 41(3);
+	- **s)** régir la collecte, l’utilisation, la conservation, la communication, et le retrait de renseignements;
+	- **t)** régir les modalités d’établissement, de signification ou de dépôt des notifications, avis, ordonnances, rapports ou autres documents prévus par la présente loi ou ses règlements ainsi que les modalités de preuve de leur signification;
+	- **u)** autoriser le ministre à ajouter, par arrêté, à une annexe de la partie J du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md), ou à en supprimer, par arrêté, tout ou partie d’un article inscrit à l’annexe V;
 	- **v)** déterminer les imprimés ou formules à utiliser dans le cadre de la présente loi et de ses règlements;
-	- **w)** établir des catégories ou groupes de substances désignées ou de précurseurs;
-	- **x)** déterminer les pouvoirs et fonctions des arbitres en ce qui touche les audiences qu’ils ont à tenir et les décisions qu’ils ont à rendre aux termes de la partie V;
-	- **y)** régir la pratique et la procédure applicables aux audiences tenues et aux décisions rendues par les arbitres aux termes de la partie V;
-	- **z)** soustraire, aux conditions précisées, toute personne ou catégorie de personnes ou toute substance désignée ou tout précurseur ou toute catégorie de ceux-ci à l’application de tout ou partie de la présente loi ou de ses règlements;
+	- **w)** établir des catégories ou groupes de substances désignées, de précurseurs ou d’instruments désignés;
+	- **x)** régir la fourniture de renseignements prévue à l’article 45.1;
+	- **y)** régir les mesures visées à l’article 45.2;
+	- **y.1)** régir la révision des arrêtés prévue à l’article 45.4;
+	- **z)** soustraire, aux conditions précisées, toute personne ou catégorie de personnes, toute substance désignée, tout précurseur, tout instrument désigné ou toute catégorie de ceux-ci à l’application de tout ou partie de la présente loi ou de ses règlements;
+	- **z.01)** régir l’enregistrement de l’importation des instruments désignés, ou d’une de leurs catégories, notamment le moment où doit être fournie la preuve de l’enregistrement;
 	- **z.1)** prendre toute mesure d’ordre réglementaire prévue par la présente loi.
 
-**Exception relative à l’alinéa (1)z)**
-
-- **(1.1)** Le règlement pris en vertu de l’alinéa (1)z) ne peut soustraire à l’application de tout ou partie de la présente loi ou de ses règlements :
-	- **a)** une personne ou catégorie de personnes relativement à une substance désignée ou à un précurseur obtenus d’une manière non autorisée sous le régime de la présente loi;
-	- **b)** une substance désignée ou un précurseur, ou une catégorie de ceux-ci, obtenus d’une telle manière.
+- **(1.1)** [Abrogé, 2017, ch. 7, art. 40]
 
 **Règlements**
 
 - **(1.2)** Le gouverneur en conseil peut, par règlement, prendre les mesures nécessaires à l’application de l’article 56.1 et, notamment :
 	- **a)** définir des termes pour l’application de cet article;
-	- **b)** modifier les définitions prévues au paragraphe 56.1(1);
-	- **c)** prévoir les renseignements que le ministre doit recevoir en application de l’alinéa 56.1(3)z.1) et la manière dont ces renseignements doivent lui être remis;
-	- **d)** prévoir les circonstances dans lesquelles des exemptions peuvent être accordées pour des raisons médicales ou pour l’application de la loi;
-	- **e)** prévoir des exigences relatives aux demandes d’exemption présentées au titre du paragraphe 56.1(2), notamment les renseignements à soumettre avec ces demandes;
-	- **f)** prévoir des conditions relatives aux exemptions accordées en vertu du paragraphe 56.1(2).
+	- **b)** [Abrogé, 2017, ch. 7, art. 40]
+	- **c)** prévoir les renseignements qui doivent être fournis au ministre et la manière de le faire;
+	- **d)** prévoir les circonstances dans lesquelles des exemptions peuvent être accordées;
+	- **e)** prévoir des exigences relatives aux demandes d’exemption présentées au titre du paragraphe 56.1(1);
+	- **f)** prévoir des conditions relatives aux exemptions accordées en vertu du paragraphe 56.1(1).
 
-**Règlements : activités policières**
+**Règlements : activités policières**
 
-- **(2)** Sur recommandation du ministre de la Sécurité publique et de la Protection civile, le gouverneur en conseil peut prendre des règlements relativement aux enquêtes et autres activités policières menées aux termes de la présente loi par les membres d’un corps policier et toutes autres personnes agissant sous leur autorité et leur supervision, et notamment :
-	- **a)** autoriser ce ministre ou le ministre responsable de la sécurité publique dans une province à désigner, pour l’application du présent paragraphe, un ou plusieurs corps policiers relevant de sa compétence;
-	- **b)** soustraire, aux conditions précisées, tout membre d’un corps policier désigné aux termes de l’alinéa a) ou toute autre personne agissant sous son autorité et sa supervision à l’application de tout ou partie de la partie I ou des règlements;
-	- **c)** régir, aux conditions précisées, la délivrance, la suspension, la révocation et la durée des certificats ou autres documents — ou, en cas de situation d’urgence, des approbations en vue de leur obtention — à émettre à un membre d’un corps policier désigné aux termes de l’alinéa a) en vue de le soustraire à l’application de tout ou partie de la présente loi ou de ses règlements;
+- **(2)** Sur recommandation du ministre de la Sécurité publique et de la Protection civile, le gouverneur en conseil peut prendre des règlements relativement aux enquêtes et autres activités policières menées aux termes de la présente loi par les membres d’un corps policier ou de la police militaire et toutes autres personnes agissant sous leur autorité et leur supervision, et notamment :
+	- **a)** autoriser, pour l’application du présent paragraphe :
+		- **(i)** ce ministre ou le ministre responsable de la sécurité publique dans une province à désigner un ou plusieurs corps policiers relevant de sa compétence,
+		- **(ii)** le ministre de la Défense nationale à désigner la police militaire;
+	- **b)** soustraire, aux conditions précisées, tout membre d’un corps policier ou de la police militaire désigné aux termes de l’alinéa a) ou toute autre personne agissant sous son autorité et sa supervision à l’application de tout ou partie de la partie I ou des règlements;
+	- **c)** régir la délivrance, la suspension, la révocation et la durée des certificats ou autres documents, ainsi que les conditions relatives à ceux-ci, — ou, en cas d’urgence, des approbations en vue de leur obtention — délivrés à un membre de la police militaire ou d’un corps policier désigné aux termes de l’alinéa a) en vue de le soustraire à l’application de tout ou partie de la présente loi ou de ses règlements;
 	- **d)** régir la rétention, l’entreposage et la disposition des substances désignées et des précurseurs;
 	- **e)** régir les registres, rapports, données électroniques ou autres documents que doit tenir, établir ou fournir, en rapport avec les substances désignées ou les précurseurs, toute personne ou catégorie de personnes;
 	- **f)** déterminer les imprimés ou formules à utiliser dans le cadre des règlements.
 
-**Règlements : activités policières**
+**Règlements : activités policières aux termes d’une autre loi**
 
-- **(2.1)** Sur recommandation du ministre de la Sécurité publique et de la Protection civile, le gouverneur en conseil peut prendre des règlements, relativement aux enquêtes et autres activités policières menées aux termes de toute autre loi fédérale, en vue d’autoriser des membres d’un corps policier et toutes autres personnes agissant sous leur autorité et leur supervision à commettre un acte ou une omission — ou à en ordonner la commission — qui constituerait par ailleurs une infraction à la partie I ou aux règlements, et notamment :
-	- **a)** autoriser ce ministre ou le ministre responsable de la sécurité publique dans une province à désigner, pour l’application du présent paragraphe, un ou plusieurs corps policiers relevant de sa compétence;
-	- **b)** soustraire, aux conditions précisées, tout membre d’un corps policier désigné aux termes de l’alinéa a) ou toute autre personne agissant sous son autorité et sa supervision à l’application de tout ou partie de la partie I ou des règlements;
-	- **c)** régir, aux conditions précisées, la délivrance, la suspension, la révocation et la durée des certificats ou autres documents — ou, en cas de situation d’urgence, des approbations en vue de leur obtention — à remettre à un membre d’un corps policier désigné aux termes de l’alinéa a) en vue de le soustraire à l’application de tout ou partie de la partie I ou des règlements;
+- **(2.1)** Sur recommandation du ministre de la Sécurité publique et de la Protection civile, le gouverneur en conseil peut prendre des règlements, relativement aux enquêtes et autres activités policières menées aux termes de toute autre loi fédérale, en vue d’autoriser des membres d’un corps policier ou de la police militaire et toutes autres personnes agissant sous leur autorité et leur supervision à commettre un acte ou une omission — ou à en ordonner la commission — qui constituerait par ailleurs une infraction à la partie I ou aux règlements, et notamment :
+	- **a)** autoriser, pour l’application du présent paragraphe :
+		- **(i)** ce ministre ou le ministre responsable de la sécurité publique dans une province à désigner un ou plusieurs corps policiers relevant de sa compétence,
+		- **(ii)** le ministre de la Défense nationale à désigner la police militaire;
+	- **b)** soustraire, aux conditions précisées, tout membre d’un corps policier ou de la police militaire désigné aux termes de l’alinéa a) ou toute autre personne agissant sous son autorité et sa supervision à l’application de tout ou partie de la partie I ou des règlements;
+	- **c)** régir la délivrance, la suspension, la révocation et la durée des certificats ou autres documents, ainsi que les conditions relatives à ceux-ci, — ou, en cas d’urgence, des approbations en vue de leur obtention — délivrés à un membre de la police militaire ou d’un corps policier désigné aux termes de l’alinéa a) en vue de le soustraire à l’application de tout ou partie de la partie I ou des règlements;
 	- **d)** régir la rétention, l’entreposage et la disposition des substances désignées et des précurseurs;
 	- **e)** régir les registres, rapports, données électroniques ou autres documents que doit tenir, établir ou fournir, en rapport avec les substances désignées ou les précurseurs, toute personne ou catégorie de personnes;
 	- **f)** déterminer les imprimés ou formules à utiliser dans le cadre des règlements.
@@ -1359,7 +1561,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 **Incorporation par renvoi**
 
 - **(3)** Il peut être précisé, dans les règlements d’application de la présente loi qui incorporent par renvoi des classifications, normes, procédures ou autres spécifications, que celles-ci sont incorporées avec leurs modifications successives.
-> 1996, ch. 19, art. 55; 2001, ch. 32, art. 55; 2005, ch. 10, art. 15; 2015, ch. 22, art. 4.
+> 1996, ch. 19, art. 55; 2001, ch. 32, art. 55; 2005, ch. 10, art. 15; 2015, ch. 22, art. 4; 2017, ch. 7, art. 40.
 
 
 
@@ -1373,131 +1575,54 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 **Exception**
 
-- **(2)** Le ministre ne peut se prévaloir du paragraphe (1) pour soustraire à l’application de tout ou partie de la présente loi ou de ses règlements :
-	- **a)** une personne ou catégorie de personnes relativement à une substance désignée ou à un précurseur obtenus d’une manière non autorisée sous le régime de la présente loi;
-	- **b)** une substance désignée ou un précurseur, ou une catégorie de ceux-ci, obtenus d’une telle manière.
-> 1996, ch. 19, art. 56; 2015, ch. 22, art. 5.
+- **(2)** Le ministre ne peut se prévaloir du paragraphe (1) pour accorder une exemption pour raisons médicales qui aurait pour effet de permettre l’exercice d’activités dans un site de consommation supervisée relativement à une substance désignée ou à un précurseur obtenus d’une manière non autorisée sous le régime de la présente loi.
+> 1996, ch. 19, art. 56; 2015, ch. 22, art. 5; 2017, ch. 7, art. 41.
 
 
 
 
 
-**Définitions**
+**Exemption pour raisons médicales : site de consommation supervisée**
 
 **56.1** 
 
-- **(1)** Les définitions qui suivent s’appliquent au présent article.
-
-***administration locale*** S’entend notamment :
-- **a)** du conseil d’une cité, d’une région métropolitaine, d’une ville, d’un village ou de toute autre municipalité dotés de la personnalité morale;
-- **b)** de l’autorité qui est responsable de la prestation des services municipaux à une cité, à une région métropolitaine, à une ville, à un village — ou à toute autre municipalité — non dotés de la personnalité morale;
-- **c)** du conseil de la bande au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md);
-- **d)** du gouvernement d’une bande qui est partie à un accord global sur l’autonomie gouvernementale mis en oeuvre par une loi fédérale.
-
-***infraction désignée en matière criminelle*** L’une ou l’autre des infractions suivantes :
-- **a)** infraction relative au financement du terrorisme visée à l’un des articles 83.02 à 83.04 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
-- **b)** infraction de fraude visée à l’un des articles 380 à 382 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
-- **c)** infraction de recyclage des produits de la criminalité visée à l’article 462.31 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
-- **d)** infraction relative à une organisation criminelle visée à l’un des articles 467.11 à 467.13 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
-- **e)** le complot ou la tentative de commettre une infraction visée à l’un des alinéas a) à d), la complicité après le fait à son égard ou le fait de conseiller de la commettre.
-
-***infraction désignée en matière de drogue*** L’une ou l’autre des infractions suivantes :
-- **a)** infraction visée aux articles 39, 44.2, 44.3, 48, 50.2 ou 50.3 de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md), dans leur version antérieure au 14 mai 1997;
-- **b)** infraction visée aux articles 4, 5, 6, 19.1 ou 19.2 de la Loi sur les stupéfiants, dans leur version antérieure au 14 mai 1997;
-- **c)** infraction visée à la partie I de la présente loi, à l’exception du paragraphe 4(1);
-- **d)** le complot ou la tentative de commettre une infraction visée à l’un des alinéas a) à c), la complicité après le fait à son égard ou le fait de conseiller de la commettre.
-
-***municipalité*** S’entend notamment :
-- **a)** de la zone géographique d’une cité, d’une région métropolitaine, d’une ville, d’un village ou de toute autre municipalité dotés ou non de la personnalité morale;
-- **b)** d’une réserve et des terres désignées au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md);
-- **c)** des terres assujetties à un accord global sur l’autonomie gouvernementale mis en oeuvre par une loi fédérale.
-
-***personne responsable*** La personne désignée par le demandeur pour veiller, lorsqu’elle se trouve au site de consommation supervisée, au respect — par les personnes ou catégories de personnes exemptées pour des raisons médicales au titre du paragraphe (2) de l’application de tout ou partie de la présente loi ou de ses règlements, alors que celles-ci se trouvent au site — des conditions fixées par le ministre dans l’exemption.
-
-***personne responsable suppléante*** Toute personne désignée par le demandeur pour veiller, lorsque la personne responsable est absente du site de consommation supervisée, au respect — par les personnes ou catégories de personnes exemptées pour des raisons médicales au titre du paragraphe (2) de l’application de tout ou partie de la présente loi ou de ses règlements, alors que celles-ci se trouvent au site — des conditions fixées par le ministre dans l’exemption.
-
-***principaux membres du personnel*** Les personnes désignées par le demandeur pour superviser directement, au site de consommation supervisée, la consommation de substances illicites par les personnes ou catégories de personnes exemptées pour des raisons médicales au titre du paragraphe (2) de l’application de tout ou partie de la présente loi ou de ses règlements.
-
-***site de consommation supervisée*** Endroit prévu dans les conditions fixées par le ministre dans une exemption, accordée en vertu du paragraphe (2) pour des raisons médicales, qui permet aux personnes ou catégories de personnes décrites dans l’exemption d’exercer, dans un environnement contrôlé et supervisé, certaines activités relativement à des substances illicites.
-
-***substance illicite*** Substance désignée obtenue d’une manière non autorisée sous le régime de la présente loi.
-
-**Exemption par le ministre**
-
-- **(2)** S’il estime que des raisons médicales ou d’application de la loi — ou toute raison réglementaire — le justifient, le ministre peut, aux conditions qu’il estime nécessaires, soustraire à l’application de tout ou partie de la présente loi ou de ses règlements, à l’exception du présent article :
+- **(1)** Afin de permettre l’exercice de certaines activités dans un site de consommation supervisée, s’il estime que des raisons médicales le justifient, le ministre peut, aux conditions qu’il estime nécessaires, soustraire à l’application de tout ou partie de la présente loi ou de ses règlements :
 	- **a)** toute personne ou catégorie de personnes relativement à une substance désignée ou à un précurseur obtenus d’une manière non autorisée sous le régime de la présente loi;
 	- **b)** toute substance désignée ou tout précurseur obtenus d’une telle manière, ou toute catégorie de ceux-ci.
 
-**Renseignements à fournir avec la demande**
+**Demande**
 
-- **(3)** Lorsque l’exemption aurait pour effet de permettre l’exercice de certaines activités dans un site de consommation supervisée, le paragraphe (2) n’autorise le ministre à examiner une demande d’exemption pour des raisons médicales que s’il a reçu ce qui suit :
-	- **a)** des preuves scientifiques des effets bénéfiques sur la santé individuelle ou sur la santé publique de l’accès aux activités dans les sites de consommation supervisée;
-	- **b)** une lettre du ministre provincial responsable de la santé dans la province où le site serait établi qui comporte :
-		- **(i)** le résumé de son opinion relativement aux activités qui y sont projetées,
-		- **(ii)** la description de la façon dont ces activités s’intègrent au système de soins de santé de la province,
-		- **(iii)** des renseignements sur l’accès des éventuels usagers du site à des services, s’il en existe, de traitement de la toxicomanie disponibles dans la province;
-	- **c)** une lettre de l’administration locale de la municipalité où le site serait établi qui comporte le résumé de son opinion relativement aux activités qui y sont projetées, notamment toute préoccupation liée à la santé ou à la sécurité publiques;
-	- **d)** la description, rédigée par le demandeur, des mesures prises ou qui le seront en réponse à toute préoccupation pertinente exprimée dans la lettre visée à l’alinéa c);
-	- **e)** une lettre du chef du corps policier chargé de la prestation de services de police dans la municipalité où le site serait établi qui comporte le résumé de son opinion relativement aux activités qui y sont projetées, notamment toute préoccupation liée à la sécurité publique;
-	- **f)** la description, rédigée par le demandeur, des mesures proposées, le cas échéant, en réponse à toute préoccupation pertinente exprimée dans la lettre visée à l’alinéa e);
-	- **g)** une lettre du premier professionnel de la santé en matière de santé publique du gouvernement de la province où le site serait établi qui comporte le résumé de son opinion relativement aux activités qui y sont projetées;
-	- **h)** une lettre du ministre provincial responsable de la sécurité publique dans la province où le site serait établi qui comporte le résumé de son opinion relativement aux activités qui y sont projetées;
-	- **i)** la description des conséquences potentielles des activités projetées au site sur la sécurité publique, notamment :
-		- **(i)** des renseignements, s’il en existe, portant sur toute activité criminelle et toute nuisance publique à proximité du site et des renseignements portant sur toute activité criminelle et toute nuisance publique dans les municipalités où des sites de consommation supervisée sont établis,
-		- **(ii)** des renseignements, s’il en existe, portant sur la consommation en public de substances illicites à proximité du site et des renseignements portant sur une telle consommation dans les municipalités où des sites de consommation supervisée sont établis,
-		- **(iii)** des renseignements, s’il en existe, portant sur la présence de déchets liés aux drogues jetés de manière inadéquate à proximité du site et des renseignements portant sur la présence de tels déchets jetés de telle manière dans les municipalités où des sites de consommation supervisée sont établis;
-	- **j)** des études ou des statistiques, s’il en existe, sur l’application de la loi relativement à ce qui est visé aux sous-alinéas i)(i) à (iii);
-	- **k)** des renseignements pertinents, notamment sur les tendances, s’il en existe, portant sur le nombre de personnes qui consomment des substances illicites à proximité du site et dans la municipalité où un tel site serait établi;
-	- **l)** des renseignements pertinents, notamment sur les tendances, s’il en existe, portant sur le nombre de personnes qui souffrent de maladies infectieuses qui peuvent être associées à la consommation de substances illicites à proximité du site et dans la municipalité où un tel site serait établi;
-	- **m)** des renseignements pertinents, notamment sur les tendances, s’il en existe, portant sur le nombre de décès par surdose associée aux activités projetées au site qui sont survenus, le cas échéant, à proximité du site et dans la municipalité où un tel site serait établi;
-	- **n)** des rapports officiels pertinents, s’il en existe, au regard de l’établissement d’un site de consommation supervisée, notamment les rapports de coroners;
-	- **o)** le rapport des consultations tenues avec l’autorité attributive de licences en matière d’activités professionnelles pour les médecins, ainsi qu’avec celle pour les infirmières, pour la province où le site serait établi qui comporte leur opinion relativement aux activités qui y sont projetées;
-	- **p)** le rapport des consultations tenues avec un large éventail d’organismes communautaires de la municipalité où le site serait établi qui comporte ce qui suit :
-		- **(i)** le résumé des opinions de ces organismes relativement aux activités qui y sont projetées,
-		- **(ii)** un exemplaire de toutes les présentations écrites reçues,
-		- **(iii)** la description des mesures qui seront prises en réponse à toute préoccupation pertinente soulevée dans le cadre des consultations;
-	- **q)** un plan de financement démontrant la faisabilité et la viabilité de son exploitation;
-	- **r)** la description des services de traitement de la toxicomanie disponibles au site, s’il en existe, pour les éventuels usagers de celui-ci, ainsi que des renseignements qui seront mis à leur disposition sur la disponibilité de tels services ailleurs;
-	- **s)** des renseignements pertinents, notamment sur les tendances, portant sur le flânage dans un endroit public qui peut être lié à certaines activités comportant des substances illicites, sur le trafic de substances désignées et sur le taux d’infractions mineures à proximité du site, s’il en existe;
-	- **t)** des renseignements portant sur toute urgence sanitaire à proximité du site ou dans la municipalité où celui-ci serait établi qui peut être liée aux activités comportant des substances illicites et qui a été déclarée par une autorité compétente en matière de santé publique, s’il en existe;
-	- **u)** la description des mesures qui seront prises pour minimiser le détournement de substances désignées ou de précurseurs et les risques pour la santé et la sécurité des personnes qui se trouvent au site, ou à proximité de celui-ci, notamment les membres du personnel, lesquelles doivent inclure l’établissement de procédures :
-		- **(i)** de disposition des substances désignées et des précurseurs, ainsi que de tout ce qui facilite leur consommation, notamment pour leur transfert à un policier,
-		- **(ii)** de contrôle de l’accès au site,
-		- **(iii)** de prévention de la perte et du vol de substances désignées ou de précurseurs;
-	- **v)** la description des procédures relatives à la tenue des dossiers concernant la disposition, la perte, le vol et le transfert de substances désignées, de précurseurs et de toute chose facilitant leur consommation laissés au site;
-	- **w)** le nom, le titre et le curriculum vitae, qui mentionne notamment les études et la formation pertinentes, de la personne responsable proposée, ainsi que ceux des personnes responsables suppléantes proposées et des principaux membres du personnel proposés;
-	- **x)** un document délivré par un corps policier canadien au sujet de chaque personne visée à l’alinéa w) précisant si, dans les dix ans qui précèdent la date de présentation de la demande, la personne, pour une infraction désignée en matière de drogue ou pour une infraction désignée en matière criminelle :
-		- **(i)** soit a été condamnée en tant qu’adulte,
-		- **(ii)** soit a été condamnée en tant qu’adolescent, au sens du paragraphe 2(1) de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), chapitre Y-1 des Lois révisées du Canada (1985), dans sa version antérieure à son abrogation, par une juridiction normalement compétente, au sens de ce paragraphe,
-		- **(iii)** soit, en tant qu’adolescent, au sens du paragraphe 2(1) de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md), s’est vu imposer une peine applicable aux adultes, au sens de ce paragraphe;
-	- **y)** un document délivré par un corps policier de tout pays étranger dans lequel une personne visée à l’alinéa w) a résidé ordinairement dans les dix ans qui précèdent la date de présentation de la demande précisant si, dans ce pays, au cours de cette période, la personne :
-		- **(i)** soit a été condamnée en tant qu’adulte pour une infraction dans ce pays qui, si elle avait été commise au Canada, aurait constitué une infraction désignée en matière de drogue ou une infraction désignée en matière criminelle,
-		- **(ii)** soit s’est vu imposer une peine — pour une infraction commise dans ce pays alors qu’elle avait au moins quatorze ans et moins de dix-huit ans qui, si elle avait été commise au Canada, aurait constitué une infraction désignée en matière de drogue ou une infraction désignée en matière criminelle — plus longue que la peine spécifique maximale prévue par la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md) pour une telle infraction;
-	- **z)** tout autre renseignement que le ministre juge pertinent au regard de l’examen de la demande;
-	- **z.1)** tout renseignement prévu par règlement fourni de la manière réglementaire.
+- **(2)** La demande d’exemption est accompagnée des renseignements, présentés selon les modalités fixées par le ministre, concernant les effets bénéfiques attendus du site sur la santé publique, et, le cas échéant, de renseignements concernant :
+	- **a)** l’incidence d’un tel site sur le taux de criminalité;
+	- **b)** les conditions locales indiquant qu’un tel site répond à un besoin;
+	- **c)** la structure administrative en place permettant d’encadrer le site;
+	- **d)** les ressources disponibles pour voir à l’entretien du site;
+	- **e)** les expressions d’appui ou d’opposition de la communauté.
 
-**Renseignements à fournir avec une demande subséquente**
+**Demandes subséquentes**
 
-- **(4)** Lorsque l’exemption aurait pour effet de permettre la continuation de l’exercice de certaines activités dans un site de consommation supervisée existant, le paragraphe (2) n’autorise le ministre à examiner une demande d’exemption pour des raisons médicales que s’il a reçu, en plus de ce qui est visé aux alinéas (3)a) à z.1), ce qui suit :
-	- **a)** des preuves, s’il en existe, de toute variation du taux de criminalité à proximité du site au cours de la période qui commence à la date à laquelle la première exemption a été accordée en vertu du paragraphe (2) à l’égard de ce site et qui se termine à la date à laquelle la demande est présentée;
-	- **b)** des preuves, s’il en existe, de toute répercussion des activités au site sur la santé individuelle ou sur la santé publique au cours de cette période.
-
-**Principes**
-
-- **(5)** Lorsque l’exemption aurait pour effet de permettre l’exercice de certaines activités dans un site de consommation supervisée, le paragraphe (2) n’autorise le ministre à accorder une exemption pour des raisons médicales que dans des circonstances exceptionnelles et que s’il a tenu compte des principes suivants :
-	- **a)** les substances illicites peuvent avoir des effets importants sur la santé;
-	- **b)** les substances désignées adultérées peuvent poser des risques pour la santé;
-	- **c)** les risques de surdose sont inhérents à l’utilisation de certaines substances illicites;
-	- **d)** des mesures de contrôle strictes sont nécessaires compte tenu des risques inhérents pour la santé afférents à des substances désignées qui peuvent altérer les processus mentaux;
-	- **e)** le crime organisé tire profit de l’utilisation de substances illicites;
-	- **f)** de l’activité criminelle découle fréquemment de l’utilisation de substances illicites.
+- **(3)** Lorsque l’exemption aurait pour effet de permettre la continuation de l’exercice de certaines activités dans un site de consommation supervisée, la demande d’exemption est accompagnée de toute mise à jour des renseignements fournis au ministre depuis la dernière exemption accordée, notamment des renseignements concernant toute répercussion des activités exercées dans le site sur la santé publique.
 
 **Avis**
 
-- **(6)** Lorsque l’exemption aurait pour effet de permettre l’exercice de certaines activités dans un site de consommation supervisée, le ministre peut donner avis, selon les modalités de son choix, de toute demande d’exemption pour des raisons médicales présentée au titre du paragraphe (2). Le public dispose alors de quatre-vingt-dix jours après la date à laquelle l’avis est donné pour présenter des observations au ministre.
-> 2015, ch. 22, art. 5.
+- **(4)** Le ministre peut donner avis, selon les modalités de son choix, de toute demande d’exemption. L’avis indique le délai — d’au moins quarante-cinq jours mais d’au plus quatre-vingt-dix jours — dont le public dispose pour présenter des observations au ministre.
+
+**Décision rendue publique**
+
+- **(5)** Après avoir pris une décision à l’égard de toute demande d’exemption, le ministre, par écrit, rend publique la décision et, s’il s’agit d’une décision de ne pas accorder l’exemption, il joint à sa décision les motifs de celle-ci.
+> 2015, ch. 22, art. 5; 2017, ch. 7, art. 42.
 
 
+
+
+**56.2** La personne responsable de superviser directement, au site de consommation supervisée, la consommation de substances désignées peut offrir aux usagers du site des options de pharmacothérapie avant qu’ils y consomment des substances désignées obtenues d’une manière non autorisée sous le régime de la présente loi.
+> 2017, ch. 7, art. 42.
+
+
+
+
+
+### Dispositions diverses
 
 
 
@@ -1516,10 +1641,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 
 
-
-**Déclarations fausses ou trompeuses**
-
-**59** Nul ne peut sciemment, dans un livre, registre, rapport ou autre document — quel que soit son support matériel — à établir aux termes de la présente loi ou de ses règlements, faire ou consentir à ce que soit faite une déclaration fausse ou trompeuse, participer à une telle déclaration ou y acquiescer.
+**59** [Abrogé, 2017, ch. 7, art. 44]
 
 
 
@@ -1530,7 +1652,26 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 **Pouvoir**
 
-**60** Le gouverneur en conseil peut, par décret, modifier l’une ou l’autre des annexes I à VIII pour y ajouter ou en supprimer tout ou partie d’un article dont l’adjonction ou la suppression lui paraît nécessaire dans l’intérêt public.
+**60** Le gouverneur en conseil peut, par décret, modifier l’une ou l’autre des annexes I à IV et VI à IX pour y ajouter ou en supprimer tout ou partie d’un article dont l’adjonction ou la suppression lui paraît nécessaire dans l’intérêt public.
+> 1996, ch. 19, art. 60; 2017, ch. 7, art. 45.
+
+
+
+
+
+**Annexe V**
+
+**60.1** 
+
+- **(1)** Le ministre peut, par arrêté, ajouter à l’annexe V tout ou partie d’un article pour une période maximale d’un an, ou prolonger cette période d’au plus un an, s’il a des motifs raisonnables de croire :
+	- **a)** soit que l’article comporte des risques importants pour la sécurité ou la santé publiques;
+	- **b)** soit que l’article peut comporter un risque pour la sécurité ou la santé publiques et, sans but légitime, il est importé au Canada ou y est distribué.
+
+**Suppression**
+
+- **(2)** Le ministre peut, par arrêté, supprimer de l’annexe V tout ou partie d’un article qui y est inscrit.
+> 2017, ch. 7, art. 45.
+
 
 
 
@@ -1611,7 +1752,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 
 
 ### **ANNEXE I** 
-**(articles 2 à 7, 29, 55 et 60)**
+**(articles 2, 4 à 7.1, 10, 29, 55 et 60)**
 - **1** Pavot à opium (Papaver somniferum), ainsi que ses préparations, dérivés, alcaloïdes et sels, notamment :
 - **(1)** opium
 - **(2)** codéine (méthylmorphine)
@@ -1774,9 +1915,9 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **17.1** Méthylènedioxypyrovalérone (MDPV), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues
 - **18** Méthamphétamine (N,α-diméthylbenzèneéthanamine), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues
 - **19** Amphétamines, leurs sels, dérivés, isomères et analogues, ainsi que les sels de leurs dérivés, isomères et analogues, notamment :
-- **(1)** amphétamine (α-méthylbenzène-éthanamine)
+- **(1)** amphétamine (α-méthylbenzène-éthanamine)
 - **(2)** N-éthylamphétamine (N-éthyl α-méthylbenzèneéthanamine)
-- **(3)** méthyl-4 diméthoxy-2,5 amphétamine (STP) (diméthoxy-2,5 4,α-diméthylbenzèneéthanamine)
+- **(3)** méthyl-4 diméthoxy-2,5 amphétamine (STP) (diméthoxy-2,5 4,α-diméthylbenzèneéthanamine)
 - **(4)** méthylènedioxy-3,4 amphétamine (MDA) (α-méthyl benzodioxole-1,3 éthanamine-5)
 - **(5)** diméthoxy-2,5 amphétamine (diméthoxy-2,5 α-méthylbenzèneéthanamine)
 - **(6)** méthoxy-4 amphétamine (méthoxy-4 α-méthylbenzèneéthanamine)
@@ -1795,7 +1936,7 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **(19)** (hydroxy-2 éthyl)-N méthyl-α benzèneéthanamine
 - **(20)** N-hydroxy méthylènedioxy-3,4 amphétamine (N-[α-méthyl (méthylènedioxy)-3,4 phénéthyl]hydroxylamine)
 - **(21)** triméthoxy-3,4,5 amphétamine (triméthoxy-3,4,5 α-méthylbenzèneéthanamine)
-- **20** Flunitrazépam ((o-fluorophényl)-5 dihydro-1,3 méthyl-1 nitro-7 2H-benzodiazépine-1,4 one-2) ainsi que ses sels et dérivés
+- **20** Flunitrazépam ((o-fluorophényl)-5 dihydro-1,3 méthyl-1 nitro-7 2H-benzodiazépine-1,4 one-2) ainsi que ses sels et dérivés
 - **21** Acide hydroxy-4 butanoïque et ses sels
 - **22** Tapentadol (3-[(1R,2R)-3-(diméthylamino)-1-éthyl-2-méthylpropyl]-phénol), ses sels, dérivés et isomères, ainsi que les sels de ses dérivés et isomères
 - **23** AH-7921 ((dichloro-3,4 benzamide méthyl)-1 cyclohexyl diméthylamine), ses sels et isomères, ainsi que les sels de ses isomères
@@ -1807,13 +1948,13 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - mais non compris :
 - **(5)** léfétamine ((-)-N,N-diméthyl-α-phénylbenzèneéthanamine), ses sels, dérivés et isomères, ainsi que les sels de ses dérivés et isomères
 - **25** W-18 (4-chloro-N-[1- [2- (4-nitrophényl) éthyl] -2-pipéridinylidène] benzènesulfonamide), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues
-> 1996, ch. 19, ann. I; DORS/97-230, art. 1 à 6; DORS/99-371, art. 1 et 2; DORS/99-421, art. 1(A); DORS/2005-235, art. 1; DORS/2005-271, 337; 2012, ch. 1, art. 44; DORS/2012-176; DORS/2015-190; DORS/2016-107, art. 1; DORS/2017-13, art. 1 à 5.
+> 1996, ch. 19, ann. I; DORS/97-230, art. 1 à 6; DORS/99-371, art. 1 et 2; DORS/99-421, art. 1(A); DORS/2005-235, art. 1; DORS/2005-271, 337; 2012, ch. 1, art. 44; DORS/2012-176; DORS/2015-190; DORS/2016-107, art. 1;  2017, ch. 7, art. 46; DORS/2017-13, art. 1 à 5.
 
 
 
 
 ### **ANNEXE II** 
-**(articles 2, 3, 4 à 7, 10, 29, 55 et 60)**
+**(articles 2, 4 à 7.1, 10, 29, 55 et 60)**
 - **1** Chanvre indien (Cannabis), ainsi que ses préparations et dérivés, notamment :
 - **(1)** résine de cannabis
 - **(2)** cannabis (marihuana)
@@ -1871,13 +2012,13 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **(9)** toute substance ayant une structure 3-carboxamideindole substituée à l’atome d’azote du cycle indole, qu’il y ait ou non davantage de substitution sur ce cycle dans quelque mesure que ce soit et qu’il y ait ou non substitution au groupe carboxamide dans quelque mesure que ce soit, notamment :
 - **(i)** N-(adamantan-1-yl)-1-fluoropentylindole-3-carboxamide (STS-135)
 - **(ii)** N-(adamantan-1-yl)-1-pentylindole-3-carboxamide (APICA)
-> 1996, ch. 19, ann. II; DORS/98-157; DORS/2003-32, art. 1; DORS/2015-192.
+> 1996, ch. 19, ann. II; DORS/98-157; DORS/2003-32, art. 1; DORS/2015-192; 2017, ch. 7, art. 47.
 
 
 
 
 ### **ANNEXE III** 
-**(articles 2 à 7, 29, 55 et 60)**
+**(articles 2, 4 à 7.1, 10, 29, 55 et 60)**
 - **1** [Abrogé, 2012, ch. 1 art. 45]
 - **2** Méthylphénidate (méthyl 2-phényl-2-(pipéridin-2-yl)acétate), ses sels, dérivés, isomères et analogues, ainsi que les sels de ses dérivés, isomères et analogues, notamment :
 - **(1)** Éthylphénidate (éthyl 2-phényl-2-(pipéridin-2-yl)acétate)
@@ -1925,13 +2066,13 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **(2)** 4-chloro-2,5-diméthoxy-N-(2-méthoxybenzyle)phénéthylamine (25C-NBOMe)
 - **(3)** 4-iodo-2,5-diméthoxy-N-(2-méthoxybenzyle)phénéthylamine (25I-NBOMe)
 - **(4)** 4-bromo-2,5-diméthoxybenzèneéthanamine (2C-B)
-> 1996, ch. 19, ann. III; DORS/97-230, art. 7 à 10; DORS/98-173, art. 1; DORS/2000-220, art. 1; DORS/2003-32, art. 2, 3, 4(F) et 5; DORS/2003-412; DORS/2005-235, art. 2; 2012, ch. 1, art. 45 et 46; DORS/2012-66; DORS/2016-73; DORS/2016-107, art. 2; DORS/2017-13, art. 6; DORS/2017-44.
+> 1996, ch. 19, ann. III; DORS/97-230, art. 7 à 10; DORS/98-173, art. 1; DORS/2000-220, art. 1; DORS/2003-32, art. 2, 3, 4(F) et 5; DORS/2003-412; DORS/2005-235, art. 2; 2012, ch. 1, art. 45 et 46; DORS/2012-66; DORS/2016-73; DORS/2016-107, art. 2; 2017, ch. 7, art. 48; DORS/2017-13, art. 6; DORS/2017-44.
 
 
 
 
 ### **ANNEXE IV** 
-**(articles 2 à 4, 5 à 7, 29, 55 et 60)**
+**(articles 2, 4 à 7.1, 10, 29, 55 et 60)**
 - **1** Barbituriques, ainsi que leurs sels et dérivés, notamment :
 - **(1)** allobarbital (acide diallyl–5,5 barbiturique)
 - **(2)** alphénal (acide allyl–5 phényl–5 barbiturique)
@@ -2080,17 +2221,14 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 - **26** Pyrovalérone (méthyl-4′(pyrrolidinyl-1)-2 valérophénone) et ses sels
 - **27** Salvia divinorum (S. divinorum), ses préparations et dérivés, notamment :
 - **(1)** Salvinorine A (ester méthylique de l’acide (2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acétyloxy)-2-(3-furanyl)dodécahydro-6a,10b-diméthyl-4,10-dioxo-2Hnaphto[2,1-c]pyran-7-carboxylique)
-> 1996, ch. 19, ann. IV; DORS/97-230, art. 11 à 15; DORS/98-173, art. 2; DORS/99-371, art. 3; DORS/99-421, art. 2(A); DORS/2000-220, art. 2; DORS/2003-32, art. 6; DORS/2003-37; DORS/2015-209; DORS/2017-13, art. 7 à 9, 10(A), 11 et 12.
+> 1996, ch. 19, ann. IV; DORS/97-230, art. 11 à 15; DORS/98-173, art. 2; DORS/99-371, art. 3; DORS/99-421, art. 2(A); DORS/2000-220, art. 2; DORS/2003-32, art. 6; DORS/2003-37; DORS/2015-209; 2017, ch. 7, art. 49; DORS/2017-13, art. 7 à 9, 10(A), 11 et 12.
 
 
 
 
 ### **ANNEXE V** 
-**(articles 2, 4, 6, 55 et 60)**
-- **1** [Abrogé, DORS/2002-361, art. 1]
-- **2** Propylhexédrine (d,l–cyclohexyl–1 méthylamino–2 propane) et ses sels
-- **3** [Abrogé, DORS/2003-32, art. 7]
-> 1996, ch. 19, ann. V; DORS/2002-361, art. 1; DORS/2003-32, art. 7.
+**(articles 2, 5 à 7.1, 10, 55 et 60.1)**
+> 1996, ch. 19, ann. V; DORS/2002-361, art. 1; DORS/2003-32, art. 7; 2017, ch. 7, art. 50.
 
 
 
@@ -2213,5 +2351,14 @@ En tout état de cause, il ne peut être disposé des biens dans les trente jour
 </table>
 
 > 1996, ch. 19, ann. VIII; DORS/97-230, art. 16.
+
+
+
+
+### **ANNEXE IX** 
+**(articles 2 et 60)**
+- **1** Instrument à opération manuelle, semi-automatique ou entièrement automatique pouvant être utilisé pour compacter ou mouler des matériaux sous forme de poudres ou de granules ou des matériaux mi-solides afin de produire des comprimés solides et cohérents
+- **2** Instrument à opération manuelle, semi-automatique ou entièrement automatique pouvant être utilisé pour remplir des capsules avec des matériaux sous forme de poudres ou de granules ou des matériaux mi-solides ou liquides
+> 2017, ch. 7, art. 51.
 
 
