@@ -935,14 +935,8 @@ Est assimilé à la personne tout membre de sa famille visé par règlement.
 
 - **(1)** Un agent peut examiner tout envoi destiné à l’importation ou à l’exportation et ouvrir ou faire ouvrir ceux dont il soupçonne, pour des motifs raisonnables, qu’ils contiennent des espèces ou effets d’une valeur égale ou supérieure au montant réglementaire prévu pour l’application du paragraphe 12(1).
 
-**Exception**
-
-- **(2)** L’agent ne peut ouvrir ou faire ouvrir un envoi pesant au plus trente grammes que si le destinataire ou l’expéditeur y consent ou que s’il porte, remplie par l’expéditeur, l’étiquette prévue à l’article 116 du Règlement détaillé de la Convention postale universelle.
-
-**Ouverture en présence de l’agent**
-
-- **(3)** L’agent peut faire ouvrir en sa présence un envoi pesant au plus trente grammes par le destinataire, l’expéditeur ou la personne autorisée par ce dernier.
-> 2000, ch. 17, art. 17; 2001, ch. 41, art. 57.
+- **(2) et (3)** [Abrogés, 2017, ch. 7, art. 53]
+> 2000, ch. 17, art. 17; 2001, ch. 41, art. 57; 2017, ch. 7, art. 53.
 
 
 
