@@ -4189,18 +4189,12 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 	- **e)** examiner les marchandises dont il soupçonne, pour des motifs raisonnables, qu’elles ont donné ou pourraient donner lieu à une infraction soit à la présente loi, soit à toute autre loi fédérale à l’égard de laquelle il a des fonctions d’exécution ou de contrôle d’application, soit aux règlements d’application de ces lois, ainsi qu’en ouvrir ou faire ouvrir tous colis ou contenants;
 	- **f)** s’il soupçonne, pour des motifs raisonnables, qu’un moyen de transport ou que les marchandises se trouvant à son bord ont donné ou pourraient donner lieu à une infraction visée à l’alinéa e), immobiliser le moyen de transport, monter à son bord et le fouiller, examiner les marchandises et en ouvrir ou faire ouvrir tous colis ou contenants, ainsi que faire conduire le moyen de transport à un bureau de douane ou à tout autre lieu indiqué pour ces opérations.
 
-**Exception dans le cas des envois**
-
-- **(2)** L’agent ne peut ouvrir ou faire ouvrir les envois pesant au plus trente grammes qui sont d’origine étrangère ou destinés à l’exportation que si le destinataire y consent ou que s’ils portent, remplie par l’expéditeur, l’étiquette prévue à l’article RE 601 du Règlement de la poste aux lettres de la Convention postale universelle.
-
-**Exception dans le cas des envois**
-
-- **(3)** L’agent peut faire ouvrir en sa présence, par le destinataire ou l’expéditeur ou par la personne autorisée par l’un ou l’autre à cet effet, les envois pesant au plus trente grammes qui sont d’origine étrangère ou destinés à l’exportation.
+- **(2) et (3)** [Abrogés, 2017, ch. 7, art. 52]
 
 **Échantillons**
 
 - **(4)** Il est disposé des échantillons prélevés conformément au paragraphe (1) suivant les instructions du ministre.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 99; 1988, ch. 65, art. 79; 2001, ch. 25, art. 59.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 99; 1988, ch. 65, art. 79; 2001, ch. 25, art. 59; 2017, ch. 7, art. 52.
 
 
 
