@@ -39,59 +39,63 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** In this Act,
 
-***adjudicator*** means a person appointed or employed under the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) who performs the duties and functions of an adjudicator under this Act and the regulations;
+***adjudicator*** means a person appointed or employed under the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) who performs the duties and functions of an adjudicator under this Act and the regulations; (*arbitre*)
 
-***analogue*** means a substance that, in relation to a controlled substance, has a substantially similar chemical structure;
+***analogue*** means a substance that, in relation to a controlled substance, has a substantially similar chemical structure; (*analogue*)
 
-***analyst*** means a person who is designated as an analyst under section 44;
+***analyst*** means a person who is designated as an analyst under section 44; (*analyste*)
 
-***Attorney General*** means
+***Attorney General*** means
 - **(a)** the Attorney General of Canada, and includes their lawful deputy, or
-- **(b)** with respect to proceedings commenced at the instance of the government of a province and conducted by or on behalf of that government, the Attorney General of that province, and includes their lawful deputy;
+- **(b)** with respect to proceedings commenced at the instance of the government of a province and conducted by or on behalf of that government, the Attorney General of that province, and includes their lawful deputy; (*procureur général*)
 
-***controlled substance*** means a substance included in Schedule I, II, III, IV or V;
+***controlled substance*** means a substance included in Schedule I, II, III, IV or V; (*substance désignée*)
 
-***designated substance offence*** means
+***customs office*** has the same meaning as in subsection 2(1) of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md); (*bureau de douane*)
+
+***designated device*** means a device included in Schedule IX; (*instrument désigné*)
+
+***designated substance offence*** means
 - **(a)** an offence under Part I, except subsection 4(1), or
-- **(b)** a conspiracy or an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence referred to in paragraph (a);
+- **(b)** a conspiracy or an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence referred to in paragraph (a); (*infraction désignée*)
 
-***inspector*** means a person who is designated as an inspector under section 30;
+***inspector*** means a person who is designated as an inspector under section 30; (*inspecteur*)
 
-***judge*** means a judge as defined in section 552 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or a judge of a superior court of criminal jurisdiction;
+***judge*** means a judge as defined in section 552 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or a judge of a superior court of criminal jurisdiction; (*juge*)
 
-***justice*** has the same meaning as in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
+***justice*** has the same meaning as in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); (*juge de paix*)
 
-***Minister*** means the Minister of Health;
+***Minister*** means the Minister of Health; (*ministre*)
 
-***offence-related property*** means, with the exception of a controlled substance, any property, within or outside Canada,
+***offence-related property*** means, with the exception of a controlled substance, any property, within or outside Canada,
 - **(a)** by means of or in respect of which a designated substance offence is committed,
 - **(b)** that is used in any manner in connection with the commission of a designated substance offence, or
-- **(c)** that is intended for use for the purpose of committing a designated substance offence;
+- **(c)** that is intended for use for the purpose of committing a designated substance offence; (*bien infractionnel*)
 
-***possession*** means possession within the meaning of subsection 4(3) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
+***possession*** means possession within the meaning of subsection 4(3) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); (*possession*)
 
-***practitioner*** means a person who is registered and entitled under the laws of a province to practise in that province the profession of medicine, dentistry or veterinary medicine, and includes any other person or class of persons prescribed as a practitioner;
+***practitioner*** means a person who is registered and entitled under the laws of a province to practise in that province the profession of medicine, dentistry or veterinary medicine, and includes any other person or class of persons prescribed as a practitioner; (*praticien*)
 
-***precursor*** means a substance included in Schedule VI;
+***precursor*** means a substance included in Schedule VI; (*précurseur*)
 
-Version anglaise seulement***prescribed*** means prescribed by the regulations;
+***prescribed*** means prescribed by the regulations; (***Version anglaise seulement***)
 
-***produce*** means, in respect of a substance included in any of Schedules I to IV, to obtain the substance by any method or process including
+***produce*** means, in respect of a substance included in any of Schedules I to V, to obtain the substance by any method or process including
 - **(a)** manufacturing, synthesizing or using any means of altering the chemical or physical properties of the substance, or
 - **(b)** cultivating, propagating or harvesting the substance or any living thing from which the substance may be extracted or otherwise obtained,
 
-and includes offer to produce;
+and includes offer to produce; (*production*)
 
-***provide*** means to give, transfer or otherwise make available in any manner, whether directly or indirectly and whether or not for consideration;
+***provide*** means to give, transfer or otherwise make available in any manner, whether directly or indirectly and whether or not for consideration; (*fournir*)
 
-***sell*** includes offer for sale, expose for sale, have in possession for sale and distribute, whether or not the distribution is made for consideration;
+***sell*** includes offer for sale, expose for sale, have in possession for sale and distribute, whether or not the distribution is made for consideration; (*vente*)
 
-***traffic*** means, in respect of a substance included in any of Schedules I to IV,
+***traffic*** means, in respect of a substance included in any of Schedules I to V,
 - **(a)** to sell, administer, give, transfer, transport, send or deliver the substance,
 - **(b)** to sell an authorization to obtain the substance, or
 - **(c)** to offer to do anything mentioned in paragraph (a) or (b),
 
-otherwise than under the authority of the regulations.
+otherwise than under the authority of the regulations. (*trafic*)
 
 **Interpretation**
 
@@ -106,7 +110,7 @@ otherwise than under the authority of the regulations.
 **Interpretation**
 
 - **(3)** For the purposes of this Act, where a substance is expressly named in any of Schedules I to VI, it shall be deemed not to be included in any other of those Schedules.
-> 1996, c. 8, s. 35, c. 19, s. 2; 2001, c. 32, s. 47.
+> 1996, c. 8, s. 35, c. 19, s. 2; 2001, c. 32, s. 47; 2017, c. 7, s. 1.
 
 
 
@@ -227,11 +231,11 @@ from a practitioner, unless the person discloses to the practitioner particulars
 
 **5** 
 
-- **(1)** No person shall traffic in a substance included in Schedule I, II, III or IV or in any substance represented or held out by that person to be such a substance.
+- **(1)** No person shall traffic in a substance included in Schedule I, II, III, IV or V or in any substance represented or held out by that person to be such a substance.
 
 **Possession for purpose of trafficking**
 
-- **(2)** No person shall, for the purpose of trafficking, possess a substance included in Schedule I, II, III or IV.
+- **(2)** No person shall, for the purpose of trafficking, possess a substance included in Schedule I, II, III, IV or V.
 
 **Punishment**
 
@@ -247,7 +251,7 @@ from a practitioner, unless the person discloses to the practitioner particulars
 			- **(B)** the person committed the offence in a prison, as defined in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), or on its grounds, or
 			- **(C)** the person used the services of a person under the age of 18 years, or involved such a person, in committing the offence;
 	- **(a.1)** if the subject matter of the offence is a substance included in Schedule II in an amount that is not more than the amount set out for that substance in Schedule VII, is guilty of an indictable offence and liable to imprisonment for a term of not more than five years less a day;
-	- **(b)** where the subject-matter of the offence is a substance included in Schedule III,
+	- **(b)** if the subject matter of the offence is a substance included in Schedule III or V,
 		- **(i)** is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years, or
 		- **(ii)** is guilty of an offence punishable on summary conviction and liable to imprisonment for a term not exceeding eighteen months; and
 	- **(c)** where the subject-matter of the offence is a substance included in Schedule IV,
@@ -258,12 +262,12 @@ from a practitioner, unless the person discloses to the practitioner particulars
 
 **Interpretation**
 
-- **(5)** For the purposes of applying subsection (3) in respect of an offence under subsection (1), a reference to a substance included in Schedule I, II, III or IV includes a reference to any substance represented or held out to be a substance included in that Schedule.
+- **(5)** For the purposes of applying subsection (3) in respect of an offence under subsection (1), a reference to a substance included in Schedule I, II, III, IV or V includes a reference to any substance represented or held out to be a substance included in that Schedule.
 
 **Interpretation**
 
 - **(6)** For the purposes of paragraph (3)(a.1) and Schedule VII, the amount of the substance means the entire amount of any mixture or substance, or the whole of any plant, that contains a detectable amount of the substance.
-> 1996, c. 19, s. 5; 2012, c. 1, s. 39.
+> 1996, c. 19, s. 5; 2012, c. 1, s. 39; 2017, c. 7, s. 3.
 
 
 
@@ -287,13 +291,13 @@ from a practitioner, unless the person discloses to the practitioner particulars
 		- **(ii)** the person, while committing the offence, abused a position of trust or authority, or
 		- **(iii)** the person had access to an area that is restricted to authorized persons and used that access to commit the offence;
 	- **(a.1)** if the subject matter of the offence is a substance included in Schedule I in an amount that is more than one kilogram, is guilty of an indictable offence and liable to imprisonment for life and to a minimum punishment of imprisonment for a term of two years;
-	- **(b)** where the subject-matter of the offence is a substance included in Schedule III or VI,
+	- **(b)** if the subject matter of the offence is a substance included in Schedule III, V or VI,
 		- **(i)** is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years, or
 		- **(ii)** is guilty of an offence punishable on summary conviction and liable to imprisonment for a term not exceeding eighteen months; and
-	- **(c)** where the subject-matter of the offence is a substance included in Schedule IV or V,
+	- **(c)** if the subject matter of the offence is a substance included in Schedule IV,
 		- **(i)** is guilty of an indictable offence and liable to imprisonment for a term not exceeding three years, or
 		- **(ii)** is guilty of an offence punishable on summary conviction and liable to imprisonment for a term not exceeding one year.
-> 1996, c. 19, s. 6; 2012, c. 1, s. 40.
+> 1996, c. 19, s. 6; 2012, c. 1, s. 40; 2017, c. 7, s. 4.
 
 
 
@@ -303,23 +307,23 @@ from a practitioner, unless the person discloses to the practitioner particulars
 
 **7** 
 
-- **(1)** Except as authorized under the regulations, no person shall produce a substance included in Schedule I, II, III or IV.
+- **(1)** Except as authorized under the regulations, no person shall produce a substance included in Schedule I, II, III, IV or V.
 
 **Punishment**
 
 - **(2)** Every person who contravenes subsection (1)
 	- **(a)** if the subject matter of the offence is a substance included in Schedule I, is guilty of an indictable offence and liable to imprisonment for life and to a minimum punishment of imprisonment for a term of three years if any of the factors set out in subsection (3) apply and for a term of two years in any other case;
-	- **(a.1)** if the subject matter of the offence is a substance included in Schedule II, other than cannabis (marijuana), is guilty of an indictable offence and liable to imprisonment for life, and to a minimum punishment of imprisonment
+	- **(a.1)** if the subject matter of the offence is a substance included in Schedule II, other than cannabis (marihuana), is guilty of an indictable offence and liable to imprisonment for life, and to a minimum punishment of imprisonment
 		- **(i)** for a term of one year if the production is for the purpose of trafficking, or
 		- **(ii)** for a term of 18 months if the production is for the purpose of trafficking and any of the factors set out in subsection (3) apply;
-	- **(b)** if the subject matter of the offence is cannabis (marijuana), is guilty of an indictable offence and liable to imprisonment for a term of not more than 14 years, and to a minimum punishment of
+	- **(b)** if the subject matter of the offence is cannabis (marihuana), is guilty of an indictable offence and liable to imprisonment for a term of not more than 14 years, and to a minimum punishment of
 		- **(i)** imprisonment for a term of six months if the number of plants produced is less than 201 and more than five, and the production is for the purpose of trafficking,
 		- **(ii)** imprisonment for a term of nine months if the number of plants produced is less than 201 and more than five, the production is for the purpose of trafficking and any of the factors set out in subsection (3) apply,
 		- **(iii)** imprisonment for a term of one year if the number of plants produced is more than 200 and less than 501,
 		- **(iv)** imprisonment for a term of 18 months if the number of plants produced is more than 200 and less than 501 and any of the factors set out in subsection (3) apply,
 		- **(v)** imprisonment for a term of two years if the number of plants produced is more than 500, or
 		- **(vi)** imprisonment for a term of three years if the number of plants produced is more than 500 and any of the factors set out in subsection (3) apply;
-	- **(c)** where the subject-matter of the offence is a substance included in Schedule III,
+	- **(c)** if the subject matter of the offence is a substance included in Schedule III or V,
 		- **(i)** is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years, or
 		- **(ii)** is guilty of an offence punishable on summary conviction and liable to imprisonment for a term not exceeding eighteen months; and
 	- **(d)** where the subject-matter of the offence is a substance included in Schedule IV,
@@ -333,22 +337,30 @@ from a practitioner, unless the person discloses to the practitioner particulars
 	- **(b)** the production constituted a potential security, health or safety hazard to persons under the age of 18 years who were in the location where the offence was committed or in the immediate area;
 	- **(c)** the production constituted a potential public safety hazard in a residential area; or
 	- **(d)** the person set or placed a trap, device or other thing that is likely to cause death or bodily harm to another person in the location where the offence was committed or in the immediate area, or permitted such a trap, device or other thing to remain or be placed in that location or area.
-> 1996, c. 19, s. 7; 2012, c. 1, s. 41.
+> 1996, c. 19, s. 7; 2012, c. 1, s. 41; 2017, c. 7, s. 5.
 
 
 
 
 
-**Possession, etc., for use in production of or trafficking in substance**
+**Possession, sale, etc., for use in production of or trafficking in substance**
 
 **7.1** 
 
-- **(1)** No person shall possess, produce, sell or import anything knowing that it will be used to produce or traffic in a substance referred to in item 18 of Schedule I or subitem 1(9) of Schedule III.
+- **(1)** No person shall possess, produce, sell, import or transport anything intending that it will be used
+	- **(a)** to produce a controlled substance, unless the production of the controlled substance is lawfully authorized; or
+	- **(b)** to traffic in a controlled substance.
 
 **Punishment**
 
-- **(2)** Every person who contravenes subsection (1) is guilty of an indictable offence and liable to imprisonment for a term of not more than ten years less a day.
-> 2011, c. 14, s. 1.
+- **(2)** Every person who contravenes subsection (1)
+	- **(a)** if the subject matter of the offence is a substance included in Schedule I, II, III or V,
+		- **(i)** is guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years, or
+		- **(ii)** is guilty of an offence punishable on summary conviction and liable to imprisonment for a term of not more than 18 months; and
+	- **(b)** if the subject matter of the offence is a substance included in Schedule IV,
+		- **(i)** is guilty of an indictable offence and liable to imprisonment for a term of not more than three years, or
+		- **(ii)** is guilty of an offence punishable on summary conviction and liable to imprisonment for a term of not more than one year.
+> 2011, c. 14, s. 1; 2017, c. 7, s. 6.
 
 
 
@@ -402,10 +414,10 @@ from a practitioner, unless the person discloses to the practitioner particulars
 	- **(a)** in relation to the commission of the offence,
 		- **(i)** carried, used or threatened to use a weapon,
 		- **(ii)** used or threatened to use violence,
-		- **(iii)** trafficked in a substance included in Schedule I, II, III or IV or possessed such a substance for the purpose of trafficking, in or near a school, on or near school grounds or in or near any other public place usually frequented by persons under the age of eighteen years, or
-		- **(iv)** trafficked in a substance included in Schedule I, II, III or IV, or possessed such a substance for the purpose of trafficking, to a person under the age of eighteen years;
+		- **(iii)** trafficked in a substance included in Schedule I, II, III, IV or V, or possessed such a substance for the purpose of trafficking, in or near a school, on or near school grounds or in or near any other public place usually frequented by persons under the age of 18 years, or
+		- **(iv)** trafficked in a substance included in Schedule I, II, III, IV or V, or possessed such a substance for the purpose of trafficking, to a person under the age of 18 years;
 	- **(b)** was previously convicted of a designated substance offence; or
-	- **(c)** used the services of a person under the age of eighteen years to commit, or involved such a person in the commission of, a designated substance offence.
+	- **(c)** used the services of a person under the age of eighteen years to commit, or involved such a person in the commission of, the offence.
 
 **Reasons**
 
@@ -420,7 +432,7 @@ from a practitioner, unless the person discloses to the practitioner particulars
 **Minimum punishment**
 
 - **(5)** If the offender successfully completes a program under subsection (4), the court is not required to impose the minimum punishment for the offence for which the person was convicted.
-> 1996, c. 19, s. 10; 1999, c. 5, s. 49; 2012, c. 1, s. 43.
+> 1996, c. 19, s. 10; 1999, c. 5, s. 49; 2012, c. 1, s. 43; 2017, c. 7, s. 7.
 
 
 
@@ -456,7 +468,7 @@ is in a place may, at any time, issue a warrant authorizing a peace officer, at 
 
 **Effect of endorsement**
 
-- **(4)** An endorsement that is made on a warrant as provided for in subsection (3) is sufficient authority to any peace officer to whom it was originally directed and to all peace officers within the jurisdiction of the justice by whom it is endorsed to execute the warrant and to deal with the things seized in accordance with the law.
+- **(4)** An endorsement that is made on a warrant as provided for in subsection (3) is sufficient authority to any peace officer to whom it was originally directed and to all peace officers within the jurisdiction of the justice by whom it is endorsed to execute the warrant and to dispose of or otherwise deal with the things seized in accordance with the law.
 
 **Search of person and seizure**
 
@@ -477,7 +489,7 @@ is in a place may, at any time, issue a warrant authorizing a peace officer, at 
 **Seizure of additional things**
 
 - **(8)** A peace officer who executes a warrant issued under subsection (1) or exercises powers under subsection (5) or (7) may seize, in addition to the things mentioned in the warrant and in subsection (6), any thing that the peace officer believes on reasonable grounds has been obtained by or used in the commission of an offence or that will afford evidence in respect of an offence.
-> 1996, c. 19, s. 11; 2005, c. 44, s. 13.
+> 1996, c. 19, s. 11; 2005, c. 44, s. 13; 2017, c. 7, s. 9.
 
 
 
@@ -921,10 +933,10 @@ and the property shall not be disposed of or otherwise dealt with until thirty d
 
 - **(1)** The Minister may designate, in accordance with the regulations made pursuant to paragraph 55(1)(n), any person as an inspector for the purposes of this Act and the regulations.
 
-**Certificate of designation**
+**Certificate**
 
-- **(2)** An inspector shall be provided with a prescribed certificate of designation and, on entering any place under subsection 31(1) or a supervised consumption site under subsection 31(1.1) or (1.2), shall, on request, produce the certificate to the person in charge of the place.
-> 1996, c. 19, s. 30; 2015, c. 22, s. 2.
+- **(2)** Every inspector shall be provided with a certificate of designation in a form established by the Minister and, on entering any place under subsection 31(1), shall, on request, produce the certificate to the person in charge of the place.
+> 1996, c. 19, s. 30; 2015, c. 22, s. 2; 2017, c. 7, s. 25.
 
 
 
@@ -934,36 +946,56 @@ and the property shall not be disposed of or otherwise dealt with until thirty d
 
 **31** 
 
-- **(1)** Subject to subsection (2), an inspector may, to ensure compliance with the regulations, at any reasonable time enter any place the inspector believes on reasonable grounds is used for the purpose of conducting the business or professional practice of any person licensed or otherwise authorized under the regulations to deal in a controlled substance or a precursor and may for that purpose
-	- **(a)** open and examine any receptacle or package found in that place in which a controlled substance or a precursor may be found;
+- **(1)** Subject to subsection (2), an inspector may, for a purpose related to verifying compliance or preventing non-compliance with the provisions of this Act or the regulations, enter any place, including a conveyance, referred to in subsection (1.1) and may for that purpose
+	- **(a)** open and examine any receptacle or package found in that place in which a controlled substance, precursor or designated device may be found;
 	- **(b)** examine any thing found in that place that is used or may be capable of being used for the production, preservation, packaging or storage of a controlled substance or a precursor;
-	- **(c)** examine any labels or advertising material or records, books, electronic data or other documents found in that place with respect to any controlled substance or precursor, other than the records of the medical condition of persons, and make copies thereof or take extracts therefrom;
+	- **(c)** examine any labels or advertising material or records, books, electronic data or other documents found in that place with respect to any controlled substance, precursor, or designated device other than the records of the medical condition of persons, and make copies thereof or take extracts therefrom;
 	- **(d)** use or cause to be used any computer system at that place to examine any electronic data referred to in paragraph (c);
 	- **(e)** reproduce any document from any electronic data referred to in paragraph (c) or cause it to be reproduced, in the form of a printout or other output;
 	- **(f)** take the labels or advertising material or records, books or other documents referred to in paragraph (c) or the printout or other output referred to in paragraph (e) for examination or copying;
 	- **(g)** use or cause to be used any copying equipment at that place to make copies of any document;
-	- **(h)** examine any substance found in that place and take, for the purpose of analysis, such samples thereof as are reasonably required; and
-	- **(i)** seize and detain in accordance with this Part, any controlled substance or precursor the seizure and detention of which the inspector believes on reasonable grounds is necessary.
+	- **(g.1)** take photographs and make recordings and sketches;
+	- **(h)** examine any substance found in that place and take, for the purpose of analysis, such samples thereof as are reasonably required;
+	- **(i)** seize and detain, in accordance with this Part, any controlled substance, precursor, designated device or conveyance found in that place the seizure and detention of which the inspector believes on reasonable grounds are necessary;
+	- **(j)** order the owner or person having possession, care or control of any controlled substance, precursor, designated device or other thing to which the provisions of this Act or the regulations apply that is found in that place to move it or, for any time that may be necessary, not to move it or to restrict its movement;
+	- **(k)** order the owner or person having possession, care or control of any conveyance that is found in that place and that the inspector believes on reasonable grounds contains a controlled substance, precursor or designated device to stop the conveyance, to move it or, for any time that may be necessary, not to move it or to restrict its movement;
+	- **(l)** order any person in that place to establish their identity to the inspector’s satisfaction; and
+	- **(m)** order a person who, at that place, conducts an activity to which the provisions of this Act or the regulations apply to stop or start the activity.
 
-**Powers of inspectors — inspection of supervised consumption sites**
+**Place**
 
-- **(1.1)** In order to confirm any information in relation to an application submitted to the Minister for an exemption for a medical purpose under subsection 56.1(2) to allow certain activities to take place at a supervised consumption site, as defined in subsection 56.1(1), an inspector may, at any reasonable time, enter the site and may for that purpose exercise any of the powers set out in paragraphs (1)(a) to (i).
+- **(1.1)** For the purposes of subsection (1), the inspector may only enter a place in which they believe on reasonable grounds
+	- **(a)** a controlled substance, precursor, designated device or document relating to the administration of this Act or the regulations is located;
+	- **(b)** an activity could be conducted under a licence, permit, authorization or exemption that is under consideration by the Minister;
+	- **(c)** an activity to which the provisions of this Act or the regulations apply is being conducted; or
+	- **(d)** an activity was being conducted under a licence, permit, authorization or exemption before the expiry or revocation of the licence, permit, authorization or exemption, in which case the inspector may enter the place only within 45 days after the day on which it expired or was revoked.
 
-**Powers of inspectors — inspection of supervised consumption sites**
+**Means of telecommunication**
 
-- **(1.2)** In order to verify compliance or to prevent non-compliance with the provisions of this Act or the regulations, or with any terms and conditions specified by the Minister in an exemption granted under subsection 56.1(2), an inspector may, at any reasonable time, enter any supervised consumption site, as defined in subsection 56.1(1), and may for those purposes exercise any of the powers set out in paragraphs (1)(a) to (i).
+- **(1.2)** For the purposes of subsections (1) and (1.1), an inspector is considered to have entered a place when they access it remotely by a means of telecommunication.
 
-**Warrant required to enter dwelling-place**
+**Limitation — access by means of telecommunication**
 
-- **(2)** In the case of a dwelling-place, an inspector may enter it only with the consent of an occupant or under the authority of a warrant issued under subsection (3).
+- **(1.3)** An inspector who enters remotely, by a means of telecommunication, a place that is not accessible to the public must do so with the knowledge of the owner or person in charge of the place and only for the period necessary for any purpose referred to in subsection (1).
+
+**Person accompanying inspector**
+
+- **(1.4)** An inspector may be accompanied by any other person that the inspector believes is necessary to help them exercise their powers or perform their duties or functions under this section.
+
+**Entering private property**
+
+- **(1.5)** An inspector and any person accompanying them may enter and pass through private property, other than a dwelling-house on that property, in order to gain entry to a place referred to in subsection (1.1).
+
+**Warrant to enter dwelling-house**
+
+- **(2)** In the case of a dwelling-house, an inspector may enter it only with the consent of an occupant or under the authority of a warrant issued under subsection (3).
 
 **Authority to issue warrant**
 
-- **(3)** Where, on *ex parte* application, a justice is satisfied by information on oath that
-	- **(a)** a place referred to in subsection (1) or (1.2) is a dwelling-place but otherwise meets the conditions for entry described in that subsection,
-	- **(b)** entry to the dwelling-place is necessary for the purpose of ensuring compliance with the regulations, and
-	- **(c)** entry to the dwelling-place has been refused or there are reasonable grounds to believe that entry will be refused,
-the justice may issue a warrant authorizing the inspector named in it to enter that dwelling-place and exercise any of the powers mentioned in paragraphs (1)(a) to (i), subject to such conditions as may be specified in the warrant.
+- **(3)** A justice may, on *ex parte* application, issue a warrant authorizing the inspector named in it to enter a place and exercise any of the powers mentioned in paragraphs (1)(a) to (m), subject to any conditions that are specified in the warrant, if the justice is satisfied by information on oath that
+	- **(a)** the place is a dwelling-house but otherwise meets the conditions for entry described in subsections (1) and (1.1);
+	- **(b)** entry to the dwelling-house is necessary for the purpose of verifying compliance or preventing non-compliance with the provisions of this Act or the regulations; and
+	- **(c)** entry to the dwelling-house has been refused or there are reasonable grounds to believe that entry will be refused.
 
 **Use of force**
 
@@ -971,24 +1003,24 @@ the justice may issue a warrant authorizing the inspector named in it to enter t
 
 **Assistance to inspector**
 
-- **(5)** The owner or other person in charge of a place entered by an inspector under subsection (1), (1.1) or (1.2) and every person found there shall give the inspector all reasonable assistance in that person’s power and provide the inspector with any information that the inspector may reasonably require.
+- **(5)** The owner or other person in charge of a place entered by an inspector and every person found there shall give the inspector all reasonable assistance in that person’s power and provide the inspector with any information that the inspector may reasonably require.
 
-**Storage of substances seized**
+**Storage**
 
-- **(6)** Where an inspector seizes and detains a controlled substance or a precursor, the substance or precursor may, at the discretion of the inspector, be kept or stored at the place where it was seized or, at the direction of the inspector, be removed to any other proper place.
+- **(6)** Anything that is seized and detained by an inspector under this section may, at the inspector’s discretion, be kept or stored at the place where it was seized or, at the inspector’s direction, be removed to any other proper place.
 
 **Notice**
 
-- **(7)** An inspector who seizes a controlled substance or a precursor shall take such measures as are reasonable in the circumstances to give to the owner or other person in charge of the place where the seizure occurred notice of the seizure and of the location where the controlled substance or precursor is being kept or stored.
+- **(7)** An inspector who seizes anything under this section shall take any measures that are reasonable in the circumstances to give to the owner or other person in charge of the place where the seizure occurred notice of the seizure and of the location where the thing is being kept or stored.
 
 **Return by inspector**
 
-- **(8)** If an inspector determines that to ensure compliance with the regulations or with any terms and conditions specified by the Minister in an exemption granted under subsection 56.1(2) it is no longer necessary to detain a controlled substance or a precursor seized by the inspector under paragraph (1)(i), the inspector shall notify in writing the owner or other person in charge of the place where the seizure occurred of that determination and, on being issued a receipt for it, shall return the controlled substance or precursor to that person.
+- **(8)** If an inspector determines that to verify compliance or prevent non-compliance with the provisions of this Act or the regulations it is no longer necessary to detain anything seized by the inspector under this section, the inspector shall notify in writing the owner or other person in charge of the place where the seizure occurred of that determination and, on being issued a receipt for it, shall return the thing to that person.
 
-**Return or disposal by Minister**
+**Return or disposition by Minister**
 
-- **(9)** Notwithstanding sections 24, 25 and 27, where a period of one hundred and twenty days has elapsed after the date of a seizure under paragraph (1)(i) and the controlled substance or precursor has not been returned in accordance with subsection (8), the controlled substance or precursor shall be returned, disposed of or otherwise dealt with in such manner as the Minister directs, in accordance with any applicable regulations.
-> 1996, c. 19, s. 31; 2015, c. 22, s. 3.
+- **(9)** Despite sections 24, 25 and 27, if a period of 120 days has elapsed after the date of a seizure under this section and the thing has not been returned in accordance with subsection (8), it shall be returned, disposed of or otherwise dealt with in accordance with the regulations or, if there are no applicable regulations, in the manner that the Minister directs.
+> 1996, c. 19, s. 31; 2015, c. 22, s. 3; 2017, c. 7, s. 26.
 
 
 
@@ -998,15 +1030,17 @@ the justice may issue a warrant authorizing the inspector named in it to enter t
 
 **32** 
 
-- **(1)** No person shall, by act or omission, obstruct an inspector who is engaged in the performance of duties under this Act or the regulations.
+- **(1)** No person shall, by act or omission, obstruct an inspector who is engaged in the exercise of their powers or the performance of their duties or functions under this Act or the regulations.
 
 **False statements**
 
-- **(2)** No person shall knowingly make any false or misleading statement verbally or in writing to an inspector who is engaged in the performance of duties under this Act or the regulations.
+- **(2)** No person shall knowingly make any false or misleading statement verbally or in writing to an inspector who is engaged in the exercise of their powers or the performance of their duties or functions under this Act or the regulations.
 
 **Interference**
 
 - **(3)** No person shall, without the authority of an inspector, remove, alter or interfere in any way with anything seized, detained or taken under section 31.
+> 1996, c. 19, s. 32; 2017, c. 7, s. 27.
+
 
 
 
@@ -1191,15 +1225,177 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 
 
 
+### Ministerial Orders
+
+
+
+**Provision of information**
+
+**45.1** The Minister may, by order, require a person who is authorized under this Act to conduct activities in relation to controlled substances or precursors or a person who imports designated devices to provide the Minister, in the time and manner that the Minister specifies, with any information respecting those activities that the Minister considers necessary
+- **(a)** to verify compliance or prevent non-compliance with the provisions of this Act or the regulations; or
+- **(b)** to address an issue of public health or safety.
+> 2017, c. 7, s. 30.
+
+
+
+
+
+**Measures**
+
+**45.2** The Minister may, by order, require a person who is authorized under this Act to conduct activities in relation to controlled substances or precursors to take measures, in the time and manner that the Minister specifies, to prevent non-compliance with the provisions of this Act or the regulations or, if the Minister has reasonable grounds to believe that there is such non-compliance, to remedy it.
+> 2017, c. 7, s. 30.
+
+
+
+
+
+**Review officer**
+
+**45.3** The Minister may designate any qualified individual or class of qualified individuals as review officers for the purpose of reviewing orders under section 45.4.
+> 2017, c. 7, s. 30.
+
+
+
+
+
+**Request for review**
+
+**45.4** 
+
+- **(1)** Subject to any other provision of this section, an order that is made under section 45.1 or 45.2 shall be reviewed on the written request of the person who was ordered to provide information or to take measures — but only on grounds that involve questions of fact alone or questions of mixed law and fact — by a review officer other than the individual who made the order.
+
+**Contents of and time for making request**
+
+- **(2)** The request shall state the grounds for review and set out the evidence — including evidence that was not considered by the individual who made the order — that supports those grounds and the decision that is sought. It shall be provided to the Minister within seven days after the day on which the order was provided.
+
+**No authority to review**
+
+- **(3)** The review is not to be done if the request does not comply with subsection (2) or is frivolous, vexatious or not made in good faith.
+
+**Reasons for refusal**
+
+- **(4)** The person who made the request shall, without delay, be notified in writing of the reasons for not doing the review.
+
+**Review initiated by review officer**
+
+- **(5)** A review officer — other than the individual who made the order — may review an order, whether or not a request is made under subsection (1).
+
+**Order in effect**
+
+- **(6)** An order continues to apply during a review unless the review officer decides otherwise.
+
+**Completion of review**
+
+- **(7)** A review officer shall complete the review no later than 30 days after the day on which the request is provided to the Minister.
+
+**Extension of period for review**
+
+- **(8)** The review officer may extend the review period by no more than 30 days if they are of the opinion that more time is required to complete the review. They may extend the review period more than once.
+
+**Reasons for extension**
+
+- **(9)** If the review period is extended, the person who made the request shall, without delay, be notified in writing of the reasons for extending it.
+
+**Decision on completion of review**
+
+- **(10)** On completion of a review, the review officer shall confirm, amend, terminate or cancel the order.
+
+**Written notice**
+
+- **(11)** The person who made the request or, if there is no request, the person who was ordered to provide information or to take measures shall, without delay, be notified in writing of the reasons for the review officer’s decision under subsection (10).
+
+**Effect of amendment**
+
+- **(12)** An order that is amended is subject to review under this section.
+> 2017, c. 7, s. 30.
+
+
+
+
+
+**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+**45.5** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply in respect of an order made under section 45.1 or 45.2.
+> 2017, c. 7, s. 30.
+
+
+
+
+
 ### Offence and Punishment
 
 
 
 **Penalty**
 
-**46** Every person who contravenes a provision of this Act for which punishment is not otherwise provided or a regulation, other than a designated regulation within the meaning of Part V,
+**46** Every person who contravenes a provision of this Act for which punishment is not otherwise provided, a provision of a regulation or an order made under section 45.1 or 45.2
 - **(a)** is guilty of an indictable offence and liable to a fine not exceeding five thousand dollars or to imprisonment for a term not exceeding three years, or to both; or
 - **(b)** is guilty of an offence punishable on summary conviction and liable to a fine not exceeding one thousand dollars or to imprisonment for a term not exceeding six months, or to both.
+> 1996, c. 19, s. 46; 2017, c. 7, s. 33.
+
+
+
+
+
+### Prohibitions
+
+
+
+**Offence of making false or deceptive statements**
+
+**46.1** No person shall knowingly make, or participate in, assent to or acquiesce in the making of, a false or misleading statement in any book, record, return or other document however recorded, required to be maintained, made or furnished under this Act or the regulations.
+> 2017, c. 7, s. 34.
+
+
+
+
+
+**Compliance with terms and conditions**
+
+**46.2** The holder of a licence, permit, authorization or exemption shall comply with its terms and conditions.
+> 2017, c. 7, s. 34.
+
+
+
+
+
+**Importation of designated device**
+
+**46.3** 
+
+- **(1)** No person shall import into Canada a designated device unless they register the importation with the Minister.
+
+**Information for registration**
+
+- **(2)** The following information shall be submitted to the Minister for the purpose of registering the importation of a designated device :
+	- **(a)** the name of the person importing the designated device or, if the person is a corporation, the corporate name and any other name registered with a province, under which the person carries out its activities or identifies itself;
+	- **(b)** the person’s address or, if the person is a corporation, the address of its primary place of business in Canada;
+	- **(c)** a description of the designated device, including the model number, serial number, and the brand name or trademark associated with it, if any;
+	- **(d)** the address where the designated device will be delivered as well as the street address of the premises where it will be used by the person importing it;
+	- **(e)** the name of the customs office where the importation is anticipated; and
+	- **(f)** the anticipated date of importation.
+
+**Registration**
+
+- **(3)** After the Minister receives the information, the Minister shall register the importation and provide proof of the registration to the person importing the designated device.
+
+**Proof of registration**
+
+- **(4)** The person importing the designated device shall provide the proof of the registration of its importation to the customs office at the time specified by the regulations or, if no time is specified by the regulations, at the time of importation.
+
+**Refusal or cancellation**
+
+- **(5)** The Minister may refuse to register or cancel the registration of the importation of a designated device if the Minister believes on reasonable grounds that false or misleading information was provided, or it is necessary to do so to protect public health or safety or for any other prescribed reason.
+
+**Disclosure of information — designated device**
+
+- **(6)** The Minister is authorized to disclose to the Canada Border Services Agency or an officer, as defined in section 2(1) of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), any information submitted under subsection (2) for the purpose of verifying compliance with the provisions of this Act or the regulations.
+
+**Disclosure of information to police force**
+
+- **(7)** The Minister is authorized to disclose any information submitted under subsection (2) to a Canadian police force or a member of a Canadian police force who requests the information in the course of an investigation under this Act.
+> 2017, c. 7, s. 34.
+
 
 
 
@@ -1208,15 +1404,17 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 
 
 
-**Limitation**
+**Time limit**
 
 **47** 
 
-- **(1)** No summary conviction proceedings in respect of an offence under subsection 4(2) or 32(2), section 43 or the regulations shall be commenced after the expiration of one year after the time when the subject-matter of the proceedings arose.
+- **(1)** No summary conviction proceedings in respect of an offence under subsection 4(2) or 32(2) or the regulations or in respect of a contravention of an order made under section 45.1 or 45.2 shall be commenced after the expiry of one year after the time when the subject matter of the proceedings arose.
 
 **Venue**
 
-- **(2)** Proceedings in respect of a contravention of any provision of this Act or the regulations may be held in the place where the offence was committed or where the subject-matter of the proceedings arose or in any place where the accused is apprehended or happens to be located.
+- **(2)** Proceedings in respect of a contravention of any provision of this Act or the regulations or of an order made under section 45.1 or 45.2 may be held in the place where the offence was committed or where the subject matter of the proceedings arose or in any place where the accused is apprehended or happens to be located.
+> 1996, c. 19, s. 47; 2017, c. 7, s. 37.
+
 
 
 
@@ -1266,19 +1464,19 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 
 
 
-**Certificate of analyst**
+**Certificate or report of analyst**
 
 **51** 
 
-- **(1)** Subject to this section, a certificate or report prepared by an analyst under subsection 45(2) is admissible in evidence in any prosecution for an offence under this Act or the regulations or any other Act of Parliament and, in the absence of evidence to the contrary, is proof of the statements set out in the certificate or report, without proof of the signature or official character of the person appearing to have signed it.
+- **(1)** A certificate or report prepared by an analyst under subsection 45(2) is admissible in evidence in any prosecution for an offence under this Act or any other Act of Parliament and, in the absence of evidence to the contrary, is proof of the statements set out in the certificate or report, without proof of the signature or official character of the person appearing to have signed it.
 
 **Attendance of analyst**
 
 - **(2)** The party against whom a certificate or report of an analyst is produced under subsection (1) may, with leave of the court, require the attendance of the analyst for the purpose of cross-examination.
 
-**Notice**
+- **(3)** [Repealed, 2017, c. 7, s. 38]
+> 1996, c. 19, s. 51; 2017, c. 7, s. 38.
 
-- **(3)** Unless the court otherwise orders, no certificate or report shall be received in evidence under subsection (1) unless the party intending to produce it has, before its production at trial, given to the party against whom it is intended to be produced reasonable notice of that intention, together with a copy of the certificate or report.
 
 
 
@@ -1316,7 +1514,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 
 
 
-### Regulations, Exemptions and Disqualifications
+### Regulations and Exemptions
 
 
 
@@ -1324,12 +1522,13 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 
 **55** 
 
-- **(1)** The Governor in Council may make regulations for carrying out the purposes and provisions of this Act, including the regulation of the medical, scientific and industrial applications and distribution of controlled substances and precursors and the enforcement of this Act and, without restricting the generality of the foregoing, may make regulations
+- **(1)** The Governor in Council may make regulations for carrying out the purposes and provisions of this Act, including the regulation of the medical, scientific and industrial applications and distribution of controlled substances and precursors and the enforcement of this Act, as well as the regulation of designated devices and, without restricting the generality of the foregoing, may make regulations
 	- **(a)** governing, controlling, limiting, authorizing the importation into Canada, exportation from Canada, production, packaging, sending, transportation, delivery, sale, provision, administration, possession or obtaining of or other dealing in any controlled substances or precursor or any class thereof;
 	- **(b)** respecting the circumstances in which, the conditions subject to which and the persons or classes of persons by whom any controlled substances or precursor or any class thereof may be imported into Canada, exported from Canada, produced, packaged, sent, transported, delivered, sold, provided, administered, possessed, obtained or otherwise dealt in, as well as the means by which and the persons or classes of persons by whom such activities may be authorized;
-	- **(c)** respecting the issuance, suspension, cancellation, duration and terms and conditions of any class of licence for the importation into Canada, exportation from Canada, production, packaging, sale, provision or administration of any substance included in Schedule I, II, III, IV, V or VI or any class thereof;
-	- **(d)** respecting the issuance, suspension, cancellation, duration and terms and conditions of any permit for the importation into Canada, exportation from Canada or production of a specified quantity of a substance included in Schedule I, II, III, IV, V or VI or any class thereof;
-	- **(e)** prescribing the fees payable on application for any of the licences or permits provided for in paragraphs (c) and (d);
+	- **(c)** respecting the issuance, suspension, cancellation, duration and terms and conditions of any licence or class of licences for the importation into Canada, exportation from Canada, production, packaging, sale, provision or administration of any substance included in Schedule I, II, III, IV, V or VI or any class of those substances;
+	- **(d)** respecting the issuance, suspension, cancellation, duration and terms and conditions of any permit for the importation into Canada, exportation from Canada or production of a substance included in Schedule I, II, III, IV, V or VI or any class of those substances as well as the amount of those substances or any class of those substances that may be imported, exported or produced under such a permit;
+	- **(d.1)** authorizing the Minister to impose terms and conditions on any licence or any permit including existing licences or permits, and to amend those terms and conditions;
+	- **(e)** prescribing the fees payable on application for any of the licences or permits;
 	- **(f)** respecting the method of production, preservation, testing, packaging or storage of any controlled substance or precursor or any class thereof;
 	- **(g)** respecting the premises, processes or conditions for the production or sale of any controlled substance or any class thereof, and deeming such premises, processes or conditions to be or not to be suitable for the purposes of the regulations;
 	- **(h)** respecting the qualifications of persons who are engaged in the production, preservation, testing, packaging, storage, selling, providing or otherwise dealing in any controlled substance or precursor or any class thereof and who do so under the supervision of a person licensed under the regulations to do any such thing;
@@ -1337,64 +1536,64 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 	- **(j)** respecting the labelling, packaging, size, dimensions, fill and other specifications of packages used for the importation into Canada, exportation from Canada, sending, transportation, delivery, sale or provision of or other dealing in any substance included in Schedule I, II, III, IV, V or VI or any class thereof;
 	- **(k)** respecting the distribution of samples of any substance included in Schedule I, II, III, IV, V or VI or any class thereof;
 	- **(l)** controlling and limiting the advertising for sale of any controlled substance or precursor or any class thereof;
-	- **(m)** respecting the records, books, electronic data or other documents in respect of controlled substances and precursors that are required to be kept and provided by any person or class of persons who imports into Canada, exports from Canada, produces, packages, sends, transports, delivers, sells, provides, administers, possesses, obtains or otherwise deals in any controlled substance or precursor or any class thereof;
-	- **(n)** respecting the qualifications for inspectors and their powers and duties in relation to the enforcement of, and compliance with, the regulations or any terms and conditions specified by the Minister in an exemption granted under subsection 56.1(2);
+	- **(m)** respecting records, reports, electronic data or other documents in respect of controlled substances, precursors or designated devices that are required to be kept and provided by any person or class of persons;
+	- **(n)** respecting the qualifications for inspectors and their powers, duties and functions in relation to verifying compliance or preventing non-compliance with the provisions of this Act or the regulations;
 	- **(o)** respecting the qualifications for analysts and their powers and duties;
-	- **(p)** respecting the detention and disposal of or otherwise dealing with any controlled substance;
-	- **(q)** respecting the disposal of or otherwise dealing with any precursor;
+	- **(p)** respecting the detention and disposition of or otherwise dealing with any controlled substance, precursor, designated device, offence-related property or conveyance;
+	- **(q)** [Repealed, 2017, c. 7, s. 40]
 	- **(r)** respecting the taking of samples of substances under paragraph 31(1)(h);
-	- **(s)** respecting the communication of any information obtained under this Act or the regulations from or relating to any person or class of persons who is or may be authorized to import into Canada, export from Canada, produce, package, send, transport, deliver, sell, provide, administer, possess, obtain or otherwise deal in any controlled substance or precursor or any class thereof
-		- **(i)** to any provincial professional licensing authority, or
-		- **(ii)** to any person or class of persons where, in the opinion of the Governor in Council, it is necessary to communicate that information for the proper administration or enforcement of this Act or the regulations;
+	- **(s)** respecting the collection, use, retention, disclosure and disposal of information;
 	- **(t)** respecting the making, serving, filing and manner of proving service of any notice, order, report or other document required or authorized under this Act or the regulations;
-	- **(u)** prescribing the circumstances in which an order made under subsection 41(3) may be revoked by the Minister pursuant to subsection 42(4);
+	- **(u)** authorizing the Minister to add to or delete from, by order, a schedule to Part J of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md) any item or portion of an item included in Schedule V;
 	- **(v)** prescribing forms for the purposes of this Act or the regulations;
-	- **(w)** establishing classes or groups of controlled substances or precursors;
-	- **(x)** conferring powers or imposing duties and functions on adjudicators in relation to hearings conducted and determinations made by them under Part V;
-	- **(y)** governing the practice and procedure of hearings conducted and determinations made by adjudicators under Part V;
-	- **(z)** exempting, on such terms and conditions as may be specified in the regulations, any person or class of persons or any controlled substance or precursor or any class thereof from the application of this Act or the regulations; and
+	- **(w)** establishing classes or groups of controlled substances, precursors or designated devices;
+	- **(x)** respecting the provision of information under section 45.1;
+	- **(y)** respecting the measures referred to in section 45.2;
+	- **(y.1)** respecting the review of orders under section 45.4;
+	- **(z)** exempting, on any terms and conditions that are specified in the regulations, any person or class of persons or any controlled substance, precursor, designated device or any class of controlled substances, precursors or designated devices from the application of all or any of the provisions of this Act or the regulations;
+	- **(z.01)** respecting the registration of the importation of any designated device or class of designated devices, including the time that proof of registration must be provided; and
 	- **(z.1)** prescribing anything that, by this Act, is to be or may be prescribed.
 
-**Exception related to paragraph (1)(z)**
-
-- **(1.1)** A regulation made under paragraph (1)(z) shall not exempt from the application of all or any of the provisions of this Act or the regulations
-	- **(a)** any person or class of persons in relation to a controlled substance or precursor that is obtained in a manner not authorized under this Act; or
-	- **(b)** any controlled substance or precursor or any class of either of them that is obtained in a manner not authorized under this Act.
+- **(1.1)** [Repealed, 2017, c. 7, s. 40]
 
 **Regulations**
 
 - **(1.2)** The Governor in Council may make regulations for carrying out the purposes of section 56.1, including
 	- **(a)** defining terms for the purposes of that section;
-	- **(b)** amending the definitions that are set out in subsection 56.1(1);
-	- **(c)** respecting any information to be submitted to the Minister under paragraph 56.1(3)(z.1) and the manner in which it is to be submitted;
-	- **(d)** respecting the circumstances in which an exemption may be granted for a medical or law enforcement purpose;
-	- **(e)** respecting requirements in relation to an application for an exemption made under subsection 56.1(2), including the information to be submitted with the application; and
-	- **(f)** respecting terms and conditions in relation to an exemption granted under subsection 56.1(2).
+	- **(b)** [Repealed, 2017, c. 7, s. 40]
+	- **(c)** respecting any information to be submitted to the Minister and the manner in which it is to be submitted;
+	- **(d)** respecting the circumstances in which an exemption may be granted;
+	- **(e)** respecting requirements in relation to an application for an exemption made under subsection 56.1(1); and
+	- **(f)** respecting terms and conditions in relation to an exemption granted under subsection 56.1(1).
 
 **Regulations pertaining to law enforcement**
 
-- **(2)** The Governor in Council, on the recommendation of the Minister of Public Safety and Emergency Preparedness, may make regulations that pertain to investigations and other law enforcement activities conducted under this Act by a member of a police force and other persons acting under the direction and control of a member and, without restricting the generality of the foregoing, may make regulations
-	- **(a)** authorizing the Minister of Public Safety and Emergency Preparedness or the provincial minister responsible for policing in a province, as the case may be, to designate a police force within their jurisdiction for the purposes of this subsection;
-	- **(b)** exempting, on such terms and conditions as may be specified in the regulations, a member of a police force that has been designated pursuant to paragraph (a) and other persons acting under the direction and control of the member from the application of any provision of Part I or the regulations;
-	- **(c)** respecting the issuance, suspension, cancellation, duration and terms and conditions of a certificate, other document or, in exigent circumstances, an approval to obtain a certificate or other document, that is issued to a member of a police force that has been designated pursuant to paragraph (a) for the purpose of exempting the member from the application of this Act or the regulations;
-	- **(d)** respecting the detention, storage, disposal or otherwise dealing with any controlled substance or precursor;
+- **(2)** The Governor in Council, on the recommendation of the Minister of Public Safety and Emergency Preparedness, may make regulations that pertain to investigations and other law enforcement activities conducted under this Act by a member of a police force or of the military police and other persons acting under the direction and control of the member and, without restricting the generality of the foregoing, may make regulations
+	- **(a)** authorizing, for the purposes of this subsection,
+		- **(i)** the Minister of Public Safety and Emergency Preparedness or the provincial minister responsible for policing in a province, as the case may be, to designate a police force within their jurisdiction, or
+		- **(ii)** the Minister of National Defence to designate military police;
+	- **(b)** exempting, on any terms and conditions that are specified in the regulations, a member of a police force or of the military police that has been designated under paragraph (a), and other persons acting under the direction and control of the member, from the application of any provision of Part I or the regulations;
+	- **(c)** respecting the issuance, suspension, cancellation, duration and terms and conditions of a certificate, other document or, in exigent circumstances, an approval to obtain a certificate or other document, that is issued to a member of a police force or of the military police that has been designated under paragraph (a) for the purpose of exempting the member from the application of any provision of this Act or the regulations;
+	- **(d)** respecting the detention, storage and disposition of or other dealing with any controlled substance or precursor;
 	- **(e)** respecting records, reports, electronic data or other documents in respect of a controlled substance or precursor that are required to be kept and provided by any person or class of persons; and
 	- **(f)** prescribing forms for the purposes of the regulations.
 
-**Regulations pertaining to law enforcement under other Acts of Parliament**
+**Regulations pertaining to law enforcement under other Acts**
 
-- **(2.1)** The Governor in Council, on the recommendation of the Minister of Public Safety and Emergency Preparedness, may, for the purpose of an investigation or other law enforcement activity conducted under another Act of Parliament, make regulations authorizing a member of a police force or other person under the direction and control of such a member to commit an act or omission — or authorizing a member of a police force to direct the commission of an act or omission — that would otherwise constitute an offence under Part I or the regulations and, without restricting the generality of the foregoing, may make regulations
-	- **(a)** authorizing the Minister of Public Safety and Emergency Preparedness or the provincial minister responsible for policing in a province, as the case may be, to designate a police force within their jurisdiction for the purposes of this subsection;
-	- **(b)** exempting, on such terms and conditions as may be specified in the regulations, a member of a police force that has been designated pursuant to paragraph (a) and other persons acting under the direction and control of the member from the application of any provision of Part I or the regulations;
-	- **(c)** respecting the issuance, suspension, cancellation, duration and terms and conditions of a certificate, other document or, in exigent circumstances, an approval to obtain a certificate or other document, that is issued to a member of a police force that has been designated pursuant to paragraph (a) for the purpose of exempting the member from the application of Part I or the regulations;
-	- **(d)** respecting the detention, storage, disposal or other dealing with any controlled substance or precursor;
+- **(2.1)** The Governor in Council, on the recommendation of the Minister of Public Safety and Emergency Preparedness, may, for the purpose of an investigation or other law enforcement activity conducted under another Act of Parliament, make regulations authorizing a member of a police force or of the military police or other person under the direction and control of the member to commit an act or omission — or authorizing a member of a police force or of the military police to direct the commission of an act or omission — that would otherwise constitute an offence under Part I or the regulations and, without restricting the generality of the foregoing, may make regulations
+	- **(a)** authorizing, for the purposes of this subsection,
+		- **(i)** the Minister of Public Safety and Emergency Preparedness or the provincial minister responsible for policing in a province, as the case may be, to designate a police force within their jurisdiction, or
+		- **(ii)** the Minister of National Defence to designate military police;
+	- **(b)** exempting, on any terms and conditions that are specified in the regulations, a member of a police force or of the military police that has been designated under paragraph (a), and other persons acting under the direction and control of the member, from the application of any provision of Part I or the regulations;
+	- **(c)** respecting the issuance, suspension, cancellation, duration and terms and conditions of a certificate, other document or, in exigent circumstances, an approval to obtain a certificate or other document, that is issued to a member of a police force or of the military police that has been designated under paragraph (a) for the purpose of exempting the member from the application of any provision of Part I or the regulations;
+	- **(d)** respecting the detention, storage and disposition of or other dealing with any controlled substance or precursor;
 	- **(e)** respecting records, reports, electronic data or other documents in respect of a controlled substance or precursor that are required to be kept and provided by any person or class of persons; and
 	- **(f)** prescribing forms for the purposes of the regulations.
 
 **Incorporation by reference**
 
 - **(3)** Any regulations made under this Act incorporating by reference a classification, standard, procedure or other specification may incorporate the classification, standard, procedure or specification as amended from time to time, and, in such a case, the reference shall be read accordingly.
-> 1996, c. 19, s. 55; 2001, c. 32, s. 55; 2005, c. 10, s. 15; 2015, c. 22, s. 4.
+> 1996, c. 19, s. 55; 2001, c. 32, s. 55; 2005, c. 10, s. 15; 2015, c. 22, s. 4; 2017, c. 7, s. 40.
 
 
 
@@ -1408,131 +1607,54 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 
 **Exception**
 
-- **(2)** The Minister is not authorized under subsection (1) to exempt from the application of all or any of the provisions of this Act or the regulations
-	- **(a)** any person or class of persons in relation to a controlled substance or precursor that is obtained in a manner not authorized under this Act; or
-	- **(b)** any controlled substance or precursor or any class of either of them that is obtained in a manner not authorized under this Act.
-> 1996, c. 19, s. 56; 2015, c. 22, s. 5.
+- **(2)** The Minister is not authorized under subsection (1) to grant an exemption for a medical purpose that would allow activities in relation to a controlled substance or precursor that is obtained in a manner not authorized under this Act to take place at a supervised consumption site.
+> 1996, c. 19, s. 56; 2015, c. 22, s. 5; 2017, c. 7, s. 41.
 
 
 
 
 
-**Interpretation**
+**Exemption for medical purpose — supervised consumption site**
 
 **56.1** 
 
-- **(1)** The following definitions apply in this section.
-
-***alternate person in charge*** means any person designated by the applicant who is responsible, when the responsible person in charge is absent from the supervised consumption site, for ensuring that every person or class of persons who is exempted for a medical purpose under subsection (2) from the application of all or any of the provisions of this Act or the regulations complies with any terms and conditions specified by the Minister in the exemption when they are at the site.
-
-***designated criminal offence*** means
-- **(a)** an offence involving the financing of terrorism against any of sections 83.02 to 83.04 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
-- **(b)** an offence involving fraud against any of sections 380 to 382 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
-- **(c)** the offence of laundering proceeds of crime against section 462.31 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
-- **(d)** an offence involving a criminal organization against any of sections 467.11 to 467.13 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); or
-- **(e)** a conspiracy or an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence referred to in any of paragraphs (a) to (d).
-
-***designated drug offence*** means
-- **(a)** an offence against section 39, 44.2, 44.3, 48, 50.2 or 50.3 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md), as those provisions read immediately before May 14, 1997;
-- **(b)** an offence against section 4, 5, 6, 19.1 or 19.2 of the Narcotic Control Act, as those provisions read immediately before May 14, 1997;
-- **(c)** an offence under Part I of this Act, except subsection 4(1); or
-- **(d)** a conspiracy or an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence referred to in any of paragraphs (a) to (c).
-
-***illicit substance*** means a controlled substance that is obtained in a manner not authorized under this Act.
-
-***key staff members*** means the persons designated by the applicant who are responsible for the direct supervision, at the supervised consumption site, of the consumption of an illicit substance by every person or class of persons who is exempted for a medical purpose under subsection (2) from the application of all or any of the provisions of this Act or the regulations.
-
-***local government*** includes
-- **(a)** a council of an incorporated city, metropolitan area, town, village or other municipality;
-- **(b)** an authority responsible for delivering municipal services to an unincorporated city, metropolitan area, town, village or other municipality;
-- **(c)** a council of the band, as that term is defined in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md); and
-- **(d)** a government of a band that is a party to a comprehensive self-government agreement that is given effect by an Act of Parliament.
-
-***municipality*** includes
-- **(a)** the geographical area of an incorporated or unincorporated city, metropolitan area, town, village or other municipality;
-- **(b)** a reserve and designated lands, as those terms are defined in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md); and
-- **(c)** lands that are subject to a comprehensive self-government agreement that is given effect by an Act of Parliament.
-
-***responsible person in charge*** means the person, designated by the applicant, who is responsible, when the person is at the supervised consumption site, for ensuring that every person or class of persons who is exempted for a medical purpose under subsection (2) from the application of all or any of the provisions of this Act or the regulations complies with the terms and conditions specified by the Minister in the exemption when they are at the site.
-
-***supervised consumption site*** means a location specified in the terms and conditions of an exemption, granted by the Minister under subsection (2) for a medical purpose, that allows any person or class of persons described in the exemption to engage in certain activities in relation to an illicit substance within a supervised and controlled environment.
-
-**Exemption by Minister**
-
-- **(2)** The Minister may, on any terms and conditions that the Minister considers necessary, exempt from the application of all or any of the provisions of this Act or the regulations, other than this section, if, in the opinion of the Minister, the exemption is necessary for a medical, law enforcement or prescribed purpose
+- **(1)** For the purpose of allowing certain activities to take place at a supervised consumption site, the Minister may, on any terms and conditions that the Minister considers necessary, exempt the following from the application of all or any of the provisions of this Act or the regulations if, in the opinion of the Minister, the exemption is necessary for a medical purpose:
 	- **(a)** any person or class of persons in relation to a controlled substance or precursor that is obtained in a manner not authorized under this Act; or
 	- **(b)** any controlled substance or precursor or any class of either of them that is obtained in a manner not authorized under this Act.
 
-**Information to accompany application**
+**Application**
 
-- **(3)** The Minister may consider an application for an exemption for a medical purpose under subsection (2) that would allow certain activities to take place at a supervised consumption site only after the following have been submitted:
-	- **(a)** scientific evidence demonstrating that there is a medical benefit to individual or public health associated with access to activities undertaken at supervised consumption sites;
-	- **(b)** a letter from the provincial minister who is responsible for health in the province in which the site would be located that
-		- **(i)** outlines his or her opinion on the proposed activities at the site,
-		- **(ii)** describes how those activities are integrated within the provincial health care system, and
-		- **(iii)** provides information about access to drug treatment services, if any, that are available in the province for persons who would use the site;
-	- **(c)** a letter from the local government of the municipality in which the site would be located that outlines its opinion on the proposed activities at the site, including any concerns with respect to public health or safety;
-	- **(d)** a description by the applicant of the measures that have been taken or will be taken to address any relevant concerns outlined in the letter referred to in paragraph (c);
-	- **(e)** a letter from the head of the police force that is responsible for providing policing services to the municipality in which the site would be located that outlines his or her opinion on the proposed activities at the site, including any concerns with respect to public safety and security;
-	- **(f)** a description by the applicant of the proposed measures, if any, to address any relevant concerns outlined in the letter referred to in paragraph (e);
-	- **(g)** a letter from the lead health professional, in relation to public health, of the government of the province in which the site would be located that outlines their opinion on the proposed activities at the site;
-	- **(h)** a letter from the provincial minister responsible for public safety in the province in which the site would be located that outlines his or her opinion on the proposed activities at the site;
-	- **(i)** a description of the potential impacts of the proposed activities at the site on public safety, including the following:
-		- **(i)** information, if any, on crime and public nuisance in the vicinity of the site and information on crime and public nuisance in the municipalities in which supervised consumption sites are located,
-		- **(ii)** information, if any, on the public consumption of illicit substances in the vicinity of the site and information on the public consumption of illicit substances in the municipalities in which supervised consumption sites are located, and
-		- **(iii)** information, if any, on the presence of inappropriately discarded drug-related litter in the vicinity of the site and information on the presence of inappropriately discarded drug-related litter in the municipalities in which supervised consumption sites are located;
-	- **(j)** law enforcement research or statistics, if any, in relation to the information required under subparagraphs (i)(i) to (iii);
-	- **(k)** relevant information, including trends, if any, on the number of persons who consume illicit substances in the vicinity of the site and in the municipality in which the site would be located;
-	- **(l)** relevant information, including trends, if any, on the number of persons with infectious diseases that may be in relation to the consumption of illicit substances in the vicinity of the site and in the municipality in which the site would be located;
-	- **(m)** relevant information, including trends, if any, on the number of deaths, if any, due to overdose — in relation to activities that would take place at the site — that have occurred in the vicinity of the site and in the municipality in which the site would be located;
-	- **(n)** official reports, if any, relevant to the establishment of a supervised consumption site, including any coroner’s reports;
-	- **(o)** a report of the consultations held with the professional licensing authorities for physicians and for nurses for the province in which the site would be located that contains each authority’s opinion on the proposed activities at the site;
-	- **(p)** a report of the consultations held with a broad range of community groups from the municipality in which the site would be located that includes
-		- **(i)** a summary of the opinions of those groups on the proposed activities at the site,
-		- **(ii)** copies of all written submissions received, and
-		- **(iii)** a description of the steps that will be taken to address any relevant concerns that were raised during the consultations;
-	- **(q)** a financing plan that demonstrates the feasibility and sustainability of operating the site;
-	- **(r)** a description of the drug treatment services available at the site, if any, for persons who would use the site and the information that would be made available to those persons in relation to drug treatment services available elsewhere;
-	- **(s)** relevant information, including trends, on loitering in a public place that may be related to certain activities involving illicit substances, on trafficking of controlled substances and on minor offence rates in the vicinity of the site, if any;
-	- **(t)** information on any public health emergency in the vicinity of the site or in the municipality in which the site would be located that may be in relation to activities involving illicit substances as declared by a competent authority with respect to public health, if any;
-	- **(u)** a description of the measures that will be taken to minimize the diversion of controlled substances or precursors and the risks to the health and the safety and security of persons at the site, or in the vicinity of the site, including staff members, which measures must include the establishment of procedures
-		- **(i)** to dispose of controlled substances, precursors, and any thing that facilitates their consumption, including how to transfer them to a police officer,
-		- **(ii)** to control access to the site, and
-		- **(iii)** to prevent the loss or theft of controlled substances and precursors;
-	- **(v)** a description of record keeping procedures for the disposal, loss, theft and transfer of controlled substances and precursors — and any thing that facilitates their consumption — left at the site;
-	- **(w)** the name, title and resumé, including relevant education and training, of the proposed responsible person in charge, of each of their proposed alternate responsible persons, and of each of the other proposed key staff members;
-	- **(x)** a document issued by a Canadian police force in relation to each person referred to in paragraph (w), stating whether, in the 10 years before the day on which the application is made, in respect of a designated drug offence or a designated criminal offence, the person was
-		- **(i)** convicted as an adult,
-		- **(ii)** convicted as a young person in ordinary court, as those terms were defined in subsection 2(1) of the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md), chapter Y-1 of the Revised Statutes of Canada, 1985, immediately before that Act was repealed, or
-		- **(iii)** a young person who received an adult sentence, as those terms are defined in subsection 2(1) of the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md);
-	- **(y)** if any of the persons referred to in paragraph (w) has ordinarily resided in a country other than Canada in the 10 years before the day on which the application is made, a document issued by a police force of that country stating whether in that period that person
-		- **(i)** was convicted as an adult for an offence committed in that country that, if committed in Canada, would have constituted a designated drug offence or a designated criminal offence, or
-		- **(ii)** received a sentence — for an offence they committed in that country when they were at least 14 years old but less than 18 years old that, if committed in Canada, would have constituted a designated drug offence or a designated criminal offence — that was longer than the maximum youth sentence that could have been imposed under the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md) for such an offence;
-	- **(z)** any other information that the Minister considers relevant to the consideration of the application; and
-	- **(z.1)** any prescribed information that is submitted in the prescribed manner.
+- **(2)** An application for an exemption under subsection (1) shall include information, submitted in the form and manner determined by the Minister, regarding the intended public health benefits of the site and information, if any, related to
+	- **(a)** the impact of the site on crime rates;
+	- **(b)** the local conditions indicating a need for the site;
+	- **(c)** the administrative structure in place to support the site;
+	- **(d)** the resources available to support the maintenance of the site; and
+	- **(e)** expressions of community support or opposition.
 
-**Information to accompany subsequent application**
+**Subsequent application**
 
-- **(4)** The Minister may consider an application for an exemption for a medical purpose under subsection (2) that would allow certain activities to continue to take place at an existing supervised consumption site only after, in addition to the information referred to in paragraphs (3)(a) to (z.1), the following have been submitted:
-	- **(a)** evidence, if any, of any variation in crime rates in the vicinity of the site during the period beginning on the day on which the first exemption was granted under subsection (2) in relation to the site and ending on the day on which the application is submitted; and
-	- **(b)** evidence, if any, of any impacts of the activities at the site on individual or public health during that period.
-
-**Principles**
-
-- **(5)** The Minister may only grant an exemption for a medical purpose under subsection (2) to allow certain activities to take place at a supervised consumption site in exceptional circumstances and after having considered the following principles:
-	- **(a)** illicit substances may have serious health effects;
-	- **(b)** adulterated controlled substances may pose health risks;
-	- **(c)** the risks of overdose are inherent to the use of certain illicit substances;
-	- **(d)** strict controls are required, given the inherent health risks associated with controlled substances that may alter mental processes;
-	- **(e)** organized crime profits from the use of illicit substances; and
-	- **(f)** criminal activity often results from the use of illicit substances.
+- **(3)** An application for an exemption under subsection (1) that would allow certain activities to continue to take place at a supervised consumption site shall include any update to the information provided to the Minister since the previous exemption was granted, including any information related to the public health impacts of the activities at the site.
 
 **Notice**
 
-- **(6)** The Minister may give notice of any application, in the form and manner determined by the Minister, for an exemption for a medical purpose under subsection (2) to allow certain activities to take place at a supervised consumption site. Members of the public have 90 days after the day on which the notice is given to provide the Minister with comments.
-> 2015, c. 22, s. 5.
+- **(4)** The Minister may give notice, in the form and manner determined by the Minister, of any application for an exemption under subsection (1). The notice shall indicate the period of time — not less than 45 days or more than 90 days — in which members of the public may provide the Minister with comments.
+
+**Public decision**
+
+- **(5)** After making a decision under subsection (1), the Minister shall, in writing, make the decision public and, if the decision is a refusal, include the reasons for it.
+> 2015, c. 22, s. 5; 2017, c. 7, s. 42.
 
 
+
+
+**56.2** A person who is responsible for the direct supervision, at a supervised consumption site, of the consumption of controlled substances, may offer a person using the site alternative pharmaceutical therapy before that person consumes a controlled substance that is obtained in a manner not authorized under this Act.
+> 2017, c. 7, s. 42.
+
+
+
+
+
+### Miscellaneous
 
 
 
@@ -1551,10 +1673,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 
 
 
-
-**Offence of making false or deceptive statements**
-
-**59** No person shall knowingly make, or participate in, assent to or acquiesce in the making of, a false or misleading statement in any book, record, return or other document however recorded, required to be maintained, made or furnished pursuant to this Act or the regulations.
+**59** [Repealed, 2017, c. 7, s. 44]
 
 
 
@@ -1565,7 +1684,28 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 
 **Schedules**
 
-**60** The Governor in Council may, by order, amend any of Schedules I to VIII by adding to them or deleting from them any item or portion of an item, where the Governor in Council deems the amendment to be necessary in the public interest.
+**60** The Governor in Council may, by order, amend any of Schedules I to IV and VI to IX by adding to them or deleting from them any item or portion of an item, if the Governor in Council considers the amendment to be necessary in the public interest.
+> 1996, c. 19, s. 60; 2017, c. 7, s. 45.
+
+
+
+
+
+**Schedule V**
+
+**60.1** 
+
+- **(1)** The Minister may, by order, add to Schedule V any item or portion of an item for a period of up to one year, or extend that period by up to another year, if the Minister has reasonable grounds to believe that it
+	- **(a)** poses a significant risk to public health or safety; or
+	- **(b)** may pose a risk to public health or safety and
+		- **(i)** is being imported into Canada with no legitimate purpose, or
+		- **(ii)** is being distributed in Canada with no legitimate purpose.
+
+**Deletions**
+
+- **(2)** The Minister may, by order, delete any item or portion of an item from Schedule V.
+> 2017, c. 7, s. 45.
+
 
 
 
@@ -1646,7 +1786,7 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 
 
 ### **SCHEDULE I** 
-**(Sections 2 to 7, 29, 55 and 60)**
+**(Sections 2, 4 to 7.1, 10, 29, 55 and 60)**
 - **1** Opium Poppy (Papaver somniferum), its preparations, derivatives, alkaloids and salts, including:
 - **(1)** Opium
 - **(2)** Codeine (methylmorphine)
@@ -1842,13 +1982,13 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - but not including
 - **(5)** Lefetamine ((-)-N,N-dimethyl-α-phenylbenzeneethanamine), its salts, derivatives and isomers and salts of derivatives and isomers
 - **25** W-18 (4-chloro-N-[1-[2-(4-nitrophenyl)ethyl]-2-piperidinylidene]benzenesulfonamide), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues
-> 1996, c. 19, Sch. I; SOR/97-230, ss. 1 to 6; SOR/99-371, ss. 1, 2; SOR/99-421, s. 1(E); SOR/2005-235, s. 1; SOR/2005-271, 337; 2012, c. 1, s. 44; SOR/2012-176; SOR/2015-190; SOR/2016-107, s. 1; SOR/2017-13, ss. 1 to 5.
+> 1996, c. 19, Sch. I; SOR/97-230, ss. 1 to 6; SOR/99-371, ss. 1, 2; SOR/99-421, s. 1(E); SOR/2005-235, s. 1; SOR/2005-271, 337; 2012, c. 1, s. 44; SOR/2012-176; SOR/2015-190; SOR/2016-107, s. 1; 2017, c. 7, s. 46; SOR/2017-13, ss. 1 to 5.
 
 
 
 
 ### **SCHEDULE II** 
-**(Sections 2, 3, 4 to 7, 10, 29, 55 and 60)**
+**(Sections 2, 4 to 7.1, 10, 29, 55 and 60)**
 - **1** Cannabis, its preparations and derivatives, including
 - **(1)** Cannabis resin
 - **(2)** Cannabis (marihuana)
@@ -1906,13 +2046,13 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **(9)** Any substance that has a 3-carboxamideindole structure with substitution at the nitrogen atom of the indole ring, whether or not further substituted on the indole ring to any extent and whether or not substituted at the carboxamide group to any extent, including
 - **(i)** N-(adamantan-1-yl)-1-fluoropentylindole-3-carboxamide (STS-135)
 - **(ii)** N-(adamantan-1-yl)-1-pentylindole-3-carboxamide (APICA)
-> 1996, c. 19, Sch. II; SOR/98-157; SOR/2003-32, s. 1; SOR/2015-192.
+> 1996, c. 19, Sch. II; SOR/98-157; SOR/2003-32, s. 1; SOR/2015-192; 2017, c. 7, s. 47.
 
 
 
 
 ### **SCHEDULE III** 
-**(Sections 2 to 7, 29, 55 and 60)**
+**(Sections 2, 4 to 7.1, 10, 29, 55 and 60)**
 - **1** [Repealed, 2012, c. 1, s. 45]
 - **2** Methylphenidate (methyl 2-phenyl-2-(piperidin-2-yl)acetate), its salts, derivatives, isomers and analogues and salts of derivatives, isomers and analogues, including
 - **(1)** Ethylphenidate (ethyl 2-phenyl-2-(piperidin-2-yl)acetate)
@@ -1960,13 +2100,13 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **(2)** 4-chloro-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine (25C-NBOMe)
 - **(3)** 4-iodo-2,5-dimethoxy-N-(2-methoxybenzyl)phenethylamine (25I-NBOMe)
 - **(4)** 4-bromo-2,5-dimethoxybenzeneethanamine (2C-B)
-> 1996, c. 19, Sch. III; SOR/97-230, ss. 7 to 10; SOR/98-173, s. 1; SOR/2000-220, s. 1; SOR/2003-32, ss. 2, 3, 4(F), 5; SOR/2003-412; SOR/2005-235, s. 2; 2012, c. 1, ss. 45, 46; SOR/2012-66; SOR/2016-73; SOR/2016-107, s. 2; SOR/2017-13, s. 6; SOR/2017-44.
+> 1996, c. 19, Sch. III; SOR/97-230, ss. 7 to 10; SOR/98-173, s. 1; SOR/2000-220, s. 1; SOR/2003-32, ss. 2, 3, 4(F), 5; SOR/2003-412; SOR/2005-235, s. 2; 2012, c. 1, ss. 45, 46; SOR/2012-66; SOR/2016-73; SOR/2016-107, s. 2; 2017, c. 7, s. 48; SOR/2017-13, s. 6; SOR/2017-44.
 
 
 
 
 ### **SCHEDULE IV** 
-**(Sections 2 to 4, 5 to 7, 29, 55 and 60)**
+**(Sections 2, 4 to 7.1, 10, 29, 55 and 60)**
 - **1** Barbiturates, their salts and derivatives including
 - **(1)** Allobarbital (5,5–diallylbarbituric acid)
 - **(2)** Alphenal (5–allyl–5–phenylbarbituric acid)
@@ -2115,17 +2255,14 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 - **26** Pyrovalerone (4′-methyl-2-(1-pyrrolidinyl)valerophenone) and any salt thereof
 - **27** Salvia divinorum (S. divinorum), its preparations and derivatives, including:
 - **(1)** Salvinorin A ((2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acetyloxy)-2-(3-furanyl)dodecahydro-6a,10b-dimethyl-4,10-dioxo-2H-naphtho[2,1-c]pyran-7-carboxylic acid methyl ester)
-> 1996, c. 19, Sch. IV; SOR/97-230, ss. 11 to 15; SOR/98-173, s. 2; SOR/99-371, s. 3; SOR/99-421, s. 2(E); SOR/2000-220, s. 2; SOR/2003-32, s. 6; SOR/2003-37; SOR/2015-209; SOR/2017-13, ss. 7 to 9, 10(E), 11, 12.
+> 1996, c. 19, Sch. IV; SOR/97-230, ss. 11 to 15; SOR/98-173, s. 2; SOR/99-371, s. 3; SOR/99-421, s. 2(E); SOR/2000-220, s. 2; SOR/2003-32, s. 6; SOR/2003-37; SOR/2015-209; 2017, c. 7, s. 49; SOR/2017-13, ss. 7 to 9, 10(E), 11, 12.
 
 
 
 
 ### **SCHEDULE V** 
-**(Sections 2, 4, 6, 55 and 60)**
-- **1** [Repealed, SOR/2002-361, s. 1]
-- **2** Propylhexedrine (1–cyclohexyl–2–methylaminopropane) and any salt thereof
-- **3** [Repealed, SOR/2003-32, s. 7]
-> 1996, c. 19, Sch. V; SOR/2002-361, s. 1; SOR/2003-32, s. 7.
+**(Sections 2, 5 to 7.1, 10, 55 and 60.1)**
+> 1996, c. 19, Sch. V; SOR/2002-361, s. 1; SOR/2003-32, s. 7; 2017, c. 7, s. 50.
 
 
 
@@ -2248,5 +2385,14 @@ and may, for that purpose, suspend, cancel or amend any licence, permit or autho
 </table>
 
 > 1996, c. 19, Sch. VIII; SOR/97-230, s. 16.
+
+
+
+
+### **SCHEDULE IX** 
+**(Sections 2 and 60)**
+- **1** Manual, semi-automatic or fully automatic device that may be used to compact or mould powdered, granular or semi-solid material to produce coherent solid tablets
+- **2** Manual, semi-automatic or fully automatic device that may be used to fill capsules with any powdered, granular, semi-solid or liquid material
+> 2017, c. 7, s. 51.
 
 
