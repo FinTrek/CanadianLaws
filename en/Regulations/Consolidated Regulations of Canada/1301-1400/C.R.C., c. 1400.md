@@ -1068,74 +1068,74 @@ Enabling authorities:
 
 **45** In this Part,
 
-***Act*** means the [Seeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-8.md); (*Loi*)
+***Act*** means the [Seeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-8.md); (*Loi*)
 
-***Agency*** means the Canadian Food Inspection Agency established by section 3 of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md); (*Agence*)
+***Agency*** means the Canadian Food Inspection Agency established by section 3 of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md); (*Agence*)
 
-***aseptic environment*** means a facility which excludes microorganisms that are capable of causing contamination or infection; (*milieu aseptique*)
+***aseptic environment*** means a facility which excludes microorganisms that are capable of causing contamination or infection; (*milieu aseptique*)
 
-***bacterial ring rot*** means the disease caused by the bacterial pathogen *Clavibacter michiganensis* subsp. *sepedonicus*; (*flétrissement bactérien*)
+***bacterial ring rot*** means the disease caused by the bacterial pathogen *Clavibacter michiganensis* subsp. *sepedonicus*; (*flétrissement bactérien*)
 
-***Breeder’s Selection seed potatoes*** means seed potatoes that are direct progeny of true seed, or of selected tubers, and that are grown for the purpose of evaluation as a potential variety for commercial use; (*pommes de terre de semences Choix du sélectionneur*)
+***Breeder’s Selection seed potatoes*** means seed potatoes that are direct progeny of true seed, or of selected tubers, and that are grown for the purpose of evaluation as a potential variety for commercial use; (*pommes de terre de semences Choix du sélectionneur*)
 
-***certificate number*** means the number that appears on a crop certificate to identify a crop and that appears on a seed potato tag, a record of bulk movement, a permit issued under section 57, or a special certificate of authorization issued under section 61, to identify the tubers produced by that crop; (*numéro de certificat*)
+***certificate number*** means the number that appears on a crop certificate to identify a crop and that appears on a seed potato tag, a record of bulk movement, a permit issued under section 57, or a special certificate of authorization issued under section 61, to identify the tubers produced by that crop; (*numéro de certificat*)
 
-***class*** means a class of seed potatoes established in section 47; (*classe*)
+***class*** means a class of seed potatoes established in section 47; (*classe*)
 
-***common equipment*** means any piece of farming, storing, transporting or sorting equipment that is used jointly by two or more growers; (*équipement commun*)
+***common equipment*** means any piece of farming, storing, transporting or sorting equipment that is used jointly by two or more growers; (*équipement commun*)
 
-***crop*** means Breeder’s Selection seed potatoes, or a variety and class of seed potatoes, growing in an aseptic environment, a protected environment or in one or more fields of a farm unit; (*culture*)
+***crop*** means Breeder’s Selection seed potatoes, or a variety and class of seed potatoes, growing in an aseptic environment, a protected environment or in one or more fields of a farm unit; (*culture*)
 
-***Department*** [Repealed, SOR/2000-184, s. 84]
+***Department***[Repealed, SOR/2000-184, s. 84]
 
-***Director*** [Repealed, SOR/2000-184, s. 84]
+***Director***[Repealed, SOR/2000-184, s. 84]
 
-***farm unit*** means
+***farm unit*** means
 - **(a)** a single tract of land operated for the production and marketing of seed potatoes under the control of a grower, or
-- **(b)** a number of separate tracts of land operated as a single unit, with the use of common equipment, facilities or storage, for the production and marketing of seed potatoes under the control of the same grower; (*unité de production*)
+- **(b)** a number of separate tracts of land operated as a single unit, with the use of common equipment, facilities or storage, for the production and marketing of seed potatoes under the control of the same grower; (*unité de production*)
 
-***field*** means the identifiable area of land on which Breeder’s Selection seed potatoes, or seed potatoes of a particular variety and class, are planted or have been produced; (*champ*)
+***field*** means the identifiable area of land on which Breeder’s Selection seed potatoes, or seed potatoes of a particular variety and class, are planted or have been produced; (*champ*)
 
-***generation*** [Repealed, SOR/2002-198, s. 1]
+***generation***[Repealed, SOR/2002-198, s. 1]
 
-***grower*** means an individual, a cooperative, a corporation or a partnership that grows seed potatoes; (*producteur*)
+***grower*** means an individual, a cooperative, a corporation or a partnership that grows seed potatoes; (*producteur*)
 
-***laboratory tests*** means tests that are conducted in a laboratory that is accredited under the Agency Laboratory Accreditation Program or in a laboratory that can reasonably be considered to be equivalent to a laboratory accredited under that program; (*essais en laboratoire*)
+***laboratory tests*** means tests that are conducted in a laboratory that is accredited under the Agency Laboratory Accreditation Program or in a laboratory that can reasonably be considered to be equivalent to a laboratory accredited under that program; (*essais en laboratoire*)
 
-***lot*** means the quantity of harvested seed potatoes of a variety and class that is identifiable by one certificate number or the quantity of Breeder’s Selection seed potatoes that are identifiable by one certificate number; (*lot*)
+***lot*** means the quantity of harvested seed potatoes of a variety and class that is identifiable by one certificate number or the quantity of Breeder’s Selection seed potatoes that are identifiable by one certificate number; (*lot*)
 
-***non-certified potatoes*** means
+***non-certified potatoes*** means
 - **(a)** potatoes that do not meet the standards for any of the classes established in section 47 or the standards established for Breeder’s Selection seed potatoes in section 61.1, or
-- **(b)** seed potatoes that have been transported without seed potato tags, a record of bulk movement, a permit issued under section 57 or a special certificate of authorization issued under section 61; (*pommes de terre non certifiées*)
+- **(b)** seed potatoes that have been transported without seed potato tags, a record of bulk movement, a permit issued under section 57 or a special certificate of authorization issued under section 61; (*pommes de terre non certifiées*)
 
-***nuclear stock*** [Repealed, SOR/97-118, s. 1]
+***nuclear stock***[Repealed, SOR/97-118, s. 1]
 
-***protected environment*** means a facility for which there are appropriate procedures and physical barriers to prevent the entry of plant pathogens and insects; (*milieu protégé*)
+***protected environment*** means a facility for which there are appropriate procedures and physical barriers to prevent the entry of plant pathogens and insects; (*milieu protégé*)
 
-***PSTV*** means the disease in a potato plant or tuber caused by the pathogen known as potato spindle tuber viroid; (*filosité des tubercules*)
+***PSTV*** means the disease in a potato plant or tuber caused by the pathogen known as potato spindle tuber viroid; (*filosité des tubercules*)
 
-***record of bulk movement*** means a record provided to a grower under subsection 56(1); (*dossier de transport en vrac*)
+***record of bulk movement*** means a record provided to a grower under subsection 56(1); (*dossier de transport en vrac*)
 
-***seed potato*** means a tuber, or any part of a tuber, or nuclear stock, that is certified under these Regulations for seed-reproduction purposes; (*pomme de terre de semence*)
+***seed potato*** means a tuber, or any part of a tuber, or nuclear stock, that is certified under these Regulations for seed-reproduction purposes; (*pomme de terre de semence*)
 
-***seed potato tag*** means a tag provided to a grower under subsection 53(1); (*étiquette de pommes de terre de semence*)
+***seed potato tag*** means a tag provided to a grower under subsection 53(1); (*étiquette de pommes de terre de semence*)
 
-***shipment*** means the movement of one lot, or any part thereof, of seed potatoes to a single consignee; (*expédition*)
+***shipment*** means the movement of one lot, or any part thereof, of seed potatoes to a single consignee; (*expédition*)
 
-***table stock potato*** [Repealed, SOR/2002-198, s. 1]
+***table stock potato***[Repealed, SOR/2002-198, s. 1]
 
-***tuber unit*** means the separate pieces of one tuber that are planted consecutively in two or more hills in a row; (*tubercules individualisés*)
+***tuber unit*** means the separate pieces of one tuber that are planted consecutively in two or more hills in a row; (*tubercules individualisés*)
 
-***variety*** means a variety of seed potatoes that
+***variety*** means a variety of seed potatoes that
 - **(a)** is distinguished by common morphological, physiological, cytological, chemical or other common characteristics, and
-- **(b)** retains its distinguishing characteristics when reproduced; (*variété*)
+- **(b)** retains its distinguishing characteristics when reproduced; (*variété*)
 
-***volunteer*** means a growing plant that originates from a tuber that has been left in a field from a previous crop; (*plant spontané*)
+***volunteer*** means a growing plant that originates from a tuber that has been left in a field from a previous crop; (*plant spontané*)
 
-***zero tolerance*** means
+***zero tolerance*** means
 - **(a)** in respect of a disease, the requirement of the absence of the disease in a plant, or in any part thereof, including a tuber, and
-- **(b)** in respect of a varietal mixture, the requirement of the absence of the mixture of two or more varieties. (*tolérance zéro*)
-> SOR/86-849, s. 5; SOR/91-526, s. 1; SOR/93-331, s. 1; SOR/95-179, s. 1; SOR/97-118, s. 1; SOR/97-292, s. 34; SOR/2000-184, s. 84; SOR/2002-198, s. 1.
+- **(b)** in respect of a varietal mixture, the requirement of the absence of the mixture of two or more varieties. (*tolérance zéro*)
+> SOR/86-849, s. 5; SOR/91-526, s. 1; SOR/93-331, s. 1; SOR/95-179, s. 1; SOR/97-118, s. 1; SOR/97-292, s. 34; SOR/2000-184, s. 84; SOR/2002-198, s. 1; SOR/2017-94, s. 1(F).
 
 
 
@@ -1216,8 +1216,8 @@ Enabling authorities:
 
 - **(3)** Any material that is being produced as Nuclear Stock seed potatoes shall be removed without delay from an aseptic or protected environment if it tests positive for pathogenic bacterial or viral organisms or manifests signs or symptoms of saprophytic contamination.
 
-- **(4)** No person shall sell or transfer all the rights of ownership of Nuclear Stock seed potatoes unless he or she possesses a seed potato tag or inspector’s certificate that indicates that the seed potatoes are Nuclear Stock seed potatoes.
-> SOR/97-118, s. 2; SOR/97-292, s. 35; SOR/2000-184, s. 91; SOR/2002-198, s. 3.
+- **(4)** A person who sells or transfers Nuclear Stock seed potatoes shall identify those seed potatoes with a seed potato tag or a certificate provided by an inspector that indicates that the seed potatoes are Nuclear Stock seed potatoes.
+> SOR/97-118, s. 2; SOR/97-292, s. 35; SOR/2000-184, s. 91; SOR/2002-198, s. 3; SOR/2017-94, s. 2.
 
 
 
@@ -1238,7 +1238,7 @@ Enabling authorities:
 - **(3)** The percentage of plants showing visible varietal mixture or visible symptoms of disease set out in column 1 of an item of the table to this section on the first inspection, any subsequent inspection and the final inspection shall not exceed the applicable percentages set out in columns 2 and 3 of that item.
 #### TABLE
 <table>
-<h4>PRE-ELITE</h4>
+<h4>Pre-Elite</h4>
 <tr>
 <th></th>
 <th>Column 1</th>
@@ -1283,7 +1283,7 @@ Enabling authorities:
 </tr>
 </table>
 
-> SOR/91-526, s. 1; SOR/95-179, s. 2; SOR/97-118, s. 3; SOR/2002-198, s. 3.
+> SOR/91-526, s. 1; SOR/95-179, s. 2; SOR/97-118, s. 3; SOR/2002-198, s. 3; SOR/2017-94, s. 3(F).
 
 
 
@@ -1303,7 +1303,7 @@ Enabling authorities:
 - **(3)** The percentage of plants showing visible varietal mixture or visible symptoms of disease set out in column 1 of an item of the table to this section on the first inspection, any subsequent inspection and the final inspection shall not exceed the applicable percentages set out in columns 2 and 3 of that item.
 #### TABLE
 <table>
-<h4>ELITE I</h4>
+<h4>Elite I</h4>
 <tr>
 <th></th>
 <th>Column 1</th>
@@ -1348,7 +1348,7 @@ Enabling authorities:
 </tr>
 </table>
 
-> SOR/91-526, s. 1; SOR/95-179, s. 3; SOR/97-118, s. 4; SOR/2002-198, s. 3.
+> SOR/91-526, s. 1; SOR/95-179, s. 3; SOR/97-118, s. 4; SOR/2002-198, s. 3; SOR/2017-94, s. 4(F).
 
 
 
@@ -1368,7 +1368,7 @@ Enabling authorities:
 - **(3)** The percentage of plants showing visible varietal mixture or visible symptoms of disease set out in column 1 of an item of the table to this section on the first inspection, any subsequent inspection and the final inspection shall not exceed the applicable percentages set out in columns 2 and 3 of that item.
 #### TABLE
 <table>
-<h4>ELITE II</h4>
+<h4>Elite II</h4>
 <tr>
 <th></th>
 <th>Column 1</th>
@@ -1413,7 +1413,7 @@ Enabling authorities:
 </tr>
 </table>
 
-> SOR/91-526, s. 1; SOR/95-179, s. 4; SOR/97-118, s. 5; SOR/2002-198, s. 3.
+> SOR/91-526, s. 1; SOR/95-179, s. 4; SOR/97-118, s. 5; SOR/2002-198, s. 3; SOR/2017-94, s. 5(F).
 
 
 
@@ -1433,7 +1433,7 @@ Enabling authorities:
 - **(3)** The percentage of plants showing visible varietal mixture or visible symptoms of disease set out in column 1 of an item of the table to this section on the first inspection, any subsequent inspection and the final inspection shall not exceed the applicable percentages set out in columns 2 and 3 of that item.
 #### TABLE
 <table>
-<h4>ELITE III</h4>
+<h4>Elite III</h4>
 <tr>
 <th></th>
 <th>Column 1</th>
@@ -1478,7 +1478,7 @@ Enabling authorities:
 </tr>
 </table>
 
-> SOR/91-526, s. 1; SOR/95-179, s. 5; SOR/2002-198, s. 3.
+> SOR/91-526, s. 1; SOR/95-179, s. 5; SOR/2002-198, s. 3; SOR/2017-94, s. 6(F).
 
 
 
@@ -1498,7 +1498,7 @@ Enabling authorities:
 - **(3)** The percentage of plants showing visible varietal mixture or visible symptoms of disease set out in column 1 of an item of the table to this section on the first inspection, any subsequent inspection and the final inspection shall not exceed the applicable percentages set out in columns 2 and 3 of that item.
 #### TABLE
 <table>
-<h4>ELITE IV</h4>
+<h4>Elite IV</h4>
 <tr>
 <th></th>
 <th>Column 1</th>
@@ -1543,7 +1543,7 @@ Enabling authorities:
 </tr>
 </table>
 
-> SOR/91-526, s. 1; SOR/95-179, s. 6; SOR/2002-198, s. 3.
+> SOR/91-526, s. 1; SOR/95-179, s. 6; SOR/2002-198, s. 3; SOR/2017-94, s. 7(F).
 
 
 
@@ -1563,7 +1563,7 @@ Enabling authorities:
 - **(3)** The percentage of plants showing visible varietal mixture or visible symptoms of disease set out in column 1 of an item of the table to this section on the first inspection, any subsequent inspection and the final inspection shall not exceed the applicable percentages set out in columns 2 and 3 of that item.
 #### TABLE
 <table>
-<h4>FOUNDATION</h4>
+<h4>Foundation</h4>
 <tr>
 <th></th>
 <th>Column 1</th>
@@ -1608,7 +1608,7 @@ Enabling authorities:
 </tr>
 </table>
 
-> SOR/91-526, s. 1; SOR/95-179, s. 7; SOR/2002-198, s. 3.
+> SOR/91-526, s. 1; SOR/95-179, s. 7; SOR/2002-198, s. 3; SOR/2017-94, s. 8(F).
 
 
 
@@ -1628,7 +1628,7 @@ Enabling authorities:
 - **(3)** The percentage of plants showing visible varietal mixture or visible symptoms of disease set out in column 1 of an item of the table to this section on the first inspection, any subsequent inspection and the final inspection shall not exceed the applicable percentages set out in columns 2 and 3 of that item.
 #### TABLE
 <table>
-<h4>CERTIFIED</h4>
+<h4>Certified</h4>
 <tr>
 <th></th>
 <th>Column 1</th>
@@ -1673,7 +1673,7 @@ Enabling authorities:
 </tr>
 </table>
 
-> SOR/91-526, s. 1; SOR/95-179, s. 8; SOR/2002-198, s. 3.
+> SOR/91-526, s. 1; SOR/95-179, s. 8; SOR/2002-198, s. 3; SOR/2017-94, s. 9(F).
 
 
 
@@ -1818,7 +1818,7 @@ Enabling authorities:
 	- **(c)** in the case of crops produced in an aseptic environment, before material is transferred to a new owner of the material or transferred to a protected environment.
 
 - **(3)** An application may be made after the deadline specified in subsection (2) if there is still time for the inspection to be carried out in accordance with these Regulations and the grower shows that the delay in submitting the application was beyond the grower’s control.
-> SOR/91-526, s. 1; SOR/95-215, s. 2; SOR/97-118, s. 7; SOR/97-292, s. 36; SOR/2000-183, s. 41; SOR/2000-184, s. 90; SOR/2002-198, s. 5.
+> SOR/91-526, s. 1; SOR/95-215, s. 2; SOR/97-118, s. 7; SOR/97-292, s. 36; SOR/2000-183, s. 41; SOR/2000-184, s. 90; SOR/2002-198, s. 5; SOR/2017-94, s. 10(F).
 
 
 
@@ -2257,7 +2257,7 @@ Inspection for the purpose of certification was made either visually or through 
 - **(3)** Seed potatoes placed under detention pursuant to subsection (1) may be re-graded in accordance with section 48 and subsections 48.1(2) to (10).
 
 - **(4)** If seed potatoes are not graded in accordance with section 48 and do not meet the standards set out in subsections 48.1(2) to (10), the seed potato tags or record of bulk movement that is provided with respect to those potatoes shall be returned to the inspector.
-> SOR/91-526, s. 3; SOR/2002-198, s. 17.
+> SOR/91-526, s. 3; SOR/2002-198, s. 17; SOR/2017-94, s. 11(F).
 
 
 
