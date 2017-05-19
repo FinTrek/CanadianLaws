@@ -1062,74 +1062,74 @@ Autorités habilitantes :
 
 **45** Les définitions qui suivent s’appliquent à la présente partie.
 
-***Agence*** L’Agence canadienne d’inspection des aliments constituée par l’article 3 de la [Loi sur l’Agence canadienne d’inspection des aliments](/fr/Lois/Lois%20du%20Canada/1997/ch.%206.md). (*Agency*)
+***Agence*** L’Agence canadienne d’inspection des aliments constituée par l’article 3 de la [Loi sur l’Agence canadienne d’inspection des aliments](/fr/Lois/Lois%20du%20Canada/1997/ch.%206.md). (*Agency*)
 
-***champ*** Étendue de sol définie où des pommes de terre de semence Choix du sélectionneur ou des pommes de terre de semence d’une variété et d’une classe données sont plantées ou ont été produites. (*field*)
+***champ*** Étendue de sol définie où des pommes de terre de semence Choix du sélectionneur ou des pommes de terre de semence d’une variété et d’une classe données sont plantées ou ont été produites. (*field*)
 
-***classe*** Classe de pommes de terre de semence visée à l’article 47. (*class*)
+***classe*** Classe de pommes de terre de semence visée à l’article 47. (*class*)
 
-***culture*** Pommes de terre de semence Choix du sélectionneur ou variété ou classe données de pomme de terre de semence cultivées dans un milieu aseptique ou un milieu protégé ou dans un ou plusieurs champs d’une unité de production. (*crop*)
+***culture*** Pommes de terre de semence Choix du sélectionneur ou variété ou classe données de pomme de terre de semence cultivées dans un milieu aseptique ou un milieu protégé ou dans un ou plusieurs champs d’une unité de production. (*crop*)
 
-***directeur*** [Abrogée, DORS/2000-184, art. 84]
+***directeur***[Abrogée, DORS/2000-184, art. 84]
 
-***dossier de transport en vrac*** Document délivré aux termes du paragraphe 56(1). (*record of bulk movement*)
+***dossier de transport en vrac*** Document délivré aux termes du paragraphe 56(1). (*record of bulk movement*)
 
-***équipement commun*** Toute pièce d’équipement agricole ou servant à l’entreposage, au transport ou au triage qui est utilisée conjointement par deux ou plusieurs producteurs. (*common equipment*)
+***équipement commun*** Toute pièce d’équipement agricole ou servant à l’entreposage, au transport ou au triage qui est utilisée conjointement par deux ou plusieurs producteurs. (*common equipment*)
 
-***essais en laboratoire*** Essais effectués dans un laboratoire accrédité aux termes du Programme d’accréditation des laboratoires de l’Agence ou qui peut raisonnablement être considéré comme l’équivalent d’un tel laboratoire. (*laboratory tests*)
+***essais en laboratoire*** Essais effectués dans un laboratoire accrédité aux termes du Programme d’accréditation des laboratoires de l’Agence ou qui peut raisonnablement être considéré comme l’équivalent d’un tel laboratoire. (*laboratory tests*)
 
-***étiquette de pommes de terre de semence*** Document délivré aux termes du paragraphe 53(1). (*seed potato tag*)
+***étiquette de pommes de terre de semence*** Document délivré aux termes du paragraphe 53(1). (*seed potato tag*)
 
-***expédition*** Déplacement de tout ou partie d’un lot de pommes de terre de semence vers un même destinataire. (*shipment*)
+***expédition*** Déplacement de tout ou partie d’un lot de pommes de terre de semence vers un même destinataire. (*shipment*)
 
-***filosité des tubercules*** Maladie des plants ou des tubercules de pommes de terre qui est causée par l’agent pathogène appelé le viroïde de la filosité des tubercules. (*PSTV*)
+***filosité des tubercules*** Maladie des plants ou des tubercules de pommes de terre qui est causée par l’agent pathogène appelé le viroïde de la filosité des tubercules. (*PSTV*)
 
-***flétrissement bactérien*** Maladie causée par l’agent pathogène bactérien *Clavibacter michiganensis* subsp. *sepedonicus*. (*bacterial ring rot*)
+***flétrissement bactérien*** Maladie causée par l’agent pathogène bactérien *Clavibacter michiganensis* subsp. *sepedonicus*. (*bacterial ring rot*)
 
-***génération*** [Abrogée, DORS/2002-198, art. 1]
+***génération***[Abrogée, DORS/2002-198, art. 1]
 
-***Loi*** La [Loi sur les semences](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-8.md). (*Act*)
+***Loi*** La [Loi sur les semences](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-8.md). (*Act*)
 
-***lot*** Quantité récoltée de pommes de terre de semence d’une variété et d’une classe données qui peut être identifiée par un numéro de certificat ou quantité de pommes de terre de semence Choix du sélectionneur qui peut être identifiée par un numéro de certificat. (*lot*)
+***lot*** Quantité récoltée de pommes de terre de semence d’une variété et d’une classe données qui peut être identifiée par un numéro de certificat ou quantité de pommes de terre de semence Choix du sélectionneur qui peut être identifiée par un numéro de certificat. (*lot*)
 
-***matériel nucléaire*** [Abrogée, DORS/97-118, art. 1]
+***matériel nucléaire***[Abrogée, DORS/97-118, art. 1]
 
-***milieu aseptique*** Installation exempte de microorganismes capables de causer une contamination ou une infection. (*aseptic environment*)
+***milieu aseptique*** Installation exempte de microorganismes capables de causer une contamination ou une infection. (*aseptic environment*)
 
-***milieu protégé*** Installation pourvue des barrières matérielles nécessaires pour prévenir l’introduction d’insectes et d’agents phytopathogènes et à l’égard de laquelle des procédures appropriées sont prévues à cette fin. (*protected environment*)
+***milieu protégé*** Installation pourvue des barrières matérielles nécessaires pour prévenir l’introduction d’insectes et d’agents phytopathogènes et à l’égard de laquelle des procédures appropriées sont prévues à cette fin. (*protected environment*)
 
-***ministère*** [Abrogée, DORS/2000-184, art. 84]
+***ministère***[Abrogée, DORS/2000-184, art. 84]
 
-***numéro de certificat*** Numéro inscrit sur le certificat de culture pour identifier une culture, ainsi que sur l’étiquette de pommes de terre de semence, le dossier de transport en vrac, le permis délivré en vertu de l’article 57 ou le certificat d’autorisation spéciale délivré en vertu de l’article 61, pour identifier les tubercules de cette culture. (*certificate number*)
+***numéro de certificat*** Numéro inscrit sur le certificat de culture pour identifier une culture, ainsi que sur l’étiquette de pommes de terre de semence, le dossier de transport en vrac, le permis délivré en vertu de l’article 57 ou le certificat d’autorisation spéciale délivré en vertu de l’article 61, pour identifier les tubercules de cette culture. (*certificate number*)
 
-***plant spontané*** Plant en croissance issu d’un tubercule laissé dans le champ lors d’une culture précédente. (*volunteer*)
+***plant spontané*** Plant en croissance issu d’un tubercule laissé dans le champ lors d’une culture précédente. (*volunteer*)
 
-***pomme de terre de consommation*** [Abrogée, DORS/2002-198, art. 1]
+***pomme de terre de consommation***[Abrogée, DORS/2002-198, art. 1]
 
-***pomme de terre de semence*** Tout tubercule, fragment de tubercule ou matériel nucléaire certifié conformément au présent règlement à des fins de reproduction. (*seed potato*)
+***pomme de terre de semence*** Tout tubercule, fragment de tubercule ou matériel nucléaire certifié conformément au présent règlement à des fins de reproduction. (*seed potato*)
 
-***pommes de terre de semence Choix du sélectionneur*** Pommes de terre de semence qui proviennent directement d’une semence véritable ou de tubercules sélectionnées et cultivées afin d’évaluer le potentiel de la variété pour une éventuelle utilisation commerciale. (*Breeder’s Selection seed potatoes*)
+***pommes de terre de semence Choix du sélectionneur*** Pommes de terre de semence qui proviennent directement d’une semence véritable ou de tubercules sélectionnés et qui sont cultivées afin d’évaluer le potentiel de la variété pour une éventuelle utilisation commerciale. (*Breeder’s Selection seed potatoes*)
 
 ***pommes de terre non certifiées***
 - **a)** Pommes de terre qui ne satisfont aux normes d’aucune des classes visées à l’article 47 ni aux normes relatives aux pommes de terre de semence Choix du sélectionneur établies à l’article 61.1;
-- **b)** pommes de terre de semence qui ont été transportées sans porter les étiquettes de pommes de terre de semence, ni être accompagnées d’un dossier de transport en vrac, d’un permis délivré en vertu de l’article 57 ou d’un certificat d’autorisation spéciale délivré en vertu de l’article 61. (*non-certified potatoes*)
+- **b)** pommes de terre de semence qui ont été transportées sans porter les étiquettes de pommes de terre de semence, ni être accompagnées d’un dossier de transport en vrac, d’un permis délivré en vertu de l’article 57 ou d’un certificat d’autorisation spéciale délivré en vertu de l’article 61. (*non-certified potatoes*)
 
-***producteur*** Personne physique ou morale, coopérative ou société de personnes qui cultive des pommes de terre de semence. (*grower*)
+***producteur*** Personne physique ou morale, coopérative ou société de personnes qui cultive des pommes de terre de semence. (*grower*)
 
 ***tolérance zéro***
 - **a)** En ce qui concerne une maladie, le fait d’exiger qu’un plant ou fragment de plant, y compris un tubercule, soit exempt de cette maladie;
-- **b)** en ce qui concerne un mélange de variétés, le fait d’interdire tout mélange de deux ou plusieurs variétés. (*zero tolerance*)
+- **b)** en ce qui concerne un mélange de variétés, le fait d’interdire tout mélange de deux ou plusieurs variétés. (*zero tolerance*)
 
-***tubercules individualisés*** Fragments d’un même tubercule plantés dans deux ou plusieurs buttes consécutives d’un rang. (*tuber unit*)
+***tubercules individualisés*** Fragments d’un même tubercule plantés dans deux ou plusieurs buttes consécutives d’un rang. (*tuber unit*)
 
 ***unité de production***
 - **a)** Soit une parcelle de terre unique exploitée pour la production et la commercialisation de pommes de terre de semence sous l’autorité d’un producteur;
-- **b)** soit un nombre déterminé de parcelles de terre distinctes exploitées comme une entité unique et sur lesquelles sont utilisées des installations, des entrepôts et de l’équipement communs pour la production et la commercialisation de pommes de terre de semence sous l’autorité d’un même producteur. (*farm unit*)
+- **b)** soit un nombre déterminé de parcelles de terre distinctes exploitées comme une entité unique et sur lesquelles sont utilisées des installations, des entrepôts et de l’équipement communs pour la production et la commercialisation de pommes de terre de semence sous l’autorité d’un même producteur. (*farm unit*)
 
-***variété*** Variété de pommes de terre de semence qui :
+***variété*** Variété de pommes de terre de semence qui :
 - **a)** d’une part, se distingue par des caractères morphologiques, physiologiques, cytologiques ou chimiques communs ou par d’autres caractères communs;
-- **b)** d’autre part, conserve ses caractères distinctifs à la reproduction. (*variety*)
-> DORS/86-849, art. 5; DORS/91-526, art. 1; DORS/93-331, art. 1; DORS/95-179, art. 1; DORS/97-118, art. 1; DORS/97-292, art. 34; DORS/2000-184, art. 84; DORS/2002-198, art. 1.
+- **b)** d’autre part, conserve ses caractères distinctifs à la reproduction. (*variety*)
+> DORS/86-849, art. 5; DORS/91-526, art. 1; DORS/93-331, art. 1; DORS/95-179, art. 1; DORS/97-118, art. 1; DORS/97-292, art. 34; DORS/2000-184, art. 84; DORS/2002-198, art. 1; DORS/2017-94, art. 1(F).
 
 
 
@@ -1210,8 +1210,8 @@ Autorités habilitantes :
 
 - **(3)** Tout matériel destiné à devenir des pommes de terre de semence Matériel nucléaire et qui réagit positivement à des tests de dépistage de bactéries ou de viroses pathogènes ou manifeste des symptômes de contamination saprophytique doit être immédiatement retiré du milieu aseptique ou du milieu protégé.
 
-- **(4)** Il est interdit de vendre ou de transférer la totalité des droits de propriété sur des pommes de terre de semence Matériel nucléaire à moins de détenir une étiquette de pommes de terre de semence ou le certificat d’un inspecteur attestant qu’il s’agit de pommes de terre de semence Matériel nucléaire.
-> DORS/97-118, art. 2; DORS/97-292, art. 35; DORS/2000-184, art. 91; DORS/2002-198, art. 3.
+- **(4)** La personne qui vend ou transfère des pommes de terre de semence Matériel nucléaire les identifie au moyen d’une étiquette de pommes de terre de semence ou d’un certificat fourni par un inspecteur pour indiquer qu’il s’agit de pommes de terre de semence Matériel nucléaire.
+> DORS/97-118, art. 2; DORS/97-292, art. 35; DORS/2000-184, art. 91; DORS/2002-198, art. 3; DORS/2017-94, art. 2.
 
 
 
@@ -1232,7 +1232,7 @@ Autorités habilitantes :
 - **(3)** Le pourcentage de plants présentant visiblement un mélange de variétés ou des symptômes de maladies mentionnés à la colonne 1 du tableau, à la première inspection, aux inspections subséquentes et à l’inspection finale, ne doit pas dépasser les pourcentages indiqués respectivement aux colonnes 2 et 3.
 #### TABLEAU
 <table>
-<h4>PRÉ-ÉLITE</h4>
+<h4>Pré-élite</h4>
 <tr>
 <th></th>
 <th>Colonne 1</th>
@@ -1265,7 +1265,7 @@ Autorités habilitantes :
 </tr>
 <tr>
 <td>4</td>
-<td>Total — jambe noire, flétrissements et viroses</td>
+<td>Total — jambe noire et flétrissements</td>
 <td>0</td>
 <td>0</td>
 </tr>
@@ -1277,7 +1277,7 @@ Autorités habilitantes :
 </tr>
 </table>
 
-> DORS/91-526, art. 1; DORS/95-179, art. 2; DORS/97-118, art. 3; DORS/2002-198, art. 3.
+> DORS/91-526, art. 1; DORS/95-179, art. 2; DORS/97-118, art. 3; DORS/2002-198, art. 3; DORS/2017-94, art. 3(F).
 
 
 
@@ -1297,7 +1297,7 @@ Autorités habilitantes :
 - **(3)** Le pourcentage de plants présentant visiblement un mélange de variétés ou des symptômes de maladies mentionnés à la colonne 1 du tableau, à la première inspection, aux inspections subséquentes et à l’inspection finale, ne doit pas dépasser les pourcentages indiqués respectivement aux colonnes 2 et 3.
 #### TABLEAU
 <table>
-<h4>ÉLITE I</h4>
+<h4>Élite I</h4>
 <tr>
 <th></th>
 <th>Colonne 1</th>
@@ -1330,7 +1330,7 @@ Autorités habilitantes :
 </tr>
 <tr>
 <td>4</td>
-<td>Total — jambe noire, flétrissements et viroses</td>
+<td>Total — jambe noire et flétrissements</td>
 <td>0,1</td>
 <td>0,1</td>
 </tr>
@@ -1342,7 +1342,7 @@ Autorités habilitantes :
 </tr>
 </table>
 
-> DORS/91-526, art. 1; DORS/95-179, art. 3; DORS/97-118, art. 4; DORS/2002-198, art. 3.
+> DORS/91-526, art. 1; DORS/95-179, art. 3; DORS/97-118, art. 4; DORS/2002-198, art. 3; DORS/2017-94, art. 4(F).
 
 
 
@@ -1362,7 +1362,7 @@ Autorités habilitantes :
 - **(3)** Le pourcentage de plants présentant visiblement un mélange de variétés ou des symptômes de maladies mentionnés à la colonne 1 du tableau, à la première inspection, aux inspections subséquentes et à l’inspection finale, ne doit pas dépasser les pourcentages indiqués respectivement aux colonnes 2 et 3.
 #### TABLEAU
 <table>
-<h4>ÉLITE II</h4>
+<h4>Élite II</h4>
 <tr>
 <th></th>
 <th>Colonne 1</th>
@@ -1395,7 +1395,7 @@ Autorités habilitantes :
 </tr>
 <tr>
 <td>4</td>
-<td>Total — jambe noire, flétrissements et viroses</td>
+<td>Total — jambe noire et flétrissements</td>
 <td>0,2</td>
 <td>0,2</td>
 </tr>
@@ -1407,7 +1407,7 @@ Autorités habilitantes :
 </tr>
 </table>
 
-> DORS/91-526, art. 1; DORS/95-179, art. 4; DORS/97-118, art. 5; DORS/2002-198, art. 3.
+> DORS/91-526, art. 1; DORS/95-179, art. 4; DORS/97-118, art. 5; DORS/2002-198, art. 3; DORS/2017-94, art. 5(F).
 
 
 
@@ -1427,7 +1427,7 @@ Autorités habilitantes :
 - **(3)** Le pourcentage de plants présentant visiblement un mélange de variétés ou des symptômes de maladies mentionnés à la colonne 1 du tableau, à la première inspection, aux inspections subséquentes et à l’inspection finale, ne doit pas dépasser les pourcentages indiqués respectivement aux colonnes 2 et 3.
 #### TABLEAU
 <table>
-<h4>ÉLITE III</h4>
+<h4>Élite III</h4>
 <tr>
 <th></th>
 <th>Colonne 1</th>
@@ -1460,7 +1460,7 @@ Autorités habilitantes :
 </tr>
 <tr>
 <td>4</td>
-<td>Total — jambe noire, flétrissements et viroses</td>
+<td>Total — jambe noire et flétrissements</td>
 <td>0,3</td>
 <td>0,3</td>
 </tr>
@@ -1472,7 +1472,7 @@ Autorités habilitantes :
 </tr>
 </table>
 
-> DORS/91-526, art. 1; DORS/95-179, art. 5; DORS/2002-198, art. 3.
+> DORS/91-526, art. 1; DORS/95-179, art. 5; DORS/2002-198, art. 3; DORS/2017-94, art. 6(F).
 
 
 
@@ -1492,7 +1492,7 @@ Autorités habilitantes :
 - **(3)** Le pourcentage de plants présentant visiblement un mélange de variétés ou des symptômes de maladies mentionnés à la colonne 1 du tableau, à la première inspection, aux inspections subséquentes et à l’inspection finale, ne doit pas dépasser les pourcentages indiqués respectivement aux colonnes 2 et 3.
 #### TABLEAU
 <table>
-<h4>ÉLITE IV</h4>
+<h4>Élite IV</h4>
 <tr>
 <th></th>
 <th>Colonne 1</th>
@@ -1525,7 +1525,7 @@ Autorités habilitantes :
 </tr>
 <tr>
 <td>4</td>
-<td>Total — jambe noire, flétrissements et viroses</td>
+<td>Total — jambe noire et flétrissements</td>
 <td>0,5</td>
 <td>0,5</td>
 </tr>
@@ -1537,7 +1537,7 @@ Autorités habilitantes :
 </tr>
 </table>
 
-> DORS/91-526, art. 1; DORS/95-179, art. 6; DORS/2002-198, art. 3.
+> DORS/91-526, art. 1; DORS/95-179, art. 6; DORS/2002-198, art. 3; DORS/2017-94, art. 7(F).
 
 
 
@@ -1557,7 +1557,7 @@ Autorités habilitantes :
 - **(3)** Le pourcentage de plants présentant visiblement un mélange de variétés ou des symptômes de maladies mentionnés à la colonne 1 du tableau, à la première inspection, aux inspections subséquentes et à l’inspection finale, ne doit pas dépasser les pourcentages indiqués respectivement aux colonnes 2 et 3.
 #### TABLEAU
 <table>
-<h4>FONDATION</h4>
+<h4>Fondation</h4>
 <tr>
 <th></th>
 <th>Colonne 1</th>
@@ -1590,7 +1590,7 @@ Autorités habilitantes :
 </tr>
 <tr>
 <td>4</td>
-<td>Total — jambe noire, flétrissements et viroses</td>
+<td>Total — jambe noire et flétrissements</td>
 <td>1</td>
 <td>1</td>
 </tr>
@@ -1602,7 +1602,7 @@ Autorités habilitantes :
 </tr>
 </table>
 
-> DORS/91-526, art. 1; DORS/95-179, art. 7; DORS/2002-198, art. 3.
+> DORS/91-526, art. 1; DORS/95-179, art. 7; DORS/2002-198, art. 3; DORS/2017-94, art. 8(F).
 
 
 
@@ -1622,7 +1622,7 @@ Autorités habilitantes :
 - **(3)** Le pourcentage de plants présentant visiblement un mélange de variétés ou des symptômes de maladies mentionnés à la colonne 1 du tableau, à la première inspection, aux inspections subséquentes et à l’inspection finale, ne doit pas dépasser les pourcentages indiqués respectivement aux colonnes 2 et 3.
 #### TABLEAU
 <table>
-<h4>CERTIFIÉE</h4>
+<h4>Certifiée</h4>
 <tr>
 <th></th>
 <th>Colonne 1</th>
@@ -1655,7 +1655,7 @@ Autorités habilitantes :
 </tr>
 <tr>
 <td>4</td>
-<td>Total — jambe noire, flétrissements et viroses</td>
+<td>Total — jambe noire et flétrissements</td>
 <td>3</td>
 <td>2</td>
 </tr>
@@ -1667,7 +1667,7 @@ Autorités habilitantes :
 </tr>
 </table>
 
-> DORS/91-526, art. 1; DORS/95-179, art. 8; DORS/2002-198, art. 3.
+> DORS/91-526, art. 1; DORS/95-179, art. 8; DORS/2002-198, art. 3; DORS/2017-94, art. 9(F).
 
 
 
@@ -1803,7 +1803,7 @@ Autorités habilitantes :
 	- **a)** toute étiquette de pommes de terre de semence ou autre document qui atteste l’origine et la classe de chacun des lots de semence plantés;
 	- **b)** la liste de toutes les cultures;
 	- **c)** dans le cas d’une culture issue de pommes de terre de semence produites par le producteur, la preuve qu’au moins deux lots occupés par des cultures de plein champ de son unité de production ont été soumis à des essais en laboratoire et reconnus exempts de la *Clavibacter michiganensis* subsp. *sepedonicus*;
-	- **d)** dans le cas d’une culture issue de pommes de terre de semence Élite II, Élite III, Élite IV et Fondation n’ayant pas été produites par le producteur, la preuve que la culture a été soumise à des essais en laboratoire et reconnue exempte de la *Clavibacter michiganensis* subsp. *sepedonicus*;
+	- **d)** dans le cas d’une culture issue de pommes de terre de semence Élite II, Élite III, Élite IV et Fondation n’ayant pas été produites par le producteur, la preuve que ces pommes de terre ont été soumises à des essais en laboratoire et reconnues exemptes de la *Clavibacter michiganensis* subsp. *sepedonicus*;
 	- **e)** dans le cas d’une demande présentée par un nouveau producteur, le document délivré par un inspecteur qui atteste que les locaux de l’unité de production ont été nettoyés et désinfectés avant l’arrivée des pommes de terre de semence à planter et que la culture n’a pas été plantée dans un champ où des pommes de terre non certifiées ont été cultivées au cours des deux années précédentes.
 
 - **(2)** La demande est présentée au bureau de l’Agence indiqué dans le formulaire dans le délai suivant :
@@ -1812,7 +1812,7 @@ Autorités habilitantes :
 	- **c)** dans le cas des cultures produites dans un milieu aseptique, avant que le matériel ne soit transféré à un nouveau propriétaire ou transféré dans un environnement protégé.
 
 - **(3)** La demande peut être présentée après le délai prévu au paragraphe (2) si des circonstances indépendantes de la volonté du producteur, l’ont empêché de la présenter avant l’expiration de ce délai et si une inspection peut encore être effectuée conformément au présent règlement.
-> DORS/91-526, art. 1; DORS/95-215, art. 2; DORS/97-118, art. 7; DORS/97-292, art. 36; DORS/2000-183, art. 41; DORS/2000-184, art. 90; DORS/2002-198, art. 5.
+> DORS/91-526, art. 1; DORS/95-215, art. 2; DORS/97-118, art. 7; DORS/97-292, art. 36; DORS/2000-183, art. 41; DORS/2000-184, art. 90; DORS/2002-198, art. 5; DORS/2017-94, art. 10(F).
 
 
 
@@ -2244,14 +2244,14 @@ NOTE
 
 **60.1** 
 
-- **(1)** L’inspecteur peut en tout temps réinspecter les pommes de terre de semence et retenir celles qui n’ont pas été classées conformément à l’article 48 ou qui ne satisfont pas aux normes énoncées aux paragraphes 48.1(2) à (10).
+- **(1)** L’inspecteur peut en tout temps réinspecter les pommes de terre de semence et doit retenir celles qui n’ont pas été classées conformément à l’article 48 ou qui ne satisfont pas aux normes énoncées aux paragraphes 48.1(2) à (10).
 
 - **(2)** Une demande de réinspection d’un lot peut être faite dans les deux jours ouvrables qui suivent la réception du lot; l’inspecteur fait la réinspection le plus tôt possible et au plus tard cinq jours après la réception de la demande.
 
 - **(3)** Les pommes de terre de semence retenues en vertu du paragraphe (1) peuvent être reclassées conformément à l’article 48 et aux paragraphes 48.1(2) à (10).
 
 - **(4)** Lorsque des pommes de terre de semence ne sont pas classées conformément à l’article 48 et ne satisfont pas aux normes énoncées aux paragraphes 48.1(2) à (10), les étiquettes de pommes de terre de semence ou le dossier de transport en vrac remis à l’égard de ces pommes de terre doivent être retournés à l’inspecteur.
-> DORS/91-526, art. 3; DORS/2002-198, art. 17.
+> DORS/91-526, art. 3; DORS/2002-198, art. 17; DORS/2017-94, art. 11(F).
 
 
 
