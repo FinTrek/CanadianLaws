@@ -672,8 +672,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - Turquie
 - Ukraine
 - Union européenne
+- Venezuela
 - Vietnam
 - Zimbabwe
-> 2002, ch. 25, ann.; DORS/2003-16, 25, 166, 335; DORS/2004-194; DORS/2006-177; DORS/2009-107; DORS/2013-156; DORS/2014-313; DORS/2016-6.
+> 2002, ch. 25, ann.; DORS/2003-16, 25, 166, 335; DORS/2004-194; DORS/2006-177; DORS/2009-107; DORS/2013-156; DORS/2014-313; DORS/2016-6; DORS/2017-95.
 
 
