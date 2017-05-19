@@ -861,8 +861,8 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 	- **a)** l’Agence des services frontaliers du Canada a conclu en vertu du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) que la carcasse provient des États-Unis;
 	- **b)** l’importateur détient un permis de chasse pour ce gibier délivré en vertu des lois applicables des États-Unis ou de l’un de ses États.
 
-- **(2)** Le nombre de carcasses qui peuvent être importées est celui indiqué dans les lois visées à l’alinéa (1)b).
-> DORS/78-69, art. 28(F); DORS/97-85, art. 38; DORS/2009-18, art. 13; DORS/2012-286, art. 52(A).
+- **(2)** Le nombre de carcasses qui peuvent être importées est celui indiqué sur le permis de chasse visé à l’alinéa (1)b).
+> DORS/78-69, art. 28(F); DORS/97-85, art. 38; DORS/2009-18, art. 13; DORS/2012-286, art. 52(A); DORS/2017-94, art. 13.
 
 
 
@@ -2720,13 +2720,13 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 - **(2)** Le permis ou la licence qu’exige le présent règlement
 	- **a)** est dans une forme approuvée par le ministre; et
-	- **b)** renferme les conditions que le ministre juge appropriées pour empêcher l’introduction et la propagation de maladies transmissibles au Canada ou leur introduction dans tout autre pays, en provenance du Canada.
+	- **b)** renferme les conditions nécessaires pour empêcher l’introduction et la propagation de maladies transmissibles au Canada ou leur introduction dans tout autre pays, en provenance du Canada.
 
 - **(3)** Le ministre peut annuler ou suspendre un permis ou une licence délivrés en vertu du présent règlement s’il a des raisons de croire que
 	- **a)** les conditions de délivrance du permis ou de la licence ou les conditions qui y sont contenues n’ont pas été respectées;
 	- **b)** les dispositions de la Loi ou du présent règlement n’ont pas été respectées; ou
 	- **c)** autrement, un vecteur, une maladie ou une substance toxique pourrait être introduit au Canada et s’y propager ou s’introduire dans tout autre pays, en provenance du Canada.
-> DORS/79-839, art. 34; DORS/92-23, art. 3; DORS/92-650, art. 4; DORS/93-159, art. 17; DORS/95-475, art. 4(F); DORS/2004-80, art. 17; DORS/2006-147, art. 19; DORS/2012-286, art. 60.
+> DORS/79-839, art. 34; DORS/92-23, art. 3; DORS/92-650, art. 4; DORS/93-159, art. 17; DORS/95-475, art. 4(F); DORS/2004-80, art. 17; DORS/2006-147, art. 19; DORS/2012-286, art. 60; DORS/2017-94, art. 14.
 
 
 
