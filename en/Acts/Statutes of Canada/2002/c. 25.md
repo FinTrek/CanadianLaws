@@ -672,8 +672,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - Ukraine
 - United Arab Emirates
 - United States of America
+- Venezuela
 - Vietnam
 - Zimbabwe
-> 2002, c. 25, Sch.; SOR/2003-16, 25, 166, 335; SOR/2004-194; SOR/2006-177; SOR/2009-107; SOR/2013-156; SOR/2014-313; SOR/2016-6.
+> 2002, c. 25, Sch.; SOR/2003-16, 25, 166, 335; SOR/2004-194; SOR/2006-177; SOR/2009-107; SOR/2013-156; SOR/2014-313; SOR/2016-6; SOR/2017-95.
 
 
