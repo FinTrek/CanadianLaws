@@ -863,8 +863,8 @@ the inspector may order the person who owns or has possession, care or control o
 	- **(a)** the Canada Border Services Agency has determined under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) that the carcass originated in the United States; and
 	- **(b)** the person importing the carcass holds a hunting permit for that game animal issued under the applicable legislation of the United States or a state of the United States.
 
-- **(2)** The number of carcasses that a person may import into Canada shall be the number established by the applicable legislation referred to in paragraph (1)(b).
-> SOR/78-69, s. 28(F); SOR/97-85, s. 38; SOR/2009-18, s. 13; SOR/2012-286, s. 52(E).
+- **(2)** The number of carcasses that a person may import into Canada shall be the number indicated on the hunting permit described in paragraph (1)(b).
+> SOR/78-69, s. 28(F); SOR/97-85, s. 38; SOR/2009-18, s. 13; SOR/2012-286, s. 52(E); SOR/2017-94, s. 13.
 
 
 
@@ -2719,13 +2719,13 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 - **(2)** Any permit or licence required under these Regulations shall
 	- **(a)** be in a form approved by the Minister; and
-	- **(b)** contain such conditions as the Minister considers advisable to prevent the introduction of communicable disease into Canada or into any other country from Canada and the spread of communicable disease within Canada.
+	- **(b)** contain such conditions as are necessary to prevent the introduction of communicable disease into Canada or into any other country from Canada and the spread of communicable disease within Canada.
 
 - **(3)** The Minister may cancel or suspend a permit or licence issued under these Regulations if he has reason to believe that,
 	- **(a)** any condition under which the permit or licence was issued or any condition contained in the permit or licence has not been complied with;
 	- **(b)** any provision of the Act or these Regulations has not been complied with; or
 	- **(c)** failure to do so could result in the introduction into Canada, the introduction into another country from Canada or the spread within Canada, of a vector, disease or toxic substance.
-> SOR/79-839, s. 34; SOR/92-23, s. 3; SOR/92-650, s. 4; SOR/93-159, s. 17; SOR/95-475, s. 4(F); SOR/2004-80, s. 17; SOR/2006-147, s. 19; SOR/2012-286, s. 60.
+> SOR/79-839, s. 34; SOR/92-23, s. 3; SOR/92-650, s. 4; SOR/93-159, s. 17; SOR/95-475, s. 4(F); SOR/2004-80, s. 17; SOR/2006-147, s. 19; SOR/2012-286, s. 60; SOR/2017-94, s. 14.
 
 
 
