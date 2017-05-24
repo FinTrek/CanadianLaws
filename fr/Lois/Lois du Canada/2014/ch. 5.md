@@ -653,6 +653,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **35** Première Nation Pic Mobert
 - **36** Ahtahkakoop
 - **37** Bande Gitsegukla
-> 2014, ch. 5, ann.; DORS/2015-136, art. 1; DORS/2015-149, art. 1; DORS/2015-208, art. 1; DORS/2015-218, art. 1; DORS/2016-2, art. 1; DORS/2016-53, art. 1; DORS/2016-55, art.1; DORS/2016-57, art. 1; DORS/2016-110, art. 1; DORS/2016-112, art. 1; DORS/2016-114, art. 1; DORS/2016-116, art. 1; DORS/2016-118, art. 1; DORS/2016-215, art. 1; DORS/2016-217, art. 1; DORS/2016-219, art. 1; DORS/2016-221, art. 1; DORS/2016-223, art. 1; DORS/2016-225, art. 1; DORS/2016-237, art. 1; DORS/2016-246, art. 1; DORS/2016-248, art. 1; DORS/2016-250, art. 1; DORS/2016-264, art. 1; DORS/2016-266, art. 1; DORS/2016-330, art. 1; DORS/2016-332, art. 1; DORS/2016-334, art. 1; DORS/2017-3, art. 1; DORS/2017-5, art. 1; DORS/2017-30, art. 1; DORS/2017-32, art. 1; DORS/2017-34, art. 1; DORS/2017-64, art. 1; DORS/2017-66, art. 1.
+- **38** Première Nation Black River
+- **39** Première Nation Moose Deer Point
+> 2014, ch. 5, ann.; DORS/2015-136, art. 1; DORS/2015-149, art. 1; DORS/2015-208, art. 1; DORS/2015-218, art. 1; DORS/2016-2, art. 1; DORS/2016-53, art. 1; DORS/2016-55, art.1; DORS/2016-57, art. 1; DORS/2016-110, art. 1; DORS/2016-112, art. 1; DORS/2016-114, art. 1; DORS/2016-116, art. 1; DORS/2016-118, art. 1; DORS/2016-215, art. 1; DORS/2016-217, art. 1; DORS/2016-219, art. 1; DORS/2016-221, art. 1; DORS/2016-223, art. 1; DORS/2016-225, art. 1; DORS/2016-237, art. 1; DORS/2016-246, art. 1; DORS/2016-248, art. 1; DORS/2016-250, art. 1; DORS/2016-264, art. 1; DORS/2016-266, art. 1; DORS/2016-330, art. 1; DORS/2016-332, art. 1; DORS/2016-334, art. 1; DORS/2017-3, art. 1; DORS/2017-5, art. 1; DORS/2017-30, art. 1; DORS/2017-32, art. 1; DORS/2017-34, art. 1; DORS/2017-64, art. 1; DORS/2017-66, art. 1; DORS/2017-97, art. 1; DORS/2017-99, art. 1.
 
 
