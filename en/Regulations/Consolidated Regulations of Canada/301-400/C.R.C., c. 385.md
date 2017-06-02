@@ -1833,6 +1833,20 @@ within one year from April 30th of the year following the year for which he so 
 
 
 
+### Social Insurance Number
+
+
+**88** 
+
+- **(1)** The Minister or the Minister of National Revenue may cause a Social Insurance Number to be assigned to an individual who has not been assigned a Social Insurance Number.
+
+- **(2)** The Minister or the Minister of National Revenue may cause a Social Insurance Number Card to be issued to an individual to whom a Social Insurance Number was caused to be assigned under subsection (1).
+> SOR/2017-120, s. 1.
+
+
+
+
+
 ### **SCHEDULE I** 
 [Repealed, SOR/2002-245, s. 3]
 
