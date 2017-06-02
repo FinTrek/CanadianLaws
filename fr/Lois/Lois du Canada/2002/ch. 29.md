@@ -2595,6 +2595,8 @@ Lutin givré (*Callophrys irus*)<br />- <i>Elfin, Frosted</i>
 
 Marbré insulaire (*Euchloe ausonides insulanus*)<br />- <i>Marble, Island</i>
 
+Nécrophore d’Amérique (*Nicrophorus americanus*)<br />- <i>Burying Beetle, American</i>
+
 
 
 
@@ -2742,7 +2744,11 @@ Rainette grillon de Blanchard (*Acris blanchardi*)<br />- <i>Frog, Blanchard’s
 
 Salamandre à nez court (*Ambystoma texanum*)<br />- <i>Salamander, Small-mouthed</i>
 
+Salamandre de Jefferson (*Ambystoma jeffersonianum*)<br />- <i>Salamander, Jefferson</i>
+
 Salamandre sombre des montagnes (*Desmognathus ochrophaeus*) population carolinienne<br />- <i>Salamander, Allegheny Mountain Dusky Carolinian population</i>
+
+Salamandre sombre du Nord (*Desmognathus fuscus*) population carolinienne<br />- <i>Salamander, Northern Dusky Carolinian population</i>
 
 Salamandre tigrée (*Ambystoma tigrinum*) population des montagnes du Sud<br />- <i>Salamander, Tiger Southern Mountain population</i>
 
@@ -2752,6 +2758,8 @@ Salamandre tigrée (*Ambystoma tigrinum*) population des montagnes du Sud<br />-
 ##### Reptiles
 
 Couleuvre agile bleue (*Coluber constrictor foxi*)<br />- <i>Racer, Blue</i>
+
+Couleuvre à petite tête (*Thamnophis butleri*)<br />- <i>Gartersnake, Butler’s</i>
 
 Couleuvre à queue fine (*Contia tenuis*)<br />- <i>Snake, Sharp-tailed</i>
 
@@ -2896,6 +2904,8 @@ Cicindèle de Wallis (*Cicindela parowana wallisi*)<br />- <i>Tiger Beetle, Wall
 
 Cicindèle verte des pinèdes (*Cicindela patruela*)<br />- <i>Tiger Beetle, Northern Barrens</i>
 
+Cordulie de Hine (*Somatochlora hineana*)<br />- <i>Emerald, Hine’s</i>
+
 Damier de Taylor (*Euphydryas editha taylori*)<br />- <i>Checkerspot, Taylor’s</i>
 
 Fausse-teigne à cinq points du yucca (*Prodoxus quinquepunctellus*)<br />- <i>Moth, Five-spotted Bogus Yucca</i>
@@ -2903,6 +2913,10 @@ Fausse-teigne à cinq points du yucca (*Prodoxus quinquepunctellus*)<br />- <i>M
 Gomphe des rapides (*Gomphus quadricolor*)<br />- <i>Clubtail, Rapids</i>
 
 Gomphe olive (*Stylurus olivaceus*)<br />- <i>Clubtail, Olive</i>
+
+Gomphe ventru (*Gomphus ventricosus*)<br />- <i>Clubtail, Skillet</i>
+
+Haliplide de Hungerford (*Brychius hungerfordi*)<br />- <i>Crawling Water Beetle, Hungerford’s</i>
 
 Héliotin blanc satiné (*Schinia bimatris*)<br />- <i>Flower Moth, White</i>
 
@@ -2975,8 +2989,6 @@ Castilléjie de Victoria (*Castilleja victoriae*)<br />- <i>Owl-clover, Victoria
 
 Castilléjie dorée (*Castilleja levisecta*)<br />- <i>Paintbrush, Golden</i>
 
-Chardon de Pitcher (*Cirsium pitcheri*)<br />- <i>Thistle, Pitcher’s</i>
-
 Châtaignier d’Amérique *(Castanea dentata)*<br />- <i>Chestnut, American</i>
 
 Chimaphile maculée (*Chimaphila maculata*)<br />- <i>Wintergreen, Spotted</i>
@@ -3028,8 +3040,6 @@ Jonc de Kellogg (*Juncus kelloggii*)<br />- <i>Rush, Kellogg’s</i>
 Lasthénie glabre (*Lasthenia glaberrima*)<br />- <i>Goldfields, Rayless</i>
 
 Lespédèze de Virginie (*Lespedeza virginica*)<br />- <i>Bush-clover, Slender</i>
-
-Liparis à feuilles de lis (*Liparis liliifolia*)<br />- <i>Twayblade, Purple</i>
 
 Lipocarphe à petites fleurs (*Lipocarpha micrantha*)<br />- <i>Lipocarpha, Small-flowered</i>
 
@@ -3262,7 +3272,7 @@ Grande salamandre (*Dicamptodon tenebrosus*)<br />- <i>Salamander, Coastal Giant
 
 Rainette faux-grillon de l’Ouest (*Pseudacris triseriata*) population des Grands Lacs / Saint-Laurent et du Bouclier canadien<br />- <i>Frog, Western Chorus Great Lakes / St. Lawrence – Canadian Shield population</i>
 
-Salamandre de Jefferson (*Ambystoma jeffersonianum*)<br />- <i>Salamander, Jefferson</i>
+Salamandre pourpre (*Gyrinophilus porphyriticus*) population des Adirondacks et des Appalaches<br />- <i>Salamander, Spring Adirondack / Appalachian population</i>
 
 Salamandre sombre des montagnes (*Desmognathus ochrophaeus*) population des Grands Lacs et du Saint-Laurent<br />- <i>Salamander, Allegheny Mountain Dusky Great Lakes – St. Lawrence population</i>
 
@@ -3276,8 +3286,6 @@ Couleuvre agile à ventre jaune de l’Est (*Coluber constrictor flaviventris*)<
 Couleuvre à nez mince du Grand Bassin (*Pituophis catenifer deserticola*)<br />- <i>Gophersnake, Great Basin</i>
 
 Couleuvre à nez plat (*Heterodon platirhinos*)<br />- <i>Snake, Eastern Hog-nosed</i>
-
-Couleuvre à petite tête (*Thamnophis butleri*)<br />- <i>Gartersnake, Butler’s</i>
 
 Couleuvre mince (*Thamnophis sauritus*) population de l’Atlantique<br />- <i>Ribbonsnake, Eastern Atlantic population</i>
 
@@ -3377,6 +3385,8 @@ Aster très élevé (*Symphyotrichum praealtum*)<br />- <i>Aster, Willowleaf</i>
 
 Azolle du Mexique (*Azolla mexicana*)<br />- <i>Mosquito-fern, Mexican</i>
 
+Baccharis à feuilles d’arroche (*Baccharis halimifolia*)<br />- <i>Baccharis, Eastern</i>
+
 Bartonie paniculée (*Bartonia paniculata* ssp. *paniculata*)<br />- <i>Bartonia, Branched</i>
 
 Braya de Fernald (*Braya fernaldii*)<br />- <i>Braya, Fernald’s</i>
@@ -3409,8 +3419,6 @@ Hydrocotyle à ombelle (*Hydrocotyle umbellata*)<br />- <i>Water-pennywort</i>
 
 Hyménoxys herbacé (*Hymenoxys herbacea*)<br />- <i>Daisy, Lakeside</i>
 
-Iris lacustre (*Iris lacustris*)<br />- <i>Iris, Dwarf Lake</i>
-
 Isoète de Bolander (*Isoetes bolanderi*)<br />- <i>Quillwort, Bolander’s</i>
 
 Isopyre à feuilles biternées (*Enemion biternatum*)<br />- <i>Rue-anemone, False</i>
@@ -3419,9 +3427,9 @@ Liatris à épi (*Liatris spicata*)<br />- <i>Blazing Star, Dense</i>
 
 Limnanthe de Macoun (*Limnanthes macounii*)<br />- <i>Meadowfoam, Macoun’s</i>
 
-Lomatium de Gray (*Lomatium grayi*)<br />- <i>Desert-parsley, Gray’s</i>
+Liparis à feuilles de lis (*Liparis liliifolia*)<br />- <i>Twayblade, Purple</i>
 
-Lophiolie dorée (*Lophiola aurea*)<br />- <i>Golden Crest</i>
+Lomatium de Gray (*Lomatium grayi*)<br />- <i>Desert-parsley, Gray’s</i>
 
 Micocoulier rabougri (*Celtis tenuifolia*)<br />- <i>Hackberry, Dwarf</i>
 
@@ -3588,8 +3596,6 @@ Grenouille léopard (*Lithobates pipiens*) populations des Prairies et de l’ou
 
 Salamandre de Coeur d’Alène (*Plethodon idahoensis*)<br />- <i>Salamander, Coeur d’Alene</i>
 
-Salamandre pourpre (*Gyrinophilus porphyriticus*)<br />- <i>Salamander, Spring</i>
-
 
 
 
@@ -3733,6 +3739,8 @@ Buchloé faux-dactyle (*Bouteloua dactyloides*)<br />- <i>Buffalograss</i>
 
 Calochorte de Lyall (*Calochortus lyallii*)<br />- <i>Lily, Lyall’s Mariposa</i>
 
+Chardon de Pitcher (*Cirsium pitcheri*)<br />- <i>Thistle, Pitcher’s</i>
+
 Cicutaire de Victorin (*Cicuta maculata* var. *victorinii*)<br />- <i>Water-hemlock, Victorin’s</i>
 
 Clèthre à feuilles d’aulne (*Clethra alnifolia*)<br />- <i>Pepperbush, Sweet</i>
@@ -3751,6 +3759,8 @@ Grand bident (*Bidens amplissima*)<br />- <i>Beggarticks, Vancouver Island</i>
 
 Iris du Missouri (*Iris missouriensis*)<br />- <i>Blue Flag, Western</i>
 
+Iris lacustre (*Iris lacustris*)<br />- <i>Iris, Dwarf Lake</i>
+
 Isoète prototype (*Isoetes prototypus*)<br />- <i>Quillwort, Prototype</i>
 
 Jonc du New Jersey (*Juncus caesariensis*)<br />- <i>Rush, New Jersey</i>
@@ -3762,6 +3772,8 @@ Lachnanthe de Caroline (*Lachnanthes caroliniana*)<br />- <i>Redroot</i>
 Léchéa maritime (*Lechea maritima*)<br />- <i>Pinweed, Beach</i>
 
 Liléopsis de l’Est (*Lilaeopsis chinensis*)<br />- <i>Lilaeopsis, Eastern</i>
+
+Lophiolie dorée (*Lophiola aurea*)<br />- <i>Goldencrest</i>
 
 Potamot de Hill (*Potamogeton hillii*)<br />- <i>Pondweed, Hill’s</i>
 
@@ -3801,6 +3813,8 @@ Tortule à poils lisses (*Syntrichia laevipila*)<br />- <i>Moss, Twisted Oak</i>
 
 ##### Lichens
 
+Dégélie plombée (*Degelia plumbea*)<br />- <i>Lichen, Blue Felt</i>
+
 Érioderme boréal (*Erioderma pedicellatum*) population boréale<br />- <i>Lichen, Boreal Felt Boreal population</i>
 
 Leptoge à quatre spores (*Leptogium polycarpum*)<br />- <i>Lichen, Peacock Vinyl</i>
@@ -3812,7 +3826,7 @@ Pseudocyphellie des forêts surannées (*Pseudocyphellaria rainierensis*)<br />-
 Sclérophore givré (*Sclerophora peronella*) population de la Nouvelle-Écosse<br />- <i>Glass-whiskers, Frosted Nova Scotia population</i>
 
 
-> 2002, ch. 29, ann. 1; DORS/2005-14, art. 1 à 53; DORS/2005-224, art. 1 à 32; DORS/2006-60, art. 1 et 2; DORS/2006-189, art. 1 à 22, 23(F) et 24 à 26; DORS/2007-284, DORS/2009-86; DORS/2010-32, 33; DORS/2011-8, 128, 233; DORS/2012-133; DORS/2013-34; DORS/2014-274; DORS/2017-10; DORS/2017-59.
+> 2002, ch. 29, ann. 1; DORS/2005-14, art. 1 à 53; DORS/2005-224, art. 1 à 32; DORS/2006-60, art. 1 et 2; DORS/2006-189, art. 1 à 22, 23(F) et 24 à 26; DORS/2007-284, DORS/2009-86; DORS/2010-32, 33; DORS/2011-8, 128, 233; DORS/2012-133; DORS/2013-34; DORS/2014-274; DORS/2017-10, 59, 112.
 
 
 
