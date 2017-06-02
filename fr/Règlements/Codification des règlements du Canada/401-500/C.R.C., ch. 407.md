@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20407.md)
 
-# Règlement concernant les renseignements sur la composition chimique des combustibles
+# Règlement no 1 concernant les renseignements sur les combustibles
 
 **C.R.C., ch. 407**
 
@@ -10,11 +10,7 @@ Autorités habilitantes :
 ----------
 
 
-
-## Titre abrégé
-
-
-**1** Le présent règlement peut être cité sous le titre : Règlement no 1 concernant les renseignements sur les combustibles.
+**1** [Abrogé, DORS/2017-110, art. 2]
 
 
 
@@ -54,9 +50,24 @@ Autorités habilitantes :
 
 
 
+**6** 
+
+- **(1)** Les renseignements requis par le présent règlement sont transmis électroniquement en la forme précisée par le ministre et portent la signature électronique d’un agent autorisé.
+
+- **(2)** Si le ministre n’a pas précisé de forme au titre du paragraphe (1) ou si, en raison de circonstances indépendantes de sa volonté, la personne qui transmet les renseignements n’est pas en mesure de le faire conformément à ce paragraphe, elle les transmet sur support papier signé par un agent autorisé, en la forme précisée par le ministre le cas échéant.
+
+- **(3)** Pour l’application des paragraphes (1) et (2) et de l’annexe, ***agent autorisé*** s’entend :
+	- **a)** dans le cas d’une personne morale, de celui de ses dirigeants autorisé à agir en son nom;
+	- **b)** dans le cas de toute autre personne, de celle-ci ou de la personne autorisée à agir en son nom;
+	- **c)** dans le cas de toute autre entité, de la personne autorisée à agir en son nom.
+> DORS/2017-110, art. 3.
+
+
+
+
 
 ### **ANNEXE** 
-**(articles 4 et 5)**
+**(articles 4 à 6)**
 ### **FORMULE 1** 
 ## Rapport sur la teneur en soufre
 Période visée par le rapport 
@@ -72,22 +83,90 @@ Adresse de l’installation
 
 
 <table>
-<h4>Combustibles produits ou importés pour utilisation ou vente au Canada</h4>
+<h4>Combustibles produits ou importés au Canada</h4>
+<tr>
+<th></th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
+<th>Colonne 3</th>
+<th>Colonne 4</th>
+<th>Colonne 5</th>
+</tr>
 <tr>
 <th>Article</th>
 <th>Nom du combustible</th>
-<th>Quantité de combustible raffiné, produit ou importé (mètres cubes)</th>
-<th>Densité A.P.I.</th>
-<th>Teneur en soufre (% en poids)</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Teneur en soufre (mg/kg)</th>
 </tr>
 <tr>
+<th>Quantité produite (m<sup>3</sup>)</th>
+<th>Quantité importée (m<sup>3</sup>)</th>
+<th>Densité A.P.I. ou masse volumique (kg/m<sup>3</sup>)</th>
 <th>Maximale</th>
 <th>Minimale</th>
 <th>Moyenne pondérée</th>
 </tr>
 <tr>
 <td>1</td>
-<td>Carburant d’aviation</td>
+<td>Carburant aviation</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**a)** essence aviation
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**b)** jet A
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**c)** jet A-1
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**d)** jet B
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**e)** autre (veuillez préciser)
+
+</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -102,9 +181,10 @@ Adresse de l’installation
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>**a)** sans plomb
+<td>**a)** ordinaire
 
 </td>
 <td></td>
@@ -112,11 +192,13 @@ Adresse de l’installation
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>**b)** ordinaire
+<td>**b)** intermédiaire
 
 </td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -132,10 +214,56 @@ Adresse de l’installation
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr>
+<td>**d)** supercarburant de qualité supérieure
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**e)** autre (veuillez préciser)
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>3</td>
-<td>Kérosène et huile à usages domestiques</td>
+<td>Kérosène</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**a)** kérosène
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**b)** autre (veuillez préciser)
+
+</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -144,7 +272,52 @@ Adresse de l’installation
 </tr>
 <tr>
 <td>4</td>
-<td>Carburant pour diesel (par type)</td>
+<td>Carburant diesel (par la teneur en soufre)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**a)** inférieure ou égale à 15 mg/kg
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**b)** supérieure à 15 mg/kg et inférieure ou égale à 1 000 mg/kg
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**c)** supérieure à 1 000 mg/kg
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**d)** autre (veuillez préciser)
+
+</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -153,7 +326,85 @@ Adresse de l’installation
 </tr>
 <tr>
 <td>5</td>
-<td>Fuel-oil léger n<sup>o</sup> 2</td>
+<td>Mazout de chauffage</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**a)** type 0 (n<sup>o</sup> 0)
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**b)** type 1 (n<sup>o</sup> 1)
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**c)** type 2 (n<sup>o</sup> 2)
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**d)** type 4 (n<sup>o</sup> 4)
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**e)** type 5 (n<sup>o</sup> 5)
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**f)** type 6 (n<sup>o</sup> 6)
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**g)** autre (veuillez préciser)
+
+</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -162,37 +413,8 @@ Adresse de l’installation
 </tr>
 <tr>
 <td>6</td>
-<td>Fuel-oil lourd</td>
+<td>Pétrole synthétique (vendu comme combustible)</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>**a)** n<sup>o</sup> 4
-
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>**b)** n<sup>o</sup> 5
-
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>**c)** n<sup>o</sup> 6
-
-</td>
 <td></td>
 <td></td>
 <td></td>
@@ -201,35 +423,24 @@ Adresse de l’installation
 </tr>
 <tr>
 <td>7</td>
-<td>Pétrole synthétique (vendu comme combustible)</td>
+<td>Tout combustible non mentionné aux articles 1 à 6</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td>8</td>
-<td>Tout combustible, qui ne figure pas aux articles 1 à 5</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>(Signature du représentant autorisé de la société)</td>
-</tr>
-<tr>
-<td></td>
-<td>(Titre)</td>
-</tr>
-<tr>
-<td></td>
-<td>(Date de la signature)</td>
 </tr>
 </table>
+
+_________________________ (Signature de l’agent autorisé)
+
+
+_________________________ (Titre)
+
+
+_________________________ (Date de la signature)
+
 
 ### **FORMULE 2** 
 ## Rapport sur les additifs de combustible
@@ -322,6 +533,6 @@ Adresse
 </tr>
 </table>
 
-> DORS/79-280, art. 3 et 4; DORS/80-138, art. 1.
+> DORS/79-280, art. 3 et 4; DORS/80-138, art. 1; DORS/2017-110, art. 4 et 5.
 
 
