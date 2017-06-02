@@ -1833,6 +1833,20 @@ dans l’année suivant le 30 avril de l’année suivant celle visée par le c
 
 
 
+### Numéro d’assurance sociale
+
+
+**88** 
+
+- **(1)** Le ministre ou le ministre du Revenu national peut faire attribuer un numéro d’assurance sociale à quiconque n’en a pas.
+
+- **(2)** L’un ou l’autre de ces ministres peut faire délivrer une carte matricule d’assurance sociale à quiconque s’est fait attribuer un numéro d’assurance sociale en vertu du paragraphe (1).
+> DORS/2017-120, art. 1.
+
+
+
+
+
 ### **ANNEXE I** 
 [Abrogée, DORS/2002-245, art. 3]
 
