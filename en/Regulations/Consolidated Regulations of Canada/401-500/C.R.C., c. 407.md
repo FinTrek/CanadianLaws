@@ -1,6 +1,6 @@
 > [Go to French version](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20407.md)
 
-# Regulations Respecting Information Regarding the Chemical Composition of Fuels
+# Fuels Information Regulations, No. 1
 
 **C.R.C., c. 407**
 
@@ -10,11 +10,7 @@ Enabling authorities:
 ----------
 
 
-
-## Short Title
-
-
-**1** These Regulations may be cited as the Fuels Information Regulations, No. 1.
+**1** [Repealed, SOR/2017-110, s. 2]
 
 
 
@@ -54,9 +50,24 @@ Enabling authorities:
 
 
 
+**6** 
+
+- **(1)** Information that is required under these Regulations shall be sent electronically in the form and format specified by the Minister and shall bear the electronic signature of an authorized official.
+
+- **(2)** If the Minister has not specified an electronic form and format or if it is impractical to send the information electronically in accordance with subsection (1) because of circumstances beyond the control of the person sending the information, they shall send it on paper, signed by an authorized official, in the form and format specified by the Minister. However, if no form and format have been so specified, the information may be in any form and format.
+
+- **(3)** For the purposes of subsections (1) and (2) and the schedule, an ***authorized official*** is
+	- **(a)** in respect of a corporation, an officer of the corporation who is authorized to act on its behalf;
+	- **(b)** in respect of any other person, that person or a person authorized to act on behalf of that person; and
+	- **(c)** in respect of any other entity, a person authorized to act on its behalf.
+> SOR/2017-110, s. 3.
+
+
+
+
 
 ### **SCHEDULE** 
-**(Sections 4 and 5)**
+**(Sections 4 to 6)**
 ### **FORM 1** 
 ## Report on Sulphur Content
 Reporting Period 
@@ -72,13 +83,22 @@ Facility Address
 
 
 <table>
-<h4>Fuels Produced or Imported for Use or Sale in Canada</h4>
+<h4>Fuels Produced in or Imported into Canada</h4>
+<tr>
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
+<th>Column 3</th>
+<th>Column 4</th>
+<th>Column 5</th>
+</tr>
 <tr>
 <th>Item</th>
 <th>Name of Fuel</th>
-<th>Quantity Refined, Produced or Imported (Cubic Metres)</th>
-<th>API Gravity</th>
-<th>Sulphur Content (Weight %)</th>
+<th>Quantity Produced (m<sup>3</sup>)</th>
+<th>Quantity Imported (m<sup>3</sup>)</th>
+<th>API Gravity or Density (kg/m<sup>3</sup>)</th>
+<th>Sulphur Content (mg/kg)</th>
 </tr>
 <tr>
 <th>Highest</th>
@@ -87,7 +107,63 @@ Facility Address
 </tr>
 <tr>
 <td>1</td>
-<td>Aviation Turbo Fuel</td>
+<td>Aviation fuel</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(a)** Aviation gasoline
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(b)** Jet A
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(c)** Jet A-1
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(d)** Jet B
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(e)** Other (specify)
+
+</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -96,17 +172,8 @@ Facility Address
 </tr>
 <tr>
 <td>2</td>
-<td>Motor Gasoline</td>
+<td>Gasoline</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>**(a)** lead free
-
-</td>
 <td></td>
 <td></td>
 <td></td>
@@ -114,9 +181,10 @@ Facility Address
 <td></td>
 </tr>
 <tr>
-<td>**(b)** regular
+<td>**(a)** Regular
 
 </td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -124,9 +192,43 @@ Facility Address
 <td></td>
 </tr>
 <tr>
-<td>**(c)** premium
+<td>**(b)** Mid-grade
 
 </td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(c)** Premium
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(d)** Super-premium
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(e)** Other (specify)
+
+</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -135,7 +237,30 @@ Facility Address
 </tr>
 <tr>
 <td>3</td>
-<td>Kerosene and Stove Oil</td>
+<td>Kerosene</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(a)** Kerosene
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(b)** Other (specify)
+
+</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -144,7 +269,52 @@ Facility Address
 </tr>
 <tr>
 <td>4</td>
-<td>Diesel Oil (by type)</td>
+<td>Diesel fuel (by sulphur content)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(a)** Less than or equal to 15 mg/kg
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(b)** Greater than 15 mg/kg and less than or equal to 1000 mg/kg
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(c)** Greater than 1000 mg/kg
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(d)** Other (specify)
+
+</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -153,7 +323,85 @@ Facility Address
 </tr>
 <tr>
 <td>5</td>
-<td>No. 2 Light Fuel Oil</td>
+<td>Heating fuel oil</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(a)** Type 0 (No. 0)
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(b)** Type 1 (No. 1)
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(c)** Type 2 (No. 2)
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(d)** Type 4 (No. 4)
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(e)** Type 5 (No. 5)
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(f)** Type 6 (No. 6)
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(g)** Other (specify)
+
+</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -162,37 +410,8 @@ Facility Address
 </tr>
 <tr>
 <td>6</td>
-<td>Heavy Fuel Oil</td>
+<td>Synthetic crude (sold as fuel)</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>**(a)** #4
-
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>**(b)** #5
-
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>**(c)** #6
-
-</td>
 <td></td>
 <td></td>
 <td></td>
@@ -201,35 +420,24 @@ Facility Address
 </tr>
 <tr>
 <td>7</td>
-<td>Synthetic Crude (sold as fuel)</td>
+<td>A fuel other than the fuels named in items 1 to 6</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<td>8</td>
-<td>A fuel other than the fuels named in items 1 to 5</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>(Signature of Authorized Company Official)</td>
-</tr>
-<tr>
-<td></td>
-<td>(Title)</td>
-</tr>
-<tr>
-<td></td>
-<td>(Date Signed)</td>
 </tr>
 </table>
+
+_________________________ (Signature of authorized official)
+
+
+_________________________ (Title)
+
+
+_________________________ (Date Signed)
+
 
 ### **FORM 2** 
 ## Liquid Fuel Additive Report
@@ -322,6 +530,6 @@ Address
 </tr>
 </table>
 
-> SOR/79-280, ss. 3, 4; SOR/80-138, s. 1.
+> SOR/79-280, ss. 3, 4; SOR/80-138, s. 1; SOR/2017-110, ss. 4, 5.
 
 
