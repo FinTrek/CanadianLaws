@@ -8138,7 +8138,8 @@ For molecular formulae in this schedule, “n” = number of atoms.
 - **135** Hexanedioic acid, bis(2-ethylhexyl) ester, which has the molecular formula C<sub>22</sub>H<sub>42</sub>O<sub>4</sub>
 - **136** Reaction products of 2-propanone with diphenylamine
 - **137** 2-Naphthalenol, 1-[[4-(phenylazo)phenyl]azo]-, which has the molecular formula C<sub>22</sub>H<sub>16</sub>N<sub>4</sub>O
-> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194, 210; SOR/2011-25, 26, 34, 35, 140, 212, 286, 287; SOR/2012-40, 186, 187, 189, 219, 235; SOR/2013-188; SOR/2016-120, 150, 251, 308.
+- **138** Fuel Oil No. 2
+> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194, 210; SOR/2011-25, 26, 34, 35, 140, 212, 286, 287; SOR/2012-40, 186, 187, 189, 219, 235; SOR/2013-188; SOR/2016-120, 150, 251, 308; SOR/2017-113.
 
 
 
